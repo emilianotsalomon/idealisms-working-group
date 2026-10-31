@@ -1,0 +1,2527 @@
+---
+title: Die Denklehre in reindeutschem Gewande, auch zum Selbstunterricht für gebildete Leser
+author: Johann Heinrich Tieftrunk
+year: 1825
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: as converted
+source: "Halle und Leipzig: Reinicke 1825; from a scan in Seinsbyte's library; this file is the source, corrections go here"
+original_text: "ROUGH OCR, not corrected page by page: about 4% of words were wrong on a 5-page sample (2026-10-25). Google's text layer of the scan, with free rule fixes, a second OCR reading (tesseract) and a scan check of the doubtful places; read it beside the scan, do not cite from it"
+translation: none
+canonical: "[p. N] marks printed page N where its folio could be read from the scan; a page without a legible folio carries none"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: It was printed in 1825; author and edition are long past every protection, so it is free to publish.
+generated: 2026-10-25 by .scratch/idealisms-wg/circle_editions2.py (library)
+---
+
+# Johann Heinrich Tieftrunk, *Die Denklehre in reindeutschem Gewande, auch zum Selbstunterricht für gebildete Leser* (1825)
+
+Conventions: [p. N] marks printed page N where its folio could be read from the scan; a page without a legible folio carries none; paragraphs as the conversion found them; `*…*` is emphasis where the text layer kept it. Generated file — see the header for where corrections belong.
+
+< 36604796270017
+
+< 36604796270017
+
+Bayer. Staatsbibliothek
+
+Denklehre in reindeutschem Gewande, auch zum
+
+Selbstunterricht für gebildete Leser, vòn
+
+Johann Heinrich Tieftrunk , Professor der Philosophie zu Halle.
+
+Nebst einigen , auf Veranlassung eines wissenschaftlichen Briefwechsels entstandenen , noch völlig unbekannten, theils die Denklehre überhaupt , theils die Fichtesche Philosophie betreffenden,
+
+Aufsätzen von
+
+Immanuel Kant.
+
+Halle und Leipzig , bei Reinicke und Compagnie. 1.8 25 .
+
+‫اور‬
+
+[p. 1] BIBLIOTHECAR REGLAL
+
+MONACENSIS
+
+Halle, gedruckt bei Fr. Schimmelpfennig.
+
+Bayerische otsbibliothek ünchen
+
+‫اره‬
+
+Vorrede .
+
+Ich übergebe hiermit einen Versuch, dieDenklehre aufeine, der Gemeinfaſslichkeit zusagende, Weise vorzutragen.
+
+Dahin rechne ich auch, daſs man, wie auch bereits andere Denklehrer angefangen haben, statt des bunten Gewebes fremder und scholastischer Kunstworte, einheimische Ausdrücke gebrauche und somit auch diese Lehre von einem
+
+Wust befreie, der sie nur mit dem Schein einer verborgenen und dem gröſsern Theile der gebildeten Welt unzugänglichen Weisheit umhüllt. Das Bestreben, statt der fremden Ausdrücke sich einheimischer zu bedienen, darf jedoch nicht in Sprachreinigungssucht ausarten. Aber es ist die Philosophie , und namentlich die Denklehre, mit so vielen fremden, und unter diesen auch mit solchen Ausdrücken überladen, welche aus der spitzfindigen Wortbildnerei der Scholastiker herrühren und öfters kaum eine leise Spur zu dem Gedanken geben, für dessen Bezeichnung sie gestempelt sind.
+
+Da stöfst man z. B. auf die Worte: Transscendent, Transscendental ; Quantität, Qualität ; Relation , Modalität ; kategorisch , hypothetisch, disjunctiv; problematisch , assertorisch , apodictisch; synthetisch, analytisch; apriori, a posteriori; rational, empirisch; Substanz , Accidenz ; Kausalität, Realität; Negation, Limitation ; Sche ma, Schematismus , endlich gar aufBarbara, Сеlarent , Darapti, Bokardo u. s. w.
+
+Muſs einem noch unbefangenen Geiste, der die Enthüllung der Anfänge und Gesetze des , in ihm mit so vieler Einfalt waltenden, Denkund Erkenntniſs - Geschäfts 'erwartet , nicht widerlich seyn , wenn ihm , auſser den , dem Räthselgesumse aus der Höhle einer Weissagerin ähnelnden , Tönen, so viele, fremden und todten Sprachen abgeborgte und öfters nicht einmal die Spur der Urbedeutung haltenden, Worte entgegen kommen, gleich als wenn für sie kein Ausdruck in der Muttersprache zu finden wäre? ad Keine Sprache eines , auf der Bahn der Bildung begriffenen, Volks bleibt so arm , daſs sie zu einer Wissenschaft, deren Keime jeder Mensch in seinem Busen trägt, nicht auch Ausdrücke aus ihrem eignen Schooſse darreichen sollte. V
+
+Sich der mathematischen Lehrart in der
+
+Denklehre bedienen, ist ein ganz miſsverstandener Versuch , der, mit allen seinen hierzu gebrauchten Figuren , nur den Schimmer anschaulicherBeweisart vorspiegelt; die Lehren des Denkens haben aber ihre Gewiſsheit unabhängig TOD von allerAnschauung. I
+
+Sid
+
+ILSA
+
+Vom zweiten Theile der Denklehre habe ich nur die ersten Züge gegeben. Die weitere Verfolgung dieses wichtigen Gegenstandes erfordert eineignes Werkchen. Vielleicht gestatten es mir die Umstände, dieses noch nachfolgen zu lassen. Bomjad ?
+
+Halle den 9. Mai 1825. 8.
+
+athe AISE
+
+LOSA
+
+397Der Verfassen
+
+S eiw
+
+Es erfolgen hier die auf dem Titelblatte erwähnten Aufsätze von I. Kant.
+
+Jeder Freund der Wissenschaft weiſs , welchen Eindruck Kants , zwar schon durch frühere Schriften angewinktes , aber doch erst durch seine , im Jahr 1787 erschienene, „Kritik der reinen Vernunft" vollständig bezeichnetes Unternehmen auf die ganze denkende Menschheit machte.
+
+Dies Unternehmen bezielt auch nichts geringeres , als für die Erzeugung der Erkenntniſs durch reine Vernunft die Anfänge und Gründe in dem menschlichen Erkenntniſsvermögen selbst aufzusuchen und dadurch zugleich Grand- sätze der Prüfung und Berichtigung aller bis dahin aufgeführten Lehrgebäude der Philosophie aufzustelden;
+
+ein Unternehmen , dessen bloſser Gedanke schon grofs ist , wenn auch die Ausführung hinter ihm zurückgeblieben wäre. Als ich die Absicht hatte , seine Kritik der reinen Vernunft nach ihren wesentlichen Punkten kurz und fafslich darzustellen und hierbei zugleich die mir aufstofsenden Zweifel und Schwierigkeiten zu berühren , schien es mir rathsam , zuvor dem Urheber der
+
+Kritik hiervon Nachricht zu geben und ihm einige, seine Kritik betreffende , Bedenklichkeiten vorzulegen.
+
+Dies veranlaſste einen wissenschaftlichen Briefwechsel mit ihm , welcher mit dem 12. Juli 1797 anfing und bis zum 5. April 1798 fortgesetzt wurde. Durch einen Unfall waren mir die von Kant erhaltenen Briefe schon vor 20 Jahren abhanden gekommen, und ich hielt sie für ganz verloren , bis sie endlich vor einigen Wochen zufällig wieder entdeckt wurden.
+
+Dem Freunde der Wissenschaft wird es nicht unwillkommen seyn , wenn ich hier dasjenige aus diesen Briefen mittheile , was von wissenschaftlicher
+
+Bedeutsamkeit ist , und hiermit vielleicht die letzte, noch nicht bekannte , Ausbeute des tiefdenkenden
+
+Mannes , gleichsam Töne aus dem Schwanengesange des , seinen nahen Emporschwung aus dem Irdischen schon ahndenden Greises , dessen Name und Verdienst so lange auf Erden in Ehren und Andenken bleiben werden , als Wahrheit und Wissenschaft dem
+
+Menschengeschlechte theuer sind.
+
+Ich machte in meinem Schreiben unterm 5. Nov.
+
+1797 den würdigen Mann darauf aufmerksam , daſs seine Lehre über den Schematismus der reinen Verstandesbegriffe (s. Kritik derreinenVernunft S. 176ff.) sich selbst einer groſsen Bedenklichkeit unterwürfe, Es komme hier darauf an , wie reine Verstandesbegriffe auf Erscheinungen angewandt werden könnten? Um hiervon die Möglichkeit (einzusehen , (sage , die Kritik) müsse eine Gleichartigkeit der letztern mit der erstern Statt haben ; denn nur unter dieser Bedingung gestatte die Logik eine Subsumtion der empirischen Begriffe unter die reinen Verstandesbegriffe.
+
+Nun aber lehre die Kritik auch selbst , dafs die reinen
+
+Verstandesbegriffe eine ganz andere Quelle haben, 1.
+
+als die sinnlichenVorstellungen; jene entspringen aus der Verstandesthätigkeit, diese aus dem Anschauungsvermögen.; diese Verschiedenheit der Quellen bleibe aber, die Anschauungen möchten reine oder empirische seyn; und man könne sonach weder unmittelbar noch mittelbar auf irgend eine Homogenität der aus so verschiedenen Quellen stammenden Vorstellungen kommen. Diese Bemerkung machte auch auf den. Verfasser der Kritik der reinen Vernunft einen starken Eindruck, und jeder Freund der Wahrheit wird es gern vernehmen, wie der scharfsinnige For-, scher des menschlichen Erkenntniſsvermögens diese. Schwierigkeit, zu heben suche. Er antwortete Folgendes: Königsberg, den 11. December 1797 „Zerstreut durch eine Mannigfaltigkeit von Arbeiten, die sich einander wechselseitig unterbrechen , ohne doch meinen letzten Zweck der Vollendung derselben vor dem Thorschlusse aus den Augen zu verlieren, ist mir jetzt nichts angelegener, als die Stelle in Ihrem, mir sehr angenehmen, Briefe vom 5ten Novbr.: „Wie der Satz der Kritik d. r. V. S. 177, der die,
+
+‫وو‬
+
+Anwendung der Kategorien aufErfahrungen oderErscheinungen überhaupt vermittelt , von der ihm anhangenden Schwierigkeit befreiet werden könne." Ich glaube dieses jetzt aufeine Art thun zu können, die befriedigend ist und zugleich ein neues Licht über diese Stelle im System der Kritik verbreitet ; jedoch so , daſs Gegenwärtiges bloſs als roher Entwurf angesehen werden müsse und seine Eleganz nur, nachdem wir uns in ei-
+
++ nem zweiten Briefe einverständigt haben werden , er wartet.
+
+106 , 1
+
+Der Begriff des. Zusammengesetzten überhaupt ist keine besondere Kategorie , sondern in allen Kategorien (als synthetische Einheit der Apperception) enthalten. Das Zusammengesetzte nämlich kann , als solches, nicht angeschaut werden; sondern der Begriff oder das Bewusstseyn des Zusammensetzens (einer
+
+Function , die allen Kategorien , als synthetischer Einheit der Apperception , zum Grunde liegt) muſs vorher gehen, um das Mannigfaltige der Anschauung gegebene, sich in einem Bewuſstseyn verbunden , d. i., das Object sich als etwas Zusammengesetztes zu denken , welches durch den Schematism derUrtheilskraft geschieht, indem das Zusammensetzen mit Bewusstseyn zum innern Sinn, der Zeitvorstellung gemäſs , einerseits , zugleich aber auch auf das Mannigfaltige in der Anschauung gegebene , andrerseits bezogen wird. Alle Kategorien gehen auf etwas a priori Zusammengesetztes , und enthalten , wenn dieses gleichartig ist, mathematische Functionen; ist es aber ungleichartig, dynamische Functionen; z. B. was die erstern betrifft : die Kategorie der extensiven Gröfse : Eins in Vielen ; was die Qualität oder intensive Gröfse betrifft: Vieles f in Einem (Jenes die Menge des Gleichartigen, z. B. der Quadratzolle in einer Fläche) dieses der Grad (z. B.
+
+der Erleuchtung eines Zimmers). Was aber die dynamische angeht, die Zusammensetzung des Mannigfaltigen, so fern es entweder einander im Daseyn unter. geordnet ist (die Kategorie der Kausalität) oder eine der andern zur Einheit der Erfahrung beigeordnet ist (der Modalität als nothwendige Bestimmung des Daseyns der Erscheinungen in der Zeit). H. M. Beck *) könnte also wohl auch hierauf sei*) Dermalen Professor der Philosophie zu Rostock, welcher nebst andern Schriften auch neuerdings ein „Lehrbuch der nen Standpunkt von den Kategorien aus zu den Erscheinungen (als Anschauungen a priori) nehmen.
+
+Die Synthesis der Zusammensetzung des Mannigfaltigen bedarf einer Anschauung a priori, damit die reinen Verstandesbegriffe ein Object hätten und das sind
+
+Raum und Zeit. - Aber bei dieser Veränderung des
+
+Standpunkts ist der Begriff des Zusammengesetzten, der allen Kategorien zum Grunde liegt, für sich allein sinnleer; d. i. , man sieht nicht ein, daſs ihm irgend ein Object correspondire; z. B. ob so etwas , das extensive Gröfse oder intensive (Realität) ist , oder , im dynamischen Fach der Begriffe , etwas , was dem Begriffe der Kausalität (einem Verhältnifs , durch seine Existenz der Grund der Existenz eines Andern zu seyn) oder auch der Modalität, ein Object möglicher Erfahrung zu seyn, gegeben werden könne , weil es doch nur bloſse Formen der Zusammensetzung (der synthetischen Einheit des Mannigfaltigen überhaupt) sind und zum Denken, nicht zum Anschauen gehören. -
+
+Nun giebt es in der That synthetische Sätze a priori, denen Anschauung a priori (Raum und Zeit) zum Grunde liegt, mithin denen ein Object in einer nicht empirischen Vorstellung correspondirt (den Denkformen können Anschauungsformen untergelegt werden, die jenen einen Sinn und Bedeutung geben). Nicht so , Wie sind diese Sätze nun möglich ? daſs diese Formen des Zusammengesetzten in der Anschauung das Object , wie es an sich selbst ist, darstellen ; denn ich kann mit meinem Begriffe von einem Gegenstande nicht a priori über den Begriff von diesem Gegenstande hinauslangen; also nur so , daſs die Anschauungsformen nicht unmittelbar (direct) als objectiv, sondern bloſs als subjective Formen der Anschauung , wie nämLogik" herausgegeben hat; ein Werk , welches sich durch
+
+Scharfsinn und Gründlichkeit ganz vorzüglich empfiehlt. T.
+
+lich das Subject, nach seiner besondern Beschaffenheit, vom Gegenstande afficirt wird, d. i, wie er uns erscheint , nicht nach dem , was er an sich ist (also indirect), vorgestellt werden. Denn, wenn die Vorstellung auf die Bedingung der Vorstellungsart des Vorstellungsvermögens des Subjects bei den Anschauungen restringirt wird, so ist leicht zu begreifen, wie es möglich ist, a priori synthetisch (über den gegebenenBegriffhinaus.
+
+gehend) zu urtheilen und zugleich , daſs dergleichen erweiternde Urtheile auf andere Art schlechterdings un. möglich sind.
+
+Hierauf gründet sich nun der groſse Satz: Gegenstände der Sinne (des äussern sowohl als des innern)
+
+können wir nie anders erkennen , als bloſs , wie sie uns erscheinen, nicht nach dem, was sie an sich selbst sind; ingleichen: übersinnliche Gegenstände sind für uns keine Gegenstände unsers theoretischen Erkenntnisses.
+
+Da aber doch die Idee derselben wenigstens als problematisch (quaestionis instar) nicht umgangen werden kann, weil dem Sinnlichen sonst ein Gegenstück des Nichtsinnlichen fehlen würde , welches einen logischen Mangel der Eintheilung beweist: so wird das letztere zum reinen (von allen empirischen Bedingungen abgelösten) praktischen Erkenntnisse, für das theoretische aber als trans. scendent betrachtet werden müssen , mithin die Stelle für dasselbe auch nicht ganz leer seyn. Was nun die schwierige Stelle der Kritik S.177 u. ff.
+
+betrifft , so wird sie auf folgende Art aufgelöst. Die logische Subsumtion eines Begriffs unter einem höhern geschieht nach der Regel der Identität, und der niedrigere Begriff muſs hier als homogen mit dem höhern gedacht werden. Die transscendentale dagegen, nämlich die Subsumtion eines empirischen Begriffs (dergleichen die des Zusammengesetzten aus Vorstellungen des innern Sinnes ist) unter eine Kategorie subsumirt , darunter etwas dem Inhalte nach heterogenes wäre , welches der Logik zuwider ist, wenn es unmittelbar geschähe ; dagegen aber doch möglich ist, wenn ein empirischer Begriff unter einem reinen Verstandesbegriffe durch einen Mittelbegriff, nämlich dem des Zusammengesetzten aus Vorstellungen des innern Sinnes des Subjects , so fern sie , den Zeitbedingungen gemäſs , a priori nach einer allgemeinen Regel ein Zusammengesetztes darstellen , enthält , welches mit dem Begriffe eines Zusammengesetzten überhaupt (dergleichen jede Kategorie ist) homogen ist und so unter dem Namen eines Schema die Subsumtion der Erscheinungen unter dem reinen Verstandesbegriffe ihrer synthetischen Einheit (des Zusammensetzens ) nach, möglich macht. Die darauf folgenden Beispiele des Schematismus lassen diesen Begriff nicht verfehlen.
+
+Und nun breche ich hiermit ab bitte mich bald wiederum mit Ihrer Zuschrift zu beehren, und die
+
+Langsamkeit meiner Beantwortung meinem schwächlichen Gesundheitszustande und der Zerstreuung durch andere, an mich ergehende, Ansprüche zuzuschreiben, übrigens aber versichert zu seyn u. s. w. I. Kant.
+
+Anmerkung. Ich habe diese Auflösung buchstäblich so hingeschrieben , wie sie in dem Briefe enthalten ist. Der Leser wird aber wohl merken , dafs die Worte mitunter keinen sprachrichtigen Zusammenhang darbieten; worauf aber auch der Verfasser selbst in einer untergefügten Anmerkung hindeutet, indem er sagt: „Sie werden hier die Flüchtigkeit und
+
+Kürze bemerken, der in einem andern Aufsatze wohl nachgeholfen werden könnte." Er würde dies gewiſs auch noch selbst gethan haben; allein man weiſs , daſs seine Alters- , besonders Gedächtniſs - Schwäche ihm öfters , wenn er eine Weile scharf nachgedacht hatte , gebot , einzuhalten , welches auch wohl in dem Augenblicke , da er diesen etwas langen T. Brief geschrieben hatte , der Fall war.
+
+Königsberg den 13 Oct. 1797 ;
+
+den 6. Febr. 1798; den 5. April 1798 *).
+
+„Ihren Vorsatz eines erläuternden Auszugs aus meinen kritischen Schriften , ingleichen , daſs Sie mir die Mitwirkung dazu erlassen wollen , nehme ich dankbar an."
+
+Zum Gelingen dieses Vorsatzes wäre es , meiner Meinung nach , sehr dienlich , Kürze und Präcision der Lehrsätze im Text , der Uebersicht halber , zu beobachten , die ausführliche Erörterung derselben aber , wie z. B. die mit S. 210. (der Kr. d. r. V.) zu vergleichende S. 413. in die Anmerkungen zu werfen : wenn von der intensiven Grösse (in Beziehung des Gegenstandes der Vorstellung auf den Sinn) in Vergleichung mit der extensiven (in Beziehung auf das bloſse Formale der reinen sinnlichen Anschauung ) die Rede ist. Doch ich besorge, mit diesen meinen Anrathen selbt undeutlich zu werden.
+
+Bei dieser Gelegenheit bitte ich zugleich , meiner hyperkritischen Freunde, Fichte und Reinhold, mit der Behutsamkeit zu gedenken , deren ihre Verdienste um die Wissenschaft vollkommen werth sind. **)
+
+Daſs meine Rechtslehre bei dem Verstoſs gegen manche, schon für ausgemacht gehaltene, Principien viele Gegner finden würde, war mir nicht unerwartet. Um desto angenehmer ist es mir, zu vernehmen, daſs sie Ih. ren Beifall erhalten hat. Die Göttingesche Recension im.
+
+28. Stück der Anzeigen , die im Ganzen genommen mei*) Ich hebe aus diesen Briefen hier hinter einander nur dasjenige aus , was mir von wissenschaftlicher Bedeutsamkeit zu seyn scheint.
+
+т.
+
+** ) Den Auszug aus Kants kritischen Schriften habe ich nicht herausgegeben; da inzwischen von andern Gelehrten Auszüge erschienen , welche meine Arbeit entbehrlich machten.
+
+т.
+
+X111 nem System nicht ungünstig ist, wird mir Anlaſs geben, in einer Zugabe manche Miſsverständnisse ins Klare zu setzen , hin und wieder auch das System zur Vollständigkeit zu ergänzen. Meinen Freund , Hrn. Prof. Pörschke , bitte ich, wenn sich dazu Veranlassung finden möchte , wegen seiner im Ausdruck etwas heftigen Manier , die doch mit sanften Sitten verbunden ist , mit Wohlwollen zu behandeln.
+
+Mit seinem Grundgesetz :
+
+,, Mensch sey
+
+Mensch," hat er wohl nichts anders sagen wollen, als : „Mensch als Thierwesen , bilde dich zum Moralischen Wesen aus" u. s. w.
+
+Was halten Sie von Hrn. Fichte's allgemeiner Wissenschaftslehre ? einem Buche, welches er mir.
+
+vorlängst zugeschickt hat , dessen Durchlesung ich aber, weil ich es weitläuftig und meine Arbeiten zu sehr unterbrechend fand , zur Seite legte und jetzt nur aus der Recension in der A. L. Z. kenne,
+
+Für jetzt habe ich nicht die Muſse , es zur Hand zu nehmen , aber die Recension (welche mit vieler Vorliebe des Recensenten für Hrn. Fichte abgefasst ist) sieht mir wie eine Art von Gespenst aus , was , wenn man es gehascht zu haben glaubt , man keinen Gegenstand, sondern immer nur sich selbst und zwar hiervon auch nur die Hand , die darnach hascht , vor sich findet. *) Das bloſse Selbstbewuſstseyn und zwar nur der Gedankenform nach , ohne Stoff, folglich ohne daſs die Re7 flexion darüber etwas vor sich hat , worauf es angewandt
+
+*) Wie treffend spricht hier der scharfsinnige Mann über dies Unternehmen des Hrn . Fichte und hiermit zugleich über alle , welche ein ähnliches , wie Fichte , unternehmen und ihre Forschung für Transscendental -Philosophie halten , ohne dass sie auch nur eine Spur von Kritik des menschlichen Erkenntniſsvermögens darbietet.
+
+werden könne und selbst über die Logik hinausgeht, macht einen wunderlichen Eindruck auf den Leser.
+
+Schon der Titel (Wissenschaftslehre) erregt , weil jede systematisch geführte Lehre Wissenschaft ist, wenig Erwartung für den Gewinn, weil sie eine Wissenschaftswissenschaft und so ins Unendliche andeuIhr Urtheil *) darüber und auch , welche ten würde.
+
+Wirkung es auf Andere Ihres Orts hat, möchte ich doch gerne vernehmen. I. Kant.
+
+*) Dieses findet man in der Revision der allgem. Litteratur1.0
+
+Zeitung.
+
+T.
+
+mistat DO LOV
+
+3* AF ?
+
+7.
+
+Ein-
+
+## Einleitung in die Denklehre.
+
+Ich denke. Dies ist die merkwürdige Thatsache meines Innern , über welche sich die Denkleh-
+
+Te ausbreitet ; merkwürdig auch dadurch , daſs sie das Erste ist , wodurch sich der Mensch aus der Thierheit hervorhebt. Denn der erste Funke , welchen meine Denkkraft in mir sprühte, war auch, wie dunkel mir es auch damals noch seyn mochte , der Beginn, mich und die Welt in einer Wesenheit und Ordnung zu erblicken , die kein Sinn enthüllt und keine Schaukraft erreicht.
+
+Diese merkwürdige Thatsache zu entwickeln, dem ihr , im Hintergrunde meines Innern obwaltenden Thun und Treiben auf die Spur zu kommen; dieses bis zu seinen ersten Anfängen und Keimen zu verfolgen; sein Verfahren und die Gesetze seines Verfahrens zur Klarheit zu bringen und zu zeigen , wie wir an ihnen den Leitstern haben , um zum Heiligthum der Menschheit , zur Wahrheit und zur Feste der Wahrheit , zur Wissenschaft zu gelangen; dies ist die Angelegenheit der Denklehre.
+
+Wessen bin ich mir nun schon , bloſs dadurch , daſs ich denke, bewuſst ? Was liegt schon in die [p. 2] sem Bewusstseyn , so , daſs ich nicht nöthig habe , über dasselbe hinaus , sondern nur in dasselbe hinein zu gehen , um mir klar zu machen , was unmittelbar aus ihm entnommen werden kann ?
+
+Ich denke. Ich kann nicht denken , daſs ich denke, ohne zu denken, daſs Ich es bin , und ich das Wesen selbst bin , welches denkt; daſs ich, der ich denke, immer nur Einer , keine Mehrheit, immer nur Derselbe und kein Anderer bin.
+
+Mögen die Zustände meines Daseyns noch so mannigfaltig und wandelbar seyn; Ich als Ich , so fern ich denke, bin mir selbst immer nur Einer und Derselbe.
+
+Es geht mir somit durch meinDenken das Bewuſstseyn meines Selbsts , hiermit das meiner eignen Persönlichkeit , mein Selbstbewuſstseyn, auf und eben dieser Gedanke meiner Ichheit und Persönlichkeit ist selbst der wichtigste Gedanke, den Ich und jeder Eine wie Ich, nur je haben kann. Er ist mir so wichtig, daſs , wenn ich nur denke , dieses Bewusstseyn meines Selbst, mein Ich, könne je in die Vernichtung übergehen , ich schon bloſs vor diesem Gedanken erbebe.
+
+Ich kann aber auch nicht denken, ohne mir in diesem Denken, es sey dunkel oder klar , bewuſst zu seyn, daſs ich , indem ich denke , thätig und nur thätig bin. Indem ich denke , thue und wirke ich. Ich mag viel leiden , indem ich denke , aber mein Denken selbst ist kein Leiden; es ist Thätigkeit oder überall nichts.
+
+[p. 3] Ich kann diese Thätigkeit meines Denkens nicht denken , ohne sie als eine innere , meinem Selbst angehörige Thätigkeit , nur als ein Wirken in mir, nimmer als das Wirken eines Andern , zu denken. Ich kann wohl denken , daſs Andere sind , die denken wie ich, aber ich kann nicht denken , daſs
+
+Andere in mir oder Ich in Andern denke; sondern nur denken , daſs jeder , welcher denkt, nur selbst und nur in und durch sich selbst denkt. Das Denken ist also eine , meinem Ich innwohnende , völlig innere Wirksamkeit.
+
+Woher weiſs ich aber , daſs ich denke ?
+
+Wie komme ich überall zu diesem Gedanken? Ich komzu diesem Gedanken durch das Bewusstseyn, daſs er, wie jeder Gedanke , bloſs als Gedanke betrachtet, die Folge und Wirkung aus einem Grunde und einer
+
+Wirksamkeit sey, welche ich nur als die meinige und meine innere denken kann. Diese Wirksamkeit denke und benenne ich dann nach dem , was ihre
+
+Folge ist, nach dem Gedanken ; ich nenne sie also Denkthätigkeit, Denk kraft. Dasjenige in mir, was der Grund des Gedankens ist , kann ich nur denken, den Gedanken aber, der die Folge aus diesem Grunde ist , kann ich nicht bloſs denken, sondern auch erkennen.
+
+So wird mir der Gedanke der Grund des Erkennens meinerDenkthätigkeit ;
+
+ich weiſs , daſs ich denke; die Denkthätigkeit aber ist der Grund des Daseyn's meiner Gedanken , ich weiß , daſs alle Gedanken ihrDaseyn nur dureh eine, mir eigne und innere Wirksamkeit haben können. 1*
+
+[p. 4] Ich kann aber auch nicht denken , ohne durch mein Denken auf das Denken eines Etwas gerichtet zu seyn , was ich als Stoff, Inhalt oder Gegenstand von meinem bloſsen Denken unterscheide. Ich kann aber auch nicht denken , ohne mir bewuſst zu werden , daſs ich durch mein Denken selbst an eine gewisse Art und Weise meines Denkens gebunden sey. Denken , ohne auf irgend eine Weise zu denken , ist mir nicht möglich. Eine Weise aber, an welche ich durch mein Denken selbst und durch nichts auſser ihm gebunden bin, ist unumgängliche und nothwendige Weise meines Denkens. Ich kann den Stoff , (die Materie) meines Denkens nicht denken , ohne ihn von der Weise ( der
+
+Form) meines Denkens zu unterscheiden. Ich kann aber nun auch den Stoff nicht bedenken , ohne ihn in der Art und Weise zu bedenken , an welche mein Denken durch sich selbst und unumgänglich gebunden ist. Kann ich den Stoff nicht bedenken , als allein auf die Weise , an welche mein Denken durch sich selbst gebunden ist , so kann ich ihn nicht bedenken, ohne an ihm die Weise meines Denkens zu erweisen.
+
+Ich erweise also die Weise meines Denkens an einem Stoffe des Denkens, wenn ich ihn bedenke; und ich bedenke den Stoff, wenn ich mich bestrebe, die Weise meines Denkens an ihm zu erweisen.
+
+Auſser der Weise meines Denkens giebt es durch dieses Denken, es an und für sich allein genommen , nichts was es erweisen könnte. Die Thä [p. 5] tigkeit des Denkens und die Weise dieses Denkens ist demnach alles , was mir mein Denken durch sich selbst , aus sich selbst und von sich selbst zum Bedenken giebt. Will es sich nun noch an Etwas, was nicht es selbst und nicht seine bloſse Weise ist, erweisen , so muſs ihm dies anderswoher und durch etwas Anderes dargeboten werden.
+
+Hier zeigt sich nun eine wundersame Eigenheit meines Denkens.
+
+Ich kann nicht allein alles , was mir , aufser meinem Denken , als Stoff zum Denken dargeboten wird , bedenken , sondern auch, durch mein Denken , mein Denken selbst und die Weise meines Denkens zum Stoff und Gegenstand meines Denkens machen. Und dies habe ich ja schon durch alles dasjenige , was ich bisher über mein Denken selbst sagte, gethan und will es noch weiter thun. t
+
+Dennoch leuchtet mir aber auch durch Nachdenken über mein Denken ein, daſs mir der Morgen mei nes Denkens nie aufgegangen wäre und aufgehen könnte , wäre mir nie ein Stoff, ausser meinem
+
+Denken , zum Bedenken dargeboten worden.
+
+Ohne durch solche Darbietungen zum Denken und Bedenken veranlaſst und aufgeboten zu seyn , wäre mein Denkvermögen immerdar im Reiche der bloſsen Möglichkeiten , gleich wie in einem Schlummer , ver blieben und somit mir auch nicht einmal der Gedanke meines Denkens, hiermit auch nicht der Gedanke meines denkenden Selbsts , hiermit auch nicht der Gedanke meiner Ichheit und Persönlichkeit aufgegangen.
+
+[p. 6] '
+
+So aber entstanden und entstehen mir solche
+
+Darbietungen und ich werde mir derselben bewuſst ; ich gehe mit meinem Denken auf sie ein ; auf alles , was sich mir in meinem Innern , von meinem Selbst , auf alles, was sich mir vom Aeuſsern , von meinem Nichtselbst darbietet; über dies alles schalte und walte ich nun denkkräftig und denkthätig; und so geht mir eben in dieser Schaltung und Waltung die Sonne auf, wie über mein Selbst und meine Ichheit , so über mein Nichtselbst und die Außen welt. Wie und woher kommen mir aber die DarA bietungen ? wie kommen sie zu meinem Denken und wie kommt mein Denken zu ihnen ?
+
+Ich werde mir bewuſst , solche Darbietungen zu haben , ohne sie zu bedenken ; sie auch noch zu bedenken , wenn ich sie nicht mehr habe. Aber ich werde mir bewuſst, nichts , was mehr , als bloſses Denken und Denkweise ist , durch mein Denken erdenken und so1.
+
+mit nichts bedenken zu können , wenn es mir nicht durch eine andere Quelle , als mein Denken selbst ist , dargeboten wird. In dieser Entblöfstheit meines Denkens , an und für sich ; in dieser Beschränktheit desselben auf seine Thätigkeit und die dieser angestammte Weise ihres Thuns; aber doch auch zugleich in der ihr eben so ursprünglich angestammten Richtung und Strebsamkeit , aus sich herauszugehen und Stoffe , die sie sich selbst nicht schaffen kann , ihrer Schaltung und Waltung zu unteriverfen , stöfst sie aus sich selbst die
+
+Frage für mein Ich hervor:
+
+Wie und woher kom [p. 7] men mir die Stoffe; wie kommen sie zu meinem Denken?
+
+wie kommt mein Denken zu Ihnen ?
+
+Diese Frage beantwortet sich in meinem Bewuſstseyn durch das Bewuſstseyn eines, vom Denken verschiedenen und, gleich wie das Denken , auf Erkenntniſs gerichteten Vermögens meiner Ichheit , Anschauungsvermögen genannt. Durch dieses , als ein meinem Ich , gleich wie das Denken , zum Behuf des Erkennens, angestammte
+
+Vermögen gelange ich zu Vorstellungen , in und mit welchen das Bewusstseyn des Daseyns der Dinge unmittelbar verbunden ist. Ich unterscheide , wenn ich hierüber nachdenke , mein Anschauen von den Dingen , welche ich anschaue; aber mein Anschauen selbst ist unzertrennlich mit dem Bewusstseyn der Dinge verknüpft und, wenn ich mir des Dinges und des Daseyns desselben nicht bewuſst bin, so ist dieses Bewuſstseyn das bloſse Denken eines Etwas ohne Anschauung desselben. Anschauen oder unmittelbares
+
+Bewuſstseyn des Daseyns eines Dinges , ist daher ein und dasselbe in meinem Innern.
+
+Wenn ich einen
+
+Schall höre , einen Baum sehe , einen Stein berühre, wenn ich meine eignen Zustände auffasse , Lust und Unlust , Begierden und Abscheu empfinde , überhaupt , wenn ich etwas gewähre; so ist dies ein Anschauen und dieses Wort, welches eigentlich nur von
+
+Gewahrungen durchs Gesicht gilt, wird hier in der weiten Bedeutung genommen und bezeichnet jede Gewahrung oder jedes , mit dem Bewuſstseyn des Daseyns der Dinge unmittelbar verbundenes Vorstellen ;
+
+[p. 8] also ein Vorstellen , welches auch ohne ein Denken in mir möglich ist.
+
+So führt mich die Entwickelung meines Erkennens auf zwei , meiner Ichheit angestammte Vermö . gen; auf ein Vermögen des Anschauens und ein Indem ich anschaue, Vermögen des Denkens. denke ich nicht und indem ich denke , schaue ich nicht an ; aber ich kann beides miteinander verbinden, das Denken zum Anschauen und das Anschauen zum Denken.
+
+Ich muss aber auch beides verbinden , wenn es in mir zur vollendeten Erkenntniſs kommen soll.
+
+Es müssen in mir die Anschauungen zur Denkkraft treten , wenn es diesem nicht an Stoff und Gegenständen gebrechen soll; es muſs die
+
+Denkkraft zur Anschauung treten ,, wenn diese nicht blind und unverständlich bleiben soll.
+
+Ieh muſs aber wohl merken , daſs das Anschauen undDenken , an welche die volle Ausübung meines Erkenntniſsvermögens gebunden ist, zwei verschiedene Vermögen sind. Beide wirken zwar nur in Verbindung; beide bestehen aber auch für sich allein ;
+
+denn ich kann allerdings auch noch etwas denken , was ich nicht anschaue , und etwas anschauen , was ich nicht denke. Auch geht die Arbeit des Denkens erst an , wenn ihm die Anschauung mit ihren Darbietungen entgegen kommt; es ist daher in Ansehung des Stoffs für seine Thätigkeit von dem unmittelbaren Bewustseyn desDaseyns derDinge, das heifst von dem Anschauen abhängig. Aber eine solche Getrenntheit des Denkens vom Anschauen ; die Notwendigkeit , daſs sich das r.
+
+[p. 9] Denken erst auf die Anschauung erstrecken müsse, wenn es Verständlichkeit derselben erreichen will; die mühsame Arbeit , welche es verwenden muſs, um seinen Zweck zu erreichen; dies alles darf ja bei allen erkennenden Wesen eben nicht auch also seyn , gewiſs nicht bey einem Wesen , welches wir als das Alwissende denken.
+
+Wir können uns also Wesen denken, bei welchen Denken und Anschauen kein Getrenntes sind, welche, indem sie denken, auch anschauen und indem sie anschauen, auch denken; in welchen also Denken und Anschauen Eins ist. Bei diesen würde das Erkenntniſsvermögen ein solches seyn , welches unbe. dingtselbstthätig anschaute. Wie mühsam ist es unserm Denken , in die Tie1 fe einzudringen , sey sie die unsers eignen Innern oder die der Auſsenwelt ?
+
+Wie ſchwer hält es , dem, sich uns öffnenden , Schauplatz der Welt die Verständlichkeit abzugewinnen ? Wie schwer, wir mögen mit unsrer Denkthätigkeit bei den uns nahe umschwebenden Dingen weilen oder bis zum fernen Prachtgebäude des bestirnten Himmels hinaufstreben? Mühsam müssen wir von Theil zu Theil , von
+
+Kräften zu Kräften , von Ordnungen zu Ordnungen fortschreiten und es ist daher bei uns die Erkenntniſs der Theile die unumgängliche Bedingung der Erkenntniſs eines Ganzen.
+
+Sollte dies wohl bei allen erkennenden Wesen auch also seyn ? wohl nicht. Ein Wesen , dessen Anschauung selbst denkkräftig und dessen Denkkraft selbst anschau [p. 10] end wäre , ein solches hätte nicht nöthig durch die Erkenntnifs der Theile zur Erkenntnifs des Ganzen zu gelangen , vielmehr würde es mit dem Ganzen die Theile und mit den Theilen das Ganze in einer und derselben Erkenntniſsthätigkeit fassen und befassen. Aber wie eine solche Art des Erkennens auch nur möglich sey , davon haben wir selbst nicht die geringste Erkenntniſs. Nur den Gedanken haben wir dazu und zwar dadurch , daſs wir , im Nachdenken über das Wesen unsers Erkennens , uns der
+
+Schranken desselben, hierbei aber uns gar nicht der Nothwendigkeit bewuſst sind, diese Schranken unsers Erkennens für die Schranken aller erkennendenWesen zu halten , gewiſs nicht dessen , das wir als ein allwissendes Wesen denken.
+
+Wir bleiben nun bey dem uns. verliehenen Erkenntnifsvermögen. zwei Bestandtheile.
+
+Dieses spaltet sich offenbar in Das Eine ist ein Vermögen des Anschauens durch Empfindung ; dieses bietet uns zwar etwas als Stoff und Gegenstand zum Denken dar , aber es selbst vermag nicht, eben dieses Dargebotene zu denken und zu bedenken; das Zweitę ist ein Vermögen des Denkens durch Begriffe; dieses ist zwar durch sich selbst auf Gegenstände gerichtet ; aber es selbst vermag nicht , sich diese Gegenstände auf irgend eine Art zu geben. In uns gelangt also dieDenkkraft zu den Dingen nur durch die Anschauung und die Anschauung zur Verständlichkeit nur durch das Denken. Versagt sich Eins dem Andern , so haben wir Anschauungen ohne
+
+[p. 11] Gedanken oder Gedanken ohne Anschauung; wir ha den dann sinnleere Gedanken oder gedankenloose Sinnungen. Sonach sind in uns und in allen Wesen , die erkennen wie wir , das Anschauen und das Denken zwei unterschiedene , aber einander ergänzende und nothwendige Bestandtheile des Erkennens.
+
+MeinAnschauungsvermögen ist es nun, wodurch das Zuströmen derVorstellungen vonDingen in meine Ichheit bemöglicht wird und in dieser Ichheit , wie in einem einigen Punkten vereinigt , mir , wie durch einen Wiederstrahl der Dinge die Vertreter und Verkünder der Welt werden.
+
+Von solcher Bedeutsamkeit ist mir mein Anschauungsvermögen !
+
+Aber eben in dieser Betrachtung meines Wesens stoße ich auch auf ein Räthsel, das ich wohl verstehen , aber nicht entziffern , wohl bewundern, aber nicht ergründen kann. Dieses Räthsel ist folgendes: Das Vermögen des Anschauens ist wie das des Denkens , mein Vermögen ; die mir durch dasselbe werdenden Vorstellungen sind meine Vorstellungen; demnach ist die Anschauung, die in mir ist, zugleich ein Etwas, wodurch auch etwas, was nicht in mir ist, die Aussenwelt, vorgestellt wird. Wie ist dies möglich ? Die Antwort kann immer keine andere seyn , als diese : es ist so und wie dies möglich sey , das ist nicht weiter zu ergründen. Wenn wir aber nun einmal dieses Anschauen als Thatsache unseres Bewuſstseyns , auffassen ; wenn wir das , was es ist , in seiner ganzen Ausbreitung verfolgen , so eröffnet sich uns auch [p. 12] die groſse Wichtigkeit desselben. Denn, indem dieses Anschauungsvermögen es ist , wodurch wir uns dessen, was nicht in uns ist , doch bewusst werden, gleich als wäre es in uns , werden wir durch dasselbe Wesen, die vorstellungskräftig mit Dingen , die auſser uns sind , in Verbindung treten; in eine Verbindung , wodurch sie uns und wir ihnen gegenwärtig sind.
+
+Wie weit wir also Dinge anschauen , so weit stehen sie zu uns und wir zu ihnen in einem wechselseitigen Verhältnifs. Wer will nun bestimmen, wie weit diese Gegenwart und wechselseitige Beziehung reiche ? reicht sie nur bis zum Monde , zu den Wandelsternen und zur Sonne? Nein ; reicht sie nur zu dem Sternen - Meere, Milchstraſse genannt ? Nein ; reicht sie nur zudem Meere von Milchstraſsen? Nein, sie reicht bis zu den Nebelflecken und auch hier ist noch kein Ende.
+
+Mit allem aber , wohin unser Anschauungsverntögen reicht, stehen wir und alles dieses auch mit uns in Wechselwirkung und Gemeinschaft ; alles dieses giebt sich unserm Anschauen und wir schauen es an.
+
+Aber was ist uns dieses alles, wenn wir es blos anschauen ? ein nicht Gedachtes und nicht Bedachtes. Was soll es uns aber werden , wenn wir es denken und bedenken ? eine verstandene, das heist , eine durch Denkthätigkeit erkannte Welt. Was will dies sagen ? dies will nun wiederum gar viel sagen.
+
+Wir sollen uns denkkräftig in das
+
+Anschauliche hinnein arbeiten, sollen es eben so denkkräftig auf Begriffe bringen ; sollen es eben so denkkräftig diesen Begriffen unterordnen; sollen alles und [p. 13] jedes nach seinem Inhalte und nach seinen Verhältnissen zu ergründen suchen ; endlich selbst das All der Beschaulichkeit noch auf Etwas beziehen , wofür sich uns unserAnschauungsvermögen gänzlich versagt und unsere Denkkraft nur allein stehen will.
+
+Von so groser Bedeutung ist also die Denkkraft. Aber zu allem , was sie will , kostet es Arbeit und diese Arbeit ist die Arbeit des Denkens selbst.
+
+Wenn es nun wichtig ist , zu wissen, wozu uns die Anschauung diene? so ist es auch eben so wichtig , zu wissen , wozu uns das Denken diene? Alles in der Natur ist aber seinen Gesetzen unterworfen , wir mögen diese erkennen oder nicht. Der Apfel vom Baume fällt , wenn er fällt , nach Gesetzen; der Stein, den ich werfe, nimmt seine Bahn nach Gesetzen; nach Gesetzen innt das Blut in den
+
+Adern, binden und lösen sich die Theile , gestalten und umwandeln sich die Dinge; ja die ganze Natur ist nichts anders als eine Verkettung der Dinge nach Geſetzen und nimmer erschauen wir in ihr Etwas , wovon wir befugt wären zu urtheilen : es sey gesetzlos. Eben so geschieht auch die Ausübung aller unsrer Kräfte nach Gesetzen und selbst unsre Denkkraft ist hiervon nicht ausgenommen; ja sie ist eigentlich das Vermögen der Gesetze selbt; denn ohne sie würden wir überall nichts von Gesetzen wissen ;
+
+und etwas bedenken, ist eben so viel als erwägen , ob und in wie ferne es zur Weise des Denkens , d. h.
+
+zu einer. Gesetzmäſsigkeit , deren Quelle das Denken selbst ist, zusammenstimme. DieDinge zu regeln , ist das Geschäft meines Denkens ; wie könnte ich aber die Dinge durch mein Denken regeln , wenn mein Denken nicht selbt ein Vermögen der Regeln und dadurch ein Vermögen wäre , die Dinge diesen
+
+Regeln unterzustellen?
+
+Das Geschäft der Denkkraft im Bedenken der Dinge ist daher , wie in seinem Beginnen, so in seinem Fortgange kein anderes , als ein Versuch , die Dinge ihren Regeln , ihren Weisen des Denkens , zu unterwerfen und nur in so weit ihr dies gelingt, gewinnt sie ihnen die Verständlichkeit ab. So weit ihr aber dies nicht gelingt , sind die Dinge ihr unverständlich und sollte es keinem denkenden Wesen gelingen , die Dinge der Welt unter seine Weise, Regel oder Gesetz des Denkens zu bringen , so wäre diese Welt für diese denkende Wesen eine völlig unverständliche Welt. Dem ist aber Der groſse Schauplatz der Dinge nicht also. steht unter den Regeln unseres Denkens und wir bringen ihn durchs Bedenken nach diesen Regeln auf diese Regeln und eben dadurch auf Verständlichkeit für uns und jedes Urtheil, das wir über Dinge fällen , z. B- , dieser Stein ist warm : ist ein thatsächlicher Beweis hierüber. Ist aber nun unser Denken ein Verfahren nach
+
+Regeln , sind diese Regeln selbst seine Gesetze; will es, im Bedenken der Dinge, diese seinen Gesetzen unterwerfen , beruht für unser Denken hierauf die
+
+Wahrheit der Erkenntniſs und die Erkenntniſs der
+
+Wahrheit , so kann für unser Denken selbst zuerst nichts wichtiger seyn, als das Wesen seiner Thätigkeit und die Gesetze derselben und zwar in ihrer [p. 15] ganzen Reinheit und Abgezogenheit, selbst zu erkennen .
+
+Dieses Geschäft nun unternimmt die Denklehre.
+
+Die Denklehre hat daher auch allerdings einen Gegenstand ; aber dieser Gegenstand ist kein Gegenstand aufser dem Denken, sondern das Denken selbst. Die Thätigkeit des Denkens und die Gesetze dieser Thätigkeit sind der Gegenstand und der Stoff , über welchen nachzudenken sich die Denkthätigkeit selbst aufbietet.
+
+Woher werden wir also die Erkenntniſs nehmen , welche zu erringen wir in der Denklehre beabsichtigen ? nur aus uns selbst, aus unsermInnern; aus dem Denken selbst; also durch Nachdenken über unser Denken, über das, was es durch sich selbst thut und wie es handelt , wenn es handelt.
+
+Werden wir bei der Aufsuchung der Thätigkeiten und Gesetze des Denkens auch wohl die Gegenstände aufser dem Denken zu berücksichtigen haben? Nein und auch Ja. Nein; wenn es nur darauf ankommt , das Wesen unsers Denkens , dieser köstlichen Kraft unsers Ichs , in seiner Reinheit und Absonderung aufzufassen, seine Thätigkeiten und Gesetze und mit diesen die Richtungen zur Wahrheit und Erkenntniſs der Wahrheit in ihrer Lauterkeit zu erkennen. Die Denklehre hat aber auch allerdings das Verhalten des Denkens zu den Dingen aufser dem Denken zu berücksichtigen. Denn, obgleich die Denkkraft sich die Dinge nicht selbst geben kann , so ist sie doch durch sich selbst [p. 16] =“ auf Bestimmung der Dinge gerichtet und enthält zu dieser Bestimmung Begriffe , die sie nicht erst von den Dingen entnimmt, sondern durch sich selbst denkt und nur auf das , was ihr die Anschauung darbietet, anwendet. Selbst schon der Begriff eines Dinges überhaupt , so auch derBegriffeines Dinges , was selbst kein Denken und kein Gedanke ist , sondern ein solches , welches denkt und Gedanken hat; so auch der Begriff eines Dinges , was aufser dem Denken ist, und so noch viele Begriffe sind , Begriffe , welche das Denken durch sich selbst hat. Ich kann ja gar nicht denken , daſs ich das denkende .
+
+Ding bin , ohne ein Ding zu denken , was nicht Ich, mithin ein anderes Ding ist, als ich bin. Ich kann mich selbst und ein Etwas , was nicht ich bin, nicht denken , ohne eine Vielheit der Dinge, zu denken. Diese und andere Begriffe haben ihre Wurzel selbst in der Denkkraft und gehen doch auf Dinge und BestimmungenderDinge auſser dem Denken. Wie sollte nun eine Denklehre nicht die Beziehung des Denkens aufGegenstände auſser dem Denken zu berücksichtigen haben ! Aber wie weit hat die Denklehre die Gegenstände aufser dem Denken , nur zu berücksichtigen? Nur in so weit, als die Denkkraft zur Bestimmung der Dinge, Begriffe aus sich selbst hat. Wie weit also die Kraft des Denkens mit ihren Begriffen reicht , um Dinge zu bestimmen, so weit wird auch die Lehre des Denkens diese Begriffe zu erörtern und durch sie die Dinge zu berücksichtigen haben. Ueber diese [p. 17] diese Berücksichtigung hinaus erstreckt sie sich aber auch nicht. Was also die Dinge noch sind , aufser der Weisung , welche die Denkkraft dazu giebt , darauf hat die Denklehre , wenn sie sich innerhalb ihrer Grenzen halten will , sich nicht einzulassen; denn die Denkkraft schreibt zwar Begriffe und mit diesen Gesetze vor , unter welchen die Dinge zu denken und auf Verständlichkeit zu bringen sind, aber sie schreibt den Dingen nicht vor, wie sie, noch aufser diesen Gesetzen, beschaffen und geordnet seyn sollen ; vielmehr erwartet sie dieses von der Art , wie sich die Dinge ihr zum Bedenken darbieten. Werden wir ferner in der Denklehre die besondern Beschaffenheiten des denkenden Wesens zu berücksichtigen haben? Nein und auch Ja. Nein , wenn es uns darum zu thun ist, das Wesen des Denkens , blos als solches , zur Kenntniſs zu bringen; denn hier kommt blos in Betrachtung , daſs das Wesen ein denkendes Wesen , daſs dessen
+
+Anschauung ein vom Denken unterschiedener Bestandtheil des Erkennens und die Bedingung der Anwendung des Denkens sey, daſs mithin das erkennende Wesen ein, nur wie wir erkennendes
+
+Wesen sey ; möge es im übrigen Mensch , ein so oder anders gearteter Mensch , möge es selbst kein bloſser Mensch, sondern ein über das Menschengeschlecht weit erhabenes Wesen , ein Engel, Seraph oder was sonst noch seyn; wenn es nur denkkräftig ist , wie ein Mensch , so gelten die Gesetze des Denkens auch für dasselbe. Kein Gesetz des Denkens wird also aus der Kunde derjenigen(Beschaffenheiten geschöpft wer2 [p. 18] den, die aufser dem Denken liegen und den besondern Unterschied der denkenden Wesen, auſser ihrem Denken , betreffen; die Denklehre entlehnt daher ihre Lehren nur aus dem Denken selbst, keinesweges aber aus der besondern Seelenlehre, noch weniger aus der Körperlehre der Dinge. Die Denklehre berücksichtigt aber doch auch die besondere Beschaffenheit des Menschen, zwar nicht, wenn es darauf ankommt, die Gesetze des Denkens zu lehren , doch aber , wenn es darauf ankommt , die Gründe zu erforschen , wodurch dem Menschen das Schalten und Walten seines Denkens, mithin die Erkenntniſs der Wahrheit erleichtert oder erschwert wird.
+
+Die Ansprüche der Denkkraft sind zwar rein und lauter , ihr Ziel ist nur Wahrheit , und ihre Feste nur Gründlichkeit; ihr Gebiet aber ist groſs und erstreckt sich auf alle Thatsachen des Bewuſstseyns, wie aufdie Tiefe unsres eignen Innern, so auf das Unermeſsliche der Auſsenwelt.
+
+Die Erkenntniſs durch das Denken kommt aber,dem Menschen , wie schon gesagt ist , nicht von selbst; sie soll vielmehr denkkräftig erarbeitet und errungen werden. Hier giebt es aber der Arbeit viel für das Denken;
+
+aber auch Viel der Schwierigkeiten , der Hinderungen und Hemmungen und zwar solcher, die nicht von den Gegenständen des Denkens, sondern aus dem Zustande des denkenden Wesens , des Menschen selbst , herrühren. Der Mensch betritt zwar die
+
+Bühne,seines irdischen Daseyns als ein mit einem Vermögen des Denkens begabtes Wesen; dieAus [p. 19] übung aber und der Gebrauch dieses Vermögens soll erst durch ihn selbst beginnen und fortgehen. So fängt er mit Undenken , Unverstand und Unwissenheit an und steigt allmählig durch Denkthätig. keit zum Verstehen und zum Wissen; er fängt mit Irrtumslosigkeit an , weil er noch nicht urtheilt und also auch nicht irrig urtheilen kann; aber mit dem Urtheilen fängt so wie das richtige , so auch das irrige Urtheilen an; er erringt oft die Wahrheit , aber verläuft sich auch oft in Irrtümer und Grundirrtümer und verliert mitunter sogar den Leitstern und Osten zur Wahrheit. Dennoch aber bleibt seine Denkkraft und ihr Gesetz immer lauter und richtig, selsbt auch dann, wenn sie durch innere oder äuſsere Gewalt angefochten und gestört wird. Denn selbstdieKrankheiten desGemüths, die sich durch Verstumpfung , Dummheit und Wahnwitz offenbaren, sind doch immer nur Hemmungen und Verrückungen der Denkkraft durch Ursachen, die nicht die ihrigen sind.
+
+Von und durch sich selbst weicht keine Kraft und so auch nicht die Krafter desDenkens von ihren Gesetzen ab und so muſs es, seyen der Veranlassungen zum Irrtum noch so viele und seyen diese auch noch so stark, wenn übrigens das Gemüth nur gesund ist, doch stets möglich seyn, sich vor Irrtümern zu bewahren und sie, wenn sie obwalten, zu entdecken und zu berichtigen. Wie geschieht dies ? Hier ist es nun eben auchdie Lehre desDenkens, welche, wie sie die Gesetze des Denkens erörtert, so auch aus eben diesen Gesetzen die Weisung des 2*
+
+[p. 20] Weges entnimmt, welchem die Urtheilskraft zu folgen hat , um aller Hindernisse ungeachtet , dennoch jeden Irrtum zu vermeiden und wenn sie urtheilt, sie mag nrtheilen worüber sie wolle, doch stets denk richtig zu urtheilen. Dies scheint viel gesagt zu seyn; ist aber doch buchstäblich wahr. Die Denkkraft ist das Urgestrn unsres Innern ; sie kann wohl umschattet und verdunkelt werden, aber nie die Würdeder Selbstleuchtung verlieren. Es ist aber die Lehre von der Wegeweisung des Denkens , welche dies zu erörtern und nachzuweisen hat. Sonach zerfällt die Denklehre in zwei Theile. Der Erste Theil erörtert das Wesen des Denkens an sich selbst, zerlegt es in seine Thätigkeiten und entnimmt die Gesetze desselben. Der Zweite Theil stützt sich aufden ersten und betrachtet dieselben Gesetze , welche jener erörtert , als eben so viele Regeln und Wegeweiser zur denkrichtigen Anwendung unsres Erkenntniſsvermögens ; er berücksichtigt hierbei die Schranken des menschlichenErkennensundzeigt, wie der Mensch, dieser Schranken ungeachtet , die ihm obstehenden Schwierigkeiten überwinden , seine Kenntnisse denkgemäſs vervollkommnen undso, obwohl mit Mühe und Arbeit, sich im Gleise der Wahrheit und Wissenschaft erhalten könne.
+
+1.
+
+Mann kann die Denklehre mit einem Kompaſs vergleichen. Wie dieser dem Steuermann zwar selbst kein Land geben kann , aber ihm doch unter allen
+
+Stürmen und Dunkelheiten die Richtung zeigt , welche er zu nehmen hat , um das Ziel seiner Fahrt zu [p. 21] erreichen ; so kann auch die Denklehre selbst keine
+
+Kenntniss von Dingen geben , so weit sie auser dem Denken geschöpft seyn will; aber die Gesetze des Denkens, welche sie erörtert, geben doch jedem Denker, der aufdie Erkenntniſs der Dinge auſser dem Denken ausgeht, diejenige Richtung , welche er nehmen muſs, um, aller Schwierigkeiten und Dunkelheiten ungeachtet , Wahrheit und Gründlichkeit zu erreichen. Indessen ist der Kompaſs nur ein Leiter durchs Meer, auf unsrer kleinenErde; die Denkkraft aber eine dem
+
+Menschen eingegebene Leiterin nicht bloſs fürden engen Raum dieser Erde und dieses Erdenlebens , sondern für das Ganze der Welt auf alle Zeiten, und selbst, über alle Räumlichkeit und Zeitlichkeit hinaus , für alle Mannigfaltigkeit der Weltartung ins Unermeſsliche des Umfangs und des Inhalts, mithin selbst für das, wovon wir dermalen weder Anschauung noch Erfahrung haben , sondern , und zwar durch unser bloſses
+
+Denken selbst , nur Winke , Vermuthung und Ahm dung; kurz, diese Denkkraft ist der Kompaſs für die ganze Geisterwelt zur Belehrung und Erfahrung aller möglichen Weltordnungen , um uns immer in sie zu finden und sie überall, im groſsen Sinne des Worts , als eine Natur zu erkennen.
+
+Die Erkenntnisse , welche die Denklehre giebt, werden durch Erörterung und Verdeutlichung der Handlungen und der Gesetze des Denkens erreicht, und sie machen eine durch das Wesen des Denkens selbst gegliederte und geschlossene Wissenschaft aus. Diese Wissenschaft giebt die Regeln aller
+
+[p. 22] Anwendung des Denkens ; sie ist daher Weisung , Grundlage und Vorbereitung zu allen Wissenschaften; nicht , als wenn man durch sie zu
+
+Grundlegungen des Inhalts der Wissenschaften gelangen könnte , sondern in so ferne sie Regeln enthält, denen keine Wissenschaft , ihr Inhalt möge seyn , welcher er wolle , widersprechen darf. Die Lehre des Denkens kann schicklicher
+
+Weise weder eine natürliche noch eine praktische genannt werden; keine natürliche; denn sie ist Wissenschaft und somit ein Erzeugniſs der Kunst.
+
+Wobh aber ist die Denkkraft selbst etwas
+
+Natürliches und beweist sich als solche unter dem
+
+Namen eines gesunden Verstandes.
+
+Dieser beweist sich in vielen Menschen auch wohl in einem sehr hohen Grade, obwohl er es nie darauf angelegt haben mag, sich der Gesetze , nach welchen er verfährt , auch in der Absonderung bewuſst zu werden. Dergesunde Verstand ist eine köstliche Gabe; wer diese aber hat und durch sie mächtig ist , wird sich wohl hüten , über das strengwissenschaftliche Verfahren , welches die Denklehre vorschreibt , und somit über die Denklehre selbst abzusprechen ; denn über Wissenschaftlichkeit selbst kann man gar nicht urtheilen , als allein nach Gesetzen , unter welchen sie allein erreicht werden kann.
+
+Die Denklehre kann ferner nicht füglich eine praktische , zum Unterschiede von der theoretischen genannt werden.
+
+Sie ist eine Lehre des
+
+Wissens , nemlich der Erkenntniſs durch Begriffe, also nur Wissenslehre ( Theorie) , keine Lehre [p. 23] des Handelns durch den Willen. Will man aber mit dem Namen der praktischen Lehre weiter nichts andeuten , als dasjenige Verfahren des Denklehrers, wodurch er die Lehren des Denkens aus angemessenen
+
+Beispielen erleutert ; so ist dies etwas , dessen sich kein Denklehrer überheben kann, wenn er über das, was er vom Denken zuerst in der Absonderung vorträgt, zugleich Gemeinfaſslichkeit und Verlebendigung erreichen will. Dieses aber erreicht er dadurch, daſs er zeigt , wie sich das in der Absonderung vorgetragene Verfahren des Denkens in jedem Denker und für jeden Gegenstand des Denkens bethätigt und bestätigt.
+
+## Der Denklehre erster Theil.
+
+Von den
+
+Handlungen und Gesetzen des Denkens.
+
+Vorwort .
+
+Die Denkkraft verlangt , daſs ihr, um sich erweisen zu können , Etwas zum Denken gegeben werde. Das Etwas , was ihr gegeben wird , ist der Stoff und dieser Stoff ist ihr , weil er ihr gegeben ist , ein Gegenstand.
+
+Diesen gegebenen Stoff oder Gegenstand sucht sie auf irgend eine Art zu bestimmen und zwar zuoberst auf eine solche Art , an welche sie durch sich selbst gebunden ist , also auf eine Art und Weise , welche die Weise ihres Denkens selbst ist. Wie mancherlei nun die Weise ist , durch welchedie Denkkraft sich erweisen muſs , wenn sie den
+
+Stoff bestimmen will ,
+
+Bestimmungen , so mancherlei sind auch die welche sie dem Stoffe durch sich selbst , bloſs weil sie ihn denkt , zu ertheilen sucht.
+
+[p. 25] Diejenige Handlung der Denkkraft, wodurch sie den Gegenstand auf die ihr angestammte Weise des Denkens bestimmt , ist das Urtheil; mithin ist das Urtheil nichts anders als die Bestimmung eines Gegenstandes durch die Weise des Denkens. es z. B. eine Weise des Denkens ,
+
+So ist
+
+Etwas als eine
+
+Gröfse zu denken ; urtheile ich nun: Dieses Etwas ist eine Gröfse; so habe ich an eben diesem Gegenstande die Weise meines Denkens erwiesen, das heiſst, ich habe ihn durch diese Weise bestimmt.
+
+Eine Weise der Denkkraft, ohne welche sie sich nicht erweisen kann , wenn sie sich erweist , ist Gesetz des Denkens; wenn sie sich daher auf Ge1 genstände erstreckt und an diesen ihre Weise erweist , so bestimmt sie dieselben nach ihren Gesetzen. Sie bestimmt aber die Gegenstände nach ihrem Gesetze , heifst eben so viel , als sie unterwirft die
+
+Gegenstände ihren Gesetzen.
+
+Die Gegenstände aber als enthalten unter den Gesetzen der Denkkraft denken , heifst urtheilen. ン
+
+Alle Handlung derDenkkraft besteht also darin, daſs sie die Gegenstände ihren Gesetzen unterwirft ; sie besteht also in dem Urtheilen. Indem nun das Geschäft der Denkkraft darin besteht , die Gegenstände ihren Gesetzen zu unterwerfen; so offenbart sie sich eben hierdurch als eine zwiefache Thätigkeit , einmal als Gesetzgebung für die Gegenstände , als Vermögen der Regeln ; zum Andern als Vermögen der Bestimmung durch diese Regeln.
+
+[p. 26] Durch die eine Handlung denkt sie ihre Weise des Denkens als Gesetz der Gegenstände , durch die andere denkt sie die Gegenstände als stehend unter diesem Gesetze
+
+Denn ich kann die Weise meines Denkens nicht als Gesetz desselben denken , ohne zu denken , daſs ich , wenn ich denkend Gegenstände bestimme , solche nur durch diese Weise bestimmen könne, sie also, wenn ich sie bestimme , entweder nach der Weise meines Denkens , oder denkend gar nicht bestimmen könne.
+
+Die Denkung der Weise des Denkens als Gesetz der Gegenstände ist nun die Gesetzgebung ; die Stellung der Gegenstände unter dies Gesetz ist die Ausführung desselben. Beide sind Handlungen einer und derselben Denkkraft. Fassen wir diese beidenHandlungen zusammen, so denken wir unsreDenkkraft , als ein , seine eignen Gesetze ausführendes, Vermögen. Wie werden wir nun diese Weisen zu denken haben , denen die Denkkraft durch sich selbst unterworfen ist und welche sie ausführt, ihre Ausführung mag gehn worauf sie wolle ? Wir werden sie als die reinen Denkweisen zu denken haben , weil wir sie allein aus dem Denken , nimmer aber von irgend etwas , was uns aufser dem Denken zum Bedenken dargeboten wird , entnehmen können; wir werden sie ferner , weil sie solche sind , unter welchen alle Weisen , welche man erst durch Beachtung von den Gegenständen schöpft , als stehend gedacht werden, als Urweisen zu denken haben. Nennen wir [p. 27] dasjenige , als was und wodurch ein Gegenstand gedacht wird , einen Begriff , so werden wir jene Urweisen , an welche die Denkkraft durch sich selbst gebunden ist , als Begriffe , aber als solche zu denken haben, welche allen erst aus den Gegenständen zu entnehmenden , Begriffen voran gehen, mithin als Urbegriffe oder Stammbegriffe (categoriae, notiones); denn unter ihnen geschieht alle Beachtung und Betrachtung der Dinge und von ihnen zuoberst geht alle Bestimmung derselben aus.
+
+Denken wir nun unsre Denkkraft allein und für sich , so ist sie erstlich als Vermögen der Urbegriffe, eben durch diese ein Vermögen der Gesetze , Gegenstände zu denken , mithin gestzgebend durch sich selbst; zweitens als Vermögen der Bestimmung durch dieseUrbegriffe, einVermögen der Erkenntnifs der Gegenstände durch ihre Urbegriffe ; denn denkend erkenne ich nur Etwas , in so ferne ich es durch die Urweisen des Denkens bestimme. Das
+
+Denken ist daher ein , seine Urbegriffe an den Gegenständen ausführendes Vermögen. Ohne Urbegriffe könnte dieDenkkraft nichts ausführen; sie sind also die Regeln oder Bedingungen ihres Bestim mungsvermögens ; durch die Verbindung beider , ist sie also ein Bestimmungsvermögen durch Urbegriffe.
+
+Hierdurch ist aber nun auch ihr ganzes Vermögen , dieses nur für sich allein und rein genommen , erschöpft.
+
+[p. 28] Aber gerade in diesem Vermögen der Denkkraft liegt auch schon durch sie selbst und für sie selbst die Weisung und Richtung auf Gegenstände. Sie will und verlangt , daſs ihr diese auf irgend eine Weise dargeboten werden, um an ihnen ihre
+
+Urweisen , Urbegriffe oder Gesetze und somit ihr Vermögen, sie durch dieselben zu bestimmen , bethätigen zu können. Indem sie nun die Darbietung dieser Gegenstände will , sieht sie hin auf ein , nicht ihr eignes , aber ihr beinötiges und zuzugesellendes Vermögen , wodurch ihr die Darbietungen bemöglicht und verwirklicht werden. Wäre ihr ein solches Vermögen nicht beigesellt , so stünde sie da mit ihren Urbegriffen und ihrem Vermögen , durch diese zu bestimmen, ohne etwas zu haben , was sie diesen Urbegriffen unterwerfen und sich durch dieselben begreiflich machen könnte. Es ist ihr aber ein Vermögen , wodurch ihr die
+
+Darbietung der Gegenstände bemöglicht wird , beigesellt ; wir nennen es das Anschauungsvermögen. Durch dieses werden ihr unmittelbar Vorstellungen der Dinge. Hiermit wird ihr nun die Laufbahn ihrer Thätigkeit eröffnet ; aber hiermit geht nun auch ihre Mühe und Arbeit an.
+
+Was sie nun mit diesen Darbietungen (Gegenständen) machen will und zu machen hat, bezeichnen wir richtig und kurz mit dem Ausdrücke : Erfahrung. Den Inhalt dieser Erfahrung hat sie nicht aus sich selbst , sondern durch dieAnschauung ; aber durch die Anschauung wird dieser Inhalt auch noch nicht zu Erfahrung; sondern allererst durch den
+
+[p. 29] Hinzutritt des Denkens; nämlich dadurch , daſs die Denkkraft den Inhalt ihren Denkweisen unterwirft.
+
+Sie will also die Erfahrung machen und kann sie auch nur haben , in so weit sie sie macht.
+
+Die Darbietungen durch Anschauung sind also der Stoff, welcher ihrer auf Erkenntniſs gerichteten Verarbeitung anheim fällt. Möge aber dieser Stoff an sich auch noch so schön geregelt und geordnet seyn, für sie, in ihrem ersten Anlauf auf ihn, ist er doch eine rohe und wirrige Masse und dies bleibt er ihr , in wie weit sie ihn nicht durch ihre Urbegriffe verfolgt und erreicht hat; da sie aber nur Schritt für Schritt gehen kann, der Stoff selbst aber unermeſslich ist, so bleibt sie immerdar , vermöge ihrer Schranken , in dem Endlichen, aber in einem Endlichen ohne Ende.
+
+Jetzt entsteht nun die Frage: wie benimmt sich die Denkkraft vor der Masse der Anschauungen? Wir erwägen nun nicht mehr : daſs die Denkkraft durch sich selbst an Weisen oder Gesetze des Denkens gebunden sey; nicht mehr , dass sie ein Vermögen sey, durch ihre Weise zu bestimmen; sondern, wie sie , die gesetzgebende und bestimmende , oder mit einem Worte, wie sie, die gesetzlichbestimmende Denkkraft , sich benehme , indem sie sich aufden Stoff der Anschauung wirft ? Was will sie nun hier ?
+
+Anschauung merachten ;
+
+Sie will etwas aus der sie muſs also den Stoff der Anschauung beachten und betrachten; sie will so Etwas erachten , was , wenn sie es für sich.
+
+[p. 30] denkt, ihr als Regel , Weise oder Begriff dienen könne , um ein anderes Etwas durch dasselbe denken und bestimmen zu können; sie will also Begriffe, aber nicht solche , die sie schon ursprünglich durch sich selbst hat , sondern solche , die sie nicht durch sich selbst hat, also Erfahrungsbegriffe, um dann Erfahrungsgegenstände durch sie bestimmen zu können.
+
+Also: Begriffe von Gegenständen zu gewinnen und Gegenstände durch diese Begriffe bestimmen ; das ist das Ziel , woraufsie in ihrem Anlauf auf den Stoff der Anschauung gerichtet ist. So entsteht nun die Frage:
+
+Was leitet die
+
+Denkkraft , wenn sie beachtend , was , wenn sie bestimmend ist , was leitet sie zuoberst , sie mag darauf ausgehen, Begriffe von den Gegenständen * zu gewinnen oder Gegenstände durch Begriffe zu bestimmen ? In beiden Handlungen ist sie die , nach ihren Weisen verfahrende , mithin nach ihrem Gesammtvermögen sich aufbietende Denkkraft , Urtheilskraft genannt; denn Begriffe von Dingen zu gewinnen , ist Sache des Urtheils ; Dinge durch Begriffe bestimmen , ist auch Sache des Urtheils. Im ersten Fall aber heifst die Handlung derselben Beachtung , im zweiten Bestimmung. Sie mag also in ihrem Anlaufe auf dem Stoff der Anschauung beachtend oder bestimmend seyn ; so urtheilt sie ; denn, um ein von dem Dinge erachtetes Etwas als die Weise dieses Dinges zu denken , muſs ich urtheilen , es sey Weise desselben ; umein Ding durch [p. 31] eine Weise zu denken, muſs ich urtheilen , das.Ding sey Ding dieser Weise.
+
+Die Frage aber, womit sich die reine Denklehre beschäftigt , ist diese: Was leitet die Urtheilskraft, sie mag Begriffe von den Dingen erachten oder Dinge durch erachtete (reflectirte) Begriffe bestimmen? Es ist aus obigen klar , daſs in beiden Handlungen die Urweisen des Denkens die Leiter sind und den Vortritt haben ; denn ohne diese können wir gar nicht denken und wenn wir denken , so ist unser Denken ein Verfahren durch dieselben.
+
+Bedenken wir daher den Stoff der Anschauung , so sind es die Urbegriffe, welche die Urtheilskraft leiten, diese mag beachten oder bestimmen. Es ist daher die Urtheilskraft selbst , deren Thätigkeit in die beachtende und bestimmende eingetheilt werden muſs.
+
+Dieselben Urbegriffe also , welche die Urtheilskraft in der Bestimmung leiten, leiten sie auch in der Betrachtung. Diese Urbegriffe , indem sie Betrachtung leiten , sind Betrachtungsregeln ; dieselben Urbegriffe , indem sie die Bestimmung leiten , sind die Bestimmungsregeln ; im ersten Fall nennt man sie Weisen (Formen ) der Betrachtung ; im zweiten Fall Weisen (Formen) der Bestimmung; in beiden Fällen Weisen des Urtheilens. In der That nimmt auch alle unsere Betrachtung und alle unsere Bestimmung der Gegenstände , in so fern beide lediglich und allein durchs Denken verrichtet werden, diejenigen Richtungen, welche durch [p. 32] diese Urbegriffe , oder Urweisen des Denkens selbst vorgezeichnet sind. Wir haben also auch in der Denklehre dieser, durchs Denken selbst gegebenen Vorzeichnung zu folgen und fragen demnach erstlich : wie benimmt sich die Urtheilskraft, wenn sie Gegenstände beachtet, um von ihnen Begriffe zu gewinnen ? zweitens : wie benimmt sie sich, wenn sie Gegenstände durch solche erachtete Begriffe bestimmt? Die Denklehre zerfällt demnach in zwei Hauptstücke.
+
+Das erste handelt von der denkgemäſsen Betrachtung der Dinge; das zweite von der denkgemäſsen Bestimmung der Dinge.
+
+Man pflegt das Vermögen des Denkens einzutheilen in das Vermögen der Begriffe , Verstand ; in das Vermögen der Urtheile, Urheilskraft , und in das Vermögen der Schlüsse , Vernunft. Allein, man ist bei der Zweideutigkeit dieser Ausdrücke genöthigt , von der engern und weitern Bedeutung derselben zu reden; zudem ist es auch klar , daſs sich alle drei Vermögen doch auch in jedem Stücke erweisen; denn zur Gewinnung der Begriffe gehört auch Urtheilskraft und Vernunft , wie zur Gewinnung der Schlüsse Urtheilskraft und Verstand. Es laufen daher diese Abtheilungen wieder in einander und geben kei:
+
+ne bestimmte Begränzung. Es giebt aus dem Wesen des Denkens nur zwei
+
+Stücke des Bedenkens , die Handlung und die Weise desselben.
+
+Die Denkkraft kann nicht han-.
+
+deln, als allein in der Art , an welche sie durch sich selbst [p. 33] selbst gebunden ist. Diese Art des Handelns offenbart sich durch die Handlung selbst; und so kann nun , wenn wir blos vom Wesen des
+
+Denkens ausgehen, nichts weiter gefragt werden, als, wie offenbaret sich die Denkkraft ?
+
+Sie kann sich aber und ihre Weise nur offenbaren an dem , was ihr zum Bedenken dargeboten wird.
+
+In Beziehung auf dieses dargebotene, Gegenstand genannt, kommt es mit dem Denken zur Ausübung. Die sich ausübende Denkkraft könnten wir noch am füglichsten Urtheilskraft nennen ;
+
+obwohl auch dieses
+
+Wort die Sache nur halb ausdrückt ; denn die Denkkraft theilt und urtheilt nicht blos das Dargebotene, sondern sie faſst es auch zusammen und bringt es in Verbindung ; beides nach ihrer Weise. Aber was thut die sich ausübende und sich an die Darbietungen anlassende Denkkraft ? thun?
+
+was muſs sie sie muſs beachten und bedenken.
+
+kann sie nun noch thun , wenn sie beachtet und bedacht hat ? sie kann nun noch bestimmen. In beiden Handlungen beweifst sie sich ausübend; in beiden aber nach ihrer Weise und in beiden als dasjenige Vermögen, was man sonst auch durch die Worte: Verstand, Urtheilskraft und Vernunft , zu be zeichnen pflegt.
+
+Um nun alle Zweideutigkeit zu vermeiden, bleiben wir gerade bei dem , was offen vorliegt: Die Denkkraft in ihrer Ausübung bedenkt und bestimmt;
+
+erachtet Begriffe und bestimmt durch Begriffe. Und so fragen wir, welche Leitungen hat sie durch sich selbst wie zu dem Einen , so zu dem Andern ?.
+
+### Erstes Hauptstück. Von der denkgemäſsen Betrachtung der Dinge.
+
+as es auch sey, dessen wir uns bewuſst sind; sind wir uns dessen nur bewuſst , so ist es als solches ein Gegebenes und als solches Gegenstand derBetrachtung für die Denkkraft. Empfindung aber und Anschauung; Gewahrung durch den Sinn und Vorstellung durch die Einbildungskraft , sind die ersten Stoffe, welche unserm Denken zum Bedenken anheim fallen. Sie sind weit früher da , als es in uns zum
+
+Denken und Nachdenken über sie kommt. Wie lange mag das Kind schon gewahren und vorstellen , ehr in seinem Innern sein Denkvermögen zur Denkthätigkeit erwacht ? Doch aber erwacht es; in dem Einen früher, in dem Andern später ; in dem Einen stärker , in dem Andern schwächer.
+
+Früh bemerkt man an ihnen eininneres, vonAnschauungundGewahrung weit und wohl unterscheidbares , Arbeiten , [p. 35] einArbeiten des Denkens; eine Arbeit, in welcher das Denken sich zerarbeitet über die Stoffe der Anschauung und Gewahrung.
+
+Diese Stoffe mögen seyn, was sie wollen , wenn sie nur Stoffe des Bewiſsens , mithin etwas dem
+
+Bewiſsungsvermögen (apperceptio)zumBewiſsen dar .
+
+gebotenes (Gegebenes, Gegenstand, datum, objec tum) sind, so will das Bewiſsungsvermögen , oder, welches eben dasselbe sagt , die Denkkraft oder Urtheilskraft, etwas aus ihnen machen und zwar zum Behuf der Erkenntniſs , denn wir haben es hier nur mit dem Vermögen der Erkenntniſs , mit keinem andern Vermögen unsers Gemüths zu thun; sie will also zum Behuf der Erkenntniſs aus dem Stoffe etwas machen.
+
+Das Erste nun , was sie thun kann, ist dieses;
+
+sie nimmt den Stoff in Betrachtung. Bleiben wir nun hierbei stehen und fragen: was thut sie, wenn sie betrachtet? Die Beantwortung dieser Frage muſs uns , wenn wir sie verfolgen , in das Wesen dieser Geschäftigkeit hinein führen.
+
+Also erstlich: was thut sie nicht, indem sie betrachtet ? will sie etwa die Gegenstände desBewissens herbeizaubern? Nein ; das will sie nicht und kann sie nicht.
+
+Will sie etwa etwas in die Gegenstände hinein zaubern ? auch dies will und kann sie nicht. Nun ! was will sie denn ? Sie will bewiſsen, wie und als was sie Etwas , was ihr zum Denken gegeben wird , zu denken habe.
+
+Wie will sie aber dies durch sich selbst ?
+
+[p. 36] Hiermit stehen wir nun im Gipfel derBewissung. Denn die Frage: was will ich mit einem Etwas, bloſs wenn und weil ich es bedenke; geht nun in das Denken selbst ein, und frägt: was will ich, indem ich betrachte ? und wir haben nun nichts anderes zu su chen , als die Bedingungen oder Regeln , welche sich die Denkkraft selbst zu ihrer Betrachtung setzt. Regeln muſs sie haben und zwar aus sich selbst; denn ihre Thätigkeit besteht ja im Regeln und Richten. Hätte sie nun keine Regeln durch sich selbst, so wäre sie eine ohne Regel regelnde Thätigkeit , das heifst, eine Ungereimtheit durch sich selbst. Die Thätigkeit des Denkens muſs also , blos als solche , Richtung und Ziel durch sich selbst haben
+
+únd wenn eine Art ihrer Thätigkeit die Betrachtung ist , so muſs sie auch für diese Richtung und Ziel aus sich selbst haben. So fragen wir nun : wie richtet sich dieDenkkraft, indem sie betrachtet, durch sich selbst ?
+
+Die mancherlei Arten und Weisen nun, wie sich die Denkkraft durch sich selbst in der Betrachtung richtet und benimmt , werden eben so viele Regeln der Betrachtung seyn.
+
+Welches sind nun diese Regeln ? Um diese zu finden, müſsen wir darauf achten, wie sich unsreDenkkraft benimmt , wenn sie das ihr Gegebene beachtet. Hier finden wir nun , daſs all ihr Benehmen von einer dreifachen Ansprache ausgeht. Indem sie sich nämlich zur Beachtung desjenigen was ihr durch die Anschauung dargeboten wird, ermannt, [p. 37] macht sie sich durch sich selbst folgende Ansätze.
+
+Erstlich : sie achtet auf die Einerleiheit und
+
+Verschiedenheit .
+
+Zweitens : sie achtet auf die Einhelligkeit und den Widerstreit.
+
+Drittens : sie achtet auf das Innere und Aeufsere.
+
+Wir ersehen hieraus , daſs es ihr erstes Geschäft sey, dasjenige zu finden, was das Gemeinsame des Verschiedenen ist, um verschiedene Dinge unter eine gemeinschaftliche Vorstellung zu ordnen ; das Zweite ist : dasjenige zu finden , was in dieser Ordnung zu einander zusammen stimmt, oder einander widerstreitet ; sie achtet also auf Einklang und Mislaut (auf Harmonie und Antagonismus). Das Dritte ist: dasjenige zu finden , was zu einem Etwas an sich selbst und innerlich , und was zu ihm bloſs beziehungsweise und äuſserlich verbunden sey; also zu finden ; wie etwas zu Etwas verbunden gedacht werden müſse , ob an ihm selbst, oder nur in so ferne etwas Anderes gedacht wird, mithin blos im Verhältniße.
+
+Dies sind die Urweisen (Formen)der Betrachtung , in so ferne solche vom Denken selbst ausgehen, und die Folge wird auch zeigen , daſs eben dieselben auch die Urweisen der Bestimmung sind. Man kann nun diese Urweisen der Betrachtung auch füglich als eben so viele Anläße , Ansätze oder Ansprachen der beachtenden Urtheilskraft an die Darbietungen der Anschauung ansehen; denn sie giebt [p. 38] durch diese Ansätze an , welche Ansprüche sie an die Masse des Vorgestellten mache. Verfolgen wir nun diese dreifache Ansprache der beachtenden' Denkkraft und sehen, was sie thut und thun müſse, um sie auszuführen ; so wird sich der Geist derselben in seiner ganzen Bedeutsamkeit entfalten.
+
+A. Erster Ansatz der Denkkraft zur Betrachtung der Dinge.
+
+Sie achtet in diesem ersten Ansatz, auf die Einerleiheit und Verschiedenheit, Die Denkkraft ist , wie wir schon bemerkt haben, ein Vermögen der Erkenntniſs durch Begriffe oder Merkmale.
+
+Dadurch unterscheidet sie sich von dem Anschauungsvermögen ; denn dieses stellt den Gegenstand nicht durch etwas , mithin mit1 telbar , sondern denselben selbst , mithin unmittelbar vor. Wenn ich den Gegenstand anschaue , so ist er mir selbst gegenwärtig ; ist er mir nicht selbst gegenwärtig, so schaue ich ilın nicht an ; wohl aber kann ich jeden Gegenstand , wenn ich ihn nicht mehr anschaue , auch dann noch denken; ich denke ihn aber dann nur durch das, was ich von ihm im Gedanken habe und das , was ich von ihm im Gedanken habe ist nicht er selbst, sondern einEtwas, einebloſse VorstellungalsBegriff oderMerkmal wodurch ich ihn, falls er mir wiederum anschaulich und gegenwärtig würde, auch wiederum erkennen könnte.
+
+Was und wie viel ich aber im Gedanken habe , das und so viel habe ich
+
+[p. 39] Begriffe oder Merkmale , ihn zu erkennen; aber nicht ihn bloſs, denselben , den einmal erschaueten, sondern auch andere , in so ferne sie auch dasselbe darbieten.
+
+Ein solches etwas nun das ich im Gedanken habe, als eine Art gedacht, Gegenstände zu erkennen; ist der Begriff?
+
+Wie komme ich nun zu solchem Begriffe ? Ich gehe das , meinem Denken gegebene denkkräftig durch , vergleiche Eins mit dem Andern , unterscheide Eins von dem Andern, und vereinige dies also unterschiedene in einem einigen Gedanken.
+
+Jedes also im Gedanken vereinte ist, in so fern ich es nun nur noch bloſs denke, ein Begriff, denn was und wie viel ich auch durch solche Denkthätigkeit zu einem einigen Gedanken vereinen mag, so ist doch jedes immer ein Etwas , wodurch ich dieses Vereinte und so auch jedes anderweitige Ergebniſs meines Bewuſstseyns denken oder nicht denken , mithin es sey bejahlich oder verneinlich , bestimmen, folglich erkennen kann. Ich kann aber zu einem solchen Etwas, wodurch ich ein gegebenes Etwas erkenne , nicht kommen, ohne auf das Gegebene zu merken , von dem Einen wegzusehen , und auf das Andere hinzusehen , und dieses dann abgesondert und für sich allein, und als solches zu denken , wodurch , als ein und dasselbe , vieles gedacht werden kann.
+
+Also : Aufmerksamkeit auf das Gegebene des Bewusstseyns , Vergleichung desselben mit einander, Unterscheidung desselben voneinander,
+
+Absonderung des Einen, um dies für sich allein [p. 40] zu denken , endlich Denkung dieses als ein und dasselbe , wodurch vieles , obwohl es nicht dasselbe ist, dennoch gedacht und erkannt werden kann , was also als die Einheit und die Selbigkeit eines
+
+Mannigfaltigen , mithin als Weise , Art oder Regel desselben gedacht wird , das ist es , was den Begriff zu einem Begriff macht. Er ist also die Denkung des Mannigfaltigen durch Ein und dasselbe.
+
+Das ist aber der Gedanke einer Regel.
+
+Ein solches etwas ist es also , worauf unsere
+
+Denkkraft ausgeht , wenn sie den Stoffdes Bewuſstseins beachtet.
+
+Sie sucht zu oberst das Ein und
+
+Selbige , als welches vieles gedacht werden kann; daſs sie aber dies sucht , ist eineRegelihrer Betrachtung; aber auch das was sie auf diese Art erachtet , denkt sie wiederum als Art und Regel der Dinge; und diese Regel ist ihr dann ein Begriff , und zwar ein von den Dingen erachteter Begriff , mithin einBegriff von den Dingen. Die Denkkraft geht also in ihrer Beachtung der
+
+Gegenstände darauf aus , Begriffe zu erwerben. Sie will und kann nur durch Begriffe erkennen und wie viele und welche sie durch Betrachtung derDinge von den Dingen erworben hat , so viel ist sie auch bereichert , um sich durch sie als Bestimmend zu erweisen.
+
+Diese Begriffe , so viel sie sich deren erworben hat , hat sie nun und es kommt bei ihr nun nicht mehr.
+
+darauf an , daſs dieselbe Anschauung , woraus sie sie schöpfte, fortdauere. Sie denkt sie nun auch ohne Anschauung und vereinigt sie , wie sie sie erworben [p. 41] hat , sämmtlich in einem einigen Bewusstseyn , oder, welches dasselbe sagt , in einem einigen Gedanken. Also auch ohne Anschauung, mithin von den Fällen , wodurch das Gegebene ihrer Betrachtung zugeführt wurde , wegsehend , schaltet und waltet sie nun mit diesen Begriffen und was sie nun selbstkräftig durch dieselbe bestimmt, das ist ein Bestimmen , durch und aus Begriffen. Wenn Jemand denkend sich mit sich selbst unterhält , oder Einer zum Andern spricht , ohne den Gegenstand , worüber gesprochen wird, in der Anschauung zu haben , so ist dies ein blosses Verfahren durch Bgriffe und aus Begriffen.
+
+Wir bemerkten oben die Wichtigkeit des Anschauungsvermögens , indem dieses es ist , wodurch das All der Dinge uns ein Vorgestelltes werden soll und uns dadurch auch in der That immer mehr und mehr wird.
+
+Nicht blos das Innere unsers
+
+Selbst wird uns dadurch ein Vorgestelltes , sondern auch das Nichtinnere , die Aussenwelt ; so daſs das , was nicht unser Inneres ist, doch uns vorgestellt wird , gleich als wäre es in uns.
+
+Somit sollen wir durch die Kraft unsers Vorstellens allmälig zu Wesen werden , welche , wie soll man sagen ? die Welt , wir nach einem verjüngten Maafsstabe in sich fassen ; wie sollen zu Wesen werden , welche in der Welt sind, und in welchen die Welt auch ist. Dies geschieht vermöge der Vorstellungskraft , wie unerklärlich es uns auch immer bleiben mag.
+
+[p. 42] Nun tritt aber noch die Denkkraft hinzu, beachtet und betrachtet eben dieses vollstellungskräftig Erschaute nach ihrer Weise , sucht und gewinnt Begriffe von ihnen , schreitet hiermit fort und bereichert sich mit Begriffen ; hält nun diese durch ihre eigne Kraft fest und schaltet und waltet mit ihnen nach ihrer Weise und ihren Regeln; um so dieselbe
+
+Welt , wie sie durch Anschauungskraft zu einer Welt in uns geworden ist , denkkräftig zu einer begriffenen und dadurch uns verständlichen Welt zu erheben,
+
+Durch jeden von den Gegenständen des Bewuſstseyns entnommenen Begriff muſs Etwas gedacht werden; dies ist sein Inhalt; dieser Inhalt aber macht ihn noch nicht zum Begriffe , sondern dieses, daſs die Denkkraft diesen Inhalt als eine Art oder
+
+Leie denkt : in welcher sich vieles , ungeachtet seiner Verschiedenheit , doch gleich ist. Eine Vorstellung ist also noch nicht dadurch Begriff, daſs ich mir ihrer bewuſst bin , sondern dadurch , daſs ich sie als eine Art denke , wodurch vieles Andere gedacht werden kann. Dies ist dasjenige , als was jeder Begriff gedacht werden muſs , also das allen Begriffen gemeinsame oder die Weise (Form) des Begriffs ; es ist dies der Begriff von einem Begriffe. Man nennt nun den Begriff auch Merkmal; was er auch ist , denn er ist die Art , wie Etwas von Etwas unterschieden wird; man nennt ihn Regel , was er auch ist ; denn durch dieselbe Art , wodurch Etwas von
+
+[p. 43] Etwas unterschieden wird , foll vieles , seiner Verschiedenheit ungeachtet gedacht werden; verschiedenes aber auf eine und dieselbe Art denken , heiſst, dieseArt als eine Regel desselben denken ; mithin ist jeder Begriff Merkmal und Regel und jede Regel Merkmal und Begriff. Wenn man dieses nicht be1 merkt , so bemerkt man nicht , was die Denkkraft sagen wolle , wenn sie sich als Vermögen , durch Begriffe zu erkennen, ausweist. Wenn wir nun wissen, was überhaupt ein Begriff sei , so können wir auch erörtern , was die
+
+Denkkraft durch denselben bezielt.
+
+Sie sucht viele Begriffe , denkt den Einen zum Andern , und faſst sie zusammen. Dadurch entsteht ihr ein Inbegriff von Begriffen. Durch diese Handlung des Denkens werden viele Begriffe als ein Begriff gedacht. Die auf solche Art zusammengefaſstenBegriffe sind Theilbegriffe. Die Aufund Zusammenfassung ist hier , das Geschäft des Denkens und durch diese Zusammenfassung macht sie den Begriff zu einem begränzten und geschlossenen, (conceptus conceptuurn, s. conceptus notarum). Diesen durch Zusammenfassung entstandenen , mithin zusammengesetzten Begriff kann sie auch wiederum Zersetzen , mithin in die Theile , woraus er zusammengesetzt ist , wieder auflösen. Es ist aber klar , das sie Etwas nicht auflösen und zersetzen kann, wenn sie es nicht vorher verbunden und zusammengesetzt hat.
+
+Indem sie aber den zusammengesetzten
+
+Begriff wieder zersetzt , denkt sie nur dieselben Begriffe, welche sie dachte , als sie sie auf und zusam [p. 44] men faſste. Wie sie in der Betrachtung des Gegebenen den Gang von den Theilen zu dem Ganzen , von der Auffassung zur Zusammenfassung nimmt , um zu einem Inbegriff von Begriffen zu gelangen , so nimmt sie in der Zersetzung dieses Inbegriffs wiederum den Gang von dem Ganzen zu denTheilen. Dies Letztere ist dem Denken ohne das Erstere gar nicht möglich und daher ist unser Denken ursprünglich nur ein mühsamer Gang von dem theilen zu dem Ganzen. Es ist daher auch unser Denken ursprünglich ein Zusammensetzen und die Zersetzung nur als Folge davon möglich.
+
+Ein Begriff kann nun ein Inbegriff von Begriffen , das heiſst , ein zusammengesetzter ; aber auch ein solcher , der keine Vielheit in sich enthält , das heiſst , ein einfacher sein .
+
+Nur zusammengesetzte Begriffe können in ihre Theile zersetzt werden .
+
+Ieder Begriff ist nur dadurch Begriff, daſs er gedacht wird , denn das , was eine Vorstellung zu einem Begriff macht , beruht lediglich auf der Handlung des Denkens ; was also auch der Begriff enthalten möge , so ist doch , daſs er Begriff sei , das Werk des Denkens. Dieses besteht , wie wir gesehen haben , darin , daſs Etwas , ein und dasselbe , als etwas gedacht wird , wodurch vieles gedacht und erkannt werden kann. Diese Weise , etwas zum Begriff zu machen , ist , wie jede Weise nur eine einige ; daher sagen wir , die Weise (die Form) aller Begriffe sei ein und dieselbe.
+
+Der Inhalt aber , oder das , was in die Weise eines Begriffs aufgenommen wird , mithin [p. 45] selbst wieder als Begriff, aber als erachteter
+
+Begriff gedacht wird, kann mannigfaltig sein. Das Mannigfaltige , in sofern es durch ein und dasselbe gedacht wird, heisst nun eben deshalb auch ein Gleichartiges ; denn das Etwas , wodurch wir es denken , ist dem Denken eine Art , es zu denken und viele Gegenstände durch ein und dieselbe Art denken , heifst sie als gleichartig denken.
+
+B. Zweiter Ansatz der Denkkraft zur Betrachtung der Dinge,
+
+Die Zweite Ansprache oder Vorzeichnung , welche sich unsre Denkkraft im Bedenken der Gegenstände durch sich selbst setzt , ist diese : sie achtet auf die Einstimmung und den Widerstreit.
+
+Hier beachtet sie nun nicht mehr , ob Etwas, was ihr dargeboten wird , dasselbe oder ein Anderes sei ; auch nicht mehr, ob ein und dasselbe Etwas als etwas gedacht werde , was verschiedenen Dingen gemeinsam sei ; auch nicht , was sie zu thun habe , um Begriffe , welche sie von Dingen erachtete , wiederum in ihre Bestandtheile aufzulösen , wo es dann heifst : daſs sie in dieser Auflösung dem aufzulösenden Begriffe nicht widersprechen dürfe. Hier ist überall nicht von Auflösung der Begriffe und Erkenntnisse in ihre Bestandtheile, sondern von einer Verbindung der Dinge die Rede und zwar einer solchen, wozu die Denkkraft den Begriff oder die Regel enthält , mithin von einemAnspruche, welchen sie an die Dinge macht [p. 46] und nach welchem sie ihre Betrachtung über dieselben richtet. Hierbei bleibt ihr noch unausgemacht , ob die Dinge einer solchen Regel zusagen mögen oder nicht; nur das ist ihr gewiſs , daſs einer Welt , welche sich ihrem Bedenken darböte , aber nicht dieser
+
+Regel zusagte , eine Seite der Verständlichkeit für sie, ein denkgemässer (logischer) Werth abginge. Den ersten Ansatz der betrachtenden Denkkraft, welcher auf die Einerleiheit und Verschiedenheit geht , führt man in allen Denklehren ohne Wiederrede auf, wie auch recht ist; nur sollte hierbei auch besonders hervorgehoben werden , daſs die Denkkraft sich eben durch diese Begriffe Regeln der Betrachtung setze; denn es ist doch eben so viel, als wenn sie sagte ; ich gehe aus eigner Macht darauf aus , das zu suchen wodurch sich die Dinge unterscheiden; ich bedenke sie nach dem Begriffe der Unterscheidung; ich gehe ferner darauf aus , das zu suchen , wodurch sie sich nicht unterſcheiden, das was ihnen gemeinsam , was also das Eine und Selbe derselben ist; ich bedenke sie also nach dem Begriffe der Einerleiheit: mit andern Worten, ich suche die Einerleiheit des Mannigfaltigen : ich suche Unterordnung des Verschiedenen unter ihr Gemeinsames und habe an diesen Begriffen eine Regel des Bedenkens der Dinge.
+
+Eben so ist es nun mit der zweiten Vorzeichnung der Denkkraft. Durch diese richtet sie sich, auf die Einstimmung und den Wiederstreit der Dinge zu achten.
+
+[p. 47] Daſs aber die Denkkraft auch diese Vorzeichnung aus sich selbst mache und sie nicht etwa erst , auf dem Wege der Betrachtung , den Dingen ablerne; ergeht ganz klar aus dem Gange , welchen sie im Denken durch sich selbst nimmt.
+
+Sie enthält in sich selbst die Richtung , von allen, was sie denkt , die Verneinung zu denken , vom Sein das Nichtsein , von Etwas das Nichts , vonA das Nicht A, vonB das Nicht B ; Adenken , A nicht denken , Nicht A denken ; also + A , 0 , - A
+
+Denken , A + B , Einstimmung , A + (B - A) Wiederstreit , Einschränkung Ζ. B. Bewegung A (Annäherung) , Bewegung Nicht A (Mangel der Annäherung) , Bewegung B - A , Entfernung; Bewegung A + B- A, AnnäherungundEntfernung zusammen , die Entgegensetzung, denken: istein Gang, den die Denkkraft durch sich selbst nimmt.
+
+Es ist also der Begriff der Verneinung oder
+
+Aufhebung unter dessen Leitung sie die Gegenstände in Betrachtung zieht. Durch diesen denkt sie aber erstlich ein Etwas , als das Aufhebende und zweitens ein Etwas als das Aufzuhebende ; in beiden Begriffen etwas Verschiedenes , aber nicht blos Verschiedenes ; sondern einander Wiederwärtiges; in beiden Begriffen eine Verbindung , aber eine solche , in welcher das Eine die Aufhebung des Andern ist.
+
+Denke ich nun ein Etwas , was ist, als ein Etwas , was ein anderes Etwas , was ist , aufhebt , so denke ich sie unter dem Begriffe der Widerwärtigkeit (unter der Regel: + A - A) So denke ich
+
+[p. 48] Freude als ein Etwas , wodurch ein anderes Etwas, Schmerz , aufgehoben wird.
+
+Wenn ich aber unter dem Begriffe der Einhelligkeit und des Widerstandes auf die Dinge achte, so setze ich Dinge schon voraus und frage nur, ob sie im Dasein einander fördersam oder widerwärtig sind, wie z. B. Freude und Schmerz; Tugend und Laster, Anziehung und Zurückstofsung etc.
+
+1 man solle keinem Dinge ein Merkmal beilegen , welches ihm widerspreche: hat seine Haltung in dem Urbegriffe der Aufhebung eines Etwas durch ein Anderes; denn wie könnte man denken, daſs Gedanken, Urtheile oder Sätze einander widerstritten , wäre die
+
+Regel der Aufhebung nicht eine Regel der Betrachtung und Bestimmung des Denkens ? Auf das Wort; daſs man den Widerstreit der Gedanken
+
+Widerspruch und den der Dinge Widerstreit nennt, kommt es hierbei nicht an; die Regel, durch welche sich dasDenken hierbei leitet, ist eine unddieselbe und stammt aus dem Denken selbst.
+
+Nach ihr muſs im Denken selbst Etwas (+ A) gedacht werden , welches durch die Verbindung mit einem andern Etwas aufgehoben ( -A ) wird. Unter diesen Begriffen der Einhelligkeit und der Aufhebung betrachtet nun die Denkkraft die Dinge und findet sie überall auf eine bewundernswürdige
+
+Art bestätigt.
+
+Die Dinge der Welt wesen in Einklang mit einander , aber auch in Mislaut.
+
+Wie im stillen Frieden ketten und schlingen sich die Elemente, aber auch mit Ungestüm tosen sie wieder einander ; aber [p. 49] aber auch eben so wundersam löst sich der Kampf wiederum in einen Frieden und der Friede in einen
+
+Kampf auf. Nur aber das Allgemeine hierzu enthält die Denkkraft in sich selbst , nicht das Besondere. Was und welcher Art das mit einander Einhel.
+
+lige oder Streitende sei; in welchem Grade die Einhelligkeit , in welchem die Aufhebung Statt habe ; ob sie nur eine theilweise oder gänzliche sei, das muſs die Denkkraft aus den Gegenständen selbst erachten.
+
+Sie macht also aus sich selbst nur , vermöge ihres Begriffs der Einhelligkeit und der Widerwärtigkeit , den Anspruch an die Welt und sucht in ihr ein, ihren Begriffen zusagendes Verhalten der Dinge. Dies ist der Geist, durch welchen sie über die Dinge waltet und man muss sich wohl hüten, in diesen Begriffen , wie in den Urbegriffen des Denkens überhaupt ein blosses todtes Formelwesen zu suchen. Sie haben ihre groſse Bedeutsamkeit und zwar aus der Macht des Denkens selbst.
+
+C. Dritter Ansatz der Denkkraft zur Betrachtung der Dinge,
+
+Dieser waltet durch den Begriff des Innern und Aeuſsern. In dieser Regel der Betrachtung entfaltet die Denkkraft eine Menge von Regeln und somit eine Menge von Ansprüchen , welche sie an die , ihr zum Bedenken dargebotenen Dinge macht.
+
+[p. 50] Durch die beiden ersten Ansätze sahen wir, daſs die Denkkraft sich richtete ; auf die Einerleiheit und Verschiedenheit , auf die Einhelligkeit und den Widerstreit der Dinge zu achten.
+
+Mit diesen Begriffen setzt sie sich Regeln der Verhindung; denn das Verschiedene durch ein und dasselbe gedacht, wird ja eben dadurch als verbunden gedacht; so ist auch, das Verschiedene in Einhelligkeit oder Widerstreit denken , eine Regel , sie verbunden , zu denken; denn nicht allein das Einhellige denke ich verbunden , sondern auch das einander Widerwärtige; denn wie könnte ich A und B einander widerwärtig denken , wenn ich sie nicht zu einander verbunden dächte? wie ich bestimmen, sie wären einander widerwärdig, wenn sie nicht zu einander verbunden wären; es ist aber diese Verbindung die Verbindung durch Widerwärtigkeit oder Entgegensetzung. In der dritten Vorzeichnung nun spricht die Denkkraft eine ganz andere Betrachtungsweise aus und diese offenbart sich in der Weisung , auf das Innere und Aeuſsere der Dinge zu achten.
+
+a) Die Weise auf das Innere zu achten , weiſst hin , auf das , was als Ding an sich selbst und nicht als ein Ding gedacht werden müsse , das nur seyn kann , in so fern es nur als Bestimmungeines andern Dinges gedacht wird.
+
+Es ist also hier erstlich der Begriff eines Dinges an sich selbst, des Selbstseyenden und zweitens der Begriff dessen , was nicht als ein
+
+Selbstseyn , sondern nur als die Bestimmung eineş Selbstseyenden gedacht werden kann. Ich kann
+
+[p. 51] Inneres nicht denken , ohne ein Etwas , dem es innerlich ist ; ich bin also durch diese Regel angeleitet, zumInnerndas Ding , indem es ist, und zum Dinge das Innere , das in ihm ist, zu suchen. Der Eine Begriff weist durch das Denken selbst nothwendig auf den Andern.
+
+Sonderbar !
+
+Meine Denkkraft wirft hier einen
+
+Begriff aus , wodurch , als ein Merkmal ich ein Ding denken soll ; aber wie ? als ein Ding , das selbst gar nicht als Merkmal , sondern als ein Etwas , was die Grundlage aller Bestimmbarkeit durch Merkmale oder Begriffe sey, gedacht werden soll. Wenn ich also z.B.urtheile : Kajus ist ein Ding an sich; so bestimme ich Kajus durch einen Begriff oder Merkmal; aber ich bestimme durch diesen Begriff , Kajus selbst sey kein Begriff und kein Merkmal eines andern Dinges. Die Regel der Betrachtung ist hier also: achte auf das, was Ding an sich selbst ist, und auf das was bloſse Bestimmung der Dinge ist; achte also auf das Ding selbst und seyn Inneres . Die Denkkraft setzt also durch diese Regel fest, daſs alles, was ist, entweder ein durch sich selbst bestehendes Wesen , oder ein , einem solchen
+
+Wesen angehöriges Wesen, seyn müſse; sie setzt also fest , daſs jedes Angehörige nur dadurch als ein solches gedacht werden und seyn könne, daſs auch noch ein Etwas gedacht wird und ist , welches keine Angehörigkeit irgend eines Andern ist. So ist die Einbildung einEtwas , was kein Daseyn für sich selbst hat , sondern es nur dadurch hat, daſs ein Etwas ist , dem sie angehört, oder dessen In4* [p. 52] neres sie ist; dasjenige aber, dem sie angehört , muſs alsEtwas gedacht werden, das Keinem angehört, was also ein Ding an und für sich selbst ist, mithin durch den Begriff gedacht wird, daſs es kein Merkmal eines Andern seyn könne.
+
+Die Denkkraft sagt also z. B. in diesem Falle mit ihrer Betrachtungsregel ; die Einbildung ist ein Etwas, was gar nicht seyn kann, wenn nicht ein Ding ist , dem sie angehört und dessen Inneres sie ist und welches selbst keine Angehörigkeit oder Innerlichkeit eines andern Dinges ist.
+
+Die Regel dieser Betrachtung sagt also überhaupt, erstlich: achte in der Betrachtung der Dinge auf das, was seyn muſs, wenn irgend Etwas als einem anderm
+
+Etwas angehörig gedacht werden und seyn soll; achte also auf das , was der Grund der Möglichkeit aller Bestimmung an ihm selbst sey , achte auf das , was die Urwesenheit , die Grundlage , der Boden aller Bestimmbarkeit durch Merkmale sey ; achte zweitens aber auch auf das, was nur durch Angehörigkeit , nur als Angehöriges seyn und sein Daseyn haben könne. Wie frägt also hier die Denkkraft , wenn ihr Etwas zum Bedenken dargeboten wird ? sie frägt : ist dies Etwas ein Etwas , das einem Etwas angehört oder ist es ein Etwas , dem ein Etwas angehört? Mit dieser Frage durchläuft sie das Weltall, so weit es ihr zur Betrachtung anheim fällt und zwar thut sie dies durch eine Regel , wovon sie selbst die Urheberin ist ; denn diese Regel der Betrachtung geht allem beträchtlichen Stoffe voran; unbeachtet, ob oder [p. 53] wie er ihr gegeben werden möge ; ob durch die Art unseres Anschauens oder durch eine andere.
+
+In der Folge wird sich auch noch zeigen, daſs unsre Anschauung uns zu diesem Begriffe , in seiner vollendeten Bedeutung gedacht, also zum Begriffe der Urwesenheit , keinen unbedingten sondern stets nur einen bedingten Beleg liefert und somit das Unwesen des Wesenden in der strengen Ansprache, wie sie die Denkkraft macht, gar kein Erschauliches ist, sondern ein bloſses Gedankenwesen , darum aber doch nicht etwa ein Unding , sondern ein durch die Denkkraft selbst feststehender Begriff, unter dessen Leitung sie das Daseyn der Dinge zu regeln sucht.
+
+b) Eben diese Denkkraft, welche aus sich selbst die Weisung hat, zu fragen: was muſs, wenn es ist, nur als Ding an sich selbst, was nur, wenn es ist , als etwas einem Dinge Angehöriges gedacht werden? wirft nun auch aus sich selbst die Frage auf: Ist etwas ein Etwas , wodurch etwas ist ? oder ist etwas ein Etwas , was durch ein Etwas ist ?
+
+Ist etwas ein Etwas, was Grund des Seyns eines Etwas, oder ein Etwas , was Folge des Seyns eines Etwas ist ? Ist etwas ein Begründendes oder ein Begründetes ? Ist etwas Ursache , oder ist es Wirkung ? Wer nur über etwas, was ist, denkt, kann sich, blos weil er denkt , nicht enthalten , zu fragen : Woher? Aber eben diese Frage wäre nicht möglich, würde die Denkkraft nicht durch einen Begriff oder eine Regel , als Regel ihres Bedenkens , durch sich selbst [p. 54] auf sie gesteuert. Was frägt sie also durch diese Frage? sie frägt , ob etwas Grund oder Folge , ob etwas Folge oder Grund sey, sie verfährt also durch den Begriff des Grundes und durch den Begriff der Folge, und beide Begriffe führen durch sich selbst nothwendig auf einander. Von jedem also , was der
+
+Denkkraft zum Bedenken dargeboten wird, frägt sie : bist du der Grund zu Etwas, oder bist du die Folge aus Etwas ? Wärest du Keins von Beiden , so ginge dir eine Seite der Verständlichkeit für mich ab. Indem nun die Denkkraft ein Ding als Grund denkt, so denkt sie ein Inneres desselben, ein Etwas, was ihm angehört ; also , daſs es Grund zu Etwas sey, ist der Begriff oder Merkmal desselben; also ein Etwas , was nicht seyn kann , wenn nicht ein Etwas ist, in welchem es ist. Ein Ding aber als ein Etwas, was Grund eines Etwas ist, denken, heifst eben so viel, als es als Ursache , als thätig oder wirksam denken. Aber eben dieser Begriff führt den des
+
+Begründeten , der Folge , der Abhängigkeit oder Wirkung mit sich. Es ist aber diese Regel der Betrachtung der Dinge eine ganz andere, als die des Dinges an sich selbst und des Angehörigen. Durch diese wird , wie wir gesehen haben, gedacht, erstlich ein Ding sey ein solches , was nicht als Bestimmung eines andern gedacht werden und seyn könne , was also ein für sich selbstdaseyendes, ein selbstständiges Dingsey; zweitens ein Ding sey ein solches , was nur als Bestimmung, nur als solches gedacht werden und seyn könne , was in einem andern bestehe.
+
+Durch die Regel des Grundes und der Folge wird aber gedacht , erstlich ein Ding sey ein solches, welches der Grund des Daseyns eines Etwas , ein Etwas das Daseyn eines andern begründendes , ein ursachliches , wirksames , thätiges sey ; zweitens :
+
+einDing sey ein solches, welches Folge von dem Daseyn eines andern Dinges , ein Etwas durch das Daseyn eines andern begründetes , verursachtes , gewirktes , gethanes sey. Wir wollen den Unterschied beider Begriffe durch ein Beispiel erleutern. Erstens. Es sey das zur Betrachtung Gegebene eine Einbildung ;
+
+so frägt die
+
+Denkkraft zuerst : ist die Einbildung ein Ding an sich selbst, ein durch sich selbst bestehendes Etwas ? oder ein solches , welches nur seyn kann , in so ferne ein Etwas ist , in welchem es , als diesem angehörig , be steht ? Eins von beiden , sagt die Denkkraft , muſs sie seyn. Sie sey das letztere , wie sie es denn ist; so kann ich dies nur denken, in ferne ich Etwas denke, dem sie angehört. Sey ich dies selbst: so denke ich mich als das Wesen selbst, die Einbildung aber als ein Etwas, was mir angehört, als ein Inneres meines Wesens.
+
+Dies ist die Betrachtung nach der ersten Regel, welche die Verbindung des Angehörigen , des nicht für sich selbstseyenden, zu einem für sich selbstseyenden , bezielt. Beides zu einander soll gesucht werden und ist es gefunden, so heiſst es dann in dem vorliegenden Falle: die Einbildung ist mir ein Etwas , das nur dadurch seyn kann , daſs es in mir ist; wogegen ich aber ein Ding bin, welches keine [p. 56] bloſse Zubehör eines Andern ist. Zweitens , frägt die Denkkraft : woher die Einbildung ? In der Frage aber: woher? liegen die Begriffe des Etwas , durch welches etwas, und des Etwas, was durch dasselbe seyn soll. Diese Frage frägt nicht mehr, ob die Einbildung ein mir bloſs anhängendes oder ein für sich selbst bestehendes Etwas sey; sondern , ob ich der
+
+GrunddesDaseyns derselben sey? was nun der Grund. derselben ist , ist das , wovon ihr Daseyn abhängt ; und sie , deren Daseyn von jenem abhängt , ist die Folge desselben. Bin Ich nun das Wesen , von welchem das Daseyn der , in mir seyenden , Einbildung abhängt , so bin Ich ein Etwas , was Grund des Daseyns eines Etwas ist, das ist, einbegründendes, wirksames thätiges Wesen , und diese Thätigkeit gehört zu meinem Innern; ich bin aber der Grund zu der zu meinem Innern gehörenden Einbildung; diese ist immer Folge aus meiner innern Wirksamkeit. Es finden in diesem Falle beide Regeln der Betrachtung ihre Belege und ich werde bestimmen: die Einbildung ist ein Etwas , was nur ist , in so ferne es mir (oder irgend einem andern , für sich selbstseyenden) anhängt; sie ist ferner Etwas , dessen Daseyn in mir von mir abhängt. Sie hängt mir an und hängt von mir ab ; sie ist in mir und ist durch mich. So werden wir in einem andern Beispiele bestimmen :
+
+Der Adel ist ein Etwas , was nur in einem Staate und durch einen Staat seinDaseyn haben kann ; er ist etwas, einem Staate anhängendes und etwas von einem Staate abhängendes. Sonach haben beide Regeln ihre eigne Bedeutsamkeit im Denken.
+
+[p. 57] Dies liegt nun in der Ansprache , welche die beachtende Denkkraft durch den Begriff des Innern macht; 1) Ding an sich selbst oder bloſse Zubehör des Dinges ; 2) Grund zu Etwas oder Folge aus Etwas seyn. Dies sind die Begriffe , in welche sich der Begriff des Innern auflöst- und durch welche er sich hervorthut.
+
+Denn das Innere kann ich nicht denken, ohne ein Ding 2 denken , in welchen es sey ; das Inseyn des Dinges kann ich nicht als Folge als aus dem Dinge denken, ohne das Grundseyn des Dinges zu diesem Inseyn als ein Inseyn desselben zu denken. Ein Ding als Grund des Daseyns von Etwas gedacht , ist die Wirksamkeit desselben und diese Wirksamkeit, als ein Inneres desselben , benennen wir nach ihrer
+
+Folge oder Wirkung. Ist z. B. diese Folge eine Einbildung, so benennen wir das, wodurch das Ding der Grund zu dieser ist , Einbildungskraft. Der Begriff des Innern , als Regel der Beachtung , bedeutet nun überhaupt die Anweisung , auf dasjenige zu achten , was nur in Beziehung auf das Ding an sich selbst und allein in Betrachtung komme; sonach auf dessen innere sowohl
+
+Einhelligkeiten als Widerwärtigkeiten , sowohl Thätigkeiten als Folgen derselben für dasselbe zu achten. Freude und Vorstellung stimmen zu einander und sind
+
+Einhelligkeiten ; Freude und Schmerz , sind einander abstimmig und daher Widerwärtigkeiten ; aber jene wie diese sind Inneres und somit kann ein und dasselbeWesen sowohl durch Einhelligkeiten als Widerwärtigkeiten bestimmt seyn. Zum Begriff des Innern gehört ferner der Begriff des für sich selbst und [p. 58] des nur als Bestimmung in einem Andern bestehenden, des Grundseyns zu Etwas und des Folgeseyns aus Etwas. Einbildung ist ein Inneres, der Grund des Daseyns derselben , als eines Innern, ist auch ein Inneres. Unter allen diesen Vorzeichnungen nun die Dinge zu bedenken , das liegt in der Regel , durch welche die Denkkraft sagt: achte auf das Innere der Dinge.
+
+c) Aber diesen den Begriff des Innern kann sie wiederum nicht denken , ohne zu ihm den Begriff des Aeuſsern zu denken und somit sich auch diesen zur Regel der Betrachtung zu setzen.
+
+Durch den Begriff des Innern denkt sie das Ding an sich selbst und das was es durch sich selbst ist mit allen seinen Einhelligkeiten und Widerwärtigkeiten; aber für sich allein; durch den Begriff des äußern denkt sie sich aber die an sich selbst wirksamen Dinge in Verhältnifs zu andern , auch selbst wirksamen Dingen , deren keines ein Inseyn, bloſse Zubehör oder Bestimmung des Andern seyn kann; also ein Verhältniss der Dinge an sich selbst zu Din gen an sich selbst. Nach der vorigen-Regel der Betrachtung des Innern liegt hier schon der Begriff des Dinges an sich selbst und seiner Wirksamkeit zum Grunde und es kann nur noch die Frage sein , welch Bedeutung die Denkkraft durch den Begriff des Verhältnisses dieser Dinge , zu einander anwinke. Es liegt im Begriffe des Aeussern , daſs ein Verhältniſs [p. 59] zwischen Selbstwesen undSelbstwesen gedacht werden und sein solle ; wo nicht, so ginge der Welt eine Seite der Verständlichkeit für die Denkkraft ab. Es liegt im Begriffe der Wirksamkeit der Dinge an sich f selbst; daſs dieses Verhältniſs nur als ein aus dieser
+
+Wirksamkeit hervorgehendes seyn könne; mithin ein Verhältniſs sey, in welchem die Dinge an sich Gründe der Bestimmung der Dinge an sich seyn mithin einander wechselseitig bestimmen sollen; daſs mithin ein Ding A der Crund der Bestimmung in einem Dinge B und wiederum B der Grund der Bestim:
+
+mung in dem A sey. Das ist nun ein thätiger Einfluss der Dinge an sich selbst auf Dinge an sich selbst. Die Regel der Betrachtung ist hier also : Alle für sich selbst bestehende und durch sich selbst thä tige Dinge unter dem Begriffe der wechselseitigen Bestimmung durch einander zu bedencken.
+
+Diese Regel ist von groſser Bedeutsamkeit und sie spricht als solche , ehr und bevor es noch zur Betrachtung der Dinge kommen mag , bloſs aus der Macht des Denkens , einen durchgängigen thätigen (dynamischen) Einfluss aller Dinge auf Alle aus. Alle Einbildungskraft ermattet von dem Schwunge, in welchen sie durch diesen Betrachtungsbegriff versetzt wird und dies mag zugleich als Beweis dienen , daſs dieser Begriff, wie alle Urbegriffe , ein reiner Begriff des Denkens selbst , keinesweges aber ein aus der Betrachtung der Dinge erst erlernter sey. ' Wie könnte man auch einen Begriff aus der Erfahrung lernen [p. 60] , für welchen diese kein völlig erreichendes Beispiel darbietet ? das was alle Erfahrung bedingt und diese selbst erst möglich macht, kann selbst keine
+
+Gabe der Erfahrung seyn. wie bedingt und 1 Dennoch steht alle Erfahrung , unvollständig sie auch immer seyn und bleiben mag, doch unter dieser Regel und gäbe sie uns gar kein
+
+Beispiel des Einflusses der Dinge an sich auf Dinge an sich , so würde sie für uns aller Deutung und Bedeutsamkeit durch diesen Begriff ermangeln. Indessen ist schon jeder Stein, welcher den andern stöfst und von ihm wieder gestoſsen wird; jeder Gedanke, wodurch der Mensch auf den Menschen wirkt , ein
+
+Beispiel zu diesem Begriffe.
+
+Wer kennt nicht die
+
+Macht der Gedanken , wodurch denkende Wesen auf denkende Wesen einen Einfluss haben ? Wie weit erstreckt sich öfters ein einziger Gedanke eines einzigen Mannes ? er geht von Volk zu Volk , von Zeitalter zu Zeitalter und durchwogt mit zauberischer Kraft Iahrhunderte , ja wohl Iahrtausende und so wirken Wesen noch auf Erden und auf Menschen , die vor Iahrtausenden schon der irdischen Erfahrung ent schwunden sind ! Durch die nun erörterten Drei Ansätze rundet und schliefst die Denkkraft ihre Vorzeichnungen und Ansprachen an die Gegenstände; in ihnen setzt sie sich Regeln aller ihrer Betrachtung und aus ihnen ergeben sich alle Urbegriffe , Dinge zu denken. Dieser Urbegriffe uns , durch Aufmerksamkeit auf unser eignes Denken , bewuſsť zu werden , vermögen [p. 61] wir noch , aber sie beweisen oder irgendwoher noch ableiten zu wollen , ist ein eben so vergebliches , als unbedachtes Unternehmen.
+
+Ich gehe in meinem Denken auf Einerleiheit und Verschiedenheit ; auf Einklang und Mislaut , auf
+
+Inneres und Aeusseres; in diesem Gange offenbaret sich meine Denkkraft selbst und sie ist nur Denkkraft , in so fern sie also verfährt. Nun noch fragen ;
+
+woher geht sie so? ist eine Frage, die ja selbst allererst durch sie als solche auftritt.
+
+Indem sie diese
+
+Frage aus sich selbst aufwirft , stellt sie dieselbe als Gesetz ihres Bedenkens der Dinge auf. Mit diesem , daſs dies Gesetz ihres Denkens sey , ist alle weitere Nachfrage für sie selbst geschlossen und nur noch die Bedeutung oder der Geist , welcher in dieser Regel waltet , zu verstehen. Sie wendet sich aber mit dieser Frage an die Dinge und somit kann man, durch die Denkkraft aufgeregt, nur noch fragen : ob die Gegenstände sich dieser Frage unterwerfen und nach der Regel des Warum und Darum versehen lassen ?
+
+Würde die Denkkraft in ihrer Betrachtung nicht durch diese Urbegriffe geleitet ; so könnte es ihr auch nichts helfen , Erfahrungsbegriffe zu machen.
+
+Denn ihre Angelegenheit ist es , mit solchen Erfahrungsbegriffen zu schalten und walten.
+
+sollte sie aber mit diesen und durch diese schalten und walten , hätte sie nicht in sich selbst Regeln , als Urbegriffe , durch welche sie mit diesen erlernten
+
+Begriffen umzugehen und somit Erkenntnifs durch
+
+[p. 62] Begriffe und aus Begriffen zu Stande zu bringen vermögte?
+
+So aber kommt hier alles in sein gehöriges Geleise. Begriffe von Dingen gewinnen , Dinge durch Begriffe bestimmen ; nach Urbegriffen Begriffe von Dingen gewinnen; nach Urbegriffen Dinge durch Begriffe bestimmen ; dies ist das Ziel und Kreislauf der Denkkraft.
+
+Ietzt wird es uns auch verständlich werden, was es heisse ; die Denkkraft sey ein Vermögen der Er kenntniſs durch Begriffe.
+
+Es kann und soll dies nichts anders heissen , als sie sey ein Vermögen , Vorstellungen, sie mögen ihr kommen woher sie wollen, als solche zu Denken , wodurch sie Gegenstände bestimmen kann. Diese Handlung , eine Vorstellung als dasjenige zu denken , was der Gegenstand ist und somit sie als den Begriff von diesem zu denken , das ist ihr Werk. Hieraus versteht sich, daſs sie die Vorstellung aus den Gegenständen erachten müsse , daſs dieses nur durch ein selbstthätiges
+
+Auffassen der Darbietungen , durch selbstthätiges Durchgehen und Unterscheidung derselben, und endlich durch Absonderung der Einen von der Andern geschehen könne. Was nun die Denkkraft aus der Darbietung erachtet , daſs ist ihr ein Etwas , durch welches sie diese Darbietung denkt; aber auch eben dieses Erachtete, welches nun ihre Gabe ist und bleibt, wenn gleich die Darbietung entschwindet , denkt sie als Etwas , wodurch sie viele mögliche Darbietungen denken und diese wiederum von vielen von andern möglichenDarbietungen, [p. 63] unterscheiden kann. Die Denkkraft hat also an ihm eine Regel der Vergleichung und Unterscheidung der Gegenstände. Dies ist das Wesen des Begriffs oder der Begriff des Begriffs selbst.
+
+Solcher Begriffe, Regeln oder Merkmale kann sich die Denkkraft nun Viele erachten und diese sind , eben weil sie sie erst durch Erachtung aus den Gegenständen entnimmt, sämmtlich Erfahrungsbegriffe. Wir unterscheiden diese von denjenigen Begriffen , welche die Denkkraft nicht aus der Erfahrung schöpft , sondern durch sich selbst hat. Halten wir nun fest, daſs durch jeden Begriff Etwas gedacht werden müsse , daſs mithin ein Begriff, durch welchen nichts gedacht wird kein Begriff ist ;
+
+halten wir ferner fest, daſs nun nicht die Rede ist von Begriffen, welche die Denkkraft durch sich selbst hat, sondern von solchen, welche sie allererst durch Betrachtung von den Gegenständen erachtet, also von Erfahrungsbegriffen , so tritt nun hier wiederum dieselbe Frage , wie oben , ein , nämlich diese , wie schaltet und waltet sie mit diesen Begriffen ? Die Antwort ist: siethut mit diesen Begriffen , was die Weise ihres Thuns mit sich führt.
+
+Sie verfährt mit ihnen also nach ihrer Regel der Einerleiheit und Verschiedenheit , der Einstimmung und des Widerstreits ; der Innerlichkeit und Aeuſserlichkeit.
+
+Die Denkkraft gewinnt ihre Begriffe sämmtlich durch Absonderung dessen, was mehreren gemeinsam ist. Daſs eine Vorstellung als solche gedacht wird, [p. 64] macht sie zum Begriff. Dies ist das Wesen des Begriffs , mithin dasjenige , was ihnen allen wiederum gemeinsam ist. Es liegt aber eben in dieser Handlung, wodurch sie einer Vorstellung den Werth giebt , Begriff zu seyn , daſs sie darauf ausgehe , die mannigfaltigen Vorstellungen nach einer Regel zusammen zu setzen. Die mannigfaltigen Vorstellungen machen den Inhalt , die Regel aber , nach welcher sie im Denken zusammengefasst werden, die Einheit derselben aus.
+
+Diese Einheit beruht auf dem Denken und es ist an ihr nichts weiter zu unterscheiden und nur zu bemerken, daſs sie dasjenige sey, als was jede
+
+Vorstellung, als Inhalt des Denkens , gedacht werden müſse, wenn sie als Begriff dienen soll. Indem sie nun eine Vorstellung als eine solche denkt , wodurch , als Regel, eine andere gedacht wird, denkt sie sich dieselbe als eine solche, wodurch viele andere Vorstellungen gedacht und diese sämmtlich durch jene zusammen und vereint gedacht werden sollen. Sämmtliche Vorstellungen aber , welche sie durch jene vereint denkt , kann sie wiederum nur durch Absonderung erhalten und als solche denken , durch welche wiederum viele andre gedacht und vereint werden können; sie sind ihr daher selbst wiederum Begriffe , aber Begriffe , die durch jenen Begriff vereint gedacht werden. Jener ist der vereinigende und diese sind die durch ihn r vereinigten Begriffe. Viele Begriffe durch einen Begriff vereinigt, geben einen zusammengesetzten Begriff und die [p. 65] diejenigen Begriffe , welche durch diesen vereinigt sind, sind die Bestandtheile oder Theilbegriffe desselben. Der zusammengesetze Begriff ist der Zersetzung und Auflösung fähig. Ein Begriff, welcher keiner Auflösung fähig ist, ist einfach. Von ihm sagt man , er sey nur sich selbst sein Merkmal. So sagt man z. B. die Einheit sey sich selbst ihr Merkmal; denn man weiſs sehr wohl, was man denkt, wenn man Einheit , zum Unterschiede der Vielheit denkt, aber man kann diesenBegriffnicht weiter auflösen.
+
+Die Denkkraft nun, indem sie darauf ausgeht, die Einerleiheit des Verschiedenen zu denken ; will hiermit nichts anderes , als: Einen Gegenstand durch viele Begriffe und viele Gegenstände durch einen Begrifferkennen und sofrägt sie nach der Vielheit der Begriffe , wodurch ein und dasselbe Ding , und nach der Vielheit der Dinge , welche durch einen und denselben Begriff gedacht werden können. Dies ist hier die Regel , nach welcher sie in der Erachtung der Begriffe von den Dingen verfährt. Sie geht hierbei auf das All der Dinge , welche durch Einen Begriff und auf das All der Begriffe, durch welche ein Ding als bestimmt gedacht und erkannt werden könne.. Vollendete Angabe der Merk male eines Dinges, vollendete Angabe der Dinge eines Markmals, das ist das Ziel, welches sie sich durch die
+
+Regel der Einerleiheit und Manigfaltigkeit setzt. Ihre zweite Richtung nimmt sie nur durch die Regel der Einhelligkeit und des Widerstreits.
+
+[p. 66] Się frägt durch welche verschiedene Begriffe kann ein Ding gedacht werden , durch welche nicht?
+
+Sie frägt durch welche Begriffe ? also nicht durch einen Begriff, der selbst, kein Begriff ist , das heiſst , durch welchen selbst nichts gedacht , sondern durch einen Begriff, durch welchen Etwas gedacht wird. Von dem also, was sie selbst nicht denken kann, mithin auch nicht denkt, was ihr also selbst Null und
+
+Nichts, völliger Mangel ist, kann sie gar nicht fragen, ob es einhellig sey mit einem andernEtwas? Sie frägt also nur : ob Etwas , was sie als Begriff aufgenommen hat, mit Etwas was sie auch als Begriff aufgenommenhat, einhellig sey oder nicht ? Da sagt sie nun: alles ist mit einemDinge, mit119 S hin auch jeder Begriff mit einem andern Begriffe, einhellig, durch welchen nicht Etwas gedacht wird, was ひょう dem Etwas , was16durch entge115 jenen gedacht wird , gen gesetzt ist , das heiſst, es zum Theil oder ganz aufhebt.
+
+Hiermit 110 scheint sie wenig zu sagen ; aber sie will auch nicht mehr sagen. Sie sagt aber dadurch: daſs sie aus sich selbst wohl die Regel (den Urbegriff) der Einhelligkeit und des Widerstreits habe ; aber selbst nicht angeben könne , was nun dasjenige in der Welt sey, welches mit einander einhellig oder mit einanderin
+
+Widerstreit sey; sondern die Belege und Gegenstände hierzu lediglich aus der Erfahrung erachten müsse. ib Gabe es nichts Einhelliges, z. B. daſs ein Wesen Mensch und Thier seyn könne , und nichts widerstreitendes z. B. dafs die Thierheit der Menschheit dennoch auch widerwärtig seyn könne; so fände dieDenkkraft [p. 67] für ihrenBegriff des Einklangs und Mislauts keine Bestättigung und ihre Vorzeichnung , nach A+B— A die Dinge zu beachten und nach derselben Regel mit den erachteten Begriffen zu schalten , wäre ein müſsiger Gedanke. }
+
+Diesem nach ist alles , was die Dinge sind, entweder mit einander einhellig oder einander widerwärtig und da wir , was die Dinge sind, denkend nur durch Begriffe erkennen können, so sind auch die Begriffe , wodurch wir sie denken, entweder mit einander einhellig oder einander widerwärtig. Dies sind die Verhältnisse, in welchen Dinge zu Dingen und die Begriffe zu Begriffen gestellt werden. Wie die Denkkraft frägt , ob es Einhelligkeiten der
+
+Dinge, mithin auch der Begriffe von ihnen gebe; so frägt sie auch, ob es Widerwärtigkeiten derselben, mithinauch der Begriffe von ihnen , gebe ? Sie geht mit dieser Frage an die Dinge und die Begriffe Es ist aber hierbei das Innere und Aeufsere der Verhältnisse derselben noch nicht berücksichtigt. Die Denkkraft aber , welche die Begriffe , unter die
+
+Regel der Einerleiheit und Verschiedenheit und unter die Regel der Einhelligkeit und des Widerstreits stellt, stellt sie nun auch unter dieRegel der Innerlichkeit undAeuſserlichkeit; das heifst: Sie ordnet sie nach den Verhältnissen der Ingehörigkeit und A hängigkeit. Debnodalous of As Die Denkkraft frägt hier, ob ein Begriff B der
+
+Begriff von den Begriffe A, das heifst , ob das Merkmal B ein Merkmal des Merkmals A sey , ob mithin 5*
+
+[p. 68] BdieBedingung sey, A zu denken. Dasjenige A nun, dessen Bedingung zu denken etwas Anderes B ist; wird durch dieses gedacht und dieses wird als solches gedacht , was schon im Begriffe A gedacht wird, mithin das Innere desselben ist. Im Begriffe Mensch denke ich mir die Vernünftigkeit und diese ist etwas, ohne welches der Mensch nicht gedacht werden kann, was ihm also innerlich zukommt.
+
+Hier wird also der Begriff B (Vernünftigkeit) als die Regel der Regel A (Mensch) , dieser also als ein Begriff gedacht, welcher nicht ohne jenen gedacht werden kann. Das heiſst, dasDenken des A ist durch B bedingt , oder B ist die unumgängliche Bedingung A zu denken, und Aist das Bedingte,
+
+DieDenkkraft sagt nun: Wenn ichdas Bedingte denke, so muſs ich die Bedingung denken; das heiſst , A ist mir der zureichende Grund B zu denken. Was ich als A denke , muſs ich als B denken, wenn B die Regel der Regel A ist , mithin nicht ohne B gedacht werden kann. Denke ich also , ein Ding ist Mensch (A), so muſs ich auch denken , dies Ding sey vernünftig (B). BeideBegriffe werden hier aberals solche gedacht, wodurch ein Ding als bestimmt gedacht wird , mithin als solche die aus dem Dinge selbst erachtet sind und sein Inneres ausmachen. Der Eine Begriff B ist aber das Merkmal des Merkmals A; B die unumgängliche Bedingung des A, A die zureichendeBedingung desB. Der Theilbegriff ist die Bedingung, den Ganzen zu denken. Dies will aber die Denkkraft mit der Regel , die wir hier erwägen , nicht sagen ; son [p. 69] dern dieses: ein Theilbegriff ist die unumgängliche Bedingung den andern Theilbegriff und dieser die zureichende Bedingung den erstern zu denken. Es ist der Denkkraft nicht genug , daſs ich ein Ding durch zwei Begriffe, Mensch und Vernünftigkeit denke, sondern daſs ich denke, der Begriff, Mensch, sey durch den Begriff , Vernünftigkeit, bedingt; Vernünftigkeit sey Merkmal des Merkmals Mensch.
+
+B hat in A , A hat in X (einem Dinge) sein Bestehen. Das heifst nun : wenn ich erkenne, daſs X A sey , so ist dies ein zureichender Grund zu erkennen, daſs A auch B sey. Die Regel , welche hier die Denkkraft aus sich spendet , ist : Der Begriff vom Begriffe eines Dinges, das Merkmal des Merkmals eines Dinges , ist Begriff (Merkmal) des Dinges selbst. Beide aber, sowohl das Mermal , als das Merkmal dieses Merkmals werden als ein solches Etwas gedacht , was nur dadurch ‫را‬ seyn kann , daſs es einem Dinge angehört , mithin Inneres desselben ist.
+
+Nennen wir nun , obgleich A und B beide Begriffe sind , A den Begriff und B das Merkmal desselben ; denn auf den Namen kommt es hier nicht an; so wird A unter B gedacht , das heiſst , Bist der höhere und weitere , A der niedere und engere Begriff. Der niedere und engere Begriff ist. dem höhern und weitern untergeordnet , dieser daher jenem übergeordiet. Unter den höhern Begriffe können viele niedere gedacht werden, so denkt man sich unter dem Begriff Sinnlichkeit : Menschen und Thiere.
+
+[p. 70] Die Unterordnung ist entweder eine unmittelbare oder mittelbare. Der Begriff Mensch steht unmittelbar unter dem der Vernünftigkeit ; weil kein Begriff, als Zwischenbegriff angegeben werden kann , der höher wie der Begriff Mensch und niedrer wie der Begriff Vernünftigkeit , welcher also derjenige wäre, durch welchen man von dem höheren zudem niedern , oder von dem niedern zu dem höhern kommen könnte.
+
+Mittelbar ist aber die Unterordnung, wo ein solcher Zwischenbegriff angegeben werden kann; z. B. zwischen dem Begriffe Thier und Raubvogel liegt der Begriff Vogel. Ein Begriff ist nicht darum höher und weiter als ein anderer , weil er mehr unter sich hat , als dieser ;
+
+denndies kann man nicht wissen; sondern weil er diesen und aufser diesem noch mehr unter sich hat. Hat daher ein Begriff den andern nicht unter sich, wie z. B. die Begriffe : Sperling und Krähe einander nicht unter sich haben, indem keine als die Unterart des andern gedacht werden kann , so kann man von diesen Begriffen auch nicht ausmachen , welcher von beiden mehr unter sich habe , als der andere; ob es mehr Unterarten von den erstern oder den zweiten gebe.
+
+Je höher und weiter ein Begriff ist , desto weniger denkt man in ihm ; je niedriger und enger er ist, desto mehr denkt man in ihm.
+
+Man drückt dies auch so aus: je gröſser der Umfang eines Begriffs ist, desto kleiner ist sein Inhalt ; je kleiner der Umfang eines Begriffs , desto größer sein Inhalt ; mit andern Worten: je höher und weiter ein Begriff ist, desto gehaltsleerer [p. 71] ist er ; je niedriger und enger er ist, desto gehaltsvoller ist er.
+
+Alles, was im höhern Begriffe gedacht wird, wird auch in dem niedern gedacht. Alles was dem höhern Begriffe widerstreitet , widerstreitet auch dem niedern: (dictum de omni et nullo.) Was in allen niedern Begriffen eines höhern Begriffs gedacht wird, wird auch in diesem höhern gedacht. : Wie gelangt man zu höhern , wie zu niedern Begriffen ? Man gelangt zu höhern Begriffen, wenn man von den besondern Bestimmungen derselben weg sieht.
+
+So denkt man im Begriffe Mensch , dafs er ein sinnliches und vernünftiges Wesen sey. Sieht man davon weg, daſs er ein sinnliches Wesen sey, so bleibt blos der Begriff von einem vernünftigen Wesen und dieser ist dann höher als der Begriff von einem Men-schen.
+
+Durch fortgesetzte Wegsicht und Absonderung der Besonderheiten entsteht eine Reihe von mehreren, einander übergeordneten , das heifst, immer weniger bestimmten Begriffen ; z. B. Eisen, Metall , Körper, Ding.
+
+DiegröfstmöglichsteAbsonderung giebt den höchsten (abgezogensten, abstractesten) Begriff, das heifst, denjenigen , in welchen manvon nichts mehr wegsehen kann , und das ist der Begriffvon einem Dinge, einem Etwas , einem Gegenstande überhaupt. Es ist dies der Begriff des völlig unbestimmten Etwas. Die Regel des Denkens, welche hierbei obwaltet, ist, in derAbsonderung so weit zu gehen, bis nur blos der
+
+Gedanke eines völlig unbestimmten Etwas zurückbleibt.
+
+[p. 72] Durch fortgesetztes Hinzuthun der nähern Bestimmungen zu einem Begriffe, in so weit er noch unbestimmt ist , gelangt man zu einer Reihe von mehreren einander untergeordneten Begriffen; zB. Wenn ich erstlich ein Ding denke, dann dies Ding als Körper , dann den Körper als Metall, dann das Metall als Eisen u. s. w.; so stehen unter dem Begriffe Ding die Körper , unter dem Begriffe Körper die Metalle , und unter dem Begriffe Metall die Eisen , und entsteht hiermit eine Reihe von einander untergeordneten , mithin immer näher bestimmten Begriffen. Der Oberbegriff ist die unumgängliche Bedingung (Regel) den Unterbegriff zu denken, der Unterbegriff aber der zureichende Grund, den Oberbegriff zu denken.
+
+Durch die Absonderung wird also der Inhalt des Begriffs vermindert ; durch die nähere Bestimmung wird er vermehrt. Wenn ich urtheile, ein Körper ist ein Ding, so bestimme ich den Unterbegriff Körper durch den Oberbegriff Ding ; wenn ich urtheile : einDing ist ein Körper ; so bestimme ich den Oberbegriff Ding durch den Unterbegriff Körper; jene Bestimmung geschieht durch Absonderung dessen , was ich schon in dem Begriffe denke ; diese durch Hinzuthun dessen, was noch nicht in dem Begriffe gedacht wird.
+
+Der Unterbegriff entsteht also zum Oberbegriff, wenn zu diesem Etwas hinzugedacht wird , was noch nicht in ihm gedacht wird; durch dieses unterscheidet sich der Unterbegriff vom Oberbegriff. Der gesunde Mensch unterscheidet sich vomMenschen [p. 73] dadurch, daſs zu ihm die Bestimmung , Gesundheit noch hinzugedacht wird. Dinge , welche durch einen und denselben Oberbegriff gedacht werden, heiſsen gleichartig. Das, was zum Oberbegriff hinzugedacht , wodurch dieser also zum Unterbegriff wird , bestimmt den Unterschied der Art (discrimen specificum). Das wodurch sich die einzelnen Dinge einer Art von einander unterscheiden, bestimmt den Unterschied des Einzelnen (discrimen numericum , individuale). Z. B. Ka- jus und Titus unterscheiden sich dadurch , daſs diesergesund, jener krank ist; einzelner Unterschied; ein Volk unterscheidet sich dadurch vom andern, daſs jenes tapfer , dieses feig ist , Artenunterschied ; beide haben das gemein , daſs sie Handel treiben; Gleichartigkeit.
+
+Die Unterbegriffe eines Oberbegriffs oder die Unterarten einer Oberart, welche nicht selbst wiederum Ober- oder Unterart von einander sind , sind im Verhältniſs zu einander, einander beigeordnet; (conceptus coordinati) Man nennt sie Nebenbegriffe , Nebenarten. Durch jeden dieser Begriffe wird etwas gedacht, was durch den andern nicht gedacht wird. Der Oberbegriff ist der sie umfas1 sende und sie sind die, durch denselben , umfafsten.
+
+Jener wird in ihnen und sie werden durch ihm gedacht. Auch können sie , als Begriffe wiederum Oberbegriffe seyn und andere als Unterbegriffe unter sich haben ; dann werden auch sie wiederum in diesen und diese durch sie gedacht. Aber kein Nebenbegriff kann in und durch den ihm beigeordneten gedacht [p. 74] werden ; denn er ist nur dadurch Nebenbegriff , daſs der ihm beigeordnete nicht die Bedingung ist , ihn zu denken; so wie er nicht die Bedingung ist, diesen zu denken.
+
+Z. B. unter dem Begriffe Mensch stehen die
+
+Begriffe Bürger und Landmann; der Begriff Mensch ist die Bedingung (Regel) beide zu denken ; von diesen Beiden ist aber keiner die Bedingung, den andern zu denken.
+
+Nebenbegriffe sind noch nicht einander wider, wärtige Begriffe ; der Eine ist nur nicht die Regel, den andern zu denken , aber dadurch wird noch keiner als solcher gedacht, welcher den andern aufhebt. Sie sind getrennte , aber noch nicht , sich aufhebende Begriffe (conceptus disparati , non repugnantes)
+
+Jetzt werden wir imStande seyn, dasjenige deutlich vorzulegen , was eigentlich die Denkkraft damit sagen wolle , daſs sie darauf dringt , zur Erkenntniſs des Innern die Begriffe einander unterzuordnen. Sie will sagen:
+
+1) Suche von den Unterbegriffen die Obern bis zum höchsten , durch welchen sie alle bedingt und geregelt sind , welcher sie also alle unter sich hat.
+
+2) Suche zu Oberbegriffen die Untern, bis zu dem, welcher, als der Unterste, sie alle in sich befafst.
+
+3) Suche alle Zwischenbegriffe oder Zwischenarten durch alle mögliche Grade des
+
+[p. 75] Unterschieds bis zu dem, der keinen Sprung, um von einem Unterschiede zum andern zu ge langen , mehr zuläßt.
+
+Man mag immerhin sagen , die Denklehre (Logik) sehe von allen Gegenständen weg, die Denk . kraft selbst aber sieht nicht vou ihnen weg.
+
+Sie spendet vielmehr aus sich den Begriff des Gegenstandes und des Daseyns und somit den Begriff des Daseyenden oder des Dinges, aber zu diesem auch Begriffe oder Regeln , es zu denken und dadurch auch Weisungen , als welche wir die Dinge zu denken , und somit auch zu denken haben , was sie sind oder nicht sind.
+
+Die Denkkraft giebt dadurch aus sich selbst Gesetze, die sie als Naturgesetze, mithin als für die daseyenden Dinge gültige Gesetze ankündigt ; so daſs gar nicht mehr die Frage seyn soll, ob die Dinge diesen Gesetzen unterworfen seyn oder nicht, sondern gesagt wird: sie müssen denselben unterworfen seyn ; daſs somit für jedes denkende Wesen durch sein Denken selbst das Gebot und die Aufgabe entsteht, die Natur nach diesen Gesetzen zu erforschen.
+
+Sie sagt: laſst es nur nicht an der Nachforschung nach meinen Gesetzen fehlen, an der Bestätigung und Wahrheit derselben kann es nie fehlen.
+
+Der Geist aber, welchen sie, durch den so reichhaltigen Begriff des Innern , unsrer Schaltung mit Begriffen anhaucht , ist nun dieser :
+
+1) Sucht zur Mannigfaltigkeit die Einheit, das heifst: einen Begriff , durch welchen ihr sie überschauen könnt. Was ihr durch diesen Begriff überLA
+
+)
+
+[p. 76] schauet , dessen Einheit ist er und er ist der Begriff , durch welchen ihr dieses zu denken habt ; das heiſst , derjenige, welcher die Gleichartigkeit desselben bestimmt. Aber diesen Begriff, welcher die Art des durch ihn gedachten bestimmt , betrachtet abermals als einen solchen, welcher wiederum Unterart einer höheren Art, Unterbegriff eines Ober- begriffs ist und sucht zu ihm seinen Oberbegriff , als die höhere Einheit , Art oder die Gattung. Mit dieser verfahrt aber eben so und sucht von dieser höheren Einheit , Art oder Gattung noch eine höhere und dies setzt fort, bis zum höchsten Begriff, höchster Art oder Gattung , das heiſst , bis zu demjenigen Begriff, der alle Mannigfaltigkeit , alle näheren Bestimmungen , alle Arten und alle Unterarten dieser Arten , alle Unterarten dieser Unterarten unter sich hat; dieser höchste Begriff ist dann derjenige durch welchen ihr sie alle überschaut ; er ist die höchste
+
+Einheit und der Gipfel , durch welchen euch dies All- Eins - ist.
+
+2) Sucht aber wiederum auch zur Einheit die Mannigfaltigkeit; d.h. achtet nicht minder auf die Verschiedenheit der Dinge; steigt, von der höchsten Art (Einheit , Regel) zu den Unterarten derselben herab; sucht zur Einfalt, Einheit und Leere eures Begriffs, die Vielhaltigkeit , Mannigfaltigkeit und Fülle desselben. Denkt euch , daſs jede Art ihre Unterarten, jede Unterart wiederum ihre Unterarten habe , das heiſst , denkt euch jeden Begriff (Art) als einen solchen, der noch einer näheren Bestimmung fähig sey und betrachtet keinen Begriff(Art) [p. 77] als einen solchen ; welcher als der unterste und somit als gar nicht weiter bestimmbar angesehen werden müsse.
+
+Die Denkkraft sagt aber hiermit auch zugleich: obwohl alle Unterbegriffe bis zu einem höchsten der nicht mehrUnterbegriff ist gesteigert werden können ; so kann doch kein Unterbegriff bis zu einem solchenUnterbegriff herab bestimmt werden , welcher der Unterste ist. Und dieses liegt in den Wesen des Begriffs selbst , welcher nur immer dasjenige enthält , was verschiedenen Dingen gemeinsam ist , folglich nie die unmittelbare , sondern nur die mittelbare
+
+Vortellung eines einzelnen Dinges seyn kann. Sie sagt aber: suche zu jeder Art die Unterart, zu jeder Verschiedenheit immer kleinere Verschiedenheiten und somit immer nähere Bestimmungen des Begriffs. Daſs aber die Denkkraft sowohl in der ersten
+
+Regel welche das Aufsteigen von der Mannigfaltigkeit zur Einheit , als in der zweiten , welche das Herabsteigen von der Einheit zur Mannigfaltigkeit gebietet, nur ihre eignen Gesetze und mit diesen dann Gesetze derDinge ausspreche, mithin diese Gesetze reindenkliche (logische) Gesetze sind, erhellt schon aus dem hohen Geiste und der groſsen Bedeutsamkeit , welche sie in denselben ausspricht, so, daſs die uns, als Menschen , mögliche Erfahrung bei weitem nicht zureicht, um für den ganzen Sinn derselben auch eine vollendete Bestätigung zu finden. Das liegt aber an den
+
+Schranken unserer Gewahrung, die sich nur in der Annäherung zu dem finden kann, wozu die Denkkraft den überschwenglichen Begriff darbietet.
+
+[p. 78] 3) Wie die Denkkraft sagt: suche zu jederMannigfaltigkeit die Einheit und zu jeder Einheit die Mannigfaltigkeit ; suche zu den untern Begriffen die obern , zu den obern die untern; so sagt sie auch: suche die Zwischenbegriffe ; das heiſst : gehe von dem Gedanken: aus, daſs jeder Unterschied des Un terbegriffs vom obern, noch immer kleinere Zwischen unterschiede zulaſse , wodurch der Uebergang vom Obern zum Untern vermittelt werde; suche also eine vollendete Angränzung der Dinge , durch alle Stuffen ihrer Verwandschaft.
+
+Nach dieser Weisung sollen wir also nicht dafür halten , dafs es zwischen einer Oberart und Unterart der Dinge keine Zwischenart mehr gebe , und somit ein Sprung Statt habe, um von der Untern zur Obern hinauf oder von dieser zu jener herab zu kommen; daſs vielmehr eine Stätigkeit (continuitas) in der Natur obwalte , vermöge welcher die Dinge sich durch immer kleinere Unterschiede von einander unterscheiden und kein je von uns entdeckter Unterschied für den kleinsten zu achten sey.
+
+Auch diesesDenkgesetz für dieBeurtheilung der
+
+Dinge der Welt reicht viel weiter, als uns je die Beschränktheit unsrer Gewahrung führen kann.
+
+Ver möge dieser Beschränktheit stoßen wir aufAbtheilun gen, welche für uns, weil wir die möglichen kleinere Unterschiede nicht mehr gewahren , die Ansicht eines Sprungs darbieten; aber das Denkgesetz sagt, wir sollen unser Maaſs , die Angränzungen der Dinge zu erkunden , nicht für das Maaſs der Angränzungen derDinge selbst halten; sondern auch da noch feinere
+
+[p. 79] Uebergänge undinnigereVerwandschaften vermuthen, wo wir dermalen solche auch nicht erkennen.
+
+Sonach sind es dieBegriffe der Oberart , Unterart und Zwischenart ; Gleichartigkeit , Mannigfaltigkeit und Verwandschaft , welche, als sämmtlich reindenkliche Regeln, die Betrachtung leiten , und die Denkkraft will mit ihnen sagen: es walte in der Welt und Natur die höchste
+
+Einfalt bei der grössten Mannigfaltigkeit; es walte im Uebergange von der Einfallt zur Mannigfaltigkeit , von der Gleichartigkeit zur Ungleichartig. keit, eine solche Gemäligkeit der Abstufungen, daſs zwischen keiner Art und ihrer Unterart eine Unterbrechung, Lücke oder Kluft Statt habe
+
+Alle drei: Regeln haben, in Erwägung der Dinge, sowohl als Gebote wie als Verbote, ihre gediegeneBedeutung und keine ist müssig. Wie die Denkkraft gebietet, zur Mannigfaltigkeit die Einfalt zu suchen, so verbietet sie auch , über die Einfalt die
+
+Mannigfaltigkeit aus der Acht zu lassen. In dem sie aber durch ein solches Gebot und Verbot die $
+
+Regel aufstellt , beide Betrachtungsarten stets zu ein ander zu verbinden; stellt sie auch die Regel auf, dieVerwandschaft aller Dinge durch die feinsten Fäden ihres Ineinandergreifens und ihrer Abstammung zu verfolgen.
+
+Nur durch gleichmäſsige Beobachtung dieser Regeln bewährt sich die Denkkraft der Denkenden vollständig denkgemäfs, und wer die Eine Regel über die Andre vernachlässigt , mufs dadurch unausbleiblich in Einseitigkeit verfallen.
+
+[p. 80] Aus dieserEinseitigkeit entspringt dann derWiderstreit zwischen den Beurtheilern , indem der Eine nur auf die Unterschiede , der Andere nur auf die
+
+Gleichartigkeit achtet und so einander widerwärtig sind, da sie doch , vermöge der Weisung der Denkkraft , beide Betrachtungs- und Beurtheilungsarten verbinden und somit einander fördersam seyn sollten. Wer seine Betrachtung nur auf die Einheit und
+
+Einfalt , mithin bloſs auf die Ausspähung der Gleichartigkeit richtet , verfällt durch diese Einseitigkeit in Witzelei und Leerheit ; wer seine Betrachtung blos auf die Ausspähung des Ungleichartigen und Mannigfaltigen richtet , verfällt durch diese Einseitigkeit in Seichtheit und Beschränktheit aufs Einzelne. Beide aber sagen der Regel der Denkkraft nicht zu. Diese will , daſs sowohl Tiefsinn angewandt werde , um sich der Anfänge und Grundsätze zu bemächtigen, als auch Scharfsinn, um die Unterschiede und näheren Bestimmungen zu erreichen.
+
+Durch den Ersten denkt die Denkkraft viel unter ihrem Begriffe , durch den Zweiten aber viel in demselben; mithin gewinnt im ersten Falle ihre Erkenntniſs an Umfang und Allgemeinheit, im zweiten aber an Inhalt und Bestimmtheit. Wir haben aber eben so wohl nur Verstand unterderBedingung, daſs wir die Gegenstände als gleichartig , wie unter derBedingung, daſs wir sie als ungleichartig denken können ; denn die Beschäftigung, des Denkens besteht ja eben darin, daſs Mannigfaltiges [p. 81] ges unter einem Begriff zusammengefasst werde. Aufgebot des Tiefsinns zur Erforschung der Einheit und Einfalt; des Scharfsinns zur Erforschung der Mannigfaltigkeit und Verschiedenheit ; beidevereint mit einander, beide einander einschränkend und fördernd sind das Wesen und der Preis der Denkkräftigkeit selbst. So viel liegt indemVerfahrenderDenkkraft durch Ober begriffe und Unterbegriffe, durch Regeln der Regeln , Merkmale der Merkmale , und es ist eben so viel , als wenn sie, durch sich selbst, ehr und bevor sie zur Betrachtung der Welt kommt, sagte: es herrscht in der Natur das Gesetz der Einheit und Einfalt es herrscht aber auch in ihr das Gesetz der Mannigfaltigkeit und Verschiedenheit ; wir haben in ihr bei der höchsten Einfalt die größte Mannigfaltigkeit zu erwarten. Es ist daher denkwidrig (unlogisch), die anscheinende unendliche Verschiedenheit der Dinge als solche anzusehen , über welchen keine Gründe der Einheit und Einfalt mehr anzutreffen wären; so daſs man gedrungen wäre , gewisse Verschiedenheiten , wie wir sie entdecken, schon für ursprünglich und anfänglich zu halten , mithin kein Grund der Einheit mehr wäre , wovon auch sie noch abgeleitet werden könnten. Eben so denkwidrig ist es, irgend eine entdeckte Unterart und Verschiedenheit als eine solche zu denken , mit welcher sich alle weitere Bestimmung und Verschiedenheit in der Natur der Dinge selbst schlösse. Die Warnung der Denkkraft für den ersten Fall ist also diese : Halte nicht dafür , daſs die von dir [p. 82] erreichte Einheit und Einfalt (Oberart) die höchste sey, das heifst , vervielfältige nicht ohne Noth die Anfänge der Dinge und ihrer Eigenschaften. Die Warnung für den zweiten Fall ist: Halte nicht da für, daſs die von dir erreichte Unterart die unterste sey und sich unmittelbar auf ein Einzelwesen bezöge; denn jede Unterart, wie tief herab sie auch er reicht werden möge , ist doch immer nur Begriff; weil , was durchs Denken erreicht wird, nur Begriff seyn, mithin nur so etwas enthalten kann , was verschiedenen Dingen gemeinsam ist. Ein Begriff kann als solcher also nie für durchgängig bestimmt gehalten werden. Die Warnung der Denkkraft ist hier alsot , verringere und beschränke nicht ohneGrund die Mannigfaltigkeit und Verschiedenheit der Dinge: den zureichenden Grund dazu aber können wir nie aus der uns möglichen Gewahrung hernehmen, eben weil sie von dem Grade des Scharfsinns und der Unterscheidungskraft abhängt. Die dritte Warnung ergiebt sich aus der Verbindung der beiden ersten.
+
+Sie sagt: Halte , im Aufsteigen von der Mannigfaltigkeit zur Einfalt und im Herabsteigen von der Einfalt zur Mannigfaltigkeit, nicht dafür , daſs irgendwo zwischen einer Unterart und Oberart eine Lücke oder ein Sprung statt habe ; erwarte vielmehr, daſs die Natur in allen ihren Abstufungen gemälig und stetig verfahre und ihre Uebergänge durch die feinstenVerwandschaften nnd Angränzungen bewirke.
+
+Unsre Denkkraft wird in ihrem ersten Anlauf an die Natur von dieser mit einer so groſsenMannigfaltigkeitderDingeund [p. 83] ihrer Eigenschaften überströmt, daſs es ihr anfänglich ihr vorkommen muſs, als wäre hier keine Zurückführung auf Einheit und Einfalt möglich. Sie muſs daher erst viel auffassen und absondern, ehe sie auf Etwas kommt, was sie, als dem Verschiedenen gemeinsames , denken könne. So entdecken wir zuerst vielfältige Vermögen unsers eignen Innern; die Vermögen des Gewahrens , des Einbildens , des Erinnerns , des Bewissens, des Vergleichens , Unterscheidens, des Zusammenfassens, des Zersetzens ; des Gefühls der Lust und Unlust, des Begehrens u. s. w. Hier gebietet nun die Denkkraft, die Verschiedenheiten dadurch zu verringern, daſs man auf die versteckte Einerleiheit und Gleichartigkeit achte und somit suche , gewiſse Verschiedenheiten diesen unterzuordnen; also z. B. zu sehn, ob sich Errinnerung nicht auf Bewissung und Einbildung gründe und also nur einenähereBestimmung (Unterart) von diesen , mit, hin keine Grundkraft an sich selbst, sondern nur eine verschiedeneAeuſserungvonjenersey. Sowerden wir in einem andern Falle die mannigfaltigenBewegungen der Körperwelt durch Vergleichung auf etwas, ihnen Gemeinsames , zurückzuführen suchen , werden sie sämmtlich als Abarten der Kreisbewegung betrachten und uns dadurch die scheinbaren Rückläufe der Wandelsterner begreiflich machen.
+
+DiesesAufsteigenvonderMannigfaltigkeitzurGe. setzes-Einfalt ist nun die Arbeit der Denkkraft , und nur, in soweit sie dieses erreicht , begreift sie die Dinge und ihre Wirkungen. Das Gesetz der Schwere (der Gravitation) der gesammten Körperwelt, was ist 6* [p. 84] es anders , als ein Begriff, sich alle Mannigfaltigkeit ihrer Bewegungen und Bahnen , (von der hyperbolischen zur parabolischen und von dieser zur elliptischen) als Abarten der Kreisbewegung begreiflich zu machen?
+
+Mit der bloſsen Gewahrung , ohne unter einer Regel des reinen Denkens, zu verfahren, würden wir hier wenig ausrichten; wo aber die Denkkraft in ihrer Gediegenheit obwaltet, da darf dann nur ein Apfel vom Baume auf den Kopf eines Newton fallen , um von dieser einzelnen Gewahrung zum Schwergesetze des ganzen körperlichen Weltalls geleitet zu werden.
+
+Begriffe von einerlei Inhalt sind nicht zwei, sondern nur ein Begriff; wenn sie auch durch verschiedene Zeichen oder Wörter ausgedrückt werden. Zwei Begriffe sind nur dadurch zwei , daſs in dem Einen etwas gedacht wird , was in dem Andern nicht gedacht wird. Zwei Begriffe aber, in deren Einem Etwas gedacht wird , was in dem andern nicht gedacht wird , können gleich viele Begriffe unter sich haben , können somit für einander gebraucht und für einander zum Grunde gelegt werden; das heiſst, sie sind Wechselbegriffe ; z. B. dreieckige und dreiseitige Figur ; gegenständliche und nothwendig allgemeine Gültigkeit. Denn alle dreieckige Figuren sinddreiseitig ; alle gegenständlich gültige Urtheile sind nothwendig allgemein gültige und umgekehrt. Ich denke also im Begriffe Dreieck zwar etwas , was ich nicht im Begriffe dreiseitig denke; mithin sind sie verschieden, aber sie gelten [p. 85] gleichmäſsig von allem , was unter ihnen gedacht wird; denn jede Art des Dreieckigen steht anch unter dem Begriff des dreiseitigen und umgekehrt.
+
+Sucht man die Verschiedenheit der Begriffe nach der Erkenntniſsquelle , woraus sie uns zu Theil werden , so sind sie entweder Erfahrungs- oder reine
+
+Denkbegriffe; jene entnehmen wir aus den Gegenständen der Gewahrung ; diese haben wir durch das
+
+Denkvermögen selbst. Die Begriffe z. B. Licht, Luft, Schall , Berg u. s, w. sind Erfahrungsbegriffe , denn wir schöpfen sie lediglich aus dem , was uns die Anschauung darbietet ; die Begriffe aber von Einheit, Sachheit, Ding an sich selbst, Ursache, Wahrheit ; Recht, Pflicht u. s. w. sind reine Denkbegriffe; denn wir haben sie nur , durch unser Denken und aus demselben.
+
+Beide Arten der Begriffe aber , wir mögen sie aus dem reinen Denken haben oder von der Erfahrung entnehmen , heiſsen gegebene Begriffe , weil wir sie nur so haben , wie sie uns , es sey durch unsre Denkkräftigkeit allein oder durch die Gewahrung der Dinge dargeboten worden; mithin so daſs in dem, wie wir sie haben und zusammensetzen gar keine Willkürlichkeit obwalte. Setzen wir aber Begriffe willkürlich zusammen, so sind diese der willkürlichen
+
+Zusammensetzung halber , gemachte Begriffe. Z. B. wenn wir uns ein Haus mit großen Thüren , oder ein Wesen , das Freiheit des Willens habe , denken, ohne uns darum zu bekümmern, ob diese, also durchs
+
+[p. 86] Denken zusammen gedachten Begriffe , Gegenstände haben oder nicht.
+
+Unsre Denkhraft , als Vernunftvermögen , d. h. , als ein solches , welches zu jedem Bedingten die Bedingung und zu dieser Bedingung wiederum die Bedingung sucht , ohne sich je durch irgend ein Bedingtes befriedigt zu finden , giebt dadurch selbst den Begriff des Unbedingten , als eine Regel seines Denkens und führt uns dadurch auf Begriffe , welche alle mögliche Erfahrung überschwingen. Diese sind dann überschwengliche Begriffe , welche man auch reine Vernunftbegriffe oder Ideen nennt
+
+So ist , z. B. , der Begriff desjenigen , was allen Merkmalen , wodurch es gedacht wird zum Grunde liegt, ohne selbst noch Merkmal irgend eines Dinges zu seyn, der Begriff eines ursprünglichen Wesens , welche wir durch kein Beispiel aus der Anschauung belegen können. Eben so ist es auch mit dem Begriffe der Freiheit des Willens. Diese Freiheit kündigt sich zwar durch ihre Gesetzgebung an und hat auch Gesetzgeberischen Einfluss auf unser Thun und Lassen; offenbart sich somit durch ihre Wirkungen; an sich selbst aber ist sie gar kein Gegenstand der Anschau1 ung; sondern ein blos denkbares Etwas.
+
+Wenn ich ein Ding oder eineArt vonDingendurch einenBegriffdenke; so sind die Bestimmungen, welche in diesem Begriffe enthalten sind, wesentliche Bestimmungen. So gehört es zum Wesen des Menschen, das heifst, es wird im Begriffe desselben gedacht, daſs er ein mit Vernunft und Freiheit begabtes Wesen sey.
+
+[p. 87] Dies sind innere und nothwendige Merkmale desselben (prädicata essentialia). Diejenigen Merkmale , welche nicht schon in dem Begriffe gedacht werden , aber doch zu ihm hinzu und durch ihn gedacht werden , wodurch also der
+
+Begriff näher bestimmt und vermehrt wird, sind ihm zukömmliche Merkmale oder Eigenschaften; Hängt eben diese Eigenschaft auch andern Dingen an, welche nicht durch jenen Begriff gedacht werden , so ist sie eine diesen gemeinsame Eigenschaft ; hängt sie keinem andern , was nicht durch diesen Begriff gedacht wird , mithin nur denen , die durch ihn ge dacht werden , an; so ist sie eine , den durch diesen
+
+Begriff gedachten Dingen eigenthümliche Eigen schaft.
+
+So ist es für den ersten Fall , eine dem Thie ren zukömmliche Eigenschaft, daſs sie einent gegliederten Körper haben. So hängt im zweiten Falle auch eben diese Eigenschaft solchen Dingen an , diet nicht durch den Begriff Thier gedacht werden , z. B. den Pflanzen ;
+
+sie ist daher eine den Thieren und
+
+So kommt Pflanzen gemeinsame Eigenschaft. aber , im dritten Falle , keinem Dinge , was nicht durch den Begriff, Thier , gedacht wird, das Merkmal zu , daſs es Vorstellungen, Gefühle der Lust und Unlust und Begehrungen habe , diese sind also den, durch den Begriff Thier gedachten (vernünftigen und vernunftlosen) Dingen eigenthümliche Merkmale. Bestimmungen oder Mermale, die einem Dinge zukommen , obwohl sie nicht in dem Begriffe dessel-> den gedacht werden, mithin nicht wesentliche sind, auch ihm nicht aus dem Grunde zukommen, weil es [p. 88] durch diesen Begriff gedacht wird , mithin auch nicht wesentliche Folge aus demselben ist , sind zufällige und aufserwesentliche Bestimmungen. So liegt es nicht in dem Begriffe Thier , daſs es krank sey, auch kommt einem Dinge dies Merkmal der Krankheit nicht zu, weil es durch den Begriff Thier gedacht wird; dennoch aber kann es ihm zukommen , und, wenn es ihm zukommt , so ist es dann eine zufällige
+
+Bestimmung desselben. Ein solches zufälliges Merkmal kann nun wiederum ein, dem Dinge für sich allein anhängendes , ein innerer Zustand seyn , oder ihm auch nur im Verhältnis zu andern
+
+Dingen zukommen, ein äußerer Zustand seyn. Wenn ein Mensch krank ist , so ist dies ein innerer Zustand; ist er Vater oder Sohn, so ist er dies nur in so ferne er mit andern Dingen verglichen wird und abgesehn von diesem Verhältniſs fällt auch das Merkmal weg; es ist also ein , nicht ihm , im Verhältniſs zu sich selbst , sondern im Verhältniſs zu andern , aufser ihm gedachten Dingen zukommendes Merkmal.
+
+Es kommt bei den Begriffen auch auf die innere Gröfse , das heifst auf den Grad der Stärke des Denkens an. DieserGrad kann kleiner und gröſser , stärker und schwächer seyn. Vermöge dieses Unterschieds sind dieBegriffe entweder dunkel oder klar, und die klaren entweder undeutlich oder deutlich.
+
+Wir können Vorstellungen haben, ohne daſs wir uns derselben unmittelbar bewuſst sind. Vorstel1 [p. 89] lungen, welche wir haben, ohne unsderselben unmittelbar bewuſst zu seyn , sind dunkel; daſs wir sie aber haben , ob sie gleich nur dunkel sind, wiſsen wir aus den Wirkungen oder Folgen derselben. So wirken z.B. viele Vorstellungen in uns, wenn wir von einem Gegenstande in weiter Entfernung , ob wohl wir uns der einzelnen Vortellungen , die er enthält nicht unmittelbar bewuſst sind, dennoch urtheilen ; er sey ein Mensch. Die Vorstellungen wirken hier in Masse , aber nur wenige von ihnen sind uns unmittelbar bewuſstlich , das heiſst, klar; die übrigen aber, welche wir dennoch haben und als solche wirksam (zum Urtheilen bestimmend) sind, sind dunkel. Die Zahl der dunkeln Vorstellungen ist die gröfste , z. B.
+
+wie viel Vorstellungen hat nicht ein Geschichtskundi ger in sich, die aber alle für den Augenblick bei ihm in Dunkeln liegen mögen? Die Denkkraft aber ist es , welche die Vorstellungskraft aufbietet , um in diese dunkle Masse Klar:
+
+heit zu bringen. Diese Klarheit wird erreicht , wenn wir eine
+
+Vortellung nach der andern so ins unmittelbare
+
+Bewusstseyn bringen , daſs dieses Bewuſstseyn zureicht , jede Vorstellung von der andern zu unterscheiden.
+
+Eben so verfährt nun auch dieDenkkraft mit den
+
+Begriffen; das heiſst, mitVorstellungen, wodurch, als gemeinsame , viele andere Vorstellungen zu denken sind. Ein Begriff kann klar seyn , aber wiederum in Dunkelheit zurücktreten. DieDenkkraft aber kann mit ihm und durch ihn nicht schalten und wal [p. 90] ten , wenn sie ihn nicht aus der Dunkelheit hervorhohlt und somit unmittelbar in ihre Gewalt bringt. Unterscheidet sie ihndann von andern Begriffen , z. B. den Begriff der Einheit von dem der Vielheit , so ist er ihr klar. Nur solche Begriffe , die ihr klar sind, kann sie als Regeln gebrauchen , um durch sie Etwas zu denken.
+
+Sind ihr diese Begriffe nicht klar , so ist alles Denken durch dieselben, aller Gebrauch und alle Anwendung derselben unsicher und schwankend. Ein Begriff, der einfach ist , kann nur klar, nie deutlich seyn; denn die Deutlichkeit besteht in der Klarheit der Theile eines Begriffs. Hat nun ein Begriff keine Theile , enthält er keine Mehrheit von
+
+Bestimmungen in sich; ist er mithin nicht zusammengesetzt , so kann er auch nicht verdeutlicht werden. Verdeutlichung ist also diejenige Handlung des Denkens , wodurch auch die Zusammensetzung der Begriffe klar wird. Wenn die Zusammensetzung eines Begriffs nicht klar ist ; so kann uns doch noch der ganze Begriff klar seyn. Ist aber das Bewusstseyn des ganzen Begriffs nicht so stark , daſs wir ihn von andern Begriffen unterscheidenund uns dieses Unterschiedes bewuſst sind; so ist auch dieser ganze Begriff dunkel; z. B. wenn:
+
+Einer sich des Unterschiedes des Begriffs Mensch vom Begriffe Thier nicht unmittelbar und mit Klarheit bewuſst ist.
+
+Zur Verdeutlichung der Begriffe. führt die Ordnung derselben. Aber nur-zusammengesetzte Begriffe lassen eine Ordnung zu, denn im Einfachen findet weder Ordnung noch Verwirrung Statt.
+
+Zusammenge [p. 91] setzte Begriffe sind aber noch nicht dadurch geordnet , daſs man sich ihrer Theile mit Klarheit bewuſst ist , mithin sie deutlich denkt. Denn die Ver .
+
+deutlichung der Begriffe, ist nicht schon Ordnung derselben ; das heist, man kann die Deutlichkeit nicht so erklären , wohl aber trägt die Ordnung derselben zur Verdeutlichung derselben bei. Das Gegentheil der Ordnung ist die Verwirrung.
+
+Wie die Ordnung der Begriffe zur Deutlichkeit derselben beiträgt, so ist die Verwirrung ein Grund ihrer Undeutlichkeit. Die Ordnung der Begriffe besteht aber darin, daſs der Eine dem Andern übergeordnet , dieser mithin jenem untergeordnet wird. Mehrere Begriffe, die einem und demselben untergeordnet sind, sind im Verhältnifs zu einander beigeordnet.
+
+Der übergeordnete Begriff heifst auch der Obere oder Weitere ; der ihm untergeordnete der Untere oder Engere.
+
+Hiervon ist schon oben geredet; wir bemerken aber hier , wie diese Ordnung der Begriffe zur Deutlichkeit derselben beiträgt. Dadurch , daſs ich von einem Begriff sein Merkmal, das heiſst, denjenigenBegriff suche, durch welchen er gedacht wird , erreiche ich den ersten Grad der Deutlichkeit ; suche ich von diesem Merkmal wiederum sein Merkmal , so erreiche ich den zweiten
+
+Grad der Deutlichkeit; suche ich von diesem wiederum sein Merkmal , so erreiche ich den dritten Grad der Deutlichkeit, u. s. w. Im Fortfahren des Aufsteigens vom Merkmal zum Merkmal desselben erreiche ich die Tiefe und Gründlichkeit. Im Her [p. 92] absteigen von den höhern Begriffen zu den niedern erreiche ich Fülle und Reichhaltigkeit.
+
+Ich mag aber nun zur Tiefe und Gründlichkeit oder zur Reichhaltigkeit und Fülle streben , so ist der Erfolg dieses Denkens unausbleiblich mit Verdeutlichung verbunden.
+
+Diejenige Verdeutlichung eines Begriffs , welche blos darauf beruht , daſs ich ihn in seine Bestandtheile auflöse , mithin nur dasjenige angebe , was schon in ihm gedacht wird , ist die bloſse Aufklärung des Begriffs. Sie giebt die höhern Begriffe des Niedern an. Diejenige Verdeutlichung aber, welche darauf beruht , daſs ich zum Begriffe Merkmale hinzuthue , welche nicht in ihm , aber doch durch ihn und unter ihm gedacht werden , ist nicht bloſse Aufklärung , sondern Erweiterung des Begriffs. Diese Deutlichkeit entspringt also durch klare Angabe der unter einem Begriffe gedachten neuen und diesem beigeordneten Begriffe.
+
+So denke ich mir z. B. in dem Begriffe des Wassers schon die Flüssigkeit , und indem ich mir jenen Begriff verdeut. liche, gebe ich den höhern Begriff derselben (die Flüssigkeit) an.
+
+Im bloſsem Begriffe des Wassers aber denke ich noch nicht , dass es salzig , verdampflich , Seewasser , Brunnenwasser u. s. w. sey; durch
+
+Hinzuthun dieser nähern , neuen und beigeordneten Bestimmungen (Unterbegriffe) entsteht nun auch eine Verdeutlichung , aber sie beruht auf dem , mit Klarheit des Bewuſtseyns verrichtetem Hinzuthun der neuen Begriffe zu den Begriffe des Wassers , mithin auf der Erweiterung des Begriffs.
+
+[p. 93] Man wird aber leicht bemerken , daſs ursprünglich doch aller Verdeutlichung eines Begriffs durch Auflösung eine Zusammensetzung desselben vorausgegangen seyn müsse ; ob wir uns gleich dieser ursprünglich verrichteten Zusammendenkung nicht mehr unmittelbar bewuſst seyn mögen ; denn was die Denkkraft nicht selbst zusammengesetzt hat, das kann sie auch nicht zersetzen und auflösen.
+
+sie also als in einem Begriffe verbunden denken will, das muſs sie selbst in ihm verbunden haben;
+
+denn ihre ursprüngliche Thätigkeit besteht eben darin, daſs sie Mannigfaltiges durch Regeln verbindet. Geschieht dieses nun ursprünglich mit klarem Bewuſstseyn der Theile , so macht sie sich einen deutlichen Begriff , löst sie hinterdrein eben diesenBegriff in seineBestandtheile auf, so macht sie . sich diesen , ihr vielleicht undeutlich gewordenen, Begriff wieder deutlich. Es ist daher gar nicht einerlei: sich einen deutlichen Begriff machen und: sich einen Begriff deutlich machen. Beide sind Handlungen des Denkens ; die Zweite ist aber durch die Erste bedingt , und diese muſs vorangegangen seyn , wenn jene folgen soll.
+
+Wenn ich mir zum Beispiel den Begriff Mensch: blos verdeutliche, sogebe ich mir an, was ich in diesem Begriffe schon denke , z. B. das Merkmal der
+
+Sinnlichkeit, aber diese Verdeutlichung ist doch nicht möglich , wenn ich nicht zuvor den Menschen unter dem Begriffe der Sinnlichkeit gedacht , mithin den Begriff des sinnlichen Wesens dahin erweitert habe, daſs ich einen Menschen darunter denke. Durch die [p. 94] se ursprüngliche Zusammendenkung verdeutlichte ich also noch keinen Begriff, sondern erzeugte ihn allererst; so daſs mir durch diese Handlung des Verknüpfens allererst der Begriff von einem sinnlichen Wesen , was Mensch sey, entstand. Es ist nun von der höchsten Wichtigkeit für die
+
+Denklehre , zu bemerken: daſs die Denkkraft gerade durch diese Art , einen Begriff zu erzeugen , ursprünglich eine Regel der Verbindung ausspreche ; nämlich diese: Etwas als in einem enthalten zu denken.
+
+Wie wichtig es also auch ist, zu wissen , daſs die Denkkraft auf Verklärung und Verdeutlichung dringe; so ist es doch noch weit wichtiger , zu wissen; daſs die Denkkraft im Hintergrunde dieses Dringens eine Regel der Verbindung ausspreche und somit ein Gesetz gebe , dem die Dinge selbst in ihrem Daseyn unterworfen sind. Dieses Gesetz sagt: daſs etwas als das Ding selbst , etwas aber als das ihm innerlich zukommende zu betrachten sey; daſs also dasjenige , was in Keinem ist , mithin Keinem angehört , mithin ein Daseyn für sich selbst hat , von demjenigen zu unterscheiden sey, was nur als ein, einem AndernAngehöriges, einDaseyn hat , und somit diese Art der Verbindung eine Verbindung des Daseyenden sey. Die weitere Erörterung dieses Gesetzes gehört in den Abschnitt yon der denkgemäſsen Bestimmung der Dinge; hier muſste es nur angeführt werden, um den wichtigen Unterschied zwischen den Denkhandlungen: einen deutlichenBegriff [p. 95] machen: und einen Begriff deutlich ma chen , zu bemerken.
+
+Man pflegt die Begriffe einzutheilen in béjahende , verneinende und einschränkende; in einzelne , besondere und allgemeine; in unbedingte , bedingte und wechselseitig bedingte ; in mögliche und unmögliche , wahre und falsche , zufällige und nothwendige.
+
+Diese Unterscheidungen sind theils unstatthaft, theils unbestimmt.
+
+Jeder Begriff beruht aufder Handlung des Denkens , Etwas durch Etwas zu denken.
+
+Hiermit unterscheidet die Denkkraft das , wodurch Etwas ge dacht wird , von dem , was durch dasselbe gedacht ; aber eben so wohl das , wodurch sie Etwas denkt, als das , was sie durch dasselbe denkt, denkt sie als Etwas; mithin denkt sie durch jeden Begriff Etwas, Dieses Etwas kann sie nun wohl von einem Etwas bejahen, oder verneinen; diese beiden Handlungen sind aber dann verschiedene Handlungen des Bestimmens durch Begriffe , und begründen keine
+
+Verschiedenheit der Begriffe ansich selbst; denn der Begriff, als solcher , lässt es unentschieden, ob und von welchem Etwas er bejaht oder verneint werde. Die Begriffe selbst sind daher weder bejahende, noch verneinende , wohl aber sind es die Bestimmungen durch dieselben , d. h. die Urtheile. Doch aber haben wir durch unser Denken den Begriffdes [p. 96] Bejahlichen, des Sachlichen , des Etwas als Fülle des Bewuſstseyns ; so auch den Begriff des Verneinlichen , des Unsachlichen , des Mangels , der Leere des Bewusstseyns; durch dieseBegriffe bestimmen oder urtheilen wir ; z. B. wenn wir bestimmen, das Licht sey etwas Sachliches; der Schatten sey. der Mangel dieses Sachlichen. Etwas ganz anderes ist aber der Begriff des Sachlichen (Bejahlichen) und des Mangels (des Verneinlichen) als die Handlung des Bestimmens (des Bejahens und Verneinens) durch diese Begriffe. Diese sind Regeln zum Bestimmen; das Bejahen und Verneinen durch sie aber die Handlung des Bestimmens. Ein Begriff ist nur dadurch Begriff, daſs durch ihn, als eine Regel, vieles gedacht werden kann; er kann Unterbegriff und Oberbegriff seyn , aber er bleibt immer nur Begriff und läſst als solcher immer noch eine weitere Bestimmtheit zu, ohne je zum Einzelwesen selbst zu werden; es ist daher dem Wesen des Begriffs zuwider , das er die Vorstellung eines Einzelwesens (notio individualis) seyn könne. Wohl aber ist der Gedanke eines Einzelwesens selbst ein Begriff, wodurch viele Dinge gedacht und als
+
+Einzelwesen bestimmt werden können.
+
+‫بران‬
+
+Auf gleiche Weise haben wir durch unsere Denkkraft den Begriff des Unbedingten ; das heist den Begriff eines Etwas , was nicht bloſse Bedingung des Daseyns eines andern Etwas , sondern Etwas an und für sich selbst ist, so auch den Begriff des Bedingten , das heiſst , eines Etwas , dessen
+
+Daseyn
+
+[p. 97] Daseyn durch Etwas Anderes bedingt ist und so wechselseitig; dies sind aber Begriffe oder Regeln zur Bestimmung des Daseyns der Dinge , und die nach ihnen verfahrende Handlung des Bestimmens , das heiſst, das Urtheil. ist entweder ein unbedingt oder bedingt bestimmendes. Die Eintheilung der Begriffe in mögliche und unmögliche ist unstatthaft ; denn um einzutheilen , muſs ich schon einen Begriff haben und wenn ich ihn habe, so kann nur noch gefragt werden , was durch ihn bestimmt werden könne oder nicht ?
+
+Habe ich nun nichts, was ich durch ihn bestimmen kann, so bleibts beim bloſsenBegriffe, das heiſst, bei der blofsenMöglichkeit des Bestimmens. Diese Unterscheidung des bloſsenBegriffs von dem Gegenstande desselben beruht auf dem Wesen unsres Denkens, als eines Vermögens,
+
+Gegenstände nur durch Begriffe , mithin mittelbar , nicht durch Anschauung , mithin unmittelbar zu erkennen,
+
+Wäre unsre Denkkraft eine solche , welche nicht blos dächte , sondern auch durch sich selbst selbstthätig anschaute , so würde vom bloſsen
+
+Begriffe , mithin vonder Möglichkeit, gar nicht dieRede seyn und eben sowenig auch von der Unmöglichkeit. Aus eben diesen Gründen würde auch nicht die Rede von Nothwendigkeit (Zufälligkeit) , das heifst , von einer Erkenntniſs die Rede seyn , welche schon durch den bloſsen Begriff (als der blofsen Möglichkeit) mithin nothwendig bestimmt sey.
+
+Der Fortschritt der Erkenntniſs würde dann seyn ein Fortschritt vom Seyn zum Seyn , von Din7 [p. 98] gen an sich zu Dingen an sich , von Eigenschaften za Eigenschaften derselben ; von Verbindungen der Dinge an sich zu Dingen an sich, durch ihr Verhalten zu einander u. s. w.
+
+Aber von Begriffen, die als solche selbst nur die Möglichkeit , daſs ihnen Gegenstände entsprechen, aussagen , noch reden als bloſs möglichen Begriffen, ist unstatthaft ; weil wir von allem , wovon wir denken wollen, ob es möglich sey oder nicht, schon einen Begriff haben müssen. Ein Begriff aber , der selbst nur möglich wäre , ist ein Wort ohne alle denkliche
+
+Bedeutung ; denn der Begriff ist nur dadurch Begriff, daſs er gedacht wird , er hat also im Denken sein Daseyn ; von diesem Begriffe , der nur ist, in so ferne er gedacht wird und anſserdem gar nichts ist, kann ich nun nichts bestimmen als dieses, daſs er die Möglichkeit aussagt , etwas durch ihn bestimmen zu können; ihn selbst aber , der sein Daseyn im Denken hat , noch in einen möglichen und unmöglichen eintheilen , das heiſst, ihn als einen solchen,denken, der , ob er wohl seinDaseyn im Denken habe , doch auch noch entweder ein bloſs möglicher (nicht daseyender) oder gar ein unmöglicher , ein sich selbst vernichtender , ein Unbegriff, seyn könne; dies sind bloſse Worte ohne denkliche Bedeutung.
+
+Man kann auch die Begriffe nicht in wahre und falsche eintheilen ; denn der falsche Begriff kann nicht als Art des wahren und der wahre nicht als eine Art des falchen Begriffs gedacht werden. Der wahre Begriff könnte, wenn man nichtsDenkwidriges sagen will, nichts anderes bedeuten , als daſs der Be griff ein Begriff sey , welches eine leere Einerleisage (Tautologie) wäre. Ein Begriff an sich selbst ist daher weder wahr noch falsch; wohl aber kann die Bestimmung durch ihn, das heifst, das Urtheil, wahr oder falsch seyn. Habe ich z. B. den Begriff Mensch ; so kann ich fragen: ist dieser oder jener Gegenstand ein Mensch ? ist er es , das heiſst , stelle ich mir in diesem Gegenstande dasselbe vor, was ich in dem Begriffe Mensch denke, so ist das Urtheil wahr; wo nicht , so ist es falsch.
+
+Dieser Gebrauch von dem
+
+Begriffe läfst den Begriff selbst unberührt ; er ist und bleibt ein Begriff, der sein Daseyn im Denken hat und als solcher die Möglichkeit aussagt: ein Etwas durch ihn bestimmen zu können.
+
+Will ich nun etwas
+
+' durch ihn bestimmen , so kann er in dem , was ich durch ihn bestimmen will , entweder enthalten oder nicht enthalten seyn, mithin ist es nur die Bestimmung durch ihn , welche entweder richtig oder unrichtig seynkann.
+
+Folgende Eintheilungen der Begriffe sind wohl gegründet.
+
+Sie sind , wenn wir auf den Ursprung derselben sehen , entweder reine Denkbegriffe oder Erfahrungsbegriffe.
+
+Die reinen Denkbegriffe entweder Begriffe dessen, was ist; Naturbegriffe oder dessen , was seyn soll, Freiheitsbegriffe ; man kann sie auch schicklich Begriffe des Erkennens und Begriffe des
+
+Handelns nennen. (notiones vel theoreticae vel practicae.) Beide theilen sich wieder ein in solche, 7 * [p. 100] durch welche ein für die Erkenntniſs oder Handlung erreichbarer oder unerreichbarer Gegenstand gedacht wird, in erschwingliche und unerschwingliche Begriffe (notiones velimmanentes vel transcendentes , sive , notiones vel ideales vel reales). Sehen wir auf den Inhalt der Begriffe, so sind sie entweder einfach oder zusammengesetzt.
+
+Sehen wir auf die Stärke des Bewuſstseyns derselben; so sind sie entweder dunkel oder klar ; und die klaren , wenn sie vielhaltig sind , entweder undeutlich oder deutlich.
+
+Sehen wir auf die Gültigkeit der Begriffe, so sind sie entweder sachliche, das heiſst solche, für welche es Dinge giebt , auf welche sie angewandt werden können ; oder leere , das heifst solche , für welche es keine Dinge giebt; auf welche sie angewandt werden können. Die reinen Denkbegriffe haben ihre Gültigkeit unmittelbar durch das Denken selbst; denn ohne sie kann nichts gedacht und bestimmt werden -und man muſs das Denken selbst aufgeben , wenn man nicht durch sie denken will. So ist es mit denjenigen Urbegriffen bewandt, die das, was ist, betreffen, mit den Naturbegriffen , so mit denjenigen Urbegriffen , die das , was seyn soll , betreffen , mit den Freiheitsbegriffen.
+
+Sie haben ihre Gültigkeit durch das Denken selbst; jene für das Erkennen durch Begriffe , diese für das Handeln durch Begriffe. Willkürlich zusammengesetze Begriffe können einen Gegenstand haben; aber es liegt nicht schon in ihnen , weder durch die Denkkraft selbst , noch durch die Erfahrung , daſs sie ihn haben.
+
+[p. 101] Sehen wir auf die Verbindung der Begriffe, so sind sie mit einander entweder einhellig oder widerstreitend.
+
+Sie sind aber einhellig , wenn das was in dem Einem gedacht wird , zu dem , was in dem Andern gedacht wird, zusammengedacht, mithin beide alsTheilvorstellungen in einem Begriffe verbunden werden können ; sie sind widerstreitend , wenn der Eine die Aufhebung des andern bedeutet. Wenn ich mir bloſs das Nichtseyn eines Dinges denke , so denke ich bloſs den Mangel eines Dinges und hierbei ist noch gar kein Gedanke der Einhelligkeit oder des Widerstreits ; der
+
+Begriff der Einhelligkeit findet aber Statt , wenn ich denke: ein Ding was Mensch ist , ist Thier ; denn hier denke ich zu dem Menschseyn das Thierseyn und denke beides mit einander einhellig. Der Begriff des Widerstsreits findet Statt , wenn ich denke: der
+
+Begriff des Thierseyns enthalte etwas, was das Menschseyn , es sey ganz oder zum Theil , aufhebt. Die Begriffe müssen also erst als verschiedene gedacht werden , ehe ich fragen kann , ob sie L einhellig oder nicht einhellig sind? Siemüssen ferner erst als einhellig gedacht werden , ehe ich fragen kann, ob sie einander übergeordnet oder untergeordnet ; ob also der Eine die Bedingung sey, den
+
+Andern zu denken, denn sie können einhellig seyn ohne daſs sie einander über - oder untergeordnet sind.
+
+Betrachtet man also bloſse Begriffe, ohne Rücksicht auf die Dinge, worauf sie in Anwendung stehen, [p. 102] sohatdieBetrachtungderselben dieselben Ansätze, welche die Denkkraft aus sich selbst vorschreibt , denn in dieser Vergleichung werden die Begriffe schon als gegebene und als wären sie Gegenstände , betrachtet und es kann hier nur die durch das Denken selbst vorgezeichnete Weise , wie sie zu denken sind , in Erwägung gezogen werden. Wir erwägen sie also unter den Betrachtungsregeln der Einerleiheit und Verschiedenheit , der Einstimmung und des Widerstreits, der Innerlichkeit und Aeuſserlichkeit. Wir erwägen also :
+
+Erstlich ; ob die Begriffe dasselbe enthalten oder nicht , das heist: ob ein Begriff derselbe (kein Zweiter) oder ein anderer (ein Zweiter) sey ? Ein Begriff ist aber nur dadurch ein Zweiter, daſs er etwas enthält , was der erste nicht enthält , und so umgekehrt.
+
+Zweitens : ob Begriffe verschiedenen Inhalts ; wo mithin das , was in dem Einem gedacht , in dem Andern nicht , und was in diesem , wiederum nicht in jenem gedacht wird; ob also dieses Verschiedene zu einander zusammenstimme , oder das Eine ein etwas sey , was die Aufhebung des Andern bedeute? Drittens : ob etwas schon in dem Einen Begriffe gedacht werde , oder zu ihm hinzukomme ? Wenn ich den Begriff, Mensch , habe ; so kann ich fragen: was denke ich in ihm? ich denke , z. B. in ihm , daſs der Mensch ein vernünftiges Wesen sey. Ich kann aber auch fragen: was denke ich nicht schon in ihm , sondern was denke ich zu ihm ? ich denke z. B. zu ihm hinzu: daſs der Mensch ein gerechtes, [p. 103] gesundes , fröhliches Wesen seyn könne. Durch diese Merkmale gebe ich nicht an , was ich schon im Begriff denke; sondern was ich zu demselben denke.
+
+Ich erweitere und vermehre also meinen Begriff von Menschen.
+
+Von diesen Begriffen kann ich aber fragen: ob der Eine durch den andern gedacht , mithin der Eine als der höhere, der andere als der niedere gedacht werde: oder ob ein solches Verhältnifs nicht zwischen ihnen Statt habe ?
+
+Wirkönnen nun vom obern Begriff zum untern herab und vom untern zum obern hinauf steigen und durch dieseDenkhandlung den obersten Begriff durch alle Stufen der Unterschiede näher bestimmen , oder den untern Begriff durch alle Stuffén derAbsonderung bis zum höchsten , von welchem sich nichts mehr absondern lässt , verallgemeinern. Durch beide Handlungen bleiben wir aber immer nur beim Innern des Begriffes oder wie man sich auch schicklich ausdrücken kann, beim inneren Verhältniſse desselben. Was wird man nun unter dem Aeufsern oder dem äuſsern Verhältnisse eines Begriffs zu denken haben? Dieser Gedanke bedeutet diejenige Regel des Denkens , wodurch zu einem Begriffe noch etwas gedacht wird, was weder schon in noch durch ihn selbst ihn allein und für sich genommen , gedacht werden kann , sondern nur , in so ferne ein anderer Begriff gedacht wird. Wenn ich von allem wegsehe, wodurch sich ein Begriff dem Inhalte nach von andern unterscheidet und dennoch zu beiden etwas denken will, was den Inhalt beider und das innere Verhältniſs diesesInhaltsgänzlich unberührt läfst, so bleibt mirnichts [p. 104] abrig , als ein etwas , was ihnen , wie sie jeder an und für sich selbst und allein gedacht werden , nicht innerlich ist , zu denken.
+
+Dies ist alsdann das Verhältniſs eines für sich allein gedachten Begriffs zu einem andern auch für sich allein gedachten Begriffe. Ohne Beispiel kann man sich das, was die Denkkraft hiermit andeudet , nicht verlebendigen.
+
+Denke ich aber ein Etwas als Mutter und ein Etwas als Tochter ;
+
+so verstehe ich hierdurch jene Regel des Denkens ; denn mein Begriff kann von diesem Etwas , ohne es als Mutter oder Tochter zu denken, dem Innern nach völlig bestimmt seyn und ich verliere nicht das Mindeste, was in ihm und durch ihn selbst für sich allein gedacht wird, wenn ich die Merkmale, Mutter, oder Tochter , weglaſse; dennoch aber verliere ich etwas, wenn ich sie nicht nach dieser Denkregel bestimme ; nemlich das , was ihr Aeuſseres betrifft. Wenn ich mir also von einer Person schon einen vollständigen Begriff nach allem , was ihr Inneres betrifft , erachtet habe , also alles weiſs , als was und wodurch sie an sich und allein zu denken sey, so kann ich noch fragen: ob zu ihr , auſser diesem Innern, nicht noch etwas zu denken sey, was bloſses äuſseres Verhältniſs sey und nur gedacht werden könne , in so ferne ein anderes Etwas , einer anderen Person , zu ihr im Verhältniſs stehe und ein solches Etwas ist es, wenn ich sie noch als Mutter oder Tochter denke.
+
+Dieser Urbegriff des äusseren Verhältnisses ist aber als Regel des Denkens von groſser Bedeutsamkeit denn wie wir durch sie angeleitet werden, Begriffe zu Begriffen in äuſserer Beziehung zu denken; so leitet [p. 105] sie uns auch an , Dinge zu Dingen in derselben Beziehung zu denken und somit eine äuſsere und wechselseitige Verkettung der Begriffe und der Dinge zu denken.
+
+Mehr Vorzeichnungen des reinen Denkens , es sey zur Erachtung der Begriffe von Dingen oder zu Bestimmung der Dinge durch Begriffe , als diese drei der Einzelnheit und Verschiedenheit, der Einstimmung und des Widerstreits, des Innern und Aeuſsern, giebt es nicht , und unter ihnen ergeben sich alle , durch die Denkkraft selbst gegebenen Urbegriffe oder Merkmale , Dinge zu bestimmen. Nach der Einerleiheit und Verschiedenheit , der
+
+Einstimmung und des Widerstreits , der Innerlichkeit und Aeuſserlichkeit , es sey der Begriffe oder der
+
+Dinge , zu forschen , ist ein so natürlicher Gang des Denkens , daſs jeder, wenn er nur denkt , selbst das
+
+Kind nicht ausgenommen , diese Laufbahn, wie von selbst einschlägt ; aber auch , wenn er sie also vollendet hat , nichts mehr hat wonach er , in so weit er sich bloſs auf Regeln des reinen Denkens stützt, noch fragen könnte. Es liegt aber im Anlauf und Rücklauf unter diesen Vorzeichnungen des Denkens gar vieles wie wir theils bereits schon gesehen haben, theils noch mehr sehen werden, wenn wir aufser der denkgemäſsen Handlung , um Begriffe von Dingen zu erachten, auch noch die denkgemäſseHandlung, umDinge durch Begriffe zu bestimmen , erörtern werden.
+
+### Zweites Hauptstück. Von der denkgemäfsen Bestimmung der Dinge.
+
+Daas Denkvermögen ist , wie wir bemerkt haben, das Vermögen , Gegenstände durch Begrif1 fe zu erkennen. Hat die Denkkraft den Begriff noch nicht , so muſs sie ihn erachten; die Handlung wodurch sie dies that , ist die Betrachtung ; die Regeln , welche sie hierzu aus und durch sich selbst hat , sind ihr Regeln der Betrachtung und die , unter diesen Regeln verfahrende Betrachtung ist eben deswegen eine denkgemäſse Betrachtung.
+
+Hat nun die Denkkraft einen Begriff errachtet , so ist ihr dieser Begriff eine Regel, um durch ihn denselben Gegenstand, von welchem sie ihm erachtet hat , oder auch andere mögliche Gegenstände zu bestimmen. Geschieht auch diese Bestimmung unter den Regeln, welche die Denkkraft hierzu aus und durch sich selbst hat; so ist auch diese Bestimmung eine denkgemäſse Bestimmung der Gegenstände,
+
+[p. 107] Die Handlung des Denkens durch Begriffe (Regeln , Merkmale) zu bestimmen ; nennt man das Urtheil.
+
+Ich urtheile , oder ich bestimme Etwas, was ich als Gegenstand meines Denkens denke , durch Merkmale, ist also einerlei. Ob also wohl das Wort
+
+Urtheil, blos als Zeichen genommen, nicht völlig das ausdrückt , was gedacht wird , wenn wir die Handlung des Denkens , Gegenstände durch Merkmale zu bestimmen , in Betrachtung ziehen; so kann es doch, da es einmal im Gebrauche ist , sehr wohl dazu dienen; diese Handlung des Denkens zu bezeichnen. Es giebt allerlei Erklärungen des Urtheils; die, ob sie wohl in Worten von einander abweichen , dennoch die , hier in Betrachtung kommende Denkhandlung sehr wohl treffen und ein gutes Licht über sie ver breiten. Wir wollen einige anführen.
+
+11) Man nennt das Denkvermögen überhaupt Verstand und unterscheidet nun die besondern Thätigkeiten desselben. Erstlich diejenige , welche auf Begriffe ausgeht , Vermögen der Begriffe und nennt nun dieses Vermögen den Verstand in engerer Bedeutung.
+
+Von diesem unterscheidet man zwei .
+
+tens diejenige Thätigkeit ; welche ein einzelnes Ding unter einen Begriff stellt , oder nicht stellt, und nennt dieses Vermögen das Vermögen der Urtheile. Drittens unterscheidet man von beiden vorigen diejenige Thätigkeit, welche allgemeine Erkenntniſse zu Stande bringt , und nennt dieses Vermögen das Vernunftsvermögen. Hier wird also Urtheilsvermögen von Vernunftvermögen unterschieden ; indem man erklärt, das Urtheilsvermögen sey das Vermögen ein [p. 108] zelner Erkenntnisse und das Vernunftvermögen das Vermögen allgemeiner Erkenntnisse. Unrichtig ist dies eben nicht ; denn es ist Regel des Bestimmens durch Begriffe; sowohl einzelne als besondere und allgemeine Urtheile zu fällen. Aber schicklicher ist es doch , sowohl die einzelnen als die besondern und allgemeinen Urtheile nurUrtheile zu nennen; diese aber wiederum in Erfahrungs- und Vernunftsurtheile einzutheilen. Denn auch Erfahrungsurtheile können sich als allgemeine aussprechen; aber sie sind darum noch nicht Vernunfturtheile. Diese müssen ihre eigne Denkregel haben; wie wir auch in der Folge sehen werden.
+
+2) Man erklärt das Urtheil auch auf folgende Art : es sey die Handlung , das Besondere als enthalten unter dem Allgemeinen zu denken. Diese Erklärung trifft auch sehr wohl die Sache.
+
+Denn der Verstand erkennt nur durch Begriffe ;
+
+diese aber sind als solche, nichtAnschauungen , d. h. unmittelbare Vorstellungen der Gegenstände, sondern nur mittelbare und bedeuten ein Etwas , vermittelst welches ein Etwas erkannt wird. Dasjenige aber vermittelst welches der Verstand ein Ding erkennt, kann er nicht für das Ding selbst halten und da er nur vermittelst eines Etwas (durch Begriffe) erkennen kann , so bleibt er immer bei Begriffen , und da diese nie etwas anderes als die Regel der Dinge bedeuten, so bleibt er bei dem Gemeinsamen und das einzelne
+
+Ding kann ihm nur die Anschauung darbieten. Seine Handlung ist daher in dem Gange vom Allgemeinen zum Besondern und vom Besondern zum Allgemeinen [p. 109] beschlossen; er mag Begriffe errachten , oder durch Begriffe bestimmen; d. h. das Besondere als enthalten unter dem Allgemeinen denken. Kurz ist diese Erklärung : aber sie ist werth an der Spitze aller Erklärungen zu stehen , weil sie wie wir sehen werden, alle andere Erklärungen unter sich hat und den eigentlichen Geist des Urtheilens ausspricht. Denn wie die Denkkraft in der Ueberodnung der Begriffe zwar zum höchsten Begriff, dem Allgemeinen , aufsteigt ; sobleibt sie in der Unterordnung der Begriffe doch bei einen noch immer bestimmbaren Begriffe stehen , ohne je zu einem durchgängig Bestimmten und Einzelnen , was nicht mehr als Begriff gedacht werden könnte , zu gelangen ; sie bleibt also beim Besondern und ihre Handlung des Bestimmens kann nie eine andere seyn , als Bestimmung des Besondern durch das Allgemeine; das heiſst : das Besondere als enthalten unter den Allgemeinen zu denken.
+
+3) Man erklärt das Urtheil auch so: es sey die Handlung , durch welche gegebene Vorstellungen zuerst Erkenntniſse eines Gegenstandes werden.
+
+Diese Erklärung setzt die vorige voraus , greift aber schon weiter und enthüllt den Geist der vorigen in ihrer Bedeutsamkeit für die Natur unseres Erkenntniſsvermögens.
+
+Einer Vorstellung , die ich habe , bin ich mir darum noch nicht mit Klarheit bewuſst ; einer Vorstellung , deren ich mir mit Klarheit bewuſst bin, bin ich mir noch nicht als einer solchen bewusst, welche die Vorstellung eines Gegenstandes sey; denn [p. 110] dazu gehört noch die Denkhandlung, etwas durch etwas zu denken, Einer Vorstellung aber, deren ich mir mit Klarheit als der Verstellung eines Gegenstandes bewuſst bin, ist mir eine solche, wodurch ich ihn erkenne. Ich kann aber mit Bewusstseyn keinenGegenstanddurch eine Vorstellung erkennen, ohne dieselbe denkkräftig auf den Gegenstand zu beziehen, das heifst zu denken , die Vorstellung sey ein Etwas , wodurch ich den Gegenstand bestimmen müsse. Ich muss sie aber auf den Gegenstand beziehen , heiſst , sie, als eine Vorstellung in mir, ist eine solche , welche nur in mir ist , weil ein Gegenstand, ist, durch welchen sie in mir ist. Dieser Gegenstand, dieses Etwas , durch welches sie in mir ist , mag nun ich selbt oder ein von meinem Selbst verschiedenes
+
+Etwas seyn; genug es ist durch dasselbe eine Vorstellung in mir. Ich kann nun auch nicht anders denken, als daſs diese Vorstellung die Vorstellung von dem Gegenstande sey , durch welchen sie die meine und in mir ist; das heiſst , ich muſs die Vorstellung als dasjenige. denken , wodurch ich den Gegenstand zu denken habe. Die Handlung des Denkens aber, wodurch ich die Vorstellung als dasjenige denke , als welches der Gegenstand , durch welchen sie in mir ist , zn denken sey, ist die Handlung , wodurch ich mache , daſs mir die gegebene Vorstellung Erkenntnifs desGegenstandes wird. Indem ich aber dies thue , bestimme ich den Gegenstand durch diese Vorstellung als ein Merkmal desselben , d. h.: ich urtheile .
+
+Dieser , tief in unserm Innern angelegte und, [p. 111] wie es scheinen möchte , spitzfindig hervorgehobene, Gang unsers Denkens ist doch derjenige , durch welchen alle Urtheile über gegebene Gegenstände einzig und allein zu Stande kommen. Es liegt daher alles in derjenigen Handlung des Denkens , welche da macht , daſs gegebene Vorstellungen zu Erkenntnissen von Gegenständen werden , oder mit andern Worten, in derjenigen Handlung , deren Thun es ist , Dinge durch Begriffe zu bestimmen ; oder auch, wie es oben hieſs , deren Thun es ist , das Besondere als enthalten unter dem Allgemeinen zu denken.
+
+4) Man erklärt auch das Urtheilen für diejenige Handlung des Denkens , wodurch eine Vorstellung auf eine andere als Merkmal bezogen wird. Auch diese Erklärung stimmt sehr wohl zu den vorigen, obwohl sie in Worten von ihnen etwas abweicht. Denn eine Vorstellung haben und denken, ist noch kein Urtheilen ; zu dieser Absicht muſs sie als eine solche gedacht werden , durch welche andere Vorstellungen bestimmt sind. Diese Handlung des Denkens besteht also darin, daſs es verschiedene Vorstellungen unter eine gemeinschaftliche ordnet. Die Vorstellungen aber , welche der Verstand also ordnen soll , müssen ihm auf irgend eine Art dargeboten werden; denn er hat wohl die Regeln des Ordnens aus sich selbst, aber doch nicht den
+
+Stoff oder Gegenstand dazu.
+
+Die ihm gegebenen
+
+Vorstellungen sind aber eben der Stoff und nun besteht sein Thun darin , daſs er diese Vorstellungen, die er von dem Gegenstande , durch welchen sie ihm zukommen , unterscheidet , auf diesen bezieht und sie als Merkmale oder Begriffe desselben denkt. Die Handlung nun , wodurch er bestimmt , daſs diese
+
+Vorstellungen Merkmale desjenigen sind , von welchem sie ihm zukommen , ist das Urtheil.
+
+Er bestimmt also den Gegenstand = X durch die ihm zu- gekommene Vorstellung = A und urtheilt X ist A. Hier bestimmt er also X durch A; A ist ihm das, als was er X denkt und denkend bestimmt , das heiſst : erkennt ; er erkennt also X durch A, mithin mittelbar , denn A ist ihm Begriff oder Regel den Gegenstand zu denken. Das Urtheil ist also die mittelbare (durch Begriffe , als Merkmale vermittelte) Erkenntniſs eines Gegenstandes und diese Erkenntniſs ist ihm dadurch Erkenntniſs , daſs er die
+
+Vorstellung A auf den Gegenstand X bezieht , d. h. denkt , sie gehe auf ihn als Merkmal desselben. Der Verstand nimmt aber jede Vorstellung , welche er als Merkmal auf einen, ihm durch Anschauung gegebenen Gegenstand = X bezieht , wiederum in Anspruch und denkt sie als Unterlage, das heifst, eine solche , welche wiederum durch eine andere Vorstellung gedacht und bestimmt werden könne ; das heiſst , er denkt sie als die Bestimmbare und eine andere als Bestimmung oder Merkmal desselben ; er bestimmt also Vorstellungen durch Vorstellungen , oder: bezieht auf die Eine die Andere als Merkmal.
+
+So z. B. wird ihm durch dieAuschauung des Aeufsern die Vorstellung eines Etwas gegeben , was wir Körper nennen. Dies ist ihm ein Begriff oder Merkmal, [p. 113] mal, wodurch er ein Etwas bestimmt , indem er urtheilt : ein Etwas durch Anschauung vorgestelltes sey Körper ; Körper sey ein Merkmal desselben. Aber eben dieses Merkmal bestimmt er fernerhin durch ein Merkmal , z. B. der Theilbarkeit und urtheilt :
+
+der Körper ist theilbar;
+
+also : X , ein Etwas der äuſsern Anschauung , ist Körper , der Körper ist theilbar u. s. w. Die obige Erklärung trifft also sehr gut das Wesen des Urtheilens.
+
+5) Man erklärt das Urtheil auch als die Handlung : wodurch Vorstellungen in einem Bewuſstseyn vereinigt werden. Diese Erklärung hat auch ihren guten Grund. Denn die Vereinigung der
+
+Vorstellungen in einem Bewusstseyn ist diejenige Handlung , wodurch sie dieselben , als eine Mannigfaltigkeit , denjenigen Regeln der Einheit unterwirft, welche sie hierzu durch und aus sich selbst hat. Diese Regeln sind nun nichts anders , als eben so viel mögliche Arten, Vorstellungen in einem Bewuſstseyn zu vereinigen und eben diese Regeln oder Weisen des Urtheilens als Begriffe oderMerkmale derGegenstände gedacht , sind dann eben die Urbegriffe dieser Gegenstände und wir haben an ihnen , als nothwendigenRegeln des Verbindens auch zugleich nothwendige Merkmale des durch sie Verbundenen. ☐☐ Was heiſst aber: das Besondere als enthalten unいい ter dem Allgemeinen denken: anders , als: es , als das Mannigfaltige , durch das Allgemeine , als die
+
+Einheit, in einem Bewusstseyn als vereinigt denken? Was heifst aber dieses wiederum anders als: das Ge [p. 114] gebene durch Merkmale (als Regeln oder Gründe der
+
+Einheit seines Mannigfaltigen) bestimmen? 6) Man erklärt das Urtheil auch für diejenige Handlung , wodurch gegebene Erkenntnisse zur gegenständlichen Einheit des Bewuſstseyns gebracht werden.
+
+Auch diese Erklärung ist aus dem Wesen des Urtheilens genau hervorgezogen und sehr bedeutsam. Denn die Erkenntnisse sind , als solche , wie sie das
+
+Thier und auch der Mensch , in so fern er bloſs als Thier vorstellt , hat , noch keine erurtheilte.Erkenntnisse; denn jene entspringen bloſs dadurch , daſs die Einbildungskraft die Gewahrungen des Sinnes auffasMit diesen Erkenntnissen set und zusammensetzt. behilft sich das Thier und kann sich damit auch nach seiner Art ganz gut behelfen. Aber das , was wir gegenständliche , nothwendige und allgemeine Gültigkeit der Erkenntnisse nennen, geht ihnen gänzlich ab. Diesen Character nehmen sie erst an , wenn die Denkkraft sich über sie erstreckt, und sie, nach ihren Regeln betrachtet und bestimmt.
+
+Hierdurch kommt das merwürdige Wort :
+
+ist: in die Gewahrungen des Sinnes und die Zusammensetzung derselben durch die Einbildungskraft, hinein; denn dieses Wort: ist: vomStandtpuncte des Denkens aus erwogen , bedeutet nichts anders als die gegenständliche Gültigkeit einer Erkenntniſs und da der Bestimmer dieser Gültigkeit kein anderer ist , als der urtheilende Verstand, so ist er es, welcher dadurch die bleibende Weise seines, ihm eigenthümlichenKennens, bekundet. Alleseine Weisen zu urtheilen sind daher [p. 115] nichts anders, als Weisen, die Gegenständlichkeit , die Nothwendigkeit und Allgemeingültigkeit der Erkenntnisse zu bestimmen.
+
+Er tummelt sich inden Fragen herum: ist es etwas oder nichts ? wie viel ist's ? was ist's , was nicht? ists a oder nicht a? was ist's , wenn es a ist , was ist, wenn es ist? u. s. w. Solche Fragen macht kein
+
+Sinn und keine Einbildungskraft.
+
+Das Thier z. B. sieht den Mond und wir sehen ihn anfänglich auch nur wie das Thier, das Thier und wir sehen ihn immer nur von einer und derselben Sei te; aber dem Thiere fällt es nicht ein, zu fragen: hat er auch noch eine andere Seite ? dreht er sich wohl um seine Axe? u. s. w. Der Verstand aber frägt so. Er urtheilt nun auch wohl: er drehe sich um seine
+
+Axe, oder auch er drehe sich nicht um seine Axe.
+
+Bald aber urtheilt er auch; er umkreise in 28 Tagen unsre Erde , und nun frägt er wieder: dreht er sich um seineAxe oder nicht ?
+
+Er dreht sich nicht, wird er anfangs urtheilen , denn ich sehe immer dieselbe Seite. Bei reiferer Ueberlegung wird er aber urtheilen: er dreht sich um seineAxe; eben weil ich immer dieselbe Seite sehe. Wie so ? er umkreist die Erde, und wenn er sich in dieserZeit der Umkreisung, nicht auch um seine Axe drehte , so könnte ich nicht immer dieselbe Seite sehen. Eine solche , unter Regeln des Denkens undmit BewusstseyndieserRegeln erurtheilte Erkenntniſs kommt durch keinen Sinn unddurch keine
+
+Einbildungskraft.
+
+Aber der Hinzutritt des Verstandes zur bloſs sinnlichen Erkenntniſs offenbart sich also, und das , was er will, ist nicht etwa das , was der 8*
+
+[p. 116] Sinn darbietet und die Einbildungskraft auf- und zusammenfaſst , zu ändern , sondern es seinen Regeln der Verbindung zu unterwerfen und dasjenige zu bestimmen, was für jeden Denker, bloſs weil er denkt, Gültigkeit hat.
+
+Dies ist das Geschäft der Urtheilskraft , und es liegt daher in ihrem Wesen , den bloſs sinnlichen Erkenntnissen denjenigen Werth zu verschaffen , wodurch sie unabänderliche , nothwendige , allgemeingültige , oder , mit einem Worte , gegenständliche Gültigkeit gewinnen. Mit Recht erklärt man daher das Urtheil für diejenige Handlung, wodurch gegebebene Erkenntnisse, zu einer für den Gegenstand gültigen Verbindung gebracht werden. Was ist aber auch dieses wiederum anders , als Gegenstände nach Regeln des Denkens durch Merkmale bestimmen ? It
+
+Bleiben mir nun bei der einem oder andern Erklärung des Urtheils; so laufen sie doch alle am Ende darauf hinaus: das Urtheil sey die Handlung , Gegenstände durch Merkmale zu bestimmen. Bei dieser Handlung haben wir nun , wenn wir bloſs auf die Vorzeichnung des Denkens sehen, nur auf zwei Stücke zu achten , nämlich auf die
+
+Weise (Form) des Bestimmens und aufden Stoff (die Materie) desselben. Die Mannigfaltigkeit des Stoffs erwartet die Urtheilskraft von der Anschauung , und unternimmt es nicht , aus sich selbst zu bestimmen, wie mannigfaltig er sey. Die Mannigfaltigkeit desselben geht [p. 117] aber schon für uns , nach der Art unsers Anschauens und Gewahrens , ins Unermeſsliche , und Niemand kann sich wenn er sich bloſs auf sein Denken stützt auch nur einfallen lassen , in dem , was die Menge und Mannigfaltigkeit des Daseyenden betrifft , je der Gewahrung und Erfahrung vorgreifen zu wollen. Es ist vielmehr ein gesetzlicher Anspruch der Urtheilskraft selbst; dafs der Stoff für sie , und wenn sich Millionen ihrer Lebensabschnitte auf Millionen derselben thürmten , ewig und immerdar unermesslich und unerschöpflich seyn möge. Dagegen zieht aber jetzt die Weise des Urtheilens , wie sie in der Denkkraft selbst gegründet ist, unsre ganze Aufmerksamkeit auf sich. Denn wäre unsre Urtheilskraft , nicht durch sich selbst an bestimmte Weisen des Urtheilens gebunden , sokönnte sie auchdurch sich selbst nichts aus dem gro-
+
+ſsenReichthum derGewahrungen machen. So aber will sie etwas aus ihnen machen; sie will ihnen den
+
+Stempel der Erkenntniſs durch Begriffe aufdrücken, das heifst :
+
+sie will sie erfahren.
+
+Daſs also die
+
+Menge und Mannigfaltigkeit der Gewahrungen etwas , was sie noch nicht an sich selbst , nicht ohne und vor dem Denken ist, daſs sie Erfahrung werde , das ist das Thun der Urtheilskraft. Keineswegs aber , weder sich in leeren Formen und Formeln herumzutummeln , noch das Feld der Gewahrungen willkürlich zu beengen oder zu erweitern , kurz ihre Sache ist, die Welt, wie sie sich ihr darbietet, zu verstehen und eben hierzu hat sie Weisen und Weisungen aus sich selbst.
+
+[p. 118] So kommt es also nun darauf an , diejenigen Weisen ausfindig zu machen , an welche die Urtheilskraft bloſs durch sich selbst gebunden ist und welche sie , der Stoff der Beurtheilung sey , welcher er wolle , stets leiten und zwar so , daſs , wenn sie sich nicht in dieser Weise erweisen wollte , sie sich selbst als Urtheilskraft aufgeben müſste.
+
+Die Denkkraft findet sich aber hier , als Bestimmende unter derselben Führung , worunter sie sich , wie wir oben gesehen haben, als Betrachtende befand.
+
+Denn die Weise der Denkkraft ist und bleibt dieselbe , sie mag betrachten oder bestimmen.
+
+Aber eben diese Weise gewinnt , als Weise des Urtheilens , ein Ansehen , was zuvor noch nicht in
+
+Betrachtung kam , und das ist dieses, daſs sie , als Weise des Denkens , nun auch selbst als ein Merkmal der Dinge auftritt und zwar bloſs aus der
+
+Macht des Denkens. Diese Merkwürdigkeit wird sich erst dann in ihrer groſsen und völligen Bedeutsamkeit darlegen lassen ; wenn wir im Stande sind, den in der Urtheilskraft selbst liegenden Gliederbau ihres Verfahrens mit einem Blicke zu übersehen.
+
+Folgendes mag als Vorbereitung hierzu dienen. Wenn sich Jemand durch sein Denken in die
+
+Fassung setzt , über einen , ihm dargeboten Gegen stand zu urtheilen , so findet er sich durch sein eignes Denken aufgerufen, folgende Ansätze der Beurtheilung zu nehmen. Er frägt aus sich selbst : A) Ob der Gegenstand , welchen er zur Unterlage seiner Bestimmung nimmt, ein einiges Etwas oder eine Mehrheit des Etwas , eine Vielheit [p. 119] und, wenn dies ist , wie viel es sey ; er sucht also den Gegenstand durch die Begriffe der Einheit, der Vielheit (der Grösse ) und der Wievielheit (des Ganzen) zu bestimmen.
+
+Hierin liegen die Fragen: ist der Gegenstand etwas Einfaches oder Zusammengesetztes (eine Gröfse?) aus wie vielen ist er zusammengesetzt ? wie groſs ist er? Jedermann wird inne werden, daſs er, um,diese Fragen zu thun , sich nur auf die eigne Weisung seines Denkens stütze; Denn ob ihm je ein Gegenstand vorkommen werde , welchen er durch den Begriff der Einheit oder Vielheit und somit auch durch den Begriff der Einheit des Vielen (der Wies vielheit, des Ganzen) bestimmen könne , das weiſs er nicht aus seinen Denken, wohl aber weiſs er , daſs er, wenn er ihm gegeben ist und er ihn bestimmen wolle, diese Begriffe die Regeln sind , nach welchen er ihn bestimmenmüsse. Sie sind also nothwendige Weisen seines Urtheilens, denn Jemand urtheile nur über einen Gegenstand, wolle aber urtheilen: dieser sey weder Einer, noch ein Vieles, mithin auch nicht eine Einheit des Vielen; so wird er inne werden, daſs er , wenn er nicht durch diese Begriffe urtheilen wolle , er das Urtheilen selbst aufgeben müsse. Und wer sagt ihm dies? kein Gegenstand des Denkens, sondern die Denkkraft selbst.
+
+Es sey z. B. ein Etwas durch die Anschauung gegeben X , unter dem Begriff des Baums gedacht. Die unter ihrer Regel gehaltene Urtheilskraft frägt: wie viel ? das heiſst : ists Eins , oder Vieles , oder
+
+Vieles als Eins (ein Ganzes)? nun möge sich Je [p. 120] mand unterfangen zu urtheilen: es ist weder Ein Baum, noch sinds viele Bäume, noch ist es eine Einheit vieler Bäume (ein Ganzes von Bäumen. ), so wird er sich hiermit so fort auf einer Undenklichkeit befinden; denkgemäfs aber wird er urtheilen, wenn er urtheilt: es muſs entweder Ein Baum oder ein Vieles von Bäumen und diese Vielheit entweder eine der Menge nach unbestimmte , eine Vielheit ohneEinheit oder eine bestimmte, eine Vielheit mit
+
+Einhiet, d. i. eine Allheit, ein Ganzes seyn. An ders, wird also jeder urtheilen müssen , lässt es sich nicht denken und anders kann man also darüber auch nicht urtheilen.
+
+Das Geschäft der Urtheilskraft ist nun zu bestimmen , welche von diesen Weisen des Urtheilens in einem gewissen Falle Statt habe; welche nicht?
+
+Lu . ti
+
+Es liegen sonach die Begriffe der Einheit , Vielheit und Allheit als Merkmale im Denken selbst; denn wenn ich z. B. urtheile dieses Etwas hier ist ein Baum, so habe ich es durch den Begriff oder das Merkmal der Einheit bestimmt.
+
+Diese
+
+Merkmale haben auch ihre Gültigkeit fürdie Gegenstände durch das Denken selbst, und es kann somit gar nicht mehr die Frage seyn , ob die Gegenstände unter ihnen stellen oder nicht? Aber die
+
+Erfahrung kann uns diese Begriffe nicht lehren , sondern selbst nur durch Anwendung derselben erst entstehen und somit die Gültigkeit derselben nur bestätigen. Denn die bloſse Gewahrung eines Etwas ist noch keine Erfahrung, sondern wird es erst durchHinzutritt der Bestimmung durch einen Urbegriff, indem ich urtheile: dieses etwas ist ein
+
+Diese Begriffe der Einheit ,
+
+Baum u. s. wa
+
+Vielheit und Allheit nennt man Begriffe der Gröfsenbestimmung ;
+
+denn die Frage der Denkkraft: wie grofs ? lofst sich auf in die Begriffe der Einheit, Vielheit und Allheit und das Wort Groſse bedeutet diese Merkmale oder es bedeutet gar nichts. Eben diese Begriffe beherrschen, nun die Urtheile durch alle ihre Ansätze, und so wird von der Einheit, Vielheit und Allheit ihrer Kräfte und Wirkungen , von der Vielheit der ‫لي‬
+
+Kräfte zu Einer Wirkung , von der Vielheit der Wirkungen aus einer Kraft u. s. w. die Rede und das Ur theil seyn können. B) Die zweite , aus der Weise des Urtheilens selbst hervorgehende Frage ist: ob der Gegenstand, welcher zur Unterlage der Bestimmung dient ; als ein Etwas , ein Sächliches , oder als der bloſse Mangel eines Etwas , eines Sachlichen, und, durch Verbindung beider , ob er als das Nicht - Etwas eines Et was , als das Nichtsachliche eines Sachlichen , d. i, als ein Sachliches mit Mangel, d. i., als ein, geschränktes zu beurtheilen sey ? Es treten hiermit wiederum drei Weisen des Urtheilens als Begriffe oder Merkmale auf: die Begriffe des Etwas (der Sachheit) , des Nichts (des Mangels) und des Nichts eines Etwas (des Mangel: haften , Eingeschränkten.) Diese Begriffe sind nun Regeln des Bestimmens oder Urtheilens.
+
+Denn wenn ich über Etwas urtheilen will , so muſs ich urtheilen: ob das Etwas ein Etwas oder ein bloſser Mangel oder ein Etwas [p. 122] mit Mangel sey? Durch diese Begriffe muſs ich bestimmen , wenn ich überall bestimmen will. Ich muſs also , wenn ich urtheilen will , vor allen Dingen urtheilen : ein Etwas was ich denke, sey entweder ein Etwas ein Sachliches , oder kein Sachliches, ein Nichts , ein bloſser Mangel; das Etwas wiederum ein Etwas mit Etwas oder ein Etwas mit Mangel.
+
+Wollte ich urtheilen: ein Etwas , was ich als Gegenstand denke , sey weder ein Etwas , noch auch kein Etwas (kein Mangel) , noch auch ein Etwas mit Mangel (kein mangelhaftes Etwas); so würde ich mich hierbei auf einer Undenklichkeit befinden und alles Urtheilen selbst aufgeben müssen. Unter der Leitung dieserBegriffe aber urtheilen wir: es ist ein Etwas , oder nichts ; ein Etwas ist ein Etwas A , oder es ist Etwas nicht A, d. i. ein eingeschränktes , ein margelhaftes. Unter der Leitung dieser Begriffe urtheilen wir dann auch fernerweit von vielen Sachheiten einerSache und von vielen Mängeln einer Sache; von vielenSachheiten vieler Sachen, von vielen Mängeln vieler Sachen u. s. w. Der Gang des Urtheilens ist hier voin Nichts
+
+O zumEtwas
+
+A und zur Verbindung des Etwas mit dem Nichts , also Etwas als nicht A zu denken.
+
+So urtheile ich z.B. es ist nichts = 0; es ist Etwas = X.
+
+Wie bedeutungslos anfangs diese Begriffe der Sachheit , des Mangels und des Eingeschränkten auch • scheinen möchten, so beweistdieDenkkraft doch durch sie grosse Gewalt und beherrscht, wie durch die vorigen Begriffe der Grüſsenbestimmung , so auch durch diese, als Begriffe der Sachheits- Bestimmungen, das [p. 123] gesammte Feld der Gewahrungen. Jede Unterlage eines erachteten Begriffs wird durch diese Urtheilsweisen verfolgt und somit durch die Denkmerkmale entweder der Sachheit , oder des Mangels oder der Sachheit mit Mangel bestimmt.
+
+Man muss aber diese Begriffe der Sachheit und des Mangels nicht mit denen des Daseyns und Nichtdaseyns verwechseln. Jene gehen auf die Bestimmung des Gehalts des Dinges; ob es Etwas oder nichts, ob es A oder nicht A sey , sie gehen also darauf , sich einca Begriffvon dem Dinge , von den Dinglichkeiten und von den Mängeln desselben zu machen. Dieser Begriff aber mag durch alle Sachheiten und Mängel durchgeführt seyn , so bleibt dann doch noch eine andere Frage , nämlich diese: ob der
+
+Gegenstand dieses Begriffs da oder nicht da sey, das heiſst: ob das Ding ein Etwas meiner Gewahrung oder kein Etwas derselben sey? doch hiervon inder Folge. C) Die dritte , aus der Weise des Urtheilens hervorgehende Frage ist: ob Etwas im Verhältnifs zu einem Andern Etwas und wie es in demselben sey? Es tritt also hier der Begriff des Verhältnisses auf.
+
+Dieser Begriff setzt schon die Sachheits - und
+
+Gröſsenbestimmung voraus; denn wederdas Nichts noch auch das bloſs Eine sondern nur die Vielheit und die Vielheit des Etwas lässt ein Denken des Verhältnisses des Etwas zu Etwas zu. Es schichtet sich aber dieser Begriff wiederum in drei Absätze oder Fragen : Er frägt also erstlich: ob ein Etwas als das Ding selbst oder als bloſse Bestim [p. 124] mung eines Dinges zu denken sey ? zweitens : ob ein Etwas als der Grund des Seyns zum Seyn eines Andern oder als die Folge des Seyns vom Seyn eines Andern zu denken sey ? Drittens : ob das Seyn eines Etwas mit dem Seyn eines Andern in einseitiger oder wechselseitiger Abhängig . keit zu denken sey ? Diese drei Arten, sich das Verhältniſs des einen Etwas zum andern Etwas zu denken, sind als Begriffe oder Regeln der Bestimmung von groſser Bedeutsamkeit ; es hält aber schwer, sichderselben , obwohl sie das Urtheilen jedes Urtheilenden beherrschen , in ihrer Reinheit und Ursprünglichkeit zu bemächtigen, und doch ist dies nöthig , wenn wir das , was die Denkkraft damit sagen will , nach seiner vollen Bedeutsamkeit würdigen wollen.
+
+Es kommt nun darauf an, nichts mehr und auch nichts weniger in diese Begriffe hineinzulegen , als es die Denkkraft allein und durch sich selbst bestimmt. 1. Wenn sich meine Denkkraft als Urtheilskraft in Thätigkeit setzt, so will sie Etwas durch Merkmale bestimmen.
+
+Sie will also daſs ein Etwas was gedacht wird als ein Etwas gedacht werde , welches durch ein
+
+Etwas zu denken sey ; dieses Etwas nun , was sie durch ein Etwas denkt , denkt sie als das Etwas, die Sache , das Ding selbst; das aber , durch welches sie dieses Etwas denkt , denkt sie als das Merkmal ( die Regel ) , desselben; mithin als dasjenige unter welchem jenes zu denken sey. Mit andern Worten: Sie denkt: ob ein Etwas als das Bestimmbare, ein anderes Etwas aber , im Verhältniſs zu [p. 125] ihm , als die Bestimmung desselben zu denken sey.
+
+Jeder wird nun so fort in sich selbst entdecken, daſs , indem er urtheilt , sein Urtheilen durch diese Verhältniſsbegriffe geleitet werde. Um nururthei len zu können , muſs er ein Etwas denken , was er zum Grunde legt, um es auf irgend eine Art bestimmen zu können; will er dies nicht, so ist ihm das
+
+Urtheilen selbst nicht möglich; aber eben so wohl muſs er zu dem , was er zum Grunde legt , ein Et was denken , wodurch er es bestimmen könne; will er dies nicht , so ist ihm die Bestimmung desBestimmbaren , also wiederum das Urtheilen selbst nicht möglich. Das Urtheilen ist ihm also nicht möglich, ohne Etwas als das Bestimmbare und Etwas als die
+
+Bestimmung desselben zu denken, Dies sagt ihm aber kein Gegenstand , sondern seine Denkkraft selbst; sie sagt es ihm aus sich selbst und ganz allein aus sich selbst.
+
+Wenn nun aber Jemand urtheilt: ein Etwas sey, das Bestimmbare und ein Anderes Etwas die Bestimmung desselben; so denkt er sich auch nothwendig, das heiſst , durch sein Denken selbst , ein Verhältnifs des einen Etwas zu einem andern Etwas und grade dieses , daſs er das Eine als das Bestimmbare (das Etwas selbst) und das Andere als die Bestimmung desselben denkt , das ist das Verhältniſs , welches er hier denkt.
+
+Der Urtheiler wird also sagen: ich bin , wenn ich urtheile: durch mein Urtheilsvermögen selbst ge halten , durch die Verhältnifsbegriffe des Bestimmba [p. 126] renund der Bestimmung zu urtheilen; das heiſst, ich muſs bestimmen , was als das Etwas an sich selbst, und was als die Bestimmung desselben zu denkensey. Aber auch grade in diesem Ansatz und dieser
+
+Richtung seines Urtheilens denkt er sich Merkmale der Dinge, das Eine Merkmalist, daſs das Ding als ein Ding zu denken sey , was im Verhältniſs zu einem Andern, das Ding selbst sey ; das Andere Merkmal ist , daſs ein anderes Etwas als
+
+Etwas zu Denken sey , welches im Verhältniſs zu diesem , als Ding selbst gedachten, ein Etwas dieses
+
+Etwas , d. i. eine Bestimmung desselben sey.
+
+Was will aber der Verstand hiermit anders sagen , als dieses: Alles Etwas ist im Verhältniſs zu einem Andern Etwas entweder als das Bestimmbare oder als die Bestimmung eines Bestimmbaren zu denken?
+
+Wenn Jemand denkt, es sey Etwas; so steuert ihn unverkennbar seine eigne Denkkraft , zú fragen :
+
+was ist es? Indem sie ihn aber zu dieser Frage steuert , steuert sie ihn das Etwas zu denken , was etwas seyn soll und dann das Etwas zu denken , was es seyn soll. In diesem Gange des Denkens denkt aber die Denkkraft das erstere Etwas , was etwas seyn soll, als ein Etwas was sie bestimmen will, mithin als das Bestimmbare , das zweite aber als ein
+
+Etwas, was die Bestimmung dieses Bestimmbaren seyn soll. Sie muſs also Jenes eine Etwas nicht bloſs als ein Etwas und dieses eine Etwas blos als ein Andres Etwas Denken , sondern sie muſs mehr als die bloſse Verschiedenheit denken; sie muſs nemlich [p. 127] von diesen verschiedenen Etwas das Eine als die
+
+Grundlage der Bestimmung denken , denn sie will es ja bestimmen, und das Andere als dasjenige denken , wodurch sie es bestimmen will , denn sie kann es ja nicht bestimmen , wenn sie es nicht durch Etwas bestimmt; sie muſs also das, wodurch sie es bestimmt , als Besimmung des Bestimmbaren denken.
+
+Sie denkt aber hier das Eine und das Andere, jedes nicht blos für sich allein , sondern Eins in Beziehung oder Verhältnifs zum Andern. Sieht sie von diesem Verhältniſs weg , so denkt sie auch nicht die Verhältniſs - Merkmale: daſs Etwas das
+
+Bestimmbare und Etwas die Bestimmung des Bestimmbaren seyn solle. Man habe nun genau Acht auf den Gang des Denkens: Etwas ; ein Etwas ; ein Etwas dasselbe, ein anderes Etwas Denken: Hier ist noch an kein Verhältniss gedacht; aber nun gehts weiter : Was ist das eine Etwas im Verhältniſs zum Andern Etwas ?
+
+istdas eine Etwas ein Etwas des Andern? ist A das Etwas des B? oder ist B das Etwas des ? ist Eins dasBestimmbare und das Andere die Bestimmung des selben? Was ist im Daseyn das Bestimmbare, was die Bestimmung des Bestimmbaren? das ist hier die Weise, durch welche sich die Denk-und die Urtheilskraft erweist.
+
+Die Regel also welche der Verstand hier für die Urtheilskraft auswirft, liegt klar vor Augen. Er will , daſs sie Etwas durch etwas bestimme , das was sie durch Etwas bestimmt, ist ihr die Unter [p. 128] lage des Bestimmens; das wodurch sie es bestimmt, ist ihr die Bestimmung der Unterlage. Beide aber , Unterlage und Bestimmung , sind ihr Verhältniſsmerkmale des Daseyenden. Und so ist es nothwendig durch das Denken selbst; denn die Denkkraft muſs es wohl ungeschehen lassen , durch Merkmale zu erkennen , wenn sie nicht Etwas denkt , was sie durch dieselben erkennen will.
+
+die Urtheilskraft sen,
+
+Eben so muſs es auch wohl ungeschehen las-
+
+Etwas durch Merkmale zu bestimmen, wenn sie nicht das ein Etwas als das Bestimmbare zuerst setzt und das andere Etwas als die Bestimmung desselben hinzusetzt.
+
+Sie bestimmt also hier nach derselben Regel , welche Regel des Denkens überhaupt ist , das heiſst: sie urtheilt im Zuge dieser Regel. Ihre Regel zu urtheilen ist also überhaupt diese : in ihrem Urtheilen unter der Regel (unter den Begriffen) des Bestimmbaren und der Bestimmung zu verfahren.
+
+Es leuchtet aber auch so fort ein , dass der Verstand mit diesen Beziehungsbegriffen eine Verbindung aussage und zwar eine besondere Art der Verbindung. Die Frage ist nämlich hier nicht mehr: ob einEtwas seyoder nichts ? ob das Etwas dasselbe oder ein anderes Etwas sey? sondern: ob ein Etwas das Etwas eines andern Etwas, Eins also als das Bestimmbare und das Andere als die Bestimmung desselben zu denken sey? dies ist aber eine Artder Verbindung des Einem Etwas zum Andern Etwas ;
+
+nämlich die
+
+Verbindung des Unterseyns , der Grundlage, zum Oberseyn , der Bestimmung desselben.
+
+[p. 129] Die Urtheilskraft also , welche das Daseyende durch Begriffe zu bestimmen sucht , ist durch diese
+
+Regel der Verbindung gehalten , zu bestimmen: was, im Verhältniſs zu einander , als das Ding selbst , was als bloſse Bestimmung eines Dinges zu setzen sey ? Ehe sie also urtheilt: Kajus ist Mensch; muſs sie urtheilen : Kajus ist ein Etwas , was als Ding an sich selbst ; Mensch ist ein Etwas , was als Bestimmung dieses Dinges zu setzen ist.
+
+Daſs nun diese Regel der Verbindung eine Regel des reinen Denkens und somit auch eine Regel des Urtheilens sey; daſs mithin die Merkmale , welche die Denkkraft durch sie auswirft , unausbleibliche
+
+Merkmale zur Bestimmung der Dinge sind ; das ist es, was hier hervorgehoben und bemerkt werden soll. Die Denkkraft kann sich alles , was ihr gegeben wird , als das Etwas selbst und Etwas als die Bestimmung desselben denken; sie kann sogar das Etwas selbst als ein Etwas , was sich selbst sein Merkmal sey , denken; z. B. Eins ist Eins, A ist A.
+
+Weise des Denkens und Urtheilens ist auch hier noch vernehmbar ; aber auch nur noch die bloſse Weise spricht sich hier aus ; wo aber dies der Fall ist, da enthält das Urtheil eigentlich nichts anderes , als das Geständniſs oder Urtheil: daſs man von einem
+
+Etwas keine Bestimmung angeben könne oder wolle. Der eigentliche Geist dieser Denkweise will aber :
+
+daſs Etwas als die Grundlage und etwas Andres als die Bestimmung desselben gedacht werden solle und die vollendete Ausführung dieser Regel will : dafs dasjenige gedacht und gesucht werden solle , was nur [p. 130] als das Bestimmbare und durchaus nicht mehr als Bestimmung gedacht werden könne und wiederum , was nur als Bestimmung eines Dinges und durchaus nicht als ein für sich selbst seyendes Ding gedacht werden könne. Also , was in aller Beziehung nur ein für sich selbst daseyendes und in keiner Beziehung als ein bloſs einem Dinge anhängendes da ist , mithin die Selbständigkeit des Daseyns in Beziehung auf das Unselbstständige im Daseyn, dies ist es eigentlich, was die Denkkraft hier beabsichtigt. Wir bezeichnen diese vollendete Absicht des
+
+Denkens mit dem Ausdruck dessen , was die schlechthin erste Grundlage (substratum Primum) des Daseyns der Dinge ist ; einEtwas, wovon die Sinnlichkeit nichts weiſs und wozu sie uns auch gar kein Beispiel zurSchau bringt; dessen ungeachtet aber doch ein Begriff ist, welcher durch die Denkkraft selbst fest steht. In einiger Beziehung giebt uns jedoh allerdings die Anschauung Belege hierzu; z. B. wenn wir urtheilen : Dieser Körper ist hart.
+
+Aber , was ist die schlechthin erste Grundlage des Daseyns des Körperlichen? das heiſst , was ist dasjenige des Körpers , wovon man urtheilen müsse , daſs es durchaus nicht mehr das Etwas eines Etwas , d. i. ein , einem Andern Etwas anhängendes sey ? Dies zeigt uns keine Anschauung. 2. Die zweite Art der Verhältniſs -Begriffe offenbart sich durch die Frage des Denkens : ob Etwas im Verhältniſs zu einem Andern Etwas sich als
+
+Grund des Daseyns oder als Folge des Daseyns verhalte ? Die Frage ist hier nicht die obige und frägt [p. 131] nicht: ist ein Etwas das Etwas eines andern ? sondern diese : ist ein Etwas, weil etwas anderes ist? Ich muſs erst wissen: ob etwas einBestimmbares oder bloſse Bestimmung sey , ehe ich fragen kann: ob ein Etwas , es sey nun einBestimmbares oder eine Bestimmung , Grund oder Folge des Daseyns von
+
+Etwas anderem sey? Die Denkkraft nöthigt mich also hier an etwas zu denken , was ich noch gar nicht dachte , indem ich ein Etwas als das Bestimmbare und ein andres
+
+Etwas als die Bestimmung desselben dachte; doch aber ist klar , daſs ich etwas nicht durch das Merkmal des Grundes , der Ursache , und etwas nicht durch das Merkmal der Folge , der Wirkung , denken könne , wenn ich Etwas nicht schon entweder als das Bestimmbare oder die Bestimmung eines Bestimmbaren gedacht habe ; denn von dem , wovon ich nicht weiſs , ob es ein Ding selbst oder bloſse Bestimmung eines Dinges sey , kann ich auch nicht fragen, ob es Ursache oder Wirkung sey ? Also: die Regel des Denkens: A ist B, das heifst: A ist das Ding und B die Bestimmung desselben, diese Regel des Denkens ist eine ganz andere als die: weil A ist , so ist B , das heiſst : A ist der
+
+Grund des Daseyns des B.
+
+Ich kann erstlich urtheilen X ist Mensch und hiermit urtheile ích : X ist das Ding und Mensch die Art wie es bestimmt ist. Ich kann aber auch urtheilen : weil X ist , so ist das Menschseyn, das heiſst: das Menschseyn , welches eine Art des Seyns des X ist, dessen Daseyn hängt ab vom dem Daseyn des X. Hier denke ich 9* [p. 132] also X, als Grund des Daseyns eines Etwas, als Ursache, dasjenige aber, wozu es als der Grund, als die Ursache gedacht wird, denke ich, als die Folge , als Wirkung. Ich gehe also im Denken darauf aus ; X durch den Begriff (durch das Merkmal ) Grund , Ursache zu bestimmen , das aber, wozu es der Grund , (die Ursache ) ist , durch den
+
+Begriff der Folge (der Wirkung ) zu bestimmen. Denke ich nun erstlich das Ding als Ding an sich selbst (das Ding , dasjenige , was Ein Merkmal 'eines Andern ist) und eben dieses Ding als Grund des Daseyns eines Etwas ; so denke ich mir , indem ich beide Arten , es zu denken , zusammen denke; als ein wirksames Ding; dasjenige aber , was nur ist, in so fern es durch dasselbe ist , als die Folge, als die Wirkung , oder: als das Etwas , was in seinem Daseyn von jenem abhängig ist. Es liegt hier wiederum eben so klar vor Augen, daſs die Denkkraft , in diesem Gange des Denkens, Merkmale , Dinge zu denken , auswerfe.
+
+Denn wenn ich denke: ein Etwas sey Grund des Daseyns eines Etwas ; so denke ich es durch das Merkmal des Grundes (der Ursachlichkeit), so auch wenn ich denke :
+
+einEtwas sey Folge des Daseyns eines Etwas, so denke ich es durch das Merkmal der Folge (der Wirkung ). Es sind aber auch diese Merkmale, Merkmale des reinen Denkens ; das heiſst , Ausgeburten des Denkens selbst (Selbstgebährungen des Denkens) , denn nur die Denkkraft frägt: Ist etwas , weil Etwas andres ist , oder: ist etwas anderes , weil es ist?
+
+[p. 133] Nur denken kann man sich dieses , nicht aber ersinnen oder erschauen.
+
+Die, sich ausübende Denkkraft also oder die Urtheilskraft , ist demnach auch in ihren Bestimmen gehalten durch diese Merkmale zu bestimmen und eben so , wie sie im vorherigen gehalten war , zu bestimmen ; ob etwas im Daseyn als Ding selbst oder Bestimmung eines Dinges zu setzen sey; ist sie auch hier gehalten , zu bestimmen;
+
+ob etwas als der
+
+Grund des Daseyns , oder als die Folge aus einem Grundedes Daseyns zu bestimmen sey ?
+
+Man muss aber nie aus der Acht lassen , daſs hiermit nur bloſse , der Denkkraft angestammte, Weisen der Bestimmung ( Formen , Bedingungen ) angedeutet werden , ohne auszumachen, ob ihr je Stoffe vorkommen mögen , welche sie auf diese Weise zu bestimmen sich berechtigt finden könne. darauf kommt es auch hier noch nicht an.
+
+Aber
+
+Hier ists genug , sich bewuſst zu werden , daſs das Urtheilen durch das Denken selbst in diesen Zug des Bestimmens gebracht werde.
+
+Eins jedoch ist hierbei so fort unverkennbar : nämlich dieses: daſs die Denkkraft, mit diesen Merkmalen , aller Erkenntnifs vorgreift und durch sich
+
+`selbst gebieterisch bestimmt , alles Daseyende müsse diesenMerkmalen, alsRegeln seines Seyns, unterworfen seyn. ‫به‬
+
+Was ich also auch urtheile ; wennich nur urthei-
+
+Je, so muſs mein Urtheilen nach diesen Regeln verfahren und so sage ich , aus der Macht meines Denkens , allen Dingen , die je meiner Beurtheilung an-
+
+[p. 134] / heim fallen mögen , gleichsam auf den Kopf zu : sie müssen nach diesen Regeln geordnet seyn. Ich urtheile also unausbleiblich über jedes mir Gegebene : es sey entweder ein Etwas , was ist , weil etwas anderes ist ; es sey Folge ; oder es sey , weil es ist , ein anderes Etwas ; es sey Grund. Zu dieser Regel des Urtheilens muſs mir nun auch die Welt , wo sie sich meiner Gewahrung giebt, Belege liefern , oder sie enthält gar nicht diejenige Ordnung , welche meine Denkkraft von ihr erfordert; das heifst : sie enthält keine Ordnung , wie sie seyn muſs , wenn sie eine Ordnung für denkende
+
+Wesen seyn soll. Diese Begriffe des Grundes und der Folge gehen aber , wie sie die reine Denkkraft auswirft , viel weiter als unsere durch Sinnlichkeit beschränkte Anschauung uns je Belege dazu liefern kann. Grund seyn oder Folge seyn : Dies ist der weitgreifende Geist , welcher in dieser Regel des denkens wehet. Hiermit spricht sich aber die Denkkraft also aus :
+
+achte auf das , was nicht mehr als Folge , sondern nur als Grund des Daseyns zu denken sey; wovondu also nur urtheilen kannst : es sey weil es ist; achte so auf den obern und endlich auf den obersten Grund ; ferner : achte auf das , was nur als Folge und nie als Grund gedacht werden kann ; achte so auf die Folge , achte so auf die Folge dieser
+
+Folge , verfolge die Folgen im absteigender Linie ins Unendliche ; achte so auf alle Gründe zu einer Folge; achte so auf alle Folgen eines Grundes u. s. w.
+
+[p. 135] Wer sieht nicht , daſs er, im Zuge dieses heeren Gesetzes seines Denkens und Urtheilens sich über die Welt , so weit und so fern diese ihm nur durch seine
+
+Sinnlichkeit zur Schau kommt , weit emporhebe. Diese bietet ihm immer nur bedingte Gründe und bedingte Folgen dar , daher immer nur beschränkte Belege zu den unbeschränkten Gesetze des Denkens.
+
+Belege bleiben sie jedoch immer , wenn gleich nur beschränkte , und daher ist uns die Welt, wie sie sich uns giebt und sich uns auch nur nach der uns angestammten Beschränktheit des Anschauens geben kann , doch so fort ein denkgemäſses Gebäude ; als sie uns nur ein Beispiel der ursachlichen Verknüpfung darstellt ; z. B. ein Baum , welcher Zweige hat , ist die Ursache des Daseyns dieser Zweige ; er treibt sie aus sich hervor; oder ein Andres Beispiel : Ein Mensch welcher Kentnisse hat , ist Grund des
+
+Daseyns derselben; er erwirbt sie durch sich selbst : oder noch ein andres : eine Sonne , welche scheint, ist Grund des Scheins eines Steins; sie erleuchtet ihn.
+
+Wollten wir aber diese Belege nach der heeren Bedeutung des Denkgesetzes verfolgen und sonach zu dem Grunde denjenigen Grund suchen , der nicht mehr als Folge gedacht werden kann oder von den Folgendie Fol. gen bis ins Unendliche verfolgen, so würden wir so fort inne werden , daſs unser beschränktes Erschauen sich dieser unbeschränkten Regel des Denkens versage , daſs wir uns also im Erschauen dem , was sie als
+
+Regel der Bestimmung andeutet , nur nähern können , ohne je ihre vollendete Bedeutung zu erreichen.
+
+[p. 136] So ists, so kann es nur seyn, vermöge der Schranken unsers Erkennens; daſs es aber so sey und nur so seyn könne , erkennt aber doch auch unser Geist selbst kraft seines Denkens und solüftet und schwingt sich wiederum dieser durch seine eignen Flügel und findet sich über der Ordnung dieser ihm schaulichen Welt durch sein Denken in einer ihm nicht schaulichen Ordnung , wo dermalen seine ganze Seligkeit darin besteht , daſs er sie denken könne , daſs er sie denke , daſs er sie denken müsse und daſs er selbst aus diesen Gedanken schon hier wollen könne und wollen solle ; handeln könne und handeln solle. Kehren wir nun zu dem zurück: daſs unsre Urtheilskraft an den Begriffen des Grundes undder Folge Regeln des Urtheilens habe , so leuchtet auch so fort ein , daſs ihr diese Regeln des Verhaltens oder der Beziehung eines Etwas auf Etwas anderes , mithin Verhältnifsbegriffe oder Beziehungsbegriffe sind; daſs sie ihr aber auch eben dadurch Regeln oder Begriffe der Verbindung des einen Daseyenden mit dem Daseyn des Andern sind. Denn wenn ich Etwas als den Grund und Etwas anderes als die Folge desselben denke, so denke ich mir hierdurch das Eine Etwas zum Andern Etwas auf eine Weise verbunden . Es ist aber diese Weise eine andere Weise des
+
+Verbindens , als die vorige , wo Etwas als das Bestimmbare und etwas anderes als die Bestimmung desselben gedacht wurde, die jetzige Verbindung ist nicht diejenige , wo ein Etwas in seinem Daseyn als [p. 137] dem Andern anhängend , sondern als vom dem Andern abhängend gedacht und als solches durch die Urtheilskraft bestimmt werden soll.
+
+In der völlig reinen und abgezogenen Bedeutung ist es also der Begriff der Wirksamkeit , welcher hier als Regel des Denkens und Urtheilens eingeführt wird; denn Wirksamkeit kann man sich nicht denken , ohne Etwas als Grund (Ursache) und etwas als Folge (Wirkung) zu denken. Wenn ich daher urtheile : X ist wirksam ; so urtheile ich ; X ist Etwas, was als Grund (Ursache) zu Etwas anderem , als der Folge (Wirkung) zu denken und zu bestimmen ist. Dies ist die einfache Bedeutung dieser Denkweise.
+
+Belege nun, wie z. B. dieser: die Sonne erwärmt durch ihren Schein den Stein; sind schon zusammengesetzte Urtheile unter dieser Regel. Ich muss ja schon , ehe ich zum Letztern komme , urtheilen die Sonne ist wirksam , d. h. sie ist Grund des Daseyns zu Etwas, ist Ursache ; ich muss ferner urtheilen : das , wodurch sie der Grund ist, ist der ihr anhängende Schein; ich muſs ferner urtheilen :
+
+das , was sie durch den
+
+Schein wirkt , ist Wärme ; ich muſs ferner urtheilen: die Sonne wirkt auf den Stein ; sie wirkt durch ihren Schein auf ihn; sie ist durch diese Bestimmung der Grund des Daseyns der Wärme, des Steins u.s. w. Dies ist also eine Reihe des Verfahrens nach einer und derselben Regel , nach dem Begriffe der Wirksamkeit oder nach der Denkfrage : was ist , weil Etwas ist ? -
+
+Wir denken und urtheilen; ein Etwas sey ein wirksames Etwas.
+
+Es ist aber doch vor allen
+
+[p. 138] Dingen die Frage : wie kommen wir zu diesem Begriffe , durch welchen wir Dinge denken und bestimmen ? Wenn ich Etwas als Etwas und dieses Etwas als ein Seyendes Etwas denke , so denke ich es darum noch nicht als ein wirksames Etwas.
+
+Aber die Denkkraft frägt so fort durch sich selbst : ist ein anderes Etwas, weil dies ein Etwas ist ? und diese Frage kann sie nicht thun , ohne sich ein Etwas zu denken , was Grund des Seyns eines andern Etwas sey. Dies ist aber grade die Wirksamkeit welche sie sich hier denkt. Grund des Daseyns zu Etwas seyn , oder wirken , ist also der Begriff, welchen die Denkkraft hier auswirft und durch welchen sie, wenn sie urtheilt , zu urtheilen sucht.
+
+Wenn ich ur1 theile : Ich denke , so urtheile ich: Ich bin Grund des Seyns eines Etwas und dieses Etwas , wovon ich der Grund bin , ist der Gedanke. Wenn ich urthéile : das Feuer brennt; so urtheile ich das Feuer ist der
+
+Grund des Seyns eines Etwas , und dieses Etwas ist der Brand. Das Feuer ist Etwas, der Brand ist etwas
+
+Andres. Ich müſste es aber wohl ungeschehen lassen, zu urtheilen : das Feuer brennt ; wäre meine Denkkraft nicht so fort mit ihrer rüstigen Frage da : Was ist, weil etwas ist ? Durch diese Frage führt sie den Begriff des Grundes und der Folge (der Wirksamkeit und der Wirkung) ein und hieran schliessen sich dann die nähern Bestimmungen des Begriffs der Wirk. samkeit : Handlung , That , freie Handlung, freie That u.s.w. Denn der im Wesen des Denkens gewurzelte Begriff : Grund seyn zu Etwas , gestaltet sich durch seine Anwendung gar mannigfaltig ;
+
+[p. 139] aber er , als der Begriff des Grundseyns zu Etwas , des Bestimmens , des Wirkens , des Thuns u.s. w. beherrscht sie alle.
+
+Aber grade in dieser weiten Bedeutung dieses Begriffs liegt auch groſse Bedeutsamkeit ; denn er beherrscht nicht allein , wie schon oben bemerkt ist, die uns durch Sinnlichkeit zur Schau kommenden
+
+Gegenstände , sondern alle nur denkbare Gegenstände , reicht mithin so weit , als es Gegenstände für denkende Wesen und es denkende Wesen für Gegenstände giebt. Bisher sind wir aber durch die Erörterung dieser Regel nicht über das Ding selbst und sein Verhältnifs zu sich selbst hinaus gekomWir sollten uns in diesem Zuge des Denkens men.
+
+erstlich (nach Nr. 1.) ein Etwas denken , was im Verhältniſs zu etwas Andern nur als Ding an sich selbst , nicht als Merkmal eines Dinges gedacht werden könne; Zweitens (nach Nr. 2.) ein Etwas denken was im Verhältniſs zu etwas Andern nur als der Grund des Seyns , nicht als die Folge desselben gedacht werden könne. Denken wir nun das Ding , was kein Merkmal eines andern ist , als Grund des Seyns eines Etwas ; so denken wires , durch den Verein dieser Begriffe , als das Ding selbst mit seiner Wirksamkeit , oder mit andern Worten: als das selbst wirksame Ding.
+
+Die Denkkraft verfolgt aber so fort diesen Begriff mit einer neuen Frage. Sie frägt: wie verhält [p. 140] sich dies wirksame Ding durch sich selbst zu sich selbst ? was ist dies Ding, als wirksames Ding , im Verhältnifs zu sich selbst? Was macht es selbst aus sich selbst ? Was ist es selbst weil es ist ? diese Frage verfolgt aber das Ding nach seinem innern
+
+Verhältnisse; sie frägt: Dieses
+
+Ding, das Ding an sich selbst , dem das Merkmal A zukommt , ist es dieses A durch sich selbst ? Dieses Ding , das Mensch ist , ist es Mensch durch sich selbst ? ist es selbst der Grund dieses seines Seyns ? Mögen wir solche Fragen auch nicht beantworten können , die Denkkraft macht sie doch'und spornt uns daher zur ihre Beantwortung an. Wir müssen uns freilich bei solchen Fragen gar oft bescheiden und unser : ich weiſs nicht : zur Ausbeute geben; allein diese groſswichtige Frage der Denkkraft selbst können wir doch nie verkennen .
+
+Diese Frage in ihrer weiten Bedeutung geht also dahin; zu fragen: Das Ding, was als Ding selbst ein wirksames Ding ist , d. b, was Grund zu Etwas ist ; wozu ist es Grund für sich selbst ? was macht es selbst aus sich selbst ? Was ist es selbst durch sich selbst ? Was aber einDing selbst durch sich selbst ist , das ist es nach seinem innern Verhältnisse.
+
+Die Frage also : was ist das Ding selbst durch sich selbst ? Geht nicht über das Ding selbst und sein Inneres hinaus ? Was also auch ein Wesen aus sich selbst für sich selbst sey? als was und wozu es sich selbst (mit oder ohne Freiheit) mache; so ist doch die Regel [p. 141] des Denkens hier nur noch, es als vereinzelt und für sich allein zu denken.
+
+3. Aber die Denkkraft begnügt sich nicht mit der Frage: was ist das Ding selbst durch sich selbst ? Sie, die durch die Regel gehalten ist, ein Etwas und ein anderes Etwas ( Vieles) zu denken ; sie die durch die Regel gehalten ist , ein Etwas als das Etwas selbst und Etwas als die Bestimmung desselben zu denken; sie , die durch die Regel gehalten ist , Etwas als das Grundseyn und etwas als das Folgeseyn zu denken ; sie die durch dieRegel gehalten ist , zu denken, was dasDing selbst durch sich selbst sey, folglich das Ding mit seiner Wirksamkeit an und für sich selbst und allein , mithin in bloſser
+
+Beziehung auf sich selbst, mithin nur nach seinem innern Verhältnisse zu denken , enthält sich nicht , zu fragen: wie verhält sich ein Ding an sich selbst zu andern Dingen, die ebenfalls als Dinge an sich selbst zu denken sind ?
+
+Hiermit geht sie aber durch sich selbst zum Gedanken des äuſsern Verhältnisses über :
+
+An sinnliche Bndingungen, wie ein solches Verhältniſs zur Schau komme ; an Zeit und Raum ist hier noch nicht zu denken; denn auf diese SeynsArt schränkt sich die Denkkraft keineswegs durch sich selbst ein. Sie denkt Dinge an sich selbst, Eins und ein Anderes , in Beziehung und Verhältniſs auf einander , ohne schon an ein Wann und Wo zu denken. Denn das Wo kommt ihr erst aus der
+
+Anschauung und ist nur ein sinnliches Beispiel zu dem heeren Begriffe des Verhältnisses der einem [p. 142] wirksamen Selbstdinge zu andern wirksamen Selbstdingen. Wo ist denn das Ding , das durch Vorstellungen wirksam ist ? Hierüber hat man sich so lange den Kopf zerbrochen , bis man inne ge worden ist , es gebe gar kein Wo für dieses Ding; denn die Wirkungen dieses Dinges kommen uns wohl irgendwo zur Schau, aber nimmer das vorstellende und die Handlung der Vorstellung an sich selbst. Das will nun so viel sagen : um den Begriff des äuſsern Verhältnisses der wirksamen Dinge gegen einander , in derjenigen weiten Bedeutsamkeit zufassen, welche die Denkkraft ursprünglich in ihn hineinlegt , müssen wir von der besondern Art, wie er sich durch Beispiele der Sinnlichkeit und ihre Bedingungen, in Raum und Oertlichkeit, also erst durch Anwendung , gestaltet , wegsehen. Dies sagt aber wiederum so viel als : Der Verstand denkt sich Dinge in äuſsern Verhältnissen ; deren Aeuſserlichkeit nicht durch Oertlichkeit bedingt ist. So sollen wir uns also unter der Leitung des Denkens Dinge denken, die kein Merkmal der Dinge sind , also als Dinge an sich selbst ; wir sollen diese denken mit dem Merkmal der Wirksamkeit , also als wirksame Selbstdinge ; wir sollen diese denken im äuſsern Verhältnifs zu andern wirksamen Selbstdingen , wir sollen dieses äuſsere Verhältniſs denken mit Wegsicht von Oertlichkeit im Raume; und somit ist die reine Frage des Denkens hier : was ist ein Selbstding X, weil ein Selbstding Y ist ? was ist X durch Y? Was wirkt Y auf X ? wie bestimmt Y dasX?
+
+[p. 143] Da aber hier beide, so wohl das X als das Y als wirksame Dinge im äuſsern wechselseitigen Verhältniſs auf einander gedacht werden , so kehrt sich auch so fort die Frage um und frägt : was ist das Selbstding Y weil das Selbstding X ist ? was ist Y durch X? was wirkt X auf Y ? wie bestimmt X das Y ?
+
+Die Regel zu denken ist also hier : wie bestimmen sich X und Y wechselseitig?
+
+Wirksame Dinge , bestimmende Dinge , in ( einander wechselseitiger Bestimmung wechselseitig bestimmend) zu denken; das ist der Begriff , welcher hier zur Ausführung kommen soll. Wenn ich nun Dinge durch diesen Begriff bestimme, so bestimme ich sie durch ihn als ein Merkmal und die wechselseitige Bestimmung derselben durch einander ist eben das Merkmal , wodurch ich sie bestimme.
+
+Es ist aber dieses Merkmal, rein gedacht, ebenfalls auch nichts anders , als eine Regel Dinge zu denken und zu bestimmen.
+
+Eben diese Regel aber ist auch eine Regel des
+
+Verbindens ; denn indem ich Selbstdinge zu Selbstdingen in dem Verhältnisse der Wechselwirkung denke, denke ich sie zu einander auf eine gewisse Weise (äuſserlich ) verbunden. Ohne diese Verbindung denke ich jedes getrennt und für sich allein.
+
+Denkkraft steuert aber durch sich selbst dahin und will haben: sie sollen in dieser Verbindung gedacht werden und die sich ausübende Denkkraft , die Urtheilskraft , will sie nach dieser Regel bestimmen.
+
+Eine
+
+Welt nun, in welcher sich zu dieser Verbindungsart [p. 144] kein Beispiel und Beleg fände , würde nicht die Ordnung haben, wie sie der Verstand verlangt, das heiſst, sie würde nicht eine solche Ordnung haben wie sie seyn muſs , wenn sie eine Ordnung für denkende Wesen seyn soll. Wie gewiſs ich mich also nur mit meiner Urtheilskraft auf die, sich mir darbietenden Gegenstände werfe ; so gewiſs lege ich es auch darauf an, sie der Beurtheilung nach der Regel der Wechselwirkung (des wechselseitigen Einflusses ) zu unterwerfen. Und dies geschieht lediglich durch mein Denken selbst. Diese Regel Dinge zu denken und durch sie Dinge zu bestimmen, ist daher eine reindenkliche (logische) Regel ; man kann sie nicht erschauen oder ersinnen, sondern nur denken und immer nur denken und nur versuchen , ob sich das Erschaute und Gewahrte ihr unterwerfen lasse, oder nicht.
+
+Die Denkkraft aber sagt es aus eigner Macht allem Stoffe der Gewahrung auf dem Kopf zu: er müsse sich dieser Regel unterwerfen lassen , wenn er ein Gegenstand ihrer Beurtheilung seyn solle. Sie findet aber auch ihre Zumuthung so fort bestätigt, als sich ihr nur zwei Gegenstände , X und Y, darbieten, die beide Etwas sind , weil sie beide sind ; wenn z. B. ein Stein einen andern stöfst und von ihm wiederum gestoſsen wird; ein Stein den andern anzieht und von ihm wiederum angezogen wird. Aber in welcher heeren Bedeutung nimmt dies die Denkkraft , wenn' sie allgemein denkt , daſs alle
+
+Dinge aller Art sich wechselseitig bestimmen (in thätiger Gemeinschaft stehen) wenn sie z. B. denkt, daſs zwei
+
+[p. 145] V zwei denkende Wesen durch ihre bloſsen Gedanken einander wechselseitig bestimmen ; dies mit Wegsicht von Zeit und Raum gedacht, wo also Dauer und Oertlichkeit keinen Unterschied machen , also X vor Myriaden Jahren auf Y nach Myriaden Jahren und umge.
+
+kehrt , einander bestimmen , wie wenn es in einem und demselbenAugenblick geschähe, oder X in einem
+
+Wandelstern auf Yim Syrius und so umgekehrt wire ken, wie wenn es durch unmittelbare Berührung geschähe. Und doch sind dies nur geringfügige Beispiele zu dem groſsen Gedanken der Wechselwirkung , der in seiner Reinheit von allen sinnlichen Bedingungen wegsieht.
+
+id
+
+Dieser Begriff beherrscht nun die Betrachtung Beurtheilung aller Dinge und unter seinerLeitung und soll nichts gedacht werden , was nicht im thätigen Verhältniſs auf alles und jedes stehe und umgekehrt dieses All wiederum als solches, was auch im thätigen Verhältniſs auf jedes Eine stehe; so daſs also alle Dinge mit allen Dingen in Wechselwirkung stehen , mit hin kein Ding in einem Zustande sey , in welchem es nicht durch alle Dinge sey und alle Dinge wiederum in keinem Zustande seyn, in welchem sie nicht auch durch jenes eine Ding wären. Wer erkennt hier nicht so fort wiederum die
+
+Ueberschwenglichkeit des Denkens, wogegen alles , was uns unsre beschränkte Schau zur Schaulichkeit bringt , selbst die hohen Schwünge der Einbildungskraft nicht ausgenommen , nur als kleine Belege unsrer dermaligenHeimathlichkeit erscheinen? Wo in aller Welt mögte nun wohl dieser Schwung [p. 146] herkommen , käme er nicht aus dem Denken und durch das Denken? Und somit ist es immer und zu oberst die Denklehre allein, welche hierüber zu sprechen hat , und darüber sprechen muſs , und es verräth einen schwachen Blick in das Wesen des Denkens, wenn man solche Begriffe aus dem Gewahrten der Erfahrung schöpfen will, aus ihr , die doch kein Beispiel der vollendeten Bedeutsamkeit solcher Begriffe geben kann. Nach dieser Regel muſs gedacht werden: es stirbt keine Milbe auf Erden , deren letzter Hauch nicht das Weltall durchstöhnte ; aber welcher Sinn, welche Gewahrung , welche Erfahrung , welche Einblidungskraft zeigte uns wohl dieses ? Dennoch ist der Gedanke und sein Schwung denkgesetzlich und kehrt sich keinesweges an die Mattigkeit unsrer dermaligen Sinnungs- und Einbildungskraft.
+
+Mehr , als die eben erörterten und aus derDenkkraft hervorgehenden , Begriffe , Gegenstände in Beziehung auf einander zu denken und zu bestimmen, giebt es nicht. Alles , was ist, zu erwägen , ob es eine Einheit oder Vielheit sey; ob es eine Sache oder der bloſseMangel derselben sey ; ob es die erste Grundlage oder die bloſse Bestimmung desselben sey; ob sein Daseyn auf etwas anderes als Ursache oder Wirkung zu beziehen und endlich obes für sich allein oder in wechselseitiger Bestimmung mit anderm Daseyenden stehe? Dies ists , auf dessen Erwägung dieDenkkraft durch sich selbst dringt und an eben diesem hat dieUrtheilskraft Begriffe, Gegenstände zu bestimmen.
+
+[p. 147] Durch diese Begriffe erweitert sich nun auch die Denkkraft durch sich selbst und führt durch sie
+
+Unterschiede ein , das Daseyende zu denken und zu bestimmen. 11.3.
+
+Ich könnte etwas blos als Daseyendes denken und es wäre möglich, daſs meinDenken lediglich hiermit beschlossen wäre ; dann würde die Urtheilskraft sich bloſs mit dem Urtheil: es ist Etwas , begnügen. Frage ich aber: wie viel? ob esEins oderVieles, oder wie viel es sey? so will ich etwas mehr wissen. Ich könnte nun durch mein Denken auch bloſs hierauf beschränkt seyn und dann würde mein ganzes Denken und Bestimmen darauf beschränkt seyn: es sey Eins oderVieles und so Vieles; wie denn auch wirklich das Urtheil sich öfters hierauf beschränkt, indem Einer urtheilt: das ist ein Etwas , ist Vieles, ist so viel; frage ich aber: was ists , was nicht ? so will ich mehr wissen: nämlich , ob das etwas ein Etwas oder der bloſse Mangel dieses Etwas, ein A oder ein NichtA sey? Wenn ich urtheile: Ein etwas sey die Sache und ein Etwas seyrein Etwas , was blos durch den
+
+Mangel dieses Etwas (dieser Sache) bestimmbar sey, so urtheile ich mehr , als wenn ich urtheile : ein Etwas sey Eins; denn ich urtheile , dieses Eine sey ein Etwas und nicht die bloſse Verneinung eines
+
+Etwas; sey kein Etwas , was ich nur dadurch bestimme, daſs ich urtheile , was es nicht sey. Es wäre nun auch möglich , daſs mein ganzes Denken und Urtheilen durch sich selbst lediglich hierauf beschränkt wäre, dann würde meine Urtheilskraft sich damit begnügen müssen zu urtheilen: Ein Etwas seyi sey 10 * [p. 148] nicht , sey A, sey nicht A. Wie oft hält auch das Urtheil der Menschen bloſs hierbei an und begnügt sich z. B. bloſs zu urtheilen: X ist , ist nicht , X ist (ich weiſs nicht was ? aber ) kein Mensch.
+
+Will ich aber nun fernerweit wissen , ob das Etwas, was kein bloſser Mangel eines Etwas ist , ein Wesen an sich selbst , oder bloſs die Bedingung (die Weise , die Form) eines Wesens sey , so will ich wiederum mehr wissen , denn ich will zu dem, was ist, die Art wissen , wie es sey ; die Urtheilskraft also welche über ein Etwas also bestimmt, erweitert sich auch hier abermals in ihrem Bestimmen.
+
+Sie erweitert sich noch mehr , wenn sie der stimmt , ein Wesen, welches nicht die bloſseWeise eines Etwas ist, sey Grund des Daseyns eines Etwas; sey Ursach; sey wirksam , sey thätig. Sie erweitet sich noch mehr, wenn sie bestimmt, was eben dieses Grundwesen als Ursache im Verhältnifs zu sich selbst und allein , mithin in seinem Innern sey ; oder : was es im Verhältnifs zu andern Grundwesen, mithin im äusserm Verhältnisse sey ? dole 4. Dies sind nun Unterschiede , welche zu denken und zu bestimmen die Denkkraft sich durch sich selbst aufruft. Sie sind Erweiterungen zum Erkennen , wozu die Keime und die Urbegriffe durch die Denkkraft selbst gegeben werden. Durch diese
+
+Keime des Erkennens, als Weisungen und Kompaß, verfährt sie, wenn ihr Gegenstände zum Erachten und Bestimmen dargeboten werden. Was ihr nun auch als Stoff zugeführt werden mag; unter ihnen, * 01 [p. 149] als Regeln , muſs sie sie, wenn sie bedenkt , bedenken und wenn sie sie bestimmt, bestimmen.
+
+Mehr Begriffe aber, um die Gegenstände an sich selbst und in ihrem Verhältnisse zu einander zu bestimmen, bietet die Denkkraft nicht aus sich selbstdar.
+
+Doch aber ist noch Eins , was , ob es gleich gar nicht mehr dazu dient , die Gegenstände durch gegenständliche Merkmale zu bestimmen, doch in das Wesen unsers Erkenntniſsvermögens eingreift.
+
+Was könnte dies nun seyn, wenn die obigen Urbegriffe alles erschöpfen , was die Denkkraft aus sich selbst zur Bestimmung der Gegenstände darbietet? Es kann nichts mehr betreffen , als das Verhältnifs der Gegenstände zu unserem Erkenntniſsvermögen selbst.ai
+
+Das Vorige sagte: so haben wir die Gegenstände zu denken, und so haben wir sie denkkräftig zu bestimmen; so , bloſs wenn und weil wir sie denken. Aber eben diese Denkkraft , indem sie durch sich selbst gesteuert ist , Gegenstände zu denken, mithin den Begriff hierzu aus sich selbst entbietet;
+
+entbietet auch aus sich selbst die Frage: wie komme ich zu diesen Gegenständen , deren Begriff der unabweisliche Weiser aller meiner Denkthätigkeit ist ? Diese Frage will aber nichts anders , als dieses : ist der Gegenstand , welchen ich denke, ein bloſs gedachter ? oder ist er einer , der mir auch noch ausser meinem Denken ein Gegenstand ist ? Dieses Seyn oder Nichtseyn ausser dem Denken geht auf die Art, wie ein Etwas , was ich bloſs denke und daher [p. 150] für mich nur noch ein bloſs gedachtes Etwas ist, mir auch ein, ausser dem Denken , erkanntes werde? Nun ist keine Art, durch welche mir , ausser dem Denken, ein Etwas auch noch zur Bewissung kommen könnte , als allein meine Anschauung; da aber meine Anschauung doch auch nichts durch sich selbst anschauen kann , so hängt sie wiederum von der Art ab, wie ihr der Stoff zur Erschauung allein dargeboten werden kann. Diese Art ist nun bei uns keine andere , als die Sinnlichkeit. Diese aber gewahren wir in uns nur als ein Vermögen, Vorstellungen zu empfangen. Diese Empfängniſs ist mit dem Bewuſstseyn begleitet , daſs die Vorstellungen in uns entstehen , ohne sie selbst weder durchDenkkraft noch durchSelbsterschauung hervorzaubern zu können.
+
+Sie entstehen und sind in uns nicht , weil wir sie selbst denkthätig hervorbrächten, mithin die bewuſste Ursache davon wären; sondern weil etwas ist , wodurch und wovon sie uns zukommen uud dieses Etwas , wovon sie uns zukommen, bezeichnen wir mit dem Worte desDaseyenden ausser unserm Denken. Wir bezeichnen hiermit das Daseyn einesEtwas, was für uns nurdadurch da ist, daſs einEtwas, was in uns ist eine Vorstellung) durch dasselbe in uns ist. Diese Vorstellung ist also durch den Gegenstand in uns und dies drücken wir auch so aus , indem wir sagen: Der Gegenstand rühre uns, undbestimmeuns dadurch zur Vorstellung von ihm. Bleiben wir bei dem stehen, was uns unsre Denkkraft hierüber sagt : so heifst es: es entstehen und sind Vorstellungen in uns , von welchen wir nur urtheilen [p. 151] können: sie sind in uns , nicht durch unser bloſses Denken, auch nicht durch unser bloſses Schauen, sondern , weil Etwas ist , was unser Schauen zum Erschauen eines Etwas von ihm bestimmt, dadurch aber unser Denken zur Bedenkung und Bestimmung desselben veranlaſst. Das Urtheil aber, es sey eine Vorstellung in mir die nicht durchs Denken in mir ist, dies ist eben der Gedanke: es sey etwas aufser dem Denken die Ursache dieser Vorstellung in mir. Dasjenige aber, was mich zur Vorstellung veranłaſst, kann ich nun auch selbst seyn und dann ist es diese Vorstellung , wodurch ich mich selbst zu denken. habe; oder aber: es kann auch Etwas ausser mir seyn und dann ist es dieses Etwas was ich dadurch zu denken habe.
+
+Es ist aber auch hier doch nur unsre eigneDenkkraft welche uns durch ihre Denkweise aufruft , dies nur so und nicht anders zu beurtheilen.
+
+Wir können uns aber schon durch unser blofses
+
+Denken einen Begriff machen , wir dürfen ja nur den -Begriff eines Dinges. überhaupt, wie wir oben erörtert -haben , durch unsre bloſse Denkweisen verfolgen und bestimmen. So erzeugen wir uns z. B. den Begriff ( von einem Wesen , das kein Merkmal eines andern
+
+-Dinges sey; so auch von einem Wesen, daſs alle Voll. kommenheiten in sich habe u. s. w., hierzu bedarf es aber weiter nichts , als des bloſsen Denkens , aber, wenn wir uns auch schon einen Begriff von einen
+
+-Dinge gemacht haben, so bleibt unsdoch immer noch [p. 152] die Frage; ist uns dies Ding ein blos gedachtes , oder ist es uns auch etwas aufser dem Denken ? ist es also auch etwas erschauliches ? ci
+
+Hiermit wendet sich die Frage an den Denker selbst , und zwar an ihn , als einen Denker , dessen
+
+Denkvermögen nicht auch durch sich selbst ein Anschauunsvermögen ist. Dergleichen Denker sind wir nun alle, als Menschen betrachtet.
+
+Unsre Denkkraft ist nicht erschauend und unsre Erschauung ist nicht denkkräftig.
+
+Vermöge dieser Unterscheidung in unserm Erkenntniſsvermögen , nimmt der Begriff des Seyns, wie er sich blos im Verstande vorfindet , eine dreifache Weise oder Gestaltung an. Man nennt dies Modalität und will damit die dreifache Weisung andeuten , durch welche sich der reine Begriff des Seyns in seinem Verhältnisse zudem , der Anschauung bedürftigen Denker artet und erweist.
+
+In
+
+Folge dieses Verhältnisses gestaltet sich nun der Begriff des Seyns zum Begriffe eines möglichen , wirklichen und nothwendigen Seyns. Seyn oder Nichtseyn spricht die Denkkraft allein und schon durch sich selbst ; aber , möglich seyn, Wirklich seyn, nothwendig seyn , spricht sie im Verhältnifs zum Erschauungsvermögen solcher Denker, derenDenkkraft selbst nicht erschauendist. Eine Unvollkommenheit unsers Erkenntniſsvermögens wird hierdurch offenbar angedeutet , denn, wer mit seinemDenken darauf eingeschränkt ist, daſs ihm erst ein, dem Denken beigeselltes Vermögen der Anschauung und zwar der sinnlichen Anschauung, behülflich [p. 153] seyn muſs , um seinem Begriffe des Seyns Gültigkeit zu verschaffen , dieser steht allerdings hinter solchen Wesen , deren Denken selbst ein Anschauen , deren Erkennen mithin ein stetiger, Fortgang von Seyn zum Seyn ist; bei welchen also weder von Möglichkeit , dai. von einem bloſs denklichen, nicht erschaulichen Seyn , noch voneinem Wirklichen, d. h. von einem allererst durch Anschauung , nicht durchs Denken selbst gegebenen Seyn ; noch von Nothwendigkeit , d. h. von einem , aus demGegebe'nen , erschlossenen Seyn die Rede seyn kann. Bei ihnen muſsDenkenund Schauen, Gedachtes und Seyn, Eins seyn.
+
+Das ist aber eine Erkenntniſsarty die wir allerdings wohl noch denken, aber auch nur noch denken können.
+
+Bei uns also erhält der Begriff des Seyns erst seine Gültigkeit durch die Erschaulichkeit.
+
+29%
+
+Was aber hier merkwürdig und nie aus der Acht | zu lassen ist , ist dieses: dafs , wie der Begriff dés
+
+Seyns überhaupt , so auch dieGestaltungen desselben, im Verhältniſs zu unserm , eigens gearteten , Erkenntniſsvermögen, also die Begriffe des Möglichseyns, Wirklichseyns und Nothwendigseyns, gar keineMerkmale der Dinge und der Gegenstände ansich selbst bedeuten, denn ich weils: durch diese Begriffe von dem Dinge, es für sich genommen , nichts mehr; ich mag es erschauen oder nicht. Jeder hat zB. durch seine bloſse Denkkraft den Begriff von Gott, als dem vollkommensten Wesen, dem Urheber aller Dinge u. s. w.
+
+Wie könnte es ihm oder irgend
+
+Zeinem Menschen nur einfallen , zu urtheilen : diesem [p. 154] vollkommnen Wesen, Gott genannt, ginge dadurch irgend eine Eigenschaft an ihm selbst ab, daſs er für den Menschen kein erschaulicher , kein i die Schranken der sinnlichen Erkenntniſs einzwänglicher , daſs er vielmehr, wie jeder besonnene und bescheidene Denker unsrer Art urtheilen muſs , ein für unsere Erschauung völlig unerreichbarer Gegenstand sey ? Aber auch für Gegenstände , die gar wohl erschaulich sind , gilt eben dieses, nämlich : daſs die Begriffe des Möglich, Wirklichen oder Nothwendigen Seyns derselben keine , den Begriff von ihnen selbst , erweiternde Merkmale bedeuten.
+
+Ob ich urtheile: vernünftige Einwohner im Monde sind möglich oder wirklich (wenn ich sie erschaute) oder nothwendig (wenn ich ihr Daseyn erschlüsse) so bleiben sie an sich selbst das , was der Begriff ihres Wesens mit sich führt , und es geht ihnen durch die Verschiedenheit dieses Verhältnisses zu meinem
+
+Kennen weder etwas zu , noch etwas ab
+
+Doch aber bedeuten die Begriffe des Möglichen, Wirklichen und Nothwendigen einen Unterschied und welcher ist dieser? Es ist der Unterschied des
+
+Verhältnisses der Gegenstände zu meinem Erkenntniſsvermögen. Mir geht durch diese Verschiedenheit des Verhältnisses allerdings etwas ab oder zu. Denke ich bloſs das Seyn derselben , so sind sie mir bloſs mögliche Dinge und es geht mir die Ershauung derselben ab ; erschaue ich sie , so sind sie mir wirkliche Dinge , und es kommt mir eben diese Erschauung zur bloſsen Möglichkeit hinzu ; bin ich gar im Stande , ihr Daseyn aus dem Daseyn eines [p. 155] andern Daseyenden zu erschlieſsen, so kommt mir zum Bewuſstseyn des Daseyns noch das Bewuſstseyn der Nothwendigkeit dieses Daseyns hinzu. Meine Erkenntnifs wächst also allerdings durch diesen
+
+Gang; nicht aber nehmen die Gegenstände an sich selbst dadurch zu.
+
+Ja wäre dies , so würde meiner
+
+Erkenntniſs gerade das abgehen , was sie bezielt , die
+
+Wahrheit , welche nämlich will , daſs der Gegenstand gerade derselbe und kein anderer sey, als wie ich den Begriff dazuhabe.
+
+Gesetzt , die erste Grundlage unsers Seyns, man nennt sie die Substanz; oder gar das Urwesen der Welt, wäre uns nicht ein bloſs gedachtes , sondern, (was unmöglich ist) ein erschauliches , so würde es an sich selbst gerade dasselbe und nichts und mehr weniger seyn müssen, als wir davon durch unsernBegriff denken; aber für unsre Erkenntnifs würde eseingewaltiger Zugang seyn. Es bleibt also dabei: sowohl der reine Denkbegriff des Seyns, als die Gestaltungen desselben , im Verhältniſs zu unsernErkenntniſsvermögen , zum Begriffe des Möglichseyns , Wirklichseyns und! Nothwendigseyns tragen nicht zur Bestimmung der Gegenstände an sich selbst bei, sondern treffen bloſs das Verhältnifs derselben zu unserm Erkennen.
+
+Bei Wesen also, deren selbstthätiges Denken zugleich ein selbstthätiges Anschauen ist, kann dieErweiterung der Erkenntniſs nur vom Seyn zum Seyn gehen. Seyn und wirklich seyn muſs bei ihnen Ein undDasselbe seyn. Bei uns aber, die wir etwas denkenkönnen ohne es zu erschauen, und etwas erschauen [p. 156] können ohne es zu denken, wo also Denken und
+
+Gewahren zwei ganz verschiedene und getrennte Vermögen des Erkennens sind , erhält der Begriff des
+
+Seyns Bestimmungen und tritt unter die Weisen (Formen) des Möglichseyns, Wirklichseyns und Nothwendigseyns. Diese Weisen flieſsen daher auch auf alle unsere
+
+Urtheile ein.
+
+Wir mögen daher einen Begriff von einem Dinge haben, welchen wir wollen , wir mögen ihn durch unser. Denken allein und selbst erzeugt oder ihn auch aus der Erfahrung erst geschöpft haben ; so ist, wenn wir durch ihn urtheilen wollen , stets nothwendig , das Verhältniſs seines Gegenstandes zu unserm Erkenntniſsvermögen zu bestimmen , mithin zu bestimmen, ob das Seyn dieses Gegenstandes ein bloſs mögliches ( gedachtes ) oder wirkliches (gewahrtes ) oder nöthwendiges (erschlossenes ) sey. Lege es nur Jemand darauf an, zu urtheilen , ohne weder die Möglichkeit , noch die Wirklichkeit , noch die Nothwendigkeit bestimmen zu wollen, so wird er inne werden , daſs sich seine Denkkraft allem Urtheilen selbst versage.shing
+
+Hiermit ist nun alles erörtert , was den Gang betrifft , welchen Urtheilskraft als solche, zu nehmen hat; eine Erörterung , welche eben so schwierig, als wichtig ist ; denn sie kann nur aus der Beachtung des innern Denkwesens selbst entnommen werden und kein Bestimmen durchs Denken kann Anspruch auf
+
+Denkgemäſsheit machen , wenn es nicht unter den eben erörterten Bedingungen seinen Gang nimmt.
+
+[p. 157] Jetzt wird es auch thunlich seyn, diejenigen Urtheilsweisen anzugeben , welche aus dem Wesen des Urtheilens selbst geschöpft werden , mithin mit Wegsicht von aller Mannigfaltigkeit des Stoffs , welcher dem Denken auſser dem Denken, mithin durch Anschauung , zugeführt werden mag.
+
+Von den verschiedenen, durch das bloſse Wesen des Urtheilens bestimmten Urtheilsweisen.
+
+ie Denkkraft wird hier nicht erwogen in der Handlung , wodurch sie Merkmale von Gegenständen erachtet ; sondern in der Handlung , wodurch sie
+
+Gegenstände durch Merkmale bestimmt.
+
+Es kommt bei Erwägung dieser Handlung nicht in Betrachtung , welcher Art die Merkmale sind , welche der Urtheilskraft durch die Gegenstände selbst zugeführt werden; sondern welcher Art diejenigen sind, an welche sie , durch sich selbst , gebunden ist, bloſs weil sie ein Vermögen ist, durch Merkmale zu bestimmen.
+
+Halten wir also fest , das Bestimmen durch die
+
+Denkkraft sey die Handlung , gegebene Gegenstände, X, Y u. s. w. erachteten Begriffen , a, du. s. w.zu unterwerfen , so liegt in dieser Handlung alles , was zur Weise eines Urtheils gehört, in so ferne diese
+
+[p. 158] Weise aus dieser bloſsen Handlung geschöpft werden kann und wir dürfen nur fragen: welchen Gang muſs die Urtheilshandlung nehmen, bloſs weil sie ein Erkenntnifs durch Begriffe zustande bringen will? Unter a X , X unter a (sub a X , X sub a), daſs ist die Handlung , deren Vollführungsweisen, in so weit sie im Schooſse des Denkens selbst geboren werden, wir hier nur zu verfolgen und das , was man reine Urtheilsweisen nennt , zur bewuſstlichen Klarheit zu bringen haben. X unter a, unter a X, ist die Regel des Urtheilens , X ist unter a, - unter a ist X , dies ist die
+
+Ausführung der Regel , das Urtheilen oder die Handlung des Bestimmens selbst. Welches sind nun die Begriffe oder Merkmale, durch welche die Urtheilskraft bestimmen muſs , bloſs weil die Denkkraft durch sie als eine, durch Begriffe bestimmende auftritt ? Es sind gerade diejenigen Begriffe , welche sie in der Erachtung der Dinge leiteten. Das giebt sich unserm Bewuſstseyn nun auf folgende Art : Um Etwas durch Etwas (X durch a) zu bestimmen , muſs ich Etwas denken; um es zu bestimmen , muſs ich Etwas denken , wodurch ich es bestimme; der erste Begriff, wodurch ich , wenn ich es bestimme , bestimmen muſs , ist der Begriff des
+
+Seyns. Die Ausführung des Begriffs des Seyns ist das Setzen und der Ausdruck dafür ist das Wort ist: Etwas ist, heiſst Etwas ist bestimmt durch den Begriff des Seyns. Es ist Etwas , heiſst: es ist ein Stoff, Sache , Fülle , Bejahung.
+
+[p. 159] Wir haben hier also zwei Begriffe , wodurch die Urtheilskraft bestimmt.
+
+Etwas ist und das Etwas , was ist , ist Etwas ; Sache , Fülle , Bejahung. Es tritt aber so fort der Begriff der Einheit ein. Etwas ist und das Etwas , was ist , ist Eins. Mit diesem tritt der Begriff der Selbigkeit (identitas) undder Verschiedenheit ein. Ein dasselbe ist ;
+
+Ein (nicht dasselbe , ein) Anderes ist. Mit diesem tritt der Begriff der Vielheit ein ; Eins ist und Eins ist und Eins ist u. s. w; das ist der Begriff der Gröfse. Mit diesem tritt der Begriff der Wievielheit (quantitas), das ist das: wie viel mal Eins, ein.
+
+Die Urtheilskraft bestimmt nun durch diese Begriffe: Eins ist , Vieles ist, so viel ist. Es tritt nun ferner ein der Begriff der Art (der
+
+Leie), ( Qualitas). Dies ist der Begriffder Bestimmung eines Etwas durch Etwas , wodurch sich dieses Etwas von einem andern Etwas unterscheidet.
+
+Urtheilskraft bestimmt nun durch diesen Begriff: ein Etwas ist ein solches Etwas. Mit diesem Schritt des Urtheilens hebt das Erkennen durch die Urtheilskraft an ; denn dasjenige Eine und Selbige , wodurch ich ein Etwas von einem andern etwas unterscheide , ist dasjenige , wodurch ich es erkenne , ist Kennzeichen , Merkmal (Nota) desselben. Das Urtheil: ein Etwas ist: ist noch kein, die Erkenntniſs bestimmendes , Urtheil; aber das Urtheil: ein Etwas ist ein solches (ist ein a) giebt den bestimmten Begriff eines Etwas , was ist. Die Denkkraft selbst bietet aus sich selbst sofort zwei Leien oder Arten des Daseyenden ; die ei [p. 160] ne Leie ist die der Dinge an sich selbst und die andere Leie ist die der Eigenschaften der Dinge. Nach diesen Begriffen ist alles, was ist , entweder ein Ding an sich selbst oder eine Eigenschaft der Dinge. Die Urtheilskraft bestimmt also hier : Ein Etwas ist von der Art der Dinge an sich selbst;
+
+ein andres Etwas ist von der Art der Eigenschaften der Dinge. ... Zu diesen Leien , die Dinge zu bestimmen , die::
+
+tet die Denkkraft so fort zwei andere Leien ; die Leien des Grundes und der Folge. Die Urtheilskraft steht hiermit unter der Regel zu urtheilen : alles , was ist , gehört entweder zur Leihe der Gründe oder zur Leihe der Folgen , mit andern Worten: alles , was ist , ist entweder Etwas , wodurch etwas Anders ist oder Etwas, was durch etwas anderes ; ist entweder Grund oder Folge im Daseyn.
+
+Es bietet sich in diesem Zuge so fort der Begriff der Wechselseitigen Begründung , als eine Leie des Urtheilens dar.
+
+Die Urtheilskraft bestimmt unter dieser Regel: Ein etwas , was ist, ist wechselseitige Bestimmung und die Weise , durch diesen Begriff über Gegenstände zu urtheilen , ist, wie die vorigen, eine besondere , aus der Denkkraft selbst gespendete Weise des Urtheilens.
+
+X ist etwas durch Y; Y ist etwas durch X; das ist hier die Weise oder der Be griff, welchen die Urtheilskraft ausführt. Es tritt nun ferner auf der Begriff des Bedingten; das ist der Begriff eines Etwas und eines andern
+
+Etwas , wodurch Jenes bedungen ist. Dieser Begriff setzt die urtheilende Handlung in denSchwung des: Wenn = So; also: wenn seyn, so seyn; wenn so viel mal so viel , so, so viel wenn solches, so ein solches andere u. s. w.
+
+Durch eben diesenBegriff wird die Urtheilskraft auch in den umgekehrten
+
+Schwung des: So
+
+Wenn gesetzt; also: seyn, wenn seyn ; Etwas ist, wenn Etwas Anderes ist; so viel ist, wenn so viel mal so viel ist u. s. w. Die Weise des Urtheilens ist hier in allen Fällen der Be griff des Bedingten und das unter ihm verfahrende Urtheil das Bedingende.
+
+In dem Urtheile: Et was ist , waltet noch nicht der Begriff der: Bedingt heit; aber in dem Urtheile: Etwas ist, wenn etwas anderes ist , oder : wenn etwas ist , so ist et was anderes ; beherrscht er die Urtheilskraft und die Urtheilskraft herrscht durch ihn, indem sie durch ihn bestimmt. Die Bedingtheit selbst tritt nun wiederum unter den Begriff der blossen Einse tigkeit oder Wechselseitigkeit, und so ist die Wechselseitigkeit wiederum eine neue Regel, unter welcher die Urtheilskraft verfährt , indem sie urtheilt , a ist , wenn bist, und bist , wenn a ist, oder: a und b stehen unter dem Begriff der wechsel seitigen Bedingtheit.b Von den Begriffen der Möglichkeit, Wirklichkeit und Nothwendigkeit haben wir schon geredet. Daſs aber diese , wie die vorigen, Verhältniss Begriffe sind, indem durch sie alle etwas gedacht und gesetzt wird , in sofern etwas anderes gedacht und gesetzt wird, ist unverkennbar
+
+[p. 162] 4 Es würde nicht viel auf sich haben , wenn wir die bishen erörterten Weisen des Urtheilens bloſs als Regeln betrachteten , unter welchen jede gemeine
+
+Erkenntniſs, als solche, zu Stande gebracht wird, ob wohl auch dieses seine eigne Wichtigkeit hat; allein die hohe und überschwengliche Bedeu1 tung , welche die Denkkraft , mit Wegsicht von der gemeinen Erkenntniſs , durch sie für das Bedürfniſs des Wissens darreicht , bezaubert den Forschungsgeist, indem er durch sie auf Wahrheiten (Erkennt nisse) geleitet wird , welche durch die Erzeugung der bloſs gemeinen Erkenntniſs im Dunkeln bleiben würden. Die Urtheilskraft aber , durch sie beflügelt, aber auch geregelt , erschwingt aus dem , was der gemeinen Erkenntniſs noch Nacht und Leere ist , Licht und Fülle , Wahrheit und Gewiſsheit.
+
+Es ist nöthig , an diese Denkschwingung öfters zu erinnern und namentlich daran , daſs es allein die Denklehre (Logik) sey, welche die Denkkraft nach dieser Eigenschaft ans Licht ziehen ; mithin diese keineswegs bloſs als solche darstellen muſs, welche die Welt, wie sie uns zur Anschauung kommt , verständigt , sondern auch als eine solche, welche in sich Urbegriffe (Urweisungen) enthält , um sich durch sich selbst zu Erkenntnissen zu erweitern , deren Wahrheit undGe wiſsheit nicht durch Anschauung zu erreichen ist. new
+
+Noch haben wir nicht von einem durch unsere
+
+Denkkraft ausgebotenen Begriffe und Worte geredet und dieses ist das Nicht selbst; dieses an sich so [p. 163] leere, in seiner Verbindung aber so furchtbare und fruchtbare Wort.
+
+Seyn oder nicht seyn? das ist die Frage. Etwas oder Nichts seyn ? das ist auch die Frage, Wie furchtbar Aiste deri Gedanke: nicht seyn; nichts seyn ! Aber der Gedanke: nicht bedingt seyn ; nichtbedingtes Grundwesen (Selbstständig keit); nichtbedingte Ursache (Selbstthätigkeit , Freiheit) seyn; wie fruchtbar ist er und wie fruchtbar das Urtheil unter dem Nicht in dieser
+
+Verbindung! Das Nicht ist dem Urtheil die Leitung zur Entgegensetzung und wie viel Ansätze siedurch die Denkkraft zum Setzen (zum Bejahen) hat, so viel hat sie auch Ansätze durch das Nicht zum Entgegensetzen (Verneinen). Diese Entgegensetzung ist nun wiederum eine einseitige ader gegenseitige, und hieraus erzeugen sich die Begriffe von Miſslaut , Einschränkung , Widerstand, Widerstreit (Antagonismus ) , Vernichtung u. s. w. Es fragt sich nun, ob wir die verschiedenen, durchs Denken selbst gegebenen und vorgezeichneten Weisen des Urtheilens nicht unter eine geordnete (systematische) Uebersicht bringen können ? Wie sollen oder müssen wir dies anfangen? Wir können diesen Zweck der Denklehre auf keine andere Art erreichen, als wenn wir die Fragen des betrachtenden Denkens gerade als eben so vieleAufgaben für das bestimmende Denken ansehen , und das müssen wir thun , weil wir inder Handlung des Be:
+
+11* [p. 164] stimmens,die eignen Weisendes Denkens nicht abweisen können.
+
+Die Urtheilskraft ist das Vermögen, den Fragen des Denkens zu genügen. Dazu hat sie ihr Ist in Bereitschaft. Dieses Wort ist der Ausdruck für die
+
+Wahrheit und zwar im reinen Denken für die ganze denkende Welt,
+
+Es ist aber die Urtheilskraft , wie wir gesehen haben , überhaupt die Handlung , durch Begriffe Gegenstände zu bestimmen, und dies verrichtet sie dadurch , daſs sie die Gegenstände Begriffen unterwirft. Diese Art des Erkennens ist allein diejenige , welche dem Erkennen durchs Denken eigenthümlich ist; denn dadurch, daſs ich einen Gegenstand anschaue, bestimme ich ihn noch nicht durch Begriffe. また Jeder Begriff ist aber eine Weise, Dinge zu bestimmen, und ist dieser Begriff ein, durchs Denken selbst gegebener Begriff: sorist er die durchs Denken selbst bestimmte Weise desBestimmens.
+
+Dieser Weisen des Bestimmens bemächtigen wir uns , wenn wir von der Mannichfaltigkeit des Stoffes , wie er durch dieAnschauung gegeben wird, wegsehen und bei dieser Wegsicht bloſs auf dasjenige sehen , was noch durch das bloſse Denken zurückbleibt und wovon wir denkend nicht wegsehen können, ohne das Denken selbst unddieBestimmung durch dasselbe aufzugeben . Geurtheilt müssen wir aber schon haben, wenn wir aus der Handlung des Urtheilens die durch sie selbst in ihr Urtheil gelegte Weisen entnehmen wollen; haben wir aber geurtheilt , so müssen sich auch diese Weisen aus dem Urtheil , als einem Erzeugnisse [p. 165] des Urtheilens , nachweisen und zwar so nachweisen lassen , daſs wir wissen können , sie seyen, mit Weg sicht von dem Stoffe der Anschauung,, bloſser und त reiner Rückstand des Denkens selbst.
+
+u
+
+Zu dieser Absicht kann uns jedes Urtheil dienen, Es sey z. B. ein Urtheil , welches wir gefällt haben, dieses : dieser Gegenstand ist ein rothes Haus. Man sehe nun weg von dem , was hier der Anschauung angehört: so bleibt, statt dieser Gegenstand, bloſs : der Begriff eines Etwas X, als einesbestimmbarenEtwas; statt Haus (A) bloſs der Begriff der Bestimmung eines Etwas; statt Roth (B) der Begriff der Bestimmung des Bestimmten (desA durch B); statt Haus ist Roth, der Begriff der Verbindung eines Etwas (B) zu einem andern Etwas (A) durch die Ver . hältnifsbegriffe des Dinges an sich und des ihm zukommenden. Also; pein Etwas ist ; ein Etwas was ist, ist einbestimmbares Etwas; ein Etwas, was einbestimmbares Etwas ist, ist ein Etwas an sich selbst; ein Etwas , was ein Etwas an sich selbst ist,、 ist ein Etwas unter einem Merkmale A(es ist einA); ein Etwas unter dem Merkmale A ist Du. s.v.
+
+Auf solche Art verflüchtigen wir durch Absonderung von dem Urtheile alles durch Anschauung Gegebene, und das obige Urtheil : dies ist ein Haus , steht nach seiner Entkleidung bloſs noch als solches da : ein Etwas X , was A ist , ist B.
+
+Nun wird Jemand , wenn er so urtheilt , doch noch nicht urtheilen: er habe gar nicht geurtheilt ; sondern er muſs urtheilen , daſs er dennoch geurtheilt habe. Wenn er aber dennoch geurtheilt hat: so [p. 166] bleibt ihm hier nichts übrig, als die Weise (die Form) des Urtheilens , welche durchs Denken selbst gegeben ist und wodurch er urtheilen muſs , wenn er urtheilt ; weil sein Urtheilen eben nichts anderes ist, alsBestimmung durch diese Weise. DieWeise des Urtheilens ist aber eine Art zu urtheilen; als solche aber ein Begriff Gegenstände zu bestimmen, als Begriff aber von einer Bedeutsamkeit und als Begriff, der seine Quelle im Denken selbst hat, von denklicher Bedeutsamkeit.
+
+Alle dieseWeisen sind Ramen (Formen), aber voll Geist und so, obgleich Rahmen, doch zugleich Stoff, obwohl kein sinnlich gegebener. Solcher Weisen zu urtheilen giebt es viele; denn schon in dem bloſsen Urtheile : X, was A ist , ist B, entfaltet sich eine Menge derselben. Ihre Mannigfaltigkeit nun , als ein durchs Denken selbst geschlossenes Ganze , ausfindig zu machen; mithin eine Ansicht zu finden , unter welche wir die durchs Denken bestimmten Besonderheiten des Urtheilens eintheilenkönnen , das ists , was die Lehre von dem
+
+Urtheilen zu bewirken hat.
+
+Es fügen sich aber alle Fragen des Denkens un terdie Fragen: wie viel? wie beschaffen? wie verhaltend? Die erste Frage geht auf die Grö2
+
+Ise , die zweite auf die Sachheit , die dritte auf das Verhältnifs. Unter diesen Ansichten werden sich nun die verschiedenen Weisen des Urtheilens darstellen lassen, denn jedes Urtheil , jede Handlung durch Begriffe (X durch A) zu bestimmen , wird nothwendig
+
+[p. 167] J
+
+Gröfse , Beschaffenheit und Verhältnifs bestimmend seyn müssen. Die Urtheilshandlung wird also nothwendig bestimmen müssen: so grofs , so be schaffen , solches Verhältnifs.
+
+A. Von der Grösse- oder Umfangsbestimmung des Urtheils
+
+Indem das Urtheil Dinge durch Begriffe be stimmt , der Begriff des Begriffs aber ist, daſs er Et was bedeutet , was vielen Dingen gemeinsam ist: so muſs es unter dem Begriffe der Grösse nothwendig bestimmen; entweder : Ein Ding, was ist , ist Az oder: viele Dinge , welche sind, sindA, oder einm
+
+Gesammtes (vieles als Eins) , was ist, ist AI dieser Handlung bestimmt es aber durch dieBegriffe der Einheit , Vielheit , und Allheit , als verschiedene
+
+Weisen des Bestimmens ; sie bestimmt die Wievielheit der Dinge unter einem und demselben Begriff. Die Regel des Urtheilens ist hier also : Eins , einVie les und ein All (ein Ganzes, Gesammtes) durch einen und demselben Begriff zubestimmen. Ein Vieles oder Gesammtes aber durch einen unddenselbenBegriffbestimmen, heifst die Gleichartigkeit der vielen oder aller unter einem Begriffe zusammen gefaſster Dinge bestimmen.
+
+Die Dinge aber, welche unter einem Begriffe (A) zusammengefasst sind, können durch einen an dern Begriff (B) bestimmt werden. Hier muſs nun dieUrtheilskraft wiederum nothwendig bestimmen ; ob Eins unter A, unterB, ob vieles unter A, unterB, ob alles unter A , unter B stehe.
+
+[p. 168] Es entspringen durch diese Bestimmungsarten die Urtheile Ein Alist B , viele A sind B , alle A sind Bo Man kann dies auch so vorstellen : Bist ein Etwas , was Einen , was A ist; was vielen, was A ist; was allem, was A ist, zukommt.
+
+Ein Urtheil , sagt man , durch welches die Gröſse der Gültigkeit desselben unbestimmt gelassen wird , sey ein, der Gröſse nach, unbestimmtes Urtheil. Allein ein solches Urtheil, d. h., eine nicht bloſs den Be» griff denkende , sondern durch ihn bestimmende Handlung ist gar nicht möglich. Man führt als Bei. spiel an: es regnet. Dies Urtheil bestimmt aber : es ist ein Etwas und dieses eine Etwas istRegen. Diese Einzelheit wird in solchen Urtheilen nur nicht mit vorzüglicher Klarheit hergehoben , das mindeste aber, was man je urtheilen kann, ist dieses : es ist ein Fall für den Begriff, z. B. des Regens,
+
+Jedes Urtheil ist also unter der Leitung des Grö-
+
+ſsenbegriffs , nothwendig entweder ein einzelnes , oder ein besonderes , oder ein allgemeines.
+
+Das Eine Urtheil stellt Eins durch einen Begriffgedachte , das andere Urtheil stellt Vieles durch einen
+
+Begriff gedachte, das dritte Alles durch einen Begriff gedachte unter einen zweiten Begriff. Man sucht diese verschiedenen Weisen des Bestimmens auch dadurch zu erläutern; daſs man den
+
+Begriff A als einen Umkreis (eine Sphäre) vorstellt, wo nun entweder Eins in diesem Kreise oder Vieles in demselben , oder endlich der ganze Kreis (alles durch ihn begränzte) unter einen zweiten Begriff gestellt wird.
+
+<
+
+169.
+
+Kein Urtheil , das sich auf Wahrnehmung gründet , kann sich mit Allgemeingültigkeit aussprechen ; denn , um allen Dingen , die unter einen Erfahrungsbegriff (z. B. Mensch) stehen , ein Merkmal (z. B. Sterblichkeit) beizulegen, müssen wir die Allheit der unter dem Begriffe stehendenDinge erkenntniſskräftig durchgegangen , erreicht und zusammengefasst haben. Da aber unser Erfahrungsvermögen nicht so weit reicht , so erreicht auch das, auf ihn beruhende,
+
+Urtheil nicht den Werth der denkgerechten Allgemeinheit. Dennoch gelten uns Erfahrungsurtheile in sofern als allgemeine , als die Erfahrung kein Bei spiel der Ausnahme aufstellt. Urtheile , welche keine Erweiterung des
+
+Begriffs von Dingen, sondern bloſs eine Verdeutlichung desselben aussagen , sind allgemeingültig ; denn was im Begriffe liegt, das gilt auch von allen Dingen , die durch diesen Begriff bestimmt werden; z. B. alle Dreiecke sind Figuren; denn im Begriffe Dreieck wird schon das Merkmal: Figur, gedacht. Es gehört aber dieses zu dem Folgerungsvermögen der Urtheilskraft , wovon hier noch nicht gehandelt wird. Hier haben wir es bloſs mit den uranfängli chen Weisen zur Erweiterung der Erkenntniſs zu thun,
+
+}
+
+Einzelne Urtheile , sagt man , seyen in der Denklehre gleich den allgemeinen zu behandeln, denn das Merkmal gelte von dem Einzelwesen ohne Ausnahme. Allein man muſs die Weise oder Regel vor Augen haben , durch welche das Urtheil, wenn es unter dem Begriffe der Gröſse verfährt , denkgemäfs [p. 170] geleitet wird. Diese Weise besagt: von der Einheit zur Vielheit und von der Vielheit zur Allheit zu gehen und will daher, daſs die Urtheilskraft bestimmen solle: ob das Merkmal B nur von Einem , was A ist, oder von Vielen, oder von allen gelte. In diese Richtung des Urtheilens wird die Urtheilskraft durch das Denkgesetz der Umfangsbesimmung geschwungen und es istDenkgemäss (logisch) eingrofser Unterschied , durch welche von den drei Arten der Umfangs - Bestimmung , ob durch den Begriff der Einzelheit oder der Mehrheit , oder der Allheit , die Urtheilskraft bestimmt.
+
+Die Denkkraft , unter dem Begriff der Gröſse, geht , wie gesagt, auf Erweiterung der Erkenntnisse; die Frage: wie viel ? geht daher nicht bloſs auf das , was unter einem Begriffe gedacht wird (aufdie Subjeete), sondern auch auf die Begriffe , durch welche das Untere gedacht wird (auf die Prädikate); mithin ist ihre Richtung, sowohl viele Dinge durch einen Begriff, als ein Ding durch viele Begriffe zu bestimmen und so fernerweit , ein viele , alle , durch einen Begriff bestimmte, Dinge durch einen, durch viele und alle Begriffe zu bestimmen; somit also viele Dinge durch eine Eigenschaft, ein Ding durch viele Eigenschaften zu bestimmen u. s. w.
+
+B. Von der Beschaffenheits- oder ArtBestimmung des Urtheils.
+
+Indem die Urtheilskraft unter der Frage: wie beschaffen ? verfährt , wird sie gehalten durch die
+
+[p. 171] Begriffe des Etwas und Nichts, und des Etwas mit Nichts; deutlicher : durch die Begriffe der Sachheit und des Mangels, und der Sachheit mit Mangel (der Wesenheit und Nichtwesenheit, und der Nichtwesenheit des Wesenden). Unser Denken erhebt sich nicht , als allein dadurch , daſs es Etwas denkt. Mit diesem Etwas geht ihm der Begriff der Fülle , der Sachheit auf; mit diesemBegriffe geht ihm aber auch der Begriff des Nichts , der Nichtfülle , des Mangels , der Leere auf; mit diesem aber auch der
+
+Begriff der so und nicht so Bestimmtheit , d. i. der Zukömmlichkeit und Nichtzukömmlichkeit eines Etwas zu Etwas; d. i. der Begriff des Etwas mit Mangel , des Mangelhaften. Dies giebt nun drei verschiedene Arten Gegen stände zu bestimmen. 1) Der Gegenstand X ist ein. Etwas , eine Sachheit , Fülle; 2) der Gegenstand X ist ein Nichts , ein Mangel , eine Leerheit ; 3)derGegenstand X ist ein Etwas ohne Etwas , eine Sachheit mit einem Mangel ; mit einem Wort: es ist ein mangelhaftes Etwas. Dies sind aber drei verschiedene Weisen des Urtheilens , welche sich durch das bloſse Denken schon hervorthun, und jedesUrtheil mufs nothwendig durch Eine dieser drei Weisen bestimmen oder es ist gar kein Urtheil , d. i. eine denklich bestimmende Handlung. Also: Etwas seyn , Nichts seyn , Etwas ohne A seyn ; dies sind die drei Weisen, durch derenEine die Denkkraft , wenn sie sich als eine , die Beschaffenheit bestimmende , erweist , nothwendig erweisen [p. 172] muſs.
+
+Sie bestimmt also entweder erstlich: daſs der Gegenstand Etwas , oder zweitens, daſs er der bloſse Mangel eines Etwas , oder drittens , daſs er ein Etwas durch den Mangel eines Etwas Bestimmtes (ein A nicht B) ein durch Schranken bestimmter Gegenstand sey. Die Weisen dieses Bestimmens vereinigen sich also dahin: den Gegenstand , der Etwas ist , nach allen dem , was er ist und nicht ist, d. h. nach allen seinen Sachheiten (Beschaffenheiten) und Mängeln zu bestimmen .
+
+Die Handlung der Urtheilskraft , wodurch się bestimmt , daſs der Gegenstand Etwas sey, nennt man die bejahende ; die , wodurch sie bestimmt, daſs er nichts (bloſser Mangel eines Etwas) sey , nennt man die Verneinende ; diejenige endlich, wodurch sie bestimmt , daſs der Gegenstand, welcher Etwas ist, ein Etwas mit Mangel sey, nennt man die einschränkende (bemängelnde); z. B. X ist ein Mensch , X ist kein Mensch , X ist ein Mensch ohne Gesundheit. : 1
+
+Es ist aber der Gang des Urtheilens , wie er durch die Begriffe des Etwas (Sachheit ) und des Nichts ( Leerheit) und des Mangelhaften vorgezeichnet ist , genau ins Auge zu fassen. Dieser Gang ist hier : der Gegenstand ist ein Etwas (eine Sachheit); er ein Nicht - Etwas (der bloſse Mangel eines Etwas ) ; er ist ein Etwas ohne A (ein Etwas , dem die Bestimmung, A zu seyn , abgeht); er ist ein Etwas A ohne B (ein A Ding, dem die Bestimmung, B zu seyn, abgeht u. s. w.).
+
+[p. 173] Die Weisen dieses Bestimmens vereinigen sich also dahin: Gegenstände , wovon ich geurtheilt habe, daſs sie Etwas , kein bloſser Mangel eines Etwas sind, durch alle mögliche Sachheiten zusprechend (bejahlich ) oder absprechend ( verneinlich ) zu bestimmen.
+
+Die urtheilende Handlung unter diesen Weisen bestimmt die Unterscheidung der Dinge. Dieses verrichtet sie dadurch , daſs sie jedem Gegenstande, wovon sie urtheilt , daſs er ein durch Merkmale bestimmbares Etwas sey , nach allen seinen Wesenheiten und Unwesenheiten, und somit die Unterschiede der Dinge von Dingen bestimmt. In wie weit sie dem Gegenstande Wesenheiten beilegt , erweitert sie die Erkenntniſs , in wie weit sie ihm Merkmale abspricht , beschränkt sie die Erkenntniſs desselben. Durch den Fortgang unter diesen Weisen des Bestimmens gelangt sie zu einer , jeden Gegenstand nach allem seinen Etwas und Nichts (nach allen seinen
+
+Sachheiten und Mängeln) bestimmendenErkenntnifs. Ein Urtheil , welches das Wiebeschaffen zu bestimmen , unterlässt , nennt man ein, der Beschaffenheit nach, unbestimmtes Urtheil (judi cium quod ad qualitatem indefinitum). Das Urtheilen ist aber die Handlung nicht des bloſsen Denkens eines Begriffs , sondern des Bestimmens durch einen Begriff; ein Urtheil nun, wodurch bestimmt werden sollte, daſs der Gegenstand weder Etwas noch nichts , weder etwas mit A, noch etwas ohne A wäre, ist gar kein mögliches Urtheil ; denn durch [p. 174] eine dieser drei Weisen muſs ich nothwendig urtheilen, wenn ich urtheile ; oder ich urtheile gar nicht. Wohl gegründet sind aber die unendlichen
+
+Urtheile (judicia infinita ). Sie sind aber schon in der Frage : wie beschaffen ? selbst ausgedrückt, Denn der Geist , welcher in dieser Weise des Urtheilens lebt , ist eben der: daſs sowohl die bejahliche als verneinliche Bestimmung bis zur völligen Erschöp1.
+
+fung dessen , was einem Gegenstande zu - oder abgesprochen werden kann, getrieben werden solle. Wenn ich geurtheilt habe , 1) die Seele ist sterblich , 2) sie ist nicht sterblich : so bleibt 3) die Frage: was ist sie fernerweit ? was nicht? Der Begriff: ‫نور‬ wie beschaffen ? schwingt also die Urtheilskraft ins Unendliche der Wesenheits- und Unwesenheits- Bestimmung derGegenstände, und das liegt in der Weise des Urtheilens , A ist ein ( Nicht B) , d. h. ein nicht durch B bestimmtes A ist ein durch alle Wesenheiten bejahlich und verneinlich zu bestimmendes Ding. Diese Weisung und Weise des Urtheilens ist es , welche in der Denklehre als solcher hervorgehoben und zur Klarheit desBewusstseyns gebracht werden muſs. Sowohl die Art, bejahlich , als die , verneinlich zu bestimmen , ist von groſser Bedeutung. Es geht uns für viele Dinge , die wir denken , das Vermögen ab , das: Wie und Wie nicht beschaffen? zu bestimmen. Wir können nicht bestimmen , was das erste Etwas , was allem , was ein Ding ist, zum Grunde liegt , seyn möge; aber wir bestimmen doch durch Verneinlichkeit , daſs es ein Etwas sey , was nicht bloſse Bestimmung sey. Wir können keine [p. 175] der Bestimmungen, die uns durch Beschaulichkeit von den Gegenständen dargeboten werden , auf Gott anwenden, aber wir bestimmen doch, daſs sie nicht auf ihn angewandt werden können und somit halten wir den Irrthum von unserm Urtheile ab
+
+Wären es nun nicht Weisen des Denkens , Wesenheit und Unwesenheit , und Unwesenheit des Wesenden zu denken, so könnte es auch keine durch diese Arten des Denkens bestimmende Urtheile geben. Es ist aber klar , daſs diese Urtheilsweisen , eben so wie die durch die Begriffe der Wievielheit , ganz uns abhängig von dem durch die Beschauung gegebenen, bestehen , und als bloſse Denkarten ihren Ursprung, Sitz und ihre Bedeutsamkeit allein in der Denkkraft haben. Gegenstände durch Begriffe bestimmen, das ist die Handlung jedes Urtheils ; aber sie durch die
+
+Begriffe der Wesenheit und Unwesenheit, und der der Unwesenheit des Wesenden zu bestimmen , das ist die Handlung des , die Wiebeschaffenheit bee stimmenden , Urtheils. Man nennt die Art , welche die Urtheile unter obigen Weisen gewinnen , auch, freilich sehr unbestimmt , die Beschaffenheit (qualitas) der Urtheile; denn daſs ein Urtheil unter dem Begriffe der Wievielheit gefällt wird, ist ja auch eine Beschaffenheit desselben.
+
+Es ist aber eine besondere Beschaffenheit der Urtheile , durch die Begriffe der Sachheit , des Mangels und des Mangelhaften zu bestimmen.
+
+Durch den Verein der Urtheilshandlung unter den beiden Weisen der Wievielheit und der Wiebeschaffenheit [p. 176] entspringen nun die einzeln , besonders und allgemein bejahenden, verneinenden und einschränkenden Urtheile. Wie kommt man aber in der reinen Denklehre dazu , unter jeder der Ansichten, nach welchen wir die Urtheilsarten angeben , drei und nicht zwei anzugeben , da man doch so allgemein behauptet, jede durchs reine Denken gemachte Eintheilung könne nur zweigliedrig seyn ? dieses ist aber im Denken selbst gegründet. Die Denkkraft eröffnet sich selbst durch diese Weisen:
+
+Entweder Etwas oder
+
+Nichts; das Etwas entweder so oder nicht so bestimmt : Entweder Eins oder Vieles , das Viele entweder gesammt (in ein Ganzes gefaſst) oder nicht. Dieses Verfahren zur Erweiterung der Erkenntniſs führt die Denkthätigkeit durch sich selbst ein.
+
+Es ist aber hier gar nicht die Rede von dem
+
+Satze des Widerspruchs: daſs ich, was ich als A, nicht als Nicht A, und, was ich als Nicht A, nicht als
+
+A denken könne; sondern von dem Schwunge , welchen die Denkkraft durch sich selbst zur Erzeugung und Erweiterung der Erkenntniſs nimmt, und dieser Schwung liegt klar und vernehmlich in der Urtheilsweise: jede Gegend istDentweder ein A oder ein Nicht A. Wie aber der Verstand dazu komme, sich durch die Begriffe der Wievielheit und Wiebeschaffenheit zu erweisen? ist eben so viel gefragt, als wie der Verstand dazu komme, ein Verstand zu seyn? Wir können nur darauf merken , wie er sich erweist, wenn [p. 177] wenn er sich erweist und so seine Weisen zur abgesonderten Klarheit des Bewuſstseyns erheben. Daſs wir uns also in unserm Urtheilen nicht widersprechen sollen , ist allerdings eine wohl zu beachtende Weisung unsers Denkens; aber nicht minder beachtungswerth sind die Weisungen unsers Denkens zur Erzeugung der Erkenntniſs , und diese liegen eben so unverkennbar vor Augen , als jene. Die Richtung und der Schwung , welchen das Denken durch sich selbst zur Erzeugung und Erweiterung des Erkennens nimmt , ehr und bevor, als es zur Auflösung (nach dem Satze des
+
+Widerspruchs) kommen kann; dieser Schwung ist es, welcher hier in Betrachtung kommt.
+
+In diesem
+
+Schwunge schwingt sich aber das Denken durch die Begriffe der Einheit, Vielheit und Allheit ; durch die Begriffe der Sachheit des Mangels und des Mangelhaften; und daſs er sich so schwinge, dies kann eben so wenig durch Spitzfindigkeiten wegvernünftelt werden , als es weiter ergründet werden kann, warum dieDenkkraft gerade an solche und keine andere Weisen des Urtheilens gebunden sey. C. Von der Verhältniss - Bestimmung des Urtheilens.
+
+ist verhältnifsbe-
+
+Jede Urtheilshandlung stimmend , denn sie bestimmt das Untere (Subjekt) durch Etwas Oberes (Prädikat). Diese Verbindung kann nun unbedingt oder nicht unbedingt gesetzt werden. Die Urtheils:
+
+[p. 178] kraft unter diesen Begriffen der Unbedingt- und Nichtunbedingtheit ist daher entweder eine unbedingt oder bedingt bestimmende.
+
+Unter dem Begriffe der Unbedingtheit urtheilt sie ohne ein Wenn - So , unter dem Begriffe der Bedingtheit aber unter und durch ein Wenn So. Etwas ist , ist nicht; Etwas, was ist, ist A , ist nicht A; etwas, was A ist , ist B; ist nicht Du, s. w.
+
+Diese Art zu urtheilen ist diejenige , welche man die kategorische nennt; bestimmter wird sie die Art, unbedingt zu urtheilen , genannt werden.
+
+Sie stellt ihre Bestimmung auf keine Bedingung , auf kein Wenn
+
+So.
+
+Für die Beurtheilung und Erkenntniſs der Dinge eröffnet diese Weise des Urtheilens wichtige Aussichten und Ansichten. Die Vernunft z. B. spricht ein Gesetz für die Freiheit des Willens aus; sie sagt: du sollst die Wahrheit reden ; du sollst kein Unrecht thun. Die Urtheilskraft , unter dem Begriffe der Unbedingtheit und Bedingtheit , wird geschwungen, zu bestimmen , wie giebt die Vernunft ihr Gesetz ? wie spricht sie ihre Gebote oder Verbote aus ? unbedingt? oder durch ein Wenn ? Da giebt sich die Vernunft zu erkennen; ich gebe das Gesetz , ich gebiete und verbiete; ich gebiete, und verbiete solches und solches nicht ; unbedingt (volo , nolo; sic volo, sic nolo); bei mir gilt kein Wenn. So benimmt sich die Urtheilskraft nun auch in der Erkenntniſsbestimmung für alle Gegenstände der
+
+Gewahrung : Etwas ist, ist Nicht; ist A, ist nicht A.
+
+[p. 179] Es ist genug, daſs es gewahrt; daſs so gewahrt sey u. s. w. Die nichtunbedingten Urtheile aber stellen ihr Urtheil auf ein Wenn So. Etwas ist, wenn Etwas Anderes ist ; wenn Etwas ist , so ist etwas Anderes; Etwas ist nicht , wenn etwas Anderes ist; wenn Etwas ist , so ist ein anderes Etwas nicht.
+
+Diese Art zu urtheilen nennt man die hypothetische ; sie ist überhaupt die Art , Urtheile und Erkenntnisse zu bedingen, X ist A , wenn esB ist ; wenn X B ist , so ist es A. Wenn X ist B , so ist es nicht A ; wenn X ist A , so ist es nicht B. Wenn X ist , so ist Y , wenn Y nicht ist, so ist X nicht
+
+Diese Bedingtheit oder Abhängigkeit der Dinge von einander in ihrem Daseyn und Daseynsbestimmungen kann nun entweder bloſs einseitig oder auch gegenseitig seyn. Das Urtheil unter dem Begriffe des gegenseitigen Wenn = So bewegt sich in folgender Weise: Wenn A ist, so ist B, wenn Bist , so ist A.
+
+Dies ist die Weise , den Einklang des Daseyenden zu bestimmen. Wenn A ist, so ist B nicht , wenn Bist , so ist A nicht.
+
+Dies ist die Weise , den Miſslaut , Widerstreit, die
+
+Entgegensetzung (oppositio) zu bestimmen. Es ergeben sich also aus dem bisher Erörterten wiederum drei verschiedene Weisen des Urtheilens ; die nichtbedingende , die einseitig bedingende , die gegenseitig bedingende.
+
+Die Art , wechselseitig zu bestimmen , nennt man das disjunctive Urtheilen und giebt dazu 12 * den Ausdruck des Entweder
+
+Oder.
+
+Bestimmter wird man die Bedeutung , welche die Denkkraft hier giebt , auffassen und hervorheben , wenn man bemerkt , daſs ihre Richtung des Bestimmens hier sey, wechselseitig bedingt zu bestimmen. Wir haben aber, indem wir diese drei verschiedenen Weisen des Urtheilens erörtern , auch ebenfalls noch gar nicht mit dem Entwickelungsvermögen des Denkens (nach dem Satze des Widerspruchs) , sondern mit dem Erzeugungs- und Erweiterungsvermögen desselben zurErkenntniſs zu thun; also wiederum mit der Richtung und dem Schwunge , welchen das Denken ursprünglich durch ursprünglich in ihm gewurzelte Begriffe (Weisen , Regeln) nimmt , um Gegebenes zu verbinden und zu verketten; denn ich mag nun unbedingt oder bedingt und bedingt wiederum einseitig oder gegenseitig urtheilen: so ist jede Art zu urtheilen eine Verbindung; aber jede Art des Verbindens ist verschieden; die erste ist nicht die zweite , die zweite nicht die dritte.
+
+Heben wir nun jede Art besonders hervor und fassensie mit scharfer Einsicht in ihrer Wesenheit auf, so finden wir, daſs die Urtheilskraft durch jede derselbengeschwungen , aber durch jede derselben auf eine eigenthümliche Art geschwungen werde. Es ist eine ganz andere Richtung in demUrtheile: Etwas ist, ist nicht , ist A , ist nicht A u. s. w. , als in dem Urtheile: Etwas ist , wenn Etwas anderes ist , ist nicht, wenn Etwas anderes ist; und wiederum ist eine ganz andere Richtung in dem Urtheile : A ist, wenn B ist, [p. 181] und Bist , wenn A ist , d. h. A und B bedingen einander wechselseitig. Daſs aber nun diese Arten des Urtheilens Begriffe und zwar Verbindungsbegriffe sind, und daſs die Urtheilskraft in der Handlung des Bestimmens gehalten sey , durch diese Begriffe zu bestimmen , mithin entweder die Unbedingtheit oder die Bedingtheit , und diese wiederum als eine einseitige oder gegenseitigeBedingtheit zu bestimmen; das ist es, was hier aus den Wesen des Denkens und des Urtheilens zur Klarheit gebracht werden soll.
+
+Wollen wir nun auch hier fragen: wie geht das zu , daſs wir unbedingt oder bedingt, und bedingt wiederum einseitig oder wechselseitig bedingt urtheitheilen? so hat diese Frage keine beantwortli che Bedeutung mehr; denn durch die Hervorhebung dieser Weisen befinden wir uns in dem Ursprünglichen des Denkens selbst, und werden inne, daſs diese Frage eben diejenige ist , welche in dem Begriffe der Bedingtheit gedacht und eben diejenige ist, wo durch hier unsere Urtheilskraft in Bestimmung der
+
+Verbindung der Gegenstände gerichtet wird. Man kann sich dessen , daſs das Denken sich ursprünglich in diesen Weisen erweise , nur mit Klarheit bewuſst werden , und somit sich durch Verstand über das Wesen des Verstandes verständigen ; an eine weitere Ableitung ist nicht da zu denken,wo man sich in dem Ursprünglichen des Denkens selbst befindet. Daſs sich aber auch hier wieder drei Verbindungsregeln und nicht zwei hervorthun , ist eben so klar: 1) A ist , ist nicht , 2) A ist , wenn Bist, A [p. 182] ist nicht , wenn Bist ; 3) A ist , wenn Bist , Bist, wenn A ist , d.h. , sowohl A ist , wenn B , als B, wenn A ist. A ist nicht , wenn Bist ; B ist nicht, wenn A ist , d. h. , sowohl A ist nicht , wenn B ist, als B nicht ist , wenn A ist. Im ersten Fall waltet der Begriff der Unbedingtheit , im zweiten der Begriff der einseitigen Bedingtheit, es sey bejahlich oder verneinlich; im dritten Fall der Begriff der wechselseitigen Bedingtheit , es sey bejahlich , d. i., durch Einstimmung , oder verneinlich , d. i. , durch Widerstreit. Weiter ist hier im Allgemeinen nichts zu bemerken , denn unter diesen Weisen halten sich nun alle weitere Zusammensetzungen. Wer giebt nun diese Weisen? Die Denkkraft allein und allein aus sich selbst : dies ist es, was die Denklehre zu bemerken hat.
+
+Wollte die Denklehre nun Eine dieser Weisen unbemerkt lassen , etwa die ' / dritte, so würde sie sagen: die Denkkraft erwiese sich wohl als eine unbedingt und bedingt urtheilende, aber nur als eine einseitig bedingt , nicht als eine wechselseitig bedingt urtheilende. Dies hieſse denn so viel als : sie erweiterte sich nicht durch sich selbst zum Begriffe; daſs , wie A durch B , so auch B durch A bedingt seyn könne. Wer nun vorgabe, er finde diese Weisen zu urtheilen , nicht im Gange seines Denkens , würde damit nichts weiter sagen , als es entginge ihm im Rückgange zu dem Ursprünglichen und Anfänglichen (Principien) des Denkens , die Schärfe , dieses Anfängliche abgesondert zur Klarheit des Bewuſstseyns zu bringen , während er doch, [p. 183] wenn er urtheilt, stets durch Eine dieser Weisen urtheilt und urtheilen. muſs.
+
+Denn wenn er urtheilt, so kann er doch nur entweder unbedingt oder bedingt urtheilen und, wenn er bedingt urtheilt, so kann er nur entweder einseitig oder wechselseitig bedingt urtheilen, wollte er in keiner dieser Arten urtheilen, so müſste er alles Urtheilen selbst aufgeben. Es ist aber wohl zu merken , daſs jede dieser , durch die Denkkraft selbst gegebene , Urtheilsart verschieden sey und keine auf die andere zurückgeführt werden könne. Man kann daher nicht sagen: daſs unbedingte (kategorische) Urtheile sich in der Weise bedingter Urtheile vorstellen lassen; z. B. das Urtheil : alle Menschen sind sterblich; denn dieses Urtheil stellt die
+
+Allheit dessen , was Mensch ist, unbedingt unter den Begriff der Sterblichkeit; daſs nun, wenn ein Ding Mensch ist, ihm die Sterblichkeit beigelegt werden müsse, ist ein aus dem vorigen, durch bloſse Verdeutlichung dieses Urtheils, gezogener Satz ; dies ist aber nicht die ursprüngliche Bedeutung des Begriffs der Bedingtheit , als einer Regel , die Wesenheit eines Etwas als bedungen durch die Wesenheit eines andern Etwas zu denken , mithin das Obwalten dieses Verhältnisses zu bestimmen. Das unbedingte Urtheil hat seine Gesetze; das einseitig und wechselseitig bedingte auch; auf dieses Gesetz (diese Weise, diese Form) kommt es hier an Aber eben die Begriffe der Unbedingtheit, der einseitigen und wechselseitigen Bedingtheit, sind diese Gesetze , und was sie nun bedeuten , das ist eben zu entnehmen , und somit sich mit dem , in ihnen gegebenen , Schwunge [p. 184] des Urtheilens zu verständigen.
+
+Die Urtheilshandlung aber unter diesen Gesetzen geht aller bloſs ver- deutlichenden Denkhandlung voran und die unter diesen Regeln ursprünglich zusammensetzende und verbindende Urtheilshandlung macht alle Zersetzung und Auflösung erst möglich.
+
+Fassen wir die Gröſsenbestimmung und die Sachheitsbestimmung mit der Verhältniſsbestimmung zusammen, so ergeben sich hieraus für die unbedingten Urtheile folgende mögliche Bestimmungsarten: das unbedingte Urtheil kann seyn entweder ein einzeln, oder ein besonderes, oder ein allgemeines; entweder ein bejahendes , oder ein verneinendes, oder einschränkendes.
+
+Das Gesetz für sie alle aber ist: die Gültigkeit derselben auf keine Bedingung (kein Wenn) zu stellen. Etwas ist , ist nicht , ist so, nicht so; daher auf die Frage: wenn und warum? auch nur der Bescheid erfolgt: hier finde keine Bedingung Statt : es ist , weil es ist , ist so , weil es so ist; ist nicht, weil es nicht ist , ist nicht so , weil es nicht so ist.
+
+Diese Art , nicht bedingend zu urtheilen , liegt allen bedingenden Urtheilen zum Grunde und macht diese erst möglich. In unserm Urtheilen könnte kein Wenn = So vorkommen , wenn nicht der
+
+Begriff des Seyns und Nichtseyns , des solA ches und nichtsolches Seyn schon obwaltete ; waltete,aber der Begriff des Wenn So nicht ob, so konnte dann auch nicht der Begriff des einseitigen und gegenseitigen Wenn So obwalten ; d. h. , wir würden weder sich einseitig noch wechsel: seitig bedingende Urtheile fällen können. Die Regel des unbedingten Urtheils ist nicht die se: kein Gegenstand kann unter Begriffe gestellt werden , von welchen Einer den andern aufhebt;
+
+denn dies ist bloß die Regel der Entwickelung eines schon als unbedingt ausgesprochenen Urtheils. Der Begriff des Unbedingten ist aber selbst die Regel, und daſs er die Regel des Urtheilens sey, das ist es eben, was wir hier zu denken haben. Wir können uns dies nur noch dadurch verständlichen , daſs wir uns hervorheben: es sey der Fortgang in Bestimmung des Seyns und Nichtseyns, des So und nicht so Seyns ohne ein Wenn - So.
+
+Die Urtheile : X ist ; X ist Mensch; was Mensch ist, ist sterblich u. s. w. , dies sind unbedingte Urtheile. Mit dieser Art , Gegenstände durch Begriffe zu bestimmen , würde unser Urtheilen seineEndschaft erreicht haben , wenn nicht noch eine neue Art: die durch Wenn = So zu bestimmen , durch unser Denken selbst aufträte.
+
+Das unbedingte Seyn und Nichtseyn, das unbedingte Etwas und Nichts - Seyn , das unbedingte So und nicht so Seyn; also der Begriff des Unbedingten , der ist hier die stehende Regel zur Erzeugung und Erweiterung der Erkenntniſs. Durch diese Regel des Urtheilens geht uns der Begriff dessen auf, was seyn muſs , ehr und bevor von einem Wenn = So nur der
+
+Gedanke und die Rede seyn kann. Welche groſse Bedeutung nun auch in dem Begriffe des Unbedingten liegt: so eröffnet sich doch nicht minder eine groſse
+
+[p. 186] Bedeutsamkeit im Begriffe des Bedingten. Unter der Leitung und Gegeneinanderhaltung dieser Begriffe gehen uns die Begriffe auf: dessen, was nicht darum ist , weil noch Etwas Anderes ist , das ist der Begriff des ursprünglich Daseyenden , d.i. , desjenigen Seyns , auf welchem alles beruht , was nur je als hinzukommende Bestimmung gedacht werden kann ; das ist ein Etwas,wozu derBegriff lediglich durchs Denken gegeben wird. Man nennt dieses Etwas , obwohl nicht erschöpfend , die Substanz (das Unterstehende) ; eigentlich ist es der Begriff desjenigen Unterstehenden, dessen Daseyn unter keinem andern Daseyn besteht; ein Etwas, wozu uns die Gewahrung gar kein in aller Absicht zureichendes Beispiel darstellt , was also nur gedacht und nicht erschaut werden kann.
+
+Die Regel des bedingten Urtheils ist der Begriff des Bedingten selbst , und indem das Urtheil sich durch ihn bewegt, bestimmt es entweder einseitig, daſs das Eine der zureichende Grund, das Andere aber die unumgängliche Bedingung sey; oder gegenseitig, dafs Beide einander in diesem Verhältnisse wechselseitig bestimmen. Das in den Lehrbüchern aufgeführte disjunctive Urtheil unter dem Begriffe des Entweder - Oder, erreicht den Begriff der gegenseitigen Bedingtheit nur unbestimmt und kärglich. Es handelt sich unter dem Begriffe der gegenseitigen Bedingtheit nicht darum , daſs etwas nur entweder seyn oder nicht seyn, nur entweder A oder nicht A seyn könne , sondern um den fruchtbaren Begriff der wech [p. 187] selseitigen Abhängigkeit der Dinge in Ansehung ihres Daseyns und ihrer Bestimmungen. Unter diesen Begriffen stellt sich die Urtheilskraft vor dem Inbegriff alles Daseyenden , und verkettet es nach seinen einseitigen und wechselseitigen Abhängigkeiten, nach seinen Einstimmungen und Widerwärtigkeiten , so wohl im Innern der Dinge selbst ; denn auch im Innern der Dinge kann es geben und gibt es Einklang und Miſslant ; als im äußern Verhältnisse der Dinge zu Dingen , wie sie zu einander durch Förderung zu sammen stimmen oder durch Aufhebung wider einander tosen.
+
+Das liegt in dem Wenn = So und da hin schwingt es dieUrtheilskraft in ihrer Bestimmung der Dinge Zur Verhältniſsbestimmung gehören auch noch die Begriffe des Möglichen , Wirklichen und
+
+Nothwendigen.
+
+Die Urtheilskraft ist unter ihrer Leitung entweder eine , die Möglichkeit des Seyns , oder eine die Wirklichkeit des Seyns , oder eine die Nothwendigkeit des Seyns bestimmende. Es ist alle Mühe verloren , noch ergründen zu wollen, warum dieUrtheilskraft gebunden sey, wenn sie urtheilt , nothwendig durch Einen dieser Begriffe zu urtheilen. Wir können zur Erläuterung nur bemerken , daſs diese drei Arten zu urtheilen nur bei denkenden Wesen Statt haben , deren Denkkraft nicht zugleich eine Anschauungskraft ist. Wäre dies, so wärde es mit der Einen Art, dem blofsen Seyn genug seyn und die drei Gestaltungen dieses Einen, [p. 188] als eines möglichen , wirklichen oder nothwendigen
+
+Seyns , würde in dem Urtheile gar nicht vorkommen. Da aber die Denkkraft keine , die Dinge selbst erschauende ist , so tritt sie mit ihren , bereits erörtertenBegriffen der Umfangs- , der Sachheits- und Verhältnifsbestimmung gewaffnet , zu dem Anschauungsvermögen , einem Vermögen , das ein Vermögen des selben Wesens ist, dessen Vermögen auch die Denkkraft ist. Und sa frägt sie ; ist das, was ich denke, im Verhältniſs zum Anschauungsvermögen , ein möglicher oder nicht möglicher, ein gewahrter oder nicht gewahrter; ein nothwendiger oder nicht nothwendiger Gegenstand? die Urtheilskraft unter diesen Begriffen ist daher , wenn sie bestimmt , gehalten, nothwendig durchEinen dieser drei Begriffe zu bestimmen. Indem sie aber einem gedachten Gegenstande Eins von diesen Merkmalen beilegt, so bestimmt sie dadurch nichts an dem Gegenstande an sich selbst, weder in Ansehung seiner Grösse , noch in Ansehung seiner Beschaffenheit , noch in Ansehung seines Verhältnisses zu andern Gegenständen; sondern sie bestimmt bloſs das Verhältnifs seines Seyns zum
+
+Vermögen des Erkennens und der Bewahrheitung desselben.
+
+Hier ist nun wiederum ein Fortgang im Urtheilen. Das Urtheil bestimmt erstlich , ob der Gegenstandbloſs möglich sey; zweitens , ob er nicht bloſs möglich , sondern da sey; drittens , ob er nicht bloſs da sey, sondern sein Daseyn , falls es auch nicht gewahrt würde , doch aus irgend einem Daseyn gefolgert werde.
+
+[p. 189] Die Urtheilskraft ist also hier allerdings eine bestimmende ; denn sie bestimmt unausbleiblich durch Einen oder den Andern dieser Begriffe , aber ihre Bestimmung geht nicht auf die Erweiterung der Erkenntniſs vom Gegenstande , sondern auf die
+
+Bestimmung des Verhältnisses desselben zum Erkenntniſsvermögen des erkennenden Wesens. Die Urtheilshandlung ist also an diese Begriffe und das Verfahren unter denselben gebunden.
+
+Es ist aber wohl zu merken , daſs diese Gebundenheit nicht bloſs im Verhältniſs zu unserm , sondern zu jedem Anschauungsvermögen Statt habe , es mag so , wie das unsrige oder nicht so geartet seyn. So weit es Wesen giebt , deren Denkkraft nur nicht eine auch selbsterschauende , deren Erschauungsvermögen nur nicht auch ein selbstdenkendes ist , so weit befindet sich die Urtheilskraft auch unter diesen Weisen des
+
+Urtheilens. Es lässt sich denken, daſs es Wesen gebe, in welchen das Denken und Schauen nicht zwei verschiedene Vermögen sind , so daſs in ihnen kein Denken ohne Schauen und kein Schauen ohne Denken Statt haben kann.
+
+In diesen würde dann kein Urtheilen unter den Begriff des Möglichen , Wirklichen und Nothwendigen, sondern bloſs des Seyns Statt haben. Dafs sich aber unsre Urtheilskraft unter diesen
+
+Weisen befindet , ist zugleich auch eine groſswichtige Ausstattung derselben. Denn da sie nun einmalnicht selbstschauend ist, so würde es kärglich um unsre Erkenntniſs stehen, wenn diese bloſs auf die Gewahrung , bloſs auf das Wirkliche, wenn also unser
+
+[p. 190] Urtheil mit seinem Ist bloſs auf die Gewahrung des
+
+Seyns beschränkt wäre; so aber gesellt sich zu diesen Ist durch Wirklichkeit noch der Begriff der Möglichkeit und Nothwendigkeit; hiermit nimmt aber unsere Urtheilskraft den Schwung ins Mögliche und Nothwendige und dadurch erhebt sie sich zu einer die Wahrheit bemöglichenden und zu einer die Möglichkeiten bewahrheitenden Denkung. Es ist dies ein herrlicher Ersatz für den Abgang einer selbstschauenden Denkkraft. Wenn nun die Urtheilskraft Gegenstände durch die Begriffe der Möglichkeit , Wirklichkeit und Nothwendigkeit bestimmt , so urtheilt sie allerdings und bestimmt die Gegenstände eben durch diese Begriffe, als Merkmale derselben , aber sie erweitert dadurch nicht die Erkenntniſs von den Gegenständen selbst, sondern bestimmt nur das Verhalten des Erkenntniſsvermögens zu dem gedachten Gegenstande und trägt Einen von den Dreien dieses Verhältniſs bestimmenden Begriffen auf den Gegenstand über.
+
+Dadurch eignet sie ihm nun entweder Möglichkeit oder Wirklichkeit oder Nothwendigkeit zu , wohlwissend , dafs das, was der Gegenstand an sich selbst sey , dadurch weder erweitert noch verringert werde. Durch diese Verhältniſsbegriffe wird also der
+
+Urtheilende gänzlich auf sich selbst und sein Vermögen zu urtheilen zurückgeschwungen und dahin ge1 führt, sein Urtheilsvermögen und seineUrtheile selbst zu beurtheilen.
+
+Die Begriffe der Möglichkeit , Wirklichkeit und Nothwendigkeit sind aber von groſser Bedeutsamkeit [p. 191] für denUrtheiler; dennsie allein treiben die Fragen hervor: ists möglich odernicht ? ists wirklich oder nicht ? ists nothwendig oder nicht ? dadurch aber treiben sie den Urtheiler an , sein Ist , welches auf Wahrheit geht, unter diesen drei Regeln zu bewegen und dadurch über seine Urtheile sein eigner Richterzu werden. Für die drei verschiedenen Arten der Urtheile, welche unter der Leitung dieser Begriffe gefällt werden, hat man folgende Benennungen gewählt. Man nennt das Urtheil , welches die bloſse Möglichkeit der Wahrheit ausspricht , ein problematisches ; dasjenige , welches die Wahrheit desselben ausspricht , ein assertorisches; dasjenige endlich, welches nicht bloſs die Wahrheit , sondern die Nothwendigkeit der Wahrheit eines Urtheils (die Unmöglichkeit , daſs es unwahr seyn könne) ausspricht, ein apodiktisches. Die Begriffe, unter welchen hier die Urtheilskraft verfährt , gehören der ganzen denkenden Welt , mithin auch allen Völkern an, und, da kein Volk auch nur urtheilen kann , ohne unter diesen Begriffen zu urtheilen , so finden sich auch in allen Sprachen die Zeichen für diese Urtheilsarten. Diese Ausdrücke sind : wahr seyn können, wahr seyn , wahr seyn müssen. Hiernach ist die Urtheilshandlung entweder eine , die Wahrheit bloſs bemöglichende , oder dieselbe behauptende oder erzwingende, mithin das durch diese Handlungen erzeugte Urtheil im Verhältniſs zur Wahrheit entweder ein bemöglichtes , oder behauptetes oder erzwungenes.
+
+[p. 192] Vermöge dieser Weisen des Urtheilens werden nun auch diese Weisen als Merkmale gedacht und dem Gegenstande selbst beigelegt, und es wird somit geurtheilt er sey ein möglicher, wirklicher oder nothwendiger Gegenstand. Ein Urtheil heisst ein einfaches , wenn es sich nicht in mehrere Urtheile auflösen läſst; es heifst ein zusammengesetztes, wennes sich in mehrere von einander unterscheidbare und von einander unabhängige Urtheile auflösen läfst. Das unbedingte Urtheil: X ist A , ist ein einfaches Urtheil; die unbedingten Urtheile aber : Xund Y sind A , oder: X ist A und B, oder: X ist weder A noch B , sind zusammengesetzt.
+
+Das bedingte Urtheil: wenn A ist , so ist B , ist ein einfaches; die Urtheile aber: wenn A oder B ist, so ist C; wenn A ist , so ist B und C, sind zusammengesetzt.
+
+Die Zusammengesetztheit der Urtheile liegt öfters nicht klar vor und bedarf daher einer Auflösung.
+
+Dahin gehörendie Ausnahme - Sätze , z. B. nur Gott ist allwissend; die Ausschlieſsungssätze , z. B. dieser Mensch stiehlt nur nicht; die Ein- ( schränkungssätze , z. B. nur, wenn du Wort hältst, kannst du Glauben verdienen ; die Vergleichungssätze , z. B. dieser Mensch hat mehr Glück als Verstand ; die wiederholende Sätze, z. B.
+
+dem Könige als König darf kein Unterthan widerspänstig seyn. Von
+
+[p. 193] Von dem Folgerungsvermögen der Urtheilskraft.
+
+Im vorhergehenden wurden die in derDenkkraft selbst gewurzelten Begriffe zur Erzeugung und Erweiterung der Erkenntniſs in Betrachtung gezogen, die unter ihnen und durch sie verfahrende Urtheilskraft war daher nothwendig auf Bestimmung der Gröfse , Beschaffenheit und des Verhältnisses , überhaupt auf Bestimmung des Inhalts der Gegenstände gerichtet. Diese Handlung des Denkens ist die ursprüngliche und geht aller Nacharbeit durch Entwickelung , Verdeutlichung und Folgerung voran, Denn wie wäre an Entwickelung und Folgerung zu denken, wenn nicht das Denkgeschäft der Setzung , Zusammensetzung und Verbindung voran gegangen wäre ?: DiesesDenkgeschäft der Zusammensetzung, wie nothwendig es auch voran geht , und von jedem Denker von Jugend auf verrichtet wird, hüllt sich aber in seinem Fortgange öfters so ins Dunkle, daſs es dem Nachdenken schwer wird , die ursprünglichen Ur theils- Handlungen zur Klarheit zu bringen und sich so, wie es zu dem Urtheile gekommen sey, und was in ihm liege , lebendige Rechenschaft zu geben. Der sonders hält dies schwer in Ansehung derjenigen Begriffe , welche die Denkkraft aus sich selbst entbietet und wodurch sie selbst die Quelle zu einem Inhalte der Erkenntniſs wird. Daher war es Angelegenheit der Denklehre , diesen durchs Denken selbst gebor nen und selbst gegebenen Inhalt hervorziehen und dieses geschah dadurch , daſs gezeigt wurde: die Weisen des Denkens und Urtheilens seyen selbst auch Inhalt [p. 194] und Stoff und treten als solche unausbleiblich in der
+
+Handlung des Urtheilens auf. Jetzt nun , da es zum Nachdenken über das
+
+Vorgedachte , zum Urtheilen über das Geurtheilte, zur Zersetzung des Zusammengesetzten , zur Auflösung des Verbundenenkommen soll , erhebt sich die Frage: welchen Regeln unterliegt die Urtheilskraft in ihrem Zersetzungs- und
+
+Auflösungsgeschäfte? Wie muſs sich das zersetzende und auflösende Urtheil , zu dem zusammensetzenden und verbindenden Urtheil , wie das Nachurtheil zu dem ursprünglichen Urtheile verhalten, wenn es auf Wahrheit Anspruch machen will ? Hier tritt nun die Regel auf: kein Urtheil darf dem andern widersprechen. Dies ist die Regel aller Zersetzungs- und Auflösungsurtheile. Diese , unter dem Namen des Satzes des Widerspruchs (principium contradictionis) aufgeführte Regel sagt weiter nichts, als daſs die Urtheilshandlung , was sie als wahr gesetzt hat , nicht als unwahr und was sie als unwahr gesetzt hat , nicht als wahr, setzen könne. Was als A gedacht und bestimmt worden, kann nicht als Nicht A gedacht und bestimmt werden.
+
+Man kann diesen Satz auch so ausdrücken :
+
+jedes Auflösungsurtheil muſs zu dem Urtheile , welches es auflöst, zusammen stimmen. Urtheile nun, wie diese: A, welches ist, ist nicht; ein Etwas, was A ist, ist nicht A; sind einander widersprechende Urtheile.
+
+Die Regel , daſs sich Urtheile nicht widersprechen dürfen , ist nur die unumgängliche Bedingung [p. 195] der Wahrheit ; das heiſst: kein Urtheil kann Anspruch auf Wahrheit machen, was einen Widerspruch in sich führt ; aber die bloſse Befreiung vom Widerspruch giebt keine Erweiterung der Erkenntniſs. Diese wird , wie schon bemerkt ist , alleindurch die ursprüngliche Handlung des Zusammensetzens und Verbindens erreicht. Das Auflösungsurtheil geht daher nicht über den Begriff hinaus , sondern giebt bloſs an , was in diesem schon gedacht oder nicht gedacht ist. Bloſse Vorstellungen und Begriffe widersprechen sich nicht , wohl aber Urtheile , als Bestimmungen durch Vorstellungen und Begriffe. Aus dem Satze des Widerspruchs folgt schon durch bloſse Verdeutlichung , daſs von zwei einander widersprechenden Urtheilen nur Eins wahr seyn könne , und ein dritter Fall , da beide wahr wären , undenkbar sey. Man nennt diesen Satz den Grundsatz der Ausschliessung eines Mittlern zwischen zwei widersprechenden Urtheilen (principium exclusi tertii s. medii inter duo contradictoria). Eine von dem Satze des Widerspruchs unabhängig für sich bestehende, mithin mit ihm in gleicher Würde als oberster Grundsatz dastehende Regel ist dies nicht; sie ist bloſs eine verdeutlichte Darstellung der ersteren; diese also allein der oberste jedoch nur unumgängliche Probirstein der Wahrheit des Urtheils. Das Urtheil mag also ursprünglich ein besondres oder allgemeines , ein bejahlich oder verneinlich , ein unbedingt oder bedingt bestimmendes seyn; es unterliegt dem Gesetze, daſs es widerspruchsfrei seyn müsse. Eben so folgt 13 * [p. 196] auch schon durch blosse Verdeutlichung aus dem Satze des Widerspruchs der sogenannte Grundsatz der Einerleiheit (principium identitatis): jedes Ding * ist , was es ist , ist nicht , was es nicht ist ; A istA; nicht A ist nicht A; denn dies ist es ja eben , was die Urtheilshandlung , indem sie ein Urtheil auflöst, nicht unbeachtet lassen soll, um nicht in Widerspruch zu gerathen. Der Satz des Widerspruchs sagt nun bloſs , unter welcher Bedingung zwei Urtheile , im Verhältniſs zur Wahrheit, nicht mit einander bestehen können , mithin das Eine die Gültigkeit des andern aufhebt. Die Frage aber ist noch: ob , wenn beide Urtheile mit einander bestehen , die Wahrheit des einen aus dem andern gefolgert werden könne ? DieHandlung des Folgerns besteht nun darin, daſs bestimmt werde: die Gültigkeit eines Urtheils sey der zureichende Grund , die Gültigkeit eines andern Urtheils auszusprechen , mithin aus Erkenntnissen Erkenntnisse abzuleiten .
+
+DieseAbleitung istnunwiederum nur auf zweierlei Art möglich , entweder unmittelbar , ohne * ein neu hinzukommendes Urtheil , oder mittelbar, durch ein solches hinzukommende.
+
+Hierbei kommt nun zuoberst die Frage: was läfst sich aus einem Urtheile folgern , abgesehen von aller Verschiedenheit des Stoffes,bloſs vermögeder, der
+
+Denkkraft ursprünglich angestammten , Weisen des Urtheilens ?
+
+[p. 197] a. Von den unmittelbaren Folgerungen. 24h Gehen wir die Urtheile bloſs nach den aus der Denkkraft selbst stammenden Weisen des Urtheilens durch, so daſs das weiter nicht berücksichtigte Besondere überall durch A und B bezeichnet wird , so ergeben sich unter den , durchs Denken selbst schon bestimmten, verschiedenen Ansichten des Umfangs, der Beschaffenheit und des Verhältnisses schon Folgerungen; aber die Schlüsse dieser Art ergeben sich sämmtlich durch bloſse Auflösung des durch die Weise des Urtheils schon bestimmten Inhalts. Unmittelbar durchs Denken und bloſs nach dem Satz des Widerspruchs rechtfertigen sich nun folgende Schlüsse: 1. Durch Umfassung. Mit dem All wird auch das Viele umfasst,
+
+Was allen Dingen einer Art zukommt, daſs kommt auch Einigen Dingen der Art zu.
+
+Was der Gesammtheit einer Art von
+
+Dingen nicht zukommt, das kommt auch keiner Vielheit (keinen Theile) derselben zu. Alle A sind B, mithin auch Einige A sind B, Alle A sind nicht B (kein A istB) mithin sind auch Einige A nicht B.
+
+>
+
+2. Durch Entgegensetzung oder Aufhebung. Von zwei widerstreitenden (sich einander aufhebenden) Urtheilen folgt die Wahrheit des Einen aus der Unwahrheit des Andern; die Unwahrheit des
+
+Einen aus der Wahrheit des Andern , überhaupt aus der Wahrheit des Urtheils: A ist B , folgt die Unwahrheit des Urtheils: A ist nicht B. Aus der Wahrheit des Urtheils: alle A sind B, folgt die Unwahrheit [p. 198] des Urtheils: kein A ist B.
+
+Aus der Wahrheit des
+
+Urtheils: alle A sind B, folgt die Unwahrheit des Urtheils : Einige A sind nicht B. Aus der Wahrheit des Urtheils: Alle A sind nicht B (kein A ist B), folgt die Unwahrheit des Urheils, alle oder Einige A sindB.
+
+Durch Umkehrung der Begriffe A B, z. B. alle A sind B , folglich sind einige B A. Alle Menschen sind sterblich , folglich sind einige Sterbliche Menschen. Alle A sind B; folglich ist kein Nicht B ein A. Alle Menschen sind sterblich , folglich ist kein Unsterblicher ein Mensch. Kein A ist B, folg. lich ist kein B A. Kein Mensch ist ein Engel , folglich ist kein Engel ein Mensch. Wenn A ist , so ist B, folglich , wenn B nicht ist, so ist Anicht.
+
+Wenn es stark friert, so erstarrt das Wasser, folglich, wenn das Wasser nicht erstarrt , so friert es nicht stark.
+
+Alle A sind entweder B oder Nicht B (C); folglich was weder ein B noch ein nicht Bist , ist nicht A. Alle Einwohner des Reichs sind entweder Städter oder Landleute; folglich , wer weder Städter noch Landmann ist , ist kein Einwohner des Reichs.
+
+Das Verfahren der folgernden Urtheilskraft bei allen diesen Folgerungen besteht darin, das sie, über die Begriffe A, B, nicht hinausgeht, sondern urtheilt, was sich aus ihnen, bloſs dadurch erkennen läfst, daſs sie sie durch die verschiedenen reinen Weisen des Urtheilens verfolgt , nämlich durch die Weisen der Umfangs-, Beschaffenheits- und VerhältniſsBestimmung. Sie sind daher sämmtlich bloſse Folgerungen durch Auflösung nach dem Satze des Widerspruchs [p. 199] und setzen das ursprüngliche , auf Erzeugung und Erweiterung gerichteteVerfahren,schon voraus.
+
+b. Von dan mittelbaren Folgerungen.
+
+Bei der mittelbaren Folgerung stützt sich die Urtheilshandlung nicht auf den Verkehr mit Begriffen A und B unter den bloſsen , durch das Denken selbst gegebenen , Weisen des Urtheilens; sondern noch auf einen dritten Begriff C , als die Bedingung der Folgerung. Aus dem Urtheil, alle Bürger (A) sind Menschen (B), folgte ohne alle weitere Bedingung: einige Bürger sind Menschen ; einige
+
+Menschen sind nicht Bürger u. s. w. Aus dem Urtheile aber : alle Bürger (A) sind Menschen (B) , folgt nicht unbedingt und unmittelbar : ein Ding, was lebend (C) ist, ist Mensch (B); sondern allererst dadurch , daſs geurtheilt wird , das lebende Wesen (C) ist , ist Bürger (A), Ohne dies vermittelnde Urtheil kann zwar das Urtheil: C ist B, sehr wahr seyn ; aber es ist doch kein aus dem Urtheile :
+
+A ist B , mittelbar gefolgertes Urtheil , d. h., es ist kein, aus einem schon bestehenden Erkenntnisse mittelbar erschlossenes , Erkenntniſs. Ein jeder mittelbarer Schluſs ist also die Erkenntniſs der Nothwendigkeit eines Urtheils dadurch , daſs der Unterbegriff ( C ) dieses Urtheils unter den Unterbegriff (A) eines allgemeinen Urtheils gestellt wird. Vermittelst dieser Unterstellung des C unter A ist dann das Urtheil : ist. B, durch die bloſse Denkkraft be1 [p. 200] stimmt , d.h. , es giebt eine aus einer Wahrheit mittelbar abgeleitete (geschlossene ) Erkenntniſs.
+
+Daſs also die beiden Urtheile: A ist B , Cist B , einen gemeinschaftlichen Begriff A haben , z. B. alle Bürger (A) sind Menschen (B) , alles Lebende (C) ist Mensch (A) , wo also def Begriff Bürger (A) beiden Urtheilen gemeinsam ist; diese Gemeinsamkeit ist die Bedingung , unter welcher aus dem
+
+Urtheile : A ist B, das Urtheil: Cist B, abgeleitet werden kann.
+
+DerGang der Urtheilskraft ist, wie in der Folgerung überhaupt, so auch in der mittelbaren Folgerung sehr einfach und hat seine festen Regeln. Das Gesetz aller mittelbaren Folgerung ist: Was unter der Bedingung einer Regel steht , das steht auch unter der Regel selbst. Hiermit wird gesagt: ein denkgerechter mittel barer Schluß erfordert
+
+1) einen allgemeinen Satz als Obersatz (pro:
+
+positio major) oder Grundsatz , z. B. alle Bürger sind Menschen. Dieser Satz sagt nicht: alle Wesen sind
+
+Menschen , sondern unter der Bedingung , daſs diese Wesen Bürger sind. Der Schluſs erfordert
+
+2) einen Untersatz (propositio minor). Dieser stellt einen besondern Satz unter die Bedingung des Obersatzes, z. B, ein lebendes Wesen ist Bürger. Der Schluſs erfordert 3) einen Schluſssatz (propositio conclusa) ; dieser ist nun derjenige , welcher , durch Unterstellung des Untersatzes unter die Bedingung des Obersatzes , nothwendig , d.h. , durch die Unmöglich [p. 201] keit, das Gegentheil zu denken, als wahr bestimmt wird.
+
+Man theilt die mittelbaren Schlüsse ein nach der Beschaffenheit des Obersatzes , welcher sich entweder unbedingt oder einseitig oder wechselseitig bedingt aussprechen kann , z. B. 1) Alle Bürger sind Menschen ; oder 2) alle Wesen sindMenschen , wenn sie Bürger sind; oder 3) alle Einwohner sind entweder Bürger oder Landleute. Man nennt diese , nach der Verschiedenheit des Obersatzes bestimmten, Schluſsarten, die kategorische, hypothetische und disjunctive Schluſsart. I.
+
+Von der unbedingten Schluſsart.
+
+1. Der Obersatz und Untersatz müssen drei Begriffe: A , B und C (z. B. Bürger , Mensch und Leben) , enthalten; nicht weniger, denn sonst geben sie keinen mittelbaren Schluſs; nicht mehr , denn sonst geben sie einen Fehlschluſs (Paralogismus), d. i, es geht der Folge die Folglichkeit ab. Z. B. alle Bär: ger (A) sind Menschen (B) ; ein Lebendes (C) ist ein Thier (D); also ist es ein Mensch. Dieser Satz mag an sich wahr seyn; aber er folgt nicht aus denVordersätzen .
+
+2. Der Obersatz muſs ein allgemeiner seyn , er sey bejahend oder verneinend ; der Unter satz muss ein bejahender seyn , er sey ein allgemeiner oder besonderer; der Schluſssatz muſs bejahend oder verneinend seyn, nachdem es [p. 202] der Obersatz ist; er muſs ein einzelner und besonderer oder allgemeiner seyn, wenn es der Untersatz ist. Man drückt dies letztere auch so aus: der Schluſssatz richtet sich nach den schwächern Theilen der VorZ. B.
+
+dersätze.
+
+Obersatz :
+
+Alle Bürger sind Menschen
+
+Untersatz : Kajus ist Bürger. Schluſssatz : Also istKajus einMensch. In diesem Schlusse finden sich alle denkgerechteErfordernisse. Der Obersatz ist allgemein und zwar hier bejahend; der Untersatz ist bejahend und zwar hier einzeln bejahend. Der Schlufssatz ist bejahend, weil es der Obersatz ist; er ist ein einzelner, weil es der Untersatz ist.
+
+Alle unbedingte mittelbare Schlüsse müssen die Stellung haben: J fo od fom
+
+A ist B Cist A
+
+Also:
+
+ist
+
+B
+
+'
+
+Die Schluſshandlung , welche sich hiermit ausspricht, istdiese: Was vom Begriffe A bejaht wird, das wird auch von Allem bejaht, was unter diesem Begriffe steht (das sogenannte dictunt de omni); was vomBegriffe Averneint wird, das wird auch von Allem verneint , was unter diesem Begriffe steht (Das sogenannte dictum de nullo). Mit andern Worten sagt dies: Was dem Merkmale eines Wesens zukommt oder widerspricht, das kommt auch zu oder widerspricht dem Wesen selbst. (Nota notae est nota rei ipsius; repugnans notae repugnat rei ipsi)
+
+[p. 203] Die durch die Stellung: A ist B , Cist A, also Cist B , angezeigte Ordnung des Schluſsverfahrens ist die einzig reine , auch so einfach , daſs sie sich , wie es seyn muſs , dem gemeinsten Verstande aufdringt.
+
+Dadurch aber, daſs man den drei Begriffen, A,B, C, eine andere Stellung (Figur ) giebt , als sie nach dem gesetzlichen Schluſsverfahren eigentlich haben sollen , entspringt der Schein auf verschiedene Art, unbedingte mittelbare Schlüsse hervorzubringen, gleich als wenn es , auſser dem gesetzlichen reinen und einfachen Verfahren , auch noch ein anderes gesetzliches eben so denkgerechtes Verfahren geben könnte. Aber jede andere Stellung ist nur eine Entstellung , und bedarf, um als denkgerechte Folgerung auftreten zu können, erst ihre Zurückführung in die gesetzliche Stellung.
+
+Solche Entstellung würde aber auch gar nicht einmal den Schein des Gerechten erkünsteln können, wenn man nicht unmittelbare Schlüsse in die mittelbaren einmischte ;
+
+WO dann vermischte
+
+Schlüsse entspringen. Die Richtigkeit dieser Schlüsse erhellet aber doch nie anders , als durch Zurückführung in die reine und einfache Stellung. Durch verstellte Einmischung unmittelbarer Schlüsse in die Stellung der unmittelbaren , entsteht eine Vernünftelei , entweder als Spiel durch Witz und Scharfsinn , oder gar als Täuschung durch Verfinsterungdes einfachen und klaren Ganges in der Folgerung. Die verschiedenen Stellungen aber , wel [p. 204] che man den drei Begriffen im Schlusse geben kann, sind folgende:
+
+"
+
+1) AB 2) BA 3) AB 4) BA CA
+
+CA
+
+AC
+
+AC
+
+Die erste Ordnung ist nun, wie schon gesagt , die alleindenkgerechte. Die drei übrigen müssen erst auf die erste Ordnung zurückgeführt werden, wenn ihre Folgerichtigkeit eingesehen werden soll. In der zweiten Stellung hat der Obersatz t nicht die gehörige Stellung, indem der Unterbegriff (A) die Stelle des Oberbegriffs (B) einnimmt , mithin beide Begriffe versetzt sind. Zum Beispiel giebt man folgenden Schluſs :
+
+(Kein Mensch ist unsterblich. ) ↑
+
+Kein Unsterblicher ist ein Mensch.
+
+Kajus ist ein Mensch.
+
+Also ist Kajus kein unsterbliches Wesen. Dieser Schluſs hat , wenn man die gesetzliche Weise des Folgerns im Auge hat , gar keine Bündigkeit , denn den Unterbegriff als Bedingung des Oberbegriffs
+
+S zu denken , ist Widerspruch. Man muss sich daher nothwendig erst denken : daſs sich der Obersatz umkehren lasse, mithin aus ihm durch unmittelbare
+
+Folgerung der Satz erhalten werde: kein Mensch ist unsterblich.
+
+Dieser in dem Obersatze mitgedachte
+
+Satz ist nun der wahre Grundsatz , aus welchem hier gefolgert wird. Und so entspricht diese Folgerung dem Gesetze des Folgerns: Was (die Unsterblichkeit) dem Begriffe (Mensch) nicht zukommt , das kommt [p. 205] auch dem durch diesen Begriff gedachten Dinge (dem Menschen Kajus) nicht zu. Dieselbe Einschiebung einer unmittelbaren Folgerung wird auch in der dritten Stellung und zwar beim Untersatze gedacht. Z. B. Alle Bürger sind Menschen.
+
+Alle Bürger sind lebende Wesen. (Einige lebende Wesen sind Bürger). Also sind einige lebende Wesen Menschen.
+
+Dieser Schluſs hat gar keine Bündigkeit , als allein dadurch, daſs man zum Satze: alle Bürger sind lebende Wesen , durch einen unmittelbaren Schluſs vermittelst der Umkehrung hinzu denkt: Einige lebende Wesen sind Bürger. Denkgerecht löst sich obige versteckte Folgerung in folgenden Schluſs auf: weil einige lebende Wesen Bürger , alle Bürger aber Menschen sind , so sind einige lebende Wesen Menschen.
+
+Die Schluſsart durch die vierte Stellung, wo weder der Obersatz noch der Untersatz ihre richtige Stellung haben, beruht gleichfalls auf Einmischung un- ( mittelbarer Folgerungen durch Umkehrung. Z. B. Kein verstandesloses Wesen (B) ist Mensch (A).
+
+Einige Menschen (A) sind gesund (C). Also sind einigeGesunde(C)nicht verstandeslos(B). Zwischen diesem Schluſssatze und seinen Vordersätzen findet gar keine Bündigkeit Statt , wenn man nicht seine Zuflucht zur unmittelbaren Folgerung durch Umkehrung nimmt; mithin zum Obersatz das Urtheil denkt: kein Mensch ist ein verstandesloses
+
+Wesen; zum Untersatze aber das Urtheil: einige gesunde [p. 206] Wesen sind Menschen ; wo dann der gerechte Schluſs so lautet : Kein Mensch ist ein verstandesloses Wesen.
+
+Einige gesunde Wesen sind Menschen. Folglich sind einige gesunde Wesen keine verstandeslose Wesen.
+
+Wie einfach und klar steht hier der gesetzliche Folgerungsgang des Denkens vor Augen! wozu also das Versteckspiel durch Entstellung der Begriffe in den Vordersätzen ? Jedoch ist es Angelegenheit, der Denklehre zu zeigen , daſs und wie solche Schlüsse, nämlich durch Einmischung unmittelbarer Folgerungen, entstehen; daſs und wie sie durch Entdeckung dieser Einmischung auf ihre denkgerechte Stellung zurückgeführt werden müssen , und somit klar werde, daſs es nur eine einzige denkgerechte Art gebe, aus unbedingt gefällten Urtheilen mittelbar zu folgern. II.
+
+Von der bedingten Schluſsart.
+
+Das bedingte Urtheil ist ein solches , welches die Gültigkeit zweier Begriffe unter die einseitige oder wechselseitige Abhängigkeit von einander stellt. Dasjenige Urtheil nun , welches das andere in diese
+
+Abhängigkeit von sich stellt, heisst das Bedingende (die Bedingung , der Vordersatz); dasjenige aber, welches von Jenem in diese Abhängigkeit gestellt wird , heifst das Bedingte (der Nachsatz). Wenn A ist , dies ist das bedingende Urtheil , so ist B; dies ist das bedingte Urtheil , jenes der Vordersatz, dieses der Nachsatz. Dies ist die Regel, welche in diesem Verfahren des Denkens , in dem: Wenn - So, bei dieser Verbindungsart der Gültigkeit zweier Begriffe obwaltet. Aus dem bloſsen Begriffe dieser Verbindungsart lassen sich Folgerungen machen; diese sind aber unmittelbare Folgerungen. Wie entstehen nun aber unter eben dieser Regel unmittelbare Schlüsse ? Dadurch, daſs ein solches ursprüng-
+
+'lich bedingendes Urtheil zum Grunde gelegt wird und den Obersatz bildet , dann aber etwas besonderes unter diesen Obersatz gestellt wird, und vermöge dieser Unterstellung den Untersatz bildet. Die urtheilende Handlung stellt nun etwas entweder unter den Vordersatz des Obersatzes , oder unter den Nachsatz des Obersatzes; und nun wird, vermöge dieser Unterstellung, mithin mittelbar gefolgert , das heiſst , dieses gefolgerte Urtheil tritt als ein erzwungenes , als ein durch das bloſse nach jener Regel abgenöthigtes , Urtheil auf. Ginge das ursprüngliche Gesetz durch das WennSo zu denken und zu urtheilen nicht voran, so würden auch keine mittelbaren Schlüsse durch solche Regel möglich seyn. Damit aber der Schluſs ein mittelbarer sey, muſs nicht angegeben werden , was im blofsen Begriffe des bedingten Urtheilens schon gedacht wird; denn dieses gäbe nur unmittelbare Folgerungen , sondern es muſs etwas Neues , was nicht schon durch den bloſsen Begriff der Bedingtheit bestimmt ist , unter diese Regel gestellt werden. Bei dieser Unterstellung des Neuen unter die Regel der Bedingtheit stützt sich die Handlung des
+
+[p. 208] Folgerns auf die , durch den Begriff der Bedingtheit selbst aufgestellte, Regel: „Von der Wahrheit des Grundes gilt der Schluſs auf die Wahrheit der Fólge;
+
+von der Unwahrheit der Folge gilt der Schluſs aufdie Unwahrheit des Grundes ," (a ratione ad rationatum, anegatione rationati ad negationem rationis valet consequentia). Hieraus ergiebt sich, daſs dieser Schluſs in zwiefacher Art gezogen werden könne ; entweder durch
+
+Setzung des Vordersatzes ( modo ponente) oder durch Aufhebung des Nachsatzes (modo tollente). Wenn A ist , so ist B Nun istA
+
+Also ist B.
+
+Wenn A ist , so ist B ist nicht B
+
+Nun
+
+Also ist auch A nicht.
+
+Wenn die Sonne scheint , so wird es warm; nun scheint sie , also wird es warm. Wenn die Sonne scheint , so wird es warm; nun wird es nicht warm, also scheint die Sonne nicht.
+
+Die Folgerung findet auch Statt , wenn sowohl der Obersatz als Untersatz bedingte Urtheile enthalten.
+
+Wenn A ist , so ist B Wenn Bist , so ist C Also wenn A ist , so ist C.
+
+Wenn es warm ist , so gedeihen die Früchte. Wenn die Früchte gedeihen , so erhalten die Thiere Nahrung, [p. 209] rung , also: wenn es warm ist, so erhalten die Thiere Nahrung. 1.
+
+Wenn A ist , so ist B Wenn Cist , so ist nicht B Also: Wenn C ist, so ist nicht A, .
+
+Wenn es warm ist , so giebt es Früchte. Wenn die Thiere verhungern , so giebt es keine Früchte.
+
+Also wenn die Thiere verhungern', so ist es nicht warm.
+
+Die Schlüsse unter dem Begriffe der wechselseitigen Bedingtheit , daſs von zwei sich aufhebenden Urtheilen nur eins wahr seyn könne , folgern von der Wahrheit des einen Urtheils auf die Unwahrheit aller ihm entgegengesetzten Urtheile, und von der Unwahrheit aller entgegengesetzten , auf die Wahrheit des einen. Die erste Art des Schlieſsens nennt man kurz die durch
+
+Setzung aufhebende (modus ponendo tollens); die zweite die durch Aufhebung setzende (modus tollendo ponens). A ist entweder B oder C A ist B
+
+Also: A ist nicht C. A ist entweder B oder C A ist nicht B
+
+Also: A ist C.
+
+Es liegt diesem Schlusse der Gedanke zum Grunde, daſs B und C einander im Daseyn wechselseitig bedingen. Bund C bedeuten hier , nach der Denkweise,keinNichts= o, sondernEtwas und derBegriff der wechselseitigen Bedingtheit sagt: das Bund C [p. 210] von einander wechselseitig der Grund ihres Seyns und Nichtseyns, ihres so und nicht so Bestimmtseyns sind. Dieser Begriff besagt nun nicht bloſs wechselseitige Ausschlieſsung ( disjunctio) sondern auch wechselseitige Einschliefsung (junctio),das heiſst : X und Y sind nicht allein wechselseitig von einander die Gründe ihres Nicht so Bestimmtseyns , sondern auch ihres So Bestimmtseyns; mit andern Worten : X und Y sind einander in ihrem Daseyn sowohl förderlich als auch widerwärtig. Aus solchen Sätzen, als Obersätze gedacht, können nun durch Unterstellung wiederum mittelbare Schlüsse gezogen werden.
+
+Ein Schluſs ist einfach (ratiocinatio simplex s.monosyllogistica), wenn er nur aus einer einzigen Folgerung besteht ; er ist zusammengesetzt (ratiocinatio composita s. polysyllogistica) , wenn man durch wiederholte Folgerung zu einem Schluſssatze gelangt. Diese Schlüsse müssen aber als Vorderschlüsse ( prosyllogismi) und Nachschlüsse (episyllogismi) in einander greifen , d.h. , als Gründe und Folgen zusammenhängen ; wo nicht, so sind sie bloſs einander beigeordnete Schlüsse und keiner begründet den andern.
+
+Ein Schluſs ist abgekürzt ( enthymema) , wenn man einen von den Vordersätzen verschweigt ; z. B. alle Menschen sind sterblich, folglich ist Kajus sterblich. Hier ist der Untersatz ausgelassen: Каjus ist Mensch. Der Schluſs heiſst auch abgekürzt (epicherema), wenn dem Obersatze oder Untersatze [p. 211] die Bedingung beigefügt wird , wor. auf sich die urtheilende Handlung stützt ;
+
+z. B.
+
+1) Alle Bürger sind lebende Wesen, weil sieMen . schen sind.
+
+Nun ist Kajus Bürger. Folglich ist Kajus ein lebendes Wesen. 2) Alle Menschen sind lebende Wesen.
+
+Nun ist Kajus Mensch , weil er ein Bürger ist, Folglich ist Kajus ein lebendes Wesen. Aus abgekürzten Schlüssen zusammengesetzte Schlüsse, heißen Kettenschlüsse (sorites s. syllogismi concatenati). Im Kettenschlusse kann man entweder 1) von den nähern Gründen zu entferntern hinauf (per prosyllogismos) oder 2) von den entferntern Gründen zu den nähern herabgehen (per episyllogismos), und zwar auf unbedingte oder bedingte Weise. Z. B. -1) X ist B. Kajus ist ein Mensch.
+
+AlleB sind C. Alle Menschen sind verständige
+
+AlleC sindD. Alle verständige Wesen sind freie
+
+AlleD sindE.
+
+Alle freie Wesen sind zurechnungsfähig.
+
+folglich : X ist E. Kajus ist zurechnungsfähig. 2)Alle DsindE. Alle freie Wesen sind zurechnungsfähig.
+
+Alle CsindD.
+
+Alle verständigeWesen sind freie
+
+AlleB sindC. Alle Menschen sind verständige
+
+14 *
+
+[p. 212] X ist B. Kajus ist ein Mensch.
+
+folglich: X ist E. folglich: Kajus ist zurechnungsfähig.
+
+1) Wenn ist, soistB. Wenn Gott gerecht ist , so straft er das Böse.
+
+WennBist, so ist C. Wenn Gott das Böse bestraft, so wird der Lasterhafte unglücklich. WennCist, soistD. Wenn der Lasterhafte unglücklich wird, so wird Kajus unglücklich. Also: WennA ist, so ist D. Also: Wenn Gott gerecht ist , so wird Kajus unglücklich.
+
+2) WennCist, soistD. Wenn der Lasterhafte unglücklich wird , so wird
+
+Kajus unglücklich. WennBist, so ist C. Wenn Gott das Böse bestraft, so wird derLasterhafte unglücklich. Wenn Aist; soistB. Wenn Gott gerecht ist , so straft er das Böse.
+
+Also: WennA ist, so istD. Also: Wenn Gott gerecht ist , so wird Kajus unglücklich. Aus diesen bedingten Kettenschlüssen entstehen vermischte Schlüsse , wenn den bedingten Vordersätzen ein Urtheil: A ist , oder: Dist nicht , beigefügt wird ; im ersten Falle schliefst man durch
+
+Setzung (modo ponente ) A ist , im zweiten Fall durch Aufhebung (modo tollente)D istnicht. Z.B.
+
+[p. 213] 1) Wenn A ist, so ist B
+
+2) Wenn A ist, so istB
+
+B
+
+B
+
+D
+
+D
+
+Nun ist nicht D.
+
+Nun istA Also ist D
+
+‫ان‬
+
+Also ist nicht A.
+
+Wenn die Vordersätze eines Sehlusses ein bedingtes
+
+Urtheil mit einer Ausschlieſsung enthalten , so entspringt ein sogenannter gehörnter Schluſs (syllogismos cornutus). Z. B. Wenn Kajus gerecht ist , so bezahlt er entweder dem Titius oder findet sich mit ihm in Güte ab. Nun bezahlt er weder , noch findet er u. s. w.
+
+Folglich ist Kajus ungerecht. ‫ام‬
+
+Wenn Aist, so ist entweder B oder (nicht B, d. i.) C, D , E u. s. w.
+
+Nun ist weder B noch (nicht B) C, D, E u. s. w. Also ist nicht A.
+
+Je nachdem hier im Nachsatze zwei , drei ; vier oder mehrere Fälle angeführt werden , könnte man einen solchen Schluſs ein Einhorn , Zweihorn , Dreihorn , Vierhorn u.s. w. (Dilemma , Trilemma, Tetralemma u. s. w.) nennen. Es kommt bei dieser gehörnten Schluſsart alles darauf an, daſs dieAufzählung der Fälle im Nachsatze des Obersatzes vollständig sey. Unter dieser Bedingung hat der Schluſs allerdings seine Bündigkeit. Die Erfüllung dieser Bedingung ist aber schwer, ja in Erfahrungsfällen öfters ganz unthunlich. Daher kann diese Schluſsart leicht dazu gemiſsbraucht werden, den bloſsen Schein eines Beweises zu erkünsteln, und den , der Regel dieser Schluſsart unkundigen,
+
+[p. 214] Gegner zu verwirren.
+
+In dieser Absicht war sie daher auch stets die beliebteste bei solchen Vernunft- lern, denen es mehr um Spitzfindigkeiten , als um Wahrheiten zu thun war. Das ganze Blendwerk zerfällt aber hier , wenn man die ernste Forderung der Denkkraft belherzigt. Diese zeigt mit ihrem: Entweder B oder nicht B , an , daſs eine solche
+
+Schluſsart nicht anders Bündigkeit habe , als durch Aufzählung der Allheit der unter dem nicht B denkbaren Fälle. Z. B. der Schluſs: wenn Kajus gerecht ist , so bezahlt er entweder den Titius oder findet sich mit ihm in Güte ab; nun bezahlt er weder noch u. s. w. , also ist Kajus nicht gerecht; dieser Schluſs hat gar keine denkgerechte Bündigkeit, wenn man nicht alle Gründe des Nichtbezahlens (des nicht B) erreicht hat, und somit gar kein Grund mehr denkbar ist , als der einzige , das freie Nichtwollen des Kajus ; erst alsdann folgt denkgerecht: Kajus ist ungerecht. Es leuchtet sonach hier , wie überall , ein: der
+
+Gang des Denkens und des Urtheilens unter der reinen Weise des Denkens ist einfach und ernsthaft , und gerade vor dieser Einfalt verstumpfen auch die Spitzen , wie aller , so auch der gehörnten Vernünftelei.
+
+Daher kommt auch die Scheu der spitzfindigen Grübler vor dieser Einfalt und der einfachen, der Denkgerechtigkeit angemessenen und dadurch jedem gesunden Verstande einleuchtenden,Darstellung ihrer dreisten Behauptungen; denn in dieser Weise ist das Trägliche ihrer Vernünftelei gar leicht zu durchschauen. Daher sprechen sie wohl gar verächtlich gegen die Denklehre (Logik ) überhaupt ; denn diese muſs ihnen freilich eine sehr lästige Freundin seyn , weil sie immer mit ihrer Frage bei der Hand ist: woher weisst du das? und wie leuchtet dies nach der einfältigen, Weise des Schlieſsens ein? Eben dieser Einfalt des Denkens , die zugleich Schönheit ist, und diesem Ernst desselben, der zugleich Achtung einflöſst , muſs man es auch zuschreiben , daſs das Urtheil des gesunden und nur nicht durch Spitzfindigkeiten verwirrten Verstandes in der Regel so treffend ausfällt , und dieses nicht minder durchs Behaupten , als durch Enthaltsamkeit von voreiligen Absprüchen, Von den mancherlei Arten der Folgewidrigkeit im Schliefsen. Jeder Schluſs soll die Wahrheit einer Erkenntmifs aus einer andern ableiten. Diese Ableitung ist gültig , wenn die Vordersätze (der Obersatz und Untersatz) wahr sind und die Folgerung durch die bloſse Denkweise nothwendig ist. Ein Schluſs, welcher die Denkweise verletzt, ist ein Fehlschluſs (paralogismus); geht er hierbei auf Täuschung anderer aus, so ist er Trugſchluſs (Sophisma). Ein Schluſs , welcher einen von den Vordersätzen übergeht , ist ein Sprungschluſs (conclusio persaltum). Dieser Sprung ist zulässig , wenn der fehlende Satz leicht hinzuzudenken ist; unzulässig, wenn die Abfolge nicht klar ist. Zur Vollständigkeit eines Beweises gehört jedoch , daſs kein
+
+[p. 216] Sprung oder Kluft (saltus vel hiatus) im Beweise Statt habe,
+
+Zu den Trugschlüssen gehören alle Arten, durch versteckte Verletzung der Denkweise den Irrthum für Wahrheit geltend zu machen, Dahin gehören die Trugschlüsse
+
+1. durch Doppelsinnigkeit des Mittelbe griffs , durch Wortspiel ; 2, durch Weglassung der Einschränkung ; 3, durch bloſs angebliche Beweise, wenn man etwas beweist , wornach so eben nicht gefragt wird ; 4, durch falschen Beweisgrund , z. B. durch Schluſs von der Möglichkeit auf die Wirklichkeit; 5. durch einen Zirkel , wenn man den Satz , welcher bewiesen werden soll , selbst als
+
+Beweisgrund aufführt ; z. B. wenn man die Pflicht zu gehorchen aus der wohlthätigen Ueberlegenheit der Herrschaft und diese Ueberlegenheit wiederum aus der Pflicht zu gehorchen ableitet. Der Zirkel im Beweisen ist oft schwer zu entdecken , und dieser
+
+Fehler wird eben da am häufigsten begangen , wo die Beweise schwer sind.
+
+Jeder Beweis muſs aber Ein heit haben , d. h. , nicht aus mehrern verschiedenartigen Gründen zusammengesetzt seyn; denn wenn die verschiedenartigen Gründe nicht in einander greifen und ein Ganzes ausmachen , so bewirken die zusammengenommenen Theile nicht mehr als jeder Theil , und wenn kein Theil für sich beweist, so beweisen sie auch alle zusammengenommen nicht ; 6. durch Annahme eines Satzes zum Beweisgrunde, als eines unmittelbar gewissen Satzes, der doch selbst noch eines Beweises bedarf (petitio principii ); {
+
+[p. 217] 7. durch zu viel beweisen.
+
+Z. B. wem man das
+
+Leben nicht gegeben hat, dem darf man es auch nicht nehmen.
+
+Aus diesem Grunde dürfte man auch den
+
+Mörder nicht hinrichten , die Thiere nicht schlachten u. s. w. Ein zu wenig beweisender Satz kann aber wahr seyn; denn er beweist doch einen Theil von dem , was bewiesen werden soll, Z. B. wenn bewiesen werden soll , daſs drei Menschen A, B und
+
+C an einem Orte gewesen seyn sollen, und man beweist wenigstens , daſs Einer , A oder B oder C , da gewesen sey.
+
+Die angeblichen Schlüsse durch Verallgemei
+
+- nerung und Verähnlichung (Induction und Analogie) sind, wie wir sehen werden , gar keine Schlüsse , sondern bezeichnen das Verfahren des Denkens , um zu Grundsätzen zu gelangen.
+
+Von dem Verfahren der Denkkraft , um Grundsätze zu erzeugen , oder von der Vernunft, Die Denkkraft erweist sich nicht bloſs in Gewinnung der Begriffe von Gegenständen und in Bestimmung der Gegenstände durch diese Begriffe; sie ist nicht bloſs selbst eine Quelle von Begriffen , um durch diese aus sich selbst einen gewissen Inhalt zu Erkenntnissen zu geben; sie ist nicht bloſs < ein Vermögen der unmittelbaren oder mittelbaren
+
+Folgerung aus gewonnenen Erkenntnissen , sondern sie ist auch , eben weil sie folgert , ein Vermögen , Grundsätze zu erzeugen und dann wiederum nach diesen Grundsätzen , als allgemeinen , durch sie feststehenden Wahrheiten , durch Schlüsse Wahrheiten zu entdecken , auf welche wir durch bloſse Anschauung und Gewahrung der Sinne nie kommen könnten. Dieses Vermögen des Denkens nennt man in vorzüglicher Bedeutung die Vernunft. 1. Schon auf dem bloſsen Wege der Erfahrung offenbart sich das Verfahren der Denkkraft, wodurch sie auf allgemeine Wahrheiten und Grundsätze ausgeht. a. Sie strebt vom Besondern auf das Allgemeine zu kommen und schwingt sich hier durch die Regel der Steigerung (Induction): Was vielen Dingen einer Gattung zukommt , giebt dadurch den Grund , zu vermuthen , dafs es auch allen übrigen zukommen werde. Mit dieser Zumuthung betrachtet sie die Dinge der Welt und bestimmt, daſs sie so weit als Gesetz gelte , als die Erfahrung keine Ausnahme davon aufstellt.
+
+Unter dieser Leitung entspringen Grundsätze der Erfahrung ;
+
+z. B. alle Menschen sind sterblich , alles Brod ist nahrhaft , Opium betäubt , die in die Erde gelegten Körner keimen und reifen zur Ernte u. s. w.; diese Art, über Dinge zu urtheilen , unterscheidet sich weit von dem , durch bloſse Wahrnehmung zu urtheilen, z. B. dieser Mensch stirbt , dies Brod ist nahrhaft , diese Körner keimen u. s. w.
+
+Der einfache Gang im Denken ist hier: Eins in vielen Dingen einer Art, also in allen dieser Art, so weit die Erfahrung nur nicht widerspricht.
+
+[p. 219] : b. Eben diesen Gang nimmt die Vernunft durch den Grundsatz der Verähnlichung (Analogie): Dinge von einer Art , welche in vielen Stücken übereinkommen , geben dadurch den Grund zu vermuthen , daſs sie auch in den übrigen Stücken dieser Art übereinstimmen.
+
+Vieles in Einem , was auch in
+
+Andern dieser Art ist , also auch das übrige in diesem
+
+Einem; so weit die Erfahrung nicht widerspricht. Dieser Schwung der Denkkraft ist von groſser Fruchtbarkeit für die Erkenntnisse.
+
+So nehmen wir wahr , daſs viele Wesen der Art sind , daſs sich ihre
+
+Naturanlagen völlig entwickeln; wir vermuthen daher, daſs der Mensch , welcher diesen Wesen in so vielen Stücken gleich ist , auch in dem Stücke gleich seyn werde , daſs sich seine Naturanlagen völlig entwickeln; welches dann , da die Naturanlage des Menschen durch seine sittliche Anlagen aufs Unendliche gerichtet ist , dahin führt , ungeachtet seiner Sterblichkeit, doch auf eine weitere Fortdauer desselben zu vermuthen , so weit nur die Erfahrung , welche hier aber gar nicht einmal möglich ist , nicht widerspricht. So vermuthen wir , der Mond , welcher , wie die Erde , seinen Dunstkreis , Meere , Berge , Tha ler , Axenumdrehung etc. hat , werde auch , wie die
+
+Erde , lebendige Bewohner haben. Man sieht aber klar , daſs die Vernunft in diesen
+
+Verfahren nicht auf Schlüsse aus der Allgemein gültigkeit der Urtheiler , sondern auf die Gewinnung der Allgemeingültigkeit selbst, mithin auf Erweiterung der Erkenntnisse gehe , und zwar durch vorläufige Urtheile ; welche aber als Re [p. 220] geln der Erfindung von groſser Bedeutsamkeit sind; wie in der Natur , so in Unternehmungen für Lebensangelegenheiten und für die Wissenschaften, z. B. für die Scheidekunst (Chemie ), die Sternkunde und die Kunde des Weltgebäudes,
+
+Die Vernunft geht durch sich selbst auf Grundsätze und muthet daher auch den Gegenständen der Gewahrung zu , dafs sie unter Grundsätzen stehen.
+
+Die Bestätigung hierzu findet sich, wenn sich vieles in der Welt aus gemeinschaftlichen Gründen erklären läſst, z. B. ein Korn , viele Körner haben das gemeinsam , daſs sie nahrhaft sind; dies giebt zu vermuthen, daſs in allen ein und derselbe (ihnen gemeinschaftliche) Grund zur Nahrhaftigkeit ohwalte und so bildet sich der Grundsatz : Kör ner sind nahrhaft, Ohne diese Annahme würden wir gar keine Grundsätze der Erfahrung haben. Durch sie aber urtheilen wir, daſs gewisse Dinge den Grund zu Etwas enthalten und verfahren nach diesem Urtheile , auch ohne daſs uns die Erfahrung das Zutreffen desselben schon gezeigt hat. So bearbeitet der Tischler seine Bretter in bloſser
+
+Voraussetzung , daſs sie ihm zu seinen Zwecken tauglich seyn werden; die vielen Bretter, welche ihm dies zeigten , geben ihm die Vermuthung, daſs alle Bretter ihm dasselbe gewähren werden.
+
+Hierbei aber waltet seine Vernunft ob und zwar durch den
+
+Grundsatz: Eins in vielen einer Art , mithin wohl in allen dieser Art.
+
+[p. 221] Man sieht hieraus , daſs auch der gemeine Verstand nach dieser Vernunftregel verfährt; indem die Erfahrungs -Erkenntnisse dieser Regel und der durch sie angenommenen Grundsätze gar nicht entbehren können.
+
+Diese Grundsätze der Verallgemeinerung und Verähnlichung erhalten je mehr Sicherheit und die
+
+Schlüsse durch sie je mehr überzeugende Kraft , je mehr Fälle sich ergeben , welche ihnen zusagen und so lange kein Fall ist , welcher ihnen widerstreitet. Dies ist also die Regel , welche die Vernunft hierzu aus sich selbst hergiebt und unter ihrer Obwaltung soll nach dieser Regel die Erfahrung gemacht werden.
+
+Die Vernunft gelangt aber, durch ihr Ausgehen auf Grundsätze, auch auf Erkenntnisse von strenger Allgemeinheit, d. h. auf solche, welche das Bewuſstseyn derNothwendigkeit durch die bloſse Denkkraft mit sich führen; man nennt sie reine Ver- nunfterkenntnisse (cognitiones apriori) im Gegensatze zu denErfahrungserkennznissen (cognitiones a posteriori). Das Bewusstseyn der Unmöglichkeit , daſs das Gegentheil (die Nichtwahrheit) eines solchen Urtheils Statt habe , zeichnet diese Art von Erkenntnissen aus.
+
+Viele dergleichen Erkenntnisse führt schon der gemeine Verstand mit sich , wenn sie ihm gleich nicht immer mit abgesonderter Klarheit vorschweben ; z.B. 1) das Nicht seyn eines Dinges lässt sich nicht em [p. 222] pfinden (nullum judicium intuitivum negat); denn je der welcher empfindet , muſs Etwas empfinden , das Nichts ist wohl denkbar, aber unempfindbar; 2) nur das , was sich den Sinnen giebt , (was ihnen gegenwärtig ist , was sich zu ihnen wie Ursache zur Wir kung verhält , was auf sie einflieſst) ist empfunden (sensus non repraesentant, nisi actualia praesentia) ;
+
+3) Kein Urtheil , das sich auf einBewuſstseyn durch Empfindung gründet , führt ein Bewusstseyn seiner Allgemeinheit mit sich (nullum judicium intuitivum est universale); denn die Gewahrung durch Empfindung ist nur die des Einzelnen. 4) Das Bewuſstseyn des Sachlichen durch die Empfindung kann die Grundlage zu keinen andern Erkenntnissen dieser Sache abgeben , als zu Erkenntnissen ihres Verhältnisses zu unsern Sinnen (omne judicium intuitivum non nisi modum aut relationem rei sensae repraesentat); denn wenn das Ding in gar keinem Verhältnisse zu dem Sinnen steht , auf keine Weise auf ihn einflieſst , so kann der Sinn auch nichts von ihm zu erkennen geben; fließt es aber auf ihn ein, so kann er nur diesen Einfluss , d. h. die Art , wie er dadurch bestimmt ist , zur Erkenntniſs geben; diese seine Bestimmtheit ist aber nicht das Ding selbst, sondern eine , aus dem Verhältnisse des Dinges zu ihm hervorgehende, Empfindungsbestimmung. 5. Die Ursachen der Dinge lassen sich nicht unmittelbar empfinden (causae rerum non immediate sentiuntur); denn das was man empfindet, ist nie die Ursache, sondern die Wirkung derUrsache.
+
+6. Ueber Urtheile , denen nur die Empfindung zum Grunde liegt , lässt sich nicht [p. 223] streiten (de gustu non est disputandum ); denn jede Empfindung ist einzeln und man kann sich nur bewusst seyn , daſs man sie so habe, nicht aber , daſs sie ein Anderer auch so habe.
+
+‫ل‬
+
+. Diese Grundsätze erzeugt sich jeder durch seine Vernunft und denkt sie ; wenn er sie gleich auch nicht mit abgesonderter Klarheitdenkt und ausspricht. Die Vernunft geht aber durch sich selbst auch noch weiter und entwirft sich Begriffe und Grundsätze , welche alle Sinnlichkeit überschwingen. Dadurch entstehen überschwengliche Begriffe (ideae , notiones ideales) und mit ihnen dieRichtung , Ueberschwengliches als wahr anzunehmen, ob es gleich kein Sinn und keine Gewahrung durch den Sinn darstellen kann.
+
+So nehmen wir erstlich gewisseBeschaffenheiten an den Naturdingen wahr , z. B. diese , daſs die Dinge durch die Natur in Gattungen, Arten und Unterarten getheilt da sind; die Denkkrft findet sich dadurch im Stande , sie nun auch so einzu .
+
+theilen; dies gefällt ihr , denn es stimmt zu ihrem Vermögen , Dinge zu regeln; aber diese Beschaffenheit der Dinge erscheint ihr doch als zufällig ; in wie ferne aber doch diese Zufälligkeit ihrem Vermögen zusagt , denkt sie sich die Natur als eine für sie zweckmäſsige Natur.
+
+Wir finden ferner viele Einrichtungen in der Natur , welche die Erhaltung und Fortpflanzung des Geschlechts bewirken. Jedes Thier, jede Pflanze bietet eine Einrichtung dar , worin alles
+
+224/ für einander wirksam ist.
+
+Die Vernunft kann sich nicht enthalten , zu denken , das sey eine Einrichtung , gleich als wenn sie durch Vernunft beabsichtigt wäre.
+
+Wir finden ferner die Einrichtung , daſs viele Dinge nur dadurch da sind , daſs andern ihnen zum Mittel ihres Daseyns dienen. Die Vernunft kann sich nicht enthalten , zu denken: der Verstand , welcher wollte , daſs jene , z. B. Thiere und Pfianzen, seyn sollten , auch haben wollte , daſs diese , z. B. Erde, Luft , Licht , Wärme etc. da seyn sollten.
+
+Aber die Vernunft frägt nun weiter: wenn eins das Mittel zum Daseyn des andern ist , wozu ist nun dieses wiederum Mittel? welches ist aber endlich dasjenige, was gar nicht mehr als bloſses Mittel zum Daseyn eines andern , sondern nur als Zweck an
+
+)
+
+sich selbst gedacht werden kann? die Natur bietet auch zu dieser Frage die Antwort durch das Daseyn der vernünftigen Wesen selbst. Denn ein solches Wesen , welches selbst ein Vermögen hat, nach der Vorstellung der Zwecke zu handen und da durch die ganze Natur , so weit sie ihm zu Gebote steht , nach seinen Zwecken zu gebrauchen , kann nicht wiederum als Mittel für die, seinen Zwecken unterworfenen Wesen gedacht werden. Aber alle diese Einrichtungen , selbst diejenige, nach welchen das Vernünftige sich als den letzten Zweck in der Natur zu betrachten hat , lassen noch die Frage übrig, nach einem Wesen, welches wir als die Ursache aller dieser Einrichtungen zu M denken denken haben und wie dies Wesen , im Verhältniſs zu solchen , klar vorliegenden , Einrichtungen, zu denken und zu bestimmen sey? Nur', daſs die Denkkraft, unter dem Namen der Vernunft , sich von selbst also schwinge und somit sich zu den überschwenglichen Begriffen, welche gar keiner Darstellung fähig , aber dessen ungeachtet von gediegener Bedeutsamkeit durch sich selbst sind; nur dies gehört in die Denklehre; aber es gehört auch zu ihr, denn die Denkkraft gebärt sie und die Denklehre hat darauf aufmerksam zu machen, wie sie sich durch die eigne und bloſse Gesetzlichkeit des Denkens im Gebrauche , d. h. durch das Urtheilen , hervorthun.
+
+Durch diese denkgemäſse Erörterung derselben kommen wir dahin , sie uns richtig auslegen zu können und aus ihnen nicht allein Folgerungen zu ziehen, sondern auch durch sie die Möglichkeit zu begreifen , wie wir unsre Erkenntnisse , über alle Sinnlichkeit hinaus , denkrichtig erweitern können. Die Vernunft mit ihrem Begriffe des
+
+‫دو‬ in aller
+
+Absicht Unbedingten " sagt nur : gieb mir , wo ich stehe : gieb mir z. B. nur Merkmale, nur Wirkungen , nur Zwecke , nur Pflicht u. s. w. , so habe ich , woich stehe , und die Dinge selbst , die Ursachen , die Endzwecke , die Fortdauer (Unsterblichkeit) u. s. w., werde ich selbst von diesem Stande (diesem Boden) aus erschwingen. So ist es also die Denklehre , welche , indem sie die Gesetze des Denkens erörtert , hiermit auch die erste Aussicht in die ernstesten und wichtigsten
+
+[p. 226] Angelegenheiten des Wissens eröffnet. Wie der Begriff des Bedingten zur bedingten Ursache führt, so führt der Begriff des Unbedingten zur unbedingten Ursache (Freiheit ); hiermit zum Sittenreiche, hiermit zum Urgrunde aller Dinge, Gottheit; hiermit zur sittlichen Obwaltung derselben u. s. w. Und so muſs das Menschengeschlecht unausbleiblich auf Sittlichkeit , Religion und Unsterblichkeit geleitet werden, bloſs schon weil es denkt , bloſs schon durch die eigne Schwingung und die Gesetzlichkeit des Denkens.
+
+Der Denklehre zweiter Theil.d >
+
+Von der
+
+Vervollkommnung der Erkenntniſs nach der Weisung des Denkens. if
+
+Vollkomme ollkommenheit ist der Inbegriff alles desjenigen , was ein Ding, vermöge Seines Begriffs, seyn soll.
+
+Vollkommenheit der Erkenntniſs ist die
+
+Allheit der zu ihr gehörigen Stücke nach den Weisungen , welche die Natur des Erkenntniſsvermögens selbst vorschreibt.
+
+Vermöge der Denkkraft gehören nun zur Vollkommenheit der Erkenntniſs,
+
+Deutlichkeit, Ordnung und Gründlichkeit. Von der Vervollkommnung der Erkenntnisse durch Verdeutlichung der Begriffe. Die Deutlichkeit der Erkenntnisse und der Verbindung derselben zu einem geordneten Ganzen, hängt ab von der Deutlichkeit der Begriffe und zwar so wohl in Rücksicht dessen , was in ihnen , als dessen, was unter ihnen enthalten ist; mithin sowohl in Rücksicht ihres Inhalts , als ihres Umfangs. 15 *
+
+[p. 228] Zur Verdeutlichung des Inhalts der Begriffe führt die Auflösung , zu der des Umfangs die Eintheilung derselben.
+
+a. Der Auflösung eines Begriffs nähert man sich durch Erörterung ( expositio ) und Beschreibung (descriptio). Die vollständige Auflösung eines Begriffs ist die Erklärung (definitio ). Die Erörterung besteht in der Erläuterung desselben aus seiner Anwendung , mithin aus Beispielen; sodaſs man von dem ihm beigesellten Fremdartigen wegsieht und die ihm wesentlichen Merkmale hervorhebt , so weit man sie durch Entwickelung gefunden hat.
+
+Die Beschreibung ist die Erörterung eines Begriffs ohne Abgemessenheit. Die Erklärung erreicht allein den vollen Zweck des Denkens , indem sie die Merkmale des
+
+Begriffs vollständig und abgemessen darstellen soll. Werden nun alle Merkmale eines Begriffs klar gemacht, sowird der Begriff vollständig deutlich, werden auch keine Merkmale, die nicht zu ihm ge hören , angeführt, so ist die Erklärung abgemessen (definitio completa et praecisa). Bei willkürlich gemachten Begriffen hat die Erklärung keine Schwierigkeit; denn wer sich einen Begriff entwirft, muſs doch die Bestandtheile angeben können , aus welchen er ihn zusammengesetzt hat.
+
+Mit gegebenen Begriffen ist es aber anders. Indessen ist es auch nicht nothwendig, daſs sie erschöpfend erklärt werden.
+
+Man reicht aus , wenn [p. 229] man nur die, zur Absicht erforderlichen Merkmale, hervorhebt. Die gegebenen Begriffe sind nun nach der Quelle, woraus uns ihr Inhalt zugeführt wird, theils sinnliche, theilsreine Denkbegriffe. Zu den sinnlichen Begriffen gehören die von Zeit und Raum , und von den Dingen, welche uns in der Zeit und im Raume vorkommen.
+
+Die Begriffe von den Dingen im Raum und Zeit können nun nicht erschöpfend erklärt, sondern nur beschrieben werden: .
+
+Die sich durch die Thätigkeit des Denkens selbst hervorthuenden Begriffe und unter diesen die überschwenglichen Begriffe, können erörtert werden. +
+
+Auch diese richtige Auslegung befriedigt schon den Verstand, indem sie solchen Begriffen die erforderli . che Klarheit und Lebendigkeit verschafft. Eine Erklärung, die weder zu weit noch zu eng , welche ausführlich und abgemessen und nicht nur bloſse Wort sondern Sacherklärung ist, ist eine hohe Anforderung der Denkkraft; da wir in der Zergliederung nur vom Unvollständigen allmälig zum Vollständigen fortschreiten können; indessenbleibt doch auch eine unvollständige Auslegung, als Theil der vollständigen, eine wahre und brauchbare Darstellung. Die Weisungen der Denkkraft bei Erklärungen sind folgende: siehe , ob die Erklärung, als ein Satz betrachtet , wahrsey; ob sie , als ein Begriff be trachtet , deutlich sey; ob sie als ein deutlicher Begriff, ausführlich und als solche zugleich be stimmt, d. h., der Sache selbst angemessen sey.
+
+[p. 230] Wenn eine Erklärung den Begriff nicht im mindesten aufklärt , falls auch andere Worte gebraucht werden sollten , so nennt man sie eine Erklärung im Zirkel (definitio in orbem : s. per circulum); z.B. das Wesen eines Dinges besteht im Wesentlichen desselben
+
+Die Erklärung gemachter Begriffe nennt man die zusammensetzende (synthetische),denn sie beruht auf der Zuusammensetzung und nicht , wie die der gegebenen Begriffe , auf Zergliederung (analysis). Einfache Begriffe können nur klar vorgestellt, nicht aber verdeutlicht , d.h. , in ihre Theile aufgelöfst werden; eben weil sie nichts zusammengesetztes enthalten.
+
+Die denkliche (logische) Klarheit des Begriffs besteht in dem Bewusstseyn desselben als solchen und in der Unterscheidung (desselben von andern Begriffen; die denkliche Deutlichkeit besteht in der Unterscheidung der Merkmale eines Begriffs.
+
+Die sinnliche (ästhetische) Klarheit besteht in der Unterscheidung eines anschaulichen Gegenstandes, von andern anschaulichen Gegenständen; z.B. des Baumes vom Steine. Die sinnliche Deutlichkeit besteht in der Unterscheidung der Theile eines anschaulichen Gegenstandes, z. B. der Theile in einem Baume.
+
+Die Beschreibung der Erfahrungsgegenstände, durch eben die zum Zwecke erforderlichen Merkmale , und die Erörterung der reinen Begriffe des
+
+Denkens, gehört zum Wesen (ad Esse); die vollstän [p. 231] dige Auflösung aber zum Bessern (ad melius Esse), dem wir uns nur zu nähern suchen müssen , soweit es möglich ist.
+
+b. Ein zweites Mittel zur Vervollkommnung der
+
+Erkenntnisse ist die Eintheilung der Begriffe. Jeder Begriff als gemeinsame Vorstellung ist durch Etwas , nicht in ihm gedachte , sondern zu ihm hinzu kommende (B) bestimmbar ; die zu ihm hinzu kommende Bestimmung (B) wird als unter ihm enthalten gedacht. Das verschiedene nun, was unter dem Begriff steht , von einander absondern und doch als in dem Ganzen enthalten darzustellen , ist das Geschäft der Eintheilung.
+
+Die bloſse Auflösung theilte den Begriff nur in seine Merkmale; die Eintheilung aber scheidet die unter einem Begriffe enthaltenen Begriffe von einander. Durch die. Auflösung gehen wir von den Unterbegriffen zu den Obern; durch die Eintheilung von den Oberbegriffen zu den Untern. Der Unterbegriff enthält den Obern, aber noch mehr als den Obern ; dies Mehre kann daher nicht durch bloſse Auflösung des Obern dargelegt werden.
+
+Aus dem Begriffe der Eintheilung ergeben sich also folgende Regeln. 1. Jede Eintheilung muſs einen Eintheilungsgrund haben; diesen hat sie an dem Merkmale B, welches der Unterbegriff mehr enthält, als der Oberbegriff (A). Dieses Merkmal B nun begründet die Eintheilung und giebt die Eintheilung desA in B und Nicht B
+
+[p. 232] 2. Die Unterbegriffe Bund Nicht B müssen den Oberbegriff A gemein haben; denn das heifst eben, sie stehen unter A.
+
+3. Die Unterbegriffe oder Eintheilungsglieder B und Nicht B müssen einander ausschließen und doch zusammen alle mögliche Begriffe (das Ganze, die Allheit derselben) ausmachen , welche unter dem höhern (A) stehen. Die Angabe einer Bestimmung (B) mit ihrer Verneinung (Nicht B) ist die erste und ursprüngliche Handlung. Sie giebt eine zweigliedrige Eintheilung (divisio bimembris , dichotomia). Aber in dieser Regel liegt auch schon durchs Denken selbst der Aufruf, weiter zu gehen; denn der Urtheilsgang, A ist entweder B oder Nicht B , enthält eben durch den Gedanken , daſs B und Nicht B das Ganze des unter A bestimmbaren ausmachen , die Weisung: einen Begriff durch alle mögliche , unter ihm denkbaren Bestimmungen bejahlich oder verneinlich weiter zu bestimmen; das heiſst ja aber eben so viel : als sich mit der zweigliedrigen Eintheilung nicht begnügen.
+
+Durch die weitere Ausführung dieser Regel nun entstehen 1) Nebeneintheilungen (codivisiones), d. h. , Eintheilungen eines und desselben Begriffs (A) nach verschiedenen Eintheilungsgründen ; z. B. die Menschen sind in Ansehung der Farbe entweder weiſs oder nicht weiſs; in Ansehung der Aufführung entweder gesittetoder nicht gesittet; 2) Untereintheilungen (subdivisiones) , d. h. , Eintheilungen der Unterbegriffe B und nicht B , z. B. die
+
+[p. 233] Menschen sind entweder weiſs oder nicht weiſs; die nicht weiſsen entweder braun oder nicht braun u. s. w. Die Denkkraft enthält aber auch nicht allein in sich selbst schon eine Richtung zur vielgliedrigen Eintheilung , sondern liefert auch aus sich selbst Be . lege dazu ; so giebt sie z. B. den Beleg zur dreigliedrigen Eintheilung dadurch , daſs sie sich durch sich < selbst als ein Vermögen der Begriffe , der Urtheile und der Schlüsse ausweist. Der Begriff der Bedingung des Bedingten und der Ableitung des Bedingten von seiner Bedingung , giebt ebenfalls dreigliedrige Eintheilung etc. Die Eintheilung ist nun die Handlung , wodurch
+
+Ordnung und Gebäudlichkeit (System) in die Erkenntnisse gebracht wird.
+
+Wir haben dadurch eine Leitung , um denUmfang bestimmterKenntnisse vonjeder andern Art zu scheiden und zu übersehen. Auch kommen wir dadurch in den Stand, auf jede Erkenntniſs eines gewissen Umfangs zu gelangen , ohne bei irgend einer vorbeizugehen; denn auch die nicht erhaltenen Kenntnisse dieses Umfangs sind zum wenigsten unter Einem der Eintheilungsgliede (entweder unter B oder unter nicht B ) enthalten. Auch sind wir dadurch , daſs wir eine Wissenschaft gebäudlich (systematisch) besitzen , im Stande, uns in derselben zu ostnen und zurecht zu finden (zu orientiren).
+
+Die bloſse Auflösung des Begriffs A, geht auf deutliche Bewissung dessen , was in ihm zusammengefasst ist; ihre Regel ist: sich in dieser Zerlegung nur nicht zu widersprechen. Die Eintheilung [p. 234] aber geht auf Erweiterung der Erkenntniſs durch den Begriff , indem man das unter ihm weiter Bestimmbare durch Neben- und
+
+Unter - Eintheilungen verfolgt. Ihre Regel ist: alles unter dem Begriff A Bestimmbare gebäudlich aufzuführen.
+
+Das Widerspiel der Verdeutlichung ist die Verfinsterung (machs dunkel ! Skotison! ) ; diese ist das Steckenpferd solcher Vernünftler , welche sich durch Herumtreiben mit gehaltlosen Begriffen doch gern das Ansehen tiefer Weisheit geben wollen, mit der Miene, daſs Andere sie nur nicht erreichen und verstehen könnten.
+
+Die Denkkraft aber fordert
+
+Einfalt , Klarheit und Deutlichkeit, und es ist ein eitles Vorgeben , etwas zu wissen , was , wenn es nur deutlich gemacht wird, nicht auch andern zugänglich und vernehmlich werden könnte. Das Widerspiel der Ordnung ist die Verwirrung , die auch wohl geflissentlich und erkünstelt seyn kann , weil bei gesetzlicher Eintheilung und denkgemäſsem Fortgang von Einem zum Andern, die öfters dreisten Behauptungen ihre Blöſse nicht verbergen würden. Ein Unternehmen dieser Art kann sich wohl eine Weile halten und selbst dem Verwirrer einige Zeit den Schein eines Wundermannes leihen ; allein wenn alle wahrhaft Lernbegierige doch immer von ihm scheiden , ohne die angeblich tiefe Weisheit ergriffen zu haben: so setzt sich ihre eigne Denkkraft in ihr Recht und lässt den Gaukler stehen ;
+
+denn des Denkens Ernst dringt auf Einfalt durch
+
+[p. 235] Deutlichkeit und Ordnung , und lässt sich nicht spotten.
+
+c. Eine dritte Art , die Erkenntniſs zu vervollkommnen, ist die Gründlichkeit.
+
+Die Denkkraft begegnet jedem Urtheiler und jedem Behaupter mit der ernsten Frage : Freund, woher weißt du das ? Eine , dem Behaupter öfters sehr lästige , aber vermöge des eigengesetzlichen Schwungs der Denkkraft gar nicht abweisliche Frage. Die Denkkraft geht auf Wahrheit. Hiermit will sie , daſs ein Urtheil , mag es auch immer nur ein Einzelner seyn , welcher es ausspricht, den Werth habe , für die gesammte Welt denkender
+
+Wesen zu gelten. Das nun , was dem Urtheile diesen Werth giebt , ist das Bewuſstseyn des Einzelnen in sich selbst , nur so und nicht anders urtheilen zu können , also das Bewuſstseyn der Nothwendigkeit, so , und der Unmöglichkeit , anders urtheilen zu können. Dasjenige aber , was ihn in diesen Zug des Urtheilens versetzt , ist das Bewusstseyn der Gründe des Urtheilens.
+
+Diese Beschaffenheit und Einrichtung unsers Denkens , beim Urtheilen im Zuge der Nothwendigkeit durch Gründe zu seyn , kann man nicht anders , als den göttlichen Zug desselben nennen; denn wir sind in demselben, nicht , als gäben wir ihn uns selbst, sondern , gleich wie wenn das Urwesen der Dinge selbst durch ihn spräche.
+
+Daher ist die Wahrheit heilig und, was einMensch auch immer nur wider sie wollen möge , so ist er doch , denkkräftig und denkgemäfs verfahrend, [p. 236] innerlich immer im Zuge für dieselbe und den Gründen der Wahrheit denkgemäſs widerstehen, ist denkgemäſs unmöglich.
+
+Es ist daher auch eine wichtige Angelegenheit der Denklehre , diesen Zug durch Gründe des Urtheilens , so wie er inder Denkkraft liegt , zurDeutlichkeit und dadurch zum klaren Bewuſstseyn der Regel, wodurch er sich schwingt , zu erheben. Die Gründlichkeit der Erkenntniſs erfordert
+
+Begründung ; eine Erkenntniſs aber begründen, heiſst beweisen.
+
+Wenn wir von einer Wahrheit (einem Urtheil, einer Erkenntniſs) nicht schon durch die Anschauung überzeugt sind , auch die bloſse Verdeutlichung und Auflösung unsers Gedankens diesen Zug der Nothwendigkeit nicht geben kann , so ist das Mittel dazu der Beweis.
+
+Dieser Beweis ist das Verfahren , ein Urtheil aus einem andern abzuleiten. Ist das Urtheil, woraus ein anderes abgeleitet wird , nicht durch sich selbst feststehend, so muſs es wiederum aus einem andern abgeleitet werden , und dieser Gang geht denkgesetzlich so weit , bis man zu einem Urtheile kommt, welches zur Würde, eine Wahrheit zu seyn, kein anderes mehr voraussetzt. Alle Beweise sind Vernunftschlüsse.
+
+Zu jedem Beweise gehört ein anfängliches Urtheil, als Grund der Wahrheit des zu erweisenden Satzes (argumentum). Sind mehrere Gründe vorhanden, so ist der stärkste unter ihnen der Hauptgrund, und wenn der Beweis durch eine Kette von Gründen geführt [p. 237] wird, so ist derjenige , von welchem alle übrigen abhängen , der oberste und eigentliche Beweisgrund (nervus probandi). Die Vollständigkeit der Beweisgründe (ohne Lücke und Sprung) , die gesetzmäſsige Stellung der Vordersätze , und Abhängigkeit des Bewiesenen von seinem Beweisgrunde (der Zug derNothwendigkeit),machen denBeweis vollkommen. Man theilt die Beweise in die unmittelbaren (probatio directa) und die mittelbaren (probatio indirecta s. apogogica). Der unmittelbare Beweis ist derjenige, welcher den zu beweisenden Satz als unmittelbare Folge anderer Wahrheiten darstellt; er leitet also die Wahrheit eines Urtheils unmittelbar aus ihren Erkenntniſsgründen her.
+
+Diese Beweisart führt in die Sache selbst , und wer sich derselben bedient , setzt Andere in die Fassung , auch selbst auf die Sache einzugehen und sich so, sowohl die Erkenntniſs selbst als auch das Bewuſstseyn der Nothwendigkeit derselben , zu verschaffen. Diese Beweisart ergötzt und belebt; sie führt nicht allein zu groſsen Wahrheiten , sondern auch zur Begreiflichkeit derselben; d. h., zurEinsicht des Zusammenhangs der Erkenntniſs mit ihren Gründen. Zum Beispiel: wenn Jemand zu dem Urtheile : es ist ein Gott , dadurch geführt wird, daſs er selbstdenkend inne wird , wie sich in ihm durch die bloſse Denkkraft der Begriff des Urwesens hervorthue; wie sich in ihm durch seine bloſse Vernunft eine sittlicheGesetzgebung hervorthue; wie dies [p. 238] se unausbleiblich auf einen sittlichen Urheber und
+
+Regierer der Welt leite u. s. w. Die mittelbare Beweisart ist diejenige , welche die Wahrheit eines Satzes dadurch zu beweisen sucht , daſs sie zeigt , die Annahme der Wahrheit seines Gegentheils leite auf Folgen, welche einer anerkannten Wahrheit widerstreiten.
+
+Z. B.
+
+wenn man die Fortdauer des Menschen nach seinem
+
+Tode dadurch beweist , daſs man zeigt , die Annahme der Nichtfortdauer desselben widerstreite der anerkannten Wahrheit , daſs der Mensch unter sittlichen Gesetzen stehe. al
+
+Es liegt also dieser Beweisart der Gedanke zum Grunde: daſs man , wenn die Gründe, von welchen eine Erkenntniſs abzuleiten ist , zu mannigfaltig sind oder zu tief liegen , versuchen müsse , sie durch ihre Folgen zu erreichen. Da schliefst man erstlich durch Setzung (mo do ponente); indem man den fraglichen Satz (z. B. der Mensch dauere fort) als wahr annimmt und nun die Wahrheit dieses Satzes aus der Wahrheit aller aus ihm ziehlichen Folgen zu beweisen sucht. Dieser Beweis bindet , wenn alle mögliche Folgen wahr sind; denn alsdann ist zu diesem auch nur ein einziger Grund (die Fortdauer des Menschen) möglich, der also auch der wahre ist. Es geht aber über unsre Kräfte , alle mögliche Folgen von irgend einem angenommenen Satze einzusehen; bevor aber dies nicht geschehen ist, kann man auch den Schluſs nicht ziehen , sondern es bleibt bei der Annahme : daſs, [p. 239] wenn alle versuchte Folgen mit dem angenommenen Grunde übereinstimmen , auch alle übrige mögliche dazu einstimmen werden; dies ist aber noch nicht der Beweis , sondern nur erst das Verfahren , den Beweisgrund zu finden. Man schliefst zweitens durch Nichtsetzung , (modo tollente) indem man die Nichtgültigkeit des fraglichen Satzes als wahr annimmt und nun , wie oben schon bemerkt ist , daraus , daſs eine Folge aus der Nichtsetzung dieses Satzes mit einer anerkannten Wahrheit in Widerspruch stehe , auf die Wahrheit des fraglichen Satzes schliefst. Kann man den Beweis so führen, so beweist er leicht und strenge; allein dies giebt doch keine Einsicht der Sache selbst. Besser ist es daher , sich der mittelbaren Beweisart zu bedienen. Diese hat zwar ihre Schwierigkeiten , denn sie verlangt , daſs man die ganze Reihe der Gründe durchlaufe , um so auf die Wahrheit der Erkenntniſs vermittelst der vollständigen Einsicht ihrer Möglichkeit zu gelangen ; aber sie gewährt auch mit der Ueberzeugung von der Wahrheit zugleich die Einsicht der Quellen derselben. Die Gründlichkeit der Erkenntniſs führt zur Gewiſsheit, denn die richtigeAbfolge einer Wahrheit aus einer andern, als ihrem Grunde, läſst keine Ungewiſsheit zu. Durch die Ordnung gründlicher Erkenntnisse entsteht Wissenschaft.
+
+Jeder Grund kann aber wiederum in Anspruch genommen werden, und dies geht so weit, bis man zu Wahrheiten vorgedrungen ist, die ihre Gewifsheit [p. 240] unmittelbar bei sich führen.
+
+Das Daseyn solcher Wahrheiten bezweifeln oder gar leugnen, ist eben so viel , als das Daseyn des Erkenntniſsvermögens , des Anschauungs- und Denkvermögens selbst, bezweifeln oder leugnen, mithin z. B. durch Vernunft bezweifeln, oder leugnen, daſs es eine Vernunft gebe.
+
+Dies wäre die Zweifelsucht oderLeugnungssucht instrenger Bedeutung; eine Verirrung, welche schwerlichje einen ernsten Anhänger gehabt hat. Hier, von ist gar wohl zu unterscheiden die ernste Untersuchung aller Behauptungen (Skepsis) , nicht um Wahrheiten aufzuheben , sondern die Haltbarkeit der für sie aufgestellten Gründe inAnspruch zu nehmen und somit ihre Haltbarkeit oder Unhaltbarkeit darzuthun. Das bloſse Bezweifeln oderLeugnen aber, ohne sich auf Gründe einzulassen, ist dem denkgerechten
+
+Verfahren nicht angemessen; gleich wie es dem Ver stande nicht zusagt , immer nur den Tadler der
+
+Behauptungen zu machen, ohne je selbst bewähr . tere dagegen aufzustellen. Druckfehler. Seite.Zeile.
+
+Seite. Zeile.
+
+11.
+
+11. lies Punkten
+
+20.
+
+7.
+
+Urgestirn
+
+41. 24. 41. 25.
+
+d. W. wie wir sollen
+
+56. 18. 62. 7. 62. 28.
+
+83.
+
+73. 26. 81. 19.
+
+2.
+
+83. 26.
+
+"
+
+88. 2. lies aus d. sind,
+
+92. 19.
+
+diesen beig.
+
+97. 26.
+
+(Nichtzufäll. )
+
+104.25.- eine andere Pers.
+
+eine Folge
+
+113. 15.
+
+w. die Denkkraft d.
+
+und der Kr. Habe
+
+121. 10. 128. 11.
+
+der Kräfte das eine Etw.
+
+durch ihn
+
+146. 11. — durchtönte über welcher anf. vork .
+
+155. 15. 156. 24.
+
+nichts mehru.nichts welchen die Urth
+
+Wandelsterne
+
+176. 24.
+
+jederGegenstand ist

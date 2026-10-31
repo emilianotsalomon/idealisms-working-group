@@ -1,0 +1,7517 @@
+---
+title: Die ersten Anfangsgründe der reinen Mathematik, 2. Auflage
+author: Johann Gottfried Carl Christian Kiesewetter
+year: 1804
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: as converted
+source: "Berlin: Quien 1804; from a scan in Seinsbyte's library; this file is the source, corrections go here"
+original_text: "ROUGH OCR, not corrected page by page: about 11% (formulas) of words were wrong on a 5-page sample (2026-10-25). Google's text layer of the scan, with free rule fixes, a second OCR reading (tesseract) and a scan check of the doubtful places; read it beside the scan, do not cite from it"
+translation: none
+canonical: "[p. N] marks printed page N where its folio could be read from the scan; a page without a legible folio carries none"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: It was printed in 1804; author and edition are long past every protection, so it is free to publish.
+generated: 2026-10-25 by .scratch/idealisms-wg/circle_editions2.py (library)
+---
+
+# Johann Gottfried Carl Christian Kiesewetter, *Die ersten Anfangsgründe der reinen Mathematik, 2. Auflage* (1804)
+
+Conventions: [p. N] marks printed page N where its folio could be read from the scan; a page without a legible folio carries none; paragraphs as the conversion found them; `*…*` is emphasis where the text layer kept it. Generated file — see the header for where corrections belong.
+
+Math P.
+
+& methodi 149. Mathesis.
+
+Syftemata
+
+7.1.
+
+Die '
+
+Anfangsgründe reinen
+
+Mathematik zum
+
+Gebrauch für den Unterricht von
+
+J.
+
+G.
+
+Kiese wetter,
+
+Doktor und Professor der Philosophie.
+
+Zweite verbesserte und von Druckfehlern gereinigte Auflage.
+
+Mit 11 Kupfertafeln.
+
+Berlin, bei
+
+Quien.
+
+1804.
+
+BIBLIOTHECA REGIA MONACENSIS Bayerische Staatsbibliothek München
+
+## Borrede
+
+Wenn je ein Buch
+
+Auflage.
+
+einer Vorrede bedurfte, um den Leser in den Stand zu sehen, dasselbe aus dem rechten Gesichtspunkt zu betrachten, so ist es das gegenwärtige, wodurch der Verfasser die nicht geringe Anzahl der Lehrbücher der reinen Mathematik vermehrt. Daß die reine Mathematik nicht blos wegen ihrer Verbindung mit andern Erkenntniſſen von großer Wichtigkeit sey, sondern daß das Studium derselben auch an sich ungemein viel zur Bildung des Kopfes beitrage, ist eine allgemein anerkannte Wahrheit. Anders aber muß der Vortrag beschaffen seyn, wenn man den Schüler blos mit den Säßen dieser Wiſſenschaft zu anderweitigem Gebrauch bekannt ma chen will, anders wenn man überdies noch die Ausbildung seiner Erkenntnißkräfte
+
+[p. iv] Hauptzweck mit vorsetzt.
+
+Das öffentliche Amt, was ich bekleide, seht mich in die lettere Verbindlichkeit; da fand ich nun, daß die bisherigen Lehrbücher in dieser Rücksicht nicht leisteten was ich wünschte, ob sich gleich gegen die Richtigkeit des Inhalts derselben und die Genauigkeit der Darstellung nichts sagen läßt. — Gehört die Bildung des Kopfs zu den Hauptzwecken des Lehrers der reinen Mathematik, so muß er zuvorderst darauf sehen, daß in den Schülern die Erkenntnißkräfte geweckt werden, und daß sie Interesse für die Wissenschaft bekommen.
+
+Gemeinhin will man das Interesse dadurch hervorbringen, daß man viel von dem mannigfaltigen Nutzen dieses Studiums spricht, allein diese Darstellung wird immer nur aus ganz allgemeinen Vorstellungen, bestehen und also nicht eindringlich seyn können, da der Schüler die Wissenschaft selber noch nicht kennt, von deren Nutzen man ihn überzeugen will.
+
+Mir scheint es, daß man einen andern Weg einschlagen müsse, um dieses Interesse hervorzubringen.
+
+Alles, was uns einige Mühe kostet, wo wir aber zum Ziele gelangen, macht uns Vergnügen und intereſſirt uns.
+
+Der Vortrag muß also so eingerichtet werden, daß der Schüler nicht blos zu verstehen und zu begreifen [p. v] strebt, was der Lehrer ihm sagt, sondern daß ihm kleine Aufgaben vorgelegt werden, an deren Auflösung er sich macht, woran er seine Kräfte übt, und wo die gefundene Wahrheit ihm Vergnügen gewährt. Bei der gewöhnlichen Einrichtung der Lehrbücher der reinen Mathematik, ſtand vollständig ist der Gegenabgehandelt und der Lehrer kann bei dem mündlichen Vortrage höchstens ein wenig ausführlicher das wiederholen, was im Buche steht.
+
+Schon für den Lehrer eine langweilige Sache; der Schüler hingegen beweiset nur halbe Aufmerksamkeit, er weiß, das was der Lehrer sagt, steht auch im Buche, und das beſitzt er ja.
+
+Meines Erachtens müßte das Lehrbuch nicht alles enthalten, nur so viel, daß der Schüler bei eigenem Nachdenken das übrige finden kann.
+
+So kommt er vorbereitet zum mündlichen Unterricht des Lehrers, seine Erwartung ist gespannt, ob das, was er gefunden hat, mit dem übereinstimmt, was der Lehrer sagt, und ist dies der Fall, welche Freude für ihn; ist dies nicht der Fall, so hat er entweder das Vergnügen, einen Beweis gefunden zu haben, der von dem, welchen der Lehrer vorträgt, abweicht, aber doch auch die Wahrheit darthut, oder wenn er auch einen falschen Weg [p. vi] einschlug, hat er wenigstens den Nutzen, daß er sieht, woher es kam, daß er irrte; und endlich selbst dann, wenn die Winke, die in dem Lehrbuche gegeben wurden, für ihn nicht hinreichend waren, wird der Vortrag des Lehrers für ihn großes Interesse haben, weil die Schwierigkeiten, mit denen er zu kämpfen hatte, dadurch gehoben werden. Doch muß, wie sich dies von selbst versteht, das Lehrbuch so vollständig seyn, daß es dem Schüler bei der Wiederholung, den Vortrag des Lehrers ins Gedächtniß leicht zurückrufe. So viel im Allgemeinen über die eigenthum liche Beschaffenheit eines Lehrbuchs der reinen Mathematik, die, wie ich glaube, wenigstens nicht unzweckmäßig ist; jetzt ein Paar Worte über das meinige.
+
+Ich habe die oben angegebenen Ideen dabei vor Augen gehabt; es ſoll dem Schüler zur Vorbereitung auf den Vortrag des Lehrers und zur Wiederholung desselben dienen und dem Lehrer Gelegenheit geben, die Erkenntnißkräfte der Schüler zu entwickeln. Dies lettere habe ich nun auf mannigfaltige Weise zu bewirken gesucht.
+
+Um dem Verſtand
+
+Gelegenheit zu verschaffen, Gegenſtände untereinander zu vergleichen, die Merkmale, worin sie übereinstimmen und die ihr Wesen ausmachen, von denen abzusondern, in denen sie sich unterscheiden, und so einen deutlichen allgemeinen Begriff zu bilden, habe ich z. B. in der Geometrie Figuren gezeichnet, aus welchen der Schüler die zu findende Definition leicht ableiten kann;
+
+oft habe ich durch Fragen,
+
+Beantwortung dem Schüler nicht schwer fallen kann, die Begriffe deſſelben zu erläutern geſucht; oder ihm Gelegenheit gegeben, algebraische Formeln in Worten auszudrücken, nachdem vorher mehrere derselben in Worten übersetzt waren. — Ich habe ihm anfänglich die allgemeinen Säße der Geometrie
+
+Figuren erläutert und ſie ihm dadurch anschaulich gemacht; in der Folge dies nur bei schweren Sähen gethan, sonst es ihm aber völlig überlassen, diese Figuren nach Angabe des Satzes zu verzeichnen.
+
+Die Beweise der ersten Lehrfäße habe ich vollständig geführt, in der Folge aber, wenn der Beweis nicht zu schwer war, bloß Fingerzeige zur Findung des Beweises gegeben, oder ihn auch wohl in der Geometrie ohne eine dazu gezeichnete Figur geführt, so daß der Schüler die Figur sich dazu zeichnen muß; ein vortreffliches Mittel zur Ausbildung der Imagination.
+
+Auf eine ähnliche Weise habe ich bei den Aufgaben verfahren; anfänglich findet sich bei denselben Aufldfung [p. viii] und Beweis, in der Folge aber, wenn die Schwierigkeit nicht zu groß war, bloß die Auflösung, ohne Beweis, oder auch wohl keins von beiden, und höchstens ein bloßes Hinweisen, auf welchem Wege man zur Auflösung gelangen könne.
+
+Ist die Auflösung gefunden, so hat es mit dem Beweise überdies keine Schwierigkeiten.
+
+So wird der Verstand nicht bloß belehrt, sondern auch angetrieben, seine Vorstellungen sich selbst deutlich zu machen, die Urtheilskraft im Vergleichen geübt, und die Vernunft erhält Gelegenheit, Gründe für die Wahrheiten aufzusuchen, um sie zu begreifen, wodurch das systematische Denken befördert wird; auch -erhält Die Imagination Gelegenheit, allgemeine Begriffe anschaulich darzustellen. Meine mehrjährige Erfahrung hat mich überzeugt, daß der Vortrag auf diese Weiſe_nüßlich und intereſſant ſey; meine Zuhörer besuchen meine mathematischen Vorlesungen mit Lust, es entsteht bei ihnen ein Wetteifer, und ich habe bei denen, mit welchen ich in näherer Verbindung stehe, mit Vergnügen gefunden, daß das Studium der Mathematik für die Cultur ihrer Seelenund Geisteskräfte von augenscheinlichem Nutzen war. Dies ist der Gesichtspunkt, aus welchem, [p. ix] wie ich wünschte, die sachkundigen Recensenten dies Lehrbuch betrachten möchten.
+
+Der Zweck ist, wie ich glaube, nicht zu tadeln; möchte die Beschaffenheit der Mittel den Beifall der Kenner erhalten
+
+Berlin den 30. April 1799.
+
+## Borrede
+
+[p. x] zweiten
+
+Der Umstand, daß in
+
+Auflage.
+
+mehreren
+
+Städten
+
+Deutschlands dieses Lehrbuch beim öffentlichen Vortrage zum Grunde gelegt worden, hat eine neue Auflage deſſelben nothwendig gemacht. Der Verfasser findet sich auf der einen Seite sehr geehrt, daß man seine Idee zu einem Lehrbuch der Anfangsgründe der reinen Mathematik annehmlich gefunden; aber es war auch dies auf der andern Seite eine wichtige Aufforderung für ihn, dasselbe zu vervollkommnen durch zu und das einer Grundlage des Unterrichts geschickter zu machen.
+
+Mehrere Dinge sind in dieser Auflage geändert, die der Verfaſſer beim mündlichen Vortrage tadelnswerth fand, mehrere Zusätze sind hinzugekommen, wo der Verf. Vollständigkeit vermißte; manches, z. B. die Lehre von den Logarithmen ist umgearbeitet, um [p. xi] die Verständlichkeit zu erleichtern, und endlich sind mit Sorgfalt die vielen Sinn entstellenden und verwirrenden Druckfehler verbessert.
+
+Dadurch glaubt der Verfasser seinem Lehrbuch einen größern Werth gegeben zu haben. Um das Selbststudium der Mathematik nach diesem Lehrbuch zu erleichtern, hat der Verf. so wie zu der ersten Auflage Erläuterungen deſſelben besonders drucken laßen. Sie sehen den Schüler in den Stand zu sehen, ob er durch die Anleitung des Lehrbuchs wirklich die Wahrheit gefunden, und ſie helfen ihm fort, wenn er troß aller angewandten Mühe nicht glücklich in seinem Bestreben war. Die S. 335 aufgestellten Fragen sind logische Titel, unter welche die vornehmsten Säße der Planimetrie geordnet werden können, und so eine leichtere Uebersicht gewähren.
+
+Auch können sie dem Schüler den Unterschied zwischen blos logischer und architectonischer Anordnung der Säge einer Erkenntniß deutlich machen.
+
+Berlin den 12. April 1804.
+
+## Einleitung.
+
+[p. xii]
+
+§. I. ie Mathesis oder Mathematik beschäftigt ſich mit den Größen. enthält
+
+Der Begriff der Größe das Merkmal der Vielheit,
+
+Einheit entgegengesezt ist.
+
+welche der
+
+Vielheit aus der Einheit, die mit ihr gleichartig ist, ents ſprüngen vorgestellt.
+
+In so fern an einem Gegenstande diese Vielheit betrachtet wird, legt man ihm Größe (Quantität) bei, und er wird deshalb selbst eine Größe (Quantum) genannt.
+
+§. II. Die Mathematik zerfällt in zwei Theile, in die reine und in die angewandte.
+
+Jene betrachtet die Größe (Quantität) oder die Größen (quanta) an sich, ohne auf Gegenstände der Erfahrung Rücksicht zu nehmen, denen Quantität zukommt.
+
+Diese beschäftigt sich mit wirklichen
+
+Gegenständen der Erfahrung, in so fern sie als Größen betrachtet werden; ſo beſchäftigt ſich z. B. ein Theil der angewandten Mathematik, der den Namen der Optik führt, mit dem Sehen, in so fern Größe dabei statt findet;
+
+die Zinsrechnung [p. xiii] beschäftigt sich mit den Größen in so fern sie bei Nur Capitalien und Zinsen vorkommen u. s. w. die reine Mathematik ist der Gegenstand dieses Lehrbuchs.
+
+§. III. Betrachtet man bei
+
+Größe blos
+
+Quantität, d. h. die Vielheit derselben, in Rück. sicht auf eine bestimmte Einheit, so heißt
+
+Größe selbst diskret oder unterbrochen.
+
+diskrete Größe, die man auch Zahl nennt, wird dadurch erzeugt, zu sich hinzufügt.
+
+daß man die Einheit successiv Die Zahl, die also mehrere verbundene Einheiten enthält, entsteht aus der gegebenen Einheit. Betrachtet man die Quantität nicht abgesondert, ſondern an einem Gegenstande, (der aber in der reinen Mathematik nicht empirisch sein darf) , so ist, an diesem Gegenstande auch noch die Qualität desselben in Erwägung zu ziehen; d. h. man muß auf die Verbindung der Theile zu einem Ganzen als Gegenstand
+
+Bei den diskreten Größen steigt man von den Theilen (von der Einheit) zu dem Zusammengesetzten durch die Synthesis auf, bei reinen (nicht empiriſchen) Quantis steigt man von dem Zusammengesezten durch die Theilung zu Theilen herab. Da nun in einem solchen Quanto keine bestimmten Theile sich finden, so wird das Ende eines angenommenen Theils immer der Anfang des folgenden seyn, und daher nennt man diese Größen continuirliche oder fließende,
+
+XIV. oder stetige.
+
+es
+
+Sie bestehen zwar aus Theilen, wird keine bestimmte Einheit gegeben, aus der sie zusammengesezt sind; zum Beispiel kann eine Linie dienen.
+
+§. IV. Nach dieser Eintheilung der Größen zerfällt die reine Mathematik in zwei Haupttheile, in die 删 Lehre von den diskreten Größen oder Zahlen, Arithmetik, und in die Lehre von den continuirlichen Größen. ßen, die kein
+
+Zu den continuirlichen Grö-
+
+Gegenstand der Erfahrung sind, (welches von einem Gegenstande der reinen Mathematik gefordert wird) gehört der Raum;
+
+derjenige Theil der reinen Mathematik, der sich mit dem Raume als continuirlicher Größe beſchäftigt heißt Geometrie.
+
+Erklärung des Ausdrucks
+
+Geometrie und warum man den Theil der Mathematik der diesen Namen führt, so benannt ― Man fügt zu beiden Wissenschaften noch die Trigonometrie hinzu, die eine Anwendung der Arithmetik auf die Geometrie zur Bestimmung der Seiten und Winkel der Dreiecke ist.
+
+S. V. Diese genannten Theile der reinen Mathematik zerfallen jeder wiederum in die niedere und höhere.
+
+Die erstere soll die Anfangsgründe der
+
+Wissenschaft vortragen, die andere fängt da an, wo jene aufhört, und kann dem Wesen der Wissenschaft gemäß, bis ins Unendliche fortgehen.
+
+[p. xv] Was man zur niedern Arithmetik rechnen will, ist bis jetzt noch ziemlich unbeſtimmt; zur gemeinen oder Elementargeometrie rechnet man alle die Säße,
+
+Darstellung blos die grade
+
+Kreislinie erfordert, und zur gemeinen Trigonometrie, was aus der Verbindung der alles das, gemeinen Arithmetik und Elementargeometrie zur Bestimmung der Seiten und Winkel der Dreiecke ſich ergiebt.
+
+§. VI. Man theilt die Wissenschaften in Erfahrungsund Vernunftwissenschaften; jene beruhen auf Erfahrung, (ſinnlicher Wahrnehmung durch Empfindung) diese nicht.
+
+So sind z. B. die Geschichte,
+
+Chemie, Arzneikunde u. s. w. ſchaften.
+
+Erfahrungswissen-
+
+Die Vernunftwissenschaften unterscheiden sich von ihnen dadurch, daß ihre Säße strenge
+
+Allgemeinheit und Nothwendigkeit bei sich führen, welches bei den Erkenntniſſen die auf sinnlicher Wahrnehmung beruhen, nicht statt findet, weil die sinnliche Wahrnehmung daß und wie etwas ist, uns wohl lehren kann, aber nicht, daß es so sein muß.
+
+Die reine Mathematik ist keine Erfahrungs sondern eine Vernunftwissenschaft, weil ihre Säße auch strenge Allgemeinheit und Nothwendigkeit haben, welche die Erfahrung nicht geben kann.
+
+Vernunftwissenschaften giebt es zwei,
+
+Philosophie und Mathematik; die lettere unterſcheidet sich darin von der erstern, daß sie ihre Begriffe in der Anschauung darstellt, welches jene [p. xvi] nicht thut.
+
+In der Geometrie werden die Figuren gezeichnet, in der Arithmetik bedient man sich ebenfalls sichtbarer Zeichen.
+
+Daher sagt man auch die Erkenntnisse der Mathematik ' sind intuitiv, die der Philosophie discursiv; so wie man eben deshalb den Wahrheiten der erstern Evidenz beilegt. -
+
+Eine Anschauung machen, die einem Begriffe gemäß ist, heißt diesen Begriff construiren. Dies thut der Mathematiker, er verzeichnet seinem Begriff gemäß ein Dreieck, er stellt seine
+
+Zahlbegriffe in Ziffern dar; daher ſagt man auch die Mathematik sey die Vernunftwissenschaft aus der Construktion der Begriffe.
+
+Alle Construktion ist zwiefach, entweder ostensiv, wo der Gegenstand selbst dargestellt wird, dies geschieht in der Geometrie, daher dieſe Conſtruktion auch die geometrische genannt wird; oder symbolisch, wo man sich die Begriffe nur durch intuitive Zeichen versinnlicht, dies geschieht in der Arithmetik. Die Anschauungen, in denen der Mathematiker ſeine Begriffe darlegt, dürfen nicht empirisch seyn (zur Erfahrung gehören) ; bei der symbolischen Construktion in der Arithmetik, wo die Anschauungen blos Zeichen der diskreten Größen sind, haben sie keinen Einfluß auf den Grad der Gewißheit der dadurch bezeichneten Wahrheiten; bei der ostensiven Construktion in der Geometrie hingegen, wo der Begriff selbst anschaulich dargestellt
+
+$ wird, darf die Anschauung nicht empirisch seyn. Die Vorstellung des Raums, die den Construk tionen der Geometrie zum Grunde liegt, ist aber [p. xvii] auch nicht empirisch, beruht nicht auf Empfindung, sondern ist im Anschauungsvermögen des Menschen selbst gegründet. Ein Saß deſſen Beweis hier nicht geführt werden kann, gehört.
+
+sondern in die Philosophie
+
+Daher abstrahirt auch der Geometer bei seinen Verzeichnungen von allem Empirischen, worauf die Figuren gezeichnet, womit sie gezeichnet u. s. w. , und behält in der Anschauung blos die Merkmale im Bewußtsein, die der Begriff, den er construirte, enthält.
+
+Denkt er sich z. B. ein geradlinigtes Dreieck mit drei gleichen Seiten, und verzeichnet er nun ein solches, so abstrahirt er bei der anschaulichen Darstellung ganz von dem Papier worauf sie sich findet, von der Tinte mit der ſie gemacht ist, ja ſelbſt von der beſtimmten Länge der gezeichneten Seiten, daß jede z. B. 3. Zoll lang ist u. s. w. , und bleibt blos bei dem ſtehen, daß das Dreieck geradlinigt, und daß alle drei
+
+Seiten desselben einander gleich sind.
+
+§. VII. Von den in der Mathematik vorkommenden Säßen. 1. Definitionen.
+
+Eine Definition iſt eine ausführliche, ursprüngliche und präciſe Darstellung der Merkmale eines Begriffs.
+
+Da dem Mathematiker kein Gegenstand gegeben wird, sondern er durch seine Definition den Gegenstand selbst erst bestimmt, so kann es keinem Zweifel unterworfen seyn, daß dem Gegenstande alles das zus kömmt, was er von ihm aussagt.
+
+Er sagt z. B.
+
+[p. xviii] was er unter Dreiecke, Zirkel, Ellipse u. s. w. verſtanden wiſſen will. — Allein obgleich die Des griffe des Mathematikers willkührlich sind, so sind doch seine Erklärungen keine bloße Declaration nen, bei denen es ungewiß ist, ob dem Begriffe ein Gegenſtand correſpondirt, ſondern er zeigt durch die Conſtruktion derselben ihre Realität, d.h. er giebt ihnen durch die Conſtruktion einen Gegenſtand; nachdem er den Begriff eines Dreiecks bestimmt hat, verzeichnet er ein Dreieck. Für die geometriſchen Conſtruktionen hat das Geſagte keine Schwierigkeit; da aber die Arithmetik nur ſymboliſch conſtruirt, ſo ſieht man hier nicht gleich ein, wie dadurch die Realität des Begriffs gesichert werde.
+
+Allein alle Erzeugung der Zahlen (das
+
+Zählen, ) die der Gegenſtand der Arithmetik ſind, und bei denen man von den Dingen, die da gezählt werden, ganz abſtrahirt, ſeht eine ſinnliche nicht empirische Anschauung, die Zeit voraus, und die Synthesis in derselben, da sie nicht unmittelbar dargestellt werden kann, stellen wir symbolisch dar.
+
+Der Beweis, daß die Zeit eine nicht empirische Anschauung sey, gehört in die Philosophie. 2. Ariome. faze.
+
+Ariome ſind ſynthetiſche Grund-
+
+Ein Saß dessen Wahrheit nicht objektiv wiederum von einem andern Saße abgeleitet wird, und der bei den Beweisen für die Wahrheit anderer Säße zum Grunde gelegt wird, heißt ein Grundsak.
+
+Ein Grundsatz ist nun wiederum analytisch oder synthetisch;
+
+erste sagt [p. xix] blos aus, daß dem Gegenstande ein Merkmal zu« kömmt, was in ihm gedacht wird, seine Wahr heit wird durch die Auflösung des Begriffs des Gegenstandes erkannt z. B. ein Dreieck hat drei Winkel: der zweite fügt zu dem Begriffe des Gegenstandes ein Merkmal hinzu, was noch nicht in ihm gedacht wurde; z. B. der Raum hat nur drei Abmessungen, Länge, Breite und Höhe. Allein nicht alle synthetischen Grundsätze heißen Ariomen, ſondern nur diejenigen, deren Wahrheit unmittelbar durch die Anschauung erkannt wird, und dies findet nur in der Mathematik statt.
+
+So ist es ein Ariom, daß der Raum nur drei Abmessungen Haben kann, weil man die Wahrheit dieses Satzes unmittelbar durch die Anschauung erkennt.
+
+Anschauung ist hier der Grund, woraus man erkennt, daß dem Gegenstande ein Merkmal zukommen müße.
+
+Da die Anschauungen, die der Mathematik zum Grunde liegen, nicht empiriſch ſind, so haben ihre Ariomen apodiktiſche (nothwendige) Gewißheit, überdies
+
+Evidenz (Anschaulichkeit).
+
+Die Mathematik stellt zwar in ihren Beweisen auch zuweilen analytische Säße auf, z. B. eine jede Größe ist sich selber gleich, die also auch unmittelbar durch bloße Zergliederung der Begriffe gewiß sind, allein alle dieſe Säße müßen doch von der Art seyn, daß sie construirt, d. h. daß ihr Gegenstand anschaulich dargestellt werden kann. 3. Lehrfäße (Theoreme).
+
+Ein Saß, deffest
+
+Wahrheit von einem andern Sah, der unmittelbar oder mittelbar als wahr anerkannt ist, vers [p. xx] mittelst Schlüſſe, abgeleitet werden muß, heißt ein Lehrsatz. Die Wahrheit desselben aus der Wahrheit anderer Sähe ableiten heißt ihn beweisen.— Die Wahrheit aller Lehrfäße wird sich am Ende auf Grundsätze stützen. ― Beruhen die Beweise für die Lehrfäße auf Anschauungen, so heißen sie Demonstrationen.
+
+Die Mathematik demon»
+
+ſtrirt die Wahrheit ihrer Säße; ihre Beweiſe haben also Evidenz.
+
+Da die reine Mathematik nicht empirisch ist, so haben alle ihre Beweise apodiktische Gewißheit. -- Die Demonstrationen ſind wie alle Beweise überhaupt, entweder direkte oder indirekte.
+
+Ein Beweis heißt direkt, wenn die
+
+Wahrheit des zu beweisenden Sages geradezu von andern bewiesenen oder unmittelbar gewiſſen Säßen abgeleitet wird; er heißt indirekt, in so fern die Wahrheit des Lehrsages dadurch dargethan wird, daß man zeigt das Gegentheil desselben sey unmöglich, weil sich aus ihm Folgerungen ergeben würden, die anerkannten Wahrheiten geradezu widerspreM chen. Linien, die man zur Führung des Beweiſes in der Geometrie zieht, heißen Hülfslinien.
+
+Die Methode bei den Beweisen ist entweder die synthetische oder analytische;
+
+bei jener nimmt man die Säße selbst schon als bekannt an, und leitet ihre Wahrheit aus schon erkannten
+
+Wahrheiten ab; beim analytischen Beweiſe ſucht man durch den Beweis den Sah zu erfinden. In der niedern Mathematik bedient man sich der erſtern, in der höhern der andern Beweisart, weshalb die letztere auch Analysis genannt wird.
+
+[p. xxi] 4. Postulate.
+
+Postulat
+
+Ein praktisches Ariom heißt ein Forderungssak.
+
+Das eigentliche Ariom und das Postulat kommen darin überein, daß bei beiden keine Ableitung von: einem andern Saß statt findet, allein sie unterscheidet sich darin von einander, daß jenes auf die Erkenntniß des Gegenstandes sich bezieht, den Begriff desselben vermehrt, (theoretisch ist) , da hingegen das Postulat zur Erkenntniß des Gegenſtandes nichts hinzufügt, den Begriff deſſelben nicht vermehrt, sondern nur über die Construction, die anschauliche Darstellung desselben spricht. Das Postulat fordert die Möglichkeit der Handlung der Einbildungskraft um den Gegenstand hervorzubringen, den man schon als möglich mit apodiktischer Gewißheit erkannt hat.
+
+So ist es z. B. ein Postulat zwischen zwei Punkten eine gerade Linie zu ziehen.
+
+Die Möglichkeit einer geraden Linie wird durch ihren Begriff gegeben, es wird jezt gefordert, daß man sie in der Anschauung darstellen könne.
+
+Man sieht bald ein, daß durch das Ziehen der geraden Linie, der Begriff derselben nicht im geringsten vermehrt wird, sondern blos davon die Rede sey, dem Begriff einen Gegenstand der Anschauung unterzulegen.
+
+Da nun die ganze Mathematik auf Conſtruktion beruht, ' so machen die Postulate einen Grundstein des Gebäudes derselben aus. 5. Aufgaben (Probleme). Sie fordern gleichfalls die nicht empirische Conſtruktion eines Begriffs; 4.B. eine gerade Linie in zwei gleiche Theile zu theilen, [p. xxii] aber unterscheiden sich darin von den Postulaten, daß sie nicht als Grundsätze zu betrachten sind, sondern auf Postulaten beruhen; sie sehen die Postulate, so wie die Lehrfäße die Ariomen voraus. Sie erfordern eine Auflösung, die entweder unmittelbar auf Postulaten oder auf ſchon aufgelöseten und bewiesenen Aufgaben ſich ſtützt. ---- Die Richtigkeit der Auflösung muß nachher demonstrirt
+
+Ein Lehrsag fordert einen Beweis.
+
+Eine
+
+Aufgabe fordert eine Auflösung und einen Beweis, welcher lektere darthun muß, daß dadurch das geschieht, was die Auflösung vorgeschrieben hat, der Zweck der Aufgabe erreicht ist.
+
+6. Zusätze oder Folgefäße (corollaria). Dies sind Säße deren Wahrheit aus andern als wahr anerkannten Säßen, unmittelbar, und ohne alle Zwischensäße sich ergeben.
+
+§. VIII. Von den in der Mathematik eingeführten Zeichen.
+
+Gleichartige Gegenstände, die in der Quantität übereinstimmen (die gleich groß sind) , heißen gleich; gleichartige Gegenstände die in der Quantität nicht übereinstimmen heißen ungleich. ſeht das Zeichen
+
+, zwischen die beiden Dinge, die gleich sind; so heißt ab, a ist gleich b.
+
+Bei ungleichen Gegenständen ist der eine größer als der andere; um dies zu bezeichnen, feßt man zwischen beide folgendes Zeichen < und zwar wird die Oeffnung nach der größern Größe zugekehrt.
+
+[p. xxiii] ab heißt a ist größer als b, c < d heißt c ist kleiner als d. 78 und 76. Dinge, die in der Qualität übereinſtimmen, heißen ähnlich.
+
+Das Zeichen der Aehnlichkeit ist
+
+; ab heißt a ist b ähnlich.
+
+Bei diskreten
+
+Größen, wo blos die Quantität zu betrachten ist, kann nicht von Aehnlichkeit gesprochen werden, wohl aber bei continuirlichen Größen, weil da außer der Quantität noch die Verbindung der Theile in Betrachtung kömmt. Größen die gleich und ähnlich ſind heißen congruent, das Zeichen der Congruenz ist oder 5. So heißt ab, a ist b congruent. Nur bei continuirlichen Größen kann Congruenz statt finden, woher auch der Name rührt; zwei Figuren sind congruent, wenn man sie auseinanderlegt und ihre Grenzen zusammenfallen Bei congruenten Größen kann (congruunt). man eine für die andere ſehen, Mathematiker substituiren.
+
+dies nennt der Eben so laßen ſich diskrete gleiche Größen für einander substituiren. Die übrigen Zeichen werden am gehörigen Orte angegeben werden.
+
+§. IX. Grundsätze.
+
+1. Wenn zwei Größen einer dritten gleich sind, so sind sie untereinander gleich.
+
+[p. xxiv] 2. Wenn zwei Größen einer dritten ähnlich sind, ſo ſind ſie untereinander ähnlich. 3. Wenn zwei Größen mit einer dritten congruent sind, so sind sie untereinander congruent.
+
+4. Eine jede Größe ist sich selber gleich. 5. Das Ganze ist größer als ein Theil desselben. 6. Das Ganze ist in allen seinen Theilen zuſammengenommen gleich.
+
+Anfangsgründe der reinen Mathematik
+
+Erster
+
+Theil, welcher die Anfangsgründe der Arithmetik enthält.
+
+Anfangsgründe
+
+### Arithmetik.
+
+S. I. Die Arithmetik beschäftigt sich mit den diskreten Größen, sie betrachtet also blos die Vielheit oder die Zahl.
+
+Nun sind die Zahlen, welche die Arithmetik zum Gegenstande hat, entweder beſtimmt, dann heißt sie gemeine Arithmetik, oder sie betrachtet die Zahlen nicht als bestimmt, ſondern blos als diskrete Größen überhaupt, meine Arithmetik dann heißt sie allges oder Buchstabenrechnung, weil sie sich der Buchstaben des kleinen lateinischen Alphabets zu Zeichen bedient. S. 2. Eine Zahl heißt ganz, wenn sie aus der mehrmal gesetzten Einheit besteht, gebrochen oder ein Bruch, wenn sie einen Theil der Einheit ein oder mehrmal genommen enthält. Zählen heißt die Vielheit einer diskreten Größe nach der Einheit bestimmen.
+
+Das Zählen hat man bestimmten Gesetzen unterworfen, daher entspringt das Zahlensystem. Wir zählen die ganzen Zahlen nach dem Syſtem der Dekadik, [p. 4] d. h. wir zählen nur immer bis zehn, und fangen so dann von vorn an;
+
+eine Art zu zählen, die bei allen uns bekannten Völkern statt findet, und wahrscheinlich ihren Grund in den 10 Fingern hat. Zehn Einer oder Einheiten geben einen Zehner, Zehner ein Hundert,
+
+10 Hundert ein Tauſend, so entstehen nach demselben Gesetz Zehntausend, Hunderttausend, Millionen,
+
+Zehn Millionen, Hundert
+
+Millionen, Tausend Millionen, Zehntausend Millionen, Hunderttausend Millionen, Billionen +++ Tril lionen S. 3. Was die gebrochenen Zahlen oder die Brüche des trift, so befolgt man zwar nicht im gemeinen Leben, aber doch größtentheils in den Werken der Gelehrten dasselbe System.
+
+Bei den Brüchen überhaupt theilt man die Einheit in eine bestimmte Anzahl gleicher Theile, und bestimmt wie viel man dieser Theile nehmen solle; der Theil wird sodann als eine neue Einheit betrachtet, nach der man zählt;
+
+so heißt z. B. drei Viertheil, man solle eine Einheit in 4 gleiche Theile theilen, und einen dieser Theile dreimal nehmen.
+
+Zwölf Zehntheile sagt, man solle die
+
+Einheit (das Ganze) in Zehn gleiche Theile theilen, und einen solchen Theil zwölfmal nehmen.
+
+Die Ges lehrten pflegen diese Eintheilung der Einheit dekadisch einzurichten, so folgen alſo nach den Einern, Zehntheile, nach diesen Hunderttheile, Tausendtheile, Zehntauſendtheile u. s. w.
+
+Man nennt dieſe lettere Art
+
+[p. 5] Brüche Decimalbrüche, weil sie auf das System der 10 beruhen.
+
+§. 4. Der Arithmetiker bezeichnet die bestimmten Zahlen mit eigenen Zeichen, die man Ziffern nennt. Daher heißt die ' gemeine Arithmetik auch die Zifs fernrechnung.
+
+Diejenigen Ziffern deren wir uns gewöhnlich bedienen, führen den Namen der arabiſchen, weil man ſie von den Arabern herleitete *). Da das Zahlenſyſtem ſich auf 10 einschränkt, ſo has den wir auch nur 10 Ziffern, diese sind: 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, die letzte zeigt blos an, daß von einer gewiſſen Ordnung des Syſtems keine Zahl vorhanden ist.
+
+Man beobachtet beim Schreiben einer ganzen Zahl folgendes Geſetz: die Einer oder Einheiten nehmen die letzte Stelle zur rechten Hand ein, und so rückt man nach der linken Hand fort, so daß jede höhere Stelle nach der linken immer das zehn sache der zunächst nach der rechten auf ihr folgenden enthält; sie folgen also von der rechten nach der. linken folgendergeſtalt: Einer, Zehner, Hundert, Tausend, Zehntausend, Hunderttauſend, Millionen, zehn Millionen, hundert Millionen, zehntausend Millionen, tausend Millionen, hunderttauſend_Millionen,
+
+Billionen, zehn Billionen Lesen dieser Zeichen ist zu merken, daß man von der ersten Stelle zur linken anfängt und zur rechten hin-
+
+* Sie sind eigentlich indischen Ursprungs [p. 6] unter geht, nur erfordert es die Eigenheit der deutschen Sprache, daß man jedesmal die Einer vor den Zehnern nennt; so heißt: 732649, Sieben hundert zwei und dreißig tausend, sechs hundert neun und vierzig.
+
+Beim mündlichen Vortrage sollen hier die Mittel angegeben werden, wie man eine gegebene Ziffer die eine ganze Zahl ausdrückt, leicht lesen, und auch wie man eine gegebene ganze Zahl in Ziffern schreiben könne.
+
+S. 5. Bei der Bezeichnung der gemeinen Brüche kommt es auf zwei Stücke an, erstlich muß man bezeichnen in wie viel Theile man das Ganze getheilt hat, die Zahl welche dies ausdrückt, heißt der Nenner, weil sie andeutet, was für Theile man genommen habe, und sodann wie viel solcher Theile genommen worden sind, die Zahl welche dies ausdrückt, heißt der Zähler, weil sie die Theile zählt.
+
+macht zwischen den beiden Ziffern, die diese Zahlen bezeichnen einen Querstrich, und schreibt den Zähler über, und den Nenner unter denselben: so heißt Dreiviertheil. Was die Decimalbrüche aber betrift, so schreibt man sie auf eine andere Art.
+
+3. B.
+
+Man sieht nämlich bald ein, daß auch bei ihnen die Gesetze des obengedachten Zahlensystems sich finden, daß die Zehntheile das Zehnfache der Hunderttheile, diese das Zehnfache der Tausendtheile, dieſe das Zehnfache der Hunderttauſendtheile, u. s. w. ſind, (allgemein [p. 7] ausgedrückt; daß jede nach der linken um eins höhere Stelle das Zehnfache der folgenden ist) ; daher schreibt man die Decimalbrüche völlig so wie die ganzen. Zahlen, nur deutet man durch ein Comma, das man hinter die ganzen Zahlen setzt, an, daß nunmehr die Brüche anfangen, so heißt z. B. 49,732, neun und vierzig Ganze, sieben Zehntheile, drei Hunderttheile und zwei Tausendtheile.
+
+Sind keine ganzen Zahlen vorhanden, so macht man vor dem Comma eine Null, *. B. 0,89 liest man acht Zehntheile und neun Hunderttheile.
+
+1. Man nennt den Werth der Zahlen den ſie durch ihre Stellen erhalten, Ordnungen; so sind aufsteigend Einer, Zehner, Hunderte u. s. w. , und absteigend Zehntheile, Hunderttheile, Tausendtheile u. s. w. Ordnungen. 2. Wenn man die Stelle der Zahlen beſtimmt hat, so kann man vor und nach derselben so viel Nullen als man will anhängen, ohne daß dadurch der Werth derselben verändert wird. So ist 3,45 so viel als 003,4500, denn das Comma bestimmt die Stelle der Einer. 3. Da auch bei den Decimalbrüchen jede Ordnung 10 Einheiten der zunächst auf ihr folgenden einschließt, so kann man 0,89 (oder acht Zehntheile, neun Hunderttheile) auch lesen 89 Hunderttheile, und 0,763 kann man lesen 763 Tausendtheile.
+
+Daraus ergiebt sich eine neue Re-
+
+.8 gel für das Lesen der Decimalbrüche: man leſe die Ziffern, welche den Decimalbruch bezeichnen, als ganze Zahl, dies giebt den Zähler des Decimalbruchs; den Nenner desselben erhält man, wenn man zu 1 so viel Nullen hinzufügt als Decimalbruchſtellen gegeben sind. Zum Beiſpiel: 74,3207 = 74 10000 heißt 74 Ganze 3207 Zehntausendtheile, ferner 0,0032 = 10000 heißt 32 Zehntausendtheilchen. 4. Was das Schreiben eines Decimalbruchs in Ziffern betrift, so muß man dabei auf den Nenner und Zähler Rücksicht nehmen; der Nenner bestimmt die Anzahl der Stellen nach dem Com ma, es sind deren so viel als Nullen im Nenner sich finden; in diese Stellen schreibt man den Zähler, als ganze Zahl betrachtet, so daß dessen letzte Ziffer, die letzte Stelle einnimmt. S. 6. In der Buchstabenrechnung bedient man sich zur Bezeichnung der allgemeinen diskreten Größen, der Buchstaben des kleinen lateinischen Alphabets;
+
+ist zu merken, daß die leßtern Buchstaben des Alphabets x, y, z, und wenn mehr erforderlich sind, die zunächst vorhergehenden, u, e, u. s. w. unbekannte, die übrigen bekannte Größen bezeichnen.
+
+a bezeichnet eine Größe, gleichviel welche, b eben so u. s. w. , nur daß man sich a, b, 1c u. s. w. als untereinander verschieden vorstellt, so bald nicht ausdrücklich bemerkt wird, daß sie einander gleich seyn sollen.
+
+[p. 9] Findet sich eine Ziffer vor dem Buchstaben, so zeigt sie an, daß die unbeſtimmte Größe so vielmal genommen werden soll; 4a heißt alſo a 4mal genommen.
+
+Soll die Größe nur einmal genommen werden, ſo ſchreibt man den Buchstaben ohne Ziffer; a ist also so viel als 1 a. Noch sind in der Buchstabenrechnung ein Paar andere Zeichen zu merken. Man unterscheidet nämlich einstimmige entgegengesetzte Größen.
+
+Größen heißen einstimmig, wenn sie zu einander hinzugefügt ` ſich vergrößern, entgegengesetzt, wenn ſie zu einander hinzugefügt, ſich entweder ganj oder zum Theil aufheben. Einnahmen sind einſtimmig, Einnahmen und Ausgaben entgegengesetzt; dem Weg nach Morgen ist der Weg nach Abend, Wasser was in ein Gefäß einfließt, ist dem was ausfließt entgegengesetzt, u. s. w.
+
+Um nun das Entgegenges
+
+ſetzte zweier Größen auszudrücken, bezeichnet man (minus). die eine mit + (plus), die andere mit C Man nennt die Größe welche mit + bezeichnet ist — bezeichnet ist negativ. positiv, die mit Es ist an sich völlig gleichgültig, welche von den entgegengesetzten Größen man mit + oder mit bezeichnen will, nur ist die andere sogleich bestimmt, sobald man die eine bestimmt hat.
+
+Heißt + Weg nach Morgen, so heißt — Weg nach Abend;
+
+nennt man umgekehrt
+
+Weg nach Morgen, so heißt +
+
+Weg nach Abend.
+
+Doch muß man, wenn man eine mal bei einer Operation der Arithmetik die Bedeus [p. 10] tung von + und bestimmt hat, sie während derſelben nicht ändern.
+
+Noch ist zu merken, daß man zu Anfang einer Reihe von Größen + wegläßt; ſo ist 4a - 3b = + 4a - 3b. S
+
+Rechnen heißt aus gegebenen bekannten diskreten Größen unbekannte finden, die mit den bekannten in einer gegebenen Verbindung stehen.
+
+Es wird also so viel Rechnungsarten geben, als es Verbindungen von bekannten und unbekannten diskreten
+
+Größen giebt, durch welche man die letzten aus den erstern ableiten kann.
+
+Einige derselben sind einfach, andere zusammengesetzt. Die ersten nennt man Species.
+
+Wir machen mit ihnen den Anfang.
+
+Von den einfachen Rechnungsarten.
+
+§. 8. Gewöhnlich nennt man das Numeriren als die erste einfache Rechnungsart; allein dies iſt unrichtig.
+
+Das Numeriren lehrt gegebene Ziffern als Zahlen lesen, und umgekehrt gegebene Zahlen als Ziffern schreiben.
+
+Es ist ein Theil der Zeichenlehre (Semiotik) für die Arithmetik, die daher auch aus zwei Theilen besteht, der Bezeichnungskunst und der Auslegungskunst (Hermenevtik) .
+
+Da in keinen von beiden Fällen eine unbekannte Größe gefunden wird, so kann man auch nach §. 7 das Numeriren nicht zu den Rechnungsarten zählen.
+
+[p. 11] S. 9. Man zählt mehrere Zahlen zusammen, wenn man eine Zahl findet, die alle gegebenen in sich ents hält; man nennt diese Zahl die Summe, so wie die zusammenzuzählenden die Summanden.
+
+Aus dem Begriff der einstimmigen und entgegengesetzten Größen ergiebt sich, daß sich nur die erſtern zuſains menzählen laſſen. Werden uns alſo Zahlen zum Zusammenzählen gegeben, so wird vorausgesetzt, daß sie einstimmig sind.
+
+Ferner kann man nur Dinge einer Art (gleichartige Dinge) zusammenzählen; sollten also ungleichartige Dinge gegeben seyn, so findet nur ein Zuſammenzählen statt, wenn man sie unter einen Begriff bringt.
+
+3 Pferde und 7 Stiere kann man nicht zuſammenzählen, wenn man sie nicht unter einen gemeinsamen Begriff, z. B. den der Hausthiere bringt. Summe und Summanden sind gleichartig.
+
+S. 10. Man kann zwei Zahlen enthalten zusammenzählen.
+
+die mehrere Einheiten Es geschieht dies das durch, daß man die eine derselben in ihre Einheiten auflöst, und diese zu der andern hinzuzählt. — Anschaulich macht man sich die Sache dadurch, daß man die Summanden in Punkten darstellt und diese zusammenzählt.
+
+Man hat nur nöthig als. Postulat vorauszuseßen, [p. 12] daß man zwei Summanden, die mehrere Einheiten enthalten, zuſammenzählen könne, sobald man dies zu thun im Stande ist, kann man jede noch so große Anzahl von Summanden zusammenzählen, man betrachtet nämlich jede erhaltene Summe als eine Größe und fügt zu ihr einen neuen Summandys hinzu.
+
+S. II. Mehrere ganze Zahlen oder Decimalbrüche zu fammenzuzahlen,
+
+Weil man nur gleichartige Dinge zusammenzählen kann, so schreibe man die gegebenen Summanden so, daß diejenigen Zahlen, welche zu einer Ordnung gehören unter einander zu stehen kommen, (die Einer unter die Einer, die Zehner unter die Zehner u. s. w.; so auch die Zehntheile unter die Zehntheile, die Hunderttheile unter die Hunderttheile u. s. 11.) Sind blos ganze Zahlen zusammenzuzählen, so richtet man sich nach den Einern, welche die letzte Stelle zur rechten Hand einnehmen; sind aber auch Decimalbrüche vorhanden, so dient das Comma, das die ganzen Zahlen von den Decimalbrüchen zur Richtschnur.
+
+absondert,
+
+Man zieht gewöhnlich unter die
+
+Summanden einen Strich, unter welchen man nachher die gefundene Summe schreibt.
+
+Sodann fange man von der letzten Stelle zur rechten Hand an, und zähle die Einheiten, die in jeder Ordnung sich [p. 13] finden, zusammen.
+
+Findet sich, daß die Summe der
+
+Einheiten einer Ordnung 9 nicht übersteigt, so setze man sie unter die Ordnung hin; übersteigt sie 9, so gehört die Zahl die ausdrückt, wievielmal das Zehnfache die Einheiten dieſer Ordnung machen, zur folgenden Ordnung, und die Einheiten die sie enthält, werden mit den Einheiten der folgenden Ordnung zuſammengezählt, so wie hingegen die Einheiten die für die zusammengezählte Ordnung übrig bleiben, unter diese Ordnung gesetzt werden. Beweis.
+
+Man sieht bald, daß die Richtigkeit der Auflösung auf folgenden Säßen beruht:
+
+Auf dem §. 10 aufgestellten Postulat, auf dem S. 9 gegebenen Grundsatz: Summanden und Summe ſind gleichartig, der für den gegebenen Fall so abgeändert wird:
+
+Summanden und Summe gehören zu einerlei Ordnung, und endlich auf dem Grundgesetz der Dekadik,
+
+10 Einheiten einer Ordnung eine Einheit der zus nächſt höhern Ordnung ausmachen 356,709 83,518 1289,74 36,9263
+
+1805,8933
+
+In dem gegebenen Beispiel sind die Summanden nach dem Zahlenſyſtem unter einander gesetzt.
+
+[p. 14] fängt von den Zehntausendtheilen an, ſendtheile bleiben für sich.
+
+3 Zehntaus
+
+Bei den Tauſendtheilen finden sich 9, 8 und 6, zuſammengezählt 23, 10 Tausendtheile machen ein Hunderttheil, 20 also 2, man schreibt daher blos 3 unter die Tausendtheile, und rechnet 2 zu den Hunderttheilen. - Hunderttheile sind: 1, 4 und 2 ferner 2 die aus den Tauſendtheilen sich ergaben, zusammengenommen geben sie 9, die man unter die Hunderttheile schreibt.
+
+Zehntheile sind: 7, 5, 7 und 9, zuſammen 28.
+
+28 Zehntheile sind 2 Einer und 8 Zehntheile, man ſchreibt also 8 unter die Zehntheile und zählt 2 zu den Einern.
+
+6,
+
+3, 9, 6, 9 Einer und 2 von den Zehntheilen geben 35 Einer, d. h. 3 Zehner und 5 Einer, alſo ſchreibt man 5 unter die Einer und rechnet 3 zu den Zehnern.
+
+Zehner sind: 5, 8, 8, 3, 3 und 3, welche man durch die Einer erhielt; zuſammengezählt geben sie 30;
+
+30 Zehner sind 3 Hunderte, man erhält also keine Zehner, setzt daher um dies zu bezeichnen in die Stelle der Zehner Null, und rechnet 3 zu den Hunderten.
+
+3, 2 und 3 Hunderte sind 8, und 1
+
+Tausend ist 1 Tauſend.
+
+Man wird beim Summiren bald inne, daß man bei der Operation selbst nicht nöthig habe, auf die Ordnung der Summanden zu sehen, sobald man nur der Summe dieselbe Ordnung anweiset, welche die Summanden haben, und dies geschieht dadurch, daß man jede Summe der [p. 15] einzelnen Ordnungen unter die Ordnung der Summanden setzt, und also nach den leßtern auch den Einern ihre Stelle (entweder wenn blos ganze Zahlen vorhanden sind, die lette Stelle zur rechten Hand, oder wenn auch Decimalbrüche vorhanden sind, durch das hinter denselben gesetzte Comma) anweiſt.
+
+Frage. Warum fängt man beim Zuſammenzählen von der letzten Stelle zur rechten Hand, d. h. von der unterſten Ordnung an?
+
+S. 12. Brüche, die gleiche Nenner haben, zusammenzuzählen.
+
+Man zähle ihre Zähler zuſammen, und schreibe unter die Summe den gemeinschaftlichen Nenner. So sind 14' 13' 13 ' 1, zusammen Der Beweis für die Richtigkeit der Auflösung hat keine
+
+Schwierigkeiten. S. 13. Das Zeichen des Zusammenzähens ist +, so ist 5 + 4 +3 = 12.
+
+Es ist völlig einerlei, ob man die erste Zahl zur zweiten, oder die zweite zur ersten hinzufügt, 5 + 4 =4 + 5; und folglich ist es überhaupt einerlei, in welcher Folge jählt.
+
+Summanden zuſammen-
+
+[p. 16] S. 14. Eine Zahl von einer andern abziehen, heißt diese lettere aus zwei Theilen zusammengesetzt betrachten, wovon der eine Theil die zweite gegebene Größe ist, man soll den andern Theil finden. 5 von 8 abziehen, heißt 8 aus zwei Theilen zuſammengesetzt betrachten, wovon 5 der eine Theil ist; man ſieht der andere wird 3 ſeyn.
+
+Hieraus ergiebt sich, daß man nur eine kleinere Zahl von einer gróßern abziehen kann.
+
+Die Zahl von der eine andere abgezogen werden soll, heißt der Minuendus, die Zahl welche abgezogen werden soll, der Subtrahendus, und das was übrig bleibt heißt der Rest. Eo ist in dem gegebenen Beiſpiel, 8 der Minuendus, 5 der Subtrahendus und 3 der Rest. -
+
+Abziehen ist also die entgegengesetzte Operation des Zusammenzählens.
+
+Beim Schreiben seht man den
+
+Minuendus zuerst, und sodann den Subtrahendus, entweder den leßtern unter den erstern oder neben den erstern: im leßtern Falle ſetzt man zwiſchen beidedas Zeichen
+
+Beim Sprechen nennt man die
+
+Zahlen gewöhnlich umgekehrt, 8—5 ſpricht man 5 -von 8; man ſagt aber auch 8 weniger 5
+
+Man kann eine geringere Anzahl Einer von einer größern wegnehmen. -Um sich die Operation dieſes Abziehens anschaulich zu machen, stelle man sich die Zahl von der man eine andere wegnehmen soll in einzelnen Punkten dargestellt vor, schneide von dies fen [p. 17] sen so viel ab, als man wegnehmen soll, und die übrig gebliebenen geben den Rest. Nur einstimmige Größen kann man von einander abziehen, weil man diese nur zusammenzählen kann. Der Rest zum Subtrahendus hinzugefügt giebt den Minuendus. S. 15. Eine kleine Zahl von einer größern wegnehmen, wenn beide nach dem System der Decimalordnung geschrieben sind.
+
+Aufldsung. Man schreibe die größere Zahl oben, die kleinere unten, doch so, daß die gleichen Ordnungen untereinander zu stehen kommen; sollten in beiden in den Decimalbrüchen nicht gleich viel Ordnungen seyn, so fülle man die fehlenden Stellen durch Nullen aus, (f. S. 5, Anmerkung 2. ) mache unter beide einen Strich, fange die Operation von der lezten Stelle zur rechten Hand an, und gehe so von Ordnung zu Ordnung fort.
+
+Ist die Zahl der Einheiten in der
+
+Ordnung des Minuendus größer als in derselben
+
+Ordnung des Subtrahendus, so hat das Abziehen nach dem was oben gesagt ist keine Schwierigkeit; man seße sodann den Rest unter den Strich, und zwar unter derselben Ordnung.
+
+Ist die Zahl im
+
+Subtrahendus Null, so ist der Rest die Zahl des Minuendus. Ist die Zahl im Minuendus und Subtrahendus gleich, so ist der Rest Null.
+
+Findet [p. 18] sich hingegen, daß die Zahl einer Ordnung im Minuendus kleiner ist als im Subtrahendus, so kann man die leştere von der erstern nicht wegnehmen; man nimmt daher im Minuendus eine Einheit von der folgenden Ordnung zu Hülfe, dadurch wird die Zahl des Minuendus um 10 größer, und nun kann man den Subtrahendus von ihr abziehen.
+
+Die Einheiten der folgenden Ordnung im Minuendus • ſind nun um i vermindert, damit man dies nicht vergesse, macht man einen Punkt als Zeichen neben der Ziffer derselben zur rechten Hand.
+
+Es kann aber
+
+ſeyn, daß die Ordnung die man um 1 vermindern ſoll, und vielleicht auch mehrere folgende keine Einheiten enthalten, sondern Nullen ihre Stellen ausfüllen; in diesem Fall geht man bis zur nächsten Ordnung fort, die Einheiten hat, bezeichnet die Ziffer derselben mit einem Punkt, und vermindert die Zahl derſelben dadurch um 1.
+
+Löset man nun die.
+
+Einheit der höhern Ordnung in Einheiten der zu nächst niedern Ordnung auf, so erhält man deren 10. Diese vermindert man wiederum um 1, so daß ihr 9 bleiben, und löse diese 1 in 10 Einheiten der folgenden Ordnung auf, und so fährt man fort bis man zu der Zahl gelangt von der man die Zahl des Subtrahendus wegnehmen will, zu welcher man wie oben gesagt, alsdann 10 hinzuſeßt.
+
+Man vers wandelt also alle Nullen, die zwischen der Zahl die man um 1 verkürzte, und der die man um 10 vergrößert um abziehen zu können, in 9; man pflegt [p. 19] um dies anzuzeigen, in die Nullen einen Punkt zu machen.
+
+Die Richtigkeit der Regeln ist leicht einzus
+
+Was in der Anmerkung zu §. 11 vom Zusammenzählen gesagt ist, läßt sich auch auf das Abziehen leicht anwenden.
+
+S. 16. Beispiel zur Erläuterung der gegebenen Regeln. Der Minuendus sey 86005,13; der Subtrahendus 3278,0492 welches ist der Rest. Man schreibe den Minuendus oben, und den Subtrahendus unten, die gleichnamigen Ordnungen untereinander und füge zum Minuendus 2 Decimalstellen zur rechten hinzu. Cf. §. 5, Anmerk. 2. * 86.00 5,1.3.00 3 278,0 4 92 82 727,0 8 08 Man fange von den Zehntausendtheilen als der niedrigsten Ordnung an.
+
+2 Zehntausendtheile kann man von o nicht wegnehmen, man muß daher Tausendtheile zu Hülfe nehmen, da diese nicht vorhanden sind, so gehe man bis zu den Hunderttheilen, und nehme 1 davon weg, welches man durch einen Punkt bei der 3 bezeichnet. 1 Hunderttheile sind 10 Tausendtheile, von diesen 1 weggenommen, der Zehntausendtheile wegen, bleiben 9 Tausendtheile übrig, welches man durch einen Punkt in der Null bezeich [p. 20] net. Diesen Tausendtheil löse ich in 10 Zehntausendtheile auf, von diesen 2 weggenommen bleiben 8.9 Tausendtheile von 9 Tausendtheilen weggenommen lassen nichts (sie heben sich [ auf] pflegt man zu ſagen) , daher die Null im Rest.
+
+4 Hunderttheile laßen sich von 2 nicht wegnehmen, ich vermindere deshalb die Zehntheile um 1, so habe ich zuſammen 12 Hunderttheile, von diesen 4 weggenommen, bleiben 8. -Kein Zehntheil von keinem Zehntheil bleibt Null. 8 Einer laßen sich von 5 Einern nicht wegnehmen, dahero muß ich bis zu den Tauſenden aufsteigen und diese um 1 vermindern.
+
+I. Tausend enthält 10 Hundert, 1 von diesen weggenommen bleiben 931 Hundert enthält 10 Zehner, 1 von dieſen weggenommen, bleiben 9, und dieses aufgelöſet erhalte ich 10 Einer, zu 5 die schon vorhanden sind, hinzugefügt, geben 15, 8 davon weggenommen, bleiben 7. -
+
+7 Zehner von 9 bleiben 2
+
+2 Hundert von 9 bleiben 7. -
+
+3 Tausende von 5 bleiben 2. —
+
+Endlich o von 8 Zehntausenden bleiben 8.
+
+S. 17+ Fragen. 1. Warum fängt man beim Abziehen von der letzten Stelle zur rechten Hand an? 2. Warum darf die höchste Ordnung des Minuendus keine kleinere Zahl enthalten als die höchste der Ordnung des Subtrahendus?
+
+S. 18+ Bei Brüchen die gleiche Nenner haben läßt sich [p. 21] der kleinere (welcher den kleinsten Zähler hat) leicht von den größern wegnehmen. Man zieht den Zähler des kleinern von dem des größern ab, und schreibt unter Rest gemeinschaftlichen
+
+Nenner.
+
+S. - 19. Man vervielfacht eine Größe, wenn man sie eine bestimmte Anzahl mal zu sich selber hinzuseßt. Die Größe, die vervielfacht werden soll, heißt der Multiplicandus; die Zahl welche anzeigt, wie oft der Multiplicandus genommen werden soll, der Multiplicator; beide zusammen Faktoren, und das Vielfache selbst heißt das Produkt.
+
+Das Zeichen dieser Operation ist × oder .; so heißt 6 X 4 oder 6.4, das 6sache von 4 = 24; hier ſind 6 und 4 die Faktoren, 4 heißt der Multiplicandus,
+
+6 der
+
+Multiplicator; 24 ist das Produkt. Aus dem Begriff des Vervielfachens ergiebt sich: 1. Der Multiplicandus kann jede Größe seyn; ob wir uns gleich in der Arithmetik nur auf diskrete Größen, und hier namentlich auf beſtimmte diskrete Größen, Zahlen einlaßen. 2. Der Multiplicator muß beim Vervielfachen eine Zahl, und zwar eine ganze Zahl ſeyn. 3. Das Vervielfachen ist ein zuſammengezogenes Zusammenzählen, daß sich von allem andern nur dadurch unterscheidet, daß die Summanden gleich sind; man hat so viel gleiche Summanden als der Multiplicator Einheiten enthält.
+
+[p. 22] 4. Ist der Multiplicator 1, so ist das Produkt dem Multiplicandus gleich. 5. Sind der Multiplicandus und der Multiplicator ganze Zahlen, so ist das Produkt dasselbe ob man den Multiplicandus durch den Multiplicator oder umgekehrt, diesen durch jenen vervielfacht; denn im ersten Fall seße ich die Einheiten des Multiplicandus so vielmal als der Multiplicator Einheiten hat, und im zweiten Fall sehe ich die Einheiten des Multiplicators so oft als der Multiplicandus Einheiten hat. Folgende sinnliche Darstellung macht dies anſchaulich. 3 X 4 =4 X 3.
+
+S. 20. Da bei unserm Zahlensystem es immer nur auf Einheiten ankommt, die sich bis auf 9 erstrecken, so flieht man die Nothwendigkeit ein, das Vielfache aller Zahlen von 1 bis 9 durch alle Zahlen von 1 bis 9 zu kennen.
+
+Man nennt eine Tafel die dies angiebt, das Einmaleins, oder von ihrem Erfinder das Rechentäfelchen des Pythagoras (abacus Pythagoricus). S. 21. Grundsatz. Die Summe zweier oder mehrerer Zahlen wird vervielfacht, wenn man jeden Theil derselben vervielfacht, und die Produkte addirt.
+
+[p. 23] S. 22. Eine Zahl, die nach den Gesetzen der Decimalordnung geschrieben worden, durch eine ganze Zahl die nur aus einer Ziffer besteht zu vervielfachen. A u fld sung. Man schreibe den Multiplicandus oben, und den Multiplicator unter die letzte Ordnung desselben, ziehe unter beide einen Strich, unter welchen man nachher das Produkt ſetzt. Man fange bei der niedrigsten Ordnung des Multiplicandus an, und suche das Vielfache derselben durch den Multiplicator nach dem Einmaleins. Besteht das Produkt nur aus Einern, so schreibe man sie unter die Ordnung die man vervielfacht, enthält sie auch Zehner, (mehr als Zehner kann sie nicht enthalten, warum? ) so rechnet man die Zahl derselben als Einer zum Produkte der folgenden Ordnung, die Einer die noch übrig bleiben, schreibt man unter die Zahl die man vervielfacht. So schreitet man von Ordnung zu Ordnung fort. ― Die Gründe für die Richtigkeit der Auflösung beruhen darauf, daß man den Multiplicandus als eine Summe mehrerer Zahlen verschiedener
+
+Ordnungen betrachten kann, wo man sich also nach dem im, vorhergehenden S. gegebenen Grundsatz richtet, nur daß man gleich beim Vervielfachen die Produkte summirt. Beispiel zur Erläuterung der Auflösung.
+
+Man soll 308,96 mit 7 vervielfachen.
+
+[p. 24] 308,96 2162,72 6 Hunderttheile 7mal genommen geben 42 Hunderttheile, d. h. 4 Zehntheile und 2 Hunderttheile, ich sehe also 2 Hunderttheile hin, und rechne nachher 4 Zehntheile zum Produkte derselben.
+
+9 Zehntheile 7mal genommen geben 63 und 4 vom Vielfachen der Hunderttheile erhaltenen geben 67, d. h. 6 Einer und 7 Zehatheile. Man sehe die 7 Zehntheile hin und zähle die 6 Einer nachher zum Produkte der Einer.
+
+7mal 8 Einer geben 56, und 6 macht 62;
+
+man ſetzt 2 unter die Einer und rechnet 6 zum Produkte der Zehner.
+
+7mal keinen Zehner giebt Null, man seht also blos die 6 Zehner hin, die man aus dem Produkte der Einer erhielt.
+
+3 Hundert 7mal genommen geben 21 Hundert oder 2 Tausend 1 Hundert. Es ist leicht einzusehen, daß die §. 11 aufgestellte Anmerkung auch hier ihre Anwendung findet. Frage. Warum fängt man beim Vervielfachen von der geringsten Ordnung an?
+
+S. 23. Die Wahrheit folgender Säße ist leicht einzus
+
+1. Wenn man eine gegebene Zahl verzehnfachen ſoll, so wird jede Ordnung derselben in eine um
+
+1 höhere verwandelt, die Einer werden Zehner, [p. 25] die Zehner Hunderte u. s. w.
+
+Man darf also nur dem Multiplicandus, wenn er eine ganze Zahl ist, eine Null anhängen, oder wenn Decimalbrüche dabei sind, das Comma um eine Stelle weiter nach der rechten rücken. 10 × 349 = 3490. 10 X 75,63
+
+756,3.
+
+10 X 95,4 = 954.
+
+2. Ist der Multiplicator 100, so wird man dem Multiplicandus, wenn er eine ganze Zahl ist, zwei Nullen anhängen, oder wenn Decimalbrůche da sind, das Comma zwei Stellen weiter nach der rechten rücken müſſen. Sind nicht zwei Stellen im Decimalbruch des Multiplicandus da, so kann man sie durch Hinzufügung einer Null leicht erhalten. ―― Die Wahrheit dieses zweiten Sages folgt aus dem ersten, wenn man bedenkt, daß das Zehnfache 10mal genommen, das Hundertfache giebt.
+
+So ist 100 X 364 = 36400;
+
+100 X 95,6439564,3; 100 X 87,52 — 8752 ;. 100 X 92,89280. 3. Hieraus läßt sich das Gesetz für das Tauſendfache, Zehntausendfache u. s. w. leicht ableiten. 4. Soll man daher eine gegebene Zahl durch einen Multiplicator vervielfachen, der aus Einheiten besteht, welche zu einer höhern Ordnung gehören, so betrachte man den Multiplicator als Einer, suche nach §. 22. das Produkt, und erhebe dies nach Maaßgabe der höhern Ordnung wozu der Multiplicator gehört, auch zur höhern Ordnung nach 1. 2. und 3. §. 23. — Soll man
+
+[p. 26] 3. B. 95,678 mit 300 vervielfachen, so vervielfache man zuerst mit 3, da erhält man 287,034 und erhebe dies Produkt zu zwei höhern Ordnungen, so erhält man 28703,4+ 5. Wenn man eine Zahl durch die Summe zweier oder mehrerer ganzer Zahlen vervielfachen soll, so ist das Produkt gleich der Summe aller Prodakte aus dem ganzen Multiplicandus und jedem Theil des Multiplicators; denn man ſoll den Multiplicandus so oft nehmen als der Multiplicator Einheiten hat, und dies geschieht, wenn man ſie ſo oft nimmt als jeder Theil Einheiten hat und alle Produkte zuſammenzählt.
+
+Der vorhergehende S. setzt uns in den Stand folgende Aufgabe aufzulösen.
+
+Man soll eine gegebene Zahl, die aus ganzen Zahlen, oder aus Decimalbrüchen, oder aus beiden besteht, mit einer ganzen Zahl, die aus mehr als einer Ziffer besteht, vervielfachen.
+
+Man theile den Multiplicator nach den Ordnungen des Decimalsystems in Einer, Zehner, Hunderte u. f. t. Vervielfache den Multiplicandus zuerst mit den Einern nach §. 22, sodann mit den Zehnern, Hunderten u. s. w. nach §. 23.
+
+Schreibe die verschiedenen Produkte so, daß immer gleiche Ordnungen untereinander stehen, und zähle dieſe verſchiedenen [p. 27] Produkte zuſammen nach §. 11.
+
+beruht auf §. 23, 5. $. 25. Erläuterung der Auflösung durch. Man soll 984 mit 326 vervielfachen;
+
+so löse man den Multiplicator in 6 +20 + 300 auf, ſo ist 6 X 9845904, 20 X 98419680, 300 X 984 295200, zuſammen alsø:
+
+Man sieht bald ein, daß man die Nullen beim zweiten und dritten Produkt u. s. w. sich ersparen kann, wenn man die Theile des Multiplicators als Einer betrachtet und nur immer so viel Stellen zur linken fortrückt, als der Theil des Multiplicators zur höhern Ordnung gehört.
+
+Z. B.
+
+ober
+
+Da die Ordnung der Zahl mit der man vervielfacht durch ihre Stelle bestimmt wird, so darf man [p. 28] nur das Produkt mit derselben Stelle von der rechten zur linken anfangen, die sie selber einnimmt. Man soll 0,089 mit 325 vervielfachen, so zerfällt der Multiplicator in 5 + 20 +300. Nun ist 01,78, und 5 X 0,089 = 0,445, 20 X 0,089
+
+Also
+
+300 X 0,089026,7.
+
+0,089
+
+0,445 01,78 026,7 028,925
+
+28,925.
+
+Man soll 72,35 mit 864 vervielfachen; so ist 8644 +60 + 800, also:
+
+72,35 289,40 4341,0 57880,
+
+62510,40+ 1. Da das Produkt durch Einer zu derselben Ordnung gehören muß als der Multiplicandus, so betrachte man den gegebenen Multiplicandus als eine ganze Zahl, vervielfache ihn durch den Multiplicator und schneide vom Produkt so viel Decimalbruchstellen ab, als im Multiplicandus ſich finden. Diesem zu Folge wird das oben aufgestellte Beispiel 0,089 X 325 folgende Form erhalten:
+
+[p. 29] 0,089
+
+28,925, 2. Es ist an sich gleichgültig, ob man beim Vervielfachen mit einem Multiplicator der aus mehr als einer Ziffer besteht, von der niedrigsten Ordnung des Multiplicators bis zur höchsten aufsteigt, oder umgekehrt von der höchsten Ordnung bis zur niedrigsten herabsteigt, nur daß man in beiden Fällen die Zahlen der Produkte die zu gleicher Ordnung gehören untereinanders ſetzt.
+
+Zum Beiſpiel:
+
+72,35
+
+4341,0 289,40 62510,40. Nur ist es allgemeiner Gebrauch, mit der niedrigsten Ordnung des Multiplicators den Anfang zu machen, wenn nicht in einzelnen Fällen die umgekehrte Ordnung die Operation erleichtert.
+
+S. 26. Soll ein gemeiner Bruch vervielfacht werden, so vervielfache man den Zähler, und schreibe den Nen312 8 X 39 ner darunter. So ist 13 X 39 =
+
+[p. 30] 17 X 16. 17 X × 16 = ist nach §. 12 leicht zu führen.
+
+272.
+
+mit 67 vervielfachen.
+
+S. 27. Wir haben bis jetzt das Produkt von zwei Faktoren gesucht, von denen der eine eine ganze Zahl ſeyn muß.
+
+Dies ist eine einfache Vervielfachung, ſie wird zuſammengesetzt, wenn man mehr als 2 Faktoren hat; ´einen ausgenommen, den man als den Multiplicandus` betrachtet, müſſen alle ganze Zahlen seyn.
+
+Man sucht ſodann das Produkt aus dem Multiplicandus und einem Faktor; das Produkt betrachtet man wieder als Multiplicandus und sucht das Produkt von demselben und dem folgenden Faktor u. s. w. S. 28. Dem Vervielfachen ist das Theilen entgegengeſetzt.
+
+Beim Theilen betrachtet man eine gegebene
+
+Größe als ein bestimmtes Vielfaches von einer ans dern, welche gesucht werden soll. Die · Größe die. als das Vielfache betrachtet wird, heißt der Diviz dendus; die Zahl die da anzeigt, als das Wievielfache der Dividendus betrachtet wird, heißt der Divisor, die zu findende Größe oder die Größe von der der Dividendus Quotient.
+
+das Vielfache ist, heißt der
+
+So ist in dem Saße 8 durch 4 ge="
+
+theilt ist gleich 2, 8 der Dividendus, 4 der Diviſor, 2 der Quotient.
+
+[p. 31] 1. Der Divisor muß beim Theilen stets eine Zahl und zwar eine ganze Zahl seyn, weil sonst der. Begriff des Theilens bei der Operation nicht statt fände. Der Dividendus und Quotient können auch andere Größen ſeyn. Wir sprechen hier nur vom Theilen bestimmter diskreter Größen. 2. Das Zeichen des Theilens ist
+
+, man seht es zwischen dem Dividendus und Divisor;
+
+8 :4 heißt 8 getheilt durch 4; §. 35, 1. wird noch eine andere Bezeichnung gelehrt werden. 3. Ist der Divisor 1, so ist der Quotient dem Dividendus gleich.
+
+S. 29+ Eine gegebene ganze Zahl, mit oder ohne Decimalbrüche, oder auch Decimalbrüche allein zu theilen, wenn der Divisor eine ganze Zahl ist und zu den Einern gehört.
+
+Man 'mache an den Dividendus zur linken Hand einen vertikalen Strich, und sehe den Divisor an denselben ein wenig höher als der Dividendus stehts Divisor Dividendus theile ſodann die höchste vorhandene Ordnung oder wenn die Zahl derselben kleiner seyn sollte als der [p. 32] Divisor, die Zahlen der beiden höchsten Ordnungen, durch den Divisor mit Hülfe des Einmaleins, indem man die Zahl ſucht die mit dem Divisor vervielfacht, entweder die Einer der Ordnung selbst oder ein ihr zunächst kleineres Produkt geben.
+
+Schreibe den gefundenen Quotienten hinter den vertikalen Strich in gleicher Höhe mit dem Dividendus; vervielfache sodann den Quotienten durch den Divisor, und ziehe das Produkt von der Zahl der Ordnung ab, die man theilte.
+
+Bleibt kein Rest, so sehe man die folgende
+
+Ordnung herunter und verfahre auf dieselbe Weise, bleibt hingegen ein Rest, so schreibe man die Zahl der folgenden Ordnung neben ihr zur rechten Hand, betrachte beide Ziffern als zur Ordnung der hinzugefügten gehörig, und schriebene Weise.
+
+verfahre auf die oben des
+
+So wird man nach und nach alle
+
+Ordnungen des Dividendus, und also den Dividendus selbst theilen. Ist im Laufe des ' Theilens die zu theilende Zahl kleiner als der Divisor, so ist kein Theil der Ordnung vorhanden, die eben getheilt werden soll, man setzt daher eine Null in den Quotienten und nimmt die folgende Ordnung zu Hülfe. 1 Beim letzten Abziehen findet sich entweder ein Rest oder nicht; im leßtern Fall giebt der Quotient durch den Multiplicator vervielfacht grade den Dividendus und dieser ist ein genaues Vielfaches;
+
+im ersten Fall ist dies nicht, doch ist zu merken, daß der Rest immer kleiner als der Divisor seyn muß, weil sonst der Quotient wenigstens um 1 größer seyn könnte.
+
+[p. 33] Es entsteht nun die Frage: zu welcher Ordnung des Decimalsystems gehören die Theile des Quotienten? Man sieht bald ein, daß die Ordnung des Quotienten mit der Ordnung des Dividendus die getheilt worden ist, übereinstimmen muß, sobald der Diviſor zu den Einern gehört; man wird also dieselben Orda nungen im Quotienten erhalten, die im Dividendus sich finden, die höchste abgerechnet, die im Quotienten wegfallen kann, wenn die Zahl dieser Ordnung fleiner ist als der Divisor.
+
+Ist also die niedrigste
+
+Ordnung des Dividendus
+
+Einer, so ist dies auch die niedrigste Ordnung des Quotienten; und man hat an demſelben nichts weiter vorzunehmen.
+
+Ist aber die niedrigste Ordnung im Dividendus ein Decimalbruch, so seht man im Quotienten das Comma, was die Stelle der Einer bezeichnet, eben so viel Stellen von der letzten Zahl zur rechten, als es im Dividendus sich findet.
+
+Man sieht daraus, daß man beim
+
+Theilen selbst sich nicht um die Ordnung des Zutheis lenden zu bekümmern hat.
+
+Die Gründe für die
+
+Richtigkeit der Auflösung finden sich in ihr selbst. Ich will jezt dieselbe blog an einem Beispiel erläutern. 346,562 soll durch 9 dividirt werden.
+
+[p. 34] 346,562 38,506
+
+3 Hunderte sind durch 9 nicht zu theilen, man geht also zur folgenden Ordnung, 9 in 34; das nächſte Produkt von 9 an 34 iſt 27, also der Quotient 3, dieſe 3 wird an den Strich unter den Divisor gesetzt, und das Produkt 27 unter die zu theilende Zahl. 27 von 34 bleibt 7, zu dieſer 7 ſeße man zur rechten die folgende Ordnung des Dividendus 6, so daß also 7 der höhern und 6 der niedern Ordnung, d. h. 76 der niedern Ordnung zu theilen ſind. Das nächste Produkt von 9 an 76 ist 72, der Quotient 8, die man zur 3 ſetzt, das Produkt 72 von 76 läßt 4, zu dieser die folgende Ordnung 5 des Dividendus gesetzt, erhält man 45 zu theilen, der Quotient ist hier 5, die man zu den übrigen Ordnungen des Quotienten hinzufügt, das Produkt 45 von 45 läßt nichts. Man sezt also die 6 herunter;
+
+diese kann durch 9 nicht getheilt werden, dies zeigt man durch eine Null im Quotienten an, fügt zur 6 die 2 hinzu, und findet das nächste Produkt von 9 an 62 iſt 54, der Quotient
+
+[p. 35] 6, 6mal 9 ist 54 von 62 läßt 8, so daß also der Divisor und der Quotient nicht grade den Dividendus zum Produkt geben, sondern daß noch 8 Tausendtheile zu theilen übrig bleiben. Da nun im Dividendo Tausendtheile sich finden, so wird die niedrigste Ordnung im Quotienten auch Tausendtheile seyn müſſen, und man ſetzt also das Comma vor der dritten Ziffer von der rechten Hand an gerechnet, grade so, wie es im Dividendus ſich findet. S. 30. Man soll 9732,864 durch 8 theilen, welches ist der Quotient? Man soll 0,045016 durch 5 theilen, welches ist der Quotient? -
+
+Die kleinen Schwierigkeiten, die sich bei Auflösung der letztern Aufgabe finden könnten, wird man bei einigem Nachdenken leicht lösen. S. 31. Eine gegebene ganze Zahl mit oder ohne Decimalbruch, oder auch einen Decimalbruch allein, durch eine ganze Zahl zu theilen, die aus mehreren Ziffern besteht.
+
+Nachdem man den Dividendus und Divisor wie §. 29 angegeben, geschrieben, theile man sich von der höchsten Ordnung des Dividendus (d. h. von der ersten Zahl deſſelben zur linken Hand) an so viel
+
+36. Ziffern ab, als in dem Diviſor ſich finden, sind aber diese kleiner als der Divisor, so wird man, weil sie sich sonst nicht durch ihn theilen laßen würden, eine Ziffer mehr nehmen müſſen; sodann suche man den Quotienten von der ersten Ziffer des Divisors in der ersten oder den beiden ersten des Dividendus, und multiplicire mit dieſem den ganzen Divisor, ziehe das Produkt ab, und verfahre ganz nach §. 29.
+
+Kann man nicht abziehen, so ist dies ein Zeichen, daß der Quotient zu groß ist, und man vermindere ihn so lange um 1, bis man das Produkt abziehen kann. Was die Ordnung der Ziffern des Quotienten betrifft, ſo gilt auch hier was §. 29. davon geſagt worden ist.
+
+198.076,432
+
+25,277
+
+4.13.56
+
+3 gr 80
+
+2.17.64 I 56 72 6.09.23
+
+6.87.12
+
+S. 32. Man soll 42985,67 durch 358 theilen.
+
+[p. 37] 370002,94 ist der Dividendus, 9876 der Divisor, welches ist der Quotient? S. 33. Folgende Säße laßen sich leicht begreifen: Soll man mit 1 theilen, so ist der Quotient dem Dividendus gleich; dies drückt man auch so aus: 1 theilt nicht. Soll man eine Zahl mit 10 theilen, so darf man um den Quotienten zu erhalten, nur jede Ordnung des Dividendus um 1 verringern; ist der Dividendus eine ganze Zahl, so schneide man eine Stelle von der rechten zur linken ab, enthält hingegen der Dividendus schon Decimalbruchſtellen, ſo rücke man das Comma eine Stelle weiter von der rechten zur linken.
+
+Soll man mit 100 theilen, so verringert man jede Ordnung des Dividendus um 2, soll man mit 1000 theilen um 3 u. f. w.
+
+Wie man zu vers fahren, wenn der Dividendus eine ganze Zahl ist, oder wenn er Decimalbruchstellen enthält, läßt sich leicht angeben.
+
+Drückt man den Sah allgemein aus, so heißt er: Soll man eine gegebene Zahl durch 1 mit einer oder mehreren Nullen theilen, so verringere man die Ordnungen des Dividendus um so viel Stellen als der Divisor Nullen enthält.
+
+Man soll 3728 durch 100 theilen. Man theile 4925,6 durch 1000. Man soll 4,8936 durch 100 theilen. Man theile 0,0042 durch 10000.
+
+S. 34. Wenn man den Quotienten mit dem Divisor vervielfacht, und wenn beim Theilen ein Rest geblieben ſeyn sollte diesen zum Produkte hinzuzählt, so wird man den Dividendus erhalten. Der Beweis ergiebt sich aus der Erklärung des Theilens.
+
+S. 35. Allgemeine Säße das Theilen betreffend. 1) Um so vielmal man den Dividendus vervielfacht um so vielmal wird der Quotient größer, wenn der Divisor derselbe bleibt.
+
+Denn da der Quotient durch den Divisor vervielfacht den Dividendus zum Produkt geben muß, so wird, wenn der Dividendus z. B. 8mal größer seyn soll, auch der Quotient smal größer werden müssen, wenn der Divisor derselbe bleibt. So ist auch 5 X 12 getheilt durch 6 = (12 gez theilt durch 6) mal 5 = 10. So ist es einerlei ob ich 12 durch 6 theile und den Quotienten 5mal nehme; oder ob ich 12 5mal nehme und das Produkt durch 6 theile; in jedem Fall erhalte ich 10.
+
+Die S. 3 gegebene
+
+Erklärung eines Bruchs, ſagt uns, daß der Nenner anzeigt, in wie viel gleiche Theile man die Einheit getheilt hat, und der Zähler wie vielmal man einen I der so iſt z. B. bei 2 dieser Theile genommen, ſo 4, Dividendus, 4 der Divisor, und ich soll den Quotienten 3 mal nehmen; dies ist aber derselbe Fall wenn man den Dividendus 1 mit 3 vervielfacht und [p. 39] dann mit 4 theilt also (1 dividirt durch 4) 3mal 3 dividirt durch 4. Ein Beispiel wird das Gesagte deutlicher machen. einem Thaler heißt nach der ersten Erklärung, theile genommen oder einen Thaler in 4 gleiche Theile, (kommt auf jeden Theil 6 Groschen), und´nimm einen solchen Theil 3mal, giebt 18 Groschen.
+
+Man kann aber auch saz gen, nimm einen Thaler 3mal, sind 3 Thaler oder 72 Groschen, und theile sie in 4 Theile, so erhältst du auch 18 Groschen.
+
+Hieraus ergiebt sich eine andere Bezeichnung des Theilens, nämlich die eines Bruchs, wo der Dividendus die Stelle des Zählers und der Divisor die des Nenners einnimmt, und jeder Bruch iſt alſo als der Quotient aus dem Zähler und Nenner zu betrachten. 2) Ferner läßt sich leicht einsehen, um so viel mal man den Dividendus verkleinert, um so vielmal verkleinert man auch den Quotienten, wenn der Divisor derselbe bleibt. 3) Um so vielmal man den Divisor vergrößert, um so vielmal wird der Quotient verkleinert. 4) Um so vielmal man den Divisor verkleinert, um so vielmal wächst der Quotient.
+
+5) Vervielfacht man den Dividendus und den Divisor mit gleicher Zahl, so bleibt der Quotient unverändert, eben dies geschieht, wenn man beide durch eine gleiche Zahl theilt.
+
+Der Werth eines Bruchs bleibt also derselbe, wenn man Zähler und Nenner [p. 40] mit gleicher Zahl vervielfacht, oder mit gleicher Zahl 6 ober 3 2 oder →→→ theilt. ist so viel als 12 £4
+
+$. 36. Bleibt beim Theilen ein Rest, so kann man ihn entweder als gemeinen Bruch darstellen, indem man den Rest als Zähler und den Divisor als Nenner hinschreibt, (wobei man aber nicht vergessen muß, daß dieser Bruch nur der so vielte Theil einer Einheit der letzten Ordnung des Dividendus ist; iſt dieſe Einer, so ist der Bruch ein gewöhnlicher, iſt ſie ein Decimaltheil (Zehntheil, Hunderttheil, Tausendtheil u. f. w. ) so wird der Bruch auch nur der so vielte Theil einer Einheit dieses Decimaltheils ſeyn) ; oder man kann ihn noch näher durch Decimaltheile bestimmen; man weiß nämlich, daß keine Ziffer an Werth wächst, wenn man zu ihr Nullen als Decimalbruchstellen hinzufügt; man kann also so viel Nullen anhängen als man will und nach §. 30 oder 31 das Theilen fortſetzen, entweder bis man keinen Rest mehr findet, oder so lange man es für nöthig er-achtet. S. 37. Der vorhergehende §. führt uns zu einem neuen Unterschied der Zahlen, wo man sie in rationale und irrationale theilt. Die Zahl nämlich bestimmt die Quantität nach einem bestimmten Maaße (der Einheit), ist nun die Quantität weder nach diesem Maaße noch nach aliquoten Theil deſſelben [p. 41] zu bestimmen, so heißt die Zahl irrational, im entgegengesetzten Fall rational.
+
+So kann es sich denn finden, daß wenn man eine Zahl durch eine andere theilen soll, man den Quotienten weder in ganzen Zahlen, noch in Decimalbrüchen genau anges den kann, der Quotient ist also alsdann in Decimale brüchen irrational, wenn er gleich in andern Brůchen rational ist. - Es giebt aber auch Fälle, wo eine Zahl nicht blos in Decimalbrüchen, ſondern überhaupt irrational ist, wie wir dies beim Ausziehen der Wurzeln zeigen werden. Ob man nun gleich die Größe einer Irrationalzahl niemals genau angeben kann, so kann man doch das Fehlende so weit verz ringern als man will. So ist z. B. 6 = 3,3333******
+
+S. 38. Aus §. 36 und 37 ergiebt sich, wie man einen gemeinen Bruch' in einen Decimalbruch verwandeln
+
+Man hängt nämlich dem Zähler nach einem
+
+Comma so viel Nullen an als man will, und theilt bis man entweder keinen Rest behält, oder so weit als man es für nöthig findet.
+
+Man wird bald inne werden, daß gewisse gemeine Brüche sich nie vollſtändig in Decimaltheilen angeben laßen, doch kann man den Fehler so klein machen, als man will, so daß zu jedem Behuf der Decimalbruch die Stelle des gemeinen Bruchs ohne merklichen Fehler vertreten Ist in dem gegebenen gemeinen Bruch, der Zähler größer als der Nenner, so enthält der Bruch Ganze, ist der Zähler dem Nenner gleich, so ist der
+
+[p. 42] Bruch
+
+, ist aber der Zähler kleiner als der Nenner, so enthält der Bruch keine Ganze, und man muß beim Decimalausdruck die Stellen der Einer So ist: 7 durch o bezeichnen. 0,466666 ………….j 2 = 0,4; 2/2 = 1; 2 = 4; = 5,25. in einen beln.
+
+Decimalbruch verwan-
+
+$. 39. Ein gemeiner Bruch heißt ein & chter oder eigentlicher, wenn der Zähler kleiner ist als der Nenner, ¡. B. 3; ein unächter oder uneigent17 licher wenn dies nicht der Fall ist z. B. 15 einem unächten Bruch sind also ein oder mehrere Ganze enthalten.
+
+Hieraus entſpringt die Aufgabe, einen unächten Bruch in Ganze mit oder ohne ächten Bruch zu verwandeln.
+
+Die Auflöſung wird sich aus So ist 17 = 1, dem Vorhergehenden leicht ergeben. 6=5 S. 40+
+
+Einen gewöhnlichen Bruch durch eine ganze Zahl zu theilen.
+
+Man vervielfache seinen Nenner mit dem Divisor, oder man theile seinen Zähler durch denselben. Das leştere thut man nur dann gewöhnlich, wenn der Zähler durch den Nenner getheilt, eine ganze
+
+[p. 43] Zahl ohne Rest zum Quotienten giebt. 4 durch 8 --getheilt giebt 3217 durch 6 getheilt Der Beweis für diese Auflösung beruht auf §. 35. Saß 2. und 3.
+
+S. 41. 1. Eine ganze Zahl in einen Bruch zu verwants deln, der einen gegebenen Nenner hat.
+
+Die Auflösung ergiebt sich aus §. 35. iſt 3 = 18 = 21 16 u. s. w. 2. Eine ganze Zahl und einen ächten Bruch in einen unächten Bruch zu verwandeln, der den Nenner des ächten Bruchs zum Nenner hat.
+
+Die Auflösung beruht auf 1. und §. 12. Zuſatz. S. 42. 1. Wenn eine ganze Zahl sich durch eine andere ganze ſo theilen läßt, daß der Quotient auch eine ganze Zahl ist und kein Rest übrig bleibt, so nennt man den Divisor einen Theiler des Quotienten. So ist 4 ein Theiler von 8.
+
+Der Dividendus ist sodann ein Produkt aus ganzen Zahlen, und der Divisor einer der Faktoren.
+
+Zahlen deren Theiler 2 ist heißen grade, die ans dern ungerade.
+
+Zahlen die außer sich und
+
+1 keinen Theiler haben heißen Primzahlen, die andern zusammengesetzte Zahlen.
+
+2. 3. 5. 7. 11. 13 u. s. w. sind Primzahlen. · Man kann eine jede Zahl als Produkt aus ganzen [p. 44] Zahlen betrachten; ist die Zahl eine Primzahl, so sind diese Faktoren 1 und die Primzahl; ist die Zahl zusammengesetzt, so kann man sie in Faktoren auflösen, die Primzahlen sind.
+
+ist z. B. 30 = 2. 3. 5.
+
+2. Der größte Theiler einer ganzen Zahl ist sie selbst; denn die kleinste ganze Zahl ist 1, kleiner kann also der Quotient nicht werden, und also der Divisor nicht größer als die Zahl selbst. 3. Der Theiler eines Theilers einer Zahl iſt ſelbſt ein Theiler der Zahl.
+
+6 ist ein Theiler von 48,
+
+3 ist ein Theiler von 6, also ist 3 auch ein Theiler von 48. Hat eine Zahl einen Theiler, so ist sie ein Produkt aus dem Theiler und dem Quotienten, welches beides ganze Zahlen sind.
+
+Hat nun der Theiler wiederum einen Theiler, so ist auch er ein Produkt aus ganzen Zahlen, und der Theiler des Theilers wird, wenn ich den leßtern in seine Faktoren auflöſe, ein Faktor der gegebenen Zahl.
+
+In dem gegebenen
+
+Beispiel ist 6 ein Theiler von 48 weil 6 × 8 = 48; darum 3 ein Theiler von 6, weil 2 X 36, so ist 482 X 3 X 8, alſo 2 als eine ganze Zahl ein Faktor von 48, folglich ein Theiler derselben. 4. Der größte gemeinschaftliche Theiler zweier Zahlen kann nur die kleinere Zahl selbst seyn.
+
+Wahrheit dieses Satzes ergiebt sich aus 2. und 3. 5. Der Theiler eines Faktors eines Produkts aus [p. 45] ganzen Zahlen, ist auch ein Theiler des Produkts. Man erkennt die Richtigkeit dieſes Satzes leicht aus 1. und 3. 6. Der gemeinschaftliche Theiler eines Divisors und des Rests ist auch ein Theiler des Dividendus, vorausgesetzt, daß alles ganze Zahlen ſind. Z. B. 78 ſey der Dividendus, 9 der Divisor, so ist 8 der Quotient und 6 der Rest, nun ist 3 ein gemeinſchaftlicher Theiler von 9 und 6, alſo auch von 78. Der Dividendus besteht aus dem Produkt des Divisors vervielfacht durch die zum Quotienten erhaltene ganze Zahl, wenn man zu diesem Produkt noch den Rest hinzufügt; iſt alſo eine Zahl ein Theis ler des Divisors, so ist er auch nach 5. ein Theiler des Produkts desselben, und da er auch nach der Voraussetzung ein Theiler des Restes seyn soll, so ist er der gemeinschaftliche Theiler der gegebenen ganzen Zahl. Es ist in dem gegebenen Beispiel 78 = 78 = 8 ×9 + 6 8 X9 8 × 9 + 6, also 70 3' nun ist eine ganze Zahl (nach 5.), 3 eine ganze Zahl nach der Vor8 ×9 ebenfalls eine gan aussetzung, also + 3 ze Zahl, d. h. 3 ein Theiler von 78. 7. Der gemeinschaftliche Theiler des Divisors und Dividendus, ist auch ein Theiler für den Rest, wenn alles ganze Zahlen sind.
+
+69 sey der Dividendus, 9 der Divisor, so ist 7 der Quotient und 6 der Rest. Der gemeinschaftliche Theiler von 69 und 9 ist 3, so ist dieser auch der Theiler von 6.
+
+[p. 46] Man erhält den Rest, wenn man von dem Die videndus das Vielfache des Divisors abzieht. Theilt man nun den Dividendus durch eine Zahl und durch eben dieselbe das Vielfache des Divisors, und zieht die Quotienten von einander ab, so erhält man den Denn 69 Rest durch eben diese Zahl getheilt. 7 X9 da aber (7 X 9) = 6, also 3 7X9 und 7 × 9 ganze Zahl ganze Zahl. 8. Der größte gemeinschaftliche Theiler für den Divisor und Rest ist auch der größte gemeinschaftliche Theiler für den Dividendus und Divisor.
+
+69 ist der
+
+Dividendus, 9 der Divisor, 7 der Quotient und 6 der Rest; so ist der größte gemeinschaftliche Theiler von 6 und 9 = 3, also ist auch 3 der größte gemeinschaftliche Theiler von 69 und 9. Beweis. Der gemeinschaftliche Theiler für den Rest und Divisor ist auch ein Theiler des Dividendus (nach 6.), gäbe es nun für den Divisor und Dividendus einen größern gemeinschaftlichen Theiler, so wäre dieser auch der Theiler für den Rest (nach 7. ) , dies widerspricht der Voraussetzung. Zwei Zahlen die keinen gemeinschaftlichen Theiler haben, heißen Primzahlen unter sich, und dies jenigen die einen gemeinschaftlichen Theiler haben, heißen zusammengesezte Zahlen unter sich.
+
+[p. 47] Man muß diese Zahlen von den Primzahlen und zusammengesetzten Zahlen überhaupt oder an sich, Zwei Zahlen können zuſammenwohl unterſcheiden.
+
+gesezt und doch unter sich Primzahlen seyn, z. B. 4 und 9, allein keine Zahlen die unter sich zusammengesezt sind, können beide an sich Primzahlen seyn, warum? S. 43.
+
+Den größten gemeinschaftlichen Theiler zweier ganzen Zahlen zu finden.
+
+; Man theile die größere Zahl durch die kleinere T bleibt ein Rest, so theile man den Divisor durch den Rest, bleibt wiederum ein Rest, so theile man den vorhergehenden Divisor durch diesen Rest u. s. w., bis kein Rest bleibt.
+
+Der legte Divisor ist der gesuchte größte Theiler. Erläuterung durch ein Beispiel Man soll den größten gemeinschaftlichen Theiler von 1003 und 1241 ſuchen; so theile man 1241 durch 1003, bleibt 238 zum Rest; dann theile man 1003 durch 238 bleibt 51 zum Rest; man theile 238 durch 51, Rest 34; 51 durch 34 giebt 17 zum Rest; 34 durch 17 läßt keinen Rest, also ist 17 der größte gemeinschaftliche Theiler von 1003 und 1241.
+
+Der Beweis läßt sich nach §. 42, 8. leicht führen, wenn man nur aufwärts steigt. Ist der letzte Rest 1, so haben die gegebenen Zahlen keinen gemeinschaftlichen Theiler, warum?
+
+[p. 48] Welches ist der größte gemeinschaftliche Theiler von 3757 und 11621? Ferner zwiſchen 86304 und 306887?
+
+Es sollen beim mündlichen Vortrag einige Regeln gegeben werden, woran man sogleich erkennen kann, gewisse
+
+Zahlen gemeinschaftliche
+
+Theiler gegebener Zahlen ſind.
+
+§. 44. Einen gegebenen Bruch durch die kleinſten Zahlen auszudrücken, so daß der Werth desselben unverändert bleibt; man nennt dies den Bruch auf seine kleinste Benennung bringen.
+
+Man suche den größten gemeinschaftlichen Theiler von Zähler und Nenner nach §. 43, und theile beide dadurch. 1 Der Beweis, daß der Bruch seinen Werth behalte, beruht auf §. 35, 5.; daß er durch die kleinsten Zahlen ausgedrückt sey, darauf, daß je größer der Divisor ist, desto kleiner der Quotient wird. Haben Zähler und Nenner keinen gemeinſchaftlichen Theiler, so kann man den Bruch nicht in fleis nern Zahlen ausdrücken. 1 Man soll folgende Brüche auf die kleinsten Zahlen reduciren: 34 ′ 1732 ' 91 * $. 45.
+
+[p. 49] S. 45+ Brüche mit verschiedenen Nennern auf eine Des nennung zu bringen, heißt solche Brüche finden, die den gegebenen gleich sind, aber einerlei Nenner haben. Brüche mit verſchiedenen Nennern auf eine Benennung bringen.
+
+Auflöſung, Geſetzt solcher Brüche wären zwei, so haben beide Nenner entweder einen gemeinschaftlichen Theiler oder nicht.
+
+Im lettern Fall vervielfältige man wechselſeitig den Zähler und Nenner eines Bruchs mit dem Nenner des andern; so geben z. B. auf eine Benennung gebracht Haben aber beide 63* Nenner einen gemeinschaftlichen Theiler, so kann man zwar auch auf die eben beschriebene Art verfahren, allein man kann hingegen auch durch den gemeinschaftlichen Theiler beide Nenner theilen, und mit dem Quotienten eines jeden Nenners den Zähler und Nenner des andern Bruchs vervielfachen; z. B. 35 sollen auf eine Benennung gebracht werden, so ist 5 der gemeinschaftliche Theiler von 35 und 20, der Quotient von 35 ist 7, von 20 ist er 4, alſo vervielfache man 17 und 35 mit 4, und 13 und 20 mit 7, so erhält man Der Grund dieses Verfahrens ist leicht zu finden.
+
+Sind drei oder mehrere Brüche gegeben, die auf einerlei Benennung gebracht werden sollen, so sieht man leicht ein, daß wenn man zwei Brüche auf [p. 50] gleiche Benennung gebracht hat, man nur nach und nach immer einen neuen Bruch mit den vorigen auf gleiche Benennung zu bringen braucht, und daß dies nach den oben gegebenen Regeln geschieht. Es laßen sich hier noch besondere Regeln geben, um Brüche deren Nenner nicht sehr groß sind, auf eine leichte Art auf die kleinste gemeinschaftliche Benennung zu bringen, man überläßt aber diese dem mündlichen Vortrage.
+
+S. 46. Nach dem was über Verwandlung der Brüche gesagt ist, läßt sich die Regel des Zuſammenzählens ´ und Abziehens leicht auf mehrere Fälle anwenden. Wir haben §. 12 Zuſatz vom Zuſammenzählen ſolcher Brüche gesprochen, die gleiche Nenner haben, jetzt da wir im Stande sind Brüche unter einerlei Benennung zu bringen, so können wir alle Brüche zuſammenzählen; wir bringen ſie nämlich wenn ſie ungleiche Nenner haben auf einerlei Benennung, zählen ihre Zähler zusammen und geben der Summe den gemeinschaftlichen Nenner.
+
+Erhält man zur
+
+Summe einen ächten Bruch, so sucht man ihn auf seine kleinste Benennung zu bringen (§. 44.) ; ist der Bruch ein unächter, so verwandelt man ihn in Ganze und einen ächten Bruch ( §. 39) , und giebt dem leßtern die kleinste Benennung; hat man außerdem Ganze zusammenzuzählen, so rechnet man die vom unäche ten Bruch erhaltene Ganzen mit dazu. II Wie groß ist +++ 18?
+
+[p. 51] 3 + 7? / +/ Wie groß ist 2+ 3+ 1 / + 9—1? Wie groß iſt 335 + 73 + 83
+
+S. 47. Die Aufgabe: Von zwei Brüchen die gleiche Benennung haben, den kleinern von den größern abziehen, die wir §. 18. aufgelöſet, läßt sich nun allgemein machen: größern abziehen.
+
+Einen kleinern Bruch von einem
+
+Die Auflösung läßt sich leicht
+
+Von 17 ſoll man wegnehmen, welches ist der Rest?
+
+S. 48. Einen ächten Bruch von einer ganzen
+
+Zahl abziehen. Man verwandle eine Einheit der ganzen Zahl, welche lettere also dadurch um 1 kleiner wird, in einen Bruch mit demſelben Nenner als der gegebene Bruch hat (§. 41, 1. ) , und verfahre nach §. 47. 3 von 9, welches ist der Rest? Man soll eine ganze Zahl und einen ächten Bruch von einer größern ganzen Zahl abziehen. 316 von 10, welches ist der Rest? Man soll einen unächten Bruch von einer größern ganzen Zahl abziehen.
+
+[p. 52] Von 19 soll man 23 wegnehmen, was bleibt übrig?
+
+Die Auflösung dieser Aufgaben kann keine Schwierigkeit machen.
+
+49.
+
+$.
+
+Einen ächten Bruch von einer ganzen Zahl und einem ächten Bruch abziehen, wo aber ächte
+
+Bruch des Minuendus kleiner als der des Subtrahendus ist.
+
+Man bringe zuvörderst die beiden Brüche, sie ungleiche Nenner haben sollten, auf einerlei Benennung, vermindere die ganze Zahl um 1, und löse diese Einheit in einen Bruch, von demselben Nenner als die beiden andern Brüche haben, auf, ſeße diesen Bruch zu dem Bruch des Minuendas hinzu, und ` verfahre nach §. 47• Aufgaben in bestimmten Zahlen. Man soll 15 von 13 wegnehmen.
+
+Wenn man 17 von übrig?
+
+wegnimmt, was bleibt
+
+Eben so leicht läßt sich nun die Aufgabe lösen, von einer ganzen Zahl und einem ächten Bruch eine andere ganze Zahl und einen ächten Bruch wegnehmen, wo zwar der Subtrahendus kleiner ist als der Minuendus, aber einen größern Bruch hat. weggenommen, welches iß der Neſt? von 18
+
+[p. 53] Es bedarf wohl keiner Erinnerung, daß wenn man beim Abziehen zum Rest einen Bruch erhält, man diesen auf seine kleinste Benennung bringen müsse.
+
+$. 50. Der Ausdruck feiner buchstäblichen
+
+Multipliciren heißt freilich
+
+Bedeutung nach vervielfachen, (vervielfältigen) allein der Arithmetiker hat ihm eine weitere Bedeutung gegeben; er versteht nämlich 1 darunter, man soll aus einer gegebenen Größe eine andere entspringen laßen, wie eine gegebene Zahl aus der Einheit entsprang.
+
+Die Größe aus der eine andere hervorgebracht werden soll, heißt der Multiplicandus, die Zahl nach der sie hervor, gebracht werden soll (d. h. die man aus der Einheit entsprungen sich vorstellt) , der Multiplicator, und die aus beiden entsprungene Größe das Produkt.
+
+Der Multiplicandus kann jede Größe ſeyn, und das Produkt ist ihm gleichartig, der Multiplicator aber muß eine Zahl seyn, weil er aus 1 sprungen vorgestellt wird.
+
+ent-
+
+Der Arithmetiker bez trachtet auch nur diskrete Größen (Zahlen) als Multiplicanden. Wir wollen die gegebene Erklärung des Multiplicirens an Beispielen erläutern.
+
+8 mit 4 multipliciren, heißt aus 8 eine Größe hervorbringen, wie 4 aus 1 hervorgebracht wird.
+
+4 wird aus 1 hervorgebracht, indem man sie 4mal zu sich selber hinzusetzt, [p. 54] also wird man 8 auch 4mal nehmen müſſen, giebt 32.
+
+Hier ist 8 der Multiplicandus,
+
+Multiplicator, 32 das Produkt.
+
+4 der Ferner 16 mit 8 multipliciren, heißt aus 16 eine Zahl entspringen — entſpringt aus 1 wenn ich 1 8 aus 1. 8 in 8 gleiche Theile theile und einen derselben 5mal laßen, wie nehme, ich soll also auch
+
+16 in 8 Theile theilen, kommt auf jeden Theil 2, und ihn 5mal nehmen, giebt 10. Hier ist 16 der Multiplicandus, 8 der Multiplicator, 10 das Produkt. Endlich 7 mit 3 multipliciren, heißt aus 7 eine Zahl entſpringen la2 ßen, wie 3 aus 1; 3 entspringt aus 1, wenn man dieſe in 3 Theile theilt und jeden
+
+2mal nimmt,
+
+3 in 3 Theile getheilt, giebt (nach §. 30) 21, die7 fen 2mal genommen giebt ΟΙ (nach § . 19) oder 2 Hier war der Multiplicandus, — der Multipli3 2 7. das Produkt. cator und Man sieht bald folgende Säße ein: 1. Das Vervielfachen ist ein Multipliciren, wo der Multiplicator eine ganze Zahl ist, daher die Benennungen Multiplicandus, Multiplicator und Produkt auch beim Vervielfachen gebraucht wurden; ferner ist das beim Vervielfachen angegebene Zeichen X oder + das allgemeine Zeichen der Multiplication. 2. Nicht jedes Multipliciren ist ein Vervielfachen; z. B. mit 4 multiplicirt, giebt nur S. 51. Die Regeln für das Multipliciren, wenn der [p. 55] Multiplicator eine ganze Zahl ist, haben wir oben in der Lehre vom Vervielfachen dargethan, wir haben also hier blos die Fälle noch nachzuholen, wenn der Multiplicator keine ganze Zahl ist. ;
+
+Erste Aufgabe. Einen Bruch mit einem Bruch zu multipliciren. Die Auflösung ergiebt sich aus §. 50. 3. 4 mit 6 multipliciren Zweite Aufgabe. Eine ganze Zahl mit einem Bruch zu multipliciren. Die Auflösung beruht auf der Auflöſung der ersten Aufgabe und §. 41. 1. Man soll 16 mit multipliciren.
+
+Dritte Aufgabe. Man soll eine ganze Zahl und einen Bruch mit einen Bruch multipliciren. Die Auflösung beruht auf der Auflösung der erſten Aufgabe und §. 42. 2. Man soll 63 mit 9 multipliciren.
+
+Vierte Aufgabe. Man soll eine ganze Zahl und einen Bruch mit einer ganzen Zahl und einem Bruch multipliciren. Auch diese Auflösung beruht auf der Auflösung der ersten Aufgabe und §. 41, 2. Man soll 95 mit 83 multipliciren. Man kann darauf aufmerksam machen, daß alle Aufgaben das Multipliciren mit Brüchen betreffend [p. 56] sich auf die erste Aufgabe zurückführen laßen; deren Gesetz sich allgemein so ausdrücken läßt.
+
+Wenn man zwei
+
+Brüche mit einander multipliciren soll; so erhält man zum Produkt, das Produkt der Zähler dividirt durch das Produkt der Nenner. S. 52. Erste
+
+Eine ganze Zahl mit einem
+
+Decimalbruch zu multipliciren.
+
+Man betrachte den Decimalbruch als eine ganze Zahl, vervielfache mit ihm den Multiplicandus, und schneide sodann vom Produkt so viel Decimalbruchstellen ab, als der Multiplicator enthält. Der Beweis für die Richtigkeit der Auflösung läßt sich nach §. 51, 2. leicht führen;
+
+auch kann
+
+`man ihn nach §. 23´ führen. Man ſoll 376 mit 0,0058 multipliciren. Zweite Aufgabe.
+
+Eine ganze Zahl und einen Decimalbruch mit einem Decimalbruch zu multipliciren. Die Auflösung ergiebt ſich aus der vorigen Auflösung und §. 51, 3+ Man soll 93,76 mit 0,682 multipliciren.
+
+Dritte Aufgabe. Eine ganze Zahl und einen Decimalbruch mit einer ganzen Zahl und einem Decimalbruch zu -multipliciren. Die Auflösung ergiebt sich aus §. 51, 4.
+
+[p. 57] S. 53. Das Produkt bleibt unverändert, wenn man auch den Multiplicandus in den Multiplicator, und den Multiplicator in den Multiplicandus verwandelt. Wir haben oben S. 19, die Wahrheit dieſes
+
+Sages für den Fall bewiesen, daß beide Faktoren ganze Zahlen sind;
+
+alle übrige Fälle aber laßen sich auf §. 51, 1. zurückführen, wo sich nun leicht darthun läßt, daß der Lehrsaß auch hier seine Anwendung leidet.
+
+Was hier von dem Produkte zweier Faktoren ges sagt worden ist, läßt sich leicht von mehreren zeigen. S. 54. Auch den Begrif_des Dividirens, welches buchstäblich genommen,
+
+Theilen heißt, erweitert
+
+Arithmetik; Dividiren heißt nach ihr, eine gegebene Größe (sie beschäftigt sich nur mit diskreten
+
+Größen) , als ein Produkt von zwei Faktoren betrachten, wovon der eine Faktor gegeben ist, man sucht den zweiten Faktor.
+
+Die Zahl die als Produft betrachtet wird heißt der Dividendus, gegebene Faktor der Divisor und der zu findende der Quotient; Ausdrücke, die wir schon oben beim Theilen hatten, denn das Theilen ist ein Dividiren, wo der Divisor eine ganze Zahl ist.
+
+Die Zeichen des Dividirens sind die oben beim Theilen angegebenen.
+
+[p. 58] Erläuterung der Erklärung des Dividirens durch Beispiele. 8 durch 4 dividiren, heißt 8 als Produkt des trachten, wovon 4 der eine Faktor ist, also muß der andere 2 ſeyn.
+
+8 durch dividiren, heißt 8 der gine Faktor als Produkt betrachten, wovon ist, man muß mit 32 multipliciren, um 8 zu erhalten, also ist der Quotient 32.
+
+$. 55. Die Regeln für das Dividiren sowohl für ganze Zahlen, als Brüche, wenn der Divisor eine ganze
+
+Zahl ist, haben wir oben gegeben, ´es kömmt alſo blos noch auf die Auflösung der Fälle an, wo der Divisor keine ganze Zahl ist. Einen ächten Bruch durch einen ächten Bruch
+
+Man kehre den Divisor um, d. h. mache seinen Zähler zum Nenner und seinen Nenner zum Zähler, und multiplicire damit den Dividendus. Erläuterung der Auflösung durch ein Man soll 2 durch / dividiren, ſo verwandle man den Divisorin 5 und multiplicire damit 4 so erhält man 20 oder ΙΟ. Beweis der Richtigkeit der Auflösung. Der Divisor mit dem Quotienten multiplicirt, [p. 59] muß den Dividendus zum Produkt geben, Definition des Dividirens.
+
+nach der
+
+Ist nun der Zähler des
+
+Quotienten der Zähler des Multiplicandus mit dem Nenner des Divisors vervielfacht, und sein Nenner der Nenner des Multiplicandus mit dem Zähler des Divisors vervielfacht, so wird er bei dem Multipliciren mit dem Didiſor, durch den Zähler des Divisors vervielfacht, und durch den Nenner desselben getheilt, wo also das Vervielfachen und Theilen sich aufhebt, und man nun den Multiplicandus erhält.
+
+Ein Beispiel den Beweis anschaulicher machen. 3X6 $ Iſt der Quotient von durch — dividirt = 4 X 5' 3 X 6 3X 6 so muß 5 X 5 4 X 4 mit 6 multiplicirt 4 geben, 3X 6X5 × 6 giebt 4 × 5 ×6′ und dies iſt 2 denn 4 soll dieſem zu Folge mit 6 und 5 vervielfacht, und durch 6 und 5 getheilt werden, welches sich aufhebt. Man soll 7 8 durch 12 dividiren.
+
+S. 56. 1. Eine ganze Zahl durch einen Bruch dividiren. Man wird die Auflösung nach §. 55 leicht finden, wenn man die ganze Zahl ſich als Bruch denkt, dessen Zähler die Zahl selbst und dessen Nenner 1 iſt. Man soll 8 durch
+
+2. Eine ganze Zahl und einen Bruch durch einen Bruch dividiren.
+
+Man verwandle die ganze Zahl und den Bruch in einen unächten Bruch und verfahre nach §. 55. Man soll 9 durch 3. Eine ganze Zahl durch eine ganze Zahl und einen Bruch dividiren. Man soll 2 durch 8
+
+4. Eine ganze Zahl und einen Bruch durch eine ganze Zahl und einen Bruch dividiren. Man soll 63 8 durch 22 dividiren. 5. Einen Bruch durch eine ganze Zahl und einen Bruch dividiren.
+
+durch 8
+
+Die Auflösung der Aufgaben 3, 4 und 5 kann keine Schwierigkeiten machen.
+
+Man wird bald einsehen, daß sich alle §. 56 aufgestellte Fälle auf §. 55 zurückführen laßen.
+
+Man vergleiche hier die Anmerkung zu S. 51.
+
+$. 57+ Eine ganze Zahl und einen Decimalbruch, durch eine ganze Zahl und einen Decimalbruch dividiren.
+
+Man betrachte den Dividendus und Divisor als ganze Zahlen, und theile nach den §. 31 gegebenen
+
+[p. 61] Regeln, erforderlichen Falls kann man dem Diviz dendus noch Nullen als Decimalstellen anhängen.
+
+Nun müßte man nach §. 35, 3. dem Quotienten ſo viel Nullen anhängen, als der Divisor Decimalbruchstellen enthält, und nach §. 35, 1. dem Quotienten so viel Decimalbruchstellen abschneiden als der Dividendus Decimalbruchstellen enthält, eine dieser Operationen hebt aber die andere auf, daher ziehe man die kleinere Zahl der Decimalbruchſtellen von der größern ab; rührt der Rest von der größern Anzahl im Divisor her, so hänge man dem Quotienten so viel Nullen an, als der Rest Einheiten hat;
+
+rührt der
+
+Rest von der größern Anzahl im Dividendus her, ſo schneide man so viel Decimalbruchstellen vom Quotienten ab, beide,
+
+Dividendus und Divisor gleichviel Decimal als der Rest Einheiten hat.
+
+Haben bruchstellen, so bleibt der Quotient unverändert.
+
+Auf die Gründe für die Richtigkeit der Auflösung ist in der Auflöſung ſelbſt hingewieſen. Man soll 97,365 durch 82,729, ferner 9,2 durch 35,632 und 837,269 durch 2,83 dividiren. Die Auflösung folgender Aufgaben läßt sich bei einigem Nachdenken bald finden. 1. Eine ganze Zahl durch einen Decimalbruch die vidiren. Man soll 35 durch 0,0279 dividiren. 2. Eine ganze Zahl durch eine ganze Zahl und einen Decimalbruch dividiren. Man soll 9 durch 72,638 dividiren.
+
+[p. 62] Einen Decimalbruch durch einen Decimalbruch dividiren. Man soll 0,028 durch 0,97856 dividiren.
+
+Einen Decimalbruch durch eine ganze Zahl und einen Decimalbruch dividiren. Man soll 0,36 durch 29,786 dividiren. $. 58. Die 4 einfachen Rechnungsarten, deren Gesetze.
+
+wir für bestimmte Zahlen im Vorhergehenden aufgestellt haben, sind also: Zuſammenzählen, Abziehen, Multipliciren und Dividiren.,
+
+Auf gleiche Weise werden wir die Gesetze der einfachen Rechnungsarten für unbeſtimmte diskrete Größen aufstellen müſſen. $. 59. Die Algebra oder Buchstabenrechnung unterscheidet einstimmige und entgegengesetzte Größen (ſ. §. 6), braucht. Gröz für welche sie die Zeichen + und ßen mit gleichen Zeichen sind einstimmig, mit ver― 4a und - 3a schiedenen Zeichen entgegengesetzt.
+
+ſind einstimmig, + 5a und + ga ebenfalls, aber 6a und + 2a, und + 4a 4a sind entgegengesetzt. · Einstimmige Größen zu einander hinzugefeßt vergrößern sich, entgegengesetzte heben sich entweder ganz oder zum Theil auf.
+
+Daher stellt die
+
+Algebra an die Stelle des Zuſammenzählens, erweiterten Begrif des Addirens, und versteht darunter mehrere gegebene gleichartige Größen zu einem Ganzen vereinigen.
+
+Das Ganze heißt die Summe.
+
+Man kann nur gleichartige Größen a und a, Thaler [p. 63] und Thaler, aber nicht a und b,
+
+Scheffel und
+
+Thaler addiren, oder man müßte sie unter einen gemeinschaftlichen Begrif bringen.
+
+Wenn man daher unbestimmte Größen (Buchstaben) addiren soll, schreibe man gleichartige untereinander.
+
+Sind die
+
+Größen einstimmig, so zählt man sie zuſammen, und die Summe erhält das Zeichen der Summanden; sind sie entgegengesetzt, so zieht man die kleinere von der größern ab, der Rest behält das Zeichen der größern Größe.
+
+Sind beide gleich, so heben sie sich auf.
+
+Da der Werth der Buchstaben nicht von ihrer Stelle abhängt, auch die einzelnen Theile der Reihen auf einander weiter keinen Einfluß haben, so kann man von der rechten oder linker Hand, ja auch in der Mitte anfangen, nicht, thut man das letztere um sich nicht zu verwirren und etwas zu übersehen. Beispiel
+
+4a + 3b gc + d 3f + 6g d ― -9f7gh 5a 76 + 8c ga
+
+- 12f + 6g7gh
+
++ 4a und + 5a ſind einstimmig, geben also zusammengezählt + 9a. fang einer Zeile
+
+Man schreibt aber zu An----- 76 nicht hin. +36 und sind einander entgegengesetzt, 3 von 7 bleibt 4, dieſe 46 sind minus, ist.
+
+weil die größere Anzahl b minus
+
+Aus eben den Gründen giebt zur Summe gc und + 8c Ic, welches man c schreibt [p. 64] (nach §. 6).
+
++ d und -d heben sich auf, läßt sodann die Stelle leer und seht keine Null weil hier keine Ordnung zu bezeichnen ist, wie bei den
+
+Einige pflegen an die Stelle ein Sternchen zu setzen.
+
+— 3f und — 9f ſind einstimmig, man zählt sie zusammen und erhält — 12f. + 6g und by 7gh können nicht addirt werden, weil sie ungleichartig sind, schreibt man sie blos neben einander hin.
+
+§. 60. Hat man mehrere Reihen von Größen zuſammen zu addiren, so ordne man sie nach ihrer Benennung untereinander. Sind Größen von einer Art einstimmig, so zählt man sie zusammen; sind sie aber entgegengesetzt, so zähle man die positiven (mit + bezeichneten) zuſammen, ven (mit und so ebenfalls die negatibezeichneten) und ziehe sodann eine Summe von der andern ab, wie wir in dem vorhergehenden S. gezeigt haben.
+
+Beispiel zur Erläuterung. -5a + 66-30 + 2d - 4g 7a + 9b2c + 3d —7h ga
+
++ 3b6c14d6h
+
+10a + 56—8c + 21d - 8g a +236—19c + 12d — 128 —h
+
+Beispiele
+
+[p. 65] Beispiele zur eigenen Auflösung. -—·6a + 3b — 2c — 6d + 8e - of −2a + 5b + c + 6d13e 13e5f + 5f
+
+7a - 36 + 7c gd
+
+13a6b9c — 4d
+
+9a2b6c5d 124- 76 + 80-3d 15a.
+
+46 -20- 8d
+
+Einige praktische Vortheile zur Erleichterung des Addirens sollen beim mündlichen Vortrage ans gegeben werden. S. 61.
+
+Das was S. 59 gesagt worden, führt schon auf die Vermuthung, daß der Algebraist an die Stelle des Abziehens einen andern weitern Begrif geben werde; dieser ist der Begrif des Subtrahirens. Subtrahiren heißt den Unterschied (die Differenz) zwischen zwei Größen finden, d. h. bestimmen, was man zu der einen addiren muß, um sie der andern gleich zu machen. Um den Unterschied zweier Größen zu beſtimmen, muß man sie untereinander vergleichen;
+
+die Größe mit der die andere verglichen werden soll, heißt der Minuendus, die mit ihr verglichen werden soll (bei der ich frage, was muß man zu ihr addiren, damit sie dem Minuendus gleich werde) , heißt der &
+
+[p. 66] Subtrahendus und was man zum Subtrahendus addiren muß, daß er dem Minuendus gleich werde, heißt die Differenz. In dieser Definition des Subtrahirens liegt zugleich die Anweiſung, wie man die Differenz zweier Größen finden könne;
+
+man hat nur zu untersuchen, wieviel man zum Subtrahendus addiren muß, um ihn dem Minuendus gleich zu machen. Beim Aufsetzen eines Erempels der Subtraction ſet man gewöhnlich den Minuendus oben, und den Subtrahendus drunter, doch so, daß gleichartige
+
+Größen (Größen mit einerlei Benennung) untereinander zu stehen kommen. Wir wollen jezt nach der gegebenen Regel eine Aufgabe des Subtrahirens löſen. —9a + 56—2c + 3d — 2e + 11ƒ — 78 +3h gk e + 3ƒ ·5a +86 + 6c — gd 10e 3f-— 78—3h + 9k — 4a — 3b — 8c + 12d + 8c + 8f
+
++ 6h - gk
+
+Was muß man zu — 5a addiren, damit man - ga erhalte? ― 4a, denn 5a und 4a geben — ga, also ist 4a die Differenz zwischen — ga und
+
+5a.
+
+Der Fall hat keine Schwierigkeit.
+
+Was muß man zu + 8b addiren, damit man + 5b erhalte?
+
+Da 8b schon mehr ist als 3b, ſo ſieht man wohl, daß man zu + 86 nicht noch b mit dem Zeichen + addiren könne, um +56 zu erz halten; entgegengesetzte Größen vermindern sich, wenn ich daher zu + 86,
+
+3b addire, so erhalte ich+5b, [p. 67] folglich ist die Differenz zwischen + 8b und + 56 gleich -36. Was muß man zu + 6c addiren, damit man -2c erhalte? Noch + c'addiren, würde nur die + 5c vermehren, man muß also -c addiren, wieviel aber? Wenn ich zu + 6c erhalte ich Null, addire ich also -— 20 so habe ich 2c, die Differenz wird also
+
+6c addire, mehr, ― 6c und — 2c, d. h. — 8c seyn. Was muß man gd addiren, um + 3d zu erhalten, offenbar zu
+
++ d, aber wieviel? addirt man + gd, hat man Null, da man nun + 3d haben soll, so muß man außer + gd noch + 3d addiren, d. h. die Diffes. 10e addic renz ist + 12d. Was muß man zu ren, um ze zu erhalten? + 8c, dennroe und
+
++ 8e giebt — 2e.
+
+Daß man zu + 3/ + of addiren müſſe, um + 11f zu erhalten, ist leicht einzusehen.
+
+Was muß man zu- 7g addiren, damit es
+
+7g werde? schon gleich.
+
+Nichts, denn beide Größen sind
+
+Man läßt alſo in der Differenz die 3h Zu
+
+Stelle offen oder bezeichnet sie mit *. muß man
+
+6h addiren, um + 3h zu erhalten; 3h und denn addire ich erst + 3h, ſo giebt
+
++34 Null, ich muß also noch + 3h, zusammen Was muß man zu + 9k addiren, + 6h addiren. damit man Null erhalte? gk. Die Differenz zum · Subtrahendus addirt, giebt den Minuendus, man wird also sowohl bei einzelnen Stellen eines Exempels als beim ganzen
+
+[p. 68] Exempel selbst, dadurch untersuchen können, ob man richtig gerechnet habe, oder nicht. Frage. Ist es beim algebraischen Subtrahiren gleichgül- ' tig oder nicht, wo man anfängt, und warum? Beispiel zur eigenen Auflösung. 9a2b + 30—4d5e—
+
+7f88 + 9h
+
+15a + 6b3c2d + 5e — 11f+ 6g + zh
+
+$. 62. Ob gleich diese Art die Differenz zweier Größen zu finden, völlig richtig ist, so ist sie doch vorzüglich für Anfänger mit Schwierigkeiten verbunden und daher ist man darauf bedacht geweſen, diese Operation auf eine leichtere Art zu verrichten, für welche wir jetzt die Regel angeben und die Richtigkeit derselben beweisen wollen.
+
+Wir schicken zum beſſern
+
+Verständniß folgende Säße voraus, deren Wahrheit man leicht einsehen wird:
+
+I+
+
+Wenn der Subtrahendus Null iſt, ſo ist die
+
+Differenz dem Minuendus gleich. 2+
+
+Wenn man zum Minuendus und zum Subtrahendus gleiche Größe addirt, so bleibt die Differenz unverändert.
+
+Wenn man zu einer Größe ihr gleiches Gegentheil (d. h. die Größe selbst mit entgegengesettem Zeichen) addirt, so wird diese in Null verwandelt.
+
+Dies vorausgesetzt, so wird man folgendem Gang der Untersuchungen leicht folgen können. Könnte man [p. 69] den Subtrahendus in Null verwandeln, doch so daß die Differenz unverändert bliebe, so würde man nach 1. die Differenz leicht finden. Man verwandelt aber den Subtrahendus in Nall, wenn man sein Gegentheil (d. h. dieselbe Größe mit entgegengeseßtem Zeichen) zu ihm addirt, nach 3. , soll nun die Differenz unverändert bleiben, so muß man nach 2 zum geges t denen Minuendus auch das Gegentheil des Subtrahendus d. h. den Subtrahendus mit entgegengesetzten Zeichen addiren.
+
+Unter diesen Umſtänden: wird aber alsdann nach 1, die Differenz gleich seyn dem Minuendus zu dem man den Subtrahendus mit entgegengesetztem Zeichen addirt. —
+
+Hieraus ergiebt sich also folgende Regel für die Operation des Subtrahirens: Man verwandle die- Zeichen des Subtrahendus in die entgegengesetzten, und addire ihn so verwandelt zum Minuendus, so erhält man die Differenz.
+
+Anmerkung Man schreibt die verwandelten Zeichen zur Vermeidung aller Verwirrung unter die gegebenen. -9a +56-2c + 3d
+
+2e + 11f- 78 +3h
+
+−5a + 8b + 6c— 9d - 10e + 3f- 78—3h + 9k --+ + + —4a — 36—8c + 12d + 8e + 8f
+
++ 6h - gk
+
+§. 63. Das Abziehen bei beſtimmten Zahlen ist auch ein Subtrahiren, daher man dort auch die Benennungen
+
+[p. 70] Minuendus,
+
+Subtrahendus und Differenz braucht;
+
+unter welchem Fall des algebraiſchen Subtrahirens gehört das Abziehen? Warum ist das Zeichen des Abziehens und der entgegengesetzten Größe einerlei?
+
+Man nennt die Zahlen womit die Buchstaben multiplicirt sind, Coefficienten, so ist z. B. in dem Ausdruck 4a, 4 der Coefficient von a, bei 5 a ist der Coefficient von a. ― Wir haben in den bisher gegebenen Beispielen ſowohl beim Addiren als beim Subtrahiren lauter ganze Zahlen zu Coefficienten 'gewählt, man sieht aber leicht ein, gut Brüche seyn können, daß es eben so und daß das was in der Lehre von den einfachen Rechnungsarten der Zahlen gesagt worden ist, völlig hinreicht, auch in solchen
+
+Fällen keine Schwierigkeiten zu finden.
+
+§. 64. Die dritte einfache Rechnungsart ist das Multipliciren; die Algebra behält hier den §. 50 gegebes 36 multipliciren, nen Begrif bei. + 4a mit heißt aus
+
++ 4a eine Größe hervorbringen,
+
+-3b aus 1 entstanden ist. Die Kunstausdrücke Fattor,
+
+Multiplicandus,
+
+Multiplicator werden auch hier in der §. 50 tung gebraucht.
+
+und Produkt, angegebenen Bedeus
+
+Das Zeichen des Multiplicirens iſt
+
+X oder, nur ist zu merken, daß wenn einer oder beide Faktoren aus mehr als einer Größe bestehen, man sie in Klammern einſchließen muß. z. B. (a + b) X (a - c).
+
+Man hat beim Multipliciren in der
+
+[p. 71] Algebra auf drei Stücke zu sehen, auf die Zeichen, Coefficienten und Buchstaben der Faktoren. (Es können beim Multipliciren entweder zwei oder mehrere Faktoren sich finden; allein man ſieht bald ein, daß man nur die Regeln für das Multipliciren zweier Faktoren anzugeben hat, weil sich sodann das Multipliciren mehrerer Faktoren leicht daraus ableiten läßt) . Regel für die Zeichen des Produkts. Gleiche Zeichen zweier Faktoren geben +, verschiedene - zum Produkt. In Rücksicht der Zeichen finden beim Multipliciren zweier Faktoren folgende 4 Fälle ſtatt: Multiplicandus Multiplicator d. h. entweder beide Faktoren haben +, oder beide oder der Multiplicandus + und der Multipliund der Mul, oder der Multiplicandus cator tiplicator +.
+
+Wir müssen also für jeden dieser 4
+
+Fälle das Zeichen des Produkts beſtimmen.
+
+Hier ist nun erstlich zu merken, daß man in der Algebra die Einheit, die allen Zahlgrößen, als Maaß zum Grunde liegend gedacht wird, positiv oder + annimmt.
+
+Dies vorausgesetzt, so wird man nach der Definition des Multiplicirens die Zeichen des Produkts in den 4 aufgezeichneten Fällen bestimmen können.
+
+Multipliciren heißt aus dem Multiplicandus eine Größe hervorbringen, wie der Multiplicator aus der Einheit entstanden ist.
+
+Gesetzt nun
+
+[p. 72] 1) beide Faktoren sind +, so ist der Multiplicator und die Einheit einstimmig, also muß es der Multiplicandus und das Produkt auch seyn, da nun der Multiplicandus + iſt, ſo iſt das Produkt auch +. 2) Sind beide Faktoren —, so ist der Multiplicator der Einheit entgegengesetzt, also muß das Produkt dem Multiplicandus gleichfalls entgegengesetzt ſeyn, da nun der Multiplicandus ist, so ist das Produkt +.
+
+3) . Ist der Multiplicandus + und der
+
+Multiplicator - , so ist der Multiplicator der Einheit èntgegengeseßt, alſo muß das Produkt dem Multiplicandus auch entgegengesetzt seyn, da nun dieser + 4) Ist der Multipliist, so ist das Produkt candus — , und der Multiplicator +, so ist Multiplicator und Einheit einstimmig, also Multiplicandus und Produkt auch, da nun der Multiplicandus ist, so ist das Produkt ebenfalls
+
+Produkt
+
+3+ +1
+
+Multiplicator
+
+2+
+
++1+
+
+I+
+
+Hieraus ergiebt ſich: Multiplicandus
+
+Mit andern Worten: Haben beide Faktoren gleiche Zeichen, so ist das Produkt +, haben sie verschie bene Zeichen, Regel für das Multipliciren der Coefficienten. Die Coefficienten sind bestimmte Zahlen.
+
+Wie man diese mit einander multiplicirt, ist in der Lehre von den einfachen Rechnungsarten beſtimmter diskres [p. 73] ter Größen hinreichend gelehrt worden.
+
+Findet sich kein Coefficient, so ist 1 als Coefficient anzusehen. Regel für das Multipliciren der Buchstaben.
+
+Da die Buchstaben Zeichen unbeſtimmter diskreter Größen sind, so kann hier keine wirkliche Multiplication statt finden, ſondern dieſe blos bezeichnet werden, dies geschieht dadurch, daß man die Buchstaben, die mit einander multiplicirt werden sollen, neben einander schreibt; so ist z. B. a×b= ab, bc X de bode u. f. w.
+
+(Warum geht diese
+
+Bezeichnung bei der Multiplication bestimmter Zahe len nicht an? )
+
+Nur ist hierbei zu bemerken, daß man für aa gewöhnlich a², für aaa, a³, für a a a'a, aª u. f. w. schreibt, welches für alle Buchstaben b, c, d u. s. w. gilt.
+
+Auch ordnet man die
+
+Buchstaben des Produkts gern nach ihrer Folge im Alphabet, z. B. bf × dg = bdfg, und nicht bfdg, ob gleich diese Ordnung nicht nothwendig, ſondern nur in anderer Rücksicht nützlich ist.
+
+§. 65. I. Aufgabe. Einen mehrtheiligen Multiplicandus durch einen eintheiligen Multiplicator zu multipliciren.
+
+Man multiplicire jeden Theil des Multiplicandus mit dem Multiplicator. 5a 3b + 2c 6a
+
+3d
+
++ 4f
+
+~ 30 a² + 18 ab➡ 12 ac + 18 ad — 24af
+
+[p. 74] 2. Aufgabe. Einen mehrtheiligen Multiplicandus mit mehrtheiligen Multiplicator zu multipliciren. Man multiplicire jeden Theil des Multiplicandus mit jedem Theil des Multiplicators, und addire die einzelnen Produkte, weshalb man auch die gleichartigen Größen (die Größen, welche gleiche Benennung haben) untereinander schreiben muß. 3a C 46 +20
+
+7a +66 -
+
+5c durch7 a = 21 a² —28 ab + 14 ac durch6b =
+
++18 ab
+
+-2462+ 12bc -15 ac durch5 c =
+
+21a2-10 ab.
+
++ 20bc- 10c² ac- 24 b² + 32 bc - 10 c²
+
+Man soll7a + 36 —
+
+2 c + 5 d mit 9 a
+
++ 66-70-9 d multipliciren. Man soll a + b´mit a+b multipliciren. Man soll a+b mit a—b multipliciren.
+
+Frage: Mit welchem Theile des Multiplicators und Multiplicandus muß man zu multipliciren anfangen?
+
+S. 66. Ist das Produkt von mehr als zwei Faktoren zu ſuchen, so multiplicire man zuvorderst zwei derselben, betrachte das Produkt als einen neuen Faktor und suche das Produkt zwiſchen ihm und den folgenden Faktor u. s. m. -
+
+[p. 75] Man fordert die Auflösung (4a 7b + 5 cd) (4a folgender Aufgabe: ➖ 2b + gcd) (3 a
+
+X (7a + 56-3c)
+
+§. 67. Die S. 54 gegebene Definition des Dividirens und die dort beſtimmten Kunstausdrücke des Dividendus
+
+Divisors und Quotienten werden in der
+
+Buchstabenrechnung beibehalten. Auch hier wird man - wie beim Multipliciren auf die Zeichen, Coefficienten In Rücksicht und Buchstaben zu sehen haben.
+
+der Zeichen finden nur folgende 4 Fälle statt: Dividendus
+
+Divisor
+
+Für alle diese 4 Fälle findet man nach Anleitung der Definition des Dividirens dag! Z "eichen des Quotienten.
+
+Der Divisor muß mit den Quotienten multiplicirt den Dividendus geben, man hat also nur bei jedem Falle zu fragen, womit ist der Divisor zu multipliciren, damit man den Dividendus zum Pros duft erhalte? So muß beim ersten Fall der Quotient + ſeyn, weil + mit + multipliciret, ebenfalls + giebt; im zweiten Falle ist der Quotient gleichfalls +, multiplicirt, giebt --mit Im dritten Fall giebt multiplicirt +, also ist der Quotient; im vierten Fall endlich giebt + mit — multiplicirt — , also ist der Quotient —.
+
+[p. 76] Quotient
+
+Divisor
+
++1
+
+Dividendus
+
+3+
+
++1+
+
+Die allgemeine Regel würde also seyn: Haben Dividendus und Divisor gleiche Zeichen, so ist der Quotient +, haben sie entgegengesezte Zeichen, so ist der Quotient Was die Diviſion der Coefficienten betrifft, ſo gilt von ihr, was oben von der Division der Zahlen gesagt worden; nur ist zu merken, daß wenn der Quotient keine ganze Zahl ist, man lieber die Division blos durch die Bruchform anzeigt.
+
+Es braucht wohl kaum erinnert zu werden, daß wo kein Coefficient sich findet, 1 als Coefficient zu betrachten ist. Von der Division der Buchstaben. Ist der Divisor wirklich als Faktor in dem Dividendus enthalten, so besteht der Quotient aus den Buchstaben, die im Dividendus, aber nicht im Divisor sich finden. Z. B. ab durch a dividirt, giebt b; a² durch a dividirt, giebt a; a b c d durch bd diz vidirt, giebt a c.
+
+Hat der Divisor und der Dividendus keinen Faktor mit einander gemein, ſo kann die Division nicht vorgenommen, sondern blos angedeutet werden, welches durch die Bruchform geschieht. a durch b dividirt giebt, ab durch cd divis haben der Divisor und der Dividendirt giebt cd dus einige Faktoren gemein, aber auch von einander [p. 77] verschiedene Faktoren, so laße man die gemeinſchaft lichen Faktoren weg, und schreibe die übrigen in der Bruchform. a.* @
+
+Z. B.
+
+ab durch bd dividirt, giebt abc durch ad dividirt giebt. Eine Größe durch sich selbst dividirt, giebt 1, also a dividirt Ia Die vorausgesetzt, so kann die Division mit einer durch a = 1.
+
+Größe keine Schwierigkeit mehr machen, wenn man die in der gemeinen Arithmetik gegebenen Regeln auf. die vorliegende Fälle anwendet.
+
+2a
+
+4a²— 3ab + 12a — ac +6ƒ — 2a +3b -6 + 1c - 3 / 4a²
+
+3 ab 3 ab
+
++ 12a + 12 a
+
++ 6ƒ + 6ƒ
+
+Man soll -
+
+9 ab + 21 ab² + 30 b² — 24 bc
+
+12 bd + 17bc36 durch 3 b dividiren.
+
+[p. 78] S. 68. Die Division, wenn der Divisor aus mehr als einem Theile besteht, hat weit mehr Schwierigkeiten. Die Regeln, die gegeben werden können, ſind kürzlich folgende:
+
+ordne die im Dividendus vorkommenden
+
+Größen nach den Buchstaben, die im erste
+
+Theile des Divisors sich finden.
+
+10 ab -
+
+Soll man z. B. 32 bc 10 c² + 21 a² - ac -2462 durch
+
+7a + 66 dividiren, so ordne man den Diwo man erhält 21 a 10 ab videndus nach a, 24 b²2 + 32 bc - 10 c². Sodann ſuche man den Quotienten von dem ersten Theil des Dividendus und dem ersten Theil des Diviſors, multiplicire mit ihm den ganzen Divisor, und ſubtrahire dies Produkt vom Dividendus.
+
+Ferner suche man den Quotienten von dem ersten Theil des Divisors und einem Theil desjenigen, was vom Dividendus noch übrig geblieben ist, multiplicire mit dieſem Quotienten den Diviſor, und ſubtrahire das Produkt von dem, was vom Dividendus übrig geblieben war, und so seht man die Operation so lange fort, bis entweder vom Dividendus nichts mehr übrig bleibt, oder der Divisor kein Faktor mehr ist, wo man alsdenn das Uebrige in Bruchform durch das Zeichen + am gefundenen Quotienten anhängt.
+
+[p. 79] Erläuterung durch ein Beispiel.
+
+7a+66-5c — 10 ab— 21 a² ac- 246² +32 bc- 10c23a-4b +2c
+
+21 a² + 18 ab— 15ac
+
+·38 ab + 14ac — 24 b² +32 bc— 10c2
+
+-28 ab
+
+—24b2+20bc
+
++ 14ac
+
++ 120c- 10c2
+
++ 14ac
+
++ 12bc- 10c2
+
+Man soll 45a² - 57ab -
+
+39 ac + 35 ad
+
++ 186²+27bc24bd — 18 c² + 27 cd + 10 d² durch-9a6b - 3c + 2d dividiren. Man soll a² - b² durch a + b dividiren. §. 69. Bei bestimmten Zahlen laßen sich einige praktische Vortheile angeben, um zu erkennen, ob eine gegebene Zahl eine Primzahl sey oder nicht, mit andern Worten, ob sie aus Faktoren entsprungen sey oder nicht, ob gleich bei großen Zahlen die Sache sehr schwierig seyn kann; noch weit mehr Schwierigkeiten hat das Auffinden der Faktoren, wenn die Größe in Buchstaben ausgedrückt ist.
+
+§. 70+ Was wir in der gemeinen Arithmetik von der Verwandlung der Brüche und den einfachen Rechnungsarten derselben gesagt haben, läßt sich auch auf die Buchstabenbrüche anwenden.
+
+Wir wollen hier das Nöthige kurz vortragen: 1. Ist ein Bruch — , so betrachtet man gewöhnlich den Zähler als — und den Nenner als +, so ist 7 = 7. Man kann aber auch eben sowohl den Zähler als + und den Nenner als — betracha ten; so ist z. B. — — b == 2. Man soll eine ganze unbestimmte Größe in einen Bruch von gegebenem Nenner verwandeln, 1. a in b Theile verwandelt ist = b
+
+T. S. 41. 3. Eine ganze unbestimmte Größe einen Bruch in einen Bruch zu verwandeln, f. §. 41 2. ac + b df- e? und d at C F. 4. Man soll einen gegebenen Bruch auf seine abc kleinste Benennung bringen. f. §. 44+ acd = a 5. Man soll Brüche von verschiedenen Nennern c e unter eine Benennung bringen, ſ. §. 45+ ō ' à ' F adf bcf und sind gegeben, man verwandelt ſte in bdf bdf b de gh Man soll cd a4 + 2 + 8h de auf eine Benennung bdj bringen,
+
+S. 71. Vom Addiren der Brüche. Da man nach §. 70, 5. die Brüche, wenn ſieverschiedene Nenner haben sollten, auf eine Benennung bringen kann, so addire man, nachdem dies gesches [p. 81] geschehen, ihre Zähler, und ſchreibe den gemeinschaftlichen Nenner daruntèr.
+
+++ df C - C34 cd addiren.
+
+Finden sich unter den Summanden auch ganze Größen, so verwandle man sie nach §. 70, 2. in einen Bruch, der mit den übrigen einen gemeinſchaftlichen Nenner hat.
+
+S. 72. Vom Subtrahiren der Brüche. Man gebe den Brüchen gemeinſchaftliche Nenner, wenn sie diese noch nicht haben sollten, und verfahre nach §. 61.
+
+a C Man soll von i d ſubtrahiren. Welches ist die Differenz zwischen cd+
+
+Ist der Minuendus oder Subtrahendus kein Bruch, so verwandle man ihn nach §. 70, 2. darin. Man soll a von a ſubtrahiren. d ſubtrahiren. Man soll 1 von †
+
+S. 73+ Vom Multipliciren der Brüche. Soll man Brüche mit Brüchen multipliciren, ſo erhält man zum Produkt das Produkt der Zähler dividirt durch das Produkt der Nenner. 2 x 2 = 62 bd*" Welches ist das Produkt von — X ×– e cd? Sollen Brüche mit Ganzen multiplicirt werden, [p. 82] ſo multiplicirt man den Zähler des Bruchs durch Das Ganze und läßt den Nenner unverändert. c x c = 7 4. Wie groß ist dX e? Sollen Ganze und Brüche mit Ganzen multiplicirt werden, so verwandle man die Ganze und den Bruch in einen Bruch, und verfahre nach der vorhergehenden Regel.
+
+Man soll a + / mit d multipliciren. Sind endlich Ganze und Brüche mit Ganzen und Brüchen zu multipliciren, so verwandle man beide in Brüche und verfahre nach der ersten Regel. Man soll á + + // mit mitc c + multipliciren.
+
+Die Gründe für die hier gegebenen Regeln liegen in dem, was oben über das Multipliciren der Zahlenbrüche gesagt worden.
+
+S. 74. Vom Dividiren der Brüche.
+
+1. Ein Bruch wird durch ein Ganzes dividirt, wenn man den Nenner desselben mit dem Diviſor multiplicirt.
+
+durch © dividirén.
+
+2. Ein Bruch wird durch einen Bruch dividirt, wenn man den Divisor umkehrt, und mit ihm den Dividendus multiplicirt, f. §. 55. durch Z dividiren.
+
+3. Soll man ein Ganzes durch einen Bruch di-
+
+> [p. 83] vidiren, ſo multiplicire man das Ganze mit dem Nenner des Bruchs, und dividire durch den Zähler.
+
+ergiebt sich
+
+2. wenn man das
+
+Ganze als einen Bruch dessen Nenner 1 ist, darstellt.
+
+Man soll a durch 4. Ein Ganzes und einen Bruch durch einen Bruch, oder durch ein Ganzes, oder auch durch ein Ganzes und einen Bruch dividiren, kann, wenn man die nöthige Verwandlung vornimmt, keine Schwierigkeit machen; eben so wenig als die Aufgabe einen Bruch durch ein Ganzes und einen Bruch dividiren. -
+
+Man soll a + 2 durch e dividiren. Man soll a - C durch d dividiren. Man soll a + C durch d - 7 dividiren. Man soll b durch a + Die Auflösung der im §. aufgestellten Aufgaben ergiebt sich aus dem was oben über die Diviſion der Zahlenbrüche gesagt worden.
+
+§. 75. Axiomen der Arithmetik, nach den 4 eins fachen Rechnungsarten geordnet. 1. Gleiches zu gleichem Summen.
+
+addirt, giebt gleiche
+
+[p. 84] 2. Gleiches von gleichem ſubtrahirt, giebt gleiche Differenzen. 3. Gleiches mit gleichem multiplicirt, giebt gleiche Produkte. 4. Gleiches durch gleiches dividirt, giebt gleiche Quotienten.
+
+[p. 85] Von den Dignitäten.
+
+§. 76. Ein Produkt aus gleichen Faktoren heißt eine Die gnität, Potenz oder Poteftät.
+
+So ist 64 eine
+
+Dignität, weil 4 X 4 X 4 = 64.
+
+Der gleiche Fate tor heißt die Wurzel, so ist 4 die Wurzel von 64. ― Um aber eine solche Dignität zu bestimmen, muß man nicht blos ihre Wurzel, sondern auch die Anzahl der gleichen Faktoren kennen, die Zahl die dies leştere anzeigt, heißt der Exponent der Dignität, man schreibt sie etwas kleiner oben an der Wurzel zur rechten Hand; so ist 64 = 4³, d. h. 4 in der dritten Dignität, 4 ist die Wurzel, 3 der Exponent und 64 die Dignitât.
+
+So wird nun auch 4 die dritte Wurzel von 64 genannt.
+
+Soll man mehrere zuſammen verbundene Größen zu einer Dignität erheben, so schließt man sie in eine Parenthese und seht am Ende derselben wie gewöhnlich den Exponenten z. B. (a+b —c) ³. (Hier muß angemerkt werden, daß wenn gleich ein Produkt aus gleichen Faktoren eine Dignität iſt, [p. 86] man dies doch für keine Definition der Dignität halten müsse, weil sie nur auf die Dignitäten paßt, deren Exponent eine ganze Zahl ist, und man auch wie in der Folge gezeigt wird, Dignitäten hat, deren Exponenten Brüche ſind) .
+
+Die zweite Dignität nennt man das Quadrat, die dritte den Cubus, die vierte das Biquadrat, oder das Quadrato - Quadrat, die sechste den Quadrato - Cubus[^85-s1] ; die andern Dignitäten des nennt man nach dem Exponenten, die fünfte, fies bente u. s. w. Es kommen also bei einer Dignität drei Stücke vor, die Wurzel, der Exponent, und die Dignität selbst.
+
+[^85-s1]: Die Gründe für diese Benennungen werden sich erst weiter unten in der Geometrie angeben laßen.
+
+Wenn von dieſen drei Stücken zwei gegeben sind, so kann man das fehlende durch Rechnung finden.
+
+Ist die Wurzel und der Exponent gegeben, und man sucht die Dignität, ſo nennt man dies das Erheben einer Größe zur Dignität.
+
+Ist die Dignität und der Exponent gegeben, und man sucht die Wurzel, so heißt dies das Ausziehen der Wurzel. Endlich kann noch die Wurzel und die Dignität gegeben seyn, man soll den Exponenten finden.
+
+Wir wollen für jezt blos das Erheben zur Dignität und das Ausziehen der Wurzeln abhandeln, weil das Finden des Exponenten anderweitige Lehren vorausſetzt, die wir erst später hin vortragen können.
+
+[p. 87] Vom Erheben zur Dignität.
+
+§. 77+ Die erste Dignität ist die Wurzel selbst; sie zu finden gehört also nicht zu der Lehre vom Erheben zur Dignität, alle andere aber gehören zu dieſer Lehre; wir wollen indessen nur das Erheben zur zweiten und dritten Dignität, (das. Quadriren und Cubiren) der Zahlen abhandeln.
+
+Da die Dignitäten welche wir hier betrachten, Produkte aus gleichen Faktoren sind, so ſekt uns schon die Lehre von der Multiplication in den Stand, die zweite und dritte Dignität einer gegebenen Wurzel zu finden, man multiplicirt im ersten Fall die Wurzel einmal mit sich selbst; im zweiten das erhaltene Produkt noch einmal mit der Wurzel.
+
+Wir wollen aber noch andere Regeln für das Finden der Quadrate und Cuben angeben. Vom Quadriren diskreter Größen.
+
+S. 78. Wie auch das Zeichen der Wurzel eines Quadrats seyn mag, so ist das Quadrat jederzeit +; aus welchem Grunde? C Ein negatives Quadrat ist also eine unmögliche Größe. Wir wollen zuvdrderst das Erheben der beſtimmten Zahlen zur zweiten Dignität betrachten. Ist die Zahl * eine einfache ganze Zahl (gehört ſie zu den Einern) , so findet sich ihr Quadrat im Einmal Eins.
+
+[p. 88] Tafel der Quadrate einzelner ganzen
+
+Wurzeln | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 Quadrate
+
+| 4 | 9 | 16 | 25 | 36 | 49 | 64 | 81
+
+Besteht aber die Wurzel aus zwei Theilen und man will das Quadrat nicht auf dem gewöhnlichen Wege des Multiplicirens finden, so giebt folgende Untersuchung eine andere Regel. Wenn man a+b mit a + b´ multiplicirt, ſo erhält man zum Produkt a² + 2 a b + b², dies ist also das Quadrat von a + b.
+
+Diese Wurzel besteht offenbar aus den beiden Theilen a und b; nennt man nun a den ersten und b den zweiten
+
+Theil der Wurzel; so besteht das Quadrat einer zweitheiligen Wurzel: aus dem Quadrate des ersten Theils (a²) , plus dem doppelten Theile (2 ab) , plus Theils (b2).
+
+Produkte beider dem Quadrate des zweiten
+
+Dies giebt also das Gesetz für die
+
+Quadratur zweitheiliger Wurzeln.
+
+15 = 8 + 7, also 8 = a, 7 = b · a²= (a + b)²
+
+82 =
+
+64 das Quadrat des ers sten Theils. 2ab = 2X8X7 = 112 das doppelte Produkt beider Theile b2= 49 das Quadrat des zweiten Theils.
+
+[p. 89] 49409 alſo 40 = a, 9 = b a² = (40) ² =
+
+2 ab
+
+2 X 40 X 9 = 720 b2=
+
+Ist die Wurzel nach den Gesetzen der Decimalordnung eingetheilt, ſo daß der erste Theil zu den Zehnern, der zweite zu den Einern gehört, und man ſieht bei beiden blos auf die Einheiten, so gehört das Quadrat des ersten Theils zu den Hunderten, das doppelte Produkt beider Theilen zu den Zehnern, und das Quadrat des zweiten Theils zu den Einern. Man kann sich also das Rechnen erleichtern, wenn man die beiden Theile der Wurzel als Einer behandelt, und nur bemerkt, daß jeder folgende Theil des Quadrats immer um eine Ordnung niedriger wird als der vorhergehende, so daß also die letzte Ziffer desselben um eine Stelle weiter nach der rechten zu, fortgerückt wird.
+
+go a²
+
+2 ab b2 =
+
+Man suche auf gleiche Weise das Quadrat von 97 und von 35.
+
+§. 79+ Ist die Wurzel eine dreitheilige ganze Zahl und sind die Theile nach der Decimalordnung bestimmt, so kann sie als zweitheilig betrachtet werden, so daß der erste Theil aus zwei Theilen besteht. che sodann nach §. 78.
+
+Man su-
+
+Quadrat des
+
+Theils, dies Quadrat wird zu den Hunderten gehōren, weil die Wurzel zu den Zehnern gehört, dann ſetze man das doppelte Produkt beider Theile, zu den Zehnern gehört, und das Quadrat des zweiten Theils, das zu den Einern gehört, hinzu;
+
+daß man also auch hier die Ordnung ganz außer Acht laßen kann, wenn man die letzte Ziffer jedes folgenden Theils um eine Stelle weiter zur linken hinausrückt.
+
+2X 4 X9
+
+= 72
+
+2 X 49 X 7, =
+
+72 =
+
+[p. 91] Auf eben demselben Wege findet man für viertheilige, fünftheilige u. f. w. Wurzeln das Quadrat, wovon die Gründe sich leicht einſehen laßen.
+
+Man soll 97638 quadriren. Kommen in der Wurzel Nullen vor, dies auch weiter keine Schwierigkeiten, so macht wenn man nur streng nach der oben gegebenen Regel verfährt. So erhält man z. B. das Quadrat von 73006 auf folgende Weise:
+
+87600. Man wird bald inne, daß man für jede Null in der Wurzel zwei im Quadrate erhält, eine wegen
+
+2 ab, die andere wegen b². Man sucht das Quadrat von 800035. S. 80. Man erhält das Quadrat eines Bruchs, man das Quadrat des Zählers mit dem Quadrat des Nenners dividirt; aus welchem Grunde? So iſt (4)' = 16.
+
+[p. 92] Um das Quadrat einer ganzen Zahl und eines Bruchs zu finden, darf man die Wurzel nur in eis nen unächten Bruch verwandeln, und nach der eben gegebenen Regel verfahren. Man kann sie aber auch als zweitheilig betrachten, so daß die ganze
+
+Zahl den einen und der Bruch den andern Theil ausmacht und nach §. 78 verfahren. Man soll das Quadrat von 35 suchen. S. 81. Soll man von einer Zahl, die entweder blos
+
+Decimalbrüche oder auch ganze Zahlen und Decimalbrüche enthält, das Quadrat suchen, man sie als eine ganze Zahl, so betrachte ſuche ihr Quadrat nach den im Vorhergehenden gegebenen Regeln, und schneide sodann von der rechten zur linken Hand, doppelt so viel Decimalbruchstellen ab, als in der Wurzel sich finden; sollten nicht Stellen genug vorhanden seyn, so muß man sie durch Nullen ersetzen.
+
+Der Beweis für diese Regel beruht auf §. 80, oder auch §. 52. Man soll das Quadrat von 49,586 suchen. Man sucht das Quadrat von 0,053.
+
+Es muß also ein Quadrat jederzeit eine gerade Anzahl Decimalbruchstellen enthalten; denn wenn in der Wurzel keine Decimalbrüche sich finden, so kann auch das Quadrat keine enthalten, jede Decimalbruchstelle in der Wurzel giebt aber deren zwei im Quadrat.
+
+[p. 93] S. 82. Ist die Wurzel von der man das Quadrat ſucht
+
+Buchstaben gegeben, enthält sie mehrere
+
+Theile, so läßt sich auch nach der obigen Regel leicht das Quadrat finden.
+
+Man sucht von de +f das Quadrat. Dies ist d² - 2de + e² + 2 (d− e) ƒ+ƒª oder d²
+
+2de + e² + 2df2es+f².
+
+Man sucht das Quadrat von abc.
+
+von de + 3 es- 6 gh.
+
+Vom Cubiren diskreter Größen.
+
+S. 83. Das Zeichen des Cubus richtet sich nach dem Zeichen der Wurzel, ist diese +, so ist der Cubus auch +, ist diese —, so ist der Cubus ebenfalls—; aus welchem Grunde? Wir machen auch hier mit dem Erheben bestimmter Zahlen zum Cubus den Anfang. Gehört die Zahl, deren Cubus man sucht zu den Einern, so findet sich der Cubus im Einmal Eins. Tafel der Cuben der Einer. Wurzeln | 1
+
+2 | 3 | 4| 5 | 6 | 7 | 8 | 9
+
+Quadrate 1 | 4 | 9 | 16 | 25 | 36 | 49 | 64 | 81 Cubi
+
+I | 8 | 27 | 64125 | 216 | 343 | 512/729
+
+Will man für mehrtheilige Wurzeln den Cubus nicht auf dem gewöhnlichen Wege des Multiplicirens ſuchen, so multiplicire man a² + 2ab + b² als das [p. 94] noch einmal mit der Wurzel,
+
+Quadrat von a + b, so erhält man a³ + 3a² b + 3ab² + b³, welches also der Cubus von a + bist; nennt man nun wiederum a den ersten und b den zweiten Theil der Wurzel, so besteht der Cubus einer zweitheiligen
+
+Wurzel: aus dem Cubus des ersten Theils, aus dem dreifachen Produkte des Quadrats des ersten Theils in den zweiten, aus dem dreifachen Produkte des ersten Theils in das Quadrat des zweiten und aus dem Cubus des zweiten Theils.
+
+Gehört a zu den Zehnern und b zu den Einern, so gehört a³ zu den Tausenden, 3 a² b zu den Hunderten, 3 ab² zu den Zehnern und b³ zu den Einern; man kann alſo auch hier wenn man die Wurzel nach der Decimalordnung theilt, die Ordnungen außer
+
+Acht laßen, so bald man nur die letzte Ziffern jedes folgenden Theils des Cubus um eine Stelle weiter zur rechten Hand hinausrückt.
+
+Man sucht von 49 den Cubus.
+
+a³
+
+3a2b
+
+~493
+
+[p. 95] S. 84. Es läßt sich nunmehr auch, Weise wie bei den Quadraten, auf eine ähnliche nach dem man den Cubus einer zweitheiligen Wurzel finden kann, Cubus einer drei und mehrtheiligen Wurzel finden.
+
+Man betrachte nämlich die Wurzel zuerst aus den beiden ersten Theilen bestehend und suche den Cubus derselben, sodann seße man einen neuen Theil hinzu, betrachte
+
+Theil, die beiden ersten Theile als einen deren Cubus man nun schon gefunden hat, und wo man alſo blos noch 3 a² b + 3 ab² + 63 hinzuzufügen braucht. Auf gleiche Art verfährt man bei vier und mehrtheiligen Wurzeln.
+
+9' =
+
+3X92 X 6 = 1458
+
+3X9
+
+X 62 =
+
+63 =
+
+3 X 962 X 5 =
+
+3 X 96 X 52 = (965)³
+
+Man sucht den Cubus von 824, von 9367, von 73284. Finden sich Nullen in der Wurzel, so kann dies beim Cubiren keine Schwierigkeiten machen.
+
+[p. 96] erhält für jede Null in der Wurzel drei im Cubus, eine für 3a2b, die zweite für 3ab2, die dritte b³. Man sucht den Cubus von 80062.
+
+$. 85. Der Cubus eines Bruchs ist gleich dem Cubus des Zählers dividirt durch den Cubus des Nenners, aus welchem Grunde?
+
+Welches ist der Cubus von Z? Den Cubus von einer ganzen Zahl und einem Bruch findet man, wenn beide in einen unächten
+
+Bruch verwandelt, und nach der eben gegebenen Regel verfährt.
+
+Auch kann man die Wurzel als zweitheilig betrachten, so daß die ganze Zahl den ersten und der Bruch den zweiten Theil derselben ausmacht. Man sucht den Cubus von 7-4 S. 86+ Soll man den Cubus eines Decimalbruchs oder einer ganzen Zahl und eines Decimalbruchs finden, so betrachte man die Wurzel als eine ganze Zahl, ſuche nach der eben gegebenen Regel den Cubus derselben, und schneide alsdann von der rechten zur linken, dreimal so viel Decimalbruchstellen ab, als in der Wurzel sich finden.
+
+Der Beweis beruht auf
+
+$. 85. Man sucht den Cubus von 73,29, ferner von 0,0392+
+
+§. 87. Auch von mehrtheiligen Wurzeln die in Buchstaben gegeben sind, läßt sich nach der Regel (a + b) * = a³ + 3a²b + 3ab² + b³ der Cubus finden. Ein
+
+[p. 97] Ein Beispiel mag zur Erläuterung dienen. Man sucht den Cubus von 3c - 4f.
+
+a³ = 27 c³ 3a2b
+
+108 c²ƒ
+
++ 144cf2 a³
+
+— 64ƒ³ (3c — 4ƒ) ³ = 27c³.
+
+108 c2f + 144 cf² —64ƒ³
+
+Man sucht den Cubus von 3 ab - 20+ 5d. §. 88.
+
+Grundsatz. Dignitäten von gleichen Wurzeln und Exponenten sind gleich;
+
+also gleiche Wurzeln haben gleiche
+
+Quadrate, gleiche Cubi u. s. w.
+
+Allgemeine Anmerkung zu der Lehre vom Quadriren und Cubiren der Größen. Man sieht bald ein, daß man das Quadrat und den Cubus schon allein durch den Weg der Multiplication finden kann;
+
+die hier aufgestellten Regeln aber sind deshalb zu wissen nothwendig, weil sie uns in den Stand sehen die entgegengesetzte Aufgabe, nämlich aus gegebenen Quadraten und Cuben die Wurzeln zu finden, aufzulösen.
+
+Vom Ausziehen der Wurzel.
+
+$+ 79+ Ist eine Dignität und der Exponent derselben ges geben, und man ſoll die Wurzel finden, so nennt [p. 98] man dies das Ausziehn der Wurzel. dieser Operation ist V,
+
+Das Zeichen welches vor der Dignität gesezt wird, aus der die Wurzel gezogen werden soll. Der Exponent der Dignität, oder die Zahl welche anzeigt, die wievielte Wurzel man ausziehn soll, wird in die obere Defnung des Zeichens gesezt; so heißt √ 93, die zweite Wurzel oder die Quadrat4 wurzel aus 9 ist 3; √ die dritte oder Cubicrðurzel, die vierte Wurzel u. s. w. Da √ die Dignität ſelber ist, und man also mit dem Ausziehn der Quadratwurzel den Anfang macht, so schreibt man auch ſtatt blos V.
+
+Soll man aus mehreren mit einander verbundenen Größen eine Wurzel ziehen, so schließt man sie entweder in eine Parenthese, oder dehnt den einen Arm des Wurzelzeichens so weit sie sich ers strecken, z. B. ✓ (a + b) oder V a+b:
+
+Vom Ausziehn der Quadratwurzeln.
+
+§. 89. Aus §. 78 ergiebt sich, daß man aus einer negativen Größe keine Quadratwurzel ziehen kann. Es ist also va eine unmögliche Größe. giebt sich aus demselben §, doppelte Wurzel, + 2 und Ferner ers daß jedes Quadrat eine
+
++ und — hat.
+
+So ist V 4=
+
+Die Quadratwurzeln von ganzen Zahlen, nicht 100 übersteigen, ergeben sich aus dem Einmal Eins oder aus der §. 78 aufgestellten Tafel: entweder ist die gegebene Zahl ein wirkliches Quadrat, ſo [p. 99] ist die Wurzel genau anzugeben, z. B.
+
+V 648 oder wenn sie kein wirkliches Quadrat ist, kann man doch die der Wurzel zunächst kleinere ganze Zahl angeben, so fällt z. B. √ 69 zwiſchen 8 und 9. Mehrere Schwierigkeiten macht das Ausziehn der Quadratwurzeln aus größeren Zahlen.
+
+Aus §. 78 und 79 erhellt, daß wenn man zu dem ersten Theil einer Wurzel nach den Gesetzen der Dekadik neue Theile hinzufügt, jeder folgende Theil immer zwei neue Stellen giebt, die andere wegen b².
+
+eine wegen 2 ab,
+
+Man wird also finden, wies viel Theile die Wurzel einer gegebenen Zahl, man als Quadrat betrachten soll, hat, wenn man die Zahl von der rechten zur linken in Claſſen theilt, so daß in jeder zwei Ziffern zu stehen kommen, (die erste zur linken abgerechnet, die auch eine Ziffer ents halten kann) , erhält, so viel Claſſen man auf diese Weise W aus so viel Ziffern besteht die Wurzel.
+
+Ferner ergiebt sich, daß in der ersten Classe Claſſe das Quadrat des ersten Theils der Wurzel, und in jeder folgenden das doppelte Produkt der vorhergehenden Theile der Wurzel mit dem neuen Theil, und das Quadrat des neuen Theils selbst, enthalten seyn müſſe. Hierauf gründen sich nun die Regeln zur Ausziehung der Quadratwurzel. -
+
+S. 90. Man soll aus einer gegebenen ganzen Zahl die [p. 100] aus mehr als zwei Ziffern besteht, die Quadratwurzel suchen.
+
+Man theile die gegebene Zahl nach §. 79 in Classen.
+
+so wird
+
+Ist z. B. die gegebene Zahl 2209, sie so getheilt 22109 ] . Man suche das nächste Quadrat der in der ersten Classe enthaltenen Zahl, merz fe die Wurzel, und ziehe das Quadrat von der erſten Klaſſe ab.
+
+So ist in dem gegebenen Beispiel und die Wurzel
+
+16 das nächste Quadrat von 22, davon 4. 22/09/4
+
+Sodann sehe man zu dem etwa gebliebenen Rest die folgende Ziffer herunter, so muß in diesen Zahlen 2 ab enthalten seyn, hen muß.
+
+welches man davon abzie-
+
+Da man b noch nicht kennt, so suche man zwei a, dies ist in dem gegebenen Fall 2 X 4 8, ſeße dieſe unter die heruntergerückte Ziffer, und dividire den vorhin erhaltenen Rest 60, 2 ab enthalten seyn soll, finden;
+
+dadurch, so wird man b
+
+8 ist in 60 7mal enthalten, zweite Theil oder b.
+
+worin alſo iſt 7 der
+
+Man multiplicire nun 2a mit b, 8 mit 7, ſo erhält man 2 ab, 56, die man von 60 wegnehmen muß, was übrig bleibt,
+
+Quadrat des zweiten Theils gehören.
+
+wird zum
+
+[p. 101] | (8)
+
+Man füge zum Rest die in der Classe enthaltene zweite Ziffer 9, hat man, und ziehe davon b² = 49 ab, so wenn keine Claſſen mehr vorhanden sind, die Wurzel, so weit sie sich in ganzen Zahlen finden läßt, gefunden.
+
+ུ རྩརྩི་
+
+Gesetzt es sind mehrere Claſſen vorhanden, betrachtet man die gefundenen Ziffern der Wurzel als den ersten Theil, deren Quadrat man ſchon abgezogen hat, rückt sodann die erſte Ziffer der folgenden Claſſe herunter, macht 2a, und sucht durch die Division b, zieht hierauf 2 ab ab, und wenn man die folgende Ziffer herunter gerückt hat, auch b², und ſo vèrfährt man bis keine Ziffer mehr übrig ist. ziehen.
+
+Quadratwurzel
+
+[p. 102] ✓ 33 | 21 | 21 | 69 59 |576 a² (52) 25
+
+2a (2 X 5) (10) 2 ab (2X5X7) 70 b² (72)
+
+2a (2 X 57) (114) 2 ab (2 X 57 X 6) 684 b² (62)
+
+2a (2 X 576) (1152) 2 ab (2 X 576 X 3) 3456 b2 (32)
+
+Es kann sich zutragen, daß man, wenn man b gesucht hat, zwar 2 ab abziehen kann, aber b² zu groß ist, sodann muß man, wie sich dies von selbst versteht, b kleiner machen.
+
+In dem vorigen Beispiel findet sich V33 |21 | 21 | 64 58 ' a² 25
+
+2 a (10) 2 ab 80 b2 also ist 8 zu viel, und man mache 7 zu b.
+
+[p. 103] Wird b Null, so wird auch 2 ab und b² Null, und man schreitet alsdenn gleich zur folgenden Klaſſe. 9/14/36 25 3023 a² (2 a) (6) (2 a) (60) 2 ab 120 (2 a) 2 ab (604) b2
+
+Noch ist eine andere Frage zu beantworten übrig, nämlich woran erkennt man, ob b nicht zu klein genommen?
+
+Um die Frage zu beantworten vergleiche man m² mit (m + 1) ² d.h.mit m² +2m + 1, so wird man finden, daß (m+ 1) ² um 2 m +1 größer ist.
+
+Soll also b nicht um 1 größer werden können, so muß der beim Subtrahiren
+
+2ab + b² übrig gebliebene Rest nicht größer sein als 2 m oder als die doppelte Wurzel.
+
+So ist in dem zunächst vorhergehenden Exempel der Rest 40962, 3023 [p. 104] oder 6046, also kann die Wurzel nicht größer als
+
+3023 seyn. S. gr.
+
+Man kann beim Abziehen der Quadratwurzeln sich die Operation etwas verkürzen. Es ist nämlich 2 ab + b² = (2 a + b) b. Wenn man alſo, nachdem man 2a gesucht und durch die Division b gefunden, b gleich zu 2 a addirt (da bei den Zahlen b eine Ordnung geringer ist als 2a, so hat man nur nöthig, die Ziffer, die b andeutet, zu 2 a zur Rechten hinzufügen) , und b² zugleich, plicirt.
+
+so findet man 2 ab wenn man 2a + b mit b multi-
+
+Es versteht sich, daß man, ſodann, um zu Subtrahiren, beide Ziffern der Claſſe heruntergefeßt haben muß.
+
+Das §. 90 gegebene Beispiel würde ´ nach dieser Methode folgende Geſtalt erhalten.
+
+a²
+
+✓ 33 | 21 | 21 | 69 | 5763 (2a + b)
+
+(107)
+
+2ab +b² (2 a + b) (1146) 2ab + b² 6876 (2a + b) (11523) 2ab + b² 34569
+
+[p. 105] Man soll aus 29328763, ferner aus 87293 die Quadratwurzel ziehen.
+
+S. 92. Soll man aus einem Bruch die Quadratwurzel ziehen, so ziehe man aus dem Zähler und aus dem Nenner die Quadratwurzel. So ist √2 = 4 = 3. Den Grund siehe S. 80. Welches ist die Quadratwurzel von 121? Soll man einer ganzen
+
+Zahl und einem
+
+Bruch die Quadratwurzel ziehen, so verwandle man beide in einen unächten Bruch, und ziehe aus Zähler und Nenner die Quadratwurzel. · --- Welches iſt v 54? Soll man aus einem Bruch, dessen Zähler oder Nenner oder beide zugleich keine vollkommene Quadrate sind, die Quadratwurzel ziehen, so thut man wohl daran, den Bruch in einen Decimalbruch zu verwandeln, und sodann nach Anleitung des folgenden §. die Wurzel auszuziehen.
+
+Dies ist der Fall z. B. bei 2, 25, 7 6'
+
+§. 93. Soll man aus einem Decimalbruch oder aus einer ganzen Zahl und einem Decimalbruch die Quadratwurzel ziehen, so mache man, wenn nicht eine gerade
+
+Anzahl von Decimalbruchstellen vorhanden seyn sollte, durch Hinzufügung einer Null zur rechten Hand die Anzahl derselben gerade, betrachte sie sodann als eine ganze Zahl, ziehe nach den oben gegebenen [p. 106] Regeln die Quadratwurzel aus, und schneide von der gefundenen Wurzel halb so viel Decimalbruchstellen ab, als im Quadrate sich finden; sollten nicht Stellen genug vorhanden seyn, so seht man zur rechten Hand so viel Nullen hinzu, als erforderlich sind.
+
+in §. 8
+
+Die Gründe für dies Verfahren liegen und 92.
+
+? Man soll aus 83,796 die Quadratwurzel ziehen.' Ferner aus 0,792856 und aus 0,00583.
+
+§. 94. Aus §. 93 ergiebt sich auch, wie man eine Quadratwurzel, die sich nicht genau in ganzen Zahlen finden läßt, durch Annäherung in Decimalbrüchen finden kann; man hänge nämlich doppelt so viel Nullen an, als man Decimalbruchstellen in der Wurzel haben will, und seße das Ausziehen der Wurzel nach den eben gegebenen Regeln fort.
+
+aus 93 die Quadratwurzel bis auf 6 Decimalbruchstellen finden. Eben so kann man bei jedem Ausziehen der Quadratwurzel, ist, aus Decimalbrüchen, wenn es nöthig die Wurzel in kleinern Decimalbrüchen finden. Man soll aus 0,479 die Quadratwurzel bis auf.
+
+6 Decimalbruchstellen finden.
+
+§. 95. Wenn sich eine Quadratwurzel einer ganzen Zahl nicht genau in ganzen Zahlen angeben läßt, läßt sie sich auch nicht genau in Decimalbrüchen angeben;
+
+[p. 107] mit andern Worten, die Quadratwurzel einer ganzen Zahl, die kein vollkommenes Quadrat iſt, iſt in Decimalbrüchen irrational. Bleibt, wenn man die Quadratwurzel einer ganzen Zahl in ganzen Zahlen gefunden hat, Rest, noch ein und man hängt demselben zwei Nullen als Decimalbruchstellen an, und setzt das Ausziehen der Wurzel fort, so finden nur zwei Fälle statt, entweder ist der neue Theil der Wurzel o, oder eine Zahl. Im ersten Fall würde die Wurzel immer noch nicht vollständig gefunden seyn, und die Ausziehung forts geſetzt werden müſſen, weil noch ein Rest übrig geblieben ist; ist sie aber eine Zahl, ſo wird man wiederum 2ab + b² abziehen müſſen;
+
+da nun die legte Ziffer von b² die letzte Ziffer des Subtrahendus ist, alle Quadratzahlen aber von 1 bis 9 nie
+
+Null zur letzten Ziffer haben, der Minuendus aber
+
+Null zur letzten Ziffer hat, so wird jederzeit ein Rest bleiben müssen.
+
+Hängt man wiederum zwei Nullen
+
+ſo ſieht man bald, an, daß das so eben geführte
+
+Raisonnement auch hier wieder seine Anwendung findet, also wird man, so weit man auch das Ausziehen der Wurzel fortsetzt, nie zu Ende kommen kön་ Man kann nen, weil stets ein Rest übrig bleibt. aber, wie man leicht einsieht, das Fehlende durch Hinzufügung neuer Decimalbruchstellen so weit verringern, als man will. Man kann den aufgestellten Lehrfaß auch auf folgende Art beweisen.
+
+Gesetzt ein Decimalbruch
+
+[p. 108] ſei die vollständige Quadratwurzel
+
+Zahl, so muß sie zum Quadrat ganze Zahl geben;
+
+ganzen die Stellen der Decimalbrüche würden also Nullen aber unmöglich, erhoben, einnehmen müssen.
+
+Dies ist denn die letzte Stelle der Wurzel muß eine der 9 Zahlen seyn (o kann sie nicht seyn, weil sonst die Wurzel mit der vorhergehenden Ziffer schon aufhören würde) , da nun die letzte Ziffer des Quadrats die letzte Ziffer des Quadrats der letzten Ziffer der Wurzel iſt, kein Quadrat von 1 bis 9 sich aber mit Null schließt, so kann auch die letzte Deciz malbruchstelle des Quadrats keine Null enthalten.
+
+§. 96. Der im vorhergehenden § bewiesene Lehrsag läßt sich noch erweitern, es ist nämlich die Quadratwurzel einer Zahl, die sich nicht genau in ganzen Zahlen angeben läßt, nicht blos in Decimalbrüchen irrational, sondern sie ist es überhaupt; ſo daß man den Saß auch so ausdrücken kann: Wenn sich die Quadratwurzel einer ganzen Zahl nicht genau in ganzen Zahlen angeben läßt, ſo läßt ſie ſich auch nicht genau in Brüchen angeben.
+
+Um aber den Beweis für diesen Saß führen zu können, müssen wir einige
+
+Betrachtungen über die Primzahlen und zuſammengesetzten Zahlen voraus schicken.
+
+§. 97. Man wird die Wahrheit folgender Säße leicht einsehen.
+
+Man kann jede zusammengesetzte ganze Zahl in Primzahlen als Faktoren auflösen.
+
+[p. 109] Zwei ganze Zahlen, die Primzahlen unter sich sind, können, wenn sie nach 1 aufgelöst sind, keinen gemeinschaftlichen Faktor haben umgekehrt, zwei Zahlen, die unter den Primzahlen, welche ihre Faktoren ausmachen, keinen gemeinschaftlichen Faktor haben, sind Primzahlen unter sich.
+
+§. 98. Dies vorausgesetzt, so wird sich der §. 96 aufs gestellte Lehrsatz leicht beweisen laßen. Gesezt die Quadratwurzel einer ganzen Zahl sey ganze Zahl und ein Bruch, so läßt sich die Wurzel in einen unächten Bruch verwandeln, welchen man sodann auf seine kleinste Benennung bringen kann. Dieser Bruch sey 7. Man löſe a und b in ihre Primzahlen auf, und a sey = a. ß. y. und d. B.Y b = d.e.f, ſo iſt alſo &= wo -im Zähler d. e.f und Nenner keine gemeinschaftlichen Faktoren sich finden können, weil sonst nennung gebracht wäre.
+
+nicht auf seine kleinste Bea Wäre nun b eine vollständige Quadratwurzel einer ganzen Zahl, so wäre a. a eine ganze Zahl, und sodann wäre a. B. y. a. B. b.bd. e.f. d. e.f d. e.f. d. e.f ein Theiler von a. ß. y. a. ß. v, also auch d. e. f von a. B. v. , nach §. 42, 3. , welches
+
+§. 97, 2. widerspricht.
+
+$. 99. Das Ausziehen der Quadratwurzel aus allgemeinen Größen (Buchstabenformeln) , hat seine eigenen Schwierigkeiten, vorzüglich um zu erkennen, ob die gegebene Größe ein wirkliches Quadrat sey oder nicht, [p. 110] denn nur in dem ersten Fall kann man das Ausziehen der Quadratwurzel vornehmen. geln laßen sich leicht einsehen.
+
+Folgende Res
+
+Eine Größe, die keine
+
+Buchstaben im Quadrat, oder in der vierten, sechs ſten u. s. w. Dignität enthält, ist kein wirklich :8
+
+Quadrat. Ferner eine Größe, in der negative Quadrate, z. B.
+
+a², vorkommen, ist ebenfalls kein wirkliches Quadrat.
+
+Weiß man, daß eine Größe ein wirkliches Quadrat ist, und man soll die Wurzel ausziehen, ordne man die Theile des Quadrats nach der Regel §. 78, mache einen Theil desselben, der ein wirkliches Quadrat ist, zum ersten Theil, und laße darauf ein Produkt aus der Wurzel des ersten Theils und eines andern Theils folgen, und so verfahre man nach den §. 90 gegebenen Regeln, nur daß hier keine Eintheilung in Klaſſen ſtatt findet, und auch die Ordnung nach dem Decimalsystem wegfällt.
+
+Man soll aus 16 a² -
+
+24 ab + 40 ac + 25 c² +
+
+30 bc + 9b2 die Quadratwurzel ziehen.
+
+Man mache bei der Anordnung z. B. mit 16a² den 24 ab folgen u. s. w. Anfang, laße darauf -
+
+✓16 a² (a²) 16 a²
+
+24ab9b² +40 ac — 30 bc + 25 c² | 4a - 36 + 5c
+
+-— 24 ab + 9 b² + 40 ac — 30 bc +25 c² (2a)
+
+(8a)
+
+(2ab + b²) -24 ab +9 b²
+
++40 ac- 30 bc +25 c².
+
+(2a) (8 a -
+
+6b)
+
+(2ab +b²) +40 ac - 30 bc + 25 c² Man soll aus 49 a² + 28 ab + 46°
+
+42 ac
+
+-12bc9c² die Quadratwurzel ziehen.
+
+Ist die Größe, aus der die Quadratwurzel gèżogen werden soll, kein wirkliches Quadrat, so sest man blos das Wurzelzeichen vor z. B. √ (a — b), Vom Ausziehn der Cubicwurzeln. S. 100. Die Cubicwurzel einer positiven Größe ist positiv, einer negativen Größe negativ, aus welchen Gründen? Die Cubicwurzeln aller ganzen Zahlen die nicht 1000 übersteigen findet man nach der §. 83 aufgestellten Tafel, entweder genau, wenn die Zahl ein wirklicher Cubus ist, oder doch die zunächst kleinere ganze Zahl, wenn die gegebene Zahl kein wirklicher Cubus ist. So ist √ 64≈4, und √ 24 größer als 2. Soll man aus einer ganzen Zahl, die 1000 übersteigt, [p. 112] die Cubicwurzet ausziehn, so theilt man sie von der rechten zur linken in Klaſſen, ſo daß in jes der Klaſſe drei Ziffern zu stehen kommen, die erste Klaſſe zur linken abgerechnet in der sich auch weniger finden können.
+
+Der Grund dieser Eintheilung ers giebt sich
+
+§. 83 wenn man §. 89 zu Hülfe nimmt; aus eben diesen citirten SS. ergiebt sich fol gender Sag: in der ersten Klasse findet sich der Cubus des ersten Theils (a³) und in jeder folgenden, dreifache
+
+Produkt
+
+Theils in den zweiten,
+
+Quadrats das dreifache Produkt des ersten Theils in das Quadrat des zweiten und der Cubus des zweiten Theils (3 a² b + 3 ab² + b³). Hierauf gründen sich die Regeln zum Ausziehn der Cubicwurzeln.
+
+S. 101. Man soll aus einer Zahl die mehr als drei Ziffern hat, die Cubicwurzel ausziehn.
+
+Man theile die Zahl nach
+
+§. 100 in Klaſſen, suche die Wurzel des nächsten Cubus der Zahl, die in der ersten Klaſſe ſich findet, und ziehe dieſen Cubus von ihr ab; rücke sodann die folgende Ziffer herunter, suche 3a², und durch die Diviſion 6, dann mache man 3a2b, 3ab2 und b³, deren Summe man von dem Reste der ersten Klaſſe und den von der folgenden Klasse herunter gerückten Ziffern abs zieht, wobei sich von selbst versteht, daß die lezté
+
+Ziffer
+
+[p. 113] Ziffer jedes folgenden Produkts immer um eine Stelle weiter nach der rechten Hand fortgerückt werden muß; so sucht man, wenn noch mehrere Klaſſen vorhanden sind, wiederum b indem man durch 3a² dividirt, zieht nun 3a²b + 3ab² + b³ ab., und fährt auf diese Weise fort, bis in der Dignität sich keine Zahl weiter findet.
+
+Ist die gegebene Zahl aus der man die Cubicwurzel ziehn soll, ein wirklicher Cubus, so wird kein Rest bleiben, welches der Fall ist, wenn die gegebene Zahl kein wirklicher Cubus iſt. Erläuterung durch ein Beispiel. V 8.1895327 434 a³ 64 17 89.5 (3 a²) (48) 3a2b 144 (3 a²) (5547) 3a2b 22188 3 ab2 Sollte es sich finden, daß 3 a² b + 3 ab² + b³ größer sind als die Zahl von der man sie subtrahiren soll, so ist dies ein Zeichen, daß b zu groß ist, und man muß es so lange um 1 kleiner machen, bis man abziehen kann.
+
+[p. 114] Wird b Null, so wird 3a² b, 3ab² und b³ gleichfalls Null, und man geht alsdann zur folgenden Klasse fort. Man sucht die Cubicwurzel von 12173349104064 12 173 349 104064 | 23004 ai (3 a ' ) (12) 3a2b 36 (3a²) (1507) (3 a²)
+
+(158700)
+
+(3a²) (15870000) 3a²b 3 ab 2
+
+Um ein Kennzeichen zu erhalten, ob man b nicht zu klein genommen, vergleiche man m³ mit (m+ 1) ³ = m³ + 3m² + 3m + 1, und man wird finden, daß wenn die Wurzel um 1 wächst, der Cubus um 3m² + 3m + 1 wachsen muß. Der beim Subtrahiren im Ausziehn der Cubicwurzel übrig gebliebene Rest kann also höchstens
+
+3m² + 3m seyn, wenn b nicht um 1 zu klein sein soll.
+
+Es ist aber
+
+[p. 115] 3m² + 3m
+
+3m (m + 1) .
+
+Um also zu wissen, ob b nicht zu klein genommen, multiplicire man das dreifache der Wurzel mit sich selbst + 1, und vers gleiche sie mit dem im Ausziehn der Wurzel erhaltenen Rest.
+
+Ist dieser kleiner, so ist b nicht zu klein, welches lettere der Fall ist, sobald man den Rest größer findet.
+
+So ist z. B. ✓ 99326145 (48) der Rest 8201; um zu wissen ob er zu groß. und b also als 5 zu klein, suche man 3. 45 X 46
+
+6210, und man sieht also, daß b wenigstens 6 ſein muß. S. 102.
+
+Man soll aus einem Bruch oder aus einer ganzen Zahl und einem Bruch die Cubicwurzel ausziehn. Die Auflösung ergiebt sich aus §. 85 verbunden mit §. 92. Wie groß ist v 343? Sollten Zähler oder Nenner oder beide zugleich keine wirkliche Cubi seyn, so kann man den Bruch in einen Decimalbruch verwandeln und aus diesem die Cubicwurzel ausziehn,
+
+[p. 116] §. 103. Aus einem Decimalbruch allein oder mit einer ganzen Zahl verbunden die Cubicwurzel zu ziehen. Die Auflösung ergiebt ſich aus §. 86 verbunden mit §. 93. Wie groß ist
+
+96,508?
+
+Wie groß ist V0,05?
+
+beide bis auf1 6 Decimalbruchstellen berechnet.
+
+§. 104. Wenn sich eine Cubicwurzel`nicht genau in gans zen Zahlen finden läßt, so kann man sie durch Annäherung in Decimalbrüchen finden, so wie man überhaupt bei jedem Ausziehn der Cubicwurzel, diese, wenn es erforderlich ist, in kleinere Decimalbruchſtellen fins den kann.
+
+Die Regel nach welcher verfahren wird, beruht auf S. 103, wobei man
+
+§. 94 vergleichen kann. Wie groß ist ✓ 7 bis auf 6 Decimalbruchstellen berechnet?
+
+$. 105. Es läßt sich nicht blos, so wie §. 95 von den Quadratwurzeln, auch von den Cubicwurzeln darthun, daß wenn sich von einer ganzen Zahl eine Cubicwurzel in ganzen Zahlen nicht genau angeben läßt, ſie in Decimalbrüchen, sondern auch, nach §. 96 bis 98 inclus., daß ſie alsdann überhaupt irrational Sey.
+
+[p. 117] §. 106. Soll man die Cubicwurzel aus einer in Buchstaben gegebenen Größe ausziehen, so geht dies nur an, wenn die Größe ein wirklicher Cubus iſt, es müſſen alſo Cubi, Quadrate u. f. w. darin vorkommen. Ist man gewiß, daß eine gegebene Buchstabenformel ein wirklicher Cubus sey, so ordne man die Buchstaben nach der gegebenen Formel, so daß der Cubus cines Theils den Anfang mache, dann das Quadrat dieſes Theils folge u. s. w. und" verfahre sodann wie §. 101 gelehrt, nur daß man dabei auf keine Ordnung der Buchstaben durch ihre Stelle wie bei den Zahlen zu sehen hat.
+
+125 a³
+
+Man soll aus
+
+225 a²c +135 ac² ziehen. 27 c³ die 3 Cubicwurzel ✓ 125 a³ - 225 a²c+ 135ac² —27c³ | 5a - 3c (a³)
+
+125 a³ 225a²c + 135 ac² -— 27c³ | (3a²)
+
+(75a²)
+
+(3 a²b +3ab² +b³) —225 a²c + 135 ac² — 27c³.
+
+Man soll aus —27 a³ +54 a²b — 36 ab² +8b³ — 162 a²c + 216abc —72 b² c — 324 ac² +216bc² -216 c' die Cubicwurzel ziehen. Sind die Größen aus denen man die Eubicwurzel ziehen soll, kein wirklicher Cubus, so seht man blos das Wurzelzeichen davor. Z. B. ↓ (a — b).
+
+[p. 118] Allgemeine Betrachtungen über Potenzen und Wurzeln.
+
+#### §. 107.
+
+Ist die Wurzel +, ſo ſind alle Potenzen +; iſt die Wurzel so sind alle Potenzen deren Exponenten grade Zahlen sind + , so wie alle diejenigen deren Exponenten ungrade Zahlen sind — . Aus welchem Grunde? Hieraus ergiebt ſich die Wurzeln deren Exponent eine gerade Zahl iſt, ſind aus einer negativen Größe unmöglich (imaginär), alſo sind √ —・a, V - a, V a u. s. w. unmögliche oder imaginäre Größen;
+
+ferner haben alle Wurzeln deren Exponent eine gerade Zahl ist aus einer positiven Größe einen doppelten Werth, sie können + oder seyn; da hingegen die Wurzeln aus poſitiven Größen, bei ungeraden Exponenten stets + ſeyn müſſen, ſo wie sie hingegen bei negativen Größen stets - sind. Sind die Wurzeln ganze Zahlen, so sind die Potenzen selbst ganze Zahlen; so wie auch umgekehrt, wenn irgend eine Wurzel irgend einer ganzen Zahl sich nicht genau in ganzen Zahlen angeben läßt, ſie auch in Brüchen nie genau gefunden werden kann. Bei einem ächten Bruch wird die Potenz desselben um so kleiner, je größer der Exponent wird. Der Beweis dieses Satzes kann keine Schwierigkeit machen, wenn man den Begrif der Potenz deutlich vor Augen hat.
+
+[p. 119] S. 108. Axiomen. 1. Dignitäten von gleichen Wurzeln und gleichen Exponenten sind einander gleich. 2. Wurzeln von gleichen Dignitäten und Exponenten sind einander gleich. 3. Die Exponenten von gleichen Wurzeln und Dignitäten sind einander gleich.
+
+Ueber die einfachen Rechnungsarten mit den Potenzen und Wurzeln.
+
+$. 109. Es findet bei den Potenzen nur eine wirkliche Addition statt, wenn die Wurzeln und die Exponenten gleich sind; so ist 4 a ' -— 3a² + 6a² = 7a ". Sind die Wurzeln oder auch nur die Exponenten ungleich, so kann die Addition blos angezeigt werden, ſo iſt 4a³ zu 3 a² addirt = 4a³ + 3a²; ſo wie auch 56² und 5 a² nicht wirklich addirt werden
+
+Eben dies gilt vom Subtrahiren.
+
+Grund liegt darin, daß Potenzen nur gleichartige
+
+Größen sind, wenn Wurzeln und Exponenten gleich Potenzen die gleiche Wurzeln haben, laßen sich wirklich multipliciren, man behält: im Produkt die Wurzel bei, und giebt ihr die Summe der Exponenten der Faktoren zum Exponenten; so ist a³ × a a.
+
+Man löse sich die Begriffe von a³ und a* auf, so wird man die Wahrheit des Satzes bald eins
+
+[p. 120] So ist am X an = am +n,
+
+Potenzen die ungleiche Wurzeln haben laßen sich nicht wirklich multipliciren, ihre Multiplication läßt sich blos andeuten. a³ mit be multiplicirt ist a³ b ++ Aus dem vorhergehenden Satz ergiebt sich, daß wenn man eine Potenz durch die andere dividiren soll, und Dividendus und Divisor gleiche Wurzeln haben, so ist der Quotient die Wurzel deren Exponent die Differenz zwischen dem Exponenten des Dividendus und des Diviſors iſt. mn a? a²+ Potenzen mit ungleichen Wurzeln laßen sich nicht wirklich dividiren, sondern diese Operation läßt sich ar blos bezeichnen, a' dividirt durch b³ = 65+ Aus dem was so eben über die Division der Potenzen mit gleichen Wurzeln gesagt ist, laßen sich noch andere bisher nicht gebrauchte Bezeichnungen m m ableiten. -4 a a°, nun ist aber 1. Man sieht bald ein, daß also ist a° dies auch für b° , c ° u. s. w. gilt, alſo jede Größe in der Dignitat o ist = 1.
+
+a 5-7 = a
+
+Nun kann man aufseine kleinste Benennung bringen, wenn man
+
+Zähler und Nenner durch a dividirt, und dann erhält man 2 = 1 2, also ist a 2 = 1 / /. Denkt man ſich diesen Sag allgemein, so heißt er: Wenn man zwei
+
+Potenzen von gleichen Wurzeln dividiren soll, wo [p. 121] aber der Exponent des Divisors größer als der Exponent des Dividendus ist, so erhält man zum Quotienten einen Bruch dessen Zähler 1, und deſſen Nenner eine Potenz der Wurzel ist, welche zum Exponenten die Zahl hat, um welche der Exponent des Dividendus kleiner als der Exponent des Divisors ist; man kann aber auch diesen Bruch als eine Potenz betrachten, deren Wurzel die gegebene ist, die aber zum Exponent die negative Zahl hat welche der Ex65 ponent des Nenners ist. So ist 69 Wendet man dies auf die Zahlen an, so ist 100 = 0,01 = 102 = 10 m mit a
+
+→m Man soll a durch a
+
+Man soll a multipliciren.
+
+Beide Aufgaben werden sich leicht auflösen laßen, wenn man die Regeln der algebraiſchen Addition und Subtraction vor Augen hat.
+
+Eben so werden sich bei einigem Nachdenken folgende Aufgaben leicht löſen laßen. a² b³ × ab * = ar b³.
+
+S. 110 Soll man gegebene Potenzen zu höhern Graden erheben, so multiplicire man den Exponenten der Wurzel mit der Zahl der Dignität zu der sie erhoben werden soll: so ist a³ zur zweiten Dignität ers 2 X3 Ein == a6, · (a²) 4 = a28, hoben
+
+122' Sah, dessen Richtigkeit leicht eingesehen werden kann. Hierauf gründen sich einige Vortheile, die man sich verschaffen kann, wenn man Zahlen zu ſehr hohen Dignitäten erheben soll. Soll man z. B. eine Zahl zur 34ften Dignität erheben, ſo ſuche man die zweite Dignität, multiplicire diese mit sich selbst, so erhält man die 4te, diese mit sich selbst die ste, diese mit sich selbst die 16te, diese mit sich selbst die 32ſte, und diese endlich mit der 2ten, ſo erhält man die 34te Dignität.
+
+S. 111. Man wird also umgekehrt die Wurzel aus einer Potenz ziehen, wenn man den Exponenten der Potenz durch den Exponenten der Wurzel dividirt; so Statt ist √ a' = a³, √ = a³, √ a² = am * Van ✔a kann man also schreiben am, statt Vaak.
+
+Ferner ist a= a* und √ a* = a‡, und umgekehrt 5 } = √ 5 '. Potenzen deren Exponenten Brüche sind, heißen Bruchpotenzen.
+
+Ein Bruchpotenz ist also eine Wurzel. Folgende Verwandlungen der Ausdrücke laßen ſich nach dem vorhergehenden leicht verstehen: až
+
+×¸ a‡ = a² × √ a. a²‡ = a² X
+
+= 4
+
+[p. 123] Zu diesem Ausdruck kömmt man auch auf folgendem Wege
+
+2—4— a¹ = a, aª a* — = a ↓ a,
+
+Va³ S. 112. Wurzelgrößen laßen sich nur addiren und ſubtrahiren, wenn die Zahlen der Wurzeln und die Potenzen gleich sind, aus denen sie gezogen werden sollen, sonst kann man die Addition und Subtraktion blos anzeigen, ſo iſt 3 √ a³ + 4√ a³ = 7 √ as. Hingegen 3 va² + 4√ a* kann nicht zuſammengezogen werden. Wurzelgrößen laßen sich multipliciren und dividiren, wenn die Wurzeln der Potenzen, woraus sie gezogen werden sollen, gleich sind. ―― Der leichteste Weg ist die Wurzeln nach §. 111 zu verwandeln und nach §. 109 zu verfahren. √ a¹ × √ a ' = a³ × aª = a¹¹xa ха"" = a = a3 = √ a²3.
+
+Wie groß iſt va-5 × √ a¹²?
+
+a¹½ — 4 = a
+
+Va Va
+
+X va
+
+Wie groß iſt Va *? Vao
+
+[p. 124] Soll man Wurzelgrößen zu Dignitäten erheben, oder wiederum aus ihnen Wurzeln ausziehen, so verfährt man am besten, wenn man die Wurzeln nach §. 111 verwandelt und nach §. 110 verfährt.
+
+(V´a³) 6 = a²² × 6.
+
+aº.
+
+Wie groß ist ( √ a * ) * ?
+
+√ ( √ a³) = √ a* = a* = a¹ = a√ a. a*)? Wie groß ist √ ( √a^)?
+
+[p. 125] Von den Verhältnissen und Proportionen.
+
+S. 113. Das Verhältniß zweier Größen (ratio) heißt die Art wie die eine aus der andern hervorgebracht wird. Die Größen, die im Verhältniß gedacht werden, heißen Glieder des Verhältnisses (termini rationis) , dasjenige Glied, aus welchem man das heißt was man zuerst setzt, andere als vorhergehende erzeugt denkt, Vorderglied (antecedens) und das andere, das nachfolgende oder Hinterglied (consequens) .
+
+S. 114. Sind beide Glieder des Verhältnisses gleich, so heißt das Verhältniß ein Verhältniß der Gleichheit (ratio aequalitatis), ſind ſie ungleich, ein Verhältniß der Ungleichheit (ratio inaequalitatis),
+
+Auch bei dem Verhältnisse der Ungleichheit müſſen die Glieder des Verhältnisses gleichartig seyn, weil [p. 126] man sonst die eine Größe aus der andern nicht erzeugen kann;
+
+übrigens aber können beide einſtimmige oder auch entgegengeſetzte Größen ſeyn.
+
+Die Glieder des Verhältnisses, welche die Mathematik betrachtet, können diskrete, oder auch continuirliche Größen seyn, wir betrachten hier blos
+
+Verhältnisse der Größen von der ersten Art. S. 115. Man theilt die Verhältnisse nach der Art wie eine Größe aus der andern erzeugt wird, in arithmetische und in geometrische. heißt arithmetisch,
+
+Ein Verhältniß wenn man das nachfolgende
+
+Glied aus dem vorhergehenden so entsprungen sich vorstellt, daß zu dem vorhergehenden eine Größe addirt wird.
+
+Ein Verhältniß heißt geometrisch, wenn man das nachfolgende Glied aus dem vorhergehenden durch die Multiplication entſpringen läßt. Wenn man von Verhältnissen schlechthin redet, versteht man geometrische Verhältnisse. Man nennt bei den arithmetischen Verhältnissen das was man zum vorhergehenden Gliede addiren muß, um das nachfolgende zu erhalten, men des Verhältniſſes;
+
+den Naes ist wie man leicht einsieht, die Differenz beider Glieder, daher bezeichnet man auch die arithmetischen Verhältnisse mit dem Zeichen der Subtraktion.
+
+7-9, (wird gelesen
+
+7 zu 9) ist ein arithmetisches Verhältniß und der Name desselben + 2.
+
+Welches ist der Name des
+
+Verhältnisses 18-14?
+
+Der Name
+
+Verhältniſſes [p. 127] ist mit den Gliedern des Verhältnisses gleichartig.
+
+Die allgemeine Formel für ein arithmetiſches
+
+Verhältniß ist a — a + d;
+
+wo d also der Name des Verhältnisses ist. Bei den geometrischen
+
+Verhältnissen heißt die
+
+Zahl mit der man das vorhergehende Glied multipliciren muß um das nachfolgende zu erhalten, Exponent des Verhältnisses;
+
+er ist jederzeit eine diskrete Größe (Zahl) , die Glieder des Verhältnisses mögen diskrete oder continuirliche Größen seyn, warum? - Man findet den Exponenten eines geometrischen Verhältnisses durch die Division, daher ist das Zeichen deſſelben, das Diviſionszeichen, 4:12, (lies 4 zu 12).
+
+Der Exponent des eben gegebenen
+
+Verhältnisses ist 3, der Exponent von 18: 6 ist 3 Welches ist der Exponent von 15: 9?
+
+Die allgemeine Formel für die geometriſchen Verhältnisse ist a: ae, wo e also der Exponent des Verhältnisses iſt. Sind beide Glieder des geometrischen Verhältniſſes einstimmig, so ist der Exponent + , entgegengesett sind sie warum?
+
+S. 116. Man kann nur arithmetische Verhältnisse mit arithmetiſchen und geometrische Verhältnisse mit geometrischen vergleichen; aus welchem Grunde? arithmetiſche Verhältnisse,
+
+Zwei die gleichen Namen haben, heißen gleich, wenn sie verschiedene Namen haben, ungleich.
+
+Zwei geometrische Verhältnisse [p. 128] die gleichen Exponenten haben, heißen gleich, wenn sie ungleiche Exponenten haben, ungleich. Zwei gleiche Verhältnisse geben eine Proportion; man ſetzt zwiſchen beiden das Gleichheitszeichen. a a + d = b ― b + d øder a: ae = b; be.
+
+Statt des Gleichheitszeichens ſetzt man auch wohl ein doppeltes Colon :: z. B. a — a + d :: b − b + d. Von den Verhältnissen selbst hängt die Benennung der Proportionen ab, was wird also eine arithmetische, und was eine geometrische Proportion seyn? Wenn man von Proportionen ſchlechthin redet, versteht man geometrische Proportionen. In einer arithmetischen Proportion müſſen alle
+
+Glieder gleichartig seyn, da hingegen bei einer geometrischen Proportion nur jedes der beiden Verhältnisse zwei gleichartige Glieder zu haben braucht.
+
+Der Grund dieser Behauptung wird
+
+ſich bald auffinden laßen.
+
+Da wir aber in der Arithmetik nur von diskreten Größen überhaupt sprechen, so betrachten wir auch in den geometrischen Proportionen alle
+
+Glieder gleichartig.
+
+S. 117. Aus §. 116 ergiebt sich, daß in einer jeden Proportion ſich 4 Glieder finden müſſen; dritte heißen vorhergehende, das erste und das zweite und vierte nachfolgende Glieder; die beiden vorhergehenden und die beiden nachfolgenden Glieder heiBen
+
+[p. 129] Den gleichnamige oder gleichliegende;
+
+ferner nennt man das erste und vierte Glied, das zweite und dritte innere oder mittlere GlieIn der Proportion 8-10 = 15 der.
+
+8 und 15 vorhergehende,
+
+17, sind
+
+10 und 17 nachfolgende,
+
+8 und 17 äußere, 10 und 15 innere Glieder. Sind die beiden mittlern Glieder einer Proportion uns gleich, so heißt sie diskret oder unterbrochen,
+
+12 = 5 gleich,
+
+8 oder 6: 125: 10;
+
+sind sie so heißt sie continuirlich oder stetig,
+
+15, 6: 12≈ 12: 24,
+
+Die allgemeine Formel für die diskreten arithme" tischen Proportionen ist, a — a + d = b ― b + d, für die continuirlichen, a - a a + d = a + d — a + 2d, für diskreten a: ae = b; be, geometrischen
+
+Proportionen für die continuirlichen a; ae ae².
+
+Von den arithmetischen Proportionen. S. 118. Da sich der Name des Verhältnisses einer arithmetischen Proportion leicht finden läßt, Glieder gegeben sind, wenn drei so läßt sich vermittelst desselben auch das fehlende vierte Glied finden.
+
+ergänze z. B. folgende Proportion in der das erste
+
+Glied fehlt.
+
+17 ―
+
+21.
+
+[p. 130] S. 119. In einer arithmetiſchen Proportion ist die Summe der beiden äußern Glieder gleich der Summe der beiden innern.
+
+a.
+
+a+ d= b — b + d a+ b+d a+ b+ d
+
+Wie wird man diesen Lehrſaß für die continuirlichen Proportionen abändern? Umgekehrt stehen 4 Größen Proportion, arithmetischer wenn die Summen von zwei und zwei derselben gleich sind, und zwar machen die Summanden der einen Summe die äußern, und die der andern die innern Glieder. Der Beweis wird ins direkt geführt.
+
+$. 120.
+
+S. 119 giebt Mittel an die Hand folgende zwei
+
+Aufgaben zu lösen:
+
+Es sind drei Glieder
+
+Proportion gegeben, arithmetischen man soll das fehlende vierte
+
+[p. 131] Es sind die beiden äußern Glieder einer continuirlichen arithmetischen Proportion gegeben, soll das mittlere Glied finden Man ergänze folgende Proportionen:
+
+8 -- 17 =
+
+S. 121.
+
+Wenn zwei arithmetische Verhältnisse mit einem dritten in Proportion stehen, so stehen sie auch unter einander in Proportion. Der Beweis für diesen Sah kann keine Schwierigkeit machen.
+
+Von den geometrischen Proportionen.
+
+S. 122. Ob man gleich bei einer geometrischen Proportion von der drei Glieder gegeben sind, das fehlende vierte dadurch leicht finden kann, daß man den Exponenten des Verhältnisses sucht, so giebt es doch zur Lösung dieser Aufgabe noch einen andern Weg, wir jetzt angeben wollen.
+
+[p. 132] In einer geometriſchen Proportion iſt das Produkt der beiden äußern Glieder, gleich dem Produkte der beiden mittlern.
+
+a: ae = b; be abe abe
+
+Beispiel
+
+3:24
+
+7:56
+
+Wie wird dieser Lehrſaß für die continuirlichen geometrischen Proportionen abgeändert?
+
+§. 123. Lehrsaz. Wenn von 4 Größen die Produkte von zwei und zwei derselben gleich sind, so stehen diese Größen in geometrischer Proportion, und zwar so, daß die beiden Faktoren des einen Produkts die beiden äußern, und die beiden Faktoren des andern Produkts die beiden innern Glieder ausmachen. Der Beweis wird indirekte geführt.
+
+$. 124. Nach S. 122 werden sich nun folgende Aufgaben auflösen laßen:
+
+[p. 135] Es sind drei Glieder
+
+Proportion gegeben, geometriſchen man soll das fehlende vierte
+
+2* Es sind die beiden äußern
+
+Glieder continuirlichen geometriſchen Proportion gegeben, man sucht das mittlere Glied. Man ergänze folgende Proportionen:
+
+= 42: 6
+
+9:56
+
+: 126
+
+6: 14 = 7:
+
+7:28 =
+
+:9
+
+4:
+
+S. 125. Die geometrischen Proportionen, als gleichartig zu betrachten sind, deren Glieder geben durch folgende Veränderungen immer wieder richtige Proportionen.
+
+Die Richtigkeit der Proportion ergiebt sich aus §. 123.
+
+Wir legen allgemeine
+
+Formel a: aebbe zum Grunde.
+
+Durch die Umkehrung: 1) der Glieder der Verhältnisse. ae: abe: b 2) der ganzen Proportion. be: bae: a
+
+Durch die Verſetzung: 1) der äußern Glieder be: aeb: a 2) der innern Glieder a; b = ae: be
+
+Durchs Addiren: b + be a: a + ae = b
+
+ふ a + ae; ae = b + be: be a+ b: b = ae + be: be a+b: a = ae + be; ae
+
+Durchs Subtrahiren:
+
+aaaeb: b - be aae: aeb - be: be b: b = ae- be: be baae · -be: ae Y
+
+Zur Erläuterung kann man die Proportion 2: 6 4:12 nach den eben gegebenen Formeln verändern.
+
+Durchs Multipliciren:
+
+aen aen = bn aen bm: dem bn an: ae den
+
+: den aen
+
+= bm den aem bn dem aen = b
+
+ུ/༤/s།༤
+
+Durchs Dividiren: b: be
+
+ས[༠།ྐྭ ཚེ ་
+
+: aе = b :R a:
+
+Zur Erläuterung verändere man die Proportion
+
+2: 6 = 4: 12 nach den gegebenen Formeln, laße n = 2, m = 3 ſeyn.
+
+Durch Erhebung aller vier
+
+Glieder zu gleich hohen Potenzen: am: (ae)m = bm: (be)m Folgende Proportion ist nicht richtig:
+
+(ae)m bª: (be)n
+
+Durchs Ausziehen gleichnamiger Wurzeln aus allen Gliedern: Va: Vae = Vb: Vbe Um die Richtigkeit der letzten Proportion einzusehen, drücke man sie nach §. 111 so aus.
+
+e)mm = bm (be)m (a (ae)
+
+Folgende Proportion iſt nicht richtig: Va: Vae = Vb: Vbe
+
+S. 126. So wie man nun zu Folge §. 125 aus einer geometrischen Proportion mehrere durch die einfachen Rechnungsarten ableiten kann;
+
+so kann man auch aus mehreren Proportionen neue ableiten.
+
+Die Regeln für diese Operation, deren Richtigkeit sich nach §. 113 beweisen läßt, sind:
+
+[p. 136] Wenn zwei geometrische Verhältnisse mit einem dritten in Proportion stehen, so stehen sie untereinander in Proportion:
+
+ae = b; be c: ceb: be ae = c: ce
+
+Dies nannten die Alten ex aequo simpliciter
+
+Wenn in zwei geometrischen Proportionen, die gleichnamigen vorhergehenden oder nachfolgenden Glieder gleich sind, so stehen die andern gleichnamigen Glieder auch nach derselben Ordnung in Proportion:
+
+a: ae = b: be a; an = b; bn aé an be; bn ae = b а a: a b: d nannten die Alten ordinatim ex aequo
+
+Wenn in zwei geometrischen Proportionen die äußern oder innern Glieder gleich sind, so stehen die ungleichen Glieder in Proportion, gekehrter Ordnung:
+
+aber in ums [p. 137] a: ae = b a: am = : b ae: am a: ae = b b: ab e e = ab: be
+
+Dies nannten die Alten perturbatim ex aequo 4+
+
+Wenn die Exponenten zweier geometrischen
+
+Proportionen gleich sind, so ' erhält man eine richtige Proportion, wenn man die Glieder nach der Ordnung addirt oder ſubtrahirt.
+
+a: ae = c: cę = d: de a+c; ae + ce = b + d: be + de a - cae .— ce — b — d: bede Sind aber die Exponenten ungleich, so bringt man auf die Weise nicht nothwendig eine neue riche tige Proportion heraus:
+
+b: be d: den f: fen a+d; ae + den = b +f: be +fen a - d: ae - den - b -f: be -fen sind nicht nothwendig richtige Proportionen.
+
+Aus 4 ergiebt sich: 5) Wenn mehrere Verhältnisse mit einem dritten in Proportion stehen, so steht das Verhältniß was aus der Summe der gleichnamigen Glieder entsteht, ebenfalls mit diesem dritten Verhältniß in Proportion. a: ae = b: be.
+
+1 d ce = b: be
+
+: de.
+
+b: be a + c + d; ae + ce + de = b: be
+
+Aus zwei geometrischen Proportionen, selbst von verschiedenen Exponenten, ergiebt sich eine neue, wenn man die Glieder der Ordnung noch untereinander multiplicirt oder dividirt.
+
+Man nennt dies
+
+Zusammensetzung der Verhältniſſe. ae = b * be c: cmd: dm bd: bdem ac: acem a: aeb: be c: cmd: dm cm dm
+
+Um zu wissen, ob man die in diesem S. gegebenen Regeln gehörig verstanden habe, versuche man die gegebenen allgemeinen Formeln durch Beispiele in Zahlen darzustellen.
+
+[p. 139] Von den Reihen oder Progreſſionen.
+
+S. 127. Mehrere Größen, von denen jede ein gleiches Verhältniß zur nachfolgenden hat, nennt man eine Reis he oder Progression. In der Arithmetik betrachtet man nur die Progreſſion diskreter Größen. Man theilt die Progreſſionen nach den in ihnen statt findenden Verhältnissen in arithmetische und geometrische;
+
+sie heißen steigend, folgenden Glieder größer, fallend, wenn die nachwenn sie klei=' ner als die vorhergehenden werden. Erläuterung durch Beispiele. arithmetische steigende Progression 3,5,7,9,11,13 fallende 36,31,26,21,16 geometrische steigende Progreſſion 1,2,4,8,16 fallende 1000,200,40,8
+
+Aus der aufgestellten Erklärung der Progreffionen läßt sich leicht die Auflösung folgender beider Aufgaben finden:
+
+Man soll wenn zwei aufeinander folgende
+
+Glieder einer Progression gegeben sind, das zunächst vorhergehende oder das zunächst nachfolgende finden.
+
+[p. 140] Es seyen z. B. 14 und 19 zwei aufeinander folgende Glieder einer arithmetischen Progression, man sucht das vor 14 vorhergehende und das auf 19 folgende Glied.
+
+Ferner seyen 7 und 31 zwei aufeinander folgende
+
+Glieder geometrischen
+
+Progression, man sucht das vor 7 vorhergehende und das auf 31 folgende Glied.
+
+Man soll wenn zwei Glieder einer Progression gegeben sind, zwischen denen ein Glied fehlt, das fehlende Glied finden.
+
+Es seyen 18 und 24 zwei Glieder einer arithmetiſchen Progreſſion zwiſchen denen ein Glied fehlt, welches ist das fehlende Glied? 25 und 225 seyen zwei Glieder einer geometrischen Progression zwischen denen ein Glied fehlt, sucht das fehlende Glied.
+
+Von den arithmetischen Progressionen. S. 128. Die allgemeine Formel für die arithmetiſchen
+
+Reihen ist: a, a + d, a + 2d, a + 3d, a + 4d, a +5du.f.w. wo dist, wenn die Reihe steigend, und wo es ist, wenn die Reihe fallend ist. Den Unterschied des nachfolgenden Gliedes von dem vorhergehenden nennt man die Differenz, die also bei allen Gliedern der Reihe gleich ſeyn muß. Bei einer steigenden Reihe ist die Differenz positiv, bei einer fallenden negativ.
+
+[p. 141] Betrachtet man nun die Formel der. arithmetischen Reihe genauer, so findet man, daß man das zweite Glied erhält, wenn man zum ersten Glied die Differenz einmal, das dritte Glied, wenn man zum ersten Gliede die Differenz zweimal addirt u. s. w. Man wird also dante Glied erhalten, wenn man zum ersten Gliede die Differenz n — imal addirt. Nennt man nun dante Glied u, so ist u = a + (n − 1) d.
+
+S. 129. Bei einer jeden arithmetischen Progression kommen also folgende 4 Stücke vor: das erste Glied a, die Differenz d, die Anzahl der Glieder n, und das letzte Glied u. Wenn von dieſen Stücken 3 gegeben sind, so kann man das 4te durch Rechnung finden. Es ergiebt sich leicht, daß a, d und u sowohl + als B ſeyn können, welches bei n nicht statt findet, denn eine negative Zahl der Glieder hat keinen Sinn.
+
+Sollte man also bei Aufsuchung von n, einen negativen Werth finden, so ist dies ein Zeichen, daß die Aufgabe unmöglich ist. andung Ferner muß z eigentlich eine ganze Zahl seyn, findet man daher bei Auflösung einer Aufgabe, n als eine ganze Zahl und einen Bruch, so ist dies ein Zeichen, daß das gesuchte Glied eigentlich kein Glied der gegebenen Reis he ist, sondern zwischen zwei Gliedern liegt, wovon das Kleinste durch die gefundene ganze Zahl bezeichnet wird.
+
+[p. 142] S. 130. Es ist gegeben das erste Glied, die Differenz und die Zahl der Glieder, man sucht das letzte Glied. Die Auflösung dieser Aufgabe findet sich in der §. 128 gegebenen Formel u=a+ (n − 1) d, denn wenn man diese Zeichen gehörig liest, so findet man: Man erhält das letzte Glied, wenn man zum ersten Gliede das Produkt aus der Differenz und der Zahl des Gliedes weniger 1, addirt. Das erste Glied sey 4, die Differenz 6, man sucht das gte Glied. 31 man
+
+Das erste Glied sey 98, die Differenz sucht das 12te Glied. Das erste Glied sey 7, die Differenz — 5 ,' man sucht das 8te Glied. Das erste Glied -
+
+3, die Differenz
+
+--- 2, man sucht das 6te Glied. p Das erste Glied sey 27, die Differenz
+
+3, man sucht das 10te Glied. Das erste Glied sey
+
+108, die Differenz 8, man sucht das 32te Glied. Das erste Glied ſey —3, die Differenz
+
+, welches ist das 14te Glied ?. S. 131.
+
+Es ist das letzte Glied einer arithmetiſchen Reihe, [p. 143] die Differenz und die Zahl der Glieder gegeben, man sucht das erste Glied.
+
+Man findet das erste Glied, wenn man vom legten Gliede die Differenz mit der Zahl der Glieder weniger multiplizirt, ſubtrahirt. ·
+
+Nach §. 128 ist u = a + (n − 1) d; ſubtrahirt man von beiden Größen (n − 1) d, so erhält man u― (n - 1) d = a, welches in Worten ausgedrückt, die gegebene Auflöſung iſt. Das letzte Glied sey 108, die Differenz 5, die Zahl der Glieder 9, welches ist das erste Glied? Das letzte Glied $sey 5, die Differenz — 7, die Zahl der Glieder 14, welches ist das erste Glied? Das letzte Glied sey -17, die Differenz 6, die Zahl der Glieder 10, welches ist das erſte Glied? Das letzte Glied ſey 3, die Differenz 8, die Zahl der Glieder 7, man sucht das erste Glied. Das letzte Glied sey 9, die Differenz 2, die Zahl der Glieder 20, man ſucht das erste Glied. §. 132.
+
+Es ist das erste und letzte Glied einer arithmetischen Reihe und die Zahl der Glieder gegeben, man sucht die Differenz.
+
+Die Differenz der Progression ist gleich der Differenz [p. 144] zwischen ihrem letzten und ersten Gliede, dividirt durch die Zahl der Glieder weniger 1. Aus der
+
+F. 128 gegebenen Formel u = a
+
++ (n- 1) d ergiebt ſich nach 75, 2, u — a— (n— 1) d; ua und nach 75, 4. === d.
+
+Das erste Glied sey 4, das letzte 32, die Zahl der Glieder 7, welches ist die Differenz? Das erste Glied sey 7, das letzte 9, die Zahl der Glieder 9, welches ist die Differenz?
+
+Das erste Glied sey4, das letzte Glied - 36, die Zahl der Glieder 17, welches ist die Differenz? 8, das legte Glied 48,
+
+Das erste Glied sen die Zahl der Glieder 9, man ſucht die Differenz.
+
+65, die
+
+Das erste Glied sey 5, das letzte
+
+Zahl der Glieder 11, man ſucht die Differenz. Das erste Glied ist
+
+— 3, die Zahl, das letzte -der Glieder 15, man sucht die Differenz. S. 133.
+
+Es ist das erste und legte Glied einer arithmetischen Reihe und die Differenz derselben gegeben, man sucht die Zahl der Glieder. Man findet die Zahl der Glieder, wenn man vom letzten Gliede das erste ſubtrahirt, durch die Differenz dividirt und zum Quotienten 1`addirt.
+
+Nach §. 129 [p. 145] ist die Aufgabe unmöglich, wenn man für die Zahl der Glieder eine negative Zahl findet. Nach §. 118 ist u = a + (n − 1) d, also nach §. 75, 2, u — a (n - 1) d, und nach §. 75, 4. u- a + 1 = ", nach §. 75, 1. alſo — "—² welche Formel die gegebene Auflöſung enthält.
+
+Das erste Glied sey 12, das letzte 100, die Differenz 44, welches ist die Zahl der Glieder? Das erste Glied sey 48, das letzte 4, die Differ renz -
+
+3, welches ist die Zahl der Glieder?
+
+Das erste Glied sey -9, das letzte 39, die Differenz 6, man ſucht die Zahl der Glieder. -
+
+Das erste Glied sey 8, das letzte 24, die Differenz -2, welches ist die Zahl der Glieder? Das erste Glied sey 104, das letzte 9, die Diß ferenz 8, man sucht die Zahl der Glieder.
+
+S. 134. Folgende Tafel wird die Uebersicht der 4 Aufgaben erleichtern: Gegeben
+
+Gesucht
+
+Regel a, d, n
+
+= a + (n - 1) d u, d, n
+
+α (n - 1) d ua a, ú, n a, u, d
+
+7 + 1+
+
+S Man schreibe unter eine arithmetische Progression dieselbe aber in umgekehrter Ordnung, so daß das lezte Glied unter dem ersten, das vorletzte unter dem zweiten u. s. w. zu stehen kommt, und addire ſodann die untereinander stehenden Glieder, so wird man überall gleiche Summen erhalten. a, a + d (n - 2) d, a + (n − 1) d at a + (n − 1) d,´a + (n − 2) d 2a + (n − 1) d, 2a + (n − 1) d ……… 2a + (n − 1) d, 2a + (n − 1) d
+
+5,
+
+7,
+
+9, II, 13, 15
+
+15, 13, 11,
+
+9,
+
+7,
+
+20, 20, 20, 20, 20, 20, Man erhält also so viel Summen als die Reihe Glieder hat, und jede derſelben ist der Summe des ersten und letzten Gliedes gleich.
+
+Wenn man daher die Summe des ersten und legten Gliedes arithmetiſchen Progreſſion mit der Anzahl der Glieder multiplicirt, ſo erhält man die doppelte Summe der Glieder der Reihe.
+
+Die Summe aller Glieder einer arithmetischen Reihe ist folglich gleich der Summe des ersten und legten Gliedes, multiplicirt mit der Zahl der Glieder, dividirt durch 2; oder welches einerlei ist: sie ist gleich der Summe des ersten und letzten Gliedes multiplicirt mit der halben Anzahl der Glieder. Nennt man die Summe der Reihe S, so ist (a + u) n oder (a + u) n.
+
+Das erste Glied sey 4, das letzte 52, die Zahl der Glieder 8, welches ist die Summe der Reihe?
+
+[p. 147] Das erste Glied sey
+
+10, das letzte
+
+100, die
+
+Zahl der Glieder 9, welches ist die Summe der Reihe? Das erste Glied sey
+
+8, das letzte 5, die Zahl der Glieder 18, welches ist die Summe der Reihe?
+
+Das erste Glied sey 12, das letzte
+
+12, die
+
+Zahl der Glieder 10, welches ist die Summe der Reihe? Gesetzt es sey ſtatt a, u und n; a, d und n gegeben, und man ſoll S ſuchen, so wird man nach §. 130 erst u suchen und sodann nach §. 134 vers fahren; oder seht man den Werth von u in die Fors mel von S, so erhält man S = [ 2a + (n − 1) d ] { n, wonach man sogleich S berechnen kann. Man sucht die Summe einer Reihe, deren erstes Glied 6, Differenz 4 und deren Gliederzahl 25 ist. Welches ist die Summe einer Reihe deren erstes Glied 100, die Differenz
+
+3, und die Zahl der
+
+Glieder 20 ist? Das erste Glied sey -9, die Differenz
+
+81 die
+
+Zahl der Glieder 14, welches ist die Summe der Reihe? Es ist gegeben a➡➡5, d = 6, n = 26, wie groß ist S? Von den geometrischen Progressionen.
+
+S. 136. Die allgemeine Formel für die geometrischen Progreffionen ist: a, ae, a e², a e³, ae' ,
+
+Die Zahl womit das vorhergehende Glied multiplicirt werden muß, um das nachfolgende zu erhalten, nennt man den Exponenten, wir haben ihn in der Formel mit e, so wie das erste Glied mit a bezeichnet. Gesezt a und e ſei plus, zu welcher Klaſſe von Zahlen gehört e, wenn die geometrische Reihe steigend, und zu welcher, wenn sie fallend ist? Wenn man die Formel gehörig betrachtet, so findet man, daß man das zweite Glied erhält, wenn man das erste mit dem Exponenten multiplicirt; das dritte, wenn man das erste Glied mit dem Exponenten in der zweiten Dignität multiplicirt; das vierte, wenn man das erste Glied mit dem Exponenten in der dritten Dignität multiplicirt, und alſo dante Glied, wenn man das erste Glied mit dem Exponenten in der Dignität n — 1 multiplicirt. Nennt man dante Glied u, so ist u = aen- 1.
+
+$. 137. Ist e +, so sind alle Glieder mit a einstimmig, d. h. wenn a + iſt, ſo sind es alle Glieder, und wenn a 1 ist, ſo sind es auch die übrigen. Ist e hingegen
+
+, so wechseln die Zeichen der
+
+Glieder ab, die Glieder, deren Zahl ungerade ist, sind mit a einstimmig, und die, deren Zahl gerade ist, ſind a entgegengesetzt. Der Beweis beruht auf den Regeln der algebraischen Multiplication und auf §. 107.
+
+[p. 149] S+ 138. Bei einer jeden geometrischen Progreſſion kommen also 4 Stücke, a, e, n und u vor, von denen man das 4te finden kann, wenn 3 derselben gegeben sind.
+
+a, e und u können
+
+ſeyn, nur n nicht, vergleiche §. 129. Sollte daher in einer Auflösung n mit dem Zeichen gefunden werden, so ist dies ein Merkmal, daß die Aufgabe unmöglich ist.
+
+Auch hier gilt das, was S. 129 gesagt wurde, wenn man findet n sey eine gebrochene Zahl.
+
+S. 139. Es sey a, e und ŉ gegeben, man ſucht u.
+
+Auflöſung. Nach §
+
+Das erste Glied sey 4, der Exponent 3, man sucht das 20ste Glied. Das erste Glied sey - 3, der Exponent 2, man sucht das 6te Glied. Das erſte Glied ſey 85, der Exponent
+
+, man sucht das 8te Glied.
+
+a sey = 8, e = 3, n = 6, wie groß ist u? n=4, wie groß iſt u? a sen=-9728, e
+
+S. 140. Es ist gegeben u, e und n, man sucht a
+
+[p. 150] -I·*)+
+
+Nach §. 136 ist u — a en - 1, dividirt man beide Ll Größen durch en- I so erhält man Beispiele Das legte Glied sey 128, der Exponent 2, T die Zahl der Glieder 8, welches ist das erste Glied? Das letzte Glied ſey 8, der Exponent
+
+, die Zahl der Glieder 10, welches ist das erste Glied? u ſey = — 16, e = 3, n = 9, wie groß ist a? I 4 u sey = 2, e === 2, n =f 6, wie groß ist a? u sey) —— 15, e = —4, n = 5, wie groß ist a?
+
+S
+
+Es ist gegeben a, u und n, man sucht e. n-1 = V=
+
+Nach §. 136 iſt u=a en − 1, also = zieht man auf beiden Seiten die n - 1ste Wurzel n-I aus, so erhält man 7
+
+= e.
+
+*) Da wir schon bei den arithmetischen Progressionen so viel Buchstabenformeln in Worten ausgedruckt haben, wird es keine Schwierigkeiten mehr machen, die hier gegebenen zu lesen.
+
+[p. 151] Anmerkungen. 1. Wir haben oben in der Lehre vom Ausziehen der Wurzeln nur das Ausziehen der Quadrats und Cubicwurzeln gezeigt, und dieſem zu Folge könnte n nicht 4 übersteigen, so daß höchstens 3 ist.
+
+n— 1
+
+Allein man sieht bald ein, daß selbst diesem zu Folge n noch mehrere Werthe haben kann; ist z. B. n = 5, ſo iſt n — 1 = 4, man muß also dann eine vierte Wurzel ausziehen, die erhält man aber, wenn man aus der Quadratwurzel wiederum
+
+Quadratwurzel zieht; ist n = 7, also n — 1 = 6, so findet man die 6te Wurzel, wenn man aus der Cubicwur´zel, die Quadratwurzel zieht.
+
+Auch wird man, wenn man das Verfahren beim Ausziehen der Quadrat - und Cubicwurzeln finden, daß man aus der aus genauer erwägt, a +b gesunde nen Formel für den gegebenen Exponenten der Wurzel, wenn derselbe eine ganze Zahl ist, eine Richtſchnur zur Ausziehung jeder Wurzel erhalten kann;
+
+nur muß dies allerdings sehr beschwerlich werden, wenn n eine große Zahl ist. Weiter unten wird ein leichterer Weg zur Ausziehung der Wurzeln angezeigt werden. 2. Ist a minus, so ist e eine unmögliche Größe, wenn n eine ungerade nnd also n = 1 eine ges rade Zahl ist, nach §. 107; und die Aufgabe iſt alſo ſelber unmöglich, welches auch mit §. 137 zuſammenſtimmt, denn soll a minus seyn, so [p. 152] mäſen u und a entgegengesetzt seyn.
+
+kann aber §. 137 zu Folge nicht seyn, weil die ungeraden Glieder durchaus mit dem ersten einstimmig seyn müſſen, e mag + oder — seyn. Iſt 2 negativ, n aber eine gerade, n — 1 alſo n-I eine ungerade Zahl, ſo iſt V½ = e und zwar ist es negativ. n-I
+
+V
+
+Iſt möglich poſitiv, ſo iſt
+
+= e positiv. §. 107.
+
+a ser = 24, u = 1536, n = 4, wie groß ist e? a sey = 1775, u = 3, n = 3, wie groß ist e? a sey = 4, u = -884, n = 4, wie groß ist e? a seŋ = -6, · 6, u = 24, n = 3, wie groß ist e? a sey =
+
+7, u = -109375, n = 7, wie groß ist e? S. 142. Endlich bliebe die Aufgabe noch übrig, es iſt a, u und e gegeben, man sucht n; allein diese Aufgabe können wir bis jetzt noch nicht lösen, denn aus u= aen, ergiebt sich == en - 1I, es wäre hier also die Dignität und die Wurzel gegeben, man ſucht den Exponenten; wir haben aber schon §. 76 angemerkt, daß diese Aufgabe erst späterhin aufgelöſet werden kann.
+
+§. 143. So wie wir oben bei den arithmetischen Reihen [p. 153] eine Regel zur Summirung derſelben gaben, so werden wir, dies jezt auch bei den geometriſchen thun müſſen. ― Die Summe der Reihe heiße S; so ist
+
+, .3.
+
+aen- 1
+
+S= a + ae + ae²+ ae³ + ae * + ae'
+
+Gesetzt man multiplicirte jedes Glied der Reihe nochmals mit e (dem Exponenten) , so würde man, wenn man die Glieder addirte, das e sache der Reihe erhalten; es würde eS = ae + ae²+ ae³ + ae * + ac³ +ae
+
+Beispiel zur Erläuterung. S=
+
+3 + 12 + 48 + 192 + 768
+
+4 S = 12 + 48 + 192 +768 + 3072 Man sieht leicht ein 1) e S wird eben so viel Glieder haben als S.
+
+2) Jedes Glied von eS wird also mit dem Gliede derselben Zahl in S übereinstimmen, wenn es mit e multiplicirt wird, daher 3) das erste Glied von eS mit dem zweiten von S, das zweite von es mit dem dritten von S u. f. w. zufammenstimmen wird, so daß in beiden Reihen sich nur zwei Glieder finden, die nicht mit einander übereinstimmen, in der Reihe eS, das erste Glied = a, und in es, das letzte oder nte Gliedaen.
+
+4)
+
+Das Gesagte wird statt finden, e mag + oder seyn. Subtrahirt man nun S von eS, so werden sich alle Glieder aufheben, außer a und aen nicht, so Nun aber daß man erhielte eS - Säen — a, [p. 154] ist eS - S = (e - 1) S; also (e — 1) Sae -a; dividirt man beide gleiche Größen mit e - 1, aela; d. h. man findet die so erhält man S = e -I Summe einer geometrischen Reihe, wenn man das erste Glied mit dem Exponenten zur Dignität erhoben, welche die Zahl der Glieder bezeichnet, multiplicirt, sodann das erste Glied subtrahirt, und™ nun mit dem Exponenten weniger 1 dividirt. Beispiele zur Auflösung. Das erste Glied einer geometriſchen Reihe sey 4, der Exponent 3, die Zahl der Glieder 8, man sucht ihre Summe. Das erste Glied ſey 120, der Exponent 4, die Zahl der Glieder 6, welches ist die Summe? - 5, Das erste Glied sey 8, der Exponent die Zahl der Glieder 9, welches ist die Summe? a sey
+
+9, der Exponent 4, die Zahl der
+
+Glieder 11, wie groß ist S? Man erzählt von dem Erfinder des Schachſpiels, er habe von dem persischen Schach sich zur Belohnung so viel Weißenkörner erbeten, als sich ergeben würden, wenn man ihm für das erste Feld 1, für das zweite 2, für das dritte 4 u. s. w. , gäbe. Da nun das Schachbrett 64 Felder enthält, so frägt sich, wie groß die Summe aller Weißenkörner sey? Um
+
+Größe dieser
+
+Summe einzusehen, verwandle man sie in Berliner Scheffel, den Scheffel zu 614400 Körner gerechnet; und suche wie viel Zeit [p. 155] erförderlich wäre, die ganze Summe abzutragen, wenn der Schach ihm jährlich eine Million Scheffel gäbe.
+
+S. 144. Die Summe einer unendlichen geometrischen Reihe zu finden, deren Exponent ein ächter Bruch ist.
+
+Das erste Glied sey a, der Exponent Summe S, so ist s= a + a. + a
+
+/ s = a. / + a
+
++ a
+
++ a² + a
+
+Da beide Reihen unendlich sind und beide fallen, so ist ihr leztes Glied als Null zu betrachten.
+
+iſt alſo S—S =a; alſo (1–4) S = a, folglich b = ac b: Man drücke C C- ・b* durch Worte aus. a sey
+
+180,
+
+, die Reihe unendlich, welches ist ihre Summe? en Die §. 143 gefundene Formel S = ae” —a hätte e- I uns dieselbe Auflösung verschaft, man seße a. ( )= a e = /, so ist s = da nun ŉ unendlich [p. 156] groß und 2 / c ein ächter
+
+Bruch,
+
+ſo iſt (2)"
+
+als Null zu betrachten, und alſo wird a. (-)"gleichfalls b -c -ac Null, folglich S= C -ac ===b+ c = Es ist aber C--b' denn das Zeichen des Quotienten bleibt unverändert, wenn man Dividendus und Divisor die entgegengesetzten Zeichen giebt.
+
+§. 145. Die Auflösung der Aufgabe, zwiſchen jede zwei Glieder einer gegebenen arithmetischen oder geometrischen Progression ein Glied einzuſchieben, ſo daß die Reihe noch arithmetisch oder geometriſch bleibe, je nachdem sie vorher war, machen;
+
+kann keine Schwierigkeit es ist nämlich das eingeschobene Glied die mittlere Proportionalzahl zwischen den beiden Gliedern zwischen welche es eingeschoben worden.
+
+nennt dies die Reihe interpoliren. — Man sieht leicht ein, daß man eine solche durch das Interpoliren entstandene Reihe von neuem interpoliren, und dies so lange als man will fortſetzen kann.
+
+[p. 157] Von den Logarithmen.
+
+§. 146. Eine geometrische Reihe deren erſtes Glied und Exponent gleich ist, ist zugleich eine Reihe von Dignitäten des ersten Gliedes; z. B. sind 3. 9. 27. 81. Da jedes Glied der u. f. w. Dignitäten von 3. Reihe zu dem folgenden immer im gleichen Verhältniß stehen muß, so läßt sich das allgemeine Grundverhältniß dieser Reihe angeben; und dieses ist alles mal wie 1 zu dem ersten Gliede; Beispiel also wie 1: 3.
+
+in dem gegebenen
+
+Geht man von dem ersten
+
+Gliede aus, so kann man jedes folgende Glied das durch finden, daß man die Grundproportion so oft zuſammenſezt erhält man die Zahl des Gliedes anzeigt;
+
+z. B. in dem gegebenen Beispiel das vierte Glied, wenn man das Verhältniß 1: 3 viermal zuſammenſetzt.
+
+Es ist aber
+
+I: 3
+
+1: 3
+
+I: 3 I: 81.
+
+[p. 158] S. 147. Diesem zu Folge kann man den Saß: Eine jede Potenz, deren Exponent eine ganze poſitive Zahl iſt, kann als das Glied trachtet werden, einer geometrischen Reihe be- deren erstes Glied und deren Exponent der Wurzel gleich ist, der Exponent wird die Zahl des Gliedes bezeichnen, auch so ausdrücken:
+
+Eine jede Potenz deren Exponent eine ganze positive Zahl ist, kann als nach dem Grundverhältniß einer nach der Wurzel beſtimmten geometriſchen Reihe ents standen betrachtet werden; zeigt sodann an, der Exponent der Potenz wie das Grundverhältniß genommen werden muß, um die Potenz zu erhalten.
+
+würde z. B. 35 heißen, die Zahl welche entſpringt, wenn ich das Grundverhältniß
+
+1: 3 fünfmal zu-
+
+ſammenſeße.
+
+S. 148. Betrachtet man die Exponenten der Dignitäten genauer, so findet man, daß sie eine arithmetiſche Progreſſion ausmachen, deren erstes Glied und Differenz ferenz ist. Die Glieder dieser Exponentenreihe fins det man nach den Gesetzen der arithmetiſchen Progression auf eine ähnliche Weise wie die Glieder der Dignitätenreihe.
+
+S. 149. Solcher Dignitätenreihen kann es unendliche geben, weil es unendlich viel Wurzeln giebt; für alle [p. 159] gelten die im Vorhergehenden aufgestellten Gesetze. Schreitet man bei der Dignitätenreihe nach demselben Verhältniß um ein Glied zurück, so erhält man jederzeit, was auch die Wurzel seyn mag, Schreitet man auch bei der Exponentenreihe nach demselben Gesetz um ein Glied zurück, so erhält man o, welche das in der arithmetiſchen Reihe dem in der Dignitätenreihe
+
+Gliede vorrespondirende ist nach der Dignitätenbezeichnung
+
+Glied ist.
+
+Also a°
+
+Vergleiche S. 109, wo man dieselbe Bez deutung für dieselbe Bezeichnung fand. S. 150.
+
+Man kann aber nach denselben Gesetzen in der Dignitäten und Exponentenreihe zurückschreiten, so würde man, wenn die Basis a genannt wird, erhalten
+
+I. I a2 a3
+
+Die Glieder minus,
+
+Ι
+
+O a² az at.
+
+Exponentenreihe würden sodann und die Dignitätenreihen würden Brüche, deren Zähler 1 und deren Nenner eine Dignität von a ist.
+
+Vergleiche §. 109.
+
+tet, so liegt ſodann nicht
+
+Wenn man zurückſchreidas Verhältniß
+
+1: 3, sondern das Gegentheil deſſelben 3: 1 zum Grunde. Daher entstehen auch, wenn man von der Grenze 1 ausgeht, negative Glieder in der Exponentenreihe.
+
+S. 151. Es fällt in die Augen, daß wenn man Zahlen, die sich in einer solchen Dignitätenreihe finden, muls [p. 160] tipliciren ſoll, man nur nöthig hat, die dazu gehōrigen Exponenten zu addiren, und ſodann nachzuſehen, was für eine Dignität zu dem Exponenten gehört, den man zur Summe erhalten hat. f. §. 109+ Eben so leicht ist einzusehen, daß man auf diese Weise das Dividiren der Dignitäten in ein Subtrahiren der Exponenten, das Potenziren der Dignitäten in ein Multipliciren der Exponenten und das Ausziehn der Wurzeln in ein Dividiren der Exponenten verwandeln kann.
+
+f. §§. 109. 110. III.
+
+. §. 152.
+
+vorhergehenden
+
+S. aufgestellte
+
+Regeln könnten sehr zur Erleichterung der Rechnung dienen, wenn die Dignitätenreihe alle Zahlen in der natürlichen Ordnung enthielte.
+
+Was man aber auch für eine Wurzel zur Dignitätenreihe wählen mag, so wird sie durchaus keine vollständige Zahlenreihe nach der natürlichen Ordnung enthalten.
+
+Die Wurzel 1 dient zu einer solchen Dignitätenreihe gar nicht (warum nicht? ) , die kleinste ganze Zahl wäre also 2, und da würde die Dignitätenreihe seyn,
+
+1, 2, 4,
+
+8, 16, 32 u. f. w., wo wie man sieht, immer grdBere Lücken entstehen.
+
+Es ist aber ein Mittel vorhanden, nach denselben Gesetzen, nach welchen jedes Glied in die vorhandenen Reihen und der dazu gehdrige Exponent bestimmt wird, den.
+
+Glieder einzuſchie-
+
+Man suche nämlich zwischen zwei zunächſt ſtehenden Gliedern der Dignitätenreihe mittlere
+
+Proportionalzahl (indem man aus dem Produkte derfelben [p. 161] ſelben die Quadratwurzel zieht) , so wird man den zu ihr gehörigen Exponenten finden, wenn man die Summe der Exponenten der gegebenen zunächſt ſtehenden Glieder halbirt.
+
+Interpolirt man (ſ. §. 145)
+
+immer von neuem die gefundenen Glieder beider Reihen, so wird man am Ende zum Gliede der Dignitätenreihe jede beliebige Zahl erhästen, und den zu ihr gehörigen Exponenten angeben können. Vergl. §. 155. §. 153. Man nennt nun die Verbindung der Exponenten mit den Zahlen als Dignitäten nach einer und ders selben Wurzel ein logarithmisches System, die zum Grunde liegende Wurzel heißt die Basis oder die Grundzahl, rithmen.
+
+Exponenten heißen Loga-
+
+Es wird also unendlich viel logarithmische Systeme geben können, weil man unendlich viel Zahlen zu Wurzeln annehmen kann; dasjenige, dessen man sich gewöhnlich bedient, und das man das gemeine oder Briggische, von seinem Berechner
+
+Brigg, Prof. in Oxford,
+
+Heinrich nennt, hat die Zahl 10 zur Grundzahl. So wäre also log. 10 = 1, log. 100 = 2, log. 10003 u. f. w; weil 10 = 10, 100 = 10²,
+
+10³ u. s. w.
+
+log. 1o, so wohl in dieſem als in jedem System, weil a ° = 1 nach §. 109. §. 154. Man wird bald einsehen,
+
+1) daß man, um das logarithmische System vollständig zu machen, nöthig hat, die Logarithmen der ganzen Zahlen zu ſuchen, 2) daß nur die Logarithmen der Primzahlen L [p. 162] berechnet zu werden brauchen;
+
+weil man die Logarithmen der zuſammengesetzten Zahlen sowohl als der Brüche aus den Logarithmen der Primzahlen leicht finden kann.
+
+Auf welche Weiſe?
+
+S. 155. Geſetzt, wir sollten den Logarithmus von 5 berechnen, so haben wir zur Berechnung deſſelben, daß log. 10, und log. 101. Die Zahl 5 fällt zwischen 1 und 10; es fällt aber v 1. 10 auch zwiſchen 1 und 10, und von √ 10 kann ich den log. finden nach §. 152; so würde ich alſo auf diesem Wege dem log. von 5 näher kommen.
+
+✓ 103,162277, davon +I log. 1+log. 10 würde also der log. seyn 0,5.
+
+5 liegt zwischen 3,162277 und 10, man suche also V 3,162277 X 10 = 5,623413, davon würde log. log. 1o +log. 3,162277 I + 0,5 seyn 0,75. 5 liegt zwischen 3,162277 und 5,623413;
+
+man ſuche also
+
+V 3,162277 X 5,623413 = 4,216964,davon wird der log. seyn, 0,625.
+
+log. 3,162277 + log.5,623413
+
+0,5 +0,75
+
+Fährt man nun auf dieſem Wege fort, die erhaltenen Zahlen, zwischen denen 5 fällt, ander zu multipliciren, mit einund aus dem Produkt die Quadratwurzel zu ziehen, so wird man, sich der 5 immer mehr nähert, da man ihr endlich so nahe kommen, als man immer will, und auch im Stande ſeyn, den log. anzugeben, da man nur die log. der Faktoren zu addiren und zu halbiren braucht.
+
+[p. 163] Folgende Tafel wird dies noch deutlicher machen.
+
+Α
+
+Logarithmen. IA
+
+IO
+
+1B
+
+C = 3,162277
+
+IC = 0,5
+
+D = 5,623413
+
+ID = 0,75
+
+4,216964 | 1E = 0,625
+
+F = 4,869674 | 1F = 0,6875
+
+H = 5,0480651H
+
+4,958069
+
+0,703125
+
+F = VDE CH
+
+5,232991 | IG = 0,71875
+
+C = VAB D = ✓ BC
+
+VDF
+
+H = VSG
+
+1 I = 0,6953125
+
+K5,002865
+
+·IVFH IK = 0,6992187 KVHI
+
+L = 4,980416
+
+IL = 0,6972656 | L = √ IK
+
+4,991627 M = 4,99
+
+IM
+
+0,6982421 M
+
+KL
+
+N = 4,997242 | IN = 0,6987304 | N = √KM
+
+5,000052
+
+10 = 0,6989745
+
+O = √ KN
+
+P = 4,998647 | 1P = 0,6988524
+
+P = VNO
+
+4,9993501Q = 0,6989134 ] Q
+
+Q
+
+VOP
+
+R = 4,999701
+
+IR
+
+0,6989439 R = VOQ
+
+S = 4,999876
+
+1S
+
+0,6989592
+
+SVOR
+
+T = 4,999963 | 1T = 0,6989668 || T = VOS
+
+V = 5,000008
+
+IV
+
+0,6989707 V = √ OT
+
+W= 4,999984
+
+IW= 0,6989687 W
+
+✓ TV
+
+X = 4,999997
+
+1X = 0,6989697
+
+VVW
+
+Y = 5,000003
+
+IY = 0,6989702
+
+Y
+
+VVX
+
+Z = 5,000000 | 1Z = 0,6989700
+
+Z = √ XY
+
+§ . 156. Aus dem was §. 150 gesagt worden, sich, ergiebt daß die Logarithmen ganzer Zahlen poſitiv, [p. 164] ächter Brüche negativ sind.
+
+Man sieht leicht ein, daß nur die log. der ganzen Potenzen von 10, also die log. von 10, 100, 1000, 10000, 100000 u. s. w ., wie auch von 10 ' 100' 1000 u. s. w. , ganze Zahlen sind, alle übrigen aber Brüche, die man der Bez quemlichkeit wegen in Decimalstellen ausgedrückt hat, in den logarithmischen Tafeln findet man dieſelben bis auf 7 Decimalstellen angegeben. 1 bis 9 incl. , also der Einer,
+
+Die log. von haben zur ganzen
+
+Zahl o, die log. von 10 bis 99 incl. also der Zehner, haben zur ganzen Zahl 1, bis 1000 also der Hunderte, die log. von 100 haben zur ganzen
+
+Zahl 2 u.s. w. Die ganze Zahl eines log. ist der Exponent der Zahl der Ordnung wozu sie gehört,
+
+Potenz von 10. Daher kann man aus der ganzen Zahl des log. erkennen, zu welcher Ordnung die dazu gehörige Zahl gehört;
+
+ist z. B. die ganze Zahl des log.
+
+4, so gehört die Zahl zu den Zehntausenden;
+
+deshalb nennt man auch die ganze Zahl des log, die Charakteristik oder Kennziffer, die Decimalbrüche desselben hingegen die Mantisse.
+
+§. 157. Die kleinern logarithmischen
+
+Tafeln gehen nur bis 10000, die andern weiter. Die besten und wohlfeilsten logarithmischen Tabellen sind die von Johann Carl Schulze, welche in Berlin bei Mylius erſchieSie gehen von 1 bis 101000.
+
+Die Einrichtung in denselben ist kürzlich folgende.
+
+nen sind.
+
+Die Columne [p. 165] , über welche N sich findet, nennt die Zahl, diejenige, über welche log. steht, giebt den Logarithmen an.
+
+Von 1 bis 100 sind die Mantissen der
+
+Logarithmen
+
+Charakteristiken abgedruckt.
+
+Dann folgen die Logarithmen der Zahlen bis 1000, aber blos die Mantiſſen derselben; denn die Charakteristik derselben läßt sich nach §. 156 leicht finden, sie ist für alle Zahlen die zu den Hunderten gehdren 2.
+
+Ferner ist die Einrichtung getroffen, diejenigen ersten Zahlen, in welchen die Mantissen übereinstimmen, nicht mit abgedruckt, sondern ihre Stellen leer gelaßen sind.
+
+Die Logarithmen der
+
+Zahlen von 1000 bis 10000 fehlen ganz. Man wird aber bald inne, daß es nicht nöthig war, sie anzugeben, denn alle Zahlen, die zu den Tausenden gez hören, finden sich als das Zehnfache in den Zehntausenden.
+
+Da man nun, um aus den Zehntausenden Tausende zu erhalten, nur nöthig hat, die Zahl mit 10 zu dividiren, ſo braucht man nur die Charakteristik um 1 zu vermindern. Die Mantissen bleiben unverändert.
+
+Man sieht bald ein, man hätte auch die Logarithmen der Zahlen von 1 bis 1000 nicht besonders aufzustellen brauchen.
+
+Bei
+
+Aufstellung der Logarithmen von 10000 bis 100000 ist die Einrichtung folgende:
+
+Es finden sich auf jeder
+
+Seite die log. von 500 Zahlen und also auf beiden neben einander liegenden Seiten die log. von 1000
+
+In der Columne, über welche No. steht, findet man die 4 ersten Ziffern der Zahl, von der [p. 166] man den log. sucht, die letzte Ziffer findet man in den obern durch 0,
+
+1, 2, 3 u. s. w. bezeichneten
+
+Columnen.
+
+Sucht man nun den log. einer Zahl, die aus 5 Ziffern besteht, so suche man die ersten
+
+4 Ziffern in der Columne, über welche No. steht, dieſe nennt die drei ersten Ziffern der Mantisse,
+
+4 letzten findet man, wenn man in derselben Reihe horizontal fortgeht, langt, Zahl bis man zu der Columne ges über welche die letzte Ziffer der gegebenen findet.
+
+Nur noch zu bemerken, daß wenn die erste Ziffer von den 4 letzten der Mantisse o ist, man zusehen muß, ob die unter o als letzter Ziffer der gegebenen Zahl stehende vierte Ziffer der Mantiſſe auch o ist; Fall seyn, tisse um sollte dies nicht der so muß man die dritte Ziffer der Man1 vergrößern.
+
+Grund liegt darin, weil mit dem Wachsen der Zahl auch der log. wachsen muß.
+
+Die Charakteristik ist nicht angegeben, sie ist aber leicht nach §. 156 zu finden.
+
+4,9215616;
+
+4,9730308. Nach den Logarithmen findet sich eine Columne mit D bezeichnet, diese giebt die Differenz der Logarithmen in zehn Millionentheilchen an, wenn die
+
+Zahlen um 1 verſchieden sind.
+
+Die folgende Columne ist mit Prop. bezeichnet, sie giebt den Unterschied der Logarithmen in zehn Millionentheilchen an, wenn die Zahlen um 1 bis 9 Zehntheile vers [p. 167] schieden sind.
+
+Dies ergiebt sich aus der Differenz der Logarithmen, wenn die Zahlen um 1 verschieden ſind; wobei man freilich voraussetzt, daß die Differenzen der Logarithmen sich verhalten wie die Differenzen der Zahlen, ist.
+
+welches nur annähernd richtig
+
+Man sieht leicht ein, daß man auf diese Weise auch die Differenzen der Logarithmen für Differenzen der Zahlen, die in Hunderttheilen statt finden, angeben kann.
+
+S. 158. Man findet das Produkt zweier oder mehrerer Zahlen, wenn man die log. derselben addirt, zu dem gefundenen log. in den Tafeln die Zahlen aufsucht; vorausgesetzt, daß alle 3 log. in den Tafeln sich finden.
+
+Der Grund davon ist in S. 109 enthalten. Man soll zum Beiſpiel 34 mit 57 multipliciren. log. 341,5314789 log. 57
+
+1,7558748
+
+3,2873537 wofür man in den Tafeln 1938 als Zahl findet.
+
+Da die log, abgebrochene Zahlen sind, so kann zuweilen die letzte Ziffer nicht zutreffen. Eben1 so dividirt man Zahlen, durch das Subtrahiren ihrer log.; man erhebt eine Zahl zur Dignität durch die Multiplication ihres log. mit dem Exponenten der Dignität, zu welcher die Zahl erhoben werden soll;
+
+so wie man umgekehrt, aus ihr [p. 168] indem man ihren log. durch die Wurzel auszieht, den Exponenten der Wurzel dividirt; alles dies aber unter der Voraussetzung, daß die log. , die man zu diesen Operationen braucht, sich wirklich in den Tafeln finden.
+
+§. 159. Allein diese Verkürzungen der Rechnungen sind dadurch noch sehr eingeschränkt, daß man oft log.
+
+von Zahlen sucht, wo die Zahlen nicht in den Tafeln enthalten sind, oder umgekehrt, daß man die Zahlen von log. sucht, wo auch die log. sich nicht in den Tafeln finden.
+
+Doch giebt es auch hier noch
+
+Mittel ſich zu helfen. Die vorkommenden Fälle laßen sich etwa auf folgende zurückführen, wobei wir annehmen, daß die Tafeln nur bis auf 100000 reichen. Regeln
+
+Findung
+
+Logarithmen, wenn die Zahlen gegeben sind.
+
+Den log. einer Zahl zu finden, die nur aus
+
+5. Ziffern besteht, worunter aber Decimalbruchstellen. Man sucht den log. von 57,326. 57,326 1000 und also log. 57,326 = log. 57326log. 1000 = log. 57326 3. Es ist aber log. 573264,7583516, also log. 57,326 = 1,7583516. Die Regel des Verfahrens läßt sich aus dem gegebenen Beispiel leicht ableiten und beweisen.
+
+[p. 169] 2. Den log. einer Zahl zu finden, die zwar selbst nur aus 5 Ziffern besteht, bei der aber noch zwei -Decimalbruchstellen ſich finden. Man nehme den log. der ganzen Zahl und den log. der um 1 größern, und ſuche beider Differenz. Dann schließe man wie ſich verhält 1 zu dem Deciz malbruch, der bei der gegebenen Zahl sich findet, so verhält sich die gefundene Differenz der Logarithmen, zu der Differenz, die Zahl entspringt.
+
+aus dem Decimalbruch der
+
+Hat man diese lettere gefunden, so addire man sie zu dem log. der gegebenen ganzen Zahl, so erhält man den geſuchten log.
+
+Man sucht den log. von 89176,28. log. 89176
+
+5,9502480 log. 89175 = 5,9502431
+
+0,0000049 1: 0,280,0000049: x
+
+= 0,0000013 log. 89175 = 5,9502431 log. o, 28 = 0,0000013 log. 89175,28
+
+5,9502444
+
+Man kann nach dem was oben von der Einrichtung der Schulziſchen logarithmiſchen Tabellen gesagt worden, den log. für den Decimalbruch leicht erfinden.
+
+Man findet in der Columne, die mit Prop.
+
+bezeichnet, für 2 Zehntheile 10, und für 8 Hunderttheile 3, zusammen 13 (nämlich Zehntausendtheile) ;
+
+[p. 170] also eben dasselbe was wir durch die Auflösung der Proportion erhielten. 3. Den log. einer ganzen Zahl zu suchen, die aus mehr als 5 aber höchstens aus 7 Ziffern besteht. Man schneide von ihr so viel Decimalbruchstellen ab, daß nur 5 Ziffern als Ganze übrig bleiben, und ſuche nach 2. den log.; vergrößere ſodann die Charakteristik um so viel Einheiten als man Decimalbruchstellen abgeſchnitten.
+
+sucht
+
+8917628; so ist
+
+891762889176,28 X 100, folglich log. 8917628 = log. 89176,28 × 1. 100.
+
+Es ist aber nach 2.
+
+log. 89176,285,9502444; also log. 8917628 = 7,9502444. 4. Den log. einer Zahl zu ſuchen, die aus mehr als 5, aber höchstens aus 7 Ziffern besteht. Nimmt man bei dieser Aufgabe die 2 und 3 aufgestellten Fälle und den Fall aus, daß die Zahl ein achter Bruch sey, wovon weiter unten gehandelt werden soll, so bleibt nur der Fall übrig, daß die Zahl weniger oder mehr als 5 Ziffern zu Ganzen habe. Z. B. man sucht den lóg. von 89,17628 oder von 892762,8.
+
+In diesem Fall verseße man das
+
+Comma so, daß man 5 Ziffern zu Ganzen erhält, verfahre nach 2 und vermindere die Charakteristik, wenn man das Comma nach der rechten verrückte, um so viel Einheiten, als es um Stellen verrückt ist, so wie man sie hingegen um so viel Einheiten [p. 171] vermehren muß, wenn man das Comma nach der linken verrückte.
+
+Man sucht den " log. von 89,17628, so ist 89176,28 89,17628 = 1000 und folglich log. 89,17628 = log. 89176,28 log. 1000 5,9502444 (nach 2.) -32,9502444. Man sucht den
+
+891762,889176,28 X 10
+
+891762,8, folglich
+
+891762,8 = log. 89176,28 + log. 105,9502444 +16,9502444. 5. Man sucht den log. eines Decimalbruchs, der aber aus nicht mehr als 7 Ziffern bestehen darf. Man betrachte den Bruch als eine ganze Zahl und suche den dazu gehörigen log., (es wird sich nämlich derselbe in den Tafeln selbst finden, oder nach 3. berechnen laßen) , und ſubtrahire von ihm den Logarithmus des Nenners.
+
+Dieser lettere ist jederzeit eine ganze Zahl von so viel Einheiten als der Bruch Decimalstellen enthält. Man sucht den log. von 0,008917628. Es ist also log. aber 0,008917628 = 1000000000 und 0,008917628 = log. 8917628 — log. 1000000000 5,9502444-9
+
+3,0497556.
+
+Man sieht es wird in solchem Fall der log. stets minus seyn.
+
+Gewöhnlich läßt man die Mantiſſe positiv und stellt die Subtraction blos bei den Charakteristiken an; so würde diesem zu Folge 0,008917628
+
+- 4,9502444.
+
+Diese Art der Dars [p. 172] stellung der log. der Brüche hat für die Rechnungen mit denselben mehrere Bequemlichkeiten.
+
+6. Man sucht den log. eines gemeinen Bruchs. Man kann hier auf eine doppelte Weise versah-. ren, entweder zieht man den log. des Nenners von dem des Zählers ab, oder man verwandle den Bruch in einen Decimalbruch und verfahre nach 5. 7. Ist eine ganze Zahl und ein gemeiner Bruch gegeben, wozu man den log. sucht, so verwandle man beide in einen unächten Bruch und verfahre nach 6.
+
+Man sucht die log. von 79,85, von 18026,79, und von 82. son 3125897, von 0,0273, von Warum darf die Zahl deren Logarithmus´man sucht, nicht über 7 Ziffern enthalten, wenn die Tafeln noch brauchbar seyn sollen? Regeln zur Findung einer Zahl, wenn der Logarithme gegeben ist. 1. Wenn die Mantisse ganz in den Tafeln sich findet, und nur die Kennziffer 4 übersteigt.
+
+ſuche die Zahl zu dem log. mit der gegebenen Mantisse und der Charakteriſtik, und multiplicire ſie mit I und so viel Nullen als die Charakteristik des gegebenen log. größer als 3 ist.
+
+Der Beweis für diese Regel läßt sich leicht finden.
+
+Welches ist die
+
+Zahl des log. 7,6756867? 2. Wenn die Mantiſſe nicht ganz in den Tafeln sich findet, die Kennziffer aber nicht 4 übersteigt.
+
+[p. 173] Man nehme den zunächst größern und kleinern log. und suche ihre Differenz, ferner ſuche man die Differenz zwischen dem zunächst kleinern und dem gegebenen log., und schließe wie sich die Differenz des zunächst größern und kleinern log. zu 1 verhält, so verhält sich die Differenz zwischen dem zunächst kleinern und gegebenen log. zu x, dieses x wird ein Decimalbruch seyn, den man nun zur Zahl des zunächst kleinern log. addirt. für den log. 4,4978325.
+
+Man sucht die Zahl Der zunächst größere log.
+
+den man in den Tafeln findet, ist 4,4978415 wozu die Zahl 31466, und der zunächst kleinere von 31465 ist 4,4978277. Die Differenz beider ist = 0,0000138. Die Differenz des zunächst kleinern und des gegebenen Logarithmen ist 0,0000048. Nun ſchließt many 0,0000138: 0,00000481: X x = 0,35 also ist die Zahl des log. 4,4978325 = 31465,35. Nachdem was oben über die Einrichtung der Schulzischen Tabellen gesagt worden, kann man noch fürzer verfahren. dem gegebenen diese Man sucht den Unterschied zwischen zunächst
+
+Zehntausendtheile.
+
+feln findet man, daß zu 41 kleinern lóg.
+
+Ta-
+
+Zehntausendtheilchen
+
+Log. Differenz die Differenz der Zahl 0,3 und zu den noch fehlenden 7 Zehntausendtheilchen 0,05 Differenz der Zahl gehört, wodurch man also auch 31465,35 als Zahl findet.
+
+Man sucht den log. von 4,6810119.
+
+[p. 174] 3. Wenn die Mantisse sich nicht in den Tafeln findet, und die Kennziffer überdies größer als 4 iſt. Man nehme die Charakteristik als 4 an, ſuche nach 2. die Zahl für den gegebenen Logarithmen, und wende sodann 1. an. Man sucht die Zahl für den log. 6,2897905. 4. Zu einem negativen Logarithmen die Zahl zu Man muß hier unterscheiden, ob der ganze log. oder nur die Kennziffer negativ ist.
+
+Ist der ganze log, negativ, so betrachte man ihn als poſitiv und suche die dazu gehörige Zahl, diese wird der Nenner eines Bruchs deſſen Zähler 1 iſt. Ist nur die Kennziffer negativ, so suche man zur Mantiſſe mit der Charakteristik o den log., und schneide so viel Decimalbruchstellen ab, als die negative Kenns ziffer Einheiten hat.
+
+Der Beweis für die Gültigkeit der Auflösung ist nicht zu schwer zu führen.
+
+Man sucht die Zahl für den log. — 2,7843289. $. .160.
+
+So kann man durch Hülfe der log. das §. 133 gegebene Exempel vom Schachspiel weit leichter auflösen, zumal da es bei demselben auf Kleinigkeiten nicht ankommt. Wie groß wird ein Pfennig zu Zins auf Zins von dem Tage der Geburt Christi an ausgethan, nach 1804 Jahren angewachſen ſeyn?
+
+Man wird dies
+
+Exempel leicht rechnen können, wenn man bedenkt, daß das Capital ſich jährlich 20 mal vermehrt, ist das Capital nach 1804 Jahren 1 Pfennig × 20
+
+[p. 175] § . 161. Wir haben oben bei der Lehre von den Potenzen noch eine Aufgabe zu lösen, verschieben müſſen, die sich nunmehro durch Hülfe der Logarithmen auflösen läßt; nämlich man ſoll wenn die Wurzeln und die Potenz gegeben, den Exponenten ſuchen. Die Wurzel sey a, die Potenz b, man ſucht den Exponenten x, so ist ax = b, also x lg a = log. b., log. b. folglich x = log. a. Die wievielte Potenz ist 16384 von 4? Auf gleiche Weise kann man nun die bei der Lehre von den geometrischen Proportionen unaufgelöst gelaßene Aufgabe, wenn a, e und u gegeben, man sucht n, auflösen. a sey = 3, e = 5, u = 46875 man ſucht n.
+
+[p. 176] ミ
+
+Von den Gleichungen.
+
+S. 162. Eine Größe auf eine doppelte Art ausgedrückt, nennt man eine Gleichung, z. B. 8 + 4 = 2 × 6. Sie
+
+Gleichheitszeichen zwei
+
+Hälften getheilt, die man Seiten der Gleichung nennt; die Theile derselben die durch + oder — verbunden sind, heißen Glieder derselben; so besteht die Gleichung ax + —— de = √a + c³ aus 5 · Gliedern.
+
+§. 163. Bei der Lehre von den Gleichungen sind zwei Stücke in Erwägung zu ziehen, das Aufſetzen derselben und das Auflöſen. Eine Gleichung aufsetzen, heißt aus einer gegebenen Aufgabe eine Gleichung herleiten, durch welche die unbekannte Größe gefunden fann.
+
+(die Frage der Aufgabe beantwortet) werden
+
+Die allgemeine Regel für das Aufsetzen der Gleichung ist: Nimm die unbekannte Größe der Aufgabe als bekannt an, behandle ſie wie die Aufgabe fordert, und suche dadurch eine Größe auf eine doppelte Art auszudrücken.
+
+Wie diese Regel in gegebenen Fällen anzuwenden sey, dazu wird Urtheils: traft [p. 177] kraft erfordert, ein Vermögen das geübt, aber nicht belehrt werden kann.
+
+Wir werden in der Folge an einigen einzelnen Beiſpielen zeigen, wie man zu vers fahren habe; nur wollen wir hier besonders noch ers wähnen, daß Anfänger sich leicht durch den erſten Anblick verführen laßen, zu meinen, daß in einer Aufgabe mehrere unbekannte Größen sich finden, weil sie mehrere Fragen enthält, allein wenn man die Sache genauer überlegt, wird man zuweilen finden, daß durch die Beantwortung einer Frage, die Beantwortung der andern sich von selbst ergiebt; ob es gleich auch Aufgaben giebt in der mehr als eine unbekannte Größe sich findet.
+
+Man bezeichnet die unbekannten Größen mit den letzten Buchstaben des Eleinen lateinischen Alphabets, x, y, z u. s. w.
+
+$. 164. Für das Auflösen der Gleichung laßen sich mehrere bestimmte Regeln geben.
+
+Eine Gleichung heißt aufgelöst, wenn die unbekannte Größe mit dem Zeichen
+
+, (denn so nimmt man sie beim Aufsetzen der Gleichung an) auf einer Seite, und die bekannten Größen auf der andern Seite sich finden. Um die Regeln für das Auflösen der Gleichung zu geben theilt man sie in Gleichungen vom ersten, zweiten, dritten u. s. w. Grade.
+
+Eine Gleichung heißt vom ersten Grade, wenn die unbekannten Größen in derselben oder bei ihrer Auflösung nur in der ersten Dignität vorkommen, so sind 4x - 3692, ferner 7ab3 + 9x - 2y = 6c
+
+Gleichungen vom ersten
+
+[p. 178] Grade. -
+
+Man nennt hingegen a + cxy = d, und a = xy, wo die unbekannten Größen x und y mit einander multiplicirt ſind, nicht Gleichungen vom ersten Grade, weil ſich bei Auflöſung derselben eine Gleichung ergiebt, in der die unbekannte Größe im Quadrat vorkömmt. — Gleichungen in denen oder in deren Auflösung die unbekannte Größen in der zweiten Dignität vorkommt heißen Gleichungen vom zweiten Grade oder quadratische, wo sie in der dritten Dignität vorkommen, vom dritten Grade, oder cubische u. s. w. Alle Gleichungen, die nicht vom ers ſten Grade ſind, nennt man höhere Gleichungen. Oft hält man beim ersten Anblick Gleichungen für Gleichungen vom ersten Grade, von denen sich bei der Auflösung findet, daß sie höhere Gleichungen
+
+Wir wollen nur die Auflöſung der Gleichungen vom ersten und vom zweiten Grade abhandeln. S. 165. Findet man bei der Auflösung der Gleichungen, daß man keinen andern Werth einer unbekannten Größe finden kann, als in dem selbst noch eine unbekannte Größe vorkommt, so heißt die Aufgabe uns bestimmt.
+
+Bei Gleichungen in denen nur eine unbekannte Größe vorkömmt, kann dies nicht statt Von den Gleichungen vom ersten Grade. $. 166.
+
+Wir machen mit der Auflösung der Gleichungen vom ersten Grade den Anfang.
+
+[p. 179] 1. Da die Gleichung aufgelöst ist, wenn œ auf einer Seite allein sich findet, so wird man suchen müssen, alle andere Größen davon zu trennen. → - mit verbundene Größen Die durch und — trennt man dadurch, daß man sie auf die andere Seite mit entgegengesetzten Zeichen bringt; denn man addire die Größe, die man von der einen Seite weghaben will, auf beiden Seiten mit entgegengesetzten
+
+Zeichen, so wird nach §. 75, 1. die Gleichung bleiden, allein durch diese Addition fällt die Größe auf der einen Seite weg, und kömmt auf die andere mit entgegengeseztem Zeichen.
+
+x + b -- c = d x= d − b+ c Denn man addire auf beiden Seiten — b + c, so wird die Gleichung bleiben. Es ist aber x + b ―c = b + c = x, also x = db + c, Man soll die Gleichungen 24 = 6+ x und x27
+
+36 auflösen.
+
+2. Finden sich Brüche der Gleichung, so schaft man diese dadurch weg, daß man die ganze Gleichung mit den Nennern multiplicirt; nach §. 75, 3. C x d ·(2 bx - a (d bdx ad bdxbc + ad
+
+3. Ist ≈ mit einer andern Größe multiplicirt, ſo trennt man die Größe womit es multiplicirt iſt (den Coefficienten) dadurch von derselben, daß man die ganze Gleichung damit dividirt.
+
+ax = b a) x = = ах-bx + cx = d (a − b + c) x a = b + c) x = a= b+c
+
+Man soll die Gleichung 3≈ — 18 = 26 auflöſen. 4. Da in der Auflöſung jederzeit von + x der Werth gefunden werden soll, (weil man bei Aussetzung der Gleichung die unbekannte Größe + x nannte) , so muß man wenn in der Gleichung sich finden sollte, es auf die andere Seite bringen.
+
+3x
+
+3x=28
+
+3x4
+
+3) x = 1/3/3 §. 167. Wir wollen jetzt an einigen Aufgaben, bei deren Auflösung man auf Gleichungen vom ersten Grade mit einer unbekannten Größe stößt, zeigen wie man beim Aufsetzen der Gleichung zu verfahren habe.
+
+[p. 181] Ein Vater hinterläßt 4 Söhne und ein Vermögen von 12000 Rtl.
+
+Nach seinem Testament soll der
+
+älteſte 500 Rtlr. mehr haben als der zweite, zweite 300 Rtlr. mehr als der dritte, und der dritte 100 Rtl. mehr als der vierte.
+
+Wieviel bekommt ein jeder?
+
+Obgleich beim ersten Anblick hier 4 unbekannte
+
+Größen vorhanden zu seyn scheinen, so wird man doch bei näherer Untersuchung bald gewahr, daß eiz1 gentlich nur das Erbtheil des vierten Sohnes unbekannt ist, weil man aus dieſem leicht das Erbtheil der andern ableiten kann.
+
+Man nenne nun das
+
+Erbtheil des vierten Sohnes x; so wird man nach ihm das Erbtheil eines jeden beſtimmen können, aller Erbtheil aber zusammengenommen ist das Vermögen des Vaters, und daraus ergiebt ſich die Gleichung. Erbtheil des vierten = x Erbtheil des dritten = x +
+
+Erbtheil des zweiten = x +
+
+Erbtheil des ersten
+
+4x + 1400 = 12000
+
+4x
+
+4) x = 2650
+
+[p. 182] Erbtheil des vierten
+
+Erbtheil des dritten
+
+Erbtheil des zweiten
+
+Erbtheil des ersten
+
+Vermögen des Vaters
+
+§. 163. 1. Ein Vater stirbt und hinterläßt 3 Söhne und 52000 Rtlr. , in seinem Testament verordnet er, daß sein zweiter Sohn 800 Rtlr. weniger haben soll als der älteſte, und der jüngste 400 Rtlr. weniger als der zweite, wie viel erbt ein jeder? - Der älteſte 18000 Rtlr. , der zweite
+
+17200 Rtlr. , der jüngste
+
+16800 Ntlr.
+
+2. Es setzt jemand in seinem Testament fest, daß sein Vermögen von 8000 Rtlr. , so unter seine beis den Brüder und seine Schwester getheilt werden soll, daß sein zweiter Bruder 600 Rtlr. weniger als der ältere Bruder, und seine Schwester 500 mehr als sein älterer Bruder erhalten soll, wieviel erhält ein jeder? 3. Ein Vater hinterläßt 4 Söhne und 17200 Rtlr. nach seinem Testament soll der erste zweimal so viel bekommen als der andere weniger 200 Rtlr. , der andere soll dreimal so viel bekommen als der dritte weniger 400 Rtl. , und der dritte soll viermal ſo viel erhalten als der vierte weniger 600 Rtl.; wie viel bekömmt ein jeder?
+
+.183 Unbekannt ist hier das Erbtheil des vierten. Der vierte bekommt 600 Rtl. , der dritte 1800 Ntlr., der zweite 5000 Rtlr, und der erste 9800 Rtlr.
+
+§. 169. Es soll eine Summe Geldes so getheilt werden, daß der erste Theil die Hälfte der ganzen Summe weniger 200 Rtlr. , der andere Theil ein Drittheil derselben weniger
+
+100 Rtlr. , und der dritte Theil ein Viertheil der
+
+Summe weniger 50 Rtlr. sey.
+
+Wie groß ist die Summe und wieviel beträgt ein jeder Theil?
+
+Auflösung. Die unbekannte Größe ist hier die Summe, dieſe sey = x; so ist X- 200 Rtlr.
+
+Der erste Theil =
+
+Der zweite Theil =
+
+Der dritte Theil = Summe
+
+100 Rtlr.
+
+50 Rtlr.
+
+XC - - 350 Ntlr. = ∞ 13x- 4200
+
+12 x (12
+
+13x - 12x = 4200 x = 4200. woraus sich nun die Theile leicht finden laßen. Man bringt bei Auflösung der gefundenen Gleichung 12x auf die andere Seite, weil wenn [p. 184] man 13≈ herüber brächte man x erhalten würde.
+
+§. 170. 1. In einem letzten Willen ist festgesetzt, daß der erste Erbe des Vermögens + 500 Rtlr. , der zweite Erbe 4 des Vermögens und 300 Rtlr. , und der dritte 5 des Vermögens und 900 Ntlr. erhalten ſoll, wie groß ist das Vermögen und wie groß das Erbtheil eines jeden Erben?
+
+Das Vermögen ist 7846 13 Rtlr. , woraus nun der Antheil eines jeden leicht finden läßt. 2. Es bestimmt jemand, daß sein Freund A von und 1000 Rtlr. , und sein 2000 Rtlr. erhalten soll; nachher Freund Bund seinem Vermögen fand sich, daß beide gleich viel erhielten; wie groß war das Vermögen und wie viel erhielt ein jeder? 3. Es haben zwei Kaufleute ein Capital von 3400 Ntly. zusammen gelegt, nach Verlauf einiger Zeit haben beide gleichviel gewonnen, der erstere aber viermal so viel als er eingelegt hat und der andere dreimal so viel als er eingelegt hat.
+
+Wie viel hat ein jeder zu den obigen 3400 Rtlr. gegeben? Der eine hat x, also der andere 3400 -- x eins gelegt, nimmt man des ersten Einlage 4mal, des zweiten 3mal, so erhält man eine Gleichung. 4. Es hat jemand eine Summe Geld unter eine bestimmte Anzahl Personen zu vertheilen: Gäbe er [p. 185] einem jeden 4 Rtl, so wäre dieselbe um 8 Rtlr. ¡u klein, gäbe er jedem 3 Rtlr. , so behielt er 36 Rtlr. übrig, wie groß ist die gedachte Summe und unter wie viel Personen hat sie vertheilt werden sollen? Die Anzahl der Personen ist hier x, und nach der Aufgabe läßt sich die Summe auf eine doppelte Art ausdrücken. 5. Eine Stadt sollte einen Tribut erlegen. Nachdem jedes Haus 5 Rtlr. gegeben hatte, ſo fehlten noch 42 Rtlr. zur verlangten Summe; nachdem aber jedes Haus noch einen Thaler nachgegeben hatte, blieben 58 Rtlr. übrig. Wie viel Häuser waren in der Stadt und wie hoch war der Tribut? 6. Nachdem von einer Gesellschaft jede Person 4 Rtlr. gegeben hatte, hatte man 20 Rtlr. zu wenig um die ganze Zeche zu bezahlen; aber nachdem jeder noch 2 Rtlr. nachgeschossen hatte, so behielt man nach Bezahlung der Zeche noch 30 Rtlr. übrig.
+
+Wie viel
+
+Personen waren in der Gesellschaft, und wie hoch belief sich die Zeche?
+
+S. 171. Die Summe zweier Zahlen sey 24, ihre Differenz 6, welches sind die Zahlen selbst?
+
+Auflösung. Die größere Zahl sey x, so ist die kleinere x - 6, beide zusammen 2x - 6; und also ist 2x - 6 = 24, und hieraus folgt x = 15, alſo die kleinere Zahl g.
+
+[p. 186] Man kann die Aufgabe auch dadurch auflösen, daß man die kleinere Zahl x nennt. *.
+
+Die Summe zweier Zahlen sey a, ihre Differenz d, welches sind die Zahlen ſelbſt? — Die gefundenen Werthe dienen als eine allgemeine Regel um den Werth zweier Zahlen zu bestimmen, deren Summe und Differenz gegeben ist. wird auch keine Schwierigkeiten machen, die in Buchstaben gefundene Regel in Worten auszudrücken. Die Summe zweier Zahlen ſey 36, die Differenz 4, welches sind die Zahlen?
+
+§. 172. Erste Aufgabe, An einem Bau hat ein Mauerpolier mit 25 Leuten, Mauergesellen und Handlangern gearbeitet und ihnen ward 47 Rtlr. Wochenlohn bezahlt.
+
+Er ers hielt täglich 9 Groschen, jeder Geselle 8, und jeder Handlanger 5. - Wie viel Mauergesellen und wie viel Handlanger arbeiteten am Bau?
+
+Es seyen x Gesellen gewesen, so waren 25 – x Handlanger.
+
+Man berechne also zuerst wie viel der Polier wöchentlich erhielt, so dann was x Gesellen, und 25 - x Handlanger erhielten, und dies addirt ist = 47 Rtlr. sen,
+
+Um die Gleichung aufzuldmuß man alles darin vorkommende Geld in Groschen verwandeln.
+
+Noch ist zu erinnern, die Arbeitswoche aus 6 Tagen besteht.
+
+[p. 187] Zweite Aufgabe. Ein Leinwandshändler bekömmt Commiſſion zweierlei Sorten Leinwand, das feinere das Stück zu II
+
+Rtlr., das gröbere zu 9 Rtlr. zu übersenden. weiß,
+
+Er daß er auf 1320 Rtlr. für 134 Stück den Handel geschlossen, hat aber vergessen zu bemerken, wie viel Stück von jeder Art verlangt wurden, man soll dies durch Rechnung finden. Dritte
+
+Ich habe zweierlei Münzsorten, Zwei- und Achte groschenstücke, es will jemand von mir 15 Stück
+
+Geld haben, welche gerade 3
+
+Rtl. werth seyn sollen. Wie viel Stücke muß ich von jeder Sorte ihm geben?
+
+Man muß bei der Auflösung die 31 Rtl. in Groschen verwandeln, warum? Vierte Aufgabe. An einem Baue haben täglich gearbeitet 1 Meiz ſter, 3 Gesellen, 2 Lehrburschen und 4 Handlanger. Der Meister bekam täglich
+
+16 Gr. ,
+
+Geselle
+
+12 Gr. , ein Lehrbursche 8 Gr. und ein Handlanger 6 Gr.
+
+Das ganze Arbeitslohn betrug 92 Rtl. , wie lange hat der Bau gedauert? Fünfte Aufgabe.
+
+Man findet den Brief eines feindlichen Officiers worinnen er schreibt: do's ist gefangen, geblieben und Die Hälfte meines Kommans der vierte Theil auf dem Platze der siebente Theil hart verwundet,
+
+} [p. 188] felalich habe ich nur noch 3 ann bei mir.
+
+Mie groß ist sein Kommando geweſen? Sechste Aufgabe. Ein Officier meldet seinem General:
+
+Ich habe durch Krankheit — meiner Leute verlohren, 5 ſind deſertirt, 3 — habe ich zur Beſatzung des Gebirzpaffes gelaßen, es bleibt mir alſo noch die Hälfte übrig.
+
+Sie groß war die Anzahl seiner Soldaten? Bei Auflösung der Aufgabe wird ſich zeigen, daß sie unmöglich ist, denn man erhält einen negativen Werth für x, der in dieser Aufgabe keinen Sinn hat. Uebrigens wird man bei genauerer Betrachtung der Aufgabe bald inne, daß ſich die Angabe ſelbſt widerspricht.
+
+Siebente Aufgabe. Nachdem jemand 3 und ſeines mitgebrachten Geldes in einer Wette verlohren und ausgezahlt hatte, blieben ihm noch 35 Rtl. übrig.
+
+Wie viel
+
+Geld hat er bei sich gehabt? Achte Aufgabe. Es hatte jemand mit 3 Personen gewettet, mit dem ersten um 21, mit dem zweiten um und mit dem dritten um hatte.
+
+von allem Gelde, was er bei sich Nachdem er die beiden ersten Wetten verlohren und die dritte gewonnen hatte, hatte er überhaupt 11 Groschen verlohren, wie viel Geld hat er bei sich gehabt? Neunte Aufgabe. Ein Vater hinterläßt seinen 11 Kindern 3600 Rtl.
+
+[p. 189] mit der Verordnung, daß eine jede Tochter 360 Rtl. , und jeder Sohn 300 Rtl. erhalten sollte.
+
+Bei der
+
+Theilung ging das Vermögen gerade auf, wie viel
+
+Söhne und wie viel Töchter waren da?
+
+´§. 173. Ein
+
+Kaufmann braucht zur Erhaltung seines
+
+Hauswesens jährlich 100 Pfund Sterling; wenn er diese mit dem Anfang jedes Jahres von der Masse seines Vermögens abgenommen, ſo vermehrt er das übrige um den dritten Theil.
+
+In 3 Jahren hat er auf die Art sein Vermögen gerade verdoppelt, groß war das Capital, womit er vor 3 Jahren anfing. Das Capital, womit er ſeinen Handel anfängt ſey = x; nimmt er für ſein Hausweſen 100 Pf. weg, des ww 100, dies vermehrt sich um hält er x 3, also hat er X - 100 am Ende des ersten Jahres x 100+ 3x ✔ -300 + x 4x - 400 Zu Anfange des zweiten Jahres nimmt er davon 100 Pf.; bleibt 4 * 3 —400. 4 x = 700;
+
+er gewinnt damit nach Verlauf des
+
+4π -700 zweiten
+
+12 X- 2100 +4 also hat er
+
+Jahres 4* 3 700 + 16 x - 2800
+
+Zu Anfang des dritten Jahrs nimmt er davon 100 Pf.;
+
+[p. 190] 16 x 16x - 2800 goo 16x -3700 damit gewinnt er, alſo hat er nach bleibt
+
+Verlauf
+
+16x -3700 dritten
+
+Jahres
+
+16 x - 3700
+
+48—11100 + 16x —3700
+
+64x -14500 und da er ſein Vermögen, welches er vor 3 Jahren in den Handel einlegte, verdoppelt hat, so er: = 2x, welche giebt sich die Gleichung aufzulösen keine Schwierigkeit hat.
+
+§. 174. Ein Vater hinterläßt bei seinem Sterben mehrere Kinder, und ein Vermögen, welches derselbe auf folgende Art unter sie zu theilen befohlen: Der erste Sohn nimmt 100 Rtl. , und den 1oten Theil des übrigen, der zweite Sohn nimmt 200 Rtl. und den 10ten Theil des übrigen, der dritte Sohn nimmt 300 Rtl. und den 1oten Theil des übrigen u. f. w.
+
+Am Ende zeigt sich, gleich viel erhalten habe. mögen des Erblassers, daß ein jedes Kind
+
+Wie groß war das Verdie Anzahl der Kinder und eines jeden Erbtheil? Db gleich 3 unbekannte Größen in dieser Aufgabe zu seyn scheinen; so sieht man doch bald, daß wenn das Vermögen des Erblaſſers bekannt ist, alle andere Größen sich von selbst ergeben. mögen heiße daher x.
+
+Das Verder Antheil des ersten Sohns = 100 Rtl. + 1000 + x- 100 900 + x 10 x100 der Antheil des zweiten Sohns = 200 Rtl. + (900 +2) 200 Rtl. +
+
+10 x -
+
+9x
+
+2000 ·900
+
+200 Rtl. +
+
+20000 +9x·-2000
+
+171009x
+
+Da nun alle Kinder gleich viel erhalten sollen, so ist 900 + x 17100 + 9x Durch die Auflösung dieser Gleichung findet man x, und dadurch alles übrige.
+
+§. 175. Zwei Boten, A und B, machen einerlei Weg, B geht drei Tage später aus als A, macht aber täglich 6 Meilen, da A nur täglich 4 Meilen zurücklegt; in wie viel Tagen wird B den A einholen?
+
+Aufldfung. B hole A in x Tagen ein, so ist B x Tage, und A x + 3 Tage gegangen; da B täglich 6 Meilen macht, so hat er 6x Meilen zurückgelegt, und wenn A täglich 4 Meilen macht, so hat er 4x + 12 Meilen [p. 192] zurückgelegt, also erhält man die Gleichung 6º = 4x + 12, woraus sich ergiebt x = 60 Tage. Man kann diese Aufgabe auch allgemein ausdrücken, A sey
+
+Tage voraus, und mache täglich a Meilen und B täglich ↳ Meilen, wann werden sie einander einholen? Man soll nach der gefundenen Formel bestimmen, unter welchen Bedingungen die Aufgabe unmöglich ist, d. h. A den B nicht einholt.
+
+§. 176. Ein Courier, der täglich 10 Meilen macht, ist 1 2 Tage fort;
+
+er soll zurückgeholt werden, ehe er über 60 Meilen zurückgelegt hat, wie viel Meilen muß der Nachgeschickte täglich machen? Gesezt der Nachgeschickte mache täglich × Meilen, so wird er über 60 Meilen Go Tage zubringen; da nun der erste Courier 1Tage voraus hat, so ist dieser 11 2 + Ꮖ0 Tage unterweges; und da er täglich 10 Meilen macht, so ist sein zurückgelegter Weg und da sie beide (1 + 0) 10 = 15 + X
+
+60 Meilen gemacht haben, so ist 15+ I woraus man ∞ = 13
+
+Meilen findet.
+
+Allgemein würde diese Aufgabe so lauten: Ein Körper bewegt sich in einer bestimmten Zeit den Weg a, und hat die Zeit & voraus, ein zweiter
+
+Körz
+
+[p. 193] Körper, der von demselben Ort ausgeht, einholen, bevor er mehr als den Weg b zurückgesoll ihn legt hat, wie groß wird deſſen Geſchwindigkeit ſeyn, d. h. wie viel Weg wird er in derselben bestimmten Zeit zurücklegen?
+
+A hat 20 Meilen voraus und macht täglich
+
+3 Meilen, B geht ihm nach und macht täglich 4 Meilen, wann wird er A einholen?
+
+A hat c Meilen voraus und macht täglich a Meilen, B geht ihm nach und macht täglich b Meis len, wann wird er A einholen? Anwendung der gefundenen Buchſtabenformel Ein Comet gehe täglich 10 ° , beide sind 20 ° entfernt, der Mond 13 °, wann wird der Mond den
+
+Cometen bedecken? Zwei Freunde reisen einander entgegen, sind 80 Meilen von einander entfernt, beide der erste macht täglich 4 Meilen, der andere 6 Meilen, nach wie viel Tagen werden sie sich treffen, und wie viel Meilen wird jeder gemacht haben?
+
+·S. 177. Eine Mischung von Gold und Silber, ſammen 36 Pfund wiegt, die zuverliehrt im Wasser ges wogen, von ihrem Gewicht 2 2 Pfund;
+
+man weiß,
+
+194.
+
+das Gold verliehrt im Waſſer, das wie viel Gold und wie viel Silber
+
+Silber war in der
+
+Mischung? Ich habe Tuch gekauft, 5 Ellen zu 24 Rtl., und verkaufte es 7 Ellen zu 36 Rtl., gewann daran
+
+125 Ntl. , wie viel Ellen Tuch hatte ich? Ein Vater hinterläßt folgendes Testament: Ich besitze 20000 Rtl. und verordne, daß, wenn meine schwangere Frau einen Sohn zur Welt bringt, ſie soll er 23, 5 sie 5 des Vermögens haben; bringt Mutter eine Tochter zur Welt, so soll die Frau kam Tode seinem Nach haben. Tochter — mit Zwillingen nieder, mit einem Sohn und einer Tochter, wie viel erhielt jeder dem Teſtamente des Vaters gemäß? Man nenne das Erbtheil der Mutter x, suche das Erbtheil des Sohnes und der Tochter nach dem Verhältnisse des Erbtheils der Mutter;
+
+jenes
+
+Erbtheil nach 2: 2 x: oder welches einerlei = x: iſt 2: 3 = x; dieser Erbtheil nach 8 oder 5: 3 x: aller Erbtheil ist
+
+20000 Rtl.
+
+Man kann die Aufgabe allgemein machen, das Vermögen sey a, das Erbtheil der Mutter verhalte sich zum Erbtheil des Sohnes wie m: n, und zu dem der Tochter wie p: q.
+
+[p. 195] §. 178. Wir kommen nunmehr zur Auflöſung der Gleichungen vom ersten Grade, unbekannte in denen mehr als eine Größe sich findet ---- und machen mit denen den Anfang, in denen zwei unbekannte Grøs ßen vorkommen, Die allgemeine Regel für die Auflösung dieser Art Gleichungen ist folgende: Die Aufgabe kann nur aufgelöst werden, wenn sie eben so viel Gleichungen als unbekannte Größen enthält,
+
+Man löse nun nach dem vorgehenden die Gleichungen so auf, man zuvörderſt aus zwei Gleichungen einen doppelten Werth für x findet, so erhält man eine neue,"
+
+Gleichung, in der x nicht vorkommt, und aus welcher sich also y finden läßt, hat man y gefunden, so substituire man seinen Werth in einem der gefundenen Werthe von x, so wird auch x bekannt. Ein Beiſpiel wird dies deutlicher machen. Aufgabe, Zwei Hirten, Heerde Schaafe,
+
+A und B, hatten ein jeder eine und fanden, daß wenn A an B
+
+30 Schaafe abgeben wollte, groß, beide Heerden gleich daß aber die Heerde des A dreimal so groß, als die Heerde des B ſeyn würde, 40 Schaafe abgeben wollte.
+
+wenn B an A
+
+Wie viel Schaafe enthielt eine jede Heerde?
+
+Die Heerde des A enthalte x, Schaafe.
+
+ble des B В y
+
+So würde, wenn A 30 Schaafe abgäbe, [p. 196] er x- 30 übrig behalten, haben;
+
+B hingegen y + 30 da beide nach Aussage der Aufgabe unter dieſen Umſtänden gleich viel haben sollen, so würde x Luding 30 = y +30. Erste Gleichung. Giebt hingegen B 40 Schaafe ab, so behält er y — 40, und A bekömmt x + 40, dann aber soll die Heerde des A 3mal so groß seyn, als die des B; folglich x + 40 = (3 — 40) 3; oder x + 40 = 3y -120.
+
+Zweite Gleichung.
+
+Man suche nunmehr aus beiden Gleichungen den Werth für x. y30 = y +30 x = y +60 26 + 40 = 3y - 120 x = 3y
+
+Hieraus ergiebt sich eine neue Gleichung: + 603y
+
+220 =2y 2)
+
+110 = y
+
+Substituirt man diesen Werth in xy + 60, so erhält man x = 170. x = 3y
+
+Man hätte ihn auch in
+
+160 substituiren können, und denselben Werth für x gefunden.
+
+S. 179. Es giebt noch mehrere Arten der Auflösung für Gleichungen vom ersten Grade mit zwei unbekannten Größen, indem man bald die gegebenen Gleichungen [p. 197] addirt, bald ſubtrahirt, um dadurch eine neue Gleiz chung zu erhalten, in der eine der unbekannten GröBen wegfällt, aus welcher man sodann den Werth der andern entwickelt.
+
+Hat man aber erst den Werth der einen unbekannten Größe gefunden, man auch den Werth der andern, so findet indem man den gefundenen Werth in der gegebenen Gleichung subſtituirt.
+
+Die im vorhergehenden § gegebenen Gleichungen waren:
+
+3.- 30 = y +30 x + 40 = 3y120 subtrahirt man, so erhält man — 70 =
+
+2y + 150 u. diese aufgelöſt
+
+2y = 220 2)
+
+y = 110.
+
+Substituirt man in der ersten Gleichung für y den Werth von 110, so erhält man x +30, also x = 170. Durch einige Uebung lernt man es leicht, ob man auf dem Wege der Addition oder Subtraktion der gegebenen Gleichungen wegschaffen kann;
+
+eine unbekannte Größe geht dies nicht, ſo giebt es noch eine andere Methode, die wir jetzt vortragen wollen: Da man die gegebenen Gleichungen ſo abändern kann, daß die unbekannten Größen auf der einen Seite und die bekannten auf der andern stehen, so würde die allgemeine Formel für dieselben folgende seyn:
+
+[p. 198] ax + by = c dx + ey = f. Man multiplicire die erste Gleichung mit d dem Coefficienten von x in der zweiten Gleichung, die zweite Gleichung mit a dem Coefficienten von x in der ersten Gleichung.
+
+So erhält man adx + bdy = cd aey = af, wo also beide adx +
+
+Gleichungen x mit gleichen Coefficienten enthalten. Man subtrahire die zweite Gleichung von der erſten, so erhält man b dy --- aey =cd- af.
+
+Entwik kelt man hieraus y, so erhält man cd - af y = b d - ae* Man setze dieſen Werth von y in ax + by = c, so erhält man ax + b bd (cdaf) woraus sich bf cê bd -ae entwickeln hätte
+
+= c, läßt;
+
+x ist nämlich den gefundenen
+
+Werth von y in die zweite Gleichung dx + ey = ƒ sezen können,
+
+Entwickelung dieser
+
+Gleichung würde denselben Werth für x gegeben.
+
+haben. Nach diesen beiden gefundenen
+
+Formeln kann man jede zwei gegebene einfache Gleichungen mit zwei unbekannten Größen auflösen, wenn man. in den Formeln von x und y, die Werthe von a, b, c, d, e und ƒ sett; ob es gleich oft leichter ist, die Gleichungen lieber selber ohne Formel aufzulösen.
+
+[p. 199] §. 178 waren die beiden gegebenen-Gleichungen 30 und x + 40 = 3√ --— 120
+
+Zu unserm Zweck abgeändert sind sie: xy60 und x - 3y = -160.
+
+Will man bei ihnen die Formeln anwenden, so erhalten die Buchstaben folgende Werthe: a = I --- I, c = 60, d = I, e 3 und ƒ = eye (160) cd af 160. Es war y = b d-ае 3) 160 -- (-180) bf - ce = 110; x = b d -ae 170+
+
+S. 180. 1. Aufgabe. A will seinem Nachbar B eine Hufe Land abkaufen.
+
+B weigert sich, weil er ſagt, alsdann würde
+
+A doppelt so viel Acker als B besitzen, A solle ihm lieber eine Hufe von dem ſeinigen verkaufen, so würden sie beide gleichviel haben.
+
+Wie viel Hufen beſaß ein jeder? 2. Aufgabe. Durch zwei Röhren, welche ununterbrochen und beständig gleich laufen, fließt Waſſer in ein Gefäß. Das Wasser, welches aus der ersten Röhre in a Stunden ausfließt, macht mit demjenigen, welches aus der zweiten Röhre in b Stunden fließt n Maaß. Läßt man aber die erste Röhre e Stunden und die zweite d Stunden laufen, so erhält man m Maaß. Wie viel Maaß laufen in einer Stunde aus jeder Röhre?
+
+[p. 200] 3. Aufgabe. Ein Maulesel und ein Eſel tragen ein jeder etliche Scheffel Getreide.
+
+Esel beschwert sich über seine Last und sagt zum Maulesel: wenn du mir einen Scheffel von deiner Last gäbeſt, ſo hätte ich zweimal so viel als du.
+
+Darauf antwortete der
+
+Maulesel: wenn du mir einen Scheffel von deiner Last gäbest, so hätte ich dreimal so viel als · du. Wie viel Scheffel trug der Esel und wie viel der Maulesel? 4. Aufgabe.
+
+Es hat jemand zwei silberne Becher und einen Der erste Becher,
+
+Deckel dazu.
+
+welcher 12 Loth schwer ist, wiegt mit dem Deckel, dessen Gewicht unbekannt ist, zusammen zwei mal so viel als der andere Becher.
+
+Der andere Becher hingegen, deſſen
+
+Gewicht gleichfalls unbekannt ist, wiegt mit dem Deckel zusammen genommen dreimal so viel als der erste Becher.
+
+Wie viel wiegt der Deckel und wie viel der zweite Becher?
+
+S. 181. Sind Aufgaben mit drei unbekannnten Größen gegeben, so müſſen auch drei verschiedene Gleichungen sich finden, wenn anders die Aufgabe beſtimmt ſeyn soll.
+
+Wie man solche Gleichungen aufzulösen hat, wollen wir an einem allgemeinen Fall zeigen, wovon sich die Regel der Behandlung leicht abstrahiren läßt.
+
+Wir nehmen an, die gegebenen Gleichungen seyen so abgeändert, daß alle unbekannten
+
+[p. 201] Größen auf einer, und die bekannten auf der andern Seite sich dann finden, wären allgemeinen
+
+Formeln: 1, ax + by + cz = d. 2. ex + fy + gz = h. 3. ix + ky lz = m.
+
+Man entwickele aus 1 den Werth von x, so ers d - by - cz Diesen Werth sehe hält man: x = man in 2 und 31, so erhält man für 2, e. (d — by — cz) + fy + gz = h de - bey - cez
+
++ fy + gz = h
+
+Für 3 erhält. man i. (d— by — cz) + ky + - ciz di - biyIz m oder + ky + lz = m, Beide Gleichungen durch a multiplicirt geben de - bey - cez + afy + agz = ah und di — biy — ciz + aky + alzam.
+
+Man entwickele aus der ersten Gleichung y. de - bey - cez + afy + agz = ah afy - bey ah de + cez - agz ah - decez- agz af-be
+
+Seht man nun diesen Werth von y in die Gleichung dibiy - ciz + aky + alzam, ſo erhält man di + (ak — bi). (ah — de÷cez— agz af -be --- cizalz = am. Löst man die Parenthesen [p. 202] dadurch auf, daß man wirklich multiplicirt, ſo erhält man ah²k —adek + acekz—a²gkz — abhi + bdei — bceiz + abgiz af-be ciz + alzam. Multiplicirt man die Gleichung di+ mit af- be, so erhält man adfi - bdei + a²hk — adek + acekz — a²gkz -— abhi + bdei — bceiz + abgiz — acfiz + bceiz + a²flz — abelza²fm — abem: läßt man nun weg, was sich aufhebt, ſo erhält man - abhi adfia hk - adek + acekza²gkz — + abgiz - acfiz + a'flz - abelz = a2fm - abem und dividirt man die ganze Gleichung durch a, so wird agkz ―― bhi + bgiz dfi + ahk - dek + cekz - -cfiz + aflz - belzafm ·- dem Bringt man die Glieder welche z enthalten auf die eine, und die andern auf die andere Seite der Gleichung, so bekömmt man cekz agkzbgiz -- cfiz + aflz - belz = afm - dem- dfi — ahk+dek + bhi und dies giebt afm - bemdfi + dek + bel bhi z = cek bgi — ahk cfi + afl - agk agk + bgi— Seht man den gefundenen Werth von z in die ah - de cez - agz Gleichung y = so erhält man af- be y; und wenn man nun die Werthe von y und z in X = dby - cz feßt, so erhält man den Werth von x. Die vorgenommene Auflösung dieser allgemeinen Gleichungen kann dazu dienen den Weg zu zeigen, den man bei Auflösung dieser Gleichungen überhaupt einzuschlagen hat; auch können die gefundenen Werthe von x, y und z als allgemeine Formeln gebraucht werden [p. 203] um den Werth der unbekannten Größen in gegebenen Gleichungen zu finden, allein in den gewöhnlichen Fällen würde der Gebrauch der Formeln mehr Mühe machen, als die Auflöſung der Gleichungen ſelbſt.
+
+S. 182. Es giebt auch noch eine andere Methode, aus den im vorhergehenden S. gegebenen Gleichungen den Werth von x, y und z zu finden, die wir jezt angeben wollen. 1. ax + by + c z =
+
+2. ex + fr + gz = h
+
+3. ix + ky + lz = m
+
+Man multiplicire 1 mit e, und 2 mit a und subtrahire 1 von 2, so erhält man a ex + aƒy + agz = ah aex + bey + cez = de afy - bey + agz - cez ah - de
+
+Ferner multiplicire man 1 mit i und 3 mit a) und ſubtrahire 1 von 3, so erhält man aix + aky + alzam aix + biy + ciz = di aky biy + alz -
+
+Man multiplicire afy cizam - di bey + agz cez
+
+= ah - de mit ak - bi, und aky - biy + alz - cizam- di mit af -- be, so wird man zwei Gleichungen erhalten, aus denen man durch die Subtraction eine neue Gleichung bekömmt, in [p. 204] denen blos z vorkömmt, und dadurch kann man ſodann durch Substitution x und y finden. S. 183.
+
+Man soll drei Zahlen finden, die so beschaffen sind, daß die Summe der ersten und zweiten 22, der ersten und dritten 26, und die Summe der zweiten und dritten 34 ausmachte. Auflöſung. Die erste Zahl sey x, die zweite y, die dritte z, so ergiebt sich: 1. x+y= 22
+
+2.x + z = 26 3. y+z= 34. Löset man die Gleichungen nach §. 181 auf, ſo erhält man x+y= 22 x22 - y Seht man diesen Werth in 2, so erhält man y + z = 26 Z
+
+4= y = 34
+
+4+ und dies in 3 gesezt z
+
+22 2Z
+
+Z = 19 y = z - 4 = 19—4—15; x = 22 - y = 22
+
+15 = 7+
+
+[p. 205] Verfährt man hingegen bei der Auflösung nach S. 182. x + y = 22 x + z = 26 und da y+z= 34
+
+2y = 30 y = 15 und also x = 7 und z = 19, S. 184.
+
+Drei Mädchen tragen Aepfel zur Stadt, die Anzahl der Aepfel der ersten doppelt genommen, und die Anzahl der zweiten hinzugethan, so bekömmt man die Anzahl der dritten doppelt + 20. Die Ans zahl der Aepfel der ersten von der dritten weggenommen geben den dritten Theil von der Anzahl der zweiten und die Anzahl aller Aepfel zusammen geben das dreifache der Aepfel der zweiten. Wie viel Aepfel trug eine jede? 2. Aufgabe. Man sucht 3 Zahlen, die Summe der ersten und zweiten ist 16, der ersten und dritten 20, der zweiten und dritten 22, welches sind die Zahlen ſelbſt? Von den quadratischen Gleichungen. S. 185. Quadratische Gleichungen nennen wir diejenigen in denen oder deren Auflösung das Quadrat die [p. 206] höchste Dignität der darin vorkommenden unbekannten Größen ist, z. B. a x² = b oder dx² + ex =ƒ. Man theilt sie in reine und unreine, rein heißt eine solche Gleichung wenn allein
+
+², unrein, wenn außer x² auch noch x sich darin findet. So ist ax² = b eine reine, dx² + ex =f eine unreine quadratische Gleichung. Wir machen mit der Auflösung der erstern den Anfang. S. 186. Soll man eine reine quadratische Gleichung auflösen, so verändere man zuvörderst die Gleichung so, daß x ohne alle Coefficienten auf einer Seite allein sich findet, auch muß dieses x2 + seyn.
+
+Sodann ziehe man auf beiden Seiten die Quadratwurzel aus, von x finden. so wird man den Werth
+
+Fragen. 1. Warum muß x immer seyn, und wie macht man es um es in + zu verwandeln, wenn es ist? 2. Wenn man findet x ist = √.
+
+gativen Größe, so ist aus einer neeine unmögliche Größe, warum? und was zeigt dies an? 3. Der Werth von x in einer reinen quadratischen Gleichung ist doppelt, wie so?
+
+S. 187. 1. Wenn man zu einer Zahl 7 addirt und 7 ſubtrahirt, die erhaltene Summe und Differenz mit einander multiplicirt, so bekömmt man 72, welches ist die Zahl?
+
+[p. 207] 2. Von zwei Spielern verliehrt einer an den ans dern 12 Friedrichsdor, da ſie beide mit gleicher Summe sich an den Spieltisch ſetzten.
+
+Multiplicirt man, nachdem das Spiel geendigt, was ein jeder hat, so erhält man zum Produkt 432, wie viel hat jeder zum Spiel mitgebracht? 3. Wenn man zu einer Zahl 18 addirt und 18 ſubtrahirt, so erhält man wenn man Summe und 2000 zum Produkt, welDifferen; multiplicirt, ches sind die Zahlen? S. 188. Eine unreine quadratische Gleichung aufzulösen. Auflöſung, sung. Man bringe die unbekannten
+
+Größen auf eine
+
+Seite, und die bekannten auf die andere, doch so daß x² + ist, und schaffe den Coefficienten von x weg, wenn sich einer finden sollte.
+
+So wurde die
+
+Gleichung dann folgende Form haben. x² + ax = b Man sieht leicht ein, daß x² + ax kein vollſtändiges Quadrat ist, sondern daß etwas mangelt, daß aber die Wurzel aus zwei Theilen, wovon der erste x ist, bestehen muß.
+
+Es besteht aber ein jedes
+
+Quadrat einer zweitheiligen Wurzel, aus dem Quadrate des ersten Theils, dem doppelten Produkt beider Theile und dem Quadrat des zweiten Theils;
+
+die beiden ersten Stücke x² und ax sind vorhanden,
+
+1 es fehlt also zum vollständigen Quadrat nur noch [p. 208] das Quadrat des zweiten Theils.
+
+Wie findet man dies aber? Man dividirt das doppelte Produkt beider Theile durch den ersten Theil, und halbirt den Quotienten, so hat man den zweiten Theil der Wurzel, dessen Quadrat alſo das Quadrat des zweiten Theils iſt.
+
+Man mache also x² + ax zum vollständigen
+
+Quadrat, in dem man (a) ² d. h. — a² hinzu4 fügt; damit aber die Gleichung bleibe, muß man a² auch auf der andern Seite addiren. x² + ax = b a² = x² + ax + 4/4 b + 4 ax mag + oder -seyn, so wird a² immer +, aus welchen Gründen? (Folgendes Beiſpiel in Zahlen erläutert das Geſagte). x² + 10x = 56 x² + 10x + 25 = 56 + 25 = 81 Nun ziehe man auf beiden Seiten der Gleichung die Quadratwurzel aus, so ist auf der einen Seite die Wurzel = x + ÷ 2 a, nach dem was oben geſagt ist, (+ / / a wenn man + ax hatte, wenn man -ax hatte) ; auf der andern Seite erhält man ± √ (b + — a²). x² + ax = b x² +ax+ 4/4 a² = b + 70 ± √ x + 1/2 a = ± (b + — a²) x²+ [p. 209] x² + 10x = 56 x² + 10x + 25 = 81 x + 5 = ± 9 und so wird also x = — 2 — a ± √ und x = 4 oder ― 14.
+
+(b
+
++ —a²)
+
+Es wird nun nicht schwer fallen aus dem Gesagten, die allgemeine Regel des Verfahrens abzuleiten.
+
+Daß auch bei den unreinen, quadratischen Gleichungen ein doppelter Werth von ≈ ſich finden müſſe, Eben so wes bedarf wohl kaum einer Erinnerung. nig, daß wenn 6 + 4 a² negativ ist, die AufI' a² nur gabe unmöglich ist, es kann aber b + negativ werden, wenn b negativ iſt.
+
+S. 175. Die Differenz zweier Zahlen sey 2, ihr vierfaches Produkt 252, welches sind die Zahlen selbst?
+
+Die größere Zahl sey x, so ist die kleinere x— 2, das Produkt derselben also x² - 2x, das vierfache Produkt also 4x² ― Ex und dies soll = 252* ſeyn. 4202 - 8x252
+
+4)
+
+x²
+
+2x =
+
+XC 2
+
+2x + 1 = 63 + ı
+
+3C −1 I = + √ 64 ±± 8 > x=
+
+8 + 1 = 9 oder — 7.
+
+[p. 210] Man findet also zwei Werthe für x nämlich 9 und -7; im ersten Fall sind die beiden Zahlen 9 und 7, im zweiten
+
+7 and
+
+9; welche beide die
+
+Forderungen der Aufgabe erfüllen,
+
+$. 189.*
+
+Ein Kaufmann hatte auf der Meſſe einige Stücke Tuch für 180 Dukaten gekauft, die er bei seinem Commiſſionár gelaſſen, um sie ihm Ehe ſie ankamen, starb nachzuschicken.
+
+ersterer plötzlich und nach einiger Zeit schickte der Commiſſionär den Erben 10 Stücke Tuch. sey.
+
+Man weiß nicht ob die Anzahl richtig
+
+Man erinnert ſich nur, daß der Verstorbene geſagt habe: hätte er ſeinen Handel einen Tag früher gemacht, so würde er für eben die 180 Dukaten 3 Stücke mehr haben kaufen können, und das Stück wäre ihm 3 Dukaten wohlfeiler zu ſtehen gekommen. Zwei Personen verkaufen etliche Ellen Zeug, der andere 3 Ellen mehr als der erste und Idsen zuſam≤ men 35 Rtlr.
+
+Es sagt der erste zum andern: hätte ich dein Zeug so theuer wie das meinige verkauft, so hätte ich daraus 24 Ntlr. gelöset, darauf antwortet der andere: hätte ich dein Zeug wie das meinige verkauft, ſo hätte ich daraus 121Rtlr. geIdset.
+
+Wie viel Ellen hat jeder gehabt?
+
+Zwei Personen haben ein Kapital von 200 Rtlr.
+
+[p. 211] zu einem Handel zusammengebracht und eingelegt. Der erste läßt sein Geld 4 Monathe darin und zieht darauf mit seiner Einlage und seinem Gewinnste zuſammen 176 Rtlr.; der andere hat sein Geld nur 3 Monathe im Handel, und mit Einlage und Gewinnst zuſammen 228 Rtlr. gezogen. jeder eingelegt?
+
+Wie viel hat
+
+## Anfangsgründe der reinen Mathematik Zweiter Theil, welcher die Anfangsgründe der Geometrie enthält.
+
+### Anfangsgründe der Geometrie.
+
+[p. 215]
+
+S. I. Erklärung. Die Geometrie hat die Größen in so fern sie am Raume anschaulich dargestellt werden, zu ihrem Gegenstande. Sie betrachtet den Raum aber nur allein, ohne auf das, was denselben erfüllt (die Materie) Rücksicht zu nehmen.
+
+S. 2. Axiom. Der Raum ist unendlich und hat nur drei Abmeſſungen (Dimenſionen) , Länge, Breite und Höhe (oder Dicke).
+
+S. 3. Das Aeußerste eines Dinges Grenzen.
+
+nennt man seine
+
+Begrenzt man den Raum allen drei
+
+Dimensionen nach, so erhält man einen geometrischen Körper, dieser hat also eine bestimmte begrenzte dreifache Ausdehnung, begrenzte Länge, Breite und Höhe.
+
+[p. 216] Die Grenzen der Körper sind Flächen.
+
+Eine
+
+Fläche hat nur eine doppelte Ausdehnung, Länge und Breite.
+
+Höhe oder Dicke kann sie nicht haben, weil sie sonst nicht die Grenze des Körpers seyn könnte, sondern selbst Körper wäre und einer solchen Grenze bedürfte. Die Grenzen der Flächen sind Linien.
+
+Eine
+
+Linie hat nur eine einfache Ausdehnung, Länge; Höhe kann sie nicht haben, weil die Fläche, der ſie zur Grenze dient, selbst keine hat; Breite kommt ihr gleichfalls nicht zu, weil sie sonst selbst Fläche (wäre und also die Fläche nicht begrenzte. Die Grenze der Linie ist der Punkt.
+
+Punkt hat gar keine Ausdehnung. Breite und Höhe nicht, weil die Linie der er zur Grenze dient, diese Ausdehnung nicht hat, und Länge muß ihm abgesprochen werden, weil er sonst die Linie nicht begrenzte.
+
+Der Pankt ist also nur an der Linie vorstellbar. S. 4+ Aus dem vorhergehenden S. ergiebt sich leicht, daß man keine Linie aus Punkten, keine Fläche aus Linien, keinen Körper aus Flächen zuſammenſetzen kann; daher sind die Theile der Körper ſelbſt Körper, der Flächen selbst Flächen, der Linien selbst Linien. Beim Punkt der keine Größe hat sind gar keine Theile möglich.
+
+Daher sind alle Punkte congruent, siehe Einleitung §. XVIII. Durch die Bewegung eines Punktes beschreibt ' [p. 217] man eine Linie, durch die Bewegung der Linie eine Fläche, durch die Bewegung der Fläche einen Körper. S
+
+Der Körper, die Fläche und die Linie sind continuirliche Größen, d. h. ihre Theile stehen untereinander so in Verbindung, daß das Ende des einen Theils der Anfang des andern, ist. — Man theilt die Körper durch Flächen, die Flächen durch Linien, die Linien durch Punkte.
+
+S. 6. Man theilt die Geometrie in die Longimetrie, Planimetrie und Stereometrie.
+
+Der erste
+
+Theil beschäftigt sich mit den Linien, der zweite mit der leichtesten Art Flächen (den Ebenen) und der dritte mit den Körpern.
+
+Da wir in den Elementen der Geometrie alle unsere Linien in Ebenen gezogen uns vorstellen, so wollen wir die Longimetrie, die überdies an sich genommen nur von kleinem Umfang ist, mit der Planimetrie zusammen vortragen.
+
+Geometrie
+
+Erster und Zweiter Theil die Longimetrie und Planimetrie enthält. S+ 7+
+
+Eine Linie heißt gerade, wenn alle ihre Theile nach einer Richtung liegen. Fig. 1.
+
+[p. 218] Eine Linie heißt krumm, wenn kein Theil derselben eine gerade Linie ist.
+
+Fig. 2.
+
+Eine Linie heißt gerad gebrochen, die aus verschiedenen Fig. 3. Fig. 4 geraden Linien ist eine krumm zuſammengeſcht iſt.
+
+gebrochene, Fig. 5 eine gemischte Linie, wie wird man beide Arten erklären? Man bezeichnet gerade und ' krumme Linien gewöhnlich durch Buchstaben, die man an ihre Endpunkte schreibt.
+
+Die gerade Linie Fig. 1 heißt AB, ¨ die krumme cheia
+
+Fig. 2. CD,
+
+S. 8. Zwischen jeden zwei Punkten ist nur eine gerade Linie möglich; krumme und gebrochne Linien aber unendlich viel. 1. Durch zwei Punkte wird die Lage einer geraden Linie völlig beſtimmt, und eine gerade Linie, von der man zwei Punkte kennt, ist ihrer Lage nach gegeben.
+
+Sind ihre Endpunkte bekannt, ſo ist sie auch der Größe nach gegeben. 2. Wenn eine gerade Linie mit einer andern zwei Punkte gemein hat, so sind beide ihrer Lage nach eine und dieselben. 3. Zwei verschiedene Linien können nur einen Punkt mit einander gemein haben. 4. Wenn zwei gerade Linien gleich groß sind, so sind [p. 219] sie congruent, d. h.
+
+gleich, and als gerade Linien haben ihre Theile ähnlich, einerlei Vers bindung.
+
+Bei Größen im Raume findet man die Congruenz (Einerleiheit in Quantität und Zusammenhang (Qualität) ) , wenn man sie auf einander legt oder bei Körpern in einander schiebt, und ihre Grenzen zusammenfallen (congruunt) . der Name Congruenz.
+
+Daher
+
+Man sagt sodann die
+
+Linien, Flächen, Körper u. s. w. decken sich. §. 9. Postulate. Man kann zwischen jeden zwei Punkten eine gerade Linie ziehen. Man kann jede gerade Linie nach beiden Seiten ohne Ende verlängern.
+
+Daß §. 9 blos von geraden Linien die Rede ist, da doch die Unendlichkeit und Leere des Raums auch das Ziehen und Verlängern krummer Linien gestattet, rührt daher, weil man nicht voraussetzen kann, daß man das Gesetz kenne, nach welchen die krumme Linie gezogen werden soll, ein Umstand, der bei der geraden Linie wegfällt. S. 10. Ein Punkt liegt außerhalb einer geraden Linie, [p. 220] wenn er weder in ihr noch in ihrer Verlängerung
+
+S. II. Eine Fläche heißt eben oder eine Ebene, wenn jede gerade Linie die man von irgend einem Punkt derselben zu irgend einem andern in ihr zieht, ganz in der Fläche liegt.
+
+Eine Fläche heißt krumm, wenn kein Theil von ihr eben ist.
+
+S. 12. Man kann jede Ebene bis ins Unendliche ver Längern.
+
+§. 13. Allgemeine Anmerkung. Wenn wir fünftighin von Linien, Winkeln, Figuren u. s. w. sprechen, so sehen wir jederzeit voraus, daß sie in einer Ebene verzeichnet worden. §. 14.
+
+Die Neigung zweier Linien (oder ihre Abweichung von einander) , die einen Punkt mit einander gemein haben, heißt ein Winkel * ) . Die Linien, die den Winkel bilden, heißen Schenkel, der Punkt, wo sie sich vereinigen, heißt der Scheitelpunkt oder die Spitze des Winkels.
+
+Fig. 6. iſt ein Win-
+
+*) Wie ist es möglich, daß man den Winkel sowohl durch Neigung, als Abweichung erklären kann, da doch beide Merkmale entgegengesetzt ſind?
+
+[p. 221] fel,
+
+BC sind die Schenkel und B der
+
+Scheitelpunkt oder die Spize. Man bezeichnet einen Winkel entweder durch einen Buchstaben des kleinen lateinischen Alphabets, den man in die Deffnung hineinſchreibt, so heißt der Winkel Fig. 6. x; oder durch einen Buchstaben, der an der Spitze gestellt wird, Fig. 6. B, oder endlich weil diese lettere Bezeichnungsart, wenn mehrere Winkel einen gemeinschaftlichen Scheitelpunkt haben, bestimmt genug ist, mit drei Buchstaben, gleich zur Bezeichnung der nicht die zu Schenkel dienen, wovon der eine an die Spitze gesetzt wird;
+
+Benennung muß man sodann den Buchstaben, an der Spitze steht, in die Mitte setzen,
+
+Fig. 6. der Winkel ABC oder CBA, bei der so heißt aber nicht
+
+BAC oder ACB, Wie bezeichnet man Fig. 7. die Winkel, o, x, y, z, t, u jeden mit drei Buchstaben? Man theilt die Winkel den Schenkeln nach in geradlinigte, krummlinigte und vermiſchtlinigte, Fig. 6. ist ein geradlinigter,
+
+Fig. 8. ein krummlinigter,
+
+Fig. 9. ein vermischtlinigter Winkel, wie wird man alſo jede der drei Arten definiren?
+
+Wenn wir künftig von Winkeln reden, und nichts weiter hinzugefeßt wird, verstehen wir stets geradlinigte darunter.
+
+S. 15. Fig. 10. sind ABC und ABD und Fig. 11, FEG [p. 222] und FEH Nebenwinkel.
+
+Die Winkel Fig. 12.
+
+und 13. sind keine Nebenwinkel. Nebenwinkel?
+
+Was sind nun
+
+Bei der Erklärung muß auf die Anzahl und die Lage der Schenkel Rücksicht genommen Ein rechter Winkel iſt einer von zwei gleichen Nebenwinkeln. Fig. 11. Man bezeichnet einen rechten Winkel mit R.
+
+Eine Linie, die mit einer andern einen rechten Winkel macht, steht auf dieser senkrecht oder perpendiculär.
+
+So steht Fig. 11. FE auf GH in E senkrecht. Die Größe eines Winkels hängt von der Neigung seiner Schenkel und nicht von ihrer Länge ab. Der Winkel ABC Fig. 14. wird um nichts größer, wenn man seine Schenkel bis D und E verlängert.
+
+S. 16. Außer den in der Einleitung §. IX. aufgestellten Grundsägen, finden auch noch folgende in der Geometrie ihre Anwendung: 1. Gleiches zu Gleichem hinzugefeßt giebt gleiche Summe.
+
+Gleiches zu Ungleichem, oder Ungleiches zu Gleichem hinzugefeßt, giebt ungleiche Summen, und zwar ist im erstern Fall da die größere Summe, wo man zu dem Größern, im zweiten Fall da, wo man das Größere hinzuseßte.
+
+Gleiches läßt gleiche Reste.
+
+Gleichem hinweggenommen
+
+[p. 223] Gleiches von Ungleichem oder Ungleiches von Gleichem hinweggenommen, läßt ungleiche Reſte, im ersten Fall ist der größere Rest da, Minuendus, im zweiten, wo der größere wo der kleinere Subtrahendus sich findet
+
+Gleiches mit Gleichem vervielfacht giebt gleiche Produkte.
+
+Gleiches mit Ungleichem oder Ungleiches mit Gleichem vervielfacht, giebt ungleiche Produkte, und zwar ist das größere Produkt da, wo der größere
+
+Faktor sich findet. 7. Gleiches durch Gleiches getheilt giebt gleiche Quotienten.
+
+Ungleiches
+
+Gleiches
+
+Gleiches durch Ungleiches getheilt, giebt ungleiche Quotienten, und zwar ist im ersten Fall der größere Quotient, wo der größere Dividendus, und im zweiten da, wo der kleinere Divisor sich findet.
+
+S. 17. Winkel, die gleich groß sind, decken sich (sind congruent).
+
+Fig. 15. sollen die Winkel
+
+ABC und DES gleich seyn. Man lege den Winkel DES auf ABC, so daß E in B fällt, und ES auf BC zu liegen kommt, so muß DE auf AB fallen, denn fiele es [p. 224] Näher nach BC zu, ſo wäre DES fleiner, fiele es weiter von BC weg, so wäre DES größer.
+
+§. 18. Alle rechte Winkel ſind congruent. Fig. 16. seyen ABC und EFG rechte Winkel. Man lege EFG auf ABC, ſo daß F in B und ES auf AB zu liegen kommt, falen, so muß FG auf BC und also die Winkel congruent ſeyn.
+
+gesetzt es fiele FG nicht auf BC,
+
+Denn so fiele es entweder innerhalb ABC oder außerhalb.
+
+Geſetzt es fiele innerhalb, z. B. wie BH, so ist ABH dahin gelegte Winkel EFG AB nach D, so ist
+
+R.
+
+DBC weil ABC
+
+Man verlängere
+
+Rs. §. 15.
+
+also ABC
+
+CBH
+
+← HBD,
+
+Da aber ABH = EFG = R, so muß
+
+DBC + CBH, d. h. ARHnach §. 15. ABH = HBD, welche beide Säße sich widersprechen. Weil wir nun durch die Vorauſeßung, FG tönne, wie HB, innerhalb ABC fallen, auf einen * Widerspruch stoßen, so ist die Voraussetzung selbst falsch, FG kann nicht innerhalb ABC fallen. Eben so läßt sich zeigen, daß FG nicht außerhalb ABC wie Fig. 17. BI fallen kann. weis wird auf dieselbe Art geführt. FG auf BC fallen,
+
+Der Be-
+
+Folglich muß und EFG und ABC also congruent seyn.
+
+S. 19.
+
+[p. 225] S. 19. Folgefäße und Erklärunge. Da alle rechte Winkel congruent sind, so können sie als Maaß für die übrigen Winkel dienen.
+
+Fig. 18. ist ABC ein spitzer und
+
+DBC ein rechter Winkel, was ist also ein spitzer 3 Winkel? Fig. 19. ist EFG ein stumpfer, und HFG ein rechter Winkel, was iſt alſo ein stumpfer Winkel? Spitze und stumpfe Winkel begreift man unter dem allgemeinen Namen der schiefen Winkel, was ist also ein schiefer Winkel?
+
+S. 20. Die Summe zweier Nebenwinkel ist allemal = 2R,
+
+Es sind hier zwei Fälle möglich, entweder beide Nebenwinkel sind jeglicher ein rechter, wie Fig. 11. dann ist der Satz an sich evident, oder die Neben-
+
+Man denke sich in winkel sind ſchief, wie Fig. 20.
+
+diesem Fall AB senkrecht auf DE. Th.
+
+CBD
+
+Dat
+
+ABD = ABE =
+
+CBE = 2 R
+
+ABD + ABE = 2 R ABE = ABC + CBE ABD + ABC + CBE = 2R ABD + ABC = CBD Ergo. CBD
+
+ABE = 2 R,
+
+[p. 226] Man suche denselben Beweis für Fig. 21. zu führen.
+
+1. Die im §. gebrauchte Bezeichnung Th. heißt thesis und bedeutet den zu beweisenden Saß.
+
+D. oder Dat. heißt data und bezeichnet entweder die Bedingung, die der Lehrſat angiebt, unter welchem die Thesis statt findet, auch, was man mit der Figur vorgenommen, um den Beweis zu führen.
+
+Dies letztere ist
+
+z. B. bei dem so eben geführten Beweis der Fall.
+
+Man schreibt gewöhnlich die thesis zu erst und unmittelbar darunter die data.
+
+Erg. oder Ergo bezeichnet den Schlußſatz.
+
+Um bei einem gegebenen Lehrsaß die thesis und die data zu erkennen, verwandle man ihn in ein hypothetisches Urtheil; wo ſodann der Nachſatz (welcher sich mit so anfängt) die thesis, der Vorderſaß (welcher sich mit wenn anfängt) die data angiebt.
+
+Nur kann man oft die im
+
+Lehrsag angegebenen data nicht aufzeichnen, wie bei dem im § aufgestellten Fall.
+
+Bei dem zu einer Aufgabe gehörigen Beweis ist die Forderung der Aufgabe die thesis, und das was man der Auflösung zu Folge vorgenommen, um die Forderung der Aufgabe zu erfüllen, sind die data, f. §. 36.
+
+[p. 227] S. 21. Alle Winkel um einen Punkt, die in einer Ebene auf einer Seite einer geraden Linie liegen, sind = 2R, Fig. 22. sollen ABC + CBD + DBE + EBF, die insgesammt den gemeinschaftlichen Scheitelpunkt B haben und auf einer Seite von AF liegen, zu-
+
+ſammengenommen
+
+2 R seyn.
+
+BG auf AF senkrecht, so ist der Beweis leicht zu Man denke sich
+
+S. 22. Alle Winkel, die in einer Ebene um einen Punkt möglich sind, sind zuſammeo 4 R gleich. Man sehe Fig. 23.
+
+Der Beweis kann nach §21 keine Schwierigkeiten haben.
+
+S. 23. Wenn die Summe zweier Winkel, die einen gemeinschaftlichen Schenkel haben = 2 R, so sind die Winkel Nebenwinkel, d. h. ihre beiden äußern Schenkel liegen in einer geraden Linie, Wenn die Winkel ABC und ABD Fig. 24. die AB gemeinschaftlich haben = 2 R, so sollen BC und BD in gerader Linie liegen. direkte geführt.
+
+wird in-
+
+Man bringt nämlich aus der Voraussetzung des Gegentheils, BC und BD liegen nicht [p. 228] in gerader Linie, einen Widerspruch heraus;
+
+gesetzt CB und BD sen nicht eine gerade Linie, so verlängere man
+
+CB und die Verlängerung wird entweder wie Fig. 24. BE außerhalb ABD, wie Fig. 25. BF innerhalb ABD fallen.
+
+oder.
+
+In beiden
+
+Fällen wird man, wenn man das datum mit dem Saße, daß ABC und ABE oder ABE und ABF
+
+Nebenwinkel, und also nach §. 20. 2 R gleich sind, vergleicht, nach §. 16, 3. herausbringen, daß ein Winkel, der ein Theil eines ganzen Winkels ist, zen Winkel gleich seyn soll.
+
+dem ganz
+
+Dies zeigt alſo an, daß die Voraussetzung BC und BD liegen nicht in gerader Linie falsch ist.
+
+Ein Winkel der kleiner ist, als zwei rechte, heißt hohl, der größer ist, erhaben.
+
+Fig. 26. ſind A,
+
+B und D hohl, C erhaben. Ein Winkel, der einen andern zu zwei rechten
+
+Winkeln ergänzt, heißt sein Supplement. Fig. 10. ist ABC das Supplement von ABD und ABD das Supplement von ABC. Ein Winkel, der einen andern zu einem rechten ergänzt, heißt sein Complement. DBA das Complement von
+
+So ist Fig. 18.
+
+ABC und ABC das
+
+Complement von DBA.
+
+Die Gründe für die Wahrheit folgender Säße sind leicht anzugeben:
+
+Von zwei Nebenwinkeln ist jeder ein holer.
+
+[p. 229] haben gleiche Complemente
+
+Gleiche Winkel und Supplemente nach §. 16, 3. Ein stumpfer Winkel hat einen spigen, und ein spiger Winkel hat einen stumpfen Winkel zu seinem Supplement. 4. Das Supplement eines rechten Winkels ist selbst ein rechter Winkel. $. 25. Zwei Winkel, die einen gemeinschaftlichen Scheitelpunkt haben, deren Schenkel je zwei und zwei in einer geraden Linie liegen, heißen Vertikalwinkel oder Scheitelwinkel.
+
+Fig. 27. sind o und x ferner y und z Vertikalwinkel. * Vertikalwinkel entstehen also, wenn sich zwei gerade Linien in einem Punkt durchſchneiden.
+
+Alle Vertikalwinkel ſind gleich groß.
+
+Th. I.
+
+。 + y = 2R warum?
+
+r +x = 2R
+
+。 + y = y + x
+
+Ergo o =
+
+Der Beweis für Th. 2. , yz wird auf dieselbe Weise geführt.
+
+[p. 230] Von
+
+Figuren.
+
+§. 26. Eine von allen Seiten begrenzte Fläche heißt eine Figur. Eine Fläche kann nur durch Linien begrenzt werden. Wenn mehrere Linien eine Figur begrenzen, so heißen sie Seiten. Die ganze Grenze der Figur heißt ihr Umfang, Umriß oder Perimeter. Iſt die begrenzte Fläche eine Ebene, so heißt die Figur eben, ist die begrenzte Fläche krumm, ſo heißt auch die Figur krumm.
+
+Wir sprechen forthin blos von ebenen Figuren. Man theilt die Figuren nach Beschaffenheit ihrer Seiten in geradlinigte, krummlinigte und vermischtlinigte. Um die Erklärung zu finden, brauche ich blos zu sagen, daß Fig. 26. eine geradlinigte, Fig. 28. eine krummlinigte und Fig. 29. eine vermiſchtlinigte Figur ist.
+
+S. 27. Lehrsaß. Jede geradlinigte Figur hat so viel Ecken oder Winkel als sie Seiten hat, und umgekehrt, so viel
+
+Seiten als sie Winkel hat. Da zwei gerade Linien nur in einem Punkte zusammenkommen können, so bildet die zweite Seite mit der ersten einen Winkel, die dritte mit der zweiten den zweiten, die vierte mit der dritten den drit [p. 231] ten 2c. die letzte Seite einschließt, aber die die Fläche völlig macht mit der vorletzten einen Winkel, und eben so mit der ersten. Ferner der erste Winkel hat zwei Seiten, jeder folgende Winkel erfordert eine neue Seite, der legte Winkel aber hat zwei Seiten, die zum ersten und vorletzten Winkel gehören.
+
+S. 28. Von den geradlinigten Figuren. Gruudsaß. Zwei gerade Linien schließen keinen Raum ein; eine jede geradlinigte Figur wenigstens muß also drei Seiten haben.
+
+Man theilt die geradlinigten Figuren der Anzahl, ihrer Seiten nach in Dreiecke, Vierecke, Fünfecke ic. haben,
+
+Alle Figuren, die mehr als vier Seiten werden unter den gemeinschaftlichen Namen der Vielecke (Polygone) begriffen.
+
+Vielecke mit gleich viel Seiten heißen gleichnamigt.
+
+Eine gerade Linie, die innerhalb der Figur von einem Winkel bis zum andern geht, linie.
+
+Fig. 31.
+
+heißt eine Diagonal-
+
+AC.
+
+Die Figuren theilt man ferner in reguläre und irreguläre.
+
+Bei den ersten sind alle Seiten und Winkel gleich, bei den letzten nicht. Fig. 30. ist ein reguläres, Fig. 31. ein irreguläres Sechseck.
+
+[p. 232] Die Dreiecke ihrer Seiten theilt man nach dem Verhältniß unter einander, in gleichseitige, gleichschenklichte und ungleichseitige. ersten haben drei gleiche Seiten Fig. 32. , ten zwei gleiche Seiten Fig. 33. , die zweibei ihnen heißen die gleichen Seiten (DE und DF) die Schenkel des Dreiecks, die ungleiche Seite (ES) heißt die Grundlinie, der Punkt wo die Schenkel des Dreiecks zuſammen laufen (D) heißt die Spitze, was von der Grundlinie nach der heißt über der Grundlinie, alles
+
+Spitze zuliegt was von der Grundlinie nach der entgegengesetzten Seite der Spitze zuz liegt heißt unter der Grundlinie.
+
+In den ungleichseitigen Dreiecken Fig. 34. ist keine Seite der andern gleich. Man bezeichnet die Dreiecke mit den an Ecken derselben gesetzten Buchstaben, nur macht man ein ▲ vor, weil sonst die Bezeichnung mit drei Buchstaben einen Winkel bedeuten würde.
+
+S. 29. Ein Zirkel oder Kreis ist eine Figur, die dadurch entsteht, daß eine gerade Linie ſich um einen ihrer Endpunkte so lange herumbewegt, bis sie wieder in ihre vorige Lage kömmt.
+
+Fig. 35.
+
+Daß diese Figur krummlinigt sey, wird in der Folge bewiesen werden. Der Punkt, um den sich die gerade Linie bewegt, heißt der Mittelpunkt oder das Centrum C. Die krumme Linie, die den Zirkel begrenzt, heißt [p. 233] die Peripherie oder der Umkreis.
+
+Die gerade
+
+Linie, die vom Mittelpunkt bis zur Peripherie gezogen worden, heißt der Radius oder der Halbmesser.
+
+Hieraus ergiebt sich der Grundſatz:
+
+Alle Radien eines Kreises sind einander gleich. Eine gerade Linie von einem Punkte der Peripherie bis zum andern gezogen, heißt Chorde oder Sehne, z. B. AB. Geht diese gerade Linie durch den Mittelpunkt wie ES, so heißt sie Diameter oder Durchmesser. Da ein Durchmesser aus zwei Radien besteht, so sind auch alle Durchmesser eines Kreises einander
+
+Ein jeder Theil des Umkreises heißt ein Bogen, z. B. AE, BF, ED u. f. w. Ein Abschnitt ist ein Theil des Zirkels, der durch eine Sehne und einen Bogen begrenzt wird,
+
+¿. B. ABG Ein Ausschnitt ist ein Theil eines Kreiſes, der durch zwei Radien und einen Bogen begrenzt wird. Zwei Kreise, die einen gemeinschaftlichen Mittelpunkt haben, heißen concentrisch, Fig. 37., zwei Kreise, die verschiedene Mittelpunkte haben, heißen eccentrisch. Fig. 39.
+
+Die gerade Linie, die von dem Mittelpunkt des einen eccentrischen Kreiſes bis zum andern geht, heißt die Centrallinie. Von zwei concentrischen Kreisen ist einer nothwendig kleiner als der andere.
+
+[p. 234] S. 30.
+
+Man kann aus jedem Punkt mit jedem Halbmesser einen Kreis beschreiben.
+
+S. 31. Alle Kreise, die gleichen Halbmesser haben, sind congruent.
+
+Die beiden Kreise seyen AGBFDE und HIKL (Fig. 35 und 36). CD = MK.
+
+Sie sollen congruent ſeyn, wenn
+
+Daß dies der Fall seyn müsse, sieht man schon daraus, daß die Größe eines Kreiſes alleinig von der Größe des Radius abhängig ist.
+
+Allein um die Wahrheit des Satzes anschaulicher zu erkennen, lege man den
+
+Kreis Fig. 36 auf den
+
+Fig. 35, so daß M in C zu liegen kommt, ſo müſſen alle Punkte des Umkreises von HIKL auf die Punkte des Umkreises von AGBFDE fallen, denn gesetzt dies wäre nicht der Fall, so fiele ein Punkt des Umkreises von HIKL entweder innerhalb oder außerhalb von AGBFDE, allein im ersten Fall wäre sodann ein Radius von ihm kleiner als der von AGBFDE, im zweiten Fall größer. 1. Alle Kreise mit gleichem Durchmesser sind congruent. 2. Alle congruente Kreise haben gleiche Durchmesser und Halbmesser.
+
+[p. 235] $. 32.
+
+Der Durchmesser theilt einen jeden Kreis, so wie auch seine Peripherie in zwei gleiche Theile. Man lege den Theil AEB Fig. 38, ſo auf ADB, daß A auf A, und C auf C zu liegen kommt, so muß B. in B fallen.
+
+Es müssen aber alsdann alle
+
+Theile von AEB genau auf ADB liegen, denn gesetzt ein Punkt von AEB läge außerhalb ADB, ſo gehörte zu ihm ein größerer, fiele er innerhalb, ein kleinerer Radius. §. 33. 1. Wenn ein Punkt innerhalb des Umfangs einer Figur und ein anderer außerhalb derselben liegt, und man verbindet diese beiden Punkte durch eine Linie, so muß diese den Umfang der Figur wenigstens in einem Punkt schneiden. 2. Wenn man eine gerade Linie, die innerhalb einer Figur liegt, auf beiden Seiten verlängert, so schneidet sie den Umfang der Figur wenigstens in zwei Punkten, denn jeder Endpunkt derselben ist als ein Punkt innerhalb, und ein Punkt ihrer Verläne gerung nach beiden Seiten als ein Punkt außerhalb zu betrachten. 3. Wenn ein Punkt des Umfangs einer Figur innerhalb einer andern, und ein zweiter Punkt außerhalb der andern liegt, so haben die Perimeter dieser Figuren wenigstens zwei Punkte gemein (sie schneiden sich wenigstens in zwei Punkten).
+
+[p. 236] Die Wahrheit dieser Säße ist leicht einzusehen wenn man sich die dazu gehörigen Figuren zeichnet. S. 34.
+
+Zwei Kreise schneiden einander, wenn die Entfernung ihrer Mittelpunkte kleiner ist als die Summe ihrer Radien, und jeder Radius kleiner als die Entfernung der beiden Mittelpunkte mit dem Radius des andern Kreises zusammen genommen. (Man kann diesen Lehrsaß auch so ausdrücken: Zwei Kreise schneiden einander, wenn von den drei Größen, der Entfernung der Mittelpunkte und dem Radius eines jeden Kreiſes immer zwei größer ſind als die dritte).
+
+Fig. 39. Der Mittelpunkt des Kreises AFDGA sey C, der des Kreises FEGBF ſey K, so ist CK die Entfernung der beiden Mittelpunkte,
+
+Radius von AFDDGA, und BK der Radius von FEGBF, und der Lehrsatz sagt beide Kreise würden sich schneiden unter folgenden Bedingungen: 1) wenu CK < CD + BK; 2) wenn CD < CK + BK; 3) wenn BK < CK + CD. Wir müſſen alſo darthun, daß unter diesen gegebenen Bedingungen ein Punkt des Umkreises von FEGBF innerhalb und ein anderer außerhalb AFDGA liegt, so haben wir §. 33. S. 3 den Lehrsag bewiesen.
+
+nach
+
+Ein Punkt der vom Mittelpunkt eines Kreises weiter entfernt ist [p. 237] als der Radius liegt außerhalb dem Kreise; derjenige, der nicht so weit entfernt ist, liegt innerhalb demselben.
+
+Weil BKCK + CD und CD = AC als Radien von AFDGA, ſo iſt BK < CK + AC; es iſt aber CK + AC = AK; alſo BK < AK, d. h. B liegt zwiſchen A und K. Weil CDCK + BK und BKKE als Nadien von FEGBF, so ist BCCK + KE; es ist aber CK + KE CE; also CD
+
+CE, d. h. E, ein Punkt in der Peripherie von FEGBF liegt außerhalb dem Kreise
+
+AFDGA. Es frägt sich also blos ob der andere Punkt B der Peripherie FEGBF innerhalb dem Kreise AFDGA
+
+Wir wissen schon er liegt zwischen A und K.
+
+Fiele er mit D zuſammen, so wäre ‚CK = CD + BK, welches der ersten Bedingung CK
+
+CD + BK widerspricht.
+
+Fiele B noch näher an K als D, so würde CK
+
+CD + BK, welches ebenfalls CK <
+
+CD + BK widerspricht;
+
+muß B weiter als
+
+KD von K entfernt seyn, da B nun also zwischen D und A liegen muß, ſo muß es innerhalb AFDGA fallen. Es werden also beide Kreiſe wenigstens in zwei Punkten sich schneiden.
+
+[p. 238] §. 35. 1. Eine gegebene gerade Linie einer andern gegebenen gleich zu machen. 2. Auf einer unbegrenzten geraden Linie eine andere gegebene gerade Linie so vielmal aufzutragen, als verlangt wird.
+
+§. 36. Ueber einer gegebenen geraden Linie ein gleichseitiges Dreieck zu beschreiben.
+
+Die gegebene Linie ſey BC Fig. 40.
+
+über ihr ein gleichseitiges Dreieck beschreiben heißt man soll ein Dreieck machen, wo eine jede Seite = BC.
+
+Man beschreibe aus B mit BC die Kreis-
+
+Linie 1., aus C gleichfalls mit BC die Kreislinie 2, beide werden sich nach §. 34 in zwei Punkten ſchneiden.
+
+Einer dieser Schneidungspunkte heiße A, man ziehe AB und AC, ſo iſt ABC das verlangte Dreieck.
+
+Um darzuthun, daß AB, AC und BC einander gleich sind, betrachte man die Radien der Kreise 1 und 2, so wird sich dadurch und durch die Vergleichung beider die Wahrheit des Sages ergeben.
+
+S. 37. Aus drei gegebenen Linien, wovon aber jegliche [p. 239] zwei größer sind als die dritte ein Dreieck zu des schreiben, was diese Linien zu Seiten hat. Anleitung zur Auflösung und zum Beweise, Statt daß man in dem §. 36 mit einer und ders ſelben gegebenen Linie Kreise beschrieb, thue man dies hier mit den gegebenen Linien. -
+
+Durch die
+
+Bedingung, daß jede zwei dieſer Linien größer - ſeyn sollen, als die dritte, ergiebt sich, daß die Kreise sich schneiden müssen.
+
+§. 38. Es sind zwei Linien gegeben, man soll ein gleich schenkligtes Dreieck beschreiben, wovon die Grundlinie der einen, und jeder Schenkel der andern gegebenen Linie gleich ist.
+
+Auch hier wird vorausgesetzt, daß immer zwei und zwei der gegebenen Linien gróz ßer sind als die dritte, wegen §. 34.
+
+Die Auflösung läßt sich nach §. 37 leicht finden.
+
+§. 39. Zwei Dreiecke sind congruent, wenn zwei Seiten des einen, zwei Seiten des andern und die Wine fel, welche diese Seite einschließen, gleich sind. Erläuterung des Lehrsages. Der Lehrsatz ſagt, wenn Fig. 41 in den Dreiecken ABC und DES, AB
+
+DE, BC = ES, und ABC
+
+DES; so ſollen die Dreiecke congruent und also auch die übrigen in ihnen befindlichen gleichliegenden
+
+[p. 240] Stücke gleich seyn. — Da zu einem jeden Dreiecke 6 Stücke (3 Seiten und 3 Winkel) gehören, und uns zwei Paar Seiten und ein Paar Winkel als gleich gegeben sind, so wird sich, wenn die Congruenz der Dreiecke dargethan seyn sollte, die Gleichheit der noch übrigen zwei Paar Winkel und des noch übrigen Paars Seiten daraus ergeben. Gleichliegende Seiten erhält man dadurch, daß man diejenigen nimmt, welche gleichen Winkeln gegenüber liegen, und so umgekehrt sind die Winkel gleich liegend, welche gleichen Seiten gegenüber lies gen.
+
+So würden in unſerm Fall, wenn dargethan ist, daß ABCDEF, gleichfalls ACB =
+
+DFE, BAC = EDF und AC = DF seyn.
+
+Wir können uns von der Congruenz der Figuren nur dadurch unmittelbar überzeugen, daß wir eine auf die andere legen, und sehen, ob ihre Grenzen zusammenfallen. Man lege also ▲ DES auf ▲ ABC, ſo daß D in A, und DE auf AB zu liegen kömmt, so fällt E in B, weil ABDE, und ES fällt auf BC, weil ABCDEF.
+
+Da nun ES
+
+BC, fällt F in C, und also DF auf AC, weil auch D in A
+
+Die Dreiecke sind also congruent, und nun sind auch alle die übrigen Stücke der Dreiecke gleich), von denen wir in der Erläuterung des Lehrſages gesprochen haben.
+
+3 us
+
+[p. 241] Auf eine ähnliche Weise läßt sich zeigen, daß jegliche zwei Figuren congruent sind, wenn in ihnen alle gleichliegenden Seiten und Winkel gleich sind, weil unter diesen Umständen die Figuren sich decken, wenn man sie auf einander legt.
+
+Auch ergiebt sich bald, daß eine Seite und die darin liegenden beiden Winkel unter den datis nicht zu seyn braucht, weil zwischen zwei Punkten nur eine gerade Linie möglich iſt, S. 40. In einem gleichschenkligten Dreieck sind die Winkel über der Grundlinie, und wenn man die Schen-
+
+." kel verlängert, auch die Winkel unter der Grundlinie gleich. Erläuterung des Lehrsages. In dem Dreiecke ABC Fig. 42 ſey AB == AC, so ist das Dreieck gleichſchenkligt, AB und AC ſind die Schenkel, BC ist die Grundlinie, ABC und ACB sind die Winkel über der Grundlinie, diese sollen zu Folge des Lehrfaßes gleich seyn, eben so auch die Winkel CBD und BCE unter der Grundlinie, die dadurch entstehen, daß man die Schenkel unter der Grundlinie nach D und E verlängert. Wir sollen beweisen, daß Winkel gleich sind, und zwar daraus, daß Linien gleich sind, dies ist nun dadurch möglich, daß wir zeigen diese Winkel liegen [p. 242] in congruenten Dreiecken den gegebenen gleichen Li' nien als Seiten gegenüber.
+
+Da wir solche congruente Dreiecke nicht haben, so müssen wir sie uns zu machen suchen.
+
+Dreiecke aber sind nach §. 39 congruent, wenn in ihnen zwei Seiten und der eins geschlossene Winkel gleich sind.
+
+AB ist
+
+AC es fehlen also nur noch ein Paar Seiten, diese erhält man dadurch, daß man von der Verlängerung der Schenkel zwei gleiche Stücke BD und CE (Fig. 43.) abſchneidet, denn nun ist
+
+AB + BD = AC + CE Man ziehe CD und BE.
+
+So erhält man zwei
+
+Dreiecke ACD und ABE, die nach §. 39 congruent
+
+Man folgere ſodann daraus, daß die noch übrigen 3 Stücke der Dreiecke gleich sind.
+
+sezt in den Stand nach §. 39 zu zeigen, daß ABCD ▲ BCE, hieraus ergiebt ſich, daß CBD = BCE, und also auch die Supplemente ABC = ACB nach Geometrische Form des Beweises. Th. ABC — ACB
+
+CBD
+
+BCE
+
+AB + BD
+
+AC + CE
+
+ACDABE
+
+[p. 243] Gründe nach S. 39. Folgerungen nach §. 39. ABCD A BCE Gründe nach §. 39.
+
+Ergo CBD ==BCE als Folgerung nach §. 39 und ABC
+
+ACB nach §, 24.
+
+S. 41. In einem gleichseitigen Dreieck sind alle drei
+
+Winkel gleich.
+
+Man nehme eine der Seiten als Grundlinie an, und betrachte das Dreieck als gleichschenkligt, so erhält man nach §. 40 die Gleichheit zweier Winkel, und so kann man mit allen drei Seiten verfahren. Es ist also ein gleichseitiges Dreieck eine reguläre Figur nach §. 28.
+
+§. 42. Lehrsas. Wenn in einem Dreieck zwei Winkel gleich sind, so ist das Dreieck gleichschenkligt, d. h. die den gleichen Winkeln gegenüber liegende Seiten sind gleich. Nach dem Lehrfaß soll Fig. 44 wenn ABC = ACB auch AB = AC.
+
+Der Beweis wird indirekt geführt, d. h. man zeigt, es widerstreitet die Annahme AB sey nicht
+
+AC einer ausgemachten
+
+[p. 244] Wahrheit.
+
+Ist AB nicht = AC, so ist entweder
+
+AC, oder AC
+
+AB.
+
+Es sey das erste, so schneide man von AB ein Stück DB = AC ab, und ziehe DC. So ist nach §. 39 welches unmöglich ist.
+
+DBC
+
+ABC,
+
+Auf einen gleichen Widerspruch stößt man, wenn man AC> AB annimmt, weil man dann eben so mit AC verfahren kann. Es muß also AB = AC ſeyn.
+
+S. 43. Ein Dreieck das drei gleiche Winkel hat ist gleichseitig.
+
+Der Beweis hat nach §. 42 keine Schwierigkeiten.
+
+S. 44. Zwei Dreiecke sind congruent, wenn in ihnen jede Seite des einen einer Seite des andern gleich ist.
+
+Fig. 45 ſey in den Dreiecken ABC und DES, AB = DE, AC = DF und BC = ES, ſo ſoll A ABC.ADES. Wüßte man von irgend einem Winkel des einen Dreiecks, daß er einem andern gleichliegenden im andern Dreieck gleich wäre, so wären nach §. 39 die Dreiecke congruent. Dies läßt sich aber darthun. Man lege DES an ABC, ſo daß E in B, C in F fällt, das Dreieck DES aber die entgegengeſetzte Lage erhält.
+
+Das dahin gelegte ◇ DES, werde durch
+
+[p. 245] BGC vorgestellt, so ist BG = DE = AB, CG = DF = AC. Man siehe AG, so ist nach §. 40 leicht dargethan, daß o + y = x + z. §. 39 daß Daraus folgt nach BGC☎ ◇ DES, —
+
+Sind die Dreiecke congruent, so sind auch die gleichliegenden Winkel gleich.
+
+S. 45. Einen gegebenen geradlinigten Winkel zu halbiren, d. h. in zwei gleiche Theile zu theilen. Der gegebene Winkel sen ABC Fig. 46.
+
+schneide von den Schenkeln die gleichen Stücke DB
+
+BE ab, ziehe DE, errichte darüber gleichschenkligte Dreieck DFE, worin DF - FE, und ziehe von F nach B die gerade Linie BF, so halbirt diese den Winkel. Man zeige nach §. 44, daß DBF
+
+EBF, so ergiebt sich daraus, daß DBF = EBF. §. 46. Eine gegebene gerade Linie zu halbiren. Die gegebene Linie sey BC Fig. 47.
+
+Man errichte über ihr das gleichschenkligte Dreieck ABC, und theile nach §. 45 BAC durch AD in zwei gleiz che Theile, so ist BD = DC,
+
+[p. 246] Man zeige nach §. 39 daß ▲ ABD
+
+▲ ADC, so ergiebt sich, daß BD = DC.
+
+S. 47. Aus einem gegebenen Punkt einer gegebenen geraden Linie auf diese eine senkrechte Linie zu er richten.
+
+Die Linie ſey AB Fig. 43, der Punkt C, man schneide CD =CE ab (sollte die Linie nicht lang genug seyn, so verlängere man sie) errichte über DE das gleichschenkligte Dreieck DFE, und ziehe
+
+FC, so ist dies die verlangte senkrechte Linie.
+
+FC ist senkrecht, wenn FCD = FCE, dies muß also gezeigt werden und geschieht dadurch, daß man beweiset
+
+FCDFCE.
+
+!
+
+S. 48+ Lehrfäße, deren Beweis sich aus dem vorhergehenden leicht ergiebt. 1. Eine. gerade Linie, die aus der Mitte der Grundlinie eines gleichschenkligten Dreiecks nach der Spike desselben gezogen worden, halbirt das gleichschenkligte Dreieck und den Winkel desselben an der Spitze, und steht auf der Grundlinie senkrecht. 2. Eine gerade Linie, die aus der Mitte einer Sehne, nach dem Mittelpunkt des Kreises gezogen [p. 247] worden, steht auf der Sehne senkrecht, und halbirt den Winkel des Ausschnitts. 3. Eine 1 gerade Linie, die den Winkel an der Spitze eines gleichschenkligten Dreiecks halbirt, halbirt das Dreieck selbst und seine Grundlinie, und steht auf der Grundlinie senkrecht.
+
+4. Eine gerade Linie, die den Winkel eines Ausschnitts halbirt, halbirt auch die zu dem Bogen des Ausschnitts gehörige
+
+Sehne, und steht auf ihr senkrecht. Die Beweise für diese 4 Säße wird man bald, finden, wenn man sich die dazu nöthigen Figuren zeichnet.
+
+§. 49. Wenn man aus der Mitte der Grundlinie eines gleichschenkligten Dreiecks eine senkrechte Linie auf dieselbe errichtet, so muß diese durch die Spitze des Dreiecks gehen.
+
+Das gleichschenkligte Dreieck sen ACB Fig. 49., D die Mitte der Grundlinie (also AD = DB) und die von D gezogene Linie senkrecht, so soll sie durch C gehen.
+
+Gesetzt sie ginge nicht durch C, wie DE, ſo ziehe man CD, dann ist nach §. 48, 1. CDA — R, da nun auch EDAR, ſo můßte CDA = EDA, welches unmöglich ist. S. 50. kehrsaß. Wenn man aus der Mitte einer Sehne eine senk [p. 248] rechte Linie auf derselben errichtet, und diese nach dem Mittelpunkt des Kreiſes zu verlängert, so geht sie durch den Mittelpunkt. Man zeichne sich die zum Lehrsaße gehörige Figur, siehe zwei Radien nach den Endpunkten der gezogenen Sehne, so wird man bald inne werden, daß §. 49 hier seine völlige Anwendung findet.
+
+S. 51. Erklärungen Der Winkel, der außerhalb einem Dreieck entz steht, wenn man eine Seite desselben verlängert, heißt ein äußerer; die im Dreieck befindlichen heis Den innere.
+
+Der innere Winkel, welcher der Nebenwinkel des äußern´ist, heißt der innere anliegende, die beiden andern heißen innere gegenüber liegende.
+
+Fig. 50 ist ACD der
+
+ACB der innere anliegende, und BAC äußere, und ABC ſind die innere gegenüberstehende Winkel. Auch die beiden innern gegenüber ſtehenden Winkel kann man noch von einander unterscheiden, der eine hat mit dem äußern Winkel einen Schenkel gemein, der andere nicht.
+
+BAC hat mit ACD den
+
+Schenkel AC gemein, ABC und ACD haben ganz verschiedene Schenkel.
+
+S. 52. Wenn man in einem Dreieck eine Seite verlängert, [p. 249] so ist der äußere Winkel größer als jeder der innern gegenüber stehenden. Vorbereitung zum Beweise,
+
+Fig. 50 sollen nach dem Lehrsatz ACD und ACD > ABC, Man sieht hieraus, daß man einen doppelten Beweis zu führen hat, einmal daß der äußere Winkel größer ist, als der innere, welcher mit ihm einen Schenkel gemein hat (ACD> BAC) und ſodann, daß der äußere Winkel größer ist, als der innere, welcher mit ihm keinen Schenkel gemein hat (ACD > ABC) .
+
+Um den ersten
+
+Beweis zu führen, theile man Fig. 51 den gemeinschaftlichen Schenkel AC in E in 2 gleiche Theile, ziehe BE, und verlängere ſie so lange, bis ES BE, dann ziehe´man CF.
+
+1. Th. ACD
+
+Dat. ergeben sich aus dem was man mit der Figur vorgenommen. Δ ECF Gründe nach §. 39 und §. 25. Δ ΑΕΒ
+
+ACF
+
+ACD
+
+ACF
+
+Ergo ACDBAC Um den Beweis zu führen, daß ACD — ABC, verlängere man AC nach G, Fig. 52.
+
+[p. 250] 2. Th. ACD > ABC
+
+BCG
+
+ABC nach dem ersten Theil des
+
+BCG
+
+ACD nach §. 25.
+
+Lehrsages,
+
+ABC.
+
+Ergo ACD
+
+S. 53.
+
+In einem jeden Dreieck ſind jegliche zwei Winkel kleiner als zwei rechte. Der Lehrſaß ſagt Fig.53. ſey o +y < 2R, 0 + x < 2R, x + 52 R. Man sieht leicht ein, daß wenn man den Beweis für einen dieser Säße gefunden hat, man ihn leicht auch für die übrigen beiden führen kann.
+
+Um zu zeigen o +y < 2R, verlängere man CD, so wird sich die Wahrheit des Satzes aus §. 20 und 52 leicht darthun laßen. Hieraus ergeben sich folgende Säße: Ein Dreieck kann nur einen rechten, so wie auch nur einen stumpfen Winkel, jedes
+
+Dreieck muß wenigstens zwei spitze Winkel haben. Ferner: Man kann aus einem Punkt auf eine gegebene gerade Linie, nur eine senkrechte Linie hers abfällen, denn sonst würde man ein Dreieck mit zwei rechten Winkeln erhalten.
+
+S. 54. Ein Dreieck heißt rechtwinkligt, wenn es
+
+[p. 251] Fig. 54.
+
+einen rechten Winkel hat.
+
+die den rechten Winkel bilden, (AB und BC) ,
+
+Die Seiten, heißen Catheten die dem rechten Winkel gegenüber liegende Seite (AC) heißt die Hypothenuse.
+
+Ein Dreieck heißt stumpfwinkligt, wenn es einen stumpfen Winkel hat.
+
+Fig. 55.
+
+Ein Dreieck heißt spißwinkligt, wenn es drei spitze Winkel hat.
+
+Fig. 56.
+
+Ein gleichseitiges Dreieck muß spigwinkligt seyn; warum? Die Winkel über der Grundlinie eines gleichschenkligten Dreiecks müſſen ſpitz seyn;
+
+aus wels chem Grunde?
+
+S. 55. Erster Lehrfaß. In einem jeden Dreieck steht der größere Winkel der größeren Seite gegenüber.
+
+AB, ſo ſoll ABC > ACB.
+
+Fig. 57. sen AC Da AC → AB, so mache man AD = AB und ziehe DB. Th. ABC → ACB
+
+= AD
+
+ABD = ADB nach §. 40.
+
+ADB
+
+ACB nach §. 52.
+
+ABD > ACB
+
+ABD
+
+Ergo ABC
+
+[p. 252] Zweiter Lehrfaß. In einem jeden Dreieck steht die größere Seite dem größern Winkel gegenüber. Fig. 58.
+
+AB.
+
+Wenn ABC sind, Es sind
+
+ACB, ſo ſoll AC wenn man AC mit AB vergleicht, nur drei Fälle möglich, entweder AC = AB, oder AB oder AC
+
+AB;
+
+das erste widerspricht der Voraussetzung nach §. 40, das zweite nach dem vorhergehenden Lehrsaß, alſo muß AC > AB seyn. Hieraus erhellet, daß in einem rechtwinklichten
+
+Dreieck die Hypothenuse größer ist, als jede Cathete; so auch, Seite, daß im ſtumpfwinklichten Dreieck, die dem stumpfen
+
+Winkel gegenüber steht, die größte ist. Die senkrechte Linie ist die kürzeste unter allen möglichen Linien, die man von einem Punkte nach einer geraden Linie ziehen kann;
+
+denn jede andere ist immer die Hypothenuſe, die senkrechte Linie aber die Cathete.
+
+bedienet daher derselben zur Bestimmung der Entfernung eines Punkts von einer geraden Linie. S. 56.
+
+Erster Lehrfaß. Wenn in zweien Dreiecken zwei Seiten gleich, der Winkel aber, gleich ist, den die Seiten einschließen, so ist auch die Seite größer, größern Winkel gegenübersteht.
+
+undie dem
+
+[p. 253] In den beiden Dreiecken ABC und DES Fig. 59. sey ABDE, ACDF, EDF > BAC, ſo soll auch EFBC. Man lege
+
+DES so auf
+
+ABC, daß D in A, und DE auf AB zu liegen kommt, so wird DF in AG, und ES in BG fallen, und ABG
+
+DES seyn; BG also = ES. Nun kann man BC, wenn nach §. 55, Lehrs. 2. zeigen, daß BG man ▲ AGC und §. 40 zu Hülfe nimmt. Zweiter Lehrsaß. Wenn in zweien Dreiecken zwei Seiten gleich, die dritten Seiten aber ungleich sind, so steht auch der größern Seite der größere Winkel gegenüber. Fig. 60. sey AB = DE,
+
+ACDF,
+
+BC, ſo ſoll EDF > BAC.
+
+und ES
+
+Man zähle alle 3
+
+Fälle auf, die statt finden können, wenn man EDF und BAC ihrer Größe nach mit einander vergleicht und man wird finden, daß zwei davon auf Widersprüche führen, der eine durch §. 39 und der andere durch den vorhergehenden Lehrsaß, EDF daß also
+
+BAC,
+
+$. 57. In einem jeden Dreieck sind jegliche zwei Seiten größer als die dritte. In dem Dreiecke ABC Fig. 61. ſoll AB + AC BC, ABBC
+
+AC und AC + BC [p. 254] seyn.
+
+Man sieht leicht ein, daß die Beweise für jeden der drei Säße auf gleiche Weiſe geführt werden. Wir nehmen daher nur den Saß: AB + ACBC. um ihn zu beweisen, verlängere man AB über A hinaus, ſo daß AD = AC, (dann ist also. DB = AB ÷ AC) und ziehe DC. Jetzt muß man zeigen, daß DCB BDC, dann ist nach §. 56 DB > BC. Man findet aber nach §. 40 bald, daß DCBBDC. $. 58.
+
+Ein Dreieck zu beschreiben, das mit einem gegebenen congruent sey. Die Auflöſung läßt sich nach §. 37 finden; die Kreise sich schneiden, erhellet aus §. 57, den Beweis für die Richtigkeit der Auflöſung giebt S. 44.
+
+Zusatz. Diese Auflösung setzt uns in den Stand, wenn uns irgend eine geradlinigte Figur gegeben worden, eine andere zu machen, die mit ihr congruent ist;
+
+denn man darf die Figur nur durch lauter ſich nicht schneidende Diagonalen in Dreiecke theilen, so kann man aus dieſen nach §. 58 die gegebene Figur nach und nach zuſammen ſetzen.
+
+$. 59. Einen Winkel zu machen, gleich sey.
+
+der einem gegebenen
+
+[p. 255] Man schneide von den Schenkeln des Winkels zwei beliebige Stücke ab, verbinde die Endpunkte derselben durch eine gerade Linie, so erhält man ein Dreieck, und nun verfahre man nach §. 58.
+
+S. 60. Lehrfah. Keine gerade Linie kann den Kreis in mehr als zwei Punkten schneiden. Gesetzt AB Fig. 62. schnitte den Kreis außer in A und B noch in D, ſo iſt AC = CB = CD, weil ſie Radien.
+
+Dann wäre ox, weil CB = CD,
+
+10 >y nach §. 52, also auch xy, da aber
+
+AC = CD, ſo muß x = y+
+
+S. 61. Aus einem Punkt außerhalb einer geraden Linie eine senkrechte Linie auf diese herabzufällen.
+
+Die Linie ſey AB Fig. 63. der Punkt C, nehme auf der entgegengesetzten Seite der gegebenen Linie den Punkt F an, Kreis, dieser wird AB, beschreibe mit CF einen die man, wenn es nöthig ist, verlängern kann, nach §. 60 in zwei Punkten D und E schneiden.
+
+Man ziche CD und CE, halbire DCE durch CG, so steht CG auf AB senkrecht. Die Richtigkeit der Auflöſung erhellet aus §. 48, 3.
+
+[p. 256] S. 62. Wenu in zwei Dreiecken zwei Seiten und ein Winkel gleich ist, der gleiche Winkel aber nicht von den gleichen Seiten eingeschlossen ist, hingegen die größern Seiten dem gleichen Winkel gegenüber lies gen, so sind die Dreiecke congruent.
+
+In den Dreiecken ABC und DES Fig. 64. , sey AB = DE, AC = DF, ABC = DES, AC AB und also auch DF > DE, so soll
+
+DES.
+
+Um die Wahrheit dieses Satzes darzuthun, darf man nur zeigen, daß unter den gegebenen Bedingungen BC = ES ſeyn muß, denn folgt aus §. 44 die Congruenz der Dreiecke. zu dem Ende
+
+Man lege
+
+DES ſo auf ▲ ABC, daß E in B, und DE auf AB fällt, so fällt ES auf BC, `weil ABCDEF; und D in A, weil AB
+
+DE. Nun muß der Punkt F in C fallen, denn geſetzt es fiele F nicht in C, so fällt er (weil ES auf BC liegt) entweder in BC oder in ihrer Verlängerung;
+
+weder das eine, noch das andere kann seyn.
+
+BC kann er nicht fallen, denn dies ſey z. B. in G, so ziehe man
+
+AG;
+
+dann ist
+
+ABG
+
+DES;
+
+folglich AG = DF = AC; und alſo AGC = ACB (S. 40) , und da AGC > ABC §. 52, ſo ist auch
+
+ABC, und also AB
+
+AC, 'welches der
+
+Voraussetzung, daß AG > AB widerspricht. dieselbe Weise läßt sich zeigen,
+
+Auf daß F nicht in der
+
+Vers
+
+[p. 257] Es muß also
+
+Verlängerung von BC fallen kann.
+
+F in C fallen, d. h. BC = ES, und also ▲ ABC☎
+
+A DES seyn. Aus §. 62 ergeben sich folgende Säße leicht: I+ Zwei rechtwinkligte Dreiecke sind congruent, wenn in ihnen die Hypothenusen und ein Paar Catheten gleich sind.
+
+2+
+
+Stumpfwinkligte Dreiecke sind congruent, wenn in ihnen die stumpfen Winkel, die Seiten, die den stumpfen Winkeln gegenüber stehen und ein Paar von den Seiten gleich sind, fel bilden.
+
+die den stumpfen Win-
+
+S. 63. Lehrfäße.
+
+Wenn man schenkligten Dreiecks Grundlinie fällt, Spitze,
+
+Spitze eines gleicheine senkrechte Linie auf die so theilt diese den Winkel an der die Grundlinie und das Dreieck selbst in zwei gleiche Theile.
+
+Wenn man vom Mittelpunkt eines Kreises eine senkrechte Linie auf eine Sehne fällt, theilt diese die Sehne in zwei gleiche Theile, wie auch den Winkel des Ausschnitts, wozu die Sehne gehört.
+
+Der Beweis beider Säße ergiebt sich aus §. 62, 1. Folgesat.
+
+§. 64. Zwei Dreiecke sind congruent, wenn in ihnen ein Paar
+
+Seiten und zwei gleichliegende Winkel gleich sind.
+
+Fig. 64. sollen in den Dreiecken ABC und DES, AB = DE und überdies zwei gleichliegende Winkel gleich seyn.
+
+In Rücksicht der Winkel finden zwei
+
+Fälle statt, entweder beide liegen an der gegebenen gleichen Seite oder nur einer derselben liegt daran. Data für den ersten Fall:
+
+ABC = DES EDF
+
+Data für den zweiten Fall:
+
+ABC = DES
+
+DFE
+
+Kann man zeigen, daß in beiden Fällen BC = ES ſeyn muß, ſo ſind in beiden Fällen, nach §. 39, die Dreiecke congruent.
+
+Gesetzt BC sey nicht =
+
+ES, so ist entweder BC
+
+ES oder BCEF, Wä-
+
+ES, re BC BG
+
+ES ab, so schneide man von BC ein Stück und ziehe AG.
+
+So ist nach §. 39
+
+ABAGADEF, und also wenn die ersten Data statt finden BAG = EDF = BAC, möglich ist;
+
+welches unoder wenn die zweiten Data ſtatt finden, so ist AGB = DFE möglich ist, weil AGB
+
+ACB, welches un-
+
+ACB.
+
+Auf dieselbe Weiſe läßt sich zeigen, daß BC nicht ES, also muß BC
+
+ADES seyn.
+
+ES;
+
+d. h.
+
+[p. 259] Um die Congruenz zweier rechtwinkligten Dreiecké darzuthun, braucht man also blos zu zeigen, daß in ihnen ein Paar Seiten und ein Paar gleich liegende spitze Winkel gleich sind.
+
+$. 65. Gerade Linien, die in einer Ebene liegen, heißen parallel oder gleichlaufend, wenn man sie auf beiden Seiten bis ins Unendliche verlängern kann, ohne daß sie zuſammenstoßen.
+
+Fig. 65.
+
+Das Zeichen für das Parallelſein ist ‡ Fig. 65. ist AB
+
+CD.
+
+Wenn zwei gerade Linien durch eine dritte geschnitten werden, so nennt man die Winkel, die das durch entstehen und innerhalb den beiden geschnirtenen Linien liegen, innere Winkel.
+
+Fig. 65. y, z, t, u; die außerhalb liegen, heißen äußere Winkel, x, m, n.
+
+Sowohl äußern als innern
+
+Winkel, sind entweder auf einer Seite liegende, oder Wechſelwinkel.
+
+y unde, ferner z und u, ſind innere auf einer Seite liegende Winkel; o und m, x und ŉ äußere auf einer Seite liegende Winkel.
+
+sind innere Wechselwinkel, und u, so auch z und o und n, x und m sind äußere Wechſelwinkel Endlich hat man auch äußere und innere entgegenfeßte Winkel o und e, x und u, m und y, n und z. §. 66. Man sieht leicht ein, daß das §. 65 angegebene
+
+[p. 260] Kennzeichen der Parallellinien an sich nicht unmittelbar gebraucht werden kann, um das Parallelſein der Linien zu erkennen; daher muß man aus dieser Erabzuleiten suchen;
+
+klärung bequemere Kennzeichen und diese sind in folgenden Lehrſäßen enthalten:
+
+Zwei gerade Linien sind parallel, wenn ſie von einer dritten geschnitten werden, und zwei innere auf einer Seite liegende Winkel sind = 2R. Th. ABCD Fig. 65.
+
+z + u = 2 R.
+
+Unter diesen
+
+Umständen können und CD nicht nach der Seite von B und D zuſammenlaufen, denn sonst würde hier ein Dreieck entstehen, in welchem zwei Wiukel, S. 53 widerspricht.
+
+z und u = 2R, welches
+
+Auch nach der Seite von
+
+A und C können sie nicht zuſammen laufen, denn da r+z= 2R t+u= 2R r + e + c + u = 4R
+
+Z+u= 2R ~ + 1 = 2R so würde dort y + t = 2R, spricht.
+
+Dreieck entstehen, welches gleichfalls in dem
+
+§. 53 wider-
+
+Also ist AB ‡ CD. Zwei gerade Linien sind parallel, wenn ſie von einer dritten geschnitten werden, und zwei äuBere auf einer Seite liegende Winkel sind = 2 R.
+
+[p. 261] Es sey x + n = 2R, ſo iſt x + z = 2 R, und u + n = 2 R, also x + z + u + n = 4R, x + n = 2R und da so ist zu = 2R also nach 1. AB ‡ CD,
+
+Zwei gerade Linien sind parallel, wenn ſie von einer dritten geschnitten werden, und ein äußerer Winkel ist gleich dem ihm entgegengesetzten innern. Th. ABCD x + z = 2R x = U z + u = 2 R alſo AB
+
+CD nach 1.
+
+Zwei gerade Linien, die von einer dritten geschnitten werden, sind parallel, wenn zwei innere Wechſelwinkel gleich sind. Th. ABCD D. J y +z =
+
+2R z + u = 2R
+
+Ergo ABCD nach 1.
+
+Zwei gerade Linien, die von einer dritten geschnitten werden, sind parallel, wenn zwei äußere Wechselwinkel gleich ſind.
+
+[p. 262] Th. ABCD D. 0 = n t
+
+#### §. 25.
+
+Ergo ABCD nach 3.
+
+S. 67. Es ist eine gerade Linie und ein Punkt außerhalb derselben gegeben, man ſoll durch diesen Punkt eine Linie mit ihr parallel ziehen.
+
+Die Linie ſey DE Fig. 66. , der Punkt C, man ziehe von C nach DE eine gerade Linie CF, trage den Winkel CFD in C auf der entgegengesetzten Seite von CF, so daß BCF = CFD, und verlängere BC nach A, so ist AB
+
+DE zu Folge
+
+§. 66, 4. S. 68.
+
+Der S. 66 vorgetragene Lehrsaß kann umgekehrt werden, und dann heißt er: Wenn zwei Parallellinien von einer dritten geschnitten werden, so ſind die beiden innern auf einer Seite liegenden Winkel, gleich zwei "rechten. Die Logik lehrt, daß man keinen allgemein bejahenden Satz ohne Beweis rein umkehren kann, und dies ist hier der Fall, wir wers den also hier eines Beweises bedürfen. -
+
+Aus dem
+
+[p. 263] Merkmal des Parallelseyns zweier Linien direkte den Beweis zu führen, daß die auf einer Seite liegenden Winkel zwei rechten Winkeln gleich sind, deshalb nicht möglich seyn, weil die unendliche Verlängerung der Linien, ohne daß sie zuſammenlaufen, keine Conſtruktion (anschauliche Darstellung) zuläßt, man wird also einen indirekten Beweis führen müſsen, d. h. man wird zeigen müssen, daß wenn die auf einer Seite liegenden Winkel nicht zwei rechten Winkeln gleich sind, die Linien auch nicht parallel seyn können, d. h. zusammenlaufen müssen.
+
+Daher schickt man diesem genannten Lehrſaß folgenden Saß voraus: Wenn zwei gerade Linien von einer dritten geschnitten werden, und die auf einer Seite liegenden innern Winkel sind kleiner als zwei rechte, laufen die Linien nach dieser Seite zusammen.
+
+Euklides stellte diesen Saß als Grundſatz auf, was er freilich nicht ist, aber man hat bis jetzt vergeblich einen befriedigenden Beweis für denselben gesucht, ob gleich niemand die Wahrheit desselben in Zweifel zieht.
+
+Zur Erläuterung mag folgendes dienen.
+
+Fig.
+
+67 werden AB und CD gegeben, die durch ES in G und H geschnitten werden BGH + GHD < 2R, ſo ſollen nun AB und CD nach der Gegend von B und D zuſammenlaufen. Man ziehe GI, welches HD in I schneidet; der Winkel HGI ist aber ➡ BGH, und HGI + GHD
+
+2 R nach §. 53, man ziehe GK, so ist in dem Dreiecke HGK, HGK + GHD
+
+2R aber HGK nähert sich HGB schon mehr als HGI, [p. 264] so kann man nun GH und den Winkel HGK un verändert laßen, vergrößern, die Seite HI aber immer mehr da man HD bis ins Unendliche verlängern kann, so wird der Winkel bei G in dem erhaltenen Dreieck immer wachsen, und also auch dem gegebenen Winkel BGH gleich gemacht werden können, wo alsdenn die gezogene Linie mit GB zuſammen fällt, und diese also HD schneidet. Nimmt man den Saß: Wenn zwei gerade Linien von einer dritten geschnitten werden, und die beiden innern auf einer Seite liegende Winkel ſind kleiner als zwei rechte, so laufen die Linien auf dieser Seite zuſammen, als wahr an, so ist der obige Lehrſaß:
+
+Wenn zwei Parallellinien von einer dritten geschnitten werden, so sind die auf einer Seite liegenden innern Winkel gleich 2 R, leicht auf folgende Art bewiesen.
+
+Gesetzt die auf einer
+
+Seite liegenden innern Winkel wären nicht zwei rechten Winkeln gleich, so sind sie entweder kleiner, Linien auf dieser dann würden aber die Seite zusammenlaufen, oder ſie ſind größer, denn sind die auf der andern Seite liegenden innern Winkel < 2R (ein Saß, deſſen Beweiß man leicht findet) , und dann würden die Linien dort zusammenlaufen.
+
+S. 69. Aus dem vorhergehenden Lehrsaß, ergeben sich folgende Säße leicht: Wenn zwei Parallellinien von einer dritten geschnitten werden, ſo ſind die beiden äußern auf einer [p. 265] Seite liegenden Winkel = 2R, der äußere Winkel ist gleich dem innern gegenüberstehenden, und die äußern und innern Wechſelwinkel sind einander gleich. §. 66 kann dazu dienen, die Beweise aller dieser Säße sehr leicht zu finden.
+
+S. 70* Wenn zwei gerade Linien mit einer dritten parallel sind, so sind sie auch unter einander parallel. Wenn Fig. 68 soll AB
+
+ES.
+
+ABCD und ES
+
+CD,
+
+Man schneide alle 3 Linien, man nöthigen Falls verlängern kann, durch eine andere GH.
+
+So ist o = x, weil AB + CD, xy, weil CD + ES, lich AB also oy, und folg
+
+ES.
+
+Auf dieselbe Weise wird daß ABCD, wenn AB der Beweis geführt,
+
+ES und CD + ES.
+
+S. 71. Wenn man in einem Dreieck eine Seite verlängert, so ist der äußere Winkel gleich den beiden innern ihm gegenüberstehenden zusammengenommen.
+
+Fig. 69 ſoll ACD = BAC + ABC. Man ziehe CE + AB, so wird man finden, daß der äußere in zwei Theile getheilt wird, deren jeder Theil einem der innern ihm gegenüberstehenden Winkel gleich iſt, [p. 266] nach §. 69. Man muß nämlich einmal BD und sodann AC als schneidende Linie betrachten. Folgefaß. Wenn man in einem Dreieck eine Seite verlângert, so ist der äußere Winkel weniger dem einen innern gegenüber stehenden Winkel gleich dem andern gegenüber stehenden.
+
+S. 72. In einem jeden Dreieck sind alle drei Winkel zufammengenommen zwei rechten gleich.
+
+Fig. 70 follo + x + y = 2R, man verlängere eine Seite des Dreiecks, so wird man nach §. 20 und 71 den Beweis leicht finden.
+
+S. 73. 1. Wenn man die Summe zweier Winkel eines Dreiecks kennt, so kennt man auch den dritten. Wie groß ist derselbe? 2. Wenn in zweien Dreiecken zwei Winkel gleich ſind, so sind alle Winkel gleich. 3. Im gleichschenkligten Dreieck ist der äußere Winkel an der Spitze doppelt so groß, jeder
+
+Winkel an der Grundlinie.
+
+4. In einem gleichschenkligten und rechtwinkligten Dreieck iſt jeder der ſpitzen Winkel = 2 1R. 5. Wie groß ist jeder Winkel eines gleichseitigen Dreiecks?
+
+[p. 267] S. 74.
+
+einem jeden Vieleck ist die Summe aller
+
+Winkel gleich so viel rechten Winkeln als die Anzahl der Seiten doppelt genommen, weniger 4 R. Beweis. (nehme innerhalb der Figur einen Punkt an, und ziehe nach den Ecken der Figur gerade Linien, so erhält man so viel Dreiecke, als es Seiten in der Figur giebt.
+
+Hat die Figur ŉ Seiten, so erhält man n Dreiecke.
+
+Die Winkel aller dieser Dreiecke sind gleich 2n rechten Winkeln. Die Winkel des Vielecks aber sind den Winkeln des Dreiecks völlig gleich, die abgerechnet, die sich um den angenommenen Punkt befinden; dieſe sind aber nach §. 22 4 R., also ſind die Winkel des Polygons = 2n4 rechten Winkel,
+
+Wie groß sind alle Winkel eines Vierecks? eines Sechsecks? eines Achtecks? eines Zwölfecks? Wie groß ist jeder Winkel eines regulären Vierecks? eines regulären Sechsecks? u. s. w.
+
+Jeder Winkel einer regulären geradlinigten Fi2n - 4 gur von n Seiten ist = 24R. Da nun
+
+= (22 n — 4) R = (2—4) R, so sieht man bald ein, daß je größer n wird, desto kleiner wird 4R, und wiederum desto größer 2—4R, d. h. je größer die Ann zahl der Seiten einer regulären Figur ist, desto gröBer ist jeder Winkel derselben.
+
+[p. 268] Jeder Winkel einer regulären Figur muß hohler seyn, warum?
+
+S. 75. Ein Viereck heißt ein Parallelogramm, wenn darin jede zwei einander gegenüber stehende Seiten parallel sind. Fig. 71. Ein Viereck heißt ein Trapezium, wenn darin nur zwei einander gegenüberstehende Seiten parallel sind. Fig. 72. Ein Viereck heißt ein Trapezoides, wenn darin keine Seite der andern parallel iſt. Fig. 73. Man pflegt ein Viereck mit den beiden Buchſtaben zu benennen, die sich an den entgegengesetzten Winkelspißen befinden; so heißt das Parallelogramm Fig. 71 AD.
+
+Nur nimmt man gern solche Winkelspißen, die durch keine gerade Linie verbunden sind, weil sonst Zweideutigkeit statt findet.
+
+§. 76. In einem Parallelogramm ſind die gegenüberstehenden Seiten und Winkel gleich.
+
+Fig. 71 soll ABCD, ACBD, CAB = CDB, und ACD = ABD, weil AB ‡
+
+ACBD.
+
+CD und
+
+Man ziehe die Diagonale BC, so wird man nach §. 69 und §. 64 darthun können, daß O
+
+BCD, woraus des Lehrsages ergiebt.
+
+sich denn die Wahrheit
+
+[p. 269] 1. Man kann den ersten Theil des Lehrsatzes auch so ausdrücken, Parallellinien zwischen Parallellinien sind einander gleich. 2. In einem jeden Parallelogramm müssen also wenigstens die gegenüber ſtehenden Seiten gleich seyn. 3. Die Diagonale theilt das Parallelogramm in zwei congruente Dreiecke.
+
+§. 77. Erklärungen Ein Parallelogramm mit 4 gleichen Seiten undrechten Winkeln heißt ein Quadrat. Fig. 74. Dies ist nach §. 28 das reguläre Viereck. Ein Parallelogramm mit 4 gleichen Seiten und schiefen Winkeln, heißt eine Raute oder ein Rhombus. Fig. 75.
+
+Ein Parallelogramm mit gegenüber ſtehenden gleichen Seiten und rechten Winkeln, heißt ein Rechteck oder ein Rectangulum. Fig. 76. Ein Parallelogramm mit gegenüber stehenden gleichen Seiten und schiefen Winkeln, heißt eine länglichte Raute oder ein Rhomboides. Fig. 77+
+
+S. 78. Wenn in einem Parallelogramm ein Winkel ein rechter ist, so sind die übrigen 3 auch rechte Winkel. Der Beweis folgt aus §. 68.
+
+S. 79+ Wenn in einem Viereck die gegenüber stehenden Seiten gleich sind, so ist das Viereck ein Parallelogramm. Wenn Fig. 71 ABCD, ACBD, so soll ABCD, und AC ‡ BD.
+
+Man ziehe die Diagoz.
+
+nale BC, so findet man nach §. 44 und §. 66, 4. den Beweis.
+
+S. 80. 1. Lehrsak. Wenn in einem Viereck die gegenüber stehenden Winkel gleich sind, so ist das Viereck ein Parallelogramm. Nach §. 74 sind alle 4 Winkel des Vierecks = 4R. Hieraus und aus den datis folgt nach §. 66. 1. die Wahrheit des Lehrsages. 2. Lehrsag.
+
+Wenn in einem Viereck zwei Seiten gleich und parallel sind, so ist das Viereck ein Parallelogramm. Man ziehe die Diagonale, so wird sich nach §. 39 die Congruenz der Dreiecke und daraus nach §. 66, 4. das Parallelsein der beiden andern Seiten beweisen Laßen.
+
+S. 81. Parallellinien sind einander entfernt.
+
+allenthalben gleich weit von
+
+[p. 271] Die Entfernung eines Punkts der einen Parallellinie von der andern, findet man nach §. 56 durch die senkrechte Linie, die man von diesem Punkt auf die andere herabfällt.
+
+Wo man auch zwei solcher
+
+Linien zieht, sind sie einander ‡ , und also nach §. 76 S. 82. Zwei Quadrate in denen eine Seite gleich ist, sind congruent.
+
+Man führt den Beweis dadurch, daß man zeigt, wenn man das eine Quadrat auf das andere legt, so decken sie sich.
+
+Daß congruente Quadrate gleiche Seiten haben, versteht sich von selbst. S. 83.
+
+Zwei Rechtecke sind congruent, wenn in ihnen die Seiten gleich sind, die den rechten Winkel einz Auch diesen Lehrsaß beweist man durchs Aufeinanderlegen.
+
+$. 84. Zwei Rauten sind congruent, wenn in ihnen eine Seite und ein Winkel gleich ist.
+
+[p. 272] In der Raute sind nach §. 76 von den 4 ſchiefen Winkeln immer zwei und zwei gegenüber ſtehende einander gleich. Man zeige also zuvörderst nach §. 66. I., daß wenn einer der Winkel der beiden Rauten gleich ist, alle gleich seyn müſſen; und lege sodann die Rauten aufeinander, ſo wird ſich zeigen, daß ſie sich decken.
+
+§. 85. Zwei länglichte Rauten sind congruent, wenn in ihnen zwei Seiten und der eingeschlossene Winkel gleich sind. Der Beweis wird wie §. 84 geführt.
+
+Man kann alle von §. 84 an vorgetragene Säße in folgendem allgemeinen Saß zuſammen faſſen: Zwei Parallelogramme sind congruent, wenn in ihnen zwei Seiten und der eingeschlossene Winkel gleich sind. S. 86. Zwei Vierecke sind congruent, wenn in ihnen drei Seiten und die von diesen eingeschlossenen Winkel gleich sind. Die Vierecke decken sich unter diesen Umständen; vergleiche §. 39. Zusatz.
+
+#### §. 87.
+
+[p. 273] S. 87. Aufgaben. Auflösung folgender Aufgaben
+
+Man wird die leicht finden.
+
+1. Es ist eine Linie gegeben, man soll ein Quadrat beschreiben, was diese Linie zur Seite hat.
+
+2. Es ist eine Linie und ein schiefer Winkel gegeben, man soll eine Raute beſchreiben, worin der gegebene Winkel sich findet und welches die gegebene Linie zur Seite hat. 3. Es sind zwei Linien gegeben, man soll ein
+
+Rechteck beschreiben, worin die gegebenen Linien sich als Seiten befinden. 4. Es sind zwei Linien und ein schiefer Winkel gegeben, man ſoll eine länglichte Raute beschreiben, worin diese gegebenen Stücke sich finden 5. Man soll ein Quadrat, Rechteck, Rhombus, Rhomboides, oder Viereck überhaupt verzeichnen, das einem gegebenen gleich ist.
+
+S. 88. Zwei Parallelogramme, die einerlei Grundlinien haben und zwiſchen einerlei Parallellinien liegen ſind einander gleich. In Rücksicht der Lage der beiden Parallelogramme finden zwei Fälle statt;
+
+entweder die der gemeins
+
+ſchaftlichen Gründlinie gegenüber stehende Seiten fallen zum Theil aufeinander wie Fig. 78. a, oder ganz [p. 274] außereinander wie Fig. 78. b.
+
+Im ersten Fall läßt
+
+ſich leicht zeigen, daß ◇ HIM & ◇ KLN, woraus, wenn man zu beiden das Trapezium IKMN setzt, die Gleichheit der Parallelogramme ſich ergiebt. Im zweiten Fall ist nach §. 39
+
+ABE
+
+CDF, wo blos das Finden des zweiten Paars der Seiten einige Schwierigkeit machen kann, erhält ſie, wenn man zu AC ſowohl als zu ES, welche beide gleich sind, CE setzt.
+
+Nun nehme man von beiden
+
+▲ CEG weg und ſeße OBGD hinzu, ſo iſt der Lehrsag bewiesen.
+
+$. 89. Zwei Parallelogramme, die gleiche Grundlinien haben und zwiſchen einerlei Parallelinien liegen, ſind einander gleich.
+
+Fig. 79 soll ADEH, weil CD = GH, Man ziehe EC und FD, welche nach 80. 2. ‡ sind, so ist nach §. 88 AD =ED und ED = EH, alſo AD = EH.
+
+$. go. Zwei Dreiecke, die einerlei Grundlinien haben und zwischen einerlei Parallellinien liegen sind einander gleich. Man ergänze die beiden Dreiecke zu Parallelos grammen, von denen sie also die Hälften ſind. Diese
+
+[p. 275] Parallelogramme ſind nach §. 88 einander gleich, also auch die Dreiecke die ihre Hälften ſind.
+
+S. 91. Zwei Dreiecke, die gleiche Grundlinien haben und zwischen einerlei Parallelinien liegen, sind einander
+
+Der Beweis wird wie beim vorhergehenden Lehrfaß aber nach §. 89 geführt. Es fällt in die Augen, daß man nach S. 81 in den vier vorhergehenden Lehrsäßen und so auch in der Folge statt des Ausdrucks, zwischen eiz nerlei Parallellinien liegen, den Ausdruck einerlei oder gleiche Höhe haben, brauchen kann.
+
+S. 92. Ein Dreieck ist halb so groß als ein Parallelogramm, das mit ihm einerlei oder gleiche Grundlinie und Höhe hat. Der Beweis ist leicht zu finden.
+
+§. 93. Wenn man in einem Parallelogramm eine Seite in zwei gleiche Theile theilt, und aus dem Theilungspunkte mit einer Seite des Parallelogramms, welche mit der getheilten
+
+Seite einen Winkel einschließt, eine Parallellinie zieht, so theilt diese das Parallelogramm in zwei congruente Parallelogramme.
+
+[p. 276] Der Beweis läßt sich nach der Anmerkung zu §. 85 leicht führen.
+
+§. 94. Ein Dreieck iſt einem Parallelogramm gleich, das mit ihm einerlei Höhe hat, und deſſen Grundlinie halb so groß als die Grundlinie des Dreiecks ist, und umgekehrt ist ein Parallelogramm einem Dreieck gleich, das mit ihm gleiche Höhe hat und deſſen Grundlinie noch einmal so groß als die Grundlinie des Parallelogramms ist.
+
+Den Beweis zu finden kann nicht schwer seyn.
+
+$. 95, Wenn man durch die Mitte der Diagonallinie eines Parallelogramms eine Linie mit einer der Seiten parallel zieht, so wird dadurch das Parallelogramm in zwei congruente Parallelogramme getheilt.
+
+Wenn Fig. 80 in BC, AE - ED und FG ‡ AC BD, so ist FC zeigen, daß ▲ AEF
+
+BG.
+
+Es läßt sich nach §. 64
+
+EGD, und alſo AF = GD, und nun läßt sich nach §. 93 die Wahrheit des Lehrfaßes ableiten.
+
+§. 96. Wenn man durch einen Punkt in der Diagonallinie eines Parallelogramms mit den Seiten deffels [p. 277] den zwei parallele Linien zieht, so erhält man 4 Parallelogramme, wovon diejenigen, durch welche die Diagonale nicht geht, und die man Ergänzungen an der Diagonale nennt, gleich ſind.
+
+Fig. 81 fen CB ein Parallelogramm, AD die Diagonale, E ein Punkt in derselben, man ziehe FG AB ‡ CD, und HI ‡ AC ‡ BD, so erhellt, daß FH, HG, FI, und GI Parallelogramme sind, von diesen soll HG ==FI seyn. und ▲ AFE
+
+Da ▲ ACD
+
+ABD,
+
+◇ AEH, wie auch ◇ EID☎ ◊ EGD, so wird sich aus diesen Säßen nach §. 16. Grundſatz 3. der Beweis leicht ableiten laßen.
+
+§. 97* Die Wahrheit folgender Säße wird leicht eingesehen, sobald man die dazu gehörigen Figuren zeichnet: 1) Wenn man eine gerade Linie in zwei Theile theilt, so ſind die Rechtecke, die zwischen den Theilen und der ganzen Linie enthalten sind, so groß als das Quadrat der ganzen Linie. 2) Wenn man eine gerade Linie in zwei Theile theilt, so besteht das Quadrat der ganzen Linie aus den Quadraten der beiden Theile und dem doppelten Rechtecke, das zwischen den beiden Theilen enthalten ist.
+
+S. 98. Eine Figur verwandeln heißt eine andere Figur machen, die der ersten gleich ist, ohne mit ihr congruent zu seyn.
+
+[p. 278] Man soll ein Parallelogramm in ein anderes verwandeln, das einen gegebenen Winkel hat.
+
+Die Auflösung ergiebt sich aus §. 68. Die Aufgabe ein schiefwinklichtes Parallelogramm in ein rechtwinklichtes zu verwandeln ist in der vorhergehenden enthalten. Man soll ein Dreieck in ein anderes verwandeln, das einen gegebenen Winkel hat. Die Auflösung ergiebt sich aus §. 90. Man kann also jedes Dreieck in ein rechtwinklichtes verwandeln.
+
+Man soll ein Dreieck in ein Parallelogramm verwandeln, das einen gegebenen Winkel hat. S. 94 giebt die Auflösung an die Hand. Man soll ein Parallelogramm in ein Dreieck vers wandeln, das einen gegebenen Winkel hat. Die Auflösung ergiebt sich aus §. 94. $. 99+ Ein Parallelogramm in ein anderes zu verwandeln, das eine gegebene Seite hat.
+
+Figur 82 fer AD das gegebene Parallelogramm und FG die gegebene Seite.
+
+Man verlängere AB, und mache BE = FG, ziehe ED, und verlängere ſie wie auch AC, bis sie sich in I schneiden (schneiden messen sie sich, denn weil BDE ein Dreieck ist, so it DBE
+
+DEB
+
+2 R, und da BD ‡ AC, ſo iſt
+
+[p. 279] DBE
+
+CAE, alſo CAE + DEB ◄ 2 R) .
+
+Nun ergänze man aus AE und AI das Parallelogramm, verlängere CD bis H, und BD bis K, ſo iſt DL das verlangte Parallelogramm. Der Beweis für die Richtigkeit der Auflöſung ergiebt sich aus §. 96.
+
+S. 100. Ein Parallelogramm in ein anderes zu verwandeln, das eine gegebene Seite und einen gegebenen Winkel hat. Anleitung zur Auflösung und zum Beweise. Man verwandle nach dem vorhergehenden § das Parallelogramm erst in ein anderes, das die gegebene Seite hat, und dieses sodann nach §. 98 in ein anderes, das auch den gegebenen Winkel hat. Man kann also jedes
+
+Parallelogramm in ein
+
+Rechteck mit einer gegebenen Seite verwandeln. S. 101.
+
+Ein Dreieck in ein Parallelogramm zu verwandeln, das eine gegebene Seite hat. Die Auflösung ergiebt sich aus §. 98 und 99. Ein Dreieck in ein Parallelogramm zu verwandeln, das eine gegebene Seite und einen gegebenen Winkel hat.
+
+Die Auflösung findet man nach §. 100. Man kann also auch jedes Dreieck in ein Rechteck mit einer beſtimmten Seite verwandeln.
+
+[p. 280] Endlich kann man auch jede geradlinigte Figur in ein Parallelogramm mit einem bestimmten Winkel (also auch in ein Rechteck) und mit einer beſtimmten Seite verwandeln.
+
+Man theile nämlich die gegebene
+
+Figur durch Diagonale in Dreiecke, verwandle jedes derselben in ein Parallelogramm, das die geforderten Bedingungen hat, und lege diese nun mit den gleichen Seiten an einander, so erhält man das verlangte Parallelogramm. Auch kann man noch auf folgende Weise die gè gebene Aufgabe lösen.
+
+Man ziehe in der gegebenen
+
+Figur eine Diagonale, durch die Spitze des dadurch entstandenen Dreiecks ziehe man mit der Diagonale eine Parallellinie, verlängere eine an die Diagonale anstoßende aber nicht zu dem Dreieck gehörige Seite bis sie die Diagonale trift, und von diesem Punkt ziehe man eine gerade Linie bis zu dem andern Endpunkt der Diagonale; dadurch erhält man ein anderes dem vorhergehenden gleiches Dreieck; seht man dies neue Dreieck an die Stelle des alten, so bleibt die Größe der Figur unverändert, sie hat aber eine Ecke weniger. Wenn man diese Operation lange genug fortsetzt, so wird man die gegebene Figur in ein Dreieck verwandeln, das sich wiederum in ein Rechteck mit einer gegebenen Seite verwandeln läßt. S. 102. Ein Parallelogramm in ein Dreieck zu verwandeln, in welchem ein gegebener Winkel an einer gegebenen Seite liegt.
+
+[p. 281] Man verwandele das gegebene Parallelogramm zuvorderst in ein solches, das den gegebenen Winkel und zu seiner Seite die Hälfte der gegebenen Seite
+
+Dann verdoppele man diese Seite des géfundenen Parallelogramms, und ergänze das Dreieck. Der Beweis für die Richtigkeit läßt sich leicht führen. §. 103. In einem rechtwinkligten Dreieck ist das Quadrat der Hypothenuſe den Quadraten der beiden Katheten zusammen genommen gleich.
+
+dem rechtwinkligten Dreieck ABC Fig. 83 soll AI
+
+AE + CF.
+
+Man fälle aus der Spitze des rechten Winkels die senkrechte Linie BL auf die Hypothenuse, und verlängere ſie bis K, so ist BK ‡ AH ‡ CI, und also wird AI in zwei Rechtecke AK und CK getheilt. Beweist man nun daß AK=AE, und CK = CF, so ist die Wahrheit des Lehrfaßes dargethan.
+
+Um zu beweisen, daß AE = AK, ziehe man DC und BH; und um zu zeigen, daß CF = CK, ziehe man AG und BI
+
+Th. AI = AE + CF 1) AK - AE. AAHBADC.
+
+Gründe nach §. 39.
+
+[p. 282] ▲ AHB == AK AADC =
+
+2 A
+
+AKAE
+
+Ergo AKAE Daß 2) CK
+
+CF wird auf dieselbe Art bewiesen.
+
+Man pflegt diesen Saß nach seinem Erfinder Pythagoras den pythagoriſchen Lehrſaß, und wes gen der Fruchtbarkeit seiner Anwendung
+
+Magister Matheseos zu nennen. Folgefaß. In einem rechtwinkligten Dreieck ist das Quadrat der Hypothenuse weniger dem Quadrat der einen Kathete, gleich dem Quadrat der andern Kathete.
+
+S. 104. Wenn in einem Dreieck das Quadrat der einen Seite den Quadraten der beiden andern Seiten gleich ist, so ist das Dreieck rechtwinkligt, und zwar steht der rechte Winkel, wie sich dies von selbst versteht, der größern Seite gegenüber.
+
+Fig. 84 sey AC² = AB² + BC², ſo ſoll ABC = R seyn. Man errichte in B auf AB die senkrechte Linie BD, mache BDBC, und ziehe AD.
+
+[p. 283] Th: ABC Dat. AC
+
+AB² + BC²
+
+ABD = R BDBC
+
+AD 2
+
+AB² + BD² weil ABD = R
+
+AD² = AB² + BC² weil BD = BC
+
++ BC2 nach der Voraussetzung.
+
+= AC nach §. 82 Anmerkung.
+
+ABDA ABC nach §. 44.
+
+Ergo ABD
+
+ABC = R, S. 105.
+
+Zwei Quadrate in eins zu verwandeln, welches so groß ist, als beide zuſammengenommen. Die Auflösung ergiebt ſich aus §. 103. Es laßen sich also eins, auch mehrere Quadrate in was ihnen allen zusammen gleich ist, vers wandeln.
+
+§. 106. Ein Quadrat zu machen, welches der Differenz zweier gegebenen Quadrate gleich ist. Auflösung und Beweis. Die gegebenen Quadrate seyen AB2 und ES2; Fig. 85, so errichte man einen rechten Winkel, mache [p. 284] KM Kreis,
+
+ES, beschreibe mit AB aus M einen der IK in N schneidet (weil AB > MK oder ES) , und ziehe MN, welches also = AB; ſo NK². ist MN2 - MK2 Das Quadrat über NK wird also das verlangte Quadrat seyn.
+
+S. 107. Gleiche Sehnen in einem oder in gleichen Kreisen sind gleich weit vom Mittelpunkte entfernt, und Sehnen die gleich weit vom Mittelpunkte entfernt sind, sind gleich.
+
+Man zeichne sich die Figur und ziehe an jede Sehne einen Radius, wird man den Beweis nach §. 63 und §. 62 Zuſatz 1, leicht finden.
+
+S. 108. In einem oder in gleichen Kreisen ist die größere Sehne nicht so weit vom Mittelpunkt entfernt als die kleinere.
+
+Fig. 86. CG
+
+CF.
+
+Die Sehne DE sey
+
+AB, so soll
+
+Iſt DE > AB, ſo ist auch DG (
+
+— Man ziehe CA und CD, 2 DE) —AF ( = —AB). ſo iſt DC² = DG² + CG² und AC² = AF² + CF2, da nun DC² = AC² ſo ist
+
+[p. 285] DG2 + CG2 = AF2 + CF2
+
+DG
+
+AF2
+
+CG2
+
+CF2
+
+Ergo CG
+
+CF
+
+Für die gleichen Kreise wird der Beweis eben so geführt.
+
+§. 109. In einem oder in gleichen Kreisen ist die ents ferntere Sehne kleiner als die nähere.
+
+Der Beweis wird gerade wie beim vorhergehenden §. geführt. Der Diameter ist also die größte Sehne eines Kreises.
+
+S.
+
+10.
+
+Wenn die Spitze eines Winkels im Mittelpunkt eines Kreises liegt, so heißt er ein Winkel am Mittelpunkt oder ein Centriwinkel. ACD.
+
+Fig. 87.
+
+Wenn die Spitze eines Winkels in der Peripherie eines Kreises liegt, so heißt er ein Winkel am Umkreise oder ein Peripheriewinkel, z. B. ABD. Fig. 87.
+
+Man sagt von ihnen, daß sie auf den
+
+Bogen ruhen, welche ihre verlängerten Schenkel von der Peripherie abschneiden;
+
+so ruhen beide vorhin genannten Winkel auf dem Bogen AD,
+
+[p. 286] §. III. Gleiche Winkel am Mittelpunkt stehen in gleichen Kreisen auf gleichen Bogen und Sehnen, und die von ihren Schenkeln und den Bogen eingeschlossenen Ausschnitte sind congruent.
+
+Der Beweis wird dadurch geführt, zeigt, die genannten Stücke müssen sich unter der gegebenen Bedingung decken. S. 112. Ungleiche Winkel am Mittelpunkt stehen in gleichen Kreisen auf ungleichen Bogen, und die von ihren Schenkeln und den Bogen eingeschlossene Ausschnitte sind ungleich. Die Wahrheit dieses Satzes wird augenſcheinlich erkannt, wenn man die Winkel aufeinander legt.
+
+§. 113. Gleiche Winkel am Mittelpunkt stehen in einem Kreise auf gleichen Bogen und Sehnen, und die von ihren Schenkeln und den Bogen eingeſchloſſenen Ausschnitte sind congruent.
+
+Man mache einen dem vorigen gleichen Kreis, und beschreibe in demselben einen gleichen Centriwinkel, so wird sich nach §. 111 und dem Grundſatz; wenn zwei Größen mit einer dritten congruent ſind, [p. 287] so sind sie untereinander congruent, der Beweis leicht führen laßen.
+
+Zwei Durchmesser die sich senkrecht schneiden, theilen den Umkreis und den Kreis selbst in 4 congruente Theile, und jeder dieſer Theile sowohl der Peripherie als des Kreises selbst heißt ein Quadrant.
+
+Der zu einem stumpfen Winkel am Mittelpunkt gehörige Bogen ist größer als ein Quadrant, zu einem ſpitzen Centriwinkel gehörige Bogen ist kleiner als ein Quadrant.
+
+S. 114. Ungleiche Winkel am Mittelpunkt stehen in einem Kreise auf ungleichen Bogen, und die von ihren Schenkeln und den Bogen eingeschlossenen Ausschnitte sind ungleich.
+
+Der Beweis dieses Satzes wird ungefähr wie beim vorigen Lehrfaß geführt. S. 115.
+
+Lehrfäße.
+
+Winkel am Mittelpunkt, die in einem oder in gleichen Kreisen auf gleichen Bogen ruhen ſind einander gleich.
+
+Der Beweis wird sich leicht finden laßen; wird durchs Aufeinanderlegen geführt.
+
+er
+
+[p. 288] In einem oder in gleichen Kreiſen gehören zu gleichen Bogen gleiche Sehnen und zu gleichen Sehnen gleiche Bogen.
+
+Der Beweis hat keine Schwierigkeit, wenn man dabei auf die Centriwinkel Rücksicht nimmt.
+
+S. 116. Durch drei gegebene Punkte, die nicht in gerader Linie liegen, einen Kreis zu legen. Die drei gegebenen Punkte seyen A, B und C Fig. 88, man verbinde sie durch gerade Linien. Geht ein Kreis durch diese Punkte, so werden die Linien
+
+Sehnen des Kreiſes. Man theile AB in D in zwei gleiche Theile und errichte auf AB die senkrechte Linie DF, so liegt in dieser nach §. 50 der Mittelpunkt des Kreises;
+
+ferner theile man AC in E in zwei gleiche Theile und ziehe ES senkrecht, so liegt auch in dieser Linie der Mittelpunkt, folglich liegt er in F, wo DF und ES sich schneiden.
+
+Eine gerade
+
+Linie von A oder von B oder von C nach F ist sodann der Radius des Kreiſes, und F ſein Centrum. Die Richtigkeit der Auflösung leuchtet bald ein, es kommt nur darauf an zu zeigen, ES sich schneiden müssen.
+
+daß DF und
+
+Um dies zu beweisen, ziehe man von D nach E eine gerade Linie DE. Da FDA
+
+R so ist FDE
+
+< R, und so auch
+
+FED < R, weil FEA = R, alſo müſſen ſich nach §. 68 DF und ES nach der Gegend von F_ſchneiden.
+
+[p. 289] Es fällt eben so leicht in die Augen, daß A, B und C nicht in einer geraden Linie liegen können, weil sonst DFEF; gerade Linie auch kann nach §. 60 einen Kreis in zwei
+
+Punkten schneiden.
+
+§. 117. Man sagt ein Kreis sey um eine Figur beschrieben, wenn sein Umkreis durch alle Winkelspißen der Figur geht. Aus dem vorhergehenden S. ergiebt ſich die Auflösung der Aufgabe: Man soll um ein Dreieck einen Kreis beschreiben.
+
+S. 113. Der Winkel am Mittelpunkt ist doppelt so groß als der Winkel am Umkreise, der mit ihm auf dem ſelben Bogen steht. Daß ein Winkel am Mittelpunkt mit einem Winkel am Umkreise auf einem und demselben Bogen steht, kann auf dreifache Art statt finden;
+
+1) ein Schenkel des Centriwinkels ist ein Theil eines Schenkels des Peripheriewinkels, wie bei BCD und BAD
+
+Fig. 89.
+
+Der Beweis für diesen Fall ergiebt sich aus §. 73, 3.
+
+2) Die Schenkel des Centriwinkels fallen zwischen den Schenkeln des Peripheriewinkels, wie Fig. 90 bei FGH und FEH.
+
+In diesem Fall ziehe man die Linie EG und verlängere sie bis nach t
+
+[p. 290] N, so wird man bald einsehen, daß dieser Fall der doppelte erste Fall ist. 3) Die Schenkel des Centriund Peripheriewinkels schneiden sich
+
+Man ziehe MK und verlängere und IML Fig. 91.
+
+sie bis 0.
+
+wie bei IKL
+
+So ist OKL = 2OML nach 1, ferner
+
+OKI = 2 OMI, ebenfalls nach 1, also OKL IKL = 2 OML 2 OMI = 2 (OML · OMI)
+
+2IML.
+
+OMI)
+
+Aus §. 115 ergiebt sich, daß ein Winkel am Mittelpunkt auch doppelt so groß ist, als der Peripheriewinkel, der mit ihm in gleichen Kreisen auf gleichen Bogen ruht.
+
+S. 119. Lehr säße.
+
+Jeder Winkel am Umkreise, der auf einein halben Kreis ruht, ist ein rechter Winkel. Den Beweis findet man nach §. 118 verbunden mit §. 21.
+
+Jeder Winkel am Umkreise, der auf einem Bogen ruht der kleiner ist, als ein halber Kreis, ist ein spitzer Winkel.
+
+Jeder Winkel am Umkreise, der auf einem Bogen ruht der größer ist als ein halber Kreis, iſt ein ſtumpfer Winkel.
+
+Jeder Winkel am Umkreis muß ein holer
+
+Winkel seyn. Man wird die Wahrheit dieser Sähe bald einsehen, wenn man nur zu jedem Peripheriewinkel, von [p. 291] dem die Rede ist, seinen zugehörigen Centriwinkel zeichnet, nach §. 118.
+
+§. 120+ Erklärung. Ein Winkel heißt ein Winkel im Abschnitt, wenn seine Spitze im Bogen des Abschnitts und seine Schenkel auf den Endpunkten der Sehne deſſelben ruhen.
+
+Fig. 92. ABD.
+
+Aus dem vorhergehenden
+
+S. erhellet, daß ein
+
+Winkel in einem halben Kreise = R, ein Winkel in einem Abſchnitte, der kleiner ist als ein halber Kreis, ein ſtumpfer, und ein Winkel in einem Abschnitte, der größer ist als ein halber Kreis, ein spitzer Winfel ist.
+
+S. 121. Lehr säße. Winkel an der Peripherie, die in einem oder in gleichen Kreisen auf gleichen Bogen ruhen, sind einander gleich. Daher auch Winkel in einem und demſelben oder in gleichen Abschnitten einander gleich Winkel an der Peripherie, die in einem oder in gleichen Kreisen auf ungleichen Bogen ruhen, ungleich;
+
+sind daher auch alle Winkel in ungleichen Abschnitten ungleich sind.
+
+alle
+
+Beweise für diese
+
+Säße sind nach
+
+S. 118 leicht zu finden. S. 122. Wenn man zwei nicht parallele Sehnen über den [p. 292] Kreis hinaus verlängert bis sie sich schneiden, so ist der Winkel, den sie außerhalb dem Kreise bilden, gleich dem Unterschiede der Peripheriewinkel, welche auf den zwiſchen den Sehnen abgeschnittenen Bogen stehen. Fig. 93. sind AB und DE nicht parallele Sehnen, verlängert man sie über den Kreis hinaus, so schneiben sie sich in C. AED ſeyn,
+
+Nun soll BCE
+
+BAEdenn diese beiden letzten Winkel ruhen auf den zwischen den Sehnen liegenden Bogen BE und AD.
+
+Der Beweis wird nach §. 71 Folgesatz geführt.
+
+$. 123. Der Unterschied zwischen dem halben Bogen und ſeiner Sehne ist kleiner als die Hälfte des Unterschiedes zwischen dem ganzen Bogen ' und seiner zugehörigen Sehne.
+
+Fig. 92. ſoll Bog. AB- Sehne AB 2 Bogen Sehne AD, vorausgesetzt, daß AB = BD, Da AB + BD > AD, so ist 2 ABAD und AB > 2 —AD. Nun ist aber Bog. AB == 2 Bog. AD, also Bog, AB - Sehne AB Seh Bog. ADne AD. Hieraus erhellet, daß der Umfang eines regulären Polygons von noch einmal so viel Seiten weniger von der Peripherie des umschriebenen Kreiſes [p. 293] abweicht, als der Umfang eines regulären Vielecks von halb so viel Seiten; 1 da man nun die Anzahl der Seiten eines regulären Vielecks bis ins Unendliche verdoppeln kann, so ergiebt sich hieraus, daß der Kreis als ein reguläres Vieleck von unendlich viel Seiten betrachtet werden kann. §. 124. Die gegenüberstehenden Winkel eines im Kreiſe beschriebenen Vierecks ergänzen sich einander zu zwei rechten Winkeln. Fig. 94. ſoll BAD + BED = 2R, und ABE
+
++ ADE = 2 R. Man ziehe BC und CD; halbire den holen Winkel BCD durch GC, und verlängere
+
+GC bis H, so theilt CH den erhabenen Winkel BCD in zwei gleiche Theile.
+
+(weshalb? )
+
+nach §. 118 BAD = DCH und BED = GCD, also BAD + BED =
+
+Nun ist
+
+DCH + GCD = 2 R, und hieraus ergiebt sich nach §. 74 ADE 2 R.
+
+daß ABE +
+
+§. 125. Wenn die gegenüberstehenden Winkel eines Vierecks sich einander zu zwei rechten Winkeln ergänzen, so kann man um dasselbe einen Kreis beschreiben. §. 116 zeigt, daß man durch drei Punkte des Vierecks einen Kreis legen kann, man darf alſo nur [p. 294] zeigen, daß dieser Kreis auch
+
+Punkt gehen muß.
+
+den vierten
+
+Dies zeigt man indirekt.
+
+Geſetzt der Kreis ginge nicht durch den vierten Punkt, ſo läge dieser Punkt entweder innerhalb oder außerhalb des beschriebenen Kreises. ersten Fall ergänze
+
+Viereck zu einem solchen,
+
+4 Winkel im Umkreise liegen, dessen so wird man nach
+
+§. 124 und 52 auf einen Widerspruch stoßen.
+
+Im zweiten Fall verlängere man eine der Seiten des gegebenen Vierecks bis zur Peripherie des Kreiſes;
+
+und ergänze das Viereck, so wird man nach den oben genannten S. S. gleichfalls auf einen Widerspruch stoßen.
+
+S. 126. Wenn man auf dem Endpunkte eine senkrechte Linie errichtet, eines Radius so hat diese mit der Peripherie nur diesen einen Punkt gemein. Man ziehe von jedem andern Punkt der ſenkrechten Linie, eine Linie bis zum Mittelpunkt des Kreiſes, ſo wird dieſe jederzeit größer als der Radius seyn, weil sie die Hypothenuse und er eine Cathete des rechtwinklichten Dreiecks ist. Jeder andere Punkt der senkrechten Linie wird also außerhalb dem Kreise liegen. Diese senkrechte Linie heißt eine Tangente oder berührende Linie.
+
+Auch erhellet aus dem Gesagten, daß der Kreis eine krummlinigte Figur ist.
+
+[p. 295] S. 127.
+
+1. Es wird ein Punkt in der Peripherie eines
+
+Kreiſes gegeben, man soll eine Tangente an den Kreis ziehen. Die Auflösung ergiebt sich aus dem vorhergehenden den §. 2. Es wird ein Punkt außerhalb der Peripherie eines Kreiſes gegeben, man soll eine Tangente an den Kreis ziehen.
+
+Fig. 95 sen der gegebene Punkt A und der Mittelpunkt des gegebenen Kreiſes C.
+
+Man ziehe von A bis C eine gerade Linie, und beſchreibe einen halben Kreis, der AC zum Durchmesser hat, dieser wird den gegebenen Kreis in D ſchneiden nach §. 33; man -ziehe AD, so ist dies die verlangte Tangente. Bei geringem Nachdenken wird man finden, daß von einem Punkt außerhalb dem Kreise zwei Tangenten an den Kreis gezogen werden können. Man ziehe CD, ſo läßt sich nach §. 126 und
+
+§. 119, 1. der Beweis führen.
+
+S. 128. Wenn man an den Berührungspunkt einer Tangente eine Sehne zieht, so ist der Winkel den diese Sehne mit der Tangente bildet gleich dem Peripheriewinkel oder der Hälfte des Centriwinkels, welche auf den Bogen ruhen, wozu die Sehne gehört.
+
+[p. 296] Beweis, f. Fig. 96, a. Th. ACB = AFC = _ADC .2 Man fälle DE senkrecht auf AC, ſo iſt DCE + EDC = R = DCB
+
+EDC
+
+DCB - - DCE EDC = I ADC
+
+Ergo 2 ADC
+
+ADC
+
+AFC
+
+Ergo AFC
+
+S. 129. Ein Kreis wird in einer Figur beschrieben, wenn er alle Seiten der Figur von innen berührt. Fig. 96, b. Eine Figur wird um einen Kreis beschrieben, wenn jede ihrer Seiten den Kreis von außen berührt.
+
+S. 130. Einen Kreis in einem Dreieck zu beschreiben.
+
+Das gegebene Dreieck sen ABC Fig. 97. Man halbire ABC durch BD, und ACB durch DC. BD und DC müſſen ſich ſchneiden, denn da schon ABC + ACB2R, ſo iſt // ABC + 2 ACB < 2 R, Man fälle von D, wo die Linien sich schneiden, eine senkrechte Linie auf eine der Seiten des Dreiecks, ¡. B. DF auf BC, und beſchreibe mit dieser einen [p. 297] Kreis, so wird dieser die verlangten Eigenſchaften haben. Um den Beweis zu führen, muß man zeigen, daß die senkrechten Linien DG und DE
+
+DF sind. Dies geſchieht dadurch daß man zeigt ▲ DFCADEC.
+
+DFB
+
+DGB,
+
+S. 131. Ein reguläres Viereck in einem Kreise zu be- . schreiben. Die Auflösung und der Beweis beruht auf §. 113. Zuſatz und §. 115. Lehrsaß 2.
+
+S. 132. Ein reguläres Achteck in einem Kreise zu des:
+
+schreiben.
+
+Man beschreibe zuvörderst in dem Kreise ein reguläres Viereck, nach §. 130. — Theile die Centriwinkel in zwei gleiche Theile und die dazu gehörigen Sehnen. Auf ähnliche Weise erhält man ein Sechszehneck, Zweiunddreißigeck u. f. w. Bei den Beweisen für die Richtigkeit der Aufldſung muß man nicht blos auf die Gleichheit der Seiten des Vielecks, sondern auch auf die Gleichheit seiner Winkel sehen.
+
+[p. 298] S. 133. Die Wahrheit folgender Säße, ergiebt sich aus der Construktion ganz leicht. Ein im Kreise beschriebenes Vieleck ist seinem Inhalt nach kleiner als der Kreis, und auch sein
+
+Umfang ist kleiner als die Peripherie des Cirkels. Dies gilt von den regulären und irregulären im Kreise beschriebenen Vielecken.
+
+§. 134. Die Seiten eines regulären im Kreise beschriebenen Vielecks, sind gleich weit vom Mittelpunkt entfernt. Der Beweis beruht auf §. 62. Folgesat i und
+
+§. 63, 2.
+
+S. 135. Wenn man vom Mittelpunkt des Kreises, in welchem ein reguläres Vieleck beschrieben worden, nach den Winkeln desselben Halbmeſſer zieht, so wird das Vieleck dadurch in so viel congruente gleichschenkligte Dreiecke getheilt, als es Seiten hat, und jeder Polygonwinkel wird in zwei gleiche Theile getheilt. 6. 136. Ein gleichseitiges im Kreise beschriebenes Vieleck ist auch gleichwinkligt, d. h. regulär.
+
+[p. 299] Fig. 98 fen ABCDEA ein Fünfeck mit gleichen Seiten, F ſey der Mittelpunkt des Kreiſes in dem es beschrieben ist. Man ziehe DF, ES, AF und BF, so ist
+
+AFE
+
+▲ AFB und daher FEA = FAB
+
+=FAE FEDAFE und daher FED — folglich FEA + FED = FAB +FAE d. §. DEA—EAB
+
+§. 137. In einem jeden regulären Vieleck giebt es einen Punkt, der von allen Winkelſpißen gleich weit entfernt ist, dieser Punkt heiße der Mittelpunkt des regulären Vielecks; man sindet denselben, wenn man zwei Polygonwinkel halbirt, und die Theilungslinien verlängert, bis sie sich schneiden.
+
+Man wird also um jedes reguläre Polygon einen Kreis beschreiben fönnen.
+
+Das gegebene reguläre Vieleck ſey ABCDEA Fig. 99.
+
+Man halbire zwei neben einander liegende
+
+Polygonwinkel EAB und ABC durch FA und FB, ſo müſſen FA und FB innerhalb der Figur ſich schneiden (weil sie von AB geschnitten werden und EAB und ABC < 4R [ da jeder von ihnen 2R // EAB + 2 ABC = FAB +FBA f. §. 74. ] so ist
+
+< 2R).
+
+Der Schneidepunkt sey F, so wird nach
+
+§. 42 FA
+
+FB, man ziehe eine gerade Linie von F [p. 300] nach dem folgenden Polygonwinkel C, ſo iſt ▲ AFB FBC nach §. 39. also FC = FA = FB.
+
+kann man nun nach und nach zeigen, daß der Punkt F von allen Winkelſpißen gleich weit entfernt iſt.
+
+S. 138. Um ein gegebenes reguläres Vieleck einen Kreis zu beschreiben. Die Auflösung fließt unmittelbar aus dem vorhergehenden Lehrsaß.
+
+S. 139. Wenn man aus dem Mittelpunkt eines regulären Vielecks nach den Winkelspitzen desselben gerade Linien zieht, so erhält man so viel Winkel am Mittelpunkt, als das Vieleck Seiten hat, und diese Winkel, die man Centriwinkel
+
+Polygons nennen könnte, sind einander gleich. Der Beweis für diesen Sah kann nach §. 36 und §. 44 keine Schwierigkeiten haben.
+
+Folgesat. Jeder Centriwinkel eines regulären Vielecks ist gleich 4R dividirt durch die Zahl der Seiten des Vielecks.
+
+Fragen. Wie groß ist der Centriwinkel eines regulären Fünfecks? Sechsecks? Achtecks?
+
+[p. 301] S. 140. Die Seite eines regulären Sechsecks ist gleich dem Radius, des darum beschriebenen Kreises. Man ziehe vom Mittelpunkt des Sechsecks zwei Radien nach zwei unmittelbar auf einander folgenden Polygonwinkeln, so wird man nach §. 139. Folgefaßz finden, daß das auf diese Weise entstandene Dreieck gleichwinkligt und also nach §. 43 auch gleichseitig ist.
+
+S. 141. Nach dem vorhergehenden §. läßt sich also die Aufgabe: In einem gegebenen Kreiſe ein reguläres Sechseck zu beschreiben, leicht lösen ―― Man erhält aus einem regulären Sechseck reguläres Dreieck, wenn man von der ersten Winkelspige das Sechseck nach der dritten, von dieser nach der fünften, und von dieser wiederum nach der erſten geraden Linie zieht. aus §. 39.
+
+Der Beweis ergiebt sich
+
+Durch das Halbiren der Eentriwinkel kann man aus dem regulären Sechseck nach und nach ein reguläres Zwölfeck, Vierundzwanzigeck u. s. w. bilden, §. 142. Ein jedes reguläres Vieleck ist einem Dreiecke · gleich, dessen Grundlinie dem Umfange des Vielecks und dessen Höhe der aus dem Mittelpunkte auf die Seite des Vielecks gezogenen senkrechten Linie gleich ist.
+
+[p. 302] Wenn man aus dem Mittelpunkte des Polygons gerade Linien nach den Winkelſpißen_deſſelben zieht, so wird das Polygon selbst in so Dreiecke getheilt, es viel congruente
+
+Seiten hat.
+
+Man lege alle diese Dreiecke auf einer geraden Linie neben einander, so daß die Seiten der Dreicke, die die Po-. lygonſeiten waren, auf der gezogenen Linie zu liegen kommen, und die Endpunkte der Dreiecke zusammenfallen, ziehe sodann von der Spitze des ersten Dreiecks gerade Linien nach dem Endpunkte eines jeden Dreiecks, so werden alle Dreiecke in ein Dreieck verwandelt, dessen Grundlinie der Summe der Grundlinien aller Dreiecke, und deſſen Höhe der Höhe jedes einzelnen Dreiecks gleich ist.
+
+Diese Höhe aber findet man, wenn man von dem Mittelpunkte des Polygons eine ſenkrechte Linie auf die Polygonseite fällt.
+
+Da man den Kreis als ein reguläres Polygon von unendlich viel Seiten betrachten kann, so wird ein jeder Kreis einem Dreiecke gleich seyn, Grundlinie der Peripherie des Kreises deffett und dessen
+
+Höhe dem Radius desselben gleich ist.
+
+§. 143. Lehrſaß. Dreiecke von gleicher Höhe verhalten sich wie ihre Grundlinien.
+
+Die beiden
+
+Dretecke seyen ABC und DES
+
+[p. 303] Fig. 100. Gesetzt das Verhältniß der Grundlinien BC und FE sey rational und zwar wie m: n, so theile man BC in m, und ES in ngleiche Theile, so würs · den die Theile von BC und ES gleich seyn (denn BC ES wenn BC: ES = m: n, so ist m: n IL ВС ES) . Zieht man nun von A = 1: 1, d. h. m nach den Theilungspunkten von BC gerade Linien, und so auch von D nach den Theilungspunkten von ES, so erhält man in ABC, m Dreiecke, und in DES n Dreiecke, die, weil sie gleiche Grundlinien und Höhen haben, alle unter einander gleich sind; also besteht
+
+ABC aus m gleichen Dreiecken, und
+
+ADES aus n eben solchen, daher
+
+ABC;
+
+DES
+
+= m; n = BC; ES, 'Geſetzt das Verhältniß von BC und ES sey nicht rational, so wird man freilich für beide keinen gemeinschaftlichen Theiler finden, allein da man die Theile von BC als unendlich klein annehmen kann, so wird das Fehlende bei ES als Null zu betrachten ſeyn, und also der obige Beweis auch hier gelten.
+
+Da Dreiecke die Hälfte der Parallelogramme ſind, die mit ihnen gleiche Grundlinien und Höhen haben, und sich die Ganzen wie die Hälften verhalten, so verhalten sich die Parallelogramme von gleichen Hihen wie ihre Grundlinien.
+
+S. 144 Dreiecke, die gleiche Grundlinien haben, verhalten sich wie ihre Höhen.
+
+[p. 304] In dem Dreiecke ABC und DES Fig. 101 sen BC = ES.
+
+Man errichte in C 、 und F senkrechte Linien GC und HF, und mache diese der Höhe des dazu gehörigen Dreiecks gleich, so verhalten sich GC und HF, wie die Höhen der Dreiecke. GB und HE, so ist
+
+ABC =
+
+= AEHF nach §. 90.
+
+Man ziehe
+
+GBC und
+
+DES
+
+Bei ▲ GBC kann man GC als die Grundlinie, und BC als die Höhe und bei EHF, HF als die Grundlinie und ES als die Höhe betrachten, so ist nach §. 143 ▲ GBC: ▲ EHF GC: HF auch ▲ ABC: ^ DES =
+
+GC: HF.
+
+Zusat. Aus demselben Grunde wie beim Zusatz zu dem vorhergehenden §. ergiebt sich, daß Parallelogramme von gleichen Grundlinien sich wie die Höhen vers halten.
+
+S. 145. Wenn man in einem Dreiecke mit einer Seite eine Parallellinie zieht, so stehen die dadurch entſtandenen Stücke der beiden andern Seiten in Proportion.
+
+Fig. 102 fen im Dreiecke ADE, BC ‡ DE, ſo Man ziehe CD, ſo ist soll AB: BD = AC: CE,
+
+BCD = AB: BD nach §. 143. Man ziehe BE, so ist AABC: ABCE =
+
+▲ ABC:
+
+AC: CE.
+
+[p. 305] Da nun nach §. 90 ABCD = ABCE, so ist
+
+AC: CE,
+
+Zufolge dessen, was in der Arithmetik über die geometrischen Verhältnisse gesagt, ergiebt sich aus der vorigen Proportion. AB: AC
+
+BD: CE
+
+AB = AE: AC AE: CE
+
+AD: BD
+
+Zusatz. Es läßt sich leicht zeigen, daß, wenn man in einem Dreiecke mit 1 einer Seite mehrere Parallellinien zieht, wie dies z. B. Fig. 105 der Fall ist, die abs geschnittenen Stücke der Seiten in Proportion ſtehen. §. 146. Wenn man in einem Dreiecke mit einer Seite eine Linie parallel zieht, so verhalten sich die beiden parallelen Linien wie die anliegenden Seiten, wozu sie gehören.
+
+Fig. 103 soll BC: DE
+
+AB: AD oder BC:
+
+DE = AC: AE; man ziehe CF ‡ AD. Th. BC
+
+DE = AB; AD = AC: AE
+
+DF: DE
+
+AC: AE nach §. 145.
+
+und da nach DF = BC nach §. 76. BC: DE
+
+AC: AE
+
+AB: AD = AC: AE nach §. 145.
+
+Ergo BC: DE— AB; AD,
+
+[p. 306] S. 147. Wenn die Seiten eines Dreiecks in proportionelle Stücke getheilt werden, und man verbindet die Theilungspunkte durch eine gerade Linie, so ist diese Lic nie mit der ungetheilten Seite parallel. Anleitung zum Beweise Der Lehrsaß ſagt, wenn Fig. 104 AB: BD = AC: CE, so soll BC ‡ DE.
+
+Der Beweis wird indirekt geführt. Geſetzt BC sey nicht ‡ DE, ſo ziehe man aus B mit DE die Linie BF parallel. So wird man, wenn man §. 145 anwendet, und mit der Voraussetzung des Lehrsatzes in Verbindung bringt, ´auf einen Widerspruch stoßen. §. 148. Eine gegebene Linie in eine Anzahl Theile zu theilen, deren Verhältniß gegen einander gegeben ist. Die zu theilende Linie ſey DE, die Linien, nach deren Verhältniß sie getheilt werden soll, seyen A, B und C; man ziehe eine gerade Linie FG, und mache auf derselben FIA, IKB und KG = C, verbinde unter einem beliebigen Winkel FH = DE mit ihr, und ziehe HG, und mit dieser KM und IL parallel, ſo ſind FL, LM und MH die verlangten Stücke. Der Beweis wird nach §. 145, Zuſatz geführt.
+
+[p. 307] S. , 149. Eine gegebene gerade Linie in jede beliebige Anzahl gleicher Theile zu theilen. Die Auflösung beruht auf §. 148, auf FG so viele gleiche Theile aufträgt, als die gegebene Linie getheilt werden soll.
+
+S. 150 Zu drei gegebenen Linien die vierte Proportionallinie zu suchen.
+
+Die Auflösung
+
+Beweis beruhen auf
+
+§. 145. 1 S. 151. Wenn man in einem Dreieck einen Winkel halbirt, und die Theilungslinie bis auf die gegenüber stehende Seite des Dreiecks verlängert, so wird dieſe in zwei Theile getheilt, die mit den angrenzenden Seiten des Dreiecks in Proportion sind. Fig. 106 sey in dem Dreiecke ABC der Winkel BAC durch AD halbirt, so soll BD. ; DC = AB: AC. Man verlängere AC bis E, so daß AE = AB und ziehe EB; so
+
+CAD ist BAC = 2 AEB, AEB, d. h. AD
+
+EB.
+
+Nun läßt sich der Beweis des Lehrsages leicht nach §. 145
+
+[p. 308] 152. S. 1 Wenn man in einem Dreieck die eine Seite so theilt, daß die Theile mit den anliegenden Seiten in Proportion sind, und man von dem Theilungspunkte nach dem gegenüberstehenden Winkel eine gerade Linie zieht, so halbirt diese den Winkel. Gesetzt Fig. 106 BD; DC = AB: AC, ſo soll BAD
+
+CAD.
+
+Man verlängere AC nach E, so daß AE = AB, und ziehe EB. Nun zeige man nach §. 147, daß AD ‡ EB; daraus ergiebt sich, daß CAD = AEB, und aus dieſem nach §. 73. 3, daß CAD
+
+BAD = & BAC. $. 153.
+
+Uebereinstimmung in Rücksicht der Qualität ist
+
+Aehnlichkeit.
+
+Außer der Quantität finden sich bei den Figuren blos noch die Grenzen derselben, und bei diesen sind die Seiten und Winkel zu unterscheiden.
+
+Figuren sind ähnlich, bei denen alle gleichliegenden Winkel gleich sind, und die gleichliegenden Seiten in Proportion stehen. Folgesatz. Alle reguläre Figuren von gleich viel Seiten ſind ― ähnlich. Der Grund ist leicht anzugeben.
+
+man alle Kreise als reguläre Vielecke von unendlich viel Seiten betrachten kann, so sind sie einander ähnlich.
+
+[p. 309] S. 154. Zwei Dreiecke, in denen zwei Winkel gleich sind, sind ähnlich. Daß unter den gegebenen Voraussetzungen auch die dritten Winkel gleich sind, ergiebt sich aus §. 72.* Die Proportionalität der Seiten beweist man da durch, daß man das eine Dreieck auf das andere legt, so daß zwei gleiche Winkel zusammen fallen, dann ergiebt sich der verlangte Beweis leicht
+
+§. 145 verbunden mit §. 73, 3.
+
+§. 155. Lehrsatz. Wenn in zweien Dreiecken Seiten alle gleichliegenden in Proportion sind, so sind die Dreiecke ähnlich. Außer den im Lehrsage genannten Stücken, fehlt zur Aehnlichkeit der Dreiecke nur noch die Gleichheit aller gleichliegenden Winkel.
+
+Die gegebenen Dreiecke seyen ABC und DES Fig. 107;
+
+in ihnen ſey AB:
+
+AC = DE: DF, AB: BC = DE: ES und alſo auch AC: BCDF: ES. ziehe GH
+
+S. 154.
+
+Man mache AG≈DE und
+
+BC, ſo iſt ▲ ABC ~ ▲ AGH_nach
+
+Also ist AB: AC
+
+AG oder DE: AH
+
+AB: ACDE: DF
+
+AH
+
+DF
+
+[p. 310] AG oder DE: GH
+
+AB: BCDE: ES
+
+GH = ES folglich
+
+AGH
+
+DES nach S. 44.
+
+In den beiden Dreiecken AGH und ABC ſind aber die gleichliegenden Winkel gleich.
+
+S. 156. Zwei Dreiecke sind ähnlich, wenn in ihnen zwei Seiten in Proportion und die von diesen Seiten eingeschlossenen Winkel gleich sind. Man lege das kleine Dreieck so auf das große, daß die gleichen Winkel zusammen fallen, so läßt sich nach §. 147 zeigen, daß die dritten Seiten parallel ſind; dann wird man die Gleichheit der Winkel nach §. 69 und die Proportion der übrigen Seiten nach §. 146 leicht darthun.
+
+§. 157. Zwei Dreiecke sind ähnlich, wenn sie einen gleichen Winkel haben und zwei Paar Seiten welche den gleichen Winkel nicht einſchließen in Proportion ſtehen, die den gleichen Winkeln gegenüber stehende
+
+Seiten aber größer als die anliegenden sind. In den beiden Dreiecken ABC und DES Fig. 108 fe
+
+A = D, und AB: BC AB und ES
+
+ES aber
+
+ED. Man mache AG = DE [p. 311] und ziehe GH ‡ BC, ſo läßt sich nach §. 145 und 146 zeigen, daß ▲ AGH »
+
+AGH
+
+ABC, und nach §. 62,
+
+DES, woraus sich die Wahrheit, des Lehrsages ergiebt. 1)
+
+Zwei rechtwinkligte
+
+Dreiecke sind ähnlich, wenn in ihnen die Hypothenusen und ein Paar Catheten in Proportion ſtehen. 2) Zwei ſtumpfwinkligte Dreiecke sind ähnlich, wenn in ihnen die ſtumpfen Winkel gleich sind, und in beiden eine an den stumpfen Winkel liegende und eine ihm gegenüber stehende Seite in gleichem Verhältniße stehen.
+
+S. 158. Wenn man in einem rechtwinkligten Dreieck aus der Spitze des rechten Winkels eine senkrechte Linie auf die Hypothenuse fällt, so wird das Dreieck in zwei andere getheilt, die unter sich und dem ganzen Dreieck ähnlich sind; auch ist die senkrechte Linie die mittlere Proportionallinie zwischen den beiden Theilen der Hypothenuse. Der Beweis dieſes Satzes beruht auf §. 154.
+
+S. 159. Eine senkrechte Linie auf dem Durchmesser eines Kreiſes errichtet und bis an die Peripherie verlängert, ist die mittlere Proportionallinie zwischen den beiden Stücken des Durchmessers.
+
+[p. 312] Man ziehe von dem Punkte der Peripherie, wo die senkrechte Linie ſie trift, Sehnen an die Endpunkte des Durchmessers, so wird man nach §. 119 und §. 158 den Beweis leicht finden.
+
+S. 160. Zwischen zwei gegebenen Linien die mittlere Proportionallinie zu finden. Die Auflösung und der Beweis ergiebt ſich aus S. 159.
+
+S. 161. 1. Lehrsaß. Wenn zwei Sehnen sich innerhalb eines Kreiſes schneiden, so geben die beiden Theile der einen, die äußern und die beiden Theile der andern, die innern Glieder einer geometrischen Proportion. Man verbinde je zwei und zwei Endpunkte der Sehnen durch gerade Linien f. Fig. 109; so findet sich nach §. 154 daß die entstandenen Dreiecke ähnlich sind, wenn man §. 25 und §. 121 zu Hülfe nimmt, und dann ergiebt sich die Wahrheit des Lehrsages leicht. 2. Lehrfaß. Wenn man an einen Kreis eine Tangente zieht und diese durch eine verlängerte Sehne des Kreiſes schneidet, so macht das abgeschnittene Stück der Tangente die mittlere Proportionallinie zwischen dem [p. 313] Stück der verlängerten Sehne außerhalb dem Kreiſe und der ganzen verlängerten Sehne. · Man bedarf zur Führung des Beweises zwei gez rade Hülfslinien nämlich von dem Berührungspunkte nach den beiden Punkten, wo die Sehne die Peripherie schneidet. §. 162.
+
+Aehnlich liegende Dreiecke sind solche, die in ähn: lichen Figuren von gleichliegenden Seiten und Diagonallinien gebildet werden. Aehnlich liegende Dreiecke in ähnlichen Figuren sind ähnlich. Man zeichne sich ein Paar ähnliche Figuren, und theile sie durch Diagonalen in ähnlich liegende' Dreiecke;
+
+so erhält man zweierlei Arten Dreiecke,
+
+Art hat zwei Seiten der Figur und eine Diagonale, ihre Aehnlichkeit ergiebt sich aus §. 156 und eine andere Art bei denen zwei Seiten Diagonalen sind; ´die Aehnlichkeit der leßtern ergiebt sich nach §. 155 aus der gefundenen Proportionalität der Diagonalen, die aus der Aehnlichkeit ersten Art Dreiecke fließt. Folgefaß. Gleichliegende Diagonalen verhalten sich in ähnlichen Figuren, wie gleichliegende Seiten.
+
+[p. 314] §. 163. Die ganzen Peripherien ähnlicher Figuren verhalten sich wie gleichliegende Seiten oder Diagonalen.
+
+S. Fig. 110. AB: ab = AB: ab
+
+BC: bc
+
+AB: ab
+
+CD: cd = AB: ab DE: de — AB; ab ES: es = AB; ab' FA fa = AB: ab
+
+AB +BC + CD +DE +ES +FA: ab+bc+cd+de+ es+fa = AB; ab Daß sich die Peripherien alſo auch wie die gleichliegenden Diagonalen verhalten, ergiebt ſich aus
+
+§. 162 Folgesat.
+
+§. 164. Die Seiten und auch die Peripherien regulärer Vielecke, verhalten sich wie die Halbmesser oder Durchmesser der darum beschriebenen Kreiſe.
+
+Man ziehe aus dem Mittelpunkte des Kreiſes der um jedes Vieleck beschrieben ist,
+
+Radien nach den beiden Endpunkten einer Seite des Vielecks; so erhält man zwei Dreiecke, die ähnlich sind, weil in ihnen zwei Winkel gleich sind, (nach §. 136) , die Seiten, welche die gleichen Winkel bilden,
+
+Proportion stehen.
+
+Die beiden Polygonſeiten verhalten [p. 315] sich also wie die Radien, folglich werden die
+
+Polygonseiten so vielmal genommen, als das Vieleck Seiten hat, sich auch verhalten wie die Nadien, d. h. die Peripherien regulärer Vielecke verhalten sich wie die Radien und also auch wie die Durchmesser der darum beschriebenen Kreise.
+
+Da man den Kreis als ein reguläres Polygon von unendlich viel Seiten betrachten kann, so ergiebt ſich daraus, daß sich die Peripherien der Kreiſe verhalten, wie ihre Halbmeſſer oder Durchmesser.
+
+[p. 316] Vom Messen der geraden Linien, der Zirkellinien, geradlinigten Winkel und Figuren des Kreiſes.
+
+S. 165. Vom Messen der geraden Linien.
+
+Messen heißt bestimmen, wie oft eine Größe in einer andern gegebenen enthalten ist.
+
+Die Größe, die in einer andern enthalten seyn soll, heißt das Maaß, diejenige, in der sie enthalten seyn soll, das zu Messende.
+
+Das Maaß wird als die Einheit betrachtet und beim Messen giebt das Verhältniß des Maaßes zu dem zu Messenden an, schieht durch eine Zahl.
+
+und dies ges
+
+Da nun beim Messen das
+
+Maaß und das zu Messende mit einander verglichen werden, so müssen beide gleichartig seyn.
+
+Maaß der geraden Linien ist eine gerade Linie.
+
+Einheit selbst ist willkührlich, nur muß sie als bekannt vorausgeſetzt werden und unveränderlich seyn. Da die gerade Linie eine Ausdehnung (die Länge) hat, so nennen wir das Maaß der geraden
+
+[p. 317] Linien das Längenmaaß.
+
+Grundmaaß, dessen man sich gewöhnlich in der Geometrie bedient, ist der Fuß oder Schu; seine Größe wird als des kannt vorausgesetzt. Da aber bei großen Längen die Zahl zu groß werden würde, wenn man den Fuß als Einheit betrachtete, so hat man nach dem Fuße größere Maaße bestimmt, und da er bei Messung der kleinen Längen zu Brüchen führen würde, hat man noch kleinere Maaße nach ihm beſtimmt. Diese Bestimmungen größeren kleineren
+
+Maaße nach dem Fuß sind entweder zehntheilig oder zwölftheilig, im ersten Fall heißt das Maaß geometrisch oder Decimalmaaß, im andern Fall rheinländisch oder Duodecimalmaaß;
+
+bei beiden geht man von einerlei Einheit, dem Fuß, aus.
+
+Ein Fuß zehnmal genommen, giebt eine geometrische Ruthe, ein Fuß in 10 gleiche Theile getheilt, giebt einen geometrischen Zoll, diesen in 10 gleiche Theile getheilt, erhält man eine geometrische Linie, und diese in 10 gleiche Theile getheilt, einen geometriſchen Skrupel. Ein Fuß 12 mal genommen giebt eine rheinländische Ruthe, ' den Fuß in 12 gleiche Theile getheilt erhält man einen rheinländischen Zoll, dieſen in
+
+12 gleiche Theile getheilt eine rheinländische Linie u. s. w.
+
+Was ist größer eine rheinländische oder eine geometrische Ruthe? Was ist größer ein rheinländischer oder ein geometrischer Zoll?
+
+Man bezeichnet Ruthe mito, Fuß mit
+
+, Zoll mit ", Linien mit ", Skrupel mit™, nur ist zu bemerken, die Zeichen oben zur rechten Hand an die Zahl gesetzt werden, zu deren Benennung sie dienen, ſo heißt z. B. 8° 91 7
+
+3ш 5
+
+8 Ruthen 9 Fuß
+
+7 Zoll 3 Linien 5 Skrupel. Da im obigen das Verhältniß des geometriſchen und rheinländischen Maaßes angegeben iſt, ſo ließe sich nach den Regeln der geometriſchen Proportion leicht ein Maaß in das andere verwandeln. g. heiße geometriſches Maaß, rh. rheinländisches, so sind folgendes die Grundproportionen: ΙΟ rh. = 10 9. = 1 Fuß
+
+12" rh. 144™ rh. = rh.
+
+10" § . = 1 Fuß g.
+
+Fuß
+
+1000V §.
+
+1 Fuß
+
+Wieviel sind 9º 81 71 3ш 9¹ geom. Maaß, wenn man es in rheinländisches verwandelt? Wieviel sind 23° 91 11º 51 rheinländisches Maaß, im geometrischen Maaße ausgedrückt? Bei dem neuen französischen Maaß ist das Grundmaaß Metre, es ist der 10 Millionenſte Theil des 4ten Theils eines Erdmeridians und iſt = 3 Fuß, 11,44 Liz nien, Deca - Metre tre
+
+10 Metre,
+
+100 Metre, Kilo - Metre
+
+Hecto.- Me1000 Metre,
+
+10,000 Metre, Deci - Metre = Myria -Metre 1 Metre, Centi - Metre = I Metre, Milli - Me10 tre = Metre.
+
+[p. 319] Ein Körper, auf dem das Längenmaaß verzeichnet ist, heißt ein Maaßstab; wie man sich dessen beim Messen der geraden Linien bedient, bedarf keiDie einzige krumme Linie, welche ner Erläuterung.
+
+die niedere Geometrie betrachtet, ist der Zirkel, unmittelbares Messen durch gerade Linien findet, wie man leicht einſieht, nicht statt, es muß also gezeigt werden, wie man die Größe der Kreislinien durch Rechnung findet.
+
+S. 166. Vom Messen des Umkreiſes eines Cirkels.
+
+Man würde die Größe der Peripherie eines Kreiſes bestimmen können, wenn man das Verhältniß derselben zum Durchmeſſer wüßte, denn den leßtern kann man nach §. 165 meſſen.
+
+Dieses Verhältniß aber zu finden, ſetzt einige geometriſche Säße voraus: Aus der gegebenen Seite eines regulären Vielecks im Kreise und dem Halbmeſſer, die Seite eines regulären Vielecks von doppelt so viel Seiten zu Man nehme den Halbmesser als Maaß, oder was eben so viel sagen will als 1, an.
+
+Die gegebene Seite sen AB Fig. 111.
+
+ziehe CE senkrecht auf AB und verlängere sie bis D, so wird ACB in zwei gleiche Theile getheilt, zieht man nun AD, so ist dies die verlangte Seite.
+
+Es wird also jetzt gefordert, die Größe von AD nach AB und dem gegebenen Halbmeſſer = 1 zu bestimmen. AD? = AE² + ED² AD = √ AE² +ED
+
+Nun ist aber AE = = AB (ſ. §. 63, 2) , alſo AE² AB2, ED CD CE, also ED² = (CD- CE)
+
+(I und da CD = i, so ist ED²
+
+CE) ² = 1 - 2 CE + CE. ' Folglich ist
+
+AD = √ AЕ² + ED² = √ 4 AB² 2·CE + CE²;
+
++ 1 doch auch dieser Ausdruck ist noch nicht zu gebrauchen, weil CE darin vorkommt, was wir nicht kennen. Es ist aber CE2 =
+
+CA2 -
+
+AE2
+
+VIAB². AB² und also CE = VT
+
+Folglich AD = √ (AB² + 1—2X √ (1— 'AB²) + i ——AB²) = √ (2 − 2 √ (1 —
+
+1 AB²)) = √ 2 (1i − √ (1 — — AB²) ) . Nun wiſſen wir nach §. 141, daß die Seite des Sechsecks gleich ist dem Radius, hier also = 1,
+
+Nimmt man also AB = 1, so ist AD, oder die) : Seite des Zwölfecks, = √2 (1 − V (1 − - V3 √ 2 √ 2 (1 — √ ²) = √ 2 (1 − V 4) (1− 2 1³) = " V (2 — √ 3) = 0,51763809.
+
+Man kann also auf diese Weise die Seite eines Vier und Zwanzigecks, Acht und Vierzigecks u. s. w. finden, je weiter man geht, desto mehr nähert sich [p. 321] der Umkreis des Polygons dem Umkreise des Zirkels;
+
+und so wird man am Ende ohne merklichen
+
+Fehler, den Umkreis des Polygons für die Peripherie des Kreises nehmen können. Multiplicirt man nun die gefundene Seite eines Polygons mit der halben Anzahl der Seiten, so erhält man das Verhältniß des Radius zur halben
+
+Peripherie, oder welches einerlei ist, das Verhältniß des Durchmessers zum ganzen Umkreise.
+
+Man hat die oben genannten Rechnungen angestellt und gefunden, der Durchmesser verhält sich zum Umkreise wie 1: 3,1459265358979323846264338387950 ♦ ♦♦ Gewöhnlich braucht man das Verhältniß 1: 3,14 oder 100: 314.
+
+Dies Verhältniß wie man leicht einſieht;
+
+ſetzt uns nun, in den Stand,
+
+Durchmesser eines Kreises, aus dem den man leicht meſſen kann, die Peripherie desselben zu berechnen; wie man aus dem gegebenen Umkreise eben so leicht den Durchmesser finden kann.
+
+Der Durchmesser eines Kreiſes ſey 6', wie groß ist der Umkreis deſſelben? Der Halbmeſſer iſt 5′ 4″, wie groß ist die Peripherie? Die Peripherie ist 10' , wie groß ist der Durchmesser? Der größte Umkreis der Erde sey 5400 Meilen, welches ist der dazu gehörige Durchmesser?
+
+[p. 322] §. 167. Vom Messen der Winkel. Wir haben oben gezeigt, daß der rechte Winkel ſich dadurch zum Maaße für die Winkel überhaupt schickt, weil alle rechte Winkel gleich sind, und wir haben auch nach ihm beſtimmt, was ſpitze, ſtumpfe hole und erhabene Winkel sind, allein diese Bestimmung der Größe der Winkel ist noch kein eigentliches Messen.
+
+Zum Maaße für die Winkel bedient man sich nun nicht des rechten Winkels selbst, Einheit zu groß wäre,
+
+Winkel Brüche zu Zahlen weil die man für die spitzen erhielte, sondern theilt denselben in 90 gleiche Theile, und nennt jeden Theil einen Grad,
+
+Grad_theilt man in
+
+60 Minuten, die Minute in 60 Sekunden, die Sekunde in 60 Terzien u. f. w. Grade mit Man bezeichnet die Minuten mit die Sekunden mit ", die Terzen mit " , und schreibt diese Zeichen oben zur rechten Hand an die Zahl die bezeichnet werden soll; so heißt ABC = 8 ° 91 57ш ABC ist ein Winkel von 8 Graden,
+
+9 Minuten,
+
+5 Se kunden, 7 Terzen.
+
+Jetzt kömmt es nun darauf an, zu zeigen, wie man Winkel mißt.
+
+Dies geschieht auf dem Papier mit dem Transporteur, Astrolabio.
+
+auf dem Felde mit dem
+
+Beider Einrichtung beruht auf folgenden
+
+Säßen der Geometrie: Die Größe eines Winkels ist von der Länge seiner Schenkel ganz unabhängig;
+
+[p. 323] ferner: zu gleichen Winkeln am Mittelpunkte gehören in einem Kreise gleiche Bogen. Wenn man also den rechten Winkel zu einem Winkel am Mittelpunkte macht und ihn in 90 gleiche Theile (Grade) eintheilt, ſo wird der dazu gehörige Zirkelbogen gleichfalls in 90 Theile getheilt, Grade nennt.
+
+(Quadrant)
+
+die man ebenfalls
+
+Ein gleiches gilt auch von der Untereintheilung in Minuten, Sekunden, Terzen u. s. w. Hieraus ergiebt sich, daß in einem und demſelben
+
+Kreise die Winkel ſich verhalten wie die Bogen, und die Bogen wie die Winkel.
+
+Der Transporteur ist nun ein halber Kreis von Meſſing, deſſen Mittelpunkt bezeichnet eingetheilt ist, und der in
+
+180 ° und worauf sich auch mehr oder weniger Uatereins theilungen finden.
+
+Man legt den Mittelpunkt des
+
+Kreises auf die Spitze des Winkels, Transporteur bis der Radius, und rückt den wo sich Null findet, auf den einen Schenkel zu liegen kommt, der andere Schenkel zeigt sodann die Grade, Minuten u. s. w. auf dem Transporteur. Es ist leicht einzusehen, daß es völlig gleichgültig ist, was man sich für eines Kreiſes zur Beſtimmung der Größe des Winkels bedient; denn da der rechte Winkel immer den vierten Theil des Kreises zu seinem Maaßstabe hat, der Zirkel mag groß oder klein seyn, so werden die Untereintheilungen in Grade, Minuten u. s. w. auch immer ein gleiches Verhältniß gegen den ganzen Kreis behalten, und die Zahlen beim Maaße der Winkel bestimmen auch ei [p. 324] gentlich nur dieses Verhältniß; die Grade, Minuten 2.
+
+obgleich daher auf verſchiedenen Transporteuren nicht einerlei ſeyn können, so haben sie doch ein gleiches Verhältniß zum Quadranten, dadurch auch die damit bezeichneten Winkel zum rechten Winkel. Der Transporteur setzt uns alſo in den Stand, die Größe eines gegebenen Winkels (d. h. sein Verhältniß zum rechten Winkel) zu beſtimmen, Winkel von einer beſtimmten Größe zu verzeichnen, und einen Winkel ohne Schwierigkeiten von einer Stelle zur andern zu legen, von welchem leßtern das Instrument wohl seinen Namen hat.
+
+Das Astrolabium hat faſt dieselbe Einrichtung wie der Transporteur, nur daß és ſeiner Bestimmung gemäß noch Theile hat, die diesem fehlen.
+
+Der Transporteur setzt uns in den Stand, jede verlangte reguläre Figur zu verzeichnen, uns die Anzahl der Seiten und eine derselben gegeben ist.
+
+Man sucht nach §. 137 die Größe eines Polygonwinkels, gegebenen Seite.
+
+und ſetzt dieſen an der weitere Verfahren ist leicht zu finden.
+
+Vom Messen der geradlinigten Figuren.
+
+S. 168. Zum Maaße der Flächen dienen Flächen. Grundmaaß ist der Quadratfuß;
+
+dies ist
+
+Quadrat, von dem jede Seite die Größe eines Fußes
+
+Man steigt beim Flächenmaaße wiederum aufund abwärts, und auch hier findet das geometrische oder rheinländische Maaß statt.
+
+Eine rheinländifche
+
+Quadratruthe iſt ein Quadrat, dessen jede
+
+Seite
+
+12 Fuß lang ist; es besteht also aus 144 Quadratfuß.
+
+Man sieht also leicht ein, daß eine geometrische Quadratruthe nur 100 Quadratfuß enthalten könne.
+
+Eben so enthält ein Quadratfuß 144 rheinländiſche Quadratzoll, jeder derselben 144 rheinländiſche Quadratlinien, und jeder von dieſen 144 rheinländische Quadratſkrupel;
+
+ferner enthält ein Quadratfuß 100 geometrische Quadratzoll, jeder derselben 100 geometrische Quadratlinien u. f. w. —· Die Verwandlung eines Maaßes in das andre geschieht auf eine ähnliche Weise wie beim Längenmaaße, und läßt sich bei einigem Nachdenken leicht finden. Was das Franzöſiſche Flächenmaaß betrifft, liegt ihm wiederum der Metre zum Grunde.
+
+ſo
+
+Quadrat-Metre oder ein Quadrat Deca-Metre heißt Are, ist das Grundmaaß für die Fläche.
+
+100 Are geben ein Hect - Are, und 100 Hect-Are ein Myri -Are.
+
+Ein Are enthält oder 100 Centi- Are,
+
+10 Deci - Are so daß ein Centi - Are ein Metre im Quadrat ist.
+
+S. 169. So viel über das Maaß bei den Flächen; mehr entsteht die Frage: Flächen?
+
+nunwie mißt man gegebene
+
+Man sieht bald ein, daß das mechaniſche
+
+[p. 326] Meſſen, welches man bei den geraden Linien durch Anlegung des Maaßstabes vornimmt, bei den Flächen durch Anlegung eines Flächenmaaßes nicht bloß äußerst schwierig, ſondern in vielen Fällen unzulänglich seyn muß. Daher ist man darauf bedacht geweſen, das Messen auf Längenmaaß und aus diesem durch Rechnung, Fläche zu finden.
+
+einzuſchränken, die Größe der
+
+Dies setzt aber einige geometrische Säße voraus, die wir jetzt geben wollen.
+
+Zwei Dreiecke verhalten sich ihrem Flächenraum nach, wie die Produkte aus ihren Grundflächen und Höhen.
+
+Fig. 112 sen die Höhe von
+
+ABC = AG;
+
+man errichte in F eine senkrechte Linie FH = AG, ziehe EH, und ziehe DI + ES, so ist IF die Höhe Nun ist
+
+DES.
+
+vom
+
+AABC:
+
+HEF = BC: ES nach §. 143.
+
+AHEF
+
+ADES = FH (AG) : IF nach §. 144.
+
+AABC. AHEF: AG
+
+Ergo
+
+HEF.
+
+DES
+
+BC.
+
+ES. IF
+
+ABC: A DES = BC. AG: ES. IF.
+
+Dreiecke
+
+Hälften der Parallelogramme sind, die mit ihnen gleiche Grundlinien und Hdhen haben, und die Ganzen sich verhalten wie die
+
+[p. 327] Hälften;
+
+so verhalten sich zwei
+
+Parallelogramme, wie die Produkte aus ihren Grundlinien und Höhen, §. 170. Den Inhalt eines Parallelogramms zu finden. *Aufläsung*.
+
+Zwei Parallelogramme verhalten sich Produkte ihrer Nimmt
+
+Grundlinien und Höhen.
+
+man nun einen Quadratfuß zum Maaß an,
+
+ſo iſt das Produkt der Grundlinie und der Höhe des MaaBes = 1, man wird also bestimmen müssen, viel Fuß die Grundlinie und wie viel die Höhe enthält, das Produkt aus beiden giebt das Verhältniß des Parallelogramms zum Quadratfuß, Inhalt desselben in Quadratfuß. ein, d. h. den Man sieht leicht daß man eben so Quadratruthen, * Quadratzolle c. hätte zum Maaß nehmen können.
+
+Um also den Inhalt eines Parallelogramms zu finden, multiplicire man seine Grundlinie mit seiner Höhe. Die Grundlinie eines Parallelogramms´ sey 12′6″, ſeine Höhe 9'3";
+
+welches iſt ſein Inhalt in rheinländischem und geometriſchem Maaß? 1. Man findet den Inhalt eines Quadrats, wenn man die Länge seiner Seite quadrirt, d. h. mit sich selbst multiplicirt. 2. Man findet den Inhalt eines Rechtecks, wenn man die Länge der beiden Seiten, die einen Winkel bilden, multiplicirt.
+
+[p. 328] 3. Da ein Dreieck die Hälfte eines Parallelogramms ist, das mit ihm gleiche Grundlinie und Höhe hat, so findet man den Inhalt eines Dreiecks, wenn man die Grundlinie deſſelben mit seiner Höhe multiplicirt und das Produkt mit 2 dividirt;
+
+wenn man die Grundlinie mit der halben Höhe, oder endlich wenn man die halbe Grundlinie mit der Höhe multiplicirt.
+
+S. 171. Den Inhalt jeder geradlinigten Figur zu finden. Man zerfälle sie durch Diagonalen in Dreiecke, und berechne diese nach §. 170, die Summe derselben giebt den Inhalt der Figur.
+
+§. 172. Den Flächeninhalt finden, eines regulären Vielecks zu wenn die eine Seite, die Anzahl derselben und der Halbmesser des umschriebenen Kreises gegeben ist. Die gegebene Seite sey AB, die Anzahl der Seiten n, der Halbmesser r, so ist der Inhalt des PoIngons gleich n mal dem Inhalt eines Dreiecks, das. entsteht, wenn man von dem Mittelpunkt des Kreises Radien nach A und B zieht, wie Figur 113 das. Dreieck ACB.
+
+Ist CD die Höhe des Dreiecks, so [p. 329] ist der Inhalt von ACB
+
+, AB. CD, und also der Inhalt des Polygons == n. AB. CD. diesem Ausdruck uns
+
+CD unbekannt, allein
+
+CD² =r² —AD² —r² — ( — AB) ² = r² = — AB² also CD = Vr - AB2, folglich der Inhalt des = 1 n. AB. Vr² AB². Polygons ===
+
+Vom Messen des Kreiſes und einiger dazu gehörigen Figuren.
+
+§. 173+ Den Inhalt eines Kreises zu finden, wenn der Radius gegeben ist.
+
+Die Auflösung dieser Aufgabe findet man nach €8 §. 142. §. 166 und §. 170. Folgesat 3. heiße a der Inhalt des Kreiſes, d sein Durchmesser, - das Verhältniß des Durchmessers zur Peripherie, d² Heißt r der Ra4 dius, so ist d = 2r, also a = r² π+ so wird man finden, a =
+
+Der Durchmesser eines Kreises sey 6', welches ist fein Inhalt? S. 174. Den Inhalt eines Ausschnitts zu berechnen, wenn der Halbmesser des Kreises bekannt, und der Bogen des Ausschnitts in Graden gegeben ist. Anleitung zur Aufldſung,
+
+Der Ausschnitt verhält sich zum Kreise, wie der [p. 330] dazu gehörige Bogen zur ganzen Peripherie.
+
+Dies.
+
+führt mit §. 173 zur Auflöſung.
+
+S. 175. Den Inhalt eines Abſchnitts zu finden. Man berechne nach §. 174 den Ausschnitt, der zu demselben Bogen gehört, und ziehe den Inhalt des Dreiecks, der die beiden Radien und die Sehne des Abschnitts zu Seiten hat, davon ab.
+
+S. 176. Den Inhalt des Ringes zwischen zwei concentrischen Kreisen zu finden. Die Auflösung kann nach §. 173 keine Schwierigkeiten machen.
+
+Ueber das Verhältniß der Figuren unter einander.
+
+§. 177. Aehnliche Dreiecke verhalten sich wie die Qua-drate jeder zwei gleichliegenden Seiten. Die beiden Dreiecke seyen ABC und abc Fig. 114; die Höhe des erstern ſey AD, des andern ad, ſo iſt ▲ ABC: ^ abc = AD. BC ad. bc.
+
+so ist AD: ad
+
+AD. BC: 2 ad, bc.—
+
+Da aber ▲ ABD
+
+AB: ab
+
+BC; bc.
+
+▲ abd,
+
+[p. 331] Da nun
+
+ABC:
+
+abc ad
+
+▲ ABC. AD:
+
+Ergo
+
+AD. BC.: ad. bc.
+
+A ABC:
+
+abc. ad➡AD. BC2; ad.bc2 abc
+
+BC2; bc2.
+
+§. 178. Aehnliche geradlinigte Figuren verhalten sich wie die Quadrate gleichliegender Seiten oder Diagonallinien.
+
+Man theile die Figuren durch gleichliegende Diagonalen in Dreiecke.
+
+Jedes Paar dieser Dreiecke wird sich nach §. 177 verhalten wie die Quadrate gleichliegender Seiten.
+
+Nun wird man leicht das
+
+Verhältniß aller Paare dieser Dreiecke auf die Quadrate zweier gleichliegenden Seiten oder Diagonalen zurückführen können nach §. 162; alle Dreiecke zu sammen genommen aber geben den Inhalt der ganzen Figur, und also gilt von dem Verhältniß der ganzen Figuren, was von dem Verhältniß der einzelnen Dreiecke gilt, aus denen sie bestehen.
+
+§. 179. Reguläre Figuren von gleicher Seitenanzahl vers halten sich wie die Quadrate der Halbmeſſer der darum beschriebenen Kreise. Beweis, Nach §. 153 ſind reguläre Figuren von gleicher
+
+[p. 332] Seitenanzahl ähnlich; nach §. 178 verhalten sie sich also wie die Quadrate ihrer Seiten, und diese nach §. 164 wie die Quadrate der Halbmeſſer der darum beschriebenen Kreise.
+
+Folgesat. Zwei Kreise verhalten sich wie die Quadrate ihs rer Halbmesser oder Durchmesser.
+
+#### §. 180.
+
+Summe zweier ähnlicher Figuren, gleichliegende Seiten die Catheten eines rechtwinkligten Dreiecks sind, ist der ihnen ähnlichen Figur gleich, deren gleichliegende
+
+Seite die Hypothenuſe dieſes
+
+Dreiecks ist. Das rechtwinkligte Dreieck set ABC Fig. 115; die über AC beschriebene Figur heiße P; die über AB beschriebene Q, und die über BC beschriebene R, so soll Th. Q + RP.
+
+Q: RAB
+
+: BC2
+
+Q + R: R = AB
+
++ BC: BC2
+
+PRAC²: BC2
+
+Q + R: PAB² + BC²: AC2 Da nun AB² + BC² = AC², ſo iſt Q + R = P. S. 181. Die beiden Kreise, die zu ihren Durchmeſſern die [p. 333] Catheten eines rechtwinkligten Dreiecks haben, sind zusammen genommen dem Kreise gleich, der zu seinem Durchmesser die Hypothenuse eben dieses Dreiecks
+
+Der Beweis dieses Lehrsages beruht auf S. 179. Folgesatz, und stimmt mit dem im vorhergehenden F. geführten überein. Nach diesem Lehrſaß laßen sich leicht folgende Aufgaben lösen: Zwei oder mehrere Kreise in einen zu verwandeln. Einen Kreis zu machen, der der Differenz zweier gegebener Kreise gleich ist. Zur Auflösung der Aufgaben kann §. 105 und 106 dienen.
+
+S. 182. Wenn man über der Hypothenuſe eines rechtwinkligten gleichſchenkligten Dreiecks, und über jede Cathete einen halben Kreis beschreibt, so ist das Dreieck den beiden Figuren gleich, die von den Quadranten des halben Kreiſes der Hypothenuſe und den halben Kreisen der Catheten gebildet werden.
+
+Erläuterung des Lehrfaßes. ABC Fig. 116 sey ein rechtwinkligtes Dreieck,
+
+R und BAAC, man beschreibe über BC einen halben Kreis, so muß dieser durch A gehen, wenn man BC in D in zwei gleiche Theile theilt, und AD zieht, ſo iſt nach §. 48. 1. BAD = 1R, und da ABD auch == R, ſo iſt AD = BD. Man [p. 334] beschreibe ferner über AB und AC halbe Kreiſe, ſo ſoll nach dem Lehrsage ▲ ABC = AIBHA + AFGCA. Man nennt dieſe krummlinigten Figuren, deren Summe dem Dreieck gleich ist, wegen ihrer Form Möndchen (lunulae), und von ihrem Erfinder die Möndchen des Hippocrates.
+
+Der Beweis beruht auf §. 181. und man findet ihn leicht, wenn man auf beiden Seiten so viel wegnimmt, daß auf der einen Seite das Dreieck ABC übrig bleibt. Von der Quadratur ebener Figuren.
+
+§. 183. Eine Figur quadriren heißt ſie in ein ihr gleiches Quadrat verwandeln.
+
+Ein Rechteck in ein Quadrat zu verwandeln. Aufldfung.
+
+Das gegebene Rechteck sey ABCD Fig. 117. Man verlängere AB bis E, so daß BE = BD; beschreibe über AE einen halben Kreis, und verlängere DB bis F, so ist BF die Seite des verlangten Quadrats. Der Beweis findet sich nach §. 159. sehr leicht; wenn man bedenkt, daß der Inhalt des Rechtecks = AB X BD.
+
+S. 184. Da man jede geradlinigte Figur in eia Dreieck, [p. 335] dies in ein Rechteck und dies wie so eben gezeigt worden in ein Quadrat verwandeln kann, so läßt ſich jede geradlinigte Figur quadriren.
+
+Der Zirkel ist einem Dreieck gleich, das seinen Radius zur Höhe und seine Peripherie zur Grundlinie hat; man würde also auch den Zirkel quadriren können, wenn sich das Verhältniß seines Halbmeſſers oder Durchmessers zur Peripherie genau angeben ließe; unsere obige Angabe dieses Verhältnisses §. 166. war blos durch Näherung.
+
+Allgemeine Anmerkung. Die Beantwortung folgender Fragen wird eine Zusammenstellung von Säßen bewirken, die von mancherlei Nutzen seyn kann. 1. Wenn sind Linien einander gleich? 2. Wenn sind Winkel einander gleich? 3. Vergleichung der Winkel unter einander. 4. Wenn sind Dreiecke congruent?
+
+5. Wenn sind Dreiecke gleich? 6. Wenn sind Dreiecke ähnlich? 7. Verhältniß von Figuren unter einander.
+
+[p. 336] Geometrie dritter Theil, welcher die Stereometrie enthält.
+
+S. 185. Die Lage einer Ebene wird durch drei
+
+Punkte, welche nicht in einer geraden Linie liegen beſtimmt, (denn um einen Punkt, auch um eine gerade Linie läßt sich eine Ebene drehen) ; daher wird durch einen geradlinigten Winkel und durch ein geradlinigtes Dreieck die Lage einer Ebene bestimmt. So wie man durch zwei Punkte nur eine gerade Linie ziehen kann, so läßt sich auch durch drei Punkte nur eine Ebene legen. Postulate. 1. Man kann durch jede drei Punkte eine Ebene legen.
+
+2. Man kann jede Ebene nach Gefallen verlängern. S. 186. 1. Wenn zwei Punkte einer geraden Linie in einer A Ebene liegen, liegt die ganze Linie in ihr. 2. Wenn eine gerade Linie eine Ebene schneidet geschieht [p. 337] geschieht dies nur in einem Punkt; dieser Punkt heißt der Durchschnittspunkt. 3. Wenn zwei Ebenen sich schneiden, so haben sie eine Linie mit einander gemein, und diese Linie heißt die Durchschnittslinie. Außer dieser Linie haben sie keinen Punkt mit einander gemein nach S. 185. 4. Man kann durch jede zwei Parallellinien eine Ebene legen;
+
+denn die Lage zweier Parallellinien, wird durch drei Punkte bestimmt.
+
+Zwei Punkte des stimmen nämlich die Lage der einen Linie, und ein dritter Punkt die Lage der andern. 5. Zwei gerade Linien die sich schneiden, liegen in einer Ebene; den Grund wird man finden, wenn man §. 185 und §. 186, 1. anwendet.
+
+S. 187. Der Durchschnitt zweier Ebenen ist allemal eine gerade Linie.
+
+Fig. 119. schneide die Ebene CB die Ebene NM in BD.
+
+Weil B und D in CB liegen, ſo liegt die gerade Linie DB in der Ebene CB, und weil B und D in NM liegen, so liegt die gerade Linie DB in NM; also ist DB der Durchschnitt beider Ebenen. S. 186, 3. S. 188. Eine gerade Linie steht auf einer Ebene senkrecht, [p. 338] wenn sie mit allen geraden Linien, die in der Ebene, von dem Durchschnittspunkte aus gezogen werden können, rechte Winkel bildet.
+
+Lehrsaz. Wenn eine gerade Linie eine Ebene so schneidet, daß sie auf zwei geraden Linien die in der Ebene lies gen und an ihrem Durchschnittspunkte ſich vereinigen, unter sich aber einen Winkel bilden, (d. h. beide nicht eine gerade Linie ausmachen) senkrecht steht, so steht sie auf der ganzen Ebene senkrecht. Fig. 118 sey ABCD die Ebene, ES die gerade Linie, F der Durchschnittspunkt, und ES stehe auf FG und FH senkrecht, so soll sie nun nach Aussage des Lehrsatzes auch auf jede andere in der Ebene an F gezogene gerade Linie, z. B. FI senkrecht stehen.
+
+verlängere FG über F hinaus und mache
+
+FM - FG; gebe der Linie ES eine bestimmte Länge und ziehe EG und EM; nun lege man durch E, G und M eine Ebene, in der beide Dreiecke EFG und EFM liegen, so ist ▲ EFG
+
+▲ EFM nach §. 39 und also EGEM. Ferner mache man FH - FL, ziehe EH und EL, lege durch E, L und H eine Ebene, so ist
+
+EFL
+
+▲ EFH nach §. 39, alſo ELEH. Sodann ziehe man LM und GH, wodurch FI und FK, (welches durch die Verlängerung von FI entstanden) begränzt wird, so ist nach §. 39, also LM
+
+LFMFGH
+
+GH, und FLMFHG.
+
+[p. 339] Auch ist
+
+FLK
+
+FIH nach §. 64, also LK =
+
+IH und FK =IF.
+
+Legt man nun durch ▲ LEM
+
+EGH Ebenen, so ist ▲ LEMA EGH nach §. 44, also ELM ==EHG. Ferner lege man durch ◇ ELK und ▲ EIH
+
+Ebenent, so ist ELK EKEI.
+
+EIH nach §. 39, alſo
+
+Legt man nun endlich durch eine Ebene, so ist
+
+EFK
+
+EFK und
+
+EFI
+
+▲ EFI nach §. 44 und also EFK =EFI==R, wie zu erweisen.
+
+S. 189. Wenn eine gerade Linie auf drei andere, die in Punkte zusammenlaufen, senkrecht steht, so liegen diese drei in einer Ebene. Gesetzt dies sey nicht der Fall, ſo lege man durch zwei derselben eine Ebene, da die dritte nicht in derselben Ebene liegt, so lege man durch die senkrechte Linie und die dritte Linie eine andere Ebene, diese wird die gegebene Ebene in einer geraden Linie schneiden; und so würden in einer Ebene in dem Durchschnittspunkte auf der senkrechten Linie zwei andere senkrecht stehen, die dritte Linie und die gerade Linie welche durch den Schnitt der Ebenen entsteht, welches S. 18 widerspricht.
+
+S. 190. Man kann aus einem Punkte in einer Ebene nur eine senkrechte Linie auf dieselbe aufrichten.
+
+[p. 340] Denn gesetzt man könnte aus dieſem Punkte noch eine andere senkrechte Linie auf die Ebene aufrichten, so werden beide einen Winkel bilden, man lege durch diesen eine Ebene, dieſe wird in der gegebenen Ebene eine gerade Durchſchnittslinie bilden, und so wird man nach §. 18 auf einen Widerspruch ſtoßen.
+
+S. 191. Aus einem Punkte außerhalb einer Ebene kann, nur eine senkrechte Linie auf dieſe herabgefällt werden.
+
+Der Beweis wird indirekte geführt, und man stößt auf einen Widerspruch gegen §. 53.
+
+$. 192. Die senkrechte Linie ist die kürzeste von allen geraden Linien, die man von einem Punkte auf eine Ebene ziehen kann.
+
+Sie mißt daher die Entfernung eines Punktes von der Ebene.
+
+Der Beweis beruht auf §. 55 Zusatz.
+
+S. 193. Wenn von zwei geraden parallelen Linien eine auf einer Ebene senkrecht steht, so gilt dies auch von der andern.
+
+AB stehe Fig. 119. senkrecht auf die Ebene MN, und AB ſey
+
+CD, so soll zu Folge unſers Lehrſages [p. 341] auch CD senkrecht darauf stehen.
+
+Man gebe AB eine bestimmte Größe, ziehe BD, und lege durch AB und CD eine Ebene; sodann ziehe man AD, errichte DE senkrecht auf BD, mache DE BE; so ist
+
+ABD
+
+AB, nnd ziehe
+
+BDE, und alſo BE=AD.
+
+Nun ziehe man AE, so ist ▲ ABE
+
+ADE, also
+
+ABEADE, und da ABE nach der Voraussetzung des Lehrsatzes = R, so ist auch ADER. Da nun BDE = R und ADE = R, ſo ſteht DE auf der durch AB und CD gelegten Ebene senkrecht und also ist auch CDER (§. 188) . Weil nun AB + CD, und ABDR, so ist auch CDB = R und weil CDB = R, und CDER, so ist nach §. 188 CD senkrecht auf MN. S. 194. Wenn zwei gerade Linien auf einer Ebene sentrecht stehen, so sind sie parallel. Der Beweis wird indirekte geführt, und ist leicht zu finden. $. 195. Lehrfat. Zwei gerade Linien, die mit einer dritten, die nicht mit ihnen in einer Ebene sich befindet, parallel sind, sind unter sich parallel. AB sey
+
+ES, und CD ebenfalls, Fig. 120, To soll auch ABCD.
+
+Man lege durch CD und ES eine Ebene, und ziehe von einem beliebigen Punkte
+
+[p. 342] D in CD, DF senkrecht auf ES; ferner lege man durch AB und ES eine Ebene, und ziehe FB sents recht auf AB.
+
+Endlich lege man durch DFB die
+
+Ebene GH, so ist DFE = R, und da ES ‡ AB und FBAR, so ist auch BFE = R, folglich steht ES auf GH senkrecht, und da AB ‡ ES, AB ebenfalls; ferner da CD
+
++ ES, auch CD, also ist nach §. 194
+
+ABCD.
+
+S. 196. Erste Aufgabe Aus einem Punkte außerhalb einer Ebene eine senkrechte Linie auf diese herabzufällen.
+
+Die Ebene sey GH Fig. 121, der Punkt A, man giehe in GH eine beliebige gerade Linie BC, lege durch A und BC eine Ebene, fälle AD senkrecht auf BC, und DE in der Ebene GH ebenfalls, lege durch ADE eine Ebene, und fälle AE senkrecht auf DE, so ist AE die verlangte senkrechte Linie.
+
+AED iſt
+
+R, um also zu zeigen, daß AE auf
+
+GH senkrecht ist, darf man nach §. 188 nur zeijen, daß sie noch auf einer in GH an E gezogenen Linie senkrecht ſteht; man ziehe zu dem Behufe FE
+
+BC, so läßt sich nach §. 193 der Beweis führen. Zweite Aufgabe. Aus einem Punkte in einer Ebene eine senkrechte Linie auf dieselbe aufzurichten. Die Auflösung und der Beweis ergiebt sich nach der vorhergehenden Aufgabe und §. 193.
+
+[p. 343] S. 197. Winkel in verschiedenen Ebenen sind gleich, wenn ihre Schenkel, welche in Absicht der durch die Spitzen gezogenen geraden Linie nach einer Seite liegen, parallel ſind. Die Winkel seyen ABC und DES Fig. 122. AB sey
+
+DE und BC ‡ ES.
+
+Man mache AB = DE, und BC = ES, ziehe die geraden Linien AD, BE, CF, AC und DE.
+
+Man lege durch AB und DE eine
+
+Ebene, so wird BE und AD auch in derselben liegen.
+
+So ist BE ‡ und = AD.
+
+Ferner lege man durch BC und ES eine Ebene, in der also auch BE und CF liegt, ſo iſt BE ‡ und = CF; folglich ist
+
+CF nach §. 195; also auch AC=DF.
+
+Hieraus ergiebt sich
+
+ABCDEF, und aus diesem fließt ABCDEF.
+
+S. 198. Erklärung. Wenn zwei Ebenen einander schneiden, so kann man in der Durchschnittslinie einen Punkt any““men, von welchem man in beiden Ebenen senkrechte Linien auf die Durchschnittslinie errichtet, der Winkel, den beide senkrechte Linien bilden, heißt der Neigungswinkel beider Ebenen.
+
+Aus §. 197 ergiebt sich, daß es einerlei ist, wo man den Punkt in der Durchſchnittslinie annimmt.
+
+Den Bogen, der diesen Neigungswinkel mißt, erhält man, wenn man aus der Spitze des leßtern einen Kreis beschreibt, der beide
+
+[p. 344] Schenkel schneidet. - Iſt der Neigungswinkel ein rechter, so stehen die Ebenen senkrecht auf einander. Die Durchschnittslinie zweier Ebenen steht auf den beiden Linien, die den Neigungswinkel bilden, senkrecht; legt man nun durch die Schenkel des Neigungswinkels eine Ebene, so steht auf dieser die Durchschnittslinie senkrecht; diese Ebene nennt man die Ebene des Neigungswinkels. Man könnte die lettere auch so erklären: ſie iſt diejenige Ebene, welche die Durchschnittslinie zweier Ebenen senkrecht schneidet.
+
+Daß es einerlei ist, in welchem Punkte dies geschieht, ergiebt sich aus dem, was eben über den Neigungswinkel gesagt ist. —
+
+Ein Neigungswinkel ist mit seinem Nebenwinkel stets = 2 R.
+
+S. 199. Eine gerade Linie ist mit einer Ebene parallel, wenn man beide auf beiden Seiten bis ins Unendliche verlängern kann, ohne daß sie zuſammenlaufen.
+
+S. 200. Eine gerade Linie ist mit einer Ebene parallel, wenn sie mit einer in der Ebene gezogenen geraden Linie parallel ist. AB soll 123.
+
+CD seyn, wenn es ‡ mit ES ist Fig.
+
+Man lege durch AB und ES eine Ebene, so wird ES die Durchschnittslinie beider Ebenen.
+
+muß sich beständig in der durch sie gelegten Ebene [p. 345] befinden, man mag beide verlängern so lang man will.
+
+Gesetzt nun AB stieße mit CD zuſammen, so könnte es nur in der Durchschnittslinie ES geschehn, mit welcher sie aber parallel ſeyn soll. S. 201. Lehrfah. Wenn man durch eine gerade Linie, die mit einer Ebene parallel ist, eine Ebene so legt, daß sie die gegebene Ebene schneidet, so ist die Durchschnittslinie mit der gegebenen geraden Linie parallel. Denn gesetzt die gegebene gerade Linie stieße mit der Durchschnittslinie zuſammen, so würde dies, da die Durchschnittslinie in der gegebenen Ebene bleibt, in einem Punkte derselben geschehen müssen, welches der Bedingung des Lehrsages widerspricht. S. 202. Eine gerade Linie kann nicht auf zwei Ebenen die sich schneiden, zugleich senkrecht seyn. Man lege durch die senkrechte Linie und durch einen Punkt in der Durchschnittslinie eine Ebene, so würde man wenn die senkrechte Linie auf beiden Ebenen senkrecht wäre, nach §. 188 auf einen Widerspruch gegen §. 53 stoßen. S. 203.
+
+Zwei Ebenen ſind parallel, wenn man sie auf [p. 346] beiden Seiten bis ins Unendliche verlängern kann, ohne daß sie zusammen laufen.
+
+Wenn eine gerade Linie auf zwei Ebenen senkrecht steht, so ſind die Ebenen parallel. Der Beweis ergiebt ſich aus §. 202.
+
+S. 204. Es wird eine Ebene und ein Punkt außerhalb gegeben, man soll durch diesen Punkt eine andere Ebene mit der ersten parallel legen. Anleitung zur Auflösung und zum Beweise. Die Lage einer Ebene wird durch zwei Schenkel eines Winkels bestimmt.
+
+Die Auflösung und der
+
+Beweis beruht auf §. 203 Lehrsaß, auf 196 erste Aufgabe, S. 188 und §. 197.
+
+$. 205. Wenn man durch zwei Winkel deren Schenkel parallel sind, Ebenen legt, so sind diese Ebenen parallel. Fig. 124 sey in den Winkeln ABC und DES, ABDE und BC ‡ ES, so soll die durch ABC gelegte Ebene GH, der durch DES gelegten IK ‡ ſeyn. Man fälle von B eine senkrechte Linie BM auf IK, und ziehe ML
+
+DE und MN ‡ ES; so ist auch ML
+
+AB und MNBC, also ist wenn man sich durch [p. 347] AB nnd ML eine Ebene denkt, in welcher auch BM liegen muß, ABM + BML = 2 R, und da BML
+
+= R, so ist auch ABM = R;
+
+eben so lege man durch BC und MN eine Ebene, in welcher ebenfalls BM liegen muß, so ist CBM + BMN
+
+2 R, und da BMN = R, so ist auch CBM = R; folglich steht BM sowohl auf IK als GH senkrecht, also ist IK
+
+GH,
+
+§. 206. Wenn zwei parallele Ebenen von einer dritten geschnitten werden, so sind die Durchschnittslinien parallel. Die Durchschnittslinien bleiben stets in den Ebenen, sollten sie also zusammenlaufen, so müßte dies auch der Fall mit den Ebenen seyn.
+
+S. 207. Wenn man zwischen zwei parallelen Ebenen ein Paar gerade Linien so zieht, daß ein Endpunkt jeder dieser geraden Linien in der einen und der andere in der andern Ebene liegt, und man diese Linien durch eine dritte mit der vorhergehenden parallele Ebene schneidet, so stehen die abgeſchnittenen Stücke der Linien in Proportion. Fig. 125 ſey AB ‡ ES, man ziehe die geraden
+
+Linien GH und IK, man schneide sie durch CD, so [p. 348] soll GL: LH = IM; MK, man ziehe GI, LM und KH, welche untereinander ‡ sind, und sodann
+
+IH, so ergiebt sich der Beweis aus §. 145. §. 208. Wenn man auf einer Ebene eine senkrechte Linie errichtet, und durch diese eine Ebene legt, so steht auch diese auf der ersten Ebene senkrecht. Der Beweis ergiebt sich nach §. 198.
+
+S. 209. Wenn eine Ebene auf einer andern senkrecht steht, und man zieht in der einen Ebene eine senkrechte Linie auf die Durchschnittslinie, so steht diese auch auf der andern Ebene senkrecht. Der Beweis ist nach §. 198 zu führen.
+
+S. 210. Lehrsaz. Wenn zwei parallele Ebenen von einer dritten geschnitten werden, so sind die Neigungswinkel der schneidenden
+
+Ebene gegen beide parallele
+
+Ebenen gleich groß.
+
+Fig. 126.
+
+AB ſey ‡ CD und ES ſchneide ſie, so sind die Durchschnittslinien GH und IK parallel. Man nehme in GH einen Punkt M an, MO senkrecht auf IK, senkrecht;
+
+und ziehe so steht MO auch auf GH man verlängere MO bis L, und lege durch MO eine Ebene senkrecht auf ES, ſo wird diese AB und CD in MN und OP ſchneiden, MN ist
+
+OP,
+
+LMN und also LMN = MOP.
+
+MOP aber sind die Neigungswinkel der schneidenden Ebene mit den parallelen Ebenen. S. 211. Lehrsas. Wenn zwei Ebenen von einer dritten geschnitten werden, und die Neigungswinkel der schneidenden
+
+Ebenen mit den beiden andern Ebenen sind gleich groß, so ſind die beiden Ebenen parallel.
+
+Fig. 126 ſey LMN = MOP, ſo ſoll ABCD seyn.
+
+Iſt LMN
+
+MOP, so ist MN ‡ OP, fällt man eine senkrechte Linie QR von MN nach OP, so steht diese auch auf MN senkrecht, der Ebene der Neigungswinkel, und liegt in daher ist QR nach
+
+§. 209 auf AB und CD senkrecht, also
+
+ABCD nach §. 203. S. 212. Den Neigungswinkel einer geraden Linie gegen eine Ebene erhält man, wenn man aus einem Punkte der geraden Linie eine senkrechte Linie auf die Ebene fällt, und ſodann die beiden Durchschnittspunkte durch eine gerade Linie verbindet;
+
+der Winkel, den die lettere Linie mit der gegebenen geraden Linie macht, ist der Neigungswinkel.
+
+Ist z. B.
+
+Fig. 127 AB die Linie, so ist ABC der Neigungswinkel.
+
+[p. 350] S. 213. Lehrfah. Wenn Parallellinien von einer Ebene geschnitten werden, so sind die Neigungswinkel gleich groß. Wenn Fig. 127 AB DES. Es ist BAC
+
+DE, so soll ABC = EDF nach §. 197; folglich ist in den beiden rechtwinkligten Dreiecken auch ABC = DES.
+
+S. 214. Wenn zwei Ebenen, die sich schneiden, auf einer dritten senkrecht sind, so ist auch ihre Durchschnittslinie auf der dritten. Ebene senkrecht. Die sich schneidenden CN Fig. 128;
+
+Ebenen seyen AM sie seyen auf ES senkrecht, so soll
+
+GH auch auf ES senkrecht seyn.
+
+Man ziehe in
+
+ES, HK auf HN senkrecht, und eben so HL senkrecht auf HM, so ist nach §. 209 HK senkrecht auf CN, und HL senkrecht auf AM, also GHK = R, und GHL gleichfalls;
+
+folglich nach §. 188
+
+GH ſenkrecht auf ES.
+
+Von den geometrischen Körpern. S. 215.
+
+Ein geometrischer Körper ist ein nach allen Seiten begrenzter Raum;
+
+er hat also eine dreifache
+
+Ausdehnung:
+
+Breite und Höhe.
+
+Länge,
+
+[p. 351] Grenzen des Körpers sind ebene oder krumme Flächen.
+
+Zwei geometrische Körper sind gleich, wenn sie gleichviel Raum einnehmen;
+
+< ähnlich, wenn sie von gleichviel und ähnlichen Flächen begrenzt werben; congruent, wenn sie gleich und ähnlich ſind. Eine, zwei, auch drei Ebenen bilden keinen geo=" metrischen Körper; es werden deren wenigstens vier erfordert. Allgemein nennt man Seitenflächen (hedrae) alle Flächen, die den Körper begrenzen, aber zuweilen nimmt man die Grundflächen davon aus, worunter man entweder die` Fläche des Körpers, auf welcher man sich den Körper als ruhend vorstellt,` oder eine andere bestimmte Fläche versteht.
+
+Die lettere Benennung soll bei jedem Körper, wo sie ges braucht wird, sich zwei angegeben
+
+Seitenflächen begrenzen,
+
+Wo finden sich die Seitenlinien oder Seitenkanten des Körpers, und der Punkt an der Oberfläche, wo drei oder mehrere Ebenen zusammen stoßen, heißt der körperliche Winfel oder die Ecke.
+
+Die ganze Grenze
+
+Körpers heißt seine
+
+Oberfläche.
+
+Erklärung der merkwürdigsten geometriſchen Körper und ihrer Eigenschaften.
+
+S. 216. Ein Prisma oder eine Ecksäule ist ein geometrischer Körper, indem zwei einander gegenübers [p. 352] stehende Seitenflächen congruente geradlinigte Figuren, die andern Seitenflächen aber Parallelogramme sind, Figur 129. — Die Seitenflächen können nur Parallelogramme ſeyn, wenn die congruenten Figuren parallel sind. Diese parallele Figuren heißen die Grundflächen des Prismas; gramme heißen
+
+Seitenflächen;
+
+die Parallelodie Entfernung der beiden Grundflächen heißt die Höhe des Prismas. Wie findet man also die Höhe des Prismas? Die Grenzen des Prismas sind Ebenen.
+
+theilt die Prismata nach der Anzahl der Seitenflächen in dreiseitige, vierseitige u. f. w. - Es ist leicht einzusehen, daß die Anzahl der Seitenflächen eines Prismas mit der Anzahl der Seiten oder Winkel der Grundflächen übereinstimmt. Ein Prisma, deſſen Grundflächen Parallelogramme sind, heißt ein Parallelepipedum, Fig. 130. Ein Parallelepipedum hat alſo 6 Parallelogramme zu Grenzen.
+
+Lehrfaz. Wenn man ein Prisma mit den Grundflächen parallel schneidet, so ist der Schnitt mit den Grundflächen congruent.
+
+Der Beweis beruht auf §. 206.
+
+§. 76, §. 197 und §. 39, Zuſatz.
+
+Da man nun bei einem Parallelepipedo jede Fläche als Grundfläche annehmen kann, Seite und die ihr entgegenstehende mit ihr ist, so sind in ihm jede zwei eins ander gegenüberstehende Seiten congruent.
+
+#### §. 217.
+
+[p. 353] S. 217. Alle Prismata (also auch alle Parallelepipeda) sind entweder rechtwinkligt oder schiefwinkligt;
+
+ersten Falle stehen die Seitenflächen auf den Grundflächen senkrecht, flächen im zweiten schief.
+
+rechtwinkligten
+
+Die Seiten-
+
+Prismas sind
+
+Rechtecke. Ein Parallelepipedum, dessen Grundflächen und Seitenflächen Quadrate sind, heißt ein Cubus oder Würfel.
+
+Er gehört zur Claſſe der rechtwinkligten
+
+Prismen.
+
+S. 218. Eine Pyramide oder eine Spißsäule ist ein geometrischer Körper, deſſen Grundfläche eine ebene, geradlinigte Figur ist, und dessen Seitenflächen ebene, geradlinigte Dreiecke sind, die in einem Punkte, den man die Spitze nennt, sich vereinigen, Fig. 131. Sie hat also so viel Seitenflächen als die Grundfläche Seiten oder Ecken hat; nach dieser Anzahl der Seitenflächen theilt man sie in dreiseitige, vierſeiz tige, u. s. w.
+
+Warum kann eine Pyramide nicht weniger als dreifeitig seyn? Die Höhe der Pyramide ist die Entfernung der Spitze von der Grundfläche.
+
+Wie findet man also diese Höhe?
+
+Wenn eine Pyramide
+
+Grundfläche parallel schneidet, so erhält man zum Schnitt eine Figur, die der Grundfläche ähnlich ist,
+
+J [p. 354] das Verhältniß der gleichnamigen Seiten dieser Figuren ist gleich dem Verhältniß ihrer Entfernungen Daher verhalten von der Spitze der Pyramide.
+
+sich die Ebenen der Grundflächen und der Durchder
+
+ſchnittsfigur wie die Quadrate
+
+Entfernungen
+
+Der Beweis dieſer Säße beruht von der Spize.
+
+auf §. 206, §. 145, §. 197 und §. 153.
+
+Anmerkung, Eine Pyramide, von der ein Stück von der Spitze nach der Grundfläche zu, ser parallel abgeschnitten und mit dies worden, heißt abgekürzte Pyramide
+
+S. 219. Wenn man bei einem Prisma statt einer ebenen, geradlinigten Figur Kreise zu Grundflächen annimmt, die Mittelpunkte beider Kreise durch eine gerade Linie verbindet, und sodann statt der Seitenflächen durch die Peripherie beider Kreise eine krumme Fläche so legt, daß wenn man von einem Punkte der Peripherie des einen Kreises eine gerade Linie bis zur Peripherie des andern Kreises mit der durch die Mittelpunkte gezogenen geraden Linie parallel zieht, dieſe in die krumme Seitenfläche fällt, so erhält man einen Cylinder oder eine Walze;
+
+dieser ist also als ein Prisma von unendlich viel Seiten zu betrachten.
+
+Die durch die Mittelpunkte der Grundflächen gezogene gerade Linie heißt die Are des Cylinders.
+
+Er heißt senkrecht, wenn seine Are auf den Grundflächen senkrecht ſieht; schief, wenn [p. 355] dies nicht der Fall ist. -
+
+Die Höhe des Cylinders ist die Entfernung der beiden Grundflächen;
+
+beim senkrechten Cylinder ist sie der Are gleich.
+
+Wenn man einen Cylinder mit den Grundflächen parallel ſchneidet, so erhält man zum Schnitt einen mit den Grundflächen congruenten Kreis.
+
+Der Des weis beruht auf dem Lehrsaß §. 216.
+
+Schneidet man einen Cylinder durch eine Ebene, so daß diese durch die Are geht, so ist der Durchschnitt ein Parallelogramm, und wenn der Cylinder senkrecht ist, ein Rechteck.
+
+S. 220. Ein Kegel ist eine Pyramide, deren Grundfläche ein Kreis ist;
+
+wo aber statt der Seitenflächen eine einzige krumme Fläche ihn so begrenzt, daß jede gerade Linie, die man von der Spitze nach einem Punkte des Umkreises der Grundfläche zieht, in diese krumme Fläche fällt.
+
+Der Regel ist also als eine
+
+Pyramide von unendlich viel Seiten zu betrachten. Die gerade Linie, die man von der Spitze des Kegels durch den Mittelpunkt der Grundfläche zieht, heißt die Are des Kegels; steht diese auf der Grundfläche senkrecht, so heißt der Regel senkrecht; dies nicht der Fall, schief.
+
+Die Höhe des Kegels ist die Entfernung der Spitze von der Grundfläche; beim senkrechten Kegel ist es seine Axe.
+
+Wenn man einen Kegel mit der Grundfläche pa [p. 356] rallel schneidet, so ist der Durchschnitt ein Kreis. Die Halbmesser des Durchschnitts und der Grundfläche verhalten sich wie die Entfernungen von der Spitze des Kegels, und die Kreise selbst wie die Quadrate der Entfernungen. sich nach §. 218.
+
+Beweis ergiebt
+
+Ein Kegel, von dem ein Stück von der Spitze nach der Grundfläche mit derselben parallel abgeschnitten worden, heißt ein abgekürzter Regel
+
+S. 221. Eine Kugel oder Sphäre ist ein geometrischer Körper, der von einer einzigen Fläche so eingeschlossen ist, daß jeder Punkt derselben von einem Punkte innerhalb gleich weit absteht.
+
+Dieser Punkt heißt der Mittelpunkt der Kugel.
+
+Die begrenzende
+
+Fläche heißt die Kugelfläche.
+
+Eine gerade Linie vom Mittelpunkt bis an die Oberfläche heißt der Radius oder Halbmesser derselben, so wie jede gerade Linie, die man von einem Punkte der Kugelfläche bis zum andern durch den Mittelpunkt zieht, der Durchmesser der Kugel genannt wird.
+
+ſieht leicht ein, daß alle Halbmeſſfer, und also auch alle Durchmesser der Kugel müſſen.
+
+einander gleich seyn
+
+Eine Kugel wird beschrieben, wenn ein halber Kreis sich so lange um seinen Durchmesser bewegt, bis er wieder in seine vorige Lage kömmt.
+
+Der Mittelpunkt, der Halbmesser und der messer des halben Kreises sind auch Halbmesser und Durchmeſſer der Kugel.
+
+Durch-
+
+Mittelpunkt,
+
+S. 222. Ein körperlicher Winkel oder Ecke
+
+Ebenen gebildet, die in einem Punkte zuſammen laufen.
+
+Um einen körperlichen Winkel zu bilden, wer den wenigstens drei ebene Winkel erfordert, die alle in verschiedenen Ebenen liegen.
+
+Von drei ebenen Winkeln, die einen körperlichen Winkel bilden, sind jede zwei zusammen genommen, größer als der dritte.
+
+Man sieht leicht ein, daß hier zuvdrderst drei
+
+Fälle zu unterscheiden sind;
+
+entweder nemlich ſind alle drei ebene Winkel gleich, oder nur zwei derselben sind gleich,
+
+Daß oder alle drei sind ungleich.
+
+im ersten Falle der Lehrsatz seine Richtigkeit habe, ist außer allem Zweifel, wir werden unsern Beweis also bloß auf die beiden übrigen Fälle einzuschränken haben, allein auch hier findet noch eine Einschränkung statt, denn wenn im zweiten Falle der ungleiche Winkel kleiner ist, als jeder der gleichen, so sieht man die Wahrheit dieses Lehrsages für diesen Fall gleichfalls sogleich ein.
+
+Der Beweis wird sich also nur noch auf folgende Fälle erstrecken, der ungleiche Winkel größer ist als jeder der gleichen, und wenn alle drei Winkel ungleich sind;
+
+leztern Falle wird es unter den Winkeln einen geben, der größer ist als jeder der beiden andern.
+
+kann diese beiden Fälle allgemein so darstellen: Wenn [p. 358] von drei ebenen Winkeln, bilden, die ein körperliches Ec ein Winkel größer ist, als jeder der beiden andern, so sind von ihnen immer, je zwei und zwei zusammen genommen, größer als der dritte. Figur 132 sen von den Winkel BAC, BAD und CAD, welche das körperliche Eck A bilden,
+
+BAD und BAC
+
+CAD;
+
+so soll dem
+
+Lehrsatz zufolge BAC + BAD > CAD, BACCAD CAD
+
+BAD, und endlich BAD +
+
+BAC.
+
+Die beiden erstern Säße ergeben sich unmittelbar aus den Datis, nur der letzte bedarf eines Beweises. Um diesen zu führen, mache man BAE = BAD, gebe AE eine beliebige Länge, mache AE = AD, und ziehe in der Ebene von BAC durch E eine gez rade Linie, ſo daß AB und AC geschnitten werden, und endlich ziehe man in den Ebenen der andern Winkel BD und DC.
+
+So ist ABAE also BE = BD, und da im
+
+BDC, BD + DC
+
+> BC, so ist BD + DC > BE + EC, BD + DC
+
+BD + EC,
+
+BAD, b. h. DC
+
+EC.
+
+Da nun in den beiden Dreiecken CAD und CAE,
+
+CE, so ist AC = AC, AD = AE und CD \# nach §. 56 zweiter Lehrsaß CAD > CAE, alſo ist BAD + CAD
+
+BAD+CAE, und da BAD=BAE,
+
+BAD + CAD > BAE + CAE d. §. BAD + CAD
+
+BAC, wie zu erweisen.
+
+[p. 359] S. 223. kehrsag. Drei oder mehrere ebene Winkel, die einen förperlichen Winkel einschließen, sind zuſammengenommen allemal kleiner als 4R Es sey Fig. 132. A eine dreiſeitige Ecke, so soll BACCAD + DAB4R.
+
+Man nehme in den Kanten AB, AC und AD willkürlich die Punkte B, C und D an, und lege durch diese eine Ebene, so entstehen drei dreiſeitige körperliche Ecken bei B, C und D, und es ist nach §. 222:
+
+CBA + ABD > DBC BDA + ADC > CDB BCD DCA + ACB
+
+CBA + ABD + BDA + ADC + DCA +
+
+DBC + CDB + BCD.
+
+Da nun DBC + CDB + BCD = 2R, so ist CBA + ABD
+
++ BDA + ADC + DCA +
+
+2R.
+
+Nun ist aber CBA + ABD + BDA + ADC + DCA + ACB + BAC + CAD + DAB = 6R, also BAC + CAD + DAB ◄ 4R, Geſetzt die körperliche Ecke sey vierſeitig, so lege man durch die vier Seitenflächen eine Ebene so, daß alle 4 Seiten geschnitten werden, und man wird ſodann den Beweis auf dieselbe Art führen können;
+
+[p. 360] dies gilt auch von den fünfseitigen, sechsseitigen 2c. körperlichen Ecken. Jeder ebene Winkel, aus dem man ein körperliches Eck bilden will, muß < 2R seyn; denn wäre er
+
+2 R, so wären nach §. 223 die übrigen 4 R.
+
+> 2R, also ihre Summe
+
+§. 224. Ein Körper heißt regulär, wenn er lauter congruente reguläre ebene Figuren zu lauter gleiche Ecken hat. kann es
+
+Gränzen, und
+
+Solcher regulären Körper nur 5 Arten geben.
+
+Ist er von lauter gleichseitigen Dreiecken eingeschlossen, so ist jeder
+
+Winkel dieses Dreiecks = 60 ° , läßt man jede Ecke dieſes regulären Körpers
+
+3 Winkeln bestehen (zuſammen 180 °) , ſo erhält man ein Tetraeder, das von 4 gleichseitigen Dreiecken eingeschlossen ist; läßt man jede Ecke aus 4 Winkeln bestehen (zusammen 240 ° ), so erhält man ein Oktaeder, was von 8 gleichen gleichseitigen Dreiecken eingeschlossen ist; läßt man jede Ecke aus 5 Winkeln beſtehen (zusammen 300 °), so erhält man ein Ikosaeder von zwanzig gleichen gleichseitigen Dreiecken eingeſchloſſen. Mehr als 5 solcher Winkel kann man nicht verbinden, weil man sonst gegen §. 223 nicht weniger als 360° erhielte.
+
+Macht man ein reguläres Viereck (ein Quadrat) zur Gränze eines regulären Körpers, so ist dessen Winkel = 90 ° , 3. derselben machen 270 °, und so erhält man das Hexarder oder den Würfel [p. 361] (Cubus) , der von 6 gleichen Quadraten eingeſchloſſen ist.
+
+4 Winkel eines Quadrats wegen S. 223 nicht verbinden.
+
+kann man
+
+Der Winkel eines regulären Fünfecks ist = \# 108 ° , 3 derselben laßen sich zur Ecke verbinden (ſie ſind = 324° ), und so entsteht das Dodekaeder, welches von 12 gleichen regulären Fünfecken eingeschlossen ist;
+
+mehr
+
+3 Winkel eines Fünfeckes laßen sich wegen S. 223 nicht zu einer Ecke verbinden. - Der Winkel eines 3 derselben maund dienen also zu keiner Ecke. Je regulären Sechsecks ist = 120° , chen 360º, größer die Anzahl der Seiten eines regulärèn Vielecks wird, desto größer werden seine Winkel (f. §. 74, Zusätze) , also wird man nicht mehr als die genannten regulären Körper bilden können.
+
+Vergleichung der geometrischen Körper unter. einander. S. 225.
+
+Wenn zwei Pyramiden zwischen zwei parallelen Ebenen stehen, und von einer dritten Ebene, die mit beiden parallel ist, geschnitten werden, so verhalten sich die Durchschnittsflächen wie die Grundflächen. Fig. 133 stehe die dreiseitige und vierseitige Pyramide zwischen den beiden parallelen
+
+Ebenen RS und YZ, und werden durch die Ebene TURS + YZ [p. 362] geschnitten;
+
+so ist nach §. 218
+
+EFG
+
+ABCD, also nach §. 178. EFG:
+
+BCD — ES²: BC2 = AE²: AB². Ferner ist nach §. 218 XOPQ » IKLM; alſo nach §. 178. XOPQ: IKLM = XO²: IK² = HX²: HI² HX²:
+
+Nun ist aber nach §. 206 AE2: AP HI2. Folglich
+
+EFG: ^ BCD = XOPQ: IKLM, also DEFG: XOPQ = ^ BCD: IKLM.
+
+Sind die Grundflächen zweier Pyramiden, zwiſchen einerlei parallelen Ebenen liegen, congruent, so sind auch ihre Durchschnitte, den vorigen parallele Ebene die durch eine mit entstehen, congruent;
+
+sind die Grundflächen gleich, ſo sind unter den vorhin gegebenen Bedingungen auch die Durchschnitte Da die Kegel als Pyramiden von unendgleich. lich viel Seiten zu betrachten sind, ſo gilt alles das, was im §. und dem Zusatz von den Pyramiden gesagt ist, auch von ihnen.
+
+S. 226. Prismen, die congruente Grundflächen haben, deren Seitenlinien gleiche Winkel mit den Grundflächen bilden, und deren Höhen gleich sind, sind congruent. Man lege die congruenten Grundflächen so auf [p. 363] einander, daß sie sich decken, so werden ihre Seitenlinien, da ihre Neigungen gegen die Grundfläche (d. h. die Winkel, die sie mit derselben bilden) gleich sind, gleichfalls auf einander fallen, und also auch die Seitenflächen, die durch die Seitenlinien begränzt werden; weil aber die obern Endpunkte der Seitens linien alle in einer Ebene liegen, und weil die Höhe der Prismen gleich ist, zuſammenfallen, ſo fallen auch die zweiten Grundflächen zuſammen, d. h. die Prismen decken sich.
+
+Zusäte. 1. Was von den Prismen gilt, gilt auch von den Parallelipipeden und Würfeln; da aber alle Seitenlinien der Würfel gleich und immer
+
+Grundflächen rechte Winkel bilden, so werden Würfel congruent seyn, wenn sie gleiche Seiten haben. 2. Ein Cylinder ist als ein Prisma von unendlich viel Seiten zu betrachten; und es werden also die Cylinder unter das §. 226 aufgestellte Gesetz gez hören, nur wird man demselben eine andere Form geben können.
+
+Die Grundflächen der Cylinder sind congruent, wenn sie gleiche Durchmesser oder Halbmesser haben; ferner ist die Neigung der unendlich vielen Seitenflächen gleich der Neigung der Axe ges gen ihre Grundflächen; also wird man sagen können: Cylinder sind congruent, wenn ihre Grundflächen gleiche Durch- oder Halbmeſſer haben, wenn ihre Axen gleich sind und die Neigung ihrer Axen zur
+
+[p. 364] Grundfläche gleich ist.
+
+Senkrechte Cylinder sind congruent, wenn ſie gleiche Aren und Durchmesser haben.
+
+S. 227. Ein Parallelepipedum wird von einer Ebene, die zwei gegenüberliegende Ebenen nach ihren Diagonalen schneidet, halbirt, d. h. in zwei gleiche dreiſeitige Prismen getheilt. Ist das Parallelepipedum rechtwinkligt wie Fig. 134, so ergiebt sich der Beweis leicht aus §. 226. — Man hat nur nöthig das Prisma AG, so in das Prisma AH zu legen, das G in E, GH auf ES und FG auf EH zu liegen kömmt, so fallen alle übrige Gränzen zuſammen. Ist das Parallelogramm ſchiefwinkligt, wie Fig. 135, ſo fälle man die senkrechten Linien AM und EN und lege durch beide eine Ebene, und eben so die senkrechten Linien CK und LG, und lege durch beide eine Ebene, so wird dies ein Prisma in den beiden Prismen ßß und ♪♪, und das andere in die beiden Prismen 77 und aa getheilt, wo sich nun zeigen läßt, daß ßß = aa, und ♪♪ = 77.
+
+Ein dreiseitiges Prisma ist also die Hälfte eines Parallelepipedums von gleicher Höhe und doppelter Grundfläche.
+
+[p. 365] S. 228. Wenn man die Seite eines Prismas in lauter gleiche Theile theilt, und das Prisma durch die Theilungspunkte mit der Grundfläche parallel schneidet, so erhält man so viel gleiche Prismen als die Seite Theile enthält. Der Beweis ergiebt ſich aus §. 226 verbunden mit §. 216 und §. 210. Das im S. Gesagte erstreckt sich auch auf die Cylinder, wegen §. 219.
+
+S. 229+ Prismen, die congruente Grundflächen haben und deren gleichliegende Seitenlinien einerlei Neigung zur Grundfläche haben, verhalten sich wie ihre Höhen. Nach §. 228 läßt sich leicht darthun, daß sie sich verhalten, wie ihre gleichliegenden Seitenlinien; diese aber verhalten sich wie die Höhen, denn man suche die Höhen, ziehe nach §. 212 die Neigungswinkel der gleichliegenden Seitenlinien, ſo erhält man Dreiecke, aus deren Aehnlichkeit sich die Wahrheit dieses Satzes ergiebt.
+
+Hieraus ergiebt sich, Cylinder von gleichen Gründe flächen und deren Aren gleiche Neigung zur Grundfläche haben, verhalten sich wie ihre Höhen.
+
+[p. 366] S. 230. Parallelepipeda von congruenten Grundflächen und gleichen Höhen sind einander gleich.
+
+Wenn außer den congruenten Grundflächen und gleichen Höhen, die Seitenlinien der Parallelipipeden noch gleiche Neigung gegen die Grundflächen haben, so ergiebt sich die Wahrheit aus §. 239.
+
+Wir haben also hier nur auf den Fall Rücksicht zu nehmen, wo diese Neigung der Seitenlinien gegen die Grundflächen in beiden Parallelepipeden nicht gleich ist. Um den Beweis zu führen, lege man zwei congruente Grundflächen beider Körper so zusammen, daß sie sich decken, so fallen nun die beiden andern Grundflächen entweder völlig außer einander, oder nur zum Theil. — Da die Parallelepipeda gleiche Höhen haben, so lies gen ihre beiden andern Grundflächen in einer Ebene. Man lege durch diese beiden Grundflächen eine Ebene. Nun finden wiederum zwei Fälle ſtatt, entweder lies gen die zwei Seitenflächen der Parallelepipeden in einer Ebene oder nicht.
+
+Ist das erstere der Fall und fallen die beiden Grundflächen ganz außer einander (Fig. 136) , so wird man bald einsehen, daß man durch die durch beide Grundflächen gelegte Ebenen ein Paar Prismen erhält, von denen jedes Parallelepipedum ein Theil ist, und die nach §. 226 congruent sind.
+
+Zieht man von jedem derselben ein kleines Prisma ab und ſetzt ein anderes hinzu, ſo erhält [p. 367] man die Parallelepipeda, die alſo einander gleich sind. Fallen hingegen zwei Grundflächen nur zum Theil außer einander, so erhält man zwei Prismen, von denen ein Theil jedes Parallelepipedums ein Theil ist, ſetzt man zu beiden einen und denselben Körper hinzu, so findet man die Gleichheit der Parallelepipeden.
+
+Wenn die Seitenflächen der Parallelepipeden nicht in einer Ebene liegen (Fig. 137) , ſo verzeichne man ein Parallelepipedum, deſſen Seitenflächen mit zwei Seitenflächen des einen, und dessen zwei andere Seitenflächen mit zwei Seitenflächen des andern in einer Ebene liegen, so werden beide zu Folge des ersten Falls diesem gezeichneten Parallelepipedum, alſo auch unter einander gleich seyn. S. 231.
+
+Prismen, die congruente Grundflächen und gleiche Höhen haben, sind einander gleich.
+
+Die Prismen ſind entweder dreiseitig oder mehrfeitig, für die erstern ergiebt sich die Wahrheit dieſes Satzes dadurch, daß man nach §. 227 weiß, ſie ſind die Hälfte von Parallelepipeden, die eine doppelt so große Grundfläche und gleiche Höhen haben; da nun unter den gegebenen Bedingungen nach §. 230 die Parallelepipeden gleich sind, so sind auch ihre Hälften, die Prismen gleich.
+
+Sind die Prismen mehr als dreiseitig, so theile man, wenn sie anders nicht Parallelepipeden sind, wo der Saß §. 230. für sie bez [p. 368] wiesen worden, ihre Grundflächen auf gleiche Weise durch Diagonalen in Dreiecke, lege durch diese Diagonalen Ebenen, so erhält man lauter dreiseitige Prismen von congruenten Grundflächen und gleichen Höhen, die also einander stückweiſe gleich sind, welches also auch von ihren Summen, den gegebenen Prismen gilt.
+
+Cylinder von gleichen Durchmessern und Höhen sind einander gleich. S. 232. Prismen von gleichen, wenn gleich nicht congruenten Grundflächen und gleichen Höhen ſind einander gleich. Man theile die Grundfläche eines jeden Prismas in lauter sehr kleine congruente geradlinigte Figuren, z. B. in Dreiecke; je kleiner dieſe Figuren sind, desto geringer wird der Unterschied zwiſchen ihrer Summe und den Grundflächen seyn, und wenn wir sie uns als unendlich klein vorstellen, wird dieser Unterſchied verschwinden.
+
+Da nun die Grundflächen beider Prismen gleich sind, so werden beide gleich viel solcher Dreiecke enthalten.
+
+Nun theile andern
+
+Grundflächen eines jeden Prismas auf dieselbe Weiſe ein, ſo daß auch die Dreiecke in beiden Grundflächen eines jeden Prismas gleiche Lage haben, und theile nach diesen Dreiecken beide Prismata in kleine Prismata, [p. 369] mata, so werden diese leßtern insgesammt einander gleich seyn, nach §. 231, und da beide Prismen gleichviel derselben enthalten, so sind auch diese einander gleich.
+
+Zusatz. Alle Parallelepipeden von gleicher Grundfläche und Höhe sind einander gleich.
+
+S. 233. Aus §. 218 ist erwiesen, daß wenn man eine Pyramide parallel mit der Grundfläche schneidet, jeder Schnitt der Grundfläche ähnlich ist; schneidet man durch zwei Ebenen mit der Grundfläche parallel ein Stück von der Pyramide aus, ſo ſind die beiden Grundflächen dieſes Stücks ähnlich, aber nicht gleich, sondern sie verhalten sich wie die Quadrate der Entfernungen der schneidenden Ebenen von der Spite der Pyramide, also wird die näher nach der Spitze zuliegende Grundfläche des ausgeschnittenen Körpers kleiner seyn müſſen, als die von der Spitze mehr entfernte.
+
+Nimmt man hingegen die Entfernung der beiden schneidenden Ebenen, oder die Höhe des Schnitts als unendlich klein an, so kann man die Grundflächen als congruent, und den Körper als ein Prisma bez, trachten.
+
+Schneidet man nun eine Pyramide mit der Grundfläche durch unendlich viel Ebenen, so wird die Pyramide selbst in unendlich viel Prismen geschnitten, deren Grundflächen immer kleiner werden, je näher ſie nach der Spitze der Pyramide zu liegen. Aa
+
+[p. 370] Dies vorausgesetzt, wird man die Wahrheit des folgenden Lehrsages leicht darthun können.
+
+Pyramiden von gleichen Grundflächen und Höhen sind einander gleich. Man schneide beide Pyramiden durch Ebenen mit den Grundflächen parallel in äußerſt viel kleine Prismen, so aber daß in beiden die Schnitte gleiche Höhe haben, so wird man in der einen Pyramide so viel Körper erhalten, als in der andern, weil beider Hdhen gleich sind. Jedes Prisma in der einen Pyramide ist aber einem Prisma in der andern gleich, wenn sie blos gleiche Grundflächen haben nach §. 232, und wenn sie congruente Grundflächen haben, nach §. 231; also sind beide Pyramiden gleich.
+
+Alle Kegel deren Grundflächen gleiche Halbmesser und die gleiche Höhen haben, sind gleich. • S. 234.
+
+Jede dreieckigte Pyramide iſt der dritte Theil eines Prismas, das mit ihr einerlei Grundfläche und Hdhe
+
+Fig. 138. fer EDF ACB ein dreieckigtes Prisma. Man lege durch ED und den Punkt B eine Ebene, so erhält man die Pyramide EDFB, welche die [p. 371] Grundfläche des Prismas ( ^ EDF) zur Grundfläche und die Höhe des Prismas zur Höhe hat; eben so lege man durch AB und den Punkt D eine Ebene, so erhält man eine Pyramide ABCD die die Grundfläche des Prismas (^ ABC) zur Grundfläche und die Höhe desselben zur Höhe hat;
+
+ist Pyramide EDFB = Pyramide ABCD nach §. 233.
+
+bleibt aber noch eine dritte Pyramide übrig, deren Grundfläche EFB und deren Spitze in C ist, dieſe Pyramide ist der Pyramide ADBC gleich, denn man kann die eine schneidende Ebene als ihre beiderseitige Grundfläche betrachten, da sie ihnen beiden gemein ist, auch ſind ihre Höhen gleich, denn sie haben beide einerlei Spitze. 1. Hieraus ergiebt sich, daß eine jede Pyramide der dritte Theil eines Prismas ist, das mit ihm congruente Grundfläche und Höhe hat, weil man eine jede Pyramide in dreiſeitige Pyramiden von einerlei Höhe zertheilen kann, wenn man ihre Grundfläche durch Diagonalen in Dreiecke theilt, und durch diese Diagonalen und die Spitze der Pyramide Ebenen legt; da nun von jeder dieſer dreiſeitigen Pyramide gilt, daß sie des Prismas ist, das mit ihr congruente Grundfläche und Höhe hat, so gilt dies auch von ihrer Summe, welche die gegebene Pyramide ausmacht. - Sind die Grundflächen der Pyramide und des Prismas blos gleich, ohne congruent zu seyn, ſo wird doch der Lehrsaß seine Richtigkeit haben, weil [p. 372] man die Grundflächen in lauter congruente Figuren eintheilen kann, wo wenn man die Theile sehr klein. annimmt, der Unterschied der Theile und des Ganzen als Null betrachtet werden kann, und beide
+
+Grundflächen, da sie gleichen Inhalt haben, gleich viel Theile enthalten müſſen. 2. Jeder Kegel ist der dritte Theil eines Cylinders, der mit ihm gleiche Grundfläche und Höhe hat.
+
+§. 235. Prismen (also auch Parallelepipeden und Cylinder) und Pyramiden (also auch Kegel) von gleicher Grundfläche verhalten sich wie ihre Höhen. Man wird bald inne, daß man den Beweis einzig und allein für die Prismen zu führen hat, denn die Parallelepipeden ſind Prismen und so auch nach §. 219 die Cylinder, und da die Pyramide der dritte Theil´eines Prismas von gleicher Grundfläche und Höhe ist, so gilt der Beweis für die Prismen auch für die Pyramiden und folglich nach §. 220 auch für die Kegel. Gesezt das Verhältniß der Höhen beider Prismen sey rational, und zwar wie m: n, so wird, wenn man die Höhe des einen in m gleiche Theile theilt, die Höhe des andern n solcher Theile enthalten.
+
+Schneidet man nun die Prismen in den Theilungspunkten durch Ebenen mit der Grundfläche parallel, so zerfällt das eine Prisma in m Prismen, und das [p. 373] andere in n Prismen, die unter einander gleich sind nach §. 232, also verhalten sich die Prismen selbst, wie die Anzahl ihrer Theile, d. h. wie m: n, d. i. wie die Höhen.
+
+Gesetzt aber das Verhältniß der
+
+Höhen sey irrational, so wird man doch, da man das gemeinschaftliche Maaß so klein nehmen kann als man will, den Fehler so unbedeutend als möglich machen können, und also auch den oben geführten Beweis in diesem Fall gelten laßen müſſen. 1. Man nennt die Länge • eines Parallelepipedums die eine Seite seiner Grundfläche, die Breite hingegen, die senkrechte Linie, die man auf die Seite der Grundfläche, die man Länge nennt, senkrecht errichtet, und bis zur gegenüberstehenden Seite der Grundfläche verlängert hat. Die Höhe des Parallelepipedums ist die senkrechte Linie die man auf der Grundfläche errichtet und bis hat. gegenüberstehenden Fläche verlängert
+
+Bei einem rechtwinkligten Parallelepipedo ist die eine Seite die Länge, eine andere die Breite, und eine dritte die Höhe.
+
+ſieht leicht ein, daß man Länge, Breite und Höhe untereinander verwechseln vorausgesetzt kann man sagen: Parallelepipeden die gleiche Länge und Breite haben, verhalten sich wie ihre Höhen. 2. Ferner kann man ſagen: Cylinder von gleichen Durch oder Halbmeſſern verhalten sich wie ihre
+
+[p. 374] Höhen;
+
+und eben so Kegel, deren Grundflächen gleiche Durchmeſſer haben, verhalten sich wie ihre Höhen. S. 236. Ein gegebenes schiefwinkligtes Parallelepipedum in ein rechtwinkligtes zu verwandeln, das mit ihm gleiche Länge, Breite und Höhe hat.
+
+§. 237. Parallelepipeden von gleicher Höhe und Breite verhalten sich wie ihre Längen. Ist eins oder sind beide Parallelepipeden nicht rechtwinkligt, so verwandle man ſie in rechtwinkligte, so daß ihre 3 Dimensionen dieselben bleiben.
+
+man nun bei einem rechtwinkligten Parallelepipedo, die Länge als Höhe und die Höhe als Länge betrachten kann, so wird man den §. 235, Zusat 1. aufgestellten Sah in unsern Lehrſaß für die rechtwinkligte Parallelepipeden abändern können; und da man die schiefwinkligte in gleiche rechtwinkligt- von denſelben Dimenſionen verwandeln kann, so gilt der Lehrfaß für alle Parallelepipeden.
+
+S. 238.
+
+Parallelepipeden von gleicher Länge und Höhe verhalten sich wie ihre Breiten. Der Beweis wird ganz wie bei §. 237. geführt.
+
+[p. 375] $. 239. Parallelepipeden stehen ihren körperlichen Inhalt nach im zuſammengesetzten Verhältniß ihrer Längen, Breiten und Höhen; oder wie man auch sagen kann, sie verhalten sich wie die Produkte aus ihren Längen, Breiten und Höhen. Die beiden Parallelepipeden seyen A und E. Die Länge von A sey
+
+L, von E = 7; die
+
+Breite von A=B, von E = b;
+
+AH, von E = h.
+
+So mache man ein Paralleledie Höhe von pipedum C, das zur Länge 7, zur Breite B, und zur Höhe H hat, ferner ein Parallelepipedum D, das zur Länge 7, zur Breite b und zur Höhe H hat. So ist A: C = L: 7 nach §. 237. C: D
+
+Bb nach §. 238.
+
+DEH: h nach §. 235.
+
+A. C. D: C. D. E➡ L. B., H: l. b. h. A: EB. L. H: 1. b. h. wie zu erweisen. Hieraus folgt, daß zwei Parallelepipeden deren Höhen gleich sind, sich wie ihre Grundflächen verhalten. Da alle dreieckigten Prismata die Hälfte der Parallelepipeden sind, die mit ihnen gleiche Höhen und eine doppelte Grundfläche haben; so ergiebt sich: Dreieckigte Prismata verhalten sich wie die Produkte aus ihren Längen, Breiten und Höhen.
+
+[p. 376] Da man ferner jedes Prisma in dreiſeitige Prismata zerfällen kann, deren Summe der Grundflächen der Grundfläche des ganzen Prismas, und deren Höhen der Höhe des ganzen Prismas gleich sind, so heißt der Satz allgemein ſo: Prismata verhalten sich wle die Produkte aus ihren Grundflächen und Höhen. Da bei den Würfeln, Länge, Breite und Höhe gleich sind, so verhalten sich die Würfel wie die Cubi ihrer Seiten. Was von den Prismaten gilt, gilt auch von den Cylindern, für diese würde also der Satz heißen: Cylinder verhalten sich wie die Quadrate ihrer Durchmeſſer, multiplicirt mit ihren Höhen; s. §. 179, Folgefaß. Aus §. 234 ergiebt sich, daß auch die Pyramiden sich verhalten wie die Produkte aus ihren Grundflächen und Höhen.
+
+Auch wird man leicht einsehen, daß sich die Kegel verhalten wie die Quadrate ihrer Halbmesser (oder Durchmesser), multiplicirt mit ihren Höhen.
+
+S. 240. Wenn man eine Kugel mit einer Ebene durchschneidet, so ist der Durchschnitt immer ein Kreis, dessen Mittelpunkt in dem Durchmesser der Kugel liegt, der auf diesem Durchschnitt senkrecht steht.
+
+Der Durchschnitt ist um ſo größer, je näher er dem Mittelpunkt liegt.
+
+[p. 377] Fig. 139 ſey C der Mittelpunkt der Kugel, EDGA die schneidende Ebene. Man fälle die Linie CD ſents recht auf den Durchſchnitt, ziehe von C eine gerade Linie CE an den Umfang des Durchschnitts, und dann die Linie AE; so ist AEV CE -CA2 Da nun CE als Radius der Kugel, und ferner CA als die Entfernung des Durchschnitts unverändert bleibt, so erhält AE, wo man es auch ziehen mag, immer gleichen Werth, folglich ist EAGDE
+
+Kreis, und sein Mittelpunkt liegt in CD, d. h. in dem Halbmesser der Kugel, der auf dem Durchschnitt senkrecht steht. -AE wird um so größer, je kleiner CA wird, denn desto größer wird VCE
+
+- CA2;
+
+d. h. der Halbmesser des Durchschnitts wird um so größer, je näher dieser dem Mittelpunkt der Kugel
+
+Geht der Schnitt durch den Mittelpunkt, so wird CA Null, also CECA
+
+= CE2, also
+
+AE = √CE² = CE, d. h. der Durchschnitt ist alsdann der größte Kreis, sein Mittelpunkt fällt in dem Mittelpunkt der Kugel, und der Radius des Durchschnitts ist dem Radius der Kugel gleich.
+
+1. Alle diejenigen Kugelkreise, deren Mittelpunkt der Mittelpunkt der Kugel ist, sind gleich, weil ihre Radien dem Radius der Kugel gleich sind. 2. Alle Kugelkreise bei einer und derselben Kugel, deren Mittelpunkt vom Mittelpunkt der Kugel gleichweit entfernt sind, sind gleich.
+
+[p. 378] 3. Ein auf einem größten Kreise im Mittelpunkt senkrecht stehender Durchmeſſer heißt des Kreiſes und der Kugel Axe, und die äußersten Punkte dieser Axe in der Kugelfläche heißen Pole. 4. Jede senkrechte Linie, welche in der Mitte eines Kreises, welcher der Durchschnitt der Kugel ist, er: richtet worden, geht durch den Mittelpunkt der Kugel. Der Beweis dieſes Sages wird indirekt geführt. S. 241. Eine Kugel verhält sich zum Cylinder, der denselben Durchmesser und dieselbe Höhe hat, wie 2: 3. Fig. 140 fen ACB ein Quadrant, ACDB ein Quadrat, und ACD ein gleichſchenkligtes Dreieck. Man stelle sich vor, daß alle dieſe Figuren um AC bewegt werden, bis sie wieder in ihre vorige Lage kommen, so beschreibt ACB eine halbe Kugel, ACDB einen Cylinder, und ACD einen Kegel, alle drei haben gleiche Kreiſe zu Grundflächen und gleiche Hds hen, und zwar ist ihre Höhe dem Radius ihrer Grundfläche gleich. Man schneide diese drei Figuren in ES durch eine Ebene mit AB, so des kommt man sowohl in der Halbkugel als im Cylinder und Kegel Kreise zu Durchschnitten; der Durchschnitt der Kugel hat EG zum Radius, der des. Cylinders ES, und der des Regels EH.AEC
+
+R, so ist AG -AEEG².
+
+[p. 379] Es ist aber AC = AB = ES; ferner weil EH ſo iſt AC: CD = AE: EH, und da AC = CD, so ist AE = EH; ändert man hiernach den Saß: : AGAEEG ab, so erhält man
+
+ES2EH2 = EG². ES, EH und EG sind aber die Radien der Durch schnitte, und da sich die Kreise wie die Quadrate der Radien verhalten, so ist der Durchschnitt des Cylinders weniger dem Durchschnitt des Kegels gleich dem Durchschnitt der Halbkugel.
+
+Dies gilt, man mag den Schnitt in den Körpern ‡ mit der Grundfläche machen, wo man will.
+
+Denkt man sich nun über diesen Schnitt einen andern parallel, aber in unendlich kleiner Entfernung, so erhält man Cylinder, und da sich die Cylinder von gleichen Höhen wie ihre Grundflächen verhalten, so ist der Cylinderschnitt des Cylinders weniger dem Cylinderschnitt des Kes gels gleich dem Cylinderſchnitt der Halbkugel. Man kann aber alle diese drei Körper selbst aus lauter kleinen Cylindern zuſammen ſetzen; alle werden gleichviel erhalten, weil sie gleiche Höhe haben, und bei jedem dieser Theile wird das angegebene Verhältniß statt finden: also wird der Cylinder weniger dem Kegel gleich der Halbkugel ſeyn, wenn alle drei gleiche Durchmesser der Grundfläche und gleiche Höhe haben. Der Kegel ist 3 des Cylinders; alſo iſt die Halb2 kugel 3 des Cylinders gleich, der mit ihr gleiche Grundfläche und Höhe hat. Was von den Hälften gilt, gilt auch vom Ganzen, also verhält sich die Kugel [p. 380] zum Cylinder, der mit ihr gleichen Durchmesser und Höhe hat, wie 2: 3.
+
+Ueber den Inhalt der Körper und die Größe ihrer Oberfläche.
+
+S. 242. Was die Oberflächen der Körper betrifft, ſo findet bei dieſen als Flächen das Flächenmaaß statt, von welchem §. 168 gehandelt worden. Der körper liche Inhalt bedarf eines körperlichen Maaßes, man bedient sich dazu der Würfel, daher der Name Cubicmaaß.
+
+Ein unmittelbares Meſſen wird freilich auch nicht statt finden können, sondern man wird wie beim Ausmessen der Flächen, aus dem Meſſen durch das Längenmaaß die gesuchte Größe durch Rechnung finden müssen.
+
+Was nun das körperliche Maaß betrifft, so legt man den Cubicfuß zum Grunde; ein Cubicfuß ist ein Würfel, bei dem jede Seite ein Fuß lang ist.
+
+Bei den andern aus diesem abgeleiteten größern oder kleinern körperlichen Maaßen sindet entweder die zehnzwölftheilige Eintheilung statt, im ersten Fall heißt daß Maaß geometrisch, im zweiten rheinländisch.
+
+Man theile bei einem Cubicfuß die Seite, die ſeine Länge vorstellt, in zehn gleiche Theile, und schneide den Würfel in jedem Theilungspunkte durch eine Ebene senkrecht auf die eingetheilte Seite durch, eben so theile man ſeine Breite und ſeine Höhe in zehn gleiche Theile, und lege wiederum [p. 381] auf dieselbe Art durch die Theilungspunkte Ebenen, so erhält man 10 X 10 X 10 = 1000 Würfel, deren jede Seite einen geometrischen Zoll lang sind, jeder derselben heißt ein geometrischer Cubiczoll; ein geometrischer Cubicfuß enthält also 1000 geometrische Cubiczoll; auf dieselbe Weiſe findet man, daß ein geometrischer Cubiczoll 1000 geometrische Cubiclinien, und eine geometrische Cubiclinie 1000 geometriſche Cubicskrupel enthält. Steigt man vom Cubicfuß aufwärts zu den Cubicruthen, so wird man finden, daß eine geomes frische Cubicruthe 1000 geometrische Cubicfuß enthält. Es ist leicht einzusehen, daß beim rheinländischen
+
+Cubicmaaße die Cubicruthe 1728 Cubicfuß, dieſer
+
+1728 Cubiczoll u. s. w. enthält. Bei dem neuen Französischen Maaße ist das Grundmaaß für den cubischen Inhalt der festen Körper Stere einen Cubus, deſſen Seite dem Metre gleich ist, es wird in 10 Deci - Stere eingetheilt.
+
+Für flüssige Körper ist ihr Grundmaaß das Litre dem Cubus eines Deci - Metre,
+
+10 Litre heißt Deci - Litre, 10 Litres heißen Deca -Litres,
+
+10 Deca - Litres = 1 Hecto-
+
+Litre, 10 Hecto - Litres = Kilo - Litre. S. 243.
+
+Man findet den Inhalt eines Parallelepipedi, wenn man ſeine Länge, Breite und Höhe mit einander multiplicirt.
+
+[p. 382] Der Beweis ergiebt ſich aus §. 239. Das Maaß iſt das Parallelepipedum, womit das zu meſſende
+
+Parallelepipedum verglichen wird. Die Länge eines Parallelepipedi sey 8' 9 ", seine Breite 3′ 9 ″ 3″ , ſeine Höhe ist 4′ 6″, wie groß ist der Inhalt deſſelben, sowohl nach rheinländischem als geometriſchem Cubicmaaß?
+
+Man sieht bald, daß man hier der Breite wegen, worin Linien ſich finden, die gegebenen Maaße auf Linien reduciren muß.
+
+Zusatz. Man findet den Inhalt eines Würfels, wenn man die Länge einer seiner Seiten cubirt (zur dritten Dignität erhebt).
+
+Wie groß ist der Inhalt eines
+
+Würfels, deſſen Seite 9 ° 7′6″ 3″ ′ 4″ groß ist, in rheinländiſchem und geometriſchem Maaße? -
+
+§. 244. Man findet den Inhalt eines gegebenen Prismas, wenn man den Quadratinhalt ſeiner Grundfläche mit ſeiner Höhe multiplicirt.
+
+Man nehme zuvörderst ein dreiſeitiges Prisma, so wird sich nach §. 227 ergeben, daß sein Inhalt die Hälfte des Parallelepipedi ist, das mit ihm einerlei Höhe, und deſſen Grundfläche eine mit der ſeinen gleiche Länge und Breite hat.
+
+Die Grundfläche des
+
+Prismas aber ist gleich der Grundfläche des Parallelepipedi.
+
+Da man nuu alle Prismen in dreiſeitige von gleicher Höhe theilen kann, so läßt sich aus [p. 383] dem Gesagten leicht der Beweis für alle Prismen führen.
+
+S. 245. Man findet den Inhalt eines Cylinders, wenn man ſeine Grundfläche mit ſeiner Höhe multiplicirt. Der Beweis hat keine Schwierigkeiten nach §. 219 und §. 244. Die Höhe eines Cylinders heiße a, sein Durchs a d² *) und heißt sein Halbmesser r, so ist sein Inhalt = ar² *. messer d, so ist sein Inhalt =
+
+*) = zeigt das Verhältniß des Durchmeſſers zur Peripherie des Kreiſes an. Der Durchmesser eines Cylinders sey 18′, ſeine Höhe 9′ 3″, wie groß iſt ſein körperlicher Inhalt nach geometrischem und rheinländischem Maaß?
+
+S. 246. Man findet den Inhalt einer Pyramide und also auch eines Kegels, wenn man den Inhalt seiner Grundfläche mit einem Drittheil ſeiner Höhe multiplicirt.
+
+Der Beweis beruht auf §. 234 und §. 245. Der Durchmesser des Kegels heiße d, seine Höhe ad2 I ad² a, so ist sein Inhalt = 2 4 T 12 T; heißt der Radius 7, so ſo iſt ſein Inhalt = ar² *.
+
+[p. 384] Bei einer abgekürzten Pyramide sind die Durchschnittsfläche und die Grundfläche ähnlich. Dies gilt auch vom abgekürzten Kegel.
+
+Wenn man den Inhalt einer abgekürzten Pyramide finden soll, so ist dieser gleich dem Inhalt der ganzen Pyramide weniger dem abgeschnittenen Stück, welches ebenfalls eine Pyramide ist.
+
+Da uns die Grundfläche der leßtern gegeben ist, so darf man nur die Höhe derselben suchen, woraus sich sodann die Höhe der ganzen Pyramide ergiebt, und also der Inhalt der abgekürzten Pyramide sich leicht finden läßt. -
+
+Eine Seite der Grundfläche der Pyramide heiße A, die ihr gleichliegende des Durchschnitts a, die Höhe der abgekürzten Pyramide H, die Höhe des fehlenden Stücks x, so ist die Höhe der ganzen Pyramide H + x.
+
+Nach §. 218, Lehrſaß, iſt A: a = H + x: x, a. H also A-- a: a = H; x, daher x = A kann; folglich H + x = H + nun den Inhalt der abgekürzten Pyramide finden. ! Was den abgekürzten Kegel betrifft, so wird bei seiner Ausrechnung auf dieselbe Weise verfahren, nur daß ſtatt der Seite, der Durchmesser oder Halbmeſſer der Grundfläche und des Durchſchnitts genommen wird.
+
+Bei der Untersuchung muß man §. 220, Lehrsaß, zum Grunde legen.
+
+Es heiße R der Halbmesser der Grundfläche des Regels,
+
+385,
+
+Kegels, r der Halbmesser des Durchschnitts, H die Höhe des abgekürzten Kegels, und x die Höhe des fehlenden Theils, so findet man H. r X= Rr Die Höhe des abgekürzten Kegels sey 14" 6" , der Halbmesser der Grundfläche 8" 6" , der Halbmesser des Durchschnitts 7", wie groß ist der Inhalt des abgekürzten Kegels in geometrischem und rheinländischem Maaß? §. 247. Da man nach §. 245 den Inhalt des Cylinders ad² durch die Formel findet, so kann man nach §. 241 leicht den Inhalt der Kugel finden. Bei ihr ist ad³ a = d, also ist der Inhalt der Kugel = 12 Der Halbmesser der Kugel sey 8' ; wie groß ist ihr körperlicher Inhalt?
+
+Der Durchmesser der Erde sey 1720 Meilen, wie groß ist ihr körperlicher Inhalt? S. 248. Den Inhalt der Oberfläche eines Körpers zu finden, dessen Seitenflächen Ebenen sind, kann keine -
+
+Schwierigkeiten machen, da man den Inhalt einer jeden ebenen, geradlinigten Figur zu berechnen versteht; es kömmt also bloß noch darauf an, die krummen Oberflächen der Körper zu berechnen (denn man ſieht wohl, daß bei ihnen ein unmittelbares Messen nicht statt finden kann) .
+
+In der niedern Geometrieaber kann man blos zeigen, wie man die Oberfläche der Kugel, des geraden Cylinders, und des geraden Regels findet.
+
+[p. 386] §. 249. Die Summe des körperlichen Inhalts mehrerer geometrischer Körper von einerlei Art (z. B. mehrerer Prismen, Pyramiden u. ſ. w.), die insgeſanunt gleiche ist dem körperlichen Inhalte
+
+Höhe haben, gleich, den man aus der Summe des Inhalts ihrer Ein Sak,
+
+Grundflächen und der Höhe erhält. dessen Beweis man leicht finden wird.
+
+Hieraus ergiebt sich folgender Lehrsaß: Der Ins halt der Kugel ist dem Inhalte eines Kegels gleich, dessen Grundfläche der Kugeloberfläche, und deſſen
+
+Höhe dem Radius der Kugel gleich ist.
+
+Um die
+
+Wahrheit des Satzes einzusehen, denke man sich die Oberfläche der Kugel in so kleine Figuren geschnitten, daß sie für Ebenen gelten können;
+
+die Kugel selbst als eine Summe von Pyramiden betrachten können, so wird gemeinschaftliche
+
+Spitze der Mittelpunkt der Kugel ist, und deren
+
+Grundflächen zuſammen genommen
+
+Oberfläche der Kugel ausmachen.
+
+Ihre Summe iſt alſo gleich einer Pyramide oder einem Kegel dessen Grundfläche die Oberfläche der Kugel, und deſſen Höhe der Nadius derselben ist.
+
+$. 250. Die Oberfläche
+
+Kugel ist ihrem größten
+
+Kreise viermal genommen gleich.
+
+Der Beweis dieses Satzes beruht auf. §. 241 und dem vorhergehenden §.
+
+[p. 387] Nach §. 247 ist der Inhalt der Kugel =
+
+Nennt man die Oberfläche der Kugel x, so ist ihr Inhalt dx dx nach dem vorhergehenden §. und §. 246 = 3 alſo iſt d** dæ, d. h. d³ x = dx, alſo d² „ =%, 6 = 6 Die Fläche des größten Kreiſes einer Kugel ist aber d² x 4 nach §. 173, alſo iſt die Fläche des größten Kreiſes 4mal genommen der Oberfläche der Kugel
+
+Der Durchmesser der Kugel sey 9′3″ , ist ihr körperlicher Inhalt, ihrer Oberfläche?
+
+welches und welches der Inhalt
+
+Der Durchmesser der
+
+Erde ist
+
+1720 Meilen, welches ist der Inhalt ihrer Oberfläche? S. 251. Den Inhalt der Oberfläche eines geraden Cylinders zu berechnen.
+
+Die Oberfläche eines Cylinders besteht aus zwei gleichen Kreiſen (den Grundflächen) deren Inhalt sich leicht finden läßt und aus der krummen Fläche, deren Berechnung also noch gezeigt werden muß.
+
+Nun entsteht aber ein gerader Cylinder (von dem hier allein die Rede ist) , wenn man ein Rechteck um eine seiner Seiten bewegt, vorige Lage kömmt.
+
+bis es wieder in seine
+
+Die Oberfläche eines geraden
+
+Cylinders ist also einem Rechteck gleich, deſſen eine Seite die Höhe, und die andere die Peripherie der Grundfläche ist; es läßt sich also der Inhalt derselben leicht finden.
+
+[p. 388] Die Höhe eines geraden Cylinders sey h, Durchmesser d, fläche? fein welches ist der Inhalt ſeiner Ober-
+
+Die Höhe sey 15′ 7″, der Durchmesser 2′,
+
+6", welches ist der Inhalt der Oberfläche?
+
+§. 252. Den Inhalt der Oberfläche eines geraden Kegels zu finden?
+
+Die Oberfläche
+
+Kegels besteht
+
+Grundfläche, deren Inhalt als Kreis sich leicht des rechnen läßt und aus der krummen Fläche.
+
+Nun entsteht ein gerader Kegel, wenn man ein rechtwinkligtes Dreieck um eine ſeiner Catheten bewegt, es wieder in seine vorige Lage kömmt;
+
+bis die krumme
+
+Oberfläche des geraden Kegels iſt daher einem Zirkelausschnitte gleich, deſſen Bogen dem Umkreiſe der Grundfläche, und dessen Halbmesser der Hypothenuse des oben genannten Dreiecks gleich ist. Hieraus läßt sich die Berechnung leicht finden. Die Höhe des geraden Kegels ſey h, der Durchmesser der Grundfläche d, so ist die krumme Oberfläche allein als ein Zirkelausſchnitt zu betrachten, dessen Bogen dz und dessen Radius die Hypothenuse eines rechtwinkligten Dreiecks ist, deſſen eine Diese Hypothenuſe iſt = V(—d² + h²) = V (±² ± 4h²) Catheteh, die andere -
+
+V(d² +4h²).
+
+2 d.
+
+Ein Ausschnitt ist aber als ein Dreieck zu berechnen, dessen Grundlinie der Bogen und [p. 389] deſſen Höhe der Radius ist;
+
+also wäre die krumme
+
+Oberfläche einem Dreiecke gleich, dr und dessen Höhe dieses Dreiecks dessen Grundlinie
+
+V (d² + 4h²) ist;
+
+aber ist der Inhalt d. ** V(d² +4k²)— dr = v (d² + 4h²) , welches also auch der Inhalt der Da die krummen Oberfläche des Kegels ist. d2 % so ist die ganze Grundfläche des Kegels = 4 d2T drv(d² + 4h2) , Oberfläche des Kegels = d² + dx v(d² +4h²) = (d² +dv (d² +4h²) ×7 Die Höhe des geraden Kegels sey 8', der Durchmesser der Grundfläche 6' , welches ist der Inhalt der gesammten Oberfläche? Auch läßt sich der Inhalt der Oberfläche eines abgekürzten Kegels leicht finden, auf
+
+§. 246 Anmerkung Rücksicht nimmt. Der Durchmesser
+
+Grundfläche eines abgekürzten Kegels sey d, der Durchmesser des Durchschnitts c, die Höhe des übrig gebliebenen Stücks h, welches ist der Inhalt der gesammten Oberfläche ?—
+
+Anfangsgründe der reinen Mathematik
+
+Dritter Theil, welcher die Anfangsgründe der ebenen Trigonometrie enthält.
+
+⚫393
+
+Anfangsgründe der ebenen Trigonometrie.
+
+S. I. Die Trigonometrie lehrt aus drei gegebenen Stücken eines Dreiecks, eine Seite seyn muß, zu finden.
+
+worunter aber wenigstens die übrigen durch Rechnung
+
+Sie heißt eben, wenn die Dreiecke, die sie betrachtet, in einer Ebene, sphärisch, wenn sie auf einer Kugeloberfläche verzeichnet sind;
+
+die ersteren wollen wir abhandeln. Warum muß unter den drei Stücken eines Dreiecks, die gegeben werden, um die übrigen drei durch Rechnung zu finden, wenigstens
+
+Seite seyn? - Offenbar, weil sonst das Dreis Der Grund eck nicht bestimmt ist.
+
+der Antwort ergiebt sich aus den Säßen über Congruenz und Aehnlichkeit der Dreiecke; aus demſelben Grunde erkennt man, warum nicht mehr und nicht weniger als drei Stücke gegeben seyn müssen.
+
+S. 2. Um diese Berechnung anstellen zu können, von den Mathematikern sind mehrere Linien bestimmt [p. 394] worden, die den Namen der trigonometrischen Linien führen und die wir jetzt näher kennen lernen wollen, sie ſind Sinus, Cosinus, Querfinus, Tangente, Cotangente, Secante und Cofecante. Wir werden dieſe trigonometrischen Linien nur für Winkel und Bogen bis 180 ° angeben, weil bei den Dreiecken, mit denen wir uns hier beschäftigen, kommen können.
+
+keine größern vors
+
+S. 3. Man beschreibe aus der Spitze einen beliebigen Kreis, schneidet,
+
+Winkels der die Schenkel deſſelben fälle von dem einen Schneidungspunkte eine senkrechte Linie auf den andern Schenkel des Winkels, so heißt dieſe ſenkrechte Linie der Sis nus des Winkels und des dazu gehörigen Bogens. Man bezeichnet den Sinus mit lin. So ist Fig. 141 fin. o = fin. AB,
+
+Folgende Säße können keine Schwierigkeiten mas chen, sobald man sich die dazu gehörigen Figuren zeichnet.
+
+Obgleich die Sinus eines und deſſelben Wins fels größer oder kleiner werden, je nachdem der Radius des beschriebenen Kreises größer oder kleiner wird, so behalten sie doch immer gleiches Verhältniß zum Radius. - Der Beweis beruht auf der Aehnlichkeit der Dreiecke.
+
+Wenn der Winkel bis 90 ° wächst, so wächst auch sein Sinus.
+
+Wird der Winkel 90 ° , so wird der Sinus dem Radius gleich; und wiederum wenn [p. 395] der Winkel von 90 ° an, abnimmt, so nimmt auch der Sinus ab; wird der Winkel o, so wird der Sinus gleichfalls 0.
+
+Wächst der Winkel über 90 ° , (wird
+
+Winkel stumpf) , ſo nimmt ſein Sinus immer mehr und mehr ab, und wird Null, wenn der Winfel = 180 °.
+
+Der Sinus eines stumpfen Winkels ist dem Sinus seines Nebenwinkels gleich; mit andern Worten, der Sinus eines stumpfen Winkels ist dem Sinus seines Supplements gleich.
+
+Der Sinus eines Winkels kann nie größer werden als der Radius, daher auch der Radius den Namen linus totus führt.
+
+Wenn man in einem rechtwinkligten Dreieck, die eine Cathete als den Sinus des gegenüberstehenden Winkels betrachtet, welche Seite des Dreiecks ist alsdann der Radius?
+
+S. 4+. Die Hälfte der Sehne eines Bogens oder Winkels ist der Sinus
+
+Hälfte des Bogens oder
+
+Winkels. Der Beweis wird sich, hörige Figur zeichnet, wenn man die dazu geohne Schwierigkeiten führen laßen.
+
+Aus der Geometrie ergiebt sich, daß die Sehne eines Winkels von 60° fin. 150 ° = r, also ist fin. 30°
+
+[p. 396] S. 5.
+
+zu einem andern hinzugefügt
+
+Ein Winkel der oder weggenommen, denselben zu einem rechten Winkel macht, heißt sein Complement, eben so ein Bogen, der zu einem andern hinzugefügt oder von demselben weggenommen, ihn zu einem Quadranten
+
+Der Cosinus eines Winkels oder Bogens ist macht.
+
+Sinus seines Complements.
+
+ihn mit col.
+
+ist Fig. 141 x = compl. von o, und AE = compl. von AB; compl. von x,
+
+Man bezeichnet und umgekehrt o und. AB compl. von AE;
+
+daher fin. x = col. o und AD = ſin. o = ist AF cos. x; ferner AF fin. AB fin. AE = col. AB, and cos. AE.
+
+Hieraus ergeben sich folgende Säße:
+
+Der Cosinus eines und desselben Winkels behält immer gleiches Verhältniß zum Radius.
+
+So wie der Winkel von o bis 90 ° wächst, nimmt sein col. ab;
+
+ist der Winkel = 90 ° ,
+
+ſo iſt der col.
+
+o. Nimmt der Winkel von 90 ° an ab, 〃 so wächst der col. , wird der Winkel = 0, so wird der col.
+
+r.
+
+Wächst der Winkel über 90 ° , so wächst der col. gleichfalls, und er wird = r, wenn der Win180°.
+
+fel
+
+Der Cosinus eines Winkels kann nie größer werden als der Radius. Der Cofinus eines Winkels ist dem Theile des Radius gleich, der zwischen dem Sinus und dem Mittelpunkte des Kreiſes liegt.
+
+[p. 397] 6. . In rechtwinkligten Dreieck sen die Hypothenuse der Radius, was werden sodann die Catheten?
+
+Nennt man bei den trigonometrischen Linien die Lage, die sie bei einem ſpitzen Winkel haben, positiv, und die entgegengeſetzte negativ; so bleiben die Sinus immer + , die Cofinus hingegen für ſtumpfe Winkel werden. -
+
+Col. 60 ° = 2 r, ſ. §. 4 Zuſatz.
+
+Man versteht unter sinus verſus oder Quersinus denjenigen Theil des Radius der zwischen den Endpunkten des Radius und des Cosinus enthalten ist. Fig. 141 BD.
+
+§. 6. Beschreibt man einen Kreis, aus der Spitze eines Winkels und betrachtet einen von den abges
+
+ſchnittenen Stücken des Schenkels als den Radius, errichtet auf dieſen eine senkrechte Linie, die also
+
+Tangente des Kreises wird, und verlängert den ans dern Schenkel des Winkels bis er diese Tangente schneidet, so ist das dadurch bestimmte Stück der Tangente, die Tangente des Winkels, und der verlängerte desselben, der die Tangente schneidet, heißt die Sekante.
+
+Schenkel
+
+Tangente bezeichnet man mit tg. , und Sekante mit lec.; so ist Fig. 142 BG CH tg. o, CG = lec. o, HE
+
+Die Wahrheit zusehen:
+
+tg. x, und fec. X. folgender
+
+Säße ist leicht eins
+
+[p. 398] Die tg. und lec. eines Winkels verhalten sich wie die Radien des Kreises. so ist tg. = o,
+
+Ist der Winkel o, fec.
+
+T.
+
+Wächſt der Winkel bis 90 ° , so wächst die tg. und ſec. , wird der Winkel = 90 90 °, °, so ist tg.
+
+und fec.
+
+(unendlich groß).
+
+Wächst der Winkel über 90 ° , so nehmen die tg. und lec. ab und werden negativ (ſ. §. 5.7), wird der Winkel = Tec. =
+
+180 ° , so ist die tg. = 0, und r.
+
+Die lec. kann nie kleiner werden als der Radius.
+
+Wenn man in einem rechtwinkligten Dreieck eine Cathete als den Radius, und die Spitze eines spigen Winkels als Centrum annimmt, was wird die Hypothenuse und was die andere Cathete?
+
+r.
+
+Die tag. 45 °
+
+Zwei Nebenwinkel haben gleich große Tangenten und Sekanten, nur daß sie für den ſpitzen - sind.
+
+Winkel + und für den ſtumpfen
+
+§. 7. Unter Cotangente und
+
+Cofecante versteht die Tangente und Secante des Complements eines Winkels. Man bezeichnet Cotangente mit cot. , Cofecante mit colec. , so ist Fig. 142 tg. x fec. x colec. o und tg, o cot. o, cot, x, fec.
+
+cofec. x. Die Wahrheit folgender Säße wird man ohne
+
+Schwierigkeit einsehen.
+
+[p. 399] Die cot, und colec. eines Winkels verhalten sich wie die 'Radien.
+
+Die cot. und colec. von o ist = Wächst der Winkel bis 90 ° , cot. ab, und bei 90 ° wird sie ſo nimmt die o;
+
+die cofec.
+
+nimmt ab, und bei 90 ° wird ſie = r. 4.- Wächst der Winkel über 90 ° , so wächst die cot. wird aber - - ;
+
+die colec. wird — r.
+
+Ist der Winkel = 180 ° , so ist die cot.
+
+und colec. = ∞.
+
+Zwei Nebenwinkel haben gleich große Cotan弊 genten und Cofecanten, nur daß sie einander entgegengesett sind. S. 8. Da alle zu einem Winkel gehörigen trigonometriſchen Linien ſich verhalten wie die Radien, so stehen ſie bei einem und demselben rad. auch unter einander im Verhältniße. Nimmt man nun den Radius als Maaß oder = 1 an, so kann man das Verhältniß der trigonometriſchen Linien unter einander beſtimmen. Ferner ergiebt sich aus den vorhergehenden SS., daß wenn nur von dem Verhältniße der trigonometrischen Linien der absoluten Größe nach (d. h. ohne darauf Rücksicht zu nehmen, ob sie + oder - Sind), die Rede ist, man blos auf die ſpitzen Winkel zu ſes hen hat, weil alle Supplemente gleiche trigonomes frische Linien haben. Fig. 143. ist AB fin. x, col. ¤,
+
+[p. 400] DE = tg. x, und CD S ADEC, so ist DE: EC fec. x.
+
+Da nun
+
+AB: BC fin. x: còf, x tg. x fin. z Hieraus ergiebt ſich tg. x = cos. x und also fin. fin. x tg. x X col. x, wie auch col. x = tg. x Man findet also die tg. eines Winkels, man den Sinus deſſelben durch den Cofinus dividirt. Ferner ist: BC: AC = EC: DC col. x:
+
+I: fec. x fec. x = also col. x = fec, x col.x Da nun ABC = R, ſo iſt AB2 AC2 BC
+
+BC = ✓ (AC² — AB²) col. x = √ (1 fin. x²)
+
+Eben so findet man ſin. x = √ (1 — col. x²). Ferner ist CD²
+
+CE² + DE²
+
+CD oder fec. x = √ (CE² + DE²) — √ (1 + tg. x²). Ist n das Complement von x, ſo iſt FG = cot. x, und CG colec. x. Da GFC = R, ſo ergiebt ſich cofec. x = √ (i + cot. x²). Da AFGC ABC, so 7 ist` CG: CF = AC: AB cofec. x:
+
+cofec. x
+
+: fin. x fin. x und fin. x colec.
+
+#### §. 9.
+
+[p. 401] S. 9.
+
+Es kömmt jetzt darauf an, die trigonometrischen Linien für alle Winkel zu berechnen, d. h. das Verhältniß derselben zum Radius in Zahlen bestimmt anzugeben.
+
+Aus dem vorhergehenden S. ergiebt sich, e daß man vermittelst des linus und cofinus eines Winkels, tg., cotg., fec. und colec. des Winkels finden kann.
+
+Man wird also blos diese erstern zu berechnen haben.
+
+Die Berechnung darf sich nach
+
+S. 8 nur auf die spitzen Winkel erstrecken, man wird ferner nur nöthig haben die lin. der ſpitzen Winkel bis 45° zu berechnen, weil der fin. jedes Winkels dem col. ſeines Complements gleich ist, man aber nach §. 8 durch die Formel colin. x = √ (1· (I fin. x2) den col. finden kann. So ist z. B. lin. 46 ° cos. 44 ° = √ (1 — fin.
+
+44° 2).
+
+S. 10. Die Seiten eines Dreiecks verhalten sich wie die fin. der gegenüberstehenden Winkel. Das Dreieck sey ABC Fig. 144, ſo ſoll z. B. AB: AC fin. ACB; fin. ABC.
+
+Man beschreibe um ABC einen Kreis, der Mittelpunkt desselben sey D; man ziehe die Hülfslinien AD, CD und BD; AC. AB ist die Sehne AB: ADB, nach §. 4; . von ADB, also 2 AB = fin.
+
+ſo ist AB
+
+AC = [p. 402] den so ist 2 AC = fin. ADC, folglich AB: AC = · ADB: fin. ADC. Nun ist aber 2 ADB = ACB und 2 ADC = ī
+
+ABC, alſo AB: AC = ſin. ACB; fin. ABC. Auf diese Art wird der Beweis auch für die übrigen Seiten des Dreiecks geführt.
+
+S. II. Wenn in einem gleichſchenkligten Dreieck von den drei Stücken: der Grundlinie, einem Schenkel und dem Sinus des halben Winkels an der Spitze zwei gegeben sind, das dritte zu finden.
+
+Fig. 145 sey in dem gleichſchenkligten Dreieck ACB, die Grundlinie AB = b, der Schenkel AC =g, und der Winkel ACB
+
+, man ziehe CD senkrecht auf AB, ſo iſt ACD = a, und AD = 1b 2. Nun ist nach §. 10. AD: AC = fin. 2 « : lin. R, und da fin. R = 1, so ist 2bbg fin. 2 a: 1, woraus sich ergiebt, 1) b = 2 g. fin. 2 α, 2) g = 2 lin. « und 3) lin.
+
+Zusatz.
+
+bekannt, Wäre der lin. von « und col. von 1 2 a so läßt sich der Werth von g und b noch auf eine andere Art bestimmen. AC: AB
+
+Es ist nämlich nach §. 10 fin. B; fin. « [p. 403] und da B weil compl. vona,
+
+CDB rechtwinkligt, so ist fin. B col. 2, folglich g: b = cos. a: lin. a bx cos. u g X fin, a und b folglich g = fin, a cos.
+
+S. 12. Es ist der fin. und col. eines Winkels gegeben, man soll den fin. des doppelt so großen Winkels
+
+In dem gleichschenkligten Dreieck ACB fanden wir §. 11 einen doppelten Werth für b, g X fin. a b = 2g × ſin. — 2 « und b — col.a g X fin, a Folglich 2 g X fin. 2 col.a -(col. & a 2 g X fin. 2
+
+× cos. — 2 « = g × fin. « g)
+
+2. fin. 1 a aX × col. 2 1α fin. a.
+
+Man findet also den linus eines doppelt so großen Winkels, wenn man das doppelte Produkt des sinus und col. des einfachen Winkels nimmt.
+
+S. 13. Aus dem col. des ganzen Winkels den ſinus und col. seiner Hälfte zu finden.
+
+Man fälle Fig. 145 AF senkrecht auf CB, so ist FABCDB, also
+
+[p. 404] BF: ABBD: CB BD: CB = fin. -2 « : 1 nach §. 10.
+
+BF: AB = fin. — « 2: 1, BF — CB —- CF; in dem rechtwinkligten Dreieck AFC ist CF col. a, wenn man AC = CB als rad. betrachtet, folglich BF1 col. a; AB (ist nach a, g ward AC oder CB genannt, §. 11) = 2 g fin. 2 — «, da wir nun in der Bestimmung von CF diese Seiten als radius oder 1 betrachtet haben, so ist AB = 2.1. fin. —a 2 « ; daher ergiebt sich aus §. 10 2 a = 2 ſin. — BF: BA — fin. 2 a: I I α a: I-cos. : 2 fin.
+
+- cos. a
+
+2 (Lin. 2/2 (lin. 1 α) ²
+
+I-cos. a
+
+Lin. 2 « = V (1~ col. α) Nun ist nach §. 8, wenn man in der dort gegebenen Formel cos. x = √ (1 — ſin. x²), für x ſetzt 1a, col. 2 1α = √ (I — ſin. 1 - a²). a2 Setzt man nun statt lin. 2 den vorhin gefundeI .col. a l ſo iſt co. La nen Werth · V(12 (I cos. (I-cos.a) 1—00 a)) = √ (² (1 — col = 2 a)) 2. a) = √ (2 ~ (
+
+= √ (1+col. α). S. 14. Col. 90 ° ist=0, also col. 45° = √¹± 2°
+
+✔
+
+= 0,7071067812; col. 22 ° 30 ′ = 0,9238795325;
+
+[p. 405] col. 11 ° 15'
+
+0,9807852804; eos. 5 ° 37′ 30″
+
+0,9951847266.
+
+Fährt man nun so fort, den col. der
+
+Hälfte des gefundenen Winkels nach der §. 13 gez gebenen Formel √ (1+col. a) zu suchen, so findet man endlich cos. 213
+
+110,9999997058, cos. 1
+
+50,9999999264, cos. 39
+
+21309999999816. VI - Cos.a?
+
+Sucht man nun nach der Regel lin.
+
+Die fin. für die `drei letzten Winkel, so erhält man fin, 21 38
+
+110,000766990322 fin. 1
+
+50,0003834951875 fin. 39″ 33″
+
+20,0001917475973,
+
+S. 15+ Bei sehr kleinen Winkeln verhalten sich die Sinus wie die Bogen. ›
+
+Der Unterschied zwischen dem Bogen und dem dazu gehörigen Sinus nimmt immer mehr ab, je mehr man den Winkel durch die Theilung kleiner macht; denn je kleiner der Winkel wird, desto mehr nähert sich die Sehne dem Bogen, und endlich ist sie dem Bogen gleich zu schätzen.
+
+Die Sehne des Bogens ist aber die Hypothenuse des Dreiecks, in wels chem der Sinus desselben die Cathete ist; je kleiner nun der Winkel ist, zu dem der Sinus gehört, desto mehr nähert sich das Dreieck dem gleichschenkligten, [p. 406] und desto mehr der Sinus der Sehne, und also auch dem Bogen.
+
+Folglich werden sich bei sehr kleinen
+
+Winkeln die Sinus wie die Bogen verhalten. $. 16. Sezt man nun nach Anleitung des vorhergehenden S. 39 ″ 33″ 23
+
+: 10,00019174759: fin. 1 ' ;
+
+so findet man lin. 1 ' = 0,0002908881, aus welchen man nun nach §. 8 den Col. 1 ' finden kann. Aus beiden läßt sich nach §. 12 der fin. und col. des doppelt so großen Winkels finden.
+
+S. 17. Aus dem gegebenen Sin. und Col. zweier Winfel, den Sin. und Col. ihrer Summe und ihrer Differenz zu finden. Die beiden gegebenen Winkel seyen ACB = « und BCDs, Fig. 146.
+
+Man fälle BE senkrecht auf
+
+AC, ſo iſt BE➡ fin. « und col. « für den rad.1 ACBC; fällt man ferner DG senkrecht aufBC, ſo ist DG = fin. ß, und GC = col. ß, gleichfalls für den rad. BCCD.
+
+Steht DF senkrecht auf AC, so ist DF = ſin. ( « +6) und CF = cos. (a + B) ebenfalls für den radius CDAC.
+
+ziehe GH senkrecht auf AC, und GK senkrecht auf DF, so ist DF = DK + KF — DK + GH
+
+Da ABCE
+
+ACGH, ſo iſt
+
+[p. 407] CB: GC =BE: GH coffin. α: GH
+
+GH fin. a & X cos. s
+
+LCFA GKL
+
+Nun ist
+
+ALCFA BCE AGKLA BCE
+
+AGKLA DGK ABCE
+
+ADGK
+
+Folglich CB: CE = DG; DK 1: cos.
+
+fin. 8: DK
+
+Alſo DK fin. s X col. «.
+
+Da nun DF = ſin. (« +8) = DK + GH, ſo iſt fin. (x +8) = fin. a. cos. 8+ cos. a. fin. s. Der col. ( +8) oder CF ist = CH - HF = CH - GK, sucht man nun auf eine ähnliche Weise wie vorhin, die& Werthe von CH und GK, so erhält — fin. a. fin. ß. man cos. (a + 8) = col. a. cos. В Man drücke die gefundenen Werthe für ſin. und cos. (a + b) in Worten aus. Zur Auflösung des zweiten Theils der Aufgabe, den Sinus und Cosinus der Differenz zu finden, dient Fig. 147.
+
+NCM sey der Winkel a, dessen Sinus
+
+NT und dessen Cofinus CT gegeben sey, der Winkel NCR sens, ſein Sinus RS und ſein Cosinus SC fen gleichfalls gegeben, aß ist RCM, und fin.
+
+(a 3) ist RI, und col. ( -8) —ß) ß) ist IC, welche beide gesucht
+
+Man ziehe SO ‡ MC und SK senkrecht auf MC; und verlängre NC und RI, bis sie sich in P schneiden.
+
+[p. 408] Nun ist RI oder ſin. ( ~ —ß) = OI— OR = SK — OR, ſucht man nun auf dieselbe Weise, wie im ersten Theil der Aufgabe, den Werth für SK und OR, so findet man ſin, (« —ß) — fin, «, cos, s — cos. a. fin. s. Ferner ist IC oder col, (a — ß) = CK + KI = CK + OS, woraus sich ergiebt col. (a — ß) —col. a. `coſ. ß +ſin. «. fin. ß, wenn man die Werthe für CK und OS ſucht.
+
+Um zu wiſſen, ob man die gefundenen Werthe für ſin, und cos. (~ —ß) gehörig versteht, drücke man sie in Worten aus. S. 18. Die Resultate dieser angestellten Untersuchungen setzen uns nun in den Stand, die Sinus und Cosinus aller Winkel von Minute zu Minute zu finden. Man darf nach §. 9 die Berechnung nur bis 45 ° machen; allein auch diese Arbeit läßt sich noch um ein Drittheil verkürzen. Denn fin. ( +6) = fin. a. cos. s + col. a. ſin, s fin. (a 3) = fin. ſin. a. cos, s — cos. a, ſin, s —ß) «fin. (a +B) + fin. (a - 3) = 2 fin. a. cos, s, Ferner ist col. (ß) = col. « , cos. s +fin. « . fin, s cos. (a +6) = col. α, cos. s — fin. « . fin.s col, (a - 3) —col. (a + 6) = 2 fin. « . fin. В § Nun ist nach §. 4, fin, « == 0,5, wenn a 30 ° ; folglich fin. (30 ° +ß) + ſin. (30 ° —ß) —2, cos. s cos. s; ferner ist col. (30 ° — 8) -— cos. (30 ° + 8) = 2.
+
+fin. s. Aus fin. (30 ° +ß)
+
+[p. 409] + fin. (308) cos. B col. 8, ergiebt ſich ſin. (30 ° + 8) (ſin. 30 ° —s) ; und aus col. (30 ° — 6) — coſ. (30 ° + ß) = ſin. 3 folgt, cos. (30 ° + 8) =col, (30 ° + ß) — ſin. ß.
+
+Sucht man z. B. den Sinus und Cofinus von 38 ° ; ſo 4 iſt ſin. 38 ° — ſin. (39º + col. 8° - fin. 22 ° ; ferner cos. 38 ° cos.
+
+8°)
+
+(30 ° + 8 °)
+
+col. 22 ° —fin. 8° .
+
+So daß man also alle fin. und col. über 30 ° durch bloße Subtraction findet, `wenn man die fin. und col. bis 30 ° berechnet hat. Hat man die fin, und cos. aller Winkel, so kann man nach §. 8 die übrigen trigonometriſchen Linien leicht finden.
+
+S. 19. Der zweite Theil der in der Arithmetik erwähn ten Schulzischen Tabelle enthält, die logarithmischen Linien.
+
+Auf der linken Seite sind die Linien ſelbſt für den Radius = 1 angegeben, auf der rechten Seite finden sich die Logarithmen für den Radius = 10000 Millionen.
+
+Bei den ersten und legten 4 Graden sind die trigonometrischen Linien ihre Logarithmen von 10 zu 10 Sekunden angegeben; übrigens nur von Minute zu Minute. -- Ferner gehen diese Tafeln nur bis auf 90, weil man die trigonometriſchen Linien nicht ſpiger Winkel leicht nach denselben bestimmen kann. —
+
+Endlich ist um Raum zu ersparen noch darauf Rücksicht genommen, daß der Sinus eines Winkels dem Cosinus seines Complements, so wie der Cosinus eines Winkels dem Sinus seines [p. 410] Complements gleich ist; ein Saß, der auch aufTangens ten, und Cotangenten, Secanten und Cosecanten sich erstreckt. Darum gehen die Tafeln nur bis 45 ° , und auf der untern Reihe jeder Seite sind die Grade des Complements der Winkel angegeben. -- Neben jeder Columne finden sich noch Sechstheile des Unterschiedes der beiden nächsten Glieder der Columne.
+
+S. 20+ Nachdem die trigonometrischen Linien selbst bez rechnet sind, so kann man sich an die Auflöſung der trigonometrischen Aufgaben machen.
+
+Es ist die Seite eines Dreiecks und zwei Winkel desselben gegeben, man soll die übrigen Seiten und den fehlenden Winkel finden.
+
+Das Finden des dritten Winkels kann nach geometrischen Säßen keine Schwierigkeit machen.
+
+Fig.
+
+148 sen gegeben BC, und die Winkel A und B, ſo ist auch C als bekannt anzunehmen. Nun ist nach §. 10 ACBC
+
+AC = fin. B; fin. A fin. B x BC
+
+AB: BC fin. C: fin. A fin. CX BC AB = Es ist schon S. 19 gesagt worden, daß man die Rechnung durch Anwendung der log. ſich erleichtern [p. 411] kann, was auch bei allen folgenden Aufgaben der Fall ist.
+
+Es sey BC = 5', A = 36 ° , B = 42 °, man ſucht C und die Seiten AC und AB.
+
+Da A = 36 °, B =42 ° , ſo iſt A + B = 78 °, also 180 ° - 78 ° 102 ° fin. 42° X 5 0,6691306 X 5 AC = Lin. 36° 0,5877853 = 51 6
+
+Durch Logarithmen findet man log. fin. 42 °
+
+9,8255109 log. 5
+
+0,6989700
+
+10,5244809 log. fin. 36 °
+
+9,7692187
+
+0,7552622 Zu 0,7552622 gehört die Zahl 5,691 oder 5161 91 ¡ IV. fin. 1020 X 5 fin. C x BC 0,9781476 X 5 fin. 36° 0,5877853
+
+= 8′ 3″ 21
+
+6¹v.
+
+Durch Logarithmen findet man log. fin. 102° = 9,9904044 log. 5
+
+0,6989700 10,6893744 log fin. 36 °
+
+9,7692187 0,9201557
+
+Zu 0,9201557 gehört die Zahl 8,326 = 8′ 311 2111 61v.
+
+Anmerkung. In dem gegebenen Beispiel kömmt fin. 102 ° vor, und da muß man, um ihn in den Tafeln aufzuſuchen, nicht vergessen, daß lin. 102 ° —ſin, 78 ° .
+
+[p. 412] S. 21. Es sind zwei Seiten eines Dreiecks und ein Winkel gegeben, der aber von den gegebenen Seiten nicht eingeschlossen ist, man soll die fehlende Seite und den fehlenden Winkel finden.
+
+Man wird bald inne, daß man nur noch einen Winkel zu finden braucht, denn alsdenn ist nach geometrischen Säßen, der dritte Winkel leicht anzuges und die fehlenden den, S. 20+
+
+Seiten findet man nach
+
+Gesezt nun Fig. 148 sey gegeben AB und BC und der Winkel A, so ist AB - fin. A: fin. C folglich fin. C =
+
+AB fin. A also ist C bekannt und dadurch die Aufgabe gelöst. Es sey AB = 6 ′, BC = 8 ′, A = 32 °, man ſucht B und C, und AC. Da die Sinus des Winkels und ſeines Supplements gleich sind, so muß man anderweitig bestimmen, ob der gefundene Winkel stumpf oder ſpitz ist; zuweilen erkennt man dies schon aus dem Verhältniß der gegebenen Seiten nach dem Lehrſaß: in einem jeden Dreieck steht der größern Seite der größere Winkel gegenüber.
+
+S. 22. Es sind die beiden Catheten eines rechtwinkligten
+
+[p. 413] Dreiecks gegeben, man ſucht die Hypothenuse und die beiden spitzen Winkel desselben. Anleitung zur Auflösung. Fig. 149 fen DE und ES gegeben, man sucht DF und die Winkel D und F. bateme Die Hypothenuse findet man durch Hülfe des pythagoriſchen Lehrsatzes, alſo darf man nur noch einen spitzen Winkel finden, um die Aufgabe leicht zn lösen.
+
+Nun ist aber
+
+ES: DE = r: tg. F tg. F- ES wodurch F bestimmt wird. Die eine Cathete eines rechtwinkligten Dreiecks sey 6 ', die andere 7′, man ſucht die Hypothenuse und die beiden ſpitzen Winkel.
+
+S. 23. Es sind zwei Seiten eines Dreiecks und der eingeschlossene Winkel gegeben, man sucht die fehlende Seite und die beiden fehlenden Winkel. Fig. 150 sen AB, BC und ABC gegeben, man T sucht AC, BAC und ACB. Auch hier wird man nur einen Winkel zu finden haben; man fälle AD senkrecht auf BC, so ist fin. ABC: I
+
+AD = AB. × fin. ABC
+
+AB = cos. × ABC: 1
+
+BDAB. col. ABC Da nun BC - BD = DC, ſo iſt DC = BC— AB X col. ABC.
+
+[p. 414] Es ist auch DC: AD = 1: tg. ACB tg. ACB = DC Seht man nun für AD und DC die gefundenen AB X fin. ABC Werthe, so erhält man tg. ACB = BC - AB X cos. ABC wodurch sich also ACB ergiebt. AB sey
+
+3', BC = 7′, ABC = 40 °, wie groß ſind die fehlenden Stücke des Dreiecks?
+
+Man kann die §. 23 aufgestellte Aufgabe auch noch auf eine andere Weise auflösen, allein dieſe AufLösung setzt folgenden Lehrsatz voraus.
+
+In einem jeden Dreieck verhält sich die Summe zweier Seiten zur Differenz derselben, wie die Tangente der halben Summe der ihr gegenüberstehenden ·Winkel zurTangente der halben Differenz dieſer Winkel. Das gegebene Dreieck sey ABC, Fig. 151 und in demselben CA ⇒ BC.
+
+Man beschreibe aus C mit CA einen Kreis, und verlängere BC nach D und E; ziehe DA und EA, errichte in E eine ſents rechte Linie auf EA und verlängere BA bis sie die senkrechte Linie in F schneidet.
+
+Da DAE = Ŕ, so ist EA: AD = 1: tg. g. Es iſt aber h = 2g, oder g == 2 h, folglich EA; AD = 1: tg.h und da h = i +k, ſo iſt EA: AD = I 2 1: tg. 2 (i + k). Da AEFR, so ist EA: ES = 1: tg. m. Es [p. 415] iſt aber k=g+ m, also k—g= m, und da g = h= 1 k— — 2 k— — 2 k + — i ,I ſo iſt m⇒k 2 i, oder m = k (k − i) ; folglich EA: i= ES = 1: tg. 2 (k —i). Wir fanden EA: AD = 1; tg. — (k + i)
+
+EA: ES = 1: tg. AD: ES = tg.
+
+(k — i) ]
+
+(k+i) : tg. ž (k − i)
+
+Es ist aber ▲ BFÈ » ◇ DBA, daher ES: BE = AD: BD, folglich ES: AD = BE; BD und endlich AD: EFBD: BE.
+
+Geht man dies in die obige
+
+Proportion, ſo erhält man BD; BE = tg. 2 — (k +i) ; + BC und BDCD i). (ktg. — da CDCA, ſo iſt BD = CA + BC, ferner ist BECE CA
+
+BC.
+
+BC und da CECA, so ist BE = Daraus ergiebt sich
+
+CA + BC: CA - BC = tg 2 (k +i) : tg.
+
+(k−i).
+
+Dies vorausgesetzt, so kann man die Aufgabe §. 23 auch auf folgende Weise lösen. Es ſey Fig. 148 AB, BC und B gegeben, so weiß man A + C = 180 ° —B A+C Da ferner AB und folglich kennt man auch
+
+BC bekannt, so weiß man, welche von beiden Seiten die größere ist, dies sey BC, so ist auch A > C. Es iſt alſo BC + AC: BC-AC - tg. (A – C) .
+
+(A +C) : tg.
+
+Da in dieser Proportion drei bekannte
+
+Glieder vorhanden sind, so läßt sich das vierte tg. — (A +C) 2 (A – C) finden. Kennt man die tg. 2 und tg. 2 (A - C), ſo so kennt man auch 2 (A + C) und (A – C). Man erhält aber nach Arithmetik §. 171, [p. 416] wenn man die halbe Summe und die halbe Differenz zweier Größen addirt, die größere, und wenn man von der halben Summe die halbe Differenz subtrahirt die kleinere Größe. Dadurch wird A und C bekannt, und nun kann man um die fehlende Seite zu finden nach §. 20 verfahren. S. 25. Es sind drei Seiten des Dreiecks gegeben, man sucht die drei Winkel desselben. Anleitung zur ´Auflösung. Auch hier wird ebenfalls nur ein Winkel gesucht werden müssen, denn wenn dieser gefunden ist, kann man nach §. 21 verfahren. Seiten gegeben,
+
+Fig. 150 seyen alle drei man fälle AD größte Seite BC. senkrecht auf die Man nenne BC = a, AB =
+
+> b, AC = c, BD = x. Es ist aber AD2 = b2 XC 2
+
+AD² = c² b²x² c² (α- x) ² (a — x) ²+
+
+Löst man diese Gleichung auf, so findet man (b+c). (bc) x= 2a
+
+Auf diese Weise wird BD bekannt. AB aber läßt sich AD finden.
+
+Aus BD und
+
+Nun aber ist
+
+AD = r; fin. B fin. B =
+
+In einem Dreieck sey eine Seite 16', die andere 8', die dritte 12, wie groß sind die Winkel des Dreiecks?
+
+.8
+
+لة ht
+
+DG
+
+Fig12
+
+2:16
+
+FA
+
+.D
+
+G D
+
+Fig 22
+
+Fig 23;
+
+Ꭰ
+
+Taken
+
+Fig29.
+
+.133.
+
+Fig:32.
+
+Fig: 31.
+
+Fig:35.
+
+g 36. M Fi.
+
+38.
+
+40.
+
+F B
+
+9.44
+
+.45
+
+Fig 47
+
+50.
+
+52.
+
+D B
+
+Fig55.
+
+CDB
+
+. 56.
+
+59.
+
+PASS
+
+.al
+
+С
+
+Ᏼ Ꭰ Ꭺ
+
+. 65 t /u FC
+
+Fig. 67
+
+IKLM
+
+F Fy 69 A
+
+В
+
+Fig.72.
+
+Fig71.
+
+Fig:
+
+ம. Fig.75 ரு
+
+Fig.78. a IK
+
+Fig. 786
+
+Fig77
+
+MN B.
+
+. 82.0
+
+. 85 BFig
+
+KM L Ing: $
+
+Fig. 84
+
+89.
+
+Fig92
+
+Fig.95.
+
+Fig.96. a.
+
+Fig97
+
+F.
+
+Fix99
+
+Fri: 101
+
+СЕ
+
+. 104
+
+FE
+
+.106
+
+:108
+
+Fi g Fig. Fi. 11
+
+69.112.
+
+Fig.113.
+
+115.
+
+Fig116
+
+BV
+
+Je B
+
+.118.
+
+L
+
+A. C
+
+Fig.120
+
+Fig.124
+
+LB
+
+EX
+
+EL Fig.126.
+
+RNB
+
+PD Q Fige /28
+
+Fig.129.
+
+Fig132D
+
+Fig135 R-
+
+TB
+
+U
+
+КИ Y
+
+EC
+
+Z
+
+MJ
+
+X3
+
+& Fig:135
+
+NH
+
+Fig. 138.
+
+Fig.140
+
+LXK!
+
+Sig: 142. H
+
+Fig. 144
+
+.147 Fi g17 Fi
+
+CMI
+
+A EH
+
+Fug 149 3.151.
+
+Fog/50
+
+FB
+
+TK
+
+11.

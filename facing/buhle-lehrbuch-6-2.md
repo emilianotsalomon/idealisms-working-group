@@ -1,0 +1,5095 @@
+---
+title: Lehrbuch der Geschichte der Philosophie und einer kritischen Literatur derselben, Theil 6, 2. Hälfte
+author: Johann Gottlieb Buhle
+year: 1801
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: as converted
+source: "Göttingen: Vandenhoeck und Ruprecht 1801; from a scan in Seinsbyte's library; this file is the source, corrections go here"
+original_text: "ROUGH OCR, not corrected page by page: about 10% of words were wrong on a 5-page sample (2026-10-25). Google's text layer of the scan, with free rule fixes, a second OCR reading (tesseract) and a scan check of the doubtful places; read it beside the scan, do not cite from it"
+translation: none
+canonical: "[p. N] marks printed page N where its folio could be read from the scan; a page without a legible folio carries none"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: It was printed in 1801; author and edition are long past every protection, so it is free to publish.
+generated: 2026-10-25 by .scratch/idealisms-wg/circle_editions2.py (library)
+---
+
+# Johann Gottlieb Buhle, *Lehrbuch der Geschichte der Philosophie und einer kritischen Literatur derselben, Theil 6, 2. Hälfte* (1801)
+
+Conventions: [p. N] marks printed page N where its folio could be read from the scan; a page without a legible folio carries none; paragraphs as the conversion found them; `*…*` is emphasis where the text layer kept it. Generated file — see the header for where corrections belong.
+
+Nova fundamenta jaciuntur: nova nomina, exſtinctis prioribus, aut inacceſſionem válidioris converfis , oriuntur, Seneca.
+
+## Vorrede.
+
+Es war meine Absicht, in der zweyten Hälfte Des sechsten Bandes die Geschichte der Philosophie bis auf die neuesten Zeiten herabzufuhren , und damit dieses Werk zu beendigen ; allein der Stoff, welchen ich zu verarbeiten hatte, war zu reichhaltig , um in diesen engen Raum zlu zusammengepseßt werden zu können.
+
+Seit dem sechszehnten Jahrhunderte, nachdem die Thätigkeit der- speculirenden Vernunft durch mächtige aussere Antrie= be auf's neue belebt war, nahm sie auch sehr mannichfaltige originale Richtungen, und die Geschichte muß sie um so mehr in diesen begleiten und verfolgen , je interessanter für die Philosophie als Wif senschaft die Vorstellungsarten von Gott, Welt und Menschen sind , welche dadurch erzeugt wurden. Die Entstehung der meisten philosophischen Systeme und
+
+Denkarten , aus welchen sowohl die Wolfische Philosophie als der neuere Eklekticismus vor Erscheinung der Kan= tischen tischen Schriften zusammengesetzt sind , und auf welche“ die letzteren selbst sich am häufigsten beziehen , fällt in den Zeitraum , welchen der gegenwärtige sechste Band umfaßt.
+
+Wenn ich also dieselben nach ihrem Hauptcharakter, in ihren vornehmsten Grunden und Resultaten , verz hältnismäßig auf eben die Art historisch darstellen wollte, wie ich die ältere Phie losophie darzustellen versucht habe; so mußte ich mich nach der Beschaffenheit der Gegenſtände bequemen , und meine obige Absicht aufgeben , da jene es nicht zuließ , diese zu erreichen.
+
+Freylich las sen sich philosophische wie andere wissenschaftliche Systeme mit einem ihre unters
+
+ſcheis
+
+Vorrede.
+
+ſcheidende Eigenthümlichkeit andeutenden Namen , oder auch mit wenig charakteristischen Hauptzügen , bezeichnen; und dadurch ist eine historische Kurze mdglich , wobey eine Reihe von Bänden erspart werden kann. Eine solche Bezeichnung aber ist doch nur denen verständlich und brauchbar , die mit jenen Systemen des reits im Einzelnen vertraut sind , und den innern Zusammenhang und Geist derselben kennen.
+
+Dergleichen Eingeweihten schreibt man kein Lehrbuch.
+
+Bey andern , welche mit jenen Systemen noch nicht genauere Bekantschaft gemacht haben , wird durch die kurze scien=
+
+Vorrede.
+
+scientifische Bezeichnung nur die Wißbegierde gereizt, ohne sie zu befriedigen.
+
+Um inzwischen der Beschwerde über die zu große Bändezahl meines Werks abzuhelfen , soweit es , ohne der von mir bezweckten Nützlichkeit desselben Abbruch zu thun , geschehen konte, entschloß ich mich bey der Epoche der Wolfischen
+
+Philosophie stehn zu bleiben. Da gleichwohl das Register über alle sechs Theile nicht vor der Messe gefertigt werden kon te, und besonders nachgeliefert werden muß, so bin ich von der Verlagshandlung ersucht worden, demselben einen Anhang beyzufügen , der die wichtigsten Veranderunaf
+
+Vorrede.
+
+rungen der Philosophie seit Wolf in möglich größter Kürze enthielte. Mit diesem wird also demnächst das ganze Werk vollendet seyn Göttingen im April 1801.
+
+Der Verfaffer.
+
+D
+
+Sechster Theil, zweyte Hälfte.
+
+## Zwanzigster Abschnitt.
+
+### Geschichte der Philosophie im sechszehnten Jahrhunderte.
+
+§. 946. So wie Bruno und Vanini, wurden noch mehrere Zeitgenossen derselben durch ihre
+
+Forschungen über die Naturprincipien zuVor. stellungsarten geführt, die dem Pantheismus und Naturalismus jener sehr naheverwandt wa ren, oder offenbaren Atheismus zum Resulta. te hatten. Die merkwürdigsten unter ihnen sind Andreas Cäsalpinus : Cäsar Cremo. ninus, Claudius Berigardus, und Ruggieri. Der erste wurde gebohren zu Arezzo im J. 1519, lehrte , nachdem er eine Reise durch Deutschland gemacht hatte, die zur Verbreitung seines Ruhmes sehr viel beytrug , die
+
+Arzneywissenschaft und Philosophie zu Pisa, und nachher zu hom , wo er zugleich Leibarzt des Pabstes Clemens VIII war. Er starb an dem leßtern Orte 1693. Ausser mehrern
+
+Werken medicinischen Inhalts, die zu ihrer D
+
+Beit
+
+[p. 416] Zeit sehr geschätzt wurden, schrieb er auch Quæftiones Peripateticas (Vener. 157 1593 fol), in denen er die Naturprincipien des
+
+Aristoteles auf eine eigene Art auslegte und anwandte ; ohne , wie es damals von Allen, die mit der Kirche in Einigkeit bleiben wollten, geschah , solche Sätze , die dem Kirchenglauben widerstritten , zu berichtigen oder diesem gemäß zu deuten , was er den Theologen zu thun überließ. Das Originale seiner Auslegung bestand in einer weitern Ausdehnung der Averrhoistischen , wodurch der Peripateticismus in Pantheismus verwandelt wurde. Er stellte die Gottheit, die nach dem Aristoteles das Prin.
+
+cip der Welthewegung , der lebendigen und vernünftigen Naturen , ist , als den thätigen Weltverstand vor , der mit den thierischen und menschlichen Seelen Eine und dieselbe Substanz ausmache.
+
+Gott war ihm also nicht die
+
+Hervorbringende Ursache , sondern das Wesen der Dinge selbst ; er ist die einzig wirkliche
+
+Substanz , die an und für sich selbst unkor perlich und eine absolve Einheit ist ; die aber durch ihre Verbindung mit der Materie, dem bloßen Principe der Möglichkeit , eine Mannichfaltigkeit von Dingen ausdrückt. Die Gottheit oder der Weltverstand kann nur das
+
+Beste, d. i. sich selbst denken; damit hob C&falpinus eine beſondre göttliche Vorsehung auf.
+
+Es war consequent, daß er auch den realen Un.
+
+[p. 417] Unterschied zwischen Substanz und Accidens, und überhaupt alle reale Verschiedenheit der Prádicamente leugnete ; vielmehr die Qualität, Thätigkeit, Leiden , nicht für Accidenzen, sonbern Alles für Substanz erklärte, und der
+
+Verschiedenheit der Prädicamente eine bloß logische Bedeutung gab. Wie untreu hier Ch salpin der ursprünglichen Aristotelischen Theologie wurde , und wie er auch dem Averrhois. mus , von welchem er zunächst ausging, einen ganz andern Sinn lieh , und wilde Folgerungen daraus zog , ist von selbst klar. Es war also gerecht, daß man ihn nicht bloß des Misverstandes und Misbrauches der Aristotelischen Philosophie beschuldigte; sondern bey den Herschenden theologischen Begriffen konte man ihn auch des Atheismus zeihen. Einen lebhaften Gegner fand Cäsalpin an dem Taurellus , eir nem Altdorfischen Philosophen, der in einem Werke unter dem Titel: Alpes caefae ( Francof. 1597. 8.) zwar das literarische Ver. dienst jenes anerkannte , aber zugleich heftig und bitter gegen ihn polemiſirte, und in der That , was das Verhältniß der Casalpinischen Lehre zum echten Peripateticismus und zur gangbaren Theologie der Zeit betrifft, mehrere Irthumer und Schwachen derselben grund. lich und scharfsinnig aufdeckte. - Den Vor wurf des Misverstandes oder Misbrauchs der
+
+Aristotelischen Philosophie konte man dem zwey [p. 418] ten der oben genannten Philosophen, dem Că sar Cremoninus , nicht machen; er ward aber darum nicht minder der Irreligiosität und des
+
+Atheismus bezüchtigt ; eben weil er der echten Aristotelischen Theologie anhing, und Diese in seinen philosophischen Vorträgen über Aristoteles und deßen Schriften auf eine Art erörterte, die seine Ueberzeugung von der
+
+Wahrheit derselben zu beweisen scheint. Veufferlich bekante er sich, wie es bey den Peripa retikern , in Italien vornehmlich , Mode war, zu dem Kirchenglauben, und man legte ihm das berüchtigte und nachher oft wiederholte Wort bey : Intus vt libet, foris vt moris est. Da er unter den ältern griechischen Auslegern
+
+Des Aristoteles den Alexander Aphrodisi aeus allen übrigen vorzog, so nahm er auch Die Sterblichkeit der Seele als eine nothwendige Folge des echten Peripateticismus an. Cäsar Cremoninus war gebohren zu Centi im Herzogthume Modena 1550 , lehrte schon seit seinem 21sten Jahre zu Ferrara die Philosophie , nachher den größten Theil seines Lebens zu Padua, wo er im achtzigsten Jahre seines Alters 1630 an der Pest starb. Er war einer der beliebtesten Docenten , und durch sein gefälliges äusseres Benehmen auch ein Gunst •ling mehrer Italienischer Fürsten und Großen, -Auf eine andere Art zog sich den Ver dacht des Atheismus zu Claudius Berigard Clau [p. 419] (Claudius Guillermet de Berigardo), geboh renwahrscheinlich um das Jahr 1592 zu Moulins in, Frankreich , wo sein Vater Petrus
+
+Berigard als Arzt lebte. Er studirte zu Aip und ward hier Doctor der Philosophie undMedicin, hielt sich hernach auch zu Paris auf, von wo er als Geheimschreiber und vermuth lich auch als Leibarzt des Herzogs Ferdinand
+
+II nach Florenz berufen wurde. Von denI. 1628 an lehrte er die Medicin und Philosophie zu Pisa , und vom I. 1640 an zu Pa dua. Hier stard er um's Jahr 1668 in einem sehr hohen Alter.
+
+Unter seinen Werken sind.
+
+am berühmtesten die Circuli Piſani de veteri et Peripatetica philoſophia (Vtini 1641.1643) Diese enthalten eine kritische Untersuchung der, Lehren , die Aristoteles in den Büchern da phyſica auscultatione , de coelo, de ortu et interitu, den Meteorologicis , und de anima vorgetragen hat. Berigard war Gegner des
+
+Aristoteles, und bemühte sichdas kosmophysische SystemderJonischen Naturforscher vor demPe ripatetischen geltendzu machen, also einen eigentlichen Naturalismus auszustellen. Er wählte dazu absichtlich die dialogische Form , und führ te einen Charilaus und Aristaus redend ein von denen jener die Peripatetischen Behauptungen, dieser , unter welcher Person er sich selbst versteckt hat , die Meynungen der ältern Naturforscher vertheidigte. Es ist aber nicht das
+
+System
+
+[p. 420] System eines einzelnen Joniers, oder des Empedokles, oder Demokrit u. w. insbesondre, das er hervorhebt; sondern vielmehr ein Eklekticismus aus den Meynungen dieser Aller, vorzüglich aber doch des Anarimander und
+
+- Anaxagoras. Ein Hauptargument , das er für die Jonische Kosmophysik benutzt, ist , daß sie sich beſſer mit der gangbaren Theologie ver trage, als die Aristotelische. Hieraus scheint auch zu erhellen , was Brucker sehr umständ. lich gegen Parker u. a. , die den Berigard zu einem verkappten Atheisten machen, darzuchun sich bemüht : daß es nicht seine Absicht war , den Naturalism der Jonier als das wahre philosophische System zu lehren ; sonDern die Naturphilosophie hervorzuziehn , die sich am besten mit der gangbaren Theologie vereinigen ließe , und die durch die Auctoritat der Aristotelischen unterdrückt oder so lange am Emporkommen gehindert wir-
+
+Dde, als diese nicht widerlegt wäre.
+
+nahm das Atomensystem an, ursprungtt che höchst kleine elementarische Grundförper chen, die aber , wie die Urheber des Atomen. systems voraussekten, nicht von Ewigkeit her existirten , sondern von Gott unmittelbar geschaffen seyen, und aus deren Verbindung und
+
+Scheidung die Entstehung , Veränderung und der Untergang der Naturphänomene erklärt werden mußten.
+
+Diese Atomen hielt er für ein [p. 421] ein besseres Erklärungsprincip , als die Urmaterie des Aristoteles, wie ein leerer nichtiger Begriff sey, und in einer bloßen Abstraction von aller Materie bestehe. Er war auch nichts weniger als unbedingter Vertheidiger der Jonischen Naturphilosophie, sondern erkannte und tabelte ihre Irrthümer, und sein. Resul Yat war, daß die wahre Kosmogonie keine andere als die im Christenthume angenommene Mosaische sey. Ob es ihm inzwischen mic Dieser Behauptung ein völliger Honst war;
+
+oder ob er nur die Maske des Orthodoxen vor Hängre und seine Ergebenheit gegen den Kirchenglauben affectirte; das läßt sich freylich, da man Ursache hat , oft selbst den bestinte ſten und Flarsten Versicherungen der Italienischen Philosophen des XVI Jahrhunderts in Diesem Stucke zu mistrauen , nicht ganz mit Buverlässigkeit entscheiden. Hatte aber auch Berigard nicht die orthodoxe Absicht gehabt, die ich ihm oben beygemessen habe , so war er Dochwenigstens kein dogmatischer Naturalist und Atheist , wofür ihn Parker u. a. aus, gegeben haben. Eher wäre er alsdenn für einen Skeptiker zu achten. Er läßt seine Personen die Grunde des Aristotelischen und des
+
+Atomistischen gegenseitig vortragen und abwa gen; den Grunden des atomistischen Systems legt er ein größeres Gewicht bey , ohne sie doch für entscheidend auszugeben , und das
+
+‫برات‬
+
+[p. 422] System von Irrthimenn fren zu sprechen, Er sagt, daß er zuweilen zur Unterstúkung des aromistischen Systems eigene Grunde bey.
+
+gebracht habe , die den Alten unbekant geblieben seyen; dies habe er bloß zur philosophischen Nebung und zur Erweiterung der Wissenschaft gethan; nicht aber um das System, als ob es fein eigenes wäre, dadurch noch mehr zu bestärken. Am Ende diens uns die ganze Une tersuchung gesteht er offenherzig , um einzur setzen, daß wir über das Wesen und dieGrun de der Natur nicht nur nichts wiſſen, ſondern auch nichts wissen können, so lange wir in den Schranken der Sterblichkeit, eingeschlossen sind. Folglich Skepticismus war das Resultat, mos sich Berigard abstrahirte und damit, ließe sich sein Glauben an die Wahrheit der Mo falschen Kosmogonie, die das Christenthum als göttlich geoffenbarte Lehre adoptirte gang wohl reimen. Wie dem auch sey , so erreichte Berigard durch die kunstliche Zweydeutigr keit, bipein der Darstelkung seiner Natur philosophie liegt, den Zweck, daß seine Zeit geneſſen und ſelbſt die Wächter der kirchlichen Orthoborie nichts Anstoßiges in seinen circulis, Pifanis fanden, im Gegentheile, sehr ehrenvolle Zeugniße über den Inhalt derselben ausstellten.
+
+Konte man auch keinem der vorher genannten Männer den Atheismus im eigentlichen Sinne oder mit Zuverlässigkeit zutrautrauen, [p. 423] so ist doch Ruggieri nicht davon frey. zusprechen. Dieser war wahrhaft und in der strengsten Bedeutung des Worts Atheist. Er war es noch auf seinem Sterbebette. Geht, ihr Thoren , " sagte er zu den Geistlichen , die ihn bekehren wollten , es giebt weiter keine Teufel, als dieFeinde, die uns in dieser Welt plagen, und keinen andern Gott, als die Könige und Fürsten , die allein unsere Wohlfarth 19+村 日 befördern können, Vid. Bayle Dict. Art. Cefalpin. Cremonin. Berigard. Ruggieri, - Sam. ParkerDisputatt, de Deo et provid. div (Londin. 1678.4) p. 64. fq. - lac. Fried. Reimmann Hist. Atheismi et Atheorum falſo et merito ſuspectorum apud Iudæos ,
+
+Ethnicos, Chriftianos , Muhammedanos (Hild sie 1725. 8) p. 368. 409 fq. Bruckerihift. crit. philos. T. IV. P. 2. p. 220. 463 fq. - Die Werke der im I angeführe ten Philosophen gehören ist zu den literarischen Seltenheiten. Dem Andreas Cäfal pinus wird von Einigen die Erfindung der
+
+Geseze des Blutumlaufes noch vor Harvey zugeschrieben. - Vom Caesar Cremoninus waren philosophischen Inhalts : liber de pædia Ariftotelis
+
+Diatypofis univerſæ naturalis Ariftotelicæ philoſophiæ - Illuſtres contemplationes deAnima Tractatus tres: de sensibus externis , de internis , et de Facultate apperitiva.
+
+Einem Werke des Paganinus Gaudentius de [p. 424] de evulgatis arcanis ist auch eine Diatriba hiſtorica de Cafare Cremonino , lulio
+
+Pacio et loanne Barclaio angehängt - Ue der die wahre Lebensepoche des Claudius
+
+Berigardus ist man streitig. Nach Nice. ron (Memoires des hommes illuſtres T. XXXI. p. 123) ist er gebohren 1578 und gestorben 1663. Nach einem Briefe aber von G. Hieronym. Welsch an Job, Andr. Bose (Epist. Reines. et Bofian. p. 470) lebte er noch im J. 1667 und war noch im
+
+Stande für seine Freunde griechischeHand schriften zu vergleichen. Da müßte er fast 20. Jahr alt gewesen seyn , womit doch dies Factum nicht wohl zusammenstimt. Wahrscheinlich wurde er also früher (1592) gebohren ; und nach der Unterschrift unter seinem Bildnise vor den circulis Pifanis , die 1643 herauskamen , war er damals 51
+
+Jahre alt. Vergl. Villemandy Sceptic. debellat. p. 28 fq. - Nach dem Mercure Francois T. IV p. 46 waren des sterbenden Ruggiert Worte zu den Geistlichen: Fols que vous eſtes , allez , il n'y a point d'autres diables , que les ennemis , qui nous tourmentent en ce monde, ny d'autre Dieu, que les rois etprinces , qui ſeules nous peuvent avancer et faire du bien,
+
+§. 947.
+
+Da die wiederhergestellten Systeme des philosophischen Alterthums die forschende Vernunft [p. 425] nunft unbefriedigt ließen, und die neuen Versuche, die im Gebiete der Speculation ge. macht waren , so verschieden ausfielen und einander widerstritten, keiner derselben aber Genuge that; so war es kein Wunder , daß sich in mehrern der vorzüglichsten Köpfe ein Skepticismus in theoretischer Hinsicht bildete.
+
+Obgleich dieser an sich selbst in
+
+Beziehung auf die Philosophie als Wissen. schaft wenig besonders Merkwürdiges enthielt, so ist er doch dadurch interessant, daß man auf denselben eine praktische Philosophie, eine Lebenswissenschaftgrundete, diemehr einegemel. ne schwankendeKlugheitslehre , als eine conse. quente Moralphilosophie war. Der erste , der in dieserHinsichtin der Philosophie des XVI Jahrhunderts Epoche machte, und sich durch seine übrigenEigenthumlichkeiten als Mensch und als philosophischer Schriftsteller ein dauerndes Andenken stiftete , war Michel von Montaigne. Er wurde 1533 im Perigord auf demväterlichen
+
+Landgute , von welchem er den Namen führte, gebohren.
+
+Sein Vater ließ ihn im ersten
+
+Knabenalter das Lateinische und Griechische , wie seine Muttersprachen lernen , mit Hilfe eines gelehrten Deutschen, der kein Französisch verstand , und immer lateinisch mit ihm reden mußte; ausserdem daß der Vater selbst , die Mutter, und alle Personen des Hauses, sich bloß lateinischer Worte gegen ihn bedienten; so daß Mon
+
+[p. 426] Montaigne im sechsten Jahre seines Alters sehr fertig lateinisch sprach, ohne vom Franzósischen etwas zu wissen. Er ward hernach auf das Gymnasium zu Bourdeaur geschikt der weitern wissenschaftlichen Ausbildung wegen, wo er aber , da seine Lehrer hier eine der väterlichen ganz entgegengesetzte Methode des Unterrichts beobachteten , keine beträchtliche Fortschritte machte. In der Folge betrieb er seine Studien wohl am meisten nach eigener Stimmung und Laune. Als Jüngling lebte er verschwenderisch und überließ sich den Ausschweisungen; daher sein Vater sich wenig Gutes in der Zukunft von ihm versprach; aber er tauschte diese Besorgniß durch eine sehr regelmäßige Lebensart, nachdem er sich verheyrathet hatte und Erbe des väterlichen Vermögens geworden war. Er erhielt den Orden des heil. Michael , und bey seinem Aufenthalte inRom des römische Bürgerrecht , welche letztere Auszeichnung ihm besonders Vergnúgen gewährte. Zweymal ward er zum Maire von Bourdeaux erwählt , welches Amt jedesmal zwey Jahre dauerte, und von ihm nur auf Befehl des Königs angenommen, aber nichts desto weniger zur großen Zufriedenheit seiner Mitbürger von ihm verwaltet wurde. Sonſt hat er keine öffentliche Aemter bekleidet , da er bey der Frugalität , mit welcher er lebte, ein hinlängliches Einkommen von seinen ரும்.
+
+[p. 427] Gútern hatte. Inzwischen war er dochhwe. nigstens um die Mitte seines Lebens in manche politische Geschaffte und Negociationen der Zeit mit verroickelt, von denen er sich erst bey herannahendem Alter gänzlich zurückzog. Er lebte unter den Regierungen der französischen Könige Franz 1, Heinrich II, Franz II , Carl IX,
+
+Heinrich III und Heinrich IV. In den lek.
+
+tern Jahren seines Lebens litt er sehr an Steinschmerzen und Koliken; hatte aber eine entschiedene Antipathie gegen den Gebrauch von Arzneyen. Er starb 1592 im sechszigsten Jahre seines Alters. Montaigne's Versuche sind ein in seiner Art einziges Werk. Er schildert darin sich selbst, nach allen seinen mannichfaltigen Neigungen und Leidenschaften , Stimmungen und Launen , Reflexionen und Maximen , und benutzt dabey seine ganze anderwei. tige File von Erfahrung über Welt und Men schen überhaupt. Auch war die Physiognomie seines Geistes und Charakters , wenn irgend eine, dazu geeignet, in der Schilderung der selben einen Spiegel aufzustellen , worin jeder gebildete Mensch sich von dieser oder jener
+
+Seite erkennen mag. Man kann deßwegen seine Versuche als eines der treuesten Gemahl. de der Empfindens und Denkart und der Handelnsweise des Menschen und der menschlichen Gesellschaft im Ganzen betrachten, sofern ſie ſich in einem cultivirtern Zustande befindet.
+
+[p. 428] Er besaß das Talent der feinsten Beobachtung, DenrichtigstenSinn für das wahrhaft Natürliche, Schickliche, Gute und Schöne. Daher lassen sich seine Betrachtungen mit desto größerem In-
+
+teresse lesen, je mehr man hier das menschliche Herz, ost in seinenversiektesten Zügen ,getroffen sieht, und je unmittelbarer sie auf das wirkliche menschliche Leben , auch wie es noch gegenwärtig ist , ihre Beziehung finden. Aber nicht bloß die Früchte eigner Erfahrung und eignen Nachdenkens legteMontaigne in felnen Versuchen nieder; er wußte ihnen auch mannichfaltige Reize mitzutheilen , indem er sie mit Thatsachen aus der Geschichte des Alterthums und der neuern Zeit, mit ähuli. chen, oft schön, sinnreich und kraftig ausge. druckten , Gedanken, Maximen und Empfindungen älterer, besonders der classischen Dich.
+
+ter , Geschichtschreiber und Philosophen durch. wehte, Seine Belesenheit in diesen war eben so ausgebreitet , als geschmackvoll; und wenig Schriftstelier dürften die Blumen, die sie in andern Gärten brachen, so zweckmäßig und zugleich so kunstlos in ihren eigenen verpflanze Haben. Die Stellen der Alten erscheinen hier nicht bloß als bestätigende oder erläuternde Citate; sie gewinnen durch die Art ein eigenes neues Interesse, wie Montaigne sie seinen Ideen assimilirt und mit diesen verflochten hat.
+
+Die Vorwürse , die Einige ihm deshalb gemache macht haben , beweisen nur die Unverständig keit und Geschmacklosigkeit ihrer Urheber. Zu diesen rühmlichen Vorzügen, welcheM's Ver suche haben, kommen noch der herbliche, nai ve, jovialische, zuweilen muthwillige, doch selten oder nie über die Grenzen des Schiklichen ausschweifende Ton , der in ihnen herscht;
+
+vorausgesetzt daß man sie aus dem richtigenGesichtspuncte nach Montaigne's Zeitalter und nach seinem Zwecke beurtheilt ; die edle Simplicität und Leichtigkeit der Schreibart, die ungeachtet mancher veralteter Redensarten und
+
+Wendungen noch gegenwärtig gefällt, und von welcher Montaigne gewißermaßen der Schop fer unter seiner Nation wurde; die Abwechse Elung in den Gegenständen und dem Ideengan ge, die doch nie zur beleidigenden Unordnung wird , und den Leser , auch bey den ernsthafte sten Unterhaltungen, nie ermüden läßt. Es ist daher nicht zu verwundern , daß M's Versuche in den neuern Zeiten für die gebildetern Stande der cultivirten Nationen ein pantoung der Lebensweisheit geworden sind ; und in mehr als Einem Betrachte verdienen sie wirklich es zu seyn , obgleich die darin zum Grunde lie.
+
+gende speculative und praktische Denkart nichts weniger als unbedingt zu empfehlen ist. Die Esſais de Montaigne erschienen zuerst den Lebzeiten des Verfassers- zu Bourdeaux
+
+Ee
+
+1580;
+
+[p. 430] 1580; und in einer zweyten Ausgabe zu Paris 1588.
+
+Eine dritte Ausgabe von
+
+Langeliertamheraus nachM's Lode zuPas ris 1595 nach einem Mscpte des Verfasserk. In jeder dieser spätern Editionen sind die Essais beträchtlich vermehrt , sowie M.
+
+bey seiner Lecture neuen Stoff fand , durch Den er sie bereichern oder verſchönern zu können glaubte. Hieraus ist auch der Reichthum an historischen Thatsachen und
+
+Stellen der Alten begreiflich , ungeachtetM. öfter üder die Schwäche seines Gedächtnißes klagt. In der Ausgabe von der Demoiselle deGournay vom J. 1635 wurde den Citas ten aus lateinischen, griechischen, italienischen Schriftstellern eine französische Uebersezs zung , und eine , doch sehr mangelhafte und wenig genaue, Anzeige der Quellen beygefügt. Diese ist berichtigt und vervoll. Tomnert in der Edition von Pierre Cofte (Varis 1725 Tomes III . 4), wo voran auch die sich sehr widerstreitenden Urtheile mehrer der berühmtesten ZeitgenossenMons saigne's und der vorzüglichsten spätern Schriftsteller gesammelt sind. Hier findet man auch ein Sommaire recit für la vie de Michel Seigneur de Montaigne extrait de ſes propres ecrits. Vergl. Elege de Michel de Montaigne , qui a remporté le prix d'eloquence al' Academie de Bordeaux en 1774; par l'Abbé Talbert. In den neuern Zeiten sind noch mehr auch durch ihr Format bequemere Hanbausgaben er. schienen; wie z. B. die Genfer Ausgabe
+
+1779. 12. Zu den Freunden Montaigne gehörten ausser dem Charron und La Boetie auch der Geschichtschreiber Thuanus und Justas Lipsius , welcher letztere in dem Versuchen eine gewiße ſtoiſche Denkart fand
+
+Unter seinen Gegnern waren die
+
+Schriftsteller vom Port Royal , besonders der Verfasser der L'art de penſer, der den M. sogar des Atheismus beschuldigte, ferner Nicole, Pascal, Balzac,Malebranche n. a. Aber es hat auch dem M. nicht an zum Theile bittern Vertheidigern gegen die Kritiken derselben gefehlt. Ueber Balzac's und Malebranche's Tadel urtheilteLaBruye ere sehr treffend (Caracteres p. 31. ed. Paris 1699) : Balzac ne penſe pas assez, pour gouter un Auteur, quipenſe beaucoup; le P. Malebranche penſe trop fubtilement, pourf'accommoderdes pensèes. qui font naturelles. Nicole und Pascal, so wie die Schriftsteller vom Port Royal, was ren zu strenge und ſchwärmeriſche Moralia sten , als daß ihnen nicht Manches in M's
+
+Versuchen hatte anstößig seyn müssen; aber the Urtheil ist auch hiernach zu würdigen.
+
+Dergl. d'Argens philosophie du bon fens P. 19.
+
+§.948.
+
+Es ist überaus schwer, ein vollständiges und treffendes Urtheil über Montaigne's Eea theo [p. 432] theoretische sowohl als praktische Philosophie zu fällen. So viel sieht man , daß es ihm um Wahrheit ernstlich zu thun war ; daß er ihr durch Beobachtung seiner selbst und andrer, in der historischen Erfahrung , und durch Studium der Schriften der geistvollsten Menschen seines Zeitalters und der Vorzeit , nachgeforsche hatte.
+
+Die Ausbeute, die er davon trug, und die er uns in seinen Versuchen hinterlassen hat, ist weder ein bestimter Degmatis. mus - von diesem war seine Denkart wohl am weitesten entfernt - noch auch ein vol. lendeter Skepticismus; der letztere am wenig. ſten in Beziehung auf Moral und Religion. Montaigne war mit dem Pyrrhonismus ver. traut und hegte eine große Vorliebe für denselben, die in seinen Raisonnements oft durch blickt; aber er fand den Ruhepunct, die Atararie , nicht darin , welche die Anhänger desselben darin zu finden wähnten oder vorgaben. Was ihn am meisten an der objectiven Wahrheit irre machte und beunruhigte , war die ausserordentliche Verschiedenheit der philosophischen Vorstellungsarten, der Meynungen sowohl der Ausgeklärtern als des großen Haufens über Angelegenheiten des gemeinen Lebens , über Tugend und Laster, der Sitten und Gebrauche den verschiedenen Völkern und in verschie denen Zeiten.
+
+Diese Varietät und die Widerspruche darin bemüht er sich auch hervorzubeben, [p. 433] heben, um daraus die Ungewißheit deßen, was eigentlich für philosophische Wahrheit, für Tugend und Laster, für Schiklich und Unschiklich zu halten sey, darzuthun. Die Philosophie reducirte er größtentheils auf eine subjective Meynung, die nicht unerſchütterliche objective
+
+Gültigkeit habe, an sich selbst sehr verander lich, und höchstens nur einer comparativ gros fern Wahrscheinlichkeit fähig sey. Was der Mensch am Ende einſieht, ist seine Unwissenheit und die Schwäche seiner Vernunft. "Den wirklich gelehrten Leuten," sagt er einmal," geht es wie den Kornhalmen auf dem Felde. Sie wachsen frisch auf, und richten den Kopf gerade und stolz in die Höhe, so lange die Uehren noch leer sind; sobald sie aber angeschwollen, voll Korn sind , und reif werden, so fangen sie an demithig zu werden, und lassen die Hörner sinken. So die Menschen; wenn sie Alles untersucht, Alles geprust , und gefunden haben, daß in dem Haufen von Wissenschaften und Vorräthe von so mancherley Dingen nichts vom festen Gehalte und nichts als Ei. telkeit zu finden war : so haben sie dem Eigendünkel entsagt und ihren natürlichen Zustand anerkannt". Da Montaigne die Philosophie in einem Gewebe subjectiver Meynungen und
+
+Maximen bestehen ließ, welche die Vernunft unter den mannichfaltigsten äuſſern Umständen und Einflüßen aus der Erfahrung abstrahire, [p. 434] die aber sehr veränderlich seyen , und sich nur Durch größere Wahrscheinlichkeit , und zwar zunächst nur dem Subjecte , das sie hege, eme pfehlen konten; so darf es nicht befremden, wenn in seinen eigenen Versuchen nicht bloß einseitige und falsche, sondern auch einander widerstreitende Meynungen vorkommen , und
+
+Insbesondre seine Moral auf eine zufällige Durchaus nicht mit sich einstimmige Klugheitslehre hinausläuft. Auch muß man , um hierú der richtig zu urtheilen , die Entstehungsart der Versuche und M's Absicht daben nicht aus Den Augen lassen. Er schrieb jene in verschie Denen Zeitpuncten, danach ihn irgend eineMa. terie besonders zum Nachdenken anreizte, oder auſſere Umstände, zufällige Laune, ihn darauf führten. In der Auswahl und Behandlung Der Gegenstände befolgte er keine systematische Ordnung; er schweifte oft von dem eigentlichen Gegenstande seiner Betrachtung zu verwandten Materien ab ; und hier konte es sich leicht er. eignen, daß er sich in seinen Meynungen und Maximen untreu wurde, ohne es selbst zu be.
+
+merken. Eben in dieser Unbeständigkeit seiner philosophischen Denkart und seines Herzens wollte er sich selbst und damit den Menschen überhaupt nach der Natur schildern , und war.
+
+an Reflexionen knüpfen, wie sie sich ihm dar. boten, oder dergleichen bey Andern veranlassen. Ungeachtet des Schwankenden, das man in
+
+Mon.
+
+[p. 435] Montaigne's praktischen Maximen anteiffe, war er dennoch nicht nur selbst ein sehr recht schaffner Mann, sondern auch der eifrigste Loba redner und Empfehler der Tugend sogar im Stoischen Sinne des Worts. Da wo er sich nicht theoretischen Vernunfteleyen überläßt, werden seine Ausspruche durch sein moralisches Gefühl sehr sicher bestimt. Den Widerstreit, welcher ihm zwischen der Tugend der Vernunft und der Tugend , wie sie die positive Religion fodert, auffiel, wußte er nicht aus philosophischen Grunden zu lösen, und er war ihm sehr anstoßig. Aber er reſignirte hier auf eigene Einsicht , und beruhigte sich mit dem Glauben an die Offenbarung, was überhaupt der letzte Hafen war, in welchen sich seine philosophische
+
+Muse vor ihren Zweifeln flüchtete, und wo sie Ruhe sand. Man schreibt gemeiniglich dem Montaigne ein bestimtes Moralprincip zu , das sogea nannte Princip der Erziehung. Hier wird aber sein philosophischer Charakter ganz vers
+
+Fannt, wenn man ihm ein Princip irgend, eines bestimten Dogmatismus beymißt , eta wa um einzelner Stellen willen, die in sel nen Versuchen vorkommen , wo er nach ei nem solchen Principe raisonnirt. Mankann sich immer wieder auf andere Stellen berufen , wo er jenes Princip,bezweifelt , oder einem entgegengesetzten folgt. So fina den sich freylich Stellen , wo er die Moralität [p. 436] lität aus der Erziehung , Gewohnheit u. w.
+
+herleitet ; aber auch andre , wo er sie auf ein taneres Gefühl , auf den Willen Gottes gründet, oder ganz mit dem Stoicismus zusammenstimmt , oder überhaupt an allen festen Principien der Moralitat in der natürlichen Beschaffenheit des Menschen zweifelt. Vergl. Staudlin's Geschichte und Geiſt des Skepticismus B. II S. 3. ff. Wie ungereimt der Vorwurf des Atheismus ist , welchen Einige dem Montaigne aufge. bürdet haben , erhellt aus seiner Vertheidigung der natürlichen Theologie des Kays mand von Sabonde am auffallendsten.
+
+§. 949. Vertraute Freunde des Montaigne und ihm auch nach ihrer philosophischen Denkart sehr nahe verwandt waren Peter Charron und La Boetie. Der erste wurde gebohren zu Paris 1541 , studirte die Philosophie und Rechtswissenschaft zu Orleans und Bourges, ward Doctor der Rechte , und lebte anfangs als Parlamentsadvocat zu Paris. Er verließ aber dieses Fach , das seinem Charakter nicht entsprach , sehr bald , sieng an Theologie zu studiren, und zeichnete sich in der Folge als geist.
+
+licher Redner so aus , daß mehrere Bischöfe wetteiferten, ihn in ihren Sprengel zu ziehen, [p. 437] und er an verschiedenen Orten die Chorherrnstelle und andere Würden und Pfründen erhielt.
+
+Auch hatten ihn die Königinn Margarethe, und der Cardinal von Armagnac, Legat zu Avignon, eine Zeitlang als Prediger in ihrem Gefolge. Da man ihm im I. 1558 zu Paris wegen ſeiner körperlichen Schwäche die Auf. nahme in den Cartheuser und auch in den Coele. ſtiner Orden , die er zufolge einem Gelübde wünſchte, verweigerte , so blieb er Weltpriester, und predigte in verschiedenen Städten Frank. reichs. In Bourdeaux ward seine Freundschaft mit Montaigne gestiftet. In den lek. ten Jahren seines Lebens hielt er sich zu Ca. Hors als Großvicar des dortigen Bischofs und
+
+Domherr, und nachher zu Condom auf, wo er ein Canonicat und die Wurde eines Can.
+
+tors erhalten hatte. Bey seinem Aufenthalte in Paris im I. 1603 starb er eines Tages plözlich auf der Straße.
+
+S. Eloge de Pierre Charron (vor deßen
+
+Werte de la Sagesſe ed. Paris 1607) par G. M. D. R. (George Michael de Rochemaillet). Die erste Schrift des Charron war : Trois verités contre tous athées idololatres , Iuifs , Mahometans , Heretiques et Schismatiques; Paris 1594. 1595. 1611. 4. 1625. 8. Die drey Wahrheiten , welche C. hier zu beweisen suchte , waren: 1) Daß es einen Gott und eine wahre Religion ge be;
+
+r [p. 438] be ; 2) daß von allen Religionen die christe liche die wahre sen ; 3) daß unter den christ lichen Kirchen die römischkatholische die wahre Kirche sen. Die erste vertheidigte er gegen die Atheisten ; die zwente gegen die Mohammedaner und Juden ; und die dritte gegen die Käker und Sectirer in Ansehung des Christenthums. Charron erwarb sich durch diese Schrift bey den vornehmen Geistlichen seiner Kirche den größten Beyfall, und das Großvicariat zu Cahors insbesondre war eine Belohnung dafür. Die Gegens schriften, welche von mehr reformirten Theologen erschienen, veranlaßten ihn zu manchen Zusätzen , die in den spätern Ausgaben aufgenommen sind. Eine fast entgegengeseßteSensation erregte das zweyte WerkCharron's , de la Sagesse , das er erst nach der gemachten Bekantschaft mit Montaigne um das Jahr 1600 schrieb und 1601 zu Bourdeaux drucken ließ. In dies sem fand man Stoff , ihn des Unglaubens zu beschuldigen. Der Vollendung derzwey ten Ausgabe , über deren Besorgung C. selbst gestorben war , wurden daher große Schwierigkeiten in den Weg ges legt, die kaum durch die unverdrossene Des Harrlichkeit des Herausgebers überwunden werden konten, obgleich C. in der zweyten Ausgabe manches geändert , und austdßige Stellen gemildert hatte. Die spätern Aus gaben sind nach der zweyten (Paris 1604)
+
+abgedruckt , und die Abweichungen der ere sten sind in einem Anhange beygefügt. Der hefo
+
+[p. 439] Heftigste Widersacher des Charron war der Jesuit Garasse, der ihn für den gefährlich sien und boshaftesten Atheisten erklärte.
+
+S. Bayle Dict. Art. Charron.
+
+§. 950. Das Werk des Charron von den drey
+
+Wahrheiten kann uns hier nicht intereſſiren;
+
+wohl aber sein anderes von der Weisheit , so fern er in dieſem ſeine. eigenen spätern philosopht. ſchenUeberzeugungen dargestellt hat. DieWeis.
+
+Heit ist ihm nicht irgend eine Schulphilosophie oder ein philosophisches System, sondern es ist die Wissenschaft des vernünftigen praktischen Lebens, die Wissenschaft der Tugend. Er sehe zu derselben die Erkentniß seiner selbst als nothwendiges Bedürfniß voraus, und beginnt also mit einer Erörterung der Natur des Men schen, seiner Anlagen, Fähigkeiten, Neigungen, Leidenschaften , der Verschiedenheit der Temperamente bey dem einen und andern, der Lagen, Umstände u. w. Dann handelt er von der Tugend überhaupt, von der Klugheit , Gerechtigkeit, Tapferkeit und Mässigung. Die moralischen Grundsätze , die er hier aufstellt, sind rein und edel, und von dieser Seite ist
+
+Charrow's Werk zu den trefflichsten moralischen [p. 440] schen Schriften zu rechnen, das auch noch gegenwärtig lehrreich und heilsam seyn kann. Nur folgte er hierben mehr seinem gesunden moralischen Gefühle, ohne in die Natur der praktischen Vernunft tief einzudringen, und sich über die moralischen Principien hinreichend zu verständigen. Daher ward er durch die Collision unter den Pflichten , die er bemerk. te , verleitet zu behaupten , daß der Mensch die ganze Tugend nicht ausüben könne, daß er sich oft auch unmoralischer Mittel für ei nen guten Zweck bedienen müsse: Behauptungen, wodurch er wiederum die echte Moralitat selbst zerstörte. Was ihn noch in dieser unrichtigen Ansicht der Moral bestärkte, war eine zu überspannte Vorstellung von der Schwäche und Gebrechlichkeit der menschlichen Natur überhaupt, die er mit dem Montaigne und andern moralischen Skeptikern ge.
+
+mein hatte. Inzwischen gab er doch deshalb die Verbindlichkeit der Pflicht überhaupt nicht auf, und die Tugend , so weit sie nur erreichbar wäre, blieb in seinem Urtheile immer das preiswürdigste Gut des Menschen. Gerieth
+
+Charron schon in Ungewißheit in Ansehung deßen , was zur Tugend erfodert werde und durch was für Mittel sie zu erlangen sey, ungeachtet das Gewissen einen Menschen, der sich nur einigermaßen zur Reflexion erhoben hat, das Daseyn einer Pflicht und eines Rech-
+
+[p. 441] Rechtes nie ganz verkennen läßt; so wurde er vollends entschiedener Skeptiker in Ansehung der theoretischen Erkentniß. Charron ent. lehnte in seinen praktischen Maximen und skep. tischen Raisonnements sehr vieles vom Montaigne; die vertraute Bekantschaft mit diesem hat überhaupt auf seine Denk und Schreibart großen Einfluß gehabt ; aber , da Montaigne als Weltmann raiſonnirte, Charron hingegen mehr als gelehrter Theologe , so bezog der lek.
+
+tere seinen Skepticismus mehr auf die wissen. schaftliche Moral und positive Religion , als jener gethan hatte, und daher kommen bey ihm in dieser Hinsicht ungleich kuhnere und gewagtere Neusserungen vor. Charron hob , wie
+
+Montaigne, zuweilen in den bestimtesten Ausbrucken alle Wahrheit und Gewißheit der menschlichen Erkentniß auf; er spottete über die Schwäche des menschlichen Geistes , und das gänzliche Unvermögen desselben , Wahr heit vom Irrthume sicher zu unterscheiden; er sekte die Thiere, wie auch sein Freund gethan hatte, gewißermaßen den Menschen gleich in dem, was Erkentniß, Tugend und laster be-, treffe; und stimte auch darin mit den alten Pyrrhoniern überein , daß der Skepticismus allein zur philosophischen FreyheitundGemuthsruhe führe ; daher er sogar glaubte, daß die größten Philosophen , und selbst die dogmati-
+
+ſchen, immer Skeptiker gewesen seyn. Daß [p. 442] er bey diesen Voraussetzungen alle menschliche Wissenschaft höchst verächtlich beurtheilte, war eine natürliche Folge derselben. Inzwischen war er doch in der Anwendung seiner Skepsis den weitem nicht so consequent , wie die alten Pyrrhonier , und auch hierin war er dem Montaigne ähnlich. Er vergißt oft , daß er als Skeptiker raisonnirt , und fällt in den Ton des Dogmatikers , ohne es selbst zu wollen.
+
+Er wurde auch nach dem Muster der Pyrrhonier alle Moral und Lebenswissenschaft , die er doch in seinem Werke eigentlich lehren wollte , und dem Gesichtspuncte gemoß, woraus er Welt und Menschen betrachtete, wirklich lehrte, haben verwerfen müßen, wenn er den Pyrrhonismus auch im Einzelnen so durchgeführt hatte, wie er sich im Ganzen dazu bekante. Eine viel weitere Ausdehnung, als Montaigne, gab er doch aber dem Skepticismus in Beziehung auf die po.
+
+fitive Religion.
+
+In dem Werke von den drey Wahrheiten war er freylich ein entschiedener Apologet der christlichen und namentlich der römischkatholischen Religion, und er erwarb sich dadurch die Gunst der Geistlich. keit in hohem Grade. Allein in der spätern Schrift von der Weisheit erstreckt sich sein Zweifel über alle damalige positive Religionen ohne Ausnahme. Sein Urtheil darüber ist vielleicht das härteſte, das je gefällt worden ist, [p. 443] ist. Er legt ihnen allen in gewißen Haupt puncten einen gemeinschaftlichen Charakter und eine gemeinschaftliche Tendenz bey. In allen wird nur auf äussere Verehrung Gottes und Lohndienst gedrungen; Gott wird als ein Des pot betrachtet , der durch Gebete , Geschenke, Opfer, Feste verſöhnt und geneigt gemacht werden könne. Alle sind in demselben Klima entsprungen; alle berufen sich auf Wunder, aufdie Autorität von Propheten und die hohe re Inspiration derselben; alle enthalten Glaubensartikel, die als zum Heile nothwendig vor gestellt werden, und gleichwol über die gemeine
+
+Fassungskraft des menschlichen Geistes hinaus. geben; die Vernunft muß sich unter dem blinden Gehorsame des Glaubens beugen; und dies war auch nothwendig, wenn nicht sehr bald aus eignem Nachdenken eine allgemeine Empörung gegen die angebliche Religion entstehen ſollte.
+
+Es würde völlig unbegreiflich und ein Gegen stand der höchsten Verwunderung seyn, wie die große Verschiedenheit der Religionen von jeher unter den Menschenschen habe entstehen, und wie sich somannichfaltige Religionen ungeachtet der auffallendsten Ungereimtheiten hätten in ihrer Existenz behaupten können, wenn die Vernunft in freyer Wirksamkeit gewesen wäre , und nicht Wahn und Verblendung sie unterdrückt Hätten. Diese Verblendung wurde auch da durch immer unterhalten und auf's neue be stärkt,
+
+[p. 444] Pärkt, daß an die Stelle einer alten Religion, wenn sie, nachdem sie eine Zeitlang vorzugs. weise geberscht hatte, an ihrem Ansehen und Einfluße auf die Gemüther zu verlieren anfieng, eine neue trat, die sich zwar auf die alte grun dete, und diese nicht ganz aufhob , weil sie sonst bey den Anhängern derselben kein Vertrauen wurde haben gewinnen können; die aber die al te doch zu berichtigen und zu vollenden vorgab, Jede neue Religion erhob sich auf den Trum mern der alten; ihr Anfang war klein und schwach , bis der Fanatismus ihrer ersten Proselyten erwachte, und ihr eine allgemeinere Ausbreitung und Herschaft gab. So verhielt sich dieJudische Religion zu den Religionen der
+
+Aegyptier und anderer Heidnischer Völker; die christliche Religion wiederum zur jüdischen; und die mohammedanische zu beyden; und die besondre Geschichte jeder dieser Religionen und ihrer innern Veränderungen leitet auf dieselben Bemerkungen. Aber bey allem heiligen Nim. bus , der die positiven Religionen umgibt, sind sie doch nichts mehr , als ein Werk der Menschen, und werden durch die Denkart und den
+
+Charakter der Nationen, und die Umstände und Verhältniße, in welchen sich diese besinden, erzeugt und bestimt. Aus dem Grunde Hängt auch die Wahl der Religion , zu welcher sichJemand bekennenwill, nichtvon ihm selbst ab ; er wird in der Religion des Orts erzogen, [p. 445] in welchem er lebt, noch ehe er einmal zum Bewußtseyn deßen gelangt, was er als Mensch ist , und wozu er einer Religion bedarf. Weil also die Verbindung, in welcher der Mensch mit seiner positiven Religion steht, so zufällig, so unwillkührlich ist , so hat auch dieselbe auf seinen Charakter und sein Leben so geringen Einfluß; und der geringste Umstand kann ihn zum Ungehorsame gegen dieselbe bewegen. Wäre das Band , was die Menschen mit der Religion zusammenknupft, ein göttliches , und nicht ein menschliches, so write es schwerer aufzulösen und zu zerreißen seyn; die göttliche
+
+Wahrheit wurde sich wirksamer erweisen und fühlbarer machen. Ein solches Verhältniß zwischen derReligion, wie sie ist, und demwirk lichen Leben , zeigt sich in der Erfahrung durch.
+
+aus nicht. Charron führt z. B. die Lehre Der positiven Religion von der Unsterblichkeit, und von der Seligkeit der Frommen imHim mel und der ewigen Bestrafung der Bösen in der Hölle an. Hielte man diese Lehremit inniger Ueberzeugung für eine göttliche; was für einen Eindruck müßte jeder Gedanke daran auf uns machen ? Aber das men schlicheHan bein steht mit dieser Ueberzeugung im gerade sten Widerstreite. Man hat mehr Beyspiele, daß Verbrecher aus Furcht vor dem nahen Tode, den sie für gewiß hielten , noch vor der Hinrichtung starben , und die Begnadigung zu
+
+If spät [p. 446] spät erfolgte; und was ist der Tod für den Verbrecher in Vergleichung mit der ewigen Strafe in der Zukunft, wie sie die positive Religion dem Sünder droht ? Dennoch ha den die Menschen im gemeinen Leben vor dieser nur eine sehr geringe Furcht. Wäre im Gegentheile die Seligkeit für die Frommen einGegenstand gewißer Ueberzeugung; warum wurden sie sich vor dem Tode fürchten, da oh.
+
+ne denselben die Seligkeit nicht möglich ist? Es ist also nur ein eitles leeres Vorgeben, daß man an dergleichen positive Religionsleh. ren glaube, da der Glaube in der Wirklichkeit nicht statt findet. Von Charron's Skepsis an der positiven Religion war die christliche, oder vielmehr die römischkatholische in ihrem damaligen Zustande, im geringsten nicht ausgenommen , deren Wahrheit und Gültigkeit doch Montaigne nie zu bezweifeln gewagt hatte; und deßwegen hatte auch die Geistlichkeit nicht ganz Unrecht, wenn sie das Werkde la ſageſſe als ein dem Interesse der
+
+Religion gefährliches Werk betrachtete, sich der Verbreitung desselben widerseite , und * da diese nicht gehindert werden konte , den zu befurchtenden nachtheiligen Folgen desselben eifrig entgegenarbeitete. Bey dem allen war es der Zweck Charron's keinesweges , die Autorität aller und jeder Religion zu untergraben und wegzuvernunfteln. Er wollte sie nur ju [p. 447] zu der Lauterkeit und Würde erheben , in welcher allein die Vernunft sie als eine gültige Religion anerkennen mag, die für die Veredlung, Glückseligkeit und Ruhe der Menschen das leistete, was sie leisten soll.
+
+Die Vorstellungsart , welche Charron von der wahren Religion hat , verdient die größte Achtung , und ist , wenn man dabey den ganzen kirchlichen und religiösen Zustand seines Zeitalters vor Augen hat , bewunderungswirdig; denn 1.
+
+sie wurde auch der ausgeklärtesten Vernunft in einer Periode, wo die unbedingteste Frey-
+
+Heit im Urtheilen über Religion herschte, Ehre bringen. Charron behauptet , daß die wah.
+
+re Religion Sache des Geistes undHerzens P sey, und er sest sie dem äussern Dienste Gottes durch Caremonien entgegen. Sie muß den Menschen seine Abhängigkeit, Schwäche, und moralisches Elend kennen lehren , damit er sich gedrungen fühle zu dem Gedanken an Gott, und in diesem seine Beruhigung finde. Dieser Glauben an Gott als den Urheber und
+
+Regierer der Welt, als das erhabenste und heiligste Wesen , und die Anbetung Gottes im Geiste und in der Wahrheit, ist nach ihm das Wesen der Religion. Von der Tugend fodert er , daß sie für sich bestehe und auf ihren eigenen Gründen beruhe; der religiöse Glaube soll nur die Tugend stuken und stärken. Char ron sprach auch der äussern Berehrung Gottes [p. 448] nicht allen Werth ab; aber sie misse nurMit kel zur Erweckung und Belebung der innern seyn; der wahren Frömmigkeit dürfe es nie. mals an der Tugend fehlen.
+
+Da diese Grundsätze so sehr mit der gesunden über das Wesen der Moral und Religion reflectirenden Vernunft zusammenstimmen, so waren und sind sie auch die beste Apologie, die man der Widersachern und Tadlern Charron's wegen seiner Aeusserungen die geltenden positiven Religionen betreffend entgegen sehen kann.
+
+S. Staudlin's Geschichte und Geist des
+
+Skepticismus B. II S. 27 ff.
+
+§. 951. Die Freundschaft Montaigne's mit Esti enne de La Boctie war alter , als die mit
+
+Charron. LaBoetie wurde gebohren im J. 1530 , lebte als Parlamentsrath zu Bourdeaux , und starb daselbst in M's Armen im
+
+I. 1563. Er vermachte dem leßtern sei ne Bibliothek und seine Schriften, die auch von diesem nach seinem Tode herausgegeben wurden. Montaigne hat ihm in sei nen Verſuchen an mehrern Stellen ein rühm liches Andenken gestiftet , und sein Brief über das Benehmen La Boetie's auf dem Sterbe bette ist überaus rührend und lehrreich. So kühn, [p. 449] kuhn , wie Charron als Theologe raiſonnirte, eben so kuhn sprach La Boetie als Politiker in einer kleinen Schrift: Discours dela fervitude volontaire ou le Contr'un; sodaßMontaigne den anfangs gefaßten Entschluß , dieselbe dem Capitel de l'amitiéin seinen Versuchen beyzufugen, aus politischer Bedenklichkeit aufgab. Es ist zu verwundern , daß man bey dergegenwär.
+
+tigen Revolution in Frankreich nicht, mehr sich an diese Schrift erinnert hat , da sie so ganz 'dem Geiſte und der Tendenz der Revolution ent. spricht, soferne es daben auf den Umſturz der Monarchie angelegt war. La Boetie wirft darin die Frage auf: wie es möglich sey , daß so viele Menſchen und oft mehrere große Völker einem einzigen Tyrannen gehorchen konten, der keine andere Macht habe, als welche sie selbst ihm einräumten , und ihnen nicht weiter schaden könne, als so weit sie es ertragen und sich ihm nicht widersetzen wollten ? Er schildert die willkührliche Tyranney mit den grellsten Farben , und zeigt dagegen, wie leicht es dem Volke, und selbst mehr einzelnen Individuen wäre , das Joch dersel bene abzuſchütteln; sobald nur der Entschluß gefaßt , und die Idee des Einen (Un) durch die Vergleichung mit der Idee der unverhält nißmäßigen Mehrheit gegen ihn (contr'Un) richtig gewürdigt sen und ihr Abschreckendes verloren habe. Nachdem er so den Contrast f3 zwi.
+
+[p. 450] zwischen der persönlichen Ohnmacht Eines oder mehrer Tyrannen und der Macht des Volks dargestellt hat, sucht er die Grunde auf, warum gleichwohl die Tyranney so oft ihre Herr schaft behaupte. Er scheidet die Tyrannen in drey Classen , je nachdem sie durch die Wahl des Volks , oder durch das Gluck der Waffen , oder durch Erbschaft von ihren Vorfahren die
+
+Regierung erlangt haben. Das factischePrin cip der Tyranney mag indeßen seyn , welches es wolle, so sind die Wirkungen ohngefähr die selben. Was nun die Menschen unter der Regierung eines Tyrannen so gleichgültig gegen die Freyheit macht, ist erstlich die Gewohn heitderUnterwirfigkeit.Siewerdenschon als Sclaven gebohren, und lernen auch nicht ein mal einen Schatten von Freyheit kennen. Da her fällt es ihnen so wenig ein, sich der Tyranney zu entledigen , als solche Völker , die einmal an republicanische Freyheit gewohnt sind, eine monarchische Verfassung ertragen können, so lange sie im Stande sind , sich derselben zu erwehren. Da immer einige im Volke sind, die das natürliche Freyheitsgefühl nicht ganz in sich unterdrücken lassen, und deren Verstand Hellsehend genug ist, um die Ungerechtigkeit und zugleich die Schwäche der Tyranney wahrzunehmen, und ihre Mitbürger darauf aufmerksam zu machen; so ist es auch eine angelegentli che Sorge der Tyranney, die Freyheit zu re1 den [p. 451] den und zu schreiben den Unterthanen ganz zu nehmen, und so der Möglichkeit der EntsteHung und Verbreitung politischer Freyheitsideen vorzubeugen. Eine zweyte. Ursache der Dauer
+
+Der Tyrannei ist die Schlaffheit und weibi. sche Muthlosigkeit, welche sich nach und nach solcher Völker bemächtigt, die einmal unter dem Drucke des Despotismus erlegen sind. Eine dritte Ursache ist die aussere Form der tyrannischen Verfassung selbst. Es ist nicht bloß der Tyrann , welcher herscht; er hat fünf oder sechs Günstlinge, welche die Veranstalter und
+
+Gefährten seiner Wohlliste , die Theilnehmer anseinenRäubereyen, und die Werkzeuge seiner
+
+Grausamkeit sind; diese sechs haben wieder sechshundert Andere in ihrem Dienste, deren
+
+Interesse von der Erhaltung Jener abhängt; diese sechshundert hängen abermals mit sechs. tausend Andern zusammen, die durch sie Xemter und Einkunste haben , und so schließt sich eine lange Kette an den Tyrannen an , durch welche er die Unterthanen zu sich heraufziehen kann , wie Jupiter alle Götter ; und es wird wie sich der Tyrann der begreiflich ,
+
+Unterthanen selbst bedienen kann , um sie zu seinen Sclaven zu machen. Dazu kommen noch die Habsucht und der Egoismus der Individuen, welche das Bollwerk der Tyranney vollenden helfen. Indessen ist in der ty.
+
+rannischen Verfassung keiner unglücklicher , als [p. 452] der Tyrann selbst , und jeder, dessen ganze Eri
+
+ſtenz und Glückseligkeit von demselben abhängt. La Boetie schließt seine Schrift mit einem leb1
+
+Haften Gemahlde der traurigen Folgen, wel the jede ungerechte und grausame Tyranney für den Regenten und die Unterthanen hat. Das Werkchen verdiente es , sowohl wegen der
+
+Historischen Wahrheit der darinn enthaltenenpolitischen Ideen , als wegen der Energie, Klar-
+
+Heit und Anmuth der Darstellung, der Nach welt aufbewahrt zu werden. Der Discours de la Servitude volontaire von La Boetie findet sich in der Ausgabe der Effſais de Montaigne von Coffe (T. III) , der ihn. zuerst aufgenommen hat , und in allen spätern. Seine vertraute Freundschaft mit La Boetie schildert Montaigne in dem Capitel von der Freundschaft (Essais liv. 1 ch. 27); der Brief über die letzten Tage jenes steht in der Costeschen Ausgabe der Essais am Ende T. III , und auch hinter einer Sammlung von Ueberseßungen des La Boetie aus dem Griechischen, die M. Kurz nach dem Tode desselben unter dem Titel : La MenageriedeXenophon; les regles de mariage de Plutarque ; lettrede confolationde Plutarque à ſa femme; le tout tradnit de grec en françois par feu Mr. Eftienne de la Bowie; Paris 1571. herausgab . Jedem dieser übersekten Tractate ist ein Dedicationsschreiben von Mons saigne vorgesetzt , die ist zusammen den Essais [p. 453] fais angehängt sind. Warum M. von jes ner Sammlung den Discours de la Servitude volontaire ausschloß , davon giebt er selbst folgenden Grond an : qu'il lui trouvoit la façon trop delicate & miguarde pour l'abandonner au grossier & peſantair d'une fi mal plaiſante ſaiſon.
+
+1.
+
+§. 952.
+
+Ganz dem La Boetie entgegengesetzt in feiner Denkart und seinen politischen Grund sägen schien wenigstens Vielen ein berühmter Zeitgenosse desselben , Nicolaus Machiavello, einer der hellsten und geschmack vollesten politischen und historischen Schriftsteller, die je gelebt haben. Er war ein Floren tiger von Geburt; seine Lebensepoche fiel in die Zeit der Machinationen der Mediceischen Familie , um ihre Herrschaft über Florenz zu beHaupten und zu befestigen; und nach den politischen Verhältnissen, in denen er sich hierbei befand , ist der Geist und Zweck seiner histo. rischen und politischen Schriften zu beurthei Len. Sein ganzes Studium schon in frühern Jahren war nicht sowohl auf wissenschaftliche Gelehrsamkeit , nach Begriffen , wie man sie damals mit dieser verband , als auf Ausbildung zum politischen Geschafftsmanne gerichtet. Sein
+
+[p. 454] Sein Hang zur Satire und zur Persiflage zeigte sich in seinen jugendlichen Nachahmungen des Aristophanes und Plautus , die so glucklich waren, daß sie den Beyfall selbst des Pabstes Leo Xgewannen. Um eifrigsten aber beschafftigte er sich mit der Geschichte , und zwar um Resultate für die Politik daraus ziehen zu können; ein Gesichtspunct, wel. chen man damals noch wenig oder gar nicht beachtet hatte ;
+
+so daß eben deßwegen
+
+Machiavell's historische Arbeiten von Vielen eben so ungünſtig als unverständig beurtheilt sind. Seiner wahren Denkart nach warMa chiavell republicanisch gesinnt und ein Feind der monarchischen oder despotischen Verfas ung. Erwar also auch den Absichten der MediceischenFamilie entgegen. Inzwischen beobachtete er kein consequentes Benehmen, sondern richtete sich nach den Umständen, und schmieg te sich an die herschende Partey. Dies brachto nicht nur seinen politischen Charakter in einen sehr zwendeutigen Ruf, sondern zog ihm auch einmal die Anklage des Hochverraths zu, so daß er in's Gefängniß gesezt wurde und sogar die Folter ausstehen mußte.
+
+Da man ihn des angeschuldigten Verbrechens nicht überführen konte , so ward er wieder frey gelassen, und bekam einen Gehalt mit dem Auftrage die Geschichte seines Florentinischen Vaterlandes zu schreiben.
+
+Aber auch diese Stelle bebielt [p. 455] «hielt er nicht lange, wegen der Verfolgung der Mediceischen Familie. Da diese es auf die Unterjochung von Florenz anlegte, so war eine Verschwörung gegen dieselbe entstanden , die unter andern den Plan hatte , den Cardi nalJulius vonMedices , welcher nachher unter dem Namen Clemens VII römischer Pabst wurde, aus dem Wege zu räumen. Man Hatte auch den Machiavell in Verdacht, daß er an dieser Verschwörung Theil genommen habe; er sollte durch seine Lobreden auf den
+
+Brutus und Cassius die Gemüther der Flo rentinerhaben anfeuern wollen, auf eine ähnliche Art die Freyheit wieder zu erringen; und ob man gleich auch diese Beschuldigungen nicht förmlich erweisen konte, so verlor er doch deßhalb seine Stelle und seinen Gehalt, und gerieth dadurch in Armuth und Mangel. Nachdem er so noch einige Jahre zugebracht , die Florentiner indeßen mit Gewalt den Mediceern wieder unterworfen waren , nahm er Gift und starb um 1527. Machiavell hat viel geschrieben , und was er geschrieben hat, verdient gelesen zu werden.
+
+Das Werk aber, das ihn vorzüglich berühmt oder vielmehr berüchtigt gemacht hat, ist sein Principe. Dieses Buch ist sehr oft aus einem durchaus falschen Gesichtspuncte beurtheilt worden. Man glaubt gemeiniglich , es habe Machiavell die
+
+Tyranney darin als rechtmäßig darstellen,und den
+
+[p. 456] Den Regenten die Mittel zur unbeschränktesten Ausübung derselben, wie sie nur die Geschichte der Tyrannen und eine vertraute Kentniß
+
+✓der großen Welt darbietet , ohne alle Hinſicht auf Moralitat und Legalität an die Hand geben wollen.
+
+Wäre dieses wirklich sein
+
+Zweck gewesen, so verdiente er in der That die infamirende Verachtung , womit mehrere der angesehensten Schriftsteller von ihm ge. sprochen haben. Nun kann freylich jeder schlecht Denkende Fürst und Minister in dem Werke des Machiavell eine reichliche Belehrung finden, wie er es mit seiner Schlechtigkeit auf's
+
+Höchste treiben, und sich dennoch vor der Volks justiz sichern könne. In diesem Betrachte kann die Wirkung desselben sehr verderblich seyn, und eine zu große Leichtigkeit des Mis brauchs hat M. allerdings verschuldet. Allein sein Zweck dabey war gewiß nicht, durch seine Raisonnements und Rathschlage die Tyranney vonRegenten über die Völker zu recht. fertigen undzu befestigen; sondern es war, wie wohl versteckt, gerade der entgegengesezte. Durch die Schilderung der Tyranney mit ab len ihren Gräueln , mit der Abscheulichkeit der Maximen und Mittel, deren sie sich bediene, um sich zu behaupten, mit der gänzlichen InDifferenz gegen alles , was Recht , Verbindlichkeit, Pflicht und Religion heißt , sobald Der Tyrann sich dadurch irgend beschränkt fühlte;
+
+[p. 457] te; durch eine solche Schilderung glaubte er seine Mitbürger am stärksten gegen jeden Ver such zu empören, den eine übermächtige Familie, wie damals die Mediceische war , zu ihrer Unterdrückung machen möchte.
+
+Machiavell selbst war ein zu guter Historiker und Politiker, und wie seine Urtheile über die
+
+Begebenheiten der römischen Geschichte bewei. sen, ein zu enthusiastischer Verehrer republika.
+
+nischer Freyheit , als daß er in seinem Sur sten aus wahrer eigener Ueberzeugung einen
+
+Tyrannenspiegel zur Nachahinung härte auſſtellen wollen. Er wurde wahrscheinlich über manche ernsthafte Widerlegung desselben gelacht haben, wenn er sie erlebt hatte. Auch liegt in seinen bürgerlichen Verhältnißen und Schiksalen gar kein Grund , aus welchem man ihm jene Absicht zutrauen konte. Er war eigentlich im Dienste seiner Vaterstadt, so lange und sofern sie von den Mediceern unabhan-gig war, und gegen die Usurpation derselben kämpfte.
+
+Der Haß der Mediceischen Familie gegen ihn wäre doch dem Interesse derselben sehr zuwider gewesen , wenn sie an ihm einen ernstlichen Apologeten auch nur des Despotismus überhaupt gehabt hätte, wie es spä terhin Sobbes war.
+
+Im Gegentheile läßt sich dieser Haß sehr gut erklären, wenn man einerseits den Enthusiasmus erwägt, mit welchem Machiavell den Republikanersinn der Κόν mer erhob , und damit das Gemahlde vergleicht, das er von dem Tyrannen aufstellte. In dem leßtern fanden sich die Mediceer gar zu unrühmlich getroffen, als daß sie es für ei ne Schmeicheley des Verfassers hätten auf.
+
+nehmen sollen. Daß M. seine wahre Absicht auf eine solche Art verschleyerte , dazu konte ihn wohl die politische Lage bewegen, in wel. cher er sich besand ; und wahrscheinlich hatte er genau genug berechnet, daß ein directer An griff auf die Tyranney nicht die Wirkungen auf seineMitburger hervorbringen wurde, wie der indirecte , den er wirklich unternahm. Daß
+
+Machiavell mit Factionshäuptern und Usur. patoren der Zeit, z. B. mit dem Cäſar Borgia, in näherer Verbindung stand , und auch ihnen wohl schmeichelte, vielleicht zum Nach theile einer demokratischen Partey in Florenz, ist kein gültiger Einwurf gegen den oben angegebenen Zweck ſeines Principe. In solchen
+
+Zeiten politischer Gahrung, wie damals in Florenz und in dem größten Theile von Italien herschte, konte auch wohl der entschieden ſte Republicaner zuweilen es nicht bloß seinem J
+
+Privatverhältniße , sondern auch dem offentli chen Interesse angemessen finden, sich einem der Usurpatoren anzuschließen, entweder um mit Hilfe desselben einen andern zu verdrängen, oder um dem Uebermuthe einer Volks. partey, der auch dem öffentlichen Wohle nach. theitheilig [p. 459] wurde , zu begegnen; ohne daß sich hieraus ein politischer Hang zur despotischen Verfassung folgern ließe. Da man übrigens einmal den Zweck von Machiavells Principe durchaus misverstand , und also auch seine politischen Grundsätze schief beurtheilte ; so ist nicht zu verwundern , daß er Gegner fand , die ihren Tadel nicht bloß auf seine Politik einschränkten, sondern ihm Irreligiosität überHaupt und sogar Atheismus vorwarfen. Wie ungegrundet aber diese Vorwürfe sind, kann schon daraus erhellen , daß der römische Hof lange nichts Bedenkliches in M's Schriften antraf; daß man diese fast ein Jahrhundert hindurch las, ehe der Verdacht der Lehre des Atheismus auf sie geworfen wurde; und daß erst Clemens VIII durch das Geschren einiger Gelehrten bewogen wurde, sie zu verbieten. S. Bayle Dict. Art. Machiavell. Bruckeri hist. crit. philos. T. IV P. 2. p. 784 fq. Das
+
+Werk desMachiavell : Il Principe, kam zus erst Italienisch heraus zu Venedig 1515. 4. hernach mehrmale; lateinisch, mit Conring's Anmerkungen zu Helmstädt 1663 ; französisch zu Amsterdam 1684. 8.; englisch zu London 1640. 8. deutsch zu Frankfurt
+
+1580 und zu Hannover 1756.8. Ausser dies ſen bemerkten Uebersetzungen sind auch noch mehrere von andern Verfassern erschienen. Unter den ältern Gegenschriften ist die merk.
+
+wirdigste; Commentariorumde regno aut quo [p. 460] quovis principatu rite et tranquille adminiſtrando libri tres , de consilio , religio. ne et politia, quas princeps inditione ſua tueri debet , adverſus Nicolaum Macchiawellum; Lauſannae 1577. und dfter. Eine deutsche Ueberseßung derselben unter dem
+
+Zitel : Antimachiavellus, das ist : Regens renspiegel , kam heraus Straßburg 1624. 8 Für den Verfasser wird Vincent Gemillet gehalten. Die neuere Gegenschrift des ge Fronten Weltweisen , Friedrich des Großen, ist bekant : Anti - Machiavel , ou Examen du Prince de Machiavel , avec des notes hiſtoriques et critiques; à laHaye 1740. 8. deutsch mit Aamerkungen von Ludw.
+
+von Bek. Hamburg 1766. 8. Friedrich nimt an , daß Machiovell sein Bild des Fürſten vom Cäſar Borgia entlehnt und dasselbe wirklich zur Nahahmung aufge stellt habe ; daher er ihn auch in vollem
+
+Ernste bestreitet und widerlegt.
+
+Von den übrigen Schrifter des Machiavell vers Dienen hier besonders noch angeführt und empfohlen zu werden seine : Discorſi ſopra la prima deca di Tito Livio; in Venezia 1530. 8.; deutſch Danzig 1776. 3. B. 8. Sie sind auch in andere neuere Sprachen Übersetzt.
+
+5. 953. Unter den politischen Schriftstellern des fechszehntenJahrhunderts erwarb sich auch ei.
+
+nen großen Namen Johann Bodinus. Ee wur wurde gebohren im J. 1529 zu Angers, studirte zu Toulouse die Rechtswissenschaft, und beschafftigte sich ausserdem eifrig mit classischer Literatur, wovon sein Commentar zu den Cynegeticis des Oppian, eine seiner ersten schriftstellerischen Arbeiten , ein Beweis ist, und mit der Geschichte und Politik. Er hielt anfangs zu Toulouse Vorlesungen, ging aber
+
++ bald von dort nach Paris, und trieb juridische
+
+Praxis. Wiß und Mannichfaltigkeit gelehrter Kentniße verschafften ihm die Gunst des Ko nigs Heinrich III von Frankreich, die er aber doch bald durch Neider wieder verlor.
+
+Hierauf kam er in Verbindung mit Franz , Herzog von Alençon und Anjou, Bruder der Könige Franz II, Carl's IX und Heinrichs III, der ihn in mehrern publicistischen Geschaff ten brauchte , und auch mit sich nach England und Flandern nahm. Nach deßen Tode lebte er in Laon , und nahm auch hier an juridischen und publicistischen Angelegenheiten der Einwohner Theil, wobey er mehrmale in ver drußliche Handel verwickelt wurde. Er starb zu Laon an der Pest im J. 1596. Ob er von jüdiſchen Eltern gebohren worden , und deßwegen immer insgeheim dem jüdischen Glauben ergebengewesen sen; ob er in frühern Jahren ein Carmeliter gewesen , und hernach den
+
+Orden verlassen habe; beruht auf ungewißer Sage. Sein beruhmtestes Werk waren: de re
+
+கு g [p. 462] re publica libri VI ( Paris. 1584. fol.). Un. geachtet in diesem nichts weniger als systematische Ordnung nach bestimten Principien herscht, wenn man es mit den neuern Wera ken über Statsrecht und Politik vergleicht; es auch mit einer Menge nicht hierher gehöriger Dinge und einem Aufwande von classischer Gelehrsamkeit überladen ist ; so ist es doch noch immer als eine der ersten wissenschaftlichen Bearbeitungen des Statsrechts und der Politik in den neuern Zeiten , der Aufmerksamkeit werth. Damals als es zuerst erschien, ward es von Einigen eben so enthusiastisch und übertrieben bewundert , als es von Andern mit leidenschaftlicher Heftigkeit angefochten wurde. Bodin Hielt in seinen politischen Grundsätzen zwischen den Extremen der absoluten Monarchie und Demokratie eine gewiſſe Mittelstraße, auf welcher er es nothwendig mit den Anhängern und Vertheidigern jener Verfassungen verderben mußte.
+
+Er behauptete einerseits, daß die Regenten an die Geseke Gottes und der Natur noch mehr gebunden seyen , als ihre Unterthanen; daß die geschloßenen Verträge jene eben so stark verpflichteten, wie diese; daß jene keine Abgaben ohne Einwilligung des Volks auflegen konten. Hierben äusserte er zugleich , daß er der erste unter den Rechtsgelehrten seiner Zeit sey, der diese Meynung öffentlich vorzubringen was ge, und sich denen widersehe , die das Ge •gene [p. 463] gentheil lehrten und nur über die Mittel schrie den, wie die Macht der Könige zu erweitern sen.
+
+Durch diese Behauptungen machte er sich den Freunden der monarchischen Regierungsform verhaft. Andererseits aber erklär te er sich auch ganz entschieden und bestimt da-
+
+Hin , daß die Unterthanen niemals ein Recht Hätten, einen rechtmäßigen Monarchen , auch wenn er tyrannisch regiere , abzusehen ; weil wenn diese Maxime gültig werden sollte, der ganze Grund der bürgerlichen Gesellschaft erschuttert werden würde. Die Regenten haben nach Bodin ihre Würde von Gott; das Volk darf sie also nicht für Tyrannen bestrafen , sondern muß diese der göttlichen Gerechtigkeit anheimſtellen. Ungeachtet inzwischen Bodin dem Volke das Recht zur Empörung gegen den Regenten absprach , so gab er doch ausdrücklich zu, daß ein Tyrann rechtmäßigerweise von fremden Fürsten aus dem Wege ge räumt werden könne; so wie jeder ein Recht habe, demandern beyzustehen , wenndieser unrechtmäßigerweise an seiner Ehre und seinem Leben gekränkt werde. Zu jener Behauptung der Unrechtmäßigkeit der Empörung gegen Tyrannen bewogen ihn die Zeitumstände, und die traurigen Folgen , welche die damaligen politischen Gährungen in Frankreich für das Volk hatten . Er widersprach inzwischen selbst der
+
+B
+
+[p. 464] Behauptung durch die That , indem er zu der Ligue übergieng. Das Werk des Bodinus de republica erschien zu Paris 1576. 1584 fol und nachher in mehrern Ausgaben in kleinerem Formate.
+
+Ein interessante Schrift von ihm ist auch ſeine Methode de l'hiſtoire, eine seiner ersten Arbeiten , die im J. 1566 herauskam. Ausserhalb den Fächern der Geschichte, des Statsrechts und der Politik, fand sich im Bodin eine wunderliche Mischung von Aberglauben und Unglauben , die ihm auch so harte Urtheile zugezogen hat. In einem ungedruckten Werte: Colloquium heptaplomeres S. dialogus de abditis rerum fublimium arcanis , stellte er eine Vergleichung der positiven Religionen an , wobey Die christliche gegen den Naturalismus und selbst den Judaismus sehr verliert , daher er auch von Einigen für einen geheimen Juden gehalten wurde.
+
+S. Dickmann
+
+Schediasma de naturalismo , cum aliorum, tum maxime loannis Bodini; Kilon. 1683. (Lips. 1634. Lens 1700. 4). cf. Polycarp. Lyseri diff. de vita et ſcriptis Bodini Viteb. 1715. und im Appar. liter Coll. II. p. 327. Desto auffallender ist seine
+
+Dæmonomanie des forciers , die er 1579 herausgab ,, und die auch lateinisch und teutsch übersetzt ist , und worin er Magie und Hexeren mit den seltsamsten Gründen vertheidigt. Seine Feinde nahmen davon eie nen Grund her , ihn einer Verbindung mit bösen [p. 465] den bäsen Geistern zu beschuldigen. Kurz vor seinem Tode schrieb er das Theatre de la nature univerſelle, worin ebenfalls
+
+Naturalismus und Aberglauben gepaart sind. Diese leßtern Schriften Bodins sind indeßen über seinem Werke de republica fast vergessen worden. Vgl. Bruckeri hist.
+
+crit, philos. T. IV P. 2. p. 779. Bayla Art. Bodinss.
+
+§. 954. Um diese Zeit, da die vorzüglichstenKopfe sich zu einer skeptischen Denkart in der theoretischen Philosophie hinneigten; die praktische Philosophie, soferne man sie auf zufällige Erfahrungsmarimen gründete, in eine schwanken be sich im Innern selbst widerstreitende Klugheitslehre übergieng, die den eigensüchtigen Genuß des Lebens begünstigte , und den Men schen von seiner wahren Bestimmung und der ihr entsprechenden Pflicht ableitete, oder wenigstens ihn in Ansehung der Grunde derselben nicht befriedigte und beruhigte; da die positive Religionen in ihrerAutoritat erschuttert wurden, und Unglauben, schwärmerischer Mysticismus, und blinder Supernaturalismus mit einander zu streiten begannen; um diese Zeit bildete [p. 466] sich ein Mönchsorden , der hauptsächlich in den katholischen Ländern niche nur auf die Theologie und Hierarchie der katholischen Kirche, sondern auch auf den Zustand der Phi. losophie, und namentlich des praktischen Theiles derselben, den entscheidendsten Einfluß ge habt hat. Dieser Mönchsorden war der Or den derJesuiten, der im J. 1540 vomIgna. tius Loyola gestiftet wurde. DerZweck desselben war ursprunglich , das durch manche Um
+
+ſtände und Ereigniße gesunkene Ansehn der Kirche wiederherzustellen , und dasselbe durch
+
+Mittel, wie sie dem Geiste des Zeitalters und den äußern Verhältnißen der Kirche angemessener seyen, aufis neue zu ſrigen und für die Zukunft zu sichern. Es bedurfte,allerdings damals für das hierarchische Interesse eines solchen Instituts , weil die übrigen Mönchsorden, besonders der Orden der Dominicaner, in der Achtung des Publicums sehr verloren hatten , und für das so baufällige Gebäude der römischen Kirche nur sehr schwache Stu
+
+Hen zu werden anfiengen.
+
+Frenlich ahndete
+
+Der Stifter des Jesuiterordens die Macht nicht, welche dieser erhalten wurde ; man kann ihm und den ersten Gliedern desselben den Plan argliſtiger Herschsucht nicht zuschreiben, der in der Folge die Schritte des Ordens leitete; aber.
+
+schon die ganze Anlage desselben , so zufällig und ohne weit aussehende politische Tendenz sie
+
+[p. 467] 7im sechsz. Jahrhunderte.
+
+sie auch gemacht wurde , war doch von der Art, daß sie die Politik begründete und herbeyführte, wodurch der Orden bald so berühmt, mách Ag und furchtbar geworden ist. Ein Haupt mittel, deßen sich die Jesuiten bedienten, war, daß sie den Unterricht der Jugend und die Cültur der dahin gehörigen wissenschaftlichen Kentniße an sich zogen. Dadurch waren sie Im Stande, gerade die bedeutendsten Stände im Volke und selbst die regierende Classe von ihrer Leitung und Willkühr abhängig zu machen, dieselben, oft ohne daß diese es wußten oder anderen, an das Interesse des Drdens anzuknüpfen und für den Dienst desselben zu erziehen ; auch diejenigen Köpfe und
+
+Charaktere kennen zu lernen , die am fähigsten waren, Mitarbeiter für den eigenthümlichen Zweck des Ordens zu seyn.
+
+Jugend ward
+
+Der Unterricht anfangs bloß als ein verdienstliches Werk von den Jesuiten angesehen, bis nach und nach den Obern des Drdens das hierarchische Interesse klarer wurde, das sie selbst nach dem Plane ihres Instituts verfolgen konten , und sie die Vortheile wahrnahmen, die ihnen der verstattete Einfluß auf die Erziehung und wissenschaftliche Bildung der Nationen darbot. Soward der Dr. den der Jesuiten sehr bald in einen geheimen Orden umgewandelt , der zwar mit der Verfassung der römischen Kirche überhaupt zusammen. g4 [p. 468] menhieng, und sich dem obersten Zwecke dieser unterordnete ; aber doch seine eigene für sich bestehende innere Verfassung hatte , selbstständig für sein besonderes Interesse arbeitete, und dadurch die römische Kirche, wie die weltlichen Staten, welche sich zu dieser bekanten, auf gleiche Weise tyrannisirte. Die Ordensgene rale Lainez , Aquaviva , und Salmurius gaben der innern Organisation des Ordens für die politischen Absichten desselben, die Vollendung. Unter allen Wissenschaften , auf deren Beschaffenheit ihnen zur Bildung , Stimmung und Richtung sowohl ihrer eignen Mitglieder, als der Loyen am meisten ankam , war die wichtigste die Philosophie , hauptsächlich ihrem praktischen Theile nach. Diese mußte unter ihrer Hand ein Mittel werden , die Köpfe so auszu. bilden , und die Charaktere so zu formen , daß sie den jedesmaligen Absichten entsprachen , welche die Häupter des Ordens durch sie erreichen wollten. Das Studium der theoretischen Philosophie mußte ihnen nicht sowohl als Mittel der vernünftigen Aufklärung über Haupt, wie vielmehr der Uebung des Scharfsinns, des Wises , der sophistischen Kunst dienen; und zu diesem Behuse war ihnen nichts willkomner , als die scholastische Dialektik und Metaphysik , die sie deswegen auch in ihrem Unsehn zu erhalten, und nur so umzuformen suchten , wie es der Geist des Zeital. ters [p. 469] ters und der Zweck des Ordens mic sich brach ten. Die theoretische Philosophie erfuhr inzwischen verhältnismäßig noch geringere Ver anderungen von ihren, als die praktische, weil jene, so wie sie dieselbe zu ihrer Zeit noch auf den Universitäten und Schulen großentheils herschend sanden, sich mit ihrem politisch hierarchischen Systeme vertrug , und da sie am Ende auf ein Gewebe metaphysischer, Raison nements für und wider hinauslief, sich sehe leicht mit dem härtesten Supernaturalismus und dem blindesten Glauben an die Aussprů. che der Concilien und Kirchenväter vereinbaren ließ. Hingegen die praktische Philosophie bedurfte einer gänzlichen Umwandlung, wenn sie ein taugliches Werkzeug für die geheimen
+
+Zwecke des Ordens werden sollte. Sie muß. te einerseits einen Charakter empfangen, durch welchen sie leichter beym großenPublicum Ein gang finden, und die Lehrer derselben, die Jesuiten, empfehlen konte; andererseits den Absichten des Ordens nie widersprach , sondern, sich in jedem Falle denselben anschmiegen ließ, und dadurch sowohl die Mitglieder selbst für jede Handlung, die ihnen das Interesse des Ordens zur Pflicht machte , rechtfertigte , als auch Layen , auf welchen der Orden wirken woll. te, in ihrem eigenen Urtheile und in dem Ur theile des Publicums wegen der Moralitat der
+
+Handlungen beruhigte , zu welchen die Jesui.
+
+[p. 470] ten sie verleiteten. Um nun aber der Moral insbesondre jenen Charakter zu ertheilen , stell ten sie zuvorderst die Moral der altern Sehrer, nomentlich der übrigen Mönchsorben, als zu strenge und finster dar , und ließen dagegen die ibrige sich mehr nach den sinnlichen Rei gungen und dem Egoismus der Menschen bequemen, wodurch ihr Orden selbst mehr Theil.
+
+nehmer bekam , und auch ihr religiöser und praktischer Unterricht bey dem großen Haufen beliebter wurde. Dann wandten sie hauptfach lich ihren Fleiß auf die Casuistik , und benuga ten die Ungewißheit der Entscheidung in einzelren Fällen, mit Hulse sophistischer Erschlei. chungen , um die unmoralischsten Maximen , sobald es die Umstände erfoderten , geltend zu machen. Für die Casuistik als Beyspiel, wie scheinbar sophistische
+
+Heuchler die
+
+Moral verdrehen können , ist die Geschichte der Jesuitischen Moralphilosophie höchst lehr. reich. Da die Zahl der sogenannten Gewis sensfälle unerschöpflich ist , so gebleh unter ih. rer Bearbeitung die Moral zu einer enormen
+
+Weitläufigkeit; mehrere Jesuiten füllten mit ihren casuistischen Moralsystemen ganze Folionten aus; und auch dadurch entrückten ober erschwerten sie unvermerkt den Layen die Möglichkeit , sich zu allgemeinern und wahrenPrincipien der Moralität zu erheben, well sie die.
+
+selben gleich in das Labyrinth ihrer Caſuiſtik vertm sechsz. Jahrhunderte. 471 .
+
+verstrickten, wo weder Ausgang nochLingang war, und dadurch das Benehmen derselben bey wichtigern Schritten im Leben ganz von:
+
+ihrer Entscheidung abhängig machten brauchten sie nun noch ihre Dialektik , um ih. rer wissenschaftlichen Casuistik das Ansehn der Grundlichkeit zu geben, und die Mitglieder des Ordens in den Stand zu sehen , Maximen zu vertheidigen , gegen die etwa der noch un verderbte moralische Sinn ihrer Ziglinge oder der Layen protestiren möchte. Zu den merkwürdigsten und verderblichsten Eigenheiten der Jesuitischen Moral gehören die Grundsäker daß der Zweck das Mittel heilige ; daß zwischen der innern Gesinnung und der äussern
+
+Handlung kein nothwendiger moralischer Zusammenhang statt finde, und man also unter ge wißen Umständen eine böse That wirklich thun burse, sobald man nur im Herzen das Gegen theil denke oder wolle (refervatio) mentalis ) ; daß eine wahrscheinliche, Meynung , man mus se so oder so handeln, die Handlung rechtfertige; daß die Wahrscheinlichkeit einer Meynung von der richtigen Maxime auch dadurch begründet werde, daß ein älterer angesehener Moralist , besonders unter den Jesuiten selbst, sie behaupte; daß je länger man eine solche wahrscheinliche Mennung hege , desto gültiger sie werde; daß man selbst eine minder wahrscheinliche Meynung einer mehr wahr ſchein.
+
+[p. 472] scheinlichen mit gutem Gewissen vorziehen kön ne, sofern die Meynung einmal überhaupt wahrscheinlich sey . Mit solchen Grundsätzen war es möglich , sogar die höchsten Abscheulichkeiten des Frevels als moralisch erlaube darzustellen , Zöglinge des Ordens und Layen zu Verbrechen zu verführen, und sie zu über reden, daß sie daran gar nichts Unrechtmä Eines und Böses_begiengen. Inzwischen ist doch hierben auch nicht zu vergessen , daß in dem damaligen Zustande der wissenschaftlichen Moral überhaupt mit ein Grund zu der Rich.
+
+tung lag, welche jene von den Jesuiten empfieng , und daß nicht alles einer verschmisten Bosheit dieser allein zuzuschreiben sey. Schon soferne man die Quelle der philosophischen Moral in der Erfahrung und Geschichte suchte, konte nichts anders als eine bloße Klugheitsleh. re herauskommen; denn wie konnte irgend eine
+
+Erfahrung als solche von denFolgen derHand. lungen eine Pflicht begründen ? War aber einmal die Moral zu einer bloßen Klugheitslehre herabgewürdigt, so war es ein ganz naturli cher Uebergang , daß sie eine Theorie der Arg.
+
+list wurde , und hierzu, lagen in dem menschlie chen Egoismus und der Dialektik der Vernunft überhaupt mancherley Veranlassungen, die nur bey den Jesuiten um so kräftiger wirkten, je mehr sie mit dem Interesse ihres Dr.
+
+bens harmonirten.
+
+Eigentlich hatten die Je fuiten [p. 473] suiten alle wahre Moral zerstört , unb an die Stelle derselben ein System des schnodesten Eigennuses gesetzt , das jede Maxime zuließ und rechtfertigte , welche der Zweck und die Umstände des Subjects mit sich brachten, das aber doch in einen Schlener der Vernünftigkeit , wissenschaftlicher Gründlichkeit, und selbst der Religiosität gehüllt war, wodurch es um so täuschender wurde, und um so schwerer in seiner schändlichen Blisse hervorgezogen werden konte. Da das Studium der wissenschaftlichen Moral der Jesuiten , auch ihrer Weitläufigkeit und Subtilitat wegen, meistens auf die Ziglinge des Ordens eingeschränkt blieb, und diese entweder selbst darin verſtrickt waren, oder ihre Zweifel nicht zu äussern und durchzusehen wagen wollten oder durften, so blieb das Gist des praktischen Jesuitismus, soferne es wissenschaftlich war, lange innerhalb des Ordens verborgen, bis das aussere Benehmen der Jesuiten und ihre Streitigkei. ten mit andern Orden und Religionsparteyen darauf Aufmerksamkeit erregten. Am meisten wurde in der Folge das Arge , das in der wissenschaftlichen Moral der Jesuiten liege, durch die Jansenisten ausgedeckt , und durch die kühnen vortrefflichen Gegenschriften des Nicole , Pascal, u. a. wurde ihr der größte Theil ihres Giftes benommen. As
+
+[p. 474] Als theoretische Philosophen haben sich mehrere gelehrte Jesuiten hauptsächlich durch Lehrbücher der aristotelisch scholastischen
+
+Philosophie , und durch Kommentare über die Schriften des Aristoteles selbst , berühmt 'und in ihrer Art verdient gemacht. Vom
+
+Franciscus Suarez , der die vollständigste systematische und zugleich kritische Uebersicht der gesamten Scholastik lieferte , ist schon oben die Rede gewesen. Als Commentatoren des Aristoteles zeichneten sich voe zuglich Franciscus Toletus und die Jesuiten von Coimbra aus , deren Erläuterungen auch für uns noch sehr brauchbar sind . Die Moral der Jesuiten und ihren Werth lernt man am besten kennen aus : La Morale des leſuites extraite fidelement de leurs livres , imprimez avec la permission et l'approbation des ſuperieurs de leur compagnie. Par vn Docteur de la
+
+Sorbome (Perrault) ; àMons. 1669.
+
+Lettres provinciales ecrites par Louis de Montalte (Pascal) à vn provincial de ſes amis; avec des notes de Guillaume Wendrock (Nicole) A Leide 1761.4 T. 12. (Deutsch : Lemgo 1774.8. ) S. bez sonders in diesem Werke des Nicole dissertation theologique ſur la probabilité. T. 1.
+
+§. 955. Mehr vollendeter Skeptiker als Montaigne, Charron , und mehrere ihrer philosophiren.
+
+[p. 475] wenden. Zeitgenossen , war Franciscus San chez , gebohren zu Bracara in Portugall im J. 1562 , der Sage nach von jüdiſchen El. tern. Noch als Knabe kam er nach Bourdeaux , wo er den ersten literarischen Unter.
+
+richt empfing; hernach studirte er auf meh.
+
+rern Universitäten Italiens, am längſten zu Rom, Mathematik , Philosophie und Medi cin. Die lebte Wissenschaft war sein Be rufsfach, so wie auch sein Vater Arzt gewesen war. Den seiner Ruckkunft nach Frank reich erhielt er zu Montpellier die Doctorwurde, und wurde hernach zu Toulouse als öffentlicher Lehrer der Philosophie und Medicin angestellt , welches Lehramt er fünf und zwanzig Jahre hindurch mit großem Beyfalle verwaltete. Ob er gleich angewiesen war, die Aristotelische Philosophie zu lehren, und diese auch wirklich vortrug, so war er dennoch seiner wahren Denkart nach ihr entschiedenster Gegner , und sein Skepticismus ist vorzüglich gegen sie, als den damals fast ausschließlich , wenigstens in Frankreich und Spanien, her sehenden Dogmatismus gerichtet. Inzwischen wagte er es doch nicht ihn hierauf ganz be. ſtimt als lehrer oder Schriftsteller einzuschran ken. Das harte Schiksal, welches De. trus Ramus wegen seiner Angriffe auf die
+
+Aristotelische Philosophie erfahren hatte, und welches die enthusiastischen Anhänger derselben nod [p. 476] noch übermuthiger machte, mußte schon jeden andern Lehrer der Philosophie in Frankreich von einem ähnlichen Versuche abschrecken. Ueberdem aber hatte die Aristotelische Philosophie die förmliche Protection der Groſſen in Frankreich gewonnen , und es war sogar durch königliche Edicte verboten worden, die
+
+Lehre des Aristoteles offentlich anzusech ten. Er gab also seinem Elepticismus einen weitern Spielraum , bezog ihn nicht lediglich und beslimt auf den Aristotelischen, sondern auf allen Dogmatismus ohne Unterschied , und nahm selbst dem Sak, daß der Mensch nichts wisse , nur skeptisch an. Die Schrift des Sanchez: de muitum nobili ſcientia, quod nihil feitar, gehört zu den intereſſanteſten skep. tisch philosophischen Werken , die wir überhaupt besitzen. Sie ist sehr unterhaltend , mit Wik und Laune, in einer nachdrucklichen , sententic sen, aber doch leicht verständlichen und reinen lateinischen Schreibart , abgefaßt, und zeigt ihren Verfasser als einen der hellesten und scharfsinnigsten Kopfe.
+
+Er erzählt selbst den
+
+Gang seiner Denkart, und wie ihn sein uner müdetes Forschen und Streben nach Wahr Heit zuletzt zur Verzweifelung an aller wahren und gründlichen Wissenschaft geführt habe. Als Schriftsteller beginnt er seine Untersuchung mit der skeptischen Frage: Quid? und endigt sie mit derselben. Seine Unzufriedenheit mit dem [p. 477] dem Ariſtoteles äuſſert er zwar; jedoch so, daß man ihm die Furchtsamkeit anmerkt, mit welcher er es thut ; er beklagt sich , daß man jeden Gegner des Aristoteles gleich einen So. phisten und Lästerer nenne; und da mit solchen Subjecten, die so blind dem Aristoteles ergeben wären, nichts anzufangen sey, so wunscht er, daß sie seine Schriften gar nicht lesen möchten. Neue skeptische Argumente, die nicht auch schon im Pyrrhonismus vorkamen, trifft man bey ihm nicht an; wohl aber ist ihm eine besondre Art des Gebrauchs derselben gegen die damalige dogmatische Philosophie eigen. Um eifrigsten sucht er darzuthun , und komt fast immer darauf zurück, daß alles menschliche Wissen nicht die Objecte an sich selbst betreffe; daß es lediglich in Einbildungen und Wortbegriffen bestehe. So allgemein aber auch der Skepticismus desSanchez war , so scheint es doch nicht seine wahre Absicht gewe.
+
+sen zu seyn , den Skepticismus selbst als die einzig mögliche und gültige Philosophie aufzustellen oder zu empfehlen. Vielmehr scheint er nur den Boden der philosophischen Erkentniß haben säubern und allen den dogmatischen Wust , mit dem sich eitle vermeynte Vielwisser , die aber im Grunde nichts wußten, aufblähten , wegräumen zu wollen, um dadurch einem Gebäude der Wahrheit , nicht des Wahnes und der Traumereyen , Plak zu verschaffen.
+
+[p. 478] Er aussert selbst , daß er nur seine Meynung von der bisher geltenden philosophischen Wissenschaft klar und deutlich habe vorbringen wollen; auf eine Demonstration des Skepticismus thue er Verzicht , um nicht in denselben Fehler zu verfallen , welchen er an Andern tadle. Er habe den Plan, eine feste und einfache Wissenschaft, so weit sie möglich sey , zu begründen, die nicht aus Hirngespinsten und Erdichtungen bestehn , und nicht bloß dienen solle , Scharfsinn in Spisfindigkeiten zu zeigen. In einer andern Schrift , ( die aber nicht erschienen ist ) , wolle er untersuchen, ob und wie der Mensch etwas wissen könne, und
+
+Hierdie Methode der Wissenschaft , so weit es Die Eingeschränktheit des menschlichen Erkentnißvermögens erlaube, darlegen. Hr. Dr. Stäudlin (Geschichte und Geist des Skepticismus B. II S. 54) glaubt , daß
+
+Sanchez den seinem Leben nicht gewagt habe , sein Werk de multum nobili ſcientia, quod nihil ſcitur , herauszugeben, aus Furcht vor den Aristotelikern und ihrem mächtigen Anhange. Er scheint also die Ausgabe jenes Werks , die zu Rotterdam 1649 mit einigen andern Schriften des Sanchez unter dem Titel : Tractatus philoſophici etc. (S. oben S. 269) erſchienen ist , für die erste gehalten zu haben. Allein es existirt schon eine Ausgabe des ere stern zu Lyon 1581. 4. S. Stolle's Historie [p. 479] rie der Gelahrtheit Th. II Kap. 1. S. 389. und ein Abdruck derselben (Frankfurt 1618), die also noch bey Lebzeiten des Sanchez herausgekommen sind. Unstreitig aber hat seine Furcht vor den Ariftotelikern bengetragen , daß er seinen Angriff weniger direct auf das Aristotelische System richte te; wiewohl er sich doch lebhaft und bitter genug über die blinde Anhänglichkeit an dem letztern erklärt ; was auch die vom Hrn. Fraudlin selbst aus der Vorrede von Sane chez angezogene Stelle beweist. Credunt, sagt er hier, facileque ad Ariftotelem convolant, volvunt , evolvunt , memoriæ mandant , isque door est , qui plura ex Ariftotele novit recitare. Quibus fi vel minimum neges , muti fiunt , te tamen blasphemum clamant; fi contra arguas, fophiftam. Quid his facias ? Miſerum.
+
+Decipiantur, quidecipi volunt. Non his ſcribo: nec proinde ſcripta legant mes,
+
+Die gegen den Skepticismus des Sanchez erschienenen Gegenschriften , von Matthias Simonius de literis pereuntibus , die dem Werke des Sanchez in der Rotterdamer Aus gabe angehängt ist ; so wie die Widerlegung des Daniel Hartnack, die ebenfalls der
+
+Ausgabe jenes zu Stettin 1665 , 12 bens gefügt ist unter dem Titel: Sanchez aliquid ſciens, additæ sunt textui notæ refutatoriæ et præmiſſa eſt hiſtoria breviuscula ſcepticismi veteris et recentioris ; endlich die Abhandlung von Job. Ulrich wild (Diff. quod aliquid ſciatur ; Lips. 1664.) sind unbedeutend. Die Verfasser Qha
+
+De [p. 480] derselben waren dem Sanchez an philosophischem Geiste und gelehrten Kentnißen sehr ungleich. - Daß Sanchez nicht die Absicht hatte , durch seinen Skepticismus bloß das Gebäude der menschlichen Erkente niß niederzureißen sondern , daß er auch wieder aufbauen wollte , scheint allerdings aus folgender Stelle deutlich zu erhellen (Tractat. philos. Roterod. 1649 p. 181); Ergo viditi difficultates , quæ ſcientiam nobis adimunt. Scio , plura forſan non placebunt ex his , quæ hic dixi; fed nec , dices , demonftravi , nihil ſciri, Saltem quantum potui clare, fideliter et vere, quid fentirem, expofui. Nec enim,quod inaliis ego damno , ipſe committere volui, vt rationibus longe petitis obfcurioribus et magis forſan quæfito dubiis intentum probarem. Mihi namque in animo eſt, firmam et facilem , quantum poſſim, ſcientiam fundare; non vero chimæris et fictionibus a rei veritate alienis , quæque ad oftendendam solum fcribentis ingenii fubtilitatem, non ad docendas res comparatæ sunt, plenam. - Interim nos ad res examinandas accingentes , an allquid ſciatur et quomodo, libello alio proponemus , quo methodum ſciendi , quantum fragilitas humana patitur, expone. mus.
+
+Das Leben des Sanchez findet sich vor der Rotterdamer Ausgabe seiner Werke. Vergl. Bayle Dict. crit. art. Sanchez Bruckeri hist, crit, philos. T. IV. P. 1. p. 541.
+
+§. 956.
+
+[p. 481] §. 956.
+
+So wie Sanchez, stellte auch , fast ein halbes Jahrhundert ſpäter , dem philosophisch dogmatischen Dunkel seiner Zeitgenossen den Skepticismus an der Erkentniß aus bloßer Vernunft und Erfahrung entgegen Sierony. mus Hirnhaym, Doctor der Theologie und Generalvicarius des Pramonstratenserordens in Böhmen, Mähren, Schlesien und Dest reich; wiewohl er es zu einem ganz andern Broecke, als wie Sanchez, that , und bey seinem
+
+Skepticismus ganz andere Ralfonnements ge brauchte. Er wollte das philosophische Wissen als nichtig darthun, um dadurch den Glauben an die Offenbarung und die Religiosität noch mehr zu befestigen.
+
+Er wollte auch gar nicht mit den übrigen philosophischen Zweiflern in dieselbe Classe gesetzt seyn , und verwahrte sich besonders dagegen, daß man ihn mit dem Agrippa vergleiche, dener als Magier und Freygeist mit Schmähungen überhaust , ob er gleich in Hinsicht auf philosophische Erkent. nlß seine Zweifelsucht noch viel weiter als dieser getrieben hat. In seinem Werke: De typho generis humani, declamirt er zuerst gegen das unmäßige Bestreben der Menschen nach Wissenschaft; er zeigt, wie die zu große Anstrengung bey den Studien den Körper schwa, che, mancherley Beschwerden, Krankheiten me [p. 482] melancholischeGemuthsstimmung, hervorbringe, die Fruchtbarkeit der Ehen hindere , Neid er wecke u. s. w. Wenn die Frage ist , sagt er, nach strengerWissenschaft, für welche die Philosophen metaphysische Gewißheit und Evidenz verlangen, und mit welcher auch die göttliche Lehre schlechthin übereinstimmen musse, so ist dieselbe mit den Akademikern zu leugnen. Sein Grund ist die Ungewißheit der sinnlichen E fahrung, von welcher doch der Verstand gang. abhängig sey , da der Verstand alle seine Erkentniß ohne Ausnahme den Sinnen verdanke. Diejenigen, welche die Existenz einer zuver. lässigen Wissenschaft behaupten, vergleicht er mit den Träumern, die , während sie schlafen, die wirkliche Existenz der Gegenstände ihres Traumes glauben , und doch nachdem sie er.
+
+wacht sind , die Tauschung einsehen.
+
+Er ge.
+
+steht, daß er sogar die gewißesten Axiome der Philosophie nicht für untriglich halte, und ih. nen wenigstens nicht die Gewißheit zutraue, welche die Philosophen denselben beylegten. Er bewies dies aus der Offenbarung. Das Axiom : Aus Nichts wird Nichts, wird durch die Scho.
+
+pfung aus Nichts; ein anderes: Kein Acci. dens kann ohne Subject seyn , durch das GeHeimniß des Abendmahls ; folgendes : Drey können weder mit einem Dritten , noch mit einander selbst identisch seyn , durch das Geheimniß der Dreyeinigkeit, alles nach der Lehre der Offen
+
+[p. 483] Offenbarung widerlegt. Ja Hiruhaym geht so weit , daß er die Sätze :
+
+Etwas kans nicht zugleich seyn und nicht seyn - Et was ist entweder , oder ist nicht - Jedes Ganze ist großer als ein Theil desselben zwar nicht für erweislich falsch hält , aber ihnen doch nicht so unbedingt trauen will , daß sie auch für die Gottheit gültig wären, weil alsdenn nach seiner Meynung die unendliche göttliche Macht durch den menschlichen Verstand beschränktwerden wurde. Hirnhaym behauptete also die Ungewißheit und Trieglichkeit der Vernunfterkentniß im strengſten Sinne. Alle Wahrheit der Erkentniß beruht auf der göttlichen Offenbarung; diese wird nicht durch Wahrnehmung der Sinne, die nur gelegenheitliche Werkzeuge zur Erkent. niß derselben sind , sondern durch die übernatürliche Gnade und ein inneres göttliches licht erkannt. Selbst die Apostel, die Christum mit ihren Augen gesehen, mit ihm gespeist , ihn reden gehört haben, waren davon nicht gewiß durch das physische Zeugniß ihrer Sinne, das absolut trüglich ist , sondern durch die Gewißheit ihres Glaubens. Jenes licht, welches Das Kriterium der Wahrheit ist , ist dem menschlichen Geiste eigen , und ihm angebohren oder anerschaffen; es ist von der Vernunft verschieden; es erleuchtet den Menschen mehr oder weniger, je nachdem er sich mehrmenioder
+
+1, [p. 484] weniger zum Anschauen desselben hinwendet, und das Auge des Geistes mehr oder wentger rein darauf heftet.
+
+Aber auch auf das innere licht als Kriterium des Wahren kann nach dem Hirnhaym der Mensch nicht immer mit Sicherheit bauen, weil er nicht mit Evidenz wissen kann, ob er sich in seinen Urthei. len nach seiner Vernunft oder nach dem Lichte richtet; so daß also auch aus diesem Grunde der Mensch gar keine Ursache hat , sich seiner Wissenschaft zu rühmen. Den gemeinsten Einwurfgegen den Skepticismus , man wisse wenigstens, daß man nichts wisse , widerlegt er auch nach Art der alten Pyrrhonier: es sen nur das Wahrscheinlichste , daß man nichts wisse , und könne bloß behauptet werden unter der Voraussetzung , daß es auch falsch seyn könne, soferne das Urtheil sich lediglich auf die menschliche Vernunft srüße. Um aber gegen die Kirche nicht durch seinen Skepticism zu S verstoßen , erklärte Hirnhaym , daß er alles nicht nur für wahr und gewiß halte, was die Kirche lehre, sondern auch für noch weit ge wißer, als dasjenige, was aus Prämiſſen ir. gend einer Art von den Dialektikern hergelei. tet werde. Man erkennt hier den mystischen Schwärmer, der den blindesten Supernaturalism durch den Skepticism vertheidigen wollte, durch diesen selbst wieder an jenem irre wurde, und so in einem Geisteszustand phi.
+
+philosophischer Verworrenheit gerieth, bey wel. chem er selbst nicht wußte, was er wollte.
+
+Ungeachtet dieser Verworrenheit seiner Vorstel. lungsart declamirte er nichts desto weniger ge.
+
+gen alle profane Gelehrsamkeit, und machte den Wissenschaften Vorwürfe , welche nur die Persönlichkeit Mancher treffen konten, welche
+
+Wissenschaften treiben. Die Gelehrten pflegten ihre Fehler und Sünden zu entschuldigen, obgleich diese an ihnen noch tadelhafter seyen , als an Andern; sie wurden durch ihre profanen Studien träge und kalte lehrer des Evangeliums , und während sie sich mit einer unnüşen und unfruchtbaren Vielwisseren etwas dunkten, blieben sie über ihr eigenes wahres Elend unwissend. Er schildert ferner mit den grellsten Farben den eitlen Hang der Gelehrten zur Schriftstelleren; ihre Ungelehrigkeit und Hartnäckigkeit in Vertheidigung ihrer Meynungen, sollten diese auch offenbare Irrthümer seyn; ihregegenseitigenZanckereyen und Spottereyen; ihre thörichte Neugierde , tief verborgne Dinge zu erforschen , wodurch die dem Menschen so heilsame Demuth ganz von ihnen vers bannt, der wahre religiöse Glaube unterdrückt, und so das ewige Unglück Vieler bewirkt werde. Um inzwischen den Vorwurf von sich abzulehnen, als wolle er der, Dummheit und
+
+Barbaren eine Lobrede halten , charakterisirte er in Vergleichung mit der von ihm geachteten pro [p. 486] profanen Wissenschaft die geistliche Gelehrsamkeit sowohl im Ganzen als Theilweise, die durch das fleißige und ununterbrochne Studium der
+
+Heiligen Schrift und der Werke der Asceten und Mystiker erworben werde,und wobey man alle übrigen Schriften der Heydnischen und weltlichen Gelehrten entbehren könne. Der vollständige Titel des Werkes von Sirns haym ist: De typho generis humani , five ſcientiarum humanarum inani ac ventoſo tumore , difficultate , labilitate , falfitate , jactantia, præfumtione , incom- modis et periculis tractatus brevis , in quo etiam vera ſapientia a falſa discernitur, et fimplicitas mundo contemta extollitur, Idiotis in folatium , doctis in cautelam confcriptus; Prage 1676.4. Bey allem schwärmerischen Mysticismus des Hirnbaym kann man doch seine vorzagliche literarische Bildung nicht verkennen; sein Styl ist ges dankenreich , lebhaft und fließend ; manches was er über den etteln gelehrten Dünkel gesagt hat , ist sehr wahr und treffend ; nur daß er unrichtige und übertriebene Folgerungen gegen den Werth der Wissenschaften überhaupt daraus zog , und den Skepticism zur Empfehlung einer mystischen Ascetik benutzte , die doch selbst nach seiner Art zu philosophiren kein sicheres Funda. ment hatte , da er ein subjectives Kriterium vermißte , woran sich unterscheiden ließe , ob unsre Urtheile aus dem innern göttlichen Lich-
+
+[p. 487] Lichte, oder aus der Vernunft entspringen. Das sleptische Argument ist ihm eigen , welches er von dem Widerspruche gewißer
+
+Grundſätze des Denkens und der Erkentniß mit Thatsachen der Offenbarung und der positiven Religion entlehute.
+
+§. 957.
+
+Mit einem ungleich gebildetern Geiste und Geschmacke und aufeine vernunftmäßigere
+
+Weise stellte Franz de la Mothe le Vayer den Skepticismus als Resultat seiner Philosophie und als Mittel des religiöſen Glaubens auf. Er wurde gebohren zu Paris im I. 1586 , und erhielt früh eine liberale Erziehung, die sein treffliches Genie mit einem Reichthume von Kentnißen ausstattete. Er war besonders mit dem classischen Alterthume und mit der Geschichte vertraut , und verband damit eine sehr feine und ausgebreitete Welt und Menschenbeobachtung.
+
+Seine Talente und Gelehrsamkeit, und zugleich sein musterHafter Charakter im Privatleben , verschafften ihm die Gunst der Cardinale Richelieu und Mazarin. Er ward Statsrath und Erzie
+
+Her des Herzogs von Anjou , des Bruders Ludwigs XIV. Er starb in einem sehr hohen Alter
+
+[p. 488] Alter im J. 1672.
+
+Seinen Schriften ist nicht nur jeder Aberglaube und jede Bigotterie fremde, sondern er ließvielmehr seinem Wike und seiner jovialischen satirischen Laune aufs freyeste den Zügel schießen , und verleugnete die Keuschheit und Frugalitat , die er im wirklichen Leben unter den Ausschweisungen des üppigſten Hofes zu erhalten wußte. Als Schriftsteller wird er vom Bayle mit Plutarch verglichen. Die Ueberladung mit classischer Gelehrsamkeit , die man in seinen Werken an trifft , und die ihm mehrere neuere Kritiker unter seinen Landsleuten vorgeworfen haben, muß man mit der Sitte seines gelehrten Zeit alters entschuldigen, das sich in einer Aus. kramung der Art besonders gefiel. Sein skep tisches Werk hat den Titel: Cinq dialogues faits à l'imitation des anciens par Oratius
+
+Tubero. Die dialogische Form hatte Vayer sehr in seiner Gewalt; sie ist bey ihm naturlich und unterhaltend. Der erste Dialog enthält eine Anpreiſung und Vertheidigung des Pyrrhonismus , worin Vayer meistens dem Ser tus folgt. Er führt besonders das skeptische Argument aus , das von der ausserordentlichen Verschiedenheit und dem Widerstreite der Gewohnheiten , Sitten und Gebrauche unter den
+
+Völkern hergenommen wird , welche Vayer mit vieler Gelehrsamkeit darstellt, und woraus er den Schluß zieht, daß es keine allgemein ververbindliche [p. 489] moralische Pflichten gebe, und selbst solche nicht dahin gerechnet werden kön ten, die doch unter uns dafür zu gelten pflegten. Der zweyre Dialog hat den Titel: das skeptische Gastmahl , und ist eine Nachahmung der Symposien von Xenophon , Plato und Plutarch. Dayer spricht auch hier mit Entzücken von der Skepsis, die er seine geheiligte und göttliche Philosophie nennt. Der
+
+Stoff, welchen er besonders behandelt gab ihm zu vielen launigten und scherzhaften AeuBerungen Gelegenheit. Es werden die Verschiedenheit der Speisen und Getränke bey den Völkern , und der Gebrauche bey den Mahl. zeiten; die verschiedenen Begriffe von der Liebe ; die verschiedenen Arten der Befriedigung des
+
+Geschlechtstriebes ; auseinander gesetzt. Bewundernswurdig ist auch die Freymüthigkeit, mit der Vayer über manche Dinge, selbst über Könige und Fürsten überhaupt, urtheilt; was man von ihm als Hofmanne und der mit dem Hofe in so nahen Verhältnißen war, am wenigsten erwarten sollte. Der dritte Dialog ist eine Lobrede aufdie philosophische Einsamkeit und die stillen aber wahren Freuden, welche dieselbe gewähre, und wodurch sie für manche eingebildete oder entbehrliche Guter und Freuden des Lebens entschädigen könne, welche der Aufenthalt in der geräuschvollen großen Welt mit sich bringt. Der vierte Dialog handelt [p. 490] delt von den seltenen und erhabenen Eigenschaften der Esel dieser Zeit. Eine lustige Satire auf Schwächen und Thorheiten mancher Menschen, die in den Eseln ihre Originale fanden, denen Vayer eine ähnliche Lobrede hält , wie
+
+Erasmus den Narren. Der fünfte und für die Beurtheilung des Skepticismus des Vayer wichtigste Dialog betrifft die Verſchiedenheit der Religionen. Vayer stellt auch diese sehr auffallend dar , und zieht ebenfalls aus derselben das Resultat , daß alle Religion ungewiß sey; daß die Vernunft keine feste Principien der Theologie und also auch keine feste Wissenschaft derselben begründen könne. Dieses Resultat wendet er aber nicht an, um auch alle und jede positive Religion als ungültig darzuthun, sondern vielmehr, um die Gültigkeit derselben darauf zu grunden. Er nimmt als Fundament der Theologie ein Princip des Glaubens an, das dem Menſchen durch göttliche Gnade mitgetheile werde, und alle Vernunft weit übersteige; denn der Gegenstand der Theologie sey so erhaben, daß er niedurch Vernunft erreicht , sondern nur Durch göttliche Offenbarung erkannt werden kön ne. Dem Glauben andie Offenbarung stehe aber derDunkel aufunsre Wissenschaft im Wege, und erst die Vernichtung desselben durch die Einsicht von der Schwäche unserer Vernunft und von der Ungewißheit aller menschlichen Erkentniß könne uns zum Glauben an die Wahrheiten der gegeoffenbarten [p. 491] Religion geneigt machen.
+
+Skepsis sen gleichsam das Mittel, die Keime des Unglaubens aus unserm Geiste auszurotten, wodurch er für die Einwirkung der göttlichen Gnade empfänglicher werde. Eben die skeptische Denkart, die in jenen Dialogen des Vayer herscht, und die sich in einen Hang zum Glauben an höhere Offenbarung endigt, verräth sich auch ofterin andern Schriften desselben. Die Werke des La Mothe le Vayer sind öfter gedruckt. Eine Ausgabe derselben erschien noch bey seinen Lebzeiten durch die Before gung seines Sohnes zu Paris 1653. Eine andre in drey Bänden fol. ebendas. 1669, die auch die vom Vayer in den Jahren 1667 1669 verfaßten Schriften enthält. Die vollständigste ist herausgekommen zu Paris
+
+1684. Von dem im I angeführten Werke hat man folgende besondere Ausgabe : Cinq dialogues faits à l'imitation des anciens par Oratius Tubero. Nouvelle edition, augmentée d'une refutation de laphiloſophie ſceptique ou preſervatif contre le
+
+Pyrrhonisme par Mr, 1.M. Kable; aBerlin1704.
+
+§. 958. Als Schuler des La Mothe le Vayer können betrachtet und ihm gleich hier bengefuge werwerden [p. 492] Sorbiere und Foucher.
+
+Der er ste übersetzte einen Theil des Sextus Empiricus in's Französische, und erleichterte das durch seinen Landsleuten den Zugang zu der vornehmsten Quelle des Skepticismus , aus welcher die vornehmsten neuern skeptischen Philosophen bisher geschöpft hatten, und deren Reichthum an skeptischen Grunden das Verdienst der Entdeckung neuer in der That sehr schwer macht. Er verrieth nicht nur durch diese Arbeit selbst seine Vorliebe für die skeptische Denkart , sondern er bekante diese auch ausserdem deutlich genug. Foucher , Canonicus von Dijon, schrieb eine Geschichte der akademischen Philosophie , und erklärte darin die akademische Art zu philosophiren für die vorzüglichste. Dies Werk ist als historisches und philosophisches Product ausserordentlich scházbar. Es war zunächst dem Dogmatismus des Cartesius und seiner Schüler , der damals in Frankreich Aussehn zu erregen, und sich zu verbreiten anfieng , entgegengesetzt. Seine Absicht war indeßen nicht sowohl , zu zeigen, daß die menschliche Vernunft allein in dem Skepticismus Ruhe finden könne, als vielmehr , diesen von der Seite zu empfehlen, daß durch denselben erst der Weg zu einer deutlichen und evidenten Erkentniß gebahne werde. Aus diesem Gesichtspuncte schilderte er auch den Werth der akademischen Philosophie, [p. 493] phie, suchte also das Vorurtheil gegen dieselbe zu zerstreuen , was die herschende dogmatische Denkart bey Manchen, die nicht selbstständig philosophirten, und den Akademismus nicht historisch genau kanten, erzeugte und unterhielt. Foucher letstete hierdurch der akademischen Philosophie eben den Dienst , welchen
+
+Justus Lipsius der Stoischen , und zu seiner Zeit Gassendi der Epikureischen leisteten. S. Brackeri hiſt. crit. philos. T. IV. P. 1. P551.
+
+§. 959.
+
+So wie die mannichfaltigen mislungenen Versuche der dogmatischen Philosophen in dieser Periode den Skepticismus gleichsam von neuem belebt hatten; so gaben sie Veranlassung , einmal den Weg durch Schluße zu wissenschaftlicher Wahrheit zu gelangen, der bis dahin von allen betreten worden war, ganz aufzugeben, und lediglich die Erfahrung zu befragen, was diese unmittelbar , oder durch absichtlich angestellte Beobachtungen wissenschaftliches lehre. Der Philosoph , welcher diese neue
+
+Methode der Untersuchung nicht nur auf's lebhafteste und dringendste empfahl, sondern
+
+Ji [p. 494] auch selbst , so viel er in seinen Verhältnißen konte , realisirte , war Franz Baco Baron von Verulam und Burggraf zu St. Mban. Dieser merkwürdige Mann wurde ge bohren imJ. 1561. Sein Vater warNi colaus Baco , Großsiegelbewahrer unter der Regierung der Königinn Elisabeth , der we gen seiner großen Rechtsgelehrsamkeit und seines Charakters allgemein geachtet war. Schon als Knabe erregte Baco durch seine unge.
+
+wöhnlichen Talente die Aufmerksamkeit Aller, die ihn kennen lernten , und selbst der Königinn Elisabeth , der er öfter auf ihre Fragen die sinnreichsten Antworten gab. In seinem zwölften Jahre ward er auf die Universität zu Cambridge geschickt , wo er den Johann Witgift , nachherigen Erzbischof von Can.
+
+terbury, zum Lehrer hatte. Er trieb hier alte
+
+套 classiche Litteratur und besonders Aristoteli schePhilosophie , der eraber bald abgeneigt wurde , weil er bemerkte, daß sie nur zum Disputiren gemacht ſey; und auf die Beförderung des gemeinenMenschenwohls gar keinen oder geringen Einfluß habe. Nach Vollendung jenerSchulstudien ward er von seinem Vater mehr zur Politik erzogen , da er der jüngſte Sohn war, und er bloß durch Genie und Kentniß sich. dereinst zu höhern Würden im State empor schwingen konte. Er ward im Gefolge des
+
+Gesandten Powlett nach Frankreich geschickt, [p. 495] und bewies durch eine Schrift : de ſtatu Europe , die er im neunzehnten Jahre seines Alters abfaßte , wie sehr er ohngeachtet seiner Jugend den Vortheil benutze, welchen ihm je ne Verbindung mit dem englischen Gesandten und sein Aufenthalt am französischen Ho fe darbot. Er verlor aber während dieser Reise seinen Vater; die väterlichen Güter fielen an seine Bruder, und selbst eine Summe, die ihm jener zugedacht hatte, ward diesen zum Erbe. Er war also auf eine dürftige Lebensweise beschränkt, kehrte nach England zurück, und studirte das englische Recht, um durch juridische Praxis seinen Unterhalt zu finden. Er erwarb sich aber in kurzer Zeit eine so tiefe Kentniß des vaterländischen Rechts , daß, noch bevor er den gewöhnlichen juristischen Cursus beendigt hatte , die Königinn ihn unter die
+
+Zahl der ausserordentlichen Advocatenaufnahm, und ihm eine Präbende verlieh , wodurch er von Nahrungssorgen befreyt wurde. Inzwiſchen neigte sich sein Hang mehr zum politischen Leben, als zum Sachwalteramte. Er versuchte also sein Gluck am Hofe , ohne doch anfangs es zu irgend einer ansehnlichen Stelle bringen zu können, bis es ihm gelang, die Gunst des berühmten und unglücklichen Lieb.
+
+lings der Königinn Elisabeth , des Grafen von Essex , zu gewinnen , durch den er einigermaßen in bessere Vermögensumstände gerieth.
+
+Man
+
+[p. 496] Man beschuldigt ihn einer sehr großen Undankbarkeit gegen diesen seinen ersten Gönner , da er nach dein Falle desselben sich von deßen Gegnern verleiten ließ,ihn des Hochverraths beymPubli cum anzuklagen, durch welche Treulosigkeit er. seinen auf anderweitige Verdienste wohl gegrún. deten Ruhm gar sehr befleckte.
+
+Was ihm am
+
+Hofe derKöniginn Elisabeth nicht glücken woll. te, das gelang ihm desto besser unter der Regierung des Königs Jacob 1, dem er sich durch sein treffliches Werk de augmentis ſcientiarum empfahl, und der ihm das Amt des
+
+General. Solicitators gab , und bald darauf die Stelle des Attorney Generals.
+
+Durch sei ne Heyrath erhielt er überdem ein sehr ansehnliches Vermögen. Da er aber höchst verschwenderisch lebte, so brachte er dieses in kurzer Zeit durch , und war öfter dem druckendsten Man gel ausgesetzt. Dieses gab ihm zu Intriguen
+
+Veranlassung, die ihm in der Folge zum Ver derben gereichten. Er ließ sich bestechen und erlaubte ſich Ungerechtigkeiten. Damals verfolg te ihn gleichwohl das Gluck ausserordentlich ; er ward Mitglied des Königl. Geheimen
+
+-Raths , und durch Begünſtigung des Herzogs von Buckingham , des Lieblings des Königs, der sich der Einsichten des Baco bediente, ward er im I. 1617 Großsiegelbewahrer. Im J. 1719 ward er Großkanzler von Eng.
+
+land, Baron von Verulam, und im folgen. den [p. 497] den Jahre Vicegraf von St. Alban. Bey allen diesen Statsamtern , welche Baco nach und nach bekleidete, vernachlässigte er doch seine Studien nicht. Eine Frucht derselben war unter andern das Novum Organon , welches er im J. 1620 herausgab. So schnell Baco gestiegen war , so schnell fiel er auch wieder von seiner Höhe herab. Er beförderte die Anſchläge des Herzogs von Buckingham, den Geldbedurfnißen des Königs durch Erthei lung drückender Monopolien abzuhelfen , bey denen er selbst den Vorwurf grober Bestechlichkeit immer mehr auf sich ladete. Dadurch zog er sich den Unwillen nicht nur des Volks, sondern auch der Großen zu , und es entstanden im Parlamente laute Klagen darüber. Baco mußte alle Schuld auf sich nehmen, auch soferne er sie nicht wirklich trug ; es ward. ihm der Prozeß gemacht; er ward zu einer
+
+Geldbuße von vier tausend Pfund Sterling verdammt; sein Namen ward aus der Liste der Pairs des Reichs ausgestrichen und er kam in den Tower. Durch sein Betragen in diesen Unfällen verrieth er eine Schwäche des Charakters, die mit seiner Gelehrsamkeit und philosophischen Aufklärung gar sehr contrastirte. Nach kurzer Zeit wurde er jedoch aus dem Gefängniße wieder entlassen; das über ihn gefällte richterliche Urtheil ward für nichtig erklärt; und er in den Besitz sei [p. 498] seiner Ehrenstellen wieder eingesetzt , so daß er in dem ersten Parlamente , das König Carl zusammen berief, wieder erscheinen konte.
+
+Der Ruhm seines Geistes, und seiner literarischen Verdienste machte die unrühmli. chen Handlungen vergessen, wofür er gebüßt hatte. Er vermied es aber doch seit dieser Epoche, sich weiter in die Angelegenheiten des
+
+Hofes zu mischen, da er die Wandelbarkeit des Glücks und das Gefährliche dieser Vera hältniße erfahren hatte.
+
+Er lebte sich und den Musen. Leider empfand er nur auch noch im Alter die Folgen eines verschwenderischen Lebens und eines gänzlich vernachlässigten Haushalts. Er ward so arm , daß er den König um Unterstúkung bitten mußte. In dieser Periode seines Lebens arbeitete er seine meisten Schriften aus. Er starb im J. 1626 im sechs und sechszigsten Jahre seines Alters auf einer Villa des Grafen von Arundel nahe bey London. Der erste Biograph des Baco war William Rawley , der Secretair desselben , der mit ihm in vertrauter persönlicher Bekantschaft gestanden hatte. Er hat seine Biographie dem von ihm herausgegebenen letzten Bande der Werke des Baco (ed. Amstelod. 1663. 12 T. IV angebängt , und aus dieser haben die meisten Verfasser der spätern literarhistorischen Werke, auch Bayle ger φόρft.
+
+[p. 499] schipft. Eine andre Biographie vor den Lettres and remains of the Lord Chancel-
+
+Ior. Bacon (London 1734. 4) hat den Ros bert Stephan zum Verfasser. Die volle ständigste Biographie aber , woben jene ältern uud andere zuverlässige Quellen genutzt sind , befindet sich vor der besten Ausgabe der Baconischen Werke (London 1740) von Mallet. Dieser sind auch gefolgt Brucker
+
+Hist. crit, philos. T. IV P. 2. p. 90. Agaropisto Cromaziano krit. Gesch. der Revol. in der Philos. in den drey leiten
+
+Jahrh. B. I S. 288 nach Heydenreichs Uebersetzung , der auch einen eigenen Ans hang über Baco's Verdienste um die Philosophie hinzugefügt hat.
+
+§. 960.
+
+Baco war einerseits durch seine grundliche Kentniß der damaligen Schulphilosophie und vieler andern wissenschaftlichen Fächer , andererseits durch seine politischen Verhältniße und Erfahrungen auf den erhabenen Posten im State, zu welchen er sich emporgeschwungen hatte , mehr als viele andre fähig geworden, das wahre wissenschaftliche Bedirsniß der cultivirten Menschheit richtig zu beurtheilen, und insbesondre den Werth der Schulphilosophie praktisch zu schaken.
+
+Je mehr er nun fand, wie [p. 500] wie wenig Brauchbarkeit die lekterezurAufkla. rung und Verbesserung der Menschheit im wirklichen gesellschaftlichen Leben habe, desto herzli. cherward erihr abgeneigt, und desto mehr dachte er darauf, eine gänzliche Umschaffung derselben zu bewirken. Er entwarf den Plan eines gro.
+
+ßen Werks , das jene Umschaffung bezwecken sollte, und dem er den Titel: Magna reftauratio, gab. Es sollte aus sechs Theilen bestehn, deren erster eine Eintheilung der Wissen. schaften; der zweyte das neue Organon oder eine Erklärung der Natur; der dritte die
+
+Phänomene des Universum's , oder die Natur und Erfahrungsgeschichte zur Entwickelung der Philosophie ; der vierte eine Verstandesleiter; der fünfte eine Einleitung in die zweyte Philosophie; und der sechstedie zweyte Philosophie selbst oder die active Wissenschaft enthielte. Von diesem Plane hat Baco nur einige Stucke ausgeführt, und zu der übrigen bloß Materialien hinterlassen und einzelne Ideen über die Art, wie sie ausgeführt werden konten. Das neue Organon ist vollständig erschienen. Statt des ersten aber hat Baco das Werk de augmentis Scientiarum geliefert, wodurch der Abgang desselben reichlich ersetzt wird.
+
+Beyde Werke , sowohl das de augmentis scientiarum , als das neue Organon , sind classisch in ihrer Art , und fassen einen Schak höchst fruchtbarer Beobach.
+
+[p. 501] bachtungenund Resultate zum Behufe der ech. ten Cultur der Wissenschaften in sich. Auch die übrigen kleinern Schriften Baco's, die mehr als Materialiensammlungen betrachtet werden können, wiederglobusintellectualis, Sylva Sylvarum , hiſtoriaventorum, hiſtoria vitae et mortis u. a. sind durch ihren Reichthum an
+
+Thatsachen schakbar. Auch dem Studium der praktischen Philosophie suchte Baco eine bessere und zweckmäßigere Wendung zu geben.
+
+Er schrieb in der Absicht die sermones fideles ethicos, politicos , oeconomicos , die er selbst in der Zueignungsschrift an den Herzog von
+
+Buckingham zu seinen besten Arbeiten rechne te, und die auch beym Publicure eine sehrgun stige Aufnahme fanden, quia videantur prae ceteris hominum negotia ftringere et in sinus fluere , wie ſich Baco selbst darüber ausdrückte. Wie richtig und treffend das moralisch praktische Urtheil des Baco war , beweist sei ne Geschichte des Königs Heinrichs VII von England.
+
+§. 961,
+
+Das Werk des Baco de augmentis ſcientiarum kann eigentlich für eine allgemeine Methodik der menschlichen Erkentniß und der
+
+Wif
+
+[p. 502] Wissenschaften überhaupt gelten. Er hat in demselben einen encyclopädischen Stammbaum der Wissenschaften aufgestellt , der ungeachtet seiner großen Radicalfehler und sei.
+
+ner wesentlichen Mängel nicht nur zu der Zeit, da er zuerst erschien , sehr angeſtaunt wurde; obgleich schon damals mehrere Gelehrte nicht sehr vortheilhaft davon dachten; sondern der auch noch bey der großen französischen Encyclopädie gewißermaßen zum Grunde gelegt worden ist ; wiewohl die Unternehmer dieses Werks ihn weiter ausgebildet und mit einer
+
+Menge neuer Zweige bereichert haben.
+
+Baco theilte die Wissenschaften ab nach den drey
+
+Vermögen des Gemüths , dem Gedächtniße, der Phantasie und der Vernunft, in die
+
+Geschichte, die Poesie , und Philosophie. Erstlich : Die Geschichte ist eine Darstellung der Werke Gottes , oder der Men schen , oder der Natur. In Beziehung auf Gort scheidet sie sich in die heilige, die pro phetische und die ecclesiastische; in BezieHung auf die Menschen in die ältere und neuere bürgerliche Geschichte, in die Literargeschichte , Denkwürdigkeiten , Jour nale, Annalen, Alterthümer und Universalgeschichte; in Beziehung aufdie Natur in Die Geschichte der einförmigen Natur nach ihren regelmäßigen Producten und Wirkungen (hiftoriam generationum); in die Geschichte [p. 503] der abwechselnden Natur nach ihren gesetz. widrigen oder unregelmäßigen Producten und Wirkungen (hiftoriam praetergenerationum); endlich in die Geschichte des Gebrauchs , welchen, die Menschen von den Producten und Kräften der Natur machen (hiftoriam artium).
+
+Das Fehlerhafte dieser Eintheilung der historischen, physikalischen und technologischen Disciplinen, sowie des Princips derselben, fäluc in Die Augen. Zweycens: Die Poesie, welche Baco aus der Rimbildungskraft herleitet , ist entweder erzählend , sofern der Dichter geschehene Dinge darstellt, und, dann sind Arten derselben die Epopoe, das Madrigal und das Epigramm; oder sie ist dramatisch, wenn der Dichter seine Personen vergegenwärtigt, und als selbst redend und handelt einführt; dann entspringen die Tragédie , die Komödie , die
+
+Oper und die Ekloge; oder endlich sie ist parabolisch , wenn sie abstracte Begriffe in Bil der hüllt; insofern gehört die Allegorie zu ihr. Die Poesie überhaupt ist dein Baco eine willkührlich gebildete Geschichte (hiſtoria ad placicum conficta), und nur in diesem Sinne erkannte er eine Poesie an. Alle übrigen poe-. tischen Gattungen, von welchen jener Begriff nicht gilt, rechnete er zurBereosamkeit oder zur
+
+Philosophie. Die aussereForm derPoesiewar ihm völlig indifferent; er betrachtete sie lediglich als eine besondre Art oder Methode des Styls. Drit.
+
+[p. 504] Drittens: Aus der Vernunft entspringt die Philosophie. Diese scheidet sich in die Wiſ- senschaften von Gott, von der Natur , und vom Menschen. Die erste befaßt die naturlicheTheologie, und hat zum Anhange die Lehre von den guten und bösen Engeln und Geistern , mit welcher auch die Kunste der Wahrsagerey und Zauberey verbunden sind. Die Wissenschaft von der Natur theilt Baco in die speculative und operative Naturphilosophie.
+
+Von jener sind Theile die Physik und die Metaphysik. Zur speculativen Physik rechnet er die Lehren von den Principien der Mannichfaltigkeit der Dinge; die leßtern betreffen ent. weder die concreten Gegenstände , und machen die Naturgeschichte aus , oder die abstracten ,
+
+Dinge, und von der Welt oder und handeln von den Schematismen und den Bewegungen der Materie. Die Metaphysik theilt er wieder in die Lehren von den Formen und von den Finalursachen. Die operative Physik scheidet er in die Mechanik und die Magie, die letztere Disciplin in einem gelâu. tertern Sinne genommen. Es gehören zu ihr ein inventarium opum humanarum und ein catalogus polychreſtorum. Die Mathema. rik , sowohl die reine als die angewandte, will Baco bloß als einen Anhang zur Naturphilosophie betrachtet wissen. Die Wissenschaft vom Menschen wird getheilt in die philosophia hu. manimanitatis [p. 505] und philoſophia civilis. Jene be trifft den Körper und die Seele in Beziehung sowohl auf die Person des Menschen über.
+
+haupt, als auf die Verbindung zwiſchen Körper und Seele. Die Person des Menschen betrachtet Baco nach ihren Vorzügen und Mängel.
+
+Zur Untersuchung der Verbindung der Seele mit dem Körper rechnet er auch die Physio. gnomik und die Auslegung der Träume. Die
+
+Wissenschaft vom Körper enthält in sich die Arzneykunde , die Kosmetik , die sich auf Erhaltung der Reinlichkeit und die Gestaltdes Körpers bezieht, die Athletik , und die Er.
+
+gógungskunste, zu denen Mahlerey , Mu. sik, Taschenspielkunst u. w. gehören. Die Wissenschaft von der Seele zerfällt 1. in die Untersuchung der verschiedenen Seelenvermogen 2. in die Unterſuchung des Gebrauchs und der Gegenstände derselben; die letztere ist theils Logik, welche auch die Grammatik, Rheto.
+
+rik, Kritik,Pädagogik mit in sich faßt, theils Ethik , oder die Lehre vom Guten und Bisen, von der Bildung der Charaktere , von den Affecten , und den Mittelu , ihre Verdorbenheit zu heilen u. w. Endlich die philoso. phia civilis betrifft die Geseke , die Jurisprudenz, Dekonomie , Politik, den Handel zu Wasser und zu Lande uw. Dieser Stammbaum der Wissenschaften an sich selbst ist in dem Werke de augmentis ſcientiarum der,unbebeu
+
+Deutendste Theil. Was aber diesem einen so Hohen Werth giebt , das ist die Menge von trefflichen lehrreichen Bemerkungen darüber , was alles damals in einzelnen Disciplinen oder
+
+Gattungen vonKentnißen, welche Baco aufführt; vermist werde ; hauptsächlich inwiefern Die bisherige Methode in der Behandlung der. selben fehlerhaft und zweckwidrig sey; wie den Mängeln obgeholfen und eine heilsame Erweiterung und Vervollkomnung jener Disciplinen und Kentniße bewirkt werden könne. Ueber Baco's Stammbaum derWissenschaften
+
+S. den Discours preliminaire de l'Encyclopedie et ſyſteme figuré des connoissances humaines - Vergl. Heydenreichs Bemerkungen zu Agatopisto Cromaziano Geschichte der Revol, in der Philosophie B. I. Б. 306.
+
+§. 962.
+
+Der Hauptcharakter der Baconischen Phi. losophie ist dieser, daß in derselben die hergebrachte scientifische Methode der Philosophie sowohl, als aller übrigen Gattungen von Kentnißen, durchaus verworfen wurde. Man kann jene,Methode die syllogistische nennen, so= [p. 507] sofern man dabey von willkührlichen Begriffen ausgieng und Schluße aus denselben herleitete , ohne die Natur der Gegenstände selbst, auf welche sich jene Begriffe bezogen, vorher untersucht zu haben; sofern man überhaupt die Wissenschaften mehr auf syllogistisches Raisonnement gründete, als auf fleißiges Studium der Erfahrung. Es hatte dieses die Folge gehabt, daß nicht nur ein großer Theil der
+
+Philosophie sich in leerenSpiksindigkeiten her. umdrehte; sondern daß auch in andere Disciplinen eine Menge von Traumereyen hineingekommen war, die durch Erfahrung gar nicht bewahrt wurden, denen diese oft geradezu widersprach , und die einer zweckmässigern und nüßlichern Cultur jener Disciplinen hinderlich waren. Baco drang also vor allem Andern auf das Studium der Erfahrung, auf Anstellung von Beobachtungen und Versuchen , um die gemeine wissenschaftliche Erkentniß theils zu lautern und zu berichtigen, theils zu erweitern. Er deckte freymuthig und mit gro.
+
+Der Lebhaftigkeit die Blossen des damaligen wissenschaftlichen Zustandes aufund die Ursachen derselben; er zeigte , was für Gegenstande für das Interesse der menschlichen Gesell.
+
+schaft vorzüglich einer genauern Bearbeitung bedürften , und wie diese am besten und mit
+
+Hoffnung eines großen wissenschaftlichen Gewinnes unternommen werden könne. Dies ist das [p. 508] das vornehmste Verdienst des Baco., Nicht nur das Werk de augmentis ſcientiarum, sonbern auch der wesentliche Inhalt seines neuen Organon's läuft darauf hinaus , das scholastischsyllogistische Verfahren gänzlich zu verdrängen , und das empirische durch Beob. aihtung der Natur und kunstliche Versuche einzuführen. Baco war von der Verderb. lichkeit jenes so eingenommen , daß er den
+
+Werth der Syllogistik überhaupt ableugnete , und ausser der Induction jede andere Schlußart für unnsthig und unnig erkiärte , obaleich in seinen eigenen Schriften, wie Gassendi zeigte , nicht bloße Inductionen , sondern Schluße von sehr verschiedener Art und Form vorkommen , und selbst die Induction, wenn man auf das Princip der Bundigkeit in der Form dabey sieht , zu den Syllogismen ge hört. Aber es war in jenem Zeitalter wohl. thätig , daßBaco zu dieſem Extreme übergieng, weil die scholastische Methode zu herschend ge worden war, und nicht leicht anders, als da durch in ihrer Autorität bey dem großen Haufen erschuttert werden konte. Gerade diese an sich selbst übertriebene und tadelhafte Verachtung des Raisonnements aus Begriffen und durch Syllogismen bewirkte, daß man eifriger die Natur studirte , und dadurch nicht nur eine Menge von Irrthümern und Vorurtheilen in den physikalischen Disciplinen berichtigte, [p. 509] te, sondern auch diese wahrhaft erweiterte. Zu den für die echte Naturkunde verderblichen Folgen des syllogistischen Verfahrens rechneteBa co auch den enormen Misbrauch , der zu seiner Zeit mit der Teleologie getrieben wurde , weil man diese als wissenschaftliche Grundlage des Theismus betrachtete und behandelte. Fast die ganze Physik wurde damals auf Teleologie zurückgeführt und eingeschränkt; und da hier die raisonnirende Vernunft , mit Hülfe der
+
+Phantasie freyen Spielraum hatte , der Natur jede Art von Zweckmäßigkeit anzudichten , die man nur ihr andichten wollte; so war die Teleologie in ein Gewebe von Traumereyen ausge artet , welche die Natur selbst im geringsten nicht documentirte.
+
+Man hatte diese Spielereyen der phantasirenden Vernunft immerhin auf ihrem Werthe beruhen lassen können, wenn nicht die gründlichere und wüßlichere Bearbeitung der Physik durch dieselben verhindert und unterdrückt worden wäre , und die physikalischen
+
+Untersuchungen überhaupt eine ganz schiefe Richtung dadurch bekommen hatten. Baco eiferte also auf das lebhafteste und im Geiste eines echten Physikers gegen das teleologische Unwesen , und verwies die Teleologie gänzlich aus der Physik in die Metaphysik. Er erklärte die Endursachen für unfruchtbar , die nie gebäh. ren gleich Gott geweihten Jungfrauen. Man hat bisher gar verkehrt , sagt er , die Untersu
+
+KE chung [p. 510] chung der Endursachen, die in die Metaphy. sik gehört, als einen Theil der Physik betrachtet. Diese wissenschaftliche Stellung derselben konte indeßen gleichgültig seyn ; aber sie hat der
+
+Philosophie den größten Schaden gebracht und bringt ihn derselben noch. Denn sie hat die Untersuchung der wirkenden Ursachen aus der Physik verdrängt , und Veranlassung gegeben, daß die Physiker sich mit jenen scheinbaren aber erträumten Endursachen begnügten , und der
+
+Entdeckung der wirklichen natürlichen Ursachen nicht eifrig genug nachforschten, zum größten
+
+Nachtheile der Wissenschaft. Ich finde, daß dies nicht bloß vom Plato , der immer amGe
+
+ſtade der Endursachen vor Anker geht , sondern sogar auch vom Aristoteles, Galen u. a. geschehen ist, die auch nicht selten in diese Untiefe gerathen. Wer Ursachen der Art angiebt: die Augenwimpern dienten zur Schuhwehr der
+
+Augen; das dichte Fell der Thiere zur Ver wahrung derselben gegen Hitze und Kälte; die Knochen seyen statt der Säulen und Balken , worauf die Maschine des Körpers ruhe; die Bäume hätten , damit die Früchte weniger von der Sonne und vom Winde litten ; die Wolken entständen in der Luft, um die Erde mit Regen zu trinken; die Erde sey dicht und fest, damit sie den Thieren zur Wohnung dienen könne, u. dgl.;- der würde als Metaphysiker nicht übel raisonniren; aber ihm als Phy
+
+[p. 511] Physiker wurde ein solches Raisonnement wenig anstehn. Baco zog daher die Naturphilosophie des Demokrit und der altern Philosophen überhaupt , welche die Weltbildung nicht einem göttlichen Verstande zuschrieben, benweitem der theistischen Naturphilosophie vor. Je ne erklärten die Structur des Universums aus unendlich mannichfaltigen und künſtlichen Tha tigkeiten der Natur, und die Ursachen der bea - sondern Dinge legten sie einem nothwendigen Naturvermögen bey , ohne irgend Endursachen einzumiſchen, welche die Wirkungen der Natur bestimmt hätten. Sie waren daher in der Untersuchung der natürlichen Ursachen viel gründlicher, und drangen ungleich tiefer in die geheime Werkstätte der Natur ein , als Plato und
+
+Aristoteles , weil sie nicht so wie diese ihreSpeculation an den Endursachen verschwendeten . Inzwischen behielt es sich Baco dabey ausdrücklich vor, daß er die Teleologie gar nicht schlecht hin verwerfe , und durchaus für leere Fiction erkläre; vielmehr lasse er ihr den Werth als Gegenstande metaphysischer Speculation ; nur dadurch , daß sie in die Stelle der physischen Ursachen getreten wäre, sey das physikalische Gebiet ganz verödet. Derjenige wurde nach seiner Meynung sehr unrichtig urtheilen, der behauptete , daß die Teleologie der wahren Physik widerstritte ; im Gegentheile musse diese jener zum Grunde liegen, und beyde DisciK2 pli.
+
+[p. 512] plinenmüßten einander gleichsam in die Hän de arbeiten.
+
+Die Endursache der Augenwim.
+
+pern, daß sie die Augen verwahren sollten, widerstreite der natürlichen Ursache derselben nicht , daß die Feuchtigkeit in Hólungen des thierischen Körpers Haare erzeuge; die Endursache der Dichtigkeit des Felles bey den Thieren, um sie gegen die Rauhigkeit der Witterung zu ſchüßen, stimme mit der natürlichen recht gut zusammen, daß diese Dichtigkeit des
+
+Fells durch die Zusammenziehung der Schweißlocher entsteht , die vom Innern des Körpers durch die Beraubung der Luft bewirkt wird. Es erhellt hieraus , wie nicht ganz gerecht der Vorwurf war , den Baco's Zeitgenossen ihm machten, daß er durch sein Polemisiren gegen die
+
+Teleologie und seine Herabwürdigung derselben den Atheismus begünſtige , indem er dem Theismus seine stärkste Stuke raube. Weil Baco fühlte, daß er sich wohl hier und da zu stark und frey ausgedrückt haben mochte, und dadurch Manche zu jenem Vorwurfe verleiten konte, obgleich dieser an sich immer auf Misverstande beruhte; so äuſſerte er sich über seine Vorstellungsart von dem Verhältniße der
+
+Teleologie zur Theologie noch genauer. Die Kritik des Misbrauchs der Teleologie hebt die göttliche Vorsehung gar nicht auf, und macht sie auch nicht zweifelhaft ; vielmehr sie bestätigt und bestärkt den Glauben daran. Denn so wie [p. 513] wie in bürgerlichen Angelegenheiten die politische Klugheit erhabner und bewunderungswürdiger ist , wenn sich Jemand der Hülfe Anderer zu seinen Zwecken zu bedienen versteht, ohne diesen etwas von seiner Absicht mitzutheilen ; (so daß diese thun , was Jener will, nicht im geringsten aber merken, daß sie nur nach Jenes Willen handeln;) als wenn er seine Absichten den Dienern seines Willens kund thut ; so strahlt auch die Weisheit Gottes be.
+
+wundernswürdiger hervor , wenn die Natur für sich anders wirkt, und die Vorsehung einen andern Zweck hat , als wenn allen und jeden einzelnen Formen und Wirkungen der Natur die Merkmale der Vorsehung gleichsam ausgedruckt wären. DieUntersuchung der physischen Ursachen entfernt den Menschen so wenig von Gott und der Vorsehung , daß sogar diejenigen Philosophen, welche sich damit beschafftigt haben, am Ende keinen andern Er. klärungsgrund finden mögen, als Gott und die Vorsehung. Man kann vom Boco nicht sagen , daß er ein originales philosophisches System aufgestellt, oder überhaupt systematisch philosophirt has be. Es war nur eine neue Art zu philosophiren , eine neue Methode , die er vorschlug , und zwar bloß insofern neu , als sie der damals gewöhnlichen entgegengesetzt war. Baco's Philosophie läßt sich also auch [p. 514] nicht weiter , als in Beziehung auf diese neue Methode , den Charakter seinerphiloso phischen Denkart überhaupt , und einzelne Ideen , die ihm eigenthümlich waren , historisch erörtern.
+
+Sein Verdienst um die
+
+Philosophie als Wissenschaft ist darum nicht geringer; denn die scholastische Methode war in der That dem Interesse jener höchst nachtheilig gewesen , und hatte dieselbe größtentheils in eine leere Formalwissenschaft, in ein Gewebe dialektischer Spisfindigkei ten, und in eine Polemik verwandelt, nach welcher die Philosophen mehr in Wors tern als in Begriffen gegen einander kämpfe ten.
+
+Eine Anwendbarkeit auf das wirkliche gesellschaftliche Leben , insbesondre auf die moralische Veredlung der Menschheit , und auf die Erfahrungswissenschaften und die Kunste, harte die Philosophie entweder gar nicht , oder sie war sehr beschränkt , und auch in dieser Beschränkung noch dazu sehr zweys Deutig. Baco , der die scholastische Methos De schlechthin verwarf , und die Philosophie, so wie alle wissenschaftliche Erkentniß überhaupt , auf Beobachtung der Natur und Induction aus derselben gründete, leistete dadurch der Philosophie und den übrigen Disciplinen den wesentlichsten Dienst, daß er eine Menge wirklich leerer und nich tiger Träumereyen in ihrer Blife darstellte, und zeigte , wie die Philosophie eine größere und nützlichere Anwendbarkeit auf das gesellschaftliche Leben und auf die übrigen Wissenschaften und Kunste bekommen könne , sofern diese von ihr die Principien ents Icha )
+
+lehnen müſſen. Er verschaffte also dadurch der Philosophie wieder einen realen und brauchbaren Inhalt , daß er sie nur als ein
+
+System von Grundsätzen für die Erkentniß der Erfahrung behandelt wissen wollte, und zwar von Grundsätzen , die mittelst der Beobachtungen und Versuche die Natur selbst betreffend , aus dieser abstrahirt und durch sie bewährt würden. Wie viel Nuken Ba= co hierdurch gestiftet hat , das beweisen die Fortschritte , die seitdem , namentlich in England , wo seine Urtheile im wissenschafte lichen Gebiete die größte Autorität erhielten , in der Naturkunde , und auch in der
+
+Philosophie , so weit diese vom Studium der Erfahrung abhängt , gemacht worden sind. Sein Fehler lag bloß darin , daß er zu strenger Empirist war , und selbst der ſcientia univerſalis , wie er sie nannte , der
+
+Wissenschaft der allgemeinen und nothwend digen Erkentnißprincipien , ihre Quelle und ihren Grund in der Erfahrung anwies. Er hielt deßwegen auch eine eigentliche und brauchbare Grundwissenschaft in dem Sinne des Worts , den er damit verband , noch für ein Desideratum, Equidem invenio, sagt er (de Augm. ſcient. III , 1) , farraginem quandam et maſſam inconditam doctrinæ , ex theologia naturali, ex Logica, ex partibus quibusdam phyfice, veluti de principiis et de anima, compofitam et congeftam , et ſublimitate quadam fermonis hominum , qui ſe ipsos admirari amant, tamquam in vertice ſcientiarum collocatam. Hoc vero miſto faftu id tantantum [p. 516] volumus , vt deſignetur aliqua ſcientia , quæ fit receptaculum axiomatum, qua particularium ſcientiarum non sint propria , ſed pluribus earum in commune competant. Zu dieser Grundwissen. schaft waren also nach seiner Meynung nur erst einzelne Materialien vorhanden ; corpus vero aliquod talium axiomatum , quæ vim habeant quandam primitivam et ſummariam ad fcientias , nemo compofuit;
+
+cum tamen fit res ejusmodi, quæ infigniter naturam vnam faciat. Der Fehler, welchen Baco hiermit begieng , daß er die wahre Quelle der nothwendigen Erkentniß principten verkannte , und alle Begriffe und Grundsätze a priori als solche nicht gelten lassen wollte , war zunächst für sein Zeitale tet nicht sehr schädlich; da sein Vorurtheil in der gemeinen philosophischen Denkart die ses Widerstreit genug fand ; wodurch eine zu allgemeine einseitige Nichtung der Art zu philosophiren, die Baco etwa durch sein Ansehn und sein Beyspiel hatte veranlassen können , verhindert wurde. - Zu den ihm eigenthümlichen Hauptideen , die aber auch durch seine Verachtung alles Raisonnements a priori erzeugt wurden , gehörte denn auch , daß er die Teleologie in die Metaphysik vere wies. So beſtimter jener einen Platz in der Metaphysik einräumt , und so eifriger dagegen protestirt , daß er die teleologische
+
+Speculation ganz in ihrem Werthe herabsez zen und verdrängen wolle; so verräth doch die ganze Art und der ironische Ton , wo mit er von ihr spricht , daß er sie im Gans S zenzen [p. 517] sehr gering schakte , und sich nur nach dem Vorurtheile des gelehrten Publicum's bequemte , das er vielleicht für zu tief. eingewurzelt und zu mächtig hielt , um den Versuch zu wagen , es ganz aus dem Wege zu räumen. Den Anhängern der Teleolos gieunter den theistischen Physikern war es hierben um so weniger zu verargen , daß sie inBaco's Raisonnement eine Begünstigung des Atheismus fanden. Seine Behauptung , daß in die Physik nur die Erforschung der natürlichen Ursachen gehöre , und die Speculation über die Endursachen in die Metaphysik , hatte etwas willkührliches , und glich einem Machtspruche; so lange das wahre Verhältniß der physischen und teleologischen Naturforschung in Rücksicht auf ihre verschiedenen Principien im Erkentnißvermdgen noch nicht ausgemittelt war. Daher auch поcф nach Baco die Ansprüche bender, des mechanischen und des teleologischen Phy.
+
+sikers , unentschieden geblieben sind. Frey, lich aber mochte wohl bey den Wenigsten , die sich gegen Baco's Urtheil von der Tes !cologie erklärten , in einer mangelhaften Theorie vom Erkentnißvermögen der Grund dazu liegen ; bey den Meisten war es Kurz. sichtigkeit, oder eine fromme Wingſtlichkeit, daß dem Theismus dadurch Abbruch geschehen möchte. - Zu den Gegenständen , welche Baco mit besonderem Fleiße behandelte, gehören auch die Vorurtheile, über wels che er in logischem Betrachte in seinem neuen Organen mehrere treffliche Bemerkungen gemacht hat. Er nennt sie idola , Schate
+
+LT ten= [p. 518] tenbilder , die wir von den Gegenständen mit uns herumtragen , und denen die wirke liche Natur dieser selten entspricht. Nach ihren Gründen theilte er sie in idola tribus,
+
+Vorurtheile die ganzen Gattungen undStäns den von Menschen eigen sind ; idola fori, Die durch die gesellschaftlichen Verhältniße und die Sprache im gemeinen Leben erzeugt werden; iodola theatri , Schul und System Vorurtheile u, w.
+
+§. 963.
+
+Vortrefflich und für sein Zeitalter äusserst lehrreich war auch Baco's Raisonnement gegen den Aberglauben , die Betreibung angeblicher geheimer Wissenschaften und Kunste, und die
+
+Anhänglichkeit nicht bloß des großen Haufens, sondern auch vieler Gelehrten und Philosophen an denselben. Baco leugnete alle angeblich.
+
+geheime Naturkräfte, sofern sie den offenbaren widersprechen , und folglich auch die Möglichkeit durch jene etwas zu bewirken , was sich nicht aus den Naturgesehen, wie sie die Erfahrung lehrt, erklären läßt, oder was denselben geradezu widerstreitet. Die Magie, die Alchemie, die Kunst das Alter zu verjüngen, die Astrologie, die Chiromantie , die Sympathie, Antipathie , verwirst er als nichtige Einbil.
+
+[p. 519] bildungen und Träume.
+
+Wer sich mit diesen
+
+Wissenschaften und Künſten abgiebt , und dadurch Dinge bewirken zu können hofft, die er auf dem natürlichen Wege nicht bewicken kön. te, der ist mit dem Trion der Fabel zu vergleichen, der die Juno , die Göttin der Macht, zu umarmenwähnte, und statt derselben eine Wolke umarmte, mit welcher er die Centauren und Chimaren erzeugte. Statt der Wirkungen, nach denen er mit unverständiger und ohnmächtiger Begierde strebt , und die er durch den Rauch und Nebel der Phantasie schon in der Ferne zu erblicken wähnt, werden sich ihm am Ende nichts als getäuschte Hoffnungen und scheußliche Gespenster darbieten. Aber
+
+Die Magie hat einen ähnlichen Einfluß auf die Gemüther der Menschen , wie Schlaf machende Arzneyen auf den Körper. Diese bewirken Schlaf und angenehme Traume. So wird auch der Verstand der Menschen einges wiegt; man sagt ihnen viel von den verborgenen specifischen Kräften der Dinge vor, deren
+
+Kentniß gleichsam von Himmel geoffenbart und durch mündliche Tradition fortgepflanzt sey; darüber vergessen die Menschen, die wah ren und natürlichen Ursachen der Dinge zu erforschen, und beruhigen sich bey jenem Wahne; man flöst ihnen überdem die süßesten Hoffnungen und Träume ein, und feſſelt sie dadurch noch mehr. Das menschliche Geschlecht istunso [p. 520] ungemäkigt und thöricht in seinen Wünſchen, daß es nicht nur sich unmögliche Dinge ver spricht, sondern auch das blinde Vertrauen faßt, es werde ohne Mühe und Fleiß und mit Nichtsthun die allerschwersten Dinge bewirken. Ganz hatte sich indeßen Baco selbst noch nicht über alle dahin gehörige Vorurtheile er. hoben. Er legte unter andern der Seele auch noch eine Gabe der Divination bey , daß sie entweder durch eigene Kraft die Zukunft vor.
+
+her wiſſen könne, wenn sie sich von den Ban. den des Körpers losreiße, und sich auf sich selbst zurukziehe, wie bey manchen Träumen, in der Ekstase , im Todeskampfe ; oder daß ihr die Zukunft durch aussere geistige Einfluße ge offenbart werde. 6. Bacóde augm. ſcient. III , 5. IV, 3 Ende der erstenHälfte des Sechsten Theiles.
+
+Ge
+
+## Ein und zwanzigſter Abschnitt.
+
+### Geschichte der Philosophie vom Descartes bis auf Leibniz.
+
+Quellen : Renati Cartesii Opera omnia. Amſtelod. 1692. IX Tomi. 8. RenatiCartefii Opera philoſophica, quibus continencur meditationes de prima philosophia , principia philoſophiae , diſſertationes de methodo , Dioptrice , Meteora , et tractatus de paſſionibus animae. His accessit nova hac editione tractatus de homine et formatione foetus cum notis Ludov. de la
+
+Sorge, et in fine de quibusdam argumentis annotationes &c. Francof, ad Moер,
+
+1692.4. - Epiſtolae omnes partim ab. auctore latino sermone confcriptae, partim [p. 524] tim cum reſponſis doctorum virorum ex gallico translatae : in quibus omnis generis quaestiones philosophicae tractantur et explicantur plurimae difficultates , quae in reliquis ejus operibus occurrunt. Part. III. Edit. II. Francof. ad Moen. 1692. 4. Von den meisten der hierher gehörigen Schriften giebt es auch mehrere einzelne
+
+Ausgaben - Descartes opuscula poſthuma phyſica et mathematica ; Amstelod. Renati Cartesii Tractat von 1701. 4. den Leidenschaften der Seele; ins Teutsche übersetzt und mit Anmerkungen versehen von Balthasar Heinrich Cilesio. Zrf. und Leipzig 1723. 8. - The moral and political works of Thomas Hobbes never before collected together; London 1757. fol. Die sämtlichen Werke des Hobbes sind herausgekommen lateinisch zu Amsterdam 1668.4. Die merkwûrdigsten darunter sind folgende : Elementa philoſophicade cive; Paris 1642. 4 und 1647. 12 und ister - Leviathan five de materia, forma et potestate civitatis ecclefiafticae et civilis; englisch 1751. fol. lateinisch zu Amsterdam 1668. 4. Deutsch: Thomas Hobbes Leviathan oder der kirchliche und bürgerliche Staat; Halle 1794 2 B. 8.
+
+De natura hominis.
+
+Englisch zu London 1650. 12. - Elemen forum philosophiae ſectio prima de corpore englisch London 1655. 8. Amsterdam 1668. 4. lateinisch zu London 1656.4. De homine five elementorum philosophiae ſectio ſecunda; englisch London 1658. 4. lateinisch Amsterdam 1668. 4. Quaestiones de [p. 525] de libertate , necessitate et casu, contra
+
+Doctorem Bramnallum ; Englisch 1656. 4 1658. VI Voll fol.
+
+curante Nicolao
+
+Avenario Florent. 1728 , und wahrscheinlich nur mit einem neuen Titelblatte ibid. 1732. Vorzüglich sind zu bemerken : Syntagma philosophiæ Epicuri cum refutationibus dogmatum , quæ contra fidem chriftianamab eo aſſertaſunt, oppoſitis per.Petrum
+
+Gaſſendum. Præfigitur Samuelis Sorberii dissertatio de vita et moribus Petri Gassendi; Hagæ Comit. 1659. 4. und Amstelod. 1684. 4. Dieses Werk ist auch in den bey. den ersten Bänden der Opp. enthalten -
+
+Ejusd. animadverſiones in Diogenem Laertium devita et philoſophia Epicuri ; Lugd. 1649. fol. in seinen Opp. T. V.
+
+De vita et moribus Epicuri libri octo , auctore Petro Gaffendo; Lund, 1647. Editio altera auctior et correctior; Hagæ Com.
+
+1656. 4.
+
+De la recherche de la verité, où l'on traite de la nature de l'esprit et de l'homme,et de l'uſage , qu'il en doit faire pour eviter l'erreur dans les ſciences.
+
+Cinquieme edition revue et augmentée de pluſieurs eclairciſſemens. Par N. Malebranche ; á Paris 1700. III Voll. 12 ; ebendas. 1712. II Voll. 4. und IV Vol. 12. Die erste Ausgabe erschien zu Paris 1674. 12. Das Werk des Males branche ist auch in's Lateinische übersetzt worden von L'enfant , in's solländische , und in's Deutsche : Malebranche von der
+
+Wahrheit , von der Natur des menschlichen
+
+[p. 526] Geistes , und dem Gebrauche seiner Fähige keiten , um Irrthümer zu vermeiden; sechs
+
+Bücher , aus dem Französischen übersetzt und mit Anmerkungen herausgegeben ; Halle 1776-1786 . 4 Bände. 8. (Joh. Pb. Müller , Chr. Ludw. Paalzow und Job. Beint. Friedr. Ulrich haben daran Antheil) .
+
+Des vrayes et des fauſſes idees contre ce qu'enſeigne l'Auteur de la recherche de la verité , par M. Antoine Arnauld ;
+
+Renati Des Cartes
+
+àCologne 1683.8 . principiorum philosophiæ pars prima et ſecunda , more geometrico demonstratæ perBenedictum de Spinosa , Amſtelodamenſem. Accefferunt ejusdem cogitata me taphyfica , in quibus difficiliores , quæ tam in parte metaphyfices generali , quam ſpeciali occurunt , quæstiones breviter explicantur; Amstelod. 1663. 4. Die ist von Ludovicus Meyer, einem
+
+Freunde des Spinoza , der die Herausgabe und den Druck des Werkes besorgte
+
+Tractatus theologico politicus continens disfertationes aliquot , quibus ostenditur , libertatem philosophandi non tantum salva pietate et reipublicæ pace posse concedi; fed eandem nisi cum pace reipublicæ ipſaque pietate tolli non posse; Hamburgi (Amstelod.) 1670. 4. Der Verfasser ist Spinoza . Eine französische Uebersetzung ist erschienen vom Hrn. von St. Glain , (der sich aber nicht als Ueberseker genannt hat) , mit folgenden drey verschie denen Titeln :
+
+La clef du ſanctuaire à
+
+Amſtd. 168. 22 - Traité des ceremonies super-
+
+[p. 527] ſuperſtitieuſes des Iuifs tant anciens que Reflemodernes , àAmftd. 1678. 12 xions curieuſes d'vn esprit desintereſſé ſur les matieres les plus importantes au fa-lut tant public que particulier; àCologne 1678. 12 Dieser Ueberseßung sind auch beygefügt: Remarques curieuses et neceſſaires pourl'intelligence dece livre, die aus den eigenhändigen lateinischen Ano merkungen des Spinoza zu seinem Exemplar des Tractatus theologico politicus übers ſetzt sind. Von dem Originale existiren noch zwey Ausgaben unter nachstehenden Ziteln; Danielis Heinfii Operum hiftoricorum collectio prima; Lugd Bat. 1673. ed. II ap. Ifaacum Heroulis.-Henriquez de Villacorta M. D. acubiculo Philippi IV Caroli II Archiatri opera chirurgica omnia sub auspiciis potentiffimi Hispaniarom regis; Amstelod. 1673. 8. Deutsch: Benedict von Spinosa über heilige Schrift, Judenthum , Recht der höchsten Gewalt in geistlichen Dingen , und Freyheit zu philosophiren. Aus dem Lateinischen (vermuth . lich von Ewald in Gotha) . Gera 1787. 8. Auch unter dem Titel : Spinosa's philoſophische Schriften. Erster Theil. Gera 1787. B. d. S. Opera poſthuma , quorum series poſt præfationem exhibetur (Amstelod. 1677. 4). Hoc opere continentur: 1. Ethica , more geometrico demonſtrata, et in quinque partes distincta , in quibus agitur a) de Deo; b) de natura et origine mentis; c) de origine et natura affectuum; d) de ſervitute humana ſeu de L12 affecaffectuum [p. 528] viribus; e) de potentia intellectus ſeu de libertate humana; 2) Tractatus politicus, in quo demonftratur , quomodo societas, vbi imperium monarchicum locum habet, sicut et ea, vbi optimi imperant , debet inſtitui , ne in tyrannidem labatur , et vt pax libertasque civium inviolata maneat; 3) De intellectus emendatione et de via, qua optime in veramrerum cognitionem dirigitur; 4) Epiftolaedoctorum quorundam virorum ad B. de S. et auctoris reſponſiones , ad aliorum ejus operum elucidationem nonparum facientes; 5) Compendium grammatices linguae hebrææ. Die Ethica ſind deutsch übersetzt : B. v. S. Sittenlehre nebst Chris frian Wolfens Widerlegung ; Frkfurt und
+
+Hamburg 1744. Spinosa's Ethik , ere fter und zweyter Band. Gera 1790, 1793.
+
+mit sehr schatzbaren Anmerkungen. Auch unter dem Titel : Spinosa's philos. Schrif tenB. 2. 3. Gera 1790. 93. Der Tractatus politicus und die Abhandlung de intell. emend. iſt deutsch erschienen : B. v.S.
+
+zwen Abhandlungen über die Cultur des menschlichen Verstandes und über die Aristokratie und Demokratie herausgegeben und mit einer Vorrede ( von Schack Hermann
+
+Ewald ) Leipzig (Prag) 1786. 8. - Lucii
+
+•Antiftii Conftantis de jure ecclefiafticorum tractatio; Alethopoli ap. Cajum Pennatum 1665.
+
+Philoſophia f. ſcripturae interpres; exercitatio paradoxa, in qua, veram philosophiam infallibilem facras literas interpretandi normam eſſe , apodictice [p. 529] ce demonßratur , et discrepantes ab hac sententiae expenduntur ac refelluntur ; Eleutheropoli 1666, 4. - tertium edita et appendice loach. Camerarii aucta , cum notis variis et praefatione lo. Sal. Semlesi; Halae 1776. 8. Für den eigentlichen Verfasser dieser und der vorhergehenden Schrift wird Ludwig Meyer gehalten. Man hat sie dem Spinoza wegen der ders in enthaltenen den ſeinigen ähnlichen Grundsätze zugeschrieben. - Pensées de M. Pascal für la religion , et ſur quelques autres ſujets; à Amſterdam 1697. 12. - nouvelle edition , augmentée de pluſieurs Penſées, de ſavie et de quelques discours; à Paris 1720. 12. Die vorgesetzte Biogra= phte hat die Schwester Pascal's zur Verfas= serinn.
+
+Deutsch : Gedanken Pascal's , mit
+
+Anmerkungen und Gedanken von J. F. K. (Bleuker) ; Bremen 1777. 8. - Ideen über Menschheit , Gott und Ewigkeit von Pascal, mit Betrachtungen von Carl Heina rich Heydenreich. Erstes Bändchen ; Leipzig ohne Jahrzahl. Voran geht eine Ein leitung über den Zweck und Plan des Pas calischen Werks , und eine charakteristische
+
+Biographie Pascal's vorzüglich in moralischer Hinsicht. - Lettres provinciales ecri. tes par Louis de Montalte (Pascal) à vn Provincial de ſes amis. Avec des notes de Guillaume Wendrock (Nicole). A Leide 1761. 4Tomes 12. Deutsch: Lemgo 1774.
+
+8.- Hugonis Grotii de jure belli et pacis libri III. Die erste Ausgabe erschien zu Paris 1625. 4. Die beste ist: cum notis 1.
+
+[p. 530] 1. Fr. Gronovii, Heur, et Samuel, de Cocceji etc. Laufaunae 1751. V Vol. 4. Sran zosisch: Le Droit de la guerre et de la paix par Hugues Grotiur traduit par lean Basbeyrac; Amitd. 1724. 4; und zulezt Leide 1759. II Tomes. 4. 5. von Ompteda Literatur des Vilkerrechts 5.392 ff.
+
+Samuelis Pufendorfii elementa jurisprudentiae vniverfalis methodo mathematica;
+
+Hagae Com. 1660. lenae 1669. 8. Ejusd. de jure naturae et gentium libri VIII ; Lond. Scan. 1672. 4. Die beste Ause gabe ist: cum notis Hertii, Barbeyraciet Godofr. Mascovii; Francof.et Lips. 1744 und 1759. 2 Tomi 4. Französisch , von Barbeyrac ; zu Amsterdam II B. 4.
+
+Ejusd. de officio hominis et civis libri II ; Lond. Scan. 1673. 8.- cura G.S Treuer;
+
+Lips. 1717 und öfter. Die neuste Ausgabe : cum notis Titii, Ottonis , Barbeyraci , Carmichaeliset Treueri; Lugd. Bat. 1769. II Tomi 8.
+
+Neuere Werke und Hälfsmittel : Admiranda methodus novae philosophiae Renati des Cartes; Vitraj. 1643. 12. - Balthasa visBekkeri de philosophia Carteſiana admonitio candida et ſincera; Vefaliae 1668. 12. Anton. le Grand institutio philosophiae secundum principiaRenati des Cartes, nova methodo adornata et explicata ad vfum juventutis academicae; Londin. 1672. 4.
+
+Ejusd. apologia pro Cartefio contra Sam. Parkerum; Londin. 1672. Ludovici de la Sorge tractatus de mente [p. 531] mentehumana, ejus facultatibuset fanctionibus ; Amstelod. 1669. 4. - 1o. Tepelii hiſtoria philosophiae Carteſianae Norimb. Recueil de quelques pieçes 1672. 12. curieuſes concernant la philoſophie de Mr. Des Cartes; A Amſterdam 1684. 12.
+
+Syſteme de la philoſophie , contenant la Logique, la Metaphyſique , la Phyſique et la Morale. Par Pierre Sylvain Regis; a Petri DanieParis 1690. 3 Tomes. 4.
+
+lisHuitiiCenfura philosophiae Carteſianae; Paris. 1689. 12; Helmftad. 1690. 4.
+
+I
+
+Philoſophise Carteſianae adversus cenſuram Petri Danielis Huetii Vindicatio , in :
+
+qua pleraque intricatiora Cartesii loca clare explanantur , auctore D. A. P. (Doct. Augusto Petermann) Lips. 1690. 4. - LaVie Ade Mr. des Carres. ParMr. Bailet; à Paris 1690. 4. Ebendesselben la vie de Mr.
+
+desCartes abregée; àAmſtd. 1693. 12. Reflexion d'vn Academicien für la vie de
+
+Mr.Des Cartes , envoyée à vn ami en Hollande; à la Haye 1692. 12. - Nouveaux memoires pour ſervir à l'hiſtoire du Carteſianisme. Par M. G. à Paris; 1692. 12.
+
+Eloge de René Des Cartes, Discours qui a concourupour le prix de l' Academie, par Mr. Gaillard; à Paris 1765. 8.- Eloge deRenéDes Cartes, Discours quia concoura pour le prix de l'Academie, par Mr. Thomas; à Paris 1765. 8. Deutsch : Leipzig 1767. 8. Der Preis wurde unter die Ver.
+
+fasser dieser beyden Preisschriften vertheilt.
+
+-Eloge de René Des Cartes par Mr. Mercier; à Geneve et Paris 1765. 8. Deutsch (Von [p. 532] (von K.A. Cäsar) in den: Philosophischen Abhandlungen und Lobreden über Preisauf. gaben der Französischen und anderer Akademieen , von dem Pf. des Werts 2440 (Mercier). Leipz. 1777. 8. 1. 5. 281. Iudicium de judiciis circa argumentum Cartefianum pro exiſtentia Dei ad nostra vsque tempora latis , quatuor in Academia Berolinenſi habitis praelectionibus expofitum et evictum. Auctore Lud. Frid. Ancillon; Berolin. 1792. 8. - Thomas Hobbes, Angli , Malmesburienfis philoſophi, Vita; Caropoli 1681. 12. - lo. Brendenburgii enervatio tractatus theologico politici, una cum demonftratione geometrico ordine dispofita , naturam non eſſe Deum , cujus effati contrario praedictus tractatus vnice nititur; Roterodami 1675-
+
+4.- Christoph. Wittichii Anti- Spinoza, five examen Ethices Benedicti de Spinoza et commentarius de Deo et ejus attributis; Amstelod. 1690.4. Refutationdes erreurs de Benuit de Spinoza. Par Mr. de Fenelon, par le P. Lamy et par le Comte de Boulainvilliers. Avec la vie de Spinoza ecrite par Mr. lean Colerus , augmentée de beaucoup de particularités , tirées d'vne viemanuscrite de ce philoſophe, faitepar vn de ſes amis; à Bruxelles 1731. 8. Dies ist eine Vertheidigung des Spinoza ; keine Widerlegung ; der Namen des Grafen von Boulainvilliers ist erdichtet. - Das
+
+Leben des Benedict von Spinoza aus des nen Schriften dieses berufenen Weltweisen, und aus dem Zeugnisse vieler glaubwürdigen Pers
+
+[p. 533] Personen , die ihn besonders gekannt haben, gezogen und beschrieben von Johann Colero. Aus dem Franz. übers. und mit einigen Ans merkungenvermehrt ; Frkfurt und Leipz. 1733. 8. Das Original kam zuerst holländisch heraus zu Uytrecht 1698 , wurde in's Französische übersetzt und zuerst gedruckt à la Haye 1706. 12.- Spinocismus, five a Benedicti Spinofue, famoſi Atheistae, Vita et doctrina , diſſert. auct. 1o. Wolfg. läger; Bayle Dict. hist. Tubingae 1710. 4. et crit. Ueber das System des Spinosa und über Bayle's Erinnerungen dagegen von Jariges ; in bißmann's Magazin für die Philos. und ihre Geschichte B. V.
+
+6.1-72. Die Abhandlung steht franzde sisch in der Hiſtoire de l'acad. des ſciences Des de Berlin a. 1745. T. I. et II. nedict von Spinosa nach Leben und Lehren, von H. Fr. von Diez. Dessau 1783.8. Ueber die Lehre des Spinoza in Briefen an Hrn. Moses Mendelssohn von Fr. s. Jacobi : Breslau 1785. Neue Auflage ebendas. 1789. 8. - Moses Mendelssohn's Morgenstunden oder Vorlesungen über das
+
+Daseyn Gottes Berlin 1785. Th . 1. 8. zweye Moses te Auflage ebendas. 1786. Mendelssohn an die Freunde Lessing's , ein Anhang zu Hrn. Jacobi's Briefwechsel über die Lehre des Spinosa. Mit einer Vors rede von J. J. Engel ; Berlin 1786. 8. -
+
+Gott. Einige Gespräche von J. G. Herder; Gotha 1787. 8. - Ueber Mendelssohn's
+
+Darstellung der Spinozistischen Philosophie ;
+
+in Cisar's Denkwürdigkeiten 8. IV. X15
+
+Ani-
+
+[p. 534] Animadverfiones in Mosis Mendeliifilii refutationem placitorum: Spinozae ſeripfit K. H. Heydenreich; Lips. 1786. 4.
+
+DieResultate der Jacobi'schen und Mendelss sohuschen Philosophie kritisch untersucht von einem Freywilligen (Thom. Wizenmann) Leipzig 1786. 8. - Natur und Gott , nach Spinosa , von B. 5. Heydenreich B.
+
+I. Leipzig 1789. 8. ( mit einer Biographie
+
+Spinosa's aus einem bisher unbekanten
+
+Mspte). - - Leben Benedicts vonSpinosa. Bon M. Philipson. Braunschweig 1790. 8. Bruckeri hist. crit, philos. T. IV. P. 1. 2. Agatopisto Cromaziano Geschichte der Revolutionen in der Philosophie in den drey lezten Jahrh . übers. von Seye denreich Th. 11.
+
+Tiedemann's Geist Ständs der specul. Philos. B. V. VI.
+
+lin's Geschichte und Geist des Skepticismus B. II. C
+
+§. 964.
+
+Eine höchst merkwirdige Revolution in der Philosophie entstand im Anfange des sieb. zehnten Jahrhunderts durch des Carres, der zuerst unter den neuern Philosophen darauf gerieth , einmal anzunehmen, daß bisher in der Philosophie noch nichts geschehen sey, und bey [p. 535] bey dieser Voraussetzung ganz von vorne anzufangen. Freylich war auf diesem Wege eher Hoffnung, daß man den Grund der Irrthümer und des Unbefriedigenden in den verschiedenen Systemen der altern griechischen und der neuern Weltweisen entdecken, und nach Dieser Entdeckung ein anderes und besseres were de ausführen können. Rene' des Cartes wurde gebohren im J. 1596 zu la Haye in der Mormandie, und stamte aus einem edlen und angesehnen Geschlechte. Die erste literarische
+
+Bildung erhielt er im Jesuitercollegium zu La Fleche , und schon hier zeichnete er sich durch eine feurige Phantasie , kuhne Combi nationsgabe, tiefe Denkkraft, und eine unerfätt liche Wißbegierde aus. Man kann in der
+
+Geschichte seines Geistes drey Hauptepochen unterscheiden. Die erste befaßt seine jugendlichen Studien; die zweyte seine Reisen; und Die dritte die Periode seines Aufenthalts in den Niederlanden. Anfangs herschte in ihm das eifrigſte Beſtreben bloß aus Büchern zu lernen, und sich alle vorhandenen wichtigen Kentniße seiner Zeit zu erwerben. Er las also alles Durch einander , was ihm vorkam; besonders studirte er die verschiedenen philosophischen Systeme der Zeit, und daneben mit dem groß. ten Eifer Mathematik und Astronomie. Von ſeiner fleisigen Lecture der alten Classiker kann selbst der lateinische Styl in seinen Werken ein [p. 536] einZeugnißgeben , der sehr leicht fließend und an genehm ist. Nachdem er das Kloster la Fleche verlassen, und eineZeitlang beyseinerFamiliege lebt hatte , begaber sich nach Paris. Hier über ließ er sich anfangs jugendlichen Ausschweifungen; sein schon an ernsthafte Beschafftigungen und an einsames Nachdenkengewöhne ter Geist kehrte aber bald davon zurück. Er sekte jedoch seine Studien nach eben der
+
+Methode fort , wie er sie angefangen hatte, ohne Plan, unregelmäßig, und uncritisch. Bey aller Mannichfaltigkeit von Kentnis sen, die er sich erwarb, mußte diese Art des Studirens eine von den Folgen haben, welche sie gewöhnlich hat ; sie mußte eine Ueberfülle und Widerstreit der Ideen , Man gel an Gründlichkeit und an ZusammenHang dessen, was er wußte, nach sich ziehen. Er gesteht selbst in seiner Schrift de methodo recte vtendi ratione et veritatem in
+
+ſcientiis inveſtigandi , worinn er seine Studiengeschichte erzählt hat , daß er nach einem langen Zeitraume, wo er höchst fleißig ge. wesen sey, sich von allen Seiten in Verwir. rung, Zweifel und Ungewißheit verwickelt gefunden habe. In der Philosophie war er von einem Systeme zum andern, von einer Theorie zur andern übergegangen, hatte sich eine Zeitlang für jede intereſſirt, hatte Grunde und
+
+Gegengrunde kennen gelernt, und war zuletzt mit [p. 537] mit sich uneinig geworden , was für ein
+
+System das wahre seyn möchte.
+
+Er ges stand sich daher auch daß alle seine Anstrengungen für ihn nur den einzigen Nutzen gehabt hätten, seine Unwissenheit einzusehn. In dem Buche, das ich vorher angeführt habe, sagt er einmal: Simulac ſtudiorum cur, riculum abfolvi , quo decurſo mos eſt in eruditorum numerum cooptari, plane aliud coepi cogitare. Tot enim dubiis, tot erroribus implicatum me eſſe animadverti , vt omnes difcendi conatus nihil aliud mihi profuiſſe judicareın, quumquod ignorantiam meammagis magisque detexiſſem.
+
+Dieses Gefühl, beständig von zweifelhaften Meynungen in der Irre herumgetrieben zu werden , bewog endlich den des Cartes zu dem Entschluße , einmal das Bücherſtudium aufzugeben , Reisen in andre Länder zu machen, und da im persönlichen Umgangemit Gelehrten und in der wirklichen Welt bessere Kentniße zu suchen. Er gieng von Paris nach Holland , nahm Militärdienste unter dem Prinzen Moriz von Oranien , und lebte eine Zeitlang in Breda, wo er mit. in Besatzung lag. Hier schrieb er sein Werk de muſica, das ihn zuerst berühmt machte , und damals in mehrere Sprachen übersetzt wurde. Indessen blieb er nicht lange in Holland, sondern gieng im J. 1619 als Freywilliger unter die bayrischen Truppen, die von Tilly com.
+
+[p. 538] commandirt wurden. In einem Winter lag er zuNeuburg an der Donau in den Winter. quartieren , mochte da Musse haben, um seine Studien zu treiben , und hier ergriff ihn die
+
+Idee, die Philosophie ganz umzuschaffen und ein neues System aufzuführen. Er beschoff. tigte sich mit der Idee so sehr , daß er eine Wallfahrt nach Loretto zur Mutter Gottes ge. lobte, wenn diese ihm in seinem Unternehmen benstande. Zu demProjecte,was er einmal mit * dem ganzen Feuer , deßen seine Phantasie fähig war, ergriffen hatte, kamen noch zu fällig einige grausame Scenen des dreyßigjährigen Krieges, denen er als Augenzeuge beywohnte, und wodurch er bestimmt wurde, 1624 seinen Abschied vom Kriegsstande zu nehmen. Er that noch einige Reisen durch Schlesien, Polen, an der Ostsee herunter, durch Deutschland , Schweiz , Italien , Frankreich, und kehrte endlich wieder nach Holland zurück , um da in Ruhe seinen Vorsakß auszuführen. Schon bey seinen ersten gelehrten Studien hatte DesCarres bemerkt, daß alle bisherigen philosophischen Systeme ihm feine Befriedigung gewährten. Er hatte also über die ganze Philosophie, wie sie damals war, abgeurtheilt, und hielt sich überzeugt , daß es schlechterdings keinen Saß gebe, von dem sich nicht das Gegentheil beweisen ließe ; daß alles ungewiß und zweifelhaft sey; und daß dieses selbst [p. 539] selbst auf alle übrige Wissenschaften Einfluß habe, da sie ihre Principien von der Phi. losophie entlehnen mußten.
+
+Er verglich die
+
+Philosophie mit einem Gebäude, an welchem nach und nach eine Menge von Baus meistern gearbeitet und geflickt habe, deßen Theile daher nicht zusammenpaßten, sondern vielmehr mit einander im Widerstreite wa ren. Es müße also einmal ein neues Gebäude angelegt, und von einem und demselben
+
+Runstler vollendet werden; ohne daß dieser auf irgend ein schon vorhandnes Muster, oder eine schon vorhandne Form Rücksicht nahme. Bey seinem Aufenthalte in der wirklichen Welt hatte Des Carres keine bessere Ueberzeugung gewonnen , sondern diese war vielmehr noch auf alle Art bestärkt werden, Er fand hier noch tausendfachen Aberglauben und Wahn, von. dem er sich schon befreyt hatte; er fand daß Menschen an Meynungen hiengen, ohne irgend Grunde dafür zu haben; er fand eine noch viel größere Verschiedenheit und Abweichung der Meynungen über die wichtigstenGegenstände, als er selbst in seinenBú chern angetroffen. So brachte er von seinen
+
+Studien, wie von seinen Wanderungen , nichts als die Lehre zum reinen Gewinne zurück, daß die Wahrheit unter den Menschen noch nicht erforscht sey , und wurde darüber zum entschie densten Skeptiker.
+
+Der Skepticismus des
+
+[p. 540] Des Cartes hat indessen das Eigenthümliche) daß er nicht Grunde und Gegengrunde zusam menstellte, um dadurch die Ungewißheit philo sophischerBehauptungen zu zeigen; daß er nicht zweifelte, um zu zweifeln; sondern daß er es zum Ziele hatte, an den Plaß des Ungewiss sen etwas Zuverläſſiges zu sehen, wenn anders sich dieses entdecken ließe. Er war also nicht bloß niederreißend und zerstörend , wie es der Skepticismus der Pyrrhonier war; vielmehr hatte er den Zweck, auf einem zuvor ganz gerei nigten Grunde desto sichrer und fester wieder auszubauen. Des Cartes wollte durch den Skepticism zu einem festen Dogmatism gelangen. Da er also nach Holland zurückgekome men war, fieng er seine philosophischen Untersuchungen von neuem, und auf eine neue Art an. DiesePeriode , die er in Holland verlebto, vom J. 1629-1644 ist in seinem literarischen Leben die wichtigste und merkwirdigste. Er gab in derselben seine meisten mathematischen und philosophischen Schriften heraus, Hatte hier die meisten Schuler, die seinen Unterricht genossen, und auch die meisten gelehrten Streitigkeiten. Im I. 1649 wurde er von der Königinn Christine von Schweden eingeladen, nach Stockholm zu kommen, und sie in der Philosophie zu unterrichten. Schon früher hatte er einen Rufan denHofLudewigs XIII K. v. F. erhalten, diesen aber abgelehnt , theils [p. 541] theils um in seiner Unabhängigkeit zu bleiben, und seinen Betrachtungen ruhig nachhängen zu können; theils aber auch wohl aus einer Abnei.
+
+gung gegen sein Vaterland überhaupt, und vorzüglich gegen den Aufenthalt in Paris. Die Einladung der Christine aber muß für seineEitelkeit zu schmeichelhaft gewesen seyn , als daß er ihr hatte widerstehen können. Diese geiste volle Fürstinn hatte die berühmteſten Gelehrten um sich her versammelt , nahm selbst an ihren Arbeiten und Beschafftigungen den lebhaftesten Antheil, und erhob sich dadurch zu einem Gegenstande der allgemeinen Bewunderung. Da sie aber sehr launigt, in ihrer Denkart höchst unbeständig war, so konten nur wenige sich lange in ihrer Gunst behaupten. Auch Des Cartes verlor diese, wurde darüber misver gnügt, und starb an einem hitzigen Fieber im J. 1650. Er erhielt auf Befehl der Konie ginn eine sehr ehrenvolle Grabschrift. §. 965. Wenn Man das wissenschaftliche Verdienst des Cartesius beurtheilen will , so muß man bey ihm den Mathematiker, Physiker , Astronomen und Kosmophysiker von dem
+
+Philosophen unterscheiden. In den erstern Hinsichten war er unvergleichbar größer , als in der letztern.
+
+Die Geometrie, so wie die
+
+F
+
+[p. 542] Dioptrik, dieMechanik, sind von ihm ausserordentlich erweitert worden, und er war es, der die großen Erfindungen , welche nachher
+
+Leibniz , Neuron u. a. in diesen Wissen schaften machten, vorbereitete. Wo er sicher rechnen und messen konte, da machte er auch wirklich neue wichtige und gegründete Entdek. kungen. In der Kosmophysik und Astronomie war dieses weniger der Fall; die Axiome, von denen er hier ausgieng, und auf welche er seine geometrische Methode anwandte, waren nicht Axiome, wie sie die eigentliche Mathematik zum Grunde legt, und zumGrunde legen darf; es waren willkührliche Hypothesen , die er nach einseitigen oder gar falschen Beobachtungen voraussekte. Aus einer solchen Hypothese z. B. von der Centrifugalkraft, gieng seineWirbeltheorie hervor, die sich schon damals nicht gegen Anfechtungen behaupten konte, und in der Folge durch das Neutonsche System ganz umgeworfen wurde. In der Astronomie nahm er sich inzwischen des Copernicanischen Systems an, und trug dadurch sehr viel zur allge. meinen Verbreitung und Annahme desselben bey . Dies gehört nun hierher weiter nicht. Ich mußte aber es deßwegen im Allgemeinen be. rühren, weil eigentlich die Werke mathema. tischen, physikalischen , meteorologischen und kosmophysischen Inhalts es waren, welche auch einen Glanz auf die Philosophie [p. 543] des Cartesius warfen, und diese bey seinen Zeitgenossen und bey der Nachwelt so berühmte gemacht haben , was sie durch sich selbst schwerlich geworden seyn wurde, wenigstens nicht bey der Nachwelt. So aber wurde man durch das wissenschaftliche Interesse, das jene haben, sofern sie wirklich Wahrheit, oder doch sinnreiche, kuhne , erhabene Hypothesen enthalten, an diese immer erinnert , und man dachte unter dem Namen der Cartesianischen Philosophie oft mehr an seine Physik und Rosmophysik, als an seine eigentliche Philosophie selbst. Diese letzte reducirte sich genau besehen auf einige allgemeine praktische Lehren über die philosophische Methode, gegen welche Lehren zum Theile, besonders wie Des Cartes sie verstand und anwandte, sich noch manches er innern läßt; zweytens auf einen Versuch der
+
+Selbstverständigung in der Metaphysik , der in DenMeditationibus de prima philosophia ent
+
+Halten ist , wobey Des Cartes von der ent - ſchiedensten Skepsis ausging , aber sich sehr bald in den einseitigsten und unphilosophischsten Dogmatismus verlor; 3) in einer mechani. ſchen Psychologie, die er in mehr kleinern Schriften z B. in dem Tractate dehomine et de formatione foetus ausführte, 4) endlich in einen Tractat de passionibus nine, in welchem auch seine Begriffe über Moral ver. kommen.
+
+§. 966.
+
+[p. 544] §. 966.
+
+Des Cartes nahm sich vor, alles, was er wußte , alle andre Systeme und Meynungen , Die er gefaßt hatte, zu vergessen , und gleich. sam aus seiner Seele auszulöschen, und sich bloß daran zu halten, wozu ihn sein eigenes Bewußtseyn und Nachdenken darüber führen würden. Diesem Vorsake gemäß legte er fol. gende logische Principien als Regeln derMe thode zum Grunde , die seine ganze Manier zu Denken und zu forschen charakterisiren. I. Nichts ist wahr, was nicht innere Evidenz im Bewußtseyn hat , oder was die Vernunft nicht so deutlich und bundig erkennt , daß ein Zweifel daran schlechthin unmöglich ist. II. Beyrt Nachdenken muß man von dem Einfachen und unmittelbar Verständlichen ausgehn , und in einer ordentlichen regelmäßigen Schlußreihe zu dem Zusammengesextern , Dunklen und Schweren fortschreiten. Dies ist die Methode der Geometrie, die in ihrer Art die zuverlässigste ist. III. Man muß die Mittel, die Wahr heit zu finden, und zugleich die Schwierigkeiten, die dem Gebrauche derselben im Wege ste hen, sorgfältig sammeln und kennen lernen; hernach die Schwierigkeiten in soviel Bestandtheile auflösen, wie nöthig ist, sie zu heben; nie aber hier einen Sprung machen und eine Lucke lassen. IV. Man muß nichts für wahr Hala halten ohne Grunde, etwa auf Autorität, des Beyspiels andrer wegen. Diese wenigen Regeln machen in der Hauptsache die praktische
+
+Logik des Des Cartes aus. Er hat sie aber weder recht verstanden , noch recht gebraucht.
+
+Besonders von der Evidenz und Bundigkeit einerErkenntniß, sofern die Bundigkeit nicht bloß von den nächsten , sondern von den letzten Principien abhängt, waren seine Vorstellungen noch unrichtig oder unentwickelt geblieben. Nach der obigen Methode fieng nun des Cartes seine Betrachtungen von dem Puncte an , daß er nichts wisse, und hierin ist er in der Geschichte Der philosophischen Köpfe bis zu seiner Zeit einzig in seiner Art. Was sich ihm hier zuerst Darbieten mußte, war das Bewußtseyn seiner selbst. Dies konte er in seinen geistigen Juständen, in seinem Empfinden , Vorstellen und Denken nicht verkennen. Er nahm in sich selbst unmittelbar eine Thätigkeit wahr, die er auf keine Weise zu bezweifeln vermochte. Hier. durch drang sich ihm zuvorderst die Ueberzeugung von seinem eigenen Daseyn , seiner wirklichen Existenz auf. Daher sein be. rühmter Schluß: Cogito , ergo ſum, den man seltsam finden muß, wenn man nicht weiß, wie er darauf gerieth , und warum er damit anhob.
+
+Man
+
+[p. 546] Man hat über dieses Princip des Descartes sehr viel gefrittelt. Effendi , der Gegner des Descartes und wohl der scharfsinnigste von Allen , die er hatte , wollte es durch eine Parodie umstoffen. Statt Cogito, erge fum wandte er ein , könne man sagen: Ludificor , ergo fum. Mein Bewußtseyn bar mich zum Beſten, und also existire ich. Dieses würde doch, wie Gaſſendi glaubte, ein fals scherSchluß seyn. Allein das wäre es nicht.
+
+Ludificor , ergo fum , kann ich ganz confes quent schließen. Denn eh mich Jemand zum Besten hat , muß ich doch existiren , und folglich kann ich mit Recht das Erstere aus dem Lestern folgen. Ludificor , ergo fum ist insofern identiſch mit Cogito, ergo fum. Andere haben die Form des Enthy mems gerad lt ; es sen nehmlich im Cirkel abgefaßt ; Man könne auch sagen : Sum cogitans , ergo sum. Allein dieser Cirkel tk Hier unvermeidlich.
+
+DesCartes suchte ein erstes Princip, Das war sein eigenes Seyn.
+
+Dieses sezte er schlechthin als Factum. Dieses Factum aber , wie wird es gefunden ? Durch Denken und im Denken ; also gab er ſeinem Daseyn das Denken als ursprüngliches Merkmal. Sum cogitans , ergo fum. Es ist das im Wesentlichen nichts anders , als wie der berühmte Fichtesche Sak : Ich bin Ich und setze mich ſelbſt. Das Ich bin Ich , ist ein Urtheil. Jb urtheile oder Dente, und durch das Denken sehe ich mich selbst. Cogito, ergo fum. Der Unterschied, den Hr, Fichte zwischen seinem Prine cipe [p. 547] cipe und dem Cartesischen finden will , ist eine bloße Spiksindigkeit. Nur hat er sein
+
+Princip consequenter verfolgt , als Cartesius that.
+
+§. 967.
+
+DieHauptsäße des Descartes waren wei ter diese: Ein Wesen, das sich seiner geisti.
+
+gen Zustande durch unmittelbare Wahrnehmung bewußt ist , existirt , und das wirkliche Daseyn wird folglich mit Evidenz aus dem Denken geschlossen. II. Was wirklich da ist, ist eine Substanz. Der Mensch also , inso. fern sich seine wirkliche Existenz durch Denken verrath, ist eine denkende Substanz. (Seele). III. Die Seele, durch welche der Mensch denkt und existirt , ist für sich von allen äuſſern materiellen Dingen verschieden und unabhängig. Denn daß die Seele als denkende Substanz vorhanden ist , wird un. mittelbar erkannt; sie wurde also denken und existiren , wenn auch keine materielle Dinge vorhanden waren , und macht ein ganz für sich bestehendes Princip aus. IV. Die Seele läßt sich daher auch ihremDaseyn und Wesen nach leichter erkennen , als
+
+Der Körper; denn ihr Wesen besteht im Denken, und aus dem Denken kann man auf Daseyn schließen. Die Deutlichkeit und
+
+In
+
+[p. 548] Intuitivität des Denkens ist das Kriterium der Wirklichkeit und Wahrheit ; weil bloß das, was man deutlich denkt, wirklich existirt und wahr ist. V. Die Seele denkt und erkennt nicht alles gleich deutlich; sie ist Zweifein untermorfen; jeder Zweifel ist eine Unvollkommenheit bey einer Substanz , deren Natur im Denken besteht. Die menschliche Seele ist also eine unvollkommne Substanz. Dabey sieht sie jedoch ein, daß es besser seyn wurde, nicht zu zweifeln, vielmehr weise und volle kommen zu seyn; sie hat also auch in sich die Idee eines absolut vollkomnen Weſens, Als unvollkomne Subſtanz kann sie gleichwohl eine folcheIdee nicht selbst erzeugt haben. Diese muß also angebohren seyn. VI. Das erste Attribut des vollkommensten Wesens ist die Existenz; es muß also existiren; und es ist Grund und Ursache der Idee, die der mensch.
+
+lichen Seele von ihm einwohnt.
+
+Wird die
+
+Idee der Gottheit genauer erwogen, so zeigt sich , daß diese alle unendliche und vollkom ne Eigenſchaften in sich schließen; hingegen je de Begrenzbeit und jede Unvollkommenheit ausschließen muß. Nun sind aber die Körper, die von uns wahrgenommen werden, beschränkt und theilbar , also unvollkommen; die Gottheit kann demnach kein Körper seyn , sondern sie ist der unendliche Geist , von wel.
+
+chem die menschliche Seele, als sein edleres
+
+こら
+
+[p. 549] Geſchöpf, ein unvollkomnes Ebenbild ist. VII. So lange das Daseyn Gottes nicht angenommen, oder eingesehen wird, ist die Deutlichkeit der Erkentniß zwar das Kriterium des Wah. ren, und Wirklichen , weil kein anderes übrig ist, wonach wir entscheiden konten.
+
+Aber es bliebe doch immer die Möglichkeit übrig, daß der Mensch sich betrüge, und daß selbst solche Erkentniße , die er auf's evidenteste ein. zusehen glaubt , bloße Täuſchungen waren. Hingegen mit dem Erweise des Daseyns Gote tes wird zugleich die Evidenz aller Wahrheit in ihrem Ursprunge und ihrer Gültigkeit begründet. Denn da Gott der Urheber des Menschen und des Universums ist , so ist er auch der Urheber der Wahrheit; und es widerspricht der Wahrhaftigkeit und Une veränderlichkeit Gottes , daß er den Men schen habe durchaus betrugen wollen, oder daß er nur zugelassen habe , daß der Mensch sich selbst immer betrüge. Es giebt demnach Grund begriffe und ewige Grundgeseke der Wahrheit, und diese sind alle angebohren , und von Gott unmittelbar der menschlichen Seele eingepflanzt. Man sieht hier schon offenbar nicht nur die raschen Sprünge, die Cartesius in seinen
+
+Schlüßen machte, sondern auch den logischen Cirkel, in welchem er sich dabey herumdrehte. Er nahm anfangs die Deutlichkeit und unmittelbare Intuitivitat des Denkens als das Kri
+
+[p. 550] Kriterium des Wahren an , gab aber doch zu, daß eine Täuschung dabey statt finden könne, und mithin die Skepsis an aller WahrHeit der Möglichkeit nach übrig bliebe. Demungeachtet folgerte er aus dem bloßen Denken eines vollkommensten Wesens als Kriterium der Wirklichkeit die nothwendige Existenz desselben , und brauchte nun diese wiederum, um daraus die Untriglichkeit jenes Kriteriums zu beweisen. Also aus einem ungewißen Kriterio folgerte er den Sak: Es ist ein Gott, als apodiktisch gewiß , um mit Hülfe dieses Satzes jenes ungewiße Kriterium zur Gewiß. Heit zu erheben. Hier begieng er nun einen offenbaren Erschleichungsfehler. Wenn dieDeut lichkeit des Denkens an und für sich noch ein unsicheres Kriterium des Wahren ist , so ist auch die Existenz Gottes unsicher, sofern sie bloß auf eine deutliche Idee des vollkommensten Wesens sich stust. Und ist diese unsicher, so kann aus ihr nimmermehr auf die
+
+Existenz einer gewißen Wahrheit überhaupt, die von Gott der Seele unmittelbar mitgetheilt ware , geschlossen werden. Indeßen raisonnirte Des Cartes in seinem einmaligen Schluß.
+
+gange nun immer weiter. VIII. Gott als das unendliche Wesen ist auch der Urheber des Universums. Dieses ist unendlich , wie er selbst ist. Es giebt kein bloßes Leeres , son.
+
+dern überall ist Materie.
+
+Wo Materie ist , ist Ausdehnung, und ohne die Materie ist die Ausdehnung nichts ; die Materie und dieAus Dehnung sind identisch. Man kann das charakteristische Merkmal der Körperwelt Materie oder Ausdehnung nennen, das ist einerley. Sofern die Materie ausgedehnt ist , und eine Theilung zuläßt , steht sie den denkenden Substanzen, die einfach sind, entgegen, und es laſſen sich überhaupt zwey Gattungen von Substanzen specifisch unterscheiden , die ausgedehnten und die einfachen, körperliche und geistige Substanzen. IX. Sofern das
+
+Universum von Gott erschaffen ist, konte es nicht so vollkommen seyn, wie sein Schöpfer, Es bestehe also aus unvollkomnenSubstan. zen, die sich in verschiedenen Graden der Vollkommenheit nähern, Als unvollkommen und als Substanzen , die ihren Grund des Dasenns nicht in sich selbst haben, können sie auch nicht durch sich existiren, ſondern bedure fen in jedem Momente der Assistenz Gottes zu ihrer Erhaltung, denn ohne diese würden ſie augenblicklich in das Nichts versinken. Des Cartes stellt daher die Fortdauer der
+
+Dinge nicht als eigentliche Fortbauer, sondern als unaufhörliche Wiederhervorbringung der selben durch die Gottheit in jedem Momente vor.
+
+Dies ist das sogenannte System der
+
+Assistenz Gottes , was die Schuler des Des
+
+Cartes hernach , hauptsächlich in Beziehung [p. 552] auf das Problem über den Grund der Harmonie zwischen Leib und Seele, noch weiter aus bildeten und modificirten. X. Das Wesen der Körper besteht in den drey Abmessungen, in die lange, Breite, und Tiefe, die also Cartesius nicht bloß für nothwendige Eigenschaften des Raumes , sondern für Eigenschaften der Materie selbst hielt und freylich halten mußte , da er Materie und Raum identisch nahm. Nun entsteht aber die Frage: Dachte er dabey gar nicht an die Soliditär, und wie er erklärte denn diese?
+
+Er dachte allerbings daran und erklärte sie folgendermaßen. Auf die Solidität der Materie, sagt er, schliefen wir bloß aus dem Widerstande , den ein Körper unserer Berührung entgegensest, ン und vermöge deren er seinen Ort zu behaupten suchte. Nun nehmt aber einmal an, fährt Cartesius fort , daß dieMaterie, so wie ihr sie berührtet, immer vor euch wiche, wie der blo-
+
+He Raum vor der Berührung immer weicht. Wir hatten also keinen Grund der Materie Solidität beyzumessen , und doch wurdeMa terie dieselbe seyn, die sie vorher war. Die Solidität wird also aus einem zufälligen Verhältniß der Materie geschlossen und ist keine wesentliche Eigenschaft derselben.
+
+Diese leßter re besteht vielmehr bloß in der Ausdehnung und ihren drey Abmessungen in die Länge, Breite und Tiefe, Daß aber die Materie [p. 553] nicht weicht und daß sie dem Drucke widersteht, komt theils daher, weil sie nicht wei chen kann, indem alles mit Materie angefüllt ist, theils aus dem verschiedenen Grade der bewegenden Kraft , die von der Gottheit im Universum verbreitet wurde. Eben weil Cartesius dieMaterie und die Bewegung für die Grundprincipien der Körperwelt hielt , so that er einen ähnlichen Ausspruch , wie einst Archimedes : Gebt mir Materie und
+
+Bewegung, und ich will euch Welten bauen.
+
+§. 968, Des Cartes unterschied das Lebensprincip von dem Seelenprincipe. Jenes ist in der Natur der Grund aller vegetabilischen und animalischen Bewegung; dieses ist der Grund des Denkens und der Erkentniß. Das letztere komt bloß denMenschen zu , nicht den Thieren;
+
+und daher die berühmte Behauptung des Des Descartes, daß die Thtere bloß belebte Maschinen seyen, die aber kein Empfindungsund Vorstellungsvermögen und noch weniger ein Willensvermögen hätten. Man sollte glauben, daß die oberflächlichste Beobachtung der
+
+Thiere und Vergleichung ihrer psychologischen Neuf
+
+[p. 554] Heusserungen mit den menschlichen den Des Cartes vom Gegentheile überzeugt haben muß te; aber er wußte dennoch seiner Behauptung eine gewiße Wahrscheinlichkeit zu geben. Er berief sich darauf, daß der menschliche Körper viel scheinbar willkührliche Verrichtungen bewirke , wozu es der Seole gar nicht bedürfe , die auch die Seele nicht einmal erkenne und noch weniger bestimme. Die Bildung des Kindes im Mutterleibe geht ohne Erkentniß des Kindes und der Mutter selbst vor sich. Ist das Kind gebohren, so werden alle seine Thá tigkeiten zunächst durch die Disposition des Körpers bestimt, und die Seele nimt daran feinenthätigen Antheil, wenn sie auch jene in der
+
+Folge erkennt. Auch bey_erwachsenen Menschen geschehen viele körperliche Verrichtungen ohne alle Beyhülse der Seele; sie geschehen nicht, weil die Seele sie erkennte und bestinim te; sondern die Seele erkennt und bestimt sie, weil sie durch den Körper geschehen. Daß der Körper unabhängig von der Seele scheinbar willkührlich wirken könne, bewies Des Cartes auch daraus , daß , wenn wir irgend wohin gehen wollen, so bewegt sich der Körper über die Straßen fort, ohne daß wir nur einmal daran Denken, den Körper so oder so zu bewegen;
+
+Dieser bewegt sich selbst nach einer in ihm liegen. Den Disposition. Wenn wir ausgleiten und fallewwollen, so macht der Körper allerhand Weye
+
+[p. 555] Wendungen und Biegungen , um das Gleich.
+
+gewicht zu erhalten oder wiederherzustellen, und das Fallen zu vermeiden. Diese Wendungen und Biegungen werden nicht von der Seele be. stimt , etwa nach Begriffen vom Gleichgewichte und den Bedingungen desselben, sondern ganz instinctmässig vom Körper. Nun denke man sich einmal, daß im Menschen die erken. nende, denkende , und wollende Seele nicht ware, so wäre der Mensch eine bloß belebte körperliche Maschine, und dergleichen sind die
+
+Thiere. Alle ihre Neusserungen sind bloße Folgen der körperlichen Organisation und des Lebensprincips, welches in dieser wirkt. Die äussern Dinge machen auf das Lebensprincip
+
+Eindrücke, und dieses wird dadurch gereizt, den Körper, auf eine bestimte Weise in Thätigkeit zu sehen.
+
+Es war consequent, daß Des
+
+Cartes auch den Thieren das Empfindungs. vermögen absprach , und alles , was bey den Thieren einen Empfindungszustand ausdrückt, auf bloße körperliche Bewegung zurückführte.
+
+Die Grunde, welche er brauchte, sind höchst sonderbar. Bey einem plöglichen großenGe tose entsekt sich Jemand ; das thut auch der Hund, der neben ihm liegt. Injenem ist dies ursprunglich eine Erſchütterung des Körpers, so wie die Gegenstände , die ihn , etwa wenn er sich in einem möblirten Zimmer befindet , umgeben, auch erſchüttert werden. Das ren [p. 556] ren des Getoses , der Begriff von Schrecken, Furcht , das sind bey Jenem Seelenzustande, die erst folgen , nachdem die Erſchütterung des Körpers schon vorhergegangen ist , die aber bey dem Hunde gar nicht eintreten. Ferner daraus, daß ein Hund schrent, wenn er geschlagen wird , darf man gar nicht schließen , daß er Empfindung habe. Ein Schauspieler ahmt alle Gebehrden nach , wodurch sich ein gewisser
+
+Empfindungszustand ausserlich verrath , ohne doch wirlich in diesem Zustande zu seyn; die äuſſern Gebehrden sind also gar keine sichere Zeichen des Innern. Oft leiden Menschen die
+
+Heftigsten Schmerzen , wie den chirurgischen Operationen, thun aber im Äussern, als ob sie nicht das Geringste davon empfänden. Das Schreyen des Hundes ist nach Des Cartes nichts weiter , als die Reaction der körperlichen
+
+Hundsmaschine gegen die Action des Stockes. Gegen diese Behauptung ſprechen gleichwohl die gemeinste Erfahrung von den Thieren , von der Aehnlichkeit ihrer sinnlichen Organisation mit der unsrigen, ihres sinnlichen Benehmens mit dem unsrigen, zu laut, als daß man sie für etwas mehr als für eine eigensinnige schlechthin unerwiesene Hypothese halten konte. Das Lebensprincip , was in den Thieren wirkt , wirkt auch im Menschen, und macht nebst der Organisation der Materie seine animalische for.
+
+perliche Natur aus. Des Cartes hat sich aus. ferserordentlich [p. 557] viel Mühe gegeben, den körperlichen Mechanismus zu erforschen und zu erklären. Er anatomirte in der Absicht sehr viele Thiere und nahm auch hier die Miene eines originalen Untersuchers an. Als ihn einst ein fremder Gelehrter besuchte und nach seiner
+
+Bibliothek fragte , wies er auf ein aufgeschnit tenes Kalb hin mit den Worten: voila ma bibliotheque. Seine Tractate de homine vt machina und de formatione foetus enthalten ein System der Physiologie und der mechanischen Psychologie. Er beschreibt in jenem eine Maschine, welche ganz dieselben Wirkungen
+
+Hervorbringen wurde , wie der menschliche Körper, wenn man nur im Stande ware, sie zu beleben. Das Princip des Lebens versekte er in die sogenannte Zirbeldrise (glandula pinealis) im Gehirne , von welcher aus sich
+
+Die Lebensgeister in den Körper verbreiteten, und in welche sie wieder zuruckstromten. Eben Diese Druse wies er auch der denkenden Seele zum Sitze an , weil sie von derselben aus, da jene im Mittelpuncte des Gehirns befindlich sey, die Lebensgeister und mittelst dieser den Körper am besten regieren konte. Zu des Des Cartes
+
+Zeit fand die Hypothese , so wie das physiologische und psychologische System desselben über-
+
+Haupt, bey Einigen Beyfall ; ikt gehört sie zu den antiquirten physiologischen und psychologischen Grillen. Nicht nur ist der Begriff von Buble Beich.d. Phil, 6. Th. ate Hälfte. N n ei [p. 558] einem räumlichen oder örtlichen Sige der See te, als eines einfachen geistigen Princips, gang widersinnig ; sondern man hat auch die Beobachtungen gemacht, daß manchmal jene Drüse im Gehirne, in welcher die Geele ihren Sig haben sollte, verknorpelt und verknöchert ist , und Haller bemerkt sogar einen Fall , wo sie ganz fehlte, obgleich die Menschen bey ihrem Leben so gut empfunden und gedacht hatten, wie andere.
+
+Die Behauptung , daß die Thiere Maschinen seven , hatte schon vor dem Des Cartes ein Spanier , Gomez Pereira , in einem Werkes MargaritadAntoniana betitelt : S. Bayle
+
+Dict. art Pereira. Man hat deßwegen ges glaubt , daß jener sie von diesem entlehnt eb habe. Alein sie war, wie Brucker (Hist. crit. philos. T. IV P. 2. p. 29) richtig bea merkt , eine natürliche Folge seines psycho logischen Systems überhaupt. Da er die menschliche Seele als denkende Substanz ans nahm , und aus diesem Charakter derselben ihre Immaterialität und Unsterblichkeit fole gerte; so konte er den Thieren keine Seele zuschreiben , und mußte diese für belebte Maschinen erklären.
+
+S. Cartesii prine.
+
+philos. P. I art. 50. Epp. P. 1. ep. 54. 67.
+
+P. II. ep. 2. Vergl. die Vorrede von Claude
+
+Clerfelier zu der französischen Uebersetzung des Tractats de homine vt machina , die auch in's lateinische übersetzt vor der Ausgae be des Originals (Amsterdam 1677. 4) steht.
+
+[p. 559] n steht. Die Cartesianer wurden in der Folge über diesen Punct des Cartesianismus , die Thierseelen betreffend , strettig.
+
+§. 969. dinsd
+
+Die eigentliche Seele im Menschen exla stirt nach dem Des Carres ganz für sich und unabhängig. Ihr Geschafft ist Empfinden, Erkennen, Denken und Wollen. Der Körper empfindet gar nicht , sondern die Seele ist es , welche empfindet, und das eigentliche Wesen des Menschen besteht nur in der Seele.
+
+Was die Ideen betrifft welche die Seele hat, so schiedDes Cartes sie in drey Gattungen. Die erste begreift diejenigen, welche sich auf äussere Förperliche Gegenstände beziehen , und also von aussen in's Gemuth kommen; wie z. B. die Idee der Sonne , nachdem jemand die Sonne einmal oder öfter gesehen hat.
+
+Die zweyte begreift die von der Seele künſtlich nach ihren innern Gesetzen gemachten Ideen (notiones factitias); z. B. die Idee der Sonne, wie sie sich ein gelehrter Astronom oder Kosmophysiker bildet. Die dritte Classe enthält die angebohrnen Ideen , die auch natürliche ( ideas naturales) vom Des Carres genannt werden; dergleichen sind die Ideen von Gott, vom Gei
+
+Ite, [p. 560] ste, von den Naturen, welche wir schlechthin Wesen oder Substanzen heißen , von den geometrischen Formen, von den Axiomen der Mathematik. Das Kriterium , wonach Des Cartes die angebohrnen Ideen bestimte, war nicht etwa die Allgemeinheit derselben , wie beym Plato , sondern die Intuitivität derselben , ihre Evidenz. Sofern sie Des Cartes mit der vollesten, und bestimtesten Deutlichkeit zu denken wähnte , hielt er sie für angebohren. So dachte er sein eigenes Seyn , mit der höchsten Evidenz; gleichwohl beruhte dieses Seyn nur aufdem Denken; et erklärte alſo ſein Wesen für eine denkende Substanz ; da er aber diese Idee nicht von aussen, bekommen haben Lonnte, so erklärte er sie für angebohren. Der selbe Fall war mit den mathematischen Uriomen und Formen, die er bloß ihrer Evidenz wegen für angebohren hielt. Es bedarf wohl keiner Erinnerung, wie unbestimt und schwankend dies Kriterium der angebohrnen Ideen war ; denn es beruhte daben alles auf der subjectiven Klarheit des Bewußtseyns und der Ueberzeugung, die bey verschiedenen Menschen und dem selben Menschen zu verschiedenen Zeiten äusserst verschieden ist; wodurch also das Kriteriumeiner Tauschung der Phantasie und des Gefühls beständig ausgesetzt bleibt. Auch ließ sich nach diesem Kriterium die Zahl der angebohrnen
+
+Ideen nie vollständig bestimmen. Die Mog lich.
+
+lichkeit der Wahrnehmung von Sinnengegens ſtänden erläuterte Des Cartes hierben folgen. dermaßen: Die äussern Dinge sehen durch ihre Eindrucke die Lebensgeister in Bewegung; diese ſteigen hinaufzum Gehirne , und bilden in dem selben einen Canal oder Typus, der jenem Ein drucke und seiner bestimten Beschaffenheit cor respondirt desGegenstandes selbst ; sondern die Seele ere kennt denTypus, und nun entsteht erst die Idee in ihr , die also von dem Typus sowohl als dem Gegenstande des Eindrucks völlig verschieden ist. Diese Ideen verbindet und bearbeitet die
+
+Seele durch ihre Denkthätigkeit nach ihren innern Gesetzen. Aus den Ideencanalen imGe hirne und der Strömung der Lebensgeister aus einem in den andern leitete Des Cartes auch das Phänomen der mechanischen und unwillkührlichen Ideenaſſociation ab. Gesezt jemand ist an einem gewißen Orte, so bekomt er zu gleicher Zeit und in Beziehung auf denselben Ort mancherley Eindrucke.
+
+Diese bilden im
+
+Gehirne mancherley Ideencanale , die an einander grenzen. Wird nun einmal durch Zufall einer jener Eindrücke erneuert, so stromen Die Lebensgeister auf's neue in den alten ihm entsprechenden ehedem schon gebildeten Ideencanal hinein, und aus diesem stromen sie in die benachbarten Canale und erwecken die daran haftenden Ideen. So entspringt die IdeenasNn 3 so= [p. 562] fociation. Auch diese Hypothese hat so viel gegen sich, daß sie in der neuern empirischen Piy chologie aufgegeben ist. - In Ansehung des
+
+Verhältnißes des Körpers zur Seele ent stand beym Des Cartes die Frage : Worin liegt der Grund der genauen Harmonie zwischen benden, daß auf bestimte Veränderungen des Körpers bestimte Veränderungen in der Seele erfolgen , ungeachtet bende von ganz verschiede ner substantieller Natur und von einander un abhängig sind ? Den ältern Philosophen konte diese Frage nicht einfallen, da sie den Gegensatz zwischen Geist und Körper nicht so scharfdach ten, wie Des Cartes ; die gegenseitige Einwirkung beyder also nicht das Unerklärliche für sie haben konte, was sie nach jenem Gegensaße haben mußte; denn bey diesem erschiendie ge. genseitige Einwirkung beyder auf einander als ganz unmöglich. Den physischen Einfluß des Körpers auf die Seele und umgekehrt leugne. te Des Cartes auch deßwegen, weil dieselbe Quantitat der Bewegung in dem Körper erHalten werden müſſe nach einem Naturgeseke, welches die Seele nicht abzuändern vermöge, welches aber abgeändert werden wurde, sobald man den physischen Einfluß gestatte. Der Körper behalte also immer dieselbe Quantitat der Bewegung , und der Seele sey hierauf gar keine andere Einwirkung übrig, als daß sie die Direction der Bewegung nach ihrer Willkühe leice.
+
+[p. 563] leite. Um aber die Harmonie zwischen Seele und Körper zu erklären , nahm Des Cartes eine bloße Zusammengesellung bender Substanzen, desKörpers und der Seele , an , und das Mittelglied ihrer Verbindung sen die Gottheit (ſyſtema alliſtentia)
+
+Gott erhält in jedem
+
+Momente durch seine Assistenz den: Körper so wohl als die Seele in ihrem Daseyn; er ist ine sofern der metaphysische Grund ihrer gegensei cigenVeränderungen, als er der Seele in dem jenigen, was sie nicht durch eigene Freyheit bewirken kann, Beystand leistet.
+
+Diese Hypothese des Des Cartes ward die erste Ursache , daß das Problem vom Grunde derHar monie zwischen Leib und Seele eine Lieblings materie der Metaphysiker bis fast auf die Mitte dieses Jahrhunderts geworden ist. Die Freyheit der Seele bewies Des Cartes daraus, daß sich die Seele frey denke. Aus der Freyheit aber folgerte er wiederum die Möglichkeit des Irrthums. Gott selbst kann nicht die Ursache des Irrthums seyn; auch hangt der Irrthum nicht vom Verstande, sondern vom Willen ab ; und inBeziehung aufdieGottHeit ist er eine bloße Negation; in Beziehung auf die Menschen aber eine Privation. Der Verstand des Menschen ist beschränkt ; hingegen
+
+Der Wille in gewißem Betrachte unbeschränkt; er kann sich auch über das hinaus erstrecken , was wir nicht klar und deutlich wahrneh menw [p. 564] men, und dadurch geschieht es , daß wir in Ferthum gerathen. Daß uns aber Gott einen beschränkten Verstand gab, kann ihm auf fet ne Weise zum Vorwurfe gereichen; denn die seEigenschaft war für einen erschaffenen Verstand nothwendig. Daß hingegen der Wille frey iſt, ſtimte abermals mit der Narur des Willens zusammen , und druckt diehöchste Volle kommenheit des Menschen aus , sofern er da durch selbstständiger Urheber seines Thuns und Laſſens wird. Da wir inzwischen die Macht Gottes als unermeßlich anerkennenmuſſen, ſo konte leicht die Behauptung frevelhaft scheinen, daß die Menschen etwas zu thun im Stante wären, was nicht von Gott vorher angeordnet sey, und damit wäre die menschliche Freyheit wieder aufgehoben. Aus dieser Schwierigkeit glaubte Des Carres sich durch die Bemerkung herauswinden zu können, daß der menich liche Geist ein endliches Wesen; Gottes Macht aber und Vorausbestimmung der Dinge un endlich sen; daher wären wir nicht fähig, das
+
+Verhältniß zu beurtheilen, in welchem die Freyheit der menschlichen Seele zur göttlichen Almacht und Allweißheit ſtehe. Gleichwohl verliere dadurch die wirkliche Existenz der Freyheit nichts, indem wir von ihr mittelst des Bewußtseyns derselben als einer evidenten Thatsache überzeugtwären, und also gar keinen Grind hätten, sie zu leugnen oder zu bezweifeln Car-
+
+[p. 565] Cartesii Princip, philos. P. II. cf. Balfingers gardiff. de harmonia præſtabilita P. IV §. mod 73. Diese Abhandlung steht auch hinter
+
+Bülfinger's Dilucidationibus de Deo , anima humana et mundo.
+
+P
+
+Manches Merkwürdige in Beziehung so wohl auf die Seelenlehre , als auf die Moral philosophie, enthält auch der Tractat des DesCartes de paflionibus animæ. Jedes Ereigniß heißt Leiden (paflio) in Ansehung des Sub. jects, welchem dasselbe begegnet , und Chus (actio) in Ansehung deßen , was die objective Ursache desselben ist. Es giebt kein Ding, das mit unserer Seele in unmittelbarerer Verknúpfung stände, als der Körper, und was daher in jener Leiden ist , ist in diesem Thun. Die
+
+* Lebenswarme und die Bewegungen der Glied maßen gehn vom Körper aus, und die Gedanken von der Seele; die letztere ist es nicht, wel.
+
+che dem Körper Lebenswarme und Bewegung mittheilt. Die lebendigen und seinern Theile des Bluts , welche die Wärme in dem Herzen verdunnt, stromen unablässig und in großer
+
+Menge in die Hölungen des Gehirns; sie be wirken da die Lebensgeister , welche im Gehirne von [p. 566] von den andern minder feinen Theilen Des Bluts abgesondert werden. Diese Lebensgeister sind also auch materiell, aber sie sind von der feinstenMaterie, und haben die schnellste Beweglichkeit.
+
+Die einzige Ursache aller Bewegungen der Gliedmaßen ist , daß einige Muskeln zusammengezogen, und dadurch die jenen correspondirenden erweitert werden. Der Grund aber , warum ein Muskelmehr zusammengezogen wird , liegt darin, daß eine großere Menge von Lebensgeistern in ihn einſtrömt, als in den ihm correspondirenden. Die Bewegungen der Lebensgeister entspringen theils aus der Thätigkeit der Seele, theils aus der Verschiedenheit der Bewegungen , welche in den Organen der Sinne durch die Objecte der selben erzeugt werden, und auch aus der un gleichen innernRegsamkeit der Stoffe , aus wel. chen die Lebensgeister selbst bestehen. Alle Glieder des Körpers können bewegt werden mittelst der Objecte der Sinne und der Lebensgeister, ohne alle Mitwirkung der Seele; und so bleibt keine Function übrig , die wir der
+
+Seele als eigenthümlich beymessen konten, aus fer dem Denken. Die Neusserungen des Denkens aber sind zwiefach; einige sind Thätigkeiten (actiones); andere sind Leidenschaften oder Affecten (pafliones five affectus). Zu den
+
+Thätigkeiten gehören alle unsere Willensäussetungen, weil wir fühlen , daß diese unmittelbar [p. 567] bar von der Seele herrühren, und von ihr allein abzuhängen scheinen . Im Gegentheile Die Leidenschaften sind Arten von Vorstellungen oder Gedanken , welche in der Seele angetroffen werben. Unsere Willensäusserungen sind wiederum von zwiefacher Art; einige sind Thärig.
+
+keiten der Seele, die auf diese selbst gerichtet sind, z. B. Gott lieben ; andre sind auf unsernKörpergerichtet , wie die Willensentschluße, gewiße Körper zu bewegen. Unsere Vorstellungen sind ebenfalls von zwiefacher Art ; einige haben ihren Grund in der Seele; andere im Körper. Jene sind die Vorstellungen unserer Willensbestimmungen , und alle Einbilbungen und Gedanken , welche von diesen ebhangen; wenn dieselben auch zu den Leiden (patlionibus)gehören, so werden sie doch ihres Grundes wegen Thätigkeiten genannt. Die Vorstellungen, welche sich auf Gegenstände be. ziehen, die nicht existiren , oder auf solche , die bloß denkbar sind, hängen vorzüglich vom Willen ab , und sind mehr Thätigkeiten, als Leiden. Andere hingegen , die ihren Grund bloß im Körper haben, und von den auf ver. schiedene Weise inBewegung geseßren Lebensgeistern herrühren , sind Leiden. Die Vorstel Jungen, welche sich auf die Gegenstände ausser uns beziehen, nemlich auf die Objecte unserer Sinne, werden von diesen Objecten hervorgebracht, als welche gewiße Bewegungen in den Dr
+
+[p. 568] Organen der äussern Sinne erregen, und dadurch auch mittelst der Nerven im Gehirne gewiße Bewegungen erzeugen, welche bewirken, daß die Seele dieselben empfindet. Es giebt auch Vorstellungen , welche wir auf den Körper selbst , und andere , welche wir aufdie
+
+Seele selbst beziehen. Die Leiden der Seele sind Vorstellungen oder Empfindungen oder
+
+Bewegungen derselben , welche insbesondre auf sie bezogen, und durch irgend eine Bewegung der Lebensgeister hervorgebracht, erhalten und verstärkt werden.
+
+Die Seele ist allen Theilen des Körpers gemeinschaftlich ; ihre Functionen aber verrichtet sie am meisten im Gehirne, und zwar nach der schon oben erwähnten Hypothese des Des Cartes nicht in dem ganzen Gehirne , sondern in der Zirbeldrüse, die in der Mitte desselben liegt.
+
+Daß diese
+
+Drüſe: der vornehmste Sih der Seele sey , soll auch daraus erhellen , daß alle Theile des Gehirns doppelt sind; der Gebanke der Seele aber hat Einheit , und muß daher auch seinen Bestandtheilen nach in Einem Organe vereinigt werden. Im Herzen kann der Sih der Seele deßwegen nicht seyn , weil die Veranderung desselben, welche auf das Leiden er. folgt, nur mit Hilfe eines sehr kleinen Ner ven empfunden wird , welcher aus dem Gehirne in das Herz herabsteigt. Hieraus läßt ſich denn auch abnehmen , inwiefern. Seele und Körper gegenseitig wirken.
+
+Die Seele sendet nehmlich aus ihrem Wohnsitze gleichsam Strahlen durch den ganzenKörper, mitHülfe der Lebensgeister , der Nerven , und selbst des Bluts. Von den Nerven verbreiten sich in die Muskeln die dünſten und zartesten Fäden , und off nen auf Veranlassung gewißer Reize , welche die Sinnengegenstände bewirken , dem Gehirne die Poren , so daß die Lebensgeister in die
+
+Muskeln eindringen können. Jene Zirbeldru se, als das nächste Organ der Seele, kann auch selbst von den Lebensgeistern und den Empfindungen der Seele mannichfaltig afficire werden, so daß denn wieder von hieraus die Lebensgeister durch die Nerven in die Muskeln dirigirt werden. Eben dieselbe Ursache kann aber in verschiedenen Menschen sehr verschiedene Zustande hervorbringen, weil das Gehirn eines jeden nicht auf dieselbe Art disponirt ist, daß die Bewegung der Zirbeldrüse dieselbe Empfindung und eben dieselben Bewegungen der Lebensgeister bewirke. Die vornehmste Wir. kung aller Passionen in den Menschen ist , daß sie die Seelen derselben anreizen und dis poniren , diejenigen Dinge zu wollen , durch welche sie ihre Körper zubereiten
+
+§. 971.
+
+[p. 570] §. 971. Der Wille des Menschen ist seiner Natur nach so frey , daß er niemals gezwungen wer den kann. Alle Thätigkeit der Seele besicht also darin, daß sie bloß durch ihr Wollen bewirkt , daß die Zirbeldrise, mit welcher sie am nächsten verbunden ist , sich so bewegt wie es der Wirkung gemäß ist , die der Wille bezweckt. Will die Seele sich eines Gegenstandes erinnern , so treibt die Zirbeldrise ver möge einer Wilensbestimmung durch ihre Bewegung die Lebensgeister in diese und jene Theile des Gehirns, bis sie die Gegend desselben gefunden, in welcher die Spuren des Objectes ent halten sind, woraufdie Besinnung gerichtet ist. Wollen wir uns etwas vorstellen , was wir niemals gesehen haben , so hat der Wille die Kraft , die Zirbeldrise so zu bewegen, daß sie Die Lebensgeister in diejenigen Poren des Ge Hirns treibt, durch deren Eröffnung der Gegenstand vorgestellt werden mag. Eben so wenn wir unsern Körper bewegen wollen, be wirkt der Wille , daß die Zirbeldrise die Led bensgeister in diejenigen Muskeln treibt, deren
+
+Thätigkeit dazu erforderlich ist. Unsere Pas fionen können aber doch durch die Thätigkelt unsers Willens weder direct erweckt noch aufgehoben werden; sondern erst indirecte, durch die Vorstellung der Gegenſtände , welche sich mit [p. 572] mit denjenigen Passionen zu verbinden pflegen, die wir haben wollen, und welche denjenigen Passionen entgegengesetzt sind , die wir zu ver. meiden trachten. Es ist in dem MenschenEi ne Seele, welche zugleich empfindet und vernünftig ist. Der Streit zwischen dem höhern und niedern Vermögen der Seele ist also nichts anderes, als wie der Streit unter den Bewegungen , roelche der Körper durch seine Lebensgeister und die Seele durch ihren Wil Ten in der Zirbeldrise zu erwecken sich bestre Gen. Aus dem Erfolge dieses Streits fann
+
+Jeder die Stärke oder Schwäche seiner See le abnehmen. Diejenigen Menschen, in welchen der Wille von Natur leichter die Passive nen besiegen und die Bewegungen desKörpers
+
+Hemmen kann , die jene zu begleiten pflegen, Haben stärkere Seelen. Diese haben festeMa rimen und Entschließungen in Ansehung des Guten und Bösen, nach welchen sie ihren Lebenswandel einrichten. Diejenigen Seelen Hingegen sind die schwächsten, deren Wille sich nicht so determiniren kann, daß er gewiße Ure theile unverruckt befolgt, sondern die sich im mer von den momentanen Affecten zur Abweichung von Maximen , auch die sie als gus und recht erkennen, fortreißen laſſen. In. deßen ist die bloße Kraft , ohne Erkentniß der Wahrheit , der Seele noch nicht genug. Auch ist keine Seele so schwach , die nicht , wenn sie gut gut gebildet wird, eine absolute Herrschaft über ihre Passionen erlangen konte,
+
+9. 972.
+
+Alle Paſſionen können von Gegenständen erzeugt werden, welche die Sinne rühren, und Diese Gegenstände sind auch die häufigern und vorzüglichern Ursachen derselben.
+
+jecte erregen aber in uns verschiedene Affecten nicht sowohl durch die mannichfaltigen Eigen.
+
+chaften überhaupt , welche sie haben , als viel mehr durch die verschiedenen Arten , wie sie uns schaden oder nuken, oder sich überhaupt auf uns beziehen können. Der Nutzen aller Passionen besteht lediglich darin , daß sie die
+
+Seele disponiren, nach den Gegenstanden zu streben , welche uns die Natur als zuträglich anweist , und in dieser Bestrebung zu beharren; so wie auch eben die Thätigkeit der Lebensgeiſter, welche die Passionen hervorzubringen pflegt, denKörper zu den Bewegungen disponirt , welche zu demselben Zwecke nöthig sind. Unter allen Passionen scheint die Verwunder rung, welche durch das Neue und von dem Alten unbekanten Verschiedene erregt wird,
+
+[p. 573] X v. Descartes b. a. Letbn.
+
+die erste zu seyn. Mit der Verwunderung ist entweder die hochschagung oder die Verachrung verbunden , und hieraus. entspringen die Leidenschaften der Großmuth: und der De muth. Wenn wir Objecte, die wir als freye Ursachen gut oder böse zu handeln betrachten ,
+
+Hochschägen oder geringschägen, so entspringen Hieraus dieAchtung oder Verachtung. Diese Leidenschaften, können aber auch erweckt wer den, ohne daß wir einsehen, ob der Gegenstand gut oder bäse sey. Stellen, wir uns etwas in Beziehung auf uns selbst als gut und zutrag lich vor, so erregt dies Liebe; stellen wir es uns als bose und schädlich vor , erregt es haß. Aus derselben Betrachtung des Guten und Bisen entspringen auch die übrigen Passionen , welche sich nach der Zeit , worauf sie sich beziehen, unterscheiden lassen. Können wir etwas hoffen oder fürchten , sollte auch das Geschehen der
+
+Sache von uns auf keine Weise abhangen ; so bewirkt dies ein Schwanken des Gemüths, wodurch wir zur Ueberlegung und Betrachtung disponirt werden. Die Betrachtung ei nes gegenwärtigen Gutes versetzt uns in Freude; eines gegenwärtigen Uebels in Traurig keit.
+
+Eine gute Handlung, die wir verrichtet haben , gewährt uns eine innere Selbstzu friedenheit, die unter allen übrigen Passionen die angenehmste ist. Es giebt nur sechs ur springliche Passionen , Verwunderung, Liebe ,
+
+Haß,
+
+‫د‬
+
+[p. 574] Haß, Sehnsucht , Freude , Traurigkeit ; aus Diesen werden die übrigen zusammengesezt. Die physische Ursache der Verwunderung liegt allein im Gehirne; von den übrigen Passionen liegt sie auch im Herzen, in der Milz, der Leber, und allen andern Theilen des Körpers, soweit Diese zur Hervorbringung des Bluts und der Lebensgeister dienen. Die Ermüdung und
+
+Schlaffheit ist eine Disposition zur Nachlas sung und zum gänzlichen Aufhören aller Bewegung.
+
+Sie wird in allen Gliedern des
+
+Körpers empfunden, ist eine Folge starker Passionen, und endiget in eine gänzliche Be wußtseynlosigkeit der Seele. So führt Des Cartes auch das Zittern , Lachen, Weinen, auf gewiße physische Ursachen im Körper zu ruck.
+
+Nach der Einrichtung der Natur be treffen die Passionen sämtlich den Körper , und gehen die Seele nicht an , ausser so weit diese mit dem Körper verbunden ist ; daher auch ihr natürlicher Nutzen darin besteht , die Seele anzureizen, damit sie zu den Functionen bey trage , die zur Erhaltung oder Vervollkom nung des Körpers dienen können. So na türlich indeßen auch der Gebrauch der Passio nen ist; so ist er doch nicht immer gut; da vie le Dinge dem Körper schädlich sind, die ihm anfangs keinen Schmerz , ja wohl gar Vers gnigen gewähren, und viele Dinge ihm nug lich sind, die beym ersten Blicke Beschwerden unb [p. 575] und Schmerzen nach sich ziehen. Auch wer den oft die Güter und Uebel viel größer vor gestellt, als sie sind. Daher müssen wir die Erfahrung und die Vernunft zu Hulse nehmen, um das Gute vom Uebel zu unterscheiDen und den wahren Werth beyder zu bestimmen, damit wir nicht das eine mit dem andern verwechseln , oder dem einemwat dem ändern übermäßig nachstreben. Dinge , die gar nicht in unsrer Gewalt stehen, wenn sie auch Guter seyn sollten, müssen dennoch nie.
+
+mals mit Heftigkeit begehrt werden; weil sie sonst unser Gemuth zu sehr beschafftigen und unser Bestreben von andern Dingen abziehen, die Heilsam und zugleich in unserer Gewalt sind. Wir müſſen also oft auf die göttliche Vorsehung bauen , und denken, es sen un möglich , daß sich etwas auf eine andre Art er.
+
+eignen könne, als wie diese es von Ewigkeit beschlossen hat ; so daß wir die göttliche Vorsehung gleichsam als das Schicksal und die unabänderliche Nothwendigkeit ansehen, die wir dem blinden Zufalle entgegensetzen, als einer Chimäre, die nur einem Irrthume unsers Verstandes ihr Daseyn verdankt. Weil ferner ein großer Theil unserer Begierden Gegenstände betrifft , die weder ganz von uns, noch von andern abhangen; so müssen wir auch dasjenige genau absondern , was eigentlich davon in unsrer Macht ist , und nur hier८००
+
+XXI. Abf. Geschichte der Philos. auf unfreBegierden einschränken. Was das übrige dabey anbelangt, so beruht hier freylich alles auf einer fatalen und unabänderlichen Nothwendigkeit , und die Sorge für unsre Glückseligkeit kann sich nicht darauf erstrecken; indeßen können und müssen wir doch die Grin de erwagenu aus welchen sich mehr oder weniger hearin deßt, daß unsre Wunsche befriedige werden, um danach unsre Handlungen einzu. richten. Auf diese Art erreichen wir den Gegenstand unferee Begierde , sofern es auf uns ankam; und wenn uns dadurch ein Uebel be.
+
+gegnet, so war dieses in Ansehung unserer unvermeidlich; wir hatten keine Ursache zu wunschen , daß wir davon ausgenommen seyn möchten, sondern bloß Ursache , zu thun , was unser
+
+Verstand für das Beste erkannte. Unser Gutes und Boses wird am meisten durch die innern Bewegungen bestimt , die von der Seele selbst in ihr selbst erregt werden ; wodurch sie sich auch von den obigen Passionen unterscheiden , als welche immer ihren Grund in einer gewißen Bewegung der Lebensgeister haben, Dies kann man auch aus der intellectualen
+
+Freude abnehmen , die wir zuweilen sogar aus schmerzhaften Passionen schöpfen können. Alle
+
+Beunruhigungen , welche von aussen kommen, haben keine Kraft, unserer Seele zu schaden; sobald sie nur in sich selbst Grund genug zur
+
+Zufriedenheit hat; ja jene können dienen ihren fros [p. 577] frohen Zustand zu erhöhen. Damit aber und sere Seele mit sich selbst zufrieden sey , braucht sie nichts weiter, als nur nach der Tugend zu treben. Wer so gelebt hat, daß sein Gewissen_ihm nicht vorwerfen kann, er habe jemals versäumt, zu thun , was er für das Bessere hielt , der hat nach der Tugend gestrebt, und genießt davon eine Satisfaction , die so mach , tigen Einfluß auf seineGluckseligkeit hat , daß die heftigeren Bewegungen der Affecten nie
+
+Kraft genug haben, die Ruhe und Zufrieden. heit seiner Seele zu stören. Alle Passionen sind von Natur gut , und wir haben bey ihnen nichts zu vermeiden , als ihren Misbrauch und ihreAusschweisungen. Das allgemeine Mit tel gegen alle Ausschweisungen der Affecten ist , daß man , sobald eine Wallung des Bluts bemerklich ist , eingedenk sen , alles, was sich der Phantasie darstellt, ziele bloß auf Tauschung der Seele ab. Wenn also die Leidenschaft zu etwas antreibt, deßen Ausführung Aufschub leidet ; so muß man sich in dem Momente des Urtheils nur der Entschließung ent Halten, und die Gedanken anders wohin richten, bis die Zeit und Ruhe das wallende Blut wieder besänftigt haben. In solchen Verhältnißen aber, wo auf der Stelle ein Entschluß gefaßt werden muß , ist der Wille auf die Maximen zu richten, welche der Leidenschaft entgegengesetzt sind. Obgleich die Thiere der
+
+Ver
+
+[p. 578] Vernunft entbehren, und alles Denkens, so finden doch auch die Bewegungen der Lebensgeister und der Zirbeldrise , welche in den Menschen Passionen erregen, in ihnen statt, und dienen , nicht , wie bey uns , die Affecten zu erhalten und zu bestärken , sondern zur Bewegung der Muskeln und Nerven, welche jene zu begleiten pflegen.
+
+"Es erhellt aus diesem Auszuge aus dem Trac tate des Des Cartes de paſſionibus , daß er das Wort Passionen in einer sehr weiten Bedeutung nahm , und nicht bloß das , was wir gegenwärtig Leidenschaften oder Affec sen nennen , sondern alle Affizirungen über haupt , alle Empfindungs und Gefühlszus ſtände , darunter begriff. Durch diese Unbestimtheit des Begriffes der Leidenschaften ist auch seine ganze Untersuchung darüber unbestimt geworden ; so daß er bald von
+
+Empfindungen , Gefühlen und Vorstellungen überhaupt ; bald von eigentlichen Leidenschaften redet , und jene mit diesen vers wechselt. Daher kam es , daß er das Vergnügen und den Schmerz , die Verwunderung, sogar das moralische Gefühl der Selbst. zufriedenheit , zu den Leidenschaften zählte. Auch hat sein Tractat von den Passionen weniger Beziehung auf die Moral , als auf die Physiologie. Er suchte die physische Beschaffenheit und Ursachen derselben zu ers klären, und zog hieraus eine Regel, wie man sich vor der Täuschung der Leidenschaf= [p. 579] ten zu verwahren habe. Ein Grundfehler war , daß er alle Leidenschaften für bloße Leiden hielt , und nicht für Thätigkeiten ; und dazu wurde er durch die unrichtige Abthei lung der Seelenäusserungen überhaupt vers führt in Thätigkeiten und Paffionen , von Denen jene im Willen , diese im Vorstellungse vermögen ihren Grund hätten. Bey dem obigen Auszuge bin ich übrigens dem Bruce ker gefolgt (Hist. crit. phil. T. IV P. II P. 323.
+
+§. 973.
+
+Die Moralphilosophie an und für sich selbst hat Des Cartes eigentlich niche bearbeitet. Erst in den leßtern Jahren seines Lebens ward er durch die Pfalzgräfin Elisabeth und die Königinn Christine von Schweden veranlaßt, über moralische Gegenstände nachzudenken. Unter seinen Schriften beziehen sich daher lediglich die Briefe auf Moral, welche er an jene Fürstinnen geschrieben hat. Inzwischen hatte er sich selbst damals , ais er seine Untersuchungen über die Philosophie anfieng, und übrigens alle Erkentniß für ungewiß hielt, gewiße praktische Lebensregeln vorgeschrieben, die er befolgen wollte, bis er von der Skepsis jur [p. 580] zur Gewißheit gelangt sey , und die deßwegen bemerkt zu werden verdienen. Es waren fol. gende: Erstlich: Er nahm sich vor, den bestehenden Gesehen und Einrichtungen des Landes, in welchem er lebte, gemäß zu handeln;
+
+Die Religion benzubehalten , die er für die beste Hielt, und in welcher er von seiner Kindheit an erzogen war ; übrigens sich in allen Stucken nach den gemäßigtesten und von Extremen am meisten entfernten Meynungen zu richten, so wie sie die Verständigsten unter seinen Mitbürgern Hegten und befolgten. Zu den zu vermeidenDen Extremen rechnete er insbesondre solche Versprechungen, wodurch wir uns selbst die
+
+Freyheit benehmen , unsern Entschluß zu an Dern. Denn da alles in der Welt zufällig und wandelbar ist , so muß man sich im Leben so benehmen , daß unsere Urtheile täglich abgeändert und verbessert werden können. Er nahm sich zweytens vor , durchaus standhaft und beHarrlich bey seinen Vorsätzen zu bleiben, und zwar eben so wohl bey solchen , die er aus zweifelhaften oder gar keinen Grunden unternommen hatte, als bey solchen, von deren
+
+Gute und Zweckmäßigkeit er mit Gewißheit überzeugt war. Es muß im Leben vieles ge than werden , was sich nicht aufschieben läßt, und hier ist ausgemacht, daß , so oft wir nicht einsehen können, was in der That das Beste sey, wir dasjenige wählen müssen, was uns das [p. 581] das Beste zu seyn scheint. Sind die Dinge von der Art , daß uns kein entscheidender Grund mehr zu dem Einen als zu dem Gegentheile bestimt; so müssen wir doch Eines von beyden - wählen; und wenn wir denn einmal einen Entschluß gefaßt haben, diesen in praktischem Be trachte nicht ferner als zweifelhaft , sondern als wahr und gewiß ansehn; sofern der Grund, ‫الي‬ warum wir ihn gewählt haben , wahr und gewig ist. Er schrieb sich drittens die Regel vor, eher sich selbst , als das Schiksal, zu besiegen, und eher die eigenen Begierden , als die Ordnung der Welt abzuändern; sich im Allgemeinen zu überreden , daß ausser unsern eigenen Gedanken nichts schlechthin in unserer Gewalt sey; und wenn sich etwas nicht ereignet, was wir wünschten, und wozu wir Alles beygetragen haben , was von uns abhieng , alsdenn dies unter die Unmöglichkeiten zu zählen. Es wird eine lange Uebung und oft wiederholtes
+
+Nachdenken vorausgesetzt , um unser Gemuth zu gewöhnen, daß es alle Gegenständeund sein Verhalten in Beziehung auf dieselben aus diesem Gesichtspuncte betrachte. Des Carres selbst erklärte diese Regeln für allgemeine Klugheitslehren, an die er sich nur halten wollte, bis ihn seine philosophische Meditation auf eine zuverlässige Moralphilosophie geführt haben wurde. Indeßen hat er doch diese nicht aufgestellt , und wie sie beschaffen gewesen seyn wür [p. 582] wurde, läßt sich aus jenen Regeln nicht beurtheilen. Eher läßt sich aus den Briefen an die erwähnten Fürstinnen auf sie schließen. Zu einer richtigen Ansicht der Moral waren dem Des Cartes seine metaphysischen Principien hinderlich , besonders sein System der Assistenz Hottes.
+
+So führt er einerseits als ele nen moralischen Trostgrund des Gemüths an, daß Gott alle Neigungen unsers Willens nicht nur von Ewigkeit vorher gesehn und bestimt habe, sondern auch diese Neigungen selbst in uns erwecke; wodurch er also die moralische Freyheit völlig aufhebt. Andererseits erklärte er doch die Freyheit des Willens für das hoch ste Gut des Menschen ; die Tugend bestand nach seinem Urtheile darin , daß Jemand thue, was er für das Beste halte ; und das vorzug. lichste Mittel zur Tugend ist die Erforschung der Wahrheit ; und ein consequentes Handeln dem gemäß, was man als wahr und gut er kannt hat. So rhapsodisch auch Des Cartes die Moral bearbeitet hatte, so suchten doch mehrere seine Schuler seine Ideen im Zusammenhange mit seinem übrigen Systeme dare zustellen. Ein solches Werk ist folgendes : Ethica Carteſiana, five ars bene beateque vivendi ad clariffimas rationes et ſanæ mentis ideas ac folidiffima Renati Cartesii principia for mata;
+
+[p. 583] mata; Halæ 1719. 8. Das Werk ist auch französisch herausgekommen 1692. 12,
+
+§. 974.
+
+Das philosophische System des Des Car res überhaupt zeichnet sich weder durch Gültigkeit der Principien , noch durch Bundigkeit im Innern , noch durch das Interesse der Reſultate besonders aus. Es ist fast ganz ein Gewebe theils von Behauptungen, die aus einseitigen Voraussetzungen erschlossen waren, theils von grundlosen Hypothesen ; und es sind sehr wenig dem Des Cartes eigenthümliche
+
+Säße, die in unserer heutigen Philosophie noch ſo angenommen und gebraucht wurden , wie er sie annahm und gebrauchte. Ein Haupt fehler, welchen Des Cartes begieng, war dieser , daß er alle vorherige Philosophie und alle Grundsätze derselben, von denen doch man che unleugbar waren , aufgab oder geradezu verwarf, und sich nun lediglich an die sogenannten Thatsachen seines Bewußtseyns hielt. Das selbstständige Philosophiren unabhängig von ältern Systemen ist unstreitig nothwendigeBedingung , um die Wahrheit auf einem Wege zu entdecken, auf welchem man sie bisher noch niche [p. 584] nicht gesucht hatte; aber die Rücksicht auf die ältern Systeme kann daben zum mindesten vor Verirrungen verwahren , und zur Bestätigung oder Prüfung der neuen Vorstellungsart dienen , die leicht gerade bey den originalſten Denkern am einseitigsten wird.
+
+Des Cartes gerieth auf das Kriterium: Was man deutlich denkt, ist wahr und wirklich ; und dieses in einer unbedingten Anwendung gebraucht, gab seinem ganzen Systeme eine schiefe Rich. tung. Er verwechselte hier gleich die ideale Wirklichkeit mit der realen, wie sich das bey seinen Säßen von der Seele als denkenden
+
+Substanz, bey seinem Beweise vom Daseyn Gottes u. w. zeigte. Nachher verlor er sich vollends in Hypothesen aus einseitigen oder unrichtigen Beobachtungen , oder aus falschen Erklärungen derselben. Darauf dachte Des Cartes gar nicht elnmal , die Grundprincipien der geistigen Vermögen des Menschen rein auf. zunehmen und systematisch zusammenzustellen ; Diesen ihr eigenthümliches Gebiet anzuweisen, und die Grenzen ihrer Anwendung zu bestimmen; sondern er gieng gleich daran, ein neues philosophisches System selbst aus dem unmit relbaren Bewußtseyn auszuführen , ohne vor Her die Natur dieses Bewußtseyns , die Merkmale von Klarheit , Deutlichkeit , Evidenz, auf die er sich doch so sehr stukte, genauer zu ent wickeln und zu bestimmen.
+
+Bey dem Allen ist ist doch das Cartesianische System für die Verbesserung der Philosophie überhaupt höchst wohlthätig gewesen. Erstlich: Es wurde durch hasselbe der Geist des philosophischen Selbst. Denkens geweckt. Man sah hier ein Beyspiel, daß es für einen speculativen Kopf möglich sen, unabhängig von allen andern philosophischen Systemen, aus dem eigenen Bewußtsenn ein neues System hervorzurufen ; und, wenn auch hem Des Carres sein Versuch mislungen war, so folate daraus nicht, daß er immer misling gen werde. Baco hatte alle Speculation aus Begriffen verworfen, ohne doch die Probleme, Die im Wesen der Vernunft liegen, und die auf jene Speculation leiten, zu lösen. Dies schien Des Cartes gethan zu haben , oder haben thun zu wollen, und zwar auf eine originale
+
+Art; dadurch erregte er Nacheiferung. Zwey. tens: Des Cartes gab durch seine mannichfaltigen zum Theile ſehr ſinnreichen Hypothesen den Philosophen neue Beschafftigung; er veranJaßte Prüfung, und dabey mußte die Philosophie selbst nothwendig gewinnen. Drittens : Der ganze Gang seiner Speculation, die Genesis seines Systems, um mich so auszudruk. ken, nöthigte seine Gegner, um ihn bestreiten und widerlegen zu können, zu einem genauern Studium des Erkenntnißvermögens .
+
+Ohne den vorhergegangenen Cartesianism waren schwerlich Lockes und Leibnizens Theorieen [p. 586] des Erketnißvermögensso zu Stande gekommen. Viertens: Des Cartes zeigte die Philosophie überhaupt nicht bloß als eine trockne spiksindige Formelnwissenschaft, wie sie meistens unter den Händen derScholastiker und Aristoteliker gewor. den war , sondern als eine höchst fruchtbare Disciplin, wenn sie nur gehörig auf Natur und
+
+Menschheit angewandt wurde. In diesem Betrachte verdient Des Cartes allerdings eitien ehrenvollen Plas unter-den vorzüglichen Genies, die sich um die Philosophie verdient gemacht Haben.
+
+DaDes Cartes während seines Aufent
+
+Halts in den Niederlanden seine neue Lehre und seine merkwürdigsten Schriften bekant machte ; so war es naturlich, daß diese auch hier zuerst Aufsehn erregten, und einerseits Beyfall und sogar enthusiastische Bewunderer fanden, andererseits den Widerspruchsgeist aufweckten und dem Des Cartes , so wie seinen Anhängern , Streitigkeiten zuzogen. Die Gegner derselben waren theils mehrere der freyern Eklektiker ; theils , was sich nicht anders er warten ließ , vorzüglich die Anhänger der alten gangbaren Aristotelischscholastischen Philosophie
+
+$5.87 phie , und namentlich die Theologen, deren dogmatisches Religionssystem mit jener zusam menhieng, zumal sobald Einige anfiengen, den Cartesianismus zur Abänderung der leßtern anzuwenden. Die Säße des Cartesianismus, um welche sich der Streit vornehmlich her-
+
+Drehte , waren: daß die Evidenz das einzige Kriterium des Wahren sey , und nach diesem auch die theologischen Lehrsäße geprůst werden mußten; - daß das Zweifeln das methodische Princip aller gewißen und untrüglichen Erkentniß sen; - daß die Lehren der heiligen Bücher von der Natur der Dinge nach der Fassungskraft der Menschen eingerichtet waren; Daß die Idee von Gott dem Menschen ange. bohren sey , und hieraus der evidenteste Beweis für die Existenz desselben sich führen lasse ;daß der Schluß vom Denken auf das Seyn für das erste Princip aller Erkentniß und aldaß das les Philosophirens gelten muſſe; Wesen des Geistes im Denken, und das Wesen der Materie in der Ausdehnung zu suchen sey; daß das Urtheilen vom Willen abhange, nicht vom Verstande; - daß die Sinne fast immer trugen; - daß die Thiere Maschinen seyen; - daß Gott die Materie ursprunglich geschaffen, und ihr eine gewiße Quantitat , ge wiße Geseke der Bewegung und Ordnung ertheilt habe ; daß er ferner der Materie und ihrer Bewegkraft den ersten Stoß gegeben , und [p. 588] die Materie hernach den ihr eingedruckten Naturgesehen gemäß sich selbst gebildet habe, und in ihrer Form noch gegenwärtig erhalte; Daß das angebohrne Licht der Vernunft so helle leuchte, daß keine andere Norm bey der Auslegung der heiligen Schrift angewandt wer den könne; u. w. Diese Säße wurden des wegen von den Theologen am lebhaftesten an. gefochten, weil nach ihnen am meisten die positive Religionsdogmatik umgemodelt wur des Unter den Theologen zeichnete sich durch Die Heftigkeit, womit er gegen den Des Carres noch bey deßen Lebzeiten polemifirte, Gisbert Voetius aus, Professor zu Uytrecht, der die Cartesianische Philosophie öffentlich der
+
+Irreligiosität und des Arheismus beschuldigte, undhierin mehrere Genossen hatte. Aufmeh wern niederkindischen Universitäten, da die Ei ferer auch die weltliche Obrigkeit in ihr Interesse zu ziehen wußten , hatte dieß die Fol ge, daß der Vortrag der Catesianischen Philosophie verboten wurde ; wiewohl das Verbot, wie die meisten ähnlichen , fruchtlos war, und man sich immer mehr um sie bekümmerte, je mehr durch den Streit das Interesse der ge dehrten Neugierde darauf hingelenkt wurde, Von den Niederlanden aus verbreitete sich der
+
+Cartesianismus;hauptsächlich in Frankreich , wiewohl auch hier mehrere der angesehensten
+
+Philosophen und Theologen, und insbesondre [p. 589] die Jesuiten , als Gegner desselben auftraten. Weniger Anhänger gewann er in England und Deutschland , und noch weniger in Italien. In dem leßtern Lande wurden die Schrif.
+
+ten des Cartesius im J. 1663 von dem heil. Cardinalscollegium förmlich verboten. In England konte der Cartesianismus vor der
+
+Philosophie des Baco und Hobbes , die herschend geworden war, nicht aufkommen. In Deutschland gab es nur hier und dort einzelne Männer , die den Cartesianismus studirten, und ihn entweder unbedingt oder mit ge.
+
+wißen Abänderungen der ältern Philosophie vorzogen. Auf den Univerſitäten blieb , weni. ge Ausnahmen abgerechnet , die Aristotelisch. scholastische die allgemeine Schulphilosophie. Selbst da diese nach und nach verdrängt wurde , verlor doch der Cartesianismus zugleich sein Ansehn, und galt für ein einzelnes Sy. stem, das man historisch kennen lernen und im Einzelnen benutzen muße; dem aber keine allgemeine Gültigkeit zugestanden werden könne.
+
+Auch in ihrem Geburtslande blühte die Cartesische Philosophie nur bis gegen das Ende des vorigen Jahrhunderts, wo sie gänzlich aufhörte , Modephilosophie zu seyn. Ueber die Streitigkeiten wegen der Cartesiante schen Philosophie S. Bruckeri hist. crit. philos. T. IV. P. 2. p. 259. fq. Die Feh
+
+De [p. 590] de der Jansenisten , ( die für den Cartesianismus Partey nahmen , ob sie gleich dies sem nicht unbedingt anhiengen , und auch unter einander selbst nicht einig waren), mit den Jesuiten artete in eine theologische Streitigkeit aus. S. Bayle Dict. Art, Arnaud. Nicolt.
+
+§. 976.
+
+Zu den eifrigsten Verbreitern der Cartesianischen Philosophie in Frankreich gehörten aus ser den Mitgliedern der Congregation de l'Oratoire und den Jansenisten vom Port royal,
+
+Claude Clerselier , Jaques Rohault , und Pierre Sylvain Regis. Der erste war ein unmittelbarer Schuier des Des Cartes , und gab auch nach deßen Tode mehrere von den Werken desselben heraus. Er war nicht nur einer der besten Erläuterer des Cartesianismus , sondern hatte sich auch durch seinen persönlichen Charakter sogar bey den Gegnern
+
+Achtung uud Wohlwollen erworben. Jaques Rohault , ein Schwiegersohn des erstern, bearbeitete vorzüglich die Cartesianische Physik, und suchte sie aus der Erfahrung zu be
+
+ſtätigen. Er machte sich aber durch seine Pe Danterey lächerlich , und ward daher ein Ge gene [p. 591] genstand, an welchem Moliere seine. Laune und seinen Wiß übte. Pierre Sylvain Re gis , geb. 1632 , studirte unter Anleitung der Jesuiten zu Cahors , und nachher zu Pa .
+
+ris Theologie. Die Cartesianische Philosophie lernte er hier vom Robault kennen, und lehr. te sie in der Folge zu Toulouse , und auch zu Paris, mit ausserordentlichem Beyfalle. Auf Veranlassung der Jesuiten ward ihm aber von dem Erzbischofe zu Paris der Vortrag des
+
+Cartesianismus untersagt. Indeßen erhielt er die Erlaubniß , sein Werk darüber , welches eine systematische Darstellung desselben enthielt , herauszugeben , Er vertheidigte auch den Cartesianism gegen Huet, von dem er dafür mit satirischer Laune behandelt wurde.
+
+Uebrigens genoß er als Philosoph und als Ge lehrter einer ausgezeichneten Achtung ; er ward Mitglied der Akademie der Wissenschaften; und
+
+Hatte mehrere unter den französischen Großen zu Gönnern, die ihn sehr liberal unterstützten. Auch war er der eigentlich Cartesischen Lehre nicht blindlings ergeben; sondern er berichtigte sie in vielen Puncten , wo ihn Erfahrung und Nachdenken eines Bessern belehrt hatten.
+
+Vor seinem Werke steht eine in ihrer Art geist volle , wiewohl nur kurze, Geschichte der Philosophie überhaupt. Ausser den angeführten Männern war noch einer der beruhmtern Cartesianer in Frankreich Franz Bayle , ProPp2 feffor [p. 592] fessor zu Toulouse, deßen Syſtema philoſophiæ vniverſale und Institutiones phyſicæ ganz nach Cartesianischen Grundsätzen abgefaßt wa ren.
+
+S. Bruckeri hist. erit. philos. T. IV P. 2. p. 280. fq. Das Werk des Regis ist oben in der Literatur zu diesem Abschnitte anges führt worden.
+
+§. 977. Nicht bloß als Gegner des Des Cartes, sondern auch durch anderweitige philosophische Ver.
+
+dienste, wurden Huet, Glanwill,und Gassendi berühmt. Petrus Daniel Huet wurde gebohren zu Cadom aus einer edlen und angesehnen Familie im J. 1630. Er verlor seinen Vater , der die Partey der Hugenotten verlassen
+
+hatte und zur katholischen Religion übergegangen war, sehr früh. Seine erste literarische Erziehung wurde meistens durch die Jesuiten geleitet, und hatte mancherley Mangel, die aber zum Theile durch sein treffliches Genie und seine unbegrenzte Wißbegierde ersetzt wurden. Die frühern Studien desselben betrafen Hauptsächlich classische Litteratur, Mathematik und Philosophie. Auch in der Poesie machte er gluckliche Versuche.
+
+Noch als Jüngling lernte [p. 593] lernte er die neue Cartesische Philosophie ken nen , und ward anfangs sehr für sie eingenom.
+
+men, worin ihn auch der enthusiastische Beyfall bestärkte, welchen ihr mehrere der geschak testen Gelehrten der Zeit gaben. In reifern
+
+Jahren ward er einer ihrer eifrigſten Wider sacher. Inzwischen schränkte sich Huet's Wif begierde nicht auf jene Studien ein. Durch die Lecture der Geographia lacra des Samuel Bochart, und die persönliche Bekantschaft mit diesem , ward er auch veranlaßt , die orientalische Literatur zu treiben; und so artete seine literarische Beschafftigung überhaupt in eine Polyhistorie aus , die auf die nachherige Richtung seines philosophischen Talents einen entscheidenden Einfluß hatte.
+
+Da Bo.
+
+chartvon derKöniginn Christine von Schwe den auf Empfehlung des Isaak Vossius nach Stockholm berufen wurde; so ließ sich Suer von ihm bereden , ihn dorthin zu begleiten.
+
+Diese Reise wurde für ihn nicht nur durch die persönliche Verbindung , in welche er mit den berühmtesten Gelehrten in Holland , Danes mark und Schweden kam , sondern auch in mancher andern Hinsicht, interessant und lehre reich. Suet verband mit seiner Gelehrsamkeit auch aussere Bildung und Feinheit im gesellſchaftlichen Benehmen; er gefiel daher auch der Königinn Christine im persönlichen Umgange.
+
+Sie ontließ ihn ungerne von ihremHofe. Nach Рез feia [p. 594] seiner Rückehr in's Vaterland lebte er theils zu Cadom , theils zu Paris , wenn seine gelehrten Arbeiten ihm den Aufenthalt in dem leßtern
+
+Orte nothwendig machten. In Cadom stiftete er , durch die allgemeine Theilnahme aufgemuntert , welche damals die physikalischen , astronomischen und philosophischen Wissenschaften fanden, eine gelehrte Gesellschaft zur Beförderung derselben , die sich wöchentlich in seinemHause versammelte, und selbst die Aufmerksamkeit des Statsministers von Frankreich: Colbert, dieses großen Gönners der Literatur, auf sich zog; der sogar eine Summe zur Bestreitung der Kosten für die zu machenden Versuche unter königlicher Autorität bewilligte. In dieser Periode war es auch, wo Huer durch einen seiner gelehrten Freunde dazu bewogen , die Werke des Sep tus Empiricus studirte, und eine Vorliebe für den Pyrrhonismus gewann, die er sein ganzes nachheriges Leben hindurch behielt. Da
+
+Ludewig XIV auf Colbert's Antrag mehrern der größten Gelehrten Europa's ansehn liche jährliche Pensionen ertheilte , so erhielt auch Suer eine solche. Kurz hernach ward er nebst dem Bossuet zum Lehrer des Dauphin von Frankreich ernannt, und mußte nun seinen beständigen Wohnsitz zu Paris nehmen. Er war einer der vornehmsten Urheber der Idee, die classischen Schriftsteller in vfum Delphini Ec [p. 595] besonders zu bearbeiten und zu erläutern, und er selbst hat nach dem dabey zum Grunde gelegten
+
+Plane den Manilius mit seinen Noten herausgegeben. Seine damalige Musse benutzte er überdem zunächst für sein berühmtes Werk De demonftratione evangelica.
+
+Als er einige
+
+Jahre am Hofe gelebt hatte , volfuhrte er einen schon lange gefaßten Entschluß, und trat in den geistlichen Stand. Da man am Hofe auf die Verheyrathung des Dauphin dachte, und der Unterricht desselben als beendigt angesehen wurde, erhielt er die Abtey zu Aulne, wohin er sich im J. 1680 begab , nachdem er zehn Jahre dem Lehramte bey dem Dauphin vorgestanden hatte. In diesem Orte, der in einer der reizendsten Gegenden Frankreichs liegt, widmete er sich mit unausgeseßtem Eifer den Wissenschaften. Er schrieb hier seine Quaestiones Alnetanas und seine Centuram philosophiae Cartefiance. Daß er als Gegner der Cartesischen Philosophie auftrat, geschah wohl mit auf Betrieb der Jesuiten , die immer großen Einfluß auf ihn behielten, zu mal da mehrere seine Freunde , die er auch wegen ihrer Gelehrsamkeit hochschaste , Peter Labbé, Vavassor , Rapin , Sirmond, zu diesem Orden gehörten. Da er durch sei ne Schrift gegen den Cartesianismus mehrern
+
+Angriffen von den Anhängern desselben ausgesetzt wurde, die ihn durch ihre Bitterkeit Grob
+
+[p. 596] Grobheit von einer ernsthaften Fortsetzung des Streits aus philosophischen Grunden abschreck ten; so ergriff er das Mittel, die Cartesianer lächerlich zu machen. Er gab anonymisch neueNachrichten zur Geschichte des Cartesianismus heraus , die er dem Regis dedi. cirte, und worin er die Cartesianer sehr launigt und wikig durchzog. Er dichtete darin, daß Des Cartes, nachdem er die Schweden durch ein falsches Vorgeben von seinem Tode getauscht, sich heimlich zu den Lapplandern begeben, und unter ihnen eine neue philosophiſche Schule errichtet habe, von welcher denn mancherley Scurrilitäten erzählt werden. Huet war glucklich genug, lange Zeit hindurch die Anonymität zu behaupten, so daß ihn Niemand für den Verfasser hielt, und er also auch persönlich für seinen Muthwillen weiter nicht von den Cartesianern gezüchtigt wurde. Die leßtern Jahre seines Lebens brachte er zu Paris zu in der Gesellschaft seiner gelehrten Freunde unter den Jesuiten. Er schrieb hier noch seinen Commentarius de rebus ad eum pertinentibus , der seine eigene Lebensgeschichte enthält. Seine große Bibliothek vermachte er dem Orden der Jesuiten , jedoch unter der Bedingung , daß sie zum öffentlichen Gebrauche frey stehn sollte. Er starb im J. 1721 , nachdem er fast ein halbes Jahrhundert hindurch den größten literarischen Ruhm genossen hatte. Bon
+
+Vou den Schriften des Haet sind für die
+
+Geschichte der Philosophie folgende merks würdig: Petri Dan. Huetii de interpretatione libri IV; Pariſ, 1661. 4.
+
+Ejusd. Demonstratio Evangelica ; Paris. 1679; fol. - Ejusd. Quæftiones Alnetanæ, Cadomi 1690. 4. Lips. 1693. Lips. 1719. 4. Dieser letztern Ausgabe ist auch des suet Commentarius de rebus ad eum pertinentibus beygefügt , der ure ſprünglich zu Haag 1718 noch bey Lebzeiten Huets herauskam. Ejusd. Cenfura philosophiæ Cartefiaræ. S. oben S. 331.
+
+Nouveaux memoires pour ſervir á l'hiſtoire du Carteſianisme par M. G. de Traité de la l'A; á Paris 1692. 12
+
+Foibleſſe de l'esprit humain (par Mr. Huet); a Amſterdam 1723. 12. Dieses Werk erschien nach des Verfassers Tode. Es ist deutsch überſetzt herausgekommen mit
+
+Anmerkungen gegen den Skepticismus zu Frankfurt am Mann 1724. 8.
+
+§. 978.
+
+Bey Suet war das Resultat einer großen viel umfassenden Gelehrsamkeit, und insbesondre des Studiums der verschiedenen altern philosophischen Systeme, der vollendetesteSkep. ticismus, vor dem er keine andere Rettung Pps mufi [p. 598] wußte , als in dem Glauben an die Offenbarung. Er hatte anfangs die Peripatetische und Platonische Philosophie studirt ; aber keine von beyden hatte ihn befriedigt. In der erstern misfiel ihm der anmaßende Dogmatismus , der sich doch nicht vor der prüfenden Vernunft bewahren konte; auch die verschiedenen Vorstellungsarten , die sie bey den griechischen Auslegern, den Arabern und den spätern Scholastikern, veranlaßt hatte , machten ihn in
+
+Ansehung nicht nur des eigentlichen Sinnes des Aristotelischen Systems, sondern auch der
+
+Wahrheit desselben überhaupt irre; und am meisten misbilligte er die sophistische Dialektik uud Disputirsucht, die eine Frucht der Aristokelischen Philosophie gewesen war. DerPlatonismus schien ihm mehr ein Aggregat philosophischer Phantasieen, als ein auf festen Principien gegründetes System. In mehrern Dialogen des Plato selbst fand er eben so viel Gründe für als wider gewisse Sätze, und die Entscheidung der wichtigsten Probleme hieng von Hypothesen und unerwiesenen Voraussezzungen ab. Wie bey dem Aristotelischen Sy. ſteme, so nahm er beym Platonismus eben. falls daran einen Anstoß, daß so viel verschiedene philosophische Schulen und Meynungen aus demselben hervorgegangen waren.
+
+atomistische Philosophie des Epikur, die damals von Gassendi gleichsam neu belebt war, fonte [p. 599] konte Huet's Beyfall um so weniger gewinnen, je mehr sie mit der Lehre der Offenbarung contrastirte , deren Wahrheit er allein für unerschütterlich hielt.
+
+Der Cartesianismus hatte durch die neue Methode der Speculation ihn zuerst überrascht ; aber bald sah er auch die Einseitigkeit und Falschheit der Principien ein, von welchen derselbe ausgieng , so wie das Willkührliche in den Folgerungen , und dies machte, daß er förmlich als Gegner dessel.
+
+den auftrat.
+
+So wurde er nach und nach durch den Widerstreit der philosophischen Systeme selbst , mit denen er bekant geworden war , zum Skepticismus gestimt. Die Lehren der Akademiker, des Arcesilas und Rarnea.
+
+des, bestärkten ihn darin; und er trat zulege ganz auf die Seite der Pyrrhonier, nachdem er die Werke des Sextus gelesen hatte. So Häufig Huet auch in seinen frühern Schriften, namentlich in der Demonstratio avangelica und dem Quaeftionibus Alnetanis , seineVorliebe für die skeptische Denkart äuſſert; so lebhaft er den erwähnten Akademikern wegen ihrer Art zu philosophiren Lobreden hält ; so trauten doch Suers Zeitgenossen ihm den Skepticismus nicht in dem Grade zu , wie er ihm wirklich eigen war. Er hatte ihn in jenen frühern Schriften vorzüglich gebraucht, um die Autorität der Vernunft herabzusehen , und auf den
+
+Trümmern der Philosophie der Offenbarung els [p. 600] einen Triumpf zu bereiten. Deßwegen waren seine skeptischen Raisonnements den gelehrten Lesern jener Schriften nicht sonderlich aufgefallen, und von dem größern Publicum wurden jene Schriften nicht gelesen. Um so allgemeineres Aufsehun erregte Huers Tractat von der Schwäche des menschlichen Verstandes nach dem Tode desselben, in welchem der Skepti. cismus in seinem ganzen Umfange und seiner ganzen Stärke, die ihm die Pyrrhonier gege. den haben, und noch überdem von Huet's eigener Gelehrsamkeit ausgestattet , und gegen die herschenden philosophischen Systeme seiner Zeit gekehrt , dargelegt war. So wenig Suet's Skepticismus in den Schriften , die er während seines Lebens herausgab, Aufsehn er regt hatte ; so deutlich zeigen sich doch in ihnen die Spuren dieser Denkart.
+
+Sie kommen schon in der Demonstratio Evangelica vor, wo Huer die Erkentniß der Vernunft als ungewiß und schwankend darstellt, und dagegen die Offenbarung als die einzig zuverlässige Erkent nißquelle der Wahrheit empfiehlt. Er giebt Hier bereits der Philosophie der Akademiker vor allen übrigen Philosophieen des Alterthums den Vorzug. Auch seine Censur der Cartesianischen Philosophie gieng nicht von einem entgegengesetzten Dogmatismus , sondern von der Skepsis aus, und sie führte nur auf skeptische Resultate. In den Quaeftionibus
+
+Alne
+
+[p. 601] Alnetanis wollte Sure die Harmonie des Of. fenbarungsglaubens mit der Vernunft dar. thun; jedoch setzte er immer die Autorität je nes als unbezweifelbar und als die höhere voraus ; anstatt daß er bey dieser immer ihre Trüglichkeit voraussekte. Er suchte zu bea weisen, daß es keinen unerſchütterlichen Grund der Ueberzeugung von der Einstimmung der
+
+Objecte mit unsern Vorstellungen derselben ge be; und daß der Gewinn , den man von aller philosophischen Untersuchung einerndte, zuletzt die Ungewißheit sen; von welcher sich zu be. freyen kein anderes Mittel übrig bleibe, als der Glaube an die Offenbarung. Nun sind freylich unter den Glaubenslehren mehrere für die, Vernunft widersinnig und unbegreiflich; aberdies kannnicht berechtigen, ſie zu verwerfen, da man in der Geschichte findet, daß auch die weisesten Völker dergleichen Lehren , Maximen und Gewohnheiten angenommen haben.
+
+§. 979.
+
+Der Skepticismus des Huet ſtimt , wie schon bemerkt worden , nach seinen Grunden im Wesentlichen mit dem Pyrrhonismus zusammen. Eigenthümlich ist ihm aber die Art, wie er sich, so zu sagen, dem Glauben an die Of
+
+[p. 602] Offenbarung anschließt. Suet leugnete das Daseyn einer objectiven Wahrheit nicht; denn Gott musse doch die Objecte wirklich so erkennen , wie sie sind; er supponirte also, um das
+
+Daseyn einer objectiven Wahrheit annehmen zu können, das Daseyn Gottes gleichsam als ein Ariom; wiewohl er dieses hernach wie.
+
+derum auf den Offenbarungsglauben stützte. Er leugnete eben so wenig die Möglichkeit einer Erkentniß der objectiven Wahrheit für den Menschen ; nur sey es diesem unmöglich , ſich mit Gewißheit zu überzeugen, daß er eine solche Erkentniß wirklich besike. Was den Mangel der Gewißheit der Vernunfterkentniß für den Menschen ersetzt , ist der Glaube , durch welchen wir sogar erst mit Zuverlässigkeit er. kennen , daß Gegenstände wirklich ausser uns vorhanden sind . Dieser Glaube ist aber nicht ein Erzeugniß des Menschen selbst , sondern wird dem Menschen von Gott mitgetheilt, sowohl in dem gegenwärtigen, als in dem künftigen Leben; nur mit dem Unterschiede , daß der Glaube der Seligen noch stärker ist, als der Glaube der Menschen in diesem Leben seyn kann, Hiergegen erhebt sich nun ein Einwurf, daß der Skepticismus sich auch nicht mit dem Glauben vertrage; weil dieser immer bereits etwas dogmatisch Gewißes bedarf, worauf er selbst fußen kann; z. B. die Existenz Gottes , oder auch einer göttlichen Offenbarung selbst; Daß [p. 603] daß also mit der Zerstörung aller Vernunftge. wißheit auch die Möglichkeit des Glaubens schlechthin ausgehoben werde. Huet antworte. te hierauf folgendes. Der Glaube hat seinen Ursprung nicht in der Vernunft ; er ist eine übernaturliche Wirkung Gottes in dem Men. ſchen; die Vernunft kann also durch ihre Skep. sis selbst an der Möglichkeit einer wahren Er. kentniß verzweifeln , und der Glaube, sofern er von Gott unmittelbar im Menschen hervorgebracht wird , findet dennoch statt; ja er ist um so kräftiger, je mehr der Mensch durch den Skepticismus die Schwäche und Blindheit seiner Vernunft eingesehen hat. Jener Glaube bezieht sich auf die geoffenbarte Grundwahrheit (veritas prima revelata), die nicht darum geglaubt werden muß , weil sie der Vernunft etwa als evident erscheint , sondern, so wie sie ist , um ihrer selbst willen. Das Licht macht sich selbst und zugleich die Objecte sichtbar , welche es beleuchtet; eben so offenbart uns jene Grundwahrheit ein Geheimniß , und macht uns zugleich für den Glauben an den Gegenstand desselben empfänglich. Die Vernunft ist also nicht die Ursache des Glaubens, sondern nur das Werkzeug desselben. Sie empfiehlt selbst den Glauben, nachdem sie mit ihrer eigenen
+
+Schwäche vertraut geworden ist. Beurtheilt man die Argumente für die Wahrheit der christ.
+
+lichen Religion aus bloßer Vernunft, so haben sie [p. 604] sie nur Probabilitat ; der Glaube hingegen giebt ihnen Gewißheit. Sofern Huer bey seinem Skepticismus den Glauben zum Zwecke hat, oder vielmehr jenen durch diesen niederschlug ; wollte er auch nicht für einen Pyrrhonier oder Skeptiker angesehen seyn, als welche die
+
+Gültigkeit des Glaubens nicht anerkennen. Er folge auch nicht den Meynungen anderer; es sey seineMeynung , die er vortrage , und die er selbst immer in Zweifel stelle; er wollte deß. wegen, wenn seiner philosophischen Denkart ein besonderer Namen bengelegt werden sollte,
+
+Idiognomiker genannt seyn.
+
+Daß Suer übrigens dem obigen Einwurse durch die von ihm genommene Ausflucht nicht entgieng , ist klar. Ob die geoffenbarte Grundwahrheit wirklich göttlich sey; dies zu entscheiden , ist gar kein Kriterium vorhanden ; da verschiedene Völker sich auf göttliche Offenbarungen berufen, die einander schnurstracks widersprechen , und der Glauben daran von allen als eine übernatürliche Wirkung Gottes betrachtet wird.
+
+Hier zerstört demnach der Skepticismus der Vernunft auch allen Offenbarungsglauben. Es ist dieser Glaube auch nur durch eine Tauschung des Gefühls und der Phantasie , die in frühern religiösen Eindrücken ihren Grund hat , mog. lich. An sich selbst ist er bey einem vollende.
+
+ten Skepticismus der Vernunft ein bloßer Wahn.
+
+Die Entstehungsart des Skepticismus des Suet Lernt man am besten aus der Vorrede zu det
+
+Schrift über die Schwäche des menschlichen Verstandes kennen. Das Verhältniß des
+
+Glaubens zur Vernunft untersucht Bac auch im ersten Buche der Quaest. Aluet, Vergl. Staudlin's Geschichte und Geist des Septicism, B. II. S. 80: f.
+
+§. 980. Ein anderer skeptischer Gegner der Car.
+
+kesianischen Philosophie, so wie des altern phi. losophischen Dogmatismus überhaupt, war
+
+Joseph Glamwill, ein Englander. Er stritt in einem Werke, das er scientifische Skepsis betitelte, gegen den Unglauben und gegen den
+
+Aberglauben ; also war der
+
+Zweck seines Skepticismus nicht, alle Wahr Heit der Erkentnih verdächtig zu machen, son. dern nur Bescheidenheit im Urtheilen zu empfehlen , weil die Schwäche der menschlichen
+
+Vernunft seit demSundenfallediesenothwendig mache.
+
+Manche.seiner Raisonnements sind von den ditern Pyrrhoniern , und auch vom
+
+Montaigne und Charron, entlehnt. Er geht Die vornehmsten Gegenstände der Erkentniß durch und zeigt die menschliche Unwiſſen heit in Ansehung derselben. Am längſten verweilt er bey der Kritik des Aristotelischen , BubleGefch. d. Phil,6,Th. 2teGalfre,
+
+Oq des [p. 606] des Cartesianischen, und auch des Hobbesi
+
+ſchen Systems , und sucht nicht nur die Blossen dieser auszudecken, sondern überhaupt dara zuthun, daß kein philosophischer demonstrati ver Dogmatismus, wie er von den Peripate tikern von den Cartesianern u. a. , versucht sey, sich zu Stande bringen lasse. Unter seinen skeptischen Argumenten ist am merkwürdigsten Dasjenige, was er von der Zufälligkeit des
+
+Caussalverhältnißes hernahm, die er aus eben dem Grunde folgerte, aus welchem sie ſpäter.
+
+hin von Sume hergeleitet wurde ; so daß es nicht unwahrscheinlich ist , daß Sume dieses
+
+Argument ihm verdankte.
+
+Die Erfahrung lehrt uns nur , daß ein Ding das andre beglei.
+
+te , oder auf dasselbe folge ; nicht aber, daß das eine die Ursache des andern sey. Glanwill fügt aber noch mehr Grunde gegen die
+
+Gültigkeit unserer Erkentniß von den Ursachen der Erscheinungen hinzu. Die Erscheinungen sind in der Welt so mit einander verbunden und vermischt, daß es nicht leicht möglich ist , eine bestimte Wirkung einer bestimten Ursa. che mit Gewißheit zuzuschreiben ; und da nach dem Begriffe der Caussalität selbst die Ursachen eine fortlaufende Reihe ausmachen; so müssen wir alle Ursachen eines Dinges kennen, wenn wir über die Ursache desselbenüber.
+
+Haupt urtheilen wollen, was doch nicht mig lich ist. Aller Dogmatismus beruht demnach [p. 607] auf einer eiteln und ungegrundeten Anmaas. sung; er geht aus der Unwissenheit hervor, erzeugt Einseitigkeit, Irrthümer , und ist dem freyen Philosophiren schädlich. In diesem Betrachte ist es wohlthätig , ihm die Skepsis entgegenzusetzen. " Die Dogmatiker ", sagt
+
+Glanwill, verrathen eine Armuth und Be schränktheit des Geistes. Es giebt eine Parten von Pedanten, die sich der Geistessclave. rey unterworfen haben. Ein liberaler Geist behauptet die Freyheit seines Urtheils , und wird sich nicht in einen Meynungskerker ein. ſperren lassen. Er prüft alles mit gleicher Aufmerksamkeit , und urtheilt so unparteyisch, wie Rhadamanth; anstatt daß der Pedant nichts hören mag, als was mit seinen Vorurtheilen zusammenstimmt , und nicht weiter sehen kann, als der Horizont seines Gefängnißes sich erstreckt. Die Vorstellungsart des liberalern
+
+Geistes ist nur temporär; er behält sie so lange, bis eine bessere Evidenz seine vorigen Ueberzeugungen ändert." Scepfis scientifica , or confeft ignorance , the way to ſciency; In an Eſſay of the vanity of dogmatizing and confident opinion. With a reply to the exceptions of the learned Thomas Albius. By Joſeph Glanwill, M. A. London. 1665. 4. Den Vere dacht des Skepticismus und der Verachtung aller Philosophie lehnt Glanwill des sonders [p. 608] sonders in der Vertheidigung gegen den
+
+Thomas Albius ausdrücklich von sich ab. §. 981.
+
+Nicht als Skeptiker , sondern als Dogmatiker und zwar als einer der gelehrteſten und scharfsinnigsten Dogmatiker seiner Zeit, erklärte sich gegen Des Cartes und dessen Philosophie Petrus Gassendi. Er wurde imI.
+
+1592 n einem kleinen Flecken der Provenge von armen Eltern gebohren. Seine Neigung zur Mathematik , Astronomie, Physik , und Philoſophie verrieth sich schon in seinem Knabenalter auffallend. Er that, da er Gòn ner fand, die ihn unterstusten, daß er in jenen Disciplinen Unterricht erhalten konte, so raste Fortschritte in denselben; daß er schon in seinem sechszehnten Jahre als Lehrer der Rhetorik, und drey Jahre her. nach als Lehrer der Philosophie zu Dijon angestellt wurde. Gegen die Aristotelische Philosophie wurde er durch die Lecture der Schriften des Ludovicus Vives, De.
+
+trus Kamus , und Srariciscus Patricius frup eingenommen; und bestritt sie auch selbst nach eigener Prüfung lebhaft in den Exercitationibus paradoxicis adversus Ariftoteleos, wovon er das erste Buch 1624 herausgab, [p. 609] und dem er ungeachtet des widrigenAufsehns, welches jenes den den mächtigen Anhängern des Aristoteles erregte, bald hernach auch das zweyte folgen ließ, Es sollten noch fünf ane dere Bücher hinzukommen, die er aber entweder nicht ausgearbeitet , oder aus besondern Grunden, wahrscheinlich ausFurchtsamkeit,un terdruckt hat. Dieses Werk verschaffte ihm einen ausgebreitetern Ruhm. Er trat in den geistlichen Stand , und erhielt ein Canonicat zu Dijon. Auf Antrag des Cardinals du
+
+Plessis, Erzbischofs von Lyon , ward er im I. 1645 Professor der Mathematik zu Paris, und lehrte hier mit ausserordentlichem Beyfalle. Die Anstrengung indeßen, welche ihn sein lehramt kostete, zog ihm eine Lungenentzundung zu. Er begab sich auf einige Zeit in die Provence, um seine Gesundheit durch das mildere Klima herzustellen. Kurz nach seiner Rückkehr nach Paris aber im J. 1655, fiel er in eine schwere Krankheit, deren Folge Entkraftung und zuletzt eine gänzlicheAuszeh. rung war.
+
+Er starb 1655 im dren und sechszigsten Jahre seines Alters. Eine der vornehmsten Quellen zur Lebensgeschichte des Gassendi sind seine Briefe im sechsten Bande seiner Werke, Die Schrift des Sorbier , eines Schulers desselben, de vita et moribus Petri Gassendi , ist bereits in der Literatur zu diesem Abschnitte ange.
+
+führt [p. 610] führt worden. Sorbier nennt sich selbst. feſtem oculatum, amicum, fidum , discipulum veterem; man kann also wohl seine
+
+Biographie als zuverlässig betrachten. Vergl. Baillet Vie de Mr. des Cartes liv. 6. ch. 5 und die Vorrede zu des Bernier abregé de laphiloſophie de Gaſſendi; Paris 1678. 8. In der neuern Biographie des Bugerel (Vie de P. Gaffandi; Paris 1737. 12) sind mehrere Unrichtigkeiten. S. Lettre critique et hiſtorique à l'auteur de la vie de P. Gassendi; Paris 1737. 12. Vergl. Bayle Dict. Art. Catius. Bruckeri hist, crit. phil. T. IV. P. I. p. 510 und die dort citirten neuern literarhistorischen Werke.
+
+§. 982. Gassendi war sowohl durch seinen philosophikhenGeist und seine Gelehrsamkeit, als durch seine liebenswürdige Bescheidenheit , eine der glänzendſren Zierden seines Zeitalters. Bayle nannte ihn mit Recht den größten Gelehrten unter den Philoſophen, und den größten Philoſophen unter den Gelehrten. Er verband Theologie, alte classischeLiteratur , Mathematik, Astronomie , Physik und Philosophie , und warinjeder Dieser Wissenschaften gleich groß.
+
+Wurde er auch von einzelnen seiner Zeitgenossen an tiefe rer ‫کو‬ v. Descartes bis. a. Leidn.
+
+rerKentniß einiger unter den bemerkten Disciplinen , wie vom Des Cartes in der Kentniß der höhern Mathematik, übertroffen; so war doch keiner , der ihm an Gründlichkeit und
+
+Vollständigkeit der Uebersicht aller jener Disciplinen zufammengleich kam. Er ſtrebte mehr nach einer allgemeinen gelehrten Bildung , als nach einer bloß partiellen. So mannichfaltig auch seine Gelehrsamkeit war, so hatte sie doch seinen Geist nicht überladen; eine Wirkung, die das Vielwissen so gewöhnlich hat; vielmehr herscht in seinen Schriften eine ausnehmende
+
+Klarheit und Ordnung der Ideen , Bundigkeit des Raisonnements , eine scharfsinnige Kritik der den ſeinigen entgegenstehenden Meynungen und Vorstellungsarten, und eine vorzügliche Gabe der Deutlichkeit in der Darstellung und im Ausdrucke. Den Ruhm der Bescheidenheit
+
+Hater selbst durch seine gelehrten Streitigkeiten nicht verwirkt, so anmaßend und bitter auch
+
+Des Carres und deßen Anhänger gegen ihn wurden. Sorbier erzählt von ihm, daß er wenig von sich selbst und seinenStudien gesprochen, und sich nur eine Liebhaberen für Wissenschaft beygelegt habe. Er habe oft über die Schwäche der menschlichen Vernunft geklagt, die nicht ohne unaufhörlichen Anstoß im Gebiete der Naturforschung fortschreiten könne;
+
+und daher offenherzig eingestanden, daß er nichts entdeckt zu haben glaube , was ihm selbst [p. 612] oder andern scharfsichtigern Forschern Genüge thäte. Diese Gesinnung habe ihn auch dahin gestimmt, Niemanden seine Meynungen aufzudringen, und den Widerspruch Anderer ger. ne zu ertragen. Bayle wollte in dieser philosophischen Bescheidenheit des Bassendi einen Beweis finden, daß er Skeptiker gewesen sen; aber diesem widerspricht doch der Charakter ſeiner Philosophie, soweit wir diese aus seinen Schriften kennen; obgleich sein Dogmatismus nicht so einseitig und anmaßend war , wie den denUrhebern der berühmtesten dogmatischphilosophischen Systeme, und in seiner Art zu philosophiren, auch soferne er dogmatisch Resultate feststellte, die Skepsis sehr leicht sich geltend machte
+
+§.983 .
+
+So wie sich Gassendi als einer der scharfsinnigsten und gelehrtesten Gegner der Aristotelischen Philosophie hervorthat; so erwarb er sich vornehmlich Ruhm und Ver dienst durch seine Bemühungen, das atomifrische System des Alterthums, insbesondre die Epikurische Philosophie in ihrem ganzen Umfange, aufzuklären, Einige neuere Ge.
+
+lehrte haben ihm darüber Vorwürfe gemacht, [p. 613] v. Descartes b. a. Letbin.
+
+und ihn sogar unter die Rubrik der Atheisten gesetzt, weil sie glaubten, daß das atomistische System eigentlich das ſeinige gewesen sey. Diese Vorwürfe sind aber ungerecht, da er in der Darstellung des atomistischen Systems zugleich gegen den Atheismus argumentirt und den Theismus vertheidigt hat. DieUntersuchungen über die Epikurische Philosophie begann er mit einer Apologie des Epikur selbst, seines
+
+Lebens und Charakters, und seiner Grundsätze, sobald man diese nur aus dem richtigen philosophischenGesichtspuncte beurtheile. Die Vera anlassung zur Bekantmachung jener Untersuchungen gab ihm Franz Luillier, einer der vertrautern Freunde des Gassendi zu Paris, welchen die Neuheit der Resultate, so wie sie dieser aus seinem Studium der Nachrichten der Alten vom persönlichen Charakter des Epikur und von der Philosophie desselben gezogen hatte , auffiel. Epikur erschien hier als ein ohne alle seine Schuld bey der Nachwelt Verleumdeter ; der aber von allen Vorwürfen frey gesprochen werden könne, sobald die echte hiſtoriſche Kritik in Ansehung seiner ihre Rech. te behaupte. Selbst seine Philosophie, mit Ausnahme weniger Irrthümer , die doch auch in der allgemein verehrten Aristotelischen Philosophie statt hätten, zeigte sich hier sowohl theoretisch als praktisch in einem ungleich gün stigern Lichte, als inwelchem man sie bis dahin era [p. 614] erblickt hatte. Luillier, der selbst Kenner der griechischen Literatur war, ermunterte also den
+
+Gassendi, wenigstens den Theil seiner Untersuchungen bekant zu machen, der das Leben und den Charakter des Epikur angienge: denjenigen, welcher sich auf die philosophische Vorstellungsart desselben beziehe, da dieser eine weiter aussehende Arbeit erfodere, wurde man allenfalls mit geringerer Ungeduld noch etwas länger erwarten. Gassendi folgte der Ermunterung seines Freundes. Ohne den Epikur allem Tadel zu entziehen , oder zu behaupten , daß dieser allein die WahrheitgefunDen habe, bewieser, daß derselbe imAlterthume nur durch den Neid und Parteyhaß der entgegengesetzten philosophischen Schulen , und in den neuern Zeiten durch die auf Unfunde gegründete Verachtung der Menge derGegen ſtand des allgemeinen Spottes geworden sey; daß vielmehr , wenn man ihn unbefangner und mit wahrer historischer Kentniß beurtheile, wenig Philosophen gelebt hätten, die sich einer solchen Einfalt, Reinigkeit und Strenge des
+
+ſittlichen Charakters rühmen könten, wie Epikur; daß dieser sich ferner durch philosophi. schen Scharfsinn und Reife des Urtheils vor vielen andern auch berühmten Philosophen des Alterthums auszeichne. Er äuſſerte, daß er an der Ausübung der Pflichten der Humanität ein Vergnügen sinde , und es also nicht [p. 615] ertragen könne, daß der gute Ruf einesMan nes geschändet werde, welchen er für schuldlos Halte, und daß er sich freue, denselben widerHerstellen zu können. Väre er davon über zeugt, daß Epikur der Schwelgeren und als Len schnöden Wohlisten ergeben gewesen sen, so wurde er nicht ermangelt haben, mit allen Uebrigen sein Andenken zu verwünſchen. Gas. sendi leugnete nicht, daß im Verhältniße zu den Lehren der Religion die Epikurische Philosophie manches enthalte, was diesen zuwider laufe, hauptsächlich in ihren Behauptungen über die Vorsehung und die Unsterblichkeit der Seele. Diese Irrthymer versprach er zu widerlegen ; er sen zwar Apologet des Epikur und seiner Philosophie gegen ungerechte Beschuldigungen; aber darum nicht sein Arhanger; und wegen einzelner Irrthümer müsse man nicht das ganze System und seinen Urheber schlechthin verwerfen; sondern ihm eben die Billigkeit wiederfahren lassen, die man dem Aristoteles beweise. So unzufrieden die orthodoxen Eiferer mit dem Gassendi waren , daß er die Vertheidigung eines nach ihrer Meynung infamen Philosophen übernommen hatte; so konten sie doch der Gelehrsamkeit und historischen Kritik ihre Bewunderung nicht versagen, die in dem Werke desselben über das Leben und den Charakter des Epikur Dargelegt war, Auf Antrieb des Aegidius Me
+
+[p. 616] Menage verwandte Bassendi zunächst seinen Fleiß auf die besondre Erläuterung des zebn ten Buchs der Lebensbeschreibungen der Philosophen von Diogenes von Laerte, das ganz die Geschichte des Epikur zum Inhalte hat. Zur Berichtigung des Textes und zur Erlaurerung hat hier Gassendi Alles geleistet, was ihm seine Kentniß der classischen Literatur überHaupt und der griechischen Sprache insbesondre, seine Kritik, und sein Studium des Epikureismus und der Nachrichten der Alten nur, möglich machten. Menage, der gelehrte und berühmte Herausgeber des Diogenes, urtheilte von diesem Commentare: Quid de Epicuri decretis quisquam proferre possit, quod Gaffendusnon viderit? poſt quem tacere modeftiffimum foret, nik quædam in textus Lærtiani enarratione vir mihi amiciſſimus nontam omififfet, quam mihi reliquiffet. Bald nachher vollendete Gassendi auch die Darstellung des philosophischen Systems des
+
+Epikur selbst, indem er die vorhandenen Bruchsticke zu einem Ganzen verband , und die Lücken, die übrig blieben, durch eignes Raisonnement aus Epikurischen Principien er.
+
+gänzte. Damit aber die Irrthümer des EpiKur weder in der Physik , noch in der Moral, anstößig und verführeriſch wurden, fügte Gaſſendi noch einige besondre Untersuchungen zur Berichtigung und Widerlegung derselben hin
+
+hinzu: 1) Ob diese Sinnenwelt für das Universum zu halten sey ? a) Daß das Universum nicht einem Zufalle seinen Ursprung ver. danke, sondern einer allmächtigen und allweisen Gottheit; 3) daß diese Gottheit auch die
+
+Welt erhalte und regiere; 4) wie man sich die Vollkommenheiten Gottes gls seine Eigenschaften denken müſſe? 5) daß es eine erste Ursache gebe, und diese die Gottheit sey ; 6) daß der Gebrauch der Theile der Thiere von einer verständigen Ursache auf bestimmte Zwecke gerichtet sey; 7) daß Gott mit einer besondern
+
+Vorsehung das menschliche Geschlecht regiere;
+
+8 was der materielle Urstoff der Dinge sen, und durch welche Nothwendigkeit er hervorgebracht werbe? 9) was manvon der Divination oder der Vorempfindung zufälliger künstiger Dinge halten musse ? Nachdem Gassendi auf diese Weise die gesamte Epikurische Philosophie aufgeklärt, und in ihren Principien und Resultaten berichtigt und geläutert hatte;
+
+so benutzte er sie als Fundament eines eignen philosophischen Systems mit beständiger Hin sicht auf die Geschichte der Philosophie, haupt sachlich auf die Beobachtungen und Entdeckungen der neuesten Naturforscher.
+
+Zu seinen höchst interessanten und für die Geschichte der physikalischen und mathematischen Disciplinen lehrreichen Schriften gehören auch seine Biographieen des Tycho de Brahe, Nicolaus
+
+[p. 618] Copernicus, Georg Purbach , Johann Regiomontanus , und Nicolaus Fabricius Peirescius.
+
+Er beschränkte sich nicht darauf, die Lebensumstände dieserMänner zu erzählen, sondern würdigte zugleich den Ein fluß, welchen sie auf den Zustand der Wissen schaften gehabt hatten, die von ihnen bearbeitet waren.
+
+§.984.
+
+Gassendi war auch ein Widersacher der
+
+Cartesianischen Philosophie, vornehmlich in der Physik , und gerieth mit dem Des Cartes selbst und einigen der eifrigsten Anhänger des. selben in Streitigkeiten, die ohne Schuld des Gassendi sehr leidenschaftlich und bitter wur den. Die Geschichte dieses Streits hat Baillet, der Lebensbeschreiber des Cartesius , am ausführlichsten erzählt, jedoch nicht ohne Par teylichkeit; da er dem Gassendi aufbürdet, daß dieser aus bloßem Neide und aus Misvergnů gen darüber als Gegner des Cartesius aufgetreten sey , weil derselbe in seinen Werken von ihm keine rühmliche Erwähnung gethan habe. Dieser Vorwurf ist um desto unge.
+
+gründeter, da Cartesius selbst dieBescheiden=
+
+Heic
+
+[p. 619] Heit des Gassendi anerkannte. Beyde große Männer hatten an den Marinus Werfen, nus , einem Minoriten und trefflichen Mathematiker und Physiker zu Paris , einen gez meinschaftlichen Freund. Des Cartes schikte dieſem ſeine Meditationes zu, um das Urtheil desselben und anderer zu Paris damals leben der Gelehrten darüber zu erfahren.
+
+Dieser theilte das Cartesische Werk dem Gassendi mit, der seinerseits sie mit seinen Objectiones ober Disquifitiones metaphysicæ , die gegenwärtig unter den Objectiones ad meditationes Cartesii die fünfte Nummer ausmachen, zu.
+
+ricksandte Carres dieselben , und , zu empfindlich gegen Widerspruch, ließ dieser sie sofort mit seiner Beantwortung drucken.
+
+Mit Rechte wurde
+
+Gassendi hierüber unwillig , da er jene Einwürfe gar nicht in der Absicht niedergeschrieben hatte , um mit dem Des Cartes einen offentli chen Streit anzufangen. Um inzwischen zu zeigen, inwiefern er durch die Beantwortung des Carresius noch nicht befriedigt sen, schrieb er wiederum Inftantias ad reſponſiones Carteſii , die ebenfalls gedruckt wurden. So sehr auch Carresius von seinen Anhängern und Freunden gereizt wurde , diesen Instanzen des
+
+Gassendi wieder eine Antwort entgegenzusetzen; so war jener doch nicht dazu zu bewegen ;
+
+vielleicht weil er die Schwierigkeit der Beant. wor [p. 620] wortung fühlte ; und als er bald darauf nach Paris kam, wurde durch die Vermittelung mehrer Freunde zwischen ihm und Gassendi eineVersohnung gestiftet, worin sie sich bende eine Beendigung des Streits und Vergessen heit aller gegenseitigen Bitterkeiten gelobten, twelche leptere sich besonders Cartesuis gegen Hassendi erlaubt hatte. Ganz konte inzwiſchen Jener sein Misvergnügen über den Widerspruch dieses auch in der Folge nicht unter. Drücken. In einer neuen Ausgabe seiner Meditationes Heß er ble Objectiones und kiflantias des Gassendi weg, und rückte slate deren ein Epiftols ein, in der er die Einwurse Das sendi's, wiewohl auf eine sehr unbefriedigende Weise, wegzuräumen suchte. Einen andern Streit führte Gaſſendi mit dem Joh. Bap. tist Morin, Professor der Mathematik zu Paris, einem leidenſchaftlichen Anhänger der Astrologie, diejener mitdenunleugbarstenGrunden bestritten hatte. Die Geschichte dieses Streits, den die Schuler und Freunde Gassendi's, namentlich Bernier, fortsetzen, gehörtnicht Hier her, sondern in die Geschichte der Astronomie und Physik. Franz Bernier verdient auch ausserhalb diesem Streite hier eine besonbere Erwähnung, nicht nur als einer der berühmtesten naturforschenden Reisenden nach dem Oriente und als Lehrer der Medicin zu Montpellier, sondern auch als Philosoph ‫סחוו‬ [p. 621] und als einer der glücklichsten Verbesserer des Gassendismus. Er lichte den Gassendi so sehr, daß er ihm nach Toulon , Dijon und Paris folgte, und auch bey dem Tode des. selben gegenwärtig war. Da das atomistische System unter andern an dem Jesuiten Vale sius einen Widersacher erhielt , weil dieser glaubte, daß dasselbe mit der Lehre von der Transsubstantiation unverträglich sey; so schrieb Bernier für sich und zur Vertheidigung seines Freundes eine Apologie. Sein vortrefflicher Entwurf vom Systeme des Gassendi ist schon oben angeführt worden. Er zeigte sich hier nicht nur als einen sehr einsichtsvollen Epitomator, der in den Geist des Systems seines Lehrers völlig eingedrungen war; sondern er fügte auch Manches hinzu, und be nutzte die neuen Entdeckungen in der Phy fik, die Gassendi nicht hatte benutzen können. Daß er auch nichts weniger als ein blinder
+
+Anhänger der Lehren seines Freundes war , beweisen die Zweifel über einige der wichtig. ſten Behauptungen Gassendi's, die in jenem Entwurfe enthalten sind. Ausser an mehrern, französischen Gelehrten, fand übrigens die Philosophie des Gassendi an dem Engländer
+
+Walter Charleron einen eifrigen Verehrer und Commentator.
+
+Rr Ueber
+
+[p. 622] Ueber den Streit des Gassendi mit Des Cara tes S. hauptsächlich: Baillet Vie de Mr. des Cartes V. 5. und Gerardi de Vries disfertatiunculahistorico-philosophicade Renati Cartesii Meditationibus aGaffendo impugnatis; Traj. ad Rhen. 1691. 8. Wen gen des Streits mit Morin S. auch Bayle
+
+Dict, Art, Io. Bapt. Morin. Zur Geschichte der damaligen Bemühungen für die Naturforschung überhaupt , hauptsächlich von denen, die sich theils für , theils gegen Des Cartes und Gassendi erklärten, ist sehr lehereich : Henrici Maji physica vetus noviter adornata ad principia Democriti a
+
+Gaffendo , Verulamio, Boylio, Derodono, Digbaeo, aliisque; Francof. 1689.Die Apologie des Bernier gegen den Jesuiten Valesius findet sich in Bayle Recueil de quelques pieces curieuſes concernant la philosophie de Mr, des Cartes.
+
+§. 985. Nicht als Gegner, aber auch nicht als uni bebingrer Anhänger der Cartesianischen Philosophie , sondern durch eine originale philoso. phische Vorstellungsart , wiewohl dieselbe durch den Cartesiarismus veranlaßt, und ihm auch in mehrern Beziehungen nahe verwandt war , wurde Nicolaus Malebranche
+
+623.
+
+berühmt. Er wurde gebohren zu Paris im J. 1638. Sein Vater war königlicher geheimer Secretair. Da er von Natur einen kranklichen und misgestalteten Körper hatte, so ward er mit großer Sorgfalt und Zärtlichkeit erzogen; indeßen bewirkte eben sein körperlicher Zustand eine gewiße Men schenscheue bey ihm , die ihn auch im reifern
+
+Alter nicht verließ, und aus der ſein Eigenſinn zu erklären ist , daß er sich nicht abmahlen lassen wollte , obgleich doch gegen seinen Wil len ein Portrait von ihm existirt. Die Liebe zur-Einsamkeit bewog ihn auch, sich in seinem zwen undzwanzigstenJahre in dieCongregation de1'Oratoirezubegeben, und sich ganz denStu dien zu widmen. Diese waren anfangs fast ausschließlich auf die biblische Geschichte und Literatur und auf die Schriften der Kirchena väter gerichtet, und gaben zu der mystischen Denkart Veranlassung, die ihm eigenthum lich wurde , und auch in der Folge seine Phi-
+
+Tosophie charakterisirte, Seinen Eifer für die se erzeugte ein Zufall. Er ging einst vor einem Buchladen vorbey , und fand hier das
+
+Werk des Cartesius: De Homine, das damals erschienen war , als eine Novität ausgehängt. Er kaufte die Schrift, und wurde bey Lesung derselben durch die Klarheit der
+
+Schreibart, und die Neuheit und scheinbas
+
+Vortrags so machtig anre Gründlichkeit des Rra gea [p. 624] gezogen , daß die Spannung des Geistes , tie hierdurch bewirkt wurde, ihm mehrmal ein Heftiges Herzklopfen verursachte , und er fortzulesen aufhören mußte. Hierdurch erwachte indeßen in ihm die entschiedenste Neigung zur
+
+Philosophie . Er verließ seine bisherigen literarischen Beschafftigungen , und pflegte sogar zuweilen geringschäßig davon zu reden; wiez. B. die Neusserung beweist , daß er sich keine größere und bessere Gelehrsamkeit wunsche , als diejenige , welche Adam besessen habe. Zehn Jahre wandte er insbesondre auf das Studium der Cartesianischen Philosophie , und er galt daher auch zu seiner Zeit für einen der vertrautesten Kenner derselben.
+
+Nach diesen
+
+Vorbereitungen stellte er das Resultat seiner philosophischen Forschungen in dem berühmten Werfe:Dela recherche de laverité, auf, wovon das erste Buch im J. 1673 herauskam , dem die übrigen bald folgten. Malebranche änderte und ſeilte an diesem Werke unaufHörlich; daher die altern Ausgaben desselben von einander abweichen. Die vollendeteste ist , welche kurz vordes Verfassers Todeim J. 1712 besorgt wurde. So großes Aufsehn nicht nur die tiefsinnige Originalität der Vorstellungs. art des Malebranche , die er hier dargelegt Hatte , sondern auch die Eleganz seiner philosophischen Schreibart erregten , und so vielen
+
+Ruhm sie ihm erwarben ; so fehlte es ihm doch [p. 625] auch nicht an Gegnern. Die lebhaftesten un ter diesen waren Soucher und Arnaud , besonders der lebte, ohngeachtet er vorher zu den
+
+Freunden des Malebranche gehört hatte. Da der Streit sich um metaphysische Subtilitäten herumdrehte, und für den größten Theil, sogar des gelehrten Publicum's, unverständlich war, die Streiter selbst auch sich gegenseitig
+
+Misverständniße vorwarsen; so verlor er sehr bald sein Interesse. Auch die Jansenisten , Molinisten und Jesuiten waren nicht mit dem
+
+Malebranche zufrieden.
+
+Von den leßtern gab auf Befehl der Obern der Pater Du
+
+Sertre eine Widerlegung des Systems des M. heraus , worin er aber die Meynungen desselben oft gar nicht gefaßt, oder entstellt und verdreht hatte. Gegen diesen und andre Widersacher des M. traten aber auch mehrere Schriftsteller zu seiner Vertheidigung auf. M. war übrigens ein Mann von dem edel ften Charakter und von einer fast überspannten Frömmigkeit.
+
+Er starb 1715 im sieben und fiebzigsten Jahre seines Alters. Die kleinern Schriften des Malebranche , in denen sich sein Hang zur Mystik am auffallendsten ausdrückt , sind zusammengedrückt zu Paris 1723. Die Gegenschrift des P. Du Ferive hat den Titel : Refutation da nouveau ſyſteme de Metaphyſique , compoſé par le P. Mallebranche; àParis 1718.
+
+Auch
+
+[p. 626] Auch Leibnitz hat eine besondere Prüfung der Ideen des Malebranche unternommen in dem : Examen principiorum Malebranchianorum, welche Abhandlung in dem Recueil des pieçes de la philoſophie de Newton, Clarke , Leibnitz Tom. II steht.
+
+§. 986.
+
+Der Zweck, welchen Malebranche den seinem Werte de la recherche de la verité hatte, ist theils logisch , theils metaphysisch.
+
+Er wollte die allgemeinen Ursachen derIrr. thummer angeben, denen die menschliche Erkent.
+
+niß unterworfen ist; aber auchzugleich bestimmen, waslin derselben Wahrheit sey,undworauf sich diese zuletzt grunde.
+
+In der ersten
+
+Hinsicht kann man sagen, daß Malebranche ein System der logik; in der andern, daß er ein System ver Metaphysik aufgestellt habe. Er selbst theilte sein Werk in sechs Bücher , von denen das erste von den Irrthümern der Sinne; das zweyte von den Irethumern der
+
+Einbildungskraft; das dritte von den Irrthů. mern des reinen Verstandes ; das vierte von den
+
+Irrthümern , welche durch die Neigungen, und das fünfte von denen handelt, welche durch die Affecten und Leidenschaften erzeugt oder veran lapt [p. 627] last werden ; in dem sechsten entwickelt er end»,
+
+lich die allgemeine Methode , nach welcher man mit Glücke die Wahrheit erforschen könne. Ais Hauptfähigkeiten des Gemiths in Beziehung auf die ErkentnißnahmMalebranche nehme lich den reinen,Verstand, die Einbildungs. kraft und die Sinne an. Durch den reinen
+
+Verstand nehmen wir die geistigen Gegenstände, die Universalien , die Ideen der Vollkommenheit und des allervollkommensten Weſens wahr, und überhaupt gehören dem. selben alle Gedanken , welche im Gemüthe durch bis innere Reflexion desselben auf sich selbst. entstehen. Auch einige materielle Gegenstän be, wie die Ausdehnung mit ihren Eigen thumlichkeiten , werden durch den reinen Ver.
+
+stand wahrgenommen; denn dieser allein ent hält die Ideen des Cirkels , des vollkomnen Quadrats, des Chiliagons u. dergl. Dieſe Begriffe des reinen Verstandes werden deßwegen reinePerceptionen genannt, weil sie das
+
+Gemith ohne imGehirne abgedrucktePhantasmen oder Bilder wahrnimt. Durch die Einbildungskraft faßt das Gemuth nurmaterielle Gegenstände auf.
+
+Mittelst der Bilder , die von jener im Gehirne bewirkt werden, stellt : es sich die Gegenstände als gegenwärtig vor, auch wenn sie nicht wirklich gegenwärtig sind;
+
+und diese Perceptionen heißen daher Zinbildungen, Da sich aber von geistigen Dingen feikeine [p. 628] Bilder im Gehirne abdrucken können, so folgt hieraus , daß wir auch nicht im Stande sind , uns diese einzubilden , eire Bemerkung, die Malebranche sorgfältig einscharst. Durch die Sinne nimt das Gemuth nur die gröbern empfindbaren Objecte wahr ; entweder wenn dieselben unmittelbar gegenwärtig den äussern Organen des Körpers sind , oder, wenn die Thätigkeit der Lebensgeister, falls auch die Objecte nicht gegenwärtig sind , aku.
+
+licheEindrücke im Gehirne hervorbringt. Der gleichen Perceptionen der Sinne heißen Empfindungen oder Sensationen.
+
+Auf diese drey Erkentnißsähigkeiten lassen sich also auch die Irathumer der Menschen , und die vornehmsten Quellen derselben zurückführen. Weil aber auch die Neigungen, Affecten und Leidenschaften heftig auf den Menschen einwirken , und den Geist blenden und umnebeln; so sind sie auch die Ursachen von unzähligen Irrthú mern, wenn wir uns ihren Täuschungen überlas. sen. Dahermüssendie Neigungen , Affecten und Leidenschaften auch als eine Hauptquelle unserer Irrthümer und Verbrechen betrachtet werden. S. Malebranche de la recherche de la verité liv. I. ch. 4.
+
+§. 987.
+
+[p. 629] §. 987.
+
+Die Art, wie Malebranche die Irrthú mer der Sinne, der Phantasie, des Verstandes und der Neigungen und Leidenschaften im Einzelnen aufzählt und untersucht, läßt sich hier nicht entwickeln; so wenig, wie die besondern Regeln hier auch nur historisch angeführt werden können, die er zur Vermeidung der Irr. thumer und zur Vervolkomnung der Gei mathskräste in Beziehung auf die Erkentniß vorschlägt. Es bedarf wohl kaum einer Erinnerung, daß eine Mannichsaltigkeit interessanter Beobachtungen und nützlicher Winke hierüber in seinem Werke zerstreut sind; wenn er auch selbst in seiner Beurtheilung der Irrthümer , hauptsächlich was ihre allgemeine und besondre nächſte Ursachen betrifft, hier und da geirrt hat. Um merkwürdigsten ist, daß er den letzten Grund des Irrthums überhaupt nicht in den Erkentnißkrästen und einem unrichtigen Verhältniße , das aus Ue-. bereilung entsteht oder aus Uebereitung nicht bemerkt wird; sondern in der Grey. heit findet , das, was uns die Sinne, die Phantasie, oder der reine Verstand vor stellen, so oder anders zu erkennen. Indem wir z. B. ein licht sehen , ist das , was wir sehen, gewiß ein licht; die Wärme, welche wir empfinden , empfinden wir wirklich; und Krs
+
+Hier
+
+[p. 630] Hier findet kein Irrthum statt ; behaupten wir aber nun , wie wir nach unserer Freyheit kön. nen , daß das licht , die Wärme , ausser dem empfindenden Subjecte existien, so irren wir. Uebrigens sind es doch die Sinne hauptsächlich, welche den Misbrauch der Freyheit, und eben dadurch die Irrthümer veranlassen, oder auf welche sich der Misbrauch der Freyheit bezieht; weil die sinnliche Wahrnehmung der Gegenstände, da sie unmittelbar den Körper angeht, mit Lust oder Unlust verknüpft ist. So ist den Sinnen der Ursprung der falschen Moralsysteme zuzuschreiben; weil uns jene nichts als falsche Giter vorstellen; anstatt daß Das einzige wahre Gut die Gottheit ist , die nur durch den reinen Verstand erkant werden mag, und die Philosophen nach ihrer Freyheit mehr den Sinnen, als der reinen Verstandeserkentnis folgten. Ueber die Freyheit als Princip des Frrthums 5. Malebranche recherche de la verité liv.
+
+I ch. 5. liv. III ch. 4.
+
+§. 988.
+
+Am berühmtesten und merkwirdigsten ist im Systeme des Malebranche seine Vorstellungsart von dem Ursprunge und Grunde ununsererErkentniß [p. 631] überhaupt. Daß wir Ideen von Gegenständen haben, ist Thatsache; da. raus aber folgt nicht nothwendig, daß aufser uns diesen Ideen entsprechende Gegenstände wirklich exißiren; da wir uns oft auch Dinge vorstellen , die nicht vorhanden sind , und nie vorhanden waren; vielmehr ist jenes allgemeine Vorurtheil der Menschen , daß die Vorfel. lungen sich auf wirklich ausserhalb vorhandene körperliche Objecte beziehen , der Erkentniß der Wahrheit sehr hinderlich. Alle Ideen laſſen sich auf zwey Classen zurückführen; sie sind entweder innere, eigentliche Gedanken, und also bloße Modificationen der denkenden
+
+Seele selbst; oder sie beziehen sich aufdussere Objecte , welche letztere doch allein mittelst der Ideen von der Seele wahrgenommen werden können. Die äussern Ideen betreffen entweder geistige oder materielle Objecte. Die geistigen Objecte können vielleicht unmittelbar auch ohne Ideen wahrgenommen werden; hingegen die materiellen Objecte können wir nicht un mittelbar wahrnehmen; theils weil sie ausge. Dehnt sind und es zwischen ihnen und der einfachen geistigen Seele des Menschen gar kein
+
+Verbindungsmittel glebt; theils weil der Seiſt nicht aus sich selbst zu ihnen herausgehn , z. B. nicht in die Regionen des Himmels hinaufstei gen kann, um die Himmelskörper zu erkennen.
+
+Malebranche widerlegt hier die Mepnung [p. 632] der Peripatetiker , daß sich Bilder von den körperlichen Gegenständen absonderten , und durch die Sinnenorgane in dieSeele eindran. gen. Er beruft sich darauf, daß die Körper undurchdringlich seyen, folglich auch die Bil. der , die doch die Natur der Körper behalten mußten, sich auf den Wegen zu den Sinnes. organen einander selbst zerstören wurden; daß man von einem Puncte aus eine unermeßliche Menge von Dingen auf der Erde und am
+
+Himmel übersehen könne, es aber unmöglich fen, daß eine solche Menge körperlicher Bilber sich auf diesen einen Punct concentrire; daß dieselben Bilder so unendlich manrichfaltige Richtungen nehmen müßten , als Organe und Standpuncte sind , durch welche und von welchen dieselben Dinge wahrgenommen werden, was ebenfalls unmöglich ist ; daß die Gegenstände anders in der Nähe, anders in der Ferne erscheinen , was sich aus der obigen Hypothese nicht erklären laſſe u. w. Auch die menschliche Seele selbst kann nicht willkührlich
+
+Die Ideen der körperlichen Gegenstände erzeu. gen, so wenig wie ein Mahler ein Thier mahlen kann, das er niemals gesehen hat. Eben so wenig beruht die Wahrnehmung der körperlichen Gegenstände auf uns angebobrnen Ideen von den Gegenständen. Denn die Zahl der Ideen , welche der Mensch möglicher. weise haben kann, ist unendlich , und es ist [p. 633] nicht wahrscheinlich, daß Gott der Seele eineUnendlichkeit von Ideen anerschaffen habe, wovon bey weitem die meisten ihr gar nicht einmal ge. genwärtigwerden. Auch läßt sich bey dieser Voraussetzung nicht einsehen , wie der Mensch un ter den Gegenständen, die er sich vorstellen wolle , wählen könne. Wollte man annehmen, daß Gott die Ideen des Menschen im jedesmaligen Momente erschaffe; so widerstreitet ebenfalls , daß wir zu jeder Zeit denken kön. nen über was für Gegenſtände wir wollen, und uns daher eine Unendlichkeit von Ideen dunkel immer schon vorsthweden muß. Einer vierten Meynung erwähnt Malebranche, daß die Seele zur Wahrnehmung der äußern Dinge nichts weiter als ihrer selbst bedürfe, und daß sie die Gegenstände erkenne, indem sie sich selbst und ihre eigene Vollkommenheit betrachte.
+
+Durch diese Meynung wird der
+
+Mensch der Gottheit gleich gesetzt, als welche allein auf diese Weise die Gegenſtände erkennt. So bleibt demnach nichts übrig , als das Resultat: Wir erkennen.alle äußere Dinge in Gott (Nous voyons tout en Dieu). Gott hat nothwendig die Ideen von allen erschaffenen Dingen in sich; denn sonst hatte er sie nicht erschaffen können; er ist durch seine Gea genwart auf's innigste mit allen Geistern ver. einigt, so daß er der Ort der Geister genannt wer [p. 634] werden kann , wie derNaum der Ort der Körper ist. Die Seele kann also in Gott die Werke Gottes erkennen , so weit er ihr diesel.
+
+den offenbaren will. In Beziehung auf die thierische Welt nahm, Malebranche hier die Meynung des Des Carres an, daß die Thiere bloß belebte Maschinen seyen; und um die
+
+Zweifler zum Schweigen zu bringen , berief er sich auf die Allmacht und Alweißheit Sot. tes, die man verkleinere, wenn man dieMög lichkeit der thierischen Welt nach jener,Hypo theseanfechte. Malebranche de la rech, de la verité liv. III ch. 1-6,
+
+§. 989.
+
+Zur feſtem Begründung und genauern. Bestimmung des Sakes , daß die Seele alle äussere Dinge in Gott erkenne, bemerkteMale branche noch folgendes. Erstlich; Dadurch daß die Seele alle Dinge in Gott wahrnimt, erkennt sie das Weſen Gottes selbst noch nicht.
+
+Das, was sie erkennt, ist , sofern es von ihr erkannt wird , sehr unvollkommen; Gott selbst aber ist das allervollkommenste Wesen. Die
+
+Materie erkennt die Seele als theilbar und un.
+
+unter mannichfaltigen Gestalten ; in Gott sind F keine Theile und keine Figur.
+
+Gott ist Ales, weilet unendlich ist und Alles umfaßt ; aber Er ist zugleich eben deswegen nichts Besonderes und Individuelles. Jene vollkommenste Einfachheit der Gottheit, die gleichwohl alles umsaft , ist für uns schlechthin unbegreiflich Zweitens: Selbst die Art, wie der Mensc die Gegenstände wahrnimt. beweist , daß Ms les von ihm in Gott wahrgenommen wird.
+
+Die Erfahrung lehrt, daß , wenn wir über ir> gend einen besondern Gegenstand nachdenken wollen , wir zuerst einen Blick auf alle vor Handene Dinge werfen , und nachher unsere Betrachtung besonders auf jenen richten. Nun aber läßt sich nicht bezweifeln, daß wir dem
+
+Trieb nicht haben könnten, etroas zu erkennen, wenn wir dasselbe nicht schon, obwohl nur Dunkel und im Allgemeinen , erkennten, und also folgt daraus , daß wir den Trieb haben, alle Dinge zu erkennen bald dieses bald jea ries: daß sie alle unserer Seele gegenwärtig seyn müssen.
+
+Alle Dinge können aber unter keiner andern Bedingung unserer Seele gegenwärtig seyn, als sofern Gott dieser gegenwärtig ist, der in seiner Einfachheit Alles uma faßt. Drittens: Die Seele konte sich die allgemeinen Ideen der Gattung , Art, u. w. nicht vorstellen, wenn sie nicht alle Dinge in Einem enthalten erkennte. Denn da jedes era [p. 636] erschaffene Ding ein individuelles Ding ist, so kann Niemand sagen, daß er ein einzelnes erschaffenes Ding erkenne, wenn er z. B. einen Triangel überhaupt erkennt. Ich glaube nicht, sagt Malebranche , daß Jemand hinlängliche Rechenschaft davon geben könne, wie die Seele viele verborgene und allgemeine
+
+Wahrheiten erkennt, wenn dieses nicht durch die Gegenwart deßen bewirkt wird , der die
+
+Seele auf unzählige Arten erleuchten kann. Gott selbst ist es , der die Philosophen in den Erkentnißen unterrichtet und erleuchtet, die sie mit undankbarem Herzen natürliche Erkentniße nennenmobgleich diese vom Himmel abstammen. Viertens: Das berühmteste und gründlichſte Argument für die Exiſtenz Gottes, wie Malebranche mennt , wird von Der Idee entlehnt, welche wir vom Unendlichen haben. Die Seele kann das Unendliche denken oder ahnden , wiewohl sie es nicht be.
+
+greifen kann, und sie hat eine sehr distincte Idee von Gott , die ihr nirgend anders her zu Theile geworden seyn kann, als durch ihre Vereinigung mit Gott; da die Idee eines unendlich vollkommen Wesens, wie wir sie von
+
+Gott haben , nicht von einem erschaffenen We sen erzeugt werden mag. Die Seele hat aber nicht bloß die Idee des Unendlichen ; sie hat dieselbe auch noch vor der Idee des Endlichen.
+
+Wir denken das Unendliche dadurch , daß wir [p. 637] wir etwas überhaupt Unbestimmtes, denken, ohne darauf Rücksicht zu nehmen, ob es endlich oder unendlich san. Hingegen um das Endliche zu denken , müssen wir nothwendig etwas von jenem allgemeinen Begriffe, abzie. hen, welcher daher voran gehen muß. Die Seele also erkennt nichts , als nur durch die Idee , welche sie vom Unendlichen hat. Diese entspringt so wenig aus einer verwirrten Ver. einigung aller Ideen von besondern Dinaen, wie die Philosophen behaupten, daß vielmehr alle besondern Ideen nichts anders sind, als wie Participationen an der allgemeinen Idee des Unendlichen; so wie Gott sein Daseyn nicht von den erschaffenen Dingen empfängt; im Gegentheile diese nur durch ihn verhanden sind. Sunfrens: Die Ideen sind wirksom, soferne sie aufdie Seele einwirken , sie erleuchten, und durch die angenehmen oder unangenehmen Empfindungen, welche sie in ihr hervorbringen, sie glücklich oder unglucklich ma chen. Es kann nichts , als Etwas über die Seele Erhabenes , auf diese unmittelbar einwir. ken, und folglich kann es nur Gott; denn
+
+Niemand ausser ihm , dem Urheber der See. le , kann die Modificationen derselben hervor. bringen. Folglich müssen alle unsere Ideen in der wirksamen Substanz des göttlichen Wesens vorkommen , welches allein die Intelligen.
+
+zen zu afficiren vermag. Sechstens: Gott [p. 638] kann die Seele nicht zur Erkentniß seiner Werke erschaffen , wenn nicht die Seele auf gewiße Weise Gott erkennt , indem sie seine Werke erkennt. Man kann daher sagen, daß, wenn die Seele Gott nicht erkennte, sie überall Nichts erkennen wurde; so wie wenn wir Gott nicht liebten , d. i. wenn uns Gott nicht unauspörlich die Liebe zum höchsten Guten ein pflanzte, wir überall nichts lieben würden. Dean da disse liebe unser Willen ist, so wir. denwir ohne sie nichts lieben oder wollenkönnen; weil wir besondre Guter nur unter der Be dirgung zu lieben im Stande sind, daß wir Den Trieb der Liebe auf jene Güter richten, welchen Gott uns auf sich selbst ertheilt. Wir lieben also nichts , ausser durch die nothwendige Liebe , womit wir zu Gott hingezogen werden; wir erkennen nichts , ausser durch die natürliche
+
+Erkentniß , welche wir von Gott haben; und alle besondere Ideen von erschaffenen Dingen, welche wir befizen , sind nichts anders, als wie
+
+Einschränkungen unserer Idee vom Schopser überhaupt ; so wie alle Richtungen unsers Willens zu den erschaffenen Dingen nichts anders, als wie Determinationen der Richtung zu dem
+
+Schöpfer sind.
+
+Siebentens : Inzwischen ist hierbey wohl zu bemerken , daß wir durch die Erkentniß der Dinge in Gott doch immer Gott seinem Wesen nach nicht erkennen. Wir können nur insofern sagen, daß wir Gott er fene kennen , als wir die Ideen der Dinge in ihm wahrnehmen. Die ewigen Wahrheiten , die wir einsehen, sind nicht selbst, Gott, sondern in Gott. Eben so, wenn behauptet wird, daß wir materielle: und empfindbare Gegenstände in Gott wahrnehmen; so heißt dies nicht so viel , daß wir diese Dinge in 'Gott empfinden; sondern nur so viel: daß jene Empfindung von der Einwirkung Gottes auf uns herrůbre; denn Gott selbst erkennt zwar die empfindbaren Gegenstände , aber er empfindet sie nicht. Wird etwas Empfindbares von uns wahrgenommen; so zeigen sich in une free Wahrnehmung die Sensation und die rei ne Idee, Die Sensation ist eine Modifica tion unserer Seele ; Gott erzeugt dieselbe in uns und kann sie in uns erzeugen, obaleich er selbst sie nicht hat, weil er in der Idee, die er von unserer Seele besikt, erkennt , daß
+
+ſte jener Sensation fähig sey. Die Idee aber, welche mit der Sensation verbunden ist, exi. stirt in Gott , und wir erkennen sie, weil es
+
+Der Gottheit gefällt, sie uns zu offenbaren. Gott verknüpft die Sensation mit der Idee deßwegen , damit wir glauben sollen, daß die äußern Dinge uns gegenwärtig seyen, und wir diejenigen Empfindungen und Affecten erhalten, welche wir in Beziehung auf sie erhalten müſſen. Aus allen den angeführten Gründen und Bestimmungen zieht nun Malebranche noch [p. 640] noch einmal das ollgemeine Resultat : Gott ist die intelligible Welt oder der Ort der Geister, so wie die materielle Welt der Ort der Körper ist Von seiner Allmacht erhalten DieGeister ihre Modificationen; in seiner Allwissenheit finden sie alle ihre Ideen , und durch seine Liebe wird ihre Thätigkeit bewirkt. Weil aber Gottes Allmacht und Liebe nicht von ihm selbst verschieden sind, so können wir glauben, doß er noch dem Ausspruche des Apostels Paulus von einem Jeden unter uns nicht ferne fy , und daß wir in ihm leben , weben und sind.
+
+Matebranche de la Recherche de laverité liv. IIl ch. 6. Zur Charakteristik der Art, wie M. seine, philosophische Vorstellungsart darlegt und begründet , ist auch zu bemerken , daß er den jeder Gelegenheit ihre Uebereinstimmung mit den Aussprüchen der heiligen Schriftsteller und der Kirchenväter , namentlich des Augustin, auch mit der damals in der katholischen Kirche in Frankreich herschendeu positiven Theologie , zu zeigen sucht. Es er hdht dies noch mehr den Anstrich des Myſticismus, welchen seine Philosophie schon an sich selbst hat,
+
+§. 990.
+
+[p. 641] §. 990.
+
+In der Erkentniß der Dinge überhaupt unterscheidet Malebranche vier Hauptarten der Wahrnehmung. Die erste ist , wo die Seele die Gegenstände mitteist dieser selbst wahrnimt; die zweyte, wo sie dieselben nur mittelst der Ideen erkennt , so daß der er. kante Gegenstand noch etwas von dem He genstande selbst Verschiedenes ist; die dritte, wo sie die Gegenstände durch das bloße
+
+Bewußtseyn oder den innern Sinn wahraimt ; und die vierte, wo sie di selben durch Vermuthung erkennt. Die Gegenstände werden durch sich selbst und ohne Freen erkannt, wenn sie so faßlich und klar sind, daß sie in die Seele eindringen, und sich ihr unmittelbar darbieten können.
+
+Denn der Verstand ist eine bloß leidende Fähigkeit der Seele, und nur der Wille ist ein thätiges Vermögen. Das Streben desselben nach Ideen ist nicht die wahre Ursache ihrer Existenz , sondern es ist bloß Die gelegenheitliche oder natürliche Ursache ihrer Gegenwart , zufolge den naturlichen Ge sehen der Verbindung, worin unsere Seele mit der Weltvernunft überhaupt steht ; einer Verbindung , welche M. noch an einem an. dern Orte ausführlicher erklärt. Mittelst der
+
+Ideen von ihnen werden die Gegenstände erkannt, wenn sie an und für sich nicht erkenne } bar [p. 642] bar sind , entweder weil sie nicht körperlich sind , oder weil sie die Seele nicht afficiren , und sich the unmittelbar darbieten können. Alle Gegenstände , die wir nicht von uns selbst unterscheiden , erkennen wir nur mittelst des innern Bewußtseyns , oder des innernSinnes, Endlich durch Vermuthung erkennen wir Ge.
+
+genstande, die sowohl von uns selbst , als auch von den Dingen , welche wir an sich selbst oder durch Joeen erkennen, verschieden sind, z. B. wenn wir die Aehnlichkeit gewißer Dinge mit andern schon von uns erkannten denken. Gott allein wird durch sich selbst erkannt. Denn ob es gleich ausser Ihm andere Geister geben mag, welche ihrer Natur noch erkenn bar zu seyn scheinen; so kan doch nur Er allein auf die Seele wirken und sich ihr offenbaren. Wir kennen demnach Gott allein durch ein unmittelbares und directes Anschauen; oder Er_allein kann unsere Seele durch seine eigene Substanz erleuchten. Ueberhaupt Alles , was wir in dem gegenwärtigen Leben erkennen, ver. mogen wir nur durch die Verbindung zu ers kennen, in welcher wir mit Ihm stehen, weil er allein der Regent und Lehrer unserer Seele ist ohne Vermittlung irgend eines erschaffnen Wesens. Malebranche de la recherche de la verité liv. IIl cb, 7.
+
+§. 991
+
+[p. 643] §. 991. Malebranche führt dieses noch weiter aus. Es läst sich nicht be reifen , wie irgend eine erschaffene Substanz als solche sich das Unendliche soll vorstellen können. Sie kann auch nicht durch eine Idee sich dass lbe vor. ſtellen; denn die Idee ist etwas Besonderes von jener universalen und unendlichen Natur Verschiedenes. Umgekehrt ist es sehr begreif. lich, wie alle besondere Dinge durch die Gottheit vorgestellt werden können , der sie alle in ſeiner allmächtigen und eben deßwegen am meisten erkennbaren Substanz umfaßt. Man muß also nothwendig behaupten , Gott werde durch sich selbst erkannt; obgleich die Erkent. nig, welche wir in diesem Leben von Ihm haben, sehr unvollkommen ist; die körperlichen Dinge hingegen werden durch ihre Freen er. kannt , das heißt , in Gott , weil in Gott der die inteligible Welt darstellt , die Ideen aller Dinge enthalten sind Inzwischen , ob. gleich Alles von uns in Gett erkannt werden kann , so folgt doch hieraus nicht, daß Alles wirklich von uns erkannt werde.
+
+Wir erkennen nur diejenigen Gegenstände in Gott, von denen wir Ideen haben , und es giebt auch solche, die von uns ohne Ideen erkannt wer. den. Alles , was in der Welt existirt und wovon wir einige Erkentniß haben , sagt Male614 branbranche, [p. 644] sind Körper , oder Geister, körperliche Eigenschaften , oder geistige Eigen has. ten.
+
+Nun ist kein Zweifel , daß die Körper mit ihren Eigenschaften bloß durch die Ideen von ihnen erkannt werden; denn da sie nicht an und für sich intelligibel sind; so können wir sie auch nur in einem Wesen erkennen, wel. ches sie auf eine intelligible Weise , enthält. Wir erkennen also die Körperwelt mit ihren Eigenschaften in Gott durch die Ideen , und Daher komt es , daß unsere Erkentniß hiervon die vollkommenste ist; das heißt, daß die Idee , welche wir von der Ausdehnung haben, hinreicht, um alle die Eigenschaften zu erken en , deren die Ausdehnung fähig ist , und deß wir keine deutlichere und fruchtbarere Idee von der Ausdehnung, ihren Verhältnißen , den Bewegungen derselben , erlangen können, als diejenige ist , welche uns die Gottheit gewährt. Diese Erkentniß der Körperweit würde nun unendlich vollkommen seyn, wenn die Seele, die sie, erkennt , unendlich vollkommen wäre.
+
+Was unserer Erkentniß von der Ausdehnung, den Figuren und Bewegungen derselben , man gelt, ist nicht ein Mangel in der göttlichen Idee, sondern in unserer Seele, die jene Idee betrachtet. Anders verhält es sich mit der Erkent. nih unserer geistigen Natur. Diese erkennen wir nicht durch die Idee von ihr ; wir erken. nen ſle also nicht in Gott; sondern nur durch unser [p. 645] unser inneres Bewuktseyn; und daher ist die Ertenteiß , welche wir von ihr haben, sehr unvollkommen. Wir wissen nichts von unserer Seele, als dasjenige , was wir in uns vorgehend empfinden. Hätten wir niemals Wär- , Kälte, einen Schmerz u w. empfunden;
+
+so wurden wir auch nicht wissen können, daß unfreSele zu diesen Sensationen fähig wäre, weil sie nicht durch die Ideen derselben von uns erkannt werden.
+
+Erken ten wir in Gott eine
+
+Idee, die unserer Seele entſpräche, so kons ten wir zugleich, alle Eigenschaften erkennen, die sie taben konte; so wie wir alle möglichen Eigen chasten der Ausdehnung erkennen, weil diese durch eine Idee von ihr erkannt wird. Zwar erkennen wir durch das bloße innere Bewußtseyn von uns selbst , daß unsere Seele etwas höchst vortreffliches ist ; aber es ist mög. lich , daß das, was wir von ihr erkennen, nichts sen gegen das, was sie selbst an sich wirklich ist.
+
+Wären uns von der Materie nur zwanzig oder dreyßig Figuren bekant, Durch welche sie modificirt wäre , so wurden wir doch noch fast nichts von ihr erkennen im Verhältniße zu dem , was wir durch die Idee wissen, mittelst welcher sie vorgestellt wird. Malebranche zog hieraus den Schluß, der für seine Ansicht des Cartesianismus merkwur dig ist , daß , ob wir gleich die Existenz un. ferer Seele deutlicher erkennen , als die Eristeng [p. 646] unsers Körpers und der äussern Dinge, tens noch die Natur der Seele nicht so vollkommen von uns erkannt werde , wie die Natur
+
+Der Körper. Auf diese Art, meynte M. , Liefen sich die verschiedenen Meynungen derer vereinigen, die behaupteten , daß wir nichts voll.
+
+komner erkennten, als tie Seele (Cartesius), und die im Gegentheile behaupteten, tas uns. nichts unbekanter sy , als ste Es läßt sich nach M. hieraus auch erklären , warum die
+
+Ideen, die uns äußere Gegenstände darstellen, nicht als Modificationen unserer Seele betroch tet werden können; denn wenn sie das wären, so mußte die Seele offenbar sich selbst besser, als die Körper , zu erkennen im Stande seyn. Ferner erhellet hieraus, warum sich keine De. finitionen von den Modificationen der Seele geben lassen. Da weder die Seele, noch ihre Modificationen , durch Ideen erkant werden, sondern nur durch das innere Bewußtseyn (den innern Sinn), und da die Empfindungen der Art, z. B. der Wohllust , des Schmerzes, der Wärme, sich nicht an gewiße Wörter knip fen lassen; so ist offenbar, daß man Nieman den, der nie eine Farbe gesehen, oder einen Schmerz empfunden hatte, durch irgend eine Definition eine Vorstellung davon beybringen funn. So unvollkommen aber die Erkentniß iſt, welche wir von unserer Seele besiken, so ist sie doch pinreichend, um die Unsterblich1 keit, [p. 647] keit , Geistigkeit , Freyheit, und andre Attribute derselben, die wir nothwendig kennen müssen, zu erweisen; und deswegen erzeugt Gott nicht so die Erkentniß von der Seele durch Joeen in uns , wie er die Erkentniß vou den Körpern in uns erzeugt. Ferner , sagt M. , die Erkentniß, die wir von unsererSeele haben, ist zwar unvollkommen; aber sie ist nicht fold; hingegen die Kentniß , welche wir von den Körpern haben, sen es durch den
+
+Außern oder innern Sinn, (wenn anders das Dewußtseyn deßen, was in unserm Körper vorgeht, innerer Sinn genannt werden kann), ist nicht nur unsoukommen, sondern auch oft Falſch. Also mor die Idee der Körper notowen dig, um die sinnlichen Empfindungen zu be richtigen, welche wir von ihnen haben; an. statt daß wir der Idee von werer Seele nicht berursen, weil das Bewußtseyn derselben uns niemals in Irrthum bringt , und es zur Ver. meidung des Irrthums in der Erkenteis von ihr hinlänglich ist , daß wir sie nur nicht mit dem Körper verwechseln, was wir durch richtigen Gebrauch der Vernunft bewirken können Endlich bemerkt auch Malebranche, daß , wenn die Idee von unserer Seele eben so deutlich wäre, wie die vom Körper , uns diese Idee leichter, als es für unsre irrdische Bestimmung zweckmäßig war, dahin gebracht
+
+Hätte, die Seele für eine ganz vom Körper abge.
+
+[p. 648] sonderteSubstanz zu halten; wodurch die Ver. bindung der Seele mit dem Körper aufgehoben wäre, die bey der Vorausschung , jene sey durch alle Glieder dieses verbreitet , inniger und fester ist. Noch ist die Frage übrig : wie der Mensch die Seelen anderer Menschen, und die bloßen Geister erkenne?
+
+Hier ist offenbar, daß wir diese nicht anders, als wie durch Vermuthung erkennen. Denn wir erkennen sie weder an sich selbst, noch auch durch die Ideen von ihnen, und da sie von uns verſchieden sind, können wir sie auch nicht durch den innern Sinn erkennen.
+
+Wir vermuthen also nur, daß die Seelen anderer Menschen von derselben Art seyen, als die unsrige ist. Was wir in uns empfinden, glauben wir, werden auch Andere in sich em. pfinden; und da /jene Sensationen gar keine Analogie mit dem Körper haben, so halten wir uns überzeugt, daß wir nicht getauscht wer den ; da wir auch in Gott gewiße Ideen und unveränderliche Geseke wahrnehmen, nach welchen wir gewiß wissen, daß Gott auf gleiche Weise in allen Seelen tpärig ist. Ich liebe das Gute und das Vergnügen , sagtM., hasse das Böſe und den Schmerz , und wunsche glucklich zu seyn; und ich irre nicht, wenn ich glaube, daß auch andre Menschen, die En.
+
+gel und selbst die kosen Geister , ähnliche oder dieselben Gesinnungen und Empfindungen haben
+
+[p. 649] 1, den. Ich bin überzeugt, Gott habe keine Seelen erschaffen , die nicht nach Glickselige keir , oder die gar nach Ungluckseligkeit, trachte ten; und dieses weiß ich mit Evidenz , weil es Gott mich gelehrt hat. Ob es noch erſchaffene,Dinge gebe, die von Gott, von uns selbst, von den Körpern , und von den bloßen Geistern verschieden sind , ist uns zwar nicht bekant; indeßen ist es nicht glaublich, und die von einigen Philosophen dafür vorgebrachten Grunde sind falsch. Dies bestätigt denn auch die Meynung , daß , da alle Menschen von derselben Natur, sind, sie auch dieselben Ideen haben , weil es allen nöthig ist , dieselben Gegenstände zu erkennen. こ
+
+Malebr.de lieh la verité Liv, III ch. 7.
+
+§. 992.
+
+Es ist schon oben erinnert worden , daß Malebranche als die Hauptursache der Irr thumer in der menschlichen Erkentniß , und auch der hieraus entspringenden Thorheiten und
+
+Laster , die Freyheit annehme, deren Mis brauch den Menschen von der Wahrheit und Tugend abführe. Daß aber ein Misbrauch der Freyheit möglich ist, hat seinen Grund
+
+V [p. 650] nicht in der endlichen eingeschränkten Natur des menschlichen Geistes sondern in der Freyheit selbst. Man kann diese Ursache des Irrthums die. for male nennen. Ausserihr nimt er noch einemate riale an.
+
+Diese ist die immer der:Seele gegenwärtige unbestimte Idee eines Dinges überHaupt , wodurch alle unrichtige Abstraccionen des Verstandes , und die meisten Chimasen der Philosophie bewirkt werden ; so wie sie vielen Philosophen hinderlich ist, die Grundlichkeit der wahren Principien der Physik- und Ethik einzusehen . Daher rührt es , daß unsere Urtheile von den Dingen sich weiter ere strecken , als unsre wirklichen Wahrnehmungen von denselben .
+
+Denn wenn wir irgend einen
+
+Gegenstand betrachten , so betrachten wir gewöhnlich nur Eine Seite desselben , und urtheilen nach dieser über den ganzen Gegenstand, wovon eine natürliche Folge ist , daß wir uns sehr oft irren. Dazu komt, daß die Ideen nicht immer so unserer Seele gegenwärtig sind, wie wir es wunschen , und wir gleichwohl uns leicht überreden , daß sie uns wirklich so gegen. wärtig waren. Auch ziehen wir hieraus oft den falschen Schluß , daß Dinge nicht existiren, weit wir keine Ideen von ihnen haben. Nun ist der Mensch freylich seiner Natur nach als endliches Wesen dem Irrthume unterworfen
+
+Selbst die kleinsten Gegenstände stehen mit einander in unendlich, mannichfaltigen Bezie huna
+
+[p. 651] Hungen, und es wird ein unendlicher Verstand erfodert, diese alle aufzufassen. Da also der menschliche Geist den aller Anstrengung doch jene ühendlich mannichfaltigen Beziehungen, nicht umfassen kann; so ist seine Erkentniß nicht bloß leicht einseitig; sondern er wird auch geneigt zu dem Wahne, daß die von ihm nicht wahrgenommenen Beziehungen in der That nicht vorhanden seyen; zumal wenn er auf seine natürliche Schwäche und Eingeschränktheit, wie es häufig geschieht , gar kei ne Nicksicht nimt.
+
+Was also die materielle
+
+Möglichkeit des Irrthums überhaupt betrifft, so liegt diese in der Natur der Seele als eines endlichen Wesens, und kann nicht als von ihe verschuldet betrachtet werden. Inzwischen, behauptete Malebranche, wenn die Menſchen, auch in ihrem gegenwärtigen Zustande Der Schwachheit und Berdorbenheit, nur ihre
+
+Freyheit recht gebrauchten, so wurden sie doch niemals irren, und die formale Ursache des
+
+Irrthums steht also immer in der Menschen Gewalt.
+
+Daher verschuldet doch jederMensch seinen Irrthum und bust mit Recht dafür.
+
+Denn um den Irrthum zu vermeiden, ist es Hinlänglich, nur über dasjenige zu urtheilen, was wirwirklich wahrnehmen,und niemals eher Urtheile von Gegenständen überhaupt zu fäl.
+
+len, als wenn wir sie ganz und vollständig wahrgenommen haben; und dahin konten es [p. 652] die Menschen wohl bringen ; obgleich gemei. niglich das Gegentheil statt findet.s
+
+Malebranche de la rech, de la veritéliv. III ch. 9
+
+$.993 .
+
+Da ich ihadie charakteristischen Zuge vonder metaphysischen Vorstellungsart des Malebran. De angegeben habe, so will ich nur nochseine
+
+Hypothese über die Art und den Grund der Verbindung und Harmonie zwischen der
+
+Seele und dem Rörper anführen. Zur Erklärung dieser hatte Des Cartes die Hypo. these von der göttlichen Assistenz aufgestellt , und der Seele nur die willfuhrliche Richtung Der Bewegkräste des Körpers überlassen. Die
+
+Cartesianer, insbesondre de la Sorge und noch mehr Malebranche, fanden hierin die Schwierigkeit, daß sich eben so wenig begreifen lasse, wie die Seele die Direction der Be. wegkraft des Körpers zu ändern vermöge , als wie sie die Quantitat der lestern selbst ändern könne. Sie bildeten daher die Hypothese der göttlichen Assistenz in die sogenannte Hypothese Der gelegenbeitlichen Ursachen (Syſtema causarum occafionalium) um. Sie nahmen an, daß überhaupt keine Veränderung des Körpers [p. 653] pers wirklich von der Seele bewirkt werde oder abhange , und überhaupt nichts in der Seele vorgehe, wovon der Körper die unmittelbare wirkende Ursache sey. Alle Bewegungen des Körpers leiteten sie daher unmittelbar von der göttlichen Macht und Einwirkung her, die allein auf gelegenheitliche Veranlassung der Willensäusserungen der Seele und simultan mit diesen jene Bewegungen erzeu
+
+So wie aber die Gottheit die Bewegungen des Körpers harmonisch mit den Willensäusserungen der Seele bewirkt ; so erzeuge sie wiederum auf gelegenheitliche Veranlassung der körperlichen Bewegungen und simultan ge.
+
+mit denselben die Vorstellungen der Seele;
+
+so daß folglich nach dem Systeme der gele genheitlichen Ursachen der Seele nichts übrig bleibt , als die Freyheit des Willens, die denn, wie schon bemerkt worden, der Hauptgrund der Irrthümer ist ; obgleich die Vorstellungen der Gegenstände von Gott bewirkt werden, und also in diesen an sich selbst bey der untrieglichen Wahrhaftigkeit Gottes nie etwas Irriges seyn kann. Beyde Gattungen von Veränderungen, sowohl diejenigen, welche im
+
+Körper, als diejenigen, welche in der Seele vorgehen , bewirkt die Gottheit nach gewißen durch ihren eignen unbedingten Willen bestimten Gesetzen; so daß vermige derselben einer bestimten Bewegung des Körpers eine bestimte
+
+[p. 654] Wahrnehmung der Seele, und umgekehrt einem bestimten Willensacte der Seele eine bestimte Bewegung oder Veränderung des Körpers entspricht.
+
+Es erhelt hieraus effenbar, daß im Wesentlichen die Hypothese der gele.
+
+genheitlichen Ursachen, wie sie die spätern Carresianer annahmen, mit der Hypothese des Cartesius selbst von der Assistenz Gottes die. selve ist; den in Beziehung auf den Haupt. punct unbedeutenden Unterschied abgerechnet, daß die Direction der Bewegungen des Körpers durch den freyen Willen der Seele , welche Cartesius noch behauptet hatte, von den Cartesianern aufgehoben wurde. Malibranche de la Rech. de la verité liv. I ch. to. cf. Bülfinger de harmonia præstabilita p. IV §. 73.
+
+§. 994.
+
+In dem sechsten und letzten Buche ſeines Werks erklärte sich Malebranche über die
+
+Methode , welche ihm zur Erforschung der Waprheit am zweckmäßigſten ſchien; nachdem er vorher weitläufig über die Irthumer in der menschlichen Erkentniß und ihre Ursachen phi losophirt hatte. Er solgte bey jener meistens den [p. 655] v. Descartes b. a. Le bn.
+
+den Regeln des Cartesius , nur daß er diese noch weiter entwickelte , und in bestimtern. An wendungen, seiner metaphysischen Vorstele lungsart angepaßt, darstellte. Die Intuivität der Erkentnih oder die Evidenz im Carte. sischenSinne des Worts nahm er auch als das Merkmal der Wahrheit an , und gründete ta Her seine ganze Methodenlehre auf den allgemeinen Kanon:
+
+Man muß keinen andern
+
+Sägen beypflichten, als solchen, die so evident wahr sind , daß man ihnen den Beytall ohne eine gewiße peinliche Empfindung des innern Sinnes und ohne eigene Vorwurfe nicht vers weigern kann ; oder in Ansehung deren ein Jeder deutlich einſieht, er misbrauche seine Freyheit, falls er ihnen nicht beyſtimme. Sobald wir bloßen Wahrscheinlichkeiten beypflichten, sind wir allemal in Gefahr zu irren, und deren fast immer wirklich ; oder wenn wir auch nicht irren, so geschieht dieses doch nur durch Zufall. Da wir also lediglich durch die Eviding überzeugt werden können , daß wir nicht irren, so müſſen wir auch unsre vorzügliche Aufmerk. samkeit darauf wenden , die Evidenz in unsern Perceptionen zu erhalten , um über Alles unserer Vernunft gemäß richtig urtheilen , und die Einsicht in diejenigen Wahrheiten , deren wir Fähig sind, erlangen zu können Die U sqchen, welche jene Evidenz erzeugen und erhol ten können , sind von zwiefacher Art; einige sind sind in unsrer Gewalt oder hangen einigermahen von uns ab; andere sind nicht in unserer Gewalt. Den sichtbaren Gegenständen sind z. B. der Sinn des Gesichts , und das Vermögen, ihn auf bestimte Objecte zu richten, gewißermaßen von uns abhängig ; eben so den intelligibeln Wahrheiten der Verstand und die zweckmäßige Anwendung desselben. Aber die Augen bedürfen zum Sehen des Lichts , und dieses hängt von außern Ursachen ab; der Verstand bedarf zur Wahrnehmung der Gegenstande der Ideen, die auch , nach dem Systeme des Malebranche , nicht in der Gewalt des Menschen sind.
+
+Waren also die Ideen unserer Seele nicht gegenwärtig, so oft wie dieselben wunschen , und wollte die Gottheit, welche die Welt erleuchtet , uns dieselben nicht offenbaren; so wurden wir auch nicht im Stande seyn, irgend etwas zu erkennen; so wie Niemand etwas sehen kann, wenn ihm das licht fehlt.
+
+Einen solchen Mangel der
+
+Ideen aber haben wir auch nicht zu fürchten, da die Gegenwart derselben zum Behuse unse. rer Wahrnehmung der sür unsern Verstand zu seiner Erkentniß vorhandenen Dinge noturlich ist , und von dem allgemeinen und unveränderlichen Willen Gottes abhängt. Sind uns aber die Ideen der Dinge beständig gegenwärtig, auch wenn wir sie nicht aufmerk. fam betrachten ; so bleibt uns zur Erhaltung [p. 657] der Evidenz in allenunsern Perceptionen nichts übrig , als daß wir die Mittel aussuchen , wodurch der Verstand aufmerksamer und fähiger wird ; so wie, um Objecte des Gesichts deutlich zu erkennen, ein scharfes Gesicht und ein aufmerksamer Blickerfoderlich sind. Weil inzwischen die zu erkennenden Objecte oft mehr Beziehungen haben, als wir mit Einem Ver standesacte wahrzunehmen vermögen; so sind -uns noch einige Regeln nöthig , um alle
+
+Schwierigkeiten in der Erkentniß der Woher Heit wegzuräumen , und die Hülfsmittel benußen zu können, wodurch der Verstand aufmerksamer und fähiger werde, um alle Be ziehungen des Gegenstandes unserer Untersuchung aufs evidenteste einsehen zu könnens
+
+Malebranche theilt daher seine Methodenlehre in zwey Theile, von denen der erste die Hilfsmittel betrifft, deren sich der Verstand zur Schärfung seiner Aufmerksamkeit und Fähigkeit bedienen könne; der andere einige Ka non's enthält, welche wir bey derUntersuchung der Wahrheit zu befolgen haben , um richtige und der Gefahr des Irrthums nicht ausge. sekte Urtheile zu bilden. Aus beyden Theis len will ich nur einige seiner wichtigsten Bemerkungen ausheben. Malebranchede la rech. de la verité liv. I.J ch. I.
+
+§. 995.
+
+[p. 658] §.995
+
+Um die Evidenz unserer Erkentniß zu erreichen, ist die Aufmerksamkeit schlechthin nothwendig: Diese wird nun zwar schon über
+
+Haupt durch die Empfindungen, oder, wie sich Malebranchesaustruckt durch die bloßen Moorie tionen weferer Seele bewirkt; aber eben biefe:Modificationen zerstreuen auch wie Devum die Wahrnehmungsfähigkeit der Seele meor, als für die Erkentniß, der Wahrheit Heilſamista Da gleichwohl die Seele in iprem genenmattigen Zustande cobre Sensationen, Aff cen und andre Motificationen nicht eristi ven skann ; 10 muß man sich in die Nothwen. digkeititigen, und darauf achten, wie man felit jene Morificationen als Hilfsmittel einer großeca:Ausmerkjamkeit benutzen könne. Hier zu Jenrenti zuporderst eine richtige Unter faiziduna detsAffecten selbst ihrer guten oder boken Zwecke und Wirkungen , um diejenigen uoted ihren auszuwährten, denen man sich mit Sicherheit für seine Wohlfalut und für den
+
+Anbau der Wahrheit übertossen kann. Zu solchen rechnet M. das eifrige Bestreben, un sera Verstand zweckmäßig anzuwenden; die
+
+Sehnsucht, uns von Vorurtheilen und Irra! thumern zu befeyen , und so viel licht zu er langen, otsywir bedürfen , um uns selbst zu allemGuten zu leiten; kurz alle solche Affecten, [p. 659] ten, von denen wir nicht zu unnützen, übereilten und zweckwidrigen Studien und Handlungen getrieben werden. Am meisten trägt, um dergleiche Affecten in uns herschend zu machen, und die entgegenfeßten zu überwinden, eine reine und keuste Einbildungskraft bey.
+
+Vorzüglich ist zu verhüten indeßen , doß wir nichr aus Affecten über die Gegenſtände ur theilen, sondern nur nach einer klaren Ansicht der Wahrheit ; (eine bey der Lebhaftigkeit der
+
+Affecten sehr schwer und oft fast unmöglich zu beobachtende Regel); denn die Affecten sollen nur unsere Aufmerksamkeit reizen und verstär. ken, aber sie nicht regieren, indem wir sonst durch sie getauscht werden. Auf gleiche Weise müssen uns auch die Sinne Hulse leisten, um Das Gemith zur Aufmerksamkeit zu bestimmen. Die Sensationen reizen ihrer Notur nach mehr das Gemuth , als die bloßen Ideen des Verstandes; und daraus ergiebt sich, daß der Geist auf Wahrheiten aufmerksamer ge macht werden könne, sobald sie ihm sinnlich dar gestellt werden. Hierauf beruht die größere Evidenz , welche die Mathematik vor der Philosophie voraus hat. Indeßen muß tie Sinn. lichkeit selbst bey uns gemäßigt, und auch der
+
+Geist nicht zu ſehr auf die Sinnengegenstände als solche hingezogen werden, weil sonst der
+
+Erkentniß der Wahrheit geschadet wird. Zur Berichtigung der sianlichen Wahrnehmung und [p. 660] der Einbildungskraft, und zugleich zur Schér fung des reinen Verstandes , empfiehlt Male branche vorzüglich das Studium der Mather matik. Ausser diesen Bemerkungen über die
+
+Mittel , die Aufmerksamkeit des Gemüths zweckmäßig zu erwecken und zu richten, ertheilt er noch folgende allgemeine bey der Untersuchung der Wahrheit zu beobachtende Vorschriften. Erstlich: Man muß bey den Schlüßen immer die Evidenz erhalten , damit die Wahr heit ohne Gefahr des Irrthums entdeckt wer de; also nur über solche Gegenstände raison. niren, von denen man klare Ideen hat; immer vom Klarsten und Leichtesten anfangen, und dabey so lange wie nöthig verweilen, bevor man zur Untersuchung sehr verwickelter und schwerer Materien fortschreitet. Diese erste Regel ist von der allgemeinſten Anwendung. Zweytens: Um Probleme aufzulösen, oder streitige Fragen zu entscheiden , komt vor zuglich alles darauf an , den Gegenstand selbst und den Streitpunct , sowohl der Materie als den Worten nach, auf's genaueste zu bestimmen.
+
+Drittens: Können die Beziehungen der Gegenstände zu einander nicht durch unmittelbare Vergleichung erkannt werden; so mus sen wir uns bemügen , einen oder mehrere Mittelbegriffe aufzufinden, die wir als ges meinschaftlichenMaaßstab brauchen können, um mit ihrer Hülse jene Beziehungen der Gegen frände
+
+[p. 661] ſtände kennen zu lernen. Viertens: Sind Die Materien sehr verwickelt , so daß sie einer längern Untersuchung bedürfen, müssen wir von ihnen alles absondern , was zur Auffindung der gesuchten Wahrheit nicht zu unter.
+
+suchen nöthig ist; denn die Fähigkeit des Geistes darf nicht unnukerweise zerstreut; viel mehr muß sie dahin gerichtet werden , woher sie Licht erwarten kann. Funstens ! Ist das Problem in wenig Worten enthalten, so muß man die Materie der Untersuchung in ihre Theile zergliedern , und diese Theile in natur. licherOrdnung jeden besonders erwägen; indem man von den einfachern ansängt , und , wenn man mit diesen bekant geworden ist, zu den zusammengeseßtern fortschreitet. Die übrigen vonM. noch angegebenen Regeln sind schon in den obigen enthalten. Er zeigt noch im Folgenden, wie die Fehler der altern philosophischen Systeme aus einer Vernachlässigung Dieser Regeln entstanden, und dagegen im
+
+Cartesianismus durch Befolgung derselben vermieden worden seyen. Auch verbreitet er sich noch ausführlicher: über ihre Anwendung im Einzelnen. Malebranche dela rech. de laver, liv. VI. Malebranche ist im Wesentlichen den Grunde sätzen des Des Cartes treu geblieben , und seine Art zu philosophiren ist , ungeachtet der Verschiedenheit des Resultats , doch durch [p. 662] dak durch jene bestimt worden. Er hat nur den Cartesianismus von einer Seite weirer aus= yjar geführt und ergänzt , wo thn der Urheber desselben mangelhaft gelossen hatte, nehme ich was die Logik und die Theorie des Ers Tenntnißvermogens überhaupt betrifft. Bey Dieser Untersuchung gerieth er auth aufdie ihm eigenthümlichen Meynungen , die übri 200ntigend mit den Cartesischen Principien ganz wohl bestehen konten. Des Cortes ließ die
+
+Ideen, der Aussendinge unmittelbar von Gott erzeugt werden , und folgerte die wirtliche Existenz dieser dareus , daß Gott , der uns die Vorstellunger von thnen gewähre, nicht täuschen korne ; obgleich er behauptete , daß wir von der Existenz unserer Seele eine ges dwißere Erkentniß, hätten , als von der Eris frenz der Köperwelt ausser ünder Maler branche ließ die menschliche Seele dieIdeen der Dinge im göttlichen Verstande anschauen, und es war ihm problematisch, ob etue wirkliche Körperwelt noch aussere halb diesen Ideen exstirte. In der That 5.
+
+Fontezer dies auch dahin gestellt seyn lassen; denn da nach seinem Systeme durchaus kei pe Einwirkung der Körper auf die Seele möglich ist , und alle Erkentniß dieser sich bloß auf die göttlichen Ideen bezieht ; ſo war es insofern gleichgültig , ob eine wirkliche Körperwelt ausserhalb den Ideen vorz handen sey , oder nicht. Ganz entscheidend hat er inzwischen das ausferidealische Daseyn der Körperwelt nidit äbgeleuanet ; viel mehr
+
+ſpricht er auch oft von ihr als einem Inbea griffe [p. 663] fall
+
+P griffe nach den göttlichen Ideen erschaffener Dinge, ohngefähr wie Plats ; und selbst webreve feiner Argumentationen, wodurch er zu beweisen sucht , daß die Körper nicht urmirtelbar auf die Seele einwirken önnen, dieser vors setzen die ausferidealische Existenz
+
+Das ganze Werk des Maleſbranche, was den merapists her Thell dess then betrifft, Mdolichkeit der Erkentniß von
+
+Auffendingen erklären. Den Schlußel dazu fand er in der Gottheit, und im Verhältniße der menschlichen Seele zum göttlichen Bere stande. Was the hierzu verleitete , war zunächst der scharfe Gegensatz zwischen Geist und Körper , welchen er mit dem Des Care kes annahm.
+
+Hiervon war eine natürliche
+
+Folge , daß er die Möglichkeit der gegensets tigen Enwichung zwischen Geist und Kirs per er aufheben , und sich nab einem andern Grande der Erkentniß der Körperwelt ume sehen mußte. Diesen , wie die späternFeas ten thaten , in die Seele selbst zu setzen, fiften und die ganze Körperwelt für ein subjectie ves Spiel unseres Vorstellungsvermogens auszugeben, wagte er noch nicht : auch stand die Meynung dem entgegen , daß die Summe der für die Seele vorstellbaren Gegens stande unendlich sey , und ste Seele als endliches Wesen nicht aus sib selbst eine Uns endlichkeit von Vorstellungen erzeugen köns ué. So kam malebranche , da ihm auch andere Erklärungsgründe keinGenûge tha ten, darauf, den göttlichen Verstand zur
+
+‫יגפ‬
+
+[p. 664] Erkentnißquelle aller Dinge anzunehmen.
+
+Indeßen kündigt sich diese Vorstellungsart soon durch sich selbst als eine, transscen dente Hypothese an. Wieläßt sich der gätt:
+
+liche Verstand nach dem unsrigen beurthei yulen & Gleichwohl mußte Malebranche die Analogie des göttlichen Verstandes mit dem menschlichen voraussehen; obgleich er ausdrücklich einſcharste , daß durch die mensch fred liche Erkenntniß der göttlichen Ideen niez mals das Wesen Gottes selbst , erkannt wer de. Wie ferner das Empfinden und discurs five Denken der Seele in Gott möglich sen, sofern doch die Seele selbst als empfindend und discursiv denkend von Gott gedacht werden muß , blieb unbegreiflich, Die Mig lichkeit des Ferthums und des Bösen bey der menschlichen Seele leitete Malebranche zwar aus der Freyheit her ; aber wie sich otese Freyheit mit der Natur Gottes , und den göttlichen, Eigenschaften veretnigen las se ? Diese Frage ward von ihm umgan= gen. Man kann daber das ganze System des Meinen transscendenten wystischen Idealismus nenuen , wo eigentlich alle Realität auf die Gottheit und die Ideen des göttlichen Verstøndes zurückgeführt wurde. Sofern das Universum hier als in Gott vors gestellt wird , kann das System auch Pantheismus heißen. UT. bedient sich sogar mancher biblischer Stellen, um die Ueberein.
+
+stimmung seiner Lehre mit der Bibel zu zeigen, welche spätere Pantheisten zu Gunsten ihres Systems ebenfalls angeführt haben.
+
+§. 996.
+
+§.996.
+
+Es ist schon oben des Antoine Arnaud als eines Gegners von Malebranche erwähnt worden. Dieser gehörte zu der Partey der Jansenisten , und war einer der berühmtesten Lehrer des Portroyal, eines literarischen Erziehungsinstituts in Paris, welches damals das vortrefflichste in seiner Art war , und zur Beförderung der Literatur , Philosophie und Aufklärung in Frankreich sehr viel beygetragen hat. Sowohl durch ihre Grundsätze, als noch mehr durch den Eifer , womit sie sich dem Unterrichte der Jugend widmeten , und den Ruhm , welchen sie dadurch erwarben, wurden die jansenistischen Lehrer des Portroyal den Jesuiten verhaft , und waren mit diesen beständig in Streitigkeiten verwickelt.
+
+meisten von ihnen waren Anhänger der Carte fianischen Philosophie , wiewohl sie, was auch Malebranche that, in einzelnen Puncten von dieser abwichen. Mehrere hieher gehörigeThatsachen undUmstände sindschon oben in der Geschichte des Cartesianismus angemerkt worden. Arnaud tadelte unter anderem den Des Carteswegen seiner Lehre von den Körpern, weil dieselbe dem Dogma von der Transsubstantia. tion, wie es auf dem Tridentinischen Conci lium bestimt worden war , widerstritt , und pflichtete hierin den Gegnern des Des Cartes unter [p. 666] unter den Jesuiten bey. Er trat auch als Geg. ner des Malebranche aus. Hingegen in der Hauptsache war er doch dem Systeme des
+
+Des Cartes ergeben . Am berühmtesten unter den Schriften der Lehrer des Port royal ist das logische Werk: l'Art de penter, gewor. den , das , wo nicht ganz , doch größtentheils vom Arnaud herrúhrt. Es wurden in dem. selben die Mängel der altern scholastisch ari. stotelischen Logik gerügt und verbessert , und nur das Brauchbarste aus dem Aristotelischen
+
+Organon behielt man bey ; wiewohl immer noch zu viel des syllogistischen und dialektischen Krams übrig gelofen wurde , vielleicht um der
+
+Denkart des Zeitalters etwas nachzugeben . Die drey ersten Bücher enthalten die Lehre von den Begriffen , Urtheilen und Schlüken, fast ganz nach Aristoteles , jedoch mit ungleich größerer Ordnung , Klarheit , und Bestimtheit, als man in allen ältern Lehrbüchern der Logik antrifft.
+
+Das vierte Buch handelt von der
+
+Methode , wo die Cartesianischen Vorschriften sorgfältig benutzt sind.
+
+Besonders sind die Lehren von der Entdeckung , Berich igung und Verhütung der Vorurtheile , von der Wahr. ſcheinlichkeit, trefflich erörtert Die Art de pen fer erschien zuerst im J. 1664 ; ist aber hernach mehr als zehnmal , und immer mit Verbes Ferungen , herausgegeben worten; daher die spätern Ausgaben von der erstern sehr verschibene [p. 667] den sind.
+
+Das Werk ist auch von Mehrern in's Lateinische übersetzt , und hat auf die Verbesserung des Studiums der logik inFrankreich, und auch auf den niederländischen und deutſchen Universitäten , großen Einfluß gehabt.
+
+Es verdient noch ist, nicht vernachlässigt zu a werden. E
+
+Ueber den oder die Verfasser der Art de penser ist man streitig . Der Merkis d'Argens (Philoſophie du bon ſens Reflex. IHS 2. p. 211) sagt, daß zwey oder drey von den Mitgliedern des Portroyal gemeinschaft lich daran gearbeitet hätten. Leibnitz , der doch von der Literatur seiner Zeit wohl unterrichtet war, nennt (præf, ad Nizol.
+
+Antibarb. p. 37) den Arnaud als Verfase ser , und der französische Biograph des Arnaud versichert dasselbe. Die größere Vollendung des Werks in den spätern Auss gaben gebührt unstreitig auch andern. Die verschiedenen Ausgaben und Ueberseßungen des Werks S. bey Walch parerg, acad.
+
+P. 651. Die beste lateinische Uebersetzung ist von Joh . Conr. Braun mit einer Vorrede von Buddeus ; Halle. 1704. 178.8. Diese enthält auch die spätern Zusätze in den französischen Ausgaben. Ueber Arnaud . Bayle Dict. crit. Art. Arnaud. Bruckerž hist. crit. phil, T. IV. P. 2. p. 230. 280. 587.591.
+
+§. 997-
+
+[p. 668] 997.
+
+Ein älterer Zeitgenosse des Malebranche, und ihm in mancher Hinsicht ähnlichy, war Blasius Pascal. Er wurde im I. 1623 gebohren. Sein Vater war Stephan Pascal, königlicher Statsrath und Kammerprasident zu Clermont, ein sehr einſichtsveller Mann, der sich besonders durch mathematische Kentniße auszeichnete, und aud, an den Streitigkeiten gegen die Cartesianischen Br
+
+Hauptungen Antheil genommen hatte. Blasius, Pascal war der einzige Sohn, und wurde, da er früh seine Mutter verlor, von seinem Vater mit der größten Sorgfalt und Zärtlich.
+
+Leit erzogen.
+
+Dieser verließ sogar deßwegen
+
+Die Provinz , und begab sich mit seiner Familie nach Paris , um sich der Erziehung seiner Kinder. desto ungehinderter widmen zu können. Pascal hatte einen sehr kranklichen Körper, der ihm sein ganzes Leben hindurch viele Leiden verursachte, auch auf seine ganze Gemithsstimmung und Denkart , besonders in den letzten Jahren , großen Einfluß hatte, und ihm einen frühen Tod zuzog. Desto ener.
+
+gievoller aber waren sein Genie und Charak. ter. Schon als Knabe gab er Beweise von einem ausserordentlichem Talente. Er untersuchte für sich selbst mit rastlosem Eifer , was ihm Merkwürdiges vorkam, und hatte vorzug. lich [p. 669] lich einen unüberwindlichen Hang zur Mathematik, wo er dem elementarischen Unterrichte , welchen ihm sein Vater absichtlich verweigerte , durch eigene Erfindung zuvoreilte. Der Vater wünschte nehmlich , daß der Sohn, bevor er zu den wissenschaftlichen Studien schritte, sich erst der lateinischen und griechischen Sprache grundlich bemächtigen solute ; und vorenthielt ihm deßwegen nicht nur alle mathematische Bücher, sondern vermied es auch , über ma thematische Gegenstände in seiner Gegenwart zu reden. Allein der junge Pascal zeichnete sich selbst in einsamen Stunden mathematische
+
+Figuren, untersuchte ihre Verhältniße , schuf sich eine besondere Terminologie , und gelangte durch eigenes Nachdenken bis zur zwey und dreyßigsten Proposition im ersten Buche des Euklid , bey deren Betrachtung ihn der Vater überraschte , und über die unerwarteten Anlagen und Fortschritte des Sohns in das froheste Erstaunen gerieth. Von dieser Zeit an septe der Vater der Wißbegierde Pascal's keine Schranken weiter; sondern kam ihm selbst und mit Unterstützung anderer Gelehrten durch Unterricht in der Mathematik und Physik zu
+
+Hilfe. Schon im sechszehnten Jahre arbeitete Pascal einen Versuch über die Kegel schnitte aus , der von Kennern bewundert wur. de , aber nicht im Drucke erschienen ist; im neunzehnten Jahre erfand er die bekannte Rech [p. 670] nenmaschine; und eben so bekant sind seine Experimente über den leeren Raum nach dem Toricelli, die er bald darauf anstellte. Nicht weniger Sinn, als für die Mathematik , hatte Pascal auch für philosophische Studien. Was seinem Geiste in Ansehung dieser eine eigenthümliche Richtung gab : war der echte und zarte moralische Sinn , den er hatte, und der ihn, ungeachtet seiner philosophischenSkep. sis und seines Mistrauens gegen die Vernunft, doch die Verbindlichkeit und Nothwendigkeit der Moral nicht verkennen, und diese, da er sie durch die Autorität der gesetzgebenden Vernunft nicht genug gesichert glaubte , auf die geoffenbarte Religion , als ihr gültigſtes und unerschutterliches Fundament, stützen ließ. Pascal war in gewißem Betrachte ein religisser Schwärmer; aber seine Schwärmeren war die moralisch edelste von der Welt; sie war Folge eines philosophischen Skepticismus, der ihm nichts als einen freylich gewißermaßen mystischen Glauben an die Offenbarung übrig ließ, um die Anfoderungen und Bedürfniße desGewissens erklären und befriedigen zu können. Sein Privatleben enthält mehrere Zu ge, die Achtung und Liebe gegen seinen Charakter erwecken müssen. In den leßtern Jahren seines Leben bewogen ihn seine eigene Kränklichkeit und religiöse Stimmung, auch das Zureden seiner Schwester, die ebenfalls eine eine ſchwärmeriſch religiöse Person war, sich dem Umgange mit der Welt fast ganz zu ent ziehen, und meistens auf dem Lande zu leben,
+
+Er starb 1662 im vierzigsten Jahre seines Alters.
+
+§. 998.
+
+Zwey Werke philosophischen Inhalts ha. den dem Pascal ein ruhmvolles Andenken bey der gebildeten Nachwelt gesichert. Das erste sind seine Penſées ſurla religion voll Geist und Wayrheit, und oft sehr sinnreich, kräftig und edel ausgedrückt, Sie gewähren zur moralischen und religiösen Bildung des Herzens eine höchst interessante und fruchtbare dec ture. An und für sich sind sie nur nach dem
+
+Tode Pascal's unter seinen Papieren aufgefundene Bruchſtücke eines größern Werks, das zum Zwecke hatte; die Falschheit und Untauglichkeit aller profanen Religionssysteme darzuthun ; das religiöse Bedúrsnih der Menschheit und diesem gemäß die Kriterien einer wah. ren Religion hervorzuheben; und die Ueberein. stimmung des wahren Christenthums mit diesen Kriterien zu zeigen.
+
+Aus einer mündlichen Erzählung Pascal's selbst kennt man noch den Plan, welchen er zur Ausführung Uua [p. 672] des ganzen Werkes entworfen hatte. Er woll. te beweisen , daß die Grundsätze der christlichen
+
+Religion keine geringere Evidenz hätten , als alle andere Wahrheiten in der menschlichen Erkentniß, welche für die evidentesten gehalten werden. Er schilderte also der Menschen überhaupt nach seiner wahren Natur , seinen
+
+Kräften, Neigungen, Bedürfnißen, Winſchen, nach seinen innern und außern VerHältnißen.
+
+Nur dachte er sich einen wirklichen einzelnen Menschen, der bisher in Beziehung auf sich selbst und die Dinge um ihn her durchaus gleichgültig und unwissend gewesen sey , ist aber in jenem Bilde sich getroffen fühle , über sein Wesen und seine Bestimmung nachzudenken anfange, und sehnlich nach Ausklärung hierüber strebe. Pascal verweist diesen zuerst an die Philosophen; belehrt ihn, was die größten Köpfe aller Zeiten über die Natur und Bestimmung des Menschen ge meynt haben; deckt die Widerspruche und das Unbefriedigende in ihren Behauptungen auf; und zieht aus Allem den Schluß , daß die
+
+Philosophie ihn nicht über die wichtigste An. gelegenheit seines Lebens beruhigen könne und werde. Eben so schildert ihm Pascal die mannichfaltigen Religionen älterer und neue. rer Völker, um ihn auch bey diesen von den unzähligen Irrthümern, Thorheiten und Ausſchweisungen des menschlichen Verstandes in über
+
+‫י‬ überführen.
+
+Dann richtet er die Aufmerk.
+
+samkeit, seines Böglings insbesondre auf die jüdiſche Religion ; auf die ausserordentlichen Umstände, welche bey dieser eintraten ; auf das alte Testament, als die unzweifelbar göttliche Urkunde derselben auf das Licht, welches durch diese Urkunde über die menschliche Natur, ihre Unvollkommenheit , ihren Hang zum Bösen verbreitet werde ; endlich auf den Zusammenhang des Judenthums mit dem Chrifrenthume, als einer Vorbereitung des leßtern. Die Wahrheit des Christenthums selbst bewies er hauptsächlich aus den Weissagungen. Dann charakterisirte er Christus , die Geschichte des Christenthums , den Geist der originalen christlichen Sittenlehre ; und auf diesem Wege glaubte er die religiöse Ueberzeugung und Bildung seines Zöglings bewirkt und vollendet zu haben. - Das andere Werk des Pascal sind die bekanten Lettres provinciales, die er unter dem Namen Ludwig Montalt herausgab. Sie sind hauptsächlich gegen die Jesuiten gerichtet , welche damals durch ihre sophistische Casuistik die Sittlichkeit der höhern Volksclassen in Frankreich , so wie aller Nationen , bey denen sie die vor.
+
+nehmsten Lehrer der Jugend waren , vergifteten, und alle wahre Gewissenhaftigkeit zu zerstören drohten. Da jene Briefe mit Wahrheit , Anmuth , Energie , und bewunderns.
+
+wur.
+
+[p. 674] würdiger Freymuthigkeit geschrieben sind; so Hatten sie eine ausserordentlicheund sehr wohlthätige Wirkung.
+
+An den lettres provinciales hatte Nicole gro Hen Antheil. Dieser übersetzte sie auch in's Lateinische , und fügte unter dem angenommenen Namen Wilhelm Wendrock Anmerkungen hinzu. Der deutschen Ueberseßungvon den Provincialbriefen ist eine Geschichte derselben beygefügt , in welcher auch man.
+
+che merkwürdige Notizen über Pascal vors kommen.
+
+§. 999.
+
+Neben den bisher erwähnten Männern zeichnete sich auch durch eine originale Bearbeitung sowohl der theoretischen als der prak. tischen Philosophie Thomas Hobbes aus.
+
+Er wurde gebohren zu Malmesbury in der Grafschaft Wilton im I. 1588 , und zwar durch eine zu frühzeitige Niederkunft seiner Mutter, welche durch die Nachricht von der
+
+Herannäßerung der sogenannten uniberwinde lichen spanischen Flotte erschreckt worden war; ein Umstand , der indeß seiner Lebenskraft nicht nachtheilig geworden ist , da er dennoch ein sehr hohes Alter erreichte.
+
+Er that sich ſruh durch [p. 675] durch sein Genie und seineKentniße hervor; begab sich schon im J. 1603 nach Orford; lebte hernach in der Familie des Baronek Wilhelm Cavendish , und bald darauf bey dem Grafen von Devonshire , als Führer des Sohns desselben.
+
+Mit diesem machte er eine Reise durch Frankreich und Italien, Die ihm Gelegenheit zu persönlichen Bekantschaften und Freundschaftsverbindungen mit den berühmtesten Gelehrten in diesen Ländern gab. In seinen jüngern Jahren hatte er sich vorzüglich mit Aristotelischer Philosophie beschafftigt; diese wurde ihm aber bald verdach tig, nachdem er mit der alten claffischen Literatur vertrauter geworden war; und was seine Abneigung dagen vollends entschied , war die Verbindung, in welche er mit dem Franz Baco von Verulam kam. Eine seiner ersten
+
+Arbeiten war eine englische Ueberseßung des Thucydides , zu der ihn die damaligen politischen Gährungen in England , und die herschenden demokratischen Grundsätze , veranlaßten. Da im J. 1626 der Tod des Grafen von Devonshire, und zwey Jahre darauf auch des Sohnes desselben , deßen Begleiter Hobbes gewesen war, erfolgte; so reiste dieser , theils zu seiner Zerstreuung, theils zur Begleitung eines andern vornehmen Dritten , zum zweytenmale durch Frankreich und Italien. Während dieser Reise widmete er seine Musse meiUu4
+
+ſtens f [p. 676] stens dem Euklides , und den mathematischen Srudien überhaupt. Vom J. 1631, an war er Erzieher des jüngern Sohnes des Grafen von Devonshire. Auch mit diesem reiste er nach Frankreich , und in dieser Periode war es, wo er an den damals in Frankreich gleich sam neu belebten physikalischen Sudien den Lebhaftesten Antheil nahm , und insbesondre mit Gassendi, Marinus Mersennus, so wie bey seinem nadherigen Aufenthalte in Itaz lien mit Galilei, Freundschaft schloß. Nach seiner Rückkunst ins Vaterland zogen die immer stärker gewordenen antiroyalistischen Gesinnungen, denen des Hobbes Denkart schlecht. hin entgegengasekt-mar , feine vornehmste Aufmerksamkeit am sich. Er glaubte durch eine philosophische Entwickelung der Grunde, der
+
+Nothwendigkeit, und des Umfanges der höch ften Gewalt imState , seine Mitbürger bekah. ren zu können; und dies, erzeugte die beyden Werke de Give und den Leviathan, die sei, nen Namen amsterblich gemacht haben. So sehr Gobbes bey seinen Grundsätzen die Hofparten für sich hatte, so sehr erweckte er den
+
+Haß der demokratischen Partey gegen sich , die durch die Anhänger der aristotelisch scholastischen Philosophie, welche er zugleich mit vie ler Bitterkeit angriff, noch vermehrt wurde. Um sich diesem zu entziehen , da das Ansehn besKönigs immer mehr sank , begab sich gob.
+
+[p. 677] des abermals nach Paris , und theilte seine philosophische Musse mit seinen dortigen Freun den , zu denen durch Vermittelung des Mersepnus nunmehr auch noch Cartesius kam.
+
+Der Sid erheit wegen lebte damals auch in Paris der Prinz Carl von Wallis ; diesem wurde Hobbes als Lehrer der Philosophie und
+
+Mathematik empfohlen; was seine Verbindung mit der Hofpartey , der er schon durch seine frühern Verhältniße und seine persönlichen Gesinnungen ergeben war , vollends bestärkte. Er gab hier zum erstenmale im I. 1642 sein Werk de cive heraus , jedoch in einer Auflage, die nur unter wenige Freunde vertheilt wurde.
+
+Dajenes den Beyfall dieser erhielt , so ward eine stärkere Auflage des selben zu Paris 1647, und in Holland 1649, auch eine französische Ueberseßung veranstaltet.
+
+Im J. 1646 führte Hobbes auch eine Etreit mit Dr. Bramhall , Bischofe von Derry , über die Freyheit , Nothwendigkeit und den Zufall , und die Einwirkung dieser auf den Menschen, wovon die Acten, anfänglich ohne seine Schuld und wider seinen Willen, ins Publicum kamen. Bald darauf im
+
+I. 1650 erschien in englischer Sprache das
+
+Werk des Hobbes über die menschliche Natur und den politischen Körper, welchem im folgenden Jahre die weitere Ausführung unter dem Titel Leviathan folgte. Sobbes hatte Uus hier [p. 678] hier Manches zu Gunsten der Partey Cromwell's geäussert , und ward deshalb den Kö niglichGesinnten verdächtig; er verlor auch das Vertrauen der Königlichen Familie; wiewohl er selbst immer diese politische Apostasie nicht anerkennen wollte. Von dieser Zeit an lebte er in der Familie der Grafen von Devon.
+
+shire, und widmete sich , da auch das Alter bey ihm herannahte, ganz den philosophischen Studien.
+
+Er gab nun nach und nach sein
+
+Werk de corpore im I. 1655; seine Geometrie, die ihm vielen Tadel und Streitigkeiten zuzog; und das Werk de homine im J. 1658 heraus. So hatte er sein ganzes philosophi. sches System in drey Haupttheilen vollendet aufgestellt: wovon der erste de corpore; der zweyte de homine; und der drittede cive handelte. Im J. 1660 , da Carl II wieder den englischen Thron bestieg, begab sich Hobbes nach London , um diesem seinem ehemaligen königlichen Zöglinge Gluck zu wunschen , von welchem er auch überaus gnädig empfangen wurde. Er veranstaltete eine Sammlung sel. ner sämtlichen Werke, die in Holland 1662 (2 Voll. 4) erschien. Gegen das Ende seines Lebens hielt sich Hobbes meistens auf dem
+
+Lande auf. Noch im hohen Alter verfertigte er eine englische Ueberseßung des Homer; schrieb das Decameron phyfiologicum; und die Geschichte des Bürgerkriegs in England, mel [p. 679] welches letztere Werk gegen den ausdrücklichen Willen des Königs , jedoch ohne Schuld des
+
+Sobbes , gedruckt wurde. Er starb in hoHer literarischer Celebritat, da seine Philosophie nicht bloß in seinem Vaterlande, sondern auch im Auslande, großes Aufsehen zu ma chen angefangen hatte, im I. 1679, im hun.
+
+dert und ersten Jahre seines Alters , an den
+
+Folgen einer Urinverhaltung,
+
+Hobbes hat selbst als Greis von vier und achtzig Jahren sein Leben in Versen beschriez den.
+
+Kurz nach seinem Tode kam eine be.
+
+sondre Biographie zu Charlestowe 1681 Heraus , deren Verfasser Radulph Bathurst war.
+
+Mehrere Nachrichten von ihm sind in den verschiedenen Ausgaben seiner Schriften zerstreut. Vergl. Bruckeri hiſt, crit.
+
+philos. T. IV P. 2. p. 145.
+
+§. 100. Hobbes war ein vertrauter Kenner der al ten claſſiſchen Literatur, und, wie schon bemerkt ist, durch das Studium dieser zueiner liberalern Art zu philosophiren gebildet. Gegen die gewöhnliche
+
+Aristotelischscholastische Phijosophie ſtimte ihn überdem der freundschaftliche Umgang mit dem
+
+Baco; so wie eben dieser gewiß auch auf den Empi.
+
+[p. 680] Empirismus , welchen er als eignes System aufstellte, großen Einfluß gehabt hat. Von seinen mathematischen Beschafftigungen nahm er einegroßere Strenge des Raisonnements an; und er machte sogar den Geometren selbst Vorwurse, daß ihre Methode noch bey weitem nicht strenge genug gewesen sey; daher er auch manche Venderungen in die Behandlung der Geometrie einführen wollte, die ihn mit mehrern seiner mathematischen Zeitgenossen ent. zweyten. Noch berühmter als durch seine theoretischen Spelulationen ist Hobbes durch sei. ne moralischen und politischen Ideen geworden.
+
+Diese enthalten viel lehrreiches , aus tiefer Kentniß der menschlichen Natur und aus histo. rischer Einsicht geschopste Resultate. Um sie aber richtig zu würdigen , muß man auf die Zeitumstände , unter denen er schrieb , während
+
+Heftiger innerer politischer Gahrungeu in sei nem Vaterlande, und auf die Verhältniße, in denen er selbst sich von seinen frühern Jahren an persönlich befunden hatte , Rücksicht nehmen. Die Scenen der Anarchie , die er erlebte, gaben ihm den Stoff und die Farben zu seinem Bilde des Naturstandes , und leiteten ihn zu der Meynung , oder befestigten die
+
+ſe zum mindesten bey ihm , daß ausserhalb der Monarchie kein politisches Heil für ein großes Volk existire, und daß eben deswegen die höchste Gewalt des Monarchen , auch falls sie [p. 681] auf eine despotische und grausame Weise aus geübt werde, heilig und unverletzlich sey. Es ist sehr naturlich , daß Menschen, die durch
+
+Geburt oder Glück zum Besike großer Vor züge und Rechte vor allen übrigen gelangen, und ihr ganzes Leben hindurch an die Ausübung derselben gewohnt sind, für eine Kritik jener Vorzüge und Rechte gar keinen oder sehr wenig Sinn haben , und in ihr nichts als Seuchtigkeit, Unwissenheit , Stubenphiloso phie, Fanatismus, und wohl gar strafliche emporerische Absichten finden. Eine ähnliche
+
+Denkart theilt sich auch leicht ihren Freunden und Anhängern mit , die ihnen verbindlich sind , und deren Existenz und Wohlfarth von der Behauptung der Vorzüge und Rechte je.
+
+ner abhangen. So gieng es auch dem Hob des, der immer in den Häusern der Großen und der Hofpartey ergebenen Familien gelebt hatte , und selbst lehrer des Prinzen von Wallis, nachherigen Königs Carl II von England, gewesen war. Von einem Philosophen , der in so genauer Verbindung mit dem Hofe stand, ließ sich kaum ein anderes Statsrecht erwarten, als wir es vom Hobbes haben. §. 101. ン
+
+Was dem theoretischen Theile der Philo.
+
+sophie des Hobbes eigenthümlich ist , läßt sich [p. 682] auf folgende Hauptsäße zurückführen : Erſt lich: Es giebt keine Vorstellung in der Seele, die nicht vorher durch einen der Sinne er.
+
+geugt ist , entweder ganz auf einmal , oder theilweise. Aus diesen urſprünglichen ſinnli. chen Wahrnehmungen entsteht alle folgende Er. kentniß Die Ursache der sinnlichen Empfindungen aber ist der Körper, oder ein äußeres Object, welches auf das sinnliche Organ un. mittelbar oder mittelbar einwirkt.
+
+Diese Ein wirkung des Objects mittelst der Nerven des
+
+Organs auf das Gehirn und von diesem auf das Herz , und die Zurückwirkung des Herzens dagegen, machen das Wesen der Empfindung aus. Die verschiedenen empfindbaren Qualitaten derKörper selbst sind bloße Bewegungen der Materie gegen die Organe, nicht etwa beson. dere Formen oder Bilder , die an den Körpern selbst haften. Zweytens : Die Phantasie ist die Einbildung des Objects bey abwesender Empfindung desselben. Soferne sie ein schon verschwundenes Bild wieder erneuern kann,
+
+Heist sie Gedächtniß. Die Phantasie kann quch mehr ſinnliche Bilder oder Theile derselben zusammensetzen ; aber alle ihre Wirkungen, z. B. die Träume, beruhen auf vorhergegangenen sinnlichen Empfindungen. Drirrens : Die Einbildungen , die aus der Spra. che oder andern willkührlichen Zeichen entstehn, machen den Verstand aus , und sind dem Menſchen
+
+[p. 683] ſchen mit den Thieren gemein; jedoch hat der Verstand des Menschen eigenthümliche Vor zuge. Die Reihe der Einbildungen, oder, die Folge eines Gedankens auf den andern, Heißt derIdeengang. Es giebt aber keine Ver knúpfung der Ideen, die nicht schon einmal in der sinnlichen Wahrnehmung statt gefunden hätte. Der Ideengang ist zwiefach : bald unregelmäßig , ob schon sich eine gewiße gesetz. liche Ordnung in der Ideenverknúpfung be merken läßt; bald regelmäßig, wenn er auf einen bestemten Zweck gerichtet wird, und Untersuchung heißt. Durch das Untersuchen bilden sich im Menschen Geschicklichkeit, Klug heit und Vorsicht. Um diese Fähigkeiten zu erlangen, bedarf es nichts weiter, als ein Mensch gebohren zu werden und den Ge brauch seiner fünf Sinne zu haben. Viertens : Alles was wir uns einbilden, ist begrenzt; es giebt also keine Vorstellung und keinen Wort begriff des Unendlichen. Wenn wir denNa men der Gottheit als des unendlichen Wesens brauchen; so thun wir das nicht, weil wir die Gottheit begreifen, sondern um sie zu ehren. Denn Niemand kann etwas begreifen , als was an einem bestimten Orte ist , eine bestimte Größe hat , und theilbar ist. Wie etwas ganz in einem Orte und ganz in einem andern; wie etwas zu verschiedenen Zeiten und doch zugleich seyn könne, ist unbegreiflich, Sunftens :
+
+[p. 684] Der innere Ideengang wird durch die Sprache ausgedruckt; diese besteht aus Namen , vie entweder eigenthümlich oder gemeinsam sind. Sechstens: Das Wahre und Falsche sind nicht Attribute der Gegenstände, sondern der Rede ; und wo keine Rede statt findet , da giebt es auch weder ein Wahres noch ein Falsches , wie wohl es einen Irrthum geben kann. Es be steht also die Wahrheit in der richtigen. Beziehung und Anordnung der Namen der Dinge, wenn wir etwas von den Dingen bejahen, und hieraus leuchtet die Nothwendigkeit der )
+
+Definitionen für Jeden ein , der nach der Wahrheit strebt. Ein benannter Gegenstand ist derjenige, welcher gedacht und durch Schluße erwogen werden kann , oder der sich auch einem andern zu einer Summe beyfügen oder von derselben abziehen läßt. Die Handlung des Schließens heißt ein Syllogismus , und ist die Verbindung eines Sakes mit einem andern , sofern dieser aus jenem folgt. Es giebt auch bedeutungslose Namen, und das sind solche , die entweder noch durch keine Definitionen erklärt, oder deren Bedeu. tungen schwankend und unbestimt sind ; von der Art ist z. B. der Name: unkörperliche Substanzen. Siebentens : Der dem Menſchen eigenthümliche Verstand ist eine Art zu begreifen , welche aus der Sprache entstanden ist. Diesen haben die Thiere nicht. Es folgt aus [p. 685] hauptungen nicht verstanden werden können. Achrens: Wer Schluße macht, sucht entweder ein Ganzes durch Hinzufügung der Theile, oder einen Rest durch Abzug des Theils vom
+
+Theile,
+
+Geschieht dies mit Worten , so ist es nichts anders , als der Begriff der Beziehung des Namens des Theiles zum Namen des Ganzen , oder der Namen des Ganzen und des Theils zum Namen des übrigen Theiles. Was demnach die Arithmetiker bey den
+
+Zahlen, und die Geometren bey den Linien thun , das thun die Logiker bey den Namen. Neuntens : Wenn Jemand schließt , ohne sich der Namen zu bedienen; wenn das , was wahrscheinlich ist , weder vorhergegangen ist, noch folgt; so wird dies bey dem Schließenden ein Irrthum genannt; wenn wir aber in allgemeinen Ausdrucken schließen , und dadurch auf eine allgemeine und falsche Conclusion gerathen; so entsteht eine Abſurdität, das heißt : eine Rede ohne Bedeutung. Zehntens : Der Verstand wird uns nicht so angebohren , wie das Empfindungsvermögen und das Gedächtniß ; er wird auch nicht durch die bloße Ersatz. rung erworben; sondern durch Fleiß; besonders indem, wir den Dingen angemessene Namen benlegen; hernach in einer richtigen Methode von Namen zu Sätzen , und von Säßen zu Schlüßen fortschreiten, bis wir zur Erkentniß des Zusammenhanges aller der Namen gelanBuhleGesch. d. Phil. 6. Th, tehälste, Ex gen, [p. 686] gen, die zu einer Wissenschaft gehören. Denn eine Wissenschaft ist die Erkentniß der Beziehungen eines Dinges auf das andre. So wie viel Erfahrung die Klugheit bewirkt , so bewirkt viele Wissenschaft die Weißheit. Elftens: Gewiße und untriegliche Zeichen der Wissenschaft sind, wenn derjenige, der etwas zu wissen vorgiebt , eben dasselbe einen andern lehren, und diesem das, was er lehrt, deut. lich beweisen kann. Zwölftens : Es giebt zwey Arten der Bewegungen in den Thieren, die ihnen eigen sind , deren eine in den Lebens. bewegungen, die andre in den thierischen be.
+
+steht; jene sind unwillkührlich, dieſe willkührlich S. Hobbefii elementa philos. S. t. a. cf. Bruckeri hist. crit. philos. T. IV P. II p. 183 fq.
+
+§. 1002.
+
+Mit der Unterscheidung der unwillkührlichen und willkührlichen Thätigkeiten in der thierischen Natur des Menschen beginnt sobbes die praktische Philosophie. Erstlich: Diejenige Thätigkeit des Gemüths , welche Ur sache zu werden strebt , heißt Bestrebung oder Begierde; strebt sie aber, nicht Ursach zu [p. 687] zu werden, sondern vielmehr den Gegenstand zu vernichten, oder zu entfernen; so heißt sie Abscheu. Es erhellt hieraus , daß eine wirkliche Bewegung im Menschen statt finde. Was die Menschen begehren , sagt man, lieben sie ; was sie fliehen, hassen sie; was sie weder begehren noch fliehen , verachten sie. Jeder Gegenstand einer Begierde des Menschen heißt ein Gut; so wie jeder Gegenstand seines Abscheues ein Uebel. Sofern das Gute und das Uebel unter sichtbaren Zeichen dargeboten werden, heißt jenes schon , und dieses häßlich. Diese Eigenschaften scheiden sich wieder in mehr Arten. Die Schönheit beruht auf der bloßen Wahrnehmung und Vorstellung des Gegenstandes; die Gute liegt in dem Gegenstande selbst ; in dem Zwecke desselben liegt die Annehmlichkeit ; und in der Mitte von allen diesen die Nußlichkeit. Zweytens : Alle Thätigkeit des Gemüths in Beziehung auf ein Object ist ein Bestreben nach demselben , oder eine Bemühung sich von ihm zu entfernen; die Wahrnehmung dieser Thätigkeit aber heißt entweder Vergnügen oder Misvergnügen. Jede Begierde ist daher mit irgend einem Ver gnugen, so wie jeder Abscheu mit Misvergnú gen verbunden. Das Vergnügen entspringt entweder aus der Empfindung des gegenwärtigen Objects und ist sinnlich ; oder es geht aus der Vorhersehung und Erwartung der Zwecke [p. 688] und Folgen der Dinge hervor, und dann ist es ein Vergnügen des Verstandes . Die einfachen Zustande , Bestrebung , Begierde , Liebe , Abneigung , Abscheu , Freude , Schmerz erhalten verschiedene Namen nach den verschiedenen Gesichtspuncten , aus denen sie betrachtet werden: je nachdem sie entweder auf einander folgen; oder nach dem Grade , in welchem ein Object begehrt oder verabscheut wird; oder je nachdem mehrere derselben zugleich betrachtet werden.
+
+So ist z. B. die Religion eine
+
+Furcht vor unsichtbaren Machten ; ist sie of.
+
+fentlich , so heißt sie Religion; ist sie es nicht, so heißt sie Aberglauben ; giebt es wirklich ſol- Machte , wie man fürchtet , so ist sie wah. re Neligion . Das ganze Aggregat der Zu stände bis zur Bewirkung des Objects , oder bis zur Verwerfung desselben , heißt Deliberation. In jeder Deliberation heißt die leg. te Bestrebung oder Abneigung , worüber deliberirt ist , der Willen ; unter diesem wird nehmlich die Thätigkeit selbst verstanden , nicht das Vermögen zu wollen; woraus fließt, daß die Thiere , soferne sie deliberiren , auch einen Willen haben. Drittens : Ein beständiger guter Fortgang in Ansehung der begehrten Gegenstände ist die Glückseligkeit. Viertens : Die Ueberlegung , ob etwas geschehen oder nicht geschehen solle, wobey die Wahl frey bleibt, heißt die Meynung. So wie Der bey [p. 689] der Deliberation der Wille die letzte Bestre. bung ist; so ist bey der Ueberlegung des Vergangenen und Kunfrigen die tekte Meynung das Urtheil oder die Finalsentenz. Die ganze Reihe mannichfaltiger Meynungen heißt Dubitation. Sunftens: Das Gewißen ist eine geheime Kentniß irgend eines Factum's oder Gedankens.
+
+Sechstens: Wenn die Ueberlegung von der Versicherung irgend eines andern Menschen ausgeht , an deßen Wahre haftigkeit oder Kentniß wir nicht zweifeln ; so entsteht Glaube; geht sie von der Existenz der Sache selbst aus , entsteht Ueberzeugung. Siebentens : In jedem Dinge ist die Tugend etwas durch seine Eminenz Achtungswerthes , und sie beruht also auf Vergleichung. Die intellectualen Tugenden sind diejenigen Fähigkeiten des Gemüths , welche die Men schen zu loben und hochzupreisen , und deren
+
+Besitz sie sich selbst zu wünſchen pflegen. Ihr Inbegriff macht das sogenannte bonum ingenium aus. Sie sind entweder naturlich , oder erworben. Denen, die vorzüglich solche Aehnlichkeiten bemerken, welche von andern selten bemerkt werden, legt man ein gutes Genie, das heißt hier: eine gute Phantaſie , bey denen aber, welche vorzüglich die Verschiedenheiten und Unähnlichkeiten gedachter Gegenstände bemer ken, oder die Dinge gut zu unterscheiden wis fen, schreibt man eine gute Urtheilskraft Es zu.
+
+[p. 690] Es läßt sich durch keine andere Methode und Unterricht Genie erwerben , ausser der , welche durch richtigen Gebrauch der Sprache Wissenschaften erzeugt. Achtens : Die Verschiedenheit der Genies entsteht aus der Verschieden. heit der Zustande des Menschen, welche letzte. re wiederum theils in der verschiedenen Con. stitution der Körper , theils in der verschiede.
+
+nen Gewohnheit und Erziehung ihren Grund hat. Sie kann aber überhaupt auf die Verschiedenheit der Vermögen zurückgeführt werden. Das größte unter allen menschlichen Vermögen ist dasjenige, was in der Vereinigung sehr vieler Menschen zu dem Willen Einer Person besteht; es mag nun diese eine natürliche Person seyn, wie ein Mensch , oder eine kunstliche, wie ein Staat.
+
+Die Würde eines Menschen ist nur derjenige Werth des selben, für welchen Jemand den Gebrauch sei.
+
+nes Vermögens erkaufen wurde.
+
+Offenbar machen, wie hoch wir Jemanden schaken, heißt: ihn ehren. Dahin gehört, seine Hülse nachsuchen, ihm den Rang geben, ihn lieben, loben, anbeten, ihm glauben , vertrauen , nachahmen, seinen Rath anhören, u. w. Die Sitten des menschlichen Geschlechts heißen diejenigen Qualitäten desselben , wodurch der Frieden erhalten , und die Verfassung des Staats bewahrt wird. Neuntens: Die Gluck.
+
+seligkeit des gegenwärtigen Lebens besteht nicht
+
+[p. 691] I in einer ununterbrochnen Ruhe des Gemüths, welche in diesem Leben wegen der beständigen Bewegung des Gemuchs nicht möglich ist; sondern sie ist ein unaufpörliches Fortschreiten von einer Begierde zur andern. Nach diesem
+
+Ziele streben die Thätigkeiten Aller; aber nicht auf demselben Wege. Einige begehren Macht ; andere Ehrenstellen; andere Musse und Wohl. lüfte; andere Wissenschaft; andere Lob und Ruhm nach dem Tode u. w. Daher die gro-
+
+Be Verschiedenheit der Sitten.
+
+Zehntens:
+
+Die Wißbegierde der Menschen wird gereizt und geschärft durch ihr Verlangen, bey Be. trachtung der Wirkungen die Ursachen , und wiederum die Ursachen der Ursachen, so lange zu erforschen , bis sie zuletzt auf den Gedanken gerathen, es müsse irgend eine ewige Ursache geben, vor welcher keine andere habe seyn können; so daß Jeder , der sich tiefer in die Betrachtung der Natur einläßt, nothwendig dahin gebracht werden muß , das Daseyn eines ewigen Gottes zu glauben , obgleich er die Idee des göttlichen Wesens nicht zu foſſen vermag. Aus der Unkunde der wahren Ur sachen der Dinge entsteht inzwischen eine Vengstlichkeit; und aus dieser jene beständige Furcht, deren Objecte die unsichtbaren Mächte sind , und welche die Religion erzeugt. Man kann demnach als den natürlichen Samen der Religion folgende vier Umstände ansehn: die
+
+Furcht
+
+[p. 692] Furcht vor Geistern; die Unwissenheit der ent. fernten Ursachen; die Verehrung solcher Dinge, die man fürchtet; und die Verwechselung zufälliger Dinge mit Vorbedeutungen. Dieſe Samen sind von zwey Gattungen von Menschen besonders gepflegt worden: erstlich von solchen, die nach ihren eigenen Phantasieen Religionen stifteten; zweytens von solchen, denen Gott selbst die Religion offenbarte. Die
+
+Absicht beyder war, die in ihre Religionen
+
+Initiirten sich gehorsamer zu machen.
+
+Religion jener ist ein Theil der Politik; hingegen ist die Politik ein Theil der Religion
+
+Dieser. §. 1003.
+
+Elftens: Alle Menschen haben von Natur gleiche Fähigkeiten des Körpers und des Gemüths.
+
+Aus dieser natürlichen Gleichheit
+
+Derselben entspringt bey einem jedem die Hoff. nung, das , was er begehrt, zu erlangen, sollte es auch mit Verlegung Anderer geschehen. Eine Folge hiervon ist wiederum eine große gegenseitige Furcht der Sicherheit wegen, die veranlaßt , daß 'Jeder zu seiner Selbſterhaltung die Sicherheit anticipirt , so gut wie er kann. Einem Jeden muß daher die gewalt. fame [p. 693] same Occupation eines Eigenthums verstat tet werden , weil dieselbe zu seiner eigenenEr. haltung nothwendig ist. Zwölftens: So lange es keine höhere schuhende und zwingende Gewalt giebt , befinden sich die Menschen imZustande eines gegenseitigen Krieges. Niemand kann also weiter Sicherheit erwarten , als sofern er im Stande ist sich dieselbe durch seine Stärke oder Klugheit zu verschaffen. Daher ist in einem solchen Naturstande gar keine Cultur möglich, weil es keinen sichern Genuß und Gebrauch der Erdfruchte , keinen
+
+Ackerbau, keine Kunste, keine Geselligkeit giebt , und Jeder stets einen gewaltsamen Tod besorgen muß. In einem solchen Naturstan. de kann ferrier nichts ein ungerechtes Gut genannt werden , was durch Gewalt oder list erworben ist ; es giebt folglich in demselben
+
+Fein wahres Eigenthum. Dreyzehntens : Die Zustande, welche die Menschen zum Frie. den bewegen können, sind die Furcht über. Haupt, vornemlich die Furcht vor einem gewaltsamen Tode; die Begierde nach Dingen, welche zur Erhaltung und zum frohen Genuße
+
+Des debens nothwendig sind; und die Hoffnung, Diese Dinge mittelst der Industrie, welche nur im Frieden statt haben kann, zu erreichen.
+
+Vierzehntens : Das Naturrecht des Men schen ist die Freyheit desselben , sich seinerKraf.
+
+te zur Erhaltung seiner Natur nach Willkühe
+
+해 [p. 694] zu bedienen, und alle die Handlungen ver. richten zu dürfen , welche diesen Zweck-haben mögen. Die Freyheit selbst ist die Abwesenheit aufferer Hinderniße. Sunfzehntens: Im Naturstande haben Alle ein Recht auf Alles, Menschen selbst nicht ausgenommen. So lange jenes Naturrecht also existirt und gilt , ist keine Sicherheit für einen Menschen möglich, und wenn er auch noch so stark wäre. DaHer schreibt die Vernunft die allgemeine Regel vor : daß die Menschen den Frieden zu be wirken suchen sollen, wenn sie hoffen können, denselben zu erlangen; daß sie hingegen, falls er nicht zu erlangen wäre, Hulse suchen dürfen, wo und wie sie dieselbe zu finden glauben. Aus dieser Regel fließt eine andere: daß ein Jeder, sobald sein eigener Friede ge sichert ist, sich des Rechts auf alle Dinge in. sofern begeben solle, als die Andern dasselbe zu thun bereit sind , und er also mit der Freyheit ſich begnige, welche er in der Stelle Anderer zugestanden wünſchen würde. Es begiebt sich aber Jemand seines Rechts auf irgend eine Sache , wenn er sich der Freyheit beraubt, welche er ursprunglich hat , Andere zu verhindern, daß Jeder von diesen sein Recht, das ihm ebenfalls auf dieselbe Sache zukomt, ausübe.
+
+Sechszehntens; So oft Jemand sein Recht derelinquirt, oder auf einen Andern überträgt, thut er dies deswegen, um von dem, [p. 695] dem, welchem er das Recht übertragen hat, ein anderes Recht oder Gut zu empfangen. Die gegenseitige Uebertragung von Rechten heißt ein Vertrag. Wird ein Vertrag auch durch Furcht erzwungen , so ist er doch im Naturstande der Menschen gültig , eben weil es ein Vertrag , und das Recht einmal übertragen ist. Ein ſpäterer Vertrag hebt den frühern auf. Zur Sicherung der Verbindlich_keit der Verträge lassen sich im Naturstande nur zwey Hülfsmittel denken: entweder das Bewußtseyn der Menschen , es sen unedel, zu betriegen; oder die Furcht vor Schaden , der aus dem Bruche des Vertrages entstehen könte. Diese Furcht bezieht sich entweder auf die unsichtbaren Mächte , wie in der Religion ; oder auf menschliche Macht , wie im Staate. Wo die letztere nicht existirt , kann lediglich die Furcht vor der unsichtbaren Macht einen Vertrag sichern; und daraus hat der Eid seinen Ursprung. Siebzehntens ; Es ist ein drite tes allgemeines Rechtsgesetz der Vernunft :
+
+Verträge müssen gehalten werden. Auf die sem Geseke beruht die Natur der Gerechtigkeit , welche in der Erfüllung der Verträge besteht. Die Verträge fangen aber nur alsdenn an , gul. tig zu seyn, wenn ein Staat errichtet ist , der Die Leistungen erzwingen kann. Aus den obi.
+
+gen allgemeinen Rechtsgesetzen werden vom Sob.
+
+[p. 696] XXI. Abf. Geschichte der Philos. Hobbes noch mehr einzelne entwickelt, deren Ausführung hier zu weitläufig seyn wurde. §. 1004.
+
+Die Ursache und der Zweck, warum die Menschen , welche von Natur alle die Freyheit und Herrschaft lieben , sich zu einem bürgerlichen Staate vereinigten , war die Sorge für ihre Selbſterhaltung und eine größere Beguemlichkeit des Lebens; d. h. die Sorge, aus dem unglücklichen Zustande des Krieges Aller gegen Alle herauszukommen. Da dieses nun nicht durch bloße Verträge bewirkt werden kann; so wird noch eine zwin. gende Gewalt dazu erfodert, welche im Graate existirt. Denn die Verbindung weniger Menſchen ist zur Sicherheit nicht hinreichend; sondern es muß sich eine große Menge derselben vereinigen; die Menge aber als solche, die durch so mancherley Meynungen regiert wird , verspricht wegen der innern Zwiſtgkeiten der Individuen jene Sicherheit ebenfalls nicht; und selbst daß die höchste Gewalt nur auf eine gewiße Zeit hersche, ist nicht genug, da derselbe Feind unaufhörlich wiederkehrt. Um nun gemeinschaftlich eine höhere Gewalt zu begründen , welche den Menschen Sicherhei ge [p. 697] gewähren könne, ist es die einzige Methode, daß ein Jeder sein ganzes Vermögen und seine Gewalt auf einen Einzigen , oder auf eine gewiße Zahl von Menschen übertrage; so . daß die Privatwillen aller Einzelnen ſich in Einem allgemeinen Willen vereinigen , und jene diesem ganz und gar unterworfen werden. Diese Menge der Privatwillen zu einem allgemeinen Willen verbunden und demselben untergeordnet ist diejenige (moralische) Person, welche Staat und gemeines Wesen genannt wird . Sie ist der große Leviathan, dem wir allen Frieden und Schuß unter dem ewigen Gotte verdanken. Der Staat hat so großes Ansehn und so große Gewalt, daß er die Privatwillen aller Einzelnen zum Frieden unter einander zwingen und gegen den gemeinschaft.
+
+lichen Feind vereinigen kann. Der Staat ist demnach Eine Person, von deren Handlungen eine große Zahl von Menschen durch gegenseitige Verträge Eines mit Allen und Aller mit Einem die Urheber sind , und zwar in der Absicht , daß jene Person nach, ihrem Willen die Macht Aller zum Frieden und zur gemeinschaftlichen Vertheidigung anwende. Ein Staat entsteht nun entweder durch ursprüngliche Er. richtung, oder durch Erwerbung desselben. Ein Staat wird errichtet, wenn die Individuen von freyen Stücken zusammenkommen , und mit einander darüber einen Vertrag schließen , daß [p. 698] daß der größere Theil durch seine Stimmen Einem oder Mehrern das Recht ertheilt , die
+
+Person Aller zu vertreten und von Allen GeHorsam zu fodern. Die höchste Gewalt des Stactes kann niemahls wegen schlechter Administration derselben aufgehoben werden; so wenig wie der Inhaber der höchsten Gewalt einem der
+
+Individuen, welche ihm dieselbe ertheilten, ei. ne wirkliche Beleidigung zufügen kann. Aus eben dem Grunde kann auch das Statsober-
+
+Haupt weder von den Bürgern getödtet, noch auf irgend. eine Weise von diesen bestraft werden Unter den verschiedenen Statsverfassun gen ist die Monarchie die der Wohlfarth des Stats angemessenste , und der Aristokratie, oder einer gemischten Verfassung , bey weitem vorzuziehen. Ein durch Erwerbung entstandener Staat ist ein solcher , wo die Oberherr. schaft durch Gewalt erlangt worden ist ; so daß die Individuen aus Furcht vor dem Tode oder andern ihnen sonst zu Theile werdenden Uebeln sich anheischig gemacht haben , dem WillenEinerPerson zugehorchen. Die Rechte aber sind mit den Rechten in einem ursprung{ lich errichteten State dieselben.
+
+Es giebt auch eine Erwerbung der Herrschaft durch Geburt, welche ein väterliches Reich genannt wird, und eine durch Sieg über Knechte. Die höchste Gewalt, sie mag nun in Einem Menschen oder in mehrern beruhn , ist so groß, wie [p. 699] wie Menschen sie nur machen können, das
+
+Heißt , sie ist unbeschränkt , obgleich hieraus manche Nachtheile folgen mögen; so wie denn der Zustand der Menschen in diesem Leben nie ohne alle Nachtheile seyn wird . Furcht, Freyheit und Naturnothwendigkeit können in einem Staate wohl neben einander bestehen. Derjenige ist frey , der nicht verhindert wird , nach seiner Willkühr zu thun, was er vermoge seiner Kräfte und Kunst thun kann. Die
+
+Freyheit wird aber nothwendig im State durch Geseze eingeschränkt, und sie hebt das Recht über Leben und Tod der Bürger nicht auf. Wird dieses Recht gegen einen Unschuldigen ausgeibt , so handelt der Regent böſe und sündigt gegen Gott ; allein er handelt nicht ungerecht. Dabey bleibt die Freyheit in Ansehung aller derjenigen Gegenstände, worauf das Recht nicht durch Verträge übertragen , oder nicht ausgegeben werden kann , oder worúder die von der höchsten Willkühr ausgehenden Geseke schweigen. Die Verbindlichkeit der Bürger gegen den Inhaber der höchsten Gewalt dauert nur so lange und nicht länger, als derselbe die Macht hat , sie zu beschußen. Ein Statssystem ist eine beliebige Zahl von Menschen, die zur Regierung des Gemeinen Wesens zusammentreten. Diese Systeme sind entweder regelmässig , so daß Ein oder mehrere
+
+Menschen die Person Aller repräsentiren. Diese [p. 700] se sind entweder absolute , oder untergeordnete, sowohl politische , als Prinatkörper. Der öffent. liche Minister der höchsten Gewalt ist derjenige, der inStatsangelegenheiten durch den Inhaber der höchſten Gewalt die Person des Stats repräsentirt.
+
+Bürgerliche Geseke sind Vorschriften für jeden Bürger , wodurch der Staat mittelst der Worte oder anderer Zeichen seines Willens den Unterschied zwischen guten und böſen Handlungen festseßt. Der
+
+Regent ist an diese Geseke nicht gebunden.
+
+Eine lange Gewohnheit erhält die. Kraft eines Gesetzes durch den Willen des Regenten, welcher in diesem Falle von ihm stillschweigend bestimt wird. Bürgerliche Geseke können je doch nur für diejenigen verbindlich seyn, denen sie kund gethan worden sind; es ist also eine öffentliche Bekantmachung derselben_erfoder. lich: anstatt daß die von der Vernunft vorge. ſchriebenen Geseke allen bekant sind. Die Auslegung der natürlichen Geseke hängt nicht vondenRechts- Lehrern undPhilosophen; sondern von der Autorität des Stats ab ; denn nicht die
+
+Wahrheit , sondern die Autorität entscheidet das Gesetz.
+
+Die Auslegung eines Naturgesetzes ist also nichts anders , als der richtige
+
+Ausspruch der höchsten Gewalt, welche jenes Gesez auf ein Factum anwendet. Es ist aber Pflicht des Richters , die Sentenz nach Ver nuuft und Erfahrung und nach seinem Gewis fen
+
+[p. 701] ſen zu fällen.
+
+Verbrechen sind Nebertretungen des Gesetzes , die entweder aus einem
+
+Fehler des Verstandes , der Unwiſſenbelt, oder aus der Ungeschicklichkeit im Schließen , dem Irthume , oder aus der Heftig der Leidenschaft entspringen. Die Strafe ist ein Uebel, welches dem Uebertreter des Gesetzes unter öffentlicher Autorität zugefügt wird , in der Absicht , durch sein abschreckendes Benspiel die übrigen Bürger zum Gehorsame zu bilden. Das öffentliche Gesetz dient dem Bürger statt des Gewissens; es ist also falsch , daß Alles eine Sunde sey , was der Bürger als solcher gegen sein Gewissen thut. Die Pflichten des Regenten überhaupt werden durch seinen Zweck bestimt , welcher die Wohlfarth des Volks ist. Hobbes suchte noch beson. ders darzuthun , daß diese seine statsrechtli chen Grundsätze dem Christenthume gar nicht zuwiderliefen und also auch auf einen christlichen Stat angewandt werden konten, weßhalb er sich auf mehrere Stellen in der Bi bel berief. Es würde eine zu große Weitläufigkeit nd. thig machen , wenn ich mich auf eine Beurtheilung aller einzelnen in den obigen §§ ausgehobenen Paradoxieen des sob des einlassen wollte.
+
+Am berühmtesten unter diesen sind die naturrechtlichen ge worden , über denen man fast die theores
+
+Mytis [p. 702] tischen vergessen hat , obgleich jene mit Diesen zusammenhiengen und ihnen zu Prinz cipien dienten. Der Empirismus des Hob, des war der strengste und kühnste , der in der Geschichte der neuern Philosophie vorkomt . Wenigstens hat ihn keiner der Neuern so systematis durchgefahrt ; denn der , welchen Locke in der Folge aufstellete, war ungleich gemäßigter. Für den Gobs des gab es in der Welt nichts als Körper und bewegende lebendige Bräfre , weil es für ihn gar keine andere Erlentnißquelle oder Erkentnißmittel , als die Sinnlichkeit, gab. Die Geisterwelt und alle sogenannte intellectuale Erkentniß war ihm ein Worte gewebe ohne Bedeutung und Inhalt. Die Gottheit als die Grundursache alles
+
+Vorhandenen , die er consequent aus seinem Systeme als körperlich hätte annehmen müsser , erklärte er für das durchaus Unbegreifliche. Daher denn seine Behauptung , daß alle Begriffe und Verbindungen derselben nichts anders als Wortzeichen und Verknüpfungen derselben seyen , und alle Wahrheit oder Falschheit auf eine riche tige oder unrichtige Bezeichnung der Gegenstände und Verknüpfung jener Bezeichnungen binauslaufe. Er identificirte also gewißermaßen die Sprachfähigkeit des Menschen mit dem Verstande. Das Eins seitige dieser Vorstellungsart würde er eingesehen haben , sobald er nur die Möglich keit der Sprache, hauptsächlich soferne intellectuale Ideen dadurch bezeichnet werden, und die Möglichkeit des Zusammenhanges jes [p. 703] jener mit diesen , tiefer untersucht hätte.
+
+Es ist zu verwundern , daß die mannichfaltigen Paradoxieen , zu denen er durch seie nen Grundirrthum verleitet wurde , und deren Uuwahrheit in die Augen leuchtet , ihn nicht auf das Unhaltbare seines Sy. stems aufmerksam gemacht haben. Eein Naturrecht beruhte auf der Voraussetzung der Gleichheit der Menschen in Ansehung ihrer natürlichen Anlagen und Fähigkeiten ; daher das jus omnium in omnia , und was wiederum hieraus folgte , das bellum omnium contra omnes im Naturstande. So gieng das Recht des Stärken als Princip des Naturrechts hervor , wodurch wiederum alles wirkliche Recht ausserhalb dem State aufgehoben wurde , oder doch in der Ausübung als sich selbst vernichtend erschien. Die eigentliche Quelle und den
+
+Grund des Rechtsbegriffs hatte Hobbes durchaus verfehlt. Da er bey seiner Philosophie über das Naturrecht den Naturstand nicht als hypothetische Idee zum Grunde legte , sondern als historisches in der menschlichen Natur gegründetes Factum; in dies sem Naturstande aber alles wirkliche Recht durch den Widerstreit der Ansprüche der
+
+Individuen zerstört wurde ; so war es ganz consequent , daß er auch nur diejenige
+
+Statsverfassung für die beste erklärte, in welcher dieser Widerstreit am wenigsten statt fände , weil er am kräftigsten durch Die Art , wie sich die höhere Gewalt in
+
+Derselben äussere , unterdrückt werde. Eine solche Verfassung war die Monarchie, [p. 704] wo die Privatwillen aller Einzelnen dem
+
+Willen eines Einzigen unterworfen sind . Dagegen mußte er eine demokratische Vers fassung um so lebhafter verwerfen , je mehr sich diese seinem Bilde des Natur ſtandes näherte , je weniger sie also geeignet war, die Mängel und Fehler des Naturstandes zu verbessern. Sollte aber die Monarchie ihren Zweck erreichen , so muße te der Regent die unumschränkte und uns abhängige Macht haben , welche ihm Hobbes beylegt.
+
+Hieraus floßen ganz naturlich die statsrechtlichen Sätze des Hobbes: daß der Regent nur seinem Gewissen und der Gottheit verantwortlich sey; daß von ihm als Regenten niemals den Unterthanen eine Beleidigung oder ein Unrecht zugefügt werden könne , folglich auch die Unterthanen nie befugt seyn konten , den
+
+Regenten zu strafen ; daß bey dem Bürger als solchem das Gesetz des Regenten die Stelle des Gewissens vertrete: Sätze, die Hobbes um so eifriger ausführte, je wichtiger und dem Interesse der Partey , zu welcher er gehörte , angemessener sie in den damaligen politischen Gährungen seines Vaterlandes waren. Er that dens noch auch durch die Behauptung dieser Sätze seiner Partey noch nicht genug.
+
+Die Einschränkung , die er der Dauer der monarchischen Gewalt dadurch gab , daß er behauptete , sie könne nur so lange bestehen , als der Regent die Unterthanen zu beschützen und den Frieden zu erhalten vermige, misfiel dem Hofe, weil gerade bey [p. 705] bey dem Könige damals casus in terminis war.
+
+§. 1005.
+
+So wie sich Hobbes durch die Bearbeitung des Statsrechts einen berühmten Namen machte ; so that sich einer seiner Zeit genossen, Sugo de Groot , oder , wie er gewöhnlich genannt wird , Hugo Grotius , durch die Bearbeitung des Völkerrechtes hervor. Dieser noch mehr durch seine bewun dernswurdige Gelehrsamkeit in den verschiedensten Fächern der Literatur , als durch sein philosophisches Talent, merkwürdige Mann wurde gebohren im I. 1583 zu Delft , wo sein Vater Johann de Groot Burgermeister war. Durch seine außerordentlichen Kentniße, von denen er schon als Jüngling Proben gab , gelangte er früh nicht bloß zu literarischem Ruhme , sondern auch zu den ansehnlichsten Aemtern in seinem Vaterlande. Nachdem er sich bereits im sechszehnten Jahre seines Alters die juristische Doctor wurde erworben hatte, ward er im J. 1600 Advocatus fisci im Haag; und im J. 1607 Generaladvocat von Holland , Seeland und
+
+Westfriesland. Auf Veranlassung des leßtern Amtes schrieber sein Werk: Mare liberum , [p. 706] um die Freiheit des holländischen Handels nach Indien zu vertheidigen , wegen welcher Angelegenheit er auch als Gesandter nach England geschickt wurde. Im I. 1613 wurde er Pensionair von Rotterdam , und durch diese Stelle zugleich Mitglied des Collegium's der Deputirten der Provinz Holland , so wie er durch eben dieselbe Sih und Stimme in der Versammlung der Generalstaten erhielt. Bey den damaligen in Holland herschenden Streitigkeiten über die Lehre des Arminius von der
+
+Gnadenwahl neigte sich Grotius zur Partey der Arminianer oder Remonstranten, und er. bitterte dadurch die Geistlichkeit und den gro. Den Haufen im Volke gegen sich, die es mit den Contraremonstranten hielten.
+
+Durch ein
+
+Evict, welches er im Namen der Staten von Holland ausfertigte, und worin Toleranz der Arminianer empfohlen wurde , wurde jene Erbitterung gegen ihn noch größer.
+
+Diese Verhältniße benutzte der damalige Stadthalter Prinz Moritz von Oranien für seine politischen Absichten, um seineGegenpar ten zu ſtürzen. Er erklärte den von dieser gegebenen Befehl , zur Stillung der Unruhen Truppen anzuwerben , für einen Eingriff in seine stadthalterischen Gerechtsame und für eine Bedrohung der gemeinschaftlichen Freyheit, wußte die Generalstaten für sich zu gewinnen , und ließ die Häupter der Gegenpartey , den
+
+Groß.
+
+[p. 707] GroßpensionairOldenbarneveld,Hogerbeets, und den Grotius im J. 1618 imSaag gefangen sehen, und ihnen als Landesverräthern den Prozeß machen. Oldenbarneveld ward enthauptet; die beyden andern aber wurden mit Ein: ziehung ihrer Güter zu einer ewigen Gefangenschaft verdammt; und Grotius ward deßwegen nach dem Schloße Loevestein abgeführt. Indeßen gelang es diesem durch die List seiner Gemahlinn Maria von Reigersberg, die sich mit ihm in das Gefängniß begeben hatte, und ihn in einem Bücherkasten fortschaffen ließ, nach Frankreich zu entfliehen, wo ihm der König, der sich schon während des Prozeßes für ihn und seine Par ten interessirt hatte , Aufenthalt , Schuß und eine ansehnliche Pension bewilligte. Er blieb in Frankreich bis zum J, 1631 , und während dieser glücklichen Musse arbeitete er sein be. rühmtes Wert de jure belli et pacis größten theils zu Balagny, einem Landgute des Präsidenten von Mesmes aus. Da ihm aber der Cardinal Richelieu abgeneigt wurde, und die königliche Pension sehr unrichtig bezahlt zu werden anfieng; er auch seine vorher eingezogenen Güter wieder bekommen hatte; so begab er sich im eben dem Jahre 1631 nach Holland zurück, in der Hoffnung, durch Vermittelung des neuen Stadthalters Prinzen Friedrich Heinrich von Oranien und an
+
+Derer [p. 708] derer Gönner eine Aufhebung der über ihm gefällten Sentenz zu bewirken. Gleichwohl ward diese Hoffnung vereitelt ; er gerieth in Gefahr, von neuem gefangen gesetzt zu werden, und mußte zum zweyten male im J. 1632 aus seinem Vaterlande flüchten. Er begab sich nach Hamburg, und trat bald darauf in schwedische Dienste , wo ihn der Kanzler
+
+Orenstierna , der während der Minderjäh rigkeit der Königinn Christine das schwedische Reich verwaltete , zum schwedischen Rathe und Gesandten am französischen Hofe ernannte. Grotius war in dem ihm aufgetragenen Geschaffte, einen Tractat zwischen Schweden und Frankreich , wie er vom schwedischen Hofe Gezielt. wurde , zu Stande zu bringen, nicht so glucklich , als von ihm hätte erwartet werden sollen; entweder weil die persönliche Disharmonie zwischen ihm und dem Cardinale Richelieu dies verhinderte; oder weil er sich zu sehr in seine anderweitigen literarischen Studien verlor , und darüber seine gesandtschaftli chen Angelegenheiten vernachlässigte. Der
+
+Kanzler Openstierna mußte selbst nach Paris kommen, um den Tractat endlich abzu-
+
+Verdrüßliche Rangstreitigkeiten , schließen. welche Grotius in der Folge mit dem Cardinale Richelieu hatte , und die den französischen Hof so gegen ihn einnahmen , daß dieser sogar die Zurückberufung jenes vom ‫في‬ schwe schwedischen Hofe verlangte , zogen dem Grotius auch von Seiten des lestern mehrere
+
+Krankungen zu, bis er selbst seine Zuruckbe. rufung verlangte, welche auch im J. 1644 erfolgte, Er hatte hier das Vergnügen unter dem Schutze seines öffentlichen Charakters frey durch Holland reisen zu können , ohne daß seine Feinde es wagen durften , etwas gegen ihn zu unternehmen. Im I. 1645 verließ er die schwedischen Dienste , nachdem er sich auch hier Feinde gemacht , die seiner weitern Beförderung im Wege standen.
+
+wollte nach Lübeck überfahren ; das Schiff aber ward verschlagen an die cassubische Küste ; er ließ sich krank nach Rostock bringen und starb hier wenig Tage nach seiner AnkunftimJ. 1645 und im zwey und sechszigsten seines Alters.
+
+Sein Leichnam wurde nach Delft abgeführt, und im väterlichen Erbbegräbniße beygeseßt. Es giebt sehr viele Lebensbeschreibungen des Grotius. Ein Verzeichniß derselben , das jedoch nicht auf Vollständigkeit Anspruch macht , S. in : von Ompteda Literatur des gesamten sowohl natürlichen als vos sitiven Völkerrechts Th. I. S. 180. Die
+
+> vorzüglichsten sind: Hugonis Grotii , Belgarum Phoenicis , Manes ab iniquis obtrectationibus vindicati; Tomi II ; Del. phis 1727. 8. Der Verfasser war Peter Ambrosius Lehmann. Das Werk enthält eine mühſame Sammlung der zum Leben [p. 710] und zur Vertheidigung des Grotius gehdris gen Thatsachen ; nur ist es zu partenisch Vie de und lobrednerisch geschrieben
+
+HuguesGrotius, par Mr. deBuvigny; à Paris 1752 , 12 ; und à Amſterdam 1753 , 12, Auch diese Biographie hat den Fehler der Parteylichkeit , hauptsächlich in Beziehung auf die Religion - Bayle Dict. Art. Grotius. Barbeyrac's Vorrede zur französischen Ueberseßung des Werkes des Am Grotius de jure belli et pacis meisten verdient gelesen und benutzt zu were den die Biographie des Grotius von Joh. Matthias Schröckh , in den: Abbildungen und Lebensbeschreibungen berühmter Gelehre ten 8, 11 S. 257 ff. Die besten Ausgaben und Barbeyrac's franz. Ueberseßung des
+
+Werks de j. b. et p. sind schon oben in der Literatur dieses Abschnittes angezeigt.
+
+§.
+
+1006,
+
+Man hält gemeiniglich das Werk des Grotius über das Reche des Kriegs und Friedens , von welchem allein in der Geschichte der Philosophie, sofern jenem in derselben ein Plak gebührt , die Rede seyn kann , für ein System des Naturrechts ; was es gleichwohl nicht ist, und dem Zwecke nach , welchen der Verfasser desselben daben hatte , nicht seyn sollte. Dieser wollte so we. nig [p. 711] nig ein eigentliches Naturrecht liefern , wie
+
+Hobbes. Vielmehr war es lediglich die Absicht des Grotius , das rechtliche Verhältniß zwischen Regenten und Völkern festzusetzen , also , wenn man will, das Völkerrecht zu bearbeiten , und zwar von dem lestern sogar nur Ein Capitel auszuklären , das Recht des Kriegs und Friedens . Für die Absicht aber war es ihm freylich nothwendig , von allgemeinen naturrechtischen Principien aus. zugehn, und dieselben vorher zu entwickeln;
+
+gerade wie Hobbes zur Begründung seines Stasrechts that. Daß jene irrige Vorstellung von der Tendenz des Werkes des Grotius entstand , hat seinen Grund in der Weite läufigkeit und der Menge gelehrter zum Theile spiksindiger Discussionen , womit er die Untersuchung der allgemeinen Grundsätze , auf die er bauen wollte, verwebte.
+
+Er selbst beginnt sein Werk damit , daß der herschende falsche Wahn, es fände unter den Regenten und Völkern gar keine gegenseitige Verbindlichkeit statt , und besonders im Kriege sey alles erlaubt, ihn zur Ausarbeitung jenes
+
+Werkes , um diesen Wahn zu berichtigen, bewogen habe. Ehe sich aber über die Rech. te der Völker , namentlich während des Krieges und Friedens entscheiden läßt , muß die Frage beantwortet werden , ob wirklich über.
+
+Haupt ein natürliches Recht vorhanden sey? Die-
+
+[p. 712] Diese Frage wird vom Grotius bejaht. Er leitet das Naturrecht her aus der dem Menschen eingepflanzten Geselligkeit, zu deren Erhaltung Vernunft und Erfahrung . Rechte und Verbindlichkeiten vorschreiben. Das Naturrecht ist daher allgemein und unveränderlich, und wird erwiesen theils a priori aus Grundsätzen der Vernunft , theils a posteriori aus dem durchgängigen Gebrauche bey allen gesitteten Völkern. Ueberhaupt unterscheidet Grotius alles Recht in ein natürliches und willkührliches (jus naturale vel voluntarium). Das willkührliche Recht entspringt aus willkührlichen Gesehen, und wird wiederum getheilt in das göttliche und menschliche (jus divinum vel humanum).
+
+Das göttliche Recht ſtimt mit dem natur. lichen genau überein und dieses muß nach jenem modificirt werden: eine Meynung, die Grotius mit den altern und auch noch mit den spätern Naturrechtslehrern bis zur Mitte des gegenwärtigen Jahrhunderts gemein hat, und die den Gesichtspunct , woraus das Naturrecht zu betrachten und zu bestimmen war , gar sehr verricken, und eine ewige Verwirrung beyder Disciplinen, des sogenannten naturlichen und göttlichen Rechts , unterhalten mußte; die aber unvermeidlich war , so lange das
+
+Dogma von der göttlichen Offenbarung der biblischen Bücher sich geltend erhielt.
+
+Das
+
+[p. 713] Das göttliche Recht ist aber theils ein allgemeines theils ein besonderes. (jus divinum vel univerſale vel particulare). Jenes ist dem ganzen menschlichen Geschlechte vorgeschrieben , und zu dreyen Malen von Gott geoffenbart worden , gleich nach der Schöpfung , nach der Sundsluth , und durch den Erlöser der Welt. Dieses bezieht sich nur auf das jüdische Volk. Das letztere wi. derstreitet zwar auch dem wahren Rechte der Natur niemals ; aber die Christen sind dennoch nicht daran gebunden; wiewohl es auf ihre gesetzliche Verfassung einen wohlthä tigen Einfluß haben kann. Das menschliche
+
+Recht (jus humanum) kann in das bürger. liche (jus civile) , in das weiter als das bürgerliche sich erstreckende (jus latius patens), und in das enger als das bürger. liche eingeschränkte (jus arctius patens) gesondert werden. Das bürgerliche Recht fließt aus den Gesehen , welche von der höchsten Gewalt im State gegeben sind. Das enger als das bürgerliche Recht eingeschränkte ist dasjenige, welches zwar nicht durch die Höchste Gewalt im State beſtimt, aber doch derselben untergeordnet ist ; wohin das elterliche , das herrschaftliche Recht (potestas patria , dominica) gehören. Das weiter als das bürgerliche sich erstreckende Recht endlich ist das sogenannte Völkerrecht , das durch den über [p. 714] übereinstimmenden Willen mehrer Völker für Diese gegenseitig verbindlich geworden ist. Dieses letztere beruht denn entweder auf Ver trägen oder auf einem durchgängigen und bewährten Herkommen bei den Völkern. Nach Dieser allgemeinen Erörterung geht Grotius zur Abhandlung seiner besondern Materie von den Rechten des Krieges und Friedens über. Das Werk des Grotius de jure belli et pacis bleibt in der Literatur des Naturrechts und besonders des Völkerrechts immer eines der wichtigsten , nicht nur wegen seis nes innern Berthes , den es wirklich hat , und als eines der ersten und vollständige sten über seinen Gegenstand ; sondern auch wegen des großen Einflußes , den es auf die völkerrechtlichen Grundsätze und Marie men der neueren cultivirten Europäischen
+
+Nationen und ihrer Regierungen gehabt hat. So viel Unrichtigkeit , Einseitigkeit , und Unbestimtheit in den Principien herscht, von welchen Grotius ausgeht , indem er die Rechte der Menschen und Völker gegen einander bald aus allgemeinen Vernunfts maximen , bald aus dem Bedürfniße Der Geselligkeit , bald aus dem Herkommen bey gesitteten Völkern ableitete , und also gründliche Festigkeit und systematische | Einheit der Naturrechtswissenschaft in seinem Werke durchaus vermißt wird; so konte es doch nicht fehlen , daß seine vernünftige Reflexion über das Völkerrecht ,
+
+Die sich oft nach ihm selbst nicht wissens hafte [p. 715] schaftlich klaren Principien richtete, und durch seine ausgebreiteten historischen Kent= niße unterstist wurde , ihn nicht auch auf manche wahre Resultate , vornehmlich im Einzelnen , geführt hatte. In diesem Der trachte verdient die Arbeit des Grotius nach gegenwärtig von Statsmännern und Philosophen gar sehr benutzt zu werden. Die
+
+Fehler der Weitschweisigkeit, der häufigen Digressionen , der Ueberladung mit gelehre tem Krame , muß man der Sitte der Gelehrten seines Zeitalters , und insbeson der seiner Nation , zu gut halten.
+
+§. 1007.
+
+Die vom Grotius gebrochene Bahn zur Ausführung eines Naturrechts verfolgte wei ter Samuel Freyherr von Dufendorf, der eigentlich als der erste zu betrachten ist , welchez jener Wissenschaft nach ihrem ganzen Umfange eine systematische Form gab , ob er gleich auch ihren wesentlichen und unterscheidenden Charakter verfehlte. Er wurde gebohren im J. 1632 zu Flohe , einem Dorfe un weit Chemnitz in Sachsen , wo sein Vater
+
+Elias Pufendorf Prediger war. Er frudirte zu Leipzig und Jena, an welchem lekrernOrte unter andern der berühmte Philosoph und Mathematiker Erhard Weigel fein [p. 716] sein Lehrer war , deßen auf die Philosophie angewandte mathematische Methode auch ihn zu einem Versuche der Nachahmung bey der Moral reizte. Nach Vollendung seiner akademischen Studien ward er Erzieher der Sohne des schwedischen Gesandten Coyet am däniſchen. Hofe, und hielt sich daher im
+
+Hause desselben zu Kopenhagen auf.
+
+Als aber kurz darauf zwischen Dänemark und Schweden ein Krieg ausbrach , der schwedische Gesandte sich von Kopenhagen entfernte, und Pufendorf zurückblieb , so ward dieser, nach erfolgter Belagerung Kopenhagen's durch die Schweden , mit seinem Bruder Esaias
+
+Pufendorf in ein hartes Gefängniß gesent, in welchem er acht Monate zubrachte , und eine schwere Krankheit überstand. Nach sei. ner Freplassung begab er sich mit seinen Ziglingen nach dem Haag, wo er den ersten Grund zu seiner literarischen Celebrität legte, indem er die gelehrten Compilationen des
+
+Johannes Meursius herausgab. Eben daselbst im J. 1660 schrieb er auch sein erſtes naturrechtliches Werk: Elementa jurisprudentiae vniverfalis. Karl Ludwig, Kuhrfürst von der Pfalz, ein Kenner und Gönner der Wissenschaften , berief ihn auf die Universität zu Heidelberg als Professor des Natur und Völkerrechts , welche akademische Lehr.
+
+ſtelle damahls die erste in ihrer Art war , [p. 717] und vertraute ihm zugleich den Unterricht seines Erbprinzen an. Pufendorf's Aufenthalt in Heidelberg war indeßen nur kurz; er folgte auf Vermittelung seines Bruders Efa. ias einem ehrenvollen Rufe nach Lund in
+
+Schonen im J. 1668. Hier arbeitete er sein größeres Werk : De jure naturae et gentium aus, welches zuerst zu Frankfurt 1672 erschien,und demim nächstenJahresein kleineres : de officio hominis et civis nachfolgte. Der Neid eines seiner Collegen , Nicolaus Beck.
+
+mann, der sich um seinetwillen zurückgesetzt glaubte , und dadurch gegen ihn außersterbittert wurde , verwickelte ihn in eine heftige Streitigkeit, die sich jedoch zu seiner Ehre endigte ; indem Beckmann zuletzt , um sich den Folgen des gegen ihn zu Stockholm anhängig gewordenen Prozeßes zu entziehen, nach Deutschland flüchten mußte, und ihm nichts als ein ohnmächtiges verachtliches
+
+Schimpfen auf seinen Gegner übrig war. Aber auch ausser dem Beckmann, deßen Angriff mehr persönliche und locale Urſachen hatte, fand Pufendorf eine Menge von Widersachern , die seine Vorstellungsart vom Naturrechte bestritten. In der Folge ward er , da er sich wegen eines neuen Krieges zwischen den Schweden und Dänen zu Stockholm aufhalten mußte , zum Königl. Schwedischen Geheimen Rathe und Historiographen ernannt ; -BubleBesch, d,Phil,6.Ch.2te liste. 3 [p. 718] in welcher Qualität er das historische Werk: De rebus Suecicis ſub Gustavo Adolpho vs.
+
+que ad abdicationem reginae Chriftinae, et de rebus a Carolo Gustavo geſtis verfaßte. Dieses letztere Werk verschaffte ihm den Ruf nach Berlin , um die Geschichte des Kuhrfürsten von Brandenburg Friedrich Wil helm zu schreiben, die er auch unter der Re. gierung Königs Friedrichs I von Preußen vollendete. Noch ehe er nach Berlin gieng, war er im J. 1694 in den schwedischen Reichsfreyherrnstand erhoben worden. Er starb als Churbrandenburgischer Geheimer Rath in eben diesem Jahre ohne männliche Erben. Das noch gegenwärtig meistens imHannioriſchen lebende edle Geschlecht der von Pufendorf stamt von seinem öfter erwähnten Bruder Esaias her, der ebenfalls ein treffli. cher Gelehrter und Statsmann war , meh. rere wichtige Stellen in schwedischen und däniſchen Diensten bekleidete, und als dä1 nischer Gesandter zu Regensburg starb im I. 1689. S. die Denkwürdige Lebensmemoires des Hrn. Samuel's von Pufendorf. Vgl. Bruckeri Hist. crit. philos. T. IV P. II. p. 749. fq. wo auch die Geschichte des Streits zwischen Pufendorf, Nicolaus Beckmann, u. a. umständlich erzählt ist , und die das mals heraus gekommenen dahin gehörigen Broſchüren angezeigt sind. Von der Bits ters [p. 719] terkeit der streitenden Parteyen kann man sich schon aus folgenden Titeln zweyer Streitschriften von der einen und der an dern Seite einen Begriff machen: Nicolai Beckmanni legitima defenfio contra M.
+
+Samuelis Pufendorfii execrabiles fictitias calumnias , quibus ille contra omnem veritatem et juſtitiam, vt carnatus diabolus et singularis mendaciorum artifex, perfutilia ſua entia moralia(diabolica puto) toti honefto et erudito orbi malitioſe ac ignominioſe imponere voluit.
+
+Pafene dorf beantwortete diese Schrift nicht in seinem , sondern im Namen des damaligen Pedells zu Lund in folgender Epiſtel : Petri Dunasi p. t. in academia Carolina pedelli ſecundarii epistola ad virum famoſiſſimum. Nicolaum Beckmannum, totius Germaniae convitiatorem et calumniatoDie eto rem longe impudentiſſimum.
+
+genen apologetischen Schriften Pufendorf's sind von ihm gesammelt in der Eris Scandica; Francof. ad Moen. 1686. 4.
+
+ES wäre zu wünſchen , daß auch eine vollständige Sammlung von den Streitschriften der Gegner existirte; von denen mehrere ist wohl ganz verloren seyn werden. Eie nige hat Seumann aufbehalten in der
+
+Act, philos. T. III. p. 641. 770. fq. 6.
+
+1008.
+
+Für die Geschichte der Philosophie bedarf nur einer Charakteristik des größern Pu312 fenfendorfischen [p. 720] Werks de jure naturae et gentium in acht Büchern; denn die frúhern Schriften desselben sind bloß insofern merk.
+
+würdig, als sie zeigen, wie seine Ansicht der praktischen Philosophie zuerst beschaffen war und sich nach und nach vervollkomnete ; und das später herausgekommene Werk de officio hominis et civis ist ein compendiarischer
+
+Auszug aus jenem erstern.
+
+Dieses größere
+
+Werk schrieb er auf Veranlassung des berühmten Maynzischen Kanzlers von Boineburg, und auch wohl um dem Publicum eine bestimtere und vollständigere Idee von der Wissenschaft zu geben, als deren Lehrer er in Heidelberg und Lund angestellt war. Seine Vorgänger, besonders den Grotius und Hobbes , beurtheilte Pufendorf sehr billig, ohne zu verheelen, was ihm in ihrer Vortellungsart tadelhaft schien. Die mathematische Methode beobachtete er auch hier, je. doch weniger nach der äuſſern Form , als nach dem innern Charakter derselben , und sie hat unstreitig sehr viel zu der Ordnung , Bestimtheit und Klarheit der Begriffe beygetragen, welche in Pufendorf's Werken überhaupt herscht, und mit welcher ausserdem eine gewiße leichtigkeit , Deutlichkeit und Ans muth der lateinischen Schreibart verbunden ist. Bey der Untersuchung des Princips der
+
+Rechte und Pflichten des Menschen trennte er zuerst Vernunft und Offenbarung als wesentlich verschiedene Erkentnifquellen , und dies ist ihm als ein Hauptverdienst anzurechnen.
+
+Für das natürliche Erkentnißprincip der Rechte und Pflichten nahm er mit dem Grotius das Bedürfniß der Geselligkeit an; daher auch seine Anhänger vorzugsweise Socialisten genannt werden. Die Religion , welche die Pflichten gegen Gott lehrt , komt nach ihm hier nur insofern in Betrachtung , als sie die menschliche Gesellschaft noch fester verbindet , und den Menschen , auch dadurch daß sie ihm Pflichten gegen sich selbst vorschreibt , für den Zweck der Geſellſchaft. fähiger macht. In der weitern Ausführung seines Naturrechts fieng Pufendorf damit an, daß er gewiße Grundbegriffe von moralischen Dingen (entia moralia, wie er sie nannte), deren Unbestimtheit leicht Verwirrungen er zeugt , im Voraus erklärte. Die entia moralia sind ihm überhaupt gewiße modi , welche die physischen Gegenstände oder Handlungen von den vernünftigen Wesen erhalten, um die Freyheit des Menschen gehörig zu leiten, und in das praktische Leben Gerechtigkeit, Ordnung und Anständigkeit zu bringen. Pufendorf glaubte , daß sich jene moralischen Grundbegriffe nach unbezweifelbaren Principien mit apodiktischer Gewißheit bestimmen ließen, und deswegen auch die mathematische Me
+
+[p. 722] Methode allerdings hier anwendbar sey. Er entwickelte also die Principien und Merkmale der moralischen Handlungen, wiefern sie durch die Imputation mit dem Menschen meralisch zusammenhangen; in was für einer Beziehung der Verstand zur Moralitat stehe;
+
+was das Gewissen; was unwisser.heit , und ein theoretischer oder praktischer Irrthum sey ; was die Freyheit des Willens und die mensch lichen Neigungen für Richtungen haben; was zu einer moralischen Handlung und zur Imputabilirät derselben gehöre, u. w. Dann beslimt er das allgemeine Gesetz für morali.
+
+sche Handlungen; und erörtert zugleich, was Maxime ,
+
+Gesetz , Recht , Verbindlichkeit, was eine nothwendige , erlaubte, gute, böſe, gerechte, ungerechte Handlung, was Ver. dienst und Schuld sey. Im zweyten Buche komt Pufendorf auf das Verhältniß der menschlichen Natur zur Gesetzlichkeit; er gelar, daß die Geseklosigkeit, oder der vom Hobbes angenommene Naturstand, jener gänzlich widerspreche. Das Naturrecht braucht aber nicht nothwendig vor dem Geſetze zu existiren; auch beruht es nicht auf der Uebereinkunft der Völker ; oder auf der Nützlichkeit ; oder auf dem Ausspruche des Gewissens; sondern lediglich auf dem naturlichen Bedürfni. ße der Menschen , das Rechte und Verbindlichkeiten herbepführt und begründet.
+
+Im drit.
+
+[p. 723] dritten Buche träge P. die rechtlichen Grund. säße in Beziehung auf Andere vor; z. B. Niemanden zu beleidigen; angethanen Scha Den zu vergüten; allen Menschen gleiche Rech. te mit sich selbst zu gestatten; Verträge zu erfüllen u. w.
+
+Das vierte Buch enthält die.
+
+rechtlichen Grundsätze in Ansehung des äussern Ausdrucks unserer Gesinnungen, der
+
+Wahrheit, der lige, des Betrugs , der Ver stellung , der Zwendeutigkeit der Zeichen, bey welcher Gelegenheit auch vom Eite die Rede ist. Dann folgt die lehre vom Eigenthumsrechte, vom Ursprunge des Eigenthums , von der Erwerbung durch Occupation und Ac cession , vom Rechte auf Güter Anderer, von Der Uebertragung des Eigenthumsrechts , von Testamenten , von der fucceffio ab inteftato, der Usucapion u. f. w. Das fünfte Buch handelt vom Preise der Dinge, von den Verträgen, welche jenen voraus sehen , und von den verschiedenen einzelnen Arten dieser Ver. trage. Im sechsten Buche folgt eine Untersuchung des Ursprungs der Herrschaft unter den Menschen aus der Beschaffenheit des Naturstandes; dann derRechte der Ehe , der elterlichen Gesellschaft , der Gesellschaft zwischen
+
+Herrn und Knecht. Dieses führt Pufendor. fen im siebenten Buche auf die Entwickelung des Statsrechtes.
+
+Das achte Buch endlich bezieht sich auf tie vornehmsten Se314 gengenstände [p. 724] des Statsrechts , auf die erfoder liche Beschaffenheit der bürgerlichen Geseze auf die Rechte der höchsten Gewalt úver, das Leben und die Guter der Bürger, auf: die Rechte des Krieges und Friedens ,, und beyläufig auch auf einige Puncte des VolFerrechas.
+
+Das im I im Allgemeinen charakterisixte Werk Pufendorf's kann für die erste systema tische Darstellung des Naturrechts gelten. Die Griechen und Römer hatten wohl eis ne Idee vom natürlichen Rechte; aber sie versuchten keine wissenschaftliche Entwicken lung derselben ; abgerechnet , daß Aristoteles einige naturrechtliche Begriffe und Probleme in seiner Sthak und Politik erdτο terte. Im sechszehnten und der ersten
+
+Hälfte des siebzehnten Jahrhunderts wurde zwar von einigen Schriftstellern eine wissenschaftliche Bearbeitung des Naturrechts angefangen; allein diese erhoben sich nicht zu einem unterscheidenden und vollständigen Begriffe desselben ; verwirrten also seine Theile ; berührten mehrere ders selben gar nicht ; und was die Verwirrung vergrdßerte , war das Verhältniß, in welchem sie sich das Naturrecht zu dem biblischen dachten. Deßwegen , weil pus fendorf's Darstellung des Naturrechts in scientifischer Hinsicht die erste und vollständigste war , und sich überdem durch Klarheit der Begriffe und Schreibart und durch systematische Ordnung auszeichnete ,
+
+[p. 725] - erwarb sie ihm nicht nur einen so großen und ausgebreiteten Ruhm ; sondern behauptete auch eine geraume Zeit , ungeachtet aller Anfechtungen , sogar bis in die Mitte des achtzehnten Jahrhunderts eine classische Autorität. Eine scharfsinnige Beurtheilung des Pufendorfischen Systems , wie auch der Verdienste des Hobbes und. Gropius um das Naturrecht , S. in Sufeland's Versuche über den Grundsatz des Nature rechts (Leipzig 1785)S. 90 ff. :
+
+§. 1009.
+
+Nach dieser Abschweifung komme ich zur Geschichte eines Philosophen, der sich zwar zuerst in der Schule des Cartesius gebilbet hatte; aber doch eine eigene Bahn der Speculation betrat, auf welcher ihm mehrere der geistvollsten Männer hernach gefolgt sind , und die in den neuesten Zeiten von Manchen für den einzigen Weg zur philosophischen Wahrheit gehalten wird. Dieser Philosoph war Baruch (Benedict) Spinoza. Er wurde gebohren zu Amsterdam im
+
+I. 1632 von jüdischen Eltern portugiesischer
+
+Abkunst.
+
+Der erste Unterricht , welchen ert als Knabe erhielt, betraf nach der bey seinen Glaubensgenossen gewöhnlichen Erziehungs.
+
+art die hebräische und rabbinische Sprache [p. 726] und die Glaubenslehren und Gebrauche des Judenthums. Aber der tiefforschende Geist , der den Mann unsterblich gemacht hat , reg. te sich schon in dem Knaben; er sebre seine
+
+Lehrer durch Fragen und Einwürse in Verle. genheit, die sie nicht zu beantworten vermochten, oder so beantworteten , daß Spinoza Immer noch mehr in seinen Zweifeln bestärkt -wurde. Bald durchschaute er ten Aberglauben , und das blinde Vorurtheil der Auctoritat ganz , von welchem sein Volk beherscht werde , riß sich von diesen Fesseln los, und überließ sich der Führung seines eigenenGenius.
+
+Er studirte für sich den Talmud ;
+
+beobachtete aber über seine abweichenden Meynungen ein bescheidnes Stilischweigen.
+
+Eine vertrauliche Mittheilung seiner Zweifel inzwischen die gemeine Vorstellungsart von Gott , von den Engeln , der Seele betreffend an ein paar seiner Freunde , welche das Geheimniß nicht bewahrten , erweckte bey ſeinen Glaubensgenossen Verdacht gegen seine Religiosität.
+
+Er wurde förmlich in der Eyna.
+
+goge angeklagt, und ob gleich er anfangs die
+
+Bichuldigungen leugnete , und das Zeugniß jener Freunde verwars, doch überführt , und da das Zureben eines berühmten Rabbinen, des Morteira , um eine Venderung seiner Gesinnungen zu bewirken, nichts fruchtete, unter heftigen Verwünſchungen mit der Aus. fro.
+
+[p. 727] stokung aus der Synagoge bedroht. Um sich vor den Verfolgungen seiner Glaubensgenossen zu sichern , wandte sich Spinoza zu einigen seiner Bekanten unter den Christen, und ward von diesen veranlaßt, lateinisch und griechisch zu lernen. Er hatte in diesen Sprachen den Franciscus van Ende zuim Lehrer, der damals zu Amsterdam lebte, nachher sich nach Paris begab ; und hier das Unglück hatte wegen angeschuldigter Statsverbrechen gehenkt zu werden. Die schöne und gelehrte Tochter dieses Mannes , welche, Spinoza lieb gewann, erleichterte und beförderte den Unterricht. Nach dieser Vorbereitung gieng Spinoza zu den eigentlich philosophischen Studien über. Das Aus sehn , welches die Schristen des Cartesius erregt hatten , bewirkte , daß er diese mit dem größten Eifer las , der durch das Interesse, was ihr Inhalt bey ihm erweckte, unterhal. ten und immer erhöht wurde. Das Cartesia. nische Kriterium der Wahrheit , die Evidenz , schien ihm durchaus gültig- zu seyn, und er nahm sich vor , es bey seinen philosophischen Forschungen zu befogen. Je weitere Fort. schritte Spinoza aber in der Philosophie chat, desto größer wurde seine Verachtung Der väterlichen Religion und der Rabbinischen Traumereyen; er entzog sich dem Umgange mit seinen Glaubensgenossen, und hörte auf, die Spna
+
+Synagoge zu besuchen. Jene, die ihn wegen seines philosophischen Talents und seiner Kentniße fürchteten , da er durch sein Bey. spiel und die Verbreitung seiner Ideen zur Erſchütterung des Ansehus der jüdischen Religion sehr viel beytragen konte, boten ihm einen Jahrgehalt von tausend Gulden , wenn er fernerhin der. Synagoge beywohnen wolle; welches Anerbieten aber Spinoza ausschlug. Nunmehro stellten sie heimlich seinem Leben nach; durch einen glücklichen Zufall entgieng Spinoza dem Dolche eines jüdiſchen Meu. chelinorders ; er begab sich zu seinem Lehrer van Ende, und überließ sich ganz den ma thematischen und philosophischen Studien. Da ihn die jüdische Gemeinde zu Amsterdam als einen Gotteslästerer allgemein disfamirte, und selbst bey dem dortigen Magistrate auf seine Verbannung aus der Stadt antrug , welche auch auf einige Monate erfolgte. - Umſtan. de , die zuerst den Spinoza in den Ruf ei nes Gottesiásterers bey seinen Zeitgenossen gebracht haben so entferate er sich auf's
+
+Land, in der Nähe von Kimsterdam , nährte sich von der Verfertigung optischer Gläser, und hieng wie vorher seinen Studien und Betrachtungen nach. Im I. 1664 gieng er nach Rheinsburg unweit Leyden, wo er in einem Kreise philosophischer Freunde seine Musse zubrachte. Da diese fast alle Cartesia. ner [p. 729] ner waren, Spinoza aber damals schon die Hauptideen seines eigenen Systems aufgefaßt hatte, und diese sowohl als seine Abweichungen vom Cartesius gegen seine Freunde aus. serte; so veranlaßte dies Streitigkeiten zwi.
+
+schen ihnen und dem Spinoza. Um diese zu beendigen und anderen Weiterungen vorzubeugen , auch um der Bitte Mehrerer zu willfahren, stellte der letztere selbst seine An. sicht des Cartesianismus dar in dem Werke:
+
+Renati Des Cartes principia philosophiae more geometrico demonftrata im J. 1664. Die des Ludewig Meyer , aus der man den wahren Gesichtspunct des Werkes ken nen lernt, zeigt jedoch , daß Spinoza ſchon damals bey weitem nicht alle die hier vorgetragenen Cartesianischen Behauptungen an nahm , sondern sie nur historisch erörterte. Auf der andern Seite gab jenes Werk des
+
+Spinoza zur Erläuterung des Cartesianis. mus, Gelegenheit , auch diesen bey dem Publi. cum verdächtig zu machen; sofern man glaubte, daß Spinoza durch die Cartesianische
+
+Philosophie zu seinem Atheismus verleitet worden sey; wofür man sein eigenes System hielt, so wie es in der erwähnten Vorrede charakterisirt , und durch seinen mündlichen
+
+Unterricht entwickelt war. Spinoza zog sich auf's Land zurück in der Nähe vom Haag, ließ sich aber bald auf Andringen seinerFreunbe, [p. 730] de, und vieler, die von ihm über sein System belehrt zu werden wünſchten, in dieser Statt selbst nieder. Er erhielt in kurzer Zeit eine ausserordentliche Celebritat, auch im Auslan. de. Seine Philosophie verbreitete sich, besonders in den vereinigten Niederlanden, ungeachtet alles Geschreys , weiches dagegen er. hoben wurde. Es wurde ihm das Lehramt der Philosophie zu Heidelberg mit mig. lichsten Lehrfreyheit angetragen , weldes er aber, da er an die Geseke der christlichen Religion, denen seine philosophische Denkart widersprach , nicht gebunden seyn wollte, un.
+
+ter dem Vorwande, daß er die philosophische Ruhe und Einsamkeit zu sehr liebe, ablehnte. Hingegen unterhielt er einen ge lehrten Briefwechsel mit den berühmtesten
+
+Männern seiner Zeit. Der Seltenheit sei nes philosophischen Talents entsprach sein Charakter in hohem Grade. Er lebte höchst frugal, war äußerst bescheiden und gutmüthig , und ein unerschrockner Anhänger und Vertheidiger dejen, was er für mehr hielt. Von seiner Uneigennůßigkeit, die bey ihm , der doch eine jüdiſche Erziehung genossen hatte , um so rupmlicher ist , sind es rührende Beweise, daß er ein Geschenk von zwey tausend Gulden, welches ihm einer seiner Freunde , Simon von
+
+Uries, anbot, ausschlug; und auch , als ihn eben derselbe zum Erben seines Vermögens im [p. 731] im Testamente einzusehen geneigt war, dies perbat, und sich bloß mit einer jährlichen
+
+Pension von dreyhundert Gulden begnugre; daß er ferner sein väterliches Erbtheil seinen Schwestern überließ u. dgl. mehr. Sein
+
+益 persönlicher Umgang muß viele und große Annehmlichkeiten gehabt haben; dies läht sich nicht nur aus der Menge und der zärtlichen Anhänglichkeit seiner Freunde schließen, sondern auch aus manchen kleinen Zügen, welche seine Lebensbeschreiber von ihm aufbewahrt haben.
+
+Er litt schon seit seinem zwanzigsten Jahre an der Schwindsucht, und war daher oft kränklich ; so daß auch deswegen Mässigkeit und eine stille ruhige Lebensart für ihn Bedürfniß waren. Er starb unerwartet im J. 1677 in Gegenwart seines Arztes (L. M.) Ludewig Meyer, der von Amsterdam ihn zu besuchen gekommen war. Ueber die Umstände seines Todes wurden manche nachtheilige Geruchte ver breitet, die aber erdichtet waren, und dem Haße und der abergläubischen Intoleranz seiner Gegner ihrer Ursprung verdankten; z. B.
+
+daß er während seiner letzten Krankheit Niemanden zugelassen , damit Niemand die Verzweifelung des Atheisten auf dem Sterbebette bemerke; daß er seufzend den Namen Götz tes angerufen , und da dieses eine Xenderung seiner Gesinnungen zu verrathen schien, jene An.
+
+[p. 732] Anrufung für eine bloße Exclamation ohne Bedeutung erklärt habe; und dgl. mehr. Der Biograph des Spinoza , Colerus , versichert, daß jener gar nicht bettlägrig gewesen, sondern noch an seinem Sterbeta. ge aus seinem Zimmer gegangen sen; auch Niemanden, selbst den Geistlichen nicht, den
+
+Zutritt verwehrt habe , da er sogar zuwei. len dem lutherischen Gottesdienste selbst beyzuwohnen , und die Kinder seines Wirthes über die von ihnen angehörten Predigten zu befragen pflegte , wiewohl er sich niemals förmlich zum Christenthume bekante. §. 1010.
+
+Spinoza_hat mehrere Schriften während seines Lebens herausgegeben , die ihm zwar den Ruhm eines tiefsinnigen philosophischen Denkers , aber auch den Verdacht der Irreligiosität und des Atheismus zuzogen. Wie Bayle bemerkt , war seine erste Schrift eine Apologie nach seinem Austritte aus der Synagoge in spanischer Sprache , die aber nie gedruckt ist , und die schon Spuren seines nachherigen Systems enthalten haben soll, von der indeßen bisher nichts hat aufgefunden werden können.
+
+Seiner Darstellung der Car
+
+[p. 733] Cartesianischen Philosophie ist schon erwähnt worden.
+
+Ein Jahr , nachdem diese herausgegeben war, erſchien Lucii Antiftii Constantis de jure Ecclefiafticorum tractatio; Alethopoli apud Cajum Valerium Pennatum , eine Schrift , worin alle öffentliche Gewalt , auch diejenige, welche sich auf die Verfassung der Wissenschaften bezieht , der Geistlichkeit ab. gesprochen , und der weltlichen Obrigkeit allein zugeschrieben wird. Man hat diese Schrift dem Spinoza bengelegt wegen der Aehnlichkeit des Inhalts mit dem des tractatus theologico politicus ; allein diese Aehnlichkeit ist doch nicht entscheidend genug , und auch die Schreibart stimmt nicht mit der Vermuthung zusammen ; daher mit größerer Wahrscheinlichkeit LudewigMay. er für den Verfasser gehalten wird. Hingegen als Verfasser des Tractatus theologico politicus , der unter dem angeblichen Druckorte Hamburg 1670 , 4. anonymisch herauskam, hat sich Spinoza selbst in einem Briefe an
+
+Oldenburg bekannt. Bey der Freymüthig. keit , womit dieses Buch gegen die positive Religion geschrieben war, fand es zwar nicht allgemeinen Benfall im Publicum , aber doch allgemeines, Interesse , so daß es mehrmale gedruckt , in das Holländische, und Französische übersetzt und unter verschiedenen Titeln ver. breitet wurde. Die Hauptidee , welche Spinoza auszuführen suchte , war: daß bey den BubleGeich. d.Phil. 6.Ch.are difce. Aaa bib [p. 734] biblischen Schriftstellern keine Theopneustie statt gefunden habe ; daß die Gabe der Weissagung bey den Propheten eine Wirkung der erhitzten Einbildungskraft gewesen.sey; daß die biblischen Schriftsteller ihre Religionslehren der Denkart ihres Zeitalters angepaßt hätten, und daß dies Princip als der Schlüßel zur Auslegung der heiligen Bücher zu betrachten sey. Diese Säße, welche gegenwärtig unter vernünftigen Exegeten und Theologen allge. mein anerkannt sind , schienen damals im höchsten Grade anstößig und für das Heil der Religion gefährlich zu seyn; daher mehrere hestige und bittere Gegner derselben auftraten. In den Schriften , welche während Spinoza lebte von ihm herausgegeben wurden , war sein eigentliches philosophisches System mehr angedeutet, als in seiner ganzen Vollendung dargestellt. In dieser zeigte es sich erst in den operibus poſthumis, die nach dem TodeSpino za's zu Amsterdam herauskamen ; und nunmehro erhob sich auch eine noch zahlreichere Schaar von Widersachern; von denen aber die Meisten nicht in den Geist des Spinozistischen Systems eingedrungen waren , und es daher mit Raisonnements bestritten , welche nichts weniger als treffend waren. Indeßen hatte doch der in der philosophischen und theologischen Welt entstandene Lärm über und gegen den Spino.
+
+zismus die Folge, daß das große Publicum ziem [p. 735] ziemlich allgemein denselben für frevelhaften Atheismus hielt , und daß er in der ersten Hälfte des achtzehnten Jahrhunderts sogar fast ganz in Vergessenheit gerieth , einzelne philo. sophische Denker abgerechnet , die ihn für sich ſtudierten. Erst in den leßtern Jahren , wo \#zwischen Mendelssohn und Jacobi ein Streit darüber entstand , ob Lessing Spino. zist gewesen, gab dieser Streit Veranlassung, daß Jacobi den Spinozism nach seinem wahren Geiste und Werthe charakterisirte , und der philosophischen Muse seines Urhebers die
+
+Gerechtigkeit wiederfuhr , die ihr gebührt. §. 1011.
+
+Das dem Spinoza eigenthümliche philosophische System, so wie es von ihm in den Ethicis aufgestellt ist , läßt sich nach demEntwur fe, denJacobi , einer der vertrauteſten Kenner - desselben , und selbst einer der trefflichsten Philo.
+
+sophen unserer Zeit , davon gemacht hat , auf folgende Hauptiäße zurückführen: Erstlich : Es kann nichts werden, wenn nicht etwas ist, das nicht geworden war. Allem Werden muß also ein Seyn zum Grunde liegen. Dies ist Der alte metaphysische Sah : Aus Nichts wird Nichts , welchen Spinoza festhielt, und aus
+
+Dem [p. 736] dem er so consequent folgerte , wie kein
+
+Philosoph vor ihm : Zweytens : Das Wer. den (το Fieri) kann eben so wenig einen Anfang gehabt haben, wie das Seyn (το Elle). Das Seyn ist das in sich selbst Bestehende, ewig Unveränderliche , und kann als solches nie ein Wandelbares hervorbringen. Aus dem Nichts kann das Wandelbare aber auch nicht hervorgegangen seyn ; denn aus Nichts wird Nichts. Drittens: Das Seyn soll das Unendliche heißen, weil es in sich selbst ist und keinem Ende seines Bestandes unterworfen. Das Werden soll das Endliche heißen, aus dem entgegengeseßren Grunde. Das Seyn , das Unendliche , Unwandelbare, ist al so mit dem Werden, dem Endlichen , Wandelbaren, gleich ewig. Viertens: Das Endliche kann nicht ausser dem Unendlichen seyn ; denn wäre es dieses , so mußte es entweder ein für sich bestehendes Wesen , oder aus dem Nichts hervorgegangen ſeyn ; das erstere aber wi dersprichtseiner Naturals eines Endlichen; und das andere ist unmöglich. Das Endliche ist also in und mit dem Unendlichen, und beyde machen eine absolute Einheit aus. Fünftens: Das Unendliche kann auch nicht das Endliche durch eigene Kraft aus dem Nichts hervorge. bracht haben ; denn eine solche Kraft oder Be
+
+ſtimmung ist in dem Unendlichen nicht enthalten, in welchem Alles unendlich , unwandelbar [p. 737] und ewig wirklich ist ; dieseKraft mußtealso ebenfalls aus Nichts entstanden seyn , sowie dieHandlung , wodurch das unendliche Wesen das End:
+
+liche hervorbrachte, erst nach Ewigkeiten beginnen konte; welches bendes ungereimt ist. Sechstens : Das Endliche ist demnach zugleich mit dem Unendlichen , so daß der Inbegriff aller endlichen Dinge , so wie er zugleich
+
+Die ganze Ewigkeit und das Vergangene und
+
+Eins und dasselbe ist. Siebentens : Gleichwohl ist dieser Inbegriff nicht aus endlichen Dingen zu einem Unendlichen zusammengesetzt,
+
+Zukunftige in sich faßt, mit dem Unendlichen was wiederum ungereimt seyn würde; sondern er macht Ein Ganzes im strengsten Sinne aus, deßen Theile nur in und nach ihm seyn , nur in und nach ihm gedacht werden können; so wie Raum und Zeit bende als Ganze vorgestellt werden , deren Theile nur in und nach ihnen vorgestellt werden können. Achtens: Man muß unterscheiden zwischen dem , was in einem Dinge der Natur nach , und dem, was der Zeit nach , eher ist. Jenes kann statt finden ohne dieses. So ist die körperliche Ausdehnung der Natur nach eher , als Dieser oder jener Modus derselben ; ob sie gleich nie für sich ohne diesen oder jenen bestimmten Modus , das ist , der Zeit nach oder ausser dem
+
+Verstande vor ihm da seyn kann.
+
+So ist das Denken seiner Natur nach eher , als diese ngo )
+
+[p. 738] XXI . Abs. Geſchichte der Philos, oder jene Vorstellung ; aber es kann doch nicht anders , als in irgend einem bestimten Modus, das heißt , der Zeit nach mit dieser oder jener
+
+Vorstellung zugleich wirklich seyn. Wenn man z. B. alle Modi der körperlichen Ausdehnung aufdie vier Elemente , Wasser , Erde, Luft, und Feuer, zuruckfuhrte ; so ließe sich die körperliche Ausdehnung im Wasser den ken , ohne daß sie Feuer , in der Erde , ohne daß sie Luft wäre, Allein alle diese Modi für sich konten doch nicht gedacht werden, ohne die körperliche Ausdehnung vorauszusezzen, und diese leste wäre in jedem Elemente der Natur nach das Erste. Neuntens : Das Erste in allen Dingen , den ausgedehnten sowohl als den denkenden , ist das absolute Seyn , das Allgegenwärtige, Unwandel. bare , Wirkliche , was selbst nie Eigenschaft , sondern von welchem Alles Andere Eigenschaft ist. Dieses einzige allgegenwärtige unendliche Seyn nennt Spinoza die Substanz oder
+
+Gott.
+
+Zehntens : Diese Substanz oder
+
+Gottheit ist also durchaus kein einzelnes, ab gesondertes , verschiedenes Ding, noch eine besondre Art der Dinge. Es kann ihr keine der Bestimmungen zukommen , wodurch ein einzel. nes Ding unterschieden wird; also auch nicht ein eigenes besonderes Denken und Bewußt- seyn, keine eigene besondre Ausdehnung , Figur, Farbe u. dgl, Sie ist bloß Urstoff, reireine Materie, allgemeine Subſtanz. Elftens : Sofern die einzelnen Dinge besondere
+
+Modi oder Bestimmungen des Seyns ausdruk.
+
+ken, sind sie nicht wahre entia, sondern viel mehr non entia, indem das einzige wahrhafte Senn nur in dem unbestimmten unendlichen Wesen enthalten ist. (Determinatio est negatio, feu determinatio ad rem juxta ſuum Esse non pertinet). Zwolftens: Die Eigenschaften der Gottheit oder der Substanz sind unendliche Ausdehnung (expanfio infinita) und unendliches Denken (cogitatio infinita). Bey de sind aber Eins und dasselbe , und machen eine unzertrennliche Einheit aus; so daß es gleichgültig ist , ob man die Gottheit als unendlich ausgedehnt oder als unendlich denkend betrachtet , indem beydes durchaus einerlei ist.
+
+Die Ordnung und der Zusammenhang dieser Begriffe sind dieselben mit der Ordnung und dem Zusammenhange der Dinge , und was sich aus jenen formal ergiebt , ergiebt sich aus diesen objectiv und umgekehrt. Gott ist un endlich ausgedehnt , dadurch , daß er sich un endlich denkt , und er denkt sich unendlich dadurch , daß er unendlich ausgedehnt ist.
+
+Dreyzehntens : Die einzelnen körperlichen Dinge sind Modi der Bewegung und Ruhe in der unendlichen Ausdehnung. Sie sind mit ihr unendlich, unveränderlich und ewig, und Gott ist ihre Ursache, wie er die Ursache sei [p. 740] seiner selbst ist; denn Ruhe und Bewegung sind einander entgegengeseßt; keine von ihnen kann die andere hervorgebracht haben , so wenig wie sie aus Nichts entstanden seyn können, so daß also Gott ihre unmittelbare Ursache seyn muß. Auf jene beyden Modi in der unendlichen Ausdehnung gründet sich die wesentliche Form aller möglichen körperlichen Gestaltenund Kraste; sie sind das a priori von diesen. Vierzehntens: Auf die beyden unmittelbaren Modi der unendlichen Ausdehnung beziehen sich die beyden unmittelbaren Modi des unendlichen absoluten Denkens : Verstand und Willen. Sie enthalten objectiv , was jene formal enthalten, und sind , respective, vor allen einzelnen Dingen, sowohl der aus. gedehnten als der denkenden Natur. Sunf zehntens : Vor der Bewegung und Ruhe ist die unendliche Ausdehnung , und vor dem Willen und Verstande das unendliche Denken.
+
+Die unendliche Ausdehnung und das unendliche Denken kommen allein der Natura naturans zu; hingegen die unendliche Bewegung und Ruhe, der unendliche Verstand und Wil len, der Natura naturata. Gott ist demnach bloß die unendliche Substanz, ohne alle Affectionen, in ihrer Wahrheit und Wirklichkeit, als freye Ursache (Natura naturans) betrach J tet, und als solche ist er weder bewegt noch ruhend, hat er weder einen unendlichen oder end.
+
+[p. 741] und Bap endlichen Verstand , noch einen unendlichen oder endlichen Willen.
+
+Es ist nun aus dem
+
+Obigen klar , wie diese verschiedenen Dinaelinge in einander und zugleich , und doch der Natur nach vor und nach einander seyn können; ferner: daß, so wenig es ausser den einzelnen körperlichen Dingen noch eine besondre unendliche Bewegung und Ruhe nebst einer besondern unendlichen Ausdehnung geben kann, es eben so wenig ausser den denY kenden endlichen Dingen noch einen besondern unendlichen Willen und Verstand nebst einem besondern unendlichen absoluten Den ken geben könne. Sechszehntens : Der unendliche Verstand , oder das Modificatum 無 modificatione des unendlichen absoluten Denkens , entspringt aus dem Begriffe eines wirk. lich vorhandenen einzelnen Dinges.
+
+Das einzelne Ding kann eben so wenig die Ursache seines Begriffes , als der Begriff die Ursache des einzelnen Dinges seyn; oder das
+
+Denken kann eben so wenig von der Ausdehnung Herrühren, als die Ausdehnung vom
+
+Denken.
+
+Bende, Ausdehnung und Denken , sind zwey verschiedene Wesen; aber nur in Einem Dinge; oder: beyde sind ein und dasselbe Ding , das nur unter verschiedenen Eigenschaften betrachtet wird. Siebzehn. tens: Das absolute Denken ist das reine unmittelbare Bewußtseyn in dem allgemeinen 4aa5
+
+Seyn
+
+[p. 742] Seyn oder der Substanz. Wir haben aber + von den Eigenschaften der Substanz ausser dem Denken nur die Vorstellung der förperlichen Ausdehnung, und also können wir den Saß feststellen : Da mit der Ausdehnung
+
+Bewußtseyn unzertrennlich verknüpft ist, so muß alles , was in der Ausdehnung vorgeht, auch im Bewußtseyn vorgebn. Achtzehntens : Das Bewußtseyn eines Gegenstandes heißt der Begriff desselben , und dieser Begriff kann nur ein unmittelbarer Begriff seyn. Ein unmittelbarer Begriff in und für sich allein betrachtet ist ohne Vorstellung. Die Vorstellungen entstehen aus mittelbaren Begriffen und erfodern mittelbare
+
+Gegenstände, d. i. wo Vorstellungen sind, da müſſen mehrere einzelne Dinge seyn , die sich auf einander beziehen; da muß sich mit dem Innerlichen auch ein Neusserliches dar. stellen.
+
+§. 1012. Fortsetzung: Neunzehntens: Der-unmittelbare directe Begriff eines wirklich vorhandnen einzelnen Dinges , heißt der Geist , die Seele (mens) desselben einzelnen Dinges; das einzelne Ding, als der unmittelbare [p. 743] bare directe Gegenstand eines solchen Begriffes , heißt der Leib. In diesem deibe empfindet die Seele alles Andere, was sie ausser ihrem Leibe selbst gewahr wird , und sie wird es nicht anders gewahr, als mittelst der Begriffe von den Beschaffenheiten, welche der Leib davon annimmt. Wovon also der Leib keine Beschaffenheiten annehmen kann , das kann auch die Seele nicht gewahr wer den. Hingegen kann auch die Seele ihren Leib nicht gewahr werten ; sie weiß nicht, daß er da ist , und erkennt auch sich selbst nicht anders , als mittelst der Beschaffen.
+
+heiten , welche der Leib von Dingen , die sich ausser ihm befinden , annimmt, und mittelst der Begriffe von denselben .
+
+Denn der Leib ist ein auf gewiße Weise bestimtes einzelnes Ding, das nur nach und nach, mit und unter andern einzelnen Dingen , zum Daseyn gelangen, nur nach , mit und unter ihnen sich im Daseyn erhalten kann. Es kann also sein Innerliches ohne Aeußerliches nicht bestein, d. i. der Leib karn ohne eine mannichfaltige Beziehung auf andre au Berliche Dinge, und dieser Dinge wieder auf ihn er kann ohne eine immerwährende Veränderung von Beschaffenheiten weder da. seyn, noch als wirklich vorhanden gedacht werden. Ein und zwanzigstens: In dem unmittelbaren Begriffe von dem unmittelbaren [p. 744] ren Begriffe des Leibes besteht das Bewußt. seyn der Seele, und dieses Bewußtseyn ist mit der Seele eben so vereinigt, wie die Seele mit dem Leibe vereinigt ist. Nehmlich :
+
+Der Seele Bewußtseyn drückt eine gewiße bestimte Form eines Begriffes aus, wie der Begriff selbst eine gewiße beſtimte Form eines einzelnen Dinges ausdrückt. Das einzelne Ding aber, sein Begriff, und der Be griff von diesem Begriffe sind ganz und gar ein und dasselbe Ding , welches nur unter verschiedenen Eigenschaften und Be
+
+ſchaffenheiten betrachtet wird . Zwey und zwanzigstens: Da die Seele nichts an ders ist , als der unmittelbare Begriff des Leibes und mit diesem ein und dasselbeDing, so kann die Vortrefflichkeit der Seele auch nie eine andre seyn, als die Vortrefflichkeit
+
+Des Leibes.
+
+Die Fähigkeiten des Verstandes sind nichts anders als die Fähigkeiten des Körpers nach der Vorstellung oder ob. jectiv , und die Entſchlüße des Willens sind auf dieselbe Weise nur Bestimmungen des Körpers. Auch das Wesen der Seele ist nichts anders , als das Wesen ihres Körpers objectiv. Drey und zwanzigstens: Jedes einzelne Ding sest andere einzelne Dinge voraus in's Unendliche, und keines kann aus dem Unendlichen unmittelbar entsprin.
+
+gen. Da nun die Ordnung und der Zusammen [p. 745] menhang der Begriffe mit der Ordnung und dem Zusammenhange der Dinge einerlen ist , so kann auch ein Begriff von einem einzel nen Dinge nicht unmittelbar aus Gott ent springen; sondern er muß auf dieselbe Weise, wie jedes einzelne körperliche Ding zum Da seyn gelangen , und kann nicht anders , als mit einem bestimten körperlichen Dinge zu gleich vorhanden seyn.
+
+Vier und zwan.
+
+zigstens: Die einzelnen Dinge entspringen mittelbar aus dem Unendlichen; oder sie werden von Gott hervorgebracht vermöge der unmittelbaren Affectionen und Beschaffen.
+
+heiten seines Wesens. Diese sind aber mit Gott gleich ewig und unendlich , und er ist ihre Ursache eben so , wie er die
+
+Ursache seiner selbst ist. Die einzelnen Dinge entspringen daher aus Gott (unmittelbar) nur auf eine ewige und unendliche ; nicht auf eine vorübergehende endliche und vergängliche Weise; denn so entspringen sie bloß eines aus dem andern, indem sie gegenseitig sich erzeugen und zerstören , und in ihrem ewigen Daseyn darum nicht weni
+
+- ger unwandelbar verharren. Sunf und zwan. zigstens: Dasselbe gibt von den Begriffen Der einzelnen Dinge: sie werden von Gott auf keine andere Weise hervorgebracht und sind in dem unendlichen Verstande auf keine andere Weise da, als wie die körperlichen Ge ftale [p. 746] stalten mittelst der unendlichen Bewegung alle zugleich und immer eben wirklich in der unendlichen Ausdehnung vorhanden sind.
+
+Sechs und zwanzigstens : Von einem einzelnen wirklich vorhandenen oder durchaus bestimten Dinge kann also kein Begriff in Gott vorhanden seyn , insofern derselbe unendlich ist; sondern er ist in demselben nur vor. handen und wird von ihm hervorgebracht, indem ein solches einzelnes Ding in ihm entsteht, und mit demselben sein Begriff; das ist , dieser Begriff ist nur Einmal mit dem einzelnen Dinge zugleich vorhanden; und ist ausserdem gar nicht in Gott vorhan. den, weder mit dem einzelnen Dinge zu gleich, noch vor und nach ihm. Sieben und zwanzigstens : Alle einzelne Dinge sehen sich gegenseitig einander voraus und beziehen, sich auf einander , so daß eines davon ohne alle die übrigen , und alle die übrigen ohne dies eine weder seyn noch gedacht werden können, d. i , ſte machen zusammen ein unzertrennliches Ganzes aus; oder richtiger und eigentlich: sie sind in einem schlechterdings untheilbaren unendlichen Dinge und auf keine andere Weise da und beysammen. Acht und zwanzigstens ;
+
+Dos schlechterdings untheilbare
+
+Wesen, in welchem die Körper da und bey sammen sind , ist die unendliche absolute Aus
+
+Dehnung.
+
+Das schlechterdings untheilbare We
+
+[p. 747] Wesen, in welchem die Körper da und bensammen sind , ist das unendliche absolute Denken. Bende gehören zu dem Wesen Gottes und sind in demselben begriffen. Da. Her kann Gott , distinctive , so wenig ein ausgedehntes körperliches Ding, als ein den. kendes , genannt werden, sondern dieselbe Substanz und zugleich auch denkend. Mit andern Worten :
+
+Es liegt keiner von den
+
+Eigenschaften Gottes ein besonderes verschiedenes Reale zum Grunde , so daß sie als ausser einander seyende Dinge, deren jedes für sich ein eigenes Daseyn pätte , angesehen werden könnten; sondern alle sind nur Realitaten , oder substanzielle wesenhafte Ausdrúcke eines und desselben reellen Dinges; je. nes transscendentalen Seyns nehmlich , welches schlechterdings nur ein Einziges seyn kann, und in dem alles nothwendig sich durch dringen und schlechterdings zu Sinem wer.
+
+den muß. Neun und zwanzigstens : Der unendliche Begriff Gottes also sowohl von seinem Wesen , als von allen, was aus seinem Wesen nothwendig folgt , istnur ein einziger untheilbarer Begriff. Dieser Begriff, da er einzig und untheilbar ist, muß also, wie im Ganzen , so auch in jedem Theile sich befinben; oder der Begriff eines jeden Körpers oder einzelnen Dinges, es sey was es wol le, [p. 748] le, muß das unendliche Wesen Gottes in
+
+ſich fassen , vollständig und vollkommen. S. Ueber die Lehre des Spinoza in Briefen an den Hrn. Moses Mendelssohn (zwey te Ausgabe) S. 168 ff. Auf Veranlassung der Streitigkeit , deren Geschichte und Urkunden jene interessante geistvolle and lehrreiche Briefsammlung enthält , ist auch der Spinozismus von Mehrern aus andern Gesichtspuncten dargestellt worden, was sich inzwischen hier nicht weiter erors tern läßt. Einen Versuch , den Spinozisz mus mit dem Theismus zu vereinigen , hat auch Hr. Herder gemacht in seinen Gesprächen über Gott ; nur scheint er ebenfalls , wie so viele andere , den Charakter jenes Systems verfehlt zu baben. Auch von Mendelssohn wurde dasselbe misvers standen.
+
+§. 1013.
+
+Es wäre eine sehr unhistorische und zugleich sehr unphilosophische Behauptung , wenn man sagen wollte, daß Spinoza der Urheber des Phanteismus überhaupt gewesen sey; viel mehr verlieren sich die Spuren dieses Systems in entferntern und nähern Approximationen in die ältesten Zeiten der Philosophie ; und nicht nur [p. 749] nur die neuere Speculation , sondern auch die philosophische Muse des Alterthums hat mehr als einmal unter verschiedenen Formen denPantheismus als Resultat aufgestellt , wie es auch in diesem Lehrbuche bemerkt worden ist. Es ſcheint in der Natur der dogmatisch philosophirenden Vernunft zu liegen, daß sie, wenn sie consequent verfährt, am Ende auf Pantheismus hinauskomt. Nur hat kein Phi lofoph jenes Resultat mit der Klarheit und Bän6 digkeit entwickelt , wie Spinoza, und er verdiente daher wohl, daß man dasselbe vorzugsweise nach seinem Namen nannte; wiewohl er diese Ehre theuer genug dadurch gebuse hat, daß er bey seinen Zeitgenossen und der Nachwelt vorzugsweise nicht bloß als Atheist , song. dern auch als ein unsinniger Frevler verschrieen wurde, Bey der Angemessenheit des Spinozismus aber zu dem natürlichen Gange der dogmatisch philosophirenden Vernunft konte es ungeachtet aller Heftigkeit des Widerstreits ge gen denselben doch nicht sehlen , daß er gerade
+
+Die besten philosophischen Köpfe zu Anhängern gewonnen hatte, und zwar entweder zu unbe. dingten Anhängern, oder zu solchen, die, weil sie ähnliche Vorstellungsarten hegten , oder die Grunde des Spinozismus in der Natur der Vernunft einsahen, ihm wenigstens ihre Achtung, wo nicht laut, um des Vorurtheils der
+
+Zeitgenossen zu schonen, doch insgeheim bewie [p. 750] sen. Von jenen Anhängern des Spinoza nahmen einige die Wendung, daß sie als Gegner desselben auftraten , und unter der Maske des Angriffs ihn zu vertheidigen suchten. Der merkwurbigſte unter diesen war der Graf de Boulainvilliers , der unter dem Vorwande , daß es das Interesse der Wahrheit und der Religion erfodere , die Grunde des Atheismus in das helleste Licht zu sehen , damit diese zu desto größerem Ruhme jener widerlegt werden könten, das System des Spinoza popularer und anziehender darstellte. Er äusserte dabey mit ironischer Ehrlichkeit , es werde weder der Wahrheit noch der Vorsehung an einem Vertheidiger der guten Sache, und in diesem Falle an einem Widerleger des Spinozistischen Systems fehlen; er selbst wünſche zwar , sich den Ruhm dieser Vertheidigung zu erwerben ; allein da er durch sein Alter und andere Beschafftigungen daran gehindert werde, somusse er Andere bitten, sich derselben zu unterziehen.
+
+Ungeachtet dieser Maske, hinter welcher sich Boulainvilliers versteckte, wurde doch seine wahre Absicht , dem Spinozis.
+
+mus mehr Eingang beym großen Haufen zu verschaffen , nicht verkannt ; und man fand sein Werk eben deßwegen um so giftiger , da durch die wissenschaftliche Einkleidung , welche Spinoza selbst ſeinem Syſteme gegeben hatte , dieses doch noch immer zu dunket geblieben war, als [p. 751] als daß es von dem großen Publicum hätte verstanden und für dieses verführerisch werden können. Indeßen waren die Wirkungen des Werks von Boulainvilliers am nachtheilig.
+
+sten, so lange dasſelbe nur handschriftlich cir culirte; zum mindesten machte man damals am meisten Aufhebens davon. Nachdem es aber gedruckt erschienen war, so trösteten sich die
+
+Theologen und orthodoren Philosophen damit, daß wenn auch der Spinozismus sich hier in einem leichten und einnehmenden Gewande zeige, er um desto eher in seiner Blöße dargestellt werden könne, was hingegen bey der vom Spinoza selbst beobachteten demonstrativen Methode schwerer gewesen wäre. Man urtheilte daher in der Folge, wie unter andern die Erklärung Mosheim's beweist , von dem franzdsischen Commentator Spinoza's noch verachtli cher , als von diesem selbst , und es gelang wirklich , ihn dadurch bey dem großen Publicum inVergessenheit zu bringen. Ausser dem Boulainvilliers gab es noch Mehrere , die , sofern sie, wenn nicht in den Grunden und in der Art der Ausführung, doch in den Resultaten mit dem Spinozismus übereinkamen , für Anhänger desselben galten ; so wie damals über Haupt, bey dem großen Haufen der Gelehrten , und Ungelehrten, Spinozisten , Atheisten , Gotteslästerer , Widersacher der positiven Religion, gleichbedeutende Ausdrucke waren. Es gehdBbba ren [p. 752] ren dahin Franciscus Cuper, der im 3. 1676 ArcanaAtheismi revelata herausgab , und auch, wieBoulainvilliers, die Miene annahm , den
+
+Atheismus bestreiten zu wollen; allein durch die Schwache der Beweise , die er für das
+
+Daseyn einer persönlichen Gottheit ausserhalb der Welt vorbrachte, und durch die Behauptungen , daß sich die Existenz Gottes aus dem Lichte der Natur nicht erkennen lasse; daß eine unausgedehnte Substanz undenkbar sey; daß ohne Offenbarung der Unterschied zwischen Tu gend und Laster nicht eingesehen werden könne, einen entgegengesetzten Zweck verrieth. Eben so behauptete Abraham Rufaeler in seinem Specimine artis ratiocinandi , daß von Ewigkeit her die Substanz der Welt in Gott ent halten gewesen sey, und in alle Ewigkeit ent halten seyn werde.
+
+Ein Anderer , Heinrich
+
+Wirmars , schrieb ein Werk: Chaos imagi narium , de ortu Mundi secundum vetereset recentiores philosophos , das gegen Spinoza und andere Naturalisten gerichtet seyn sollte, aber in der That auf Zerstörung der naturlichen Religion angelegt war. Noch lebhaftere Bewegungen verursachte unter den Theolo.
+
+gen und Philosophen jener Zeit Friedrich Wilhelm, Sosse , Brandenburgischer Secretair , durch seine Schrift : Concordia rationis et fidei , five harmonia philosophiæ moralis et religionis christiane , die unter dem Druck orte [p. 753] orte Amsterdam, eigentlich aber zu Berlin 1692 erschien, Auch diesem Schriftsteller war Gott die einzige Substanz; der Mensch ein Modus derselben. Der edlere Theil des Menschen ist der denkende Verstand. Dieser besteht in dem Gehirne, in unzähligen mannichfaltig modificirten Organen , und in einer diese durchſtrömenden subtilen Materie, die wiederum sowohl durch die Organe des Gehirns , als durch die Eindrücke von aussen sehr verschieden modificirt wird .
+
+Es giebt keine natürliche und eigentlich göttliche Geseke; keine Vorsehung ; Gebete sind unnütz. Die Seele des Menschen ist ihrer Natur nach nicht unsterblich. posse wurde dieser Schrift wegen seines Amtes entsekt. Nicht minder ist von dieser Seite historisch merkwürdig Theodor Ludewig Lay, Curländischer Hofrath, der im I. 1717 zu Frankfurt an der Oder herausgab: Meditationes philosophicade Deo, Mundo et homine , und zu Freystadt , wie auf dem Titel steht, Meditationes , theſes , dubia philosophica, theologica. Da er wegen dieses Werks des Spinozismus verdächtig wurde, so mußte er Frankfurt verlassen ; in einem von Christian Thomasius entworfenen Gutachten der Juristen Facultät zu Halle wur. de er des Atheismus beschuldigt , weiche Beschuldigung aber ungegrundet war, und gegen die er sich auch in einer andern Schrift ver. Bb b3 thei [p. 754] theidigte mals berühmten Gelehrten und Philosophen waren die Meynungen getheilt, ob sie den Spinozisten und Atheisten beyzugesellen segen . oder nicht. Von diesen will ich hier nur des
+
+Arnold Geulince erwähnen. Dieser , ein Niederländer von Geburt, hatte zu Lowen Philosophie und Medicin studirt, und ward nach mancherley Schiksalen als Lehrer derPhi losophie zu Leyden angestellt, wo er 1664 starb.
+
+Da zu der Zeit der Cartesianismus in den Niederlanden blühte , so ward er berühmt theils durch seine Logica fündamentis suis, a quibus hactenus collapſa fuerat, reftituta , die , obwohl nach mathematischer Methode ab. gefaßt , doch mehr Aristotelisch war; theils und zwar hauptsächlich durch seine Ethica, die er γνωθι σεαυτον nannte. Eine zweyte Ausgabe der leßtern omnibus suis partibus in lucem editæ et tam fæculi hujus quam atheorum quorundam philosophorum impietati ſceleftisque moribus , quamquam ſpeciofo vt plurimum virtutis prætextu larvatis, oppofita, und zugleich des Tractates des Cornelius Bontekoe de passionibus animæ besorgteJe mand unter dem angenommenen Namen Philaretus zu Amsterdam 1696. Geuliner stell te hier die sonderbare Behauptung auf: Wir könnten keine Bewegung weder in unserm Körper noch ausserhalb demselben hervorbringen, fonsondern [p. 755] es sey ein anderes Princip , das unsere Thätigkeit bewirke und ihr Kraft verleihe , und durch welches auch die Grenze bestimt werde, über die hinaus die Wirkung sich nicht er strecken könne. Der Mensch sey also nichts als bloßer Zuschauer des Spiels seiner Maschine, in welchem er durchaus nichts zu an Dern vermöge , indem dieses das Werk eines
+
+Andern sey.
+
+Es erhelle hieraus , daß weder unsere Thätigkeit auf die Dinge, noch die
+
+Thätigkeit der Dinge Uns angehe; sondern daß hier eine andere Kraft und Thätigkeit zum Grunde liege, die ein Effect der Gottheit sey , welche uns lediglich , um die Scene der Welt - anzuschauen, nicht damit wir selbst eine Rolle spielen, in das Leben gerufen habe. Die Welt an sich selbst und durch sich selbst zeigt sich uns nicht. Es ist allein die Gottheit , welche gleichsam das Schauspiel derselben vor uns ausführt. Dem Schauspiele werden wir durch den Tod entrißen , und wir fürchten den Tod, weil wir einmal an die körperlichen Gegenstände gewohnt und wegen Ablegung der Rechen schaft über die Art , wie wir uns als Zuschauer -verhalten haben , besorgt sind. Geulinex ließ demnach dem Menschen die innere Frey. heit des Willens , nur daß die Kraft des Thuns von der Gottheit bestimt werde , so wie sein du.
+
+Beres Verhältniß zu den Dingen und der Dinge zu ihm. Es floßen hieraus in seiner MoBbb 4 ral [p. 756] ral mehrere Paradoxieen. So bestimte er die Pflicht , der Gottheit willig zu gehorchen, wenn sie uns aus diesem Leben abrufe; hingegen nicht ungerufen unsern Posten zu verlassen Denn wenn wir uns selbst tödten , so sind wir es freylich nicht selbst , welche die That verrichten; denn diesehängt nicht von uns ab ; sondern Gott ist es , der sie bewirkt ; aber der Willensentschluß gehörte uns an, und nun treibt uns Gott aus diesem Leben weg, nicht dahin , wohin wir et wa wünſchen; sondern an den Ort , welcher den Bösen zum Aufenthalte bestimt ist. Seu lincp schärfte besonders in seiner Moral ein, daß man nichts um seiner Glückseligkeit wil. len, sondern Alles aus unbedingtem Gehorsame gegen Gott thun müſſe... Man hat in dieser Vorstellungsart des Geuliner den Spinozismus finden wollen gewißer entfernter Aehnlichkeiten mit den moralischen Vorschriften des pinoza wegen ; aber zuverlässig ist diese Meynung irrig; indem Geulinex die Gottheit und die Seele als verschiedene Substanzen annimmt , und zwischen beyden genau unterscheidet.
+
+Mehr Aehnlichkeit haben die moralischen Resultate des Geulincs mit den
+
+Stoischen , ob er gleich selbst sich sehr lebhaft gegen die Staische Moral erklärte. . Bruckeri Hist. crit. philos. T. IV. P. 2. p. 699. So sehr auch die Werke der ian I. ans [p. 757] angeführten Schriftsteller als frevelhaft . gotteslästerlich , und selbst als ungereimt verschrieen sind ; so viel Interesse haben sie für die Geschichte der philosophirenden Vernunft. Es verräth sich in ihnen , wie der menschliche Geist sich immer mehr von den Fessein hergebrachter Vorurtheile und Autoritäten loszureigen strebte , wenn er gleich dabey wiederum sich auf manche Irrwege verlor. Alle diese unvollkomnen Versuche mußten vorhergehen , um die größere Aufklärung in Sachen der Philosophie und Religion vorzubereiten , welche das achtzele
+
+Jahrhundert errang. Aber so wie politische Neuerungen , wenn sie auch an sich selbst noch so zweckmäßig und nothwendig sind , doch selten der Generation niken , die sie unternimt , sondern erst den folgenden Gez schlechten heilsam werden ; so mußten auch Die Neuerer in der Philosophie und Religion ihre Privatwohlfarth den herschenden Vorurtheilen ihrer Zeitgenossen aufopfern,
+
+§. 1014. Unter den Gegenständen, welchen die Philosophen des siebzehnten Jahrhunderts , vor.
+
+züglich in der lesten Hälfte desselben, ihre Aufmerksamkeit widmeten, war auch die Natur der Seele einer der vornehmsten. 246.
+
+gerechnet die Untersuchungen und Hypothesen , B665 wel [p. 758] welche das Cartesianische System erzeugte, und die schon berührt sind , so wurden auch noch mehrere andere Meynungen darüber in
+
+Umlauf gebracht. Man schränkte sich bey diesen Untersuchungen nicht auf die menschliche Seele allein ein, sondern umfaßte gewöhnlich die geistige Natur in Universum überhaupt; so daß damals nicht sowohl von einer
+
+Psychologie, als von einerPneumatologie die Rede war, wiewohl die Untersuchung vo for menschlichen Seele ausgieng , oder doch
+
+1. ihren Resultaten auf dieselbe angewandt wurde.
+
+Durch den des Cartes und seine
+
+Schule gewann der Spiritualism ein neues Ansehn, und selbst der Begriff der Geiſtigkeit im Gegensahe mit dem Materiellen verdankt den Cartesianern die schärfere Bestimtheit , mit welcher er in den neuern Zei. ten gefaßt wird. Allein eben so eifrig, ob. gleich nicht ganz mit demselben Glucke, hatte Hobbes den Materialism begünſtigt; denn Spinoza ward mit Unrecht für einen Materialisten gehalten , da er vielmehr Idealist war.
+
+Daß der Materialism nicht diese öffentliche Aufnahme fand , wie der Spiritualism, dazu trug auch nicht wenig bey , daß er als der Religion und Moral gefährlich erschien, und deswegen die Materialisten sehr leicht in den Verdacht einer anstößigen Denkart ge. riehen , welchen Verdacht die Meisten gerne ver [p. 759] vermieden, wenn sie auch wirklich dem Systeme zugethan waren. Indeßen fehlte es ihm doch auch , nachdem Hobbes die
+
+Bahn gebrochen hatte, nicht an lautenHerol den und Vertheidigern. Wilhelm Coward, ein Arzt zu London, erklärte alle erschaffene Geister für materiell , und behauptete also die Materialität auch von der menschlichen See. le. Er gab Cogitationes de anima heraus, worin er, nachdem er den Immaterialism verworfen hatte, das Seelenwesen, das er mit der Lebenskraft identisch nahm , auf ein sub. tiles materielles Feuer zurückführte. Die Seele ist nach seiner Meynung sterblich , weil das Seelenwesen mit dem Tode des Körpers erlischt; dafür aber behauptete er nach den Lehren der positiven Religion eine Wiederauferstehung. Coward vertheidigte seineMeynung gegen Mehrere , von denen sie in besondern Schriften angefochten wurde. Auch Heinrich Dodwell behauptete die Materialität und Sterblichkeit der Seele. Er nahm aber zugleich an , daß die Seele durch dieMit theilung des heil. Geistes in der Taufe unsterblich gemacht werde , und wish dadurch den Grunden aus, die von den Lehren der positiven Religion gegen ihn hergenommen wur. den. Nicht minder wurden durch die Frage Debatten erregt: wie die Seele entstanden sen ? Die natürliche Vorstellungsart , daß die See
+
+[p. 760] Seele durch die Eltern erzeugt werde , schien zum Materialismus zu führen. Man gerieth also auf die Hypothese einer unmittelbaren
+
+Schöpfung der Seelen durch die Gottheit bey der jedesmaligen Zeugung; allein hier war wiederum im Wege, daß der Mensch nach der Lehre der Schrift in Sünden empfangen und gebohren wird , was sich doch mit
+
+Der angenommenen göttlichen Schöpfung der Seelen nicht wohl vereinigen ließ. Daher hörte man seit dem siebzehnten Jahrhunderte in den Schulen der Theologen und Philosophen die Namen der Traducianer , welche eine na.
+
+turliche Zeugung der Seelen durch die Eltern (per traducem) , und der Creatianer, welche eine unmittelbare göttliche Schöpfung der Seelen behaupteten. Von diesen wurden noch die
+
+Inducianer unterschieden , welche mennten, daß die Seelen in irgend einem der Sterne praexistirten , und von dort aus indie menschlichen leiber (per inducem) kamen. Andere nah. ?
+
+men zu der Hypothese ihre Zuflucht, daß die Seelen bey der Weltschöpfung alle zugleich ge. schaffen seyen, und nur in den körperlichenSa menhullen , den sogenannten Saamenthierchen , verborgen wären, aus welchen sie sich im Laufe der Zeit entwickelten.
+
+§. 1015.
+
+[p. 761] §. 1015. Noch lebhaftere Streitigkeiten , als die Hypothesen, über die Natur der menschlichen Seelen und ihren Ursprung , erweckten die verschiedenen Meynungen über die Natur der
+
+Geister , und namentlich über ihr Verhältniß \#zu den Menschen , über die Erscheinungen derselben, über die Möglichkeit der Zauberey,
+
+Hereren , der Teufelsbundnike u. w.
+
+Das größte Verdienst um die Aufklärung dieser
+
+Materie , und hauptsächlich um die Vernichtung des Aberglaubens, und seiner für die Ruhe der menschlichen Gesellschaft oft so fürchterlichen Folgen , erwarb sich Baltha. sar Bekker , ein Mann von sehr hellem Kopfe und kühnem Charakter. Er wurde
+
+-gebohren im I. 1634 in einem Dorfe Metslawier in Westfriesland , wo sein VaterPre diger war. Er studirte auf den Akademieen zu Franeker und Groningen , und wurde hier mit der Cartesianischen Philosophie be.
+
+kant. Im I. 1655 erhielt er eine Predigerstelle in der Nähe von Franeker, welches
+
+Amt er zehn Jahre verwaltete. Im J. 1665. nahm er zu Franeker die theologische Doctorwurde an. Weil damals in den Niederlanden die Cartesische Philosophie und die
+
+Theologen , welche sich zu derselben bekannten, so sehr verfolgt wurden, und man eine Men1
+
+[p. 762] Menge ungerechter Beschuldigungen vorbrach. te, so schrieb Better die Candida et ſincera admonitio de philosophia Carteſiana. Diese Schrift und seine Erklärung des Heidelbergi schen Katechismus , die er bald nachher herausgab, verwickelten ihn in heftige Streitig. keiten, die sich damit endigten, daß das letztere Werk öffentlich verboten wurde. Bekker legte hierauf sein Amt zu Franeker nieder, bekleidete eine kurze Zeit Predigerstellen in der Nähe von Amsterdam , bis er im J. 1679 in diese Stadt selbst als Prediger berufen wurde. Ungeachtet Bekker durch seine philosophische Freymüthigkeit sich schon so große Unannehmlichkeiten zugezogen hatte, so konte er es doch nicht unterlassen, da im J. 1680 ein großer Komet erschien, in einer besondern Schrift darzuthun, daß von demselben als einem natürlichen Körper nichts Böses zu fürchten sey. Kurz darauf erschien sein berühmtes Werk: Die bezauberte Welt, und zwar der erste Theil 1690 zu Leuwaarden und verbessert 1691 zu Amsterdam , der andere
+
+Theil eben daselbst 1693.
+
+Der Zweck des
+
+Verfassers war , die Menschen , die von dem.
+
+Vorurtheile einer Einwirkung der Geister auf sie geblendet seyen , von ihrem Irrthume zu überführen, und zu zeigen, daß ein Geist ohne Körper nicht auf einen Körper wirken könne, und daß alle die Sagen von Gespenſters stererscheinungen, vonZauberern undHeren, für Lügen und Märchen zu halten seyen. Der Satan sen nach seinem Falle in der Hölle mit den Ketten der Finsterniß gebunden , und was demnach von seinen Wirkungen auf der Er de gesagt werde , beruhe entweder auf blindem Wahre des Alterthums ; oder auf Sinnentäuschung , oder auch auf Betrügereyen Anderer. Bekker zeigte zugleich mit vieler Ge. lehrsamkeit , daß weder die heilige Schrift, noch die Erzählungen bey den alten Schriftstellern von Geisterwirkungen , seiner Meynung im Wege ständen, sondern sich aus andern natürlichen Ursachen erklären ließen. Den Principien der Cartesianischen Philosophie gemäß nahm er an , daß alle scheinbaren Wirkungen der Seele auf den menschlichen Körper un mittelbar von Gott herrührten , daß also von dem Verhältniße der menschlichen Seele zum Körper kein Argument entlehnt werden dürfe , um die Möglichkeit einer Einwirkung der Geister auf die Menschen zu beweisen. Dieses Werk Bekkers machte eine ganz ausser ordentliche Sensation; und ob er gleich viele Gegner sand , so ist doch ihm die Ausrottung des heillosen und von Alters her so tief ein. gewurzelten und allgemein verbreiteten Aberglaubens an Gespenstererscheinungen , Zauberer und Heren , am meisten zuzuschreiben. Ehre dem Manne, der sich so weit über sein Zeite
+
+Zeitalter erhob , und Muth genug hatte, mit
+
+Verleugnung seiner persönlichen Sicherheit und
+
+Ruhe und seines häuslichen Wohlstandes den Vorurtheilen jenes entgegen zu arbei. ten! Bekker änderte durch seine Gegner veranlaßt in der zweyten Ausgabe seines Werks Manches ; aber das Wesentliche hob er mit noch größerer Klarheit und Nachdrucke her. bor. Dieses gab dem Magistrate zu Am-
+
+Ferdam Ursache zu einer förmlichen gericht. Lichen Untersuchung, wo dem Verfoffer hauptsächlich folgende drey Punctevorgeworfen wur. ten: x) daß er blasphemisch von der Kirche rete, und mit verkehrter und profaner Verwegenheit die heilige Schrift auslege; 2)
+
+deß er uniberlegt von den Wirkungen der
+
+Geister schreibe; 3 ) daß er auf eine frevel. hafte Weise das öffentliche. Glaubensbekentniß verspotte , zu dem er sich doch, wie die übrigen Prediger, verpflichtet habe. Bekker erwiederre, daß seine Ankläger seine Meynung folsch verstanden und dargestellt hätten; wor auf er vom Magistrate zu Amsterdam den Befehl erhielt, selbst einen kurzen Auszug aus seinem Werke zu machen , damit man wegen seiner Meynungen gewiß seyn könne. Da dieser eigene Auszug Bekker's aber so aussiel, daß durch denselben die Darstellung , welche die Ankläger von seinen Meynungen gegeben, bestätigt wurde , so wurden diese ein.
+
+[p. 765] einstimmig verurtheilt , und der Verfasser bekam einen Verweis , daß er dieselben ohne Censur bekannt gemacht habe. Zugleich wurden ihm 1691 dreyzehn Artikel zur Unterschrift vorgelegt , mit der Drohung , falls er sich wei. gere, feines Amtes entsekt zit werden. Der erste dieser Artikel war : daß die Seele des Menschen auf den Körper wirke, und daß diese Wirkung nicht durch eine nothwendige Thätig. keit Gottes bestimt werde ; ferner daß die See le kein Modus des Körpers sey; woraus erhellt, daß die Amsterdamer Theologen die Bekkersche Meynung auf das Spinozistische aus dem falsch angewandten Cartesianismus entstandene
+
+System zurückführten.
+
+Bekker berief sich auf den Ausspruch der Edamer Synode. Da aber hier dieseiben Anklagen wiederholt wurden, und derselbe Ausspruch erfolgte ; so wandte er sich an das höhere Kirchen-Collegium oder die
+
+Classe zu Amsterdam , und übergab sechs Artikel, worin er seine Meinungen erträglicher vorstellte. Er versicherte zugleich , daß er diese nur problematisch aufgestellt habe , und daß es durchaus nicht seine Absicht sey , die Hauptsäße der Religion auf irgend eine Art zu leugnen. Die Classe gewährte ihm , sein Amt nach wie vor verwalten zu dürfen. Da aber diese Entscheidung allgemeine Unzufriedenheit bey der Niederländischen Geistlichkeit erregte, so wurden jene sechs Artikel von der Amsterda [p. 766] mer Classe noch vermehrt und geändert, und sie foderte von Bekker , daß er diese entweder unterschreiben , und sich künftig aller weitern mündlichen und schriftlichen Bekantmachung seiner Meynungen enthalten, oder sein Amt niederlegen solle. Bekker verweigerte jenes, und vertheidigte seine Meynung , woraufer denn zur Strafe 1692 auf elf Wochen von sei nem Amte suspendirt wurde. Bey der weitern Fortsetzung des Prozesses wurde er auch von der Synode zu Alkmar von der fernern Ver. waltung seines Amtes ausgeschlossen . Das
+
+Bekkersche Werk war nicht bloß in den Nieder. landen, sondern auch auswärts verbreitet worden, und es entstanden also auch unter den aus värtigen Theologen ähnliche Bewegungen Darüber , wobey eine Menge von Gegenschriften erschienen, von denen Becker selbst eine
+
+Beurtheilung herausgab zu Franeker 1692. 4. Eine andere Partey nahm sich dagegen der BeckerschenMeynungen an, und erhob den Ver- faffee mit den größten Lobſpruchen. Von sel. nen Gegnern war Poiret der bedeutendste , dem B. auch antworten wollte, was er aber doch nicht wirklich that. Poiret sekte ihm entgegen, daß, wenn Geister nicht auf Körper wirken konten , so konten auch die Körper selbst nicht existiren und auf einander wirken.
+
+Denn es sen unbegreiflich, wie ein Körper el uen andern bewegen und die Bewegung aus el [p. 767] einem Körper in den andern übergehn könne, wenn man nicht eine geistige Kraft überhaupt annehme, die mit einem gewißen bestimten Maaße der Wirkung sich gleichsam in die Ma. terie verbreite, und bald in diese bald in jene Theile derselben successive einwirke. Die In. telligenzen oder Geister seven göttlicher Abkunst und von derselben Natur , wie die Gottheit. Sie trügen sein Ebenbild auch darin , daß ihr Wille , wie der Wille Gottes , ver.
+
+mögend und wirksam sey durch die ihnen von Gott mitgetheilte Kraft. Es sen für die Gottheit , um ihre Macht, die Kör. per zu bewegen, in den Geistern (darzustellen, gleich gewesen, ob sie diesen einen beson. dern und eigenthümlichen Körper gab , mittelst deßen sie ihre Thätigkeit gegen andere Körper beweisen konten, oder aber ob sie beschloß, daß sie für sich durch ihre bloßen Willenstriebe auf die Materie wirken und diese regie. ren sollten; denn das eine sen nicht schwerer , als das andere. Da einige erschaffene Geister von Gott abgefallen waren, so habe nothwendig die körperliche Materie, die sie beherrschen sollten , regellos , finster , verderbt werden mus sen, und nun konten sie also auf dies verderbte und finstere Element ihre Macht äussern; daHer sey es kein Wunder, wenn auch der Menſch von Gott abfalle, indem die bösen Geister ihre
+
+Macht an ihm bewiesen. Die ganze StreitigCcca keit, [p. 768] keit , welche Becker wegen seines Werks hatte, endigte sich damit, daß er 1692 abgesetzt und von der Gemeinschaft der reformirten Kirche förmlich ausgeschlossen wurde , da er sich schlechterdings zu keinem Wiederrufe, wie man ihm zumuthete , verstehen wollte. Inzwischen blieb die Predigerstelle unbesetzt bis an seinen Tod ; er behielt auch seine ganze Einnahme; denn er hatte unter den Großen Gönner, die ihn schützten. Becker starb im J. 1698, ohne seine Meynungen im Wesentlichen geändert zu haben. Das Leben und die Geschichte Beckers haben am ausführlichsten beschrieben Michael Lilienthal und Wilhelm Heinrich Bether.
+
+Der erstere erzählt die Lebensumstände des. selben (in den ſelectis literariis art. 2) bis auf die Erscheinung der Bezauberten Welt. Von dem andern ist das Schediasma critico literarium de controverfiis præcipuis Balthafari Bekkero ob librum , cui titulum fecit: Die bezauberte Welt, quondam motis , wo am Ende auch die Vertheidiger und
+
+Gegner Beckers angeführt werden. Vgl. NiceronMemoires de literature T. XXX.
+
+p. 175. Bruckeri hist crit. philos. T. IV. P. 2. p. 712 sq. Das Beckersche Werk: Die bezauberre Welt , ist ursprunglich hole ländisch geschrieben , aber in's Franzöſiſche, Italienische , Spanische und Deutsche übers sest. Die französische Ueberseßung ist die beste ;
+
+beste; die deutsche (Leipzig 1693, 4) ist die ſchlechrefte,
+
+§. 1016.
+
+Eine Hauptrolle spielte gegen das Ende des siebzehnten Jahrhunderts sowohl in der literarischen Welt überhaupt , als in der philoso- / phischen insbesondre , Peter Bayle, einer der vortrefflichsten Köpfe, die je gelebt haben. Er wurde gebohren zu Carla in der Grafschaft
+
+Foix im I. 1647.
+
+Sein Vater Johann
+
+Dieser Bayle war reformirter Prediger. unterrichtete ihn selbst in den Anfangsgründen der lateinischen und griechischen Sprache bis zum I. 1666. Er studirte als Jüngling mit solchem Eifer , daßer in eine schwere Krankheit verfiel, von der er mit Mühe wiederhergestellt wurde. Seine Lieblingsschriftsteller waren in frühern Jahren Plutarch und Montaigne, und es ist sehr wahrscheinlich, daß die fleißige Lecture des leßtern zuerst die skeptische Denkart in ihm hervorgebracht habe , durch die er sich in der Folge auszeichnete. Im zwanzigsten Jahre begab er sich nach Toulouse, um hier unter Anleitung der Jesuiten sich mit der Philosophie, hauptsächlich der Dialektik, zu beschäfftigen. Die Jesuitischen Lehrer, die [p. 770] die er hier hatte, benutzten seine skeptische Stimmung und ihre dialektische Kunst , und bewogen ihn , zur katholischen Kirche überzu, treten , da ohnehin dieſer Uebertritt ihm Be.
+
+gunstigung und Unterstukung von einigen ho. hern Geistlichen verschaffte. Aber Bayle be. reute diesen von ihm aus Uebereilung gethanen Schritt sehr bald . Er beschloß , wieder zur Protestantischen Religion zurückzukehren, und da diese Apostasie in Frankreich ein tödtliches Verbrechen gewesen seyn wurde ; so entwich er im J. 1670 heimlich von Toulouse zu seinen
+
+Freunden nach Genf, und lebte hier eine Zeit lang als lehrer und Erzieher der Kinder meh.
+
+rer angesehener Familien. Hier war damals die Cartesianische Philosophie in Aufnahme ges kommen, und Bayle , der bey den Jesuiten nur die Aristotelischscholastische kennen gelernt hatte , fand an dieser ungleich mehr Geschmack. Inzwischen war sein Genie mit dem
+
+Dogmatismus überhaupt nicht verträglich. Er konnte sich in die verschiedensten Vorstellungsarten der ältern und neuern Philosophen hineinsehen, und faste sie wirklich meistens sehr richtig auf; aber er hatte daben das Talent , die Schwächen jeder derselben zu bemer. ken und hervorzuheben, und so wurde er für kein einziges System gewonnen. Man kann von Bayle sagen, daß er die Philosophie, wie sie bis dahin bearbeitet war, historisch grund [p. 771] gründlicher gekant habe, als irgend einer seiner Zeitgenossen; aber er selbst hatte kein philosophisches System , dem er anhieng , sondern seine Philosophie war eine fortwährende Skepsis. Im I 1675 kam Bayle nach Paris, und wurde hier mit dem berühmten Sam. Seinr. Basnage bekannt , der ihn an Jurieur , Professor der Theologie zu Se dan, einen gelehrten , aber eigensüchtigen, Mann empfahl. Durch Vermittelung dies ses wurde er 1676 als Professor der Philosophie zu Sedan angestellt , wiewohl mit einiger Besorgniß, daß seine Apostasie ent. deckt werden möchte. Er gewann hier die
+
+Freundschaft des Johann Jacob Rondell, eines Kenners der alten classischen Literatur , dessen Umgang für ihn auch in diesem Sache sehr lehrreich wurde. Während seines Aufenthalts in Sedan unterwarf Bayle des Peter Poiret Cogitationes de Deo, anima et malo einer genauern Prüfung, und theilte seine Zweifel und Einwürfe dem Poiret mit, welche dieser beantwortete , und nebst der Antwort in die neue Ausgabe jener Cogitationum einruckte im J. 1679. Anfangs blieb dieser Streit , da Poiret noch Cartesianer war, in den Grenzen eines freundschaft lichen Disputs ; dieser erkannte wenigstens das philosophische Talent, die Gelehrsamkeit und Wahrheitsliebe seines Gegners an. Aber als [p. 772] als er vom Cartesianer zum Mystiker und Theosophen geworden war, änderte er auch seine Gesinnungen gegen Bayle, und sekte einer dritten Ausgabe der Cogitationum, die 1715 erschien , eine Abhandlung vor, worin er den Bayle für einen verkappten Widersacher des Atheismus des Spinoza er klärte, und also indirecte für einen Anhänger und Vertheidiger desselben. Die wahre
+
+Ursache der Erbitterung des Poiret gegen Bayle war indessen nicht sowohl die Art, wie dieser den Spinozismus bestritten haben sollte, als vielmehr die Charakteristik , wel.
+
+che dieser von der schwärmerischen Burignon in seinem Wörterbuche gemacht hatte , und in welcher Poiret satirische Beziehung auf seine eigene mystische Denkart anzutreffen glaubte. So lange jedoch Bayle zuSedan lehrte, stand er mit Poiret in gutem Vers nehmen. Bey der Erscheinung des großen Kometen im I. 1681 , der so viele und mancherley Urtheile und Bewegungen unter dem Volke und unter den Gelehrten veranlaßte , schrieb Bayle seine berühmten Pensées ſur les Cometes, um sie zu Paris herauszugeben, in der Hoffnung, daß die Schrift , als von einem katholischen Verfasser herrührend , das königliche Privilegium erhalten würde. Da unterdessen die Verfolgung gegen die Hugenotten in Frankreich ausbrach, so wurde аиф [p. 773] auch die Akademie zu Sedan aufgehoben , und Bayle , der nun seine Stelle verlor , gerieth in große Verlegenheit. Durch mehrere junge Holländer , die er zu Sedan unterrichtet hatte , empfohlen , bekam er aber einen Ruf nach Rotterdam zu einer Lehrstelle der Philosophie und Geschichte , die man eigentlich seinetwegen erst errichtet hatte. Zu Paris war die Bekantmachung der Pensées für les Cometes verweigert worden; Bayle gab sie also nun anonymisch heraus. Man erkannte ihn aber sehr bald als Verfasser derselben , und so wurde diese Schrift , in der er seinen echten über Aberglauben und
+
+Volkswahn erhabnen philosophischen Geist bewies , eine Quelle vieler Verdrießlichkeiten für ihn. Sie veranlaßte zunächst , daß die bisher zwischen ihm und Jurieur , der auch nach Rotterdam berufen war , bestandene Freundschaft sich zerschlug, und bey dem leßtern in einen bittern perſönlichen Haß über.
+
+gieng, von dem eine heftige literarische Streitigkeit beyder Männer die Folge war. Der
+
+Jesuit Maimburg hatte damals eine Hiſtoire du Calvinisme herausgegeben, die zur Verunglimpfung der Hugenotten abzweckte , und auch einen für diese sehr nachtheiligen Eindruck in Frankreich machte. Bayle schrieb dagegen eine Critique generale de Histoire du Calvinisme mit ſo viel Geist, Geschmacke
+
+‫פת‬ [p. 774] und Sachkentniß, daß selbst sein Gegner gezwungen war, die Trefflichkeit der Schrift einzuräumen, aber eben deswegen nicht eher ruhte , als bis sie auf königlichen Befehl confiscirt und verbrannt wurde, Dennoch wurden von der Schrift in kurzer Zeit mehr Ausgaben veranstaltet , und Bayle , der bald als der wahre Verfasser derselben bekant wurde , nachdem man sie vorher meh.
+
+rern Andern beygelegt hatte, erndtete davon den größten Ruhm ein. Auch Jurieux hats (te sich der Sache der Reformirten angenom.
+
+men, und gab heraus: L'hiſtoire du Calvinisme et celte du Papisme, miſe en parallele, ou Apologie pour les reformateurs , pour la reformation etles reformés. Er hate se sich aber einen zu reichhaltigen Stoff hier gewählt , um ihn zweckmäßig verarbeiten zu können; anstatt daß Bayle sich mehr auf die Verunglimpfungen Maimburg's eingeschränkt hatte, und seine Wiederlegung der selben daher kürzer, treffender und auffallender war. Der Vorzug , den das Publicum der
+
+Schrift des Bayle ertheilte, erweckte und verstärkte den Neid und Haß des Jurieup gegen ihn noch mehr. Im I. 1686 erschien Bayle's Recueil de quelques pieces curieuſes concernant la philosophie de Mr. des Cartes zu Amsterdam. Er fügte dieser Sammlung auch seine Streitschriften gegen den Jesuiten Va
+
+[p. 775] Valois bey , deren Hauptinhalt darauf ab zweckte , das Dogma von der Transsubstantiation mit Hilfe der Cartesianischen Philosophie , welcher Bayle damals noch geneigter war , als in der Folge , zu widerlegen. Was aber seinen Ruhm vollends allgemein verbreitete , war ein Unternehmen, das nach her so viel Nachahmung fand, ein kritisches Journal unter dem Titel: Nouvelles de la republique des lettres, die er im J. 1684 anfing. War irgend Jemand zu einem Unternehmen dieser Art gleichsam von der Natur geschaffen, und durch die Art seiner Studien gebildet , so war es Bayle. Er konte hier feine Philosophie, seine Gelehrsamkeit , seinen Geschmack, hauptsächlich sein Talent derKritik , im hellesten Lichte zeigen, Auch gelang ihm die Ausführung des Unternehmens in so hohem Grade , daß seine Zeitgenossen wettei.
+
+ferten, ihn mit Lobſpruchen zu überhäufen. Auf der andern Seite wurde aber auch Bayle durch die Natur dieser Arbeit fast in alle die Streitigkeiten mit verwickelt, welche damals unter den Gelehrten , und namentlich unter den Philosophen und Theologen , obwalteten. Eine Kranklichkeit , welche Bayle'n überfiel, nöthigte ihn , die Arbeit aufzugeben. Die
+
+Fortsetzung derselben , die einer seiner Freunde besorgte, erhielt den Titel: Hiſtoiredes ouvrages desſavaus, Um dieseZeit fieng die Unimosi the [p. 776] tht zwischen Jurieux und ihm an öffentlich auszubrechen. Es erschien im I. 1690 eine Broschüre : Avis important aux refugiez ſur leur retour prochain en France.
+
+gegen Jurieur geschrieben ,
+
+Sie war der den aus
+
+Frankreich vertriebenen Hugenotten eine bal. dige Rückkehr in ihr Vaterland prophezeiht, und sich dabey auf einige Stellen in der Of.
+
+fenbarung Johannis gestust hatte. Der Zustand der reformirten Gallicanischen Kirche wurde darin sehr nachtheilig vorgestellt ; die
+
+Schuld der Verfolgung der Hugenotten von Seiten des Französischen Hofes vorzüglich auf das aufrührerische Benehmen der VerL bannten geschoben, und so der franzöſiſche
+
+Hof gewißermaßen seines grausamen Verfahrens wegen entschuldigt. Auch enthielt die Schrift manche Schmähungen auf die Reformirten in Einzelnen , die doch ohnehin Drangsale genug litten. Sie erregte bey den Protestanten , vorzüglich unter den Hol lindern und Engländern , die allgemeinste Indignation , und zwar um so mehr, da sie, wie der Inhalt bewies , einen Protestanten selbst zum Verfasser haben mußte. Jurieur erklärte den Bayle für den Verfasser der.
+
+selben , und in der That stimte die Schreib art so sehr mit der ſeinigen überein , daß schwerlich ein Anderer diese so glucklich nach geahme haben konte. Auch behauptete der Ver
+
+[p. 777] Verleger, sie vom Bayle empfangen, und der Corrector , in dem Mipte die Hand Bayle's erkant zu haben. Jurieur klagte ihn auch deshalb bey dem Publicum in einer besondern. Schrift an , und drang darauf, daß er aus den vereinigten Niederlanden wegen dieses an der gesamten reformirten Kirche begangenen Verbrechens verbannt wurde. Bayle vertheidigte sich gleichwohl aufs lebhafteste , und leugnete das Factum in mehr Broſchüren, worin er zugleich den Jurieux mit Spott und Hohn überschuttete; und es ist bis ige nicht entschieden , ob er wirklich Verfasser der obigen Schrift gewesen sey, oder nicht. Kurz darauf faßte er die Idee, das Dictionaire hiſtorique et critique auszuarbeiten, das ihm auch bey der Nachwelt einen berühmten Namen gesichert hat. Anfangs hinderten mehrere Unfälle, die er erlebte , die Vollendung desselben. Bayle hatte sich dem englischen Hofe unter der Regierung des Königs Wilhelm verdächtig gemacht, daß er französisch gesinnt sey. Unter dem Vorwande, daß in seinen Penſées ſur les Cometes an stoßige Behauptungen vorkamen, ward er , ohngeachtet er sich gegen diese und andere Beschuldigungen gründlich vertheidigt hatte , sei. nes Amtes entsekt.
+
+Aber gerade diese Unfälle gewährten ihm erst die volle Musse, de. ren er für sein neues Werk bedurfte.
+
+beye [p. 778] beyden ersten Bande desselben erschienen, und zwar gegen seine sonstige Sitte, mit seinem Namen im I. 1697. Da sie die letzten Reſultate seiner gelehrten Forschungen und seines philosophischen Genies enthielten , so erwar.
+
+den sie ihm große Bewunderung. Allein vie le fanben auch in einzelnen Artikeln Gift ver.
+
+steckt, das für die natürliche sowohl als christliche Religion eben so verderblich seyn konte, wie für die Moralitat. Der eifrigste Ladler desselben war Renaudot. Er verhinderte ei. ne neue Auflage desselben in Frankreich , und zeigte in einem besondern Tractate, daß kein Gegenstand weder aus dem Gebiete der alten
+
+Literatur, noch die Religion und Philosophie betreffend , mit Genauigkeit und Grundlichkeit darin abgehandelt wäre ; sondern daß in dem ganzen Werke Pelagianismus und Pyrrhonismus herschten. Jurieux ließ diesen Tractat des Renaudot noch einmal abdrucken , um sich dadurch an Bayle zu rächen , von dem er in mehrern Artikeln des Wörterbuchs ge.
+
+tadelt war. Bayle vertheidigte sich hiergegen selbst und hatte auch andere Vertheidiger. Manche Mängel des Werks , besonders in Beziehung auf Gegenstände der alten Literatur, wurden inzwischen doch bey diesem Streite ausgedeckt. Auch fand sich Bayle bewogen, in der zweyten Ausgabe des Werks , die 1702 um die andere Hälfte vermehrt er. schien, [p. 779] schien , Manches zu ändern und zu berichtigen, was zu anstößig war , oder was er als unrichtig erkannte , wiewohl er dadurch immer noch nicht die Tabler unter seinen Zeit. genossen befriedigte , was auch bey einem Werke der Art unmöglich war. Nach Vollendung des Wörterbucks gab Bayle eine Sammlung historischkritischer , literarischer , und philosophischer Bemerkungen heraus unter dem Titel: Reponte aux queſtions d'vn
+
+Provincial, die nicht blos für das gelehrte , sondern auch für das größere gebildete Publi. cum bestime waren. Er wurde hierdurch auf's neue in Streitigkeiten verwickelt , die seine Entretiens de Maxime et Themiſte veranlaßten. Mitten unter diesen literarischen Beschafftigungen starb er plöglich 1706 im 59slen Jahre seines Alters. ‫از‬
+
+§. 1017.
+
+Bayle's Geist , sein moralischer, philosophischer und literarischer Charakter , und sein Verdienst um Wissenschaft und Aufklärung , sind von den wenigsten seiner gelehrten Zeit. genossen mit der erfoderlicher Gerechtigkeit und Uneingenommenheit gewürdigt worden.
+
+Von seinen enthusiastischen Berehrern ließ
+
+[p. 780] ſich auch ein treffendes Urtheil über ihn eben so wenig, als von seinen Gegnern , besonders den Zeloten unter denselben, und von seinen persönlichen Feinden erwarten ; weil bey diesen ihre persönliche Stimmung gegen Bayle die Unbefangenheit ihres Urtheils über ihn aufhob .
+
+Auch die neuern Gelehrten , ob.
+
+gleich bey diesen kein persönliches leidenschaft. liches Interesse mehr statt fand, sind doch nicht immer billig gegen ihn gewesen. Sie haben meistens mehr seine literarischen Fehler aufgemußt , als seinen wohlverdienten Anſprů. chen auf einen geehrten Namen bey der Nachwelt genug gethan. In seinem moralischen Charakter scheinen ungemessener Ehrgeiz , wenn dieser gleich für die Literatur höchst wohlthätig wurde , Leichtsinn und Unstetigkeit in der Denkart und den Maximen , seine vornehm
+
+ſten Fehler gewesen zu seyn , die ihn oft zu einem wirklich tadelswurdigen Benehmen ver leiteten , und die Ursache vieler Verdrüßlichkeiten und Leiden für ihn wurden. Er fühlte selbst seine Ueberlegenheit an Genie, Gelehr. samkeit und Geschmack zu sehr , und bestreb . te sich, sie auch andern auf eine Art fühlbar zu machen, von der nicht sowohl ihre Achtung und Bewunderung , als vielmehr ihr Neid und Haß die Folgen seyn mußten.
+
+Sein
+
+Wik, sein Talent zur Satire, seine leichte gefällige Schreibart , ſein kritischer Scharf. sinn [p. 781] sinn waren Waffen , die seine Widersacher demuthigten , die er aber auch nicht selten durch einen unvorsichtigen , übereilten und zu weit getriebenen Gebrauch gegen sich selbst und seine eigene Ruhe und Wohlfarth kehrte. Hierin hatte unstreitig die nachherige Erbitterung seines ehemaligen Freundes Jurieux, der allerdings auf seine Dankbarkeit etwas rechnen durfte, und diese in seinem folgenden Betragen so sehr vermißte , ihren Hauptgrund , und diese war es hauptsächlich , die ihn in den spätern Jahren seines Lebens so heftig und so anhaltend verfolgte. Sein Leichtsinn zeigte sich am unverzeihlichsten in seiner Schriftstelleren , die aus Frankreich vertriebenen Hugenotten und die damals herschende positive Religion überhaupt be treffend , und dies Verfahren schwächte auch die Achtung des Publicums gegen ihn vorzüglich. Schwerlich läßt sich annehmen, daß er nicht Verfasser des Avis important aux refugiés gewesen sen, oder daran thätigen Antheil ge. habt habe ; wiewohl seine Gegner nicht den juristischen Beweis davon führen konten , und er auch , falls er wirklich Verfasser oder Beförderer der Broſchüre war , wohl nicht die bösen Absichten gehabt haben mag , die man ihm beylegte und die sich wirklich daraus folgern ließen. Die ungünſtigen Urtheile des gelehr. ten Publicum's mußten durch die Wandelbarkeit seiner Denkart überhaupt, die sich weder [p. 782] im Theoretischen , noch im Praktischen, gleich blieb , gar sehr bestärkt werden; denn nichts macht leichter verachtlich , als gänzlicher Mangel an Consequenz nicht bloß in dem moralischen, sondern selbst in dem literarischen Charakter. Man konnte fast in Ansehung keines wichtigen Gegenstandes menschlicher Forschung, namentlich der philosophischen , mit Sicherheit behaupten , was Bayle selbst persönlich für eine Meynung hege, wenn er sie auch in ſeinen Schriften noch so gründlich ausgeführt und noch so eifrig behauptet und vertheidigt hatte; denn alle seine Behauptungen waren gleichsam Thesen , die er aufstellte, worüber er sich den wei. ternDisput vordehielt , und die er, wenn ihm der
+
+Disput selbst oder sein Interesse bey demselben es mit sich zu bringen schien, wieder änderte;
+
+hingegen hartnäckig und sogar mit Sophiste reyen zu rechtfertigen suchte , sobald andere ihre
+
+Gültigkeit in Anspruch nahmen , und dadurch seine literarische Eigenliebe ansochten. In manche seiner gelehrten Streitigkeiten wurde er freylich dadurch verflochten, daß seine literarischen Bemühungen auf Kritik der Arbeiten und Untersuchungen seiner gelehrten Zeitgenossen, vornehmlich in den leßtern Jahren seines Lebens , gerichtet waren. Aber oft neckte er auch nur , um zu necken, und suchte literarische
+
+Händel, wo er sie gar wohl hätte ver. meiden können. Indeßen muß man auch nicht ver [p. 783] verkennen, daß er durch diese seine Kritik und die dadurch veranlaßten Streitigkeiten der Literatur ausnehmenden Vortheil gebracht habe. Sie zeigte zuerst in einem schönen Beyspiele, wie viel die Kritik, wenn sie mit Geiste, Geschmacke und Gelehrsamkeit angewandt wird , zur Vervollkomuung der Wissenschaften, und ihrer zweckmäßigen Behandlung und Darstellung beytragen könne; sie deckte manchen neuen Gesichtspunct auf, aus dem Gegenstände betrachtet werden sollten oder könnten, und aus dem sie noch nicht betrachtet worden; sie hob die Mängel und Lücken der damaligen wissen. schaftlichen Verfassung hervor, und lenkte die Aufmerksamkeit der Gelehrten auf Mittel , ih. nen abzuhelfen; sie berichtigte manche Irrthümer , und rügte mit Freymüthigkeit die Einseitigkeit, Anmaaßung und Intolerang mancher Schriftsteller. Bayle hat sich durch seine Kritik vorzüglich um die literargeschichte Vers dienst erworben , wiewohl er seinen Nachfolgern noch immer sehr viel zu verbessern übrig gelassen hat. Auch war er mit der neuern Li. terargeschichte vertrauter , als mit der des Alterthums. Seine Beurtheilung der damaligen . Philosophie und positiven Religion , fein Kampf gegen den Herschenden Aberglauben , verrieth den liberalen philosophischen Denker; aber er brauchte sein philosophisches Talent nur, um die Gebrechen der altern philosophischen Systeme D00 2 [p. 784] me und derer, die zu seiner Zeit aufgestellt waren , so wie die Unhaltbarkeit mancher Dogmen der positiven Theologie darzuthun , ohne selbst etwas Besseres an ihre Stelle zu sehen. Man hat ihn seiner eigenen Denkart nach für einen Skeptiker gehalten, und wohl nicht mit Unrecht; er hat wenigstens oft seine Vorliebe für den Skepticismus , und seinen Zweifel an der Möglichkeit eines unwandelbaren und allgemeingúltigen philosophischen Dogmatismus , deutlich genug ausgedruckt. Daher verweilte er auch am liebsten bey den Skeptikern, und sei.
+
+ne Charakteristiken derselben in seinem Wörter. buche machen die interessantesten Artikel desselben aus. In dem Artikel Acosta fällte er über die philosophirende Vernunft folgendes merkwirdige Urtheil: "Es ist Niemand, der im Gebrauche seiner Vernunft nicht der besondern Hulse und Erleuchtung Gottes bedurfte; denn ohne diese ist jene mehr eine Verführerinn, als daß sie den Menschen auf den Weg der
+
+Wahrheit leiten sollte.
+
+Die Philosophie ist den Uehmitteln zu vergleichen, die das faule Fleisch in der Wurde verzehren , aber auch zu gleich das gesunde anfressen, und bis auf den
+
+Knochen wegnagen. Die Philosophie wider. legt zwar die Irrthümer; aber wenn wir sie nicht hierauf allein beschränken, so greift sie die Wahrheiten selbst an; und folgt Jemand hier in seinem philosophischen Genius, so sieht er [p. 785] sich bald so weit fortgerissen, daß er nicht mehr weiß, wo er ist , und worauf er als Wahrheit bauen soll.
+
+Dies ist eine eigenthümliche
+
+Schwäche der menschlichen Vernunft. Dazu prahlt sie noch mit ihren Kräften, und macht von denselben einen verkehrten Gebrauch. Aber es ist gut und eine höchst weise Einrichtung der
+
+Vorsehung, daß die meisten Menschen aus Unwissenheit oder Geistesschwache nicht fäpig sind , in diese Klippen zu gerathen". Die besten Quellen zur Lebensgeschichte Bayle's sind seine Werke selbst , besonders seine Briefe und Streitschriften. Von den Briefen existirt eine doppelte Sammlung : die er ſte von Prosper Marchand , Rotterdam 1712; eine zweyte vollständigere von des Maizeaux , Amsterdam 1729. Vor Marchand's Ausgabe steht ein Eloge des Bayle von Basnage , aus deßen Hiſtoire des onvrages des ſavans (1706) p. 145 abgedruckt. Ein paar andere Biographieen finden sich : in den Memoires deTrevoux pour l'hiſtoire des ſciences 1707. p. 693 , und vor der englischen Ueberseßung von Bayle's Penſées ſur les Cometes 1708. Aus der leßtern steht ein Auszug in den Actis eruditorum 1711 p. 103. Auch der Genfer Ausgabe von Bayle's Dictionnaire 1712 ist
+
+學 eine Lebensbeschreibung desselben vorgesetzt. Diese ist berichtigt und erweitert , wahrscheinlich von Masson , in der : Exacte re1 vue de l'hiſtoire de Mr. Bayle et de ſes D00 3 ouvrages, [p. 786] ouvrages , contenant des additions et des corrections avec diverſes particularitez ou anecdotes tirées de ſes ecrits et de ſa vie publiee en Anglois , welche nachher den Supplementen des Baylischen Dictio nair's in der Genfer Ausgabe 1722 denges fügt ist. Die beste unb vollständigste Bio.
+
+graphie Bayle’s aber ist von des Maiseaur. Sie ist besonders herausgekommen zu Umſters dam 1730. 12 , und auch der Amsterdamer
+
+Ausgabe des Bayleschen Dictionair's, die in demselben Jahre erschien , vorgesetzt.
+
+Des Maizeaur hatte Bayle'n persönlich ges kannt , und nicht nur von den Freunden dess selben , sondern auch von deßen Erben Brus guier , aus Bayle's nachgelaſſenen Papieren die erfoderlichen Notizen erhalten. Die einzelnen Schriften Bayle's sind zusammen ges druckt in vier Bänden in fol. Haag 17251731. Ausser den schon erwähnten Genfer
+
+Ausgaben des Bayle'schen Dictionairs will ich noch folgende bemerken : Dictionnaire hiſtorique et critique. Par Mr. Pier re Bayle. Rotterdam 1696 fol. Edit, II 1702. drey Bände fol. Edit. IV revue , corrigée et augmentée , avec la vie de ' Auteur. Par Mr. des Maizeaux; à Amſter1 dam et à Leide 1730. 4 Voll. fol. Am be sten zu Amsterdam 1740. 4 Bände fol. Nach dieser Ausgabe ist die deutsche Uebers setzung gemacht unter Gottscched's Aussicht Leipzig 1741-44. in vier Foliobänden. Eie ne englische Ueberseßung mit vielen Zusäzen erschien zu London 1734-1740 in zehn Bänden in folio, - Dictionaire hiſtorique [p. 787] ou memoires critiques et litteraires concernant la vie et les ouvrages de divers perſonnages distingués , particulierement dans la republique des lettres , par Prosper Marchand, à la Haye 1758.59. II Tomes fol.
+
+Nouveau Dictionaire hiſt, et crit, pour ſervir de ſapplement ou de continuation au Dictionnaire de P. Bayle par lac. Ge. Chauffepié. Amſtd. 1750-1756. 4Voll. fol. Extrait du Dictionaire de Mr. Bayle; à Berlin 1765. 2 Tomes. 8.- Ausser einem deutschen Auszuge von J. J. Rambach , der zugleich manche Des richtigungen enthält , ist auch vor kurzem erschienen: Peter Baylens philosophisches Wörterbuch , oder die philosophischen Artis kel aus Bayle'ns historisch kritischem Wir terbuche abgekürzt und herausgegeben zur Beförderung des Studiums der Geschichte der Philosophie und des menschlichen Geistes von Ludw. Heinr. Jakob. Halle 1796. 97. 2 Theile 8. Leider sind hier nur manche Artikel weggelassen , die recht eigentlich philosophisch sind , und andere aufgenommen, die füglich hätten wegbleiben können.
+
+§. 1018. In der Geschichte der Philosophie des fiebzehnten Jahrhunderts darf nicht übergangen werden, daß auch der mystische Platonismus, D00 4 der sich in Italien hauptsächlich durch den Marfilius Ficinus und den Grafen Johann Picus von Mirandula gebildet hatte, eifrige Anhänger, und zwar vorzüglich in England, fand.
+
+Es gehörten zu diesen Theophilus
+
+Gale und deßen Sohn Thomas Gale,
+
+Ralph Cudworth , Heinrich More, Samuel Parker u. a. Der erstere war ein Presbyterianischer Geistlicher , aus Devonshire ge.
+
+burtig, und starb im J. 1677. Er hatte die Meynung, daß die ursprüngliche und wahre Philosophie in dem Worte Gottes enthalten sen, welches auf verschiedene Weise und in verschiedenen Epochen des religiösen und kirchlichen Zustandes der Menschheit offenbart wor. den wäre.
+
+Diese Urphilosophie sey die echte
+
+Quelle aller übrigen Philosophie sowohl bey den morgenländischen Völkern, als insbesondre bey den Griechen.
+
+Man musse also in der Benutzung der heydnischen Philosophie vorsichtig seyn , und die Theologie, die aus der Offenbarung geschopst werde, nicht nach der Philosophie, sondern umgekehrt die Philosophie nach der Theologie modeln. Um dies zu bewirken , hielt er das Studium der eklek. tisch alexandrinischer Philosophie für am mei ften empfehlungswerth. Er gab selbst eine
+
+Philoſophia vniverfalis heraus (london 1676. 8), die er in zwey Theile abtheilte. In dem ersten entwickelte er den Ursprung und Fortgang [p. 789] gang der Philosophie und ihre Abkunft aus der Offenbarung , und da er glaubte , daß Plato den Inhalt dieser kennen gelernt und seine Philosophie daraus geſchöpft habe , so handelt er am umständlichsten von der Platonischen Philosophie. In dem zweyten erörtert er vorläufig die Lehren und Mennungen ande.
+
+rer älterer Philosophen, und erläutert denn sein eigenes eklektisches System , das im Wesentlichen auf Neoplatonismus und Cabbalismus hinausläuft. Sein Sohn, Thomas Gale , der in denselben Grundsaken erzogen war, hat sich mehr als Literator verdient gemacht. Bruckeri hist. crit. phil. P. 1. p. 434.
+
+§. 1019.
+
+Auch Radulph oder Rudolph Cud. worth war ein Anhänger der Platoniker; aber er besaß mehr originalen philosophischen Geist, als der ältere Gale, und wandte seine Philosophie zweckmäßiger und geschickter zur Vertheidigung des positiven Religionsglauben an, als dieser.
+
+Cudworth wurde gebohren zu
+
+Aller, einem kleinen Orte der Grafschaft Sommerset in England, im J. 1617. Sein Vater war ein gelehrter und berühmter Theologe. D005
+
+[p. 790] Er verlor diesen zwar sehr früh , was jedoch seiner wissenschaftlichen Bildung in den ersten Jugendjahren keinen Abbruch that. Im dreyzehntenJahre seines Alters ward er als Stu.
+
+dent in das Immanuel's Collegium zu Cam bridge aufgenommen , und im I. 1639 ward er ein ordentliches Mitglied (Fellow) desfei den. Er erwarb sich hier als lehrer den aus. gezeichnetsten Beyfall , so daß die talentvollsten jungen Leute aus den angesehenſten Geschlech. tern seiner Erziehung und seinem Unterrichte übergeben wurden. Bald darauf erhielt er eine Predigerstelle und ansehnliche Pfründe in der Nachbarschaft von Cambridge. Im I 1645 ward er Königl. Prosessor der hebräischen Sprache, wodurch er veranlaßt wurde, seine Predigerstelle niederzulegen, und sich ganz dem akademischen Lehrgeschäffte zu wid. men. Nachdem er auch die theologische Doctorwürde empfangen, werd er Vorsteher des Christcollegiums und Lehrer der theologi. schen Wissenschaften , welches Amt er bis an seinen Tod im I. 1688 mit so großem Ruh me verwaltete, daß er zu den vortrefflichsten akademischen Lehrern England's gerechnet wurde. Cudworths berühmteſtes Werk, das sein Andenken auf die gelehrte Nachwelt gebracht hat, ist das Syſtema intellectuale universi , das ausser seiner Hauptendenz, auch dahin gerichtet ist, zu zeigen, daß die älteste Offen
+
+[p. 791] Offenbarungslehre im Wesentlichen in der morgenländischen und griechischen Philosophie enthalten sey, die von ihm im Geiste der Neuplatonifer ausgelegt wurde, und daß die letzte mit jener eine gemeinschaftliche Quelle habe. Eigentlich aber suchte er besonders die natürliche
+
+Theologie gegen Einwürfe der Atheisten zu vertheidigen. Merkwirdigere philosophische Erörterungen von ihm sind etwa folgende : Erstlich: Der Begriff des Unendlichen ist ein mit dem Begriffe der Gottheit wesentlich verbundenes Merkmal, und ist mit dem Begriffe der Vollkommenheit identisch.
+
+Unendlichkeit kann nichts ermangeln ; in ihr muß also auch die höchſte Macht , Weißheit und Gute angetroffen werden. Was irgend
+
+Mangel ausdruckt , kann nicht zum Unendlichen gehören. Daher ist der Begriff des Un. endlichen positiv , so wie der des Endlichen negativ ist. Verschiedene unendliche Eigenschaften lassen sich nicht neben einander denken. Also ein besonderes Wesen anzunehmen , das von unendlicher Dauer wäre , ein anderes, das unendliche Weißheit, ein drittes , das un. endliche Macht hatte, würde ungereimt seyn. Im Gegentheile muß das unendliche Wesen auch alle unendliche Eigenschaften , die sich denken lassen, in sich vereinigen. Cubworth verwechselte hier den logischen Begriff des Unendlichen mit dem Begriffe einer unendlichen →
+
+Reali
+
+[p. 792] Realität. In einer unendlichen Realität muß unstreitig alle Realität enthalten seyn, und mehr unendliche reale Wesen , oder mehr un. endliche reale Eigenschaften , die verschiedenen Wesen anhafteten , lassen sich nicht zusammen denken. Zweytens : Cudworth suchte auch die Möglichkeit der Schöpfung aus Nichts , gegen den Grundsatz : Aus Nichts wird Nichts , deßen sich die Atheisten von jeher so sehr zu ihrem Vortheile bedienten, zu retten. Er behauptete : Es könne allerdings in ei. nem gewißen Sinne aus Nichts Etwas werden, insofern Etwas , das vorher nicht eri. stirt, nachher zum Daseyn gelangt. In die. ser Voraussetzung liegt kein Widerspruch , und in Angelegenheiten der Metaphysik können Beweise a posteriori nichts entscheiden. Auch ist die Erfahrung durchaus nicht schlechthin jener Behauptung entgegen. Wir selbst können neue Gedanken hervorbringen; wir neh.
+
+men Verändrungen in den Accidenzen der Dinge wahr, die vorher nicht existirten ; warum ſollten nicht eben so gut neue Substanzen entstehen können ? Cudworth hat auch hier wie. derum sich geirrt. Daß Etwas zum Daseyn gelangt, was vorher nicht war, läßt sich wohl denken; die Frage aber ist : woher dieses Etwas entstehe, und ob aus Nichts ? Aus Nichts wird Nichts. Nimt man an, daß das Nichts zu Etwas werde, so ist dieses eben [p. 793] der geradeste Widerspruch. Daß die Erfahrung ein Entstehn aus Nichts bewahre , erhellt aus den von Cudworth angeführten Beyspielen nicht. Unsre Vorstellungen haben nie ihren Grund in Nichts , sondern wenigstens in der Existenz der Seele, die sie erzeugt , und vielleicht auch in den Eindrücken äusserer Dinge. Ob aber die Veränderungen der Accidenzen aus Nichts entstehen , ist auch sehr streitig; es konte ein ewiges Princip des Werdens geben , wie im Systeme des Spinoza angenommen wird. Auch wurde aus der blo.
+
+Hen Möglichkeit des Entstehens von Etwas aus Nichts noch immer nicht folgen, daß die Welt wirklich aus Nichts erschaffen sey. Cudworth verstand , wie fast alle ältere Theologen , die Schöpfung aus Nichts in einer Bedeutung, in welcher sie der Urheber dieses Be. griffes schwerlich dachte. Der letztere scheint nur haben sagen zu wollen, daß Gott die Welt lediglich durch sich selbst in's Daseyn gerufen habe , ohne sich dazu einer von ihm verschie denen und unabhängigen Materie zu bedienen, dergleichen Anaxagoras und Plato zur Mog. lichkeit der Schöpfung postulirten. Drittens :
+
+Eine eigenthümliche Vorstellungsart brachte Cudworth in Umlauf von sogenannten plastischen Naturen, die in der Folge gegen die Atomisten , wie z. B. in dem Streite des LeClerc gegen Bayle , häufig gebraucht wurbe.
+
+[p. 794] de. Die plastische Natur , die sich C. dach te , ist im Grunde dieselbe mit der Weltseele der Platoniker. Er legte ihr das Vermögen bey , an der rohen Materie die mannichfaltigen
+
+Formen der Körperwelt hervorzubringen, nach einem Begriffe der Zweckmäßigkeit, und für die Erhaltung der Arten und Gattungen zu sorgen; kurz, sie war ihm das Princip der Organisation in der Sinnenwelt. Seine Ar. gumentation war diese : Entweder bilden sich die körperlichen Formen , namentlich die thie. rischen , durch bloßen Zufall; oder es herscht Hierin eine mechanische Nothwendigkeit; oder Gott bildet unmittelbar selbst jeden Körper; oder endlich es giebt ausser Gott ein bildendes Princip in der Natur. Daß die körperlichen
+
+Formen ihren Ursprung dem Ohngefähr verdanken , ist eine Ungereimtheit , die durch die
+
+Zweckmäßigkeit jener unmittelbar widerlegt wird; ein mechanischer Fatalismus kann auch nicht angenommen werden, denn dieser läuft zuletzt auch auf ein blindes Ohngefähr hinaus; eine unmittelbare fortgesetzte Schöpfung Gottes läßt sich auch nicht denken; also bleibt nichts übrig , als eine besondre plastische Natur zum Principe der Organisation der Materie zu erheben. Vierrens : Cudworth beHauptete auch eine von dem eigentlichen mit
+
+Bewußtseyn verbundenen Seelenprincipe verschiedene Lebenskraft in eben dem Sinne, wie
+
+[p. 795] Des Cartes dieselbe annahm. Er berief sich auch auf ähnliche Argumente dafür. Während eines tiefen Schlafes dauert das thierische Leben fort ohne alles Bewußtseyn der Seele. Unser Körper bildet sich aus und wird bewegt ; besonders bey den unwillkührlichen Verrichtungen z. B. dem Athemholen , ohne daß die Seele sich dessen bewußt wäre, oder absichtlich dazu beytrüge u. w. Bruckeri hiſt. crit. philos. T. IV. P.I. p. 437. Vgl. Tiedemann's Geist der specul. Philosophie B. V. S. 439. Eine Biographie Cadworth's hat der Ueberseher und Com. mentator seines im Sangeführten Werks, Mosheim, geliefert , und dabey Nachrichten aus Cudworth's hinterlassenen Papieren und den Acten der Universität zu Cambridge , die ihm mitgetheilt worden , benutzt. Jenes Werk ist ursprunglich englich geschrieben: The true intellectual, Syſtem of the Univerſe; wherein all the reaſon and philoſophy of Atheism is confuted, and its impossibility demonstrated. By Ralph Cudiworth; London 1678.fol. Ed. II. 1743. 2 Voll. 4. Lat. von Mosheim : Systema intellectuale hujus Vniverſi , ſeu de veris naturae rerum originibus commentarii , quibus omnis eorum philoſophia , qui Deum esse negant, funditus evertitur. Accedunt reliqua ejus opuscula. Ienae 1733. fol. Ed. II. emendat. Lugd. Bat. 1773. 2 Voll. 4. Die angehängten Mosheimi schen Observationen und Dissertationen hae den [p. 796] den dem Cudworthischen Werke einen vorzüglichen Werth gegeben , besonders in der zweyten Ausgabe. Das Eigenthümliche aber in Cudworth's Vorstellungsart abgerechnet, hat das Werk , unter andern für die Geschichte der Philosophie , einen sehr geringen Werth , da der Verfasser die gesamte Philosophie des Alterthums nach seinen Vorurtheilen gentodelt hat, und dieses auch für seinen gelehrten Ueberseher verführerisch geworden ist , ob gleich dieser ihn in vielen Stücken berichtigt hat.
+
+§. 1015. Da Ludworth bey seinem Werke vornehmlich die Absicht hatte, den Atheismus zu widerlegen und den Theismus zu begründen, so hat er auch großen Fleiß auf die Ausführung der Beweise für das Daseyn Gottes verwandt, und es ist ihm daher in Ansehung dieſer Manches eigenthümlich. Erstlich: Die Dinge, die wir erkennen, unterscheiden sich auch durch immer höhere Grade von Vollkommenheit , welche das eine vor dem andern hat. Nun kann diese Gradation der Vollkommenheit nicht in's Unendliche fortgehn; es muß also ein Wesen geben , welches das aller. vollkommenste ist. Bey diesem Beweise ist nur die Nothwendigkeit der Schlußfolge nicht ein.
+
+[p. 797] einleuchtend.
+
+Daß die Gradation der Vollkommenheit sich in's Unendliche verliere, widerspricht der Vernunft nicht. Es konte unter den wirklich vorhandenen Wesen auch eines das vollkommenste seyn; daraus würde noch nicht fliessen, daß dasselbe unter allen möglichen Wesen das vollkommenste wäre. Zwey rens: An dem auch vom Cartesius vorgebrach. ten Argumente für das Daseyn Gottes aus dem Begriffe des vollkommensten Wesens ver miste Cudworth den Beweis der Möglichkeit desselben. Denn daraus , daß sich ein volkommenstes Wesen denken läßt , kann man noch nicht auf seine Wirklichkeit schließen, weil zuvor entschieden werden muß , ob auch ein solches Wesen möglich sey. Diesen Man. gel suchte er daher auf folgende Art zu ergänzen: Es ist im Begriffe des vollkommensten Wesens kein Widerspruch , und also ist dasselbe möglich ; ist aber ein vollkommenstes Wesen möglich , so ist es auch wirklich. Hier ist nur eben dem Hauptfehler des Beweises nicht abgeholfen , daß aus der Möglichkeit auf die Wirklichkeit geschlossen wird: ein Schluß, der - gar keine Bundigkeit hat. Drittens : Es muß nothwendig von Ewigkeit her ein Wesen existiren. Für dieses ewige Wesen können we der die Welt, noch die Bewegung , noch die
+
+Zeit angenommen werden; also muß ein von der Welt verschiedenes Wesen von Ewigkeit [p. 798] vorhanden seyn, das keinem Wandel und Wechsel unterworfen ist.
+
+Auch dieses Argu.
+
+ment hat große Schwächen.
+
+Es kann ein ewiges Werden geben, und in diesem Sinne läßt sich weder der Welt, noch der Bewegung, noch der Zeit , die Ewigkeit geradehin absprechen. Die Welt ferner als Ding an sich in ihrer Urmaterie kann ewig seyn, wenn auch die Form, der Wandelbarkeit unterworfen ist. Endlich wurde noch nicht die Einzig.
+
+keit Gottes folgen; denn es konten mehrere ewige Wesen ausser der Welt vorhanden seyn.
+
+Viertens: Die Wesen der Dinge sind ewig; Diese aber sind nichts als Begriffe (Ideen); also muß von Ewigkeit ein denkendes Wesen (ein göttliches Wesen) existiren , in welchem alle diese Begriffe vo handen sind. Dieses Raisonnement hatte Cudworth der Platoni Schen Philosophie abgeborgt. Aber gerade
+
+Der Fundamento sak desselben , daß die Wesen der Dinge Ideen sind , ist der Anfechtung am meisten ausgefekt. Auch führt dieses Argument zu der Vorstellungsart des Malebranche, oder zum Spinozismus , indem der Welt hier ein bloß idealisches Doseyn im gätt. lichen Verstande oder durch das Denken Gottes, das zugleich die Wirklichkeir der Dinge ausoruckt , bengelegt wird. Fünfrens: Auch teleologische Data wurden von Cudworth für seinen Zweck benutzt.
+
+Die Erfahrung zeigt im.
+
+[p. 799] immer eine richtige Proportion in der Zahl des männlichen und weiblichen Geschlechts den den Menschen , wodurch die Erhaltung derselben bewirkt wird . Dieses ist unbegreiflich , wenn man nicht Weisheit eines höchsten Weltschöpfers und Weltregierers annimt , worin es seinen Grund hat. Eben die Bemerkung hätte C. auch auf alle Naturreiche ausdehnen können. Allein es ist bekant, inwiefern auch der sogenannte physisch) rheologische Beweis des Daseyns Gottes , wenn er in der That für eine Demonstration gelten soll, mangelhaft ist , und nicht zu dem gewunichten Ziele führt. Sechs. tens: Die Behauptung von der Ewigkeit der Welt findet darin etwas für sich , daß , wenn Gott in der Zeit geschaffen hat, es unbegreiflich ist , warum er nicht früher ſchuf? Cudworth antwortet , daß die Zeit erst mit der Schöpfung der Welt begann , also vor der Schöpfung von keinem Früher oder Später dieRede seyn könne. Was einen Anfang hat, muß in einer bestimten Zeit anheben; und es ist demnach unmoglich , daß Gott die Welt schuf, und sie doch in einer gegebnen Zeit nicht ein gewißes Alter hätte. Die Antwort wäre gut, wenn eine Ewigkeit, in welcher die Gottheit vor der Weltschöpfung existirte , ohne Zeit vorstellbar wäre. Auch bleibt die Frage doch immer dieselbe :
+
+Warum die Welt nur ein
+
+So bestimtes Alter , und kein höheres hat ?waren Ecea [p. 800] waren also die Vertheidiger der Ewigkeit der Welt nicht widerlegt. Cudwerth Syſtem, intell, de veris nat. rer.
+
+originibus cap. V. Vgl. Tiedemann's Geist der specul. Philos. B. V,S. 497.
+
+§. 1021: Cudworth war, und mußte es nach seinen Grundsätzen seyn, auch ein Gegner der
+
+Hobbesianischen Theorie vom Ursprunge und der wahren Beschaffenheit unserer Erkentniß. Hobbes hatte alle Realität der Erkentniß auf die sinnliche Empfindung zurichgeführt, und den Grund der allgemeinen Begriffe bloß in den Bedürfniße der Bezeichnung mehrer individueller Gegenstände mit einem gemeinschaftlichen Namen gefunden; daher er Denn auch jenen allgemeinen Begriffen gar keine objective Bedeutung benlegte, sondern sie geradezu für Wörter ausgab , denen eine bloß logische oder grammatische Bedeutung zukomt. Cudworth vertheidigte dagegen mit der Platonischen Schule, in der er sich gebildet harte, Das Daseyn von Ideen a priori , zu deren wirklicher Neusserung im Bewußtseyn die
+
+Eindrücke der Gegenstände auf die Siune nur [p. 801] die gelegenheitliche Veranlassung gäben. Er bemühte sich besonders , es zu verdeutlichen, was eigentlich der bloße Sinn, oder um mich noch bestimter, auszudrücken , das Sinnesor gan zu der Erkentniß der Objecte, beytrage, wie sie der menschliche Geist wirklich zu Stande bringt und besitzt.
+
+Das Sinnesorgan liefert zu der Erkentniß nach Cudworth nichts weiter , als einen unbestimten verworrenen
+
+Schein , oder wenn man will, ein unbestimtes Bild des Gegenstandes , welchesnach dem Eins Drucke dieſes zurückbleibt , und den Geist veranlaßt, seine eigene Kraft an der Bearbeitung dieses Stoffes zu erweisen und zu üben. Je ner Sinnenschein, unabhängig betrachtet von der Thätigkeit des Geistes , die ihn zur Erkenta niß erhebt, ist an und für sich nie Erkentniß. Cudworth bemerkt sehr sein , daß das bloße
+
+Auge, falls es als Organ Selbstbewußtseyn
+
+-hatte, sich höchlich wundern wurde, wenn es einsätze , was der Verstand aus dem von ihm dargebotenen Bilde des Gegenslandes gemache habe. Es würde dieses schlechterdings nicht als Wahrheit anerkennen. Also müssen in der
+
+Natur des menschlichen Geistes selbst ursprunglich die Formen oder Ideen liegen, deren Beziehung a priori aufden Sinnenstoff diesen in Erkentniß umwandelt. Freylich wurde die Erkentniß ohne den Beytrag der Sinne, als menschliche Erkentniß, nicht entstehn ;
+
+denn [p. 802] denn dieSinne müssen die Materie dazu dar. bieten; aber der bloße Beytrag der Sinne wurde auch nicht, was Hobbes meynte, die Erkentniß begründen können; weil doch diese unleugbar unserm eigenen Bewußtseyn nach einen ganz andern Charakter hat , als der Sin nenschein, wenn man ihn an und für sich nimt. Cudworth's Theorie vom Ursprunge und Wesen der Erkentniß war demnach , so wie seine ganze Philosophie in der Hauptsache, barerPlatonismus, und jene kann wegen der ausnehmenden Deutlichkeit der Darstellung für einen trefflichen Commentar des leßtern gelten. Die Identität des Cudworthischen und Platonischen Systems in diesem Puncte erhellt noch offenbarer daraus , daß in jenem auchei ne Welt der Ideen angenommen wird , die im göttlichen Verstande existirt , das eigentliche und wahre Wesen der Dinge enthält , und nach deren Muster die Sinnenwelt von der
+
+Gottheit geschaffen ist , so wie sich auf dieselbe Die Ibeen des menschlichen Geistes in ihrer Abtraction genommen beziehen.
+
+Zwischen dem
+
+Cudworthischen Systeme und dem Kantischen ist folglich ein eben so auffallender Unterschied , wie zwischen dem leßtern und dem Platonischen.
+
+Dies konte eine sehr überflüßige Bemerkung scheinen, die es gleichwohl nicht ist, Cude
+
+[p. 803] Cudworth de aetern, juſti et honeſti notionibus lib. III , 1. Syſt, intel, ad. alc. p. 24. Mein verehrter College und Freund , Hr. Hofrath Meiners , hat in seinem neuisten Werke : (Allgemeine kritische Geschichte der Ethik oder Lebenswiffenfchaft. B. II Git:
+
+tingen 1801) eine Prüfung der Kantischen Philosophie , haupsächlich in ihrem praktischen Theile , unternommen , und zugleich - das Resultat seines Nawdenkens und seiner gelehrten Forschungen in Beziehung auf den theoretischen entwickelt. Ich bin gegenwärtig durch das Kantische System durch. aus nicht befriedigt ; und möchte mich also als Philosoph ni&t unbedingt zum Vertheidiger desselben aufwerfen. Aber als Erzähler der Geschichte der Philosophie muß ich * erinnern , daß ich der Meynung des Hrn. M. vom Kantischen Systeme , namentlich in dem
+
+Puncte , der den Ursprung und das Wesen der Erkentniß betrifft , nicht beypflichten kann. Die Kantische Vorstellungsart von dem Ursprunge und Wesen unserer Erkente niß bestimt Hr. Meiners folgendermaßen (Algem. krit, Geſch. der Ethik B. II S. 44) : "Die allgemeinsten oder letzten Resultate der vornehmsten Lehrsäße der kritischen Philosophie sind diese: Unsere Sinne liefern uns weiter nichts , als zerstreute, oder abgerißene und verworrene Eindrücke von Dingen , deren wahre Beschaffenheit uns gänzlich unbekant ist. Unser Geist ist es allein, der die zerstreuten sinnlichen Eins drücke sammelt , und das Mannichfaltige
+
+Derselben zu einer gewißen Einheit verbins bet.
+
+det. Er thut dieses nach Gesehen , die dem selben anerschaffen und wesentlich sind. Die Erkentniß der urſprünglichen Formen des Geistes macht die einzige nothwendige und allgemeingültige Erkentniß des Menschen aus , dergleichen wir von der Erfahrung nicht erwarten dürfen".
+
+Dann fügt Hr. M. hinzu : Diese Behauptungen sind selbst in der neuern Zeit nichts weniger , als neu. Vielmehr machten sie die Grundlagen des Systems aus , welches
+
+Cudworth zunächst der Hobbesischen Philosophie , und seine Nachfolger einer jeden auf Erfahrung gegründeten Philosophie , und besonders einer auf die Kentniß der mensche
+
+lichen Natur gegründeten Ethik , entgegens sesten. Die vornehmsten Nachfolger von Cudworth waren Samuel Clarke , W.
+
+Wollaston , und Richard Price. Die vornehmsten Gegner derselben waren Lode,
+
+Butcheson, same , Smith , Ferguson , Bolingbroke u. a. Der Streit über den Werth der Erkentniß , welche wir der Ere fahrung und einer angeblich reinen Vernunft zu danken haben , besonders über den Werth und die Natur unserer allgemeinen Begriffe , hat der Britischen Philosophie die eigenthamliche Richtung gegeben, welche sie seit länger als einem Jahrhundert genommen hat". Hr. Meiners Hält. also das Rantische System im Wesentlichen fär einerley mit dem Cadworthis schen; und da über den Werth des lestern durch die spätern Debatten der Britischen Phia
+
+[p. 805] Philosophen entschieden ist , indem mehrere von diesen in der That dem lehrern die triff= tigsten und unwiderleglichsten Grunde entges gengesezt haben , so wäre eben dadurch auch über das erstere gewißermaßen schon der
+
+Stab gebrochen.
+
+Es erhellt inzwischen aus einer genaueru Vergleichung beyder Vorstellungsarten , der Kantischen und der Cudworthischen , sehr bald , daß Hr. Meiners beyde verkannt hat , und dadurch zu seiner Behauptung verleitet worden ist. Allerdings , wenn man die Resultate beyder Systeme in der Lehre von dem Ursprunge und der Natur unserer Er= kentriß in einer solchen unbestimten Auges meinheit faßt , wie Hr. Meiners in der oben angeführten Stelle besonders das Kantische ausgedrückt hat , so kann man sagen : Cudworth und Bant behaupten eine Erkentniß a priori , welcher allein Nothwendigkeit und Allgemeingültigkeit zukomt , Die in der bloßen Sinnenerfahrung , als solcher , nicht anzutreffen ist.
+
+Aber in diesem allgemeinen Sinne ist es nicht bloß das Cudworthische System , was mit dem Kantischen zusammentrifft ; sondern alle Philosophen in alter und neuer Zeit waren alsdenn Kantianer, die angebobrne Begriffe eunahmen , oder Formen der Erkentniß , welche im Gemüthe a priori liegen; und so * läßt sich die Kantische Philosophie in dea verschiedensten Systemen , beym Plato und nig , wieder finden. Hätte Hr. Meiners Cees mit [p. 806] mit eben der Ausführlichkeit , mit der er Cndworth's Raisannements über den Ursprung und die Natur der Erkentniß auss gezogen hat , auch die Mantischen ausgezogen, so fonte ihm die ausfallendste Differenz zwischen benden nicht entgangen ſeyn. Die Freunde der kritischen Philosophie waren wahrlich so unbekant mit der Geschichte der
+
+Philosophie nicht , daß sie die Identität oder Aehnlichkeit jener mit der Cudworthischen nicht bemerkt baben würden , falls sie wirklich in dem Grade statt fände , wie Hr. M.
+
+glaubt.
+
+Cudworth's Lehre von der Erkentniß ist keine andere , als die Platoniſche.
+
+Er hielt mit Plato alle sogenannte abstracte allgemeine (discursive) Begriffe für a priori , und zwar aus denselben Grunden, aus welchen Plato sie dafür hielt , nur daß jener diese Gründe weiter ausführte , und durch manche eigenthümliche Bemerkungen , die ihm dasselbe Resultat zu bewahren schienen, vermehrte.
+
+Die Sinneneinoricke erwecken die Thätigkeit der Seele , um die allgemeinen Begriffe zum Bewußtseyn zu erheben , dieselben auf jene Eindrücke zu beziehen , und dadurch eine Erkentniß der Sinnengegenstände zu bilden, Das Kriterium aller Erkentniß a priori ist beym Cudworth , wie beym Plato , die Abges zogenbeit derselben vom Concreten und Individuellen , oder das Allgemeine im Ges gen ake mit dem Concreten. Allein dies se allgemeinen Begriffe sind nicht sämtlich reine Begriffe im Kantischen Sinne , und bep [p. 807] bey weitem die größte Zahl derselben , die Cadworth zur Erkentniß a priori rechnet, verdankt nach dem Kantischen Systeme dem Inhalte nach ihren Ursprung der Erfahrung Freylich sind alle sogenannte reine Begriffe zugleich abstract uud: allgemein; denn ohne Abstraction von dem
+
+Individuellen , womit sie in der gemeis ren Erkentniß verbunden sind , konten wir uns ihrer als reiner Begriffe nicht bewußt *werden. Aber daraus folgt weder , daß ten , oder lediglich aus der Erfahrung sich herleiten ließen ; noch daß alle abstracte Begriffe rein wären , indem vielmehr , wie gesagt , die meisten derselben aus der
+
+Erfahrung entspringen . Die Vorstellung des Raumes z . B. ist nach Rant eine reine Anschauung a priori; ich kann mir aber derselben nicht in ihrer Reinheit bewußt werden, wenn ich nicht von aller Materie im Raume abstrabire ; insofern kann ich sie eine abstracte Vorstellung nennen ; aber sie hat darum keinen objectiven Grund , oder es giebt darum keinen objectiven Raum ausser uns , d. t. keinen concreten Raum, von dem man den abstracten herleiten und unterscheiden konte. Hingegen die Vorstellung des Menschen überhaupt , der weißen Farbe überhaupt , ist eine abstracte Vorstellung , und gehört nach Cadworth zur Erkentniß a priori ; sie ist aber darum keine reine Vorſtellung nach Bant ; denn sic fest Erfahrung voraus, und gehört also
+
+[p. 808] V also zur Erkentniß a poßeriori. Ein Blindgebohrner würde niemals eine Idee von der weißen Farbe sich machen können; es fehlt ihm aber zuverlässig keine der reinen
+
+Vorstellungen a priori , sobald er nur dare auf reflectirt , und sie von der Materie durch Abstraction abscheidet ; denn wenn sie ihm fehlte , wurde für ihn gar keine Erkente niß möglich seyn. Offenbar demnach verbanden Cudworth und Plato mit threr Ere
+
+Lentniß a priori einen ganz andern Begriff, als Bant mit dem , was er so nennt ; und
+
+* die Gültigkeit jenes Begriffes war es , um die sich der Streit der Nominalisten und
+
+Realisten herumdrehte , und welche Locke und die übrigen Gegner Cudworth's , und der. Lehre von den angebohrnen Begriffen übers haupt , anfochten. Das Kriterium der reinen Erkentniß a priori ist bey Kant durchs aus nicht die Abgezogenbeit der Begriffe vom Concreten , wie bey Cudworth ; sondern Die Nothwendigkeit derselben im Bewußte seyn, und durch diese ihre Allgemeingültig Feit. Bant erklärt z. B. den Raum für eine Anschauung apriori nicht deswegen , weil er eine abstracte , sondern weil er eine noth wendige und eben daher allgemeingültige Vorstellung ist. Aus dem Grunde ist auch der Umfang der reinen Erkentniß a priori bey Bant sehr klein. Sie macht ein absolutes Ganzes , das System der Erkentnißprincipien , aus , ohne welche die positive Erkentnis nicht so seyn kann, wie sie ist. Ste läßt sich genau qusmessen und verzeichnen , ina [p. 809] indem die nothwendigen Principien der Era kentniß im Bewußtsenu vorkommen müssen , falls nur gehörig darauf reflectirt wird. Bey Cudworth und Plato ist der Umfang der Erkentniß a priori unendlich , indem sich von jedem concreten Dinge ein Allgemeines denken läßt. Sie kann also nie ein vollendetes System der Erkentnißprincipien, nie ausgemessen und verzeichnet werden ; oder derMensch kann nie durch Reflexion herausbringen , was Alles a priori in seinem
+
+Geiste an Ertentniß gegeben ist
+
+So auffallend sich die Verschiedenheit zwischen Kant und Cudworth in Ansehung ihrer Theorieen von den Erkente nißkräften und dem besondern Antheile eis ner jeden derselben an der Erkentnis zeigt ; so ist sie doch noch ungleich auffallender -in Ansehung der Resultate , welche beyde Phia losophen aus ihren Untersuchungen über das
+
+Erkentnißvermögen in Beziehung auf die Erkentuiß selbst gezogen haben. Nach Cudworth giebt es eine Erkentniß der überfinns lichen Welt , und zwar stellt diese Erkente niß die eigentliche und wahre Beschaffenheit der Dinge dar , welche die Sinnichkeit nur unbeftimt und verworren wahrutmt.
+
+Cuda worth ist auch einer der besten und scharfe sinnigsten Vertheidiger des dogmatisben
+
+Theismus und der Metaphysik überhaupt. Nach Bont ist im Gegentheile gar keine Erkentniß einer überfiunlichen Welt möglich ;
+
+alle menschliche Erkentniß ist auf den Bos Den [p. 810] den der Erfahrung eingeschränkt , und wo Dieser aufhört , sind weiter keine Gegens stande , wenn sie auch an sich vorhanden senn migen , für den Menschen erkennbar. Die Principien der Erkentniß , oder die sos genannte reine Erkentniß a priori , ist von allem Inhalte leer , hat an sich selbst gar keine reale Bedeutung.
+
+Sie drückt nur
+
+Die Functionen des Erkentnißvermogens selbst aus. Sie bekomt erst reale Bedeutung , wenn sie auf eivew Stoff , der dem Menschen nur durch die Sinnlichkeit ges geben werden kann , bezogen wird. Durch die obigen Bemerkungen wird , wie ich hoffe, die große Verschiedenheit , welche zwischen dem , was Cudworth Ers rentniß a priori nennt , und dem , was Bant darunter versteht , hinlänglich im Klaren seyn. Da der erstere die discursive Allgemeinheit der Begriffe zum Kriterium ihrer Priorität machte; so ist leicht einzusehen , wie das Cudworthische System durch die Lockische Philosophie widerlegt wurde. Denn in dieser ward unwidersprechlich dargethan , daß die meisten allgemeinen Begriffe , die Cadworth und place für Begriffe a priori hielten, ihren Stoff aus der Erfahrung entlehnten. Bant aber hält für das Kriterium der Begriffe a priori ihre Nothwendigkeit im Bewußtseyn , und leugnet eiren realen Juhalt dersele den.
+
+Daß nothwendige Begriffe und
+
+Urtheile ihren Ursprung der Erfahrung vers Dan danken , ist in der Lockischen Philosophie so wenig , wie in irgend einer andern , erwies sen worden. David Hume hat dies nicht erwiesen ; vielmehr umgekehrt , weil er mit
+
+Lode u. a. die nothwendigen Erkentnißprincipien , z. B. den Begriff der Causalität , aus der Erfahrung ableitete : so
+
+Bezweifelte er e»e-. deswegen ihre Nothwendigkeit , und gründete darauf seinen Die Gründe demnach , wos
+
+Skepric smus.
+
+durch die spärern Gegner Cutworths das System desselben bestritten und widerlege ten , treff nicht.
+
+das Bantische im geringsten
+
+Dadurch , daß Bent darthat , daß die nothwendigen Erkentaigprincipien nicht aus der Erfahrung bergeletter werden eduten, und doch zugleich die Möglichkeit nothwendiger synthetischer Urtheile a priori von ihm erklärt wurde , begegnete er auch der
+
+Skepsis des same. Das falsche Kriterium , welbes Cude worth zur Beſtimmung der Erkentniß a priori befolgte , war ferner schuld , daß er inns lichkeit und verstand nicht als specifisch verschiedene Vermögen trennte , sondern nur einen logischen Unterschied annahm ; oder , wenn er auch den specifisten , wie ев scheint , ahusete , doch die wahre Beschaffenheit und den Grund desselben verfehlte. Es war auch daher natürlich , daß er die reine Erkentniß a priori mit der empirischen verwirrte. Durch Bane's Ents deckung , daß Raum und Zeit Bedingungen a priori von der sinnlichen Anschau. ung [p. 812] ung, oder reine Anschauungen seyen , wurde hingegen eine scharfe Grenzlinie zwischen Sinnlichkeit und Verſtand gezogen ; und damit wurden auch das eigentliche Gebiet und der wahre Charakter der empirischen und der reinen Erkentniß festgesetzt.
+
+Ich gestehe, daß es mich sehr befremdethat, wie Hr. Meiners die Kantische Philosophie mit der Cudworthischen hat für identisch ansehen können ; da die von ihm selbst aus Cudworths Werke ausgehobnen
+
+Stellen die frappantesten Beweiſe des Gegentheils liefern. Es scheint mir , daß gewiße Begriffe , die Eudworth zu denen a priori zählt , und die auch von Kant dazu gezählt werden , weil sie in der That dazu gehören , wie die meisten Aristotelis schen Kategorieen , diesen Misgriff bey ihm veranlaßt haben.
+
+Dazu komt , daß
+
+Cudworth sich zuweilen des Ausdrucks formae für seine Begriffe a priori bedient; so wie Cicero die Platonischen Ideen Species , Simulacra rerum nannte ; und daß auch die Kantianer von formen der Anschauung und Denkformen, und überhaupt viel von formaler Erkentniß reden.
+
+Aber es folgt aus dem einen Umstande so wenig, wie aus dem andern , die Einerleyheit der Cudworthischen und Kantischen Philosophie.
+
+Ich habe schon vorher bemerkt , daß alle reine Begriffe als solche nur durch Abe straction von uns in's Bewußtseyng gebracht werden können , und so mußten die Philosos_ phen,
+
+[p. 813] Cav.
+
+phen , welche bloß das Abstracte und discurs siv Allgemeine zum Merkzeichen der Erkentniß a priori machten , auch auf manche derreinen Begriffe gerathen. Was aber hierbey die Hauptsache war : sie erkanten die reinen Begriffe nicht als solche; ste vers fehlten das wahre Kennzeichen und den Grund , wodurch und warum sie reine Begriffe seven ; sie vermischten diese daher wit andern, allgemeineu Begriffen , die offenbar empirischen Ursprungs waren ; und also konte sich ihre angebliche Erkentniß a priori nicht gegen die Anfechtung der Empiristen behaupten , sobald diese darzue thun vermochten , wie allgemeine Begriffe aus der Erfahrung entstehen konten. Gee
+
+‫في‬ rade darin, daß Kant ein eigenthümliches Kriterium der reinen Erkentniß a priori aufgestellt und befolgt hat , liegt auch das Eigenthümliche und Unterscheidende seis nes Systems , wodurch es sich von allen andern abſondert , in denen auch von einer Erkentniß a priori die Rede ist. Daß die Kantianer für die reinen Auschauungen und Begriffe den Ausdruck Formen braus chen , beweist eben so wenig , daß sie und Kant selbst Cudworthlaner sind. Der Ausdruck Form soll bey den Kantianern nichts
+
+•weiter aussagen , als daß die reinen Erlents nißprincipien keinen reellen. Inhalt haben, und nur die Sunctionen des Erkentnißver. mögens darstellen , wodurch die Materie oder der Sinnenstoff zur Erkentniß wird. Bey Cudworth und Plato haben die Sormen oder
+
+Ideen einen reellen Inhalt ; denn z. B.
+
+[p. 814] die Form des Menschen überhaupt , oder der Begriff a priori vom Menschen (nach
+
+Plato) , muß doch nothwendig Stamm und Gliedmaßen ,
+
+Kopf, also: reelle
+
+Merkmale , enthalten. Deninach sind dieFors men der Platoniker oder Cudworthianer,
+
+ない und der Kantianer wesentlich verschieden. Uebrigens führen die Wörter Form, Des griff, wenn sie zur Bezeichnung der Kane tischen reinen Principien a priori angewandt werden , sehr leicht zu Misverstände nißen. Bey Sorm denkt man sich ges wohnlich etwas Bildliches , eine Art von
+
+Einfassung , und dadurch misversteht man sogleich die Natur des reinen Princips , das nichts anders , als eine bestimte Function des Gemüths im Bewußtseyn ausdrückt. Hrn. Nicolai's Vergleichung der Kantischen reinen Vernunft mit einem Guckkasten ist aus einem solchen groben Misverstande ente sprüngen. Eben so denkt man sich bey dem Worte Begriff auch gewöhnlich etwas , das man begreift , also einen realen Ins halt ; anstatt daß die sogenannten reinen Begriffe nur die Function des Begreifens selbst in ihren verschiedenen Aeußerungen darstellen sollen , und bloß Begriffe genannt werden , sofern man diese Functionen an und für sich denkt und mit Worten bezeichnet. Meine Absicht bey den obigen Einwenduns gengegen das Urtheil des Hrn. Meiners über die Kantische Theorie vom Ursprunge und der Natur unserer Erkentniß ist hier , wie ich noch einmal wiederhole , keinesweges,
+
+Die Wahrheit dieser an sich selbst zu rechts fertio [p. 815] fertigen; sondern nur zu zeigen , daß sie von der Cudworthischen durchaus verschieden, und ihr vielmehr entgegengesetzt sey. Es ist mir übrigens auch deßwegen unerklärlich , wie Hr. M. die Uebereinstimmung der Cudworthischen und Kantischen Theorie hat annehmen tonnen , weil er bey der folgenden Beurtheilung der Kantischen Moral das Kantische Kriterium der Erkentniß a priori ausdrücke lich angiebt , dessen Verschiedenheit von dem Cudworthischen doch so wesentlich ist.
+
+3.15. 1022. Der Einfluß der Platonischen Lehre auf die praktische Philosophie Cudworth's ist ebenfalls unverkennbar. Er bestritt lebhaft Die Meynungen derer, welche den Grund der sittlichen Begriffe vom Guten und Bösen, von Recht und Unrecht, in den göttlichen Willen sekten , oder gar den Ursprung derselben auf die bürgerliche Gesezgebung allein zuruckführten. Im Gegentheile erklärte er diese Begriffe für solche , die schlechterdings von keiner bürgerlichen Gewalt und überhaupt von keinem Willen abhiengen. Ein jedes Ding muß. seiner Natur nach seyn, was es ist , und kann nichts anderes seyn. Selbst in den positiven Gesezen ist es nicht der
+
+Wille des Gesetzgebers , welcher die Bürger ver [p. 816] verpflichtet, sondern das wirklich vorhandene Gute und Böſe, Recht und Unrecht. Eine Handlung wird nicht dadurch moralisch recht oder unrecht, daß sie einem positiven Geseke gemäß oder zuwider ist ; sondern da durch , daß sie mit dem wirklichen Rechte, das ursprunglich existict, zusammenstimt oder nicht. Daß aber die sittlichen Begriffe le.
+
+biglich auf dem Willen Gottes beruhten, ſteht mit der Natur derselben im Widerspruche. Die Wesen der Dinge sind unveränderlich, und nicht der göttlichen Willkühr unterworfen. Vielmehr ist in der Natur Gottes selbst eine gewiße moralische Gute (bonitas quaedam), die über seine Weisheit erhaben ist , und diese Weisheit bestime, so wie wiederum die Weisheit Gottes selnen Willen bestimt. Cudworth vertheidigte diese Behauptung gegen den Einwurf, daß durch sie die Freyheit Gottes aufgehoben, und dieser zu einem abhängigen Wesen gé macht werde. Der Wille, sagt er , an sich selbst betrachtet , if nicht nur ein ganz blindes Vermögen, sondern auch gänglich unbestimt, so daß er seiner Natur nach nie ein
+
+Gesetz oder eine Regel abgeben kann. Die Gute und Weisheit also der Natur des Willens unterordnen , heißt , jene selbst zerstören. Umgekehrt kann der Wille nur dann vollkommen werden, wenn er von der Weisheit (Wissen [p. 817] (Wissenschaft des ewig Wahren)' regiert wird , und die Weisheit regiert den Willen nach der ewigen Gute; denn das ewig Gute ist ewig wahr , und kann von Gott nicht anders erkannt werden , als es ist.
+
+Bestimte der Wille Gottes dessen Weisheit und Gute , so wurde es um alle Wahrheit und alle feste Wissenschaft gethan seyn , so wie um alle Moralitat ; denn jene , wie diese, wäre in jedem Augenblicke dem freyen Willen Gottes unterworfen , ver als blind und zufällig wirkend sie immer ab * ändern konte. Dann wäre , wie Cudworth
+
+Hinzusest, auch keine Mathematik mit apodik tischer Gewißheit und Evidenz möglich. Alle Wissenschaft , Weisheit und Gute aber, welche die erschaffenen Wesen besigen , ist nichts weiter als Theilnahme an jener einzigen, ewigen , unwandelbaren Weisheit und Gute in der Gottheit. Alle erschaffene Geister sind so viel Abdrücke des göttlichen Urbildes , gleichsam so viel Ebenbilder des göttlichen Antlißes , die in verschiedenen Spiegeln wiederstrahlen,
+
+: von denen das eine heller , das andre dunkler das eine seinem Quelle näher , das andere von ihm entfernter ist. Die sittlichen Begriffe des Guten und Bösen können auch nicht, wie Cudworth nun in einer ausführlichen Untersuchung noch darzuthun sucht, aus der Erfahrung entsprungen seyn. Sie gehören zu den einfachen, allgemeinen, unwandelbaren [p. 818] ren Begriffen , und diese kann die Sinnlich keit nicht liefern , die für sich und auch in Verbindung mit dem Verstande nur veran derliche Empfindungen und Bilder (Sensationen und Phantasmen) gewährt. Die ſiteli chen Begriffe sind bloß denkbar, und daher
+
+Erzeugniße der Intelligenz an sich selbst. Da aber die körperlichen Gegenstande, weil ſie wirklich empfunden und vorgestellt werden, wirklich existiren (nach dem Kriterium der
+
+Evidenz, das Cudworth vom Cartesius an genommen hatte) ; so müssen auch die intelligibeln Gegenstände , dergleichen die einfachen und allgemeinen Begriffe von den Dingen, und die sittlichen Begriffe sind , wirklich vorhanden seyn. Es muß also wirklich ein Gu res (bonum), ein Recht (justum) geben , nur mit dem Unterschiede von der Existenz före perlicher Dinge , daß jene als intelligibel nur in einem Verstande existiren können, und also im göttlichen Verstande ihre Urquelle oder
+
+Uresistenz haben müssen, Eben weil die bloß intelligibeln allgemeinen Wahrheiten ewig und unwandelbar sind , so existiren sie auch vor allen Sinnendingen und sinnlichen Vorstellungen ; ja die Existenz jener ist allein wesen haft, was die Existenz dieser nicht ist , die immer von einer Veränderung zur andern Hinüber schwinden. Die menschliche Erkente nik hebt daher nicht bey den Sinnendingen ang [p. 819] an, sondern sie beſteht a priori aus den unwandelbaren Begriffen, und endigt den jenen, Cudworth's Abhandlung über die Grunde des Sittlichen erschien zuerst im J. 1731 englisch unter dem Titel : Trextiſe concerning eternal and immutable Morality. Sie ist aber ebenfalls von Mosheim la.
+
+teinisch übersetzt (De aeterns et immutabili rei moralis , feu juki et honeſti, natura liber, auctore Radulpho Cudwortho) , und dem Syſtema intellectuale Vniverſi bey, gefügt worden. Aus dieser Ueberseßung hab ich Cudworth's Vorstellungsart , fast durch aus mit dessen eignen Worten , concentrirt. Hr. Meiners leugnet die Identität des Cadworthischen Moralsystems mit dem Platonischen (Allgemeine Geschichte der Ethik B. I. S. 326) , und behauptet dagegen , daß das , was man als die eigens thumlichsten Principien der Kantischen Moral betrachtete , schon vor mehrernMen=
+
+ſchenaltern Lehren der Cudworthischen Schule waren" (Ebendas. 8. 11 5 114). Da ich hier vorerst bloß von Cudworth E selbst zu reden habe , so kann ich mich auf die Schriftsteller , die mein vortrefflicher
+
+Freund zür Ludworthischen Schule reche net , namentlich auf Price , dessen Morale philosophie in der That mit der Kautiſben eine auffallende Aehnlichkeit hat , hier nicht einlassen. Von Cadworth selbst aber bin ich fest überzeugt, daß er auch in der Mos 8 ff rals [p. 820] ralphilosophie nichts anders als ein platoniker , und nichts weniger als ein Ban tianer vor Bant war. Plato nimt objective Ideen aller ſittlichen Gegenstände im göttlichen Verstande an , und legt ihnen eine wirkliche , wiewohl nur intelligible, Existenz bey. Er läßt den göttlichen Willen nach diesen Ideen beskimt werden , und sie sind auch die Grunde , nach denen sich der menschliche Wille bestimmen soll , sofern die menschliche Vernunft an den gättli chen Ideen Theil nimt , und also auch selbst Ideen des moralisch Gaten , des Redus u. w. besikt. Eben dasselbe lehrt Cudworth, und es macht das charakteristische seines Moralsystems aus. In der oben anges geführten Abhandlung cap. III. §. 7. sagt er: Omnis, quae in naturis est creatis, tam angelis , quam hominibus , ſcientis et ſapientia , nihil eſt quam participatio vnius illius , aeternae , immutabilis et perennis ſapientiae , qua Deus valet. Quot sunt creatae mentes , tot sunt vnius illius archetypi figilli expreſſa simulacra , tot sunt veluti vnius ejusdemque faciei in varii generis ſpeculis reflexiones , qua rum alia clarior eſt, alia obfcurior , alia fonti propior , alia ab eo remotior. Wer kann hier im Cudworth den Platoniker verkennen ? Es giebt kaum eine Lehre im Platonischen Systeme , die diesem eigens thumlicher wäre , als die Lehre von der Theilnahme (participatio) der endlichen vernünftigen. Naturen an den Ideen der göttlichen Intelligenz. Nur das ist beym Cade
+
+82k
+
+Cudworth zu bemerken , daß er manche Modificationen , welche der Platonismus durch die NeuPlatoniker erhalten hatte , in sein System aufnahm , und dasselbe überhaupt den Lehren des Christenthums anpaste.
+
+So sehr aber Cudworth's Moralphilosophie mit der Platonischen übereinstimt , so sehr weicht sie auf der andern Seite von der Bantischen ab. Das Princip des Sittlichen ist in jener eine objetive Idee des absolut Guten und Rechten in der göttlichen Vernunft , welche Idee die mensche liche Vernunft ebensfalls besitzt , soferne sie an der göttlichen Theil nimt , oder gleiche samein Abdruck von dieser ist. Jene Idee 24"dachte sich Ludworth gar nicht als bloß formal. Ergab ihr einen gewißen Juhalt , wiewohl er sich diesen Inhalt eben so wenig wie Plato , mit Deutlichkeit vors stellte und vorstellen konte , sondern derselbe sich vielmehr bey ihm in eine mystische Phantasie verlor. Dies letztere erhelt
+
+**
+
+21. Güte in Gott mit dem verglich , was die Kabbalisten die Zone in der Gottheit (Res
+
+*** ter) nannten. Veteres Cabalae antiſtites , fagter, solent hanc naturam (bonitatem
+
+Dei) Keter (Coronam) appellare , quod apex et corona quaſi eſt divinae naturae ; de quo pluribus infra disſeremus (Vid. de aet. justi et honefti not. I. 3. 6. 8. p. 11). Einen solchen Begriff vom Principe ‫ أدلع‬des Sittlichen kennt die Bantische Morals 8ff 5 philos [p. 822] philosophie gar nicht. Nach dieser giebt es keine objective Idee des Guten , von einem realen Inhalte.
+
+Princip
+
+Sie findet das des, Sittlichen in der bloßen
+
+Form der Gesetzmäßigkeit der Maximen, die a priori zum Wesen der menschlichen
+
+Vernunft gehört. Den Cadworth ist die moralische Gäre ein für sich bestehendes idealisches mystisches Wesen in der Gotte hett und im Menschen , verschieden von der Weisheit und von dem Willen, -wels cber letztere sogar in der Gottheit als ein bloß blindes , mechanisch und zufällig wire kendes , Vermögen charakterisirt wird. Bey Kant ist ein absolut guter Wille oder die sich selbst gesezmäßig bestimmende Freye heit derFutelligenz , das höchste Gut. Die mit Recht so sehr getadelte Kantische Scheidung zwischen einer theoretischen und praktischen Vernunft , deren jede ihr besonderes Gebiet a priori in Beziehung auf die Erkentniß und das Handeln hat , ist dem Cudworth ganz fremde. Der leste kennt nur Eine Vernunft überhaupt , den Inbegriff der Ideen , die bey ihm die Principien sowohl der Erkentniß als des Sitte lichen ausmachen. In dem Cadworthis schen Principe des Sittlichen vermift man durchaus einen Grund der Verbindliche keit desselben; denn daraus , daß die Vernunft die Idee des Guten erkennt, kann keine Verbindlichkeit fließen , sie zu realisiren.
+
+In dem Kantischen Morale principe, das zugleich als unbedingtesGer ferz [p. 823] setz der Freyheit (kategorischer Imperatio) vorgestellt wird , ist der Grund der Verbindlichkeit unmittelbar enthalten. Daher ist auch die menschliche Vernunft bey Kant unabhängigeGesetzgeberinn (Autonomisch) , deren Autorität nicht auf der vorausges
+
+ſetzten Existenz Gottes beruht , ob siegleich wegen ihrer moralischen Gesetzgebung zum
+
+Glauben an das Daseyn Gottes leitet ; anstatt daß den Cudworth der oberste Grund der Sittlichkeit die göttliche Güte ist , die auf eine mystische Art als objectiv existirend vorgestellt wird , und von welcher auf eine nicht minder mystische Weise die menschliche Intelligenz participirt. Die
+
+Gültigkeit des Cudworthischen Moralprin eips hängt von der Gültigkeit der Ideenlehre überhaupt ab . Alle Einwürfe , wel, che sich mit Grunde gegen diese vorbringen lassen, treffen auch jenes. Man kanu aber immerhin die Ideenlehre widerlegen, phne dadurch das Kantische System , und am wenigsten den praktischen Theil desselben , widerlegt zu haben. Denn das Kantische System gehört selbst zu denen , mit welchen die Ideenlehre durchaus uppers träglich ist. Von dem Verhältniße des Princips der
+
+Sittlichkeit im Menschen zum Systeme der Neigungen und Triebe sagt Cudworsh gar nichts. Wenigſtens hab ich nichts dahin gehöriges in der erwähnten Abhandlung you den Ideen des moralisch Guten und [p. 824] des Rechts angetroffen. Er hat also auch die Kriterien nicht berührt , nach denen der relative Werth sittlicher Handlungen , soferne sie zugleich durch anderweitige Trieb= federn , ausser dem Principe des Guten , motivirt werden , zu beurtheilen ist. Kurz Die Verbindung zwischen Tugend und Gluck seligkeit ist er ganz umgangen. Wahrscheinlich aber und nach seinen übrigen Grundsätzen hat er darüber so gedäche , wie Plato , und die sinnliche Glückseligkeit mit der moralischen Vollkommenheit in eben den schneidenden Contrast gestellt. In diesem Betrachte fände eine Aehnlichkeit Der Resultate zwischen dem Cudworthischen und Kantischen Moralsysteme statt ; nur daß sie in jedem derselben auf andern Gründen beruhte , und der mit der Cudworthischen Lehre verbundene Mysticismus nid)t eben so der Kantischen aufgebürdet wers Den konte. Das Kantische System hat in jenem Puncte , so wie im Ganzen, eine große Schwache ; aber bey dem Sudworthis schen ist diese noch ungleich größer. Bens de verhalten sich ohngefähr so zu einander , wie im Alterthume der Stoicismus 1 zum
+
+Platonismus.
+
+§. 10230
+
+Seinrich More war zu gleicher Zeit mit Cudworth Lehrer auf der Universität zu Cam
+
+[p. 825] Cambridge, und mit ihm durch Freund schaft verbunden. Er hat selbst sein Leben beschrieben. Er wurdeim J. 1614 zu Cambridge gebohren, und auch daselbst wissenschaftlich gebildet. Seineersten philosophischenStudienbetrafen das
+
+Aristotelische System, und er glaubte nach einem ihm mit mehrern seiner Zeitgenossen gemeinschaftlichen Vorurtheile sich vor Einseitigkeit zu verwahren, wenn er daneben die
+
+Werke des Cardanus , des Jul. Cäsar Scaliger, und anderer neuerer Schriftsteller von entgegengesetzter philosophischer Denkart benutzte, und einen gewißen Eklekticismus für sich zu Stande brächte, Indessen sah er , wie er selbst versichert, bald ein , daß seine Mu he vergeblich war, weil er bey mancher wahren und gründlichen Kentniß auch vieles auffaßte, was ihm bald als Irrthum oder wenigstens als ungewiß erschien. Durch dieBekantschaft mit den Scholastikern ward er zu Tonderbaren Grillen verleitet.
+
+So versiel er durch ein zu angeſtrengtes Studium der Dis pute der Thomisten und Scotisten über das Princip der Individuation auf die Einbildung, daß er selbst kein besonderes und selbststän Diges Individuum, sondern nur ein Glled eia nes andern unermeßlichen Individuum's ware, das nur seine eigene Individualität erst vollſtändig zu erkennen vermochte , und zu wel.
+
+chem er sich verhalte , wie sein Daum zunem ſeinem [p. 826] übrigen Körper. Da er aber doch balb
+
+Das Schwärmerische dieses Wahnes erkann. te, und die Beschafftigung mit den Scholastikern überdem die Folge hatte, daß er selbst in Ansehung alles dessen ungewiß wurde, was ihm bisher unzweifelhaft gewesen war, so gab er die Scholastik und überhaupt die Aristotelische Philosophie ganz auf, und wandte sich zu den Neu- Platonikern , wo er vorzug. lich den Marsilius Ficinus zum Führer nahm. Die Ableitung aller wahren Philosophie und alles echten Philosophirens von Gott und dessen Erleuchtung schien ihm das Räthsel am besten und am befriedigendsten zu lösen, das er bisher vergeblich zu lösen sich bestrebt
+
+Hatte. So wurde More einer der eifrigsten Anhänger und Verbreiter der Pythagorisch Platonisch - Cabbalistischen Lehre. Nachdem er die theologische Doctorwurde erhalten, ward er Professor der theologischen Wissenschaften und Mitglied des Christcollegium's. Er starb im I. 1687.
+
+Mit seinem Collegen
+
+Cudworth theilte er die Absicht, der damals einreißenden atheistischen Denkart, und den Wirkungen , welche diese auf die Jugend und das große Publicum haben mußte, entgegen zu arbeiten. Daher legte er es mit dem größten Eifer darauf an, eine zuverlässige demonstrative Wissenschaft von der Existenz und Natur Gottes, so wie von der geistigen Na
+
+[p. 827] Natur überhaupt, aufzustellen , und brauchte
+
+Hierzu auch das zuletzt erwähnte philosophische System. Er sekte dabey , wie alle Anhänger desselben, voraus , und suchte es historisch und aus dem Charakter dieses Systems darzuthun,
+
+Daß Pythagoras und Plato ihre Philosophie ursprunglich von den Hebräern entlehnt hat ten, und daß man also aus den Werken derselben, wenn man das Fremde davon abschei de, die wahre und echte Weisheit des Alterthums schöpfen könne. Mit dem Pythagorisch Platonischen Systeme aber, vornehm lich so wie es durch den Ficin gemodelt war , verband er noch die cabbalistische Vorstellungs.
+
+art, die er aus derselben Quelle ableitete. und deren Urheber nach seiner Meynung noch Weſer in die Geheimniße der göttlichen Weis.
+
+heit eingedrungen seyen. Der beträchtlichste Theil der Schriften des More ist deßwegen kabbalistischen Inhalts , und er sucht da rin theils die Wahrheit und das Alterthum der kabbalistischen Philosophie , theils ihre Uebereinstimmung mit den Pythagorisch - Platonischen Lehren , darzuthun, theils auch zu zeigen, inwiefern die neuern Cabbalisten von Der wahren Beschaffenheit des alten Cab balismus abgewichen seyen. Inzwischen schloß er doch die neueste Philosophie seiner Zeit, namentlich die Cartesianische, nicht ganz von seinemSysteme aus. Er vereinigte vielmehr was [p. 828] was sehr begreiflich ist , mit diesem mehrere Behauptungen jener, wiewohl er auch eben dadurch auf sehr seltsame Paraborieen ge rieth , dergleichen in seinem Enchiridion metaphysicum häufig vorkommen. So ex Elärte er z. B. die Mosaische Kosmogonie zugleich nach Pythagorischen , Platonischen, und Cartesianischen Grundsätzen.
+
+Doch war er in den Hauptpuncten ein Gegner des Cartesius, Das Leben des More findet sich in der Vor rede zu seinen: Opera omnia, die, in zwey Folianten zu London 1679 herausgekommen sind.
+
+- Den Streit über das Princip der Individuation hab ich im fünften Theile dieses Lehrbuchs aus.
+
+führlicher erörtert. Die feurige Phantasie More's und seine zur Mystik geneigte Geistesstimmung hat unstreitig auch sehr viel beygetragen , daß er in die tr wähnte Art von Berrücktheit versiel. Zu den cabbalistischen Schriften desselben gehören hauptsächlich folgende : Conjectura cabbaliftica in tria prima capita Genefeos , f. Tentamen conjecturale interpretandi mentem Mosis in tribus illis Geueſeos capitibus , secundum triplicem Cabbalam , literalem , philoſophicam et myfticam, five divino moralem - De fenfio Cabbalae triplicis
+
+Apologia contra Sam. Andreae Examen generale Cabbalae philosophicae Trium tabularum [p. 829] larum Cabbaliſticarum decem ſephiroth five numerationes exhibentium Deſcriptio. Hier suchte er die Uebereinstimmung der Pythagorischen und Cabbalistischen Philoso Quaeftioneset conphie zu beweisen.
+
+fiderationes in tractatum primum libri Druſchim , expofitio Mercavae Ezechielis ex: principiis philosophiae Pythagoricae praecipuisque theofophiae Iudaicae Catechismus Cabreliquiis concinnata balitticus five Mercavaeus , fundamenta philosophiae five Cabbalae Aetopaedome.
+
+liſſeae. Diese letzte Schrift war gegen die Verirrungen der neuern Cabbalisten gerichtet. Die meisten dieser Abhandlungen sind in die Cabbala denudata des Knorr vonRosenroth T. I eingericht. Ueber die cabbalistisve Philosophie des More selbst S.
+
+Bruckeri Hist . crit. philos. T. II. - Von den andern philosophischen Werken desMo re siad am merkwürdigsten : Enchiridion metaphysicum , in quo agitur de exiſtentia et natura rerum incorporearum , et quamplurima mundi phaenomena ad leges Cartesii mechanice obiter expenduntur , illiusque philosophiae et aliorum omnino omnium, qui mundana phaenomena in causas pure mechanicas ſolvi pofie ſupponunt , veritas falfitasque detegitur. - Epiſtola, quae apologiam complectitur pro Carteſio , quaeque introductionis loco esse poterit ad vniverſam philosophiam Carteſianam.
+
+-Enchiridium ethicum praecipua philosophiae moralis rudimenBuhleGesch. d. phil. 6. Th. areHälfte. gg.ta,
+
+1, ta complectens , illuftratum vt plurimum monumentis veterum et ad probitatem vitae perpetuo accommodatum. Dieses ist auch besonders abgedruckt zu Nürnberg 1668. 8. Ein volle
+
+ſtändiges Verzeichniß seiner Schriften hat More selbst gegeben in der Vorrede zu der lateinischen Ausgabe seiner Berke: Henrici Mori Opera omnia, latinitate donata, inſtigatu et impensis lo. Cockſhuti , nobins Angli ; Londini 1679. Tomi Il fol, Diese Ausgabe enthält nicht nur alle die vorher bemeldeten Schriften , sondern auch mehrere , die ursprunglich englisch ges schrieben waren , wie sein Antidote againſt Atheism , und das Werkchen on the immortality of the foul , die er in einer besondern Sammlung: Collection of ſeveral philoſophical writings , im J. 1661 zu Lon don zusammen herausgab , nachdem sie schon vorher einzeln gedruckt waren. Einige kleinere Jugendarbeiten hat er aus jener großen Ausgabe seiner Werke wegs gelassen.
+
+§. 1024.
+
+More erklärte die Metaphysik für die
+
+- Wissenschaft von der unkörperlichen (geistigen) Natur , so weit diese von uns erkant werden mag ; er nahm sie alsa mit der natur lichen Theologie identisch.
+
+Nur gab er der unsór [p. 831] unkorperlichen Natur, und folglich auch der Gottheit , einen eigenen Charakter , und dies macht das Unterscheidende seines metaphysischen
+
+Systems aus. Ding überhaupt , Existenz , Entität , Vollkommenheit , Allgemeinheit, Individualität , Einfachheit, Zusammen. gesetztheit , Einerleyheit , Verschiedenheit,
+
+Dauer , Große , sind nicht Gegenstände der Metaphysik , sondern der Logik oder Dialektik; denn es sind Begriffe, welche der Ver stand auf das Objective überträgt. DieMe taphysik hat lediglich die unkörperliche Natur als solche zu untersuchen, so wie die Physik im Gegentheile sich mit der körper.
+
+lichen beschafftigt.
+
+Das Enchiridion metaphysicum des More läuft daher hauptsächlich darauf hinaus , das Daseyn einer un körperlichen Natur zu beweisen , und ihre Beschaffenheit aufzuklären. Daß es aber eine solche unkorperliche Natur gebe , erhellt aus folgenden Grunden.
+
+Erstlich : Es existirt ein unbewegliches Ausgedehntes (der Raum), welches von der beweglichen Materie ver. schieden ist; denn entweder muß man dies annehmen, oder man muß zugeben, daß Gott keine endliche Materie habe schaffen können. da wir uns denken können , daß sich jede gegebene endliche Materie in einem unendlichen Raume befinde, Selbst die Philosophen, welche eineSchopfung der Materie leugneten, wle
+
+wie die Atomisten im Alterthume , behaup. teten doch das Daseyn einer unendlichen Aus. dehnung. More bringt auch noch mehr an dere Grunde vor , das Daseyn eines von der Materie verschiedenen Raumes darzuthun , die ich hier füglich übergehen kann. Besonders argumentirt er gegen die Cartesianer , welche die Ausdehnung mit der Materie identiſch nahmen , und insoferne gerade das entgegengesetzte System über die geistige Natur behaupteten , als More aufstellte. Zweytens: Dieses von der Materie verschiedene unerblich
+
+Ausgedehnte ist nicht bloß etwas Eingebil detes , sondern wenigstens eine Realität, wo nicht gar die Gottheit selbst. (Extenfum illud immobile , quod demonftratum est a materia mobili diftinctum , nou est imaginarium quiddam, fedReale faltem, fi non Divinum. Enchir. Metaph. cap. 8. Opp. T. I.
+
+p. 165.) Diese Realität des Raumes aus.
+
+ser der Materie suchte nun More vorzüglich zu begründen, Es giebt reale Modi der Materie, die selbst ausgedehnt, und doch nicht Materie, sind, z. B. Bewegung und Ruhe , Solidität u. dgl.; denn es kann überall kein
+
+Etwas geben , das nicht ausgedehnt sen. Wenn die Pythagoreer lehrten, daß das Universum den umgebenden leeren Raum gleich sam einathme, so dachten sie sich unter dem lestern eine immaterielle Substanz. Bloß -das das Nichts kann keine Ausdehnung haben, Wenn aber jedes Etwas ausgedehnt seyn muß, so ist auch jedes Ausgedehnte eine Realität, Es laßt sich auch kein reales Attribut eines realen Subjects denken, wenn diesem Attribute nicht selbst, eine Realität zum Grunde liegt. Nun aber ist die Ausdehnung ein rea les Attribut den Materie , das wir noch von Dieser unterscheiden können; jene muß also selbst, eine Realität haben. Das ausgedehnte Rea le , als von der Materie verschieden , kann aber nichts anders als die Gottheit selbst, seyn;
+
+denn es hat Eigenschaften des göttlichen Wesens. Es ist unendlich (infinitum), einfach (simplex), unbeweglich (immobile), es ist der innerste Ort, das innerste Wesen , innerhalb oder ausserhalb dessen nichts weiter seyn kann (intimus rerum omnium locus, intra vel vitra quod nihil est); es ist ewig (aeternum), erfüllt (completum) , unab.
+
+hängig (independens); es ist das wunderbare Princip des Vorhandenen , in welchem sich
+
+- alles verwandelt, das aber selbst nie verwandelt wird , und also vor allem hergehn muß; es ist also selbst unzerstörbar und daher nothwendig (incorruptibile et neceſſarium); es ist unermeßlich (immenfum) , unerschaffen (increatum) , allgegenwärtig (omnipraefens)
+
+alles bestimmend , alles durchdringend , alles umfassend, Es ist durch sein Seyn , und von [p. 834] sich selbst; dagegen das Seyn der körperlichen Natne von einem andern -Seyn abhängt.
+
+Es ist wirkliches Seyn (ens actu) weil es als ohne Ursache existirend begriffen wird. Es ist das reine Seyn (purus Actus) selbst , weil es nothwendig durch sich selbst vorhanden ist , von keinem Gegenstande afficiet , ver. volkomnet oder verringert wird.
+
+More entwickelte benlaufig aus diesem Raisonnement ein Consectarium, das auch dem Cartesianismus schlechthin entgegen stand : Jeder
+
+Geist ist ausgedehnt.
+
+Diese Ausdehnung ist aber keine theilbare Große , wie sie der
+
+Materie zukomt, sondern eine nicht theilba re Realität (amplitudo quaedanı , quae ita vna eſt! et simplex , vt repugnet in partes difeerpi. Enchir. Metaph. Opp. T. I. p. 169.) Indessen wollte doch More ble Identität des unendlich ausdedehnten Realen und der Gott heit nur auf das absolute Geyn und
+
+Wesen der Gottheir bezogen wissen, nicht auf das Leben und die Thätigkeit derselben. Er verstand darunter nur confufiorem quan dam et generaliorem repraefentationem es fentiae divinas , quatenus a Vita atqueOpo ratione praeciditur,
+
+Drittens: Die bewegto körperliche Natur sest eine Urmaterie (materia prima) voraus, welche sowohl ihrer el genen Natur als der Zeit nach vor jener oristirt. Diese Urmaterie kann nichtsbers an [p. 835] ders seyn , als ein Inbegriff homogener Monaden, die sich gegenseitig nicht durchdringen können , absolut für sich existiren , ob sie gleich mit einander zusammenhangen (acta folutae monades, quanquam contiguae) .
+
+und die, ob gleich der Bewegung fähig, doch an sich selbst ruhig und unbewegt sind. Um also sowohl die Verbindung der Monaden - zu einer körperlichen Natur zu erklären, als um einen Grund ihrer Bewegung zu erhalten , muß man nothwendig eine geistige Substanz annehmen, die sich in der Materie wirksam erweist. Viertens: Die kor perliche Welt hat eine Dauer in der Zeit , und, drückt ein Vergangenes, Gegenwärtiges und Zukünftiges aus. Nun ist alles Vergangene einmal gegenwärtig gewesen; es läge sich demnach ein Moment denken , da alles
+
+Gegenwärtige Künftig war; und so muß man entweder auf ein Princip aller Dauer zurückkommen, oder eine unendliche successive Dauer, eine unendliche und gleich wohl be. stimmte Größe behaupten , welches letztere sich widerspricht. Es muß folglich vor aller
+
+- körperlichen Natur ein unkörperliches Princip existiren , dem die körperliche Welt ihr
+
+Daseyn verdankt.
+
+Fünftens : Noch mehr andere Grunde für das Daseyn einer unkora perlichen Natur entlehnt More von der ve gelmäßigen Bewegung der Erde um ihre $84
+
+Are;
+
+[p. 836] Are; von der Ursache der Anziehungskraft im Magnet und bey der Ebbe und Fluth ; von der gesetzmäßigen Bewegung der Planes ten um die Sonne, der Sonne selbst und der Himmelskörper überhaupt; von der Natur des lichts und der Farben; von der Erzeugung der Wolken , des Regens , der Winde, und der Gewitter; von der organischen
+
+Structur der Pflanzen und Thiere; von den Thätigkeiten der Seele; von den Visio nen und Weissagungen. Sechstens: Nach den verschiedenen Meynungen über die Art, wie die unkorperliche oder geistige Natur eri.
+
+ſtire, theilt More die Philosophen in Nulli bisten und Solenmerianer. Jene nehmen zwar unkörperliche Substanzen an, behaup. ten aber zugleich , daß sie nirgends (nicht im Raume) existiren. Diese räumen zwar den Geistern eine Existenz irgend wo ein , aber lassen sie nicht bloß in diesem Wo überhaupt ganz , sondern auch in jedem ein. zelnen Puncte oder Theile dieses Wo ganz existiren, so daß sie ganz in einem Ganzen, und ganz in jedem seiner Theile vorhanden wären,
+
+Gegen die erste Parten , an deren
+
+Spise Carresius damals stand , erklärt sich More gerade zu, und bestreitet das Kaisonnement derselben: Was denkt, ist immate riell; hingegenwas ausgedehur ist , ist materiell; also ist das Immaterielle oder Unausgedehnte nir [p. 837] nirgends. Er stellte dafür seinenSak auf: Was Etwas ist , ist auch ausgedehnt, und was ausgedehnt ist , muß auch irgendwo seyn. Dies gilt demnach von der Seele eben so gut, wie vom Körper. Aber auch die Hypothese der Solenmerianer ward von ihm verworfen, Diese beriefen sich darauf, daß wenn man ei ne Ausdehnung der Seele im ganzen Körper statuire, hieraus eine Theilbarkeit dieser fol. gen wurde. More leugnete dies nach seinem Principe : daß es eine unkörperliche Ausdeh. nung gebe, die weiter keine Theilung zulasse.
+
+Der zweyte Grund der Holenmerianer für die Behauptung: daß , da die Seele nicht bloß durch den ganzen Körper ausgedehnt seyn kon ne, sie in jedem Theile desselben ganz seyn muße, war: weil die Seele alle Veränderungen des Körpers in jedem Theile desselben im Kopfe , wie in den Zehen , mit gleicher Geschwindigkeit empfindet, Hierin fand More einen Widerspruch; es wurde daraus fließen, daß die Seele zugleich viel tausendmal größer und kleiner seyn muße , als sie ist ; was un möglich ist. Auch würden hierdurch die Gei ſter in die kleinsten Punctchen verwandelt. Nach dem More ist also die Seele ein Princip, das im ganzen Körper wohnt, das aber wegen seiner unkörperlichen Ausdehnung nichts desto weniger einfach ist. Siebentens : So war das Resultat der Metaphysik des More fol [p. 838] folgendes: Es giebt im Universum eine korperliche und unkorperliche Natur. Jene ist eine materielle Substanz, ohne alle Perception, alles Leben, alle Bewegung aus sich selbst, die also erst durch eine fremde Kraft zur Einheit verbunden , belebt und bewegt wird. Dieseist eine immaterielle, wiewohlaus ge.
+
+behnte,Substanz mit einem Innern Vermögen des Lebens, derEmpfindung undBewegung begabt, Das Enchiridion metaphysicum desMore teht in seinen Opp. T. I. p. 134 fq. Man sieht, das ganze pneumatologische System desselben (denn seine ganze Metaphysik war nichts als Pneumatologie) beruhte auf dem Sake : daß die Ausdehnung nidr it's Unendliche theilbar sey; läßt sich hier von das Gegentheit erweisen , so fällt seine Unterscheidung zwischen Körper und Geist fachheit der geistigen Natur aufgehoben wird. More bot daher auch sein ganzes philosophistes Talent auf, um jenen Satz zu bewahren. Seine Argumentation ist kurz Diese: Hätte einKörper unendliche Theile, so wurde seine Ausdehnung unendlich seyn ; was gleichwohl der Natur des Körpers widerspricht. Die Theilbarkeit des Körpers ist also endlich ; und ein Körper kann nicht weiter getheilt werden , als er Theile hat. Die letzten Theile des Körpers müssen aber immer noch ausgedehnt seyn ; was nicht ausgedehnt ist , ist nichts; alles, was exis skirt,
+
+[p. 839] Tais.
+
+stirt, ist demnach ausgedehnt ; nur daß der letzte Grad der Ausdehnung Einfachheit ist. Den mathematischen Punct objectiv genoma menmußte sich also More als einen absolut untheilbaren physischen, wiewohl immer noch ausgedehnten , Punct vorstellen. More leugnete inzwischen nicht , daß auch ein angenommener letzter Punct noch immer in Gedanken eine Theilung zulaffe; aber dies se erklärte er bloß für logisch möglich , nicht für reell.
+
+Eine reelle kann sie nicht seyn , weil die Ausdehnung niemals aus der Nicht ausdehnung entspringen kann , so wie Nichts mit Nichts multiplicirt ewig Nichts bleibt ; und die Materie immer nur so weit sich wirklich theilen läßt , als sie wirklich Theile har , und ein wirklicher Theil bleibt ſtets ein Ausgedehntes. Daß dieser Beweis des More, die logisch migliche unendliche Theilbarkeit könne keine wirkliche seyn, nicht treffe , erhellt schon daraus , daß die unende liche Theilbarkeit der Ausdehnung statt finden kann, ohne daß diese je zur Nichtauss dehnung werde ; denn jene besteht eben
+
+Darin , daß die Ausdehnung , auch wenn man in's Unendliche theilt, doch nie zur
+
+Nichtausdehnungwerden kann, Damit alſo , daß aus der Nichtausdehnung nie die Aus. dehnung werden kann , ist die unendliche Theilbarkeit der leßtern nicht widerlegt. Die Metaphysik des More kann auch ein merkwürdiges Beyspiel abgeben , zu welchen Ungereimtheiten die Lehre von der objectiven Existenz des Raumes fahren könne,
+
+R [p. 840] ne. Uebrigens herschen dieselben Grundsätze in More's Schriften : Antidote against Atheism , und on the immortality of the foul, ausser daß sie hier in besondern Beziehungen angewandt sind. In dem Antidote hat er besonders die teleologischen Grunde fär das Daseyn Gottes ausgeführt , da dieses Werkchen für das große Publicum bestimt war. In der andern berührt er auch die Lehre von dem Urs sprange und der Natur der Erkentniß. Er dachte hierüber in der Hauptsache einstimmig mit seinem Collegen Cudworth und mit Plato.
+
+Der Seele legte er eine fagacity den , ein Aufspärungsvermogen (wie es Hr. Tiedemann übersetzt Geist der specul. Philos. B. V. S. 508) , wodurch sie bey den Eindrücken äusserer Gegenstände ich die allgemeinen Begriffe vergegenwärtigt; so wie ein schlafender Musiker keine Idee von einer Musik gegenwärtig hat , aber wenn manthn weckt , und mit ein paar More ten an eine Melodie exinnert , sich diese Melodie vergegenwärtigt und ste auf seinem Instrumente spielt. Auch die Existenz der Thierseelen vertheidigte more gegen Des Cartes. Die Vögel horchen auf Musik. Hunde und Pferde fürchten sich vor Drohungen, und werden dadurch bezähmt. Ein Hund, der gestolen hat , versteckt sich. Als le diese Erscheinungen bey den Thieren kons nen nicht bloß Wirkungen von Maschinen seyn. Die lateinische Ueberseßung jener englischen Schriften des More und einiger r andes [p. 841] anderer, die ebenfalls ursprünglich englisch verfaßt waren, steht im zweyten Bande seis ner Opera.
+
+§. 1025. Wir haben von More auch ein Enchiridion Ethicum, worin er die Moralphiloso. phie nach seiner Ansicht dargestellt hat, und das an der Spike seiner Werke steht. Sein
+
+Princip des Sittlichen ist dasselbe mit dem Cudworthischen; nur hat er in die Ausführung desselben mehr cabbalistische Ideen hin eingewebt , und die Cartesianische Theorie von den Leidenschaften , wiewohl auf eine ihm el.
+
+genthumliche Art, in sein System aufgenommen. Er erklärt die Ethik als die Wis.
+
+senschaft gut und glucklich zu leben. Denn es ist ein Unterschied zwischen der Vollkommenheit (Gute) der menschlichen Na.
+
+tur, und einem glucklichen Leben; das letzte ist der Inbegriff der menschlichen Handlungen, deren Gute zwar von der Tugend abhängt, die Erreichung des gewünſchten Zweckes aber auch von äuſſern Glucksumständen; und die Ethik soll auf beyde , Tugend und Glückseligkeit, gerichtet seyn. Da bey einem vernünftigen Wesen die Tugend allein zur Glückseligkeit führt, und , wenn auch die aus fern [p. 842] fern Guter nicht in unserer Gewalt stehn , Doch die Bedingung des Gebrauchs derselben, und folglich das Mittel zur wahren Gluck. seligkeit ist , so hat die Ethik zwen Haupt.
+
+gegenſtände: die Erkentniß der wahren Glückseligkeit und die Erwerbung dersel.
+
+den. Die Glückseligkeit ist die Lust (voluptas), welche das Gemuth durch das Bewußt.
+
+seyn der Tugend und moralisch guter Handlungen empfindet. Sie ist nicht sinnliche Wohllust , nach welcher die Thiere streben, son. dern eine solche , die der Natur eines ver.
+
+nünftigen Wesens angemessen ist , und der Zweck desselben seyn kann. Die Tugend aber ist eine intellectuale Kraft (intellectualis vis, nicht habitus) der Seele, wodurch sie die thierischen Eindrucke oder körperlichen Leidenschaften (impreſſiones animales five paſſiones corporeas) so beherscht, daß sie in ihren Handlungen nur danach strebt, was absolut und schlechthin das Beste ist. Es giebt ein absolutes natürliches Gute, das durch den bloßen Verstand erkannt wird , und göttli chenUrsprungs ist, und in welchem zugleich die Höchste Glückseligkeit besteht. Die Leiden . schaften sind heftige Sensationen der Seele, die im Körper ihren Grund haben , sich auf die Seele selbst beziehen , und mit einer aus Ferordentlichen Bewegung der Lebensgeister verbunden sind.
+
+Sie lassen sich nach dem Car
+
+[p. 843] Cartesius auf folgende sechs zuruckfuhrent Bewunderung, Liebe , Haß, Sehnsucht , Freude, Traurigkeit.
+
+Diese Leidenschaften sind für den Menschen von mannichfaltigem Nu-
+
+Hen. Sie bewirken und erhalten die Thätigkeit der thierischen Säfte des Körpers, und verhindern eine Stocdung derselben; sie bieten der Seele gleichsam mannic faltige Sce nen dar, und reizen sie dadurch , ihre Kraf te zu üben; sie geben Veranlassung , daß die Seele ihr Vermögen der Herrschaft über den Körper, und eben dadurch ihre eigene edlere Matur wahrnimt. Auf der andern,Seite können sie aber auch , wenn sie die Herrschaft über die Seele gewinnen, von den nachthei. ligsten Wirkungen für die Tugend und Gluck. seligkeit des Menschen seyn. More entwi. ckelt nun sehr umständlich die Natur der Leidenschaften, ihre Mischungen , und die verschiedenen Unterarten derselben. Das Princip der Beherschung der Leidenschaften ist die Vernunft; was diese , wenn sie gesund und unverderbt ist , als gut oder böse erkennt, ist von Natur gut oder böſe. Sunt enimcertae quaedam fixaeque Boni et Mali notiones vel ideae, quas affectus non magis definit , quam Sensus figuras mathematicas , fed vtrasque Ratio et Intellectus circumfcribunt; vnde patet, principium illud , quo BonumMalumque dijudicatur, intellectuale eſſe et [p. 844] et quodammodo divinum (Enchir. Eth. lib. I. cap, 12. p. 38). Die Tugenden scheidet More in Grundtugenden (primitivas) und abgeleitete (derivativas). Du jenen gehören die Blugheit (prudentia), die der Bewunderung, die Redlichkeit (finceritas), die der Beglerde , und die Geduld , (patientia), die dem leidenschaftlichen Aufbrausen entgegen.
+
+steht. Zu den abgeleiteren gehören dieGe rechtigkeit (justitia) Standhaftigkeit (fortitudo) und Mäßigkeit (temperantia). Aufser diesen giebt es noch mehrere einzelne Tugenden, die More, weil sie sich aufjene zi ruck bringen lassen , virtutes reductitias nennt. More sucht mit seinen moralischen Begrif.
+
+fen auch den Aristotelischen von der Tugend zu vereinigen, und erklärt sich auch über das
+
+Verhältniß, worin die äussern Glücksgüter zu der Tugend stehn, worin er ebenfalls dem Aristoteles folgt. Den zweyten Hauptabschnitt der Ethik , welcher die Erwerbung der Tu gend betrifft, hat er ungleich fürzer , als den erster , abgehandelt. Ein nothwendiges Er. foderniß dazu ist die Freyheit (liberum arbitrium). More argumentirt hier gegen zwey berühmte Einwürfe , die gegen die Freyheit gemacht worden. Der erste ist : daß sie sich nicht mit der Allwissenheit Gottes vertrage. Er antwortet : Die göttliche Alwissenheit kann die Dinge nur erkennen, wie sie sind,
+
+[p. 845] Die zufälligen und freyen als zufällig und frey , die nothwendigen als nothwendig. Das
+
+Vorauswissen zufälliger Handlungen enthält entweder einen Widerspruch oder nicht. Im erstern Falle können zufällige Handlungen nicht Gegenstände der göttlichen Alwissenheit seyn, und folglich auch nicht als durch diese Determinirt betrachtet werden ; im andern Falle sind die göttliche Alwissenheit und die Freyheit sehr wohl mit einander verträglich. Man sieht leicht , daß die Schwierigkeit durch diese Argumentation nichts weniger als gehoben ist ; denn wenn Gott die zufälligenHand.
+
+lungen eben so voraus weiß, als die noth wendigen, so sind jene als zufällig und diese als nothwendigimmer im göttlichen Verstande determinirt.
+
+More hatte zeigen müssen, daß
+
+Gott die freyen Handlungen nicht voraus wissen könne, eben weil sie frey seyen, wenn er aus der Natur der göttlichen Allwissenheit das obige deterministische Argument wider.
+
+legen wollte; und dies zu zeigen ist unmöglich , weil es dem Begriffe der göttlichen Allwissen. heit selbst widerspricht. Der andre Einwurf ist : So oft oder so lange Jemanden etwas ein Gut oder das Beste zu seyn scheint unter gewissen Umständen, wird nothwendig sein Wille dazu determinirt , weil gar kein Grund oder keine Ursache vorhanden ist , die ihn daBuhleGesch. d. Phil, 6,Th. ateHalfte, b von [p. 846] von zuruckhielte, oder seine Thätigkeit suspen. dirte. Denn da der menschliche Wille so eingerichtet ist, daß er nach der Beschaffenheit der Motive sich hier oder dorthin neigt; so scheint es unmöglich , daß er nicht dahin
+
+ſich neigen sollte, wohin ihn ein Motiv treibt, da kein entgegengesetztes Motiv vorhanden ist , welches jenem das Gegengewicht hielte. Der Wille wird also überhaupt immer durch die Vorstellung eines größern Guts , oder eines Guts überhaupt, determinirt werden; woraus denn fließt , daß der Mensch keine Freyheit habe, sondern daß er immer noth wendig so hat handeln müssen, wie er gehan. delt hat. Diesen Einwurf hebt More durch die Bemerkung , daß die Willensbestimmung gar nicht von der bloßen Erkentniß des Cuten ollein abhange; und daß die Einrichtung des menschlichen Willens überhaupt nichts weniger als eine solche sey , daß das erkannte Gute nothwendig von ihm gewollt werden mußte. Den Beweis für diese Bemerkung liefert die Erfahrung, indem der Mensch zu nichts mehr der Ermahnung bedarf, als zur Tugend und zum Studium der Weisheit. Auch ist die menschliche Freyheit nicht,sowohl in der Wahl der Handlingen und ihrer Zwecke zu suchen, als vielmehr in der Ueberlegung, die so geleitet werden muß, daß der Mensco 油
+
+[p. 847] ' sich nur zu demjenigen entschließt, was er als den besten Zweck seiner Thätigkeit einſieht. Ueber More's Lehre von der Freybeit S. Enchirid. Ethic, Lib.III cap. 1. fq. Opp. T. 1. p. 67.
+
+Geschichte
+
+## Zwen und zwanzigster Abschnitt
+
+[p. 848]
+
+### Geschichte der Philosophie vom Leibniz bis auf Wolf.
+
+i Opera quae extant Newton Quellen:a Isaac enta riis illuftravit Sam. HOTSomni . Comm ley L. L. D. R. S. S. Rev, adm. in Chr.
+
+Patri. Roberto Epise. London 1779-85. Voll. V; 4. Hierher gehören besonders :
+
+Philoſophiae naturalis principia mathematica. Diese kamen zuerst zu London 1687. 8 und hernach zu Cambridge 1713. 4; zu
+
+Amsterdam 1714 und 1723 heraus. des ner: Optice , five de reflexionibus , refractionibus , inflexionibus et coloribus lucis libri tres. Latine reddidit Sam, Clarke;
+
+[p. 849] ke; accedunt ejusdem Auctoris tractatus duo de ſpeciebus et magnitudine figurarum curvilinearnm , latine ſcripti , Londin, 1707. 4. 1719. 4. Englisch London 1704. Opuscula mathematica , philoso 4.
+
+phica et philologica, collecta , partimque latine verſa ac recenfita a loanne Ca-
+
+ſtillionco; Lauſannae et Genevae 1744. IV Voll. 4
+
+Gothofredi Guilielmi Leibnitii Opera omnia nunc primum collecta, in classes diftributa , praefationibus et indicibus ornata, ſtudio Ludovici Dutens ; Tomi VI. Genevae 1768. 4. Der erste Band enthält:
+
+Opera theologica; der zweyte : Logicam, Metaphysicam, Phyficamgeneralem, Chymiam , Medicinam , Botanicam , Hiſtorie am naturalem , Artes ; der dritte : Opera mathematica ; der vierte: Philoſophiam in genere et opuscula Sinenfes attingentia; Hitoriam et Antiquitates , Inrisprudentiam; der fünfte: Opera philologica; der sechste: philologicornm Continuationem et Collectanea etymologica. -Оель vres philosophiques latines et françoiſes de feu Mr. Leibniz , tirées de fes manufcrits, qui ſe conſervent dans la Bibliotheque royale à Hannovre, et publiées par Mr. Rud. Erich. Raspe. Avec une preface de
+
+Mr. Kaeftner ; à Amſterdam et à Leipzig 1765. 4. Diese Sammlung enthält folgen= de sechs Stucke , welche , weil sie kurz vore her herausgekommen waren , nicht in die
+
+Du
+
+[p. 850] Dutens'sche Ausgabe aufgenommen worden sind : 1) Nouveaux eſſaysfur l'entendement humain; 2) Examen du Sentiment du P. Malebranche , que nous Toyous sous en Dien; 3) Dialogus inter res et verba; 4) Difficultates quaedam logicae; 5) Discours touchant la methode de la certitude et l'art d'inventer; ; 6) Hiſtoria et commentatio characteriſticae vniverſalis , quse simul fit ars inveniendi. - Gottfried Wil belm Leibnizens philosophische Werke , nach
+
+Raspe'ns Sammlung , aus dem Französischen , mit Zusätzen und Anmerkungen von Joh. Seine. Sriedr. Ulrich. Halle 1778 -80. 2 Bände, 8. - Eſſay de Theodicée ſur la bonté de Dieu, la liberté de l'homme , et l'origine du mal. Par Mr. Leibniz; à Amſterdam 1710, 1714. 1720,
+
+8. Lateinisch zu Frankfurt 1719. 2 B. 8.
+
+Deutsch mit Sontenene's Lobschrift auf Leibniz , von Joh. Christoph Gottsched ;
+
+5te Auflage ; Hannover und Leipzig 1763. 8. - Des von Leibniz Lehrsätze über die
+
+Monadologie , imgleichen von Gott und seiner Existenz , seinen Eigenschaften , und von der Seele des Menschen.
+
+Aus dem Frans zdfischen vonJob. Heinrich Böbler ; Frankfurt 1730. Neu aufgelegt von I. C. Hutb. Ebendas. 1740. 8. A collection of papers , which paſſed between the late learned Mr. Leibnitz and Dr. Clarke, in the years 1715 and 1716, relating to the principles of natural philosophy and religion, By Sam, Clarke; London1717.8. Deutsch:
+
+Deutsch: Merkwirdige Schriften, welche auf Befehl der Kronprinzessinn von Wallis zwischen Leibniz und Clarke über besondere Materien der natürlichen Religion iu französischer und englischer
+
+Sprache gewechselt worden. Uebers ht und mit einer Vorrede von Chest. Wolf hers ausgegeben von Job. Heinr. Röbler : Frankfurt 1720. 8. = Leibnizii principia more geometrico demonftrata , cum excerptis ex epiftolis philosophi et ſchollis quibusdam exhiftoria philosophica (aucto-reMich. Gottl. Hanfchie); Francof, et Lips. 1728. 4. - Esprit de Leibniz ou Recueil des penſées choiſies ſur la Religion , Ja Morale , l'Histoire , la Philoſophie cet extraites de toutes ſes oeuvres latines et francoises ; a Lyon, 1772. 2 Tomes. 8. Deutsch; Geist des Hrn, von Leibniz, oder auserlesene Gedenken über die Reltz gion , Moral , Sprachen und Geschichte , aus allen seinen Werken zusammengetragen, Aus dem Franzöſiſchen (von Leop. Ludw.
+
+With. Brunn) ; Wittenberg und Zerdst 1774-1777 ; 4 Theile 8 . The works of lohn Locke; edit. II ; London 1722. Voll. 3.fol. An essay concerning human underſtanding in four books. Written by John Locks; the tenth edition with large additions; London
+
+1731. Voll. II. 8.
+
+London 1793. 8.
+
+Die erste Ausgabe erschien zu London 1690. - Notes and annotatious on Locke on hhh 4 the [p. 852] the human underſtanding , written by order of the Queen; correſponding in ſection and page with the edition of 1793. By Thomas Morell D. D. Rector ofBuckland; London 1794. 8. -Effayphilofophique concernant l'entendement humain, ou l'on montre, quelle eſt l'etendue de nos connaillances certaines et la maniere, dont nous y parvenons; traduit de IPAnglois de Mr. Locke, par Mr. Cole für la quatrieme edition revue , corrigée
+
+Let augmentée par l'auteur; à Amſterdam 1700. 4. Edit. 5. ibid. 1750. 4. Diese Uez bersetzung ist unter Locke's Aufsicht ges macht , und hat in Ansehung der Klarheit des Ausbrucks vor dem Originale manche
+
+Vorzuge. Eine lateinische Uebersetzung von * Burridg erschien zu London 1702 , und wurde wieder abgedruckt 1709 zu Leipzig und 1729 zu Amsterdam. Eine neuere und bessere aber ist folgende: Ioannis Lociii, Armigeri , libri IV de intellectu humano , denuo ex noviſſima editione idiomatis anglicani longe accuratiori in puriorem ſtylum latinum translati; praefixa sunt huic editioni auctoris ſcripta et vita nec non elenchus capitum cura Gotth. Henr. Thiele; Lips. 1741. 8. - Deutsche Uer bersetzungen sind drey vorhanden ; eine ältere: Locke's Versuch über den mensche lichen Verstand , von S. Engelh . Poleyen, mit Anmerkungen , Altenburg 1757: 4, die wegen der Gottschedianischen Schreibart und zwey neuere Tiss von unlesbar ist
+
+[p. 853] Tittel , und von Tennemann.
+
+Die letztere (Leipzig 1796. 97. 3 Theile. 8) , ebenfalls mit Anmerkungen versehen , ist die beste. - Von Locke sind noch besonders zu bemerken ; Thoughts on education: By John Locke; anew edition; London 1732.8. Französisch zu Amsterdam 1705. 8. Deutsch zuHannover 1792. 8. und von C. F. G. Xudolphi ; Braunschweig 1788.8. Die letztere Ueberseßung ist auch in das Campische Revisionswerk des Ere ziehungswesens eingericht.
+
+Ademonstration oftheBeingandAttributes of God; more particularly in answer to Mr. Hobbes
+
+Spinoza , and their followers , wherein the notion of liberty is ſtated, and the possibility and certainity of it proved in oppoſition to necessity and fate. By Samuel Clarke ; London 1706, 8. Lateinisch Altdorf 1713. 8; Deutsch Medicina zu Braunschweig 1756. 8. mentis, five artis inveniendi praecepta generalia. (Auctore Tschirnbaufen). Edit.
+
+nov. auctior. Lips. 1695.4. - Andreac
+
+Ridigeri de ſenſu veri et falsi libb. IV. Edit. alt, auct. Lips. 1722. 4. Cbri stian Thomasen's Einleitung zu der Vera nunftlehre u. w. Vierte Auflage. Halle 1711. 8. - Ebendess. Ausübung der Vernunftlehre Halle 1710. 8. - Christiani
+
+Thomafii Inſtitutionum jurisprudentiae divinae libri III, in quibus fundamenta juris naturalis secundum hypotheſes ill. Puffendorfit perspicue demonftrantur et ab hhs ob.
+
+objectionibus diſſentientium potissimum D. Valent. Alberti Prof. Lips. liberantur;
+
+fundamenta itidem juris divini poſitivi universalis ex jure naturali diſtincte ſecernuntur et explicantur; Francof. et Lips. 1688. 4. Deutsch Halle 1702. 4 Ejusdem Fundamenta juris naturae et gene tium ex sensu communi deducta ; edit. Ebendess. Von der Halae 1718. 4.
+
+Kunst vernünftig und tugendhaft zu lieben , oder Einleitung zur Sittenlehre u. w. Halle
+
+1710. 8. - Ebendess, Von der Arzney wider die unvernünftige Liebe , oder Ause übung der Sittenlehre u. w. Halle 1704. 8. - Ejusd. De crimine Magiae Dissertatio; Halae 1701. 4. Deutsch ; Halle 1703.4. Ejusd. de origine proceſſus inquiſitorii contra ſegas; Halae 1712. 4. Zu den Quellen der Geschichte der Philosophie in dieser Periode müssen auch folgende kritische Journale, die damals ers schienen, gerechnet werden : lournal des
+
+Scavans à Paris. Dieses wurde angefangen pon Sallo 1665. 4. und seit 1684 auch in
+
+12. sowohl zu Paris als Amsterdam. Bey der letztern Ausgabe befindet sich auch ein Auszug aus den Memoires de Trevoux und andern auswärtigen Zeitschriften. Dieses Journal hat erst 1792 aufgehört , nachdem es sich über hundert Jahre erhalten hatte. Seit dem Anfange des Jahrs 1797 wurde es zu Paris auf's neue fortgesetzt von le Camus und Baudin. Im J. 1753 hat [p. 855] hat Andr. Declaustre ein Realregiſter dar über herauszugeben angefangen : Table generale des matieres contenues dans le
+
+Journal des Scavans depuis Panne 1665 jusqu'à 1750; à Paris 1765. 2 Voll. 8. - Nouvelles de la Republique des lettres (angefangen von Bayle) Amſterd. 16841717. 12. Hiſtoire des Ouvrages des
+
+Scavans par Mr. B ** (Basnage); Rotterdam 1687-1709. 12.
+
+Memoirespour l'hiſtoire des ſciences et des beaux arts.
+
+Acta EruditoA Trevonx seit 1701. ram (angefangen von Otto Mencke) Lips. 1682-1731 mit 10 Supplementbänden. NovaActa Eruditorum Lips. 1732-1773 mit 8 Supplement und 6 Registerbänden. Acta philosophorum , das ist : Grundliche
+
+Nachrichten aus der Historia philoſophica , nebst bengefügten Urtheilen von den dahin gehörigen alten und neuen Büchern, (Von
+
+Cbr. Aug. Seumann) halle 1715-1723+ r
+
+Achtzehn Stucke in 3 Bänden 8.
+
+Neuere Werke und Sülfsmittel: Phyfices elementa mathematica experimentis confirmata , ſive introductio ad philosophiam Newtonianam, Autore Guilielmo Grave.
+
+Sande; Lugd. Bat. 1719-21; Tomi II.
+
+Elemens de laphilofophie de Newton , mis à la portée de tout le monde, par Mr. 8.
+
+Voltaire ; à Amſterdam 1738. 8. Nouvelle edit. Lausanne 3773.8 - La Metapbyfique de Newton , ou parallele des ſentimens de
+
+Newton et de Leibnitz , par Mr. Voltaire; àAm-
+
+[p. 856] àAmſterdam 1740.8. Bende Schriften Voltaire's stehn auch in dessen sämtlichen Werken, Vergleichung der Leibnizischen und Newtonischen Metaphysik , wie auch verschiedener anderer philosophischer und mathematischer Lehren beyder Weltweisen, angestellet und dem Hrn. von Voltaire entgegengesetzt von Ludw. Martin Bahle ; Göttingen 1741. 8. - Franzöſiſch: à la Haye 1747. 8. - Effaisd'une conciliation dela metaphysique de Leibniz avec laphysiquede Newton, par Mr, Beguelin; inden Memoires de l'Academie de Berlin a. 1766.
+
+Deutsch in: Hißmann's Magazine für die Philosophie und ihre Geschichte B. V. S. 160 - A view of Newton's philosophy. By Henr. Pemberton; London 1726.4.-Elogio del Cavaliere Ifaaco Newton (da P. Frifi); Milano 1773. 8 — -1. H. van Schwirden Oratio de philosophia Newtoniana; Franeq, 1779.4. - Philoſophiae naturalis theoria redacta ad vnicam legem virium in natura exiſtentium. Auctore P. Rogerio Boscowich S. I. Viennae 1758.4.
+
+Ausführlicher Entwurf einer vollständigen Historie der Leibnitzischen Philosophie. Zum Gebrauch seiner Zubdrer here ausgegeben von Carl Gunther Ludovici ; Leben des Leipzig 1737. 2 Theile 8. Hrn. von Leibnis , von Lamprecht; Berlin 1740 8. - Geschichte des Hrn. voR
+
+Leibniz. Aus dem Französischen des Rite ters von Jaucourt ; nebst einigen Anmerkungen;
+
+[p. 857] kungen; Leipzig 1757. 8. -Elogede Leibniz , qui a remportéle prix de l'academie de Berlin; par Mr. Bailly ; 1769. 4. Lobschrift auf Gottfried Wilhelm Frey herrn von Leibniz ; in der königl. teutschen Gesellschaft zu Göttingen vorgelesen von Abraham Gotthelf Rästner ; Altenburg
+
+1769. 8.
+
+Versuch über das Leben
+
+Leibnizens. Von Mich. Hikmann ; MinLeben des Freyherrn von fter 1783.8. Leibniz; in A. Blein's Leben und Bilde nißen der großen Teutschen B. I.
+
+Lebensbeschreibung John Lockii; in
+
+Beumann's Act. philos. P. VI. p. 975.
+
+Leben und Schriften des Engländers John Ueber Tschirne Locke; Halle 1755. 8. hausen's Verdienst um die Philosophie ; in
+
+Fülleborn's Beyträgen zur Gesch. d. Philos.
+
+St. V.
+
+Philosophie.
+
+Ueber Christian Thomasius
+
+Mit Auszügen aus seinen philosophischen Schriften. Ebendas. St.
+
+IV.
+
+Eine treffliche Lebensbeschreibung des Christian Thomasius hat Schrödb ges liefert : Algem. Biogr. Th. V. p. 266 ff.
+
+Bayle Dict, crit. et hist. - Bruckeri
+
+Hist. crit. philos. T. IV P. 2. - Agatopiſto Cromaziano kritische Geschichte der
+
+Philosophie in den drey letzten Jahrhunderten (übers. von Heydenreich) B. II. Graudlin's Geschichte und Geist des Skepticismus B. II. - W. L. G. Freyherru von Eberstein Versuch einer Geschichte
+
+Der Logik und Metaphysik bey deu Deutschen [p. 858] von Leibnitz bis auf gegenwärtige Zeit. B. 1. (Halle. 1794) - Tiedemann's Geist Der specul. Phiios. B. VI.
+
+§. 1026,
+
+Gegen das Ende des siebzehnten und im Anfange des achtzehnten Jahrhunderts trat eine Reihe von Männern auf, die mit gemein schaftlichem Wetteifer die Fackel der Auskla rung noch höher emporhoben, als ihre Vor-
+
+& gänger. Insbesondre wurden die Mathematik und Kosmophysik durch ihre Bemühungen weit über die alten Grenzen hinaus angebaut und vervollkomnert. Auch die Philosophie verdankt ihnen einen hohen Gewinn , wenn die ser gleich , nach der Natur der Wissenschaft, von anderer Art und problematischer war , als den jenen Disciplinen. Vor allen durch sein Verdienst um Mathematik und Kosmophysik glänzte Isaak Newton. Er wurde gebob. ren im J. 1642 zu Cambridge aus einem alten edeln Geschlechte.
+
+Das große Genie, daß in ihm thronte, verrieth sich schon in sei nem Knabenalter , in welchem er bereits die
+
+Werke des Euklides, des Des Cartes ,
+
+Reppler, Wallis u. a. studirte, und selbst durch diese zu eigenen mathematischen Erfindungen veranlaßt, wurde. Sein sehrer in der Ma
+
+Mathematik war Isaak Barrow. Im J. 1667 erhielt er die Magisterwurde , ward Mitglied des Trinity College, und bald darauf Professor der Mathematik zu Cambridge. Weil Newton in Ansehung seiner wissenschaftlichen Bildung den Knaben ganz vere leugnet hatte , so pflegte man ihn mit dem Nil in Aegypten zu vergleichen , von dem man eben so wenig wisse, wie er ein so gro.
+
+her Strom werde, als vom Newton, wie er sich seine bewundernswürdigen Einsichten so früh erworben habe. Man wandte den Vers des Lucan auf ihn an: Non licuit populis parvum te, Nile, videre. Im J. 1688 ward Newton im Namen der Universität zu
+
+Cambridge Mitglied des Englischen Parlaments , und hielt sich als solches gewöhnlich zu London auf. Er war einer der ersten auswärtigen Gelehrten , welche die Akademie der Wissenschaften zu Paris unter ihre Mitglieder aufnahm, und die Akademie der Wis. senschaften zu London erwählte ihn zu ihrem Präsidenten , welche Ehrenstelle er auch bis an seinen Tod bekleidete. Als Statsmann erhielt er die oberste Aussicht über das englische Munzwesen; eine Stelle, die ihm sehr einträglich war; daher er auch ein ansehnliches Vermögen hinterließ. Neben seinen bür. gerlichen und politischen Geschafften arbeitete er mit ausserordentlicher Anstrengung als Schrift
+
+[p. 860] Schriftsteller , und man muß seinen Fleiß und Die Spannung seiner Geisteskräfte bewundern , wenn man nur einigermaßen eine Idee davon hat, was zur Hervorbringung von Werken der Art gehört , wie er sie lieferte. Ungeachtet dieser Anstrengung erreichte er den noch ein Alter von fünf und achtzig Jahren.
+
+Er starb an den Folgen einer Urinverhaltung im 1727. Sein Leichenbegängniß war höchst achtvoll.
+
+Die Lords des Oberhauses tru gen den Sarg auf ihren Schultern zum Gra be, und seine Asche ruht ist in der Westmin.
+
+terabten neben den Ueberresten der Könige und der größten Männer seiner Nation. Wir haben eine Lebensbeschreiburg Newton's von einem Ungenannten: The life of
+
+Isaac Newton; London 1728. 12; ferner eine schöne Lobschrift auf ihn von Fonte: nelle , die in dessen Werken (T. III) steht, und in's Englische übersetzt ist. Schwerlich hat es je einen Gelehrten , und vollends einen Philosophen gegeben , dessen Ruhm so ausgebreitet , und dessen Verdienst so einstimmig anerkannt worden wäre , wie es bey Newton der Fall war. Die Engländer haben ihn nicht nur während seines
+
+Lebens , sondern auch bis ihr , als Theil der Nationalehre betrachtet.
+
+Die Ursache hiervon lag hauptsächlich darin , daß seine großen Erfindungen entweder selbst mathematische waren, oder , sofern sie die Kose mophys mophysik betrafen , doch sich auf mathematische Grunde stützten , und daher apodiktische Gewißheit und Evidenz hatten , die. ihnen einen bleibender - Werth , und ihrem Urheber einen bey seinen Zeitgenossen und der, Nachwelt dauernden Kuhm berschafften.
+
+Hätte Newton ein neues
+
+System speculativer Philosophie aufgestellt, so wurde sein Ruhm eben so schwankend und transitorisch , und das Urtheil über sein Verdienst eben so verschieden gewesen seyn, wie bey andern Philosophen , die neueGes baude der Speculation errichteten. Zur richtigen Würdigung seines Verdienstes, und um hier nicht in die , besonders den Eng= ländern , gewohnliche Uebertreibung zu fallen, muß man auch gar sehr darauf Rücke sicht nehmen , was Newton's Vorgänger! und Zeitgenossen im Felde der Kosmophysik und hähern Mathematik geleistet haben, wodurch seine eigenen Entdeckungen vorbereitet und erleichtert wurden.
+
+Newton's
+
+Werke fanden bey den Engländern und auch bey den Ausländern viele Kommentatoren, welche die Resultate derselben popularisire ten , und das große Publicum , sogar die Damen , damit bekant machten.
+
+§. 1027. Die Erfindungen Newton's sind mehe Gegenstände der Geschichte der Mathemati
+
+[p. 862] ſchen Disciplinen und der Physik , als der Geschichte der Philosophie. Hier will ich nur seine Theorieen der Schwere und des Lichts und der Farben im Allgemeinen berühren. Im J. 1666 wüthete eine tödliche Seuche in London und der umliegenden Gegend, und New ton begab sich deshalb nach seinem Geburts. onte Cambridge. Einst sah er Früchte von den Bäumen fallen , und ward dadurch ver.
+
+anlaßt , über die Ursache des Falles derselben nachzudenken. Er schloß auf eine Kraft, welche diesen Fall bewirken musse ; und da die Erfahrung zeigt, daß dieselbe zwar überall wirksam ist , aber doch stärker oder ſchwächer, je größer oder geringer die Entfernung des fallenden Körpers vom Mittelpuncte der Erde ist: so versekte er jeneKraft in den Mittelpunct
+
+Der Erde als Anziehungskraft , oder in Beziehung auf die Körper, die angezogen wer. den, als Centripetalkraft oder Schwere. Newton schloß weiter , daß diese Kraft nicht bloß auf die Oberfläche der Erde eingeschränkt seyn könne, sondern sich über die ganze Ath mosphäre ausdehnen müsse bis zum Monde ; Da die Bahn des Mondes als Trabanten der
+
+Erde nicht in demselben Verhältniße zu dieser bleiben wirde , wenn nicht die anziehende Kraft der Erde oder die Mittelpunctstrebende Kraft des Mondes dieses bewirkte. Indeßen kann die Schwerkraft nicht die einzige seyn, welche das [p. 863] das Verhältniß des Mondes zur Erde bestimt, well, wenn sie die einzige wäre, der Mond in gerader Linie auf die Erde herabfallen wurde. Newton schloß also noch auf eine andere der
+
+Schwere entgegengesetzte Kraft, die sogenannte Centrifugalkraft, durch die der Mond in einer der Schwere entgegengesetzten Richtung gehalten und am Fallen gehindert wird. So deruht die elliptische Bewegung des Mondes um die Erde auf zwey entgegenstehendenKräf ten, der Centripetal- und Centrifugalkraft, von denen jene den Mond zurückhält, daß er sich nicht in den unendlichen Raum verliert, diese, daß er nicht auf die Erde herabsturzt, sondern in seiner elliptischen Laufbahn beharrt.
+
+Zwischen der Mittelpunctfliehenden und Mittelpunctstrebenden Kraft ist der Unterschied , daß die Geschwindigkeit der erstern gleichför mig, hingegen die Geschwindigkeit der leste ren veränderlich ist nach Beschaffenheit der Massen und der Entfernungen. Eben jene Grundkräfte bestimmen nun auch die elliptischen Bahnen der Monden des Jupiter und des Saturn um diese Planeten , der Erde mit den übrigen Planeten um die Sonne, und der Sonne um ihren eigenen und den gemeinschaftlichen Schwerpunct. Nachdem New ton auf diese Weise die Gesetze der Bewegung unsers Sonnensystems aus dem gegenseitigen
+
+Verhältniße der Centripetal und Centrifugal kräfte [p. 864] kräfte erklärt hatte; so wandte er eben diese Erklärungsart auf das Universum an, so weit es nur ein Gegenstand unserer Anschauung ist. Wie der Mond von der Erde , und die Erde nebst den Planeten von der Sonne an gezogen werden; so wird wiederum die Sonne und unser ganzes Planetensystem von dem Sternensys.eme angezogen, und dieses von je nem. Alle Himmelskörper also ziehen einan Der an , und werden von einander langezogen, nach Beschaffenheit ihrer Massen und Entfernungen. Es gilt hier aber ein Recht des Stärkern, wie unter den Völkern der Erde.
+
+Die Theilchen , aus denen die einzelnen Himmelskörper zusammengesetzt sind , drucken sich wechselseitig über dem gemeinschaftlichen Schwerpuncte , und auf gleiche Weise drücken sich die Sonne und die Plansten wechſelseitig, und das Sonnensystem und die Sternensyste me. So setzte Newton die allgemeine Schwere zur Beherscherinn der irrdischen und himlischen Natur ein, und entwickelte weiter die Regeln, nach denen sie mit despotischem Scepter regiert. Newron begegnete auch den Schwierigkeiten, welche mit seiner Theorie verbunden zu seyn schienen , und welche die bisherigen Kosmophysiker und Astronomen sich zu lösen vergeblich bemüht hatten. Er zeigte, wie die Abweichungen des Mondes , so wie die scheinbare Unordnung in den Bewegungen ver úbris bom Leibniz bis auf Wolf.
+
+übrigen Planeten eine nothwendige Folge der allgemeinen Gravitation waren.
+
+Eben so
+
+Flärse er aus seiner Theorie die Anticipation der Aequinoctien, die Nutation der Erde, Die kugelartige gegen die Pole zu abgeplattete Gestalt der Erde , die Ebbe und Fluth , die Lehre von den Kometen auf. Seine Entdekkung die Gestalt der Erde betreffend, die er auf seiner Studirstube aus theoretischen Grunden machte, wurde hernach durch absichtlich ange.
+
+stellte Messungen bestätigt, §. 1028.
+
+So wie Newton gewißermaßen die Lehre von den Himmelskörpern, ihrem gegenseitigen Verhältniße und den Gesetzen ihrer Bewegung ganz umgeschaffen hatte ; so leistete er auch dasselbe auf eine erstaunenswürdige Art in Ansehung der Theorie des Lichts. Er leitete in eine ganz dunkle Kammer durch eine Fleine Deffnung einen feinen Sonnenstrahl, ließ denselben durch ein Prisma gehen, und richtete ihn an die entgegengesetzte Wand. Der Strahl , ehe er durch das Prisma gegangen war, bildete einen cirkelrunden weißen Fleck;
+
+Hingegen, nachdem er durch das Prisma gegangen, bildete er einen mehr langen als bret Jiiz [p. 866] ten Fleck, in welchem sich mehrere Farben und Cirkel darstellten. Newton zog hieraus den
+
+Schluß, daß der durch das Prisma gegange. ne Strahl nicht mehr mit dem vorherigen
+
+Homogen sey ; sondern eine Sammlung an derer kleinerer Strahlen ausmache, die sich verschieden formten und colorirten. Das Ro the am untern Theile des Flecks war das weniger Brechliche; dann folgten das Orange, das Gelbe , das Grune , das Hellblaue, das
+
+Dunkelblaue , und zuletzt das Violblaue, welches das höchste und am meisten gebrochene war, ausser den andern unendlichen Stufen von Zwischenfarben unter den siebenHauptfar . den. Nach diesen und vielen andern Erfahrungen sekte Newton als Resultat fest : daß das Licht aus unendlich vielen Strahlen zu sammengesektsen , verschiedentlich brechbar und beſtändig colorirt, woraus die Farben und ihre unendlich mannichfaltigen Abstufungen entstehn. Newton entdeckte ferner eine an. dere merkwürdige Eigenschaft des lichts, die Reflexibilitär desselben. Vermöge dieser sind die mehr oder weniger brechbaren Strahlen auch mehr oder weniger reflectibel. Verschiedentlich reflectirt von den Gegenständen, die zur Reflexion verschiedentlich geschickt sind, geben sie diesen eine verschiedene Farbe. Durch neue Experimente zeigte sich weiter , daß sich das licht breche , ehe es voneinem Medium zum ane [p. 867] andern übergeht; daß es sich reflectire, ohne die Oberfläche der Körper zu berühren, von Denen man gewöhnlich glaubt, daß es zurück.
+
+geworfen werde ; daß selbst zuweilen in dem leeren Raume Reflexionen des Lichts erfolgen,
+
+Noch eine andere Eigenschaft des Lichts nahm Newton wahr , die sogenannte Diffraction oder Inflexion desselben , vermöge deren sich das Licht wenn es von einem Körper in seinem
+
+Laufe ausgehalten wird, von seiner geraden Linie ablenkt und zu diesem Körper hinneigt. Er zeigte zugleich , daß nicht die Körper mit vielen und weiten Poren durchsichtig seyen, wie man bis dahin meynte ; sondern daß im Gegentheile die Körper mit engen Poren den
+
+Durchschein verursachten. Da hier nun die Refrangibilität und Reflexibilität des Lichts entdeckt war; so gab dies Veranlassung, auf die Verbesserung der Teleskope zu denken, die schon bisher von Mehrern vergeblich versucht war , weilman die Natur des Lichts nicht gekannt oder verkannt hatte. Newton dachte darauf, ein Teleskop durch Reflexion auszuführen, wodurch die Abweichungen der Refraction des lichts gehoben wurden. Sehr berühmt ist das von ihm selbst verfertigte Teleskop , welches fünfFuß lang war, und doch alle andere von hundert und drey und zwanzig Fuß über. traf, und die Gegenstände größer und deutlicher zeigte.
+
+Er versuchte auch Miskroskope durch [p. 868] durch Reflexion des Lichts. Durch Newton's Theorie des lichts wurde übrigens auch der Ure sprungderFarbendesRegenbogens erklärt , worüber die ältern Physiker so mancherley Hypothesen ersonnen hatten, von denen keine befriedigend und erschöpfend war.
+
+§. 1029.
+
+So kuhne Schritte auch Neroton zur Erweiterung und Vervollkommung der Physik that, wobey er sich auf sichere Erfahrung ſtigen und rechnen und messen konte : so bescheiden und selbst furchtsam war er in Ansehung metaphysischer Untersuchungen. Was die Principien der Natur betrifft , so wagte en es nicht , das Wesen derselben zu bestimmen.
+
+Er blieb bey der Materie stehn , als dem letzten Gegebenen , und philosophirte über ih re Eigenschaften , Kräste, Wirkungen und die
+
+Verbindungen derselben, ohne nach dem We sen der Materie selbst zu fragen, da sich bier ses in der Erfahrung nie offenbart. Er forsch. te denGesehen nach', unter welchen sich die Anziehungskraft aussert, ohne sich auf die Untersuchung einzulassen , was diese selbst , oder wie sie möglich sey. Eben so wenig wagte erBes
+
+Hauptungen über die Natur des Lichtes an sich selbst.
+
+[p. 869] selbst. Aus seinem merkwürdigen Ausrufer Physik, hüte dich vor der Metaphy. sik! kann man schließen, daß er alle für die Vernunft mögliche wahre und brauchbare Erkentniß auf das Gebiet der Erfahrung einge. schränkt habe. Ueber die letzten Grunde der
+
+Erscheinungen bekante er offenherzig seine Unwissenheit, und war jedem metaphysischen Dogmatismus abgeneigt. Auch dies verräth Die gesunde Vernunft des großen Mannes. So viel er selbst beygetragen hatte, die gesekliche Ordnung, die das Universum beherscht, aufzuhellen; so war er doch der Meynung , jene sey weder beständig noch sicher genug, daß sie nicht von Zeit zu Zeit die Hülfe und Verbesserung der Gottheit erfordre; eine Mey nung, die einigen seiner berühmtesten Zeitgenoßen sehr anstoßsig schien, Er selbst aber folgerte daraus : daß bloß der freye und allmächtige Wille Gottes , als des absoluten Schöpfers und Beherrschers des Universum's, so wie der Ursprung , so auch die Regel des Universum's sey. Seine mathematischen Principien schloß er mit folgender erhabener Schilderung der Gottheit : Die Harmonie und das Wunder der Ordnung auf der Erde, im Meere, und am Himmel, stammen nicht Her von mechanischen Ursachen, auch nicht von Weltseelen; sondern von der Macht, der Weisheit, Willkühr und Herschaft des obersten ReJiis gen [p. 870] genten, Gottes , welcher darum nicht selbst die Welt, der Kaum und die Dauer ist; sondern • nothwendig, ewig, unermeßlich , unendlich, allgegenwärtig, seiner Macht und seinem We sen nach ganz gleich und ähnlich sich allein, ganz Verstand , ganz Kraft und Handlung; aber nicht nach Art des Menschen , vielmehr in göttlicher Höhe, verborgen dem Blicke des Sterblichen , und nur in Wirkungen! und
+
+Wohlthaten zur Erweckung unserer Verehrung und Tugend geoffenbart. Eine ähnliche Stel. Je über die Gottheit beschließt seine Optik.
+
+§. 1039, Newtons System von der Schwere und vom lichte war in der Natur der Dinge und den Gesehen des menschlichen Verstandes zu feſt begründet, als daß es hatte widerlegt wer den können. Aber dennoch fehlte es an Des ſtreitern desselben nicht. Besonders ward seine Optik angefochten, da diese nicht gleich vollständig erschien , sondern zuerst in den Transactio nen der Königl. Gesellschaft der Wissenschaften zu London im J. 1672 im Grundriße dem Publicum vorgelegt wurde. Da Newton hier manche seiner Säße auf Erperimente baute, so fanden Einige diese Experimente falsch, weil x weil sie dieselben unrichtig anstellten ; andere beriefen sich auf Experimente , aus welchen das Gegentheil der Diewtonschen Resultateerhellen sollte.
+
+Dieser Widerspruch ward indeß bald gehoben , da die öftere und richtigere Wiederholung der Experimente die Newtonsche
+
+Theorie bestätigte , und die Anhänger New ton's die Irrthümer aufoeckten, welche bey den
+
+Einwürfen der Gegner zum Grunde lagen. Auch klärte das kurz nachher vollständig erschienene Werk Newton's über die Optik manche Dunkelheiten auf. Einen besondern Hang hatten die Gelehrten jener Zeit, in den
+
+Werken großer und berühmter Zeitgenossen , zumal wenn diese neue und wichtige Wahrheiten enthielten, Plagia aufzuſpüren, und dies sen oder jenen Vorgänger, oft aus dem ente ferntesten Alterthume, aufzusuchen und anzu geben, der nicht nur bereits dasselbe gelehrt, sondern dem es der neuere Schriftsteller un redlich entwandt habe. Diese boshafte Art des Angriffs , das lebte Zufluchtsmittel aller .
+
+Schwachköpfe, die den Ruhm eines Zeitgenossen gern verdunkeln möchten , und es durch
+
+Grunde , oder eignes Verdienst , nicht zu thun vermögen , ward auch von Mehrern gegen Newton unternommen. So sollte die Theorie von der Centripetal und Centrifugalkraft schon in allen den Systemen der Alten vorkommen, wo entgegengesetzte Kräfte als Principien
+
+[p. 872] XXII. Abs, Geschichte der Philos. cipien des Entstehens und Verschwindens der Erscheinungen angenommen werden.
+
+Entdeckung der sieben Hauptfarben durch die verschiedene Brechung und Zurichwerfung Des Lichts sollte Neroton vom Pythagoras und Plato erborgt haben. Die Erfindung des Newtonianischen Teleskops maakten sich ebenfalls Andere an, welche sie früher gemacht Haben wollten. Indeßen waren alle diese Vorwurfe von der Art , daß ihre Nichtigkeit in die Augen fiel, und so konten sie auch dem Rub me Newton's keinen Eintrag thun.
+
+§. 1031.
+
+Die Versuche , welche Newton ausser. halb dem Gebiete der Mathematik und Phy fik zur Erweiterung und Vervollkommung der wissenschaftlichen Erkentniß machte, mis langen ihm, und können ist nur als Grenzbe. zeichnungen der besondern wissenschaftlichen Fächer angesehen werden, in welchen er wirk f lich groß war. Er bewies hier einen Mangel an antiquarischer und historischer Gelehrsame keit, an Kritik und geläutertem Geschmacke, und eine Eingeschränktheit des Urtheils, die man nicht von ihm hätte erwarten sollen. Unser den Gegenständen, denen die Gelehrten ba-
+
+Damals großen Fleiß widmeten , war die alte
+
+Chronologie einer der vornehmsten.
+
+Auch
+
+Newton waate es , ein neues System der
+
+Chronologie auszustellen , das er auf die wenigen astronomischen Beobachtungen des Argonauten Chiron gründete, und deßen eigenthum liches Resultat war, daß die Epoche von der
+
+Erschaffung der Welt bis auf Christus um fünfhündert Jahre verkürzt werden musse. Das System sand bald an Harduin , Freret, Warburton u. a. Gegner, und war an sich selbst so unhistorisch , daß sich schwerlich ein
+
+Gedächtniß desselben erhalten haben würde, wenn nicht Newton der Urheber gewesen wäre. Noch abentheuerlicher waren Newton's
+
+Erklärungen der Weissagungen Daniels und der Apokalypse. Er machte sich zuerst ein
+
+Verzeichniß der prophetischen Wörter und bilde lichen Redensarten, und legte ihnen eine Be Deutung bey , die sich auf wirkliche Begeben Heiten in der folgenden Weltgeschichte bezog.
+
+Dieser Deutung gemäß legte er hernach den Inhalt der Weissagungen selbst aus. Zur Entschuldigung Newton's ist inzwischen nicht zu vergessen, daß sein chronologisches Werk wieder seinen Willen herauskam , und nicht von ihm für das Publicum bestimt war. Man
+
+Hätte also unstreitig für den Ruhm des Ver. fassers besser gesorgt, wenn man es der Vera geffenheit übergeben hatte. Sehr albernübriist [p. 874] übrigens der Schluß, den Agatopisto Cromaziano zum Vortheile seiner Kirche aus den exegerischen Verirrungen Newton's zieht, daß der freye Geist , die Schrift noch Willkühr auszulegen, auch die vortrefflichsten Philosophen unter denProtestanten verdorben habe, und daß man also, wie er stillschweigend zu ver. stehn giebt , die Auslegung der Bibel der Autorität der Kirche anheim stellen musse. Newton's Fundamenta chronologiae erſchienen zu London 1714.
+
+- Annotationes in vaticinia Danielis , Habacuci et Apocalypſeos; Londin. 1713. DenStreit zwischen Newton und Leibniz wegen der
+
+Ehre der Erfindung, der Analysis des Un endlichen werde ich weiter unten berühren.
+
+Wichtige Papiere Newton's giengen noch bey seinen Lebzeiten durch einen Zu fall verloren. Er hatte einen kleinen Hund,
+
+Diamant genannt. Dieser , da ihn New ton einst in seinem Studirzimmer allein ließ , sprang auf einen Tisch , auf welchem ein brennendes Licht stand , warf das Licht um , die Flamme ergriff jene Papiere, und ſie verbrannten , ehe N. zurückkam.
+
+§. 1032. Ist Newton der Stolz der Dritten , ſo ist Leibniz der Stolz unsers Vaterlandes. Gort.
+
+Gottfried Wilhelm Leibniz wurde gebohren zu Leipzig im J. 1646.
+
+Sein Vater
+
+Friedrich Leibniz, den er aber früh verlor , war daselbst Professor der Philosophie. Sei ne ersten Studien betrafen die alte classische Literatur, zu der er eine entschiedene Vorliebe hatte, und nachher, wie es die Sitte seiner Zeit mit sich brachte, giengen sie in Polyhistorie über ; daher er in der Folge , Da sein Genie geeignet war, eine große Masse vielfacher Kentniße zu umfassen, nicht bloßoals Philosoph und Mathematiker, sondern auch als Jurist , als Historiker , als Naturforscher erscheint. Unter den Gelehrten in Leipzig, y mit denen Leibniz in vertrauterer Verbindung stand, und die am meisten auf seine wissenschaftliche Bildung einwirkten, verdient vorzüglich Jacob Thomasius , der Vater des hernach ungleich berühmter gewordenen Chrie ſtian Thomasius , genannt zu werden. Die sen benutzte Leibniz am meisten in seinert Studien der Philosophie, und der Unterricht desselben trug dazu den, daß er unter den
+
+Philosophen des Alterthums die Pythagoreer und Platoniker allen übrigen vorzog, so wie denn auch manche Spuren von der philosophischen Vorstellungsart dieser Parteyen in seinem Systeme bemerklich sind. Von Leipzig begab sich Leibniz nach Jena, und hatte. Hier unter andern den berühmten Mathemati fer [p. 876] ker Erhard Weigel zum Lehrer, von welchent er auch angeleitet wurde , einen Synkretismus der alten und neuern Philosophie zu versuchen , der ihm inzwischen nicht gelingen wolte. Von Jena kehrte er wieder in seine Vaterstadt zurück, und vertheidigte hier unter dem Vor size von Jacob Thomasius eine Abhandlung de principio individui , worin er sich für die. Nominalisten gegen die Thomisten erkläre te. Er beschäfftigte sich hernach eine Zeit lang fast ausschließlich mit der Jurisprudenz , und gab im I. 1664 quaestiones philosophi cas ex jure collectas heraus. In eben dem
+
+Jahre erschien eine wichtigere und merkwurdi gere Schrift von ihm unter dem Titel: Ars combinatoria , worin er aus arithmetischen Principien,die Lehre von der künstlichen Ver bindung der Zahlen und Begriffe entwickelte, und den Nutzen derselben für die Wissenschaften zeigte. Am Ende hatte er eine mathematische Demonstration des Daseyns Gottes ane gehängt. Ungeachtet aller dieser von ihm gegebenen Proben seines Genies und seiner Gelehrsamkeit wurde Leibniz dennoch auf ei ne sonderbare Weise in Leipzig gekränkt. Er wollte Doctor der Rechte werken; allein man wies ihn ab , aus unbekanten Ursachen , viel. leicht weil man ihn noch für zu jung hielt.
+
+Hierüber unwillig entfernte , er sich von Leipa sis, und begab sich nach Altorf, wo er die juristi [p. 877] juristische Doctorwurde ohne Schwierigkeit erhielt, und eine Abhandlung de casibus per. plexis in jure schrieb , die mit Beyfalle aufgenommen wurde. Man bot ihm in Altorf eine Professorstelle an, die er aber ablehnte, weil er überhaupt der akademischen Lebensart abgeneige war. Von Altorf, gieng Leibniz nach Sturnberg , wo er mit einer Gesellschaft
+
+Adepten durch eine listige Tauschung derselben
+
+HisVerbindung kam, und von dieser sogar „Einen Gehalt empfieng, um Auszuge aus alche mistischen Büchern zu machen. Jedoch bliep er in diesem Verhältniße nicht lange. Es lernte ihn der Baron von Voineburg ,
+
+Canzler in Mayus , kennen, und dieser bewog ihn in Wayns die Stelle eines Canz Jeyrarks anzunehmen. Leibniz verfaßte hier den fürJuristen so merkwürdigen Tractat:Nova methodus docendae discendaeque jurisprudenfiae cum fubjuncto catalogo defideratorum in jurisprudentia (Francof. 1668. 12) , worin er
+
+HeilsameVorschläge zur Verdefferung und zweck mäßigen Einrichtung des Studium's der römischen Jurisprudenz that, die erst in unsern Tagen befolgt zu werden anfangen. Ueberhaupt war Leibniz damahls mehr Jurist und Pu blicist , als Philosoph , wie es auch sein Beruf und sein Verhältniß mit dem Hrn. von Boineburg nicht anders zuließ. Er vernachlässigte indessen über seinen publicistischen Bea Bnhte Gesch, d, Phil, 6, Th. areGälsse, Kkk ſchaff1 [p. 878] schafftigungen die Philosophie nicht ganz. Von dem bekanten Werke des Marius Ni
+
+30lius: de veris principiis et vera ratione philosophandi contrapfſeudophilofophos, besorgte er eine neue Ausgabe mit Anmerkungen und Abhandlungen über einzelne philosophische Ma ferien. Im J. 1670 wurde Leibniz zuerst mit dem Herzoge Johann Friederich von Braunschweig Lüneburg: bekant ; er blieb aber noch vorerst in Maynz. Ein paar kleine Schriften, die er damals verfaßte: Theoria motus concreti, und Theoria motus abſtracti, die schon die Keime seiner Monadologie ent hielten , und von denen er jene der Akademie der Wissenschaften zu London, diese der Akademie zu Paris, widmete , brachten ihn mit beyden Societaten in Verbindung.
+
+Im I.
+
+1672 bekam Leibniz von seinem Gönner, dem Barone von Boineburg, den Auftrag, sich mit dem Sohne desselben und auch gewißer politischer Angelegenheiten wegen nach Paris zu begeben. Diese Reise war ihm
+
+Höchst erwünscht und für seine Studien außerordentlich belohnend; denn es ist entschieden , daß er erst durch diesen seinen Aufenthalt in Paris seine wissenschaftliche Bildung vollendete.
+
+Insbesondre veranlaß.
+
+te sein Umgang mit dem großen Mathematiker und Naturforscher Christian Huygens, daß er sich mit großerm Eifer auf die höhere Mathe vow Leibniz bis auf Wolf. 879 Mathematik legte, auf die er bis dahin noch nicht so viel Fleiß gewandt hatte. Er lebte in Paris vier Jahre.
+
+Da aber der Baron von Boineburg starb, und der Sohn desselben nicht mehr eines Führers bedurfte, so dachte er darauf, Frankreich zu verlassen. Nach dem Fontenelle würde er in Paris angestellt worden seyn , wenn nicht seine protestantische Religion es gehindert hatte reiste Leibniz zum ersten male nach England. Er hatte schon seit geraumer Zeit einen vertrauten Aterarischen Briefwechsel mit Neroton , Collins, Oldenburg u. a. unterhalten. Derlektere , welcher Secretair der Societät der Wissenschaften zu London war, öffnete ihm den Weg zu den wichtigsten und interessantesten Bekantschaften. Da aber auch der Kuhrfürst von Maynz gestorben war, und seine Besoldung ihm nicht mehr ausbezahlt, wurde , so sahe er sich genothigt , England zu verlassen. Er kehrte wieder nach Paris zu ruck, wo er mehr Mittel zu seinem Unterhal. te vorzufinden hoffen konte. Er wandte sich zugleich an den Herzog Johann Friedrich vonBraunschweig Luneburg , und bat ihn um
+
+Unterstukung. Dieser Fürst ernannte ihn so fort zum Hofrathe und Bibliothecare in San nover , und zwar mit der Erlaubniß, so lan ge in fremden Ländern leben zu dürfen; wie es ihm gefallen wurde. Schon in London hatte [p. 880] hatte Leibniz die Idee einer Machina arithme.
+
+stica; gegenwärtig führte er dieselbe in Paris aus, und legte die Beschreibung der, arithme. tischen Maschine dem Colbert vor, der die Uteratur damals mit dem edelsten Enthusiasmus begünstigte. Dies hatte zur Folge , daß Leib. niz unter die auswärtigen Mitglieder der framzösischen Akademie der Wissenschaften aufgenommen wurde einmal nach England , um seine mathematischen Arbeiten und Entdeckungen auch Eng.
+
+lischen Gelehrten mitzutheilen. Von dort reiste er durch Holland noch Hannover , wo er sich im I. 1677 niederließ. Leibniz, hat sich auch um den Hannovrischen Stat: mannichfaltige Verdienste erworben. Er hat die Königl. Bibliothek in Hannover geordnet, und viel zu ihrer Bereicherung gewirkt, un ter andern durch den Ankauf der Bibliothek des Martin Fogel, eines gelehrten Hamburgischen Arztes . Er hat ferner mehrere vor theilhafte Einrichtungen in dem Bergbaue auf dem Harze veranlaßt , z. B. mehrere Ma schienen, um die wilden Wasser abzutreiben , Die dem Bergbaue so großen Schaden thaten . Auf eine andere Art niste er dem Hannivri schen Hause bey dem Friedensschluße , der zu
+
+Hymwegen verhandelt wurde. Der französische Hof wollte nur den Kuhrfürsten das
+
+Rodyt zugestehen , Gesandte zu schicken ; aber ១៦ ថ្មី nu [p. 881] nicht den übrigen deutschen Fürsten , und damals ruhte die Kuhrwürde auf dem Hannevrischen Hause noch nicht. Leibniz bewies also unter dem angenommenen Namen
+
+Sürstener in einer besondern. Schrift ( Caefarini Furftenerii tractatio de jure fuprematus ac legationis, principuin Germaniae) das Gegentheil. Der wahre Verfasser dieses Buchs blieb lange unbekant ; man legte es bald dem
+
+Esajas Pufendorf, bald dem Ezechiel Spanheim , bald andern, bey , und Leibniz selbst hat sich auch niemals zum Verfasser desselben öffentlich bekant , vielleicht um die
+
+Kuhrsürstlichen Hose, mit deren einigen er in näherer Verbindung stand , nicht zu beleidigen. Merkwürdiger, als diese Umstände, ist für die Geschichte der Wissenschaften, daß er im J. 1677 die Differentialrechnung er fand. Er meldete diese seine große Erfindung dem Newton in einem Briefe vom 12ten April des bemeldeten Jahres hatte schon vorher ihm seine Entdeckung der
+
+Sturionsrechnung angezeigt, und ihm diese selbst auf eine räthselhafte Art in einem Ana gramme communicirt. Es entstand also eine lebhafte Streitigkeit zwischen ihm und New ton, und zwischen den Englischen und Deut schen Mathematikern überhaupt , welchem von benden großen Männern , dem Newton oder Leibniz , die Ehre der Erfindung der RechKkk 3 nung [p. 882] nung des Unendlichen eigentlich gebühre. Die Akademie der Wissenschaften zu London seite eine Commission nieder , um den Streit zu untersuchen und zu entscheiden. Die Resultate der Unterſuchung sind gedrucktinfolgendemWer ke: Commercium epiftolicum Dr. Loan. Collins et aliorum de analyſi promota juſſu Reg. Soc.inlucemeditum(Londini 1212, 4), welche
+
+Schrift an die berühmteſten Europäischen Ge lehrten damals_vertheilt wurde.
+
+Die Com mission entschied : daß nicht Leibniz, sondern
+
+Newton der erste Erfinder der Differentialrechnung gewesen sey. Hierüber beschwer. te sich Leibniz auf's lebhafteste ; er behauptete, daß man seineBriefe verstümmelt, zum Theile untergeschlagen habe; daß er das Ana gramm, was ihm vom Neroton zugeschicht worden , möglicher weise nicht habe verstehen können, da er hingegen dem Lestern seine eigene Entdeckung umständlich und aufrichtig gemeldet habe. Die neuern , besonders deut schen, Mathematiker, ſind darin einstimmig, daß Leibniz menigstens mit eben dem Rechte für den Erfinder der Differentialrech ming gehalten werden könne , wie Newton, In I. 1683 fieng Orro Mencke in deip.
+
+zig an die Acta Eruditorum herauszugeben, Leibniz vereinigte sich mit ihm , und daher finden sich mehrere seiner wichtigsten Aussage, Briefe u, w. in dieser Sammlung , so wie [p. 883] auch inmehrern französischen Zeitschriften, an denen er Theil nahm. Besonders trug er hier zuerst seine eigenthümlichsten philosophi. schen Ideen vor. Ein Auftrag des Herzogs
+
+Ernst August, des Nachfolgers von Joh. Friedrich, die Geschichte des BraunschweigLuneburgischen Hauses auszuarbeiten , unter. brach inzwischen diese philosophischen Beschafftigungen.
+
+Leibniz madre auf Kosten des
+
+Herzogs eine literarische Reise durch Franken, Schwaben, Bayern und Oeſterreich , um hier in den Klöstern und Bibliotheken die Quellen zu sammeln, deren er für seine Absicht bedurfte.
+
+Da das Braunschweigische Haus vom Hause Este in Italien abstamt , so reiste er auch nach Italien, um hier, wo möglich, neue Nachrichten und Documente auszufinden. te.
+
+Er benutzte aber seine Reise nicht allein zu diesem Zwecke , sondern suchte auch für seine anderweitigen Studien Vortheil davon zu ziehen. Man muß über die rasilose Thätigkeit des Mannes erstaunen, wenn man seine Aufsatze in den Actis Eruditorum aus dieser Periode, so wie die Briefe , welche er während der Reise geschrieben, und die zum Theile sehr gelehrten Inhalts sind , erwagt. Die vornehmsten Früchte der Reise waren: die Sammlung der Scriptores reram Brunsvicenfium, die Leibniz herausgab ; und der Codex juris gentium diplomaticus . worin er die authenKkk 4 tischen
+
+[p. 884] XXII. Abf. Geschichte der Philos. tischen und bis dahin noch nicht gedruckten Ackensticke von öffentlichen Tractaten, Friedens. schlüßen , und andern öffentlichen Nego tiationen vom Xl Jahrhunderte an bekant machte. Nach Beendigung dieser historischen Studien gieng Leibniz wieder zu den philosophischen über. Es erschienen tie berühmten
+
+Schriften über feine Monadologie und sein System der prästabilirten Harmonie. Das Wert Locke's über den menschlichen Ver stand veranlaßte die Nouveaux ellays für P'entendement humain.
+
+Ein Verdienst von anderer Art , wiewohl es ebenfalls die Literatur betraf, erwarb sich Leibniz dadurch , daß er der Stifter der Akademie der Wissenschaften zu Berkin wurde. Er hatte bey seinem Aufenthalte zu London und Paris häufig Gelegenheit gehabt, zu bemerken, wie viel solche Institute zur Erweiterung der menschlichen Erkentniß, und zur Unterhaltung und Belebung des Eifers für dieselben beytrügen. Er glaubte also mit Recht , daß auch in Deutschland eine solche Einrichtung von den vortheilhaftesten Wirkungen seyn müsse. Zu dem Ende bewog er Friedrich I, den neuen König von Preußen, auch hierin das Benspiet
+
+Ludewigs XIV von Frankreich nachzuchmen, und eine Gesellschaft von Gelehrten in seiner Residenz zu vereinigen, die bloß für die Wissenschaften lebten. Er wurde in diesem Un.
+
+[p. 885] Unternehmen von der vortrefflichen Gemah. lin des Königs , Sophie Charlotte, einer gebohrnen Hanndorischen Prinzeßin , und persönlichen Freundinn von Leibniz, auf's tha. tigſte unterstützt , und es kam wirklich zuStande. Die Akademie ward gestiftet im I. 1702 , und Leibniz selbst abwesend zum Präsidenten derselben ernannt. Was in Berlin gelungen war, hoffte Leibniz auch in Dresden ausführen zu können , zumal da August I, zus gleich König von Polen , die Wissenschaften sehr liebte und begünstigte.
+
+Vielleicht wurde auch hier der Zweck von ihm erreicht seyn, allein der unglückliche Krieg, in welchen König August mit Carl XII verwickelt war, unterbrach und vereitelte den Plan. Im J. 1710 gab Leibniz seinen Essay deTheodicée heraus. Im folgenden Jahre hatte er • das Gluck, dem Russischen Kayser Peter dem Großen persönlich bekant zu werden. Er unterhielt sich mit diesem Monarchen an mehrern Orten, zu Torgau , zu Pyrmont , zu
+
+Herrnhausen bey Hannover , und bekam von thm seitdem eine järliche ansehnliche Pension. Nicht lange hernach wurde er auch vomKayser Carl VI auf Empfehlung des Herzogs Anton Ulrich vonBraunschweig zumReichs
+
+Hofrathe ernannt. Er begab sich nach Wien, und kam hier in eine vertraute Verbindung mit dem Prinzen Eugen von Savoyen , mie dem [p. 886] dem Hofcanzler Grafen von Sinzendorf, und andern berühmten Männern jener Zeit. Gleichwohl kehrte er bald von Wien nach Hannover zurück, und zwar gab dazu die
+
+Veranlassung, daß der Kuhrfürst von Hannover den englischen Thron bestieg. Leibnitz soll mehrere Ecdriften verfaßt haben, welche sich auf die damaligen politischen Angelegenheiten bezogen. Er starb im J. 1716 im sieb.
+
+zigsten Jahre seines Alters an den Folgen ei. nes Blasensieines, mit denen sich gichtische Unfälle verbanden. Die Ausgaben der im I genannten Leibniziſchen Schriften sind schon in der Literatur dieses Abschnittes genauer bemerkt worden. Das Werk des Marias Nizolius erschien unter dem angezeigten Titel zuerst zu Par ma 1553. Unter eben diesem ward es wies der aufgelegt 1670. Die dritte Auflage kam heraus 1674 unter dem Titel: Marii
+
+Nizolii Antibarbarus philoſophicus in L L.
+
+IV. Gegenwärtig stehn Leibnizens Zueig= nurgsschrift au den Hrn von Boineburg, seine beygefügten Abhandlungen und Briefe, so wie die Stelle des Textes , wozu Leibniz Anmerkungen gemacht hat, und die.
+
+fe selbst , in Leibnit. Opp. T. III p.778. Auch finden sich mehrere sich hierauf beziehende Briefe , die Leibniz mit Thomasius gewed selt hat , im dritten Bande von Korsholt's Sammlung der Seinen
+
+Briefe ad diverſos §.
+
+1033.
+
+[p. 887] §. 1033.
+
+Leibniz war unstreitig eines der größesten wissenschaftlichen Genies der neuern Zeit.
+
+Seinem Zeitgenossen Bayle war er nicht nur denn an Mannichfaltigkeit der Kentniße als Mathematiker und Jurist ist Bayle gar nicht mit ihm zu vergleichen - sondern auch als mehr systematischer Kopf, und als Mann von consequenterem literarischen und morali.
+
+schen Charakter weit überlegen; und selbst was Die Leichtigkeit der Schreibart , auch im Französischen , und die Ausbildung des Geschmacks betrifft, so stand er hierin dem Bayle entwe. der gar nicht , oder nur sehr wenig nach. Zwi. schen ihm und Newton läßt sich nur eine Parallele ziehen , sofern beyde Mathematiker und Physiker waren; denn Newton konte sich übrigens als Gelehrter durchaus nicht mit Leibniz messen. Daße be Verhältniß existirt, wenn man ihn mit Locke vergleicht; beyde waren als Philosophen einer des andern würdig , ob sie gleich aus entgegengesetzten Stand. puncten philosophirten ; aber in Ansehung ans derweitiger wissenschaftlicher Kentniße ist es dem Locke selbst schwerlich eingefallen, die Ueberlegenheit Leibnizens verkennen zu wollen. Es ist auch in dem literarischen Charak.
+
+ter des Lehtern einer der wesentlichsten und rüşm
+
+ト [p. 888] ruhmlichsten Zuge, daß er für jede Gattung menschlicher Kentniße Sinn und Empfänglich. keit hatte , sich mit gleichem Eifer mit allen beschafftigte, und mit bewundernswürdiger Leichtigkeit vom Studium der einen zum Studium der andern übergieng. Daher kam auch sein rastloses Vestreben , das Gebiet der Wif senschaften überhaupt weiter anzubauen , und in seinem Innern zu vervollkommen , und er hat von dieser Seite um die wissenschaftliche Literatur der Deutschen insbesondre , unsterbliches Verdienst. Gelehrte aller Art fanden in ihm einen Gönner und Beförderer ihrer Un. tersuchungen , der keine Arbeit scheute , durch die er glaubte, ihnen nußlich seyn, und zur
+
+Aufklärung der Gegenſtände, denen sie etwa ihren Fleiß widmeten , beytragen zu können, Niemand hat vielleicht jemals einen ausgebrei tetern Briefwechsel geführt , als Leibniz; was freylich damals den Gelehrten noch ein noth wendigeres Vedúrfniß war, als es ist ist, wo nicht leicht ein Gelehrter Resultate seines Nachdenkens und seiner Forschungen im Pulte verschließt , oder eigene ihm merkwürdig scheinen1 de Ansichten und Ideen dem Publicum vorenthält, anstatt daß damals bey der Eingeschränktheit des Buchhandels die Gelehrten einander vieles nur durch Briefe mittheilten und mittheilen konten. Eine Frucht des universellen literarischen Sinnes, welchen Leib niş niz hatte, war, daß er sich über manche Herschende Vorurtheile seines Zeitalters, die sich auf literarische Gegenstände bezogen , er hob, weil er diese besser und gründlicher kennen gelernt hatte, als man sie gewöhnlich zu kennen pflegte. So nahm er sich der schola tischen Philosophie an , weil sie zu ſehr herabgefest wurde. Er trug kein Bedenken, gera-dehin zu erklären, daß die ältern Scholastiker manche der neuern Philosophen an Scharfsinn, Gründlichkeit, Bescheidenheit, und Enthält famteit pon unnützen Fragen weit überträfen; daß zwar dieScholastik viele Abgeschmacktheiten und Ungeveimtheiten enthalte, daß aber auch echtesMetall unter den Schlacken vorkomme, welches, nur gesondert werden müſſe. Eben so billig beurtheilte er manche der neuern Philosophen, die von andern zu einseitig undeofe illiberal verurtheilt wurden z. B. den Hob.
+
+des, Spinoza u. a. Inzwischen hatte die PoIyhistorie auch bey Leibniz den Nachtheil, welchen sie immerzu haben pflegt, und wodurch sie benKopfen, welche die Natur nicht mitseinemGo nie ausstattete, oder die nicht seinen unermudiichon Fleiß haben , so verderblich wird. Rästner sagt von ihm sehr treffend: "Leibniz füllte sein Gedächtniß mit Allem an , was jemals war geschrieben worden; da lagen Wahrheiten, Halbrichtige Säße , und Irrthümer unter einEr entdeckte neue Länder, aber ander es [p. 890] es mangelte ihm an Geduld und Zeit zur Erkundigung derselben. " - Was er deßwegen ausser dein Gebiete der Mathematik , Physik und Philosophie geleistet hat , ist größtentheils von der Nachwelt vergessen worden , oder hat erst einer strengen Sichtung und Läuterung bedurft.
+
+Selbst seiner Philosophie, so weit sie die seinige heißen kann , sieht man es an, daß sie die Philosophie eines Polyhistors und Polypragmon ist. Sie ist nicht sowohl ein Product einer freyen selbstständigen originalen Speculation, wie bey seinen Zeitgenossen , dem
+
+Des Cartes , Spinoza , Hobbes , Locte u. a. , als vielmehr ein Resultat verglichener und geprüfter älterer Systeme, ein Eklekticismus , deßen Mängeln er auf eine eigene Art abzuhelfen suchte , wodurch er das Ansehn ei nes originalen Systems erhielt. Auch hat er die Philosophie immer nur deſultorisch bearbeitet, so wie sich ihm die Veranlassungen dazu darboten , ohne das Ganze derselben als ein zuſammenhängendes System in erfoderli cher Bundigkeit und Vollständigkeit darzustellen. Die praktische Philosophie, ohne welche die theoretische sich nie vollenden läßt, hat er fast ganz vernachlässigt.
+
+Wie er über diese dachte, läßt sich nur aus einzelnen hier und dort zerstreuten Yeusserungen in seinen Schriften und Briefen abnehmen; die aber zeigen, daß er kein bestimtes Moralsystem hatte ober daß
+
+** daß wenigstens von ihm auf die Vollendung eines solchen es nicht angelegt war. UeberHaupt war es ein großer Fehler der Metaphysiker dieser Zeit, daß sie auf die nothwendige Verbindung theoretischer und praktischer Philosophie entweder gar keine oder zu wenig Rück sicht nahmen. Durch den transscendentalen Schein der Gründlichkeit seiner eigenen philosophischen Vorstellungsart im Gebiete der Metaphysik würde Leibniz nicht geblendet wor den seyn, wenn er diese mit mehr Ruhe und Musse überdacht, und in ihren Gründen und Folgen reiflicher erwogen hätte. Er hatte alsdenn zum mindesten das Halb Wahre und Halb Falsche derselben , das er doch woht selbst zuweilen bey manchen Einwürfen seiner Gegner geahndet haben mag, deutlicher eingesehen.
+
+§. 1034.
+
+Der Antheil, welchen Leibniz an der
+
+Cultur der Philosophie nahm, läßt sich auf drey Hauptsticke zurückführen: seine Theorie von der Natur des menschlichen Erkentnißver.
+
+mogens , seine Monadologie , und seine Theo dicke. Von diesen macht die Monadologie sein eigentliches originales philosophisches Sy.
+
+stem aus, mit welcher auch die Theorie des
+
+[p. 892] Erkentnißvermögens und die Theodicae in genauer Beziehung siehen. Die Theorie des Erkentnißvermögens , wie sie Leibniz aufstellte, will ich hier noch nicht charakterisiren, da sie der Lockischen unmittelbar entgegengeseßt war, sondern erst, wenn ich die letztere erortere, in Vergleichung mit welcher sie erst ganz verständlich werden kann. Hier wit is nur zuvorderst einer logischen Untersuchung
+
+Leibnizens erwähnen aus seiner Abhandlung : Meditationes de cognitione , veritate et ideis, die zuerst in den Actis Eruditorum erschien, und womit er seine Reforme der Philosophie gleichsam ankündigte. Er erklärte hier den formellen Unterschied der Ideen , je nachdem sie dunkel oder klar , deutlich oder verworren, anschauend oder symbolisch seyen. Er zeigte die Nothwendigkeit, nicht bloß bey Nominalerklärungen stehn zu bleiben (gegen Hobbes und deßen Anhänger), sondern vorzüglich, die Möglichkeit des Gegenstandes zu untersuchen, um sich vor ungültigen Schlüßen zu verryahren.
+
+Hierbey ließ er unentschieden ,
+
+Mensch fähig sey , seine Begriffe bis auf die urſprünglichen. Möglichkeiten (poflibilia prima) oder die ganz unarlöslichen Begriffe zu zergliedern. Hingegen that er dar, wie leicht der Cartesianische Grundsatz von der Evidenz, daß dasjenige wahr sey , was klar und deutlich wahrgenommen werde , gemis. braucht [p. 893] braucht werden könne. Denu Menschen , die übereilt urtheilen , glauben oft, etwas klar und deutlich wahrgenommen zu haben, was sie doch in der That uur dunkel und verworren erkannten. Der Grundsatz läßt sich also nicht eher mit Sicherheit anwenden, als bis Kris rerien der Klarheit und Deutlichkeit der Er.
+
+kentniß anderweitig bestimt sind , aus denen man sich von der Wahrheit dieser überzeugen kann; und so ist er auch unnus, weil er ein höheres Kriterium voraussetzt, und an sich selbst die Gültigkeit der Urtheile nicht vers bürgt. Statt des Cartesianischen Grundsatzes sind die Regeln der allgemeinen Logik besser , um die Wahrheit einer Erkentniß zu beurtheilen . Dieser bedienen sich auch die Mathematiker , die nichts für wahr annehmen , als was genaue Erfahrungen lehren , und was aus nothwendigen Prämissen durch richtige Schluße abgeleitet wird , Die Philosophen müssen also hierin den Mathematikern nachahmen. Es folgt hieraus, daß keine zur Einsicht in die Wahrheit von Schlußsägen nothwendige Prämisse übergangen oder aus gelassen werden durse , und daß alle Prämiſſen entweder schon vorher bewiesen seyn müssen , oder doch nur hypothetisch gelten , in welchent leßtern Falle auch die Schlußfoige nur hypothetisch ist. Zugleich ist hier Pascal's Regel zu empfehlen, alle irgend dunkle AusBubleGesch , d, Phil. 6,Th, 2tesälfte, 211 drucke [p. 894] drucke zu erklären, und alle irgend zweifelhafte Säße zu beweisen. Leibniz berührte hier auch das Resultat der Philosophie des Malebranche , dem er ausserdem noch eine besondere Untersuchung gewidmet hat, daß wir alle Dinge in Gott sehen. Er äuſſerte, daß Dies eine alte, und, wenn sie gehörig verstanden werde, gar nicht verwerfliche Mepnung sey.
+
+Wenn wir inzwischen auch alles in
+
+Gott sehen, so muß die Seele doch auf jeden Fall eigenthümliche Ideen haben , die nicht gleichsam Bilder der Gegenstände, sondern Affectionen oder Modificationen des He muths sind, welche den Objecten entspreagen , die wir in Gott wahrnehmen. Diese Modificationen oder Gedanken folgen zwar in unserm Geiste einer auf den andern, und wechseln unaufhörlich; aber da die Gegenstände in Gott vorhanden sind, so sind die Ideen derselben, auch wenn wir sie noch nicht wirk. lich denken, in unserer Seele enthalten, et wa so wie die Statue des Herkules im rohen Marmor enthalter ist. In Gott aber müſſen nothwendig nicht nur die Idee der ab. soluten und unendlichen Ausdehnung wirklich vorhanden seyn , sondern auch die Ideen aller und jeder Figuren , da diese nichts weiter als Modificationen der absoluten Ausdehnung sind. Wenn wir Farben oder Gerüche wahr nehmen, so nehmen wir freylich nichts an bers [p. 895] ders wahr , als Gestalten und Bewegungen. Aber diese sind in unserer Wahrnehmung so mannichfaltig und so klein, daß die Seele in ihrem gegenwärtigen Zustande nicht ver. mag sie im Einzelnen zu unterscheiden , und mit Deutlichkeit zu erkennen. Daher bemerkt sie nicht, daß ihre Wahrnehmung bloß aus unzähligen Wahrnehmungen der kleinsten Figuren und Bewegungen zusammengesetzt sey. S. Leibnitii Opp. T. II. P. 1. p. 14. Vgl. Bruckeri hist. crit. philos. T. IV P. II. p. 398. Von Eberstein Geschichte der Loi gik und Metaphysik B. 1. S. 32 ff.
+
+§. 1035.
+
+Die Monadologie des Leibniz enthiele folgendeHauptsaße. Erstlich: Die Mona.
+
+den sind einfache Substanzen , aus denen zu. sammengesepte entstehen können. Sie heißen einfach , weil sie gar keine Theile haben.
+
+Zweytens: Es muß einfache Substanzen geben, weil es zusammengesetzte giebt; denn die zusammengesetzte Substanz ist nichts an ders , und kann nichts anders seyn , als ein
+
+Aggregat von einfachen. Ohne einfache Realprincipien können die zusammengesetzten Subſtanzen unmöglich irgend eine Realität ent.
+
+halten, [p. 896] halten , und so läßt sich überhaupt folgern, Daß , wenn keine Monaden existiren, auch überall keine Dinge existiren können. Den Mamen Monaden gaben dem Leibniz die Natur der Gegenstände und das Beyspiel der Alten an die Hand. Denn so wie die Ein-
+
+Heit der Quell und Grund der Zahlen ist, die bloß aus zusammengesetzten Einheiten bestehn : so sind auch dieeinfachen Elemente(Monaden) die Principien aller Erscheinungen der Natur, d. i. aller zusammengesexten Dinge, Der Einfluß der Pythagoreisch Platonischen Philosophie auf das Leibnizische System ist schon hier unverkennbar; nur daß Leibniz die Monas nicht in dem Sinne nahm , wie die Pythagoreer , und Materie und Form auf sie zurückführte. Er entlehnte hier von den Pythagoreern bloß den Namen, womit sie das Einfache überhaupt bezeichneten. In ei.
+
+nem Briefe an Hanſch (Epp. Vol. III. p. 65) sagt er einmal: Pulcherrima sunt inulta Platonis dogmata , objectum sapientiae esse fubftantias fimplices , quae a me monades ap.
+
+pellantur, et semel exiſtentes ſemperperſtant. DieMonaden des Leibniz dürfen also auch nicht mit den Atomen des Epikur verwech felt werden. Jene sind reelle Einheiten , ohne Theile, die Gründe aller Thätigkeiten (Kräfte), die ersten absoluten Principien al ler zusammengefesten Substanzen, in welche also [p. 897] also auch diese zulest aufgelöst werden können. Leibniz verglich die Monaden auch mit ma thematischen Pancten, nur daß er ihnen wahre Realität beylegte; er nennt sie deswegen metaphysische Puncte, substantielle Formen , die dasselbe seyen, was Aristoteles mit dem dunkeln Namen Entelechicen bezeichnet habe.
+
+Drittens: Wo keine Theile sind , da ist auch weder Ausdehnung , noch Figur, noch Theilbarkeit. Insofern können die Monaden für die wahren Atomen gelten (der etymologischen Bedeutung des Wortes nach) , und für die wahren letzten Elemente der Dinge.
+
+Aus diesem Grunde ist auch niemahls eine Auflösung der Monaden zu fürchten, und es läßt sich nicht denken , wie sie auf eine natürliche Art untergehen könten. Eben so wenig läßt sich eine natürliche Entstehung derselben begreifen, weil Alles, was entsteht , durch Zusammensetzung entsteht; bep den Monaden aber keine Zusammensetzung möglich ist. Viertens : Die Monaden können also nicht anders entstehen, als in einem Augenblicke durch eine Schöpfung, und sie können nicht anders untergehn, als durch Vernichtung. Sunfrens: Es läßt sich nicht er Flären, wie eine Monade in ihrer innern Beschaffenheit durch irgend ein anderes Ding vere andert werden könne.
+
+Denn weder eine Sub
+
+ſtanz, noch einAccidens , kann in eineMonade , ba [p. 898] da sie gar keine Veränderung von Theilen zuläßt, von aussen eindringen. Sechstens : Indessen müssen doch den Monaden gewiße
+
+Bestimmungen (Qualitäten) zukommen, weil sie sonst keine Dinge seyn wurden. Ferner jede Monade muß auch von jeder andern verschieden seyn, indem es nicht zwen Dinge ge den kann , von denen das eine mit dem andern genau und durchaus dasselbe wäre, und bey denen gar keine innere Verschiedenheit ge. funden wurde.
+
+Diese Behauptung Leibnizens ist sein berühmter Saz des Пісе зи unterscheidenden (principium identitatis indiscernibilium) , nach welchem alle Dinge verschieden seyn müssen, weil sie sonst nicht unterschieden werden konten ; denn identische
+
+Dinge sind indifcernibilia. Zur Bestätigung dieses Sakes berief sich Leibniz auch aufdie
+
+Erfahrung , welche niemals zwey durchaus gleiche und identische Dinge zeigt: was bey Erscheinungen in der That unmöglich ist, da diese zum mindesten durch den Ort, in welchem sie sich befinden , getrennt und also numerisch verschieden sind. Siebentens : Je des erschaffene Ding ist der Veränderung unterworfen, folglich auch die erschaffene Monade, und zwar wird jede derselben unauf
+
+Horlich verändert. Da aber eine auſſere Ur. sache auf den innern Zustand der Monade durchaus nicht einwirken kann; so folgt, daß Dię [p. 899] die natürlichen Veränderungen der Monaden aus einem innern Principe derselben hervorgehn müssen, und daß in dieſem innern Principe der Veränderungen das Wesen derKraft berehe.
+
+Achrens : Ausser dem Principe der
+
+Veränderungen muß es aber auch in derMo nade ein gewißes Schema dessen geben , was verändert wird , und welches , so zu sagen, Die Verschiedenheit und Mannichfaltigkeit der Monaden ausdrückt. Dieses Schema befaßt die Mannichfaltigkeit in der Einheit, Denn jede natürliche Veränderung geschieht Grad weise; etwas wird in dem Dinge verändert und etwas bleibt; es muß also auch in der Monade eine Pluralität der Affectionen und Relationen statt finden , ob gleich jene keine Theile hat. Neuntens: Der transitorische
+
+Zustand, welcher die Mannichfaltigkeit der
+
+Veränderungen in der Einheit der Monade enthält und darstellt, ist das, was man Perception nennt. Diese Perception ist ohne Bewußtseyn (fine confcientis). Sie ist nichts anders, als der Zutland , in welchem sich die Monade befindet , indem sie von einer
+
+Veränderung zu der andern übergeht. Zehntens: Die Thätigkeit des innern Princips der Monade , wodurch die Veränderung geschieht, oder der Uebergang von einer Perception zur andern , kann ein Streben (appetitus) genannt werden.
+
+Obgleich die Monade ververmöge [p. 900] dieses Strebens nicht immer ganz zu der Perception gelangen kann, nach welcher sie strebt, so erreicht sie doch allemal etwas davon , und gelangt auf diese Art wenigstens immer zu neuen Perceptionen. Durch mechanische Grunde können die Perceptionen der Monaden nicht erklärt werden , das heißt nicht aus den Figuren und Bewegungen der Monaden , weil die Monaden keine Theile haben, die auf einander gegenseitig einwirk ten. Ausser den Perceptionen und dem Wechsel derselben ist in den Monaden nichts wei.
+
+ter enthalten, und alle und jede innere Thá tigkeit dieser besteht lediglich in Perceptionen. Man kann daher allen erschaffenen einfachen Substanzen oder Monaden den Namen Entelechieen benlegen, weil sie eine gewiße
+
+Vollkommenheit (το έντελες) befassen, und eine gewisse Selbstgenugsamkeit (αυταρκεια) haben, wodurch sieselbst dieQuellen ihrerinnern Thätigkeit sind. Insofern sind sie gleichsam unkörperliche Automate. Elfcens: Wenn alles Seele heißen kann, was im allgemeinen Sinne Perceptionen und ein Streben danach hat, so können alle erschaffene einfacheSuba stanzen oder Monaden auch Seelen genannt werden. Da aber, wie sich gleich zeigen wird , zwischen der Perception und Apperception ein wesentlicher Unterschied ist , weil Die letztere eine höhere Qualität ausmacht.
+
+[p. 901] die nicht allen Monaden eigen ist ; so ist es besser von den erschaffenen einfachen Substanzen überhaupt, den Namen Monaden oder Entelechseen zu brauchen, und den Namen Seelen nur denen Monaden beyzulegen , wel. che nicht bloß Perceptionen , sondern auch Ap.
+
+perceptionen haben. Zwo.frens : Wenn nehm lich die Perceptionen der Monade zugleich mit Bewußtseyn verbunden sind , so sind sie Ap perceptionen. Dies ist aber nur bey den
+
+Thieren und allen endlichen vernünftigen Intelligenzen , also auch den Menschen , der
+
+Fall.
+
+Daher lassen sich alle Monaden in dunkel vorstellende (ohne Bewußtseyn) , und deutlich vorstellende (mit Bewußtseyn), ein. theilen. Jene sind die so genannten leblosen Dinge, diese die lebendigen und vernünftigen, Die leßtern unterscheiden sich von den erstern nur durch den verschiedenen Grad der Vollkommenheit , und durch eben diesenunterschei Det sich auch der Mensch von der Gottheit Man sieht hieraus , in welchem Sinne Leiba niz , bey der Voraussetzung , daß die Monaden unaufhörlich vorstellen (Perceptionen ha den), den Saß nahm , daß es Vorstellungen ohne alles Bewußtseyn gebe. Dreyzehntens:
+
+In der Ohnmacht , der Betäubung, dem tiefen Schlafe, ist die Seele, was das Bewußtseyn betrifft , gar nicht von den übrige gen Monaden verschieden, aber sie hat doch immer [p. 902] immer Perceptionen. Die Betäubung ent. ſteht, wenn eine übergroße Menge schwacher Perceptionen eintritt, wobey nichts mit Deutlichkeit unterschieden wird. Dieser Zustand kann den Seelen als solchen auf einige Zeit den Tod zuziehen. Ferner : So wie jeder gegenwärtige Zustand der Monade eine natur liche Folge des vorhergehenden ist, so daß der gegenwärtige mit dem künftigen gleichsam schwanger ist; so müſſen wir auch nothwendig, wenn wir aus einer Betäubung erwachen, und uns unsrer Perceptionen selbst bewußt werden , gewiße Perceptionen unmittelbar yorher gehabt haben, wiewohl wir uns derselben nicht bewußt waren. Denn eine Perception kann natürlicherweise nur aus einer andernPerception entstehn, so wie eineBewegung natürlicherweise nur aus einer andern. Wenn wir also in unsern Perceptionen niemals et was mit Deutlichkeit unterscheiden konten, so wurden wir in einer immer währenden Betäubung seyn, und gerade dies ist der Zustand der Monaden schlechthin und überhaupt (monadum nudarum). Vierzehntens : Durch das Gedächtniß (memoria) erhalten die Seelen ein Bewußtsenn der Folge ihrer Vorstellungen , welches der Vernunft ähnelt, aber doch gar nicht mit dieser einerley ist. Daher pie Thiere, wenn sie ein Object wahrnehmen, von welchem sie schon einmal eine ähnliche che Perception gehabt haben , mittelst des Gedächtnißes eben dasselbe erwarten , was vorher mit dieserPerception verbunden war , und zu gleichen Sensationen und Begierden , wie damals , gestimt werden. Die Menschen handeln , wie die Thiere, sofern die Folge der Perceptionen nur von dem Gedächtniße begleitet wird: sie gleichen hierin den empirischen Verzten , deren Praxis nicht auf wissenschafte licher Theorie beruht.
+
+Funfzehntens: Was den Menschen specifisch von den Thieren son dert , ist die Erkentniß nothwendiger und ewiger Wahrheiten . Dadurch wird der Mensch der Vernunft und der wissenschaftlichen Ein sicht fähig, und erhebt sich zur Erkentniß sei ner selbst und der Gottheit, Eben dies ist es, was in uns die vernünftigeSeele , oder der Geist, heißen kann. Eben dieser Erkentniß der nothwendigen Wahrheiten und der Abstraction derselben verdanken wir es, daß wir zu Acten der Reflexion fähig sind, und unſer eigenes Jch sowohl, als das was sich auf dieses Ich bezieht, im Denken zu unterscheiden vermögen. Wir können uns defe wegen selbst denken als Wesen , die über das Ding überhaupt denken , über die Gottheit, und die einsehen, daß das , was in uns be.
+
+schränkt ist , in dieser unbeschränkt seyn misse. Diese Reflexion gewährt uns auch die vorzüglichsten Gegenstände unserer Schließe. Sechs
+
+[p. 904] Sechszehntens : Alle unsre Schluße stúßen sich auf zwey Grundsätzen : a) dem Sage des Widerspruchs , wodurch wir das als falsch beurtheilen , was einen Widerspruch enthält, und das absolute Gegentheil des Falschen dis wahr; b) dem Sage vom zureichenden Grunde , wodurch wir einsehn , daß nichts wirklich geschein oder existiren , also auch kein Sah wirklich wahr seyn könne, wenn nicht ein zureichender Grund vorhanden ist , warumes so ,und nichtanders sey. Siebzehntens: Ist die
+
+Wahrheit nothwendig, so kann der zureichende Grund derselben durch Analysegefunden werden, indem wir dieselbe in einfachere Begriffe und Säße auflösen, bis wir zu den letzten Grundbegriffen gelangt sind, die sich nicht weiter auflöſen lassen. Es giebt einfache Grundbegriffe, die nicht weiter definirt werden können. Es giebt Axiome, Postulate, oder erste Grundprincipien , die nicht bewiesen werden können, und keines Beweises bedürfen. Der. gleichen sind die identischen Säße. Achtzehntens: Einen zureichenden Grund müssen aber auch alle zufällige Wahrheiten , Ereignisse und
+
+Dinge im Universum haben. Da nun keine unendliche Reihe von Zufälligkeiten angenom. men werden darf, weil hierben die Vernunft sich im Unendlichen verliert; so muß es eine
+
+Substanz geben, die der letzte zureichende Grund aller vorhandenen Dinge, und Ver= ihrer
+
+[p. 905] Verbindung im Universum ist, und diese ist Gorr. Diese Substanz , da sie der höchste, nothwendige , einzige und allgemeine Grund alles Vorhandenen ist , und nichts ausser ihe seyn kann, was nicht von ihr abhienge, kann durchaus keine Schranken haben , sondern muß alle mögliche Realität in sich fassen. Gott ist demnach die absolute unendliche Vollkommenheit, und alle Geſchöpfe können ihre Voll kommenheiten nur von Gott haben , anstatt daß sie ihre Unvollkommenheiten ihrer eigenen Natur verdanken, vermige deren sie endliche und der Aufnahme einer unbeschränkten Vollkommenheit unfähige Weſen sind. Neun zehntens : In Gott ist nicht nur der Grund und Quell aller Existenz , sondern auch aller Realität , oder alles deßen, was möglicher weise zur Realität gelangen kann. Daher ist der Verstand Gottes auch der Quell aller ewigen Wahrheiten und Ideen , und ohne Gott würde überhaupt keine Möglichkeit wirklich werden, überall nichts existiren, und auch die
+
+Existenz keines Dinges nöthig seyn. Gott als das nothwendige Wesen hat allein den Vorzug, daß, wenn er möglich ist , er auch nothe wendig existirt.
+
+Und weil nichts seineMög lichkeit hindert, indem er unbeschränkt ist , und keine Negation, keinen Widerspruch enthält, so ist auch dies alleinhinlänglich , um dieEri ſtenzGottes apriori zu erkennen. Die letztere bewies [p. 906] bewies Leibniz auch aus dem Daseyn der ewigen Wahrheiten. Eben so läßt sich die Existenz Gottes aus der Existenz zufälliger
+
+Dinge darthun, die ihren letzten oder zureichenden Grund nur in einem nothwendigen
+
+Wesen haben können, welches wiederum den
+
+Grund seiner Existenz in sich selbst hat. Hier bey ist aber zu bemerken , daß die ewigen Wahrheiten deswegen, weil sie von Gott abe hängen, doch nicht willkührlich sind , oder durch Den Willen Gottes bestimmt werden, wie Des Cartes , Poiret, u. a. damals behaupteten. Nur die zufälligen Wahrheiten werden durch den göttlichen Willen bestimt. Hingegen die nothwendigen haben ihren Grund im göttlichen Verstande, und sind das innere Object dessel.
+
+den. Zwanzigstens: Gott ist die absolute ste ursprüngliche Einheit , oder die Urmonas, durch welche alle erschaffene Monaden hervor gebracht ind.
+
+Leibniz vergleicht die Schóp.
+
+fung der Monaden mit einer Ausstrahlung (Fulguration) aus der Gottheit. Alle erschaffene Dinge haben ihre Natur und Existenz durch die Ideen , welche von ihnen im göttlichen Verstande vorhanden sind : ein Sak , welchen Leibniz aus der Platonischen Philosophie entlehnte, und nur nach seinem Eyste me modificirte, wiewohl er sich nicht mit der erfoderlichen Deutlichkeit hierüber erklärte.
+
+Seine eigenen Worte sind (Cauſa Dei the VIII) :
+
+[p. 907] VIII.) : Actualia dependent aDeo, tum in exiftendo, tum in agendo, nec tantum ab intellectu ejus , fed etiam a voluntate. Et quidem in exiſtendo , dum omnes res a Deo libere sunt creatæ , atque etiam a Deo conſervantur; neque male docetur, confervatio nem divinam eſſe continuatam creationem, vt radius continue a ſole prodit; etsi creaturæ neque ex Dei eſſentia, neque necessario promanent. Die Existenz der endlichen Ge ſchepfe war also nicht nothwendig ; ihr Daseyn wurde durch den freyen Willen Gottes bestimt, und ihr Wesen , soferne sie endliche Geschöpfe sind, ist nicht mit dem göttlichen Wesen iden.
+
+tisch , oder aus demselben genommen. Ein und zwanzigstens : Gott hat Allmacht, welche der Quell aller Dinge ist; er hat Erkentniß, welche die Ideen als Urbilder der Dinge enthält; erhat endlich einen Willen, welcher Veränderungen bewirkt, oder eine Schöpfung endlicher Dinge nach dem Principe des Besten. Eben diese Eigenschaften ent. sprechen dem , was in den erschaffenen Mona den das Subject oder die Fähigkeit wahrzunehmen und zu begehren ausmacht. Nur sind in Gott jene Attribute absolut unendlich oder vollkommen; in den erschaffenen Monaben sind sie beschränkt nach dem Grade der Vollkommenheit, welchen sie haben. §. 1036.
+
+[p. 908] §. 1036
+
+Fortsetzung. Swey und zwanzigstens: Ein Geschöpf handelt ausser sich , sofern es unvollkommen ist. Daher wird der Monade
+
+Thätigkeit zugeschrieben , sofern sie deutliche Perceptionen (Apperceptionen) hat, und Lei den, sofern ihre Perceptionen bloß dunkel, sind. Ein Geſchöpf ist vollkomner als das andere darin , daß wir in jenem etwas finden, das als der Grund von den zufälligen Veränder rungen in dieser betrachtet werden kann, und deswegen sagen wir, daß jenes aufdieses ein wirke.
+
+Gleichwohl ist bey einfachen Sub-
+
+ſtanzen der Einfluß. der einen auf die andre nur idealisch , weil er keine Wirkungen her vorbringen kann , ausser durch die Dazwischen kunst der Gottheit, indeminden göttlichenIdeen das Verhältniß der einen Monade zur andern fodert, daß Gott bey der Schöpfung das Verhältniß aller Monaden zu einander an geordnet habe. Denn da keine Monade auf das Innere der andern physisch einzuwirken vermag, so giebt es kein anderes Mittel (aus ser der Anordnung der Gottheit) , wodurch Die eine von der andern abhängig werden Fonte. Die Thätigkeiten und Leiden der Ge schöpfe sind also wechselseitig. Wenn Gott zwey Monaden vergleicht , so findet er in einer jeden die Grunde , wodurch er bewogen wird, [p. 909] wird, die eine der andern anzupassen , und folglich mit dem thätigen Principe einer Monade das Leiden einer andern in ein harmonie sches Verhältniß zu sehen. Drey und zwanzigstens : So wie aber die Möglichkeit der Dinge in den göttlichen Ideen unendlich ist, und von allen möglichen Dingen eines nur wirklich existiren kann; so muß auch nothwendig für die göttliche Auswahl des möglichen Din ges , das zur Wirklichkeit kommen soll, ein zureichender Grund vorhanden seyn, warum Gott gerade dieses Ding , und kein anderes zur Wirklichkeit gelangen läßt, Dieser Grund der göttlichen Auswahl kann nur in den Gra den der Vollkommenheit angetroffen werden, welche diese Welt enthält; da jedes mögliche Ding gleichsam ein Recht hat, ſeine Existenz zu fodern , nach dem Grade der Vollkommenheit, die es enthält.
+
+Hierin liegt auch die
+
+Ursache, daß immer das Bessere existirt, wel.
+
+ches Gott durch seine Weisheit erkennt , durch seine Gute wählt , und durch seine Almache zur Wirklichkeit bringt. Dies ist das Princip und Fundament des berühmten Sakes in der Leibnizischen Philosophie : daß Gott von allen Welten , die möglich waren ,
+
+\ die beste gewählt und hervorgebracht ha be (Optimismus). Vier und zwanzigstens: Aus dem harmonischen Verhältnißè aller Monaden zu einander ist zu erklären :
+
+[p. 910] daß jede Monade zu allen übrigen in einer Beziehung steht , wodurch sie die Verhälte niße aller übrigen ausdruckt, und daß also jede Monade gleichsam ein Spiegel des ganzen Universums ist. So wie eine Stadt sich anders zeigt, je nachdem sie aus einem verschiedenen Gesichtspuncte betrachtet wird: so zeigt sich auch das Schauspiel der Welt anders nach dem verschiedenen Standpuncte einer jeden Monade. Dadurch wird bey der möglich größten Harmonie zugleich die mog. lich größte Mannichfaltigkeit der Dinge in der Welt bewirkt. Indessen kann nur Gott allein das Verhältniß und die Zustande aller Monaden überschauen. Die endlichen Geister haben von den innern Verhältnißen des Universums überhaupt nur eine bunkele Vorstellung; denn sonst mußte jede endliche Monade der Gottheit gleich seyn ; jene erkennen nur einen sehr kleinen Theil der Dinge in der
+
+Welt, die ihnen entweder näher, oder in Beziehung auf sie größer sind , und daher eher wahrgenommen werden.
+
+Man kann nicht sagen, daß die Monaden in Ansehung des Objects (der Welt) beschränkt wären ; jede derselben strebt dunkel nach dem Unendlichen ; aber durch die Modification ihrer Erkentniß sind sie beschränkt, oder sie werden beſchränkt auf verschiedene Weise durch die verschiedehen Grave der Deutlichkeit ihrer Perceptionen.
+
+[p. 911] nen. Dieses gilt sowohl von den einfachen Dingen, als von den zusammengesetzten. U. les in der Welt ist voll, und die Materie steht in dem genauesten Zusammenhange; je. de Bewegung eines Körpers hat ihren Effect in Beziehung auf die andere noch Verhält niß der Distanz; so daß folglich jeder Körper von allen Veränderungen afficirt wird , die im Universum vorgehen; und Gott , der alles durchschaut , in jedem Körper erkennen kann, was inUniversum vorgeht , und zwar nicht bloß die gegenwärtigen Ereigniße, sondern auch alle vergangene und künftige.
+
+Sunf und zwanzigstens: Die Seele kann nur in sich selbst dasjenige erkennen , was deutlich in ihr vorgestellt wird. Ihre gesamten Perceptio. nen vermag sie nicht auf einmal zu erkennen, weil sich diese in's Unendliche erstrecken. Ungeachtet also jede erschaffene Monade das gan. ze Universum vorstellt, so stellt sie sich doch viel deutlicher denjenigen Körper vor , mit welchem sie in Verbindung ist , und dessen Entelechie sie ausmacht. So wie ferner dieser Körper das ganze Universum ausdruckt vermöge des Zusammenhanges aller Materie in der Welt: so stellt auch die Seele das ganze Universum vor, indem sie den Körper vorstellt , welcher in einer besondern Beziehung zu ihr gehört. Der mit der Monade verbundene Körper, von welchem die erstere die
+
+Ente
+
+[p. 912] Entelechie oder die Seele ist , wird mit dieser Seele ein lebendiges Geschöpf oder ein Thier genannt.
+
+Der Körper eines jeden
+
+Thieres ist immer organisch. Denn da die Monade der Spiegel des Universums ist , und in diesem die vollkommenste Ordnung herscht;
+
+so muß auch Ordnung in dem vorstellenden Wesen , oder in den Perceptionen der Seele seyn, und folglich auch in den Körpern, nach welchen das Universum in jenen vorgestellt wird. Jeder organische Körper eines lebendigen Geschöpfs ist eine Art von göttlicher Maschine, oder ein natürliches Automat, was alle kunstliche Automate unendlich übertrifft. Der Urheber der Natur konte aber Dieses göttliche Kunstwerk zu Stande bringen, weil jeder Theil der Materie nicht nur wie
+
+Derum in's Unendliche theilbar, sondern auch wirklich in unendliche Theile getheilt ist , von Denen jeder eine besondere Thätigkeit hat , indem es sonst unmöglich wäre, daß jeder Theil Der Materie das ganze Universum darstellte. Daher giebt es auch in dem kleinsten Theile der Materie eine Welt von lebendigen Ge schöpfen, Entelechieen , Seelen , u. w.; und nichts im Universum ist unbevölkert, unfrucht. bar , toot; kein Chaos , keine Verwirrung, auſſer nur dem Anscheine nach. Jeder leben. digeKörper hat eine herschende Entelechie in sich, welche die Seele dieses Thiers ist ; aber [p. 913] die Glieder dieses Körpers sind wiederum angefüllt mit andern lebenden Geschöpfen , Pflanzen und Thieren , deren jedes abermals seine
+
+Entelechie oder herschende Seele in sich hat. §. 1037.
+
+Fortsetzung. Sechs und zwanzigstens: Alle Körper sind in einem beständigen Fluße, so daß unaufhörlich neue Theile hinzukommen, und andere sich absondern. Die Seele verändert ihren Körper nur allmälich und grabweise, so daß sie nie auf einmal aller ihrer Organe beraubt wird. Es giebt oft Metamorphosen in den Thieren , aber eine Metempsychose hat nicht statt, weil die Seelen nicht für sich abgesondert existiren können. Im strengen Sinne kann man daher auch nicht sagen, Daß etwas eigentlich erzeugt werde, oder sterbe. Was wir Erzeugung nennen, ist bloß Entwickelung oder Verbindung (Zuwachs), und was wir Tod nennen, ist Trennung oder Ver.
+
+turforscher war damals entschieten, daß or.
+
+ganische Geschöpfe niemals aus Fäu niß oder der chaotischen Materie entstehen konten, sondern durchweg aus Samen, die eine gewi
+
+Be minderung (Abnahme). Sieben und zwanzigstens: Durch die Beobachtungen der Na [p. 914] ße Präformation des Geschopss enthalten. Leibniz schloß also hieraus , daß der orga.
+
+nische Körper nicht nur bereits vor der Empfängniß existirt habe , sondern auch die Eeele in diesem Körper, oder daß das ganze Thier präformirt gewesen sey. Durch die Empfang niß wird das Thier nur zu einer Umbildung (Transformation) disponirt , so daß es ein Thier von einer andern Art wird. Einige Thie. re werden mittelst der Empfängniß zu einer höhern Stufe thierischer Geschöpfe erhoben, und diese können Samenthiere (animalia ſper.
+
+matica) genannt werden; andere verändern ihre Art nicht, werden aber , wie die edlern Thiere, erzeugt und aufgelöst. Die Zahl der auserwählten Thiere, die gleichsam auf eine größere Schaubühne treten, ist sehr klein. Wenn also kein Thier naturlich entsteht oder naturlich untergeht , wenn es überhaupt keis ne eigentliche Erzeugung und keinen Tod im strengen Sinne giebt ; so erhellt , daß nicht bloß die Seele ein unzerstörbarer Spiegel des Universums ist , sondern auch das Thier selbst , obgleich seine Maschine öfter zum Theile aufhört, und es eine organische Hülle ver läßt und eine andere annime.
+
+Acht und zwanzigstens : Aus den obigen Principien läßt sich auch die Vereinigung oder vielmehr die Zusammenstimmung (Conformität) der Seele und des organischen Rörpers erklären .
+
+[p. 915] ren.
+
+Die Seele befolgt ihre Gesche , und der Körper ebenfalls die seinigen; bende aber, stimmen zusammen überein, vermöge der
+
+Harmonie, die unter allen Substanzen prä stabilirt ist , soferne sie alle Vorstellungen des.
+
+Universums sind. Die Seelen handeln nach den Gesehen der Finolursachen und streben nach Zwecken und Mitteln; die Körper han. deln nach den Gesehen der wirkenden Ursachen oder der Bewegungen. Bende Reiche aber ,
+
+Das Reich der Finalursachen (causarum finalium), und das Reich der wirkenden Ursachen (causarum efficientium) harmoniren mit einander. Des Cartes sah ein, daß die Seele den Körpern keine Bewegkroft mittheilen könne, weil immer dieselbe Quantitat der
+
+Bewegkraft in der Materie erhalten wird ; er glaubte aber doch , daß die Seele die Die rection der Körper ändern könne. Dies kom daher, weil zu seiner Zeit noch das Natur.
+
+gesetz unbekant war, nach welchem auch diee ſelbe totale Direction in der Materie bleibt. Hätte er dieses bemerkt, so wurde er auf das
+
+System der prästabilirten Harmonie gerathen seyn.
+
+Diesem Systeme gemäß handeln die Körper, als ob gar keine Seelen vorhanden wären, und die Seelen handeln, als ob es gar keine Körper gäbe; und bende , Seele und Körper , handeln so , als ob sie gegenseitig auf einander Einfluß hatten, der aber [p. 916] aber gar nicht statt findet.
+
+Das Verhältniß zwischen Seele und Körper nach der
+
+Leibnizischen Hypothese läßt sich durch zwen Uhren erläutern, die auf dieselbe Stunde gestellt sind, und gleichen Gang haben; beyde Harmoniren mit einander in ihren Veränderungen , wiewohl eine jede unabhängig von der andern wirkt. Neunundzwanzigstens: Obgleich das Thier und die Seele nur mit der Welt überhaupt entstehen und unterge.
+
+hen können; so ist doch dies den vernünftigen Seelen oder Geistern, besonders eigen thumlich , daß ihre Samenthierchen als sol. che bloß gewohnliche empfindende See. Ion (animas fenfitivas) haben, aber dadurch, daß sie zur menschlichen Natur mittelst der wirklichen Empfängniß gelangen , werden die se ihre ursprunglich bloß empfindenden See len zum Range vernünftiger Geister erhoben. Zwischen den gewöhnlichen Seelen und den Geistern ist auch der Unterschied , daß jene die Spiegel der Geschöpfe des Universums, diese aber ausserdem zugleich die Eben. bilder der Gottheit selbst oder des Urhebers der Natur sind , die das System des Unte versums zu erkennen, und durch einen An theil an der göttlichen Architectonik etwas da von nachzuahmen vermögen, indem jeder Geist eine kleine Gottheit in seiner Art ist. Daher sind auch die Geister zu einer gesellschaftlichen Bere
+
+[p. 917] Verbindung mit Gott fähig, und Gott steht nicht bloß als Urheber zu ihnen in Beziehung, wie zu den übrigen Geschöpfen, sondern auch als Vater und Regent , als ob sie seine Kinder und, Unterthanen waren. Daher ma chen alle Geister einen Stat Gottes aus, das vollkommenste Reich von allen unter dem vollkommensten Monarchen. Dieser göttliche Stat ist die allgemeine moralische Welt in der natürlichen Welt; er ist das erhabenste unter den Werken Gottes , und in ihm besteht die wahre Herrlichkeit Gottes , welche gar nicht seyn wurde , wenn die vernünftigen Geiſter nicht die Größe und Gute Gottes erkenne ten und anbeteten. Die Weisheit und All. macht Gottes leuchten überall aus dem Universum hervor ; aber seine höchste Gute offen bart sich insbesonore in der moralischen Welt.
+
+Es existirt auch eine Harmonie zwischen dem. Reiche der Natur und dem moralischen Reiche der Gnade , oder zwischen Gott als Baumeister der Weltmaschine, und Gott als Regen. ten des Reichs der vernünftigen Geister.
+
+In dieser Harmonie liegt der Grund , daß selbst die Natur zur Gnade führt, und daß Diese Erde zerstört und wieder hergestellt wird , wenn die Regierung der Geister es fodert, daß einige beſtrast und andere belohnt werden.
+
+Gott als Architect der Natur stimt auch genau mit sich selbst als Gesetzgeber zusammen; Mmms [p. 918] auf Verbrechenmussen selbst der mechanischen Anordnung des Naturlaufs gemäß Strafen folgen, so wie gute Handlungen mittelst eben desselben Belohnungen nach ſich ziehen, wenn Dieses auch nicht immer und unmittelbar geschieht. Uebrigens bleibt in dem Reiche Got "/.
+
+tes überhaupt keine gute Handlung ohne Ver. geltung und keine böse ohne Strafe , und Alles in der Welt ist zuletzt auf die Wohlfartý und Glückſeligkeit der Guten gerichtet.
+
+Leibniz zeigte hier den Uebergang zur praktischen Philosophie, ohne doch das System derselben weiter zu entwickeln, und mit seinen theo. retischen Principien zu vereinigen.
+
+§. 1038. Eine besondere Aufmerksamkeit verdient
+
+Leibnizens rationale Theologie. Erstlich : Die Allmacht Gottes begreift sowohl seine Unabhängigkeit von allen andern Dingen, als die Abhängigkeit aller andern Dinge von ihm.
+
+Die Unabhängigkeit Gottes zeigt sich in seiner Existenz und Thätigkeit; in seiner Existenz, sofern er nothwendig, ewig , und durch sich selbst ist; in seiner Thätigkeit nach dem Naturbegriffe , sofern er das freyste Wesen ist , und nur durch sich selbst zum Han. deln [p. 919] deln bestimmt wird; nach dem moralischen Be-. griffe, so fern kein höheres Wesen über ihm ist , uncer dessen Geseze er stände. Hingegen die Abhängigkeit der Dinge von Gott erstreckt sich sowohl auf alle wirkliche Dinge , als auf alle mögliche, d. i. auf alle solche, die keinen innern Widerspruch enthalten. Selbst die möglichen Dinge , ob sie gleich noch nicht wirklich existiren , haben doch eine in der göttlichen Existenz gegründeteRealitat, dennwenn Gott nicht existirte , so wurde gar nichts moglich gewesen seyn , und die Möglichkeiten sind auch von Ewigkeit in den Ideen des göttlichen Verstandes enthalten. Die wirklichen
+
+Dinge sind aber in Ansehung ihrer Existenz und Thärigkeit nicht bloß vom göttlichen Ver stande , sondern auch vom göttlichen Willen abhängig; in Ansehung derEristenz , weil dies se auf dem absolut freyen Willen Gottes be ruht; in Ansehung der Thätigkeit, weil Gott zu dieser concurrirt, sofern in ihr etwas Vollkommenheit ist , als welche nur von Gett
+
+Herrühren kann. Auch die gewohnliche Con currenz Gottes , die nicht zu den Wundern gehört, ist zugleich eine unmittelbare und spe. cielle. Sie ist unmittelbar, weil der Effect nicht darum von Gott abhängt, daß die Ur, sach desselben von Gott herruhet , sondern weil Gott nicht minder und nicht entfernter zur Hervorbringung der Wirkung beyträgt, als [p. 920] als zur Hervorbringung der Ursache selbst. Sie ist eine specielle, weil sie nicht allein auf die Existenz und Thätigkeit des Gegenstandes gerichtet ist , sondern auch auf die Qualitäten desselben und die Art seiner Existenz , so weit etwas Bollkommenes darin liegt, als welche stets von Gotte, dem Vater des Lichts und Geber alles Guten , ausströmt. Zwey. tens: Die Weisheit Gottes wird wegen ih. rer Unermeßlichkeit Allwissenheit genannt. Da sie die allervollkommenste ist , so umfaßt sie alle Ideen und alle Wahrheit , kurz alles, was Gegenstand eines Verstandes seyn kanu, sowohl das Mögliche als das Wirkliche. Die möglichen zufälligen Dinge können be trachtet werden als abgesondert, und als in ganze mögliche Welten, deren denkbare Mannichfaltigkeit unendlich ist , coordinirt. Die se unendlich mannichfaltigen möglichen Welten werden jede von Gott auf's vollkommen-
+
+ſte erkannt, obgleich nur eine einzige unter ihnen zur Wirklichkeit gebracht ist ; dennmehr wirkliche Welten lassen sich nichtannehmen, ba die gegenwärtige das ganze Universum der
+
+Geschöpfe jedes Orts und jeder Zeit umfaßt, und hier das Wort Welt in diesem Sinne gebraucht wird. Die wirkliche Erkentniß der gegenwärtig vorhandenen Welt , alles Ver.
+
+gangenen, Gegenwärtigen , und Künstigen in ihr, ist eine anschauliche Erkentniß (scientia visio [p. 921] viſionis), und unterscheidet sich von dem Denfen der gegenwärtigen Welt als einer bloß möglichen , lediglich dadurch , daß den jener noch eine Erkentniß durch Reflexion hinzukome vermöge deren Gott auch seiner Rathschluß erkennt, daß die gegenwärtige (ursprunglich bloß mögliche) Welt auch wirklich werde. Eines andern Fundaments des göttlichen Vor. auswissens bedarf es nicht Drittens : So wie die Weisheit oder die Erkentnis des
+
+Wahren die Vollkommenheit des Verstandes ist; so ist die Güte oder das Streben nach „dem Guten die Vollkommenheit des Willens. Jeder Willen hat ein Gut zu seinem Dojecte, wenigstens ein scheinbares; aber der göttllche Willen hat nichts als das wahre Gut zum Gegenstande. Zur Natur des Wilkens gehört Freyheit , welche darin besteht , daß eine willkührliche Handlung aus der Selbst. ſtändigkeit und Ueberlegung des handelnden Wesens entspringe, und folglich die Nothwendigkeit zu handeln ausschließe, wodurch Die Ueberlegung aufgehoben wird. Die me.
+
+taphysische Nethwendigkeit , deren Gegentheil das Unmögliche ist , wird hierben ausgeschlossen; aber nicht diemoralische, deren Gegentheil das Zweckwidrige ist. Denn obgleich Gott niemals in seiner Wahl irren kann , und also immer das Zweckmäßigste auswählt ; so ist doch dieses seiner Freyheit so wenig entgegen, bay [p. 922] daß es vielmehr erst derselben die größte Volle kommenheit gieht. Es würde der Freyheit Gottes nur dann entgegen seyn, wenn bloß ein einziges Object des Willens möglich ge wesen wäre. Diejenigen irren, oder drücken sich zum mindesten sehr unangemessen aus, Die nur das für möglich erklären, was wirklich wird , oder was Gott ausgewählt hat, daß es zum Daseyn gelangen solle. Viertens: Der Wille kann eingetheilt werden in den vorhergehenden (antecedentem) , und den nachfolgenden (confequentem) , oder in den sich zuneigenden (inclinatoriam) und den beschließenden (decretoriam). Jener ist une vollendet; dieser ist vollendet und absolut.
+
+Der vorgängige Wille (voluntas antecedens) ist durchaus ernstlich und rein , und ja nicht zu verwechseln mit der Velleitat (velleitas); (wo Jemand etwas wollen wurde, wenn er konte, und wollen wurde , daß er koute, was beh Gott gar nicht seyn kann), und auch nicht mit dem bedingten Willen (voluntas conditionalis). Der vorgängige Wille strebt in Gott dahin , alles Gute zu bewirken , und alies Uebel zu vertilgen oder zu entfernen , so weit es ein Gut oder Uebel ist. Der nachfolgende Willen (voluntas conſequens) entspringt aus der Concurreng aller vorgängigen Wil. lensbestimmungen , damit , wenn die Effecte aller dieser nicht zugleich statt finden können , [p. 923] der möglich größte Effect erhalten werde , der sich durch Weisheit und Macht erhalten läßt. Dieser nachfolgende Wille kann auch ein Rathychluß (decretum) genannt werden. Die vorgängigen Willensbestimmungen sind nicht durchaus vergeblich , sondern haben auch ihre Wirksamkeit, nur daß diese nicht immer vollständig ist , sondern durch die Wirksamkeit der übrigen vorgängigen Willensbestimmungen beschränkt wird. Der decreto. rische Wille , der aus allen inclinatorischen Willensbestimmungen entspringt, hat immer eine vollständige Wirkung , sobald es dem Wol lenden nicht am Vermögen zur Ausführung fehlt, was wenigstens bey Gott niemals der Fall seyn. kann. Es geht aber auch der Seligkeit und Vollkommenheit der wollenden Gottheit nichts ab , wenn gleich nicht ihr ganzer Wille seinen vollständigen Zweck erreicht; denn da Gott nur das Gute in dem Grade will, in welchem ein jedes Ding desselben fähig ist , so geschieht seinem Willen ein Gnige, wenn nur das mögliche beste Resultat erfolgt. Sunfrens: Der Wille wird ferner eingetheilt in den productiven , was die eigenen Thätigkeiten des handelnden Wasens betrifft , und in den permissiven (zulassenden) in Beziehung auf die Thätigkeiten anderer
+
+Handelnder Wesen. Es ist zuweilen erlaubt, etwas zuzulassen, d. i. es nicht zu verhind dern, [p. 924] bern, was nicht erlaubt ist selbst zu thun; und das eigentliche Object des zulassenden Willens ist nicht die Handlung, welche zuge Lassen wird , sondern die Zulassung selbst.
+
+§. 1039.
+
+Mehrer der bisher angeführten Säge bea diente sich Leibniz auch zur Begründung ei ner Theodiche. Gott als das allmächtigste, allmeiseste und allgütigſte Weſen hat unter allen möglichen Welten die beste ausgewählt und erschaffen. Gäbe es eine mögliche Welt, •besser als die gegenwärtige, so wurde Gott sie unstreitig statt dieser zur Wirklichkeit gebracht haben; und wäre eine andere mögliche Welt nur eben so gut , wie die gegenwärtige , gewesen , so hätte Gott keinen Grund gehabt , warum er diese der andern vorgezogen hätte, Hieraus , meynte Leibniz , würde sich sogar beweisen lassen , daß selbst eine Welt ohne Uebel, falls sie möglich wäre, doch nicht so gut, wie unsere gegenwärtige ſeyn könne Der Welt ? Man kann das Uebel betrachten zuvorderst aus dem metaphysischen Gesichtspuncte. In diesem ist es nichts anders als ein Mangel, eineBeschränkung endlicher Wes jen, [p. 925] sen, die mit ihrer Endlichkeit unvermeidlich verbunden , und also auch von dem Grade der ihnen einwohnenden Vollkommenheit unzertrennlich ist. Jene Beschränkung besteht eigentlich in dem , was das handelnde Wesen nicht thut, und hat also im strengen Verstande nicht einmal eine wirkliche Ursache , so daß die Gottheit deswegen gar keine Rechtfertigung nothig hat. Das Uebel läßt sich gwentens betrachten als physisches und moralisches; das erstere ist ein Leiden der empfindenden Substanzen ; das andere geht von end lichen freyen vernünftigen Geschöpfen aus, und ist Sunde. Diese letzteren Arten des Uebels waren freylich nicht in der Welt noth. iwendig ; da es aber einmal metaphysisches Ue bel gab, so waren sie wegen der Existenz dieses in der Welt möglich. Nun ist das groHere Gute immer dem kleinern Uebel vorzuziehn, und um jenes willen mußte also auch dieses zugelassen werden, wenn gleich die Gott. heit dasselbe unmittelbar bey der Weltschop. fung weder veranstaltet noch gebillig hat. Ein Hauptsatz, auf welchem Leibniz die Recht fertigung des metaphysischen Uebels gründete, war der, daß es an sich selbst keine Realitate sondern nur eine Negation , eine Schrank , derselben sey. Denn das Uebel ist im Widerstreite mit dem Guten; zwey Realitäten aber können sich nicht widerstreiten, und in [p. 926] demselben Subjecte verbunden einander in ih ren Folgen aufheben; es ist kein anderer Widerstreit möglich , als zwischen Position und Negation; wenn alſo zwischen dem Ue bel und dem Guten ein Widerstreit obwaltet:
+
+so kann das Uebel nur für eine Negation gelten, die denn lediglich in der Endlichkeit und Unvollkommenheit der Geschöpfe ihren Grund hat. So that Leibniz dar , daß auch Die beste Welt nicht ohne Uebel seyn konte, weil von ihr, als Inbegriffe endlicher Wesen,
+
+Mangel und Unvollkommenheit nicht zu trennen waren. Nach dem Principe des Besten aber mußte Gott dennoch die Welt hervor. bringen; ihr Daseyn enthielt im Verhältniße zu dem mit ihr verbundenen Uebel ein unvergleichbar größeres Gut ;. und es wurde der
+
+Weisheit und Gute Gottes zuwider gewesen seyn, dieses darum nicht zur Wirklichkeit zu bringen, damit das unvergleichbar kleinere
+
+Uebel nicht zur Existenz gelangte. Jedes er. schaffene Wesen enthält also den höchsten Grad Der Gute und Glückseligkeit , dessen esvermoge seiner Natur und seines Verhältnißes zum Universum nur fähig ist ; und die Verbindung der Dinge im Universum ist wiederum die möglich beste, d. i. eine solche, aus welcher die größte Summe von Glückseligkeit ent springt. Daher dient in der Welt auch das physische und moralische Uebel, das eine Folge [p. 927] des metaphysischen ist , zum Wohle des Ganzen und als Mittel zum Guten. Die Gottheit rechtfertigte wegen des metaphysischen Uebels Leibniz auch dadurch , daß er nur die Veranlassung oder das Fundament des. selben für nothwendig erklärte ; nicht aber die Wirklichkeit desselben , als welche zufällig ist. Daß Uebel möglich sind , ist nothwendig, weil Gott einmal die beste Welt schaffen muß.
+
+te, und von dieser das Uebel unzertrennlich war; hingegen daß Uebel wirklich sind , ist zufällig. Von Gott selbst rührt nur das Gute her , oder Gott selbst wollte nur das Gute; das Uebel hat in der Unvollkommen heit der Geschöpfe seinen Grund. Das Uebel floß also nicht aus der voluntas antecedens Gottes, sondern aus der voluntas consequens desselben. Leibniz fühlte, daß von allen Arten des Uebels das moralische am meisten der Rechtfertigung bedürfe; er wandte also auch hierauf seine größte Aufmerksamkeit. Zu nächst mußte der Grund desselben in der Frey. heit des Menschen gesucht werden , die selbst des größern Gutes wegen statt fand , damit der Mensch der Zurechnung des Verdienstes , und folglich einer durch eigene Spontaneität zu erwerbenden Glückseligkeit fähig würde. Leib.
+
+niz verwarf einerseits die Behauptung eines blinden nothwendigen Schiksals , wodurch die Handlungen des Menschen ohne sein Wissen Nnna unb [p. 928] und Zuthun bestimt wurden, weil dabey gar keine Moralität möglich war, und die Eri stenz des Guten und des Bösen jener Be
+
+Hauptung auf das entscheidendste widersprach; andererseits aber verwarf er auch die Meynung von der gleichguitigen Freyheit, wegen ihrer Unverträglichkeit mit dem Sake vom zureichenden Grunde. Er glaubte hier zwischen Nothwendigkeit und Zufall einen Mittelweg zu finden. Nach ihm handelt der Mensch frey, wenn ihm in seinen Verhältnißen mehr entgegengesetzte Handlungen physisch möglich sind , unter denen er diejenige wählen kann, welche ihm die vortheilhafteste zu seyn scheint. Die Auswahl dieser Handlung erfodert aller dings wiederum einen Bestimmungsgrund; aber dieser ist von der Art, daß er den Men schen wohl dazu motivirt, jedoch nicht zwingt, so daß folglich der Mensch frey bleibt und sich selbst zu der Handlung bestimt. Jedes Ereigniß im Universum geschieht freylich un ter einer bedingten Nothwendigkeit und Gewißheit; den freyen Handlungen aber komt eine eigene Art der Nothwendigkeit , eine mo. ralische , zu , wodurch die Möglichkeit des Gegentheils nicht aufgehoben wird , sondern die auf der Wahl des Bessern beruht. Ob nun gleich alle Veränderungen in der Welt unter gewißen Bedingungen stehn , so muß doch der
+
+Mensch , da er das Zukunftige nicht kennt, nach [p. 929] vow Leibniz bis auf Wolf. nach der Ueberlegung seiner Vernunft handeln; und so erhellt hier zugleich die Nothwendigkeit und der Nutzen der Strafen und Belohnungen als Mittel zum Guten. Auch die göttliche Allwissenheit, ob sie gleich untrieg. lich ist, hebt die Freyheit des Menschen nicht auf. Gott erkennt alle möglichen künftigen Dinge, und unter diesen auch den frey han. delnden und frey sündigenden Menschen. Da durch wird aber die Zufälligkeit der Handlungen des Menschen nicht zur Nothwendigkeit gemacht.
+
+Das Böſe hat demnach seinen
+
+Grund in der freyen menschlichen Natur , und die Schuld desselben ist der Gottheit nicht auszubürden , da sie dem Menschen Freiheit verlieh , um ihn eines desto größern Gutes fähig werden zu lassen, bey dieser Freyheit aber die Möglichkeit des Bösen unvermeldlich war. Ueberdem hat es die Gottheit nicht an mannichfaltigen Mitteln fehlen lassen, den Menschen vom Bösen abzuziehen , und das Böſe selbst zum Guten zu kehren. Da Leib. niz nach der Lehre der Bibel den Fall Xhams und die Erbsünde als historisch wirklich ane nahm ; so glaubte er, daß die Seelen der
+
+Nachkommen Adams schon im Adam selbst mit der Sunde behaftet worden vermöge der
+
+Präexiſtenz der Seelen. Die Veranlassung zu der Throdicae hatte dem Leibniz die Stepfis des Bayle gegeben, der in seinem histo. Muns risch [p. 930] rischkritischen Wörterbuche die Mängel der bisherigen Theodicaen , die Widerspruche in den Lehren der ältern Philosophen und Theologen von der Gitte und Gerechtigkeit Gottes, und dem Verhältniße dieser göttlichen Eigenschaften zu den mit Freyheit sündigenden Menſchen lebhaft und eindringlich hervorgehoben hatte. Die Ausfluchte, zu welchen diese Skep. sis zu nöthigen schien, daß man entweder ein blindes Schiksal annahm , oder die Vernunft schlechthin dem Glauben unterordnete , wie Bayle selbst wollte , oder mit DesCartes ei
+
+ne völlig gleichgúltige Freyheit statuirte, auf welche Gott gar keinen Einfluß habe, waren entweder für die Vernunft unbefriedigend , und perstrickten in ein neues Labyrinth von Incon sequenzen und Irrthümern , oder waren so wenig tröstlich , daß die Vernunft sich unmöglich dabey beruhigen konte. Hauptsächlich war es der Widerstreit des Offenbarungsglau.
+
+bens und der Vernunft , der sich hier zeigte, wodurch die Gemüther bedrängt wurden , da man jenen damals noch ganz anders beur. theilte , als ißt, Auch die erhabene geistvolle
+
+Freundinn Leibnizens , die Königinn So. phie Charlotte von Preußen, fand sich durch die Bekantschaft, die sie mit Bayle's Zweifeln gemacht hatte , beunruhigt, und dieses bewog Leibnizen , der ganzen Materie eine neue sorgfältige Untersuchung zu widmen. Er be [p. 931] bemühte sich daher vorläufig , die Grundsätze festzustellen , auf welchen die Harmonie des Glaubens und der Vernunft beruhen müsse, oder nach welchen ein etwaniger Widerstreic Derselben zu beurtheilen, und zu entscheiden sey. Denn nicht nur Bayle menate, die Freyheit der philosophirenden Vernunft nicht anders behaupten zu können, als wenn er diese völlig mit dem Glauben, entzweyte; sondern Leibniz selbst sah sich geuöthigt, gegen manche Dogmen des Kirchenglaubens zu streiten, und folglich die rechtmäßigen An foderungen dieses vorher genauer zu bestimmen. Er gieng hierbey von dem Saße aus : daß zwey Wahrheiten einander nicht widersprechen können. Folglich kann auch zwischen den Glaubenslehren, als geoffenbarten Wahrheiten , und Denen, welche die menschliche Vernunft natürlicherweise erkennt , kein Widerstreit statt fin den.
+
+Inzwischen nahm er einen Unterschied an zwischen solchen Wahrheiten , deren Gegentheil schlechthin unmiglich ist , und solchen, deren Nothwendigkeit nur von der einmal von Gott gewählten Ordnung der Natur abhängt. Die leßtern können aufgehoben werden durch ein Wunder , wenn nehmlich ihre Bedingung aufgehoben wird. Den erstern aber kann keine geoffenbarte Wahrheit widersprechen; in Ansehung ihrer kann auch der Glaube nie mit der Vernunft im
+
+Wider
+
+[p. 932] Widerstreite seyn , und der Glaube vermag nichts gegen eine richtige Demonstration. Giebt es nun wirklich einen Widerstreit zwi.
+
+schen geoffenbarten und philosophischen Sägen, so kann derselbe nur solche Gegenstände be treffen, denen eine physische oder moralische
+
+Nothwendigkeit zukomt , welche Gott durch Aufhebung ihrer Bedingung selbst aufheben kann. Leibniz bemerkte zugleich , daß diejenigen, welche einen Widerspruch zwischen der Offenbarung und Philosophie behaupteten, die Begriffe von Erklären und Begreifen , Beweisen und Vertheidigen , mit einander verwirrten. Die Geheimniße können erklärt, aber nicht begriffen werden; sie sind zwar nicht aus der Vernunft erweislich , aber sie lassen sich doch vertheidigen. Dies sind die Principien, nach denen Leibniz das Ver. Hältniß der Vernunft und Offenbatung aufju klären , ihren Widerstreit zu schlichten , und die Verwirrung, welche Bayle in die Anspruche beyder gebracht hatte , zu heben suchte. Leibnizii Opp. T. I. p. 60 fq. Vgl. von Eberstein Gesch. der Logik und Metaphysik
+
+B. I. S. 46 ff. §. 1040,
+
+Leibnizens System der prästabilirtenHar monie gewann eine Anhängerinn in der Prin zefsinn [p. 933] zessinn von Wallis, der es an der Newtonschen Vorstellungsart vom Weltsysteme des sonders anstößig war , daß hier angenommen wurde , die Welt könne nicht durch sich selbst in ihrer regelmäßigen Ordnung førtdauern, sondern bedürfe zuweilen der ausbessernden Hand Gottes und einer neuen göttlichen Bewegung; anstatt daß nach der Leibnizischen Lehre die einmal bestimmte Harmonie des Universums immer dieselbe blieb , wie es der Gott.
+
+heit würdiger zu seyn schien. Ein Englischer Geistlicher, dem die Prinzessinn ihre Mey nung mittheilte, und der dem Newtonschen Systeme ergeben war , bemühte sich, das letztere in einem schristlichen Aussage zu vertheidigen , und wars dagegen den Leibniziſchen por, daß in demselben die göttliche Vorse, Hung aufgehoben wurde. Die Prinzessinn
+
+ſchrieb hierüber an Leibniz. Dieser antwortete, daß ihm die natürliche Religion in England in Verfall zu gerathen scheine , da Einige die Seele , andere sogar die Gottheit, zu einer körperlichen Substanz machten, indem Locke die Immaterialität der Seele bezweifelte , und Newton denRaum für das Or gan Gottes erklärte , wodurch Gott die Dinge empfände, als ob diese nicht ganz von ihm abhängig seyen; und auch der Welt mit
+
+Der Behauptung, daß sie immer ausgebessert werden musse , eine Unvollkommenheit auf bürde, [p. 934] bürde , die der Ehre Gottes nachtheilig sep. Die Beantwortung dieses Briefes übertrug
+
+Hierauf die Prinzessinn dem Samuel Clarke; und so entstand der berühmte und für die rationale Theologie lehrreiche Streit zwischen diesem und Leibniz. Der erste gab der Merw tonschen Behauptung : der Raum sen das
+
+Werkzeug Gottes , die Deutung: daß Gott durch seine unmittelbare Gegenwart jedes Ding an dem Orte empfinde , wo es sen; er sey allen Dingen so gegenwärtig, wie die Seele ihren Vorstellungen im Gehirne: nur in die. sem Sinne halte Newton den Raum für Das Sensorium der Gottheit. Die vom Newton behauptete zuweilen nöthige Ausbes serung der Welt bedeute im Wesentlichen nichts anders , als die Regierung und Erhaltung Derselben, Durch die prästabilirte Harmonie nach dem Sake vom Grunde werde Gott von der Welt und der Erhaltung derselben ausgeschlossen; er werde als ein unnüber und müssiger König vorgestellt; und dieses führe zum Fatalismus.
+
+Auch könne dadurch dem
+
+Atheismus Gelegenheit gegeben werden zum Triumpfe , indem die Reihe der Gründe von den Begebenheiten und Erscheinungen in der Welt in die Ewigkeit sich verlieren könne. Leibniz vertheidigte hiergegen sein System;
+
+er rechtfertigte die Autorität des Sakes vom Grunde ; zeigte, daß die bloße Gegemvart Got
+
+[p. 935] Gottes zur Vorstellung der Dinge nicht hinreiche , sondern daß dazu eine Wirkung Gottes erfodert werde; daß die Vortrefflichkeit der Welt , als eines göttlichen Kunstwerks , die ununterbrochne beſtändige Fortdauer ihrer Ordnung und Regelmäßigkeit nothwendig mache; daß Gott, wenn man ihu Intelligentian mundanam nenne, zur Weltseele werde.
+
+Clarke erkannte die Gültigkeit des Sagen vom Grunde; meynte aber doch , daß in gleich.
+
+gültigen Fällen , z. B. ob eine bestimte Materie an diesem oder jenem Orte sey , der bloHe Wilen Gottes ohne Grund entscheide, und daß der uneingeschränkte Gebrauch des Satzes vom Grunde den Fatalismus unvermeidlich nach sich ziehe. Ferner : Zur Vorstellung der Dinge sey die Gegenwart Gottes , wenn auch nicht hinlänglich , doch schlechthin nothwendig; die göttliche Verbesserung der Welt beziehe sich nicht auf die Gottheit , sondern auf uns ; geriethe auch das Sonnensystem dereinst in Unordnung , so könne es gleich wieder hergestellt werden; sowohl der dermalige Zustand des Universums , als eine etwa eintretende Unordnung desselben , lägen zugleich im Rathschluße Gottes; die Weisheit Gottes bestehe nicht darin, daß er die Dinge ewig mache, sondern daß sie so lange dauerten, wie es ihm beliebe ; Gott werde durch die Newtonsche Lehre nicht mit der Weltseele identifi cirt;
+
+[p. 936] cirt; denn er sey gegenwärtig in und aussere halb der Welt, deren Erhaltung sich nicht bloß auf die Erhaltung der Kräfte, sondern auf die handlungen selbst erstrecke,
+
+Leibniz erwieberte seinem Gegner: daß den bloßen Willen zum Grunde einer That annehmen nichts anders sey, als allen Grund leugnen , und dies vertrage sich nicht da. mit, daß doch die Gültigkeit des Sohes vom Grunde zugestanden werde. Die Mey. nung, daß der Kaum ein Attribut der Gott. heit sey, sey in sich selbst widersprechend; denn der Raum sey theilbar , und Gott werde also Dadurch zu einem theilbaren Wesen gemacht.
+
+Er selbst (Leibniz) erklärte den Raum für die bloße Ordnung zugleich seyender, so wie Die Zeit für die Ordnung auf einander felgender Dinge.
+
+Wäre der Raum ein wirkli.
+
+ches Ding, so sey kein Grund ba , warum ein Ding hier oder dort existire, weil der Raum durchaus einförmig sey. Nahme man hingegen an , daß der Raum nichts an sich Wirkliches sey , sondern bloß Verhältniße derDinge ausdrucke , so falle diese Frage weg. Eben so könne nach der obigen Erklärung Der Zeit nicht weiter gefragt werden : warum Gott die Welt nicht früher oder später erschaffen habe? Auch entwickelte Leibniz hieraus Die Unmöglichkeit einer örtlichen Allgegenwart Gottes, weil diese wiederum die Ausgedehntbeit [p. 937] heit und Theilbarkeit des göttlichen Wesens zur Folge haben wurde. Eine Unordnung in vem regelmäßigen Weltlaufe sey unmöglich, da Gott jeder derselben von Ewigkeit her vorzubeugen gewußt habe. Clarke wußte nun seinem überlegnen philosophischen Gegner nichts Gründliches weiter zu antworten. Er antwortete inzwischen ; behauptete aberrials die gleichgültige Wahl Gottes , ohne sie zu er weisen; verwirrte Leibnizens Theorie von
+
+Raum und Zeit, ohne sie zu widerlegen. Um seine eigire Theorie durchzusehen , stellte er folgende Behauptungen auf: Wenn der Raum eine Ordnung der Dinge wäre, so wurden die Gestirne , wenn sie in ihrer Ordnung an einen andern Ort gesetzt würden, doch immer noch an demselben Orte seyn. Der Raum sey keine Substanz , sondern eine Fol ge von dem Daseyn des unendlichen Wesens; er sen eineUnermeßlichkeit. Der unendliche Raum sey wesentlich untheilbar; wena gleich Östtalso auch örtlich allgegenwärtig sey , wäre er deß. halb doch nicht in Raum und Zeit getheilt, selner Substanz und Existenz nach. Leibniz ließ sich dieMühenicht verdrießen, seine eigenen und dieBegriffe seines Gegners weiter aufzuklären, und die Verwirrungen und Widerspruche in den lehrern hervorzuheben. Er berief sich auf seinen Grundsatz des Nicht zu unterscheidenden , den er hier mit der größten Bestimtheit und Deutlichkeit vortrug, vermöge dessen die Existenz zweyer oder mehrer durchaus iden.
+
+tischer Dinge unmöglich sey , um daraus die Unmöglichkeit einer Wahl zwischen ihnen Darzuthun. Er entwickelte weiter die eigen. thumlichen Vorzüge seiner Theorie von Koum und Zeit , und seines Sages vom zureichen. den Grunde. Clarke wurde indessen durch alles dieses nicht bewogen , seine Behauptungen aufzugeben, sondern beharrte dabey , und wiederholte sie. Leibniz deckte noch einmal Die Blöße seines Gegners auf, und dieser zeigte sie nochmals, selbst; denn was eigentlich in seiner Vorstellungsart gegen das Leibnizische System gründliches lag, und was für Leibniz in der That unwiderleglich war, ahndete er nur dunkel , und verstand es nicht zu vertheidigen. Er behielt jedoch gegen Leibniz das letzte Wort , da der Tod desselben Die Fortsetzung des Brieswechsels unterbrach.
+
+Der vornehmsße Gewinn aus diesem für die Philosophie und namentlich für das Leibnizische System , bestand in der hier erörterten neuen Theorie von Raum und Zeit , und in der Aufhellung der Grundsätze und Begriffe, die der Leibnizischen Philosophie eigenthum lich sind. Der Sammlung der zwischen Leibniz und Clarke gewechselten Streitschriften , so wie aud auch der hierher gehdrigen Schriften von Voltaire und Bable ist bereits in der Liz teratur dieses Abschnittes gedacht worden.
+
+§. 1041. Ich habe oben angemerkt, daß Leibniz den Uebergang von der theoretischen Philosophie zur praktischen in seinem Systeme der Monadologie angedeutet , aber die letztere nicht vollständig ausgeführt habe. Indessen lassen . sich doch seine Begriffe von dieser , die in sei nen Werken zerstreut sind , zusammenstellen, und unter einen gemeinschaftlichen Gesichtspunct bringen. Erstlich: Das Recht ist ein gewißes moralisches Vermögen, und die
+
+Verbindlichkeit ist eine gewise moralische Nothwendigkeit. Es wird hier aber unter einer moralischen Nothwendigkeit eine solche verstanden, welche bey einem guten Menschen eben so viel vermag , als die natürliche. Ein guter Mensch ist derjenige, der alle andere Menschen liebt, so weit es die Vernunft erlaubt. Die Gerechtigkeit ist die Regiererinn der Neigung der Menschenliebe ; daher kann sie die Liebe des Weisen genannt werden, b. i. eine solche Liebe , welche den Vorschriften der Weisheit folgt. Zweytens; Lieben heißt an Der Glückseligkeit des Andern Freude finden, [p. 940] oder diese zu seiner eigenen Glückseligkeit rechnen. Wenn ein schöner Gegenstand zugleich der Glückseligkeit empfänglich ist , so geht die Neigung zu ihm in wahre Liebe über. Die Liebe zu Gott übertrifft aber alle andere, weil Gott am innigsten geliebt werden kann, indem er zugleich das gluckseligste, und der Liebe würdigste Wesen ist ; und da er ausser dem die höchste Weisheit und Gute befige, so geht seine Glückseligkeit nicht nur in die unsrige über, wenn wir weise sind , d. i.
+
+ihn lieben, sondern er bewirkt auch unſre Glückseligkeit selbst. Drittens : Die Weis heit ist daher nichts anders, als die Wissenschaft der Glückseligkeit. Aus dieser Quelle fließt das Naturrecht, welches drey Grade hat : das strenge Recht in der vergel tenden Gerechtigkeit ; die Billigkeit , oder im engern Sinne, die Liebe in der austheilenden Gerechtigkeit ; endlich die Frömmigkeit oder Rechtschaffenheit in der allgemeinen Gerechtigkeit. Man kann diese drey Grade der
+
+Leibnizischen Vorstellungsart gemäß auch so bezeichnen: Gerechtigkeit , Billigkeit, moralisches Wohlwollen. Hieraus entspringen die bekannten praktischen Grundsätze: Beleidigt Niemand ; Gleb einem Jeden das Seinige;
+
+Handle moralischedel oder fromm. Das strenge Recht enthält die Vorschrift , Niemanden zu beleidigen, damit er nicht im State flag. bar [p. 941] bar werde ; ausserhalb dem State ist es das Recht des Krieges (justitia commutativa). Ein Höherer Grad des Rechts kann Billigkeit oder auch Liebe genannt werden : weil er über die Strenge des bloßen Rechts hinausgeht , und sich auf diejenigen Verbindlichkeiten erstreckt, nach welchen wir unser strenges Recht gegen Andere nicht ausüben, auch wenn wir dazu befugt wären. So wie es also der geringste Grad der Rechtlichkeit ist , Niemanden zu beleidigen, so ist es ein mittlerer Grad derselben , allen Menschen zu nüßen, so weit es ei nem Jeden zuträglich ist , oder ein Jeder es verdient, wenn man auch nicht im Stande ist, Alle zu begünſtigen. Der letztere ist demnach die justitia distributiva, die einem Jeden das
+
+Seinige zu geben befiehlt. Hierher gehören die bürgerlichen Geseke im State , welche auf die Glückseligkeit der Unterthanen abzielen , und auch bewirken , daß Unterthanen , welche
+
+Fähigkeit zu Etwas haben , diese Fähigkeit auszubilden , und die dadurch zu erwerbende Geschicklichkeit zu erlangen vermögen ; daß sie erbitten dürfen , was andern die Billigkeit obliegt zu leisten. In diesem Sinne der Rechtlichkeit werden Verdienste geschätzt , und finden Privilegien , Belohnungen, Strafen , im State statt. Der höchste Grad der Rechtlichkeit kann den Namen Frömmigkeit oder Rechtschaffenheit führen. Das strenge Recht vermeidet , an [p. 942] dere elend und unglücklich zu machen; die ho here Rechtschaffenheit aber ist aufdie Gluckse ligkeit derselben gerichtet, so weit sie in diesem irdischen und vergänglichen Leben möglich ist. Viertens: Um in einem allgemeinen Beweise darzuthun , daß alles Moralisch Gute nuklich, und alles Moralischschändliche verderblich sey, muß man die Unsterblichkeit der Seele, und Das Daseyn Gottes als Urhebers des Universum's annehmen. Dann sieht man ein, daß die Menschen als vernünftige der.Moralitat fähige Wesen in dem vollkommensten State leben unter einem Regenten , der wegen seiner
+
+Weisheit nicht getäuscht werden, und deßen Macht sich kein Sterblicher entziehen kann, und der unsrer Liebe so würdig ist , daß es selbst zur Glückseligkeit gehört, einem solchen Gotte und Regenten zu dienen.
+
+Durch seine Allmacht und Vorsehung wird bewirkt , daß die Rechtlichkeit zur That wird ; daß Niemand beleidigt wird , ausser nur durch sich selbst; daß keine gute Handlung ohne Belohnung, keine böſe ohne Strafe bleibt. Denn in dem allgemeinen Weltstate wird nichts vernachlässigt, bleibt nichts unbeachtet und unvergolten. Des wegen wird auch die Rechtschaffenheit die allgemeine Gerechtigkeit (justitia universalis) gte nannt, weil sie alle übrige Tugenden in sich begreift. Denn was sonst sich auf andere Menschen nicht zu beziehen , und diese folglich [p. 943] lich auch nicht anzugehen scheint, z B. wenn wir unsern Körper oder unser Eigenthum misbrauchen , das ist, auch ausserhalb den mensch. lichen Gesetzen , durch das Naturrecht oder durch die ewigen Geseke des göttlichen Regenten verboten, indem wir unser Daseyn und Eigenthum der Gottheit verdanken , und es das Interesse des Universums erfodert, daß Niemand sich und das Seinige misbrauche.
+
+Funfrens: Ausser den ewigen Gesehen , welche die vernünftigen Wesen verbinden, die eine göttliche Abkunft und Autorität haben , giebt es auch noch ein willkührliches positives Recht (jus voluntarium) , das auf Herkommen beruht, oder von einer Obrigkeit bestimt ist. Im State bekomt das bürgerliche Recht von demjenigen seine Kraft , welcher die höchste
+
+Gewalt besikt; ausserhalb dem State aber, unter denen , welche auf gleiche Weise eine hichste Gewalt haben, unter Völkern , gilt ein willkührliches Völkerrecht, das durch eine ausdrückliche oder stillschweigende Uebereinkunst der Völker festgestellt worden ist. Dieses willkührliche Recht braucht inzwischen nicht bey allen Völkern und für alle Zeiten dasselbe zu seyn; denn nicht Alles gefällt Allen, oder gefällt immer. Die Grundlage des Völkerrechts ist das Naturrecht selbst. Dasjenige Volk oder diejenige Person im Volks hat gleiche Rechte mit allen andern , oder druckt eine Person für das [p. 944] das Völkerrecht aus , welcher die öffentliche
+
+Freyheit zukomt, so daß sie nicht in der Gewalt eines Andern ist , und für sich das Recht des Krieges und des Friedens hat ; ob sie gleich gewiße Verbindlichkeiten übrigens gegen ein anderes Volk haben mag. Ist die Autorität einer solchen Volksperson groß, so erhält sie denNamen eines Potentaren, und hat die Souverainetät, die gleichwohl noch eine andere
+
+Höhere Gewalt im State nicht ausschließt. Demjenigen wird die Souverainetät gewöhnlich beygelegt , der Freyheit und Macht genug hat, um sich in die Angelegenheiten der Volker mit Autorität durch Unterhandlungen oder i Waffen mischen zu können. In den Freysta ten gilt eine bürgerliche Person gleich einer Volksperson, weil sie an der Entscheidung des öffentlichen Willens Antheil hat. Ist durch die Fundamentalgeseße des Stats nicht hinreichend dafür gesorgt, daß man zu einer bestimten Entscheidung des allgemeinen Willens ge lange; so hat seine Form etwas Unregelmäßi ges , und er kann sich nicht erhalten. Man wird aus dieser Darstellung von Leibnizens zur praktischen Philosophie gehörigen Ideen abnehmen , daß sie aus Bruchstücken und einzeln hingeworfenen Neusserungen desselben zusammengesetzt ist. Auch betrifft sie mehr Leibnizens Vorstellungs art vom Naturrecht , als von der Moral.
+
+[p. 945] Die Leibnizischen Ideen wurden weiter ente wickelt und zu einem ganzen Systeme auss gebildet vom Christian Thomasias ; zum mindesten ist zwischen dem Principe der Moral und des Naturrechts , welches dieser als sein eigenthümliches adoptirte , eine auffallende Aehnlichkeit.
+
+Wahrscheinlich würde Leibniz die Principien der praktis schon Philosophie in manchem Betrachte anders und spärfer bestimt haben , wenn er diese mit eben dem Fleiße bearbeitet hätte , welchen er der theoretischen widmete.
+
+§. 1042.
+
+Es ist hier nicht der Ort , eine ausführliche Kritik des Leibnizischen Systems zu unternehmen, da dieses selbst hier auch nicht in einer irgend erschöpfenden Volständigkeit, sondern nur seinen charakteristischen Hauptmomenten nach dargestellt werden konte. Indeßen mögen folgenbe allgemeine Bemerkungen zur Beurtheilung der Gültigkeit und des Werthes desselben hier Plaß finden. Erstlich: Leibniz nahm alsKriterium der WahrHeit überhaupt den Satz des Widerspruchs an, und gründete folglich auf diesen auch die Metaphysik, worin ihm in der Folge die Wolfische Philosophie treu blieb. Das
+
+Cartesianische Princip der Wahrheit der Erkentniß, die Evidenz derselben im Bewußt. seyn [p. 946] seyn, wurde von ihm mit Recht verworfen, weil es so sehr der Tauschung und dem Misbrauche ausgesetzt ist , und selbst ein höheres Kriterium zur Beurtheilung und Anwendung voraussetzt. Allein durch den Saß des Widerspruchs war die Realerkentniß, oder die Metaphysik als der Inbegriff der Principien dieser, auch im geringsten nicht begründet , da nur die Logik oder das formale Denken aufihm beruht. Die Metaphysik muß richtig nach logischen Gesetzen gedacht seyn , und insoferne ſteht sie unter dem Sake des Widerspruchs (ihrer formalen Beschaffenheit nach). Hingegen die Wahrheit ihres Inhalts wird dadurch nicht verbürgt , oder vielmehr es läßt sich aus dem Sake des Widerspruchs gar keine Erkentniß von realem Inhalte entwickeln. Wenn man die letztere auf dem logischen Wege gewonnen zu haben wähnt ; so ist sie entweder erträumt , und besteht aus lauter logischen for malen Begriffen, die gar keine Realität aus.
+
+sagen; oder sie ist erschlichen , daß man durch eine unbemerkte Inconsequenz das logische Princip verließ, und irgend ein anderes , wie wohl unerkanntes oder undeutlich gedachtes, voraussekte; wovon denn Widerspruche und Inconsequenzen im metaphysischen Systeme selbst nothwendig die Folgen seyn müßen. Es war also vortrefflich , daß Leibniz die Methode der Mathematiker empfahl, sofern bloß von [p. 947] der Strenge und Bundigkeit des philosophischen
+
+Raisonnements in logischem Betrachte die Rede war; allein es entgieng ihm, daß die apo.
+
+diktische Gewißheit der Mathematik nicht bloß auf der Methode beruhe, sondern auf einem ganz andern Grunde, den er unaufgeklärt ließ; und daß noch weniger die reale Wahrheit eines philosophischen Systems sich auf dem
+
+Principe der Logik erbauen lasse. Zweytens: Bey der Voraussetzung des Satzes vom Widerspruche als Grundsatzes der menschlichen Erkentniß überhaupt war es sehr begreiflich , daß Leibniz durch Analyse der Begriffe von den Dingen mittelst des Verstandes das absolute Wesen der Dinge erkennen und bestimmen zu können meynte. Er intellectuirte die Erscheinungen, als ob sie nicht Erscheinungen wären, und hieraus gieng ursprunglich sein berühmtes Monadensystem hervor , das auf der einen Seite einen transcendentalen Schein von Wahrheit an sich trug , der es dem Erfinder und seinen
+
+Anhängern annehmlich machte; auf der andern aber doch auch seine Schwäche für die prüfende Skepsis der Vernunft gar nicht verbergen fonte. Sinnlichkeit und Verstand wurden von Leibniz nicht als für sich specifisch ver. schiedene Erkentnißquellen gesondert; er räumte jener nur das Vermögen ein , die Dinge verworren wahrzunehmen und vorzustellen; der Verstand ist es erst, der die verworrenen Merf
+
+[p. 948] XXII. Abf. Geschichte der Philos.
+
+Merkmale unterscheidet , verbindet und so $
+
+Deutlichkeit und Wahrheit in die Erkentniß hineinbringt; so daß der ganze Unterschied der Sinnlichkeit und des Verstandes auf einen bloß logischen des Grades der Deutlichkeit und Be timtheit der Erkentniß hinausläuft; woben Denn Leibniz auch auf die Meynung gerathen konte und mußte , daß sich die transscendentalen Prádicate der Dinge durch den bloßen rei nen Verstand erkennen und bestimmen ließen.
+
+Drittens: Rant hat in der Kritik der reinen Vernunft gezeigt, wie die Verwirrung der Sinnlichkeit und des Verstandes in Ansehung ihres Verhältnißes zur Erkentniß den Leibniz in.die Schlingen der Amphibolie der Reflexions begriffe verstrickt , oder zur Verwechslung des empirischen Verstandesgebrauches mit dem transscendentalen verleitet habe. Statt vor Her den Ort der Begriffe ihrem Inhalte nach in einer der beyden specifisch verschiedenen Era kentnißquellen, der Sinnlichkeit oder dem Verstande, zu bestimmen, und dieser Ortbestim mung gemäß eine transscendentale Vergleichung unter ihnen anzustellen; verglich Leib. niz die Begriffe schlechthin, und bestimte ihr Verhältniß nur logisch , ohne daran zu den ken , ob eine Vergleichung unter ihnen transscendental miglich sey und ob nicht das angegebene Verhältniß in der Beziehung desselben entweder auf die Dinge als Erscheinungen.
+
+[p. 949] oder auf die Dinge als reine Verstandes gegenstände falsch sey. Daher kam es denn , daß er den reinen Verstandesgegen ständen nothwendige Merkmale beylegte, die nur von Erscheinungen gelten, und umgekehrt den Erscheinungen nothwendige Merkmale, welche sich nur auf reine Verstandesobjecte d. i. auf leere Begriffe, beziehen. Die Leibnizische Monadologie ist in dieser Hinsicht ein sehr interessanter und lehrreicher historischer Beweis sowohl für die Richtigkeit der Kantischen specifischen Unterscheidung zwischen Sinnlichkeit und Verstand , als für die Unzulänglichkeit und Falschheit einer bloß logischen Trennung dieser beyden Vermögen , wie sie beym Leibni zischenSysteme zum Grunde liegt. Viertens : Gleich der Leibnizische Begriff der Elemente Des Universum's oder der Monaden , als absolut einfacher Dinge, kann sich nicht beHaupten und hebt sich selbst auf. Wird die Monade ausserhalb den Raum versetzt , und nicht als Erscheinung, sondern als reines Ver frandesobject gedacht, so ist sie ein durchaus leerer Begriff, der eine bloße Verstandesfunc tion aussagt, aber nicht im geringsten ein rea les Ding darſtellt. Wird sie innerhalb den Raum versetzt, so ist sie Erscheinung, zusammengesetzt und theilbar ; denn nichts, was im
+
+Raume ist, kann einfach seyn. Leibnizens Behauptung, daß das Zusammengesetzte doch [p. 950] zuletzt aus einfachen Elementen bestehen müſſe, oder daß es kein Zusammengeseptes geben könne, wenn es nicht zulest ein Einfaches gebe, ist falsch; denn da dies Zusammengesetzte allemal etwas Räumliches oder im Raume befindliches seyn muß, so geht die Theilung desselben in's Unendliche fort. Nun statuirte freylich Leibniz nicht den Raum als Etwas objectiv von den Dingen Verschie
+
+Denes; er erklärte ihn vielmehr bloß für die Ordnung neben einander senender Dinge, so wie die Zeit für die Ordnung auf einander folgender Dinge. Auf diese Art glaubte er die Theilbarkeit, der Monaden, die aus der
+
+Existenz derselben im Raume fließen wurde, pon ihnen ablehnen zu können. Allein diese Erklärung des Raumes ist wiederum unges gründet. Der Kaum wurde alsdenn die Eri-
+
+ſtenz von Dingen voraussehen , deren Orbnung neben einander er ausmachte : anstatt daß umgekehrt die Dinge die Existenz des Raumes voraussehen, weil ohne diesen kein Aussereinanderseyn, und keine numeriſche Ver» schiedenheit der Dinge möglich ist. Auch wurz de bey der Leibnizischen Erklärung derRaum an und für sich genommen nichts weiter als ein von den Verhältnißen der Dinge abstra Hirter Begriff seyn , wobey die apodiktische
+
+Gewißheit und Evidenz der Geometrie un. möglich wäre. Folglich die Monave als rei ner [p. 951] ner Verstandesgegenstand ist ein leerer Begriff, und stellt nicht das Ding an sich dar; als
+
+Erscheinung aber ist sie zusammengesetzt und nicht mehr Monade ; so daß der Begriff der Monade überhaupt entweder leer ist , eine bloß logische Form , oder , wenn er real seyn soll, sich selbst aufhebt. Leibniz verkannte die Regel zur Verhütung der Amphibolie der Reflexionsbegriffe : Bey reinen Verstandesobjecten geht die Materie vor der Form her , oder Materie und Form fallen zusammen; allein bey Erscheinungen geht die Form vor der Materie her ; d. i. die Möglichkeit einer Erscheinung , der Materie nach , seht den Raum priori der Form nach voraus , und eben deßwegen ist die Erscheinung nie einfach , sonDern immer in's Unendliche theilbar. Sunftens: Eine ähnliche Tauschung durch die Amphibolie der Reflexionsbegriffe bewog Leib.
+
+niz, den Satz des Nicht zu unterscheiden.
+
+den (principium indiscernibilium) als allgemeinen Grundsatz bey der Erkentniß der Dinge aufzuſtellen: Die Dinge müssen, je des von dem andern, verschieden seyn , damit - sie unterschieden werden können; denn sonst machten sie zusammen nur Ein Ding aus , und wären indifcernibilia. Von den Erscheinungen gilt dieser Sah allerdings; denn sofern diese im Raume vorgestellt werden müssen, sind sie eine von der andern, wenigstens Nu [p. 952] numerisch , verschieden; und das war es auch, was Leibnizen verführte, den Saß auf die Dinge überhaupt auszudehnen. Allein von Den Dingen überhaupt gilt er nicht; denn gerade die reinen Verstandesobjecte müssen ausserhalb dem Raume gedacht werden , und diese sind bloße logische Bejahungen, und fallen zusammen.
+
+Nun sollen aber eben die Monaden reine Verstandesobjecte seyn , und demnach ist der Sah des Nicht zu Unterscheidenden auf die Monaden nicht anwendbar, wiewohl Leib. niz seine Monadologie vorzüglich auf denselben gründete. Sechstens: Da Leibniz dieMonaden als absolut einfache Elementar Subſtanzen des Universums annahm; ſo konte er freylich die Möglichkeit einer aufern physischen Einwirkung derselben auf einander nicht zugeben, einer solchen Einwirkung nehmlich , wodurch Veränderungen im Zustande der Monaden hervorgebracht wurden; undermußte vielmehr alle Veränderungen der Monaden für immanente erklären, und aus einem innern Principe der Thätigkeit der Monaden Herleiten. Die Art, wie Leibniz die Veranderlichkeit der Monaden des ganzen Universums aus ihrem innern Principe entwickelte , wie er alle diese Veränderungen auf
+
+Dunkle, klare und deutliche Perceptionen zurückführte , wie er das ganze Universum als einen Inbegriff vorstellender Kräfte [p. 953] ober Seelen mit und ohne Bewußtseyn in verschiedenen Graden der Vollkommenheit dar ſtellte, hat ungemein viel Sinnreiches und Er Habenes , und ist an sich sehr consequent, sobald die Prämissen zugestanden werden. Es ist nur schade , daß es um diese Prämissen so mißlich aussieht. Ein anderer Fehler dieser Leibnizischen Hypothese ist , daß sie völlig idealistisch ist, indem sie zwar nicht die Existenz der Objecte ausser uns (der Monaden und ihrer mannichfaltigen Zusammensetzungen) , aber doch die Abhängigkeit des Ich von den Objecten, und die Einwirkung dieser auf jenes schlechthin aufhebt, und unsre ganze Erkentniß auf eine innere Verknüpfung der Vorstellungen, die aus dem Principe der Monaden hervorgehn, zurückführt; daher alle Einwurfe ſie treffen, welche sich gegen den Idealismus überhaupt mit Grunde vorbringen laſſen, Siebentens : Die Endlichkeit der Monaden führte den Leibniz auf einen Urgrund ihres Daseyns, die Gottheit , so wie ihre Uebereinstimmung zu einem zweckmäßigen Ganzen auf das System der prästabilirten Harmonie, die er denn insbesondre zur Erklärung der Verbindung zwischen Seele und Körper an wandte. Von diesem Systeme der prästabilir tenHarmonie ist aber der entschiedenste Determinismus als Folge unzertrennlich, wie sich dieses auch bey den nachherigen Streitigkeiten, wele [p. 954] welche die Wolsische Philosophie veranlaßte, so wenig es Wolf selbst und seine Schule, und manche Leibnizianer späterhin und noch gegen. wärtig , zugestehen wollten , auf's unverkennbarſte geoffenbart hat. Denn wenn alle meine Vorstellungen und Thätigkeiten von Ewigkeit durch die Gottheit mit den Vorstellungen und Thätigkeiten aller übrigen Monaden des Universum's in ein harmonisches Verhältniß gesezt sind; so daß mein dermaliger Zu stand für die Gottheit ein Spiegel des dermaligen , vergangenen, und künftigen Zustandes des Universum's ist , wie kann da noch von Freyheit der menschlichen Handlungen die Rede seyn ? Es fehlt hier allerdings nicht an mancherley Ausflüchten, die aber Leibniz eigentlich um so weniger benutzen konte, je un bedingter er die Gültigkeit des Sakes vom Grunde anerkannte und vertheidigte.
+
+Mittelweg, den er hier zwischen Fatalismus und der gleichgültigen Freyheit , nach welcher Handlungen ohne allen Grund geschehen können, einschlagen zu dürfen glaubte, daß zwar jede Handlung einen Bestimmungsgrund haben müsse, daß der Mensch aber doch alsdenn frey handle, sofern er unter mehr ihm physisch möglichen Handlungen zu wählen im Stande sey, und durch den Bestimmungsgrund seiner Wahl nicht nothwendig motivirt werde : dieser Mittelweg war nur erträumt, und wurde in [p. 955] der That durch Leibnizens System selbst abgeschnitten. Denn in der ewig vorher bestim. ten Harmonie der Monaden ist jede Handlung begründet, und die Wahl des Menschen unter mehr möglichen Handlungen , da sie selbst ihren Grund in der prästabilirten Harmonie hat, ist nie wirklich , sondern immer nur scheinbar frey. So wie die menschlichen Handlungen durch die prästabilirte Harmonie bestimt sind, somussen sie erfolgen, und eine entgegen. gesetzte Handlung, wie sie doch durch Freyheit möglich seyn mußte , ist , so lange der Weltplan derselbe bleibt , wirklich unmoglich. Ist auch in der prästabilirten Harmonie auf die Freyheit des Menschen gerechnet worden , so ist dennoch diese Freyheit nur scheinbar; denn sie wird immer durch den Saß vom Grunde bedingt , und auch durch die Allwissenheit Gottes bestimt. Gott kann nicht irren. So wie alsodie menschli chenHandlungen im göttlichen Verstande gesetzt sind, müssen sie erfolgen, und wenn auch Gott durch das bloße Vorauswissen die Handlungen nicht determinirt , so ist er doch zugleich auch Schöpfer der Monaden, in den sich zuletzt die Gründe aller Thätigkeiten derselben verlie. ren, und der folglich auch diese Gründe zuletzt bestimt. Daher hat auch von den Anhängern der Leibnizischen Philosophie der Indeterminism nie mit Bündigkeit erwiesen werden können ; Denn der unbedingte Gebrauch des Sages vom Grun
+
+[p. 956] Grunde, welchen sie sich , wie ihr Vorgänger, erlaubten , war ihnen immer im Wege , und trieb sie im Cirkel herum , indem sie ihm zufolge sich genothigt sahen , die gleichgültige
+
+Freyheit zu leugnen, und auf der andern Seite eine Freyheit, die nach Bestimmungsgründen Handelt ohne gleichwohl durch den Saß vom Grunde nothwendig bedingt zu seyn , nicht zu bewahren vermochten. Daß der Mensch alle
+
+Grunde seiner Handlungen nicht übersieht, als welche nur von Gott durchschaut werden, bessert die Sache des Indeterminismus nicht. Denn wenn ich nur insofern frey handle , als ich die höhern Bestimmungsgrunde meiner Handlungen , durch welche ich doch eigentlich determinirt werde, nicht kenne; so ist meine Freyheit nichts mehr als eine Tauschung , die sich schon dadurch als solche ankündigt , daß ich dieGrunde meinerHandlungen nicht ken ne. Eben danach ist die Frage , ob dieHand lungen des Menschen durch äußere Grinde überhaupt , diese mögen von ihm eingesehen werden können oder nicht , determinirt werden , und wenn solche äußere Grunde zugestanden werden, so ist der Determinism zugestanden, mag man auch dem Menschen die Kenntniß der selben absprechen. Diese Schwierigkeiten, welche aus der Leibnizischen Lehre von der prdſtabilirtenHarmonie gegen die Freyheit erwach fen, waren es, die Clarke abndere und zum Thei
+
+[p. 957] Theile hervorhob ; nur daß er auch seinerseits die Freyheit nicht auf eine andere genugthuendere Art zu sichern vermochte , und daher Leibnizen nicht befriedigend widerlegen konte, der ihn immer mit dem Saße vom Grunde in die Enge trieb . Achtens : Der Fatalism folgt auch aus der Lehre von der prästabilir. ten Harmonie nicht bloß in Beziehung auf die Freyheit des Menschen und die Moralitat der vernünftigen Wesen , sondern auch in Beziehung auf die Weltordnung überhaupt. Die göttliche Erhaltung und Regierung der Welt wurde dadurch aufgehoben; und Clarke hatte nicht Unrecht , wenn er sagte , daß die Gott.
+
+heit daben als ein müſſiger unnützer Regent vorgestellt werde.
+
+Ist die Weltmaschine in allen ihren Veränderungen, sie mögen nach den Naturgesehen oder nach Freyheit erfolgen , prästabilirt , so ist für die Gottheit durchaus nichts weiter zu thun übrig. Die Vorsehung besteht eben darin , daß die Gottheit die Welt in dem Laufe der Ursachen und Wirkungen allgegenwärtig erhält , und ihre Uebereinstimmung mit dem Reiche der Freyheit bewirkt. Dies war auch wohl im Wesentlichen der Sinn, welchen Newton mit seiner Aeusserung , daß das Universum zuweilen der bessernden Hand Gottes bedürfe , verband ; denn hält man sich genau an den Worten dieser Aeusserung, so kann sie freylich nicht zugegeben werden, [p. 958] und braucht auch nicht zugegeben zu werden ; undeschadet übrigens der Lehre von der Vorsehung. Da Leibniz aber alles, auch das Reich der Freyheit, auf die prästabilirte Harmonie zurückführte , so war der Begriff der göttlichen Vorsehung in seinem Systeme ent weder ganz leer , oder er hatte einen ganz an Dern Sinn.
+
+§. 1043.
+
+Fortsetzung: Neuntens: Ale die bis her bemerkten Schwächen des LeibnizischenS stems verrathen sich auch , und zwar noch auf. fallender , in der Theodicae. Alles muß einen zureichenden Grund haben, und folglich auch Das Uebel in der Welt.
+
+Aber welcher ist der zureichende Grund des leßtern ? Die eigentliche Antwort, welche Leibniz auf diese Frage giebt , ist diese : Das Princip des Besten (daß das Beste zum Daseyn gelange) ist der zureichende Grund vom Daseyn des Uebels. Denn da Gott nach jenem Principe die beste Welt nothwendig schaffen mußte, diese aber als Inbegriff endlicher Wesen, ohne Unvollkommen heit und Uebel unmöglich war, so mußte er auch das letztere zur Wirklichkeit gelangen las sen; und so hat das Uebel darin seinen Grund, Daß [p. 959] daß die beste Welt existirt.
+
+Aber wenn auch das Princip hier zugestanden wurde, daß Gott nach seiner Weisheit und Gute nothwendig das Beste zur Wirklichkeit bringen muß.
+
+te , obgleich die Skepsis dagegen einzuwenden hatte, daß Gott an sich selbst schon das Beste und Vollkommenste sey, und es zur Erhöhung seiner Vollkommenheit gar keiner Schöpfung endlicher Wesen bedurfte; so ist doch eben die Frage: ob es gerade dem Principe des Besten gernäß war, daß eine so unvollkomne Welt , wie diese, von Gott geschossen wurde? Gott hat das Uebel nicht geivollt, sagt Leibniz, aber wegen des größern Guten , welches mit der Welt zum Daseyn gelangte , ließ er jenes zu. Dieses Zulassen heißt entweder , daß Gott das Uebel nicht habe hindern können , oder daß er es billigte , und deswegen nicht hindern wollte; das Erste widerspricht der Allmacht ; das Andere der Heiligkeit Gottes. Das Zulassen des Uebels durch die Gottheit kann also überhaupt nicht statt finden. Da ohnehin in Gott der zureichende Grund der Welt enthalten ist ; so folgt: daß auch der zu reichende Grund des Uebels in ihm seyn muße, wodurch aber die Gottheit selbst zum Principe der Unvollkommenheit wird , was abermals ih ter Natur widerspricht. Entweder hätte also Gott gar nicht schaffen , oder das Uebel hätte in der Welt fehlen müssen. Zehntens. In der Bea
+
+[p. 960] Behauptung, daß das Uebel eine bloße Schron. ke und Diegation der Realität sey , und als solche einerseits nothwendig zur Natur endlicher Wesen gehöre, andererseits der Gottheit, deren Geschöpfe nicht so vollkommen seyn konten , wie sie selbst , nicht zur last gelegt werden könne, wurde Leibniz ebenfalls durch die Amphibolie der Reflexionsbegriffe getäuscht. Er wandte den Sak : Realitäten können sich nicht widerstreiten , der allerdings von reinen Verstandesgegenständen gilt als von bloß logischen Bejahungen , auch auf Gegenſtände der Sinnlichkeit oder Erscheinungen an, wo er nicht gilt. Der Schmerz oder das physische Uebel steht allerdings im Widerstreite mit der lust, das Böſe mit dem Guten; und beyde sind Realitäten , die in demselben Subjecte verbunden einander gegenseitig in ihren Folgen auf. | heben. Iſt aber das Uebel eben so wohl eine Realität als das Gute , so läßt es sich nicht bloß aus der Endlichkeit der empfindenden und vernünftigen Substanzen herleiten und recht fertigen, und es fällt der Gottheit zur Lcst, ſofern es als ein reelles Product dieser er ſcheint. Elstens. Das moralisch Bose und die Möglichkeit desselben in der besten Welt konte Leibniz wohl auf die Nothwendigkeit der Freyheit für eine Ordnung vernünftigsinnlicher Wesen zurückführen. Allein es blieb auch hier
+
+Die Schwierigkeit zurück, warum Gott Intel ligena [p. 961] ligenzen zum Daseyn erhob , die durch den Einfluß ihrer sinnlichen Natur beständig zur Thorheit und zum Laster gereizt werden, welchea Anreizungen die meisten unterliegen. Ausserdem hob Leibniz selbst , wie oben ges zeigt worden , durch sein System der prästabilirten Harmonie die Freyheit auf, und da er die Caussalverbindung der Seele mit dem Körper leugnete , so war die ganze Charakterentwickelung des Menschen zum Bösen, wie zum Guten, ein von Gott selbst angeordneter
+
+Mechanismus.
+
+Zwölftens : Daß endlich das Uebel in der Welt oft Mittel zum Guten ist , kann wohl dienen, es in Beziehung auf den Menschen als erträglicher vorzustellen ; aber die Gottheit wird hierdurch wegen des Daseyns desselben überhaupt nicht gerechtser. tigt. Auch die ganze Theodiche Leibnizens ist daher als ein mislungener philosophischer Versuch zu betrachten. Vgl. Rant's Krit. d. r. Vernunft. Zweyte Ausg. S. 316 - Ebenders, über das Mis, lingen aller philosophischen Versuche der Theodicae, in den : Bleinen Schriften B. III S. 385.
+
+§. 1044. Leibniz trat auch als Gegner von Loc.
+
+Des Theorie des menschlichen Verstandes auf; Pppa ba.
+
+[p. 962] daher ich die Geschichte dieses Philosophen gleich mit der Geschichte jenes verbinden will,
+
+John Locke wurde gebohren zu Wrington in England im J. 1632. Den ersten Schulunterricht empfieng er zu London. Im I.
+
+1651 kam er auf die Universität zu Orford in das Christcollegium. Die aristotelischſcholastische Philosophie , die hier noch herschte, ward ihm bald verleidet; er hatte überhaupt keinen Sinn für die akademischen Lehrvorträ ge, wie sie damals waren, und begnügte sich, seinen Geschmack und seine Schreibart durch Studium der classischen Literatur und durch
+
+Umgang mit aufgeklärten Weltleuten auszubilden.
+
+Erst die lecture der Schriften des
+
+Cartesins weckte sein philosophisches Talent. Ungeachtet ihm das System desselben an sich keinen Beyfall abgewann , und er vieles dar gegen einzuwenden hatte; so zogen ihn doch die Klarheit der Ideen und des Ausdrucks an, und er machte daraus den Schluß, daß die Schuld seiner bisherigen Unwissenheit nicht in ihm, sondern in den Lehrern und Schriftstel Jen läge, die er gehört oder gelesen hatte. Nun widmete er sich mit neuem Eifer den Wissenschaften, vornehmlich dem Studium der Medicin.
+
+Er hat diese zwar in der Folge niemals praktisch ausgeübt, weil feine schwach liche Gesundheit dies nicht zulies ; hat sich auch nicht einmal die medicinische Doctorwurde er worz [p. 963] worben; aber er ward nichts desto weniger nach dem Zeugniße mehrer seiner gelehrten medici nischen Zeitgenossen einer der grundlichsten Kenner jener Wissenschaft. Im I. 1664 gieng er mit einem englischen Gesandten nach
+
+Deutschland an den Brandenburgischen Hof, und lebte ein Jahr hindurch in Berlin. Bey seiner Rickkunft nach England ward er dem Kanzler Grafen vonShaftsbury bekant , der sich seines medicinischen Raths bediente, und ihn in Kurzem seiner vertrauten Freundschaft würdigte, Locke lebte in dem Hause dieses vortrefflichen Mannes zu London , ohne daß er nöthig gehabt hätte, für seinen Unterhalt durch medicinische Praxis zu sorgen. Im I. 1668 begleitete er den Grafen von Northum berland auf einer Reise in Frankreich , und blieb während einer Excursion seines Gönners nach Rom bey der Gemahlinn desselben, mit welcher er nach dem erfolgten Tode des Grafen nach England zurückkehrte. Er lebte nun wieder im Hause des Grafen von Shafts. bury. Im I. 1670 fieng er seine Untersuchungen über die Natur des menschlichen Ver. standes zuerst an, ohne sie jedoch damals zu vollenden. Als Shaftsbury 1672 Großkanzler von England wurde , erhielt Locke das Amt eines Secretaire de la preſentation des benefices , das er aber bey dem Falle des
+
+Großkanzlers im folgenden Jahre wieder ver.
+
+for.
+
+[p. 964] lor. Auch das Amt eines Secretairede la com. mission touchant les commerces , das er im
+
+J. 1674 erhielt, hörte mit diesem Jahre auf. Locke, der die Schwindsucht fürchtete, reiste nun nach Montpellier in Frankreich , wo er mit seinem philosophischen Freunde , dem Grafen von Pembroke seine Muße theilte, und an seinem Werke über den menschlichen Ver. stand weiter arbeitete. Auch verweilte er zu
+
+Paris.
+
+Da sich unterdeßen Shaftsbury mit dem Hose wieder ausgeſöhnt hatte, rief er Locke'n 1679 nach England zurük. Dieser folgte dem Rufe , obgleich seine Gesundheit sich nicht völlig gebessert hatte , und er an einem Asthma litt , dem die Luft in London : nicht zuträglich war ; waher er auch oft auf dem Lande sich aufzuhalten genothigt war. Aber
+
+Shaftsbury fiel auf's neue in Ungnade, ward anfangs in den Tower gesetzt, und nach-
+
+Her gezwungen , freywillig sein Vaterland zu verlassen. Er begab sich nach Holland , wo er bey dem Stadthalter , Prinzen Wilhelm von Oranien, nachherigem Könige von England , die günſtigſte Aufnahme fand. Locke, der sich in England nicht sicher glaubte, reiste ihm dahin nach am Ende des Jahrs 1683, und wählte Amsterdam zu seinem Wohnorte. Hier vollendete er sein Werk vom mensch lichen Verstande, während die gegen ihn er. bitterte Hofparten in seinem Vaterlande wettei. ferte, [p. 965] ferte, ihn zu kranken. Er ward aus der Zahl der Mitglieder des Christcollegium's zu Or ford ausgestrichen , ungeachtet sich der damalige Bischof zu Oxford , John Fell, dieser Beleidigung widersetzte.
+
+In der Folge gien gen die Nachstellungen der Hofparten so weit, daß er zufolge einem königlichen Befehle ge. fangen genommen und nach England ausge. liefert werden sollte. Er mußte deßwegen sich bey seinen Freunden verborgen halten. Da endlich aber in England die Revolution erfolg te, durch welche Prinz Wilhelm von Dra nien den englischen Thron bestieg , so bekam auch er nicht nur die Freyheit wieder, in sein Vaterland zurückzukehren , sondern ward auch Commissair der Commerzien und Colonieen , und wurde noch größere Vortheile von jener politi.
+
+schen Veränderung gezogen haben , wenn seine, schwache Gesundheit ihm erlaubt hätte, offent liche Geschaffte , die eine größere Anstrengung erfoderten, zu übernehmen. Im J. 1694 erschien sein von ihm so lange durchdachtes und gefeiltes Werk über den menschlichen Verstand zum erstenmale in englischer Sprache , und ward mit so lautem Beyfalle aufgenommen, daß schon in den folgenden Jahren neue Ausgaben nöthig wurden. Locke lebte seit. dem meistens auf dem Lande theils auf den Landhausern des Grafen Pembroke , theils in der Familie Masham's , eines Schwieger. Ppps sohns [p. 966] sohns von Cudworth. Er benutzte die Musse zur Ausarbeitung seiner übrigen Schriften, die er nach und nach auch herausgab . Eine Verkältung, die er sich 1697 auf einer Reise nach London im Winter, um dem Verlangen des Königs, der sich mit ihm zu unterreden gewünſcht hatte , ein Genuge zu thun, zugezo.
+
+gen hatte, verschlimmerte seinen Gesundheitszustand ausserordentlich. Er starb 1704 im drey und siebzigsten Jahre seines Alters.
+
+S. die Literatur zu diesem Abschnitte.
+
+Eine ſc<due Lebensbeschreibung Locke's von le Clerc steht in der Bibliotheque choiſie T. VI. p. 342. und vor den : Oeuvres diverſes deMr. Locke; Roterd, 1710, 12, Sie ist in's
+
+Deutsche übersetzt von S. G. Starke vor der Ueberseßung von Locke's Tractate über die Erziehung der Kinder , und in seu Memoires mann's Act. phil. am a. D.
+
+pour ſervirá lavie d'Antoine Asley Comte de Shaftsbury et GrandChancelier d'Angleterre ſous Charles II tirées des papiers de feu Mr. Locke et redigées par le Clerc in der Bibl. choiſie T. VII. p. 146. Oenvres diverſes de Mr. Locke p. 497. Vgl. Bruckeri Hist. crit. philos. T. IV P. II p.
+
+602 fq. S. auch die Ausgaben vonLecke's sämtlichen Werken.
+
+§. 1045.
+
+[p. 967] §. 1045.
+
+Die Lehre vom Ursprunge der menschlichen Erkentniß und von der Beschaffenheit des menschlichen Erkentnißvermogens war der Hauptgegenstand , welchem Locke seinen philosophischen Fleiß widmete, und seine von ihm aufgestellte Theorie darüber ist es , welche inan gewöhnlich unter dem Namen der Lockischen Philosophie versteht, und die ihm die mei sten Bewunderer und Tadler erworben hat. Locke fand sich weder durch die Meynungen der ältern Philosophen , noch durch die seiner nächsten Vorgänger, namentlich des Des Car tes , befriedigt. Er konte sich nicht überzeugen, daß es angebohrne Erkentniße gebe, die vor aller sinnlichen Wahrnehmung , wenngleich unentwickelt , im Gemithe lägen, und glaub. te, daß jene Hypothese über die Natur des Erkentnißvermögens auf einer Täuschung be ruhe.
+
+Diese Tauschung auszudecken , die Unmöglichkeit angebohrner Begriffe und Grundsatze darzuthun, und zu zeigen, wie die Seele alle ihre Erkentniße ohne Ausnahme aus vor.
+
+Hergegangenen sinnlichen Wahrnehmungen bil. de, war daher sein vornehmster Zweck. Die Erfahrung war ihm die einzige Quelle, woraus der Mensch Erkentniß schipfe. Die Seele war ihm eine tabula raſa, ein bloßes Vermögen logischer Thätigkeit , dem aber die Objecte Dersel [p. 968] derselben von aussen gegeben werden.
+
+Um seine Theorie vom Ursprunge der Erkentniß richtig zu fassen, ist es am besten, dem Gange zu folgen, welchen er selbst in dem Verſuche über den menschlichen Verstand genommen. hat. Erstlich : Die Uebereinstimmung der Menschen in gewißen Grundbegriffen und
+
+Grundsätzen läßt sich auf eine andere Art er erklären ; ohne daß man nöthig hat, anzunehmen, daß sie der Seele angebohren seyen. Auch läßt sich jene Uebereinstimmung nicht schlechthin behaupten. Kinder und rohe Men schen, wie die Wilden , wissen von solchen Grundsaken und Grundbegriffen nichts , und erkennen sie nicht für wahr, weil sie dieselben ! nicht verstehn. Muß aber die Erkentniß der selben, wie alle übrige Erkentniß, erst erworben werden, so ist nicht einzusein , warum jene mit dieser überhaupt nicht einen gemein. schaftlichen Ursprung haben soll; oder man mußte alle Erkentniß für angebohren halten wollen , was ungereimt seyn wirda
+
+Degen
+
+Plato's Hypothese von den Ideen , welche Die Seele in einem Zustande vor dem gegen.
+
+wärtigen Leben durch Anschauung der intelligibeln Welt erlangt haben sollte, und die während ihrer Verbindung mit demKörper durch den Eindruck der Sinnendinge wieder erwach.
+
+ten, erinnerte Locke, daß die allgemeinenBegriffe später gebildet wurden , als die beson. Dern, [p. 969] dern , und die besondern aus der Empfindung entstanden. Diese Erinnerung widerlegte die
+
+Platonische Hypothese zwar nicht; aber Locke zeigte zugleich , wie die allgemeinen Begriffe aus den besondern gebildet würden, ihre Merk male aus diesen entlehnten und ohne diese gar nicht möglich waren , und damit war freylich jene Hypothese und mit ihr die wesentliche Grundlage des Platonischen Systems vernichtet.
+
+Darin aber that Locke offenbar den ältern , und besonders den neuern , Vertheidigern angebohrner Begriffe und Grundsätze, wie den Cartesianern, zu viel, wenn er ihnen die Meynung beylegte , daß jene Begriffe und Grundsätze in ihrer abstracten Allgemeinheit, und so wie sie in den 'wissenschaftlichen For. meln ausgedrückt werden, in der Seele a priori enthalten sepen. Diese Meynung konte er leicht aus der gemeinen Erfahrung widerlegen ; aber sie beruhte auf einem offenbaren Misverstandnike. Es ward von den Platonikern sowohl, | als von den Cartesianern , nur behauptet , daß gewiße Grundbegriffe und Principien zur Naturanlage des Erkentnißvermögens gehörten, wobey sie zugaben , daß es erst der Ersatz. rung bedürfe, wodurch die Vernunft zur wissenschaftlichen Entwickelung derselben durch Reflexion und Abstraction veranlaßt wurde; daher auch Kinder und ungebildete Menschen sich ihrer in der abstracten Allgemeinbeit [p. 970] heit und wissenschaftlichen Formel nicht be wust seyn konten. Locke stellte inzwischen die Behauptung auf, daß nichts in der Seele a priori enthalten seyn könne, was ihr nicht als zu ihr selbst gehörig unmittelbar im Bewußtseyn gegenwärtig sey. Zweytens! Die einzige Quelle der menschlichen Erkentniß ist also die Erfahrung. Diese ist entweder ei ne äußere oder eine innere; und es giebt überhaupt nur zwey Gattungen von Ideen, ! solche, die aus der äußern Erfahrung geschopst werden (Ideen der Sensation), und solche; Die aus der innern Erfahrung entspringen (Ideen der Reflexion). Die Gegenstände der ersten sind alle körperliche Dinge; die Gegen ſtände der andern die innern Thätigkeiten der Seele, Bahrnehmen , Denken , Zweifeln, Glauben u. w. Die Reflexionsideen erfolgen später, als die der Sensation ; well die Seelen verrichtungen an sich selbst sich den Bewuße seyn nicht mit der Klarheit darbieten , wie die Förperlichen Dinge durch äußere ſinnlicheEin drucke, und jene auch Reflexion und Abstrac >
+
+Lion voraussehen. Eine Folgerung , die Leca te hieraus zog , war , dok ohne Bewußtseyn keine Vorſtellungen möglich sind, weil Vor.
+
+stellungen haben und sich derselben bewust seyn identisch ist . Er widersprach also auch der Be
+
+Hauptung des Des Carres , daß die Seele immer denke, und daß ihr Wesen im Denken beste bea [p. 971] he. Da wir uns des Denkens nicht immer bewußt sind , so läßt sich auch nicht beweisen, daß die Seele immer denke , und daß sie ihrem Wesen nach eine denkende Substanz sey. Drittens : Die Ideen entsprechen Objecten, ſie mögen nun Ideen der Sensation oder der
+
+Reflexion seyn; oder es ist gar keine andere Erkentniß der Objecte möglich , als wie sie durch unsere Ideen bestimmt wird. Die Ideen überhaupt aber sind entweder einfach , und können nicht weiter zergliedert werden, oder sie sind aus den einfachen zuſammengeſetzt, Die einfachen entspringen allein aus der äußern oder innern Empfindung , wie ein Gefühl, Geruch, Geschmack; und machen zuletzt den ganzen Stoff und Reichthum unserer Erkent.
+
+niß aus; denn alle zusammengesetzte Vorstellungen lassen sich zuletzt in einfache auflösen. Der Verstand kann diese nicht aus sich selbst Hervorbringen , kann sie nicht andern, sondern muß sie nehmen , wie sie ihm dargeboten werden. Die einfachen Ideen haben ferner ihren Grund in der Empfindung eines einzelnen Sin nes, oder in den vereinigten Empfindungen mehrer. So beruhen die Ideen des Lichts und der Farbe nur auf den Sensationen des Auges ; die Ideen des Geruchs und Geschmacks auf den Sensationen der Nase und der Zunge; hingegen die Ideen der Ausdehnung und Figur auf den Sensationen des Gesichts und Bez
+
+[p. 972] Gefühls zugleich. Eine Menge dieser ein fachen Ideen, z . B. Sensationen des Geruchs, Geschmacks , haben keine besondere Namen , woran aber hier nichts gelegen ist, da es bloß darauf ankomt , die Natur und Grenzen des
+
+Erkentnißvermögens überhaupt festzusetzen. Locke hatte nicht die Absicht, ein metaphy. sisches System zu erbauen; aber er entwickelte doch mehrere metaphysische Grundbegriffe, um darzuthun , wie sie aus einfachen Ideen der Erfahrung hervorgehen. Dergleichen waren die Begriffe von Solidität , Raum , Ausdehnung, Figur, Bewegung , Ruhe, welche die aussere Empfindung gewährt ; die Begriffe des Denkens und Wollens , welche die innere
+
+Empfindung kennen lehrt; die Begriffe des Daseyns , der Einheit , des Vermögens, des Vergnügens und Schmerzes, welche aus der äussern und innern Empfindung zusammen ent springen. Viertens : Einen wichtigen Unter. schied machte Locke in Ansehung der Ueber einstimmung unserer Ideen mit den Dingen und ihren Qualitäten. Er sonderte qualitates primarias und ſecundarias von einander ab. Die erstern kommen den Gestanden wirklich zu, und sind von ihnen unzertrennlich. Da. hin gehören Ausdehnung , Figur , Solidität and Beweglichkeit. Die andern können nicht als reelle Qualitäten der Körper objectiv be. trachtet werden; sondern grunden sich auf den
+
+[p. 973] Mechanismus der sinnlichen Organisation , und sind nur scheinbare objective Qualitäten,
+
+* wie Farben , Geruche , Tone, Geschmackssen sationen. Indeßen stúkt sich doch diese zweyte Art der Qualitäten auf die erste , und insofern kann ihr auch die Realität überhaupt nicht ab
+
+* gesprochen werden. Sunftens: Aus den ein fachen Ideen wird durch die Bearbeitung des Verstandes eine zahllose Mannichfaltigkeit neuer
+
+Ideen hervorgebracht.
+
+Die logische Thätig keit des Verstandes besteht : a) in der Zusammensetzung mehrer Vorstellungen in eine; b) in der Entgegenstellung und Vergleichung der Vorstellungen , wodurch die Verhältnißbe griffe bewirkt werden; c) in der Abstraction, welche die allgemeinen Begriffe erzeugt. Das Wesen der Vernunft überhaupt ist das Ver. mögen, die Einstimmung oder den Widerspruch - in den logischen Thätigkeiten zu bemerken, und die zusammengesetzten Ideen auf einfache zurückzuführen. Alle zusammengesetzte Begriffe bringt Locke unter drey Classen : a) solche, welche die Beschaffenheiten der Substanzen; b) solche , welche die Substanzen selbst ; c) solche, welche die Verhältniße der Substanzen betreffen. Die erstern bestehn theils aus verschiedenen einfachen Ideen , die combi nirt sind; theils aus einer mehrfachen Wiederholung derselben Ideen, wie die zusammenge. sekten Zahlbegriffe. Die andern drücken ent.
+
+wes [p. 974] weder nur Eine Substanz aus , ober auch Col. lectiva von Substanzen , wie die Begriffe einer Heerde, eines Kriegesheers. Auch den den Verhältnißbegriffen ist derselbe Fall. Loc. ke geht nun in's Einzelne, um die Bildung der zusammengesetzten Iden aus den einfachen factisch klar zu machen. So beruht dieVor stellung des Raumes auf der Wahrnehmung der Entfernung zwischen Körpern durch Ge sicht und Gefühl.
+
+Neue Zusammensehungen der Verhältniße im Raume geben die Begriffe von Maaßen , und da wir uns bewußt werden , daß diese Zusammensetzungen nie ein Ende oder Hinderniß finden , so erhalten wir dadurch den Begriff der Unermeßlichkeit. Auf gleiche Weise entspringt der Begriff der Figur und der Mannichfaltigkeit derselben durch mannichfaltige Zusammensetzung der Theile, welche die Ausdehnung begrenzen. Locke be stritt auch die Cartesianische Behauptung, daß Körper und Ausdehnung einerley seyen. Ein Körper erfüllt den Raum; der Kaum an sich ist unerfüllt, und jeder Körper kann in denselben eindringen. Der Kaum ist nicht physisch theilbar , oder die Theile desselben können nicht bewegt werden; der Körper ist physisch theil bar , und jeder Theil desselben ist für sich beweglich. Aber wofür hielt Locke den Raum selbst ? Dies ließ er unentschieden und zeigte zugleich das Unbefriedigende in einigen gang. baren [p. 975] bom Leibniz bis auf Wolf. baren Erklärungen. Wird die Ausdehnung durch das Aussereinanderseyn von Theilen definirt, so heißt das , die Ausdehnung durch die Ausdehnung definiren. Auch lasse sich nicht angeben , ob der Raum Substanz oder Acci. ■ dens sey, da wiederum die gangbaren Bestimmungen des Begriffes der Substanz nicht ge nugthuend sind. Soll die Substanz in Beziehung auf Gott, endliche Geister , und Körper dasselbe seyn, so unterscheiden sich diese nur durch Einschränkungen oder Modificationen desselben. Dinges. Ist die Substanz aber in Beziehung auf jene drey Gegenstände ver schieden, so sind diese dren verschiedenen Begriffe der Substanz noch von seinem Philosophen bestimt worden. Uebrigens vertheidigte Locke die Existenz des leeren Raumes aus denselbenGrunden , welche schon die Epikureer gebrauchten.
+
+Die Wahrnehmung der un terbrochnen Folge unsrer Vorstellungen im Wa then giebt uns den Begriff der Succession , und durch die Bemerkung der Entfernung zwischen zwey Puncten dieser Folge gerathen wir auf den Begriff der Dauer. Wenn das
+
+Wahrnehmen jener Folge der Vorstellungen aufhört, wie in tiefem Schlafe, hört auch der Begriff der Dauer auf. Die Zeit erklärte Locke für eine durch gewiße Maaße bestimte Dauer, wo er aber die Zeitanschauung über
+
+Haupt mit einem Theile der Zeit verwechselte.
+
+[p. 976] Sowie wirnundurch das Bewußtseyn, die Ausdehnung immer erweitern zu können, ohne je mals an die Grenze zu gelangen , uns den
+
+Begriff der Unermeßlichkeit oder der Unendlichkeit simultan bilden ; so erhalten wir mittelst eben dieses Bewußtseyns in Ansehung der Succession den Begriff der Ewigkeit. Der Begriff der Unendlichkeit überhaupt ist von der Ausdehnung und Dauer hergeleiter ; die | Theile dieser sind zählbar und lassen dieHinzu fügung anderer Theile zu ohne Ende; daher kann auch die Unendlichkeit von der Weisheit, Macht, Gute , und ähnlichen Gegenständen nur uneigentlich prädicirt werden.
+
+Locke folgerte auch hieraus , daß die Vorstellung einer unendlichen Dauer , und eines unendlichen Raumes nur negativ sey , und daß man daher die Vorſtellung eines unendlichen Rau mes nicht mit der Vorstellung der Un. endlichkeit des Raumes verwechseln musse. -
+
+Durch die Wahrnehmung, daß die Dinge , ausser uns entstehen und aufhören, und daß unsre Vorstellungen theils durch die Einwirkung äusserer Objecte auf die Sinne, theils durch unsern innern Willen verändert werden, bekommenwir den Begriff eines Vermögens. Dieses ist entweder leidend oder thätig; das erstere lernen wir durch alle Arten empfindbarer Gegenstände kennen; das andere erkennen wir am klarsten durch unsere eigene Thätigkeit. Loc
+
+[p. 977] Locke geht bey dieser Gelegenheit zu einer Untersuchung der Natur der menſchlichen Freyheit über. Den Willen erklärte er als das
+
+Vermögen , die Gegenwart oder Abwesenheit einer gewißen Vorstellung zu bestimmen , oder auch in Ansehung des ganzen Körpers die Bewegung der Ruhe und umgekehrt vorzuziehen. Die Freyheit aber ist das Vermögen zu den ken und nicht zu denken, zu handeln und nicht zu handeln , wie man es gut findet. Sie seht also nothwendig das Denkvermögen oder den Willen voraus , und gehört nicht dem Willen allein, sondern dem gesamten Menschen; daHer, Locke die Frage ; ob der Wille frey sey? für ungereimt hält. Der Wille wird bestime durch den Verstand , und dieser wiederum durch den Zustand der Unbehaglichkeit, wel.
+
+chen man überhaupt Verlangen nennen kann; nur daß man das Verlangen von dem Wollen unterscheiden muß. Sind wir mit einem gegenwärtigen Zustande zufrieden, so bleiben wir in demselben , und streben nicht danach , ihn zu andern; erst die Unzufriedenheit mit dem gegenwärtigen Zustande ist es, die uns thätig macht , oder die den Willen bestimt.
+
+Es fließt hieraus, daß nicht das höchste Gut der leste Bestimmungsgrund des Willens ist. Mag man Jemanden auch noch so sehr über reben, daß ein gewißer Zustand besser seyn werde , als ver, in welchem er sich befindet;
+
+ist [p. 978] ist er mit dem leßtern zufrieden , wird er sich nie in jenen versehen wollen. Ein Weintrin ker geht auf's neue in ein Weinhaus , und wenn er auch die traurigen Folgen der Trunkenheit , und die bessern der Nüchternheit , auf's deutlichste einſieht. Jenes Verlangen eines Bessern kann übrigens der Mensch befriedigen , oder nicht , und darin besteht das
+
+Wesen seiner Freyheit. - Wir finden oft ge. wiße einfache Ideen immer verbunden.
+
+Ob
+
+Diese gleich eine Mehrheit von verbundenen Vorstellungen ausmachen, ſo ſtellen wir sie uns doch reßwegen, weil wir sie stets mit ein ander vergesellschaftet finden , als Eine einfache Idee vor. Gleichwohl können wir uns nicht denken, daß sie für sich zu bestehen vermochten, und dadurch werden wir berwogen , ein Etwas anzunehmen , in welchem sie sich befinden. Dies ist der Ursprung unsers Begriffes einer Substanz , oder eines Substrates.
+
+Demnach ist Substanz ein für uns an sich selbst ganz unbekantes Subject, vermöge desßen wir nur gewiße Qualitäten als zu einem Ganzen verbunden und in dieser Verbindung dauernd uns vorstellen. Aus den Vorstellungen ein.
+
+zelner Substanzen gehen denn die collectiven Begriffe mehrer mit einander verbundener, und zuletzt der Begriff des Universum's her.
+
+yor.
+
+Die Begriffe von Ursache und
+
+Wirkung entstehen in uns dadurch , daß twit [p. 979] wir mehr besondere Gegenstände , sowohl Substanzen, als Qualitaten , durch den Einfluß anderer Objecte zur Wirklichkeit gelangen sehen. - Auch die Begriffe von Einerleyheit und Verschiedenheit entwickelt Locke aus der Erfahrung. Der erste wird gebildet, wenn wir ein Object zu verschiedenen Zeiten und an verschiedenen Orten mit sich selbst vergleichen, und wahrnehmen, daß es dasselbe geblieben ist. Locke leitete daraus folgende Grundsätze der Identität her : Ein Ding kann nur in Einem Orte zu Einer Zeit existiren; was also denselben Anfang in Beziehung auf Zeit und Ort hat , ist dasselbe Ding. Ein materieller Haufe , der weder abnimt , noch zunimt , bleibt derselbe. Als Princip der Individuation nimt Locke die Existenz eines We sens in einem bestimmten Orte und zu einer beslimten Zeit an , welche von demselben keinem andern Wesen mitgetheilt werden kann. Bey organiſierten und lebenden Geschöpfen wird die
+
+Identität nicht bloß durch die Dauer der Masse der Materie, sondern auch durch die Dauer der Organisation und die Fortsetung des Bewußtseyn's bestimt.
+
+§. 1046.
+
+[p. 980] XXII . Abs. Geschichte der Philos. §. 1046. Nach dieser Deduction der Erkentniß aus der Erfahrung im Allgemeinen zeigt Locke nun noch genauer , wie sich die Erkentniß in ihrem ganzen Zusammenhange, und nach ihrer Verschiedenheit , bilde. Vorher aber widmet er der Sprache, sofern sie mit der Erkent. niß in der engsten Verknüpfung steht , eine besondere Untersuchung. Die Sprache besteht aus Wörtern , und diese bezeichnen meistens allgemeine Begriffe von Gattungen und Arten.
+
+Es kam ihm also hauptsächlich dar auf an, den Ursprung und die Natur der allgemeinen Begriffe aufzuklären, und hieru. der hat er auch ungemein viel Licht verbreitet.
+
+Zunächst bezeichnen die Wörter nur die Be. griffe des Redenden selbst; aber sie beziehen sich auch mittelbar auf die Ideen anderer-Menschen; denn der Redende seht voraus , daß Andere mit seinen Worten als Zeichen seiner Vor stellungen eben dieselben Vorstellungen verbinden werden , die er damit verbindet. Daß die Wörter aber das Allgemeine der Objecte des zeichnen, hat seinen Grund nicht im Zufalle, sondern in der Nothwendigkeit. Die Zahl der individuellen Gegenstände ist unendlich, und daher ist es unmöglich , daß jeder mit ei nem individuellen Namen bezeichnet werde.
+
+Auch w rde kein Mensch diese Zeichen haben im [p. 983] im Gedächtniße behalten können. Es wurde ferner die Bezeichnung aller Individualitäten für die menschliche Erkentniß selbst nichts weniger als vortheilhaft gewesen seyn; denn alle Individuen können nicht von Allen gleich genau gekannt seyn; eine zahllose Menge von Wörtern würde also doch wegen ihrer Unver. ständlichkeit bald für diesen , bald für jenen, unbrauchbar gewesen seyn. Endlich die indi. viduelle Erkentniß muß doch zur allgemeinen erhoben , oder darauf bezogen werden. Individuelle Namen sind daher bloß solchen Ge. genständen eigen geblieben , die für Andere oft bezeichnet werden müssen, wie Städten , Flú Hen , Bergen, Menschen u. d. gl. Ein Wort wird allgemein , wenn es als Zeichen eines all, gemeinen Begriffes gebraucht wird , und ein Begriff wird allgemein, wenn man das Individuelle der Qualitäten , der Umstände, der Zeit und des Ortes, von ihm abs sondert.
+
+Es ergiebt sich hieraus aber, daß allgemeine Ausdrucke so wenig als allgemeine
+
+Begriffe Individuen bezeichnen, sondern nur gewiße Gattungen derselben. Daher ist auch das Wesen einer jeden Gattung der Dinge als solcher nichts als der abstracte Begriff deßen, was den Individuen der Gattung gemeinschaftlich ist. Alles, was Art oder Gattung heißt, ist lediglich ein Erzeugniß unsers Verstandes , das sich auf die Aehnlichkeiten der Objecte be zieht.
+
+B zieht. Hiernach unterschied Locke die Wesen in reelle und Namenwesen , wovon jene die wahren innern Beschaffenheiten und Einrichtungen der Dinge, in welchen die übrigen Qualitäten gegründet sind, diese die allgemeinen Gattungsbegriffe anzeigen. Die leßtern flehn in genauer Verbindung mit den Namen der Dinge, und sind in Ansehung der einfachen Begriffe und der aus ihnen gebildeten abstracten stets mitden erstern einerley. So ist das reelle Wesen und das Namenwesen eines Dreyecks Cines und dasselbe. Hingegen in Beziehung auf die Substanzen ist das reelle Wesen von dem Namenwesen sehr verschieden. Hier ist uns das reelle Wesen und die wahre innere Zusammensetzung der Theile gänzlich unbekant, anstatt daß uns der allgemeine Gattungsbegriff sehr bekant ist.
+
+Den Gattungsbegriff des
+
+Goldes kennen wir genau , aber von dem innern
+
+Principe seiner Beschaffenheiten und Eigenschaften wissen wir nichts. Der gemeine metaphysische Grundsatz , daß die Wesen der Dinge ewig seyn , gilt bloß von den Namenwesen ; nicht von den reellen Wesen; denn jene als
+
+Begriffe bleiben immer dieselben; diese aber entstehn und vergehn mit den Dingen selbst. Locke folgerte weiter hieraus , daß die Ramenwesen allein den specifischen Unterschied der Dinge bestimmen. Man nimt Eis und Wasser als verschiedenartig an , nicht weil sie es ihrem ihrem reellen Wesen nach wären, sondern weil sie verschiedene Namen haben.
+
+Auch beweisen die Misgeburten, daß die Natur niemals sich nach gewißen unveränderlichen Formen und Wesen richtet. Die Misgeburten stehn unter keiner eignen Gattung; denn sie haben wenig oder gar keine von den Beschaffenheiten, die als wesentlich bey den Dingen gelten , von welchen sie entspringen. Ueberdem sind uns die reellen Wesen der Dinge unbekant, und können also zur specifischen Unterscheidung und
+
+Classification gar nicht angewandt werden. Die Art der Generation kann die Gattungen nicht unterscheiden; erstlich beträfe dies Kriterium nur die Vegetabilien und Thiere ; zweytens zeugen Thiere verschiedener Gattung mit einander ; die Natur befolgt also auch hier kein festes Muster der Formen , sondern vermischt die
+
+Formen. Endlich bey der Erfindung der Sprachen konten die Menschen in der Abthei lung der Gattungen auf die reellen Wesen keine Rücksicht nehmen, weil sie diese gar nicht oder viel zu wenig kannten. Die Bestimmung der Wesen der Dinge rührt demnach von den Menschen selbst her, und ist ein Product ihres Verstandes , wiewohl sie darin nicht immer der bloßen Willkühr, sondern auch, so gut sie konten, den Merkmalen folgten, welche ihnen die Natur selbst darbot. Die abstracten Begriffe von moralischen Gegenständen und Handlun.
+
+[p. 984] XXII Abs, Geschichte der Philos. lungen sind fast bloß willkührlich; weniger sind es die angenommenen Namenwesen der Substanzen, die doch auch auf Erfahrung beruhen,
+
+§. 1047. Bis dahin hatte Locke den Quellen und dem Ursprunge unserer Begriffe und ihrer Be zeichnungsart überhaupt nachgeforscht. Diunmehrobemühte er sich das Wesen, dieGultigkeit und Grenzen derselben überhaupt festzusetzen. Alle Erkentnih ist ihm in etwas strengermSinne genommen die Wahrnehmung der Uebereinstimmung unserer Vorstellungen und Begriffe, und erstreckt sich also nicht weiter , als sich diese erstrecken. Ob Etwas vorhanden sey , worauf sich unsre Vorstellungen nicht beziehen mögen; und warum dasselbe für unsre Erkentniß nicht gegeben seyn könne ? Diese Fragen Läßt er hierbey unberührt. Die Erkentniß kann ferner nur so weit gehn, als wir die Ver.
+
+bindung und das Verhältniß unsrer VorstelJungen einzusehen im Stande sind , d. i. als das Anschauen , das Kaisonnement , und die
+
+Sensation uns Verbindungen und Verhältniße entdecken lassen. Auch das bloße Anschauen, welches Locke ein unmittelbares Verhältniß. ge.
+
+[p. 985] vow Leibniz bis auf Wolf. gefühl nennt, umfaßt nicht alle Ideen; manche können wir nur mit Hülfe einer Mittelidee vergleichen. Es läßt sich z. B. durch bloßes Anschauen nicht einsehen, ob ein gegebenes spikwinklichtes Dreyeck einem stumpfwinklichten von gleicher: Basis und Höhe gleich sen? Ebenso wenig umfaßt dieVernunfterkentnißalle, indem es uns oft an den nöthigen Mittelideen fehlt, um ein Kaisonnement zu Stande zu bringen. Die Sensation ist noch viel einge. schränkter, als die Anschauung und das Raisonnement, weil sie niemals über das , was wirklich in die Sinne fällt , hinausgeht. Ue. berhaupt ist die Erkentniß gerichtet entweder auf Einerleyheit und Verschiedenheit, oder auf Coexistenz , oder aufRelation , oder auf reelles Daseyn der Dinge. Das erstere wird durch unsere Anschauung eben so gut bestimt, wie durch unsere Begriffe; denn wir können keinen Begriff von Etwas haben , ohne daß zugleich die Einsicht damit verbunden wäre, daß er von jedem andern verschieden sey. Beschränkter ist unsre Erkentniß in Ansehung der Cos existenz. Denn unsre Begriffe von Substan gen sind, wie oben gezeigt worden, bloße Aggregate in einem Subjecte vereinigter einfacher Ideen; aus diesen einfachen Ideen selbst sehen wir aber nicht ein, inwiefern sie mit andern einfachen Ideen zusammenhangen oder unver träglich sind; daher können wir nicht bestim mena [p. 986] men , was Gegenstände noch sonst für Beschaffenheiten ausser den von uns erkanten haben können. Wir wissen , daß der Geruch , der Schall, der Geschmack, der Körper von der Art der Verbindung ihrer Theive abhange ; aber wie sie aus dieser abzuleiten sind , wissen wir nicht. Deßwegen vermögen wir auch nicht die Kraste und Vermögen der Substanzen aus Begriffen einzusehen. Was endlich das wirk. liche Daseyn der Dinge betrifft, so haben wir eine anschauende Erkentniß nur von unserer eignen Existenz, eine demonstrative von der
+
+Existenz Gottes, und von allen übrigen Din. gen eine bloß sinnliche Erkentniß , so weit wir ihreGegenwart unmittelbar empfinden. Locke geht hierauf zur Untersuchung der Grundsätze und den Folgerungen aus Definitionen über. Hier verräth sich aber seine Unbekantschaft mit der Metaphysik und der Natur der Erkentniß apriori überhaupt gar zu auffallend.
+
+spricht den seit Aristoteles angenommenen philosophischen Axiomen alle Brauchbarkeit ab. Sie sind nach ihm nicht die einzigen on sich evidenten Vernunftwahrheiten ; die identischen particularen Sätze , und die eingeschränktern Fälle jener haben dieselbe und wohl eine noch größere Evidenz. Auch sind sie für die Erkentniß von höchst geringem oder gar keinem Nutzen, weil die besondern Fälle allemal eher eingesehen werden, als sie. Jedermann weiß eher, daß zwey [p. 987] zwey mal zwey vier sind , als daß das Ganze seinen Theilen gleich seyn musse. Locke fol gerte hieraus , daß die Uriome zum Beweise der unter ihnen Rehenden Säße ganz überflüßig seyen; sie konten daher die Grundlagen keiner Wissenschaft abgeben; auch habe noch Nie mand z. B. auf dem Sake des Widerspruchs eine Wissenschaft erbaut. Sie tragen auch zur Erweiterung unserer Erkentniß nichts bey; es läßt sich aus ihnen das Wahre eben so gut be weisen , wie das Falsche , und sie können also Höchstens nur zu einem endlosen Dispute dies nen. Zu den leeren Sätzen rechnete Locke nicht bloß die identischen, sondern selbst solche, wo ein Merkmal eines zusammengesetzten Begriffs diesem als Prádicat beygelegt wird , al. so alle analytische Urtheile, z. B. jeder Mensch ist ein Thier. Durch dergleichen Urtheile lernen wir nichts , als was wir vorher schon wußten, und unsere Einsicht wird dadurch im gering. sten nicht vergrößert. Nur durch solche Ur theile , wodurch dem Subjecte ein Prädicat beygelegt wird , das nicht im Begriffe dessel.
+
+den enthalten ist, wird unsere Erkentniß wirklich erweitert. Damit wurde vom Locke der
+
+Werth der analytischen Erkentniß ganz aufgehoben. Seine Unkunde der Metaphysik verräth
+
+Locke noch mehr da , wo er nach seiner Art zu philosophiren über metaphysische Probleme selbst raiſonnirt. Er äuſſert, daß manche derselben [p. 988] sich nie wurden zur Entscheidung bringen las sen; daß dagegen andere, sobald man von den
+
+Vorurtheilen einseitiger Systeme abstrahire, sehr leicht entschieden werden kanten. Unter den Problemen, die nach seiner Meynung kei ner Entscheidung fähig sind , wirst er auch das auf:
+
+Ob das Materielle denken könne?
+
+Wir sehen freylich ein, daß die Materie von Natur nicht empfinde und denke; aber dennoch llegekeineUnmöglichkeit darin, daß GottderMa terie oder einer gewißen Organisation derselben das Vermögen zu empfinden und zu denken mitgetheilt habe. Das Gegentheil hiervon läßt sich zum mindesten durchaus nicht beweisen. Locke gewährte durch diesehingeworfene Neusserungdem Materialism einen großen Vorschub , der nachher von den Anhängern dieser
+
+Vorstellungsart sehr benutzt wurde. Eigentlich aber hieß es das Problem unbeantwort lich machen. Denn wenn man zu der Allmacht Gottes seine Zuflucht nimt, um etwas zu erklären, was sich aus natürlichen Grunden nicht erklären läßt, so hat es mit der Philosophie darüber ein Ende.
+
+§. 1048. Die Theorie Locke's von der Natur und bemUrsprunge der Erkentniß beruhte auf Principien, cipien , die denen geradezu entgegengesetzt wa ren, aus welchen Leibniz die feinige herleitete. Jener ließ alle Erkentniß aus der äußern und innern Erfahrung entspringen; es gab für ihn gar keine Erkentniß a priori ausser der abstracten, die doch nur sehr uneigentlich so heißen konte, weil sie dem Inhalte nach immer aus der Erfahrung entlehnt , und also in der. That a posteriori mar.
+
+Leibniz nahen hingegen gar keine aussere Einwirkung der körperlichen Substanzen, auf die Seele an, nicht einmal eine Einwirkung des Körpers selbst, mit dem Die Seele in der nächsten Verbindung steht, sondern die nothwendigen Gesetze der Erkentniß sind in der Seele a priori gegrundet, und die ganze Reihe der Vorstellungen und Thätigkeiten der Seele geht lediglich aus ihrem innern Principe hervor.
+
+Deyde Philosopher waren also für einander durch ihre Systeme gleichſam natürliche Gegner, Das Lockische mußte die Aufmerksamkeit Leibnizens um so lebhafter erwecken, je größern Benfall es im Publicum erhalten hatte, was aus dem
+
+Charakter desselben , da es immer an der Hand der Sinnenerfahrung fortschritt, und aus der popularen Darstellung sehr erklärlich ist. Leib. niz entwarf demnach prüfende und widerlegen. de Anmerkungen dazu , von denen er auch einige noch bey. Lebzeiten Locke's bekant mach te, die dieser aber nicht so wohl aufnahm, wie
+
+[p. 990] XXII. Abf. Geschichte der Philos. man hätte erwarten sollen. Die ganze gegen Locke gerichtete Untersuchung Leibnizens wurde indeß nicht bey jenes Lebzeiten vollender, und darüber kam sie nicht in's Publicum, weil der leptere nicht gegen einen Verstorbenen streiten wollte, wiewohl er doch seine dahin gehörigen Aufsätze mehrern Gelehrten mittheilte. Erst nach Leibnizens Tode ward sie bekant gemacht unter dem Titel : Nouveaux Eflays für Tentendement humain par l'Auteur de Pharmonie preetablie. Leibniz ließ dem philosophischen Talente und Verdienste seines Gegners vollkomne Gerechtigkeit wiederfahren, ohne darum die Schwächen und Fehler seines Systems , so wie er sie dafür hielt , zu verſe len. Er entwickelte genauer und lichtvoller feine eigene Theorie von der Natur und dem
+
+Ursprunge unserer Erkentniß, die zwischen dem Cartesianismus und der Lockischen das Mittel hielt, und trug dadurch unstreitig bey, diese ganze Lehre weiter aufzuhellen, und einer vollig befriedigenden Wufklärung näher zu bringen. Zunächst bestritt er die Behauptung, von welcher Locke ausgegangen war , daß es keine angebohrne Grundsätze und Begriffe ge. den könne, und daß alle unsere Erkentniß ohne Ausnahme in der äußern oder innern Erfahrung ihren Grund habe? Er zeigte, daß die Sinne immer nur einzelne Dinge vorstellen, nie das Allgemeine, und daß folglich auch [p. 991] in ihnen der Grund des Allgemeinen nicht ges sucht , oder aus ihnen erklärt werden könne.
+
+Eben so wenig lassen sich die Grundbegriffe der Erkentniß , Nothwendigkeit , Einerleyheit , Substanz , u. w. aus der sinnlichen Erfahrung ableiten, weil die Sinne die Gegenstände dieser Begriffe nicht darbieten. Leibniz berief sich überdem noch auf andere Gegengrunde. Die Vorstellungen der Sinnengegenstände kon.
+
+nen weder unmittelbar von Gott durch ein
+
+Wunder hervorgebracht werden, noch auch durch die physische Einwirkung der Körper selbst , die (zumal nach dem Monadensysteme) unbegreiflich ist; folglich müssen alle Vorstel. lungen und Begriffe sich aus dem innern Pelncipe der Seele entwickeln , können aber nicht von aussen in diese hineinkommen. Ferner H wir haben offenbar Erkentniße a priori , det. gleichen die nothwendigen Grundsätze und die mathematischen Wahrheiten sind , die nicht nur vor der Erfahrung und unabhängig von Derselben eingesehen werden können, sondern sich auch aus dieser gar nicht einsehen lassen.
+
+Alle Induction aus Erfahrung , und wenn sie auf noch so viel Datis sich stust , kann einem Saße jene strenge Allgemeinheit und Nothwendigkeit nicht verschaffen, mit welcher wir die to. gischen Grundsätze und die mathematischen Wahrheiten erkennen. Jene Inductionen zeigen nichts weiter, als daß ein Gegenstand so Xtra ist [p. 992] ist; daß er aber immer so seyn werde , so sent musse , und nicht anders seyn könne , das zeigen sie nicht. Da wir nun nothwendige und ſtreng allgemeine Erkentniße haben, diese aber nicht aus der Erfahrung fließen können, müssen ſie a priori in der Seele gegründet seyn.
+
+Hierbey aber bemerkte Leibniz ausdrucklid, daß die angebohrnen Begriffe und Grundsät nicht in ihrer abstracten Allgemeinheit und noch weniger in ihrer wissenschaftlichen Formel in der Seele liegen , also nicht a priori vollen dete Ideen sind; sondern daß die Seele nur die Anlagen und Dispositionen dazu enthalte wie in den Adern eines Marmorblocks die Figur des Herkules gezeichnet seyn konte, bis Figur also demselben gleichsam angebohren wäre, wiewohl es erst noch der Arbeit des Künstlers bedurfte, um die Adern zu entdecken und das überflüßige Gestein abzusondern. Die Ideen und Wahrheiten sind uns angebeg ren, nicht in dem Sinne , als ob sie wirklic dem Bewußtseyn gegenwärtig und in Thärig keit sich äußerten , sondern wie die Triebe und Neigungen , obgleich jene und diese immer mit einiger , nur unmerklicher, Thätigkeit verbunden sind. Die Entwickelung jener Ideen fest freylich die Erfahrung voraus , damit die Seele ihre Aufmerksamkeit darauf richte , und gu bestimten Hervorbringung derselben ihre Kraft anwende. Diese Erfahrung und ihr Verhält nig [p. 993] niß zur inneren Seelenthätigkeit erklärte Leib. niz auf eigene Art, und mußte sie seinemSyſteme gemäß ſo erklären. Die Sinne geben bloß zu den Vorstellungen die Veranlassung; sie sind die gelegenheitlichen Ursachen ihrer Entstehung; aber sie sind nicht die Canale, mis telst deren die Körper auf die Seele einwirken und die Vorstellungen erzeugen. Die Entwickelung der Erkentniß überhaupt richtet sich nach dem Körper, und entspricht harmonisch den
+
+Thätigkeiten der Monaden, aus welchen der Körper besteht. Eben hiernach richtet sich auch die Entwickelung der angebohrnen Erkentniß im Verhältniße zu derjenigen , welche Leibniz Die empirische nennt. Gott hat der Seele els nen solchen Körper zugesellt , welcher sich zu der besondern Art der Entwickelung ihrer Vor stellungen past , und umgekehrt jedem Körper eine solche Seele , die in ihren innern Thätigkeiten mit diesem harmoniet. Daher scheint der Körper auf die Seele einzuwirken , und die Seele auf den Körper; aber dieser gegenseitige Einfluß findet nicht wirklich statt. Wenn dem Menschen ein oder mehr einzelne Sinne fehlen , so entbehrt er der sinnlichen. Vorstellungen, welche diese Sinne gewähren. Das rührt gleichwohl nicht von dem Mangel der förperlichen Sinne her , sondern vielmehr von dem Mangel an Entwickelung jener Vorstellungen in der Seele. So ist es umgekehrt, wenn [p. 994] wenn die Seele den Körper nicht nach ihrem Willen bewegen kann. Hier verrathen sich offenbar die Widerspruche , zu welchen das Leibnizische Monadensystem in seiner Anwendung auf das Verhältniß der Erkentniß apriori zur Erkentniß a posteriori führt. Nicht nur, daß bey der ausgehobnen gegenseitigen Ein wirkung von Seele und Körper der Grund der bestimten Folge unsrer Vorstellungen schlechthin vermißt wird ; sondern Leibniz verlangt auch die sinnliche Empfindung der
+
+Gegenstante als gelegenheitliche Ursache zur Entwickelung der Erkentniß a priori, Diese Erkentniß a priori wurde also ihm zufolge ohne die Sinne nicht möglich seyn. Wozu bedarf es aber , kann man mit Recht fragen, der sinnlichen Empfindung , wenn die Seele über haupt ohne Einfluß des Körpers alle ihre Vor stellungen aus sich selbst entwickelt? Darin inzwischen wurde Locke vom Leibniz im Al gemeinen widerlegt, daß die sogenannte Er.
+
+kentniß ihren Ursprung lediglich aus der Erfahrung habe. Daß jene im Gegentheile auf angebohrnen Anlagen der Seele beruhe, be wies er bundig genug, wenn er auch die Natur der Erkentniß a priori selbst , so wie diese ganze Materie überhaupt , nicht hinlänglich in's Klare sekte. Leibniz machte auch die Probe an einzelnen Begriffen , welche
+
+Locke aus der Erfahrung hergeleitet hatte, [p. 995] und zeigte, daß diese Deduction derselben nichts weniger als erschöpfend und genugthuend sen. So kann der Begriff der Dauer nicht bloß auf der Erfahrung beruhen, weil unsere Empfindungen und Vorstellungen zu unregelma Big folgen , als daß sich der Begriff der Zeit oder eines reinen
+
+Continuums daraus bilden ließe. Eben so wenig ist dies der Fall bey dem Begriffe der Ewigkeit. Denn wir können aus der äußern Empfindung nicht ein sehn, daß derselbe Grund , der unbeſtimt, weiter fort Zeitmomente an einander zu fügen, auch stets statt finden werde. Die einfachen
+
+Ideen , welche Locke annahm, und aus de nen er die übrigen zusammengesetzt seyn lieks sind nichts weniger als einfach, und bestehen selbst aus mannid)faltigen Empfindungen , die mur von uns nicht immer unterschi den werden ;
+
+daher wir sie fälschlich für einfach halten. Leibniz bestritt ferner auch die Lockische Be
+
+Hauptung : Daß die Seele nicht immer den. fe, weil wiruns des Denkens nicht immer bewußt seyen , so wie die Folgerungen, welche Locke daraus gezogen hatte. Er stellte da gegen den Saß auf: Die Seele als einfache Substanz ist unaufhörlich thätig, und brings immer neue Perceptionenhervor. Wir sind uns freylich dieser Perceptionen nicht immer be wuit , und dieser Mangel an Bewußtseyn er eignet sich nicht bloß im Schlafe, bey Ohne Rece machmachten, [p. 996] sondern auch sogar im Wachen , wo wir selbst bey deutlichen Vorstellungen doch gewißer Nebenvorstellungen uns gar nicht bewußt sind ; wie z. B. ein Müller deutliche Vorstellungen von gewißen Verrichtungen hat, mit denen er sich eben beschäftigt , aber das Geräusch der Mühle nicht hört , obgleich Perceptionen desselben in ihm sind. Gleichwohl ist jener Mangel an Bewußtseyn nicht total; es ist auch im tiefsten Schlafe und bey der stärksten Ohnmacht noch eine dunkle und schwache Empfindung übrig , indem sonst der stärkste Reiß uns nicht wieder aus dem Schlase erwecken konte , wenn er gar nicht empfunden wurde , die Entstehung der Träume unmós. lich wäre u. w.tab al
+
+S. Locke Essay concerning human under tanding edit. IX. Lond. 1726. II Voll. Oeuvres philfopbiques de feu Mr. ‫بل‬
+
+8.
+
+de Leibniz- Tiedemann's Geist der specul Philos. B. VI S. 259. 463. - von Eber frein Gesch. der Logik und Metaphysik B. ! 5.78 DG
+
+3????????????????? ?????
+
+$ 1049 " Unstreitig hat ſchon Leibniz einige Haupt Mangel der Loctischen Philosophie ausgedekt [p. 997] und diese in ihrem Fundamente erſchüttert, Wenn es dennoch der lestern gelang , den größten Theil der neuern philosophischen Welt bis gegen das Ende des achtzehnten Jahrhunderts von der Nichteristenz angebohrner Begriffe und Grundsätze zu überreden: so rührte dieses theits daher , daß Leibniz im Geiste seines Systems argumentirte, und dieses im Ganzen sich nicht gegen die Skepsis bewahren konte, daher man von der Unhaltbarkeit des Leibnizischen Systems überhaupt auch auf die Un.
+
+Haltbarkeit seiner antisockischen Argumente schloß; theils daher , daß die Lockische Deduction der Grundbegriffe der Erkentniß aus der Erfahrung beym ersten Blicke sehr viel An. nehmliches hat , und sich besonders dem gemeinen Menschenverstande empfiehlt ; theils endlich war es eine Folge des Mangels an einem sichern Kriterium und Leitfaden, um den wahren Charakter der Erkentniß a priori zu ent decken, sich ihrer mit Vollständigkeit zu be. mächtigen, und das Verhältniß derselben zur Erfahrung zu bestimmen; welcher Mangel insbesondre bewirkte , daß von manchen Begriffen, die für Begriffe a priori ehedem gal. tenund es nicht waren , sich der Ursprung aus der Erfahrung erhärten ließ, wodurch man auf die Vermuthung gerieth , Locke mochte doch wohl nicht mit Unrecht die Erfahrung für
+
+Die Quelle unserer Erkentniß überhaupt angege [p. 998] geben haben. Hieraus ist zu erklären, daß die Lockische Philosophie ungeachtet der Leibnizischen Gegenargumente, und auch des Widerspruchs mehrer Britischer und anderer Philosophen , doch eine Zeitlang die herschende wurde , ob gleich unter mancherley Modificationen und Einschränkungen derselben im Einzelnen. Durch Kant's Kritik der reinen Vernunft wurde aber das Fehlerhafte des Lockischen Systems eben so auffallend dargethan , wie in Ansehung des Leibnizischen. Locke verwirrte erstlich eben falls, wie sein Gegner , Sinnlichkeit und Vertand, nur auf eine andere und für eine wahre
+
+Theorie des Erkentnißvermögens noch nach theiligere Art. Anstatt daß Leibniz der Sinnlichkeit zu wenig und dem Verstande zu viel einräumte , gab Locke dem Verstande, zu wenig Antheil an der Erkentniß und der Sinnlichkeit zu viel ; der wahre specifische Unterschied beyder Vermögen, der Sinnlichkeit und des
+
+Verstandes, wurde von beyden Philosophen verkannt ob diese in Beziehung auf die Erkentniß bloß sinnlich waren , und der Verstand ausser den logischen Functionen der Trennung und Vers bindung der Merkmale gar nichts zur Erkentniß beytruge. Dadurch wurde das Lockische System gerade so einseitig und noch einseitiger, als das Leibnizische , und bende mußten noth wendig in ihrer Anwendung auf die metaphysi фе [p. 999] sche Speculation die Bernunft in Verwickelungen führen, aus denen sich diesenicht herauszuwinden vermochte, und aus denen deutlich genug erhellte , daß das Fundament der Erkentniß überhaupt noch nicht hinlänglich be gründet war. Zweytens: Locke glaubte in dem absolut Einfachen der Erfahrung das letzte Grundreale der Erkentniß anzutreffen; so wie Leibniz in dem absolut Einfachen des Verstandes. Aber die Monade des leßtern ist ein leerer Begriff; und das Einfache der Erfahrung des erstern ist ein erdichreter Begriff, indem die Erfahrung nichts Einfaches aufzeigenkann, und die sogenannten einfachen Ideen, wie auch bereits Leibniz sehr richtig bemerkte, immer zusammengesetzte Empfindungen sind. ?
+
+Der Materialismus war eine nothwendige Folge aus dem lockeschen Principe, wenn gleich Locke sich hierüber , wie über manche andere
+
+Folgerungen, die aus seiner Theorie sich er geben in Ansehung der Gottheit , der Freyheit, und der moralischen Natur des Menschen, nicht bestimt und entscheidend ausdrückte. Das Falsche jenes Princips hätte ihm nicht verborgen bleiben können, wenn er über den Raum, die Materie , und das gegenseitige Verhält niß beyder , schärfer und unbefangner nachgedacht hatte, und seine Vorstellungsart hierúder nicht lieber seinem anderweitigen Systeme pätte anpassen, als dieses umschaffen wollen. Drit
+
+[p. 1000] Drittens: Locke verwechselte die comparative Allgemeinheit von Erkentnißen, welche die Erfahrung gewährt, mit der strengen Nothwendigkeit derselben , welche jene nie gewähren kann.
+
+Er scheint sich überredet zu haben, daß das comparativ Allgemeine in das streng Nothwendige übergehen könne, daß z. B. weil die Erfahrung den Sah der Caussalität durch Induction bestätigt, dieser eben Dadurch nothwendig werde. Auch diesen Irr. thum hat ihm schon Leibniz gezeigt. Jene Verwechslung aber war eine der vornehmsten Ursachen, die Locken dabey beharren ließ , dea Ursprung selbst der logischen Grundsätze in der Erfahrung zu suchen, und die Gewißheic der
+
+Mathematik aufebendiese zurückzuführen.Vier rens: Bey dem allen bleibt Locken das für das Interesse der Philosophie als Wissenschaft wichtige und große Verdienst, den Empiris. mus einmal mit aller Strenge durchgeführt zu haben; denn hierbey offenbarte sich , wie weit Dieser in der That für die Vernunft genug.
+
+thuend seyn könne oder nicht. Er hat eben Dabard, manche Irrthümer der altern gangbaren Theorieen von der Natur und dem Ursprunge der Erkentniß aufgedeckt; und seinen Nachfolgern die Erfindung des Wahren er.
+
+leichtert.
+
+Er har ferner ein treffliches Bey.
+
+spiel einer psychologischen Analyse der Vorstellungen und Begriffe gegeben , und baburch [p. 1001] auch eine sorgfältigere und zweckmäßigere Bearbeitung der empirischen Psychologie veran.
+
+laßt. Dazu kam sein ſimpler, ruhiger, deutlicher, und doch edler philosophischer Styl, der in seiner Art musterhaft ist, deßen eigenthümliche Schönheit aber freylich nur im Originale ganz empfunden werden kann, und in jeder Ueberseßung mehr oder weniger verloren gegangen ist,
+
+§. 1050. "it
+
+Ich habe schon von Samuel Clarke, als Gegner Leibnizens , geredet ; ist will ich noch etwas über seine rationale Theologie hinzufügen. Er wurde gebohren im I. 1675 zu Norwich , studirte zu Cambridge Theologie und Philosophie , und ward , wie bereits oben bemerkt worden, ein eifriger, nur zu ein.seitiger Anhänger und Vertheidiger des Newtonschen Systems , das gerade im speculativen philosophischen Betrachte am mangelhaftesten war. Er starb im I. 1729. In seiner Abhandlung über das Daseyn und die Eigenschaften Gottes führte er folgenden Beweis , deßen Schwäche durch seine Darstellung desselben selbst noch mehr hervorgehoben wurde : Erste lich: Es muß nothwendig Erwas von Ewig.
+
+keit her vorhanden gewesen seyn; denn alles was [p. 1002] was existirt, muß einen Grund seines Daseyns Haben, und wäre von Ewigkeit her nichts vor handen gewesen, so wurde alles aus Nichts, d. i. ohne Grund entstanden seyn, was der Voraussetzung widerspricht. Da Clarke die Dauer als reelle Succession vonMomenten annimmt , so trat hier gleich die Schwierigkeit ein, wie etwas von Ewigkeit her habe dauern können? Diese Schwierigkeit wußte er nicht wegzuräumen; er wich ihr dadurch aus, daß man demonstrirte Wahrheiten um einer Schwierigkeit in unserer Vorstellung wegen nicht ver= werfen dürfe , und daß diese Schwierigkeit daher rühre , weil wir keinen vollkomnen Begriff von Ewigkeit hatten , und sie da her nicht mit der successiven Dauer zu verein baren wußten. Giebt es ein ewiges Wesen, so ist dieses auch unabhängig; denn es kann keine höhere Ursache desselben seyn , weil sich sonst die Reihe der Ursachen in's Unendliche verlieren wurde; es ist unveränderlich , in.
+
+dem es weder entstehn, noch vergehen kaun; es ist nothwendig , weil es den Grund seines Daseyns in sich selbst hat. Zweytens : Es läßt sich ohne Widerspruch denken , daß die
+
+Welt auch nicht existirte, oder anders wäte, als sie ist. Sie ist also nicht nothwendig weder der Form, noch der Materie nach.
+
+Form kann keine Nothwendigkeit haben, weil die Materie, wenn sie keine Gravitation besist, [p. 1003] nicht ohne Hülfe eines verständigen Wesens die Bewegung hat empfangen können. Hat sie aber Gravitation , so gehört zur Neusserung Derselben leerer Raum. Die Form ist also nicht nothwendig, weil ein absolutnothwendiges Wesen überall, d. i. algegenwärtig seyn muß. Kann aber die Materie an Einem Orte fehlen, so kann sie es an allen Orten, und ist also auch nicht nothwendig. Drittens : Aus der Ewigkeit des göttlichen Wesens folgertClar'te auch die Unendlichkeit und Unermes lichkeit desselben; aus der Unveränderlichkeit die Untheilbarkeit, soferne die Beschaffenheit des göttlichen Wesens durchaus der Beschaffenheit derMaterie entgegengesetzt ist ; endlich aus der Unabhängigkeit die Einheit; denn wollte man mehr abhängige Wesen sesen, so könne man annehmen, daß jedes allein existire, und dann wären sie nicht nothwendig. Die Verständigkeit Gottes beweist Clarke a posteriori, weil Gott die Ursache der Welt und der verständigen Wesen in derselben ist. Das Un grundliche dieses Beweises und der Deduction der göttlichen Eigenschaften fällt zu sehr in die Augen, als daß es einer Erläuterung be. durfte.
+
+S. Ademonstration ofthe Being and Attri1 butes of God; by Sam. Clarke; London 1706. 8.
+
+Vgl. Tiedemann's Geist der specul. Philos. B. VI S. 505 ff.
+
+§. 1051.
+
+[p. 1004] §. 1051.
+
+Die große Erweiterung, welche die Naturkunde , vorzüglich gegen das Ende des XVII und im Anfange des, XVIII Jahrhunderts erhielt, gab auch Gelegenheit zu einer reichlichern Ausstattung der Physikotheologie. Man stu. dirte die Natur im Einzelnen, um in derselben die Spuren der Weisheit und Gute Gottes zu ent decken und anschaulich zu machen.
+
+Um mei
+
+ſten aber zeichneten sich als Physikotheologen aus Wilhelm Derham und Bernhard
+
+Nieuwentydt.
+
+Der erste (gebohren im I
+
+1660) war Prediger zu Upmünster in der Grafschaft Esser und wegen seiner großen physikalischen Einsichten Mitglied der Societär der Wissenschaften zu London. Er starb 1738 im 4.
+
+78ten Jahre seines Alters. Er bewies die Weisheit Gottes hauptsächlich aus der Zweckmäßigkeit der Organe des menschlichen Körpers; aus dem Baue und der Lebensart der
+
+Thiere, und den von der Natur zu ihrer Ernährung und Fortpflanzung getroffenen An. stalten und Einrichtungen; aus der Ordnung und Harmonie in den Bewegungen der Hime melskörper , u, w.
+
+Dieser Stoff wurde noch vermehrt und weiter ausgeführt von Nieuwen tydt. Er war in Holland gebohren im I. 1654, lebte auch daselbst als Arzt, und starb 1718. Seine physikotheologischen Deo. bach.
+
+[p. 1005] bachtungen sind nur oft zu dunkel, und aus einem zu weit entfernten Kreise der Wahrneh. mung hergeholt, indem sie, um verstanden zu werden , tiefereKentniß der Mathematik und Anatomie voraussehen. So wie sich Derham mit der Entwickelung der Zweckmäßigkeit der äussern Sinnenorgane beschafftigte , so Nienwentydt vorzüglich mit einer teleologischen Er.
+
+Läuterung der innern physiologischen Beschaffen heit des menschlichen Körpers u. w. Phyficotheologie , or a demonstration of the being and attributes of God from the works of creation . By William Derham;
+
+London. 1714. 8. Deutsch : Hamburg Ebendesselben Astrotheologie 1730. 8. or a demonstr. of the being and attrib. of God from a survey ofthe heavens ; Lond.
+
+1715.8. Deutsch : Hamburg 1765.8. Bern. Van Nieuwentyt regt gebruyk der
+
+Weereld beschouwinge; Amsterd. 1716; 4. Deutsch mit Anmerk. von Job . Andr.
+
+Segner; Jena 1747. 4. Ausserdem giebt es physikotheologische Schriften aus jener Periode in Menge.
+
+§. 1052. Leibniz war es nicht allein in Deutsch land, durch deßen Bemühungen und Verdienste eine Verbesserung der Philosophie bewirkt
+
+1006 XXII. 265. Geschichte d. Philos. wurde; es waren mehrere unter seinen Lands. leuten, die hierin mit ihm wetteiferten, obgleich sein Ruhm den ihrigen verdunkelte. Zu den achtungswerthesten Beförderern der Philosophie in dieser Periode gehört auch Ehrenfried Walther von Tschirnhausen. Er wurde gebohren im I. 1651 zu Rieslings walde in der Oberlausis , that anfangs Kriegsdienste in den Niederlanden, machte große Reisen , lebte zuletzt als Privatmann, und widmete seine Musse den Wissenschaften , vornehmlich der Philosophie , Mathematik und Physik. Die Akademie der Wissenschaften zu Paris ernannte ihn zu ihrem Mitgliede. Er starb im J. 1708. Die damals noch in Deutschland auf den Schulen und Universita ten herschende Philosophie war die Aristotelische, nur verbrämt mit manchen Zusätzen und Modificationen , die theils aus andern philosophischen Systemen der Alten, theils aus den neuern entlehnt wurden. Leibnizens Ideen be durften erst eines Sammlers , der sie in ein System ordnete, um wirksam zu werden , und der frühere Einfluß der Cartesianischen Philosophie war durch die Beschaffenheit dieser selbst nicht allgemein und kräftig genug gewesen, als daß er die aristotelisch eklektische Methode zu philosophiren hätte verdrängen können. Tschirnhausen unterscheidet die deutschen Phi.
+
+losophen seiner Zeit in Worrphilosophen [p. 1007] und historische Philosophen , wovon die er stern sich mit der Kentniß der gangbaren Eintheilung und Terminologie der Philosophie , und allenfalls der verschiedenen philosophischen Secten im Allgemeinen sich begnügten; die an. dern sich fleißiger mit der Geschichte der Philo.
+
+sophie beschäftigt hatten , dergleichen z. B. Jacob Thomasius war , ohne sich übrigens zu dem wahren Geiste des Philosophirens erhoben zu haben. Die Philosophie als Wis. senschaft selbst war damals ein Aggregat von Sägen , dem es durchaus an festen Princi. pien , und an wahrer Brauchbarkeit für das gelehrte sowohl als das bürgerliche Leber fehl. te. Tschirnhausen , der zugleich großer Ma.
+
+thematiker und Physiker war , und die Werke der berühmten Neuern , des Galilaei , Hob. des , Des Cartes , Malebranche, New. ton u. a. studirt hatte, mußte diese Schul.
+
+rhapsodie , die in Deutschland für Philosophie galt , sehr unbefriedigend finden. Von dem Hauptcharacter , welchen er der Philosophie beylegte , daß sie eine Kunst zu erfinden seyn sollte , enthielt jene wenig oder gar nichts, und in dieser Hinsicht besonders hielt er sie einer Um schaffung für bedürftig , und trug selbst in sei nem berühmten Werke: Medicina Mentis; dazu bey , diese zu veranlassen. Gine
+
+[p. 1008] Eine Lebensbeschreibung Tschirnbauſen's lam gleich nach dem Tode desselben heraus zu Gorliz 1790. S. auch Fontenelle in der Iliftoire du Renouvellement de l' Academie des ſciences T. 11. Baumeister hat zwischen ihm und Ashler eine Parallele gezogen: De egregiis Köbleri meritis; Gorlit. 1737. Vgl. Bruckeri Hist. crit. philos, T. IV P. II p. 598. Sälleborn's Bentr. zur Gesch. der Philos. St. V. 5. 32.
+
+Das Werk Tschirnbausen's : Medicina mentis five artis inveniendi præcepta generalia, erschien zuerst zu Amsterdam 1687 mit einer Zueignungsschrift an Ludewig XIV. Der eigentliche Titel ist : Tentamen genuinæ Logicæ, vbi diſſeritur de methodo detegendi veritates incognitas.
+
+In der zwerten Leipziger Ausgabe (1695) fügte Tschirnbausen die Medicina Corporis bins zu. Diese letztere mit einem zweyten Theile noch vermehrt gab er auch deutsch heraus unter dem Titel : Swolf nützliche Lebens: regeln u. w.
+
+§. 1053.
+
+Alle philosophische Untersuchung solt sich nach Tscbirnhausen auf Selbstbeobachtung und Erfahrung grunden.
+
+Sie bezieht sich auf folgende drey Fragen : erstlich: Welche Kentniße sind für jeden Menschen die nothwen big.
+
+[p. 1009] digsten , und welche Beschafftigung ist also die vorzüglichste ? Hierauf ist die Antwort : Die U tersuchung der Wahrheit. Aber zweytens : Wie wird die Wahrheit gefunden? Diese Frage läßt sich in drey andere auslösen: a) Wie ist das Wahre vom Falschen zu unterscheiden? b) Wie ist die Erkentniß der Wahrheit zu er.
+
+weitern ? c) Wie sind die Hinderniße dabey zu überwinden ? Drittens : Welche sind die Gegenstände der Untersuchung? Vor allem müssen die ersten Grundsätze ausgemacht werden , auf denen als entschiedenenund unbestreitbaren Principien die Untersuchung beruht. Diese müssen von der Beschaffenheit seyn , daß jeder sie in seinem eigenem Bewußtseyn stets als nothwendig gültig anerkennt. Als hoch-
+
+-stes Princip sekte Tschirnbausen das Factum - des Bewußtseyns selbst fest: Ich bin mir mannichfaltiger Dinge bewußt. Hieraus entwickelte er folgende allgemeine Erfahrungssätze: a) Einige Dinge machen einen guten, andere einen übeln Eindruck auf uns; b) Ei.
+
+niges können wir begreifen, anderes nicht; c) Einiges nehmen wir durch die auſſerenSinne , anderes durch innere Vorstellungen und Empfindungen wahr. Der erste dieser drey Grundsätze ist das Princip der Moral ; der zweyte das Princip der Erkentniß der Wahrheit; und der dritte das Princip aller Er.
+
+fahrung. Tschienhausen unterschied also eine [p. 1010] ne theoretische und praktische Philosophie. Die erstere enthielt theils Grundsätze, und Regeln der Wahrheit , theils eine Methodologie die Anwendung derselben betreffend. Daher nenut er sie überhaupt eine Erfindungskunst , und die Regeln derselben eine Medicina mentis, Er vergleicht diese mit einem Baume, der aus Wurzeln , Stamme und Zweigen mit Fruchten besteht. Die Wurzeln sind die allgemeinen Regeln ; der Stamm ist ein Inbegriff speciellerer Regeln in Hinsicht auf sinnliche, mathematische , und physische Gegenstande; die Zweige nebst den Früchten sind die ganz speciellen Regeln für einzelne empirische
+
+Wissenschaften und ihre Anwendung.
+
+Stoff der Wurzeln , des Stammes und der Zweige sind Mark , Kern und Rinde; so sind auch der Stoff aller Theile der Philosophie sinn liche, mathematische und physische Objecte, Tschirnbausen's Plan zur Reformation der Philosophie war nicht bloß auf die Darlegung der allgemeinen Grundsätze und Methodologie der Erfindungskunst, oder die Medicina mentis , eingeschränkt; sondern er wollte auch noch die speciellern und ganzen speciellen Regeln der wissenschaftlichen Erkentniß entwickeln. Alle
+
+Gegenstände der Forschung müssen entweder durch bloße Vernunft , oder durch Erfahrung , oder durch beyde zugleich untersucht, werden.
+
+Nun wollte Tschirnbausen in einem beson. Dern dern Werke zeigen, wie das Unbekante in der Mathematik erfunden werden könne; in einem andern, wie Erfahrung zu gewinnen , und zur
+
+Entdeckung neuer und nüglicher Wahrheiten zu benuken sey; in einem dritten, wie die Physik mit Gewißheit erweitert werden könne. Dann sollte noch eine Erörterung der ganz speciellen Regeln der einzelneni Wissenschaften und ihre Anwendung auf das wirkliche gemei.
+
+ne menschliche Leben folgen, Diese Werke hat er aber nicht ausgeführt, §. 1054. Die Medicina mentis des Tschienhau sen selbst beginnt mit einer Geschichte des Ganges seines Geistes zur eigenen philosophischen Aufklärung, die an sich selbst sehr interessant und lehrreich ist. Er empfiehlt, als das beste Mittel, zur unbefangenen Forschung und eben dadurch zur Wahrheit zu gelangen, die fleißigste Selbstbeobachtung; so wie die Vermeidung der Leidenschaften als das beste Mittel zur wahren Glückseligkeit. Nichts ist der Erforschung der Wahrheit hinderlicher , als die gänzliche Abhängigkeit von Andern, und auf der andern Seite die Einbildung, daß etwas , welches uns so scheint , wahr oder ununwahr, [p. 1012] angenehm oder unangenehm, auch andern eben so scheinen müsse. Ein zweytes Hauptmittel gegen den Irrthum ist die Behutsamkeit , das Erkante nicht mit dem noch nicht Erkanten zu verwechseln, und dem leßtern nicht beyzulegen, was nur von dem Erstern gilt. So kann uns unter den erkantenGe genständen einer oder der andere als sehr leicht und angenehm vorkommen; wir würden aber sehr irren, wenn wir ihn deshalb für den leichtesten und angenehmsten von allen hielten; denn wir haben noch nicht alle Dinge kennen gelernt , und verwechseln also in diesem Falle die unbekanten mit den bekanten. Daher rech nen Viele so wenig auf die Entdeckungen An. derer, weil sie glauben schon selbst das Beste entdeckt zu haben , und versperren sich den Weg zu einer bessern Einsicht, den ihnen etwa Andere vorzeichnen, weil sie selbst schon auf dem richtigsten zu seyn wähnen. Durch unbefan gene Selbstbeobachtung läßt sich auch am besten erfahren, welch eine praktische Beurtheilung der Dinge und welche Lebensart am sicher.
+
+ſten zum Ziele der Glückseligkeit führe. Untersucht man die Natur der Vergnúgungen, de ren der Mensch fähig ist , so zeigt sich sehe bald ihr verschiedener Werth. Die sinnlichen, so reizend sie anfangs sind , haben den geringſten Werth ; denn sie sind um desto angeneh.
+
+mer, je seltener wir sie genießen, und je mehr wir [p. 1013] wir ihnen widerstehen.
+
+Ein noch größeres
+
+Vergnügen gewährt das Bewußtseyn der vernunstigen Freyheit und die Besiegung der Leidenschaften , und dieses wird bewirkt und befördert durch das Studium der Wahrheit und die Ausbildung des Verstandes, die zu. gleich mit dem höchsten und reinsten Vergni gen verbunden ist.
+
+Alle übrigen Vergnügunger können tauschen, die Freuden der Wahrheit niemals. Der Weise hat vor dem Unwissenden einen viel freyern Geist und unermes. lich viel Kraft voraus, sowohl wegen seiner größern Einsicht, als weil er sich von unzähligen Hindernißen und Vorurtheilen losges macht hat. Er hat ungleich weniger Leiden, weil er sich über eine Menge Wunsche , Sor.
+
+genund Bekümmernige erhoben hat , die den Unwissenden beunruhigen. Er ist endlich zahle Hofer Freuden fähig , die Andern gänzlich un. bekant und ungenießbar bleiben.
+
+Nach dieser
+
+Geschichte seiner Reflexionen über das, was für den Menschen das höchste Interesse hat, und wessen er zu seiner wahren Glückseligkeit am nothwendigsten bedarf, geht Tschirnbau, sen zur Bestimmung der allgemeinen Principien und Regeln der Wahrheit über. Das Höchste Princip aller Gewißheit der Erkentniß ist der Sak: Einiges ist begreiflich, ei. niges unbegreiflich; denn in diesem Principe sind alle andern wahren Grundsätze gege.
+
+den [p. 1014] den. Das Vermögen,etwas zu begreifen , und das Gegentheit nicht zu begreifen, ist der
+
+Verstand , der allen Menschen gemeinschaft lich ist. Ausser dem Verstande giebt es noch ein anderes Erkentnißvermogen , die Einbildungskraft. Unter diesem begreift Tschirne hausen das Vermögen der Wahrnehmung überhaupt sowohl durch die äussern Sinne , wo die Objecte gegeben werden , als durch den innern Sinn , wo keine aussere Objecte gegeben sind.
+
+Der Verstand hängt mehr von uns ab , indem wir durch ihn begreifen; die
+
+Einbildungskraft läßt uns bloß wahrnehmen; der Verstand ist thätig; die Einbil.
+
+dungskraft leidend. Das Kennzeichen, daß man wirklich etwas begriffen habe, ist , wenn man es Andern , ba alle Menschen gleichen
+
+Verstand haben , wieder begreiflich machen kann , wie dieses die mathematischen Demonſtrationen beweisen. Hingegen nicht Alles , was man sich einbildet, hat man begriffen und kann es andern nicht immer mittheilen ; denn die Einbildungskraft ist nicht bey allen Men. ſchen gleich , wie sich z. B. keinem Blinden eine Vorstellung von Farben beybringen läßt. Tschirnhausen widerlegt mehrere Einwürfe, die sich gegen sein Princip der Gewißheit der
+
+Erkentniß machen lassen, ohne es doch in der That hinlänglich zu begründen. Alle erste
+
+Begriffe können Definitionen heißen; alle dadaraus [p. 1015] Hergeleitete EigenschaftenAriome; und die aus diesen wiederum abgeleiteten Wahrheiten Theoreme. Tschirnhausen ertheilt zu. nächst Regeln über die Erforderniße der Definitionen , und wie sie zu finden seyen. Jede
+
+Definition eines Gegenstandes muß zugleich die Entstehungsart des Gegenstandes in sich schließen, weil dies das Erste ist , also eine genetische seyn.
+
+Soll z. B. die Definition des Lachens gut seyn , muß sie sogleich Lachen erregen. Bey dieser Regel übertrug Tschirn.
+
+hausen fälschlich den eigenthümlichen Charak. ter der mathematischen Definitionen auch auf alle übrigen denen er doch nicht immer zu. kommen kann, und auch nicht immer zuzukommen braucht. Das Definiren einzelner Gegenſtände muß so lange fortgesetzt werden , bis wir zu Begriffen von Gattungen gelangt sind, die sich denn wieder in ihre Arten und
+
+Individuen zerlegen lassen. So erkennen wir überhaupt dreyerley Gattungen von Gegen. ſtänden, die zugleich auf dreyerley Wirkungen des Erkentnißvermögens schließen lassen, die
+
+Einbildungskraft , die reine Vernunft , und den Verstand. Die erste Gattung befast die sinnlichen Gegenstände unter sich, die sich in Empfindungen äußerer Dinge, die uns gegenwärtig sind , in Einbildungen abwesender Dinge, und in Affizirungen, wo wir uns die Gegenstände nicht vergegenwärtigen [p. 1016] und vorstellen können, wie Schmerz, Freude , Hunger , Durst , unterscheiden lassen. Die zweyte Gattung enthält die rationalen oder mathematischen Gegenstände.
+
+Diese sind entweder gleich oder ungleich, und im leßtern Falle größer oder kleiner. Das vollkommen. ste Beyspiel ist die gerade Linie. Die Kentniß aller möglichen krummen Linien ist in der Ma thematik der Weg , alles Unbekante zu entdecken. Die dritte Gattung endlich begreift die physischen Gegenstände oder Körper, inAn. setzung deren es nur darauf ankomt, ob sie ru hen oder sich bewegen. Nach dieser Unter. ſcheidung der Gattung der Gegenstände muß man zur Definition derselben auf ihr Gemeinschaftliches und ihre Folge achten. Da die Axiome aus Definitionen abgeleitete Wahr.
+
+Helten sind , so müſſen sie nach den Definitionen geprüft werden, und ihre Gültigkeit hängt von der Gültigkeit dieser ab. Sind sie nicht aus einer Definition abgeleitet, oder zu der Untersuchung nothwendig, so sind sie auch nicht anzunehmen. Erklärt man die Axiome für durch sich selbst verständliche Wahrheiten, so erfährt man durch diese Erklärung nicht, wie Axiome gefunden werden können. Die Verbindung mehrer Definitionen giebt neue
+
+Wahrheiten oder Theoreme , die entweder allgemein oder speciell sind. Aller Irrthum entspringt aus der Einblidungskraft. Wie ſtele
+
+[p. 1017] ſtellen uns bey den Eindrücken der äussern
+
+Dinge diese als verschieden vor, ob sie gleich es nicht sind , und als einerley , ob sie gleich verschieden sind. Dies ist die gemeinschaftliche Quelle des Irthums bey allen Arten der
+
+Erkentniß , der sinnlichen , mathematischen , und physischen. Mittel dagegen sind: ein trengerer Gebrauch des Verstandes , wieder-
+
+Holte Untersuchung des Gegenstandes, Zurückführung auf das erste Princip der Gewißheit, Bezeichnung verschiedener Begriffe durch verschiedene Merkmale, Erfahrungen und Erperimente Ein anderes Hinderniß der Erkentniß ist Vernachlässigung des Bekanten , und der darous herzuleitenden Wahrheiten. Mittel dagegen sind : Aufsuchung des Allgemeinen in unsern Kentnißen; häufige Versuche, neue Wahrheiten daraus abzuleiten; eine grundliche und wissenschaftliche Kentniß der gemeinſten Erscheinungen. Ein drittes Hinderniß ist, daß wir von jeder Untersuchung und Kentniß gleich den unmittelbaren Nutzen wissen wollen, und wenn sich dieser nicht gleich bewährt oder entfernt zu seyn scheint , jene versäumen und verachten. Dagegen empfiehlt Tschirnbausen, daß wir die Wahrheit um ihrer selbst willen suchen, weil jede Wahrheit durch sich selbst niglich ist ; daß wir aus minder nußlich scheinenden Wahrheiten solche entwickeln, die wirklich nüglich sind; daß wir, auch wenn uns [p. 1018] uns die Wahrheit anfangs unnug scheint, doch nicht gleichgültig dagegen werden müssen, weil uns ihr vielleicht sehr großer Nutzen verborgen seyn kann. Ein Unwissender wird gar nicht ahnden, welch einen Nuken die Entdeckung der
+
+Magnetnadel gewährt hat , und oft sind aus Beobachtungen , die höchst unbedeutend und geringfügig schienen, die gemeinnüßigften Ent. deckungen entstanden.
+
+Ein viertes Hindernis der Erkentniß ist die üble Laune, bey welcher wir zu den Studien nicht aufgelegt sind.
+
+Tschirnhausen meynt , daß es ganz in unsrer Gewalt stehe, immer in guter saune zu seyn, und wenigstens die üble Laune zu beherrschen.
+
+Ein sehr zweckmäßiges Mittel hierben ist eine gute Methode, bey der sich in der Erkentniß fortschreiten läßt, auch wenn man nicht ausge legt ist. Dann muß man auch auf die Erfahrung achten, unter was für Umständen man am besten zu den Studien aufgelegt war , und solche Zeitpuncte, wenn diese Umstände ein. treten , benutzen.
+
+Tschirnhausen führt hierüber seine eigenen Erfahrungen von sich selbst an , die wahrscheinlich auch die meisten andern Gelehrten und Denker gemacht haben werden.
+
+Ein fünftes Hinderniß der Erkentniß ist die Erschlaffung des Geistes nach zu großer An1 strengung. Daher ist es rathsam , eine muhfame, verwickelte, weit aussehende Untersu
+
+Hung zu theilen, und sie Stickweise zu behandeln.
+
+[p. 1019] beln. Wenn man das Ganze auf einmal um. fassen will, wird man leicht ermüdet und abgeschreckt; bev der Behandlung einzelner Theile hat man die Aussicht einer nahen Beendigung vor sich , und so schreitet man doch immer fort, und beendigt oft das Ganze glicklich. Die
+
+Methode, alles auf einfache Grundsätze zu re. duciren, ist auch hier sehr beförderlich
+
+Dazu giebt,Tschirnhausen ausserdem manche treffliche Rathschläge über die Firirung der Einbildungskraft durch Niederschreiben des Gedach.
+
+ten; über die frühere Bildung des Geiſtes in jugendlichen Jahren , die gar sehr befolgt zu werden verdienen. Endlich ist ein Hinderniß der Erkentnih , Mangel an Zeit , Gelegenheit, und äusserer Unterstúkung. Hier beruht das Meiste auf der Neigung , die Jemand zu den Studien mitbringt. Findet diese statt, so wird er auch die größten Schwierigkeiten, zu über. winden im Stande seyn , und es wird ihm auch nicht an Hülfe und Gönnern fehlen. Umgekehrt können sich Jemanden alle Hülfsmittel und Aufmunterungen zu den Studien darbieten; wenn seine Neigung diese nicht begünſtigt , wird er dennoch wenig ausrichten.
+
+Unter allen
+
+Studien ist das wichtigste das Studium der Physik.
+
+$. 1055.
+
+[p. 1020] §. 1055. Betrachtet man das in dem vorigen § charakterisirte Werk des Tschirnhausen als elgentliche Medicina Mentis, so enthält es im
+
+Einzelnen viele heilsame Regeln und lehrreiche Winke, die benutzt und verfolgt zu werden verdienen; aber auch solche , die auf irrigen
+
+Grundbegriffen und Voraussetzungen beruhen, und die philosophirende Vernunft von dem richtigen Wege ableiten. Tſchirnhausen hatte den Zweck, die mathematische Methode in das Studium der Philosophie einzuführen , und dadurch der Wissenschaft mehr Grundlichkeit zu geben, weil er den Werth dieser
+
+Methode bey der Mathematik selbst erkannt hatte. Er hatte hier insofern Recht, als eine grundliche Methode auch der Philosophie, wie jeder andern Wissenschaft, nöthig ist; nur übersah er, daß die mathematische Methode im engern Sinne, die vermoge des Objects der Mathematik von Axiomen zu Definitionen und Theoremen übergehn, und deßwegen auch demonstriren kann, auf die Philosophie, den der ganz heterogenen Beschaffenheit des Objects dieser, gar keine Anwendung leide. Inzwischen wurde doch Wolf, der dem Werke des Tschirnbausen einen Theil seiner philosophischen Bildung in frühern Jahren verdank. te, durch ihn veranlaßt, das System der Phi1
+
+Philosophie nach mathematischer Methode aufzustellen , wiewohl er bey der Ausführung des Systems durch die Natur der Sache genothige wurde, in vielen Stücken von Tschirnhausen abzuweichen; denn der letzte verfehlte den Un-.
+
+terschied zwischen Philosophie und Mathematik gänzlich. Der Grund der unrichtigen Ansicht, welche Tschirnhausen von der Philosophie überhaupt hatte , lag darin , daß er in die Natur des menschlichen Erkentnißvermögens nicht tiefgenug eingedrungen war. Daher hob er auch in der Philosophie mit Axiomen und Definitionen an, die sich doch nicht bewahren lieHen.
+
+Er baute alles auf das Princip : Ei.
+
+niges können wir begreifen , Underes nicht; und das Begreifen erklärte er durch: zwey Begriffe verbinden. Gerade darin bestand dieHauptschwierigkeit : Ob der Mensch überall etwas begreifen oder erkennen könne? Die
+
+Skeptiker leugnen dieses. Das Kriterium des Begreifens , welches Tschirnhausen annahm : wenn man eine Erkentniß andern wieder mittheilen könne, wird von den Skeptikern nicht zugestanden, die ebenfalls leugneten, daß sich eine Erkentniß andern mittheilen lasse. Auch der Unterschied zwischen Sinnenerkentniß und Verstandeserkentniß wurde von Tschirnhausen nicht eingesehen. Er hielt Verstand und
+
+Einbildungskraft für die beyden einzigen menschlichen Erkentnißvermögen, schrieb jenet BinhleGesch, d. Phil. 6.Th. ateSälfte. Ett die [p. 1022] die Erkentniß realer , dieser die Erkentniß sinn licher Wesen zu, und erschlich zu jenen beyden Erkentnißvermögen noch die Vernunft , welche die mathematischen Erkentniße erzeuge. Die sinnlichen Vorstellungen sind ihm bloß Bilder; die Erkentniße des Verstandes allein Realitá. ten; und der Irrthum ist eine Verwechselung des Bildes mit der Realität. Man sieht, der Unterschied zwischen Verstand und Sinnlichkeit schwebte ihm dunkel vor; nur daß er nicht imStande war, ihn gehörig aufzuhellen, und in seiner wahren Beschaffenheit zu faſſer. Bey der Eintheilung der Gegenstände derEr. kentniß in physische oder reale, sinnliche, und mathematische, blieben die Fragen übrig : wohia die abstracten Begriffe gehören? was für ein Unterschied zwischen der eigentlich philosophischen, und jenen drey übrigen Arten der Erkentniß sey ? was die Wahrheit sey ? Wurde zur Ant wort auf die legte dieser Fragen die Wahrheit durch das Begreifliche erklärt, so war dieses eine offenbare Cirkelerklärung. Ein anderer Grundirrthum Tschirnhausen's, der ihm den Gesichtspunct, aus welchem die Philoſophie zu betrachten war, gänzlich verrücken mußte, war, daß er das Wesen der Philosophie in eine
+
+Erfindungskunst sekte. Hiernach war ihm für die Philosophie als Wissenschaft gar niches anders übrig, als ein Inbegriff von Regeln zu beobachten , und aus den Beobachtungen neue Wahr
+
+[p. 1023] Wahrheiten zu entdecken. Eben deßwegen ſchäste er unterallen Wissenschaften die Physik am höchsten, weil sich bey dieser die AnwenDung jener Regeln am meisten und auffallend ten zeigte; wozu noch kam, daßer selbst Erfindermehrer nuzlicher physikalischer Ideen und Instrumente war. Eine natürliche Folge die ser seiner Denkart und seiner unbegrenzten Ach tung für die Erfahrungskentniß war ferner der lebhafteste Widerwille gegen alle Erkentniß aus bloßen Begriffen a priori , die er für leere scholastische Spisfindigkeit ansah. Er vera warf die ganze scholastische Syllogistik und Ontologie als überflüßig, und wurde so verleitet , sich um den Ursprung der Erkentniß a priori überhaupt gar nicht zu bekummern, und dem gesamten Systeme der Philosophie ein erträum tes Fundament unterzulegen. Hätte er das Begreifen und Nicht begreifen aus der Natur des Vorstellungsvermögen aufzuklären gesucht, so wurde ihn bald die Frage nach der Objecti vität der Erkentniß beunruhigt haben. Allein er untersuchte gleich das Bewußtseyn empi.
+
+risch , und fand den Grund der Begreiflichkeit in gegebenen Gegenständen , die unmittelbar begriffen würden, ohne weiter an die Schwierigkeit zu denken, wie Gegenstände gegeben und begriffen werden möchten. Xtta
+
+[p. 1024] S. Fülleborn über Tschirnbausen's Verdienst um die Philosophie , in den Beyträgen zur Gesch. d. Philos. St. V. S. 52 ff.
+
+§. 1056.
+
+Ein andererZeitgenosseLeibnizens und ebenfalls einer der thätigsten und glücklichstenBeför derer der allgemeinern philosophischenAufklärung in Deutschland war Christian Thomasius. Er war gebohren zu Leipzig im J. 1655. Sein
+
+Vater war Jacob Thomasius , Professor der Philosophie , den ich schon als-den Lehrer
+
+Leibnizens genannt habe. Er studirte anfangs unter Leitung seines Vaters, und ge wann früh durch die Vorlesungen desselben über das Werk des Grotius de jure belli et pacis, und durch das Werk des Samuel Pufendorf de jure naturæ et gentium, welches während seiner jugendlichen Epoche er. schien, eine Vorliebe für das Naturrecht, die ihn bestimte, das Fach der Jurisprudenz zu seinem Hauptstudium zu wählen. Zugleich erwarb er sich eine ausserordentliche Fertigkeit im Disputiren. Eben so früh aber, als er sich für das Naturrecht und die neuern Bearbeiter desselben interessirte , ward er unzufrieden mit der damals herschenden akademischen Lehrmethobe [p. 1025] de des römischen Rechts , die von der aristotelisch scholastischen Methode der Philosophen entlehnt war , und erausserte diese UnzufriedenHeit laut und mit sarkastischer Laune. Als er nach einem kurzen Aufenthalte zu Frankfurt an der Oder eine Zeitlang Sachwalterge.
+
+schaffte in Leipzig betrieb , stuste er sich mehr auf eine gesunde Beurtheilung der Streitsache nach rechtlichen und moralischen Vernunftbe griffen, als nach per gewöhnlichen juristischen
+
+Methode , und sein Verfahren gelang ihm. Thomasius faßte daher gleich bym Antritte seiner akademischen Laufbahn als Docent den Plan, die bisherige Lehrmethode umzu. schaffen. So lange sein Vater lebte, scheint dieser den Ungeſtüm des jungen Mannes zurück. gehalten zu haben; aber nach dem Tode dessel. den (1684) überließ sich Christian Thoma Mus ganz seinem Genius. Schon eine Neue. rung , die er wagte , war für seinen Beyfall bey den Studirenden entscheidend. Er trug nicht nur das Naturrecht nach dem Pufendor fischenSysteme , und die Philosophie überhaupt auf eine von der gangbaren scientifischen Form durchaus abweichende Art vor; sondern er hielt auch seine Vorlesungen zuerst in deutscher: Sprache , statt daß der bisherige Lehrvortrag auf den Akademieen immer lateinisch gewesen war. Schwerlich hat Thomasius selbst geahndet , welche wohlthätige Folgen dieser
+
+Schritt
+
+[p. 1026] Schritt für die deutsche Literatur nach sich ziehen wurde, so sehr er damals allen an diealte Sitte gewohnten Gelehrten verderblich vorkommen mußte. Seinen Vortrag empfahlen ausserdem bey den Studirenden der gesunde Verstand , der in demselben herschte , zumal in Vergleichung mit dem wissenschaftlichen Lehr vortrage der übrigen ältern Docenten , und noch mehr die beissende oft in der That witzige und komische Art, womit er die aristotelische scholastische Methode und ihre Anhänger durch zog und lächerlich machte. Sein akademischer
+
+Beyfall stieg dadurch zu einer ausferordentli. chen Höhe, und in eben dem Grade wurde auch der Neid gegen ihn rege. Im J. 1688 fieng Thomasius an ein Journal zu schrei den, das die Ursache eines öffentlichen Streits zwischen ihm und seinen Gegnern in Leipzig wurde, da es mit persönlichen Invectiven ge gen diese angefüllt war. Es hatte den Titel:
+
+Greymuthige, lustige und ernsthafte, jedoch Vernunft und Gesetzmäßige Ge danken, oder Monatgespräche über aller hand , vornehmlich aber neue Висhег. Da Thomasius die allgemeine Erbitterung be. merkte , welche die ersten Stucke dieses Fournals gegen ihn hervorbrachten , so erklärte er, daß der Inhalt der ersten Stucke nur darauf berechnet gewesen sey , die leser anzulocken; daß aber in den folgenden der Ton ganz ernsthaft [p. 1027] und wissenschaftlich seyn solle. Dies befriedigte jedoch seine Gegner nicht , und Thomasius ward von diesen in Dresden verklagt. Er fand aber einen Gönner und Beschüßer an dem
+
+Qberhofmarschall von Haugwitz in Dresden, den dieMonatsgespräche amifirten, und durch diesen wurde er vorerst gegen die Verfolgung seiner Feinde gesichert. Thomasius, hier. durch aufgemuntert , trieb nun seine muthwil lige Satire noch weiter. Er beschrieb das leben des Aristoteles , und concentrirte alle die verleumderischen Anekdoten aus dem Al. terthume von diesem Weltweisen, deren AnDenken einer der heftigsten Widersacher des
+
+Stagiriten, Franciscus Patricius , in sei nenDiſcuſſionibus Peripateticis erneuert hatte. Er übersetzte auch ein Stuck aus der Metaphysik des Aristoteles nach einer lateinischen Ueberseßung ganz wörtlich, so daß der Text meistens in Unsinn verwandelt wurde, um den philosophischen Abgott des Zeitalters in armseliger Blöße darzustellen. Alles dieses , und insbesondre seine fortgesetzten persönlichen In1 vectiven, erregten neue Anklagen bey den höhern
+
+Behörden gegen Thomasius; auch die Geistlichkeit in Leipzig stand gegen ihn auf; und ob er gleich von seinen Gönnern in Dresden auf mancherley Art begünſtigt wurde, so sah er sich doch zuletzt genöthigt, Leipzig im J. 1690 zu verlassen. Durch seine Gönner am Branden burburgischen [p. 1028] Hofe bekam er nicht nur die Erlaub= ( niß, sich nach Salle begeben, und dort Vorlesungen halten zu dürfen, sondern er wurde auch förmlich als besolbeter Lehrer angestellt. Der Beyfall , welchen er sich bey der akademischen Jugend zu Leipzig erworben hatte, folgte ihm sogleich nach Halle nach , und dies gab
+
+Veranlassung , daß die dortige nachher so berühmt gewordene Friedrichsuniversität im I. 1694 gestiftet , und Thomasius bey derselben zum öffentlichen Lehrer der Rechtswissenschaft ernannt wurde. Auch während dieses seines Lehramtes in Halle hatte er viele und bittere Streitigkeiten sowohl mit seinen alten Widersachern in Leipzig und Wittenberg, als mit andern , die er aber sämtlich mit Muthe und Glucke und zum nicht geringen Vortheile der literarischen und philosophischen Cultur in Deutschland bestand. Er starb als Königl. Preußischer Geheime Rath , und Director der Universität im J. 1728. Bruckeri Hist. crit. philos. T. IV. P. II. p. 447 , wo auch die Geschichte der ersten Streitigkeiten des Thomasius in Leipzig sehr um- Rändlich erzählt ist.
+
+Die beste Biographie des Thomasius ist von Schrokh in den:
+
+Allgem. Biograpb. Th. V. S. 266 f. Vgl. Sälleborn über Christ. Thomasius Philosophie. Mit Auszügen aus seinen philosophis schenSchriften, in den Beyträgen zur Gesch. D. Philos. St, IV, §. 1057.
+
+[p. 1029] §. 1057.
+
+Das vornehmste Ziel, wonach Thoma fius mit unermüdetem Eifer strebte , war , ei. ne richtigere Beurtheilung der Gelehrsamkeit Überhaupt bey dem Publicum zu veranlassen, und mittelst dieser eine bessere und in Beziehung auf das gemeine Leben und die wahre Bestimmung des Menschen zweckmäßigere
+
+Methode der Studien einzuführen. DieGeJehrsamkeit hat nach seiner Meynung gar keinen Werth , als sofern sie gemeinnüzig ist, und ihre Brauchbarkeit für die menschlicheGe sellschaft unmittelbar bewähren kann. Nur Derjenige ist ihm ein Gelehrter , der einige Wahrheiten , wenn es auch nur wenig seyn sollten, gewiß weiß , und von diesen für die wirkliche Welt Nutzen zu ziehen versteht; der dabey den Wahn seiner Mitmenschen einſieht, und das Talent und die erfoderliche Einsicht hat , um diesen aufzudecken, und dadurch das Gedeihen der Wahrheit zu befördern. Die Gelehrsamkeit soll den Menschen geschickt machen ,
+
+Wahres vom Falschen , Gutes vom Böſen, zu unterscheiden , die wahrscheinlichen Ursachen des einen und des andern anzugeben , und auf diese Art sowohl seine eigene, als die Glückseligkeit anderer Menschen zu befördern. Sie besteht aus zwen Haupttheilen : Gottesgelahrtheic und Weltweisheit , wovon jene in ct [p. 1030] der Offenbarung , diese im menschlichen Ver stande ihre Quelle hat, jene auf die Beförderung des ewigen , diese auf das zeitliche Wohl gerichtet ist. Aus dieser seiner Ansicht des Zwecks aller Wissenschaften ist der Eifer leicht zu erklären, womit er auf die damals gangbare Aristotelischscholastische Philosophie los. ſtúrmte.
+
+Er tadelte mit Recht an dieser die
+
+Menge spisfindiger , trockner , schwer verstandlicher und im gemeinen Leben großentheils unanwendbarer und entbehrlicher Speculationen, sowie an ihrenAnhängern den sclavischenSpstemgeist.
+
+Aber wegen des Schlechten über.
+
+sah und verwarf er auch das Gute, das selbst mit der wissenschaftlichen Philosophie in ihrem damaligen Zustande, wenigstens mit der wissenschaftlichen Philosophie überhaupt genommen, verbunden ist . Es gieng ihm hier, wie allenReformatoren , die sich gewöhnlich in ih rem raschen Ungestüme zu weit treiben lassen. Dazu kamen seine natürliche Heftigkeit, sein Hang zur Spötterey und Anmaßung, und das ausserordentliche Gluck , das er mit seiner popularen Manier , die Wissenschaften und besonders die Philosophie zu behandeln , machte, wodurch er zuletzt für billige und minder einsei. rigeUrtheile ganz unfähig und auch ganz un empfänglich wurde. Eben weil er alle Subtilitat in der Untersuchung der philosophischen
+
+Principien nicht bloß umgieng und vermied , fonsondern sogar verhöhnte und verlachte; so läuft auch vieles , was in seinen Schriften über spe.
+
+culativePhilosophie vorkomt , auf ein sehr oberflächlides seichtes Geschwätz hinaus. Die Grunde selbst , aus denen Thomasius alle höhere und subtilere Forschung sowohl in der Philosophie als in allen andern Disciplinen verwarf , sind lauter solche , die auch ein unge. bildeter Handwerksmann oder Bauer vorbringen wurde; und eben deßwegen waren sie auch der rohen akademiſchen Jugend so einleuchtend. "Ein hungriger Wanderer," sagt Thomasius, "ißt im Gasthofe die Speise, die ihm vorgesetzt ist , und läßt unterdeßen die Philo-sophen unterschiedener Systeme streiten: ob der Geschmack in der Speise oder in der Zunge stecke?" Mit des Thomasius Verachtung aller subtilern Speculation und seinem Stre den nach Popularität verband er die entschiebenſle Gleichgültigkeit gegen eine genaue philosophische Sprache. Anstatt die Wortstreitig. keiten durch eine pracise Bestimmung der den
+
+Worten und Ausdrücken zum Grunde liegen tern nicht so genau zu nehmen, und sich lediglich den Begriffe zu verhindern, suchte er ihnen da. durch auszuweichen, oder andern dieselben zu ersparen, daß er dem gemeinſten Sprachge brauche folgte , für dieselben Gegenstände und Begriffe bald diese bald jene Wörter brauchte , und ausdrücklich empfahl, es mit den Wörlich an den Sachen zu halten. Man übe nur gewiße Tugenden aus, und streite nicht über ihre Benennungen; man binde sich in Definitionen nicht an Wörter; wenn die Erklärung die
+
+Gegenstände erkennen und unterscheiden lehrt , so ist es hinlänglich.
+
+Hier über.
+
+sah Thomasius den innigen Zusammenhang zwischen der Sprache und den Begriffen gäng. lich, und arbeitete aller Gründlichkeit der wissenschaftlichen Erkentniß, und aller bestimten Darstellung derselben schlechthin entgegen.
+
+Auf eine Schwierigkeit inzwischen, mit welcher Thomasius gar sehr zu kämpfen hatte, muß man billig Rücksicht nehmen , und diese war die Unvollkommenheit der deutschen Sprache zu seiner Zeit, deren er sich fast zuerst für philosophische Materien bediente, so wenig sie auch noch zu einer angemeßenen Bezeichnung Derselben geeignet war. Daher ist sein bunter mit lateinischen und französischen Wor tern durchwebter Styl zu entschuldigen , wie.
+
+wohl er als deutscher Schriftsteller fast noch mehr leistete , als man von ihm unter den Umſtänden hatte erwarten sollen. Sonderbar ist, daß Thomasius bey seinem Sinne für das imgemeinen Leben praktisch Anwendbare, und bey seiner freyen Denkart über Gegenstände der Philosophie , eine solche Anhänglichkeit an sein kirchliches System hatte , die zuletzt bey ibm in Mysticismus übergieng. Er hatte eine [p. 1033] ne sehr geringschäßige Meynung von denKräf. ten der menschlichen Seele, namentlich der
+
+Vernunft und dem Willen , und hielt es auch deßwegen für unnus und vergeblich , tiefer in
+
+黴 ihre Natur eindringen zu wollen. Es ist um so auffallender , daß er seinem religiösen Glauben einen Einfluß auf seine Philosophie gestattete, da er von dem Kirchenhistoriker foderte , daß er seine Religion vergessen solle. Auch dadurch erhielt die Philosophie des Thomasius eine Eigenthümlichkeit, daß er sie immer mit andern Wissenschaften parallelisirte, und in je ner Analogieen mit diesen aufsuchte , oder dergleichen ersann und in jene hineintrug.
+
+Für manche seiner philosophischen Eintheilungen war es ihm ein völlig zureichender Bestätigungsgrund, wenn sich ähnliche in andere Disciplinen fanden , oder darin machen ließen. Ir. gend eine chemische , anatomische , physiologische Bemerkung gab ihm Veranlassung zu einer philosophischen Hypothese, die er alsdenn festzuhalten und mit einem unbiegsamen Eigensinne zu vertheidigen pflegte. Ein unverkennbarer Zug in dem literarischen und philosophischen Charakter des Thomasius ist endlich seine Sucht nach Originalität, die viele seiner Paradorieen erzeugt hat, und die insbesondre schuld war , daß er von seinen Vorgängern und auch von seinen Zeitgenossen nichts lernen wollte, und gegen ihre Verdienste unerkentlich war.
+
+[p. 1034] war. Seinen eigenen Begriff von einem Philosophen will ich hier noch mit seinen Worten Hinzufügen: „Ich verstehe unter einem echten Weltweisen einen Mann, der einen scharfsinnigen und durchdringenden Verstand hat ; der ſtets richtig und bundig urtheilt; der mit dem allgemeinen und höchst nöthigen Werkzeuge aller Wissenschaften , der Geschichte, genau be kant ist ; der seine Philosophie von der Selbst. erkentniß anfängt, und durch die Dämpfung feiner Leidenschaften sein höchstes Gut, die innere Gemuthsruhe, sich zu verschaffen bemüht ist ; der die Bosheit der Welt kennt, und durch eine tägliche und auf sichere Regeln gegründete Erfahrung allen Menschen , mit denen er um geht, wenn sie sich auch noch so sehr verstellen, bis in's Innere sieht ; der geschikt ist, eine sei.
+
+nem Geiste gemäße Lebensart zu wählen, und die dazu gehörigen Güter des Lebens, welche selbst seiner Tugend mehr Gelegenheit geben, rechtmäßig zu erwerben, zu erhalten , zu ver mehren , und anzuwenden; der in allen seinen
+
+Handlungen ein rechtmäßiges Decorum zeigt, ohne welches alle Philosophie eitel und bloße Pedanteren seyn wurde."
+
+§. 1058. So viel man an der Art tabeln kann, wie Thomasius die Philosophie betrachtete [p. 1035] und bearbeitete, so hat er dennoch eben hier. durch großen Nuken gestiftet, und das Ausſchweifende seiner Urtheile hat dagegen dem Fortgange der Wissenschaft selbst in Deutsch. land gar keinen oder doch nur sehr wenig Schaden gethan. Er foderte zuerst zur größern
+
+Freyheit im philosophischen Denken auf, und bewirkte dadurch , daß sich seine Zeitgenossen von dem Joche der aristotelischen Scholastik losrißen. Er machte auf das Verhältniß der Philosophie zum wirklichen Leben aufmerksam, und gab dem Studium derselben dadurch eine nüßlichere und zweckmäßigere Richtung und ein allgemeineres Interesse, wenn er gleich selbst vornehmlich in jener Hinsicht die wissenschaftliche Philosophie zu einseitig beurtheilte und behandelte. Er ermunterte endlich die Deut. schen durch sein Beyspiel, in ihrer Muttersprache als Lehrer und als Schriftsteller zu philosophiren , worin nach ihmso bewundernswürdige Fortschritte gemacht sind. Dieses dreyfache Verdienst wird dem Thoma. sius einen unsterblichen Namen sichern , auch wenn er durch das, was er für die Philosophie selbst leistete, keinen Anspruch darauf hat ; wiewohl doch auch in seiner eigenen philosophischen
+
+Vorstellungsart, und hauptsächlich in seiner Methode, Manches denkwirdig ist. Ein besonderes von andern Disciplinen verschiedenes
+
+System von Erkentnißen auf Einem Principe ges [p. 1036] gegrundet hat sich Thomasius unter der Philosophie nicht gedacht. Er hielt sie bloß für einen Inbegriff allgemeiner Kaisonnements über die Dinge überhaupt nach Regeln der Vernunftlehre. Daher nannte er die Vernunft. lehre und die Geschichte als die beyden norų.
+
+wendigsten und unentbehrlichsten Instrumente
+
+* der Philosophie , indem jene dieRegeln, diese Die Objecte des Philosophirens an die Hand giebt. Die Metaphysik , als besondre Wissen schaft, schloß er fast ganz von der Philosophie aus. Er hielt sie für unnúße Grilenfängeren, die nur diene, den gesunden Menschenverstand zu verderben, und Streitigkeiten zu erregen, welche besonders auf die Religion einen sehr nachtheiligen Einfluß haben könten. Frenlich bewog ihn zu dieſem Urtheile der damaligeZustand der Metaphysik , da sie größtentheils auf ontologische Subtilitäten und Distinctionen hinauslief. Die Lehren von den Principien der Erkentniß , von den Grunden der Wahrheit in Urtheilen und Schlüßen, die gewöhn lich in der Metaphysik abgehandelt zu werden pflegen, nahm er in die logik auf. Die natur liche Theologie schien ihm in Vergleichung mit der geoffenbarten zu unbedeutend, als daß sie einer besondern Bearbeitung werth wäre, da er alles wissenschaftliche Bedürfniß nur darin sekte, was die Gemeinnugigkeit erfoderte. In der Pneumatologie, damals einem der wichtigfren
+
+ſten Theile der Metaphysik , ward er durch die sogenannten Mosaischen Philosophen und Cabbalisten zum Mystiker. Er behauptete zwar, daß die Vernunft das Wesen des Geistes nicht zu erkennen vermöge; aber eben deßwegen glaub te er die Pneumatologie aus der heiligen Schrift schöpfen zu müſſen , und dies führte ihn zu sei nen mystischen Traumereyen , die mit seiner anderweitigen wahrhaft aufgeklärten Denkart sehr contrastiren. In seinem Versuche vom Wesen eines Geistes nahm er einen allgemeinen Weltgeist an, und legte dem Menschen zwey Getſter, einen guten und einen bösen , bey. Eben so verlor sich auch seine Psychologie, da er die.
+
+se Wissenschaft für unmöglich aus Vernunft. grunden ansah , in biblisch mystische Speculatio hen. Am meisten druckt sich sein praktischer Sinn verbunden mit seiner Anhänglichkeit an die positive Religion in seiner Moralphilosophie aus. Die menschliche Vernunft schien ihm zu schwach und der Wille zu verderbt, als daß sie den Menschen allein zu seinem
+
+Ziele leiten konten. Daher legte er auch der philosophischen Sittenlehre nur eine sehr geringe Wirksamkeit auf die Gemüther bey. Sie kann nur die Kentniß des Menschen von sich selbst und Andern befördern , ihm Regeln für den Umgang darbieten , und so bewirken , daß der Mensch nicht noch schlimmer werde, als er von Natur schon ist. Was aber die [p. 1038] wahre moralische Besserung und Volkommen10 heit betrifft, so kann man die Mittel zu der selben allein aus der heiligen Schrift kennen lernen, und jene ist lediglich unter dem Beystande der göttlichen Gnade durch den Glau. den möglich. Die Ideen des Thomasius über das Naturrecht waren in seinen frühern
+
+Jahren andere , als in den ſpätern. Anfangs folgte er demPufendorfischen Principe der Geselligkeit; in der Folge aber legte er ein eigenes Princip zum Grunde , das jedoch im Wesentlichen wenig von jenem verschieden ist. Auch in der Geschichte der Philosophie hatte Thomasius vorzügliche Kenntniße, die er aber doch meistens aus den Handschriften seines Vaters geschöpft hatte.
+
+§. 1059.
+
+Nach den obigen Bemerkungen über die
+
+Philosophie des Thomasius im Allgemeinen, will ich ist noch Einiges hinzufügen, was seiner Bearbeitung der einzelnen philosophischen
+
+Disciplinen eigenthümlich ist. Zur Verbesserung der eigentlichen wissenschaftlichen Logik hat er nichts bengetragen ; er verwarf vielmehr die Syllogistik gänzlich ; verbante alles, was ihm Subtilitaten hieß, und schränkte die
+
+[p. 1039] Logik bloß auf allgemeine praktische Regeln ein. Indem er hierdurch freylich die Logik populari. sirte, und durch Reinigung derselben von wirklich überflußigem scholastischen Wuste ihre Brauchbarkeit beförderte , that er doch dadurch, Daß er viel zu weit gieng , der innern Vervoll. komnung der Wissenschaft großen Abbruch.
+
+Ertheilte die Vernunftiehre in zwey Theile, von denen der eine die allgemeinen Begriffe von der Vernunft und der Wahrheit , den Principien und Kriterien der leßtern ; der andere eine Methodologie enthält. Der vornehmste Unterschied des Menschen von den Thieren zeigt sich in der Rede. Das Denken ist eineinnere Rede ; denn indem man denkt , redet man mit sich selbst über die innern Formen (Vorstellungen) , welche durch die Bewegung der äußern Körper mittelst der Organe dem Gehirne eingedruckt sind . Die Gedanken sind entweder leidend oder thätig; jene sind die Vorstellungen der äuſſern Sinnlichkeit; diese be-
+
+Rehn in dem Zusammensetzen , Ordnen und Unterscheiden der empfangenen. Eindrücke. Thomasius glaubte , daß wenn sich das Ge
+
+Hirn eines lebenden Menschen untersuchen lie. Be, man vielleicht mittelst der Mikroskope die Formen der Körper und sogar die Bewegungen des Gehirns beym Denken wurde entdecken können. Der Mensch besteht aus leib und Seele. Die Seele ist dasjenige in uns , was Denkt, [p. 1040] denkt , das ist alles , was sich von der Seele ſagen läßt. Die Gedanken des Menschen sind zwiesach , Verstand und Willen. Die ontologischen Begriffe handelt Thomasius unter der Rubrik von logischen Kunstwörtern ab.
+
+Die Wahrheit ist die Uebereinstimmung unserer Vorstellungen mit der Beschaffenheit der Dinge ausser ihnen; die Nichtůbereinstim mung beyder erzeugt das Falsche; und ein für wahr gehaltenes Falsches ist ein Irrthum. Al les Wahre und Falsche kann nur in Beziehung auf die Dinge ausser uns statt finden. Eine Wahrheit ist nur dann eine Grundwohr heit oder Princip , wenn aus ihr andereWahr heiten erwiesen worden können, sie selbst aber keines Beweises bedarf und fähig ist. Der Grundsatz aller wahren Erkentniß ist : Was mit der Vernunft übereinstimt, ist wahr, und was ihr widerspricht, ist falsch. Da aber die Vorstellungen (Gedanken) entweder leidend over thätig sind , so zerfällt jener Grundsatz in zwey andere: I Was der menschliche Ver stand durch die gesunden Sinne erkennt , ist wahr, und was denSinnenzuwider ist, ist falsch. Die Sinne an sich selbst trügen nicht, sondern nur unser Urtheil trúgt. Die Sinne liefern aber bloß Anschauungen , welche der Verstand erst verbinden , ordnen und unterscheiden muß. Alle Begriffe müssen sich aber nothwendig auf Anschauungen beziehen. Daher der andere Grund.
+
+[p. 1041] Grundsatz: 2 Was mit den Begriffen, die sich der menschliche Verstand von den durch die Sinne ihm vorgestellten Objecten macht, über. einkommt, ist wahr , und was ihnen zuwider ist , ist falsch .
+
+Was in den Dingen Subslang ist, kann der Mensch nicht mit Gewiß heit erkennen , sondern seine deutliche Erkentniß erstreckt sich vornehmlich nur auf die Accidenzen. Diese lassen sich überhaupt auf Körperlichkeit und Bewegung zurückführen. Eine deutliche Erkentniß haben wir von der Materie der Dinge, sofern sie uns afficirt, eine minder deutliche von der Form , oder von der Art, wie die Theile in der Substanz vereinigt sind.
+
+Eben so erkennen wir die Wirkung einer Substanz ; aber nicht immer den Ur sprung derselben. Es giebt eine erste wir. kende Ursache, deren Wesen uns jedoch unbe kant ist. Die Substanzen dürfen nach bloßen Vernunftgründen nicht in körperliche und gei. ſtige eingetheilt werden , weil die Vernunft sich von einem Geiste keinen Begriff machen kann; auch nicht in einfache und zusammenge. sekte , weil der Mensch einfache Substanzen eben so wenig zu erkennen vermag. Die Wahrheit hat ihren Grund im Menschen , und daher weiß der Mensch von sich selbst das Meiste und das Gewißeste , ausgenommen was seine Seele betrifft , deren Wesen er gar nicht kennt.
+
+Was der Mensch von sich selbst weiß,
+
+Цииз be.
+
+[p. 1042] besteht in seinen Gedanken als den Wirkungen der Seele; er erkennt ferner ſeinen eige. nen. Endzweck mit Gewißheit, und olso auch das Princip , was sein Thun und lassen regte ren soll. Auch die Gedanken anderer Men schen, so wie die Zwecke und Eigenschaften anderer Dinge , vermag er mit Wahrscheinlich keit einzusehen.
+
+Der Irrthum hat seinen
+
+Grund in der natürlichen Unvollkommenheit des Menschen von der Kindheit an, und den Mängeln der Erziehung; ferner in der Neugierde, welche Uebereilung und Verwechslung des Scheins mit der Realität bewirkt; endlich in der Uebermacht der Sinnlichkeit und in der
+
+Leichtgläubigkeit. Die Mittel, um die Wahr heit zu erforschen , und sich von Irrthümern zu befreyen, sind erstlich: Bestreitung und
+
+Wegräumung der Vorurtheile durch ein vernunstiges Zweifeln , d. i. durch Aussuchen der Principien, und Prüfung der Vorstellungen denselben gemäß; zweytens : Selbstständigkeit im Urtheilen und Unabhängigkeit von der Autorität Anderer; drittens : vorsichtige Zurück. Haltung des Beyfalls , bevor man nicht die Gegenstande, welche eine Meynung betrifft, sorgfältig und von allen Seiten erwogen hat; denn bey dem Handeln muß man sich nach dem Willen einſichtsvoller Menschen richten , aber der Verstand ist keinem Geseke unterworfen; viertus : scharfe Unterscheidung der Wahr
+
+[p. 1043] Wahrheit von der Wahrscheinlichkeit; fünftens : Unterscheidung nützlicher Wissenschaften , be. sonders derer , die zur wahren Glückseligkeit führen, von den bloß belustigenden ; überhaupt Beziehung aller . Erkentniß auf die wahre Weisheit und Religion. S. den Auszug aus Chr. Thomasius Vernunftlehre von Sülleborn am a. D. S. 43. ff.
+
+§. 1060.
+
+In seiner Sittenlehre geht Thomaſius mit Recht von einer Bestimmung der Begriffe des Guten und Bösen aus. Das Gute überhaupt besteht in der Uebereinstimmung der Dinge mit einander, und Uebereinstimmung ist , wenn ein Ding die Subsistenz des andern erhält, oder das Wesen desselben vermehrt. Das Bose hingegen ist der Widerstreit der Dinge, wo eines das andere zerstört , oder in seinem Wesen vermindert. Die Dinge, die in Beziehung auf den Menschen gut oder bosesind, sind entweder in und an, oder ausser ihm. Die erstern sind gut, sofern sie zum Wesen des Menschen gehören und die Subsi.
+
+stenz desselben erhalten und befördern; sie sind bose, [p. 1044] bose, wenn sie das Gegentheil thun.
+
+Dinge ausser dem Menschen sind an sich we der gut, noch bise; sie werden das eine oder das andere, danach sie in Beziehung auf den Menschen die Substanz desselben befördera, oder ihr schaden. Der Mensch soll nach dem Guten , d. i. nach Glückseligkeit streben , und
+
+Hierzu ist die Sittenlehre eine Anweisung. Die Glückseligkeit ist der Besitz des wahren Gutes , und zwar entweder des edelsten Gutes, oder aller Guter zusammen. Der Real Grund al les Guten im Menschen ist das Leben , oder die Vereinigung zwischen Leib und Seele; die Guter der Seele aber sind die vorzüglichsten. Für die wahre und höchste Glückseligkeit erklär.
+
+te Lbomasius ein rubiges Verlangen nach gemäßigten Vorstellungen , oder einenZus stand , worin der Mensch weder Schmerz , noch Freude empfindet, und sich mit andern Menschen von gleicher Stimmung zu vereinigen strebt. Das Princip der Glückseligkeit im
+
+Menschen ist die gesellige Liebe, die in der Natur des Menschen als eines geselligen We sens liegt, und das Wohlseyn Anderer zum
+
+Höchsten Zwecke hat. Eben dieses Princip , die vernünftige Liebe Anderer (nicht die Selbstliebe), begründet also auch nach dem Thomasius alle Moralitat. Daß ein Mensch sich selbst mehr lieben könne , als andereMen schen oder Dinge, leugnete Thomasius schlecht [p. 1045] schlechthin; ein Geiziger liebt nicht sich , sondern das. Gelb ; ein Wohlustiger nicht sich , sondern die schönen Weiber. Wird Glickfeligkeit im objectiven Sinne verstanden , so ist sieder Inbegriff der Gemüthsruhe mit den wesentlichen Hutern , welche dazu erforderlich sind, Diese wesentlichen Güter sind Weisheit und Tugend; unwesentlich sind Ger sundheit , Ehre, Reichthum , Freundschaft u. w. Zur Beförderung der Gemüthsruhe ist der Glaube an Gott als Schöpfer und Erhalter der Welt nothwendig. Dieser Glaube erzeugt diebe und Vertrauen zu Gott, und dadurch ein
+
+Bestreben , dem Willen Gottes gemäß zu handeln. In diesem Bestreben liegt auch der wahre Gottesdienst. Wer einen solchen Glauben an Gott nicht hat, ist ein Atheist , und wer den Dienst Gottes in etwas Anderem sest , ist ein Abgstrer ; beyde Gemüthszuſtände sto ren die Geimuthsruhe, und sind daher verwerflich. Die Liebe überhaupt ist ein Verlangen des Willens, sich mit dem , was der Verstand für gut erkennt, zu vereinigen , oder in dieser
+
+Vereinigung zu bleiben; sie kann also ihrer Natur nach immer nur auf andere Gegenstande gerichtet seyn, und bezieht sie sich aufMen ſchen, so hat sie eine Vereinigung derselben zu
+
+Einem Willen , ohne Herrschaft des Einen über den Andern , zur Absicht.
+
+Die Liebe aber ist entweder vernünftig oder unvernunfrig.
+
+[p. 1046] Die letztere ist ein unruhiges nicht von der Vernunft geleitetes und mit ihr harmonisches Be streben; sie ist entweder herschsüchtig oder scla visch; sie geht mehr auf schädliche Dinge, als ausgute; schakt leblose und unvernünftigeDin ge höher, als sie werth sind , den Körper ho her, als die Seele; sie trachtet nach unmöglichen Dingen , z. B. nach einer Vereinigung mit Gott, und daß sich der göttliche Wille nach dem menschlichen bequemen solle. Hin gegen die vernünftige Liebe, die einen entge. gengeseßten Charakter hat, ist das einzige und wahre Mittel zur Glückseligkeit, d. i. zur wirklichen Gemüthsruhe. Sofern die Men schen vermöge ihrer Naturbeschaffenheit einander gleich sind , giebt es auch eine allgemeine Menschenliebe. Diese faßt in sich Lense ligkeit , oder Bereitwilligkeit, Andern zu helfen und zu dienen , und Wahrhafrigkeit in Erfüllung der Verbindlichkeiten , welche bende Tugenden positiv sind , und die Erhaltung der
+
+Gleichheit unter den Menschen bewirken. Ferner gehören in den Inbegriff der Menschenlie. be als negative Tugenden , welche die Hinderniße der Gleichheit wegräumen, Bescheiden heit, die nicht mit Demuth zu verwechseln ist, welche die Vernunft nicht als Tugend kennt und empfiehlt , Verträglichkeit , und Bedud. In den Verhältnißen einzelner Menschen gegen einander nahm Thomasius eine besondeτε [p. 1047] re Liebe an, die sich aber lediglich auf Soch. achtung grundet, aus welcher Gefälligkeit , Aufmerksamkeit, vertrauliche Gutthätigkeit, Gemeinschaft der Güter und des Thuns und lasſens fließen. Einen Unterschied zwischen dieser besondern Liebe und der Geschlechtsliebe wollte Thomasius nicht zugestehen , weil alle Liebe eine Vereinigung der Seelen, und alle Trennung derselben in besondere Gattungen unnúß und leer sey. Er hielt es deßwegen nicht für schimpflich und erniedrigend , daß ein Frauenzimmer seine Liebe dem Manne antrage. Auch der Stat kann nicht ohne Liebe bestehen , obgleich er theils aus Mangel an Liebe , theils aus Furcht vor der Bosheit Anderer entstan. den ist. So segenbringend inzwischen die vernunstige Liebe ist , so selten ist sie doch unter den Menschen , und daher rührt alles Elend , welches die menschliche Gesellschaft im Ganzen und die Individuen drückt. Die Ursache der unvernunftigen Liebe ist in den Vorurtheilen und Irrthümern des Menschen und in seinem verderbten Willen zu suchen. Auch der Wille hat seine Irrthümer und Vorurtheile , hauptsächlich das Vorurtheil der Ungeduld und der
+
+Nachahmung. Jenes verführt den Menschen allem nachzustreben , was die Sinnlichkeit augenblicklich und lebhaft reizt : daher der Hang zu
+
+Veränderungen und Contrasten; dieses verführt ihn , zu begehren und zu thun, ohne selbst zu prú.
+
+[p. 1048] prüfen. Alle Affecten lassen sich unter dem allgemeinen Begriffe des Verlangens over Der Begierde vereinigen; die Begierde geht auf das Gute , und dann ist sie Liebe; eder ſie ſucht des Bösen sich zu entledigen, und sich davon zu entfernen, dann ist sie saß. Thomasius entwickelt hierauf die einzelnen Affec Die Begierde wird bestimt a) durch die Nähe: oder Ferne des Guten und Bösen , und durch die Schwierigkeit oder Leichtigkeit, jenes zu erlangen, und dieses zu vermeiden; daraus entspringen die Affecte des ten genauer
+
+Mistrauens, der Furcht , der Hoffnung; b) durch den starken oder plötzlichen Eindrucd einer Empfindung ; daher- rühren: Bestir zung, Schrecken; c) durch den mittelbaren oder unmittelboren Eindruck, daher Neid,
+
+1) Zorn , Aeraerniß; d) durch die Dauer; do»
+
+her Habsucht , Lüsternheit , Wohllust. Alle Affecten sind aber nur verschiedene Grade der Liebe und des Habes, und sofern der Mensch von der vernünftigen Liebe abweicht, oder sich durch sie regieren läßt, erzeugen sie fehlerhafte oder gutartige Neigungen. Diese lassen sich auf vier Hauptaffecte oder verschieDene Hauptarten der Liebe und des Hages zurückführen: vernünftige Menschenliebeund Haß der Irrthümer und des lasters; a liebe der stolzen Ehre und Haß der Bescheidenheit; 3 liebe der sinnlichen lust, und Haß der Enthält.
+
+[p. 1049] Haltsamkeit ; 4) Liebe des Geldes , oder Haß der Armuth und Gemeinschaft der Güter: §. 1061. Die Affecten überhaupt genommen sind weder gut noch böse; aber sie werden das eine oder das andere , danach sie zur Ruhe oder zur
+
+Unruhe des Gemüths führen. Da die Reizungen der Sinnlichkeit den Menschen von den Jah. ren ihrer Kindheit an mehr Vergnügen gewähren; so werden hierdurch viele unordentliche Begierden erzeugt , welche die Gemüthsruhe aufheben , und den Menschen in einen bösen Zustand versehen. Dagegen ist es seine Pflicht , nach und nach von den unruhigen zu den ruhigen überzugehen.
+
+Die unruhigen und eben deswegen bösen Affecten sind daran zu erfen. nen, wenn sie den Menschen ausser sich sehen und auf etwas Anderes als die Vereinigung mit Rupe suchenden Menschen gerichtet sind;
+
+wenn sie ferner von einer so lebhaften Bewegung begleitet werden , daß dadurch der Leib geschwacht , und der Wise beunruhigt wird.
+
+Thomasius stellt auch eine seltsame Verglei. chung der vier Hauptaffecten an. Die vernünftige Liebe ist nur Eine; aber die unver nunstige scheidet sich in drey Arten, so wie es nut [p. 1050] nur Eine gerade linie, aber viel krumme, El. ne Tugend , aber viele laster giebt. Die Arten der unvernünftigen Liebe lassen sich beur. theilen : a) nach der Politik. Alles Uebel der Staten entspringt aus dem Unterschiede der
+
+Geburt und der Aufhebung der Gütergemeinschaft , also aus Ehrgeiz und Geldgeiz, welche beyde die Wohllust erzeugen; b) nach derPhy fik. Die Elemente des Körpers sind Schwe. fel, Salz und Queksilber ; der Schwefel erweckt
+
+Ehrgeiz; das Salz Geldgeiz, und das Quek. silber führt zur Wohllust. Eben so entsprechen von den vier Naturelementen das Feuer dem Ehrgeize, das Wasser der Wohllust, die kalte Erde dem Geize, und die reine Lust der Liebe.
+
+Auch die Temperamente gehoren hieher. Im
+
+Kopfe herscht der Ehrgeiz; im Herzen derGele. geiz, im Unterleibe die Wohllust; e nach den Ständen. Der Nährstand wird am meisten von der Wohllust , der Wehrstand von dem Ehrgeize, der Lehrstand von dem Geldgeize ge.
+
+trieben.
+
+Alle Tugenden entspringen aus der vernünftigen Liebe , alle Laster aus der unver.
+
+nünftigen.
+
+Thomasius bringt die leßtern in eine tabellarische Uebersicht nach den drey bösen Hauptaffecten, aus denen sie fließen. z.B. Die Wohllust ist überhaupt eine leidenschaft, welche die Ruhe vergeblich darin sucht, daß Verstand und Sinnlichkeit , vornehmlich aber
+
+Geschmack und dustgefühl , immer beluſtigtwer den, den, und welche nach einer Vereinigung mit eben so gestimmten Menschen strebt. Aus ihr entstehn unbedachtſame Klatscheren , liederliche Verschwendung, knechtische Submission, unge duldige Zaghaftigkeit, versoffene fräßige Geil.
+
+heit, fauler Müssiggang, jahzornige Weich. Herzigkeit, Kuppler und Spielmann's Dienſte, ingenieuse Erfindung. Den Ehrgeiz überhaupt erklärt Thomasius für eine leidenschaft , welche die Ruhe vergeblich darin sucht , daß Andere uns Beweise von Hochachtung und Gehorsam geben, und die zu diesem Zwecke listige und gewaltsame Thaten unternimt, eigenen Ausdrücken des Thomasius aus dem erstern: hartnäckigeStockischheit, Stoische Faste und Unempfindlichkeit , Banditen Dienstfertigkeit; aus dem andern tickische Lugen und Simulirung, unbarmherzige Filzigkeit und
+
+Knickeren , schindhindischer Haß des Weibes , Sau und nach der Verbindung mit gleichgearteten Menschen strebt. Der Geldgeiz ist eine lei. denschaft , die ihre Ruhe vergeblich in ſteter veränderlicher Besitzung von allerhand Dingen sucht, die unter dem Menschen sind , und mit Gelde angeschafft werden können, und die daher mit solchen Dingen oder gar mit dem Gel. de allein durch dessen Erlangung und Verwahrung sich zu vereinigen strebt. Aus beyden , dem Ehrgeize und dem Geldgeize, folgen wie. der mehrere einzelne Laster, z. B nach den
+
+[p. 1052] Lauserey, mühsame Eselsarbeit, ungemeines Gedächtniß. Es ist aber in den menschlichen Charakteren nicht einer der Hauptaffecten mit seinen Folgen allein herschend , sondern diese sind oft wunderlich mit einander gepaart und gemischt , und schränken sich dadurch einander ein, oder machen auch durch die Art der Mischung den Charakter noch sehlerhafter. Wenn sich Wohllust und Ehrgeiz in gleichem Maaße mischen , so entsteht eine Ge muthsstimmung , die der vernünftigen Liebe ähnlich ist , z. B. die Erniedrigung der Wohla lust und der Hochmuth des Ehrgeizes gemischt bewirken eine gleichmuthige Freundlichkeit. Werden Ehr- und Geldgeiz zusammen ge mischt, so entstehn Charaktere, die gefürchtet und respectirt werden.
+
+Die Stockischheit des erstern und die tückische Simulirung des an dern bewirkt kluge Zurückhaltung. Hat der Ehrgeiz die Oberhand , so sucht der Mensch sich mit mehr Kunst und Verstellung bey An. dern zu insinutren. Ist aber der Geldgeiz ſtärker , so ist die Schmeicheley gróder. Komt noch etwas Wohllust hinzu , so wird die affec tirte Freundlichkeit der wahren ähnlich . Eine abscheuliche Mischung geben Wohllust und Geldgeiz. Ein solcher Charakter ist eitel und prahlerisch im Glucke und niederträchtig im
+
+Unglucke. Er pust sich kostbar , aber es klei bet nicht , weil auf der einen Seite wieder ein. ge.
+
+gebracht werden soll , was es auf der andern kostet.
+
+Den der Beurtheilung des morali.
+
+schen Werthes oder Unwerthes der Charaktere muß aber auch auf Alter , Stand , Gluck , Gelegenheit , u. a. Dinge Rücksicht genom .
+
+men werden.
+
+Ein junger Boyluustling ist bey weitem nicht so verachtlich , als ein alter verliebter Geizhals. Umgekehrt ist ein junger Geizhals viet verächtlicher , als ein alter. So machen auch die Stände einen großen Unterschied. Ein ehrgeiziger oder wohlustiger Prl.
+
+vatmann führt ein chan liches aber im Verhältniß zum Ganzen unschädliches Leben , und chadet am meisten sich fbst ; hingegen ein Ehrgeiziger oder Wohllustling auf dem Thro . ne wird ein Ungehener und das Verderben ganger Nationen. Die vernünftige und unver nunftige Liebe können nie gemischt werden , well sie einander widerstreiten, vertilgen oder ein. schranken. Thomasius stelt für die Men . schenkentniß den traurigen Grundsatz auf: Bep allen Menschen steht die vernünftige Liebe un. ten an, und wird von den drey Hauptlaſtern um viele Grade , mehr oder weniger, über. troffen. Von diesen drey Hauptlastern aber berscht immer eines über die andern , und zwar auf sechſerley Arten.
+
+Wer sich selbst bessern will , muß untersuchen , welche von diesen Arten bey ihm statt finde. Die Erwerbung der Menschenkentniß ist schwer , aber doch möglich. Buble Geſch, d. Phil. 6, Th, ate sälste, Xxx Sie
+
+1054 XXII. A. Geschichte der Philef. Sie seht voraus Selbsterkentniß , und einen Verstand , der von Vorurtheilen frey ist; un befangne Beobachtung Anderer; Bemerkung nicht einzelner, sondern mehrer Handlungen des Andern und Vergleichung derselben; Der lauschung Anderer, wenn sie sich in ihrer wahren Art zu denken und zu handeln nicht verbergen. Thomasius giebt nun noch genauer die äussern Kennzeichen der Leidenschaften an. Zur Dämpfung derselben schlägt er eine vortreffliche Methode vor. Man muß vor allem suchen, die Hauptleidenschaft kennen zu lernen , die dem Menschen am lieb. ſten ist, und die er gewöhnlich mit der Schwäche der menschlichen Natur überhaupt entschuldigt.
+
+Hierbey kann man sich fragen, ob man eher ei nen Gegenstand der Liebe , oder des Ehrgeizes, ober des Gel geizes aufopfern wurde. Diese Prüfung muß aber zu einer Zeit und unter Umständen vorgenommen werden, wo die
+
+Hauptleidenschaft gerade nicht auf ihrer Huth ist. Ist die Hauptleidenschaft entdeckt, so muß man allen den Vorurtheilen entgegenar.
+
+beiren, welche dieselbe nähren und starken. Die Ueberzeugung, daß nie dabey wahreGe muthsruhe zu erlangen stehe, ist dazu am mei sten beförderlich. Auch muß man den Muth nicht verlieren , wenn die Ueberwindung und
+
+Ausrottung jener Vorurtheile mit Schwierig. keiten verbunden ist. Dann muß gegen die Leiden-
+
+[p. 1055] Leidenschaft selbst gekämpft werden. Gelegen. Heiten, wo sie erwachen konte, verführerische Beyspiele und Gesellschaften , sind zu vermeiden. Wer z. B. die Leidenschaft der Wohllust besiegen will , muß oft das Leere und Nichtige der Schwelgeren im Essen und Trinken und im
+
+Genuße des Weibes überdenken; er muß damit das wahrere und größere Vergnügen ver. gleichen, das mit einem keuschen und nichtere nen Leben verbunden ist ; er muß die möglichen Folgen eines schwelgerischen und wohllustigen Lebens in der Zukunft erwägen; die Gesell. schaft wohllüſtiger Menschen , besonders scho ner Weiber, fliehen, und dagegen den Um gang mit ernsthaften und keuschen Männern aussuchen; er muß durch strenge Arbeitsamkeit wohllistige Phantasieen entfernen u. w. Thomasius war der Meynung , daß zwar das natur.
+
+liche Vermögen des Menschen nicht zulanglich sen, die bösen Affecten zu dampfen; daß aber die Lehrsaße aus der Vernunft von der Dampfung der Leidenschaften auch nicht zu vernachlässigen seyen. Der Verstand wird durch den Willen regiert, welcher böſe und verderbt ist.
+
+Daher kann der Wille nicht durch sich selbst gebessert werden ; denn der böſe Wille kann den böſen Willen nicht bekehren.
+
+Das einzige, was geschehen kann, ist , daß der Mensch eine Leidenschaft durch die andere bekriegt , zuweilen seine guten Vorsätze ausführt , und nicht schlimmer [p. 1056] mer wird , als er ist ; aber villig moralisch gut kann er auf diesem Wege allein nicht werden.
+
+Die äussern Arzneyen, welche einer Krankheit abhelfen , gibt es gegen das laster nicht; die Moral und ihre Befolgung ist nichts weiter, als was dem Kranken eine gute Diät ist; so wie die letztere den Kranken in einem leiblichen
+
+Zustande hinhalt , ohne ihn zu heilen , so be wirkt auch jene nur , daß der Mensch nicht noch tiefer in das Böſe versinkt, Bey Tugend und
+
+Laster findet freylich eine zurechnung statt; aber der Mensch verdient für das Gute , was er thut kein Lob; denn er thut eigentlich nie etwas Gutes ;er thut, streng genommen, nur weniger Boses , als er thun konte; und daher ist Lob vielmehr schädlich , weil es Heubelen und Verstellung zur Folge hat. Indem dieMoral Vorschriften ertheilt, wie die menschlichen Affecten zu dampfen sind , lehrt sie zugleich, daß sie durch das natürliche Vermögen des Menschen nicht gedämpft werden können. Sie kann also nichts anders seyn, als eine Leiterinn zur Theologie; denn wo die Moral der Vernunft nichts mehr auszurichten vermag, tritt die göttliche Weisheit und Gnade, welche die heil. Schrift lehrt, an ihre Stelle. Thoma. sius wollte deßwegen seine Moral nur für Verführer und Verführte geschrieben haben, damit diese ihren verderbten Zustand daraus kennen lernten; hingegen nicht für gebesserte Christen, [p. 1057] die einer solchen Unterweisung nicht weiter be dürfen. Hiernach wird uns das Urtheil begreif lich seyn, welches Thomasius über die heyd nische Sittenlehre salute: daß alle hendnische Ethiken und Politiken , mit Luther zu reden , schlimmer als gar keine wären, weil sie der Gnade Gottes und der christlichen Tugend ge.
+
+radezu entgegen seyen. In seinen Cautelen wurden vom Thomasius manche Säße seiner Sittenlehre berichtigt, oder minder hart aus. gedruckt. So erklärte er darin die vernimftis ge Liebe noch genauer. Sie sen kein besondrer Affect, sondern nur eine Einschränkung der drey Hauptaffecten. Sie kann selbst nicht ohne allen. Affect seyn , und daher dürfen die guten Affecten nicht ausgerottet werden. Auch gab er hier zu, daß eine Besserung des Men ſchen durch ihn selbst möglich sen , sobald man nur Freywilligkeit und Freyheit des Willens unterscheide ; daher senen die philosophischen Tugenden auch wahre Tugenden , jedoch nach dem Verhältniße der menschlichen Schwache.
+
+§. 1062.
+
+Es ist schon oben bemerkt worden , daß Thomasius in der Bestimmung des Princips des Naturrechts und in seiner naturrechtlichen
+
+Theorie überhaupt sich während der verschiedenen [p. 1058] nen Epochen seines Lebens nicht gleich blieb. In seinem ersten Lehrbuche, den Inftitutionibus jurisprudentiæ divinæ , folgte er dem Pufen dorfschen Principe der Geselligkeit; in dem andern aber, den Fundamentisjuris et gentium , wandte er sein Princip der Sittenlehre , die vernünftige Liebe, auch auf das Naturrecht an. Man kann also nur von dem leßtern Lehrbuche behaupten , daß es die eigenenMeynungen des Thomasius über Naturrecht enthalte. Io will hier nur einige Grundbegriffe und charek.
+
+teilte Behauptungen aus demselben anzeigen.
+
+Erstlich: Das Gerechte (justum)
+
+Ist dem äussern Uebel entgegengesetzt ; das Moralisch Edle (bonum eminens) ist das. jenige, was der innern Begierde nicht unterlient; tas Anständige (decorum) liegt zwiſchenjenen benden in der Mirte
+
+Zweytens:
+
+Das Recht entspringt aus der äussern Fren. Heit des Willens; die Verbindlichkeit schränkt den Willen und die äußere Frenheit desselben ein; beyde beziehen sich auf eine Norm , nur auf verschiedene Weise. Drittens : Alles Recht ist zwiesach. Es ist ent. weder auf positive Geseke und Verträge mit Andern, oder auf die eigene subjective Natur des Menschen gegrunder. Alles Recht hat fer ner nur eine aussere Beziehung, keine innere; die Verbindlichkeit kann auch eine innere Beziehung auf das Subject haben, die aber Durch [p. 1059] durch die Regeln der Moral, nicht durch die Rechtsregeln bestimt wird.
+
+Die Erfüllung der inneren Verbindlichkeit macht den Men schen tugendhast; die Erfüllung der äußern macht ihn gerecht.
+
+Das positive Recht erso.
+
+dert eine aussere Mittheilung und Bekantma. chung; das Naturrecht wird durch Vernunft schluße in einem ruhigen Gemüthszustande er. kannt. Das letztere hat Gott in das Herz des
+
+Menschen gepflanzt; es ist also ein göttliches, ſo wie jenes ein menschliches Recht ist. Viertens: Das Naturrecht enthält mehr Maximen , als Geseze.
+
+Dies ist ein dem
+
+Thomasius eigenthümlicher Sak, und ein Radicalfehler seines naturrechtlichen Systems. Das positive Gesetz, sagt et, wird nicht be trachtet als von einem Lehrer , sondern als von einem Herscher ausgehend. Allein die sich selbst überlassene Vernunft hot keinen Begriff von Gott als einem Könige oder Herrn , der den Uebertretern des natürlichen Rechtsgesekes willkührlich aussere Strafen zufügte; alle Strafen, die nicht von der positiven Gesetzgebung verhängt werden, werden nur uneigentlich so genannt; denn die eigentlichen Strafen ver. hängt ein Oberherr , und vollzieht sie sichtbar;
+
+die positiven Geseke werden auch äußerlich des kant gemacht; von einer solchen Bekantmachung des N. R weiß aber der Philosoph nichts. Dieser denkt sich Gott mehr als Rathge.
+
+gebenden Vater, wie als Oterherrn; jerie Idee bringt eine vernürftige, diese eine frechti sche Furcht hervor. Sofern Gott als Vater, Kathgeber, Lehrer gedacht wird , und die moralische Gute oder Schändlichkeit, mehr die Tugend oder das laster überhaupt , als tie Gerechtigkeit oder Ungerechtigkeit insbesondre, andeutet, sind auch alle Handlungsweisen, welche durch das Naturrecht beſtimt werden, ihrer moralischen Natur nach betrachtet , inHin sicht auf das ganze menschliche Geschlecht gut oder böse. Das Naturrecht hat also mit der Sittenlehre derselben Charakter, und beruht mit dieser auf demselben Grunde. Fünftens: Das Princip des N. R. ist wetet der göttliche
+
+Wille , noch die Heiligkeit und Uebereinstime mung der Handlungen mit demselben, red die Erhaltung der menschlichen Velkommenheit , noch das Bedürfniß der Haltung der Verträge , oder des Friedens , oder der Ges felligkeit ; sondern es die möglich größte und dauerndste Glückseligkeit des menschli hen Lebens überhaupt. So wie demnach des Princip des Moralisch Guren ist : Thue
+
+Dir selbst , was du wünschest , daß Ancere +
+
+Dir thun mögen; und das Princip des An
+
+ſtändigen (Decori): Thue Andern , was Du wünschest , daß sie Dir thun; so ist das Princip des Recors: Thue Andern nicht, was Du wünschest, daß sie Dir nicht thun.
+
+thun.
+
+Aus dem Principe des Moralisch
+
+Guten folgerte Thomasius auch hier , daß Der Mensch sein bisheriges Leben bereuen, die Begierde nach Mitteln zu seiner Besserung in sich erwecken , die ausschweifenden Begierden durch die Furcht vor den mit ihrer Befriedi. gung verbundenen Schmerzen , der Schande , der Armuth , mäſſigen, die verführerischenGe. legenheiten eben so , als die zu große Sicher heit, oder die Verzweifelung meiden, und den Umgang mit solchen Menschen suchen müſſe,; die einen unsern bösen Sitten entgegengesetzten Charakter haben. Aus dem Principe des
+
+Anständigen fließt : daß man freywillig von seinem eigenen Rechte gegen den Andern nach. lassen; diesen angenehme Dienste gern und bereitwillig erzeigen, Unannehmlichkeiten nur ungerne und gezwungen zufügen; kein Xer. gerniß geben; die Thorheit Anderer geduldig ertragen müsse u. w. Aus dem Principe des Rechts endlich ergiebt sich überhaupt , daß man Andere in dem Gebrauche ihres eigenen Rechtes durchaus nicht stören dürfe; vielmehr ein einfaches , offenes und redliches Betragen gegen sie beobachten , alle Zankereyen , Neckereyen und Scrupuloſitäten vermeiden müsse. Die Regeln des Moralisch Guten und des Rechts leiden viel weniger Einschränkungen, als die des Anständigen von mehrern einzelnen damals sehr auffallenden naturrechtlichen ParaBuhleGesch. d, Phil, 6. Th. areSälsse, yy doren [p. 1062] boren des Thomasius , die auch vielen Widerspruch fanden , will ich hier nur folgende als Beyspiele hinzufügen ; Das Völkerrecht ist kein Theil des positiven Rechts , sondern des Naturrechts , Nicht jeder Selbstmord ist durch das N. R. verboten. Es gehört nach bloßem N. R. nicht wesentlich zur Ehe , daß das Weib sich mit dem Manne auf immer verbinde , und seiner Herrschaft unterworfen sey, oder daß die Ehe auf Lebenszeit geschlossen werde; sondern das göttliche positive Recht hat dies zu einer nothwendigen Bedingung der Ehe gemacht. Nach dem N. R. kann eine Ehescheidung blog wegen unverträglicher Sit ten der Ehegatten erfolgen. Es läßt sich aus dem N. X. nicht beweisen, daß unehlicher Beyschlaf, Hurerey , Incest, Polygamie, ver boten seyen. Die väterliche Gewalt stußt sich nicht auf Zeugung und Geburt der Kinder , noch auf einem stillschweigenden Vertrag; noch giebt sie ein Recht auf die Güter der Kinder. Das Begräbniß der Verstorbenen ist durch das N. R. nicht geboten. Gott ist nicht die unmittelbare Ursache der Majestät der Regen. ten.
+
+Man sieht zum mindesten aus diesen
+
+Säßen, daß Thomasius schon einen ungleich hellern Begriff von dem Unterschiede zwischen dem Naturrechte , und dem biblischen und posi civen, als seine Vorgänger hatte.
+
+[p. 1063] Ueber die anderweitigen kleinen Schriften des Thomasias das N. R. und die Politik des treffend , so wie aber seine Mystik und die dahin gehörigen Schriften , auch über die dadurch veranlaßten literarischen Streitig.
+
+keiten S. Brucker Hist. crit. philos. T. IV P. II. p. 471 sq. Das größte Verdienst um die Menschheit erwarb sich auch Thomasius durch seine Bestreitung des Aber. glaubens an Hexen und Hexeren , wodurch er vornehmlich zur Abschaffung der Hexens procese bestrug , wovon die historische Ers drterung aber nicht weiter hieher gehöri.

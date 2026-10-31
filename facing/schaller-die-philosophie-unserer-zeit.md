@@ -1,0 +1,5561 @@
+---
+title: Die Philosophie unserer Zeit
+author: Julius Schaller
+year: 1837
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: the 1837 edition; converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: the PDF text layer of a scan, not corrected against the scan; non-word rate 1.0% (wordfreq, the edition's own spellings kept); paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority
+translation: none
+canonical: "[p. N] marks where printed page N begins (the 1837 edition); read from the PDF folios where legible, the others by sequence"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: The Die Philosophie unserer Zeit was written by an author who died in 1885, so before 1931; Julius Schaller (d. 1885) is long out of protection and the edition (1837, from the title page of the scan) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 2435)
+---
+
+# J. Schaller, *Die Philosophie unserer Zeit* (1837)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+. U. 440do Ph
+
+Schaller
+
+<36603225130018
+
+<36603225130018
+
+Bayer. Staatsbibliothek
+
+^
+
+Philosophie unserer
+
+Zeit.
+
+Bur
+
+Apologie
+
+Erläuterung
+
+Segelschen
+
+Systems.
+
+Bon
+
+D. Julius Schaller, hele Privatdocenten an der Univerfitåt Halle.
+
+;
+
+MB
+
+Leipzig , 1837.
+
+Berlag der J. E. Hinrichs schen Buchhandlung.
+
+igoles
+
+BIBLIOTH Bayerische Staatsbibliothek München 79
+
+****
+
+[p. 1] Vorrede.
+
+enn man jezt nicht selten von Spaltungen spricht , welche ſich innerhalb der Hegelschen Schule selbst gebildet haben sollen, so möchte man gerade aus dieser Meinung die Hoffnung für eine gerechtere und allgemeinere Würdigung
+
+Philosophie zu schöpfen haben.
+
+der Hegelschen
+
+Denn will man nicht das
+
+Hervorheben einer Seite der Hegelschen Philosophie , oder die individuelle Darstellungsweise , das mehr oder weniger lebendige Anſchließen an die concrete Vorstellung schon für eine wesentliche Differenz angesehen wiſſen ,
+
+ſo wird es sicherlich sehr schwer halten , von jenen Spaltungen irgend wie eine nåhere Auskunft zu geben ; und wie man wohl zu jener Behauptung die Bemerkung hinzufügt , der Inhalt, welchen man für den ursprünglichen und der Hegelschen Philosophie wesentlich angehörigen ansieht , von den meisten Schülern Hegels nicht weniger als von den Gegnern beſfritten werde , so gehen jene Spaltungen in Wahrheit nur daraus hervor , daß man einerseits Jeden, welcher der Hegelschen Philosophie irgend wie einen Einfluß auf seine Bildung und literariſche Wirksamkeit zuſchreibt, ohne Weiteres als Anhänger und Nachfolger dieser Philoſophie zu bezeichnen geneigt ist , und anderseits , daß man das Mißvers ständniß , dessen man beschuldigt wird , zurückgiebt , und sein
+
+Verständniß als eine besondere und zwar als ursprüngliche
+
+Richtung der Hegelschen Philosophie außer sich hinstellt. Somit findet unter den Gegnern und Anhängern der Hegelschen Philosophie insoweit wenigstens Einverständniß ſtatt , daß in den meisten Punkten keiner der 卷 letteren den Inhalt , welchen die Gegner bekämpfen , vertheidigen , und der Hegelschen Philosophie eben fo vindiciren , sondern gegen diese Anmuthung vielmehr wie die Gegner ― ſein Hinausgegangenſeyn über die Hegelsche Philosophie behaupten wird. -Wie aber die einfache Angabe allgemeiner Tendenzen , und die Versicherung , Unſicht sey unumstößliche Wahrheit , dieſe oder jene noch keine Philosophie ausmacht , so ist man über das leichtfertige Anhåufen von An das auf weitere Beweise vertröstende Verſichern, klagen , und über n die Reſultate der Hegelschen Philosophie feyen unbefriedigend, die Sache verhalte sich anders , und müſſe anders angegriffen werden , erst dadurch hinaus , daß man dem vorliegenden , in sich abgerundeten Systeme Hegels systematisch entwickelte Arbeiten gegenüberstellt.
+
+Gegen die Entwickelung und Ausbreitung des
+
+Inhalts oder gegen den Beweis tritt die vorläufige Anführung` des Resultats , und das damit verbundene Geständniß der sub jectiven Empfindung und Befriedigung in den Hintergrund ; der Inhalt erhålt ſeine philoſophiſche Form, und das im Allge meinen Anerkannte und Albekannte seine nåhere Bestimmung und philoſophiſche Bedeutung .
+
+Dann erst steht der Philoſophie nicht mehr ein willkürliches Råſonnement gegenüber , das dreift H anklagt und sich dann scheu zurückzieht , und es wird nicht mehr vorzugsweise nur danach gefragt, ob irgend eine Meinung oder Vorstellung einem philosophischen Systeme angehöre oder nicht,
+
+sondern im Angriffe wie in der Vertheidigung steht man in der Sache und ihrer Entwickelung da erst wird die Verständigung möglich und das gegenseitige Aussprechen von wirklichem Intereſſe. Diese Betrachtung war es vorzugsweise , welche mich dazu bewog, die sich der Hegelschen Philosophie gegenüberstellenden Systeme der gegenwärtigen Zeit ihren Principien nach einer nåhern Kritik zu unterwerfen , ihre Einwürfe gegen erstere zu prüfen , und das Hegelsche System selbst durch weitere Ent wickelung und Erläuterung dem allgemeinen Verständnisse nåher --- Daß die Punkte , welche ich zur weitern Be zu bringen. trachtung ausgewählt habe , gerade diejenigen sind , an welche ſich das philosophische Intereſſe jezt vorzugsweise anſchließt, darin wird man wohl mit mir einverstanden seyn.
+
+Die Frage nach der persönlichen Unsterblichkeit , welche neuerdings wieder mit allgemeiner Theilnahme behandelt wurde , habe ich aus dem Grunde hier nicht näher berührt , weil sie vor Kurzem aus den Principien der Hegelschen Philosophie vollſtändiger entwickelt und beantwortet ist.
+
+Die Einsicht aber , daß die persönliche Unsterblichkeit kein der Hegelschen Philosophie fremder , sondern vielmehr mit ihrem wesentlichen Inhalte unzertrennlich zuſammenhängender Gedanke ist , sest nothwendig voraus , daß man dieselbe nicht ihren Principien nach verkennt , und für Formalismus und
+
+Pantheismus ansieht ; läßt man von dieser Meinung nicht ab, so ist es ganz natürlich , daß man in dem Festhalten der persönlichen Unsterblichkeit nur Inconſequenz gegen die Fundamental säße der Hegelschen Philosophie erblicken muß. Eben so natürlich ist es , daß der religiöse Glaube , wenn er seine Gewißheit des lebendigen Gottes mit der wüsten Vorstellung des Absoluten
+
+vergleicht , das an ſich ſelbſtlos erst im Philoſophen zum Bewußt ſeyn gelangt , erstaunen muß , wie es der Philoſophie bei solchem Inhalte ― bei dem Glauben an Schatten und Gespenster ― doch noch einfallen kann , von einer Einheit ihrer mit der christlichen Religion zu reden.
+
+Jedoch so fern die
+
+Hegelsche Philosophie von solchem Inhalte ist, so muß sie ihrer ſeits bei der Behauptung beharren , mit der ſie ſich sogleich an kündigte, daß sie den christlichen Glauben dem Inhalte wie der Form nach rechtfertige. Die Erscheinungen der Zeit werden noch in weit höherer Wichtigkeit und mit allgemeinerer Theilnahme die Frage nach dem Verhältnisse des Glaubens und Wiſſens – zur
+
+Sprache bringen , als wie bisher geschehen ist, und es wird darin zugleich allgemeiner ans Licht treten , daß die Hegelsche Philosophie so weit von einer vermeinten , das Christenthum auflösenden Gewalt entfernt ist , daß sie vielmehr den Zweifel gegen dasselbe zu widerlegen weiß , und die ſtarre Unmittelbarkeit des Glaubens zur frischen Lebendigkeit anfacht.
+
+a l´t.
+
+h
+
+Seite Einleitung. ( Tendenz im Allgemeinen ).
+
+Erster
+
+& (Bemerkungen über die äußere Entwickelung der Philosophie in besonderer Beziehung auf Segel. ) 1. Schelling.
+
+Krug
+
+2. Die Schule.
+
+3. Die Polemik.
+
+3 weiter (Kritik und Erläuterung ) Einleitung. ( Philosophische Richtungen der Gegenwart im All gemeinen. Hauptpunkte der Polemik gegen Hegel. ) • · I.
+
+Dogmatismus und Formalismus.
+
+Phänomenologie und
+
+Logik im Verhältnisse zur Philosophie der Natur und des Geistes. ·
+
+Phänomenologie.
+
+#### J. H. Fichte. Branis
+
+Weiße.
+
+Gegenstand
+
+Logik im Verhältnisse zur Philosophie der Natur und des Geistes.
+
+Bayeris Star's Uitt
+
+MERCHEN
+
+## Einleitung.
+
+Mit der vielsagenden Behauptung , die Wahrheit zu enthalten, mit welcher ein philosophisches System sich seinen Zeitgenossen ankündigt, ist meist die zeitliche Anerkennung desselben im auf fallenden Widerspruch.
+
+Denn wenn allerdings die Philoſophie den Beweis ihrer Wahrheit selbst führt, und die Uebereinstimmung Vieler sie noch nicht zur wahrhaften macht , ſo liegt es doch anderseits durchaus im Wesen der Wahrheit , daß sie als UN gemeingut Aller nicht nur von Einzelnen gewußt wird ; und man wird daher gewiß anstehen , einem philoſophiſchen Syſteme tiefe innere Wahrheit zuzugestehen , dem es nicht gelingt , ſeine eigne Form zu durchbrechen , die innere Fülle herauszuarbeiten und sich durch mannigfaltige Mittheilung an alle einzelne
+
+Sphären des Lebens und der Wiſſenſchaft zu bewähren.
+
+ein philoſophiſches Syſtem etwa gar zu früh gekommen für ein unempfängliches und in der Bildung zurückgebliebenes Zeitalter, ist gar nicht zu hoffen, und eine ſolche Mißgeburt nicht zu des fürchten. Dieser eitle Trost, mit dem ſich vielleicht ein Einzelner tröstet , und wodurch er sich in seine eigne Weisheit einhüllt, durch welchen Glanz dann die übrige Welt im tiefen Dunkel des Irrthums zu liegen scheint, ist der höchste philoſophiſche Egoismus , den die Mitwelt und Nachwelt gewiß gerecht richtet, wenn sie ihn ignorirt und vergißt.
+
+Wie Jeder Anspruch hat, an der erkannten Wahrheit Theil zu nehmen , ſo iſt auch das Finden und Bewußtwerden derselben nur möglich durch die
+
+[p. 2] Anstrengung und Arbeit Vieler. Wem es gelingt , die zerstreuten Momente zu einer Einheit in sich zu concentriren , das auszus sprechen , was Bielen auf der Zunge liegt , wird die Welt wohl vorbereitet finden , und nicht nöthig haben , zu jenem eiteln Trost seine Zuflucht nehmen zu müſſen .
+
+Durch das Gewirr der Stimmen , die alle gehört seyn wollen , dringen seine Worte doch durch , und es wird ihm die Ehre der Unerkennung , die ihm gebührt ; ſie ſtreift die Zufälligkeit und den Egoismus von seiner That ab, und läßt sie in ihrer Wahrheit als allgemeine That erscheinen. Wollten wir die Philosophie Hegels als eine solche allgemeine That bezeichnen , und die Behauptung aussprechen, daß , wie sie vielfach sich Anerkennung verschafft, und auf verschiedene Zweige der Wiſſenſchaft kräftig und wohlthuend eins gewirkt hat , so fernerhin noch in weit größerem Maße einen für jetzt unberechenbaren Einfluß ausüben wird — ſo würde es nicht an Stimmen fehlen , welche sich berechtigt glauben möchten, unserer Behauptung das gerade Gegentheil gegenüber stellen zu können.
+
+Man würde darauf aufmerksam machen , wie ja vor allen Seiten her , von den verschiedensten Standpunkten der philoſophiſchen Erkenntniß gegen die Wahrheit der Hegelschen Philosophie polemiſirt wird, . wie in allen Wissenschaften sich Männer finden , die gegen die Wichtigkeit, auch wohl Brauche barkeit derselben und gegen ihre Eindringlichkeit protestiren ; wie die Religion und Frömmigkeit ihr Verdammungsurtheil schon lange ausgesprochen hat und wiederholend noch ausspricht ; man würde unter den Gegnern Männer nennen von gewichtiger
+
+Autorität , und wohl gar an Erscheinungen der Zeit verweisen, in welchen ein extremer Leichtsinn allen substantiellen Inhalt der Religion und der Sitte in die Eitelkeit eines geistreichen Sprechens verflüchtigt , und dieses zügelloſe Umwühlen alles Heiligen als die Frucht der Hegelschen Philosophie betrachtet wissen , an [p. 3] welcher man ihre von gedankenlosen Nachbetern gepriesene Wahr heit am besten erkennen könne.
+
+Wollten wir alle die Anklagen, die von verschiedenen Seiten her gegen die Hegelsche Philoſophie ausgesprochen sind , zuſammen nehmen und gelten laſſen fürwahr sie könnte nur als ein Mirakel von Mißgeburt noch unser Intereſſe in Anspruch nehmen ; und zwar nicht bloß info fern sie eine ganz absonderliche und überspannte Narrheit wåre, sondern auch, inſofern ſie mancherlei Widersprechendes auf eine merkwürdige Weise , man weiß nicht recht wie, in sich vereinte. Denn die Gegner der Hegelschen Philosophie sind nur darin einverstanden, daß sie einen gemeinschaftlichen Feind bekämpfen : abgesehen hiervon sind sie im totalen Widerspruch mit einander begriffen , und zwar nicht nur in dem , was sie an die Stelle der Irrthümer und Verkehrtheiten sehen wollen , sondern auch in dem , was sie in der Philosophie Hegels finden.
+
+Nicht nur tadelt der Eine , was der Andere lobt , sondern was der Eine darin vermißt, findet der Undere darin, und was das ſchlimmste ist, das 嘎 ausgesprochene Lob kann man oft nicht einmal annehmen , sondern muß dagegen wie gegen den derbsten Vorwurf protestiren. Wir sind weit davon entfernt , etwa allen Gegnern der Hegelschen Philosophie Oberflächlichkeit und leichtfertige Unwiſſen schaftlichkeit vorzuwerfen; sondern das Streben Vieler verdient wegen seines Lebendigen Ernstes die vollste Anerkennung. Allein neben diesem wahkhaften Interesse für die Sache findet sich im philosophischen Treiben der Gegenwart auch Eitelkeit und Flach heit im vollen Maaße. Wahrhaft unbegreiflich ist der Leichtſinn, mit welchem Mancher abzuurtheilen wagt über Sachen , von "8 denen er augenscheinlich nicht das Geringste versteht ; wahrhaft unbegreiflich die Oberflächlichkeit, mit welcher die höchsten Probleme der Wiſſenſchaft bisweilen gehandhabt werden , die tiefsten gehalt vollsten Werke bekrittelt und wie eine Stadtneuigkeit beschwaßt, 1* und mit welcher Dreiftigkeit man bereit ist , das mit reiner Absicht Begonnene und mit aufopferndem Ernst Vollbrachte durch Unter schiebung egoistischer Motive zu verdächtigen und zu beſudeln. Daß es zu keiner Zeit anders gewesen , ist ein schlechter Trost, der fast wie das Privilegium aussieht , daß es mit vollem Recht ſo ſeyn könne ; aber es knüpft sich hieran zugleich ein besserer Trost, nämlich die Gewißheit , daß die Wahrheit , wie immer, ſich im Kampfe bewähren und durch alle Unwahrheit hindurchs arbeiten muß und wird. Indem wir hierzu das Unsrige beizutragen gedenken , ſind wir jedoch nicht gesonnen, alle Anklagen, die gegen die Hegelsche Philosophie ausgesprochen sind , etwa der Reihe nach durch zunehmen.
+
+Wie widrig einerseits dieß Geschäft wäre, so hat auch die Erfahrung ſchon genugsam gelehrt , wie wenig hiermit im Ganzen gewonnen wird , und das Mißlingen dieses Versuchs liegt vorzugsweise darin , daß wie jene Anklagen zum großen Theil aus totaler Unkenntniß der Philoſophie herrühren , ſie ſich jeder { wissenschaftlichen Betrachtung geradezu entziehen. Denjenigen , von welchen solche absurde Unklagen ausgehen , ist meist wenig um weitere philosophische Erkenntniß zu thun , und Denjenigen , welche nicht die Philoſophie , ſondern die Anklagen gegen dieselbe studiren , und bei denen diese als Vorurtheile festen Fuß fassen , ist wiſſenſchaftlich sehr schwer anzukommen. Jedoch haben sich die Einwürfe gegen die Hegelsche Philoſophie mit der Zeit in wenige Hauptpunkte concentkirt 1 eine nåhere. Betrachtung dieser scheint uns Bedürfniß. Ferner aber liegen uns jezt mehrere systematische Ausführungen von denen vor, welche als Gegner der Hegelschen Philosophie zugleich über dies selbe zu einer höheren Erkenntniß hinausgegangen zu seyn meinen. Wie es besonders die Einwürfe dieſer Gegner sind , welche eine wiſſenſchaftliche Beantwortung fordern und zulaſſen , ſo wird auch eine Vergleichung der von ihnen aufgestellten Principien [p. 5] mit den Hegelschen die wissenschaftliche Erkenntniß zu befördern vorzugsweise geeignet ſeyn. Ehe wir aber hierzu schreiten , halten wir es für zweckmäßig, Mancherlei zur Sprache zu bringen , was dazu geeignet seyn möchte, allerlei Vorurtheile fortzuſchaffen , welche einem allge meinen Verſtändniß der Hegelschen Philosophie , und der freu digen Befihnahme und weiteren Entwickelung eines errungenen Resultats hindernd entgegenstehen.
+
+mühsam
+
+Wenn gleich diese Vorurtheile sich zum Theil nicht direct auf die Hegelsche Philosophie beziehen , auch nicht bloß der Gegenwart angehören, sondern sich zu jeder Zeit , wenn auch unter einer andern Gestalt, wiederfinden , so kann und darf es doch die Philoſophie nicht unter laſſen, ſie immer wieder als solche zu bezeichnen und zu bekämpfen, indem sie die freie Entwickelung der Wissenschaft nothwendig verzögern müſſen.
+
+Es beziehen sich also diese vorläufigen Erörterungen mehr auf das Allgemeine der philoſophiſchen Ent wickelung , auf einzelne Erscheinungen der Gegenwart , die ihrer Bedeutsamkeit nach ins rechte Licht zu sehen sind A auf die mancherlei Schicksale , welche eine Philosophie in ihrem Lebens laufe treffen können , und welchen denn auch die Hegelsche Philosophie nicht entgangen ist,
+
+Erster
+
+Schelling, Cate
+
+Krug,
+
+Der Wechsel der philosophischen Systeme durch die Geschichte der Philosophie hindurch , und der Zwiespalt der Philoſophen in der Gegenwart ist für Manchen , der außerhalb der Philoſophie steht, ein Stein des Anstoßes, für Manchen aber eine wahrhafte Delicatesse, welche er jedem Philoſophen ſogleich vorzuſeßen bereit ist,
+
+Zeigt nicht der ewige Wechsel , der fortdauernde Zwieſpalt mit der größten Klarheit , daß es mit der Philosophie nichts ist ? Und wie sticht dieser Wirrwarr des Zweifels und des Streites von der Ruhe und Gewißheit ab , welche der genießt , welcher sich vor der Einseitigkeit der Schulweisheit bewahrt und sich die Gesundheit seiner Vernunft und ſeines Urtheils zu erhalten weiß ! So sprechen besonders diejenigen , welche -vor den Baumen den Wald nicht sehen , und von der Philosophie nicht viel mehr wiſſen , als daß sie existirt ;
+
+dann aber auch die , welche die
+
+Philosophie immer nur als die Sache und Meinung eines Einzelnen betrachten und nicht im Stande ſind , dieſelbe als wesentliches Moment in der Totalität des Geiſtes anzuſchauen .
+
+meinen , daß der Begriff der Geſchichte , wie ihn zu faſſen dem philosophischen Denken gelungen , vorzugsweise als ein glücklicher Fund zu betrachten ist , der nicht nur der wiſſenſchaftlichen Be handlung der Geſchichte eine neue Gestalt geben muß , wie er dieß zum Theil schon gethan hat , sondern auch eine sinnige Auffassung der Vergangenheit und Gegenwart weiter als es wohl früher der Fall war , über die Grenzen der Wiſſenſchaft hinaus verbreiten wird.
+
+Damit aber ist auch der Anstoß überwunden, den das außerphiloſophiſche Bewußtseyn an dem Wechsel der
+
+Systeme oder an der Geſchichte der Philoſophie überhaupt nimmt, indem dieser Wechſel dann nicht mehr der Beweis der Nichtig keit des Denkens ist , sondern vielmehr ein sicherer vernünftiger Fortschritt des lebendigen sich entwickelnden Geistes , der auf jedem Standpunkte seinen Inhalt durch alle Sphären und Formen Was die Verächter der bin ausbreitet und auseinanderlegt. Philosophie aber stolz macht und wodurch sie sich über die vielen Philoſophien , welche nur Einseitigkeiten seyn sollen , erhaben meinen , ist meist Bewußtlosigkeit über sich selbst , in der sie wähnen , daß der Geiſt nicht mehr in ſich enthalte , als die abstracten Allgemeinheiten und Trivialitäten , welche sie als uns umstößliche Wahrheit der Bestimmtheit und Beſonderung der philosophischen Erkenntniß gegenüber stellen ; es ist die Täuschung, als könne der Geist sich befriedigen oder als wåre er überhaupt noch Geist , wenn die Fülle seiner Innerlichkeit nicht concreter und inhaltsvoller wåre , als die ausgesprochenen und im Bewußts feyn bereitliegenden allgemeinen Wahrheiten , welche nur wegen ihrer Inhaltslosigkeit eine allgemeine und ewige Philosophie zu seyn scheinen , und in dieſer Allgemeinheit auch wohl als die Glaubensartikel einer Weltreligion genommen werden , welche über die bestimmten und endlichen Religionen erhaben seyn soll, in Wahrheit aber nur ein todter Leichnam ist , nur die abſtracte Vorstellung , gegen welche auch die niedrigste Volksreligion mehr Wahrheit und Wirklichkeit enthält.
+
+Wie in dieser Täuſchung die Bestimmtheit und Beſonderung des Inhalts in der Unmittel barkeit des Geistes verborgen bleibt, so ist gerade das Wesen der Philosophie, weder bei der Unmittelbarkeit, noch bei der abstracten Allgemeinheit der Vorstellung stehen zu bleiben , sondern den unendlichen Inhalt des Geistes aus der Innerlichkeit und substantiellen Verborgenheit seinem ganzen Reichthume nach in das Selbstbewußtseyn heraufzubringen. Wer die Geschichte der Philosophie als die Entwickelung des denkenden Geistes , zeitliche Sichbewußtwerden desselben über seinen Inhalt faßt , wird sich auch nicht über die beſonders in der neuern Zeit hervorstechende Erscheinung wundern, daß es gerade die eifrigsten Schüler und Anhänger der Lehrer und Meister sind , welche die Erkenntniß zu einem höhern Stand punkte fortführen , und ſomit als Gegner ihres Lehrers auftreten, Zu einem weiteren Fortschritt gehört vor Allem die vollſtändige Besißnahme des schon errungenen Resultats , denn dieß ist der Kern , aus welchem die weitere Entwickelung hervorwächſt , und die wahrhafte Widerlegung ist selbst weiter nichts , als die wirkliche Entfaltung. Auffallender könnte ein anderes Factum ſcheinen,
+
+" welches die schnelle Entwickelung der neueren Philosophie der Erfahrung darbietet , daß nämlich der Meister das System seines Schülers nicht als einen Fortschritt anerkennt, ſondern sich vielmehr dagegen erklärt.
+
+Das Lob , daß er früher über seinen
+
+Schüler aussprach , wird zurückgenommen , und der Ladel sieht nicht gerade aus wie ein Segen , mit welchem ein Vater seinen Sohn in die Welt entläßt.
+
+Es ist bekannt , daß Kant gegen
+
+Fichte das Sprichwort anwandte : Gott schüße uns vor unseren Freunden , vor unseren Feinden können wir uns selbst wohl, in Ucht nehmen , und daß er ſogar von „ tölpelhaften Leuten “ ein Wort fallen ließ.
+
+Wenn es überhaupt um das in Achtnehmen zu thun ist, so möchten jene Worte in dieser Sphäre allerdings ihre volle Geltung behaupten.
+
+Wenn Gott hier seinen Schuß versagt , ist die Feindschaft göttliche Schickung , keine äußere und subjective Kritik und Polemik , sondern das Weltgericht der
+
+Geschichte selbst , gegen welches das einzelne Individuum sich vergebens auflehnt. So hat denn auch Schelling das Syſtem ſeines Schülers durchaus verworfen, und wie von der alten , kordalen “ Freund, schaft nicht gar viel in der Erinnerung zurückgeblieben zu seyn scheint , so war auch die früher belobte wissenschaftliche Tüchtigkeit des Schülers nur ein Irrthurs . So lange der Schüler nur einen ,, Commentar " zu den Borten des Meisters gab , hatte es das Unsehen , als håtte er ihn in Wahrheit begriffen , aber zu einer selbstständigen Arbeit zeigt er sich nun durchaus unreif und unfähig .
+
+Er hat nicht
+
+, als Begeisterter forts gedichtet an dem ewigen Gedicht ", sondern hat den lebendigen Inhalt des Systemes seines Meisters zur todten Form ver knöchert ; dieſe Unwandlung ist nur von ,, dürftigen " Köpfen mit Recht bewundert , und der Kopf, aus dem sie entſprang , ist wohl der dürftigste von allen.
+
+Der Schüler ist nur ein
+
+,, Spåtergekommener “ , dieß einfache Abstractum , und ſein Sy= stem steht mit dem des Meisters nur in dem äußeren Verhält, niſſe der Zeit , und die Zeitlichkeit und Endlichkeit ist ihm auch aufgedrückt - die ,,Episode" wird bald vergessen werden , und man kann sie nur dazu gebrauchen , aus ihrer Schaalheit und Dürftigkeit Nuhanwendungen zu ziehen.
+
+Allerdings möchte man meinen , daß der Meister ohne
+
+Zweifel über die Leiſtungen des Schülers vor allen den compe tentesten Richter abgeben müßte. Indem er nämlich , wie kein Anderer , den Kern kennt , aus welchem die peue/ Lehre hervor ging , müßte man ihm zunächst die Fähigkeit zugestehen , das neue System seiner wahren Bedeutung nach aufzufaſſen und zu begreifen , und enthält es wirklich das , was es verspricht, nämlich ein höheres Bewußtseyn der Wahrheit, so sollte man meinen , wäre der Meister , der ja auch sein Leben der Erkennt niß der Wahrheit geweiht hat , vor Allen der erste , der sich zur neuen Lehre bekennen würde.
+
+Spricht er dagegen seine
+
+Mißbilligung aus ; so scheint der Stab über die neue Weisheit gebrochen.
+
+Allein wollten wir hier dem Richterspruche des
+
+Meisters eine unbedingte Autorität zugestehen , sicherlich wäre die Entwickelung der Philosophie mit einem Male gehemmt. Allerdings wird das Urtheil des Meisters über seinen Schüler [p. 10] immer von hohem Interesse seyn und bleiben , wird in der Geschichte mit seinem Systeme zugleich aufbewahrt werden , und auch in seiner Kürze durch Schärfe und Bestimmtheit vor aller weitschweifigen Polemik hervorstechen.
+
+Und wenn sonst über das avròs Pa gewaltig gespottet wird , so wird man doch in diesem Falle auf die Autorität einen sehr hohen Werth legen.
+
+Gegner der neuen Lehre allerlei Art , die auch nur dieß mit dem Meister gemein haben , daß sie Gegner des Einen sind , werden sich, wenn auch nur äußerlich , dieſem Urtheile anschließen , und nicht ermangeln , es zu wiederholen , und darauf aufmerksam zu machen, dasselbe wegen seiner schlagenden und treffenden Gewichtigkeit anzupreisen , und ihre vollkommene Einmüthigkeit auszusprechen, Jedoch für die Sache selbst liegt in dem mißbilligenden Urtheile des Meisters über ſeinen Schüler zunächſt weiter nichts, als daß die Systeme Beider wirklich verschieden von einander
+
+ſind ; der Proceß der Scheidung liegt Jedem vor Augen , und gerade da , wo die für das neue Syſtem ſcheinbar höchste Auto ritåt das Verwerfungŝurtheil ausspricht , ist am dringendſten auf die Sache zu verweiſen und die vorurtheilsfreie Vertiefung in den Inhalt zu fordern. · Allein es ist vorauszusehen , daß dieser Forderung nicht durchweg wird Genüge gethan werden , ſondern daß ſich vielmehr mancherlei unwiſſenſchaftliches Geſchwåß wird vernehmen laſſen, zumal wenn die Worte des Meisters zugleich den Schein einer beleidigten Eitelkeit an sich tragen.
+
+Indem jeder für die Geschichte bedeutungsvolle Philoſoph immer zwei Seiten haben wird, indem er nåmlich einmal an das errungene Reſultat ſich anſchließt und somit nicht originell ist , dann aber dieß weiter führt , wo durch er originell wird , so könnte man die ganze Entwickelung der Philosophie aus der Sucht originell zu seyn, her zuleiten versuchen , wie hiervon eine Probe , besonders in Bezug auf Schelling , gegeben wird in der Schrift : Entdeckungen [p. 11] über die Entdeckungen unserer neuesten Philosophen ✓ von magis amica veritas. Bremen , 1835. Das Kunst stück , wodurch dies die Wissenschaft zerstörende Princip der Originellsucht als das Alles bewegende nachgewieſen wird , besteht einfach darin , daß die verſchiedenen aufeinander folgenden Systeme sich so nahe wie möglich gerückt werden , der bestimmte Unterschied derselben so viel wie möglich verwiſcht und verflacht, ſo daß es nun wirklich das Aussehen hat , als würde zu dieſem kleinen, unbedeutenden Schritt weiter nichts erfordert , als die Sucht etwas Neues hinzuzuthun oder originell zu seyn .
+
+Und sollte sich demungeachtet ein größerer Unterschied aufdringen , so ist dieser wohl als etwas wirklich Neues anzuerkennen , aber sogleich wieder als etwas so Bedeutungsloses und Korruptes darzustellen , und somit für keine wirkliche Sache gelten zu laſſen, ſondern für einen blos zufälligen subjectiven Einfall , daß doch wieder die Sucht, originell zu seyn vollkommen hinreicht, dieſen Einfall zu haben.
+
+So gehört die Naturphilosophie dem Schelling ganz allein an , allein " der Brunnen ist tief dunkel , und kein Mensch als Schelling ſieht etwas darin . “
+
+Alſo kurz`nur dadurch, daß die Sache mit Gewalt verkümmert und verflüch tigt wird , gelingt es , die ganze Philosophie in Eitelkeit und Stolz zu versenken.
+
+Es ist nun leicht zu sehen , daß die bloße
+
+Sucht originell zu seyn , noch durchaus nicht zur Sache führt , die an sich philoſophiſchen Werth hat ; thut sie dieß , so war außer jenem blos Subjectiven noch etwas Anderes im Subject, nåmlich außer der Sucht noch das Sehen , außer dem Wollen noch das Können , außer der Unwiſſenſchaft noch die Wiſſen was nicht mit in die schaft , so} daß das nur Persönliche ,
+
+Sache einging, in der Wiſſenſchaft nicht braucht besprochen zu werden.
+
+Die Wissenschaft kann nicht reiner und gerechter die bloß ſubjective Sucht bestrafen , als wenn ſie diese ganz außer sich liegen läßt.
+
+[p. 12] Eben so wenig, wie man die Entwickelung der Philosophie überhaupt aus blos subjectiven Principien herleiten kann , eben so wenig darf man in dem wegwerfenden Urtheile des Meisters weite: nichts , als Eitelkeit und Stolz sehen.
+
+Fichte nahm das strenge Urtheil des Greises nicht übel und sich selbst nicht zu Herzen, indem er meinte , daß er dieß vorausgesehen , da Kant mit seinem System so verwachsen , daß er unmöglich herauszutreten und, sich herauszudenken vermöge.
+
+Hier wird also dem Meister jene Fähigkeit , über das System ſeines Schủ lers zu urtheilen , die ihm die gewöhnliche Meinung zugesteht, geradezu abgesprochen.
+
+Man wird überhaupt keinem Menschen die Fähigkeit absprechen können , ein philosophisches
+
+System feiner ganzen Bedeutung nach in ſich aufzunehmen , aber wenn gleich von einer Unmöglichkeit hier nicht die Rede seyn kann , so ist doch sehr wohl zwischen Leichtigkeit und Schwierigkeit ein Unterſchied zu machen.
+
+Wenn die Festigkeit und Bornirt heit der individuellen Vorstellungsweiſe es am ſchwersten macht, ſich in Anderer Ansichten hineinzudenken , so hat der Meister an seinem eigenen System ein Vorurtheil , das die freie Aufnahme des neuen Syſtems erschwert.
+
+Wenn irgend Einer , so ist er mit der Anschauungsweise seines Systems auf das Innigste verwachsen 1 , es ist sein Fleisch und Blut , und er ist darum gerade am wenigsten fähig , den Punkt in seinem Systeme herauszufinden , an welchen sich der wahrhafte Forts schritt der philosophischen Erkenntniß anknüpfen muß. Dem Beifallsjauchzen und Anſchließen an eine so gewichtige Autoritåt , dem Anerkennen , daß das beiläufige Urtheil eine schlagende Kraft und Gewalt habe , håtten wir also vorläufig die andere Auffassungsweise gegenüber zu stellen , daß sich im Urtheile des Meisters darstelle , wie ein höherer Stands punct in einem niedern sich abspiegelt. Kommt aber zu jenem wegwerfenden Urtheile des Denkers, [p. 13] der schon einmal mit unvergeßlicher Gewalt in die Entwickelung der Philosophie eingriff, die Versicherung , daß er neben dem Systeme seines Schülers vorbei - über seine frühere phis losophische Ansicht zum Theil hinausgegangen sey , und giebt er schon , wenn auch in wenigen Andeutungen , dem begierigen philosophischen Publicum einen Vorſchmack von den versproche» nen Herrlichkeiten , so möchte das Gerathenste seyn , die Zeit abzuwarten , und weder voreilig einzustimmen noch abzusprechen. Das prophetische Reden aber , daß man die Wahrheit schon in sich verſchloſſen mit sich herumtrage , ist eine leichte Arbeit , und neben solcher Versicherung nimmt sich das vornehme Abz urtheilen schon besser aus. " Jedoch ist allerdings sehr zu wüns schen, daß es bei dem bloßen Versprechen nicht lange sein Des wenden haben möge , besonders wenn sich sogleich wieder Schüler einfinden , und außerdem noch Andere , die ihre Versicherung mit dem Urtheile des Meisters übereinzustimmen , sogleich mit der Beschuldigung begleiten , daß er von seinen eignen Schülern –– wahrscheinlich und hoffentlich an diese Hoffnung allein knüpft sich die Uebereinstimmung mißverstanden sey!
+
+Noch selts famer freilich 3 nimmt es sich aus , wenn Andere , noch ehe der Meister gesprochen , nach Andeutungen seiner Schüler ihm seine Philosophie nach ihrer Weise zurechtmachen , und nun die Arme ausbreiten , und ihn auf ihrem Gebiete J willkommen Jasda heißen. "d Wie nun das neue System von dem ihm zunächſt ſtehen den des Meisters abscheidet und al seinen Abschied bekommt, so trennt es sich damit auch von den anderen dem Geiste noch ferner liegenden. sehen.
+
+Dieſe Trennung aber hat ein anderes An
+
+Wir charakterisiren sie durch die Erzählung eines Fac tums , in welchem sie sich auf die einfachste und offenbarste Weise darstellt.
+
+Zunächst wäre zu bemerken , daß ein philosophisches System , das seiner endlichen Natur nach dazu bestimmt ist, [p. 14] in ein anderes überzugehen , besonders dadurch erhalten wird , daß der tiefste speculative Kern, woran sich eben das folgende System anschließt , verwischt wird ;
+
+dadurch erlangt es eine unendliche Endlichkeit , und die Möglichkeit , jeder Entwickelung und jedem Fortschritte der Zeit zu trohen und stationár zu werden. Ueber ein solches System wåre demnach mehrfach hinaus gegangen , aber dadurch wird es selbst weiter nicht berührt.
+
+Der Unterschied also der neuern Systeme ist für dieſes durchaus gleichgültig ; und anstatt — was am nächsten liegt - aus dem Kampfe und Kriege," der sich hieran schließt, auf den Unterschied aufmerksam gemacht und hingewiesen zu werden , sieht es vielmehr gar keinen Unterschied , und betrachtet daher den Krieg der neuesten Systeme gegen einander nothwendig als einen Vernichtungskrieg der Philosophie mit sich selbst. 1 Ganz natürlich pråſentirt ſich alſo der Titelt Schelling und Hegel, oder die neueſte Philoſophie im Vernichtung ថឺ៖ kriege mit sich selbst begriffen von Professor Krug Nun wird allerdings darauf aufmerksam gemacht, daß man es lange Zeit dahin gestellt ſeyn ließ , ob und wieweit beide Månner mit einander übereinstimmten , oder im Zwiespalte be griffen wären , daß aber seit Kurzem dieser Zwiespalt nicht nur offenbar , søndern auch in wesentlichen Punkten , und in herber Manier hervorgetreten ," allein anstatt hieraus ſich abzunehmen, daß die Gewohnheit , ſchlechtweg von der neuesten Philoſophie zu sprechen eine •* veraltete und üble Gewohnheit sey , so wird vielmehr dabei beharrt , und durch diese alte und schlechte Gewohnheit der neue Ausdruck des Vernichtungskrieges mit sich selbst gerechtfertigt.
+
+Bei diesem Vernichtungskriege hegt denn zugleich der Zuschauer die über das Elend der Gegenwart trò stende Hoffnung , daß die neueſte Philoſophie durch den Scha den der Selbstzerfleischung klug geworden , und zerschlagen an allen Gliedern zu dem alten , nach so langer Zeit immer [p. 15] noch nicht erhörten Synthetismus als zur ewigen Ruhe und Sicherheit sich hinwenden werde * Der Punkt aber und der Grund , warum jene zwei Måns ner in den Kampf gerathen , stellt sich nun so dar : „ Wenn
+
+Schelling die Voraussetzung Hegels eine Fiction nennt , fo kann dieser auch dieselbe Benennung zurückgeben. Denn er kann sum Undern sagen : ist mein Um- und Zurückschlagen fingirt, so ist dein Ob- und Subjectiviren auch fingirt.
+
+Will aber der
+
+Eine behaupten , daß er nichts vorauskete, so kann dasselbe wieder der Andere behaupten ; bewiesen hat eigentlich Keiner von Beiden seine Voraussetzung ; es ist nur eine beliebige Annahme jum Behufe des Fortschreitens , weil Beide nicht von der Stelle kommen würden , wenn nicht der Eine ſein Subject, der Andere seinen Begriff ſich immerfort metamorphofiren ließe, mag man nun diese Metamorphose, ein Objectiviren und Subjectivirent, ober ein Umschlagen und Zurückschlagen nennen - denn auf den Namen kommt es hier wieder nicht an, sondern auf die Sache. Diese Sache ist aber bei allem aufgewandten Scharffinne weiter nichts als ein dialectisches Ballspiel .".
+
+Wir ſehen alſo, unser Zuschauer ſieht hier weiter nichts als den bloßen Krieg, der Inhalt wird unter seinen Hånden zu nichts , als zu einer leeren Form. Ganz natürlich , daß er sich nun darüber wundert, ,,daß sich beide Theile überhaupt streiten ", wir aber müssen uns wundern , daß er nicht eben durch den Streit auf andere Gedanken kommt, beſonders da doch Schelling ein n ausgezeichneter Denker “ ſeyn soll. → Darin besteht nun eben der Haupts inhalt dieser Schrift , daß die Sache felbft gar nicht berührt, sondern nur daran herumgetappt und leider noch mit dem
+
+Bericht einigen Stadtgeschwähes versetzt -in eine leere Allgemeinheit verflüchtigt wird.mp
+
+Jar ma
+
+Aehnlich geht es in einer zweiten Schrift des Verfassers zu : über das Verhältniß der Philosophie zum gefunden
+
+[p. 16] Menschenverstande.
+
+Hier wird unter Anderem die früher erwähnte Schrift : über die Entdeckungen der Entdeckungen uns serer neuesten Philoſophen , als eine sehr interessante Schrift anempfohlen , die man ja nicht wolle ungelesen seyn lassen. Aus dieser Schrift lerne man nämlich besonders dreierlei.
+
+Erstens, daß Hegel im Lateinischen so wenig als im Deutſchen ein Meister des Styls war ; denn der Verfaſſer führt aus der Habilitationsschrift eine ziemlich lange Stelle an , die nicht sonderlich stylisirt ist."
+
+Zweitens :
+
+daß Hegel ſchon als angehender Philosoph einen großen Hang zum Imponiren durch Paradorien hatte." Drittens : „ daß Hegel sich ebenso über Schelling seßte, wie dieser über Fichte, und wie dieser über Kant. Was Wunder also , daß Jener auf einer so schwindelnden Höhe selbst vom Schwindel befallen wurde , und daher mit dem Nichts anfing und endete." Allerdings wåre zu vermuthen´ geweſen, daß Hegel sich unter Schelling und unter Fichte und Kant, und wo möglich Spe aus tiefster Bescheidenheit unter Krug
+
+Wichtigkeit ist unstreitig die zweite Entdeckung.
+
+•. ?
+
+selbst gesezt habe , damit die Geschichte der Philosophie einen glücklichen Fortgang erleide. - Jedoch von ganz besonderer Denn es ist mit der größten Gewißheit vorauszusehen , daß jene Paradoriens sucht des angehenden Philosophen- als Vernunftſchwinoſucht →→→ bis zu seinem Ausgange hin ununterbrochen wird zugenommen haben.
+
+Damit wiſſen wir erst , wie es möglich war , solche
+
+Absonderlichkeiten zur Welt zu bringen , wie die Hegelsche Phi Tosophie ist!
+
+In dieser Sucht hat sich denn Hegel auch nicht um das alte gute Sprichwort bekümmert : qui bene distinguit, bene docet , sondern hat, um stets etwas Apartes zu haben , in seine Logik die Metaphysik aufgenommen : ,, Hegel vermiſcht einmal gern , was Andere aus guten Gründen unterschieden haben ; er unterscheidet nicht, wo er unterscheiden sollte, und unterscheidet, wo er nicht unterscheiden sollte." So hat er denn [p. 17] sogar zwischen Moralität und Sittlichkeit einen Unterschied gemacht, und zwar auch auf eine so absonderliche Weise , daß , kein Mensch den philoſophiſchen Galimathias versteht.“ Von Bach. mann erfahren wir sogar, wie Hegel durch diese Paradorien sucht veranlaßt ist, seine Phänomenologie , auf die er sich forts während beruft, doch factisch zurückzunehmen.
+
+" Er hatte es
+
+ſich nämlich in den Kopf gesetzt , die ganze Welt unbarmherzig auf die Folter der Dreiheit zu spannen ; " mit seiner Phåno H menologie aber håtte sein System vier Theile, als er daher wahrſcheinlich aus Versehen bei dem vierten Theile angelangt war, stieß er den ersten ab, und hatte durch diese leichte Operation glücklich drei Theile , wonach sich sein Herz schon beim ersten gesehnt hatte !
+
+Jedoch ist dieß noch nicht die höchste Spiße der Humanitât, welche sich über die Hegelsche Philoſophie ausgießt.
+
+,, Bevor man von dem Verhältniß gewiſſer Dinge, seyen es geistige oder körperliche, ſprechen kann, muß man freilich schon einige Kenntniß von dieſen Dingen selbst oder an und für sich, alſo außer jenem Verhältnisse gedacht , besitzen."
+
+So soll denn z . B. gesprochen werden vom Verhältniß der Philoſophie zum- gesunden Menschen verstande. Hier tritt der merkwürdige Fall ein , daß wenn Hegel eine Abhandlung schrieb unter dem Titel : wie der gesunde Menschenverstand die Philosophie nehme , dargestellt an den
+
+Werken des Herrn Krug , nun sich Krug ſelbſt über das Verhältniß der Philosophie zum geſunden Menschenverstande ausläßt. Wenn Hegel Recht hat , so wäre dieß sonach eigentlich das Verhältniß des geſunden Menschenverstandes zu ſich ſelbſt ; wenigstens ist vorauszusehen, daß Philoſophie und gesunder Menschen verstand im besten Vernehmen mit einander stehen , und sich beide ohne Weiteres auf einander berufen können.
+
+Wenn also gesagt wird : ,, die Philosophie ist nur dadurch Philosophie, daß sie dem Verstande und noch mehr dem gesunden Menschenverstande, [p. 18] worunter man die lokale und temporåre Beschränktheit eines Geschlechts der Menschen versteht , gerade entgegengesetzt iſt ,” so wird zunächst die Definition vom geſunden Menschenverstande damit abgefertigt : „ das wird aber gewiß kein Mensch von ge= ſundem Verstande darunter verstehen ."
+
+Indem ferner hier Ver= stand und gesunder Menschenverstand neben einander gestellt sind, so ist es weiter nicht nöthig , sich darum zu bekümmern , wie Hegel die Bedeutung des Verstandes faßt + denn dadurch
+
+---würde man auf die Sache selbst eingehen sondern offenbar bezieht sich die Definition nicht auf den gesunden , sondern viels mehr ungesunden Menschenverstand ; bei solcher Vermischung muß man glauben , „ daß ein böser Dámon den Verstand des Philosophen verwirrt habe " ; diese Verwirrung aber ist zunächst nur momentan , nur " im Augenblicke des Niederschreibens ", die Forderung aber , daß die Philoſophie sich dem Verstande gerade entgegenseßen solle , beurkundet bei dem , der eine Logik ſchreibt, die die Stelle der Metaphysik einnehmen soll , noch mehr : nåm lich man muß vermuthen , daß sich dieser Philosoph ,, im reinen Denken zu sehr vertieft und verwickelt , und daß eben dadurch -Dagegen ist nun
+
+ſein Verſtand ein wenig gelitten habe.“ weiter nichts zu sagen , sondern nur dem Herrn Krug eine tiefe Reverenz zu machen , und sollte der Vorwurf der Verrücktheit etwa gegen die sonst so belobte Humanitåt zu verstoßen scheinen, so ist nur zu bedenken , daß vom Inhalte der Philosophie nicht die Rede ist ; die Hegelsche Philosophie hat schon lange nicht angestanden , Herrn Krug das Privilegium zu ertheilen , fie nennen zu können , wie es ihm beliebt , und wird die Beſchul digung der Verrücktheit von ihm gesprochen -- mit der größten Devotion anzunehmen bereit seyn.
+
+2.
+
+Die Schule.
+
+Es wird aus den angeführten Gründen schwer halten , daß
+
+[p. 19] ſich ein philoſophiſches System bei den ſchon fertigen Philoſophen Eingang verschaffe ; sollten diese auch im Allgemeinen einen Fortschritt der philosophischen Erkenntniß sehr wohl zugeben , so ſind sie doch nicht leicht im Stande , einen wirklichen bestimmten Fortschritt als solchen zu erkennen und ihm Gerechtigkeit widerfahren zu lassen.
+
+Der Geist geht seinen sicheren Schritt vorwärts , unbekümmert , ob Einzelne ihm folgen können oder nicht.
+
+Es ist daher vorzugsweise die jüngere Generation , an welche das der Zeit und dem Geiste nach jüngere System ge wiesen ist ; wenn diese an keinem Systeme ein Vorurtheil hat, so gilt sie freilich bei den fertigen Philosophen auch sogleich als Chitalia ohne Urtheil, es ſind obskure namenlose Leute ! Aus T diesen Vorurtheilsfreien und Urtheilslosen bildet sich denn eine Schule. Was heißt das ? Zu einer Schule gehört einmal, daß die Schüler nicht Anhänger des Systems sind , sondern Anhänger des Lehrers , daß sie also seine Worte auf Treu´und Glauben annehmen und darauf schwören , daß sie lernen nicht etwa das System verstehen , sondern in den Formeln deſſelben sich bewegen und dieſe bestmöglichſt ſtreng und ohne Abweichung nachschwaßen.
+
+Ferner gehört dazu , daß der Lehrer nicht bloß diese Stockblindheit duldet und ertrågt , sondern er muß selbst stockblind ſeyn , und in ſüßer Eitelkeit von seiner Infallibilitåt überzeugt , keinen Zweifel und Widerspruch dulden , sondern auf dieſe Ketzereien ein für alle Mat einen Dann legen.
+
+Drittens ist aber nöthig , daß der Meister öffentlich sein Lob gegen die Schüler ausspricht , und die Schüler wieder den Meister mit begeisterter Salbung loben , und unter sich selbst, sich an den Schlagwörtern erkennen , ſich jubelnd empfangen und die Hånde reichen und zur Theilnahme an der
+
+Glück wünschen.
+
+geoffenbarten Weisheit
+
+Endlich aber haben Meister und Schüler zı sammenzutreten und allen anders Denkenden einen Kampf auf Leben und Tod anzukündigen. Jeder, der nicht die Schuluniform 2* [p. 20] trägt , ist ein Feind und der Kampf ist nicht schwer , denn die Feinde ſind - a priori - insgesammt bleſſirt, hinkend und krank. Es gehört weiter nichts als Oberflächlichkeit und Unverschämtheit dazu , um das Treiben der Schule in dieß alberne Marionettenspiel zu verwandeln.
+
+Man kann jeder Handlurg und jedem Thun , weil es vom Subject ausgeht , auch ein rein Subjectives Motiv unterschieben und es daraus erklären und her leiten.
+
+Es ist leicht gethan , die Einheit in der Sache für leere gedankenlose Nachbetung auszusprechen , die wahre Begeisterung für ein hohles Deklamiren um äußerer Vortheile willen ; man kann ein einzelnes Beispiel für die Sache selbst ansehen, und nach einem einzelnen Falle das Wesen des Ganzen des stimmen.
+
+Und es gehört wahrlich wenig dazu , wenn man der
+
+Sache Gewalt angethan und sie sich nach Belieben zurechtgemacht hat, ein solch albernes Treiben zu verspotten und zu bewißeln, denn der Spott liegt hier auf der flachen Hand.
+
+Empörend aber ist es , wenn man dem Menschen Alles cher zutraut, als wahre Liebe und Begeisterung für die Sache, und wenn man vor Allem geneigt ist , dem freien Geiste ohne Weiteres den Vorwurf der totalſten Geiſtlosigkeit zu machen. Gegen die Voraussetzung eines blinden Nachbetens hat denn allerdings die Forderung der Selbstständigkeit ihre volle Geltung , aber nur wer das Wesen der Philoſophie als Wiſſen= schaft durchaus verkennt , wird meinen können , daß die Philosophie nicht wie die andern Wissenschaften ges lernt werden müſſe.
+
+In dieſer Unkenntniß über das Weſen der Philoſophie bezeichnet man auch wohl die ſyſtematiſche Philosophie schlechthin als Schulweisheit und stellt derselben eine höhere Philosophie gegenüber , welche den Geiſt nicht in die knöcherne Form des Syſtems einzwångt, ſondern ihn frei walten und sich ergehen läßt. Dieß principlose Philosophiren , welches ſich auch wohl — und nicht mit Unrecht — für die Philoſophie [p. 21] aller Gebildeten ausgiebt , verdient in seiner Sphäre volle An erkennung, freilich unter der Bedingung , daß es ſich nicht bloß im Albekannten und wort ፡ und blüthenreichen Trivialitäten umhertreibt, sondern wirklich Tiefes und Geißtvolles zu sagen weiß , und nur einer pedantiſchen Engherzigkeit kann es einfallen, die Wahrheit nicht anders als im Systeme sehen zu wollen. Allein dieß geistreiche Philosophiren irrt sehr , wenn es höher zu ſtehen meint, als die Philosophie , und in dieser Meinung den tiefsten Ernst der Speculation als unnüße Schulweisheit ver spottet ; dieß verråth nur , daß es die Philoſophie nicht kennt, und auch nicht das Bedürfniß des begreifenden Denkens an sich erfahren hat. In der Bewußtlosigkeit über seinen eigenen Stand punkt weiß dieß Philoſophiren nicht , was es der wirklichen Philosophie zu verdanken , und daß es gegen eine Geſtaltung der Wahrheit eifert, welche das beweist, was es selbst nur fühlt und behauptet. Wie weit auch die Philosophie davon entfernt ist zu meinen , allein im Besize der Wahrheit zu seyn , so muß sie doch nothwendig von dem , was sich für Philoſophie ausgiebt, die Form des Begriffs und des Systems fordern , und sie selbst wird , wenn sie in der Arbeit des Gedankens erstarkt sich in einer freieren Form ausspricht , • mit weit tieferer Gewalt und Klarheit hervortreten, als das Denken, welches sich ohne Weiteres der Begeisterung und ſeinem geſunden Verſtande auf gut Glück überlassen zu können meint. Soll die Philosophie als wirkliche Wissenschaft gefördert werden, so ist vor Allem das bescheidene Aufnehmen und Repro duciren des schon erlangten Resultats nothwendig.
+
+Und von dieser Nothwendigkeit des Lernens ist nicht etwa das Genie zu entbinden.
+
+Wie dieses fast durchgängig eine ganz bestimmte
+
+Richtung hat, und in ihm unmittelbar ausgesprochen ist , daß ſich nicht Alles für Einen schickt , so ist es auch eine ganz gewöhnliche Erfahrung , daß das Genie durch den Wuſt des ihn [p. 22] umgebenden Lebens , durch die sich ihm darbietende Mannig faltigkeit mit Gewalt durchdringt , und sich selbst aus eigenem Antriebe der Zucht des Lernens willig unterzieht. Dieser Forderung des Lernens wird dann aber wohl sogleich die andere beigefügt : Lerne die Lehren der Schule , doch gleich der Leucothea Binde Bist du am Ufer, so wirf fie in die Wellen zurück. Spricht dieß ein Dichter , ſo muß man es gelten laſſen. Er hat das durch das Studium der Philosophie Gewonnene zu einer andern Form zu verarbeiten ; dieß aber macht sich bei ihm ganz von selbst. Er hat nicht nöthig , an das Fortwerfen der Lehren der Schule zu denken , und seine Dichtung ist nicht bloß ein äußerliches formelles Umsehen , sondern ſein Genius aſſimilirt sich den gewonnenen Gedankenreichthum und treibt von innen heraus diese Fülle zu einer freien selbstständigen Gestaltung. Spricht dieß aber ein Philosoph , oder werden wohl gar dieſe
+
+Worte einer polemiſchen Schrift gegen ein philoſophiſches Syſtem als Motto vorangefeßt , so bekommen sie eine Bedeutung , welche dem Begriffe der Philoſophie schnurstracks entgegenläuft.
+
+dann bedeuten sie entweder, daß nicht nur ein bestimmtes Syſtem, ſondern die Speculation überhaupt ein leerer Gedankenkram ist, oder sie sprechen die Forderung aus , daß ein Philosoph noth wendig originell seyn , sein eignes Syſtem haben und ſobald wie möglich darangehen soll , sich dieses zu machen.
+
+Wie leicht zu sehen ist , sind wir da nicht mehr im Dienste der Wahrheit, wo es doch gleichgültig seyn kann , ob man diese von Andern aufnimmt oder ſelbſtſtändig producirt, ſondern wir sind im Dienſte der pursten Eitelkeit , der pursten Selbstsucht.
+
+Der Dichter ges langt durch das Fortwerfen der Lehren der Schule in sein heimaths liches Land der Poesie , der Philoſoph aber legt in diesen Worten das Bekenntniß ab , daß er in der Zucht des Lernens das tiefe Meer glücklich durchſchwommen habe und nun an eine seichte Stelle gelangt sey , wo sein eignes Vaterland anfängt.
+
+[p. 23] Forderung der Selbstständigkeit verliert alle wahre Bedeutung, wenn sie sich zur Forderung der Originalität übertreibt. Denn es ist leicht zu sehen , daß die Originalitåt an sich nur eine leere Form ist, die allen möglichen Inhalt in ſich aufnehmen kann ; ist der Inhalt der Originalitåt bedeutungslos , so mag man immerhin kein Schüler eines Meisters seyn , man ist , wie Göthe ſagt, ein Narr auf seine eigene Faust.
+
+Zu der Bedeutungslosigkeit der Sache kommt dann nur noch die Eitelkeit der Perſon, etwas ganz Absonderliches durch sich selbst gefunden zu haben. Die Forderung der Originalität macht die Philosophie zur sub jectiven Meinung des einzelnen Individuums.
+
+Indem Jeder lernt, um nur fortzuwerfen , treibt Jeder für sich ein besonderes Geschäft; die Wahrheit als der allgemeine Inhalt jedes Bewußt seyns ist dann ein ganz leeres Wort , und nicht nur das Fleisch, ſondern der Geist selbst ist durch und durch Egoist und die Zer ſplitterung in . lauter inhaltloſe Punkte fein Wesen und seine Bestimmung. -T Noch von einer andern Seite her und aus andern Gründen erklärt man sich gegen die Schule ; nåmlich man will nicht nur nicht Schüler ſeyn , sondern auch nicht Stifter und Lehrer einer Schule.
+
+Fichte der Jüngere bevorwortet sogleich bei der Un kündigung ſeines neuen Systems , daß es ihm nicht einfalle, dadurch auch eine neue Schule stiften zu wollen , sondern daß er ſich diese Art Unhang geradezu verbitte.
+
+Hiermit scheint nun allerdings das folgende Geſtändniß im Widerspruch, daß er dem ungeachtet , wie jede philosophische Darstellung , zugleich den Zweck habe , den Leser zum Verständniß zu zwingen , und ihn für jest wenigstens zu seinem Anhänger zu machen.
+
+Letzteres scheint auch christliche Pflicht und Schuldigkeit , wenn man ſein System für das einzig mögliche und gültige in gegenwärtiger Beit hålt , wenn man dieß Syſtem ankündigt , als das Reſultat und' deßhalb zugleich als die Vermittelung der bisher isolirt [p. 24] ausgebildeten , damit aber entgegengesetzten Standpunkte
+
+Speculation "; wenn man zur Kritik auffordert , aber zugleich zu bedenken giebt , daß wenn die gänzliche Unfruchtbarkeit unserer bisherigen Kritik ihren Grund darin habe , daß man gewöhnlich von einem bestimmten Standpunkte aus beurtheile, eine solche Kritik bei dem neuen Systeme ein yöllig widersprechendes Verhältniß hervorbringen würde , "I weil jeder der möglichen philosophischen Standpunkte in unserer Entwickelung des Bewußtseyns selbst vorkommt und nach seiner eigenthümlichen Bedeutung anerkannt und verstanden wird , bei solcher Beurtheilung würde daher eigentlich nur ein Theil des allgemeinen Geiſterſyſtems ſich feindlich gegen fein Ganzes wenden , in welchem er ſelbſt friedlich umfaßt ist und sogar gerechtfertigt erscheint " -- wer sollte nicht von ganzem Herzen wünſchen , daß Jeder an dieſer Wahrheit Theil nehme ? Jedoch weiß man mit diesen hohen Versprechungen und Ankündigungen die weitere Behauptung wieder nicht recht zu vereinigen , daß "I es ſich mit der Zeit wohl bewähren könnte , wie gerade ein freies Geltenlassen und Anerkennen eines jeden Bildungsstandpunktes in seiner Sphäre , wie Einsicht über die eigenthümliche Berechtigung eines jeden , damit aber die höchſte Ruhe und Partheilosigkeit die reifste Frucht der wiſſenſchaftlichen Gesinnung sey , zu der die neue Philoſophie heranbilde."
+
+Man sollte vielmehr meinen , es würde bei solcher
+
+Bewandtniß der Sache vor Allem darauf ankommen , die vers ſchiedenen Bildungsstufen mit sich fortzuziehen und die Particula® ritäten nicht für sich stehen zu lassen , sondern zu dem höchsten Standpunkte heraufzubilden.
+
+Auch ist nicht einzusehen , wie ein particulårer Standpunkt , der seine Endlichkeit einſieht, doch bei dieser Bornirtheit ganz neidlos ſtehen bleiben könne, und wie er ſeine Verhärtung so weit treiben sollte, daß er durch das Des wußtſeyn nur ein Moment zu seyn , über sich hinausgeht , aber doch nur Moment bleibt und sich damit beruhigt , daß er sich [p. 25] als ,,befaßt und getragen in der Unendlichkeit des Geisterlebens " weiß.
+
+Wenn es sich auch von selbst versteht , daß man "/ die
+
+Particularitåten nur bekämpft , insofern sie sich zum Univerſellen hervordrången wollen ", so ist doch vorauszusehen , ein solcher particulårer Standpunct dieß immer thun wird , und es ist wirklich das Wenigste , was man von ihm verlangen kann, daß er entweder überzeugt ist , wenn auch in aller Bescheiden heit, den zeitlich höchsten Standpunct der philoſophiſchen Erkenntniß zu besigen, oder in die Schule zu gehen.
+
+Jenes Geltenlassen der verschiedenen philosophischen Bildungsstandpunkte bedeutet mit andern Worten so viel : Ich bin die Totalitåt des Organismus, ihr andern bestehenden Systeme seit meine Glieder ; wie kann es dem Fuße oder dem Magen einfallen , die Seele des Ganzen seyn zu wollen ?
+
+Vielmehr muß jedes Glied wiſſen, daß es nur ein Glied ist , aber durch dieß Bewußtseyn seiner nicht aufhören, ein Glied zu seyn, sondern, wie ſich ihm gebührt, dem Organismus sich unterwerfen, damit es sich und den ganzen Organismus nicht krank mache.
+
+Das ist diese idyllische Parteis losigkeit ! Obwohl allerdings die Seele nicht gerade neidisch seyn mag auf die Glieder , so ist doch den denkenden Gliedern nicht gerade der Wunsch zu verargen , nicht Glied , ſondern ſelbſt
+
+Seele seyn zu wollen ; und so wenig es zu verwundern ist, wenn diese denkenden Glieder sich dieses parteilose Einrangiren schlechter dings nicht gefallen laſſen wollen , so ist doch auch wohl einzus ", sehen , wie andere, schon mit der Existenz zufrieden , und ohne weiter zu fragen , als welches Glied fie denn fungiren müſſen, diese scheinbar ungewöhnliche und unerhörte Neidlosigkeit hoch anrühmen können. - Wenn ein Philoſoph sein Syſtem anküns digt mit der Ueberzeugung , die Wahrheit zu wissen , so wird kein Mensch ihm dieß verargen ohne dieß Bewußtseyn könnte wwwm aber er irrt sehr , wenn er es irgend einem er schweigen Philosophen, der wirklich eine Schule gehabt hat, zutraut, [p. 26] daß ihm nur darum zu thun gewesen sey, sich einen nachspres Die Liebe zur Wahrheit chenden Anhang zusammen zu lesen.
+
+ist so alt , wie die ewige Jugend des Geistes , und ein solches Chor geistloser Sklaven hat es in der Wissenschaft des " freien Denkens nie und nimmer gegeben. -Wir haben dagegen die philoſophiſche Schule als ein noth wendiges Moment in der Entwickelung der Philosophie anzuers kennen.
+
+Wäre die Philosophie , wie sie zunächst ein einsames
+
+Geschäft des einzelnen Individuums ist , weiter nichts als die Meinung eines Einzelnen , so könnte man allerdings fordern, daß jeder Philosoph eine solche Meinung für sich haben solle ; daran könnte sich aber sogleich die andere Forderung anschließen, daß er diese Meinung für sich behalten und die Anderen die auch eine ſolche håtten , oder sie bald erwerben könnten , nicht weiter damit incommodiren möchte.
+
+Ist aber die Philosophie mehr als nur ein subjectiver Einfall , nimmt sie Theil an der Entwickelung des allgemeinen Weltgeistes , und wollen wir den Begriff der Geschichte der Philosophie nicht wieder zu der Tria vialität verflachen , daß in allen philoſophiſchen Systemen doch etwas Wahres sey commp? so wachsen die philoſophiſchen Syſteme auch nicht wie Pilze aus der Erde auf, ſondern jedes neue System fordert die Erfüllung der Zeit , und nicht Jeden kann das Glück treffen , der vom Weltgeist Auserwählte zu seyn , die philoſophiſche Erkenntniß in wesentlichen Punkten weiter zu führen , und einen neuen höheren Standpunkt des Wiſſens zu erreichen.
+
+Tritt aber ein Philoſoph mit dem Bewußtſeyn auf, einen solchen wirklich errungen zu haben , so knüpft sich nothwen dig an dieß Bewußtseyn sogleich die Forderung , daß sich Undere an ihn anschließen , und zwar nicht an ihn als das einzelne Individuum , ſondern vielmehr an die Sache , in welcher als der Wahrheit die Besonderheit des Individuums aufgehoben ist. Und zwar ist die Sache ein ganz bestimmter Inhalt, und [p. 27] das Anſchließen an dieselbe hat nicht die leere Bedeutung , daß Andere nur mit philosophiren , zur Erkenntniß der Wahrheit auch das Ihrige beitragen ; ebensowenig wie einem Philoſophen einfallen kann , durch sein System weiter nichts als anregen zu wollen , sondern er giebt vielmehr ein positives Resultat -dieß behauptet er als die Wahrheit , und nicht bloß, daß es mit der Philosophie im Allgemeinen eine schöne Sache ist.
+
+wird Keinem in dem Sinn kommen , einem Andern eine An ficht aufzwingen zu wollen , aber geht die Toleranz einer be stimmten Philosophie dazu fort , andere philoſophiſche Stand punkte als gleich wahr neben sich anzuerkennen , ſo verflüch tigt sich die Wiſſenſchaft , die nothwendig einen poſitiven Ina halt hat , zu einem formellen Philoſophiren. Die Vermittelung der verschiedenen Gegenſåße und Partheien ist ein vielbesprochenes Thema.
+
+Die Hauptsache ist , daß die Einheit , zu welcher die Gegensäße sich aufheben sollen , eine wirklich höhere seyn muß.
+
+Wer also die Partheien vermitteln will , muß im Besitz dieſer höheren Einheit ſeyn , ſonſt iſt dieſe Versöhnung weiter nichts als eine Abstumpfung und Verflachung der Gegensätze, die so weit von einer wahrhaften Versöhnung entfernt ist , daß sie nicht einmal den Namen einer Parthei verdient.
+
+Die Parthei hat , wenn sie überhaupt der Erwähnung und Berücksichtigung werth ist , halte ihre Wahrheit , an dem bestimmten Ins während jene farblose Verflachung die
+
+Entleerung alles Inhalts ist , die Furcht vor der Tiefe und das Schwanken der Partheilosigkeit.
+
+Die Parthei hat wesentlich an einer andern ihren Gegensatz , und nicht in der Berflachung , ſondern im Heraustreiben zum Extreme macht sie selbst die Erfahrung ihrer Einſeitigkeit , welches die nothwendige Voraus setzung der Versöhnung ist.
+
+Diese aber hat den Gegensatz nicht außer sich, und ist auch nicht etwa die ursprüngliche Ein heit, indem dieſe nicht über den Gegenſaß hinaus , ſondern viels [p. 28] mehr der Keim des Gegensates selbst ist.
+
+So vergeblich es darum ist, die Gegensätze auf die ursprüngliche Einheit zurück führen zu wollen , so ist die Erinnerung an diese nur die that= lose Trauer über die Gegenwart und das Mißtrauen gegen die freie Entwickelung des Geistes , dessen Wesen es ist , nicht bei der Ursprünglichkeit oder Unmittelbarkeit stehen zu bleiben , sondern dieſe ſelbst aufzuheben und durch die Tiefe des Gegenſates hindurch zu immer höherer Erkenntniß seiner selbst zu gelangen.
+
+So richtig aber ferner der Begriff der Versöhnung dahin be
+
+ſtimmt wird , daß die Partheien und Gegensätze in ihr zu Mo= menten werden, so wird doch diese Auffassung sogleich wieder unwahr , wenn man die Momente in ihrer Besonderung und losgerissen vom Ganzen d . h . als Partheien aufbewahrt wiſſen will.
+
+Die Parthei hat im Bestehen nothwendig die Meinung nicht Parthei , sondern ihrem Wesen nach das Ganze zu seyn , und mit dem Bewußtseyn threr Einseitigkeit und dem Geſtånd niß , daß sie Parthei sey , verliert sie so sehr das Recht als solche zu bestehen , wie sie damit schon zur Besißnahme des Ganzen fortschreitet.
+
+Die Philosophie ist im Bewußtseyn , einseitig verfolgte Principien in sich zu vereinigen , eben so sehr entfernt von dem fanatischen Eifer einer Parthei , indem sie jeden Standpunkt in seiner Sphäre zu würdigen versteht , als von dem oft für ehrwürdige Humanitåt gehaltenen Bestreben , die Gegensäße durch den liebevollen Rath der Verflachung zur scheinbaren Versöhnung einzuschläfern. Gegen die Allgemeinheit der Sache hat der Einzelne ſeine besonderen Intereſſen aufzugeben , und ohne Vorurtheil und vor eiliges Aburtheilen , ohne Eitelkeit und Selbstsucht sich darin zu versenken.
+
+Findet er in dem ihm gebotenen fertigen Reſultate
+
+ſeine Befriedigung , so ist er allerdings in dem gewöhnlichen Sinne kein Selbstdenker d . h. nicht originell , aber darum hat er nicht etwa zugleich seine Selbstständigkeit verloren.
+
+[p. 29] Vielmehr hat er , indem er die Sache durch sein Denken , welches wesentlich freie Thätigkeit ist , in Befih genommen hat, erst damit seine wirkliche Selbstständigkeit erreicht , er hat die abstracte Freiheit des Selbst durch die Sache zur wirklichen er hoben.
+
+Es wird sicherlich jezt Keinem einfallen , eine philoſo= phische Ansicht durch Berufung auf irgend eine Autorität für begründet zu halten , doch hört Mancher nicht auf, das avròs Qa mit langweiligem Spott zu überhäufen , und dabei die Bedeutung dieses Ausspruchs ganz und gar zu verkennen.
+
+Für die Schüler werden die Worte des Meisters immer eine gewichs tige Autorität ſeyn , und es wird Jeder beim Studium der
+
+Philosophie die Erfahrung gemacht haben , daß sich der Zweifel gegen dieselbe gar bald aufdringt , und daß man eine solche Abweichung , wenn auch in Nebensachen , gar sehr bereit ist , hoch anzuschlagen , aber daß man auch oft genug bei ernsterm Nachdenken auf die Lehre des Meisters zurückzugehen gezwungen
+
+Solche Erfahrungen können Einen wohl klug machen , und die falsche Sucht nach Originalität in die Schranken der Bescheidenheit zurückweisen.
+
+Die Willkühr des Denkers braucht nicht viel geboten und gefordert zu werden, sie ist eine leichte Sache und schon im Beginnen des Philoſophirens da ; vielmehr bedarf das Denken des Gebotes der Bescheidenheit und des ernsten Selbstvergeſſens , welches im avròs äPa ausgesprochen ist.
+
+Indem aber die Philosophie ihrem ganzen Wesen, nach productiv ist, so treibt die durch die Zucht des Lernens und durch die Besitnahme der Sache errungene Selbstständigkeit nothwendig über die Reproduction des Gegebenen hinaus. Man kann so allerdings sagen , daß jeder wahre Schüler darauf be dacht sey , über das System seines Meisters hinaus zu gehen ; allein dieß ist kein äußerlicher Vorsatz , der ohne Weiteres mit dem Fortwerfen der Lehren der Schule beginnen könnte , ſondern fållt mit dem freien Besit der Sache zusammen.
+
+Die erste
+
+[p. 30] Aufgabe aber , die sich den Schülern ganz von selbst stellt , des steht darin , das System des Meisters in alle Seiten hin aus einander zu legen , und durch die verschiedensten Sphären der Wissenschaft hindurch zu führen.
+
+Je concreter und intensiver die philosophische Erkenntniß ist, desto mehr kann und muß sie sich auch ausbreiten und alle angrenzenden Gebiete überwältigen. fitiven Wissenschaften fast
+
+Wenn die sogenannten po durchgängig dieses Eindringen der
+
+Philosophie in ſie ſich a priori verbitten , so thun ſie daran insofern Recht, als sie nur eine å ußere Anwendung der Philosophie auf einen positiv gegeben Stoff im Sinne haben ; und fie haben in dieser Abneigung gegen alle philoſophiſche Behandlung die Erfahrung für sich , daß darin allerdings mancherlei Unfug getrieben ist, indem die Philosophie oft genug ohne durch greifende und bis ins Detail ſich erstreckende Kenntniß des empirischen Inhalts durch Anlegung von wenigen dürftigen Kategorien die Aufgabe gelöst zu haben meinte. unglückte Unternehmungen rühren theils
+
+Dergleichen ver von dem dürftigen
+
+Standpunkte der Philosophie selbst, theils von der Schwäche des Subjects her , geben aber den positiven Wiſſenſchaften im mer einige schlagende Beiſpiele und Leckerbiſſen an die Hand, an welchen sie dann das Wesen der Philosophie als einer kennt nißlosen Gedankenſpielerei sehr handgreiflich zu demonstriren vers ſtehen.
+
+Oft rührt aber der Vorwurf, daß der poſitive Inhalt durch die philosophische Behandlung nicht gewonnen habe , nur daher, ** daß man nur den empirischen Inhalt sieht und heraus sucht , weil man ihn schon kennt , und seine Form und ſein Durchdrungenſeyn vom Gedanken überſieht , oder vielmehr nichts darin findet , weil , um etwas darin zu finden , man nothwen dig zum philoſophiſchen Denken fortgehen muß ; beruhigt man sich mit der einfachen Aufstellung von empirischen Thatsachen und fühlt somit gar nicht das Bedürfniß einer höheren Erkennt
+
+[p. 31] Commento niß , so erscheint die Philoſophie ganz natürlich als eine unnüße nichtssagende Buthat.
+
+Wie man keinem Menschen etwas mathe matiſch beweiſen kann , ohne ihn zugleich von der Mathematik, wenn auch noch so wenig , zu lehren , so kann eine philoſophi ſche Begründung nicht ohne philosophisches Denken erkannt und anerkannt werden.
+
+So unmöglich aber die Wiſſenſchaft bei den bloßen Thatsachen stehen bleiben kann , so ist es eine ganz gewöhnliche Täuſchung der poſitiven Wiſſenſchaft , wenn ſie ſich von aller ſubjectiven Zuthat rein zu erhalten meint ; in dieſer Meinung hütet sie sich allerdings vor aller Metaphysik und vor dem philosophischen Denken , aber bedient ſich ſelbſt, ohne es zu wissen, und ohne weitere Kritik mancherlei Kategorien , und wird ſo oft von der schlechtesten Metaphysik auf die ſeltſamſte Weise ge mißhandelt.
+
+Die Wissenschaft kommt nur durch das Denken zu Stande, und die ſinnige Anschauung und Genialitåt , welche ohne philoſophiſche Baſis über den todten Stoff der Gelehrsamkeit hinausgeht und ihn belebt , bleibt der ſubjectiven Laune und Willkühr und dem Zufalle , der Stimmung nur zu sehr unterworfen. Wenn man die Arbeiten der Schüler sogleich an der Terminologie des Meisters erkennt , so thut man doch sehr unrecht, wenn man ihnen dies Anſchließen an die Terminologie sogleich zum Vorwurfe macht. · Hieraus wenigstens darf man durchaus nicht schließen wollen , daß sie das System des Lehrers etwa nur äußerlich aufgenommen haben.
+
+Je weniger die Terminologie einer Philosophie willkührlich und je mehr ſie aus der Sache hervorgegangen ist , desto mehr wird sich der Inhalt mit der Form und in der ihm gemäßen Form aufdringen.
+
+Ver wirft man überhaupt Alles , was man Terminologie nennt und meint man , daß die Schwierigkeit der Philoſophie nur in der äußern Form und Darstellung derselben ihren Grund habe ; oder hält man diese ihre Form überhaupt für eine inhaltslose
+
+[p. 32] Spielerei , und traut es so ohne weiteres dem Philosophen zu , daß er , obwohl er eigentlich dem Inhalte nach nichts besonderes zu sagen habe , sich doch durch die Spielerei mit der Form wenigstens den Anschein davon geben wolle , nun ſo fållt natürlich dieser Vorwurf gegen die Philosophen überhaupt auf die Schüler zurück , und verdoppelt sich hier , weil der Schüler in der Annahme einer inhaltsleeren Form nothwendig nur leere Nachåfferei treibt , und in einer inhaltsleeren Spielerei originell zu seyn , doch das Geringste zu seyn scheint , was man fordern kann.
+
+Auch mag sich allerdings der Mangel an eigenthümlicher
+
+Kraft und die Unsicherheit des Denkens mit ångstlicher Sorg ſamkeit hinter 1 ein pedantisches Festhalten der Form flüchten , d. h. wer sich einen Schüler eines Meisters nennt , ist durch dieſen Namen , den er sich beilegt , noch kein würdiger Schüler, und daraus , daß Jemand in die Schule gegangen ist , folgt nicht nothwendig , daß er auch etwas Tüchtiges gelernt hat. Sehr natürlich können sich unter den Schülern auch manche Unwürdige finden , die sich der Sache nur äußerlich anschließen und die in dem Bestreben , dieß vor Andern zu verdecken , zu allerlei Extremen fortgeführt werden , welche bis zur lächerlichen Karrikatur sich steigern können ; und man wird es Keinem verargen , der dieß , wenn die Sache zur Sprache kommt, offen heraus sagt , und allen Ernſt und Spott , der ihm zu Gebote steht , aufbietet , um diesem des Meisters und der Philosophie überhaupt unwürdigen . Beiwerk Gerechtigkeit wiederfahren zu laſſen.
+
+Allein dieſe Auswüchse als das Wesen der Sache betrachten und diese durch jene verdächtigen zu wollen , ist unver zeihliche Oberflächlichkeit , und zugleich ein abgebrauchter Kunst griff, kräftige Gegner auf unwiſſenſchaftliche Weise von sich ab zuhalten , und gegen eine gründliche Beurtheilung , seiner ges waltigen Originalität doch eine kleine Hülfe zu verschaffen.
+
+[p. 33] C
+
+3. Die Polemik. Die Polemik ist ein nothwendiges Moment in der philo ſophiſchen Entwickelung und wird mit dieser bestehen und auf hören.
+
+Gleichviel nun zunächſt wie mannigfach sich die Gegen
+
+ſåge und ihr Verhältniß zu einander geſtalten können , ſo liegt ſchon darin , daß die Polemik der Entwickelung der Wiſſenſchaft angehört , unmittelbar die Forderung , daß sie im Dienste der Wissenschaft geführt werde und daß ſie alſo , ohne fremdar tiges Interesse , sich einzig und allein an die Sache zu halten habe.
+
+Es scheint so , als bedürfe es weiter keines Wortes , welche äußere Form die Polemik anzunehmen habe : die Form der Wissenschaft, welche sich in die Sache versenkt , wäre die ihr einzig gemäße Form , und sich an die Sache zu halten , um die es sich handelt , die einfache Alles umfassende Unfore derung.
+
+Jedoch so oft auch diese Anforderung ausgesprochen und eingeſchärft wird , so kommt doch ganz gewöhnlich die Klage hinterher , daß man ihr , besonders zur jeßigen Zeit , doch gar felten Genüge leiste.
+
+Es dringt sich damit von selbst auf, auch einmal die äußere Form der Kritik und Polemik kurz in Des trachtung zu ziehen. Zunächst könnte es & allerdings auffallend scheinen , daß in einer polemischen Schrift fast durchgängig voran die Versicherung gegeben wird , daß es dem Verfasser einzig und allein um die Sache zu thun sey.
+
+Dieß versteht sich hoffentlich so sehr von selbst , daß man jene Versicherung gewiß Jedem gern ſchenken möchte , ja daß sogar dieses Versichern des sich von selbst Vers stehenden unwillkürlich zur Vermuthung des Gegentheils auf fordert. Außerdem wird jener Verſicherung , daß man im Dienſte der Wahrheit stehe , und aus Liebe zu ihr handele und kåmpfe, auch wohl die Bemerkung beigefügt , daß es gewisse Geſche des Anstandes gebe, der Humanität , die jeder Gebildete des neunzehnten Jahrhunderts für heilig achten müsse. Dabei aber liegt [p. 34] wieder die Erfahrung nicht fern , daß entweder diese Gesetze sehr vage ſeyn müſſen , oder daß man sich eine Uebertretung derselben so sehr hoch gerade nicht anzurechnen geneigt ist ; ja es wird auch wohl sogleich der Kritik eine Gegenkritik angedroht mit dem M Zusage,,, daß man mit dem Maaße messen werde , womit der Gegner gemessen , d. h. wie man aus dem Erfolge sieht , daß man , sollte der Gegner etwas derb ausfallen , sogleich bereit sey, ihn an Grobheit noch zu überbieten , den humanen Ton fort 4. zuwerfen und allenfalls den Gegner für das Tollhaus reif zu erklåren.
+
+Bei dieſem noch innerhalb der Humanitåt ausgesprochenen Vorſaße , Gleiches mit Gleichem zu vergelten, kann es unmöglich mit der Hinweisung auf die Gesetze des An standes rechter Ernst gewesen seyn ; noch viel weniger aber scheint ſich die Verwandlung der Humanitåt in die ausgelaſſenſte Grob heit mit der früher ausgesprochenen Ansicht zu vereinigen, daß eine solche barbarische Form, welcher sich z . B. Schelling gegen
+
+Reinhold bediente ,,, nicht bloß den Menschen herabsehe , sondern auch der Lehre schade , und daß dieſe Ausbrüche einer barbarischen Natur sogar Kants Hypothese von einem radicalen Bösen zu bestätigen ſcheinen “ - denn von diesem Rückfall , von dieser Ueberrumpelung des besten Willens und des klar ſten Bewußtseyns müßte man wenigstens des persönlichen Teufels selbst schließen.
+
+auf die Existenz ( Bachmann über das
+
+System Hegels. )
+
+Unantastbar aber scheint die beliebte Forderung , in der Polemik die Person von der Sache zu trennen. Jedoch ohne nåhere Bestimmung kann diese Förderung auch wieder als eine seltsame Pråtension erscheinen , da doch die Sache von der Person herrührt.
+
+Sich streng an die Sache zu halten , würde wenigstens nicht ausschließen , diese bei Namen zu nennen , ja würde diese Geradheit sogar fordern, und wenn es 2 erlaubt seyn muß, die Sache platt , dürftig , schaal zu nennen , so sind nas [p. 35] türlich die Inhaber der Sache , wenigstens in diesem Falle, auch wenn man es nicht ſagt , schaale , dürftige Köpfe. An den Früchten können wir die Perſon erkennen und schlechte Früchte deuten auf einen schlechten Baum. Wenn Lichtenberg schon dem eine Ohrfeige geben wollte, der zu ihm sagte : Du handelst zwar wie ein ehrlicher Mann , ich sehe es aber aus deiner Figur , du zwingst dich und bist ein Schelm im Herzen , was würde er erst mit dem angefangen haben , der zu ihm gesagt håtte : Du stiehlst wie ein Dieb , bist aber doch ein grundehrlicher Mann. Doch die Person will ſich nicht nur aus ihrer Sache auch wieder herausziehen können , sondern macht noch höhere Pråtenſionen. So sagt Bachmann : " wie hoch steht dagegen (nåmlich gegen die gemüthlose und gemeine Gesinnung Schellings) der gemiß handelte Reinhold in feiner Sanftmuth und seiner sich selbst aufopfernden Wahrheitsliebe ; die gerecht richtende Nachwelt legt dieſe mit in die Waagschadle ; ihr gilt der Mensch mehr als der Forscher."
+
+Das wäre ein seltsames Gericht der Geschichte !
+
+Wollten wir der Nachwelt das Richten überlaſſen, oder so richten, wie die Nachwelt, so würde ohne Zweifel vor Allem in Betracht kommen , was Reinhold als Forscher geleistet habe ; was er außerdem geweſen, als Familienvater, sanfter, gutherziger Mann, davon erfährt die Nachwelt im Ganzen sehr wenig.
+
+Aber wenn sie sich auch darum bekümmert, so müßten wir sie doch der Ungerechtigkeit beschuldigen , wenn sie die Sanftmuth und die Wahrheitsliebe mit der Philoſophie in eine Wagschaale legen wollte. Es würde dieß eine Darstellung der Geschichte der Philosophie geben , vielleicht aus dem Gesichtspunkte der Humanität, aber bei dem besten Willen würden wir doch die anderweitigen guten Eigenschaften der Philoſophen vorläufig oder in einer Anmerkung abfertigen müſſen , damit es Jedem erlaubt sey , beides beliebig zu überschlagen und ein Gesammtreſultat nach seiner Weise daraus zu ziehen.
+
+Bei so bewandten Umſtånden wåre 3* [p. 36] vor Allem zu rathen , daß besonders diejenigen , denen es in der Sphäre der Wiſſenſchaft um ihre Ehre etwas ångstlich wäre, doch bei Zeiten dafür Sorge tragen möchten, daß ihre anderweitigen guten Eigenschaften , ihre Humanitåt u . ſ. w. , öffentlich auspofaunt würden , damit man von einer wiſſenſchaftlichen
+
+Kritik und Polemik in einen Panegyrikus der Person , oder in eine respective Strafrede übergehen könnte. Es erhellt sogleich, daß es in der Wissenschaft vor Allem darauf ankommt, was die Perſon durch ihr Forschen als objecti ven Gehalt herausgearbeitet hat , - erſt dadurch wird die Perſon historisch und erst dadurch ist von ihr in der Wiſſenſchaft die Rede. Wird jedes derbe Wort , das über ein literarisches Product ausgesprochen wird und natürlich auf die Person zurückfällt, schon für eine Persönlichkeit gehalten , die man sich verbitten zu können meint, so kann es in einer freien und offenen Kritik und Polemik ohne Persönlichkeiten nicht abgehen.
+
+Es versteht
+
+ſich von selbst , daß jede Kritik und Polemik , auch wenn sie sich rein an die Sache hält , doch die Person , von welchem diese herrührt , ganz besonders intereſſiren muß ; denn für diese ist die Sache nicht bloßes Object , sondern' ihre Arbeit , Entäußerung ihrer selbst, und ſehr natürlich kann das Betrüben , welches die Person auch über einen gerechten Tadel empfinden muß das theoretische Gewiſſen .―― leicht zu der Meinung seine Zuflucht nehmen , als wäre der Sache unrecht geschehen. In der Wiſſen ſchaft kann schlechterdings der gute Wille nicht für die That gelten , aber wie der wahrhaft ernste Wille nicht leicht fruchtlos bleiben und sich selbst in den mißglückten Productionen doch immer ausprågen wird , so ist er allerdings mit aller Achtung anzuerkennen . Jedoch ist durchaus nicht abzusehen , warum jede dürftige Production mit so viel Delicatesse behandelt werden soll, wenn sich darin Halbheit und Flachheit wie gewöhnlich gewaltig breit macht , und in hochtrabender Arroganz nicht aufhört , das
+
+[p. 37] Ich und seine Thaten herauszustellen, und meint, mit dem wenigen Geleisteten schon das Privilegium .rrungen zu haben, über die Thaten Anderer ohne Weiteres en gros abzuurtheilen.
+
+Solche hochmüthige Halbheit ist nothwendig dem Spotte und Wize verfallen und kann auf Schonung weiter keinen Anſpruch machen. – Dieß aber bleibt ein Schandfleck im wissenschaftlichen Leben, daß die Kritik zum großen Theil handwerksmåßig und mit der gewiſſenlosesten Oberflächlichkeit betrieben wird.
+
+Diese Willkür , nach Laune und Belieben mit den Thaten Anderer zu schalten, ist noch in weit höherem Grade eine Beleidigung gegen die Perſon , als was man gewöhnlich dafür anſieht ; ja wie diese Oberflächlichkeit des Aburtheilens ganz und gar aus der Wiſſen schaft herausfällt , so ist für dieselbe eine bis ins Extrem übertriebene und auf die Sache weiter nicht eingehende , ſondern sich in allgemeine Prädikate verlaufende Lobeserhebung, oder auch ein inhumaner, ja pöbelhafter Ton , die gemåße Form, und diese Buthat ist durchaus als Glück anzusehen , indem an der selben selbst diejenigen , deren Theilnahme an der Wissenschaft vorzugsweise nur im Lesen der Literaturzeitung besteht, doch jene Oberflächlichkeit zu wittern im Stande sind. Wie nun aber die philosophischen Leistungen unmöglich nach der Sanftmuth und Wahrheitsliebe beurtheilt werden können, und die Perſon unmöglich verlangen kann , daß in der Wiſſen schaft das Anerkennung finde , was sie außerhalb derselben ist ; ebenso ist es der Wissenschaft durchaus unwürdig , den
+
+Mangel und die Dürftigkeit eines wissenschaftlichen Produkts in der Besonderheit der Person zu suchen , insofern dieselbe außer der Wissenschaft liegt.
+
+Darin besteht das Persönliche , welches man mit Recht aus der Wissenschaft verbannt wiſſen will , daß man dem Individuum , welches sich zur Sache gemacht hat, nicht zutraut, daß es wirklich Liebe zur Sache habe , sondern seiner Handlung egoistische Motive unterſchiebt. Allerdings steht [p. 38] es in Jedermanns Willkür , sich durch egoistische Motive in der Wiſſenſchaft bestimmen zu laſſen ; aber die Wiſſenſchaft ſelbſt hat dieß weiter nicht zu berücksichtigen , sondern hat sich vielmehr das heraus zu suchen, was ihr angehört, und die bloß ſubjective Zuthat dem Eigenthümer als ungültige Münze stillschweigend zurückzugeben.
+
+" Es kann sich keine Handlung solchem Beurtheilen entziehen ; denn die Pflicht um der Pflicht willen, dieser reine Zweck, ist das Unwirkliche ; ſeine Wirklichkeit hat er in dem Thun der Individualität und dieHandlung dadurch die Seite der Besonderheit an ihr. Es giebt keinen Helden für den Kammerdiener ; nicht aber weil jener nicht ein Held, sondern weil dieser --- der Kammer diener ist, mit welchem jener nicht als Held, sondern als Eſſender; Trinkender , sich Kleidender , überhaupt in der Einzelnheit des Bedürfniſſes und der Vorstellung zu thun hat.
+
+So giebt es für das Beurtheilen keine Handlung , in welcher es nicht die Seite der Einzelnheit der Individualität der allgemeinen Seite der Handlung entgegenseßen und gegen den Handelhden den Kammerdiener der Moralität machen könnte.
+
+Dieß beurthei lende Bewußtseyn ist hiermit selbst niederträchtig , weil es die Handlung theilt und ihre Ungleichheit mit ihr selbst hervor bringt und festhält. “ Dem Inhalte nach hat jedes philosophische Syſtem zwei Weisen der Polemik zu erfahren ;
+
+nämlich eine Polemik des
+
+Verständnisses , welcher philosophische
+
+System wirklich als ein endlicher Standpunkt der Erkenntniß begriffen und zugleich über sich hinaus zu einem höhern Standpunkte erhoben wird, - und eine Polemik des Mißverständnisses. Die Klage über die Unverständlichkeit eines philosophischen
+
+Systems geht bald genug in das wirkliche Mißverstehen deſſelben über ; aber der Vorwurf des Mißverstehens findet gewöhnlich taube Ohren und in Bezug auf die Hegelsche Philosophie meint man wohl bisweilen , daß dieser Vorwurf schon antiquirt ſey,
+
+[p. 39] ſo daß es geradezu für fade gehalten wird , ihn immer zu wieder holen.
+
+Was aber eigentlich alt wird , ist das Mißverstehen selbst , das sich im Alter zur firen Idee verfestigt , und nicht etwa bloß um die Hegelsche Philosophie zu Ehren zu bringen, muß das Mißverſtändniß immer wieder als solches bezeichnet werden , sondern indem sich mit der falschen Auffassung der Hegelschen Philosophie zugleich ein niederer Standpunkt für einen höhern ausgiebt ; nicht bloß der Hegelschen Philosophie wird etwas untergeschoben, was ihr nicht angehört, ſondern die Wahr: heit, die Hegel besitzt , wird durch das positiv dafür Gebotene nicht ersetzt. Was die Klage über die Unverſtändlichkeit der Philoſophie und die sich hieran knüpfende Forderung der Verständlichkeit be trifft, so ist dieser Gegenstand schon vielfach erläutert und von allen Seiten ins Licht gesetzt , so daß es überflüſſig wåre , den selben hier nochmals abzuhandeln . Die Hauptsache läuft darauf hinaus , daß die Philosophie an sich selbst schon eine schwierige Wissenschaft ist , und daß ihre Aufnahme die höchste Activität und Kraft des Denkens erfordert.
+
+Ihre Schwierigkeit aber be
+
+ſteht für das herantretende unphiloſophiſche Bewußtseyn beſonders darin , daß sie nicht in der gewohnten Weise der Vorstellung ihren Inhalt auffaßt , sondern dieſen vielmehr in den Gedanken. und in den Begriff verwandelt. Es ist ganz natürlich , daß das gewöhnliche vorstellende Bewußtseyn seine Schranke nicht kennt, daß es in der Täuschung lebt, das Bekannte sey auch ein Erkanntes , und daß es sich aus der gewohnten Denkweise herausgerissen und fürerst verwirrt fühlen muß , wenn die Philosophie das Bekannte in seine einfachen Momente zerlegt und zersezt, und das , was in der Vorstellung ruhig neben einander liegt , ohne sich weiter zu berühren , zufammenbringt und zum Widerspruche forttreibt. Auch sieht das gewöhnliche Bewußtseyn die Schwierigkeit nicht ein , die für die Philosophie nothwendig [p. 40] daraus hervorgeht , daß die Sprache , in welcher fie ihren Ge dankeninhalt darstellt , nicht aus dem philosophisch gebildeten, sondern aus dem vorstellenden Bewußtseyn ſich entwickelt hat. Die Philosophie darf und soll der Sprache nicht Gewalt anthun, nicht unnüßerweise und willkürlich sich Wörter bilden oder aus fremden Sprachen aufnehmen ; aber das ist ganz nothwendig, daß sie für die einfachsten Kategorien ganz bestimmte Auss drücke auswählt , welches allerdings in dieser Bestimmtheit und in dieſer ſichern und vollen Bedeutung in dem gewöhnlichen Sprechen nicht gebraucht werden , sondern hier ohne Weiteres mit einem andern Ausdrucke vertauscht werden könnten. Wer durch innere Erfahrung zur Philosophie getrieben wird, durch den Zweifel , mit welchem das freie Denken beginnt, wird nicht leicht über die Unverständlichkeit derselben klagen, sondern diese bald überwinden. Wen aber nur äußere Interessen, mögen sie einen Namen haben , welchen sie wollen , zur Philosophie hinführen , wird sehr natürlicherweise über die Unverſtånd lichkeit derselben zu klagen Ursache haben. - Die Anforderungen, die hier von Einzelnen gemacht werden, gehen in das Unglaubliche. Man will die Arbeit eines ganzen Lebens , das mühſam errun gene Resultat vieler Jahre in der kürzesten Zeit , beiläufig und im Vorbeigehen nicht nur in Besitz nehmen, sondern auch sogleich darüber urtheilen können. Man versucht auf allerlei Weise, etwa durch Hülfe von Recensionen , kurzen Auszügen , einzelnen Andeutungen auf einem kürzeren Wege , als durch das Studium der Philosophie selbst , hinter die Philosophie zu kommen ; man will vor Allem das Resultat der ganzen Philosophie fir und fertig vor sich haben , d . h . man will die Philosophie beſißen, ohne Philoſoph zu seyn , denn nur das Ganze ist die Philosophie selbst , und das Resultat unmittelbar ausgesprochen , ohne das Werden und die Vermittelung ist die einfache Vorstellung. Man überspringt daher in dem Studium auch wohl die dunkeln und [p. 41] abstrusen Regionen der Logik und Metaphysik, und greift fo= gleich zu den concretern Sphåren, z. B. der Religionsphilosophie ; dagegen ist im Ganzen nichts zu sagen , nur muß man es dem Philosophen glauben, wenn er bevorwortet , daß die Religions philosophie die Logik u. f. w. vorausſeße , und muß das Studium der ersteren allein und außer dem Ganzen nicht für höher als für eine vorläufige Orientirung anschlagen.
+
+Indem aber hier vorzugsweise bekannte Sachen abgehandelt werden , meint man sie leicht zu verstehen , ja glaubt ſogleich an dieser Bekanntschaft und dem Durchdrungenfeyn von ihnen ein Kriterium zu haben , wonach man die Philoſophie getrost beurtheilt. Man streift dann den speculativen Gedanken , die Begründung , als eine Nebensache , ab , vergleicht mit den Thatsachen , die sich nun in der Wissenschaft vorfinden , die Thatsachen, die man in seinem Bewußtseyn schon hat , und das Reſultat dieſes Studiums ist dann ― der Irrthum , die Philosophie begriffen zu haben und der Hochmuth , darüber absprechen zu können. Wenn nun Månner, die sonst wohl in Autoritåt ſtehen , ihre Meinungen und Unſichten über ein noch von Wenigen gekanntes System mit gehöriger Keckheit und Sicherheit aussprechen , so ist dieß vorgefundene Urtheil für Viele ein glücklicher Fund, indem fie dadurch des Selbststudiums überhoben zu seyn meinen.
+
+wird ſolch' Urtheil wiederholt nachgesprochen und nachgeschrieben, ja in Compendien aufgenommen , auswendig gelernt , und gilt nun bei Vielen als unumstößliche Wahrheit.
+
+Nach und nach zieht sich ein solches Urtheil auch wohl in einfache Prädikate zu ſammen ; und wenn man so das System zu benennen weiß, als Identitätssystem, Pantheismus, Idealismus u. s. w., meint man , es seinem innersten Wesen nach zu besigen und Herr darüber zu seyn.
+
+Es ist leider auch jezt noch gar zu oft der
+
+Fall , daß ein so entwickelter Standpunkt , wie die Hegelsche Philosophie, mit dergleichen allgemeinen Ausdrücken abgefertigt wird, [p. 42] die allerdings das Empfehlende haben , daß sie wegen ihrer Vieldeutigkeit die Unkenntniß mit der Sache am besten verdecken können, und außerdem ist mit ziemlicher Gewißheit vorauszusehen, daß in einer speculativen Philosophie wenigstens Etwas von Identität, Pantheismus ,
+
+Idealismus u . f. w. sich vorfindet ;
+
+auch kommt es oft nur darauf an , das neueste System der Vollständigkeit wegen , natürlich nicht ohne beigefügtes Urtheil, zu erwähnen , und da machen denn solche allgemeine Prädikate bei den Lesern oder Zuhörern einen guten Totaleindruck, der mit der Trübheit der Vorstellung des urtheilenden Subjects ungefähr correspondiren mag. Halbes und übereiltes Studium ist dann der gewöhnliche Grund des Mißverständnisses , besonders wenn hierzu noch eine falsche Sucht nach Originalitåt kommt.
+
+Das Studium eines speculativen Systems verlangt die höchſte Selbſtverläugnung, und nur wem es gelungen ist , sich desselben in seiner ganzen Tiefe zu bemächtigen , wird es einsehen , welch' eine Riesenge walt die Festigkeit der Vorstellungen ausübt , in welche wir uns von Kindheit auf eingelebt haben ; es ist unendlich schwer, was Cartesius verlangt, wirklich an allem unmittelbar Gegebenen zu zweifeln , und Nichts der bloßen alten Bekanntschaft wegen zuzulassen.
+
+Wie nichts leichter ist, als eine Meinung zu haben, so kommen denn beim Studium der Philosophie solche Meinungen und Einfälle einem Jeden leicht in den Kopf, und er scheinen sie vollends als Einwürfe gegen das vorliegende System , so ist man gar sehr geneigt, denselben eine gewaltige Wichtigkeit zu ertheilen.
+
+Vor Freude über die neue Entdeckung und in dem Bewußtseyn sich nicht befriedigt zu fühlen , beginnt man einen subjectiven Einfall auszuspinnen , und kann die Zeit nicht erwarten, wenn auch nur die Skizze des eigenen Systems vor sich zu sehen.
+
+Man studirt sich förmlich in sein. Mißver
+
+ſtåndniß ein , und ist nach dieſer mißverstandenen Unſicht das
+
+[p. 43] System einmal einrangirt und zurecht gelegt , so hålt es natürlich schwer , sich eines Beſſern zu überzeugen. Wie das Mißverständniß ſo hat auch die Polemik deffel den gegen philosophisches System ihre Grade und Abstufungen; je niedriger der Standpunkt der philoſophiſchen Erkenntniß iſt , den der Gegner im Verhältniß zu dem angegriffenen Systeme einnimmt , desto dürftiger und bedeutungsloser muß natürlich feine Polemik ausfallen.
+
+In der dürftigsten Weise ist die Polemik nur ein Hin- und Hersprechen ohne irgend einen festen' Halt ; das System wird seiner ganzen Bedeutung nach verkannt , und erscheint eben darum in einzelne Thesen auseina ander geriſſen , und dieſen werden andere entgegengestellt , auch mit mancherlei Gründen begleitet , und gegen die Gefahr in diesem Begründen ins Unendliche fortgeführt zu werden , besonders versucht , wo möglich auf einen Grund zu ſtoßen , den man wegen seiner eminenten Klarheit nicht weiter zu begründen nöthig ⋅ ´hat, sondern wo man der Zustimmung Aller gewiß zu seyn meint , wenn man zuleht noch hinſeht :
+
+Alle stimmen darin überein. Was durch einesolche Polemik gegen ein philoſophiſches Syſtem ausgemacht wird , wollen wir an einem Beispiele zu zeigen ver suchen , und wir entnehmen dieß aus der Schrift Bachmanns : über Hegels System ( Leipz. 1833 ).
+
+Indem es uns nur darauf ankommt , nachzuweisen , wie durch eine solche Polemik das System selbst auch nicht im Geringsten berührt wird , ſo haben wir nur die Sache , um die es sich handelt , recht fest im Auge zu behalten , wodurch es sich von selbst ergeben muß , daß der bestrittene Inhalt , trok aller Einwürfe und Raiſonnements ganz unangetastet zurückbleibt.
+
+Das zweite Kapitel des Bachmannschen Werkes über das System Hegels handelt von der Methode des Systems . und von der Logik.
+
+Hier wird nun zunächst die Methode [p. 44] mit Hegels Worten `beſchrieben , und da diese Untersuchung „,im genauesten Zusammenhange ſteht mit Hegels eigenthümlicher An sicht von der Logik , wodurch für dieſe Wiſſenſchaft mit gänzlicher Umwälzung des bisherigen Standpunkts eine neue Epoche hat gestiftet werden sollen , " so wird sogleich zur Logik übergegangen, und vor allen Dingen sollen die Gründe in Erwägung gezogen werden , durch welche Hegel die bisherige Logik zerstören und auf ihren Trümmern ein neues Gebäude hat errichten wollen. Es folgt nun wieder ein Auszug aus der Einleitung Hegels zur Logik, aus håtten.
+
+welchem wir besonders Folgendes zu merken
+
+Der bisherige Begriff der Logik beruht auf der im ge= wöhnlichen Bewußtseyn ein für alle Mal vorausgesetzten Trennung des Inhalts der Erkenntniß und der Form derselben oder der Wahrheit und der Gewißheit. Es wird voraus gesetzt , 4 daß der Stoff des Erkennens als eine fertige Welt außerhalb des Denkens an und für sich vorhanden , daß das Denken für sich leer sey, als eine Form äußerlich zu jener Materie hinzutrete , sich damit erfülle und erst dadurch ein reales Erkennen werde.
+
+Ferner sind von Bachmann selbst die Worte aufgenommen : ,, im absoluten Wissen , dessen Werden in der Phänomenologie des Geistes dargestellt worden , ist der Gegen ſaß des Bewußtseyns aufgelöst , und damit die Trennung des Gegenstandes von der Gewißheit seiner selbst im Bewußtseyn aufgehoben worden ; die reine Wiſſenſchaft enthält den Gedanken, insofern er eben so sehr die Sache an sich selbst ist oder die Sache an sich selbst in sofern sie eben so sehr der reine Gedanke ist. “ Hierzu erlauben wir uns aus der Einleitung zur Logik ſelbſt zu fuppliren : In der Phänomenologie des Geistes habe ich das Bewußtseyn in seiner Fortbewegung von dem ersten. unmittelbaren Gegenſaße seiner und des Gegenstandes bis zum abſoluten Wiſſen dargestellt.
+
+Dieser Weg geht durch alle For men des Verhältnisses des Bewußtseyns zum Ob [p. 45] jecte durch, und hat den Begriff der Wissenschaft zu seinem Resultate.
+
+Dieser Begriff bedarf also ( abgesehen davon, daß er innerhalb der Logik selbst hervorgeht ) hier keiner Rechts fertigung , weil er sie daselbst erhalten hat ; und er ist keiner andern Rechtfertigung fähig , als nur dieser Hervorbringung desselben durch das Bewußtseyn , dem sich seine eignen Gestalten alle in demselben als in der Wahrheit auflösen. -Eine raiſonnirende Begründung oder Erläuterung des Begriffs der Wissenschaft kann zum höchſten dieß leisten , daß er vor die Vor stellung gebracht und eine historische Kenntniß davon bewirkt werde ; aber eine Definition der Wiſſenſchaft oder nåher der Logik hat ihren Beweis allein in jener Nothwendigkeit ihres Her vorganges.
+
+Eine Definition , mit der irgend eine Wiſſenſchaft den absoluten Anfang macht , kann nichts anders enthalten , als den bestimmten regelrechten Ausdruck von demjenigen , was man sich zugegebener- und bekanntermaßen unter dem Gegenstande und Zweck der Wiſſenſchaft vorstellt.
+
+Daß man sich gerade dieß darunter vorstelle, ist eine historische Versicherung, in Ansehung deren man sich allein auf dieses und jenes Uner kannte berufen , oder eigentlich nur bittweise beibringen kann , daß man dieß und jenes als anerkannt gelten laſſen móge.
+
+hört gar nicht auf, daß der Eine daher , der Andere dorther einen Fall und Instanz beibringt , nach der auch noch etwas mehr und anderes bei diesem und jenem Ausdrucke zu verstehen, in deſſen Definition also noch eine nåhere und allgemeinere Be stimmung aufzunehmen und darnach auch die Wissenschaft eins zurichten sey. ---- Es kommt dabei ferner auf Raisonnement an , was Ulles und bis zu welcher Grenze und Umfang es hereinge zogen oder ausgeschloſſen werden müſſe , dem Raisonnement aber ſteht das mannigfaltigste und verſchiedenartigſte Dafürhalten offen, worüber am Ende allein die Willkür eine feste Bestimmung abschließen kann.
+
+Bei diesem Verfahren , die Wissenschaft mit
+
+[p. 46] D ihrer Definition anzufangen , wird von dem Bedürfniß nicht die Rede seyn , daß die Nothwendigkeit ihres Gegenstandes und damit ihrer ſelbſt aufgezeigt würde. Der Begriff der reinen Wiſſenſchaft und ſeine Deduction wird in gegenwärtiger Ab handlung also insofern vorausgesetzt , als die Phänomenologie des Geistes nichts anders als die Deduction desselben ist.
+
+abſolute Wiſſen ist die Wahrheit aller Weiſen des Bewußt feyns , weil , wie jener Gang deſſelben es hervorbrachte , nur in dem absoluten Wissen , die Trennung des Gegenstandes von der Gewißheit seiner selbst vollkommen sich aufge löst hat , und die Wahrheit dieſer Gewißheit , so wie diese Gewißheit der Wahrheit gleich geworden ist. “ ( S. 34) .
+
+Hierz nach soll also in dieser Einleitung durchaus nicht die gewöhn= liche Logik zertrümmert werden , auch hat dieselbe nicht den
+
+Zweck , den Begriff der Logik etwa zu begründen , oder den Inhalt und die Methode derselben zum Voraus wissenschaftlich zu rechtfertigen , sondern durch einige Erläuterungen und Re flexionen in raiſonnirendem und historischem Sinne den Gesichts punkt , aus welchem diese Wiſſenſchaft zu betrachten ist , der Vorstellung näher zu bringen. " ( S. 27. )
+
+Wenn also , als der Grundirrthum der gewöhnlichen Logik die vorausgesetzte Trennung zwischen Form und Inhalt , Gewißheit und Wahrheit an gegeben wird , so soll die eigentliche Widerlegung dieses Grund irrthums die Phänomenologie seyn , und dieſe ſoll zugleich den Standpunkt der neuen Logik rechtfertigen. Bachmann versichert nun weiter , daß er mit dem , was in der Einleitung gegen die bisherige Ansicht der Logik vorgebracht werde, nicht übereinstimmen könne, theils weil es auf Mißverständnissen und Irrthümern beruhe , theils neues Unerhörtes an die Stelle des Alten zu ſehen versuche.
+
+Zuerst iſt es nach seiner Ansicht unwahr , daß , wie Hegel meint , die Aristotelische Logik in Verachtung gekommen sey ; vielmehr habe sie [p. 47] den buntesten Wechsel der Systeme von Leibniz bis auf Hegel überlebt ; Fichte und Schelling , welche die gewöhnliche Logik nicht reſpectirt , håtten damit ihren Verfall beschleunigt und daf selbe Schicksal werde die Hegelsche Philoſophie auch haben. Zweiz tens aber soll es offenbares Mißverståndniß oder gar absichtliche Verdrehung seyn , wenn Hegel der Logik vorwirft , sie abstrahire von allem Inhalte und denke sich diesen als eine fertige Welt , welche das leere Denken erfüllend , erst das reale Erkennen er zeuge.
+
+Dagegen seyen alle Logiker auf Seiten des Aristoteles der Meinung gewesen , das Denken sey eine Thätigkeit unseres Geistes , und diese sey an gewiſſe Geseze gebunden ; die Logik sey nun eben die Wissenschaft des Denkens und beschäftige sich mit den Formen dieses Denkens und dessen Gesetzen als den Hierin nun nothwendigen Bedingungen der Wissenschaft. ist Bachmann mit Hegel zum Theil ganz einverstanden , denn in der Einleitung zur Logik heißt es auch : ,, vors erste aber ist es schon ungeschickt zu sagen , daß die Logik von allem Inhalte abstrahire , daß sie nur die Regeln des Denkens - lehre , ohne auf das Gedachte sich einzulaſſen und auf deſſen Beschaffenheit Rück sicht nehmen zu können ; denn da das Denken und die Regeln des Denkens ihr Gegenstand seyn sollen , so hat sie ja unmittelbar daran ihren eigenthümlichen Inhalt , sie hat daran auch jenes zweite Bestandstück der Erkenntniß , eine Matérie , um deren Beschaffenheit sie sich bekümmert" (S. 27) .
+
+Ferner heißt es : ,, dieſe Wiſſenſchaft , in dem Zustande , worin ſie ſich noch befindet , hat freilich keinen Inhalt der Art , wie er als Realitåt und als eine wahrhafte Sache in dem gewöhnlichen Bewußts feyn gilt.
+
+Aber sie ist nicht aus diesem Grunde eine formelle, inhaltsvoller Wahrheit entbehrende Wissenschaft.
+
+In jenem
+
+Stoffe , der in ihr vermißt , welchem Mangel das Unbefrie digende derselben zugeschrieben zu werden pflegt , ist ohnehin das Gebiet der Wahrheit nicht zu´ſuchen. Sondern das Gehaltloſe der [p. 48] logischen Formen liegt vielmehr allein in der Art , sie zu be trachten und zu behandeln.
+
+Indem sie als feſte Bestimmungen auseinander fallen und nicht in organischer Einheit zusammenge halten werden , sind sie todte Formen und haben den Geiſt in ihnen nicht wohnend , der ihre lebendige concrete Einheit ist. Damit aber entbehren sie des gediegenen Inhalts , -- einer Materie, welche Gehalt an sich selbst wåre" ( S. 33 ).
+
+Ferner ist schon in der Phånomenologie der Standpunkt der gewöhnlichen Logik erörtert , in dem Abschnitte von der beobachtenden Vernunft ; hier wird nachgewiesen , wie der Mangel der gewöhnlichen Logik in der Formlosigkeit liege, wodurch ihr Inhalt ein bedeutungsloser und blos formeller werde ( Phån. S. 226 ). Alſo daß die Logik gar keinen Inhalt habe , wird nicht behauptet , sondern daß dieser Inhalt nichts werth sey, weil er auf der vorausgeseßten Trennung von Form und Inhalt beruhe. Es soll nun , um dem umwälzeriſchen Principe der Hegel ſchen Logik zu widerſtehen , der Standpunkt´feſtgehalten werden, von welchem allein aus die Streitfrage in der rechten Beleuch= tung erscheine.
+
+Hier wird nun auseinander gesetzt , wie jede
+
+Wissenschaft eine Einheit von Stoff und Form sey ; dem Stoffe nach seyen die Wiſſenſchaften verschieden , die eine Claſſe derselben nehme aus dem unendlichen Ul größere oder kleinere Stücke zur beſondern Betrachtung mit Abſtraction von den übrigen , und eine zweite Klasse , welches die Philosophie sey , gewähre den Ueberblick über das ganze Gebiet der Wissenschaft.
+
+Form dagegen sey in allen Wissenschaften ein und dieselbe ; jede verknüpfe in gewiſſen Urtheilsformen die Denkobjecte oder Begriffe, um von ihnen etwas zu behaupten , bringe diese Urtheile in einen Zusammenhang oder schließe , erkläre , theile ein u . s. w., kurz jede Wiſſenſchaft müſſe eine nothwendige Form haben , die ihrem Wesen nach nur Eine sey.
+
+Die Wissenschaft dieser idealen Form sey die Logik, und so gefaßt , sey sie nothwen [p. 49] dig und unentbehrlich , und könne jedem Wechsel der Systeme ruhig entgegen sehen ( d. h. mit andern Worten : dieß ist die gewöhnliche Ansicht von der Logik , wonach dieselbe weiter nichts, als die bloße Form enthält , und der reale Inhalt von Auſſen herzutritt diese Ansicht wird eben von Hegel als unspecu lativ bestritten). -- Nun heißt es weiter : was hat nun Hei gel aus der Logik gemacht ?
+
+Hier finden wir gleich im Anfange, die logische Wissenschaft sen die Metaphyſik , der Gedanke fey die Sache an sich selbst , die Logik sey das System der reinen Vernunft, und dieſes die Wahrheit selbst , für sich u. s. w. "
+
+ohne Hülle an und
+
+Daß Hegel dieß unter Logik verstehe , haben wir schon vorher erfahren, und auch gehört , wie ſich gleich im Anfange, außer dem hier Angegebenen , noch mancherlei Anderes finde, z. B. daß in der Einleitung der Standpunkt der Logik nur historisch angegeben werden könne.
+
+Nun wird weiter ges
+
+ſagt, wie Einem in der Dialectik der Logik Hören und Sehen vergehe, wie es Einem vorkomme , als erblicke man den Held Rüdger ; wie ein zauberiſcher Glanz die Jugend leicht besteche , und dieser darin bestehe , daß Hegel den ganzen Inhalt der gewöhnlichen Logik in die feinige aufgenommen habe , aber ihn anders behandle , und außerdem auch vieles Undere mit hineins ziehe , woraus der Schein entspringe , als sey Alles viel specu lativer und tiefsinniger behandelt. Wenn man aber erwäge , daß dieß - Alles_nur_ üppiger Auswuchs sey , welcher auf Der dorbenheit der Säfte ſchließen laſſe , so überzeuge man sich gar bald , daß der Gewinn , welchen die Logik durch diese neue Be arbeitung erhalten habe, den erlittenen Verlust nicht aufwiege. Dieß wird nun an einigen Beiſpielen dargethan , woraus die Unbrauchbarkeit der Hegelschen Logik erhellen soll.
+
+,,Man denke
+
+ſich , ein Jurist aus der Hegelschen Schule ( z. B. Göschel oder Gans , für welche diese Stelle besonders geschrieben seyn soll ) wolle beweisen , daß eine Person , die eines Verbrechens ange [p. 50] klagt worden , unschuldig sey. Wie will er diesen Beweis führen ? In Hegels Logik kommt hierüber keine einzige Regel vor. “ Ganz natürlich dringe sich hierbei der Gedanke auf, wie Hegel wohl zu einer so excentrischen , dem gefunden Menschen verstande so Hohn sprechenden Unsicht von der Logik gekommen fey.
+
+Den Grund hiervon findet Bachmann in der Geschichte der Philosophie.
+
+Hegel ist so , er weiß selbst nicht wie , in den
+
+Irrthum hineingerissen , nach welchem "1 die Vernunft gar nicht mehr unsere menschliche, sondern die göttliche Vernunft, Gott selbst seyn soll , " wodurch denn auch die einzelnen Formen des Denkens , an welche das Leben der Vernunft geknüpft sen , zu Formen des göttlichen Denkens , zu absoluten Kategorien ér 17.Dieß ( nåmlich die Abſolutirung der menschlichen hoben seyen.
+
+Vernunft ) ist das Towтov Vεudos , der Hegelschen Logik, wie des Schellingschen Systems , denn beide große Denker sind hier 1/ im Irrthum. Jetzt scheint es gar nicht mehr möglich zu seyn , die Sache zu umgehen , allein es heißt weiter : „ die Vernunft kennen wir nur aus uns ſelbſt ; ohne uns hier in psycho logische Streitigkeiten über die Seelenvermögen einzulaſſen , dürfen wir doch so viel behaupten , daß Alle darin übereinkommen, Vernunft sey etwas Menschliches , unser Wesen in einer beſondern Aeußerung seiner Thätigkeit gedacht , wie wir es in einer andern Beziehung Verstand , Einbildungskraft, Sinnlich keit u. f. w. nennen."
+
+Das heißt die Nothwendigkeit einer noche maligen Umgestaltung der Philosophie mit schlagenden Gründen beweisen !
+
+Wenn man meint , jenen Grundirrthum durch eine psychologische Untersuchung nachweisen zu können , so muß man sich nothwendig darauf einlaſſen ; hier sich dem Beweise entziehen durch die Berufung darauf, daß Ulle darin übereinkommen , ist eine offenkundige Verzichtleistung überhaupt.
+
+auf alle Wissenschaftlichkeit
+
+Und wer sind denn diese Alle?
+
+auf den bestimmten Sinn ,
+
+Mit Rücksicht welchen hier die Mensch [p. 51] lichkeit der Vernunft haben soll , können wir mit Gewiß, heit nur behaupten, daß unter den Allen Bachmann sich be Nun läugnet Hegel aber nicht. findet, Schelling und aber Bachmann nicht den Ursprung unserer Vernunft aus Gott, noch ihren Zusammenhang mit ihm in diesem Leben , allein weder das eine noch das andere berechtige uns zu einer Vers götterung derselben , immer bleibe sie ein Geschöpf, welches das Licht von Oben empfange , ohne mit dem Urquell deſſelben zu einem Wesen zusammenzuschmelzen.
+
+Hier kommt Einem wirklich der Zweifel an, ob es denn Ernst sey , daß diese Trübheit und Unbeſtimmtheit , diese Bilder von Licht und Quelle , die ebensosehr das Gegentheil von dem ausdrücken können , was man damit sagen will , wirklich eine Instanz bilden sollen , gegen ein System der Philosophie , welches eben damit beginnt , das Verhält niß von Subject und Object durch alle Stationen hin zu verfolgen. -Außerdem habe Hegel den Unterſchied von Verſtand und Vernunft nicht berücksichtiget und die ganze Reflexion, die allgemeinen formalen Denkgesete ohne Weiteres in die Logik aufgenommen, ohne des Antheils zu gedenken , den der Verstand an ihrer Erzeugung nehme. Wenige Seiten vorher hatte Bachmann dagegen erzählt, daß Hegel das aus der gewöhnlichen Logik Aufgenommene ganz anders behandle , und aus der Encyklopådie ſelbſt angeführt, daß das Logiſche der Form nach drei Seiten habe , welche Momente seyen jedes Begriffs , und darunter sey das erste das Abstracte oder Verständige. „ Damit - heißt es denn weiter GAME fällt denn auch die absolute Identität des Denkens und Seyns zusammen , welche zwar Beide , Schelling und Hegel , voraus sehen , aber nirgends beweisen. "
+
+Damit d. h. mit der Vers ficherung Bachmanns , daß die menschliche Vernunft mit dem Absoluten nichts zu thun habe.
+
+Nun aber wird ein Augen blick noch verweilt bei dem Wesen des Denkens , und damit ist wieder die Hoffnung da, daß die Sache berührt werden möchte. 4* [p. 52] wind
+
+Im Denken sey zu unterscheiden , das Denkende als Subject ,
+
+Ich, zweitens das Object , das gedacht wird , und drittens die Art und Weise , wie das Object gedacht werde , die Form des Denkens ; im Ucte des Denkens ſeyen alle drei Momente ver Auch sey das Denken unmittelbar ein Seyn , nåmlich einigt.
+
+des Subjects und dasselbe werde auch mit dem Seyn des Gegenstandes identisch , sobald es denselben nach seinen wesentlichen Bestimmungen denke ; aber diese Identitåt ſey im Idealen selbst, unser Denken werde , wenn es z. B. eine Pflanze denkt , nicht zur realen Pflanze , und die Pflanze auch nicht zum denkenden Wesen , jedes bleibe ein Seyn für sich; die Verbindung des Denkobjects mit dem Denken sey also keine absolute , ewige Einheit,, sondern eine relative , zeitliche , beide seyen trennbar, und wir könnten außer der Pflanze auch mancherlei Anderes denken. -- Hier soll also am Wesen des Denkens selbst gezeigt werden , wie von keiner abſoluten Einheit des Seyns und Denkens die Rede seyn könne , und zwar aus einer einfachen That sache.
+
+Wenn ich eine Pflanze ihrem Wesen nach denke , so ist mein Denken allerdings in Einheit mit dem Seyn , allein dieſe Einheit ist nicht absolut , sondern im Ich selbst ; nichts ist klarer, als daß dadurch , daß Ich eine Pflanze denke , Ich noch keine Pflanze werde, und daß eben so wenig die Pflanze dadurch Ich
+
+Diese einfache Thatsache lehrt offenbar, daß ein sehr des deutender Unterschied zwiſchen Seyn und Denken statt findet ; aber eben diese Einfachheit bringt auch sogleich die Vermuthung mit sich , daß Hegel unmöglich bei der Behauptung der Einheit des Seyns und Denkens , diesen Unterschied habe übersehen können.
+
+Sollte diese Einheit den Sinn haben , daß , wenn ich z . B. eine Pflanze denke , Ich dadurch eine Pflanze werde, so wäre es wenigstens rathſam diese Einheit mit allen Kräften aus einander zu halten.
+
+Für den Anfang der Logik möchte es aber
+
+ſchon hinreichen , wenn wir nur wiſſen , daß wir die Pflanze [p. 53] und alle übrigen seyenden Objecte wirklich denken können , wie fie ihrem Wesen nach sind ; dann haben sie keinen Kern für sich mehr , kein Ding an sich , sondern sind vom Denker durchdrun gen und durchstochen.
+
+Unser Denken mag dann immerhin menschliche Thätigkeit seyn , unsere Gedanken ſind doch noth wendig die Sache selbst, die Pflanze, wie sie ihrem Wesen nach , und nicht ihrem Unwesen nach ist, und eben weil die Pflanze nicht durch mein Denken ihr Wesen bekommt, ſo mag ich immerhin aufhören sie zu denken , sie bleibt an sich und ohne mich vom Gedanken durchdrungen. -
+
+Gegen eine solche Weise aber die Grundprobleme der Philosophie zu 皮 behandeln , würde es unverständlich und von wenigem Nußen seyn , darauf aufmerksam zu machen , daß Hegel nie und nirgends von einer abstrakten , d. h. ununterschiedenen Identität etwas wiſſen will , und daß er selbst oft genug einschärft , daß eben aus diesem Grunde der Ausdruck der Einheit des Seyns und Denkens ein seitig und falsch ſen. Der eigentliche Nerv einer solchen Polemik , das Schlagende derselben , beſteht nur in dem Grandiosen des Mißverſtåndniſſes, und in dem einfachen Kunststück, den Gedankeninhalt des Systems auf eine ungeschickte Weiſe in die sinnliche Vorstellung zu verwandeln. wpack Wenn also z. B. gesagt wird : nach 'Hegel ist Gott zuerst das Seyn , dann verwandelt er sich in Nichts , in das Werden , in die Zahl , den kategorischen Schluß u. s. w. dergleichen nur mit einem Worte zu widerlegen , scheint allerdings nicht zu verlangen , sondern ſolch ein Unsinn braucht nur ganz einfach ausgesprochen zu werden , und Jeder hat das Privilegium ohne Weiteres zu behaupten , es sey Unsinn , und kann dabei der Zustimmung Uller gewiß seyn.
+
+Jedoch ist es auch wieder das Geringste , was man einer Philosophie zutrauen kann, daß sie keinen offenbaren Unsinn enthalte.
+
+Nur wer die
+
+Philosophie überhaupt als eine grenzenlos unnüße Sache des [p. 54] trachtet , hat schon von vorn herein die gehörige Stimmung , dem Berichterstatter , daß schon wieder ein Unfinn ausgebrütet ſey, Glauben zu schenken ; meistens aber wird die Erzählung eines solchen Unfinns , auch bei den der Sache unkundigen
+
+Lesern , die Vermuthung des Mißverständnisses erwecken , und so sollte man denken , låge es auch nahe genug , daß wer in einem philoſophiſchen Systeme solche Verrücktheiten findet , zum Zwei fel an seinem eigenen richtigen Verständnisse kommen müſſe. — Diese , der Sache äußerliche Polemik , hat nicht die Ahnung davon , doß sie mit vorausgesetzten Kategorien verfährt und dieſe an eine Philosophie anlegt, in welcher eben diese Kategorien vollständig kritisirt und ihrer Geltung und Bedeutung nach des handelt werden.
+
+Jedoch ist leicht zu begreifen , wie eine solche
+
+Polemik gegen jede Antwort eine Gegenrede leicht in Bereitschaft haben kann ; sie braucht nur auf ihrem einmal eingenommenen Standpunkte zu beharren , mit Hand und Fuß alles wirkliche Eingehen in die Sache abzuhalten , und das ſchon früher Ges fagte noch einmal zu sagen , vielleicht noch einige Gründe hinzus zuthun, vor Allem aber es nicht an Derbheit und Grobheit wegen der Steigerung fehlen zu lassen.
+
+Schon eine ganz andere Geſtalt gewinnt die Polemik, wenn der Gegner wenigstens bis auf einen gewiſſen Punkt wirklich in die Philosophie , welche er bestreitet , eingedrungen ist, und besonders wenn er weiß , worin einzig und allein die Polemik gegen ein philosophisches System bestehen kann.
+
+Von den Gegs nern Hegels meinen wir hier besonders diejenigen , welche über das Hegelsche Syſtem hinausgegangen zu seyn meinen .
+
+Von ihnen wird das System Hegels nicht blos äußerlich abgehalten und fortgeworfen , sondern es wird die Wahrheit desselben zum Theil anerkannt , und zwar nicht blos in der Bedeutung , daß Hegel auch bisweilen einen guten Gedanken gehabt habe , ſon: dern das System in ſeiner Totalitåt , in ſeiner Grundanſchauung [p. 55] gilt für einen nothwendigen Standpunkt der philoſophischen Ers kenntniß.
+
+Hier zerfällt das System nicht mehr in einzelne Säge, neben welchen die Polemik , wie Randgloſſen , hinläuft , sondern es wird die Totalanschauung deſſelben hervorgehoben ; es wird nicht nur polemiſirt und damit die Nothwendigkeit einer Umge ftaltung bewiesen , sondern es wird zugleich umgestaltet , und zu einem neuen Systeme fortgeschritten.
+
+In diesem neuen Systeme soll denn der Hegelsche Standpunkt als Moment ents halten seyn , und eben darin die Widerlegung desselben bestehen, daß derselbe von seiner Universalität zum Moment herabgefeßt ist. Wie sehr aber auch die Weise 1 dieser Polemik von dem Wirrwar der erſten absticht ; ſo fragt es ſich vor Allem , ob denn auch der wesentliche Kern , die Grundanſchauung des Syſtems, auf welche sich die Polemik bezieht , wirklich getroffen ist.
+
+Ist dieß aber auch nicht der Fall, und ſollte nicht über das Hea gelsche System , ſondern über ein selbst gemachtes Phantom hinausgegangen werden , und sollte das Mißverstehen gerade jenes Kerns der Hegelschen Philosophie vielmehr ein Zurückbleiben auf einem niedrigern Standpunkte ſeyn , über welchen Hegel wirks lich hinaus gegangen ist , so läßt dennoch diese Polemik eine ganz andere, die Wiſſenſchaft wirklich fördernde , Beantwortung zu , als bei einem principlosen Hin- und Hersprechen der Fall ſeyn kann. Wie die Philofophie nur dadurch eine Geſchichte hat , daß der höhere Standpunkt die Principien der ihm vorangegangenen Systeme in ihrer Wahrheit aufbewahrt , ſo iſt jedes philoſophi sches System nicht nur nach außen , ſondern in1 ſich selbst pole: misch , indem es nicht nur ein abstractes Resultat, eine einfache Versicherung aufstellt , sondern ein concretes , sich selbst beweisen des Ganze ist.
+
+Concretes Wissen ist es nur durch den verschie denen entwickelten Inhalt , jedoch wahr ist dieser Inhalt nur in seiner Bestimmtheit und vom Ganzen getragen ; wird er zerſplittert [p. 56] und in dieser Gesondertheit von einander gehalten , werden die einzelnen Momente nicht als solche erkannt, so hören ſie damit auf, wahr zu seyn. Indem die Wahrheit , nicht eine ausgeprägte Münze ist , die fertig gegeben und ſo eingestrichen werden kann“, so enthält das philosophische System auch das , wogegen es polemiſirt und was es widerlegt ; aber indem es jeder Bestimmt heit ihren Platz anweist und in ihrer Endlichkeit erkennt , wird dieſe Endlichkeit und Unwahrheit derselben abgestreift und zum nothwendigen Moment der Substanz selbst erhoben. Die Polemik des Mißverständnisses besteht nun einfach darin , daß sich in ihr ein Princip , welches wesentlich durch seine Einseitigkeit dazu bestimmt ist , nur Moment zu seyn , nicht in seiner Einseitigkeit erkennt, sondern sich gegen das höhere Princip , in welchem es zur Wahrheit verklårt iſt, festhålt ; indem es das höhere concretere in seine Sphäre herabzieht, muß es nothwendig zugleich daſſelbe verkennen , so daß in dieser Polemik beides verbunden ist, das Mißverstehen der bestrittenen Philosophie und das Verkennen seiner selbst.
+
+Jedes philosophisches System wird diese Polemik erdulden müſſen , und je verschiedener und mannigfacher die Standpunkte sind , welche , einer höhern philoſophiſchen Erkennt niß gegenüber , ihre von der Geschichte schon überwundene Eins feitigkeit festhalten , desto bunter und auch verworrener wird die Polemik erscheinen.
+
+i is
+
+4.
+
+weiter
+
+Daß die Hegelsche Philosophie gegenwärtig der Mittel punkt ist, um den ſich das philoſophiſche Intereſſe dreht kann schlechterdings nicht abgeleugnet werden.
+
+Jedoch finden sich in diesem Zugeſtändniß sogleich die beiden åußersten Extreme vor, indem nämlich Einzelne das System Hegels wohl als die totale Bollendung und den Abschluß aller und jeder Philosophie aus gesprochen haben , Einzelne dagegen von dieser Vollendung so wenig wissen wollen , daß sie vielmehr noch den wirklichen An fang der Philosophie erwarten.
+
+Was das Erste anbetrifft, so war bekanntlich Hegel ſelbſt weit von dieſer Anſicht entfernt, jedoch sicherlich noch viel weiter davon entfernt , ſein System, wie Weiße berichtet , für ein bloß nothwendiges Uebel gehalten zu haben, indem er nämlich persönlich ein klares Bewußtseyn über das Unbefriedigende und über den bloß negativen Charakter desselben gehabt haben soll.
+
+Sollte aber der unglückliche Mann wirklich bei dem bloß Negativen und bei dem Schmerze stehen geblieben seyn , wovon er ſonſt gerade nichts wiſſen will , und sein klares Bewußtseyn in aller Stille mit ins Grab genommen haben,** so ist wenigstens so viel gewiß , daß das bloße Reden über die Möglichkeit eines** Fortschrittes gar nichts helfen kann.
+
+So wie mit dem klaren Bewußtseyn über das Unbe friedigende des Syſtems auch ſchon der poſitive Fortschritt noth wendig gegeben ist , so wäre die Sucht , immer und im Galopp hinausgehen zu wollen , weil doch die Menschheit nicht ſtehen bleiben kann , nur ein resultatloses Abarbeiten eines Einzelnen
+
+[p. 58] G
+
+Das andere Extrem aber, gegen die Macht des Weltlaufs.
+
+wonach die wirkliche Speculation noch' gar nicht soll begonnen haben , repråſentirt vorzugsweise Gruppe , welcher zugleich nicht bei dem bloßen Trauern und Jammern und ´thatloſen Hoffen stehen bleibt , sondern Hand ans Werk legt , um die ( Gruppe , Wendepunkt der
+
+Philosophie beginnen zu laſſen.
+
+Berlin. 1834.)
+
+Philosophie im neunzehnten Jahrhundert.
+
+Man könnte vor Allem die Kühnheit eines Einzelnen des wundern, welcher im Stande ist , diese unendliche Vorurtheilsa maſſe, nåmlich die ganze Geſchichte der Philoſophie , mit einem Male von sich zu werfen, indem er in ihr nicht die Entwickelung der denkenden Erkenntniß , sondern nur eine von wenigen Licht blicken unterbrochene Verdichtung im
+
+Irrthum und Unsinn deſſen - höchste Staffel denn mit dem Hegelschen Der Umsturz aber deſſen , was System erstiegen ſeyn soll. erblickt;
+
+bisher für Philosophie gegolten und der Anfang der wirklichen Philoſophie knüpft sich nach Gruppe an die Auffindung der wahrhaften Methode an.
+
+Diese soll an sich nicht neu
+
+ſeyn , ſondern die Naturwissenschaften verdanken derselben den Fortschritt, den sie besonders in neuerer Zeit erlangt haben ; és ist die empirische Methode, welche schon, wenn auch nicht durch greifend , Baco anwendete , welche Goethe so schön + beſchreibt, und auch der jüngere Fichte (das Erkennen als Selbsterkennen §. 158 ff. ) sehr klar angiebt, und ferner auch Hegel in der Phänomenologie und Logik ihrem Standpunkte und ihrer Bedeutung nach darstellt und würdigt. Gruppe aber verlangt , daß diese Methode, deren erfolgreiche Anwendung vor Augen liege, nun . für die Folgezeit streng festgehalten und auf alle Gebiete des Wiſſens ausgedehnt werden müſſe , und erweist außerdem die Richtigkeit derselben aus der Sprache und ihrer Bildung, und aus dem einfachen Acte des Erkennens.
+
+Dieſer iſt nåmlich eine Synthesis verſchiedener vorher iſolirt aufgefaßter Gegenſtånde
+
+´und Erscheinungen ; und zwar geschieht dieſe Syntheſis im Urtheil und erst durch das Urtheilen entstehen die Begriffe , so daß nicht fie, sondern vielmehr die Urtheile das Erste sind .
+
+Mit dem
+
+Wachsen der Erkenntniß åndern ſich auch die Begriffe , so daß fie in fortwährender Fluctuation stehen , und eben darum für nichts weiter zu halten ſind , als für die von uns aufgefaßten Relationen unter den Dingen.
+
+Dieß beweist auch die Bildung der Sprache , und darin zugleich liegt der Erbfehler aller Speculation , daß sie die Begriffe für etwas objektiv Wirkliches an fieht. Die wahre Methode soll nun beobachten, Versuche anstellen und auf die + mannigfachste Weise vervielfältigen und genau kontrolliren , nichts in die Natur hineintragen und aus Begriffen construiren wollen , sondern vielmehr der Natur ihre Geheimnisse abfragen, die Gegenstände und Erscheinungen vergleichen u. s. w. und besonders nicht vergessen , daß die Begriffe nur unsere Beziehungen unter den Dingen ſind. G Indem nun diese Methode von jeher auf dem Felde der Naturwissenschaften an gewandt ist, fo fragt es sich vor Allem, wie es denn möglich fey, sie auf alle Gebiete des Wiſſens auszudehnen , und was wir von ihrer Anwendung auf die Sphären zu erwarten haben, in welchen es nicht gerade erlaubt ist, wie in der Physik und Chemie, mit den leiblichen Augen Beobachtungen und Versuche anzustellen.
+
+Hierüber erhalten wir zunächst vorläufig die Ver ficherung, daß Gruppe ſelbſt die Methode zur Lösung von åſtheti schen und psychologischen Problemen mit Glück angewandt habe; und weiter müſſen wir uns mit einigen Andeutungen sowohl über die nåhere Art dieser Anwendung , als über die F Resultate derselben begnügen. So wird bemerkt , daß das Beobachtungsfeld der Psychologie das unzugänglichste und vers wickelteste sey , und zwar „ liegt das Feld , auf dem wir die Erscheinungen der Seelenthätigkeiten zu beobachten haben , ganz wo anders , als wo dieses Selbstbewußtseyn es sucht , es liegt [p. 60] nicht in dem unmittelbaren Aufmerken auf die gerade vorgehenden Operationen , was an ſich ſchon darum etwas Unmögliches ist, da hier der Geist in einem Augenblick zugleich Subject und Object der Beobachtung seyn müßte , ſondern man hat den Geiſt vielmehr in den Produkten seiner unwillkürlichen Thätigkeit aufzusuchen und zu studiren , wo er allein zugänglich ist.“ Man wird hierdurch an die Kritik der reinen Vernunft erinnert , wo Kant es eine Unbequemlichkeit nennt , daß wir uns des Ichs jederzeit schon bedienen müſſen , um irgend etwas von ihm zu urtheilen.
+
+Allerdings ist das innerste Wesen des Geistes, für sich Subjectobject zu seyn , auch eine bedeutende Unbequem lichkeit für die beobachtende Methode, und wie unbeſtimmt es auch ist , was eigentlich unter der unwillkürlichen
+
+Thätigkeit verstanden werden soll, so ist doch schlechterdings nicht einzusehen, wie die äußere Beobachtung zum Begriffe der für sich seyenden Einheit des Selbstbewußtseyns gelangen will , welche die Freiheit von aller Aeußerlichkeit ist , und offenbar muß die Methode eine ganz andere werden , wenn ſie etwas von der selbstbewußten Freiheit erfahren will , als sie in der Beobachtung der Natur war , indem die Beziehungen , zu welchen die Methode fortgeht, im Geiste nicht bloß für einen Undern und an den Erſcheinungen, sondern für ihn selbst existiren. Erkenntniß aber ist Kant anerkennenswerth."
+
+In Bezug auf die religiöse
+
+, besonders ehrwürdig , klar und
+
+Da sich Gott allen Beobachtungen und allen Versuchen entzieht , möchte es das Gerathenste seyn , in Betreff der Religion Jedem sich selbst zu überlaſſen , indem sich der Beobachtung hier weiter kein Gegenstand darbietet , als der in der Geschichte ausgebreitete Irrthum , aus welchem man höchstens das sich hindurchziehende Gleichbleibende herausnehmen könnte , um es für den Glauben zu retten , der zum Schluſſe doch mit einem abstracten , zufrieden seyn muß.
+
+inhaltslosen Begriffe
+
+[p. 61] Was ferner die Polemik Gruppe's gegen die bisherige
+
+Speculation betrifft , so bezeichnet er oft im Einzelnen sehr scharf und klar deren Mångel ; aber die Philosophie ist nie so blind gewesen , wie er meint , und befindet sich vollends zur jezigen Zeit durchaus nicht in einem bewußtlosen Zustande über sich selbst.
+
+Die einfachste Nachweiſung darüber , daß die
+
+Philosophte sehr wohl weiß , was sie mit den Begriffen will, kann die Darstellung Hegels von den Urtheilen , Schlüſſen und von der Methode des Erkennens geben , und besonders die Abs schnitte der Phänomenologie von dem Verstande, der beobachtenden Vernunft, und vor Allem der Abſchnitt von der Wahrnehmung und Täuſchung des wahrnehmenden Bewußtseyns. am
+
+Hier wird einfachsten das sich widersprechende Benehmen des wahr nehmenden Bewußtseyns dargestellt , worin dasselbe seine Ausz sagen und Gedanken über die Dinge bald als das Wesen der Dinge ansieht , bald von diesen abhält und als bloß seine Gedanken und Beziehungen auf sich zurücknimmt.
+
+In diesem
+
+Schwanken mit sich selbst, meint dasselbe , daß die Philosophie ,, Sie hat in der es nur mit Gedankendingen zu thun habe. That auch damit zu thun , und erkennt sie für die reinen Wesen, für die absoluten Elemente und Mächte ; aber damit erkennt ſie dieselben zugleich in ihrer Bestimmtheit , und ist_darum
+
+Meister über sie , während jener wahrnehmende Verſtand sie für das Wahre nimmt, und von ihnen aus einer Frre in die andere geschickt wird. Er selbst kommt nicht zu dem Bewußtſeyn , daß es solche einfache Wesenheiten sind , die in ihm walten , sondern er meint , es immer mit ganz gediegenem Stoffe und Inhalte zu thun zu haben , so wie die sinnliche Gewißheit nicht weiß, daß die leere Abstraction des reinen Seyns ihr Wesen ist ;
+
+aber in der That sind sie es , an welchen er durch allen Stoff und Inhalt hindurch und hin und her låuft ; ſie ſind der Zu, ſammenhalt und die Herrschaft desselben , und allein dasjenige, [p. 62] was das Sinnliche als Wesen für das Bewußtseyn ist , was seine Verhältnisse zu ihm bestimmt , und woran die Bewegung des Wahrnehmens und ſeines Wahren abläuft.“ (Phånom. S. 98.) Wie die Methode Gruppe's schon längst auf dem Felde der Naturwiſſenſchaften angewandt ist , so ist sie auch hier an ihrer Stelle ; leistet aber auch hier noch weiter nichts , als daß sie für die Philosophie der Natur das Material herbeischafft. Gig Das Mißtrauen der empirischen Physik gegen die Philosophie , welches bekanntlich schon Newton als eine Forderung aussprach , hat sich in den lezten Jahren bei einem großen Theit ihrer Vertreter , besonders durch das ›Mißfallen , welches die Schellingſche Naturphiloſophie bei dieſen erregte , bedeutend gesteigert.
+
+Wie sehr nun aber auch die Un sicht derer von der Natur , welche sich eine Naturphiloſophie verbitten , meist durch ihre Kahlheit und Dürftigkeit von der Schellingschen Auffassung des natürlichen Lebens absticht, und wiewohl von jenem gesteigerten Mißtrauen nicht so sehr Schelling selbst die Schuld trägt , als einige Schüler , in welchen die Naturphilosophie zu einem geistlosen Schematismus ausartete, so kann dennoch allerdings nicht geleugnet werden , daß in jener Ausartung der wesentliche Mangel der Schelling'schen Natur philosophie als Formalismus offen hervortrat.
+
+Wenn nun aber die Vertheidiger der Empirie gegen alle Speculation die Namen Schelling und Hegel ohne Weiteres zuſammenstellen, mit
+
+Schellingſchen
+
+Philoſophie auch die Hegelsche getroffen zu haben meinen , sollten sie auch die Beispiele, gegen welche sie polemisiren , nur aus jener entlehnen , so könnte schon die Vorrede zur Phånomenologie ſie eines Beſſeren belehren ; und innerhalb der philoſophiſchen Wiſſenſchaft ſelbſt ſind wohl nicht leicht Worte von so energischer Wirkung gewesen , als jene kurze Kritik der Schellingſchen Naturphiloſophie , welche Hegel in der Vorrede zur Phänomenologie giebt.
+
+Wodurch aber die
+
+\ 63
+
+―――
+
+Naturphiloſophie Schellings in ihrem Grunde ſchon Formalismus war, ist vorzugsweise das Festhalten des nur quantitativen Unterschiedes ; denn dieser läßt es nicht zur immanenten Ent gegensehung und Entwickelung kommen, ſondern bleibt der Sache ſelbſt ſchlechterdings äußerlich.
+
+Dieſen Formalismus der Schellingschen Philosophie von Grund aus durch die absolute
+
+Form der dialektischen Methode überwunden zu haben, ist die That Hegels , durch welche sein System nicht bloß der empirischen Physik , sondern jeder Wissenschaft trok aller Opposition dagegen eine durchaus neue Gestalt geben muß und Es kann der Formalismus geradezu als Erbfehler aller bisherigen Speculation angesehen werden , und indem die Philosophie sich der in ihrem Wesen begründeten Forderung schlechter dings nicht entziehen kann, daß sie zugleich den Beweis für die Wahrheit ihres Inhalts selbst führe, so kann der Formalismus einzig und allein nur durch die absolute Form überwunden werden , und die Philosophie hört nicht eher auf, Formalismus zu seyn , ehe nicht der Unterschied von Form und Inhalt zur concreten Einheit erhoben ist , so daß eben so sehr gesagt werden kann , daß die Form sich den Inhalt selbst gebe , als auch , daß der Inhalt sich selbst seine Form gebe ; dann erst ist weder das unbegriffene Seyn , noch der bloße Begriff, als abstracte Form der Inhalt der Philosophie , sondern vielmehr der Begriff als die Sache selbst, das begriffene Seyn, welches in jedem Momente Inhalt und Form zugleich ist.
+
+Wodurch nun aber die Schellingsche Philosophie der Opposition der Empirie gegenüber , welche deren Werth mehr nach dem Zuſchuß von poſitiven Kenntniſſen und Entdeckungen maß , und troß der Polemik der Reflexion gegen dieselbe , doch von einem großen Theil ihrer Zeitgenossen mit einer so hohen Begeisterung aufgenommen wurde, ist die Idee der Vernunft, welche Schelling mit prophetischer Kraft
+
+Wahrheit [p. 64] von Allem aussprach.
+
+Nach dieser lebendigen
+
+Einheit der
+
+Vernunft hatte die Zeit in den Fesseln des trennenden Ver standes geschmachtet , und es war keine Täuſchung , wenn die Idee der Vernunft eine ganz andere Auffaſſung der Wirklichkeit, des natürlichen wie des geistigen Lebens , versprach , als man früher hatte erreichen können.
+
+Wie die Schellingſche Philoſophie es aber nie zu einer in sich abgerundeten ´ſyſtematiſchen Geſtal tung bringen konnte, so ist auch eine mehr allgemeine finn und geistvolle Auffassung der Wirklichkeit vorzugsweise der Ein fluß gewesen, welchen die Schellingsche Philoſophie auf verschiedene Zweige der Wissenschaft ausgeübt hat ; und noch jest ist es das Eigenthümliche der aus der alten Schellingschen Schule hervor gegangenen tüchtigen Denker , daß sie eine ſyſtematiſche Gestaltung der Philosophie wenig anstrebend , mit speculativem
+
+Sinn und geistvoller Beredtsamkeit über die Probleme der Philosophie sich aussprechen , ohne aber es über sich gewinnen zu können , sich der Arbeit der Form zu unterwerfen , um den sich in der poetischen Form verbergenden Formalismus zu überwinden.
+
+Wenn auch fürerst langsamer , doch anhaltender und eins und , so zu sagen , ernster als die Schellingsche Philosophie hat die Kantische das Bewußtseyn ihrer Zeit dringlicher , genossen überwältigt.
+
+Hier war es vor Allem die Freiheit des Selbstbewußtseyns , welche in verschiedenen Erscheinungen der Zeit mit aller Gewalt auftauchte , und der Kantischen
+
+Philosophie entgegenkam. In der Freiheit des Selbstbewußtseyns hat die Kantische Philosophie ihre Wahrheit , aber an demselben Punkte zugleich ihre Schwäche ; denn es gelang der sich auf den Chron ſehenden Vernunft nicht , den Inhalt zu reproduciren, den sie als Aberglaube der Geschichte überließ.
+
+Diese abstracte
+
+Freiheit des Selbstbewußtseyns erzeugte auf dem Gebiete der Wissenschaft den theologischen Rationalismus , der ohne Zweifel die wichtigste Gestalt ist , welche aus der Kantischen Philosophie [p. 65] hervorging. Wie wohl aber derselbe ſowohl seiner Wahrheit nach gewürdigt, als auch seiner formellen und materiellen Dürftigkeit nach von der Wissenschaft erkannt und überschritten ist , so hat er sich doch in der Form des gesunden Menschenverstandes durch alle Stufen der geistigen Bildung hindurch gearbeitet, und hier darf er nicht für eine durchlebte Gestalt des religiösen Bewußtseyns angesehen werden ; vielmehr ist es eine der wichtigsten und ernſteſten Fragen der Gegenwart , in welcher Weiſe nämlich der Glaube des Volks , der einerseits durch die freie
+
+Kritik, welche der Wissenschaft zugestanden werden muß, berührt und in seiner unmittelbaren Sicherheit gestört ist , und durch die Frivolitåt Einiger und sollte diese auch als abnorme
+
+Ausgeburt bezeichnet und nicht ohne Warnung und Polemik dagegen dem Volke zu Ohren kommen -an sich selbst irre zu werden droht wie dieser Glaube den Zweifel und die Auf klärung des Verstandes überwinden , und zu höherer Sicherheit und einem neuen frischen Leben sich wiederherstellen wird. Wenn die Kantische Philoſophie durch ihren innersten Kern in die Fichtesche hinüberwieß , und diese durch den bis zur voll endeten
+
+Spike hinaufgetriebenen ſubjectiven Idealismus
+
+Schellingsche Philoſophie vorbereitete und mit Nothwendigkeit den denkenden Geist zu dieser fortführte , so hat dennoch die Kantische Philosophie zur gegenwärtigen Zeit eine nicht geringe Zahl von Anhängern .
+
+Jedoch halten diese das System Kants nicht in seiner ursprünglichen, für den weiteren Fortschritt offenen Gestalt fest , sondern es erſcheint hier mannigfach modificirt ´und mehr oder weniger umgestaltet und zur ſubjectiven Beruhigung In dieser Umgestaltung aber greift die kritische Phi fast nur kritiſirend und recenſirend losophie nur wenig + zubereitet.
+
+in die philoſophiſche Entwickelung der Gegenwart ein , und es sind besonders dieſe Anhånger der kritischen Schule , welche über die Unverständlichkeit und den Unverstand der neuesten Philosophie [p. 66] nicht aufhören zu klagen , und trauernd vor dem reichen philosophischen Leben der Gegenwart stehen, das ihnen fremd geworden
+
+Aber nur dadurch , daß die Kantische Philosophie vollkommen ausgeschöpft und kein ſpeculatives Moment derselben -verLoren gegangen ist , hat dieselbe in ihrer ursprünglichen Form und vollends in der bloß äußeren Umgestaltung keine Bedeutung mehr. Wenn in der Kantiſchen Philoſophie selbst der Verstand die speculativen Momente nicht zu benußen verstand , fie aber auch nicht zu zerstören vermochte , sondern mehr nur in dem dürftigen Reſultate in feiner ganzen tödtenden Kraft hervortrat, ſo besteht die Bedeutung des Herbartschen Systems weſent lich darin , daß es durch und durch System des Verstandes ist. Es ist daher sehr natürlich , daß Herbart von Hegel meinen muß , daß dieser im Widerspruche stecken bleibe , während er selbst den Widerspruch nur durch Abstraction fortzubringen vers sucht.
+
+Herbart verlegt den Widerspruch, wie Kant , in das
+
+Subject, aber geht nicht ohne Weiteres zu dem Resultate fort, daß wir darum das Ding an sich nicht erkennen können ; und nicht das Denken ist es , wie bei Kant , welches durch Unwen dung der Kategorien mit Nothwendigkeit in den Widerspruch geråth und nicht über denselben hinaus kann , sondern das
+
+Denken beginnt vielmehr selbst an der Beobachtung des allſei tigen Widerspruchs , der weder im Object , noch im ſubjectiven Denken verbleiben soll ; denn er selbst ist nur Schein , und die Philosophie seine Erklärung und Lösung .
+
+Wenn nun Hegel durch den Widerspruch hindurchgeht , und dadurch als das höchste Resultat seiner Philosophie das absolute Subject erscheint , welches nicht wie das Endliche durch den Widerspruch zu Grunde geht , sondern absolut in sich selbst unterschiedne und concrete Einheit iſt, ſo erhålt Herbart durch die abſtracte Auf lösung des Widerspruchs zum Resultate nur das kahle Seyn, nur lauter inhaltslose und beziehungslose Punkte. Der Herbartschen
+
+[p. 67] Ins
+
+Philosophie abstract gegenüber steht ,
+
+O nicht die Hegelsche Philosophie , welche dem Verſtande in jedem Moment ſein Recht giebt, ſondern vielmehr diejenige philoſophiſche Richtung , welche an der unmittelbaren Einheit festhaltend alle verständige Scheiz dung und Trennung mit Gewalt abhält. Diese Richtung haben wir in der Gegenwart vorzugsweise bei Troxler.
+
+Die Polemik gegen fast alle bisherige Philofophie bezieht sich hier sowohl auf den Dualismus des Verstandes , als auch auf die concrete
+
+Identität der Vernunft, welche nicht die unmittelbare , sondern vermittelte , den Unterschied in sich schließende Einheit ist ; und dem festgehaltenen Gegensaße von Seyn und Denken , Gewißheit und Wahrheit, Natur und Geist u. f. w., so wie ihrer speculas tiven Einheit, wird die unmittelbare Einheit gegenübergestellt, und im Verhältniß zu dieser die speculative nur als eine scheins bare bezeichnet.
+
+Soll die unmittelbare Einheit wirklich Etwas seyn, so hat sie den Unterschied schon in sich ; indem dieser nicht geleugnet werden kann , aber doch zum Unterſchiede nicht forts gegangen werden soll , kann von jener Einheit von Natur und Geist u. f. f. weiter nichts Bestimmtes ausgesagt werden , sondern es muß beim Gleichsam , bei den so zu sagen
+
+,,sensibeln Gedanken und intelligenten Gefühlen ", bei dem „, übers. finnlichen Geist und übergeistigen Sinn " sein Bewenden haben. Es ist diese Einheit eine ganz besondere Einheit , * eine abſolut unausſprechbare , von der nur gesagt werden kann , daß Ich diese göttliche Einheit befize , und Andere ſie leider durch die Speculation , welche das trennt , was Gott vereint hat "; verloren haben. Im magnetischen Hellsehen aber tritt diese Einheit vor Allem hervor , ist aber zugleich der christliche Glaube des Evangeliums , von welchem die Speculation zur jeßigen Beit tief abgefallen ist.
+
+Wie der sich zum Princip erhebende
+
+Verstand es nur zu todten Einheiten bringt , so kommt der übersinnliche Geist und übergeistige Sinn , gleichsam das 5*
+
+NO [p. 68] übersichtige Sehen, auch nicht zum Begriff des lebendigen Geistes, der wesentlich Vermittelung mit sich selbst, und That: feiner ſelbſt ist, sondern nur zum unbeſtimmten, Gefühl der : Göttlichkeit, zum Ahnen und Deklamiren , und jeder ſpeculative: Gedanke , der sich in den vielen Tiraden findet , ist dem Principe so fremd wie die Speculation überhaupt.
+
+Die Thätigkeit des Scheidens ist die Kraft und Arbeit des
+
+Verstandes , der verwunderſamſten und größten , oder vielmehr der absoluten Macht. DerKreis, der in sich geschlossen ruht, und als Substanz seine Momente hålt, ist das unmittelbare und darum nicht verwünderſame Verhältniß. Über daß das von seinem Anfange ge= trennte Accidentielle als solches, das Gebundene und nur inseinem 3u ſammenhange mit anderem Wirkliche ein eignes Daseyn und abgeſon= derte Freiheit gewinnt, ist die ungeheure Macht des Negativen; es ist die Energie des Denkens, des reinen Ichs. Der Tod, wenn wir jene Unwirklichkeit so nennen wollen , ist das Furchtbarste , und das Todtefestzuhalten das, was die größte Kraft erfordert. Die kraft lose Schönheit haßt den Verstand , weil er ihr dieß zumuthet , was sie nicht vermag .
+
+Aber nicht das
+
+Leben, das sich vor dem Tode scheut und von der Verwüstung rein bewahrt , sondern das ihn ers trågt und in ihm sich erhält, J ist das Leben des
+
+Geistes.
+
+Er gewinnt seine Wahrheit nur , indem er in der absoluten Zerrissenheit sich selbst findet. Diese Macht ist er nicht, als das Positive , welches von dem Negativen wegsieht, wie wenn wir von etwas sagen , dieß ist nichts oder falsch, und nun damit fertig davon weg zu irgend etwas anderem übergehen ; ſondern er ist diese Macht nur , indem er dem Negativen ins Angesicht schaut , bei ihm verweilt.
+
+Dieß Verweilen ist die Zauberkraft, die es in das Seyn umkehrt. — Sie ist dasselbe,
+
+• was oben das Subject genannt worden , welches darin , daß es der Bestimmtheit in seinem Elemente Daseyn giebt, die abſtracte,' [p. 69] d. h. nur überhaupt feyende Unmittelbarkeit aufhebt , und dadurch die wahrhafte Subſtanz ist, das Seyn oder die Unmittel barkeit , 'welches nicht die Vermittelung außer ihr hat , sondern diese selbst ist."
+
+(Phanom. S. 26.)
+
+'Wie diese im Allgemeinen angedeuteten Richtungen der philosophischen Erkenntniß , welche die Gegenwart darbietet , die Wahrheit der Hegelschen Philosophie in keiner für die Wiſſen ſchaft bedeutsamen Hinsicht anzuerkennen geneigt sind , so ist auch ihre Polemik gegen dieselbe meist nur ein Abwehren und Negiren, kein wirkliches Eingehen auf die Sache und auf den Kern des Systems.
+
+Mehr geschieht dieß von denen , welche die Wahrheit der Hegelschen Philosophie zum Theil anerkennend , zugleich über dieselbe hinausgegangen zu seyn behaupten. Das Intereſſe aber, welches die literarische Wirksamkeit dieser Gegner Hegels zum Theil erregt hat , liegt einerseits eben in der Polemik gegen die Hegelsche Philosophie ; und man hört und liest gar nicht selten, daß dieser jener hinlänglich und durchaus befriedigend gezeigt habe , wie der Grundmangel der Hegelschen Philosophie in der Hypoſtaſirung der abſtracten Kategorien bestehe , wie Hegel keinen persönlichen Gott lehre u. s. w. Damit, daß dieß von Andern hinlänglich und befriedigend gezeigt wird , finö Viele ſehr zufrieden , und fast hat es den Anschein , als würden fie selbst nicht anstehen , dieß befriedigend, zu beweisen -- wenn es nicht schon bewiesen wäre.
+
+Gehen wir aber nur einen Schritt über das Factum , daß dieß und jenes bewiesen ist , und über das einfache Resultat , daß Hegel die Kategorien hypoſtaſire 2c. hinaus , und fragen etwa nach der Art des Beweises , nach den Gründen , nach dem Inhalt , gesetzt wird 1 der an die Stelle des Irrthums fo verwandelt sich ohne Weiteres der vorher ertheilte Beifall in offenbaren Zwiespalt , und es bleibt von der Einstimmigkeit nichts weiter übrig , als das einfache Factum, daß Hegel genugsam widerlegt sey.
+
+Es ist auch leicht zu sehen, [p. 70] daß die Polemik der Systeme gegen die Hegelsche Philosophie, welche über dieselbe hinausliegen sollen , in ihrer beſtimm . ten Weise, d. h, insofern sie mehr als eine bloße Versicherung ist , nur von denen in Wahrheit gebilligt werden kann , welche zugleich mit dem weiter aufgestellten poſitiven Inhalt einver. standen sind , und welche ebenso , wie diese Gegner , zugleich die Wahrheit der Hegelschen Philosophie zum Theil begreifen und anerkennen.
+
+Den Zwiespalt aber in dem beſtimmten Inhalte zu vergessen , um die Einstimmigkeit in dem Reſultate nicht zu verlieren , ist ziemlich dasselbe , als wenn ein Historiker , etwa in der Hize des Streites , ſich auf einen Chroniſten beruft , aber im Stillen von + seiner Unglaubwürdigkeit durchaus überzeugt iſt. Ferner aber ist allerdings anzuerkennen , daß jene Gegner Hegels die Probleme , welche die historische Entwickelung der
+
+Philosophie der Gegenwart vorzugsweise zur Lösung gestellt hat, wirklich treffen und angreifen , und daß sie ebenfalls einen
+
+Gedankenreichthum besigen, einen Vorrath von speculativen Ideen, wodurch sie in den Stand gesetzt werden , jene Fragen auf eine der Zeit gemåßere und höhere Weise zu behandeln , als es faſt durchgängig von denjenigen geschieht , welche der Hegelschen.
+
+Philosophie geradezu alle Wahrheit absprechen. Wir stehen aber nicht einen Augenblick an , zu behaupten , daß dieſe Gegner jene höhere Auffassungsweise der philoſophiſchen Probleme vor Allem dem Studium der Hegelschen Philoſophie zu verdanken haben, und ihr Gedankenreichthum nicht in dem vermeintlichen Hinausz gegangenſeyn über die Hegelsche Philosophie liegt , sondern viel mehr innerhalb der Hegelschen Philosophie selbst , und in der Anerkennung ihrer Wahrheit ;
+
+denn das Hinausgegangenſeyn müſſen wir vorläufig als ein Zurückbleiben auf einem niederen Standpunkte bezeichnen. Jedoch kann die Polemik dieſer Gegner gegen die Hegelsche Philosophie immerhin als ein Glück für die Erweiterung der philosophischen Erkenntniß angesehen werden,
+
+[p. 71] -pays indem sie kein anderes Resultat haben wird , als die allgemeinere Erkenntniß über den Mangel und die Einseitigkeit der von der Hegelschen Philosophie überschrittenen Principien , und als das allgemeinere Verständniß des Wesens und der Wahrheit des Hegelschen Systems selbst.
+
+Die Polemik bezieht sich vorzugs weise auf die Resultate der Hegelschen Philosophie , und in der Forderung , welche man an diese macht , sind nicht nur die Gegner und die angegriffene Philoſophie, ſondern zum großen Theil alle philosophischen Richtungen der Gegenwart im Ganzen. einverstanden , weil sie die wesentlichen Aufgaben der Philoſophie überhaupt betreffen. Es wird durch das gegenseitige Aussprechen immer offenbarer hervortreten , daß es weiter nichts als Miß verſtåndniß ist , wenn man in der Hegelschen Philosophie statt jener geforderten Resultate andere nicht befriedigende findet ;
+
+es wird sich zeigen , daß es gerade das strenge Festhalten und die consequente Durchführung der Methode ist , wodurch Hegel die Probleme der Philoſophie auf eine Weise löst , wie es bisher noch nicht geschehen ist , und wie die Gegner der Hegelschen Philosophie durch ihr Zurückbleiben auf einem niederen Stands punkte schlechterdings nicht vermögen , wie diese vielmehr nur scheinbar jene Probleme lösen und mehr oder weniger durch Inconſequenz und unwiſſenſchaftliche Versicherung die verlangten Resultate erzwingen müssen.
+
+Sehr natürlich sind es zuerst die
+
+Resultate , wonach das gewöhnliche Bewußtseyn eine Philoſophie fragt, und diese dienen einem Systeme zur vorläufigen Empfehlung oder schrecken auch den Herantretenden von vorn herein von einem Systeme ab.
+
+Wie es aber der Philosophie nicht erlaubt ist , ihre Resultate voraus festzustellen und dann äußerlich zu begründen und plausibel zu machen , sondern wie vielmehr die Resultate in dem confequenten Gange der ganzen Entwickelung enthalten sind , ſo iſt die wirkliche Erkenntniß der Reſultate auch Erkenntniß der Form und Methode , und die Polemik gegen die
+
+[p. 72] Hegelsche Philosophie wird mit der Zeit nicht nur dazu beitragen, dieselbe immer mehr in alle Zweige des Lebens einzuführen, aus dem sie entnommen ist , sondern wird ihre energische Kraft und Tiefe, welche sie in der absoluten Form der Methode hat, mit so schlagender Klarheit herausstellen , daß jede Wiſſenſchaft den Kern der Hegelschen Philosophie ſich anzueignen gezwungen seyn wird.
+
+Was nun aber die Einwürfe jener Gegner gegen die Hegelsche Philosophie betrifft, so beziehen sich diese nicht auf Punkte, welche das Hegelsche System etwa als unweſentlich nur beiläufig berührt, sondern vielmehr gerade in den Punkten wird von ihnen die Philosophie Hegels angegriffen , in welchen ſie ſich ihrer höchſten Kraft und Vollendung rühmt.
+
+Wenn sie durch die absolute
+
+Form und Methode sowohl den Dogmatismus als allen und jeden Formalismus überwunden zu haben behauptet, so ist es gerade Dogmatismus und Formalismus , deſſen man fie anklagt ; wenn sie weiter es geradezu als ihre Hauptaufgabe betrachtet , das Absolute als
+
+Subject zu begreifen , so wird der Hegelschen Philosophie gerade dieß zum Vorwurf gemacht , daß fie Gott nicht als einen persönlichen auffaſſe ; wenn sie ferner mit der Erkenntniß Gottes als des absoluten persönlichen Geistes die Nothwendigkeit überwunden und zur Freiheit verklärt hat, so wird dennoch von den Gegnern das System Hegels vorzugsweise als ein System der Noth= wendigkeit, nicht der Freiheit , bezeichnet.
+
+Diese Punkte sind es denn besonders , welche wir im Folgenden weiter zu entwickeln haben.
+
+***
+
+[p. 73] 1. Dogmatismus und Formalismus. Phänomeno, Logie und Logik im Verhältnisse zur Philoſophie der Natur und des Geißtes.
+
+Gegenstand. Bunächst ist es also Formalismus , deſſen das Syſtem Hegels beschuldigt wird , und an diese Anklage schließen sich denn zugleich verschiedene andere Punkte an. Es muß uns vor Allem darauf ankommen , den Streitpunkt klar und bestimmt ins Auge zu fassen. Von allen Gegnern der Hegelschen Philoſophie kann uns hier Weiße als Repråſentant dieser Seite der Polemik gelten. Weiße hat schon in ſeinen ersten Schriften dieſe Unklage gegen Hegel ausgesprochen , und wenn gleich von verschiedenen Seiten feine Ansicht als Mißverständniß bezeichnet , erläutert und wider legt wurde, so ist derselbe doch seinerseits im Allgemeinen bet ſeiner früher ausgesprochenen Ueberzeugung beharrt und hat in seinem letzten Werke , der Metaphysik , denn auch Hand ange= legt , dieſem Mangel der Hegelschen Philoſophie poſitiv und von Grund aus abzuhelfen.
+
+In der Vorrede der Metaphyſik erzählt
+
+Weiße die Entwickelung , bisher erfahren hat.
+
+welche sein philoſophiſches Denken
+
+Die formale Wahrheit und die materiale
+
+Unwahrheit der Philosophie Hegels , die gediegene Trefflichkeit der Methode und trostlose Kahlheit ihrer Reſultate drang sich mit gleicher Evidenz meinem Geiste auf und ſpornte denselben an mit Anstrengung aller feiner Kräfte die Lösung dieses Widers spruchs zu suchen."
+
+Anfangs habe er die Lösung in einer äußerlichen Scheidung des Wahren und Unwahren finden zu können gemeint ; er habe nåmlich den Theil , wo die Form und Methode vorherrsche , beibehalten , * den andern verworfen. In einer frühern Schrift nämlich ( über den gegenwärtigen
+
+Standpunkt der philosophischen
+
+Wissenschaft besonderer
+
+[p. 74] Beziehung auf das System Hegels. Leipzig , 1829.) betrachtete Weiße die Logik Hegels ,, als eine Schöpfung , einzig in ihrer Art und durchaus vollendet , bei welcher von einer eigentlichen Kritik nicht die Rede ſeyn könne “ ; machte aber zugleich darauf aufmerksam , daß - was kein Schüler Hegels bis jest bemerkt haben sollte - man auf das Allerschärfste unterscheiden könne zwischen der Logik Hegels und ſeiner übrigen Philoſophie ; daß man ein unbedingter Anhänger der erstern seyn könne , ohne darum mit gleicher Unbedingtheit sich zu der lehtern zu bekennen. 1 In einer spåtern Schrift ( Ueber das Verhältniß des Publicums zur Philosophie in dem Zeitpunkte von Hegels Abscheiden.
+
+Leipzig , 1832. ) meinte Weiße , daß , obwohl in den meisten Hauptzügen mit Hegel übereinstimmend , eine theilweise Umge= staltung der Logik nothwendig sey ; überhaupt würde die Dara stellung der Logik eine ganz andere Farbe und Haltung gewin nen , wenn man von vorn herein darüber mit sich einig sey, daß man es hier mit leeren und abstracten Formen zu thun habe, als wenn man wähne , daß es sich um die einige und höchste Substanz handele. In der Vorrede der Metaphyſik nun legt Weiße dagegen das Geständniß ab , daß er das Unzureichende jenes Theilungsversuches eingesehen, daß eine solche äußere Scheidung zwischen Wahrem und Falschem doch nicht möglich sey; er sey daher veranlaßt , das Fundament zu untersuchen, worauf er ſeinen Neubau habe gründen wollen , und habe daſſelbe lückenhaft , ja fast an jeder Stelle untergraben und. zerfressen gefunden.
+
+Die Metaphysik selbst ist nun die vollbrachte Arbeit des Grundbaues , und an diese haben wir uns vorzugsweise zu halten. —
+
+Der Haupt- und Grundmangel der Hegelschen Philofophie besteht nun nach Weiße einfach darin , daß Hegel die abstract metaphysische Form mit dem concreten Inhalte verwechselt: Die logischen Kategorien , die an sich wesentlich
+
+J [p. 75] nur Form ſind für einen Inhalt , nur Wahrheit ´und Wirklichkeit haben nicht in und durch sich selbst, sondern in und durch ein Anderes , werden für sich für den Inhalt ausgegeben ; @ und zwar nicht für irgend einen Inhalt, den fie durch ihre Form haben mögen , sondern sie gelten geradezu für die abſoz. Lute Wahrheit ; der abstracte Vernunftbegriff oder das reine abstracte Denken mit seinem Inhalte, den es eben an den Kategorien hat, wird so hypostasirt und als Gott felbst aufgefaßt.
+
+Hiermit wird aber der Inhalt der concreten Welt , das Leben der Natur wie des Geistes ins abstracte Denken verflüchtigt : denn nur dieß ist das Wirkliche in allem Dafeyn , alles Undere dagegen nur die trübe Verhüllung
+
+Somit umfaßt also dieser reinen Wahrheit.
+
+die Logik allen wahrhaften Inhalt in sich beschlossen ; und was außer derselben liegt , die Natur und der Geiſt , iſt „ nichts weiter als die besondern , aus einander geriſſenen und zerstreuten Acte derselben Thätigkeit, ´deren Integritåt nur die Logik enthält."
+
+( Ueber das Verhältniß zc. S. 54.) Wenn gleich es daher für den Einzelnen möglich iſt , und „ es jedem Anhånger freisteht , in jene Formbegriffe, die statt des Inhalts gelten sollen , vermeintlich durch denselben reinen Gedanken , der die Begriffe als solche faßt, einen unendlichen Inhalt nach Belieben hinein zu denken ” ( Idee der
+
+Gottheit. 227. ) (wie z. B. auch Göſchel thut , der im Monismus des Gedankens auch die Natur und den Geist schon in der Logik enthalten feyn låßt) — wenn gleich auch bisweilen (docht im Widerspruche mit andern Stellen) geſagt wird , daß Gott: nicht nur Idee, sondern erst als absoluter Geist vollſtändig erkannt .sey - so ist doch nur dieß der wahrhafte Sinn des Systems , daß der reine Gedanke und sein Inhalt, wie er alſo in der Wissenschaft der Logik , erkannt wird , alle - wahrhafte' Wirklichkeit und Gott felbft sey. Daß dieß 1der wahre Sinn' des Systems ist, zeigt sich schon darin, daß in der Vhånomenologie [p. 76] und Encyklopädie die Kunst und Religion als niedere Stufen des geistig Absoluten in das absolute Wissen oder das Wissen der logischen Idee , dialektisch aufgehoben werden………Wenn also Hegel die Hohlheit und Leerheit einer ſonſt wohl beliebten åſthetiſchen Ansicht nachweist , welche die Kunst und Poesie nicht höher ehren zu können meinte, als wenn sie fie zur absoluten Beschäftigung mit sich selbst, zur Poesie der
+
+Poesie verflüchtige , wie er hier selbst einſieht , welchen Frevel diese Ansicht an dem Weltinhalte begeht , indem sie seinen uns endlich gediegenen Reichthum zum bloßen Spiele der phantastischen Willkür herabſeßt , Ironie ausprägt , indem sie sich zu der abſoluten die in dem Bewußtseyn der Nichtigkeit dieses Inhalts und der alleinigen Wahrheit und Vortrefflichkeit ihrer Subjectivitåt besteht - so macht sich Hegel doch desselben Frevels schuldig, indem er nur an die Stelle der Dichtung das Denken, an die Stelle der Ironie die Dialektik seßt. Hierin besteht die trostlose Leerheit der Weltansicht, welche aus der Hegelschen Philoſophie hervorgeht, daß ſie die gediegenen Geſtalten der natürlichen und der geistigen Wirklichkeit in die grau in grau gemalten Schemen
+
+Kategoriengeſpinnste der Logik verwandelt. (Weiße , Geheimnißlehre der Unsterblichkeit. S. 39.) Weiße giebt uns zugleich eine Erklärung darüber , wie die Philosophie in diesen Irrthum gerathen konnte , der ohne das Bewußtseyn über seine Entstehung als der , monströfefte und unerklärlichste “ erscheinen müſſe.
+
+Hegel nämlich gelang es zuz erst, den Inhalt der reinen . Vernunftanschauung durch imma nente Dialektik als die Entwickelung des Begriffs durch sich felbst vollständig zum Bewußtseyn zu bringen.
+
+Die Geschichte der Philosophie und der Metaphyſik insbesondere iſt nun wesentlich das Bewußtwerden der Kategorien , und man könnte mit
+
+Recht mit dem Finden einer neuen Kategorie , d. h. mit dem Treten derselben ins philosophische Bewußtseyn eine neue Periode [p. 77] der Philosophie beginnen.
+
+,, Die Erfinder selbst aber kommen felten dazu , den Ausdruck für die Kategorie uls solche genau abzuscheiden von dem Ausdruck deſſen , was durch die Kategorie als ihr Inhalt eben ausgesprochen 1 wird , oder mit andern Worten, das Bewußtseyn über die Kategorie loszutrennen von dem in der Kategorie enthaltenen Bewußtseyn über die Beschaffen heit ihres concreten Inhalts.
+
+Sie kommen nicht dazu eben darum , weil ſubjectiv in ihrem Geiſte beides unzertrennlich verbunden ist , weil nur die Intensität des durch die Kategorie auszusprechenden Bewußtseyns das Bewußtseyn über die Kategorie in ihnen hervorruft."
+
+(Met. S. 62.)
+
+,, Das System
+
+Hegels ist nun in sich selbst nichts anderes , als der Begriff des dialektischen Processes , genau auf jene realistische Weise, wie bei ihrem ersten Hervortreten sämmtliche Kategorien es waren , zur Idee hypoftafirt , zum absolut concreten Inbegriffe aller positiven und substantiellen sowohl , wie aller negativen und formalen Wahrheit ausgeprägt.
+
+Die Methode ist ihm, was den frühern Systemen bestimmte einzelne Kategorien waren ; er weiß sich als erhaben über alle diese Systeme, weil sein Princip die Macht ist , welche ihre Principien hervortreibt und wiederum aufhebt. Aber , indem es die abſolute Wahrheit dieſes Princips aus seinem Weltbewußtseyn geschöpft hat , geht für es selbst dieses Weltbewußtſeyn in -dem Principe auf; der unendlich reiche Inhalt der Welt verflüchtigt sich zur Methode, zum Formalismus der Wiſſenſchaft.“ (Seite 70.) Dieſem Irrthum der Hegelschen
+
+Philoſophie gegenüber
+
+ſtellen wir sogleich zur nåhern Verdeutlichung die Unſicht Weiße's selbst über den Begriff der Metaphysik.
+
+Die Metaphysik hat zu ihrem Inhalte das schlechthin Nothwendige , daß nicht nicht seyn und nichts anderes seyn kann (S. 19) , welches aber in diesem unbedingten Seyn und dieser seiner Nothwendigkeit den= noch ein Nichtseyendes ist , also ein Seyendes , aber Wesenloses [p. 78] und Unwirkliches.
+
+In dieser Hinsicht kommt die Metaphysik mit der Mathematik überein , in welcher sich dieß schon für das gewöhnliche Bewußtſeyn kund giebt ; indem nåmlich der Inhalt der Mathematik auch wahr ist und nothwendig nicht anders 营业 feyn kann , aber dabei doch nicht für ein Wirkliches , 1 sondern vielmehr für ein Unwirkliches gilt. Bestimmter sind die abs ftracten Algemeinbegriffe oder Kategorien der wesentliche Gegenstand der Metaphyſik ; dieſe hat dieſelbe in ihrer Totalität, in ihrem gegenseitigen Verhältnisse oder in der Idee zu entwickeln. Das Wesen der Kategorien aber besteht besonders darin , daß fie einerseits als der wesentliche Inhalt der Bernunft -nothwendige Formen sind für alles Seyende, und als solche absolute Bedeutung für den Andererseits menschlichen wie göttlichen Geiſt^ haben. aber sind sie in ihrer Nothwendigkeit J nur das negativ Absolute , Begriffe , deren Wahrheit wesentlich darin besteht, nicht sich selbst, sondern ein Anderes und nur im Undern sich selbst zu bejahen ; ihre Wahrheit also ist keine reale, sondern formale,
+
+Die Metaphysik ist also wirklich ein Schatten reich , wie Hegel ſeine Logik nur in einem Anfalle von humoris stischer Laune nannte, indem sie das an und für sich Leere und Wesenlose zum Inhalte hat. Bei diesem Begriffe der Kategorie aber ist besonders die Vorstellung von einer außern Form zu entfernen.
+
+Die Vorstellung einer åußern Form hat z. B. die
+
+Mathematik , wenn sie sich vorstellt , Raum und Zeit können auch seyn , ohne daß der Inhalt wäre , der in ihnen enthalten ist. Die Metaphysik scheint zwar dasselbe zu behaupten , wenn ſie ihre formalen Kategorien für nicht nicht seyn könnende, den concreten Inhalt derselben aber für einen auch nicht seyn könnenden erklärt, und die wissenschaftliche Betrachtung der erstern von der wiſſens schaftlichen Betrachtung des lehtern abſcheidet.
+
+Allein dieſes
+
+Seyn , welches nicht nicht seyn kann , ist ihr ſelbſt das Negative und Nichtige.
+
+Diese Formbestimmungen sind wirklich leer,
+
+[p. 79] Dep so lange sie noch durch keinen Inhalt erfüllt sind. Die Metaphysik läßt daher die Form in dem Inhalte sich aufheben , sich als seyend nur für den Inhalt und in dem Inhalte sehen.
+
+ist also von keiner außern , sondern von einer immanenten Form die Rede.
+
+Das Nichtnichtseynkönnen der Form , die als immanent gefaßt wird , hat also philoſophiſch nur die Bedeutung einer * Unentbehrlichkeit der Form für jeden ! denkbaren Inhalt : einer schlechthin nothwendigen Bestimmtheit oder Beschaffenheit, nicht dieser oder jener bestimmten , sondern jeder möglichen
+
+Wirklichkeit. Dieser gegenüber wird die Freiheit oder das Auch " andersseynkönnen 4 des Inhalts nicht in einer Aeußerlichkeit gegen die Form , oder in einer Unabhängigkeit von der Form bestehen , sondern sie kann dem Inhalte nur durch die Form, als welche in ihrer Vollendung eben die Form der Freiheit ist, gegeben , und nur unter Voraussetzung der Immanenz der Form in ihm vorhanden seyn.
+
+(S. 54 ff.)
+
+Es würde überflüssig seyn , die Gegner für jetzt einzeln zu vernehmen ; im Allgemeinen stimmen in dieser Anklage Fichte, Stahl, Schelling und Andere mit Weiße überein.
+
+Die Sache ist also einfach diese : Nach Hegel ist der Gedanke als System des Logischen das Absolute und einzig wahrhaft Wirkliche.
+
+Gott selbst ist nichts weiter , und die Natur und der Geist sind gegen diese absolute Wirklichkeit des Logischen nur Unwirkliches und Wesenloses. So wird also aller Inhalt der Wirklichkeit in die reine Form des Gedankens verflüchtigt , und dieser Irrthum ist nur erklärlich aus einer Hypostase der Kategorien, die eben erst durch diese Hypostase an und für sich Wirklichkeit MOTLAR erscheinen würden, bekommen , während sie ohne diese als das was ſie ſind , nåmlich als an und für sich weſenlose Formen für das Wirkliche.
+
+[p. 80] Phänomenologie. Faſſen wir zunächst die eine Seite der Logik auf, nach welcher sie das absolute Wahre zu ihrem Inhalte haben foll , so fragt es sich vor Allem , mit welchem Rechte können wir dieß behaupten ? wie wird es begründet , daß der Inhalt des freien Denkens absolute Bedeutung
+
+Geltung hat ?
+
+Wenn ** die Logik mit der Abstraction von allem unmittelbar
+
+Gegebenen, mit dem reinen Seyn beginnt , so mögen wir uns diese Abstraction immerhin gefallen lassen : aber wie geht es zu, daß der Inhalt, entwickelt, der sich aus dieser vorläufigen Abstraction nicht bloß unser subjectiver Gedanke, al eine willkürliche phantastische Gedankenwelt ist und bleibt ? Denn die Forderung von allem Gegebenen zu abstrahiren , iſt nicht schon zugleich der Beweis , daß das Reſultat dieser Abſtraction irgend eine objective Bedeutung habe.
+
+Es wird hier nicht der Beweis irgend einer einzelnen logischen Bestimmung oder Kategorie verlangt, sondern der Standpunkt der Logik überhaupt soll gerechtfertigt werden. die Phänomenologie des
+
+Dieß geschieht durch
+
+Geistes , welche Wiſſenſchaft der Erfahrung des Bewußtseyns ist ; diese geht also der Logik vorher und vermittelt und begründet den Anfang derselben. Logisch ist der Anfang , indem er im Elemente des frei für ſich seyenden Denkens im reinen Wissen gemacht werden foll. Vermittelt ist er hiermit dadurch , daß das reine Wiſſen die lehte absolute Wahrheit des Bewußtseyns ist. Es ist in der Einleitung bemerkt, daß die Phänomenologie des Geistes die Wissenschaft des Bewußtseyns, die Darstellung davon ist, daß das Bewußtseyn den Begriff der Wiſſenſchaft, d. i. das reine Wiſſen zum Resultat hat. insofern Geistes zu
+
+Wissenschaft ihrer
+
+Die Logik hat erscheinenden
+
+Voraussetzung ,
+
+Nothwendigkeit und damit den Beweis der Wahr .
+
+[p. 81] heit des Standpunkts , der das reine Wissen ist, wie dessen Vermittelung überhaupt , enthält und aufzeigt."
+
+Log. I. , p . 61.
+
+11 Das reine Selbsterkennen im absoluten Undersſeyn , die. fer Wether, als solcher, ist der Boden der Wissenschaft oder das Wissen im Allgemeinen.
+
+Den Anfang der Philoſophie macht die Voraussetzung oder Forderung , daß das Bewußtseyn ſich in diesem Elemente befinde.
+
+Aber dieses Element erhält feine Vollendung und Durchsichtigkeit selbst nur durch die Des wegung seines Werdens.
+
+Es ist die reine Geistigkeit , als das
+
+Allgemeine , das die Weise der einfachen Unmittelbarkeit hat ; - Dieß Einfache , wie es als solches Existenz hat , ist der Boden, der Denken , der nur im Geiste ist.
+
+Weil dieses Element , diese Unmittelbarkeit des Geistes , das Substantielle über haupt des Geistes ist , ist sie die verklärte Wesenheit , die Res flexion, die selbst einfach, die Unmittelbarkeit als ſolche für sich iſt, das Seyn, das die Reflexion in ſich ſelbſt iſt. Die Wiſſenſchaft ver langt von ihrer Seite an das Selbstbewußtſeyn , daß es in dieſen Aether sich erhoben habe, um mit ihr und in ihr leben zu können. Umgekehrt hat das Individuum das Recht zu fordern, daß die Wissenschaft ihm die Leiter wenigstens zu dieſem Standpunkte reiche, Dieß Werden der ihm in ihm selbst denselben aufzeige. Wissenschaft überhaupt, oder des Wissens ist es , was die Phänomenologie des Geistes darstellt.
+
+Das Wiſſen , wie es zuerst ist , oder der unmittelbare Geiſt, iſt das Geiſtloſe, das sinnliche Bewußtseyn.
+
+Um zum eigentlichen Wiſſen zu werden , oder das Element der Wissenschaft , das ihr reiner
+
+Begriff selbst ist , zu erzeugen , hat es sich durch einen langen Weg hindurch zu arbeiten.
+
+Dieses Werden , wie es in seinem Ins halte und den Gestalten , die sich in ihm zeigen , sich aufstellt , wird nicht das ſeyn , was man zunächst unter einer Anleitung des unwissenschaftlichen Bewußtseyns zur Wiſſenſchaft sich vor.
+
+stellt; auch etwas anderes als die Begründung der Wissenschaft ; so ohnehin , als die Begeisterung , die wie aus der Pistole geschossen mit dem absoluten Wissen un mittelbar anfångt , und mit andern Standpunkten dadurch schon fertig ist , daß sie keine Notiz das von zu nehmen erklärt. - Die Aufgabe, das Individuum von seinem ungebildeten Standpunkte aus zum Wiſſen zu führen, war in ihrem allgemeinen Sinne zu faſſen , und das allgemeine Individuum , der selbstbewußte Geist in seiner Bildung zu be trachten. “ ( Phån. S. 20. 22). Wenn Bachmann versichert , Hegel habe die Einheit des Seyns und Denkens vorausgesetzt , ja sogar herausbringt, Hegel habe die Phänomenologie zurückgenommen , so kann man ſich darüber weiter nicht wundern ; aber unbegreiflich ist die Oberflächlichkeit, mit welcher ein Mann wie Fichte, - der sein Sy: stem als das einzig zeitgemäße ankündigt , und vorerst über die bisherige Gesammtleistung der Philosophie im weitesten Sinne Abrechnung halten will in der Darstellung des Hegelschen
+
+Systems gradezu die Existenz der Phänomenologie ignorirt. Eine objective Richtung wird von ihm einer subjectiven gegenübergestellt und die Hegelsche Philosophie zur erſten gezählt, inſofern ſie die Identität von Seyn und Denken wie Carteſius , Spinoza voraussehe, und ihr eine Theorie des Bewußtseyns , des Erkennens fehle.
+
+Bei jeder Gelegenheit wird bemerkt , wie der
+
+Anfang der Logik , das Seyn nicht Unfang seyn könne , weil er Vermittelung voraussetze , als wenn Hegel nicht Alles dieß mit der größten , ein Mißverständniß gar nicht zulassenden , Bestimmtheit auseinandergeſeßt håtte , und die Phänomenologie nicht exiſtirte , von welcher man , wenn man über die Geſammtleiſtung der Philoſophie Abrechnung halten will , doch wenigstens so viel bemerken müßte , daß das absolute Wissen hier als Resultat mannigfacher Vermittelungen erscheint.
+
+[p. 83] Es ist das Eigenthümliche der speculativen Philosophie von Cartesius bis zu Kant hin , daß sie vorausseßt , daß durch das Denken die Wahrheit erkannt werde, und in diesem unbefangenen Vertrauen geht das Denken im Glauben' feiner Kraft und seiner Einheit mit dem Seyn unmittelbar an die Erkenntniß der objectiven Welt.
+
+Der Zweifel des Cartesius erstreckt sich nicht bis so weit , diesen Glauben zu zerstören , sondern ist selbst schon die Gewißheit des freien Denkens von ſeiner durchdringenden , den Dingen auf den Grund kommenden Energie, und wie wohl Cartesius alles Wissen von der Erkennt niß Gottes abhängig macht , so seht er doch mit dem Begriffe Gottes die Existenz zugleich voraus , und im Vertrauen auf das wahrhaftige Wesen desselben spricht er als Princip den Sat aus was ich klar und deutlich einsehe , ist wahr. Diese Voraussetzung der Einheit des Seyns und Denkens hebt die kritische Philosophie , welche ihrerseits durch die Empirie und den Skepticismus vermittelt ist, sogleich durch die Forderung auf, daß vor Allem untersucht werden müſſe , ob der menschliche Geist die Wahrheit erkennen könne, oder nicht. Das unbefangene Vertrauen des Cartesius , das Gott uns zur Erkenntniß der Wahrheit geschaffen , ist verloren gegangen , und der Geist reflectirt sich in sich selbst, und macht vor Allem ſich und fein Erkennen zum Gegenstande der Untersuchung. Es ist anzuerkennen , daß das freie Denken , ſeinem Begriffe gemäß , jene unbefangene Vorausſeßung des Carteſius aufheben und seinen Zweifel an Allem vollenden muß.
+
+Die Forderung , daß die Philosophie zunächst beweise , daß das subjective Den ken die Wahrheit erkennen könne, darf also unmöglich um gangen werden.
+
+Lassen wir aber vorerst die Schwierigkeit und die Methode dieses Beweises bei Seite liegen ; so war das Resultat der Kritik der reinen Vernunft ein Dualis. mus zwischen Seyn und Denken , nicht die Erkenntniß der obs 6* [p. 84] jectiven Wahrheit selbst , sondern vielmehr die Gewißheit , daß das Denken an sich subjectiv die objective Wahrheit als das Ding an sich nicht erkennen könne.
+
+Allein in dem abſtracten
+
+Gegensatze zwischen noumenis und phaenomenis , zwiſchen der ſubjectiven Erkenntniß und dem Dinge an ſich , liegt ein ſo auf fallender Widerspruch , daß derselbe unmöglich lange verborgen bleiben konnte ; nämlich einfach der , daß eine Schranke der Er kenntniß behauptet , aber damit auch sogleich über diese Schranke hinausgegangen wird .
+
+Ist das Denken wirklich rein subjectiv , so kann es auch nicht zu der Vorstellung des Dings an sich fortgehen , kann von dieſem ſchlechthin nichts vernehmen , und sollte dieses auch nur ein Grenzbeġriff ſeyn ; ſondern dieſe reine Objectivität des Dings an sich ist selbst von der Subjectivität des Denkens afficirt .
+
+Es wird also vor Allem darauf ankommen , diesen Widerspruch fortzuräumen , und roie Alles Andere so auch das Ding an sich dem subjectiven Ich zu vindiciren. Dieß geschah in der Wissenschaftslehre von Fichte. Allein zur Erklärung der Vorstellung bedarf die Theorie der Annahme eines unerklärlichen Anstoßes auf die unendliche Thås tigkeit des Ich .
+
+Nun wird allerdings festgehalten , daß dieſes
+
+Nicht - Ich , von welchem der Anstoß ausgeht , erst durch das Ich Realität bekomme , daß es überhaupt für das Ich kein reines Leiden gebe , sondern alles Leiden nur eingeſchränkte Thå tigkeit sey ; allein dieſe Unbegreiflichkeit des Anstoßes iſt doch wieder die Annahme eines unerkennbaren Dinges an sich, und dieß wird durch die Forderung der practiſchen Vernunft , das Nicht - Ich schlechthin zu bestimmen , nicht fortgeschafft , sondern durch den unendlichen Progreß , worin das Nicht - Ich sich dem Ideale des Ich unendlich nåhern , aber nie gleich kommen soll, wird der zu lösende Gegensaß vielmehr als unauflösbar firirt. Allein es ist schon von vornherein bei der Voraussetzung , daß Ich und Nicht.Ich ſchlechthin und in Allem von einander verſchie [p. 85] den seyn sollen , ein vergebliches Bestreben , beide zu vereinigen ; jedes ist rein für sich, und die Ueberwindung dieses voraus angenommenen Dualismus kann nur die gewaltthåtige Vernichtung der einen Seite des Gegenſages ſeyn .
+
+Dieſen ſubjectiven
+
+Idealismus der Reflexion durchbrach Schelling , indem er wieder den Gedanken einer objectiven , der Natur und der Welt immanenten Vernunft festhielt ; hierdurch erst , indem nicht nur das subjective Ich Vernunft hat, sondern eben so sehr auch das Nicht . Ich in seiner ganzen Ausbreitung von der Vernunft durch drungen ist, schwindet der abstracte Gegenſaß und ein wirkliches Erkennen wird möglich.
+
+Allein mit dieser Ueberwindung der Reflexion trat zugleich die Möglichkeit ein, in die Vorauss fehung des Cartefius zurückzu fallen. Dieß war nun zum Theil wirklich, bei Schelling der Fall. Die intellectuelle Unſchauung, für welche der mit dem Bewußtseyn gegebene Gegensatz zwischen Subject und Object verschwindet , ist allerdings nicht mehr das unbefangene Vertrauen des Cartesius , sondern hat die Erinnerung der im Dualismus befangenen Reflexion ; aber deſſen ungeachtet wird ſie wiſſenſchaftlich nicht als nothwendig begründet , ſondern nur construirt und poſtulirt.
+
+Es ist wieder erlaubt , wie Spinoza , mit einer Definition unmittelbar anzufangen :
+
+„ Ich nenne Vernunft die totale Indifferenz dez
+
+Subjectiven und Objectiven" ; und es wird nur gezeigt , wie man dazu gelange , die Vernunft so zu denken , und dann es Jedem zugemuthet , sie ebenfalls sich so denken zu können. Der Beweis für die Wahrheit dieser Anschauung , welche die ganze Kantische Philosophie über den Haufen wirft , ist wirklich nur der carteſiſche Sah : was ich klar einſehe , ist wahr. Bugleich tritt die mathematische Methode wieder ein, aber auch nicht so unbefangen , wie bei Spinoza , sondern mehr vor läufig , sogar der Kürze halber.
+
+Dieß ist denn die Begei fterung , die , wie aus der Pistole geschossen , mit dem absoluten
+
+Wissen unmittelbar anfångt und mit andern Standpunkten das durch schon fertig ist , daß sie keine Notiz davon zu nehmen er Flårt ; - hier ist die Kantische Forderung , daß vor Allem unters fucht werden solle , ob wir die Wahrheit erkennen können oder nicht , nur als unphilosophisch abgewiesen und die Kritik übers sprungen. Dieß ist nun zunächst die Aufgabe der Phas nomenologie, die Versicherung jener Definition der abſoluten Vernunft aufzuheben , den Standpunkt , der dort als intellectuelle Anschauung erscheint , nicht blos zu fordern , sondern als nothwendig zu beweisen ; nicht mit einem Sprunge in das abſolute Wissen sich hineinzuſeßen , ſondern „ durch die kalt fortschreitende Nothwendigkeit der Sache" dasselbe zu begründen. Die Phänomenologie tritt also zunächst an die Stelle der Kritik der reinen Vernunft , und es fållt Hegel nicht ein , wie unter Undern Troxler meint , durch einen bloßen Wit , ( daß nemlich die Behauptung , der Gebrauch des Erkenntnißvermögens sey erst nach erlangter Erkenntniß desselben zu gestatten, dem Vorschlage jenes Scholaſtikus gleiche , der nicht früher ins Was= ser zu gehen sich vornahm, bis er das Schwimmen erlernt ) die einseitige Ansicht der Kantischen Philosophie abzufertigen,,, um ſich damit die Bahn zu seiner zügellosen Ungebundenheit zu brechen, und mit der Speculation auf den Stand der Dinge zurückzukehren , wie er geweſen , als die Philoſophie geradezu nur auf Erkenntnißgegenstände ausging ; " und gerade im Gegenſaße zur Auffassung Fichte's ist Hegel nicht dahin zu chas racteriſiren , daß er nur der objectiven Richtung , der Specula tion angehöre, sondern vielmehr dahin , daß er die ſubjective und objective vermittle. Allerdings hat die Phänomenologie ein anderes Reſultat als die Kritik der reinen Vernunft -
+
+ſie widerlegt gradezu diese ; wenden wir uns also zu der Art und Weise , wie die Kantische Frage , ob die Wahrheit erkannt werden könne oder [p. 87] nicht, zu beantworten ist , so fållt zunächst die Schwierigkeit dieser Untersuchung leicht in die Augen.
+
+Vor allem tritt die
+
+Gefahr ein , daß in dieser Untersuchung doch wieder mancherlei Unbewiesenes vorausgesetzt werden möchte , ja daß , wie früher , die Einheit des Denkens und Seyns vorausgesetzt wurde, nun wohl gar der unüberwindliche Gegensatz von Denken und Seyn vorausgesetzt werde ; dann wäre es nicht zu verwundern , wenn die Untersuchung , auf dieser Vorausseßung beruhend , auch den Dualismus , daß durch das Denken die objective Wahrheit nicht zu erkennen sey, zum Resultate håtte.
+
+Wenn ich frage, ob ich die Wahrheit erkennen kann oder nicht , ſo läugne ich die Existenz der Wahrheit an und für ſich nicht , sondern sehe vielmehr die Existenz derselben außer mir voraus , und stelle zunächst nur in Zweifel , ob diese objectiv seyende Wahrheit auch für mich ist , von mir gewußt werden kann .
+
+Wollen wir diese Frage dadurch beantworten , daß wir uns zunächst auf uns hinwenden , auf unser Erkenntnißvermögen , und dieses unter ſuchen und kritisiren , ob es seiner Natur und seinem Wesen. nach zur Erkenntniß der Wahrheit fähig sey , so ist es nicht eine bloße Ungeschicktheit des Ausdrucks , sondern wirkliche Schwierig keit , daß wir das Erkenntnißvermögen nicht anders als eben erkennend , nur durch sich selbst ergründen können ,
+
+Wenn wir verlangen , daß der Geist voran sich selbst erkennen , und dann erst an die Erkenntniß der objectiven Wahrheit gehen solle , so sehen wir geradezu voraus , daß die objective Wahrheit für ihn ein Geheimniß bleiben muß.
+
+Denn indem ich zuerst mich selbst erkenne und dann die objective Wahrheit , erkenne ich mich zuerst, wie ich im Gegenſaße zu derselben , verlassen von ihr bin : ich reiße mich und mein Denken von der Objectivität der Wahrheit los, und mache mich zur endlichen Subjectivität da ist es ganz natürlich , daß ich in diesem , von der objectiven Wahr heit verlassenen Erkenntnißvermögen nur Endlichkeit finde und [p. 88] die Unmöglichkeit, die Wahrheit zu erkennen.
+
+Das aber habe ich nicht weiter bewiesen , sondern in der Art und Weise der Untersuchung nur vorausgesetzt.
+
+Vielmehr würde sich dagegen der umgekehrte Weg des Cartefius empfehlen , vor Allem Gott zu erkennen , und dann erſt mit dieser gewonnenen Erkenntniß Gottes sich an die Erkenntniß des Menschen zu wenden , denn offenbar werden wir nur erst durch die Erkenntniß Gottes auch uns im Geiste und in der Wahrheit erkennen können ; und wie die Erkenntniß Gottes als der absoluten Wahrheit erst die wirkliche Erkenntniß unserer selbst begründen kann , so muß das bloße Selbsterkennen , ohne die Erkenntniß Gottes , Gott in eine unerreichbare Ferne zurückstoßen , und dieſe Unmóg lichkeit , Gott zu erkennen nothwendig auf die Erkenntniß unserer selbst zurückschlagen , so daß , wenn wir zuerst uns , und dann Gott erkennen wollen , wir weder Gott noch auch uns ſelbſt in Wahrheit werden erkennen können.
+
+Mit der Erkenntniß Gottes aber unmittelbar anzufangen , geht auch nicht, weil wir daz mit eben das , was wir beweisen 1 sollen , schon voraussehen würden. - Oder wollten wir den Gegensatz , woraus hier die Schwierigkeiten hervorgehen , ganz und gar fortlaſſen und nicht ſagen , daß wir zuerst uns erkennen sollten und darauf die objective Wahrheit , sondern nur überhaupt fordern , daß wir damit anfangen müßten , uns selbst zu erkennen , von einer ob, jectiven Wahrheit im Gegenſaße zu unserm Erkennen dürfe noch gar nicht die Rede seyn , sondern dieß müsse sich Alles aus der Selbsterkenntniß erst ergeben so ist offenbar mit dem bloßen Verschweigen des Gegensatzes nicht viel geholfen , vielmehr ist damit gerade die Forderung, um die es ſich handelt, nämlich nicht unmittelbar zuzugreifen, zurückgewiesen. Wo wir uns mit unserm Erkennen zuerst hinwenden , scheint keinen Unterſchied zu machen , weil wir , indem wir fordern , uns selbst zu erkennen , d. h. natürlich wie wir in Wahrheit sind , immer vorausseßen , [p. 89] daß die Erkenntniß der Wahrheit auch möglich sey . Oder wollten wir noch weiter gehen , und in dem anfänglichen Selbſterkennen die wirkliche Erkenntniß und die Behauptung , daß sie möglich oder nicht möglich sey, zunächst ganz und gar abhalten und rein empirisch verfahren , nur einfach die Thatsachen unseres Bewußta feyns aufsuchen und ohne Weiteres hinstellen so kámen wir auf diese Weise offenbar gar nicht vom Flecke.
+
+Fånde sich unter diesen Thatsachen dann etwa auch die , daß wir die Wahrheit nicht erkennen können , ſo ginge eine solche Thatsache nicht über eine einfache Versicherung hinaus ; und die Definition der abs foluten Vernunft als der Indifferenz des Subjectiven und Ob jectiven kann wenigstens den Anspruch machen , eine einfache Versicherung zu seyn. Sollte aber diese Thatsache dem Bewußtseyn allgemein angehören , ſo kåme mit dieser Allgemeinheit auch die Nothwendigkeit hinein , welche mit der Berufung auf eine Thatsache nicht bewiesen werden kann. -
+
+In Bezug auf diese Schwierigkeiten verhält sich die kritische Philosophie ganz unbefangen, und ist eben darum bei allen tief speculativen Blicken auch voll von unbewieſenen Voraussetzungen und Verſicherungen. / Es fragt sich aber , wie es möglich sey , dieſe Schwierigkeiten zu heben.
+
+Diese liegen vorzugsweise darin , daß die
+
+Frage , ob die Wahrheit erkannt werden könne oder nicht, nicht ohne Voraussetzung scheint beantwortet werden zu können , und doch ist die eigentliche Bedeutung dieser Forderung eben die, daß die Philosophie nichts voraussehen solle.
+
+Es würde aber
+
+Keinem einfallen , eine solche Forderung an die Philoſophie zu thun , wenn sie etwas unmittelbar Gegebenes wåre ; da ſie aber dieß ihrem Begriffe nach nicht ist , so soll sie auch nicht unmittelbar zu Werke gehen , also nicht willkürlich anfangen, sondern selbst ihren Begriff als freies Denken und Erkennen der Wahrheit als nothwendig beweiſen.
+
+Es kann dieß nicht anders geſchehen , als daß sie nicht von sich , ſondern von ihrem Nichts [p. 90] feyn , von der Unmittelbarkeit anfångt , und nachweist , wie diese durch sich selbst über sich zum freien Denken hinausführt.
+
+ſcheint dieß etwas ganz Anderes zu feyn , als die Beantwortung der Frage, ob die Wahrheit erkannt werden könne oder nicht ; ist aber doch die einzige Weise , diese Frage zu beantworten, ohne die Antwort selbst schon vorauszusehen. unmittelbaren Bewußtseyn den
+
+Wir finden im
+
+Gegensatz zwischen
+
+Subject und Object vor.
+
+Kann aber das Denken die Wahr heit erkennen , so ist der Unterschied zwiſchen dem ſubjectiven Denken und dem objectiven Seyn kein unüberwindlicher Gegensat; zeigt sich also dieſer Gegenſaß des Bewußtſeyns als ein nichtiger und sich durch_ſich ſelbſt auflösender , ſo hat das subjective Denken kein ihm absolut Fremdes und Underes , kein Ding an sich gegenüber.
+
+Sollte sich aber wirklich 1 die Aufló fung dieses Gegensaßes als seine Wahrheit erweiſen , ſo würde dieselbe als das wirkliche Erkennen und Wiſſen jenem Gegensatze selbst als dem erſcheinenden Wiſſen gegenüber treten, und so fiele der Beweis , daß die Wahrheit erkannt werden kann , mit der Entwickelung des unmittelbaren Bewußtseyns zur Wiſſenſchaft zusammen . Jedoch hat ſich der beſtimmte Begriff des philosophischen Wissens , oder wie sich das Denken zum objectiven Seyn verhält , erst durch diese Entwickelung selbst zu ergeben, und erſt als nothwendiges Reſultat iſt dasselbe nicht vorausgesezt versichert, bewiesen.
+
+„ Die Wissenschaft ist darin , daß sie auftritt», selbst eine Erscheinung ; im Auftreten ist sie noch nicht in ihrer Wahrheit auss geführt und ausgebreitet.
+
+Es ist hierbei gleichgültig sich vor zustellen , daß sie die Erscheinung ist , weil sie neben andern auftritt , oder jenes andere unwahre Wissen ihr Erscheinen zu nennen.
+
+Die Wiſſenſchaft muß sich aber von ihrem Scheine befreien und sie kann dieß nur dadurch , daß sie sich gegen ihn wendet.
+
+Denn sie kann ein Wissen , welches nicht wahrhaft ist, [p. 91] weder als eine gemeine Ansicht der Dinge nur verwerfen , und versichern , daß sie eine ganz andere Erkenntniß und jenes Wiſſen für sie gar nichts ist ; noch sich auf die Ahnung eines Beſſern in ihm selbst berufen.
+
+Durch jene Versicherung erklärte fie ihr Seyn für ihre Kraft ; aber das unwahre Wissen beruft sich eben so darauf, daß es ist , und versichert , daß ihm die Wissenschaft nichts ist ; ein trocknes Versichern gilt aber' gerade so viel als ein anderes.
+
+Noch weniger kann ſie ſich auf die beſſere Ahnung berufen , welche in dem nicht wahrhaften Erkennen vorhanden und in ihm selbst die Hinweisung auf sie sey.
+
+Denn eines Theils beriefe sie sich eben so wieder auf ein
+
+Seyn ; andern Theils aber auf sich , als auf die Weiſe , wie ſie im nicht wahrhaften Erkennen ist , d. h. auf eine schlechte Weise ihres Seyns , und auf ihre Erscheinung vielmehr , als darauf, wie sie an und für sich iſt.
+
+Aus diesem Grunde ſoll hier die
+
+Darstellung des erscheinenden Wiſſens vorgenommen werden. Weil nun dieſe Darstellung nur das erscheinende Wiſſen zum Gegenstande hat, so scheint sie selbst nicht die freie , in ihrer eigenthümlichen Gestalt sich bewegende Wissenschaft zu seyn, ſondern sie kann von dieſem Standpunkte aus , als der Weg des natürlichen Bewußtseyns , das zum wahren Wissen dringt, genommen werden ; oder als der Weg der Seele, welche die Reihe ihrer Gestaltungen , als durch ihre Natur ihr vorgesteckter Stationen durchwandert , daß sie sich zum Geiste låutere, indem sie durch die vollständige Erfahrung
+
+1 ihrer selbst zur Kenntniß desjenigen gelangt, was ſie an ſich ſelbſt iſt.” „ Die Reihe seiner Gestaltungen , welche das Bewußtſeyn auf , diesem Wege durchläuft , ist die ausführliche Geſchichte der Bildung des Bewußtseyns zur Wiſſenſchaft.“ (Phån . S. 62 ff.)
+
+Mit dieser Fassung der Aufgabe aber dringen sich sogleich Schwierigkeiten anderer Urt auf.
+
+Vor allem fragt es sich, wie kommt in diese Entwickelung des Geistes von der Unmittelbarkeit [p. 92] zum absoluten Denken ,
+
+Nothwendigkeit hinein ?
+
+verschiedenen Geſtaltungen des Bewußtseyns als Thatsachen aufführen , wäre , wie schon gezeigt , eine unnüße Arbeit, und doch scheint • es schlechterdings unmöglich , in dem Gange zur Wissenschaft hin schon wiſſenſchaftlich verfahren zu können. Es ist hier wieder die Gefahr da , daß man das Reſultat , etiva das absolute Wiſſen , ſchon vorläufig fertig habe, und daſſelbe nur zum Scheine als Resultat erscheinen lasse , damit es das Aussehen bekomme, als sey es begründet , in Wahrheit aber wäre es doch nur vorausgesetzt und nicht mehr als eine einfache Versicherung , aber umsponnen mit. allerlei Täuſchung und scheinbaren Beweisen. Was zunächst den Anfang der Phånomenologie betrifft, so beginnt diese mit dem Bewußtseyn und zwar in seiner Uns mittelbarkeit, mit der sinnlichen Gewißheit . mit dem Seyn anfångt ,
+
+Wenn die Logik
+
+ſo iſt dieß eben Anfang der Logik;
+
+also nicht die Unmittelbarkeit des Wissens überhaupt , sondern die Unmittelbarkeit des absoluten freien Denkens , und wie dieſes vermittelt ist durch die Phänomenologie , ſo iſt dás Seyn , wie unmittelbar , ebenfalls auch vermittelt.
+
+Wird hieran erinnert, so bringt man wohl die Zahl herbei , und zählt also zwei Anfänge der Philosophie :
+
+die sinnliche Gewißheit und
+
+Seyn ; und meint nun , einer könne doch nur der wahre ſeyn, und Hegel habe wohl selbst nicht recht gewußt , womit er an fangen solle. -- Man ist jest wohl darüber einig , daß der Anfang der Philoſophie nicht die Bedeutung habe , zugleich
+
+Princip der Philosophie zu seyn.
+
+Die Schwierigkeit aber des Anfangs liegt einfach darin , daß die Philoſophie Alles be gründen und vermitteln ſoll ; dadurch ſcheint ein Anfang schlech terdings unmöglich. Wird mit einem Unmittelbaren angefangen, so ist dieß eine Versicherung , wird diese vermittelt durch ein Underes, ſq wåre nicht mit jenem Unmittelbaren , ſóndern mit [p. 93] diesem Undern anzufangen und so fort ins Unendliche.
+
+Phänomenologie beginnt nun mit der sinnlichen Gewißheit; dieſes , meint Hegel ( Log . 1 , 61.) , ſey das eigentliche unmits telbare Wiſſen ;
+
+dabei aber behauptet er zugleich , „ daß es
+
+Nichts gåbe, Nichts im Himmel, oder in der Natur , oder im Geiste , oder wo es sey , was nicht eben so die Unmittelbarkeit enthalte als die Vermittelung , ſo daß sich diese beiden Bestimmungen als ungetrennt und untrennbar und jener Gegenſaß sich als ein Nichtiges zeige."
+
+Hiermit übereinstimmend zeigt sich denn in der Philosophie des Geistes auch das Bewußtseyn als vermittelt , indem es sich als Reſultat der Anthropologie ergiebt.
+
+Hiernach aber scheint es , als dürfe auch die Phänomenologie nicht von dem Bewußtseyn unmittelbar anfangen, weil auch dieses , seinem Wesen nach , nicht ein schlechthin un mittelbares ist. Die Lösung dieser Schwierigkeit ergiebt sich von selbst, wenn wir die angegebene Tendenz der Phänomenologie festhalten.
+
+Indem hier das Wissen 1 von seiner Unmittelbarkeit zum abſoluten, für sich seyenden Denken fortzuführen ist, so ist es nicht nöthig , über das unmittelbar gegebene und sich vorsins , dende Bewußtseyn noch hinauszugehen , und etwa auch dieses rückwärts hin zu begreifen ; also vorerst zu sehen , wie die Seele aus ihrer natürlichen Bestimmtheit sich zum Bewußtſeyn ent wickele , oder noch weiter hin zurückzugehen und etwa den menſch lichen Organismus ſelbſt in ſeiner vernünftigen Gliederung zu betrachten , und das Verhältniß desselben zum Geiste , sondern hier kommt es vielmehr darauf an , das Wissen in seiner ein fachen Unmittelbarkeit aufzunehmen , also nichts an ihm, wie es sich darbietet , zu verändern , und von dem Auffaſſen das Begreifen abzuhalten."
+
+Wollte man der Philosophie auch dieſe Erlaubniß nicht ertheilen , das Bewußtseyn in seiner Uns mittelbarkeit aufzunehmen , und etwa daran erinnern , daß sie ja selbst nicht erlaube, sich auf Thatsachen des Bewußts [p. 94] feyns zu berufen , so ist nur zu bedenken , daß durch dieses Aufnehmen nicht schon irgend etwas begriffen oder bewiesen werden solle, und daß ſomit von einem Berufen auf die ſinn liche Gewißheit gar nicht die Rede seyn könne. Auf die Frage aber , wodurch der Fortschritt und die Ent wickelung von der sinnlichen Gewißheit zum absoluten Wiſſen ein nothwendiger werde , ist die einfache Antwort : durch die dialektische Methode.
+
+Wie diese überhaupt die Bewegung der Sache selbst ist , so ' ist sie in der Phänomenologie zugleich die eigne Bewegung des Bewußtseyns .
+
+Wir knüpfen unſere weitere Erläuterung an die Einwürfe an , welche Fischer gegen diese Seite der Phänomenologie macht.
+
+Fischer sagt in der Metaphysik S.11 ſo : „ dieſen abſoluten Joealismus ( Schellings) führte Hegel auf das Princip des Fichteſchen ſubjectiven Idealismus zurück, welches er aber nicht bloß als Princip des Selbstbewußtseyns , sondern als allgemeine Subjectivität oder als das reine Denken faßte , welches mit dem reinen Seyn identiſch, durch alle ontologiſche Beſtimmungen ſich ſelbſt beſtimmt, und sich durch seine objective Bestimmung seinen subjectiven
+
+Begriff vermittelt.
+
+Wie Fichte seinen Idealismus auf eine petitio principii baut , die er auf keine Weise zu rechtfertigen im Stande ist , so geht Hegel in seiner idealiſtiſchen Tendenz nur von einer Voraussetzung aus , die er aber nicht einmal zugiebt, viel weniger sie wissenschaftlich rechtfertigt. - Da die ganze Kritik des erscheinenden Bewußtſeyns , durch welche Hegel
+
+1 den Begriff der abſoluten Wiſſenſchaft , d . h. die Logik hervor. bringt , von dieser Voraussetzung abhängt , so ist es consequent, daß er seiner Phånomenologie des Geistes einen Abschnitt voran gehen läßt , durch welchen er jene Voraussetzung für eine in der Natur der Sache oder in dem Begriffe des Bewußtſeyns begründete Ansicht erklärt.
+
+Untersuchen wir , sagt Hegel im
+
+Anfange seiner Phänomenologie S. 67, die Wahrheit des Wiſſens, [p. 95] so scheint es, wir untersuchen , was es an ſich ist.
+
+Wein, fåhrt er fort , in dieser Untersuchung ist es unser Gegenstand, es ist für uns ; und das Unsich desselben oder sein Wesen wäre vielmehr unser Wissen von ihm. Das Wesen oder der Maßstab fiele in uns , und dasjenige , was mit ihm verglichen , und über welches durch diese Vergleichung entschieden werden sollte , håtte Die Folgerung ist ganz ihn nicht nothwendig anzuerkennen.
+
+richtig. Eben weil das Unsich oder das Wesen des Gegenstandes in unserm Wiſſen nur für unser Wiſſen ist, wird durch die Vergleichung des Begriffs mit dem Gegenstande wie er in un ſerm Bewußtseyn ist , Nichts über die Bedeutung entschieden, die er an und für sich hat.
+
+Desto auffallender ist es , wenn
+
+Hegel diese Folgerung nicht anders , als wäre damit nichts ge= 3 sagt, übergeht , und ohne auch nur einen Versuch zu machen, ſie zu widerlegen , hauptet , unmittelbar darauf das Gegentheil be ohne diese Behauptung auch nur im Geringsten zu rechtfertigen. -Statt nun ferner durch die Einsicht , daß sich in einer solchen ſubjectiven Prüfung der Gegenstand mit dem Begriff åndert, auf die frühere Folgerung zurückzukommen, daß ein solcher subjective Maßstab nicht der Gegenstand an ihm ſelbſt ist , sieht Hegel in diesem idem per idem , auf welches diese " Vergleichung des Bewußtseyns mit sich selbst “ hinausläuft, nur eine Bestätigung seiner Annahme: daß ,, beide Momente, Begriff und Gegenstand in das Bewußtseyn selbst fallen.“
+
+Durch diese idealiſtiſche Wendung wird der ganze Verlauf der Phänomenologie des Geistes voraus beſtimmt , und Hegel sett sich darin keine andere Aufgabe , als zu zeigen , wie sich dem erscheinenden Bewußtseyn der Gegenstand durch die vollſtån dige Erfahrung seiner selbst in den reinen Begriff seines Wesens verwandelt. - Diese Betrachtung der Sache, nach welcher sich der neue Gegenstand als ,, durch eine Umkehrung des Bewußtſeyns ſelbſt " geworden zeigt , ist, wie Hegel selbst J [p. 98] bemerkt ,,, unsere Buthat ," wodurch sich die Reihe der Erfahrungen des Bewußtſeyns zum wiſſenſchaftlichen Ganzen erhebe und welche nicht für das Bewußtseyn sey, welches in der Phas nomenologie betrachtet werde.
+
+Das Ende der dialektischen
+
+Bewegung, durch deren Momente die Kritik des natürlichen Bewußtseyns durchgeführt werde, werde an dem Punkte erreicht, an welchem es seinen Schein ablege , mit Fremdartigem , das nur für es und als ein anderes ist, behaftet zu seyn, oder wo die Erscheinung dem Wesen gleich werde , und indem es dieß ſein Wesen erfaßt , werde es die Natur dés abſoluten Wiſſens felbst bezeichnen."
+
+Weiter unten , S. 397 , wird bemerkt : „ daß die petitio principii im Allgemeinen in der Annahme beſtehe, daß der Gegenstand nur Moment des Bewußtseyns sey , weil ſich jener als das Unſich des Wiſſens mit seinem Begriffe ån= dere ;
+
+darin bestehe eben das ſubjective Verfahren der Phåno menologie und sie werde dadurch nur eine Vergleichung des Bewußtseyns mit sich selbst." Es fällt nun zunächſt Hegel nicht ein , irgend eine Voraus feßung in der Einleitung rechtfertigen zu wollen, sondern wie in der Einleitung von dem Bewußtseyn und der Methode der " Phänomenologie die Rede ist , ist es nur eine vorläufige Angabe , " wie dieß in der Einleitung nicht anders seyn kann. Aufgenommen wird eigentlich nichts als die sinnliche Gewißheit , und schon die Wahrnehmung wird nicht mehr nur aufgenommen , sondern " ist uns entstanden , und unser Aufnehmen daher nicht mehr ein erſcheinendes Aufnehmen, wie der ſinnlichen Gewißheit , ſondern ein nothwendiges .“ (Phån. S. 84.) Doch wir haben auf die Schwierigkeiten weiter einzugehen. — Die petitio principii soll darin bestehen , daß Hegel vorausseßt, daß der Gegenstand nur Moment des Bewußtseyns sey ; darum vermittelt sich das Bewußtſeyn nur mit ſich ſelbſt , und es kann natürlich zu keinem Ansich kommen , weil dieses von vorn
+
+97/
+
+& herein durch jene Voraussetzung aufgehoben ist.
+
+das Bewußtseyn etwa aufhört , über sein
+
+Wenn also erscheinendes
+
+Wissen hinauszugehen , so hat es damit nicht etwa das Unsich, die Wahrheit des Gegenstandes erreicht ; ſondern dieſem vielmehr vollkommen Gewalt angethan , ihn zu seiner Form gemacht.
+
+Das absolute Wissen ist eben darum subjectiver Idealismus ; darin mag allerdings das Wissen dem Gegenstande.
+
+C entsprechen , eigentlich aber entspricht nur der Gegenstand dem e5
+
+&&
+
+Wiſſen d. h. er wird nicht gewußt , wie er an sich iſt, ſondern nur vom Bewußtseyn in den reinen Begriff seines Wesens äußerlich verwandelt.
+
+Indem die Prüfung des Erkennens zu einer Prüfung gemacht wird , welche das Bewußtseyn eil mit sich selbst anstellt , kommt das Wissen aus seiner Subjectis
+
+"፡ vität nicht heraus , und das subjective Ich ist der allgemeine und endliche Maßstab , woran Ulles gemessen , und als unwahr es und unreell befunden wird . Zunächst ist anzuerkennen , daß im Bewußtseyn , wie es sich unmittelbar vorfindet , der Gegenstand Moment ist fonst it wåre gar kein Bewußtseyn und Wiſſen eines Andern vorhan er den.
+
+Allein es ist schon etwas ganz anders zu sagen : in der ge finnlichen Gewißheit ist der Gegenstand Moment und : alle :
+
+Gegenständlichkeit ist nur Moment des Bewußtſeyns .
+
+So viel .
+
+ist ferner klar , wollten wir damit anfangen , irgend etwas an zunehmen , das nur reines Object wåre und als solches schlech. terdings außer dem Bewußseyn fiele, so würden wir nicht ans
+
+!!
+
+-)
+
+fangen mit dem Bewußtseyn , wie es sich unmittelbar findet,… sondern vielmehr mit dem Resultate der Kritik der reinen Vernunft ; denn dieser Gegenstand , der gar nicht Moment des
+
+Bewußtseyns seyn könnte , wåre weiter nichts als ein Ding an ſich. - Weiter aber gilt gerade dem Bewußtseyn der Gegens
+
+น ſtand nicht als Moment , ſondern als Unſich , als die Wahrheitz : eher müßte man also sagen , daß dem Selbstbewußtſeyn der
+
+B Stand not
+
+Gegenstand nur Moment sey.
+
+In dieser Aufhebung des Gegenstandes befriedigt sich aber das Bewußtseyn selbst nicht , sondern erst, wenn es sich selbst entäußert , in dieser doppelten Negation findet es Ruhe. Wie schon früher bemerkt , können wir die Fortbewegung und Entwickelung des Bewußtseyns von seiner unmittelbaren Gegebenheit zum absoluten Wissen , oder diese Aufhebung des erscheinenden Wiſſens durch sich selbst als Beweis ansehen , daß die Wahrheit von dem ſubjectiven Denken erkannt werden kann, oder wir können diese Entwicklung als eine Prüfung der Realität des Erkennens betrachten. Diese Prüfung nun scheint nicht ohne irgend einen Maßstab möglich zu seyn , den wir an das Erkennen , auf welchem Standpuncte es stehen mag, anlegten , um so zu erfahren , ob das Erkennen Realität habe oder nicht.
+
+Offenbar aber würde dieser Maßstab kein anderer 1
+
+ſeyn können , als das wirkliche Wiſſen ſelbſt ; dieß würde aber so nur willkührlich als unbewieſen vorausgesetzt , und hörte damit zugleich auf, ein objectiver Maßstab seyn zu können.
+
+Wenn wir die Realität des Wiſſens unterſuchen , so wollen wir dahinter kommen , was es an sich iſt ; durch diese Unterſuchung aber wird es für uns , es wird unser Wissen ; indem nun wir als Prüfende unser Wissen nicht als den objectiven Maaß stab erwiesen håtten , so wåre damit über die Realität des Erkennens durchaus nichts ausgemacht.
+
+Allein dieſe Unterſcheidung zwischen dem Ansich und Füruns fällt selbst.
+
+in das Bewußtseyn
+
+Das Bewußtseyn bezieht sich, indem es etwas weiß , auf ein Anderes oder dieß Andere ist für dasselbe ; und zugleich unterscheidet das Bewußtseyn von dieser Beziehung des Gegen standes auf es , den Gegenstand außer dieser Beziehung oder das Unsich des Gegenstandes .
+
+Indem so das Bewußtſeyn nicht nur den Gegenstand weiß, sondern auch sein eigenes Wis= ſen zum Gegenstande des Wiſſens macht , prüft das Bewußt=
+
+[p. 99] →→ seyn selbst sein Wissen , und wir brauchen daher nicht mit unsern zufälligen Meinungen und Ansichten hinzuzutreten, sondern können dem Bewußtseyn selbst das Prüfen überlaſſen , und der durch jenen Unterschied nothwendigen Selbstbewegung und Ent wickelung desselben nur zusehen.
+
+Hiermit sind nun allers dings nicht alle Schwierigkeiten , die in der Aufgabe liegen , ges löst, aber so viel ist klar , daß es Hegel wieder nicht einfällt , wie Fischer meint , ohne weitere Rechtfertigung das Gegentheil von dem zu behaupten , was er früher gesagt hatte.
+
+Mit grös
+
+Berem Rechte könnte man meinen , daß er vielmehr dasselbe behaupte.
+
+Denn zunächſt iſt hier nur der Gegenſaß ein anderer geworden.
+
+Vorher fand der Gegensatz Statt zwiſchen unserm
+
+Wiſſen und der zu prüfenden Wahrheit eines andern Wiſſens ; jezt liegt der Gegensatz im Bewußtſeyn felbſt, das das Unsich oder die Wahrheit des Gegenstandes von seinem Wiſſen unter scheidet.
+
+Der Unterschied ist so aus einem à ußern zu einem innern geworden , und wir haben für erst nur von unserer der Sache selbst äußerlichen und fremden Subjectivität abstrahirt. Soviel erhellt sogleich , daß wir jene frühere Voraussetzung aufs gehoben haben , welche darin lag , daß indem wir die Realität des Erkennens prüfen9 wollten , unser Wiſſen als objectiven Maßz stab vorausannahmen. Un die Stelle dieser Voraussetzung ist die Forderung getreten : das Wissen sich durch sich selbst , ohne die Zuthat eines fremden Maßstabes , entwickeln zu laſſen . ´Es könnte aber weiter gefragt werden : wie ist eine objective Ent wickelung des Wiſſens durch sich selbst möglich , beſonders wenn jener Unterschied im Bewußtseyn nur ein ,, idem per idem " ist ? Und wollten wir auch zugeben , daß eine ſolche Entwicklung des Wissens durch sich selbst nicht unser zufälliges Prüfen wåre, und wir das Resultat, dieser Entwickelung somit als nothwendig in der Sache selbst begründet anerkennen müßten , ſo bleibt doch die Schwierigkeit unaufgelöst , wie das Bewußtseyn hinter das
+
+[p. 100] Anich oder die Wahrheit des Gegenstandes und auch seines Wissens sollte kommen können , indem , ebenso wie bei unserm Prüfen , das Wissen des Bewußtseyns von seinem Wiſſen ima mer nur sein Wissen bleiben muß.
+
+Sollte das Bewußtseyn auch durch seine eigne Natur zu irgend einem Standpunkte mit Nothwendigkeit hingetrieben werden , so mag dieser für das Des wußtseyn ſelbſt immerhin ein objectiver ſeyn , an und für sich bleibt er aber doch ein subjectiver ; weil das Bewußtseyn seiner Natur, nach durch und durch subjectiv ist.
+
+Wir hatten somit dadurch , daß wir uns in die Sache ſelbſt, nämlich in die eigne Entwicklung des Bewußtseyns , hineinversehten , nichts gewonnen, sondern nur verloren , indem wir uns dadurch nur in die Sub jectivitat ganz und gar verschlossen haben, und nun sicher lich , wie das Bewußtſeyn ſelbſt, aus der Täuſchung nicht wie Allein wir dürfen nicht meinen , daß der heraus können.
+
+wir mit " diesen Reflexionen irgend etwas thun , was nicht das Bewußtseyn selbst thåte.
+
+Wir machen einen Unterschied zwiſchen
+
+ſubjectivem Wiſſen und objectiver Wahrheit und behaupten , das Bewußtseyn könne aus seiner Subjectivität nicht heraus wir machen. somit eben denselben Unterschied , den das Bewußtseyn selbst macht , und nehmen selbst einen bestimmten Stand punkt des Wissens ein, und können daher eine Antwort auf diese Schwierigkeit nur in der Entwickelung des Wissens selbst verlangen.
+
+Wir wollen versuchen , im Allgemeinen anzugeben , wie diese Schwierigkeiten , die hier sogleich , als wenn ſie Hegel ents gangen wåren, als Einwürfe auftreten, in der Phänomenologie selbst vollständig gelöst und beantwortet ſind.
+
+Vor Allem wäre zu bemerken , daß der Unterschied , den das Bewußtseyn macht zwischen dem Unsich des Gegenstandes und seinem Wissen von ihm , nichts weniger , als ein idem per idem ist sondern es iſt der einfache Unterschied zwischen dem Bewußtseyn und dem
+
+[p. 101] Selbstbewußtseyn.
+
+Das Bewußtseyn bezieht sich auf ein
+
+Anderes z. B. auf ein sinnliches Ding , und hält dieses An= dere für wahrhaftes und wirkliches Seyn.
+
+Das Bewußtseyn ist aber zugleich sein Begriff, Selbstbewußtseyn , damit wird es nicht von außen über seine Beschränktheit hinausgetrieben , sondern leidet diese Gewalt durch seine eigene Natur.
+
+In der absoluten Gewißheit seiner selbst zweifelt es an der Wahrheit und Realität des ihm schlechthin Anderen und damit an seinem frühern eignen Wiſſen.
+
+Auf diesem Unterschiede des
+
+Bewußtseyns, vom Selbstbewußtseyn soll die Nothwendigkeit des Fortschrittes und die Entwickelung des Wiffens beruhen. tritt nun aber die Hauptschwierigkeit ein.
+
+Hier
+
+Diese Unterscheidung nämlich scheint das Resultat im Voraus zu einem subjectiven Idealismus zu bestimmen.
+
+Indem nämlich das. Bewußtseyn aus der Beziehung auf ein Anderes sich in sich reflectirt , gilt ihm nicht das Andere , sondern es sich selbst als recll ; über das Wesen des Gegenstandes scheint , durchaus nichts ausgemacht werden zu können , und wenn das Bewußtſeyn den Gegenſtand nach der Gewißheit seiner selbst mißt und nicht eher Ruhe hat, als bis es
+
+ſich ſelbſt findet und der Begriff dem Gegenstande, der Gegenstand dem Begriffe entspricht," so ist vorauszusehen , daß das Bewußtseyn so lange über sein Wissen hinausgehen , und so lange das Unsich des Gegenstandes von seinem Wiſſen selbst unterscheiden wird, bis es nicht mehr kann , d. h. bis es keinen Gegenstand mehr hat , als sich selbst, bis es nur sich selbst denkt.
+
+Der Fortschritt wåre ſonach ganz einfach der : das
+
+Bewußtseyn weiß irgend ein Object , sieht es dieß beim Lichte an , und findet , daß es ein Anders als es selbst ist , wirst es dasselbe von sich.
+
+Wenn so das Bewußtseyn durch dieses ewige
+
+Einerlei alle Objectivitåt fortgeschafft hat , so hat daffelbe dieſe nicht eigentlich überwunden , ist nicht hindurchgegangen , sondern nur vorbeigegangen , und das Ende dieses Processes ist ein [p. 102] subjectiver Idealismus : der Gegensät der mit dem Bewußtseyn unmittelbar gegeben ist , ist allerdings verschwunden, aber so , daß der Gegenstand nur fortgeworfen wurde , und das Subject bei sich beharrte.
+
+Mun entspricht das Wiſſen dem
+
+Gegenstande und der Gegenstand dem Wiſſen : denn Ich ist Gegenstand , und auch zugleich das Wissen dieses Gegenstandes ; und dieß Ich - Ich , dieß einfache Sichselbstdenken ist alle Realität und Wahrheit. So leicht hat es sich nun Hegel mit der Ueberwindung des Objects nicht gemacht. - Wie sich der Gegensatz zwiſchen Seyn und Wiſſen durch die ganze Entwickelung des erscheinen= den Wiſſens hindurchzieht , ſo iſt ein bestimmter Standpunkt des Wissens auch die Bestimmtheit des Objects , oder um gekehrt, je nachdem das Object bestimmt ist , welches als Ansich oder als Wahrheit gilt , ist auch das Wissen ein bestimmtes beides steht also im nothwendigen Verhältniß.
+
+Dadurch legt sich die Entwickelung des erscheinenden Wiſſens in verschiedenen G e stalten des Bewußtseyns auseinander. Jede Gestalt beginnt mit der Unmittelbarkeit , ` in welcher das Bewußtſeyn , da es, mit seinem Wissen in unmittelbarer Einheit , über dasselbe nicht hinausgeht , sich befriedigt fühlt.
+
+In dieser Unmittelbarkeit gilt dem Bewußtseyn das Object und somit zugleich ſein eignes Wissen für wahr.
+
+Ueber diese Unmittelbarkeit geht das Bewußt feyn zum Zweifel fort , dadurch daß es als Selbstbewußt seyn sein Wissen von dem Object unterscheidet.
+
+Die Prüfung nun , ob sein Wissen dem Gegenstande oder der Gegenstand ſeinem Wiſſen entspricht , geſchieht nicht etwa so , daß das Des wußtseyn seinen Gegenstand , hålt , an seinem den es für wahr und wirklich reinen Selbstbewußtseyn überhaupt mißt , sondern ebenso wie das Object des Wiſſens ein des stimmtes ist , so ist auch das Wissen des Wissens nicht Selbst bewußtseyn überhaupt , sondern Bewußtseyn eines bestimmten
+
+[p. 103] Wiſſens , das Wiſſen deſſen , was auf einem bestimmten Standpunkte für wahr gilt.
+
+Das Object ist also nicht über haupt oder in ſeiner abstrakten Allgemeinheit zu faſſen , und es kommt nicht darauf an, was es überhaupt in Wahrheit ist, sondern ist vielmehr in seiner Bestimmtheit aufzunehmen , die es für das Bewußtseyn selbst hat ; und dann zu sehen , ob es seinem Begriffe , nåmlich das Wahre zu seyn , entspricht, Wenn wir das Object nicht in dieſer bestimmten Gestalt nehmen, ſo treten wir sogleich aus der Sache selbst , nämlich aus dem Wissen des Bewußtseyns heraus , und was wir mit dem Objecte auch anfangen mögen , ist für uns , aber nicht für das Bewußtseyn.
+
+Dadurch aber , daß wir das Object nach seiner
+
+Bestimmtheit aufnehmen , und keine Bestimmung hinzuthun, die dasselbe nicht auch für das Bewußtseyn hat , treten wir in die Sache hinein , an die Stelle des Bewußtseyns selbst.
+
+Ent
+
+ſpricht nun das Object ſeinem Begriffe nicht , ist dasselbe nicht das , für welches es das Bewußtseyn in seiner Unmittelbarkeit nahm , nämlich als abſolut wahr und wirklich , ſo `muß es rein durch die Entwickelung seiner ihm immanenten Bestimmungen sich als unwahr erweisen auflösen.
+
+Wie die Unmittelbarkeit sowohl auf das Bewußtseyn als auf das Object , als auch auf ihr gegenseitiges Verhältniß sich bezog, so ist diese Vermittelung die allseitige Negation der Unmittelbarkeit , und gehört dem Subjecte und Objecte und auch ihrer gegenseitigen Beziehung an.
+
+Man kann daher ebenſo ſagen :
+
+das Bewußtseyn prüft , ob ſein Wissen dem Gegenstande ent ſpricht, als auch , ob der Gegenstand ſeinem Wiſſen entspricht ; nämlich ein wahrer zu seyn.
+
+Indem sich der Gegenstand als unwahr erweiſet , ist auch das Wiſſen unwahr , denn der Gegenstand galt eben für das Bewußtseyn als wahr.
+
+Das Bewußtſeyn wird also über sein Wiſſen hinausgetrieben , damit aber zugleich über das Object seines Wissens.
+
+Indem es ers [p. 104] fährt, daß das Object nicht das ist , wofür es dasselbe hielt , muß es zunächst sein Wiſſen åndern und es dem Objecte gemäß machen ; aber die Aenderung des Wissens ist auch Aenderung des Objects , denn beides ist in nothwendiger Beziehung und das andere Wissen besteht eben darin , daß dasselbe ein an = deres Object für das Unsich und die Wahrheit hält. Nun fragt sich aber : wie bestimmt sich dieß Andere ? ganz einfach dadurch , daß die Negation des bestimmten Wiſſens nicht überhaupt Nichts ist , sondern als bestimmte Negation nothwendig einen positiven Inhalt zum Resultate hat.
+
+Also aus der Auflösung des bestimmten Standpunktes des Des wußtseyns und des Gegenstandes seines Wiſſens geht so eine neue Gestalt des Bewußtseyns hervor , welche die Wahrheit der vorhergegangenen ist , in welcher die bestimmte Negation des Objects , welches in dem Zweifel aus dem Ansich zu einem bloßen d. h. unwahren Wiſſen des Bewußtseyns herabgesetzt wurde , als der neue Gegenstand des Bewußtseyns erscheint , und das mit ist auch der neue Standpunkt des Wiſſens selbst vollſtån dig bestimmt , welcher eben darin besteht , dieſe poſitive Negation des ersten Ansich , als des wahren Unsich zu betrachten. Dieß ist es nun , was Hegel ,, unsere Zuthat “ nennt , welche Worte bei Fiſcher fast wie ein unwillkührliches Geſtändniß Hegels klingen , daß die ganze Phänomenologie nur eine subjective und unwahre Spielerei sen.
+
+Diese unsere Zuthat besteht also nur darin , daß wir das Resultat , das sich ergeben hat , den positiven Inhalt der bestimmten Negation , oder die aus der Vermittelung hervorgehende Unmittelbarkeit aufnehmen.
+
+neue Gegenstand und damit auch die neue Gestalt des Des wußtseyns zeigt sich so ,, als geworden durch eine Umkehrung des Bewußtseyns selbst. "
+
+,, Dieser Umstand ist es , welcher die ganze Folge der Gestalten des Bewußtseyns in ihrer Noth wendigkeit leitet.
+
+Nur diese Nothwendigkeit selbst , oder die
+
+[p. 105] Entstehung des neuen Gegenstandes , der dem Bewußtseyn , ohne zu wissen , wie ihm geschieht, sich darbietet , ist es , was Es kommt für uns gleichsam hinter seinem Rücken vorgeht.
+
+dadurch in seine Bewegung ein Moment des Ansich oder Fürunsseyns , welches nicht für das Bewußtseyn , das in der Erfahrung selbst begriffen ist, sich darstellt ; der Inhalt aber dessen , was uns entsteht , ist für es , und wir begreifen nur das Formelle desselben , oder sein reines Entstehen : für es ist dies Entstandene nur als Gegenstand , für uns zugleich als Bewegung und Werden. "
+
+Phån. S. 71.
+
+Es ist leicht zu sehen , wie mit diesem Momente , obwohl nur durch daſſelbe ein wiſſenſchaftlicher Fortgang gewonnen durchaus werden dem Inhalte Fremdes kann , wir hinzuthun.
+
+halten damit nur die Sache und das Bewußtseyn fest , daß es nicht in Willkühr und Zufälligkeit abirre.
+
+Wollte man der
+
+Wissenschaft dieses Moment nicht zugestehen , so würde man verlangen , daß die Philosophie ohne das Denken des Subjects zu Stande komme , oder daß der Inhalt an sich , ohne Form schon Wissenschaft seyn sollte. Indem aber so der Fortgang vom unmittelbaren und abstracten Wissen der finnlichen Gewißheit sich auf beide Seiten des Gegenſages bezieht und der im Subject und Object iden tiſche iſt , ſo überwindet das Subject das Undere , Fremdartige, Objective nur dadurch , daß es sich selbst fortwährend läutert und erweitert , nur dadurch , daß es seine Endlichkeit und Subjectivität von Stufe zu Stufe aufhebt.
+
+Die Aufhebung des Gegenstandes iſt zugleich auch
+
+Aufhebung eines bestimmten endlichen Wiſſens , also nicht åus Berlich und abstract überwindet das Subject den Gegenstand , sondern vielmehr durch seine eigne Entäußerung.
+
+Daher enthält die Phänomenologie nicht nur eine Widers legung des endlichen Realismus , sondern ist auch [p. 106] so wenig ſubjectiver Idealismus , daß ſie vielmehr die Nichtigkeit desselben nicht nur überhaupt , sondern in seinen verschiedensten Modificationen und Geſtal tungen nachweist. --- So ist sogleich der erste Uebergang aus demBewußtseyn ins Selbstbewußtſeyn keine Abstraction des Subjects vom Object, so daß die Vermittlung nur im Subject vor ginge, sondern das Object kommt vielmehr durch seine eigne Dialektik dem Bewußtſeyn entgegen , und das Subject erhebt sich nicht durch abstracten Idealismus , sondern durch Realismus und durch das Object als die Sache hindurch zum Selbstbewußtseyn. Das Bewußtseyn verdoppelt ſich nicht durch ein bloßes idem per idem in ſich ſelbſt, ſondern vielmehr durch die Aufhebung des Andern durch sich selbst ; es findet nicht abstract in ſich, sondern im Andern sich selbst ; und nur dadurch ist das Selbst bewußtseyn wirklich die Wahrheit des Bewußtseyns .
+
+das Selbstbewußtseyn zeigt ebenso an seiner eignen Dialektik die Einseitigkeit des Idealismus auf.
+
+Indem dasselbe sich als die Wahrheit des Bewußtseyns , dem ein Anderes , als es felbſt ist , als die Wahrheit galt , erwiesen hat , steht es dem Underen gegenüber, und dieſes Andere hat den Character der Erscheinung, des Negativen gegen es selbst als das wahre Wesen. Das Selbstbewußtseyn steigert sich aber zum Stoicismus , welcher durch Abstraction das Andere zu vernichten versucht, und macht in der Faselei des Skepticismus die Erfahrung seiner Einseitigkeit, wodurch es zum Bewußtseyn seines Widerspruchs mit sich selbst als zum unglücklichen Bewußtseyn fortgeht.
+
+Erst indem das Selbstbewußtseyn "„, ſein Fürsichseyn aus sich heraus gerungen und zum Seyn gemacht hat “ und „ ſein negatives Verhalten zum Andersseyn zum positiven umschlägt " , ist es Vernunft.
+
+Dieser steht weder das Seyn als das Wesen nur gegenüber , noch iſt ſie für sich im Gegenſaße zum Andern ſich selbst das Wahre , sondern sie ist die Einheit des Bewußtseyns [p. 107] und Selbstbewußtseyns , und erst in dieser concreten Einheit die Gewißheit, alle Realität zu seyn.
+
+Wenn nun die Vernunft ebenfalls vom Bewußtseyn , wo sie beobachtend ist, zum Selbſt bewußtseyn fortgeht , so scheitert doch die Lust an der Noth= wendigkeit , das Gesetz des Herzens zeigt sich als der
+
+Wahnsinn , des Eigendünkels.
+
+Eben so hebt sich das abstracte
+
+Selbst der Person auf, und die reine Einsicht , welche alle Gegenständlichkeit tilgt und den Glauben aufklärt , erfährt , der Schrecken des Todes zu seyn ; und auch der moralische Geiſt geht über das Bewußtseyn der moralischen Weltanschauung zum Selbst des Gewiſſens zurück , aber dieses geht über sich selbst hinaus und gewinnt im Handeln und in der Religion ſeinen absoluten Inhalt.
+
+Also das Resultat der Phänomenologie be steht nicht einseitig darin , daß das Subject alle Objectivitåt verflüchtigt und zu sich selbst macht , sondern zugleich darin, daß das Subject sich seiner Subjectivitåt vollſtändig entåußert, nicht die Objectivitåt fortwirft und bei sich beharrt , sondern im Andern, in seiner Entåußerung bei sich selbst ist.
+
+J. H. Fichte. -
+
+Braniß.
+
+Ehe wir dieß Reſultat der Phånomenologie , das abſolute Wiſſen , als den Anfang und Uebergang in die Logik weiter. erläutern , wenden wir uns zur Betrachtung einiger Bestrebungen der neuesten Zeit , welche im Allgemeinen dieselbe Tendenz mit der Phänomenologie gemein haben. Zunächst käme hier Fichte in Betracht. seines Systems ,
+
+Der erste Theil das Erkennen als Selbsterkennen hat im Allgemeinen dieselbe Aufgabe als die Phänomenologie des Geistes , gelangt aber zu einem andern Resultate als diese , ja weist den Standpunkt der Hegelschen Philosophie als einen endlichen nach , und schreitet dialektisch über denselben hinaus. Fichte ist mit der vorläufigen Angabe und Erzählung der
+
+[p. 108] Principien seines Systems nicht karg gewesen , sondern hat diese fast in allen seinen Schriften wiederholend skizzirt.
+
+nehmen zuerst dieſe Principien auch vorläufig auf, wie sie uns geboten werden. Als der wichtigste Punkt kann angesehen werden , daß die Philosophie nicht über
+
+Bewußtseyn hinauskáme.
+
+„ Die Philoſophie ist nichts weiter, als das Bewußtſeyn , die Selbstorientirung des Geiſtes über den ursprünglichen , in ihm niedergelegten Besit der Wahrheit , nicht ein Erfinden derselben und eine Spannung über sich selbst hinaus , worin gerade die Unphilosophie ' bestehen würde. "
+
+punkt c. 1 Thl. S. 32. )
+
+( Ueber Gegensatz ,
+
+Wendes
+
+12 Die Philosophie als denkende bleibt nur die Entwicklung , oder wenn man will , die Volk endung des Bewußtseyns in sich selbst. unverrückbarer Augpunkt.
+
+Dieß ist ihr fester,
+
+Sich selbst und ſeinem ursprünglichen
+
+Horizonte kann es nimmer entfliehen , und wähnend eben , es habe sich dessen überhoben , ist es um desto fester und blinder an ihn gekettet.
+
+Als sein unvertilgbarer Focus wird sich aber die Ichform ergeben.
+
+Sich selbst sicht es unmittelbar , alles
+
+Andere nur vermittelt , und Gott selbst kann es nur erkennen , inwiefern er selbst sich abspiegelt, offenbart in ihm.
+
+ist
+
+Selbstbewußtseyn Anfang , Mitte und Ende der Philosophie , und ſo könnte man formell ſie auch bezeichnen als die Selbst vollendung oder Selbstorientirung des Bewußtseyns über ſeinen ursprünglichen Beſit : was es iſt , bringt es philoſophirend zu bewußter Anerkenntniß. “ (Das Erkennen als Selbſterkennen
+
+6.16.)1 Eben wegen dieses unverrückbaren Augpunktes „ erkennen wir Gott nicht vermittelst einer behaupteten Identität mit ihm, wie diese auch nåher gefaßt werde , ob als unmittelbares Hinein versehen in ihn oder indem er in unserm Erkennen eigentlich sich selber erkennt , sondern wir lesen seine Abstrahlung , sein Zeugniß von sich selbst in uns und in den endlichen, [p. 109] geschaffenen Dingen.
+
+Sein Ansich, sein absolut Inneres ist uns schlechthin unerkennbar : und fürwahr wäre es eine Thor heit , dieß Anders zu wähnen !
+
+Wir wissen von ihm nur in fofern et mit uns in Verhältniß tritt , aber dieß Verhält niß ist hier nicht , wie zu den einzelnen Dingen als das eines Objects zum Subject zu denken : sondern , indem er in und an uns und den Dingen , als an seinem Geschaffenen , sich offens bart, ist unser Selbsterkennen und das Erkennen der Welt zuz gleich ein Erkennen Gottes in feinen Werken. " ( Gegensatz S. 222. )
+
+Obwohl aber die ganze Philosophie nur Selbstoriens tirung des Bewußtseyns über seinen ursprünglichen Besit ist, so ist doch die Theorie des Erkennens oder das Ers kennen als Selbsterkennen nur der erste Theil des Systems. Die Hauptaufgabe dieſes ersten LTheils ist , das Bewußts feyn von seiner unmittelbaren Gegebenheit zum Denken fortzubestimmen .
+
+( Das Erkennen zc. S. 12 ).
+
+Dieser Theil enthält somit die wissenschaftliche Entwicklungsgeschichte des Bewußtseyns zum und im Denken ; und $ damit die Abhandlung der möglichen Verhältnisse desselben zur Wa hra heit , woraus die verschiedenen Standpunkte nicht nur des Era kennens überhaupt , sondern auch des speciellen Erkennens die möglichen " philoſophiſchen Syſteme sich ergeben. ( ebendaſelbſt S. IX. ).
+
+Indem aber in dieser Theorie des Bewußtseyns das speculative Erkennen seinem Wesen nach sich ergeben hat , und das Selbsterkennen sich zugleich als Erkennen der Wahrheit erwiesen , erweitert ſich der Standpunkt, und die Philosophie wird zur Ontologie zum Erkennen des
+
+Sehns. Der erste Theil des Syſtems ſoll alſo ( wie die Phâno menologie Hegels ) von dem Bewußtseyn in seiner unmittelbaren Gegebenheit anfangen , und jede vorausgeseşte und hins zugebrachte Erklärung , Theorie soll streng abgehalten werden.
+
+[p. 110] Das Bewußtseyn wird nun näher bestimmt. sich
+
+Dasselbe ist an das Sich - Sehen in einem bestimmtern 3u stande als dem feinigen and hierin ist sein allgemeinſter Character bezeichnet.“ „ Das Bewußtseyn ist Ich , ruhendes
+
+Sichsetzen als des wechselnden .
+
+Und so bleibt es auch im Zu stande des Wollens , Begehrens , ja im heftigsten Sturme der Leidenschaft das dieſe Thätigkeit anſchauende , der Reflex im Ich gleichmäßig das Unbewegte , nur Zusehende, wie selbst der Kampf des Begehrens øder des Abscheues unter ihm sich gestalte.
+
+Schwånde dieses Zusehen oder würde es in jenen Sturm hingerissen , so wåre damit das Gegentheil, die Bewußtlosigkeit ( Erkennen 2. S. 17. 18.)
+
+eingetreten. "
+
+Das Bewußtseyn ist somit zunächſt
+
+Bewußtseyn eines Andern und enthält unmittelbar den Gegens faß zwiſchen Bild und Seyn.
+
+Dieser Gegensatz aber seht sogleich eine Einheit voraus , und das Bewußtseyn ist sonach „ an sich Bild , das sich begreift als Bild , im Gegensahe des Seyns , es ist Selbstbewußtseyn. " Beide Momente des dingen sich gegenseitig und machen zuſammen erſt das wirkliche Bewußtseyn aus. — Es ist hier nicht der Ort, eine ins Einzelne gehende Kritik der Fichteschen Theorie des Erkennens zu geben , sondern wir haben hier vorzugsweise zu unterſuchen , ob sich die Baſis des ganzen Systems wirklich als Resultat jener Theorie ers 想 weiſe, und wie sich diese Baſis zum Reſultate der Phänomenologie verhalte. Wollten wir aber zunächst darnach fragen , wie in diese wissenschaftliche Entwicklung des Bewußtseyns von seiner uns mittelbaren Gegebenheit zum Denken und Erkennen Noth wendigkeit und Wissenschaftlichkeit hineinkomme , so erhalten wir auf diese Frage wenigstens keine vorläufige Antwort. Jedoch heißt es spåter: „ Es iſt das Hauptverdienst Hegels die [p. 111] dialectische Beschaffenheit der Kategorieen , somit auch aller
+
+Wahrheit , dadurch aber zugleich die einzig richtige philosophische Methode nachgewieſen und mit bewunderungswür diger Consequenz durchgeführt zu haben.
+
+Dieser Fund ist nun unverbrüchlich festzuhalten und auf Einverständniß über die Methode zunächst zu dringen , wo sich die andern Differenzen all måhlig von selbst ausgleichen werden. "
+
+Wollten wir aber mit dem Daraufdringen noch weiter gehen, und nicht bloß das Ein verständniß fordern , daß die dialectische Methode die einzig wahre sey , sondern daß in einem ſyſtematiſchen Werke dieß Ein verſtändniß auch mit der That begleitet werde - so würde wenigstens die Theorie des Erkennens von Fichte dieser Fors derung nicht Genüge leisten können. thum ,
+
+Es ist ein seltsamer Irr ( deſſen wir übrigens Fichte nicht beschuldigen ) wenn man meint, daß die Philosophie durch die Strenge der Methode und der Form zum Formalismus werde.
+
+Nicht durch die Strenge der Form , sondern vielmehr durch die Halbheit derselben wird die Philoſophie nothwendig Formalismus , indem dann die Methode zu einem dem Inhalte selbst äußerlichen Schee matismus herabſinkt.
+
+Indessen können wir nicht umhin , auch
+
+Fichte eines willkührlichen Formalismus zu beſchuldigen , und wir werden im Folgenden Gelegenheit haben , an einzelnen Beis spielen den Beweis für diese Beschuldigung zu liefern
+
+Auffallend ist es , wenn Fichte mit dem Bewußtseyn in feiner Unmittelbarkeit anfangen will, und doch nicht mit dem Bewußtseyn, sondern mit dem Ich als vernehmenden wirklich anfängt.
+
+Diese erste Stufe wird als der Zustand beschrieben , in welchem das Ich noch nicht dazu gelangt , sich selbst von den Gegenständen zu unterscheiden , und sich als Ich den außern Vorstellungen entgegenzusetzen.
+
+Es soll in seiner Reinheit factisch der Zustand des Kindes kurz nach der Geburt ſeyn, und von den ſpåtern Zuſtånden die Momente besonderer Ab [p. 112] spannung , des sogenannten Hinbrütens dazu gerechnet werden. Nach dem früher aufgestellten Begriffe des Bewußtseyns , sollte man meinen, wäre dieser Zustand , wenn auch die Möglich keit des Bewußtseyns , doch nimmermehr schon die Wirklich keit desselben.
+
+Jedoch wird auch dieser Zustand , in welchem sich das Ich noch nicht von den äußern Gegenständen unters scheidet , ein Zustand des Bewußtseyns genannt.
+
+Für unsere jezige Untersuchung fällt hier sogleich eine Sache von Wichtigkeit heraus , nåmlich der weite Begriff des Be Nehmen wir das Bewußtſeyn in dieſer Alge --Unbestimmtheit , so daß das Hinausgehen meinheit und wußtseyns.
+
+über das Bewußtſeyn ſogleich ein Zurückfallen in die Bewußt losigkeit wäre G so sinkt die Grundansicht , daß} die Philosophie nur Selbstorientirung d . h. Bewußtwerden des Bewußts feyns über seinen ursprünglichen Besitz sey - zu einer Trivialität herab.
+
+Denn wem wird wohl zu behaupten einfallen , daß er die Wahrheit gemacht habe ? daß er sie nicht gefunden, sondern vielmehr erfunden, und daß er dieselbe erst durch sein Denken und Wissen in Existenz gesetzt ?
+
+aber kein Mensch durch sein Erkennen die Wahrheit macht , so wird er sich nur der schon ohne ihn existirenden bewußt , und auch dieß wäre schlechterdings unmöglich, wenn die Wahrheit nicht dem Geiste immanent und ſein ursprünglicher Besitz wäre.
+
+Diese Ansicht erhält aber dadurch sogleich eine bestimmte andere Bedeutung , wenn der ursprüngliche Besit des Geistes (gleichviel zunächst in welcher Bedeutung ) als ein beschrån k ter angegeben wird , so daß mit dem Bewußtwerden dieses Be fißes doch Gott nicht erkannt werden soll , wie er an sich ist. Wenden wir uns hiernach sogleich zur Betrachtung des Hauptpunktes der Theorie des Erkennens , welcher offenbar in dem dialectischen Uebergange aus dem reflectirten Erkennen in [p. 113] olit
+
+6.284: ,,damit ist zugleich unser früherer Ausspruch gerecht
+
+* * das speculative besteht ; hier im Uebergange heißt es denn auch fertigt, daß die Philosophie nur Selbstorientirung oder Selbsta then seiner bestimmten Bedeutung , in welcher es zugleich die Des nter hauptung einer Schranke des Wiſſens in sich faßt , folgt fo
+
+Cid vollendung des Bewußtseyns in sich selber sey. "
+
+Dieß nun in wenig aus der dialectischen Aufhebung des Idealismus der Re flerion , daß die wirkliche Aufhebung deſſelben vielmehr gras
+
+St dezu die Widerlegung jener Fichte'schen Grundanſicht enthält. -
+
+Ugc
+
+In der höchsten Vollendung der Reflexion ( wie sie besonders in der Wiſſenſchaftslehre dargestellt ist) hat ſich das Bewußtſeyn zum reinen Selbstbewußtseyn aufgehoben , und das Ich hat alle ihm äußere Gegenständlichkeit zum Wiſſen von sich selbst verflüchtigt.
+
+Indem Ich etwas weiß , hebe Ich das Unsichſeyn des Etwas auf, und mache dasselbe zu einem Vorgestellten , und weiß also nicht den Gegenstand , sondern nur mich selbst und
+
+::
+
+meine Vorstellung.
+
+Das Ich wirft so alle Beziehung auf ein at
+
+Anderes , auf ein Nichtich und somit alle Schranke fort ; es iſt, der als Beziehung auf sich, alle Realität , das einzig Bleibende ,
+
+흔들 을 등 die Substanz und Macht, alles Seyn in sich zu verzehren. In dieser höchsten Spiße aber hebt ſich die Reflexion durch ſich selbst auf.
+
+Das reine Selbstbewußtseyn nämlich ist als Vers flüchtigung alles: Inhalt selbst eitel und inhaltsleer, und zugleich mi das Bewußtseyn dieser Eitelkeit und Leerheit , nicht wirkliches Wiſſen , sondern Nichtwiſſen , und zugleich Wiſſen dieses nich tigen Wissens ; das reine Selbstbewußtseyn ist als die Negation
+
+Shipp alles Undern , die Negation seiner selbst, sich selbst aufhebendes
+
+Il
+
+Wissen ; es ist als in Einheit mit sich , vielmehr der Wider, bd
+
+-it spruch mit sich selbst, absolute Realität und zugleich Inhalts losigkeit zu seyn. Fichte geht nun aus dem reinen Selbstbewußtseyn nicht. in die Vernunft als die absolute Form über , son , [p. 114] dern in das Bewußtseyn zurück, und kommt eben darum nur scheinbar über die Reflexion hinaus. Der Uebergang nämlich ist hier folgender :
+
+Indem das
+
+Bewußtseyn im Idealismus der Reflexion alle einzelne Objecti vität in ſich verflüchtigt hat , kommt es zur Erkenntniß ſeiner , als eines zweiten , Abgeftammten , als eines Abbildes eines abſoluten Inhalts.
+
+Das leere Sichselbstsehen der Reflexion würde das
+
+Bewußtseyn ſeinem formellen Begriffe nach überhaupt aufheben ; das Bewußtseyn muß daher nothwendig zur Anerkennung eines absoluten Seyns fortschreiten , welches nicht bloß vorgestellt , sondern als absolut vielmehr die Wurzel und Voraussetzung des Bewußtseyns ist.
+
+Das Bewußtseyn besinnt sich , durch.
+
+bricht seine Selbstigkeit und findet in seiner Tiefe die unabweiss bare Beziehung auf ein Urſeyn , und dieß ist der einzige Inhalt des Bewußtseyns , und wie es auch übrigens vom Mannigfalz tigen zu wissen vermeinte, so weiß es ursprünglich und in der Wurzel auch darin nur vom Absoluten , als dem sich offens barenden . Als Wissen von Gott hat das Bewußtseyn den Quell der Wahrheit in sich selbst gefunden , und das denkende Entwickeln der Offenbarung Gottes im Bewußtseyn bleibt einziger Inhalt der Philoſophie wie alles Bewußtseyns , indem jene nie aufhört, formell ihren Augpunkt im Selbstbewußtſeyn zu algi haben.
+
+Daß die Philosophie und alles Wiſſen den Augpunct im Selbstbewußtseyn habe , war zunächst auch die dem Idealismus der Reflexion eigenthümliche Anſicht ; eben daher ging aus ihm Der Widerspruch hervor , daß alles Wissen nicht die Wahrheit weiß, ſondern dieselbe vielmehr aufhebt , und das Selbstbewußt= feyn Alles in sich und seinen Focus hineinziehend , nur seine eigne Inhaltslosigkeit anschaut.
+
+Dieser Augpunkt soll hier nun bleiben, dessen ungeachtet aber soll vom Abſoluten als dem sich offenbarenden gewußt werden.
+
+Hiernach scheint die Ichform [p. 115] nicht festgehalten , sondern vielmehr durchbrochen und überwunden.
+
+Allein es tritt sogleich eine Zweideutigkeit ein : wenn gleich wir wohl vom Absoluten wissen , indem es nicht in sich ver schlossen bleibt , sondern sich offenbart , so erkennen wir doch hiermit wird erst das nicht , was das Absolute an sich iſt Selbstbewußtseyn als der Augpunkt festgehalten.
+
+Daß wir vom Abſoluten nur wiſſen , insofern es sich offenbart , verſteht ſich eigentlich von selbst : wir wissen vom Offenbaren , vom verschlossenen Absoluten können wir nichts wissen.
+
+Nicht minder kann es sich auch von selbst verstehen , daß wir das Ansich des Absoluten nicht erkennen können , jenachdem nämlich diese Behauptung verstanden werden soll.
+
+Das Wissen nåmlich hebt das . Ansichſeyn nothwendig auf und macht es zu einem Für andersseyn , und in dieser Bedeutung würde das Absolute selbst fein Ansichseyn nicht erkennen können , weil das Erkennen das Ansichſeyn zum Fürsichseyn aufheben würde ; soll die unmittel barkeit durchaus unmittelbar bleiben , so wird natürlich ein Wissen , welches Vermittelung ist , unmöglich gemacht.
+
+Wirkliche Bedeutung bekommen beide Behauptungen , sowohl daß wir das Absolute nur erkennen , insofern es sich offenbart , als daß wir das Anſich des Abſoluten nicht erkennen können , erst durch die nähere Bestimmung , daß die subjective Form des Selbstbes wußtseyns als der Augpunkt alles Erkennens festgehalten werden soll.
+
+Indem aber das Absolute nicht das Anſich als ſein innerstes Wesen offenbart , offenbart es ſich nicht wirklich , sone dern seine Offenbarung ist vielmehr das Verbergen deſſen , was es an sich ist ; und mögen wir immerhin sagen , daß das Absolute in uns Zeugniß von sich selbst ablege , ſich abſpiegele , ſo ist doch das Bewußtseyn ohne Wiſſen des innersten Wesens des Absoluten nur ein Hohlspiegel und Flachspiegel , der das Bild verdreht und verzerrt ; dem Wissen tritt immer wieder ein Ding an sich gegenüber , und iſt dieſem Unsich gegenüber 8* [p. 116] unwahres und unwirkliches Wissen , tros des ſich offenbarenden Absoluten doch Nichtwiſſen , und zugleich Wiſſen dieſes Nicht wiſſens , ein unglückliches Bewußtseyn , das durch den Widerspruch in sich selbst über sich hinausgetrieben wird. Unbegreiflich ist es aber, wie sich dieses subjective Wissen vom sich offenbarenden und dabei verschlossen bleibenden Absoluten durch einen dialectischen Uebergang aus dem reflectirten Erkennen ergeben soll.
+
+Schon im reflectirten Erkennen wird das Selbstbewußtſeyn , als Augpunkt alles Wiſſens festgehalten, und eben darum weiß das Ich nicht wirklich ein Anderes , sondern nur sich selbst , und eben daraus geht der Widerspruch und die nothwendige Auflösung der Reflexion hervor.
+
+Indem das
+
+Selbstbewußtseyn festgehalten wird , wird die Reflexion nicht überwunden , sondern sie wird nur als ein abschreckendes Beispiel aufgestellt , um zu zeigen , zu welchen heillosen Resultaten die Consequenz führt , und um eine Unbestimmtheit und Inconsequenz zu sanktioniren.
+
+Denn das Bewußtseyn weiß in diefem sogenannten speculativen Wiſſen nie das Object , sondern immer nur sich selbst, ist Subject und Object des Erkennens , ebenso wie im reflectirten Wiſſen.
+
+Der Idealismus der Re flexion wird hier nur so aufgehoben , daß die subjective Form festgehalten , der Inhalt aber wirkliche Wahrheit werden soll. Dieß ist aber schlechterdings unmöglich , und es ist nicht das Festhalten der subjectiven Form , welches sich als nothwendiger dialectischer Fortschritt aus dem Idealismus der Reflexion er giebt, sondern vielmehr die Aufhebung derselben zur · abſoluten Form der Vernunft und des Geiſtes , welche einzig und allein die dem wahrhaften Inhalte gemåße Form ist.
+
+Für die subjec tive Form kann der Inhalt nicht absolut ſeyn , sondern das Festhalten derselben muß zunächst einen Dualismus und ein uners kennbares Ansich herbeiführen , und dieser Dualismus treibt sich nothwendig wieder hinauf zur subjectiven Aufhebung in das [p. 117] reine Selbstbewußtseyn w dann sind wir wieder auf dem Punkte angelangt , von dem wir ausgingen. Wollten wir in der Phänomenologie als der Wiſſenſchaft vom erscheinenden Wiſſen den Standpunkt angeben , welchen diese scheinbare Aufhebung der Reflexion einnimmt , so wåre dieß der Uebergang aus der Freiheit des Selbstbewußtseyns und dem unglücklichen Bewußtseyn in die Vernunft , ohne wirklich den Begriff der Vernunft zu erreichen. Rückfall in folgenden Worten an :
+
+Hegel deutet diesen
+
+Die Kategorie, sonst die Bedeutung hatte , Wesenheit des Seyenden zu seyn, unbestimmt des Seyenden gegen das Bewußtseyn , überhaupt oder des Seyenden ist jest Wesenheit oder einfache
+
+Einheit des Seyenden nur als denkende Wirklichkeit ; oder ſie ist dieß, daß Selbstbewußtseyn und Seyn dasselbe Wesen ist , dasselbe , nicht in der Vergleichung , sondern an und für 影 ſich. Nur der einseitige schlechte Idealismus läßt diese Einheit wieder als Bewußtseyn auf die eine Seite und ihr gegenüber ein Anſich treten .“ (Phánom. S. 178.) Von hier aus bis zum absoluten Wiſſen hin ist nun freilich noch ein weiter Weg ; jedoch ist auch nach Fichte mit der Aufhebung der Reflexion . das Wiſſen noch nicht vollendet, } sondern das speculative Erkennen selbst entwickelt sich wieder. durch die Vernunftanschauung, und das speculative Denken als solches zum höchsten
+
+, allversöhnenden " Standpunkte , speculativ anschauenden Erkennen .
+
+Sehen wir also zunächst diese Entwickelung des speculativen Erkennens genauer an. Hier håtten wir vor AVem die Unbestimmtheit und die Willkür der Dialektik zu rügen ; denn das speculative Denken als solches, welches vorzugsweise der Standpunkt der Hegelschen Philosophie seyn soll, ergiebt sich weder als nothwendig aus dem ; Vorhergehenden, noch iſt es wirklich der Standpunkt Hegels, noth wenn er es wäre, hebt er sich wirklich dialektischzum folgenden auf.
+
+[p. 118] Sunächst findet hier eine Schwierigkeit merkwürdiger Art statt.
+
+Wenn sich früher schon ergeben hat , daß das Selbst bewußtseyn der Lugpunkt alles Erkennens bleiben muß , so besteht nach Fichte's der Mangel der
+
+Segelschen Philosophie respectirt.
+
+wiederholten Anklagen darin , daß sie diese Schranke
+
+Soll sich nun dennoch die Hegelsche Philosophie als ein nothwendiger Standpunkt und Durchgangspunkt des sich entwickelnden Wissens ergeben, so müßte vor Allem die momentane Aufhebung jenes Augpunktes sich als nothwendig erweisen, und dann zur Wiedereinrenkung der Speculation in ihre Fugen fortgeschritten werden.
+
+Ja es ist nicht leicht einzusehen , wie der
+
+Hegelsche Standpunkt überhaupt als ein speculativer , über das reflectirte Erkennen hinausliegender sollt nachzuweisen seyn , da er gegen die Grundansicht der speculativen Philoſophie vers stößt, und wegen dieses Grundirrthums eigentlich noch unter das reflectirte Erkennen fällt , welches wenigstens doch diese Basis des Selbstbewußtseyns festhält.
+
+Als Rückfall aber kann dieser Mangel auch nicht gut dargestellt werden , weil bis jezt eine unwahre Aufhebung der Ichform noch nicht vorgekommen ist also kein Standpunkt da ist , wohin die Philosophie zurück, fallen könnte. Das einfachste Mittel , diese Schwierigkeiten zu umgehen , besteht darin , daß man es so genau nicht nimmt, ſondern von dem als einseitig endlich
+
+Standpunkte heraussucht , was gerade paßt, zu erweisenden und eben so das
+
+Resultat, welches sich ergeben hat , beliebig A zerspaltet , die eine Seite hervorhebt und dagegen die andere vergißt oder wenigstens verschweigt. Als die erste Stufe des speculativen Erkennens wird die Vernunftanschauung angegeben.
+
+Sie iſt , obwohl hier im Busammenhange vermittelt und als wahr bewiesen , doch für sich das unmittelbare Erkennen ; und als solches die Basis alles religiöfen Glaubens. Der Uebergang zum speculativen Denken [p. 119] wird nur dadurch gebildet , daß das Ungenügende , damit aber Charakteristische der Gotteserkenntniß auf diesem Standpunkte darin beruhen soll , daß fie ſich noch nicht versöhnt und aus geglichen habe mit dem Bewußtseyn des unmittelbar Geges denen , der endlichen Welt ; daß Gott allein die Wahrheit, sey ihre tiefste Zuversicht , jedoch dränge sich im unmittelbaren Bewußtseyn das Endliche , Bergångliche , der Schein an dessen Stelle und damit falle das Bewußtseyn des Ewigen und das Bewußtseyn des Endlichen ſchlechthin auseinander. S. 295, Man weiß nicht , was an der Vernunftanschauung noch vernünftiges seyn solle , wenn das Charakteristische derselben nicht die Versöhnung, sondern der Zwiespalt ist.
+
+Jedoch hat sich als
+
+Resultat der Aufhebung des reflectirten . Erkennens auch nicht nur dieß ergeben , daß Gott allein die Wahrheit sey , sondern daß sich das Absolute im Bewußtseyn offenbare ; daß also der sich offenbarende Gott die Wahrheit sey.
+
+Wenn die
+
+Bernunftanschauung , das Allein- Seyn des Ewigen " (S. 296) behauptet im Gegensatz zum unmittelbaren Bewußtseyn , welches ,,das Allein- Seyn des Endlichen " festhielt - ſo hört mit diesem abstracten Dualismus
+
+Vernunftanschauung fogleich auf, vernünftiges speculatives Erkennen zu seyn , von dem Fichte selbst als eigenthümliche Beſtimmung S. 287 angiebt : Ulles Wirkliche überhaupt ist Offenbarung Gottes , und auch in dieser Beziehung iſt Zwiespalt und Dualismus jeder Urt gänzlich verschwunden. Wenn zugleich angegeben wird , daß das Christenthum bei dem abstracten Auseinanderfallen des Ewigen und Endlichen übers haupt bei ihrem Gegensahe keineswegs stehen geblieben sey , so ergiebt sich schon daraus , daß das Eigenthümliche der religiösen Anschauung durchaus nicht dieser Gegensatz ist; aber nicht nur die christliche Religion iſt darüber hinausgegangen, ſondern alle und jede Religion , eben weil sie vernünftig íst ; und das Auseinanderhalten des Ewigen und Endlichen ist nicht Vernunftanschauung , sondern vielmehr die Sache des abstracten Verstandes und des reflectirenden endlichen Erkennens ; insofern kann der Zwiespalt , der sich in der Reflexionsphiloſophie des Iacobi darstellt , durchaus nicht mit der tiefsten Versöhnung der christlichen Religion als eine Stufe zusammengebracht
+
+Dem Wesen der Vernunftanschauung gemäß , wie `es sich aus dem Vorhergehenden ergab , mußte der Fortschritt zum speculativen Denken sich nothwendig an die Form der Un mittelbarkeit anknüpfen ; und es mußte nachgewiefen werden, wie in der Unmittelbarkeit der Vernunftanschauung schon der Quell des freier Denkens liegt , das jene Unmittelbarkeit aufhebt. Im speculativen Denken als solchem soll nun ,, der bis . herige Gegensatz von Subjectivem und Objectivem nicht nur aufgehoben und als nichtig gesetzt ſeyn , ſondern der Begriff des Objectiven eine höhere Bedeutung bekommen haben “ (nåmlich das Objective soll das Wahre , die göttliche Offenbarung im Bewußtseyn ſeyn). Zunächſt iſt unbegreiflich, wie dieſer Gegensatz ein bisheriger genannt werden kann , da er doch schon durch die Aufhebung des reflectirten Denkens verſchwunden ist.
+
+Zuversicht der Vernunftanschauung soll verloren gehen durch das ſich überall aufdringende Endliche , und daraus der Speculation die Aufgabe erwachſen , die reinen Begriffe des Ewigen und Endlichen auseinander zu entwickeln.
+
+Ob dieser Gegensatz des
+
+Ewigen und Endlichen auch wieder den schon überwundenen des Subjectiven und Objectiven erwecke , und wie und in welcher bestimmten Weise beide Gegensäße sich von Neuem wieder auflösen , wie wieder zur Grundanficht des Bewußtseyns von G diese Fragen können doch unmöglich sich selbst zurückgekehrt sey durch die bloße Erzählung , daß dieſes und jenes ſich ſo verhalte, für beantwortet gelten , am wenigsten aber ist diese Erzählung schon ein dialektischer Beweis und eine speculative Entwickelung ; und ist auch die Entwickelung der Begriffe des Unendlichen und
+
+[p. 121] Endlichen u. s. w. erst die wesentliche Aufgabe der Ontologie , so kann doch das Resultat derselben hier nicht ohne Weiteres anticipirt werden , denn eine solche Vorausnahme geht über eine einfache Versicherung schlechterdings nicht hinaus. · Daß Hegel nun aber bei der bloßen Voraussetzung der Identität von Denken und Seyn , auf welcher alles unmittelbare Bewußtseyn beruhe , stehen geblieben sey , ist , wie schon früher gesagt , das non plus ultra des Mißverstehens ,
+
+Aber nicht bloß von vorne her sey die Philosophie Hegels somit ergänzt und berichtigt, sondern auch in ihrem Grundresultate über sich hinausgeführt.
+
+Soll dieſe Hinausführung ſchon im
+
+Vorigen statt gefunden haben, so würde sie darin bestehen, daß die Philosophie vom Standpunkte der Vernunft und des Geistes auf den des Bewußtſeyns zurückgeschoben ist ; oder , weil der Standpunkt der Vernunft bis jezt noch gar nicht eingenommen wurde, kann von einem Zurückſchieben eigentlich nicht die Rede feyn , sondern nur von einem Zurückbleiben , welches die Hegelsche Philosophie gar nicht berührt.
+
+Doch findet auch im Folgenden noch eine Hinausführung ſtatt , indem über das Denken das speculativ Unschauende tritt. hauptung betrifft , speculative
+
+Was aber die Des daß Hegel das Absolute nur als abſoluten
+
+Proceß faſſe , und daß nach ihm nur die Kategorie das einzig Wahre und Ewige sey , so wird dieß im Folgenden seine Widers legung finden.
+
+Der Uebergang zu dem höchsten allversöhnenden
+
+Standpunkte wird so gemacht : „ Über selbst auf dem Standpunkte des dialektischen Denkens bleibt noch eine Einseitigkeit zurück, deren Ueberwindung das Bewußtseyn erst in sich vollendet und unsere Untersuchung abschließt.
+
+Es hat sich hier bis zu seinem
+
+Gipfel , dem speculativen Erkennen , emporentwickelt und darin isolirt :
+
+damit stehen ihm seine Vorzuſtånde und bedingenden
+
+Momente, Anschauen, Vorstellen u . s. w. nur noch gegenüber. Das speculative Erkennen faßt sich noch als die einzige Form [p. 122] der Wahrheit , und der Zwiespalt im Bewußtseyn , wie der Gegensatz zwischen dem a priori und a posteriori , bleibt damit in ganzer Kraft.
+
+Doch es hat nicht bloß den erreichten Gipfel festzuhalten , sondern das Reſultat der ganzen vorhergehenden Theorie zusammenzufassen , d . h . das Selbstverständniß des Bewußtseyns , das wir in der bisherigen Untersuchung voll zögen und begleiteten , hat ſich , zurückgreifend und ſeine vorher gehenden Momente zusammenfassend , hier zu vollenden."
+
+Das Bewußtseyn habe sich erkannt in allen Formen , als in der Wahrheit, der Offenbarung Gottes ; so sey auch das un mittelbare Bewußtseyn , die Anschauung , in ihrer Realität gerechtfertigt, weil verstanden.
+
+Wie nur Eine Welt, die göttliche Offenbarung , so sey auch nur Eine Erkenntniß derselben in Anschauung wie im Denken , welche beide, weil Eins in der Wurzel , sich innerlich ergänzen.
+
+Aus diesem Uebergange möchte zunächſt ersichtlich seyn , daß es nicht die dialektische Methode gewesen ist , welche die Entwickelung in ihrem nothwendigen Fortschritte geleitet. Denn der dialektischen Methode ist es wesentlich und eigenthümlich, daß sie kein Moment in ihrem Fortgange verliert , daß der höhere Begriff die frühern in ſich enthält , und nur dadurch der höhere und concrétére ist.
+
+Hier aber soll das speculative
+
+Denken feine Vorzustände ſich nur gegenüber haben ; hat es ſich wirklich als der höchste Standpunkt dialektiſch entwickelt, so steht es mit den ´vorangehenden Standpunkten nicht in dem Verhältnisse des Gegensates , sondern hat diese vielmehr in ihrer Wahrheit anerkannt.
+
+Sollen aber Denken und Unschauen sich ergänzen , ſo tritt hiermit statt des innern dialektiſchen Verhältnisses ein rein äußerliches ein ; eine solche Ergänzung kann nur gefordert werden , wenn die Anschauung nicht durch sich felbft sich zum Denken aufgehoben hat , so daß das aus der Anschauung hervorgehende Denken diese als Moment in sich [p. 123] enthält , ſondern wenn das Denken åüßerlich zur Anschauung herzugebracht ist , wodurch es nothwendig als ein besonderer
+
+Standpunkt so einseitig erscheinen muß als die Anschauung. 身 beide als sich ergänzende Elemente
+
+Werden nun wieder verbunden , so ist diese Verbindung keine wirkliche Einheit, sondern vielmehr ein totaler Gegensatz.
+
+Als sich ergänzend haben beide Elemente einen besondern Inhalt , wodurch sie nothwendig auseinander fallen , am wenigsten aber kann das äußere Hinzunehmen der Anschauung zum Denken als ein dialektischer Fortschritt über das speculative Denken hinaus ans gesehen werden. Außerdem aber entzieht sich dieser höchste allversöhnende
+
+Standpunkt durch das Schwankende und Willkürliche seiner Bestimmungen jeder weitern philoſophiſchen Betrachtung.
+
+Vor
+
+Allem hätte beſtimmter angegeben werden müſſen , was hier denn eigentlich unter Unſchauung zu verstehen sey. · Schon in der vorangehenden Entwickelung kommen verschiedene. Weisen der Anschauung vor ; diese und vorzüglich die Vernunftanschauung ſcheint gemeint zu seyn ; jedoch iſt die zum speculativen Denken hinzutretende Anschauung auch wieder eine andere, weil sie einen besondern neuen Inhalt besitzt. In Betreff dieses Inhalts wird besonders hervorgehoben die Erkenntniß , daß Ulles , Gott wie Kreatur, individuell sey ; diese soll sich auf dieſem Standpunkte unmittelbar ergeben. umsonst
+
+Wie aber und warum ? fragen wir es kann schlechterdings keine kahlere Versicherung geben als diese.
+
+Fichte bemerkt häufig , daß die Erkenntniß
+
+Gottes als des persönlichen Geiſtes nicht nur an das Ende des ganzen Systems, wie bei Hegel, Weiße, versteckt werden dürfe, sondern von dieser höchsten Erkenntniß aus könnten erst die
+
+Probleme der Philosophie in letzter Instanz gelöst werden . Wenn man aber einerseits jene Versicherung , daß Gott Person sey, auch nicht die niedrigste Weise der Erkenntniß nennen kann , so [p. 124] begreift man anderseits nicht , wie Fichte bei dieser Forderung die dialektische Methode noch als einen Fund betrachten kann, der unverbrüchlich festzuhalten sey. Denn die dialektische Methode bedarf keiner schon im Voraus festgesetzten Rücksichten , keiner äußern Gesichtspunkte , aus welchen die Sache anzusehen sey, ſondern als Entwickelung der Sache selbst ist # sie in jedem Punkte gleich absolut und in dem innersten Kerne der Wahrheit.
+
+Jene
+
+Erkenntniß aber der Persönlichkeit ſcheint einmal ſich auch schon auf dem Standpunkte des fpeculativen Denkens zu ergeben, indem (S. 305) als die höchste Kategorie die der Wechselwirkung angesehen wird und diese ihren höchsten Ausdruck in der Pera fönlichkeit finden soll G dann aber hat es auch wieder das Unsehen , als folle diese Erkenntniß dem höchsten Standpunkte des speculativ anschauenden Erkennens allein vindicirt werden, indem hier Gott nicht mehr ein Jenſeitiges und Gegenstand der ewig nur suchenden Sehnsucht ist , sondern auch die abstracte Auffaſſung Gottes als der unendlichen Negativitåt (—Proceſſes- ) durch das wunden seyn soll. (S. 312. )
+
+absoluten
+
+Persönlichkeit über
+
+Dieß würde mit der anders wo ausgesprochenen Anficht übereinkommen , daß bei der Idee der
+
+Persönlichkeit der aprioriſche Faden des Begriffs abreiße , und so Gott auch philoſophiſch ein unergründliches Geheimniß bleibe ; das unendlich Wirkliche und Concrete müſſe erfahren werden. (Idee der Persönlichkeit S. 11. )
+
+Wollten wir hiernach die zum
+
+Denken hinzutretende Anschauung vorzugsweise als das Organ ansehen, durch welches die Erkenntniß der Persönlichkeit gewon nen werde , so heißt es doch auch wieder (Gegensatz r . S. 23), daß der Begriff der Persönlichkeit nicht undenkbar sey , sondern vielmehr nicht anschaubar und einer vergegenwärtigenden Erfahrung durchaus unzugänglich ; daß zur Erkenntniß eines Objects immer zwei Elemente erfordert würden , nåmlich der Begriff und die Anschauung, und daß die leştere in Beziehung auf Gott [p. 125] ganz ausbleibe , und Gott daher in die Sphäre des absolut Unerkennbaren falle.
+
+(Ebendaselbst S. 31.)
+
+Das Wesentliche der Fichteschen Philosophie besteht einfach darin, daß er den Geist - wie Kant -- als Bewußtseyn fäßt. Das Bewußtseyn aber ist nur Moment des Geistes , nicht der ganze Geist , und hat als Moment existirt nur in ihm.
+
+den Geist zur Voraussetzung,
+
+Es wird also hier , was wesentlich nur
+
+Moment ist , als das Ganze gefaßt und dadurch das Ganze vereinseitigt , nicht an und für sich in seiner Wahrheit erkannt, ſondern nur in einer vereinzelten endlichen Bestimmung.
+
+Bewußtseyn ist aber ferner das Moment des Geistes, in welchem er als erscheinender ist , als Beziehung auf ein Anderes ; 7 es ist abstracte Form , insofern der Inhalt Gegenstand ist , ein ihm Anderes und Fremdes , welches bei Kant ſchlechtweg das Ding Die Philosophie , welche den Geist nur als an sich heißt.
+
+Bewußtseyn faßt, ist daher nothwendig Dualismus, Philosophie der Reflexion.
+
+Fichte erhebt sich nun im Grunde durchaus nicht über Kant.
+
+Was bei Kant das Ding an ſich ist , ist bei
+
+Fichte das Absolute an sich , auch wohl das Innere Gottes, was Kant Erscheinung nennt , nennt Fichte Offenbarung, und " ‚ der (Kantiſche) Begriff der subjectiven Schranken unseres
+
+Wiſſens verwandelt sich in den einer bestimmten Umgrenzung desselben innerhalb des allgegenwärtigen Reiches der Wahrheit.“ (Fichte über Gegensatz Th. 1. S. 171.) Zunächst ist es nun das Wort und der Begriff der Offenbarung , woraus der . Schein hervorgeht , als sey über die Kantiſche Philoſophie durchaus hinausgegangen , und als sey der Dualismus derselben glücklich überwunden. So soll es denn auch seyn . Gott ist kein uners kennbares Ding an sich , sondern wir erkennen ihn , weil er sich offenbart in uns, Zeugniß von ſich ſelbſt in uns ablegt ; das Bewußtseyn hat die Realität nicht als ein unerkennbares Ding an sich bloß sich gegenüber : überhaupt ist der ganze Gegensat [p. 126] eines Subjectiven und Objectiven und die Selbstentzweiung des Bewußtseyns völlig überwunden."
+
+,, Bewußtseyn eben weil es dieß ist und nicht Nichtwiſſen ( Offenbarung Gottes als der Wahrheit in sich) ist des objectiv Realen schlechthin theilhaftig."
+
+"! Wir erkennen nur insofern uns selbst, wie die Dinge nach ihrem Wesen , als wir Theil haben an der Urerkenntniß, durch die Alles ist.
+
+Das Subjective in uns kann die Objectivität in den Dingen nur dadurch überwinden und sich aneignen, weil fie in Gott schon überwunden oder vielmehr gar nicht vorhanden ist, weil es ein todtes Seyn , ein chaotisch Dunkles , von Bewußtseyn ursprünglich nicht durchdrungenes und darin erſchaffe nes Object gar nicht giebt, weil Alles göttlicher Gedanke iſt.— Wir erkennen die Dinge , weil sie Gottes Gedanken , in ſeinem Bewußtseyn vorgedacht sind , wir jedoch selbst Bewußtſeyn, obgleich kreatürliches , ſind."
+
+(Ganz ähnlich ſagt Göſchel : Für uns kommt das Denken allerdings hinterdrein , aber im Abſoluten ist Denken und Seyn identisch ;
+
+ob wir gleich nach denken , so ist es doch vorausgedacht. " Monismus des Gedankens 6. 29.)
+
+Sehen wir aber diese Offenbarung und die daraus sich ergebende Aufhebung des Dualismus etwas nåher an, laſſen wir uns die unbestimmten Ausdrücke nicht gefallen , Ynd dringen auf Klarheit und Bestimmtheit - fo fommt der Dualismus in bester Kantischer Form zum Vorschein .
+
+Daß wir , so zu fagen , bis über die Ohren , in der Wahrheit fihen mag wohl feine Richtigkeit haben ; der Hand des allmächtigen Gottes können wir schwerlich entfliehen , denn in ihm leben , weben und sind wir. Aber ebenso lebt auch jedes Thier , liegt jeder Stein inner halb des Reiches der Wahrheit ; wir aber wollen nicht nur in der Wahrheit seyn, sondern wollen sie wissen.
+
+Damit nun verhält es sich bei Fichte, um ein Bild des Leibnitz zu gebrauchen, einfach so: ebenso wie eine Stadt , von verschiedenen Gesichts. punkten aus geſehen , sich verschieden ausnimmt , und dabei doch [p. 127] ein und dieselbe Stadt * bleibt , ja dieselbe bleibt , könnte man hinzusehen , es mag ein Blinder hineinsehen oder ein Scharfs fichtiger, und wie Keiner hineinsehen könnte, wenn sie nicht da wäre - ebenso sieht das Bewußtseyn in die Wahrheit hinein , und ist ein Spiegel , in welchem sich das Absolute abspiegelt ; dabei ist aber das Bewußtseyn an sich ein endlicher Gesichtspunkt, denn was das Absolute Ansich iſt , wiſſen wir nimmer, sondern nur was es für uns ist , und dieß eben bringt die Philosophie zur Bestimmtheit und Klarheit , sie ist die Orientirung des Bewußtseyns über seinen endlichen Gesichtspunkt.
+
+Da haben wir die ganze Weisheit des Dings an sich ! Was ist denn nun eigentlich offenbar ?
+
+Das Anſich nicht, ſondern nur, daß das Unsich nicht offenbar ist. Wir wissen nur von dem Offens um mit baren, welches nicht das Unsich offenbart, also Kant zu reden wir wissen nur Erscheinung .
+
+Inner .
+
+halb der Erscheinung oder der Offenbarung , d . h. derjenigen, welche das Unsich nicht offenbart , wissen wir die Wahrheit das heißt mit andern Worten : wir wissen die Wahrheit nicht. und sind auch die Dinge vorgedacht , so erkennen wir sie durch unser Nachdenken doch nimmer wie fie ,, in Gott sind " ; denn als Gedanken Gottes sind sie sein Inneres , das für uns ewig verschlossen bleibt.
+
+Sehen wir" aber auf den Des weis , den Fichte von seinen Principien führt , ſo hat es vollends den Anſchein , als wäre die Kantische Philosophie weit übers schritten.
+
+Denn diese findet sich als Moment vor , wird durch sich selbst über sich hinausgeführt zur Wiſſenſchaftslehre , und auch darüber wird hinausgegangen , ja noch weiter über Schelling, Hegel. Und zwar wird der Beweis geführt durch die dialektische Methode , wodurch ſich das Reſultat so nothwendig ergiebt, daß kein Mensch daran zweifeln und rütteln kann. In seiner nackten Wahrheit ist aber dieser dialektische Fortschritt einfach dieser : Es wird der Widerspruch angegeben, der in dem Kantischen Resultate [p. 128] liegt , daß wir nur Erscheinungen erkennen , nicht das Ding an ſich ; dadurch wird nämlich auch das Ding an sich eine ſchlecht hin subjective Bestimmung.
+
+Damit wird zur Wiſſenſchafts lehre fortgeschritten , welche durch das Festhalten der Subjectivität jenen Dualismus überwindet und so alles Wissen von einem Objectiven zum Wiſſen von ſich ſelbſt macht.
+
+Darauf aber des sinnt sich das Bewußtseyn , erfährt sich als ein Abgeſtammtes, und nun verwandelt sich die Erscheinung in Offenbarung. Das Bewußtseyn soll sich bei diesem Wortwechsel beruhigen , und soll sich nicht wieder durch den Widerspruch anfechten und über sich hinaus in die Wissenschaftslehre hinein treiben laſſen , der darin liegt , wenn wir sagen : wir wiſſen nur Offenbarung , nicht das Ansich. Ferner hat Braniß in seinem System der Metaphysik vorangeschickt, welche , genau genommen die Erhebung des Denkens zu dem in der darauf eine psychologische Einleitung folgenden Darstellung entwickelten Standpunkt bezeichnet. “ (S. 2.) Doch giebt er dieser Einleitung sogleich eine ganz subjective Bedeutung, indem sie nicht etwa den Standpunkt der Wiſſen schaft als einen nothwendigen rechtfertigen soll , sondern nur zur Orientirung des philoſophirenden Subjects beitragen , so daß der neue Standpunkt der Wissenschaft als eine Denkforderung resultire. Es wird nun von der kritischen Philosophie ausgegangen und ihr Standpunkt als ein unbefriedigender nachgewiesen, und dann soll das " höhere Selbstbewußtſeyn, auf deſſen Erzeugung und Entwickelung entscheidend hingewirkt zu haben ,
+
+Kants welthistorische Bedeutung ausmacht, ſeinen wesentlichen Momenten nach aufgezeigt werden , und zwar , wie sich von selbst vers steht , ohne alle wissenschaftliche Rechtfertigung , sondern lediglich in der Form einer historischen, Darstellung , wie ſie auf innere Erfahrung ja nicht minder anwendbar ist , als auf äußere. "
+
+[p. 129] Allerdings ist die Einleitung nicht der Drt , den Stand. punkt der Wissenschaft zu rechtfertigen ; demungeachtet muß er, weil er seiner Natur nach nichts Unmittelbares ist , gerechtfertigt
+
+Ohne diese Rechtfertigung bleibt der Anfang der Metaphysik, er mag mit dem Seyn oder Thun gemacht werden, ein willkürliches Postulat.
+
+Eben so wenig kann eine psycho logische Entwickelung in der Form von Thatsachen diesen Mangel ersehen.
+
+Wenn also hier einmal zu geringe Anforderung an die vorangehende psychologische Entwickelung gemacht werden , ſo iſt auch ferner die historische Darstellung derselben unwahr , weil undialektisch.
+
+Jedoch ist auch Braniß in der That weit davon entfernt , nur zu erzählen , ſondern es leuchtet überall die Tendenz einer dialektischen Entwickelung hindurch. Den Hauptmangel aber theilt diese psychologische Einleitung durchaus mit der Kritik der reinen Vernunft , obwohl Braniß selbst sehr scharf dieſen Mangel der Kritik hervorhebt.
+
+Dieser besteht nämlich einfach darin , daß die drei “Wirklichkeiten, welche der Mensch nach Braniß in der Entfaltung seines geistigen Lebens offenbart , schlechterdings auseinander fallen und dann wieder nur åußerlich zuſammengebracht werden. Wie 'undialektisch dieß ist , so ist es auch keineswegs etwa eine That=" sache der Erfahrung. Die Entwickelung nämlich weist nicht nach, wie das sinnliche Bewußtseyn durch ſich ſelbſt ſich zum Verſtande aufhebt und so ein Moment desselben ist , und eben so wenig wie der Verstand sich zur Vernunft aufhebt , so daß die Wahrheit von den vorangegangenen Stufen dieſelben in ſich enthält
+
+ſondern die Sinnlichkeit wird nur als die Veranlassung dargestellt , daß der Verſtand für sich hervortrete und der Ver stand wieder nur als die Veranlassung zum freien Hervor treten der Vernunft. Sinnlichkeit , Verſtand und Vernunft ſind fo als verschiedene Vermögen oder Bestandstücke für sich schon da; und wenn die Sinnlichkeit in ihrer verschiedenen Gestaltung [p. 130] den Verstand herausgelockt hat , läßt der Verstand die Sinnlichkeit laufen und ist für sich, und ſo nimmt auch die Vernunft die Sinnlichkeit und den Verſtand nicht mit sich , sondern ist sinnlich und unverständig.
+
+uns
+
+So soll ( S. 60) das beharrliche Ich sich als das höchste Reſultat der sinnlichen Entwickelung zeigen und dennoch gar keinen sinnlichen Charakter an sich haben. In dem ganzen Verlaufe der finnlichen Entwickelung soll sich das thåtige Moment immer mehr geltend machen und die lehte
+
+Hemmung der Thätigkeit durch die Paſſivität nur dazu dienen, das Ich zum Festhalten seiner selbst im Wechsel seiner Zuſtånde zu sollicitiren ; und wenn gleich das Ich nichts Sinnliches an sich hat , so soll doch jener Entwickelungsproceß gar nichts anderes seyn , als eben nur die Geneſis des ſelbſt bewußten , somit selbstständigen menschlichen Daseyns. Das Wort follicitiren" erklärt hier ,
+
+Genesis auf sich hat.
+
+was es mit der
+
+In dem abstracten Gegensaße des
+
+Verstandes und der Sinnlichkeit reſultirt der Verſtand wirklich aus dem Entwickelungsproceſſe der Sinnlichkeit, sondern er ist schon fertig da und wartet nur auf sein Auftreten ; Sinnlichkeit und Verstand sind so zwei besondere Personen , und der Mensch so zu sagen von ihnen besessen zwiefaches , ja sogar entgegengesetztes Daseyn."
+
+hat " ein Ganz ähnlich verhält es sich auch mit dem Hervorgehen der vernünftigen Wirklichkeit aus der verständigen.
+
+Es werden die mannigfachen
+
+Widersprüche nachgewiesen , in welche sich der Verstand verwickelt und der Mensch kommt dadurch zum Bewußtseyn der Nichtigkeit des verständigen Erkennens.
+
+Diese Einsicht soll wieder die
+
+Veranlassung seyn , daß sich der Mensch zur freien und vernünftigen Wirklichkeit erhebe.
+
+Braniß urgirt hier selbst, daß, weil in der Freiheit von keiner Nöthigung die Rede seyn könne, die Entwickelung der verſtändigen Wirklichkeit eben nichts mehr als eine Veranlaſſung ſey für das freie Hervortreten der
+
+[p. 131] Vernunft ; dabei aber ist es unbegreiflich, wie dennoch behauptet werden kann , daß der Verlauf der verständigen Wirklichkeit nichts anderes als die Geneſis des vernünftigen Selbstbewußts feyns sey (S. 111).
+
+Die Vernunft ist hier wieder als ein des sonderes Fürsichseyn fertig da , und indem der Verstand nicht selbst zur Vernunft wird , wird er nur negirt und fortgeworfen, aber nicht als nothwendiges Moment der Vernunft selbst aners fannt. Was hier Vernunft genannt wird , ist so zunächſt weiter
+
+Abstraction reinen
+
+Selbst3 bewußtseyns ; dieſe abſtracte Gestalt foll aber die Vernunft dadurch verlieren , Inhalt giebt.
+
+daß sie sich selbst einen freien vernünftigen
+
+Troß dieses Inhalts aber bleibt doch die Vernunft eine Abſtraction. Denn mag sie auch immer innerhalb ihrer selbst die Gegenſåße auflöſen , in welche der Verstand sich verwickelt, so hält dieß doch nur so lange vor , als sie nicht außer sich sieht.
+
+Außer sich aber muß sie sehen , wenn sie nicht blind ſeyn will , weil ſie die Sinnlichkeit und den Verstand nicht in sich, sondern außer sich hat.
+
+Giebt aber die Vernunft ihr abstractes Fürsichseyn auf, so ist auch der Friede und die Freiheit vorbei , und ein allseitiger Krieg zwischen lauter selbst ſtåndigen Personen tritt hervor.
+
+Dieses abstracte Wesen der
+
+Vernunft stellt sich am einfachsten heraus in der Eintheilung der Philoſophie in Idealphilosophie und Realphiloſophie , welche ſich durchaus nicht einander decken sollen , indem die Idealphilo sophie oder Metaphysik die Weltidee aus der absoluten Idee vollständig entwickelt und sich aöſchließt ; die Realphilosophie aber die Realität der Idee in der Wirklichkeit nicht aufzuzeigen vers mag, weil die Wirklichkeit selbst keine vollendete ist , alſo der Idee nicht entspricht.
+
+Wenn nun bei diesem Verhältnisse es wieder schlechterdings unbegreiflich bleibt , wie dennoch beide
+
+Theile der Philosophie „ einerlei Inhalt " haben sollen , so ist eine Erfüllung derHoffnung, daß ſpåter vielleicht dieser Dualismus 9* [p. 132] aufgehoben werden möchte , nicht zu erwarten , so lange die pſychologiſche Entwickelung , wie ſie Braniß gegeben , Wahrheit enthalten soll.
+
+Weiße. Auch nach Weiße soll der Metaphysik eine, Wissenschaft vorausgehen , welche er Logik nennen will ; sie soll Denk und Erkenntnißlehre seyn.
+
+Aus der Skizze , welche in der Ein leitung zur Metaphyſik von dieser Vorwiſſenſchaft gegeben wird, erhellt so viel , daß die Logik vor Allem den Gegensaß , des
+
+´Bewußtseyns von Subject und Object als einen endlichen nach weisen und aufheben soll; und wie es scheint , soll dieß ebenfalls durch den doppelten Uebergang aus dem Bewußtſeyn ins Šelbſt bewußtſeyn und aus dieſem in die Vernunft geschehen. Urgirt wird besonders , daß die Erkenntniß der Schranken sogleich eine Er hebung über dieselben sey , und die Logik soll ,, ausdrücklich dadurch , daß sie die endliche Subjectivitât als Schranke des Erkennens sest, zu dem Bewußtseyn gelangen , daß diese Sub jectivitåt keine solche Schranke , sondern daß das erkennende Ich wahrhafte Subject - Objectivität , absolute Idealität des Seyns und Erkennens sey."
+
+Mit diesem Resultate der Logik würde ohne Zweifel bewiesen seyn , daß die Kategorien nicht nur subjective Denkformen sind , sondern objective Geltung haben ; schwerer aber ist einzusehen , wie die Logik zugleich die Kategorien als das negativ Absolute darstellen soll. würde auch diese Nachweisung nur eine
+
+Jedoch vorläufige gelten können ; denn die wirkliche vollendete Erkenntniß des Wesens der Kategorien kann einzig und allein durch die Ente wickelung ihrer selbst gewonnen werden ; auch bleibt die Logik aus dem Systeme selbst ausgeschlossen , weil " der Inhalt dieser Wissenschaft noch kein gegenständliches Wiſſen , ſondern die
+
+Selbstverständigung des Geistes , ſeine Erhebung zum gegen= ständlichen Wissen und Erkennen oder zur Idee der Wahrheit [p. 133] ift.“ (S.92.)
+
+Wir haben schon früher angeführt , worin nach
+
+Weiße das Wesen der Kategorie und die Aufgabe und der Inhalt der Metaphysik bestehen soll.
+
+Als Formen , die für sich nichts ſind , ſondern nur im Andern , sollen sich die Kategorien zum Inhalte aufheben ( S. 54) , und eben durch diese Aufhebung - ihre Nichtigkeit und Wesenlosigkeit ' beweisen.
+
+Gegen diesen
+
+Beweis haben wir alle Bestimmungen über das Wesen der Kategorien 1 nur als vorläufige anzusehen. Dieß wäre sonach zunächst zu untersuchen , wie die Kategorien , nicht als besondere, sondern insgesammt , in ihrer Totalität durch die Negation ihrer felbst ihre Unwirklichkeit beweisen ; und aus diesem Beweise wird auch erst das Wesen der Kategorien in voller Bestimmtheit flar werden können Sogleich fällt die Schwierigkeit, welche diese Aufhebung der Kategorien durch sich selbst bei ihrer Wesenlosigkeit haben muß , in die Augen.
+
+Es iſt nämlich nicht leicht einzu sehen , wie sie sich zum Andern aufheben können , wenn sie dieß Andere nicht zugleich in ſich selbst haben. uns zunächst zur Betrachtung der Methode.
+
+Dieß führt
+
+Indem Weiße diese von Hegel entnimmt , muß es auffallen , daß hier ein und dieselbe Methode zu wesentlich verschiedenen Resultaten führt. Der Verdacht, daß die Methode überhaupt keine Wahrheit enthalte, liegt hier sehr nahe , und so Mancher könnte hierin eine Des 1 währung für seine Beschuldigung finden , daß nåmlich die Methode nur willkürlicher Formalismus sey.
+
+Wir müſſen jedoch die vorläufige Behauptung aussprechen, daß die Methode, welche Weiße in der Metaphysik befolgt , eine wesentlich andere ist als die Hegelsche.
+
+Es wird sich dieser Unterschied der Weißeschen und Hegelschen Methode aus der Betrachtung einiger Begriffs. übergänge sogleich klar ergeben.
+
+Wir wählen hierzu vorzugs:
+
+weise die ersten Abschnitte der Metaphysik , weil Weiße hier im Allgemeinen die Abtheilung aus Hegels Logik beibehält.
+
+Nach
+
+[p. 134] Weiße umfaßt die Lehre vom Seyn , wie bei Hegel , die Kategorien der Qualität , Quantität und des Maaßes ;
+
+und die
+
+Qualiråt gliedert sich wieder in Seyn , Daseyn , 'Unendlichkeit ; während bei Hegel statt der Unendlichkeit das Fürſichſeyn das dritte Glied zum Seyn und Daseyn bildet.
+
+Auffallend ist sogleich der Uebergang aus dem Seyn und Werden ins Daseyn. Der Begriff des Werdens wird als die Forderung eines Undern , $ einer Bestimmtheit bezeichnet, die in ihm selbst , dem schlechthin Unbestimmten , noch nicht ges geben ist.
+
+Der Widerspruch, daß Seyn und Nichts in dem philoſophiſch gefaßten Begriffe des Seyns , welchen wir Werden nannten , Eins und Dasselbe , und dennoch verschieden sind, treibt fort zu der Frage nach der Art und Weise dieser Verschiedenheit in der Einheit , nach der Unterscheidung , die unbe schadet ihrer Einheit , zwischen beiden erfolgen soll."
+
+Diese
+
+Frage findet ihre Lösung , in dem Fortgange zum Daseyn , Andersseyn.
+
+Das Da und das Unders bezeichnen Modificationen an dem Seyn , die daſſelbe zu einem zwischen Seyn und Nichtseyn , wiefern dieselben sich in starrer Abstraction gegens über gestellt werden sollten , in der Mitte stehenden machen. Wie die Sprache diese Redetheile dem Seyn äußerlich voran stellt oder anhångt , so giebt es freilich den Schein , als kåmen diese Modificationen äußerlich an das Seyn , als könnte Seyn auch ohne sie seyn .
+
+Die Wahrheit aber ist , daß ohne diese
+
+Modificationen Seyn eben Nichts ist : daß erst durch sie das Nichts aus dem Seyn herausgestellt , das Seyn von dem Nichts unterschieden wird.
+
+Weil aber an sich Nichts dem Seyn gleich, so ist diese Unterscheidung eine Unterscheidung des Seyn von ſich ſelbſt und eben, dieſe Unterſcheidung erweist sich hier als die Wahrheit des Seyn.
+
+Seyn ist nur dadurch , daß es anderes
+
+Seyn sich gegenüber hat." (S. 129.)
+
+Bunächst ist der Widers [p. 135] spruch, der darin liegt, daß Seyn und Nichts dasselbe und auch verſchieden sind , schon im Werden selbst gelöst ; oder eben aus dieſem Widerspruch geht das Werden als die Wahrheit des Seyns hervor ; denn im Werden ist die Einheit von Seyn und Nichts wie auch ihr Unterſchied gesezt , und weder eine abſtracte Gleichheit von Seyn und Nichts , noch ein abstracter Unterschied würde das Werden geben.
+
+Daß aber ohne die Modificationen des Da und Anders das Seyn eben Nichts ist , hat seine Richtigkeit, weil das Seyn an sich Nichts ist ; • daß aber erst durch diese Modificationen das Nichts aus dem Seyn herausge stellt wird , kann gar nicht gesagt werden. Das Nichts wird aus dem Seyn herausgestellt --- nur durch eine willkürliche Abſtraction , und eben deßwegen ist es nicht herauszustellen, ſondern zum Werden nothwendig fortzuschreiten.
+
+Die Heraus stellung des Nichts aus dem Seyn läßt es nicht zum Werden kommen.
+
+Wenn also das Da das Nichts aus dem Seyn herausstellt , wirft es das Werden fort und es wird nicht durch das Werden hindurch zum Daseyn fortgegangen , vielmehr nicht das Werden selbst hebt sich zum Daseyn auf, sondern das Daseyn wird nur äußerlich herzu gebracht.
+
+Allerdings wird durch die Modification des Da das Seyn von dem Nichts unterschieden , denn Daseyn ist nicht gleich Nichts. Aber seltsamer Weise wird fortgefahren : weil aber an sich Nichts dem Seyn gleich , so ist diese Unterſcheidung eine Unterſcheidung des Seyn von sich selbst.
+
+Damit wird nämlich sogleich wieder vergessen, daß ja das Seyn nicht mehr Seyn , sondern schon Daseyn ist; daraus , daß das Seyn an sich Nichts , folgt nun vielmehr nur, daß das Daseyn eben so sehr als vom Nichts auch vom Seyn unterschieden ist , und wir haben durchaus keine Unterscheidung des Seyns von sich , sondern vielmehr des Da seyns vom Seyn. dem Seyn
+
+Der Unterschied , der durch das Da zwischen und Nichts eintritt , hebt ja die Identität des
+
+136` Seyns mit dem Nichts sogleich auf, und nün dürfen wir nicht mehr sagen : weil aber das Nichts dem Seyn gleich ist. Schon dieser Uebergang vom Werden ins Daseyn , wie ihn Weiße macht , kann im Hegelschen Sinne durchaus kein dialektischer genannt werden. Wenn allerdings der Widerspruch im Werden , daß nåmlich Seyn und Nichts darin identisch und verschieden zugleich sind , zu der Frage nach der Art und Weise dieser Verschiedenheit in der Einheit forttreibt, so hat doch diese Frage nur den Sinn , daß Seyn , und Nichts im Werden , eben weil sie darin nicht bloß verschieden , sondern auch in Einheit sind , nicht Seyn und Nichts bleiben , sondern als Momente eine andere Gestalt annehmen ;
+
+denn in dieser
+
+Gestalt von Seyn und Nichts ist ihre Abstraction und ihr Unterschied von einander ausgedrückt.
+
+Als Momente des Werdens faßt sie daher Hegel als Entstehen und Vergehen , und damit ist jene Frage nach der Art und Weise ihrer Verschiedenheit. in der Einheit beantwortet.
+
+Indem aber dieser Unterschied , den beide Momente zugleich im Werden erleiden, nicht berücks fichtigt wird (S. 124) , entſteht nothwendig die Forderung , beide von einander zu unterscheiden. Denn das ist allerdings ein Widerspruch , daß Seyn und Nichts im Werden identisch und dennoch als Seyn und Nichts in dieser Gestalt ver ſchieden seyn sollen.
+
+Dieser Forderung wird durch den Begriff des Daseyns ein Genüge gethan.
+
+Denn als Daseyn ist das
+
+Seyn wirklich vom Nichts unterschieden , aber zugleich in Eins heit , denn das Daſeyende hat ein Anderer sich gegenüber und ist das Nichtſeyn dieſes Undern . Offenbar ist hier der Uebergang aus dem Werden ins Daseyn folgender : Nicht das Werden hebt sich selbst zum Daſeyn auf, weil es dieses schon in sich hat , oder der Widerspruch im Werden ist nicht selbst seine Aufs lösung und das Fortgehen zu einem Andern , sondern nur die Forderung an uns , zu einem Andern fortzugehen.
+
+[p. 137] aber das Daseyn aus einem geforderten Unterschiede von Seyn und Nichts hervorgeht , welchen das Werden schon aufgehoben hat , ist es nicht selbst im Werden enthalten, ſondern außer demselben. Aehnlich wird dann auch der Uebergang aus dem Daſeyn in die Unendlichkeit gebildet.
+
+Es heißt: „ die speculative Vollendung , die in dem Begriffe des Etwas der Begriff des Das Heyns erhält, entspricht jener, die in dem Begriffe des Werdens jener des Seyn erhielt.
+
+Wie dort wesentlich auf Etwas , das wird , so wird hier auf ein Was , auf eine Beſtimmtheit des Bestimmten hingedeuter , es wird eine solche gefordert , die in dem Begriffe selbst noch nicht gegeben ist." (S, 142.) Weiße geht ferner aus der Unendlichkeit in die Zahl über und erklärt sich gegen den Begriff des Fürsichſeyns , welches nach Hegel sich zur Quantität aufhebt ; denn die Vorausnahme des concreten Begriffs der Idealität oder der subjectiven Beziehung auf sich sey an dieser Stelle noch durchaus unberechtigt, und in dem bloß qualitativen Seyn noch keines, wegs enthalten. (S. 162.)
+
+Es ist vorzugsweise das Wort » ſubjectiv ,“ deſſen ſich hier Weiße, nicht Hegel, bedient, welches den Begriff des Fürsichseyns als einen concretern und in diesen Zusammenhang noch nicht hingehörigen erscheinen läßt.
+
+Ohne die Kategorie des Fürsichseyns aber gelangen wir nie zum Des griffe der wahrhaft qualitativen Unendlichkeit und das Fürsichseyn ist selbst weiter nichts als diese.
+
+Die Unendlichkeit ist wie jede
+
+Kategorie in ihrer Unmittelbarkeit Beziehung auf sich , und zwar hat die wahrhafte Unendlichkeit das Endliche nicht nur neben sich und außer sich , ſondern in ſich , aber als negatives aufges hobenes Moment ; die Unendlichkeit ist daher nicht bloß unmittelbare Beziehung auf sich und auf Anderes , ſondern die durch Negation ihrer selbst sich mit sich vermittelnde Beziehung auf ſich , und als ſolche nennt ſie Hegel Fürſichſeyn. Das Fürſichſeyn [p. 138] ist ſoverst/ die concrete Einheit von : Seyn und Daseyn ; nicht nur das Seyn , das Unendliche an sich und Unbestimmtheit, sondern wie das Daseyn Bestimmtheit , aber nicht endliche, durch die Beziehung auf Anderes über sich hinausweisende,
+
+ſondern in ſeiner Unendlichkeit abſolutes Beſtimmtſeyn ; wenn das Daseyn die erſte unmittelbare Negation des Seyns war, so ist das Fürsichſeyn Negation der Negation , und hat das Daseyn als negatives Moment in sich selbst. Bringen wir das sich nicht als nothwendig irgend einen Moment hinzu , ergeben hat , so ist dieß unsere Schuld ; und wir wollen nicht leugnen , daß der Ausdruck Fürſichſeyn dazu Veranlaſſung geben kann , hier schon an concretere Bestimmungen zu denken - bei Hegel soll aber dieſes Fürſichſeyn rein qualitativer Natur ſeyn. Weiße will nun ebenfalls
+
+Endliche als
+
+Moment des
+
+Unendlichen gefaßt wiſſen (S.147) , und es ist sonach nicht einzusehen , wie der Begriff des Fürſichſeyns von der qualitativen Unendlichkeit abgehalten werden könne.
+
+Indem dieß aber geschieht , bringt Weiße den Begriff der qualitativen Unendlichkeit auch nicht wirklich zur Vollendung.
+
+Er bezeichnet sowohl das Unendliche , welches das Endliche ſich ། abstract gegenüber hat, als auch den Progreß ins Unendliche als die schlechte Unendlich keit.
+
+Der Begriff aber des wahrhaft Unendlichen wird so an gegeben : Etwas ist das , was es ist , nur unter Voraussetzung eines Undern , welches gleichfalls Etwas iſt ; das heißt , es iſt dieses nur in Beziehung auf ein Anderes ; das heißt , es ist gar nichts Underes , als selbst der Bezug auf jenes sein Anderes. Dieß das Ergebniß der Lehre vom Daseyn.
+
+Ganz eben so läßt sich schließen : * Etwas ist nur unter Vorausseßung unend licher Anderer ; daher. nothwendig in Bezug auf dieses Unendliche, Sollte der Ausdruck : daher felbst dieser unendliche Bezug Bezug auf Underes noch etwas Unklares oder Unerwieſenes zu enthalten scheinen , so kann statt dessen auch geradezu gefagt
+
+[p. 139] COND werden : das Sehen des einen Etwas ist durch sich selbst das Sehen unendlich anderer.
+
+Weil nichts Einzelnes ohne das
+
+Allgemeine ist , so ist das Allgemeine , das heißt das Unendliche, eben so sehr in jedem Einzelnen , wie außer jedem Einzelnen. Oder das Was jedes Einzelnen ist zugleich das Was des All gemeinen , sofern nämlich dieses nur als das Allgemeine und nicht etwa als der Inbegriff aller Einzelnheiten genommen wird. Auf solche Weise wird der Progreß ins Unendliche zwar nicht abgeschnitten , aber in jedem Einzelnen vorausgenommen und solchergestalt , in dem allein wahrhaft dialektiſchen Sinne aufs gehoben.
+
+Die Unendlichkeit ist nicht mehr bloß die schlechte des Progresses : vielmehr , wiefern das Seyende auch ſo noch in diesen Progreß hinausgetrieben wird, ist es eben nicht unendlich, sondern wesentlich endlich.
+
+Es ist die reale daseyende Uns endlichkeit ; dieſe freilich noch in ihrem abstracteſten Begriffe, da fie Allen ohne Unterschied zukommt. (S. 158 u . 159.) -- Mir können diesen Begriff des Unendlichen unmöglich als den wahrs haften , wie er sich schon auf dieser Stelle der logischen Ent wickelung ergiebt , gelten laſſen.
+
+Das Etwas iſt Beziehung auf ein Anderes , das selbst Etwas und ebenfalls Beziehung auf ein Anderes ist , und sofort ins Unendliche.
+
+Das Etwas ist daher allerdings die Beziehung auf Unendliches , aber dieß Unendliche ist nicht das Seyn des Etwas , sondern sein Nichtseyn , und zwar die unmittelbare Negation desselben ; das Unendliche, worauf das Etwas sich bezieht , ist daher selbst ein endliches
+
+Unendliche , indem nåmlich das ſich beziehende Etwas aus dieſem Unendlichen herausfällt und auf die andere Seite tritt ;
+
+absolut das Unendliche ,
+
+Andere.
+
+es ist nur das unendliche
+
+Indem aber das Etwas sich nicht bloß auf ein
+
+Anderes bezieht, sondern damit zugleich auf das unendliche
+
+Andere, so ist allerdings in jedem Etwas der Progreß ins Un endliche aufgehoben ; aber er ist im Endlichen aufgehoben, und darum nur in jedem einzelnen Etwas # voraus genom men"; das heißt : diese Aufhebung ist weiter nichts als ein verkürzter Ausdruck für die entwickelte Gestalt des unendlichen Progreſſes. Das endliche Etwas ist hiernach nicht dadurch unendlich, daß es sich selbst negirt und ein Ende nimmt , sondern es ist unmittelbar , das heißt im Bestehen unendlich; und eben so ist das Unendliche nicht durch Negation ſeiner, ſondern ebenfalls unmittelbar endlich. Offenbar muß das Etwas, welches durch die Beziehung auf die andern Etwas an sich schon unendlich seyn soll , selbst negirt werden , oder ist vielmehr durch diese Beziehung ſchon negirt , indem jedes Etwas dieſe Beziehung auf alles Undere ist ; das Resultat ist so nicht das Etwas, welches das Unendliche an sich hat , sondern das Allgemeine, welches als baſeyend ſeine eigene Negation ist , und dieſe als aufgehoben in sich selbst hat. Das Unendliche iſt ſo die doppelte Negation, und als diese weder die nur unmittelbare Beziehung auf sich, noch die unmittelbare Beziehung auf Anderes , sondern die negative Beziehung auf sich , und darum eben die Idealität Der qualitativen Endlichkeit oder Fürsichſeyn.
+
+In der unmittelbaren Beziehung auf das Endliche kommt dagegen das Unendliche nie vom Endlichen los , sondern hat dieses immer als selbstständig außer sich.
+
+Es wird so weder von Seiten des
+
+Endlichen noch des Unendlichen zur doppelten Negation fortgeschritten, und darum weder das Endliche wirklich negirt, noch das Unendliche für sich als concretes , das schlechte Unendliche und das Endliche als seine Momente in ſich enthaltendes, erkannt. Aus diesem Begriffe des Unendlichen und Endlichen wird nun der Uebergang in die Kategorie der Zahl folgendermaßen gebildet : In der Lehre von der Qualität wird anerkannt , daß das Seyende ins Unendliche bestimmt seyn müſſe ; aber nicht diese Bestimmungen selbst , sondern nur eben dieß , daß solche Bestimmungen seyn müſſen , wenn überhaupt etwas seyn soll, [p. 141] wird für das metaphysisch Wahre und Nothwendige erkannt, sodann im Widerspruche hierzu dieß , daß trok dieser Bestimmungen das Seyende innerhalb der Bestimmungen sich gleich, nämlich in jeder Bestimmung die Totalität der übrigen Bestimmungen wiederholend fey. } Der Begriff der Qualität ſagt eben dieß, daß die Qualität der Dinge nicht metaphysisch bestimmt ist, daß vielmehr das Metaphysische der Qualität darin besteht, die Bestimmungen , wodurch sich die Dinge von einander unters scheiden, die freilich, wenn überhaupt Dinge seyn sollen, irgend woher gegeben seyn müſſen, dadurch wieder aufzuheben, daß die Bestimmung jedes einzelnen Dinges zugleich für alle übrigen Dinge in Anspruch genommen wird. -
+
+Es fragt sich, wie findet dennoch ein nothwendiger durch Einheit der Idee begrün deter und geforderter Uebergang statt von diesem Begriffe der Qualität zu demjenigen , von deſſen ſpeculativer Wahrheit doch in jenem der Erweis enthalten seyn soll , der Quantitåt?
+
+diesem lehtern , wie er unmittelbar in Gestalt der Zahl auftritt, erscheint gerade umgekehrt jene Unendlichkeit von Bestimmungen, die dort der Empirie anheimgegeben ward, als das durch absolute, rein apriorische Denknothwendigkeit Gegebene, von der Empirie dagegen wird nur eine unbestimmte Allgemeinheit des Etwas, das in jene Bestimmungen eingefügt werden könnte , gefordert. In dieser Gegenüberstellung der Begriffe der Qualität und`
+
+Quantität wird man nicht verkennen , wie ihr Verhältniß zu einander ein dialektisches , der Uebergang von dem einen zu dem andern eine Verneinung oder nicht ohne Verneinung ist. Diese Dialektik stellt sich in folgender Betrachtung dar. Der Begriff der Quantitåt , wenn er von jedem Seyenden sagt , daß es die Totalität der Bestimmungen des übrigen Seyenden an sich 1 hat , sagt dieß ausdrücklich von ihm , wiefern es ist , also von seinem metaphysischen Begriffe , nicht von dem, was es außer halb oder jenseit dieses Begriffes ist.
+
+Seyn heißt, die Totalitát [p. 142] der Bestimmungen alles Seyenden an sich haben ; was iſt, iſt nur dadurch, daß diese Totalität an ihm sich aufzeigen läßt. Hieraus folgt, daß die Totalitåt in dem Begriffe als solchem schlechthin gegenwärtig seyn muß , in dem Begriffe des reinen Seyns , diesen nämlich so gefaßt , wie er durch die Kategorien der Qualität bereits sich gestaltet hat.
+
+Was aber in diesem }
+
+Begriffe gegenwärtig ist , was in ihm unmittelbar und noth wendig gedacht oder erkannt wird , das ist selbst ein schlechthin nothwendiges , ein Solches , welches nicht nichtseyn und nicht anders seyn kann. Die Bestimmungen alſo , deren Unendlichkeit, indem sie die Totalität des Seyenden ausdrückt , zugleich an dèm einzelnen Seyenden vorhanden und gesezt ist , können nicht zufällige oder durch Freiheit erschaffene , ihre Erkenntniß kann nicht erst eine von der Erfahrung zu erwartende seyn.
+
+Auch über sie , über ihre besondere Beschaffenheit und Eigenthümlich keit erstreckt sich jene reine , unbedingte Denknothwendigkeit , die, in den Kategorien der Qualitåt , zuerst nur ihre Forderung, als wåren ſie äußerliche und anders woher zu erwartende , hervorrief.
+
+Die metaphysische Denknothwendigkeit , indem sie for dert, daß das Seyende , um zu seyn , ins Unendliche beſtimmt seyn soll , fordert nicht bloß, fie bestimmt unmittelbar selbst das Seyende ins Unendliche.
+
+Denn bliebe es bei der bloßen
+
+Forderung, ohne daß es zur wirklichen Bestimmung tâme, so würde hierdurch alles Seyn , im Einzelnen eben so, wie im Ganzen, ein unmögliches , weil das Einzelne , um zu seyn , die Bestimmungen des Ganzen an sich ausgeprägt haben muß. -Die Vollziehung dieser Forderung ist nun folgende : Die Voraus sehung des Begriffs der Zahl bildet der Begriff des Etwas, welches unendliches Undere außer sich hat , und durch Beziehung auf dieses Undere selbst zu Unendlichem wird.
+
+Diese Beziehung ist aber dort nur eine geforderte ; fie ſoll erst in dem Zahlbegriffe realiſirt werden.
+
+Was daher dieſem lehtern vorausgesezt wird,
+
+[p. 143] W ist der That nach nicht das unendliche , sondern vielmehr das ſchlechthin endliche, aber ins Unendliche vervielfachte Etwas, der abstracte Begriff des Fürsichseyenden , welches der Beziehung auf sein Anderes noch entbehrt und dieses Anderen gleichfalls als eines solchergestalt für sich seyenden.
+
+Dieses Fürsichſeyn ist es , was in den Zuſainmenhang hereingezogen , wo aus ihm als dem Vorausgeseßten die Zahl gebildet werden soll , den Begriff des Einen , des numerischen Eins giebt.
+
+Das unendliche
+
+Andersseyn aber heißt , oder sollte nach strengem Wortgebrauche erst in diesem Zusammenhange heißen ( denn im qualitativen Zusammenhange heißt es richtiger nur das Andere ) das Viele. So als Voraussetzung des Quantitätsbegriffs ist also die qualitative Unendlichkeit in die bloß negative Unendlichkeit des Progreſſes, welche nur die Unendlichkeit des Endlichen ist , zurückgeschlagen ; darum nåmlich , weil in diesem Zusammenhange jener Begriff, nur nach dem , was er in der Abstraction iſt , aber nicht nach dem , was in ihm nur gefordert wird und hier eben erst geleistet werden soll, genommen werden kann. Es ist die Vollziehung dieses Proceſſes , woraus , wie man sieht , die Zahlbestimmungen hervorgehen. - (S. 167, 168 und 175.)
+
+Wir haben den Uebergang aus der Qualität in die Quan titåt in seiner ganzen Vollständigkeit ausgezogen , weil sich darin die Eigenthümlichkeit der Weißeſchen Methode ganz von selbst herausstellt.
+
+Der Gang der Entwickelung ist einfach dieser :
+
+Das Resultat der Lehre von der Qualität enthält eine Fors derung, wodurch die Qualität selbst über sich hinausweist; nämlich die Forderung , daß das Seyende ins Unendliche des ſtimmt und unterschieden seyn müſſe. Diese Forderung erfüllt die Qualität selbst nicht , indem sie vielmehr die Bestimmtheit und den Unterschied des Etwas aufhebt , dennoch muß dieser Forderung in der Metaphyſik selbst Genüge gethan werden ; denn das , was als nothwendiges ſich ergiebt und nicht nicht [p. 144] feyn und nicht anders seyn kann , Denknothwendigkeit an.
+
+C gehört der metaphysischen
+
+Die Vollziehung dieser Forderung giebt nun den Begriff der Zahl, indem mit dieſem wirklich eine Unendlichkeit von Beſtimmungen gegeben ist.
+
+Dieser Uebergang ist dem frühern Uebergange aus dem Seyn ins Daseyn ganz åhnlich. Der Begriff der Qualität zeigt sich als mangelhaft; und dieser Mangel fordert den Fortgang zur Quantitåt , in welcher derselbe aufgehoben ist.
+
+Daß die Begriffe der Qualität und Quantitåt in einem dialektischen Verhältnisse zu einander ſtehen und der Uebergang von dem einen zum andern eine Verneinung oder nicht ohne Verneinung ist , hat also hier des stimmter die Bedeutung , daß die Qualitåt , indem sie über sich hinausweist , an sich nicht ist , was die Quantität ist ; eben wegen ihres Unterschiedes , ihres Ausschließens der Quantitåt, ist sie endlich und mangelhaft.
+
+Hegel bildet dagegen den Uebers gang aus der Qualität in die Quantitåt dadurch , daß er nachs weis't, wie die Qualität auf ihrer höchsten Spiße nicht mehr die Quantität ausschließt und von sich abhält , ſondern vielmehr zur Quantität wird , so daß die Qualitåt trotz der Verschieden heit von der Quantität doch den Keim zu dieser in sich selbst hat; die Qualität ist eine endliche Bestimmung nicht nur , weil fie nicht die Quantitåt ist , sondern zugleich weil sie sich durch sich selbst zur Quantität aufhebt.
+
+Wollten wir uns zugleich auf die weitere Betrachtung der Begriffsbestimmungen einlaſſen, so wåre zunächst zu untersuchen , ob denn nicht der Begriff der Qualität schon jene Forderung wirklich enthalte.
+
+Weiße macht
+
+Hegel den Vorwurf, daß er den Unterschied der Qualität und Quantität durchaus verkannt , indem er eben nicht`bemerkt, daß der reine Begriff der Qualität nur unendliche Bestimmt heiten fordere, sie aber nicht wirklich enthalter Jedoch entsteht diese Forderung nur dadurch, daß der Begriff der Qualität ´an concretere Vorstellungen , die von außen herzu [p. 145] gebracht werden , gemessen wird .
+
+So bringt Weiße hier den Begriff des Dinges herzu , und da ist es nicht anders möglich , als daß gegen die Vorstellung des Dinges gehalten, der Begriff der Qualität abstract erscheint. wir verschiedene Bestimmtheiten ,
+
+Im Dinge finden als schwarz , grün , weich,
+
+ſauer u. f. w. , welche das Ding an sich hat, und die sich auf dieser Stufe der metaphysischen Entwickelung im allgemeinen Begriffe der Qualität allerdings noch nicht ergeben haben. Aber so unberechtigt die Forderung ist , daß sich diese bestimmten
+
+Eigenschaften des Dinges a priori ergeben sollen , noch ehe sich der Begriff des Dinges ergeben hat , so übereilt ist die Folgerung und Behauptung , daß von diesen Bestimmtheiten überhaupt die Metaphyfik nichts wiſſen könne , ſondern dieſe nur aus der Empirie entnommen werden müßten.
+
+Wollen wir aber , wie es die objective Entwickelung der Sache fordert , die concreteren Vorstellungen einstweilen vergeſſen und keinen fremden Maßſtab hinzubringen , so haben sich in der Entwickelung die Begriffe des Etwas und des Andern und zwar des unendlich Undern auch nach Weiße ergeben.
+
+Das Etwas ist ein bestimmtes und begrenztes und hat in seiner Beziehung auf das Andere dieſes als sein Nichtseyn an sich selbst. unendliche Bestimmtheiten ,
+
+Hier haben wir also schon von denen jede nicht ist , was die andere ist ; alle weitere Reflexionen haben wir davon abzuhalten und eine nåhere Bestimmung in dieſer abſtracten Sphäre weder zu verlangen , noch zu erwarten.
+
+Wollten wir aber aus diesem
+
+Mangel, daß sich mit jenen Bestimmtheiten nicht zugleich die Qualitäten der Dinge ergeben , irgend eine Folgerung ziehen, so könnte es nur dieſe ſeyn , daß dieſe beſtimmten und verſchie, denen Qualitäten an einem Undern eben concretere Bestimmungen sind und weiterer Vermittelungen bedürfen.
+
+Allein nur unter der Voraussetzung , daß Bestimmtheiten , wenn gleich im ganz abstracten Sinne, wirklich da ſind , hat der Fortgang zum
+
+[p. 146] Begriffe der Unendlichkeit , wie ihn Weiße macht , überhaupt eine Bedeutung ;
+
+denn dieser schließt sich eben daran an , daß jedes Etwas wegen seiner Bestimmtheit und Begrenztheit sich auf das Andere bezieht und so alle Bestimmungen für sich in Anspruch nimmt.
+
+Will man diese Bestimmtheiten nicht als solche gelten lassen , so wåre vorerst nach solchen zu fra2 gen , ehe man sie sich aufheben läßt , sonst hat die Auf hebung derselben schlechterdings keine Bedeutung.
+
+Es tritt daher hier ganz derselbe Fall ein , als bei dem Uebergange des Werdens ins Daseyn ;
+
+es wird ein Unterschied hervorgerufen und nach einem Unterschiede gefragt , der vorher schon aufgehoben war.
+
+Das endliche Fürſichſeyn , das ſchon zur Unendlichkeit ſich auf gehoben hatte , wird in den Zusammenhang hineingezogen , um die Zahl aus ihm zu bilden.
+
+Bei diesem Hervorgehen des Des griffs der Zahl fällt beſonders die Schwierigkeit in die Augen, daß eine qualitative Bestimmtheit gefordert ist und dieſe Forderung dadurch gelöst wird , daß eine quantitative Bea stimmtheit gegeben wird . Indem aber schon bei dieſer Forderung ausgesprochen wurde , daß die Metaphysik keine qualitativen
+
+Bestimmtheiten a priori entwickeln könne, so kann überhaupt nicht gesagt werden , daß der Begriff der Qualität eine metaphysische Forderung in sich enthalte ;
+
+er weist nur in die
+
+Empirie hin , aber nicht metaphyſiſch über sich hinaus , wenn man nicht willkürlich die qualitative Bestimmtheit , welche eben mangelt, in eine Bestimmtheit überhaupt verwandeln will , wo man dann offenbar die Forderung , welche man an die Qualität thut , nicht aus dieſer ſelbſt nimmt , sondern vielmehr aus dem Begriffe der Quantität , welcher sich aber in der Entwickelung noch nicht ergeben, nur in der Vorstellung bereit liegt.
+
+Außer dem aber ist schwer zu sehen , wie ſich aus diesem Hervorgehen der Zahl der Begriff der Zahl in seiner Reinheit an und für sich ergeben sollte, da doch eigentlich nichts weiter geschieht , als [p. 147] daß die für sich seyenden Etwas gezählt werden : wir bekennen so nie die Kategorie der Zahl , sondern nur die gezählten Etwas. Es ist nun hier nicht der Ort , die Begriffsbestimmungen der Zahl , Größe u . s. f. weiter zu verfolgen , sondern es wird zur Charakterisirung der Weißeschen Methode hinreichen, noch auf die Hauptübergånge kurz hinzudeuten. Den Kategorien der Quantitat folgen die Kategorien des Maßes.
+
+Indem sich die Nichtigkeit der quantitativen Bestimmungen erwiesen hat, kehrt die Frage wieder : ,, was ist jenes Seyende , an welchem und in welchem die quantitativen Bestimmtheiten nicht als sich selbst, sondern eben als diesem Seyenden angehörende enthalten ſind ?"
+
+Hier könnte es leicht scheinen , als tråte unvermeidlich die Alternative ein , entweder den gesammten Lauf der dialektischen Betrachtung mit dem reinen Seyn noch einmal zu beginnen, oder im Bewußtseyn der Fruchtlosigkeit solcher Wiederholung, gleich hier abzubrechen und die Beschaffenheit jenes Seyenden, welches hier gefordert wird , in dem Reiche der Erfahrung auf zusuchen. Letzteres thun alle diejenigen , welche in dem Seyenden nichts Nothwendiges und Absolutes , als nur das rein Mathe matische erkennen mögen. Wir können uns nicht dazu entschließen, da uns die Nothwendigkeit des Mathematiſchen in ihrem Zusammenhange mit den einfachen Kategorien der Qualität zum Bewußtseyn kam ; damit ist das Mathematische nicht mehr als eine äußere Form gegenüber dem concreten Inhalte. wenig die Bestimmungen des Seyenden in dieser Aeußerlichkeit des Quantitativen erschöpft seyn können , so wenig kann dieß selbst , daß es eine solche Unendlichkeit und Nothwendigkeit äußers licher Bestimmungen sich vorausseßt und an sich seht , ihm gleichgültig seyn.
+
+Das Seyende ist diese Wahrheit bleibt aus dem Quantitätsbegriffe für die weitere Forschung über den dade wesentlich Quantum. Obgleich es
+
+Begriff des Seyn zurück also nicht dadurch , daß es Quantum ist, ist, so muß doch eben 10* [p. 148] dieſe Bestimmung, Quantum zu seyn, nothwendig als Moment in seinen Begriff, vermöge deſſen es ist , eintreten ; ſein · Seyn daher muß, durch Aufnahme dieses Momentes , sich a priori weiter bestimmen. Der Sak, der 1sich aus allem dieſem zu `nächst ergiebt, lautet daher ſo : Alles was ist, ist zwar wesentlich als ein Quantum ; es hat Theile, die unter einander und zu dem Ganzen im Quantitätsverhältnisse stehen ; -- aber sein Seyn geht nicht in ſeine Quantitåtsbeſtimmung auf; es iſt nur dadurch , daß es diese Bestimmung , die Vielheit der Theile, unter die Einheit einer Qualitätsbestimmung zusammennimmt. Der Begriff einer qualitativen Einheit ist es , der sich als der hier geforderte ergiebt.
+
+Diese qualitative Einheit ist das Individuum, indem dieses nåmlich als Theilbares doch als solches untheilbar ist ― es hat so das Quantitative in ſich auf gehoben. (S. 214 ff.) →
+
+Ohne weiter zu untersuchen , ob nicht der Begriff des Individuums , auch in der weiten Bedeutung, wie ihn Weiße faßt , besonders neben den Begriffen Art und
+
+Gattung , wie er hier auftritt , ein für dieſe Sphåre zu concreter Begriff ist, der in seiner Wahrheit und Wirklichkeit noch höhere Momente in sich faßt , als Qualität und Quantitåt - so leuchtet doch die Aeußerlichkeit des Uebergangs sogleich ein.
+
+Daß die
+
+Quantität das nicht leisten würde, was sie leisten sollte , war vorauszusehen ; denn es war keine quantitative, ſondern vielmehr qualitative Bestimmtheit gefordert , und anstatt dieser die quantitative nur einstweilen untergeschoben.
+
+Natürlich muß sich die
+
+,, durch das Bisherige noch wenig modificirte Frage " wieder holen: was heißt Seyn ? So fremd aber schon vorher die Quantität der Qualität war , so fremd ist derselben auch ihr Rückgang in die Qualität zum Maaß.
+
+Wie vorher eine Bestimmtheit gefordert wurde , die nicht in der Qualitåt lag, so wird nun wieder eine Bestimmtheit gefordert, die nicht. in der Quantität liegt , und wie die Quantität nur als die [p. 149] äußerliche Negation der Qualität erſchien , so hat sie auch die Negation nicht an sich selbst , wodurch sie sich selbst zur Quali tåt oder zum Maaße aufheben würde , sondern die Forderung nach einer weitern Bestimmung des Seyns fällt nur in das Subject , das aus seinem Begriffsfonds , wie vorher die Quan titât , nun das Maaß herzubringt. Der Uebergang ferner aus der Lehre vom Seyn in dié Lehre vom Wesen wird gebildet durch die Kategorien von Form und Inhalt.
+
+Die specifische Quantitåt hat sich zur Form aufgehoben und diese ist daher wesentlich quantitativer Natur. Die Form weist aber auf ein Anderes hin , an welchem und durch welches sie ist, und dieß Andere ist der Inhalt.
+
+die Entwickelung dieses Verhältnisses aber zeigt sich, daß nicht der Inhalt das die Form Sehende , sondern vielmehr ohne Form. das Unbeſtimmte und Nichtſeyende ist ; und die Form dagegen das sich schlechthin Sehende und von sich selbst Anfangende. Dieß aber ist ein Widerspruch gegen ihren ersten unmittelbaren Begriff.
+
+Damit ist „ neben und über derjenigen Form, zu ?
+
+deren Begriff es gehört , an einem Inhalte und durch den
+
+Inhalt geſetzt zu feyn , eine andere Form gefordert , deren Seyn nicht in einem Geseztseyn durch Underes besteht, sondern ein von allem Anderen unabhängiges und ſelbſtſtändiges ist.“
+
+\# Es kann scheinen , als müſſe von dieser Form als Form genau daffelbe gelten , wie von jener ersten , so daß, wenn ſie nichts destoweniger als Urform , als unbedingte gesezt wird , derselbe entgehen wollten.
+
+Widerspruch wiederkehrte , wir eben
+
+Allein es wird nicht behauptet , daß in der Urform jenes Reale, jener Inhalt selbst gesetzt sey , welches in dem Sehen der Form als folcher angestrebt wird . Nur ein Anfang , eine für sich noch unwirkliche Basis des Processes , in welchem allein das Reale hervorgehen kann , soll durch die Urform gegeben werden .“ Damit ist schon in diesem ersten Theile die Aufgabe der Metaphysik [p. 150] zum Theil gelöst ; insofern nåmlich eine absolute Grenze nach gewiesen ist , über welche die rein metaphysische Bestimmung nicht hinausgehen kann.
+
+Denn die Form , die ſpecifiſche Größe wird zur ſeyenden wesentlich durch ein außerhalb der Metaphyfik liegendes Princip , und auch der Inhalt wird durch die meta physischen Bestimmungen nicht erschöpft.
+
+Auch hier enthält der Widerspruch im Begriffe der Form , nämlich ein Geſettes und zugleich sich selbst Sehendes zu seyn , eine Forderung an das denkende Subject in sich. + Die Urform aber , welche die Lösung jenes Widerspruchs darbieten soll , ist nicht das Resultat dieses sich aufhebenden Widerspruchs , sondern eine schlechthin andere Form , welche aber in jenen Widerspruch , der das
+
+Wesen der Form ausmacht , nicht verfallen foll ; d . h . derjenige Begriff, welcher gefordert wird , löst nicht den Widerspruch, der gelöst werden soll , sondern ist über diesen Widerspruch äußerlich hinaus , oder neben demselben vorbei. C Ganz ähnlich und in demselben Sinne ſchließt auch die Lehre vom Wesen mit einer Hinausweiſung über die Metaphyſik und einer Forderung an die weitere Entwickelung der metaphyfis schen Denknothwendigkeit selbst.
+
+( Seite 409 und 417. )
+
+Es ergiebtsich hieraus ein durchgreifender Unterſchied der Weißes schen und Hegelschen Methode. Bei Weiße zeigt sich die erste Kategorie durch die Betrachtung ihres Inhalts als endlich und mangelhaft. Dieser Mangel enthält eine Forderung an das denkende
+
+Subject in ſich , und zwar iſt dieſe Forderung eine bestimmte, wie der Mangel , der Widerspruch , aus welchem diese Forderung hervorgeht , ebenfalls ein ganz bestimmter ist.
+
+Der erste Begriff postulirt so einen andern , und geht in den andern über, nicht, weil er an sich der andere ist , sondern viel . mehr, weil er der andere nicht ist; und zwar ſupplirt der andere Begriff eben den bestimmten Mangel des erſten. Wir können uns alſo einfach so ausdrücken : das zweite Moment [p. 151] in einem dialektischen Cyklus von Begriffen verhält sich zum ersten an sich nicht analytiſch und ſynthetiſch zugleich, ſondern nur ſynthetiſch , und die Analyſis fållt in das denkende Subject, welches den Begriff nach allen Seiten hin- und herwendet, und zuleht die Forderung ausspricht , zu einem andern Begriffe fortzugehen , und zwar nicht willkürlich irgend herbeizubringen , sondern vielmehr denjenigen , einen Begriff in welchem die bestimmte Endlichkeit . des ersten Begriffs nicht enthalten ist.
+
+Bei Hegel dagegen verhält sich das zweite Moment zum ersten an sich eben so sehr ſynthetiſch als analytisch.
+
+Das erste Moment geht in das zweite über , nicht nur , weil es dieses nicht ist, sondern zugleich, weil es dieses ist ; die Entwickelung deſſelben endet nicht mit der Forderung an das Subject , das andere zu finden , sondern das erste ist in seiner Vollendung selbst diese Differenz.
+
+Das Seyn ist unmittelbar Nichts , die Qualität ist in ihrer höchsten Spize ihre eigene Negation und Aufhebung, während bei Weiße die Qualität den Keim der Quantitåt als ihrer Negation nicht in sich selbst hat , und eben darum , wegen ihrer festen Endlichkeit hinausweist.
+
+betrachtende Subject über sich
+
+Ebenso ist bei Hegel auch das dritte Moment der
+
+Methode analytiſch und ſynthetiſch zugleich ;
+
+es hat als das
+
+Andere des ersten dieses selbst an sich ; ist das Undere und die Negation seiner selbst , und seine eigene Analyse zugleich das Aufheben zum ſynthetisch Undern.
+
+Bei Weiße fällt auch hier die Analyſis in das betrachtende Subject und erscheint ebenfalls als eine Forderung , auch über dieses Moment zu einem folgenden synthetisch Anderen hinauszugehen. Ohnefür jest zu unterſuchen, wieviel bei dieſem Unterſchiede der Weißeschen Methode von der Hegelschen Dialektik überhaupt noch von der wahrhaft speculativen Form übrig bleibt, so ist sogleich ein leuchtend , daß eine Aufhebung der Kategorien , dieſe nåmlich als an sich leer und wesenlos gefaßt, nur durch [p. 152] diesen Unterschied in der Methode möglich ist.
+
+Denn indèm die Kategorien als weſenlos das Andere , wozu ſie ſich aufheben, nicht in sich selbst haben , in dieser Hinsicht nicht concret, sondern abstract sind - so kann die Aufhebung derselben nur als ein Postulat erſcheinen , nicht bei ihnen ſtehen zu bleiben, ſondern zu einem synthetisch Andern fortzugehen. In den Kategorien selbst kann dieß Undere nicht gefunden werden , weil es nicht in ihnen ist ; wir kommen durch ihre Betrachtung nur zum Bewußtseyn ihrer Mangelhaftigkeit , und ſie heben sich zum Andern auf, nicht weil sie dieses an sich schon sind , sondern weil sie dieses nicht sind.
+
+Nicht ihre abstracte und concrete
+
+Natur zugleich, `wodurch sie dem Begriffe nach etwas ſind, was noch nicht in ihnen gefeht ist , führt über sie hinaus , sondern nur ihre abstracte. Vor aller weitern Erörterung über die Methode hätten wir aber zu beachten , in wie weit Weiße selbst der Dialektik eine andere Bedeutung geben will , als sie im Systeme Hegels hat. Wie schon früher bemerkt , soll Hegel nach Weiße den Begriff des dialektischen Proceſſes zur Idee hypoſtaſirt, und eben dadurch den wahrhaften und wirklichen Inhalt zum Formalismus der Wissenschaft verflüchtigt haben.
+
+Dadurch sey die Philosophie
+
+Hegels das System der Nothwendigkeit , daß dieses Formals princip der Wiſſenſchaft , welches in ihm zugleich als Realprincip des Seyns auftrete , die eigne Nothwendigkeit der Kategorien fey, deren Umschlagen in einander eben ihre abſolute Negativität, ihr Nichtnichtſeynkönnen eben ſo ſehr wie ihr Nichtſeyn ſey.
+
+wahre Wissenschaft der Metaphyſik befinde ſich zu dieſem Princip in einer völlig entgegengesetzten Stellung,
+
+Für sie nämlich motivire sich die Aufnahme dieſes Princips durch die Einſicht von der Nichtigkeit nicht nur der einzelnen Kategorien , ſondern der Kategorien überhaupt ; sie könne daher die Macht , welche in dem Auftreten und Umschlagen der Kategorien thätig sey,
+
+[p. 153] COMAND die Substanz, in welcher das Bewußtseyn der Kategorien als ein auftauchendes und wiederum verschwindendes Moment ent halten ist , nicht selbst als Kategorie behandeln ; sie wisse dieselbe vielmehr als erhaben über die
+
+Gesammtheit der Kategorien.
+
+(S. 71.) Weiter heißt es : „ es giebt einen schiefen Sinn, wenn die Dialektik als das eigene Thun , als das Werk der Selbsts vollbringung der Kategorien bezeichnet wird.
+
+Zwar liegt in diesem Ausspruche die Wahrheit , daß dieselbe nicht eine bloß willkührliche, eine dem Gegenstande åußerlich bleibende Reflexions thätigkeit ist ; daß sich in ihr die absolute Nothwendigkeit der Kategorien spiegelt und in ihr, und nur in ihr den ihr durchaus gemåßen wiſſenſchaftlichen Ausdruck findet.
+
+Aber die Kategorien, welche das Object der Dialektik sind , auch zum Subjecte der Dialektik machen, heißt offenbar , das an und für sich Nichtige zum Seyenden , das Wesenloſe und Unwirkliche zum Inbegriffe des Wesens und der Wirklichkeit machen.“ (S. 72.)
+
+Dagegen sey die Dialektik ein freies Thun des Geistes und nicht ein nothwendiges der Kategorien : damit aber werde die Gliederung der Kategorien nicht etwa eine zufällige.
+
+„ Gleich wie das Seyn der Kategorien im Ganzen und im Einzelnen Sinn und Des deutung hat nur in seiner Beziehung auf einen poſitiven , ſey es wirklichen oder nur möglichen , Inhalt dieses Seyns ; wie seine Nothwendigkeit nur die Nothwendigkeit der Form oder Geschmäßigkeit des Positiven ist , welche ohne dieselbe nicht Existenz und Wirklichkeit zu haben vermöchte : so hat das Verhältniß und die Gliederung der Kategorien seine Bedeutung und Nothwendigkeit schlechthin nur für das Erkennen der Kategorien , als Form und Gesetzmäßigkeit dieses Erkennens . Eben so wenig aber, wie die Kategorien selbst , wird hierdurch ihre dialektische Gliederung zu etwas Relativen
+
+Zufälligen .
+
+Denn obgleich weder dieses positive Erkennen , noch das poſitive Seyn als solches an und für sich etwas Nothwendiges , Nicht [p. 154] nichtſeynkönnendes ist , so ist doch alles und jedes mögliche
+
+Erkennen dem Geſetze jener Dialektik , welches durch die nur dialektisch zu erkennende Gesammtheit der Kategorien ausgedrückt wird, unterworfen.
+
+Nur in diesem Erkennen kommt die Noth wendigkeit der Kategorien überhaupt nach dem , was sie an sich ist, als diese reine Nothwendigkeit , zum Fürſichſeyn ; und ob gleich es noch nicht in dieser Nothwendigkeit liegt , daß sie über haupt zum Fürſichfeyn komme , so liegt es doch in ihr, daß, falls sie zum Fürsichseyn komme , sie nur so , in diefer Gliederung und in dieser dialektischen Folge dazu kommen kann.
+
+Das Erkennen der Kategorien bleibt eine freie That des Geistes , auch wenn ihm seine Art und Weise oder seine Form eben so , wie fein Object , durch die ewige, unbedingte Nothwendigkeit dieses Objects gegeben ist ; auf gleiche Weise, wie das Seyn der Natur und des Geistes überhaupt ein freies oder auf freier That beruhendes bleibt, obgleich die allgemeine Form und Gesetzmäßigkeit dieses Seyns eine schlechthin noth wendig nicht nichtseyn und nicht andersseynkönnende ist.“ (S.73.) Wenn die Methode als die Selbstbewegung des Inhalts bezeichnet , und gefordert wird , daß alle ſubjective Buthat aus dieser Selbstbewegung ausgeschlossen seyn solle , so hat dieß natürlich nicht etwa den Sinn , daß die Logik ohne das den kende Subject zu Stande komme.
+
+Und wiewohl der Inhalt der Logik ein ewiger , nicht erst durch das denkende Individuum erfundener ist , so bleibt doch die Dialektik Hegels eine freie That des Geistes auch in dem Sinne, wie Weiße dieß von feiner Dialektik behauptet.
+
+Dieß heißt nämlich , wenn wir die
+
+Sache ganz einfach ausdrücken wollten , fürerst nichts weiter, als daß nicht Jeder nothwendig ein Philosoph ist , und daß, wenn er die Logik oder Metaphyſik mit ihren Kategorien durch denkt , dieß ebenso gut auch laſſen könnte ; wenn er es aber einmal thut, so ist die Dialektik die einzige Weise, es der Wahrheit [p. 155] gemåß zu thun.
+
+Eine andere und höhere Bedeutung scheint aber die Behauptung zu haben , daß Hegel die Kategorien als das Object der " Dialektik auch zum Subject derselben mache. Inwiefern diese Behauptung mit dem Vorwurfe des Formalis 寝 mus zuſammenhångt , werden wir ſie ſpåter zu berücksichtigen haben ; für jest reicht es hin , darauf aufmerksam zu machen, daß ja in der Methode der spätere Begriff der höhere ist als die vorangegangenen
+
+. ſchon hierin liegt ein Unterſchied zwiſchen dem denkenden Subject und der Sache.
+
+Hiernach hatte Weiße
+
+Recht, den Unterschied ſeiner Methode von der Hegelschen nicht so hoch anzuschlagen , oder vielmehr ist in der angeführten Stelle der Metaphysik nur scheinbar ein Unterschied angegeben. Allerdings enthält jeder Fortgang von einem Begriffe zu einem andern eine Forderung an das denkende Subject in ſich , wie denn schon die Logik überhaupt die Forderung an das Subject in sich enthält, zu denken.
+
+Hat aber diese Forderung die
+
+Bedeutung , daß das Subject zu einem Begriffe einen andern hinzuthue , der nicht ſchon an sich in dem ersten liegt, ſo daß in das Subject nur das Entwickeln fiele, so fällt die Immanenz der Erkenntniß fort und die Begriffe treten in ein subjectives äußerliches Verhältniß.
+
+Hegel macht häufig auf den Unterſchied aufmerkſam zwiſchen dem , was ein Begriff an sich iſt, und dem , als was er gesezt ist ; was ein Begriff erſt an ſich iſt, ist er auchnur erstfür uns, für unsere Reflexion. Indem das denkende Subject den einen Begriff durch den andern ſupplirt, fällt die Ents wickelung nur in uns, und die Endlichkeit des einen Begriffs wird nicht an ihm selbst gesest, sondern das Subject kommtzum Des wußtſeyn dieſer Endlichkeit, weil daſſelbe noch andere höhereBegriffe ſchon im Gedanken hat, mit welchem es den erſten vergleichen kann. Wie schon bemerkt , schen und Hegelschen
+
+Verhältnisse, welches tritt
+
+Methode
+
+Unterschied besonders nach Weiße zwischen der Weißes hervor der Metaphyſik [p. 156] und Realphilosophie statt finden soll.
+
+Der einzige wahrhaft philosophische Beweis für die Formalität der Kategorien kann, wie Weiße selbst zugiebt , nur darin bestehen , daß die Form als negativ ſich ſelbſt negirt und zum Inhalte als ihrer Wahr heit sich aufhebt.
+
+Nach Weise der Hegelschen Dialektik iſt dieß nur bei der Annahme der abſtracten Inhaltslosigkeit der Kategorien schlechterdings unmöglich , indem diese Aufhebung als analytisch und ſynthetisch zugleich die Immanenz des Inhalts in der Form voraussehen würde.
+
+Wie hat nun Weiße diese
+
+Aufgabe der Metaphysik gelöst ? Zunächst zieht sich der Beweis für die Wesenlosigkeit der Kategorien durch die ganze Metaphyfik hindurch, indem nåmlich die abstracte Allgemeinheit der Kategorien auf die Empirie , in welcher das Beſondere und Einzelne gegeben ist, hinweist. So ergeben sich, wie schon früher bemerkt, in dem Begriff der Qualität keine beſtimmten Qualitåten , ſo wird wohl a priori erkannt , daß Alles unter Geſetzen steht, aber die bestimmten Geseze können nur aus der Empirie ents nommen werden. (S. 247.)
+
+Auch dieß wird als eine Löſung des Problems der Metaphysik bezeichnet , daß eine abſolute
+
+Grenze nachgewiesen wird , über welche die rein metaphysische Bestimmung nicht hinausgehen kann. (S. 261.)
+
+Hier kann nun durchaus nicht gesagt werden , daß nachgewiesen sey , wie die Formen sich durch sich selbst zum Inhalte aufheben.
+
+Im
+
+Gegentheil : indem mit der abſtracten Allgemeinheit der Kategorie · die Besonderung durchaus nicht gegeben seyn soll , so wird viel mehr behauptet , daß dieſe Aufhebung der Allgemeinheit zur
+
+Besonderung nie und nimmer geschehen könne.
+
+Der Beweis der Nichtigkeit der Kategorien besteht hier nur darin , daß das betrachtende Subject , indem es die Algemeinheit der Kategorien mit dem empirisch sich darbietenden Inhalte vergleicht ,
+
+Nothwendigkeit der Empirie zur weitern Erfüllung der Kategorie anerkennen muß.
+
+Es hebt sich hier nicht die Form zum Inhalte [p. 157] auf, sondern das denkende Subject wird von seinem reinen Denken zur Empirie gewiesen. Als die lehte Kategorie ergiebt sich die Freiheit und zwar in ihrer höchsten Spike als freie noch nicht im Jedoch ist hiermit schöpferische Thätigkeit. strengsten Sinne ein Beweis von dem wirklichen Seyn Gottes gegeben , indem die Kategorie , welche hier als die dem Begriffe Gottes entsprechende angenommen wird , eben nur als Kategorie, als leere Form gegeben ist , deren Nichterfüllung -- freilich unter der ungeheuern Voraussetzung , daß es überhaupt nichts Wirkliches giebt -von 7 der Metaphysik als solcher noch immer als möglich gesezt bleibt. " (S. 562.) Die Aufhebung der Kategorien behålt also die ganz subjective Bedeutung , daß das denkende Subject von ihnen an die Empirie gewiesen wird . Wenn etwas wirklich ist , so ist es den Kategorien gemåß , daß aber etwas wirklich ist, ist weder mit ihnen erkannt , noch liegt in ihnen die objective Möglichkeit eines wirklichen Seyns.
+
+Wenn also gesagt wird, daß die wissenschaftliche Betrachtung die Form zum Inhalte sich aufheben lasse , so hat dieß nicht etwa den Sinn, daß die Wiſſenſchaft durch immanenten dialekti ſchen Fortschritt von der Form zum Inhalte fortgehe, daß das negativ Absolute die Negation an ſich ſelbſt habe und durch Negation seiner selbst zugleich die Position des Wirklichea sey— ſondern dieß Aufheben der Form in dem Inhalte geschieht in der wissenschaftlichen Betrachtung nur in Weiſe einer ſubjectiven Analyſe; das ſubjective Bewußtſeyn findet in der Betrachtung der Kategorien seine vorläufige Ansicht beſtätigt , daß diese wenn gleich nicht nichtſeynkönnende , doch ohne einen Inhalt nur das Nichtige und Leere sind .
+
+Sollen sie also seyn, so ſind sie im
+
+Inhalt, und das Bewußtſeyn , daß sie das Leere sind , ist selbst das Bewußtseyn des Leeren und fühlt die Sehnsucht , zu einem wirklichen Inhalte fortzugehen , welcher nicht in den Kategorien [p. 158] und aus ihnen entwickelt werden kann , sondern irgend wo anders her gegeben werden muß. Das Verhältniß der Metaphysik zu den andern Theilen der Philosophie und das der Speculation zur Empirie wird nun von Weiße so angegeben: „ Nicht den Inhalt der Empirie in sich zu absorbiren , nicht an die Stelle der Empirie sich selbst zu sehen, kann die Absicht der philoſophiſchen Wiſſenſchaft ſeyn. Diese Meinung gehört zu den Mißverſtändniſſen , welche schon sonst aus dem Hypostasiren abstracter Begriffe zur concreten Totalität , insbesondere aber neuerdings aus der Hypoſtaſirung des Begriffs der dialektischen Methode , dialektische Philoſophie ſoll vielmehr eine geflossen sind.
+
+eine Empirie im höhern Sinne , erst möglich machen. Wirkliche als solches , wahrhafte Empirie, die Wirklichkeit des Besonderen und
+
+Einzelnen bleibt nåmlich jederzeit Gegenstand der Erfahrung , und die Allgemeinbegriffe auch des Wirklichen, wie die Philosophie fie in ihren realern Theilen zum Gegenstande hat , ſind nie das Wirkliche selbst, sondern nur seine abstracte, aber im Laufe dieser Wissenschaft concreter und immer concreter werdende Baſis. Die vollständige selbstbewußte Darstellung der Allgemeinbegriffe, der realphilosophischen ebensowohl , wie der eigentlich metaphy fischen , kann 2 überall nur den Zweck haben , die Reihe der Negationen bis an den Punkt heranzuführen , wo die Erfahrung als die allein wahre , durch jenes negative Thun über ſich ſelbſt verständigte Bejahung hinzutritt.
+
+Die Begriffe , welche die
+
+Philosophie in ihren concretern Theilen , in der Wiſſenſchaft von der Natur und dem Geiste aufstellt , finden sich daher zu dem Inhalte der Empirie in einem ähnlichen Verhältnisſſe , wie in welchem ihrerseits zu ihnen die Begriffe der Metaphyſik ſtehen : derselbe Anspruch auf ( hier freilich nur relative) Univerſalität einerseits andererseits.
+
+dieselbe Unwirklichkeit und bloß ideale Bedeutung Daher die Fortseßung der einen und derselben
+
+[p. 159] Dialektik, welche in der Metaphyſik durch das Reich der abstracten Kategorien hindurchgeführt wird , durch die philoſophiſche Betrachtung der gesammten Wirklichkeit.
+
+An jeder einzelnen
+
+Stelle 1 der realphiloſophiſchen Wiſſenſchaften , wo der Begriff realer Naturwesen oder Geistesgestaltungen abgeleitet ist, wird diese Dialektik von dem Realen selbst , welches als Reales , als dieſes Einzelne, Gegenstand der Erfahrung und nicht mehr der philosophischen Wiſſenſchaften iſt, aufgenommen und abgebrochen, wie am Schluſſe der Metaphysik die Dialektik der Kategorien durch den Allgemeinbegriff der concreten Wirklichkeit abgebrochen und aufgenommen wird." (S. 89.) Indem hiernach der Inhalt der Philosophie auch in der Naturphilosophie und Philosophie des Geistes abstract bleibt, so besteht der wesentliche Unterschied der Metaphysik von den Realwissenschaften zunächſt nur darin , daß dieſe der Empirie bedürfen und durch die Benutzung der Empirie in den Befih concreterer Begriffe kommen. Hieran aber knüpft sich ein weiterer Unterschied , indem das poſitiv in der Erfahrung Gegebene , al3 durch die freie Thätigkeit Gottes kann , als es wirklich ist.
+
+erschaffen , auch anders seyn
+
+Ohne jest zu untersuchen , ob diese
+
+Wahl und das Andersseynkönnen wirklich ein Moment
+
+Freiheit ist , so hätten wir vor Allem die Behauptung auszu sprechen , daß bei diesem Verhältnisse der Empirie zur Speculation die dialektische Methode in der Naturphilosophie ſchlechterdings und Philosophie keine Anwendung des Geistes finden könne.
+
+Weiße berücksichtigt schon in der Vorrede diesen Einwand und sagt: daß jene Vernunftnothwendigkeit das nicht wåre , was ſie ist, wenn sie sich nicht in das Positive hinein . fortseßte und diesem , obgleich es nicht durch sie erzeugt , geschaffen werden könne, doch wesentlich seine Form bestimmte, die Form, in der allein es sey und Wahrheit habe ; eben diese Form , die
+
+[p. 160] Form der absoluten Denknothwendigkeit aber ſey es , welche die Denn als nur
+
+Erkenntniß jenes Seyenden vermittele .
+
+Positives , als nur Freies und nicht auch von Seiten seiner Form der Negativität und Nothwendigkeit Angehörendes , würde das Seyende, das Objective, undenkbar und unerkennbar bleiben. (S.XI.) -- Wenn es hiernach scheint , als wenn Weiße der Methode in der Metaphysik eine schöpferische Kraft zugestånde, so kann dieß keine andere Bedeutung haben , als daß durch sie allein , und zwar ohne das Hinzutreten irgend · eines andern Moments , der freie denkende Geist im Stande ist, die noth wendige und ungeschaffene Form alles Wirklichen in ihrem In der Natur reinen abstracten Fürsichseyn zu entwickeln .
+
+philosophie aber reicht dieſe Methode für ſich nicht hin , ſondern es muß nothwendig die Erfahrung hinzutreten .
+
+Allein — was die
+
+― mit der Metaphysik ist das Nothwendige,
+
+Hauptsache ist Nichtandersſeynkönnende nicht nur ſubjectiv , objectiv vollkommen umfaßt.
+
+ſondern auch
+
+Daß sich das Nothwendige in das Positive hinein fortseßt , kann fürerst keinen andern Sinn haben , als daß dieß Positive und Freie die Kategorien der Metaphysik nicht aufhebt , nicht gegen diese verstößt , weil dieſe eben schlechterdings nicht anders seyn können .
+
+Hiernach würde das Erkennen dieses Positiven nur_darin_beſtehen , eben dieß, die Geltung oder die Immanenz der metaphysischen Kategorien in dem Freien nachzuweisen .
+
+Ist aber das sich Fortsehen der
+
+Nothwendigkeit in dem Freien zugleich eine wirklich weitere Erkenntniß , also eine Erweiterung , eine Hinzunahme neuer in der Metaphysik nicht enthaltener Begriffe , so ist dieſe , nicht in der Metaphysik eingeschlossene Nothwendigkeit , selbst eine freie, auch andersseynkönnende , und entzieht sich eben dadurch aller Methode.
+
+Wenn die Metaphysik z . B. erkennt , daß alles noth wendig unter Gesetzen steht , so tritt in der Natur eine Speci fication dieser Gesetze ein; diese bestimmten und beſondern Geſete [p. 161] können auch anders seyn .
+
+Die Methode ist durchaus ohne alle
+
+Bedeutung, wenn nicht das Allgemeine das Besondere schon in sich selbst enthält , selbst urtheilt.
+
+Hier aber ist zunächst das
+
+Beſondere, das die Empirie vorfindet , frei von der metaphyſi schen Allgemeinheit ; d. h. die Allgemeinheit vertrågt eine ver ſchiedene Beſonderung.
+
+In der Metaphyſik ergeben sich höchſtens unendliche Möglichkeiten der Specification ;
+
+welches aber die.
+
+wirklich statt findende ist , kann nur durch die Erfahrung aus gemacht werden.
+
+Eben so aber ist das Besondere selbst wieder ein Allgemeines , läßt innerhalb seiner verſchiedene freie ,
+
+Specificationen zu ; alſo auch diese kann die Speculation durch die Methode nicht entwickeln , sondern muß sie vielmehr ebenfalls wieder empirisch aufnehmen.
+
+Nur der unbestimmte Ausdruck, daß sich das Nothwendige in das Freie fortſeßt, kann die offen bare Unmöglichkeit der Fortsetzung der Methode durch das Poſitive hin verbergen.
+
+Das sich fortsehende Nothwendige ist nicht ein.
+
+metaphysisches , sondern eben ein freies.
+
+Allerdings aber wird die mit denkender Empirie ausgeführte Naturwissenschaft der Methode als dem Geseze alles Vernünftigen und Wirklichen . entsprechen ;
+
+dieß kommt aber nur daher , daß die denkende
+
+Empirie sich nicht mit bloßen Möglichkeiten herumschlågt , sondern das daſeyende Wirkliche als das Vernünftige und einzig , Bernünftige ansieht.
+
+Das wirklich Daseyende läßt wegen seiner
+
+Bernünftigkeit die Möglichkeit des Andersseyns als eine ſubjective : Meinung verschwinden , und ist der Nothwendigkeit des Begriffs und der Methode gemäß.
+
+Halten wir aber gegen diese empirische Wirklichkeit deh Gedanken der Möglichkeit des Andersseyns fest , so ist die Methode , welche sich in dem Wirklichen findet, weil es ein Vernünftiges und Nothwendiges ist , leerer Schematismus ,
+
+Allerlei paßt.
+
+nur ein der für Mancherlei
+
+Daß sich die Methode von selbst aufdringt, straft die Meinung , daß auch ein Anderes möglich ſey , forts [p. 162] während Lügen ; aber es muß erlaubt bleiben , den Gedanken des Andern , das sich auch in die Methode fügen würde , wenn es wirklich wäre , immer neben dem Wirklichen nebenher laufen zu laſſen.
+
+Die Methode ist so sehr ihrem Wesen nach productiv , daß, wenn ihr diese Eigenthümlichkeit genommen wird , sie nicht mehr Methode genannt werden kann.
+
+Bei diesem Verhältnisse der Speculation und Empirie kann weiter von einer Einheit derselben schlechterdings nicht die Rede seyn. Denn dieß Verhältniß ist hier ganz einfach folgendes : Zunächst sind der Inhalt der reinen selbstständigen Speculation die Kategorien der Metaphysik ; diese sind das absolute prius, der Fonds , welcher dem reinen aproriſchen Denken für sich an gehört. 1 Alles , was außer der Metaphyfit liegt , kann nur durch die Empirie gefunden werden. Hier håtten wir also eine strenge Absonderung des prins von dem posterius , in welcher . das posterius , indem es ein freier auch anders seyn könnender Inhalt ist, schlechterdings außer dem prius fållt.
+
+Bei dieser ·
+
+Absonderung tritt aber auch ein Zusammenhang ein.
+
+Wie sich das Nothwendige in das Poſitive hin fortsetzt, so seht sich auch das prius in das posterius fort ; das heißt zunächst weiter nichts, als : wie das prius das absolut Nothwendige ist , so muß es ſich ** in der Erfahrung wiederfinden , und die Speculation hat zugleich, ſchon ehe sie sich an die Erfahrung wendet , das Bewußtseyn , daß gegen die Nothwendigkeit der Kategorien sich in Der ganzen Welt kein Verstoß finden wird.
+
+Allein der Zusammenhang geht noch weiter : Es giebt auch eine Philosophie der Natur , eine Philofophie des Geistes :
+
+und ohne eine
+
+Nothwendigkeit der Form sind diese unmöglich.
+
+Diese Form hat die Eigenthümlichkeit , daß sie weder das metaphysische prius ist, noch die bloße kahle Empirie ; es ist dieß ein Denken , das *! in dem Besite des nothwendigen, aber für sich unwirklichen prius und durch die dialektische Strenge der Metaphysik geübt und geſtåhlt ist , und dadurch in den Stand gesetzt , den ſich darbietenden freien Inhalt der Empirie gehörig zu verarbeiten. So hat man es nun allerdings von jeher gehalten , und der Empirismus ist nicht leicht so gedankenlos geweſen, ſich mit der unendlichen Mannigfaltigkeit des Besonderen und Einzelnen zu genügen , sondern ist vielmehr zum Allgemeinen und Gesetzlichen fortgegangen.
+
+Wenn nun der gewöhnliche Empirismus ſich eines willkürlichen Gebrauchs der Gedankenbestimmungen schuldig macht, so scheint diesen Empirismus jener Vorwurf nicht zu treffen, weil ihm eine Betrachtung und Kritik der Kategorien vorausgeht. Und wenn sich an jenen Vorwurf sogleich noch ein zweiter knüpft , daß nåmlich das Fortgehen des Empirismus zur Behauptung eines Algemeinen und Nothwendigen ein uns berechtigtes ist, weil die Vielheit der Erfahrungen nie einen Grund für wirkliche Allgemeinheit abgeben kann , so scheint dieser Empirismus auch von dieſem Vorwurfe frei zu sprechen, weil er nur eine relative Allgemeinheit behauptet.
+
+dieſe relative Algemeinheit hat nicht die Bedeutung einer subjectiven Wahrscheinlichkeit , wozu sich der über sich selbst sich' verständigende Empirismus herabſtimmt , sondern der objectiven Möglichkeit des auch Undersſeynkönnens.
+
+Mit dieser Bestimmung fillt und steht dieser Empirismus ; doch so viel ist für jest schon einleuchtend , daß er nicht nur eine Vereinigung des prius und posterius unmöglich macht, sondern , daß es auch ſein Intereſſe ſeyn muß , diese mit allen Kräften auseinander zu halten ; denn das Zusammenfallen derselben würde die freie, ſchöpferische Thätigkeit Gottes selbst aufheben.
+
+Die Empirie muß sich , ſo zu sagen , hüten , die Harmonie der Welt nicht zu harmonisch , das Gesetz nicht zu vernünftig zu finden , denn dadurch möchte sie den Zweifel gegen die Möglichkeit des Unders seynkönnens erwecken. 11 *
+
+[p. 164] Dieß Verhältniß der Speculation zur Empirie treibt sich bis in die höchste Spize hinauf in der Behauptung , daß das
+
+Wirkliche als solches , das Wirkliche des Beſondern und Einzelnen jederzeit Gegenstand der Erfahrung bleibe ; und daß die Begriffe der Philosophie gegen den Inhalt der Empirie durch gehend nur eine unwirkliche und ideale Bedeutung behalten sollen.
+
+Durch diese Behauptung werden wir mit Gewalt in den Anfang der Phänomenologie verfeßt , und unwillkürlich an die Forderung Krugs erinnert , daß Schelling ihm nur seine
+
+Schreibfeder deduciren möchte.
+
+Zuerst hatte es den Anſchein, als káme die Unwirklichkeit den Kategorien allein zu , nun aber zieht sich diese Unwirklichkeit durch die ganze Philosophie hindurch. Allerdings haben die Begriffe der Metaphysik in dieser Unwirk lichkeit etwas voraus , theils durch ihre absolute Nothwendigkeit, theils durch ihre totale Nichtigkeit , während dagegen die Begriffe der Realphilosophie schon auch andersseynkönnende sind, und als mit Hülfe der Empirie gefunden auch schlechterdings in einem Inhalte da seyn müſſen.
+
+Unwirklich aber ſind die Begriffe nicht etwa , weil sie, wie in der Kantischen Philosophie, nur dem subjectiven Denken angehören , sondern gegen diese Aufs faſſung würden"wir sie als schlechthin wirkliche bezeichnen müſſen ; nur gegen die Wirklichkeit des Beſondern und Einzelnen gehalten, haben sie dieſe rein ideale Bedeutung.
+
+Wir haben hier einen Gegensatz zwischen Begriff und
+
+Wirklichkeit , Denken und Seyn.
+
+Die Philoſophie enthält den
+
+Gedanken in seiner Entwickelung , die Begriffe , aber dieſe ſind unwirklich, innerhalb
+
+Philosophie kommt es zu keiner wahrhaften Wirklichkeit , sondern die Philosophie ſelbſt treibt vielmehr das Seyn immer vor sich her , und endlich aus sich heraus in die Empirie hin.
+
+Oder die Philoſophie ſelbſt iſt
+
+Idealismus und bringt es innerhalb ihrer zu keinem Realismus, ſondern die Realität bleibt der Gegenstand der Empirie.
+
+Was
+
+Hegel gethan haben ſöll , Gedanken verflüchtigt daß er nåmlich alles Wirkliche zum das wird hier geradezu als 1 das eigenste
+
+Wesen der Philosophie ausgesprochen ; aber diese Verflüchtigung wird sogleich theils durch das Geſtändniß derselben aufgehoben, theils durch die Verweisung auf die Empirie , welche das Besondere und Einzelne zu der nichtigen Allgemeinheit der Philosophie liefert.
+
+Das Wirkliche´ iſt alſo das , was nicht in den Gedanken aufgeht , was schlechterdings Gegenstand bleibt. Jenes Geständniß aber, daß der Gedanke das Unwirkliche sey, reicht nicht hin , die Verflüchtigung der Objectivität aufzuheben ; und wir können dasselbe ſchlechterdings nur als eine unbewiesene Versicherung bezeichnen , gegen welche das unmittelbare Vér trauen , daß wir durch das Denken hinter die Wahrheit des Seyns kommen, daß die Veränderung , welche das Denken `mit den Dingen vornimmt, dieſelben aus der Unwahrheit zur Wirklichkeit erhebt , ganz dasselbe Recht hat.
+
+Eine unbewiesene Bers ficherung aber ist die Behauptung, daß das für das Denken Uns erreichbare das wahrhaft Wirkliche sey , weil wir nur die Methode als den wiſſenſchaftlichen Beweis anſehen können , und aus dieſer jene Behauptung sich nicht im Entferntesten ergeben hat." Durch die ganze Philosophie hindurch hebt sich nicht die Form zum Inhalte auf, das Ulgemeine zum Beſondern und Einzelnen, ſondern dieß ist vielmehr schlechterdings unmöglich , weil das
+
+Besondere und Einzelne als frei von dem Allgemeinen in dem selben nicht enthalten W ist. Der Beweis ist nur die ſubjective Erfahrung , welche das philoſophirende Subject macht , daß es nåmlich a priori nicht zum Seyn des Einzelnen kommen kann. Bei dieser Erfahrung bliebe es aber dem Subjecte durchaus uns benommen , das Unerkennbare nicht für das Wahrhafte, ſöndern vielmehr als das schlechthin Unwirkliche aufzufaffen , befonders ba die Logik als die Vorwissenschaft die Subject-Objectivität des Denkens zum Resultate hat.
+
+Von der andern Seite aber wåre [p. 166] an den Anfang der Phånomenologie zu verweiſen , und zu untersuchen, ob es möglich wäre , sich der Dialektik derselben zu widersehen.
+
+Wenn einmal die Erfahrung das Wirkliche zum
+
+Inhalte haben soll , so würde " das Bewußtseyn vor Allem die Erfahrung machen , welche es im Unfange der Phånomenologie macht, nämlich daß das Einzelne vergeht und nicht Stich hältz und zwar stirbt es gerade an dem , was es zum Wirklichen erheben soll , nåmlich an ſeinem auch nichtſeyn und auch anders ſeyn können.
+
+Wenn nun Hegel , indem er das Unmittelbare in den Gedanken verklärt , himmelweit davon entfernt ist , alles wahrhaft Wirkliche in den Gedanken zu verflüchtigen , ſo geschieht in diesem Auseinanderfallen des Idealismus und Realismus jene Verflüchtigung im vollen Maaße.
+
+Mag sich immerhin der gesunde Verstand dazu Glück wünſchen, daß auch die Speculation, wie er , das einzelne Seyn für das Wirkliche anſieht , ſo wird er es sich doch seinerseits nicht nehmen lassen , als Idealist zu handeln und das sinnliche Seyn des Brodes trok seiner Realität zu verzehren.
+
+Aber die Erfahrung ſieht und hört nicht bloß sondern ist zugleich geistige Erfahrung.
+
+Daß alles Vermittelte und durch den Gedanken Erkannte eben so sehr auch für die Unmittelbarkeit des Geistes ist , bedarf weiter feiner Erörterung; und die Philoſophie iſt in dieſer Hinsicht ſelbſt ſchon Erfahrung, geht aus der innigsten , vollsten Erfahrung hervor und in dieſe Die Theorie , welche nicht eben so sehr erfahren wird, zurück.
+
+ist nicht Speculation , sondern abſtracte Ueberspannung ,
+
+Verlust des Lebens und wirklichen Seyns , denn das Seyn ist die Unmittelbarkeit. Hat aber die Unmittelbarkeit der Erfahrung einen Inhalt, der schlechterdings dem Gedanken entflieht, ſo mögen wir immerhin die Vernunft und Wiſſenſchaft verachten und ſie eine „ , graue Theorie “ nennen.
+
+Bedenken aber müſſen wir, daß die wiſſenſchaftliche Betrachtung eines solchen Erfahs rungsobjects , an welches die Speculation nicht heran reicht, [p. 167] keine Philoſophie mehr ist , sondern ein Philoſophiren , das mit einiger grauen Theorie vermischt an der Sache herumdenkt und - in eine Confeſſion ausläuft. Damit wird denn aber das Höchste und Heiligste in die Zufälligkeit der ſubjectiven Empfindung verflüchtigt.
+
+Nicht Jedermanns Confeſſion
+
+Erfahrung hat eine allgemeine Bedeutung , sondern vermittelt durch des Einzelnen Leben und besonderes Schicksal bleibt sie dem Andern fremd und unverständlich.
+
+Mögen auch Viele ihre innigste Zustimmung geben , wenn man auf die Erfahrung als auf den Quell aller Ueberzeugung hinweist; es wird bald genug offenbar werden , wie jeder Einzelne seine besondere Erfah= rung hat, und auch hier das Geſeß des Herzens in den Wahn finn des Eigendünkels umschlägt , indem Jeder die Besonderheit feiner Erfahrung nicht ſieht , sondern sie für die allgemein vers nünftige haltend , von dem Undern die gleiche Erfahrung fordert. Wer aber die Erfahrung des Andern als eine ihm fremde von sich weist, wird von dieſem der Kälte und der Verknöcherung, oder etwa des einseitigen Festhaltens an der grauen Theorie - be züchtigt. So finden sich vielleicht auch Gleichgesinnte zusammen, besonders wenn sie sich der Eitelkeit entschlagen , und es vergessen können , durch welche verschiedene Erfahrung sie zu dem gleichen Reſultate gelangt fino ; - wie Reisende , die in einer Herberge zuſammentreffen und sich von ihren Wanderungen und Erfahrungen erzählen , und sich dann freuen , so gemüthlich zusammenzusißen und auf ſo verschiedenen Wegen in eine Klause gekommen zu seyn.
+
+Wie sie aber zufällig zuſammentrafen, gehen sie auch wieder beliebig zu weiteren Erfahrungen aus einander, und die Herberge ist kein Altar , an welchem der Eine Christus , welcher für Alle gestorben , die Eine Gemeinde versammelt. Wir faffen das Reſultat unſerer Betrachtungen zuſammen . Weiße fångt nicht mit dem abſoluten Wiſſen in seiner Unmittel
+
+[p. 168] QUAN barkeit oder mit der unmittelbaren Einheit von Seyn
+
+Denken an, sondern mit dem abſtracten seyn- und inhaltsloſer Denken.
+
+Da entsteht nothwendig die Schwierigkeit zum Seyn zu kommen.
+
+Und diese Schwierigkeit muß sogleich als Unmöglichkeit erscheinen , indem dieß Denken das Seyn schlechterdings von sich ausschließt , die Form den Inhalt nicht schon in sich selbst hat , also einen immanenten Uebergang von vornherein schon abbricht.
+
+Hier gilt der Ausspruch Schellings , daß es unmöglich sey , mit dem rein Rationalen an die Wirklichkeit zu kommen , denn das Rationale ist hier das schlechthin Leere , und enthålt als abstract unwirklich auch nicht die Möglichkeit des Wirklichen in sich. dieſem
+
+Wenn es aber objectiv unmöglich ist , von abstracten Denken zum Seyn zu kommen , doch subjectiv die Continuität abgeschnitten und kann unterbrochen werden, nåmlich durch die Erfahrung , für welche das Seyn, nach welchem das Denken in sich vergebens sucht , als That sache äußerlich gegeben ist.
+
+Indem aber das Denken seinem
+
+Wesen nach abstract und inhaltsleer ist, so ist vorauszusehen, daß dasselbe mit dem concreten Inhalte der Erfahrung nichts weiter wird anfangen können , als denselben - indem es ihn zu dem ſeinigen zu machen strebt ――― zu verflüchtigen. Die Erhebung des Seyns in den Begriff ist also nichts weiter als ein unwirklich Machen des Wirklichen, und erst wenn das
+
+Denken vom Begreifen ablåßt , wenn es das Einzelne erfährt, kommt es in den Besit des Wirklichen. Der Grundmangel dieser Ansicht ist nun gerade der Formalismus , den Weiße dem Hegelſchen Systeme vorwirft.
+
+Die Methode Weiße's hat nur scheinbar mit der Hegelschen etwas gemein , denn es fehlt ihr gerade das Wesen der Dialektik, die immanente Bewegung als die Einheit des Analytiſchen und Synthetischen.
+
+Die Metaphysik ist daher in einem Sinne abs ftract , wie sie nach Weiße selbst nicht seyn soll , nämlich in [p. 169] dem Sinne, wie die gewöhnliche Logik abstract ist , durch ihre Formlosigkeit. gorie wirklich die
+
+Es ist nicht wahr , daß die folgende Kates vorhergehenden in sich aufgehoben enthält, wenn sie nur ſynthetiſch durch ein Postulat des Subjects hinzu gebracht wird, sondern die Kategorien fallen abstract auseinander und der Willkühr Spielraum gelaſſen.
+
+ſubjectiven - Raisonnements ist freier
+
+Wie jenes Aufbewahren nur möglich ist durch wirklich speculative Form, so hebt diese sogleich die leere Formalität der Kategorien auf, indem eben durch diese immanente Entwickelung die Kategorien Form und Inhalt zu Die Methode Weiße's bringt es nicht zur wirklichen Negativität und immanenten Entzweiung , mit welcher gleich ſind.
+
+sogleich der Inhalt gegeben ist , und eben so wenig zur Ein, zelnheit, welche wesentlich concretes Fürſichſeyn ist. Eine dialektische Entwickelung an sich leerer Formen ist schlechterdings unmöglich, weil der Gedanke einer leeren Form an sich schon nicht speculativ ist, und von vorn herein einen Dualismus zwischen Form und Inhalt ftatuirt. Es ist bald gesagt, daß die Form dem Inhalte nicht åußerlich, sondern demselben vielmehr immanent sey'; aber es ist dieß ein ganz leeres Wort, ohne alle Bedeutung , wenn nicht eben so sehr der Inhalt der Form immanent gefaßt wird. Denn wenn der Inhalt nicht der Form醪 als das Andersseyn immanent ist, so kann auch die Form dem Inhalte nicht imma nent seyn , weil dieser dann ein abstractes Fürfichſeyn , " eine unvermittelte Unmittelbarkeit für sich hat , die jede Immanenz der Form von sich abhält und nur ein äußerliches Hinzukommen der Form duldet.
+
+Damit aber ist die Form, die den Inhalt nicht in sich selbst hat , eine feste fürsichſeyende Bestimmtheit, und hat an dieser, wie die Aristotelische Logik an den Geſetzen des Denkens , einen formlosen Inhalt.
+
+Wegen dieser Form.
+
+losigkeit steht das Denken auf der einen Seite als leere Form, [p. 170] auf der andern der formloſe Inhalt als das Wirkliche Besonderen und Einzelnen.
+
+Dieses Wirkliche ist nicht die Einzelnheit , welche die Allgemeinheit in sich aufgehoben hat, ſondern das nur Einzelne , welches troß seiner Wirks´ lichkeit durch die Macht der Allgemeinheit zu Grunde geht. In der Mitte zwischen diesen Extremen kommt es zu einer theilweisen subjectiven Verbindung dieser Gegensätze , indem in derselben ein wirklich Daseyendes gedacht wird ; allein hier tritt zugleich der Formalismus in seinem höchsten Extrem hervor, indem die dialektische Form auf den freien Inhalt an • gewandt den Schein einer Erkenntniß darbietet, welche von diesem Inhalt nicht möglich seyn soll. (Wie der Auffassung der Kategorien als leerer Formen die Tendenz zu Grunde liegt , die Freiheit zum Princip zu erheben , und ob dieß durch jene Auffassung gelingt - haben wir ſpåter zu unterſuchen.)
+
+Logik im Verhältniß zur Philoſophie der 26 Natur und des Geistes. zan Kehren wir zu Hegel zurück , ſo haben wir im Vorigen die Aufgabe der Phånomenologie und die Methode ihrer Lösung orörtert. Ohne die Phänomenologie, müſſen wir zugeben, würde die Logik formell denselben Mangel haben , als der Fichteſche Anfang mit Ich - Ich und der Schellingsche mit der Definition der Vernunft.
+
+Es kann allerdings die Nothwendigkeit der der
+
+Logik vorausgehenden Phänomenologie für die Betrachtungsweise Einzelner zurücktreten wirklich ist nicht selten
+
+Anfang der Logik einseitig bloß als die Forderung dargestellt, von Allem zu abſtrahiren , um das Denken von aller ſubjectiven Suthat rein zu erhalten und zwar dadurch zurücktreten , daß das denkende Subject unmittelbar dem Denken traut, denselben unbefangenen Glauben befigt, den Cartefius besaß, [p. 171] daß nämlich durch das Denken wirklich die Wahrheit erkannt werden könne, und daß also der Unterſchied zwiſchen Subject und Object kein unüberwindlicher Gegenſaß sey.na Wenn Schelling mit der Definition der absoluten Vernunft anfångt, so ist der Zweifel des reflectirten Denkens, nur übers Sprungen,
+
+Die Vermittelung , welche dieser Standpunkt førdert und voraussett , ist hier nicht in die Wissenschaft selbst aufgenommen, also nicht begriffen , sondern fällt vielmehr in die Geschichte.
+
+Und zwar ist es zunächst die Geſchichte der
+
+Philosophie , welche das * Werden des Schellingschen Stand punktes enthält und seine Nothwendigkeit aufweist ; unmittelbar aber grenzt er an die *Philosophie der Reflexion , welche sich in der Wiſſenſchaftslehre zum Extrem vollendet hatte, und schon bei Fichte ſelbſt in die Vorstellung der Vernunft umschlug. Dieser Proceß der Vermittelung , der hier einerseits außerhalb des Systems in die unbegriffene Geſchichte fällt , ist andererseits in der Innerlichkeit und Unmittelbarkeit des Subjects verborgen geblieben , welches diese Vermittelung der Geschichte in sich *selbst durchlebte , ohne derselben eine wissenschaftliche Gestalt geben zu können. VIndem die Phånomenologie diese Vermittelung der Wissenschaft vindicirt , ist sie zugleich Philosophie der Geschichte und reproducirt in ihrer Sphäre , was der pas feyende objective Geist an sich schon vollbracht hat. } Hegel bleibt daher auch nicht bei dem Bewußtseyn , Selbstbewußtſeyn und der Bernunft stehen , sondern geht zum Begriffe des Geißtes selbst fort.
+
+Er allein iſt das ſich ſelbſt tragende abſolute reale Wesen , wogegen Bewußtseyn , Selbstbewußtſeyn und Vernunft für sich zwar nur Abſtractionen , an sich aber Momente des Geistes sind , welche den +Geist in seiner Totalität zur Vorauss sehung haben, und nur in ihm existiren.
+
+Der Geist ist an und für sich abſolute Wirklichkeit, ſich ſelbſt Inhalt und Form, und breitet diesen seinen Inhalt in der Zeit quseinander ; er ist die
+
+[p. 172] Vermittelung und somit die Erfahrung seiner selbst , indem er die Bewegung ist , seine Substanz und ſeinen Inhalt ſich zum Gegenstande zu machen , oder Bewußtſeyn zu seyn , aber diese Gegenständlichkeit , weil sie an sich die feinige ist, auch eben so sehr zum Selbstbewußtseyn aufzuheben , das Ansich der Substanz i in das Fürsich des Subjects zu verwandeln . Alles geistige Leben beginnt mit der Unmittelbarkeit , und was der Geiſt nicht unmittelbar erfahren hat , und was ihm nicht Gegenstand ge worden ist , kann er auch nicht zum Selbstbewußtseyn und zum Begriffe erheben.
+
+Die Philosophie seht daher nothwendig die
+
+Religion voraus , und erst wenn diese zum Besitz des abſoluten Inhalts gekommen ist , kann die Philosophie zum abſoluten Wiſſen werden.
+
+„ Der Inhalt der Religion ſpricht früher in der Zeit , als die Wiſſenſchaft, es aus , was der Geiſt iſt,“ und *,, zuerst gehören dem Selbstbewußtſeyn von der Subſtanz nur Die abstracten Momente an ; aber indem diese als die . reinen Bewegungen sich selbst weiter treiben , bereichert es sich, bis es die ganze Substanz dem entriſſen , den ganzen Bau ihrer Wesenheiten in ſich gesogen , und indem
+
+Dieses negative Verhalten zur Gegenständlichkeit eben so sehr pofitio , Sehen ist , -➡ fie aus ſich erzeugt und damit für das Bewußtseyn zugleich wieder hergestellt hat." Die Phänomenologie 暑 enthält daher zugleich die concreten Gestalten des Geistes , wie das Reich der Sittlichkeit, der Familie, des Staats, die Moral, die Religion , in welchen der Geist erst seine wahrhafte Wirklich keit hat. Wie aber diese concreten Gestalten in der Phẳno menologie enthalten sind ," theilen sie den durchgreifenden Gegenſat zwischen Bewußtseyn und Selbstbewußtseyn. 251 Ihr substantieller ansichſeyender Inhalt, ihre Gegenständlichkeit, die sie im Bewußts feyn und dem Vorstellen haben , hebt sich daher fortwährend in das Selbstbewußtseyn auf; dieß hat aber nicht die einseitige Bedeutung, daß jener gegenständliche Inhalt vom Selbstbewußtſeyn [p. 173] vernichtet würde , sondern diese Aufhebung geschieht nur dadurch, daß die Subjectivitåt des Selbstbewußtseyns sich selbst vernichtet, oder sich entäußert , sich selbst als Gegenstand aus sich heraus Die Negation ist an sich selbst zugleich Poſition und fest. Sehen, die Verinnerung zugleich Entäußerung, keine Abſtraction, sondern Concretion und Erfüllung.
+
+Nicht der Inhalt an und für sich wird aufgehoben , sondern nur die Gegenständlichkeit und Fremdheit des Inhalts.
+
+Eben darum ist , wie schon bemerkt, die Phänomenologie die Widerlegung des schlechten oder ſub-s jectiven Idealismus , welcher im Wiſſen von ſich ſelbſt nie das Object als die Wahrheit weiß ;
+
+das absolute Wissen beweist:
+
+dagegen die Wahrheit des Realismus , aber freilich nicht durch das Stehenlassen eines fremden Objects oder Dings an sich, welches vielmehr ſubjectiver Idealismus wåre , ſondern der sich als Geist wissende Geist ist weder das vorstellende Bewußtseyn, noch das abstracte Selbstbewußtseyn , sondern das absolut freie und vernünftige Denken , welches, aus seiner leeren Subjectivität , heraus in Einheit mit dem Seyn ist , und an dieſer concreten Einheit und Bewegung die ganze Fülle der Objectivitåt hat. Mit dieser Aufhebung des Gegensatzes zwischen Bewußtseyn und Selbstbewußtseyn schließt die Phänomenologie, also mit dem Selbst, dem Ich , das als dieſes jeder Besonderheit sich entåußert eben so sehr allgemeines Ich ist, mit dem Ich, das an seiner Entäußerung und Entzweiung , an seiner reinen Negativität , allen Inhalt hat , in welchem abſoluten Undersſeyn ; Die Wahrheit ist der Gewißheit nicht . es sich selbst weiß. äußerlich und etwas schlechthin Anderes als diese , nur Gegen ſtand , und die Gewißheit ist nicht bloße Gewißheit seiner selbst, leere Form und Subjectivitåt , sondern die Wahrheit iſt als2 substantieller Inhalt an sich selbst das Undere der absoluten Form und Gewißheit , und die Gewißheit ist das reine Selbst erkennen im abſoluten Andersseyn als der ſubſtantiellen
+
+[p. 174] Wahrheit.
+
+Allerdings ist das Resultat der Phänomenologie abstract, insofern das abſolute Wiſſen nur an sich oder für uns seinem Begriffe nach vorhanden , noch nicht das Reſultat seiner selbst ist, sondern die Vollendung und Realiſirung dieses Begriffs in der Wissenschaft selbst erst erlangen B soll. Reſultat der Phänomenologie kündigt sich damit sogleich als der Anfang einer neuen Gestaltung an. Das Verhältniß der Logik zur Philosophie der Natur und des Geistes ist auf verschiedene Weise iefgefaß , und es ist besonders das Mißverständniß in falsch diesem Punkte , welches zu dem Vorwurfé des logischen Formalismus Veranlassung gegeben hat.
+
+Leider wird von den Gegnern selten daran gedacht, das System in seiner Totalitát aufzufaſſen , und geschieht dieß , ſo ist man doch, wenn man auch sonst wohl die eiserne Conſequenz Hegels lobt , leicht bereit, ihn gegen die Methode inconsequent werden zu lassen.
+
+Meist aber hålt man einzelne Stellen, aus dem Zuſammenhange heraus geriſſen , feft, vergißt oder verschweigt wenigſtens dagegen andere, welche die erstere ergänzen und erklären , und dringen sich Worte, welche sich mit der Beschuldigung schlechterdings nicht vereinigen wollen , sondern diese geradezu als Mißverständniß bezeichnen, zu sehr auf, so ist man ohne Weiteres bereit , fie für das des wußtlose Hervorbrechen der Wahrheit zu erklären, welche sich pköphetiſch Plak macht.
+
+So hat z. B. Weiße die Keckheit, zu meinen , der Ausspruch Hegels , daß die Logik ein Schattenreich sen, wäre ihm in einer Anwandlung von humoristischer Laune fund entschlüpft; dagegen haben wir in vollem Ernste zu protestiren, und wie ſich Hegel nie damit begnügt , den Gedanken nur in einem Bilde auszusprechen , ſo`haben schon die Worte , daß die Logik die Wissenschaft der reinen Idee , oder der Idee im ab= stracten Elemente des Denkens sey , ganz Sinn , als jene bildliche Bezeichnung.
+
+denselben
+
+So beruft sich Fiſcher [p. 175] in der Polemik gegen Hegel häufig auf §. 164 der Encyklopädie, wo´ es heißt : „ Man hört nichts gewöhnlicher ſagen, als daß der Begriff etwas Abstractes ist.
+
+Dieß ist theils insofern richtig, als das Denken überhaupt und nicht das empirisch concrete Sinnliche sein Element, theils als er noch nicht die Idee ist. Insofern ist der ſubjective Begriff noch formell , jedoch gar nicht, als ob er je einen andern Inhalt haben oder erhalten sollte als sich selbst.
+
+Als die absolute Form selbst ist er alle Bestimmtheit, eben wie sie in ihrer Wahrheit ist.
+
+Ob er alſo gleich abſtract ist, so ist er das Concrete , und zwar das schlechthin Concrete, das Subject als solches."
+
+Bleiben wir hierbei stehen , so könnte es scheinen , als gelte der logische Begriff auch für das absolut Unmittelbar fährt aber Hegel fort : das abſolut
+
+Wirkliche.
+
+Concrete ist der Geist, der Begriff, insofern er als Begriff, sich unterscheidend von seiner Objectivität, die aber des Unter ſcheidens unerachtet , die ſeinige bleibt , existirt. Das ist es nun eben , was Hegel durchweg urgirt. -Er erklärt sich mit der höchsten Bestimmtheit einerseits gegen die Auffassung des Logischen als des bloß Formellen und Abſtracten ; die Logik ist vielmehr die Wiſſenſchaft der absoluten Form, und dieß nur dadurch , daß diese Form den Inhalt nicht von außen bekommt , ſondern dieſen vielmehr an ſich ſelbſt hat , also´ schlechthin concret ist ; und zwar ist dieser Inhalt der Logik das absolute Wahre selbst , die reine Wahrheit.
+
+Von der andern Seite aber ürgirt Hegel eben so sehr , daß die Logik die Wahrheit enthalte im abstracten Elemente des Gedankens ; -daß „ ſie nicht auch diejenige Realität enthalten könne und solle,' welche der Inhalt weiterer Theile der Philosophie , der Wissens ſchaften der Natur und des Geiſtes sey ; " (Log. 3 , 26. ) daß der Geist als das absolut Concrete auch erst das einzig und allein wahrhaft Wirkliche sey.
+
+Diese beiden Seiten der Logik
+
+ſind es nun beſonders , welche wir fest zu halten und weiter zu erörtern haben : ihre Wesenhaftigkeit und Concretion , wodurch fie das absolut Wahre zum Inhalte hat , und ihre Abstraction , wodurch sie nicht die ganze Philoſophie ist , sondern nur ein Theil derselben und zwar der erste.
+
+Das Mißverständniß be steht hier besonders darin , daß man eine Seite der Logik abstract festhålt, sie entweder auffaßt , als für sich Alles in Allem, * wodurch der Schein entsteht als verflüchtige Hegel die Natur , und den Geist in den Gedanken , oder sie nur als abstracte Form , nimmt, wodurch nothwendig ein Dualismus entsteht , und Natur und Geist ihrem Wesen nach unerkannt bleiben. Hegel wird , wie schon früher bemerkt, öfter mit I. H. Fichte zusammengestellt , wie von Fischer und vom jüngern Fichte, welcher meint , daß Hegel eben so wie jener den realen Inhalt in die Form verflüchtige , nur mit dem Unterſchiede, daß Hegel diese Inhaltsverflüchtigung für gesammte
+
+Objectivität versuche. Fichte beginnt bekanntlich die Wiſſen= ; schaftslehre mit dem Ich- Ich , und verwirft damit zugleich die bloße abstracte Form des logischen Sages der Identität ¸¥ - U. ¦ Ich - Ich ist Thatsache des Bewußtseyns , aber nicht des uns mittelbaren , sondern des philoſophiſchen , indem das Ich hier von aller sinnlichen Concretion durch das Denken befreit ist ,: und nichts Anderes denkt , als sich selbst.
+
+Das Ich ist so Sub jectobject, reines Selbstbewußtseyn , und existirt als solches nur dadurch, daß es sich selbst seht.
+
+Dieser Sat enthält damit zu= gleich die Erhebung in den Standpunkt des philoſophiſchen
+
+Denkens , welcher als intellectuelle Anschauung postulirt wird. Es fällt hier sogleich der Mangel in die Augen , wie auch der Unterſchied dieſes Unfangs von dem Anfange der Logik.
+
+Fichte diese Erhebung zum reinen Selbstbewußtſeyn nur postulirt, so ist sie damit noch nicht als nothwendig und als j Standpunkt der Wahrheit erwiesen , sondern bleibt willkührlich und problematisch.
+
+Diese Erhebung nun zum philosophischen
+
+[p. 177] Wissen als einen nothwendigen und wahrhaften Standpunkt zu beweisen, war , wie wir gesehen haben , der Inhalt der Phänomenologie des Geistes. ein weiterer Unterschied an.
+
+Sogleich aber knüpft sich hier
+
+Wie das Ich , mit welchem Fichte beginnt , nur durch Abstraction von allem Andersseyn und aller Objectivität gewonnen wird, und durch die Gegenständlichkeit nicht hindurchgegangen , sondern diese nur äußerlich und willkührlich fortgeworfen ist , so ist dieses Ich auch nicht ein wahrhaft allge= meines , das Andersseyn und die Gegenständlichkeit in sich auf gehoben enthaltendes , sondern es ist vielmehr das ſchlechthin ſubjective Ich des Bewußtſeyns , das am Andern einen peren nirenden Gegensatz hat.
+
+Indem so das Ich nicht über sein
+
+Object übergreifende Subjectivität oder Geist ist, sondern inner halb des Gegensatzes bleibt , so findet in der Aufhebung dieses Gegenſages allerdings eine Verflüchtigung der Objectivitåt ſtatt. Denn die Aufhebung dieses Gegensatzes kann hier nur darin bestehen , das Object , # welches an sich ein schlechthin Underes ist als das Subject, mit Gewalt zu vernichten , oder , wenn dieß wegen der endlichen Natur des Ich selbst unmöglich ist , wenigstens ins Unendliche hin nach dieser Vernichtung zu streben. Das Ich zieht das Object in seine Sphåre hinein , obwohl dieſes als Glied des Gegenſages und als schlechthin Underes vom Subject vielmehr frei ist. Darin liegt nun eben hier die Verflüchtigung des Objects , daß das Subject den Gegenstand trotz seiner abstracten Wesensverschiedenheit und Freiheit von ihm , dennoch zu dem ſeinigen macht. stractes Selbstbewußtseyn ,
+
+Das Ich bleibt ab ohne sich zu entåußern und troß dieſer ſubjectiven Form will es absoluter Inhalt ſeyn. Wie nun die Phänomenologie das Object nicht durch eine willkührliche Abstraction fortwirft, sondern vielmehr durch das Object hindurch geht, so bleibt sie auch nicht bei der ſubjectiven Form des Bewußtseyns stehen , sondern geht zur abſoluten
+
+[p. 178] ――――
+
+Form der Vernunft und des Geistes fort.
+
+Das Resultat ist daher nicht das Fichtesche Ich , sondern vielmehr die abſolutè Entäußerung dieses Ich.
+
+Das reine Selbsterkennen nicht für sich nach seiner inhaltsleeren Form , der der substantielle Inhalt nur gegenüber steht , sondern das reine Selbsterkennen im absoluten Andersseyn.
+
+Das absolute Wissen ist als Re
+
+ſultat der Phänomenologie abstract , weil es sich noch nicht in sich selbst vollendet hat ; für den Anfang der Wiſſenſchaft, in welcher eben jene Realiſirung geschehen soll , ist es also seinem einfachen Begriffe nach in seiner abstracten Unmittelbarkeit auf zunehmen.
+
+Der Anfang kann also nicht bestimmt werden als
+
+Ich , in dem Fichteſchen Sinne ; denn eben dieſer Gegensatz des Bewußtseyns zwischen Subject und Object hat sich als ein unwahrer und nichtiger gezeigt.
+
+Ebenso wenig aber kann der
+
+Anfang irgend eine Vollendung des Wiſſens innerhalb seiner felbst seyn , irgend ein beſtimmter Inhalt , weil dieſer ſchon Vermittelung voraussehen würde.
+
+Es ist weiter nichts vor handen, als das absolute Wissen , als die Aufhebung des Gegensatzes zwischen Subject und Object , alſo ein Seyn , welches den Unterschied weder außer sich hat , noch auch in sich selbst irgend ein bestimmter Inhalt ist. Um den Anfang der Logik richtig zu faſſen, iſt alſo besonders feſt zuhalten, daß er vermittelt und unmittelbar zugleich ist. Er ist vermittelt durch die Phänomenologie des Geistes als der Wissenschaft des Bewußtseyns, und kündigt sich sogleich dadurch, daß er der Anfang im reinen Denken ist, als vermittelt an.
+
+Als
+
+Anfang der Logik ſelbſt aber ist er unmittelbar oder die einfache Unmittelbarkeit selbst , und eben darum ohne Vermittelung in sich und abstract.
+
+Vorausgesetzt wird also für den Anfang der Logik eben diese Erhebung zum reinen Denken , also kein objectiver bestimmter Inhalt , welcher erst in der Wissenschaft selbst gewonnen werden soll , sondern nur die absolute Form [p. 179] des Wiſſens ; es wird vom Subjecte vorausgesetzt , daß es sich im Elemente des Wissens befinde, um von Nichts als dem Anfange selbst anfangen zu können .
+
+Wird nun der Anfang der
+
+Logik als bloßes Postulat dargestellt , als die Forderung von allem Gegensahe zwischen Subject und Object , allem unmittelbar Gegebenen zu abstrahiren , um zum reinen Denken , welches unmittelbar das reine Seyn ist , zu gelangen ― so wird hier bei , wie schon bemerkt , immer zugleich das unbefangene Ver trauen vorausgesetzt , daß durch das Denken die Wahrheit wirklich erkannt werden könne.
+
+Dann bleibt der Reflexion immer wieder das Recht , jene Abstraction als bloß ſubjectiven Einfall zu verwerfen , und sich nicht gefallen zu lassen.
+
+Sie wird also sagen : Ich kann sehr wohl von allem unmittelbar Gegebenen abstrahiren , auch vom Gegensahe zwiſchen Subject und Object, aber dabei kann nichts herauskommen.
+
+Ich kann das reine
+
+Seyn denken , auch das Wesen , auch den Begriff, aber Ich bin es immer, der das Seyn denkt , und es bleibt fortwährend mein subjectiver Gedanke , Wirklichkeit.
+
+ohne objective Wahrheit und
+
+Hier wird also eben der Gegensatz festgehalten , der in der Phänomenologie als ein nichtiger nachgewieſen ist. Das ist ganz richtig , daß Ich das Seyn und die ganze Logik und • ebenso auch die ganze Philosophie denke ; dieß aber thut
+
+Wahrheit
+
+Logik keinen
+
+Abbruch.
+
+Gedanken
+
+ſind trok dem , daß Ich sie denke, dennoch objective Ge danken.
+
+Kant hålt bekanntlich diesen Gegensatz fest.
+
+Ich schaue die Dinge in Raum und Zeit an , aber Raum und Zeit ist eben meine Anschauung , und eben darum weil ich die Dinge nicht anders , als im Raume sehe, erkenne ich sie nicht, wie sie an sich sind. theil
+
+Ich denke durch die Kategorien und jedes Ur enthält eine Kategorie , allein die Kategorien gehören meinem ſubjectiven Denken an , sind nicht objective an ſich seyende Gedanken , welche sich auf die Dinge an sich be 12 * [p. 180] ziehen könnten.
+
+Wer also diesen Gegensatz festhält , ist fürs erste an die Phänomenologie zu verweisen, wo derselbe durch alle seine Stationen hin verfolgt und aufgehoben iſt.
+
+Indem aber der Anfang der Logik das abſolute Wiſſen in seiner Unmittelbarkeit ist , und die Aufhebung des Gegensates zwiſchen . Subject -und Object vorausſeßt , ſo iſt das Seyn auch nicht bloße Abſtraction oder bloße Form, sondern vielmehr Form und Inhalt zugleich.
+
+Der Unterschied nämlich zwischen
+
+Subject und Object ist sogleich im Seyn nicht verwiſcht , sondern als aufgehoben enthalten , und wenn gleich, die Logik die absolute Einheit des Wiſſens nicht wieder in jene Elemente des Bewußtseyns auflöſt, ſo ist doch diese Einheit einzig und allein durch den Unterschied concret und inhaltsvoll.
+
+Das Seyn ist als objectiver Gedanke , an sich selbst die unmittelbare Ein heit : von Seyn und Denken , und der Unterſchied tritt sogleich unmittelbar hervor , indem das Seyn als ohne Vermittelung und Bestimmung in sich ebenso sehr die reine Negation und der einfache Unterschied von sich selbst ist. als dem ersten concreten Begriffe
+
+An dem Werden , innerhalb der Logik selbst , stellt es sich sogleich auf das klarste heraus , daß die Form nur dadurch absolut ist , daß sie den Inhalt an sich selbst hat , und daß eine dialectische Bewer gung der Kategorieen schlechterdings unmöglich ist , wenn man dieselben als inhaltsleere Formen auffaßt. Wenn der Aristotelischen Logik eine nur formelle Bedeutung zugestanden wird , und die Erkenntniß der realen Wahr heit nicht ihr Inhalt seyn soll , so fehlt es ihr doch durchaus nicht etwa an Inhalt ; denn eben die Regeln ,
+
+Geseke des
+
+Denkens , Formen der Urtheile und Schlüſſe ſind dieser Inhalt. Allein es fehlt ihr die Form und allein wegen der Form losigkeit ist ihr Inhalt selbst ein bloß abstracter Formalismus.
+
+[p. 181] Das Denken selbst ist dem Seyn gegenüber als bloße Form firirt und eben darum bleibt dem Denken weiter kein ' Inhalt als eine lééré Form Die Logik Hegels foll nun den Inhalt umfaſſen , den das reine Denken , welches über die Trennung zwiſchen Gewißheit und Wahrheit hinaus ist , an ſich ſelbſt hat. Die dialectische Methode ist weiter nichts , als die Entwicklung und Ausbreitung dieses Inhalts durch sich selbst.
+
+Fassen wir das Wesen der dialectischen Methode als die Einheit des analytischen und ſynthetischen Fortgangs , ſo iſt alſo dieſer Fort gang kein Ueberschuß, kein schlechthin Underes , sondern als
+
+Anderes zugleich Vertiefung des Ersten in ſich ſelbſt , nicht äußerlich zum Ersten hinzugebracht, sondern aus dem Ersten selbst Herausgenommen , und das dritte Glied ist ebenso als Negation des zweiten die immanente Negation , welche dieß zweite an sich selbst hat, die concrete Einheit des ersten und zweiten Mo ments.
+
+Die Methode geht also von der unmittelbaren Einheit durch den Unterschied und durch die Entzweiung , zur concreten Einheit des Fürsichfeyns fork.
+
+Halten wir dieses fest , so ers hellt sogleich, daß hier von einer inhaltleeren Form schlechter dings nicht die Rede seyn kann. Eben an dem Unter schiede und an der Entzweiung hat ja das Denken feinen Inhalt, und die vermittelte oder concrete Einheit ist ja einzig und allein dadurch concret , daß sie den Unterſchied nicht wegläßt, ſondern vielmehr in sich aufgehoben enthält.
+
+Die Entwickelung der Kategorien als bloßer Formen geht noth wendig in gerader Linie fort , und läßt ſie ſchlechterdings auseinander fallen , d. h. es findet gar keine dialectische Ent wickelung mehr Statt , sondern nur eine Aufzählung von lauter schlechthin discreten beziehungslosen Punkten. In der dialectischen Entwicklung wird die Form durch die ihr immanente Entzweiung sogleich concret und Inhalt an sich selbst , und zwar absoluter Inhalt, der schlechterdings nichts außer sich liegen läßt , [p. 182] indem das Denken an der absoluten Negativität und dem a b foluten Unterschiede , alle Unterſchiede und damit allen möglichen Inhalt in sich selbst enthält , und der Begriff als reiner Begriff frei von aller endlichen Beſonderheit der abſolute Inbegriff aller Unterschiede und alles Begrifflichen in concretèr Einheit und im undurchdringlichen Fürsichseyn ist.
+
+Die Auf faſſung der Kategorien als bloßer Formen ist so wenig specu lativ , daß in derselben nicht ein einziger dialectischer Fortschritt möglich ist.
+
+So ist schon der erste Begriff des Werdens bei Weiße geradezu erschlichen.
+
+Denn das Seyn als bloße
+
+Form ist nicht wesentlich Nichts , ſondern nur weil es Form ist ; wie Weiße denn bemerkt , daß wollte man das metaphyſiſche Seyn in Form eines Urtheils ausdrücken , man die Form der Identität wählen müſſe Seyn - Seyn ; von welchem Sake es sogleich anerkannt Satz sey.
+
+werde , er Nichts sage , ein leerer
+
+Daß dieser Saß nichts sagt , hat seine volle Richtig= keit , aber offenbar fällt das Nichts hier nicht in das Seyn , sondern in uns , die wir uns mit Nichtssagendem zu thun machen : und allerdings steht es uns auch frei von dieſem Nichts fagenden zum Begriffe des Werdens fortzugehen , nur müſſen wir nicht meinen , daß wir damit irgend etwas gethan haben , das nicht eben nur unser Belieben wåre : das Seyn fordert hier nicht den Fortgang zum Werden , denn dann müßte es wesentlich und seinem Inhalte nach Nichts ſeyn , ſondern höchstens die Langeweile , welche wir beim Denken einer leeren Tautologie empfinden.
+
+Der wirkliche speculative Begriff des
+
+Werdens hat aber sogleich an dem Unterſchiede von Seyn und Nichts seinen Inhalt. 3ur weitern Erläuterung dieses Punktes betrachten wir das Urtheil, welches Schelling kürzlich in jener bekannten Vorrede über das System Hegels ausgesprochen hat.
+
+Schelling
+
+ſagt so : Diejenige Philosophie , welcher man in neuerer Zeit am [p. 183] bestimmtesten ihre Uebereinstimmung mit dem Spinozismus vor geworfen , hatte in ihrem unendlichen Subject - Object , d . h. in dem absoluten Subject , das seiner Natur nach sich objectivirt (zum Object wird ) , aber aus jener Objectivitåt ( Endlichkeit ) fiegreich wieder hervor und nur in eine höhere Potenz der
+
+Subjectivität zurücktritt , bis sie nach Erschöpfung ihrer ganzen Möglichkeit (objectiv zu werden) als über alles siegreiches Subject stehen bleibt ; an diesem also hatte jene Philosophie allerdings ein Princip nothwendigen Fortschreitens .
+
+Wenn aber das rein
+
+Rationale nur nicht nicht zu Denkende , reines Subject ist, so ist jenes Subject , welches auf die angenommene Weise ſich steigernd von jeder Objectivitåt nur zu höherer Subjectivitåt fortschreitet, das Subject mit dieser Bestimmung , nicht mehr das bloße nicht nicht zu Denkende , rein Rationale, sondern eben diese Bestimmung war eine durch lebendige Auffassung der Wirklichkeit , oder durch die Nothwendigkeit , sich das Mittel des Fortschreitens zu versichern , dieser Philosophie aufgedrungene empirische Bestimmung .
+
+Dieses Empirische hat ein spåter
+
+Gekommener, den die Natur zu einem neuen Wolfianismus , für unsere Zeit , ftinctmäßig prådestinirt zu dadurch haben schien , gleichsam in hinweggeschafft , des Lebendigen , Wirklichen , er an die Stelle dem die frühere Philosophie die Eigenschaft beigelegt hatte , in das Gegentheil ( Object) über = und aus diesem in sich zurück zu gehen , den logischen Begriff sette , den er durch die seltsamste Fiction oder Hypoſtaſirung eine ähnliche nothwendige Selbstbewegung zuschrieb. Zunächst ist schön vielfach auf die willkührliche Versicherung Schellings aufmerksam gemacht , daß das Abſolute ſiegreiches Subject sey.
+
+Wie Schelling früher das Absolute bestimmte als Indifferenz des Subjectiven und Objectiven , da hilft alle Versicherung , daß es Subject sen , schlechterdings nichts ;
+
+[p. 184] denn als Indifferenz , ist es weder. Subject , noch Object, sondern ། eben die Indifferenz sich selbst gleiche Identität , ohne alles Uebergreifen irgend eines Momentes , ohne, allen Sieg der Sub jectivitåt.
+
+Die Indifferenz deutet allerdings auf den Unterſchied hin und ist 腻 nur Indifferenz , indem die Differenz ist.
+
+wiewohl sie den Unterschied von Subject, und Object in ſich 鲨 aufhebt, so ist sie doch nur an sich diese Einheit, und bleibt als solche von jenem Unterschiede äußerlich unterschieden ; sie ist nicht Einheit der Einheit und des Unterschiedes , und eben darum nicht für sich seyende , sich von ſich ſelbſt unterscheidende Ein heit.
+
+Indem so der Indifferenz der Unterschied nicht immaɛ nent ist , wird die Auffassung des Absoluten als # Indifferenz von Hegel als abstract , unwirklich und unlebendig bezeichnet. Abgesehen aber hiervon , so scheint die Indifferenz doch dadurch gegen den Begriff als wirklich und lebendig bestimmt zu ſeyn, daß dieselbe die Natur und den Geist, diese unmittelbaren Wirklichkeiten zu ihren Momenten hat.
+
+Hierüber wäre zu nåchſt an das früher Bemerkte zu erinnern , daß auch Hegel den Begriff nicht als das * absolut Wirkliche faßt, sondern daß dieß vielmehr der Geist ist, in Verhältniß zu welchem der Begriff allerdings auch abstract und unwirklich genannt werden muß.
+
+Sehr bezeichnend aber ist der Ausdruck Schellings , daß das Empirische in seiner Philosophie eine aufgedrungene Bestimmung sey.
+
+Wenn es offenbar darauf ankam , ſich nichts unmittelbar aufdringen zu laſſen , ſo ſcheint die Indifferenz nur dadurch lebendig und concret , daß die Anschauung und Phantasie den abstracten Gedankenbestimmungen unmittelbar die empirischen vollen Wirklichkeiten von Natur und Geiſt ſub stituirt.
+
+Indifferenz , Quantitåt , Subject , Object u. s. w. ſind reine Gedankenbeſtimmungen ; obwohl es aber gerade dieſe ſind , durch welche der Gegenstand aus einem bekannten in ein Er kanntes verwandelt wird , so werden diese Bestimmungen den
+
+[p. 185] ――― noch 2 in der Schellingschen Philosophie gebraucht , ohne an ſich ihrer Bedeutung und Geltung nach betrachtet und erkannt zu feyn.
+
+Indem sie somit selbst als ein Bekanntes genommen werden , kommt einerseits die Dürftigkeit derselben nicht zum Bewußtseyn , und anderseits werden sie unmittelbar an eine concrete . Gestalt angeheftet , so daß es den Anschein hat , als ſtånde man fortwährend in der concreten Wirklichkeit.
+
+jene abstracte Bestimmungen aber ist die Wirklichkeit nicht er ſchöpft ; allein dieſer Ueberschuß bleibt verborgen , oder wird durch poetische Bilder und Parallelen ausgefüllt , woraus „, ein Cirkel von Gegenseitigkeit hervorgeht , wodurch man nicht erfährt , was die Sache selbst , weder was die eine , noch was die andere ist" ; so daß hier recht eigentlich eine Hypostase Statt findet, indem das an sich Abstracte unmittelbar als ein concretes Wirkliche und Anschauliche genommen wird.
+
+Wenn daher Schelling recht tief im Concreten und Wirklichen zu stecken meint , so ist er vielmehr im Poetischen, und hat dieß Lebendige in der Phantasie , nicht aber im Gedanken ze und wirklich bleibt die ganze Philosophie Schellings in dem Sinne concreter und leben 数 diger als die Philoſophie Hegels , in welchem die Poeſie con creter ist als die Philosophie.
+
+Es ist daher einerseits als ein unberechenbares Verdienst Hegels anzusehen , daß er mit dem Klarsten Bewußtseyn die Täuschung aufdeckte, in welcher der abstracte } Inhalt des Gedankens durch die unmittelbare " Fülle der Vorstellung übertüncht wird , und daß er allen Inhalt der Vorstellung , so lange er nur bekannt , nicht erkannt ist, als bloßes Wort betrachtete , ohne philoſophiſche Geltung z daß er also den Zweifel des freien Denkens vollendete und mit unerbittlicher Strenge alles Unmittelbare und sich Aufdringende, oder vielmehr schon durch Leben und Gewohnheit fest Gewordne fortzuwerfen verlangt , um den ganzen Reichthum der Vorstellung zu vermitteln und im Gedanken zu verklåren.
+
+Undrerseits aber [p. 186] dadeb ist es sehr erklärlich , daß Schelling abgesehen davon , daß er den Unterschied des Begriffs vom Geifte bei Hegel übersicht - diese Verklärung der Unmittelbarkeit in den Gedanken als eine Fortschaffung des Lebendigen und Wirklichen betrachten mußte, in dem Hegel wirklich das Lebendige der Phantasie und Begeisterung als ein der Philosophie widersprechendes Element verwarf, ja dasselbe, indem es den Inhalt nur im Symbole besaß , als philoſophiſchen Formalismus bezeichnete , der troß der Heiterkeit seiner Bestimmungen doch zu keiner wirklichen Erkenntniß führen könne. Wenn also Weiße meint , daß von dem Platonischen Ideenbegriff und V dem Schellingschen Begriff des Absoluten die Hegelsche Philosophie gern glauben machen möchte , fie feyen nichts , als nur zuſammengezogene und deßhalb unvollendete Ausdrücke für das, was sie selbst in ihrer Logik gebe - so ist dagegen zu des merken , daß die Hegelsche Philoſophie vielmehr das klarste Bewußtseyn über den Unterschied des Schellingschen Abſoluten und des logischen Begriffs hat. Insofern das Schellingsche Absolute die Gottheit in ihrer absolut lebendigen Wirklichkeit feyn soll , ist es nicht der logische Begriff, sondern der abſolute Geist, der in der Hegelschen Philoſophie an die Stelle deſſelben tritt. Aber das Schellingſche Abſolute ist , indem es als In differenz bestimmt ist, noch nicht wirklich lebendiger selbst bewußter Geist , und andrerseits ist das Absolute , insofern es nicht zugleich als logischer Begriff erkannt ist , seinem Wesen nach unerkannt , nicht im reinen Gedanken , sondern nur symbolisch und poetisch aufgefaßt. Die Logik enthält, wie Hegel sich ausdrückt, den Gedanken, in fofern er ebenso sehr die Sache an sich selbst ist, oder die Sache an sich selbst, insofern sie eben so sehr der reine Gedanke iſt. — Blicken wir auf die Phänomenologie zurück, so ist ihr Resultat das absolute Wissen als das reine allgemeine Selbstbewußtseyn .
+
+Der sich entwickelnde Inhalt , die Sache selbst fällt nicht mehr in zwei
+
+[p. 187] Elemente auseinander, in ein fürſichſeyendes Wiffendes und ein ansichfeyendes Gegenständliches , ſondern beide Elemente haben sich zu Momenten herabgesetzt , indem sie gegenseitig sich auf hoben.
+
+Die Einheit , welche aus dieser Aufhebung resultirt , ist zunächst unmittelbar , oder an ſich das reine Seyn , das Denken, welches ohne Beziehung auf eine ihm åußere Gegenſtåndlichkeit, als Beziehung auf sich selbst ist. abstract ,
+
+Das Seyn des Unfangs ist wie der Anfang oder die Unmittelbarkeit immer abstract ist, indem sie obwohl Resultat der Vermittelung , welche hier in die Wiſſenſchaft des Bewußtseyns fällt, doch noch nicht in sich selbst und in ihrer Sphäre sich vermittelt hat , noch nicht das Reſultat ihrer selbst ist.
+
+Diese Vers mittelung ist das Werden , die reine Negativität , das Unters scheiden , durch welches das Seyn als die Unmittelbarkeit des reinen Denkens sich entwickelt, zur Bestimmung und zum des stimmten Inhalte fortgeht.
+
+Das reine Wiſſen nicht durch ein
+
+Anderes vermittelt , ſondern durch sich selbst, oder als Reſultat seiner selbst, ist der Begriff, der nicht die einfache un mittelbare Beziehung auf sich selbst ist, sondern an der Negativität und dem abſoluten Unterschiede ſeinen Inhalt hat, und in dieſem ſich auf sich selbst beziehend absolutes Fürsich seyn , oder concretes Subject ist , das nicht wie das Subject des Bewußtseyns die Gegenständlichkeit als ein Anderes sich gegenüber , sondern dieſe durchdrungen und zum Inhalte seiner selbst hat. Trotz dieses Inhalts aber ist doch Logik abstracte Wissenschaft , indem die ganze Entwickelung in dem abstracten Elemente des Gedankens vor sich geht , nicht aus dieſer Sphåre des reinen Gedankens heraustritt.
+
+Darin besteht nun im All gemeinen das Abstracte der Logik , daß sie zunächst für sich, ohne ihre Manifestation , in welcher sie ihr Daſeyn hat , sich ent wickelt.
+
+Wenn der Gedanke nur dadurch concret ist, daß er [p. 188] den Unterſchied in sich selbst hat , so bleibt doch dieser Unterschied in der Lpgik im Gedanken ſelbſt verſchloſſen , ist als Entzweiung und Entäußerung ‫ جمہ‬unmittelbar zurückgenommen und vermit felt; es iſt das Erſcheinen nicht nach außen vorhanden , ſondern nur nach innen ; die Logik ,, stellt die Selbstbewegung der Idee nur als ursprüngliches Wort dar , das eine Aeußerung ist, aber eine solche , die als Neußeres unmittelbar wieder verschwunden ist , indem sie ist. “ ( Log. II. , 328 ). Der logische In halt hat eben darum innerhalb der Logik selbst , weil er N in das Scheinen in einer Formbestimmtheit noch nicht eingetres ten ཚེ་ ist, " nicht die Form einer absoluten Unmittelbarkeit oder eines abſoluten Andersſeyns , er hat kein Daseyn , ſondern er wird, indem er sich entwickelt und in seiner Fortbestimmung nichts verliert , sondern alles Erworbene mit sich trågt , sich des reichert und sich in sich selbst verdichtet. " In diesem Werden 蔓 und sich Vollenden: des Gedankeninhalts aber ist jede Besonderheit , jede Negation und Bestimmtheit , der Unterschied Moment , Bestimmtheit des Gedankens an sich selbst , beſtimmter Gedanke, der ſomit ſogleich die Negation an ſich ſelbſt hat , die ihm unmittelbar nachfolgt.
+
+So lange sich das System des
+
+Logischen noch nicht vollendet hat, so lange die Idee noch wird, wird auch ebenso die Negation und Bestimmtheit , welche die Idee in sich selbst hat.
+
+Während dieses Werdens aber hat die
+
+Idee kein unmittelbares Daseyn ; denn das Daseyn ist das aufgehobene Werden , sondern die Negation und der Unter ſchied iſt ſich mit der Idee entwickelndes Moment.
+
+Das Un dersseyn , die Beſonderung iſt ſonach von der Idee nicht frei gelassen, 1 und hat nicht die ihm gemäße Form , die Form des Andersseyns , und entwickelt und vollendet sich nicht in ſich selbst. 1 Ebenso wenig aber hat der Begriff wirkliche Eri stenz, weil er als logischer nicht in der Form der Einzelnheit als der ihm gemåßen Form ist , und das Andersseyn nicht in [p. 189] seiner Form der Neußerlichkeit zum concreten Fürſichſeyn überz wunden und aufgehoben hat. 1 Wegen dieses abstracten Elementes der Allgemeinheit , in welcher die Logik ihren Inhalt darstellt , ist sie denn eben ein Schattenreich , und in dieser Trennung von der concreten Unmittelbarkeit der Natur und des Geistes ist ihr Inhalt nur für das reine Denken.
+
+Dadurch aber verliert die Logik nichts von ihrer Wahrheit , und ihr Inhalt wird dadurch nicht zu einem endlichen und subjectiven , denn das Denken hat sich als die Ueberwindung der endlichen Subjectivitåt erwiesen , als die abſolute alle Objectivität durchdringende Wesenheit.
+
+Die Logik würde aber sogleich unwahr werden , wenn wir entweder die Form als inhaltslos auffaßten , oder wenn wir meinten, daß diese eine Form , dieß abstracte
+
+Element des Gedankens , nicht abstract wåre , sondern für sich zugleich alle Wirklich keit umfaßte. Der Uebergang aus der Logik in die Natur philosophie ist nun , wie durchgehend , als analytisch und synthetisch zugleich zu faſſen.
+
+Schelling nennt die
+
+ſes Uebergang , dieß „ Abbrechen der Idee d . h . des vollendeten Begriffs von sich selbst " eine Fiction , und meint , daß es´in einem rein rationalen Systeme dafür keine Kategorie geben könne.
+
+Das Empirische , das von vorn abgewieſen ſer) , werde durch die Hinterthür. des Anders- oder sich untreu Wer dens der Idee wieder eingeführt , und die Hegelsche Philosophie habe wenigstens dazu gedient , aufs Neue zu zeigen , daß es unmöglich sey , mit dem rein Rationalen an die Wirklichkeit heranzukommen. Der Gegensatz zwiſchen Nationalem und Wirklichem gehört zunächst der Reflexionsphiloſophie an, und ſo ſind ſogleich bei Kant die Ideen der Vernunft nur Gedanken ohne objective Realität. Dieser Gegensas erweitert sich hier zu dem allgemeinen Gegen
+
+!
+
+V [p. 190] faz von Subject und Object , indem ebenso wie die Ideen der Vernunft , auch die Kategorien des Verstandes , und die Anschauungen von Raum und Zeit, dieser ganze ursprüngliche Be fis des Subjects nicht auf das Ding an sich , als die allein wahrhafte Wirklichkeit bezogen werden können.
+
+Auch bei Weiße hatten wir den Gegensatz zwischen Rationalem und Wirklichem, indem die Kategorien obwohl nicht bloß von sub jectiver Bedeutung , doch als rein rational nur unwirkliche Forz men seyn sollen.
+
+Von diesem rein Rationalen ist denn auch ein immanenter Fortgang in das Wirkliche schlechterdings un möglich , sondern dieß muß ebenso rein empirisch hinzutreten. Allein wie das rein Rationale das Unwirkliche ist , so ist es auch der Gedanke , der das gegebene Empirische bedenkt , und das wahrhaft Wirkliche bleibt einzig und allein Gegenstand der Empirie.
+
+Wenn nun im ´Verhältnisse zu dem Inhalte der
+
+Weißeschen Metaphysik der Inhalt der Logik inſofern nicht das rein Rationale ist , als dieß nicht blos Formen enthält , ſondern Form und Inhalt zugleich , so ist dagegen im Verhältniß zur Philosophie Schellings die Logik allerdings als die Wissenschaft des rein Rationalen zu bezeichnen. Wenn Schelling früher sagte :
+
+1 „ Außer der Vernunft iſt nichts , und in ihr ist Ales , " so ist doch in diesem Rationalen das Empirische eine aufgedrungene Bestimmung.
+
+Als Anschauung ist diese Vernunft allerdings concret und wirklich , und der Uebergang in die Wirklichkeit der Natur und des Geistes kann hier weiter keine Schwierigkeit machen , weil dieſe ſogleich in der Vernunft enthalten seyn sollen. Allein halten wir die Bestimmung der Indifferenz , welche diese Vernunft erkannt war , fest , so ist dieselbe wegen der Unterschiedslosigkeit unlebendig , und darum zugleich an ſich selbst unwirklich, auch nicht wahrhaft vernünftig , und eben darum wird auch ein Uebergang aus dieser Vernunft als der Indifferenz in die Wirklichkeit der Natur und des Geistes un [p. 191] möglich , und kann nur dadurch geschehen , daß wir uns erinnern , welche Differenz wir in die Indifferenz versenkt haben , weil an der Indifferenz selbst dieß nicht mehr zu bemerken ist, und wir also , um aus dem reinen d . h. unwirklichen Ratio= nalen herauszukommen , uns das Wirkliche immer empirisch aufdringen laſſen müſſen , weil wir daſſelbe nur ſcheinbar in die Erkenntniß hinüber genommen haben. Das wäre zunächst zum Verständniß des Uebergangs aus der Logik in die Naturphilosophie vor Allem festzuhalten , daß die Logik nicht das rein Rationale enthält in dem Sinne einer inhaltsleeren Form , sondern sie ist Totalität , absoluter In halt in der abſtracten Form des Gedankens .
+
+Deßwegen hat die Logik die Natur und den Geiſt ihrem Wesen nach schon in ſich ſelbſt, und zwar nicht als empirisch aufgedrungene , ſon= als erkannte Gedankenbestimmung. Es ist dern schon oftmals ausgesprochen , daß das Wesen der Natur , der Begriff dem Geiſte entspricht, und daß jenes in der Natur , dieser im Geiste ſich realiſirt finde.
+
+So wahr dieß ist, so ist dabei doch nicht zu vergessen , daß das Wesen als solches allerdings erst hervortritt , nachdem sich das Seyn als der Be griff an sich, sich vollendet und alle ſeine Beſtimmungen als Qualität, Quantitåt und Maaß sich zur Indifferenz aufgehoben haben, daß demungeachtet aber das Wesen schon mit dem Seyn ſelbſt beginnt.
+
+Das Seyn des Anfangs ist wesentlich Nichts, noch nach seiner Innerlichkeit , und das Wesen das in ſich ge= gangene Seyn , das entwickelte , durch die Negation aller unmittelbaren Bestimmungen des Seyns vermittelte und vollendete Nichts , die in ſich ſelbſt inhaltsvolle Negation.
+
+Eben so aber, wie das Wesen mit dem Seyn beginnt, so beginnt auch schon die Natur mit dem Seyn.
+
+Die sich durch die ganze Logik hindurchziehende und ſich vollendende Negation , die Entzweiung und das Erscheinen , welches der Gedanke als Moment an sich [p. 192] selbst hat, ist eben das Wesen der Natur , und die aus der Negation hervorgehende concrete Einheit , das Fürſichſeyn und die Einzelnheit das Wesen des Geistes .
+
+Wie die Phänomenologie in ihrem Fortgange sowohl den einseitigen Idealismus als Realismus widerlegte , so enthält auch die Logik dieselbe Widerlegung nur in einer andern Weise.
+
+Indem nåmlich die Momente der Methode die Momente des Begriffs sind , so zeigt die Logik durchgehend, wie die Algemeinheit sich besondert, zur Bestimmt= heit und zur Einzelnheit aufhebt , die Besonderheit die Wahr heit der Algemeinheit , und die Einzelnheit die Wahrheit von beiden Momenten ist ; und zwar geht sie zu immer tieferer Be ſonderung , zu immer dichterer Concretion fort.
+
+Die Logik weist so auf jeder Stufe nach , was Realitåt fey.
+
+Die ſich zur Un mittelbarkeit durchgehends aufhebende Vermittelung ist gerade die Realität , welche Hegel verflüchtigt haben soll.
+
+Allerdings aber hat jede Bestimmung nur in der Continuitåt mit der Idee ihre Wahrheit , nicht als fürsichseyende von der Idee los gerissene Unmittelbarkeit.
+
+Die Idee selbst aber als die absolute
+
+Wahrheit ist nicht das Vernichten alles Undern , sondern vielmehr das Bestätigen , die Affecuranz des endlichen Seyns, welches eben durch diese Continuität mit der Idee seine schlechte Endlichkeit verliert.
+
+Die Allgemeinheit allein gehört der Logik für sich an , ist und bleibt im Elemente des Denkens , während durch die Negation und Bestimmtheit und das Fürſichſeyn , die Logik schon in ſich ſelbſt durchgehend über sich hinausweist , und die Einseitigkeit und Unwirklichkeit ihres Elementes als des abstracten Denkens voraussagt.
+
+Weiter aber stellt die Logik den Inhalt als ein Werden dar , als ein ſucceſſives Entwickeln von Moment zu Moment in größern und kleinern Kreisen ; eben darum enthält die Logik noch nicht die Erkenntniß der Natur und des Geistes in ihrer vollendeten Wirklichkeit.
+
+Natur und Geist sind für sich selbst Totalitäten , Bestimmtheiten, [p. 193] die sich nicht nur als Momente und Bestimmungen des Gedan® kens , sondern in sich selbst entwickeln und vollenden .
+
+wohl daher ein Gegenüberstellen der sich entsprechenden Sphären, wie des Wesens und der Natur , des Begriffs und des Geistes , zur vorläufigen Orientirung sehr wohl beiträgt , kann es auch wieder das Mißverständniß erwecken , als wäre Naturphilosophie und Philosophie des Geistes nichts als eine zum Systeme nicht gerade nothwendige Anwendung der Logik.
+
+In:
+
+dem jeder Kreis der Methode die Momente des Begriffs ents hålt , könne wir jenes Paralleliſiren durch die ganze Philoſophie hindurch vornehmen , und immer die Momente der Allgemein heit , Besonderheit, Einzelnheit gegenüberstellen.
+
+Dieß fortge=
+
+ſette Paralleliſiren würde aber sogleich die Einseitigkeit bemerkbar machen , welche aus dem Gegenüberstellen des Wesens und der Natur , des Begriffs und des Geistes hervorgehen könnte.
+
+Begriff an und für sich ist ebenso eine Stufe der Natur als des Geistes ; obwohl er in der Natur noch "/ als blinder , sich selbst nicht fassender d . h . nicht denkender Begriff“ ist , und erst im Geiste seine vollendete Wirklichkeit hat.
+
+Dasselbe aber gilt vom Seyn und vom Wesen . ( Log . III. , S. 18. )
+
+Dieß liegt eben darin , daß , obwohl der Gedanke an sich selbst sich zur Lvtalitåt entwickelt , und darin die gemeinschaftliche Basis von Natur und Geist ist , dennoch dieſe in ihrer freien Wirklichkeit und Bestimmtheit ebenfalls Totalitåten ſind , und sich in dieser sowohl vom Gedanken als von einander unterscheiden. Hegel giebt den Uebergang aus der Logik in die Natur philosophie einfach so an : „ Die Idee ist noch logisch , sie ist in den reinen Gedanken eingeſchloſſen , die Wissenschaft nur des göttlichen Begriffs.
+
+Die ſyſtematiſche Ausführung ist zwar selbst eine Realisation , aber innerhalb derselben Sphåre gehalten. Weil die reine Idee des Erkennens insofern in die Subjectivis tåt eingeschlossen ist , ist sie Trieb , dieſe aufzuheben , und die [p. 194] co reine Wahrheit wird als lehtes Reſultat auch der Anfang einer andern Sphäre und Wissenschaft. ― Indem die Idee sich nåmlich als abſolute Einheit des reinen Begriffs und seiner Realität ſeht , somit in die Unmittelbarkeit des Seyns zusam mennimmt, so ist sie als die Totalitåt in dieſer Form Natur.
+
+Diese Bestimmung ist aber nicht ein Geworden feyn und Uebergang , wie nach oben , der ſubjective Begriff in ſeiner Totalität zur Objectivitåt , auch der ſubjective Zweck zum Leben wird.
+
+Die reine Idee, in welcher die Bestimmtheit oder
+
+Realität des Begriffes selbst zum Begriffe erhoben ist , ist viel mehr absolute Befreiung , für welche keine unmittelbare Be stimmung mehr ist , die nicht ebensosehr gefeßt und der Be griff ist ; in dieser Freiheit findet daher kein Uebergang statt, das einfache Seyn , zu dem sich die Idee bestimmt , bleibt ihr voll kommen durchsichtig , und ist der in seiner Bestimmung bei sich selbst bleibende Begriff.
+
+Das Uebergehen ist also hier vielmehr so zu faſſen , daß die Idee sich selbst frei entläßt , ihrer ab solut sicher und in ſich ruhend .
+
+Um dieser Freiheit Willen ist die Form ihrer1 Bestimmtheit ebenso schlechthin frei , die absolut für sich selbst ohne Subjectivitåt seyende Aeußer lichkeit des Raums und der Zeit. — Insofern diese nur nach der abſtracten Unmittelbarkeit des Seyns ist und vom Bewußtseyn gefaßt wird , iſt ſie als bloße Objectivität und åußer liches Leben ; aber in der Idee bleibt sie an und für sich die Totalität des Begriffs , und die Wissenschaft im Verhältnisse des göttlichen Erkennens zur Natur.“ (Log . III . , S. 352 )
+
+Hiermit wåren die Stellen Log . III. , S. 26 und 20 zu vergleichen , wo es heißt: ,, Diese concreten Wissenschaften ( der Natur und des Geistes) treten allerdings zu einer reellern Form der Idee heraus, als die Logik, aber zugleich nicht so , daß sie zu jener Realität sich wieder umwendeten , welche das über seine Erscheinung zur Wissenschaft erhobene Bewußtseyn aufgegeben "; und ferner : ,,Wenn [p. 195] nun der gegebene Stoff der Anschauung als das Reelle gegen das Gedachte und den Begriff genommen wird , so ist dieß eine Ansicht, welche abgelegt zu haben nicht nur Bedingung des Philosophirens ist , sondern schon von der Religion vorausgesetzt wird ; wie ist ein Bedürfniß und der Sinn derselben möglich , wenn die flüchtige und oberflächliche Erscheinung des Sinnlichen und Einzelnen noch für das Wahre gehalten wird ?
+
+Die Philosophie aber giebt die begriffene Einsicht , was es mit der Realität für eine Bewandtniß habe und schickt jene Stufen des Gefühls und der Anschauung , des sinnlichen Bewußtseyns u . f. f. insofern dem Verstande voraus , als sie in deſſen Werden seine Bedingungen , aber nur so sind , daß der Begriff aus ihrer Dialektik und Nichtigkeit als ihr Grund hervorgeht, nicht aber , daß er durch ihre Realitåt bedingt wåre. “ Hegel macht also zunächst den Uebergang in die Naturphilosophie nicht so , daß er fürerst sich in den reinen Gedanken vertieft, um das absolute prius in Besitz zu nehmen , und daß er dann erst sich nach Realitåt umſieht , die ihm dann sogleich die handgreifliche Natur augenscheinlich darbieten würde. Dieser Standpunkt , welcher die Wahrheit und Wirklichkeit mit Hånden greifen will , und für welchen sogleich das Sichtbare und Fühlbare , in seiner ſtarren Unhöflichkeit und Aufdringlich keit für ein absolut Wirkliches gilt , fållt vor die Wissenschaft in das erscheinende Wissen.
+
+Mit jenem Uebergange würden wir also von dem Standpunkte des Geistes und des abſoluten1 Wissens in den Standpunkt des Bewußtseyns , und zwar zus nächst der sinnlichen Gewißheit zurückgeworfen , und müßten von Neuem den Gang der Erfahrung von Stufe zu Stufe durch. machen.
+
+Vorzugsweise ist es die Wahrnehmung , welcher das Ding mit ſeinen Eigenschaften als undurchdringlicher Gegenstand für die Wahrheit und Wirklichkeit gilt , und welche $ den Widerspruch, wodurch das Ding` zu Grunde geht , von 13 * [p. 196] demselben abhalten und auf sich nehmen will.
+
+Die Wahrnehmung muß aber eben die Erfahrung machen , daß sie den Widerspruch von den Dingen schlechterdings nicht abzuhalten ver mag , und wird damit über sich selbst zum Verstande , welcher die Dinge als Erscheinung nimmt , hinausgetrieben.
+
+Hierbei aber bleibt das Bewußtseyn nicht stehen , sondern als Vernunft weiß es sich in Einheit mit der Welt , und findet in der Des obachtung der Natur nicht eher Ruhe , als bis es sich selbst auch in dem todten Daseyn des Knochens gegenwärtig weiß.
+
+Was
+
+‚ hier das Bewußtſeyn am Gegenstande erfahren hat, hat ſich im reinen Wiſſen in der immanenten logischen Entwickelung ohne diesen Gegensatz des Bewußtseyns reproducirt.
+
+Nicht nur das
+
+ſubjective Denken des Bewußtseyns , sondern der Gedanke an und für sich hat am Dinge keinen unüberwindlichen Gegensatz, sondern das Ding ist selbst Gedankenbestimmung , hat im Den ken seinen Grund , aus dem es hervorgeht.
+
+Es ist damit eben sowenig wie es bloß Gegenstand gegen das Bewußtseyn iſt , an sich ein bloß Aeußerliches , Starres , oder , was dasselbe wåre ; ein blos Innerliches , Ding an sich , sondern beides zugleich , Reflexion in sich und in Anderes , innerliche und gedankenvolle Aeußerlichkeit oder Erscheinung des Wesens. Der Uebergang aus der Logik in die Naturphilosophie ist ferner nicht so zu nehmen , als sollte damit die Schö ፡ pfung der Welt erklärt und begriffen seyn , so daß der wiſſenſchaftliche Fortgang so zu sagen eine rein historische Begebenheit darstellte.
+
+Abgesehen von der Inconsequenz gegen die Methode , welche hieraus hervorgehen würde, nach welcher das Lehte als für uns Reſultat vielmehr als das absolut Erste zu betrachten ist, so könnte man auch beliebig vergessen, daß schon die Idee als undurchdringliche Persönlichkeit erkannt ist , und diese als „ unpersönliche Bernunft" nehmend den Fortgang durch die Natur zum
+
+[p. 197] Geiste etwa als Lebenslauf Gottes vorstellen , in welchem dieser sich durch mancherlei qualvolle Abenteuer das Bewußtseyn ſeiner selbst im Menschen erkämpfte. Die logische Entwickelung ist in der absoluten Idee zum Anfange des Seyns zurückgekehrt , indem die Methode der sich begreifende Begriff ist , der sich nur auf sich selbst bezieht , und diese einfache Beziehung auf sich selbst ist Seyn , Unmittelbarkeit. Allein diese Unmittelbarkeit ist durch Vermittelung oder Auf hebung der Vermittelung geworden ; was das Seyn nur an ſich war , oder für uns , ist nun gesetzt, und es ist daher nicht mehr nur Algemeinheit als die Möglichkeit alles Inhalts , son: dern concrete inhaltsvolle Totalität für sich selbst, nicht Begriff an sich oder für sich, sondern der Begriff an und für sich. Wie durchgehend , so ist auch hier die erste Rückkehr in den Anfang zugleich der Anfang einer andern Sphäre.
+
+Durch die ganze Logik hindurch kam es darum zu keiner absoluten Un mittelbarkeit, weil der ganze Inhalt , die Idee im successiven Werden begriffen war ; dieses Werden iſt jetzt in der Vollendung alles Inhalts aufgehoben , und die Idee ist somit unmittelbar da , und die unmittelbar daseyende Idee die Natur. Dieser Uebergang ist nur dadurch von allen in der Logik 1vorgé kommenen verschieden , weil es die Idee als vollendete Lo "" talität ist , von welcher der Uebergang geschieht.
+
+So ist der
+
+Begriff dadurch noch fubjectiv, weil er sich die ihm entsprechende Objectivität noch nicht gegeben hat ; er reproducirt zunächſt im Urtheile und Schlusse die ihm vorangegangenen Sphåren des. Seyns und Wesens , und die Objectivität , • zu welcher er sich bestimmt , ist noch nicht die in der Idee scheinende Realitåt. Ebenso ist der Uebergang aus der Objectivitåt ins Leben noch Entwickelung , die Ucberwindung der Objectivität durch den Be griff, das Werden der absoluten Idee.
+
+Diese aber hat als vollendete Realität für sich selbst, kein Underes außer sich, in [p. 198] welches sie übergehen könnte , und es ist daher die Vorstellung des Uebergangs überhaupt abzuhalten.
+
+Die Idee ist als objec= tiver und ſubjectiver Begriff absolut frei , und wozu ſie ſich als absolute Form verhält , ist ihr eigner unendlicher Inhalt.
+
+Über als logische Idee ist sie im abstracten Elemente des Gedankens ; alles Seyn ist ihr als dem absoluten Denken immanent , aber sie selbst als Seyn ist das Aufgehobenſeyn dieser Abstraction , die Unmittelbarkeit des Seyns , dem sie selbst als Denken ims manent ist.
+
+Dieser Uebergang ist für uns dialectisch nothwendig , im Verhältniß zur Idee aber ist es gar kein Ges1 wordenſeyn , sondern vielmehr die Aufhebung alles Werdens , die Befreiung.
+
+Die Idee ist nicht zum Seyn geworden , sondern sie ist unmittelbar Seyn , Selbstseyn , freies Seyn, aber als unmittelbar noch nicht Geiſt , ſondern das Undersſeyn ihrer selbst , die Natur.
+
+Wenn Hegel bemerkt , daß dieſer Uebergang vielmehr so zu fassen sey , daß die Idee sich selbst frei ents lasse , ihrer absolut ſicher und in ſich ruhend , so 1 ist doch die Schöpfung ein weit concreterer Begriff und gehört wesentlich dem absoluten Geiste an.
+
+Ein frei sich Entlaſſen ist die fer Uebergang eben darum, weil für die Idee keine unmittelbare Bestimmung mehr ist , die nicht ebenso sehr gesezt oder der Be griff ist.
+
+Die Idee ist nicht durch ein Anderes , sondern unmits telbar durch sich selbst, das Andersseyn ihrer.
+
+Ihr unmittel bares Seyn als Natur ist ihre eigene Bestimmung , und sie ist in diesem Andern schlechthin bei ſich ſelbſt. ---stimmung der Unmittelbarkeit ist hier besonders
+
+Die Be festzuhalten.
+
+Diese Unmittelbarkeit ist , wie immer, Resultat der Vermittelung, welche hier in die logische Entwickelung fällt.
+
+Dadurch unter
+
+ſcheidet sich dieses Seyn von dem Seyn , mit welchem die Logik anfing.
+
+Die Idee ist aber noch nicht Reſultat ihrer selbst, und eben darum noch nicht Geist als das die Unmittelbarkeit ewig setzende und ewig aus ihr zurückkehrende Weſen ; ſie ist [p. 199] als unmittelbar da noch nicht wie sie ihrem Wesen nach ist , nåmlich in der concreten Wirklichkeit für sich , ſondern vielmehr außer sich selbst , äußerlich da.
+
+Wie die Idee sich ge:
+
+zeigt hat als ihre Negation in sich selbst enthaltend , so ist sie unmittelbar nicht die aufgehobene Negation , sondern in Einheit mit ihrer Negation , oder die daſeyende Negation ihrer selbst. Wie fortwährend , so kann auch hier mit vollem Recht gesagt werden : Die Natur ist die Wahrheit der logischen Idee.
+
+Nur darf nicht vergessen werden, daß die
+
+Methode in jedem Momente analytisch und ſynthetiſch zugleich ist ;
+
+also diese Negation äußerliche Negation ist, und nicht irgend wo anders herkommt als aus dem ersten Momente der Allgemeinheit.
+
+Nur dadurch ist die Natur die
+
+Wahrheit der logischen Idee , weil diese die Natur als Negation schon in sich selbst hat , und anderseits weil die Idee nicht äußerlich gegen Natur , ſondern vielmehr derselben imma nent ist ; die Negation bewahrt die Idee auf, oder die Idee ist selbst ihre eigene Negation und als solche außer sich selbst un mittelbar existirend die Natur.
+
+Nur dadurch , daß die Idee die
+
+Natur als ihre eigene Negation in sich selbst hat , ist sie kein abstracter blos formeller Gedanke , ſondern an und für ſich con cret und alle Wahrheit, und nur dadurch daß die Natur , als die existirende Negation der Idee dieſe in sich selbst hat , ist sie kein starres todtes Daseyn , sondern vernünftig und lebendig. Ferner darf auch nicht vergessen werden , daß , wie durchgehend die erste Negation zugleich die Negation ihrer selbst ist, wodurch die Natur sogleich über sich hinausweiſt. Weiter liegt schon darin , daß die Natur als die Idee in ihrem Andersseyn bestimmt wird , daß die Natur als solche in ihrer Bestimmtheit etwas Anderes ist , als die logische Idee der Fortgang ist zugleich synthetisch. Hier bringt man wohl die hier ganz ungehörige Bestimmung der Quantität hinzu
+
+[p. 200] G und verlangt , daß die Natur mehr sey , als die logische Idee. Bestimmter wird dieß in der Frage ausgesprochen , ob die Idee an der Natur und weiter am Geiste eine neue Inhaltsbestimmung bekomme, und dieß fordert man , sollte der Geist wirklich etwas Anderes seyn als die reine Kategorie. Die Natur wird nur begriffen , wenn sie einerseits im Verhältniß zur logischen Idee , anderseits im Verhältniſſe zum Geiſte erkannt wird.
+
+Die Idee ist absolute Totalität , und außer ihr ist nichts ; an einen äußern Zuschuß von Realität , der nicht schon in der Idee selbst enthalten wäre , kann schlechterdings nicht gedacht werden.
+
+Es kommt durch die Natur nichts außer lich zur Idee hinzu , sondern die Idee kommt zur Aeußerung ; der ganze Inhalt der Idee , wie er in der Logik nur im ab stracten Elemente des Denkens ist , kommt zur Form des un mittelbaren Bestehens .
+
+Aber auch diese Form des Außersichseyns kommt nicht äußerlich zur Idee hinzu , sondern die Idee ist wesentlich selbst diese Form , weil sie Idee ist ; und man kann immerhin sagen , die logische Idee wåre Nichts , oder wåre bloße Form, wenn sie nicht zugleich als Natur wåre, allein eben weil sie nicht bloße Form , sondern Idee ist , ist sie auch als Natur. Die Form der Aeußerlichkeit ist es nun , welche die Natur für sich hat , oder die Negation und Beſonderung , welche in der logischen Entwickelung nur Moment war , ist in der Natur Element, und in diesem Elemente breitet sich der logische In halt aus.
+
+Die Hauptaufgabe der Naturphilosophie besteht das her eben darin , die natürlichen und bestehenden Bestimmtheiten als logische Gedankenbestimmungen und Momente der Totalität zu erkennen , und anderseits die ſtufenweiſe Aufhebung der Aeußerlichkeit der Natur zum Geiste als zu ihrer Wahrheit´zu vers folgen.
+
+Wenn man meint , daß die Naturphiloſophie nichts weiter als eine Anwendung der Logik sey , so hat dieß zum
+
+[p. 201] Theil seine volle Nichtigkeit , indem wirklich die logischen Be stimmungen in der Natur als angewandt existiren , und in der Natur nichts Underes erkannt wird als die Idee.
+
+Anderseits ist die Naturphilosophie auch wieder etwas ganz Underes , als was man gewöhnlich unter Anwendung versteht , indem man dabei sogleich an ein äußerliches Unlegen der Begriffsbestim mungen an einen empirisch vorgefundenen Stoff denkt.
+
+Mit eben dem Rechte , mit welchem man die Naturphilosophie eine angewandte Logik nennen kann , kann man auch sagen , daß schon innerhalb der Logik das Wesen ein angewandtes Seyn sey. Die gewöhnliche Vorstellung von Anwendung beruht auf einem festen Gegensatz von Inhalt und Form , in welchem der Inhalt als für sich fertig bestehend und die Form als von außen zu dem Inhalte hinzukommend gedacht wird.
+
+In der Natur aber ist es die Idee selbst als absoluter Inhalt , welche sich die Form der Aeußerlichkeit giebt , weil diese Form derselben ebenso wesentlich. ist , als der Inhalt selbst.
+
+Wie die logische Idee nicht aus der
+
+Sphäre des reinen Gedankens heraustritt , ſo tritt die Idee als Natur auch nicht aus dem Elemente des Außersichſeyns heraus. Denn das grade ist das Wesen der Natur), daß die Momente des Begriffs , als für sich und getrennt von einander , außer einander existiren , daß also keine Gestalt der Natur für sich in ihrer Bestimmtheit zugleich und in Einem die Allgemeinheit in sich ents hålt , oder der als Begriff existirende Begriff, Subjectivität ist. Dieß allgemeine Wesen der Natur stellt sich für die Vorstellung sogleich so dar , daß die Natur nicht von sich selbst weiß , nicht Selbstbewußtseyn ist , denn das Selbstbewußtseyn ist vielmehr die Aufhebung des Außersichseyns , das An- und Fürſichſeyn als wirklich existirende Einheit der Einzelnheit und Allgemeinheit. Indem es aber die Idee ist , welche in der Natur sich ein uns mittelbares Daseyn giebt , so thut man eine ganz ungehörige Forderung, welche auch auf eine äußerliche Anwendung der
+
+[p. 202] Logik hinauslaufen würde , wenn man verlangt , daß die Natur philosophie von Beſtimmung zu Beſtimmung der Logik parallel gehen soll , so daß etwa im ersten Abschnitt der Naturphiloſophie also der Mechanik , die logiſchen Bestimmungen des Seyns , in • der Physik die des Wesens u. s. w. in ihrem concreten natúrs lichen Daseyn nachgewiesen werden sollten , wo man sich dann sogleich daran stoßen würde , daß schon in der Mechanik und Physik die logischen Bestimmungen der Objectivität sich als verwirklicht vorfinden.
+
+Die Erkenntniß der Natur seht die volls endete Totalität der Idee voraus , und dieſe iſt in der Natur nicht als werdend , sondern als aufgehobenes Werden und unmittelbar seyend ; dieß Werden geht so zu sagen hinter dem Rücken der Natur vor, und die Natur ist in jeder Sphäre von der vollendeten Idee überwältigt und durchdrungen.
+
+Wenngleich
+
+ſich daher auch die Naturphilosophie nach den Momenten des Begriffs , der Allgemeinheit , Besonderheit und Einzelnheit ſon dert und eintheilt, und diese Eintheilung der Gliederung der Logik in Seyn , Wesen und Begriff entspricht und korrespondirt, so kann doch auch diese Parallele immer weiter fortgesetzt wer den ; die Hauptsache aber ist , daß die Natur in jedem Kreise schon das Daseyn der Idee ist , so daß sich nothwendig schon in der niedrigern Sphåre Bestimmungen vorfinden , welche in der Logik sich erst in der höchsten successiv ergeben und entwickeln. Wodurch alle äußere Anwendung von Grund aus aufgehoben wird , ist die Methode , welche sich in der Logik als die absolute Form erwiesen hat , welcher schlechterdings kein Inhalt als Gegenstand gegenüber treten kann , wodurch sie zur åußer lichen Form werden würde.
+
+Wie der Gedanke , als das allge= meine Wesen , der Natur immanent ist , so ist der Methode als der ſich begreifende Begriff die Seele und das Leben der Natur.
+
+Die dialektische Entwickelung beginnt daher wieder mit
+
+Der Unmittelbarkeit und abstracten Allgemeinheit , mit dem Be [p. 203] w griffe des Außersichſeyns und deſſen negativer Einheit , mit Raum und Zeit.
+
+Indem Weiße Raum und Zeit in die Metaphysik aufnimmt, meint er , daß in der Philosophie Hegels , wenn gleich den Bekennern jenes Systems unbewußt , jene Kant'sche Ansicht nachklinge, welche Raum und Beit als Formen der
+
+Anschauung von den Kategorien als den Formen des Denkens abtrenne.
+
+Die Kategorien habe Hegel über die subjective und idealistische Geltung , die sie bei Kant gehabt , zur objectiven und absoluten Geltung erhoben ; in Bezug auf den Raum- und Beitbegriff habe er zwar in gewiſſer Hinsicht Entsprechendes gethan , aber auch nur Entsprechendes , nämlich ein Solches, wodurch die Differenz nicht aufgehoben werde, in welcher bei Kant diese Kategorien zu den übrigen Kategorien gestellt seyen. Zugleich fragt Weiße , ob nicht Raum und Zeit , eben indem man sie ,, Formen " nenne , hiermit ohne Weiteres als metaphy= sische Kategorien bezeichnet würden.
+
+Dagegen wäre zunächst zu bemerken, daß jene Unterschiede, welche Kant macht, durchaus wesentlich sind.
+
+Wollten wir den Ausdruck ,, Formen der Un schauung " beibehalten, so könnten wir sagen , daß, die ganze Naturphilosophie es nicht mit Kategorien , sondern mit Formen der Anschauung zu thun habe.
+
+Der Raum wåre Kategorie und gehörte als solcher in die Logik , wenn er als Form zugleich Inhalt an sich selbst wåre ; mit bloßen Formen hat es bekannta lich die Logik überhaupt nicht zu thun. > Oder der Raum als Leer , ohne dadurch bloße Form zu seyn , würde zur logiſchen Kategorie werden ; der Raum ist allerdings als Moment in der Logik enthalten , so ist er schon ein Beispiel der Quantität, aber in der Bestimmtheit als Raum ist er nicht reine Quantität, ſondern dieselbe als unmittelbar bestehend.
+
+Indem Weiße den
+
+Raum in die Metaphysik aufnimmt , macht nicht im Hegelschen Sinne zur Kategorie ; denn dieKategorie ist nicht bloße Form, bloßer Gedanke , sondern Einheit des
+
+[p. 204] Seyns und Denkens in dem Elemente des Denkens.
+
+aber bei Weiße die Kategorien nothwendige Formen sind, wogegen der Inhalt , zu welchem sich die Formen aufheben, auch nichtſeyn kann , so wird weiter behauptet , daß , der Raum auch unabhängig von den concreten Dingen , deren allgemeine, formale Vorausseßung und gleichsam , deren Gefäß er sey , als Totalität in sich selbst , ein wenn auch nur ideales , rein begreifli ches Bestehen habe."
+
+Seine Identitåt iſt aber zugleich Weſen losigkeit , nach der er nur Form für einen Inhalt ist.
+
+er auf ein Anderes als seine Erfüllung hinweist , ist er bloße Abstraction, und es kann nicht gesagt werden , daß er ohne Erfüllung das Leere iſt , ſondern vielmehr , daß er ohne Erfüllung überhaupt nicht ist. Wenn Kant Formen der Anschauung und des Denkens unterscheidet, so hat dieß, abgesehen von der ſubjectiv idealiſtiſchen Bedeutung beider , den Mangel , daß dieser Unterſchied nicht zur concreten Einheit vermittelt wird , sondern Anschauung
+
+Denken nur äußerlich zusammengebracht werden ; wie es denn eine Hauptbestimmung der Kantiſchen Philosophie ist, daß Anschauungen ohne Begriffe blind , und Begriffe ohne sinnliche Anschauung leer sind. Höhere äußerlich.
+
+gegen
+
+Der Begriff ist so nicht das wirklich die Anschauung , sondern beide bedingen sich
+
+Ganz ähnlich sind auch bei Weiße die Begriffe der
+
+Metaphysik leere Formen , und das Mannigfaltige und Wirkliche muß erst in der Anschauung hinzutreten.
+
+Wenn wir als das
+
+Wesen der Kategorien nur dieß ansehen , daß sie an ſich noth wendige, aber leere und wesenlose Formen sind , so mögen wir immerhin den leeren Raum auch dazu rechnen. soll sich hieraus
+
+Weiter aber große Resultat " ergeben , daß , das
+
+Wesen , die Substanz nothwendig im Raume sey ; damit werde erst die Sphäre der Negativitåt völlig durchbrochen , in welche sich die neuere Philoſophie bisher noch gestellt habe , indem sie [p. 205] das außerhalb und jenseit des Raumes und der Zeit Seyende als das wahrhaft Seyende auffaſſe , d. h. die reine Kategorie." Was dieß Resultat betrifft , so muß zunächst behauptet werden, daß die Hegelsche Philosophie es ebenfalls besite , indem sie die Idee sich zur Natur aufheben läßt ; und Hegel sogleich zu den Worten : ,, nur das Natürliche ist der Zeit unterthan , insofern es endlich ist , das Wahre dagegen , die Idee , der Geist ist ewig “ die Warnung hinzusetzt : „ der Begriff der Ewigkeit muß aber nicht negativ so gefaßt werden , als die Abstraction von
+
+1 der Zeit, daß sie außerhalb derselben gleichsam exiſtire." Schon in der Logik selbst ist die Existenz , das Ding , die Welt der Erscheinung enthalten, aber im abstracten Elemente des Gedan kens , welches Element zugleich eine solche Abstraction von der Zeit ist. - Bei Weiße aber erhält jenes Resultat eine Wendung, wodurch sich der Formalismus der Metaphysik von selbst heraus stellt.
+
+Wenn gleich nämlich der Raum und die Schwere als der Begriff der Raumerfüllung nothwendig ist, so läßt doch die Metaphysik die Nichterfüllung der Kategorien als möglich gelten, so daß also eigentlich nicht die Raumerfüllung , sondern der bloße Begriff derselben , d. h. der leere Raum als für die Substanz nothwendige Form erſcheint. —
+
+Von leeren Begriffen weiß nun allerdings Hegel nichts , ſondern wie ſich das Mannigfaltige des Gefühls und der Anschauung zum Begriffe aufhebt , so ist der Begriff in sich selbst schon ein Mannigfaltiges , und darum das wahrhafte prius , aus welchem jenes Mannigfaltige verklårt abgeleitet wird ; nämlich nicht durch sinnliche und blinde Anschauung , welche von außen herzutritt , auch nicht durch geistige Anschauung , unmittelbares Denken auch ebenso blind seyn kann , und wenn es die Sache trifft , sie immer nicht erkannt und begriffen hat, sondern durch die Methode, welche, ohne irgend ein Moment hinzuzunehmen , den Begriff ununterbrochen fortleitet.
+
+Dennoch sind die Begriffsbestimmungen der
+
+[p. 206] Naturphilosophie auch für die Anschauung unmittelbar da , und es ist wesentliches Geschäft der Naturphilosophie, außer der Begriffsbestimmung auch die empirische Erscheinung nachzuweisen, welche derselben entspricht ; damit aber ist voran die Anschauung vermittelt und zum Begriffe erhoben. Anstoß hat es besonders erregt , daß Hegel von einer Ohn = macht der Natur spricht , den Begriff festzuhalten , und daß er weiter billigend anführt : so ist die Natur auch als Abfall der Idee von sich selbst bezeichnet worden (nåmlich von Schelling) . Hier hat man sich wohl vorzugsweise an den Abfall gehalten und die Idee vergessen , auch wohl von einer Verunreinigung des Begriffs durch die Natur gesprochen ; ja oft hat es den Unschein , als meine Hegel mit dieſem Bilde das Mysterium der Schöpfung des griffen zu haben.
+
+Nach Anderen soll gerade das , was Hegel
+
+Ohnmacht der Natur nennt, ihre wahrhafte Wirklichkeit und ihre Erhebung über die logiſche Nichtigkeit und Nothwendigkeit seyn. Hegels Worte sind dieſe : Der Widerspruch der Idee, indem fie als Natur sich selbst äußerlich ist, ist näher der Widerspruch der einerseits durch den Begriff gezeugten Nothwendigkeit ihrer Gebilde und deren in der organischen Totalität vernünftigen und anderseits deren gleichgültigen Zufälligkeit Bestimmung und unbestimmbaren Regellosigkeit.
+
+Die Zufälligkeit und Be
+
+ſtimmbarkeit von Außen hat in der Sphäre der Natur ihr Recht. Um größten ist die Zufälligkeit im Reiche der concreten Gebilde, die aber als Naturdinge zugleich nur unmittelbar concret sind. Das unmittelbar Concrete nämlich ist eine Menge von
+
+Eigenschaften , die außereinander und mehr oder weniger gleich gültig gegen einander sind , gegen die eben darum die einfache für sich seyende Subjectivitåt ebenfalls gleichgültig ist , und sie äußerlicher somit zufälliger Bestimmung überläßt.
+
+Es ist die
+
+Ohnmacht der Natur , die Begriffsbestimmungen nur abſtract zu erhalten , und die Ausführung des Besondern äußerer Be [p. 207] stimmbarkeit auszusehen. ·-
+
+Man hat den unendlichen Reichthum und die Mannigfaltigkeit der Formen und vollends ganz unvers nünftiger Weise die Zufälligkeit , die in die äußerliche Anordnung der Naturgebilde sich einmischt , als die hohe Freiheit der Natur, auch als die Göttlichkeit derselben oder wenigstens die Gött lichkeit in derselben gerühmt.
+
+Es ist der finnlichen Vorstellungs weise zuzurechnen , Zufälligkeit , Willkür , Ordnungslosigkeit für Freiheit und Vernünftigkeit zu halten. - Jene Ohnmacht der Natur seht der Philoſophie Grenzen , und das Ungehörigste ist, von dem Begriffe zu verlangen , er solle dergleichen Zufälligkeiten begreifen, - und wie es genannt worden, construiren, deduciren ; ja sogar scheint man die Aufgabe um so leichter zu machen , je geringfügiger und vereinzelter das Gebilde sey.
+
+Spuren der
+
+Begriffsbildung werden sich allerdings bis in das Partikulårſte hinein verfolgen , aber dieses sich nicht durch sie erschöpfen lassen. Die Spuren dieser Fortleitung und innern Zusammenhangs werden dem Betrachter oft überraschen , aber demjenigen insbesondere überraschend oder vielmehr unglaublich scheinen , der in der Natur- , wie in der Menschengeschichte nur Zufälliges zu sehen gewohnt ist.
+
+Aber man hat darüber mißtrauisch zu seyn, daß solche Spur nicht für Totalität der Bestimmung der Gebilde genommen werde , was den Uebergang zu den erwähnten Analo gien macht. In der Ohnmacht der Natur den Begriff in ſeiner Ausführung festzuhalten , liegt die Schwierigkeit und in vielen Kreisen die Unmöglichkeit, aus der empirischen Betrachtung feste Unterschiede für Classen und Ordnungen zu finden.
+
+Natur vermischt allenthalben die wesentlichen Grenzen durch mittlere und schlechte Gebilde , welche immer Instanz gegen jede feste Unterscheidung abgeben, ſelbſt innerhalb beſtimmter Gattungen (z. B. des Menschen) durch Mißgeburten , die man einerseits dieser Gattung zuzählen muß, denen andererseits aber Bestim= mungen fehlen , wesentliche Eigenthümlichkeit der
+
+Gattung anzusehen wären . -
+
+----
+
+Um dergleichen Gebilde als mangel haft , ſchlecht , mißförmig betrachten zu können , dafür wird ein fester Typus vorausgesetzt, der aber nicht aus der Erfahrung 'gës schöpft werden könnte , denn dieſe eben giebt auch jene sogenannten Mißgeburten , Mißförmigkeiten , Mitteldinge u . s. f. an die Hand : er setzte vielmehr die Selbstständigkeit und Würde der Begriffs= bestimmung voraus . Es kommt hier vor Allem auf den Begriff der Zufälligkeit an.
+
+Diese hat zunächst eine bloß subjective Bedeutung , und hier lehrt schon die tägliche Erfahrung , daß wir voran Vieles für zufällig halten , was sich hinterher bei weiterer Untersuchung für vernünftig und nothwendig erweist.
+
+Diese Zufälligkeit ist daher nicht Ohnmacht der Natur , sondern Ohnmacht des sub jectiven Denkens , das mit der Zeit sich entwickelt und nicht auslernt.
+
+Es ist ganz unbegreiflich, wie man auf die seltsame
+
+Meinung kommen konnte , als glaube die Hegelsche Philosophie, wie man sich wohl ausdrückt , Alles zu wissen.
+
+So wenig die ,
+
+Hegelsche Philosophie sich für die lehte Philosophie ausgiebt, eben so wenig ist sie innerhalb ihrer selbst vollendet.
+
+Wie die
+
+Naturphilosophie die empirische Physik zur Vorausseßung hat, so kann sie sich auch nur mit dieser weiter entwickeln und aus, bilden.
+
+Die Philosophie hat gerade in der Methode die Möglichkeit , ohne äußere Hinzunahme und Umgestaltung , sich in sich selbst zu concentriren und zu verdichten , und damit den Begriff in immer engere Kreise zu erweitern , ohne daß dieser je einen andern Inhalt bekommen sollte , sich selbst. Weiter aber hat die Philosophie sogleich am einzelnen
+
+Daseyn eine Schranke.
+
+Wollten wir dieß Einzelne als solches für das wahrhaft Wirkliche im Gegensahe zu dem Begriffe an sehen, so müßten wir die Philosophie im Verhältniß zur finn lichen Erfahrung als die Wiſſenſchaft des Unwirklichen bezeichnen, [p. 209] indem sie es allerdings nicht bis zu den vielen einzelnen Thieren Bäumen , Sträuchern , Federn u. s. w. bringt.
+
+Und wollte sie sich auch, wenn auch nur beiläufig , mit dem Einzelnen einlaſſeu, so würde dieser gute Wille an der ,, göttlichen Natur der Sprache" scheitern , welche das Einzelne schlechterdings nicht aussprechen läßt.
+
+Dieß möchte aber nicht gerade sehr zu beklagen seyn, indem doch auch das Bewußtseyn , welchem das Dieſes , das Unaussprechbare, das nur aufgezeigt werden kann , für das
+
+Wirkliche gilt, gewiß die Erfahrung machen wird , daß dieß Einzelne , noch während von seiner Realität gesprochen wird, vergeht, und wollte man dasselbe dennoch als das allein Wirkliche festhalten , man nicht das Einzelne als dieses , sondern als aufgehobenes , d. h. allgemeines meinen könnte.
+
+Das nur
+
+Allgemeine hat freilich vor dem bloß Einzelnen nichts voraus, sondern ist nur ein Gemeintes , schlechthin Unwirkliches ;
+
+will man nicht das bloß Gemeinte und zu Grunde Gehende für die wahrhafte Realitåt nehmen , so muß man sich nothwendig dazu verstehen , eben die Einheit des Allgemeinen und Einzelnen øder den Begriff als das Wirkliche anzusehen , und es ist nur Gedankenlosigkeit , wenn man den Begriff doch wieder , als das nur Allgemeine der Wirklichkeit des Einzelnen gegenüber fixirt. Der Begriff hat die Einzelnheit als Moment an sich selbst, und die Natur hat am Einzelnen nicht mehr als der Begriff, sondern besitzt vielmehr daran wirklich den Begriff im Außer einander und Nacheinander der Momente ; sie ist selbst das erste wirkliche Daseyn des Begriffs.
+
+Das Einzelne aber ist als
+
+Einzelnheit kein zufälliges und hinfälliges , ſondern nothwendiges und begriffliches ; allein durch das unmittelbare Auseinandertreten der Einzelnheit und Allgemeinheit wird jene zu dem einzelnen Diesen, welches natürliches Ding nicht Subject,
+
+Person ist, sondern zeitliche und vergångliche Erscheinung des Wesens , welches aber nur dadurch Wesen ist , daß es erscheint, [p. 210] und erst die Einheit des Wesens und der Erscheinung ist die Wirklichkeit. Un das Daſeyn des Einzelnen knüpft sich aber sogleich ein Weiteres an.
+
+In dieſem Daſeyn nåmlich entfaltet die Natur eine unendliche Mannigfaltigkeit ; alle einzelnen Gestalten , die der Gattung nach zuſammen gehören , sind von einander doch immer verschieden und kein. Einzelnes sieht dem andern gleich. Diese Mannigfaltigkeit hat das Einzelne am Andern , oder als Ding.
+
+Hier muß es nun zunächſt Jedem überlaſſen bleiben, diese Mannigfaltigkeit der Natur zu bewundern ; zugleich aber müſſen wir zugestehen , daß in dieſer Aeußerlichkeit der Erscheinung das Eine durch das Undere beſtimmt ; auch verkrüppelt wird ; und daß es am Andern , oder vielmehr an seiner eigenen Mannigfaltigkeit zu Gründe geht.
+
+Wollten wir aber nicht in der durch den Begriff gezeugten Nothwendigkeit, ſondern viel mehr in jener Regellosigkeit die Freiheit der Natur anſchauen, so müßten wir vor Allem es bei dem Bewundern laſſen und das Denken abhalten , welches jeden einzelnen Fall vermittelt, begründet und erklärt haben will.
+
+Denn auch diese Zufälligkeit ist nur für uns zufällig , an sich zeigt sie sich vielmehr als die åußere Nothwendigkeit. Wenn das Einzelne als solches schon auf der Stufe des Begriffs steht, und das Allgemeine und damit die Produktivität und innere Mannigfaltigkeit an sich selbst hat, ng.e fe als cheinuzugleich der Ers aufistder esStu doch Einzelnes ein materielles Ding und in dieser äußersten Oberfläche, zu welcher sich der Begriff ſelbſt heraustreibt , verliert er sich in die niedrigste Daseynsweise , ſo daß theilweise dieſe ſeine Wirklichkeit als nicht durch den Begriff, sondern durch die Aeußerlichkeit desselben begründet , nicht mehr Werth als den der bloßen Möglichkeit hat , d. h. eben zufällig ist.
+
+Wie der Begriff als
+
+Wesen nothwendig erscheint, so hat sich auch die Zufälligkeit als Moment der Nothwendigkeit schon * in der Logik ergeben.
+
+[p. 211] Diese Zufälligkeit ist weiter nichts als die Neußerlichkeit des erscheinenden Begriffs, als der innern Nothwendigkeit, die äußere Bestimmbarkeit , und diese äußere Mannigfaltigkeit ist nicht etwa ein Nichtiges gegen den Begriff, sondern ſeine eigene Aeußerlichkeit , wodurch er sich in einer für ihn an sich überwundenen Daseynsweise darstellt.
+
+Die Pflanze ist z . B. dem Begriffe nach ein Höheres als die Elemente und hat dieſe in ſich , allein fie ist zugleich sinnliches , Elementen zugleich materielles Ding und damit den
+
+Unterthan ;
+
+aber ihre innere begriffliche
+
+Mannigfaltigkeit und Produktivität ist nur wirklich in dieser Aeußerlichkeit. Jedoch behålt es allerdings seine Richtigkeit , daß das einzelne Dieses oder Jenes nur aufgenommen , geschaut, erfahren werden kann.
+
+Wir könnten so dieſes Einzelne in
+
+Bezug auf die philoſophiſche Erkenntniß als ein Ding an sich bezeichnen.
+
+Hat dieses Ding an sich aber die Kantische
+
+Bedeutung , daß dasselbe zugleich die objective Wahrheit und Wirklichkeit enthält , ſo kann die Philoſophie schlechterdings nicht tiefer herabgesezt werden.
+
+Kant erklärte , indem er zu der Bez stimmung des Dings an sich fortging , die sinnlichen Dinge für Erscheinung ; indem aber dieses Einzelne als objective Wirklichkeit und Ding an sich genommen wird , so wird damit die sinnliche Erscheinung zum Absoluten gemacht. Denn dieses Einzelne iſt allseitig die Endlichkeit , es iſt das momentane Hier , welches Ich Einzelner sehe , fühle, in die Hand nehme , wogegen ein anderer Einzelner dasjenige für die Wirklichkeit erklärt, was Er in der Hand hält.
+
+Um dieses Einzelne aber ist es der Wiſſenſchaft, auch dem niedrigsten Empirismus in Wahrheit nie zu thün geweſen , eben so wenig aber auch dem gewöhnlichen Bewußtseyn.
+
+Allerdings werden wir sagen: Jener Mann pflanzt nur dadurch wirklich Baume in ſeinen Garten , daß er diese einzelnen pflanzt, und ich 14* [p. 212] effe nur wirklich Kirschen , wenn ich diese einzelnen eſſe ; aber jenem Manne ist es sicherlich nicht um diese Bäume zu thun , sondern um einzelne Bäume überhaupt , um gute Exemplare , d. h. in Wahrheit , es ist ihm um den Begriff Baum zu thun, welchen er in der That sehr wohl von seiner Vorstellung unterscheidet , welche er nicht pflanzt , und eben so sehr von den Beispielen , welche er in seinen Garten feßt, aber, wenn es ihm einfällt , auch herauswirft , und wofür er nach Belieben andere wählt. Wenn der Empiriker diese einzelne Pflanze , welche er vor sich hat , beschreibt , so wird sie unmittelbar durch diese Beschreibung ein Allgemeines , und es ist fortan sehr gleichgültig , ob dieser Einzelne oder ein Underer, sie hier oder dort , in dieſer oder jener Stunde geſehen hat , d. h. dieſe Pflanze wird sogleich als Beiſpiel der Wirklichkeit behandelt. Wie nun dieses Einzelne nie Gegenſtand und Inhalt der Philosophie wird , sondern es vielmehr der niedrigste Stand, punkt des Bewußtſeyns iſt, daſſelbe für ein Wirkliches zu halten, so ist es denn auch ganz bedeutungslos , wenn man diese Erfahrung etwa zwiſchen die Logik und die Real philoſophie hineinschiebt , die Erfahrung , wie man wohl sagt , hinter die
+
+Logik einschlagen läßt , und das prins von derselben unter brechen und erfüllen.
+
+Es hat diese Ansicht das Richtige , daß diese Erfahrung allerdings immer nur zwischen den Theilen der Philosophie liegt, nie in der Philosophie selbst, und in dieser Hinsicht möchte es erlaubt ſeyn , noch mancherlei Anderes dazwischen zu schieben , was in dem philoſophirenden Subjecte vor sich geht, und was dasselbe fortwirft, um zur Sache zu kommen. Es fållt aber diese Erfahrung mit eben dem + Rechte vor die Logik , und diese kommt ohne dieselbe eben so wenig zu Stände , als die Philosophie der Natur ; denn sie ist der Ausgangspunkt des Denkens überhaupt. Nehme ich nun aber nach der Logik , welche das prius umfaßt ,
+
+[p. 213] Positive auf, so nehme ich dasselbe als Object , als Gegen stand auf.
+
+Lasse ich dasselbe positiv , so lasse ich es als
+
+Seyn und zwar als unerkanntes Seyn stehen. dasselbe aber als Gegenstand
+
+Will ich erklären, so kann dieß nicht anders geschehen , als einfach dadurch , daß ich dasselbe einem Andern vorzeige dann ist es auch dem Andern Gegenstand, und respective klarer Gegenstand.
+
+Genau genommen aber ist mir wie dem Undern nichts klar , und die Klarheit beginnt vor Allem damit , daß ich diese Unklarheit ein sehe, daß ich einsehe , daß die mancherlei Bestimmtheiten , welche das Aufgenommene hat , als positive nur Namen sind, die der Erklärung bedürfen , und daß ohne diese Erklärung ich von allen Bestimmtheiten nur das unterschiedslose Seyn aussage, vom Wesen aber nichts begreife ; daß aber ferner ich das Poſitive nicht wirklich als Seyn überhaupt aufnehme , sondern als meinen Gegenstand , als meine Gefühlsbeſtimmung x, und daß ich somit , anstatt etwas Reales aufzunehmen , ich vielmehr etwas nur, d. h. subjectiv Ideales aufgenommen habe.
+
+Oder sollte diese das Positive aufnehmende Anschauung nicht sinnliche, sondern intellectuelle Anschauung seyn, und wollte ich somit unmittelbar über das sinnliche Seyn hinweg in das Wesen eintreten , so könnte ich vor Allem die Logik ents behren ; ferner aber nehme ich nun nicht mehr den Gegenstand auf, wie er sich darbietet , auch nicht meine Gefühlsbestimmung, ſondern eine Gedankenbestimmung , d. h. ich behauptete und versichere oder definire, und an die Stelle des Vorzeigens tritt nun die Zumuthung , daß der Andere eben ſo anſchauen möge. Oder reflectire ich darauf, daß ich voraus schon das prius des Logischen in Besitz genommen habe, so kann mir dieser Besitz ſehr wenig hel-, fen; ich trete nicht aus dem Unwirklichen in die Wirklichkeit, sondern aus dem Denken in die Sinnlichkeit, und das Denken als der logische Inhalt erklärt nur sich selbst, [p. 214] weil er das Andere , was er erklären sollte , nur außer sich hat.
+
+Mit dem Eintritt in die Sinnlichkeit höre ich aber nicht auf, ein denkendes Wesen zu seyn , und es bleibt mir ſomit immer übrig , an dem Poſitiven herum zu denken , ja eine Philo: sophie der Natur zu construiren .
+
+Wie diese nun beschaffen seyn.
+
+mag, muß vor der That dahingestellt bleiben.
+
+Daß aber die
+
+Philosophie der Natur wie alle Philosophie die Erfahrung vor aussett, ist zur jeßigen Zeit eine Trivialität zu nennen ; gehe ich aber in dieser Philosophie über das Aufnehmen und Erzählen des Positiven zum Gedanken fort , so mag ich immerhin die Nachweisung , daß und wie ich zuerst diese und jene Erfahrung gemacht habe, vor jede Begriffsbestimmung einschieben , so würde mich diese Zuthat nicht von dem Vorwurfe retten , daß ich die Natur in den Gedanken verflüchtige , denn die Sache , der Inhalt sind doch immer Gedankenbeſtimmungen ; und hoffentlich wird jene Zuthat diesen Inhalt nicht auseinander fallen lassen , sondern vielmehr auch ohne dieselbe im Zusammenhange und streng dialektiſchen Fortschritte ſtehen. aber bleibt immer noch übrig ,
+
+Zulcht die Behauptung festzuhalten, daß das eigentlich Wirkliche doch nur erfahren werden könne.
+
+Was dieses Wirkliche sey, haben wir vorher. schon geſehen , und wie es schon dem gewöhnlichen . Bewußtseyn nicht um dieses Wirkliche zu thun # ist, so könnte man diese Behauptung als eine für die Wissenschaft und ihre Gestaltung ganz gleichgültige auf sich beruhen laſſen , indem ja zugleich voraus gesagt wird , daß auch in der Naturphilosophie von diesem Jedoch meint man mit
+
+Wirklichen nie die Rede seyn wird.
+
+dieser Behauptung erst ein Realprincip gewonnen zu haben, und nennt man diese Anerkennung eines Realen , das sich allem apriorischen Denken widerseßt, zugleich eine Vereinigung des Idealismus und Realismus , oder auch der Philosophie Schellings und Hegels , und glaubt man damir ein
+
+[p. 215] Resultat gewonnen zu haben , wonach die Zeit so lange vergebens gesucht , so ist dagegen bemerklich zu machen , daß eine solche Bereinigung des Idealismus und Realismus schon lange in dem Synthetismus Krugs vorliege , wo dieſe Vereinigung fogar ohne große Umstände bewirkt wird.
+
+Das Bewußtseyn ist als solches ein Wissen und bezieht sich zugleich auf einen Gegen ſtand außer ihm ; dieser Gegenstand ist und bleibt ein Anderes, und geht daher nicht in die Idealität des Wiſſens auf. Somit haben wir eine Synthese von Subject und Object , von Idealem und Realem , und beides . zugleich anerkannt, ohne die eine Seite in die andere zu verflüchtigen. Dieser Rückfall von dem Standpunkt der Bernunft , auf welchen Schelling schon die Philosophie erhoben hat , auf den Standpunkt des Bewußtseyns , und ſomit zu einer ganz åußers lichen und unbegriffenen Verbindung des Idealismus und. Realismus, schreibt sich eben von dem Mißverständniß her, in welchem man die Hegelsche Philosophie für Formalismus und ' aðſtracten Idealismus ansieht; gegen diesen will man ein Realprincip geltend machen.
+
+Man meint , die Philosophie habe doch immer nur die Form in ihrer Gewalt, 4 und aus dieser lasse sich der Inhalt der Wirklichkeit nimmermehr herausspinnen.
+
+Das Denken müſſe alſo aus sich heraustreten , ſeinen Idealismus bekennen , und die Wirklichkeit , wie sie ohne mein Denken schon fertig da ist , positiv aufnehmen.
+
+Das hat wieder seine Richtig keit: Ich habe mit meinem Denken die Wirklichkeit der Natur nicht geschaffen , allein das Denken ist es einzig und allein, welches die Wirklichkeit in ihrer Wahrheit erkennt , wogegen das aufnehmende Anschauen nur meint , mit der ſoliden Wirklich keit es zu thun zu haben , in Wahrheit aber nicht die Wirklich keit, sondern seine eigene sinnliche Bestimmung aufnimmt.
+
+Indem das Positive vom Subject aufgenommen wird , so fragt es sich natürlich , wie das Subject selbst bestimmt sey ;
+
+[p. 216] GVERD das Denken allein ist die Entäußerung der finnlichen Subs jectivitat, ist aus sich selbst heraus mitten in der Wirklich keit , und hat damit sogleich von vorn herein das Bewußtſeyn, daß es die Wirklichkeit nicht erst erschaffe.
+
+So wenig aber , wie
+
+Ich mit meinem Denken die Kategorien schaffe, so wenig haben die Kategorien , welche als logische und in der Trennung vom Daseyn nur in meinem Denken ſind , die Natur geschaffen. Das von Schelling entlehnte Bild , daß die Natur der Abfall der
+
+Idee von sich selbst sey, soll nur das Gefehtseyn , die Unselbstständigkeit der Natur in die Vorstellung bringen , ſoll durchaus nicht etwa zu dem Idealismus der Logik ein Realprincip hinzu nehmen oder vielmehr erschleichen , und soll durchaus nicht auf eine trübe Weise erklärlich mächen , wie aus der logiſchen Idee die Natur werden könne, sondern was als Werden , als Uebergang der Idee in die Natur erscheint , gehört nur uns an.
+
+Das Absolute ist als logische Idee nicht vollständig ers kannt, und die Idee ist selbst dieß , nicht bloß logiſch, ſondern äußerlich da zu seyn ; der Uebergang ist nicht aus dem inhalts losen Gedanken in ein unbegriffenes Seyn , an das wir erst finnlich herzutreten müßten , sondern aus dem inhaltsvollen Gedanken in das gedachte und begriffene Seyn der Natur. Die Wahrheit der Natur aber und die wahre Wirklichkeit der Idee ist der Geist.
+
+Wenn man von der Endlichkeit und Vergänglichkeit der Natur im Gegensate zum unsterblichen Geiſte ſpricht , so hat diese Vergånglichkeit oft keinen andern Sinn als den der Veränderlichkeit ; die Natur macht den Proceß ihres Daseyns und Lebens immer von Neuem wieder durch , blüht und verblüht , und bleibt ſo im Vergehen ſelbſt in ſich unvergånglich. Das wahrhafte Vergehen der Natur ist vielmehr das Hervorgehen des Geistes , zu welchem die Natur ſich durch ihre eigene Endlichkeit aufhebt, somit selbst ihre End lichkeit bekennt , indem sie sich zum Momente herabsetzt.
+
+[p. 217] € Leben ist das Höchste , wozu es die Natur bringt.
+
+Wie die
+
+Idee wesentlich Subjectivität ist , so kommt auch in der Natur diese Subjectivität zur Existenz , aber nur zur unmittelbaren . In dem animalischen Organismus hebt die Natur an sich ihr Außersichſeyn zur ideellen Einheit auf, aber dieſe Einheit ist zus gleich noch versenkt in die Objectivität des Außersichseyns , so daß der Begriff als Fürsichseyn existirend doch nicht sich selbst in seiner Allgemeinheit zum Object hat, sondern diese als Gatz tung außer ihm fållt. Wenn alle. Differenz nur als quantitativ gefaßt wird, ſo kommt die Dürftigkeit dieser Bestimmung in der Anwendung auf den abſolut concreten Begriff des Geistes am auffallendsten an den Tag , und es ist auch gerade nicht viel damit gethan; wenn man dagegen den quantitativen Unterschied der Natur und des Geiſtes in einen qualitativen verwandelt ; diese Kategorien sind überhaupt zu abſtract , um für das Verhältniß von Natur und Geist auszureichen.
+
+Der quantitative Unterschied ist nur äußerlich, und das Unterscheiden selbst fällt in ein Drittes, ſo daß der Geist hiernach nur verſchieden von der Natur ist, Wie wohl sich aber nicht selbst von derselben unterscheidet.
+
+daher ein quantitativer Unterschied ſowohl eine abstracte- Iden titåt als einen abſtracten : Dualismus von Natur und Geiſt aufhebt , ſo läßt es doch das Festhalten an demselben nicht zur Erkenntniß der concreten Einzelnheit und übergreifenden Sub jectivität kommen , welche gerade das Wesen des Geistes aus macht. Der Begriff ist in der Natur in einer ihm nicht gemäßen Existenz , er ist außer sich selbst, unmittelbar da , während er seinem Wesen nach vielmehr die absolute Vermittelung mit sich ist ; die Form ſeines Daseyns oder seine Realität entspricht somit seinem Wesen nicht.
+
+Es ist daher nichts Underes als der Bez griff selbst , welcher die Form des Außersichſeyns von Stufe zu Stufe überwindet und durchbricht , seine eigene Negation, die [p. 218] ping er als Natur an sich selbst hat , negirt , um sich die seinem Wesen gemäße Form der Wirklichkeit zu geben.
+
+Diese seine wahrhafte Wirklichkeit ist der Geiſt, 1das Entsprechen des Begriffs und seiner Realitåt , indem der Begriff als Geist in dieser Bea stimmtheit seiner Existenz nicht außer ſich ist , oder nur als un mittelbares Leben für sich , sondern an und für sich
+
+Subject und Object in dieser Verdoppelung ſeiner ſelbſt exiſtirt. Der Geist ist als der existirende Begriff das Allgemeine als die Gattung für sich selbst,
+
+Selbstbewußtseyn , und seinem
+
+Wesen nach die Freiheit , als die positive Negation aller Aeußer lichkeit und äußern Bestimmbarkeit.
+
+Die Natur bleibt nicht als ein Anderes neben dem Geiste stehen, sondern ist als das Andere ihrer selbst , Moment des Geistes , welcher für sich die Einheit seiner und seines Undern , greifende Subjectivität ist.
+
+Subject - Object als über
+
+Die Natur hat nur Realität ´als an sich die Idee , oder als Moment des Geistes als der wahrs haften Wirklichkeit derselben.
+
+Uns kommt es nun besonders darauf an , das Verhältniß des Geistes zum Begriff und zur logiſchen Idee zu erläutern, Hier wåre vor Allem ' festzuhalten , daß wenn sich der Geiſt, und zwar in seiner vollendeten Totalität der abſolute Geist, als das Resultat der Logik und der Naturphiloſophie für uns ergeben hat , dieß Reſultat vielmehr an " ſich das absolut Erste ist; daß also der absolute Geist , wenn er als Resultat durch ein Anderes vermittelt erscheint , er vielmehr ſelbſt dieſe Vermittelung seht und aufhebt , so daß also eben die Natur und die logische Idee das von ihm gesetzte sind.
+
+Hier könnte es dienlich seyn , fürerst nachzuweisen , daß Hegel dieß , welches gerade das innerste Wesen der Methode ausmacht, auch nicht vergißt, wiederholt einzuschärfen.
+
+,, Man muß zugeben , daß es eine wesentliche Betrachtung ist , daß das Vorwärtsgehen ein Rückgang in den 毋 Grund , zu dem Ursprünglichen und
+
+[p. 219] Wahrhaften ist , von dem das , womit der Anfang gemacht wurde , abhängt, und in der That hervorgebracht ་ wird. So wird noch mehr der absolute Geist , der als die concrete und lehte höchste Wahrheit alles Seyns ſich ergiebt , erkannt , als am Ende der Entwickelung sich mit Freiheit entäußernd und sich zur Gestalt eines unmittelbaren Seyns entlassend , zur Schöpfung einer Welt sich entschließend , welche alles das enthålt , was in die Entwickelung , die jenem Résultäte voran gegangen , fiel , und das durch diese umgekehrte Stellung , mit ſeinem Anfange in ein von dem Resultate als dem Principe ™ Das Wesentliche für die Abhängiges verwandelt wird. Wissenschaft ist nicht so sehr , daß ein rein Unmittelbares der Anfang sey, sondern daß das Ganze derselben ein Kreislauf in sich selbst ist , worin das Erste auch das Lezte , und das Lette auch das Erste wird. " (Log. I. , S. 64.) — ,,Gott ist in ſeinem unmittelbaren Begriffe nicht Geist ; der Geist ist nicht das Unmittelbare , der Vermittelung Entgegengesette , sondern viel mehr das seine Unmittelbarkeit ewig setzende und ewig aus ihr in sich zurückkehrende Wesen. nur die Natur.
+
+Unmittelbar ist daher Gott
+
+Oder die Natur ist nur der innere , nicht als Geist wirkliche und damit nicht der wahrhafte Gott. `Oder Gott ist im Denken , als erstem Denken , nur das reine Seyn, oder auch das Wesen , das abstract Ubsolute; nicht aber Gott als absoluter Geist , als welcher allein die wahrhafte Natur Gottes ist." ( Log. II. , S. 182 ) —-—-—-
+
+" Es ist zu bemerken , daß wenn zwar zunächst der Gang als vermittelnd erscheint , so' ist es doch in diesem Resultat selbst , daß sich die Einseitigkeit aufhebt , oder daß das Resultat dieß abwirft , Resultat zu seyn, der Widerstoß ist gegen diese Bewegung. Näher ift dieß so bestimmt , daß eben das Erste, entweder die logische Abstraction des Seyns oder die endliche Welt , dieß erste , Unmittelbare , nicht gefeht Erscheinende , in dem Resultate selbst gesezt wird als ein Gesettes , nicht Unmittelbares , daß es degradirt wird . vom Unmittelbaren zum Gesetzten , so daß der absolute Geist vielmehr das Wahre ist, das Setzen der Idee , wie der Natur und des endlichen Geistes. " ( Religionsphilosophie I. , S. 132 ) Wenn aus diesen angeführten Stellen wenigstens unzweideutig genug erhellen wird , daß Hegel nicht die logischen Kategorien , sondern vielmehr den Geist als das wahrhaft Wirkliche erkannt wissen will , so könnte doch schon der Zusatz zu den zuerst ausgehobenen Worten , das nämlich die Wiſſen schaft wesentlich ein Kreislauf in ſich ſelbſt ſey, sogleich Anstoß erregen , indem man meinen könnte , daß eben durch diese Zurückführung des Endes in den Anfang doch wieder nicht der Geiſt, ſondern vielmehr die logiſchen Kategorien als die letzte Wahrheit , in welche alle sonstige Wirklichkeit sich auf hebe, aufgefaßt würden.
+
+Ueber den Geist sey nicht wieder zu irgend etwas Anderem , am wenigsten zu den logischen Kategorien hinauszugehen, ſondern bei ihm sey vielmehr fest stehen zu bleiben , und aus jener Rückkehr in den Anfang erhelle offen bar, daß Hegel troß seiner Versicherung von der höchsten Wirklichkeit des
+
+Geistes , denselben dennoch nebst dem lebendigen
+
+Weltinhalt in die Schattenwelt der logischen Kategorien ver flüchtige.
+
+Hiergegen håtten wir zunächst zu fragen , wie man denn dazu komme , vom Anfange auszugehen und in den An fang zurückzukehren , dann aber beim Anfange stehen zu bleiben, und nicht den ganzen Kreislauf, ſondern nur ein Segment vom Kreise als das Ganze festzuhalten ?
+
+Ja es ist bei dieser offenbaren Willkühr zu verwundern , wie man doch wenigstens vom Seyn wieder zur Idee fortgeht , und nicht lieber sogleich beim Seyn oder Nichts stehen bleibt , und nun Hegel vorwirft, er habe das bloße Seyn oder Nichts als das einzig wahrhaft Wirkliche behauptet.; Halten wir dagegen die Methode fest , so ist die Philosophie [p. 221] schlechthin ein Ganzes , deffen Theile sich wie die Momente des Begriffs zu einander und zu diesem Ganzen verhalten.
+
+Logik enthält zunächst die Idee im abstracten Elemente des Gedankens oder der Allgemeinheit.
+
+Die Allgemeinheit aber ist als Moment des Begriffs selbst das Ganze ; die Logik ist daher zugleich vollendete Totalitåt , und die logische Idee ist das con cret Allgemeine , und dieß nur dadurch, daß ſie abſolute Ver mittelung in sich selbst ist, daß sie die Besonderheit und Einzelnheit an sich selbst hat , und somit zugleich als absolute un durchdringliche Persönlichkeit erkannt ist.
+
+Die Idee ist das her absoluter Inhalt und Form , „ unvergångliches Leben , sich wiſſende Wahrheit und alle Wahrheit ; alles Uebrige ist Irrthum, Trübheit , Meinung , Streben , Willkühr und Vergånglichkeit. " Die Idee weist aber eben durch ihre Concretion über sich ſelbſt als bloß logische hinaus ; und sie ist nur dadurch das concrete Allgemeine, daß sie nicht bloß im Elemente der Allgemein heit ist , sondern sich bestimmt und besondert , selbst die Abstraction der Allgemeinheit aufhebt , und unmittelbar da ist. dieser ersten Negation ist die Idee die Natur.
+
+Die Besonderheit aber ist als Moment des Begriffs selbst der ganze Be griff; enthält die Allgemeinheit als_seine Subſtanz , und stellt dieselbe durch seine Bestimmtheit dar.
+
+Die Idee ist als Natur außer sich , aber indem sie es ist , die darin außer sich ist, hat die Natur als die Negation der Idee diese selbst in sich, und damit zugleich auch das Moment der Einzelnheit , aber stellt dieses wie die Allgemeinheit in dem Elemente der Besonderheit dar.
+
+Wenn die Allgemeinheit den Unterschied noch in sich ver schlossen hålt , so ist derselbe in der Besonderheit gesezt und hat ſein Recht erhalten ; aber die Besonderheit weist eben so, wie die Allgemeinheit , zugleich über sich selbst hinaus.
+
+Natur hat als Negation der Idee die Negation an sich selbst, und hebt sich zum Geiste auf.
+
+Dieser als die Einzelnheit ist [p. 222] ebenfalls das Ganze , hat die Besonderheit als aufgehobene Ne ‫ܝ‬ gation als Moment an sich selbst, und ist damit zugleich die Rückkehr zur Allgemeinheit ; diese aber ist nun nicht mehr nur an sich concret, sondern als concret gefeßt, die als bestimmte Bestimmtheit wirklich existirende Idee, substantielle Wahr heit und abſolute Wirklichkeit.
+
+Also nicht die logische Idee für
+
+ſich ist das wahrhaft wirkliche , sondern die als Geist mani festirte und sich manifestirende Idee. Wenn nun gesagt wird , Hegel mache die logischen Kategorien zum absolut Wirklichen , so rührt diese Meinung nur das her, daß man das dem Begriffe nach Untrennbare auseinander reißt.
+
+Man firirt zunächst die logische Idee für sich , als wenn sie ohne Natur und Geist etwas wåre , und in dieser Abstraction hat man vollkommen Recht , wenn man behauptet , daß die logische Idee abstract sey.
+
+Das Logiſche ist in dieser Abstraction in Wahrheit eine Schattenwelt , die nur existirt im reinen abstracten Denken.
+
+Allein weil in diesem abstracten Elemente des Denkens dennoch die Idee durch den Unterschied in ſich concret ist , muß man , weil man in dieser Concretion nicht das nothwendige Hinausgehen über jene Abstraction anerkennt , die logische Idee weiter präpariren , und sie zur bloßen leeren Form d. h. zu einem nicht bloß ſubjectiv , sondern objectiv Abstracten und Nichtigen machen.
+
+Im Verhältniß zu dieſem In haltlosen hat denn Hegel die Kategorien hypoſtaſirt ; aber jene leere Form würde er sicherlich nicht hypostasirt haben, sondern als schlechthin unſpeculativ dem abstract reflectirenden Den ken überlassen , und die Hypostase besteht nur darin , daß Hegel nur die concrete Form für speculative . Form hålt. man aber ferner das Logische aus der encyklischen Entwickelung des Ganzen herausgeriſſen hat, und in dieſer Trennung dasselbe doch nicht nur für irgend Etwas , sondern für das Abſolute Hegels ausgiebt, so ist das Andere, was außerdem noch da ist,
+
+[p. 223] 361.0 nämlich die Natur und der Geist , weiter nichts als trübe Vers hüllung der reinen Idee.
+
+Wenn aber auch weiter hinzu gefeßt wird , daß sich bei Hegel die reine Idee verhüllen muß, um rein zu seyn , wodurch das ganze Syſtem ſo ziemlich auf den Kopf gestellt ist, so bekommt doch die Idee an der Natur und am Geiste keine neue Inhaltsbeſtimmung , wie dieß auch von einer Verhüllung nicht grade erwartet werden kann , und das Absolute ist und bleibt immer nur die reine Kategorie.
+
+In der encys klischen Entwicklung dagegen bricht die Dialektik mit der logischen Idee nicht ab , sondern steigert , vertieft und verdichtet sich von Stufe zu Stufe , aber nirgends tritt ein . Inhalt von außen hinein , oder wird zu einem Andern , dem Ersten schlechts hin Fremden übergegangen ; ja bei dieser Forderung muß ges sagt werden , daß die Idee wie der Geist keinen andern Inhalt habe als das Seyn des Anfangs .
+
+Der Fortgang der logischen
+
+Idee zur Natur ist als Entåußerung zugleich Vertiefung der Idee in sich selbst. Wenn man sagt , daß die Idee der Natur immanent fey, so kann dieser richtige Ausdruck doch auch so mißverstanden werden , als sey die Natur nur äußerlich gegen die Idee, und als würde der sich dann ergebende Ueberschuß mit Gewalt für nichtig erklärt , um den Monismus des Gedan kens herzustellen.
+
+Es fällt nichts aus der Idee heraus , sondern die Idee ist als sich ſelbſt äußerlich die Natur.
+
+Ebenso wenig tritt im Geiste irgend etwas äußerlich hinzu , ſondern der Geiſt ist selbst die aufgehobene Aeußerlichkeit , und nicht Verhüllung , sondern vielmehr die einzig wahrhafte Wirklichkeit der Idee, welche zum Geiste vertiefst um den gesetzten und entwickelten Unterschied reicher selbst das Sezen dieſes Unterschiedes iſt. Allein der Vorwurf des Formalismus und der Verflüch tigung alles wirklichen Seyns in den logischen Gedanken hat Mag nåmlich immerhin die auch noch eine andere Seite. Philosophie versichern und beweisen , daß die logische Idee nur [p. 224] als Geist das absolut Wirkliche sey, so ist diese Versicherung doch weiter nichts als eine Täuschung über sich selbst. indem es die Philosophie ist, jene Behauptung ausspricht , und zwar ohne von sich selbst abzulaſſen , ſo hilft alle Versicherung über die Wirklichkeit des Geistes schlechterdings nichts , denn sie begreift den Geist , und hebt eben das durch seine ansichseyende objective Wirklichkeit auf, macht nicht ihn selbst, sondern den Begriff zur Wahrheit von Ullem .
+
+Immer hat sie als das Denken des Denkens nur sich selbst zum Inhalte , und versündigt sich eben darum an Gott , der Welt und dem Menschen ebenso wie die Poesie , die nicht die Welt , sondern nur sich selbst zum Gegenstande macht.
+
+Hegel spricht sich hierüber in der Encyklopädie so aus : „ Wird das Reſultat, der für sich seyende Geist , in welchem alle Vermittelung sich aufgehoben hat , in nur formellem , inhaltslosem Sinne ge= nommen , so daß der Geist nicht zugleich als an sich seyender und objectiv sich entfaltender gewußt wird , so ist jene unendliche Subjectivität das nur formelle , sich in ſich als absolut wiſſende Selbstbewußtseyn , die Ironie , welche allen objectiven Gehalt sich zu nichte , zu einem eiteln zu machen weiß , ſomit selbst die Gehaltlosigkeit und Eitelkeit ist, die sich aus sich und einen damit zufälligen und beliebigen Inhalt zur Bestimmung giebt , Meister darüber bleibt , durch ihn nicht gebunden ist , und mit der Ver ficherung auf der höchsten Spike der Religion und der Philosophie zu stehen , vielmehr in die hohle Willkühr zurückfällt. Nur indem die reine unendliche Form, die bei sich seyende Selbstmanifestation , die Einseitigkeit des Subjectiven , worin sie die Eitelkeit des Denkens ist , ablegt , ist sie das freie Denken, welches seine unendliche Selbstbestimmung zugleich als absoluten, an und fürsichseyenden Inhalt , und ihn als Object hat , in welchem es ebenso frei ist.
+
+Das Denken ist insofern ſelbſt nur das Formelle des absoluten1 Inhalts.“ ( Encykl. §. 571 ).
+
+[p. 225] Wollte man 7 fene Ironie des Denkens einfach dadurch ab halten , daß man etwa nicht , wie Hegel in der Phånomenologie und Encyklopädie thut , über die Religion zur Philoſophie hinaus ginge, ſondern vielmehr die Religion als das Höchſte und Lehte fest hielte, so ist damit offenbar noch wenig geholfen.
+
+Man würde den Beweis , daß die Religion das Höchste sey , doch immer in der Religions : Philosophie führen , und damit factisch über die Religion zur Philosophie hinausgegangen seyn , auch sich aus diesem Hinausgehen schwerlich einen Vorwurf machen , in dem man darin nicht das Bewußtseyn einer Verflüchtigung der Religion , sondern vielmehr einer Befestigung derselben haben würde.
+
+Was aber die Poesie anbetrifft , so macht diese ohne
+
+Verdopplung ihrer selbst aus Allem ein Gedicht , und wir könnten derselben mit vollem Recht den Vorwurf machen , daß sie das Seyn nicht ließe , wie es an sich ist, sondern vielmehr den ganzen lebendigen Inhalt der Welt in ein Gedicht ver flüchtige.
+
+Wollten wir der Poeſie dieß nicht erlauben , so würden wir derselben offenbar die Existenz selbst nehmen , wo. gegen freilich die Poesie ihrerseits glauben wird , daß sie mit jener Veränderung , welche sie am objectiven Seyn vornimmt, dasselbe nicht verflüchtige , sondern erst in seiner wahren Wirklichkeit in Besitz nehme, daß sie als Dichtung Wahrheit sey. Wenn man nun von der Philosophie fordert , daß sie nicht das Denken , sondern vielmehr das Seyn denken solle , ohne dadurch Denken des Denkens zu werden, so heißt dieß mit ans dern Worten nur soviel , als daß das Seyn nicht gedacht und begriffen , sondern nur vorgestellt oder , wenn man will , angedacht werden solle.
+
+Hiermit ſind wir auf dem Ueber gange in die Nichtphilosophie , und diese allein ist im Stande, den der Philosophie wesentlichen Idealismus , nach welchem sie keine frem de Gegenständlichkeit stehen läßt , von Grund aus zu vernichten.
+
+Und zwar bietet sich als das einfachste Mittel [p. 226] gegen diesen Idealismus dar - vom Denken überhaupt abzulaffen.
+
+Da sich nun aber das Denken , wenn es ein mal angefangen hat , nicht so ohne Weiteres abweisen läßt, so würde es die Philosophie hiermit nicht viel weiter bringen , als zur Trauer über sich selbst , oder zur Verzweiflung und Resignation , welche eine Inconsequenz erzwingt , um vor dem Denken Ruhe zu haben.
+
+Eine solche erzwungene Ruhe bietet denn auch der Dualismus in seinen verschiedenen Gestaltungen .
+
+er bekennt , daß Gott , wie er an sich ist, nicht erkannt werden kann , wirft er ihn aus seinem Denken heraus , und Gott ist damit festes Seyn und ſteht außer dem verflüchtigenden Den ken in seiner dunkeln Heiligkeit objectiv da.
+
+Allein das Absolute kann gar nicht vollkommener in das Denken verflüchtiget werden , wenn dasselbe als dem Denken fallen soll.
+
+unerkennbares Unsich außer
+
+Der Poesie der Poesie müssen wir nothwendig diejenige Philosophie gegenüber stellen , welche gar nicht zur Erkenntniß des objectiven Seyns fortschreitet , sondern, immer nur die ſubjective Erkenntnißweise von den Dingen untersucht und zum Inhalte behålt ; hier ist das Denken immer nur mit sich , und nicht mit dem Seyn beschäftigt und thut mit dem Inhalte weiter nichts , als pugt sich selbst damit auf.
+
+Bescheidenheit , die in der Gewißheit nichts wiſſen zu können , zu liegen scheint, ist ein Bettelſtolz , und zugleich der Egoismus, welcher die Wahrheit von sich abhält , und ihr nicht die Kraft der Offenbarung zutraut. Gehen wir aber über jenen Dualismus hinaus , und des haupten nur, daß Gott und alle wahre Wirklichkeit nicht durch das speculative Denken allein erkannt werden könne , sondern daß die Erfahrung , hinzutreten müsse , so empfiehlt sich dieß vorzugsweise durch die darin vollbrachte Vereinigung zwiſchen Glauben und Wiſſen , Erfahrung und Speculation , und indem die Erfahrung auch einen andern Inhalt befigt als das Denken, [p. 227] ( erhalten wir dadurch ebenfalls ein festes Seyn , das nicht in das Denken aufgeht.
+
+Wenden wir " uns an die Speculation , so weist uns diese an die Erfahrung, und wenden wir uns an die Erfahrung, so weist uns diese an die Speculation , ſo daß aus dieser Wechselbeziehung nichts offenbarer erhellet als eine totale Vereinigung beider.
+
+Genau genommen aber ist es doch nicht eigentlich eine
+
+Einheit , sondern nur das Einverständniß beider , daß jede für ſich ein Krüppel ist, welcher der anderen als Krücke bedarf; indem aber jede die andre an sich selbst hat , -- gehen beide auf lahmen Füßen , und ihre Einheit besteht vielmehr nur darin, daß wo die Erfahrung ist , die Speculation nicht ist, und um gekehrt.
+
+Wenn z. B. die Speculation nicht erkennt, daß die
+
+Seele unsterblich ist , so tritt die religiöse Erfahrung hinzu , und weiß dieß unmittelbar.
+
+Diese Unmittelbarkeit aber reicht nicht aus , weil darüber schon zum Denken hinausgegangen ist ; es tritt also die Speculation wieder hinzu , und muß mit ihrer Erkenntniß , daß die Unsterblichkeit der Seele nicht erkannt wer den kann , der an der Unsterblichkeit zweifelnden Erfahrung aus helfen ; und zwar dadurch , daß sie die Erfahrung zu ſich ſelbſt zurückweiſt , und belehrt , daß bei der Epeculation weiter nichts als Nichtwiſſen zu finden ist; ist die Erfahrung damit beruhigt, so ist sie nicht mehr nur unmittelbarer Glaube , sondern , durch das Nichtwissen vermittelt , zum Wissen erhoben.
+
+Außerdem aber steht es dem Denken frei , den Inhalt , den es aus der Anschauung oder Erfahrung aufnimmt , zu bedenken , erläutern , ein zutheilen , zu billigen u. s. w . und dasselbe gewinnt durch dieß Råsonniren einerseits den Anschein , einen ausgebreiteten Inhalt zu besiken , und anderſeits , indem es die Sache doch immer bedenkt ohne eine apriorische Erkenntniß derselben zu behaupten , kann es immer von einer Einheit der Speculation und Empirie sprechen , aber auch, wenn es darauf ankommt, die Sache von sich selbst freilassen , und auf das Denken , welches 15 * [p. 228] die Sache an sich selbst zu besitzen meint , beliebig ſchmåhen . Wollte man aber dieſem Philoſophiren eben den Vorwurf machen, den es der Hegelschen Philosophie macht , daß es nämlich allen objectiven Inhalt , wenn auch nicht in die Form des Denkens , doch in die Form der Unmittelbarkeit, der ſubjectiven Erfahrung, der Empfindung , des Gefühls u. s. w. verflüchtige , so würde dasselbe gegen dieſen Vorwurf vorzugsweise darauf aufmerksam machen , daß es ja den objectiven Inhalt nicht selbst producire , sondern nur aufnehme , z . B. aus der Lehre der Kirche.
+
+Wenn es sich nun blos um die Art und Weise handelt, wie das Subject dieſen objectiven Inhalt der Kirche zu dem ſeinigen mache , so muß allerdings gesagt werden , daß dieß auch unmittelbar durch die religiöse Erfahrung geschehe ; und diese Unmittelbarkeit ist durchaus nicht gedankenlos , sondern als geistig auch denkend , und kann sich auch mit wirklich zur rein speculativen Form entwickelten Bestimmungen verbinden .
+
+Diese
+
+Einheit aber des Glaubens und Wissens , der Erfahrung und Speculation ist doch schlechterdings nur eine ſubjective , wenn das Denken nur äußerlich den Inhalt des Glaubens aufnimmt, ohne ihn rein dialectisch aus sich selbst zu entwickeln.
+
+Die Haupts sache aber ist , daß dieß Denken , welches nicht von vorn herein in die Sache vertieft mitten in der Wirklichkeit steht , und seine Leerheit erst durch die Erfahrung hinterher erfüllen muß — weit davon entfernt ist , wirklich speculatives Denken zu seyn.
+
+dieß formelle Denken seine Dürftigkeit und Inhaltslosigkeit ge steht , ist das Wenigste was man verlangen kann ; es ist vielmehr die Forderung zu thun , daß es nicht nur ſeine Endlich keit gestehe , sondern auch aufgebe , um zur Sache zu kommen. Wenn es aber dennoch an sich festhålt , ſo mag es sich immer hin mit der Anschauung und Erfahrung verbinden und mit deren Inhalt zu thun machen ; jedoch kann es nicht leicht eine größere Täuschung geben , als diese Verbindung für eine wirk
+
+[p. 229] B liche Einheit der Speculation und Erfahrung zu halten.
+
+dieser Formalismus ſich zur Erfahrung hinwendet , muß aller dings als Glück angesehen werden , weil er, ſonſt auch nichts weiter als eine inhaltsleere Form besigen würde.
+
+Aber durch diese
+
+Aufnahme des Inhalts hört das Denken nicht auf, nur for mell zu seyn , und muß daher nothwendig den Inhalt formlos lassen.
+
+Wenn man sich aber gegen die Verflüchtigung alles
+
+Inhalts in die Zufälligkeit und Willkür der subjectiven Empfindung dadurch schüßen will , daß man den objectiven Inhalt der Kirchenlehre gläubig aufnimmt , so ist die Form der Unmittel barkeit doch immer nicht der Beweis der Wahrheit , und wenn die Versicherung eines Anderen , daß er bei dem besten Willen die Wahrheit der Offenbarung in der bestimmten Weise , mit den Zusäßen , Modificationen , Erklärungen u. s. w., wie sie von dem Philosophen ihm geboten werde , in sich nicht erfahren könne , dagegen dasselbe Recht hat , so bleibt nur die Bezeichnung des Ungläubigen übrig, um die Bescheidenheit des Denkens zu vollenden. Wir haben schon früher gezeigt , wie in der Phänomenologie das ſubjective Denken das Object nur durch Entäußerung ſeiner Endlichkeit und Subjectivität überwindet.
+
+Uls absolutes
+
+Wissen ist das Denken nicht mehr ein Besonderes , gegen die Erfahrung , Anschauung , Vorstellung u. s. w. , sondern hat dieſe in sich selbst aufgehoben.
+
+Wenn gleich daher das Denken schlech terdings nicht ohne die Erfahrung seyn kann , sondern vielmehr die unmittelbarkeit als seinen Keim voraussett , so ist es doch als absolute Form nie inhaltsleer, sondern steht in jedem Moment in der Wirklichkeit , welche als solche nie bloß gedacht , sondern auch erfahren werden kann.
+
+Allein wenn für die Un mittelbarkeit der ganze unendliche Inhalt mit Einem Schlage da ist , so legt die Wissenschaft diesen Inhalt von Moment zu Moment auseinander.
+
+Das freie Denken aber ist so weit das [p. 230] von entfernt , das Seyn als den Inhalt zu verflüchtigen , daß es vielmehr allein den Inhalt von sich frei läßt und die vom Subjecte freie Objectivität des Inhalts auch ausdrückt.
+
+das Denken allein hat sich von der Subjectivität losgesagt , und hat nicht an der unmittelbaren Einheit mit sich, sondern an seiner Entäußerung den Inhalt.
+
+Dieser Inhalt ist darum die Sache selbst, welche nicht erst durch das Denken wird ; sondern das Denken ist vielmehr nur das Nach denken dessen was vorausgedacht ist , nur die scheinbare Unthätigkeit , welche zu der Sache nichts hinzuthut , sondern ihrer Entwicklung durch ſich ſelbſt nur zuſieht. Wenn man früher die Logik von der Philosophie der Natur und des Geistes losriß oder wenigstens mit der Logik die dialectische Entwickelung abbrach, so hålt man hier eine unmittelbare Einheit von Seyn und Denken , Inhalt und Form fest , und faßt damit das abſolute- Wiſſen nicht als das Wissen des Geistes , sondern als die ſubjective Form des Selbstbewußtseyns.
+
+Ist das ſubjective Denken unmittelbar alles Seyn , so bleibt aller Inhalt in der ſubjectiven Form verſchloſſen und nicht das Seyn als Geiſt iſt das Wirkliche , ſondern mein Gedanke vom Geiſt.
+
+Dann wåre allerdings die
+
+Philosophie die Ironie und die Verflüchtigung alles Inhalts , und kame nicht aus sich heraus , wie der subjective Idealismus der Wissenschaftslehre nicht aus sich heraus kommt.
+
+Dagegen hat man volles Recht , das Object in Schuß zu nehmen , aber man irrt , wenn man meint , dieß in der Unmittelbarkeit der Anschauung und Erfahrung erreichen zu können ; diese erfährt immer zugleich sich selbst.
+
+Die absolute Form der Dialektik aber ist sogleich nicht das reine abstracte Selbstbewußtſeyn als Brüten über sich selbst , sondern die Entåußerung zum Inhalte, und hat das Bewußtſeyn nicht in ſich vernichtet , sondern der In halt wird ebensosehr zur Gegenständlichkeit hergestellt.
+
+die Philosophie am Schlusse sich selbst begreift, geschieht gerade [p. 231] das Gegentheil von der vermeinten Verflüchtigung alles objec tiven Gehaltes in das logische Denken.
+
+Diese Rückführung des
+
+Endes in den Unfang hat nämlich zunächst eine andere Bedeutung, als das hinausgehen der Phänomenológie über die Religion zum abſoluten Wiſſen.
+
+Denn das Resultat der Phåno menologie weist allerdings über sich hinaus zum objectiven Systeme hin , und bei dem einfachen Resultate kann seinem In halte nach nicht stehen geblieben werden , wie Kant bei der Kritik der reinen Vernunft stehen bleiben konnte und mußte. Indem aber das objective System in den Anfang zurückkehret , verliert dadurch die Logik den Schein der Subjectivitåt und Besonderheit, den sie dadurch an sich hatte, daß sie zunächſt nur durch die Wissenschaft des Bewußtseyns vermittelt war ; sie ist nun durch die Entwickelung des Wissens währte Allgemeinheit.
+
+in sich selbst be=
+
+Wie sich die logische Idee zur
+
+Natur und zum Geiſte aufhob , ist sie an sich die concrete Ein-. heit von beiden und das ewige Unterscheiden in diese ihre Manifestationen , nnd hat nicht an sich selbst sondern an diesen ihre Wirklichkeit.
+
+Die Philoſophie selbst aber hat sich damit ge rechtfertigt , als die nothwendige That des Geiſtes und als das Reich, das sich der Geist in seinem Elemente als im Elemente des Denkens auferbaut ; und in dieser Rückkehr in den Anfang wirft die Philosophie eben den Schein fort , ein ſubjectives Geschäft der Beruhigung , Tróſtung oder auch des Luxus zu seyn, eine Poesie der Poesie , und als Erkenntniß ihrer selbst ist sie zugleich die Anerkennung des objectiven Inhalts , der an und für sich freie Objectivität iſt. In seiner höchsten Spike endlich und zugleich in seiner ganzen Oberflächlichkeit erscheint der Vorwurf des Formalismus gegen die Hegelsche Dialectik bei Stahl.
+
+Nach ihm hat mit
+
+Hegel der Rationalismus ſein Aeußerstes erreicht, weil ihm nur noch das Denken als einzige Realität übrig geblieben [p. 232] iſt.
+
+GRAD
+
+//Will das Denken vollständig von Allem abstrahiren , wo von es abstrahiren kann , so muß auch von der Person des Denkens nicht nur, sondern sogar von seinen eigenen bestimmten Kategorien abstrahirt werden ; denn es wäre ja auch ein Denken noch denkbar , das grade diese oder jene Kategorie (z. B. Maaß , Form , Schein , das eine oder das andere ) nicht an sich hätte ; es ist also keine derselben dem Denken a priori nothwendig.
+
+Wenn es sich in solcher Art von allem Inhalte befreit, sich völlig aushöhlt , so bleibt nur Eines übrig , ſeine reine Funktion , durch die es Denken ist , d. i. das Unter-,
+
+1 ſcheiden (sich Entgegenseßen) und Verbinden.“ (Rechtsphil. Bd. 1., S.280) Dieß logiſche Geseß der drei Momente ist denn der Gott Hegels. „ Das dialektiſche Geſeß nåmlich ist der alleinige Inhalt des Systems , es wird durch die Schöpfung durchgeführt , angeblich fie erzeugend, in der That sie vorfindend und zerstörend. Alles was da ist , Natur , Geschichte , Kunst , Religion , werden nach solchem Schema aneinander gereiht , einem jedem als das Bestimmte , das es selbst ist, die Wahrheit abgesprochen , und blos die abstracte Beziehung - daß es einen Gegensatz gegen ein anderes bildet , oder die Vorstellung von zwei andern.
+
+in sich verbindet - als das Wahre an ihm erklärt.
+
+So ist alle Realität positiv und durchgängig aufgehoben ." (S. 282) — Das hat zunächst seine volle Richtigkeit : wenn wir von allem Inhalte des Denkens abstrahiren , und das Resultat dieser Ub straction , das inhaltslose Denken , für die einzige Realität aus geben und festhalten ― so ist alle andere Realität , auch der Inhalt des Denkens , durchgängig aufgehoben.
+
+Auch ist nicht zu läugnen , daß wir diese Abstraction vornehmen können , wie ſie ſchon Carteſius vornahm ; und auch Hegel im Anfange der Logik.
+
+Wenn also früher gesagt wurde , daß bei Hegel der logische Inhalt das Wirkliche sey , so wird nun sogar behauptet, daß vielmehr das bloße , inhaltslose Denken , etwa die Ab [p. 233] straction des Seyns alle Wirklichkeit umfaſſe ; wenn aber Hegel das Logische für sich , in allem Ernste als eine Schattenwelt bezeichnet , so würden wir ihm jcht sicherlich Unrecht thun , wenn wir ihm das Bewußtseyn absprechen wollten , daß das Resultat Nichts sey. Wir verscherzen aber.
+
+jener Abstraction, das Seyn sogleich den Triumph , den wir uns durch dieß willkürliche Festhalten des Anfangs , über das Ganze der Hegelschen
+
+Philosophie erkämpft haben , wenn wir das bloße Denken wieder in die dialektische Bewegung verwandeln , denn dann müſſen wir sogleich gestehen , daß das Denken wohl von Allem abstrahiren kann , aber als dialektisch und speculativ seinem Wesen nach nicht bloß abstrahirend ist , sondern daß dasselbe vielmehr jene Willkür , welche bei dem Seyn stehen bleibt und nicht einmal zum Werden fortgehen will ( Stahl S. 285), für eine gedankenlose erklären muß, deren Einfälle und
+
+Meinungen , daß man von diesem und jenem abstrahiren kann, wenn man will , diese bloße Möglichkeit , keine Instanz bilden gegen die Dialektik , welche eben , weil sie lebendige Bewegung ist , den concreten Inhalt der Wirklichkeit nicht verliert , sondern vielmehr im Gedanken reproducirt , aber nicht schafft, sondern als geschaffen und an sich vom Gedanken durchdrungen, schon vorfindet. - Was aber die Meinung . betrifft, daß die Dialektik Alles, was da ist, nach einem Schema an einander reihe , einem jeden Seyn als das Bestimmte , das es selbst ist , die Wahrheit abspreche , und bloß die abstracte
+
+Beziehung - daß es einen Gegensatz gegen ein anderes bilde, oder die Vorstellung von zwei andern in sich verbinde --- al3 , das Wahre an ihm erkläre so bedarf es hier nur einer Zu rechtstellung des Ausdrucks . Das Bestimmte ist als solches nicht bloß abstract für sich, sondern in Beziehung auf ein Anderes, und so wie es ist , nicht wie es nicht ist , hat die Philosophie dasselbe aufzufassen.
+
+\# Die Thaten und Schöpfungen Gottes
+
+[p. 234] ſind nie etwas Einfaches , Abgerissenes , sondern ſind in ſich unauflöslich gegliedert , und in unendlicher Beziehung außer sich (ein Faden , der tauſend Fåden ſchlågt) .“ (Stahl Bd . 2. S. 30.) Und jedes wirkliche Seyn ist zugleich als gegliedert in sich, nicht eine abstracte Sichselbstgleichheit , sondern in Wahrheit die Einheit unterschiedener Bestimmungen , und nur das Seyn, welches vom willkürlichen Denken 1 für sich festgehalten wird , ist ohne Beziehung auf Underes , und ohne Gliederung in sich selbst , welche sogleich mit dem Fortgang zur Negation -beginnt.
+
+## II.
+
+## Freiheit und Nothwendigkeit.
+
+In der Gegenwart hat die Frage über das Verhältniß der Nothwendigkeit und Freiheit , welche von jeher eine der wichtigsten der Speculation geweſen ist, vorzugsweise die Wendung erhalten, ob und in wiefern die Willkür Moment der Frei heit sey; und daher knüpft sich an diesen Punkt zugleich die Frage über das Verhältniß
+
+Empirie an.
+
+der Speculation´ zur
+
+Denn ist das Freie in dem Sinne frei , daß es die Willkür als Moment in sich hat , und somit auch eben so sehr anders seyn kann , als es ist, so scheint dasselbe als Daseyendes nur geschaut und empirisch aufgenommen , nicht begriffen werden zu können. Die Verkündigung einer höhern Auffassung der Freiheit, wie sie bis jest der Speculation noch nicht gelungen seyn soll, ſchließt sich besonders an die Umgestaltung der Philosophie an, welche Schelling von Neuem verkündigt hat.
+
+Wie Schelling selbst jieht das Verhältniß von Freiheit und Nothwendigkeit auf faßt , muß fürerst dahingestellt bleiben ; von seinen Schülern ist es beſonders Stähl , der in seiner Rechtsphiloſophie den Begriff [p. 235] der Freiheit in jener höhern Vollendung darstellt.
+
+(Die Philosophie des Rechts nach geschichtlicher Unſicht. IrBd . Heidelberg 1830. 2 Bd . 1. Abth . 1833. )
+
+Bei Stahl aber erscheint der
+
+Gegensatz von Freiheit und Nothwendigkeit in einer solchen Hårte, und die Versöhnung , die denn doch gefordert wird , ist so un beſtimmt, daß die Dürftigkeit der Auffassungsweise kaum einer weitern Nachweiſung bedarf. - Die negative Bedeutung der Freiheit soll zunächſt darin beſtehen , von nichts Anderem beſtimmt zu werden ; in diesem Sinne sey der Sclave unfrei , weil er vom Herrn , der Gefangene , weil er von dem Kerker und den Ketten bestimmt werde ; dagegen die ganze Natur innerlich frei, weil sie nur ihrem eigenen Wesen gehorche.
+
+( B. 2. S. 20. )
+
+Damit aber unterscheide sich die Freiheit noch nicht von der Nothwendigkeit ; der positive Begriff der Freiheit bestehe vielmehr darin , daß dieſes eigene Wesen , welches von keinem andern bestimmt werde , auch ein schöpferisches sey , d. i . daß ihm eine unendliche Wahl zukomme.
+
+Freiheit sey somit nicht ohne Wahl und die schaffende Wahl die specifische Bezeichnung für die Freiheit. (Ebènd. S. 21.) Die Wahl der Erfahrung finde die Gegenstånde vor und fey durch den Umfang dieses Vorraths beschränkt , wogegen die wirkliche Freiheit die Gegens stånde , welche sie erwähle , zugleich schaffe.
+
+Dieser poſitive Be griff der Freiheit sey denn auch unendlicher Steigerung fähig, und der Mensch sey freier , je nachdem sein Geist und sein Gemüth schöpferische Kraft habe.
+
+als das Wesen " Man muß \ der Freiheit schlechterdings die Wahl erkennen , und zwar nicht die Wahl zwischen Gut und Böſe , denn diese Wahl ist aller dings bei Gott nicht , und ist gerade der Widerspruch gegen die 锄 Freiheit, sondern die Wahl überhaupt und zwar unendliche schaffende Wahl." (S. 25.)
+
+Weiter aber soll alle Zufällig keit und Willkür von der Freiheit ausgeschlossen seyn , und zwar aus Gott vorzugsweise durch sein unwandelbares
+
+[p. 236] Wesen selbst.
+
+Denn in aller schöpferischen Wahl offenbart
+
+Gott immer sich selbst , und darum ist keine Willkür und keine Zufälligkeit in seiner Schöpfung.
+
+Deßhalb ist auch die Frei heit, wenn auch durchaus nicht dasselbe als die Nothwendigkeit , doch geeint mit derselben. (S. 26.) Was Gott schafft , muß seinem unwandelbaren Weſen entsprechen, allein Gott konnte die unermeßliche Fülle seines Wesens auch in anderer und der mannigfachsten Weiſe offenbaren.
+
+Die Liebe ist das innerste Wesen Gottes ; daher ſind die Schöpfungen Gottes nicht grundlos , sondern haben ihren Grund in seinem Wesen , welches als Selbstbewußtseyn nichts ohne Plan und
+
+Absicht thut.
+
+" Gott ist allerdings auch eine Möglichkeit versagt, d . i. sie ist durch sein eigenes unveränderliches Weſen ausge ſchloſſen , die Möglichkeit des Ungöttlichen.“ (S. 31.)
+
+Stahl unterscheidet also zwischen Wahl und Willkür, und will lettere aus der absoluten Freiheit ausgeschloſſen wiſſen. Nach andern Stellen wird aber dieser Unterschied , so unbestimmt er überhaupt nur angedeutet ist , ganz und gar wieder verwiſcht. So wird bemerkt , daß wenn man von einer Neidlosigkeit Gottes spreche , dieß nur ein leeres Wort sey , sobald Gott nicht auch seine Offenbarung zurückhalten könnte. (Bd . 1. S. 314) ; ja es heißt sogar : „ nur der Allmächtige , der von gar keiner Bestimmung gebunden ist , sondern jede nach seinem Willen annimmt und aufgiebt , iſt im abſoluten Sinne frei." (Bd . 1. G. 326.) -- Will man die Freiheit von der Nothwendigkeit unterscheiden und von derselben frei machen , so liegt es dem gewöhnlichen Bewußtseyn am nächsten , das Moment der Willkür hervorzuheben , und also , um eine beſtimmte Handlung als frei darzustellen , zu sagen : ich konnte es auch lassen , oder konnte auch etwas anders thun. Halten wir diese Bestimmung einseitig fest, so bekommen wir die niedrigste Vorstellung von der Freiheit ; ſie erſcheint dann nämlich nur als das Vermögen , thun [p. 237] und lassen zu können , was man will. wäre die Freiheit Bestimmungslosigkeit ,
+
+So aufgefaßt, abstracte Indifferenz und bloß formelle Möglichkeit , und um wirklich frei zu seyn, dürfte man schlechterdings zu keinem bestimmten Handeln fortschreiten , denn die Bestimmtheit liegt nicht in dem unbe stimmten Was ; jede Bestimmung und jeder Fortschritt zur wirklichen That wåre Verlust der Freiheit als der abſtracten Indifferenz , und würde nicht aus der Freiheit selbst hervorgehen, weil diese nur die Negation aller Bestimmung ist , sondern müßte von außen herzutreten.
+
+Wäre die Freiheit nichts anderes als dieß , so wåre sie als wirkliche That nur Täuſchung, weil sie in sich selbst schlechterdings keinen Grund hat , zur wirklichen That fortzugehen.
+
+Durch die Frage nach dem Zwecke einer Handlung aber meinen wir nicht die Freiheit aufzuheben, sondern sie vielmehr nur von der Grundlosigkeit und abſtracten Willkür zu befreien ; und es tritt daher zum Begriffe der Freiheit die Bestimmung hinzu , daß sie nicht nur die Abstraction' von aller åußern Bestimmbarkeit ist , sondern zugleich durch sich selbst zum bestimmten Thun fortschreitet , und daß diese Bestimmtheit einen vernünftigen Zweck habe , der Pflicht , dem Gesetz u. s. w. gemäß sey.
+
+Tragen wir nun die Willkür in ihrer ganzen Algemeinheit auf Gott über , so müßten wir z. B. sagen: Gott kann sich offenbaren , und kann es auch lassen, nach Belieben.
+
+Hier tritt nicht etwa die Pflicht als eine For derung auf, sondern das Wesen Gottes selbst ist ein bestimme tes , und ſchränkt daher die abſtracte Indifferenz und die belie´ bigen Möglichkeiten ein.
+
+Sagen wir freilich , der Allmächtige sey durch keine Bestimmung gebunden , ſondern nehme jede nach seinem Willen an , und gebe sie nach Belieben auch wieder auf, so fassen wir das Wesen Gottes als inhaltslose Indifferenz. Bezeichnen wir aber das innerste Wesen Gottes als die Liebe, und behaupten, Gott habe die Welt ,, aus Liebe zu den Geschöpfen [p. 238] geschaffen “ (Bd. 2. S. 49.) , ſo fållt hier doch offenbar alles
+
+Belieben fort, und die Möglichkeit , sich nicht zu offenbaren , ist von dem unwandelbaren Wesen Gottes selbst ausgeschlossen ; es ist dieß vielmehr die Möglichkeit , nicht die Liebe, sondern der Neid zu seyn.
+
+Oder wenn die Freiheit ihrem Wesen nach die schöpferische Wahl ist , so ist Unfreiheit.
+
+das Nichtſchaffen offenbar
+
+Aus der schöpferischen Wahl müßten wir also nicht bloß die Wahl zwischen Gut und Böse ausschließen , sondern eben so sehr auch die Wahl zwischen Schaffen und Nichtschaffen. Weiter aber besteht die Wahl darin , daß Gott sich auch auf andere Weise offenbaren konnte, als er es wirklich gethan hat. Allein indem Gott nichts ohne Absicht und Plan, thun soll , so müssen wir auch diese Möglichkeit , sich anders offenbaren zu können , ebenfalls als Willkür bezeichnen , und sie als bloße Möglichkeit aus Gott ausschließen , wenn wir nicht zugleich
+
+Zufälligkeit und Absichtslosigkeit in das unwandelbare Wesen Gottes sehen wollen.
+
+Diese Wahl zwischen verschiedenen möglichen Welten ist auch nicht wirklich schöpferische Wahl, denn diese Wahl ist nicht , sondern wird vielmehr im Schaffen selbst aufgehoben.
+
+,, Will man sich durch ein Beispiel der Wir kung (von der unendlichen Wahl) überzeugen , so betrachte man die unzähligen Steine und Muscheln, und Gewächse und Thiere, und die unzähligen menschlichen Individualitåten , von denen überall nicht eins dem andern gleich sieht, und nie gleich sehen wird in Ewigkeit.
+
+Aus ihnen geht unwiderleglich hervor , daß es eine solche Kraft der unendlichen Wahl geben muß. “ S. 22.)
+
+(Bd . 2 .
+
+Hier haben wir nicht die bloße Möglichkeit zwiſchen
+
+Verschiedenen zu wählen , von welcher ein Theil ausgeschlossen würde, sondern die wirklich präsente Wahl , die existirendę Mannigfaltigkeit , das absolut ſich verwirklichende und verwirklichte gestaltvolle Thun. Um die von Stahl ausgesprochene Ansicht zu würdigen,
+
+[p. 239] ---muß vor Allem auf den angedeuteten Unterschied zwischen Wahl und Willkür reflectirt werden.
+
+Der hervorstechende Mangel der ganzen Untersuchung aber ist die Unbeſtimmtheit und Leichtfertig = keit , mit welcher die höchsten und schwierigsten Probleme der Wissenschaft hier behandelt werden , und die Schwierigkeit nur abgehalten und verschwiegen , nicht im Entferntesten aber gelöſt
+
+Die Willkür soll aus dem Wesen Gottes ausgeschlossen seyn und seine Freiheit mit der Nothwendigkeit geeint , aber diese Einheit kommt nicht zu Stande, vielmehr wird der schöpferischen Wahl als dem Wesen der Freiheit immer wieder die Willkür, auch nicht ſchaffen zu können und auch anders ſchaffen zu können, untergescho den, und es wird nur die Wahl zwiſchen Gut und Böse als Willkür festgehalten , und aus dem unwandelbaren Wesen Gottes entfernt. Der ganzen Auffaſſung liegt offenbar die Tendenz zu Grunde, die vernünftig geordnete Schöpfung als die That des selbst bewußten Geistes zu faſſen , und die schöpferische Wahl , welche als das Wesen der Freiheit hervorgehoben und von der Willkür unterschieden wird , ist weiter nichts als ein einfacher Ausdruck . für jene Tendenz.
+
+Gott soll als frei wählen ohne Will .
+
+kür , d. h. die Möglichkeit des
+
+Nichtschaffens und anders
+
+Schaffens soll durch seinen selbstbewußten Willen auss geschlossen seyn.
+
+Sagen wir nun aber :
+
+Gott konnte auch anders schaffen , so müssen wir nothwendig hinzusehen : wenn er gewollt hätte.
+
+Halten wir aber die Möglichkeit einer andern
+
+Schöpfung fest, so müssen wir nothwendig die freie Wahl in Willkür verwandeln , weil eben jene es war , welche die Möglich keit einer andern Schöpfung ausschloß.
+
+Durch das Festhalten dieser Möglichkeit heben wir daher die Freiheit , die wir erhalten wollen , auf, indem wir sie zu einer absichts- und willenloſen und ſomit zur indifferenten Nothwendigkeit machen . -
+
+Lassen wir die Wahl, die als Willkür dem Wesen Gottes widerspricht, und im Unterſchiede von dieser weiter nichts als [p. 240] das schöpferische Thun ist , heraus , so erhielten wir den eine fachen Begriff des absoluten Thuns.
+
+Mit dem absoluten
+
+Thun fångt Braniß die Metaphyſik an und meint durch diesen Anfang die Nothwendigkeit überwunden und die Freiheit zum durchgreifenden Princip der Philoſophie gemacht zu haben. Das absolute Thun ist das Seyn , das an keinem Andern eine Voraussetzung , hat , nur durch sich vermittelt , das unmittelbar und schlechthin Anfangende , nicht in den Causalnerus des Ver standes verwickelte. Hegelsche
+
+Dieser Anfang ist nicht abstract , wie der mit dem Seyn = Nichts , sondern das absolute
+
+Thun hat an sich selbst seinen Inhalt, ist concreter Gedanke, Gott selbst.
+
+Wer sich diesen Anfang von der absoluten Position, von dem Anfånger selbst nicht gefallen lassen will , ' iſt ein bloß verständiger Mensch , von dem Verstande zur
+
+Bernunft giebt es keinen stetigen Uebergang , weil die Vernunft das schlechthin freie , nicht durch ein Anderes , sondern nur durch sich selbst vermittelte , eben allen Uebergang und verſtån digen Zusammenhang , abbrechende Vermögen ist. Gottes bedarf für das denn
+
+Die Existenz vernünftige Denken keines Beweises, dieses denkt das absolute Thun , und wer an Gottes
+
+Existenz zweifelt , hat nicht die Idee Gottes , weil dieser die That seiner selbst ist ; der Beweis für die Existenz Gottes kann nur darin bestehen , einem andern an sich vernünftigen Wesen die Veranlassung zu geben , zur Vernunft zu kommen , und fomit das absolute Thun zu denken . Das absolute Thun ist dann weiter Identität von Thun und Seyn , und als diese concrete Einheit Bewußtseyn .
+
+Wenn es nun der Verstandes , reflexion eigen ist , Freiheit und Nothwendigkeit nur im Gegens ſaße zu einander zu faſſen , ſo ſoll sich nach Braniß die Specu lation von vorn herein für die Absolutheit der einen oder der andern entscheiden .
+
+Dem Saße : nur das Nothwendige ist frei, tritt der höhere gegenüber :
+
+nur das Freie ist nothwendig .
+
+[p. 241] Diese Entscheidung nun für die Absolutheit der Freiheit ist der Anfang mit dem abſoluten Thun ; wogegen der Anfang mit dem Seyn es nicht zur Freiheit kommen läßt. Denn das Freie, als die Idee ist hier nicht das unmittelbar Anfangende , das Seyn und die Nothwendigkeit ſehende , ſondern durch das Seyn ſelbſt vermittelte ; und die Idee Hegels iſt daher nur als Totalitát ihrer Momente frei , wie die Substanz Spinoza's , in ihrer
+
+Entfaltung aber ist sie lautere Nothwendigkeit. Daß mit dem Anfange des absoluten Thuns ohne Weiteres ein dem Seyn und der Nothwendigkeit ,, Jenseitiges " gewonnen ist , hat seine Richtigkeit ; es fragt sich nur , ob dieß auch wirklich erfülltes Jenseits " ist. Allerdings heißt 1 es , daß das abſolute Thun erſtens reine Selbstbewegung sey, und zweitens das Aus- sich heraus und In ſich - zurück , und drittens die unendliche Vermittelung seiner mit sich selbst oder Bewußtseyns, und als Totalität dieser Momente der abſolute Geiſt.
+
+dieß Aus - ſich - heraus ist nicht etwa ein wirklicher Unterſchied, und ein wirkliches , Andersseyn , sondern ' ein rein in sich selbst Bleiben , ein Brüten des abſoluten Thuns über sich selbst. Das abſolute Thun als solches thut wirklich nichts , und erst im Sehen eines Andern ist es wirkliches Thun. absoluten Thun wirklich anzufangen , eigentlich mit der That anfangen (
+
+Um mit dem müßten wir daher wie Faust den Anfang des Johanneiſchen Evangeliums überſeßen will : im Anfange war die That
+
+), weil jenes nur in diesem wirklich ist , aber nicht mit der That als geschehener , ſondern mit der That als wers dender oder auch mit dem Thun als werdenden.
+
+Das absolute
+
+Thun aber , welches nichts weiter thut , als daß es ist, ist auch wirklich nichts weiter als das Seyn. Jedoch soll es auch wirklich zur That und zum Schaffen kommen.
+
+Indem das Denken das absolute Thun als inſiche seyend faßt, und hierin unmittelbar als schlechthin auf sich [p. 242] bezogenes , daher auch von ihm (dem Denken) abgelöſtes , entläßt das Denken dasselbe aus sich , und hiermit ist auch sein Inhalt nicht mehr der bloße Gedanke des absoluten Thuns in ſeiner entwickelten Begriffsbestimmtheit , sondern die Objectivitåt dieses Gedankens. (S. 186.)
+
+,, Indem das vernünftige Denken seinen absoluten Inhalt aus sich entlassen , und sich hierin un mittelbar zum Wiſſen der Idee , oder zum Bewußtseyn Gottes constituirt hat , ist es in ſich selbst zurückgegangen.
+
+Hiermit jedoch ist es nicht bloß Bewußtseyn seines ihm jest objectiven Inhalts , sondern zugleich Bewußtseyn seiner selbst als eines von jenem Inhalt verschiedenen ;
+
+denn die Idee als in sich feyende objectivirend , unterscheidet es zugleich sich selbst von der Idee, und in diesem Unterscheiden unmittelbar ist es sich als ein Anderes denn die Idee gegenwärtig , und so tritt mit dem vernünftigen Wissen der Idee zugleich das Wiſſen eines Undern auf.
+
+Dieses lettere Wissen hat nun zwar in seinem bloßen Auftreten den Vernunft - Charakter noch nicht , denn das Andere stellt sich zunächst nur als ein vorgefundenes dar , und wird daher unmittelbar auch nur in der Form einer Thatsache gewußt, ein Wissen , das sich in dem Sahe : es giebt ein Anderes , als Gott , ausspricht.
+
+Aber in dieser Form kann das vernünftige Denken das sich ihm darbietende Andere nicht laſſen , vielmehr muß es daſſelbe , wie jedes Daſeyende , als ein · gesettes fassen , und hierdurch empfångt es sofort den Impuls zu einer neuen Bewegung , in welcher es das Undere auf das reine Sehen , mithin auf seinen absoluten Inhalt oder auf Gott bezieht.
+
+Der Sat :
+
+es giebt ein Anderes als Gott , erhält hierin unmittelbar den Ausdruck : Gott seht ein Anderes als er selbst." (S. 203.) Dieſer Saß ,, tritt zwar im Denken mit dem Charakter der Nothwendigkeit auf, aber diese Noth wendigkeit betrifft den Inhalt des Satzes gar nicht ; denn das vernünftige Denken findet zwar seinem absoluten Inhalt gegens [p. 243] über sich selbst als ein seyendes , nothwendig seyendes.
+
+keineswegs jedoch als ein
+
+Inwiefern daher hiermit überhaupt ein Anderes denn Gott als seyend gedacht wird , ist es allerdings vernünftiger Weise nothwendig , daß es als von Gott gesezt gefaßt werde ; weil aber dort das Seyn des Undern nicht nothwendig ist , so ist auch das Sehen dieſes Seyns kein nothwendiger Act Gottes , sondern geht auf deſſen absolute Selbstbestimmung zurück , und ist somit freies Sehen. Frei » heit aber hat sich als ein wesentliches Moment in dem specu lativen Gottesbegriff erwiesen , daher ist Gottes Sehen eines Andern die Manifestation seines Wesens , und der Sah : Gott ſeht ein Anderes als er selbst , hat nåher den Ausdruck : offenbart sich selbst außer sich.
+
+Gott
+
+Auf dem Standpunkte der
+
+Freiheit giebt es keinen andern Uebergang von der theologischen Betrachtung zur kosmologischen , oder von Gott zu einem Un dern , als einen solchen , worin die bedingte Nothwendigkeit dieses Undern sich von vorn herein ausspricht.
+
+Gott ist darin der absolut freie , daß aus ihm wesentlich schlechterdings nichts anderes folgt, als er selbst ; ist ein Anderes die wesentliche Folge Gottes , so ist Gott nicht frei , ſondern in abſoluter Natur bestimmtheit, so aber ist er gar kein vernünftiger Gedanke. So wenig aber das Andere aus Gott folgt , so wenig folgt es aus sich , denn dann wäre es selbst das absolut - freie , und so kein Underes als Gott ; es folgt also überhaupt nicht wesentlich irgend woraus , sondern ist für den Verstand ein abſolut seyendes , für die Vernunft aber ein absolut gesettes , und so die freie Aeußerung des in sich absolut freien Gottes .“ ( S. 204 u, 205.) Was zunächst jenen Act des Denkens betrifft , wodurch dasselbe das absolute Thun zur Objectivitåt entläßt , so können wir denselben nicht dafür gelten lassen , wofür ihn Braniß nimmt.
+
+Es soll dieß nåmlich nichts anderes heißen als : „, das
+
+Denken des Begriffs des absoluten Geiſtes iſt in das Wiſſen 16* [p. 244] der Wahrheit dieses Begriffs übergegangen." (S. 187.)
+
+würden diesen Act vielmehr so erklären : Das Denken entläßt den Begriff des abſoluten Geistes , und faßt ihn damit als außer und gegenüber dem Denken und somit als ein endliches beſon= deres Daseyn , wodurch das Denken nicht - in das Wissen der Wahrheit , sondern vielmehr in das Vorstellen und Nichtwiſſen derselben übergegangen ist.
+
+Dieser Geist aber ist nimmermehr ein erfülltes Jenseits , sondern das abstracte Infichseyn , die leere Wesenheit.
+
+Jedoch hat dieß allerdings seine Richtigkeit , daß
+
+Ich im Bewußtseyn dieſes mir nun objectiven Inhalts mich ſelbſt als eines von Gott verſchiedenen Seyns bewußt bin ; ja Ich weiß mich als schlechterdings außer Gott, neben Gott , und bin eben so in mich reflectirt, wie Gott in ſich.
+
+Wenn ich nun auch nicht weiter an der Thatsache zweifle , daß Ich und die Welt wirklich existiren , so kann ich doch nur dadurch dieſes Seyn als nicht nothwendig gesetzt auffaſſen , daß ich mich daran erinnere , wie ich schon von vorn herein das absolute Thun als bloßes Insichſeyn auf den Thron gesezt habe. Indem der abſolute Geist ohne den wirklichen Unterschied in sich schon vollendet ist, fo folgt allerdings nichts Anderes aus ihm , als er ſelbſt — ſein Jenseits ist zu leer , als daß darin auch nur die Möglichkeit eines Undersſeyns gefunden werden könnte.
+
+Da aber das
+
+Andersseyn als Thatsache da ist, so muß trog aller Unmöglich keit und Unbegreiflichkeit doch gesagt werden : dieß Andere iſt ein durch das abſolute Thun_Gesetztes. 11 Wenn aber auch das reine Thun bei seiner Reinheit und Thatlosigkeit und bei ſeiner freien Senseitigkeit bis in Ewigkeit beharren konnte, so hört doch mit der wirklichen That diese Freiheit auf, und wird zur pursten Willkür.
+
+Wir können hier nicht sagen , wie Stahl trok der
+
+Möglichkeit des Nichtschaffens sagte : Das absolute Thun hat aus Liebe die Welt geschaffen ; denn in ihm ist kein Zug zum Andern hin, nur das abstracte Festhalten an sich selbst.
+
+[p. 245] Schaffen ist hier weiter nichts als ein seltsamer Einfall des abſoluten Thuns , der für dieses selbst eben so unbegreiflich seyn muß als für uns .
+
+Die Entscheidung für die Absolutheit der
+
+Freiheit im Gegensatz zur Nothwendigkeit ist hier zugleich die Entscheidung für eine leere Jenseitigkeit und Unbegreiflichkeit. Die Schwierigkeit , welche zu dem Anfange mit dem ‘absoluten Thun veranlaßt , besteht also einfach darin , daß wenn aus Gott irgend etwas Anderes als er selbst wesentlich folgt, seine Freiheit verloren zu gehen scheint , indem dieß Andere dann nicht durch seinen freien Willen gesetzt , sondern schon mit seinem Wesen gegeben wåre.
+
+Es kam also darauf an , die Unendlich keit für sich rein zu erhalten , ohne Unterschied und Beziehung auf die Endlichkeit in sich ; daß etwas Anderes außer dem Absoluten ist, kann dann nur als empirische Thatsache auf genommen werden.
+
+Indem aber durch diese Auffassung das
+
+Absolute zu einem leeren Jenseits wird ; so könnte man jene Schwierigkeit auch dadurch zu lösen versuchen , daß man den reinen Gedankeninhalt , das System des Logischen als bloße Form betrachtete und als nothwendiges prius von dem freien posterius abtrennte.
+
+Wenn es sich dabei ganz von_ſelbſt_ver= steht , daß aus dieser leeren Form , aus diesem rein Rationalen kein immanenter Uebergang in das Seyn möglich ist , so ist es eben dieſe Unmöglichkeit , worauf es ankommt ; denn durch ſie wird die Wirklichkeit von der logiſchen wesentlichen Nothwendig keit frei.
+
+Dieß finden wir bei Weiße.
+
+Die Metaphysik ist das System des Nothwendigen , d . i. nicht nichtſeyn und nicht andersseyn Könnenden , wogegen der Inhalt ein freier , das ist auch nichtſeyn auch andersseyn könnender ist.
+
+Jenes
+
+Nothwendige ist zugleich das Nichtige, nicht für sich , sondern nur im Andern seyende , und der Inhalt dagegen das Wirkliche. Hier treffen wir zunächst auf die Schwierigkeit , daß wenn die Form nicht nichtseyn kann , ebenfalls der Inhalt seyn muß ;
+
+[p. 246] STEVEAND denn die Form deutet nothwendig auf den Inhalt , und wenn auch mit der Form der Inhalt selbst nicht erkannt ist , so ist wenigstens so viel gewiß , daß der Inhalt nothwendig ist , weil die Form als nicht nichtseyn könnend nur ist in dem Inhalte. Weiße berührt selbst diese Schwierigkeit ( Einleitung S. 54. ), und bemerkt, daß die Wiſſenſchaft Ernst mache mit der Vor stellung von der Leere jener Formbeſtimmungen , die von dieſen so lange zu prådiciren sey , als sie noch durch keinen Inhalt erfüllt wåren.
+
+„ Das Nichtnichtſeynkönnen der Form , die als immanente gefaßt wird , hat also philosophisch nur die Bedeutung einer Unentbehrlichkeit der Form für jeden denkbaren Inhalt; einer schlechthin nothwendigen Bestimmtheit oder Beschaffenheit nicht dieser oder jener , sondern jeder möglichen Wirklichkeit." Wir dürfen es also mit den Ausdrücken des Nichtnichtseyn:
+
+könnens u. s. w. so genau nicht nehmen .
+
+Nicht das Leere ſind die Kategorien ohne Inhalt , sondern sie sind überhaupt nicht; wir können sie wohl für sich denken , und dann haben wir sie als leer zu faffen , aber für sich sind sie nicht eigentlich nicht nichtſeynkönnend , vielmehr geradezu nicht sey end.
+
+Also ihre Nothwendigkeit besteht zunächſt nur darin , daß wenn ein Inhalt ist, die Kategorien nothwendig auch sind und nicht anders seyn können . Die Metaphysik schließt nun mit der Kategorie der Freiheit , welche wesentlich einerseits in der Freiheit von aller äußern Bestimmbarkeit und andererseits in dem Selbstbestimmen bestehen soll.
+
+Weiter aber ergiebt sich die Vernunft als das
+
+Wiſſen der Kategorien als ihres wesentlichen Inhalts ; sie ist selbst Form und unterscheidet sich von den Kategorien als ihrem Inhalt durch die Form des Für sichseyns.
+
+Hiermit wåren wir in der Metaphysik selbst zu einem concreten Gedanken gelangt , welcher Form und Inhalt an sich selbst ist.
+
+nun Weiße Hegel so versteht , daß nach ihm nicht der absolute
+
+[p. 247] Geist die höchste absolute Wirklichkeit seyn soll , sondern vielmehr nur die Kategorie , oder die absolute Wissenschaft der Logik , die reine Idee im abstracten Elemente des Gedankens , so führt Weiße am Schluſſe der Metaphysik den Beweis , daß „ das absolute Selbstbewußtseyn der Vernunft , welches jener negative Standpunkt (Hegels) erſt zum Endziel des Weltenlebens in Geſtalt der absoluten Wiſſenſchaft macht , vielmehr umgekehrt als Geist und freier Wille , die absolute Voraussetzung alles Weltenlebens ist."
+
+Dieser Beweis beſteht darin , daß die Vernunft als Für sichseyn sich von dem Inhalte als den Kategorien unterſcheide, und damit erst specificirend werde ; ohne Fürsichseyn keine Specification und 1 ohne dieſe kein Besonderes und Einzelnes. Die absolute Vernunft ist so freie schöpferische Thätigkeit, und wir werden so durch den Schluß der Weißeschen Metaphysik in den Anfang der Metaphysik von Braniß verſeht. Allein jene freie schöpferische Thätigkeit ſoll fürerst nur innerhalb ihrer selbst die Specification ſehen , und ist außerdem nur Kategorie , leere Form ,,,deren Nichterfüllung - freilich unter der ungeheuren ga Vorausseßung , daß es überhaupt nichts Wirkliches giebt von der Metaphyſik als solcher noch immer als möglich gesezt bleibt."
+
+Gott ist nicht Kategorie und auch nicht " wie die alte
+
+Ontologie ihn dazu machte, das ſchlechthin nothwendige Weſen ; “ sondern er ist vielmehr die freie That ſeiner selbst.
+
+Wollten wir die früher gegebenen Bestimmungen anwenden , so müßten wir , um Gott als frei zu faſſen , ſagen : Goft kann auch nicht seyn.
+
+Halten wir diesen Ausdruck ſeiner einfachen
+
+Bedeutung nach fest, so werden wir an Kants Kritik der reinen Vernunft erinnert , wo es heißt: " Man kann sich des Gedankens nicht erwehren , man kann ihn aber auch nicht ertragen , daß ein Wesen , welches wir uns auch als das höchſte unter allen möglichen vorstellen , gleichsam zu sich ſelbſt ſage : Ich bin von Ewigkeit zu Ewigkeit , außer mir ist nichts , ohne daß, was bloß durch meinen Willen etwas ist ; denn ? "
+
+Mit jenem Ausdrucke aber woher bin ich des Nichtseynkönnens wir es also wieder so genau nicht nehmen.
+
+dürfen
+
+Gott ist als freie
+
+That seiner selbst Wirklichkeit , und die Freiheit Gottes hat im Verhältniß zur Nothwendigkeit der Kategorien zunächſt eben nur die Bedeutung , daß Gott nicht leere Form, sondern an und für sich wirklicher Inhalt ist ; daß Gott als freie That ſeiner selbst , diese That etwa auch håtte nicht vollbringen können, und somit auch nicht seyn könnte , soll durchaus nicht behauptet werden, und wir könnten sonach Gott immerhin das noth wendige Wesen nennen , wenn wir nur jenen Unterschied der Kategorien von der Wirklichkeit nicht außer Acht laſſen. Nåhere Bestimmungen über das Wesen der göttlichen Freiheit und ihr Verhältniß zur kreatürlichen giebt Weiße in der Ubhand lung : Die Idee der Gottheit. ( Dresden 1833.)
+
+Hier heißt es, daß "I wir das Verhalten Gottes in der Weltschöpfung nur dann ein freies nennen können , wenn es uns Gott als eine , nicht außer, ſondern in der Zeit ausdrücklich ſehend und nur in dieſem Sehen aufhebend oder erfüllend den zeitlichen Gegensatz der
+
+Vergangenheit und Zukunft , schauende und sinnende , berathende und beschließende Wesenheit zu denken vergönnt ist.“ (S. 301.) Die Schwierigkeit , welche sich dem Begriffe dieser teleologiſchen Schöpferthätigkeit Gottes entgegengestellt , habe vorzugsweiſe darin bestanden , " einen Inhalt für die göttliche Erkenntniß zu finden , der vor der Weltschöpfung ſchon vorhanden geweſen, einen solchen , deſſen Beschaffenheit Gott nicht nur zum Schaffen derselben überhaupt , sondern auch zur Wahl einer bestimmten Beschaffenheit des zu Schaffenden , im Gegensahe anderer Be ſchaffenheiten, vermocht haben könne.“ „ Jene göttliche Erkenntniß ist die Selbsterkenntniß Gottes im weitesten Umfange , die Er kenntniß des Sohnes durch den Vater , des Vaters durch den Sohn, und beider durch den Geist.
+
+In ihr ist das , was jener [p. 249] speculative Deismus ( Leibniz's ) die Erkenntniß der ewigen
+
+Wahrheiten nannte , das Wiſſen und die reine metaphyſiſche Nothwendigkeit und Gesetzmäßigkeit alles Möglichen , als ein wesentliches Moment enthalten : aber jene Erkenntniß ist um so vieles reicher denn dieses Wiſſen , als die göttliche Wirklichkeit reicher denn ihre abſtracte Baſis , die metaphyſiſche Nothwendig. keit ist.
+
+In der Wirklichkeit Gottes , wie diese der Welt nicht nur dem Begriffe , sondern der Zeit nach vorangeht , ist die Gesammtheit aller weltlichen Geschöpfe schon vor ihrem kreatúr lichen Daseyn vorhanden und gegenwärtig , aufgehoben freilich und verklärt durch den göttlichen Begriff, in welchem jede derz selben als inwohnendes Moment seines eigenen , oder als Möglichkeit eines andern Daseyns, durch die Almacht des vollkommen selbst bewußten und allen Inhalt des göttlichen Seyns mit dem Strahle
+
+Selbstbewußtseyns durchdringenden , göttlichen
+
+Willens abwechselnd an den Tag des Schauens emporgeho den, oder in die Nacht des bloßen Wissens zurückgesenkt
+
+Aus diesem Schauen seiner selbst geht in Gott der Ents schluß zur Entäußerung seiner selbst hervor : ein Entschluß , von dem man keck behaupten darf, daß die göttliche Weisheit ihn aus der selbstbewußten Gegenüberstellung des Möglichen und des Wirklichen in Gott geschöpft hat , und aus der Einsicht, daß in jenem annoch ein Mehres , als in diesem , enthalten sey." Hier liegt nun der Einwand nahe : " wenn das Seyn Gottes einer Schöpfung gegenüber , und in dieser Schöpfung , ein voll kommneres ist , als sein Seyn ohne eine Schöpfung : ist es nicht Gottes unwürdig , das heißt , seinem Begriffe widersprechend, eine Zeit als verflossen vor seinem Entſchluſſe zur Schöpfung anzunehmen , eine Zeit also , da Gott noch nicht der vollkommene war , der er seitdem durch dieſen ſeinen Entschluß geworden ist ?“ Diese Schwierigkeit wird dadurch gehoben , daß der Entschluß Gottes , die Welt zu schaffen, ewig , das wirkliche Hervorgehen [p. 250] des Geschöpfes aber ein zeitliches , durch die freie Actualität des
+
+Geschöpfes selbst vermitteltes ist ; und es ist daher zugleich uns statthaft,,, durch das wirkliche Hervorgehen der Schöpfung, oder auch durch den teleologiſchen Proceß innerhalb der Schöpfung, einen Zuwachs von Realitåt in Gott felbst erfolgend zu denken." - Ohne uns hier auf die weitere Beschreibung der Schöpfung einzulaſſen , erhellt ganz von selbst, daß jene Aus brücke des auch nichtseyn und auch andersseyn Könnens , durch welche das innerste Wesen der Freiheit angegeben seyn soll (Metaphysik S. 6.) , nicht nur nicht in dem zunächst liegenden Sinne genommen werden dürfen , sondern daß sie auf Gott bezogen alle und jede Bedeutung verlieren.
+
+Gott als freie That seiner selbst doch nicht nichtseyn kann , so ist die Möglichkeit , daß er auch nicht schaffe , eine ganz leere Möglichkeit ; denn Gott ist seinem unwandelbaren innersten
+
+Wesen nach schöpferische Thätigkeit , und sollte er auch den Entschluß zu schaffen aus einem selbstbewußten Gegenüberstellen des Möglichen und Wirklichen geschöpft haben , so ist doch die Einsicht, daß in diesem annoch ein Mehres als in jenem ist, ſo einfach , daß wir die Ungewißheit hierin kaum einem Menschen kinde verzeihen möchten . Freilich soll Gott auch ohne Schöpfung ſeyn können und sogar gewesen seyn ; allein der Wille zu schaffen , der ewig in Gott ist , soll so viel wie die That gelten, und daß mit dem Willen Gottes zu schaffen die Schöpfung nicht sogleich entsteht , liegt nicht an Gott , ſondern an der „, aus dem Wesen ihres Schöpfers wie aus einer Baſis sich heraus arbeitenden Kreatur."
+
+Also die Freiheit Gottes hat einzig und allein nur die Bedeutung , daß er im Verhältniß zur`metaphy fischen Kategorie , die nichts ist , abſolute lebendige Wirklichkeit ist, daß er nicht metaphysische Nothwendigkeit , sondern freie Nothwendigkeit ist , d . h. Wille und selbstbewußte Persönlichkeit. Allerdings läßt die rein metaphyſiſche Erkenntniß noch mancherlei
+
+[p. 251] Möglichkeiten zu :
+
+die Kategorie www der schöpferischen Thätigkeit schließt die Möglichkeit von Eigenschaften nicht aus , die mit den Eigenschaften des wahren Gottes unverträglich , ja direct ihnen entgengesett sind " (Metaph. S. 563.) ; damit aber soll nicht gesagt seyn , daß Gott diese mit seinem Wesen unvertråg lichen Eigenschaften etwa auch haben könnte , sondern diese
+
+Möglichkeit ist nur unsere subjective Untüchtigkeit , welche der religiösen Erfahrung bedarf. Was ferner die kreatürliche Freiheit anbetrifft , so soll die Zufälligkeit und Willkür wesentliches Moment derselben seyn. ,,Die Unterscheidung der concreten Wirklichkeit von ihrem Begriffe kann auf keine andere Weise erfolgen , als dadurch, daß jenes Moment der Zufälligkeit aller in einem Gattungsbegriffe enthaltenen Einzelwesen , statt , wie bisher , für die äußerliche, schlechte Verneinung , vielmehr für die ausdrückliche Erscheinung jener immanenten dialektischen Negativität erkannt wird , durch welche das Naturgeschöpf und das geistige Indivi buum sich von der Allgemeinheit des Begriffs und seiner starren, leben : und seelenlosen Nothwendigkeit losreißt , und diesen Be griff zum Momente seiner selbst wodurch es eben ein freies wird , verarbeitet." (Idee der Gottheit. S. 289.)
+
+So ist denn die Freiheit nicht bloß ein ausschließendes Eigenthum der ſelbſt bewußten Kreatur , sondern , alles und jedes concrete Daseyn ist inſofern frei zu nennen , als es durch einen natürlichen Her gang , welcher dem dialektischen entspricht , aus anderem - in Bezug auf jenes als unmittelbares oder reflectirtes erscheinendem
+
+Daseyn hervorgegangen , und solches in sich aufgenommen hat." (S. 285. )
+
+Hiernach wird es Stufen der
+
+Freiheit geben ,,, deren Maaß kein anderes ist , als die Menge und das Gewicht der , jedem einzelnen Geschöpfe vorausgeseßten und in ihn aufgehobenen, Momente oder Inhaltsbestimmungen,--von denen viele für sich wiederum als selbstständige und freie
+
+[p. 252] Naturdinge seyn können.“ (S. 285.) -
+
+Es mag immerhin erlaubt seyn , den Stufengang der Natur , wodurch fie vom niedrigsten Daseyn zum menschlichen Organismus fortschreitet, als Stufen der Freiheit zu bezeichnen ; wenn nur dabei nicht´ vergessen wird , daß der Unterschied der selbstbewußten Freiheit von jener bewußtloſen der Naturdinge , ein wesentlicher , bloß , wie z. B. bei Leibnitz , ein bloß quantitativer ist.
+
+Auf die Bestimmtheit dieses Unterschiedes kommt Alles an.
+
+die wenn gleich bewußtlose Freiheit aber sollen sich die einzelnen Naturdinge über die Nothwendigkeit des metaphyſiſchen Begriffs erheben , und diese Erhebung in dem Momente der Zufälligkeit und der Möglichkeit des Andersseyns bestehen.
+
+Die einzelne
+
+Pflanze z . B. ist ein freies Wesen , und freier als der Stein, weil sie im Stufengange der Natur höher steht , als dieser.
+
+Wenn gleich sie aber nicht auch Stein und auch Thier , und, wenn sie eine Nelke ist, eine Rose seyn kann , so ist sie doch für sich ein selbstständiges , Ding.
+
+sich aus dem Keim entfaltendes
+
+In dieser Entfaltung kann sie groß werden oder auch nicht, kann ihre Blåtter auf dieſe und auf jene Weiſe ausbreiten ; und wenn ſie dem Begriffe nach Pflanze und zwar eine beſtimmte Art dieser Gattung ist, so ist sie doch als einzelnes Ding nicht nur durch den Begriff beſtimmt , sondern frei von ihm : und darin eben besteht ihre Erhebung über den Begriff und feine metaphysische Nothwendigkeit.
+
+Damit aber kann durchaus nicht gesagt werden , daß die Pflanze etwa in der Wirklichkeit auch hätte anders werden können , als sie geworden ist ; dann håtte schon ihr Keim anders seyn müſſen , und ihre Umgebung, sie håtte anders behandelt und gepflegt werden müſſen u. s. w. Deſſen ungeachtet aber ist die Pflanze als diese einzelne verschieden vom Begriff und mehr als der bloße metaphy fische Begriff, weil dieser nur leere Form ist.
+
+Wodurch sie sich über den Begriff erhebt , ist ihre wirkliche räumliche und [p. 253] zeitliche Existenz , während der bloß metaphysische Begriff nur Gedanke ist ; und mit dieſer ſinnlichen Existenz ſind zugleich die verschiedenen
+
+Möglichkeiten der Höhe, der Niedrigkeit , des
+
+Grünen , des Rothen u. s. w. gegeben.
+
+Daß die einzelne
+
+Pflanze auch anders werden konnte , ist dabei etwas ganz gleich gültiges ;
+
+die Hauptsache ist , daß sie wirklich etwas factisches geworden ist.
+
+Die Erhebung der einzelnen Pflanze über den
+
+Begriff besteht nicht in dem Auchandersseynkönnen ( denn als diese einzelne konnte sie gar nicht auch anders ſeyn) , ſondern vielmehr in dem Etwasſeyn , nicht in ihrer Möglichkeit , ſondern in ihrer Wirklichkeit , welche das Andersseynkönnen factiſch aus ſchließt.
+
+Hålt man den Begriff für eine leere Form , so ist es fehr natürlich , das Einzelne für das Wirkliche und ſein Daſeyn als eine Erhebung über den Begriff aufzufaffen.
+
+Allein über jene leere Allgemeinheit erhebt sich das Einzelne nicht durch sein Andersſeynkönnen , sondern nur durch sein Undersſeyn oder ſein bestimmtes Daseyn überhaupt.
+
+Was man aber eigentlich meint mit der Möglichkeit des Andersseyns als einer Erhebung über die metaphysische Produktivität.
+
+Nothwendigkeit , ist einzig und allein die
+
+Produktiv aber und sich selbst gestaltend iſt das Einzelne nur dadurch , daß es in seinem unmittelbaren
+
+Daseyn das Allgemeine nicht außer sich, sondern in sich selbst hat ; oder das Einzelne erhebt sich nur dadurch über den Begriff, daß der Begriff selbst nicht bloß das Allgemeine , sondern viel mehr die Aufhebung deſſelben und damit zugleich das Einzelne
+
+Also auch in Bezug auf die Freiheit natürlichen
+
+Scyns leidet der Ausdruck des Auchandersseynkönnens schlechter dings keine Anwendung , und soll auch eigentlich weiter nichts bedeuten , als daß selbst das natürliche einzelne Ding gegen die leere Form des Begriffs schon etwas Wirkliches ist. Wenn sich also Weiße rühmt , das Hegelsche System der Nothwendigkeit mit der Freiheit , wie dieſe von einigen Schülern
+
+[p. 254] Schellings einseitig der Nothwendigkeit gegenüber festgehalten wird , zu einer höhern Einheit oder zum Systeme der Freiheit versöhnt zu haben , so besteht diese Versöhnung darin , daß zu nächst die dialectische Methode aufgenommen wird , und durch diese das System der Metaphysik als der Inbegriff des Noth wendigen entwickelt ; dagegen aber der wirkliche Inhalt als ein auch nichtseyn und auch andersseyn könnender gefaßt , jedoch auch auf ihn die wissenschaftliche Form der Dialektik , wenn gleich modificirt ausgedehnt wird.
+
+Halten wir die Bedeutung der Worte des Auchandersseynkönnens u. f. w. , welche zur Des zeichnung des Wesens der Nothwendigkeit und Freiheit gebraucht werden , fest - so ist1 eine Vermittelung zwiſchen beiden ſchlech terdings unmöglich.
+
+Allein das Nothwendige ist die dem freien
+
+Inhalte immanente Form ; jedoch erschöpft sie diesen nicht , sondern es erwächst ein Ueberschuß des Inhalts über die Form, des Seyns über das Denken.
+
+Dieser wirkliche Inhalt wird nicht durch die dialectische Form erzeugt , sondern muß als Thatsache empirisch aufgenommen werden.
+
+Gottes Freiheit be
+
+ſteht in dem lebendigen Gegenſaße gegen die Nothwendigkeit der metaphysischen Form , und nicht eigentlich in dem Auch nichtſeyn- und Auchandersseynkönnen , sondern vielmehr darin , daß er beides durch seinen Willen aufhebt : er will ſeyn und will , daß auch Anderes sey.
+
+Die Welt aber ist frei dadurch, daß ſie ſelbſt ſchöpferisch ist ; sie ist zugleich durch ihre eigne That aus Gott hervorgegangen , und producirt sich fortwährend selbst; also auch die Freiheit der Welt besteht nicht in dem Auchnichtseyn-
+
+Auchandersseynkönnen vielmehr ihre Unfreiheit) , ( darin bestånde in ihrem Durchsich felbstseyn. Wenn Stahl die dialektische Methode schlechthin verwirft , so thut er dieß vorzugsweise aus dem Grunde , weil sie von vornherein alle Freiheit bis auf den innersten Kern vernichte.
+
+[p. 255] Denn wenn die dialectische Erkenntniß die Möglichkeit des Andersseyns logisch ausschließt , ſo ſchließt dagegen die Freiheit, wenn sie , wie sie es soll , ohne Willkür mit der Nothwendigkeit sich vereint , das Ündersſeyn doch nie logisch, sondern nur durch den Willen und die That aus.
+
+Diese freie That widersetzt sich daher jeder dialektischen Erkenntniß , und kann nur als Thatsache durch die Anschauung aufgenommen
+
+Die Welt als die freie That Gottes betrachten , ist eben Philosophie , und jene Anschauung ist nicht das sinnliche Sehen mit den leiblichen Augen , sondern geistige intellectuelle Anschauung, welche über das sinnliche Ding hinwegsieht und sich in dem Besitze der Idee , des Urbildes der Dinge weiß, ,,wie diefes in Gott ist , nach welchem er das bestimmte We sen schuf, aus dessen Anschauung in Gott es also hervor ging , deſſen Gepråge es an sich trägt. " ( Stahl Rechtsphilof. II. , S. 41 ).
+
+Darauf aber beruht alle systematische Erkenntniß, daß Gott sich seiner Werke bewußt ist von Ewigkeit her , daß also nichts zufällig und willkürlich , sondern Alles frei und plans voll geschaffen ist.
+
+Der Beruf der Philoſophie ist es , über die ganze Geschichte und Schöpfung zurückzugehen , um sie von ihren lebendigen Ursachen aus , nämlich aus Gott und dem ersten Handeln des Menschen zu begreifen ; nicht aber von ihnen zu abstrahiren , um sie aus den allgemeinen Denkgeſehen wieder zu finden.
+
+Darum gehört auch zur Philosophie nicht nur Vers stand und Vernunft , sondern die besondere Gabe, sich über die ganze Beschaffenheit des gefallenen Zus standes zu erheben , und als Vorbedingung die Wiedergeburt , ohne die ja selbst die Nothwendigkeit dieser Erhebung gar nicht erkannt werden kann. " ( Ebendas. S. 39. )
+
+Bei so bewandten Umständen möchte man wirklich anstehen , dieſem göttlichen Schauen irgend einen Vorwurf zu machen , um sich nicht den Unschein eines nicht
+
+Wiedergebornen zu geben.
+
+Wollte man aber diese Beschuldigung einmal über sich ergehen lassen , so würde man vor Allem den Vorwurf aussprechen müssen , daß dieß göttliche Schauen neben mancher hohen Wahrheit sich zugleich der ungemessensten Willkür überläßt , daß es sehr menschlich construirt schematiſirt, und für die Bestimmung und Löſung der tiefsten und schwierigsten Probleme die niedrigsten und unbedeutendsten Kategorien benut.
+
+Oder man würde den Philosophen Hegel für sich sprechen laſſen.
+
+„ Noch weniger muß diese Genügsam keit , die auf die Wiſſenſchaft Verzicht thut , darauf Anspruch machen, daß solche Begeisterung und Trübheit etwas höheres sey , als die Wissenschaft.
+
+Dieses prophetische Reden meint recht im Mittelpunkte und der Tiefe zu bleiben , blickt verächtlich auf die Bestimmtheit ( den Horos ) und hält sich absichtlich von fernt , als von der Reflexion , hause.
+
+Wie es aber eine leere Breite giebt , so auch eine leere
+
+Tiefe; -
+
+Begriffe und der Nothwendigkeit ents die nur der Endlichkeit eine Extension der Substanz , die sich in endliche
+
+Mannigfaltigkeit ergießt , ohne Kraft ſie zusammenzuhalten , so eine gehaltlose Intensitåt, welche als lautere Kraft ohne Aus breitung sich haltend , daſſelbe iſt, als die Oberflächlichkeit.
+
+Kraft des Geistes ist nur so groß als ihre Aeußerung , seine Tiefe nur so tief, als er in seiner Auslegung sich auszubreiten und sich zu verlieren getraut.
+
+Zugleich wenn dieß begrifflose substantielle - Wissen die Eigenheit des Selbst in dem Wesen versenkt und wahr und heilig zu philosophiren vorgiebt , so vers birgt es sich dieß, daß es statt dem Gotte ergeben zu seyn, durch die Verschmåhung des Maaßes und der Beſtimmung vielmehr nur bald in sich selbst die Zufälligkeit des Inhalts, bald in ihm die eigene Willkür gewähren läßt.
+
+Indem sie
+
+ſich dem ungebåndigten Gåhren der Substanz überlaſſen , meinen fie durch die Einhüllung des Selbstbewußtſeyns und durch Auf [p. 257] geben des Verstandes , die Seinen zu seyn , denen Gott die Weisheit im Schlafe giebt ; was sie so in der That im Schlafe empfangen und gebåhren , sind darum auch Traume." Weiße erhebt sich entschieden über diesen Standpunkt durch die Kritik der reinen Gedankenbeſtimmungen. Indem die Meta physik die Wissenschaft des Nothwendigen ist , ist also nicht Alles auf die freie That Gottes zurückzuführen , sondern es giebt einen Inhalt , von welchem die Möglichkeit des Andersseyns nicht bloß factisch, sondern logisch ausgeschlossen ist.
+
+Dieser Inhalt ist aber zugleich das an und für sich Nichtige , wogegen das Wirkliche ebenfalls nur als Thatsache aufgenommen werden kann ,` indem eine dialektische Erzeugung daſſelbe nicht als frei , ſondern als metaphysisch nothwendig erscheinen lassen würde.
+
+Es wird hier also durchaus nicht nur behauptet , daß alle Erkenntniß von der Erfahrung ausgeht und dieſer fortwährend und durch gehend bedarf, sondern vielmehr , daß alles Wirkliche nur er fahren werden kann ; es handelt sich nicht um die Endlichkeit unsrer Erkenntniß , ſondern um die Freiheit des objectiv Wirklichen.
+
+Wie die dialektische Methode auf die Erkenntniß dieses freien Inhalt angewandt nothwendig zu einem leeren Formalis mus werden muß , haben wir schon früher auseinander gesetzt. Jedoch abgesehen hiervon , so befindet sich im Angesichte dieses
+
+: freien Wirklichen das Denken , auch in der Form der intellec tuellen Anschauung , ohne Zweifel in einer sehr übeln Lage. Dieß will nämlich schlechterdings bei der einfachen Thatsache nicht ſtehen bleiben , ſondern dieſelbe ergründen.
+
+Gott ist zunächſt als Thatsache des Bewußtseyns wohl eine bekannte Vorstellung, aber feinem Wesen nach nicht erkannt ; und sagen wir nur, daß Gott ist, so sagen wir das aller Dürftigste, das Seyn , von ihm aus. Mit jeder weiteren Bestimmung aber, die wir dem Seyn hinzufügen, schränken wir die Algemeinheit desselben zugleich ein, und schließen logisch die Möglichkeit eines Undersſeyns aus .
+
+[p. 258] Sagen wir : Gott ist wesentlich schöpferische Wahl , ſo ſchlie ßen wir das Nichtschaffen als Unwesen von ihm aus , und wir müſſen nothwendig behaupten : Gott thut nicht gegen sein unwan delbares Wesen , sondern schafft. Finden wir irgend ein Geſeß der Natur vor und suchen es zu erkennen , seine Bedeutung , ſein Ver. hältniß und seine Stellung, die es im Ganzen einnimmt , so wird uns, indem wir es als abſolut vernünftig einſchen, das Andersſeyn undenkbar. Sollte nun die Natur auch auf andere Weise seyn können, und sollte auch diese Welt nicht nothwendig die beſte ſeyn, weil dieß nicht allein von Gott abhängt , sondern von der sich selbst schaffenden Kreatur , ( Weiße Idee der Gottheit , G. 302 ) fo würde die Einsicht in die Vernunft dieser Welt uns doch zu dem Glauben führen , daß es der Welt geglückt sey , sich dem Willen Gottes gemäß zu schaffen ; oder fånden wir Mancherlei, was dem Willen Gottes nicht zu entsprechen ſchiene, so würden wir sicherlich in dem Vertrauen , daß wir nicht Knechte sind, die nicht wissen was der Herr thut , zu erkennen bemüht ſeyn , wie die Welt seyn sollte , wenn sie das Reich Gottes wåre ; könnten wir auch nicht die Macht und Weisheit des Schöpfers in in ihr anschauen und erkennen , so würde der Geist sich doch über diese schlechte Welt hinaus zur Idee der Welt erheben , wie sie in Gott war , ehe die Welt sich selbst schuf.
+
+Im
+
+Verhältniß zur freien Wirklichkeit ſcheinen daher Anschauung oder Erfahrung und dialektische Erkenntniß a priori , nur for melle Unterschiede zu seyn , und die Gewißheit der Unſchau ung über das Wesen der Wirklichkeit die Freiheit derselben eben sosehr aufzuheben als die dialektische Methode. Wesen Gottes als die
+
+Wenn ich das schöpferische Wahl bezeichne , so scheint es sehr gleichgültig , ob ich dieß unmittelbar als Thatsache auf nehme , oder a priori dialektisch begreife ; denn ich nehme als Thatsache eben dieß auf , daß Gott nicht nicht schöpferische
+
+Wahl seyn kann , und das Nichtseynkönnen der schöpferischen
+
+[p. 259] Wahl nenne ich nicht Gott.
+
+Liegt es im Wesen Gottes , daß er aus Freiheit schafft , so ist nicht abzusehen , warum das dialektische Begreifen dieses Wesens die Freiheit aufheben sollte , indem dieß Wesen logisch eben als dasjenige erkannt würde , welches , was es ausschließt, factiſch ausschließt. Um die Wirklich keit als frei aufzufaſſen, würde alſo die denkende Anschauung und Erfahrung durchaus nicht ausreichen , sondern einzig und allein - der Zweifel und die Ungewißheit. Die Anschauung darf nicht bloß Organ seyn , durch welche ich die Thatsache auf nehme, sondern ich muß über das Wesen dieſer Thatsache nie zur
+
+Gewißheit kommen : so daß also meine Ungewißheit dem Auchandersseynkönnen der Wirklichkeit korrespondirt.
+
+Oder aber ich darf die Anschauung keine intellektuelle ſeyn laſſen , welche die Dinge in der Idee anschaut , wo sie sind wie ſie ſeyn sollen sondern ich muß und nicht anders seyn können als sie ſind bei der finnlichen Anschauung stehen bleiben , welche von der Thatsache das bloße Seyn aussagt und weiter nichts über das Wesen gesagt haben will.
+
+Ich muß mich dabei begnügen , ein:
+
+, Gott wollte in seiner Offenbarung einen fach zu erzählen : „ Stufengang ," (Stahl I. , 2. S. 49) und in dieſem Stufengange keinen Zweck, keine Weisheit , keine Vernunft suchen , indem ich mit der Einsicht und Gewißheit , daß Gott Alles herrlich einges richtet , sogleich die Möglichkeit des Andersſeyns aufheben würde. Ich muß überhaupt nichts erkennen wollen , und nur sehen , fühlen, schmecken u. f. w . -
+
+Dann erst halte ich alle logische
+
+Nothwendigkeit von dem gesehenen , gefühlten freien Inhalte ab.
+
+Es ist also ein einfacher Unterschied zu machen.
+
+Sage ich, daß der erkannte Inhalt nicht nicht ist, und nicht anders seyn kann als er ist, so bezeichnet dieß zunächst nur meine Gewißheit von der Wahrheit der Erkenntniß.
+
+Damit schließe ich also aus dem Inhalte nur die Unwahrheit und den Irrthum aus ; und lasse ich hier die Möglichkeit des Andersseyns zu , so 17 * [p. 260] spreche ich damit nur meine Ungewißheit über die Wahrheit meiner Erkenntniß aus.
+
+Wenn Weiße meint , daß kein unters richteter Anhänger Hegels das Mindeste dagegen einwenden würde, wenn man Wahrheit und Nothwendigkeit als schlechthin correlate und von einander unzertrennliche Begriffe behandeln wollte , ( Metaphyſ. S. 5 ) ſo hat dieß seine vollkommene Richtigkeit.
+
+Våre die Wahrheit oder vielmehr die Erkenntniß der selben anders als sie ist , so bliebe sie nicht Wahrheit ; in diesem Sinne wird sich jedes philosophische System ein System der Nothwendigkeit nennen , und Weiße würde es sicherlich übel vermerken , wenn man sein System in der Bedeutung ein System der Freiheit nennen wollte, daß es selbst auch nicht seyn und auch anders seyn könnte. In diesem Sinne ist also die Nothwendigkeit allgemeines Prådicat der ganzen Philosophie , und kommt allen Bestimmungen mit gleichem Rechte zu.
+
+Weiter aber fragt es sich, wie nun der Inhalt an sich beschaffen ist , welchen das philoſophiſche Syſtem für die Wahrheit anerkennt.
+
+Spricht daſſelbe die abſolute Substanz für alle Wahrheit und Wirklichkeit aus , wie z.
+
+B. Spinoza , so geht es über die Nothwendigkeit nicht zum Begriffe der Freiheit fort.
+
+Wenn dieß abſolute Wesen nicht nichtſeyn und nicht anders ſeyn kann , so ist doch das Andere nur von ihm ausgeschlossen , ohne daß dieß Wesen für sich ausschließend und selbstbestimmend wäre.
+
+Wird aber das Subject als die
+
+? absolute Wahrheit aufgefaßt , ſo iſt das Absolute wesentlich frei d. h. Alles was es von sich ausschließt , ſchließt es factiſch, als Subject oder durch die That aus. Wenn nun Stahl alle Wirklichkeit auf den freien Schd pferwillen Gottes zurückführt , ſo thut er hieran , abgesehen von dem mangelhaften Begriff der Freiheit , ganz recht : bei Weiße aber fällt durch die Trennung der nothwendigen Form von dem freien Inhalte Freiheit und Nothwendigkeit , wie Speculation [p. 261] und Empirie unversöhnt aus einander.
+
+Wenn nämlich das mes taphysisch Nothwendige von der Erkenntniß des freien Inhalts getrennt wird , so hat dieß die Bedeutung , daß das Wirkliche. im Gegensaße zur Kategorie ein Lebendiges ist und die Mög= lichkeit des Andersseyns durch eigne That von sich ausschließt ; und daß ferner dieses freie Wirkliche eben wegen seiner Freiheit nicht a priori , sondern nur durch die Erfahrung erkannt wird. Die intellectuelle Anschauung nun will das Wesen erkennen , als Erfahrung unmittelbar Speculation seyn ; und eben in dieſer Unmittelbarkeit liegt ihr Mangel.
+
+Das Wirkliche ist nicht ein positiv unmittelbares, und indem die intellectuelle Anschauung das Wirkliche doch unmittelbar erkennen will , ist sie eine „ beſondere Gabe“ , die Genialität , die für sich es weder zur wahr haft systematischen Erkenntniß bringt , noch die Subjectivität der Willkür abzuhalten im Stande ist.
+
+Wenn nun die intellectuelle
+
+Anschauung nur dadurch den Inhalt zu einem wirklich freien und lebendigen macht , daß ſie in das Wesen deſſelben als seinen Kern eindringt, so darf jene Erfahrung , welche nicht unmittelbar Speculation ist , sondern einem nothwendigen prius nach folgt, von dem freien Inhalte schlechterdings die Willkür nicht ausschließen , ( wie sie z . B. Stahl ausgeschlossen wiſſen will ) , und darf in die freie Wirklichkeit keine andere Nothwen digkeit hineinbringen , als nur die metaphyſiſche ; innerhalb dieser Grenzen herrscht im Freien nur die Willkür und das Belieben , so daß z. B. Gott im einfachen Sinne eben so gut auch schaffen kann als auch nicht d . h. daß Gott total zwecklos und zufällig geschaffen hat.
+
+Denn was bei der intellectuellen
+
+Anschauung das Intellectuelle ist , ist in der dem prius nachfolgen den Erfahrung nur die dialektische Form ; jene Anschauung und Erfahrung ist Princip und unmittelbar wissend , diese Erfah= rung ist die vom Speculativen und dem prius getrennte, das rein sinnliche Sehen ; die intellectuelle Anschauung schaut den
+
+[p. 262] Zweck und hebt dadurch die Willkür auf, jene Erfahrung sieht das Seyn , und hat nichts weiter als die dialektische Form, was sie zum Seyn hinzufügen könnte , um seine Unmittelbarkeit und Unklarheit in Licht zu verwandeln.
+
+Diese dialektische Form ist aber als ihren In halt erzeugend die metaphysische Nothwendigkeit , welcher sich der freie Inhalt nicht entziehen kann , als den Inhalt von außen aufnehmend aber ein leerer Formalismus , ein bloßes Schema , das die Wirklichkeit ganz und gar unberührt läßt.
+
+Dieses
+
+Schema bringt den Schein einer allseitigen metaphysischen Nothwendigkeit hinzu , welche im Inhalte nicht seyn soll , und " die freie Nothwendigkeit des Zwecks , der Vernünftigkeit u. f. w., ist eine simple Versicherung , welche ohne irgend eine Berech= tigung willkürlich zu dem einfachen Factum nicht der intellec tuellen , sondern der finnlichen Erfahrung hinzutritt , und wo gegen jede andere Versicherung , dieselbe Geltung hat.
+
+freie Inhalt, der Ueberschuß des Seyns über das prius ist so einerseits ein in sich durchaus zweckloser , unbestimmter , die ab ſolute Zufälligkeit , und anderseits ein durch die Nothwendigkeit äußerlich beschränkter.
+
+Das Metaphysische schließt nicht nur die
+
+Möglichkeit des Andersseyns , sondern das Andersseyn überhaupt aus ; dadurch ist es inhaltsleer, nicht freie, sondern noth wendige Form, die ſich nie und nimmer zur Freiheit aufheben kann, weil sie das Undersſeyn als den wirklichen Inhalt nicht in sich selbst hat ; das Metaphysische bleibt daher trok seiner Nichtigkeit eine dem Inhalte äußerliche Macht , wird nie ein durch die Freiheit Geſettes , ſondern ist die ,, conditio sine qua non " , ein im Inhalte sich mit abstrakter Nothwendigkeit ſelbſt Sehendes , und in der Freiheit als dunkeles Schicksal Zurückbleis bendes.
+
+Wenn also auch die philosophische Erkenntniß durch
+
+Hülfe der religiösen Erfahrung zu der Gewißheit gelangt , daß Gott aus freiem Willen die Welt geschaffen hat ; so ist diese
+
+[p. 263] Freiheit nur ein leeres Wort ; denn Gott mußte aus metaphy sischer Nothwendigkeit schaffen , oder vielmehr schon mit Gott ist die Welt metaphysisch nothwendig gefeht.
+
+Wenn Gott náms lich ( wenn auch als freie That seiner selbst ) ist , so treten die Kategorien als die nothwendigen Formen für jeden beliebigen Inhalt in Geltung.
+
+Gott ist nothwendig räumlich , zeitlich,
+
+Daseyn , Endlichkeit , und kann schlechterdings nicht anders ſeyn . Und zwar sind diese Kategorien des Daseyns , der End lichkeit u. s. w. nicht etwa nur ideell in Gott gesetzt, so daß sie nur als Formen in der göttlichen Vernunft enthalten wåren ; denn dieß wäre eine Hypostase einer weſenloſen leeren Form, so daß die Endlichkeit wåre ohne endlich zu seyn.
+
+Die End lichkeit kann nicht nicht seyn , wenn irgend ein Inhalt ist : Gott hat ( nicht als Kategorie der schöpferischen Vernunft sondern) als wirklich seyend nicht die leere Form der Endlichkeit zum Inhalte , sondern er selbst ist) als Inhalt noth wendig in der Form der Endlichkeit, und daß wenn Gott ist, die Welt nicht sey , ist eine metaphyſiſche Unmöglichkeit. Wenn man nun der Hegelschen Philoſophie den Vorwurf macht, daß sie die Freiheit in die Nothwendigkeit vernichte , so fällt dieser Vorwurf einmal mit dem im Vorigen erläuterten Mißverständnisse zusammen , nach welchem Hegel die logischen Kategorien für sich als das absolut Wirkliche aufgefaßt haben solle.
+
+Bricht man nåmlich den dialektischen Fortgang mit dem
+
+Logiſchen ab , und macht damit die Kategorien zugleich zu ina haltsleeren Formen , so erscheint Natur und Geist als eine äußerliche Suthat, und gegen dieſen weſenlosen Ueberschuß sind dann die Kategorien das einzig Wahrhafte und Ewige , die bloß substantielle , alles Andere verzehrende Macht der Noth wendigkeit. Anderseits schließt sich jener Vorwurf an die dialektische Methode an , und Dialektik und Freiheit scheinen schlechter [p. 264] dings unversöhnbare Elemente.
+
+Wenn wir das Freie dahin bestimmen, daß es eben ſoſehr auch nicht seyn kann und auch andersseyn kann , als es ist , und diese Bestimmungen im einfachen Wortsinne nehmen , dann ist allerdings keine andere Kenntniß von dem Freien erlaubt , als nur die empirische Aufnahme des Factums.
+
+Dieß Freie ist aber dann zugleich das rein Zufällige und Willkürliche , das als daſeyend ſchlechterdings nichts und in keiner Hinsicht vor dem Gegentheil voraus hat. Um dieß Freie seiner Natur gemåß aufzunehmen , darf ich über das Seyn desselben nicht hinausgehen , keine Vermittelung hinein bringen , sondern nur sagen , daß es ist, und zugleich hinzu sehen, daß es ebenso gut auch anders seyn könnte.
+
+Ich darf nicht sagen : Gott hat die Welt aus Liebe geschaffen , sondern nur : Gott hat die Welt geschaffen , und in Gottes: Willen keinen Zweck , keine Bestimmung hineinbringen , wodurch das Nichter schaffen seine gleiche Berechtigung mit dem Schaffen verlieren könnte.
+
+Dann ist alles Seyn grundlos , und schlechthin uner kennbar.
+
+Soll aber das Freie zugleich ein Vernünftiges ſeyn , und der Zufall und die Willkür ausgeschlossen , so daß das Auchandersseynkönnen nur den lebendigen selbstthätigen Gegens sak gegen das abstract Metaphysische bedeutet , so ist dialek tische Methode die einzige Weise , das freie Leben dige seinem innersten Wesen nach aufzufassen.
+
+Wenn die intellectuelle Anschauung sich nicht mit dem un mittelbar gegebenen Seyn begnügt , ſondern zum Urbild , zur Idee in Gott fortgeht , und vom System kein äußerliches Ein theilen , Schematiſiren fordert , sondern eine lebendige Geneſis , so wird dieser Anforderung erst wahrhaft in der Methode Genüge gethan , welche sich rein in die Sache , wie sie in Wahrheit, nämlich in der Idee ist , versenkt.
+
+Die Dialektik aber hebt die
+
+Subjectivität und Willkür der intellectuellen Anschauung auf, wonach diese eine besondere Gabe , eine Genialität ist , und sich [p. 265] dem zufälligen Symboliſiren und Schematiſïren überläßt.
+
+Statt dieser Willkür , in welcher das Subject das Auchandersseynkönnen an sich darstellt und ebenso sehr aus der Sache heraus in seine Empfindung und Meinung vertieft ist , fordert die Dialektik, daß das Subject den Inhalt von sich frei lasse, um ihn in seiner Freiheit und in der Idee zu erkennen.
+
+Wenn aber die
+
+Dialektik einmal den Inhalt von der subjectiven Willkür des Subjects frei macht , so scheint sie doch anderseits dadurch die Freiheit aufzuheben , daß sie diese als nothwendiges Resultat erscheinen läßt.
+
+Jedoch thut sie hiermit zunächst nichts Underes , als die denkende Erfahrung , welche das Freie als das Wahrhafte postulirt , welche fordert , daß jeder Einzelne Gott , die Unsterblichkeit der Seele u. f. w. in sich erfahren solle , weil dergleichen Erfahrungen und Ueberzeugungen nicht etwa auch ebenso gut nicht seyn und auch anders seyn könnten.
+
+Allein auch hier hebt die Dialektik zunächst die Will kür, nach welcher der Andere sagen könnte : ich will Gott nicht erfahren und die Unsterblichkeit meines Geistes , ebenfalls zur wirklichen Freiheit auf.
+
+Weiter aber ist es geradezu das innerste Wesen der Methode, daß das Resultat /als Lettes das Erste ist, daß dasselbe an sich nicht durch das Undere und den Gang der Entwickelung vermittelt ist , sondern daß es vielmehr die Unmittelbarkeit sehende und aufhebende absolute Vermittelung mit sich selbst ist.
+
+Das Undere , wozu sich das Seyn und die
+
+Nothwendigkeit aufhebt , ist die sich selbst und das Andre durch eigne Energie sehende Freiheit , welche nicht bloß nichts außer sich hat , wodurch sie beſtimmt wåre, ſondern welche in ihrer Absolutheit sich selbst bestimmt , oder absolutes concretes Subject, freier schöpferischer Wille ist die schöpferische Freiheit ist das unwandelbare Wesen Gottes.
+
+Die Erkenntniß der Freiheit Gottes ist zugleich die Erkennt niß seiner absoluten Persönlichkeit , und wir müſſen insofern auf [p. 266] die folgende Abhandlung verweisen , in welcher auch das Wesen der Dialektik weiter erläutert werden wird. In Bezug auf die endliche Freiheit versteht man wohl den dialektischen Fort schritt vom ſubjectiven Geiſte zum objectiven und weiter zum abſoluten als ein Verschwinden und " Vernichtetwerden der individuellen Freiheit.
+
+Jedoch ist man auch wieder über die dürftige Auffassung des rechtlichen und politischen Lebens hinaus, nach welcher dieses als eine bloß zufällige und beliebige Einrichtung , als ein bloßes Mittel zum Schuße der Person u. s. w. erſcheint , und will den Staat als Produkt und Entwickelung der Freiheit , als die wirkliche Existenz derselben betrachtet wiſſen.
+
+Worauf es bei der Erkenntniß der endlichen Freiheit vorzugsweise ankommt , ist der Unterſchied der Anlage von der Wirklichkeit , und dann weiter der Unterschied der Willkür von der wirklichen Freiheit.
+
+Der Geiſt iſt ſeinem Wesen nach die
+
+Freiheit, indem er die Negation der Aeußerlichkeit und äußern Bestimmbarkeit der Natur iſt , und somit als Einzelner zugleich die Gattung in sich aufgehoben enthält ; jeder Einzelne ist Ich, freie Unendlichkeit , und damit etwas ganz Andexes , als das einzelne Ding der Natur und des natürlichen Lebens.
+
+wie der Mensch die Natur zu seiner Voraussetzung hat, so ist er unmittelbar noch nicht seinem Wesen gemäß, sondern hat die Bestimmung , ſeine Freiheit durch eigne That zu verwirklichen. Wie aber die reine Unendlichkeit des Ich als die Abſtraction von aller äußern Bestimmbarkeit noch nicht die wirkliche Frei heit ist , sondern dieſe wesentlich zur Beſonderung , zum beſtimm ten Inhalte , zum Willen und zur That fortzuſchreiten hat , ſo kommt es weiter auf die Beschaffenheit dieſes beſtimmten Inhalts selbst an.
+
+Die endliche Freiheit hat zugleich die Möglichkeit der Selbſtſucht in ſich, und damit die Möglichkeit des Bösen, in welchem die freie Wahl sich selbst zur poſitiven Unfreiheit negirt ; wogegen die wirkliche Freiheit des Subjects [p. 267] vielmehr darin besteht , daß es sich in seiner Selbstbestimmung und That einen freien und allgemeinen Inhalt giebt.
+
+Zu dieser
+
+Verwirklichung gelangt daher der Einzelne in Wahrheit nur durch die Gemeinschaft , existirende Freiheit.
+
+und diese ist selbst die verwirklichte
+
+Hier kann von einem Verschwinden des.
+
+Individuums gar nicht die Rede seyn. ject wirft nur in dieser Gemeinschaft feine rein particulåren Interessen dadurch auf, leere Subjectivität ,
+
+Das einzelne Sub seine Selbstſucht und von sich , hört eben und bloß formelle Möglichkeit der Freiheit zu seyn ; damit erhält es aber zugleich die Bewährung und den Schuß seiner freien Individualitåt von der Gemeinschaft zurück.
+
+Allerdings ist es möglich , daß im
+
+Staate die Freiheit der Perſon verschwindet , und dieß wird eben dann der Fall seyn , wenn das Subject selbst sich noch nicht feiner persönlichen Freiheit bewußt ist ; dann enthält natürlich der Staat als die objective Gestaltung des subjectiven Geistes den unendlichen Werth der Person als solcher noch nicht in ſich. Ganz ähnlich verliert der Mensch in der abſoluten Substanz feine individuelle Freiheit , und ist in derselben ein nur verschwindendes Moment ; denn die Substanz kann dem Men schen die Freiheit des Willens nicht zurückgeben , ſondern nur die abstracte Unendlichkeit des Denkens , weil sie selbst keinen Willen hat, d. h. selbst nicht wirklich frei ist.
+
+Erst der ab folut persönliche Gott läßt die Welt und den endlichen Geist von sich frei, und ist nicht Abgrund der Individualitåt , ſondern die Bewährung der concreten Freiheit , und was vernichtet wird, ist nur die dem absoluten Geiste feindlich gegenüberstehende endliche Subjectivitåt , d . h. nicht die Bestimmtheit der Person überhaupt , sondern die sich in sich selbst und in seine eigene Eitelkeit zurückziehende und an ihrer Leerheit festhaltende Selbst heit oder der böse Wille.
+
+## III.
+
+[p. 268]
+
+## Die Persönlichkeit Gottes.
+
+In Hinsicht auf die Erkenntniß der Persönlichkeit Gottes möchten Manche von denen , welche sich beiläufig mit großer Heftigkeit gegen die Hegelsche Philosophie auślaſſen , vorzugs weise in einem höchst seltsamen ´und bewußtlosen Verhältnisſſe zu dem angegriffenen Systeme stehen.
+
+Oft nämlich wird die
+
+Behauptung , daß Hegel nichts von einem persönlichen Gotte wiſſe, mit einer Sicherheit ausgesprochen , als wäre dieß ein wesentliches Dogma der Hegelschen Philosophie ; und die Un,
+
+/ kenntniß mit dem ausgescholtenen Systeme geht oft so weit, daß der Gegner kaum die Ahndung davon zu haben scheint , es Hegel als wesentliche Aufgabe betrachtet , Gott als einen persönlichen zu erkennen , ja daß nach Hegels Worten „Alles darauf ankommt , das Wahre nicht als Substanz, sondern ebenso sehr als Subject aufzufass sen und auszudrücken. “ ( Phån. S.14 ) Indem es wesentlicher Inhalt der christlichen Religion , daß Gott als dreieiniger selbstbewußte lebendige Perſon iſt, ſo ist die Persönlichkeit Gottes für das christliche Bewußtſeyn zu einer bekannten Vorstellung geworden , und die Tau schung , daß mit dieser Bekanntschaft der Inhalt der Vorstellung auch schon erkannt und begriffen sey , erstreckt sich über die Denkweise der Vorstellung auch ſuchungen hinein.
+
+in philosophische Unter
+
+Es wird oft mit der größten Unbefangenheit die Persönlichkeit unter den andern Eigenschaften Gottes auch aufgeführt , ohne auch nur im Entfernteſten die Schwierig- ' keit einzusehen , welche die philosophische Erkenntniß der absoluten Persönlichkeit zu lösen hat , und ohne zunächst zu unters suchen , was denn Eigenschaft überhaupt sey , und ob Perſón lichkeit noch als eine Eigenschaft betrachtet werden könne.
+
+dem so die verschiedenen Eigenschaften Gott beigelegt werden, [p. 269] ist die Persönlichkeit selbst schon vorausgesetzt , und die
+
+Eigenschaften dienen nur dazu , diese vorausgesetzte leere Sub jectivität zu erfüllen.
+
+Weiter aber ist es sehr bald gesagt , daß man keine abstrakte Trennung Gottes von der Welt lehre, sondern Gott solle vielmehr die Welt allgegenwärtig durch dringen und beleben , aber wie man sich auf keine weitere Be stimmung dieser Algegenwärtigkeit , des Durchdringens und Be lebens einläßt, so ist auch der Pantheismus , den man den verschiedensten Systemen sogleich vorzuwerfen bereit ist, nue durch die Unbestimmtheit der Vorstellung vermieden ; man hat allerdings neben der Allgegenwärtigkeit auch die Persönlichkeit H behauptet , aber das eine so wenig erkannt wie das Andere. Außerdem aber ist man wohl sogleich fertig , die Dreieinigkeit höchstens als eine hiſtoriſche Merkwürdigkeit noch anzuführen , und als ein obſoletes Mißverständniß , das aus einer falschen Eregese hervorgegangen sey , zu verwerfen , womit denn die Per fönlichkeit Gottes zu einem bloßen Worte herabſinkt , indem Gott, ohne sich in sich selbst zu unterscheiden , doch ein selbst bewußter und lebendiger seyn soll. Abgesehen von dieſer Oberflächlichkeit , welche auch jezt nicht felten besonders mit der Pråtenſion , ganz klar zu denken , die auf die Schwierigkeiten wirklich eingehende Speculation zu über sehen meint , so gehört es wesentlich zum Höhepunkte des gegenwärtigen philosophischen Denkens , daß sich die Frage nach der Persönlichkeit Gottes als eine der wichtigsten , ja als die wichs tigste überhaupt so bestimmt herausgestellt hat.
+
+Wie sich durch die ganze Geschichte der Religion hindurch die Sehnsucht nach Zeinem persönlichen lebendigen Gotte ausspricht , und keine Religion dieses Momentes der Persönlichkeit ganz entbehrt , sollte es auch noch von der Substanz überwältigt erscheinen , so ers blicken wir auch durch die Entwickelung besonders der christlichen Philosophie hindurch das Streben , Gott als einen persönlichen , [p. 270] zu begreifen , und die bewußte Verwerfung der Persönlichkeit als einer endlichen Bestimmung in Gott, war zugleich mit einer Resignation verbunden , in welcher der endliche Geist den Trost aus seiner eignen Kraft zu schöpfen bemüht war , welche er in dem unpersönlichen Gotte nicht finden konnte.
+
+Das christliche
+
+Bewußtseyn hat das Leugnen der Persönlichkeit Gottes mit
+
+ン
+
+Recht als unchristlich verworfen , und das Festhalten der Substantialität viel wahrer, als Utheismus denn als Pantheismus bezeichnet.
+
+Merkwürdig aber ist es, wenn auch das christliche
+
+Gemüth gegen diese Substantialität oft nur die Persönlichkeit Gottes geltend macht , und in Bezug auf das Dogma der Tri nitåt nachzulaſſen bereit ist, weil es dieſe nicht als ein noth wendiges Moment des christlichen Bewußtseyns und der chriſt lichen Frömmigkeit in sich vorzufinden meint. Der absoluten Substanz wird dann nur der jüdische Gott gegenüber gestellt ; dieſer ist als Subſtanz unmittelbar Subject , und alle meſ. fianischen Weissagungen und Hoffnungen beziehen sich einfach darauf, die Vermittelung in Gott ſelbſt anzuſchauen.
+
+ohne diese ist Gott der unerkennbare und unversöhnte, der die Welt als eine bloß endliche von sich abhält und vergehen läßt, und nur der dreinige Gott ist der offenbare und sich wirklich offenbarende. Das Unbefriedigende und Troſilose aber desjenigen philosophischen Standpunktes , welcher nur die Subſtantialitåt als das Wesen Gottes festhält, nämlich vorzugsweise des Stand punkts Spinoza's , liegt nicht eigentlich darin , daß Gott in die - wie man ſer Auffaſſung von der Welt nicht verschieden ist wohl den Pantheismus zu erklären pflegt
+
+D sondern vielmehr darin , daß die Welt das nur Verschwindende gegen Gott ist ; also doch wieder in dem Dualismus des Unendlichen und Endlichen , der hier nur scheinbar überwunden
+
+Gott ist als absolute Substanz die Negation aller Bestimmtheit und alles Unterschiedes , und vernichtet alles indivi [p. 271] duelle Daseyn zu einem bloß wesenlosen Schein ; denn das Wesen ist nur das Eine , nicht das Bestimmte , und die ganze Mannigfaltigkeit und lebendige Gliederung hat nur in ihrer
+
+Aufgelöstheit und Unterschiedslosigkeit Wahrheit und Wirklichkeit. Die abſolute Subſtanz ſelbſt aber hat in ihrer Formlosigkeit keine Wirklichkeit ; denn ihr Daseyn ist nicht sie selbst, sondern ihre Erscheinung , oder vielmehr, indem sie diese unmittelbar aufhebt , ihre eigene Nichtigkeit.
+
+Uls Bestimmtheit und
+
+Form existirt sie nur im endlichen Bewußtseyn , welches die Substanz denkt, allein die Liebe des Menschen zu Gott ist auch wieder nur die Liebe Gottes zu sich selbst , nicht die Liebe Gottes zum Menschen ; denn mit der Liebe zu Gott hört der endliche Geiſt auf, ein bestimmter zu seyn , hat sich selbst als ein weſenloser Schein aufgegeben , und das Denken der Substanz als eines Anderen müßte ebenfalls noch verschwinden , um jeden Unter schied , wie die Substanz es gebietet , zu vernichten.
+
+Die Er hebung und das Ankommen bei der abſoluten Substanz ist die Umwandlung des farbevollen Lichtes in die Nacht , denn das reine Licht ist selbst die Nacht ; ist das Eingehen in die tiefste Einsamkeit , in der Gott allein ist ohne den lebendigen Mittler und ohne den Trost des heiligen Geistes.
+
+Damit wird dem endlichen Geiſte die Basis , auf der er ruht, und einzig und allein fest und sicher steht , entrissen.
+
+In Gott findet er nur seinen Tod , und nicht sein Leben , und alle Wirklichkeiten sind nur die zwecklos emporſteigenden Wellen , die wieder zerstieben. Wie sehr auch dieses Aufgeben des innersten Eigenthums den Schein der Erhabenheit an sich trägt , und wie sicher mit dieser Resig= nation eine unerschütterliche Ruhe des Geistes einzutreten ſcheint, indem Alles was auch die Nothwendigkeit dem Menschen nehmen mag , der Mensch selbst schon durch eigne Kraft aus seinem Herzen herausgeriffen hat., so ist doch diese Ruhe nur die Trauer über das Daseyn und die Freude am Untergange , und in jener Erhaben [p. 272] heit liegt auch der Keim des Egoismus , welcher auf seine Erhabenheit stolz von der Liebe zu Gott „wenn ich dich liebe, was geht's dich an ? " - sich abwendend nur sich selbst liebt, und nun die Zufälligkeit als das andere Moment der Substanz ¡ in sich darstellend sein Herz an alles Beliebige fortwirft , das Leben vorausnimmt , und -
+
+ſich den Tod giebt.
+
+Endlichen in die abstracte Unendlichkeit die Unmittelbarkeit des Endlichen festzuhalten , und alſo das Endliche als solches als ein wirkliches Seyn zu behaupten. Wie der Mangel der Philosophie der Substantialität nicht eigentlich darin besteht, daß die Substanz von der Welt nicht verschieden ist , so urgirt man hier gegen eine vermeinte Einheit Gottes und der Welt auch nicht eigentlich den Unterschied , sondern vielmehr im Gegentheil eine Identität des Endlichen und Unendlichen .
+
+Endliche soll unmittelbar und ohne ein Ende zu nehmen , an sich selbst schon das Unendliche seyn , soll nicht sterben , um zum ewigen Leben aufzuerſtchen , ſondern dem Unendlichen gegenüber unsterblich seyn.
+
+Hier reflectirt sich der Mensch in seine eigene
+
+Eitelkeit , ist unmittelbar und von Natur gut , und poſtulirt ohne Weiteres die ewige Seeligkeit , während er den Ernst der ewigen Verdammniß in seinem guten Herzen fast belächelt. Weiter aber soll Gott auch unmittelbar Person seyn , und an die Stelle des formlosen Inhaltes tritt die inhalts, lose Form , an die Stelle der Nothwendigkeit die Willkür einer leeren Subjectivität , welche mit der Welt beliebig spielt , und von der absoluten Materie des Materialimus nur durch das Wissen ihrer Leerheit verschieden ist. Es muß nun gerade als das Eigenthümliche der Hegelschen Philosophie angesehen werden , daß sie einerseits das Absolute nicht bloß als Subſtanz und Indifferenz , sondern als . ſieg= reiches Subject nicht bloß behauptet , ſondern philoſophiſch
+
+[p. 273] ---erkannt hat , und daß sie anderseits ebensosehr das Extrem einer leeren Subjectivitåt überwunden , und damit zu dem Begriffe des absoluten Geistes hindurchgedrungen ist. Hier nun ist nicht der Ort , die Lehre von der Persönlichkeit Gottes in ihrer ganzen Vollſtändigkeit zu begründen und auseinander zu sehen , welche Aufgabe doch nur durch die dialektische Entwicke lung des ganzen Systems genügend gelöst werden kann , sondern wir haben vorzugsweise die schwierigsten Punkte hervorzuheben und zu erläutern , an welchen man Anstoß nehmend der Hegel schen Philosophie die Erkenntniß der Persönlichkeit Gottes ab= Zunächst aber übersehen wir die Ansichten , welche spricht. sich der Hegelschen Philosophie entgegenstellen , woraus vorzugsweise die Schwierigkeit des Gegenstandes deutlich genug hervorgehen wird.
+
+Vor allem käme hier I. H. Fichte in Betracht , welcher einerseits als das Eigenthümliche der Hegelschen Philosophie her= ' vorhebt , daß sie allerdings über den Begriff der Substanz und Indifferenz hinausgegangen aber nicht wirklich zum Begriffe der Persönlichkeit hindurchgedrungen sey , anderseits als das Charakteristische seines Systems den vollendeten und zur Basis erhobenen Begriff der Persönlichkeit angiebt.
+
+Fichte macht nun zunächst auf die Schwierigkeit aufmerksam , welche die philosophische Erkenntniß der absoluten Persönlichkeit zu lösen hat , und ſpricht dieſe in dem Zuruf an Göſchel aus : „ Genügen nun unserm Verfasser , wie es den Anschein hat , jene Hegelschen Grundbestimmungen nicht mehr G wohlan , so unterbaue er tiefer seine neue Lehre ; besonders erwåge er , was der Begriff der absoluten Persönlichkeit dialektiſch vorausseßt , und wie der Widerspruch überwunden werden kann, der in dem Begriffe der Gränze, der Insichbestimmtheit , wie sie vom Wesen der Persönlichkeit unabtrennlich iſt , und im Begriffe des Abſoluten, alle endliche Beschränkungen positiv Aufhebenden , zunächst unver [p. 274] meidlich liegt ;
+
+und er stånde dann an der Schwelle der gegenwärtigen Untersuchungen . " (Idee der Persönlichkeit , Elberf. 1834. S. 26. )
+
+Zur Erläuterung des Begriffs der Persönlich keit , ( welche hier aus dem ganzen System herausgeriſſen auf dialektische Strenge allerdings keinen Anspruch macht ) wird n nun davon ausgegangen , daß die absolute Idee als der höchste als die absolute
+
+ด
+
+Einheit eines unendlichen Mannigfaltigen zu den
+
+น ken sey . (S. 60) Die Idee sey Einheit , Identität mit sich , auf
+
+น
+
+Begriff der ontologischen Entwickelung , sich selbst Beziehung , aber als Unendlichkeit trage sie die unendliche Mannigfaltigkeit in sich selbst befaßt , und Einheit und
+
+D
+
+Mannigfaltigkeit seyen somit Momente der Idee ; die Idee gebe b sich als die absolute Einheit selbst ihre Unendlichkeit , und sey
+
+Momente der Einheit und Unendlichkeit werden nun weiter aus ga geführt und erläutert.
+
+gr D die organische Totalität der in ihr gesetzten Unterſchiede.
+
+Die absolute Idee als durch sich selbst sich zum unendlichen Unterschiede vollziehend , hat daran ihre Wirklichkeit. "Diese Wirklichkeit ist zugleich räumliches und zeit liches Daseyn , und , der Geiſt iſt nicht weniger råumlich zu fd et denken , als Gott , der Urwirkliche , deshalb auch der Alls d. h. er ist nicht in Zeit und el
+
+Raum , irgendwo und wann , sondern alles Wo und Wann n zeitlich:- All råumliche ist;
+
+sehend und thatkräftig erfüllend." (S. 65.)
+
+Ferner aber ist die
+
+Einheit nicht als abſtracte zu denken , ſondern sie ist die To: talität der in ihr gesetzten Unterschiede, welche ſie ſich ſelbſt giebt ; Gott offenbart sich selbst in seinem Anderen , der Schöpfung als 1 seinem Werke. Die Selbstbestimmung ist die Ver mittelung zwischen der abſoluten Einheit und dem unendlichen (
+
+Unterschiede, denn aus sich selbst bestimmt sich die abſolute
+
+¿
+
+Idee, das unendlich Andere ihrer selbst zu werden ; hierin besteht zugleich ihre Freiheit , welche nicht Eigenschaft und Attribut einer schon fertig vorhanden gedachten Person ist , sondern ihr [p. 275] tragendes Lebenselement , denn nur durch die freie Lebensentfal tung bricht das Wesen zur Person hindurch. ( S. 68 ) .
+
+Weiter aber ist diese Einheit lebendig ordnende Einheit eines unendlich Concreten , und nicht ein blind Einendes , welches viels mehr abstrakt und widersprechend wåre , ſondern durchſchauendes Bewußtseyn des Geeinten und somit allwissend.
+
+aber die Unendlichkeit nur in der Einheit ist , so läuft auch das unendliche Bewußtseyn in das Selbstbewußtseyn zurück, und ist nur in diesem zu denken ; und dieß endlich ist der Begriff der Persönlichkeit : "I Person ist die sich bewußt durch dringende , in Bewußtseyn faſſende , begreifende , genießende Ein heit , welche Einheit aber nur im Verhältniß zu dem in ihm bezogenen , umfaßten Mannigfaltigen ist , an welchem sie zum Selbst wird.“ ( S. 70 )
+
+Nun wird auf die vorher angegebene Schwierigkeit und den scheinbaren Widerspruch im Begriffe der abſoluten Persönlichkeit zurückgegangen, und beſonders darauf aufmerksam gemacht , wie die Freiheit nicht bloß Eigen ſchaft der Perſon ſey , sondern Element , Grunderistenz , Selbst entwickelung derselben.
+
+" Darin ist jedoch der obige Gegensat schon überwunden ;
+
+d. h. er wird nicht ausgelöscht , oder eine der Seiten , aus denen er erwuchs , hinweggeworfen ; vielmehr wird er, als vorhandener , durch die abſolute Persón lichkeit thatkräftig und unendlich ausgeglichen.
+
+Die Einheit bleibt in ihr , das lebendige Band , die Concentration in sich : aber ebenso auch die Unendlichkeit , das zu Bindende , durch leben diges Schaffen zu Einende.
+
+Gott selbst , als Person , vers föhnt jenen Widerspruch , indem er sich selbst unendlich zum Gegensahe mit sich selbst macht.
+
+So ist Gott, als Einheit absolute Selbst; aber diese Einheit ist nicht die einfache, todte, da sie wieder ein Abſtractum würde, ein weſenlos Unwirk liches , ― - sondern die unendlich Einende , was sie wieder nur im Bewußtseyn kann.
+
+Die unendliche Bestimmtheit , die wir 18 *
+
+[p. 276] N
+
+Welt nennen, ist nur dadurch die Geeinte ( nicht Chaos und Unvernunft ) weil sie vom Geist durchwaltet , in Gottes Geist erſchaffen iſt.
+
+Gott iſt in ſeiner Unendlichkeit die geistige All gegenwart, die All - Wissenheit , welche abermals nicht zu trennen ist von seinem Selbstbewußtseyn, und doch nicht dasselbe mit ihm ; ihr Band iſt ſeine Persönlichkeit , und in ihrer Ver einigung gründet das unendliche Leben des Geiſtes Gottes , die Wurzel aller positiven , eigentlich persönlichen Eigenſchaften in ihm , welche eine vollständige speculative Theologie zu entwickeln håtte , und von denen wir gegenwärtig nur festhalten die zunächſt ſich ergebenden der Allmacht , des Urbewußtseyns , und als den Mittelpunkt beider, der bewußten Freiheit oder des In Summa : Håtten wir Gott hier nur
+
+Urwillens. als einfaches Selbstbewußtſeyn begriffen , so wåre uns jener Begriff abermals in Abstraction , in eine Unbegreiflichkeit zusam mengeschwunden ; Persönlichkeit seht Beziehung auf ein ſelbſt gegebenes Andere ; sie ist unendliche selbstbewußte Entfaltung , lebendige That der Offenbarung.
+
+Die abſolute Persönlichkeit Gottes ist nur als die unendlich schöpfe rische zu denken." ( S. 74 f. )
+
+So abenteuerlich jener Zuruf Fichte's an Göſchel klingt , ſo durchaus unbegreiflich iſt es , wie dieſe Auffaſſung der Persönlichkeit für einen Fortschritt über Hegel hinaus angesehen werden kann .
+
+Wollten wir auch das Bildliche der Darſtellung damit entschuldigen , daß hier ein einzelner Punkt aus dem Ganzen des Systems herausgerissen und erläutert werden soll, so ist doch gerade die Schwierigkeit , welche von Fichte selbst ganz beſonders hervorgehoben wird , auch nicht im Entfernteſten gelöst. „ Perſon iſt Inſichbeſtimmtheit , zuſammenfaſſende Se lb stigkeit gegen Anderes , welches sie damit ausschließt und von ſich abtrennt , Abſolutheit dagegen ist das Umfaſſende , Unbedingte, negirt mithin alle Begränzung und bedingte Ausschließ [p. 277] lichkeit des Persönlichen , womit wir das Absolute ja in ein endliches Wesen verwandelt håtten. "
+
+Diese Schwierigkeit wird nun zunächst dadurch gehoben , daß Gott als schaffend , selbst ein Anderes sezt , auf welches er sich bezieht ; d . h. sich selbst beschränkt.
+
+Hiermit ist aber so wenig diese Schwierigkeit gelöst, daß sie vielmehr hier erst ansångt ; denn nun ist Gott als der Absolute nicht der allumfassende, sondern außer ihm ist die Welt da , welche er nicht ist. zunächst weiter
+
+In dem Schaffen liegt . an sich daß Gott als concrete und unendliche Einheit ein von sich Unterschiedenes seht und ſich darauf bezieht ; soll diese Beziehung auf die Welt eine persönliche seyn , so ist doch Gott so lange endliche Person , als dieß Andere , auf welches er sich bezieht , als ein fremder åußer licher Gegenstand ihm nur gegenüber steht.
+
+An diesem An deren hat die Perſon ihre Schranke , und konnte , ſo wenig wie die menschliche Person , dieses Andere erschaffen.
+
+Die Haupt
+
+ſache ist, zu zeigen , wie diese Schranke durch die abſolute Persönlichkeit Gottes auch ebensosehr wieder aufgehoben wird , und Gott sich in diesem Undern zugleich auf sich selbst bezieht. Dadurch aber ist für die philosophische Erkenntniß geradezu gar nichts gewonnen , wenn wir sagen : ,,die Welt sey vom Geiste durchwaltet , denn bei diesem Ausdrucke ist nichts beſtimm tes zu denken.
+
+Allerdings deuten die Ausdrücke : „ Gott ist geistige Algegenwart , die A11- Wissenheit , oder das , Eines in Alles hineinschauende , Jedes in Jedem wiſſende , mit absoluter Klarheit durchdringende Princip"
+
+sogleich auf Persönlichkeit hin; allein daß wir dergleichen von Gott fagen können , soll eben erst erwiesen werden , und wir dürfen nicht eher von absoluter Persönlichkeit reden , ehe nicht jener bemerkte Alle die 1 Ausdrücke aber , wodurch der Gegensaß Gottes und der Welt als aufgelöst behauptet Widerspruch gehoben ist.
+
+wird , wodurch die durchdringende Gegenwart Gottes in dieſem [p. 278] von ihm gefeßten Anderen , sein concretes Selbstbewußtseyn erkannt werden soll, bleiben dem Bildlichen und Abstracten der Vorstellung , ohne zur Bestimmtheit und Klarheit des Begriffs fortzugehen. ― Wenn nach Fichte's Unsicht die abſolute Persönlichkeit Gottes nur als die unendlich schöpfe rische zu denken seyn soll , so haben wir dagegen die Behauptung auszusprechen , absolute Persönlichkeit Gottes nicht bloß ſchöpferiſch , ſondern zugleich auch versöhnend ist, und als muß.
+
+wesentlich versöhnend gedacht und erkannt werden
+
+Als nur schöpferisch hat Gott ein anderes sich gegen über , als versöhnend aber hebt er selbst diesen Gegenſaß auf und ist in Einheit mit diesem Anderen.
+
+Wie in der Erkennt niß der Persönlichkeit Gottes nicht soll vom Schaffen abstrahirt werden , so darf auch nicht der Unterschied übersehen werden , der sich im Geschaffenen selbst unmittelbar vorfindet , nåmlich von Natur und Geist , von welchen jene nicht von Gott weiß, dieser aber sich über die Endlichkeit hinaus zu Gott Ist dieser Unterschied ein für Gott durchaus erhebt.
+
+gleichgültiger , ihn nicht berührender , so ist Gott im Verhältniß zur Welt immer nur die Negation der Bestimmtheiten und Unterſchiede , oder Indifferenz und Substanz , nicht Perſon ; sagen können wir freilich immer , daß er Perſon ſey , und daß er mit ſeinem Selbstbewußtseyn Alles durchdringe und durchschaue , allein die Persönlichkeit bleibt dabei immer eine ganz leere und vorausge setzte , und der Widerspruch , der gelöst werden soll , ſchlechthin ungelöst.
+
+Wie Fichte die subjective Form des Bewußtseyns fest hålt, und das Wissen des Menschen von Gott nicht die Erkenntniß Gottes , wie er an sich iſt , ſeyn soll , ſo fållt denn auch das Wissen des Menschen von Gott und das Wiſſen Gottes von sich selbst , schlechthin auseinander ; damit ist Gott in der Welt selbst nicht persönlich gegenwärtig , sondern nur substantiell , und für die Auflöſung des abſtracten Gegenſages zwiſchen der
+
+[p. 279] Person Gottes und der Welt ist noch ganz unb gar nichts Fichte wirft die Frage auf, ob Gottes Daſenn in der gethan.
+
+Welt aufgehe, ob er nichts Anderes , ſpecifiſch Höheres sey , denn nur das
+
+II , diese Summe aller Daseyns- und Lebenskräfte , die seine Existenz ausmachen ; und bei ihm ſelbſt ſcheine dieser Vorwurf noch dringender zu werden , weil er Gott ausdrücklich als den zeiträumlichen bezeichnet habe ; allein gerade dadurch sey es 1 erst möglich geworden , auch der einenden Macht in ihm , dem Begriffe der Persönlichkeit so nahe zu dringen.
+
+Das Wunder des Bewußtseyns erledige jenes
+
+Bedenken vollständig und durchbreche den pantheistischen Zirkel. „Gott ist nicht das Alder bekannte Ausspruch : Eins und Alles bleibt, als dem Irrthume der Abstraction verfallen , für immer abgewiesen : sondern er ist in Alem , und seine Al gegenwart nur die geistige , wie es ja die Macht des Geistes ist , das Fremde sich anzueignen und sich dem Anderen ( - hin zugeben ?) ohne sein freies Selbst darüber zu verlieren , ja es nur desto gewisser und reicher darin zu genießen.“ (S.80. 81.) - Wenn wir das Wort Persönlichkeit herauslassen , ſo würde Spinoza mit dieser Erörterung durchaus einverstanden ſeyn. Die einende Macht ist immer noch nicht der Eine sondern nur das Eins ; allerdings nicht alles Einzelne, sondern das Eins in Allem , die geistige Allgegenwart ( — vorher hieß es: Gott ist nicht bloß objective [ bewußtlose] Vernunft, oder auch nur der abfolute Geist, die allgemeine geistige Substanz. S. 69 ) , d . h. die Subſtanz in der Erscheinung.
+
+Gott sich dem Undern hingiebt , hat auch , Gott als Substanz gefaßt , seine Richtigkeit , denn die Substanz ist nur wirklich in den Attributen ,
+
+Vielen faltigen , deren welches sie nicht genießt ,
+
+Spinoza kann die Liebe ist ;
+
+und Mannig daß sie sich selbst im Un ebenfalls gesagt werden , wie denn des 舅 Menschen zu Gott als die Liebe
+
+[p. 280] Gottes zu sich selbst bezeichnet. Allein bei Fichte haben diese 7. Worte gar keine bestimmte Bedeutung , weil das Verhältniß des endlichen Geistes zum abſoluten durchaus * unbeſtimmt geblieben ist; trok der Offenbarung Gottes an die Welt weiß der Mensch doch nicht , was Gott än ſich ist ; die Entäußerung Gottes bleibt nur scheinbar wie seine Offenbarung , weit ſie ſein Inneres , sein Fürſichſeyn 2 gar nicht berührt ; der frei hans delnde Wille soll , als unendlich in Allem , wie schlechthin über Allem “ ( S. 81) gedacht werden , wird aber von Fichte selbst nicht in allem , sondern nur über Allem gedacht , d. h. Gott ist für sich nur die vorausgeseşte leere Subjectivität und tødte Ruhe einerseits , und in der Welt die selbstlose Substanz anderseits , im Ganzen aber der unaufgelöste Widerspruch. Big Zuleht wird meinen solle , noch von Fichte
+
+Gottes bemerkt, daß man nicht inneres Wesen sey a priori erkannt ,
+
+ſondern ſein Begriff sey vielmehr nur ausgedacht.
+
+Ferner aber sey dieser Gottesbegriff a priori abgeleitet und aus seinen Kategorieen ontologisch- dialectisch aufgebaut , nur noch ein un wirklicher 1oder vorwirklicher ;
+
+es ist kein Gott der
+
+Allmacht und That , sich offenbarend in seinen Werken , wie ihn Herz und Gemüth , wie der ganze Mensch seiner begehrt, der lange nicht bloß im Speculativen , in der Widerspruchs losigkeit seines Denkens das höchste Intresse findet : vielmehr ist dieser apriorische Gott , in so strenger Haltung festgebannt , eigentlich bloß der höchste Ergänzungsbegriff, der Schlußstein und Gipfel eines Gedankengebäudes , und so für sich ein gar frostiges Ding. " ( S. 89) .
+
+Es wird nun auf die Erkenntniß theorie zurückgewiesen , welcher das speculative Erkennen schon als ein einseitiges nachgewieſen , und zum ſpeculativ ans ſchauenden Erkennen fortgeschritten wurde.
+
+Hier erst ſey Gott erkannt nach seiner Idee, und als das absolut Wirkliche. ,,Treten wir deßhalb anschauend hinaus in die Wirklich
+
+[p. 281] GAME keit, um den Gott der Idee darin wieder zu finden , ergänzend ihn uns zu bewähren. Erst dann , können wir behaupten , ist er uns ein wirklicher , lebendiger , die Ueberzeugung von seinem Daseyn eine überschwänglich gewisse geworden.
+
+Im A¤ , in der harmonischen Unendlichkeit der Dinge finden wir diese un mittelbarste Offenbarung des göttlichen Geistes ; er bekräftigt sich uns in seinen Werken und Fügungen , legt an ihnen ſelbſt redendes Zeugniß von ſich ab.
+
+Und diese Erkundigung der
+
+Thaten Gottes in dem Concreten der Welt ist nun die Auf gabe, wie das Interesse der fernern Theile der Philosophie.
+
+es wäre weder speculativ , noch der Natur der Anschauung gemäß , dort blos bei der aprioriſchen Idee stehen zu bleiben , oder hier das Au , die Weltharmonie bloß im 20= gemeinen anzustaunen : sondern es ist positiv erkennend in die felbe einzugehen.
+
+Dieß war der Sinn , wenn wir früher von
+
+Es ist sprachen. welches , wie fein unmittelbares Anschauen desselben , einer Anschauung oder Erfahrung Gottes es auch gesagt werde , immer etwas Unklares , ja Verkehrtes enthält - sondern ein vermitteltes in doppeltem Sinne : formell zunächst durch die vorausgehende Ontologie, qualitativ durch den in den Dingen sich offenbarenden , darin ſich der
+
+Anschauung preisgebenden Geiſt Gottes selber. "
+
+( 1. 89. 90. )
+
+Wir lernen hier das Wesen des speculativ anschaus enden Erkennens , als der höchsten Erkenntnißweise , an einem Beispiele genauer kennen.
+
+Was nun fürerst für ein Unterschied seyn mag zwischen dem Erkennen a priori und dem Ausdenken des Begriffs , laſſen wir dahin gestellt seyn . Ferner hat es aller dings seine Richtigkeit , daß , wenn wir Gott nur als die höchste Kategorie bestimmen , der Begriff Gottes noch abstract bleibt. Wenn aber Gott als die Einheit gefaßt wird , die sich im
+
+Mannigfaltigen offenbart , wenn ontologisch die Persönlich keit deducirt wird, und dieſe nur als schöpferisch zu denken
+
+[p. 282] ――― ist, so ist dieser Begriff nicht mehr ein so frostiges Ding , sondern schon der Begriff des allmächtigen und thatkråfs tigen Gottes.
+
+Allerdings hat die Philoſophie auch die Werke
+
+Gottes selbst zu erkennen , und die Erkenntniß seiner Werke wird zugleich Erkenntniß Gottes selbst seyn , allein hat man es in der Philosophie nicht durchweg so gehalten , und ist das speculativ anschauende Erkennen in diesem Sinne irgend ein neuer Standpunkt , oder etwa gar ein Hinausgehen über die Hegelsche Philosophie ?
+
+Das speculativ anschauende Erkennen besteht hier nur darin , daß auf die Ontologie oder Logik noch die Philosophie der Natur und des Geistes folgt.
+
+Wenn es
+
+ſich aber nur um die Ueberzeugung vom Daſeyn Gottes handelt , so ist schon durch die Ontologie diese Ueberzeugung so überschwänglich gewiß , daß sie schlechterdings nicht überſchwänglicher werden kann.
+
+Was aber ferner die Behauptung betrifft, daß der ontologische Begriff Gottes noch nicht das Herz und Gemüth des Menschen befriedige , so hat dieß allerdings seine volls kommene Richtigkeit ; aber ebenso wenig befriedigt er die Spe culation, sondern dieſe iſt rein für sich ebenfalls Erkenntniß der Werke Gottes als seiner Offenbarung , und das speculative Erkennen , welches nur eine Ontologie kennt , ist noch gar nicht vollendete Speculation .
+
+Sollte etwa aber bei der Erkenntniß der Werke Gottes vorzugsweise mit Herz und Gemüth vers fahren werden , nicht mit dem Denken , so würde mit dem anschauenden
+
+Erkennen das speculative aufhören , denkende Gemüth sich ebenso wenig im speculativ anschauenden Erkennen befriedigen , als das wirklich speculative Erkennen in der bloßen Ontologie. Wenn I. H. Fichte sogleich dadurch zur speculativen Auf fassung der Idee fortschreitet , daß er dieselbe als Einheit der Einheit und Mannigfaltigkeit bestimmt , so haben wir schon früher gesehen , wie Branis dagegen durch den Anfang mit [p. 283] dem absoluten Thun`nur scheinbar zu einem erfüllten concreten Jenseits gelangt.
+
+Braniß würde Fichte denselben Vorwurf machen , den er Hegel macht , daß er nåmlich , wie Spinoza , Gott nicht wahrhaft als frei begreife ; indem nämlich Gott als Person wesentlich schöpferisch seyn soll , so folgt etwas Anderes aus ihm , als er selbst , ( Braniß Metaphyſ. 204 ) und daß er schaffe , ist somit wesentlich nothwendig.
+
+Nach
+
+Braniß ist ohne dagegen
+
+Gott erst reines Fürsichseyn wesentliche Beziehung auf ein Anderes absolut frei , und auch schon ohne diese Beziehung auf ein Anderes , absolute Person. Wie wohl Braniß selbst als das Wesen des Bewußtseyns die unendliche Vermittelung mit sich selbst angiebt , so ist doch der aufgestellte Begriff des absoluten Geistes und der absoluten
+
+Persönlichkeit ohne wirkliche Vermittelung mit sich , ohne Negation und
+
+Unterschied , abstracte Begriff des Seyns.
+
+daher in Wahrheit nur der
+
+Gott ist erstens absolutes Thun, und als solches das Absolut - Erzeugende seiner ſelbſt ( causa sni), er ist zweitens absolutes Seyn und hiermit das Abſolut= Erzeugte seiner selbst ( effectus dieſes sui )
+
+drittens absolutes der absolute Begriff seiner selbst ( conceptus sui ) . ( Met. S. 195 ) .
+
+Abstrahiren wir von dem mannigfachen und concreten Vorstellungen , welche,sich an das Wort Gott anknüpfen , so ist das absolute Thun 易 als reines' Thun ſchlechterdings nicht verſchieden vom reinen Seyn. Das absolute Thun ist selbst Seyn , aber nicht bloß gedachtes Seyn , sondern an sich die That seiner selbst , wirkliches Seyn.
+
+Sein Inhalt ist eben der, daß es ist , und zwar durch sich selbst und für sich selbst , causa sui.
+
+Hierdurch aber, daß das Seyn als Thun nicht bloß ist , sondern durch sich ist, oder thut, scheint ein Unterſchied in das Thun ſelbſt ein zutreten, und daſſelbe damit zum dialektiſchen concreten Gedanken zu werden.
+
+Das absolute Thun ist Form und Inhalt zugleich, [p. 284] und in sofern allerdings concreter Gedanke , aber durchaus nicht concreter , als das Seyn , womit Hegel die Logik anfängt, welches ebenfalls nicht bloße Form * ist. Dadurch aber scheint das absolute Thun concreter zu seyn , als das Seyn , daß es als cansa sui , als sich selbst erzeugendes Seyn bestimmt ist. Dieß aber hat fürerst keine andere Bedeutung , als daß es nicht von einem außer ihm seyenden Denken nur gedacht wird , sondern daß es an sich selbst ist.
+
+Allein durch diese Beziehungs losigkeit nach außen hat es noch keine Beziehung und keinen Unterschied in sich selbst , indem nicht zu dem Urtheile
+
+" fortgeschritten wird , daß das abſolute Thun eben wegen ſeiner Reinheit und Unterschiedslosigkeit in sich, oder wegen seiner uns mittelbaren Einheit mit dem Seyn zugleich unmittelbar die einfache Negation ist , so wird es für concret in ſich ſelbſt, genommen , während es nur an sich concret ist.
+
+Indem aber das Thun in der unmittelbaren Einheit mit dem Seyn in ſich ſelbſt ohne Unterschied und Vermittelung ist , ist es als Einheit des Thuns und Seyns weder Bewußtseyn , denn das Andere ist unmittelbar es selbst, noch Selbstbewußtseyn , denn es ist nicht wirklich die Vermittelung mit sich , das Aus -sichC heraus , und In sich 7 zurück " , sondern nur unmittelbare Beziehung auf sich, oder Seyn.
+
+Das reine Thun ist hier nicht dadurch Fürsichseyn , und Bestimmtheit an und für sich , daß es sich etwa im Gegenſaße zu einem Undern , oder durch Ueberwindung dieses Andern und in demselben sich auf sich selbst bezieht , sondern vielmehr dadurch , daß nichts Underes als es ſelbſt da ist , worauf es sich beziehen könnte ; durch dieses Alleinſeyn und durch diese Unterschiedslosigkeit nach innen und außen ist es allerdings auch bestimmt , nämlich eben diese Unterschiedslosigkeit ist seine Bestimmtheit , seine Qualität , allein wie das reine Seyn in Wahrheit Nichts ist , und das reine Thun in Wahrheit Nichtsthun , so ist das reine Selbstbewußt [p. 285] seyn ohne Andersseyn und somit ohne Bewußtſeyn , in Wahr heit Nichtselbstbewußtseyn , nur der abstract festgehaltene Anfang der sich selbst erzeugenden Dialektik.
+
+Ferner kåme die Darstellung in Betracht , welche Stahl von dem Begriffe der absoluten Subjectivität , als der Basis der ganzen Philosophie , giebt , womit wir zugleich vorläufig einen Bericht über die neue Umgestaltung der Schellingschen Philosophie bekommen.
+
+Stahl will dialektisch verfahren , und beginnt daher mit der Nachweisung des scheinbaren Widerspruchs , welcher darin liegt , daß das Einfache immer zugleich ein Mannigfaltiges ſey , und verſchiedene Beſtimmungen in sich vereinige.
+
+Ferner aber enthält die Veränderung und
+
+Bewegung ebenfalls einen Widerspruch in sich , indem nämlich beides vorausſeßt , daß ein Etwas in verschiedenen Zuständen doch dasselbe bleibe.
+
+Zur Lösung dieses Wider spruchs soll ein Subject gesucht werden , welches seiner Natur nach noch etwas außer seinen Prådicaten - diesen festen Be wwwings schaffenheiten des Seyns mithin von ihnen frei ist. Nur ein solches kann , indem es die vielen Prádicate enthält , oder indem es sie nach einander annimmt , Subject unverändert bleiben.
+
+dessen ungeachtet als
+
+Denn wäre es nur seine Prå dicate, so müßte es , da dieſe andere werden , auch selbst immer ein anderes seyn. - Der Subjecte nun , die Beschaffenheiten relativ wechseln können , d. h. von einigen frei sind , von andern nicht, giebt es unzählige ; absolut aber von jeder be stimmten Beschaffenheit frei ist nur ein Subject und das ist Chang der Selbstbewußte, Persönliche. Persönlichkeit ist der Zauber der Einheit , den kein Wechsel zerstört, die durch alle möglichen Zustände hindurch gehen kann , dennoch dieselbe bleibt , diese Zustände selbst durch die Einheit des Selbstbewußtſeyns verbindet.
+
+Ich kann Alles thun und Alles werden und höre doch nicht auf ich zu seyn .
+
+Das Einzige was ich nicht werden [p. 286] kann, indem ich Ich bleibe , ist Du und Er und Es , das kann ich weder zugleich seyn , noch nach einander , es ist der absolute Widerspruch. " ( Rechtsphil. Bd . 1. S. 320-322. ) Wenn der Widerspruch hier darin bestehen soll , daß die Einheit unterschiedene Bestimmungen in ſich enthält , so besteht die Lösung oder vielmehr Erklärung dieses Widerspruches hier fürerst nur darin , daß die Einheit von dem Unterschiede ge= trennt wird.
+
+Die Einheit ist also selbst etwas Anderes als der
+
+Unterschied , vom Unterschiede selbst verſchieden , und während daher der Unterschied das Mannigfaltige und Wechselnde der Eigenschaft ist , so ist die Einheit als von diesem Mannigfaltigen verschieden , das Bleibende. in die Augen.
+
+Hier fällt sogleich zweierlei
+
+Fürerst ist die bleibende, von dem Unterſchie denen verschiedene Einheit nicht nothwendig Subject oder Perſon. Denn die Bestimmung , welche die Einheit bis jetzt erhalten hat, ist nur die , daß sie dieselbe bleibt, und noch etwas Anderes als die wechselnden Beschaffenheiten ist.
+
+Diese Einheit ist aber fürerst nur substantiell , das Eine , und wie jener Widerspruch sich ebensosehr auf die unpersönlichen Dinge bezieht , so ist mit dieser Erklärung desselben für den Begriff des Subjects noch wenig gewonnen.
+
+Auch der angegebene
+
+Unterschied der unpersönlichen und persönlichen Einheit , daß die Perſon nämlich schlechthin von jeder bestimmten Beschaffen heit frei sey , bringt die Sache nicht weiter.
+
+Denn abgesehen davon , daß der Ausgangspunkt der Untersuchung nur auf } Subjecte führt , welche " von einigen Beschaffenheiten frei ſind", so liegt die ganze Bedeutung jener angegebenen Eigen thümlichkeit der Perſon nur in dem Begriff der Beschaffenheit , der Eigenſchaft , des Zuſtandes.
+
+Daß die Perſon ihre ` „ Du stånde selbst durch die Einheit des Selbstbewußtseyns verbindet”, ist schon ein ganz Underes und Höheres , als fürerst in der Freiheit von jeder bestimmten Beschaffenheit liegt.
+
+Ohne Be [p. 287] stimmung aber dessen , was Beschaffenheit ist , fällt die Unter fcheidung zwischen unpersönlicher und persönlicher Einheit in die hier ganz bedeutungslose Bestimmung der Quantität zurück , und die Person ist immer nur das von allen Eigenschaften Unterschiedene, nicht das sich selbst Unterscheidende.
+
+Ferner aber erhalten wir hier sogleich nur die Vorstellung einer leeren Subjectivitåt. • Daß Etwas in dem Wechsel doch daffelbe Etwas bleibt , wird dadurch erklärt , daß die Einheit etwas
+
+Anderes ist , als das Unterschiedene und Mannigfaltige , oder das Beharren in dem Mannigfaltigen ist dadurch möglich, daß die Einheit auch für sich außer dem Mannigfaltigen ist. In dem aber das Subject nur als die für sich beharrende Einheit bestimmt wird , ist sie der inhaltslose Punkt , welcher nicht in ſich ſelbſt ein Unterschiedenes iſt , ſondern dieſes nur als åußern Zuſtand an sich hat , als eine Nebensache , von welcher das, Subject ſich losmachen kann. Weiter soll untersucht werden , wie es sich mit dem Wechsel der unpers sönlichen Dinge verhalte , und wie es denkbar sey , daß mehrere Persönlichkeiten , unter denen ja doch kein Uebergang Statt "I Ebenso finde, einer und derselben Welt angehören können.
+
+wie mit jedem Einzelnen , muß es sich mit dem Univerſum verhalten.
+
+Ist dieſes ein Mannigfaltiges und Veränderliches, so muß das Wechselnde in ihm gleichfalls einem Subjecte zu kommen , das von ihm unabhängig besteht.
+
+Ist nur der Selbst bewußte ein solches Subject , so kann die Einheit auch in ihm nur der persönliche Gott ſeyn. “
+
+Daß die Subſtanz die Ein heit sey, sey undenkbar, weil sie keine Realität außer ihren Affectionen habe ; auf der Seite des Subjects bleibe nur das leere Unbestimmte.
+
+Es bleibe also nach solchem Systeme ein
+
+Aggregat von Dingen , die ohne Einheit nicht denkbar ſeyen , und ohne die es keine Einheit gåbe. bei der Annahme eines
+
+Unders verhalte sich dieß persönlichen Gottes .
+
+,, Sein Wille [p. 288] ist der Stoff der Welt ; wie er Alles nur aus freiem Entschluß ſchafft , ſo iſt er , da er jedes auch ungeſchaffen laſſen kann und dennoch Gott bleibt , ein Subject im Universum , welches nicht die einzelnen Dinge ist ; sondern er ist, der er ist , auch außer ihnen, und dadurch haben sie in ihm ihre Einheit.
+
+seiner Gedanken aber
+
+Jeder und Absichten bildet in dieser großen
+
+Einheit wieder eine kleinere , indem er eine Menge Bestimmungen zu einem Produkte verbindet.
+
+So kann auch ein solches , das selbst keine Persönlichkeit ist , dennoch ein von
+
+Prádicaten freies Subject ſeyn durch die feinige ; es kann nåm lich seine Bestimmungen wechseln und bleibt dennoch daſſelbe, so lange nur noch jene Ubsicht in ihm ist. den verschiedenen Menschen
+
+Einheit unter ist aber nur deßwegen , nicht Perſonen im höchsten Sinne sind , wie Gott es ist.
+
+weil sie nur der Allmächtige , der von gar keiner Bestimmung gebunden ist , sondern jede nach seinem Willen annimmt und aufgiebt, ist im absoluten Sinne frei.
+
+Wir aber sind durch viele Be stimmungen gebunden , und Gott hat uns dieselben gegeben ; darum sind wir zwar abgeleiteter Weise Personen , aber urs sprünglich und auf ihn bezogen nur Prådicate, die er nach
+
+ſeinem Willen annimmt , und denen er nur nach seinem Willen Freiheit gegen ihre eigenen Beschaffenheiten , wie gegen ihn selbst ertheilt.
+
+Er allein ist das Band unter den Menschen und Generationen. “ ( S. 324–326) ――― Hiermit ist die Vor stellung einer leeren Subjectivität auf die Spike ge= trieben.
+
+Zunächst aber führt die zur Lösung gestellte Frage wieder nur auf eine substantielle Einheit ; denn die Substanz ist eben dadurch , daß sie an sich das Unbeſtimmte ist , von allen Attributen , welche bestimmte sind , verschieden , und indem sie zugleich die Totalität der Attribute ist , ist sie das Beharrende in allem Wechsel, wonach gerade ges fragt wird.
+
+Die absolute Perſon ſoll nun schlechthin von keinen
+
+[p. 289] Bestimmungen gebunden seyn ;
+
+als das Wesen dieß indem
+
+Gottes angesehen wird , ist er der schlechterdings substanz- und inhaltslose Punkt , und wenn das Wesen der Substanz die
+
+Unbestimmtheit an sich ist , so ist das Wesen des Subjects die Unbestimmtheit für sich. ohne Beziehung nach außen ,
+
+Dieß Fürſichſeyn ist das Atom, ohne
+
+Vermittelung in nur das ganz Leere und Leblose , die sublimste Spike sich , der Abstraction ;
+
+Inhalt dieser Person
+
+Bestimmtes zu seyn , und ihre Form , und diese Leblosigkeit für sich zu seyn . die endlichen
+
+Personen sich zu dieſer ist nur der , dieses Nichts
+
+Nothwendig werden inhaltslosen Form ebenso verhalten , wie zu dem formlosen Inhalt der Substanz.
+
+Sie sind nur Prádicate , welche die abſolute Per son nach Belieben annimmt , und es bleibt ihnen , wie im Verhältniſſe zum unbegreiflichen Schicksal , nichts weiter übrig als die Abstraction von allem Bestimmten , um sich in das Belieben der absoluten Perſon und ihr unbegreifliches Walten zu schicken. Jedoch wird weiter behauptet , daß die Person in sich selbst schon ein Mannigfaltiges sey , und es soll untersucht werden , worin diese Einheit in Gott selbst bestehe. nun verschiedene Einheiten bezeichnet.
+
+Es werden
+
+Es ist eine andere Ein heit , welche das Pferd , der Löwe als Thiere mit einander ge mein haben , und eine andere, welche die einzelnen Steine zu einem Steinhaufen verbindet ; und noch eine andere Einheit ist' die Einheit der Blåtter , des Stammes in einem Baume.
+
+kann aber die Einheit des Systems , in welcher das Einzelne ſeine Bedeutung nur in der Einheit des Ganzen hat , wieder nur eine theilweise oder formale seyn ; z . B. der Begriff des Thieres ist wohl in jedem bestimmten Thiere , aber jedes Thier hat noch ein Daseyn , über welches sich jener allgemeine Be griff gar nicht erstreckt ; z. B. ist das Thier krank, ſo iſt deß
+
+[p. 290] L wegen noch nicht der Begriff des Thieres krank.
+
+" Wir suchen nun aber in der Welt und in Gott keine theilweise Einheit, ſondern eine durchgehende.
+
+Es muß daher auch nicht Etwas geben , was nicht von jenem Einen erfüllt wäre , und so finden In jedem Act derselben , wir es wirklich in der Persönlichkeit.
+
+jedem Zustande , jedem Prädicate ist das Ganze des Selbstbe wußtseyns , welches ihre Einheit ist , enthalten , und nicht in einzelnen Beziehungen , sondern durch und durch , also nicht wie der Begriff des Thiers in den einzelnen Thieren.
+
+Ist ein
+
+Glied von mir krank , so bin Ich - das Ganze , die Einheit - krank, ist mein Denkvermögen mit etwas beschäftigt , so bin Ich damit beschäftigt.
+
+Das Selbstbewußtseyn ist aber in den einzelnen Gliedern , Zuſtånden , Handlungen der Perſon in ganz anderer Art als der Baùm im Blatte. Denn der Baum ist nur ein abgeleitetes Ganze durch die Persönlichkeit eines andern ; er kann daher zerstückelt werden , und das Bewußtſeyn des Höhern erhält noch die Einheit , es bleibt im Einzelnen nicht mehr das Ganze selbst, sondern nur der Gedanke , die Beziehung auf das Ganze , wie es der Höhere hat.
+
+Persönlichkeit dagegen ist das ursprüngliche Ganze , hier ist keine Zerſtückelung möglich; es muß in jedem Theile die Einheit nicht bloß als Gedanke und Beziehung , sondern reell , nicht ihre Wirkung , sondern sie selbst gegenwärtig ſeyn. “ ( S. 320 )
+
+Auch hier gilt zunächst dasselbe , was von der vorigen Untersuchung geſagt werden mußte , daß nåmlich dasjenige , was eigentlich gesucht wird , durch die gewählten Beiſpiele und Unterſcheidungen nicht wirklich getroffen , ſondern nur oberflächlich angedeutet ist.
+
+Untersuchung führt eigentlich nur auf die Vorstellung des Lebens und des thierischen Organismus , und nimmt dann ohne Weiteres das Selbstbewußtseyn mit herzu , ohne den wesentlichen Unterschied des Lebens vom Geiſte weiter zu beſtimmen.
+
+Jedoch haben wir hier eine ganze andere Vorstellung von der Persön= [p. 291] lichkeit als vorher ; früher war sie die Freiheit von allen Zu ſtånden , jezt iſt ſie die im Mannigfaltigen gegenwå r tige Einheit, und gerade das , wovon vorher abstrahirt wurde , um das Wesen der Persönlichkeit zu bezeichnen , wird jezt wieder herzugenommen , um die Persönlichkeit zu erfüllen und zu einer in sich selbst unterschiedenen Einheit zu erheben. Wollten wir diese Vorstellung auf Gott übertragen , so hätten wir das Absolute als Weltseele zu bestimmen , welche den Organismus des All allgegenwärtig durchdringt.
+
+Jedoch heißt es weiter , daß der logische Widerspruch bis jezt nur hinaus gerückt, nicht eigentlich aufgehoben sey ; denn wir hätten hier nur ein Mannigfaches , welches schon ursprünglich eine Ein heit sey , und doch seyen Mannigfaltigkeit und Einheit wider sprechende Begriffe.
+
+Die verschiedenen Bestimmungen könnten dem Einen nicht in der Art zukommen , daß es dieselben selbst ſey, ſondern dieſe müßten ein Verhältniß zu dem Einen haben, durch welches es dieselben sey und dennoch auch nicht sey , d. h. bestehen könne , ohne sie zu seyn. niß ist allein die That.
+
+„ Ein solches Verhält
+
+In der That hat das Subject Be stimmungen, die es eben dadurch ist, aber auch wieder nicht ist, indem es ja auch ohne dieſe That daſſelbe Subject wåre.
+
+That ist Freiheit und Freiheit ist das innerste Wesen der Persönlich keit.
+
+Jede That ist ihrem Begriffe nach eine Schöpfung, und
+
+Schöpfung ist nur denkbar als eine freie That.
+
+Denn durch sie erhält der eine selbstbewußte Wille Bestimmungen , die keis neswegs schon zu seinem Wesen gehören , die also etwas außer ihm N ein Produkt sind. So ist die Welt außer Gott : nicht daß sie von ihm unabhängig wäre , oder daß fie seyn könnte, wenn er sie nicht in jedem Augenblicke gleichsam aufs Neue wollte ; sondern dadurch , daß Gott Gott ist ohne die Welt zu ſeyn , daß er sie hervorbrachte , ohne sie hervorbringen zu müſſen. Nicht daß das Mannigfache in dem Einen enthalten sey , die 19 * logische Einheit ; sondern daß es von dem Einen geschaffen und durch dasselbe beherrscht werde , die reelle Einheit , die Einheit der That , ist das wahre System. “ ( S. 333 f. ) Uebersehen wir den Gang der Untersuchung , so haben wir zuerst die Vorstellung der leeren Subjectivität , dann die Vor stellung des Lebens und des Geiſtes , als der im Mannigfachen gegenwärtigen und fürsichfeyenden Einheit , und zuleht wird dieß Mannigfache wieder losgerissen von der Einheit , ſomit zur leeren Subjectivität zurückgekehrt , und das Mannigfache als die That dieser leeren Persönlichkeit aufgefaßt.
+
+Es iſt zunächſt leicht zu sehen , daß die Forderung , die Person, solle auch ohne irgend ein Mannigfaches doch Perſon ſeyn , weiter nichts heißt , als das Selbstbewußtseyn solle ohne Unterschied in sich , doch in sich unterschieden und lebendig bleiben. ohne Beziehung auf Underes ,
+
+Zuerst ist Gott Person, und ohne Vermittelung in sich , nur die Freiheit von allen Bestimmungen oder die abstracte Unbestimmtheit für sich ; Adann aber vollbringt er die That der Schöpfung , welches er seinem Wesen nach auch ebenſoſehr unter: Lassen konnte ; d. h. zuerst hohlen wir das Absolute zur leeren Spitze der Abstraction aus , und fassen ihn als die Leblosigkeit, und Unmöglichkeit alles Andersseyns und alles Schaffens , dann aber nehmen wir die That des Schaffens als durch unsre vorausgegangene Abstraction schlechthin unbegreiflich gewordene Thatsache auf, und obwohl wir zugestehen , daß kein Lebendiges Eins , ſondern immer ein Vieles sey , so macht doch Gott hier von eine Ausnahme , indem er ohne Unterschied in sich und außer ſich ſeyn kann und doch lebendiges Subject bleibt ; zuerst faſſen wir das Wesen Gottes als den Neid , und dann ſagen wir , er habe aus Liebe die Welt geschaffen. Auch K. P. Fischer ( die Wissenschaft der Metaphyfit im Grundrisse Stuttg. 1834) welcher die Dialektik Hegels mit der Realphilosophie Schellings zur lebendigen Einheit vermitteln [p. 293] will , fångt unmittelbar mit dem vorausseßungslosen abſoluten Subjecte an.
+
+In diesem Unfange aber ist das voraussetzungslose Subject einmal von uns vorausgesezt und anderſeits als ohne wirkliche Vermittelung in ſich , abſolut leer, d. h. weder vom Subjecte erkannt , noch an und für sich absolut.
+
+Wenn also Schelling mit der Definition der Indifferenz anfing , so wird hier mit der Vorstellung der absoluten, Subjectivität angefangen ;
+
+aber indem das absolute Subject wesentlich siegreich ist , tritt es auch zuleht als abſoluter Geist oder wirklich es absolutes Subject wieder auf.
+
+Mit der
+
+Voraussetzung aber deſſen , was zu beweisen war , und der Ent leerung dessen , was absolute Fülle ist , ist zugleich das imma nente Beweisen überhaupt abgebrochen ; und der objective Inhalt erhålt , als sich nicht selbst erzeugend , sondern in Bezug auf das vorausgesetzte Subject als fertiges Reſultat hingestellt , nur den Anklang der Dialektik.
+
+So voll daher auch die Metaphyſik von
+
+Fischer von den speculativften, Gedanken ist , welche dem Inhalte nach mit der Hegelſchen Philoſophie übereinkommen , so entbehrt fie vor Allem - wie die Schellingsche Philosophie - der Form. In Bezug auf die Hegelsche Philoſophie ſind es nun besonders zwei Punkte , wegen der man die Auffaſſung Hegels von der Persönlichkeit Gottes als eine nur scheinbare bezeichnen zu müſſen meint.
+
+Man sagt :
+
+Nach Hegel ist Gottes
+
+Persönlichkeit nur Resultat der Welt : Gott ist nicht an und für sich Person , sondern er wird Person durch ein Anderes , nämlich durch die Natur und den menschlichen Geiſt. Und hieran knüpft sich zugleich der zweite Punkt :
+
+Bei Hegel .
+
+besteht die Persönlichkeit Gottes nur darin , daß es in der Welt Wesen giebt, die von ihm wiſſen ; nur das Wiſſen des Men ſchen von Gott ist das Wiſſen Gottes von sich selbst , und Gott ist ebendarum immer nur der Welt immanent , nicht zugleich auch transcendent.
+
+[p. 294] In der weiteren Ausführung dieser Punkte weichen nun die Gegner besonders darin von einander ab , ob fie Hegel ſelbſt ein klares Bewußtseyn über seine eigene Philosophie zutrauen , und ihm ſomit die Conſequenzen , welche aus dieſer Auffaſſung der Persönlichkeit hervorgehen , selbst zukommen laſſen , oder nicht. Man nimmt diesen Proceß des göttlichen Zusichselbstkommens einfacher und zuſammengesetter.
+
+Die logische Idee ist Gott an
+
+ſich, und, um die Sache leichter bewerkstelligen zu können , nimmt man darauf weiter keine Rücksicht , daß Hegel ſchon die Idee als undurchdringliche Persönlichkeit auffaßt , (Log. III., 387) ſondern bezeichnet die Idee als die unpersönliche Vernunft. Die Idee wird nun zur Natur, oder fållt , sie weiß selbst nicht wie, von sich ab ; aus der Natur aber geht der Mensch hervor, und wie dieser sich zu Gott erhebt , erhebt sich Gott auch zu sich selbst.
+
+Oder man läßt auch die historische Entwickelung des menschlichen Bewußtseyns in das göttliche Bewußtseyn ſelbſt eintreten ; man rechnet also das Wissen der nichtchristlichen Religionen von Gott noch nicht zum Bewußtseyn Gottes von sich ſelbſt, ſondern läßt Gott erst in Chriftus zum Selbstbewußtſeyn kommen ; jedoch wie das religiöse Wiſſen von Gott noch ein endliches und mangelhaftes ist , so geht der Proceß noch über Christus hinaus ――― bis zu Hegel hin , und Gott erlangt alſo erst in der Person Hegels sein völlig klares Selbstbewußtseyn. Hier besonders ist der Punct , wo die Hegelsche Philoſophie zur Carricatur wird , und als unglaubliches Beispiel menſchlicher Verworrenheit aufgestellt zu werden pflegt.
+
+Indem Gott in
+
+Hegel zum Selbstbewußtseyn kam , hat sich Hegel für den wirklichen Christus oder auch für den heiligen Geist ausgegeben , und seine Schüler - haben dieß bestätigt , auch Hegel so be: handelt. ( Morgenblatt 1836. Literaturblatt 33. )
+
+b nun das
+
+Selbstbewußtseyn Gottes mit dem Tode Hegels verschwunden , oder etwa in den Schülern fortlebt , oder noch über die Hegelsche
+
+[p. 295] Philosophie hinaus sich vervollkommnen foll´ -- diese Fragen mag sich Jeder nach Belieben beantworten. Wie schon bemerkt , ist es besonders Fichte , welcher die Auffassung Gottes als des ewigen Processes als das Eigenthüm liche der Hegelschen Philoſophie ansieht.
+
+„ Darin , daß Hegel
+
+Gott als die absolute Idee , als den unendlichen Proceß, kurz als Lebendigen bestimmt, liegt das Charakteristische seines Standpunktes , und sein Vorzug gegen andere Philoſophien ; aber auch der abſolute Rückstand gegen die höchste Anforderung. Gott ist ihm nicht bloße Substanz ( was er als den charakteristischen Ausdruck der Spinozischen Philosophie selbst bezeichnet hat ) noch die mattentfärbte Indifferenz oder todte Iden= tität des Subjectiven und Objectiven : sondern eben der leben dige Proceß der Subjectivität , sich selbst das unendlich Andere und darin Eins und selbst zu seyn ; die absolute Fluktuation des ewig gesetzten und gerade darin wieder aufgehobenen und versöhnten Gegensates.
+
+Er ist nie erschöpft oder geht auf in einer dieser Selbstgestaltungen , sondern greift über jede derselben unendlich hinüber , die in ihm dadurch als ein Ideelles gefest ist. So ist Gott hier das ewige Anschauen seiner selbst im Andern - die lebendige Schöpfung als unendliche Subject - Objectivitåt.
+
+Aber eben weil er darin die Aktuali tåt und Unruhe des abſoluten Proceſſes ist, fehlt ihm noch der Kern , der ruhende Mittelpunkt der absoluten Persönlich keit.
+
+Die unendliche Lebendigkeit Gottes ist im Begriffe dar gethan und geleistet ; ―――― und dieß haben wir , die man von dorther beschuldigt , Hegel zu mißverſtehen und zu mißdeuten , nicht nur zugegeben , sondern långst schon als sein weſentliches aber die andere Seite tritt zurück , die
+
+Verdienst anerkannt :
+
+ewige Ruhe und innerlich unbewegte Klarheit der Iden titát, das ewige Band selbst sich erfassender Einheit, wodurch der 211 - Wirksame eben damit auch vor sich selbst der ewig
+
+[p. 296] Eine , Allgenugsame und unbewegt Seelige
+
+Dem unendlich übergreifenden Proceſſe iſt das einfach ruhende Auge, das unverrückbare Selbst noch einzupflanzen.
+
+Dieß fehlt eben so entschieden jenem Standpunkte , und damit hången alle Hårs ten und Incongruenzen zusammen , welche wir an ihm aufge wiesen.
+
+Deßhalb geht bei ihm erſt aus seiner in ſich zerworfenen
+
+Naturexistenz Gott als der Geist sich auf, und wird überhaupt zum elbst , zur einzelnen Persönlichkeit ; bis er endlich im abſoluten Geiste , zuhöchst in der Philosophie, der sich ſelbſt in der Totalitåt ſeiner Unterſchiede wiſſende und genießende göttliche Geist geworden ist.
+
+Die unendliche Subjectivitåt hat sich eben darin als die über alle Unterschiede , als einzelne hin übergreifende bewährt und erwiesen .
+
+So erzeugt sich
+
+Gott hier ewig als den Geiſt : er ist Resultat , und zwar das höchste seines absoluten Processes , somit auch Ziel der Weltgeschichte , wie des ganzen Systems ; und so erst schließt sich der Inhalt der drei leßten Paragraphen´in der En cyklopådie zuſammenhångend und in überzeugender Konſequenz(an das eben Entwickelte : die logische Idee hat sich durch alle Unterschiede der Natur und des Geistes hindurchgeführt und bestätigt. ( Fichte Idee der Persönlichkeit. S. 35-37), einer früheren Darstellung der Hegelschen Philosophie ( Ueber Gegensatz u. f. w . Th. I. ) giebt Fichte als den Grundirrthum des ganzen Systems die festgehaltene und consequent durchge führte Voraussetzung an , daß Seyn und Denken das schlechthin identische sind ; wie also das Denken von Stufe zu Stufe sich zu immer reicheren Reſultaten entwickelt , so ist eben dieß die reale Selbstvollendung des Seyns ; denselben Kreislauf, den die Philofophie bildet , bildet auch Gott selbst. Diese Meinung , daß bei Hegel Seyn und Denken fchlechthin identisch sind , håtten wir vorläufig in dem in Rede stehenden Punkte als das Grundmißverständniß zu bezeichnen. -
+
+[p. 297] Zunächst hat es allerdings seine vollkommene Richtigkeit , daß nach Hegel das Wiſſen des Menschen von Gott auch das Wissen Gottes von sich selbst ist.
+
+Allein es kommt Alles auf die nähere Bestimmung an.
+
+Wenn wir ein wirkliches Wiſſen des Menschen von Gott behaupten , so geben wir damit auch sogleich zu , daß dieses Wissen das Seyn Gottes in uns iſt. Ist unsre Erhebung zu Gott auch zugleich ein wirkliches Un kommen bei ihm , und nicht eine bloße resultatloſe Sehnsucht , eine bloße Erhebung ins Blaue hinein , so ist Gott in unserm Denken gegenwärtig , und zwar wie er an ſich ein persönlicher ist, als persönlicher gegenwärtig ;
+
+indem unser Wiſſen
+
+ſeinen Gegenstand trifft , verhält sich Gott in unserm Wiſſen zu sich selbst, und er ist nicht nur ein Jenseits., außer unserer An dacht , sondern wirklich Inhalt unseres Geistes .
+
+Wenn aber das Denken in der Erhebung zu Gott zugleich seine abstracte Endlichkeit festhält , so ist diese Erbebung nur ein Hinausgehen, nur eine unbefriedigte Sehnsucht , das unglückliche Gefühl der Endlichkeit ; der Inhalt , welcher durch diese Erhebung in das Bewußtseyn eintritt , bleibt ein endlicher und nur dem endlichen Geiste angehöriger.
+
+Wollten wir diese Sehnsucht als eine wirka liche Erhebung zu Gott , auch nur als einen Glauben an Gott bezeichnen , so würde damit Gott selbst zu einem vom endlichen Denken erzeugter , dieser Gott wäre erst durch uns entstanden , håtte nur ein Seyn in uns , oder wir glauben vielmehr in dieser Erhebung nur an unsern Glauben , beten unsern eigenen Gedanken an ; denn soll dieser Inhalt , der unser Bewußtseyn erfüllt , wirklich Gott seyn und nicht erst durch unser Wiſſen entstanden, so muß Gott nicht nur darüber hinaus liegen , nicht nur in sich selbst zurückgezogen bleiben , sondern zugleich ein Verhältniß zu uns haben , in unser Wissen selbst eintreten , also unsere Erhebung muß zugleich seine Entåußerung ſeyn , d. h. unser Wiſſen von ihm , enthält ihn selbst, ist nicht bloß eine
+
+[p. 298] Beziehung unser zu uns , sondern Gottes zu uns , und zwar nicht bloß zu unserm endlichen Daseyn , sondern zu unserer Erhebung zu ihm.
+
+der ontologische Beweis für das
+
+Daseyn Gottes so gefaßt wird , daß daraus , daß wir den Be griff oder vielmehr die Vorstellung Gottes haben , gefolgert werden soll , daß Gott auch wirklich ist, so erwiedert man ein fach, daß wir doch mancherlei Begriffe haben können , die schlech terdings nichts Wirkliches enthalten , sondern eben nur unsere Vorstellungen sind .
+
+Jener Uebergang vom subjectiven Denken und ſeinem Inhalte zum objectiven Seyn , das auch ohne mein Denken durch sich selbst ist , erscheint alſo als ein unberechtigter. Soviel aber leuchtet ſogleich ein , daß solange ich meinen Begriff von Gott nur für den meinigen halte , und von ihm noch nicht auf das Seyn Gottes schließen will , mein Begriff_von Gott eben dieß enthålt , daß Gott´ein Weſen iſt , das nicht erst durch mein Denken in Existenz tritt , sondern wenn er existirt, durch sich selbst ist.
+
+Mit der Ueberzeugung von dem Seyn
+
+Gottes ist darum sogleich das Bewußtseyn verbunden , daß Gott durch die That ſeiner selbst existirt , und für meinen Glauben an ihn eine Vorausseßung ist.
+
+Mag ich nun auch immer hin dabei stehen bleiben , daß ich nur durch mein Denken zu Gott gekommen bin , so bin ich doch durch mein Denken über mich hinaus gekommen , und ich habe etwas durch mein Denken erzeugt, welches kein durch mein Denken erzeugtes ist; ich denke somit nicht bloß einen Gedanken , ſondern ein Seyn , und bin durch meine Erhebung über die bloße Erhebung hinaus und bei einem Seyn angekommen , das an sich , aber eben so sehr auch für mich ist. Ebenso nun , wie ich von meiner Vorstellung von Gott nicht so ohne Weiteres auf das objective Seyn Gottes schließen kann , so ist es auch etwas ganz Anderes , wenn ich sage, daß das Wiſſen des Menschen von Gott das Selbstbewußtſeyn Gottes [p. 299] im Menschen sey , als wenn ich behaupte : Gott kommt im Menschen zum Bewußtſeyn , und ſein Selbstbewußtseyn besteht nur darin , daß der endliche Geist von ihm weiß. --- Schon früher ist bemerkt , daß auch nach Spinoza die Liebe des Men schen zu Gott die Liebe Gottes zu sich selbst ist.
+
+Hierdurch aber foll bei Spinoza das Abſolute nicht auch zur Persönlichkeit wer den , sondern soll vielmehr die abſolute Substanz bleiben ; also diese Beziehung des endlichen Geistes auf Gott soll keine Vers ånderung in dem Wesen der Substanz selbst hervorbringen , vielmehr ist mein Wissen von Gott nur dann wahrhaftes Wissen, wenn ich ihn nicht als persönlichen , sondern als Subſtanz denke. Wie Gott an sich und durch sich ist , so ist er auch in meinem wahrhaften Wiſſen gegenwärtig , und bringe ich aus meiner Endlichkeit etwas hinzu , so verkehre ich mein Wiſſen in Irrthum ; wir müßten alſo ſagen , daß , wenn Gott durch mein Wiſſen von ihm erst zum persönlichen werde , hiermit Gott auf hore causa sui zu seyn , und dieser Fortgang von meinem Wiſſen zur Persönlichkeit Gottes an und für sich sey ein ganz ähnlicher , als der Schluß von meiner Vorstellung von Gott auf das objective Seyn Gottes an sich selbst.
+
+Indem aber mein Denken die absolute Substanz zu seinem Inhalte hat , und diese nicht durch mein Wiſſen zur Person wird , so. hat die Substanz auch nur ein substantielles und aus ihrem eignen Wesen hervorgehendes Verhältniß zu meinem Denken.
+
+Substanz aber ist als die unmittelbare Negation aller Unter schiede nur die ununterschiedene Identität ; dadurch nun , daß das endliche Subject die Subſtanz denkt , tritt kein Unterſchied, keine Negation und Bestimmtheit in die Substanz selbst ein , und indem die Substanz in dem endlichen Geiste sich selbst denkt , hålt sie das Endliche von sich ab , ihre Beziehung auf ſich ist ohne Andersseyn und Vermittelung , ohne Bewußtſeyn , und die Substanz bleibt daher wie sie war nur die einfache Be [p. 300] ziehung auf sich selbst oder Seyn.
+
+Die Beziehung auf die
+
+Endlichkeit hat die Substanz nicht in sich selbst , und von dieſer Beziehung muß ich also abstrahiren , wenn ich die Substanz ihrem Wesen gemäß denken will , d. h. ich muß zugleich von der Beziehung der Substanz auf mich abstrahiren , um die Substanz von aller Endlichkeit rein zu erhalten.
+
+Dieß würde zu nächst dadurch geschehen , daß ich selbst aufhörte die Subſtanz zu denken ; denn mein endliches Bewußtseyn hat im Verhålt niß zur Substanz zu verschwinden ; dadurch erst würde die Unterschiedslosigkeit der Substanz hergestellt , und ihr Sichselbst denken zur unmittelbaren Einheit mit dem Seyn gereinigt , d. h. das Denken der Subſtanz hörte nun erst in Wahrheit auf, Sich selbstdenken zu seyn , und würde ſubſtantielle Identität des Seyns und Denkens.
+
+Oder wollten wir von dem Denken der Subs
+
+ſtanz nicht ablaſſen , ſo müßten wir wenigstens bei der bloßen Erhebung stehen bleiben , so daß eben dieß Verschwinden der Erhebung in sich selbst, die totale Nichtigkeit des endlichen Bewußtſeyns ausdrückte. Man hat also vollkommen Recht , wenn man die Persönlichkeit, welche Gott erst durch das Wissen des Menschen von ihm bekommt, für keine wirkliche göttliche Persönlichkeit gelten lassen will.
+
+Gegen diese Behauptung würde man vielmehr den
+
+Begriff der Substanz festzuhalten haben , und diese läßt sich als causa sui nichts äußerlich aufdringen , was sie nicht an und für sich schon ist.
+
+Die Substanz ist so sehr entfernt , durch das
+
+Endliche etwas Anderes zu werden , daß sie vielmehr selbst die Macht ist , das Endliche zu vernichten ; und der Meinung , daß die Substanz durch das Wiſſen des Menschen zur Person werde , håtten wir vielmehr das Gebot der Substanz gegens überzustellen , daß der Mensch überhaupt aufhöre , die Subſtanz zu denken , um nicht sich sondern der Substanz die Ehre zu geben.
+
+Wie ich durch mein Vorstellen Gott nicht ſchaffe , ſo [p. 301] wäre die durch mein Wissen von Gott hervorgegangene Persönlichkeit Gottes auch nur eine Kreatur des endlichen Bewußtseyns.
+
+Allein eine ganz andere Frage ist , ob nicht dennoch das Sichselbstwissen Gottes und das Wissen des Menschen von ihm in einem nothwendigen Verhältnisse und Zuſammenhange mit einander stehen ; ob nicht wie die Subſtanz wesentlich erscheint, weil sie nicht bloß Seyn, sondern Wesen ist , ebenso die Persönlichkeit Gottes sich offenbart , wie sie sich selbst schon offenbar ist.
+
+Dann würde sich also das Verhältniß umkehren :
+
+nicht mein Wiſſen von Gott ist der Grund seiner Persönlichkeit, sondern weil Gott als Person sich ewig offenbar ist , wird er unserm Wissen offenbar. Jedoch indem wir die Persönlichkeit Gottes und unſer Wiſſen von ihm in ein nothwendiges Verhältniß sehen , scheint mit der Umkehrung jenes Verhältnisses wenig geholfen.
+
+Gottes
+
+Wissen von sich selbst scheint so immer nicht von unserm Wiſſen von ihm loskommen zu können , so daß also Gott , um persönlich zu seyn , sich immer verendlichen muß , und also doch fein Selbstbewußtseyn von dem endlichen Bewußtseyn erſt be kommt.
+
+Wir håtten somit die Vorstellung des Processes , des zeitlichen Zusichselbstkommens , oder des Werdens des
+
+Selbstbewußtseyns , nicht der absoluten Wirklichkeit desselben. Wenn wir nun in dieſem Proceſſe das ruhige Auge vermissen , so ist doch mit dem Worte Ruhe und mit der Be = hauptung , daß dieser Proceß selbst die Persönlichkeit Gottes zur Voraussetzung habe , und von ihr ausgehe , noch sehr wenig geholfen.
+
+Kommt es bloß auf das Wort und die Vor stellung der Ruhe an , so würde es zur Vertheidigung Hegels hinreichen , einfach auf seine Worte zu verweisen : ,, Meine An= sicht ist insofern , daß die Idee nur als Proceß in ihr ( wie Werden ein Beispiel ist) , als Bewegung ausgedrückt und gefaßt werden muß ; denn das Wahre ist nicht ein nur ruhendes,
+
+[p. 302] --RANG feyendes, sondern nur als sich selbst bewegend , als lebendig ; was auch Empfindungsweise aufgefaßt , die ewige Liebe genannt worden ist ; nur als diese Bewegung in sich , die ebenso absolute Ruhe ist , ist die Idee Leben , Geist."
+
+(Hegels Werke
+
+Bd. 17. S. 525 ) Um uns nicht mit der Vorstellung der Ruhe zu begnügen, bemerken wir vor Allem die Schwierigkeit , welche sich dem Be So sehr greifen der absoluten Subjectivitåt entgegenstellt. sich H. Fichte auch gegen den göttlichen Proceß erklärt , ſo müßte er doch auf die Frage , was Gott ohne die Welt sey , noth wendig antworten : ohne die Welt ist Gott nicht Person , denn die Person ist Inſichbeſtimmtſeyn gegen Anderes , und „ die Persönlichkeit Gottes ist nur als die unendlich schöpferische zu denken." Wollten wir mit dieser Behauptung ähnlich verfahren, wie man mit Hegel verfährt , ſo müßten wir weiter folgern : also ist die Welt die Voraussetzung der Persönlichkeit, Gottes , und indem Gott ohne die Schöpfung nicht persönlich ist , so hat er auch nicht als Perſon die Welt geschaffen , ſondern ist vielmehr erst durch den Proceß der Schöpfung persönlich ge= worden.
+
+Dem Gott , der war ehe denn die Welt war , und welcher der Ausgangspunkt und die Voraussetzung der Schöpfung ist , fehlt ebenfalls das ruhige Auge des Selbſibewußtſeyns. Ganz im Allgemeinen aber müßten wir wenigstens behaupten , daß Gott ohne die Welt nicht Schöpfer sey , und keine Beziehung zur Welt habe.
+
+Jedoch werden wir hieraus nicht schließen wollen , daß Gott durch die Welt zum Schöpfer geworden , oder daß er als Schöpfer nicht durch sich selbst sondern durch das Geſchaffene vermittelt sey.
+
+Vielmehr ist der
+
+Sinn gerade der entgegengeseßte , daß die Welt als geschaffene So einfach aber auch doch1 die Philoſophie muß , scheint hier die Sache zu seyn durch Gott bedingt und vermittelt ist.
+
+die Art und Weise der Vermittelung nothwendig auch [p. 303] ausdrücken und begreifen .
+
+Noch mehr aber scheint sich die absolute Subjectivität durch die Weise ihrer Vermittelung in sich , aller philosophischen Erkenntniß zu widersehen. Das Subject ist wesentlich sein eigenes Resultat , nicht das Resultat eines Anderen , und indem es sich zu einem An deren verhält , ist es selbst schon die Vorausseßung dieses Verhältnisses ; also es wird nicht zum Subject , sondern das Selbst bewußtseyn ist vielmehr als das Sichselbstseßen das Aufheben alles Werdens , das Abbrechen aller Vermittelung durch ein Anderes.
+
+Hieraus scheint die Forderung hervorzugehen , daß , um das Subject seinem Wesen gemäß darzustellen , mit dem felben unmittelbar anzufangen sey ; wie es an sich das Sehen seiner selbst ist , ist es für Anderes und auch für unser Erkennen eine Voraussetzung , und nur als diese Voraus sehung wäre es erkannt und begriffen.
+
+Indem wir aber das
+
+Subject voraussehen , haben wir es eben nicht erkannt, ſondern vielmehr vorausgesetzt , und so sehr wir auch versichern möchten , daß wir uns erst in dieser Voraussetzung beruhigt fühlten, so håtte doch auf dem Felde des begreifenden Denkens die Erwiderung ihre vollkommene Geltung , daß wir vielmehr eben darum , weil das Subject nur als eine Voraussetzung aufgestellt werden könne , von diesem Glauben ablaſſen müßten , indem die Vorstellung der Subjectivität sich gerade dadurch als eine bloß subjective kenntlich machte.
+
+Anderseits aber ist diese von uns vorausgesetzte absolute Subjectivität auch wirklich weiter nichts als eine leere Form.
+
+Wenn wir Gott als das reine
+
+Seyn auffaſſen , ſo fällt sogleich in die Augen , daß diese Abstraktion unserer Vorstellung von Gott noch sehr wenig ent spricht ; dagegen scheinen wir mit der Subjectivität sogleich in eine viel höhere Sphäre zu treten.
+
+Dieser Schein kommt aber zunächst nur daher , daß wir unbewußt aus unserer Vorstellung beliebigen Inhalt hinzuthun, der in der Voraussetzung der ein [p. 304] fachen Subjectivitåt noch ganz und gar nicht liegt.
+
+Wir drücken uns alſo wohl aus : Gott ist absolute Perſon , und meinen damit , daß dieſe Person allgütig , allgerecht , allmächtig u. s. w. sey : diese verschiedenen Bestimmungen aber liegen noch nicht in der einfachen Subjectivität , welche unmittelbar den Anfang macht , sondern diese ist vielmehr eine solche , welche „ von allen Bestimmungen frei " d . h. entleert ist.
+
+Nehmen wir die Sub jectivitåt also rein als den Anfang , so hat sie dem Inhalte nach geradezu gar nichts vor dem Seyn voraus ; sie soll aller: dings absolute Persönlichkeit seyn , und in Betracht hierauf nennen wir sie auch wohl sogleich Selbſibewußtseyn , Geiſt u. s. w. allein dieß sind auch nur bedeutungslose Worte , und der Aus druck der Subjectivitåt bringt nur den Schein herbei , als håtten wir hiermit schon eine unſerer Vorstellung von Gott entſprechende concrete Bestimmung. Gott?
+
+Gott weiß sich selbst — aber was ist
+
+Das Anschauen seiner selbst als seines Inhalts und Wesens ist ein leeres Anschauen , wenn auf die Frage nach dem Wesen Gottes immer nur wieder das Anschauen selbst genannt wird ;
+
+wir haben so immer nur eine Be stimmung , und erst mit dem Unterschiede erhalten wir einen Inhalt. Bei diesem leeren Sichselbstwissen können wir nun schon darum nicht stehen bleiben, weil thatsåchlich noch etwas Anderes, nåm lich die Welt da ist.
+
+Den Uebergang von dem vorausgesetzten
+
+Subjecte zu diesem Anderen bildet nun die That.
+
+Wir scheinen hiermit den Fortgang unserer Erkenntniß ganz der Sache selbst an zupaſſen ; zugleich haben wir mit Sicherheit dieß ausgedrückt, daß Gott nicht erst durch die Welt Subject geworden ist , sondern als Subject die Welt erschaffen hat.
+
+Sogleich aber tritt der
+
+Unterschied unserer Erkenntniß von dem Inhalte ein , daß nach ´unserem Fortgange die leere Gewißheit seiner selbst die Welt erschaffen hat.
+
+Hiermit findet aber das Gegentheil von dem
+
+[p. 305] Statt, was wir beabsichtigen ; denn jene leere Subjectivitåt be kommt erst durch die That und durch die Beziehung auf die Welt einen wirklichen Inhalt ; nun mögen wir sie als allgütig, allmächtig u. s. w. bezeichnen, während wir vorher nur das leere Anschauen ihrer selbst von ihr aussagen konnten.
+
+Zu 3u gleich aber müssen wir dieß Erfülltwerden durch ein Anderes auf unser Erkennen nehmen , und gestehen , daß die vorausge ſetzte Subjectivitåt , mit welcher wir anfingen , nicht die absolute war , sondern nur eine subjective endliche Vorstellung.
+
+bloße Geständniß aber , daß wir dieß so und nicht anders meinen, ist auch weiter nichts als eine einfache Versicherung , und indem sich der Inhalt dieser Versicherung in dem Fortgange der Er kenntniß selbst nicht ausdrückt , dürften wir nichts dagegen haben, wenn Jemand aus dem Gegebenen die Folgerung machte : also wird Gott erst durch die That und durch die Beziehung auf die Welt erfülltes Subject , allwiſſend , allmächtig u. s. w. Wollten wir die Leerheit der vorausgesetzten Subjectivitåt aufheben , so würde dieß zunächſt dadurch geschehen , daß wir fie als Resultat erscheinen ließen , indem durch das Werden und Vermitteln sogleich unterschiedene Bestimmungen und ein concreter Inhalt hineinkommen würde.
+
+Jedoch könnte dieß nicht in der Weise geschehen , daß wir etwa nur subjective Reflexionen vorausschickten , um durch ein beliebiges Hin- und Herreden den Anfang mit der vorausgesetzten Subjectivität .plauſibel zu machen ; denn dann wåre das Reſultat immer nur die Abstrac= tion von dem Vorausgehenden , und so leer als wie vorher. Jenem Versuche aber , das absolute Subject als Resultat er scheinen zu lassen , scheint sich der Begriff der Subjectivität durchaus entgegenzustellen.
+
+Denn wenn auch das Werden einen
+
+Inhalt herbeischafft , so wäre doch das Subject als Resultat durch dieß Werden und durch ein Anderes vermittelt.
+
+Damit hört das Subject sogleich auf absolut zu seyn , und wird zu [p. 306] einem endlichen und bedingten ; oder vielmehr scheint es gerades zu unmöglich , zur Form der Subjectivitåt überhaupt fortzugehn, indem das Subject als die Freiheit wesentlich nicht durch ein Underes ist, sondern von ſich ſelbſt anfångt.
+
+Mit der Freiheit aber geht auch die That verloren und der ganze Inhalt scheint sich in die Nothwendigkeit des Seyns und Wesens zu verlieren. Auch scheint damit wenig gethan , wenn wir festhalten , daß das absolute Subject nur für uns Reſultat iſt, an sich aber nicht ; denn mit dem bloßen Sagen ist wieder gar nichts geholfen , und wir können unmöglich so ohne Weiteres beliebiges von dem Inhalte wieder abziehen , ohne ihn selbst zu vernichten . Jene Versicherung , daß das abſolute Subject nur für uns Reſultat ist , jene Umkehrung des Resultats in das an sich Erſte muß also ebenfalls bewiesen werden , muß sich in der Entwickelung selbst als nothwendig ergeben , wollen wir wirklich über die Voraussetzung der Subjectivitåt hinaus kommen. Für die Erkenntniß der absoluten Subjectivitåt kommt es also vor Allem auf die Methode an.
+
+Hier aber muß des hauptet werden , daß , wenn sich der Vorwurf gegen die Philo: sophie Hegels , daß sie Gott nicht als einen persönlichen auf: fasse, an die Methode anknüpft , diese vielmehr ihrem innersten Wesen nach die Methode der Freiheit ist, und daß durch sie allein die absolute Persönlich: keit Gottes erkannt werden kann.
+
+Die dialektische
+
+Methode ist ihrem einfachen Rhythmus nach schon das Schema der Subjectivität , und ihre Durchführung und Vollendung noth wendig mit dem Begriffe der absoluten Persönlichkeit verbunden. Für unsere jezige Untersuchung haben wir nun die Methode vorzugsweise nach einer Seite hin in Betrachtung zu ziehen ; nämlich in Bezug auf das Verhältniß der Unmittelbarkeit und Vermittelung , woraus sich der Begriff der absoluten Vermittelung ergeben wird.
+
+Die Methode nämlich hebt die Voraus
+
+| [p. 307] sehung der leeren Subjectivität dadurch auf, daß sie die ſelbe als Resultat erscheinen läßt , hebt aber zugleich die End lichkeit der Vermittelung auf, indem sie das Reſultat als nicht durch ein Anderes vermittelt , sondern vielmehr als absolute Vermittelung mit ſich , als Letztes und Erſtes , darstellt und ausdrüft. Das Seyn als der Anfang der Logik ist die einfache Un mittelbarkeit , und daher die dürftigste und abstracteste Bestim= mung.
+
+Als reines
+
+Seyn hat es weder eine Beziehung nach außen , wodurch es ein bestimmtes würde , noch Bestimmung in sich , wodurch es ein bestimmter Inhalt an sich selbst wäre. Wie es aber schlechterdings nichts giebt , was ein nur Unmittels 1 bares wåre , so ist auch das Seyn ebenfalls vermittelt ; aber diese Vermittelung fällt in Bezug auf das Seyn in uns. Das Seyn ist so einerseits das Reſultat der Wiſſenſchaft des Bewußtseyns , und durch diese vermittelt; anderseits ist es als reines Seyn ohne weitere Bestimmung nur in unserm Den fen.
+
+Wollten wir dieß reine Seyn als alle Wahrheit und
+
+Wirklichkeit festhalten , so entstånde die Forderung , es von unſerer Subjectivitåt loszureißen , und als daseyend aufzus weisen.
+
+Wir finden empirisch die Mannigfaltigkeit der Dinge und der Welt vor , und legen wir das Seyn in diese Welt hinein , ſo wåre das reine Seyn in allem Daſeyn das Abſolute. Das Daseyn selbst aber in ſeinen bestimmten Unterschieden wåre ein - Nichtiges und Nichtseyendes.
+
+Wie wir hier aber 4 das be
+
+ſtimmte Daſeyn nur empirisch aufgenommen haben , so ist auch die Zuthat , welche dadurch das reine Seyn bekommt , eine dem Seyn selbst äußerliche , und von außen an dasselbe herange brachte.
+
+Das reine Seyn ist , als allgemeines , Gedanke , aber nicht Denken für ſich , Sichſelbſtdenken , ſondern Denken an sich, und alles beſtimmte Seyn , in welchem es wirklich wäre, iſt nicht für dasselbe, oder gar durch dasselbe, auch nicht seine 20*
+
+[p. 308] Erscheinung , sondern es ist eben so unmittelbar da , als das Seyn selbst.
+
+Das bestimmte Daseyn wåre so , obwohl es nur in Bezug auf das Seyn als ein nichtiges bezeichnet würde , doch nicht durch das Seyn_ſelbſt vermittelt, ſondern die Vermittelung fiele wieder in uns , welche das Daseyn auf nehmen , und von ihm zum Seyn übergehen.
+
+In dieſem wille kürlichen Hinzuthun des Daseyns als eines Anderen zum Seyn liegt wenigstens die Wahrheit , daß das Seyn als solches nicht
+
+Jene Willkür aber , das Seyn ohne Weiteres als Seyn im Daseyn aufzufassen , hebt die Logik durch den Fortgang vom Seyn zu Nichts auf, und sagt damit , was das Seyn an sich und unmittelbar in Wahrheit ist.
+
+Erst mit dem Fortgange vom Seyn zu Nichts haben wir das Seyn in Wahrheit ges dacht, oder damit in Wahrheit erst angefangen zu denken , indem die Tautologie des
+
+Mit diesem Fortgange wird aber zugleich die Vermittelung f SC in das Seyn selbst verlegt , und schon das Werden ist die cons
+
+Seyn - Seyn eine bloße Gedankenlosigkeit crete Einheit unterschiedener Bestimmungen und nicht bloß abstrakter Gedanke sondern Begriff.
+
+Durch die ganze Sphåre des Seyns aber bezieht sich die Vermittelung nur auf den be
+
+S stimmten Inhalt , nicht auf die Form des Seyns und der Uns mittelbarkeit überhaupt.
+
+Dieß drückt sich am Seyn selbst das
+
+S E durch aus , daß aller Fortgang im Seyn die Gestalt des Uebers gehens in ein Anderes hat ; denn indem das Seyn noch nicht negative Beziehung auf sich ist , sind die Bestimmungen desselben nicht durch es selbst gesezte , sondern seyende und werdende. Das Maaß ist die höchste Bestimmung des Seyns und seine Vollendung ; aber es ist noch die feyende Einheit der Qualität und Quantitåt , und´als solche noch nicht gegen den Unterschied als ein Anderes in sich reflectirt ; oder das Maaß ist noch nicht an sich die Einheit der Unmittelbarkeit und Ver mittelung, noch nicht die Vermittelung mit sich als das Sezen [p. 309] eines Anderen , und Aufheben desselben zu einem Vermittelten. Wie sich aber jene seyende Einheit des Qualitativen und Quantitativen im Maaßloſen aufhebt , so hebt ſich damit das Seyn überhaupt zum Wesen auf.
+
+Das Maaßloſe iſt als die gefeßte
+
+Negation aller unmittelbaren Bestimmungen, die Negation seiner selbst , oder die absolute Negativität und Gleichgültigkeit gegen sich , der einfache Widerspruch mit ſich , das zu seyn , was es nicht ist , und das nicht zu seyn , was es ist. In der Sphäre des Wesens tritt ein anderes Verhältniß der Unmittelbarkeit und Vermittelung ein.
+
+Zunächst erscheint das Wesen durch das Seyn geworden , allein indem es die eigene Negativität des Seyns iſt , wodurch es ſich aufgehoben, ist das Wesen die Wahrheit des Seyns .
+
+Daß Weſen ist daher nicht vermittelt durch das Seyn , sondern das Wesen ist an sich selbst schon die Einheit der Unmittelbarkeit uud Vermittelung.
+
+Diese Einheit aber ist im Wesen selbst noch unmittelbar oder seyende Einheit , und diese Unmittelbarkeit noch der Rest des Seyns , der dem Wesen anklebt und daſſelbe vom Begriffe unterscheidet.
+
+Das Wesen ist nämlich als die
+
+Negativität ſeiner selbst nur Beziehung auf sich , indem es zu gleich Beziehung auf ein Anderes ist; dieß Andere aber ist selbst kein unmittelbar Anderes , sondern durch das Wesen selbst ge= 1 settes , so daß also das Wesen die Vermittelung mit sich selbst
+
+Das Wesen ist daher schon Bewegung , Proceß, und es fragt sich, wie diese Bewegung beschaffen ist , und sich von dem Es ist Proceffe des Begriffs und der Idee unterscheidet. eine wesentliche Bestimmung der Schellingſchen Philoſophie , daß die Indifferenz nicht wirklich ist , wenn ebenfalls die
+
+Differenz gesezt ist ; und wir hätten hier schon das , was man Hegel gegenüber fordert , nåmlich Ruhe , und zwar in der Bewegung. Die Indifferenz ist als der ewig aufgelöste Wider: fpruch auch die ewige Ruhe mit sich , aber sie ist nur Indifferenz [p. 310] g als die Negation der Differenz , und diese ist Differenz nicht an sich, denn an sich ist sie in jedem Punkte zur Identität aufgehoben , sondern nur in Bezug auf die Indifferenz ist sie das Ueber wiegen des Objects oder Subjects.
+
+Allein indem die Differenz als solche schlechterdings außer der Differenz fällt , haben wir doch wieder die Ruhe nur auf der einen , die Bewegung auf der andern Seite ; und wenn gleich das Eine nicht ohne das Andere ist, so ist doch keines wirklich im Anderen.
+
+Die Ins differenz erhält sich und ist gegenwärtig in der Differenz , aber fie erhält sich als Einzelnheit , nur als Allgemeinheit , d. h.
+
+als Abstraction.
+
+vielmehr
+
+Indem von der Allgemeinheit nur zur Besonderung und nicht zur Einzelnheit fortgegangen wird , hat die Allgemeinheit auch nicht wirklich die Beſonderung und das freie Urtheil in sich, ſondern bleibt selbstlos , und das Uebergreifen der Indifferenz ( über die Differenz ist nur das Nichtberührtwerden derselben von der Negation.
+
+Indem aber ferner die Indifferenz nur quantitativ ist, ist sie auch nicht als Negativität ihrer selbst erkannt , ſondern fällt in die Sphäre des Seyns zurück ; sie ist ansichſeyende positive Unmittelbarkeit , und wie die Differenz derselben äußerlich, so ist es eine äußere Reflexion , welche alle Bestimmtheit und allen Unterschied zur Indifferenz zurückführt und aufhebt.
+
+Fassen wir die Indifferenz nicht als Seyn , sondern als Wesen, so würde Ruhe und Bewegung , Unmittelbarkeit und Vermittelung nicht mehr abstract auseinander fallen , aber indem das Wesen doch noch nicht für sich seyende Einheit der Unmittelbarkeit und Vermittelung ist , würde das Festhalten des Abſoluten als des Wesens ungefähr der Auffassung entsprechen , welche man der Hegelschen Philoſophie unterſchiebt.
+
+Während ſowohl Spinoza als auch Schelling in die Unmittelbarkeit des Seyns zu rückfällt , ſo wåren wir über die Auffaſſung des Abſoluten als der abstrakten unterſchiedsloſen Identitåt dadurch hinaus , daß [p. 311] wir das Absolute als Vermittelung mit sich bestimmt håtten. Als Negativitåt ſeiner selbst ist das Absolute wesentlich erschei nend , und eben diese Bewegung , sich ein Anderes gegenüber zu stellen , und dieß Undere auch ebensosehr aufzuheben .
+
+wir an dieser Bewegung die Ruhe vermissen , so wäre dieß einerseits ein Vorzug , wenn die Ruhe weiter nichts als die unterschiedslose Identitåt seyn soll ; allein das Wesen ist zugleich Beziehung auf sich und hat daran sogleich das Moment, was man sich als Ruhe vorstellt.
+
+Verstehen wir aber unter Ruhe die Subjectivitåt , so hat allerdings das Wesen diese Ruhe : noch nicht.
+
+Allein damit wåre wieder gar nichts geholfen , wenn wir so ohne Weiteres dem selbstlosen Processe der Vermittelung die Persönlichkeit aufpflanzten.
+
+Wir würden dann die Erscheinung des Wesens als Schöpfung bezeichnen , und das Wesen selbst als Person dem Geſchaffenen gegenüber stellen.
+
+Abgeſehn davon , daß wir uns mit der bloßen Vorstellung der Persönlichkeit begnügten , so wåre diese Persönlichkeit sogleich eine endliche , indem sie das Geschaffene sich nur gegenüber håtte ; und ferner wåre diese Subjectivität eine bloße Voraussetzung , und håtte vor der Identität des Seyns gar nichts voraus.
+
+Wir hatten in beiden Fällen einen Gegensatz von Ruhe und Bewegung , von Form und Inhalt , nur daß der Gegenſaz. zwischen Person und Welt den Widerspruch und die Gedanken- . losigkeit auf die höchste Spite triebe.
+
+Das Wesen aber ist darum noch nicht unendliche Subjectivitåt , weil es nur die seyende Einheit der Unmittelbarkeit und Vermittelung ist. Zu gleich aber ist das Wesen als Negation des Seyns seine eigene Negativität und weist über sich selbst hinaus ; um einen foge nannten proceſſualischen Gott zu bekommen , hätten wir also dieß dem Begriffe nach über sich Hinausweisen in ein ewiges Suchen seiner selbst zu verwandeln , und uns mit einem Fuße in den Begriff hineinzustellen , mit dem andern aber in dem
+
+[p. 312] Wesen stehen zu bleiben.
+
+Q
+
+Das Fürſichſeyn des Abſoluten fiele alsdann in unser Denken , und wir lösten durch das Denken der Substanz die selbstlose Nothwendigkeit zur Freiheit auf; allein beides , die Erhebung der Substanz in das Subject , wie die Aufhebung der Nothwendigkeit in die Freiheit wåre dem Abſoluten äußerlich und damit nur scheinbar. Der Begriff ist dagegen an und für sich die Erhebung der Substanz in das Subject.
+
+Der Begriff ist nåmlich nicht mehr die unmittelbare oder seyende Einheit der Unmittelbarkeit und Vermittelung , sondern auch diese Unmittelbarkeit ist vermittelt und der Begriff ist als die für sich seyende Einheit der Unmittelbarkeit und Vermittelung die absolute Vermittelung mit sich. gativität ,
+
+Zunächst ist es wieder die immanente Ne wodurch
+
+Wesen geworden ,
+
+Begriff als aus
+
+Seyn nicht durch diese vermittelt , sondern viels mehr die Wahrheit des Seyns und Wesens ist.
+
+Das Wesen ist als die Negation des Seyns zugleich seine eigene Negativität und die Vollendung desselben nicht es selbst sondern seine Auf hebung zum Begriffe.
+
+Als Negativität seiner selbst er scheint das Wesen , ist das Verhalten zu einem Andern : dieß Verhalten zu einem Anderen ist zugleich Verhältniß zu sich selbst, und das Wesen ist nicht die eine Seite , sondern in sich Tota litat.
+
+Diese Bewegung und Vermittelung aber ist das Wesen, es ist sevende
+
+Vermittelung , diese seyende
+
+Einheit der Unmittelbarkeit und Vermittelung ist die blinde selbstlose Einheit der Nothwendigkeit ; ſie ist noch nicht in ſich reflectirte Einheit , sondern nur an sich oder für uns.
+
+Allerdings iſt das
+
+Wesen als absolute Nothwendigkeit nicht durch ein Anderes be stimmt und bedingt , denn es hat nichts außer sich ; es hat sich zum Grunde und geht zu sich zurück.
+
+Allein dieſer Proceß ist die inhaltsvolle Bewegung von Nichts durch Nichts zu Nichts ; denn die eigene Negativität ist das Segen eines Anderen und
+
+[p. 313] Aufheben dieses Anderen zu einem Nichtigen , welches Vernichten das Wesen selbst ~ ist.
+
+Zusammengehen des
+
+Wesens mit sich selbst ist daher der eigene Verlust desselben und das Wesen wird sich offenbar.
+
+nicht als sich selbst , sondern als Begriff
+
+Die Einheit des Wesens mit sich ist im Be= griffe Einzelnheit ; er ist nicht unmittelbare Beziehung auf sich als Seyn und Uebergehen in ein Anderes , sondern Proceß in sich selbst , aber nicht die negative Beziehung auf sich als Scheinen an einem Anderen , sondern freie Selbstbestimmung. Die ansichſeyende Einheit des Begriffs ist Allgemeinheit , als affirmative Beziehung auf sich , in sich reflectirte Einheit , und darum an sich selbst schon die Besonderheit und Einzelnheit ; ebenso aber ist jedes Moment der ganze Begriff und die Einzelnheit nur der als bestimmte Bestimmtheit gesetzte Begriff. Dadurch nun ist im Begriffe alle endliche und äußere Vermittelung zur immanenten geworden , und es giebt keine Unmittel barkeit , die nicht als Vermittelung gesett wäre.
+
+Der Begriff ist also als fürsichfeyende Einheit der Unterschiedenen ebenfalls Proceß; aber dieser Proceß ist vom Proceß der Substanz da durch verschieden , daß wenn dieser die selbstlose Einheit zum Anfange und Ende hatte , im Begriffe die ſubjective Einheit wie Anfang, so Resultat ist.
+
+Die Absolute Vermittelung des
+
+Begriffs besteht also darin , daß er einmal nicht durch ein Anderes sondern durch sich vermittelt ist ; ferner aber ist der Be griff nicht nur diese Vermittelung mit sich , so daß dieſelbe zu einer seyenden Einheit zusammenfiele, sondern er ist das all seitig aufgehobene Seyn, das Sichſelbſtunterscheiden, und Freilassen des Unterschiedes , in welchem er sich als auf ein Anderes auf sich selbst bezieht. Die absolute Vermittelung mit sich ist daher wesentlich concrete Idealität und übergreifende Subjectivitåt. Ebenso wenig wie der Begriff durch die Stufen , welche ihm in der Entwickelung der Wissenschaft vorangehen , vermittelt [p. 314] ift, ebenso wenig ist die absolute Idee , als der realisirte Be griff, durch die in der Logik vorangehende Objectivitåt , oder durch das Leben und Erkennen vermittelt.
+
+Wie der Begriff an sich schon die Idee, so ist die Idee selbst als Einheit des Begriffs und der Objectivitåt , eben das Verschwinden des Scheins, als wåre fie nur das Resultat der Entwickelung , ſie ist vielmehr der Grund alles logischen Inhalts , den sie als absolute Form zur durchsichtigen Einheit in sich selbst versammelt.
+
+Die Idee als logiſche ist aber noch nicht der absolute Geist , sondern das Wesen des Geistes.
+
+Hiermit entstehen neue Schwierigkeiten.
+
+Wie in der Wiſſenſchaft die Natur und der endliche Geist zwischen der Idee und dem absoluten Geiste liegt , so hat es den Anschein, als wäre der absolute Geist durch dieses Undere geworden und vermittelt.
+
+Dieß wird denn auch als Hegels
+
+Ansicht dargestellt : Gott wird durch die Natur und den end lichen Geist zum Geiste. Zunächst aber wåre, festzuhalten , daß hier nicht von dem Seyn Gottes , sondern von dem Selbstbewußtseyn Gottes die Rede ist ; es wird nicht gesagt : das Seyn Gottes ſey durch die Natur und den endlichen Geist vermittelt, sondern das Wissen Gottes von sich selbst , oder Gott komme im Wiſſen Das Seyn des ¡Menschen von ihm zum Selbstbewußtseyn. Gottes aber, welches hier jenseits der Vermittelung durch ein Underes die Voraussetzung dieser Vermittelung ist , wäre der logische Inhalt ; und hierüber haben wir schon vorher bemerkt, welche Gewaltthat man vornimmt , um die Sache leichter ins Werk sehen zu können , indem man den logischen Inhalt kurzweg als die unpersönliche Vernunft bezeichnet.
+
+Will man an der Vorstellung des Uebergangs der Idee in die Natur , oder des Abfalls derselben von sich selbst, oder an der Vor stellung Gottes vor der Erschaffung der Welt festhalten , fo dürfte man doch wenigstens nicht vergessen , daß die Idee , welche
+
+;
+
+[p. 315] hier von sich abfallen soll , schon als undurchdringliche Persönlichkeit erkannt ist , so daß diese also auch das Moment, welches sie durch die Vermittelung bekommen soll, an Ich schon hat. - Ferner aber thüt man allerdings , wie schon vorher gezeigt , ganz Recht , wenn man das Selbstbewußtseyn , welches das Absolute erst durch ein Anderes bekommt , får kein absolutes gelten laſſen will. Augen , wenn Gott erst
+
+Jedoch fällt fögleich in die aus der in sich zerworfenen
+
+Naturexistenz als Geist hervorgehen soll , dieses Abenteuer unmöglich glücklich ablaufen kann .
+
+Denn wenn das Absolute durch ein Anderes , nämlich durch die Natur und den endlichen Geist vermittelt ist, so wird sogleich hierdurch dieses Andere als Endliches zum Unendlichen gemacht , und durch dieses fürs sichseyende Endliche kommt das Absolute nimmermehr als Pers son hindurch, wenn es nicht an sich schon Person ist.
+
+Ist das Wissen des Menschen von Gott wirkliches Wissen , so ist es nothwendig durch Gott selbst vermittelt ; das Wiſſen des Menschen von Gott aber , durch welches Gott vermittelt ſeyn soll, ist weder wirkliches Wiſſen des Menschen von Gott , noch Selbstbewußtseyn Gottes von sich , sondern es bleibt in der zerworfenen Existenz , in der fixirten Endlichkeit stehen , und ist nur endliches Wissen des Menschen von sich , nicht von Gott. Der Mißverstand besteht hier wieder darin , daß man die Methode und gefaßt hat.
+
+den Begriff der absoluten Vermittelung nicht
+
+Fichte spricht diesen Mißverstand einfach so aus , daß nach Hegel Seyn und Denken schlechthin ( d. h. uns mittelbar) identisch seyn sollen.
+
+Also , wie das subjective Denken von Moment zu Moment sich entwickelt und auseinanderlegt , ebenso das objective Seyn als die abſolute Wahrheit ; und wie der endliche Geist sich zu Gott erhebt , ſo iſt dieß Reſultat , der absolute Geist , nicht Resultat seiner selbst , sondern Resultat dieſer Erhebung eines Anderen zu ihm; die Entwickelung
+
+[p. 316] At der Wissenschaft ist auch Entwickelung des objectiven Inhalts. Dagegen besteht gerade das Wesen der Methode und der ims manenten Entwickelung darin , daß was für uns Resultat ist , an sich nicht Reſultat eines Anderen , sondern Resultat seiner selbst und ebenso sehr das absolut Erste ist ; hiermit ist sogleich gegen eine abstracte Einheit von Denken und Seyn der Unterschied anerkannt , und weder jene noch dieser , ſondern eine concrete , d. h. den Unterschied in sich fassende Einheit ist das Wesen der Methode.
+
+Wenn der endliche Geist sich zu Gott erhebt , durchbricht er seine Endlichkeit , und erkennt nicht sich selbst , sondern Gott als sein Wesen und ſeine Wahrheit ; das Absolute selbst aber ist nicht durch jene Erhebung geworden , ſondern ist vielmehr die Voraussetzung dieser Erhebung. Wie sich hier das Absolute ergeben hat , A ist es nicht mehr die logische Idee, sondern hat die entwickelten Unterschiede · der
+
+Natur und des Geistes zu ſeinen Momenten ; der absolute Geiſt selbst aber ist die absolute Vermittelung mit sich , und als diese concrete sichselbstbewegende Einheit , die Entäußerung und Offenbarung , und in seinem ewigen Selbstbewußtseyn der Grund und die Voraussetzung alles endlichen Seyns und des menſch lichen Wissens von ihm. Die Vorstellung läßt die Totalität des abſoluten Geistes , in welcher dieser Anfang , Mitte und Ende zugleich ist, immer wieder zu festen Unterschieden auseinanderfallen.
+
+Fangen wir also vom absoluten Geiste an , und gehen von ihm zur Welt über, so trennt die Vorstellung beides zu endlichen Abſtractionen. Wird das Schaffen Gottes in die Zeit verlegt , und als einmal vergangene Thatsache angeschaut , so war Gott ohne die Welt nicht wirklich Schöpfer ; ſoll es nun zum Wesen des abſoluten Geistes gehören , daß er schaffe , so war Gott ohne die Welt nicht wirklich Geist , und nicht der absolute Geist hat die Welt geschaffen , sondern das Absolute ist erst durch das Schaffen [p. 317] zum Geiste geworden , wie es durch die Welt zum Schöpfer geworden ist ; d. h. Gott ist überhaupt nicht Schöpfer der Welt, denn dieß setzt voraus , daß er nicht durch die Welt , ſondern die Welt durch ihn vermittelt ist. --- Ebenso verhält es sich , gehen wir vom absoluten Geiste zum Wiffen des
+
+Menschen von ihm über. Der abſolute Geiſt offenbart sich ; das Andere, Endliche und Geschaffene bleibt nicht in der End lichkeit stehen , sondern erkennt Gott als die Wahrheit und als das Wesen , und indem es wirklich von Gott weiß , ist es nicht blos endliches , dem Absoluten fremdes Denken , sondern absolute Geist ist dem menschlichen Wissen immanent.
+
+Halten wir wieder den abſoluten Geiſt, und das Offenbarſeyn seiner im Anderen auseinander , und faſſen es in einer Zeits folge , so ist Gott zuerst nicht der sich offenbarende Geist , sondern erst durch das Wissen eines Anderen zum offenbaren geworden , d. h. nicht Gott hat sich selbst offenbart, sondern das Andere hat Gott offenbart. Die Nachlässigkeit im Ausdruck kann hier leicht zum Miß verständniß Veranlaſſung geben , besonders wenn man einzelne Såße aus dem Zuſammenhänge herausreißt.
+
+So sagt Hegel :
+
+,, Die Religion ist auch Bewußtseyn , und hat somit das end liche Bewußtseyn an ihr , aber als endliches aufgehoben : denn das Andere , wovon der absolute Geist weiß, ist er selbst und er ist so erst der absolute Geist , daß er sich weiß.
+
+Dadurch aber ist er nur als durch das Bewußtseyn oder den endlichen Geist vermittelt, so daß er sich zu verendlichen hat , um durch diese Verendlichung Wissen seiner selbst zu werden. " ( Religionsphil. S. 129. )
+
+Halten wir dieſe bildliche Ausdrucksweise fest , so scheint der absolute Geist nur Resultat , nicht auch Anfang des Processes zu seyn .
+
+Hegel spricht aber sogleich von der Einseitigkeit dieſes Ganges und sagt : „ Diese ist , daß in ihm eine schiefe Bedeutung liegt , [p. 318] nåmlich die, daß wir von etwas Anderem anfangen , entweder vom logisch Abstracten , oder von der concreteren Natur , vom endlichen Seyn , und weil wir so von einem Anderen anfangen, der Inhalt als nicht absolut erscheint , sondern als Resultat. 募 Aber es ist zu bemerken , daß wenn zwar zunächst der Gang als vermittelnd erscheint , so ist es doch in diesem Reſultate selbst , daß sich die Einseitigkeit aufhebt , oder daß das Reſultat dieß abwirft, Reſultat zu seyn , der Widerstoß ist gegen dieſe - Der Bewegung. Der absolute , seiner selbst sich be
+
+!
+
+wußte Geist ist so das Erste , und einzig Wahre. " (Ebendas. S. 132. ) Erst durch den Begriff der absoluten Vermittelung ſind die Extreme der formlosen Substanz und der vorausgesetzten und leeren Subjectivität überwunden.
+
+Als wirkliche absolute
+
+Vermittelung mit ſich ist der abſolute Geiſt nicht leeres Selbst bewußtseyn , nicht das Brüten über sich selbst, und das An schauen seiner Thatlosigkeit oder auch der Möglichkeit des Thuns, welches in Wirklichkeit nichts thut , sondern sein Selbstbewußt seyn ist als Wille zugleich schöpferische That ; die schöpferiſche That ist die wirkliche Freiheit , und zugleich das Freilassen des Geschaffenen von sich selbst.
+
+Über diese That Gottes ist seine Gott steht daher
+
+That, und das Geschaffene seine Welt.
+
+nicht als Subject der Welt als einem fremden Objecte gegen über.
+
+Stellen wir uns die Persönlichkeit so vor , und halten diesen Gegensatz von Subject und Object fest, ein einzelnes endliches Individuum .
+
+so ist Gott
+
+Wie wir am Ob jecte unserer Endlichkeit uns bewußt werden , und darin durch die Natur wie durch die Geschichte vermittelt sind , so ist der Gott, dem die Welt schlechthin Gegenſtand bleibt , auch nicht Schöpfer der Welt , sondern diese ist ohne ihn da , vielmehr die Voraussetzung seiner Persönlichkeit.
+
+In dieser Auffassung der
+
+Persönlichkeit ist Gott auch nur als persönlicher vorgestellt, [p. 319] ist nur in unserem Gedanken Perſon , nicht an und für sich. Wir sagen es und meinen es , und glauben daran , allein die Persönlichkeit Gottes ſelbſt iſt durchaus verſchloſſen und thatlos ; Gott ist nur absoluter Geist , aber indem es beim Seyn bleibt, und Gott sich nicht auch als Person offenbart , ist er in Wirklichkeit nur Seyn und Wesen , nicht Person , er er scheint an einem Anderen , nicht an und für sich.
+
+Die ab folute Persönlichkeit ist nicht die leere Transcendenz , das In fichſeyn gegen ein Andersſeyn , in welchem die Person nicht als Person sondern als Seyn immanent ist, sondern das wirkliche thatkräftige Uebergreifen über das Object , nicht das Stehenlassen desselben als eines fremden , sondern die absolute Versöhnung dieses Anderen mit sich.
+
+Die absolute Persönlichkeit hebt also ebenso sehr das Andersseyn auf, und weiß in diesem Anderen nicht einen fremden unüberwundenen Gegen sat , sondern sich selbst.
+
+Das Wiſſen des Menschen von Gott ist als Selbstbewußtseyn Gottes von sich die reale Offenbarung der abſoluten Persönlichkeit , die wirkliche Versöhnung des menschlichen und göttlichen Geiſtes und eben diese Versöhnung der lebendige wesentlich absolute Geist.
+
+Bewegung , absolute Geist ist daher
+
+Proceß, Leben , aber in dieser
+
+Bewegung ist er ebenso sehr die ewige Ruhe , weil er Anfang, Mitte und Ende zugleich ist. Ebenso aber, wie Gott nicht durch das Wissen des Men schen von ihm Person geworden ist , so ist es auch ganz falsch ausgedrückt , wenn man sagt : die Persönlichkeit Gottes beſteht darin , daß der Mensch von ihm weiß.
+
+Hier wird die Persönlichkeit Gottes , wie sie Hegel auffaßt , als eine illusoriſche bezeichnet , und das Selbstbewußtseyn Gottes im menschlichen Geiste soll hiernach nicht wirklich in Gott , sondern nur in den Menschen fallen, d . h . Gott ſoll troß seiner Persönlichkeit der Welt nur immanent, nicht transcendent seyn.
+
+Wir wissen
+
+[p. 320] Mancherlei , ohne daß dieß durch unser Wiſſen Perſon würde. Im Wissen von Gott aber weiß der endliche Geist nicht irgend etwas, dieß und jenes , sondern der Gegenstand seines Wissens ist absoluter Gegenstand , er erkennt Gott als´absolute Wirklichkeit , als sein Wesen und seine Wahrheit.
+
+Indem Ich aber als Subject das Absolute als das Unsich und als concrete d. h. subjective Algemeinheit zum Gegenstande habe , bleibe Ich nicht mit gleichem Werthe als endliches Subject neben dem Absoluten stehen, sondern das Wissen Gottes selbst ist die Auf hebung dieser festen Endlichkeit.
+
+Dem absoluten Object gegen= über habe ich meine Endlichkeit als solche zu ſehen , d. h. aufzuheben , mein Bewußtseyn von Gott ist zugleich das Wiſſen meiner als endlichen , und das Object meines Bewußtſeyns nicht nur dieß, sondern an sich das absolute Wesen und die Wahr heit meiner Endlichkeit.
+
+Im Bewußtseyn Gottes ist daher das Selbstbewußtseyn meiner Endlichkeit nicht leer , sondern zu gleich im Besitze seiner Wahrheit ; diese Wahrheit aber als der absolute Gegenstand ist eben dadurch , daß ich mich nicht gegen denselben festhalte , ſondern mich als aufgehobene Endlichkeit zu ihm verhalte , an und für sich Gegenstand , in Einem das
+
+Wissen von mir und das Wiſſen ſeiner von sich selbst. Eine Persönlichkeit Gottes , die nicht der Welt transcendent ist, wåre gar nicht Persönlichkeit ; die persönliche Immanenz ist aber sogleich auch Transcendenz.
+
+Die Persönlichkeit Gottes wåre nur dann nur Immanenz d. h.
+
+keine Persönlichkeit , wenn dieſelbe nur darin beſtånde , daß der endliche Geiſt, ohne wirkliches Wissen des Absoluten , Gott als persönlichen vorz stellte ;
+
+dann wäre die Persönlichkeit Gottes nur meine
+
+Vorstellung , nicht an und für sich d. h. Gott wåre in Wirklichkeit nicht Person , und ich håtte dann nur nach dieſer Wahrheit und Wirklichkeit meine Vorstellung und von derselben überhaupt abzulaſſen.
+
+zu verbeſſern ,
+
+[p. 321] Hiermit erledigt sich zugleich der Einwurf , daß der Mensch dadurch, daß sein Wissen von Gott das Selbstbewußtſeyn
+
+Gottes sey, zu Gott selbst gemacht werde.
+
+Dieß geschieht vielmehr gerade da , wo man es am wenigsten vermuthet , nämlich in dem Firiren des endlichen Wiſſens dem göttlichen gegenüber. " Wenn der subjective Idealismus in aller Demuth und Bescheidenheit feine Subjectivitåt festhält , und vom Ab foluten wirklich zu nicht Gott, sondern das ten Idealität.
+
+wiſſen behauptet , macht er subjective endliche Ich zur absolu
+
+Dieß endliche Ich wird wohl durch das Nicht wissen des Objects als endlich bezeichnet , aber nicht als endlich gesetzt,. ſondern iſt in ſeiner Nichtigkeit zugleich die abſolute Alles verzehrende und Gott selbst keit hineinziehende Substanz.
+
+in ihre Nichtig=
+
+Gégen dieß Ich , das nicht ein
+
+Anderes , sondern in Allem nur sich selbst weiß , ist das Ab folute ein für sich leeres Jenseits , ein macht- und kraftloser Schatten , der wie das Ich die Endlichkeit nicht zu durch brechen und sich zu offenbaren vermag , dessen Wille nie geschehen , deſſen Reich nie kommen kann , weil das endliche Ich in aller ſeiner Demuth nur sich und nicht Gott die Ehre giebt. Allein das Ich verzehrt sich in seiner hochmüthigen Demuth an seinem eigenen Feuer , und ist in der Erkenntniß seiner als des Geistes , der nur verneint, die Verzweiflung , in welcher das Ich die Erfahrung seiner wirklichen Endlichkeit macht , damit zugleich seiner göttlichen Ebenbildlichkeit und Versöhnung mit Gott gewiß wird.
+
+In der Erkenntniß Gottes liegt nicht nur das Bekenntniß der Endlichkeit, sondern diese hat auch ' wirklich ihr Recht bekommen ; indem mein Wissen von Gott Wissen Gottes von sich selbst ist , bin ich nicht Gott , sondern mein Seyn als endliches ist vielmehr aufgehoben. aber mein
+
+Seyn , aufgehoben ist , diese ist das unmittebare
+
+Wodurch endliche
+
+Einzelnheit ,
+
+Wissen , und Ich bin im Wiſſen
+
+[p. 322] Gottes von sich als Bewußtseyn bestimmt ; im Bewußtseyn unterscheide ich mich von Gott , und das Bewußtseyn , dieser Unterschied , geht nicht verloren , sondern mit dem von mir Unterschiedenen weiß ich mich in Einheit ;
+
+bin
+
+Eben wegen dieser concreten nicht selbst diese Einheit.
+
+Identität bin Ich weder Gott , noch bin Ich in Gott vernichtet.
+
+Nur das selbstlose Seyn ist die Vernichtung des endlichen Ich, weil es alle Unterschiede zur abstracten Unter schiedslosigkeit aufhebt ;
+
+im Verhältniß zum Seyn habe ich daher nicht nur mein Seyn , sondern mein Wiſſen vom Seyn aufzuheben , um zur zu finken.
+
+gleich das Sehen währung unterschiedslosen
+
+Indifferenz zuſammen aber ist zu des Unterschiedes , die Be absolute Persönlichkeit Gottes und Erhalten endlichen
+
+Ich , weil sie nicht leere selbst füchtige Transcendenz ist, sondern die lebendige Bewegung im Unterschiede. Ganz ebenso aber , wie nach Hegel Gott als persönlich durch die Welt und den Menschen bedingt seyn soll , so foll auch die Entwicklung des menschlichen Wiſſens von Gott die Vervollkommnung des göttlichen Selbstbewußtseyns ſelbſt ſeyn. Dieser Ansicht fehlt es noch an einer weiteren Ausführung , zu welcher sich besonders die Reflexion darbieten möchte , daß ja in gegenwärtiger Zeit die Menschen noch immer auf so verschiedene Weise sich Gott vorstellen . Wie also - könnte man fragen -→→→ mag dieſem von den endlichen Geſchöpfen geschaffenen Gotte in dem verſchiedenen Wiſſen von sich selbst zu Muthe seyn ?
+
+Allein es ist nicht zu verlangen , daß diese Anſicht zur Deutlichkeit erhoben werde , weil Dunkelheit und Trübheit ihr wesentlicher Charakter ist.
+
+Jedoch geht man hier offenbar noch einen Schritt weiter : nämlich jetzt soll das Wissen des Menschen von Gott überhaupt noch nicht hinreichen ,
+
+Gott zu einem persönlichen zu machen , sondern es wird vielmehr be [p. 323] hauptet, daß Gott erst dann zur Person werde, wenn das menschliche Wiſſen der Form und dem Inhalte nach zum wahr haften Wissen sich erhoben habe.
+
+Allein ebenso wenig , wie
+
+Gottes Persönlichkeit durch die Welt und den Menschen vers mittelt ist , ebenso wenig ist die Entwickelung des menschlichen Wissens Entwickelung der göttlichen Persönlichkeit an und für ſich.
+
+Der menschliche Geiſt hat als endlicher und geſchaffener nothwendig eine Geschichte , indem er unmittelbar und an ſich ſeinem Wesen als der Freiheit nicht entspricht , ſondern viel mehr durch seine That sich seinem Wesen gemäß zu produciren hat.
+
+Die zeitliche Enthüllung und das Offenbarwerden Gottes im menschlichen Wissen seht aber das ewige Offenbarſeyn Gottes schon voraus , und nur im Verhältniß zu diesem Offenbarſeyn ist das menschliche Wiſſen ein zeitlich endliches und mangel haftes , hat diese Endlichkeit an sich , und ist als Widerspruch mit ſeinem Wesen zugleich gehen über sich selbst.
+
+daz Hinaustreiben und Hinaus
+
+Denn daß der Mensch Gott in Wahr heit nicht erkennt , ist Gott ſelbſt nichts gleichgültiges , sondern fällt in seine Erscheinung.
+
+Diese Erscheinung entspricht ihrem
+
+Wesen nicht , ist nicht die dem Wesen gemäße Wirklich keit, so ist;
+
+lange Gott nicht gewußt wird , wie er an sich allein dieses Nichtentsprechen seht sogleich die
+
+Vollen dung es bleibt göttlichen Wiſſens auch bei in sich selbst voraus, dieser
+
+Entzweiung des göttlichen und menschlichen Wissens , sondern der sich selbst ewig offen bare Gott, wird auch dem Menschen wirklich offenbar , wenn die Zeit erfüllet ist.
+
+Wir håtten zum Schluſſe noch eines Werkes Erwähnung zu thun , welches den einseitigen und abstracten Standpunkten gegenüber besonders dadurch Wichtigkeit bekommt, daß es an den pſychologiſchen Formen der Erkenntniß ſelbſt die Dialectik 21 * [p. 324] ihres Uebergehens in einander und die nothwendige Vermittelung nachweist ; zugleich tritt dasselbe wenn auch nicht positiv gegen Hegel , doch mit der Behauptung auf, die Hegelsche Philosophie von einer wesentlichen Seite ergänzt und vollendet zu haben.
+
+Wir meinen die Genesis des Wissens von
+
+Hinrichs ( Heidelb. 1835 ).
+
+Indem wir es hier vorzugs weise mit der allgemeinen Tendenz des Werkes zu thun haben , kame vor Allem das Verhältniß der Genesis des Wissens oder der Metaphysik des Geistes zur Phänomenologie und Logik einerseits , und zur Psychologie anderseits in Betracht.
+
+Hinrichs giebt dieß Verhältniß einfach so an : "I Hegel betrachtet die Er kenntniß phånomenologisch , am Gegenstand erscheinend, und logisch, an sich frei von aller Gegenständlichkeit , im reinen Gedanken.
+
+In der Phänomenologie ist der Geist in
+
+Beziehung auf Andres , und wird sich alles Seyns als seiner selbst bewußt, in der Logik ist er im reinen Gedanken von ihm, als freier Begriff, welcher sich selbst der Gegenstand ist.
+
+Nun sagt Hegel ausdrücklich : Werke Bd. 5. , Logik Bd. 2. S. 273., daß der Geist den Gegenstand eine Begriffsbestimmung verwandele , welcher Gegenstand zwar auch hier logisch ein gegebener sey, aber nicht als einwirkendes Object oder Gegenstand , wie er als Vorstellung in das Subject eintrete.
+
+Damit beschränkt er die Erkenntniß auf den Geist , wie er´theils ers scheinender, theils logiſcher Gegenstand ist , indem er die Er kenntniß nicht in der Form der eigenen Bestimmungen des Geistes selbst entwickelt.
+
+Zwar hat er die Psyche , den Geist befreit von den sogenannten Kräften und Vermögen , indem er die Bestimmungen desselben als solche aufgezeigt, die durch ſich selbst in einander übergehen , und sich auseinander erzeugen , überhaupt sich durch sich* selbst zu allgemein geistiger Einheit und Totalität hervorbringen.
+
+In allen diesen Bestimmungen ist aber der Geist noch mit dem Aeußerlichen und Natürlichen [p. 325] behaftet und verwickelt , wovon er sich zwar durch seine Er hebung zur Objectivitåt befreit , aber nicht wirklich erkennend, da er sie bloß in ſeiner Subjectivität zum Inhalte hat. Geist ist zwar nach Hegel auf seine eignen Bestimmungen thåtig , als auf das Gefühl , die Vorstellung und das Denken , auf Trieb und Neigung , doch verwandelt er diese Bestimmungen nicht in Begriffsbestimmungen , wodurch sie zu wirklichen Erkenntnißformen würden , was aber , da die Idee als Erkennen und Wollen die innerste Seele des Geistes in seiner theoretischen und practischen Thätigkeit ist , nicht bloß möglich ist , sondern wirklich gefordert werden muß.
+
+Und dieß ist die
+
+Aufgabe der Genesis des Wissens , den Geist , wie er frei von aller Beziehung auf Andres das Seyn und Denken seiner selbst ist, erkennend zum Gegen stand der Erkenntniß zu machen.
+
+Die Genesis des Wissens hat daher den Geist nicht als erscheinenden , nicht als logischen , sondern als wirklichen Geiſt zum Inhalt , die Selbſt erkenntniß des Geistes wirkliches
+
+Wiſſen. "
+
+(Vorrede
+
+#### S. L. und LI.)
+
+Schon in der Psychologie fångt der Geist von seinem eigenen Seyn an und verhält sich nur zu seinen eigenen Be stimmungen ; und dieß ist keine willkürliche Abstraction , sondern ,,der Geist ist selbst dieß , über die Natur und natürliche Bestimmtheit , wie über die Verwickelung mit einem äußerlichen Gegenstande , d. i. über das Materielle überhaupt erhoben zu ſeyn. "
+
+(Hegels Encykl. §. 440.)
+
+Jedoch ist allerdings richtig, daß in der Psychologie der Geist in so fern noch mit dem Aeußerlichen und Natürlichen behaftet ist , als er hier nur die unmittelbar individuelle Macht über seine Bestimmungen ist ; diese Bestimmungen erhebt der Geist zu Momenten einer einigen Substanz, aber nicht zu Formen des Wissens ; also die Substanzialität des Geistes bleibt hier der Inhalt.
+
+Der Geist wird hier als inhaltsvolle Thätigkeit und Entwickelung seiner selbst erkannt, aber er selbst ist nicht als erkennend oder in der Idealität seines Selbstbewußtseyns thätig.
+
+Die Entwickelung dieses Wissens ist der Gegenstand der Phänomenologie. In der Phänomenologie aber ist der Geist vorstellend und er scheinend , und seine Tendenz geht dahin , ſich vom Gegenſtande frei zu machen , ihn als den feinigen und somit sich selbst als Inhalt und Form zu wissen.
+
+Im absoluten Wissen hat der
+
+Geist dieß erreicht, und die Logik hat den reinen Gedanken als absolute Form , wie er an und für sich absoluter Inhalt ist , zum Gegenstande.
+
+Ebenso soll auch in der Genesis des Wissens der Geist von allem Aeußeren frei seyn , allein ſie ſoll den Geist , wie er frei von aller Beziehung auf Underes das Seyn und Denken seiner selbst, erkennend zum Gegen= stande der Erkenntniß machen.
+
+In der Logik ist der an sich selbst ebensosehr objective wie ſubjective Gedanke als abſolute Wesenheit aller Inhalt ; der Begriff und weiter die Idee ist das Wesen des Geistes aber nicht seine concrete daseyende Wirklichkeit.
+
+Obwohl daher der Geiſt in der Logik als der freie
+
+Begriff erkannt wird , der sich selbst der Gegenstand iſt , ſo ist 'er doch nicht als existirendes Subject , als wirkliches Seyn und Denken seiner selbst als selbsterkennend , von der
+
+Beziehung auf ein Underes frei ; oder obwohl er seinem Weſen nach Un- und Fürſichſeyn ist , so ist er doch als Begriff nur im Elemente des Ansichseyns und hat nicht als wirkliches Fürsichseyn seine unendliche produktive Kraft als ſelbſterkennend bewiesen ; dieſe fällt vielmehr hier in das philoſophirende Subject.
+
+Wenn daher die Logik mit dem reinen Gedanken in ſeiner ganzen Allgemeinheit , mit dem Begriffe an sich anfångt , und diese Allgemeinheit zu immer dichterer Concretion bis zur Individualität hin sich zuſammenziehen läßt , so beginnt dagegen die Genesis des Wiſſens mit dem Subjecte in seiner unmittel [p. 327] baren Gewißheit, mit der einfachen Einzelnheit ;
+
+aber nicht phänomenologisch, wo das individuelle Ich ein anderes . ebenso Einzelnes zum Gegenstande hat , sondern mit dem Gefühl , das in seiner Reinheit als Selbstgefühl sich selbst zum Inhalte hat.
+
+Jedoch auch nicht mit dem Gefühl , wie dasselbe Gegen stand und Anfang der Psychologie ist , sondern mit dem Ge fühl als Form der Erkenntniß, oder , wenn wir wollen, mit der Philosophie Jacobi's .
+
+Was also in der Psychologie
+
+Momente der substantialen Realität sind , werden in der Gene sis des Wissens Momente der Idealität oder Kategorien der Erkenntniß , und was bei Hegel in der Psychologie zum voll ständigen Seyn einer vollendeten Existenz der Seele führt, wird in der Metaphysik des Geistes zu einem allgemeinen Dr ganismus des Wissens.
+
+Die Genesis des Wissens aber bringt es in sich selbst zur Totalität und vollendeten Gestaltung , indem sie das Wissen durch die Stufen der Unmittel barkeit , der Reflexion und der absoluten Vermittelung hindurch führt , wodurch das Seyn als einfache Substantialitåt ſich in dividualiſirt und zum Subjecte aufschließt , das Subject aber ſich objectivitirt , und in Einheit mit der Substanz zum Geiste und zum absoluten Wissen sich vollendet.
+
+Somit ist die End lichkeit, welche die reale Pſychologie noch in der Trennung der Subjectivität und Objectivitåt an sich hat , der idealen
+
+Psychologie oder Metaphyſik des Geistes zur unendlichen Frei heit des Subjectobjects überwunden. Wir müssen daher durchaus anerkennen , daß die Genesis des Wissens eine wesentliche Seite des Geistes an das Licht der philosophischen Erkenntniß bringt.
+
+In die Totalität des
+
+Systems eingereiht würde dieselbe zwiſchen die Phänomenologie und Logik zu stehen kommen , und würde den Uebergang aus jener in diese bilden.
+
+Wenn in der Phänomenologie das Subject auf ein Dbject sich bezieht , und die Entwickelung eine dop [p. 328] pelseitige ist , so ist in der Genefis des Wiſſens dieſe Erscheinung dem Subjecte immanent ;
+
+das Subject producirt sein
+
+Wissen nicht an einem Andern , ſondern durch sich selbst.
+
+diese Absolutheit und Reinheit des Selbstbewußtseyns , wodurch die Bestimmungen und Momente des realen Subjectes zu Be griffsbestimmungen und Kategorien werden , weist und leitet die Genesis des Wissens in die Logik hinüber.
+
+Allein in ihrem
+
+Unterschiede von der Logik hat sie wie die Phänomenologie das reale Subject zu ihrer Baſis , und jene zu ihrer Vorausſeßung. Wir könnten uns hiernach so ausdrücken , daß wenn die Phas nomenologie als die Entwickelung des Bewußtseyns zugleich die Philosophie der Geschichte ist , so stellt die Geneſis des Wiſſens den daseyenden Geist als zu seiner Idealität aufgeho denen dar , und ist die Philosophie der Geschichte der Philosophie.
+
+Die Geneſis des Wiſſens knüpft daher ihre
+
+Entwickelung durchgängig an philoſophische Systeme an , und wo sie durch Anschließen an das religiöse Bewußtseyn in die phånomenologiſche Sphäre hinüberzutreten scheint , bleibt die
+
+Entwickelung doch dadurch von der phånomenologischen unter schieden , daß der Inhalt aus der Form der Erkenntniß produ cirt und somit zugleich als Kategorie dargestellt wird .
+
+Hegel die Phänomenologie mit dem abſoluten Wiſſen ſchließt , ſo faßt er hier nur das Reſultat der Entwickelung zusammen ; wollten wir diesen Abschnitt selbst wieder in sich entwickeln und vollenden , so wåre das absolute Wiſſen . als das reine Selbstbewußtseyn zunächst nur an ſich oder für uns abſolut, und håtte durch Ueberwindung dieser Subjectivität seine Absolutheit selbst zu erweisen.
+
+Diese Entwickelung des absoluten
+
+Wissens von seinem Ansichſeyn zum An- und Fürsichseyn ist nun der Inhalt der Genesis des Wissens , die eben dadurch nicht mehr der phänomenologischen Sphäre angehört , sondern mitten zwischen diese und die logische fällt.
+
+[p. 329] Anmerkung. Während des Druckes dieser Bogen erschien die Ontologie von J. H. Fichte. (Grundzüge zum Systeme der Philosophie v. J. H. Fichte. Zweite Ubtheil.: die Ontologie. Heidelb. 1836.) Was zunächst die allgemeine Bedeutung der Ontologie be trifft, so ist sie die Wissenschaft von den ewigen Formen , in welche sich alles concret Wirkliche unendlich einbildet.
+
+Diese ewigen Formen oder Kategorien ſind auch zugleich Seyns for men und somit ist die Ontologie als das System der absoluten Wirklichkeitsformen zu bezeichnen , einer anderweitig zu erkennenden Erfüllung derselben gegenüber.
+
+(Einleit. XV. XVI.)
+
+Diese Erfüllung findet zum Theil schon in der Ontologie ſtatt, von welcher der dritte Theil die speculative Theologie oder Ideenlehre zum Gegenstande hat , und dann ferner in der Realphilosophie , welche die Erfahrung in ſich aufnimmt und verarbeitet. ( XXVI . XXX. )
+
+,, Hiermit åndert sich jedoch die ganze bisherige Betrachtungsweise. Die Schöpfung in Natur und Geist wird selbst zu einer Geschichte der göttlichen Offenbarung durch seinen Willen, wodurch endlich der nach göttlichen Thatsachen, nach einer Selbstbewährung Gottes trachtenden Speculation aus ihrem abstracten Insichſelbſtſpinnen , wie über ihre hohle Uprio ritåten hinausgeholfen wird.
+
+Indem das Princip des Aprioris mus und der ontologischen Nothwendigkeit sich vollendet , er zeugt es darin feine eigene Vernichtung : es wird bloße Grund lage oder Kehrseite der eigentlichen Wahrheit und Realität , welche sich aus ihm durch seine Negation und Ueberwindung Sonach bedarf der Apriorismus einer doppelten erhebt. Ergänzung der ersten innerhalb seiner selbst , indem die nega, tive Dialectik sich zur positiven steigert , welche ontologiſch in der speculativen Theologie als der analytisch dialektischen Er schöpfung der Idee der Urpersönlichkeit ihre Ausführung findet. Darin endet aber die Bedeutung des Aprioriſchen überhaupt , [p. 330] weil von hier das Gebiet der Freiheit beginnt.
+
+Die positive
+
+Offenbarung dieser Person Gottes , seine Thaten können nur der Wirklichkeit der Dinge erfahren
+
+Dieß ist die zweite und Hauptergänzung des gesammten Aprioris mus ; es ist der Uebergang in eine speculative Empirie, welche die Welt als die schöpferische That Gottes erkennt , und das
+
+Kunstwerk des göttlichen Verstandes und Willens in ihr dar zustellen hat.
+
+Dieß unendlich Concrete der Natur und des
+
+Geistesuniversums ist aber zugleich der gegenbildliche Beleg für jene ewigen Weltformen und Ideen der Ontologic. Wie dieſe nåme lich daselbst als die Wirklichkeits- oder Offenbarungs formen Gota tes erkannt worden sind , oder abstract ausgedrückt, als dialektiſche Erschöpfung dieses Begriffes ; so ist jenes Concrete, die Unendlichkeit des Weltinhaltes , die erfüllte Wirklichkeit dieſer göttlichen Offenbarung . Wir erleben darin das Höchſte und Ideell ste, den sich verwirklichenden Willen Gottes, in unmittelbarer Nähe und Realität , wodurch die Erfahrung Eins mit der Speculation und der Gegensatz des abstrakten Denkens und poſitiven Erkennens völlig ausgeglichen und versöhnt wird.
+
+Hiermit schließt selbstbes wußt die Ontologie, weil sie über sich hinausführt, und die eigenen nothwendigen Schranken sich gegeben hat. " (XXXI. XXXII .) Wir haben diese Ansicht über das Verhältniß des Meta phyſiſchen zum Poſitiven und zur Erfahrung im Vorigen von allen Seiten hinlänglich ins Licht gesezt, und hätten nichts hinzuzufügen.
+
+Auch hat diese Grundanſicht vom Ontologiſchen im Verhältniß zur Hegelschen Logik für die Behandlung des Einzelnen keine bedeutende Differenz zur Folge ; unter die ja es wird ontologische Form sogar der Geist gezählt , wo man wohl wissen möchte, welcher Inhalt sich in diese Form einbildete und einwirkte ; auch enthält die Ontologie, obwohl fie ihrem Charakter , Formwissenschaft zu seyn , treu bleis den soll, doch die speculative Theologie , und ist ein Erweis [p. 331] des Wesens Gottes. ( XXVII. )
+
+Obwohl ferner jene Trennung der Form von dem Inhalte der Wirklichkeit nur eine Abstraktion des Denkens seyn soll , so ist doch die Ontologie die in uns sich selbst denkende absolute oder göttliche Formel welt, welche Ansicht bei der Leerheit und Nichtigkeit der Form, nicht bloß Weiße sondern auch Hegel für eine Hypostase der Kategorien ausgeben würde. Ueberhaupt aber wäre es sehr zu wünschen , daß man endlich einmal die vielbelobte Erfahrung wirklich einschlagen ließe , damit statt der allgemeinen und unbestimmten Behauptungen von einem Verarbeiten der Erfahrung, was die Philosophie immer gethan , und einer Ein heit der Speculation und Empirie, die Sache selbst hervortrete, um zu sehen , wie es denn eigentlich gemeint sey , was für neue Wahrheit gewonnen werde , und wie diese Vereinigung der Hegelschen Dialektik mit der Realphiloſophie Schellings sich denn von dem zweiten und dritten Theile der Hegelschen Philosophie, welche man ganz zu ignoriren beliebt, unterscheide. Dann würde auch offenbar werden , worin die positive Dialektik bestehe , welche schon mit der Ideen lehre beginnen soll.
+
+So wie es Charakter der negativen Dialektik war , von den Theilen zum Ganzen, von der Einseitig keit zur Totalitåt erst aufzuſteigen oder dahin zurückzugehen ; so ist das Wesen des von jest an ( von der Ideenlehre ) geltenden methodischen Fortschreitens durchaus das Umgekehrte ;
+
+weshalb wir dasselbe als poſitive Dialektik bezeichnen können. Diese ist progressiv , herabsteigend von dem Gipfel der erreichten absoluten Idee , um dieſe , die höchste Wahrheit , in ihrer weitern Selbstbewährung darzulegen.
+
+Hier ist also das fort= leitende Princip Entwickelung eines schon implicite vorhandenen Wahren , Begründung und Entfaltung der vollendeten Begriffs totalität , Fortschreiten innerhalb derselben , wie das negativ dialektische erst dahin zurückzuſchreiten_hatte. ” ( XXIX. )
+
+Nach [p. 332] dieser Beschreibung ist die positive Dialektik nichts weiter , als die Entwickelung , welche mit dem Begriffe eintritt .
+
+,, Das
+
+Fortgehen des Begriffs ist nicht mehr Uebergehen noch Scheinen in Anderes , sondern Entwickelung , indem das Unter ſchiedene unmittelbar zugleich als das identische mit einander und mit dem Ganzen, gesetzt , die Bestimmtheit als ein freies Seyn des ganzen Begriffs iſt. " ( Hegels Encyklop. §. 161. ) Hegel foll freilich von dieser positiven Dialektik nichts gewußt , ſondern nur die negative Dialektik ,, herausgehoben und mit energischer Meisterschaft behandelt " haben. (XXIII).
+
+Die Seele der negativen Dialektik sey der Widerspruch , worauf Hegel ſein ganzes System gegründet ; dieß sey sein Irrthum , aus welchem sich alle anderen Irrthümer im Einzelnen ebenso folge= recht herleiten ließen , wie aus der Miskennung des Poſitiven , indem beide auf Innigste zuſammenhingen und eigentlich Eins feyen.
+
+Fichte lehrt dagegen , daß der Widerspruch ſchlechthin nur ontologische, nicht reale Geltung habe.
+
+„ So gewin nen wir, dem bekannten Sate Hegels gegenüber , daß alle Dinge die gesammte Wirklichkeit -- ,,an sich selbst wi= dersprechende seyen ; " die durchgreifende Berichtigung desselben : alle Begriffsunterschiede können -, vereinzelt festgehalten statt in ihrem ergänzenden Uebergange zu einander gefaßt , und untersucht in dieser Vereinzelung , zum Widerspruche getrieben werden.
+
+Jedes einzelne Prådicat an den Dingen negirt und beschränkt das andere ; aber es ist gleichfalls nur am andern dieß bestimmte.
+
+Jene Seite , die negative, für sich selbst sich behauptend, ist eben der Widerspruch , welcher daher bloß onto logisch, durch abstrahirende Hervorhebung nur der negativen
+
+Seite, ohne die der Wahrheit nach unabtrennliche positive , existirt.
+
+Die Wirklichkeit demnach liegt durchaus jenseits dieſer ontologischen Vereinzelungen : in ihr sind die Dinge und Prå dicate real vermittelt ; denn nur in der Einheit sind sie, nicht [p. 333] in ihrer Vereinzelung , und was uns dennoch solcher Gestalt widersprechend erscheint in den Dingen , (worin nach allgemein ster Bezeichnung das metaphysische und physische Uebel seinen Ursprung hätte)
+
+wird dieß gleichfalls nur dadurch , daß die
+
+Betrachtung es herausreißt aus dem Weltganzen , in welchem es seine Ergänzung und Nothwendigkeit findet. " ( Ontologie, S. 165. 166. )
+
+Mit der Ansicht , daß nach Hegel „ Nichts existire, was nicht an dem Widerspruche unters ginge , " wäre zu vergleichen die Lehre vom Wesen , wo Hegel E. 72 ſagt : „ Es ist überhaupt aus der Betrachtung der Natur des Widerspruchs hervorgegangen , daß es für sich noch, so zu sagen , kein Schaden , Mangel oder Fehler einer Sache ist , wenn an ihr ein Widerspruch aufgezeigt werden kann.
+
+Vielmehr jede Bestimmung , jedes Concrete , jeder Begriff ist wesentlich eine Einheit unterſchiedener und unterscheidbarer Momente , die durch den bestimmten wesentlichen Unterschied in widersprechende übergehen.
+
+Dieses Widersprechende löst sich allerdings in Nichts auf, es geht in seine negative Einheit zu rück.
+
+Das Ding , das Subject , der Begriff ist nun eben dieſe negative Einheit ſelbſt ; es iſt ein an sich selbst Widersprechendes, aber eben so sehr der aufgelöste Widerspruch ; es ist der Grund, der seine Bestimmungen enthålt und trågt.
+
+Ding, das Subject oder der Begriff , ist als in seiner Sphäre in sich reflectirt , sein aufgelöster Widerspruch, aber seine ganze Sphäre ist auch wieder eine bestimmte verschiedene; so ist sie eine endliche , und dieß heißt eine widerspre chende.
+
+Von dieſem höhern Widerspruche ist nicht sie selbst die
+
+Auflöſung, ſondern hat eine höhere Sphäre zu ihrer negativen Einheit, zu ihrem Grunde.
+
+Die endlichen Dinge in ihrer gleichgültigen Mannigfaltigkeit ſind daher überhaupt dieß, wider sprechend an sich selbst , in sich gebrochen zu seyn und in ihren Grund zurückzugehen.
+
+Wie weit Hegel auch [p. 334] davon entfernt ist, die logischen Formen mit der realen Wirklich keit zur abstracten Einheit zu identificiren , so macht er sich aller dings nichts mit logischen Formen zu thun , die nur logisch, nicht ontologisch, d. h. nur Gedanken, abstracte, nichts sagende und unwahre Gedanken sind. Was aber die Behauptung Fichte's anbetrifft, daß der Sat Hegels , daß alle Dinge an ihrem innern Widerspruche zu Grunde gehen, mit einem andern ,,Axiome " des Systemes , schlechterdings unverträglich sey , wonach nämlich alles Wirkliche auch vernünftig seyn soll , so ist dagegen nur zu bemerken daß Hegel nicht jedes Stück Holz, das in acht Tagen im Wasser verfault , für ein absolut Wirkliches hält , sondern daß er vielmehr eben darum , weil die Dinge durch ihren Wider spruch zu Grunde gehen , und in sofern sie denselben nicht ertragen können , für unwirklich erklärt.
+
+Bei Fichte ers halten wir nun als die Bedeutung des Widerspruchs zunächst die Behauptung , daß jede Begriffsbeſtimmung einſeitig und falsch aufgefaßt werden kann - was wohl Niemand leugnen
+
+Hat der Widerspruch keine andere Bedeutung, so ist freilich nicht leicht einzusehen , wie dennoch gesagt werden kann : ,, Das Werden -- als ein leeres und nur als die formelle Identität von Gleichheit und Nichtgleichheit gedacht ――― der absolute Widerspruch , ist selbst welcher demzufolge , wenn auch nicht in der concreten Wirklichkeit , so doch wenigstens in der ontologischen Betrachtung der reinen (an ſich ſelbſt un wirklichen) Begriffe Wahrheit und Bedeutung bekommt.“ (S. 162. ) Oder soll etwa das Werden und die Veränderung auch onto logisch in seiner Wahrheit und in Verbindung mit allen andern ontologischen Bestimmungen nicht ohne Widerspruch in sich selbst gefaßt werden können , ſo iſt wieder nicht zu ſehen , wie in dieſe den Widerspruch in sich enthaltende Form der Wirklichkeit der wirkliche Inhalt sich hineinbilden möchte , ohne in denselben Widerspruch zu verfallen und ihn auf sich nehmen zu müſſen.
+
+335 . Wie schon in der Theorie des Erkennens , so wird auch in der. Ontologie von Fichte die Behauptung ausgesprochen , daß in seinem Systeme jeder Dualismus vollkommen aufgehoben sey . (XII .) Jedoch ist er nur durch Unbestimmt heit verdeckt , und diese tritt auch in der Ontologie an der Stèlle wieder hervor , wo die concreteste Gestalt der Gegensätze die höchste Bestimmtheit fordert. Fichte erklärt sich in der Ontologie nåher über die Erkennbarkeit und Unerkennbarkeit der göttlichen Persönlichkeit.
+
+Vollståndig erkennbar sey
+
+Gott nur nach seinem apriorischen Formbegriffe ; ein anderes aber sey das positive Erkennen des göttlichen Geistes, das Eindringen in das Geheimniß seiner Persönlichkeit , seiner Gedanken und Entſchließungen : ein solches von sich zu behaupten , sey noch keiner Philosophie eingefallen.
+
+Wie jedes Natur ding nach seiner poſitiven Existenz gefaßt , eine Unergründlichkeit in sich schließe, so sey vielmehr noch jeder Geist dem andern ein unzugängliches Geheimniß , das er ſelbſt nur aufschließen , durch freie That zur Offenbarung bringen könne ; dasselbe aber gelte in allerhöchster Bedeutung vom göttlichen Geiste , der nicht an sich selbst , nur in seiner Offenbarung zu erkennen sey, wodurch über jede Aprioritåt hinaus in ein anderes Gebiet des Erkennens hinübergewiesen werde. (S. 38.) Ohne uns jezt wieder auf das Verhältniß der Speculation und Empirie einzulaſſen , und weiter zu fragen , was denn eigentlich , da doch Alles Reale urgedacht in Gott seyn soll (XII.) , unter den geheimnißvollen Gedanken und Entschließungen zu verstehen sey, -es reicht uns hin, daß bis jetzt keine Philosophie eine solche Erkenntniß behauptet haben soll so wird doch weiter bemerkt , daß unser Denken
+
+Gottes in keinem Sinne mit dem göttlichen Selbsterkennen zu ſammenfalle. (S. 39.) Die Ontologie schließt nun in der Lehre vom Wesen mit dem Begriffe der Wechselwirkung , welcher die ·Begriffe des Organismus , der Seele und des Geistes in sich begreift.
+
+Indem nicht der Begriff an und für sich in seiner absoluten Vermittelung zum Gegenstande der ontologischen Untersuchung gemacht wird , bleibt schon die Erkenntniß des Geiſtes in der Vorstellung , daß der Geist Selbstbewußtseyn und Wollen sey , stehen , und erhebt ſich nicht über das Bildliche des Durch ſchauens und Durchleuchtens zum ſpeculativen Begriffe.
+
+nun von der Seele zur Weltseele fortgegangen wird , so vom " Wie der Einzelorganis endlichen Geiste zum absoluten Geiste.
+
+mus nur als Moment in der Reihe der Organisationen , einzelne Seele nur in der Totalität der Seelen gedacht werden konnte ; so sest auch der persönliche Geist die Gemeinschaft gegen seitig ſich fordernder und ergänzender Persönlichkeiten , ein Geistes universum voraus , in welchem er nur dieser bestimmte zu seyn vermag , mit denen er demnach in ein geistig eigenthümliches, d. h. frei erkennendes , wie frei wechselwirkendes Verhältniß ein geht , um in dieser Gemeinſchaft die neue eigene Welt der Frei heit , die geistige Nachschöpfung ( die Geschichte ) zu erzeugen. Jede That eines jeden Geistes darin ist durchaus nur die ſeinige, aus unantaſtvarer Individualitåt , und dennoch ergiebt sich , aus dieſem unendlichen Gegeneinanderwirken freier Selbſtigkeit, Einheit und Harmonie; auch im geistigen Universum wird allein der absolute Zweck realisirt.
+
+Hiermit stehen wir an der Schwelle des letzten Widerspruchs , den die Ontologie zu lösen hat. Jeder Geist wird , was er ist , schlechthin aus ſich ſelbſt; die selbst schöpferische That ist erst die widerspruchlösende Bedingung seines ganzen Daseyns , und dennoch stellt sich in jedem Momente seiner Selbstverwirklichung nicht bloß er selbst , sondern zugleich darin sein unendlich Anderes , der gesammte Weltzweck dar.
+
+In jeder That , die frei und durch eigene Macht aus seinem Innern kommt , ist dennoch die ganze Unendlichkeit mitwirkſam.“ (S. 508.)
+
+Die Auflösung dieses Widerspruches besteht nun darin , daß „ die Unendlichkeit als Totalorganismus außer
+
+[p. 337] O einander liegender und nach einander ablaufender Geister , nur zu denken ist als befaßt in der Einheit eines ewig vollendeten Urbildes."
+
+,, Indem das weltschöpferische Denken das unendlich Einzelne in die Totalität der Unendlichkeit , das Unendliche in das Einzelne hineinſchaut , und jedes nur in und für das Andere weiß, so daß die unendlich ablaufende Weltentwickelung, ihr (räumlich zeitliches) Außer und Nacheinander , in der ewig vollendeten Einheit dieses Weltbewußtseyns befestigt ist : hat der im Grunde unverständliche und nur vorläufige Ausdruck eines Welturbildes einstweilen in diesem Begriffe nåhere Wahrheit und Verständlichkeit erhalten.
+
+Nicht es selbst ist , sondern das welt
+
+ſchöpferische Denken bringt es ewig hervor , oder in noch schår ferem Ausdruck : das Absolute faßt in seinem Denken , welches zugleich sein Schaffen ist , (freilich auch nur eine vorläufige , erſt weiterer Entwickelung bedürftige, Begriffszusammenstellung) die Weltunendlichkeit zur Einheit zusammen.
+
+Dieß wäre der Aus druck, welcher sich in der Reihe der bisherigen Begriffe den Gedanken der Einheit in der Unendlichkeit ſubſtituirt ;
+
+es ist scharf festzuhalten , was zu seiner Denkbarkeit gehören würde. Indem die Mannigfaltigkeit oder hier die Unendlichkeit in Einem gedacht , oder die Wirklichkeitsform derselben gefunden werden soll ; seht dieß nicht nur voraus , daß im Bewußtſeyn des
+
+Einen das des Andern , in jedem alles Wissen zugleich gegenwärtig sey, daß die Einheit des Albewußtſeyns , durch jedes Einzelne hindurchgehe, sondern, was wieder davon uŋabtrennlich ist: das Denken , Wissen des All muß darin sich eben so sehr feiner, als der Einheit , bewußt ſeyn , d. h . sich in der ursprünglichen Einheit des Selbstbewußtseyns zu · jenem mithinzubringen , damit es selbst nur denkbar werde.
+
+das Wissen das Vereinigende des Andern , des Gewußtseyn, indem durch dieses das verknüpfende Band der Einheit hindurch, Laufen soll , kann es nicht von diesem Andern erwartet, oder in
+
+[p. 338] — ihm gefunden werden : es muß im Wiſſenden selbst liegen und aus diesem vereinigend sich übertragen auf das ſonſt vereinzelt auseinanderfallende Andere.
+
+Wie überhaupt schon das Bewußt.
+
+werden des Undern Selbstbewußtseyn vorausseßt , wie beide
+
+Momente nur in Unabtrennlichkeit und in steter Wechselwirkung mit einander gedacht werden können ; so ist noch mehr das einigende Ulbewußtseyn nur in der Einheit des Selbstbewußts feyns möglich." (S. 511 und 512.) Wie schon in der Theorie des Erkennens und in der Idee der Persönlichkeit, so ist auch hier einzig und allein die Unbestimmt heit und das Bildliche der Vorstellung, wodurch der Schein ´entsteht , als sey der Dualismus wirklich überwunden , und was davon unabtrennlich ist - als sey das Wesen Gottes wirklich als absolute Persönlichkeit erkannt
+
+Vom endlichen
+
+Geiste wird zum abſoluten übergegangen. Abgeſehen nun davon, daß es hier eine ganz subjective , der Sache selbst äußerliche Reflexion ist , welche das Eine auf das Andere bezieht, indem der endliche Geist nicht an und für sich selbst als endlicher gefeht wird , so bleibt wieder die Schwierigkeit , welche sich dem Begriffe der abſoluten Persönlichkeit vor Allem entgegenſtellt, ganz und gar verdeckt und unaufgelöst. Der endliche Geist steht als Wiſſen und Wollen dem abſoluten Geiste gegenüber ; er ist seiner und Bewußtſeyn Gottes. Hier fragt es sich nun eben : wie verhält sich das endliche Wissen oder das Bewußtseyn des Menschen von Gott , zum unendlichen absoluten Selbstbewußtseyn ?
+
+So leicht es gesagt ist , daß unser Denken
+
+Gottes in keinem Sinne mit dem Selbsterkennen Gottes zusammenfalle, d. h. so unbefangen man ein totales Auseinanderfallen des Endlichen und Unendlichen aussprechen kann, eben so wenig ist der philoſophiſchen Erkenntniß mit der einfachen Behauptung geholfen , daß Gott Urbewußtſeyn , Urwille , Durch schauen und Durchleuchten Alles Anderen und seiner selbst sey.
+
+[p. 339] Es ist dieß aber schlechterdings nicht mehr als eine einfache Behauptung , so lange der Gegensatz des Bewußtſeyns und Selbstbewußtseyns unaufgelöst bleibt.
+
+Gott hat als Person die
+
+Welt und den endlichen Geist zum Object ; nun heißt es freilich, das Absolute überwinde diese Unterschiede und vereinige ſie in der geistigen Einheit seines AÜbewußtſeyns ; ( S. 519. ) Gottes Person sey tief vereinigt mit den kreatürlichen Persönlichkeiten ; (S. 513.) die Einheit des Albewußtseyns gehe durch jedes Einzelne hin durch, und sey sich darin zugleich ſeiner bewußt (S. 512) ; allein dieß soll nicht etwa heißen , daß sich Gott zugleich im Andern wisse, sondern vielmehr am Andern , d. h. daß sich Gott als beschränkt wisse. Allerdings setzt das Bewußtseyn das Selbſt bewußtſeyn voraus , allein in der Erkenntniß des Geistes kommt es nicht auf die Vorstellung an , daß immer beide zus gleich da sind , sondern es kommt auf die Erkenntniß ihrer concreten Einheit an.
+
+Im Bewußtseyn beziehe ich mich auf ein Underes , und weiß mich in dieser Beziehung auf ein Nicht ich beschränkt ;
+
+besteht nun das Selbstbewußtseyn nur darin , daß ich vom Nicht - ich abstrahire , und mich gegen dasselbe in mich zurückziehe , so habe ich neben der abstracten Unendlichkeit des Selbstbewußtseyns das Nicht- ich als eben so selbstständig außer mir.
+
+Nun kann ich freilich immerhin sagen,
+
+Gott habe die Welt nicht als ein fremdes Object sich nur gegenüber, sondern durchdringe sie allgegenwärtig : allein es kommt , soll es nicht bei der bloßen Vorstellung sein Bewenden haben , Alles auf die weitere und nåhere Beſtimmung an. Hålt man aber fest , daß das Wiſſen des endlichen Geistes von Gott, mag man es auch Offenbarung nennen , schlechterdings nicht die persönliche Immanenz Gottes im endlichen Geiste sey, so kommt man bei allem Schein, den die Vorstellung und das wiederholte Versichern, daß Gott ein persönlicher sey, verbreiten mag, doch nicht über den Dualismus hinaus zur Erkenntniß des absolut persönlichen Geistes. 22*
+
+[p. 340] Wenn nun aber behauptet wird , daß die Hegelsche Philo. sophie bei ihrer einseitigen Hervorhebung des Abstracten , das Denken als die universelle Natur C des Geistes bezeichnet habe, und daß dieser Sah dahin zu steigern und zu berichtigen sey, daß nicht das nur formelle Denken , sondern die immerdar con crete Selbstvollziehung des Wollens , aber aufgenommen in das allgemeine Licht des Denkens , die Wurzel des Geistes sey, (S. 501)
+
+so wäre damit die Entwickelung des Begriffs der
+
+Freiheit in der Einleitung zur Hegelschen Rechtsphilosophie zu vergleichen ; oder auch die Encyklopädie, in welcher vom Denken zum praktischen Geist übergegangen wird , (,, als Wille tritt der Geist in Wirklichkeit , als Wissen ist er in dem Boden der Allgemeinheit des Begriffs “ (§. 469) ; vor Allem aber die Logik, in welcher vom Leben zum Erkennen und Wollen über gegangen und nachgewiesen wird , wie Beides unabtrennlich zusammengehört. ― Mit der Behauptung aber , daß Hegel auch das Absolute nur als das sich im unendlichen Seyn durchsichtige Denken fasse , (S. 494) und somit nicht viel über die Vorstellung der Weltseele hinauskomme, ist eben falls die logische Entwickelung vom Leben durch das Erkennen und Wollen zur absoluten Idee hin zu vergleichen , in welcher die dialektische Widerlegung deffen enthalten ist , was als Hegels Ansicht von Fichte hier bezeichnet wird. Was ferner die methodische Entwickelung der Ontologie betrifft, so müssen wir die frühere Beschuldigung auch hier wiederholen , daß nämlich die lebendige Dialektik Hegels durch das Schwankende und Willkürliche der Begriffsbestimmungen mannigfach zum Formalismus und Schematismus ausgeartet iſt. Zum Beweise für diese Behauptung gehen wir hier nur die Ent wickelung des ersten Theils, der Lehre vom Seyn, in ihrem dialektischen Fortgange durch. Zunächst erklärt sich Fichte gegen den Anfang Hegels mit der
+
+[p. 341] Qualität , und will , daß weder mit der Qualität noch Quan titåt angefangen werden soll; er nennt vielmehr die erste Sphåre die Urkategorien ( Seyn , Etwas , Dieß ) , und diese sollen ,,selbst weder qualitativ , noch quantitativ seyn (wiewohl nåher stehend dem Quantitativen) , sondern das Abstracte, gleichmäßig Vorauszusehende gegen beide , weil sie eben das Noch- Nichts , den Anfang alles Bestimmens , mithin weder eine quantitative, ( Seite 56. )
+
+noch qualitative Bestimmtheit , ausdrücken."
+
+Angefangen wird nun mit dem Seyn , welches noch Nichts ist, aber nicht zum Werden fortgegangen , sondern die rechte
+
+Fortbestimmung des reinen Anfangs ist vielmehr die eintretende Befestigung des vorhin noch unbestimmt gesezten Seyn, zum Bestimmt seyn im allgemeinsten Sinne , · zum Etwas.“ (S. 67.)
+
+Ueber den Fortgang zum Werden wird bemerkt :
+
+,, Zuförderst kann in diesem Zusammenhange , was die Art der dialektischen Ableitung betrifft, das Werden nicht hergeleitet werden aus einer geforderten Vermittelung vom Seyn und Nichts, oder als deren Einheit, weil diese gar nicht disparate Gedanken, Gegensätze sind , die der einenden Vermittelung bedürften : sondern Seyn ist hier das Identische des Nichts ; es ist noch nichts , worin an sich selbst kein Widerspruch liegt , welcher eine darüber hinausschreitende Vermittelung nöthig machte , ſondern wo nur der Widerspruch des dabei stehen Bleibens in einen dritten , das Nichts bestimmenden Gedanken den Uebergang bereitet. Dieses ist, wie sich sogleich zeigen wird , der das Nichts zunächst ergänzende Gedanke des Etwas , zu welchem es wird, nicht aber die Algemeinkategorie des Werdens. Indem nämlich Seyn als Anfang ſich in Nichts verflüchtigt , kündigt sich damit überhaupt die Nothwendigkeit eines Uebergehens zur Fortbestimmung an. Und die allgemeine Forderung dieser Denkbewegung, dieses Fließens , „ Werdens " des bestimmenden Gedankens aus dem noch unbestimmteren , ist9 das einzig gewonnene Resultat, welches eben so hier weiter treibt , wie es in allen folgenden Kategorien den Uebergang bereitet , und wie ein gemeinsamer Faden sich durch alle hindurchzieht. " ( S. 65 und 66.)
+
+Sind
+
+Seyn und Nichts wirklich nicht disparate Gedanken , sondern nur das ſchlechthin Identische , so liegt in ihnen auch ganz und gar nicht die Nothwendigkeit eines Fortgangs , auch nicht die Forderung an das denkende Subject , zu einer andern Bestimmung fortzugehen , sondern der Fortgang fållt hier nur in die Willkür des Subjects , welches sich einmal vorgenommen hat, nicht bei dem Gedankenlosen stehen zu bleiben.
+
+Indem sich das
+
+Seyn in das Nichts verflüchtigt und zur unterschiedslosen Identität mit ihm wird , kündigt sich darin nur an , daß das Denken , indem es vom Seyn anfing , gar nicht angefangen hat, ſondern , wenn es wirklich zu denken anfangen will , mit etwas . Anderem anfangen muß. Hier håtte Stahl ganz Recht, wenn er meint , daß wir sehr wohl bei der inhaltsleeren Identität von Seyn und Nichts stehen bleiben könnten , denn die eine Willkür gilt so viel als die andere.
+
+Das Andere , wozu fortgegangen.
+
+wird, ist hier ganz äußerlich an das Erste herangebracht , auf keine andere Weise , als wenn in der Wissenschaftslehre auf die Thesis Ich =Ich die Entgegenseßung von Ich und Nichtich folgt. Indem aber darin , daß Seyn und Nichts identisch sind , noch gar kein Widerspruch liegen soll , ist die sich ebenfalls vorfindende Behauptung : " Seyn wird als das Noch - Nichts als schlechthin Nicht - Bestimmtes ,
+
+Widerspruch gegen sich
+
+ſelbſt, ausdrücklich bestimmt ,“ (S. 61.) entweder von gar keiner Bedeutung oder der folgenden Behauptung der Unterschieds Das Etwas ist aber nur losigkeit geradezu widersprechend . in Beziehung auf ein Anderes und daher dieß Einzelne. Hieran knüpft sich der Uebergang in die Kategorien der Quantität. „Das Dieß ist selbst noch leer , d. h. nur formell unterſchieden von dem andern , eben so leeren Dieß ; oder bestimmter gefaßt :.
+
+[p. 343] eben so sehr unterschieden als auch nicht unterschieden, indem hier schlechthin noch nicht ein auf Was gegründetes Unterscheidungsprincip vorhanden , welches die Schiedlichkeit der
+
+Dieß nach Innen zu wenden , über die formelle (äußerliche) Begränzung derselben hinauszugehen vermöchte.
+
+Dieß innerlich unbestimmt laffende Begrånzen der Dieß gegen Dieß eröffnet eine ganz neue Sphäre von Denkverhältniſſen , welches in die zweite Epoche der Kategorien , die der Quantitåt hinüber „ Wir können Quantität definiren , als Vers führt." (S. 73.)
+
+einigung des (formellen ) Unterscheidens , (der Möglichkeit unendlicher Unterſcheidung) und des Nichtunterscheidens , indem innerer Unterschied vielmehr nicht zugelassen wird : ein Gränze ſehen und unmittelbares Aufheben derselben ; oder von der an dern Seite gefaßt : eine unbestimmbare Mannigfaltigkeit, die doch in das unterſchiedsloſe Einerlei eines Deſſelbigen zurück fällt ; überhaupt ein Bestimmen und Nichtbestimmen , Unterscheiden und Nichtunterscheiden , Abgränzen und Leerlassen.“ (S.75 .) -— Daß jene Etwas unterschieden und auch nicht unterſchieden sind , ist eine Bemerkung , welche nur die subjective , Diese Reflexion der Sache selbst äußerliche Reflexion macht.
+
+läßt die Bestimmtheit des Etwas für keine
+
+Bestimmtheit gelten , weil sie sogleich concretere Gedankenbeſtim= mungen zur Vergleichung mitbringt , nämlich die Gedanken von Was und Wesen , von einem innern Unterschiede im Verhältniß zu einem äußern und formellen.
+
+Das Etwas geht als unmittelbare Bestimmtheit ganz und gar in seine Bestimmtheit auf, und wir haben allerdings noch kein Etwas , welches Bestimmtheiten und Qualitäten an sich hätte , sondern nur das Etwas selbst als einfache Bestimmtheit.
+
+Daß die Bestimmt heit des Etwas eben so sehr keine ist , hat sich aber am Etwas selbst gar nicht ergeben , das Etwas hat diese Bestimmtheit, welche es als Etwas hat , nicht aufgehoben und negirt, sondern [p. 344] dieß haben nur wir mit unserer Reflexion gethan , welche sogleich nach einem wesentlichen , innern Unterschiede fragt , von welchem noch gar nicht die Rede ſeyn kann. Nur das „ Grånze sehen" liegt in der Sache, das fållt in unsere Reflexion ;
+
+Aufheben derselben " aber indem aber die Etwas selbst ihre
+
+Gränze nicht aufgehoben haben , so haben wir nur die Vor stellung der Quantitåt an den Etwas dadurch erweckt , daß wir die Art und Weise ihrer Bestimmtheit durch die Vergleichung mit concreteren Bestimmungen auch wieder unmittelbar und ohne Weiteres für keine gelten ließen.
+
+Wåren aber wirklich die Etwas in dem Sinne, wie sie es seyn sollen, keine Beſtimmt heiten , so wåren sie nicht bloß der Quantitåt nåher liegend, ſondern sie wåren selbst schon quantitativ beſtimmte Etwas, denn sie håtten ganz das an sich , was als das Wesen der Quantität angegeben wird.
+
+Bestimmtheiten aber , die ganz und gar keine Bestimmtheiten sind , und in keiner Hinſicht, ist kein weiter treibender dialektischer Widerspruch , sondern ein hölzernes Eisen ; denn wodurch die Etwas ſich vom unbeſtimmten Seyn unterscheiden , ist eben ihre Bestimmtheit und zwar ihre unmittelbare , d. h. qualitative Bestimmtheit. - In der Entwicke lung der Quantität weicht Fichte besonders dadurch von Hegel ab , daß er sogleich die Bestimmung des Maaßes in den
+
+Begriff der Quantitåt aufnimmt.
+
+Die zweite Stufe der Quantität , die begränzte quantitative Größe , enthält die Kategorien des Maaßes , der Maaßbeſtimmtheit und des Maaß und Zahlverhältnisses. Der wesentliche Charakter der begränzten quantitativen Größe soll darin bestehen , daß , die begränzende Unterscheidung hier noch nicht aus innerer qualitativer Beſtimmt heit hervorgeht, wiewohl die letztere dem Principe des quantitativen Begrånzens überhaupt ſchon zu Grunde liegt, und im dialektiſchen Fortgange desselben immer deutlicher sich ankündigt ; sondern daß fie nur noch leere Quantitåt, abstracte Quantitätsunterscheidung ist. “ [p. 345] (E. 96.) „ Das Maaß verhält sich zunächst völlig gleichgültig gegen die qualitative Unterschiedenheit des von ihm Gemessenen. Der Inhalt wird überhaupt in ihm nur als ein ununterbrochen fortlaufender, ununterschiedener gedacht ; indem es das Charakteristische des Maaßes ist , die Discretion des Quantum fallen zu laſſen , und es als ein gleichartig fortlaufendes zu fassen , während das discrete Mannigfaltige quantitativ begrånzen , es zählen heißt. Maaß ist daher quantitative Gränze einer gleich artigen oder in Stetigkeit fortlaufenden Qualität. " (§. 41.) Maaß soll also hier weiter nichts seyn als begrånzte quantitative Größe; das Gemeſſene, von dem die Rede ist , ist nicht ein Anderes , sondern das Quantum selbst hat das Gemessene zu seinem Inhalt , der aber für das Quantum selbst ein qualitativ gleichgültiger ist.
+
+An diese Gleichgültigkeit knüpft sich nun der dialektische Fortgang an ; wegen dieſer Gleichgültigkeit des Inhalts nämlich ist die Gränze zugleich eine nichtige , und das Maaß geht damit ins Maaßlose über. ,"I In jener oberflächlichen Ver mehrung und Verminderung des Maaßes ist jedoch der Wider. spruch begangen worden , gerade abzusehen von der Beziehung desselben auf den Inhalt , in welcher das Maaß eigentlich besteht. Das Maaß wird durch solches äußerliches Mehren oder Mindern eben aufgehoben, und fållt in die abſtracte Quantitåtsbeſtimmung Diese (Inhalts ) Bestimmtheit führt ihre Begränzung So ist die Größe , im Begriffe des und nur ihre bei sich. zurück.
+
+Maaßes, zuerst in die Bestimmtheit eingegangen ; sie hat die eigene Abſtraction damit abgestreift : wie die wahrhafte Größe nur Bestimmtes messend , oder als Maaß , seyn kann , so ist das Maaß auch nicht mehr als Ubstractum , sondern nur als Maaßbestimmtheit zu denken, welche, dem Dieß als weſent licher Ausdruck inhårirend , nur mit und durch die Veränderung dieses Inhalts, und solcher Veränderung entsprechend, sich mehren oder mindern läßt , nicht wie im Begriffe des abstracten Maaßes, quantitativ willkürlich und leer ins Unendliche verändert werden kann.“ (§. 44.)
+
+Also zuerst knüpft sich der Fortgang daran an, daß der Inhalt am Maaße ein gleichgültiger ist, dann aber die Wiederherstellung der Bestimmtheit daran , daß der Inhalt kein gleichgültiger ist.
+
+So undialektisch es wäre , von der wesentlichen Bestimmung des Maaßes abzusehen , nämlich von der Beziehung auf den Inhalt , ſo hat sich im Vorigen ja gerade dieß als die wesentliche Bestimmung des Maaßes ergeben , die Bestimmtheit des Inhalts gleichgültig zu lassen.
+
+Das Maaß geht so durch sein Wesen ins Maaßloſe über ; der Fortgang zur Maaßbestimmtheit aber wird dadurch erlangt , daß eben das, was vorher als das Wesen des Maaßes gefaßt wurde, ohne Weiteres aufgehoben , und dafür etwas Anderes als das Weſen untergeschoben wird .
+
+Die begränzte quantitative Größe hört allerdings durch die Vermehrung auf, diese zu seyn , und wird eine andere ; soll dieſe quantitative Veränderung aber auch eine qualitative ſeyn , so ist der Inhalt kein gleichgültiger , ſondern ein bestimmter.
+
+Außerdem aber ist die quantitative Unendlichkeit , (denn weiter hat hier das Maaßlose eben wegen der Gleichgültigkeit des Inhalts keine Bedeutung) durchaus etwas Anderes als die abſtracte Quantitåtsbestimmung , denn in jener ist die Gränze nicht überhaupt oder vielmehr als qualitative aufgehoben , sondern als bestimmte quantitative Grånze ; hier war daher auch der Ort , die quantitative Unendlichkeit weiter zu entwickeln.
+
+Die Maaßbeſtimmtheit wird nun gefaßt als die unmittelbarste Einheit des Quantitativen und Qualitativen. Wegen der quantitativen Bestimmtheiten trete aber auch hier die Ver ånderung ein ; der Fortschritt gegen die vorige Stufe bestehe aber darin, daß die Maaßverånderung an ein über das bloß Quantitative hinausliegendes Princip, an den Inhalt gebunden sey . (S. 108.) Weiter aber kehre wegen der Bestimmtheit das Verhältniß des Gegensates eines Dieß gegen sein Underes zurück , oder die an die Thesis einer Bestimmung unabweislich geknüpfte Anti thesis.
+
+Daß sich die quantitative Veränderung an den Ina halt anknüpfe , war schon früher der Fall , denn nur unter dieser Voraussetzung wurde das Maaßlose zur Maaßbestimmtheit aufs gehoben ; daß aber die Bestimmtheit zum Verhältniß des Gegens fazes fortschreite , håtte vorher auch nicht außer Acht gelaſſen werden dürfen , denn auch das Maaß ist beschränkte Größe und hat damit Bestimmtheit.
+
+Jetzt aber erst sollen verschiedene
+
+Maaße neben einander und in ein gegenseitiges Verhältniß tre ten.
+
+Obwohl aber vorher das Wesen der Maaßbestimmtheit als die unmittelbare Einheit des Quantitativen und Qualitativen angegeben wurde , so heißt es doch wieder : "! Was aber dieß Maaß von anderem oder von sich selbst , als verändertem Maaße , überhaupt zu unterscheiden vermag , ist hier noch nicht der aufgewiesene Inhalt , das qualitative Dieß , welches vielmehr in dieser Sphäre noch abſtract gehalten , als Unterscheidendes gar nicht vorhanden ist , sondern die nur quantitative Verschiedenheit , die allein durch eine Vergleichung zu ein ander , kurz im Verhältnißsehen unter sich hervortreten kann. ". ( S. 103)
+
+Also die Maaßbestimmtheit für sich knüpft ſich we
+
+ſentlich an einen qualitativ bestimmten Inhalt , im Verhältniß zu andern Maaßen aber iſt dieſe Bestimmtheit nicht vorhanden. Somit konnte das Maaßverhältniß sogleich an die erste Bestim ~% mung des Maaßes überhaupt angeknüpft werden , denn schon hier hatten wir Bestimmtheit und somit Verhältniß , und zugleich. Unbestimmtheit des Inhalts. hältniß als die
+
+Das Maaß- und Zahlver dritte Bestimmung zum Maaß und zur ፡
+
+Maaßbestimmtheit hat es daher auch nur mit den quantitativen Verhältnissen zu thun, und bildet im Potenzenverhältniß den Uebergang zur bestimmten quantitativen Größe. „ Die Größewurzel, welche nicht ausgelöscht werden kann , wie vielfach fie auch in sich potenzirt oder depotenzirt [p. 348] werde, die also jenseits aller bloß quantitativen Veränderung, und von ihr nicht zu bewältigen , gedacht werden muß , iſt ſelbſt demnach qualitative Bestimmtheit.
+
+Dieſe , in Quantitåt eingehend , giebt sich ihr Quantum , welches nun nicht mehr bloße , von Außen kommende Begränzung durch ein anderes Quantum oder Zahl , sondern durch sie selbst gegebene , aus der Qualität hervorgehende , quantitative Bestimmtheit ist. Hier durch ergiebt sich der neue Ausdruck für die Quantitätsverhält niſſe , daß die innere Bestimmtheit der quantitativen Be gränzung durchaus zu Grunde liegt , und das eigentliche, von Innen her maaßgebende Element derselben wird. " ( S. 112 ) Wie hier die Sache gestellt ist , müßte man ſagen : will ſich die Größenwurzel durch Potenziren und Depotenziren nicht überwältigen lassen , so muß man ein anderes Mittel anwenden , z. B. die Subtraction, und verſuchen, ob die Größenwurzel, welche doch immer Quantum ist, vielleicht durch dieses Mittel überwältigt wer den kann.
+
+Damit nämlich , daß sich die Größenwurzel durch Potenziren und Depotenziren nicht überwältigen läßt , ist die qualitative Bestimmung, welche die Quantität in dem Potenzenverhältniß annimmt , noch gar nicht ausgedrückt.
+
+Vorher heißt es : das
+
+Potenzenverhältniß ist „in ſich ſelbſt zugleich Begränzung und Wiederaufheben der Grånze ins Unendliche , vollkommen in ſich selbst bestimmende Progreſſion und Regression."
+
+Im Potenzen verhältniß ist also der Begriff der Quantitåt vollständig gesest ; das Quantum hat an seiner eignen Aeußerlichkeit seine Bestimmt heit, und eben hieran bricht die Qualität hervor.
+
+Allein diese gesetzte und zugleich aufgehobene Aeußerlichkeit ist selbst die Qualität der Größenwurzel , und sie hat nicht etwa außerdem noch eine andere qualitative Bestimmtheit ; so aber erscheint die Sache, wenn sogleich von einer ' jenseits aller quantitativen Veränderung liegenden qualitativen Bestimmtheit die Rede ist; die Größenwurzel hat darum noch keine qualitative Beſlimmtheit [p. 349] an sich, weil sie von keiner quantitativen Veränderung überwältigt werden kann , ſondern ſie iſt ſelbſt qualitative Bestimmt heit.
+
+Das Wesen der bestimmten quantitativen Größe als der dritten Stufe der Quantitåt wird nun dahin angegeben, daß der Inhalt hier den Grund der Gränze ausmache. „Extensive Größe ist einestheils jedes begränzte Quantum überhaupt , und in diesem Betrachte gehört dieselbe noch der vorhergehenden Kategorieſtufe an :
+
+anderntheils ist jedoch der
+
+Inhalt dabei als Grund jener Begränzung anzuerkennen. " (§. 57) Die Bestimmung des Grundes ist nun aber für diese Be griffsstufe eine viel zu concrete.
+
+Vor Allem aber håtte nåher bestimmt werden müssen , inwiefern denn der qualitative In= halt der Grund der Begrånzung sey und „ſich ſelbſt die Gränze ſeße."
+
+Es bekommt dieß weder durch den Zuſammenhang einen bestimmten Sinn , noch kann gesagt werden , daß es sich in irgend einer Bedeutung aus dem Vorigen erwiesen habe, daß ,,die Qualität der eigentliche Quell der Quantitåt " sey.
+
+Uebergang in die extensive Größe würde sich hiernach so dare stellen : die Größenwurzel bietet jeder quantitativen Veränderung Brok , und hat daher nothwendig eine qualitative Bestimmtheit an sich.
+
+Diese aber kann von der Quantität nicht herrühren, weil dieſe keine wesentliche Bestimmtheit ist ; wenn alſo Qualis tåt und Quantität zusammen da sind , so rührt I vielmehr die Quantität von der Qualität her. Wie äußerlich dieser Ueber. gang wåre, so tritt das Verhältniß von Grund und Folge hier auch gar nicht nothwendig ein.
+
+Obwohl nun aber dieses Verhältniß ganz im Unbeſtimmten verbleibt , ſo müſſen wir es doch als das Wesen der extensiven Größe festhalten , soll diese nicht ganz mit der früheren Bestimmung des Maaßes zuſammenfallen . Der Gegensatz der continuirlichen und discreten Größe soll in der extensiven Größe zur Identität hergestellt ſeyn , und es wird hinzugefeßt , daß diese im Vorigen stets auseinander fielen , wåh [p. 350] rend doch die Zahl als die Synthese der continuirlichen und discreten Größe dargestellt wurde.
+
+Diese Einheit besteht nun in
+
+Betreff der extensiven Größe darin , daß diese einerseits als gleichartig fortlaufende Extensität continuirliche Größe ist , anderseits ein innerlich unterscheidbares und mannigfaltiges , worin die Diskretion liegt.
+
+Der bestimmte Inhalt , ſich quantitirend oder seine Extensitåt sich gebend , setzt sich in seiner gleichar = tigen Bestimmtheit eben so sehr als continuirliches Quantum, wie als unterscheidbare Vielheit von Theilen. “ ( S. 117)
+
+nach verhält sich auch die ertensive Größe gegen die qualitative Bestimmtheit des Inhalts durchaus gleichgültig , und diese Be: stimmtheit desselben ist nur die Vielheit von Theilen d. h. eine quantitative Bestimmtheit , das Moment der Diskretion.
+
+dem nicht auf die Beschaffenheit der Gränze selbst reflectirt wird, wodurch allein das Wesen der extensiven Größe bestimmt werden kann , bleibt für das Eigenthümliche der extensiven Größe nur jene unbestimmte Behauptung übrig , daß der Inhalt Grund der Gränze sey ; im Uebrigen fällt der Begriff derselben ganz und gar mit der Maaßbestimmtheit zusammen , welche ebenfalls schon als die Einheit der Qualität und Quantitåt angegeben wurde , oder auch mit der Bestimmung des Maaßes überhaupt. Als Einheit der extensiven und intensiven Größe wird das spes cifische Quantum gefaßt , wodurch der Uebergang in die Qualität gebildet wird .
+
+„ Der Inhalt hat seinen Größenaus druck und nur diesen in der Reihe der Größen : seine unabån= derliche Grundzahl oder sein Grund maaß , innerhalb welcher es sich auf- und abbewegen kann , über welche hinaus es aber unmittelbar zu feinem Undern wird.
+
+Ein Mehr oder Weniger der in Extension sich darstellenden Intensität deſſelben, eine Wens derung seiner extenſiv- intenſiven Beſtimmtheit über dieſe Grånze macht daher diesen Inhalt zu einem schlechthin anderen, das bloß quantitative Andere wird damit zu einem quali
+
+[p. 351] S tativ Verschiedenen. " ( S. 125 )
+
+Damit hat nun die
+
+Quantität durchaus ihre Selbstständigkeit verloren , und ist als Moment der Qualität gesetzt , welche nun frei hervortritt. -Fichte bemerkt über die Stellung der Quantität vor der Qua litåt unter Underm folgendes : ,, wir müſſen den dialectischen Er weis, wie Quantitatives nur in qualitativer Bestimmtheit seine Wahrheit erhalte , für den wichtigsten und vorbedeutendsten in der gesammten Ontologie erklåren : er zieht sich eigentlich durch das Ganze hindurch und bildet den Fundamentalunterschied unserer Lehre von der Hegelschen , welche die Schärfe der positiven Unterschiede , die uns das Höhere , Wahrhaftere enthalten , überall zum bloß Formellen dialektischer Momente herabzusetzen trachtet.” (S. 81 ) Es ist fürerst bekannt , daß Hegel ebenfalls die Quan titåt sich in die Qualität aufheben läßt, und daß er damit eben den Beweis führt, daß Quantitatives nur in qualitativer Des stimmtheit seine Wahrheit enthalte.
+
+Hegel bemerkt aber zugleich :
+
+,,daß die Totalität gesetzt sey , dazu gehört der doppelte Uebergang , nicht nur der einen Bestimmtheit in ihre andere , sondern ebenso der Uebergang dieser andern , ihr Rückgang , in die erste.
+
+Durch den ersten ist nur erst an sich die Identität beider vorhanden ; -die Qualität ist in der Quantität enthalten, die aber damit noch eine einseitige Bestimmtheit ist. Daß diese umgekehrt ebenso in der ersten enthalten , ſie ebenso nur als auf gehobene ist, ergiebt sich im zweiten Uebergange , - der Rückkehr in das erste ; diese Bemerkung über die Nothwendigkeit des doppelten Uebergangs ist von großer Wichtigkeit für das Ganze der wiſſenſchaftlichen Methode. " ( Log. I. S. 392 )
+
+Es fållt sogleich in die Augen , daß bei Fichte die Qualität durchaus nicht die Synthese der vorangehenden Stufen ist , wie sie doch seyn soll, nåmlich der sogenannten Urkategorien und der Quantitåt ; weder die Bestimmtheit, die gar keine ist, noch die quantitative Bestimmt: heit ist in der Qualität enthalten.
+
+Die Quantität ist die auf [p. 352] gehobene Bestimmtheit , und zwar die aufgehobene qualitative Bestimmtheit ; nicht die Negation der Urkategorien , oder der Bestimmtheit, die gar keine ist. Wie in der Negation dieser Bestimmt heit gar keine Bedeutung liegt, weil vorher nichts gesetzt war, was aufgehoben werden könnte , so wird denn auch die Quantität gar nicht als die Negation jener Urkategorien , ſondern vielmehr als Negation der qualitativen Bestimmtheit behandelt.
+
+nun aber vorher an der qualitativen Bestimmtheit gar nicht nachgewiesen ist, daß ſie ſich aufhebe , so wird sogleich die Vor stellung eines Inhalts hinzugenommen , welcher von der Quantität nicht bestimmt , sondern gegen welchen die quantitative Bestimmtheit nur eine formelle äußerliche ſeyn soll.
+
+Dieser
+
+Inhalt , dieses Was ist weiter nichts , als die der Quantitåt nothwendig vorausgehende Qualität. Indem nun aber die quantitative Bestimmtheit gegen den Inhalt äußerlich seyn soll, treten wir damit sogleich in eine ganz concrete Begriffsstufe ; nämlich an die Stelle des Seyns tritt das Haben , und wir sind unmittelbar aus der Sphäre des Seyns in die des Wesens verseht : das Seyn ist nicht qualitative , quantitative Bestimmt heit , sondern der Inhalt hat diese an sich.
+
+Die Quantitåt verhält sich nun aber gleichgültig gegen den Inhalt ; diese Gleich. gültigkeit gegen den Inhalt verwandelt sich ohne Weiteres in das Nichtbestimmen des beſtimmtſeynſollenden Inhalts , und dieß weiter in das Nichtbestimmen des bestimmtseyenden Inhalts.
+
+Dadurch nämlich geht das Maaß in die Maaßbeſtimmtheit über, daß wenn jenes gleichgültig ist gegen den Inhalt , dieſer doch ein bestimmter ist , so daß das Maaß eben darum nicht beliebig mehr vermehrt werden kann , sondern sogleich eine uns mittelbare Einheit der Qualität und Quantität eintritt. schon vorher diejenige Bestimmtheit , deren Aufhebung die Quantität ist , nicht als sich selbst aufhebend nachgewieſen wurde, so wird denn auch durchaus nicht gezeigt , wie die
+
+Negation der unmittelbaren Bestimmtheit, nämlich die Quantitåt, ihre eigene Negation an sich selbst hat, und daher das Sehen ihrer selbst zugleich ihre eigene Negation ist, sondern der Uebergang aus der Quantitåt in die Qualität ist hier einfach dieser: Die Quantität bestimmt den Inhalt nicht , er soll aber bestimmt seyn ;
+
+daß er bestimmt seyn müsse , haben wir an genommen, indem wir die Quantitåt als eine nur formelle Bestimmtheit bezeichneten. Reflectiren wir hierauf, so bekommen wir sogleich die Einheit der Quantitåt und Qualität , indem nämlich die Quantitåt nothwendig , wenn sie ist, an einem Wie weit dieser Uebergang bestimmten Inhalte ſeyn muß. von einem dialektischen entfernt ist, so wird denn auch der Be griffszusammenhang ganz und gar verschoben. Zunächſt geſchieht gerade das , was Fichte dem Hegel vorwirft , daß nåmlich das Abstractere als die Wahrheit des Concreteren dargestellt wird. Denn die Qualität entwickelt ſich aus der Einheit der Qualität und Quantitåt, wogegen die Qualitåt selbst nur qualitative Bestimmtheit ist.
+
+Mit demselben Rechte und auf dieselbe Weise aber könnte aus dieser Einheit auch der Uebergang in die Quan titåt gemacht werden.
+
+Das specifische Quantum ist Einheit der
+
+Qualität und Quantitåt , und durch die quantitative Veränderung wird daher der Inhalt zu einem qualitativ anderen.
+
+nun Fichte sagt, daß damit die Quantität ihre Selbſtſtändigkeit verloren, und zum Moment geworden sey, so kann eben so auch gesagt werden , daß die Qualität in dieser Einheit keine Selbst ständigkeit habe ; die qualitative Veränderung ist eben so sehr auch eine quantitative , damit ist die Qualität nur ein Moment, Wegen und die Quantitåt tritt als selbstständig hervor. der Umkehrung begriffsmåßigen
+
+Ordnung kommt es in der ganzen Entwickelung der Quantität zu keiner Klarheit und Bestimmtheit.
+
+Der Fortgang geſchieht nicht an der Quan titát felbst , sondern ist ein fortwährendes Abwechseln - zwischen [p. 354] den Gedanken: es ist ein bestimmter Inhalt , und es ist auch keiner; bald wird darauf reflectirt , daß die Quantitåt einen beſtimmten Inhalt voraussetzt , an welchem sie ist , bald darauf, daß sie selbst den Inhalt nicht bestimmt , und so wechseln die Bestimmungen des. Seyns mit Bestimmungen des Weſens , und die Einheit der Qualität und Quantität ist auch wieder keine Einheit , sondern bloße Quantität.
+
+So ist denn die letzte Bestimmung der speci fischen Quantität nicht verſchieden , wesentlich von der Maaßbeſtimmtheit und aus dieser könnte auf dieselbe Weise in die
+
+Qualität übergegangen werden , als aus jener. Aus der Entwickelung der Qualität heben wir hier nur einen Punkt hervor , welchen Fichte selbst als ganz besonders wichtig bezeichnet.
+
+In Bezug auf die Darstellung Hegels über das Verhältniß des Endlichen und Unendlichen wird nåmlich bemerkt : „ Das Endliche , zunächst die Negation des Unendlichen, wird nach dieser Lehre vom Lehtern , als der Negation der
+
+Negation oder dem unendlich übergreifenden Proceſſe , nur in sich zurückgenommen , so daß es selbst und allein , als die unendlich sich behauptende „ Subjectivitåt " stehen bleibt , das Endliche aber als das Vergehende , am Selbstwiderspruch Dahin schwindende , nur den Stoff jenes ewigen Verbrennungsproceſſes hergiebt. Aber dabei wird gänzlich verabsäumt die andere , poſitive Seite vom Begriffe des Endlichen - ein Moment , der nicht weniger in der Dialektik des Endlichen und Unendlichen liegt, wodurch jenes selbst zugleich auch ein Unendliches wird , eine reale Urpoſition im Abſolüten. Und dieß zunächſt nur dialektiſche Verſåuniniß ist es, was, conſequent durchgesetzt, zum ungeheuren Gebrechen in der Hegelschen Lehre ausschlagen mußte.“ (S. 196.) Zunächst wäre zu bemerken , daß die Qualität überhaupt noch eine sehr abstracte Begriffsstufe ist , und daß hier daher das Verhältniß des Endlichen zum Unendlich vollständig unmöglich entwickelt werden kann. Allein schon hier ist es ganz und gar
+
+[p. 355] P unwahr , daß Hegel in der Auflösung des Gegenſakes des Endlichen und Unendlichen das Endliche nur verschwinden laſſe. Es gåbe dieß sogleich wieder eine abstracte unterschiedslose Ein heit , gegen welche Hegel nicht bloß hier , sondern in der Ent wickelung jedes Begriffs sich doch wohl deutlich und bestimmt genug erklärt.
+
+Das Unendliche, in welchem das Endliche nur verschwände , wäre ja sogleich wieder nur die eine Seite des Gegensates , denn es hätte das Endliche nicht in sich aufbewahrt, sondern nur außer sich. Die Bedeutung des Momentes ist doch bekanntlich nie die , daß dasselbe ein nur verschwindendes sey.
+
+Hegel bemerkt ausdrücklich : ,, Es kommt darauf an, ob in der Ansicht beim Seyn der Endlichkeit verharrt wird, die Vergänglichkeit bestehen bleibt, oder ob die Bergång lichkeit und das Vergehen vergeht ? Daß dieß aber nicht geschieht , ist das Factum eben in derjenigen Ansicht des End lichen , welche das Vergehen zum Letzten des Endlichen macht." (Logik Bd 1. S. 139.)
+
+" Auf gleiche Weise , wie die einfache, so wird vom Verſtande auch die gedoppelte Einheit des Unendlichen und Endlichen verfälscht.
+
+Dieß geschieht hier eben so dadurch , daß in der einen der beiden Einheiten das Unendliche als nicht negirtes , vielmehr als das Un - sich - ſeyn genommen wird , an welches also nicht die Bestimmtheit und Schranke gesezt werden soll , es werde dadurch das Ansichſeyn herabgesezt und verdorben.“ (S. 158.)
+
+Hier aber ist zunächst nur von der qualitativen Unendlichkeit die Rede , noch nicht von der Unendlichkeit des Wesens , und noch nicht von der Unendlichkeit des Begriffs.
+
+Durch alle Gestaltungen des
+
+Verhältnisses des Endlichen zum Unendlichen hindurch aber ist nie und nirgends das Endliche ein nur Verschwindendes .
+
+der Sphäre des Wesens ist das Unendliche die Substanz, und hier knüpft sich an den "1 Begriff der Wechselwirkung der Uebergang in den Begriff an.
+
+Dieser Uebergang ist zu [p. 356] gleich wieder die Widerlegung des Standpunktes , nach welchem das Endliche im Unendlichen nur verschwindet ; in dem Verhältniß der Wechselwirkung verdoppelt sich die Substanz , und in dem Begriffe ist jedes Moment zugleich auch das Ganze. „ Die Wahrheit der Nothwendigkeit ist somit die Freiheit , und die Wahrheit der Sübstanz ist der Begriff, die Selbstständig= keit, welche das sich von sich Abstoßen in unterschiedene Selbstständige , als dieß Abstoßen identisch mit sich , diese bei sich selbst bleibende Wechselwirkung nur mit sich ist.“ (Encykl . §. 158.) Jener Vorwurf Fichte's gegen Hegel ist so unge gründet, daß geradezu nicht die abstracte , sondern absolut concrete Auflöſung und Einheit der Gegenſåhe als das innerſte Wesen der Hegelschen Philosophie bezeichnet werden muß ; und gerade dadurch, daß Hegel jenes dialektische Versäumniß nie begeht, gelangt er zum Begriff der absolut concreten Sub jectivitåt. Unter der realen Urpoſition des Endlichen im Abſoluten versteht nun aber Fichte die feste und sich auf alles Andere be ziehende, aber zugleich gegen alles Undere ſich unendlich erhaltende qualitative Bestimmtheit.
+
+Auch dieß Moment findet sich bei
+
+Hegel in der Kategorie des Fürsichseyns , und des Einen und Bielen , und dann weiter ergiebt sich im Wesen das Ding als aus selbstständigen Materien bestehend.
+
+Fichte aber springt auch hier wieder aus der Sphäre des Seyns in die des Wesens über , indem er von einem absolut Beharrenden in dem Wechsel der Beschaffenheiten spricht.
+
+Die qualitativen Etwas ſind érſt einfache Bestimmtheiten , haben aber noch nicht die Beſchaffen heiten als ein Anderes an sich.
+
+Wenn aber diese Urpositionen als die wahrhafte poſitive Endlichkeit bezeichnet werden , indem sie in ihrem Beharren das Moment der Unendlichkeit an ſich selbst haben (§. 114) , so kann es keine schlechtere Unendlichkeit des Endlichen geben.
+
+Hier nämlich wird das Seyn in seiner
+
+ſtarren Unmittelbarkeit der Vermittelung gegenüber als [p. 357] unendlich betrachtet, und soll nicht als aufgehobenes, sondern als seyendes absolut wirklich seyn. Dadurch wird die seyende Materie zur undurchdringlichen Wirklichkeit erhoben , wogegen sogleich das Ding und weiter der Organismus , die Seele diese Urpositionen zum Momente herabseßt. Der Uebergang aus dem Seyn ins Wesen kann ebenfalls kein dialektischer genannt werden.
+
+Indem nåmlich schon von dem qualitativ Unendlichen gesagt wurde , daß es das Endliche sebe , ja schaffe ( §. 112. §. 118) , so braucht der Begriff des qualitativ Unendlichen nur von einer andern Seite aufge= faßt und aufgenommen zu werden , so tritt die Sphäre des Verhältnisses und somit des Wesens ein.
+
+Bisher hatten wir nur mit einfachen Begriffen zu thun , welche in einander über gingen , und immer mehr sich vertiefend einander ablösten ; es waren auch hier Gegenſåße und Vermittelungen , mithin Verhältnisse der Begriffe zu einander , aber alle nur von der Art daß sie neben einander traten.
+
+Hier dagegen verdoppelt sich zum ersten Male der aufgestellte Begriff in sich selber ; er ist ein höheres , befaſſendes , und ein niederes , befaßtes Glied, welches lettere ſeinerseits selbst wiederum zwei- oder mehrgliederig werden kann , ohne daß das wesentlich Neue , die innere
+
+Duplicitat des Begriffsverhältnisses dadurch verändert würde. Das Endliche ist nur in dem Unendlichen , als der dasselbe sehenden und beherrschenden Macht : das Unendliche , Daſſelbe und in ſich bleibend, urbeſtimmt ſich zum Endlichen ; was ſelbſt das Ur- oder absolute Verhältniß genannt werden dürfte, indem , welche Verhältnisse wir auch im Folgenden aufzustellen haben , ſie ſich immer nur als die Entwickelung jenes ersten und urſprünglichen zeigen werden, auf welches hinzuführen, Aufgabe und Resultat des ganzen ersten Theils war." (§. 119.)
+
+Diesen
+
+Uebergang trifft ganz die Bemerkung Hegels : ,, In den verschie denen Kreiſen der Bestimmung und besonders im Fortgange [p. 358] der Exposition , oder nåher im Fortgange des Begriffs zu seiner Exposition ist es eine Hauptsache , dieß immer wohl zu unter scheiden , was noch an sich und was gesett ist , wie die Bestimmungen als im Begriffe und wie sie als gesezt oder als ſeyend - für - Underes sind .
+
+Es ist dieß ein Unterschied , der nur der dialektischen Entwickelung angehört , den das metaphysische Philosophiren , worunter auch das kritische gehört , nicht kennt.“ (Log. I. S. 128.)
+
+Einfach kann schlechterdings kein Begriff in dem Sinne genannt werden , daß er nur neben einem andern ein Mannigfaltiges ist, sondern jeder Begtiff ist schon in sich selbst ein Verschiedenes.
+
+So ist denn Fichte selbst durch die ganze Entwickelung des Seyns zur Synthese fortgegangen, welche doch offenbar in sich selbst eine Duplicitåt ist. das Unendliche im Verhältniß zum Endlichen
+
+Daß hier ohne Weiteres als das Wesen , und das Endliche , welches vorher Urpofition war, als Schein bestimmt wird , ist eine rein äußerliche und subjective Reflexion ; denn am Unendlichen oder vielmehr am Seyn selbst hat es sich nicht erwiesen , daß die Unmittelbarkeit überhaupt ihre eigene Negativität und damit die Vermittelung die Wahrheit der Unmittelbarkeit ist.
+
+Druckfehler. S. 151 3. 12 v. u. st. es l. das zweite. S. 176 3. 11 v. o. ſt. I. H. Fichte l. I. G. Fichte.
+
+Faysia Stampablock NUMMER
+
+;

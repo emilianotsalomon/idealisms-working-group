@@ -1,0 +1,3180 @@
+---
+title: Darstellung und Kritik der Philosophie Ludwig Feuerbach's
+author: Julius Schaller
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: a scan of an old print (library or Google Books digitization; the imprint is not recorded in the library); converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: the PDF text layer of a scan, not corrected against the scan; non-word rate 0.8% (wordfreq, the edition's own spellings kept); paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority
+translation: none
+canonical: "[p. N] marks where printed page N begins (a scan of an old print (library or Google Books digitization; the imprint is not recorded in the library)); read from the PDF folios where legible, the others by sequence"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: The Darstellung und Kritik der Philosophie Ludwig Feuerbach's was written by an author who died in 1885, so before 1931; Julius Schaller (d. 1885) is long out of protection and the edition (a library or Google Books digitization of an old print, no copyright page) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 2432)
+---
+
+# J. Schaller, *Darstellung und Kritik der Philosophie Ludwig Feuerbach's*
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+Ph . U.
+
+d
+
+Ph.1
+
+1. до
+
+Mich
+
+Sc ha ll er , ul
+
++
+
+E
+
++ E
+
+<36623656610016 S <36623656610016
+
+Bayer. Staatsbibliothek
+
+Darstellung und
+
+Kritik
+
+Philosophie
+
+Ludwig
+
+Feuerbach's.
+
+Bon
+
+Dr.
+
+Julius
+
+Schaller, außerordentlichem Professor der Philosophie an der Universität Halle.
+
+THB
+
+Leipzig. Verlag der 3. C. Hinrichs schen Buchhandlung.
+
+1 8 4 7.
+
+318.
+
+BIBLIOTHECA REGIA MONACENSIS.
+
+Beverlooks atsbibliothek MÜNCHEN
+
+## Vorrede.
+
+Als ich einem Freunde meinen Entschluß mittheilte , eine Kritik L. Feuerbachs zu schreiben , erwiderte er mir : wenn Du nicht für Feuerbach schreiben kannst, so schreibe auch nicht über ihn; so einseitig Feuerbach auch sein mag , er ist für jezt nicht zu bekämpfen , damit ſein ſegensreicher Einfluß nicht Eben dies Bedenken war vor der Zeit gehemmt werde. es , was mich mehrere Jahre hindurch von einer Kritik Feuer bachs zurückhielt. Ist es nicht Engherzigkeit , nicht schulmeiſter liche Bornirtheit , in dem Kampfe , den Feuerbach mit der Unfreiheit im Glauben und im Wissen führt , nicht eine handvoll Einseitigkeiten , Uebertreibungen übersehen zu können , welche in der Hiße des Streits mit unterlaufen ? Nicht übersehen zu können , daß Feuerbach es mit den logischen Kategorien so genau nicht nimmt , weil er , um in das Herz der Feinde einzubringen, ganz anderer Waffen bedarf, als die Rüstkammer der abstracten, pointenlosen , d. h . stumpfen Gedanken ihm bietet? Kann die Wissenschaft überhaupt in anderer Weise in die Praxis des Lebens übergehen, als wenn sie von der Form der Dialektik abläßt , sich in die Form der Anschauung , Vor stellung kleidet , damit aber auch die Einseitigkeit auf sich nimmt , in welcher diese Formen den Inhalt aussprechen ? Ist es nicht widersinnig , von Demjenigen , welcher sich die Verbreitung der Philosophie in das allgemeine Bewußtsein zur Auf gabe gestellt , eine strenge wissenschaftliche Form zu fordern ? zu fordern , daß er beweise , die Gegensätze dialektisch vermittele ? -
+
+Gewiß hat man ein Recht , in der Beurtheilung Feuer bachs diese Momente geltend zu machen. Allein mit der Zeit haben sich Feuerbachs Ansichten zu einer principiellen / Einseitigkeit consolidirt. Es handelt sich nicht mehr darum , dieſe oder jene einseitige Aeußerung zu übersehen , weil sie bei einer anderen Gelegenheit durch die entgegengesezte Behauptung compenſirt wird , sondern Feuerbach stellt der bisherigen
+
+[p. 2] IN
+
+Entwickelung der Philosophie ,, eine neue Philosophie gegen über , welche , um dem Bedürfniß der Menschheit und Zukunft zu entsprechen , toto genere von der früheren Philoſophie unterschieden sein soll " ―――― welche aber an die Stelle der be Fämpften unfreien Richtungen der Gegenwart entschieden eine andere Unfreiheit ſeßt. Allerdings ist zu kämpfen gegen den Scholafticismus in der Philoſophie, gegen die ſcholaſtiſche Vermischung der Philosophie mit dem Glauben — allein indem Feuerbach ausdrücklich die specifische Form der Philosophie und ihren Unterschied von. dem allgemeinen gebildeten Bewußtsein aufhebt , die Philosophie mit der Nichtphiloſophie identificirt , ſo ſtellt er an die Stelle der bekämpften Scholaſtik eine andere Scholaſtik, an die Stelle der Philoſophie eine Dogmatik, welche von der theologi. schen supranaturalistischen Dogmatik nur äußerlich, zufällig, nicht wesentlich , nicht im Princip verschieden ist. — Allerdings ist zu kämpfen gegen den Versuch , die antiquirten Formen des Glaubens aller freien Entwickelung zum Troß als absolute Norm zu firiren , allein wie Feuerbach in den religiösen Vorstellungen nur eine principlose Vermischung allgemeiner und egoistischer Interessen findet , so ist die freie Religion , in welche er den bisherigen Glauben auflöst , ein ähnliches prin ciploses Gemisch , nicht wirklich der innere Proceß der sittlichen Freiheit. ― Allerdings ist endlich zu kämpfen gegen das sich vom praktiſchen Leben iſolirende Denken , gegen die theoretische Genügsamkeit und Faulheit des Geistes , in welcher er die Wahrheit weiß, aber sie nicht will ―――― allein indem Feuer bach der Philosophie unmittelbar einen praktischen Zweck giebt , so nimmt er ihr damit den Idealismus , das wesentliche Princip der freien geistigen Praxis .
+
+Halle, im März 1847. Der Verfasser.
+
+Wir haben uns nicht die Aufgabe gestellt , ein vollständiges Bild von Feuerbachs literarischer Thätigkeit zu entwerfen ; wir wollen vielmehr die Philosophie Feuerbachs kennen lernen .
+
+Wir haben es also mit dem Feuerbach zu thun , welcher sich nicht innerhalb der frühern , besonders der Hegels schen Philosophie , bewegt , sondern dieser selbstständig , pro ductiv gegenübertritt. Feuerbachs erste bedeutende Schrift :
+
+Geschichte der neuern Philosophie von Bacon von Verulam bis Benedict Spinoza , ( 1833) , bewegt sich entschieden innerhalb der Principien der Hegelschen Philoſophie.
+
+Einleitung entwickelt den wesentlichen Unterschied des Heiden thums vom Christenthume , und des Katholicismus vom Protestantismus.
+
+Wenn im Heidenthume der Geiſt in verſchiedene
+
+Volksgeister zerfällt , so erfaßt sich im Christenthume der Geist in seiner wesentlichen Allgemeinheit , er tritt in seiner Unendlichkeit in Existenz. Der Katholicismus iſt die erste , negativz religiöse Darstellung des christlichen Principes.
+
+In ihm stellt
+
+ſich der Geist als das Göttliche dem Weltlichen , als das Ueberfinnliche dem Sinnlichen und Fleischlichen feindlich gegenüber; die Folge dieser antikosmischen Tendenz war es , daß Kunst , concretes sittliches Leben , Wissenschaft in der ab stracten Religiosität unterging .
+
+Im Protestantismus erwachen alle besondern Sphären des Geistes zu neuer Selbstständigkeit ; sie protestiren gegen ihre Unterdrückung unter die Neligion. Der Zweifel, die absolute Freiheit des Denkens , wie sie zu nächst in der Cartesischen Philosophie hervortrat , ist eine besondere Erscheinung dieses allgemeinen Protestantismus. In dem zweiten Theile der Geschichte der neueren Philosophie : Darstellung , Entwickelung und Kritik der Leibnizischen Philosophie ( 1837 )
+
+treten zu erst mit Entschiedenheit die Anfäße von Feuerbachs spätern philosophischen Principien hervor.
+
+Und zwar treten sie her vor in der Polemik gegen die moderne Scholastik, welche - ähnlich wie Leibniz in seiner Theodicee Philosophie und Glauben zu versöhnen strebt , oder vielmehr beide mit einander vermengt.
+
+" Eine solche Versöhnung oder vielmehr
+
+Confusion giebt wohl einen Schein von Tiefe , nichts weiter als einen Schein.
+
+aber auch
+
+Sie ist das wahre Geistes verderben , und daher auch nur das Product jener amphi bolischen Zwitter- und Dämmerköpfe , die keine Gattung , fein sidos in sich selbst zu vertiefen , in seiner Selbstheit , Inte ´grität und Einheit mit sich zu erfassen und festzuhalten ver mögen , sondern die heterogensten Substanzen in einander
+
+`ſchmieren , und diese Schmiere der leichtgläubigen Menge dann als erquickliche, herzstärkende Lebenseffenz feilbieten , jener un seligen Halb- und Dreiviertelsphilosophen , denen das erhabene omnia mea mecum porto der Philosophie zu hart und abstract in die Ohren klingt , und die daher mit vollen Säcken , mit allen Commoditäten und Victualien des praktischen Stand punktes bepackt , den metaphysischen Standpunkt beziehen , um ſich's hier wie zu Hauſe ſein zu lassen , sich so gemüthlich und gütlich zu thun , wie im Verkehr mit Vettern und Frau Basen. "
+
+Feuerbach macht dieser Scholastik gegenüber den fpecififchen
+
+Unterschied der Philosophie und
+
+Theologie , der Theorie und Praxis geltend.
+
+Philosophie betrachtet den Gegenstand rein an und für sich, die Theologie bezieht ihn unmittelbar und nur auf den Menschen ; eben darin besteht der praktische Standpunkt der Theologie.
+
+In der Praxis ist die Person , das Individuum die Haupt sache , in der Theorie dagegen das Object als solches , in seiner Beziehung auf sich selbst . Der dritte Theil der Geschichte der Philosophie : Pierre Bayle nach seinen für die Geschichte der Philosophie und Menschheit interessanten Momenten (1838) hat vorzugsweise die Tendenz , an Bayle's Reflexionen. den für den Protestantismus wesentlichen Gegensaz z wi schen Glaube und Vernunft weiter zu entwickeln. Protestantismus wird jezt nicht senschaft vindicirt ;
+
+Dem mehr die Freiheit der Wis vielmehr soll der Protestantismus den
+
+Menschen nur von seiner praktischen , nicht aber von seiner theoretischen , intelligenten Seite aus der katholischen Knechts schaft errettet haben . Innerhalb des Protestantismus hat daher ebenfalls die Wissenschaft als solche in allen ihren wesentlichen Verzweigungen kein anerkanntes Recht ; die Glaubens fäße gelten als absolute Autorität , allein sie sind nicht mehr der absolute Ausdruck der geistigen Innerlichkeit ; die freie , unbefangene Vernunft bricht unaufhaltſam hervor , hat aber noch nicht die Energie , den Glauben und seine niederdrückende Gewalt wirklich abzuschütteln.
+
+Eben dieser Kampf der Vernunft mit dem Glauben ist das Charakteriſtiſche im Protestantismus. Den Glauben zu beweisen , die Zweifel. gegen ihn ^ zu widerlegen , und zwar innerhalb der Sphäre des Glaubens selbst , alſo nicht in wahrhaft wissenschaftlicher Weise , sondern illusorisch , mit der Voraussetzung der Wahrheit des Glaubens ― ist die specifische Tendenz der Theologie. Die Wissenschaft als solche hat daher mit der Theologie keine Gemeinschaft.
+
+Das Princip der Philoſophie iſt die Vernunft, das Princip der Theologie der Wille , das Asylum ignorantiae, die Willkühr , und darum das Mirakel.
+
+Der Willkühr
+
+Gottes unterwirft die Theologie alle Erscheinungen der Natur wie des Geistes ; auch die sittlichen Verhältnisse gelten ihr 1* [p. 4] nicht als solche , sondern nur , weil sie Gebote des göttlichen Willens sind ; im Grunde hebt daher die Theologie die Sitt lichkeit auf. Wie verhält sich nun aber die Religion als ſolche zur Theologie und weiter zur Philosophie ? Der Werth der Religion hängt ab von dem bestimmten Inhalt derselben ; die Religion für sich , in ihrer specifischen Differenz von der Moral und Philoſophie ist daher noch nicht gut , heilig und göttlich ; sie ist es nur , wenn ihr Inhalt ein göttlicher ist. Die Religion als solche , abgesehen von ihrem Inhalte , in ihrem specifischen Unterschiede von Moral und Philosophie, namentlich aber die Religion , wie sie im Unterschiede von dem, was man sonst die natürliche oder Vernunftreligion nannte, eine positive Religion , ein förmlicher Gottesdienst , eine zu einer Kirche verweltlichte , durch gewisse Glaubens formeln begrenzte Religion ist , - steht also dem wahrhaft geistigen , freien Wiſſen und Wollen entſchieden feindlich gegen über.
+
+Der Katholicismus ist nichts Anderes , als der versinnlichte , augenscheinliche Widerspruch der positiven Religion mit dem , was die Religion an sich oder ihrem Inhalte nach sein soll und will. S ein Widerspruch , der zur Zeit der Reformation ſeinen Culminationspunkt erreicht hatte und daher nothwendig das religiöse Gemüth auf's tiefste erschüttern und gegen den Katholicismus empören mußte.
+
+Aus dieser Empörung ging der Protestantismus hervor , welcher daher von Hause aus eine geistigere Tendenz hatte , indem er die Religion zu dem machen3 wollte und theils wirklich machte , was sie ihrem Inhalte nach sein soll und will , zu einer innern Angelegenheit.
+
+Allein der Protestantismus machte doch wieder die Religion zu einer formellen , äußerlichen Sache , indem er diesen bestimmten , dogmatischen , diesen auf eine gewisse Summe von Artikeln beschränkten Glauben zur Hauptangele genheit erhob ; er fiel damit in den Katholicismus wieder zurück. -
+
+Das Dogma widerspricht nothwendig eben so [p. 5] sehr der Sittlichkeit als der Vernunft. nichts Anderes
+
+Das Dogma ist eben als eine Schranke des Geistes , und zwar eine willkührliche Schranke.
+
+Dogmen aufstellen , heißt den Geist beschränken ,
+
+Das Dogma ist nichts
+
+Anderes , borniren.
+
+als ein ausdrückliches Verbot zu denken .
+
+Dogma widerspricht daher an und für sich , abgesehen von dem Inhalte , der Vernunft ; denn es macht Lehren zu Pflichten, das Geistige zu einem äußern Zwangsobjecte.
+
+Das Dogma ist unredlich , ja hinterlistig , denn es macht Etwas , was an sich , feiner Natur nach , eine Sache des Denkens ist , zu einer Gewissens sa che;
+
+es besticht den Menschen , es greift ihn an seiner Persönlichkeit , an seiner schwachen Seite an , um damit seine Vernunft zu übertölpeln. selig , wer nicht , verflucht.
+
+Wer glaubt , ist
+
+Aber die Wahrheit ist uneigen nüßig ; sie wendet sich darum nicht an den Eigennuß im
+
+Menschen , sie erniedrigt sich nicht , wie die Leidenschaft zu einem Object der Furcht und Hoffnung , ſie verspricht und verflucht nicht , sie wendet sich frei an die freie , intereſſelose Intelligenz. Das Dogma widerspricht dem Begriffe und Wesen der Wahrheit.
+
+Kein Dogma als Dogma ist wahr.
+
+Kirche würde nur dann nicht der Vernunft und den Forderungen der Wissenschaft widersprechen , wenn sie so liberal wäre , den Zweifel an sich selbst und an ihren Dogmen zu gestatten , aber das wird sie wohl bleiben laſſen. Ueber das eigenthümliche Wesen der Religion und über den Fort gang dieser "1 innern Angelegenheit " zum Dogma erhalten wir keine nähere Bestimmung . Den specifischen Unterschied zwischen Philó sophie und Christenthum zu entwickeln , ist auch die wesentliche Tendenz der 1839 erschienenen Abhandlung : Ueber Philosophie und Christenthum in Bezie auf den der Hegelschen Philosophie ge hung machten Vorwurf der Unchristlichkeit. Feuerbach geht in dieser Abhandlung zuerst auf das Wesen der Religion zurück.
+
+Die Differenz zwischen Religion und Philoſophie soll eine unaustilgbare sein , weil sie beide auf entgegengeſeßten Geistesthätigkeiten beruhen.
+
+Die Basis der Philosophie nåm lich ist das Denken und das Herz .
+
+Die Basis der Religion das Gemüth und die Phantasie.
+
+Auf die hier zunächſt liegende Frage , wie es denn denkbar sei , daß in dem Menschen zwischen den verschiedenen Geistesthätigkeiten eine unaustilg bare Differenz bestehen könne , wird nicht weiter eingegangen ; vielmehr sogleich behauptet , daß die Philosophie keineswegs mit der Religion selbst in Collision komme, sondern nur mit der Theologie.
+
+Um nun das Widersinnige zu zeigen , welches in der Forderung liegt , die Philoſophie solle christlich sein , stellt Feuerbach zunächst die Philosophie mit den andern Wissenschaften zuſammen .
+
+Was würde aus einer christlichen
+
+Mathematik, Botanik, Zoologie werden ? d. h. , was würde aus diesen Wiſſenſchaften werden , wenn sie die Bibel zur Autorität machen , nichts weiter enthalten wollten als was in der Bibel steht ? Ferner aber : der Mensch ist wesentlich derselbe im Heidenthum wie im Christenthum ; wenn daher die Philoſophie im Allgemeinen das Wesen des Menschen zu erkennen hat , so wird sie von dem Unterschiede zwischen Hei denthum und Christenthum gar nicht weiter berührt.
+
+Zuleßt zeigt Feuerbach , wie der Vorwurf der Unchriftlichkeit , in der Gegenwart gegen die Wiſſenſchaft ausgesprochen , schon darum alle Bedeutung verliere , weil jezt das ganze geistige Leben und nicht minder der Glaube derer , welche auf ihre Christ lichkeit pochen , mit dem wirklichen , entschiedenen Chriſten thum , d. h. mit dem Christenthum , wie es sich in der Bibel und der kirchlichen Lehre darstelle , in offenbarem Wider spruch stehe. Die Polemik Feuerbachs gegen die scholastische Vermischung der Philosophie und Religion und die Entwickelung [p. 7] über das Wesen der Religion in ihrem Unterschiede von der Philosophie schließt sich ab in der Schrift : Ueber das Wesen des Christenthums ( 1841 , 2. Ausg . 1843 ) .
+
+Zu vergleichen sind mit dieser Schrift mehrere kleinere Ab handlungen , welche Feuerbach in dem ersten Bande seiner sämmtlichen Werke :
+
+Erläuterungen, und Ergänzungen zum
+
+Wesen des Christenthums ( 1846 ) zuſammengestellt hat. Von der Reform seiner philosophischen Ansichten gab Feuerbach zuerst eine Mittheilung in den hallischen Jahr büchern in dem Auffäße : Zur Kritik der Hegelschen Philosophie ( 1839 ) . der Vorwurf, der Beweis ,
+
+Vor Allem von Wichtigkeit ist welchen Hegel von der Idee führe , sei nur ein formeller , indem die Idee sich immer nur durch sich selbst , nicht durch ein wirklich Anderes vermittele. Wirklich bewiesen sei die Idee nur dann, wenn sie sich aus dem realen Gegensay , also aus der Sinnlichkeit , aus der Empirie erzeuge ; dieser reale Gegensatz bleibe aber in der Hegelschen Philosophie nur neben dem Denken liegen.
+
+Philosophie soll also herabsteigen zur Empirie , soll die empirische Thätigkeit auch als eine philosophische Thätigkeit an erkennen , soll anerkennen , daß auch das Sehen denken ist , auch die Sinneswerkzeuge Organe der Philosophie sind . Die weiteren Angaben hierüber ſind nun aber so unbestimmt, daß es durchaus unmöglich ist , auch nur einigermaßen eine Anschauung von dem zu erlangen , was hier von der Philoſophie gefordert wird.
+
+Die Phänomenologie Hegels soll dem geforderten empirischen Anfange der Philosophie auch nicht ent sprechen.
+
+Die Reflexionen aber , durch welche Feuerbach den
+
+Anfang der Phänomenologie , die Dialektik der sinnlichen Gewißheit als eine blos formelle nachzuweisen sucht , sind ent schieden nicht treffend.
+
+Der Beweis , daß nicht das Einzelne, sondern das Allgemeine das Wirkliche sey , soll bei Hegel nur darauf beruhen , daß die Sprache das Einzelne gar nicht aus zusprechen vermöge.
+
+Dies ist aber bei Hegel nur eine bei läufige Bemerkung.
+
+Die Dialektik der sinnlichen Gewißheit besteht vielmehr darin , daß dem Einzelnen unmittelbar ein anderes Einzelnes gegenübertritt, und jedes die abſolute Wirklich keit des andern unmittelbar negirt.
+
+Damit soll aber auch nicht die absolute Unwirklichkeit des Einzelnen bewieſen ſein ; vielmehr geht die sinnliche Gewißheit zunächst in die Wahrnehmung über, welcher das Ding mit seinen Eigenschaften als das Wirkliche gilt.
+
+Nach den Forderungen , welche Feuerbach an die Philosophie stellt , hätte er aber viel mehr auf spätere Partieen der Phänomenologie reflectiren müssen , besonders auf den Abſchnitt über die beobachtende Vernunft ; erst diese , nicht die sinnliche Gewißheit , ist Empirie. Am vollständigsten entwickelt Feuerbach die Principien seiner Philosophie in der Schrift :
+
+Grundsäße der Philosophie der Zukunft ( 1843 ) .
+
+Eben an diese Schrift haben wir uns denn auch in unsrer Darstellung und Kritik vorzugsweise zu halten. Nicht blos die Philosophen , sondern das allgemeine Bewußtsein über das eigentliche Wesen der Religion aufzuklären, und der Kampf gegen das bornirte Festhalten des kirchlichen Glaubens , welcher dem gegenwärtigen Geiste fremd geworden ist - ist das wesentliche Interesse Feuerbachs . Die Kritik des religiösen Glaubens ist es denn auch , an welcher Feuer bachs eigenthümliche philosophische Ansicht sich entwickelt. Wie aber Feuerbach selbst durch seine kritischen Unterſuchungen auf eine philosophische Reform zurückgetrieben wurde , so ist es denn auchschlechthin unmöglich, eine klare , gründliche , beſtimmte Einsicht in Feuerbachs religions - philoſophiſche Schriften zu gewinnen , ohne auf deſſen allgemeine philoſophiſche Principien zurückzugehen.
+
+Auch wir beginnen daher unsere Betrachtung mit der Darstellung dieser Principien.
+
+## I.
+
+## Principien der Philosophic.
+
+Die wesentliche Aufgabe der neuern Zeit ist nach Feuerbach die Verwirklichung und Vermenschlichung Gottes ; die Ver wandlung und Auflösung der Theologie in die Anthropologie.
+
+Auch die speculative Philoſophie hat in der Lösung dieser Aufgabe ihr wesentliches Interesse ; das Wesen der speculativen Philoſophie nämlich iſt das rationaliſirte , reali sitte , vergegenwärtigte Wesen Gottes. Goit als Gott ·-- als geistiges oder abstractes , d, i. , nicht menſchliches , nicht ſinn liches , nur der Vernunft oder Intelligenz zugängliches und gegenständliches Wesen ist nichts Andres als das Wesen der Vernunft selbst , welches aber von der gemeinen Theologie oder vom Theismus vermittelst der Einbildungskraft als ein von der Vernunft unterschiedenes , ſelbſtſtändiges Weſen vor gestellt wird.
+
+Es ist daher eine innere , eine heilige Noth wendigkeit, daß das von der Vernunft unterschiedene Wesen der Vernunft endlich mit der Vernunft identificirt , das gött l liche Wesen also als das Wesen der Vernunft erkannt , ver wirklicht und vergegenwärtigt werde.
+
+Auf dieser Nothwen digkeit beruht die hohe geschichtliche Bedeutung der ſpeculativen Philosophie * ). Bisher hat aber die speculative Philosophie jene ihre wesentliche Aufgabe nur in sehr abstracter Weise gelöst.
+
+Sie hat nämlich das von der Sinnlichkeit , der Welt , dem Menſchen abgesonderte und unterschiedene göttliche Wesen nur im Den fen, in der Vernunft verwirklicht , und zwar einer gleich falls von der Sinnlichkeit , der Welt , dem Menschen abge sonderten und unterschiedenen Vernunft , d . h. , die neuere 臂 Philosophie hat nur die Gottheit des Verstandes bewiesen ,
+
+*) Grundfäße der Philosophie der Zukunft. Såmmtl. Werke. Bd. 2. 6. 269 ff. § . 1 , §. 5 , §. 6.
+
+[p. 10] nur den , und zwar abstracten Verstand als das göttliche , das absolute Wesen erkannt.
+
+Dieſe abſtracte Gestalt der neuern
+
+Philoſophie rührt wesentlich daher , daß sie von der Theologie ausgegangen ist und von dem Zusammenhange mit dieser sich Die Sinne , sagt Cartesius, geben keine wahre Realität , kein Wesen , keine Gewißheit --noch nicht vollkommen befreit hat.
+
+nur der von den Sinnen abgezogene Verstand giebt Wahrheit. Woher dieser Zwiespalt zwischen dem Verstande und den Sinnen ? Nur aus der Theologie kommt er. Gott ist kein sinnliches Wesen , er ist vielmehr die Negation aller Bestimmungen der Sinnlichkeit , wird nur erkannt durch die Abstraction von derselben ; aber er ist Gott, d . h . , das allerwahrste , allerrealste , allergewisseste Wesen. Wahrheit in die Sinne kommen borne Atheisten sind ?
+
+Woher soll die in die Sinne , die ge
+
+Gott ist das Wesen , bei dem sich die
+
+Existenz nicht vom Wesen , vom Begriffe absondern läßt , das gar nicht andere denn als seiend gedacht werden kann . Cartesius verwandelt dieſes objective Wesen in ein ſubjec tives , den ontologischen Beweis in einen psychologischen , das cogitatur Deus , ergo est in cogito , ergo sum.
+
+Wie sich in
+
+Gott nicht das Sein vom Gedachtwerden , so läßt sich in nicht vom Denken mir - als Geist , der aber mein Wesen das Sein absondern , und wie dort , so constituirt auch hier diese Unzertrennlichkeit das Wesen . Ein Wesen , das nur gleichviel , ob an sich, oder für mich - als gedach ist tes, als Gegenstand der Abstraction von aller Sinnlichkeit, realiſirt und versubjectivirt sich nothwendig auch nur in einem Wesen , das nur ist als denkendes , deſſen Wesenheit nur das abstracte Denken * ). Die Vollendung der neueren Philosophie ist die Hegel sche Philosophie.
+
+Was daher die Philoſophie in der Gegen wart zu thun hat , ihre specifische Tendenz , erhellt in ihrer *) Ebendaselbst §. 18.
+
+[p. 11] historischen Nothwendigkeit vor Allem aus der wesentlichen Einseitigkeit der Hegelschen Philosophie.
+
+Der Widerspruch der neueren Philosophie , insbesondere des Pantheismus , daß er die Negation der Theologie auf dem Stand punkte der Theologie oder die Negation der Theologie ist , welche selbst wieder Theologie , dieſer Widerspruch charakterisirt insbesondere die Hegelsche Philosophie.
+
+Das immaterielle Wesen , das Wesen , wie es pures Verstandes object , reines Verstandeswesen, ist der neueren Philosophie , so auch der Hegelschen , allein das wahre , das absolute Wesen -Gott.
+
+Selbst die Materie , die Spinoza zum Attribut der göttlichen Substanz macht , ist ein metaphy fisches Ding , ein pures Verstandeswesen , denn die wesentliche Bestimmung der Materie , im Unterschiede von dem Ver stande der Denkthätigkeit , die
+
+Bestimmung , ein leidendes
+
+Wesen zu sein , ist ihr genommen.
+
+Aber Hegel unterscheidet sich von der früheren Philosophie dadurch , daß er das Verhältniß des materiellen , sinnlichen Wesens zum immateriellen anders beſtimmt.
+
+Die früheren Philosophen und Theologen dachten das wahre , das göttliche Wesen als ein von Natur, per se von der Sinnlichkeit oder Materie abgelöstes , befreites Wesen ; nur in sich selbst verlegten sie die Mühe und Arbeit der Abstraction , des sich Freimachens vom Sinnlichen , um zu dem zu kommen , was an sich selber davon frei ist.
+
+In dieses
+
+Freisein seyten- sie die in dieſes
+
+Seligkeit des göttlichen , sich Freimachen die Tugend des menschlichen Wesens .
+
+Hegel dagegen machte dieſe ſubjective Thätigkeit zur Selbstthätigkeit des göttlichen Wesens.
+
+Gott selbst muß sich dieser Arbeit unterziehen , sich , wie die Heroen des Heidenthums , durch Tugend seine Gottheit erkämpfen.
+
+So nur wird die Freiheit des Absoluten von der Materie, die außerdem nur Voraus sezung, nur Vorstellung ist , That und Wahrheit.
+
+Aber diese
+
+Selbstbefreiung von der Materie kann nur in Gott gesezt [p. 12] werden , wenn zugleich die Materie in ihn gesezt wird. kann sie aber in ihn gesezt werden ? sie selbst sezt.
+
+Wie
+
+Nur dadurch , daß er
+
+Aber in Gott ist nur Gott.
+
+Also nur da, durch , daß er sich selbst als Materie , als Nicht- Gott , als sein Anderes seßt.
+
+Die Materie ist so kein dem Ich , dem
+
+Geiste auf eine unbegreifliche Weise vorausgeseßter Gegen faz : sie ist die Selbstent äußerung des Geistes .
+
+Damit bekommt die Materie selbst Geist und Verstand , sie ist auf genommen in das abſolute Weſen als ein Lebens - Bildungs und Entwickelungsmoment desselben ; zugleich ist sie aber doch wieder als ein nichtiges , unwahres Wesen gefeßt , in dem erst das aus dieser Entäußerung sich herstellende , d . h. die Materie , die Sinnlichkeit von sich abstreifende Wesen als das Wesen in seiner Vollendung , in seiner wahren Gestalt und Form ausgesprochen wird. Das Natürliche , Materielle, Sinnliche ― und zwar das Sinnliche nicht im gemeinen , moralischen , sondern metaphysischen Sinne ist also auch hier das zu Negirende , wie in der Theologie die durch die Erbsünde vergiftete Natur.
+
+Es wird zwar aufgenommen in die Vernunft, das Ich , den Geist , aber es ist das Un vernünftige in der Vernunft, das Nichtich im Ich , das Negative deſſelben , wie bei Schelling die Natur in Gott das Nicht- Göttliche in Gott , in ihm , außer ihm ist , wie in der Cartesischen Philosophie der Leib , wenn gleich mit mir , mit dem Geiste verbunden , dennoch außer mir ist , nicht zu mir , zu meinem Wesen gehört , und es daher gleich gültig ist , ob er mit mir verbunden ist oder nicht ist.
+
+Materie bleibt im Widerspruch mit dem von der Philosophie als wahres Wesen vorausgeseßten Wesen. — Materie wird zwar in Gott gefeßt , d . h . als Gott gefeßt , und die Materie als Gott setzen , ist so viel , als sagen: es ist kein Gott, also so viel als : die Theologie aufheben , die Wahrheit des Materialismus anerkennen.
+
+Aber zugleich ist [p. 13] doch die Wahrheit des Wesens der Theologie noch voraus gesezt.
+
+Der Atheismus , die Negation der Theologie wird daher wieder negirt , d. h . die Theologie durch die Philosophie wieder hergestellt.
+
+Gott ist Gott erst dadurch , daß er die Materie , die Negation Gottes überwindet , negirt.
+
+Und erst die Negation der Negation ist nach Hegel wahre Position. Am Ende sind wir daher wieder , wovon wir anfänglich aus ――― gegangen im Schooße der christlichen Theologie. So haben wir schon im obersten Princip der Hegelschen Philosophie das Princip und Reſultat ſeiner Religionsphiloſophie, daß die Philosophie die Dogmen der Theologie nicht aufhebe, ſondern nur aus der Negation des Rationalismus wieder her stelle, sie nur vermittele.
+
+Geheimniß der Hegelschen
+
+Dialektik ist zulezt nur dieses , daß er die Theologie durch die Philosophie und dann wieder die Philosophie durch die Theologie negirt.
+
+Anfang und Ende bildet die Theologie, in der Mitte steht die Philosophie , als die Negation der ersten Position, aber die Negation der Negation ist die Theologie. Erst wird Alles umgeworfen , aber dann wieder Alles feinen alten Platz gestellt , wie bei Cartesius .
+
+an
+
+Die Hegelsche
+
+Philosophie ist der leßte großartige Versuch , das verlorene , untergegangene Christenthum wieder herzustellen , und zwar dadurch, daß , wie überhaupt in der neueren Zeit , die Negation des Christenthums mit selbst identificirt wird.
+
+dem Christenthume
+
+Die vielgepriesene speculative
+
+Identität des Geistes und der Materie , des Unendlichen und Endlichen, des Göttlichen und Menschlichen , ist nichts weiter, als der unſelige Widerspruch der neueren Zeit - die Identität von Glaube und Unglaube , Theologie und Philosophie, Religion und Atheismus , Christenthum und Heidenthum auf seinem höchsten Gipfel , anf dem Gipfel der Metaphysik.
+
+Nur dadurch wird dieser Widerspruch bei Hegel den Augen ent rückt , verdunkelt , daß die Negation Gottes , der Atheismus, [p. 14] zu einer objectiven Bestimmung Gottes gemacht End Gott als ein Proceß, und als ein Moment dieses Processes der Atheismus bestimmt wird.
+
+Aber so wenig der aus dem Un glauben wieder hergestellte Glaube ein wahrer , weil stets mit seinem Gegensaße behafteter Glaube ist , so wenig ist der aus seiner Negation sich wieder herstellende Gott ein wahrer, vielmehr ein sich selbst widersprechender, ein atheistischer Gott *) . Die Hegelsche Philosophie ist absoluter , gleich theologischer Idealismus .
+
+aber zu
+
+Den Gegensatz zwiſchen
+
+Subject und Object , Wesen und Existenz , Denken und Sein, welchen die Kantische Philosophie festhielt , läßt sie als widers sprechend in sich fallen ; die Verstandesobjecte, die gedachten Dinge , sind daher nach ihr , wie sie die wahren sind , so auch die schlechthin wirklichen ; das Subject ist somit nicht mehr durch einen außer ihm existirenden , seinem Wesen widerſpre chenden Stoff beſchränkt , sondern vielmehr abſolut; es ist das Ich, welchem das Nichtich nicht mehr gegenüber steht , welches darum auch nicht mehr Ich heißt , sondern in populärer theo logischer Weise : Gott.
+
+Die Hegelsche Philoſophie hat so das Wesen des Ich außer das Ich gesezt, abgesondert vom Ich , als Subſtanz , als Gott vergegenständlicht , aber dadurch zugleich die Göttlichkeit des Ich ausgesprochen , daß ſte daſſelbe zu einem Attribut oder zur Form der göttlichen Substanz machte:
+
+das Bewußtsein des Menschen von Gott ist das
+
+Selbstbewußtsein Gottes .
+
+Das heißt : das Wesen gehört Gott an, das Wissen dem Menschen.
+
+Aber das Wesen Gottes ist bei Hegel in der That nichts Anderes , als das Wesen des Denkens oder das Denken , abstrahirt von dem Ich, dem Denkenden. 攀 Die Hegelsche Philosophie hat das Denken, als das subjective Wesen , aber gedacht ohne Subject, also als ein von demselben unterschiedenes Wesen vorgestellt , zum göttlichen absoluten Wesen gemacht. * ) Ebend . §. 21,
+
+[p. 15] Das Geheimniß der ,, absoluten " Philosophie ist daher das Geheimniß der Theologie.
+
+Wie diese die Bestimmungen des
+
+Menschen dadurch zu göttlichen Bestimmungen macht , daß sie denselben der Bestimmtheit beraubt , in welcher sie sind , was ſie ſind , gerade so macht es auch die abſolute Philoſophie. So sind z . B. nach Hegel der Begriff, das Urtheil ,
+
+Schluß , ja selbst die einzelnen Schluß- und Urtheilsformen , wie das problematische , affertorische Urtheil nicht Begriffe,
+
+Urtheile, Schlüsse von uns : nein ! sie sind objective , an und für sich seiende , absolute Formen.
+
+So entäußert und ent fremdet die absolute Philosophie dem Menschen sein eigenes Wesen , seine eigene Thätigkeit! Daher die Gewalt , die Tortur, die sie unserem Geiste anthut.
+
+Wir sollen das Unsrige nicht als Unsriges denken , ſollen abstrahiren von der Beſtimmtheit, in der Etwas ist , was es ist , d . h. wir sollen es denken ohne Sinn, sollen es nehmen im Unsinn des Absoluten. Unsinn ist das höchste Wesen der Theologie der gemeinen, wie der speculativen * ) . Die Identität von Denken und Sein , der Cen tralpunkt der Identitätsphilosophie ist nichts Anderes , als eine nothwendige Folge und Ausführung von dem Begriffe Gottes , als des Wesens , dessen Begriff oder Wesen das Sein enthält.
+
+Die speculative Philosophie hat nur verallge meinert , nur zu einer Eigenschaft des Denkens , des Begriffs überhaupt gemacht , was die Theologie zu einer ausschließ lichen Eigenschaft des Begriffs Gottes machte.
+
+Die Jden tität von Denken und Sein ist daher nur der Ausdruck von der Gottheit der Vernunft 1 der Ausdruck davon , daß dās Denken oder die Vernunft das absolute Wesen , der Inbegriff aller Wahrheit und Realität ist , daß es keinen Gegensaß der Vernunft giebt , daß vielmehr die Vernunft Alles ist, wie in der strengen Theologie Gott Alles ist , d . i. alles Wesenhafte * ) Ebend. §. 23.
+
+[p. 16] und wahrhaft Seiende.
+
+Aber ein vom Denken nicht unter schiedenes Sein , ein Sein , das nur ein Prädicat oder eine Bestimmung der Vernunft ist, das ist nur ein gedachtes , ab3 stractes Sein , in Wahrheit aber kein Sein.
+
+Die Identität von
+
+Denken und Sein drückt daher nur die Identität des Denkens mit sich selbst aus , d. h. das absolute Denken kommt nicht von sich weg, nicht aus sich heraus zum Sein. ein Jenseits .
+
+Sein bleibt
+
+Die absolute Philosophie hat uns wohl das
+
+Jenseits der Theologie zum Diesseits gemacht , aber dafür hat sie uns das Dieſſeits der wirklichen Welt zum Jenseits gemacht * ) . Der Beweis , daß Etwas ist , hat keinen andern Sinn , als daß Etwas nicht nur Gedachtes ist. kann
+
+Dieser Beweis aber nicht aus dem Denken selbst geschöpft werden.
+
+Wenn zu einem Object des Denkens das Prädicat des Seins hinzukommen soll , so muß zum Denken selbst etwas vom " Denken Unterschiedenes hinzukommen . ――― Ein nur und zwar abstract denkendes Wesen hat daher gar keine Vorstellung von Sein , Existenz , Wirklichkeit.
+
+Sein ist die Gränze des Denkens ; Sein als Sein ist kein Gegenstand der , wenigs Das ,, über sein ftens abstracten , absoluten Philosophie. Anderes ( das Andere des Denkens ist aber das Sein ) über greifende " Denken ist daher das seine Naturgränze überschrei tende Denken.
+
+Das Denken greift über sein Gegentheil über heißt : das Denken vindicirt sich , was nicht dem Denken, sondern dem Sein zukommt.
+
+Dem Sein fommt aber die Einzelheit , Individualität , dem Denken die Allgemeinheit zu. Das Denken vindicirt sich also die Einzelheit es macht die Negation der Allgemeinheit , die wesentliche Form der Sinn lichkeit, die Einzelheit zu einem Moment des Denkens.
+
+So wird das ,, abstracte " Denken oder der abstracte Begriff, der das Sein außer sich hat , *) Ebend. §. 24.
+
+concreter " Begriff.
+
+Diesen
+
+[p. 17] Uebergriff in das Eigenthum des Seins begeht das Denken zuerst in der Neuplatonischen Philosophie.
+
+Die alte
+
+Philosophie lebte noch im Unterschiede von Denken und Sein ; ihr war noch nicht das Denken , der Geist , die Idee die Alles befassende d. i. , die einzige , die ausschließliche , die absolute Realität.
+
+Den Neuplatonikern dagegen ist die Materie , die materielle , die wirkliche Welt überhaupt , keine Instanz , keine Realität mehr.
+
+Was in den Neuplatonikern Vorstellung ,
+
+Phantasie ist , das hat Hegel nur in Begriffe verwandelt , rationaliſirt. stoteles ,
+
+Hegel ist nicht der deutsche oder christliche Ari er ist der deutsche Proclus .
+
+Die absolute Philosophie ist die wiedergeborne alerandrinische Philosophie * ) . Die Bestimmung , daß nur der concrete Begriff, der Begriff, welcher die Natur des Wirklichen an ſich trägt , der wahre Begriff ist , drückt die Anerkennung von der Wahr heit des Concreten oder Wirklichen aus . wohl von vorn herein der Begriff,
+
+Weil aber gleich d. i. , das Wesen des
+
+Denkens als das absolute , allein wahre Wesen vorausgescht ist , so kann das Reale oder Wirkliche nur auf indirecte Weise , nur als das wesentliche und nothwendige Adjecti vum des Begriffs anerkannt werden.
+
+Hegel ist Realist, aber pur idealistischer oder vielmehr abstracter Realist Realist in der Abstraction von aller Realität. Er negirt das Denken, nämlich das abstracte Denken, aber selbst wieder im abſtracten Denken, ſo daß die Negation der Abstraction selbst wieder eine Abstraction ist. Diese Anerkennung des Lichtes der-Wirklichkeit im Dunkel der Abstraction, ist ein Widerspruch die Bejahung des Wirklichen in der Verneinung deſſelben. Die neue Philosophie , welche das Concrete nicht in ab stracto, sondern in concreto, das Wirkliche in seiner Wirklichkeit, also auf eine, dem Wesen des Wirklichen entsprechende Weise als das Wahre anerkennt und *) Ebendaselbst §. 25 , §. 26 , §. 29.
+
+[p. 18] zum Princip und Gegenstand der Philosophie erhebt , ist daher erst die Wahrheit der Hegelschen , die Wahrheit der neueren Philosophie überhaupt. Die historische Nothwendigkeit oder Genesis der neuen Philosophie aus der alten ergiebt ſich näher ſo.
+
+Der concrete
+
+Begriff der Idee ist nach Hegel zunächst nur abſtract , nur der rationaliſirte Gott der Theo im Elemente des Denkens
+
+Aber wie Gott logie vor der Schöpfung der Welt.
+
+sich äußert , offenbart , verweltlicht , verwirklicht , so realisirt sich die Idee Hegel ist die in einen logischen Proceß ver wandelte Geschichte der Theologie.
+
+Kommen wir aber ein mal mit der Realisation der Idee in das Reich des Realismus , ist die Wahrheit der Idee , daß sie wirklich ist , daß sie existirt , so haben wir ja die Existenz zum Kriterium der Wahrheit gemacht : nur was wirklich , ist wahr. Und es fragt sich nur : was ist wirklich ? das nur Gedachte ? das was nur Object des Denkens , des Verstandes ist ? Aber so fämen wir nicht aus der Idee in abstracto heraus.
+
+Object des Denkens ist auch die Platonische Idee ; innerliches Object auch das himmlische Jenseits - Object des Glaubens , der Vorstellung . Ist dieRealität des Gedankens die Realität als gedacht , so ist die Realität des Gedankens ſelbſt wieder nur Gedanke, so bleiben wir nur in der Identität des Gedankens mit sich -- ein Jdealismus , der sich von selbst , im Jdealismus dem subjectiven Idealismus nur dadurch unterscheidet , daß er allen Inhalt der Wirklichkeit umfaßt und zu einer Gedan fenbestimmtheit macht. des Gedankens
+
+Ist es daher Ernst mit der Realität oder der Idee , so muß etwas Anderes als er selbst ist , zu ihm hinzukommen , oder er muß als realisirter Gedanke ein Andres sein , denn als nicht realisirter , als bloßer Gedanke -- Gegenstand nicht nur des Denkens , sondern auch des Nichtdenkens .
+
+Der Gedanke realistrt sich, heißt eben:
+
+er negirt sich , hört auf, bloßer Gedanke zu sein.
+
+[p. 19] ist denn nun aber dieses Nicht- Denken , dieses vom Denken Unterschiedene ?
+
+Sinnliche.
+
+Der Gedanke realisirt sich, heißt demnach : er macht sich zum Object des Sinnes. Die Realität der Idee ist also die Sinnlichkeit , aber die Realität die Wahrheit der Idee- also die Sinnlich keit erst die Wahrheit derselben. Aber gleichwohl haben wir so die Sinnlichkeit nur noch zu einem Prädicat , die Idee oder den Gedanken zum Subject.
+
+Allein warum versinnlicht sich denn die Idee ? warum ist sie nicht wahr , wenn sie nicht real, d . i. , sinnlich ist ? Wird denn nicht dadurch ihre Wahr heit von der Sinnlichkeit abhängig gemacht ? nicht dem Sinn lichen für sich selbst , abgesehen davon , daß es die Realität der Idee, Bedeutung und Werth eingeräumt ? Wenn die Sinn lichkeit für sich selbst Nichts ist , wozu bedarf derselben die die Idee erst der Sinnlichkeit Werth und
+
+Idee ? Wenn Gehalt giebt , so nur eine Illusion , Aber so ist es nicht.
+
+diese reiner de sich
+
+Lurus , reiner der Gedanke
+
+Land vormacht.
+
+An den Gedanken ergeht nur die die Forderung , sich zu realisiren , zu versinnlichen , weil un bewußt dem Gedanken die Realität , die Sinnlichkeit ; un abhängig von dem Gedanken als Wahrheit vorauss gesezt ist.
+
+Der Gedanke bewährt sich durch die Sinnliche keit ; wie wäre dies möglich , wenn sie nicht unbewußt für Wahrheit gälte ?
+
+Weil aber gleichwohl bewußt von der
+
+Wahrheit des Gedankens ausgegangen wird , so wird die Wahrheit der Sinnlichkeit erst hinterdrein ausgesprochen, und die Sinnlichkeit nur zu einem Attribut der Idee gemacht , was aber ein Widerspruch ist ; denn sie ist nur Attribut und doch giebt sie erst dem Gedanken Wahrheit , ist also zugleich Hauptsache und Nebensache , zugleich Wesen und Accidenz. Von diesem Widerspruch erlösen wir uns nur , wenn wir das Reale, das Sinnliche zum Subject seiner selbst 1machen, wenn wir demselben absolut selbstständige, göttliche, primi 2* [p. 20] tive, nicht erst von der Idee abgeleitete Bedeutung geben * ) . Also :
+
+Das Wirkliche in seiner Wirklichkeit oder als Wirkliches ist das Wirkliche , als Object des Sinnes , ist das Sinnliche.
+
+Wahrheit ,
+
+Wirklichkeit , Sinnlichkeit sind identisch .
+
+Nur ein sinnliches Wesen ist ein wahres , ein wirkliches Wesen, nur die Sinnlichkeit Wahrheit und Wirklichkeit. ――― Die neue Philosophie betrachtet und berücksichtigt das Sein, wie es für uns ist , nicht nur als denkende , sondern als wirklich seiende Wesen ― das Sein also als Object Seins als Object seiner selbst.
+
+Das Sein als Gegenstand des Seins
+
+- und nur dieses Sein ist erst Sein und verdient erst den Namen des Seins - ist das Sein des Seins , der Anschauung , der Empfindung, der Liebe.
+
+Das Sein ist also ein Geheimniß der Anschauung , der Empfindung , der Liebe. -
+
+Nur in der Em
+
+- diese Person, pfindung , nur in der Liebe hat ,„, Dieses " — dieſes Ding - d. h. , das Einzelne absoluten Werth , ist das Endliche das Unendliche darin und nur darin allein besteht die unendliche Tiefe , Göttlichkeit und Wahrheit der Liebe.
+
+Die Liebe ist Leidenschaft , und nur die Leidenschaft ist Nur was - sei es nun wirk- das Wahrzeichen der Existenz .
+
+- Object der Leidenschaft, das liches oder mögliches — ist ; das empfindungs- und leidenschaftsloſe abſtracte Denken hebt den Unterschied zwischen Sein und Nichtsein auf, aber der Liebe ist dieser dem Gedanken verschwindende Unterschied eine Realität.
+
+Die menschlichen Empfindungen haben daher keine empirische , anthropologische Bedeutung im Sinne der alten transcendenten Philosophie , sie haben ontologische , metaphysische Bedeutung : in den Empfindungen , ja in den alltäglichen Empfindungen sind die tiefſten und höchsten Wahr heiten verborgen.
+
+So ist die Liebe der wahre ontologiſche
+
+*) Ebendaselbst §. 31.
+
+[p. 21] Beweis vom Dasein eines Gegenstandes außer meinem Kopfe ――― und es giebt keinen andern Beweis vom Sein , als die Liebe , die Empfindung überhaupt. -
+
+Die neue Philosophie stüßt sich auf die Wahrheit der Liebe, die Wahrheit der Empfindung.
+
+In der Liebe , in der
+
+Empfindung überhaupt gesteht jeder Mensch die Wahr heit der neuen Philosophie ein.
+
+Die neue Philosophie ist in Beziehung auf ihre Basis selbst nichts Anderes , als das zum Bewußtsein erhobene Wesen der Empfindung - sie bejaht nur in und mit der Vernunft, was jeder Mensch — der wirkliche Mensch bekennt.
+
+im Herzen
+
+Sie ist das zu Verstand gebrachte Herz.
+
+Herz will keine abstracten , keine metaphysischen oder theologischen - es will wirkliche , es will sinnliche Gegens stände und Wesen. -
+
+Wenn die alte Philosophie zu ihrem Ausgangspunkt den Saß hatte : Ich bin ein abs stractes , ein nur denkendes Wesen , der Leib ge hört nicht zu meinem Wesen ; so beginnt dagegen die neue Philosophie mit dem Saße : Ich bin ein wirkliches , ein sinnliches Wesen ; der Leib gehört zu meinem Wesen ; ja , der Leib in seiner Totalität ist mein Ich , selber.
+
+mein Wesen
+
+Der alte Philosoph dachte daher in einem fortwäh renden Widerspruch und Hader mit den Sinnen , um die sinnlichen Vorstellungen abzuwehren , die abstracten Begriffe nicht zu verunreinigen ; der neue Philoſoph dagegen denkt im Einklange und Frieden mit den Sin nen * ) . Raum und Zeit sind keine bloßen Erschei nungsformen sie sind Wesensbedingungen , Vernunftfor men , Gesetze des Seins wie des Denkens . erste Sein , das erste Bestimmtsein.
+
+Daſein ist das
+
+Hier bin ich — das ist das erste Zeichen eines wirklichen ,
+
+Wesens.
+
+Der Zeigefinger ist der Wegweiser vom Nichts zum
+
+*) Ebendaselbst §. 32-37.
+
+lebendigen
+
+[p. 22] Sein.
+
+Hier ist die erste Grenze , die erste Scheidung .
+
+Hier bin ich , dort Du ; wir sind außer einander ; darum können wir Beide ſein , ohne uns zu beeinträchtigen ; es ist Plaz genug.
+
+Hegel giebt vom Raume , wie überhaupt von der
+
+Natur nur eine negative Bestimmung . positiv.
+
+Allein Hiersein ist
+
+Ich bin nicht dort , weil ich hier bin - dieſes nicht dort sein ist also hur eine Folge von dem poſitiven , ausdrucksvollen Hiersein .
+
+Es ist nur eine Schranke für deine
+
+Vorstellung , aber keine Schranke an sich , daß hier nicht dort, daß Eins außer dem Andern ist.
+
+Es ist ein Außereinander, das sein soll , das der Vernunft nicht wider , sondern entspricht.
+
+Bei Hegel aber ist dieses Außereinanderſein eine negative Bestimmung , weil es das Außereinander deſſen ist, was nicht außer einander sein soll - weil der logische Begriff, als die absolute Identität mit sich , für die Wahrheit gilt der Raum geradezu die Negation der Jdee , der Vernunft , in welche daher auch nur dadurch wieder Vernunft gebracht werden kann , daß sie negirt wird . Allein ---geschweige , daß der Raum die Negation der Vernunft iſt im Raum wird vielmehr der Idee , der Vernunft nur Plaz ist der Raum die erste Sphäre der Vernunft. gemacht Wo kein räumliches Außereinander , ist auch kein logiſches. Oder umgekehrt, wenn wir , wie Hegel , von der Logik aus zum Raume fortgehen , wo kein Unterschied , ist auch kein Raum .
+
+Die Unterschiede im Denken müssen verwirklicht wer den als Unterschiedene; Unterschiedene treten aber räumlich außereinander.
+
+Das räumliche Außereinandersein ist daher die Wahrheit der logischen Unterschiede.
+
+Aber was außer einander ist , das kann auch nur nach einander gedacht werden. Wirkliches Denken ist Denken in Raum und Zeit.
+
+Negation von Raum und Zeit , ( Zeitlänge ) , fällt immer innerhalb des Raumes und der Zeit selbst.
+
+Wir wollen nur Raum und Zeit sparen , um Raum und Zeit zu gewinnen *). *) Ebendaselbst §. 45.
+
+[p. 23] Bleiben wir zunächst hierbei stehen, so scheint die Sache sehr klar und einfach.
+
+Der Hegelschen Philosophie ist die abstracte Allgemeinheit des Gedankens das wahrhaft Wirkliche ; sie geht aber doch schon so weit , dies Allgemeine dem Einzelnen nicht abstract entgegenseßen zu wollen ! ; nur das Allgemeine soll das wahrhaft Wirkliche sein , welches das Besondere in sich begreift , also in sich lebendig , concret ist. Eben hieraus ist Ernst zu machen ; dieser Ansatz der Hegel schen Philosophie ist auszuführen , diese Ahnung zur bewußten Erkenntniß zu erheben.
+
+Also das Einzelne ist das wahrhaft Seiende , Wirkliche , nicht das Allgemeine. Damit ist aber auch das Denken von seiner Würde , abſo Denn nicht das lutes Erkenntnißprincip zu sein , herabgesezt.
+
+Denken , sondern die Empfindung faßt das Einzelne. + Also in der Empfindung verhalte ich mich zu dem wahrhaft Seienden, trete aus dem Schattenreiche in die wirkliche Welt. So einfach aber auch die Sache zu sein scheint , wir brauchen nur einen Schritt weiter zu gehen , so verwickelt sie sich in die offenbarsten Schwierigkeiten .
+
+Mag immerhin das Einzelne das wahrhaft Wirkliche sein das schlechthin Ver gängliche und in jedem Moment Vergehende ist es ſicherlich auch.
+
+Freilich tritt an die Stelle des vergehenden Einzelnen wieder ein Einzelnes , so daß das Einzelne überhaupt nie stirbt ; allein will ich nicht ohne Weiteres in die Abſtraction des Gedankens verfallen und etwa sagen : das Einzelne im Allgemeinen ist das Wirkliche , also nicht dies Einzelne, welches ich jezt empfinde , mit Händen greife , begehre , ver abscheue , sondern irgend ein Einzelnes , so muß_ich_noth wendig bekennen : Das in Wahrheit Seiende ist zugleich auch das Nichtſeiende ; es ist nicht blos ein solches , welches früher nicht gewesen und später auch nicht sein wird , sondern welches auch jezt , wo es ist , ununterbrochen entsteht und vergeht , ist und nicht ist zugleich , welches alſo als dieſes Einzelne zu [p. 24] gleich auch nicht dieses , sondern ein Anderes ist. --verhält es sich auch mit der Empfindung .
+
+Analog
+
+Sie ist , wie das
+
+Einzelne , auf welches sie sich bezieht , wesentlich eine momentane , ununterbrochen entstehende und vergehende. Nicht blos kommt in ihr die unmittelbare Bestimmtheit der beson deren Individualität in ihrer ganzen unübersehbaren Mannig faltigkeit zur Erscheinung , ohne daß die empfindenden Individuen als solche auch nur die Intention hätten , in der
+
+Besonderheit ihrer Einpfindungen ein Gemeinsames aufzufin den , sondern jedes einzelne Individuum für ſich ist in seinen Empfindungen den mannigfachsten Schwankungen hingegeben. Dasselbe Individuum empfindet denselben einzelnen Gegenstand bald so , bald anders ;
+
+es ist ihm bald so , bald anders zu
+
+Sinne , und es fällt ihm als empfindendem nicht ein , nach einem Constanten , nach einer Regel in seinen Empfindungen zu fragen.
+
+Die Empfindung ist daher eine Erkenntniß , welche über daſſelbe das Entgegengesezte aussagt , welche eben so ſehr wahr , als nicht wahr ist. Ferner aber : giebt es denn wirklich irgend ein Einzelnes, welches nichts weiter wäre als dies , welches alles Allgemeine schlechthin von sich ausschlösse , ohne dasselbe zugleich in sich zu umfassen ? Weiter bestimmen und benennen dürften wir das Einzelne ſicherlich nicht , denn wenn wir sagen , es ist Pflanze oder Thier oder Mensch , so ist es schon dadurch einem be stimmten Allgemeinen untergeordnet und hat die Natur dieses Allgemeinen an sich.
+
+Wollten wir dies Allgemeine schlechthin aus dem Einzelnen herauswerfen , so müßten wir wie es die mechanische Naturbetrachtung thut - jene Unterschiede in unsere Vorstellung zurücknehmen , also behaupten : an sich giebt es nur einzelne Theile der Ausdehnung , des Raums , und eine äußerliche Compoſition ſolcher Theile ; jeder einzelner Körper ist ein ganz unbestimmtes Dieses , ein räumliches Hier.
+
+mit hätten wir nun aber gerade das am allerwenigſten erlangt, [p. 25] was wir erlangen wollten.
+
+Das ganz unbestimmte Dieses nämlich, dieser Raumtheil, dieſer Ort , mögen wir noch so ſehr mit den Fingern darauf hinweisen , hat als solcher nicht im Entferntesten irgend welche Energie , sich der allgemeinen Ausdehnung gegenüber festzuhalten und für sich zu sein ; er ist schlechthin Beziehung nach außen , außer sich selbst , ein schlechthin verschwindendes , unselbstständiges Moment. Selbst ständig für sich , vom Allgemeinen verschieden , alſo nicht blos in unserer Meinung , sondern an und für sich wirklich ist das Einzelne sicherlich nur durch die ihm immanente All gemeinheit.
+
+Sobald wir den Körper als lebendigen faffen, so ist er ganz offenbar ein Allgemeines im Verhältniß zu seinen Gliedern ; schon als neutrale chemische Einheit um faßt der Körper und zwar mit Energie unterschiedene Elemente in ſich ; ja noch weiter zurück , sobald nur der Körper im äußern Stoffe reagirt , so ist er nicht mehr ein blos einzelnes Hier. Reflectiren wir auf die Empfindung , so dringt sich hier etwas ganz Analoges auf.
+
+Zunächst bezieht sich freilich die
+
+Empfindung auf ein Einzelnes , sie ist selbst eine einzelne , momentane ;
+
+allein ohne das eine in allen Empfindungen identische Subject , ohne die Allgemeinheit der Seele , welche die verschiedenen Empfindungen als Momente in sich umfaßt, ist die einzelne Empfindung sicherlich unmöglich. delt es sich aber noch um ein Weiteres.
+
+Hier han
+
+Der Empfindung, welche hier gefordert wird , soll das Einzelne selbstständigen unendlichen Werth haben ; die Empfindung soll der Liebe fähig sein , welche das Einzelne nicht in roher , thierischer Weise vernichtet , sondern dasselbe anerkennt, ihm eine eigenthümliche Realität , Geltung zugesteht.
+
+Ja noch mehr ! diese Empfindung hat ein Bewußtsein über sich selbst , sie explicirt sich in Form der Wissenschaft , sie stellt sich dem Denken gegen über, macht sich selbst zum Princip des Erken= [p. 26] nens ; ist eine solche Empfindung ohne immanente principielle Allgemeinheit denkbar ? Sehen wir zu , in wie weit Feuerbach auf diese Be denken eingeht.
+
+Er sagt : Den Sinnen ſind nicht nur äußer liche Dinge Gegenstand .
+
+Der Mensch wird sich selbst nur durch den Sinn gegeben. er ist sich selbst als Sinnenobject
+
+Gegenstand.
+
+Die Identität von Subject und Object , im
+
+Selbstbewußtsein nur abstracter Gedanke, ist Wahrheit und Wirklichkeit nur in der sinnlichen Anschauung des Menschen vom Menschen.
+
+Wir fühlen nicht nur Steine und Hölzer, nicht nur Fleisch und Knochen , wir fühlen auch Gefühle , in dem wir die Hände oder Lippen eines fühlenden Wesens drücken ; wir vernehmen durch die Ohren nicht nur das Rau schen des Wassers und das Säufeln der Blätter , sondern auch die seelenvolle Stimme der Liebe und Weisheit ; wir sehen nicht nur Spiegelflächen und Farbengespenster , wir blicken auch in den Blick des Menschen.
+
+Nicht nur Aeußer auch Innerliches , nicht nur Fleisch ✔ liches also auch Geist , nicht nur das Ding - auch das Ich ist Gegenstand der Sinne.
+
+Alles ist darum sinnlich wahrnehmbar, wenn auch nicht unmittelbar , doch mittelbar , wenn auch nicht mit den pöbelhaften , rohen , doch mit den gebildeten Einnen, wenn auch nicht mit den Augen des Anatomen oder Chemikers , doch mit den Augen des Philoſophen * ).
+
+Also so war die Sache gemeint ! Nicht die Empfindung als solche , in ihrer specifischen Bestimmtheit , in ihrer vollen prägnanten Bedeutung , in der sie sich als ein eigenthümlicher Proceß von allen andern unterscheidet , sondern die gebildete Empfindung , d . h. , die mit dem Denken verbundene , vom Denken durchdrungene , über ihre bestimmten Grenzen hinaus getriebene Empfindung, soll Princip fein ; oder die Empfindung
+
+*) Ebend. f. 42.
+
+[p. 27] welche eben so sehr auch nicht Empfindung , welche gerade das auch ist , dem sie principiell entgegengestellt wird.
+
+Hier mit erhält die vorher entwickelte Ansicht eine sehr in die Augen fallende Modification. Hören wir Feuerbach selbst.
+
+Zunächst heißt es :
+
+neuere Philosophie sucht etwas unmittelbar Gewiſſes. Sie verwarf daher das grund- und bodenlose Denken der Scholastik , gründete die Philosophie auf das Selbstbewußtsein, d. h., fte sette an die Stelle des nur gedachten Wesens , an die Stelle Gottes , des obersten , leßten Wesens der scholastischen Philosophie das denkende Wesen , das Ich , den selbstbewußten Geist : denn das Denkende ist dem Denkenden unendlich näher , wisser als das Gedachte.
+
+gegenwärtiger , ge=
+
+Bezweifelbar ist die Existenz
+
+Gottes , bezweifelbar überhaupt das , was ich denke , aber unbezweifelbar ist , daß ich bin , ich , der ich denke , der ich zweifele.
+
+Allein das Selbstbewußtsein der neuern Philosophie ist selbst wieder nur ein gedachtes , durch Abstraction vermit teltes , also bezweifelbares Wesen.
+
+Unbezweifelbar , unmittelbar gewiß ist nur , was Object des Sinnes , der Anschauung, der Empfindung ist. -
+
+Wahr und göttlich ist nur , was keines Beweises bedarf, was unmittelbar durch sich selbst gewiß ist , unmittelbar für ſich ſpricht und einnimmt, unmittelbar die Affirmation , daß es ist , nach sich zicht das schlechthin Entschiedene , schlechthin Unzweifelhafte , das Sonnenklare.
+
+Aber sonnenklar ist nur das Sinnliche ; nur wo Sinnlichkeit anfängt, hört aller Zweifel und Streit auf. Das Geheimniß des unmittelbaren Wissens ist die Sinnlich keit.
+
+Nach Hegel ist Alles vermittelt.
+
+Allein die Nothwen digkeit der Vermittelung ist nur eine bedingte; sie ist nur da nothwendig , wo noch eine falsche Voraussetzung zu Grunde liegt , wo eine Lehre auftritt im Widerspruch mit einer andern, die auch noch für wahr gilt, respectirt wird.
+
+Die sich ver [p. 28] mittelnde Wahrheit ist die noch mit ihrem Gegensaße be haftete Wahrheit * ) . Später aber heißt es : Das Sinnliche ist nicht das Un mittelbare in dem Sinne , daß es das Profane , das auf platter Hand Liegende , das Gedankenlose, das sich von selbst Verstehende sei.
+
+Die unmittelbare sinnliche Anschauung ist vielmehr später als die Vorstellung und Phantasie.
+
+erste Anschauung des Menschen ist selber nur die Anschauung der Vorstellung und Phantasie.
+
+Die Aufgabe der Philosophie , der Wiſſenſchaft überhaupt besteht daher nicht darin, von den sinnlichen , d . h. wirklichen Dingen weg , sondern zu ihnen hin zu fommen nicht darin , die Gegenstände in
+
+Gedanken und Vorstellungen zu verwandeln , sondern darin, das den gemeinen Augen Unsichtbare sichtbar , d . i. , gegenständlich zu machen.
+
+Die Menschen sehen zuerst die Dinge nur so wie sie ihnen erscheinen , nicht wie sie sind , sehen in den Dingen nicht sie selbst , sondern nur ihre Einbildungen von ihnen , legen ihr eigenes Wesen in sie hinein , unterscheiden nicht den Gegenstand und die Vor stellung von ihm.
+
+Die Vorstellung liegt dem ungebildeten ,
+
+ſubjectiven Menschen näher , als die Anschauung , denn in der Anschauung wird er aus sich herausgerissen ; in der Vor stellung bleibt er bei sich selbst.
+
+Erst in neuerer Zeit ist die
+
+Menschheit wieder , wie einſt in Griechenland nach Voraus gang der orientalischen Traumwelt , zur sinnlichen , d . i. , unverfälschten , objectiven Anschauung des Sinnlichen , d . h. Wirklichen , aber eben damit zu sich selbst gekommen ; denn ein Mensch , der sich nur mit Wesen der Einbildung oder des abstracten Gedankens abgiebt , iſt ſelbſt nur ein abſtractes oder phantastisches , kein wirkliches , kein wahrhaft menſchli ches Wesen ** ) . * ) Ebendaselbst § . 38 , §. 39. ** ) Ebend. §. 44. 43
+
+[p. 29] Mit der zuerst urgirten Unmittelbarkeit und sonnenklaren Gewißheit der Empfindung ist es also nicht weit her.
+
+Empfindung , durch welche das wahrhaft Wirkliche erfaßt wird, ist entschieden eine vermittelte , und zwar soll es die Aufgabe der Wissenschaft sein , die rohe , unmittelbar gegebene
+
+Empfindung zu dieser höheren Empfindung hinzuleiten.
+
+Ob diese Vermittelung auch auf andere als wiſſenſchaftliche , philosophische Weise geschehen kann , bleibt dahin geſtellt ; auch ist nicht einzusehen , wie das in § . 39. über die relative Noth wendigkeit der Vermittelung Behauptete, hier , irgend wie seine Anwendung finden soll , wie also etwa später , wenn Feuer bach gar nicht mehr nöthig hat , gegen Hegel zu kämpfen , wenn seine Ansicht eine allgemein anerkannte Wahrheit ge worden ist , die Empfindung sogleich ursprünglich die gebildete, und nicht zunächst die pöbelhafte sein soll. Wie aber in der Empfindung zu der Unmittelbarkeit und Einzelnheit das Moment der Vermittelung und Allgemeinheit hinzutreten soll , ganz ebenso wird nun auch das Object der Empfindung nicht mehr nur ein einzelnes , dem Allge meinen nur gegenüberstehendes sein , sondern diese Allgemein heit an sich selbst haben .
+
+So heißt es denn : Die Unterschiede zwischen Wesen und Schein , Grund und Folge , Substanz und Accidenz , Nothwendig und Zufällig ,
+
+Speculativ und
+
+Empirisch begründen nicht zwei Reiche oder Welten - eine übersinnliche, welcher das Wesen , und eine sinnliche Welt, welcher der Schein angehört , sondern diese Unterschiede fallen innerhalb des Gebiets der Sinnlichkeit selbst * ) .
+
+Ferner : Die
+
+* ) Ebend. §. 43. Feuerbach giebt folgendes Beiſpiel zur Erläute: rung : In dem Linneschen Pflanzensysteme werden die ersten Klassen nach der Zahl der Staubfåden bestimmt. Aber schon in der elften Klasse , wo 12-20 Staubgefäße vorkommen , noch mehr aber in der Klasse der Zwanzigmånnigkeit und der Vielmånnigkeit wird die Zahlbeſtimmtheit gleichgültig ; es wird nicht mehr gezählt. Hier haben wir daher auf dem einen und demselben Gebiete vor unseren Augen den Unterschied zwischen bestimmter und unbestimmter , nothwendiger und gleichgültiger, rationeller und irrationeller Vielheit. Wir brauchen also nicht über die [p. 30] alte absolute Philosophie hat die Sinne nur in das Gebiet der Erscheinung , der Endlichkeit verstoßen , und doch hat sie im Widerspruch damit das Abſolute , das Göttliche als den Gegenstand der Kunst bestimmt . Aber der Gegenstand der Kunst ist - mittelbar in der redenden , unmittelbar in der bildenden Kunst des Gefühls .
+
+Gegenstand des Gesichts , des Gehörs ,
+
+Alſo nicht nur das Endliche , das Erscheinende, sondern auch das wahre , göttliche Wesen ist Gegenstand der Sinne - der Sinn Organ des Absoluten.
+
+Die Kunststellt die Wahrheit im Sinnlichen dar " — d. h . richtig erfaßt und ausgedrückt : die Kunst stellt die Wahrheit des Sinnlichen dar * ) . Offenbar ist hier wieder die gebildete geistige Empfindung gemeint.
+
+Stellt aber die Kunst die Wahrheit des Sinnlichen dar , so heißt dies : das Sinnliche hat an und für sich das Allgemeine , Ideelle in sich ; dies ist nicht blos äußerlich , willkührlich mit dem Sinnlichen verbunden , dem Sinnlichen aufgedrungen , sondern in Wahrheit giebt es gar nichts Sinnliches , welches nicht eben so sehr auch das Wesen, die Substanz , das Speculative in sich umfaßte. Was ist nun aber hiermit erlangt ? Ist irgend welche Erkenntniß gewonnen ? Vollends eine Erkenntniß , welche sich der bisherigen Entwickelung der neueren Philosophie als epoche machend gegenüber stellen könnte ? Zuerst soll das Einzelne das Wirkliche sein , und demgemäß die Empfindung Princip des Wissens ; dann wird dieser Behauptung die Spitze abges brochen , die Immanenz des Allgemeinen im Einzelnen behauptet und die Empfindung als gebildete denkende Empfindung gefaßt.
+
+So lange wir nun hierbei stehen bleiben , also das
+
+Allgemeine und Einzelne , die Empfindung und das Denken ,
+
+Sinnlichkeit hinauszugehen , um an die Grenze des nur Sinnlichen , nur Empirischen im Sinne der abſoluten Philosophie zu kommen ; wir dürfen nur nicht den Verstand von den Sinnen abtrennen , um das Ueberfiun liche, d. i. Geist und Verstand , im Sinnlichen zu finden. *) Ebend. §. 40, [p. 31] nur äußerlich durch das Auch verbinden , so geht unsere Weis heit entschieden auf sehr schwachen Füßen.
+
+Freilich ist die menschliche Empfindung nicht die thieriſche , ſie iſt eine geistige, im Einzelnen das Allgemeine schauende , und ebenso ist das Einzelne für sich , in seiner Isolirtheit so unwirklich , wie das welchem Allgemeine in feiner Getrenntheit vom Einzelnen einigermaßen gebildeten Menschen hätten wir hiermit etwas Neues gesagt , oder könnten es ihm nicht durch wenige Worte zum Bewußtsein bringen ?
+
+Die Philosophie beginnt sicherlich erst mit der Frage nach dem wesentlichen , innern , nothwen digen Zusammenhange zwischen dem Allgemeinen und Einzelnen , mit dem Bewußtsein , daß das bloße Zuſammenſtellen der Empfindung mit dem Denken , der wesentlichen Allgemeinheit mit der unmittelbaren Erscheinung des
+
+Einzelnen ein unaufgelöster Widerspruch in ſich iſt. In wie weit geht nun Feuerbach auf die Lösung dieser Frage ein ? Es heißt : Die unmittelbare Einheit entgegenge feßter Bestimmungen ist nur in der Abstraction möglich und gültig.
+
+In der Wirklichkeit sind die Gegensätze stets nur durch einen terminus medius verbunden.
+
+Dieser terminus medius ist der Gegenstand , das Subject der Gegenfäße. Das Mittel , entgegengeseßte oder widersprechende Bestimmungen ohne Widerspruch in einem und demselben Wesen zu vereinigen , ist nur ――― die Zeit. So ist es wenigstens im lebendigen Wesen.
+
+So nur kommt hier z . B. im Menschen der Widerspruch zum Vorschein , daß jezt dieſe Bestimmung diese Empfindung , dieser Vorsat jezt eine andere, eine geradezu entgegengesezte Bestimmung mich erfüllt und beherrscht.
+
+Nur da , wo eine Vorstellung die andere , eine
+
+Empfindung die andere verdrängt , wo es zu feiner Entscheidung , keiner bleibenden Bestimmtheit kommt , die Seele sich in einem fortwährenden Wechsel entgegengeseßter Zustände be findet , nur da befindet sie sich in der Höllenpein des Wider [p. 32] spruchs.
+
+Wi de ich die entgegengeseßten Bestimmungen zu gleich in mir vereinigen , so würden sie sich neutraliſiren , ab ſtumpfen , gleichwie die Gegensäße des chemischen Processes, welche zugleich da sind , ihre Differenz in einem neutralen Produkte verlieren.
+
+Aber eben gerade darin besteht der Schmerz des Widerspruchs , daß ich jezt mit Leidenschaft will und bin, was ich im nächsten Augenblicke darauf eben so energisch nicht will und nicht bin , daß Position und Negation auf einander folgen, beide Gegensäße , aber jeder mit Ausschluß des andern , jeder also in seiner vollen Bestimmtheit und Schärfe mich_afficirt * ) . Entgegengesetzte Bestimmungen zu einer unmittelbaren
+
+Einheit zusammen zu fassen , ist freilich eine einseitige , wider sprechende Abstraction.
+
+Denn eine unmittelbar seiende Ein heit ist eine Einheit ohne inneren Unterschied ; wirklich ver einigt ſind die entgegengesezten Bestimmungen nur in einem in sich concreten Proceß, welcher allerdings ein Drittes zu den ab stracten Seiten des Gegensages bildet. In welchem Sinne ist nun aber die Zeit das Mittel , Entgegengeseztes zu vereinigen ? Ein Uebelstand ist es schon , wenn Feuerbach zuerſt die Zeit für das einzige Mittel dazu ausgiebt , dann aber diese Behauptung sogleich einschränkt , indem er sagt : wenigstens im lebenden Wesen ist es so. Freilich hat er zuerst das Eine gesagt, und eine Secunde später das Andere - ist damit der Wider spruch aufgehoben ?
+
+Und soll überhaupt keine andere Lösung gesucht werden , als eine dieser analoge ? Offenbar folgen in der Zeit die entgegengeseßten Bestimmungen nur nach ein ander; d . h. sie sind nicht zusammen , nicht vereinigt. Freilich ist das Subject , welches sich den entgegengeseßten Leidenschaften nach einander hingiebt , das Identiſche in dieſem Nacheinander; es hat diese Leidenschaft und auch die entgegengesezte , diesen Entschluß und auch jene u. f. w;
+
+*) Ebend. §. 47. u, §. 48.
+
+[p. 33] Subject faßt alle diese Unterschiede in sich zuſammen .
+
+Allein wenn es seine Allgemeinheit nicht in jeder besondern Bestimmtheit geltend macht , also die entgegengeseßten Zustände schlechthin beziehungslos auseinander fallen läßt , nur der
+
+Nagel ist , an dem jene nach einander angehängt werden , so ist eine Höllenpein des Widerspruchs sicherlich unmöglich.
+
+Mögen die entgegengeseßten Entschlüſſe und Leidenschaften noch so schnell auf einander folgen , wirft das Subject diese verschiedenen Zustände nicht in einander , ist es also in jeder besondern Bestimmtheit nur mit dieser beschäftigt , und hat bei der folgenden die vorangehenden vergessen , so erhalten wir ----- wenn nicht in irgend einer besondern Bestimmtheit für sich schon eine Höllenpein liegt , was jedoch gegen die vorliegende Erklärung ihrer Entstehung sein würde -- sicherlich nichts weiter als eine Folge verschiedener Befriedigungen , eine rapide geistige Thätigkeit , in welcher kein Zustand den anderen stört , vielmehr jeder Entschluß , jeder Affect dem anderen aus dem Wege geht.
+
+Gerade in dieser Sphäre , in der Sphäre der geistigen Thätigkeit , und zwar vor Allem in der Leiden schaft, der Unruhe , der Pein des geistigen Subjects liegt es am offenbarſten auf der Hand , daß Entgegengesetztes in ein und derselben Zeit das Subject erfaſſen kann ; ſehen wir aber von diesem Falle ab , es wird ganz allgemein behauptet , daß nur die Zeit das Mittel sei , entgegengesette Bestimmungen zu vereinigen - sollen wir denn nun wirklich aus dieser Behauptung Ernst machen , sollen wir also sagen : jedes Ding ist zuerst in diesem Zustande und dann in einem andern ; ein Werden , eine Veränderung , eine Bewegung giebt es ſonach nicht.
+
+Ebenso ist der Geist zuerst denkend und dann empfin dend und dann sich wiſſend u. s. f.
+
+Ziehen wir die äußerste
+
+Consequenz , so existiren in der Wirklichkeit nur einfache , in ſich unterschiedslose Bestimmtheiten , welche sich nach einander an Subjecte anlegen , die eben solche einfache Bestimmtheiten
+
+[p. 34] ſind.
+
+Sollen wir zu dieſer Consequenz fortgehen , oder sollen wir jene Behauptung in dem dürftigens, nichts fagenden Einne fassen , daß nicht jede Bestimmtheit mit jeder anderen in ein und demselben Subject zugleich ſein könne ? Möglich daß uns die folgenden Paragraphen hierüber einige Belehrung geben. Das Wirkliche - heißt es hier - ist im Denfen nicht in ganzen Zahlen , sondern nur in Brüchen darstellbar. Differenz ist eine normale -
+
+Diese sie beruht auf der Natur des
+
+Denkens , dessen Wesen die Allgemeinheit ist , im Unterschiede von der Wirklichkeit , deſſen Wesen die Individualität.
+
+Daß aber diese Differenz nicht zu einem förmlichen Widerspruch zwischen dem Gedachten und dem Wirklichen kommt , dies wird nur dadurch verhindert , daß das Denken nicht in gerader Linie , in der Identität mit sich fortläuft , sondern sich durch die sinnliche Anschauung unterbricht.
+
+Nur das durch die sinn liche Anschauung sich bestimmende und ratificirende Denken ist reales , objectives Denken Denken objectiver Wahrheit. Es ist das Wichtigste , zu erkennen , daß das absolute d . h. das isolirte, von der Sinnlichkeit abgesonderte Denken nicht über die formale Idealität ――― die Idealität des Denkens mit ſich selbst hinauskommt ; denn wenn gleich das Denken oder der Begriff bestimmt wird als die Einheit entgegengesetter Bestimmungen , so sind doch diese Bestimmungen selbst wieder nur Abstractionen , Gedankenbestimmungen- also immer wieder Identitäten des Denkens mit sich , nur Multiplicate der Identität , von welcher als der absoluten Wahrheit ausgegangen wird.
+
+Das Andere , was sich die Idee gegenüberseßt , ist als ein von ihr Geseztes , nicht wahrhaft, realiter von ihr unter schieden , nicht außer der Idee entlassen , höchstens nur pro forma , zum Scheine , um ihre Liberalität zu zeigen ; denn dies Andere der Idee ist selbst wieder Idee , nur noch nicht in der Form der Jbee.
+
+So bringt es das Denken für sich selbst allein zu keinem positiven Unterschiede und Gegensaze von
+
+[p. 35] ſich , hat aber eben deswegen auch kein anderes Kriterium dec Wahrheit als daß Etwas nicht der Idee , nicht dem Denken widerspricht also ein nur formales , subjectives Kriterium, welches nicht darüber entscheidet , ob die gedachte Wahrheit auch eine wirkliche Wahrheit ist.
+
+Das Kriterium , welches hierüber entscheidet , ist einzig die Anschauung.
+
+Aber eben die sinnliche Anschauung ist die Gegenpartei des Denkens. Die Anschauung nimmt die Dinge in einem weitern , das Denken im engsten Sinne ; die Anschauung läßt die Dinge in ihrer unbeschränkten Freiheit , das Denken giebt ihnen Ge seze , aber sie sind nur zu oft despotische ; die Anschauung klärt den Kopf auf, aber bestimmt und entscheidet nichts ; das Denken determinirt , aber bornirt auch oft den Kopf; die Anschauung für sich hat keine Grundsäße , das Denken für sich kein Leben ; die Regel ist die Sache des Denkens , die Aus nahme von der Regel die Sache der Anschauung.
+
+Wie daher nur die durch das Denken beschränkte Anschauung die wahre ist , so ist auch umgekehrt nur das durch die Anschauung erweiterte und aufgeschlossene Denken das wahre , dem Wesen der Wirklichkeit entsprechende Denken.
+
+Das mit sich identis sche , continuirliche Denken läßt im Widerspruch mit der Wirklichkeit der Welt sich im Kreise um ihren Mittelpunkt drehen ; aber das durch die Beobachtung von der Ungleichförmigkeit dieser Bewegung , also durch die Anomalie der Anschauung unterbrochene Denken verwandelt der Wahrheit gemäß diesen Kreis in eine Ellipse.
+
+Der Kreis ist das Symbol, das
+
+Wappen der speculativen Philosophie , des nur auf sich selbst sich stüßenden Denkens , die Ellipse dagegen ist das Symbol, das Wappen der sinnlichen Philosophie, des auf die Anschauung sich stüßenden Denkens . * )
+
+Das Radicalmittel der Vermittelung ―――― die Zeit wird also zur Lösung des Gegensages zwischen Denken und An *) Ebend. §. 49,
+
+3* [p. 36] schauung nicht weiter in Anwendung gebracht. Vielmehr ſollen Denken und Anschauung sich gegenseitig beschränken , also nicht bloß nach einander auftreten , sondern zusammen.
+
+Wie ist nun aber eine solche gegenseitige Beschränkung und Aushülfe möglich ? und was ist damit gewonnen ? Nehmen wir das Denken zunächst in seiner specifischen Bestimmtheit , so faßt es das Wirkliche in seiner wesentlichen Allgemeinheit und Nothwen digkeit ; Gegenstand der Anschauung dagegen ist das Individuelle , das nicht Allgemeine, das nicht Nothwendige.
+
+Soll denn nun die Unterbrechung des Denkens durch die Anschauung den Sinn haben , daß das Denken hiermit seine wesentliche Intention, Allgemeinheit und Nothwendigkeit in den Erscheinungen zu finden , aufgiebt ? und soll analog die Anschauung, welche eigentlich nichts von dem Allgemeinen und Gefeßlichen wissen will , auch ihrerseits ein Etwas von der Nothwendig keit in sich aufnehmen ?
+
+Daß das Denken die Erscheinungen nicht erkennen kann ohne Hülfe der Anschauung , fällt der neueren Philosophie gar nicht ein zu leugnen ; eben so wenig leugnet sie, daß die Erscheinung nur relativ dem Gesetze ent spricht, daß also , um diese Differenz der unmittelbaren Erscheinung von dem Geseze zu erkennen , die sinnliche Anschauung ganz unentbehrlich ist.
+
+Wenn die Philosophie hier über noch weitere Untersuchungen anstellt , so thut sie dies ' darum , weil sie in der bloß äußeren Verbindung von Denken und Anschauung und ihrer gegenseitigen Beschränkung un möglich eine Löſung des Gegenſages ſehen kann , sondern nur eine Abstumpfung , eine Verflachung. sebe geben , die nur
+
+Das Denken soll Ge zu oft " despotisch sind .
+
+Nein , ſie sind immer despotisch, wenigstens in dem Sinne , daß es keine Ausnahmen von dem Geseze giebt , keine Freiheit außer • demselben. Die Regel mag Ausnahmen haben , das Geſeß aber nicht.
+
+Soll denn nun die Ratificirung des
+
+Denkens durch die Anschauung eben diese Consequenz nach sich zichen, [p. 37] daß alle wesentliche objective Allgemeinheit und Nothwendigkeit des Wirklichen geleugnet wird ?
+
+Sollen wir also etwa nur von einem Gemeinsamen oder einem Gewöhnlichen reden ? Und sollen wir die Augen verschließen gegen die weiteren Consequenzen , welche die Entwickelung der neueren Philosophie mit solcher Evidenz durchgearbeit hat ?
+
+Sollen wir uns einbilden , wir hätten den Skepticismus Humes und Kants Kritiken dadurch überschritten , daß wir uns in behaglicher, gemüthlicher Weise in einen ganz gewöhnlichen reflectirenden Empirismus zurückwerfen , welcher die Schwierigkeiten offenbar nur bei Seite schiebt , nicht im Entfernteſten löst ? -- Wie genügsam und bald befriedigt dies durch die sinnliche Anschauung sich bestimmende , dies reale objective Denken sein muß , können wir schon an dem Beispiele sehen , durch welches Feuerbach §. 43. seiner Principien erläutert und welches wir S. 29 in der Note mitgetheilt haben. scheint es ungeschickt , an
+
+Auf den ersten Anblick der Linnéschen Eintheilung der
+
+Pflanzen den Unterschied des Ueberfinnlichen und Sinnlichen, Speculativen und Empirischen im Sinnlichen selbst nachzu weisen , weil gegenwärtig wohl schwerlich ein Botaniker die Linnéſchen Unterschiede für reale , objective , den Begriff der Wirklichkeit treffende anerkennen wird . Im Grunde aber hat Feuerbach von seinen Principien aus vollkommen Recht, das Linnéſche Syſtem für eben so wahr zu halten , als irgend ein anderes.
+
+Nur solche Allgemeinheiten , die innerlich so schwach
+
+ſind wie die Linnéſchen Unterschiede , kann das auf Anschauung ſich ſtüßende , das elliptische Denken gebrauchen ! Nach einer anderen specifisch bestimmten Allgemeinheit , einer objectiven gefeßlichen Nothwendigkeit zu fragen , wäre die Despotie des isolirten einseitigen Denkens .
+
+Die Allgemeinheit der gebildeten
+
+Empfindung ist durchaus elastischer , nachgiebiger Natur ; wir stellen sie auf, nehmen sie aber auch als bloß ſubjectiv wieder zurück , oder noch einfacher , wir stellen die Ausnahmen sogleich [p. 38] als eine zweite Regel neben die erste , und sofort noch mehrere Regeln ―― überall ist Denken und Anschauung zusammen , aber das Eine so schwach wie das Andere. Die folgenden Paragraphen zeigen uns die Einheit von Denken und Anschauung noch von einer anderen Seite. ,, Das Wirkliche in seiner Wirklichkeit und Totalität , der Gegenstand der neueren Philosophie , ist auch nur einem wirklichen und ganzen Wesen Gegenstand .
+
+Die neue Philoſophie hat daher zu ihrem Erkenntnißprincip nicht das Ich , nicht den absoluten d . i. abstracten Geist , kurz nicht die Vernunft in abstracto , ſondern das wirkliche und ganze Wesen des Menschen.
+
+Die Realität , das Subject der Vernunft ist nur der Mensch. Vernunft. ―――
+
+Der Mensch denkt , nicht das Ich , nicht die Die Einheit von Denken und Sein hat nur
+
+Sinn und Wahrheit , wenn der Mensch als der Grund , das Subject dieser Einheit gefaßt wird .
+
+Nur ein reales Wesen erkennt reale Dinge ; nur wo das Denken nicht Subject für sich selbst , sondern Prädicat eines wirklichen Wesens ist , nur da ist auch der Gedanke nicht vom Sein getrennt.
+
+Die Ein heit von Denken und Sein ist daher keine formelle , so daß dem Denken an und für sich das Sein als eine Bestimmt heit zukäme; sie hängt nur ab von dem
+
+Gegenstande , dem Inhalte des Denkens . Hieraus ergiebt sich folgender kategorischer Imperativ : Wolle nicht Philoſoph sein, im Unterschiede vom Menſchen , ſei nichts weiter , als ein den kender Mensch ; denke nicht als Denker , d . h. in einer aus der Totalität des wirklichen Menschenwesens herausgeriffenen und für sich iſolirten Facultät ; denke als lebendiges , wirkliches Wesen , als welches du den belebenden und erfrischenden Wogen des Weltmeers ausgeſeßt bist ; denke in der Eriſtenz, in der Welt als ein Mitglied derselben , nicht im Vacuum der Abstraction , als eine vereinzelte Monade , als ein absoluter Monarch , als ein theilnahmloſer , außerweltlicher Gott [p. 39] dann kannst du darauf rechnen, daß beine Gedanken Ein heiten sind von Sein und Denken * ) .
+
+Wie sollte das Denken als Thätigkeit eines wirklichen Wesens nicht die wirklichen Dinge und Wesen erfassen ? Nur wenn man das Denken vom Menschen abſondert , für sich selbst firirt , entstehen die peinlichen , unfruchtbaren und für diesen Standpunkt unauflös
+
+*) Vergl. F. sämmtl. Werke. I. Bd . S. 256. " Ein wesentlicher Unterschied zwischen Hegel und meiner Wenigkeit besteht darin , daß Hegel Professor der Philosophie war , ich aber kein Professor , kein Doctor bin, Hegel also in einer akademischen Schranke und Qualität , ich aber als Mensch, als purer , blanker Mensch lebe, denke und schreibe. Die we fentliche Tendenz der philosophischen Thätigkeit kann überhaupt keine andere mehr sein , als die , den Philosophen zum Menschen , den Menschen zum Philosophen zu machen. Der wahre Philosoph ist der universelle Mensch der Mensch, der für alles wesentlich Menschliche Sinn und Verstand , also den Sinn und Verstand der Gattung hat. Die Philosophie soll nicht die Wissenschaft einer besonderen Facultät, keine abstracte Qualität sein ; sie soll das ganze Wesen des Menschen , alle Facultåten in sich fassen. Zum Philosophen gehört daher nicht nur der actus purus des Denkens , sondern auch der actus impurus oder mixtus der Leiden schaft , der sinnlichen Receptivität , die uns allein in den universalen Conflur der wirklichen Dinge versest. Die Philosophie als Sache einer besonderen Facultät , als Sache des bloßen abgesonderten Denkens iſolirt und entzweit den Menschen ; sie hat daher die übrigen Facultäten noth wendig zu ihrem Gegensaße. Nur dann erst wird die Philosophie von diesem Gegensatze frei, wenn sie den Gegensatz zur Philosophie in sich selbst aufnimmt. Es ist allerdings eine Thatsache , daß es bereits so weit gekommen ist bei uns , daß Philoſophie und Professur der Philosophie absolute Widersprüche sind , daß es ein specifisches Kennzeichen eines Philosophen ist , kein Profeffor der Philoſophie zu sein , umgekehrt ein specifisches Kennzeichen eines Profeſſors der Philosophie , kein Philosoph zu sein. Über der Philosophie gereicht dieſe humoriſtiſche Thatsache nur zum Vortheil. Dadurch , daß die Philoſophie vom Catheder herab gestiegen , ist sie eben åußerlich, factisch schon über die armseligen Schranken einer Facultåtswiſſenſchaft erhoben , ist sie nicht mehr zu einer bloßen Professorangelegenheit, sondern zur Sache des Menschen , des ganzen freien Menschen gemacht. Mit dem Austritt der Philosophie aus der Facultät beginnt daher eine neue Periode der Philosophie. Dank den Reactionen gegen die Philoſophie ! Sie haben die Philosophie wieder auf ihren ursprünglichen Boden verseht , auf den antediluvianischen und folglich ante und antitheologischen Boden des Paradieses , wo mit dem ersten Menschen auch der erste Philoſoph geboren wurde. Die neue Periode der Philoſophie beginnt mit der Incarnation der Philosophie. Hegel gehört in das alte Testament der neuen Philosophie. Hegel überwindet das Wesen der Philosophie als einer abstracten Philosophie , aber selbst nur in abstracto ; es ist nicht überwunden ; er selbst ist noch im Schola fticismus befangen. Die mensch gewordene Philosophie ist allein die positive , d . i. die wahre Philosophie. Die einfachsten Wahrheiten ſind es gerade, auf die der Mensch immer erst am spätesten kommt. So ging dem einfachen Copernikanischen Systeme das verwickelte Ptolemåiſche System voran,"
+
+[p. 40] Lichen Fragen : wie das Denken zum Sein , zum Object komme ? Denn für sich selbst firirt , d . h . außer den Menschen gefeßt ist das Denken außer allem Verbande und Zuſammenhange mit der Welt.
+
+Zum Object erhebst du dich nur dadurch , daß du dich dazu erniedrigst , selbst Object für Anderes zu sein. Du denkst nur , weil deine Gedanken selbst gedacht werden können , und sie sind nur wahr , wenn sie die Probe der Obs jectivität bestehen , wenn sie der Andere außer dir , dem sie Object sind , auch anerkennt ; du ſiehſt nur als ein ſelbſt ſicht bares , fühlst nur als ein selbst fühlbares Wesen.
+
+Offen steht die Welt nur dem offnen Kopf, und die Oeffnungen des Kopfs sind die Sinne.
+
+Aber das für sich isolirte, in sich verschlossene Denken , das Denken ohne Sinne , ohne den
+
+Menschen , außer dem Menschen ist absolutes Subject , das für Anderes nicht Object ſein kann und sein soll , aber eben deswegen auch troß aller Anstrengungen nun und nimmermehr einen Uebergang zum Object , zum Sein findet ; so wenig , als ein Kopf, der vom Rumpf abgetrennt ist , einen Ueber gang findet zur Beſizergreifung eines Gegenstandes , weil die Mittel, die Organe des Ergreifens fehlen. " * ) Was wir von diesen Forderungen zu halten haben , des darf nach dem Vorigen kaum eines weiteren Zusages .
+
+Frei lich ist es der ganze Mensch , welcher denkt und welcher an schaut ; allein haben wir nicht die innere Beziehung zwiſchen Denken und Empfinden begriffen , so mögen wir es noch so laut accentuiren , daß nur der ganze Mensch der wirkliche, und das Wirkliche erfassende sei ―――― für unsern Begriff bleibt dabei der Mensch doch immer nur der äußere Compler verschiedener Thätigkeiten , der Ort , an welchem Denken und Empfindung zufälliger und unbegreiflicher Weise zusammen ſind .
+
+Dem imponirenden kategorischen Imperativ müſſen wir offenbar nach Feuerbachs Principien diesen zweiten gegenüber * ) Ebend . §. 51. u. §. 52.
+
+[p. 41] stellen: Schaue nicht an in einer besondern Faculiát !
+
+Denn dort hast du wohl Profefforen der Philosophie um dich , aber keine Philosophie , kein reines , ächtes , menschliches Denken Beobachte nicht durch das Mikroscop , sammle nicht aus allen: Regionen der Erde die Steine , Pflanzen und Thiere , dar unter die widerlichsten Würmer , welche dem unverdorbenen: Sinn Vomiren erregen , zerschneide nicht die Leichname deiner Nebenmenschen , erperimentire nicht und spanne die Natur auf die Folter !
+
+nein , schaue an als purer blanker Mensch , mit deinen natürlichen Augen, wie Adam im Paradieſe es schon gethan hat.
+
+Ihr aber , die ihr nicht Profeſſoren der Philosophie seid , von denen also zu präſumiren ist , daß ihr als wirkliche Philosophen euer Denken nicht als solches ausges. bildet habt , hütet euch , daß ihr es nicht macht wie unter Andern Ludwig Feuerbach ! Fragt nicht nach Principien, stellt nicht Grundsäße auf für eine Philosophie der Zu funft , empfindet , schauet an , nicht in pöbelhafter sondern immerhin in gebildeter Weise , aber macht diese gebildete Empfindung nicht zum Princip !
+
+Dies thut die Empfindung entschieden nicht , sondern nur das Denken als solches ; ihr seid also mit dieser That aus dem Paradiese herausgetreten, habt euch in die Region des principiellen isolirten Denkens begeben und qualificirt euch zu Professoren der Philosophie. Unter den folgenden Paragraphen ist S. 54 der einzige, welcher wenigstens Anstalt dazu macht , die entgegengeseßten Bestimmungen von Denken und Empfinden zu einer inner lichen Einheit zu verbinden.
+
+"/ Der Mensch unterscheidet sich keineswegs nur durch das Denken von dem Thiere.
+
+Sein ganzes Wesen ist vielmehr sein Unterschied vom Thiere.
+
+Aller dings ist der , welcher nicht denkt , kein Mensch , aber nicht weil das Denken die Ursache , sondern nur , weil es eine nothwendige Folge und Eigenschaft des menschlichen Wesens ist:
+
+Wir brauchen daher auch hier nicht über das Gebiet [p. 42] der Sinnlichkeit hinauszugehen , um den Menschen als ein über den Thieren stehendes Wesen zu erkennen. Der Mensch ist kein particuläres Wesen , wie das Thier , sondern ein universelles , darum fein beschränktes und unfreies , sondern uneingeschränktes , freies Wesen , denn Univerſalität, Un beschränktheit , Freiheit sind unzertrennlich .
+
+Und diese Frei heit existirt nicht etwa in einem besondern Vermögen , der Denkkraft , der Vernunft - diese Freiheit , diese Universalität erstreckt sich über sein ganzes Wesen.
+
+Die thie rischen Sinne sind wohl schärfer als die menschlichen , aber nur in Beziehung auf bestimmte , mit den Bedürfniſſen des Thieres in nothwendigem Zusammenhange stehende Dinge , und sie sind schärfer eben wegen dieser Determination , dieser ausschließlichen Beschränkung auf Bestimmtes .
+
+hat nicht den Geruchssinn eines Jagdhundes , eines Raben ; aber nur weil sein Geruchssinn ein alle Arten von Gerüchent umfassender , darum freier , gegen besondere Gerüche indiffe renter Einn ist.
+
+Wo sich aber ein Sinn erhebt über die
+
+Schranke der Particularität und seine Gebundenheit an das Bedürfniß , da erhebt er sich zu selbstständiger, zu theo universeller Bedeutung und Würde : retischer
+
+Sinn ist Verstand , universelle Sinnlichkeit Gei ftigkeit. " * ) Offenbar stehen sich in dieser Reflexion Denken nnd Empfinden nicht mehr als zwei entgegengeseßte , ſich nur åußer lich beschränkende Principien gegenüber ; vielmehr ist die Sinn lichkeit eine in sich selbst allgemeine , somit Denken , und ebenso hat das Denken an und für sich die Sinnlichkeit in ſich.
+
+Und zwar wird hier nicht das Denken zum Moment der Empfindung gemacht , sondern umgekehrt die Empfindung zum Momente des Denkens .
+
+Das Denken ist principielle , die Empfindung in sich fassende Allgemeinheit , ist die Energie *) Ebend. f. 54.
+
+[p. 43] den Gegensatz in sich zu überwinden , ist an und für sich die Einheit seiner und der Empfindung.
+
+Wie wenig wir des rechtigt sind , das hier Ausgesprochene nach seinen wesentlichen Momenten geltend zu machen und zur weiteren Con sequenz zu bringen , zeigen sogleich wieder die folgenden Paragraphen actus purus -
+
+Die Philosophie ist kein absoluter Act , fein ohne Subject - ste ist ein Act des mensch ፡ lichen Subjects .
+
+Folglich muß sie auch das Wesen dieses
+
+Subjects unverstümmelt enthalten und ausdrücken. Der Mensch ist aber kein identisches oder einfaches , sondern wesentlich ein dualistisches , ein thätiges und leidendes , selbstständiges und abhängiges , selbstgenügsames und geſellſchaftliches , theore tisches und praktisches , in der Sprache der alten Philosophie : idealistisches und materialistisches Wesen , kurz , er ist wesentlich Kopf und Herz.
+
+Die Philosophie , als der Ausdruck des menschlichen Wesens ist daher - ihrem formalen Principe Die der Wahrheit ge wesentlich dualistisch. nach mäße Einheit von Kopf und Herz besteht nicht in der Aus löschung oder Vertuschung ihrer Differenz , sondern vielmehr nur darin , daß der wesentliche Gegenstand des Herzens auch also nur in der wesentliche Gegenstand des Kopfes ist der Identität des Gegenstandes . Die neue Philosophie , welche den wesentlichen und höchsten Gegenstand des Herzens , den Menschen , auch zum wesentlichen und höchsten Gegenstand des Verstandes macht , begründet daher eine vernünftige Ein heit von Kopf und Herz , von Denken und Leben. " *)
+
+Daß das Herz des Menschen seinem Wesen nach allgemein , also Verstand sei und somit auch seinem Wesen gemäß zur Alge meinheit sich bilden müſſe — diese Forderung , die wir aus S. 54 ziehen mußten , wird also hier wieder bei Seite ge= worfen.
+
+Der Dualismus von Kopf und Herz wird urgirt.
+
+Der identische Gegenstand thut offenbar zur Lösung dieses *) Ebendaselbst §. 58, §. 59.
+
+[p. 44] Dualismus nicht das Geringſte ; denn er ist ja selbst dua liſtiſch.
+
+Das Subject ist dieselbe unbegreifliche Zuſammen setzung von entgegengeseßten Bestimmungen wie das Object, jedes besteht aus denselben zwei Stücken , und so lange wie die Einheit durch nichts Anderes gefeßt sein soll , als durch diesen doppelten Dualismus , werden Kopf und Herz an dem dualistischen Gegenstande , welchen wir mit einem Namen bezeichnen , wohl ihr entsprechendes besonderes Stück heraus zu finden wiſſen . Der Schluß der Principien fügt zu der Einheit von Denken und Empfinden noch eine andere wesentliche Einheit hinzu , nämlich die Einheit zwischen den einzelnen menschlichen Individuen. ,, Der einzelne Mensch für sich hat das Wesen des Menschen nicht in sich , weder in sich als moralischem, noch in sich als denkendem Wesen .
+
+Das Wesen des Men schen ist nur in der Gemeinschaft , in der Einheit des Men schen mit dem Menschen enthalten ―――― eine Einheit , die sich aber nur auf die Realität des Unterschiedes von Ich und Einsamkeit ist Endlichkeit und Beschränktheit, Ges
+
+Du stützt. ― meinschaftlichkeit ist Freiheit und Unendlichkeit. Der Mensch für ſich ist Mensch (im gewöhnlichem Sinne) ; der Mensch mit Mensch, Die Trinität war die Einheit von Ich und Du ist Gott. das höchste Mysterium , der Centralpunkt der absoluten, Philosophie und Religion .
+
+Aber das
+
+Geheimniß derselben ist das Geheimniß des gemeinschaftlichen gesellschaftlichen Lebens das Geheimniß der Nothwendigkeit des Du für das Ich - die Wahrheit , daß kein Wesen , es sei und heiße nun Mensch oder Gott oder Geist oder Ich , für sich selbst allein ein wahres , ein vollkommenes , ein absolutes Wesen , daß die Wahrheit und Vollkommenheit nur ist die Verbindung, die Einheit von zwei sich wesensgleichen Wesen.
+
+höchste und legte Princip der Philosophi eni st daher die Einheit des Menschen mit dem Men
+
+[p. 45] - die Principien ver Alle wesentlichen Verhältnisse schiedener Wiſſenſchaften , - sind nur verschiedene Arten und schen.
+
+Weisen dieser Einheit.
+
+Selbst der Denkaft kann nur aus dieser Einheit begriffen und abgeleitet werden . " * ) Wie also in den früheren Reflexionen zuerst die Wirklichkeit des Einzelnen dem Allgemeinen gegenüber behauptet wurde , dann aber mit dem Einzelnen das Allgemeine zum wahrhaft Wirklichen verbunden werden sollte , so wird jezt ebenso auch die absolute Wirklichkeit des einzelnen geistigen Individuums geleugnet und gefordert , daß dasselbe mit an deren Individuen sich in Einheit sehe , also zugleich ein All gemeines ſei, um zur wahren objectiven Wirklichkeit zu ge= langen. Wie diese Einheit aber beschaffen darüber er halten wir gar keine nähere Bestimmung .
+
+Sollen wir sie uns den allgemeinen Principien entsprechend denken , so kann sie nur eine solche Einheit sein , in welcher die Allgemeinheit und Individualität ſich äußerlich beschränken und ſuppliren. Also nur eine abstract rechtliche , contractliche Einheit. Die Individuen verbinden sich , und verhalten sich somit all gemein , denkend , allein dieſe Verbindung ist keine principielle, in sich nothwendige , die Subſtanz der Individuen erfaſſende, vielmehr bezieht sie sich nur auf die Aeußerlichkeit des Individuums , auf seine äußeren Bedürfnisse ; wie die Willkühr der Individuen die Verbindung schloß , so hebt sie die Will führ und das Belieben der Individuen auch wieder auf.
+
+hierdurch beweisen die Individuen , daß ihnen die gebildete Empfindung das allgemeine Princip . des Wiſſens und Wollens ist. Denn sie erheben sich zum Allgemeinen , er kennen dasselbe an , geben diesem aber nie den Werth einer objectiven Nothwendigkeit , sondern ihre Empfindung behält sich immer das Recht vor , ihre Selbstständigkeit dem Allge )
+
+*) Ebendaselbst §. 61 , §. 62 , § . 65.
+
+[p. 46] meinen gegenüber geltend zu machen und das Gefeß als ein despotisches zu verwerfen. Wie verhält es sich nun mit der eigenthümlichen Tendenz der Feuerbachschen Philosophie ? welchen Sinn , welche Bedeutung hat sie ? und welche historische Berechtigung ? Die allgemeine wesentliche Aufgabe der Philosophie ist die Verwandlung und Auflösung der Theologie in die Anthropologie.
+
+Die neue Philosophie macht den Menschen mit Einschluß der Natur , als der Basis des Menschen , zum alleinigen , universellen und höchsten Gegenstand der Philosophie die Anthropologie alſo , mit Einſchluß der Phyſio logie, zur Univerſalwiſſenſchaft. ” *) · Um_die_hiſtoriſche Noth wendigkeit dieser Tendenz zu zeigen , knüpft Feuerbach ausdrücklich an Hegel an , und zwar nicht an das Ende des ganzen Systems , sondern an das Ende der Logik.
+
+Hier befindet sich nun aber zunächſt Feuerbach nicht im Widerspruch, ſondern im Gegentheil in dem vollkommensten Einverständniß mit der Hegelschen Philosophie , wenn er die Natur als die wahre Wirklichkeit dem logischen Gedanken gegenüber stellt. Allerdings ist der logische Gedanke auch in seiner concretesten Form abstract , weil der Unterschied nicht als solcher in ihm gesezt ist.
+
+Die Natur ist die Wahrheit des a logischen Gedankens , indem in ihr der Unterschied als solcher gesezt , zur Wirklichkeit des räumlichen Außereinanderseins gekommen ist. Die Dialektik verliert allen Sinn , wenn dies nicht einges standen wird.
+
+Feuerbach drückt sich aber sogleich so aus :
+
+Das Sinnliche ist das wahrhaft Wirkliche , die Empfin bung also , nicht das Denken , die entsprechende Form für das Wirkliche.
+
+Weiter wird nun behauptet , daß in der Hegelschen Philosophie der Raum , die Materie, die Natur über haupt nur negative Bedeutung habe , keine positive ;
+
+eben diese fordert Feuerbach als die wesentliche weitere Entwicke *) Ebendaselbst § . 55.
+
+[p. 47] lung , als die nothwendige Consequenz der Hegelschen Philosophie.
+
+Dem Sinnlichen soll selbstständige , primitive , von der Idee unabhängige Bedeutung gegeben werden ; es soll Subject seiner selbst sein. Mit diesen dürftigen Bestimmungen ist nun freilich nicht viel anzufangen ; es sind Andeutungen , Ansätze zu Gedanken, bei denen man immer wieder fragen muß : wie ist es denn eigentlich gemeint ?
+
+Schon vorher haben wir gesehen , wie
+
+Feuerbach selbst mit dem Einzelnen , Materiellen , auch wieder das Allgemeine ,
+
+Immaterielle , mit der Empfindung
+
+Denken vereinigt wissen will , ohne jedoch , worauf es gerade der Philosophie wesentlich ankommt , die Frage nach der noth wendigen innern Beziehung dieser Gegensätze zu beantworten. Die folgenden Erörterungen sollen die Momente zum Bewußt fein bringen , auf welche es hier wesentlich ankommt , und zugleich zeigen , wie tief und allſeitig die Hegelsche Philosophie jene Gegensätze bereits durchgearbeitet hat. Wenn man das Wirkliche zunächst im Allgemeinen als das Sinnliche bezeichnet , so ist es damit ein Compler von verschiedenen Qualitäten , in denen sämmtlich die unmittelbare Beziehung auf das sinnliche , empfindende Individuum gesezt ist.
+
+Es hat Geruch , Geschmack, Farbe u. s. w.; was dasselbe in seiner Beziehung auf sich selbst ist , und wie sich diese verschiedenen Prädicate , welche ihm das empfindende Subject zuertheilt, an und für sich zu einer Einheit ver binden , bleibt dabei etwas ganz Unbestimmtes .
+
+Stellen wir nun das Sinnliche dem Ideellen als das wahrhaft Wirkliche gegenüber , verlangen wir , dasselbe solle als Subject seiner selbst gefaßt werden , so fragt es sich offenbar vor Allem , was bei dieser Trennung , bei dieser Reinigung des Sinn lichen von allem Jdeellen aus jenem wird. Auch die empirische Reflexion ist sehr geneigt , die Natur im Allgemeinen als das materielle Dasein zu definiren.
+
+Hiermit wäre, [p. 48] genau genommen , alles Geistige , Ideelle , Immaterielle aus der Natur ausgeschlossen ; die empirische Reflexion pflegt aber hieraus nicht Ernst zu machen ; sie bringt es sich nicht zum Bewußtsein , was die Materie für sich , in ihrer Isolirtheit von Allem Anderen sein könnte , und läßt daher in der weiteren Erklärung der materiellen Erscheinungen auf eine durch aus gedankenlose Weise das Ideelle in der verschiedensten Am entschiedensten die Natur eintreten.
+
+Weise wieder in und consequentesten ist die abstract materialistische Ansicht von der Natur von Cartesius durchgeführt.
+
+Cartesius stellt die Materie substanziell dem Geiste gegenüber ; d . h. , sie ist ein Wesen für sich , kann ohne den Geist existiren und gedacht werden.
+
+Durch diese Loslösung von allem Geistigen erhält aber weiter die Materie das wesentliche Prädicat der Ausdehnung .
+
+Der Körper ist ein räumlich Ausgedehntes, nichts weiter als dies ; es ist in ihm als dem abstracten Gegentheil des sich ſelbſt setzenden , sich in ſich unterscheidenden Geistes keine Kraft , fein Streben , keine Activität anzunehmen ; er ist das schlechthin träge Sein , das Außersichsein , welches ohne eigene Thätigkeit daliegt , sich nicht in sich zusammenfaßt , sich nicht selbst seßt.
+
+Ist aber die Ausdehnung das allgemeine Wesen , die Substanz des Körpers , so kann es auch in der Welt der körperlichen Erscheinungen nichts Anderes geben, als verschiedene Weisen ,
+
+Gestaltungen der Ausdehnung.
+
+Modificationen ,
+
+Unmittelbar in dem Begriffe des Ausgedehnten liegt die Möglichkeit , daß daſſelbe in verschiedener Weise getheilt werde ;
+
+das Ausgedehnte kann also der Größe und der Gestalt nach verschieden sein. die verschiedenen Körper ihr örtliches Verhältniß zu einander verändern , d. h. , sie können sich des
+
+Ferner aber können wegen , und zwar in verschiedener Geschwindigkeit, und nach verschiedenen Richtungen hin .
+
+Dies sind ein fach die verschiedenen Momente , welche der Begriff des Körpers [p. 49] darbietet.
+
+Streng festzuhalten ist dabei , daß in allen diesen
+
+Unterschieden der Körper sich nicht selbstbestimmend verhalten kann.
+
+Also der Körper theilt sich nicht selbst, gestaltet sich nicht selbst und bewegt sich nicht durch ſich ſelbſt ; vielmehr ist er als das schlechthin träge Sein immer nur die Möglich feit, von außen getheilt , gestaltet und bewegt zu werden. Sehen wir daher von der absolut ersten Gestaltung und Bewegung ab , welche Cartesius unmittelbar von Gott ableitet, so ist die einzige natürliche Gewalt , durch welche die ver ſchiedenen Erscheinungen gesetzt werden , der Stoß.
+
+ihn wird der Körper aus der Ruhe in die Bewegung , und aus der Bewegung in die Ruhe versezt ; durch ihn wird der Körper zertheilt , zerrieben , somit auch in verschiedener Weise gestaltet.
+
+Natürlich hat der stoßende Körper seine Bewegung ebenfalls von außen durch den Stoß erhalten , ebenso auch feine bestimmte Gestalt und Größe ; der Stoß führt so un mittelbar auf einen Progreß in's Unendliche , und innerhalb der Körperwelt selbst ist kein abſolut erster Anfang zu finden. Wie Gott diesen Anfang sehen und unmittelbar in die Ma ―――― da Gott immaterielle Substanz terie eingreifen fann , bleibt und der Materie ihrem Begriffe nach nur äußerlich beizukom men ist schlechthin unbegreiflich. Cartesius läßt sich die Mühe nicht verdrießen , alle be kannten Erscheinungen der Natur auf diese abstracten Principien zurückzuführen , und ſie ſomit mechanisch zu erklären. Natürlich ist dies nicht ohne die complicirtesten Hypothesen möglich .
+
+Eine wesentliche Schwierigkeit entsteht aber schon in der Erklärung des Processes , welcher hier der wichtigste oder vielmehr der einzige ist , nämlich in der Erklärung der Stoß bewegung.
+
+Cartesius selbst wird in der Lehre von der
+
+Stoßbewegung auf Reſultate geführt , die theilweise der Erfahrung widersprechen ; er würde mit der Erfahrung in einen noch viel grelleren , in einen allseitigen Widerspruch treten , [p. 50] wenn er sich die Consequenzen seiner Principien vollständig zum Bewußtsein brächte.
+
+Den Principien
+
+Carteſius jedes Streben des Körpers , gemäß verwirft weil dies als ein geistiges Moment in der Ausdehnung als solcher nicht ent halten ; andererseits aber behauptet er , daß die Kraft des Körpers , einen andern in Bewegung zu ſehen und der Thâ tigkeit desselben Widerstand zu leisten , in dem Streben des stehe , den Zustand , in welchem er sich befindet , unverändert festzuhalten * ) .
+
+Ohne dieſe den Principien widersprechende
+
+Annahme wäre die Stoßbewegung undenkbar.
+
+Denn der
+
+Körper zeigt in der Stoßbewegung eine Thätigkeit , eine Kraft, einerseits einen andern in Bewegung zu sehen und anderer seits dieser Thätigkeit zu widerstehen ; die Körper wirken auf einander.
+
+Ist die Räumlichkeit das Wesen des Körpers , so ist er schlechthin ohne alle Thätigkeit ; ich darf von ihm durch aus nicht behaupten , daß er ſich wesentlich anders verhält als im Raume seiend und den Ort äußerlich verän dernd ; er ist nie sich selbst sezend , nie energisch sein Sein behauptend , weder in der Ruhe , noch in der Bewegung. Offenbar würde hiermit die mechanische Wirkung der Körper auf einander , und somit die Erscheinung des Stoffes über haupt ganz fortfallen.
+
+Die Kraft, welche der Körper im
+
+Widerstande gegen einen anderen zeigt , ist wesentlich dieselbe als mit welcher er den andern in Bewegung seßt ; denken wir uns die Körper ohne diese Kraft , sie würden weder Widerstand leisten , noch in Bewegung setzen.
+
+Was hier dem Cartesius , das begegnet der empirischen Reflexion bis auf die Gegenwart hinauf in vollem Maße. Zuerst werden allgemeine Erklärungen über die Materie ge geben , die rein mechanischer Art sind ; die Materie wird ge faßt als das schlechthin träge , kraftlose Sein. Dann aber in dem weiteren Verlauf, wo es darauf ankommt , bestimmte *) Schaller, Gesch. d . Naturphil . I , S. 284 , 303.
+
+[p. 51] Erscheinungen zu erklären , werden dieſer trägen Materie Kräfte verschiedener Art beigelegt.
+
+Seit Newtons Entdeckung der
+
+Gravitation ist es besonders die Kraft der Anziehung , welche man und zwar ohne die Newtonſche Beschränkung 1— der
+
+Materie zugesteht ; hierzu tritt vor Allem die Kraft der Abstoßung , und beide Kräfte zusammen bilden den allgemeinen Grund der verschiedenen Erscheinungen der Polarität.
+
+Offen bar ist ein Körper , welcher in den wesentlichen Gegensatz der Polarität verwickelt ist , nicht mehr blos räumlich ausgedehnt ; denn er hat als positiv oder negativ die andere Seite des Gegensaßes ideell in sich selbst, ragt also über sein răum liches Sein hinaus zu einem andern Sein hin , ist nicht blos hier, sondern in demselben Momente auch dort , wo er räum lich nicht ist.
+
+Darum hat er auch das Streben über sich hin aus , in sich selbst wird nicht durch den äußeren Stoß in Bewegung gesezt , sondern durch den ihm immanenten Wider spruch, an sich das Ganze und doch nur eine Seite desselben zu sein. Jeder chemisch beſtimmte Körper ist daher als solcher - wollen wir diese chemische Bestimmtheit nicht wieder mechanisch erklären ――― wesentlich zugleich immateriell ; er hat in feiner specifischen Bestimmtheit die wesentliche Beziehung auf ein Anderes an sich , also das , was er räumlich nicht ist. Nicht minder ist auch der Körper immateriell , welcher einen chemischen Gegensatz in ſich umfaßt; denn er ist nicht blos das äußerliche Nebeneinander verschiedener Stoffe , sondern die Energie , dieselben zuſammenzuhalten , ihnen ihre Selbst ſtändigkeit zu nehmen ; die Trägheit der räumlichen Ausdehnung, d. h. , die abstracte , alle Idealität ausschließende Materialität ist diese Energie entschieden nicht.
+
+Vollends aber, wenn man den Körper als einen lebendigen faßt , als un theilbares sich in sich selbst zusammenhaltendes Ganze , so ist offenbar die Idealität mitten in die Materie eingetreten ; das Untheilbare ist als solches schon ideell ; als lebendiges Indi 4* [p. 52] viduum ist es aber auch Subject für sich , es ist Selbstempfindung , also die reale , als solche gesezte Negation des
+
+Außereinander. Offenbar ist es gedankenlos , die beiden Momente der Materialität und Idealität nur äußerlich oder unvermittelt mit einander zu verbinden.
+
+Alſo zunächst die Materie so zu faſſen , daß sie alle Immaterialität ausschließt , also als träge, schlechthin energieloſe Ausdehnung , und dann doch Prädicate ihr beizulegen , Processe gelten zu lassen , welche Thätigkeit, Idealität ausdrücken.
+
+Sind die Körper ihrem Wesen nach nichts weiter als eine träge Masse , so sind sie nicht schwer, sie ziehen sich nicht an , sie stehen nicht im polaren Gegensaß ; mag dies immerhin ſo aussehen , es ist doch schlechthin un möglich, dem Begriffe des Körpers widersprechend , also ein bloßer Schein, eine Täuschung des beobachtenden Subjects. Auch ist nichts damit geholfen , wenn die Gegensätze nur ab geschwächt werden ; wenn man also etwa sagt :
+
+die Materie ist räumlich ausgedehnt , allein darin geht sie nicht auf, dies ist nicht ihre allgemeine wesentliche Bestimmung ; vielmehr ist auch ein ideelles Moment , eine Thätigkeit in ihren Be griff mit aufzunehmen.
+
+Offenbar ist dadurch , daß der Aus dehnung nicht mehr der Werth der wesentlichen Allgemeinheit beigelegt wird , noch immer nicht erkannt , wie eine Thätigkeit mit ihr verbunden sein kann ; immer habe ich verschiedene Momente in der Materie zuſammen , und so lange ich in dem einen nicht die innere Möglichkeit des andern nachweiſe , bleibt die Materie , nach wie vor , ein innerer unaufgelöster Widerspruch.
+
+Die speculative Naturbetrachtung hat im Wesentlichen keine andere Aufgabe , als eben diesen Gegenſaß des
+
+Materiellen und Ideellen wirklich zu lösen.
+
+Sie zeigt also, daß das Materielle für sich ein in sich selbst Unvollſtändiges, Haltungsloses , eine blos subjective Abstraction ist; daß das selbe seinem Begriffe nach ein Moment eines Anderen nur [p. 53] zur Eriſtenz komme in dieſer ſeiner eigenen Negation.
+
+so ist aber auch das Ideelle nur als die Thätigkeit , sich selbst zu ſehen und das Materielle als sein eigenes Nichtſein zu überwinden , in dieser Energie wahrhaft wirklich.
+
+Mates rielles und Ideelles fommen also nicht äußerlich , als zwei fertige selbstständige Principien zuſammen , um sich äußerlich an einander abzureiben , sondern sie sind in wesentlicher innerer Beziehung , in dem Begriffe des Einen liegt auch der Begriff des Andern , d . h. , es sind Momente eines in sich concreten Processes.
+
+Eben dieser Proceß des Materiellen ſich zu im materialiſiren , oder des Ideellen sich in jedem Momente durch Negation seiner eigenen Unmittelbarkeit hervorzubringen , ist das wahrhaft Wirkliche.
+
+Nirgends , in der ganzen Natur , giebt es bloße , von aller Idealität getrennte Ausdehnung ; und eben so wenig giebt es eine isolirte Idealität , oder einen Proceß , in welchem sich das Ideelle aus seinem Außersich fein schlechthin herauszieht , dieſem entgegenseßt und als solches für sich ist. Diesen Begriff der realen , concreten Idealität führt
+
+Hegel in der Naturphiloſophie durch seine wesentlichen dia. lectischen Stationen durch.
+
+Sicherlich ist diese Durchführung eine vielfach unvollkommene ; allein diese Unvollkommenheit liegt entschieden nicht in dem Principe , sondern in der Dar stellung desselben.
+
+Wie Materielles und Ideelles überhaupt
+
+Momente eines Begriffes sind , so kommt es auch in der be ſondern Durchführung der ſich dialectisch steigernden Idealität vor Allem darauf an , daß an dem bestimmten Außersichsein selbst die ihm immanente Negation und innere Beziehung zu der bestimmten Jdealität aufgewiesen werde.
+
+Die Dialectik beginnt z . B. mit der abstractesten Form des Außersichſeins, mit dem Raum.
+
+Hegel zeigt , wie in dieſem räumlichen Außer sichsein selbst die Idealität zunächst in der abstractesten Weise hervorbricht , in dem Punkt.
+
+Der reale beſtimmte Raum ist [p. 54] undenkbar ohne Punkt und doch ist der Punkt ſelbſt unaus gedehnt , unräumlich , die Negation des Raumes im Raume selbst.
+
+Erst durch diese Negation wird der Raum ein bestimmter , allseitig determinirter ; zugleich ist aber dieſe Determination im Raume selbst eine haltungslose , nur momentane ; keine Bestimmtheit vermag sich schlechthin zu firiren , ſich abzuschließen gegen die andere , vielmehr fallen die abſtract räumlichen Umgrenzungen immer wieder in einander und in die Unbestimmtheit zusammen.
+
+Hiermit zeigt sich der Raum als ein in sich selbst Unvollständiges , für sich allein nie zur Realität Gelangendes .
+
+Der Begriff des Raumes weist daher an und für sich zu einer Gestalt hinüber, in welcher eben diese innere Unbestimmtheit des Raumes , diese Negation aller räumlichen Beſtimmtheit wirklich gesetzt , ausgeführt iſt.
+
+Dieſe erste allgemeine Negation der räumlichen Bestimmtheit ist die Zeit.
+
+Vorstellen mag ich mir den Raum wohl ohne die Zeit, aber unmöglich kann ich ihn ohne die Zeit denken . den Begriff des Raumes muß
+
+Denn in ich nothwendig aufnehmen , daß er in und durch sich selbst nie zur bestimmten Umgrenzung kommt und doch nur wirklich ist in dieſer Umgrenzung ; d. h. , der Raum ist in sich selbst unwirklich und ich denke ihn nur dann der Wirklichkeit gemäß , wenn ich zugleich seine Negation denke.
+
+Die Zeit ist eine höhere concretere Idea, lität als der Punkt ; denn der Punkt ist die schlechthin abstracte dimensionslose Negation des Raumes , welche dem Raum selbst immanent der Anfang und das Ende der be stimmten Raumbegrenzung ist ;
+
+die Zeit dagegen nicht
+
+Moment im Raume , sondern durch die specifische Bestimmt heit ihrer Dimensionen zugleich für sich und frei vom Raume. Allein auch die Zeit weist durch ihre eigene Aeußerlichkeit über sich hinaus .
+
+Denn ähnlich wie der Raum so kommt auch die Zeit nie zur bestimmten Realität in ſich ſelbſt ; Vergangenheit, Gegenwart und Zukunft fließen immer zur un [p. 55] terschiedslosen Identität zusammen , während die Zeit nur wirklich ist in dem bestimmten Unterschiede dieser Momente von einander.
+
+Das Werden , in welchem das Entstehende unmittelbar dasselbe ist als das Vergehende , ist eben darum kein Werden.
+
+Die Zeit für sich ist also ebenfalls der Wider
+
+1 spruch ihres Begriffs und ihrer Existenz ; eben darin liegt ihre Endlichkeit , die Aeußerlichkeit ihrer Idealität.
+
+diese Dialektik zeigen sich Raum und Zeit als Momente eines höheren concreteren Proceſſes, nämlich der Bewegung. Dieſe iſt die Idealität des räumlichen und zeitlichen Außersichſeins, die negative Einheit beider. Zunächst aber ist die Bewegung abstract, das bloße zeitliche Werden des bestimmten Raumes, die Ortsver änderung.
+
+Eben diese Abstraction ist es wieder, an welcher die
+
+Nothwendigkeit einer höhern Idealität, der Schwere, hervorbricht.
+
+Sieht man nicht auf diesen besonderen Verlauf der Dialektik, bleibt man also nur ſtehen bei dem abſtracten Ausdruck, die Natur sei die Idee in ihrem Anderssein , so kann es freilich nicht fehlen : man bringt Idee und Anderssein nur äußerlich zusammen , d. h. man stellt die Einheit dieser Momente nur vor, und kommt nie zum Begriffe der wirklichen concreten Idealität.
+
+Denn der besondere Verlauf der Dialektik iſt eben die Ausführung , der wirklich gesetzte Begriff, der Beweis jener abstracten , vorläufigen Bestimmung.
+
+Indem man das
+
+Anderssein der Idee in seiner bestimmten Wirklichkeit nicht kennt, so wird man geneigt sein , die Idee immer nur logisch zu fassen , sich also vorzustellen , als käme in der Naturphilosophie zu den Kategorieen der Logik nichts weiter hinzu , als eine äußere Form, durch welche aber keine weitere Vertiefung und Concretion der Idee in sich selbst gesetzt wäre in der Logik begreift Hegel die Idee wesentlich als Proceß , als das Negiren der Unmittelbarkeit , der einfachen Beziehung auf sich ; vollendet ist der Begriff der Idee erst in dem Begriffe der unendlichen Vermittelung , als der vollständigen Negation [p. 56] der Unmittelbarkeit , des Nichtseins der Idee in sich selbst. Durch dies negative Moment , welches sich durch die ganze Logik hindurchzieht , ist der Uebergang in die Naturphiloſophie vom Anfange der Logik an vorbereitet ; die innere Abstraction und Unwirklichkeit der logischen Kategorieen, d. h., ihr Mangel an wirklicher Idealität besteht eben darin , daß dies negative Moment nicht als solches gefeßt , der Unterſchied der Idealität in sich nicht die Geſtalt des Unterſchiedes hat.
+
+diese innere Abstraction werden aber die logischen Kategorieen durchaus nicht zu unwahren Gedanken , und es ist sehr über eilt , wenn man Hegel , wie auch Feuerbach thut * ) , den Vorwurf macht , daß er sich in der Logik mit unwirklichen , blos subjectiven Abstractionen zu thun mache.
+
+Daß das Scin eine Abstraction , daß das Etwas nur wirklich ist als mate rielles , allseitig bestimmtes u. s. w . , dies beweist ja die Logik selbst eben dadurch , daß sie über diese abstracten Bestimmungen zu concreteren fortgeht und jene als Momente von dieſen faßt. Will man sich diese Abstraction gar nicht gefallen lassen , vers langt man also , daß auch in der philosophischen Betrachtung die concrete Wirklichkeit nicht in ihre besonderen Momente zerlegt , also nicht ihre Endlichkeit verwirft man an diesen besonderen Momenten selbst und Einseitigkeit damit offenbar nachgewiesen werde , so den philosophischen Beweis überhaupt , und läßt das Denken nie zur bestimmten , klaren Einsicht der concreten Gestalten des Wirklichen gelangen.
+
+Freilich giebt es in der ganzen Wirklichkeit kein allgemeines Werden ; aber sicherlich werde ich kein bestimmtes Werden voll ständig begreifen können , wenn ich mir nicht die Momente zum Bewußtsein bringe, welche im Begriffe des Werdens über haupt liegen ; und gewiß giebt es an und für sich kein des stimmtes wirkliches Werden , in welchem nicht die Momente des allgemeinen Werdens enthalten wären. *) Grundsätze §. 27.
+
+Unwahr wird [p. 57] diese philosophische Abstraction nur durch die Firirung der abstracten Begriffe ; die Dialektik ist aber gerade die bestimm teste Einsicht in ihre Abstraction , das Sezen des Abstracten als eines unſelbstständigen , für sich unwirklichen Moments . Indem in der Natur das negative Moment als solches gesezt ist, so ist eben dadurch auch die Idee als solche, als wirkliche gesetzt.
+
+Die Natur ist also wirkliche Idee.
+
+Da aber ferner durch die ganze Natur hindurch das Ideelle nie dazu fortgeht , das Außersichsein schlechthin zu überwinden , so ist die Natur eben so sehr auch die Idee in ihrem Anders sein.
+
+Wer sich diesem Begriffe opponirt , versuche es doch irgend eine Gestalt der Natur aufzuweisen , in welcher der Proceß der Immaterialiſirung bis zu der Energie hinaufſteigt, als solcher, in der Gestalt der Idealität die Aeußerlichkeit zu beherrschen.
+
+Offenbar ist diese absolute Wirklichkeit der Idea lität erst gesezt in Selbstbewußtsein , im Geiste.
+
+Auch der
+
+Geist aber ist diese Wirklichkeit der Idee nur dadurch , daß er in jedem Momente sich als diese Wirklichkeit seßt.
+
+die ganze Philosophie des Geistes hindurch wird der Geist begriffen als Proceß der Vergeistigung , der Befreiung von der ihm wesentlich immanenten Unmittelbarkeit , Unfreiheit, Geistlosigkeit ; Freiheit ist Proceß
+
+Befreiung.
+
+Aller dings liegt es in dem Begriffe dieses Befreiungsproceſſes, daß der Geist sich als reine, für sich seiende Idealität , als unendliche Allgemeinheit in sich faßt und damit ſeine unmittelbare Natürlichkeit als eine ihm entgegengesette objective Welt aus sich herauswirft ; allein in keiner geistigen Sphäre beibt Hegel bei dieſem abſtracten Idealismus stehen ; vielmehr betrachtet er ihn immer als ein untergeordnetes Moment in dem ganzen Befreiungsproceffe.
+
+Vollendet ist dieser Proceß erst in der Ueberwindung jenes Dualismus , alſo erst dann, wenn der Geist seine freie Selbstbestimmung in die objective Welt einbildet , damit aber auch die Form der Unmittelbarkeit [p. 58] sich wieder 1 aneignet, von welcher er in seiner Entwickelung ―― ausging. Hat man nun dieser Anschauung gegenüber noch ein Recht, die Wirklichkeit des Sinnlichen in Schuß zu nehmen ? Und was soll es heißen , wenn Feuerbach verlangt , dem
+
+Raum , der Materie solle eine positive , eine absolut selbst ständige Bedeutung gegeben , das Sinnliche solle als Subject seiner selbst gefaßt werden ?
+
+Mit der bloßen Behauptung , der Raum sei positiv , ist offenbar nichts geholfen , ich muß vielmehr an dem Raume selbst das Positive aufweisen.
+
+Soll ich denn nun dem bestimmten Raume, diesem bestimmten Orte als solchem die Energie zuschreiben , sich in sich abzugrenzen und gegen einen andern Ort für sich zu sein ? wer zieht denn diese bestimmten Grenzen ?
+
+der Raum als solcher ? oder ist dieser nicht vielmehr die vollkommenste Indifferenz gegen jene Bestimmtheit ? Wenn Feuerbach sagt: ,, Hiersein ist po fitiv ; ich bin nicht dort , weil ich hier bin ; dieſes nicht Dort ſein ist also nur die Folge von dem poſitiven , ausdrucksvollen Hierfein "
+
+so kommt offenbar das Positive , Energische erst durch das Ich in den Raum hinein ; läge es in dem Raume als solchem, so würde es mit der Bewegung schlecht aussehen . Den positiven , energischen , sich selbst sehenden Raum nennt Hegel Repulsion; sie ist ein wesentliches Moment der Schwere, und der schwere Raum, der Körper , ist freilich schon ein energisches , wenn auch noch sehr abstractes Hierſein ; damit ist aber auch entschieden schon eine Idealität in den Raum einge treten, und der Raum als solcher, der reine abstracte Raum ist zu einem Momente geworden. Ist der Raum für sich positiv, in dem Sinne positiv, daß ich mich der Negation deſſelben als einem abstract idealistischen Gedanken widerseße , so ist es schlechthin unmöglich , den Körper als schwer , als specifisch bestimmt , als lebendig zu fassen. Ist der lebendige Körper ein untheil bares Ganze , so hat in ihm sicherlich der Raum als solcher, [p. 59] keine schlechthin positive Bedeutung mehr ; denn das Ganze, mag es immerhin auch räumlich sein , ist doch als solches zugleich unräumlich ;
+
+behandle ich dasselbe als blos räum lich , theile ich es z . B. , wie ich den Raum beliebig zertheilen
+
+· kann, ohne ihm ein Leids anzuthun , so zerstöre ich das Individuum.
+
+Als schlechthin positiv seße ich den Raum dann, wenn ich wie Cartesius alle Erscheinungen der Natur auf Modificationen des Raumes zurückführe , wenn ich den Raum dem Geiste gegenüber als ein Wesen für sich , Substanz betrachte.
+
+Dadurch verfalle ich aber in den ein fachen Widerspruch , in demselben Momente , in welchem ich die primitive Selbstständigkeit des Räumlichen behaupte , aus dem Begriffe desselben alle Selbstständigkeik zu streichen.
+
+Ohne alle immanente Idealität ist das Räumliche das schlechthin träge , paſſive , von außen beſtimmbare , sich selbst nicht be stimmende Sein.
+
+Positiv , Subject seiner selbst ist das Materielle nur als Negation seiner selbst , durch die ihm imma nente Idealität die selbstständige Materie ist die wirkliche materielle Jbee.
+
+Das eine Moment für sich ist so unselbstständig wie das andere ; das wirklich Selbst ständige ist nur dasjenige , welches die Unſelbſtſtändigkeit that sächlich und in jedem Momente überwindet , also diese Ne= gation , dieses Gegentheil seiner selbst , dies Außersichſein immer als den Beweis seines Sieges in sich umfaßt. meint Feuerbach - ist das Außerein " Bei Hegel ― andersein eine negative Bestimmung , weil es das Außereinander dessen ist , was nicht außer einander sein soll - weil der logische Begriff, als die abſolute Identität mit sich , für die Wahrheit gilt - der Raum geradezu die Negation der Jdee , der Vernunft , in welche daher auch nur dadurch wie der Vernunft gebracht werden kann , daß sie negirt wird . “ Allerdings ist der Organismus ein Außereinander , welches nicht außer einander sein soll ; der Organismus führt dies
+
+[p. 60] Sollen in jedem Momente auch aus , ist immer das Sezen und Aufheben des Außercinander ; er ist wirklich unräumlich nur dadurch, daß er den Raum negirt , wirklich immateriell nur dadurch , daß es aus der Materie ein Immaterielles macht, aus dem Theilbaren ein Untheilbares .
+
+Dies hat aber nicht den Sinn , als solle dies Außereinander schlechthin fort fallen , als könne und solle die Seele eigentlich ohne råum liches Außereinander existiren.
+
+Ebenso ist auch die logische
+
+Idee eben darum nicht wirkliche Idealität , weil sie nicht wirklicher Unterschieb ist ; die wirkliche Idealität ist das Negiren des wirklichen Unterschieds.
+
+Dieser Unterschied , die Aeußer lichkeit als solche ist daher so nothwendig , wie die Einheit der Idee mit sich ; er kann und soll also nicht nicht ſein ; auch kommt nicht erst durch die Negation desselben Vernunft in ihn hinein , sondern die Vernunft ist vielmehr eben dieser Proceß der Negation selbst , das wirkliche Sezen ihrer selbst, das mächtige , energische Idealiſiren des Nichtidealen.
+
+dadurch verfallen wir in einen abstracten Idealismus , daß wir " dem Sinnlichen eine absolut selbstständige , göttliche, primitive , nicht erſt von der Idee abgeleitete Bedeutung geben.“ Denn hiermit fällt das negative Moment aus der Idee selbst heraus , und diese wird zur abſtracten Idealität in sich ohne gefeßten realen Unterschied.
+
+Wie Feuerbach an Hegel an knüpfend den Realismus geltend macht , so bleibt die Idee immer neben dem Realen als die eine Seite des Wirklichen bestehen .
+
+Wollten wir dieſe in ſich abſtracte Idealität schlecht hin fortwerfen , das Sinnliche also als das einzig Wirkliche, Göttliche , An und für sich seiende betrachten , so käme es eben darauf an , nicht bei der bloßen Behauptung ,
+
+Sinnliche sei das Selbstständige , stehen zu bleiben , sondern dasselbe wirklich als das schlechthin Sichſelbſtſeßende , als ab= ſolute Vermittelung mit sich zu begreifen .
+
+Soll dieser Proceß ohne realen Unterschied in ſich gedacht werden , so hätten [p. 61] wir damit wieder die abstracte Idealität , der wir durch die Realität des Sinnlichen entfliehen wollen ; ist dieser Proceß aber wirkliche , in dem Negiren seiner selbst sich ausfüh rende Selbstständigkeit , so ist er eben nichts Anderes , als der in der Hege ſchen Philosophie entwickelte Begriff der realen Idealität.
+
+Allerdings ist das Unendliche nichts Anderes , als das selbstständige, sich selbst sezende Endliche ; denn diese Selbst ständigkeit ist unmittelbar auch Negation des Endlichen ; allein eben dies ist die Frage , ob diese Selbstständigkeit eine blos behauptete oder begriffene , ob also das Unendliche wirklich als die durchgeführte Negation des Endlichen gefaßt iſt. In dem zweiten Bande von Feuerbachs gesammelten
+
+Schriften finden wir eine Abhandlung : wider den Dualismus von Leib und Seele , Fleisch und Geist , welche zur Erläuterung der Grundsäße der Philosophie dienen soll.
+
+Der Dualismus , gegen welchen Feuerbach hier pole miſirt , gehört überwiegend einer gegenwärtig antiquirten Anschauung an.
+
+Die Hegelsche Philosophie ist sehr entschieden über einen solchen Dualismus hinaus ; auch wendet sich Jeuer bach nicht ausdrücklich gegen Hegel , ſondern sucht ſeine Feinde in ,, der Ersch und Gruberschen Encyklopädie und anderen bekannten Psychologien."
+
+Die Scheu vor logischen Kategorieen läßt es in der ganzen Abhandlung zu keinem bestimmten Begriff der Sache kommen ; die Einheit von Leib und Seele wird nach den verschiedensten Seiten , in den verschiedensten Wendungen aufgewiesen , allein die specifischen Momente des Empfindens , des Denkens werden nie genau - auch nicht einmal durch eine analysirende Reflexion ― bestimmt. Am conciseften drücken den speculativen Begriff der Sache folgende Stellen aus : „ Wenn man “ heißt es
+
+, den organischen
+
+Leib auf abstracte materialiſtiſche Bestimmungen , wie auf die Bestimmung eines zusammengefeßten , theilbaren Dinges res ducirt , so ist es freilich nothwendig , die dieser Bestimmung [p. 62] und Vorstellung widersprechenden Erscheinungen des orga= nischen Leibes aus einem besondern fingirten Wesen von entgegengesetzten Eigenschaften zu erklären. Aber diese Eigenschaften hat schon der organische Leib als Leib in sich. Er ist troß der Vielheit seiner Theile eine individuelle organische Einheit.
+
+Diese organische Einheit ist das Princip der
+
+Vorstellung und Empfindung .
+
+Allerdings kann er zerlegt werden , aber mit dieser Zerlegung hört er auf, organischer, lebendiger Leib zu ſein , ist er nicht mehr , was er war.
+
+Nur mit dem Tode versinkt er in die Kategorie eines zusammen gefeßten , theilbaren Dinges . “ * )
+
+Auch in Bezug auf den
+
+Geist wird hervorgehoben , wie der Unterschied des Menschen vom Thiere in der Univerſalität , in der allgemeinen Harmonie seiner Empfindungen liege. „ Nur dadurch ist der Mensch Mensch, daß er nicht wie das Thier ein beschränkter , sondern ein absoluter Sensualist ist , daß nicht dieſes oder jenes Sinnliche, daß alles Sinnliche , daß die Welt , das Unendliche , und zwar rein um seiner selbst , d . h . um des ästhetischen Genusses willen Gegenstand seiner Sinne , seiner Empfindungen ist.“ **)
+
+,,Was ist der Geiſt ? wie verhält er sich zu den Sinnen ? wie die Gattung zu den Arten.
+
+Der Sinn iſt univerſell und unendlich , aber nur auf seinem Gebiete , in seiner Art ; der Geist dagegen ist auf kein bestimmtes Gebiet eingeschränkt, schlechtweg universell ; er ist die Zusammenfassung, die Einheit der Sinne , der Inbegriff aller Realitäten , während die Sinne nur Inbegriffe bestimmter , exclusiver Realitäten ſind.
+
+Der Geist ist daher un- und überfinnlich , inwiefern er über die Particularität und Beschränktheit der Sinne hinaus ist , ihren Provinzialgeist zum Gemeingeist verschmilzt ; aber er ist doch zugleich nur das Wesen der Sinnlichkeit , inwiefern er eben nichts Anderes ist , als die allgemeine Einheit lämmtl.Morfe *2) 8 Ebend. S. 372. . II. Bd, S. 358.
+
+!
+
+[p. 63] der Sinne.
+
+Die Pflanzen im Plural verdanke ich den Sinnen, die Pflanze im Singular dem Geiste ; aber so wenig die Pflanze , ob sie gleich kein Gegenstand der Sinne ist , cin übersinnliches Wesen ist in dem Sinne , welchen die specula tive Imagination mit diesem Worte verbindet , so wenig ist es der Geist , obgleich er keine Sinnenthätigkeit iſt. Er ist nur deswegen nichts Sinnliches , d . h.
+
+nichts bestimmtes
+
+Sinnliches , um alles Sinnliche in ſich zu ſaſſen.“ * ) .
+
+die Einheit des Organismus als das Princip der Empfindung bezeichnet wird , so ist dies ungenau , vielmehr ist diese Einheit als der energische Proceß der Gliederung in ſich , als die sich sezende Negation des Außeranderſeins der Act des Empfindens selbst.
+
+Eben so ist der Geist die reale
+
+Allgemeinheit eben dadurch , daß er die thierische Beschränkt heit des Organismus in jedem Momente überwindet ; eben diese durch die Negation der beschränkten , beſondern Empfindung hindurch sich feßende Allgemeinheit ist das Sichwiſſen, das Selbstbewußtsein.
+
+Insofern die Polemik gegen den ab
+
+ſtracten Idealismus von diesem Begriff der realen Idealität ausgeht , ist sie durchaus treffend und in ihrem vollkommenſten Rechte; das Sinnliche wird dann gefaßt als ein wesentliches Moment in diesem Processe , gilt aber nicht als das Wirkliche an und für sich .
+
+Durch die ganze Abhandlung hindurch tritt wiederholt eben diese Anschauung hervor ; das Leibliche soll die nothwendige Erscheinung des Geistigen sein , das Aeußere des Inneren ; beide Momente zusammen sind erst das Wirkliche. Mit demselben Rechte wäre damit auch gegen den Materialis. mus und Senſualismus zu kämpfen , gegen das Firiren der Empfindung , Begierde und dieser ganzen thierischen Sphäre ; der Geist wäre zu sehen als wirkliche Negation der Empfindung , als mitten in der Empfindung doch frei von ihr.
+
+Dies eben so sehr berechtigte idealistische Intereſſe kommt aber nur *) Ebend, S. 335.
+
+[p. 64] ſehr ſparſam zur Sprache.
+
+Vielmehr urgirt Feuerbach das sinnliche Moment in einer so einseitigen Weiſe , kleidet es in so einseitige Kategorien und Wendungen, und wirft idealiſtiſche und materialistische Reflexionen so kritiklos und unrein durch ein ander, daß von dem speculativen Begriffe der Sache nur sehr ge ringe Spuren übrig bleiben. Sogleich im Anfange der Abhandlung ist das Ich in der Gefahr, in die einzelnen Acte des Selbſt gefühls sich aufzulösen .
+
+Identität oder Einfachheit unseres Bewußtseins oder Jchs ist ein Product der Abstraction und Reflexion.
+
+Unser Ich , unser Bewußtsein ist in der
+
+Wirklichkeit so verſchieden , als der Inhalt desselben.
+
+Ich bin ein anderes Ich im Gram , ein als in der Freude , anderes Ich im Zuſtande der Leidenschaft , als der Besonnen heit , ein anderes in der Gluth der Empfindung , als in der Kälte des Denkens , ein anderes mit leerem als vollem Magen, ein anderes im Freien als in der Stube, ein anderes auf Reisen als zu Hause u. s. w. “ * )
+
+Ist das Ich nicht wirklich die sich selbst sezende Allgemeinheit des Organismus , ſondern nur die energicloſe Reſultante verschiedener mechanischer und chemischer Acte , so ist die Zersprengung desselben in verschiedene Individuen , die jedoch diesen Namen eigentlich auch nicht verdienen , die nothwendige Consequenz.
+
+Allein so schlimm ist die Sache bei Feuerbach doch nicht.
+
+Idealismus kommt hinterher.
+
+"I Was ich einst bewunderte , belache ich jezt ; was mich einſt entzückte , ekelt jezt mich an ; was ich einst liebte , einst so mit mir identificirte , daß ich mich ohne dasselbe gar nicht denken konnte , das ist mir jetzt gänzlich aus dem Herzen entschwunden.
+
+Wohl hat sich mein Grundwesen nicht geändert , aber hat sich denn auch das Grundwesen , der Typus , der Bau , die Constitu tion , die Form , furz die Individualität meines Leibes geändert ? Ist also die Identität meines Weſens unterschieden * ) Ebendaselbst S. 355.
+
+[p. 65] und unabhängig von der Identität meines Leibes ? Nein! Ich Offenbar müssen bin derselbe nur in demselben Leibe. " * )
+
+wir , wollen wir diesen Idealismus in die vorangehenden er irem materialistischen Reden einführen, zu dem dort behaupteten: Ich bin ein anderes Ich im Gram als in der Freude u. s. w. immer hinzusehen : Und dabei doch immer dasselbe Ich. Später heißt es : ,,3ft es möglich , daß das Wesen zu einer ganz anderen Gattung gehört als die Erscheinung ? Reimt sich eine sinnliche Eriſtenz, eine sinnliche Erscheinung auf ein unſinn liches Wesen ? Der Unterschied von Leib und Seele iſt nämlich nichts Anderes als der metaphysische Unterschied von Existenz und Wesen als psychologiſcher.
+
+Der Leib ist die Existenz des
+
+Menschen ; den Leib nehmen , heißt die Eriſtenz nehmen ; wer nicht mehr sinnlich ist , ist nicht mehr. " ** )
+
+Was hat von diesen Reflexionen Organismus , aus die früher behauptete Einheit des als Princip der Empfindung , und die höhere Einheit der Empfindungen als Princip des Denkens noch für eine Bedeutung ?
+
+Ist diese Einheit nicht wesentlich
+
+Negation der Vielheit , ist sie nicht in ihrer Sinnlichkeit auch unsinnlich ? Der Gattung nach mögen freilich Wesen und Erscheinung nicht verschieden sein ; aber wird nicht der Unter= schied überhaupt aufgehoben , wenn wir das Wesen unmittelbar zur Erscheinung selbst machen ?
+
+Wozu dann noch diese Kategorien , die in dieser Bedeutung alle Bedeutung verlieren ?
+
+Dieser unterschiedslosen Identität des Inneren und
+
+Aeußeren entsprechend ist es , wenn Feuerbach den Unterschied von Geist und Leib innerhalb der Sinnlichkeit selbst verlegt , als einen Unterschied einer sinnlichen Function andern betrachtet.
+
+von einer
+
+,, Wir machen , wie schon Bacon bemerkt, überall das Particuläre zum Allgemeinen , den Modus zur Substanz , die Art zur Gattung .
+
+Kommen wir dann auf
+
+* ) Ebendaselbst S. 155. ** ) Ebendaselbst S. 368.
+
+[p. 66] Erscheinungen , die nicht mit dieser zur Gattung erhobenen Art zusammenstimmen , so erklären wir sie dadurch , daß wir unsere Zuflucht zu eingebildeten Wesen , zu Wesen einer ganz anderen Gattung nehmen. oder Sinnlichkeit.
+
+So ist es auch mit der Leiblichkeit
+
+Bestimmte Erscheinungen oder Arten der= selben machen wir zu ihrem ganzen , absoluten Wesen , kein Wunder daher, daß wir aus einem der Sinnlichkeit absolut entgegengeseßten Wesen ableiten , was doch nur in einem entgegengesetzten sinnlichen Wesen oder in der Sinnlichkeit einer entgegengesezten Art und Thätigkeit seinen Grund hat. So ist der Gegensatz zwischen Geist und Fleisch nichts Anderes als der
+
+Gegensatz zwischen Kopf und Leib ,
+
+Bauch.
+
+Selbst im Leben sagen wir sinnvoll : Kopf statt :
+
+Mensch, Seele; Leib statt : Rumpf oder Unterleib .
+
+Unterleib ,
+
+Geistige
+
+Menschen sind Kopfsinnliche, Kopfmenschen , sinnliche Menschen Bauchsinnliche, Bauchmenschen .
+
+Der geistige Mensch macht den Bauch zum Mittel des Kopfs , der sinnliche den Kopf zum Mittel des Bauchs .
+
+Ich esse um zu leben, sagt der
+
+Kopfmensch ; ich lebe um zu essen , der Bauchmensch.
+
+Ich liebe um zu leben , sagt der Mann ; ich lebe um zu lieben, sagt das Weib ; aber der Schwerpunkt der Liebe liegt im Bauche.
+
+Das Weib repräsentirt das Fleiſch , der Mann den
+
+Geist , d . h. der Mann ist der Kopf, das Weib der Bauch der Menschheit. hervor
+
+Im Manne tritt der Bauch zurück , im Weibe der weibliche Bauch ist anatomisch ausgebildeter , vollkommner als der männliche - im Manne hat der Bauch eine untergeordnete, nur teleologische, im Weibe zugleich eine selbstständige , ästhetische Bedeutung ; im Manne ist er nur ein Reſtaurationsgebäude , aber im Weibe erhebt er sich zum Tempel der Liebe. Das Gefühl , der Geruch , der Geschmack sind Materialisten , sind Fleisch , das Gesicht und Gehör ſind Idealisten , Geist .
+
+Aber Augen und Ohren vertreten den
+
+Kopf, die übrigen Sinne den Bauch.
+
+Der Geschmack hat
+
+[p. 67] ſeine Eriſtenz unmittelbar am Eingang in den Bauch.
+
+ich im Streite mit mir bin , ob ich eine Frucht pflücken soll, weil sie so appetitlich , oder hängen lassen soll, weil sie so lieblich aussieht , so befinde ich mich im Streite von Geist und Fleisch , d . h. im Streite meines intereſſelosen Auges mit meinem interessirten habsüchtigen Geschmack.
+
+ist ,, halb Thier , halb Engel ", aber dieses Thier ist eben die dem Bauch untergeordnete Sinnlichkeit ; aber die Engel, die Schutzgeister des Menschen , die stofflosen , die nur in Luft und Licht lebenden und webenden Wesen sind Augen und Ohren. " * )
+
+Die Anmerkung ſeßt hinzu : „ Diese Entgegen fegung der Sinne soll Nichts weiter sein , als ein populäres, augenfälliges Beispiel , wie der Dualismus von Geist und Fleisch schon innerhalb der Sinnlichkeit seine Auflösung findet." Feuerbach urgirt wiederholt , daß auch das Denken eine besondere Art oder Thätigkeit der Sinnlichkeit ſei ; das Denken nämlich ist ein Hirnact.
+
+Feuerbach ist stolz auf dieſen ent schiedenen Materialismus .
+
+Genauer besehen ist aber mit dieser
+
+Behauptung blutwenig gesagt.
+
+Daß das Denken auch ein
+
+Hirnact ist , ist für die gegenwärtige philoſophiſche Bildung eine bekannte , ausgemachte Sache.
+
+Daß das Denken nichts weiter sei als ein Hirnact , will Feuerbach wenigstens nicht in dem Sinne behaupten , daß das Gehirn ohne inneren noth wendigen Zusammenhang mit dem ganzen Organismus die Function des Denkens ausübe.
+
+"/ Das Hirn ist nur so lange
+
+Denkorgan , als es mit einem menschlichen Kopf und Leibe verbunden ist. " Feuerbach geht aber sogleich wieder zu weit , wenn er sagt :
+
+Zwischen dem Hirn des Menschen und des Affen ist kein merklicher Unterschied , aber welch ein
+
+Unterschied zwischen dem Schädel oder Gesicht des Menschen und des Affen !
+
+Dem Affen fehlt es eigentlich nicht an den inneren Bedingungen des Denkens , am Hirn ; es fehlt ihm *) Ebendaselbst S. 369.
+
+5* [p. 68] nur an den gehörigen äußeren Verhältnissen ; es ist nur der ſchiefe Gesichtswinkel , nur die ungünſtige Lage und Stellung Schuld , daß sich sein Hirn nicht zum Denkorgane entfaltet. “ *) Ist das Hirn nur menschlich , ist es nur Denkorgan in dem ganzen Zusammenhange mit dem menschlichen Leibe , so wird dieſer Zuſammenhang auch an ihm ſelbſt, an ſeiner ſpecifiſchen Bestimmtheit zur Erscheinung kommen ; es lohnt nicht der Mühe , hierüber auch nur ein Wort zu sagen , zumal Feuer bach selbst anderwärts ebenso sehr auch urgirt , daß der Unter schied des Menschen Weise durchbringe.
+
+vom Thiere alle Organe in gleicher Was ist denn nun aber ein Hirnact ?
+
+Offenbar haben wir hier sogleich die beiden Momente wieder vereinigt , welche den Proceß der Wirklichkeit überhaupt bilden, das ideelle und materielle Moment.
+
+Der Act , die Thätigkeit ist nichts weniger als die abstracte träge Ausdehnung ; bloße Sinnlichkeit in dem Sinne , daß darin nicht zugleich eine Negation der ausgedehnten Masse gesezt wäre , also ohne jede und alle Idealität , giebt es überhaupt nicht.
+
+Der Hirnact ist nun aber eine bestimmte Idealität , nämlich das Denken. Verstehen wir nun unter Denken eine vom Empfinden unter schiedene Function , das Fortgehen über das Einzelne zum Allgemeinen , das Bewußtsein vom Allgemeinen und faſſen diese specifisch geistige Function zugleich als eine der mensch lichen Empfindung immanente Idealität , also als eine sich selbst fezende , die Besonderheit der Empfindung zur Allgemeinheit aufhebende Energie , so ist damit offenbar der ganze menschliche Organismus in allen seinen Functionen von der festen , bloßen , von der thieriſchen Empfindung befreit , er ist auf allen Punkten ideell gefeßt , als wesentliche Allgemeinheit in sich , als Ich.
+
+Diese Idealität theilt sich allen Empfin bungen mit , ohne daß diese als bestimmte dadurch aufhören vom Denken verschieden zu sein. *) Ebendaselbst S. 363.
+
+In diesem Unterschiede von [p. 69] der Empfindung als solcher wird auch das Denken zu einer beſondern Function ; verlegen wir nun diese Function in das Gehirn, fassen wir das Denken als einen Hirnact, so stellt ſich damit nothwendig die Aufgabe , in der Bestimmtheit des ! Hirns und seiner Thätigkeit nachzuweisen , wie dasselbe eben diese Function haben könne oder müsse.
+
+Für eine mechanische
+
+Thätigkeit werden wir diese Function nicht halten , auch nicht für eine chemische Thätigkeit , ja auch nicht für eine orga nische in dem Sinne , daß das Gehirn des Vogels denselben Proceß aufzuweisen hätte.
+
+Die Behauptung : das Denken ſei ein Hirnact , klingt nur darum so anstößig , ſo gefährlich , so hypermaterialistisch , weil man sich das Gehirn zunächſt vorstellt wie irgend welchen Drei , diesen Drei dann weiter in mechanische Bewegung sezt , oder auch in eine chemiſche Spannung , und dann freilich mit vollkommenem Recht sich darüber wundert , wie das Denken das Resultat oder das Product oder auch wohl die Wirkung dieser Hirnbewegung sein könne.
+
+Das Denken zur Wirkung eines mechanischen
+
+Proceſſes zu machen , ist ohne Weiteres widerfinnig in sich . Das Denken ist nicht bedingt durch den Hirnact , sondern ist dieser Act selbst ; wie jede wirkliche Idealität Negation des Außersichseienden , Materiellen ist, so ist auch das Denken ein Proceß , welcher in besonderer Weise das Gehirn ― nicht als ein außer ihm schon fertiges , sondern als sein eigenes Sein - idealisirt , also die Materialität desselben aufhebt, daſſelbe immaterialiſirt ; und zwar geht dieſe Immaterialiſtrung hier so weit , daß auch die Beſchränktheit des thieriſchen Organismus , das feste Außereinander der thierischen Empfindung überwunden wird . näher bestimme ,
+
+So lange ich nun diesen Proceß nicht also nicht an dem Gehirn selbst nachweiſe , wie seine ganze Form eben die Erscheinung dessen ist , was ich Denken nenne , d . h. so lange ich so in's Unbeſtimmte und Blaue hinein eben nichts weiter ſage, als das´Denken ſei ein
+
+[p. 70] Hirnact, so habe ich sicherlich nicht das Minimum einer Er fenntniß gewonnen . Das Geltendmachen des Sinnlichen als des wahrhaft Wirklichen , dem Idealen gegenüber , hat nun seine weiteren Consequenzen besonders in der Sphäre des Sittlichen. In Feuerbachs Schriften finden wir hierüber nur gelegentliche, sehr aphoristische Aeußerungen , die uns nicht im Entfernteſten in den Stand segen , eine Anschauung von der Reform zu gewinnen , welche von den Principien der Philoſophie der Zukunft aus in das praktische Leben eintreten müßte. Feuerbach ſtellt Herz und Verstand einander gegenüber ; das Herz ist im Allgemeinen das Princip der Individualität , der Sinnlichkeit, der Verstand das Princip der Allgemeinheit , der Idealität. Feuerbach dringt vor Allem auf die Anerkennung des Unterschiedes zwischen Herz und Verstand ; das Herz soll also dem ´Verstande gegenüber zur Geltung kommen.
+
+Dem Gegensaß zwischen Herz und Verstand entsprechend ist auch der Gegen faz von Praxis und Theorie ; auch diesen hält Feuerbach fest. Schon in der Darstellung der Leibniziſchen Philoſophie treffen ,, Anders " - heißt es hier wir auf diese Anschauung .
+
+,,verhalte ich mich , anders bin ich als theoretisches Wesen , denn als praktisches .
+
+So sehr die Vernunft oder dàs Denken, wie ich es mein Denken nenne , durch meine Individualität meine Vernunft nur beschränkt und bestimmt sein mag, ein Modus der Vernunft , nur eine Art und Weise ist, wie ich an ihr Theil nehme , nur eine bestimmte Bethätigungs form derselben ist : — so ist doch meine Individualität hier nur ein Accidenz , etwas´an ſich Zufälliges. ` Auf dem praktischen Standpunkte ist die Person das Wesentliche , die Haupt ; sache , auf dem theoretischen Nebensache. Ob ich das und das erkannt habe , ist gleichgültig , thut nichts zur Sache , aber ob ich das und das gethan habe , gerade darauf kommt es auf dem praktischen Standpunkte an.
+
+Vor der Wissen [p. 71] schaft gilt kein Ansehen der Person ; denn das Deufen selbst, worauf die Wissenschaft fußt , ist seiner Natur nach die ab solute Indifferenz gegen alle Individualitäten.
+
+Auf dem praktischen Standpunkte fragt der Mensch den Gegen stand : was bist du für mich ? und sagt zu ihm : das , was du für mich bist , gilt mir als das , was du für dich selber , was du an sich bist ; auf dem theoretischen fragt er dagegen den Gegenstand : was bist du für dich selber ? und sagt zu ihm : nur das , was du für dich selber bist , liegt mir am Herzen; ich verlange von dir keine besondere Beziehung auf mich , ich werde mich schon drein ergeben und in deinem seligen beziehungslosen Ansichſein meine eigene Seligkeit finden. Im theoretischen Verhalten beziehe ich mich daher auf den Gegenstand und zwar lediglich um des Gegenstandes selbst willen , im praktischen beziehe ich den Gegenstand auf mich , gleichwie die Erde vom Standpunkte der Er kenntniß aus sich um die Sonne bewegt, vom Standpunkte des Lebens aus sich die Sonne um die Erde dreht .
+
+Praktisch verhalte ich mich subjectiv , theoretisch objectiv."
+
+Hierdurch soll übrigens nicht alle Beziehung des
+
+Theoretischen zum
+
+Praktischen geleugnet werden ; vielmehr soll es sich von selbst verstehen , „ daß das , was für die Intelligenz des Menschen ist , auch mittelbar für den Menschen selbst ist , nothwendig und ſelbſt unwillkührliche praktiſche Bedeutung und Folgen für ihn Auch im Wesen des als persönliches Wesen hat. " * ) Christenthums ist der praktische Standpunkt wesentlich der subjective , der theoretische der objective.
+
+Die Theorie soll genommen werden ,,im ursprünglichſten und allgemeinſten Sinne, im Sinne der objectiven Anschauung und Erfahrung , der Vernunft, der Wissenschaft überhaupt. "
+
+Hierzu ſagt jedoch die Anmerkung : ,, also in dem Sinne wird hier die Theorie
+
+, in welchem sie die Quelle der wahren objectiven
+
+* ) Geſch, d. neueren Philos. 2 Th. S. 129.
+
+[p. 72] Praxis ist , denn der Mensch vermag nur so viel , als er weiß : tantum potest quantum scit." *) Aus solchen gelegentlichen Aeußerungen über die noth wendige innere Beziehung der Theorie und Praxis ist nun grundwenig zu machen ; zumal wenn voran der Unterschied in einer Weise gefaßt ist , daß keine andere als rein äußers liche Beziehung übrig bleibt ; sie dienen nur dazu , dem zuerst Behaupteten die Spize abzubrechen und dasselbe ins Unbe stimmte zu verflachen.
+
+Bei Hegel ist die Praxis die Wahr heit der Theorie , die Einheit der Theorie und Praxis aber der höchste psychologische Begriff , das Wesen der Freiheit. Die wahre geistige Praxis ist eben diejenige , in welcher der Mensch das als sein Wesen , als seine Wahrheit Erkannte durchführt. Auch in der Kantischen und Fichtischen Philosophie bildet die wesentliche innere Beziehung der Theorie und Praxis das Centrum der ganzen Anschauung. Da wäre es wohl der Mühe werth gewesen , der Sache eine tiefere Untersuchung zu widmen. Ebenso unbestimmt läßt Feuerbach den Gegenſaz zwiſchen Verstand und Herz.
+
+Soll denn die Individualität in ihrer ganzen aparten Besonderheit , die ganze ungebändigte Natürlichkeit in allen ihren Erscheinungen , sollen die sinnlichen selbstsüchtigen Intereſſen , alle Herzensbedürfniſſe und Wünsche ohne Wahl und irgend welche Beschränkung ein objectives Recht haben ? soll ihnen den allgemeinen Interessen gegen über eine gleiche Wirklichkeit zugestanden werden ?
+
+Und was hat dann der Verstand noch für eine Bedeutung , wenn er sich nicht in der Besonderheit der Individuen selbst geltend machen darf?
+
+Bleibt für die allgemeinen sittlichen Formen noch irgend eine andere Aufgabe übrig , als die individuellen Interessen äußerlich zu beſchränken , damit auch das Herzens bedürfniß des Friedens , des ruhigen Genusses , soviel es ans geht , gestillt werde ?
+
+*) Wesen des Christ. S. 278.
+
+[p. 73] Besonders dem Hegelschen Systeme gegenüber meint man ohne Weiteres im Rechte zu sein , wenn man das Princip der Individualität geltend macht ; denn daß Hegel die Individualität nur zu einem verschwindenden Momente der allgemeinen Subjectivität , der allgemeinen geistigen Bewegung gemacht, ist fast eine anerkannte Sache.
+
+Entschieden legt Hegel über wiegend den Accent auf die Nothwendigkeit , die besondere individuelle Bestimmtheit zu vergeistigen , sie dem Allgemeinen unterzuordnen.
+
+Zu dieser Accentuirung ist Hegel vor Allem veranlaßt durch die romantische Ueberspannung , in welcher die natürliche Begabung des Individuums in ihrer unsag baren Eigenthümlichkeit als das absolut Heilige , Göttliche , Unantastbare galt.
+
+Dieser Anschauung gegenüber dringt Hegel auf Bildung , Vergeistigung der Individualität.
+
+Ferner hat
+
+Hegel besonders in den Anmerkungen vielfach ein pädagogisches Interesse.
+
+Die Besonderheit der Individualität drängt
+
+ſich ohnehin ſchon genug hervor ; viel wichtiger als ihre Pflege ist es daher, ihre Eitelkeit zu brechen , sie unterzutauchen in den allgemeinen geistigen Proceß , damit sie sich geistig erfülle und formire.
+
+Eine andere Frage ist es nun aber , ob Hegels
+
+Auffassung des geistigen Proceſſes nicht doch der Individuali tåt principiell vollkommen das Recht zugesteht , welches diese dem Begriffe der Sache gemäß allein fordern kann.
+
+Hier ist es nun zunächst die unmittelbare Sittlichkeit, die Familie , in welcher das Individuum in seiner beſondern Eigenthümlichkeit zu einem objectiven Rechte kommt ; das Individuum macht in der Bildung der Familie seine besondere individuelle Empfindung geltend und wird in der Liebe als dieses Einzelne, Unerseßbare anerkannt. An die Familie schließt sich das weitere gesellige Leben an , der weiteste Spielraum für die freie Bewegung der Individualität.
+
+Auch in dieser unmittelbaren Sittlichkeit hat nun aber allerdings das Individuum als solches kein absolutes Recht , nicht das Recht, [p. 74] nach Belieben und Willkühr Verbindungen einzugehen , um sie ebenso willkührlich wieder aufzulösen .
+
+Nach Hegel ist die
+
+Ehe ihrem Begriffe nach unauflöslich , die Auflösung derselben also unsittlich .
+
+Das Herz , welches feine wesentliche Allgemeinheit in sich eindringen lassen will, wird die Ehe als Tyrannei betrachten.
+
+Denn eben in der Heiligkeit , in der
+
+Unauflösbarkeit der Ehe ist, die Allgemeinheit des Geistes in die individuelle Empfindung selbst eingetreten , diese selbst ist mitten in ihrer Besonderheit doch zu einer allgemeinen , ewigen. geworden.
+
+Um auch in den höheren Formen des sittlichen
+
+Lebens , in der bürgerlichen Geſellſchaft und im Staate das Individuum zur specifischen Geltung zu bringen , macht man gewöhnlich darauf aufmerksam , daß auch in der Arbeit von allgemeinſten Gehalt doch immer die Eigenthümlichkeit des Individuums irgendwie zu erkennen sei. Eo z . B. im Kunst werk; freilich drücke dasselbe das Wesen Aller aus und doch trete im Colorit , in der ganzen Manier der Auffassung die Eigen thümlichkeit des Künstlers offen hervor ; eben dies sei aber wesentlich , solle nicht die Individualität in der allgemeinen Thätigkeit untergehen. Individualität schüßen. • auf
+
+Es ist eine vergebliche Mühe , die diese Weise vor ihrem Untergange zu
+
+Das Kunstwerk ist schon durch seine äußere sinn liche Form bis in das Einzelne hin bestimmt ; wirklich voll endet ist es nur dann , wenn der ideelle Gehalt, der geistige Proceß, der sich in ihm darstellt , in die ganze Bestimmtheit des Aeußeren eingedrungen , sich selbst bis in das Einzelnſte . hin individualiſirt hat.
+
+Haftet der bestimmten Form des
+
+Kunstwerks außerdem noch etwas Besonderes , Jndividuelles an , so fällt dies offenbar aus dem ganzen künstlerischen Proceß heraus ; es stellt sich neben denselben , ist eine von dem ideellen. Gehalt nicht schlechthin durchdrungene , darum formelle Bestimmtheit.
+
+überwältigte , eben
+
+Wenn wir dieser besondern individuellen- Manier dabei doch noch ein Recht zugestehen , [p. 75] so ist dies offenbar von sehr geringem Werth ; das Individuelle geht nämlich hier nicht in das Allgemeine ein , realiſirt sich also nicht in objectiver Weise ; vielmehr ist es nur unsere individuelle Meinung , welche ihm ihre Anerkennung beweist, und offenbar hat dieser individuellen Meinung gegenüber die entgegengesezte dasselbe Recht ; die besondere Manier , welche dem Einen gefällt , dem Anderen entschieden zuwider.
+
+Gerade im Kunstwerk ist es daher am aller wenigsten möglich, dem Individuellen in dieser Weise cine Geltung zu verschaffen ; viel eher geht dies in den Werken an , in welchen nicht eine so durchgreifende Einheit von Form und Inhalt gesezt ist ; da bietet die Gleichgültigkeit der Form dem Individuum einen mehr oder weniger weiten Spielraum , seine individuelle Besonderheit zur Erscheinung zu bringen.
+
+Je mehr aber auch hier eine künstlerische Form angestrebt wird , desto mehr muß die individuelle Manier zu der dem Allgemeinen entsprechenden Form sich läutern.
+
+Entschieden ist das Bestreben , in der äußeren , dem allgemeinen Gehalte gleichgültigen Form sich geltend zu machen , eine Eitelkeit des Subjects ;
+
+und nur diese Eitelkeit läßt - es das Subject ſelbst übersehen , daß és hiermit auf sein höheres Recht , nämlich mitten im Allgemeinen feine Individualität zu behaupten , refignirt hat.
+
+Zu einer f realen geistigen Wirklichkeit kommt das Individuum nur dadurch , daß der allgemeine sittliche Proceß allseitig als ein freier , d . h. als ein sich entwickelnder gesezt wird .
+
+Die allgemeinen` ſittlichen
+
+Formen stehen ihrem Begriffe nach nicht als schlechthin trans cendente den Individuen äußerlich gegenüber, sondern drücken vielmehr den allgemeinen Vergeistigungsproceß der Individuen aus.
+
+Das freie Individuum erkennt in ihnen sein eigenes
+
+Wesen ; sobald aber diese allgemeinen Formen nicht in sich selbst das Princip der Entwickelung enthalten , diese nicht schüßen und sanctioniren , sondern als unberechtigt ausschließen,
+
+[p. 76] ſo löſen ſie ſich nothwendig von der wesentlichen Einheit mit den Individuen los ; denn die Entwickelung ist ein für allemal das Wesen des endlichen Geistes.
+
+In dem lebendigen Proceß der Vergeistigung und Entwickelung aber sind die freien Thaten des Individuums immer beides zugleich : sie haben allgemeinen objectiven Werth , einen allgemeinen Gehalt, der nicht bloß dem Einzelnen angehört , und doch sind sie Producte der be ſonderen individuellen Energie.
+
+Hier , in dem Produciren ,
+
+Fortbilden des Allgemeinen zeigt es sich , daß das Individuum nicht bloß ein verschwindender Modus des Allgemeinen iſt , oder die abstracte inhaltleere Formbewegung ; es ist vielmehr das lebendige , wirkliche Allgemeine selbst , der sich sehende , sich ewig erneuernde Geist. -
+
+Von diesen allgemeinen Principien aus würde sich allerdings die wiſſenſchaftliche Entwickelung der sittlichen Formen noch vielfach anders gestalten , als diese in Hegels Rechtsphilosophie vorliegt ; entschieden aber wäre erst dann diese Entwickelung den Principien wirklich gemäß , welche aus Hegels Begriffe vom Geiste nothwendig hervor: - gehen . Durch die principielle Anerkennung des Sinnlichen , Individuellen , des Herzens soll nun das erst vollständig erreicht werden , worauf es vor Allem ankommt - nämlich die Auf lösung der Theologie in die Anthropologie.
+
+Der Mensch und zwar der ganze Mensch , der Mensch mit Fleisch und Blut ist das Wirkliche , das einzig Wirkliche : ,, er ist das Wesen der Natur , das Wesen der Geschichte , das Wesen der Staaten, das Wesen der Religion ; er ist und weiß sich als wirkliche ( nicht imaginäre ) abſolute Identität aller Gegensätze und
+
+Widersprüche , aller activen und paſſiven , geistigen und ſinn lichen , politischen und socialen Qualitäten." * )
+
+Unsere vorangehende Betrachtung hat uns die Einsicht in diesen Mittelpunkt der Feuerbachschen Philoſophie im Wesent *) F. gesammelte Schriften. 2 Th. S. 264.
+
+[p. 77] lichen eröffnet. -
+
+Freilich ist es in allen epochemachenden
+
+Erscheinungen der Weltgeschichte , in allen principiellen Wende punkten derselben der Mensch , das Wesen des Menschen , um das es sich handelt.
+
+Von der Anschauung , von dem
+
+Bewußtsein , welches der Mensch von seinem Wesen hat , ſind alle Gestaltungen der Geſchichte abhängig.
+
+In allen Reformen verwirft der Mensch bestimmte Gestaltungen seiner Freiheit , weil er in ihnen nicht mehr den Ausdruck seines Wesens wiederfindet ; er stellt ihnen eine höhere , reinere Menschlich keit gegenüber.
+
+Der Mensch also im Allgemeinen , das allge meine Wesen des Menschen ist das identische Princip in der ganzen historischen Entwickelung ; welche specifische Bestimmt heit giebt denn nun Feuerbach diesem allgemeinen Princip ? Was ist denn nun der Mensch in seiner wahren Wirklichkeit ? Ohne die Antwort hierauf, ohne die concrete Bestimmung über das Wesen ist offenbar die Behauptung : der Mensch sei das Wirkliche , und die sich hieran anschließende Forderung , der Mensch solle eben nichts weiter sein , als Mensch, etwas durchaus Hohles und Unbestimmtes .
+
+Jede bestimmte Einsicht in das Wesen des Menschen ist aber immer eine bestimmte Lösung der Gegensäte , welche das Wesen des Menschen con stituiren. Ist der Mensch das absolut Wirkliche, so ist er auch - wofür ihn Feuerbach ansieht -- die absolute Iden= tität aller Gegenfäße ; die höchſten concreteſten Gegensätze ſind in ihm vereinigt. Wie Feuerbach die Gegenſäße löſt, haben wir im Vorigen gesehen. Zuänchst : er urgirt den Unterſchied als solchen, und bezeichnet jede an den Unterschieden selbst gesezte Lösung als Verflachung , Ver tuschung der Gegensäte ; der Mensch aber ist das allgemeine Subject dieser Gegenfäße.
+
+Begrifflich gelöst sind hiermit offenbar die Widersprüche nicht ; der Mensch ist vielleicht nur der äußere Compler der Gegenfäße , der Ort , an welchem sie sich sämmtlich finden , der Faden , an welchem ſie aufgereiht [p. 78] sind. Ferner aber : Feuerbach bleibt hierbei nicht stehen ; nach dem er nämlich die Gegensätze in ihrer Schärfe entwickelt , ſetzt er auch wohl beiläufig hinzu : die Gegenfäße hätten auch eine innere Beziehung zu einander ; aber diese Einheit bleibt dem gefeßten , entwickelten Unterſchiede gegenüber ein unaus geführtes Postulat.
+
+Endlich drittens löst Feuerbach die Gegen:
+
+säße auch dadurch , daß er sie verflacht.
+
+So seht er z . B. die
+
+Empfindung zuerst principiell dem Denken entgegen ; dann aber faßt er ſie als gebildete , d. h . als denkende Empfindung, ohne jedoch an der Empfindung selbst die nothwendige innere Beziehung zum Denken nachgewiesen zu haben .
+
+Ebenso for= dert er , daß das Denken rectificirt werden solle durch die Anschauung und zwar so , daß dasselbe damit unmittelbar seine specifische Bestimmtheit aufgiebt , nämlich der Beweis des Ge ſehes , der wesentlichen objectiven Nothwendigkeit zu sein.
+
+In allen diesen Wendungen wird als die wesentliche Tendenz fest gehalten : dem bisherigen Idealismus einen Realismus entge genzustellen.
+
+Je mehr diese Tendenz sich hervordrängt, desto mehr erscheint das Sinnliche , Einzelne , Individuelle nicht als die eine Seite des Gegensates , sondern als Totalität , als der ganze Mensch ; das Allgemeine ist dann ein Moment im Sinnlichen , das Denken eine besondere sinnliche Function. Wiederholt wird urgirt : das Sein ſei das Subject , das Denken das Prädicat.
+
+Dabei wird aber nie dazu fortgegangen , das
+
+Sein wirklich als das Subject zu ſehen ; die Selbstständigkeit desselben bleibt so immer nur eine Behauptung , eine ſubjec tive Meinung , ein willkührliches Postulat. Sonach ist also in Feuerbachs Fassung der Mensch doch nicht die wirkliche Einheit aller Gegensäte , sondern nur die imaginäre Einheit. Behauptung.
+
+Es ist eine Einbildung von ihm , ein
+
+Daß im Menschen an und für sich die Ge= gensäße sich lösen , der Mensch also der Proceß dieser Lösung ist, ist weder an den Gegensäten , noch am Menschen nach [p. 79] gewiesen.
+
+Dadurch wird der Mensch , so wenig er dies sein soll, doch zu einer ganz hohlen Abstraction , zu einem bloßen Namen.
+
+Freilich meine ich den wirklichen Menschen ; um ihn aber nicht bloß zu meinen , sondern wirklich zu erfaſſen , muß ich den innern Zusammenhang an den Gegensäßen selbst nach weisen ; denn nur in dieſem innern Zuſammenhang, nur in dieſer realen Lösung können jene Gegenfäße als ein mit ſich identisches Subject existiren. Da mag ich den Mund noch so voll nehmen und ´noch so laut sagen : ich meine den wirklichen Menschen , den Menschen mit Fleisch und Blut , wie ich ihn sehe, mit Händen. Das Fleisch und Blut des Menschen ist eben greife. menschliches Fleisch und Blut ; d. h. die Geistigkeit ist mitten darin. Der wirkliche Mensch ist sichtbar und unsichtbar zugleich ; um ihn wirklich zu sehen , muß ich die geistigen Augen öffnen. So lange ich nun in meinem Reflectiren mich damit begnüge, jene Momente nur zuſammenzustellen , so lange ich nur fordere, das Fleisch solle nicht neben den Geist , der Geist nicht neben das Fleisch gesezt werden , ohne daß ich in dem Begriff des Einen den Begriff des Andern aufweise , so bleibt für meine Reflexion der Mensch immer nur ein unausgeführtes Postulat, eine Vorstellung , eine Phantasie , ein Mysterium. Aus der principlosen Verbindung der verschiedenen Thä tigkeiten des Menschen kann nun unmöglich eine freie sitt liche Praxis hervorgehen. Besonders dem religiösen Glauben gegenüber dringt Feuerbach auf die unbedingte Anerkennung der sittlichen Verhältnisse ; sie sollen heilig sein an und für sich.
+
+Allein wie diese sittlichen Verhältnisse dem Inhalte nach beſchaffen sind , bleibt ganz unbestimmt.
+
+Ist nicht die ideelle
+
+Algemeinheit das Wesen , das Princip des Menschen , so stellt sich dem Idealismus der Sittlichkeit mit gleichem Rechte die Sinnlichkeit,
+
+Individualität , und zwar die unvergeistigte , die sittlichen Verhältnisse verwerfende Individualität gegenüber Die höchste Forderung , welche von hier aus an den Menschen [p. 80] gestellt werden kann, ist immer nur die, daß er außer seinen sinn lichen Interessen auch idealistische habe , und zwar bleibt dieses idealistische Interesse eben weil es neben dem sinnlichen liegt, in ſich ſelbſt abſtract; es iſt abſtracte Theorie.
+
+Wie es dem
+
+Menschen gerade beliebt , überläßt er sich einmal seiner sinn lichen Leidenschaft , dann seinem idealistischen Bedürfniß ; er schwelgt in der Abstraction des reinen Gedankens ebenso sehr wie in dem Feuer der Leidenschaft ; er läßt keine Einseitigkeit in sich aufkommen , er beweist es durch seine That , daß er die Gegenfäße nicht vertuscht , daß er das äußere Auch aller Widersprüche ist, ein ganzer Mensch , Geiſt und Fleiſch.
+
+Zu nächst mag es so aussehen , als hätte hier Geist und Fleisch ein gleiches Recht , allein dies wäre nur dann der Fall , wenn die Wirklichkeit der einseitigen , begrifflosen Reflexion nach kommen , wenn sie den Menschen zu jenem bloßen Auch um gestalten könnte , wenn sich in ihr nicht die Consequenzen nothwendig geltend machten , welche der einseitige Gedanke übersieht.
+
+Die indifferente Einheit der Gegensäße ist aber wesentlich nicht sich selbst sezende, sondern unmittelbare , natürliche , individuelle Einheit.
+
+Jener ganze Mensch vereinigt daher die Gegensäße doch nur auf individuelle Weise in sich, d. h. durch sein individuelles Bedürfniß ; dieses ist auch idea listisch, aber in diesem Idealismus im Grunde doch nur individuell ; es kostet dem Individuum keinen Kampf, es ist kein Sieg des Willens über die Begierde , vielmehr nur ein be ſonderer Trieb , dem ſich das Individuum hingiebt , um sich Eine freie sittliche Gemeinschaft vollständig zu befriedigen. ist von diesen Principien aus schlechthin undenkbar.
+
+Die Individuen können sich aus Bedürfniß mit einander verbinden , können durch Uebereinkunft sich einander aushelfen ; dies führt aber nicht einen Schritt weiter als bis zur contractlichen Gemeinschaft.
+
+Und zwar ist das Halten des Contracts selbst wieder nur individuelles Bedürfniß ; sollte es auch zu Zeiten [p. 81] in den Individuen Zustände geben , in welchen ihr idealiſti sches Bedürfniß das gegebene Wort als solches achtet , dies ist eben nur ein momentaner , vorübergehender Zustand , welcher, ehe man die Hand umwendet , durch den sinnlichen Trieb verdrängt wird , welcher allen Idealismus mit Füßen zu treten bereit ist. Was treibt denn nun aber über diesen Schein der Sittlichkeit hinaus zur wirklichen , in ſich nothwendigen Sittlich feit ? - Dasselbe was theoretisch über das leere Auch hins austreibt.
+
+Die Indifferenz ist nicht wirklich was sie sein soll, nicht die wirkliche Einheit der Gegenfäße , ſondern eine bloß gemeinte, illusorische , somit in sich widersprechende , unbe griffene und unbegreifliche.
+
+Wirklich gelöst sind die dem Men schen immanenten Gegenfäße nur durch den Begriff der concreten Idealität, nur dadurch , daß der Geiſt ſelbſt nicht neben die Sinnlichkeit , neben die Empfindung , neben den Trieb gestellt , sondern als die inhaltvolle , alle diese Momente in
+
+ſich umfassende und vergeistigende Energie , und als solche als das wahre Wesen , wird.
+
+als das Princip des Menschen begriffen
+
+Die Momente der Judividualität und geistigen Auge meinheit sind , wie vorher gezeigt , erst in der freien Entwicke lung aller sittlichen Formen wirklich vereinigt.
+
+Eben diese freie Entwickelung ist der wirkliche , ist der wahre Mensch ; und entschieden ist eben dies Bewußtsein , daß die freie Ent wickelung in allen Sphären des Geistes principiell zu setzen ist , die gewaltige, unwiderstehliche Macht des gegenwärtigen Geistes .
+
+Dies Princip ist ein wahrhaft reales , ein wahrhaft praktiſches ; dagegen ist der Mensch im Allgemeinen , als ein äußerer Compler von entgegengeseßten Elementen ein imagi nåres Princip , ein abstractes , ein unbestimmtes , ein hohles
+
+Postulat, und zwar eben darum , weil es die Gegensäße nicht löst, sondern nur äußerlich verbindet. Daß mit der Auflöſung der Theologie in die Anthrope [p. 82] logie der Fortgang zur Idee des Absoluten verworfen wird, wie ihn die Religion und nicht minder die Philoſophie bisher festgehalten , werden wir sogleich noch weiter zu unterſuchen haben. bach
+
+Aus dem Vorigen erhellt zunächſt ſo viel , daß Feuer im Grunde nicht die Realität eines transcendenten
+
+Gottes , sondern vielmehr die reale Göttlichkeit des Menschen leugnet.
+
+Wie Feuerbach sogar Anstalt macht , das Selbstbewußtsein in Herbarts Manier in verschiedene Vorstellungss reihen aufzulösen , so kommt nach ſeinen Principien der Mensch weder theoretisch noch praktiſch über die Endlichkeit seiner Individualität wirklich hinaus .
+
+Die gebildete Empfindung erhebt sich nie zur objectiven Allgemeinheit in sich , und eben so wenig kann consequenter Weise der Mensch praktiſch ſich zur wesentlichen Allgemeinheit selbst bestimmen. Die Gött lichkeit, die hiermit dem Menschen vindicirt wird , ist offenbar nicht weit her.
+
+Durch die unmittelbare Beziehung der Gegensätze zu einander , durch das Zurücknehmen derselben in den einen ungetheilten Menschen geräth nun die Philosophie selbst in eine sehr seltsame Lage. Sie muß es nämlich consequenter Weise versuchen , sich mit Bewußtsein mit der Nichtphiloso phie in einen Drei zusammen zu rühren.
+
+Die neue , die allein poſitive Philoſophie ist die Negation aller Schulphilosophie , ob sie gleich das Wahre derselben in sich enthält , ist die Negation der Philoſophie als einer abſtracten, particulären , d. h. scholaſtiſchen Qualität : sie hat kein Schibolet, keine besondere Sprache , keinen besonderen Namen , kein besonderes Princip , sie ist der denkende Mensch ſelbſt. “ * ) „ Früher sagtest oder dachtest du wenigstens im Gegenſaß zur Formularphilosophie : die wahre Philosophie ist die Philosophie, die sich selbst verleugnet , die sich nicht als Philosophie aus
+
+*) Sämmtl. Schr . 2. Th. S. 264.
+
+[p. 83] spricht , die der Form , dem Ansehen nach keine Philoſophie ; jezt sagst du geradezu , die wahre Philoſophie ist die Negation der Philosophie , ist keine Philosophie." * ) ――― ,,Die alte Philosophie hat eine doppelte Wahrheit die Wahrheit für sich selbst, die sich nicht um den Menschen bekümmerte die Philosophie - und die Wahrheit für den Menschen die Religion.
+
+Die neue Philosophie dagegen , als die Philosophie des Menschen , ist auch wesentlich die Philosophie für den Menschen . -- sie hat unbeschadet der Würde und Selbstständigkeit der Theorie , ja im innigsten Einklange mit derselben , wesentlich eine praktische und zwar im höchsten Sinne praktische Tendenz ; ſie tritt an die Stelle der Religion, sie hat das Wesen der Religion in sich, sie ist in Wahrheit ſelbſt_Religion.“ ** )
+
+Wie die Philoſophie unmittelbar auch
+
+Religion sein soll , so wird sie ebensoſehr auch zur Kunst werden müssen ; auch ist es entschieden zu wenig gesagt , wenn ihr nur eine praktische Tendenz vindicirt wird ; ſie ist viel mehr selbst Praxis .
+
+Sobald sich irgend welche Function dee
+
+Geistes in ihrer Bestimmtheit , in ihrem specifischen Unter schiede von anderen Functionen geltend zu machen versucht , so ist ihr der Mensch , die wahre , einzige Wirklichkeit ents gegen zu halten ;
+
+dies Zauberwort drängt alle bestimmte
+
+Formirung in die frische , unbefangene Natürlichkeit zurück. Zum Theil glückt es . Feuerbach wirklich , gründlich zu vergessen ; Philosophie gehört.
+
+die Philoſophie er redet , als hätte er nie von der
+
+Aber nur zum Theil.
+
+Ueberwiegend geht es ihm noch nicht einmal so gut , wie den aufgeklärten Juden , die vor Allem nach der Wurst greifen.
+
+Er kommt nämlich gar nicht zum Eſſen der Wurst , sondern nur bis zu der Versicherung , daß er sie mit Vergnügen essen möchte.
+
+Seine Schriften wimmeln von philosophischen Terminis und * ) Ebend. 1. Th. Vorrede S. IX. ** ) Grundſåge §. 66.
+
+6*
+
+Kategorien ; das Publicum , an das er sich wendet , kann nur einen sehr geringen Theil von dem Dargebotenen goutiren. Ja, Feuerbach vergißt sich so sehr , daß er seine Nichtphilo
+
+‫ג‬ sophie principiell der früheren Philoſophie entgegenſeßt. In dem Momente, wo er sich ganz von der Philoſophie los. sagt , wirft er sich derselben wieder in die Arme. Die vernünftige Tendenz , der abstracten Sphäre des Denkens gegenüber die concrete Wirklichkeit des Geistes zu ihrem Rechte und zur objectiven Geltung zu verhelfen , kleidet sich hier in eine durchaus einseitige , dem Begriffe der Sache widersprechende Form .
+
+Allerdings ist die Philoſophie für sich nicht die vollständige Wirklichkeit des Geistes ; aber eben so verkehrt wie es ist , die Philoſophie für den ganzen Geiſt zu halten, also etwa zu fordern , daß sich Religion und Kunſt und wohl gar auch die sittliche Praxis in das abſtracte Denken auflöſe , eben so verkehrt ist es auch , jene von der Philoso
+
+▸ phie specifisch verschiedenen Sphären unmittelbar in die Philosophie hinein zu nehmen , und sie durch diese Zersprengung ihrer begrifflichen Bestimmtheit von ihrer wesentlichen Ab. ſtraction zu befreien.
+
+Die Philosophie als solche ist nicht
+
+Religion , ist nicht Kunſt , iſt nicht die concrete ſittliche Praxis ; ſie hat zunächst keine andere Aufgabe , als dieſe Sphären zu begreifen, zu untersuchen , wie sie im Begriffe des Geistes begründete , nothwendige , sich von einander unterscheidende Gestaltungen desselben sind.
+
+Sicherlich ist dadurch , daß ich die Kunst in ihren verschiedenen wesentlichen Formen begreife, die künstlerische Production selbst nicht ersetzt ; der Begriff der Kunst muß sehr verworrener Art sein , wenn er sich ein bildet, an die Stelle der Kunst selbst treten zu wollen.
+
+So.
+
+mit hat man denn auch vollkommen Recht , wenn man behauptet , das Denken allein ſei nicht im Stande , ein Kunstwerk vollständig zu fassen ; dies geschieht entschieden erst dadurch, daß ich mich nicht blos philoſophiſch , sondern künstlerisch [p. 85] zum Kunstwerk verhalte , daß ich dasselbe , wie es aus dem künstlerischen Geiſte entstanden , in derselben Weise auch repro ducire.
+
+Erst dadurch ist das Kunstwerk vollständig für mich da ; erst in dieser künstlerischen Anschauung und Begeisterung erfaſſe ich dasselbe seinem Begriffe gemäß — und zwar folgt es aus dem philosophischen Begriffe der Kunst selbst , daß das Denken allein nicht ausreicht , sich eines Kunstwerkes zu bemächtigen.
+
+Ganz ebenso verhält es sich in Bezug auf die
+
+Religion , auf das concrete sittliche Leben ; ähnlich steht es auch mit dem philosophischen Begreifen der Natur. Der Geist kann die Natur begreifen , weil er seinem Wesen nach die Wahrheit der Natur ist , die concrete Idealität der selben , weil er die Natur nicht bloß außer sich hat , sondern sie als sein eigenes wesentliches Moment in sich umfaßt.
+
+Ents schieden aber ist das denkende Begreifen der Natur noch nicht der vollständige Besitz derselben ; ich muß in ihre Sphäre ſelbſt eintreten , mit ihr kämpfen , sie bearbeiten , ich muß sie an schauen , empfinden , und zwar nicht bloß in thierischer , sondern in geistig gebildeter Weiſe , um ſie vollſtändig zu durch dringen und zu umfaſſen. Das Beobachten und Experimentiren wie es die empirische Naturwissenschaft thut , reicht hierzu eben so wenig hin , wie das Denken ; dies ist vielmehr selbst schon unmittelbares Denken , Reflectiren , Anfang und Neber gang in das philosophische Begreifen. Wenn man in der Gegenwart so oft urgirt , das Denken als solches könne die Natur unmöglich begreifen , weil es eben nicht Natur sei, wenn man nach einem positiven , realen Principe verlangt , so wird dies Verlangen dadurch zu einem widersinnigen , daß man dies reale Princip selbst wieder als ein Princip der Er kenntniß faßt , daß man also an das Denken Forderungen stellt , welche über die specifische Sphäre desselben wesentlich hinausliegen.
+
+Das Empfinden , das praktische Bearbeiten der
+
+Natur ſind solche reale Principien, welche sich mit vollkommenem
+
+[p. 86] Rechte neben das Denken stellen , aber nota bene nicht als eine höhere Erkenntniß der Natur.
+
+Sobald sich das Empfinden selbst zum Princip der Erkenntniß macht , so ist es schon eo ipso nicht mehr wirkliches Empfinden ; es ist viel mehr selbst schon Denken , und zwar einseitiges , sein Wesen selbst verkennendes , sich selbst mißverstehendes Denken. Aus der Abstraction , welche zum Begriffe des Denkens gehört, kann man alſo der Wiſſenſchaft des Denkens unmöglich einen Vorwurf machen. selbst sich entwickelt ,
+
+Je mehr aber das Denken in sich je mehr es innerhalb seiner eigenen
+
+Sphäre concret wird , desto mehr wird auch der innere Zusammenhang , in welchem die Philosophie mit den anderen Gestaltungen des Geistes steht , an ihr selbst gesetzt sein.
+
+Freiheit, der allgemeine Proceß der Befreiung ist es , welcher alle verschiedenen Gestaltungen des Geistes als Momente in sich vereinigt, sie unterscheidet und innerlich verbindet. Wirklich frei ist der Geist eben dann, wenn er alle seine wesentlichen Gestalten in ihrer ganzen prägnanten Bestimmtheit aus sich producirt, sie aber eben so sehr zu einer harmonischen Totalität zusam mennimmt.
+
+Für die ersten unentwickelten Zustände des Geistes charakteristisch ist es , daß die verschiedenen geistigen Sphären nicht in ihrer specifischen Bestimmtheit hervortreten.
+
+Die Ent wickelung selbst ist Sezen der Unterschiede , und erst die Ein heit des Geistes mit sich ist eine freie , geistige , in welcher die wesentlichen Unterschiede ihr vollkommenes Recht , ihre objective Wirklichkeit haben.
+
+Jene Einheit , jener innere Zusammenhang gehört also ebenso zum Begriffe jeder besonderen. Gestalt, als ihr Unterschied von allen anderen. So ist die we Religion ― das individuelle Ergreifen der Idee fentlich nicht Philosophie ; allein je tiefer, energischer der religiöse Proceß ist , desto offener ist er auch für den Uebergang in das denkende Bewußtsein , desto offener für die weitere sittliche Praxis ; der Glaube , welcher sich principiell der [p. 87] concreten Sittlichkeit , der Philosophie widerseßt , ist in sich selbst abstracter, unfreier Glaube.
+
+Ebenso ist auch die Philos .
+
+sophie nicht Religion ; allein je tiefer , je concreter in sich die philosophische Erkenntniß ist , desto mehr füllen ihre Resultate das individuelle Gemüthsleben aus , und streben all seitig in dieses hinüber ; desto mehr erfaßt sie gerade - das Princip , welches den Willen in Bewegung seht und die ſitt liche Praxis hervortreibt.
+
+Ebenso ist auch die sittliche Gestaltung des Geistes nur dann eine wahrhaft freie , wenn sie die Wiſſenſchaft in ihrer ganzen Freiheit und kritischen Energie ſchüßt und als wesentliches Glied ihrer Organiſation in ſich aufnimmt.
+
+Allerdings können in der historischen Entwickelung
+
+Zeiten eintreten , in welchen eine besondere Geſtaltung sich so hervordrängt , daß sie alles geistige Interesse nimmt , alle anderen in Anspruch geistigen Sphären in sich absorbirt ;
+
+sicherlich aber wird die weitere Entwickelung auch dieſe momentan unterdrückten Sphären wieder in ihrer ganzen Bestimmtheit hervortreiben , wenn sie wirklich nothwendige , das Wesen des Geistes offenbarende Gestaltungen sind .
+
+So könnte man auch jezt der Ansicht sein , daß es gegenwärtig nicht zu thun sei um die weitere Entwickelung der Philosophie , ſondern um die Constituirung der freien sittlichen Praxis ; dies sei das wesentliche Intereſſe der Gegenwart , die Zeit des abſtracten Denkens sei vorläufig vorüber.
+
+Immerhin ; so thue man das
+
+Seinige; man verbreite nach Kräften die Idee des Sittlichen, werfe die abstracte Form der Kategorie von sich, wende sich an das allgemeine gebildete Bewußtsein ;
+
+allein man gebe diese Nichtphilosophie nicht für die eigentliche Philosophie aus, und glaube nicht , daß durch eine Verachtung der kategorischen Bestimmtheit, durch ein liederliches Philosophiren der sittlichen Praxis zu helfen wäre.
+
+Ohne Zweifel hat das Popularisiren der Wissenschaft sein wohl begründetes Recht.
+
+Das wahre
+
+Popularisiren ist nie bloß ein abſtractes Umſeßen des philoſophi [p. 88] schen Gedankens in die Form der Vorstellung ; vielmehr ist dasselbe immer zugleich auch ein schöpferischer Act ; es ſeßt, soll es wirklich gelingen , ein productives Talent voraus , welches sich nie damit begnügt , schon ercungene Reſultate in einer andern Form wiederzufäuen , welches vielmehr in die Tiefe des Geistes hinabsteigt , welches Momente zum Bewußt fein bringt , welche noch keine Wiſſenſchaft denkend begriffen hat.
+
+Die freiere , für das allgemeine Bewußtsein verständs liche Rede muß nothwendig eine künstlerische Form anſtreben ; sie wendet sich an die Phantasie , an das Gemüth , verſchmäht es aber auch nicht , zu reflectiren , und ist so , wenn man will, eben so sehr Philoſophie als Kunſt , als Religion , auch ein unmittelbar praktisches Eingreifen in das ſittliche Leben.
+
+dadurch kann bei den dieser Rede Mächtigen sehr leicht die Einbildung entstehen , als füllten ihre Productionen alle Bedürfnisse des Geiſtes aus ; eine Einbildung , die eine ſehr ge ringe Einsicht in das Wesen des Geistes verräth. Eine all ſeitige Befriedigung kann dem Geiste nur entstehen aus der allseitigen Verwirklichung seines Weſens ; nur dadurch , daß er die wesentlichen Unterschiede des Befreiungsproceſſes in ihrer ganzen vollen Bestimmtheit und Strenge aus sich producirt.
+
+## II.
+
+## Wesen der Religion.
+
+1 ) Die Religion ist nach Feuerbach die Anschauung des Menschen von seinem Wesen als von einem an deren Wesen.
+
+In der Religion unterscheidet sich also zu nächst der Mensch von sich selbst ; aber dieser Unterſchied ſeiner von ihm selbst wird in seiner Vorstellung zu einem Unterſchiede ſeiner von einem anderen , ihm selbstständig gegenüberstehenden
+
+In der Religion selbst hat der Mensch nicht das durchaus Bewußtsein, daß dies andre Wesen --- Gott keine anderen als rein menschliche Bestimmungen in ſich ent hält , daß es als anderes nur Product der menschlichen Vor stellung , Phantasie ist ; jedoch bezieht auch in der Religion der Mensch dieses andere Wesen wesentlich auf sich selbst , hebt damit im Grunde die absolute Selbstständigkeit desselben auf; allein da diese wesentliche Menschlichkeit Gottes nicht ins Bewußtsein tritt , da neben dieser Einheit immer der Unterschied auch festgehalten wird , so kommt der religiöse Geist nicht aus dem Zwiespalte seiner mit sich heraus.
+
+Erst die neueſte Philoſophie befreit den Geist von diesem inneren Widerspruch , indem sie durch die vollſtändige Nachweiſung , daß alle Bestimmungen , welche das religiöse Bewußtsein Gott beis legt, nur menschliche sind , die wesentliche Illuſion der Religion von Grund aus vernichtet. Feuerbach schickt seiner Kritik der Religion einen Abschnitt voraus : über das Wesen des Menschen im Allgemeinen. Der wesentliche Unterschied des Menschen vom Thiere ist das Bewußtsein im strengen Sinne d. h. das Bewußtsein des Menschen von seinem Wesen , von seiner Gattung.
+
+Hat das
+
+Thier eben darum weil ihm dies Bewußtsein abgeht, nur ein ein [p. 90] faches Leben, so hat der Mensch dagegen ein zweifaches.
+
+Bei dem Thiere ist das innere Leben eins mit dem äußeren ; der Mensch hat ein inneres und äußeres Leben.
+
+Das innere
+
+Leben des Menschen ist das Leben im Verhältniß zu seiner Gattung, seinem allgemeinen Wesen. ,,Was ist nun aber fragt Feuerbach weiter das Wesen des Menschen , dessen er sich bewußt ist , oder was constituirt die Gattung , die eigentliche Menschheit im Menschen ? Wille, das Herz .
+
+Die Vernunft, der
+
+Zu einem vollkommenen Menschen ge hört die Kraft des Denkens , die Kraft des Willens , die Kraft des Herzens.
+
+Die Kraft des Denkens ist das Licht der Erkenntniß , die Kraft des Willens die Energie des Cha rafters , die Kraft des Herzens die Liebe.
+
+Vernunft , Liebe ,
+
+Willenskraft sind Vollkommenheiten , die Vollkommenheiten des menschlichen Wesſens , ja abſolute Wefensvollkommenheiten.
+
+Wollen , lieben , denken sind die höchsten Kräfte , sind das abſolute Wesen des Menschen als solchen , als Menschen , und der Grund seines Daseins .
+
+Der Mensch ist , um zu denken , um zu lieben , um zu wollen.
+
+Was aber der End zweck, ist auch der wahre Grund und Ursprung eines Wesens . Aber was ist der Zweck der Vernunft ? die Vernunft.
+
+Liebe ? die Liebe.
+
+Wir
+
+Des Willens ?
+
+die Willensfreiheit.
+
+denken um zu denken , lieben um zu lieben , wollen um zu wollen d . h. frei zu sein.
+
+Wahres Wesen ist denkendes , liebendes , wollendes Wesen.
+
+Wahr, vollkommen , göttlich ist nur , was um seiner selbst willen ist. so die Vernunft, so der Wille.
+
+Aber so ist die Liebe,
+
+Die göttliche Dreieinigkeit im
+
+Menschen über dem individuellen Menschen ist die Einheit von Vernunft, Liebe , Willen.
+
+Vernunft ( in ihren sinnlichen For men : Einbildungskraft , Phantasie , Vorstellung , Meinung ) Wille, Liebe oder Herz sind keine Kräfte , welche der Mensch hat denn er ist nichts ohne sie , er ist , was er ist , nur durch sie sie sind , als die sein Wesen, welches er weder hat, [p. 91] noch macht , constituirenden Elemente , die ihn beseelenden , bestimmenden , beherrschenden Mächte göttliche , absolute Mächte , denen er keinen Widerstand entgegenseßen kann. " — Das Einseitige dieses Räsonnements besteht wieder darin, daß die wesentlichen Momente und Thätigkeiten des Geistes nur unmittelbar neben einander gestellt werden. das Bewußtsein das Wesen ;
+
+Zunächst ist dieſem tritt als das Wesen , von dem gewußt wird , Vernunft , Wille , Herz gegenüber , und wie diese drei geistigen Mächte weder unter einander noch mit dem Bewußtsein in innere Beziehung gesezt werden, so tritt eben so unvermittelt auch noch das Moment der Individualität hinzu. allgemeinen
+
+Das Individuum soll nun aber jenen geistigen Mächten gar keinen Widerstand ents gegenseßen können , d . h . ein schlechthin verschwindendes , un selbstständiges Accidenz des allgemeinen Wesens ſein ― eine Behauptung , welche Feuerbachs anderweitigen Anschauungen ganz fremb ist. Besonders von Wichtigkeit für die folgende Kritik iſt nun aber vor Allem die Bestimmung , daß , der Mensch un möglich über sein Wesen hinausgehen könne. " Der Mensch heißt es ― ist nichts ohne Gegenstand ; aber der Gegenstand , auf welchen sich ein Subject wesentlich , nothwendig bezieht , ist nichts Anderes als das eigene , aber gegenständliche Wesen des Subjects .
+
+An dem Gegenstande wird der Mensch sich seiner selbst bewußt ; daß Bewußt sein des Gegenstandes ist das Selbstbewußtsein des Menschen. Aus dem Gegenstand erkennst du den Menschen ; an ihm er scheint dir sein Wesen , der Gegenstand ist sein offenbares Wesen , sein wahres , objectives Ich .
+
+Und dies gilt keineswegs nur von den geistigen , sondern selbst auch den sinnlichen Gegenständen.
+
+Auch die dem Menschen fernsten
+
+Gegenstände sind , weil und wiefern sie ihm Gegenstände ſind , Offenbarungen des menschlichen Wesens. ― Das absolute
+
+[p. 92] Wesen des Menschen iſt ſein eignes Wesen.
+
+Die Macht des
+
+Gegenstandes über ihn ist daher die Macht seines eigenen Wesens.
+
+So ist die Macht des Gegenstandes , des Gefühles die Macht des Gefühls , die Macht des Gegenstandes der Vernunft die Macht der Vernunft selbst , die Macht des Gegenstandes des Willens die Macht des Willens.
+
+Den Men
+
+ſchen , deſſen Weſen der Ton beſtimmt , beherrscht das Gefühl, wenigstens das Gefühl , welches im Tone ſein entsprechendes Element findet.
+
+Nicht aber der Ton für sich selbst , nur der inhaltsvolle , der ſinn- und gefühlvolle Ton hat Macht über das Gefühl.
+
+Das Gefühl wird nur durch das Gefühlvolle, d. h. durch sich selbst , sein eigenes Wesen bestimmt.
+
+So auch der Wille, so auch und unendlich mehr die Vernunft.
+
+für eines Gegenstandes wir uns daher auch nur immer des wußt werden, wir werden stets zugleich unseres eigenen Wesens uns bewußt , wir können nichts Anderes bethätigen uns ſelbſt zu bethätigen.
+
+ohne
+
+Und weil Wollen , Fühlen , Denken
+
+Vollkommenheiten sind , Wesenheiten , Realitäten , so ist es unmöglich , daß wir mit Vernunft die Vernunft , mit Gefühl das Gefühl , mit Willen den Willen als eine beschränkte , endliche d. h. nichtige Kraft empfinden oder wahrnehmen .
+
+Es ist unmöglich , daß wir uns des Willens , des Gefühls , der Vernunft als endlicher Kräfte bewußt werden , weil jede Voll kommenheit , jede ursprüngliche Kraft und Wesenheit die un mittelbare Bewahrheitung und Bekräftigung ihrer selbſt iſt. Man kann nicht lieben , nicht wollen , nicht denken , ohne diese Thätigkeiten als Vollkommenheiten zu empfinden , nicht wahrnehmen , daß man ein liebendes , denkendes , wollendes Wesen ist , ohne darüber eine unendliche Freude zu empfinden. Bewußtsein ist das sich selbst Gegenstand Sein eines Wesens ; daher nichts Apartes , nicht von dem Wesen , das sich seiner bewußt ist , Unterschiedenes .
+
+Wie könnte es sonst sich seiner bewußt sein ? Unmöglich ist es darum , einer Vollkommenheit
+
+D [p. 93] als einer Unvollkommenheit sich bewußt zu werden , unmöglich das Gefühl als beschränkt zu empfinden , unmöglich, das denken als beschränkt zu denken. - Jede Beschränkung der Vernunft oder überhaupt des Wesens des Menschen beruht auf einer Täuschung , einem Irrthum.
+
+das menschliche Individuum ―
+
+Wohl kann und soll hierin besteht sein Unter sich als beschränkt fühlen und schied von dem thierischen erkennen ; aber es kann sich seiner Schranken , seiner Endlich keit nur bewußt werden , weil ihm die Vollkommenheit , die Unendlichkeit der Gattung Gegenstand ist , sei es nun als Gegenstand des Gefühls oder des Gewiſſens oder des denken den Bewußtseins .
+
+Macht es gleichwohl seine Schranken zu Schranken der Gattung , so beruht dies auf der Täuschung , daß es sich mit der Gattung unmittelbar identi ficirt eine Täuschung , die mit der Bequemlichkeitsliebe ,
+
+Trägheit , Eitelkeit und
+
+Selbſtſucht des Individuums aufs innigste zusammenhängt .
+
+Eine Schranke nämlich , die ich bloß als meine Schranke weiß , demüthigt , beſchämt und beunruhigt mich.
+
+Um mich daher von diesem Schamgefühl , von dieser Unruhe zu befreien , mache ich die Schranken meiner Individualität zu Schranken des menschlichen Wesens .
+
+mir unbegreiflich , ist auch den Anderen unbegreiflich ; was soll ich mich weiter kümmern ? es ist ja nicht meine Schuld ; es liegt nicht an meinem Verstande ; es liegt am Verstande der Gattung selbst.
+
+Aber es ist Wahn , lächerlicher und zu gleich frevelhafter Wahn , das was die Natur des Menschen constituirt , das Wesen der Gattung , welches das absolute Wesen des Individuums iſt , als endlich , als ´beschränkt zu bestimmen.
+
+Jedes Wesen ist sich selbst genug.
+
+Kein
+
+Wesen kann sich , d . h. seine Wesenheit negiren ; kein Weſen ist sich selbst ein beschränktes .
+
+Jedes Wesen ist vielmehr in
+
+ſich und für sich unendlich , hat seinen Gott , sein höchstes Wesen in sich selbst.
+
+Jede Schranke eines Wesens existirt nur für ein anderes Wesen außer und über ihm.
+
+Leben der Ephemeren ist außerordentlich kurz im Vergleich zu länger lebenden Thieren ; aber gleichwohl ist für sie dieſes kurze Leben so lang als für Andere ein Leben von Jahren . Das Blatt, auf welchem die Raupe lebt , ist für sie cine Welt , ein unendlicher Raum. Denfft du folglich das Un endliche , so denkst und bestätigst du die Unendlichkeit des
+
+Denkvermögens ; fühlst du das Unendliche , so fühlst und be ſtätigst du die Unendlichkeit des Gefühlsvermögens .
+
+Alles daher , was im Sinne der hyperphyſiſchen , transcendenten Speculation und Religion nur die Bedeutung des Secun dären, des Subjectiven , des Mittels , des Organs hat , das hat im Sinne der Wahrheit die Bedeutung des Primitiven , des Wesens , des Gegenstandes selbst.
+
+Ist z . B. das Gefühl das wesentliche Organ der Religion , so drückt das Wesen Gottes nichts Anderes aus als das Wesen des Gefühls. Der wahre oder verborgene Sinn der Rebe :
+
+,, Das Gefühl ist das Organ des Göttlichen , " lautet : Das Gefühl ist das Nobelste , Trefflichſte , d . h . das Göttliche im Menschen. Wenn du aber dennoch ein Object des Gefühls festsetzen , zugleich aber dein Gefühl wahrhaft auslegen willst , ohne mit deiner Reflexion etwas Fremdartiges hineinzulegen , was bleibt dir übrig , als zu unterscheiden zwischen deinen individuellen Gefühlen und zwischen dem allgemeinen Wesen , der Natur des Gefühls , als abzusondern das Wesen des Gefühls von den störenden , verunreinigenden Einflüssen , an welche in dir , dem bedingten Individuum , das Gefühl ge bunden ist ?
+
+Was du daher allein vergegenständlichen , als
+
+Unendliche aussprechen , dessen Wesen bestimmen kannst , das ist nur die Natur des Gefühls .
+
+Du hast hier keine andere Bestimmung für Gott als diese : Gott ist das reine, das unbeschränkte , das freie Gefühl. Dieselbe Bewandtniß hat es mit jeder anderen Kraft , Fähigkeit, [p. 95] der Name ist gleichgültig -
+
+-
+
+Potenz , Realität , Thätigkeit welche man als das wesentlichste Organ genstandes bestimmt.
+
+eines Ge
+
+Was subjectiv die Bedeutung des
+
+Wesens , das hat eben damit objectiv die Bedeutung des Wesens.
+
+Der Mensch kann wahres Wesen hinaus .
+
+nun einmal nicht über sein
+
+Wohl mag er sich vermittelst der
+
+Phantasie Individuen anderer , angeblich höherer Art vor stellen , aber von seiner Gattung , seinem Wesen kann er nimmermehr abstrahiren ; die Wesensbestimmungen , die post tiven lezten Prädicate, die er dieſen anderen Individuen giebt, sind immer aus seinem eignen Wesen geſchöpfte Beſtimmungen - Bestimmungen , in denen er in Wahrheit nur sich selbst abbildet und vergegenständlicht. * ) Der zweite Abschnitt der Einleitung handelt vom Wesen der Religion im Allgemeinen. „ Was im Allgemeinen, selbst in Beziehung auf die sinnlichen Gegenstände , von dem Verhältniß des Subjects zum Object behauptet wurde , das gilt in's Besondere von dem Verhältniß des Subjects zum religiösen Gegenstande. lichen Gegenständen
+
+Im Verhältniß zu den sinn ist das Bewußtsein des Gegenstandes wohl unterscheidbar vom Selbstbewußtsein ; aber bei dem religiösen Gegenstand fällt das Bewußtsein mit dem Selbstbewußtsein unmittelbar zusammen.
+
+Der sinnliche Gegenſtand.
+
+ist außer dem Menschen da , der religiöse in ihm.
+
+Der sinn liche Gegenstand ist an sich ein indifferenter , unabhängig von der Gesinnung , von der Urtheilskraft;
+
+der Gegenstand der
+
+Religion aber ist ein auserlesener Gegenstand : das vor züglichste , das erste , das höchste Wesen ; er sett wesentlich ein kritisches Urtheil voraus , den Unterschied zwischen dem Göttlichen und Nichtgöttlichen , dem Anbetungswürdigen und Nichtanbetungswürdigen.
+
+Und hier ' gilt daher ohne alle
+
+Einschränkung ter Sat :
+
+der Gegenstand des Subjects
+
+* ) Wesen des Christenthums. S. 5 ff.
+
+[p. 96] ist nichts Anderes áls das gegenständliche Wesen des Subjects selbst.
+
+Wie der Mensch denkt , wie er gesinnt ist , so sein
+
+Gott; so viel Werth der Mensch hat , so viel Werth und nicht mehr hat sein Gott.
+
+Das Bewußtsein Gottes ist das Selbstbewußtsein des Menschen , die Er kenntniß Gottes die Selbsterkenntniß des Men schen.
+
+Aus seinem Gotte erkennst du den Menschen , und wiederum aus dem Menschen seinen Gott ; beides iſt identiſch. Was dem Menschen Gott ist , das ist sein Geist, seine Seele, und was des Menschen Geist , seine Seele , sein Herz , das ist sein Gott.
+
+Gott ist das offenbare Innere , das ausge sprochene Selbst des Menschen ; die Religion die feierliche Enthüllung verborgener Schäße des Menschen , das Einge ſtändniß seiner innerſten Gedanken , das öffentliche Bekenntniß Der religiöse Mensch ist es ſich seiner Liebesgeheimniſſe.
+
+aber nicht direct bewußt , daß sein Bewußtsein von Gott das Selbstbewußtsein seines Wesens ist , denn der Mangel dieſes Bewußtseins begründet eben das eigenthümliche Wesen der Religion.
+
+Die Religion ist die erste und zwar indirecte
+
+Selbsterkenntniß des Menschen.
+
+Die Religion geht daher überall der Philosophie voran , wie in der Geschichte der
+
+Menschheit, so auch in der Geschichte der Einzelnen .
+
+Mensch verlegt sein Wesen zuerst außer sich , ehe er es in ſich findet.
+
+Das eigne Wesen ist ihm zuerst als ein anderes
+
+Wesen Gegenstand .
+
+Die Religion ist das kindliche Wesen der Menschheit ; aber das Kind sieht sein Wesen , den Men schen , außer sich ; - als Kind ist der Mensch sich als ein anderer Mensch Gegenstand .
+
+Der geschichtliche Fortgang in den Religionen besteht deswegen darin , daß das , was der früheren Religion für etwas Objectives galt , jezt als etwas Subjectives , d . h. was als Gott angeschaut und angebetet wurde , jest als etwas Menschliches erkannt wird. frühere Religion ist der späteren Gößendienst :
+
+der Mensch [p. 97] hat sein eignes Wesen angebetet.
+
+Der Mensch hat sich ver objectivirt, aber den Gegenstand nicht als sein Wesen erkannt; die spätere Religion thut diesen Schritt ; jeder Fortschritt in der Religion ist daher eine tiefere Selbsterkenntniß.
+
+Aber jede bestimmte Religion , die ihre älteren Schwestern als Gößen dienerinnen bezeichnet , nimmt sich selbst und zwar noth wendig , sonst wäre sie nicht mehr Religion ―――― von dem Schicksale , dem allgemeinen Wesen " der Religion aus ; sie schiebt nur auf die anderen Religionen , was doch ―――― wenn anders Schuld - die Schuld der Religion überhaupt ist. Weil sie einen anderen Gegenstand , einen anderen In halt hat, weil sie über den Inhalt der früheren sich erhoben, wähnt sie sich erhaben über die nothwendigen und ewigen Gefeße , die das Wesen der Religion conſtituiren , wähnt sie, daß ihr Gegenstand , ihr Inhalt ein übermenschlicher sei.
+
+Aber dafür durchschaut das ihr selbst verborgene Wesen der Religion der Denker , dem die Religion Gegenstand ist, was sich selbst die Religion nicht sein kann.
+
+Und unsere Aufs gabe ist es eben , nachzuweisen , daß der Gegenſaz des Göttlichen und Menschlichen ein durchaus illuſoriſcher , daß er nichts Anderes ist als der Gegensatz zwischen dem mensch lichen Wesen und dem menschlichen Individuum , daß folglich auch der Gegenstand und Inhalt der christlichen Religion ein durchaus menschlicher ist. " * ) --Daß alle Bestimmungen des göttlichen Wesens Bestimmungen des menschlichen Wesens ſind , wird in Bezug auf die Prädicate des göttlichen Wesens gewöhnlich leicht zu gestanden ; man zieht aber nicht die nothwendige Consequenz, daß die Negation der Prädicate auch Negation des Subjects selbst ist.
+
+Ohne Prädicate ist Gott das schlechthin Unbe stimmte, Unerkennbare ; diese Unbestimmtheit und Unerkenn barkeit Gottes kann aber nur da als ein Dogma ausgesprochen *) Ebend. S. 17 ff.
+
+Bayerischo Startsbibliothek
+
+HEY [p. 98] und firirt werden , wo dieser Gegenstand kein Interesse mehr für die Erkenntniß hat , wo die Wirklichkeit allein den Men schen in Anspruch nimmt , das Wirkliche allein für ihn die Bedeutung des wesentlichen , des absoluten , göttlichen Gegen standes hat , aber doch zugleich noch in Widerspruch mit dieser rein weltlichen Tendenz ein alter Rest von Religiosität vor handen ist.
+
+Der Mensch entschuldigt mit der Unerkennbarkeit
+
+Gottes vor seinem noch übrig gebliebenen religiöſen Gewiſſen feine Gottvergessenheit , ſein Verlorenſein in die Welt ; er negirt Gott praktisch durch die That, all sein Sinnen und Denken hat die Welt inne aber er negirt ihn nicht theoretisch ; er greift seine Existenz nicht an ; er läßt ihn bestehen.
+
+Allein diese Existenz tangirt und incommodirt ihn nicht ; sie ist eine nur negative Existenz , eine Existenz ohne Eriſtenz , eine sich selbst widersprechende Eriſtenz , ein Sein, das seinen Wirs kungen nach nicht unterscheidbar vom Nichtsein ist.
+
+Außerdem giebt es noch eine gelindere Weise , die göttlichen Prä dicate zu negiren.
+
+Man giebt nämlich ihre Endlichkeit , ihre
+
+Menschlichkeit zu , nimmt sie aber doch in Schuß , weil sich der Mensch unmöglich andere als menschliche Vorstellungen von Gott machen könne. ,, In Beziehung auf Gott , sagt man , sind diese Prädicate freilich ohne objective Bedeutung, aber für mich kann Gott , weil und wenn er für mich sein soll , nicht anders erscheinen als so , wie er mir erscheint , nämlich als ein menschliches
+
+Allein diese Unterscheidung zwischen dem , was Gott oder doch menschenähnliches an sich und dem was er für mich ist , zerstört den Frieden der Religion , und ist überdem an sich selbst eine grund- und haltlose Distinction .
+
+Ich kann gar nicht wissen , ob Gott etwas anderes an sich oder für sich ist , als er für mich ist ; wie er für mich ist , so ist er Alles für mich.
+
+Für mich liegt eben in diesen Prädicaten , unter welchen er für mich ist, fein Ansichsein , sein Wesen selbst ; er ist für mich so , wie er [p. 99] für mich nur immer sein kann.
+
+Der religiöse Mensch iſt in dem , was Gott in Bezug auf ihn ist Beziehung weiß er nichts von einer anderen
+
+- vollkommen befriedigt , denn
+
+Gott ist ihm , was er dem Menſchen überhaupt ſein kann. In jener Distinction setzt sich der Mensch über sich selbst , d . h. über sein Wesen , sein absolutes Maaß hinweg , aber diese Hinwegseßung ist nur eine Illusion.
+
+Den Unterſchied nämlich zwiſchen dem Gegenstande , wie er an sich , und dem Gegenstande , wie er für mich ist , kann ich nur da machen , wo ein Gegenstand mir wirklich anders erscheinen kann , als er erscheint ; aber nicht wo er mir so erscheint , wie er mir nach meinem absoluten Maaße erscheint , wie er mir er scheinen muß.
+
+Wohl kann meine Vorstellung eine ſubjective sein , d. h. eine solche , an welche die Gattung nicht ge= bunden ist. Aber wenn meine Vorstellung dem Maaße der Gattung entspricht , so fällt die Unterscheidung zwischen An ſichſein und Fürmichſein weg ; denn diese Vorstellung ist selbst eine absolute.
+
+Das Maaß der Gattung ist das absolute
+
+Maaß, Gesez und Kriterium des Menschen. " Hiernach wird also im Allgemeinen der Unterſchied zwischen Mensch und Gott auf den dem Menschen selbst imma nenten Unterschied zwischen seinem individuellen und allge meinen Wesen zurückgeführt ; dieser letztere Unterschied ist die Wahrheit , der wahre Kern jenes bloß vorgestellten , religiösen Unterschiedes.
+
+Indem die Religion dieſen im Begriffe des
+
+Menschen begründeten , an und für sich nothwendigen Unter schied in ſich trägt, hat sie eben hierin ihren Werth und ihre Wahrheit , und indem Feuerbach diesen Unterschied anerkennt, so fällt es ihm nicht ein , das Göttliche überhaupt zu leugnen, dasselbe mit dem Endlichen schlechthin zu identificiren ; vielmehr verwandelt er nur das transcendente Göttliche in ein imma nentes.
+
+Für den weiteren Begriff der Religion und besonders für die nähere Bestimmung dessen , worin die Kritik die Re 7* [p. 100] ligion auflöst , käme es nun auf den bestimmten Begriff des menschlichen Wesens und auf das Verhältniß der Gattung zu den einzelnen Individuen an.
+
+Nach dem weiteren Verlauf der
+
+Kritik faßt die Religion ſelbſt jenes Verhältniß in einer ſo einseitigen Weise , daß sie dadurch die Wahrheit , welche ihr zunächſt zugestanden wurde , vollkommen wieder einzubüßen scheint. Wenn Feuerbach die Religion als Anschauung , Vor stellung definirt , so hebt er hiermit eine Seite hervor, welche in dem religiösen Proceß entschieden nur secundäre Bedeutung hat.
+
+Das Specifische der Religion ist der individuelle gemüthliche Proceß , das unmittelbare Er faßtwerden des Individuums von seinem Wesen.
+
+Allerdings treibt dieser innerliche Proceß auch zur Anschauung, Vorstellung fort , allein dieſes theoretische Element bleibt in der Religion selbst immer abhängig von der individuellen Inner lichkeit , bildet aber zugleich den Uebergang des religiösen
+
+Glaubens in die Reflexion , in das Denken.
+
+Feuerbach selbst urgirt aber auch später , daß die Religion nicht bloß theoretischer sondern auch practischer Natur sei.
+
+Nehmen wir daher die Vorstellung des Menschen von seinem allgemeinen Wesen auch in diesem practischen Sinne, so erscheint die
+
+Religion als eine Reinigung , als eine Befreiung des Men schen von den unmittelbaren Schranken ſeiner Individualität; *) sie ist der Proceß der Reinigung und Befreiung ſelbſt , das individuelle Erfaſſen des allgemeinen , ewigen Wesens.
+
+Dieser idealiſtiſchen Auffaſſung der Religion ſtellt sich aber durch die ganze kritische Betrachtung hindurch eine andere entgegen , nach welcher der Mensch in der Religion nicht sein allge meines, sondern sein individuelles Wesen sich vergegenständlicht, nach welcher der Mensch in dem religiösen Proceß sich nicht reinigt von seiner Endlichkeit , sondern im Gegentheil den unreinen endlichen Bedürfnissen sich preisgiebt. *) Wesen d. Chriſtenth. S. 26.
+
+Sogleich in [p. 101] den einleitenden Betrachtungen über das allgemeine Wesen der Religion heißt es : ,, Was nur immer dem Menschen im ponirt, was nur immer einen besondern Eindruck auf sein Gemüth macht ---- es sei auch nur ein sonderbarer , unerklärlicher Schall oder Ton - verselbstständigt er als ein besonderes , als ein göttliches Wesen.
+
+Die Religion umfaßt alle Gegenstände der Welt ; Alles , was nur immer ist , war Gegenstand religiöser Verehrung ; im Wesen und Bewußtsein der Religion ist nichts Anderes , als was überhaupt im Wesen und im Bewußtsein des Menschen von sich und von der Welt liegt.
+
+Die Religion hat keinen aparten Inhalt.
+
+die Affecte der Furcht und des ihre Tempel.
+
+Selbst
+
+Schreckens hatten in Rom
+
+Auch die Christen machten Gemüthserschei nungen zu Wesen , ihre Gefühle zu Qualitäten der Dinge, die sie beherrschenden Affecte zu weltbeherrschenden Mächten , kurz Prädicate ihres eignen , sei es nun bekannten oder uns bekannten Wesens , zu für sich selbst bestehenden Subjecten. Teufel , Kobolde , Heren ,
+
+Gespenster , Engel waren heilige
+
+Wahrheiten , so lange das religiöse Gemüth ungebrochen , ungetheilt die Menschheit beherrschte. “ * ) Vor Allem tritt diese endliche Subjectivität des religiöſen Bewußtseins hervor in dem Glauben an Wunder.
+
+Was das Herz nur immer wünscht , ohne vernünftige Schranke , ohne Maaß , jedes will kührliche subjective Bedürfniß soll dem religiösen Subject er füllt werden ; Gott ist die Macht , alle diese subjectiven Wünsche zu realisiren . ** ) Ferner soll —— was in dem Ab schnitt über den allgemeinen Begriff der Religion verschwiegen wurde ,, der wesentliche Standpunct der Religion der practische, d. h. der subjective " sein.
+
+Die practische Anschauung aber ist eine schmußige , vom Egoismus befleckte Anschauung , denn ich verhalte mich in ihr zu einem Dinge nur um meinetwillen d eine nicht in sich befriedigte An * ) Ebend, S. 33.
+
+** ) Ebend . S. 186 ff.
+
+[p. 102] schauung , denn ich verhalte mich in ihr zu einem mir nicht ebenbürtigen Gegenstand.
+
+Die theoretische Anschauung da gegen ist eine freudenvolle , in sich befriedigte , seelige Anschauung , denn ihr ist der Gegenstand ein Gegenstand der Liebe und Bewunderung , er ſtrahlt im Lichte der freien Intelligenz ; die Anschauung der Theorie ist eine ästhetische Anschauung , die practiſche dagegen eine unäſthetiſche. “ * )
+
+In der " Schlußanwendung “ zum Wesen des Christenthums heißt es: ,, Wir haben bewiesen , daß der Inhalt und Gegenstand der Religion ein durchaus menschlicher ist, und zwar menschlicher in dem doppelten Sinne dieses Worts , in welchem es eben sowohl etwas Positives als Negatives des deutet , daß die Religion nicht nur die Mächte des menſch lichen Wesens , ſondern ſelbſt auch die Schwachheiten , die subjectiven Wünsche des menschlichen Herzens , wie z . B. in den Wundern , unbedingt bejaht. “ ** Diese endliche unfreie Seite der Religion läßt Feuerbach in den späteren Schriften , welche vorzugsweise zur Erläuterung des Wesens des Chriſtenthums dienen sollen , viel entſchie, dener in den Vordergrund treten.
+
+„ Die Existenz , das Leben ist das höchste Gut , das höchste Wesen ―――― der ursprüngliche Gott des Menschen.
+
+,, Das Leben ist an sich etwas absolut
+
+Gutes und Angenehmes " sagt Aristoteles ,,, das Verlangen zu existiren das vorzüglichste und mächtigste Verlangen “ Plutarch , „ das köstlichſte Gut iſt das Leben“ Luther. Und Odyſſeus sagt zur Nauſikaa : ,, wie der Göttinnen eine will ich dich anflehen jeglichen Tag , weil du das Leben mir rettetest, Jungfrau. "
+
+Das heißt : ich verehre dich nur deswegen mit
+
+* ) Ebendaselbst S. 275. S. 291 . **) 1fte Ausgabe S. 369. In der zweiten Ausgabe heißt es nur : „Wir haben bewiesen , daß der Inhalt und Gegenſtand der Religion ein durchaus menschlicher' ist. “ Warum F. hier die Schwachheiten und ſubjectiven Wünſche fortgelaſſen , die er in der ersten Ausgabe bewiesen zu haben behauptete , ist nicht einzusehen. Dem Verlauf der Kritik ges måß hat das ,, durchaus menſchliche “ entschieden dieſen Sinn.
+
+[p. 103] Bewußtsein als eine Göttin , weil ich ohne Bewußtsein , un willkührlich das Leben als das höchste , göttlichste Ding und Gut verehre.
+
+Der unbewußte Gott ist der Grund , die Voraussetzung des bewußten.
+
+Und diese unbewußte Gottheit ist eben die Lebensliebe , die Selbstliebe , der Egoismus des Menschen.
+
+Der Mensch will sein und zwar selig , unabhängig , unbeschränkt , allmächtig ; er will mit einem Worte : Gott sein ; aber er ist es nicht ― wenigstens nicht in dem Grade , als er es wünſcht und ſein zu können sich einbildet. So wird das was er selbst sein will , zu einem von ihm unterschiedenen und im Gegensaß gegen sein wirkliches Sein und Wesen nur idealen , nur in der Vorstellung , im Glauben existirenden Wesen. " * ) ―― "1 Leben heißt andere Wesen als Mittel zu seinem Besten verwenden , heißt andere Wesen zum Troß sich geltend machen , heißt ein ſich nur auf ſich beziehen Leben ist Egoismus .
+
+Wer feinen Egoismus will , der will , daß kein Leben sei.
+
+des , ein abſolutes Wesen sein.
+
+Nur der Todte ist ohne Egoismus .
+
+Wodurch unterscheidet sich aber der religiöse Egoismus von dem natürlichen ? Nur durch den Namen.
+
+In der Religion liebt sich der Mensch in Gottes --Namen , außer der Religion in seinem eignen Namen. “ **) ,, Die modernen Idealisten und Romantiker haben die Religion zu einer Sache bedürfnißloſer Liebäugelei und Galanterie , zu einem unnüßen schwelgeriſchen Gefühl , oder zu einem Kalei doskop ,,speculativer Gedanken" gemacht.
+
+Die alten Atheisten und Theisten dagegen behaupteten fast ohne Ausnahme , daß die Menschen die ihnen nüglichen Wesen und Dinge , wie 3. B. Sonne , Wasser und Feuer , Bäume und Thiere , hauptsächlich nur dieser ihrer Nüßlichkeit wegen als götts liche Wesen verehrt hätten.
+
+Und sie hatten vollkommen Recht;
+
+nur das was Nutzen , was practiſchen Einfluß auf das Leben
+
+*) Sämmtl. Werke Th . I. S. 361. ** ) Ebendaſelbſt S. 363.
+
+[p. 104] hat, eignet sich zum Gegenstand religiöser Verehrung , wenigstens zum Gegenstand eines eigentlichen Cultus . Nüglichkeit ein irreligiöser Ausdruck.
+
+Nur ist die
+
+Das Nügliche ist dem religiösen Sinne ein wohlthätiges Wesen.
+
+Das Nüß liche weist über sich , weist auf Anderes hin , aber das Wohl thätige fesselt das Auge , bindet den Sinn an sich und erhebt sich eben dadurch zu einem religiöſen Gegenſland .
+
+Aber haben die Menschen nicht Dinge und Wesen verehrt , die offenbar an sich gar keinen Nußen und Schaden für den Menschen haben ?
+
+Müssen also nicht noch andere Eigenschaften , wie z. B. im Cultus der Thiere ihr räthselhaftes Wesen , ihre seltsamen Gestalten , ihre eigenthümlichen Bewegungen , ihre merkwürdigen Kunst- und Naturtriebe in Anschlag gebracht werden ?
+
+Ohne Zweifel ; aber was das Auge des Menschen frappirt und blendet , damit verknüpft er auch in seiner Ein bildung allerlei wunderbare , abergläubiſche Wirkungen. Welche mirakulose Kräfte und Wirkungen schrieb man nicht sonst den Edelsteinen zu! " ,, Das Opfer ist die Negation des End lichen - aber nur die Negation dieses Endlichen , dieser Art, dieses Individuums , um dadurch anderes Endliche oder die Gattung dieses Endlichen zu erhalten.
+
+bricht sich z . B. die Vorderzähne aus , wie die Bewohner der Sandwichsinseln , oder schneidet sich den kleinen Finger ab , wie die Bewohner der freundschaftlichen Inseln und mehrere andere Völker, aber nur um durch diese freiwillige Vernichtung eines Theils seines Leibes die unfreiwillige Vernichtung feines ganzen Leibes , ſeines Lebens von sich abzuwenden.“ ,,Der unkultivirte Mensch verlangt von seinen Göttern unbe ſchränkte , unverzügliche Erfüllung aller seiner Wünsche ; er fragt sich nicht , ob diese Wünsche recht oder unrecht , vernünftig oder thöricht , ihre Erfüllung daher für ihn heilsam oder verderblich ist.
+
+Er berücksichtigt nur die Begierde , nicht die Vernunft , nur den Genuß , nicht die Folgen , nur die
+
+[p. 105] Gegenwart, nicht die Zukunft.
+
+Der unkultivirte Mensch wirb daher seinen Göttern bös und ungetreu , sowie sie ihm etwas versagen , was er selbst sich nicht versagen kann. von Kultur oder Verstand dagegen weiß aus Erfahrung , daß , was für den Augenblick ein Uebel oder Glück , in der Folge oft gerade das Gegentheil ist, und zieht daraus die Regel , daß man sich nicht Alles gewähren dürfe , was man gerade wünscht und begehrt , daß man vielmehr , um glücklich zu sein , um also den Wunsch aller Wünsche zu erreichen , dieſen oder jenen speciellen Wunſch aufopfern , daß man folglich sich selbst oft böse sein müſſe , wenn man es wirklich gut mit sich meint , weil ja nur im Gegensatz gegen das Unangenehme das Angenehme als solches empfunden wird , nur der Hunger die Würze des Mahls , nur die Beſchränkung die Bedingung der Freiheit , ' nur die Entsagung die Bedingung des Genusses ist.
+
+Wo aber der Mensch also denkt , da denkt natürlich auch sein Gott so ; der Mensch wird daher hier seinem Gott nicht bös und ungetreu , er verliert nicht den Glauben an seine Güte , wenn er ihm diesen oder jenen
+
+Wunsch nicht erfüllt , dieses oder jenes Gut nicht gewährt, weil er die göttliche Güte durch die göttliche Weisheit , d . h. seine Wünsche durch seinen Verſtand beschränkt. “ *) In der Schrift : das Wesen des Glaubens im Sinne Luthers , stellt Feuerbach den Begriff des Glaubens nach folgenden wesentlichen Elementen dar. Gott und Mensch ſind für das religiöse Bewußtsein zunächst Gegensäße . Gott ist und hat gerade das , was der Mensch nicht ist und nicht hat.
+
+Die vollkommene Nichtigkeit des Menschen ist die Vor ausseßung für die Wesenhaftigkeit Gottes .
+
+Wie jedes Band, so beruht auch die Religion auf Bedürfniß , auf Noth.
+
+also Gott ist, das kann unmöglich der Mensch sein , wenn Gott nicht ein bloßer Lurusartikel sein soll. * ) Ebend. S. 376 ; vergl. S. 393 u. 405.
+
+Dieser Gegensatz [p. 106] zwischen Gott und Mensch ist aber nur der Eingang der Religion. Das Ende und der Zweck der Religion iſt , dem Menſchen durch Gott Alles zu verſchaffen , deſſen er bedürftig.
+
+Gott nämlich iſt in wesentlicher Beziehung zum Menschen ; er ist eben das Wesen , welches den Menschen beseeligt ; in dem Glauben an Gott , in dem Besize Gottes besit also der Mensch die Seeligkeit.
+
+„ Das , was mich in allen Ucbeln ,
+
+ſowohl moraliſchen als phyſiſchen, erlösen , worauf ich folg, lich unbedingt in allen Nöthen mich verlassen kann , ist Gott.
+
+Um aber das , also ein Gegenstand unbedingten
+
+Glaubens und Vertrauens , folglich Gott zu sein , oder viel mehr sein zu können , muß es ein bedürfnißloſes Wesen ſein, denn ein bedürftiges Wesen hat genug für sich selbst zu thun ; es muß wahrhaft und unveränderlich ( gut) sein, sonst ist es kein zuverlässiges Wesen ; allgegenwärtig, ſonſt kann es mir nur an dem Orte , wo es ſich gerade be findet, aber nicht am entfernten Orte helfen ; wissend und zwar allwissend , denn hat es keine Augen und Ohren , wie die heidnische Götterſtatue , ſo vernimmt es nicht meine Leiden ; allmächtig und unbeschränkt , denn die Schranke feiner Macht, feines Wesens überhaupt , ist auch die Schranke meines Vertrauens ; selbstständig und unabhängig von allen Dingen , ja mächtig aller Dinge , denn ist es nicht Herr aller Dinge , so ist es auch nicht Herr aller Uebel. "
+
+untrügliche Gewißheit , daß Gott in wesentlicher Beziehung zum Menſchen , daß er seinem Wesen nach die Liebe ist , giebt dem Gläubigen die Erscheinung Christi.
+
+In Christo hat sich
+
+Gott bewiesen als ein menſchliches ſinnliches Wesen.
+
+rohen und widerlichen theologischen Vorstellungen der Vertretung , Nechtfertigung , Genugthuung , Versöhnung kommen nur daher , daß hinter dem menschlichen , sinnlichen Gott zus gleich noch der alte zornige Gott , der unmenschliche un sinnliche Gott als ein Wesen bestehen bleibt.
+
+Dieser Wider [p. 107] spruch ist innerhalb des Glaubens unauflöslich ; troß dem macht aber der Glaube doch zugleich den menschlichen Gott zum ganzen , alleinigen , wahren Gott.
+
+Der wahre Gegenstand des christlichen Glaubens ist nur Christus , weil sich in ihm nicht mehr ein Christus an sich von dem Christus für uns unterscheiden läßt , und daher in ihm alle Bedingungen der Gottheit erfüllt , alle Geheimnisse der göttlichen Natur aufgelöst, alle Anstände und Zweifel gehoben , alle Gründe des Mißtrauens und Argwohns beseitigt ſind .
+
+Das Wesen des Glaubens ist eben die Gewißheit , daß die Menschenliebe das Wesen Gottes , das höchste Wesen ist.
+
+Unterschieden von der Liebe ist der Glaube nur dadurch , daß in der Liebe der andere Mensch , im Glauben Ich selbst der Gegenstand der Liebe bin.
+
+Der Gegenstand der Liebe ist das Wohl An derer, der Gegenstand des Glaubens aber mein eigenes Wohl, meine eigene Seeligkeit.
+
+Das Wesen des Glaubens in ſeinem
+
+Unterschiede von der Liebe und nach seiner Endabsicht betrachtet, ist also nichts Anderes , als das Wesen der Selbstliebe. * ) Hiernach ist also die Religion principiell durchaus nicht ein freier geistiger Idealismus ; sie ist auf einem ganz anderen Boden gewachsen , als die Kunst , die Wissenschaft und das sittliche Leben.
+
+Allen Idealismus will Feuerbach dem religiösen Glauben freilich nicht absprechen ; es sind auch allge meine , dem Wesen des Menschen zukommende Elemente darin enthalten ; allein diese sind nicht bloß unmittelbar mit den individuellen Elementen vermischt , sondern die letteren eben ſind es , welche das specifische Wesen der Religion ausmachen der Wissenschaft und dem sittlichen Leben gegenüber. Die individuellen Mächte , die Bedürfnisse , Wünsche , Hoffnungen des Herzens in ihrer unverständigen Ungebundenheit bilden den eigentlichen Kern der Religion , ein Kampf des Geistes mit seiner endlichen Individualität , *) Ebend. S. 372 ff.
+
+mit seinen natürlichen
+
+[p. 108] Trieben und Leidenschaften , eine wahrhafte Befreiung , Ver geistigung ist dem religiösen Glauben im Wesentlichen fremd. Ist denn nun aber hiermit wirklich das Wesen der Religion getroffen ? oder nicht vielmehr das Weſen mit dem Un wesen verwechselt ? nicht ein untergeordnetes Moment oder wohl gar eine krankhafte Erscheinung an die Stelle des Wesens gesezt ? Kann sich also der Mensch innerhalb der Religion selbst von den ſubjectiven endlichen Intereſſen losmachen , oder muß er über diese ganze Sphäre der Religion hinausgehen , um zur wahrhaften geistigen Freiheit zu gelangen ? —
+
+Und paßt denn der aufgestellte Begriff der Religion auf die hiſto risch gegebenen Erscheinungen der Religion ? Ist damit wirklich der innere Sinn , der ganze Sinn des christlichen Glaubens gefunden ?
+
+Läßt Feuerbach wirklich , wie er sich rühmt , die
+
+Religion sich selbst aussprechen , macht er wirklich nur ihren Zuhörer und Dolmetscher , nicht ihren Souffleur? Ferner aber: einmal zugegeben , der Inhalt der Religion ſei der
+
+Mensch in dem Sinne , daß nicht etwa bloß das allgemeine Wesen des Menschen sich darin darstelle , sondern eben so sehr auch die individuellen Mächte , ist nicht eben dann , nach Feuerbachs eigenen philoſophiſchen Principien , die Religion von absolutem Werth ?
+
+Kommt es nicht der neuesten Philosophie eben darauf vor Allem an , das Herz , die Sinnlich keit , die Individualität dem Denken gegenüber zum objectiven Rechte zu erheben?
+
+Will sie nicht ebenfalls vor
+
+Allem praktiſch ſein ? Mag das praktiſche Intereſſe dem abſtracten Idealismus als ein schmußiges erscheinen , ist nicht die Rein lichkeit jenes Idealismus eine inhumane , eine despotische , eine phantastische ? ――― Wenn nun aber der eigentliche , der Wissenschaft bisher verborgen gebliebene Sinn des christlichen Glaubens der wesentliche Inhalt der neuesten Philosophie selbst ist , wenn diese also im Grunde keine andere Tendenz hat , als das wirkliche , das reine Christenthum an die Stelle [p. 109] der abstracten Philosophie zu sehen , worin besteht dann noch das Endliche des religiösen Glaubens ? Nur darin , daß die Religion diesen ihren eigenen specifischen Inhalt, obwohl sie ihn besist , doch nicht kennt , ihn nicht als einen menschlichen, ſondern als einen übermenschlichen betrachtet ? also darin , daß sie ihn sich objectivirt als ein anderes Wesen , daß sie ihn vorstellt?
+
+Inwiefern verdirbt denn nun aber diese Form der Vorstellung den vorgestellten Inhalt ?
+
+Es soll sich im
+
+Verhältniß der selbstbewußten Vernunft zur Religion nach Feuerbachs ausdrücklicher Erklärung nur handeln um die Vernichtung einer Illusion Sxxx aber einer Illuſion , die keineswegs indifferent ist , vielmehr grundverderblich auf die Menschheit wirkt ,,, den Menschen , wie um die Kraft des wirklichen Lebens , so um den Wahrheits- und Tugend sinn bringt. " * )
+
+Welche Illusion ist damit aber gemeint ?
+
+Ist schon die Illuſion grundverderblich , in welcher der Mensch fein allgemeines Wesen als vom Individuum verschiedenes vorstellt , oder erst diejenige , in welcher er diese seine eigene Allgemeinheit als ein besonderes selbstständiges persönliches Wesen sich gegenüberstellt ? Oder giebt es keine andere Weise des Vorstellens überhaupt , als eben die leztere ? Muß sich also der Mensch nicht etwa bloß von dieser Vorstellung , sondern von aller Vorstellung frei machen , um seinem Verderben zu entgehen ? also auch von der Religion überhaupt , insofern zu dieser die Vorstellung wesentlich gehört ?
+
+Feuerbach behauptet nun aber ausdrücklich , daß die religiöse Selbstver gegenständlichung eine nothwendige sei , so nothwendig , wie die Kunst und die Sprache. ** ) nun aber diese Nothwendigkeit ? Objectivirung in der Kunst
+
+Wie weit geht denn wirklich so weit , als die und in der Sprache ?
+
+Hebt also das Denken , indem es die religiöse Illusion vernichtet , *) Wesen des Christth. S. 408, **) Ebendaselbst S. 77.
+
+[p. 110] auch die Kunst und die Sprache auf?
+
+Oder ist vielmehr die
+
+Nothwendigkeit der religiösen Illuſion nur eine momentane, nur einer bestimmten Stufe der geistigen Bildung angehō rende , mit dieſer aber verschwindende ? Auf alle diese Fragen giebt uns Feuerbach nur sehr un Und der leßte Grund dieser Unbes bestimmte Antworten.
+
+stimmtheit liegt in der Unbeſtimmtheit , in dem Schwankenden, in dem Unklaren seiner philosophischen Principien. 2 ) Fragen wir zuerst : Wie beweist denn Feuerbach seine Ansicht von der Religion ? Er rühmt ſich eines unbefangenen empirischen Verfahrens ;
+
+er will den Begriff der Religion nicht a priori construiren , sondern aus den Erscheinungen der Religion selbst und ihrer hiſtoriſchen Zeugniſſe entſtehen laſſen. – Wenn es sich nun zunächst nur um den Nachweis handelt, daß der Inhalt der religiösen Vorstellungen der Mensch sei, so ist vorauszusehen , daß dieser , je nachdem man ihn nimmt , sehr leicht gelingen muß .
+
+In der religiösen Vor stellung soll Gott ein anderes , ein vom Menſchen verſchiedenes, ihm gegenüberstehendes ſelbſtſtändiges Wesen sein.
+
+Unmöglich aber wird die Religion dieſes Wesen in dem Sinne als über menschlich darzustellen vermögen , daß sich dasselbe aller menſch lichen Fassung schlechthin entzieht.
+
+Was aber vom Menschen gefaßt wird , ist schon darum auch menschlich , es ist nicht Wesen überhaupt , sondern vorgestelltes , geglaubtes , gedachtes
+
+Auch in der Sphäre der Philoſophie hört der Ges danke , welcher das objective Wesen der Dinge ausdrücken , ein objectives Gesetz des Wirklichen sein soll , doch darum nicht auf, auch Gedanke zu sein ; sollte es der Philosophie einfallen , dies gedachte , erkannte Wesen schlechthin vom Men schen loszureißen , dasselbe als eine besondere Subſtanz der menschlichen Substanz gegenüber zu stellen , so reicht es hin, eben an das Gedachtwerden dieser Subſtanz zu erinnern , um die Philosophie von jener Bewußtlosigkeit zu befreien.
+
+[p. 111] Menschlichkeit des gedachten Wesens wäre damit aufge wiesen; allein zugegeben , daß das Gedachte das Wesen der Dinge ausbrückt, so können wir von hieraus mit demselben Rechte auch die Objectivität des ſubjectiven Denkens geltend machen, also die Uebermenschlichkeit des Menschen , die Nothwendig keit , das menschliche Denken aus den Schranken der bloßen, endlichen Menschlichkeit heraus zu verſeßen , endliches , unbedingtes zu faffen.
+
+daſſelbe als un
+
+Dieselbe Zweideutigkeit hat nun auch der Nachweis an sich , daß der Inhalt der religiösen Vorstellungen der Mensch sei.
+
+Die Menschlichkeit Gottes fann auch die Göttlichkeit des Menschen sein , die reale , wahrhafte Göttlichkeit, und der Irrthum der religiösen Vorstellung be stånde nur darin , daß sie diese wesentliche Göttlichkeit des Menschen als ein anderes Wesen dem Menschen gegenüber stellte.
+
+Halten wir nun außerdem die Form der Vorstellung für eine nothwendige, so scheint unsere ganze Procedur etwas sehr Ueberflüssiges ; für die Philosophie , weil sie das Resultat derselben schon kennt , für die Religion , weil sie es doch nicht capirt.
+
+Höchstens würden wir diesen oder jenen aus dem
+
+Lande der Religion in das Land der Philosophie hinüberziehen. In Feuerbachs Kritik stellt sich aber die Sache ganz anders. Er will beweisen , daß sich in dem religiösen Glauben die individuellen Interessen nicht nur neben die allgemeinen ſtellen, sondern daß diese sogar die specifischen , charakteristischen der Religion sind , das Princip der religiösen Vorstellung bilden. Hier ist nun zunächst zuzugeben , daß die Religion als solche wesentlich individuelles Pathos ist. Es handelt sich in der Religion nicht um die Erkenntniß der Wahrheit an und für sich , sondern um das individuelle , gemüthliche Er faffen des Wesens , um die Freiheit , Göttlichkeit , Seeligkeit des Individuums. Pathos
+
+In dem Ausdrucke dieſes individuellen werden alle Mächte des individuellen Lebens zur
+
+Sprache kommen , und wie der religiöse Proceß ein Kampf [p. 112] der Befreiung des Individuums von sich selbst ist , so können sich in ihm auch die rein individuellen Interessen , die Schwach heiten des menschlichen Herzens geltend machen.
+
+Feuerbach verfährt aber in der Betrachtung der christlichen Vorstellungen schon darum nicht unbefangen , nicht rein empirisch , sondern willkührlich , daß er sich die Religion nicht vollständig aus sprechen läßt , daß er überwiegend die Erscheinungen hervor sucht , in welchen der Idealismus des religiösen Proceſſes , die ethische Seite deſſelben in den Hintergrund tritt. es vor Allem auffallend ,
+
+So ist daß Feuerbach die in die ganze christliche Anschauung so tief eingreifenden Vorstellungen von der Sünde so viel wie gar nicht berücksichtigt.
+
+Ebenso ist es eine offenbare Willkühr , wenn er behauptet ,,, daß die allge meinen , metaphysischen Prädicate Gottes der Religion nur zum äußersten Anknüpfungspunkte dienen , nicht die charakteristischen Bestimmungen der Religion ſind. "
+
+Der Religion
+
+ſind dieſe Prädicate entschieden ebenso wesentlich , als die persönlichen.
+
+Gerade in diesen Prädicaten aber zeigt es sich, wie der religiöse Proceß zugleich das Streben des Individuums in ſich umfaßt , durch Ueberwindung der individuellen Interessen in die unbedingte Allgemeinheit des Wesens sich zu vertiefen.
+
+Vor Allem aber tritt eine Willführ in die ganze
+
+Betrachtungsweise dadurch ein , daß Feuerbach die Entstehung und Bildung der verschiedenen Dogmen nicht historisch ver folgt.
+
+Wie der christliche Glaube nach allen seinen wesentlichen Elementen historisch geworden , sich verändert , erweitert, fortentwickelt , so wird er wirklich empirisch nur dann be trachtet, wenn in dieſes hiſtoriſches Werden eingegangen wird. Indem dies Feuerbach nicht thut , so unterscheidet er zunächst in den Dogmen die Momente , in welchen dieselben der unmittelbare , directe Ausdruck des innerlichen Proceſſes ſind , nicht bestimmt von denjenigen , welche die Reflexion , das begins nende philosophische Denken erzeugt , welche daher mit dem [p. 113] specifischen Gehalt des innerlichen Proceſſes erst durch vers schiedene Miitelglieder , zum Theil durch rein äußere Conse quenzen zuſammenhängen.
+
+Vor Allem tritt dies hervor in
+
+Feuerbachs Deutung der Dreieinigkeit , des Logos.
+
+Ein an derer Mangel hängt hiermit unmittelbar zuſammen .
+
+Feuerbach sich mit vollkommenem Rechte der Willkühr wider sezt , mit welcher man bestimmte , der gegenwärtigen Bildung entschieden widersprechende Vorstellungen und Erscheinungen des Christenthums ohne Weiteres dadurch bei Seite schiebt , daß man sie als einen krankhaften , zufälligen Auswuchs betrachtet , wenn er mit Recht diese Vorstellungen mit dem Princip der christlichen Anschauung in innere Beziehung ſeßt, alſo darauf dringt , ſie als nothwendige Erzeugniſſe des christ lichen Glaubens zu fassen , so geht er doch von der andern Seite nicht zu der Untersuchung fort , ob diese Erscheinungen, ob überhaupt die positiven Dogmen der katholischen und protestantischen Kirche das christliche Princip schlechthin und ab solut ausdrücken , oder ob sie vielmehr nur die wenn auch nothwendige doch noch endliche Darstellung dieses Princips ſind ; ob also dies Princip als solches nicht über jene Erscheinungen hinüberreicht , nicht durch seine eigene Energie in Opposition mit ihnen tritt , ob also die Erscheinungen , welche Feuerbach als Auflösung des eigentlichen , wahren , consequen ten Chriſtenthums bezeichnet , nicht vielmehr als Entwickelung, als Vertiefung des christlichen Princips in ſich ſelbſt anzu sehen sind .
+
+Feuerbach selbst spricht auch von dem Princip des Christenthums — ob mit Recht von seinen philosophischen Anschauungen aus , laſſen wir dahingestellt ſein ; allein wenn einmal von diesem Princip die Rede ist , so kann man darunter nur die innere wesentliche Einheit der verschiedenen Erschei
+
+• nungen , den Begriff derselben an und für sich verstehen , welcher durch seine innere Energie seine unterschiedenen Momente heraustreibt , und dabei in seinem historischen Werden [p. 114] verschiedene Stufen durchlebt , in welchen er selbst sich ents wickelt , sich ein immer höheres , vollständigeres , entsprechen, deres Dasein giebt.
+
+Feuerbach hebt mit partheiiſcher Anti pathie gegen das Christenthum die Erscheinungen desselben hervor , welche der gegenwärtigen Bildung , der freien Sittlichkeit und Humanität überhaupt feindlich entgegenstehn ; das gegen faßt er mit partheiiſcher Vorliebe das Heidenthum an den Erscheinungen , in welchen sich die Freiheit , die ſittliche Tiefe desselben darstellt , übersieht aber dabei die wesentliche Einseitigkeit , Unfreiheit desselben.
+
+Feuerbach geht hierin ſo weit, daß er freie Bildung , Philoſophie und Heidenthum geradezu identificirt , * ) während . doch offenbar die heidnische Philosophie mit der heidnischen Religion in einen entſchiedenen Gegensat tritt , welcher die Auflöſung des Heidenthums über haupt nicht bloß vorbereitete , sondern schon Erscheinung dieser Auflösung selbst ist.
+
+Was Feuerbach über den specifischen
+
+Unterschied des Heidenthums und Christenthums sagt , durchaus einseitig und schwankend.
+
+Heidenthum und Christen thum sollen einen directen Gegenſaz bilden : die Heiden opfern das Individuum der Gattung auf , die Chriſten die Gattung dem Individuum.
+
+Die Heiden sind darum offen für den Zusammenhang mit der Welt , wissen sich nur frei in einem gemeinschaftlichen sittlichen Leben , der Christ zieht sich in seine individuelle Gemüthlichkeit zurück , ſchließt sich ab gegen die Welt und gegen die sittliche Gemeinschaft.
+
+Daß im Heiden thum das Individuum ſich der Gattung opfere , ist jedenfalls eine einseitige Behauptung ; höchstens kann man sagen , das Individuum opfere ſich einer besondern Gattung , einem be ſondern Staate , einem besondern Volke ; die Anschauung der Gattung überhaupt , der Menschheit ist der heidnischen Religion entschieden fremd. Der Zusammenhang des Individuums mit der Welt ist darum im Heidenthum noch ein unmittelbarer, * ) z. B. Weſen des Chriſt. S. 420.
+
+[p. 115] natürlicher , unfreier , und ebenso trägt die sittliche Gemein schaft im Heidenthum dieſe Beſchränktheit , Bornirtheit noch an sich.
+
+Wenn sich im Christenthum das Individuum mit der Gattung identificirt , so ist dies auch nur die eine Seite der Sache.
+
+Allerdings giebt sich das Individuum , sobald der ursprüngliche , feste Gegensaß der Völker gegen einander über wunden wird , einen unendlichen Werth ; damit entsteht aber auch sogleich die Anschauung der wesentlichen Identität aller Individuen , der Menschheit.
+
+Der Begriff der Gattung ist daher durchaus nicht , wie Feuerbach meint , dem Christen thum abhanden gekommen , vielmehr in viel tieferer Weise als im Heidenthum in ihm gegenwärtig .
+
+So zeigt sich. denn auch in dem weitern Verlauf sogleich die Tendenz , eine alle Volks unterschiede auslöschende Gemeinſchaft zu conſtituiren. ――― ,,Der unzweideutigste Ausdruck , das charakteristische Symbol dieser unmittelbaren Identität der Gattung und Individualität im Christenthum ist Christus , der reale Gott der Christen. Christus ist das Utbild , der existirende Begriff der Menschheit , der In begriff aller moraliſchen und göttlichen Vollkommenheiten , mit Ausschluß alles Negativen , reiner`, himmliſcher , fündloser
+
+Mensch, Gattungsmensch , der Adam Kadmon , aber nicht angeschaut als die Totalität der Gattung , der Menschheit, sondern unmittelbar als ein Individuum , als eine Person. Christus d. h. der christliche , religiöse Christus ist daher nicht der Mittelpunkt , ſondern das Ende der Geſchichte. “ *) Offen= bar tritt nun aber dadurch , daß die Identität des Individuums und der Gattung wieder in ein Individuum verlegt wird , die Differenz der Individuen von der Gattung in die Vorstellung ; Christus gegenüber identificiren sich die Individuen nicht mit der Gattung.
+
+Dazu tritt dann aber auch die für die christliche Vorstellung so geläufige Anschauung , die Gemeinde , Kirche als den Leib Christi zu betrachten. Hierin wird offenbar *) Wesen des Christenthums. S. 229.
+
+8* [p. 116] über die schlechthin ausschließliche Individualität Christi hin ausgegangen, seine unmittelbare Einzelnheit zugleich als eine allgemeine , ideelle gefaßt.
+
+Sicherlich hat nun Feuerbach darin ganz Recht , daß bei der Vorstellung , daß Christus alle Voll kommenheiten real in ſich vereinigt , für die weitere Geſchichte keine andre Aufgabe übrig bleibe als die Anschauung , An eignung dieses realiſirten Ideals , als der formelle , quantis tive Ausbreitungstrieb ; allein mit welchem Rechte identificiren wir denn diese Vorstellung mit dem Princip des Christen thums selbst ?
+
+Ein eclatantes Beiſpiel , wie unzuverlässig Feuerbachs Empirie ist , giebt uns die Betrachtung des Mönchs thums und Cölibats .
+
+Zunächst wird in dem Begriffe der Religion überhaupt eine antikosmiſche Tendenz nachgewiesen.
+
+Daß die heidnische Religion dieſe Tendenz so wenig zeigt , würde dann daraus abzuleiten sein , daß die heidnische Religion im Grunde nicht Religion , sondern Bildung , Humaniät, Philoſophie ge wesen. Dann aber wird diese antikosmische Tendenz dem christ lichen Princip vindicirt , als der einzig consequente , volle Ausdruck dieſes Princips bezeichnet.
+
+Später aber giebt Feuer bach gegen den Vorwurf, daß er hier eine besondere , unter geordnete Erscheinung mit dem Principe verwechselt , die aus, drückliche Erklärung : Daß der einzige , erhebliche Widerspruch, an welchem seine Schrift über das@ Wesen des Chriſtenthums laborire , eben der sei , daß er nur den Einklang , nicht aber den Widerspruch der antikosmischen Tendenz der alten Chriſten mit dem Wesen der christlichen Religion dargestellt habe ; daß es im Wesen der Religion nothwendig liege , daß das zuerst als ein anderes , als ein dem Menschen entgegengesettes Wesen angeschaute Wesen derselben als ein menschliches und weltliches verwirklicht werde. * )
+
+Jedenfalls müßte von diesen Bestimmungen aus die Betrachtung der Religion * ) Sämmtl. Schr. Bd . I. S. 221 ff. ' [p. 117] und des Christenthums insbesondere eine sehr durchgreifende Reform erfahren.
+
+Das Specifische des Christenthums würde offenbar ganz anders zu fassen sein.
+
+Vor Allem würde die allgemeine menschliche Bildung , und ebenso die Wissenschaft, mit welcher nach Feuerbachs Auffaſſung das Chriſtenthum im entschiedenen Gegenſaz steht , in das Princip des Christen thums selbst mit eintreten ; denn eben die antikosmische Tendenz desselben ist es , worauf sich jener Gegenſaz stüßt.
+
+Feuerbach hätte nicht mehr das Recht , das Hervortreten all gemeiner humaniſtiſcher Intereſſen , freier wiſſenſchaftlicher Bildung als Auflösung des wahren Christenthums zu betrachten ; im Gegentheil: das Wesen des Christenthums bräche in dieſen Erscheinungen erst wahrhaft durch , überwände in ihnen ſeinen eigenen , noch embryonischen Zustand. Feuerbach selbst macht aber zugleich darauf aufmerksam, daß , wenn auch die Darstellung des modernen Christenthums außer seiner Aufgabe gelegen , doch das Princip dazu schon deutlich genug ausgesprochen sei in der Lehre von der ewigen Glückseligkeit , welche die alten Chriffen nur in das Jenseits verlegten , die modernen aber schon hienieden realiſiren, in der Lehre von der Auferstehung der Körper und der Wieder herstellung aller Dinge nur in einer schöneren , von allen Beschwerlichkeiten der Gegenwart gereinigten Geſtalt , in der Lehre von Gott als dem das zeitliche und ewige d. h. das sinnliche und geistige Wohl des Menschen bezweckenden Wesen, in der Lehre von Gott als dem gemeinsamen Vater der Men schen , welcher nichts Andres ist , als der mystische Gattungs begriff der Menschheit , namentlich von Christus , welcher be ſtimmt wird als das religiöse Bewußtsein von der Identität des Menschengeschlechts . * ) daß
+
+Ja , Feuerbach geht sogar soweit, er die antikosmische Tendenz der Religion selbst aus
+
+* ) Såmmtl. Schr. Bd . 1. S. 223,
+
+[p. 118] Losmischen Interessen herleitet , oder ihnen wenigstens unmittelbar kosmische Intereſſen unterlegt.
+
+„ Um Gott zu bereichern, muß der Mensch arm werden ; damit Gott Alles sei , der Mensch nichts sein.
+
+Aber er braucht auch nichts für sich selbst zu sein , weil Alles , was er sich nimmt , in Gott nicht verloren geht , sondern in ihm erhalten wird.
+
+Mensch hat sein Wesen in Gott , wie sollte er es also in sich und für sich haben ? Warum wäre es nothwendig , das ſelbe zweimal zu haben ? Was der Mensch sich entzieht , was er in sich selbst entbehrt , genießt er ja nur in um so unver gleichlich höherem und reicherem Maaße in Gott.
+
+Die Mönche gelobten die Keuſchheit dem göttlichen Wesen , sie negirten die Geschlechtsliebe an sich , aber dafür hatten sie im Himmel , in Gott , an der Jungfrau Maria das Bild des Weibes , das Bild der Liebe.
+
+Sie konnten um so mehr des wirklichen
+
+Weibes entbehren , je mehr ihnen ein ideales , vorgestelltes Weib ein Gegenstand wirklicher Liebe war. deutung ſie
+
+Je größere Des auf die Negation der Sinnlichkeit legteń , je größere Bedeutung hatte für sie die himmlische Jungfrau. Je mehr das Sinnliche negirt wird , desto sinne licher ist der Gott , dem das Sinnliche geopfert wird.
+
+Was man nämlich der Gottheit opfert darauf_legt man cinen besondern Werth , daran hat Gott ein des sonderes Wohlgefallen.
+
+Was im Sinne des Menschen, das ist natürlich auch im Sinne seines Gottes das Höchste ; was überhaupt dem Menschen gefällt , das gefällt auch Gott. Wo man daher aus der Negation der Sinnlichkeit ein besonderes Wesen , ein Gott wohlgefälliges Opfer macht , da wird gerade auf die Sinnlichkeit der höchste Werth gelegt und die aufgegebene Sinnlichkeit unwillkühr lich dadurch wieder hergestellt , daß Gott an die Stelle des sinnlichen Wesens tritt , welches man aufgegeben.
+
+Die Nonne vermählt sich mit Gott ; sie hat einen himmlischen Bräutigam, [p. 119] der Mönch eine himmlische Braut. " * )
+
+Allerdings ist die
+
+Tendenz, die Sinnlichkeit schlechthin zu vernichten , sich selbst widersprechende.
+
+eine in
+
+Durch die bloße Abstraction von der Sinnlichkeit gewinne ich noch keinen positiven geistigen Gehalt, somit auch keine energische Macht , durch welche die Sinnlichkeit wirklich überwunden werden könnte.
+
+Schlechthin wird der sinnliche Mensch die Sinnlichkeit doch nicht los ; diese bleibt also immer neben der Abstraction stehen , und es ist daher nicht zu verwundern , daß sie auch bei dem besten Willen, sie mit Stumpf und Stiel anszurotten , doch wieder hervorbricht und sogar der abstract ideellen Region des Ueber sinnlichen eine sinnliche Färbung giebt. weiter.
+
+Feuerbach geht aber
+
+Die Abstraction von der Sinnlichkeit hat nach den mitgetheilten Stellen selbst einen sinnlichen Grund , ist das Product einer gesteigerten , einer raffinirten Sinnlichkeit.
+
+Wir hätten der Religion nicht den Vorwurf zu machen , daß sie nicht weltlich , nicht sinnlich , • sondern vielmehr , daß sie zu weltlich, zu sinnlich sei ; daß ſie ſich nicht begnüge mit der dem Menschen gebotenen Welt und Sinnlichkeit , ſondern nach einer noch intensiveren Sinnlichkeit schmachte.
+
+Der Fortschritt von der antikosmischen Tendenz der Religion zur Anerkennung der Welt bestände dann nicht darin , daß sich die sinnliche Seite des Menschen gegen die idealistische Abstraction geltend machte, sondern vielmehr darin , daß der Mensch in seiner Sinnlichkeit sich herabstimmte , sich zufriedenstellte wirkliche Welt ihm liefert, mit dem , was die
+
+Die Art freilich , in welcher Feuer bach das sinnliche Interesse der Religion nachweist , ist eine Er gebraucht Opfern ganz gleichbedeutend sehr seltsame.
+
+mit Aufopfern , so daß nun in der Abstraction von der Sinnlichkeit nicht auf die Negation , sondern vielmehr auf die Position derselben ein Werth gelegt würde.
+
+Analog würde ein Mensch , wenn er aus Achtung vor dem Gesetz seine *) Wesen des Chrifith. S. 38 ff.
+
+[p. 120] Neigung zum Stehlen opfert , unterdrückt , eben dadurch zeigen, daß er ein gelernter , raffinirter Dieb sei.
+
+Zu dieser Betrachtungsweise will es nun aber nicht recht stimmen , wenn in der spätern Deduction des Cölibats es unter Anderm heißt : ,, Gott ist die absolute Subjectivität , die von der Welt abge schiedene , überweltliche , von der Materie befreite , von dem Gattungsleben und damit von der Geschlechtsdifferenz abge, sonderte Subjectivität ; " einem solchen Gotte gegenüber wäre entschieden die Sinnlichkeit nur aufzuopfern, aber nicht zu opfern. Sehr mit Unrecht also rühmt sich Feuerbach der unbe
+
+. fangenen empirischen Untersuchung . Vielmehr miſcht er a priori auf eine durchaus willkührliche , gewaltsame Weiſe ſeine philosophischen Gedanken ein , und findet nun in den poſitiven Erscheinungen der Religion eben das , was er in seinen philosophischen Principien hatte : allgemeine wesentliche Interessen neben den individuellen , mit dem entschiedenen , princis piellen Uebergewicht der lezteren. 3 ) Lernen wir ferner die Reflexionen näher kennen , welche den kritischen Untersuchungen sich einmischen , und vergleichen sie mit den früher entwickelten philosophischen Principien ;
+
+verfolgen wir die Consequenzen , die nach verschiedenen Seiten hin sich geltend machen , um zu sehen , ob jene Principicn wirklich im Stande sind , den religiösen Erscheinungen in's Herz zu sehen , oder ob sie vielmehr , anstatt das Räthsel der Religion zu lösen , die Religion selbst zum Räthsel machen. Entscheidend für die ganze kritische Betrachtung ist die Behauptung der Mensch könne nicht über seine
+
+Gattung hinaus.
+
+Das allgemeine Resultat der Kritik ist hiermit von vorn herein festgestellt : es ist eine im Begriffe des Menschen liegende Nothwendigkeit , daß alle Theologie nichts Anderes sein kann , als Anthropologie. Allein es kommt auf die nähere Bestimmung an.
+
+Die Unmöglichkeit , über fein Wesen hinaus zu gehen , könnte zunächst als Endlichkeit,
+
+[p. 121] Beschränktheit erscheinen. aus.
+
+Kant , Fichte drücken sich ähnlich
+
+Feuerbach will aber hierdurch nicht etwa die Endlich, keit des Menschen , des Wissens , Wollens ausdrücken , sondern vielmehr die vorgestellte Unendlichkeit in das Wesen des Menschen hineinnehmen.
+
+Wirklich unendlich ist aber der
+
+Mensch dann , wenn er keinen unaufgelösten Gegenſaß außer sich hat.
+
+Im Wiſſen wie im Wollen geht das Ich über den
+
+Gegensaß seiner zur objectiven Welt hinaus , es ist die Ein heit seiner und der Objectivität , und als diese concrete Ein heit, als diese inhaltsvolle , den Gegensatz umfassende Selbst bestimmung ist das Ich wesentlich absolut.
+
+Dieſes abſolute
+
+Ich ist aber eben darum , weil es absolut ist , keine besondere Gattung , sondern das allgemeine , Alles umfassende Wesen ; es geht entschieden , wenn es als beſondere Gattung gefaßt wird , über diese Gattung hinaus ; wird es aber ge faßt als das , was es wesentlich ist , nämlich als allgemeines, absolutes Wesen , so wird damit der Ausdruck , es könne nicht über sein Wesen hinaus , zu einem ganz bedeutungslosen , widerfinnigen Ausdruck. Der Geist ist nur concretes , wiſſendes und wollendes Ich, indem er keine feste besondere Bestimmt heit außer sich hat , welche nicht Moment seiner selbst wäre , indem also ginge.
+
+Jener Ausdruck ist widerfinnig , weil er die Unend nichts existirt , zu welchem er nicht hinaus lichkeit des Wesens in der Form der festen Endlichkeit aus spricht, weil er vom unendlichen Wesen gerade dasselbe ſagt, was von jedem besondern endlichen Wesen behauptet wird . Bei Feuerbach ist aber entschieden dieser Ausdruck nicht bloß eine falsche Form für eine richtige Sache.
+
+Vielmehr bleibt
+
+Feuerbach der Sache , dem Gedanken nach in demselben uns aufgelösten Widerspruche , in welchem jener Ausdruck ſich_bewegt.
+
+Die behauptete Unendlichkeit des menschlichen Wesens bleibt nämlich mit der Endlichkeit äußerlich behaftet.
+
+Mensch soll das Absolute sein; nicht der einzelne Mensch, [p. 122] sondern die Gattung der Menschen, oder auch das gemein schaftliche Leben der Individuen.
+
+Indem aber die im Menschen liegenden Gegenfäße nicht wirklich begrifflich gelöst werden , ſondern nur äußerlich verbunden , so ist die dem Individuum immanente Allgemeinheit ebenso wie die als gemeinschaftliches Leben gesezte Allgemeinheit nie Energie der Verwirklichung in sich, sondern äußerlich bedingt durch die endliche Individualität ; ebenso kommt aber auch das einzelne Individuum nie von seiner Endlichkeit los , ist nie wirkliches Wiſſen , nie wirkliches Wollen , nie wirkliche Freiheit. Wie entscheidend diese Principien in der Betrachtung des religiösen Glaubens ſind , tritt vor Allem hervor in der Kritik, welche Feuerbach von den Beweisen für das Dasein Gottes giebt.
+
+In diesen nämlich ſucht das Denken gerade das als nothwendig zu beweisen , was das religiöse Bewußt ſein unbefangen thut , was aber nach Feuerbachs Betrachtung der fundamentale Irrthum der bisherigen Philosophie ist nämlich den Fortgang über den Menschen hinaus zur Idee des Absoluten.
+
+Allerdings gehören nach Feuerbach die Be weise für die Existenz Gottes nicht der Religion , sondern der Theologie an; dennoch aber führen sie nur das aus , was implicite in dem religiösen Glauben liegt.
+
+Der Beweis unter scheidet sich nur dadurch von der Religion , daß er das ge heime Enthymema der Religion in einen förmlichen Schluß faßt.
+
+Daß aber jede Religion selbst auch einen ge heimen unentfalteten Schluß macht , das geſteht sie in ihrer Polemik gegen andere Religionen ein ; nur in Beziehung auf ſich ist sie sich keines Schluſſes bewußt , denn der höchste Gedanke , deſſen ſie fähig ist , ist ihre Schranke, hat für sie die Kraft der Nothwendigkeit , ist kein Gedanke , keine Vor stellung , sondern unmittelbare Wirklichkeit.
+
+Die Beweise vom
+
+Dasein Gottes haben den Zweck , das Innere zu veräußern, vom Menschen auszuscheiden.
+
+Durch die Existenz wird Gott [p. 123] ein Ding an sich : Gott ist nicht nur ein Wesen für uns, ein Wesen in unserem Glauben , unserem Gemüthe , unſerem Wesen , er ist auch ein Wesen für sich , ein Wesen außer uns - kurz nicht bloß Glaube , Gefühl , Gedanke , sondern auch ein vom Glauben ,
+
+Fühlen , schiedenes , reales Sein.
+
+anderes , als sinnliches Sein. lichkeit liegt schon in dem Außeruns seins .
+
+Denken unters
+
+Aber solches Sein ist kein Der Begriff der Sinn charakteristischen Ausdruck des
+
+Die ſophiſtiſche Theologie nimmt freilich das Wort : außer uns nicht im eigentlichen Sinne und ſeßt dafür den unbestimmten Ausdruck des von uns unabhängig und unterschieden Seins .
+
+Und doch handelt es sich ja eben nur um eine Eriſtenz im eigentlichsten Verſtande und ist der bestimmte , reale , nicht ausweichende Ausdruck für Unterschiedensein allein Außerunsſeins. - Reales sinnliches Sein ist solches , welches nicht abhängt von meinem mich selbst Afficiren , von meiner Thätigkeit , sondern von welchem ich unwillkührlich afficirt werde ; welches ist , wenn ich auch gar nicht bin, es gar nicht denke , fühle.
+
+Das Sein Gottes müßte also örtliches , überhaupt qualitativ , sinnlich bestimmtes Sein sein .
+
+Aber Gott wird nicht gesehen , nicht gehört, nicht sinnlich empfunden.
+
+Er ist für mich gar nicht, wenn ich nicht für ihn bin ; wenn ich keinen Gott glaube, so ist kein Gott für mich.
+
+Wenn ich nicht göttlich gesinnt und gestimmt bin , wenn ich mich nicht erhebe über das sinn liche Leben , so ist er mir gar nicht Gegenstand.
+
+Er ist also nur, indem er gefühlt , gedacht , geglaubt wird - der Zusatz: für mich ist unnöthig .
+
+Also ist sein Sein ein reales , das doch zugleich kein reales - ein geistiges Sein , hilft man
+
+ſich.
+
+Aber geistiges
+
+Sein ist eben nur Gedachtsein , Ge fühltsein , Geglaubtſein.
+
+Also ist sein Sein ein Mittelding zwischen sinnlichem Sein und Gedachtſein , ein Mittelding voll Widerspruch.
+
+Oder : es ist ein sinnliches Sein, dem [p. 124] aber alle Bestimmungen der Sinnlichkeit abgehen - - also ein unsinnliches sinnliches Sein , ein Sein , welches dem Begriffe der Sinnlichkeit widerspricht , oder nur eine vage Existenz überhaupt , die im Grunde eine sinnliche ist, aber um diesen Grund nicht zur Erscheinung kommen zu laſſen, aller Prädicate einer realen sinnlichen Existenz beraubt wird. Aber eine solche Existenz überhaupt widerspricht sich.
+
+Zur Existenz gehört volle bestimmte Realität.
+
+Allerdings ist auch schon im ursprünglichen , einfältigen , religiösen Sinne Gott eine empirische , selbst an einem , aber1 überirdischen Orte befindliche Existenz. Aber sie hat doch hier keine so nackte , prosaische Bedeutung ; die Einbildungskraft identificirt wieder den äußerlichen Gott mit dem Gemüthe des Menschen .
+
+Die Einbildungskraft ist überhaupt der wahre Ort einer abwesenden , den Sinnen nicht gegenwärtigen , aber gleichwohl dem Wesen nach sinnlichen Existenz.
+
+Nur die Phantasie löst den Widerspruch zwischen einer sinnlichen und zugleich unsinnlichen Ériſtenz . * ) / Feuerbach stellt also den Beweisen für das Dasein Gottes die Alternative entgegen : Entweder ist das Eristirende cin Sinnliches , Einzelnes ; dann ist es selbstständig , unabhängig von mir ; oder es ist ein bloß Geglaubtes , Gefühltes , Gedachtes ; dann ist es nur , insofern ich glaube , fühle, denke. Diese Alternative entspricht durchaus dem in den Grundſäßen entwickelten Princip der gebildeten Empfindung . meine , zu
+
+Das Allge welchem das Individuum fortgeht , bleibt immer
+
+Produkt des Individuums , hat nie objectiven Werth an und für sich , iſt nicht ſich ſelbſt ſeyende , in sich nothwendige Allgemeinheit.
+
+Offenbar wird hiermit das wirkliche Wissen eben so sehr , als das wirkliche Wollen aufgehoben.
+
+Im Wiſſen drücken meine Gedanken das Wesen aus , d. h . sie sind nicht bloß meine Gedanken , sondern Energie der Vermittelung in * ) Wesen des Christenth. S. 295 ff.
+
+[p. 125] sich.
+
+In der speculativen Philosophie hat jeder wahrhafte, speculative Gedanke die Form des Begriffs , d. h . der freien Vermittelung in sich. Erst dadurch lösen sich die Gedanken von dem Individuum los , werden objective , der Wirklichkeit entsprechende Gedanken , daß sie bis zu dieser Form des Begriffes hinaufgetrieben , als Vermittelung des Allge meinen in ſich , als ſich ſelbſt ſézende Allgemeinheit gefaßt werden.
+
+Erst dadurch werden die Gedanken zu Ideen ; sie sind in sich selbst der Proceß der concreten Idealität , der Proceß, die unmittelbare Aeußerlichkeit umfassen , zu idealiſiren , des Sinnlichen zu als Moment zu sehen .
+
+Ebenso ist auch erst dasjenige Wollen wirklich freie Selbstbeſtimmung , in welchem das Subject seine individuelle Willkühr übers windet und sich zu dem An- und Fürſichſeienden , Objectiven, in sich Nothwendigen bestimmt ; erſt dadurch hört die Selbst bestimmung auf, eine illusorische zu sein , ein Bestimmtwerden durch die unmittelbare individuelle Bestimmtheit und deren Des ziehung nach außen.
+
+Der objective Gehalt des sittlichen
+
+Thuns ist durchaus nicht nur für denjenigen da , welcher ihn anerkennt und in seinen Willen aufnimmt.
+
+Vielmehr zeigt er darin ſeine Selbstständigkeit , ſeine Unbedingtheit von der indis viduellen Meinung und Willführ , daß er das Individuum, welches sich ihm entgegenseßt , in Widerspruch mit ſich ſelbſt bringt , zu keiner Befriedigung in ſich gelangen läßt. Die Opposition gegen das Fortgehen zum objectiv Allge meinen zieht aber weitere Consequenzen nach sich.
+
+Wenn in der angeführten Kritik der Beweise für das Daſein Gottes Feuerbach die einzelnen sinnlichen Dinge als selbstständig , unabhängig vom menschlichen Vorstellen dem Menschen gegen. überstellt , so dehnt er bisweilen die Behauptung , daß der Mensch im Gegenstande nur sich anschaue, auch auf die sinn. lichen Gegenstände aus. * )
+
+In einer spätern Abhandlung
+
+*) Wesen des Christenth. S. 7.
+
+[p. 126] erflårt er dagegen ausdrücklich : „ die Natur ist überhaupt nur durch sich selbst zu faſſen ; sie ist das Wesen , deſſen Be griff von keinem Wesen abhängt ; sie ist es allein , bei der der Unterschied zwischen dem , was ein Ding an sich und dem , was es für uns ist , gültig ist , sie allein , an die kein menschlicher Maaßstab angelegt werden darf und kann , ob wir gleich ihre Erscheinungen mit analogen menschlichen Erscheinungen vergleichen und bezeichnen , um sie uns verständlich zu machen , überhaupt menschliche Ausdrücke und Begriffe , wie Ordnung , Zweck , Gesetz auf sie anwenden , und in Gemäßheit der Natur unserer Sprache , die nur auf den subjectiven Schein der Dinge gegründet ist , auf sie an wenden müſſen. “ * )
+
+Wie bringen wir diese verschiedenen
+
+Elemente zusammen ?
+
+Ist das Ding sinnlich auch außer der
+
+Beziehung zu meiner Sinnlichkeit ? Haben die Beſtimmungen, welche ich aus meiner Sinnlichkeit schöpfe , indem ich sage , das Ding ſei ſchwarz , heiß , schwer u. f. w. einen objectiven Werth , während Ordnung , Zweck , Ecset nur menschliche Ausdrücke und Begriffe sind , welche das Ansich des Dinges nicht treffen ?
+
+Ist nicht das natürliche Ding eben als ſinn liches für mich ? Durch die sinnliche Empfindung als solche komme ich also nie dazu , das Ding als ein selbstständiges aus mir heraus zu verschen ;
+
+denkende Empfindung , dies thut vielmehr indem sie von erst die der unwillkührlichen
+
+Affection auf eine selbstständige Existenz außer mir ſchließt. Diese selbstständige Seite des Dinges aber , dieses Anſich wäre dann offenbar nicht das Sinnliche am Dinge , vielmehr das Unsinnliche , die in die Sinne nicht eintretende Beziehung des Dinges auf sich.
+
+Wodurch faffe ich aber dieses Ansich ?
+
+Durch das Denken entschieden nicht , denn dieses ist in allen seinen Formen menschlich ; der Mensch kann einmal nicht über sich selbst hinaus.
+
+Wie komme ich aber dann überhaupt auf
+
+*) Såmmtl. Werke. I. B. S. 467.
+
+[p. 127] diese Bestimmung des Ansich ? Mag diese nun Gedanke ſein, ober Vorstellung , Anschauung , Phantasie , gehe ich nicht eben durch diese Bestimmung über mein menschliches Wesen hinaus ? Und wenn ich auch wirklich nichts weiter von ihr aussage, als daß sie eben das Ansich ist ist denn Sein , Ansich nicht in derselben
+
+Weise ein menschlicher Ausdruck, als Ordnung , Zweck, Geſeß ? Die Unterscheidung zwischen dem unerkennbaren Ansich und der sinnlichen Erscheinung der Dinge erinnert sogleich an die Kantische und Fichtische Philosophie.
+
+In dem Gegensaz von Subject und Object , in welchem die Kantische und Sich tische Philosophie sich bewegen , ist das Ding an sich ein unentbehrliches Moment ; es hat in der ganzen philoſophiſchen Anschauung seine bestimmte nothwendige Stelle.
+
+Bei Feuer bach ist die Bestimmung des Dings an sich in die allgemeine Unklarheit und Unbestimmtheit der Principien verwickelt ; man weiß daher nicht, wie weit und welche Consequenzen man daraus ziehen soll. Zunächst bezieht sich der Unterschied zwischen dem Sein an sich und für uns nur auf die Natur ; sollen wir den mensch lichen Organismus mit zur Natur rechnen oder nicht ? sollen wir also das Wesen des menschlichen Organismus zu erkennen und ſeinem Begriffe gemäß in Worten auszudrücken vermögen , den thierischen aber nicht ? Oder sollen wir noch weiter gehen , und die Fähigkeit des Denkens zu erkennen, nur auf das Denken ſelbſt einschränken, in allem Andern aber das Ansich als unerkennbares und unaussprechliches festhalten ? Oder wenn wir den ganzen Menschen mit in das Erkennen hineinziehen , so wäre also das Wesen des Geistes , des menschlichen Organismus zu erkennen , der Unterschied deſſelben vom thierischen Organismus aber nicht ?
+
+Sollen wir den menschlichen Organismus aus der Beziehung zur Natur schlechthin herausschälen , um ſeine vollkommene Erkennbarkeit zu retten ? Oder dringt nicht etwa dadurch , daß wir ihn in nothwendige Beziehung zum Uner kennbaren segen , ein Unerkennbares auch in ihn ein ? - Der
+
+[p. 128] Mensch soll das Absolute sein ; dies ist er nur durch seine unendliche , Alles in sich faſſende Allgemeinheit ; wie faßt er denn aber die Natur in sich , welche sich aller menschlichen Fassung durch ihr Anſichſein entzieht ? Oder soll der Mensch doch absolut sein , während die Natur ihrem Wesen nach ſelbſt ständig außer ihm fällt ? Ist das Ansich der Natur nicht wenigstens eben so abſolut , als der Mensch ? Wie stimmt aber dies mit der Auflösung der Theologie in die Anthropologie ? Bleibt nicht das Anſich der Natur , welches die religiöse Vorstellung wie die Philosophie von der Gottheit umfaßt ſein läßt , als unverdauter Rest neben dem Menschen liegen ?
+
+Ist es nicht die nächstliegende Consequenz , Natur und Mensch, wenn sie schlechthin beziehungslos ſelbſtſtändig ſein ſollen ähnlich wie Spinoza Ausdehnung und Denken als Formen , Attribute der einen unendlichen Selbstständigkeit zu faffen ? Sind wir aber nicht hiermit aus der Anthropologie wieder in die Theologie hinüber gerathen ? ― Indem die Freiheit , das Wiſſen und Wollen nicht prin cipiell als das Wesen des Geistes gesezt ist , so muß sich nothwendig eine Fassung des Geistes geltend machen , die diese Freiheit nicht ausdrückt ;
+
+das Wesen des Geistes muß als unfreies , geistloses erscheinen , und ebenso unfrei , geistlos das Verhalten des Individuums zu diesem Wesen.
+
+So drängt sich denn bei Feuerbach an die Stelle geistiger Verhältniſſe das natürliche Verhältniß des Individuums zur Gattung in einer Weise hervor , daß es den geistigen Proceß in ſich_ab sorbirt, oder diesen bis zu einem zufälligen ,
+
+Momente herunter drückt.
+
+accidentellen
+
+So heißt es in Bezug auf die.
+
+christliche Lehre von der allgemeinen
+
+Sündhaftigkeit : „ E3 liegt dieser Lehre die Forderung zu Grunde , daß das Individuum nicht ein Individuum sein soll , eine Forderung , die aber selbst wieder zu ihrem Fundamente die Vorausseßung hat, daß das Individuum für sich selbst ein vollkommenes
+
+[p. 129] Wesen, für sich selbst die adäquate Darstellung oder Eriſtenz der Gattung ist.
+
+Es fehlt hier gänzlich die objective Anschauung , das Bewußtsein , daß das Du zur Vollkommenheit des Ich gehört , daß die Menschen nur zuſammen das sind und so sind , was und wie der Mensch sein soll und sein kann.
+
+Alle Menschen sind Sünder.
+
+Ich gebe es zu ; aber sie sind nicht Sünder alle auf gleiche Weise ; es findet vielmehr ein sehr großer , ja wesentlicher Unterschied statt.
+
+eine Mensch hat Neigung zur Lüge , der Andere aber nicht ; er würde eher sein Leben laſſen , als sein Wort brechen oder lügen; der Dritte hat Neigung zur Trinkluſt , der Vierte zur Geschlechtslust , nicht der Fünfte aber hat alle diese Neigungen sei es nun durch Gnade der Natur oder die Energie seines Charakters .
+
+Es compenfiren ſich alſo im Moraz lischen, wie im Physischen und Intellectuellen , gegenseitig die Menschen , so daß sie im Ganzen zusammengenommen so sind , wie sie sein sollen, den vollkommenen Menschen dar stellen."
+
+Die Anmerkung ſezt hinzu : ,, Allerdings iſt das
+
+Individuum das Abſolute , in Leibniz's Sprache der Spiegel des Universums , des Unendlichen.
+
+Aber inwiefern es viele
+
+Individuen giebt , so ist jedes nur ein einzelner und insofern endlicher Spiegel des Unendlichen .
+
+Allerdings ist auch im
+
+Gegensatz zu dem Abstractum eines fündlosen Menschen jedes Individuum an sich selbst betrachtet , vollkommen , in der Vergleichung unvollkommen , denn Jeder ist , was er sein kann. * )
+
+Ferner heißt es : ,, Du anerkennst die Schlechtigkeit der Menschen , und doch willst du dich im Menschen befries digen , willst nicht zu einem Gotte deine Zuflucht nehmen ? Nein ! denn die Schlechtigkeit des einen Menschen macht die Tugend des andern wieder gut.
+
+Dieser beraubt mich aus
+
+Habsucht meines Vermögens , aber jener opfert dafür aus Freigebigkeit mir sein eigenes Vermögen auf; jener strebt mir *) Wesen des Chriſtenth . S. 230, [p. 130] aus Bosheit nach dem Leben , aber dieser errettet aus Liebe mit Lebensgefahr mich vom Tode. Von den Menschen , von welchen wir den Spruch haben : homo homini lupus est , der Mensch ist dem Menschen ein feindliches , verderbliches Wesen, von denselben haben wir den Spruch : homo homini Deus est , der Mensch ist dem Menschen ein wohlthätiges , göttliches Wesen.
+
+Aber welcher von dieſen beiden Sprüchen drückt die Ausnahme , welcher die Regel aus ?
+
+Offenbar nur der lettere , denn wie wäre auch nur irgend ein geselliger oder staatlicher Verband zwischen den Menschen möglich , wenn der entgegengesetzte
+
+Spruch die Regel ausdrückt ?
+
+Aber überall können wir uns nur nach der Regel richten und urtheilen , wenn anders unſer Urtheil nicht ſelbſt ein regelwidriges , ab normes , verkehrtes ſein soll.“ * )
+
+:
+
+In dieser Anschauung wird der geistige Proceß unmittelbar mit dem phyſiſchen identificirt.
+
+Der einzelne Mensch ist das , was er sein kann ; es tritt ihm kein Sollen gegen über , welches einen Kampf mit seiner eigenen Individualität, einen Reinigungsproceß postulirte.
+
+Wenn dabei doch noch von der Energie des Charakters die Rede ist , so ist dies in diesem Zusammenhange eine ganz bedeutungslose Redensart. Ist diese Energie , ſeine Neigungen fortzuwerfen , nicht doch wieder eine Gabe der Natur , so können wir uns die Neigung zu lügen , zu rauben u. f. w. unmöglich so ohne Weiteres als einen besonderen Spiegel des Unendlichen aufbringen laſſen, können nicht damit zufrieden sein , wenn sie durch eine andere Neigung compenfirt wird ; denn das Individuum ist in der Hingabe an diese Neigung nicht das , was es sein kann , es ist energielos , charakterlos.
+
+Wenn Feuerbach in der zweiten
+
+Stelle zwischen Regel und Ausnahme unterscheidet , und die Feindlichkeit der Individuen gegen einander für die Ausnahme ansicht, so ist dies offenbar eine sehr willkührliche Reflexion. *) Såmmtl. Werke Bd . I. S. 383,
+
+[p. 131] Aus dem staatlichen Verbande können wir mit demselben Rechte auf das Gegentheil schließen ; oft genug hat man dieſen als einen bloßen Schuß gegen das überwiegende feindliche Ver halten der Menschen gegen einander betrachtet .
+
+Regel kann der ganzen Anschauung gemäß weder der eine noch der andere Spruch sein ; vielmehr sind beide zusammen die Regel, und regelwidrig ist es , nur den einen Spruch als Regel hers vorzuheben.
+
+Das weitere Verhältniß des Individuums zur Gattung bleibt nun aber ganz im Dunkeln und Unbestimmten .
+
+Feuerbach in den Principien so sehr accentuirt , das Einzelne sei das Wirkliche , so kommt es offenbar für diese Wirklichkeit des Einzelnen auf das Verhältniß desselben zum Allgemeinen an.
+
+Der einzelne electrische Funke verhält sich specifisch anders zum electrischen Processe im Allgemeinen , wie die Pflanze , das Thier , der Mensch zu seiner Gattung ; der specifische Unterschied dieſer allgemeinen Proceſſe begründet auch ein anderes Verhältniß zur einzelnen Erscheinung , und beſtimmt auch den objectiven Werth , die Wirklichkeit dieſes leßtern in verschiedener Weiſe.
+
+In dem natürlichen Verhältniß zur Gattung kann der einzelne Mensch zunächſt darum als schlechthin wirklich erscheinen , weil er unmittelbar Alles ist , was er ſein kann , also feine weiteren Forderungen an ihn gestellt werden, denen er etwa nicht entspräche.
+
+Allein troß dem oder viel mehr eben darum hat der einzelne Mensch hierdurch doch noch nicht mehr Werth , als jeder Baum , den ich fälle , um einen Stuhl daraus zu schneiden , als jedes Thier , das ich mir wohlschmecken lasse.
+
+Als bloßes. Exemplar der Gattung ist der Einzelne ohne inneren persönlichen Werth ; er ist nur das Sein, die Erscheinung eines Andern , nicht seine eigene That , er ist nicht Ich , nicht absolutes Unterscheiden in sich, nicht wissend , wollend , sondern nur empfindend.
+
+Wenn ich nun dieſem natürlichen Verhältniß das Wissen und Wollen 9* [p. 132] äußerlich anhefte , so fann es keine oberflächlichere Reflexion geben , als diese.
+
+Der Mensch ist einmal einzelnes beſtimmtes
+
+Individuum , in diese Bestimmtheit geht er schlechthin auf; dann aber weiß er auch diese Bestimmtheit , d . h. er geht nicht darin auf, unterscheidet sich vielmehr selbst davon , macht ſich diese seine individuelle Bestimmtheit objectiv , ja er über windet seine Neigungen , macht seine Natur zur Bestimmtheit feines Wollens , zum Charakter.
+
+Sicherlich ist der einzelne
+
+Mensch nicht die ganze Menschheit , vereinigt nicht alle An lagen, Fähigkeiten , die zum Begriffe des Menschen gehören, in absoluter Weise in sich ; allein diese natürliche Beschränkt heit ist im Menschen nicht Princip , sondern Moment ; er ist in seiner Besonderheit doch allgemein für sich selbst.
+
+dies aber macht das Specifische des menschlichen Wesens aus, eben dadurch tritt dem natürlichen Leben ein geistiges , der natürlichen Gemeinschaft eine geistige gegenüber , an welcher der Einzelne nur dadurch wirklich Theil nimmt , daß er mit ſeiner nätürlichen Bestimmtheit kämpft , diese vergeistigt, idea lisirt.
+
+Bleiben wir bei der natürlichen Differenz des Einzelnen zur Gattung stehen , so fordert die nothwendige weitere Consequenz , diese Gattung selbst als eine besondere zu faſſen , und in dieser Besonderheit nicht über die anderen , /sondern neben diese zu stellen.
+
+Die Menschheit ist also eine be fondere Gattung Thier; in die Bestimmtheit dieses Außersich seins ist der Mensch festgebannt, d. h . er ist wesentlich ſelbſt- . los , ein bestimmtes , besonderes Empfinden .
+
+Den Menschen in dieser Besonderheit doch als Gott zu betrachten , dazu hätten wir offenbar gar kein Recht ; jede beſondere Thiergattung wäre eben so sehr Gott. Feuerbach bezeichnet bald das gemeinschaftliche, gesellige. Leben als Gott, bald die menschliche Gattung ; der verschwin dende Unterschied zwiſchen Phyſiſchem und Moralischem läßt cs zu , mit jenen beiden Ausdrücken beliebig zu wechseln.
+
+[p. 133] Was aus dem geselligen Leben wird , wenn wir das Allge meine als willkührliches Product des Individuums betrachten, haben wir bereits gesehen.
+
+Consequenter Weise müſſen wir aber auch die natürliche Idealität der Gattung als eine bloß vorgestellte, gedachte betrachten.
+
+Feuerbach spricht zu Zeiten von einer wesentlichen Identität der Individuen , giebt aber dann auch wieder die ausdrückliche Erklärung , daß Gattung bei ihm nur die anderen Individuen bedeuten solle.
+
+,, Allerdings ist das Wesen Eines , aber dieses Wesen ist unendlich , sein wirkliches Dasein daher unendliche, sich gegenseitig ergänzende Verschiedenartigkeit , um den Reichthum des Wesens . zu offenbaren.
+
+Die Einheit im Wesen ist
+
+Mannigfaltigkeit im Dasein. “
+
+Diese Einheit macht sich denn auch sehr energisch in der Sphäre des Geistes geltend .
+
+,,Wahr ist , worin der Andere mit mir übereinstimmt
+
+Uebereinstimmung das erste Kriterium der Wahrheit , aber nur deswegen , weil die Gattung das leßte Maaß der Wahrheit ist.
+
+Was ich nur denke nach dem Maaße meiner
+
+Individualität , daran ist der Andere nicht gebunden , das kann anders gedacht werden , das ist eine zufällige , nur sub jective Ansicht.
+
+Was ich aber denke im Maaße der Gattung, tes denke ich , wie es der Mensch überhaupt nur immer denken kann und folglich der Einzelne denken muß , wenn er normal , gesetzmäßig und folglich wahr denken will.
+
+Wahr ist , was mit dem Wesen der Gattung übereinstimmt , falsch , was ihr widerspricht.
+
+Ein anderes Gefeß der Wahrheit giebt es nicht." * ) . In einer späteren Abhandlung heißt es : „ Die Gattung bedeutet bei Feuerbach nicht ein Abstractum , ſondern nur dem einzelnen für sich selbst firirten Ich gegenüber das Du , den
+
+Andern , überhaupt die außer : mir menschlichen Individuen.
+
+existirenden
+
+Wenn es daher bei Feuerbach z . B.
+
+heißt : das Individuum ist beschränkt, die Gattung unbeschränkt, * ) Wesen des Chriſtth. S. 235.
+
+[p. 134] so heißt das nichts Anderes , als : die Schranken dieſes Individuums sind nicht auch die Schranken der Anderen , die Schranken der gegenwärtigen Menschen deswegen noch nicht die Schranken der zukünftigen Menschen.“
+
+Die Anmerkung fegt hinzu : ,, Relativ , für mich als diesen Menschen, ist allerdings ; und zwar nothwendig , die Gattung nur ein Ab, ſtractum , nur ein Gedanke , obwohl sie an ſich ſelbſt ſinn liche Existenz hat.
+
+So sind z . B. die vergangenen Menſchen obwohl an sich selbst einst wirkliche , sinnliche Menschen , für mich nur Gedankenwesen oder Wesen der Vorstellung.
+
+Doch über diesen Gegenſtand bei einer andern Gelegenheit.
+
+Uebri gens verstehe ich unter Gattung auch die Natur des Men ſchen ; eine Bedeutung , die mit der andern aber aufs innigſte zusammenhängt, denn die Natur des Menschen existirt ja nur in dem Gegensaß von Ich und Du , Mann und Weib." * ) In dieser leßten Stelle tritt in consequenter Weise wieder die Alternative hervor , mit welcher Feuerbach gegen die Beweise für das Dasein Gottes operirte : entweder ist das Eristirende sinnlich außer mir , oder es ist ein blos Vorgestelltes , dachtes.
+
+Ge
+
+Sind die Individuen wesentlich identisch , und ist ihr Unterschied von einander nur die Erscheinung dieser wesentlichen Identität , so ist die Gattung , obwohl sie als ſolche , als Einheit , als Allgemeinheit , nicht sinnlich eriſtict, doch nicht ein blos Vorgestelltes ; vielmehr ist sie eine objective Macht in den Einzelnen , ein energisches , sich selbst voll. bringendes Gesez.
+
+„ Ist es aber möglich , daß das Wesen einer ganz andern Gattung gehört, als die Erscheinung ? Reimt sich eine sinnliche Existenz auf ein unsinnliches Wesen ? ,, Das wirklich Eristirende ſind ſonach nur die einzelnen Individuen ; das Identische in ihnen ist ein Gemeinsames , welches meine Vorstellung aus den Vielen abstrahirt, welches aber an sich ohne objective
+
+*) Gesammelte Schr. Bd. 1. S. 351.
+
+[p. 135] Nothwendigkeit nur ein zufälliges Zusammentreffen der Einzelnen ist.
+
+So wenig wie von einer wesentlichen Einheit der
+
+Individuen , eben so wenig darf von einer wesentlichen Beziehung des einen Individuums auf das
+
+Mannes zum Weibe die Rede sein.
+
+andere z. B. des
+
+Denn in dieser wesentlichen Beziehung wird das Individuum an und für sich über feine Einzelnheit hinausgerückt und das Allgemeine tritt als objective , nicht durch das Individuum gefeßte Energie in dasselbe ein.
+
+Wollten wir mit dieser Anschauung die frühere
+
+Behauptung vereinigen : wahr ist worin der Andere mit mir übereinstimmt , so könnten wir nur daran erinnern , daß zwei Narren eben so gut übereinstimmen können , als zwei kluge Leute; mehr als ein zufälliges Zuſammentreffen unmittelbar für sich existirender , wesentlich zusammenhangsløser Meinungen kann es consequenter Weiſe unmöglich geben. -- Mit einem ſolchen abstracten Realismus ist nun nicht eher irgend Etwas anzufangen, er hat nicht eher irgend welchen Werth , ehe er sich nicht einigermaßen seiner Consequenzen bewußt wird und den Muth hat , dieſe Conſequenzen zu ziehen.
+
+Ist die Gat tungsallgemeinheit als solche nur subjective Vorstellung, so verlieren damit nothwendig auch alle allgemeinen Unter
+
+ſchiede des Wirklichen ihre objective Bedeutung .
+
+Also die
+
+Unterschiede zwischen Organiſchem und Unorganischem, zwischen Mensch , Thier , Pflanze ; sobald wir die Nothwendigkeit dieser Unterschiede behaupten , so sehen wir sie aus unserer Vor stellung heraus , gestehen ihnen eine objective , durch unser Vorstellen nicht bedingte Realität zu.
+
+Leugnen wir diese Realität , so werden wir zuleßt auf einen Atomismus zurück getrieben; aus dem zufälligen Zuſammentreffen der einzelnen, für sich seienden Atome müssen wir jene allgemeinen Unter schiede herleiten ; sie können sein und können auch nicht sein ; das wirklich Eristirende ſind nur die einzelnen Atome selbst'; sie zusammen bilden auch das wahrhaft Göttliche , denn sie [p. 136] allein ſind das wirkliche Einzelne , durch und durch Sinnlichè, nicht bloß Vorgestellte , Gedachte. Das Zurücknehmen des Allgemeinen in die individuelle Vorstellung und Empfindung zieht noch eine näher liegende Consequenz nach sich .
+
+Ist nämlich das Allgemeine nur Pro duft des Individuums , existirt es nur in meiner Vorstellung, so kann das Individuum weder theoretisch noch praktiſch über sich hinaus.
+
+Damit aber heben wir das Factum des Wissens und Wollens noch nicht auf, halten jedoch fest , daß beide
+
+Thätigkeiten dem Individuum als dieſem einzelnen angehören. Das Individuum geht also in der Weise über sich hinaus , daß es dies Hinausgehen immer wieder auf sich bezicht ; es ist also nicht bloß empfindend , ſondern macht dieſe Empfin= dung zum Princip seines Wissens und Thuns ; d . h. es legt ſeiner Individualität den Werth der unendlichen Allgemeinheit bei, macht sich selbst in seiner Besonderheit zum Maaße aller Dinge.
+
+In dieser individuellen Energie ist das Judividuum
+
+Sophist , Egoist.
+
+Die Sophistik , wie sie in der neuesten
+
+Zeit hervorgetreten ist , legt sich zum Theil ausdrücklich an Feuerbach an, macht dieſem aber den Vorwurf, daß er auf halbem Wege stehen bleibe , daß er nicht wirklich die Illusion des religiösen Glaubens aufhebe , vielmehr an die Stelle des alten Aberglaubens nur einen neuen sche.
+
+Feuerbach des avouirt die Sophistik; er wendet sich ausdrücklich gegen ,,den Einzigen und sein Eigenthum , “ und sucht , wenn auch nicht den Buchstaben , doch wenigstens den Geist seiner Schrift über das Wesen des Christenthums gegen ihn in Schuß zu nehmen. * )
+
+Es wird von Interesse sein ,
+
+Punkte dieser Apologie hervorzuheben.
+
+die wesentlichen.
+
+Wenn zunächst Mar
+
+Stirner dem Feuerbach vorwirft , daß er nur eine theologische *) Ges. Schr. Th . I. S. 372. „ Ich stehe in einem höchſt kritischen Verhältniß zu meiner Schrift ; ich habe es immer nur mit dem Gegen stande, mit dem Wesen , ihrem Geiste zu thun. Die Beschäftigung mit ihrem Buchstaben überlaſſe ich den Kindern Gottes oder des Teufels."
+
+[p. 137] Befreiung von der Theologie und Neligion gåbe, indem er nur Gott als Subject aufhebe , aber das Göttliche selbst , die Prädicate Gottes unangefochten stehen lasse, so macht Feuer bach dagegen geltend , * daß eben hierdurch jene Prädicate zu menschlichen , gemeinen , profanen Prädicaten würden . "Wenn er den Menschen zum Gott des Menschen mache , so habe dies den Sinn , daß , das Göttliche nichts Göttliches , Gott nicht Gott, sondern nur das , und zwar im höchsten Grade , sich selbst liebende , sich selbst bejahende und anerkennende mensch liche Wesen sei.
+
+,,Gott ist nichts Anderes als das die Wünsche des Menschen erfüllende , das seine Bedürfnisse - fte seien nun welcher Art sie wollen ―― befriedigende Wesen . Wenn du: also einen Kranken oder auch nur einen von firen Ideen Besessenen heilst , wenn du einen Hungrigen mit Speise er quickſt , ſo bist du ihm , proſaiſch ausgedrückt : ein Wohlthäter oder wohlthätiger Mensch , poetisch ausgedrückt : ein Gott , denn was dem Menschen wohlgefällt , wohlthut , das nennt er panegyrisch Gott. tout.
+
+Religion ist Affect , ist Poesie ; voilà
+
+Der Saz : der Mensch ist Gott , das höchste Wesen des Menschen , ist daher identisch mit dem Sat : es ist kein Gott , kein höchstes Wesen im Sinne der Theologie.
+
+Aber dieſer leßte Saß ist nur der atheiſtiſche , d . i . negative , jener der praktische und religiöse , d . i . positive Ausdruck. " Wenn ferner Mar Stirner behauptet , Feuerbachs theologische Ansicht bestehe darin , daß er uns in ein wesentliches und unwesentliches Ich spalte, und die Gattung , den Menschen, ein Abstractum , eine Idee als unser wahres Wesen im Unters schiede von dem wirklichen individuellen Ich als dem unwesent lichen hinstelle , so erwidert Feuerbach , daß gerade das Thema, der Kern seiner Schrift über das Christenthum darin bestehe, die Spaltung in ein wesentliches´ und unwesentliches Ich aufzuheben, also den ganzen Menschen vom Kopf bis zur Ferse zu vergöttern , zur Anerkennung zu bringen.
+
+Gerade das
+
+[p. 138] Wesen des Christenthums ſei die einzige Schrift , in welcher das Schlagwort der neueren Zeit , die Persönlichkeit , die Individualität aufgehört habe, eine sinnlose Floskel zu ſein ; nur die Negation Gottes ( des abstracten , unendlichen Wesens als des wahren Wesens ) sei die Position des Individuums , und nur die Sinnlichkeit sei der wohl. getroffene Sinn der Individualität.
+
+Indem aber ferner die
+
+Religion des Menschen eignes Wesen oder das vom Menschen abstrahirte Wesen als ein außer und übermenschliches Wesen vorstelle, so habe er nothwendig , um die Religion zu erklären, diese Zerspaltung in Gott und Mensch auf innerhalb des Menschen selbst stattfindende Unterschiede zurückführen müſſen ; er habe daher die psychologischen Zustände , welche eben den Menschen beſtimmten , ſein Wesen , seine Eigenschaften als göttliche Mächte von sich zu unterscheiden und über sich zu setzen , die Zustände der Begeisterung , der Leidenschaft , der Versenkung , des Außersichſeins zum Ausgangspunkte feines Thema's gemacht.
+
+Jedoch sei die Einleitung zum Wesen des
+
+Christenthums , wo insbesondere die Mächte ,, im Menschen über dem Menschen “ hervorgehoben würden , nicht eine Ein leitung zu einer philoſophiſchen Abhandlung über das Verhältniß des menschlichen Prädicats zum menschlichen Subject oder des menschlichen Wesens zum menschlichen Ich , sondern eben eine Einleitung zum Weſen des Christenthums , d. h. zum Wesen der Religion.
+
+,, Kann man aber der Ouvertüre zur Zauberflöte deswegen einen Vorwurf machen , daß sie nur die Ouvertüre zur Zauberflöte , nicht aber zum Don Juan ist?" - Hiernach wäre also Feuerbach mit der wesentlichen Intention des Einzigen , nicht das Wesen des Menschen , ſondern den einzelnen Menschen selbst zum Abſoluten zu machen, einverstanden.
+
+Wenn aber Feuerbach den in der Einleitung zum Wesen des Christenthums accentuirten Unterschied zwiſchen dem allgemeinen Wesen und der individuellen Eriſtenz des
+
+[p. 139] Menschen nur als eine Ansicht der Religion betrachtet wiſſen will , so unterscheidet er hier zwischen Geist und Buchstaben feiner Schrift in einer so extremen Weise , wie die sophistische Orthoborie es nur je thun konnte.
+
+Entschieden redet jene
+
+Einleitung über das Wesen des Menschen und der Religion in ganz objectiver Weise ; offenbar wäre es ja auch durchaus sinnlos , die Illuſion des religiösen Bewußtseins aus dieser Illusion selbst erklären zu wollen .
+
+Unsere Betrachtung wird uns sogleich auf dieſen "Punkt wieder zurückführen .
+
+"I Wenn nun aber dem Feuerbach das Individuum das absolute d. i. das wahre, wirkliche Wesen ist , warum sagt er dann nicht : dieſes ausschließliche Individuum ? “ Feuerbach erwidert : eben dies wäre eine religiöse Illusion ; die Religion verwechselt das Individuum mit der Gattung , macht ein einzelnes , beſtimmtes , endliches Individuum zum Absoluten.
+
+Folge den Sinnen ! ruft Feuerbach aus .
+
+Du bist durch und durch Mann - das Ich , das du in Gedanken von deinem sinnlichen , männlichen Wesen absonderst , ist ein Product der Abstraction , das aber soviel oder sowenig Realität hat , als die platonische Tischheit im Unterschiede von den wirklichen Tiſchen. Als Mann aber beziehst du dich wesentlich und nothwendig auf das Weib ; du bist troß des Unterschiedes doch mit ihr identisch.
+
+Zwei aber hat keinen Sinn und Schluß ; auf Zwei folgt Drei ; auf das Weib das Kind. Und zwar treibt die Liebe unaufhaltſam über ein einziges , unvergleichliches Kind hinaus .
+
+Wie kannst du einem Schriftsteller den Vorwurf machen , daß er das Individuum nicht anerkenne , wenn er es so anerkennt , wie die Liebe es thut, welche die tiefste Anerkennung des Individuums ausdrückt? Wir sind allzumal vollkommen ― ſagt der Einzige wahr und ſchön : allein wir sind ja einmal auch reflectirende Wesen ; wenn wir uns aber mit Anderen vergleichen , so fühlen wir uns beschränkt und unvollkommen.
+
+Wie können wir uns [p. 140] aber von diesem Beschränktheitsgefühl anders erlösen , durch den Gedanken anderer Menschen , welche uns das geben was wir für uns nicht haben ?
+
+Ist nicht der Helfende die
+
+"1 Bin ich lahm , so sind des Andern Arme und Beine meine Bewegungsorgane ; bin Vorsehung des Hülfsbedürftigen ?
+
+ich blind , so sind seine Augen mein Führer ; bin ich Kind , so ist des Vaters Wille und Verstand mein Wille und Ver stand , mein Fürmichsein , denn als Kind bin ich in tausend Fällen wider und ohne Wiſſen und Willen wider mich selbst. So ist der Mensch der Gott des Menschen ! diesen menschlichen Gott kannst
+
+Und nur durch du den un- und außer menschlichen überflüssig machen. " Hat denn nun Feuerbach wirklich mit dieſen Bemerkungen ſich den Einzigen und deſſen Conſequenzen vom Leibe gehalten ? Ist damit wirklich Etwas gewonnen , daß er darauf hinweiſt, daß außer dem Einzigen · noch andere Leute da sind ? Daß zwischen diesen ein wesentlicher Unterschied d . h. eine wesentliche Beziehung , nämlich des Mannes zum Weibe , und daß wir außerdem reflectirende Wesen sind , welche ihre Beschränkt heit fühlen und durch die Liebe sich einander unterstüßen können ? Um jene wesentliche Beziehung in ihrer ganzen Un widerstehlichkeit gelten zu laſſen , müſſen wir das Ich, als eine Abstraction betrachten ; mit der Reflexion auf andere Individuen aber und vollends mit der Liebe müssen wir das Ich wieder als eine reale Macht in uns hineinnehmen.
+
+Ohne
+
+Ich wären wir freilich vor dem Egoismus des Einzigen sicher, wir wären geschlechtlich bestimmte Bestien , welche zur Zeit der Brunft ad oculos demonstriren , mit welchem Rechte Feuer bach die Gattungsallgemeinheit als eine bloße Abstraction be trachtet.
+
+Ohne das Ich aber reflectirten wir sicherlich nicht , und wenn wir einmal , von der Liebe reden , so haben wir hiermit auch die Möglichkeit des Hasses , des Egoismus, in welchem sich das einzelne Individuum troß aller wesent [p. 141] lichen Beziehung auf ein Anderes und troß aller Reflexion über seine Beschränktheit doch zum Absoluten macht , sich des reitwillig helfen läßt , aber Keinem hilft.
+
+Warum sollen wir denn nicht Egoisten sein, wie der Einzige verlangt ? etwa darum, weil wir der Hülfe Anderer bedürfen ?
+
+oder weil wir durch unsere innere Allgemeinheit zur Reflexion über unsere Be schränktheit kommen , in demselben Momente aber diese Allgemeinheit wieder als eine Abstraction ähnlich der platonischen Tischheit betrachten ? Benußen wir damit unsere Allgemeinheit zu etwas Anderem , als daß wir unsere Hülfsbedürftigkeit und die Empfindung derselben zum Princip machen ? Ist dies nicht selbst Egoismus ?
+
+Beruht dieser nicht eben auf dem Wider spruch, in welchem sich die Bemerkungen Feuerbachs gegen den Einzigen hin und her werfen , nämlich den objectiven Werth --des Allgemeinen zu leugnen , ohne die Liebe die eben dadurch zur Selbstliebe wird als ein Unmögliches zu betrachten ? Feuerbach geht aber noch weiter ; er bietet dem Einzigen gegenüber allen ſeinen Idealismus auf.
+
+Wie in der Raupe troß ihres selbstgenügsamen Egoismus doch noch etwas steckt, was über ihr selbst ist , nämlich der Schmetterling , so steckt im Kinde der Jüngling , im Jüngling der Mann.
+
+Ja, innerhalb ein und desselben Individuums ist zu unterscheiden zwischen dem Nothwendigen und Veräußerlichen , dem Individuellen im Sinne des Zufälligen , dem Wesentlichen und Un wesentlichen.
+
+Meine Hände und Füße nämlich kann ich verlieren , ohne meine Existenz einzubüßen ; Kopf verliere , so bin Ich selbst weg.
+
+wenn ich meinen
+
+Noch mehr ! ,, Wenn ich heute in meinen Ausgaben und Genüssen mich beschränke, um morgen noch Etwas zu leben zu haben , bin Ich nicht selbst die Vorsehung , die über mir , dieſem heutigen Egoisten, welcher dem andern , dem morgigen Menschen aus Genußsucht so gerne nichts übrig lassen möchte , maaßgebend wacht und waltet ? und wenn ich auf das Krankenlager thatlos dahin [p. 142] gestreckt bin , ſehe ich nicht , sei's nun in der Erinnerung an die verlorene Gesundheit , oder in der Hoffnung der Wieder genesung mich , den Gesunden , so hoch über mich , den
+
+Kranken , als nur immer die unsterblichen Götter über den sterblichen Menschen stehen ? Und wenn ich vergehe vor Gram und Aerger über eine leidenschaftliche unheilvolle Handlung, ſtehe ich als Kritiker , als Richter nicht über mir , dem Thäter, tem armen Sünder ? - Bin ich hungrig und dürftig , so geht mir nichts über den Genuß von Speise und Trank, nach der Mahlzeit nichts über die Ruhe , nach der Ruhe nichts über die Bewegung und Thätigkeit , nach dieser nichts über die Unterhaltung mit Freunden , nach vollbrachtem Tage werk endlich feiere ich den Bruder des Todes , den Schlaf, als das höchſte , wohlthätigste Wesen.
+
+So hat alſo jeden
+
+Augenblick des Lebens der Mensch etwas , aber nota bene ! Menschliches über sich." Auch diese Bemerkungen treffen gar nicht den Punkt, auf den es hier ankommt.
+
+Zunächſt iſt das menſchliche Individuum in sich selbst unterschieden , in sich selbst über sich hinaus in ähnlicher Weise , wie es jedes sich entwickelnde Individuum ist ; es verhält sich wie eine Raupe.
+
+Dann tritt die Reflexion hinzu ; das Individuum vergleicht seine verſchie denen
+
+Zustände , wünscht in dem einen den andern , ohne daß jedoch hiermit duum eintråte , ein anderer [p. 143] sei , und welches Recht , welchen Werth sie habe in dem ganzen Bildungsproceß des Geistes , so hat die Antwort hierauf im Allgemeinen denselben Verlauf, als welchen unsere frühere Betrachtung über den eigenthümlichen Gehalt des religiösen. Glaubens nahm.
+
+Wenn die Einleitung in das Wesen des
+
+Christenthums den Unterschied zwischen allgemeinem Wesen und unmittelbarer Existenz in das Individuum selbst verlegt, wenn sie soweit geht , den allgemeinen geistigen Mächten eine solche Energie zuzugestehn , daß das Individuum denselben keinen Widerstand entgegenzuſeßen vermag , so wird hierdurch allerdings die religiöse Vorstellung ihrer Entstehung nach des greiflich , erhält aber auch unmittelbar dadurch ein objectives Recht.
+
+Was das Individuum dazu treibt , fein eignes Wesen sich zu objectiviren , außer sich hinzu stellen , ist eben die Unbedingtheit dieſes Wesens , in welcher es sich dem Individuum gegenüber als eine objective Gewalt geltend macht.
+
+Wie das allgemeine Wesen seinem eignen Des griffe nach das An- und Fürstchseiende, Objective im Individuum selbst ist, so erhält es erst dadurch sein Recht , daß es [p. 144] vom Individuum losgelöst , als Proceß in sich selbst, als freie Vermittelung mit sich gescht gefeßt wird .
+
+In- . Daß also das Individuum sein allgemeines Wesen als ein Anderes vorstellt , dazu hat es vollkommenes Recht , daß es dies Andere zugleich´ als ein unmittelbar anderes und somit selbst wieder als ein besonderes Weſen faßt , daſſelbe aber doch wieder wesentlich auf sich bezieht , ohne diese beiden Momente zur wirklichen begrifflichen Einheit zu verbinden , dies gehört der Form der Vorstellung an , einer Form , welche dem Begriffe der Sache an und für sich freilich nicht gemäß ist.
+
+Es war weiter zu untersuchen , welche Nothwendigkeit in der ganzen Bildung "** und Organisation des Geistes der Vorstellung zuzuerkennen ist , in wieweit ſie ſelbſt es vermag den geistigen Proceß-- aus zudrücken , und welche Wege sie einschlägt , um alle Momente dieses Proceſſes zu umfassen .
+
+Entschieden bildet die religiöse
+
+Vorstellung schon den Uebergang in das Wiſſen ; ſte ist endliche, sich selbst nicht begreifende Theorie, somit eine Theorie , welche es nicht versteht , das vollständig auszusprechen , wodurch das Gemüth innerlich bewegt wird , welche alſo , ganz ähnlich wie das Symbol , der Mythus , von der denkenden Betrachtung gedeutet werden muß , weil ihre Tendenz von der Aus führung derselben noch verschieden ist. Betrachten wir nun aber jenen in der Einleitung urgirten Unterschied selbst schon als eine religiöse Vorstellung , behaupten™ wir , das Individuum habe nur andere Individuen und andere. individuelle Zustände außer sich und in sich , so hat weder die Vorstellung , noch auch der Begriff eines die Individuen be dingenden und beherrschenden Allgemeinen irgend ein Recht. Das Individuum widerspricht also nicht bloß dann seinem Begriffe , wenn es sein allgemeines Wesen als ein anderes Wesen vorstellt, sondern schon dann , wenn es überhaupt das Allgemeine in irgend einer Weise als eine reale Macht ſich objectivirt ; das Allgemeine ist ja nur Produkt der indivi [p. 145] duellen Reflexion , ist nur ein mehr oder weniger unbeſtimmtes Bild eines andern Individuums oder eines andern individuellen Zustandes .
+
+Die Religion selbst wäre ſonach nichts weiter als Irrthum , oder ―― indem die individuellen Vor stellungen derselben nicht bloß dem wirklichen Sein nicht ent sprechen , sondern ganz einfach mit der Wirklichkeit verwechselt werden ―――― sie wäre ein Traum , wie sie Feuerbach selbst wieder holt bezeichnet , oder noch mehr, ein Traum mitten im Wachen selbst , sie wäre Verrücktheit.
+
+Sollte die Religion wirklich psychologisch begriffen werden , so käme es darauf an , die Möglichkeit und die Gründe dieser Verrücktheit aufzusuchen. Soviel ist dabei ohne Weiteres klar , daß nicht das philosophische Denken nöthig ist, um die religiöse Illuſion los zu werden ; ein gesunder Sinn ist dazu vollkommen ausreichend. Zunächst schien es so und es wurde ausdrücklich behauptet, daß nur
+
+Denken die religiöse Illusion aufzulösen im
+
+Stande sei , damit entstände aber offenbar die Schwierigkeit, daß man alle Menschen zu Philoſophen machen müſſe , um sie von der Religion zu befreien ; dieſe Schwierigkeit fällt nun entschieden fort , und es entsteht die entgegengesezte , die allge meine Existenz der religiösen Verrücktheit zu erklären .
+
+Für nothwendig dürfen wir aber bei dieser Auffassung die Religion in keiner Weise halten , wie Feuerbach dies thut. Wenn sie eben so nothwendig sein soll , wie die Kunst und die Sprache, so wäre zunächst in Bezug auf die Kunst eine ganz ähnliche Operation anzuwenden , als Feuerbach mit der Religion vornimmt.
+
+Die künstlerische Begeisterung ist eine ganz ähnliche Verrücktheit , als der religiöse Glaube ; auch in ihr gibt sich das Subject dem Wahne hin , von der Idee , und nicht von seinen eigenen individuellen Vorstellungen ge trieben zu werden.
+
+Und wenn man es auch in der Anschauung des Kunstwerks nicht vergißt , daß dasselbe von Menschenhänden gemacht ist, ſo ſtellt sich dasselbe doch entschieden [p. 146] den einzelnen -in Wahrheit wirklichen -- Dingen und Individuen nicht als ein Unwirkliches , als eine bloße subjective Phantasie gegenüber ;
+
+vielmehr schaut das Individuum im
+
+Kunstwerk sein Wesen, feine wahre Wirklichkeit an.
+
+Feuerbach zur Religion und Kunst auch die Sprache hinzu nimmt , so ist in dieser , wenn sie auch nicht das Einzelne , sondern nur das Allgemeine auszudrücken versteht , doch nicht so entschieden die Wirklichkeit dieses Allgemeinen gefeßt , wie in der Religion und Kunst.
+
+Jedoch kann auch die Sprache insofern ebenfalls hierher gerechnet werden , weil im Grunde von Feuerbachs Principien aus alles Vorstellen gleich unbegreiflich ist ; der leßte Grund , die leßte Möglichkeit der Sprache ist die principielle Allgemeinheit des Ich, die Energie des Individuums , sich unendlich in sich zu unterscheiden. Feuerbach macht einen Versuch , die religiöse Illuſion zu erklären. In einer seiner leßten Abhandlungen über das Weſen der Religion * ) betrachtet er nämlich die Natur als den ersten , ursprünglichen Gegenstand der Religion.
+
+Der Grund der Religion ist das Abhängigkeitsgefühl ; das aber, wovon der Mensch abhängig iſt und sich abhängig fühlt , ist ursprünglich die Natur.
+
+Der Mensch bringt sich aber weiter diese Abhängigkeit auch zum Bewußtsein ; und eben dadurch werden ihm die natürlichen Dinge , die Sonne , das Licht , besonders die Thiere zu göttlichen Wesen. Indem die Abhängigkeit allein das beſtimmende Princip des religiöſen Glaubens ist , so ist nicht einzusehen , warum nicht der Mensch so gleich in die religiösen Objecte mit aufgenommen wird ; denn daß die Menschen von einander abhängig sind , wird dem Menschen doch von Kindheit auf genug zu Gemüthe geführt. Hiermit hätten wir sogleich in der ursprünglichen Religion alle Momente des religiösen Glaubens vereinigt ; ja dieſe ursprüngliche Religion scheint dem Ziele , welches Feuerbach * ) Såmmtl, Schr. I. B. S. 410 ff.
+
+[p. 147] der Religion überhaupt steckt , sehr nahe.
+
+Denn der Mensch erkennt die Wirklichkeit des Einzelnen an , und weiß sich von diesem , nicht von einer eingebildeten wesentlichen Allgemein heit abhängig.
+
+Einseitig , abergläubiſch ſcheint dieſer Glaube vor Allem noch darin zu sein , daß das Gefühl der Abhängigkeit noch zu sehr in ihm überwiegt , die Selbstliebe dagegen zurücktritt. Entschieden ist aber die Existenz einer solchen ursprünglichen Religion eine pure Phantasie.
+
+Das Moment, welches Feuerbach selbst im Wesen des Christenthums als Princip der Religion hervorhebt , nämlich daß der Mensch in ihr sein allgemeines Wesen anschaut, macht sich sogleich in den ersten dürftigsten Erscheinungen der Religion geltend.
+
+Mensch trifft eine Auswahl zwischen den göttlichen Objecten, läßt sie auch nicht in ihrer ursprünglichen Gestalt , sondern formirt sie, legt seine Gefühle hinein ; die Gegenstände seiner Ver ehrung werden damit sogleich zu Darstellungen seines eigenen Wesens , sind nicht mehr reine natürliche Dinge , sondern Pro ducte seines eigenen Geistes .
+
+So sagt denn auch Feuerbach spåter selbst: ,, Die Natur ist der erste und fundamentale Gegenstand der Religion , aber sie ist selbst da , wo sie unmittelbarer Gegenstand religiöser Verehrung ist, wie in der Natur religion , nicht Gegenstand als Natur , d . h . in der Weise, in dem Sinne , in welchem wir sie auf dem Standpunkte des Theismus und der Naturwiſſenſchaft anschauen.
+
+Die Natur ist vielmehr dem Menschen ursprünglichda eben , wo sie mit religiösen Augen angeschaut wird -
+
+Gegenstand als das , was er selbst ist , als ein persönliches , empfindendes, lebendiges Wesen.
+
+Der Mensch unterscheidet sich ursprünglich nicht von der Natur , folglich auch nicht die Natur von sich ; er macht daher die Empfindungen , die ein Gegenstand der Natur in ihm erregt , unmittelbar zu Beschaffenheiten des Gegenstandes selbst.
+
+Die wohlthuenden , guten Empfindungen und Affecte verursacht das gute, wohlthuende Wesen der Natur ; 10 * [p. 148] die schlimmen , wehethuenden Empfindungen ein böses Wesen, oder wenigstens die Natur im Zustande des Böſeſeins , des
+
+Uebelwollens, des Zorns. So macht der Mensch unwillkührlich und unbewußt - d. i . nothwendig , obwohl diese Nothwen digkeit nur eine relative , historische ist das Naturwesen zu einem Gemüths wesen, einem subjectiven d. i. mensch lichen Wesen. " * ) In welchem Sinne ist denn hier nach die Natur der ursprüngliche Gegenstand der Religion ? Offenbar nur in dem Sinne , in welchem sie nicht Natur, sondern eben so sehr Produkt des Menschen ist.
+
+Für die religiöse Abhängigkeit selbst ist der Gegenstand nicht Natur, sondern nur für uns , die wir von der religiösen Illusion be freit sind.
+
+Wir führen die religiöse Abhängigkeit auf eine andere , auf eine irreligiöse zurück denn nun aber diese in jene ?
+
+wodurch verwandelt sich
+
+Durch die ursprüngliche Ein heit des Menschen mit der Natur , ist die Antwort ; diese ist es , welche die Abhängigkeit von der Natur als Abhängigkeit von Gott und zwar von einem menschenähnlichen Gott er scheinen läßt.
+
+Daß der Mensch sich ursprünglich nicht von der Natur unterscheidet, ist eine sehr unbestimmte Redensart. Ohne alles Unterscheiden ist der Mensch nur in dem unmittelbar verschwindenden Anfang seiner Existenz .
+
+Allerdings ist aber dieses Unterscheiden zunächst nicht das Bewußtsein, daß eben in ihm das Wesen , die wahre Wirklichkeit des
+
+Geistes besteht ; es ist also unvollständig , hat noch nicht die Gestalt von Ich und Nichtich. von absehen ,
+
+Wollen wir aber einmal da daß die Personification der natürlichen Dinge, welche der Mensch vor jenem Bewußtsein seines wesentlichen Unterschiedes von der Natur vornimmt , noch durchaus nicht Religion ist, so scheint diese ganze Betrachtung auf das Gegentheil von dem hinzuführen , auf welches wir lossteuern. Soll denn die religiöse Illusion , daß nämlich der Mensch *) Ebendaselbst S. 436.
+
+[p. 149] von einem Andern meint abhängig zu sein , daraus erklärt werden, daß er wirklich von einem Andern abhängig ist ? Vorher bestand die Illusion darin , daß der Mensch das , was eigentlich sein Wesen ist , als ein anderes Wesen vorstellt ;
+
+jezt dagegen darin , daß er das , was eigentlich ein anderes Wesen - nämlich die Natur ist , nicht als ein anderes , fontern als sein Wesen faßt. Hören wir weiter ! Nach Feuerbach soll die Natur nicht bloß der ursprüngliche Gegenstand , sondern auch bleibender Grund , der fortwährende , wenn auch verborgene, Hintergrund der Religion sein . „ Der Glaube, daß Gott, selbst wenn er als ein von der Natur unterschie= denes , übernatürliches Wesen vorgestellt wird , ein außer dem Menschen existirendes , ein objectives Wesen ist , wie die Philosophen sich ausdrücken , hat seinen Grund nur darin , daß das außer dem Menschen existirende , gegen ständliche Wesen , die Welt , Gott ist.
+
+die Natur ursprünglich ſelbſt
+
+Die Existenz der Natur gründet sich nicht , wie der
+
+Theismus wähnt , auf die Existenz Gottes , nein ! umgekehrt : die Existenz Gottes oder vielmehr der Glaube an seine Eriſtenz gründet sich nur auf die Existenz der Natur.
+
+Du bist nur deswegen genöthigt , Gott als ein existirendes Wesen zu denken, weil du von der Natur selbst genöthigt wirst , deiner Eriſtenz und deinem Bewußtsein die Existenz der Natur vorauszuseßen, und der erste Grundbegriff Gottes fein anderer ist , als eben der , daß er die deiner Existenz vorangehende , vorausgesetzte Existenz ist.
+
+Oder : in dem Glauben , daß Gott außer dem
+
+Herzen, außer der Vernunft des Menschen existirt , schlechtweg existirt , gleichgültig , ob der Mensch ist oder nicht ist, und ihn denkt oder nicht denkt , wünſcht oder nicht wünſcht , in diesem Glauben oder vielmehr in dem Gegenstande desselben spukt kein anderes Wesen dir im Kopfe , als die Natur , deren Existenz sich nicht auf die Eriſtenz des Menschen , geſchweige [p. 150] auf die Gründe des menschlichen Verstandes und Herzens ſtüßt." * )
+
+Hiermit hätten wir also eine Erklärung der religiösen Illusion ; die Natur spukt dem Menschen im Kopfe. Ging aber früher die Tendenz dahin , den Menschen als den einzigen Inhalt der Religion , als den einzigen wirklichen Gott aufzuweisen , so wird jezt ausdrücklich die Natur Gott genannt , und zwar eben darum, weil sie, ein schlechthin anderes Wesen als der Mensch , dieſem ſelbſtſtändig gegenüber steht.
+
+Wodurch Feuerbach in diesen Widerspruch hineinge, trieben wird , haben wir schon früher gest hen .
+
+Worin besteht denn nun aber hier eigentlich die Erklärung des religiösen Epuks ?
+
+Daß der Mensch in der religiösen Abhängigkeit mit einem andern Wesen zu thun zu haben meint , ist ja eben kein Spuk, es iſt ja wirklich ein anderes Wesen .
+
+Der Grund des Spuks liegt alſo darin , daß es eigentlich kein Spuk iſt. Wie ist denn nun aber dies andere Wesen beschaffen , welches seinen Spuk im Kopfe des Menschen treiben soll ? Die Ant wort hierauf haben wir schon früher gehört : die Natur als solche , das Ansich der Natur iſt unfaßbar , ist unausſprechlich. Wie kommt denn aber dieses unfaßbare Ansich in den Kopf des Menschen hinein ? wie kann es in dem Kopfe ſpuken , wenn es eigentlich ganz außer dem Kopfe ist ?
+
+Wie ist eine unmittelbare Einheit des Menschen mit diesem Ansich möglich ? Entschieden ist dies Ansich nur ein Produkt des ſubjectiven Denkens ; jenes andere Wesen wäre also doch wieder ein Gespenst , aber ein Gespenst in Feuerbachs Kopfe.
+
+Feuerbach erklärte die religiöse Illuſion dadurch , daß er eine ähnliche in seinem aufgeklärten Kopfe nachweist. — Auch wäre nichts damit geholfen , wollten wir einmal dies gespenstische Ansich vergessen und uns mit der Reflexion auf die einzelnen Dinge begnügen. Der Mensch sieht - müßten wir sagen - in der Religion seine Vorstellungen für ein anderes Wesen an, * ) Ebend. S. 417 ff.
+
+[p. 151] weil er sie mit den einzelnen Dingen verwechselt , welche wirklich außer ihm sind.
+
+Das ist ja aber eben die Frage : wie kommt der Mensch zu dieser Verwechselung ? die Dinge dringen mit selbstständiger Gewalt von außen in den Menschen ein , dem Menschen selbst soll aber keine wesentliche Allgemeinheit immanent sein , die sich mit Energie seiner Individualität widersezte. Ver sezen wir aber den Menschen in die unmittelbare Einheit mit nichts ist sicherer , als daß ohne jene den einzelnen Dingen wesentliche Allgemeinheit der Mensch nie und nimmermehr über diese Einheit hinauskommen , daß er bis zu seinem
+
+Ende immer nur empfindender sein würde , daß alſo der religiöse Spuk eben so wenig entstanden wäre , als der Gedanke des Ansich der Natur in dem Kopfe Feuerbachs . 5 ) Lassen wir es aber dahin gestellt sein , wodurch die religiöse Illusion entsteht , nehmen wir dieselbe als ein Factum , worin liegt nun das Verderbliche derselben ? Sie bringt ---- antwortet Feuerbach -- dem Menschen um die Kraft des wirklichen Lebens , um den Wahrheits- und Tugendſinn. * ) Daß sie den Wahrheitssinn , das Wahrheitsgefühl tödtet , zeigt sich vor Allem in dem Glauben an die Offenbarung , welcher mit der religiöſen Jlluſion nothwendig gesetzt iſt. „ Die Offenbarung Gottes ist eine bestimmte , zeitliche Offenbarung : Gott hat sich offenbart anno so und so viel , und zwar nicht dem ewigen Menschen , dem Menschen aller Zeiten und Orte, derVernunft, der Gattung, sondern bestimmten, beschränkten Individuen .
+
+Als eine örtlich und zeitlich bestimmte muß die
+
+Offenbarung schriftlich firirt werden , damit auch Anderen un verdorben der Genuß derselben zu Gute komme.
+
+Der Glaube an die Offenbarung ist daher zugleich , wenigstens für Spätere, der Glaube an eine schriftliche Offenbarung ; die nothwen dige Folge und Wirkung aber eines Glaubens , in welchem ein historisches , ein nothwendig unter allen Bedingungen * ) Wesen des Christth. S. 408.
+
+[p. 152] der Zeitlichkeit und Endlichkeit verfaßtes Buch die Bedeutung eines ewigen , absolut , allgemein gültigen Worts Aberglaube und Sophistik." * )
+
+hat
+
+Den Tugend
+
+ſinn tödtet aber die religiöse Illuſion dadurch , daß sie die moralischen Verhältniſſe , welche an und für sich unendlichen Werth haben , an und für sich heilig sind , zu abgeleiteten Verhältnissen macht , indem sie dieſelben als Gebote Gottes betrachtet, alſo erſt durch die göttliche Willkühr heiligen läßt. "I Aber die Ehe ―― natürlich als freier Bund der Liebe - ist durch ſich ſelbſt , durch die Natur der Verbindung , die hier geschlossen wird , heilig .
+
+Nur die Ehe ist eine religiöſe , die eine wahre ist , die dem Wesen der Ehe , der Liebe entspricht. Und so ist es mit allen sittlichen Verhältnissen. Sie sind nur da moralische , sie werden nur da mit sittlichem Sinn gepflogen, wo ſie durch ſich ſelbſt als religiöse gelten. Wahrhafte Freundschaft ist nur da, wo die Gränzen der Freundſchaft mit religiöſer Gewiſſen haftigkeit bewahrt werden , mit derselben Gewiſſenhaftigkeit , mit welcher der Gläubige die Dignität ſeines Gottes wahrt. Heilig ist und sei dir die Freundschaft , heilig das Eigenthum, heilig die Ehe, heilig das Wohl jedes Menschen , aber heilig an und für sich selbst. Im Christenthum werden die moralischen Geseze als Gebote Gottes gefaßt ; es wird die Moralität selbst zum Kriterium der Religiosität gemacht ; aber die Ethik hat dennoch untergeordnete Bedeutung , hat nicht für sich selbst die Be deutung der Religion.
+
+Diese fällt nur in den Glauben.
+
+Ueber der Moral schwebt Gott als ein vom Menschen unter schiedenes Wesen , dem das Beste angehört , während dem Menschen nur der Abfall zukommt.
+
+Alle Gesinnungen , die dem Leben, dem Menschen zugewendet werden sollen , alle ſeine besten Kräfte vergeudet der Mensch an das bedürfnißloſe
+
+Die wirkliche Ursache wird zum ſelbſtloſen Mittel, eine nur vorgestellte , imaginåre Ursache zur wahren , wirk ) Ebend, S. 312, [p. 153] lichen Ursache.
+
+Der Mensch dankt Gött für die Wohlthaten, die ihm der Andere selbst mit Opfern dargebracht , der Dank, den er seinem Wohlthäter ausspricht, ist nur ein scheinbarer, er gilt nicht ihm , sondern Gott.
+
+Er ist dankbar gegen Gott, aber undankbar gegen den Menschen .
+
+So geht die ſittliche Gesinnung in der Religion unter ! So opfert der Mensch den Menschen Gott auf! " * ) ――― ,, Wenn wir in Zeiten , wo die Religion heilig war, die Ehe , das Heiligthum, die Staats gefeße respectirt finden , so hat dies nicht in der Religion feinen Grund , sondern in dem ursprünglichen , natürlichen , ſitt lichen und rechtlichen Bewußtsein , dem die rechtlichen ' Verhältnisse als solche für heilig gelten .
+
+Wenn das Recht nicht durch sich selbst heilig ist , wird es nun und nimmermehr durch die Religion heilig ." ――― ,, Wo die Moral auf die Theologie, das Recht auf göttliche Einsetzung gegründet wird , da kann man die unmoralischsten , unrechtlichsten , schändlichsten Dinge rechtfertigen und begründen.
+
+Ich kann die Moral durch die Theologie nur begründen , wenn ich selbst schon durch die
+
+Moral das göttliche Wesen bestimme.
+
+Widrigenfalls habe ich kein Kriterium des Moralischen und Unmoraliſchen, ſondern eine unmoraliſche , willkührliche Basis , woraus, ich alles Mögliche ableiten kann .
+
+Ich muß also die Moral , wenn ich sie durch Gott begründen will , schon in Gott sehen , d . h. ich kann die Moral , das Recht , kurz alle substanziellen Verhältniſſe nur durch ſich ſelbſt begründen , und begründe sie nur wahrhaft , wenn ich sie durch sich selbst des gründe.
+
+Etwas in Gott setzen oder aus Gott ableiten , das heißt nichts weiter als etwas der prüfenden Vernunft ent ziehen , als unbezweifelbar , unverleßlich , ohne Rechenschaft darüber abzulegen.
+
+heilig hinstellen , Selbstverblendung, wo nicht selbst böse , hinterliſtige Absicht liegt darum allen Begründungen der Moral , des Rechts durch Theologie zu *) Ebendaselbst S. 404.
+
+[p. 154] Grunde.
+
+Wo es Ernst mit dem Recht ist , bedürfen wir keiner
+
+Anfeuerung und Unterſtüßung von Oben her. Wahre,
+
+Das Richtige,
+
+Gute hat überall seinen Heiligungsgrund in sich selbst , in seiner Qualität.
+
+Wo es Ernst mit der Ethik ist , da gilt sie eben an und für sich selbst für eine göttliche Macht. Hat die Moral keinen Grund in ſich ſelbſt , ſo giebt es auch keine innere Nothwendigkeit zur Moral ; die Moral ist dann der bodenlosen Willführ der Religion preisgegeben." * ) Untersuchen wir zunächst den lezten Punkt : die Religion zerstört die Sittlichkeit , und zwar eben dadurch , daß in ihr der Mensch sein Wesen als ein anderes Wesen vorstellt.
+
+Wir werden zunächst zugeben müſſen , daß die ſittlichen Verhältniſſe uns an und für sich heilig sein sollen , nicht bloß darum , weil sie göttliche Gebote sind . Ist es denn aber möglich, bei ihnen stehen zu bleiben ? Wenn wir uns denkend zu den sittlichen Formen verhalten , so werden wir sie offenbar aus dem allge meinen Begriffe des Geistes , der Freiheit zu deduciren ver suchen ; denn sie sind wesentlich Erscheinungen und zwar noth wendige Erscheinungen des Geistes ; sie sind der wirkliche , sein Wesen realistrende Geist.
+
+Durch diese Deduction_ver= lieren die sittlichen Verhältnisse nicht ihren objectiven Werth, ihre immanente Heiligkeit ; vielmehr werden sie als das ge seßt , was sie sein sollen , als nothwendige , an und für sich geltende , der individuellen Willkühr stimmungen.
+
+Verhalten wir uns aber nicht denkend , phi entnommene Des losophirend zu den sittlichen Formen , sondern unmittelbar ; erkennen wir sie an , ohne sie als nothwendig zu begreifen , und zwar nicht äußerlich , sondern in innerlicher , wahrhaft sittlicher Weise ; sind wir also von ihnen gemüthlich durch drungen , gelten sie uns als wesentliche , unbedingte Be stimmungen unserer eigenen Natur - so wird sich sicherlich je tiefer , inniger der sittliche Proceß ist , desto mehr die Noth *) Ebendaselbst S. 406 ff.
+
+[p. 155] wendigkeit geltend machen , über die individuelle Form desselben zur Anschauung , Vorstellung fortzugehen.
+
+Was den Menschen dazu treibt , ſeine eigene Innerlichkeit ſich zu objectiviren , ist eben die ihm immanente Allgemeinheit ; er ist an sich schon über sich hinaus , hat einen Gehalt in sich , welcher nicht von ihm erfunden , welcher nicht durch seine Willkühr gesetzt , welcher sich ihm unwiderstehlich aufdringt. Ist es nun für diesen Proceß der Objectivirung wesentlich , daß er zunächst in der Gestalt der Vorstellung vor sich geht , daß also das Individuum ſeine innerliche Allgemeinheit unmittelbar außer sich hinstellt , also als ein allgemeines , und dabei doch besonderes Wesen an schaut , so werden nothwendig die besonderen sittlichen Verhältnisse eben darum weil sie an und für sich heilig sind , als Offenbarungen dieses allgemeinen Wesens , und insofern sie sich an den Willen des Menschen wenden , als Gebote des göttlichen Willens erscheinen.
+
+Damit verlieren die sittlichen Be stimmungen eben so wenig ihren innern unbedingten Werth, als durch eine philosophische Deduction aus dem Wesen des Geistes ; vielmehr werden sie als absolut , als göttlich an und für sich vorgestellt.
+
+Freilich wird über sie hinausgegangen zu einem Anderen; allein dies Andere ist nur das allgemeine Wesen des Menschen selbst , feine eigene absolute Natur.
+
+Gerade der sittliche Proceß vor Allem ist es , welcher zur religiösen Vorstellung forttreibt , und der religiöse Glaube ist nur dann in seiner ganzen energischen Frische vorhanden , wenn er mit dem sittlichen Proceß unzertrennlich verbunden ist. Allerdings liegt es in dem Begriffe der Vorstellung , daß sie die wesentlichen Momente ihres Inhalts nicht in ihrem innern un wie Feuerbach zertrennlichen Zusammenhange faßt , allein die Vorstellung selbst macht mit dieſem mit Recht behauptet äußerlichen Verhalten ihrer Momente nicht Ernst ; sie hebt diese Aeußerlichkeit eben so sehr auch wieder auf, und supplirt ihre den innerlichen Proceß nicht absolut ausdrückende Form durch [p. 156] die Realität dieſes innerlichen Proceſſes ſelbſt.
+
+So wenig dem wirklichen religiöſen Glauben Gott nur ein äußerliches Object ist , eben so wenig sind es seine Gebote ; beides wird vielmehr durch denselben geistigen Act innerlich ergriffen , und als das Heilige an und für sich angeschaut.
+
+Werden die ſittlichen
+
+Verhältnisse dem Individuum zu äußerlichen Geboten , hören sie auf, ihm heilig an und für sich zu sein , so wird ihm in demselben Momente auch Gott und der göttliche Wille zu einem äußerlichen Gegenstand.
+
+Nun ist es freilich möglich, daß das Individuum die Gebote erfüllt auch ohne innerliche Betheiligung , eben weil sie Gebote des göttlichen Willens ſind , sei es nun aus Furcht vor der Strafe oder aus einem ganz äußerlichen Respect an dieser Unsittlichkeit , an dieſem äußern Verhalten des individuellen Willens zu seinem Weſen ist der religiöse Glaube als solcher, die sich selbst objectivi rende lebendige Innerlichkeit sicherlich so wenig Schuld wie die Gesundheit Schuld ist an der Krankheit.
+
+Rein in der
+
+Sphäre des Sittlichen selbst können die sittlichen Verhältniſſe auch äußerlich anerkannt, die sittlichen Gebote auch äußerlich erfüllt werden , aus irgend welchen unfitilichen Gründen , aus Furcht vor üblen Folgen u. dergl.; der Grund dieser Ent fittlichung kann nie die Vorstellung selbst sein , weil diese als wirkliche Vorstellung die ſich ſelbſt vorſtellende Innerlichkeit iſt. Vollständig , bis zu ſeinem leßten Ziele hin durchgeführt aber ist dieser Proceß des Vorstellens immer nur dann , wenn er bis zur unbedingten Allgemeinheit selbst fortgeht d . h. in dem religiösen Glauben , dieser also so wenig eine verderbliche
+
+Illusion , daß er vielmehr den sittlichen Proceß erst zu seiner Vollendung bringt.
+
+Bei den besondern sittlichen Verhältnissen stehen bleiben , ist entschieden nur die Sache der endlichen , sich selbst nicht begreifenden Reflexion .
+
+Entweder ich deducire sie aus dem allgemeinen Wesen des Menschen , oder ich schaue sie als Offenbarung des göttlichen Wesens an ; durch beide
+
+[p. 157] Weisen seße ich sie als das was sie sein sollen , als heilig an und für sich ; das Stehenbleiben bei ihnen läßt sie immer als willkührliche Produkte des Individuums erscheinen . So sehen wir denn nun auch, daß sich in der historischen Entwickelung des Geistes sittliche Verhältnisse immer im Zusammenhange mit religiösen Anschauungen bilden.
+
+Natürlich ist dieser Zusammenhang nicht bloß ein allgemeiner , ſondern auch ein besonderer , bestimmter.
+
+Ist der religiöse Proceß abstract, so offenbart er sich auch in einer abstracten Siṭtlich keit und umgekehrt.
+
+Fordert der religiöse Proceß in seiner höchsten Vollendung eine abstracte Vernichtung der concreten menschlichen Verhältniſſe , ſieht er das Zurückziehen des Men schen aus der Welt in seine einfache Innerlichkeit als das höchste Ziel des geistigen Lebens an wie dies vor Allem hervortritt in dem orientaliſchen Pantheismus , auch im Katho licismus ― so können wir diesen Zustand des Geistes nicht so ohne Weiteres einen unsittlichen nennen , wenigstens ist er es nicht in dem Sinne , in welchem es die Auflöſung aller allgemeinen Formen in die ſubjective Willkühr ist.
+
+Die Un sittlichkeit in diesem letzteren Sinne fällt entschieden mit der Auflösung des religiösen Glaubens zuſammen , es iſt die praktische Ausführung des Zweifels an der wesentlichen geistigen Allgemeinheit.
+
+Jenes abstracte Aufgehen des sittlichen Processes in den religiösen ist dagegen der Ausdruck eines in sich selbst abstracten religiösen Glaubens , mag auch immerhin ――― wie dies in der christlichen Anschauung entschieden liegt das allgemeine Princip dieses Glaubens selbst über diese ein ſeitige , ihm nicht vollſtändig entſprechende Form hinaustreiben. Wenn sich dieser abstracten Religiosität gegenüber concrete sittliche Verhältnisse geltend machen , so ist dies sicherlich auch der Uebergang in eine concretere religiöse Anschauung. Etwas ganz Anderes ist es nun aber, wenn sich die Wissenschaft der Moral auf die Theologie oder vielmehr [p. 158] auf den Glauben stüßt.
+
+Daß die Wissenschaft der Moral
+
+ſich ſtüßt auf die Erkenntniß des abſoluten Weſens , der Wahr heit an und für sich , ist ihr ſicherlich nicht als ein Irrthum anzurechnen ; stüßt sie sich auf den Glauben , oder wohl gar auf die Dogmen desselben , so ist sie ein Scholaſticismus , welcher auf wissenschaftlichen Werth weiter keinen Anspruch machen kann und freilich der Willkühr hingegeben ist.
+
+unmoraliſchſten , unrechtlichſten , ſchändlichsten Dinge aber zu deduciren , soll die Moral wohl bleiben lassen , welche sich auf die wissenschaftliche Theologie , auf die wissen schaftliche Erkenntniß Gottes ſtüßt.
+
+Man müßte es denn schon eine Deduction zu nennen belieben , wenn man zuerst ohne Deduction behauptet , Gott sei das absolute , von allem Processe der Endlichkeit freie Subject , die absolute Willkühr, welche denn weiter diese oder jene schändlichen Dinge vom Menschen verlange.
+
+Mit dem innerlichen religiösen Proceß , welcher zur Anschauung und Vorstellung seiner selbst fortgeht, hätte diese Carricatur schaffen.
+
+der Wiſſenſchaft ſicherlich nichts zu
+
+Und eben so wenig die früher so oft hervorgefuchte und ausgebeutete List der Priester , die Erfüllung ihrer selbst süchtigen Forderungen durch die Einkleidung derselben in die Form göttlicher Gebote von dem ſtupiden Volke zu erpreſſen. Ganz ähnlich verhält es sich auch mit dem anderen Vor wurf:
+
+Die Religion zerstöre den Wahrheitsinn.
+
+Auch hier ist es ganz richtig , daß die religiöse Vorstellung , indem sie das menschliche Wissen als absolut faßt , dasselbe auch äußerlich auf Gott bezieht.
+
+Hierin liegt die Möglichkeit , daß die Offenbarung in einer bestimmten endlichen Fassung zu einer äußern Autorität werde , daß das Individuum also den Inhalt , welcher zunächst aus der freien
+
+Innerlichkeit entstanden , in äußerlicher , bloß historischer Weise annehme und anerkenne , daß es glaube , weil es geschrieben steht, ohne wirkliche innere Betheiligung.
+
+Die religiöse Vor [p. 159] stellung als solche hat aber auch hieran entschieden keine Schuld.
+
+Denn in ihr geht die Objectivirung immer von der innerlichen Ueberzeugung aus ; sie nimmt also den positiven Gehalt immer wieder in die Innerlichkeit des Subjects zurück; die Autorität ist nur der Ausdruck ihrer eigenen objectiven Gewißheit.
+
+Der religiöse Glaube als solcher ist daher auch ununterbrochen produktiv ; er geht immer , auch wenn er sich an die bestehenden Formen anlegt , doch über diese hinaus , durchbricht dieselben durch neue Anschauungen.
+
+Offenbar wäre auch damit wenig gewonnen , wollten wir dem Individuum die Illusion nehmen , daß sein Wissen zugleich Offenbarung eines andern abſoluten Weſens ſei , dafür ihm aber beibringen, fein Wiſſen ſei das Produkt nicht seiner Individualität, ſondern der Gattung.
+
+Die Möglichkeit eines äußern , unkritischen
+
+Glaubens ist damit nicht im Entfernteſten bei Seite geſchafft. Vor der Möglichkeit aller äußern Autorität schützt man das Individuum nur dadurch , daß man dasselbe entweder unmittelbar über alle endlichen Formen des Wiſſens und über den Kampf mit ihnen hinaus in das reine Denken verſeßt , oder dadurch daß man demſelben zu der Gewißheit verhilft es sei in seiner besondern zufälligen Bestimmtheit absolut.
+
+Geben sich die Individuen ihren momentanen Empfindungen , Einfällen , Phantasieen hin , lassen sie sich nur bestimmen durch die wechselnden Bedürfnisse ihres Herzens , so kommt es zu keinem objectiven geistigen Leben , zu keinen allgemeinen , poſitiven Geſtaltungen weder in der Sphäre des Wissens noch des Wollens . Vor der Möglichkeit einer äußern Autorität wäre das Individuum ſicher ; desto entschiedener aber wäre es in die nothwendigen Gefeße seiner Gattung gebannt, wenn es auch nichts davon wüßte.
+
+Indem aber die mensch lichen Individuen zur Erkenntniß ihres allgemeinen Wesens fortgehen, so produciren sie auch nothwendig objective Formen und Gestaltungen , welche individuellen Willführ [p. 160] entnommen , dem Einzelnen zunächſt poſitiv gegenüber treten.
+
+und äußerlich
+
+Die erste Bildung des Einzelnen ist das
+
+Aneignen , die Verinnerung dieſes äußerlich Gegebenen ; der Fortschritt über das Gegebene hinaus Assimilation desselben hindurch , geht nur durch die und ist immer ein Kampf nicht bloß mit einem Fremden , sondern mit dem Assimilirten, zur andern Natur Gewordenen , mit der eigenen individuellen Trägheit.
+
+Ohne dieſen Kampf und ohne die Möglichkeit , in ihm zu unterliegen d . h. ohne die Möglichkeit , das Gegebene äußerlich festzuhalten , giebt es sicherlich keine Entwickelung , und nur wer sich dieser rühmen kann , befreit sich gründlich von den Banden der äußern Autorität.
+
+6 ) Werfen wir nun aber die religiöse Illusion fort was tritt an die Stelle derselben ? - Reflectiren wir auf das Verderbliche dieser Illusion , so scheint der ganze Kampf gegen den religiöſen Glauben vorzugsweise im Intereſſe der Sittlichkeit geführt ; damit scheint er aber auch gerecht fertigt, sanctionirt.
+
+Eben die reine , lebendige Sittlichkeit ist es, welche die verderblichen Illuſionen des religiöſen Bewußt ſeins verdrängen soll , da ſie als das wahrhaft freie , von keiner idealistischen Phantastik getrübte , als das wirklich göttliche Leben alle geistigen Momente des religiösen Glaubens umfaßt. Wenn Feuerbach ſelbſt wiederholt urgirt , er kämpfe nicht gegen die Religion , sondern gegen die Theologie , so paßt dieſe Behauptung entschieden nicht auf die Definition , welche er selbst von der Religion giebt.
+
+Die Religion ſoll ja Vorstellung des
+
+Menschen von seinem Wesen als von einem andern Wesen ſein eben diese Vorstellung ist an und für sich schon das Verderbliche , Unſittliche des religiösen Glaubens.
+
+Wenn die
+
+Theologie das als Gott vorgestellte menschliche Wesen sogar als ein schlechthin für sich bestehendes zu beweisen sucht , und damit die religiöse Illusion firit , den Widerspruch derselben auf seine höchste Spiße treibt , so wird doch -- wie Feuerbach [p. 161] die Sache darstellt der religiöse Glaube nicht erst durch dies Firiren zu einem für die freie Sittlichkeit verderblichen. Der Kampf geht also gegen die Religion als solche ; nicht bloß die Theologie und Philosophie , sondern das allgemeine Bewußtsein soll aus dem drückenden , angſtvollen Traume der Religion erwachen.
+
+Allerdings aber bezieht sich dieser Kampf gegen die Religion zunächst nur auf die eine Seite derselben, nämlich auf die theoretische , auf die Vorstellung als solche; der innere praktische Proceß , welcher zum religiösen Glauben ebenso wesentlich gehört , ſoll unangefochten bleiben ; ja , er ſoll rein heraustreten , soll seine theoretische Verhüllung, welche ihn verunreinigte , welche ihm seine natürliche Leben digkeit und Frische raubte , fortwerfen.
+
+Diese innere praktiſche
+
+Seite hat also Feuerbach im Auge , wenn er behauptet , daß fein Angriff nicht die Religion als solche treffe ; er ſieht dann ――― im Widerspruch mit der Definition , welche er durchgängig von der Religion giebt ―――― die Form der Vorstellung nicht als ein nothwendiges , wesentliches Moment der Religion an. Wie ist nun aber dieser innere praktische Proceß beschaffen, dieſes von der religiösen Illuſion befreite , wahrhaft religiöſe, ſittliche Leben , in welches die Kritik den antiquirten christlichen Glauben auflöst ? ― Nach der Deutung, welche Feuerbach selbst von den Dogmen des christlichen Glaubens giebt , ist er offenbar mit dem eigentlichen Kerne desselben im Wesentlichen einverstanden.
+
+Daß der Verstand , die Liebe , die Phan taste göttlichen Werth haben , daß ebenso auch dem Herzen und dessen Wünschen , welche sich in dem Glauben an Wunder in religiöser , phantastischer Weise Luft machen , ein wesentliches Recht zuzugestehen ſei , wird durchaus nicht geleugnet ; ebenso wenig wird der eigentliche Sinn des Dogmas der ――――― Dreieinigkeit daß nämlich erst das gemeinschaftliche Leben ein wahrhaft menschliches ſei ― irgend wie angegriffen ; im Gegentheil, wie dem christlichen Glauben die Trinität das [p. 162] höchste Mysterium war , so drückt auch für Feuerbach der Sinn dieses Dogmas Freiheit aus.
+
+die höchste Forderung der ſittlichen
+
+Auch die eigentliche Intention des Mönchs wesens und Cölibats , wenn wir auf das sinnliche Interesse reflectiren , welches ihnen zu Grunde liegen soll , soll nicht im Entferntesten der Vergangenheit übergeben sein , so wenig es uns auch einfallen mag , dies sinnliche Intereſſe in jene phantastische Formen einzufleiden . dings
+
+Es handelt sich also aller wie Feuerbach selbst behauptet ― nur um die Vernichtung jener religiösen Illuſion ; der innere Gehalt derselben ist schon , wie, die freie Sittlichkeit es verlangt , ein durchaus menschlicher; allein er ist innerhalb des religiösen Glaubens ſelbſt nur als ein dunkler , ſich ſelbſt nicht verſtchender Trieb , als ein in der Ausführung sich vergreifendes Streben vor handen.
+
+Die Form der religiösen Vorstellung verbreitet über die an sich vernünftige Intention einen abstracten Idealismus, durch welchen der Mensch allſeitig aus der Einheit mit ſich heraus gerissen und in Widerspruch mit sich selbst versezt wird . Die allge meinen sittlichen Verhältniſſe gelten nun nicht mehr als solche, ſind nichtheilig an und für sich, ſondern bedürfen-einer äußeren Sanc tion, d. h . sie sind für ſich unheilig ; und die individuellen, ſinn lichen Bedürfnisse , deren Erfüllung ebenso heilig , ebenſo ſittlich, werden einem geträumten , jenseitigen Himmel geopfert — der Mensch hat sich vollständig entleert und es bleibt ihm nur der allseitig ungeftillte Trieb , wirklich Mensch zu ſein.
+
+Werfen wir die religiöse Illusion fort , so erhalten geistige wie sinn liche Interessen gleichzeitig ihr Recht ; der Mensch , wie er leibt und lebt , tritt in die Wirklichkeit. Hier entsteht nun aber vor Allem die Frage : wird es denn auch gelingen , die religiöse Illusion gründlich zu ver nichten ? Wird nicht vielmehr , wie es bisher immer gewesen, mit dem Verschwinden cine andere entstehen?
+
+einer bestimmten religiösen Illuſion Den sichern Schuß gegen jede [p. 163] religiöse Illusion besigen wir in Feuerbachs Principien .
+
+So wenig wie aus ihnen der religiöse Glaube erklärt werden kann , eben so wenig kann aus ihnen ein solcher hervorgehen. Wenn zunächst dem Allgemeinen noch neben dem Individuellen eine Geltung zugestanden wird , so scheint hier noch ein Ansatz für den religiösen Glauben vorhanden ; allein wir haben ge sehen , zu welchen Consequenzen das äußere Verbinden des Individuellen und Allgemeinen führt , und wie Feuerbach ſelbſt das Allgemeine , eben darum , weil er es nicht als Princip anerkennt , in die Individualität zurücknimmt , als ein Pro duft , als eine besondere Weise des Individuellen betrachtet wissen will.
+
+Das Höchste, wozu es der Mensch bei jenem principlosen Compler von Thätigkeiten bringen konnte , war ein eben so äußeres , principloſes , gemeinschaftliches Leben , in welchem die Einzelnen gegenseitig ſich ſuppliren , ihre Bedürfnisse und Thätigkeiten austauschen , aber ohne daß sich eine Nothwendigkeit , ein Unterſchied zwiſchen Wesen und Un weſen , zwiſchen ſittlicher Allgemeinheit und egoiſtiſchen Inter essen geltend machen könnte.
+
+Dies ordinäre Leben also ist es, in welchem das Räthsel der Religion gelöst , der Traum des religiösen Geistes auf ewig verſcheucht , der Mensch aus dem Zwiespalt mit sich selbst zur Einheit , zur unendlichen Befriedigung in sich selbst zurückgekehrt sein soll. Offenbar ist hiermit auch der philosophische Forts gang zur Idee des Absoluten als dem Begriffe des Menschen widersprechend verworfen .
+
+Wie jedoch Feuerbach die philosophische Idee des Abſoluten als einen Rest der religiösen
+
+Illusion betrachtet , so sieht es zunächst so aus , als wenn er ähnlich wie er nach seiner Auffassung mit den Dogmen that das , was die Philosophie bisher in das Absolute verlegte , dem Menschen allein vindiciren wolle ; als wenn es sich hier auch um nichts Anderes handelte , als um die Vernichtung einer Illuſion .
+
+So heißt es in der Kritik 11 * [p. 164] der speculativen Gotteslehre :
+
+,, Wenn das Bewußtsein des
+
+Menschen von Gott erst das Selbstbewußtsein Gottes ist, so ist per se das menſchliche Bewußtſein göttliches Bewußtsein. Warum entfremdest du also dem Menschen sein Bewußt= ſein und machst es zum Selbstbewußtsein eines von ihm unterschiedenen Wesens , eines Objects ? Warum vindicirst du Gott das Wesen, dem Menschen nur das Bewußtsein ? Gott hat sein Bewußtsein im Menschen und der Mensch ſein Weſen in Gott? Das Wissen des Menschen von Gott ist das Wiſſen Gottes von sich ?
+
+Welch' ein Zwiespalt und Widerspruch!
+
+Kehre es um , so hast du die Wahrheit : Das Wiſ, sen des Menschen von Gott ist das Wiſſen des Menschen von sich , von seinem eigenen Wesen. Nur die Einheit des Wesens und Bewußtseins ist Wahrheit. Wo das Bewußtsein Gottes , da ist auch das Wesen Gottes - also im Menschen ; im Wesen Gottes wird dir nur dein eigenes Wesen Gegenstand , tritt nur vor dein Bewußtsein, was hinter deinem Bewußtsein liegt.
+
+Sind die Bestimmungen des göttlichen Wesens menschliche , ſo ſind ja die mensch lichen Bestimmungen göttlicher Natur.
+
+So nur bekommen wir eine wahre , in sich befriedigte Identität des göttlichen und menschlichen Wesens die bendität des menschlichen Wesens mit sich so nur, wenn wir nicht mehr eine des fondere , von der Psychologie oder Anthropologie unterſchie dene Religionsphiloſophie oder Theologie haben , sondern die Anthropologie selbst als Theologie erkennen.
+
+Aller Identität, die nicht wahrhafte Identität , Einheit mit sich selbst ist, liegt noch der Zwiespalt, die Trennung in Zwei zu Grunde , indem sie zugleich aufgehoben wird oder vielmehr aufgehoben werden soll.
+
+Jede Identität solcher Art ist ein Widerspruch mit sich eine Phan selbst und mit dem Verstande - eine Halbheit taſte eine Verkehrtheit , eine Verschrobenheit , die aber ge= rade um so tiefer erscheint , je verkehrter und unwahrer ste [p. 165] ist. " * )
+
+Hier ist gerade der Punkt , auf den es wesentlich ankommt, ganz unberührt gelaſſen. ſchen Philoſophie aufgebürdet ,
+
+Zunächst wird der Hegel was ihr gar nicht in den
+
+Sinn kommt und `wogegen sie sich eben durch die behauptete Identität des menschlichen und göttlichen Wissens opponirt — nämlich die Vorstellung eines göttlichen Objects , welches, als ein besonderes Wesen unmittelbar dem menschlichen Wesen gegenübersteht .
+
+Daß das Wissen des Menschen von Gott ―――― muß die das Wissen des Menschen von seinem Wesen ist Hegelsche Philosophie ohne Weiteres zugestehen ; allein was ist denn das Wesen des Menschen ? und wie verhält sich der Einzelne zu diesem Wesen ?
+
+Ist das Wesen des Menschen die äußere Verbindung verschiedener Thätigkeiten , wird jede wesentliche Allgemeinheit als Produkt des Individuums be trachtet, so ist zu sagen : was die Philoſophie als das Wiſſen des Menschen von Gott faßt , ist eigentlich in Wahrheit nur die Empfindung des einzelnen Menschen vòn seiner Individualität ; diese ist das Lezte , das wirklich Absolute.
+
+Die neuere Philosophie von Kant an fnüpft den
+
+Uebergang in die Idee des Abſoluten an das Wiſſen und Wollen , also an die Freiheit des Menschen an.
+
+Das reale
+
+Wiſſen und Wollen ist es , durch welche der Mensch nicht bloß über seine Individualität , sondern auch über seine Gattung , insofern diese als eine besondere gefaßt und einem Andern gegenübergestellt wird , entschieden hinausgeht.
+
+Die speculative Philosophie gebraucht daher , um diese dem Menschen selbst immanente wesentliche Unbedingtheit zu bezeichnen , nicht mehr den Ausdruck Mensch , so weit sie auch davon entfernt ist , dieselbe als ein besonderes Wesen dem Menschen gegenüberzustellen.
+
+Sobald ich aber diese Un bedingtheit nicht als unendliche Vermittelung mit sich faffe, nicht als sich selbst feßende Allgemeinheit , nicht als concrete, * ) Wesen des Christenth. S. 343.
+
+[p. 166] das Besondere durchdringende und überwindende Jdealität , sondern als ein Moment , als eine Vorstellung des Individuums, so leugne ich dieselbe , d. h. ich leugne das Wissen und Wollen, und betrachte den Menſchen nur als empfindendes, durch besondere Triebe beſtimmtes Individuum.
+
+Die Einheit des Menschen mit sich, welche ich dadurch gewonnen , ist eine unmittelbare , natürliche , individuelle Einheit, ohne wesentlichen , eine Einheit ohne specifisch menschlichen Unterschied ;
+
+und wenn ich damit die schwierige Frage : wie ſich die wesentliche Allgemeinheit des Menschen zu seiner Individualität ver halte, glücklich bei Seite geworfen , so habe ich dies doch nur erkauft durch den offenbaren Widerspruch , in dem Momente, wo ich das Wissen principiell leugne , die individuelle Einheit doch zu wissen , ja dieselbe sogar dem wesentlichen Unterſchiede des Menschen in ſich gegenüber als Princip zu setzen. Auch in den Grundsäßen der Philosophie der Zukunft stellt Feuerbach die Auflöſung der Philoſophie in die Anthropologie zunächst so dar , als wenn es nur darauf ankäme , die von der absoluten Idee prädicirte Unbedingtheit in den Menschen zu verlegen , nicht aber - dem Menschen dieſe Unbedingtheit abzusprechen. * ) . Zuerst scheut sich Feuerbach nicht , die Polemik gegen Hegel sich dadurch ſehr leicht zu machen , daß er ihm die Ansicht unterſchiebt , die logischen Kategorien als solche seien das absolut Wirkliche.
+
+Weiter ſoll nun aber die Hegelsche
+
+Philosophie das Denken , als das ſubjective Wesen , aber gedacht ohne Subject , also als ein von demselben unter schiedenes Wesen vorgestellt , zum göttlichen absoluten Wesen gemacht haben ; ganz ebenso wie der Glaube und die Theologie soll also die absolute Philosophie dem Menschen sein eigenes Wesen entfremden , eben dadurch , daß sie die logischen Gedanken nicht als Gedanken von uns faßt , sondern als ob= > jective , an und für sich seiende , absolute Formen. Verlegen *) f. vorher S. 14 ff.
+
+[p. 167] wir also die logischen Formen in uns ; sie sind Gedanken , Producte des menschlichen , denkenden Wesens.
+
+Hiermit ist der Hegelschen Philosophie entschieden nichts Neues gesagt ; denn es fällt ihr nicht ein , die logiſchen Kategorien — analog der religiösen Illuſion - als besondere , fürsichseiende Wesen zu betrachten ; sie weiß sehr wohl , daß sie als logiſche, in dieser Abstraction nur im ſubjectiven Denken eriſtiren .
+
+diese Auflösung der Theologie in die Anthropologie wird also die Hegelsche Philosophie gar nicht berührt . ― Oder sollen die logischen Formen in dem Sinne nur Produkte des menschlichen Denkens sein , daß sie das objective Sein gar nicht ausdrücken , gar nicht Momente der objectiven Wirklich keit sind ? Sollen wir also die Kategorien faffen wie die Kan tiſche Philoſophie , und ihnen das Ding an ſich als schlechthin unerkennbares Wesen gegenüberstellen ? -Darüber erfahren wir zunächst nichts Bestimmtes .
+
+Vielmehr nimmt die ganze
+
+Untersuchung eine andere Wendung.
+
+Es wird der Idee das
+
+Sinnliche als das wahrhaft Wirkliche gegenübergestellt , und zwar ausdrücklich angeknüpft an die Hegelsche Auffaſſung der Idee.
+
+Die Idee , der concrete Begriff muß sich realis firen, weil er als logiſcher nicht wirklich als concret gesezt ist.
+
+Dieser Gedanke hat nur Sinn , wenn die logischen Kategorien als die allgemeine Baſis , als das allgemeine Weſen des Wirklichen gefaßt werden. -
+
+Dann aber wird das Sinn liche als Subject seiner selbst der logischen Idee schlechthin entgegengesetzt , so daß dadurch die logischen Kategorien als leere, bedeutungslose Formen , als sinnlose menschliche Ge danken , als bloße Phantasien erscheinen , der Ausgang der Betrachtung also , durch welchen der Uebergang in das Sinn liche als dialektisch nothwendig erwiesen werden sollte , alle Bedeutung verliert. — Darauf aber wird zu dem Sinnlichen das Ideelle , das Denken wieder hinzugenommen , und nun der neueren Philosophie der Vorwurf gemacht, daß sie die Ters Avladutuch
+
+[p. 168] Theologie nur unvollständig in die Anthropologie auflöſe, indem fte nämlich die Göttlichkeit nur von der menschlichen Vernunft, aber nicht von der Empfindung , der Sinnlichkeit prädicire. Hieran ist nur so viel richtig , daß allerdings die neuere Philo. sophie der Sinnlichkeit nicht ein gleiches Recht neben dem Geistigen zugesteht , vielmehr das Wesen des Menſchen nicht als Abſtraction von dem Sinnlichen dder als Verflüch tigung des Sinnlichen in den logiſchen Gedanken , ſondern -- als sittliche Vergeistigung des Sinnlichen faßt. Nach Feuerbach soll aber das Fleisch eben so sehr Princip sein, als der Geist , oder vielmehr der Mensch soll Princip ſein, welcher Geist und auch Fleisch ist.
+
+Die Auflösung der Theologie in diesen Menschen ist die Auflösung des freien , ſich selbst begreifenden Geistes in das ſich empfindende Individuum welches unbegreiflicher Weise auch denkt , aber keine Gedanken hat, welche das Wesen des Sinnlichen ausdrücken. — Die äußere , unvermittelte , principlose Verbindung der entgegengeseßten Thätigkeiten im Menschen ist die fundamentale Einseitigkeit in Feuerbachs Anschauung.
+
+So wenig es von dieser Anschauung aus möglich ist , in das Wesen der historisch gegebenen Erscheinungen in objectiver Weise einzudringen , eben so wenig ist sie der reale Anfang , die Energie einer weiteren geistigen Entwickelung.
+
+Der Egoismus und die
+
+Sophistik -die principielle Entsittlichung des Geistes sind die unabweisbaren Consequenzen , welche den Feuer bachschen Principien auf der Ferse nachfolgen , und welche in Feuerbachs eigenen Reflexionen nach den verschiedensten Seiten hin sich hervordrängen. Sinnstörende Druckfehler. E.25 3.16 v. o. ft. Stoffe l. Stoße. .50 3. 12 v. u. ft. Stoffes l. Stoßes. S.134 3.4 v. u. st. Wesen ? ,, Das 1. Wesen ? " Das.
+
+Bayerische Stuntsbibliothek
+
+MONCHEN
+
+Druck von I. G. F. Höhm.

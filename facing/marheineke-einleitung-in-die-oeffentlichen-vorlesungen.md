@@ -1,0 +1,1223 @@
+---
+title: Einleitung in die öffentlichen Vorlesungen über die Bedeutung der Hegelschen Philosophie in der christlichen Theologie
+author: Philipp Marheineke
+year: 1842
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: the 1842 edition; converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: the PDF text layer of a scan, not corrected against the scan; non-word rate 0.9% (wordfreq, the edition's own spellings kept); paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority
+translation: none
+canonical: "[p. N] marks where printed page N begins (the 1842 edition); read from the PDF folios where legible, the others by sequence"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: The Einleitung in die öffentlichen Vorlesungen über die Bedeutung der Hegelschen … was written by an author who died in 1846, so before 1931; Philipp Marheineke (d. 1846) is long out of protection and the edition (1842, from the title page of the scan) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 441)
+---
+
+# P. Marheineke, *Einleitung in die öffentlichen Vorlesungen über die Bedeutung der Hegelschen …* (1842)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+## Einleitung
+
+in die öffentlichen Vorlesungen über die Bedeutung der Hegelschen Philoſophie in der christlichen Theologie.
+
+Nebst einem Separatvotum über B. Bauers Kritik der evangeliſchen Geſchichte.
+
+Von
+
+Dr. Philipp
+
+CE THE UNIVERSTI
+
+Marheineke.
+
+Das Leichteste ist, was Gehalt und Gediegenheit hat, zu beurtheilen, schwerer, es zu faſſen, das schwerste, was Beides vereinigt, ſeine Darstellung hervorzubringen. Hegel.
+
+Berlin, 1842. Verlag von Th. Chr. Fr. Enslin.
+
+B2948 M4
+
+MM
+
+Vorrede.
+
+Nur ein Bruchstück aus den Vorlesungen, die ich eben begonnen, theile ich in den nachfolgenden Blättern mit; das Ganze derselben dem Druck zu übergeben, wie gewünſcht worden, habe ich mich, noch unvollendet ist, da Einzelnes darin nicht entschließen können.
+
+Um so mehr ging es an, vorläufig die Einleitung für ſich erscheinen zu laſſen, zumal sie zugleich wichtige Zeiter: ſcheinungen in allgemein verständlicher Weiſe beſpricht. Von bestimmten hartnäckigen Vorurtheilen sich selbst oder Andere zu befreien, ist schwer, wenn der Wille 1* [p. iv] und die Leidenschaft, der Vortheil und der Mangel an Einsicht damit im Bunde steht.
+
+Eine nicht so schwierige Aufgabe hat ein Lehrer in der Mitte noch unbefangener, für die Wahrheit offener und empfänglicher Gemüther, denen weder der gute Wille, auch auf das Schwierige einzugehen, noch auch die nöthige Bildung und Fähigkeit mangelt, unterscheiden.
+
+das Wahre vom Falschen zu
+
+Auf dem Standpunct der Wissenschaft verhält man sich so frei, daß da keinerlei Art von Zwang, selbst nicht einmal der einer glänzenden Dar: stellung oder Beredsamkeit zulässig, sondern der Blick rein allein auf die Sache selbst und die nur immer freier machende Wahrheit geheftet ist.
+
+Dieß war das
+
+Verhältniß, welchem diese Vorlesungen zunächst ange: hören und aus diesem Gesichtspunct ihrer ursprünglichen Bestimmung, muß ich bitten, ſie auch in dem weiteren Kreise, in den sie jezt übergehen, zu beur: theilen.
+
+Hinzugefügt worden sind nach dem Vortrage nur die Anmerkungen, welche der allgemeineren Beziehung angehören.
+
+Außerdem habe ich noch mein Separatvotum über Bruno Bauers Kritik der evangelischen Geschichte hinzugethan, sowohl, weil es manches noch mehr ins Licht sezt, was in der Einleitung nicht ausführlicher zu bez handeln war, als auch, weil nun durch das Verfah: ren des Staats gegen ihn die vielbesprochene Angele: genheit soweit beendigt ist.
+
+Wenn eine Bekanntmachung des Votums vor dieser Zeit nicht geseßlich ge: wesen wäre, so glaube ich mich jetzt der Vorschrift des theologischen Facultätsstatuts §. 31. ganz gemäß ver: halten zu haben, welcher zufolge jedes Mitglied der Facultät nur bis vor der Ausführung zur Verschwie genheit über alle ihre schriftlichen und mündlichen Verz handlungen verpflichtet ist.
+
+Zu zeigen, daß und aus welchen Gründen meine Ansicht von der der Facultät abgewichen und daß ich in meinem Votum nichts ge sagt habe, was ich nicht vor der ganzen Welt vertreten könnte, bin ich nicht mir, sondern meinem Amte schuldig, um so mehr, da in der öffentlichen Erklärung auf die Separatvota ausdrücklich Bezug genommen ist.
+
+Die Absicht, mein Votum drucken zu lassen, hatte ich überdieß bereits in diesem selbst der vorgesezten hohen Behörde angezeigt und ich glaube, daß die Bekanntmachung desselben dem Geist der Preußischen Regie: rung mehr entspricht, als die Geheimhaltung. Berlin, am 10. Mai 1842.
+
+## Einleitung
+
+in die
+
+Vorlesungen über die Bedeutung der Hegelſchen Philoſophie in der Theologie.
+
+YX
+
+Bevor wir uns an unsere Aufgabe begeben, wird es nöthig sein, einige Punkte von Wichtigkeit im Allgemeinen und nur in äußerlicher Weise oder einleitungsweise zu besprechen.
+
+Einleitung. Nicht zum erstenmal unternehme ich es jetzt, die Bedeutung der neuern Philosophie in der Theologie zum Gegenstand beſonderer Vorlesungen zu machen; zu wiederholtenmalen ist dieß, noch zuletzt im Jahr 1835 geschehen.
+
+Man tritt als Theolog heutiges Tages nicht aus seiner Sphäre, wenn man sich mit Philosophie des ſchäftigt. Da sich die Philoſophie in neuern Zeiten ſo tief in die Religion und Theologie eingelaſſen und große Bewegungen, Neuerungen, Erschütterungen in ihr her. vorgebracht hat, so ist ihr billig auch von Seiten der Theologie die nöthige Aufmerksamkeit zu schenken. Die Theologie ist jetzt nicht mehr, wie früher, ein abge gränztes, wohl umzäuntes Stück Land, auf welchem man sich ruhig niederlassen und das man in Frieden zu bebauen unternehmen konnte; sondern, wenn Alles streitig geworden, muß man sich auch, was man be sigen will, selbstthätig erobern. Man hatte früher nicht nur mit der natürlichen Trägheit noch zu kämpfen, welcher das Denken in der Theologie nicht sowohl eine Lust, als eine Laſt ist, sondern auch mit einem Grundsaß, welcher sich der Philosophie in der Theologie wi dersetzte und darauf ausging, Theologisches und Philosophisches äußerst genau unterscheiden, ja trennen zu wollen und hiemit der natürlichen Abneigung nicht ge ringen Vorschub that.
+
+Allein der berühmte und geist:
+
+reiche Urheber dieser Lehre widerlegte sich durch seine ganze, wenigstens dialectische Behandlung des christlichen Glaubens so sehr selbst, daß der Widerspruch zwischen Theorie und Praxis eben damit zum Vorschein kam. Schleiermacher hat das Verdienst, durch ſein zum Denken anregendes Denken in den tüchtigsten seiz ner Schüler auch das Bedürfniß des philosophischen Denkens erzeugt und sie zur Philoſophie hinübergeführt zu haben, und welche diesen Fortschritt nicht gemacht haben, die haben hinreichend dafür büßen müſſen. Seit dem ist wenigstens unter der Mehrzahl der Studirenden an dieser Univerſität das Vorurtheil gegen die Phi: losophie in der Theologie verschwunden; ſie wiſſen die Abmahnungen davon, die Warnungen davor gehörig zu würdigen; sie schließen mit Recht, daß die, von de nen solche Abmahnungen und Warnungen ausgehen, wohl ihre guten Gründe dazu haben können, da Empfinden und Erfahren, Wahrnehmen und Vorstellen wohl das Allgemeinere, aber das Denken nicht jedermannš Sache ist. Man kann überhaupt die Feindschaft gegen die oder eine Philosophie sehr wohlfeil haben;
+
+man braucht nur nichts von der Sache zu verstehen, so kann es sei gewiß nichts an der Sache.
+
+man schon sagen:
+
+Also nicht sowohl, um herrschenden Vorurtheilen unter unsern Studirenden entgegenzuwirken, als vielmehr ihnen den freien Genuß und die festere Begründung ihrer Ueberzeugung zu gewähren, könnten jetzt dieſe Vorz lesungen wieder aufgenommen worden sein.
+
+Allein es sind noch andere Veranlassungen vorhan: den, denen zufolge es an der Zeit scheinen konnte, sich mit diesem Gegenstande zu beschäftigen.
+
+Das philosophisch-theologische Interesse hat sich jetzt auf den verschiedensten Wegen fast über alle Stände der Gesell: schaft verbreitet, und auch in dieser Beziehung dürfen die, welche sich dem Dienst der Kirche widmen wollen, nicht zurückbleiben.
+
+Es ist allerdings etwas Großes, daß die Theologie nicht allein für die Kirche, ſondern auch für den Staat und das gesellige Leben das Interesse der Zeit hat.
+
+Geht diese Bewegung zum Theil von fieberhaften Regungen aus, so doch auch von der Philosophie. Es liegt darin die Tendenz auf den ſubſtanziellen Gehalt des Lebens, wie auch eine entschie: dene Gleichgültigkeit gegen überlieferte Formen der Theologie, welche sich als nuglos und unzureichend erwieſen haben, das tiefere Bedürfniß des Geistes zu bez friedigen.
+
+So stehen wir allerdings in der theologi:
+
+ſchen Wiſſenſchaft am Vorabend großer Ereigniſſe, ähnlich denen zur Zeit der Reformation, und es kommt besonders für die in den Dienst der Kirche hineinwachsende Jugend gar viel darauf an, dieſe ſo be: stimmten Erscheinungen der Zeit wohl zu verstehen und das Richtige und Falsche darin zu unterscheiden. handelt sich ganz besonders um Religion zur Vernunft.
+
+Es das Verhältniß der
+
+Man fühlt es billig als die größte Schmach und Unwürdigkeit, welche der Religion angethan werden kann, daß man auf ihren Standpunct sich nicht begeben könne, ohne dem der Vernunft - eine Verurtheilung Christi, worin noch zu entsagen [p. 12] jezt Herodes und Pilatus einig, ich meine, der Pie: tismus und Atheismus mit einander einverstanden ſind. Diese Degradation des Menschen ist erst der vollständige Obscurantismus.
+
+Nichts ist wohl des Menschen würdiger, als eine ernste, gedankenvolle Frömmigkeit. Aber nichts giebt es auch, was ihn in kurzer Zeit tie: fer herunterbringt, so sehr den Geist entnervt und alle ſittlichen Zustände verfälscht und verkehrt, als die falsche, verkehrte Frömmigkeit. In diesen bequemen, faltenreiz chen Mantel kann jede Geistesſchwäche und noch viel Andres sich hüllen. Die Meisten kennen die Vernunft nur als die fleischliche, von Gott und seinem Wort nichts wissende, nichts verstehende. Andere, ob sie zwar der Vernunft in der Religion nicht hold sind, wollen wenigstens den Schein der Gegnerschaft vermeiden und haben daher den Grundsaß, das Vernünftigste sei, der Vernunft in der Religion nicht allzuviel einzuräumen. Da geht die Bestimmung ins Quantitative, ſtatt daß man im Qualitativen bleiben sollte; denn man kann nicht allzuvernünftig, nicht genug in der Wahrheit befestigt, gegen den Irrthum gesichert sein, auch in der Religion. Was nun in der Religion die Vernunft, das ist in der Theologie die Philosophie. In der Wiſſenſchaft hat man es mit der Religion nicht blos als dieser sub: jectiven Empfindung, sondern auch mit einem Inbe: griff von Lehren und Wahrheiten zu thun und dieſe wollen erkannt, bewieſen d. h. begriffen ſein, was ohne Philosophie unmöglich ist *) . *) Es kann interessant erscheinen, in dieser Beziehung jetzt an frühere Lehren Schellings zu erinnern, wie sie in den Vor: lesungen über die Methode des academischen Studiums, zweite Ausg. 1813, vorkommen, z. B. „Das Wesentliche im Studium der Theologie ist die Verbindung der speculativen und historischen
+
+[p. 13] Endlich was bewegen konnte, sich mit diesem Gegenstande aufs neue zu beschäftigen, ist dieß:
+
+Es ha
+
+Construction des Christenthums und seiner vornehmsten Lehren.“ S. 207. „Eine solche Construction ist schon an ſich ſelbſt nur der höheren Erkenntnißart möglich, welche sich über die empirische Verkettung der Dinge erhebt, sie ist also nicht ohne Philosophie, welche das wahre Organ der Theologie als Wissenschaft ist, worin die höchſten Ideen von dem göttlichen Wesen, der Na: tur als dem Werkzeug und der Geschichte als der Offenbarung Wie der Dogmatismus in Gottes objectiv werden. " S. 196. der Philosophie ist der gleiche in der Theologie ein Versehen des sen, was nur absolut erkannt werden kann, auf den empirischen Gesichtspunct des Verstandes. " S. 197. " Von der Idee der Dreieinigkeit ist es klar, daß sie, nicht speculativ aufgefaßt, über: haupt ohne Sinn ist. Die Menschwerdung Gottes deuten die Theologen eben so empirisch, nämlich daß Gott in einem des stimmten Moment der Zeit menschliche Natur angenommen habe, wobei schlechterdings nichts zu denken sein kann u. f. f.“ S. 192. „Der Glaube an die Göttlichkeit des Christenthums wurde auf empirisch-hiſtoriſche Argumente gebaut, das Wunder der Offenba: rung in einem sehr handgreiflichen Zirkel durch andere Wunder bewiesen." S. 202. „Die ſåmmtlichen Lehren dieser Wiſſenſchaft ſind empirisch verstanden und als solche sowohl behauptet, als be: stritten worden. Auf diesem Boden aber sind sie überall nicht einheimisch und verlieren durchaus allen Sinn und alle Bedeutung." . 189. „Was an dem Studium der Theologie wirklich blos Cache der Empirie ist, wie die kritische und philologische Behandlung der ersten christlichen Bücher, ist von dem Studium der Wissenschaft an und für sich ganz abzusondern. " S. 205. „Die christlichen Religionslehrer können keine ihrer historischen Behauptungen rechtfertigen, ohne zuvor die höhere Ansicht der Geschichte selbst, welche durch die Philosophie, wie durch das Christenthum vorgeschrieben ist, zu der ihrigen gemacht zu haben.“ S. 189. -- Frei und ohne Besorgniß, von der krankhaften Religiosität verkeßert zu werden, konnte Schelling ferner damals sagen: Man sollte denken, die christlichen Religionslehrer müßten es den ſpåteren Zeiten Dank wiſſen, daß sie aus dem dürftigen [p. 14] den sich in unsern Tagen von den verschiedensten Sei: ten her neue Vorurtheile gegen die Philosophie her: vorgethan, welche in bestimmter Bezeichnung die Hegelsche heißt, und mit diesen Vorurtheilen hat jezt je: der zu kämpfen, der die Wahrheit in ihr erkannt hat was nicht soviel heißt, als daß sie selbst in aller und jeder Beziehung nur Wahrheiten enthalte oder gar, daß man auf ihre Worte zu schwören habe, sondern, daß sie nicht ohne die weſentlichsten Prinzipien der Wahr: heit sei und in der erweisbaren Uebereinstimmung mit dem Christenthum ſtehe. Man hat der Hegelschen Philosophie nicht nur wesentliche philosophische Mängel und Irrthümer, sondern auch arge Keßereien in Bezug auf Staat und Kirche vorgeworfen. *)
+
+Man hat ihr alle
+
+Extravaganzen einer jüngeren Generation zur Laſt ge: legt, welche wohl bekennt, von ihr ausgegangen zu ſein, aber auch, sich von ihr getrennt zu haben. Dieß lettere Moment wird aber nicht in Anschlag gebracht. Kurz diese Philosophie befindet sich für den Augen-
+
+Inhalt der ersten Religionsbücher so viel speculativen Stoff ge zogen und diesen zu einem System ausgebildet haben." . 198. „Man kann sich indessen nicht des Gedankens erwehren, welch ein Hinderniß der Vollendung die sogenannten biblischen Bücher für das Christenthum gewesen sind, die an åcht religiöſem Inhalt keine Vergleichung mit so vielen andern der früheren und späte: ren Zeit, vornehmlich den indischen, auch nur von ferne aushalten." . 199. *) Schelling sagt a. a. D.:„Was mag das für ein Staat und was mag das für eine Religion sein, denen die Philoſophie gefährlich sein kann. Wäre dieß wirklich der Fall, ſo müßte die Schuld an der vorgeblichen Religion und dem angeblichen Staat liegen. Die Philosophie folgt nur ihren inneren Gründen und kann sich wenig bekümmern, ob alles, was von Menschen gemacht iſt, damit übereinstimmt.“ S. 103. vergl. 107.
+
+[p. 15] blick im Stande der tiefsten Erniedrigung — nicht, als ob sie von irgend Jemanden stark und gründlich widerlegt worden wäre, sondern weil keiner schwach und ungründlich genug ist, um nicht einige Schmachworte Es ist nun schon die Sache über sie auszusprechen.
+
+der Gerechtigkeit in den sittlichen Verhältnissen des Lebens, sich der Unterdrückten anzunehmen, und die Philosophie, die frei nur auf sich selbst steht, darf um so mehr diese Gerechtigkeit fodern, daß man sie nicht unverhört verdamme. Wollen wir daher, wie es unsere Aufgabe ist, die Macht und Bedeutung dieser Philosophie in der christlichen Theologie erkennen, so muß wenigstens in der Einleitung zuvor ihr allgemeines
+
+Verhältniß zur Welt berührt und der gleich schwere Stand, den sie zwischen ihren Feinden und Freunden hat, in Betracht gezogen werden;
+
+es iſt nothwendig, zu wissen, wie sie mit beiden daran ist und wie ſie sich zu beiden verhält.
+
+Was denn zunächſt die eine Seite betrifft, die, von der man sich feindlich gegen die Hegelsche Philosophie verhält, so ist hier nicht von denen zu reden, die alle Philosophie und vollends in der Theologie hassen, son: dern nur von solchen, die nur von einer Philosophie wiſſen wollen, durch welche die Hegelsche Philosophie aufs beste widerlegt würde und in der man den nö: thigen Schuß und die stärksten Waffen gegen dieselbe finden könnte. Gewiß, wer dieß Arcanum oder Antidotum entdecken könnte, würde jezt enormes Glück machen und sich aufs erfolgreichste insinuiren, die die Glücklichen sind, da schon welche es nur versprechen, ohne es doch zu leisten. An und für sich ist dieß für einen erfreulichen Zustand zu halten.
+
+Er zeigt aufs [p. 16] deutlichste, daß die Philosophie überhaupt das Intereſſe der Zeit hat; man fühlt es, daß in ihr und ebenso nur in einer Theologie, die nicht ohne Philosophie ist, die höchsten Aufgaben der Welt und des Geistes zur Sprache kommen und alle Widersprüche, die das in:
+
+nerste Leben des Geistes entzweien, gelös't, alle Streitigkeiten ausgefochten werden müſſen. So hat sich ein Krieg entzündet, den man mit Lessings Worten ei nen prächtigen“ Krieg nennen kann, ein Krieg um die edelsten Güter heit.
+
+des Geistes, um Wahrheit und Frei-
+
+Aber Alles kommt da zunächſt auf die Art und Weise der Kriegführung an. Wir wollen jetzt die Mittel und Wege angeben, wie die Hegelsche Philosophie am besten widerlegt werden kann, Mittel und Wege, welche jedoch zugleich Bedingungen sind, unter denen es allein geschehen kann. Was nun in dieser Beziehung gewünscht werden muß, ist vor Allem, daß die Ruhe und Klarheit des Geistes ungetrübt bleibe und die Verhandlung nicht auf den Tummelplaß der Leidenschaft komme. Wenn man bei versuchten Widerlegungen der Hegelschen Philosophie irgend noch bemerken dürfte, daß die Säure des Unmuthes, der Bitterkeit, Grämlichkeit, des Neides und der Eifersucht im Hintergrund läge, so würde allerdings nichts Kluges dabei herauskommen.
+
+Die wahre Freiheit, zu der die Philosophie zu führen hat, besteht vor Allem darin, daß man in sich selbst von sich selbst frei und so das Denken das wahrhaft des freite werde. Das Ringen nach einer wahrhaft objec: tiven, mit der Abstraction vom Subject verknüpften Erkenntniß ist im innersten Geist der Hegelschen Philosophie gegründet. In Bezug auf sich, in Bezug auf Andere hat Hegel ſich ſtets demüthig verhalten, ges [p. 17] wußt, wie wenig der einzelne Mensch ist dem großen Gegenstande gegenüber * ) .
+
+Hegel ist nie der Miles gloriosus gewesen, hat ſich nie in großen Verheißungen erschöpft, sondern die That für sich reden laſſen. Weder auch muß man die Arbeit der Widerlegung Hegels sich dadurch erleichtern, daß man sich nur mit einzelnen Schwächen des Gegners zu thun macht, sondern man muß, nach Hegels eigenem Ausdruck, ſich in den Umkreis seiner Stärke stellen; dazu aber ist erforderlich ein durchaus leidenschaftloſes Eingehen in ſeinen Standpunkt, auf welchem z. B. die Idee nicht ein so Schwaches und Ohnmächtiges ist, daß sie nur ein Seynkönnen, die Kantische Möglichkeit wäre und nicht vielmehr alle wahrhaftige Wirklichkeit an ihr selbst hätte. Noch auch kann die Widerlegung so negativ sich verhalten und gelingen, daß dem Hegelschen System sich nur ein anderes, völlig heterogenes, gegenüberstellte. Mit Gnosis, mit Theosophie, die im Element der Phantasie versirt und sich nicht von allem Affect und Pathos frei erhält, die Speculation, die den Begriff zu ihrer Seele hat, zu widerlegen, wie es schon Franz v. Baader versucht hat, ist im gegenwärtigen Stadium der Geschichte der Philosophie völlig unmöglich; davon bleibt die Hegelsche Philosophie völlig unberührt, dabei behält sie ihren vollen Werth; dieser Standpunct liegt ihr längst im Rücken; das Phantastische ist und bleibt ein Aſſertoriſches, Unſpeculatives, thodisches ** ) .
+
+Unme-
+
+Nicht genug auch ist, zuzugeben, daß
+
+*) „Man muß sich erheben über seine eigene Eitelkeit, als ob man etwas Besonderes gedacht habe. " Gesch. d. Philos. III. S. 691. **) Von viel umfassender Beziehung ist deshalb, was He: gel schon in der Vorrede zur zweiten Ausg. seiner Encyclopädie,
+
+[p. 18] Hegel in der Dialectik Meister ist; es muß die Widerlegung sich auch gegen diesen Mittelpunct des Systems richten, der die absolute Methode ist; wer sie noch unangefochten und unwiderlegt läßt, ignorirt ſie entweder nur beliebig oder ist im Prinzip der Hegel: schen Philosophie zugethan. Zum andern ist wohl mit Recht zu fodern, daß man, wie groß die Feindschaft gegen diese Philosophie sei, doch das Factum des Gedankens derselben nicht entſtelle, wie es ja der Welt in zwanzig gedruckten
+
+Bänden vorliegt. So billig diese Forderung scheint, ſo ist doch in dieser Hinsicht besonders himmelſchreiendes freilich damals zunächst nur gegen F. v. Baader und einen Nach: ahmer desselben, wahrscheinlich Daumer, schrieb: "/ An reineren und trüberen Geſtaltungen der Wahrheit haben wir, kann man sagen, genug und zum Ueberfluß in den Religionen und Mythologien, in gnostischen und mysticirenden Philosophen ålte: rer und neuerer Zeit; man kann seine Freude daran haben, die Entdeckung der Idee in diesen Gestaltungen zu machen und die Befriedigung daraus zu gewinnen, daß die philosophische Wahr: heit nicht etwas nur Einsames, sondern darin die Wirksamkeit der selben wenigstens als Gährung vorhanden gewesen. Wenn aber der Dünkel der Unreife, wie dieß bei einem Nachahmer des Herrn v. B. der Fall war, an das Aufwärmen solcher Productionen der Gährung geråth, so erhebt er sich leicht in seiner Trägheit und Unfähigkeit wiſſenſchaftlichen Denkens ſolche Gnoſis zur ausschließ: lichen Weise des Erkennens; denn es ist müheloser, in solchen * Gebilden sich zu ergehen und an sie assertorische Philosopheme anzuknüpfen, als die Entwickelung des Begriffs zu übernehmen und sein Denken, wie sein Gemüth, der logischen Nothwendigkeit desselben zu unterwerfen. Auch liegt dem Dünkel nahe, ſich als Entdeckung zuzuschreiben, was er von Andern erlernt hat und er glaubt dieß um so leichter, wenn er sie bekämpft oder herab: seht; oder ist vielmehr darum gereizt gegen sie, weil er seine Einsicht aus ihnen geschöpft hat."
+
+[p. 19] Unrecht der Hegelschen Philosophie angethan worden. Zur Entschuldigung dieser Gegner ist zu sagen, daß dieß theils in der Natur der Sache eine leichte Veranlaſſung hat und daß keine Philosophie von großem Character gewesen ist, der dieß nicht begegnet wäre. In der ersteren Hinsicht bringt es die Allgemeinheit abſtracter Gedanken so mit sich, daß sie stets noch auf die zu warten hat, welche den Geist darin nicht ohne Geist auffassen, welche die unbestimmten Worte auch ihrerseits begeisten und auslegen und ihnen aus dem Ganzen und Concreten erst die richtige Deutung ge den.
+
+Da findet denn nicht nur alles Nichtverstehen:
+
+können, sondern auch alles Nichtverstehenwollen sein Unterkommen. Da kann man leicht einzelne Formeln und Kategorien herausnehmen und sie nach allen Seiten herumpräsentiren und fragen: ob das nicht Unſinn ſei, dem man keinen vernünftigen Sinn geben oder beilegen könne noch viel Schlimmeres,
+
+Aergeres, Gottlosigkeit und alles Mögliche? *)
+
+Daß der Urheber solcher Säße das nicht selbst bemerkt ha-
+
+*) Es dürfen beispielsweise nur die zwei Hegelschen Såße angeführt werden: 1) daß Seyn und Nichts dasselbige sei und 2) daß alles, was vernünftig ist, auch wirklich und was wirklich, vernünftig sei - Säße, welche überall in ungebildeten Cirkeln cirkuliren, um sich daran theils zu amúſiren, theils zu ſkandaliſi: ren; da doch ein Jeder, was den ersten Saß betrifft, ſich leicht darin zurechtfinden könnte, wenn er bedächte, daß er, wenn er vom Seyn alles und jedes Denken wegläßt und so vom Seyn Nichts aussagt, es hiedurch selbst für Nichts erklärt. Was aber das Andere betrifft, so darf er nur nicht wissen, was Vernünftigkeit und Wirklichkeit ist, jene mit der platten Verständigkeit, diese mit der trivialen Erscheinung verwechseln, so ist er hiedurch schon hinreichend in den Stand gesetzt, den obigen, an und für sich tiefsinnig wahren Sah, vollkommen lächerlich zu finden. 2* [p. 20] den, nicht selbst davor zurückgeschaudert seyn sollte, ist kaum glaublich, da selbst solche es bemerkt haben wollen, die sich sonst aus Bescheidenheit mit ihm nicht vergleichen wollen; heutiges Tages aber zu solchen Bemerkungen ist keiner zu schwach; man hat die be kannten Scenen des Kampfes eines Zwerges mit dem Riesen und des noch bekannteren Ritters mit den Windmühlen sich vielfältig erneuern gesehen.
+
+Selbst Theologen, welche sonst gute Historiker sind und nicht ohne Kritik zu Werk gehen, haben sich doch gar oft gegen das Factum des Gedankens der Hegelschen Philoſo: phie vollkommen blind gezeigt;
+
+daß diese Philosophie mit dem Christenthum unvereinbar sei, ist ihnen vom Hörensagen her eine ausgemachte Sache; solchen Leichtſinn des Urtheils haben sie mit ihrem Christenthum nicht für unvereinbar gehalten.
+
+In der That vertheiz digen sie oft selbst, was sie nur als Hegelsche Philosophie verwerfen. an Man hat ſelbſt die äußersten, nur entgegengesetzten
+
+Seiten vertheilten
+
+Widers sprüche zu vernehmen Gelegenheit gehabt. Hegel ist ein Pantheist und ein Offenbarungsgläubiger; er ist ein Christ und ein Atheiſt; er ist ein Serviler und auch das Gegentheil.
+
+Daß dieß das unumgängliche
+
+Schicksal ist, welches mit dem Standpunct der Spez culation verbunden ist, dessen Bestimmung nicht nur ist, Widersprüche aufzuheben, sondern auch, um sie aufheben zu können, sie erst zu sehen, muß allen, die von solcher Aufgabe keine Ahnung haben und selber ohne alle Dialectik sind, nothwendig verborgen bleiben. Man hat aber auch alle Misverständnisse und Misbräuche, die sich irgend von einer Philosophie machen lassen, der Hegelschen selbst, als ihrer nothwendigen Quelle, aufgerechnet. Dieß geht so weit, daß, wenn einer nur [p. 21] ein Wort von Hegel oder einen ſeiner Kunstausdrücke gebraucht, es sei in welchem Buch oder Zusammenhang es wolle, es wird sofort die Hegelsche Philosophie das für verantwortlich gemacht und dient dazu „die Stellung der Hegelschen Philosophie zum Christenthum zu characterisiren". Oder daß es jezt so viele vormalige Anhänger dieser Philosophie giebt, welche sich gleich: sehr zu ihr, als zum Christenthum in Opposition ge ſtellt haben, es wird ihr ſchon als Schuld angerechnet, daß sie solche Jünger gehabt hat; sie hat dieß Unheil gestiftet;
+
+ohne sie würde es nicht entstanden seyn. Nicht ohne Grund kann man daher vermuthen, es scheuen sich so viele, ein Buch von Hegel zur Hand zu nehmen, weil sie besorgen dürfen, ſofort ſei: nen Anhängern zugezählt zu werden. Es läßt sich auch ohne das viel sicherer über den Werth der Hegelschen Philosophie urtheilen; man erlangt doch so wenigstens den Vortheil, in allen falschen Vorstellungen davon beharren zu können.
+
+Wie dem auch sei, von jeder
+
+Verläumdung bleibt nach dem alten lateiniſchen Sprichwort etwas hängen und in dieser Weise ist der Philosophie Hegels unverantwortlich viel angehängt worden, wogegen der edle Mann sich zu unserm gerechten Bedauern nicht mehr vertheidigen kann, obgleich er noch bei seinen Lebzeiten vielfältig, wie er mit Friedrichs d. Gr. Wort einst sagte, ſich mit ſolchem Volk herumschlagen -Aber auch, was das Andere oben berührte mußte. betrifft, ist zu fragen: welche Philosophie von Bedeutung diesem Schicksal entgangen wäre. Was wäre es, wenn man alle Ausschweifungen und Rasereien, die sich vor 40 Jahren an die Naturphilosophie anknüpften, ihr aufbürden, ihr die Phantasien und Schwärmereien eines Röschlaub, Oken, Schelver u. a. Schuld [p. 22] geben wollte? Dergleichen graſſirte dazumal so lange, bis der Urheber der Naturphilosophie selbst sich end; lich aufmachte und sich davon lossagte.
+
+Es wäre gewiß sehr ungerecht und unedel, hier das Wort Chriſti anzuwenden: an ihren Früchten sollt ihr sie erkennen. Mit den Früchten auf dem Boden des Geistes ver hält es sich anders, als mit den Früchten des Feldes. Jene, weil sie zugleich auf dem Boden der Freiheit wachsen, bleiben nicht immer identisch mit ihrem Keim und Prinzip, wie diese es müssen. *)
+
+Auf das, was an Früchten in denen erschienen ist, welche von der Hegelschen
+
+Philosophie abgefallen und ihre
+
+Gegner geworden sind, kommt es nicht an, sondern was ſie an Früchten getragen hat in denen, die ihr treu ge blieben, und ihren Geist rein und unverfälscht in ſich aufgenommen haben - in den zahlreichen Jünglingen z. B. , welche vornehmlich durch diese Philosophie zu einer vernünftigen Erkenntniß des Christenthums geführt worden sind, nachdem sie zuvor vom Rationalismus zum Supernaturalismus oder von dieſem zu jenem übergegangen und so vom Regen in die Traufe gekommen waren. — Ist es nun schon bedenklich genug, daß ſo viele sich nicht die Mühe geben, das, wie billig, erst gehörig kennen zu lernen und zu untersuchen in seinem Prin
+
+*) Wenn man damals håtte behaupten wollen: „daß eine Philosophie, die zu solchen Reſultaten gelangt ſei, auch in ihren Prinzipien nicht richtig seyn könne, " Schellings erste Vorle: welche Schlüsse hätten sich daraus sung in Berlin, S. 12. gegen die damalige Schellingsche Philosophie ziehen lassen, zumal der Urheber selbst seine Lehre als eine zeither noch unreife Philo: sophie, in den Prinzipien jetzt, wie man sagt, zu verbessern für nöthig befunden.
+
+[p. 23] zip und Zusammenhang, was sie so unbillig und wegs werfend behandeln, sondern sich meist nur mit Einzelheiten und noch dazu aus der dritten Hand begnügen, aber darauf dennoch ihr so bestimmtes Urtheilen und resp. Verfahren gründen *), ſo ist es doch noch das allerbedenklichste, wenn man im Gefühl der eigenen Ohn: macht die Staatsmacht aufruft, daß sie einer mächtig gewordenen Philosophie steuern möge. Auch dieses ist, wie bekannt, wiewohl nicht eben zur Ehre der deutschen Literatur, geschehen. Dem Staat legen wir Weis heit bei und das ist das rechte Prädicat für ihn (ein unweiser Staat ist an und für sich ein Widerspruch) ; aber die Liebe zur Weisheit, welches die Philosophie ist, ist nicht das Prädicat des Staats (er ist darüber hinaus, nur die Liebe zur Weisheit zu haben) .
+
+Wie denn auch, was Friedrich der Große als Dichter,
+
+Historiker, Philoſoph war, nicht ihn als König betraf, so wenig, wie das, daß er auch die Kunst übte und die Flöte blies.
+
+Das Große und Bewunderungswürdige war nur, daß er neben seinem großen Beruf zu dem allen die Lust und Zeit in ſich fand und so als König zugleich ein Mann des Volks war. Man hat dem preußischen Staat den Vorwurf gemacht, daß er die Hegelsche Philosophie absonderlich begünstigt und
+
+*) Wie auch der Wirtembergische Minister, Hr. v. Schlayer, wenig orientirt zu seyn scheint, wenn er in der Kammet die Redensart des Bischofs von Rottenburg: es sei das kirchliche Be: wußtseyn abhanden gekommen," für einen Hegelschen Ausdruck"erklärt, gleich als wäre die Hegelsche Philosophie die' allgemeine Rumpelkammer, die alle falschen Ausdrücke aufzunehmen håtte. " Einer modernen theologischen Schule “ gehört dieser Ausdruck allerdings an, aber nicht der Hegelschen Schule, sondern den Schleiermacherschen Anhängern.
+
+[p. 24] ihr jede andere nachgesetzt habe. mangelt aller Wahrheit.
+
+Dieser Vorwurf er Man ist von Seiten des Staats nur gerecht gewesen; man hat den freien Gedanken nur nicht geächtet, sondern geachtet und be: günstigt, wie es des preußischen Staats würdig war. Es giebt keine Staatsphilosophie und hat dergleichen auch nie bei uns gegeben, selbst damals nicht, als der Philosoph unter uns oder vielmehr über uns auf dem Throne saß. Die Philosophie geht vom Volk aus und ſie ist das Beste und Edelste, was es hat. Wohl beſſer und edler noch ist die Religion, sofern alle Glieder des Volks, auch die Philosophen, nicht seyn sollen ohne Religion. Aber zur Philosophie sind nicht alle berufen; sie geht von den Edelsten im Volk aus, welche die geistige Aristokratie in sich darstellen und die Geschichte der Staaten zeigt wohl genugsam, was aus der Religion geworden, wenn ihr nicht eine vernünftige Philosophie zur Seite ging. Sie ist das freie Erzeugniß des Geistes, ohne alle äußerliche, weltliche Mittel entstanden, ja ſelbſt in äußerlicher Beschränktheit ihrer Urheber unbeschränkt und unbeschränkbar, doch mächtig wirksam, je allgemeiner und weiterhin sie durch sich einerseits und durch die freie Liebe im Volk andererseits herrschend geworden.
+
+Was wollen nun die frommen Denuncianten? Sie wollen sich bei dem Staat Gehör verschaffen und ihn bewegen, sich mit einer so, d. h.
+
+auf dem Wege der höchsten geistigen Freiheit entstandenen und verbreiteten Philosophie, welche die edelste Blüthe des Volkes ist, in einen, wo nicht di: recten, doch indirecten Kampf einzulassen.
+
+Aber wäre das nicht ebensoviel, als ihn zu einem Angriff auf die freieste Freiheit des Volks bewegen wollen? Welch ein wesentlicher Vortheil könnte wohl für ihn daraus entspringen [p. 25] und wie sehr ungleich würden da die Mittel des Kampfes sein;
+
+denn, wie er mit ſeinen Mitteln eine Philosophie nicht hervorbringen kann, so kann er ſie damit auch weder erhalten, noch unterdrücken;
+
+er könnte zu diesem Zweck doch höchstens im Einzelnen nur und bei dem Einzelnen, nichts im Ganzen und Großen damit ausrichten.
+
+Gewiß, nicht die Vernunft des
+
+Volks, auch nicht die Weisheit des Staats, sondern nur die Thorheit des Pöbels kann darauf ausgehen, der Liebe zur Weisheit Gränzen setzen zu wollen.
+
+„Aber wie? wenn wir, die wir zur Verdrängung, Verfolgung rathen, eingesehen haben, daß eine bestimmte Philosophie schädlich, für die Religion, für den Staat verderblich sei?” Wohlan, so widerleget ſie ſcharf, kräftig, gründlich, befreiet die Welt vom Jrrthum durch die Wahrheit und derselben Erkenntniß in ihrer Tiefe, in ihrem ganzen Zusammenhange, zeiget, daß ihr die Helden seid, die auch etwas Beſſeres, Genügenderes, der allgemeinen Anerkennung Würdiges an die Stelle einer so verderblichen Philosophie zu sehen wissen; denn nur aus der wahren Philosophie heraus kann man die falsche widerlegen.
+
+Die Gerechtigkeit des Staats verlangt, Niemanden zu verurtheilen, als bis er überwiesen und vollständig widerlegt ist.
+
+Wie kann aber in Sachen der Wissenschaft überwiesen, widerlegt wer den anders, als auf dem Wege der Lehre und Wiſsenschaft? Ist es nun unter der Würde des Staats, der lehrende, beweisende zu sein, kann er nicht ſagen und vorschreiben wollen, was in der Wiſſenſchaft wahr sein soll, so kann er auch nicht so thun und verfahren, als hätte er es gesagt und mit Gründen bewies sen.
+
+Schon in der Wissenschaft selbst ist nichts verhaßter, als mit Machtsprüchen herauszufahren; ein Verfahren [p. 26] des Staats gegen irgend eine Philosophie, wie indirect es auch angelegt wäre, würde weit mehr noch jenen gehässigen Character tragen.
+
+Wenn daher der
+
+Papst von seinem Standpunct nicht mit Unrecht die Hermesianer verfolgt *), so werden protestantische Staaten ſich wohl hüten, dem traurigen Vorbilde in Bezug auf die Hegelianer nachzufolgen; wenigstens die proteſtantiſche Kirche, der die freie Forschung heilig und unentbehrlich ist, würden ſie damit nicht mehr auf ihrer Seite haben.
+
+Es ist genug, wenn sie für den nöthigen Streit und Widerspruch sorgen, als wodurch allein eine Philosophie von ihren Irrthümern gereinigt wer den kann.
+
+Wie in solchen ungehemmten Bewegungen sich das geistige Leben eines Volks in seinem höchsten Glanz und wahren Werthe zeigt, so die Weisheit des Staats darin, daß er, statt sie zu dämpfen, sie viel mehr veranlaßt, begünstigt und unterstüßt.
+
+Das war bisher die Ehre des preußischen Staats, von der wir wohl, in mehr als Einem Sinn, sagen können, daß auch seine Feinde ſie ihm werden laſſen müſſen.
+
+Ist nun diese Philosophie mit ihren entſchiedenen Feinden schon so schlimm daran, so doch noch schlim-
+
+*) In dem Encyclicum ex cathedra vom 15. Aug. 1832, Mariä Himmelfahrt, steht zu lesen, was alle römiſch - katholische Christen als reine Wahrheit anzusehen haben. Unter diesen Wahr: heiten, von denen der Papst ſagt, daß die heilige Jungfrau ſelbſt sie ihm eingegeben habe, befinden sich auch diese: „Wahnsinn (deliramentum) ist es, zu behaupten, jedem Menschen sei Ge wissensfreiheit zuzugestehen; nicht genug zu verabscheuen ist Preß freiheit; Sache eines Stolzen oder vielmehr Thoren ist es, die überschwenglichen Glaubensgeheimnisse erforschen und ergründen zu wollen."
+
+[p. 27] mer mit ihren sogenannten Freunden. Den Uebergang nach dieser Seite muß die Betrachtung machen durch eine allgemeine Reflexion. Es wird nämlich und gewöhnlich noch von den Gegnern dieser Philosophie nicht ohne heimliche Freude auf die Spaltungen unter ihren Bekennern hingewie ſen;
+
+es wird gesagt: da könne man sehen, was an ihr sei, da sie nicht einmal die Macht habe, die Leute, wie eine gute Armee, beisammen zu halten und zu res gieren;
+
+sie sei schon in sich selbst zerfallen in eine Menge von Factionen und Fractionen und dieser ihr Zerfall sei auch ihr Verfall und baldiger Untergang; man dürfe ſie nur ihrem eignen Schicksal überlaſſen; viele der Jünger lehnten sich bereits gegen den Meis ster auf und übernähmen die Widerlegung desselben, und obgleich sie noch ſagten, ſie ſeien von dieſer Schule ausgegangen, so sei der Ausgang doch zugleich die völlige Trennung von ihr.
+
+Schon Dav. Strauß hat nach politischer Analogie eine rechte und linke Seite unterſchieden; andere unterscheiden eine ältere und jüngere Schule; man sagt: nach dem Tode des Stifters sei eine wahre Anarchie eingerissen. Auch dieß, wenn es zunächst die Bedeutung hat, daß keinerlei Art pers sönlicher Autorität mehr auf die Ueberzeugungen ein wirkt und sie bestimmt, ist für eine Wohlthat, für ein wahres Glück im Reich des Geistes zu achten, gleich wie es auch sonst in unvergleichbar größerm Maaßstabe geschehen ist, daß erst nach dem Tode des Meiz sters die Freiheit der Welt proclamirt zu werden begann.
+
+In Bezug nun auf die Philosophie hat diese Freiheit sich als mannigfaltige Gestaltung des Prinzips, als Widerspruch der Gestaltungen mit ihm und untereinander und selbst als extreme Richtung und Trennung [p. 28] von dem Prinzip gezeigt.
+
+Das ist die obige
+
+Freude; wir müſſen ſehen, inwiefern ſie gegründet iſt und sollte es sich auch finden, daß dieser Troſt nicht besser ist, als der aller Unphilosophie, hergenommen von der Erfahrung, daß ja in der Geschichte eine Philosophie die andere widerlege, daher gewiß an aller nichts sein könne oder als der Trost der Buchstabentheologie, daß, so lange die philoſophiſchen Syſteme mit einander kämpfen, für sie nichts zu besorgen ſei. Wir müſſen vielmehr, wenn wir die Wahrheit bekennen wollen, gestehen, daß es keinen größeren Beweis giebt für die Tiefe und Energie, womit die Hegelsche Philosophie in das Bewußtsein der Zeit eingedrungen, als eben diese Spaltung in den Gegensatz. Der Schellingschen Philosophie ist dieß Glück nicht wiederfahren. Schon um was man der Mühe werth hält, lebhaft zu streiten und zu kämpfen, das muß von Werth, von großer Bedeutung sein, ja dem innersten Leben des Geistes angehören.
+
+Um eine empirische, selbst theoretische z. B. mathematiſche Wahrheit, etwa daß zwei:
+
+mal zwei vier sind, wird es jeder für überflüssig halten, Streit zu erregen oder ſich ſonderlich zu echauffiren; ebenso um mancherlei ephemere philosophische Erscheinungen, daß sie deren Urheber über Hegel hinausgegangen sind", weil je:
+
+der gleich fragt, ihn oder Beurtheiler sagen, ob auch schon erwiesen ist, erreicht haben;
+
+ohne daß sie dieses wird jenes wohl schwer zu bewerkstelligen sein. Die bis jezt über Hegel hinaus gegangen sind, werden also wohl nur um ihn herumgegangen sein * ) . Hingegen wenn ein gro-
+
+*) Sehr wahr sagt Chalybåus, kein Hegelianer: „Daß mit Hegel die Philosophie absolut vollendet sei - behålt nur den [p. 29] ßes und neues, gehaltvolles und weltgeschichtliches Prinz zip hervorkommt, wodurch eine alte Zeit sich abschließt, eine neue beginnt, so ist es die unendliche Energie ſeiz nes eigenen, inneren Thuns, daß es sich in ſich dirimirt, daß es die Negation aus sich herausarbeitet und sich selbst nur klarer und reiner mittelst seines Gegenſages anschaut.
+
+Erst indem es ſo ſich im Andersſein gegenüber hat, wird es seiner selbst gewiß und schlägt immer tiefere Wurzeln. Wer weiß nicht, daß das Christenthum kaum in der Welt war, als es schon als Johanneisches, Paulinisches, Petriniſches Christenthum ſich unterschied, daß dieser Unterschied ihm nichts geschadet hat, daß eben darin vielmehr sich die Tiefe seines Geistes verrieth.
+
+Näher noch haben wir die ähnliche Erfahrung an der Reformation.
+
+Als der Protestantismus sich erst in Lutherisches und Calvinisches Bekennt niß ſchied und der Kampf beider mit einander oft heftiger entbrannte, als der gemeinſame nach außen, war er unvertilgbar geworden, wiewohl die Scheidung und der Kampf nicht mehr nöthig ist, nachdem der Zweck erreicht und der protestantische Geist das allgemeine
+
+Bewußtsein der Welt geworden ist. Ist so die chriſtliche Kirche und der christliche Staat, nach Hegel selbst, die ungeheure Macht, alle Gegenfäße der Lehre und Sectirerei, alle Gegenstöße der Partheien und Meinungen ruhig in sich zu ertragen und auszuhalten, so ist wo nicht Gleiches, doch Aehnliches von der He-
+
+Sinn und die Bedeutung, daß Hegel weltgeschichtlich in der Philosophie sei, daß man nicht um sein System hinum und vor bei, sondern nur mit ihm und durch dasselbe weiter kommen könne; eine Ansicht, zu der nur Wenige heutzutage sich nicht bekennen. “ Die moderne Sophiſtik, Kiel 1842. S. 5.
+
+[p. 30] ' gelschen Philosophie zu sagen; ſie ist wenigstens an diesen inneren Spaltungen noch nicht zu Grunde gegangen; sie hat sich vielmehr, indem sie ihr nicht mehr angehöriges von sich ausgeschieden und sich gegenüber gesezt hat, nur noch tiefer in das Bewußtseyn der Zeit hineingearbeitet, welches ſelbſt die lebhafte Pole: mik gegen sie beweiset; es sind ihre Feinde, die wie zu ihrer Reinigung, so auch zu ihrer weiteren Verbreitung wesentlich beigetragen haben. also ist es um So ungründlich die obige Freude der Gegner dieſer
+
+Philosophie bestellt; wir müssen bedauern, sie ihnen durch das Gesagte verdorben zu haben. Was nun die Sache selbst betrifft, so ist es aller dings nicht zu leugnen, daß innerhalb dieſer philoſophischen Schule sich Differenzen hervorgethan haben, welche bis zum Extrem gehen und ebendamit auf ei nen Punct gerathen sind, wo die philosophische Gemeinschaft als erloschen anzusehen, die bloße Negation zur Opposition gegen die Hegelsche Philosophie gewor den ist.
+
+Diese Oppoſition ſpricht ſich theils nur als Streit gegen die sogenannte ältere Schule, als welche den Philosophen gänzlich misverstanden, theils als Polemik gegen ihn selbst aus.
+
+Der einfache Aufschluß über diese Erscheinung und derselben Möglichkeit iſt dieser.
+
+Die Hegelsche Philoſophie ist nicht eine Philosophie von beſonderem und bestimmtem Prinzip. Man kann daher nicht in Einem Wort oder Saß sagen, was Hegelsche Philosophie sei oder worin sie, wie man zu sagen pflegt, bestehe.
+
+Für ihr Prinzip kann man nur die Methode ansehen, deren Entdekkung das unsterbliche Verdienst Hegels ist, welches bis jetzt auch nur sehr unbedeutende Anfechtungen er:
+
+[p. 31] fahren hat * ). Hiemit hat Hegel in der That und Wahrheit geleistet und vollbracht, was Schelling im Bruno und in der Neuen Zeitschrift für speculative Physik geahnet hatte, wozu jedoch vor allem erforderlich war, daß Hegel die Philosophie von dem Schellingischen Construiren (welches nicht einmal für das mathematiſche, viel weniger für das philoſophiſche Wiſſen ausreicht), dem äußerlichen Schematiſiren und Paralleliſiren, wie auch von der intellectuellen Anschauung nebst dem ganzen Potenzen und Factoren-Zug befreite, welches alles mit der wahren Methode unvereinbar iſt.**)
+
+*) Ulrici, Ueber Prinzip und Methode der Hegelschen Phi: losophie. Ein Beitrag zur Kritik derselben. Halle 1841. ** ) „Allerdings ist der Geist mehr als die Natur, das Thier mehr als die Pflanze, allein man weiß noch sehr wenig von die: fen Gegenständen und ihrem Unterſchied, wenn man blos bei sol: chem Mehr oder Weniger stehen bleibt und nicht dazu fortschrei: tet, dieselben in ihrer eigenthümlichen, hier zunächst qualitativen Bestimmtheit aufzufassen.“ Hegels Logik. Werke VI. S. 200. — „Es ist in der Kindheit des Philosophirens, daß, wie von Py: thagoras, Zahlen und erste, zweite Potenz u. s. f. haben vor Zahlen nichts voraus zur Bezeichnung allgemeiner, wesentlicher Unterschiede gebraucht worden sind. Es war dieß eine Vor: stufe des reinen denkenden Erfassens; nach Pythagoras erst sind die Gedankenbestimmungen selbst erfunden d. i. für sich zum Bewußtseyn gebracht worden. Aber von solchen weg zu Zahlenbe ſtimmungen zurückzugehen, gehört einem ſich unvermögend fühlen: den Denken an, das nun, im Gegensatz gegen vorhandene philo: sophische Bildung, die an Gedankenbestimmungen gewöhnt ist, selbst das Lächerliche hinzufügt, jene Schwäche für etwas Neues, Vornehmes und für einen Fortschritt geltend machen zu wollen. Weun Zahlen, Potenzen, das mathematiſch: Unendliche und der: gleichen nicht als Symbole, sondern als Formen für philoſophi: ſche Bestimmungen und damit selbst als philosophische Formen sols len gebraucht werden, so müßte vor Allem ihre philosophische Be:
+
+[p. 32] Kraft dieser logischen, absoluten Methode, die nicht eine formelle Dialectik nur, ſondern überall nur in der Identität mit dem Inhalt ist und ſelbſt nur die Dialectik von diesem, ist die Hegelsche Philosophie System, welches ein Kreis ist, dessen Ende in den Anfang zurückgeht, nicht eine gerade Linie, welche sich in die • welche die Endlosigkeit ſchlechte Unendlichkeit verläuft,
+
+Die Unruhe der Bewegung, welche im Wissen ist, kommt durch die Rückkehr in den Anfang, in die Ein: fachheit des Gedankens, wahrhaft zur Ruhe.
+
+Die:
+
+ser Gedankengang enthält, so lange die Vermittelung in Bewegung ist, eine durch den Begriff gesetzte Reihe von Stufen und Standpuncten, über deren Mannigfaltigkeit sie sich bewegt, denen allen sie Gerechtigkeit wiederfahren läßt, doch so, daß sie auch den Mangel darin aufzeigt und sich so durch die Dialectik der Sache zum Resultat hinbewegt.
+
+Das eigentliche Wesen die
+
+ſer Philosophie, wenn man den Begriff derselben so nennen darf, ist die Erkenntniß der Totalität der Be stimmungen des Geistes, die Befreiung des Denkens von aller Einseitigkeit, welche in der Wiſſenſchaft der Wahrheit alle Unwahrheit ist.
+
+Nun muß man auch das noch zugeben, alle dieſe Standpuncte, in ihrer Differenz durch den Begriff gesezt, haben in der Hegelschen Philosophie ihre nothwendige Stelle;
+
+aber ist die nothwendige Stelle des einen und andern das Ganze deutung d. i. ihre Begriffsbestimmtheit aufgezeigt werden. Geschieht dieß, so sind sie selbst überflüssige Bezeichnungen; die Begriffsbestimmtheit bezeichnet sich selbst und ihre Bezeichnung ist allein die richtige und paſſende. Der Gebrauch jener Formen ist darum weiter nichts, als ein bequemes Mittel, es zu ersparen, die Begriffsbestimmungen zu fassen, anzugeben und zu rechtferti: gen. " Hegels Werke III. S. 394.
+
+[p. 33] und kann man ohne die größeste Ungerechtigkeit sagen, darum, weil in der Hegelschen Philoſophie auch davon die Rede ist und ſeyn muß, sei dieser Standpunkt der eigentlich oder specifisch Hegelsche?
+
+Diese Leichtsinnigkeit des Urtheils kommt täglich vor.
+
+In einem so universellen System muß freilich Vieles an seinem Ort ſeine nothwendige Stelle finden, was sich im weiteren Verlauf der Dialectik doch zuleht als Unwahres, Ungenügendes ausweiset.
+
+Es kann aber der Liebhaber gewisser Standpuncte nun auch auf den Einfall kom: men, im Interesse der Zeit, der Zu- und Abneigung und aus anderen heterogenen Motiven den einen Standpunct dem andern vorzuziehen und sich vorzugsweise auf den zu ſehen, ja auch ſich darauf zu beſchränken. Berufen kann er sich auch noch auf Hegel, ſofern in dessen Philosophie auch davon gehandelt wird; aber auch nicht berufen kann er sich darauf mit Recht, so: fern auch das noch zu sagen war, daß dieß noch ein einzelnes nur und untergeordnetes Moment im Gan: zen der Entwickelung war.
+
+Diese Reticenz ist der Anfang der Apostasie von der Hegelschen Philosophie gewesen bei allen denen, welche jetzt zu ihr in dem Verhältniß der Negation und Opposition stehen.
+
+Fer ner es kommen auch bei Hegel Urtheile in Menge vor; aber sie machen wohl auf Richtigkeit, doch nicht alle ebendamit auch auf Wahrheit Anspruch und haben als endliche, nach ihm selbst, die logiſche Bestimmung und Nothwendigkeit, sich aufzulösen; gleichwohl reißt man sie aus ihrer Bewegung heraus; man hält das Urtheil fest, fixirt es, als wäre es ein apodictisches, unwandelbares; man wartet die Vollständigkeit des Begriffs nicht ab.
+
+Ueber:
+
+haupt nichts, was man nur Urtheile, Grundsäße, Maximen nennt, kann man an und für sich mit der He [p. 34] gelschen Philosophie in solche innere, nothwendige Verbindung bringen, daß man das Große und Unvergleich)liche dieser Philosophie nicht anzuerkennen und zu ſchäßen vermöchte, ohne sich auch zu allen solchen einzelnen Säßen und Aussprüchen Hegels zu bekennen. Auf diesem Spiel beruhet z. B. die ganze Wirkung der Posaune " *) ; nur den Beweis, daß alle diese ein: zelnen, aus dem Zusammenhang gerissenen Säße und Sprüche in dem Hegelschen System eine so wesentliche, nothwendige Stelle haben, daß ohne sie es selbst nicht seyn oder bestehen könnte, ist der Verfaſſer, zu seinem Zweck künstlich und klüglich verfahrend, ſchuldig geblieben.
+
+Jede
+
+Philosophie enthält mancherlei, was ihr Prinzip nicht nothwendig mit ſich bringt, was man ihr als ein Subjectives und Eigenthümliches lasſen muß, was nur den Werth eines momentanen Einfalls hat, von denen Hegel gar manchen unterdrückt oder anders ausgedrückt haben würde, hätte er solchen Misbrauch davon vorhergesehen. Denn es ist aller dings viel leichter, einen glänzenden Gedanken oder wißigen Einfall zu haben, als ihn zu unterdrücken; es wird dieß aber doch jeder gern thun, wenn er sieht, daß er verlegen oder gemisbraucht werden kann. ** ) *) Die Posaune des jüngsten Gerichts über Hegel, den Atheiſten und Antichristen. Leipzig 1841. Vergl. die treffliche Beurtheilung dieser Schrift von Hinrichs in den Jahrb. f. wiss. Kritik. März 1842. S. 409 ff. ** ) Der Verein zur Herausgabe der Werke Hegels ist in die: ser Beziehung von Anfang an, und zu einer Zeit, wo der Geist des Mistrauens und der Verfolgung noch nicht erwacht war, mit der größesten Unbefangenheit zu Werk gegangen und wir theilen insofern gewissermaßen mit Hegel die Schuld, wenn es eine ist; zumal er sich nicht gedacht hat, daß alles flüchtig Gesprochene auch als ein Gedrucktes in die Welt ausgehen würde. Wir håt:
+
+[p. 35] Jedenfalls ist alles der Art ein solches, was nicht das durch allein wahr wird, weil es Hegel gesagt hat, und wozu sich zu bekennen auch Niemand gezwungen
+
+Einzelnheiten der Art für den Geist des Systems auszugeben, ist eben so sehr der Kunstgriff derer ge wesen, welche zu ihren particularen Zwecken die Hegelsche Philosophie im Widerspruch mit ihr benußt haben, als es die schlechte Wendung ihrer entſchiedenen Gegner war, um sie mit ihren Bekennern anzuklagen und zu verdächtigen.
+
+Wenn aber die Freiheit des Ge:
+
+dankens und der Ueberzeugung auch aus allen andern Regionen des Lebens vertrieben wäre, so würde ſie noch in der Philoſophie ſich erhalten, ja ſich dahin flüch: ten;
+
+denn das Denken ist nichts mehr, wenn es auf:
+
+hört, das freie und unabhängige zu seyn.
+
+Selbst die
+
+Ungebundenheit und Losgelassenheit so vieler vormali ger Schüler Hegels hat in dieser Hinsicht einen für die Hegelsche Philosophie selbst ehrenvollen Grund. Durch keine Philosophie ist man weniger gebunden, als durch diese; sie läßt und macht nur das Denken frei, es nur der logischen Nothwendigkeit unterwerfend.
+
+Aber noch ist kein Mittel erfunden, abſolut zu verhindern, daß die Freiheit in Willkühr umschlage oder sich auf den Standpunct der Willkühr zurückver: seze. So ist es in moralischer, so in intellectueller Beziehung.
+
+Wahrhaft frei ist der Mensch in der er ten es können anders machen nicht, als ob wir perfid und arbitrår håtten ausmerzen und hinzuthun können, ſondern ſofern es uns ein Leichtes gewesen wäre, ſtatt ſolcher nachmals anstößig erschienenen Stellen, andere aus Hegels anderen Vorträgen in andern Semestern zu wählen, in denen er sich über denselben Ge: genstand in ganz unverfänglicher Weise geäußert hatte, wie es auch bei den neuen Auflagen zum Theil geschehen ist. 3* [p. 36] stern Beziehung, wenn er keinen andern Willen, als den Willen des Gesetzes hat und er sich dieser Nothwendigkeit unterwirft, die das Gesetz ist.
+
+So ist er auch in der andern Beziehung wahrhaft frei nur, nicht, wenn er das Joch der logischen Nothwendigkeit abgeschüttelt, sondern, wenn er, es in die leichte Last verwandelnd, sich ihm unterworfen hat. Sehen wir uns nun die Eigenthümlichkeit derer an, welche von Hegels Schule ausgegangen sich nachmals in den Widerspruch mit ihm gesezt haben, so ist sie nur so zu Stande gekommen, daß sie sich einzelner, auch bei ihm, aber auch sonst in der Philosophie vor: kommender Kategorien bemächtigt und sie in einseiti: ger Weise durchgeführt haben. Dergleichen sind Idee (nur Ideal? ), Idealismus (ohne Realismus? ) , Sub: jectivität (ohne Objectivität?) Immanenz (ohne Transſcendenz ?. In dieser Weise ist dann eben denen, welche das Jenseits zu leugnen und es in ein Diesseits zu vers wandeln bemüht ſind, mehr, als sie denken, ein Jenseits geblieben. Die Macht des Speculativen, das Entgegengeseßte als eins zu ſehen und den Widerspruch aufzuheben, ist nicht die leichte Kunst, die eine Seite zu ignoriren oder zu leugnen und die andere allein festzuhalten, sondern jeder ihr Recht wiederfahren zu laſsen, noch auch das schwindsüchtige Unternehmen, die eine Seite nur durch die andere zu widerlegen, so daß das nicht negirte Negative nur als das einzig Affirmative übrig bleibt.
+
+Am meisten Unfug ist in der neue ren Zeit mit der allerdings wesentlichen Kategorie der Immanenz getrieben und das Selbstbewußtseyn vol.
+
+lends, dieses ganz einfache, wohlbekannte Ich, ist die Büchse der Pandora geworden, mögliche hervorgelangt hat.
+
+aus der man alles
+
+Zu unserm Zweck führe [p. 37] ich nur vorläufig und im Allgemeinen zur Charakteriz stik dieses Geistes kurz noch Einiges an in Beziehung auf Religion und Theologie.
+
+Die besondere Entdekkung, welche gleichsam das Prinzip oder vielmehr πęшTov Yeudos dieser Lehre iſt, nämlich daß durch die Form auch der Inhalt bestimmt und durch jede Veränderung der Form auch der Inhalt verändert werde, hat eine förmliche Scheidung der Religion und Wiſſenſchaft oder der Religion und Philoſophie nach sich gezogen.
+
+Der
+
+Hegelschen Philosophie wird vorgeworfen, was allerdings gegründet ist, die christliche Religion als die ab ſolute dargestellt und die Identität dieſer Religion und der Philosophie, dem wesentlichen Inhalt nach, behauptet zu haben * ) .
+
+Was, so lange die christliche Kirche
+
+*) Es ist nur kurz hier vorläufig nachzuweisen, daß in der obigen Entdeckung die äußerliche Form mit der innern vers wechselt ist. Wenn man jene, welche an dem Religionsinhalt die Vorstellung ist, von dieser, welche mit ihm identisch ist, gehörig unterscheidet, so ist darin eben so sehr die Befugniß der Wiſſen: schaft, über die Vorstellung hinaus zum Begriff fortzugehen, enthalten, als das absolute Wiſſen, die ursprüngliche mit dem In: halt identische Form, in der Wissenschaft hervorgehen darf, ohne den wesentlichen Inhalt dadurch zu verändern. Sie ist nur diese Formveränderung, durch welche nichts Neues gesetzt, ſondern nur Eben so klar ist, die Vorstellung zum Begriff erhoben wird. daß wenn man an dem Religionsinhalt nichts als die äußerliche Form der Vor und Darstellung gelten läßt, wie es die Natur alles Buchstabenaberglaubens ist, der wahre Inhalt leicht ganz darin aufgelöſet werden kann und alsdann der ganze obige Skan: dal mit allen seinen Folgen sich daraus entwickeln muß. Mehr als den Buchstabenaberglauben hat auch diese Lehre nicht und macht sich eben auf diesem Wege so leichtes Spiel mit der „Auflösung“ des wesentlichsten Religionsinhaltes selbst. Die Hegelsche Philo: sophie hat nicht nur keinen Antheil daran, sondern lehret vielmehr das Gegentheil. Hegel sagt: „Es ist die Verdoppelung der [p. 38] in der Welt ist und das Denken sich auf dem Grund und Boden des Christenthums bewegt hat, von jenem als die höchste Ehre angestrebt wurde, mit diesem übereinzustimmen, hat keinen Reiz, keinen Werth mehr für diese Denkart; esist ausgesprochen, es ist als das höchste Ziel declarirt, dem Christenthum zu widersprechen und entgegen zu sein.
+
+Die Philosophie, sofern sie die Rez ligion zu ihrem Gegenstand hat, d. h. die Theologie hat nicht mehr die Bestimmung, die christlichen Lehren vor der Vernunft zu rechtfertigen, sondern sie aufzu lösen; es heiße jetzt, ſagt man, nicht mehr Philoſophie und Christenthum, ſondern Philosophie oder Christenthum.
+
+So läßt sich in dem aut aut auch wieder die Sprache des alten Dogmatismus hören.
+
+Die un endlichen Thatsachen des Christenthums, welche zugleich Dogmen sind, Gottmenschheit, Versöhnung, sind, nach Dav. Strauß, nur ein allgemeines, innerliches Ge: schehen, im Verhältniß zu welchem das äußerliche Geschehen das gleichgültige, überflüssige ist.
+
+So wird nicht erkannt, daß das Thun und Leiden Chriſti nicht als leibliches, rein äußerliches, sondern als geistiges, unendliches das wahrhaft versöhnende ist und als dem abſoluten Geiſt angehörend ſeine innere, nothwendige Beziehung hat auf den ſub- und objectiven Geist. Ueberhaupt ist an dieser Seite ein dogmatischer Kern und Form vorhanden, die das eine Mal als in sich reflectirt der Inhalt, das andere Mal als nicht in sich reflectirt die äußerliche, dem Inhalt gleichgültige Existenz ist. “ „Die rechte Form ist so wenig gegen den Inhalt gleichgültig, daß dieselbe vielmehr der Inhalt selbst ist. " Log. Zusatz S. 264. ― Auf einer so unlogi: schen Vorausseßung beruht denn auch die obige leichtfertige Tren: nung der Philoſophie vom Christenthum und die Hervorbringung eines in beiden ganz verschiedenen Inhalts.
+
+[p. 39] Gedankeninhalt in der heiligen Geschichte nicht mehr anerkannt, ſondern weil alles nur äußerliche Form, Vorstellung ist, so ist sie für sie nur dieſe äußerliche, trockene, evacuirte Hiſtorie, höchstens noch dazu gut, daß die Kritik damit ihr Spiel treibe. Wer so weit gekommen, die Entäußerung der Idee an die Perſon Chriſti und ebendamit das Wesen des Christenthums überwunden (überwunden) zu haben, hätte nur noch Gründe, ſich einen Christen zu nennen, aber keinen Grund mehr *) . Fragt man sie aber, was sie denn und ob sie überhaupt etwas an die Stelle des Christenthums zu ſehen denken, so hat man nicht nur Gründe, sondern auch Einen Grund, zu erwarten, daß sie nichts als ein lee: res Blatt zur Geschichte der Religion herbeizubringen haben. ― Nach Feuerbach, dessen Werk „über das Wesen des Christenthums“ eine vollständige, auch mit Pathos geschmückte Leichenrede auf das Christenthum ist, soll es mit dem Christenthum ſchon gänzlich aus seyn.
+
+„Wir haben uns, spricht der Redner gleichsam betrübt, ehrlich und redlich einzugestehen, daß das Todte todt ist, alle Wiederbelebungsversuche also eitel und vergeblich sind und uns daher eine neue, lebensfrische, aus unserm eigenen Fleisch und Blut (eigenem Fleisch und Blut) erzeugte Anschauung der Dinge zu schaffen.“ **) Die Religion ist nichts anders, als das vergegenständlichte Wesen des Menschen, das Werk der Phantasie, ein Traum, worin unsere eigenen Vorstellungen als Wesen außer uns erscheinen, ein Spiel mit Bildern und diese sind die Sache selbst.
+
+Offenbarung ist die
+
+Selbstentfaltung des menschlichen Wesens, das Wun-
+
+*) Strauß Glaubensl. II. S. 175. **) Deutsche Jahrb. S. 39. 40. 1842.
+
+[p. 40] der ein realiſirter ſupernaturaliſtiſcher Wunſch und im Gebet betet der Mensch sein eigenes Herz an. Gott ist das offenbare Innere, ausgesprochene Selbst des Menschen.
+
+Die Existenz Gottes müßte ja sinn liches Sein sein.
+
+In der Trinität ſind nur Täuſchungen, Phantasmen, Widersprüche und Sophismen zu finden. Das oberste Prinzip des Christenthums ist die Das Christenthum ist eine grundverderb Hypokrisie. liche Illusion, die Theologie nichts weiter, als AnthroDiese Lehre ist ein süßer Egoismus, ein mehr als Berkeleyscher Idealismus, dabei pologie u. s. f.
+
+ein höchſt popular gehaltener Subjectivismus. Aus dem blos phänomenologiſchen, psychologischen Standpunct, den Feuerbach einseitig festhält, kann Alles in der Religion und sie selbst leicht als Wiederschein nur des eigenen Selbstes erscheinen.
+
+Aber der unendliche Inhalt der Idee ist hier unbeachtet gelassen und verkommen. Feuerbach, dessen frühere Schriften im Sinne der Hegelschen Philosophie ihm sehr zur Ehre gereiz chen, erscheint in der gegenwärtigen als ermattet, ſich unnatürlich montirend und sich erschöpfend in gesuch ten
+
+Paradorien, häufigen
+
+Repetitionen, blendenden
+
+Schlaglichtern, nicht mehr im Stande, das sich Widersprechende zur höheren Einheit zu bringen, d. h.einen speculativen Gang zu machen, sondern er bleibt in den Dornen der Gegensäße hängen und überläßt der natürlichen Vernunft, nicht dem Geist die Ent Wer, wie er, den Geist des Vaters und Sohnes nicht anerkennt, wem er eine "" zu vage und scheidung.
+
+precaire, blos poetische Personification, ein die Symmetrie Störendes“ und nicht vielmehr erst dieselbe wahr. haft Bewirkendes ist, kann auch vom Geist des Christenthums kaum noch eine Ahnung behalten.
+
+Das ist [p. 41] ganz richtig, was er behauptet: „Die christliche Religion ist ein Widerspruch; sie ist die Versöhnung und zugleich der Zwiespalt, zugleich die Einheit und der Gegensatz von Gott und Mensch. Dieser personificirte Widerspruch ist der Gottmensch die Einheit der Gottheit und Menschheit in ihrer Wahrheit und Unwahrheit".
+
+Es ist nur zu verwundern, wie Feuer bach damit etwas Neues oder dem Christenthum Nachtheiliges gesagt zu haben denkt. Es wäre vielmehr zu verwundern, wenn das Christenthum nicht dieser Widerspruch wäre für die sinnliche Anschauung, für den gemeinen Menschenverstand, für den Standpunct der Reflexion auch in der Wissenschaft; er ist es nur nicht für den Glauben und das Wiſſen; in dieſem hebt ſich der Widerspruch auch speculativ, so sehr, daß nur ohne diesen aufgehobenen Widerspruch alles andere, ja Gott selbst und noch wieviel mehr der Mensch, ein unauflöslicher Widerspruch wäre. Doch das für unsern Zweck Wichtigere ist das Verhältniß dieser und anderer Bekenner einer neuen Lehre zur Hegelschen Philosophie anzugeben. Im Allgemeinen zunächst ist es dieses, . daß Einige ihre Gedanken und Lehren als ein durchaus Eigenthümliches, Selbstständiges, von ihnen Entdecktes ansehen, an welchem Hegel schlechterdings keinen Antheil habe, ja womit sie ausdrücklich sich ihm opponiren, welches auch noch am meisten bestens zu acceptiren ist, Andere ihn fort: während compromittiren. An die erstere Seite hat sich Feuerbach gestellt; an mehreren Stellen seines Buches schon hat er sich mit Hegel ausdrücklich auseinander gesetzt.
+
+Auch Strauß hat wiederholt nnd in den Prinzipien die Differenz der Lehre Hegels von der ſeinigen ausgesprochen.
+
+Feuerbach hat es aber [p. 42] noch ganz neuerlich auch sehr übel genommen, wenn man sich seine Lehre aus irgend einem Zusammenhang mit der Hegelschen Philoſophie und nicht vielmehr aus Mit der Opposition gegen dieselbe erklären wollte. derselbigen Offenheit bekennt er auch, daß er in Uebereinstimmung mit Schleiermacher stehe, daß dieser eine wesentliche Stüße, die thatsächliche Bestätigung seiner Lehre sei, nur aus theologischer Befangenheit nicht dazu gekommen sei, die nothwendigen Consequenzen seines Standpunctes zu ziehen, nicht den Muth hatte, einzusehen und einzugestehen, daß objectiv Gott selbst nichts Anderes sei, als das Wesen des Gefühls, wenn ſubjectiv das Gefühl die Hauptsache der Religion iſt. *) Nun wiſſen wir also auf einmal klar und baar, ja gleichsam authentisch, wo wir die Quelle des heftigsten und zerstörendsten Angriffs auf die christliche Religion zu suchen haben und daß man, der Hegelschen Philosophie nachstellend, bisher auf ganz falscher Fährte gewesen ist. Wir müſſen die Verehrer Schlei: ermachers bitten, die Beweise für das Gegentheil der obigen Behauptung aus den Reden über die Religion, den Monologen und der Dogmatik aufzustellen. Jedenfalls wäre dieß ein würdiger Gegenstand für eine Preis: Nicht so aufrichtig wie Feuerbach geht aufgabe. man an der andern Seite mit Hegel um. Der Hülle ſeiner Autorität sich bedienend sagen sie, was wörtlich so zu lesen ist: im Grunde ſei Hegel mit ihnen einverstanden; man müsse ihn nur richtig verstehen; sie verständen ſehr wohl zwischen den Zeilen zu lesen und wollten nur um so mehr klar aussprechen, was eigentlich sein Gedanke gewesen. (Es wird sich in der Folge
+
+*) Deutsche Jahrb. a. a. D.
+
+[p. 43] Gelegenheit finden, zu zeigen, daß eben dieſe falschen Auslegungen der Hegelschen
+
+Philosophie durch
+
+ſelbſt ausgeschlossen und verworfen sind. )
+
+diese
+
+Endlich ſa:
+
+gen sie auch noch: Hegels Verdienst sei nur das neue Prinzip; ſie aber wüßten, was darin enthalten ſei und wollten es frei entwickeln; dann aber erklären sie auch im Widerspruch damit: man man müſſe weiter gehen, über Hegel hinausgehen; er habe aus Menschenfurcht noch viel zu ſehr hinter dem Berge gehalten, ſich` accommodirt und sich besonders in politicis „der Mantelträgerei“ schuldig gemacht; er habe es nicht gewagt, sich selbst zu verstehen ( ! ), practisch das zu sein, was er theoretisch war; er fühlte sich noch zu isolirt;
+
+er
+
+ſtützte sich noch viel zu sehr auf den Staat und dieser auf ihn ( ! ) ; jezt ſei die Welt dahin gekommen, der Vorstellung zu entbehren und in Maſſe zu den fen. ― Die letteren prägnanten Aeußerungen geben den bestimmten Aufschluß über die wahre Tendenz dieser angeblichen Jünger Hegels.
+
+Die Philosophie selbst ist eigentlich von ihnen aufgegeben; ſie ſind nur noch mit philosophischen Resultaten und Consequenzen be ſchäftigt; die Theorie liefert ihnen nur noch die In schriften und Etiketten, lichen Sinn)
+
+Praxis streben.
+
+die Fahne und
+
+Parole, unter (im eigent der sie nach
+
+Als diese practiſchen Männer wollen sie den Vortheil haben, zugleich als Philosophen zu gelten, auf ihre Geistesgegenwart sich berufen, ohne ſich um die Vergangenheit sonderlich zu bekümmern. Sie sind die seltsamen Adlichen, die ihre Adelsbriefe von keiner Vergangenheit, ſondern von einer noch sehr räthselhaften, problematischen Zukunft haben. führen ſie ſelbſt,
+
+Dabei was ihre wissenschaftliche Stellung [p. 44] betrifft, ein sehr kurzathmiges Leben; Dav. Strauß mit seiner schon haben sie ganzen Mythologie für antiquirt erklärt, was er in ſofern ſelbſt veranlaßt hat, als er der Mode, die ihrer Natur nach ein Tranſitoriſches iſt, viel zu viel Recht eingeräumt und, beſcheiden genug, die christliche Glaubenslehre nur im Kampf mit der modernen Wissenschaft dargestellt hat.
+
+Die wiederholte Foderung der Rehabilitation des Fleiſches, der Versöhnung des Geistes mit der Natur verräth deutlich St. Simoniſtiſche, Socialistische Elemente in diesem Gedankenkreise. Dieſe Sprache ist ganz nur die des natürlichen Menschen, wie es ein Jeder ist, ehe die Gnade des Geistes ihn bearbeitet hat. Die ganze Richtung ist weniger durch den Begriff, als durch den Willen bestimmt, enthält nicht Gedanken, welche neu oder schwer wären, ſondern welche zu haben und für Wahrheiten auszugeben das Leichteste von der Welt ist, weil sie von der Natur her (von Fleisch und Blut aus) ſchon in einem Jeden aufsteigen. Wenn eine Gedankenbewegung sich so rasch auf ihre Spite treibt und aller Besonnenheit und Mäßigung ermangelt, se treibt sie ihre hervor.
+
+eigene Widerlegung zugleich aus sich
+
+Wir achten manche unter dieser Fahne verz ſammelt als Männer von Geist und großer Kraft und wissen, was sie sonst hervorgebracht haben, nach Gebühr zu schäßen; aber es kann nicht fehlen, es schließt sich daran auch mancherlei hohle, sich aufspreizende
+
+Trivialität und Excentricität an. Wenn die Masse anfängt, zu denken, so wiſſen wir, was wir zu erwarten haben; daß sie denken lerne, ist allerdings höchlich zu wünschen; aber dieß massive Denken ist wenigstens kein wissenschaftliches, philosophisches mehr. Was im ganzen Zuſammenhang dieser Lehre hervortritt, ist [p. 45] ebendas, was Hegel am meisten bestreitet,„dieß sich Zurückziehen auf die lehte Spiße der Subjectivität, dieß ausschließliche Festhalten daran, diese zur Unende lichkeit sich aufblasende Endlichkeit, die mit allem Jnhalt fertig ist, aber die Spiße der Endlichkeit und die Subjectivität bleibt; aller Inhalt ist darin verflüchtigt und vereitelt;
+
+es ist aber nur die Eitelkeit, die nicht verſchwindet “ *) . Man kann ſich daher ganz wohl vorstellen, daß alle dieſe neoterischen Erscheinungen hätz ten entstehen und sich verbreiten • können, wenn auch keine Hegelsche Philosophie in der Welt gewesen wäre; ſie konnten eben so gut an jede andere sich äußerlich anknüpfen **) ; man kann aus dem Prinzip der Hegelschen Philosophie keine Nothwendigkeit, daß sie dahin führe, nachweisen. Wenn man dem Christenthum alle Gebrechen und Verbrechen derer, welche Chriſten heißen und ſich ſelbſt ſo nennen, zur Last legen wollte, würde man die größeste Ungerechtigkeit begehen; dieſe begeht man ohne Bedenken gegen die Hegelsche Philosophie. thums
+
+Jene modernen Anfeindungen des Chriſtenerklären sich genugsam aus dem Prinzip des alten Rationalismus, der darin wesentlich wieder er: standen ist, aus den Anmaaßungen des Pietismus, der seinen Feind und Gegensatz immer hervorruft und in Athem erhält, aus der ganzen geistigen Athmosphäre
+
+*) Rel.: Philos. I. Zweite Ausg. S. 182 ff. **) Wie denn z. B. unleugbar ist, daß, die Straußische Christologie, absolut unvereinbar mit der Hegelſchen, an der Schellingschen Lehre nicht bloß äußerlich, ſondern auch innerlich und wesentlich ihren bestimmten Ausgangspunct hat und nur in ihr begründet ist. Vergl. Strauß Glaubensl. II. S. 207 f. und Schellings Vorlesungen über die Methode des acad. Stud. S. 190 f.
+
+[p. 46] der modernen Zeit, ihren moralischen und politiſchen Tendenzen *). Was ist nun zu thun unter der schweren Prü: Sollen wir diese Geiſtes:
+
+fung, die uns bereitet ist?
+
+bewegung verdammen, verfolgen? Das Leichteste, Be quemste wäre es allerdings; teste, Unverantwortlichſte.
+
+aber auch das Ungerech
+
+Wir müſſen vielmehr auch für sie die Freiheit des Gedankens und der Lehre in ihrem ganzen Umfange in Anspruch nehmen und das ist nicht Gleichgültigkeit gegen sie oder gegen die Wahr: heit, sondern Sorge für das, was das reine Intereſſe der Wahrheit und Wissenschaft fodert. Diese auch mit geistreichen, wahren, vortrefflichen Gedanken unter: mischten Vorstellungen, anerkanntermaaßen, erklärter- ſind ſie maaßen unchristlich, pantheiſtiſch, atheiſtiſch dazu angethan, mit Gewalt niedergehalten und unter: drückt zu werden? Wo ist euer Glaube an die Wahrheit d. i. an Gott, wenn ihr das Dasein Gottes nur noch mit Gewalt zur Anerkennung bringen wollt; ſeid ihr nicht so atheistischer, denn sie? Wo ist euer Vertrauen auf die Wissenschaft der Wahrheit und was will der Zweifel, daß sie nicht im Stande sein sollte,
+
+*) Bei der gegenwärtigen Erweiterung der Preßfreiheit ist es zu verwundern und gewiß als ein verzweifelter Zuſtand zu be: klagen, daß man so oft noch zur Ironie, Satyre und Perfiflage seine Zuflucht nimmt und zu diesem Zweck die Larve der Fröm: migkeit vornimmt, um desto sicherer zu tåuſchen, besonders aber die biblische Sprache misbraucht zu solchen Zwecken der Ver: spottung und Verhöhnung. Dieser Ton ist zuerst von der „Po: ſaune" angeſtimmt und sodann fortgesetzt worden in zwei zu Der: lin kürzlich erschienenen Schriften, die eine unter dem Titel: „Die Noth der Kirche u. s. w.“, die andere unter dem Titel: „Schel: ling, der Philosoph in Christo, für gläubige Christen u. s. w."
+
+[p. 47] die momentanen Regungen dieses Geistes zu bewältigen und was Falsches, Verkehrtes darin ist, aufzuzei: gen? Jede andere Widerlegung, als auf dem Wege der Wissenschaft, hat den empörenden Schein gegen sich, daß es nicht allein auf die Unterdrückung des Jr. rigen, Falschen, ſondern des Wahren und Trefflichen, ohne welches auch diese Seite nicht ist, abgesehen sei. Wie traurig muß es schon um die Wiſſenſchaft beſtellt, wie sehr muß sie schon verkommen sein, wenn ihr durch Zwang und Gewalt nachgeholfen werden muß. Christliche Frömmigkeit kann sich weit mehr durch un bedingtes Vertrauen auf die Macht der Wahrheit und durch besonnenes Handeln in diesem Vertrauen, als durch Anwendung von Zwangsmaaßregeln beweiſen.
+
+So lange die Ausfälle auf den christlichen Glauben nicht Ausbrüche roher Brutalität ſind und als dieſe Thaten Miſſethaten, die den Gesetzen verfallen (100 Pfd. Sterl. und einjähriges Gefängniß für eine Gottesläſterung) oder beſſer noch ignorirt und der Verachtung preisgegeben werden, ſondern irgend noch im Zusammenhang mit der Wiſſenſchaft erscheinen, ist, ja um so mehr, je gefährlicher ſie ſind in dieser Gestalt, auch das Mittel, sie unschädlich zu machen und die Hoffnung vorhanden, daß sie nicht unwiderlegt bleiben wers den. Mit wiſſenſchaftlichen Erscheinungen in Schriften und academischen Vorträgen ist es nicht, wie mit dem unmittelbaren Kirchendienst, in den Niemand mit sol chen
+
+Grundsätzen, dem allgemeinen christlichen
+
+Glauben entgegen sind, gestellt werden kann oder ge stellt zu werden wünſchen kann; da walten ganz andere Beziehungen und Verhältnisse ob.
+
+Aber falsch und verkehrt ist es, danach die Wiſſenſchaft, selbst die. theologische, zu beurtheilen; sie hat nicht unmittels [p. 48] bar der Kirche, sondern zuoberst der freien Erkenntniß zu dienen; so ist sie selbst die absolut freie und ist ihr diese Freiheit vernichtet, so ist sie selber ver: nichtet.
+
+Es ist ebendaher, daß die Beseßung theolo:
+
+gischer Lehrämter im Protestantismus, nicht wie im Papismus, ein Act der Kirche, sondern des Staats
+
+Soll die Freiheit der Forschung nicht mehr be stehen, so muß man die theologischen Facultäten in Seminarien verwandeln, die nur dem Bedürfniß zu dienen haben. hen, daß nicht
+
+Dann muß man weiter auch dahin ſe: ein Luftzug oder Vogel in der Luft das Saamenkorn eines freien Gedankens über die hohe Mauer trage und es auf ein offenes Gemüth fallen laſſe, woraus grausames Unheil erwachsen könnte. Aber Auch in außeramtli ist das noch Protestantismus? chen Verhältnissen ist jede persönliche Ueberzeugung, auf einem wissenschaftlich und ſittlich achtbaren Grunde stehend, zu achten verliert nur, wenn sie die ganz subjective ist, durch sich selbst allen Werth. hört aber auch dadurch nicht auf, nur
+
+Sie
+
+ſubjec tive zu sein, und wird mithin auch nicht wahr da durch, daß sie die krankhafte Affection eines ganzen Zeitalters ist, wie das der Rationalismus und Pietismus hinreichend beweiset.
+
+Wenn diese mit einander kämpfen, kann man im Allgemeinen immer vorausſehen, daß sie beide Unrecht haben.
+
+Was ist z. B.
+
+falscher, als der Kampf eines Paniel oder Bret: schneider gegen den Pietismus?
+
+(jeder Besonnene wird sagen: lieber Pietist als Rationalist) oder Krummachers gegen den Rationalismus (derselbe Beſonnene wird sagen: lieber Rationalist, als Pietist) ? Wenn der gleichen Lehren die Wissenschaft vorstellen oder er:
+
+sehen sollen, so wird die jüngere Generation bald ge:
+
+[p. 49] nug ihre Gemeinde der Wissenden nebst dem Cultus des Genius zu Stande bringen, welche sie längst auf dem Untergange der Gemeinde der Gläubigen angeDieser Geist ist nicht zu beschwören, kündigt haben. oder zu bezwingen durch Sprüche der Bibel, wie fromm. und gelehrt sie ausgelegt und wie heiligen Inhalts sie seien, oder durch Gefühle der Frömmigkeit und des kirchlichen Sinnes, wie herzlich sie seien und wie ſehr persönlich schäßbar, noch auch mit dogmatischen Be ſtimmungen alter Theologen und Glaubensbekenntniſſe, wie scharfsinnig und nüglich sie waren zu ihrer Zeit, überhaupt nicht durch Erzählen, was Andere geglaubt, geſagt und gethan haben, noch auch selbst durch angestrengte Kritik, wie conservativ sie sei -- mit dem allen ſind ſie längst fertig.
+
+Man kann sich auch gegen die Ahnung der ungeheuren Interessen, die da auf dem Spiel stehen, nicht durch das schmeichelhafte Bewußtsein eines ganz andern und viel beſſern Standpunktes ſchüßen, sondern man muß auch heraus mit der Sprache, sich legitimiren öffentlich, sich prononciren namentlich (wie leicht es auch unter die Verdächtigung falle) ; noch auch dadurch, daß man eben so be quem die wissenschaftliche Abweichung nur auf das moralische Gebiet verseht und sie den Urhebern ins Ge wiſſen ſchiebt; sondern man muß zeigen, daß man die christliche Wahrheit auch in der Gewißheit der be Am we stimmten und explicirten Erkenntniß besißt. nigsten geziemt uns unter diesen Umständen Uebers muth und fleischliche Sicherheit. Wenn Alles in Frage gestellt ist, dürfen wir da so thun, als ob wir uns eines unerschütterten Besites erfreuten? Wahrlich, wie jezt die Sachen stehen, wer bürgt uns dafür, daß nicht, während wir jenes Alles als Unglauben verachten und [p. 50] verdammen uns inzwischen mit den genauesten
+
+Bestimmungen der nöthigen Kirchenzucht beschäftigen, der alte Maulwurf unter unsern Füßen fortarbeitet und uns ganz unmerklich den Grund und Boden un-terwühlt, auf welchem wir stehen müſſen? - *)
+
+Nachdem wir uns nun nach beiden Seiten hin, mit den Feinden und Freunden zu thun gemacht und uns mit ihnen auseinandergesezt haben, können wir unserm Unternehmen näher treten und dasselbe, wies wohl noch immer im Allgemeinen, näher bezeichnen und bestimmen.
+
+*) Es verdient besonders eine von Franz v. Baader, ei: nem Mann, der nicht der protestantischen Kirche angehörte, in den verschiedensten Wendungen wiederholte Aeußerung in Erinne: rung gebracht zu werden. " So lange der Religion, ihren Lehren, nicht wieder von Seite der Wissenschaft eine auf freies Forschen und ſohin wahr: hafte Ueberzeugung, gegründete Achtung verschafft worden sein wird - so lange werdet ihr, Fromme und Nichtfromme, mit all' euren Geboten und Verboten, mit all ' eurem Gerede und Thun dem Uebel nicht abhelfen und so lange wird auch diese nicht geachtete Religion nicht geliebt werden, weil man doch nur herzhaft und richtig lieben kann, was man aufrichtig geachtet sieht und als achtbar unbezweifelt erkennt, sowie der Religion auch nur mit an: mit einem solchen amor generosus gedient sein karn, dern Worten: wollt ihr, daß die Praxis der Religion wieder gedeihe, so sorgt doch dafür, daß wir wieder zu einer vernünftigen Theorie derselben gelangen und räumt nicht euren Gegnern (den Atheisten) vollends das Feld mit jener unvernünftigen und blas: phemischen Behauptung: daß an eine solche Religionstheorie, als an eine unmögliche Sache, ganz nicht zu denken, daß die Reliz gion bloße Herzenssache sei, bei der man des Kopfs sich füglich entäußern könne, ja müſſe." Ferm. cognit. V. S. IX.
+
+[p. 51] Zuerst müssen wir noch den Schein beseitigen, als verhandelten wir hier Persönliches oder Partheiliches, oder als ließen wir uns durch irgend einen Namen bestimmen und bestechen, oder als hätte etwa persönliche Freundschaft oder Feindschaft hiebei irgend eine Stimme. Schon oben ist gesagt worden: die Hegelſche Philoſophie ist nicht eine Philosophie von des stimmtem Prinzip; jezt ist hinzuzusehen: ihr Prinzip iſt, die Prinzipien aller Philoſophie zu enthalten. Daran können wir zunächst anknüpfen und zu unserm Zweck weiter gehen. Darauf nämlich können wir füglich die Berechtigung gründen, Hegels Namen fortan nicht mehr überall einzumiſchen, ſondern von der Hegelſchen Philosophie als der Philosophie selbst zu reden. Wenn ich daher in der Folge von der neueren Philoſophie spreche, so kann ich keine andere meinen, als sie. Ich kenne keine wahre Philosophie, noch außer ihr wäre, keinen wahren Philosophen, der nicht Hegels Mitarbeiter wäre. Was heißt dieß aber anders, als: diese Philosophie ist die Geschichte der Philosophie, in sonderheit die Geschichte der neuern? Sie enthält alles wenigstens in den Prinzipien, was der Geist sich feit länger als dreitausend Jahren an Gedanken erar: beitet hat.
+
+Jede diese Erscheinungen ist in der Hegelschen Philosophie auf den Standpunct gesetzt, den sie kraft ihres Begriffes einnimmt und das bildet ein System von Standpuncten, die auch alle in ihrer Art nothwendig waren. Wer kann zweifeln, daß, wie und wo eine so großartige Erscheinung, wie die Schellingsche Philosophie zu ihrer Zeit unleugbar war, in der Hegelschen Philosophie ihre sichere Stelle habe? Dieſe Burg ist so tief gegründet, dieß Haus so groß und geräumig, daß wir auch die Hoffnung auf den 4* er:
+
+[p. 52] wünschten Hausfrieden nicht aufgeben dürfen *) .
+
+Ob daher zwar an der weiteren Ausbildung der Philoſo: phie und derselben beständigen Fortschritten nicht zu zweifeln ist, so ist doch aus der Hegelschen Philoſophie nicht herauszukommen, wenn man überhaupt noch Philosophie will, ja selbst, wenn man ihr in Bezug auf einzelnen Inhalt, z. B. Identität der Logik und Ueber Vatkes Buch von Metaphysik, entgegen ist.
+
+der Freiheit und Gnade sagt Weiße (Fichtische Zeit: schrift) , daß es, obgleich von Hegelscher Philosophie ausgehend aller wahren Philosophie angehöre. Wenn ein so scharfsinniger Gegner der Hegelschen Philoſophie so urtheilt, so muß man das würdig, edel finden. Es ist aber zugleich beschämend für alle, die, ohne sich einer gleich gründlichen Kenntniß dessen, worüber sie urz theilen, rühmen zu können, in ihrer Verblendung doch noch immer in der Herab- und Zurückseßung solcher Männer wetteifern.
+
+Es kann der Theolog, sei er der lehrende oder lernende, die Hegelsche Philoſophie nicht mehr umgehen oder ignoriren, will er nicht aus dem Kreise der gegenwärtigen Bildung heraustreten und ſich selbst antiquiren; er muß auch sie bekämpfend und widerlegend wenigstens auf ſie Rückſicht nehmen, dann aber auch nicht sich darauf beschränken, nur Kenntniß zu nehmen von den versuchten Widerlegungen derselben, wodurch sie nicht selten erst entstellt wird, sondern ih ren reinen Begriff zu gewinnen ſuchen aus ihren reiz nen, jederman zugänglichen Quellen.
+
+Man kann das
+
+*) „Nicht zu zerstören bin ich da, sondern zu bauen, eine Burg zu gründen, in der die Philosophie von nun an sicher woh nen soll." Schellings erste Vorles. S. 18. Von nun an? Von wo an?
+
+[p. 53] zugeben, was jezt die antihegelschen Jünger nicht müde werden, zu wiederholen, daß die Philoſophie für den Philoſophirenden mehr als nur das Mittel ſei, Glaubenssätze zu beweisen oder die Lehren der christlichen
+
+Die Philosophie hat allers Religion zu rechtfertigen. dings ein weiteres Feld, das Wissen ist ihr absolutes Ziel, und sie hat sich durch nichts von außen hem: men zu laſſen.
+
+Für den Theologen hingegen hat die
+
+Philosophie hauptsächlich theils ihrer logischen, theils von ihrer theologischen Seite Bedeutung, mithin nur sie, wie ſie in der innern Uebereinstimmung steht mit dem Christenthum und durch ihre Methode ihn in den Stand zu sehen vermag, das Factum des christ: lichen Glaubens, auf dem Wege der Kritik und Geschichte gewonnen, in den Gedanken, in die Sphäre des Wiſſens zu erheben. Zum andern, da wir die Bedeutung der neuern
+
+Philosophie in der Theologie nachweisen wollen, ist noch zu bestimmen, was die Bedeutung an und für sich zu bedeuten hat; es ist der Begriff der Bedeutung im Allgemeinen zu erläutern und zu diesem Zweck das natürliche Element von dem der abstracten Vorstellung und des concreten Gedankens zu unterscheiden.
+
+Im Element der Natur an sich hat nichts Bedeutung, ſondern nur unmittelbares Dasein.
+
+In ihr ist der Geist zerstreut und verloren im Außereinander. Erst indem der Geist oder Begriff diese seine Rinde durchbricht und in die Erscheinung tritt, ist er für sich und so die Natur für ihn. innerlicht sich.
+
+Die Natur erinnert, ver
+
+Das Innere der Natur, in das kein erschaffener Geist eindringt, wie man sagt, ist ihr Aeußeres und das wird der Geist doch wohl zu erkennen vermögen; der Begriff oder Geist hebt diese seine Aeußerlichkeit [p. 54] auf, in der er nur als Natur war; die Natur gewinnt Bedeutung dadurch, daß der Geiſt ſich aus ihr heraushebt und in ſich geht. Für den Naturfor: scher hat die Natur und Alles in ihr Bedeutung; indem er die Naturgefeße erforscht, sind diese Gesetze
+
+Gedanken und zwar die, nach denen die Natur ge dankenlos dichtet; denn in der Natur ist Alles vernünftig und zweckmäßig, doch ist sie selbst ohne Vernunft und Gedanken oder Zwecke.
+
+Hat hingegen der
+
+Geist erst sich frei der Natur gegenüber und mittelſt seiner Freiheit die Natur erhoben über ihre Nothwendigkeit, so entsteht die Kunst oder die Schönheit der Natur auf einer höhern Stufe, auf welcher der Widerschein der Idee oder des Geistes im Element der Natur das Kunstwerk macht. Was in der schönen Natur oder Kunst Bedeutung hat, ist als solches Sym: bol, Sinnbild, als Aeußeres, Sinnliches zugleich Bild In diesem Gebiet hat also et des inneren Sinnes. was Bedeutung, sofern es einerseits wohl über den äußeren Sinn, aber auch nicht über den inneren Sinn Das Symbol ist weniger die wahre BeDaher es so unange deutung, als nur Andeutung.
+
+hinausgeht.
+
+meſſen war in der Schellingſchen Lehre, die heiligen Thatsachen und Lehren der christlichen Religion nur als Symbole zu betrachten *) ; das Symbol steht als solches immer auf dem Sprung, zum Mythus zu werden und steht noch gar weit davon ab, ein Dogma, d dem Anblick einer Bildsäule kann man fragen: was bedeutet sie? Antwort: den Apoll.
+
+Was aber Apoll bedeutet, ist eine andere, über das unmittelbare Sym-
+
+*) S. Philosophie und Religion 1804. S. 75-80.
+
+[p. 55] bol hinausliegende Frage; denn abgesehen von der äuBern Darstellung des Apoll in diesem Marmor ist er ſelbſt einer der griechischen Götter, der der Mytholo: gie angehört. Ebenso ist in der christlichen Kirche das Kreuz ein Sinnbild; frage ich nach dessen Sinn und Bedeutung, so deutet es den Tod des Welterlösers an; was aber dieser Tod selbst zu bedeuten habe, sagt mir das Symbol an und für ſich nicht. Nun, in dies sem Element der Natur und Kunst liegt unsere Aufgabe nicht, sondern allein im Element des reinen Gedankens. sein.
+
+Dieser aber kann zunächst eine Vorstellung
+
+Die Vorstellung, da man mit ihr unmittelbar im Reich des Gedankens ist, so übertrifft sie die Natur darin, daß sie keinesweges, wie diese, an sich ohne Bedeutung ist.
+
+Aber die Bedeutung der Wahrheit, welches die Wahrheit der Bedeutung iſt, iſt nicht in ihr als der Vorstellung schon enthalten.
+
+In seinen
+
+Vorstellungen treibt sich ein Jeder herum und genießt in der Willkühr, womit er sie haben und hervorbringen kann, einer scheinbaren Freiheit; der so seine Vorstellungen.
+
+es hat ein Jes
+
+Sie sind als solche sub:
+
+jectiv und mit einem, der über seine Vorstellung und Subjectivität nicht hinausgehen will, ist keine ver:
+
+nünftige Verſtändigung möglich und muß man auch nicht streiten;
+
+der Streit und alles Bestimmen der
+
+Wahrheit hat nur Sinn und Bedeutung in der Be: ziehung der Vorstellung auf den Begriff;
+
+warum?
+
+weil eben an ihm erst die Vorstellung ihre Wahrheit und so erst ihre Bedeutung hat.
+
+Die, welche jezt aufs neue den Glauben und das Wissen oder die Religion und Philoſophie mit einander entzweien und in das oben schon bemerkte falsche Verhältniß zu einander bringen, bedenken nicht, daß bei allen wesentlichen
+
+[p. 56] Bestandtheilen der christlichen Religion in den Vorstellungen derselben der Begriff bereits eingehüllt liegt und die Aufgabe in der Wiſſenſchaft nur diese ist, den Begriff aus ihnen hervorgehen zu lassen. Da auch die Wahrheit vorgestellt wird und vorgestellt werden muß, so kann man auch zeigen, worauf die Vorstellung be: ruht und worin sie ihre Wahrheit hat d. h. worin ſie bedeutsam ist. Dieß geschieht schon in der Mytho: logie.
+
+Die heidnischen Götter sind der verschiedensten menschlichen Vorstellung fähig und Bacchus z. B. wird auf die mannigfaltigste Art vorgestellt; das Vorgestellte selbst aber ist ein abstracter Gedanke, wie denn unsere Vorstellung ganz abstrahirt der Wahrheit und Wirklichkeit dieser Götter; sie stellen aber Gedanken vor.
+
+Ebenso kann man sich von dem einzig wahren
+
+Gott, vom Tode des Erlösers die verschiedensten Vorſtellungen machen; wird aber nach der Bedeutung die ser Vorstellungen gefragt, so will man den allgemeinen Gedanken, die nothwendige Wahrheit wiſſen; man will, wie Hegel sagt, den Begriff;
+
+die Vorstellung hat man wohl *) . So findet die Gesamtheit der christlichen Vorstellungen z. B. von Gott, welcher der Ungezeugte und der Vater und ebenso von Gott als Sohn, wofür eben so gut die Vorstellung von ihm als dem Wort, Ebenbild, Abglanz des Vaters vorhanden ist, indem davon der Begriff aufgezeigt wird, ihre Bedeutung; in der Wiſſenſchaft zeigt sich die Wahrheit und Nothwendigkeit dieser Vorstellungen. Solch eine Vorstellung nun ist zunächst auch noch die Philosophie in der Theologie;
+
+wird nach der Bedeutung der erſtern in der andern gefragt, so will man die Wahrheit die:
+
+*) Rel.: Philos. I. S. 68.
+
+[p. 57] ſes Verhältnisses, die Nothwendigkeit desselben, die wirkliche Macht der Philosophie in der Theologie erken nen. - Die Bedeutung erhellet aber nicht nur in der Bewegung der Vorstellung zum Begriff, ſondern auch umgekehrt vom Begriff zur Vorstellung. In und mit dem Begriff nämlich ist man über die blos subjective Vorstellung und deren Willkühr und Zufälligkeit hinausgegangen und das ist das Recht der Wiſſenſchaft; man iſt bei der Sache; man hat einen objectiven Inhalt vor sich; das Begreifen ist nicht blos das an sich seiende Denken, wie die Natur, noch auch nur das für ſich ſeiende Denken, wie der Verstand und die Vorstellung, sondern das an und für ſich ſeiende Denken, das ver:
+
+nünftige Wiſſen, Wiſſen des an und für sich Wahren, der concrete Gedanke.
+
+Die Vorstellung ist einem Je, den das Leichtere, weil er darin ganz bequem bei sich bleiben kann; der Begriff ist das Schwere, nicht Materiellschwere, sondern Gedankenschwere, weil sich der Geist da der Sache, dem objectiven Inhalt zu unterwerfen und ihn auf sich zu nehmen hat. Das Kreuz des Gedankens ist schwer zu tragen; Chriſtus ſagte zu seinen Jüngern:
+
+ich hätte euch noch viel zu sagen, aber ihr könnet es jetzt nicht tragen. senschaft ist das Gehaltvolle das Schwere und so auch das Schwierige; gravitas des Begriffs.
+
+In der Wiſ-
+
+Gewichtvolle, dieß ist die
+
+Wer auch in der Wiſſenſchaft nur in seinen Vorstellungen zu leben und zu bleiben vorzieht, flieht das Gehaltvolle und Inhaltsreiche, als worin die Wiſſenſchaft erst eigentlich anhebt; diese ist nicht ein zufälliges Aggregat von Vielem und Mannigfaltigem, welches als Vorgestelltes das Leichte ist, ſondern die unendliche Einfachheit des Gedankens; in diese muß eingegangen werden von jedem, der sich zur
+
+[p. 58] Wissenschaft entschließt.
+
+Nun aber entsteht leicht die
+
+Klage, daß irgend ein Gedankeninhalt zu schwer ſei und man fragt: was diese Begriffsbestimmungen zu bedeuten haben? Wenn man darauf gar nicht Rückſicht nehmen, nicht auch der Vorstellung etwas nachgeben wollte, würde man Vielen die Wiſſenſchaft ſehr erschweren, wiewohl das Popularisiren der Wiſſenſchaft leicht auch hinwiederum als ein Auflöſen derſelben, als ein an dem Begriff begangenes Unrecht erſcheinen kann. Es muß daher in der Wiſſenſchaft eben so oft auch vom reinen Begriff auf die Vorſtellung zurückgegangen, der Begriff durch Beiſpiele, Analogien erläutert und dadurch die Bedeutung desselben zur Evidenz gebracht werden.
+
+Es geschieht dieß aber schon dadurch, daß der Begriff sich vollständig ent wickelt, denn er ist nicht eine Definition, nichts Starres, Todtes, ſondern lebendige Bewegung; erst in dieſem ſeinen sich Fortwälzen bringt er nach und nach alle seine Momente zur Erkenntniß.
+
+Da muß man nur nicht im
+
+Anfang gleich alle Geduld verlieren, nicht an ſich ſelbſt und der Wissenschaft verzweifeln. Es ist allerdings billig, daß, indem der Begriff sich entwickelt, er sich auch der Vorstellung nähere, der gedankenschwere Inhalt sich faßlich, verständlich mache und so der Gedanke nach beiden Seiten hin seine Bedeutung explicire.
+
+In der folgenden Entwickelung der Bedeutung der neuern Philosophie in der Theologie sollen beide Wege möglichſt verbunden, es soll nicht blos von reinen Gedankenbestimmungen angefangen, sondern auch umgekehrt von der Vorstellung ausgegangen und fortgeschritten wer den zum reinen Gedanken. Noch ist endlich mit Wenigem ein Ueberblick zu geben über das ganze Feld unserer Unterſuchung, oder [p. 59] das Ganze einzutheilen. 1) Die Bedeutung der neuern Philosophie in der Theologie, wenn sie überhaupt stattfindet, hat zu ihrer Voraussetzung die Möglichkeit, welche zunächst nur irgend ein Verhältniß der Philosophie ist zur Theologie. Da haben wir es also noch mit etwas ſehr Unbestimmtem und Allgemeinem zu thun.
+
+Denn die Kategorie der Möglichkeit seht als ſolche auch noch die Unmöglichkeit und dieſe iſt, bekannt, für Viele sogar ein Axiom. Indem aber zulezt
+
+Verhältniß der Philoſophie zur Theologie ſich als ein inneres und nothwendiges ausweiſet, kommt 2) die Nothwendigkeit und Wahrheit des Ver: hältnisses in Betracht.
+
+Es wird sich zeigen, daß auch der Begriff der Theologie in ihrer Wahrheit nicht zu fassen ist ohne ihre innere und eigene Beziehung auf die Philosophie, so wie auch, daß diese sich durch sich selbst auf jene bezieht. Erst nach diesen Entwickelungen werden wir dann 3) dazu kommen können, die Wirklichkeit und Wichtigkeit des Einflusses der Philosophie auf die Theologie nachzuweisen, die Bedeut samkeit der neuern Philosophie concret darzuthun und unter den geschichtlichen Erscheinungen auf dem Gebiete der neuern Philosophie die Hegelsche in der jenigen bedeutungsvollen Stellung zu betrachten, welche sie durch sich selbst und unabhängig von allen beliebigen oder misliebigen Urtheilen der Zeit einnimmt.
+
+## Separatvotum über
+
+#### B. Bauers
+
+Kritik der Geschichte.
+
+en evangelische
+
+An Ein Hohes Ministerium der geistlichen, Unterrichts- und Medicinal-Angelegenheiten.
+
+Einem Hohen Ministerium muß die theologiſche Facultät ſich dankbar verpflichtet wiſſen, daß Hochdaſſelbe ihr mittelst Rescripts vom 20. August Gelegenheit ges geben hat, sich über die wissenschaftliche Stellung des Lic. Bauer frei und offen auszusprechen. Nicht minder erfreulich ist es, zu vernehmen, daß nicht die hiesige Facultät allein ihre Stimme abzugeben aufgefordert worden. Es ist ihr in besagtem Hohen Erlaß aufgegeben, sich über die zwei Fragen gutachtlich zu äußern: 1) Welchen Standpunct der Verfaſſer nach dieser seiner Schrift im Verhältniß zum Christenthum einnimmt. 2) Ob dem Verfasser nach der Bestimmung der Universitäten, besonders aber der theologischen Facul täten auf denselben die Licentia docendi verstattet werden kann. Wäre hierbei noch etwas zu wünschen übrig, so wäre dieß einerseits, daß das genannte Werk, von welchem dazumal erst Ein Band erschienen und das auf mehrere Bände berechnet ist, vollſtändig vorliegen möchte, um deſſen Inhalt übersehen und beurtheilen, auch mit dem Urtheil sich auf das Resultat des Ganzen [p. 64] beziehen zu können, andererseits, daß nach dem Beispiel der Herzoglich S. Altenburgischen Regierung im ähnlichen Fall auch einige theologische Facultäten des Auslandes zu diesem Zweck wären aufgefordert worden, da deren Urtheil von beſonderm Gewicht hätte sein können. Wenn dieſes nicht geschehen konnte, so würde es wenigstens allgemein dankbar empfunden werden, wenn ein Hohes Miniſterium ſich, nach dem gleichen Vorgang der Herzogl. Sachsen- Altenburgischen Regierung entſchließen wollte, sämmtliche eingegangene Facultätsgutachten, nebst den darauf sich beziehenden votis separatis zur öffentlichen Bekanntmachung dem Druck zu übergeben, und ich erbitte mir im Voraus in Bezug auf das gegenwärtige diese Erlaubniß ganz gehorsamst. Jedenfalls ist es höchſt erfreulich und gereicht dem Preußischen Staat zur hohen Ehre, eine Auskunft ge: troffen zu haben, in Folge deren erst so viele geistige Kräfte und Anstrengungen aufgeboten sind, um auch nur möglicherweise den Erfolg zu haben, daß ein in ſeinen wiſſenſchaftlichen Forschungen lebender Gelehrter, und wäre er selbst auch noch nicht im Staatsdienst, sondern nur Privatdocent, von seinem Plaz entfernt werden kann. Erste Frage: welchen Standpunct der Verfasser nach dieser seiner Schrift im Verhältniß zum Christenthum einnimmt. Durch die an die Facultäten ergangene Anfrage ist diese Angelegenheit auf den Boden der Wiſſenſchaft verseßt.
+
+Dieß ist insofern ein bedeutungsvoller Schritt, als hiemit die Ehre der Wissenschaft anerkannt und zugleich ausgesprochen ist, es wolle die Hohe Regierung die Entscheidung darüber nicht in den Händen der Nichttheologen laſſen, von denen die Anklage des Bauer [p. 65] ohne Zweifel ausgegangen.
+
+Denn dieß ist gegenwärtig das Schicksal des Verhältnisses der Religion und Theologie zu einander, daß darüber die größte Unklarheit und Verblendung herrscht und über der wesentli: chen innern Beziehung der Theologie auf die Religion der eben so wesentliche Unterschied der Theologie von der Religion gänzlich übersehen wird.
+
+Dieses zum Theil von Theologen ſelbſt verſchuldete Uebersehen, welches den Gläubigen zum competentesten Theologen macht und in dem Theologen nicht mehr und nicht weniger, als den gläubigen Christen sieht, ist eine Vermischung zweier Sphären, welche dem Begriff der Religion eben so sehr, als dem der Theologie widerstreitet.
+
+Die unmittelbare Folge hievon ist gewesen, daß in eben dem Maaß, als die Theologie von der Religion, vom Glauben das Wiſſen convulſiviſch umſchloſſen wird, die Theologie alle Freiheit der innern Bewegung, alle Selbstständigkeit auf ihrem eigenen Gebiet verloren hat. Ebensowenig ist dann die Frömmigkeit, indem sie sich auf ein ihr fremdes Gebiet begeben, rein und lauter ge blieben, ſondern iſt in das Raiſonniren hineingerathen. Wenn sie vom Glauben allein aus theologisch zu urz theilen anfängt, so verwandelt das Urtheilen sich ebendamit in ein Vorurtheilen.
+
+Was dieser Vorurtheile und Idiosynkrasien Folge gewesen, sollte uns wohl die Geschichte, besonders schon seit länger als hundert Jahren lehren.
+
+Denn ist es nicht eben der Supernatura lismus und Pietismus gewesen, der in seinem Ueber: muth und seiner fleischlichen Sicherheit den Rationalismus und dessen Ausschweifungen am meisten hervor: gerufen und ihn auf seinem Gewissen hat?
+
+Es ist vielmehr die wahre, christliche Frömmigkeit, es ist die christliche Kirche selbst, welche die Wissenschaft frei aus [p. 66] ſich entlassen und sie für mündig erklärt hat, ohne für sich und ihre ewige Wahrheit von der Theologie und ihren unendlich mannigfaltigen Gestaltungen auch nur das Mindeste zu besorgen.
+
+Nichts ist für den Gläubigen schwerer zu gewinnen, als der Glaube an die Ewigkeit des Christenthums und an die Unmöglichkeit, über dasselbe hinauszugehen. Hierin iſt und bleibt er immer noch der Ungläubige.
+
+Als Einzelner läßt er sich durch vereinzelte Erfahrungen gar leicht irre machen und statt sich selbst und seinen Unglauben zu bekämpfen, bekämpft er die ungläubige Theologie, räth und greift zu äußerlichen, gewaltſamen Mitteln, meint wohl gar, er thue Gott einen Dienst daran und denkt sich, was die Verfolgung der Keßer betrifft, noch mitten in der römischen Kirche zu befinden.
+
+Indeß steht die christliche Kirche, troß aller Angriffe auf sie und troß aller Sorgen um sie, durch ihre innere, göttliche Macht geschüßt, fest und ruhig, nichts fürchtend von allen menschlichen Lehren und Büchern in irgend einer Zeit, auch nicht achtend aller menschlichen Besorgnisse um sie. Wo oder wann hat ſie durch alle Anfechtungen, die sie er: litten, sich veranlaßt gesehen, ihr Glaubensbekenntniß in allen substanziellen Lehren abzuändern, oder wo und wann hat sie der Bibel, troß aller kritischen Bewegungen, Zweifel und Angriffe, die nur wenige Bücher des Neuen Testaments noch unberührt gelassen haben, ihren überlieferten Werth und bleibenden Bestand in der Gemeinde genommen?
+
+Dieser Krieg ist immer nur das Gefecht zwischen den einzelnen Gläubigen und den einzelnen Theologen gewesen, hat die Kirche nicht berührt, wie tief und heftig auch der Widerspruch in manchen Zeiten selbst an die Grundlehren des christlichen Glaubens gegangen ist. Im Gegentheil haben [p. 67] alle wahrhaft frommen Christen darin von jeher ein starkes Lebenszeichen der Kirche gesehen, daß sie selbst die bittersten Verfolgungen ausgehalten, und haben die zuversichtliche Hoffnung gehegt, es werde der äußerste Widerspruch gegen ihre Lehre auch die äußersten Kräfte zur tieferen Befestigung derselben aufregen und entwickeln und so der bitterste Kampf mit dem Sieg und einer neuen Verherrlichung des Christenthums, zu der es ohne jenen Widerspruch nicht gekommen wäre, endigen. Den allerdings nicht zu verkennenden Nachtheilen, welche die biblischkritischen Bewegungen für Einzelne gehabt haben, welche als Nichttheologen weder die innere Kraft, noch den äußern Beruf haben, in das Feuer der Kritik einzutreten und sich so leicht beschädigen, daß sie nur an den bloßen, nakten Reſultaten Anstoß nehmen, ohne den ganzen Proceß der Entwikkelung durchzumachen, kann man gar leicht der Vor theile viele für die, welche redlich nach Wahrheit for: schen, an die Seite stellen; auf dem theologischen Gebiet vorzüglich den, daß sie dem immer wiederkehrenden Aberglauben steuert, als hange der Geist und die ewige Wahrheit des Christenthums von der Aechtheit dieser oder jener Stelle der Schrift oder dieses und je nes Buchs der Schrift, überhaupt vom Buchstaben ab und nicht weit mehr noch der Buchstabe vom Geist. Dieß ist überhaupt der schwerste kritische Punct, um den es sich gegenwärtig handelt.
+
+Leicht wird das Prinzip der protestantischen Theologie im Allgemeinen, auf jene einfache Formel reducirt, zugegeben; aber in der Anwendung und Gränzbestimmung treten die stärksten Zerwürfnisse ein.
+
+In solchem Kampf kann es dann leicht zu dem äußersten Gegensatz kommen, daß einer seits gerade das Wesen der protestantischen Theologie 5* [p. 68] im Unterschied von der römischen darin gefunden wird, daß in der protestantischen Kirche, in der ja erst die Bibel wieder hergestellt worden, auf den Buchstaben derselben Alles, auf den Geist Nichts ankomme, an welcher Seite dann auch gesagt werden kann: die protestantische Kirche sei nicht, wie das Christenthum, auf den Geist, sondern auf den Buchstaben gegründet, und daß andererseits das Berufen auf den Geist und des sen Herrschaft bis zu der Meinung von der völligen Entbehrlichkeit des Buchstabens und Schriftwortes geht. Die Wahrheit ist vielmehr, daß, indem die innere Beziehung auf einander als die gegenseitige anzuerkennen ist, nach dem Inhalt der Schrift selbst der Buchstabe Auf diesen Standpunct dem Geist untergeordnet ist. des in sich freien Geistes stellt und bewegt sich auch die Kritik, ohne welche die protestantische Theologie nicht ſein kann und sie wäre nicht mehr die freie, gei: stige Bewegung, wenn sie nur von Voraussetzungen ausgehen sollte, welche von der Seite des Buchstabens an sie kommen. Ihr irgend eine Hemmung oder Fessel anthun, heißt sie selbst sofort vernichten, und hätte der Bauer nichts weiter gethan, als sich als scharffinnigen Kritiker zu verhalten, so wäre es die größeste Ungerechtigkeit nicht allein gegen ihn, sondern gegen die Wissenschaft selbst und gegen das heilige Recht der freien Forschung, ihm dieß zum Vorwurf zu machen; es würde so für die gesammte Theologie und derselben Kritik der casus in terminis zugleich die weitgreifende Bedeutung einer Lebensfrage haben. Aber der Bauer ist in seiner neuesten Schrift mit Ansichten hervorgetreten, welche das Wesentliche und den eigentlichen Bestand der christlichen Wahrheit in ihrem innersten Grunde angreifen".
+
+Um zu diesem
+
+[p. 69] Resultat zu kommen, womit sich der Hohe MinisterialErlaß eröffnet, bedarf es vieler Vermittelungen und näheren Bestimmungen, besonders um alle Misverſtändniſſe davon zu entfernen.
+
+Ich erlaube mir dieses um so mehr, je weiter ich davon entfernt bin, mit dem Bauer in seinen kritischen Unternehmungen einig oder auch nur zufrieden zu seyn. Ich kann die Zuversicht, womit er die kritische Untersuchung über die Evangelien erst zum Abschluß gebracht zu haben versichert, nicht theilen. Ich hoffe, es wird ihm an gediegener, gründlicher Widerlegung seiner zum Theil rein aus der Luft gegriffenen Hypothesen nicht fehlen.
+
+Mir ist inſonderheit der spöttische, höhnische Ton, den er hie und da gegen berühmte Theologen angestimmt hat, höchlich zuwider, wiewohl er darin nicht ohne Vorgänger ist. selbst weiß das sehr wohl,
+
+Er daß ich mit ihm und ſeiz nen leßten kritischen Arbeiten nicht übereinſtimme; denn gegen mich sind die Worte der Vorrede S. XX. ge: richtet, in denen er sagt: „Ich habe harte Worte des? halb hören müssen; ich habe sogar wegen meiner Kritik des vierten Evangeliums hören müſſen, daß es mir. an Wahrheitssinn fehle, ja daß die Kritik nur ein subjectiver Kitzel sei u. s. m."
+
+Was er hier mit Härte gegen sich selbst anführt, daß es ihm an Wahrheitsſinn mangele, habe ich nicht in Bezug auf ihn, ſon: dern von manchen Kritikern der neuern Zeit, die von einer Hypothese zur andern übergehen, behauptet und ihm nur zur Warnung vorgestellt; denn seinen Sinn für die Wahrheit, seine Ehrlichkeit, Aufrichtigkeit habe. ich zu bezweifeln niemals Ursach gefunden.
+
+Was nun
+
+ſein Verhältniß zum Christenthum betrifft, so glaube ich dasselbe in folgenden Puncten angeben zu können: 1) Ein sehr bestimmtes Verhältniß zum Christenthum [p. 70] hatten die ältern Theologen in der bibliſchen
+
+Kritik, indem sie die Bibel im Allgemeinen und Einzelnen für das Werk des heiligen Geistes und sie selbst als von Gott eingegeben betrachteten.
+
+Sie konnten so weit gehen, zu behaupten, es hätten die Verfasser der Schrift sich in diesem Geschäft rein paſſiv verhalten als Instrumente nur des heiligen Geistes.
+
+Je wenis ger nun dabei auf die Mitthätigkeit der Verfasser der Schrift gerechnet war, um so weniger konnte das, was man Kritik heißt, und ſich hauptsächlich auf dieſem Felde der menschlichen Thätigkeit jener heiligen Schriftsteller zu bewegen hat, entstehen oder zu seinem Recht kommen. Der allgemeine Fortschritt in den Wiſſenschaften, die Erweiterung und Vertheilung des ganzen theologischen Gebiets in einzelne Disciplinen brachte es mit sich, daß man die Lehre von der Inspiration als ein Dogma der Dogmatik vorbehielt und die Kritik um so mehr die menschliche Seite der Schrift, welche ſie gleicherweise unleugbar hat, in Unterſuchung nahm. In dieser Beziehung konnte nicht mehr gefodert werden, jene Formel nur stets zu wiederholen oder dadurch von Erforschung der Bibel, dem Inhalt und der Form nach, sich zurückhalten zu lassen.
+
+Man hat auch keinen Grund, bei allen biblischen Kritikern sogleich vorauszusehen, daß sie das Dogma von der göttlichen Eingebung leugnen.
+
+Es sind unter den rechtgläubigen Theologen große Kritiker gewesen, wie Bengel, Knapp u. a.
+
+Man hat auch kein Recht, bei andern nur den Glauben daran in der überlieferten Form zu verlangen; denn das Dogma selbst ist vielfältig menschlich und fälschlich bestimmt worden. Man kann den unleugbaren Antheil des göttlichen Geistes an der Abfassung der heiligen Schrift doch noch gar mannigfaltig [p. 71] bestimmen, ihn als den näheren oder entfernte:
+
+ren betrachten.
+
+Selbst der entschiedenste Glaube an den göttlichen Ursprung des Christenthums und der christlichen Wahrheit schließt nicht sofort den Glauben an den göttlichen Ursprung der heiligen Schrift ein, so, daß dieser mit jenem zugleich mitgesetzt wäre oder jener ohne diesen gar nicht sein und bestehen könnte, man alſo vorausseßen dürfte, es müßte, wer den göttlichen Ursprung der Schrift leugnet, nothwendig auch den göttlichen Ursprung des Christenthums leugnen.
+
+Dieß alles beruhet zum Theil auf ſehr ſubtilen Diz stinctionen, von denen vielleicht Nichttheologen nichts verstehen, die aber in der Theologie nothwendig sind. Kritiker, wie Griesbach und Eichhorn, Lachmann und Schleiermacher und viele andere haben sich das her durch dogmatiſche Rückſichten in ihren kritiſchen Operationen nicht aufhalten oder hemmen lassen; sie haben den ursprünglichen Text, die ursprünglichen Verfaſſer desselben gesucht, über die Entstehung der Evangelien inſonderheit die verschiedensten und kühnſten Hypothesen aufgestellt u. s. w.
+
+Gleichwohl bezweifelt niemand, daß ſie dabei ihr Verhältniß zum Chriſtenthum gewahrt und nicht aufgehört haben, fromme und rechtſchaffene Chriſten zu sein.
+
+Wenn nun der Bauer in seinem kritischen Werk auf das Selbstbewußtſein provocirt und dieses zum Prinzip seiner Kritik macht, so ist es in dieser allgemeinen Bestimmung allerdings zunächst der Ausdruck für die menschliche Thätigkeit der Verfaſſer der Evangelien; aber dieß Selbstbewußtsein ist nicht ein solches, welches das Gottesbewußtsein der heiligen Schriftsteller nothwendig ausschlösse oder wodurch der Antheil des heiligen Geistes an ihren Schriften geleugnet wäre;
+
+denn aus derselben Philoſophie, zu der er [p. 72] sich hält, muß er wissen, was viele Theologen, die den Schein der Rechtgläubigkeit oder Frömmigkeit haben wollen, nicht erkannt haben, daß das Gottesbewußtſein die Wahrheit des Selbstbewußtseins ſei. Als Kritiker hat er nicht die Aufgabe, diese Seite besonders hervorzuheben, sondern sich vorzugsweise an den menſchlichen Ursprung der Schrift zu halten.
+
+Geht er an dieser Seite soweit, auch Widersprüche eines Evangelisten mit dem andern oder mit sich selbst zu behaupten und von Ungeschicktheiten derselben zu reden, so geschieht es doch nicht im frivolen Sinn und ist nicht ohne Beispiel.
+
+Denn wenn nach Schleiermacher die
+
+Evangelien aus einzelnen kleinen Aufsätzen und Zettel: chen, die ſchon im Umlauf waren, zuſammengeseßt ſind, so kann die Redaction oder Compilation kaum anders, als mehr oder weniger geschickt ausgefallen sein.
+
+Welchem Kritiker der neueren Zeit ist es zum Verbrechen gemacht worden, wenn er gesagt hat, hier oder da ſei in den Evangelien ein Geschichts oder Gedächtnißfeh:
+
+ler anzutreffen? Schon Hugo Grotius durfte es sagen; so wird man es auch wohl dem Licentiaten Bauer ver zeihen müssen und die größere Aufmerksamkeit darauf verwenden, ob es wahr ist, d. h. ob es richtig bewiesen ist.
+
+Seine kritische Hypothese vom Ursprung der drei ersten Evangelien ist wenigstens eine solche, welche ſich neben die vorhandene Eichhornsche von einem Urevangelium, neben die ſchon genannte Schleiermacher: sche Traditionshypothese, ferner neben die Polemik da gegen von Weiße und die Mythushypothese von Strauß mit vollem Recht stellen kann und jedenfalls wichtig und beachtenswerth genug, um von andern, die es ver mögen, widerlegt zu werden.
+
+Sind nach ihm die drei
+
+Evangelien aus den religiösen Anschauungen der Ge [p. 73] meinde hervorgegangen, deren Werkzeuge die Verfasser sind, welche sie in künstlerischer Freiheit aus dem Selbstbewußtsein der Gemeinde producirten, so ist hiemit bis jezt weder über die Zeit, wann ſie entstanden ſind, noch über die eigentlichen Verfasser etwas bestimmt und die Hypotheſe enthält ſoweit keinen Widerspruch gegen die bisherigen, traditionellen Annahmen.
+
+Wie man nun auch über den Werth einer solchen Hypothese denken mag, so ist doch klar, daß das Recht, eine solche vorzutragen, wie der Bauer es versucht hat, mit keinem Lehrartikel der protestantischen Kirche streitet und der Glaube der christlichen Kirche dadurch nicht angefochten
+
+Wenigstens wird man, worauf es als die Hauptsache ankommt, nicht behaupten können, daß irgend et was Unchristliches darin liege, zu behaupten, daß die erste Christengemeinde nicht ohne allen Antheil an der Entstehung ihrer Evangelien gewesen und daß diese viel mehr weit mehr als nur Privatschriften ihrer Verfasser gewesen. 2) Bei der allgemeinen Aufstellung und Behauptung seines Prinzips bleibt indeß der Bauer nicht ste hen, sondern er löset daran zunächst die vorhergegangenen Hypothesen auf und macht sodann von seinem kritischen Grundsatz auch die Anwendung auf den Inhalt der Evangelien.
+
+In beiden Beziehungen rühmet er sich der Consequenz und des höchsten Ziels, welches er auf diesem Wege erreicht habe, nicht bedenkend, wie ſo oft die Strenge der Consequenz erst die Falschheit des Prinzips, welches darin concret erscheint, zur Klar: heit bringt.
+
+Das ihn zu dieſem Ziel Fortbewegende ist die Ueberzeugung, daß die Form der evangeliſchen Darstellung auch den Inhalt nicht unberührt gelaſſen und dieser sowohl, als jene, das freie Erzeugniß des schöpfe:
+
+[p. 74] rischen Selbstbewußtseins sei.
+
+Hierin geht er soweit, daß er in einen einſeitigen Spiritualismus verfällt, der die Natur der Wahrheit, die auch ihre Wirklichkeit nothwendig macht, verkennt und das Geſchichtliche ohne Bedenken einer allgemeinen Kategorie zum Opfer bringt.
+
+Ihm steht eben so einseitig eine sogenannte blos historische Theologie gegenüber, die man auch die gez dankenlose nennen kann, weil sie nichts als Buchstaben und Historien hat, nur mit äußerlichen Reflexionen darüber und allerlei Gefühlen dabei.
+
+Es ist wohl zu bedenken, daß die eine Seite gerade soviel werth Man kann viel Einzelnes von ist, als die andere. den Bestandtheilen des biblischen Inhalts nennen, was im Feuer der Bauerſchen Kritik daraufgeht und aufbrennt. Man kann dadurch Schrecken verbreiten und zum Löschen Hülfe rufen.
+
+Man sollte aber vor allem der Einseitigkeit, Halbheit und Heuchelei gedenken, womit die Vertheidiger des biblischen Buchstabens in den beiden vorhandenen Partheien der Rationalisten und Supernaturaliſten diese Wendung der Kritik herbeigeführt und veranlaßt haben.
+
+Freilich steht wohl zu ers warten, daß sie für den Augenblick ihren alten Streit mit einander ruhen laſſen und sich gegen den Bauer gleich feindselig verhalten und zu ſeiner Unterdrückung brüderlich sich vereinigen werden.
+
+Denn sie haben beide nichts weiter und sind völlig verarmt und abgebrannt, wenn ihnen dieser Boden des Buchstabens entzogen oder unter ihren Füßen wankend wird. Indem der Bauer mittelst seiner Polemik gegen die besonders, die er die Apologeten nennt, zu ſeinem Ziel fortschreitet, iſt mindeſtens seine Schuld zur Hälfte die ihrige; ihre Willkührlichkeiten und Ungereimtheiten, in denen ſie Rationalistisches und
+
+Supernaturaliſtiſches durch [p. 75] einander miſchen, je nachdem sie das eine oder andere in ihrer Noth nöthig haben, sind es, die ihn bis an welchem die Vernunft zu diesem Punct treiben, ſich wenigstens das Zeugniß zu geben ſucht, nicht mehr mit ſich ſelbſt im Widerspruch zu ſein. Wer weiß nicht, wie selbst solche Theologen, wie Olshausen u. a., welche für unbedingt rechtgläubig gelten, von der Lust und Sucht der natürlichen Erklärung der Wunder inficirt ſind, wie oft ſie Lücken, Widersprüche in den Evangelien entdecken und alle von der Vorausseßung ausgehen, daß vieles in den Berichten auf Rechnung der Berichterstatter komme, welches ebenfalls der Hauptgedanke der Bauerschen Kritik ist.
+
+In der Vorrede zu seiner Kritik des Johannes führt Bauer an, wie Lücke von den längeren Reden in diesem sagt: „ihre absolute, wörtliche Authentie müsse aufgegeben wer den"; in dieſen, wie in den schwierigen Reden „habe Johannes überall seine Hand dazwischen“ und es ſei dieß Evangelium „in der Auffassung und Darstellung Christi durchaus individuell“. Wenn die, welche sich besonders kirchlichen, frommen Sinnes rühmen und in ihrer falschen Sentimentalität über die „Tyrannei des Begriffes“ (d. h. des Denkens) klagen, so rationa: listisch reden dürfen, so hat auch der Bauer ein Recht, an das, was sie selbst ihm darbieten und einräumen, anzuknüpfen und es zu bestimmterem Resultat fortzuführen; denn erst, wenn ein Prinzip vollständig auslegt, was in ihm enthalten ist, kann man beurtheilen, was man daran hat; statt es zu bemänteln und zu beschönigen oder es mit heterogenem Inhalt zu er:
+
+füllen, wie es so viele aus Klugheit thun, spricht es der Bauer ehrlich aus. Ein Hauptverdienst von ihm ist, die Schwächen und Blößen der neuern Exegeten [p. 76] und Kritiker aufgezeigt und nachgewiesen zu haben, wie sehr sie dadurch mit dem Christenthum in Widerspruch stehen.
+
+Konnte z. B. selbst. Schleiermacher die Versuchungsgeschichte nicht für eine äußerlich vorgegangene Geschichte, auch nicht für einen innern Kampf Christi mit ſich ſelbſt, ſondern nur für eine von Chriſto ſeinen Jüngern erzählte Gleichnißrede erklären und bei dieser Gelegenheit die Vorstellung vom Teufel haltungslos nennen, so wird es dem Bauer doch wohl erlaubt sein, jenes der Person Christi unwürdig zu nennen und zu zeigen, wie niemand sich selbst zum Gegenstand einer Parabel machen kann, wie das nur erdichtete Personen betreffen könne u. s. w. Können nun solche Behauptungen, sowohl in Schleiermacher, als in den oben genannten Partheien noch mit dem Prädicat der Christlichkeit bestehen, so wird man es auch dem Bauer nicht absprechen, wenn man ihn in diesem Zusammenhang und unter diesen auch seine Wer Verirrung mildernden Umständen betrachtet. kann es z. B. übersehen, wie bedeutend ſowohl durch seine kritischen Schriften, als auch durch seine dialec tischen Auflöſungen des Dogma Schleiermacher dem Bauer vorgearbeitet und wie dieser nur, was jener nur halb fertig gemacht, fortgesezt und vollendet hat? Ueberhaupt hat Bauer die Kritik angefangen und wenn man ihn verwirft, so muß man, was im innigen Zusammenhang damit steht, die lange Reihe aller Kritiker wenigstens seit 100 Jahren, gleichfalls verwerfen.
+
+Es wäre sehr hart, einem Individuum aufzubürden, was, wenn es eine Schuld ist, die Schuld zugleich eines ganzen Zeitalters iſt. 3) In einer gerechten Würdigung des kritischen Werks von Bauer wird man endlich auch das viele
+
+[p. 77] Richtige, Vortreffliche und Christliche nicht übersehen dürfen, woran es reich ist.
+
+Ich rechne dahin zunächſt die trefflichen Widerlegungen der obigen Apologeten in einzelnen Puncten und den Scharfsinn, womit er die Schwächen und Halbheiten derselben aufgedeckt hat, wiewohl ich den Ton, worin nicht billigen kann.
+
+es mitunter geschehen,
+
+Nicht minder ist von Wichtigkeit, was er sowohl im Ganzen, als Einzelnen gegen die Straußische Mythushypotheſe vorgebracht hat, obwohl die Widerlegung Vielen zu theuer erkauft scheinen wird. Von allem Uebrigen führe ich nur noch an, was er über den Stern der Magier gesagt hat.
+
+Er bemerkt zuerſt, wie Kepler von einer merkwürdigen Planetenconſtella: tion um die Zeit der Geburt Christi gesprochen und Olshausen sich darauf berufen hat, wie Neander hierauf die " Genauigkeit " des Berichts aufgegeben und gesagt hat, die Magier hätten „ursprünglich " von ei ner Constellation gesprochen.
+
+Bauer erklärt es hierauf für unmöglich, dieß Opfer zu bringen, da die wunderbare Beschaffenheit des Sterns von allen Theilen des Berichts vorausgesezt werde und es sei daher zu bleiben bei dem, was Calvin gesagt hat, daß nichts auf natürliche Sterne bus stellis) .
+
+passe (nil
+
+Lange sagt dann:
+
+convenit naturalies handle sich hier nur um ein einziges Freudenfeuer in den Höhen, um ein leuchtendes Signal, mit welchem die Erde in der Mitte ihrer Weltgeschichte und dem Weltall, dem sie so innig angehört, ſalutirt wird.
+
+Dagegen sagt Bauer:
+
+geh nur, uns bestichst du mit deinem Zahlpfennige nicht. Wir wollen dir eine Lichtmaſſe von Sternen zeigen, wogegen deine Rakete erblaßt und ungeſehen verpufft. Worte giebst du uns nur!
+
+Sieh aber einmal die leuchtenden Signale, mit welchen die ganze Weltgeschichte [p. 78] vom Anfang an bis zur Erfüllung den Messias ſalu: tirt hat.
+
+Die großen geschichtlichen Helden bis auf den Läufer, die Anschauungen und Ahnungen der alten Religionen, Philosophie und Recht, die Völker: kämpfe: das waren ganz andere Signale, sie waren die einzigen und die einzig würdigen Signale, mit welchen die Geschichte das Christenthum ſalutirt hat, S. 94. Ja ich trage kein Bedenken, zu behaupten, daß wenn man nur den Kern des Buchs ins Auge faßt, daſſelbe auf die Verherrlichung des Christenthums abzweckt und daß dieß das wahrhaft Positive ist, welches schon jezt durch alle Negationen in diesem Buch hindurch bricht. Nur ängstliche Gemüther, welche das Denken vom Glauben, den Geist vom Buchstaben trennen und ausschließen, können die Kraft des christlichen Prinzips, überhaupt, so im Zusammenhang dieses Buchs bezweifeln oder behaupten, daß der Hauptgedanke deſſelben mit einer würdigen Anschauung der Persönlichkeit Chriſti unvereinbar sei. Denn ist wohl der Gedanke, daß das Evangelium in der dreifachen Gestalt seiner ersten Erscheinung das innerste Zeugniß des Geistes der christlichen Gemeinde von sich selbst sei, ein Verbrechen? Sie kann noch jezt nicht anders urtheilen, da sie wirklich darin die seligmachende Wahrheit wiederfindet. Sie urtheilt so auf dem Grunde des biblischen Inhalts selbst, durch welchen wir an allen Seiten vom Buchstaben weg an unſer Inneres verwiesen werden, ob wir daran werden inne werden, daß diese Lehre von Gott sei.
+
+Hierin liegt deutlich genug, daß der substanzielle In halt der Bibel nicht ein uns ursprünglich Fremdes, ſondern unsere eigene innerste Wahrheit sei, daß der menschliche Geist, nach Gottes Bild geschaffen, ein geheimnißvolles Verhältniß zu dieſen ihm in der Bibel ent;
+
+[p. 79] gegenkommenden Offenbarungsinhalt habe, den er im Glauben zu ergreifen und in der Wissenschaft zu des greifen hat, und daß deſſen einzige Heimath nicht der Buchstabe, sondern der in der Gemeinde waltende heilige Geist sei, aus welchem er auch an die Bibel gekommen. Und nur indem und sofern der Geist sich in der Bibel wiederfindet, ist er der freie; seine Freiheit ist, daß er auch in diesem Andern bei ſich iſt und bleibt und auch in diesem Sinne sagt Christus: die Wahrheit wird euch frei machen und:
+
+ich bin
+
+Wahrheit. Nach diesem allen kann ich mich nun über die zweite Frage kurz fassen: ob dem Verfasser nach der Bestimmung der Univerſitäten und der theologi: schen Facultäten insonderheit die licentia docendi ferner zu gestatten ſei. Schon in seinem frühern kritischen Werk über das vierte Evangelium hat der Bauer die Befugniß der Kritik aus dem Prinzip der protestantischen Kirche dar gethan und sich für die Behauptung des Rechts der Gedanken
+
+Lehr- Freiheit auf die bestätigenden
+
+Aussprüche der berühmtesten Theologen, eines Twesten u. a. bezogen.
+
+Im Allgemeinen ist darüber kein Streit, daß die Lehrfreiheit ein unentbehrliches Gut und das theuer errungene Palladium der protestantischen Kirche sei.
+
+Kommt es hingegen zur Anwendung des Prinzips so wird das im Allgemeinen Zugegebene leicht wie:
+
+der zurückgenommen oder so beschränkt und restringirt, daß es keine Bedeutung mehr hat, wie man wohl findet, daß Manche, welche im Allgemeinen für Gedanken, Gewissens, Lehr, Preßfreiheit und alle möglichen Freiheiten sind, im Beſondern und Einzelnen, wo das Mögliche das Wirkliche ist und es mit dem [p. 80] Allgemeinen Ernst werden will, die größesten Schwie: rigkeiten machen.
+
+Von solchen würden Luthers Schriften, durch welche die protestantische Kirche zur Existenz gekommen, am ersten verboten und verworfen werden; ſie würden tauſend Unterschiede der damaligen jezigen Zeit anzugeben wiſſen u. s. f.
+
+Indem
+
+Staatsregierung den theologischen Facultäten die obige Frage vorgelegt, hat sie gezeigt, daß sie am weitesten davon entfernt ſei, zu beſtimmen, was in der Wiſſen: schaft wahr sein und gelten soll.
+
+Hiemit ist von Sei:
+
+ten der Regierung die Lehrfreiheit aufs neue procla mirt und ihr durchaus kein Hinderniß in den Weg gelegt.
+
+Ja ich hege selbst so unbedingtes Vertrauen zu dem Geist und der Weisheit dieses Staats, selbst, wenn, was ich für unmöglich halte, alle Facul täten gegen den Bauer entschieden und auf seine Re motion antrügen, er weiser sein würde, als sie alle und sich nicht zu einem Mittel für solchen Zweck her: geben würde.
+
+Die Erfahrung in andern Ländern hat es wohl genugsam gezeigt, welch ein unzulängliches
+
+Mittel, den Gedankenlauf zu hemmen, ein Bücherver: bot oder ein dem Urheber bereitetes herbes Loos sei, und daß, wenn einer um ſeiner wiſſenſchaftlichen Jrrthümer und Irrlehren willen verfolgt und vertrieben wird, alle Vernünftigen und selbst die bisher gegen ihn waren, sich sofort auf seine Seite stellen, wie auch in diesem Lande, nachdem in einigen ausländischen Zeis tungen sich die gewiß falsche Nachricht verbreitet hat, es werde im Preußischen Staat die Hegelsche Philosophie nur noch geduldet und sogar verfolgt, die Macht dieser Philosophie seit Jahr und Tag bedeutend ge wachſen und der Absatz der Werke Hegels erstaunlich gestiegen ist.
+
+Schleiermacher, der, wenn er noch lebte, [p. 81] viele von denen, die jetzt seine Schüler und Anhänger zu sein scheinen wollen, nicht anerkennen würde, dieser muthige, kühne Vertheidiger der Lehrfreiheit, würde gewiß auch der stärkste Vertheidiger des Bauer gewe ſen ſein und ſich nicht den Widerspruch zu Schulden kommen laſſen, es solle die Lehrfreiheit auch nicht Lehrfreiheit sein; er wußte den Standpunct des Chriſten und Theologen zu unterscheiden.
+
+So dürfen wir denn wohl gewiß sein, daß ein Staat, der einst verfolgten Männern, einem Wolf, einem Fichte, eine Freistätte in sich eröffnete, einem theologischen Privatdocenten nicht seinen Katheder entziehen werde. Aber es kommt noch ein anderer Punct in Be tracht, auf den auch in dem Hohen Ministerialerlaß durch den Zusatz: nach der Bestimmung der Univerſitäten und der theologischen Facultäten inſonderheit, hingedeutet ist. Dieser Zusatz kann sich nur auf das be ziehen, was im theologischen Facultäts- Statut als Bestimmung der theologischen Facultät angegeben ist.
+
+Da heißt es §. 1 .: Die theologische Facultät hat die Bestimmung, nach der Lehre der evangeliſchen Kirche sowohl überhaupt die theologischen Wissenschaften fort zupflanzen, als insbesondere durch Vorlesungen und andere academische Uebungen die sich dem Dienst der Kirche widmenden Jünglinge für dieſen tüchtig zu maDa ist die Fortpflanzung des theologischen Wissens zuerst genannt, hierauf die Tüchtigmachung der Das eine ist das Jünglinge für den Kirchendienst. chen.
+
+Innere, das andere das Aeußere in der Thätigkeit der theologischen Facultät. Jenes ist das Theoretische oder die Beschäftigung mit der Wissenschaft, dieses das Practische oder der Einfluß derselben auf den Zustand der
+
+[p. 82] Kirche.
+
+Vorausgesezt ist hiebei, daß das Zweite nur durch das Erstere geschehen soll; denn nur so, daß ſie das theologische Wiſſen haben und es aufs genaueſte damit nehmen, können sie durch dasselbe der Kirche dienen und ihr die nöthigen Werkzeuge zubereiten.
+
+Es hat sich aber längst eine andere Ansicht gebildet, welche umgekehrt auf das Zweite den höchsten, auf das Erstere den geringeren Werth legt, der das Nüßliche das Höchste, und das sogenannte Practische der Maaßſtab ist, wonach das Theoretische und dessen Werth zu be stimmen sei.
+
+Erst wenn die Erkenntniß der Wahrheit an und für sich nichts mehr gilt und der Zweifel ſelbſt an der Erkennbarkeit derselben sich zum Ariom steigert, kann eine solche Ansicht entstehen.
+
+Dieß Ariom schreibt sich nicht aus dem Christenthum, sondern aus der Kantischen Philosophie her und ist von allen denen utiliter acceptirt, denen mit der Vorstellung, daß die Wiſſenſchaft nur zu dienen habe, ſelber am meisten gedient war.
+
+In Wahrheit verlegt und erniedrigt nichts so sehr die Wissenschaft, als wenn man sie nur des äußerlichen Nußens wegen sucht; erst das Theoretiſche iſt das wahrhaft Practiſche; das Unerkannte, das Unerkennbare, das Vorurtheil hat nicht das Recht, prac tisch zu sein. Man mag die Ansicht in noch soviel schöne Worte kleiden von kirchlichem Sinn, kirchlichem Leben u. s. f., welches das Alles Bestimmende sei, so bleibt sie immer unter der Würde der Wissenschaft. Die göttliche Wahrheit, deren Erkenntniß die Wissen: schaft ist, kann nicht eine dienende Magd sein, son: dern ist die Herrin im Hauſe. Was der Welt noth thut und womit auch der Kirche gedient ist, das ist uneigennützige rücksichtslose
+
+Erkenntniß
+
+[p. 83] Wahrheit; dadurch, daß sie ihren innern Reichthum auslegt und die Welt erleuchtet, dienet sie ihr, wie die Schönheit durch ihre Erscheinung, auch absichtslos. Zu solchem Zweck muß sie dann aber die Jugend ſelbſt auch durch das Meer der Irrthümer führen; denn der wäre gewiß ein schlechter Theolog, der es nur mit baaren, blanken Wahrheiten zu thun haben wollte.
+
+Verum index sui et falsi.
+
+Es ist die innerste Natur der positiven Wahrheit, daß sie, um zu sich selbst zu kommen, in der Wiſſenſchaft sich durch alle ihre Negationen hindurchbewegt; sie selbst ist es, die das thut und ihre Negation ſeßt und erfindet, wenn sie noch nicht erfunden ist.
+
+Für die Erkenntniß der Wahrheit hat daher auch der Irrthum eine große Bedeutung und eine ihrer wesentlichsten und schwierigsten Aufgaben ist, nicht ihn wegzuwerfen, sondern vielmehr des Bruchtheilchens der Wahrheit, das er noch in sich hat, sorgfältig zu schonen und es aus ihm herauszuschälen. Mit allgemeinen Redensarten und so im Bausch und Bogen eine Denkart, wie die Bauersche zu verdam: men und sie für nuglos, ja für schädlich in Bezug auf die christliche Kirche zu erklären, ist leicht geschehen; wäre sie aber ganz ohne alles Verhältniß zur Wahrheit, so würde sie durch ſich ſelbſt in ſich zerfallen, sich selbst widerlegen, ja nichts ſein, und es bedürfte alsdann keiner großen Sorgen um die Erhaltung der christlichen Kirche gegen sie.
+
+Solch eine Widerlegung des Irrthums ist selber ein Irrthum.
+
+Solche fleischliche Sicherheit möchte gern glauben machen, ſie ſei für sich unbesorgt, nur nicht für andere, für den ein fachen Christen und die ungewahrſame Jugend. Was denn zunächst jene betrifft, so werden sie, je christlicher [p. 84] sie gesinnt sind, sich auch bescheiden, in diesen Dingen nicht competent zu sein; die Wiſſenſchaft gehört nicht vor das Forum der Popularität und hat am wenig sten ihren Maaßstab daran. Was aber die liebe Jugend betrifft, die durch die Wissenschaft den Weg zum Kirchendienst nehmen will, so fodert sie von uns auch zu diesem Zweck, ihr nichts vorzuenthalten und sie nicht für so unmündig und unfähig zur Erkenntniß der Wahrheit zu halten, daß sie nicht mit eigenen Aus gen zu sehen und das Wahre vom Falschen, zumal unter unserer Anleitung, zu unterscheiden vermöchte.
+
+Mit den Irrthümern der Zeit nicht gehörig bekannt geworden, gewährt sie uns keine Sicherheit, daß sie nicht selbst auf solche und noch viel ärgere Gedanken ver fällt und sie alsdann noch dazu für etwas Neues aus: giebt; ſchon zur hiſtoriſchen Bildung der Jugend ist es nöthig, ſie vollſtändig darin einzuweihen. Was aber würde vollends diese edle, wahrheitsbegierige Jugend von uns denken, wenn wir jemals in Bezug auf eine bestimmte theologische Denkart den Rath zu ihrer gewaltsamen Unterdrückung, die ohnehin weder eine Widerlegung, noch Verhinderung derselben, sondern nur eine persönliche Strafe und Verfolgung wäre, gegeben hätten, wenn auch in der guten Absicht, den Flor der Kirche dadurch herbeizuführen? Wahrlich, auf solchem Wege führt sich der Flor der Kirche so wenig herbei, als durch die lahmen und geistlosen Kategorien vom unmittelbaren Bewußtsein, kirchlichen
+
+Sinn und Leben, Herzlichkeit u. s. f., sondern nur durch die Macht des Gedankens und der Wahrheit und das unendliche Vertrauen zu ihr.
+
+Noch muß ich schließlich eines Umstandes erwäh [p. 85] nen, der bei der Frage:
+
+ob dem Bauer die licentia docendi zu entziehen sei, von Wichtigkeit ist.
+
+Wie oben gezeigt worden, daß er innerlich durch die fal ſchen Schritte seiner Gegner zu dieſem kritischen Extrem hingedrängt worden, so muß ich dasselbe auch äußerlich von ihm behaupten. Vom Anfang seiner Docentenlaufbahn an hat sich der Bauer als ein hoffnungsvoller, sittlich unbescholtener, scharfsinniger und talentvoller Mann gezeigt. Er hat dann durch mehrere Schriften die unleugbarsten Beweise von vielumfaſſender, auch philosophischer Bildung gegeben, was nur in einer Zeit, in der es als eine Vollkommenheit gilt, etwas nicht zu wiſſen, als eine Unvollkommenheit erscheinen kann.
+
+Außerdem hat er fortwährend einen Kreis von Zuhörern an der Universität gefun den. Gleichwohl hat er sich, selbst zu einer Zeit, wo er noch ganz rechtgläubig war, niemals der Gunst eis ner Empfehlung bei der vorgeseßten Behörde zu ers freuen gehabt; denn was ich in dieser Beziehung wies derholt gethan habe, rechne ich für nichts und ist auch ohne wesentlichen Erfolg geblieben.
+
+Wenn nun ein
+
+Mann von seinem Geist, Talent und Reichthum an Kenntnissen die schmerzliche Erfahrung macht, sich stets und ohne Unterlaß zurückgeseßt zu ſehen, indeß er er: leben muß, daß die entschiedenste Mittelmäßigkeit vor ihm den Vorsprung gewinnt, so wird es wenigstens begreiflich, wie die Säure des Unmuths und die Bitterkeit, von der in ſeiner leßten Schrift deutliche SpuEin edren sind, sich in seiner Seele ansetzen muß. les Gemüth erträgt den Druck ſolcher Verhältniſſe nur bis zu einem gewiſſen Grad; es wird wider Willen gezwungen, eine falsche Ansicht der Welt und des Le [p. 86] bens zu fassen und sich gegen die, welche sich nur als seine Feinde zeigen, in Harnisch zu ſehen. Aus diesen Kränkungen, die er erfahren hat, erkläre ich mir viel in seinem Buch; die Geringschätzung gegen die Theo: logen ist so groß bei ihm, daß er sich fast zu schämen scheint, noch ein Theolog zu sein oder zu heißen.
+
+Er nennt sie kurzweg Theologen, wie wenn es der Bez griff der Theologie wäre, gegen die Wahrheit zu ſein, und weil er die Philosophie von ihnen verachtet sieht, so soll nun die Philosophie Alles in Allem ſein. Dieſe ſeine Bücher sind zum Theil Werke schrieben zu seiner Lebenserhaltung.
+
+der Noth, ge
+
+In einer sorgen:
+
+freieren Lage würde er gewiß von der Vielſchreiberei gern abstehen. Es ist viel an ihm wieder gut zu ma chen, nämlich das, was nicht gut ist.
+
+Ich würde es mir nicht verzeihen, wenn ich es nicht für besser und christlicher halten wollte, ihn, den irrenden Bruder, zu heben und aufzurichten, als ihn vollends niederzuſto:
+
+ßen und zu vernichten.
+
+Niemand wird das für eine
+
+Billigung seiner Irrthümer ansehen.
+
+Daß seine Priz vatdocentenschaft aufhören möge, kann ich nur wünſchen; ihn in dieser untergeordneten Stellung nur zu belaſſen, wäre nicht viel beſſer, als ihn daraus zu verz stoßen. Ihn selbst mit Unterſtüßung nur aus dem Uni verſitätsleben entfernen, wäre nicht verschieden von eiź ner Strafe, wozu durchaus kein Grund vorhanden. Andererseits da er selbst bereits seinem theologischen Character freiwillig entſagt hat, kann ihm die Regie: rung einen solchen nicht aufdringen.
+
+Aber, was sie kann, wahrhaftig mit Ehren thun kann, iſt, ihm eine Professur in der philosophischen Facultät mit ange meſſenem Gehalt zu verleihen. Dieſe Großmuth würde [p. 87] ihn, auch ohne daß es ihm zur Bedingung gemacht würde, bewegen, ſeinen Studien eine ganz andere Richtung zu geben, ihn zu einem brauchbaren Werkzeug der Wissenschaft machen und ihn gewiß für immer zum lebhaftesten Dank verpflichten.
+
+Berlin, am Sten Novbr. 1841.
+
+Gedruckt bei A. W. Schade.
+
+Schelling's
+
+Erste
+
+Vorlesung in Berlin.
+
+15.
+
+November
+
+1841.
+
+Stuttgart und Tübingen. In der J. G. Cotta'schen Buchhandlung.
+
+1 8 4 1.
+
+Meine Herren!
+
+Ich fühle die ganze Bedeutung dieſes Augenblicks, weiß, mich nehme;
+
+was mit demſelben auf könnte ich es mir selbst verhehlen oder wie Ihnen verbergen wollen, was durch meine bloße Erscheinung ausgesprochen und erklärt ist?
+
+an dieser Stelle Gewiß, m.
+
+H., hätte ich nicht die Ueberzeugung, durch meine Anwesenheit der Philosophie einen wesentlichen, einen größern Dienst zu leisten, ja als ich ihr je früher zu leisten im Stande gewesen; so stünde ich nicht vor Ihnen. Dieses also ist mein Glaube: allein ich bin weit entfernt zu erwarten, und kann noch verlangen, weniger daran denken zu dieß auch die allgemeine Meinung über mich sey. Nur so viel hoffe ich zu erlangen, daß niemand mich mit Mißgunst an dieser Stelle sehe;
+
+man mir willig Zeit und Raum gönne zu der ausführlichen Antwort auf das Dic cur hic, die Vorträge zu ich durch die ganze Folge meiner ertheilen im Begriff ſtehe.
+
+Habe ich doch auch gewehrt, gleiche Ziel in der Wiſſenſchaft mit mir zu er≥ andern reichen!
+
+Raum gelassen, keinem
+
+Bin ich in derselben zu etwas gelangt, das werth ist, hier vorgetragen zu werden die Aufmerksamkeit einer Versammlung, wie ſie hier vor mir sehe, in Anspruch zu nehmen, der Weg dazu stand jedem offen, und niemand kann sagen, daß ich ihm durch Eile zuvorgekommen.
+
+Es sind jest vierzig Jahre, da gelang es mir, ein neues Blatt in der Geſchichte der Philosophie aufzuschlagen;
+
+eine
+
+Seite desselben ist jest voll geschrieben; gern hätte ich einem andern überlassen, das Facit, das Resultat derselben zu ziehen, das Blatt umzuwenden, und eine neue Seite anzufangen.
+
+Wenn ich versichere, daß ich die ganze Größe
+
+Schwierigkeit übernommenen
+
+Aufgabe gefühlt, und sie dennoch nicht abgelehnt habe: so spricht sich darin allerdings das Bewußtseyn eines entschiedenen Berufs aus.
+
+Aber ich habe diesen
+
+Beruf nicht mir selbst gegeben, er ist mir ohne mein Zuthun geworden; nun er mir geworden, darf ich ihn auch nicht verleugnen, achten. Lehrer
+
+Ich habe mich noch gering aufgeworfen zum der Zeit, wäre ich ein solcher, so hätte die Zeit selbst mich dazu gemacht, und ich würde mir kein Verdienst dabei zuschreiben, denn was ich für die Philosophie gethan, ich habe es nur in Folge einer mir durch meine innere Natur auferlegten Nothwendigkeit gethan.
+
+Die Umstände nöthigen mich, bei dieſer Gelegenheit von mir selbst zu reden:
+
+Der Mann,
+
+Selbstrühmen ist mir fern. nachdem er das doch eitles der,
+
+Seinige für die Philosophie gethan hatte, für geziemend erachtete, nun auch
+
+Andere frei gewähren und sich versuchen zu laſſen, der, selbst vom Schauplah zurückgezogen, inzwiſchen jedes Urtheil schweigend über sich ergehen ließ, ohne selbst durch den Mißbrauch, Schweigen, der von diesem durch Verfälschungen selbst des geschichtlichen Hergangs der neuern Philosophie gemacht wurde, sich bewegen zu laſſen, es zu brechen; der im Besitz nicht einer nichtserklärenden, ſondern einer, sehnlichst gewünſchte, dringend verlangte wirkliche Aufschlüsse gewährenden, menschliche tigen
+
+Bewußtseyn
+
+Grenzen
+
+ſagen ließ über erweiternden seine gegenwär-
+
+Philoſophie_ruhig es sey mit ihm gar aus, und der dieß Schweigen, ganz und vollständig, nicht eher bricht, als bis eine unzweifelhafte Pflicht ihn dazu auffordert, bis ihm unwidersprechlich klar geworden, jezt ſey die Zeit gekommen, das entſcheidende
+
+Wort zu sprechen: dieſer Mann, m. H., hat wohl gezeigt, daß er der Selbstverleugnung fähig ist, daß er nicht an voreiliger Einbildung leidet, daß es ihm um mehr als um eine vorübergehende
+
+Meinung, als um einen flüchtigen, schnell zu erlangenden Ruhm zu thun ist.
+
+Lästig, das fühle ich, muß ich wohl zum Theil • seyn. Man hatte mich untergebracht, ich war construirt, man wußte aufs genauste, was an mir war.
+
+Nun soll man mit mir von vorn anfangen und einsehen, daß doch etwas in mir gewesen, von dem man nicht wußte.
+
+Der natürlichen Ordnung der Dinge gemäß ſollte statt meiner an dieser Stelle ein jüngerer der Aufgabe gewachsener Mann stehn.
+
+Er komme ich werde ihm mit Freuden den Plaß einräumen.
+
+Habe ich doch so manche treffliche jüngere
+
+Talente bedauert, die ich
+
+Mitteln und Formen aller Orten sich abmühen sah, mit von denen ich wußte, daß sie zu nichts führen können, daß ihnen nichts abzugewinnen sey: wie gern hätte ich sie an mich gezogen, wie gern denen geholfen, die von mir nichts wissen wollten!
+
+Nun ich sehen mußte, daß ich selbst Hand anlegen müſſe, wenn zu Stande kommen sollte, was ich als nothwendig, als gefordert durch die Zeit, durch die ganze bisherige Geschichte der Philosophie erkannte, daß ich für dieses Werk eigentlich aufgefpart worden da, als von mir verlangt wurde, in dieser Metropole der deutschen Philofophie, hier wo jedes tiefer gedachte Wort für ganz Deutschland gesprochen, ja ſelbſt über die Grenzen Deutſchlands getragen wird, wo allein die entscheidende Wirkung möglich war, wo jedenfalls die Geschicke deutscher Philosophie sich entscheiden müſſen, hier als Lehrer zu wirken: da, in einem ſo bedeutenden Moment, und nachdem Gott so lang das Leben mir gefristet, der Philosophie, die der Schutzgeist meines Lebens geweſen, nicht zu fehlen, mußte ich als unabweisliche Pflicht erkennen, und nur dieser Gedanke, diese klare Ueberzeugung allein konnte mich entscheiden.
+
+viel
+
+Anderes stand vor mir, das mich bewegen konnte.
+
+Einem König,
+
+Zwar ich leugne nicht, wenn auch nur kurze Zeit, zu dienen, glorreicher Thron nicht höher erhebt, den ein als er durch Eigenschaften des Herzens und des Geistes erhoben wird, dem längst meine Verehrung gewidmet war, ehe der königliche Purpur ihn schmückte;
+
+das Land und Volk, dessen sittlicher und politischer Kraft jeder echte Deutsche von Kindheit an zu huldigen gewöhnt, und durch die letzten, ewig denkwürdigen Ereignisse gelehrt worden:
+
+auf's neue zu huldigen
+
+Stadt, die zuerst genannt wird, wenn von den Sitzen der Wiſſenſchaft und immer fortschreitenden Bildung in Deutschland die Rede ist, die zwar
+
+Waffer nicht von jedem ein großes mächtiges leichten Hauch bewegt wird, und auch wohl zuweilen retardirend gewirkt hat (ich erinnere an die Zeit, wo bereits Kant's Philosophie in ganz Deutschland, nur nicht in der Hauptstadt ſeines
+
+Vaterlandes Wiederhall gefunden), die aber dagegen auch das einmal erkannte Tüchtige mit Macht ergreift und fördert: sodann dieser Kreis von Männern der Wiſſenſchaft, den vornehmsten Zierden dieser Stadt, unter denen ich viele, zum Theil von Jugend auf, mir befreundete, andere längst hochverehrte Männer wußte, mit denen vereint zu leben, vereint zu wirken ich jeder Zeit mir zur Freude, zum Glück gerechnet hätte: endlich dieſe Jugend, von der bekannt ist, daß sie dem Ruf der Wissenschaft zu folgen gewohnt ist, daß sie, wenn ihr ein würdiges Ziel vorgehalten wird, vor Schwierigkeiten nicht erschrickt, sondern wo ihr nur die Spur und Fährte echter Wissenschaft gezeigt ist, freudig auf den Weg. sich stürzt und selbst dem Lehrer voran eilt dieß alles, m. H., waren Anziehungskräfte von großer, ja fast unwiderstehlicher Gewalt, aber dieß alles, so mächtig es war, hätte doch andern Betrachtungen weichen müſſen, die so nahe liegen, daß ich sie eben darum nicht habe.
+
+anzuführen nöthig
+
+Nur erst als ich in der ohne alles Zuthun mir gewordenen Aufforderung ein Gebot erkennen mußte, dem ich widerstreben nicht dürfte, könnte, ohne meinen letzten und höchsten Lebensberuf zu verfehlen: da war ich entschlossen, und so trete ich denn auch entſchloſſen und mit der Ueberzeugung unter Sie, daß, wenn ich je etwas, es sey viel oder wenig, für die Philosophie gethan, ich hier das Bedeutendste für sie thun werde, wenn es mir gelingt, sie aus der unleugbar schwierigen Stellung, in der sie sich eben befindet, wieder hinaus zu führen in die freie, unbekümmerte, von allen Seiten ungehemmte Bewegung, die ihr jetzt genommen ist: denn diese Schwierigkeiten, mit denen die Philosophie zu ringen hat, sind offenbar und lassen sich nicht verheimlichen.
+
+Noch nie hat sich gegen die Philoſophie eine so mächtige Reaction von Seiten des Lebens erhoben, als in diesem Augenblick. daß die Philoſophie bis
+
+Dieß beweist, zu jenen
+
+Lebensfragen vorgedrungen ist, gegen die es keinem erlaubt, ja möglich ist, gleichgültig zu seyn.
+
+So lange sich die Philosophie in ihren ersten Anfängen oder auf den ersten
+
+Stufen ihres Fortschreitens kümmert sich niemand um sie, der befindet, nicht selbst
+
+Philosophie zum Geschäft seines Lebens gemacht hat.
+
+Alle Andern erwarten die Philosophie bei ihrem Ende, für die Welt erlangt sie erst Wichtigkeit durch ihre Resultate.
+
+Nur tiefe
+
+Unerfahrenheit indeß könnte sich einbilden, daß die Welt bereit sey, jedes Resultat, das man ihr als Ergebniß gründlicher und ſtrenger Wissenschaft versichert oder darstellt, jedes Resultat ohne Unterschied sich auflegen zu laſſen.
+
+Wäre dem so, so müßte sie nach Umständen z. B. auch einer wesentlich unsittlichen, oder selbst die Grundlagen der Sittlichkeit in sich aufhebenden Lehre sich unterwerfen.
+
+Dieß erwartet aber niemand von ihr und es ist noch kein Philosoph erfunden worden, der ihr dieß zugemuthet hätte.
+
+Sie würde sich nicht damit abweisen lassen: sie verstehe die Principien nicht, nicht den künstlichen und verwickelten Gang der Beweise, sondern ohne nach diesen sich umzusehen würde sie behaupten, daß eine Philosophie, die zu solchen Resultaten gelangt sey, auch in ihren Principien nicht richtig seyn könne. Was römische Sittenlehrer vom Nützlichen gesagt:
+
+Nihil utile nisi quod honestum, müſſe auch von dem Wahren gesagt werden.
+
+Was nun aber in
+
+Bezug auf das Sittliche jeder zugesteht, das´muß auch von allen anderen, menschliche Leben zusammenhaltenden Ueberzeugungen, also vorzüglich von den religiösen gelten.
+
+Keine Philoſophie, die auf sich etwas hält, wird zugestehen, daß sie in Irreligion ende.
+
+Die
+
+Philosophie befindet sich nun aber grade in der Lage, daß sie in ihrem Resultat religiös zu seyn versichert, und daß man ihr dieß nicht zugiebt, namentlich ihre Deductionen christlicher läßt.
+
+Dogmen nur für
+
+Blendwerk gelten
+
+Dieß sagen selbst einige ihrer getreuen, oder ungetreuen Schüler.
+
+Wie es sich verhalten möge, ist vorerst gleichgültig:
+
+genug daß der Verdacht erregt worden, die Meinung vorhanden ist.
+
+Das Leben behält Recht, und so droht
+
+Seite wirklich aber am denn zuleht
+
+Philosophie
+
+Ende immer dieſer selbst
+
+Gefahr.
+
+Schon stehen sie bereit, die gegen eine bestimmte
+
+Philosophie zu eifern vorgeben, aber im Grunde alle Philoſophie meinen und in ihrem Herzen ſagen:
+
+Philosophie soll überhaupt nicht mehr seyn.
+
+Auch ich bin hiebei nicht unbetheiligt, denn der erste Impuls zu dieser Philosophie, die nun so religiösen Resultate übel allgemein wegen ihrer angesehen wird, ist, wie man dafür hält, mir ausgegangen. bei benehmen?
+
+Wie werde nun ich mich da-
+
+Gewiß, ich werde keine Philosophie von Seiten ihrer letzten Ergebniſſe angreifen, was ohnedieß nicht leicht ein philoſophiſcher, die ersten Begriffe zu beurtheilen fähiger Mann thun wird.
+
+Zudem ist es bekannt genug, ich gleich von vorn herein mit den Anfängen jener Philosophie mich wenig zufrieden und nichts weniger als übereinstimmend erklärt habe. gemäß möchte man denken,
+
+Demich werde mir zum
+
+Hauptgeschäft machen, jenes Syſtem zu bestreiten, deſſen Resultate eine solche Aufregung gegen PhiSo ist es nicht,
+
+Vermöchte ich nur dieses, so wäre ich losophie hervorgebracht haben. m. H.
+
+nicht hier; so gering denke ich nicht von meinem
+
+Beruf.
+
+Ein solches unerfreuliches Geschäft überlaffe ich gern andern.
+
+Unerfreulich nenne ich es;
+
+denn es ist schon immer traurig, etwas, das mit besonderer Energie zusammengefügt worden, von Die geistige und moselbst sich auflösen zu sehen. ralische Welt ist
+
+* in sich so zertrennt, so zur
+
+Anarchie geneigt, daß man froh seyn darf, wenn, wie immer, wenn auch nur für den Augenblick ein
+
+Vereinigungspunkt riger aber iſt, etwas gegeben ist.
+
+Noch trauzu zerstören, wenn man nichts an deffen Stelle zu sehen hat.
+
+Mach' es beſſer! ſagt man mit Recht dem, der bloß tadelt, und eben so Recht hatte ein Mann, den ich aufrichtig bedaure, nicht mehr hier gefunden zu haben, Offenheit sagte:
+
+„ein unter den Lebenden mit lobenswerther
+
+System müſſe man einmal haben, und ein System könne nur durch ein System widerlegt werden, so lang dem bestehenden kein anderes haltbares entgegengesett sey, möge man ihn bei diesem laffen." *)
+
+*) Gans, Vorrede zu Hegel's Philosophie des Rechts. S. XIV.
+
+In dem nun, was er vom System ſagt, gebe ich ihm Recht: Einzelnes thut es allerdings nicht mehr, einzeln (man ist davon überzeugt) kann nichts eigentlich gewußt werden.
+
+Und auch darin hat der=
+
+ſelbige Mann nicht Unrecht, seine Verwunderung zu äußern, losophie, daß der Urheber der Identitäts- Phiwie verlaute, von dem was ihn ausgezeichnet, von seinem Prinzipe, abgewichen sey und in dem „wiſſenſchaftlich undurchdrungenen
+
+Glauben", in der Geſchichte ein Aſyl gesucht habe, unter dem sich seine neue
+
+Philoſophie unterſtelle.
+
+Darüber nur dürfte ich nun meinerseits mich_verwundern, daß der sonst so kluge und einſichtsreiche Mann nicht, eh' er seine Verwunderung an den Tag gegeben, sich erkundigt hat, ob es denn mit dem, was verlaute, auch seine Richtigkeit habe:
+
+denn wenn er lebte, würde er durch die Folge dieſer Vorträge erfahren, wie ganz anders es sich in der Wirklichkeit verhält, als man ihm glauben gemacht.
+
+Also
+
+Polemik, was man gewöhnlich so nennt; als Zweck wird sie nie erscheinen und jedenfalls nur als Nebensache vorkommen.
+
+Allerdings so lehrreich, als ich ihn wünſche, würde dieser Vortrag nicht ſeyn, wenn ich nicht zugleich in die Vergangenheit zurückſähe, den Gang der bisherigen Entwickelung nachwieſe;
+
+allein ich werde dabei weniger bemüht seyn zu zeigen, worin dieser oder jener, als worin wir alle gefehlt, was uns allen gemangelt, um in das gelobte wirklich durchzudringen.
+
+Land der
+
+Hat
+
+Philosophie einer mehr geirrt, so hat er mehr gewagt; hat er sich vom Ziel verlaufen, so hat er einen Weg verfolgt, den die Vorgänger ihm nicht verschlossen hatten.
+
+Nicht um mich über einen andern zu erheben bin ich gekommen, sondern um meinen Lebensberuf bis zum Ende zu erfüllen.
+
+Die Erkenntniß der Wahrheit mit völliger
+
+Ueberzeugung ist ein so großes Gut, daß dagegen, was man sonst Existimation nennt, Meinung der Menschen und alle
+
+Eitelkeit der Welt für gar nichts zu rechnen ist.
+
+Ich will nicht Wunden schlagen, sondern die Wunden heilen, welche die deutsche Wissenschaft in einem langen, chrenhaften Kampfe davon getragen, nicht schadenfroh die vorhandenen Schäden aufdecken, sondern sie wo möglich vergessen machen.
+
+Nicht aufreizen will ich, sondern versöhnen, wo möglich als ein Friedensbote treten in die so vielfach und nach allen Richtungen zerrissene Welt. zu zerstören bin ich da, Burg zu gründen, sondern zu bauen,
+
+Nicht eine in der die Philosophie von nun an sicher wohnen foll;
+
+aufbauen will ich auf dem Grunde, der durch die früheren Bestrebungen gelegt ist.
+
+Nichts soll durch mich verloren.
+
+ſeyn, was ſeit Kant für echte Wiſſenſchaft gewonnen worden: wie sollte ich zumal die Philosophie, die ich selbst früher begründet, die Erfindung meiner Jugend, aufgeben?
+
+Nicht eine andere Philoſophie an ihre Stelle ſehen, ſondern eine neue, bis jcht für unmöglich gehaltene Wiſſenſchaft ihr hinzufügen, um sie dadurch auf ihren wahren Grundlagen wieder zu befestigen, ihr die Haltung wieder zu geben, die sie eben durch das Hinausgehen eben dadurch verüber ihre natürlichen Grenzen loren hat, daß man etwas, das nur Bruchstück eines höheren Ganzen ſeyn konnte, selbst zum Ganzen machen wollte dieß ist die Aufgabe und die Absicht.
+
+Es ist eine große Sache darum, daß die Philosophie in dieser Zeit eine allgemeine Angelegenheit geworden ist; selbst die erwähnte Aufregung, dieſe Bewegung der Gemüther, die ich bei meinem Auftreten um mich wahrnehmen konnte, zeigt, die Philoſophie aufgehört hat, eine Sache bloß der Schule zu seyn, daß sie eine Sache der Nation geworden ist.
+
+Die Geschichte der deutschen
+
+Philosophie ist von Anfang verflochten in die Geschichte des deutschen Volks.
+
+Damals, als es die große That in der Reformation
+
+Befreiung vollbrachte, gelobte es sich selbst, nicht zu ruhen, bis alle die höchsten Gegenstände, die bis dahin nur blindlings erkannt waren, in eine ganz freie, durch die Vernunft hindurchgegangene Erkenntniß aufgenommen, in einer solchen ihre Stellung ge2 * funden hätten.
+
+In der Zeit der tiefsten Erniedrigung hielt Philosophie den Deutschen aufrecht, über den Trümmern untergegangener Herrlichkeit hielten Männer von Kraft das Panier deutſcher Wiſfenſchaft hoch empor, um das die beste Jugend` ſich sammelte.
+
+In den Schulen der Philosophen wer gedenkt hier nicht Fichte's, wer nicht -zugleich Schleiermacher's? · fanden manche die Entschlossenheit, in den Kämpfen um Philoſophie den Muth und die Besonnenheit, die sich nachher auf ganz andern Schlachtfeldern erprobte. — Auch später noch blieb Philosophie der Deutſchen Ruhm und Erbtheil.
+
+Sollte nun diese lange ruhmvolle
+
+Bewegung mit einem schmählichen Schiffbruch enden, mit Zerstörung aller großen Ueberzeugungen und somit der Philoſophie ſelbſt? Weil ich ein Deutscher bin,
+
+Nimmermehr!
+
+weil ich alles Weh und Leid wie alles Glück und Wohl Deutschlands in meinem Herzen mitgetragen den, darum bin ich hier:
+
+und mitempfundenn
+
+Deutschen ist in der Wiſſenſchaft.
+
+das Heil
+
+Mit solcher Gesinnung bin ich hergekommen, ohne andere Waffe als die der Wahrheit, ohne auf einen andern Schuß Anspruch zu machen, als den dieſe in ihrer eignen Stärke hat, ohne ein anderes Recht für mich zu begehren, als das ich jedem unverkümmert erhalten wünſche, das Recht der freien Forschung und ungehemmten Mittheilung des Erforschten.
+
+Ihre Mitte.
+
+So gesinnt trete
+
+Ich komme mit dem ganzen Ernst meines Geistes und meines Herzens. Ernst, möge es hören ich in werden!
+
+Mir ist es auch denen Ernst seyn, die mich Mit Liebe begrüße nehmen Sie auch mich mit Liebe auf!
+
+Sie,
+
+Der Lehrer vermag viel, aber er vermag nichts ohne die Schüler.
+
+Ich bin nichts ohne Sie, nichts ohne
+
+Ihr bereitwilliges
+
+Entgegenkommen, ohne
+
+Empfänglichkeit, ohne Eifer auf Ihrer Seite.
+
+Hiemit weihe ich mich dem übernommenen Beruf, ich werde für Sie leben, für Sie arbeiten und nicht müde werden, so lang' ein Hauch in mir ist, und so weit derjenige es verstattet, ohne dessen Willen kein Haar von unserem Haupte fällt, geschweige ein tiefempfundenes Wort, ein echtes unſeres Innern, Wahrheit
+
+Erzeugniß ein Lichtgedanke unseres nach
+
+Freiheit ringenden Geistes verloren geht.
+
+Berlin, gedruckt bei J. F. Starcke.

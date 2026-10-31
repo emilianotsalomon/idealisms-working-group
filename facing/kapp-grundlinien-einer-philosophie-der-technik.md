@@ -1,0 +1,3302 @@
+---
+title: Grundlinien einer Philosophie der Technik
+author: Ernst Kapp
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: a scan of an old print (library or Google Books digitization; the imprint is not recorded in the library); converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: the PDF text layer of a scan, not corrected against the scan; non-word rate 1.2% (wordfreq, the edition's own spellings kept); paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority
+translation: none
+canonical: "[p. N] marks where printed page N begins (a scan of an old print (library or Google Books digitization; the imprint is not recorded in the library)); read from the PDF folios where legible, the others by sequence"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: The Grundlinien einer Philosophie der Technik was written by an author who died in 1896, so before 1931; Ernst Kapp (d. 1896) is long out of protection and the edition (a library or Google Books digitization of an old print, no copyright page) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 1757)
+---
+
+# E. Kapp, *Grundlinien einer Philosophie der Technik*
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+Vorwort Derjenige Zweig der Technik, welchen der Sprach gebrauch als mechanische Technik bezeichnet, ist der hauptsächliche Gegenstand der vorliegenden Schrift. Dass neuerdings empirische Stoffe mehrfach einer philosophischen Behandlung unterzogen worden sind, ist immerhin ein erfreulicher Beleg für die Thatsache, dass Empirie und Speculation das Bedürfniss gegenseitiger Ergänzung haben. So dürfte denn auch eine Philosophie der Technik sich rechtfertigen lassen, so weit es der denkenden Betrachtung gelingen wird, die Entstehung und Vervollkommnung der aus der Hand des Menschen stammenden Artefacte als erste
+
+Bedingung seiner Entwickelung zum Selbstbewusstsein dar zulegen.
+
+Einer annähernd befriedigenden Lösung dieser Aufgabe nach ihrem ganzen Umfange mich nicht gewachsen fühlend, habe ich wenigstens die Grundlegung versucht, die ihren Zweck erfüllt, wenn ihr als brauchbarer Vorarbeit eine zu stimmende Aufnahme zu Theil werden sollte.
+
+Von neuen
+
+Gesichtspunkten wird dabei insofern ausgegangen, als ich ein neues Princip für dahin einschlagende Untersuchungen gefunden zu haben glaube. Zunächst wird durch unbestreitbare Thatsachen nach gewiesen, dass der Mensch unbewusst Form, Functionsbe ziehung und Normalverhältniss seiner leiblichen Gliederung
+
+Vorwort.
+
+auf die Werke seiner Hand überträgt und dass er dieser ihrer analogen Beziehungen zu ihm selbst erst hinterher sich bewusst wird.
+
+Dieses Zustandekommen von Mechanismen nach organischem Vorbilde, sowie das Verständniss des Organismus mittels mechanischer Vorrichtungen, und überhaupt die Durchführung des als Organprojection auf gestellten Princips für die, nur auf diesem Wege mögliche,
+
+Erreichung des Zieles der menschlichen Thätigkeit, ist der eigentliche Inhalt dieser Bogen. Das hierbei beobachtete Zurückgehen auf die ursprüngliche Wortbedeutung und auf den stehenden Sprachgebrauch, der alles Mechanische ausschliesslich auf Machwerke der Hand beschränkt, begegnet einer Begriffsverwirrung, welche, durch Uebertreibungen der mechanischen Weltanschauung veranlasst, die richtige Selbstauffassung des Menschen zum Nachtheil der Gesellschaft alterirt.
+
+Denn der Mensch, welcher wahrhaft an sich und seine Persönlichkeit glaubt, wird einerseits niemals sich selbst mit einem technischen
+
+Gestell verwechseln, und wird andererseits kein Verlangen tragen, dass er, der Mikrokosmos, durch die Verleugnung des Unterschiedes, welcher zwischen dem Makrokosmos und etwa einem zusammengestückten Planetarium besteht, in degradirende Mitleidenschaft gezogen werde.
+
+Im Uebrigen ist der Berechtigung einer mechanistischen Anschauung der Dinge, welche die dem Menschen geläufige Bekanntschaft mit den ihm nahe liegenden, von ihm selbst angefertigten Werkzeugen, wie auch die ihnen anhaftende
+
+Terminologie zur Verdeutlichung organischer Verhältnisse vergleichsweise benutzt, nirgends zu nahe getreten.
+
+Auf Einzelheiten Bezug nehmend, bemerke ich, dass der Gang der Untersuchung dem Zusammenhange der leib lichen Gliederung von den Extremitäten zu den inneren
+
+Vorwort.
+
+Organen folgt und in der auf den Anfang zurückführen den Darstellung des ganzen Organismus eine geschlossene Abrundung erfährt. Hierbei sind die Grenzen des Be reiches, innerhalb dessen sich der geschichtliche Mensch bewegt, nirgends überschritten und Abschweifungen in Ge biete, denen empirische Beweisfähigkeit abgeht, sorgfältig vermieden worden.
+
+Zur Beschaffung des erforderlichen technischen und physiologischen Materials habe ich die mir zur Verfügung stehenden Hülfsmittel möglichst gewissenhaft benutzt und hoffe auf Nachsicht, wenn ich mir die Nichtbeachtung von etwas Wesentlichem habe zu Schulden kommen lassen.
+
+Unter allen Umständen musste mir daran gelegen sein, jeden Vortheil wahrzunehmen, welchen die Anführung solcher
+
+Erfahrungen und Aussprüche bot, aus denen sich irgendwie eine der Begründung meiner Ansichten günstige Folgerung Wie viel ich den speciell für das sechste, zehnte und elfte Capitel benutzten Werken verdanke, davon wird sich der Leser leicht überzeugen. ziehen liess.
+
+In den meisten Fällen habe ich es an Citaten der be treffenden Seitenzahlen nicht fehlen lassen. Eine Ausnahme macht unter andern das im zehnten Capitel vorkommende Buch; sie findet aber ihre Erklärung in der Form einer so ausführlichen Besprechung.
+
+Streng mich an meine nächste Aufgabe haltend, bin ich der Polemik über die wissenschaftlichen Tagesfragen geziemend ferne geblieben. Die dem Text beigegebenen Illustrationen sind nur zum Theil von mir selbst entworfen.
+
+Für die der Verlagshandlung liberal ertheilte Erlaubniss zur Entlehnung von Abbildungen — aus Virchow's Archiv für pathologische Anatomie und Physiologie (Verlag von G. Reimer), Reuleaux's
+
+VITI
+
+Vorwort.
+
+Theoretischer Kinematik (Verlag von Fr. Vieweg & Sohn,
+
+Braunschweig), Wittstein's Schrift über den Goldenen Schnitt (Verlag der Hahn'schen Hofbuchhandlung, Hannover), Küppers' Apoxyomenos (Sammlung gemeinverständlicher wissenschaftlicher Vorträge herausgegeben von R. Virchow und Fr. von Holtzendorff, Heft 191, Verlag von C. Habel [C. Lüderitz'sche Verlagsbuchhandlung ], Berlin), Czermak's
+
+Populären physiologischen Vorträgen (Verlag von C. Czermak, Wien), und aus dem Zeising'schen Werke (Verlag verfehle ich nicht, auch im von J. A. Barth, Leipzig) Namen meines Herrn Verlegers, den geehrten Herren Auto ren und Verlegern meinen verbindlichen Dank zu sagen.
+
+Schliesslich noch die Bemerkung, dass selbst Schriften von mässigem Umfang jetzt häufiger ausser dem Inhalts verzeichniss noch ein Namen- und Sachregister enthalten.
+
+Ich bin diesem Beispiele bereitwillig gefolgt, um die Orien tirung über ein Buch, dessen fester innerer Zusammenhang für den Ausfall der Beurtheilung des Einzelnen mitverantwortlich zu machen ist, auch äusserlich thunlichst zu erleichtern.
+
+Düsseldorf, im Januar 1877.
+
+Prof. Dr. Ernst Kapp.
+
+Inhaltsverzeichniss.
+
+[p. xiv] [p. xvi] [p. 1] 1.
+
+## Der menschliche Leib in der Selbstauffassung.
+
+Der Mensch das Maass der
+
+Geschichte der Physiologie und Weltgeschichte.
+
+Dinge.
+
+Physiologie und
+
+Psychologie. Der Dualismus und seine Berechtigung. Der anthropologische Maassstab im Mittelalter, in der Neuzeit.
+
+Naturforschung und Philosophie in Widerspruch und in Befreundung. Der zu sich selbst zurückkehrende Mensch. Der anthropocentrische Standpunkt. Die organische Entwickelungs theorie.
+
+Das biogenetische Grundgesetz. Aussenwelt.
+
+Die vom Menschen geschaffene
+
+Rückblick.
+
+Die denkende Betrachtung, wie verschieden ihr Gegenstand nach Ausdehnung in Raum und Zeit sein mag, vereinsamt oder verliert sich niemals ins Endlose, sondern kehrt über kurz oder lang auf derselben Bahn dahin Menschen.
+
+zurück, von wo sie ausgegangen war, zum
+
+Mit ihm bleibt ihr Zusammenhang ununterbrochen, und das was sie nach allem Suchen und Entdecken findet, ist immer nur der Mensch, nach des Wortes eigenster Bedeutung der „Denker“ . Hiernach wäre der Inhalt der Wissenschaft ihrem forschenden Verlaufe nach überhaupt nichts Anderes als der zu sich selbst zurückkehrende Mensch. Tritt bei diesem Vorgang das Bewusstsein des Men schen von der Welt ausser ihm unablässig in vergleichende Beziehung zu der Welt in ihm, so erhebt er sich dadurch, dass er im Denken sein Dasein als unterschieden von anderem Daseienden verbürgt weiss, zum Selbstbewusstsein. Was man gegenwärtig unter dem Selbstversteht, KAPP, Phil. d. Technik, [p. 2] dessen der Mensch sich bewusst wird, hat nicht mehr ganz den früheren Sinn. Das Selbst hat aufgehört, der Inbegriff eines nur geistigen Verhaltens zu sein. Eine wunderliche Täuschung geht mit der Einsicht zu Ende, dass der leibliche Organismus der nächste und der eigentliche Bestand des Selbst ist. Vermöchte man von all den Gebilden, welche das lebendige Gliederganze des Menschen ausmachen, abzusehen und den gesammten Stoffmenschen fortzudenken, was Anderes von dem gerühmten Selbst bliebe. dann noch übrig, als ein gespenstischer Geistesmensch? Erst mit der Gewissheit der leiblichen Existenz tritt das Selbst wahrhaft ins Bewusstsein. Es ist, weil es denkt, und es denkt, weil es ist. „Selbst“ , nach der Ableitung des Wortes von si liba, heisst „Leib und Leben“ . Mit dieser seiner Grundbedeutung ist nunmehr vollständig Ernst zu machen.
+
+Nicht hier ein halbes und dort ein halbes, sondern das ganze und einige Selbst ist in concreter Selbst erkenntniss vorhanden.
+
+Diese Weise der Selbstauffassung, unbewusst in den Gemüthern und Geistern vorbereitet, vorhanden als allgemeine Stimmung, ist an dem Punkt angekommen, wo un ter der rastlosen Arbeit des Gedankens sich der richtige Ausdruck einstellt, welcher das Neue fixirt und zum mehr oder minder bewussten Gemeingut werden lässt. So war es namentlich der neuesten Naturwissenschaft vorbehalten, den Nachweis zu liefern, dass der leibliche Organismus für die Beschaffenheit aller Richtungen der mensch lichen Thätigkeit zunächst verantwortlich ist. Naturforschung und Philosophie haben sich, oft auf scheinbar feindlichen Wegen, oft auch die eine in der Rüstung der anderen, bei jeder Verirrung doch immer wieder vom Menschen aus zurecht gefunden.
+
+[p. 3] Der anthropologische Maassstab.
+
+Behauptet der Philosoph, er wisse von keiner Welt als in Bezug auf den Menschen, so bekennt in voller Uebereinstimmung hiermit der Physiolog, sein Beruf sei, zu lehren was im Menschen ist, und der Wahrheit Geltung · zu verschaffen, dass alle Weisheit in der Erkenntniss der Menschennatur liege.
+
+Auf diesem Wege hatte schon das Alterthum sichere Schritte gethan. Indessen ist es ein Anderes, was Dichter und Denker in prophetischer Vorschau verkünden, ein Anderes, was vom Arzt und Naturforscher als Ergebniss einer auf ein deutliches Ziel gerichteten Thätigkeit festgestellt wird. Für Alles, was dort überwiegend unbewusstes Schauen einer allgemeinen Wahrheit ist, bringt hier die bewusste, in die Untersuchung vieles Einzelnen eingehende Arbeit Erklärung und Beweis.
+
+Nachdem die Erforschung des Grundstoffes der Welt lange genug die Philosophie beschäftigt hatte, war durch die Ahnung einer Abstimmung der elementaren Erscheinungen mit der Natur des Menschen das berühmte Wort des Protagoras angebahnt, dass der Mensch das Maass der Dinge sei.
+
+Wenn auch beim Mangel an physiologischem Wissen zu nächst mehr der reflectirende Mensch, weniger der leibliche, gemeint war, so war doch ein für allemal der anthro pologische Maassstab formulirt und der eigentliche Kern menschlichen Wissens und Könnens, in wenn auch anfänglich noch so dunkler Verhüllung, kenntlich gemacht. Ihm verdankt ihren ewigen Inhalt die griechische Kunst, deren Meissel in Götterbildern den Idealmenschen verkörperte, und es ist immerhin bezeichnend, dass für Sokrates die Bildhauerkunst, der er sich in jüngeren Jahren gewidmet, die Vorstufe gewesen ist zu seiner späteren 1* [p. 4] geistigen oder ethischen Plastik, auf Grund der bekannten
+
+Tempelinschrift „Erkenne dich selbst“ ; ja, die ganze Cul tur der Menschheit ist von ihrem Anbeginn an nichts Anderes als die schrittweise Ausschälung und Enthüllung seines Kernes.
+
+Die ersten Versuche nun in der Aufhellung organischer Vorgänge gehören der philosophirenden Naturbe trachtung So befasste sich Aristoteles mit der Betrachtung des Leibes, weniger wie er von aussen ist, als vielmehr wie er als Offenbarungsmittel des Geistes von innen heraus wird. Der Umstand, dass seine Vorfahren Aerzte waren, kam von Haus aus seinen Untersuchungen wesentlich zu statten, und gab ihm die Anregung zu vergleichend anatomischen und physiologischen Arbeiten. Nach ihm waren es fast ausschliesslich Aerzte, welche die physiologischen Experimente und Studien erweiterten, bis in neuester Zeit die übergrosse Anhäufung des Materials zur Theilung der Arbeit mit Naturforschern und Philosophen nöthigte. Die Geschichte dieser Arbeit ist die Geschichte der Physiologie. Versteht man unter Kenntniss des leiblichen Organismus die Kenntniss des Selbst und ist diese Selbst kenntniss und Selbsterkenntniss Grund und Quelle alles übrigen Wissens und Könnens: so liegt hierin mehr als eine Andeutung für die Behandlung der Geschichte der jenigen Disciplin, welche die Bestimmung hat, allen anderen fort und fort den unentbehrlichen Reformstoff zu liefern.
+
+Grosse wissenschaftliche Entdeckungen stehen nicht etwa in nur zufälligem Verbande äusserlicher Gleichzeitig keit mit historisch Epoche machenden Ereignissen, sondern enthüllen sich vielmehr recht eigentlich als deren innere Triebkraft. Es ist dies eine genetische Verwandtschaft, [p. 5] an welcher die Aufdeckungsgeschichte der menschlichen Physis nicht am wenigsten betheiligt ist. Deutliche Belege für diesen inneren Zusammenhang sind unter anderen nächst dem als organische Gliederung und Entwickelung „thätigen Allgemeinen“ des Aristoteles, die Nerven und Gehirnlehre des Galenus; des Paracelsus Grundgedanke vom Makrokosmos; Harvey's „omne vivum ex ovo“ und seine Entdeckung des Blutumlaufes; Pristley's Entdeckung des Sauer stoffes; die Lehre Lavoisier's von der Athmung; die Beobachtungen Galvani’s über die Wirkung der Elektricität auf Nerven und Muskeln; vor allem aber die staunenswerthen Erfolge der mikroskopischen und chemischen Untersuchungen über Nerven und Sinne, an welche sich die gefeiertsten Namen der Gegen wart knüpfen, – lauter so hervorragende Thatsachen, dass sie, in Verbindung mit der Erkenntniss der in der Einheit aller seelischen Functionen sich offenbarenden Einheit der Natur kräfte, als eben so viele Steigerungen der Selbsterkenntniss zu markiren und deshalb als wesentlich mitwirkend beim weltge schichtlichen Process in Betracht zu ziehen sind.
+
+Hier hat die Geschichtsphilosophie noch eine grosse Auf gabe vor sich, bei deren Angriff ihr die Vorarbeiten für „Völkerpsychologie“ von nicht geringerem Nutzen sein werden, als die Ansätze zur Würdigung historischer Thatsachen vom physiologischen Standpunkte, wie sie in vereinzelten Schriften über „Physiologie des Staates“ vorhanden sind.
+
+Psychologie und Physiologie haben lange genug fremd gegen einander gethan, und wie weit auch jene vordem dieser voraus war, sie ist nunmehr von ihr eingeholt worden. Damit nicht genug, werden sogar Stimmen laut, welche verlangen, sie müsse ihr ganz einverleibt werden.
+
+Sicher scheint, dass beide, in einer Verschmelzung begriffen, nicht wie bisher getrennt, sondern zu Einem Laufe vereinigt, in das weite Strombett der Anthropologie mün den werden, um eine höhere Phase des Selbstbewusstseins als „Physiologische Psychologie“ einzuleiten. Diese aber, [p. 6] die keine Auslassung in ihrer Darstellung des menschlichen Wesens duldet, macht dem Schwanken des Persönlichkeits begriffes dadurch ein Ende, dass sie ihn voll und ganz in das Selbstbewusstsein verlegt. Das Selbst ist Person, das selbstbewusste und das persönliche Wesen sind Eins. Der aus Missverständniss der Entwickelungstheorie stammende moderne Thiercultus hat freilich an beiden zu mäkeln, ohne zu bedenken, dass schliesslich eben doch nur Personen den Persönlichkeitsbegriff discutiren können. Dass sich die frühere Auffassung des persönlichen Wesens als einer Zusammenfügung von zwei Bestandstücken in den genannten zwei Disciplinen ihren Ausdruck gegeben hatte, dass Physiologie und Psychologie neben einander hergehen mussten, indem jene zur Naturforschung, diese zur Philosophie zählte, ist ganz in der dualistischen Ordnung des Erkenntnissvorganges. Denn erst dann, wenn durch gesonderte Bearbeitung je einer Seite des Gegen standes das gründliche Verständniss des Einzelnen gesichert ist, wird die Einsicht in den einheitlichen Zusammenhang des Ganzen möglich. Die „Zwei“, die im Widerspruch sich ausschliessen, schliessen im Unterschiede als „Beide“ sich gegenseitig ein. So beruht auf dem Dualismus von jeher die unveräusserliche Form alles Erkennens. Heil und Unheil stiftend und erfahrend hilft der Dualismus ächten und kreuzigen, und, selbst auch gekreuzigt und verbrannt, ist er ebensowohl der ewige Jude der Wissenschaft, wie der göttliche Proteus des Gedankens.
+
+Als Pol und Pol, als Stoff und Kraft von Ewigkeit das Universum im Grossen und im Winzigen constituirend, ist er „der Geist, der stets verneint, der stets das Böse will und stets das Gute schafft ".
+
+Er hetzt die Menschheit in Kampf und Noth, spaltet
+
+[p. 7] Der anthropologische Muassstub.
+
+Kirche und Staat und ist, zwiespältig und beideinig zumal, auch der Spender von Versöhnung, Fortschritt und Ge Wie der Mensch, Zweifüssler der er ist, nur im Wechselschritt von Rechts und Links vom Fleck kommt, nuss.
+
+so ist überhaupt aller Fortschritt nur möglich im dua listischen Wechsel. Und zwar vermeint immer jede Seite des Gegensatzes sich allein im Rechte. Wahr ist, dass jede im Rechte ist, falsch, dass jede es allein ist. Doch je hartnäckiger ihr Anspruch auf alleinige Berechtigung, desto vollständiger das Hervortreten ihres Inhaltes und der Wahrheit, in der sie vor dem jeweiligen Zeitbewusst sein Eins sind.
+
+Centripetale und centrifugale Spannung und was das selbe ist, Deduction und Induction, Idealismus und Realismus, Spiritualismus und Materialismus durchwirken dua listisch die ganze Stufenleiter der weltgeschichtlichen Con flicte.
+
+Der Glanzperiode der deutschen Philosophie folgten schliesslich die neuesten Triumphe der Naturwissenschaft. Nachdem die Geringschätzung seitens jener von dieser in erbitterter Feindschaft, als gälte es „die Erdrosselung der Philosophie“ , erwiedert war, erleben wir es heute, dass beide, Naturwissenschaft und Philosophie, sich einmal wie der die Hand reichen, um geeint zu neuer Wandlung, im fortgesetzten Kampf gegen den alten syllabistischen Wider part des Wissens, die Grundlagen zu befestigen, auf denen sich der Bau einer neuen höheren Weltordnung ankündigt. Ohne Dualismus kommt eine wissenschaftliche Erörterung nicht zu Ende, wenn überhaupt zum Anfang, also auch gar nicht zu Stande. Dem Menschen ist nun ein mal mit Einem Anlauf nicht beizukommen.
+
+Er muss dis cursiv, in successiver Darstellung, bald von der einen, bald [p. 8] von der anderen Seite gefasst werden. Das Operiren, jetzt mit geistigen, dann mit körperlichen Eigenschaften, ist die unvermeidliche Abschlagszahlung in sprachlicher Scheide münze. Damit giebt man der Wissenschaft stillschweigend Credit, dass sie, auch ohne ausdrücklich immer wieder holte Versicherung, darauf bedacht ist, die polaren Beziehungen der Gegenseiten und ihren dialektischen Fluss vor einseitiger Erstarrung zu bewahren.
+
+Diese Auffassung dürfte auch der vorliegenden Arbeit, die sich viel auf einem Gebiete zu bewegen hat, wo Widersprüche und Missverständnisse an der Tagesordnung sind, zu statten kommen.
+
+Auch für uns liegt der anthropologische Maassstab ein für allemal im ganzen Menschen. Nur bei der Untersuchung und in der sprachlichen Mittheilung fällt der Schwerpunkt abwechselnd auf eine von den beiden Seiten, in welchen das Wesen des Menschen zur Erscheinung kommt. In dieser Beziehung war in der Zeit vor Kant die Psyche entschieden bevorzugt. Was die Alten angeht, so ist deren Standpunkt schon durch Protagoras und Sokrates hinreichend gekennzeichnet. Im Mittelalter hat die mystische Denkweise, in welcher die intellectuelle Anschauung als Organ der Erkenntniss vorwaltet, nicht minder die Wahrheit getroffen. So ist nach Eckhart, dem Vater der deutschen Speculation, die Person die ewige Grundform alles wahren Seins und braucht der Mensch nur sich selbst zu seinem wahren
+
+Wesen, seinem ursprünglichen Adel, zurückzuwenden, um des Höchsten theilhaftig zu werden: „Kennte ich mich selber wie ich sollte, so hätte ich die tiefste Erkenntniss aller Creaturen.
+
+Niemand kann Gott erkennen, der sich nicht zuerst selbst erkennt.“
+
+Dazu bemerkt Lasson: „Rüh [p. 9] men sich die Neueren der Voraussetzungslosigkeit ihres reinen Denkens, so haben sie doch die eine Voraussetzung, das Wesen der menschlichen Seele, und diese ist ihnen mit dem alten Meister gemeinsam, der gleichfalls keine andere Voraussetzung gelten lässt.“ Aehnlich äusserte später Leibniz, es werde eine Zeit kommen, wo der hohe Werth einer heiligeren Philosophie, von dem zu sich selbst zurückkehrenden Menschen, werde wieder erkannt werden; wo die Naturforschung von neuem der Verherrlichung des Urhebers der Natur, der in der sichtbaren Welt uns das Abbild der ideellen zeigt, dienstbar sein werde. Mit den Fortschritten der auf die sichtbare Welt des leiblichen Organismus gerichteten Forschungen beginnt denn auch in der Kant’schen Philosophie eine physiologische Grundlegung sich bemerkbar zu machen. Ja, Adolph Fick glaubt sich berechtigt, den Kant'schen Standpunkt in der Philosophie geradezu als physiologischen bezeichnen zu dürfen.
+
+Von da an sucht die Philosophie jedesmal, wenn sie sich in schwindelnde Höhe verstiegen, mit Hülfe des physiologischen Rettungsapparates den festen Grund und Boden wieder zu gewinnen. Dass aber auch auf diesem einzelne Strecken nicht frei von Gefahr und zwar, des Versinkens, sind, beweist die für Philosophie sich ausgehende Lehre von der alleinigen Wahrheit der sinnlichen Handgreiflichkeit. So war unter Anderen auch für Ludwig Feuerbach der Mensch derjenige Punkt, von dem alles Erkennen sowohl ausgeht, wie auf den es hinausläuft; aber nicht der Mensch überhaupt, sondern nur der leibliche Mensch. Denn das Princip in seiner Philosophie, „welche den Gedanken dus dem Stoffe, dem Wesen, den Sinnen, erzeugt, ist der Mensch, [p. 10] ein wirkliches oder vielmehr das allerwirklichste Wesen, das wahre Ens realissimum " , im Sinne radical materia listischer Schroffheit, der Mensch von Fleisch und Blut, der Mensch, der nur ist, was er isst.
+
+War diese Seite der im Menschen gefundenen Maass bestimmung der Dinge bis dahin sehr vernachlässigt ge wesen, so überschoss das hastige Verlangen nach positiver Bekräftigung durch die Naturwissenschaft bei weitem die Linie der Ausgleichung. Naturforschung und Philosophie lenkten nun beide ein. Jene kam auf philosophischem Wege über Bedeutung und Zusammenhang ihrer grossartigen Resultate zum vollen Bewusstsein, diese schöpfte aus dem Borne der Empirie eine Fülle neuer überzeugender Beweiskraft.
+
+Der wiederholten Forderung, dass sich der Mensch vom Menschen aus über die Welt zu orientiren habe, konnte, so lange sie sich auf die Geistesseite beschränkte, nur theilweise genügt werden.
+
+Die volle Einsicht fand sich erst auf physiologischer Grundlage, deren Vertreter sich täglich mehren.
+
+Unter ihnen bemerkt 0. Peschel bei Gelegenheit einer Besprechung des wissenschaftlichen Werthes der Schädel messungen: „Auch dürfen wir nicht staunen, dass mensch liche Erforschung dem Menschen so spät sich zuwendete; denn die letzte und höchste Aufgabe konnte überhaupt erst sehr spät gelöst werden.“
+
+Dem stimmt in Rücksicht auf geologische Fragen Quinet bei: „In gewisser Hinsicht wäre dies der philosophischere Weg, indem wir von uns selbst ausgingen, also von einem Punkte, mit dem wir durch die innigsten Beziehungen vertraut sind.“
+
+So äussert auch Constantin Frantz bei Erwähnung der Resultate der Philosophie positive von Aug. Comte: „Na [p. 11] türlich erscheint ihm zuletzt der Mensch selbst als vor nehmster Gegenstand der Forschung, und da beginnt er mit vergleichender Anatomie und Physiologie; denn Materie ist das Substrat aller Erscheinungen, das Denken gilt ihm als Gehirnthätigkeit. Neben den anatomischen und physiologischen Thatsachen liegen die geschichtlichen Thatsachen.“
+
+Es liegt zu sehr in unserem Interesse, gerade für diesen Punkt noch einige andere Stimmen anzuführen, um zu zeigen, wie sehr dessen Wichtigkeit von den verschiedensten Seiten her betont wird.
+
+E. von Baer sagt: „Der Mensch kann nur messen, indem er von sich selbst ausgeht und sich zum Maasstsab nimmt. So hat er den Raum, so die Zeit abschätzen gelernt.“ Im „Aus land“ heisst es von der Anwendung physiologischer Apparate, dass sie verstatten, so zu sagen, in die Tiefe des lebenden
+
+Körperinnern hinabzusteigen, ja das eigene Ich zu schauen. Jean Paul nennt das Bewusstsein unserer selber den Schlüssel der Welt.
+
+Lazarus Geiger sagt:
+
+Was den Menschen immer und immer wieder am lebhaftesten fesselt, am wärmsten befriedigt, es ist der Mensch.“ Heinr. Böhmer nennt die Physiologie „die teleologische Wissenschaft par excellence“ . Adolph
+
+Fick erklärt das eigene Bewusstsein für den „einzig richtigen und den einzig möglichen Ausgangspunkt des Philosophirens“ . Für diese Selbstschau ergreift auch Ad. Bastian das Wort: „Der vermeintliche Gegensatz zwischen Geist und Körper ver schwindet in der harmonischen Einheit beider.
+
+Die Wissen schaft des heutigen Tages schwillt in vollsaftigem Leben, da der Geist auf seinem natürlichen Boden des Körperlichen wur zelt. Das an dem Busen der Natur genährte Wissen entfaltet seine Knospen auf allen Forschungszweigen und schon breitet der Stamm seine schützenden Schatten, der in der Mitte der
+
+Menschenbrust der Selbsterkenntniss Frucht zu zeitigen ver spricht.“ Der berühmte Weltreisende und Ethnograph lässt in seiner Berichterstattung nie vergessen, dass er bei idealster
+
+Auffassung nationaler Culturzustände und ihrer Ziele doch stets [p. 12] festen Fusses den realsten Grund und Boden, den Erdboden, beschreitet, und dass für ihn realer Idealismus und wahre Selbst erkenntniss untrennbar eins sind.
+
+Aus so übereinstimmenden Ansichten erhellt zur Genüge, wie nachhaltig der Begriff des anthropologischen Maassstabes an Zuverlässigkeit gewonnen hat. Nicht un mittelbar war er vorhanden, sondern auf wiederholt erweiterten Umwegen des Sammelns und Forschens ist er zu Stande gekommen. Der im Denken von sich ausgehende Mensch ist die Voraussetzung des zu sich selbst zurück kehrenden Menschen. So ist das Denken gleich dem Athem holen ein Process ununterbrochenen Einnehmens und Aus gebens.
+
+Allerdings lassen sich stufenhöhere Wechsel längerer Perioden unterscheiden, in denen bald die eine, bald die andere Richtung vorwiegt. Was immer aber die Betrachtung heimbringt, ist in höchster und letzter Instanz der in der ganzen Welt zerstreute Mensch, und was Physio logen und Psychologen ergründen, ist die im Menschen zusammengefasste Natur. Der Mensch holt aus der ganzen Natur sich selbst zusammen, an ihr philosophirt er sich zum Selbstbewusstsein hinauf und die Welt ausser ihm ist die Handhabe zur Erschliessung der Welt in ihm. Der Inhalt der einen ist die Probe auf den Inhalt der anderen.
+
+Hand in Hand mit der unseren Tagen vorbehalten ge wesenen Entdeckung der Einheit der Naturkräfte geht die Enthüllung auch der Einheit der Menschennatur. Denn indem der Mensch sich der Einheit seines Wesens als des ihm bisher unbewussten Grundes seiner auf den Zusammenhang der Naturkräfte gerichteten Forschung bewusst wird, indem er in und aus der Natur, nicht über [p. 13] und ausser ihr denkt, ist sein Denken die Uebereinstimmung der physiologischen Anlage mit den kosmischen Bedingungen. Für das centrifugale Hinaus, wie für das centripetale Zurück des Gedankens liegt ein für allemal das Centrum im Menschen.
+
+Bei so universal wissenschaftlicher Bedeutung des anthropologischen Maassstabes erscheint der sogenannte an thropocentrische Standpunkt, demgemäss sich die Menschheit im Mittelpunkt der Welt sieht, nicht so geradezu unberechtigt und sinnlos.
+
+Zu seinen Gunsten spricht, dass im eigenen Gedanken kreise des Menschen, sowohl des Einzelnen wie des gan zen Geschlechtes, ausschliesslich nur der Mensch die Mitte einnimmt und absolut nur einnehmen kann. Sein Gedankenkreis ist seine Gedankenwelt, ist und bleibt seine Welt.
+
+Es giebt für ihn keine andere als die, welche in seiner Vorstellung von Welt überhaupt vorhanden ist. In dieser kosmisch erweiterten Egoistik hält der Mensch die Einzig keit seiner Gattung und den Glauben an sich aufrecht. Nur von einem sich im Centrum vorstellenden und ver stehenden Ich ist die Vorstellung der unendlichen Aus dehnung eines Weltalls möglich, wenn überhaupt möglich. Unbestreitbar hat der Mensch mehr Recht, für sich jenen Vorrang in Anspruch zu nehmen, als für eine an dere, ihm fremde Gattung von Geschöpfen, sogenannten höheren und vollkommeneren weiss der Himmel wo existirenden Wesen, von denen er weder etwas weiss, noch je etwas Anderes wissen könnte, als was er nicht in Betreff seiner selbst schon wüsste.
+
+Denn weder die kühnste
+
+Phantasie, noch das vorgeschrittenste Wissen vermögen nach dem Naturgesetz, dass kein Wesen über sich hinaus [p. 14] kann, die Grenzen seines unabänderlich unter anthropo morphischem und anthropopathischem Banne stehenden aus der Vorstellungsvermögens zu durchbrechen und Haut zu fahren. Was ausserhalb des Vorstellungsvermögens liegt, ist für den Menschen nicht vorhanden, kommt für ihn nicht in Betracht.
+
+Vorstellen und Denken ist an und für sich ein an thropocentrisches Verhalten. Jedes Ich ist ein weltmittel punktliches. Die Gegner der anthropocentrischen Ansicht stehen doch sicherlich auf einem Gedankengrund!
+
+Be streiten sie demnach nicht unbewusst ihren eigenen Stand punkt? Was im Zusammenhang hiermit den astronomisch längst überwundenen geocentrischen Standpunkt angeht, so ist in nächster Relation zu dem uns bekannten Sonnensystem selbstredend nicht ein Planet, wie die Erde, sondern die Sonne das Centrum. In dem grenzenlosen Weltenraum übrigens, in dem von jedem Punkte aus alle Radien gleich gross sind, wo jeder Punkt Mittelpunkt ist, also ebensowohl keiner, ein astro nomisches Centrum zu entdecken, bescheidet sich auch die ver wegenste Forschung, zufrieden, wenn sie zunächst die Hypo these, welche den Schwerpunkt des Fixsternsystems in die Pleiaden verlegt, aufrecht erhalten kann. Bleibt aber der Mensch für den Menschen das allein
+
+Gewisse, so ist diese Selbstgewissheit der denkbar einzige feste Punkt, auf dem er seinen Gedankenhebel anzusetzen vermag.
+
+Kein Mensch kann sich dessen entäussern, ohne auf sich selbst zu verzichten.
+
+Er ist immerdar derselbe, der mit ilım sich hochhaltend den Bau von Kunst und Wissen schaft zu Stande bringt, ohne ihn aber gewürmhaft sich herabwürdigt und verkommt.
+
+Die anthropocentrische Ansicht nimmt insofern gele [p. 15] gentlich einen geocentrischen Anflug mit in den Kauf, als die Erde, nachdem alle Stützen ihres einstigen siderischen
+
+Vorranges gebrochen sind, trotzdem immer noch stillschweigend an einer idealen, an der sie bewohnenden Menschheit haftenden Centralität betheiligt scheint. Der sinnliche Schein die Sonne geht auf, übt fortwährend seine stille Macht die Sonne geht unter –, er ist weder in der täglichen
+
+Sprache, noch in der Vorstellung gänzlich überwunden. Die geocentrische Ansicht hat Jahrhunderte lang die Fortschritte der Cultur beeinflusst. So schuf der Hellene, durchdrungen von der Ueberzeugung, dass seine Erde sich in der Mitte der Welt, er selbst auf der Mitte der Erde sich befinde, eine diesem Selbstgefühl entsprechende geistige Welt. Nicht minder war das zähe Festhalten an dem sinn lichen Schein und an der Thatsache von Rom's Culturmitte unter Imperatoren und Päpsten von unverkennbarer Ein wirkung auf die Verbreitung der Civilisation und auf die Begründung einer Weltherrschaft. Treffend bemerkt Paul de Lagarde über diese Einwirkung: „Die ganze kirchliche Mythologie ist hinfällig, wenn die Erde aus einem im Mittelpunkt des Weltalls stehenden Körper zu einem um eine Nebensonne kreisenden, höchstens mittelgrossen Planeten wird.
+
+Um das gesammte orthodoxe System handelte es sich, als die Kirche das e pur si muove zu hören bekam."
+
+Indessen ist der Begriff des Centralen verschieden, je nachdem er einseitig auf den Menschen oder auf die Erde bezogen wird. Ist von dieser die Rede, so war natürlich immer der reale, räumliche Mittelpunkt gemeint. Dagegen auf die Menschheit angewandt hat das Wort eine stark figürliche Bedeutung, in dem Sinne, wie man etwa eine leitende Persönlichkeit die Seele und den Mittelpunkt einer [p. 16] Der anthropologische Maassstab.
+
+Gesellschaft zu nennen pflegt.
+
+Der eigentliche Sinn ist also die Mitte, insofern sie als das Höchste und Hervor ragendste, als das alles Andere Bestimmende, als anziehen der Kern und als geistiger Schwerpunkt angesehen wird. Daher begreift der anthropocentrische Standpunkt den Menschen als die Spitze der gesammten Entwickelungsreihe der organischen Bildungen auf der Erde, und dann über haupt als die Krone der Schöpfung. Sobald jedoch der Erdball nicht im nächsten Sinne als Planet, sondern seiner weiteren Bestimmung nach als Träger des menschlichen Geistes betrachtet wird und sobald der Geist in seiner Einheit, sowohl als einzelner mit dem Leibe, wie als Menschheit mit ihrem planetarischen Wohnhause erscheint, dann entzieht sich die oben berührte Verschiedenheit in der Auffassung des Begriffes des Centralen jeder schärferen Controle. Deut lich übrigens ist, wie nahe der anthropocentrische Stand punkt demjenigen verwandt ist, welcher den Menschen als Ziel und Zweck der planetarischen Entwickelung betrachtet. Gegen diese, die sogenannte teleologische Weltanschauung hat sich der beständige Gegner derselben, der von Darvin mit neuer Rüstung bewehrte Materialismus, in verstärkter Macht erhoben. Welche Gestalt diese neue Phase des uralten Zwie spaltes auch annehmen möge, — darin sind beide Richtungen einverstanden, dass dermalen der Mensch die Höhe und Spitze der organischen Bildungen ist. Abgesehen von dem gegensätzlichen Unterschied der Wege, auf welchen beide das Ziel erreicht werden lassen, hier Mechanismus und zufälliges Entstehen in causaler Folge, dort Geist und planvolle Schöpfung, gehen sie auch darin auseinander, dass jene Richtung den Menschen nicht für alle Zeit als Spitze gelten lassen will, sondern dass sie [p. 17] über ihn hinaus dereinst höhere Stufen in Aussicht stellt, während dieseda gegen nach Rokitansky's bündigem Aus drucke „mit Menschen von unserem Schlage Halt macht“ (Almanach der Wiener Akademie der Wissenchaften, 1869. S. 201).
+
+Eine Spitze, über welche als obersten Punkt und als höchste Stufe ein Hinausgehen für nicht möglich erachtet wird, ist die wirkliche Spitze und zugleich derjenige Punkt einer Reihe, welcher alle bis zu ihm durchlaufenen Stufen in sich begreift und deren Wahrheit ist.
+
+Denn die Spitze ist eine von den vorhergehenden nicht etwa nur graduell verschiedene Stufe, sondern sie ist qualitativ von ihnen unterschieden, nicht eine Stufe, von der aus eine noch höhere zu ersteigen ist, sondern sie ist das nur einmal vorhandene Höchste, um dessentwillen Stufen überhaupt da sind. Wie die Spitze also keine Stufe im Sinne der Vorstufen ist, wie in ihr der Begriff der Stufe schlechthin aufhört, so ist der Schluss der organischen Entwickelung nicht ein Thier, sondern eben der Mensch.
+
+Der Mensch ist nicht eine Sprosse an der animalen Stufenleiter, er ist vielmehr, wie gesagt, als letzte Sprosse nicht die Sprosse zu einer folgenden und hört demnach, aufhörend Sprosse zu sein, überhaupt auf, Thier zu sein. Er ist der allen Vorstufen immanente, erreichte Zweck, gleichsam das Idealthier! Ist ohne Grundlage keine Spitze denkbar, ohne Spitze kein Unterbau, ohne Thier kein Mensch, ohne Mensch kein Thier, so bleibt nur die An nahme übrig, dass die Idee des Menschen Mutter und Ur grund alles Lebendigen ist. Der Kampf zwischen den genannten beiden Richtungen der organischen Entwickelungstheorie wird nicht eher einen Ruhepunkt finden, als bis er alle Gebiete des menschlichen
+
+[p. 18] Thuns und Denkens durchdrungen und befruchtet haben haben wird. Die Lamarck'sche, von Darwin erneuerte Descendenzlehre ist die wissenschaftliche Tagesfrage. Sie zählt ihre vornehmsten Vertreter und Gegner bald unter den Naturforschern, bald unter den Philosophen, je nach dem starr festgehaltenen Gegensatz von Natur und Geist, und macht ihre Bedeutung in allen besonderen Gebieten der beiden grossen Heerlager geltend. Religion, Kunst, Recht, Ethik scheinen bis in die Grundvesten von ihr erregt, ja sogar aus dem Bereich der Sprachwissenschaft wird von einer namhaften Autorität, L. Geiger, dem Verfasser des Werkes „über Ursprung und Entwickelung der menschlichen Sprache und Vernunft“ , der Anspruch auf die Priorität vor Daruin erhoben; in dem Buche Physics and Politics werden von Walter Bagehot die Principien der natürlichen Auswahl und der Vererbung auf die politische Gesellschaft, und von Du Prel wird der Kampf ums Dasein sogar auf die kosmischen Vorgänge angewandt. Ohne diesem Kampf selbst näher zu treten, begnügen wir uns mit der Stellung auf dem mehr neutralen Gebiete des zuerst 1812 von Joh. Friedr. Meckel in Halle ausge sprochenen biogenetischen Grundgesetzes, wonach die von der organischen Entwickelungslehre ermittelten Thatsachen sich den Hauptzügen nach im embryonischen Dasein des Menschen bemerkbar machen.
+
+Das biogenetische Grundgesetz ist nach E. Hückel kurz mit dem Satze auszudrücken: „Die Keimesgeschichte ist ein Auszug der Stammesgeschichte; oder mit anderen Worten: Die Ontogenie ist eine kurze Recapitulation der Phylo genie; oder etwas ausführlicher: Die Formenreihe, welche der individuelle Organismus während seiner Entwickelung von der Eizelle an bis zu seinem ausgebildeten Zustande durchläuft, ist [p. 19] eine kurze gedrängte Wiederholung der langen Formenreihe, welche die thierischen Vorfahren desselben Organismus (oder die Stammformen seiner Art) von den ältesten Zeiten der so genannten organischen Schöpfung an bis auf die Gegenwart durchlaufen haben.“
+
+Die Thiergeschlechter sind demnach die nach Zeit und Räumlichkeit unbestimmbar weit aus einander gerückten Stufen des organischen Gesammtlebens. Andererseits enthält das Da sein des Menschen vor seiner Geburt die freilich nur nach jenen
+
+Hauptstationen erkennbaren, in das embryonische Wachsthum des einzelnen Menschen vergleichsweise bis auf ein Minimum von Zeit- und Raumgrösse zusammengedrängten Vorstufen der organischen Entwickelung. „Alle die Formen,“ sagt G. Jäger, „die seiner Zeit als ausgebildete Geschöpfe die Erde bevölker ten, hat die Natur in mehr oder weniger treuer Copie verlegt in den Entwickelungsgang des Individuums und zeigt uns die selben heute noch als vorübergehenden Embryonalzustand.“ (Die Wunder der unsichtbaren Welt. 2. Aufl. S. 35.)
+
+In dieser Auffassung dürfte die Lamarck - Darwin'sche Lehre ein Verständniss gewinnen, welches frei ist von feind lichem Widerspruch gegen den Geist und seine Ziele. Sie behauptet Zwecke sowohl wie Entwickelung. Ob sie dazu berechtigt ist bei gleichzeitiger Annahme einer fatalistisch zufälligen Gestaltung der Materie, in der es immer nur Ereignisse, niemals Zwecke, nur Geschehen, nicht aber Entwickelung geben kann, soll vorerst nicht weiter in Betracht kommen. Wir acceptiren Zwecke und Entwickelung und folgern weiter: Hat der Mensch die embryonalen Ent wickelungsformen als seiner Gesammtentwickelung integri rend an sich, so hat er, überall und immer omnia sua secum portans, auch die im Embryo wenn auch nur an deutungsweise sich wiederholenden, nach ungeheuren Raum und Zeitspatien aus einander gerückten Entwickelungsstufen der vorausgegangenen Thierwelt an sich und in sich. Das 2*
+
+[p. 20] Licht dieser Erkenntniss ging um so später auf, als sie in dem einen Falle durch makrokosmische, im anderen durch mikrokosmische Undeutlichkeit verschleiert war.
+
+Wie in der embryonalen Zelle der erwachsene Mensch als Uranlage vorhanden ist, so ist die Idee des Men schen der Keim oder die Uranlage der ganzen organischen Schöpfung. Wie immer ist das Ziel zugleich der Uranfang, und der Uranfang zugleich Zweck und Ziel der Entwickelung, diese selbst die Einheit eines Weiterschreitens sowohl nach rückwärts wie nach vorwärts die alte schon von Aristoteles ausgesprochene Wahrheit: „Das der Entstehung nach Spätere ist der Idee und der Substanz nach das Frühere."66
+
+Der Mensch steht also ganz genau in demselben Zusammenhang mit der Thierwelt, wie mit dem embryoni schen Stadium seines Daseins, und für die Menschheit im Grossen ist das animalische Reich dasselbe Vorleben wie für das Individuum das embryonische. Der erwachsene
+
+Mensch hat eben so wenig eine eigenartige Abgeschlossen heit gegen den Embryo, wie dieser gegen jenen. Oder war der Mensch etwa nicht schon auf der Welt, ehe er „auf die Welt kam“ ? Wie der Embryo die Vorwelt des geborenen Menschen ist, so hat die Menschheit ihre Vorwelt an der Thierschöpfung, durch deren Stufen hindurch und auf wärts der Geist in immer höher gesteigerten Wandlungen der Materie sein Vorschreiten zu der Spitze vollführt, auf der er, als Selbstbewusstsein sich erfassend, weiss, dass er Thier ist, und durch dieses Wissen aufhört, Thier zu sein. Wie den Menschen solches Wissen von der Naturnothwendigkeit über dieselbe erhöht, verherrlicht ein Ausspruch Pascals: „Wenn auch das ganze Weltall sich bewaffnete, um ihn zu vernichten, so wäre der Mensch, dieses schwache
+
+[p. 21] Wesen, doch mehr als das, was ihn zerschmettert, weil er weiss, dass er sterben muss. “
+
+Es scheint mir nicht unpassend, eine diesen Gegenstand berührende Stelle aus meiner Philosophischen Erdkunde 2. Aufl. S. 82, 83 hier zu wiederholen: Der Mensch ist der Generalabschluss einer ganzen grossen
+
+Stufenfolge von unorganischer und organischer Creatur, worin die erste unvollkommenste Form eben so wenig fehlen darf, wie die letzte annähernd menschliche. Würde doch der Mensch ausser Zusammenhang und Beziehung mit und zu seinen natürlichen Vorstufen eine Art von physischem Abstractum sein! Er ist vielmehr im allseitigsten Verbande mit der ganzen Natur und verwandtschaftlich von ihr durchwachsen, der concrete Mikrokosmos.
+
+Man kann wohl fragen, was dem Menschen zukommt, in sofern er überhaupt ein natürlicher Organismus ist, nicht aber, was ihm zukomme, inwieweit er ein Fisch oder ein Vogel sei. Er ist nicht aus dem Thier, sondern nach dem Thier.
+
+Nur die Zeitfolge bringt ihn einer einzelnen Thierspecies näher, sein innerer Zusammenhang mit dem Ganzen ist ein unlösbarer, keine Theilung zulassender.
+
+Die Erde heisst die Mutter des
+
+Menschen; wir sehen, wie vielmehr die Idee der Menschheit die Mutter alles Irdischen ist.
+
+So ist denn der Mensch das ordnende Princip in der Natur. Die Natur soll nicht über dem Menschen stehen wie im Alter thum, aber der Mensch soll sich auch nicht zu hoch erheben, über ihr dünken wie im Mittelalter, sondern soll zum Bewusst sein kommen, dass er ihr Wesen und ihre Wahrheit ist, und dass er seine Aufgabe nicht in Geringschätzung und in Feind schaft gegen sie, sondern nur dadurch lösen kann, dass er in sie einzudringen und sie zu begreifen strebt. Insoweit der Mensch fähig ist, die Erscheinungen des Naturlebens zu ergründen, wird er sich seines eigenen Wesens immer mehr bewusst, und erkennt, dass die Entwickelung des „In uns“ nach denselben Gesetzen vor sich geht, wie diejenige des „Ausser uns“ . Zu Gunsten der Selbsterkenntniss hat die Sprache durch den Ausdruck „Natur des Geistes in eins ge [p. 22] fügt, was nur zu oft in dualistischer Schärfe als geradezu im Widerspruch mit sich selbst dargestellt wird. Was der Mensch ist, beantwortet der Mensch; was das Thier ist, beantwortet kein Thier.
+
+Auf diesem Punkte hört die objective graduelle Verschiedenheit in der organischen Natur auf und beginnt des Menschen subjective wesentliche Selbstunterscheidung seiner als Abschluss und Spitze der zu ihr führenden Stufenreihe. Um uns nicht auf den Streit einzulassen, den eine Art
+
+Coquetterie zu Gunsten der Thiere angeregt hat, wollen wir es über uns gewinnen, vorläufig alle ihnen beigelegte nahezu menschliche Eigenschaften zuzugeben.
+
+Gemeines
+
+Bewusstsein, Sprache, Rechtsgefühl, Bildung allgemeiner
+
+Begriffe, Anlage für Musik und Baukunst, ja Sittlichkeit und sociale Vervollkommnung, und was sonst noch eine moderne Thierpsychologie an Erweiterungen hinzugefügt haben möge - alle diese Vorzüge lassen wir zunächst dahingestellt sein, um ungehindert durch dies anthropo pathische Wirrsal, die Prüfung jener Schranke, welche ein für allemal den Menschen vom Gethier scheidet, die Schranke des Selbstbewusstseins, aufzunehmen. Wie verschieden auch die Untersuchungen über das Bewusstsein und seine stufenweise Entwickelung in den Resultaten aus einander gehen mögen, so herrscht doch wenigstens darin vollkommene Uebereinstimmung, dass das Unbewusste, das Bewusste und das Selbstbewusste der menschlichen Natur, als genetische Folge von Uebergängen aus dem Dunklen zum Helleren, das Eine an das Andere sich anschliesst, und zwar so, dass das Frühere in gleich zeitigem Fortbestand mit dem Höheren erhalten ist und wirksam in ihm bleibt.
+
+Was zunächst das Bewusste angeht, zu welchem sich [p. 23] das Unbewusste und das Selbstbewusste wie Vorbewusstes und Nachbewusstes verhalten, so ist es, als Wissen des Individuums von einer Welt ausser ihm durch die sinn liche Wahrnehmung vermittelt, das Verhältniss von wahr nehmendem Subject und wahrgenommenem Object. Während in dem Zustande, der dem Erwachen des Bewusstseins vorhergeht, die Unterscheidung von einem innerlich Wahrnehmenden und einem äusserlich Wahrge nommenen überhaupt noch nicht vorhanden ist, liegt da gegen auf der Stufe des Selbstbewusstseins der Gegenstand der Wahrnehmung im Innern des Subjects, ist selbst ein Innerliches, das Ich constituirend, welches, ohne fernere unmittelbare Vermittelung der Sinne, wahrnehmend und wahrgenommen sich selbst Gegenstand ist.
+
+Denn die Aussendinge, als Objecte des Bewusstseins, kehren, insoweit sich der Mensch in ihnen selbst erklärt vorfindet, in sein Inneres ein, werden zu einem Innerlichen, erlösen nicht minder aus dem Traume des Unbewussten, als vom dualistischen Dann eines Aeussern und Innern das Ich, in welchem Wissen und Gewusstes, Subject und Object, als Selbstbewusstsein Eins sind. Das Selbstbewusstsein erweist sich demnach als Resultat eines Processes, in welchem das Wissen von einem Aeussern zu einem Wissen von einem Innern um schlägt. Dieses Wissen, wieder auf das Aeussere sich kehrend, und dessen Kenntniss erweiternd, giebt hinwiederum neue
+
+Aufschlüsse über das Innere und producirt in dem end losen Herüber und Hinüber der Orientirung über die Welt und der Selbstorientirung überhaupt den Inhalt alles Wissens, die Wissenschaft.
+
+Man hat sich vor Allem über den Begriff „Aussen [p. 24] welt“ vollständig klar zu werden. Das „In uns“ und das „Ausser uns“ ist selbst für die Sinnesauffassung nicht so glatt geschieden, wie gewöhnlich angenommen wird. Hier giebt es ein streitiges Grenzgebiet.
+
+Das Ich dictirt, was ihm, je nach gegebenen Relationen, als Aussen gilt. Einmal beansprucht das nur in einem bestimmten leib lichen Organismus oder vielmehr nur als Organismus exi stirende Ich den gesammten leiblichen Gliederbestand als Innenwelt, ein andermal erklärt es Hand und Fuss zur Aussenwelt gehörig, für „Extremitäten“ , welche gleich anderen natürlichen Dingen, Steinen etwa und Pflanzen, ebenfalls sinnlich wahrgenommen werden. Und doch gehört ohne Frage der ganze Leib auch wieder zur inneren Welt. Wird auch das Gehirn als allei niger Denksitz angesehen, als das intellectuelle Innere, so dürfen darum z. B. Herz und Rückenmark nicht ausser
+
+Acht bleiben, denn nimmermehr vermag ein Gehirn für sich allein zu denken, ihm hilft ja der ganze Organismus unbewusst mitdenken!
+
+Zunächst ist für uns wichtig eine andere Unterscheidung im Begriff دو„وAussenwelt“, sofern für diese die übliche Bezeichnung „Natur“ keineswegs ausreicht. Zur Aussenwelt des Menschen gehören nämlich eine Menge Dinge, welche, abgesehen davon, dass die Natur allerdings das Material für sie liefert, mehr Menschen- als Naturwerke sind, und welche als Kunstproducte im Unterschied von Naturproducten den Inhalt der Culturwelt Was ausserhalb des Menschen ist, besteht demnach aus Natur- und Menschenwerk.
+
+ausmachen.
+
+Die unmittelbar sinnliche Wahrnehmung der Dinge kommt auch dem Thier zu. Was es aber sieht und hört, wittert und verzehrt, bleibt ihm unbegriffen, ein schlechthin
+
+[p. 25] Anderes und Fremdes, ein Gegensatz, in welchem es ewig verharrt.
+
+Der Mensch kommt über den Gegensatz dadurch hin weg, dass er seiner Uranlage gemäss befähigt ist, die ihm gleich den Thieren verliehene Sinnesbegabung durch mechanische Unterstützung, seiner Hände Werk, productiv und receptiv bis ins Unendliche zu erweitern. Er hat sich mit den Dingen zu befassen, mit ihnen zu hantieren, hat die Materie je nach seinem Nutzen und subjectiven Bedürfniss zu gestalten.
+
+Dabei sind Bewusstes und Unbewusstes gleichmässig thätig; jenes in der bestimmten Ab sicht, einem Mangel des Augenblicks abzuhelfen, dieses, ohne deutliches Vorstellen und Wollen, die Form der Ab hülfe bestimmend.
+
+Von den ersten rohen Werkzeugen, geeignet die Kraft und Geschicklichkeit der Hand im Verbinden und Trennen materieller Stoffe zu steigern, bis zu dem mannigfaltigst ausgebildeten „System der Bedürfnisse“, wie es eine Welt ausstellung gedrängt vorführt, sieht und erkennt der Mensch in all diesen Aussendingen, im Unterschiede von den un veränderten Naturobjecten, Gebild der Menschenhand, Tha ten des Menschengeistes, den sowohl unbewusst findenden, wie bewusst erfindenden Menschen - Sich selbst.
+
+Es geschieht dies in zweifacher Weise. Einestheils ist jedes Werkzeug im weiteren Sinne des Wortes als Mittel der Erhöhung der Sinnesthätigkeit die einzige Möglichkeit, um über die unmittelbare oberflächliche Wahrnehmung der Dinge hinauszugelangen, anderentheils steht es als Werk der Thätigkeit von Hirn und Hand so wesentlich in inner ster Verwandtschaft mit dem Menschen selbst, dass er in der Schöpfung seiner Hand ein Etwas von seinem eigenen Sein, seine im Stoff verkörperte Vorstellungswelt, ein Spie [p. 26] gel- und Nachbild seines Innern, kurz einen Theil von sich, vor seine Augen gestellt erblickt. Da aber das Selbst, wie oben gezeigt worden, nur in einem Leibe „leibt und lebt“ , so kann diese vom Menschen ausgehende äussere Welt mechanischer Werkthätigkeit auch nur als reale Fortsetzung des Organismus und als Hinaus verlegung der inneren Vorstellungswelt begriffen werden. Eine derartige Aufnahme dieses die Gesammtheit der Culturmittel umfassenden Gebietes der Aussenwelt ist ein thatsächliches Selbst bekenntniss der Menschennatur und wird durch den Act der Zurücknahme des Abbildes aus dem Aeusseren in das Innere zur – Selbst er kenntniss Es geschieht dies dadurch, dass dem Menschen beim Gebrauch und bei vergleichender Betrachtung der Werke seiner Hand durch eine wahrhafte Selbstschau die Vor gänge und Gesetze seines unbewussten Lebens zum Bewusst sein kommen.
+
+Denn der unbewusst dem organischen
+
+Vorbild nachgeformte Mechanismus dient seinerseits wie der nach rückwärts als Vorbild zur Erklärung und zum Verständniss des Organismus, dem es seinen Ursprung verdankt.
+
+Nur auf diesem Umwege der selbstthätigen Erschaffung ihrer Culturmittel feiert die Menschheit ihre Selbsterlösung aus dem gemeinen Empfindungsbewusstsein zum höheren Denk- und Selbstbewusstsein.
+
+Nach dem Gesagten unterscheiden wir also am Werk zeug den äusseren Zweck und die innere Conception seiner Herstellung. Jener liegt bewusst vor, diese erfolgt unbewusst, dort waltet Absicht, hier instinctives Thun. Beide Seiten aber begegnen sich und sind eins in der Zweckmässigkeit. An den zur Erreichung des Zweckes in An spruch zu nehmenden Gliedern des Organismus geschieht
+
+[p. 27] Der anthropologische Muussstab.
+
+das Messen, indem dieser die Maasse für die Brauchbarkeit die Gliedmaassen liefert.
+
+Die Prüfung etwaiger Unzulänglichkeit und das Stre den nach weiterer Vervollkommnung des Werkzeugs führt erst zur Vergleichung des Zweckes mit der die Maasse und Verhältnisse gebenden Leiblichkeit, dann zu der Ent deckung der unbewusst in der Conception ausgeführten Anpassung des herzustellenden Werkzeugs an die im leib lichen Organismus waltende Regel der Functionsbeziehungen, und schliesslich zu der Gewissheit, dass alle Culturmittel, mögen sie grob -materieller oder feinster Construction sein, durchaus nichts Anderes sind als Organprojectionen. Das sogenannte „Zeug" des Handwerkers, die Instrumente der Kunst, die Apparate der Wissenschaft zum Messen und Wägen kleinster Theile und Geschwindigkeiten, selbst die durch menschliche Töne und Rede in Bewegung gesetzten und formirten Luftwellen gehören folgerichtig in die Kategorie der in Materie geformten Projection, die ich ohne Rücksicht darauf, ob die Physis oder die Psyche oder beide in monistischer Auffassung vorwiegend betont wer den, richtig als Organ projection bezeichnet zu haben glaube.
+
+Ein Rückblick auf das Bisherige ergiebt nunmehr folgendes Resultat: Ausgehend von dem erst durch volle Würdigung der Leiblichkeit zu Stande kommenden Begriff der Selbster kenntniss und von der Berechtigung des Menschen, bei sei ner Orientirung über die Welt sich als alleinigen Maass stab der Dinge zu verwenden, „auf welche“, nach Berg mann's treffendem Ausdruck, „als Nicht-Ich vom Ich idea liter von vornherein gleichsam Beschlag gelegt ist“ (Philos. Monatsh. V. 3) , verfolgten wir das Verhältniss von Phy
+
+[p. 28] Der anthropologische Maassstab.
+
+siologie und Psychologie bis zur psychophysischen Spitze. Wir erwogen sodann den anthropocentrischen Stand punkt in seinem Uebergang vom sinnlichen Schein in das ideale Gebiet der teleologischen Weltanschauung, welche am selbstbewussten Menschen Beginn und Ziel der kosmischen Entwickelung misst. Nachdem hierauf das Selbst bewusstsein, auf Grund seiner Unterscheidung vom Unbe wussten und vom Bewusstsein, in seinem Zustandekommen durch die äussere Welt der Objecte, in deren Bereich namentlich die freien mechanischen Gestaltungen gehören, beleuchtet war, erfolgte der Rückschluss auf die Menschen hand, aus der alles Geräthe und Werkzeug hervorgeht, und überhaupt auf den leiblichen Organismus, der, wie er sich selbst aufbaut, stets auch nur sich selbst producirt und projicirt, nach dem Ursatz, dass aus Jeglichem immer nur das, was in ihm liegt, heraustreten kann!
+
+Möge es der nun folgenden Ausführung gelingen, einen neuen thatsächlichen Ausgangspunkt für die Erkenntniss lehre festzustellen, indem sie der Wahrheit Anerkennung zu verschaffen beabsichtigt, dass die Culturwelt in ihrer Rückbeziehung auf das projicirende menschliche Selbst allein geeignet ist, weiteres Licht über das geheimnissvolle Dunkel zu verbreiten, in welches annoch die wichtigsten
+
+Vorgänge des organischen Lebens gehüllt sind. In zweiter Instanz an den Dingen sich messend, erkennt der Mensch sich als das Maass der Dinge in erster Instanz!
+
+II.
+
+Schwankender Sprachgebrauch des Ausdrucks Projection in Kunst und Wissen schaft. Seine Feststellung als Organprojection auf culturgeschichtlicher Basis. Der urgescbichtliche Mensch und seine Uranlagen. erste Arbeit.
+
+Das erste Werkzeug die
+
+Geschichte als Aufeinanderfolge der menschlichen Arbeit.
+
+Als im Beginn der sechziger Jahre in einer Sitzung der philosophischen Gesellschaft zu Berlin über das Alter des Menschengeschlechtes discutirt wurde, machte Schultzen stein die Bemerkung, dass der Mensch überall, wo er auf trete, sich eine passende Lebensart erst erfinden und durch Kunst verschaffen müsse, so dass Wissenschaft und Kunst beim Menschen an die Stelle des Instincts der Thiere trete, wodurch er Schöpfer seiner selbst, ja sogar seiner Körper bildung und Veredlung werde. Dem zustimmend erwie derte Lasalle: „Diese absolute Selbstproduction ist eben der tiefste Punkt im Menschen.“
+
+Wir stossen hier auf einen Ausspruch, welcher der richtigen Auffassung dessen, was wir unter Projection in unserem Sinne verstanden wissen möchten, trefflich zu statten kommt.
+
+Der Sprachgebrauch des Ausdrucks „Projection“ hält in allen Fällen an dessen etymologischer Grundbedeutung fest. Abgesehen vom Geschützwesen, welches alle Geschosse
+
+Projectile, von der Architektur, welche einen Vorsprung Projectur nennt, und von den Projecten des Geschäftslebens, ist das Wort besonders in der Zeichlenkunst heimisch für [p. 30] jede Art von Vorwurf, Entwurf, Plan, Riss, Skizze, insbesondere aber für das Entwerfen der dem Kartographen nöthigen Gradnetze. Wer kennte nicht z. B. die so oft genannten parallellinigen Gradnetze „nach Mercator's Projection " ? Mehr als dies Nebensächliche interessirt hier, dass das Wort häutig zur Erklärung der Beziehung der Empfindungen auf äussere Gegenstände und überhaupt für die Bildung der Vorstellungen von Physiologen wie von Psychologen verwendet wird.
+
+In allen diesen Fällen ist Projiciren mehr oder we niger das Vor- oder Hervorwerfen, Hervorstellen, Hinaus versetzen und Verlegen eines Innerlichen in das Aeussere. Projection und Vorstellung sind dem Wortlaut nach eigentlich wenig verschieden, insofern der innerlichste Act des Vorstellens nicht frei ist von einem dem vorstellenden
+
+Subject gleichsam vor Augen gestellten Object. In welchem Sinne der Ausdruck in wissenschaftlichen Werken bisher gebraucht worden ist, werden einige Belegstellen darthun: So sayt Riitansky (Der selbständige Werth des Wissens S23) bei Gelegenheit der Erwähnung des Verlegens der Dinge in den Raum: „Wir sind uns nie der Bilder in uns, sondern immer nur der ausser uns projectirten Dinge bewusst. " Weniger direct berlient sich C. G. Carus des Wortes: „Beim Sehen ist es die Lichtwirkung der Gegenstände selbst, welche imerlieh empfunden, und nicht ein Bild dieser Lichtwirkung.
+
+welches erst wieder von einem Anderen gesehen wird, und die sichtbare Welt entsteht uus nur, in dem die Emptiniung, welche in der Retina erret wini, vieichsam sich nach aussen projicire. (Phris S 113. )
+
+(Ranns äussert über L. Fruerbeza anthropologischen Sandipunkt, er behaupte, dass der Mensch sich sera ez eues Wesen in der Form der Vorsteüan: eines auer ihuu vienden, vou ihm undersebieden sein sollen.en Sub jelesnejicire, de er sich in der Region seines eieren
+
+[p. 31] Wesens durch Projection in Vorstellungen entfremde, denen keine Realität entspreche. (Hegel, als deutscher National philosoph, S. 312.) F. A. Hartsen bezeichnet in den „Grundzügen der Psycho logies sehr bündig das Projection genannte scheinbare Her austreten der Seele aus dem Körper als „das Hinau swer fen geistiger Eigenschaften“.
+
+Er spricht sowohl von Projection der Empfindungen, wie von Projection der Begierden, und meint bestätigen zu können, dass die Projection der Seelen eigenschaften nicht nur im Raum, sondern auch in der Zeit stattfinde. (S. 32, 59, 104.)
+
+So weit spielte die Projectionstheorie ihre Hauptrolle sowohl in der Untersuchung über die Raumvorstellung und die Richtung des Sehens, als auch in der Erklärung der aufrechten Stellung des gesehenen Objects bei ver kehrtem Netzhautbildchen.
+
+Im Allgemeinen treten, je nach der Annahme oder der Verwerfung der Projection, zwei Hypothesengruppen hervor, welche von Helmholtz als „empiristische“ und als „nativistische Theorie“ bezeichnet werden. Zur ersteren zählen, ausser der llerbart'schen Schule, Helm holtz nebst den meisten Physiologen, zur letzteren Johan nes Müller, Ludwig, Funke, Lange und namentlich Ueber weg, durch dessen Abhandlung „zur Theorie des Sehens" (in Henle's und Pfeuffer’s Zeitschrift V, 3) die ganze Frage, welche eine Zeit lang zu ruhen schien, aufs neue lebhaft angeregt worden ist. So noch kürzlich durch Eluard Johnson in den philosophischen Monatsheften, durch P. Kramer's „Anmerkungen zur Theorie der räumlichen Tie fenwahrnehmung“ und durch C. Stumpf's Buch „Ueber den psychologischen Ursprung der Raumvorstellungen“ . Die Streitfrage harrt ihrer weiteren Entscheidung. Ein bedeutsamer Fingerzeig ist in der Bemerkung Lullwiy's [p. 32] gegeben: „Das Wort Nachaussensetzen ist nur ein bild licher Ausdruck, um eine Erscheinung zu bezeichnen, dass die Seele einen im Hirn vorhandenen Zustand seiner Ur sache nach auf einen ausserhalb des Auges befindlichen Gegenstand bezieht.“ (Physiologie I. 325.) Eine solche Beziehung des Bildes im Sensorium auf den Gegenstand ausserhalb desselben ist Thatsache; sie steht, mindestens gesagt, in allerengster Verwandtschaft mit der Projection. Selbst Johannes Müller, ohne dass er sich des Wortes direct bediente, scheint mit einem „gleichsam“ die Sache nicht ganz fallen lassen zu wollen: „Die Gesichtsvorstellung kann gleichsam als ein Versetzen des ganzen Sehfeldes der Netzhaut nach vorwärts gedacht werden.“
+
+W. Wunalt äussert sich zu Gunsten einer Beschränkung auf jene Ansichten, „welche eine angeborene, oder mindestens eine fest gegebene Beziehung der Netz hautpunkte zu den Punkten im äusseren Raume voraus setzen“ . (Physiol. Psychologie S. 362.) Deutlich genug bezeichnet auch Addolph Horwicz die Projection „als Hin ausversetzen der Empfindungen ins Object, als Beziehung derselben auf ein äusseres Object. (Analysen auf physio logischer Grundlage S. 372.) Mit der Andeutung, dass Beziehungen derartige absolute, in einem inneren nothwendigen Verhältniss zweier Seiten haftende sind, deren jede sich stets die andere gegenüberstellt, sie voraussetzt, projicirt, lassen wir diesen bis jetzt unerledigten Gegenstand vorläufig auf sich be ruhen, und wenden uns zu einem Vorgang, dem es in Wahrheit zukommt, als Projection bezeichnet zu werden, da ihm nur solche Thatsachen zum Grunde liegen, welche eine Verschiedenheit der Ansichten gänzlich ausschliessen.
+
+Die nähere Bestimmung dieser Art von Projection, der [p. 33] Organprojection, wird sich aus dem Verlauf unserer Untersuchung rechtfertigen, deren eigentliches Thema sie ist. Die ihr zum Grunde liegenden Thatsachen sind be kannte, geschichtliche, sind so alt wie die Menschheit. Neu aber ist deren Betrachtung aus ihrem genetischen Zusammenhang heraus, und zwar von dem hier zum ersten mal durchgängig darauf angewendeten Gesichtspunkt der Projection.
+
+Dieser bisher unbetretene Weg führt zur culturhisto rischen Begründung der Erkenntnisslehre überhaupt. Ausgangspunkt ist der Mensch, der ja bei Allem, was er denkt und thut, ohne von sich selbst abzufallen, von nichts Anderem ausgehen kann als von sich, dem denkenden und handelnden Selbst; aber nicht der hypothetische Bathy biusmensch, nicht der annoch eben so hypothetische Ideal mensch, sondern der Mensch, so weit nur immer von ur ältester Zeit bis zur Gegenwart Dinge mit von seiner Hand herrührenden Spuren und Veränderungen für sein Dasein zeugen. Dieser nur ist der feste Punkt für den Beginn und für das Ziel alles Wissens.
+
+Zeugt er doch überall und immer für sich Selbst!
+
+Die bis jüngst zwischen einem geschichtlichen und einem nichtgeschichtlichen Weltalter angenommene, nach biblischer Urkunde aufs Jahr bestimmte Grenze ist nun mehr nach den Anfängen der irdischen Schöpfung hin in eine unendliche, nach vielen Jahrtausenden zählende
+
+Schwankung gerathen. Die Höhlenfunde erzählen eine Geschichte, nicht min der unwiderlegbar als Papyrusrollen und Backsteinbiblio theken.
+
+Sie bilden eine sehr reale Literatur, eine aus Fossilien, aus Geschirren, Werkzeugen und elementaren Zeichnungen bestehende Lapidar- und Bilderschrift, nach [p. 34] deren Zeugniss auf die Beschaffenheit der Thier- und
+
+Menschengeschlechter geschlossen wird, welche in ursprünglicher Nahrungsconcurrenz Leben und Herrschaft sich gegenseitig abzuringen hatten. Angesichts dieser Funde und auch jener anderen, welche der heutigen Sprachforschung die neu erschlosse nen Labyrinthe liefern, verschwimmen die Begriffe des Geschichtlichen und des bisher sogenannt Vorgeschicht lichen in einander bis zur Unkenntlichkeit, so dass man sich, um doch zu irgend einer Art von Abgrenzung oder Unter scheidung zu gelangen, einfach zu der Annahme bequemen muss, der eigentlich vorgeschichtliche Mensch sei der jenige, von dessen Dasein die Spuren auch des rohesten Werkzeugs nicht vorhanden sind; denn nur ein solches ist der Urgeschichte Beginn, weil es die erste Arbeit ist. Insofern man die Geschichte als die Aufeinanderfolge der menschlichen Arbeit auffasst, ist auch die erste Arbeit, um das Geringste davon auszusagen, der geschicht artige Anfang, und die Urgeschichte selbst lässt sich weiterhin erst von da zu erkennbarer Geschichte an, wo eine berufsgleiche Scheidung der Arbeitenden in der Arbeitsthei lung zu erscheinen beginnt, und die allmälige feste Son derung in Kasten und die staatliche Gliederung zu Stän den vorbereitet.
+
+Alle Arbeit ist Thätigkeit, aber nur die bewusste Thätigkeit ist Arbeit. Kein Thier arbeitet. In den Schwär men der sogenannten Thierstaaten der Bienen und Amei sen findet sich nur Emsigkeitstheilung. Theilung der Arbeit, der bewussten Berufsarbeit, sie ist es, welche den Ge schichtsstaat macht und ist schon Geschichte.
+
+Zwischen der eigentlichen Vorgeschichte, d. h. dem menschlichen Dasein vor aller Geschichte, und der wirk [p. 35] lichen Geschichte hat man der Urgeschichte ihre Stelle angewiesen. In den vom Standpunkt der Abstammungslehre über diese Gegenstände veröffentlichten Werken hat sich die Phantasie der Verfasser mit der Skizzirung der Lei besbeschaffenheit und der Lebensweise des Urmenschen oft recht ausführlich ergangen.
+
+Demzufolge hätte man sich den Urmenschen bald als Vieh zwischen Vieh, bald als ein von vornherein mit dem Keim der Geschichtsfähig keit begabtes thiergleiches Geschöpf vorzustellen. In Anbetracht der wilden und ungeschlachten Thier welt, in deren Nähe wir uns den „angehenden“ Menschen vorzustellen haben, können wir die physischen Eigenschaften desselben nicht hoch genug anschlagen. Ohne Zweifel war er mit gorillamässiger Kraft und Behendigkeit ausgestattet. Er besass, abgesehen selbstredend von geschulten Kunst leistungen, Alles was die Geschichte von der Riesen stärke einzelner Menschen berichtet und was wir täglich inner- und ausserhalb eines Circus gewahr werden.
+
+Die sporadischen Kraftproductionen unserer modernen Athleten und Herkulesse waren beim Urmenschen selbstverständ liche Naturgeschicklichkeit und kamen als solche der Ge sammtheit zu.
+
+So lange der Mensch ohne. Waffen den reissenden Thieren gegenüberstand, musste er ihnen an Stärke des Gebisses und der Nägel, an Faust- und Armkraft, wie an affenartiger Geschwindigkeit ebenbürtig sein. Die Wucht und Fertigkeit, die mit der Faust ein Rind zu Boden schlägt, mit den Händen Eisen bricht, mit dem Gebiss centnerschwere Lasten balancirt, am Trapez sich schwingt und über Abgründen seiltanzt, in Einem Menschen ver einigt gedacht, giebt eine Ahnung von der physischen Aus 3* [p. 36] stattung, welche die Urmenschen in den Stand setzte, im wahren Sinne des Wortes den Kampf auf Tod und Leben mit einer feindseligen Natur und ihren Riesenbestien zu bestehen.
+
+Man ist demnach zu der Annahme gezwungen, dass die Urmenschen vor aller Waffen- und Gerätheanfertigung, abgesehen von gewaltiger Muskelkraft und Behendigkeit der Gliedmaassen, auch mehr oder minder den thierischen ähnliche natürliche Angriffs- und Vertheidigungsmittel in ihren Nägeln und Gebissen entgegenzusetzen gehabt haben.
+
+Der Gebrauch und die Vervollkommnung künstlich hergestellter Waffen hatte von selbst eine verhältnissmässig verminderte Anstrengung und eine Schonung der angeborenen natürlichen Waffen zur Folge. Zu der Erschaffung von Mitteln, berechnet auf Schutz und Sicherheit, sowie auf annähernde Behaglichkeit des Daseins und dadurch sich steigernde geistige Thätigkeit, trat allmälig die zu ungewöhnlicher Anstrengung und Kraftäusserung nicht mehr genöthigte Physis ins Gleichgewicht. Das Raubthier ähnliche schwand in demselben Grade, in welchem das Geistige zu harmonisch menschlicher Bildung hervortrat. Die verwundenden und tödtlichen Eigenschaften der Körper bildung wurden allmälig in ein dem Menschen Aeusseres, in die Waffe, verlegt. Das Gebiss trat mit in den Bereich der Sprachorgane, der krallenartige Ausläufer der auch wohl als Fuss gebrauchten Hand wurde zur schützenden
+
+Nageldecke des werkthätigen Fingers, während gleichzeitig der ganze anfänglich nur nach thierartiger Lebensweise ausgeformte, roh modellirte Leib mit seiner aufrechten
+
+Stellung in die Milderung der Ansprüche eines geselligen Daseins einging.
+
+[p. 37] Wie diese Vorgänge stattgefunden haben mögen, ist natürlich nur in ganz allgemeinen Zügen durch Rückschlüsse vom Standpunkte der heutigen Ethnographie aus zu skizziren; welche Zeiträume aber von ihnen ausgefüllt worden sein mögen, dar über stellt die vergleichende Geologie grandiose Zahlenreihen auf.
+
+Nach den allgemeinen Entwickelungsgesetzen, für welche auf Erden Tausende von verschiedenen Vergleichspunkten ge boten seien, nimmt unter anderen K. Siegwart in seiner Schrift „über das Alter des Menschengeschlechts“ an, dass der Mensch vier verschiedene Culturstufen durchlaufen habe:
+
+Den rohen, thierähnlichen Naturzustand des Wilden lässt er Millionen von Jahren gedauert haben; Dem Zustand des Halbwilden, charakterisirt durch die An fänge der Steinperiode, räumt er Hunderttausende von Jahren ein; Den Zustand beginnender Cultur (Uebergang aus der höheren Steinperiode in die Bronzeperiode) in staatlicher, religiöser und gesellschaftlicher Fortentwickelung berechnet er auf sieben Jahrtausende; und Den Zustand höherer Civilisation eines gesonderten Menschenstammes (die alten Griechen und Römer) auf Jahrhunderte. Die Dauer der nachtertiären Zeit und das bisher bekannt gewordene Alter des Menschengeschlechts berechnet Siegwart auf 224,000 Jahre.
+
+Die betreffenden Versuche, den Menschen so gleich sam aus dem Groben herauszuarbeiten, können unbedingt nur auf dem Grund der organischen Entwickelungstheorie vor sich gehen. Ob dies am geeignetsten unter Verwer thung der Formel, welche Darwin mit der „Entstehung der Arten“ zur Erklärung seiner Lehre gegeben hat, oder mit Verwerfung derselben geschieht, also unter Annahme -besonderer, den Arten als solchen zukommender „Uran lagen“ - dies entzieht sich bei dem Obwaltenden Streit der Ansichten für jetzt noch der endgültigen Entscheidung. Unter den hier einschlagenden Werken behauptet „die Urgeschichte der Menschheit“ von 0. Caspari [p. 38] eine hervorragende Stelle.
+
+Der Verfasser gehört keiner der extremen Parteien an und tritt zunächst, nachdem er die Leistungen derer hervorgehoben, die sich als Führer um die Wissenschaft vom Menschen auf allgemein völker psychologischer Grundlage verdient gemacht haben, mit den Worten in seine Untersuchung ein: „•• و der hohe Verehrung glaube ich Darwin schuldig zu sein. Scheint es mir doch, als hätte ich seine Erneuerung der Descendenztheorie auf naturgeschichtlichem Gebiete, wo mit er einen fruchtbaren Einblick in den Werth der organischen Entwickelungsgeschichte eröffnet hat, nur zu übertragen versucht auf das Gebiet des frühesten Geistes lebens der Menschheit.“ (I, pag. XX.) Trotzdem kommt ihm für eine gedeihliche Entwickelung denn doch Alles darauf an, „dass wir gemeinsam das Ideal ins Auge fassen, und uns nicht beirren lassen durch den Geist desjenigen Skepticismus, der überhaupt keine Ziele der Menschheit kennt.“ (II, S. 444.) Caspari befasst sich daher mit seiner Aufgabe, den Urmenschen über die Thierwelt hinaus den Idealen der Menschheit entgegenzuheben, nicht ohne die Voraussetzung einer „ursprünglichen Anlage“ wiederholt zu betonen. Den Fortschritt des Menschen vom Thier empor erklärt er dann weiter dadurch, dass dem Thier die Uranlage zu Handgeschicklichkeit und Sprache absolut mangele. „Wir müssen anerkennen, dass die letzte Wurzel zur Ausbildung dieser Entwickelungsfactoren doch nur in Anlagen geistiger und physischer Art gesucht werden muss. Von dieser inneren Wurzel einer trefflicheren Charakteranlage und eines bildungsfähigeren Naturells ging die ganze ursprüngliche Entwickelung überhaupt aus.“ (I, S. 140. Vgl. 214-218, 130, 241, 318.)
+
+[p. 39] So stehen wir nunmehr vor dem Menschen, wie er sich aus dem ursprünglichen Zustand unablässiger Verthei digung gegen blutdürstiges Raubgethier zu Angriff und Vertilgung in Stand setzt durch Anwendung von mit eigener Hand gefertigten, die natürliche Arm- und Handkraft mächtig steigernden Vorrichtungen und Werkzeugen. Hier ist die eigentliche Schwelle unserer Untersuchung, nämlich der Mensch, der mit dem ersten Geräthe - seiner Hände Werk - sein historisches Probestück ablegt, dann überhaupt der historische, im Fortschritt des Selbstbewusst seins befindliche Mensch. Dieser ist der einzige sichere Ausgangspunkt aller denkenden Betrachtung und Orien tirung über die Welt. Denn das absolut Gewisseste für den Menschen ist zunächst nur er selbst. Die Mitte einnehmend zwischen den Zielen der Forschung, den geologischen Anfängen und der teleologischen Zukunft, ist der Mensch der feste Punkt, von dem aus das Denken nach rückwärts und nach vorwärts die Grenzen des Wissens erweitert und zu dem es aus den Ver irrungen subjectiver Ausdeutung solcher Gebiete, welche jeder Forschung unzugänglich sind zu erneuter Gesun dung zurückkehrt.
+
+III.
+
+Organ und Werkzeug. Die Hand als Werkzeug der Werkzeuge. Werkzeuge die Fortsetzung vorbildlicher Organe, deren Kraft sie beliebig darüber hinaus verstärken. Das primitive Handwerkzeug eine Art der Erscheinung des Organs selbst.
+
+Die Entstehung des Werkzeugs im Licht der Sprache.
+
+Werkzeuge, Waffen, Geräthe. Finden, Erfinden. Entwickelung der Werk zeuge und Entwickelung der Organe. Handlichkeit. Unbewusste l'eber tragung der Form und der Bewegungsgesetze des Organs auf die mechanische
+
+Vorrichtung.
+
+Rückbezügliche Verwendung des Mechanismus zur Erklärung des Organismus. Die Grundgesetze der Mechanik. Die Sprache der Mechanik in der Physiologie.
+
+Es ergiebt sich nunmehr die Frage, wie die ursprünglichen Werkzeuge und Geräthe beschaffen waren und wie sie bei Völkerschaften niederster Cultur zum Theil noch heute beschaffen sind. Ihrer Beantwortung schicken wir eine kurze Verständigung über einige sprachliche Bezeichnungen voraus. Das Wort „Organon“ bezeichnete im Griechischen zu nächst ein Körperglied, sodann dessen Nachbild, das Werk zeug, und weiterhin sogar den Stoff, den Baum oder das Holz, woraus es verfertigt wird. Die deutsche Sprache wechselt, jedoch nur in physiologischer Anwendung, be liebig mit den Ausdrücken Organ und Werkzeug, macht also keinen Unterschied z. B. zwischen Athmungsorgan und Athmungswerkzeug, während auf dem mechanischen Gebiet lediglich von Werkzeugen die Rede ist. Die genauere Unterscheidung lässt füglich das Organ der Physiologie und das Werkzeug der Technik. Wie in der inneren Glie [p. 41] derung des Körpers die dessen Ernährung und Erhaltung besorgenden Gebilde Organe heissen, und ebenso die als Schwelle von aussen nach innen die Wahrnehmung der Dinge vermittelnden Sinne, so kommt auch der äusseren
+
+Gliederung, den Extremitäten, die Benennung Organe zu. Unter den Extremitäten gilt die Hand wegen ihrer dreifachen Bestimmung im verstärkten Sinne als Organ. Einmal nämlich ist sie das angeborene Werkzeug, sodann dient sie als Vorbild für mechanische Werkzeuge und drittens ist sie als wesentlich betheiligt bei der Herstellung dieser stofflichen Nachbildungen, wie Aristoteles sie „das Werkzeug der Werkzeuge“. Die Hand ist also das natürliche Werkzeug, aus des nennt, sen Thätigkeit das künstliche, das Handwerkzeug hervor geht. Sie liefert in allen denkbaren Weisen ihrer Stellung und Bewegung die organischen Urformen, denen der Mensch un bewusst seine ersten nothwendigen Geräthe nachgeformt hat. In ihrer Gliederung als Handfläche, Daumen und Ge finger ist die offene, hohle, fingerspreizende, drehende, - fassende und geballte Hand für sich allein, oder zugleich mit gestrecktem oder gebogenem ganzen Unterarm, die gemeinsame Mutter des nach ihr benannten Handwerkzeuges. Nur unter der unmittelbaren Beihülfe des ersten Hand werkzeuges wurden die übrigen Werkzeuge und überhaupt alle Geräthe möglich.
+
+Von den 'primitiven Werkzeugen erweitert sich der Begriff aufwärts bis zu den Werkzeugen der besonderen
+
+Berufsthätigkeiten, den Maschinen der Industrie, der Bewaffnung bei der Kriegsführung, den Instrumenten und Apparaten der Kunst und Wissenschaft, und umfasst mit dem Einen Wort Artefacte das ganze System der in den Bereich der mechanischen Technik gehörenden Bedürfnisse, [p. 42] wo nur immer der Mensch „die Hand im Spiele hat“ , mögen sie der täglichen Nothdurft dienen oder Gegen stände des Schmuckes und der Bequemlichkeit sein.
+
+Unter Benutzung der in der unmittelbaren Umgebung nächst „zur Hand“ befindlichen Gegenstände erscheinen die ersten Werkzeuge als eine Verlängerung, Verstärkung und Verschärfung leiblicher Organe. Ist demnach der Vorderarm mit zur Faust geballter Hand oder mit deren Verstärkung durch einen fassbaren
+
+Stein der natürliche Hammer, so ist der Stein mit einem Holzstiel dessen einfachste künstliche Nachbildung. Denn der Stiel oder die Handhabe ist die Verlängerung des Armes, der Stein der Ersatz der Faust. Es ist die Gruppe der Hämmer, Aexte und deren nächste Formen aus der Steinzeit, auf welche wir mit Rücksicht auf deren hervor ragende Bedeutung die Auswahl einiger Abbildungen von Werkzeugen beschränken. (Fig. 1. 2. 3.) Diese je nach Material und Gebrauchszweck sehr mannichfach veränderte Grundform des Hammers hat sich unter anderen im Hand- und im Zuschlaghammer der Schmiede und im „Fäustel“ der Bergleute unverändert erhalten und ist sogar in dem kolossalsten Dampfstahlhammer noch erkennbar. - Der Hammer ist wie alles primitive Handwerk zeug eine Organprojection oder die mechanische Nachfor mung einer organischen Form, in welcher, mit Caspari zu reden, der Mensch die durch Handgeschicklichkeit verstärkte Armkraft beliebig darüber hinaus erweitert (1, 210). Der hohen Meinung von der Wichtigkeit des Hammers giebt
+
+Laz. Geiger in den Vorträgen „zur Entwickelungsgeschichte der Menschheit“ mit den Worten Ausdruck: „So gross der Gegensatz einer Dampfmaschine unserer Tage mit dem ältesten Steinhammer immer sein mag: dasjenige Geschöpf, [p. 43] welches zuerst seine Hand mit einem solchen Werkzeuge bewaffnete, welches vielleicht einen Fruchtkern zum ersten Mal auf diese Weise einer harten Schale abgewann, es musste, so scheint es, einen Hauch jenes Geistes in sich verspüren, welcher einen Entdecker unserer Zeit unter dem Aufblitzen eines neuen Gedankens beseelt.“ (S. 87.) Wie das Stumpfe in der Faust vorgebildet ist, so die Schneide der Werkzeuge in den Nägeln der Finger und Fig. 2.
+
+Fig. 1.
+
+Fig. 3.
+
+Hämmer. 1. Behaustein.
+
+2. Steinhammer in Hirschhorn gefasst. 3. Steinhammer.
+
+den Schneidezähnen.
+
+Der Hammer mit einer Schneide geht in die Umgestaltung von Beil und Axt ein; der ge steifte Zeigefinger mit seiner Nagelschärfe wird in technischer Nachbildung zum Bohrer; die einfache Zahnreihe findet sich wieder an Feile und Säge, während die grei)
+
+fende Hand und das Doppelgebiss in dem Kopf der Beiss zange und in den Backen des Schraubstockes zum Aus druck gelangt. Hammer, Beil, Messer, Meissel, Bohrer,
+
+[p. 44] Säge, Zange sind primitive Werkzeuge, gewissermaassen die „Werk - Werkzeuge“, die urersten Begründer der staat lichen Gesellschaft und ihrer Cultur. (Fig. 4. 5. 6.)
+
+Wie die Herstellung der Werkzeuge sich je nach dem verwendeten Stoffe, Holz, Horn, Knochen, Muscheln, Stein, Bronze und Eisen vervollkommnete, darüber giebt die Fig. 4.
+
+Fig. 5.
+
+Fig. 6.
+
+Messer und Sägen. 4. Feuersteinmesser,
+
+5. Steinsäge.
+
+6. Steinsäge in Hirschhorngriff.
+
+Geschichte der Erfindungen nach der beliebten Stufenfolge einer Holz-, Stein-, Bronze- und Eisenperiode Auskunft. Seiner dem leiblichen Organ entlehnten Form nach ist der Hammer von Stein so gut ein Hammer wie der von Stahl. Uns kann es auf das Einhalten der historischen Folge eben nicht ankommen, weil es sich hier nur um den Nachweis handelt, dass der Mensch in die ursprünglichen Werkzeuge [p. 45] die Formen seiner Organe verlegt oder projicirt hat. Es soll die innere, mehr in unbewusstem Finden, als in beabsichtigtem Erfinden hervortretende Verwandtschaft des Werkzeugs mit dem Organ betont und gezeigt werden, dass der Mensch in dem Werkzeug stets nur sich selbst producirt. Da das Organ, dessen Gebrauchsfähigkeit und Kraft potenzirt werden soll, maassgebend ist, so kann auch nur von ihm die ihm entsprechende Werkzeugsform ge liefert werden.
+
+So quillt ein Reichthum von Schöpfungen des Kunst triebes aus Hand, Arm und Gebiss. Der gekrümmte Finger wird zum Haken, die hohle Hand wird zur Schale; im Schwert, im Speer, im Ruder, in der Schaufel, im Rechen, im Pflug, im Dreizack hat man die mancherlei Richtungen des Arms, der Hand und ihrer Finger, deren Anpassung auf die Jagd-, Fischfang-, Garten- und Feldgeräthe sich ohne besondere Schwierigkeit verfolgen lässt. Wie der Griffel ein verlängerter Finger, so ist die Lanze eine Verlängerung des Arms, dessen Kraftwirkung sie steigert, indem sie mit der Distanzverkürzung die Erreichbarkeit des Ziels erhöht, ein Vortheil, der durch Freigebung des Speeres im Wurf sich noch vervielfacht.
+
+Der in die Handspitze auslaufende Arm hat an den ursprünglich raubthierartig mit Nägeln bewehrten Fingern die natürlichste zum Einschlagen, Aufreissen und Verwunden geeignete Vorrichtung. Dem entsprechend wird der Schär fung und Zuspitzung von Holz- und Hornstücken passend nachgeholfen. Der Meeresstrand liefert zu diesem Zwecke die Bestandtheile des Skelets von Seethieren, das Binnenland diejenigen der es bewohnenden Fauna, und vor allem den Horn- oder Feuerstein. Gleichzeitig unterstützte theilweise
+
+Benutzung des Feuers das Härten, Verkürzen, Aushöhlen [p. 46] und Glätten der Holz- und Horntheile, sowie das Zer stückeln der Steine.
+
+Das Bruchstück vom Hirschgeweih mit einer Endzacke, die halbe Kinnlade vom Höhlenbär konnten, so wie sie waren, zur Verlängerung der Hand, deren gekrümmte Fin Fig. 7.
+
+Fig. 8.
+
+FG Hacken. 7. Hacke aus Hirschhorn.
+
+8. Steinhacke befestigt in Holz und Hirschhorn.
+
+ger härteren Boden nicht zu lockern vermochten, benutzt werden. (Fig. 7. 8.) Aus solchem ersten Nothbehelf mochte die Hacke hervorgehen, welche, in der Winkelrichtung des Eisens die Hand und in dem Holztheil den Arm vor stellend, nach A. Schleicher's für Aehnliches gebrauchtem, auch hier durchaus passendem Ausdruck, „eine Art Erscheinung des Organs selbst“ ist.
+
+[p. 47] Die bisher aus einem unübersehbaren Vorrath heraus gerissenen Beispiele werden genügend darthun, dass die elementare Beschaffenheit des Werkzeugs in allen spätern Metamorphosen des Gegenstandes wieder zu erkennen ist. Die Producte der gesteigertsten Industrie verleugnen nicht ihren Ausgang und ihre wesentliche Bedeutung. Die Dampfmahlmühle und die Steinhandmühle des Wilden sind eben Vorrichtungen zum Mahlen. Die Seele beider ist und bleibt der Mahl- oder Mühlstein, und die beiden concav und convex zusammenpassenden Feldsteine, sie waren die erste Vorrichtung zum Ersatz der die Körner zerreibenden Mahlzähne des Gebisses.
+
+In allen Transformationen der
+
+Wasser-, Wind- und Dampfmühlen ist der Theil, welcher sie zu dem macht was sie sind, der Mahlstein, der näm liche, wäre er auch wie in der eisernen Handmühle durch Metallscheiben ersetzt.
+
+Mit besonderer Beziehung auf die Entstehung des Werkzeugs hat Laz. Geiger einen Vortrag über „die Ur geschichte der Menschheit im Lichte der Sprache“ mit besonderer Beziehung auf die Entstehung des Werkzeugs veröffentlicht und darin unwiderlegbar gezeigt, dass die Wurzel der Benennung des Werkzeugs in innerem Zusammen hang mit einer ursprünglich organischen Thätigkeit steht, so dass das Wort und die bezeichnete Sache aus einer gemeinschaftlichen Wurzel stammen.
+
+Die Höhe der wissenschaftlichen Sprachforschung be steht bekanntlich darin, dass von ihr auch da, wo sogar geologische Funde ausgeben, apriorisch angenommene ur geschichtliche und geschichtliche Vorgänge als Thatsachen beglaubigt werden können. Denn die Sprachwurzeln trans substanziiren sich in den Wortfamilien, sowohl innerhalb einer Sprache, wie von Sprache zu Sprache, und sind nur
+
+[p. 48] Die ersten Werkzeuge.
+
+Wurzeln in Beziehung auf Stamm- und Zweigbildungen, in denen sie fortleben. Eine Baumwurzel getrennt vom Stamm hört in dieser aussergenetischen Vereinsamung auf, Wurzel zu sein, und ist nichts mehr als jedes andere beliebige Stück Holz. Was wirklich in der Sprache als Wurzel an erkannt ist, gilt und lebt fort in ihr, und wenn daher die sprachlichen Spuren der Bezeichnung eines Werkzeugs sich in fernste Zeiten zurückverfolgen lassen bis zur Thätigkeit eines Organs, welche genau mit Gebrauch und Zweck des technischen Productes stimmt, so liegt in diesem Fall auch der Beweis vor, dass das technische Product von der Thätigkeit eines Organs producirt und projicirt ist, und dass demnach dessen primitive Form dem unbewusst finden den und nachschaffenden Kunsttriebe vom Innern des Organismus heraus vorgesehen und vorgeschrieben war. Wie der Mensch stets von innen nach aussen, von seiner Anlage aus, lernt, und von aussen nach innen nur insofern, als die Dinge das Material für sein Vorstellungsvermögen sind, ebenso fliessen seinem Gestaltungsbedürfnisse die Muster formen für seine mechanischen Bildungen von innen heraus zu. Auch der leibliche Organismus, das verkörperte Ich Selbst, ist ein Inneres gegenüber dem Nicht- Ich, dem Gegen Ich, in welches er sich durch mechanische Verstärkung und Ausdehnung seiner Glieder nur insofern erweitert und ver vielfältigt, als diese maassgebend für deren Substitute waren. Nach Geiger hatte der Mensch Sprache vor dem Werk zeug und vor der Kunstthätigkeit. „Betrachten wir,“ sagt er, „irgend ein Wort, das eine mit einem Werkzeug aus zuführende Thätigkeit bezeichnet: wir werden immer finden, dass dies nicht seine ursprüngliche Bedeutung ist, dass es vorher eine ähnliche Thätigkeit bedeutet hat, die nur der ursprünglichen Organe des Menschen bedarf. Vergleichen [p. 49] wir z. B. das uralte Wort mahlen, Mühle, lat. mola, griech. uúrn. Das aus dem Alterthum wohlbekannte Verfahren, die Körner der Brodfrucht zwischen Steinen zu zerreiben, ist ohne Zweifel einfach genug, um in einer oder der anderen Form schon für die Urzeit vorausgesetzt zu werden. Den noch ist das Wort, das wir jetzt für eine Werkzeugthätig keit gebrauchen, von einer noch einfacheren Anschauung ausgegangen. Die in dem indoeuropäischen Sprachstamm sehr verbreitete Wurzel mal oder mar bedeutet ,, „mit den Fingern zerreiben“ " , auch wohl „„mit den Zähnen zermalmen““ . Diese Erscheinung, dass die Werkzeug thätigkeit von einer einfachen, älteren thierischen benannt wird, ist eine ganz allgemeine und ich weiss sie nicht anders zu erklären, als daraus, dass die Benennung älter ist als die Werkzeugthätigkeit, die sie heute bezeichnet, dass das Wort schon vorhanden war, ehe die Menschen sich anderer Organe bedienten als der angeborenen natürlichen. Woher hat die Skulptur den Namen? Sculpo ist eine Nebenform von scalpo und bedeutet anfangs nur das Kratzen mit den Nägeln.“
+
+Wir müssen uns hüten, dem Nachdenken bei der Entstehung des Werkzeugs einen zu grossen Antheil zuzu schreiben.
+
+Die Erfindung der ersten höchst einfachen
+
+Werkzeuge geschah gewiss gelegentlich, zufällig, wie so manche grosse Erfindung der Neuzeit. Sie wurden ohne Zweifel mehr gefunden als erfunden.
+
+Diese Ansicht hat sich mir besonders aus der Beobachtung gebildet, dass die Werkzeuge niemals von einer Bearbeitung benannt sind, sondern immer von der Verrichtung, die sie auszu führen haben. Eine Scheere, eine Säge, eine Hacke sind Dinge, die scheeren, sägen, hacken. Dieses Sprachgesetz muss um so auffallender erscheinen, als die Geräthe, die [p. 50] nicht Werkzeuge sind, genetisch, passivisch nach ihrem Stoff oder der Arbeit benannt zu werden pflegen, aus der sie her vorgehen. Der Schlauch z. B. ist überall als eine abgezogene Thierhaut aufgefasst. Bei den Werkzeugen ist dies nicht der Fall, und sie können daher, soweit es die Sprache angeht, sehr wohl anfangs gar nicht bereitet, das erste Messer kann ein zufällig gefundener, ich möchte sagen, spielend ver wendeter, scharfer Stein gewesen sein. “ (a. a. 0. S. 31–37.) Als ferneres Beispiel führt ebendaselbst Geiger auch die Scheere an.
+
+Danach bedeutet Scheer e ein Doppel
+
+• messer, ein zweiarmiges schneidendes Werkzeug. Inder und Griechen haben ein nahe verwandtes Wort, und das schwedische skära heisst Sichel. Ehe Scheere und Scheer messer bei den indogermanischen Nomaden der Urzeit zur
+
+Schafschur diente, wurde die Wolle der Schafe gerupft. Plinius sagt: „Die Schafe werden nicht überall geschoren, an manchen Orten dauert die Gewohnheit des Rupfens fort.“ (VIII, 2. 73.) Die Verwandtschaft von scheeren mit schar ren, mit dem althochdeutschen Namen des Maulwurfs scöro, das scharrende Thier, macht es wahrscheinlich, dass nach der Grundbedeutung des Wortes schaben, kratzen, scharren die Scheere als ein Werkzeug zum Schaben und Kratzen der Haut zum Zweck des Rupfens aufgefasst sei. „Auf solche Weise können wir die Benennungen der Werkzeuge und auch die Werkzeugthätigkeit selbst in einem lang sa men Processe aus einer ganz allmäligen Fortentwickelung der menschlichen Bewegungen, wie sie anfangs schon dem sich allein überlassenen
+
+Leibe des Menschen möglich waren, entsprungen denken. “ Der Vortrag, welchen Professor llelwig zu Ende 1874 im deut schen archäologischen Institut in Rom über die Scheermesser der Alten hielt, bestätigt vollkommen, unter geschehener Vorzeigung [p. 51] mehrerer Modelle, die Ansicht Geiger's von der Sichelform der Scheermesser überhaupt und weist die Sichelform speciell auch für die antiken Rasirmesser nach, deren Gebrauch schon im frühesten Alterthum bekannt gewesen sei.
+
+Sicher ist aus dem sichelförmigen Scheermesser die Scheere hervorgegangen, aber welcher Abstand zwischen jenem Werkzeug der Vorzeit in der Hand des Nomaden und der Scheere Paul Konewka's!
+
+Geiger legt grosses
+
+Gewicht auf einen Unterschied, der geeignet sei, den Aus druck Entwickelung, auf das Werkzeug angewendet, als eine volle Wahrheit erscheinen zu lassen, nämlich den Unterschied zwischen primären und secundären Werkzeugen. „Das Werkzeug, in seiner Entwickelung beobachtet, gleicht auf wunderbare Weise einem natürlichen Organe, es hat ganz wie dieses seine Transfor mationen, seine Differenziirungen. Man würde das Werkzeug gänzlich missverstehen, wenn man immer in seinem nächsten
+
+Zwecke die Ursache seiner Entstehung finden wollte. So hat z. B. schon Klemm darauf aufmerksam gemacht, dass der Bohrer aus dem Reibfeuerzeug der Urzeit entstanden sei.“ Soviel ist nach Obigem klar, dass auch nach Geiger's Auffassung, welchen selbst Steinthal mit Beziehung auf das Buch über Ursprung und Entwickelung der menschlichen Sprache und Vernunft den gelehrtesten Sprachforscher seiner Zeit nannte, das Werkzeug vor dem hohen Tribunal der Sprachforschung das ist, was die Sprache selbst auch, nämlich des Menschen „absolute Selbstproduction“. Die Sprache sagt, welche Dinge sind und was sie sind, vor allem aber sie offenbart als des Menschen höchstes geistiges Selbstbekenntniss, was sie selbst ist.
+
+In ihr sind alle
+
+Dinge aufgehoben, im Doppelsinne des Wortes, d. i. nicht allein bewahrt und erhalten, sondern auch erhöht und 4* [p. 52] geistig verklärt. Demnach leuchtet ein, weshalb Geiger's Ansicht hier so hoch anzuschlagen ist in Bezug auf die gliche Formübereinstimmung der primitiven Werk zeuge und der unter ihrer Beihülfe weit über den unmittelbaren Contact mit der Aussenwelt hinauslangenden leib lichen Organe.
+
+Dem Verständnisse dessen, was Geiger die Entwickelung des Werkzeugs genannt hat, dürfte, wie wir noch hinzufügen wollen, die Berücksichtigung der gleichzeitig vor sich gehenden Entwickelung des Organs zu statten kommen. Die Hand des Urmenschen war ohne Zweifel von der Hand des Culturmenschen sehr verschieden, insofern ihr erst nach und nach unter dem Einfluss der ihr durch den Gebrauch des Werkzeugs möglichen Schonung und Uebung eine grössere Weichheit und Beweglichkeit zu Theil wurde.
+
+Sie wurde von der ununterbrochenen un mittelbaren Berührung mit der rohen und harten Materie erlöst und steigerte mittels des Werkzeugs die zur An fertigung der vollkommneren Geräthe erforderliche Ge schmeidigkeit. So unterstützte in Wechselwirkung das Werkzeug die Entwickelung des natürlichen Organs, dieses hinwiederum auf jeder höheren Stufe entsprechender Geschicklichkeit die Vervollkommnung und Entwickelung des Werkzeugs. Der erste beste Stein oder Ast, unverändert wie er sich vorfand, von der Fusshand des Affen aufgerafft, bleibt Stein und Ast wie alle anderen Steine und Aeste. In der Hand aber des Urmenschen ist Stein und Ast die Verheissung des Werkzeugs, die Urzelle eines ganzen Cultur apparates der fernsten Zukunft. Schon die Wahl eines solchen Gegenstandes für einen bestimmten Zweck nähert ihn dem Begriff des Werkzeugs. Das Abstossen und Ab [p. 53] schlagen der ein schmerzloses Anfassen und Festhalten hindernden Schärfen und Buckel an harten Gegenständen ist als die erste freie Veränderung des natürlichen Objectes zu betrachten.
+
+Hiermit war für die Herstellung der ersten Werkzeuge recht eigentlich Thür und Thor geöffnet; denn Stein und Ast sind die Embryonen des Werkzeugs. Je nach der Wahl in Bezug auf Form und Beschaffenheit wird der Ast zum Stab, zur Keule, zur Lanze, zum Ruder, zum Bogen und zur Handhabe überhaupt, der Stein unterstützt die klopfende, schneidende, bohrende, schleifende, glättende Hand und entlehnt dagegen von ihr in seiner weiteren Metamorphose, gestielt mit Holz und gefasst mit Horn, die ersten festeren Maasse und Verhältnisse. Das Werkzeug wird um so handlicher, je mehr in ihm die wesentlichen Eigenschaften der schöpferischen Hand, ihre Gestalt und Bewegungsfähigkeit verkörpert sind. Wie entschieden das Gebiss und die Nägel des Ur menschen, von deren naturwaffenartiger Beschaffenheit man sich keine zu geringe Vorstellung machen darf, in Gestalt von Keil und Meissel in das Gebiet der primitiven Werk zeugformirung hineinragen, ist oben berührt worden. (Fig. 9. 10. 11.) Schneiden, Spitzen und Schärfen haben ihr Urbild an den Zähnen, mit denen der Urmensch ja gerade alles das mühsam verrichtete, was er später im Besitz entsprechender Werkzeuge so viel leichter auszuführen im Stande war.
+
+Bezüglich der Umgestaltung z. B. des primären Hammers zu sehr verschiedenen Zwecken sind hier nur Andeutungen erlaubt. Denn nicht auf eine Geschichte der Werkzeuge haben wir uns einzulassen, sondern die Aufgabe ist, die Bedeutung ihrer Formirung für den Fortschritt im Selbst bewusstsein hervorzuheben.
+
+5+
+
+Was die Steinzeit angeht, so konnten der Umgestal tungen des Hammers im Verhältniss zu der geringen Gestaltungsfähigkeit des Materials nur wenige sein. Die eine Stumpfseite des steinernen Kopfes, schneidig zugerich tet, gab passlich für Eine Hand das zugleich mit dem anderen Stumpfende als Hammer brauchbare Beil, und Fig. 9.
+
+Fig. 10.
+
+Fig. 11.
+
+an 9. Steinkoil.
+
+Keil und Meissel. 11. Steinmeissel mit Hirschhorngriff.
+
+10. Steinmeissel.
+
+in Vergrösserung die mit beiden Händen zu führende Axt.
+
+(Fig. 12. 13. 14. 15.) Erst die Metallbearbeitung gestattete eine grössere Mannigfaltigkeit in der Umformung des Ham merkopfes. Gespitzt, schmalflach oder breitflach, gestreckt, gradaus gezinkt, im Winkel flach oder gezinkt, wurden daraus Spitzhammer, Schaufel, Spitz-, Schmal- und Breit hacke, Karst u. s. w. und das Beil streckte sich mit Verlängerung seiner Schneide zum Messer, zur Säge und zur Feile. War also der Fausthammer das einfache Abbild von Arm und Faust, so dienten, wie angegeben, die verschiede [p. 55] nen Stellungen von Hand und Arm als Vorbild für ent sprechende Umformungen des Hammerkopfes. Wir müssen Fig. 15.
+
+Fig. 12.
+
+Fig. 14.
+
+Fig. 13.
+
+Beile und Aexte. 12. Beilhammer.
+
+13. Geschliffenes Steinbeil. 14. Geschliffene Steinaxt in Hirschhorn, 15. Steinaxt in Hirschhorn mit Stiel.
+
+es dem Leser überlassen, aus dem Gebiete seiner von Jugend an gehabten Anschauungen die weiteren Con [p. 56] sequenzen für die Umgestaltung der primären Werkzeuge sich selbst zu ziehen: wie unter andern aus Holz und Stein Geschosse wurden, Wurfspeer und Schleuder, Ballisten und Katapulten, Pfeil und Bogen, Blasrohr, Armbrust, Flinten und Kanonen, wie der gekrümmte Finger der rupfenden Hand zur Sichel, die Sichel zur Sense, die Sense zur Mähmaschine sich umgestaltete, und wie der Begriff der ursprünglichen in der Grundform ausgesprochenen Thätigkeit sich durch eine ganze Reihe von Verwandlungen hindurch erhält.
+
+Es giebt kaum ein mehr in die Augen fallendes Bei spiel solcher Umgestaltung, als die der hohlen Hand nach geformte Schale, die Grundform so vieler Haus- und Kü chengeräthe, je nach der Veränderung ihrer Dimensionen vom Löffel, Becher, Krug, Eimer bis zur Amphora und zur Vase. Ihr erster Ersatz war wohl die Halbschale einer Frucht, wie denn überhaupt solche den natürlichen
+
+Organen nächstähnliche Dinge als bequemste Aushülfe ge wählt wurden.
+
+Danach folgte die freie Bearbeitung des
+
+Stoffes, Becher wurden aus Holz geschnitzt, aus Thon ge formt, aus Metall gehämmert oder gegossen. Ist doch auf die hohle Hand, die natürliche Schale, und auf den Hand teller der ganze Reichthum jenes bekannten „Japanischen Museums“ zurückzuführen!
+
+Bei der entscheidenden Stimme, welche nicht selten in letzter Instanz der Sprachforschung zukommt, heissen wir eine zustimmende Aeusserung in L. Geiger's angeführter Abhandlung (S. 41) besonders willkommen: „Der Gebrauch von Werk zeugen, die er selbst bereitet hat, ist entschiedener als alles
+
+Andere ein augenfälliges, unterscheidendes Merkmal für die Lebensweise des Menschen. Aus diesem Grunde ist die Frage nach der Entstehung des Werkzeuges ein Gegenstand von der höchsten Wichtigkeit für die menschliche Urgeschichte, und [p. 57] ich habe daher die Frage nach der Beschaffenheit der Geräthe des Menschen in der Urzeit in diesem einerseits etwas engen, andererseits zugleich weitergreifenden Sinne fassen zu dürfen geglaubt. Ich nehme keinen Anstand zu behaupten, dass es eine Zeit gegeben haben muss, wo der Mensch Geräthe und Werkzeuge nicht besass, sondern sich durchaus mit seinen natürlichen Organen begnügte; dass hierauf eine Zeit folgte, wo er schon im Stande war, diesen Organen ähnliche, zufällig auf gefundene Gegenstände zu erkennen, zu nutzen, die Kraft sei ner natürlichen Werkzeuge durch sie zu erweitern, zu erhöhen, zu bewaffnen, um z. B. eine hohle Pflanzenschale als Surrogat für die hohle Hand, welche das erste Gefäss gewesen war, zu verwenden. Erst nachdem der Gebrauch dieser zufällig sich darbietenden Geräthe geläufig geworden war, trat auf dem Wege der Nachbildung die schöpferische Thätigkeit ins Leben. “ Man hat hierbei stets das allmälige Nachlassen der un mittelbaren Nachhülfe durch die Hand im Auge zu behalten. Das Handwerkzeug ruht voll und ganz in der Hand des Menschen; daher heisst es Handsäge, Handbohrer, Handbeil,
+
+Handhammer. Bei der Maschine jedoch giebt die mensch liche Hand meistens nur Anfang, Richtung und Stillstand der Bewegung an. Diese Mechanismen bedürfen nicht einer unausgesetzt unmittelbaren Fassung mit der Hand. Sichel und Sense werden von ihr allein geführt, bei der Mäh maschine wird die Handkraft durch thierische Kräfte unter Aufsicht und Leitung des Menschen ersetzt. Niemals aber ist bei irgend einer Maschine die Menschenhand völlig aus dem Spiele; denn auch da, wo ein Theil des Mechanismus sich gänzlich ablöst, wie der Pfeil, die Gewehr kugel, die dem Schiffbrüchigen die rettende Leine über bringende Rakete, ist die Abweichung nur vorübergehend und scheinbar.
+
+Der zum Schutz und zur Verstärkung ergriffene und in der Hand verbleibende Stein ist in unmittelbarer Ver [p. 58] einigung mit dem natürlichen Organ. Die Hand greift ihn und der Arm führt damit die nöthige Hebelbewegung aus. Beim Wurf tritt eine Combination von vielen Bewegungen ein, die Hand greift und lässt los, der ganze Arm ist mit vol lem Schwung, ja der ganze Körper ist an der Beugung und Streckung betheiligt. Anders die Maschine! Aber wenn sie auch in den verschiedenen Stadien ihrer Entwickelung sich immer weiter von der in ihrem ersten Entstehen vorhande nen äusseren Uebereinstimmung mit dem leiblichen Organ entfernt, so liegt das eben im Begriff der Entwickelung, zugleich aber bringt es eben dieser Begriff mit sich, dass ein Unveränderliches durch alle Veränderungen der Gestaltung hindurchgeht, von jenem Schleuderstein an, dem der alttestamentarische Riese erlag, bis zu der welthisto rischen Musketenkugel der Lützener Schlacht. Dass der Mensch behufs der Construction von Maschinen unbewusst hat in sich selbst zurückgreifen müssen, um nach dem Vorbild des einheitlichen lebendigen Glie derganzen seines leiblichen Organismus die Theile der todten Maschine in übereinstimmende Zweckthätigkeit zu versetzen, wird weiter unten zur Erörterung kommen. In ethnologischen Museen und auf Weltausstellungen, wo sich die einfachsten Geräthe des Wilden und die com plicirtesten Maschinen der modernen Cultur begegnen, ist dem Betrachter der Faden für die Entwickelung .des Werkzeuges augenscheinlich an die Hand gegeben. Je nach der Beschaffenheit des überwiegend zu Geräthen verwendeten Materials und nach den vorherrschenden allgemeinen Lebensrichtungen sind gewisse culturgenetische Perioden angenommen worden, wie sie das Bedürfniss übersichtlicher
+
+Anordnung mit sich zu bringen pflegt. Man unterscheidet eine Stein-, Bronze- und Eisenzeit und lässt der [p. 59] Beschäftigung der Menschen mit nomadischer Viehzucht eine Periode des Jägerlebens vorausgehen und eine andere des Ackerbaues mit festen Wohnsitzen und mit dem Ueber gang zu Kunst und Wissenschaft nachfolgen. Von einer regelmässigen Folge von in sich auch nur annähernd ab gegrenzten Zeiträumen ist hierbei gänzlich Abstand zu nehmen. Denn es giebt Nomaden, welche einen Ueber gang zur sesshaften Lebensweise nie machen werden, und Jägervölker, die, ohne Durchgang durch ein Nomaden leben, Landbauer geworden sind, und ganz in ähnlicher Weise ist den Bewohnern von Ländern, in denen ein Reich thum von Metallen den Mangel des Feuersteins ausgleicht, das Steinzeitalter fremd geblieben.
+
+Es ist vorauszusetzen, dass die bisherige Erörterung unter Anführung so handgreiflicher Thatsachen den Be weis wenigstens angebahnt hat, dass das erste Handwerk zeug nur bei möglichster Formähnlichkeit die Verrichtungen des Organs unterstützen und so als homogene Erweiterung und Verstärkung desselben gelten konnte. Die vollständige Beweisführung muss dem „Eins nach dem An deren“ unserer Erörterung vorbehalten bleiben. Während bisher meist die Form zur Sprache kam und der Bewegung der Organe nur nebenbei Erwähnung geschah, wenden wir uns nunmehr auch zu dieser. Es wird sich hierbei herausstellen, dass die Bewegungs gesetze der Organe, deren sich der Naturmensch eben so wenig bewusst ist, wie ihrer Uebertragung auf das Nach bild, einen geistigen Anhauch der in Werkzeuggestalt den menschlichen Zwecken dienstbar gewordenen Materie verleihen.
+
+So bewahrt das Kunst- und Maschinenwerk die Erinnerung an seine Herkunft, an die Organe des Menschenleibes und an die ersten ihnen nachgebildeten
+
+[p. 60] Geräthe, und so auch bleibt der Mensch in einem inneren Verhältniss zu den aus ihm und von ihm nach den maass gebenden Organen producirten Artefacten. Eine schlagende Beweiskraft für diese innere Gemein schaft, in welche das Werkzeug und sein Schöpfer durch die Organprojection treten, enthält einer der ersten Sätze, womit Adolph Bastian sein Werk über die Rechtsverhält nisse bei verschiedenen Völkern der Erde“ eröffnet: „Der
+
+Mensch, dem, hülflos wie kein anderes Thier geboren, nicht von Natur die Mittel zur Fristung seiner Existenz mit auf die Welt gegeben sind, ist von vornherein auf die Kunst hingewiesen, auf die erfindende Thätigkeit seines Geistes, um den Kampf mit der Umgebung zu bestehen. Er verfertigt sich Waffen zur Jagd und zum Fischfang und er wird dieses von ihm selbst geschaffene Product als zu seinem Selbst gehörig ansehen, also sein Eigen nennen.“ Wenn nun A. Bastian noch hinzufügt: „Aus dem Besitz der Waffen als solcher leitet sich deshalb ein unwillkürliches Recht ab auf die Jagd, den Fischfang, sowie die Thiere, die denselben ermöglichen,“ so erscheint die Waffe, ihr Besitz, und der sich erst da durch documentirende Besitz, dass sie in Congruenz mit der Hand des Menschen in Bewegung gesetzt wird, ge wissermaassen als ein Rechtstitel auf die ganze belebte Schöpfung. Das Verwachsensein des Werkzeuges mit dem menschlichen Selbst geistvoller aufzufassen, ist kaum denk bar. Wir können dem weittragenden Gedanken hier nur insofern nachgehen, als die Organprojection sich den Vortheil eines so gewichtigen Zeugnisses nicht entgehen lassen will.
+
+Was von den Waffen gilt, gilt selbstredend von allen Werkzeugen.
+
+[p. 61] Unmittelbar durch die Hand wird ohne Ausnahme das gesammte Handwerkzeug in Bewegung gesetzt. Ihre Betheiligung giebt die Unterscheidung von Handbohrer und Maschinenbohrer. Die Bewegung des Handwerkzeuges ist die Fortsetzung der Hand- und Armbewegung durch
+
+Ueberleitung derselben auf die technische Verlängerung, die in Form eines Gliedansatzes an das Organ stattfindet. Dieselbe nimmt an den Bewegungen des natürlichen Werkzeuges Theil und folgt ihnen um so ungestörter und leichter, je handlicher die Anpassung bewerkstelligt worden ist. Die organischen Regeln, denen der leibliche Bewe gungsapparat folgt, heissen in ihrer Anwendung auf Werk zeug und Maschine „mechanische Gesetze“ . Der Ausdruck ist mit Vorsicht aufzunehmen; denn der von innen heraus sich gliedernde und wachsende Organismus ist das Werk seiner eigenen Machtvollkommenheit; der Mechanismus, durch Zusammensetzung von aussen zu Stande gebracht, ist eine „Mache" der Menschenhand. Der Organismus ist wie die gesammte Welt natura, ein Werdendes, der Mechanismus ist das gemachte Fertige; dort ist Entwickelung und Leben, hier Composition und Lebloses. Hiermit könnten nur diejenigen nicht einverstanden sein, welche zwischen dem Korkzieher, den sie in der Tasche tragen, und dem Handgelenk als einem integrirenden Glied organischer Selbstbethätigung einen Unterschied nicht finden wollen.
+
+Hat die Hand behufs Ausführung einer hebenden, schneidenden, klopfenden, drehenden Bewegung „sich be fasst“ mit einem Gegenstande, so wird dieser, je nach Gestalt und Widerstandsfähigkeit und je nach der Beschaffen heit der Arm- und Handbewegung mitthun, was die Hand thut, in deren Fassung und Gewalt er sich befindet. Sagt man, dass die Hand „sich " mit einem Gegenstand „be [p. 62] fasse " , so heisst das bei weitem mehr als das einfache, sie „ergreift“ oder „fasst“ ihn. Das rückbezügliche „sich“ deutet auf die Uebereinstimmung zwischen dem Organ und einem zum Werkzeug ausersehenen Gegenstand. Auch der Pavian greift gelegentlich Steine und wirft damit um sich, aber dieses Greifen und Werfen ist ein sich in ganz gleicher Weise wiederholendes Greifen und Werfen, Fort und Wegwerfen. Zwar macht er mit jedem Wurf einen Anlauf zu Menschlichem, zum Werkzeug, doch folgt dem Wegwerfen schlechthin immer wieder der Rückfall auf den früheren Punkt. Wenn aber der Mensch „sich“ mit dem Steine befasst und in wiederholtem Fassen und Prüfen ihn zu handlichem Gebrauch zurichtet, so versieht und bewehrt er sich mit ihm.
+
+Das Aufheben vom Boden wird alsbald ein Aufheben und Verwahren zu passender Verwendung. Einen solchen Stein trägt deshalb der Mensch fortan mit sich und führt ihn als Waffe und Werkzeug. Der Stein wurf des Pavians ist heute wie vor vielen Jahrtausenden derselbe Vorgang, der Steinwurf aus der Hand des Ur menschen war eine Verheissung des Werkzeugs und der Maschinenwelt.
+
+Hat sich demnach die hebende Hand mit einer Stange befasst, so hebt diese mit und wird zum Hebel, der scharfe und spitze Stein in der Hand schneidet und dreht sich mit und wird zu Messer, Säge und Bohrer; denn die schneidende oder bohrende Drehbewegung des Handge lenkes setzt sich schneidig oder spiralig in dem gefassten
+
+Gegenstand fort und formt ihn zu Messer, Bohrer und Schraube. Die Sprache bezeichnet die Hebelenden nach ihrem Ursprung als Hebelarme. Wie das Zermalmen mit den Zähnen vor jeder Mühle war, so das Sichheben des Armes vor allen Hebeln. In organischer Bewegung hat [p. 63] die Verrichtung mit Werkzeugen ihren Ursprung, und die ursprüngliche Bezeichnung einer organischen Bewegung ist die Wurzel der Namen von entsprechenden Mechanismen. Die Wesensbeziehung der natürlichen Organe zu den mechanischen Nachformungen drückt sich charakteristisch in den Benennungen der sogenannten Grundgesetze der Mechanik aus. Der Inhalt der Mechanik ist bekanntlich die Lehre vom Gleichgewicht und von der Bewegung der Körper. Eine directe Uebertragung ihrer kine matischen Seite, als der Lehre von den Bewegungsmecha nismen, auf die Bewegung des organischen Körpers ist natürlich unstatthaft, wohl aber ist sie als ein unentbehrliches Hülfsmittel zur Erklärung organischer Bewegungen zu ver wenden. Die physiologischen Thatsachen lassen stets einen Ueberschuss, welcher unter Zuziehung rein mechanischer
+
+Gesetze niemals aufgeht. Diese Differenz ist es, welche im Allgemeinen zwischen organischer und mechanistischer Weltanschauung und im Besonderen zwischen der Hand als Werkzeug und dem Handwerkzeug obwaltet.
+
+Nach dem Gesagten darf es nun nicht befremden, dass es gerade jene primitiven Werkzeuge sind, in welchen organische Bewegungen sich so conform verkörpert haben, dass sogar die " Thätigkeitsbezeichnung, nomen agentis, mit auf das projicirte Object übergegangen und zum physikalischen Terminus im eminent wissenschaftlichen Sinne ge worden ist.
+
+Die Kraft des Armes sich zu heben, maass gebend wie sie ist für den Begriff verschiedener Werk zeuge, verleiht die Benennung Hebel dem bekannten Ar beitsgeräthe, in gleicher Weise wie die bohrende und schraubende Handbewegung im Gewinde von Bohrer und Schraube wiederkehrt, und wie der „hängende“ Arm im Wechselschwung das Vorbild des Pendels gewesen ist.
+
+[p. 64] Von der „Pendelbewegung der Arme“ sprechend, betont G. Hermann Meyer (die Statik und Mechanik des mensch lichen Knochengerüstes S. 320. Leipzig 1873) in signifi canter Weise die, sprachliche Ableitung: „Indem jeder Arm nach rückwärts pendelt, wenn das Bein seiner Seite vorwärts gesetzt wird, – und vorwärts pendelt, wenn das Bein seiner Seite nach rückwärts gestellt bleibt, -wird durch diese Pendelbewegungen eine Aequilibrirung zwischen hinten und vorn gegeben, welche eine aufrechte Haltung des Körpers ohne zu bedeutende Schwankungen nach vorwärts und nach rückwärts leicht ermöglichen.“
+
+Ganz ebenso bespricht L. llermann (Grundriss der Physiologie des Menschen S. 277. Berlin 1870) die Pendel schwingung der Beine, in einfacher Anerkennung der Priorität des Organischen vor allem Mechanismus. Durch ver deutlichende Anwendung der Gesetze der Mechanik werden Organismen sicher eben so wenig zu Maschinen, wie diese durch Uebertragung organischer Bewegungsvorgänge zu Organismen werden. Denn die Beugung der Gelenke weist auf Muskelcontractionen, diese auf den Blutumlauf, auf Nervenströmung, Sinnesempfindung, unbewusste und be wusste Vorstellung, unbewussten und bewussten Willen hin und sublimirt in einem Ich, unter dessen centraler Macht vollkommenheit die wunderbare Harmonie im Spiel der organischen Gesammtthätigkeit zu Stande kommt. Das Ursprüngliche, welches wir als Vorbild für das Handwerkzeug erkannt haben, ist Gegenstand der physiologischen Untersuchung, und mögen vom ersten Auf treten des Urmenschen an grosse Zeiträume vergangen gewesen sein, bevor das erste Werkzeug aus dessen Hand hervorging; fernere grosse Zeiträume mussten über fort schreitender Vervollkommnung der Werkzeuge verlaufen, [p. 65] ehe die Kenntniss des Menschenleibes so weit fortgeschritten war, um als Physiologie unter erklärenden Rückschlüssen von der Beschaffenheit, dem Zweck und dem Gebrauchs erfolg des Werkzeuges auf jene Uebereinstimmung mit des Menschen eigenem Gliederbestand aufmerksam zu werden. Aus der Mechanik wanderten demzufolge zum Zweck physiologischer Bestimmungen eine Anzahl von Werkzeug namen nebst ihnen verwandter Bezeichnungen an ihren Ursprung zurück. Daher spielen in der Mechanik der Skeletbewegungen Ausdrücke wie Hebel, Charnier, Schraube, Spirale, Axen, Bänder, Schrauben spindel, Schraubenmutter bei der Beschreibung der Gelenke eine angesehene Rolle. Wir können uns, theils um dem etwaigen Vorwurf willkürlich angestellter Vergleiche zu begegnen, theils um dem Leser einen schlagenden Beleg zu geben von der Einbürgerung der Sprache der Mechanik auf organischem Gebiete, die wört liche Anführung physiologischer Beweisstellen nicht versagen. Nach W. Wundt's Lehrbuch der Physiologie (S. 678 ff.) sind die Hauptformen der Skeletbewegung: „a) Drehung um eine feste Axe, entweder als Drehung um eine annähernd horizontale im Gelenk gelegene Axe, oder als Drehung um eine annähernd verticale, mit der Axe gegen einander be wegter Knochen nahehin parallele oder zusammenfallende Axe.
+
+Erstere Gelenke sind die Gewerb- oder Charnier gelenke, letztere die Drehgelenke. Eine wichtige Form des Gewerbe gelenks ist das Schraubencharnier. Ein solches ist das Ellenbogengelenk. b) Drehung um zwei feste Axen. Hierher gehören alle diejenigen Gelenke, bei denen die Oberflächen der Gelenkenden in zwei auf einander senk rechten Richtungen eine erheblich verschiedene Krümmung ha den.
+
+Dabei hat entweder die Oberfläche in diesen beiden
+
+Richtungen eine gleichsinnige Krümmung, und nur der Grad derselben (der Krümmungshalbmesser) ist verschieden, oder die Oberfläche ist nach beiden Richtungen in verschiedenem Sinne KAPP, Phil. d. Technik.
+
+[p. 66] gekrümmt, also in der einen Richtung convex und in der an deren concav.
+
+Die Gelenke der zweiten Art hatte man als
+
+Sattelgelenke bezeichnet. c) Drehung um eine in einer bestimmten Richtung bewegliche Axe – Spiral gelenke. Der Prototyp derselben am menschlichen Skelet ist das Kniegelenk. d) Drehung um einen festen Punkt. Diese Gelenke gestatten die freieste Beweglichkeit. Es gehören dahin ausschliesslich die Kugelgelenke, das Hüftgelenk und das Schultergelenk.“ K. Vierordt führt (a. a. 0. S. 107) als eine Abart der Gewerbegelenke das Schraubengewerb gelenk auf. „Am deutlichsten ist die Schraubenform im Ti bio-Astragalusgelenk. Die Astragalusrolle stellt einen Abschnitt einer Schraubenspindel, die Tibiafläche einer Schrauben mutter dar. Das rechte Gelenk entspricht einer linksgewun denen Schraube und umgekehrt. Die Schraubenform ist frei lich in der Regel nur schwach angedeutet, d. h. die Höhe des Schraubenganges, von dem das Gelenk einen Abschnitt bildet, ist sehr gering. Auch das Ellenbogengelenk gehört zu den Schraubengewerbgelenken.“ Zur Ergänzung ist hier mit Vortheil zu vergleichen, was L. Hermann in der Schilderung der Mechanik des Skelets über „Gelenke, Haft- und Hem mungsmechanismen, Gleichgewichtsbedingungen und active Locomotion des Gesammtkörpers gesagt hat. (a. a. 0. S. 267.)
+
+Im Licht der angeführten Autoritäten erhellt die con stitutive Bedeutung aller Gelenkbewegungen, namentlich der von der Schulter bis zu den Fingerenden vertheilten, für die Werkzeugentstehung und für die einheitliche, Vor und Nachbild mit demselben Worte treffende Namengebung.
+
+Der physiologischen Erklärung der Gelenkbewegungen ge hen manche andere Congruenzen zur Seite, wie unter an deren das Gesetz des Parallelogramms der Kräfte in seinem Zusammenhang mit den Muskelverschiebungen, dessen Formulirung für die Mechanik nicht hätte statt finden können, wenn es nicht vorher organisch verwirklicht war. Die Formgebung des Werkzeuges ist vor der [p. 67] Formulirung des Gesetzes, welches als unbewusste Mitgift der Form erst später erfahren und erkannt wird. Denn es liegt im Wesen der Projection, dass sie ein Process fortschreitender, meist unbewusster Selbstentäusserung des Subjects ist, deren einzelne Acte einem jedesmal gleich zeitigen Zum -Bewusstsein -Kommen nicht unterliegen.
+
+Welche Verwandlungen und Versuchsproben hat der urorganische Repräsentant der trennenden Werkzeuge, der Schneidezahn, von dem ihm formähnlichen Steinsplitter bis zum Bildhauermeissel und bis zur Schraubenspindel durch zumachen gehabt, ehe diese Benutzung der schiefen Ebene das Verständniss des Gesetzes von der Zerlegung der Kräfte erweiterte!
+
+Dass die organische Projection dem Werkzeug als solchem die Form verleiht, darf als erwiesen angesehen werden, dass sie aber auch der eingesetzten Kraftwirkung die Formel mit auf den Weg giebt, wird uns später mehr fach beschäftigen, um so immer aufs neue die Wahrheit des Satzes vorzuführen, dass der Mensch das Maass ist der Dinge.
+
+Die Explication dieses Ausspruches ist der Inhalt aller
+
+NAHONNW
+
+Erkenntniss. „Maass“ in dieser weitesten Umfassung materieller und idealer Bedeutung heisst so viel als typischer Grund der Orientirung über die Welt.
+
+M
+
+818 (L °3
+
+BIBLIOTHEK 5*
+
+IV.
+
+Die Glieder und ihre Dimension als Gliedmaassen. Die Längenmaasse, ihre weitere Uebertragung auf Flächen und auf Körperinbalt. Die Hand und der Zählmodus.
+
+Der Fuss als Maassstab im eminenten Sinne. Sein Ver Fussmessen und Messen mit Instrumenten. Das Calendarium.
+
+hältniss zu dem modernen Maass- und Gewichtsystem.
+
+Noch steht unsere Untersuchung erst am Eingang zu dem mächtigen Aufschwung der heutigen Cultur, und noch reicht der Begriff Maass auf diesem Standpunkt wenig über die Begrenzung der Werkzeugsphäre hinaus, insofern er vorläufig auf das, was unter Maass und Gewicht im gewöhnlichen Leben verstanden wird, beschränkt ist.
+
+Der Fuss, der Finger und seine Glieder, der Daumen, die Hand und der Arm, die Fingerspanne, die Entfernung der schreitenden Füsse und die ausgebreiteten klaffenden Arme, eines Fingers und eines Haares Breite, als Län genmaasse; die Handvoll, der Mundvoll, die Faust- und die Kopfgrösse, die Arm-, Bein-, Finger - Daumen- und Lendendicke, als Hohl- und Raum maasse; der Augen blick, als Zeitmaass; der Hauch für etwas verschwindend
+
+Kleines, sind und bleiben überall bei Jung und Alt, beim Wilden und beim Culturmenschen als die natürlichen
+
+Maasse unverändert im Gebrauch. „Unbewusst“ , be merkt G. Karsten, „setzt der Mensch seinen Körper als Maassstab auch an die Natur und hat von
+
+[p. 69] Gliedmaassen und Maasse
+
+Jugend auf diesen Maassstab benutzen gelernt. Jetzt wird uns die uns zur anderen Natur gewordene Beurtheilung der Grössenverhältnisse völlig vernichtet; es wird uns zu gemuthet, dieselbe Lernzeit noch einmal durchzumachen.
+
+Ich gestehe, dass ich, obwohl viel mit den Maassen beschäftigt, dennoch bei Angaben nach dem metrischen Maasse immer das Gefühl wie bei der Benutzung einer mangelhaft erlernten fremden Sprache habe, wo man in der Muttersprache denkt und deren Gedanken über setzt.
+
+Wir werden uns damit abfinden müssen, unsere alten Maassvorstellungen immer metrisch zu übersetzen, die jetzige Jugend muss metrisch denken lernen.“ (Maass und Gewicht in alten und neuen Systemen, S. 25.)
+
+Aus den Längenmaassen haben sich bei den meisten Völkern Fuss und Elle als feste Einheiten, als Maass stäbe, ausgeschieden und regeln in weiterer Uebertragung auf Flächen - und Körperinhalt die Hohl-, Raum- und Gewichts maasse. Der Ausdruck für die Menge der Maasseinheiten der selben Art, die Zahl, wurde, wie noch heute zur Unter stützung des Zählens geschieht, an den fünf Fingern ab gezählt. Das griechische Wort für dieses Zählen nach Fünfen war nur belv, „fünfern ". Die zehn Finger liefer ten das Decimalsystem und die zehn Finger mit Zugabe der beiden Hände das Duodecimalsystem.
+
+Ueber die Entstehung dieser unserer Zählsysteme be merkt Conr. Hermann bei Gelegenheit seiner Kritik des Zeising'schen Werkes über den goldenen Schnitt, dass es nicht eine unmittelbare Nothwendigkeit aus der Zahl selbst sei, dass gerade die Zehn die abschliessende Einheit oder ordnende Grundzahl ihres ganzen Systems bilden müsse, und dass die Zehnzählung zunächst nur als ein sub [p. 70] jectives Einrichtungsgesetz des Menschen selbst erscheine. (Philos. Monatshefte VII, S. 18.) So angesehen, könnte man fast verleitet werden, sich den Zählmodus als eine in das Belieben des Subjects ge stellte Erfindung vorzustellen, die eben so gut auch anders hätte ausfallen können, ähnlich wie ja auch die Entstehung der Sprache selbst lange demselben Irrthum aus gesetst war. Indessen fügt der Verfasser des Aufsatzes gleich darauf hinzu: „Die unmittelbare Veranlassung dieser Einrichtung ist in der Zahl der Finger unserer Hände gegeben, indem erfahrungsmässig bei allen Völkern diese das natürliche Mittel oder Organ des Zählens bilden und die Feststellung der Zahlworte sich zuerst eben hieran an geknüpft hat.“ Diese Auffassung giebt der Frage ihren festen Halt. Das, worauf sie ruht, ist aber, genauer aus gedrückt, nicht blos ein subjectives Einrichtungsgesetz des Menschen, sondern ein allgemein gültiger unfehlbarer
+
+Organisationsbestand, aus welchem heraus die Zehnzählung nach den Fingern der Hand auf absolute Selbstproduction zurückzuführen ist. Unser Anspruch auf eine so werth volle Autorität steigt, indem C. Hermann fortfährt: Wir glauben aber annehmen zu dürfen, dass der Grund dieses Organisationsgesetzes nicht blos ein innerlich sub jectiver, sondern auch ein äusserlich objectiver gewesen sei, und dass der Zahl zehn als solcher eine bestimmte hervorragende und entscheidende Bedeutung für die innere
+
+Gliederung der ganzen uns umgebenden Wirklichkeit zu geschrieben werden dürfe.“
+
+Nur in der Hand, aus welcher Werkzeuge und Ge räthe hervorgingen, konnte neben den Maassen derselben auch die Elementarvorschrift für den Zählmodus eingebettet sein. Zugleich mit dem Werkzeug projicirte die
+
+[p. 71] Glieilmaassen und Mausse.
+
+Hand die ihr von Natur einhaftenden Maasse und deren
+
+Zahlenwerthe. Die Hand, das die körperlichen Dinge be greifende und mit ihnen sich befassende Organ, ist zu gleich das die Entbindung der Vorstellungen und das geistige Begreifen wesentlich unterstützende Organ und spendet aus dem unversiegbaren Reichthum ihrer Organisation die gesammte Culturwelt. Der Ausspruch, dass der Daumen die Weltgeschichte gemacht, ist kein Paradoxon; denn erst der Daumen constituirt die Hand, die Voll streckerin der Dictate des Geistes. Auf die Hand zurück weist das Handwerk, die Hand lung, der Handel, die Zähleinheit, Maass und Gewicht,
+
+Zahl und Rechnung. Alles, was die Hand verrichtet, ist im weiteren Sinne „Handlung“ . Mit der Handlung greift sie man gestatte die Perspective im eigentlichen und im symbolischen Sinn tief in das ethische Gebiet hinein. Dieselbe Hand, welche ihr zum Bilde das Werk zeug schuf, sie hantiert es als Wirthschaftsgeräth und als Waffe, sie giebt es im Tauschhandel „von Hand zu Hand“ , sie formt es um für Kunst-, Religions- und Wissenschafts zwecke.
+
+Was die Hand ist, das ist sie allerdings nicht für sich, sondern als Glied, als Organ eines lebendigen sich selbst von innen heraus producirenden Gliederganzen, in welchem sich das Kleine am Grossen erhält und das Grosse im Kleinen zu seiner Wahrheit kommt. Die stück weise von aussen zusammengefügte Maschine hat wohl Stücke oder Theile, nicht aber Glieder. Erst später kann auf die Handthätigkeit im Licht des gleichzeitigen Aufgebotes aller dem Organismus verfügbaren Kräfte näher eingegangen werden. Den nächsten Anspruch auf unsere Beachtung hat nunmehr, was speciell
+
+[p. 72] Gliedmuussen und Muusse.
+
+die Maasse angeht, der Fuss als Maassstab im ragenden Sinne.
+
+hervor
+
+Wohl mit Hindeutung auf die neuen internationalen Metermaassbestimmungen, durch welche der „Fuss“ ausser Dienst gesetzt werden soll, nennt G. Karsten es einen ent schiedenen Fehler, dass die Einheiten der Maasse sich so weit von den seit alten Zeiten bekannten Werthen ent fernen, und erkennt die Berechtigung an, „dass wir die Glieder des Körpers, z. B. den Fuss, als gewissermaassen uns angeborenen Maassstab gebrauchen.“ Ich stimme dem vollkommen bei. Nur möchte ich zur vollen Bestätigung der Ansicht die in dem „gewissermaassen " liegende Beschränkung durch eine Bekräftigung ersetzt wissen und sagen, der Fuss ist der wirklich und wahrhaft uns angeborene Maassstab. Die Bedeutung des Fusses als Maassstab ist unverwüst lich. So lange es Menschen giebt, die auf zwei Beinen gehen, wird der auf der Fusslänge fussende Maassstab nicht aussterben. Er hat Natur und Geschichte für sich.
+
+Letztere sogar in dem Grade, dass das aus astronomischen Fernen herabgeholte Metermaass in seiner unerlässlichen Reduction auf den ewig jungen Fussmaassstab sich als eine exact wissenschaftliche Verkleidung ausweist. Wie ent schieden der Fuss sich in jeder Verpuppung kenntlich macht, zeigt eine Mittheilung von Th. B. „über das natürliche Maass- und Gewichtsystem“ : Ein berühmter volks wirthschaftlicher französischer Schriftsteller der Neuzeit,
+
+Herr du Mesail-Starigny hat in seinem Catéchisme politique sowie in seiner Geschichte der Volkswirthschaft der Alten dargelegt, „dass das natürliche Maass- und Gewichtsystem durchaus keine französische, sondern eine altgriechische Erfindung ist. Die griechische Amphora ( = 26 Liter), [p. 73] das Hohlmaass, war gleich einem Kubus über dem griechischen Fusse ( = 0,296 Meter). Das Talent, die Gewichts- und zugleich die Münzeinheit (letztere in Silber), hatte genau die Schwere von 26 Liter oder einer Amphora
+
+Regenwasser. So hatte das damalige System vor dem modernen noch den Vorzug, dass Gewichte und Münzen auf demselben Principe beruhten und denselben Namen trugen. " (Sonntagsblatt 1873, No. 11.)
+
+Hiernach hätte man die Bezeichnung eines Maass- und Gewichtsystems als des „natürlichen“ zunächst nur für die vom leiblichen Organ verordnete Norm gelten zu lassen, und weniger zu Gunsten einer vom Erdkugel quadranten entlehnten physikalischen und astronomischen Bestimmung. Die Glieder des menschlichen Körpers dienen fort während, wie wir gesehen haben, nicht allein zur Abnahme einer Menge von vielfach wechselnden und nach Zeit und localem Bedürfniss für gut befundenen Maassbestimmungen, sondern auch zu einer unter internationalem Ueberein kommen fest gewordenen Maasseinheit. Ein Werkzeug, z. B. der Hammer, ist ein compactes
+
+Nachbild des natürlichen Organs. Ein Maass dagegen in seinem unmittelbaren Vorhandensein ist nur eine der Dimensionen des Leibes und seiner Glieder. Die Hand oder der Fuss, in natura auf einen Gegenstand gesetzt, wurde die messende Handbreite oder Fusslänge. Dieses Verfahren, in bestimmter Nebeneinanderfolge auf einem Rohr, einem Stab oder einer Ruthe sich wiederholend, brachte den ersten Maassstab, die erste Messruthe (Rute) zu Stande, die dann unter Rücksicht auf Dauer und Zweckmässigkeit alsbald die handlichere Form als „Maass stab“ annahm. Sind Maassstäbe lediglich die verkörperten
+
+[p. 74] Dimensionen eines Organes, so sind Werkzeuge ein Ersatz des Organs selbst. Mit Hülfe derselben stellte die Hand weitere Werkzeuge her, die in der technischen Nach bildung des organischen Vorbildes, die ursprünglich annähernd massive Formgleichheit verlassend, oft kaum mehr eine Formähnlichkeit erkennen lassen. Doch sind sie des halb um nichts weniger organische Projectionen. Die Projection steht im Gegentheil um so viel höher, als sie überwiegend wesentliche Beziehungen und Verhältnisse des Organismus zur Anschauung bringt, die um so reiner und geistig durchsichtiger sich darstellen, je weniger die Aufmerksamkeit durch zu grosse Treue plastischer Ausformung abgelenkt wird. Der Fuss, als Maassstab weit entfernt von der menschlichen Fussform, ist die concrete Abstraction einer seiner Dimensionen. Das Maass, als Maassstab zum Werkzeug geworden, hilft andere Werkzeuge herstellen, Maschinen und Häuser bauen.
+
+Ein Werkzeug erzeugt das andere. Die wenigen For men des primitiven Handwerkzeuges auf der einen Seite und die unberechenbare Mannigfaltigkeit der von der Wissenschaft durchgeisteten Culturgeräthe andererseits lassen einen Fortschrittszusammenhang erkennen, auf welchen die organische Entwickelungstheorie mit ihren Depen denzien sich vollkommen anwenden lässt. Die Kluft z. B. zwischen dem Fussmessen und dem Messen mit Instrumenten macht Förster in Bezug auf astronomische Raum und Zeitberechnung durch folgendes Beispiel sehr anschaulich:
+
+„In einem Lustspiel des Aristophanes wird Jemand auf eine zehnfüssige Schattenlänge zum Essen eingeladen. Sollte sich dies auf die Länge einer Schattensäule beziehen, welche dem menschlichen Schatten entspricht, so gälte es [p. 75] für das Klima von Athen ganz roh ohne Unterschied der Jahreszeiten etwa für 11/2 Stunde vor Sonnenuntergang. " „So wie man also jetzt Jemanden die Uhr heraus ziehen sieht, so sah man dort einen zum Mittagessen Ein geladenen vielleicht ungeduldig seinen Schatten ausschrei ten.“ (Die Zeitmaasse und ihre Verwaltung durch Astronomie, S. 21.) Der Verfasser lässt nun aber auch die betreffenden, den scheinbaren Contrast hebenden Notizen aus der Erfin dungsgeschichte der Zeitmesser folgen und bespricht die auf öffentlichen Plätzen aufgestellten Schattensäulen, die Sonnen-, Sand-, Wasser-, Gewicht-, Pendel-, Spindel- und Chronometeruhren und zeigt demnach, wie vom Abschreiten des Schattens nach Fusslängen durch Zusätze und Combination von Mechanismen, die wir bereits als Projection organischer Kräfte kennen gelernt haben, Hebel, Spirale,
+
+Pendel u. s. w. , solche Erweiterungen in der Kunst und Wissenschaft des Messens hervorgegangen sind, dass man calendarisch nicht allein astronomische Räume und Zeiten, sondern selbst die Empfindungen und die Bildung der Vorstellungen zu messen begonnen hat. Fürwahr eine ans Wunderbare grenzende Metamorphose des mensch lichen Urmaasses!
+
+Mit Maass und Zahl recognoscirt der Mensch und be herrscht er die Dinge. Ein primitives Werkzeug, die Zange, dient zum Packen und Festhalten, das thut zur Noth auch die thierische Klaue aber mit Mess- und
+
+Zahlstab in der Hand und den Blick auf die Uhr gerichtet zum Festhalten von Zeiträumen und Raumzeiten im Calendarium, erreicht der Mensch seine höchste Auf gabe, die nach dem Sanskritwurzellaut ist, ein Messen der zu sein, ein Ermesser und Denker!
+
+[p. 76] Gliedmaassen und Maasse.
+
+So wurde der Fuss, das Symbol der Selbständigkeit, das Organ des Selbststehen- und Gehenkönnens, zum Werk zeug des Messens, zum Maassstab, die Fingergliederung der Hand regulirte den Zählmodus, welcher als solcher nicht als besonderes Werkzeug, sondern als dekadische metrische
+
+Skala in der Aufprägung auf Werkzeuge verschiedenster Zwecke und in den Zifferzeichen der Schrift zum Aus druck kam.
+
+V.
+
+Das primitirste Fernrohr. Linse, Lupe, das unbewusste Nachbild der Kry stalllinse im Auge. Brille, Mikroskop, Teleskop. Camera obscura, Daguerreotyp. Die mechanischen Vorrichtungen zur Unterstützung der Sebkraft als Werk zeuge verwendet zur Erforschung der Vorgänge der Gesichtswahrnehmungen.
+
+Die Beseitigung der Achromasie als glänzendes Beispiel der Organprojection. Das Hörrohr, das Stethoskop. Das Monochord und die Saiteninstrumente. Die Lehre von den Tonempfindungen. Das Corti’sche Organ eine Miniatur Harfe im Ohre. Die Wahrheit der harmonicalen Symbolik des Alterthums vom Gesichtspunkt der Organprojection. Die unbewusst geschehene Ab stimmung zwischen dem sich projicirenden Organ und dem projicirten Werk zeug schliesst jede nur allegorische Aehnlichkeitsanspielung aus. Die anato mische und physiologische Terminologie ein Gegenbild der technischen, wie das mechanische Product der Technik das Abbild des Organischen.
+
+Die
+
+Stimmorgane projicirt als Hauptbestandtheile der Orgel. Sprachliche Bestätigung. Erläuterung der Herzthätigkeit durch den Mechanismus eines Pumpwerkes.
+
+Von den Extremitäten des leiblichen Organismus, von „Hand und Fuss“, in deren Bereich unsere bisherige Betrachtung sich bewegt hat, wenden wir uns nunmehr zu den Halbextremitäten, den Sinnesorganen welche die Aussenwelt mit der inneren Nervenwelt vermittelnd auf der Schwelle beider gelegen sind. Im nächsten Anschluss an das Vorhergehende steht der Gesichtssinn, dessen Controle Maass und Zahl unmittelbar unterworfen sind.
+
+Das Auge ist das Lichtorgan und das Vorbild aller optischen Apparate. Ueber die erste und einfachste Form eines Sehwerk zeugs berichtet Friedr. von Hellwald: „Nach und nach [p. 78] brachten Babylonier, Aegypter und Griechen es so weit, dass sie nach geometrischen Formen, welche sie sich in das Firmament gezeichnet dachten, die Entfernungen der Gestirne sowie der Erdtheile von einander zu berechnen vermochten.
+
+Und so weit brachte es die sinnliche Wahrnehmung schon vor Jahrtausenden, nur mittels des Auges und mittels langer Röhren, womit man ehemals die Sterne beobachtete, wie wir etwa Gemälde auf dem Museum durch
+
+Pappröhren ansehen.“ (Der vorgeschichtliche Mensch, pag. XV.) Diese Röhren waren nichts Anderes als die mechanische
+
+Fortsetzung der röhrenartig geformten Hand, welche jeder Mensch unwillkürlich in Ermangelung einer anderen Blende vor das Auge hält. Die Handblende selbst aber ist zu allernächst eine Verstärkung der natürlichen Beschattungs vorrichtungen am und im Auge. Jene die krumm gefin gerte Hand verlängernde Röhre war das primitivste Fern rohr, dessen Vervollkommnung erst mit der Erfindung des Glases und der Kunst es zu schleifen weiter von statten ging.
+
+Bis dahin hatten schon im Alterthum Zufälligkeiten auf die Wahrnehmung geführt, dass durch sphärisch ge formte Stückchen durchsichtigen Glases kleine Körper vergrössert erschienen. J. Zöllner erwähnt in seiner Geschichte der Physik (Buch der Erfindungen II, 274), dass Seneca die vergrössernde Eigenschaft mit Wasser gefüllter Glaskugeln kannte. Die feinen Arbeiten alter griechischer Steinschneider liessen die Beihülfe von vergrössernden Gläsern vermuthen, die ausgegrabenen „Linsen“ könnten aber auch ausschliesslich als Brenngläser gedient haben, da die Vestalinnen das heilige Feuer nur durch Sonnen licht wieder anzünden durften. Der Araber Alhazen um [p. 79] die Mitte des 11. Jahrhunderts war wohl der Erste, welcher eigentliche Linsen aus Kugelsegmenten als Ver grösserungsgläser anwandte. „Ihr Gebrauch beschränkte sich darauf, dass sie direct auf den Gegenstand selbst, z. B. auf die Buchstaben der Schrift, gelegt wurden.“
+
+Erst die Kunst, Brillengläser zu schleifen, führte im 13. Jahrhundert auf die Vervollkommnung der Linsen. Jede Sammellinse ist zugleich ein einfaches Vergrösserungs glas, und zwar in handlicher Fassung - die „Lupe". Solche erste Mikroskope, anfänglich als sogenannte Flohgläser (vitra pulicaria) nur Artikel lustigen Zeitvertreibes, sind jetzt als zusammengesetzte Mikroskope zu Instrumenten vervoll kommnet, welche nach G, Jäger's Ausdruck „bestimmt sind, unser Wissen von der organischen Welt zum Abschluss zu bringen.“ Durch alle Wandlungen von der einfachen Lupe bis zu den Sonnen- und Hydrooxygengas-Mikroskopen hin durch ist die Linse das Constante, die Seele des Instruments. Das sphärisch dem sogenannten Krystallkörper des Augapfels unbewusst nachgeformte Glasstückchen er hielt von seiner allgemeinen Formähnlichkeit mit der be kannten Frucht seine Benennung. (Fig. 16.) Erst als das
+
+Sehorgan sich in einer Anzahl von mechanischen Vorrichtungen projicirt und so deren Rückbeziehung auf seinen anatomischen Bau vorbereitet hatte, konnte dessen physio logisches Räthsel gelöst werden. Von dem unbewusst nach dem organischen Sehwerkzeuge gestalteten Instrument hat der Mensch in bewusster Weise den Namen auf den eigentlichen Heerd der Lichtstrahlenbrechung im Auge, auf die „Krystall- Linse“, übertragen. Dasselbe gilt von den Fernröhren. Sie wurden durch den Middelburger Brillenschleifer Hans Lippersheim [p. 80] erfunden und von Herschel zu Riesenteleskopen erweitert. Auch ihr wesentlichster Bestandtheil ist die Linse, welche bei aller Verschiedenheit je nach Form und Zusammensetzung im Begriff der Lichtbrechung immer sich gleich bleibt.
+
+Wie die Bezeichnung „Linse“ , so lehrt überhaupt die gesammte anatomische und physiologische Nomen Fig. 16.
+
+Auge mit Sammellinse. clatur, dass sie im Wesentlichen aus Namen besteht, welche von Gegenständen, die sich ausserhalb des Organismus befinden, aber besonders von solchen, die der Projection angehören, entlehnt worden sind. Wie soll es sonst zu verstehen sein, wenn die Construction des Auges der einer Camera obscura „ganz analog“ befunden wird; wenn gezeigt wird, dass auf der Netzhaut ein ver kehrtes Bild der vor dem Auge befindlichen Gegenstände „ganz in gleicher Weise entstehe wie das Bild auf [p. 81] der Rückwand einer Camera obscura", und dass das Auge ein Organ sei, welches „den Daguerreotypischen Process in ausserordentlicher
+
+Vollkommenheit aus führe? (Joh. Müller, Grundriss der Physik, $ 154. L. Hermann, Grundriss der Physiologie, S. 322. 3. Aufl.
+
+C. G. Carus, Physis, S. 402, 410.)
+
+Vom Standpunkte der Organprojection hat man solche Aussprüche einfach umzukehren und zu erklären, dass die Construction der Camera obscura ganz analog sei der des Auges, dass sie das von dem Organ aus un bewusst projicirte mechanische Nachbild desselben sei, mittels dessen Unterstützung die Wissenschaft nachträglich in die Vorgänge der Gesichtswahrnehmungen habe eindringen können. Dies thut nun auch C. G. Carus, indem er sagt: „Von einem solchen Erforderniss des Auges (Entstehung des Bildes auf der Netzhaut) konnte man in Wahrheit kaum eine Kenntniss haben, bevor das Da guerreotyp bekannt war;
+
+denn erst diese
+
+Ent deckung gab uns einen Begriff davon, mit welcher ausserordentlichen Mannigfaltigkeit und Freiheit und zugleich mit welcher Rapidität Lichtwirkungen in eine Substanz eindringen können.“
+
+Der Verfasser der „Physis“ , der im allgemeinen aner kennt, dass „die künstlichen Vorrichtungen zur Verstärkung der Sehkraft (Fernröhre, Mikroskope und Brillen) die An wendung der Gesetze der Optik zeigen, wie sie im Auge in allervollkommenster Weise gegeben sind“, schliesst seine Betrachtungen des Sehorgans mit der achromatischen Eigenschaft in den brechenden Medien desselben und liefert damit den unwiderlegbaren Beweis, dass im optischen Apparat ursprünglich und unbewusst das Auge nachgeformt ist; denn dass im Auge ein optischer Apparat verwirk [p. 82] licht sei, ist die uneigentliche und secundäre Auffassung der Sache. Der von ihm beregte Umstand ist deshalb von unschätzbarer Wichtigkeit für uns, weil der Begriff der Organprojection nirgends eine weniger rückhaltlose Bestätigung erfahren hat, so dass auch der letzte Zweifel an ihr, als einem bisher unbeachtet gebliebenen wissen schaftlichen Princip, schwinden muss.
+
+Wir geben die Stelle in der „Physis“ (S. 427 ff.) in zum Theil wörtlichem Auszuge. Es handelt sich daselbst um die Beseitigung der falschen und störenden Erzeugung jener farbigen Ränder, die sich beim Durchsehen durch einfache Glaslinsen um die betrachteten Gegenstände Fig. 17.
+
+Achromatische Vorrichtung. zu bilden pflegen. Da nämlich im Auge ebenfalls eine Linse vorhanden ist, an welcher wir die wichtigste Collec tivvorrichtung für all unser Sehen besitzen, so war ge wissermaassen zu erwarten, dass dieselben störenden Far benränder sich nothwendiger Weise auch im Auge erzeugen würden. Nun lehrt aber die Optik, dass wenn ein Prisma allein beim Durchsehen allerdings Farben erzeugt, diese Farben sogleich aufgehoben werden, wenn ein zweites so an das erste gelegt wird, dass der Augenstrahl durch beide zugleich hindurchgehen muss. So kam man auf den Gedanken, die Farbenerzeugung an Fernröhren dadurch zu hindern, dass man ihr Objectiv aus zwei verschiedenen
+
+[p. 83] Gläsern (Crown- und Flint-Glas) zusammensetzte, und sah bald davon den vollständigsten Erfolg. (Fig. 17.)
+
+Was jedoch hier auf grossen Umwegen die Kunst erst spät erreichte, das hatte das unbewusst Bildende in uns läng'st auf das Voll kommenste geschaffen, indem es an die Linse, gleich sam als zweites, die Farbenerzeugung des ersten aufheben des Prisma, noch den zwar grösseren, aber in sich mehr flüssigen Glaskörper auf das Genaueste anfügte." „Ich gestehe, dass ich diese sinnreiche Vor richtung unseres Auges, um Achromasie (Beseitigung falscher Farben) zu bewirken, immer als einen der schönsten Fälle angesehen habe, um daran sich recht deutlich zu machen, wie all unserer bewussten Wissenschaft doch immer nur dieselben Gesetze vorschweben können, welche unsere Physis, lange ehe deren Er kenntniss möglich ward, in ihrem Thatsäch lichen unbewusster Weise schon vollkommen und anhaltend verfolgt.“ *
+
+Eben so überraschende Thatsachen der Projection, wie sie dem Auge als Lichtorgan zukommen, stellen sich für das Tonorgan, das Ohr, heraus. Auge und Ohr sind die bevorzugten Sinne der Intelligenz. Ihre tief innere Verwandtschaft drückt schon die Sprache in den Bezeichnungen „Klangfarbe“ und „Farbentöne“ aus.
+
+Dem ent spricht hier der unmittelbare Uebergang von der optischen zur akustischen Technik.
+
+Wie beim Auge, so ist auch beim Ohre die hohle 6*
+
+[p. 84] Hand das natürliche erste verstärkende Werkzeug. Jenem Sehrohre der alten Sterngucker entspricht die röhren förmige in einen Trichter ausgehende Verlängerung des Gehörgangs, das Hör rohr, theils, gleich der Brille für die Schwachsichtigen, zur Unterstützung der Schwer hörigen, theils als das Stethoskop der ärztlichen Diagnostik, zur Verstärkung des gesunden Ohres. Diese Fortsetzung des äusseren Gehörganges und der Ohrmuschel wurde in gleicher Weise, wie das Arm und Hand fortsetzende Handwerkzeug, ursprünglich für einen bewussten Zweck gestaltet, aber ohne Wissen von der zwischen ihm und den physiologischen Vorgängen im Sinnesorgan bestehen den Analogie. In dem Fortschritte der Akustik markiren sich die selben Epoche machenden instrumentalen Erfindungen wie im Gebiete der Optik. Hier die Linse mit ihren Com binationen und das Daguerreotyp, dort das Mono chord mit seinen Vervielfältigungen und das Claviatur Instrument.
+
+Diese unbewusst geschehenen Funde waren lange vor handen, bevor sie von der Wissenschaft als Projectionen der betreffenden Sinnesthätigkeit erkannt und zur Rück erklärung der organischen Vorgänge verwendet wurden. Die Bedeutung der mechanischen Vorrichtung steigt mit der Einsicht in die Verschiedenheit und in den Umfang der physiologischen Vorgänge. Die Untersuchung dieser Vorgänge in jedem unserer Sinnesorgane hat nach Helm holtz drei verschiedene Theile: „einen physikalischen, wie das Agens, welches die Empfindung erregt, also im Ohre der Schall, bis zu den empfindenden Nerven hin geleitet wird; einen physiologischen, Untersuchung der Erregung der Nerven, welche verschiedenen Empfin
+
+[p. 85] Apparate und Instrumente.
+
+dungen entsprechen; einen psychologischen, die Ge setze, nach welchen aus solchen Empfindungen Vor stellungen bestimmter äusserer Objecte, d. h. Wahrnehmungen, zu Stande kommen. “ (Die Lehre von den Ton empfindungen, S. 6.) Nach Vollendung seiner Werke über „Physiologische
+
+Optik “ und über die „Tonempfindungen“ , nach je zehn und achtjähriger Arbeit, hat Helmholtz die Untersuchung der Vorgänge auf diesem grossen Gebiete zu einem vor läufigen Abschluss gebracht. Unter seinem Forscherblick wurde das „musikalische“ Fig. 18. c
+
+T
+
+AC ste co sle st
+
+R
+
+Das Monochord. R Resonanzkasten mit Maassstab für die Einstellung des verschiebbaron Steges (t). Die einzige Saite et des Instruments ist horizontal über die scharfkantig aufgebogenen Lager kık' gespannt.
+
+Instrument zugleich „Instrument“ im höchsten Sinne, nämlich eines der Werkzeuge zur Entbindung der Einsicht in den organischen Untergrund der Geistesoperationen. Musik ist in Akustik umgesetzt, die Wissenschaft ist durch die Kunst erklärt und verklärt worden. Auf dem Monochord hatte das Alterthum die Con sonante für die Töne gefunden. Die einfache Vorrichtung bestand in einer auf einem resonirenden Holzkasten aus gespannten Saite, welche durch Unterschieben eines Steges im Verhältniss bestimmter ganzer Zahlen getheilt wurde. Die Längenverschiedenheit der Saite erschien als Bedingung der verschiedenen Tonhöhe. (Fig. 18.)
+
+[p. 86] Das hierauf von Pythagoras begründete Zahlenver hältniss der Töne wurde als ein tiefes Mysterium betrachtet, so lange man von den periodischen Schallwellen und ihren Schwingungszahlen noch keine Kenntniss hatte. „Indem die neuere Physik von der Saitenlänge zu den Schwingungszahlen überging“ , hat Helmholtz das alte pythagoräische Problem gelöst und dieser Lösung die Töne aller musikalischen Instrumente unterworfen.
+
+Das Monochord ist der Anfang einer in steter Vervollkommnung bis zur Tastatur fortschreitenden Reihe von Saiteninstrumenten. Das Southkensington - Museum, wo in einer früheren, der diesjährigen ähnlichen Ausstellung eine vollständige Sammlung von musikalischen Instrumenten zu sehen war, deren erste Classe nur Saiteninstrumente enthielt, gewährte eine zusammenhängende Uebersicht der selben in der aufsteigenden Linie ihrer Fortschritte bis zum Höhenpunkt der gegenwärtigen Vervollkommnung. Der moderne „Flügel“ ist es, dem Helmholtz den Schlüssel zu dem zweitausendjährigen, im innersten Verschluss des Ohres verborgenen Geheimniss abgelauscht hat. Schon früher hatte der Marchese Corti in der Ohr schnecke ein mikroskopisches Gebilde entdeckt, welches aus etlichen tausend Fasern oder Stäbchen von ungleicher Länge und Spannung besteht. Dasselbe heisst nach dem Entdecker das Corti’sche Organ. Es bildet nach Helm holtz’s Untersuchungen „eine Art regelmässig abgestufter Besaitung, wie wir eine solche an der Harfe und am Clavier kennen.
+
+Ein solches Miniaturclavier mit Nerven ist in der That die Schnecke, die wir im Ohre haben.“ (Fig. 19.) „Die 3000 auf verschiedene Töne abgestimmten Corti schen Stäbchen entsprechen nämlich den Claviersaiten und es ist jedes solcher Stäbchen mit akustischen Nerven [p. 87] verknüpft, welche jedesmal mechanisch erregt werden und einen bestimmten einfachen Ton empfinden, sobald das betreffende Stäbchen in Mitschwingungen versetzt wird.“ „So wie aber Claviersaiten nur dann in Mitschwin Fig. 19.
+
+G
+
+PC
+
+R
+
+Schematischer Durchschnitt des menschlichen Gehörorgans der rechten Seite. Mäusseres Ohr; G äusserer Gehörgang: T Trommelfell; P Paukenhöhle; R die Eustachi sche Ohrtrompete; V, B und s das knöcherne Labyrinth, V der Vorhof, B ein halbzirkel förmiger Bogengang mit seiner Ampulle a S die Schnecke, durch die Spiralplatte in die
+
+Vorhofstreppe (Vt) und in die Paukentreppe (Pt) getheilt; A der Stamm des Hörnerven in den inneren Gehörgang eintretend und in zwei Hauptiste (V und sº) sich spaltend; s der Schneckennerv, von unten in die Kanälchen der Schneckenspindel eintretend, um durch die knöcherne Spiralplatte zum Corti*schen Organ c zu gelangen, welches auf der oberen oder Vorhofstreppenfäche der häutigen Spiralplatte aufsitzt.
+
+gungen gerathen, wenn die ihnen entsprechenden Töne auf sie einwirken, ebenso schwingen auch die [p. 88] Cortischen Stäbchen nur dann mit, wenn Schallwellen durch das Labyrinthwasser zu ihnen gelangen, deren
+
+Schwingungszahlen jenem Ton angehören, auf welchen das einzelne Stäbchen genau abgestimmt ist.“ Die Abhandlung Czermak's über das Ohr und das Hören in seinen „Populäre physiologische Vorträge“, welcher das obige Citat so wie auch Fig. 18 und Fig. 19 entnommen sind (S. 43. 63. 68.), kann wegen ihrer klaren Darstellung denen, welchen das Studium des umfassenden Werkes „über die Tonempfindungen“ weniger nahe liegt, nicht warm genug empfohlen werden, wenn auch neuer dings die Flelmholtzz’sche Auffassung des Corti’schen Organs einige Modificationen erfahren hat. Jedenfalls ist eine im Dunkel der unbewussten Conception des Alterthums ver schleierte Wahrheit in die mikroskopische Tageshelle der heutigen Wissenschaft getreten. Das Monochord ist das werdende Clavier, es ist der Schlüssel zu der in der „Lehre von den Tonempfindungen“ zum Bewusstsein ge brachten Harmonik des Alterthums. In seiner Schrift: „Die Grundzüge der esoterischen Harmonik des Alter thums" hat Richard Hasenclever dem Gegenstand neue
+
+Seiten abgewonnen im Interesse der Ansicht, dass die natürliche Grundlage des Harmoniesystems, kraft innerer Nothwendigkeit, für die verschiedenen Jahrtausende und für die Völker aller Zeiten und Zonen immerfort nur Eine und dieselbe gewesen sein könne“ , und hat, die Klippe jener verdächtigen Mystik vermeidend, die sich im Ge dankenstillstand selbstgenügend bespiegelt, zu der Erkenntniss beigetragen, dass das tiefere Mysterium immer eine grosse Wahrheit birgt, in deren Begriff als solcher es liegt, dem ruhelosen Wissensdrang der Menschheit auch in verhüllter Form entgegen zu kommen,
+
+[p. 89] Die Harmonik der Pythagoräer hat auf Grund des unabänderlichen Sichgleichbleibens der Naturgesetze „zu nicht geringem Theil in der besseren Verwerthung der exacten Naturforschung, und insbesondere der physikalischen Klanglehre, die Möglichkeit einer Erklärung ge funden.“ Sich erweiternd zur allgemeinen Kunstlehre er scheint sie aber auch diakosmetisch das All durchwirkend als eine Propädeutik der Erkenntniss der physischen und sittlichen Weltordnung. Denn überall da, wo seine eigene Natur der Einsatz ist, gewinnt der Mensch als den Preis der Mühe und Arbeit seines Denkens immer sich selbst. Hiermit erschliesst sich der tiefe Sinn von R. Hasenclever's bedeutsamer Frage: „Ist Pythagoras bei jenen höchst ein fachen Resultaten, die ihm sein Monochord dargeboten, und den zunächst sich anschliessenden Folgerungen für die Construirung eines Tonsystemes stehen geblieben, oder hat sich auch seinem Forschergeiste schon das geheimniss volle Gebiet der Töne weiter und weiter erschliessen müssen, bis er endlich an jene Grenze gelangte, wo die Ursachen der realen Erscheinungen nur noch aus einem höheren, die rein physischen Bedingungen übersteigenden Principe erfasst und begriffen werden können?“ Es ist ersichtlich, welche Bedeutung diese Frage dem Monochord beilegt.
+
+Noch sind nicht alle Consequenzen aus den Tonwerkzeugen als Werkzeug en gezogen. Man hat früher wohl geahnt, dass zwischen dem sich projici renden Organ und dem projicirten Werkzeug eine Ueber einstimmung bestehe, man wagte sich aber bei dieser Ver muthung nicht über ein vages, allgemeines „Gleichsam“ hinaus. Wie man etwa ein Gewässer gleichsam das Auge einer Landschaft nennt, ganz in demselben metaphorischen Sinne sagt man vom Armgelenk, es sei gleichsam ein He
+
+90.
+
+bel, ohne zu bedenken, dass es sich hier vielmehr um unveräusserliche Gleichheit handelt, insofern die eine Seite der Vergleichung das Nachbild der anderen ist, und dass jede andere Möglichkeit des Zustandekommens geradezu ausgeschlossen war. Das Bildliche in gewöhnlicher Auf fassung geht unter in der realen Ab- und Nachbildung. Das Ruder ist eben die reine Nachformung des gestreckten Armes und der Handfläche. Der Neigung, mit einem „Gleichsam“ oder „Gleichwie“ an der Sache selbst vorbei zugehen, muss ein- für allemal ein Ende gemacht werden. Also nicht eine beliebige Wahl in allen möglichen bild lichen Erklärungsähnlichkeiten, sondern die nothwendige Aufnahme der nur einmal vorhandenen alleinigen Aehnlich keit oder vielmehr Wesensgleichheit ist hier durchschla gend. Wo denn in aller Welt gäbe es neben der inneren Beziehung, wie sie obwaltet z. B. zwischen dem Maschinen hebel und dem organischen aus Knochen und Muskeln bestehenden Hebelapparat, zwischen der Linse und dem Krystallkörper im Auge, zwischen dem Daguerreotyp und dem Augapfel, zwischen dem Pendel und dem schwingen den Arm, zwischen der Schraube und der drehenden Hand bewegung, zwischen dem Saiteninstrument und dem Corti schen Organ – wo in aller Welt gäbe es eine zweite gleiche Uebereinstimmung einer mechanischen Vorrichtung mit einem anderen, nicht im leiblichen Organismus vorhandenen Vorbilde?
+
+Bei weitem nicht alles hierher Ge hörige fällt unter so augenscheinliche Deutlichkeit und Man ches davon wird erst im Laufe der Zeit offenbar werden.
+
+Zwischen Pythagoras und Helmholtz, zwischen dem Monochord und dem „Clavier im Ohre" , liegen Jahrtausende. Inner halb der allgemeinen Abstimmung des Leibes gegenüber den kosmischen Bedingungen seiner Existenz, den Natur
+
+[p. 91] Apparate und Instrumente. kräften
+
+Auge und Lichtschwingung, Ohr und Schall schwingung, Lunge und Atmosphäre, Verdauungsorgan und Nahrung, Nerven und Elektricität u. s. w. - wiederholt sich die gesammte Gliederbewegung und Organfunction, wie sie am Stofflichen zum sinnlichen Ausdruck kommt, in einer der leiblichen Organisation entsprechenden un endlichen Mannigfaltigkeit von zahllosen Werken der Technik.
+
+Aber nicht allein in dieser stofflichen Welt, sondern auch da, wohin der Schluss unserer Betrachtung drängt, in der Welt des Geistes, die uns, mit C. G. Carus zu reden, einen „mit dem palpablen Gliederbau in Substanzein heit sich darlebenden spirituellen Organismus zum Bewusstsein bringt“, breitet sich ein Analogon aus, dessen logische Momente, zwar nicht so sinnenfasslich wie die Movimente der harten Materie, aber um so durch sichtiger und bleibender in stets höheren Graden der Energie des Selbstbewusstseins teleologisch zur Erscheinung kommt.
+
+Demgemäss hat alles Spielen der Phantasie mit beliebigen durch „gleichwie“ , „gleichsam“, „gewissermaassen“ eingeführten Vergleichen der Thatsache der Organprojection Platz zu machen.
+
+Denn sie ist es, auf deren Grund die Lehre von den Tonempfindungen den Faden entdeckt hat, an dessen Führung die weitere Forschung im „Labyrinth“ des Gehörsinnes vor Verirrung geschützt ist. W. Wundt hat in dem Abschnitte über den Gehör apparat angemerkt, dass nach Hensen nicht das Organ der Cortischen Stäbchen oder Bogen, sondern die Grund membran je nach der verschiedenen Breite ihrer Abschnitte auf verschiedene Töne abgestimmt ist. Dieser Hypothese hat sich Helmholtz in der dritten Auflage seines Werkes [p. 92] angeschlossen, glaubt aber, dass die Corti’schen Bogen, als relativ feste Gebilde, bestimmt seien, die Schwingungen der Grundmembran auf eng abgegrenzte Bezirke des Nervenwulstes zu übertragen.
+
+Der geniale Gedanke, vom
+
+Clavier aus der Lösung der Aufgabe näher zu treten, bleibt unangefochten. Das Ansehen der „Lehre von den Tonempfindungen“ gilt im Princip für so unbestritten, dass die weitere Anführung von Gewährschaften aus der Zahl ihrer sachkundigen Vertreter als eine vorsorgende Abwehr von etwaigem Zweifel und Widerspruch der Organprojection zum Vortheil gereichen wird: „In der That bieten die aus dem Clavier zurücktönenden
+
+Vocale eine ähnliche Erscheinung wie das Resonanz-Concert. Und kann man die Corti’schen Fasern nicht auch als Harfe im Ohr auffassen, welche durch die Resonanz zu Mitschwin gungen angeregt wird? Die Resonanz liefert das Mittel zur
+
+Klanganalyse und zur Klangsynthese. (F. J. Pisco, die Akustik der Neuzeit. )
+
+„Der eine Ast des Hörnervs steht in Verbindung mit einem staunenswerth feinen Apparat, der Schnecke, einer voll. ständigen Tastatur, welche mehrere tausend Tasten ent hält, und zur Erkennung der. Töne und der aus diesen zusam mengesetzten Klänge benutzt wird.“ (W. Preyer, die fünf Sinne, S. 31.)
+
+„Die regelmässige Anordnung der Corti*schen Zähne, welche die Wasserwelle wie die Tasten einer Claviatur durch läuft, macht die Vorstellung sehr verlockend, dass jede Taste, jeder Zahn gewissermaassen für einen Ton von bestimmter Höhe gestimmt sei.“ (L. Hermann, Grundriss der Physiologie des Menschen, S. 384, 3. Aufl.)
+
+„Diese Bewegungen nimmt der Gehörnerv mittels ganz eigenthümlicher, förmlich abgestimmter Fasern auf, so dass von einem bestimmten Tone auch immer nur ganz be simmte dieser Fasern erregt werden, auf welcher Erscheinung die Besonderheit der Tonempfindungen beruht.“ (Jul. Zöllner im Buch d. Erfindungen II, S. 400.)
+
+[p. 93] „So scheint denn das jüngste unter den Räthseln, welche der Bau des Ohres dem Forscher vorlegte, wenigstens hypothetisch gelöst. Als eine Stütze der Helmholtz'schen Ansicht mag auch die Entdeckung von Hensen (1869) erwähnt werden, dass bei einigen Krebsarten freiliegende, mit den Hörnerven verknüpfte Härchen von den Tönen eines Klapphorns derart bewegt wurden, dass je ein anderer Ton auch ein anderes
+
+Härchen in Schwingung versetzte.“ (F. J. Pisco a. a. O.) „Indem die Corti'schen Stäbchen, entsprechend der Ver schmälerung der Spiralplatte von unten nach oben, allmälig an Länge abnehmen, så bilden sie eine Art regelmässig abgestufter Besaitung, wir wir eine solche an der Harfe und am Clavier kennen.“ (Czermak a. a. 0. S. 51.)
+
+Wir haben uns hierdurch aufs neue überzeugt, dass ein von Menschenhand aus Stücken zusammengesetzter
+
+Mechanismus in auffallendster Uebereinstimmung mit einem organischen Gebilde ohne die geringsten Kenntnisse von dessen Functionen construirt werden konnte. Bei dieser nur einmal vorhandenen Gleichheit liegt sodann die That sache vor, dass das, was als das Frühere dem Menschen ein unbewusstes Vorbild gewesen war, mittels der späte ren Nachbildung in seiner Priorität zur Erscheinung kommt. Wie schon lange vorher das Trommelfell, die Pauken höhle, die Eustachische Trompete von musikalischen Instrumenten und deren Theilen - selbst die Schnecke im Ohr erinnert an die Schnecke an der Geige den Namen hatten, so fällt es schon nicht mehr auf, wenn seit Helmholtz's grosser Entdeckung von der Harfe oder dem Clavier im Ohr als von etwas Selbstverständlichem gesprochen und damit eine einstweilige Vorstellung der Sache auch bei Unkundigen eingeleitet wird. Wir machen wiederholt die Bemerkung, in welchem Grad die Bild bedürftigkeit der Sprache mit divinatorischer Hellsicht so [p. 94] viele den künstlichen Werkzeugen entlehnte Benennungen treffend auf Eigenschaften und Vorgänge der organischen
+
+Thätigkeit überträgt. Die anatomische und physiologische Terminologie ist ebenso ein Gegenbild der technischen, wie das stoffliche Product der Technik das Abbild der Organe. Bei jedem Rückblick auf die bisher besprochenen
+
+Werkzeuge ergiebt sich, dass hauptsächlich die Anfangs und Endpunkte ihrer fortschreitenden Vervollkommnung berücksichtigt worden sind. Zwischen diesen liegt meisten theils eine kaum übersehbare Menge sehr verschiedener For men.
+
+Wollten wir dieselben auch nur annähernd mit in Betracht ziehen, so hiesse das die hier erlaubten Grenzen weit überschreiten. Davon aber auch ganz abgesehen, fehlt es so sehr an hinlänglich festgestelltem physiologischen Material, dass für die grosse Mehrzahl jener Formen das organische Vorbild schwerlich so deckend nachgewiesen werden könnte, wie dies in den bisher vorgeführten Bei spielen der Fall war. Auch ist es ohnehin überflüssig, da auf das Detail einzugehen, wo eine Anzahl so wichtiger Thatsachen bereits feststeht, welche aus der Natur eines Gliederganzen und aus dem Wesen der Werkzeugentstehung heraus für die innerste Verwandtschaft beider so unab weisbares Zeugniss ablegen. Der Begriff der organischen Selbstthätigkeit bringt es mit sich, dass sie der treue Aus druck von Unterschieden ist, und dass, wie das Ohr nur
+
+Schallschwingungen, das Auge nur Lichtschwingungen dem
+
+Vorstellungsheerd übermittelt, die verschiedenen Vorstellungen sich in Handbewegungen umsetzen und die Bewegungen der Hand Werkzeuge und Geräthschaften for men, d. h. sie in Abstimmung zu ihr selbst – projiciren.
+
+Hiermit stellt sich heraus, dass die staunenswerthen, von der Naturforschung ans Licht geförderten Thatsachen, [p. 95] auf welche wir uns, ohne Besorgniss vor einem Zweifel gegen ihre Anwendbarkeit auf die Organprojection, berufen durften, ihre Beweiskraft weit über den einzelnen Fall hinaus erstrecken. Denn im organischen Gebiete hat der einzelne Fall stets die Bedeutung, dass er, gleich dem fossilen Knochen, aus welchem sich das ganze Skelet eines bis dahin nicht gekannten Urthieres construiren lässt, divinatorisch dieselbe Gewissheit, die er für sich bekundet, für alle einschlagende Fälle verbürgt. Hilft er ja doch so wesentlich das Ganze constituiren, dass dieses selbst mit dem Einzelnen steht und fällt!
+
+Ein grosses Stück Weltgeschichte musste ablaufen, ehe es menschlicher Forschung und Anstrengung gelang, das Clavier im Ohr zu entdecken. Noch vor einigen Jahr zehnten hielt C. G. Carus (Physis, S. 441) es für immer unmöglich, ganz deutlich zu machen, wie in dem kleinen, höchst zarten Weichgebilde des Labyrinths, welches die Grösse einer halben Haselnuss kaum übersteige, alle die millionenfältigen Tonschwingungen momentan' wirklich sich einleben, dergestalt, dass wir von da aus durch den Ner ven Kenntniss von diesen Tönen erhalten. Dies werde für immer eben so unmöglich sein, als es uns ganz deut lich zu machen, wie in der daguerreotypischen Schicht der Retina, auf die Grösse einer Erbse beschränkt, etwa das Firmament mit all seiner Herrlichkeit sich einzuleben ver möge. Doch welcher Fortschritt ist nicht schon jetzt in dieser Kenntniss erfolgt, und welche Welt von Entdeckungen, die heute für unmöglich gelten, mag dem auf das ganze Geheimniss jenes Allerheiligsten im Ohr gerichteten For schungsdrang noch vorbehalten sein!
+
+Wohl darf man sagen, eine Welt von Entdeckungen,
+
+[p. 96] Apparate und Instrumente.
+
+im Hinblick auf jene feinsten Berührungsblitze zwischen den Schallschwingungen und den zartesten Nervenendchen, durch welche kosmische Bewegungen in geistige, Reiz grössen in Empfindungsgrössen und Vorstellungen, Stoffe in Gedanken übersetzt werden!
+
+Die seitherigen Fortschritte in der Kenntniss des organischen Lebens, wie gering sie erscheinen im Vergleich zu der ungeheuren Aufgabe, deren Lösung einer fernen Zukunft vorbehalten ist, wiegen um so viel schwerer, als sie, die festen Stützen unserer bisherigen Erörterungen, sich als solche auch für die folgenden in Aussicht stellen. Kommt es ja doch auf die Einsicht an, dass es die Bestimmung aller organischen Gebilde, der harten Knochen wie der zartesten Weichtheile ist, auf die eine oder andere Art in den menschlichen Machwerken – das Wort in seiner allgemeinsten und erhabenen, die höchste Kunst einbegreifenden Bedeutung genommen – sich nach aussen zu projiciren, um als wissenschaftlicher Forschungsapparat retrospectiv zur Selbstkenntniss und zur Erkenntniss über haupt verwendet zu werden.
+
+Dieses retrospective Verfahren der wissenschaftlichen
+
+Forschung bewährt sich nun auffallend auch an den Stim morganen, auf die wir jetzt, dem unmittelbaren Rapport gemäss, in welchem sie physiologisch nachweis bar mit den ursprünglich aus Athmungsorganen hervor gebildeten Hörorganen stehen, unseren Blick zu richten haben.
+
+Wie erst mittels Daguerreotyp und Clavier sich die Functionen von Auge und Ohr aufhellen liessen, so war unter den Tonwerkzeugen die Orgel das der Forschung nachhelfende mechanische Nachbild der Stimmorgane, und zwar so treu und genau, dass dessen Vergleich mit dem [p. 97] Original fast ebenso wie ein sprechend ähnliches Portrait dem Betrachter ein Lächeln verwunderten Beifalls abnöthigt. Der Brustkasten mit den Lungen, die Luftröhre und der Kehlkopf mit dem in Mund- und Nasenhöhle ausgehenden Schlund sind bekanntlich die Stimmorgane; ihre Projection erkennen wir in den ihnen entsprechenden Hauptbestandtheilen der Orgel, dem Blas balg, der Windla de und der Pfeife mit dem Ansatzrohr.
+
+Die Physiologie kann zur Verdeutlichung der Functionen der Stimmorgane diese Parallele mit der Orgel nicht ent behren und bedient sich auch sonst noch mancher, musikalischen Instrumenten entlehnter Bezeichnungen für orga nische Gebilde.
+
+„Merkwürdiger Weise,“ sagt Carus, „ist es das umfang reichste und erhabenste der musikalischen Instrumente die Orgel welches am meisten hier in Vergleichung kommen kann, nur mit dem Unterschiede, dass durch das lebendige, bewegliche Verhältniss ein Pfeifenrohr die Luftröhre mit ihrer sich willkürlich verengenden und erweiternden Stimmritze (die Engländer nennen sie wirklich Windpipe, Windpfeife) die Stelle der vielen an Grösse verschiedenen, aber an sich unbeweglichen Orgelpfeifen vertritt.“ (Physis, S. 290.) Noch weniger lässt in dieser Beziehung Czermak's lichtvolle Behandlung der Anatomie und Physiologie der Stimm- und Sprachwerkzeuge zu wünschen übrig. Er lehrt „die genauere Beschaffenheit des allseitig verschlossenen und beweglichen Brustkastens mit den Lungen – des Blasebalgs —“ kennen, er spricht von der „Windlade, d. h. von der Luftröhre und den beiden
+
+Bronchien“ und berichtet über den Kehlkopf und seine Ausmündungen, „nämlich der einzigen Pfeife mit dem An satzrohr.“
+
+[p. 98] Und da spreche noch Jemand von Zufälligkeiten der Aehnlichkeit, wo doch von nichts Anderem als von organischer Ordnung und von einer inneren Nothwendigkeit sprachlicher Bestätigung die Rede sein kann. Nicht minder günstig für die Anerkennung der Or ganprojection lautet Czermak's Vortrag „das Herz und der Einfluss des Nervensystems auf dasselbe“ . Eine anatomische Betrachtung der äusseren Gestalt und des inneren Baues vorausschickend, geht er zur Er läuterung des Mechanismus des Herzens als eines Pump werks über, d. h. zur Erklärung der Art und Weise, wie das Herz durch die abwechselnden Zusammenziehungen und Erschlaffungen seiner vier Abtheilungen und durch das Spiel seiner Klappen oder Ventile das Blut im Gefässsystem des Körpers in eine kreisende Bewegung von bestimmter Richtung umhertreibt. Die demnächst öfter wiederkehrende und absichtlich von ihm gebrauchte Bezeichnung „Herzpumpe“ lässt keinem Zweifel Raum, dass die Wahl gerade dieses Wortes die deutliche Uebereinstimmung zwischen dem angeborenen und dem künstlichen
+
+Werkzeug bekräftigt. (a. a. O., S. 15.) Ein Wort von solcher Zusammensetzung ist gewisser maassen die gedrängteste Abkürzung unserer ganzen Betrachtung. Das Organ und der Mechanismus mitsammt der Fülle der im Vorgang der Projection zur Erscheinung kommenden Wechselbeziehungen, so wie sie bisher erörtert worden, sind hier zu Einem Begriff verbunden! Indem wir diese stillschweigende Zustimmung seitens der Sprache will kommen heissen, wollen wir zugleich nicht unterlassen, auch die schwache Seite derselben zu berühren.
+
+Von der metaphorischen Berechtigung, welche ähnlich anspielenden Ausdrücken, wie Augenweide, Ohrenschmaus,
+
+[p. 99] Herzblatt u. S. W., zukommt, ist hier durchaus abzusehen, und beansprucht derjenige Theil der Zusammensetzung, welcher die Maschine benennt, gemäss der oben vorkommenden Bezeichnung des „Mechanismus des Herzens als eines Pumpwerkes“ , in dem Worte „Herzpumpe“ im ganz eigentlichen Sinne verstanden zu werden. Insofern wäre der Ausdruck ein Repräsentant der zur Zeit überhand nehmen den Ungenauigkeit in der wissenschaftlichen Terminologie, welche, Organisches und Mechanisches in Eins fassend, bereits arge Verwirrung der Begriffe zur Folge gehabt hat. Ein Organ ist niemals Theil einer Maschine, ein Handwerkzeug eben so wenig das Glied eines Organismus, und ein mechanischer Organismus ist ebenso wie ein organisches Räderwerk ein — hölzernes Eisen. Wir werden öfter noch auf die Nothwendigkeit einer gewissenhaften Sichtung dessen, was man als Mechanismus bezeichnet, zurückkommen und schliessen hier mit der vorläufigen
+
+Andeutung ab, dass sich jene Begriffsvermengung aus den wesentlichen, den Process der Projection unterhaltenden Beziehungen insoweit erklären lässt, als gewissermaassen die Vorstellung des Organischen unwillkürlich und unver merkt von dem Vorbild aus auf die mechanische Nach bildung mit hinüberspielt, sowie umgekehrt, bei der Ver wendung des Maschinellen zur Erklärung organischer Vor gänge, das Mechanische im Eifer des Experimentirens so unvermerkt in den Organismus hinüberschwankt, dass neben dem bildlichen Herüber- und Hinübererklären auch offenbare, sonst unstatthafte Verwechslungen nicht aus bleiben konnten. Diese zu verhüten oder zu verbessern war Sache der Aufmerksamkeit, so lange die Werkzeuge einfach oder in ihrer Zusammensetzung leicht zu übersehen waren. 7*
+
+Da [p. 100] erlaubte man sich nicht vom Organismus einer Kutsche oder vom Mechanismus des Denkprocesses zu reden. In zwischen ist jedoch, seitdem die Handarbeit durch compli cirte Maschinen und Apparate ersetzt worden ist, eine auffallende Verwirrung der Begriffe „mechanisch“ und „organisch“ eingerissen, und die Herstellung der für die Grossindustrie und die Weltcommunication nöthigen Ma schinerie nimmt einen solchen Aufwand der wissenschaft lichen Technik in Anspruch, dass sich, bei nicht genauer
+
+Betrachtung und Kenntniss, die Uebertragung der bewegenden Kräfte der Wahrnehmung entzieht und Dampf maschinen und Telegraphenapparate den Anschein selbst thätiger Bewegung annehmen. Unter dem Banne dieses Scheines fühlt sich der Be schauer etwas Verwandtem, einem nicht eingebildeten, sondern einem wirklich aus dem Mechanismus ihm zugekehrten
+
+Dämonischen gegenüber. Und was anders kann dies sein als der Widerschein eines Geisthaften, wie es sich offenbart in Beziehungen, welche der Mensch vom organischen Leben abstrahirt und sich in der Form von Gesetzen der Mechanik vorstellig gemacht hat? Diese Gesetze sind gegenüber dem ewigen Fluss der Beziehungen im Welt organismus ein Nothbehelf der Vorstellung, sind auf dem Wege der Abstraction aus dem kosmischen Zusammenhang herausgerissene Beziehungen des Lebendigen und werden, ausserhalb dieses Zusammenhanges in Zeichen und Ziffern erstarrt und in Formeln gefasst, als Denkwerkzeuge - den Begriff Werkzeug in weitester Bedeutung genommen verwendet.
+
+Das physikalische Gesetz deckt allerdings vollkommen den Mechanismus, nicht aber den Organismus, den wir nur insoweit begreifen, wie wir mit jenem reichen. Was!
+
+[p. 101] darüber hinaus liegt, ist das grosse Geheimniss des Lebens, dessen Lösung sich die mechanistische Weltanschauung ver geblich rühmt. Die absichtliche Vertauschung der Begriffe Mechanismus und Organismus lassen wir nach obi ger Beleuchtung höchstens als sprachliche Aushülfe gelten, das stets präsente Bewusstsein ihres Unterschiedes voraus gesetzt. Wir müssen uns aber des Andranges solcher Ansichten erwehren, welche den redenden, organisch ge gliederten Menschen in den Räder- und Tastenautomat Hübner's einsargen möchten. Um dergleichen Fragen ein für allemal zu beantworten und als müssige zu beseitigen, und um den Unter schied, welcher zwischen dem unbewussten Geschehen absoluter Selbstproduction und dem bewussten Nachcon struiren eines organischen Gebildes obwaltet, festzustellen, diene folgende Parallele.
+
+Laut einer Mittheilung der Zeitschrift „Das neue Blatt" (1873 No. 35) ist die bekannte eiserne Hand des Ritters Götz von Berlichingen, von einem Waffenschmied bei Jaxthausen hergestellt, noch heute auf dem dortigen
+
+Schloss zu sehen. „Jeder Finger derselben kann mittels Federn, ähnlich denen eines Gewehrschlosses, indem man auf Knöpfe drückt, geöffnet und grade gestellt werden; geschlossen halten sie das Schwert klammerfest. Daumen und Handwurzel haben einen besonderen Mechanismus." Hier hat ohne Zweifel der Mechanikus ein Modell vor sich gehabt. Dazu mochte ihm, neben einer lebendigen Hand, für die Gelenkfügungen ein gut präparirtes Hand skelet gedient haben, welches er Stück vor Stück im sorgfältigsten Anschluss an die vor ihm liegenden Formen und Verhältnisse nachmachte. Die einzelnen Theile fügte er dann mit einer für jene Zeit grossen Geschicklichkeit [p. 102] so zusammen, dass die eiserne Zusammensetzung, mit den betreffenden Druck- und Elasticitäts- Vorrichtungen ver Fig. 20.
+
+Die eiserne Hand des Ritters Götz v. Berlichingen.
+
+sehen, zur Noth den Mangel ersetzen konnte. (Fig. 20. 21.) Unter diese Kategorie fallen alle sogenannte „künst [p. 103] liche Glieder.
+
+Was sind sie anders als mechanische Gestelle? Von aussen gleichen sie ihren Model len oft bis zur Täuschung. Doch was lässt sich Erhebliches damit ausrichten? Nothdürftige Ergänzungen eines fehlen den Gliedes, dienen sie in immerhin beschränktem Maasse einem ganz individuellen Zweck, der mit dem Bestehen der menschlichen Wohlfahrt im allgemeinen nichts zu schaffen hat. Wie wesentlich verschieden nimmt sich der eiserne Fig. 21.
+
+Ein Finger der eisernen Hand.
+
+Hammer der eisernen Hand gegenüber aus! Jener der Ausfluss unverkürzter Lebensthätigkeit, diese das vorsätzlich und mit ängstlicher Treue nachgemachte Modell; dort die Erhöhung natürlicher Kraft und Stärke, hier die kümmerliche Zuflucht der Schwäche; jene im reproductiven Zusammenhang mit einer Folge von Werkzeugen, diese die isolirte Maske einer Verkrüppelung; jene in erster Linie betheiligt an der Erschaffung der Culturmittel, diese nur dem Besitzer ein Gegenstand von Werth, für alle Anderen eine Rarität! Wie imposant nimmt sich das Analogon des organischen Gebildes als Werkzeug der „Werkzeugung“ aus im Vergleich zu den unfruchtbaren Machwerken künstlicher Glieder und ganzer mit der Unheimlichkeit [p. 104] von Wachscabinetfiguren behafteten Automaten! Der Hand hammer ist eine metamorphosirte Hand, die eiserne
+
+Hand ist Handgestell. Diese bedarf jener zu ihrer Her stellung, jene hilft neue Hämmer schmieden, ganze Hammer werke errichten und Weltgeschichte machen. Ist es doch, als berge das Handwerkszeug in dem Begriff des Handlichen eine organische Mitgift, und als wäre es gerade die Handlichkeit, nämlich die vom
+
+Werkmann verspürte angemessene Abstimmung mit seinen in der Arbeit rührigen Gliedmaassen, welche die Vertrautheit mit einem Lieblingswerkzeug erhöht und das Gefühl seiner Unentbehrlichkeit eingiebt! Hier liegt das Verständniss von dem sprüchwörtlich gewordenen goldenen Boden des Handwerks. Es lautet daher durchaus nicht gesucht, wenn
+
+0. Caspari (Urgeschichte der Menschheit I, 309), um zu erklären, weshalb Naturmenschen, obwohl sie so viel In differentes als Fetisch verehren, ihre Geräthe, auf welche sie doch so hohen Werth legen, niemals anbeten, die An sicht aufstellt, dass diese fetischistische Verehrung durch die Gewohnheit gehindert werde, „die zu innig mit den Objecten verwächst, ähnlich wie der Mensch mit seinen
+
+Gliedern, die er gewiss am höchsten schätzen sollte.“ So lange der Hammer, um bei diesem Normalbeispiel zu bleiben, in Rücksicht jener vom Urbild anhaftenden Mitgift nicht als Repräsentant der Gewerbe- und plastischen Kunstthätigkeit begriffen worden, ist man noch weit entfernt von der richtigen Würdigung der primitiven Werk zeuge als Begründern des Menschengeschickes. Wer eines derselben recht sinnig betrachtet, und unbefangen dabei sich vergegenwärtigt, welche und wie viele wunderbare Werke damit von jeher ausgeführt worden sind, dem im ponirt „das ordinäre Ding“ und fesselt ihn auf die Dauer [p. 105] in ganz anderer Weise als jene künstlichen Uhr- und Räderwerke tanzender und plappernder Gliederpuppen, die anfänglich doch nur Gegenstände der Neugier sind, dann aber der Langenweile und des Ueberdrusses. Die Producte der organischen Projection waren zu nächst, wie wir gesehen haben, von derb sinnlicher Einfachheit, dienend zur Unterstützung der schweren Hand arbeit. Allmälig sahen wir sie, zu Zwecken geistiger Thätigkeit, in vielfacher Zusammensetzung und Feinheit der Ausführung die Form wissenschaftlicher Werkzeuge und Apparate annehmen. Hier beginnt die äussere Form nachbildung vor der Darstellung innerer Beziehungen und Verhältnisse des Organismus zurückzutreten. Wie viel geistige Zuthat weist die Claviertaste im Vergleich mit dem Schmiedehammer auf! Beide, Producte des Gestal tungsbedürfnisses, erinnern an bestimmte organische For men und Bewegungen; die Taste jedoch, hinweisend auf das ideale Gebiet, gilt immerhin mit Beschränkung auf bloss Eine Gebrauchsart, als Kunstwerkzeug, während der Hammer nur ein Handwerkzeug ist, freilich aber das Fac totum des Handwerks und die Voraussetzung aller möglichen Kunstgeräthe.
+
+Dass nach dieser Auffassung z. B. die polaren Beziehungen im Organismus einen mechanischen Ausdruck in der Magnetnadel gefunden haben, mag als vorläufige Andeutung dienen, welche Formen die Projection idealer Beziehungen zu durchlaufen hat, um schliesslich als Organismus des Geistes zum Totalabbild des leiblichen Organismus zu werden. Indem A. v. Humboldt Werkzeuge der genannten Art geradezu neue Organe nennt, erkennen wir ist, voll hierin das, was uns die Organprojection kommen bestätigt:
+
+„Das Erschaffen neuer Organe [p. 106] (Werkzeuge zum Beobachten) vermehrt die geistige, oft auch die physische Kraft des Menschen. Schneller als das Licht trägt in die weiteste Ferne Gedanken und Willen der geschlossene elektrische Strom. Kräfte, deren stilles Treiben in der elementarischen Natur, wie in den zarten
+
+Zellen organischer Gewebe, jetzt noch unseren Sinnen ent geht, werden erkannt, benutzt, zu höherer Thätigkeit erweckt und einst in die unabsehbare Reihe der Mittel treten, welche der Beherrschung einzelner Naturgebiete und der lebendigeren Erkenntniss des Weltganzen näher führen.“
+
+VI.
+
+Die Anordnung der Knochensubstanz das bisher unbekannte Vorbild für ge wisse Werke der Architektur. Darstellung des Herganges dieser Entdeckung. Die Architektur der Spongiosa des oberen Endes des menschlichen Ober schenke eines in vollkommener Uebereinstimmung mit dem uf der theoretischen Druck- und Zuglinien am (knochenähnlichen) Krahn. Der Pauly'sche Brückenträger ist auf der Theorie der Zug- und Drucklinien basirt, wonach der Knochen sich aufgebaut hat. Die Natur hat den Knochen aufgebaut wie der Ingenieur seine Brücke. Das Knochengewebe ist zu den lebendigen Geweben zu rechnen. Das Verhältniss der Entdeckung zur Organ projection. Die mechanistische Disciplinirung der Naturforschung. Die Wissen schaft pflegt für alle wirkende Ursachen im Organismus eine Analogie zu suchen im Mechanismus. Begriff und Werth der actuellen Empirie.
+
+Wir betreten nunmehr dasjenige Gebiet des orga nischen Lebens, welches im buchstäblichen Sinne als dessen Verknöcherung gegolten hat. Die Auferstehung eines für todt Erklärten, das Lebendigwerden des Skelets, eine der merkwürdigsten Thatsachen der neuesten Forschung vollzieht sich. Dieselbe ist, ausser in kürzesten
+
+Mittheilungen, noch zu wenig dem allgemeinen Bewusst sein nahe gebracht worden. Abgesehen davon, dass sie eine der festesten Stützen der Organprojection ist, er achten wir Ausführlicheres hier für willkommen und den gewissenhaften Anschluss an den Originalbericht für wohl begründet.
+
+Der Gegenstand, an und für sich von allgemeiner Wichtigkeit für die Physiologie, und durchschlagend speciell für unseren Zweck, ist folgender: Es ist eine ausgemachte Thatsache, dass neuerdings [p. 108] in den Hocheisenconstructionen des Brückenbaues, besonders bei Eisenbahnen, gewisse Regeln der Architektur in Anwendung gebracht worden sind, für welche Physiologie und Mathematik das bisher durchaus unbekannte Vorbild in der Anordnung der Knochensubstanz im thierischen Körper entdeckt haben. Die Entdecker, ein wissenschaftliches Triumvirat, wie es in solcher Einmüthigkeit der fast gleichzeitig auf eine gemeinsame Aufgabe gerichteten Forschung selten auf getreten ist, haben die grosse Wahrheit, nachdem ihre erste Spur einmal gefunden war, in ungewöhnlich raschem Erfolge Schlag auf Schlag ans Licht gefördert. Sollte die Begründung der Organprojection, so weit wir sie bisher verfolgt haben, irgend misstrauischem Be denken begegnet sein, so müsste doch jeder Zweifel vor den Resultaten eines Inductionsverfahrens verstummen, welches ebenso durch das Zusammentreffen glück licher Umstände, wie durch geniale Behandlung überaus begünstigt gewesen ist. Ich darf in diesem Falle das Referat über den Hergang einer so bedeutenden Ent deckung schon deshalb nicht umgehen, weil, der anziehen den Einzelnheiten für das allgemein menschliche Interesse nicht zu gedenken, der Hergang einer Sache bekannt lich immer auch das Urtheil über dieselbe an die Hand giebt. Die dabei betheiligten Gelehrten sind K. Culmann, Professor der Mathematik am Züricher Polytechnicum, J. Ilermann Meyer, Professor der Anatomie in Zürich, und Julius Wolf", praktischer Arzt und Docent an der Berliner Universität.
+
+Wem von den drei Gelehrten der
+
+Anspruch auf den grössten Antheil des eingeernteten Ruhmes zukommt, ist, vom Gebiete des Geistes aus be [p. 109] trachtet, worauf das Metermaass nun einmal keine Anwendung findet, eine müssige Frage. Culmann ist der Verfasser des im Jahre 1866 voll ständig erschienenen Werkes über die „Graphische Statik“ (1. Hälfte bereits 1864), Meyer veröffentlichte 1867 in Reichert's und Du Bois - Reymond's Archiv eine Arbeit über „die Architektur der Spongiosa“ , und Wolf sah sich durch diese 1870 veranlasst, in Virchow's „Archiv für pathologische Anatomie und Physiologie“ (Bd. 50, Heft 3, S. 389 – 450) seine Abhandlung „Ueber die innere Architektur der Knochen und ihre Bedeutung für die Frage vom Knochenwachsthum“ er scheinen zu lassen. Später, im Jahre 1873, führte Meyer „Die Architektur der Spongiosa" in seinem neuen Werke über „Die Statik und Mechanik des menschlichen Knochen gerüstes“ im Zusammenhang der betreffenden Wissen schaft wieder vor, und zwar unter Beifügung einiger Anmerkungen, welche auf die Wolf'schen Ansichten Be zug nehmen. Nebenbei sei hier noch bemerkt, dass die Zeitschrift der Naturforscher (1870, No. 36, 37) eine kurze Besprechung des Gegenstandes unter der Ueber schrift „Architektur der Knochen“ gebracht hat, und im nächsten Zusammenhang damit eine Mittheilung über „Brückenbau“. Sonst scheint im Ganzen noch wenig zu Gunsten allgemeinerer Kenntnissnahme dieses wissenschaft lichen Ereignisses geschehen zu sein. Dem Nachweise
+
+Culmann's, dass die architektonische Anordnung gewisser Knochen mit den theoretischen Linien der graphischen
+
+Statik übereinstimmen, thut Meyer zwar Erwähnung, geht aber a. a. 0. nicht näher darauf ein, indem er mehr nur im Allgemeinen auf den Zusammenhang der Architektur der Spongiosa mit den statischen und me
+
+[p. 110] Fig. 22.
+
+b
+
+Fournierblattartiger frontaler Längsschnitt vom oberen Ende des rechten Oberschenkelbeines.
+
+a der Oberschenkelkopf, 6 der grosso Rollhügel, c Grube des grossen Rollhügels, d das compacte Gefüge. Zwischen a, b, c, d, das spongiose Gefüge.
+
+[p. 111] chanischen Verhältnissen der Knochen aufmerksam macht.
+
+(Fig. 22.) Im Interesse der Deutlichkeit halten wir uns öfter an wörtliche Anführungen aus Wolff's Darstellung des Ver laufes der Entdeckung.
+
+Derselbe bezeichnet es „als ein ganz ausserordentlich hohes Glück für die Wissenschaft, dass Professor Culmann in der natur forschenden Gesellschaft zu Zürich die Präparate Meyer's zu sehen bekommen hat. Ohne diesen glücklichen Um stand würde man möglicher Weise noch lange Zeit hin durch in der kostbaren Entdeckung Meyer's nichts als eine artige, aber bedeutungslose Spielerei der Natur ge sehen haben.“ „Culmann bemerkte sofort beim Anblick jener Präparate, dass die spongiosen Bälkchen an vielen Stellen des menschlichen Körpers genau in denselben Linien auf gebaut seien, welche die Mathematiker in der graphischen Statik an Körpern entwickeln, die ähnliche Formen haben, wie die betreffenden Knochen, und ähnlichen Kräfte einwirkungen ausgesetzt sind, wie diese. Er zeichnete nun einen Krahn (d. i. einen gebogenen zum Heben oder Tragen von Lasten bestimmten Balken), dem er die Um risse des oberen Endes eines menschlichen Oberschenkel deines gab, und bei dem er eine den Verhältnissen beim Menschen entsprechende Belastung annahm. In diesen Krahn liess er unter seiner Aufsicht die sogenannten
+
+Zug- und Drucklinien von seinen Schülern hinein zeichnen. (Fig. 23.) Und mit welchem Ergebniss! Es zeigt sich, dass diese Linien in allen Punkten dieselben sind, welche die Natur am obern Ende des Oberschenkels durch die Richtungen, die sie hier den Knochenbälkchen gegeben, in Wirklichkeit ausgeführt hat.“
+
+[p. 112] Wolff hatte bei einem Aufenthalt in Zürich im October
+
+1869 Gelegenheit, sich von Meyer dessen Präparate zeigen zu lassen, und gelangte auch seinerseits zu der Ueber Fig. 23.
+
+Der knochenähnliche Krahn. Verlauf der theoretischen Zug- und Drucklinien. A-E Zuglinien, a - e Drucklinien. Der grosse Rollhügel ist abgebrochen gedacht, [p. 113] zeugung, dass in der That das spongiose Knochengefüge nicht ein regelloses Gewirre von Knochenbälkchen und Hohlräumen sei, wie man bisher geglaubt, dass ihm viel mehr wirklich jene wohlmotivirte Architektur eigen sei. Seit jener Zeit beschäftigte er sich in ausgedehntem Maasse mit den architektonischen Verhältnissen der Knochen unter gleichzeitig fortgesetztem wissenschaftlichen Austausch mit Culmann.
+
+Er hält sich bei seinen Erörterungen vorzüglich an ein bestimmtes Beispiel, indem er sich auf die Dar stellung der Verhältnisse am oberen Ende des menschlichen Oberschenkelknochens beschränkt.
+
+Während die Präparate von Meyer durch Zersägen der Knochen in zwei Längshälften gewonnen waren, fand Wolf' Gelegenheit, in Berlin eine zum Schneiden der papierdünnen Elfenbeinblättchen für Damenfächer dienende Maschine zu benutzen. Der auf einem kleinen Holzklotz aufgeleimte und mittels desselben fest eingespannte Knochen wurde langsam in wagerechter Richtung einer feinen blatt förmigen Säge entgegengeführt, die sich mit ungeheurer
+
+Schnelligkeit auf und ab bewegte. Ein Knochen lieferte viele sogenannte Fournierblätter, von denen sich, nachdem sie gereinigt und durchsichtig gemacht, und zur Erzie lung eines scharfen Contrastes auf eine Unterlage von schwarzem Sammet gebettet waren, die zierlichsten und saubersten Photographien anfertigen liessen. Photographien dieser Art hat Wolff seiner Abhandlung beigefügt und namentlich zeigt die Nebeneinanderstellung der Zeichnung des Culmann'schen Oberschenkelpräparates und seines schematischen Nachbildes „die Uebereinstimmung zwischen dem Verlauf der theoretischen Druck- und Zug linien am knochenähnlichen Krahn und der Anordnung der Knochenbälkchen als eine vollkommene" . KAPP, Phil, d. Technik,
+
+[p. 114] Wolff zeigt ferner, „dass sowohl der Oberschenkel wie der Krahn durch die Körperlast auf die Biegungs festigkeit beansprucht wird, dass dadurch alle Theilchen der Seite des grossen Rollhügels (Trochanter major) auseinander gezerrt, alle Theilchen auf der inneren Gegenseite (Adductorenseite) zusammengedrückt werden. Es wird so mit jene die Zugseite, diese die Druckseite des Oberschenkels genannt werden müssen.“ (Fig. 24.)
+
+„Zerrung und Pressung sind aber nicht die einzigen Wirkungen der äusseren Kraft, welche einen auf Biegungs fähigkeit beanspruchten Körper belastet. Hier haben die Theilchen eines jeden Querschnittes das Streben, sich gegen die Theilchen des benachbarten Querschnittes, und die Theilchen jedes Längenschnittes das Streben, sich gegen die des benachbarten Längenschnittes zu verschieben. Die Kraft, mit der dies geschieht, nennt man die Schub- oder Scheerkraft, und es wird demnach in jedem Schnitt noch eine Spannung, die Schubspannung hervorgerufen, welche der Verschiebung zweier benachbarter Schnitte gegen einander Widerstand leistet.“
+
+Aus der Beweisführung für das Obige, die in der Wolff"schen Abhandlung allein gegen dreissig Seiten füllt, hebe ich schliesslich in der Kürze die folgenden, sehr wichtigen Resultate heraus: „Nach Culmann „ „,leistet ein Körper bei Beseitigung der scheerenden Kräfte dem Zug und Druck der Last die grössten Widerstände und wird dem nach eine eben so grosse Belastung aushalten können ohne zusammenzubrechen, als wäre er solide.
+
+Mit derselben erreicht man es durch die zweckmässigste Form, welche alle Erschütterungen und Oscillationen an der Brücke möglichst vermeidet, den Materialaufwand und die Kosten der Brückenträger auf ein Minimum zu reduciren.“ ** [p. 115] „Es handelt sich bei den oben erörterten Sätzen nicht um blosse Theorien, sondern um Fig. 24.
+
+E
+
+Schematische Nachbildung der Figur 22. A- E Zuglinien, a-e Drucklinien.
+
+[p. 116] Dinge, die bereits in der Praxis verwirklicht sind.“ Der Pauly'sche Brückenträger ist auf der Theorie der Zug- und Drucklinien basirt, in denen der Knochen aufgebaut ist. Es ist bewiesen, dass das sogenannte com pacte Gefüge des Knochens eine zusammengedrängte Spongiosa darstellt, indem dessen einzelne Schichten als directe Fortsetzung und Stützen entsprechender Bälkchen der Spongiosa zu betrachten sind. compacte und spongiose Region des Knochens unterscheiden, aber die alte Unterscheidung zweier Substanzen im Knochen ist entschieden fortan unzulässig.“ Wenn nun Wolf hinzufügt, dass die Natur den Knochen aufgebaut habe, wie der Ingenieur seine Brücke, nur dass jene viel vollendeter und grossartigergebaut, als dieser es vermöge, so ist dem nur beizustimmen, wie er denn überall die Macht der Beweisführung durch die Natur entschieden anerkennt, so namentlich da, wo er das schwerwiegende Bekenntniss ablegt, das von vorn herein ihm Imponirende an den Verhältnissen der Knochenarchitektur sei gewesen, dass es sich um eine mathematisch vorausbestimmte und nachträglich in Wirklichkeit bestätigt gefundene Thatsache gehandelt habe. (Fig. 25.) Im letzten Theile seiner Abhandlung erörtert der Verfasser die Folgerungen, welche sich aus der inneren Architektur der Knochen für die Frage vom Knochenwachsthum ergeben. Den Ansatz neuer Knochensubstanz an die vorhandene bleibende verwerfend, stürzt er das alte Dogma von der mechanischen Passivität (Juxtapositionstheorie) und verkündet von seinem, des Organismus allein würdigen Standpunkte aus die organische (interstitielle) Stoffwechsel erneuerung (Intussusception), wodurch er dem Knochen [p. 117] gewe be sein volles Recht, zu den lebendigen Geweben gerechnet zu werden, siegreich gewahrt hat. Er kann auch ferner nicht umhin, folgerichtig ganz ausdrücklich zu erklären, „dass es sich hier um ein allgemeines für alle Körperstellen geltendes Gesetz handelt, dass überall die Knochen einen ihrer Inanspruchnahme entsprechenden archi Fig. 25.
+
+Träger
+
+Pfeiler
+
+Pfeiler
+
+Brücke
+
+Wasserspiegel
+
+Schematische Darstellung des Pauly'schen Brückenträgers. f ce und f qi e sind die zwei praktisch ausführbaren Zug- und Druckbalken, die inneren Zug- und Drucklinien sind durch Fachwerk ersetzt. Die Brücke ist an den Pfeilern in der neutralen Axe bei e und f aufgehängt.
+
+tektonischen Aufbau besitzen.“
+
+Von der äusseren
+
+Form des Knochens macht er den untrüglichen Rück schluss darauf, ob derselbe nur auf Druckfestigkeit oder auch auf Biegungsfestigkeit beansprucht wird, und welche Architektur in der spongiosen Substanz zu finden sein muss, wie denn auch umgekehrt die Architektur der Spon giosa auf die Inanspruchnahme und Belastungsstelle des Knochens schliessen lässt.
+
+Die von ihm nach dieser Rich [p. 118] tung hin vorgenommenen praktischen Untersuchungen haben überall seine erste Vermuthung zur Gewissheit erhoben.
+
+„Die Wunder der spongiosen Knochenregion“ sind demnach aufgedeckt. Der harte Knochen, bemerkt K. Rosenkranz in seiner Psychologie, muss die Wahrheit sagen. Er wird ihrer im Laufe der Zeiten noch viele neue ungeahnte zu sagen haben, bevor das Goethe’sche Wort „Es ist nichts in der Haut, was nicht im Knochen ist“ vollständig beglaubigt ist. Schon längst wissen wir, dass die Schädelknochen hören helfen, indem sie „durch ihre Textur und Gestalt als ausgezeichnete Leiter des Schalls sich bewähren und daher überall mitwirkend er scheinen, um Schallwellen aufzunehmen.“ (C. G. Carus, Physis, S. 437.) Es giebt sogar „Thiere, die nur durch Knochenleitung hören, z. B. die Fische.“ (C. Lermann, Physiologie des Menschen, S. 384, 3. Aufl.) Der Hauptsache hat die Forschung Genüge gethan, insofern sie den Weg zu einer Reihe von Schlüssen ge bahnt hat. Diese hebt an von irgend einem beliebigen Knochen, dessen Form und Beschaffenheit zunächst die Vorstellung des ganzen Skéletbaues erweckt, sie erstreckt sich auf die Architektur der Spongiosen, weiter auf die Belastungstellen der Knochen, auf die Musculatur und
+
+Organfunctionen, auf die Nahrungsbeschaffenheit, ja auf die physiologischen Vorgänge, und bildet so eine Kette von Gliedern in unzerreissbarer Folge!
+
+Wir haben nun besonders noch darzulegen, wie sich die durch die Entdeckung der Architektur der Spongiosa gewonnene höchst werthvolle Stütze der Organprojection zu deren beiden Richtungen verhält. Fassen wir dieselben kurz als das unbewusste Hinaus [p. 119] versetzen eines Leiblichen in dessen stoffliche Nachbildung einerseits, und andererseits als Rückwärtsverwendung des Mechanismus zum Verständniss des Organismus bis zur möglichsten Steigerung des Bewusstseins über jene unbewusst zu Stande gekommene Ineinsfügung eines Inneren und Aeusseren: so finden wir, dass durch die Abhandlung über die Architektur der Knochen hauptsächlich eine Seite, und zwar die letztere, vertreten ist.
+
+Das schwammartige Gebilde der Knochensubstanz, die Spongiosa, hatte von jeher offen vor Aller Augen gelegen. Es war dem Menschen der Vorzeit, dessen Steinbeil behufs
+
+Auslösung der Markröhre den Knochen in Längsrichtung spaltete, und dem Anatomen der Neuzeit auf gleiche Weise bekannt.
+
+Die aus kleinen Balken und Platten bestehende
+
+Vergitterung, ohne dass sie Gegenstand der eingehenden Forschung geworden wäre, war eben einfach da. Das war Alles.
+
+Der allgemeine Zweck des Knochengerüstes schien Jedem einleuchtend und bedurfte keiner weiteren Erklärung. Die Mittel aber, mit welchen die Natur den Zweck erreicht, entzogen sich so lange einer näheren Untersuchung, wie der Knochen in seiner organischen Einordnung nicht begriffen war. Sein Wachsthum erschien gleich den Ver änderungen anorganischer Körper als eine Vergrösserung durch Ansatz neuer Knochenmaterie und galt als eine Art von Stütze und Tragwerk, welches, wie Holz und Stein,
+
+Jahrhunderte hindurch die Auflösung des übrigen Körpers überdaure. In Folge jedoch der allmäligen Klärung und Vertiefung des Begriffes vom Organismus und bei der sich mehr und mehr befestigenden Einsicht, dass der Zweck eines organischen Bestandtheils, d. h. eines Gliedes, auch zugleich dessen einzige Bestimmung ist — oder mit Wolf's
+
+[p. 120] Worten, dass die Art, in welcher der Knochen auf gebaut ist, die einzig mögliche Architektur des selben ist fing man an, den sogenannten todten Knochen mit ganz anderen Augen zu betrachten. Der Doctrin des mechanischen Ansatzes gegenüber suchte man nach Beweisen für das organische Wachsthum aus der Zelle. Die Knochenbälkchen bildeten sich wie Muskel- und Nervenfasern, Form und Vertheilung standen in wechselbedingendem Zusammenhang mit dem Ganzen, die Spongiosa wies sich als Verzweigung der Compacta aus, diese als zur Steinhärte verdichtete Spongiosa, deren in bestimmten Richtungen gespannte Linien in Abstimmung geahnt wurden mit dem als Widerstandsleistung gegen Last und Druck erkannten Zweck des Knochens. Inzwischen hatte die Technik draussen über Schluchten und Gewässer hinweg mechanische Vorrichtungen aufge führt, deren nach mathematischen Sätzen berechnete
+
+Formen ganz demselben Zweck entsprachen. Dank der Fügung der Umstände trafen die rechten Männer am rechten Fleck zusammen, wie Schuppen fiel es ihnen von den Augen - denn „nicht wir denken“ , sagt Bastian, „es denkt in uns“ – und ein genialer Fund war „geschehen“, ein neuer glänzender Lichtstrahl durchzuckte die Wissenschaft! Es ist die gediegene mechanistische Discipli nirung der Naturforschung, welche diese wie so manche andere grosse Entdeckung der Physiologie hat gelingen lassen. Eine vorhandene mechanische Vorrichtung dient dem Forscher, ohne ein Wissen von ihrer ursprünglichen Formentstehung durch Organprojection, aber auch nichi ohne den gläubigen Zug einer unbewusst zur Ver gleichung drängenden Uebereinstimmung, als Mittel und Werkzeug zur Erschliessung des organischen Wunder [p. 121] baues. Demgemäss durfte Wolf' verkünden: „Die Natur hat, so zu sagen, ein mathematisches Problem gelöst und eine wunderbare Bestätigung der Zug- und Drucklinien gegeben.“ So ist der Mechanismus die Fackel zur Erleuchtung des Organismus. Dies ist der Standpunkt der Wolf'schen Entdeckung, dies, wie oben bemerkt, die eine Seite der Organprojection, ge wissermaassen die Probe auf sich selbst.
+
+Wie aber könnte diese überhaupt denkbar sein ohne die Voraussetzung der anderen Seite? Diese andere Seite, die eigentliche Aufgabe der vorliegenden Betrachtung, war bisher unbeachtet geblieben und sucht ihre Lösung im ferneren thatsächlichen Nachweis der wesentlichen Uebereinstimmung des sich projicirenden Organes und des projicir ten technischen Nachbildes.
+
+Weit davon entfernt, das Aufspüren und die Verdeutlichung organischer Zustände mit Hülfe von vorgängig an Maschinen und Apparaten gemachten Erfahrungen bemängeln zu dürfen, hat man vielmehr der ganzen Strenge des inductiven Verfahrens gerecht zu werden. Werkzeuge,
+
+Apparate und Maschinen sind da, ihre Entstehungsweise ist Gegenstand des späteren Verständnisses. Keiner ihrer Theile entzieht sich der unmittelbar auf sie gerichteten Untersuchung, und die auf Grund mathematischer Berechnung in Wirkung gesetzten Kräfte springen in die Augen und sind mit Händen zu greifen. Physiologische Vorgänge hingegen sind nicht unmittelbar zu verstehen, sondern müssen mit Hülfe mechanischer Vorrichtungen experimentell begriffen werden. Diesem Zweck am nächsten liegen solche Mechanismen, deren Beschaffenheit eine augenfällige Verwandt schaft mit organischen Einrichtungen erkennen lassen.
+
+[p. 122] Der Werth und die Bedeutung des Mittels solcher Er kenntniss muss nothwendig mit dem Erfolg seiner An wendung wachsen, und es wird daher nicht ausbleiben, dass die Männer von Fach, wie Max Heinzen sehr wahr bemerkt, „zunächst an das mechanische Wirken denken, oder wenigstens für alle wirkende Ursachen eine Analogie suchen in dem Mechanismus“ , und dass sie nur in der Ausdrucksweise der Mechanik die erste
+
+Auskunft über neue physiologische Funde zu ertheilen im Stande sind. (Die mech. und die teleol. Weltanschauung. Grenzboten 1874, No. 42.) Der Weg, auf dem so die Wissenschaft selbst sich ihre Einsicht verschafft, ist selbstredend der geeignetste, um sich auch exoterisch verständlich zu machen.
+
+Wenn also die Physiologie das Lebendige in der von der Betrachtung und Benutzung des Mechanischen über kommenen Anschauungsform darstellt, so ist gebührende Anerkennung ihr um so mehr zu zollen, als ohne diese mechanistische An- und Auffassung der Sache die wichtigsten und segensreichsten Entdeckungen überhaupt gar nicht möglich gewesen wären. Freilich entledigen sich te leologische Wahrheiten nur sehr allmälig der Eierschalen ihrer Herkunft, wie denn auch heute noch selbst Astro nomen ptolemäisch und nicht copernikanisch sich aus drücken, wo sie gemeinfasslich sein wollen. Daraus geht hervor, dass die mechanistische Auffassung des Lebendigen eigentlich nur in dem sprachlichen Ausdruck besteht, den man in seiner sinnlichen Darstellungsform als ein Werk zeug für das Verständniss idealer Beziehungen zu betrachten hat.
+
+Der Rapport zwischen der mechanischen Vorrichtung und einem bestimmten organischen Gebilde ist prädestinirt.
+
+[p. 123] So finden sich Lupe und Auge das eine im anderen, die schwingende Saite und das Ohr, das Pumpwerk und das Herz, die Pfeife und der Kehlkopf, der Brückenträger und der Oberschenkelknochen, ebenso wie Handwerkzeug und Hand. Wenn einmal erkannt, wird der Rapport technisch aufs Mannichfaltigste in bewusster Uebertragung über die ursprüngliche Beziehung hinweg ausgenutzt. So vollendet die Zerstreuungslinse den Augenspiegel, und dann wird überhaupt der Spiegelbeleuchtung eine weitere Anzahl von Organen, wie Kehlkopf, Ohr, Mund, Nase u. s. w., mit demselben Erfolg unterworfen. Unbewusstes instinc tives Finden und bewusstes absichtliches Suchen und Er finden lösen sich in zunehmendem Ineinander ab.
+
+Auch da, wo wir meinen, noch so sicher sein zu können, dass der kunstreiche Apparat ein Werk wohlgeschultester Ueber legung sein müsse, werden wir uns doch bei aufmerksamer Betrachtung stets überzeugen, dass die Elemente der Zusammensetzung, dem Bereiche des Unbewussten entholt, auch auf die ursprünglichen Werke der Hand, sofern wir sie haben als unbewusste kennen lernen, zurückdeuten.
+
+Mag daher das bewusste Schaffen der Technik noch so hell im Vordergrund strahlen, es ist doch nur der Abglanz aus der Tiefe des Unbe wussten, doch nur das erst durch die primitiven Werkzeuge erlöste Bewusstsein! So sehen wir uns unaufhaltsam immer weiter auf dem einmal betretenen Pfade der actuellen Empirie voran gedrängt zu dem unabweisbaren Schlusse ab interiori, dass alles vom Menschen Ausgehende die sich zerstreuende Menschennatur ist, welche dadurch zum wahren Bewusst sein kommt, dass die als System der menschlichen Bedürfnisse ausgestellte Zerstreuung, ab exteriori eingesammelt, [p. 124] im leiblichen Wesen den einigenden Ausgangspunkt wie der findet!
+
+Das System der Bedürfnisse, der durch Organprojection zu Werkzeug und Geräthschaft verklärte und mit einem Geisthaften imprägnirte Stoff, sowie die damit be wirkten Veränderungen an der Erdkruste, ist diejenige Aussenwelt, welche im Unterschied von der natürlichen, auch dem Thiere gegenüber befindlichen und fremd gegen über bleibenden, vor dieser den Vorzug hat, dass der Mensch, in ihr recht eigentlich sich wieder findend und sich selbst wissen und begreifen lernend, der selbst bewusste wird.
+
+Denn zur Natur, zum Kosmos, würde der Mensch sich nie anders verhalten, als das Thier, dem als solchem die Aussenwelt ewig unbegriffen bleibt, wenn er sich nicht für das Verständniss der von aussen ihn treffenden Reize in seinen Werkzeugen künstliche Organe zu schaffen die Uranlage besässe. Die Natur ist zwar die erste Bedingung der Existenz aller Organismen; aber im Vergleich mit der vom menschlichen Kunsttrieb erschaffenen Aussenwelt nicht auch die erste Instanz menschlicher Vervollkommnung. Der oben gebrauchte, von Justus Roth und Du Bois
+
+Reymond in die Naturforschung eingeführte Ausdruck „Princip des Actualismus“ hat von P. Samt durch die nähere Bestimmung als „Princip des empirischen Actua lismus“ oder der „actuellen Empirie“ seine eigentliche
+
+Kraft für Beweisführung erhalten. „Das Princip verlangt, wie er erläutert, „dass immer die actuelle Empirie Prämisse ist, und dass, was actuell, als Thatsache auch für die Vergangenheit und die Zukunft vorausgesetzt wird, so lange bis das Gegentheil bewiesen ist.“ (P. Samt, Die naturwissenschaftliche Methode in der Psychiatrie, S. 108 ff.)
+
+[p. 125] Wir nehmen diese Art von Beweis vollwichtig für die Organprojection in Anspruch. Da ihre Wirksamkeit in der Vergangenheit und in der Gegenwart von uns nach gewiesen ist, so wird sie auch für die Zukunft sich als gültig erweisen müssen, und liegt es uns ob, durch Her anziehung weiterer Thatsachen diese Gültigkeit als eine ihr verbürgte erscheinen zu lassen.
+
+VII.
+
+## Die Maschine der Maschinen.
+
+Sinnliche Verdeutlichung von der Erhaltung der Kraft durch den Vergleich der Dampfmaschine mit dem menschlichen
+
+Organismus. Die degradirende mecbanistische Weltanschauung von der Ma schinenwerdung des Menschen und der Menschwerdung der Maschine. organischen Entwickelungstheorie entspricht die mechanische
+
+Der
+
+Vervollkomm nungspraxis. Das sich gegenseitige Durchwirken von Unbewusstem und Be wusstem bei den Erfindungen. Unterwerfung der Schienenwege unter die Dampfmaschine.
+
+Locomotive und Eisenbahn.
+
+Das Netz der Blutgefässe als organisches Vorbild des Eisenbahnsystems.
+
+Nunmehr verlassen wir den Bereich der, wenn auch allgemein verbreiteten und in unzählbarer Menge vorhandenen, doch immerhin meist vereinzelten Werke der Technik und befassen uns mit der Betrachtung der gewaltigen Culturmittel, welche, wie die Eisenbahnen und Telegraphen, gegenwärtig in ununterbrochenem Zusammenhang Welttheile, ja den ganzen Erdball umspannend, die Be zeichnung „Apparate“ überschreiten und als Systeme auftreten.
+
+Bevor wir nun zunächst die Eisenbahnen als System besprechen können, haben wir deren einen Factor, die Dampfmaschine, für sich ins Auge zu fassen; denn Alles was von ihr gilt, ist auch für eine besondere Form ihrer Verwendung, für die Locomotive, gültig. Die Dampfmaschine, als Maschine im eminenten Sinne, ist in der Rotunde der Grossindustrie die Maschine der Maschinen, ähnlich wie wir im Bereich der mechanischen Einzelgestaltungen das Handwerkzeug als Werkzeug [p. 127] zu allem anderen Werkzeug kennen gelernt haben. Nach dem die Industrie, von ihren Anfängen und vom Boden des Handwerks aus, allmälig durch Heranziehung von Wind und Wasserkraft erheblich an Ausdehnung gewonnen hatte, sah sich der Mensch in Stand gesetzt, grosse Stoffmassen zu bewältigen und dagegen einen bedeutenden Theil der eigenen bisher unmittelbar auf seine Arbeit verwendeten
+
+Körperkraft zur Regelung und Ausnutzung jener Natur kräfte zu erübrigen. Aber Wind und Wasser intermittiren; ihre Benutzung auch Schifffahrt macht keine
+
+Aus nahme – ist von Zeit und Oertlichkeit beeinflusst, und der Mensch, abhängig von Wetter und Jahreszeit, kann unter solcher Botmässigkeit der Natur stehend, wenn er sie seinen Zwecken entsprechend auch noch so vorsorglich durch Damm und Schleuse und Räderwerk zügelt, im Ganzen doch nicht anders als sie will. Da vollendet James Watt vor nunmehr hundert Jahren die Dampfmaschine. Die alten Elemente zumal, Erde, Wasser, Luft und Feuer in geschlossener Phalanx, gehorchen seinem Aufgebot. Ein umfassender neuer Motor ist gewonnen und die wunderbare Erfindung tritt ihre Reise um die Welt an.
+
+Von ihr an datirt die Grossindustrie.
+
+Dass mit der Herrschaft des Dampfes als einer Ma schinenkraft von so universeller Accommodation auch ein neuer Begriff der Arbeit aufgetaucht ist, ist erklärlich. Die Massenarbeiten erfordern Arbeitermassen. Die locale Concentrirung wird in mancher Rücksicht als Absonderung empfunden, und im Gefühl andauernden Fürsich- und Untersichseins glaubt, der Arbeiter“ bald gegen die übrigen
+
+Berufsweisen zurückgesetzt zu sein, bald als besonderer Stand vor allen anderen Arbeitenden bevorzugt werden zu müssen.
+
+[p. 128] Für weitere Erörterungen dieser Erscheinung ist hier nicht Raum. Auch geschah ihrer nur deshalb Erwähnung, weil sie in enger Berührung mit dem gesammten Cultur bestand ein indirectes Zeugniss giebt für die weltgeschicht liche Bedeutung der ersten analog dem Begriff von der Erhaltung der Kraft aufgebauten Maschine, deren volle Wirkungen auf die Zukunft für jetzt noch ausser Bereich des vollen Ermessens liegt.
+
+Von aller Welt gekannt, bewundert und benutzt ist die Dampfmaschine die wahrhafte „Allerweltsmaschine“. Sie unterstützt alle menschliche Thätigkeit in Haus und Hof, in Wald und Feld, zu Wasser und zu Land, sie schafft als Zug- und Lastthier, hilft Kabel legen und Bücher drucken und ist wegen dieser Universalität ihrer Leistungen ganz besonders geeignet, als sinnliche Verdeutlichung des Satzes von der Erhaltung der Kraft zu dienen. Ihre Verwerthung zum Vergleich mit dem leiblichen Organismus wiederholt sich daher bei vielen Veranlas sungen. „Es sind in der That,“ sagt unter Anderen Otto Liebmann, „viele und auffallende Analogien Dort wie hier ein complicirtes System zu handen. sammenhängender und durch Gelenke etc. gegeneinander beweglicher Theile; befähigt, gewisse Arten mechanischer Arbeit zu verrichten.
+
+Die Locomotive wie das
+
+Thierbedarf der Speisung, um dann die aus der chemischen Arbeit des Oxydationsprocesses hervorgehende Wärme in Locomotion, in ein System von Bewegungen, umzusetzen.
+
+Jene wie dieses secernirt Abfälle, Verbrennungsproducte in mehr als einem Aggregatzustande. Dort wie hier Ver brauchung und Abnutzung der Maschinentheile, resp. der Organe. Dort wie hier Stillstand aller Functionen und Tod, wenn entweder die Zuführung des Ernährungs- und
+
+[p. 129] Heizungsmaterials aufhört oder ein wesentlicher Maschinen theil resp. Organ zerstört worden ist. “ (Platonismus ' und Darwinismus, Philos. Monatshefte IX, 456. Vergl. dessel den Verf. „Zur Analysis der Wirklichkeit“, S. 297 ff.) Ausführlich geht auf den Vergleich Helmholtz in seinem Vortrag „über die Wechselwirkung der Naturkräfte“ ein: Wie ist es nun mit den Bewegungen und der Arbeit der organischen Wesen? Jenen Erbauern der Automaten des vorigen Jahrhunderts erschienen Menschen und Thiere als Uhrwerke, welche nie aufgezogen würden und sich ihre Triebkraft aus nichts schafften; sie wussten die aufgenommene Nahrung noch nicht in Verbindung zu setzen mit der Krafterzeugung. Seitdem wir aber an der Dampfmaschine diesen Ursprung von Arbeits kraft kennen gelernt haben, müssen wir fragen: Verhält es sich beim Menschen ähnlich? In der That ist die Fortdauer des Lebens an die fortdauernde Auf nahme von Nahrungsmitteln gebunden, diese sind ver brennliche Substanzen, welche denn auch wirklich, nach dem sie nach vollendeter Verdauung in die Blutmasse übergegangen sind, in den Lungen einer langsamen Verbrennung unterworfen werden, und schliesslich fast ganz in dieselben Verbindungen mit dem Sauerstoffe der Luft übergehen, welche bei einer Verbrennung im offenen Feuer entstehen würden. scheidet sich also durch die Art, wie er Wärme und Kraft gewinnt, nicht von der Dampfmaschine, wohl aber durch die Zwecke und durch die Weise, zu welchen und in welcher er die gewonnene Kraft benutzt. “ (S. 34.) In ganz ähnlicher Weise äussert sich Robert Mayer in einem Vortrag über Ernährung. Nachdem er gezeigt, wie sich die Ernährung der Thiere von derjenigen der [p. 130] Pflanzen unterscheidet, fährt er fort: „Die Thiere unter scheiden sich ferner von den Pflanzen wesentlich durch ihre Fähigkeit zur Hervorbringung willkürlicher Bewe zu dieser mechanischen Arbeit nöthige Material entstammt aber dem Pflanzenreiche und ist diesem gungen.
+
+Das letzteren jedenfalls früher von der Sonne aus zugeflossen; es setzen also die Thiere ehemaliges Sonnenlicht in Bewegung und Wärme um. In dieser Hinsicht, ich sage in dieser Hinsicht, ist der thierische Organismus bei aller unendlichen Mannigfaltigkeit seiner Zergliederung immerhin einer Dampfmaschine zu vergleichen. Auch die Dampfmaschine nämlich consumirt zur Hervorbringung ihrer Leistung, zur Hervorbringung von Arbeit – und von Wärme — das von der Pflanzenwelt aufgespeicherte Sonnenlicht, und wir können nicht umhin, bei der Ernährung der Thiere und des Menschen, welch ' letzterer mit dem Thiere in leiblicher Hinsicht so vieles gemein hat, diese Vergleichung öfters zu gebrauchen. “ (Natur wissenschaftliche Vorträge, S. 66. 67.) Die Berufung auf die grossen Specialautoritäten, R. Mayer, den Entdecker des mechanischen Aequivalents der Wärme, und Helmholtz, welcher diese Lehre zum Gesetz von der Erhaltung der Kraft fortgebildet hat, überhebt uns der Anführung noch weiterer Schutzstellen, indem durch sie das Zutreffende der Vergleichung der Nor malmaschine mit dem Normalvorbild aller Ma schinerie mehr als hinreichend gedeckt ist. Zutreffend aber werden wir einen Vergleich nur dann nennen, wenn er vollständig ist, und vollständig wird er, nächst der Angabe aller Punkte der Uebereinstimmung, durch das Hervorheben der allgemeinen charakteristischen Unterschiede, durch welche die gefundene Uebereinstimmung [p. 131] ja überhaupt erst Sinn und Bedeutung erhält. In dieser Beziehung verfolgt man mit besonderem Interesse, wie entschieden von den genannten Gewährsmännern der Begriff des Organischen vor jeder Trübung durch Beimischung von Mechanistik gewahrt worden ist. Denn R. Mayer sieht sich veranlasst, ausdrücklich hinzuzufügen, dass eine Ver gleichung auf der Auffindung von Aehnlichkeiten beruhe, dass aber die Aehnlichkeiten noch lange keine Identität gäben. „Das Thier ist keineswegs eine blosse Maschine, es steht hoch selbst über den Pflanzen, denn es hat einen Willen.“ Deutlicher hebt Helmholtz den Unterschied zwischen Men schenarbeit und Maschinenleistung hervor: „Wenn wir von Arbeit der Maschinen und Naturkräfte reden, so müssen wir in diesem Vergleiche natürlich von Allem absehen, was an Thätigkeit der Intelligenz sich in die Arbeit des Menschen einmischt. Was in der Arbeit der Maschinen aber von Wirkungen der Intelligenz vorkommt, gehört natürlich dem Geist des Erbauers an, und kann nicht dem Werkzeug als Arbeit angerechnet werden. der Arbeit ist auf Maschinen offenbar übertragen worden, indem man ihre Verrichtungen mit denen der Menschen und Thiere verglich, zu deren Ersatz sie bestimmtwaren Das Räderwerk der Uhrbringt also keine Arbeitskraft hervor, die ihm nicht mitgetheilt wäre, sondern vertheilt nur die mitgetheilte gleichmässig auf längere Zeit.“ (Ge sammelte Vorträge, S. 142. - Wechselwirkung der Natur kräfte, S. 8. 13.) Nicht minder treffend stellt bei seinem Vergleich von Maschine und menschlichem Organismus 0. Liebmann (a. a. 0.) den in die Augen springenden Aehnlichkeiten den Unterschied an die Seite: „Aber! Aber! Die Maschine ist ein äusserlich und willkürlich gemachtes Artefact, der 9*
+
+[p. 132] Organismus nach immanentem, verborgenem Gesetz ex ovo gewachsen. Das Hegemonicon der Maschine gehört nicht zu ihr, residirt nicht in ihr; Heizer und Locomotiv führer sitzen auf ihr und lenken sie, wie der Reiter sein
+
+Ross. Das vyɛuovixóv des lebenden Organismus, Intelligenz und Wille, gehört zu ihm, sitzt in ihm, ist mit ihm entstanden, bildet seinen integrirenden Bestandtheil.
+
+Und – ganz abgesehen von den physischen Functionen die Theile der Maschine sind ein für allemal da, bleiben ihren materiellen Bestandtheilen nach mit sich identisch, so lange bis die Maschine äusserlich reparirt wird; die Organe des Organismus bleiben nur der Form nach iden tisch, während ihr Stoff fortwährend wechselt, sie regene riren oder repariren sich selbst.“ Der degradirenden mechanistischen Weltanschauung von der Maschinenwerdung des Menschen, sowie von der Menschwerdung der Maschine wird durch Erklärungen obiger Art gründlich vorgebaut. Das Wort von Helmholtz, dass der Begriff der Arbeit für Maschinen aus dem Vergleich mit dem Menschen hergenommen sei, schliesst die unmittelbare Folgerung in sich, dass auch die Maschine selbst, wenn sie soll Menschenarbeit er setzen können, entsprechend --- d. h. entsprechend dem Organismus, dessen Arbeit sie ersetzen soll — construirt sein wird. Ihre Leistungsfähigkeit, oder vielmehr ihre Brauchbarkeit, steht unmittelbar in Beziehung zum Menschen, der sie gebraucht, und zu dem Zweck, wofür bestimmte Organe auch ohne mechanische Unterstützung thätig sein würden. An den einzelnen Werkzeugen kommt zugleich mit der Leistungsfähigkeit auch die Gestalt des Organs mehr oder minder kenntlich zur Erscheinung. Bei der com plicirten Maschine tritt erstere Eigenschaft überwiegend [p. 133] hervor, letztere dagegen zurück. Die Formen der Dampf maschine als eines Ganzen und die Leibesgestalt des Menschen haben in ihrem Aussehen wenig oder nichts mit einander gemein, wohl aber gleichen verschiedene Theile, aus denen die Maschine zusammengesetzt ist, einzelnen
+
+Organen. Viele Maschinentheile, ursprünglich isolirte Werk zeuge, sind in der Dampfmaschine äusserlich zu einer mechanischen Gesammtwirkung vereinigt, wie die Glieder der animalischen Reihe innerlich zu einer höchsten im Menschen erreichten organischen Lebenseinheit. So entspricht der organischen Entwickelungs theorie eine mechanische Vervollkommnungs praxis vom Steinhammer des Urmenschen aufwärts durch alle Werkzeuge, Apparate und Maschinen einfacherer Construction hindurch bis zu demjenigen complicirten Mechanismus, in welchem man die Mustermaschine anerkennt, deshalb weil sie von der Wissenschaft gewürdigt ist, als Werkzeug und als eine Art physikalischen Apparates zum Verständniss der Wechselwirkung der Natur kräfte und der Lebensvorgänge im Organismus zu dienen. „Die Erfindung der Locomotive muss, genau genommen, bis in die Zeit zurückdatirt werden, wo die Menschen zuerst mit der Kunst vertraut wurden, ein Feuer anzumachen und zu unterhalten; einen weiteren schon früh gemachten Fort schritt bildete die Erfindung des Rades; allmälig wurde man mit anderen mechanischen Vorrichtungen bekannt, die Metalle und die Kunst ihrer Zubereitung wurden successive entdeckt, ein natürlicher Motor um den anderen dem Men schen dienstbar gemacht, bis man bemerkte, dass auch dem Dampf eine Kraft der Fortbewegung beiwohne und bis man nach vielen Fehlversuchen auch ihn richtig benutzen lernte und so war man endlich so weit gekommen, [p. 134] dass die letzte oder die letzten Entdeckungen, die zu machen noch übrig blieben, von einem Einzelnen gemacht werden konnten.“ (Whitney, Sprachwissenschaft, S. 601. Vergl. F. Reuleaux, Geschichte der Dampfmaschine.) Die grossen Erfindungen erweisen sich als Producte fortgesetzten Sichfindens nach einem anfänglich unbe wussten Ziele hin. Die Vorarbeiter auf der langen welt geschichtlichen Etapenstrasse der Erfindung der Dampf maschine standen, bewusst ihren jezeitigen Einzelzwecken genügend, unbewusst im Dienst der grossen in der Loco motive sich zur Erscheinung drängenden Culturidee. Wie Finden und Erfinden sich gegenseitig fortsetzen, so ver setzen und durch wirken sich das Bewusste und das Unbewusste unablässig das eine mit dem anderen. Aber vor dem Zeitpunkte der Verwirklichung der Idee bekommt die Unruhe des bewussten Suchens die Oberhand. Nachdem in der Reihe von Einzelerfindungen eben so viele Hüllen abgestreift sind, beginnt die Idee durch die letzten noch übrigen hindurchscheinend sich kenntlich zu machen und fällt schliesslich der Ausdauer des Forschens und dem Muthe des Erkennens eines Einzelnen zu. James Watt wusste klar und deutlich was er suchte, und deshalb gelang ihm, als die Zeit erfüllt war, auf dem unbewusst vorbereiteten Grunde vieler, dem Ziele stets näher rückender Versuche die Erfindung des Ge wollten. Und doch war auch ihm wieder verborgen, welcher neuen Phase der Vervollkommnung seine Erfindung durch Stephenson entgegengeführt werden sollte. Schienenwege und Dampfmaschinen waren eine Zeit lang, gegenseitig sich fremd, nebeneinander vorhanden. Stephenson verlieh der Dampfmaschine feste Fortbeweglichkeit und wurde durch die Unterwerfung des Schienenweges un [p. 135] ter die Locomotive der Schöpfer der Eisenbahnen. So lange Schienenwege und Dampfmaschinen unabhängig von einander existirten, waren jene wenig mehr als die ver besserte Auflage der alten im Bergbau üblichen Hunde gestänge, diese waren nichts anders als der überall auf stellbare Ersatz für Wind- und Wasserkraft; in ihrer Vereinigung aber als Eisenbahnnetz und in dessen weiteren Fortsetzungen je nach Fluss und Meer, als Dampf schifflinien, sind sie schon gegenwärtig als Träger uni verseller Communication die Mittler menschlicher All gegenwart auf dem Erdenrund.
+
+In dieser Vereinigung der Schienenwege und Dampfer linien zu einem geschlossenen Ganzen ist das Netz von Verkehrsadern, auf welchem die Subsistenzmittel der Mensch heit circuliren, das Abbild des Blutgefässnetzes im Organismus. Von unserem Gesichtspunkte aus müsste es be fremden, wenn die wissenschaftliche Darstellung des Blut umlaufes auf die Vortheile hätte verzichten wollen, welche sie aus der grossartigen, durch die Dampfkraft erzielten Circulationsmechanik des menschlichen Lebensbedarfs für die Erklärung des organischen Vorgangs entnehmen kann. Wir stossen indessen auf so manche Aussprüche, welche das Gegentheil besagen, dass es scheint, man könne sich in diesem Fall eben so wenig der Anerkennung der Or ganprojection entziehen, wie bei dem schon ganz einge bürgerten Vergleich des Nervensystems mit dem elektrischen Telegraphen. Im Lichte dieser Auffassung ist daher der Vergleich, welchen Dr. Oidtmann gelegentlich einer Schilderung des Blutumlaufs in einem seiner öffentlichen Vorträge angestellt hat, zu würdigen. Nach der Berichterstattung der Kölni schen Zeitung „bringt er es fertig unter dem Bilde eines [p. 136] Eisenbahnnetzes mit doppeltem Schienengeleise, mit Schalt und Verbindungsgeleisen, mit Haltestellen und an- und auslaufenden Zügen dem Publicum eine klare Anschauung von den verwickelten Vorgängen des Blutkreislaufes zu verschaffen.“ Dass hier unter وو„Bild“ nicht das schon mehr fach von uns abgewiesene Sinnbildliche der Allegorie, dem eine ziemlich unbeschränkte Wahl vergleichender Anspielungen, d. h. reiner Gleichnisse, zu Gebote steht, sondern das Sach- und Abbildliche der Projection, welches absolut nur einmal vorhanden ist, gemeint sei, ist selbstredend. Hiermit in Uebereinstimmung kommt F. Perrot, nach An führung der vorhandenen Verkehrseinrichtungen zu Wasser und zu Land, zu dem Schluss: „Es ist eine Sache, die sich von selbst versteht, dass die verschiedenen Zweige der Verkehrsvermittelung nicht unabhängig von einander dastehen, sondern dass sie allesammt ineinandergreifen, sich gegenseitig bedingen und ein zusammengehöriges Ganze bilden, welches für den Staat ungefähr dasselbe ist, was die Blutcirculation für den menschlichen Körper aus macht.“ (Vortrag über die nothwendigen Schritte zur Hebung des deutschen Verkehrswesens.) Ebenso stellt M. Perls „den grossen Eisenbahnstrassen das Communi cationssystem der Blutgefässe“ an die Seite. (Vortrag über die pathologische Anatomie, S. 10.) So viel an dieser Stelle über die Dampfmaschine und über den Schienenweg als Grundbedingung ihrer Loco motion, ein Gegenstand, dem wir später im Zusammenhang mit den übrigen Functionen des Staates noch einmal begegnen werden.
+
+Grossartig erscheint auch hier das Walten des Un bewussten in der Erschaffung so mächtiger Industriehebel.
+
+James Watt und Robert Stephenson lag sicherlich nichts [p. 137] ferner als die Absicht, sich von ihrem eigenen Leibe Gesetz und Regel für das mechanische Gefüge ihrer Maschinen vorschreiben zu lassen. Und gleichwohl ist die Abstimmung des einen nach dem anderen eine so zutreffende, dass die angesehensten Vertreter und Ausleger des Wissens vom Menschen die Verwandtschaft von organischem Vor bild und mechanischem Nachbild als Fundgrube namhafter Beweishülfe willkommen heissen. Weshalb denn sonst der stets erneute Appell der Wissenschaft an die Armatur mechanischer Apparate und an den der Mechanik ent lehnten Wortvorrath? Vergessen wir nur nicht, dass das Unbewusste, wenn es beim Maschinenbau für Einzelheiten der technischen Ausführung zurücktritt, dafür um so wirksamer zu spüren ist in der Zurückführung der Thätig keitsanlage der Organe auf Rechnungswerthe in mechanischer Formbildung. Denn sehr anschaulich lässt die Dampfmaschine erkennen, dass der Fortschritt der höheren Mechanik nicht sowohl im unbewussten Nachbilden organischer Formen besteht, als vielmehr in der Projection des
+
+Functionsbildes, also überhaupt des Lebendigen und des als Organismus thätigen Geistes. Was an der Dampfmaschine die hohe Bewunderung einflösst, das sind ja nicht jene technischen Einzelheiten, wie etwa die Nachbildung einer organischen Gelenkver bindung durch metallene Drehflächen mit Oelglätte, nicht die Schrauben, Arme, Hämmer, Hebel, Kolben, sondern es ist die Speisung der Maschine, die Umsetzung der Brennstoffe in Wärme und Bewegung, kurz der eigen thümlich dämonische Schein selbsteigener Arbeitsleistung.
+
+Hier spricht die Erinnerung an höhere Herkunft, die den Menschen, dessen Hand das eiserne Ungethüm ge baut und freigegeben hat zum Wettlauf mit Sturm und [p. 138] Wind und Wogen, vor sich selbst erstaunen macht, wo jeder prüfende Blick dazu beiträgt, die Wahrheit des L. Feuerbach'schen Textwortes aller Anthropologie ein leuchtend zu machen, dass der Gegenstand des Men schen nichts anders ist, als sein gegenständ liches Wesen selbst.
+
+VIII.
+
+Durchgängige Parallelisirung von Telegraphensystem und Nervensystem seitens der Wissenschaft. Die Nerven sind Kabeleinrichtungen. Das Geheimniss der Innervation erschlossen durch ihr mechanisches Nachbild. Der galvanische Apparat und seine Vervollkommnung. Der Telegraph auf der Schwelle, wo der Mechanismus sich vom sinnlich Greifbaren mehr und mehr entfernend, je nach der Feinheit des verwendeten Stoffes zur durchsichtigen Form des Geistes wird. Der Fortschritt in der Erkenntniss der inneren Verwandtschaft von organischem Vorbild und mechanischem Nachbild ist Fortschritt im Selbstbewusstsein.
+
+Rückblick.
+
+Wie man sich, um den unmittelbaren Anschluss eines Vorgangs an einen anderen zu bezeichnen, der Redensart „auf dem Fusse nachfolgen“ bedient, so, darf man sagen, folgte der Eisenbahn auf dem Fusse auf der Schiene der elektrische Telegraph. Seine Vergleichung mit der Function des Nerven systems gilt als selbstverständlich. Sie ist allgemein im Gebrauch, um sich das Verhalten der elektrischen Strömung im Organismus anschaulich zu machen. Unsere
+
+Vorstellungen vom Nerven und vom elektrischen Draht decken sich im gewöhnlichen Leben so sehr, dass man mit Fug behaupten darf, es existire überhaupt keine andere mechanische Vorrichtung, welche in genauerer Ueber einstimmung ihr organisches Vorbild wiedergiebt, und andererseits kein Organ, dessen innere Beschaffenheit in dem ihm unbewusst nachgeformten Bau so deutlich wieder gefunden wird, wie der Nervenstrang im Telegraphenkabel.
+
+[p. 140] Die Organprojection feiert hier einen grossen Triumph. Die hauptsächlichen Erfordernisse derselben: die unbewusst nach organischem Muster vor sich gehende Anfertigung, demnächst die Begegnung, das Sichfinden von Original und Abbild nach dem logischen Zwang der Analogie, und dann die im Bewusstsein wie ein Licht aufgehende Ueber einstimmung zwischen Organ und künstlichem Werkzeug, nach dem Grade denkbarster Gleichheit, -- diese Momente im Process der Organprojection haben sich auch für das Telegraphensystem aufs Deutlichste herausgestellt und lassen wir hier sofort eine der competentesten Stimmen dafür eintreten.
+
+R. Virchow sagt in dem Vortrag „über das Rücken mark“ : „Schneidet man einen solchen Faden (Nervenstrang) quer durch, So sieht man die einzelnen Bündel auf der Schnittfläche in Gestalt weisslicher Vorsprünge hervor treten, und man gewinnt ein Bild, welches im Kleinen ganz genau demjenigen entspricht, das im Grossen die so viel verbreiteten Abschnitte des submarinen Telegraphen kabels darbieten. Gerade wie man aus diesen Abschnit ten durch Ablösung der umhüllenden Isolationsschichten die einzelnen Drähte freimachen kann, so kann man auch durch Zerfaserung aus der Nervenscheide die einzelnen Bündel von Nervenfasern und bei weiterer Trennung aus diesen Bündeln die einzelnen Nervenfasern auslösen.
+
+In der That entsprechen sich die Verhältnisse vollständig: Die Nerven sind Kabeleinrich tungen des thierischen Körpers, wie man die Telegraphenk abel Nerven der Menschheit nen nen kann. “ (S. 10.) Dieser Ausspruch lässt denn doch an Deutlichkeit nicht das Mindeste zu wünschen übrig! Hier schwindet [p. 141] jedes allzu bedächtige „gleichsam“ oder
+
+Fig. 26.
+
+„gewissermaassen " vor dem kategorischen „in der That“ aus einem Munde, dem ein kategorisches Wort sowohl ansteht, und vor der offenen, keine Ne bendeutung und keinen Vorbehalt zu lassenden Erklärung: Die Nerven sind Kabeleinrichtungen des thierischen Körpers, die Telegraphenkabel sind Ner ven der Menschheit! Und, fügen wir hinzu, sie müssen es sein, weil das charakteristische Merkmal der Organ projection das unbewusste Vorsichge hen ist.
+
+Oder hätten etwa die Männer, denen es vor anderen gelang, mittels des elektrischen Stromes Nach richten in die Ferne zu senden, vor dem ersten Versuche den bewussten
+
+Vorsatz gehabt und ausgeführt, einen
+
+Nerv zu zergliedern, plastisch genau nachzuconstruiren und eine ihrem leib lichen Nervensystem gleiche Verzweigung von elektrischem Gestränge über den Erdboden zu legen? (Fig. 26. 27.) Weiter darauf eingehend, wie sich die am Telegraphenkabel gemachten Erfahrungen in der Nerventhätigkeit wieder holen, äussert Virchow ferner: Wüssten wir gar nichts über die Natur der durch den Reiz im Nerven hervorgerufenen Ver
+
+Tiefsee -Kabel vom Jahre 1865.
+
+änderung, kennten wir den Nervenstrom nicht, so würde doch die Aehnlichkeit mit den Telegraphen einrichtungen ins Auge springen. Aber wir wissen zunächst [p. 142] durch die Untersuchungen von Du Bois-Reymond, dass in der That der Nervenstrom ein elektrischer ist, und wir können daher ohne Umstände sagen, dass die gesammte Einrichtung und Thätigkeit des menschlichen Bewegungsapparates mit der Anordnung und Wirkung der Telegraphen parallel gesetzt werden kann.“ „Für sich selbst hat der Bewegungsnerv keine andere Eigenschaft, als die, Träger eines Nervenstroms zu sein, welcher sich in der Richtung von dem Rückenmark zu den Muskeln, Fig. 27.
+
+Querschnittfläche eines Nerven.
+
+also centrifugal fortbewegt, und welcher, wenn er den Muskel erreicht, diesen zur Selbstbewegung veranlasst. Der Strom als solcher ist in keiner Weise sichtbar, so wenig als der Strom im Telegraphendraht. Der thätige Nerv sieht aus wie der ruhende; er verändert weder seinen Ort, noch seine Gestalt. “ „Die Empfindungsnerven unterscheiden sich in ihrem peri pherischen Verlaufe dadurch, dass sie in keine besondere Verbindung mit anderen Theilen treten. Auch ihre Fasern verästeln sich mehr und mehr, aber sie gehen zwischen den Gewebstheilen durch und die Mehrzahl von ihnen endigt in selbstständigen Endigungen.
+
+[p. 143] apparate pflanzt sich auf die mit ihnen verbundenen Nerven fasern fort, es entsteht ein centripetaler Strom, welcher sich durch die hinteren Wurzeln auf das Rückenmark überträgt.“ (S. 13–15.)
+
+„Erfahren wir nun weiterhin, dass die weissen Stränge des Rückenmarks sich im Zusammenhang bis zum Gehirn fort setzen, ja in das Gehirn übergehen, so liegt es auf der Hand, dass wir auch hier wieder eine Leitungseinrichtung vor uns haben, welche das Gehirn in Verbindung setzt und durch dieses mit den peripherischen Nerven. Da nun das Gehirn der Sitz des Willens und des Bewusstseins ist, so bildet das Rücken mark das Vermittelungsglied zwischen dem Gehirn und fast allen übrigen Körpertheilen, in Beziehung sowohl auf willkür liche Bewegung, als auf bewusste Empfindung.“
+
+Wäre das Angeführte nur die einzige Anerkennung des „vollkommenen“ Parallelismus von Nerven- und Te legraphenleitung, uns würde sie, von solcher Stelle her rührend, vollständig genügen für das, was wir zu beweisen haben. Indessen erscheint es rathsam, auch noch einige andere Autoritäten anzuziehen, theils um die Verdeutlichung des Gegenstandes möglichst zu erhöhen, theils um darzuthun, dass diese seine Auffassung eine grössere Verbreitung gefunden hat, als im allgemeinen für wahrscheinlich gelten mag. „Unter den rein physischen Apparaten“, sagt C. G.
+
+Carus (Physis, S. 312. 316), „haben wir einen, der dem Begriffe dessen, was vom Nervensystem und Nervenleben gefordert werden soll, mit ausnehmender Aehnlichkeit ent spricht, und dies ist der elektromagnetische Tele graph. .
+
+vollständige Abbild der geheimnissvollen Bildung des Nervensystems. . trischen Telegraphen wird auch hier namentlich licht gebend sein, denn es stellt sich sofort heraus, dass die Drähte desselben gänzlich bedeutungslos sein würden, so bald sie nicht in Folge eines damit in Verbindung ge brachten galvanischen Apparates periodisch der galvanischen Strömung den Weg darbieten könnten.“ Nachdem Carus erörtert hat, dass in den Nervenfasern nur die Leitung re präsentirt sei, und dass in den centralen Organen des Nervensystems sich das Agens der Innervation unter Vit wirkung des Blutlebens stetig entbindet, fährt er fort: „Konnte man daher jene Fasern den Leitungsdrähten des galvanischen Telegraphen vergleichen, so müssen nun jene Zellen, deren grössere den Namen der Ganglienkugeln erhalten, vollkommen der galvanischen Batterie gleich stehen, als von welcher die Strömung der Drähte angeregt wird. " In dieser und ähnlicher Weise bedient sich der Verfasser der „Physis“ noch an verschiedenen Stellen des telegraphischen Analogons für seine Erklärung der Nerventhätigkeit. (S. 312. 316. 319. 332.)
+
+Auch R. Vaver vergleicht die harten, ganglienfreien Nerrenstränge des Gehirns und Rückenmarks, wodurch die willkürlichen Bewegungen des Herzens und des Darm canals beherrscht werden, geradezu mit „Telegraphen drähten“. Aehnlich (dermek in Bezug auf die unwillkür lichen Bewegungen des Herzens: „In den Ganglien oder Nervenzellen entstehen durch die ununterbrochenen Er nährungsvorgänge jene der Nervensubstanz eigenthümlichen Erregungszustände, welche sich als motorische oder Be wegungsimpu'se – wie elektrische Depeschen im telegra phischen Leitungsdraht – innerhalb der Vervenädcben bis in die Herzmuskelfasern hinein fortpflanzen und die letzteren zum Zusammenziehen veranlassen.“ (Das Herz und der Einfluss des Verrersystems auf dasselbe, S. 21.
+
+[p. 145] Sogar auf die äussersten Endorgane der Nerven, die Nervenfasern, erstreckt W. Wundt die Ausführung des Vergleichs und führt uns in das Detail der specifischen Reizbarkeit der Nerven, auf welchem der Vergleich eben falls vollkommen Stand hält: „Die Nervenfasern werden nach einem oft gebrauchten Bilde mit Telegraphendrähten verglichen, in denen immer dieselbe Art des elektrischen
+
+Stromes geleitet wird, der aber, je nachdem man die Enden des Drahtes mit verschiedenen Apparaten in Ver bindung setzt, die verschiedensten Effecte hervorbringen,
+
+Glocken läuten, Minen anzünden, Magnete bewegen, Licht entwickeln kann u. S. W.“ (a. a. 0. 346.)
+
+Philipp Spiller führt an einer Stelle seiner Schrift „Gott im Licht der Naturwissenschaften“ (S. 6) den Ver gleich der Nerven mit Telegraphendrähten etwas zurück haltend mit einem gewissermaassen " ein, während er in einer anderen Schrift ohne Umstände die Sache bei ihrem rechten Projectionsnamen nennend, von Nervenschwin gungen spricht, die sich durch das Kabel der Seh nerven " zu den Gehirnatomen der betreffenden Provinz fortpflanzen. Dass aber alle Vermittelungen für das Sehen durch den einen von der Netzhaut zum Gehirn gehenden
+
+Sehnerv geschehen, sei eben so wenig, oder wenn man wolle, eben so sehr wunderbar, als dass ein Telegraphen kabel zwischen zwei Stationen ein ganzes Bündel von Leitungsdrähten enthalte, von denen jeder einzelne durch die Batterie zu einer Thätigkeit angeregt werden könne. „Sind nun," fährt Spiller fort, „die äusseren Anregungen lebhaft genug, so gelangt durch die Empfindungsnerven die Depesche zur Hauptstation mit der Bemerkung: ,Rück antwort bezahlt und der Telegraphist auf der Gehirn station ist bei gesundem Organismus so äusserst pünktlich [p. 146] und gewissenhaft, dass er nur solche Tasten seines Zeiger apparates berührt und in Bewegung setzt, deren Bewe gungsnerven die Rückantwort gerade nur zu denjenigen Muskeln geben, welche mit ihren aufgespeicherten Spann kräften unter Benutzung der Hebelgesetze die von der Aussenwelt angeregte oder verlangte Leistung bewirken.“ (Das Naturerkennen, S. 47. 51. 55.) Eine Erfindung wie der elektrische Telegraph macht deshalb so sehr den Eindruck des Wunderbaren, weil die auf den Draht übertragene Bewegungskraft dieselbe ist, welche wir auch mit der Innervation, also mit unserem Willen und mit unseren Empfindungen, in Verbindung wissen. Sie dient in gleicher Weise dem Gedanken wie der
+
+Depeschenform des Gedankens. Wie gewandt bereits die Sprache der Technik der elektrischen Telegraphie zur Erklärung seelischer Zustände in einiger Ausführlichkeit gehandhabt wird, davon giebt Paul Samt in seiner oben an geführten Schrift über Psychiatrie (S. 20 ff.) ein umständ liches Beispiel
+
+Der Legung des ersten Telegraphendrahtes musste die genauere experimentelle Kenntniss des galvanischen Stromes vorausgehen.
+
+Die Analogie zwischen der den Strom er zeugenden galvanischen Batterie und den Ganglienkugeln, in denen sich, wie oben angeführt worden, das Agens der Nerventhätigkeit stetig entbindet, setzt einen Act der Or ganprojection von derselben Beschaffenheit voraus, welche auch in Bezug auf die Uebereinstimmung der beiderseitigen Leitungsbahnen nachweisbar ist.
+
+Der schon 1780 gemachten Entdeckung Galvani's, dass die Berührung von zwei ungleichartigen Metallen einen elektrischen Strom erzeugt, der hierauf von Volta 1800 hergestellte Apparat, welcher den elektrischen Strom
+
+[p. 147] Stand zu halten zwang, die von Oerstedt 1819 beobachtete
+
+Ablenkung der Magnetnadel durch den galvanischen Strom und der unmittelbar nachher von Schweigger erfundene Multiplicator, die Entdeckung der elektrischen Inductions ströme durch Faraday 1832 und endlich der erste 1837 durch Steinheil wirksam hergestellte telegraphische Apparat – allen diesen unablässig nach demselben Ziel hindrän genden Kundgebungen der Wissenschaft entspricht eine gleiche Stufenfolge von mechanischen Apparaten, welche das Wahrzeichen der Organprojection, die unbewusste Nachbildung eines organischen Vorbildes, unverkennbar an sich tragen. Allerdings begleitete Galvani's von Anfang an gehegte Vermuthung, dass seine Entdeckung physiologisch in Beziehung auf Muskel- und Nerventhätigkeit zu verwerthen sein möchte, die weiteren Fortschritte auf der von ihm eröffneten Bahn, aber erst Du Bois -Reymond war es vor behalten, den positiven Aufschluss über das elektrische Verhalten der Nerven und Muskeln zu geben.
+
+„ووIhm gelang zuerst,“ wie Mor. Meyer bemerkt, „das Vorhandensein von eigenthümlichen Muskel- und Nerven strömen durch Abweichung der Magnetnadel mittels eines sehr kräftigen Multiplicators nachzuweisen, die Gesetze des Muskel- und Nervenstromes und die Veränderungen, die beide durch Thätigkeitsäusserungen von Muskel und Nerv erleiden, präcise zu normiren und den Frosch strom als das Resultat aller einzelnen in den verschie denen Nerven, Muskeln und anderen Geweben vorhandenen und verschieden gerichteten elektrischen Strömen aufzu fassen.“ (Die Elektricität in ihrer Anwendung auf praktische Medicin. 1868. S. 35.) So ist das Werk Du Bois-Reymonil's „Untersuchungen über die thierische Elektricität“ (1848 bis 10 *
+
+[p. 148] 1860) eine jener Grossthaten der Wissenschaft, welche dem ahnungsvollen Sichselbstsuchen der Menschheit zum Sichselbstfinden verhelfen.
+
+Da nun das Telegraphensystem von der Physiologie als Beweismittel für das elektrische Verhalten der Nerven angenommen worden ist, so liegt darin eine unmittelbare, stillschweigende Anerkennung der Organprojection, unter deren factischer Gewährleistung ja nur einzig und allein eine solche Zulassung mechanischer Vorrichtungen behufs Orientirung über das Gebiet des Organischen sich über haupt rechtfertigt. Mit besonderer Genugthuung ist daher eine Stimme zu begrüssen, welche unserer Auffassung so ganz ohne Umschweife zufällt, dass gewissermaassen nur noch ein letzter kleiner Schritt fehlt zur Erklärung des vollen Einverständnisses.
+
+„Verstehen wir doch,“ sagt nämlich Alfr. Dove, „den Mechanismus der Natur immer erst dann, wenn wir ihn frei nacherfunden haben; so das Auge, nachdem wir die Camera, die Nerven, nachdem wir den Telegraphen construirt.“ Dass hier der Ausdruck „Mechanismus der Natur" im Sinne von leib lichem Organismus zu nehmen sei, bedarf keiner Erörterung. Ist denn aber auch das freie „Nacherfinden“ jenes der Organprojection unerlässliche unbewusste Finden?
+
+Diese Frage dürfte von Seiten der Naturforschung selbst, in entschiedener Anerkennung der Macht des Unbewussten als charakteristischer Eigenschaft der Or ganprojection, schwerlich deutlicher beantwortet sein, als durch John Tyndall: „Kaum jemals hat ein einziger Mensch eine so grosse Reihe wissenschaftlicher Entdeckungen von folgenschwerster Bedeutung gemacht, wie Faraday. Die meisten derselben kamen vollkommen überraschend, wie durch einen unbegreiflichen Instinct ge funden, zu Tage, und Faraday selbst wusste die Gedan kenverbindungen, die ihn dazu geleitet hatten, auch später kaum in klaren Worten wiederzugeben.“ (Faraclay und seine Entdeckungen. Eine Gedenkschrift von John Tyndall. Uebersetzt von Helmholtz. 1870. pag. VI.) Wir haben bisher mehrfach Veranlassung gehabt zu bemerken, dass bei der Organprojection mit der unbe wussten Formfindung eine gleichzeitige auf Abhülfe eines Mangels gerichtete Absicht verbunden sei, dass überhaupt in der weiteren Vervollkommnung der ursprünglich unbewusst einem organischen Vorbild analog nachgebildeten mechanischen Vorrichtung das Bewusstsein mehr und mehr übergreife, und dass es, wenn einmal ein gewisser Punkt der Vervollkommnung erreicht worden sei, von da an beinahe als alleiniger Factor erscheine. Dahin gehören solche Verbesserungen, wie sie, im Einzelnen an fertigen Maschinen und Apparaten angebracht, rein die Producte mühsamen Nachsinnens sind, mehr aber solche neuere
+
+Werkzeuge, deren Herstellung, mögen sie beispielsweise auf die Durchdringung grösster Fernen im Weltraume, wie der Spectralapparat, oder auf die Erforschung des Winzigen im lebendigen Körper, wie der Augenspiegel, gerichtet sein, nur unermüdlich wiederholten Versuchen und dem höchsten Aufwand von Scharfsinn und Geschicklichkeit gelingen konnten. Und doch! Sollte nicht auch hinter solchen mit klarer Absicht zu Stande gebrachten Erfindungen der Physik und der Physiologie ein Metaphysikalisches und ein Metaphysiologisches kurz die Metaphysik des Un bewussten wirksam sein?
+
+An dem Entstehen der Grundformen der Werkzeuge und ihren nächsten Veränderungen sahen wir das Unbe [p. 150] wusste betheiligt, sollte es aufhören, betheiligt zu sein, wenn wir uns vergegenwärtigen, dass auch die höchsten Leistungen bewusster Artefaction schliesslich doch wieder unbewusst im Dienste der fortschreitenden Offenbarung des ganzen Menschen als des Gedankenwesens stehen? Unsere Betrachtung kommt dem Punkt immer näher, wo der Begriff des Werkzeugs über die seinen Inhalt ausmachenden, aus dem Rohstoff geformten Mechanismen hinweg seine gewöhnliche Fassung so zu erweitern beginnt, dass er sich auch auf weniger sinnlich greifbare Formirungen erstreckt, bis er schliesslich, sublimirt zum Begriff von Mittel und Werkzeug in höchster und allge meinster Bedeutung, seine Stoffe sich unmittelbar aus der Werkstätte des Geistes selbst liefern lässt.
+
+Den Zutritt zu dieser Sphäre der Organprojection hat der elektrische Telegraph geebnet. Denn dieselbe bewegende Kraft, die im einen Falle äusserlich auf den Draht übertragen wird, und im anderen innerlich an der Innervation betheiligt ist, dient hier wie dort der Gedan kenmittheilung, ohne jedoch irgendwie den constanten Unterschied, welcher zwischen mechanischer und organischer Vermittelung herrscht, abhanden kommen zu lassen. Fassen wir nunmehr alles bisher über mechanische
+
+Vorrichtungen Gesagte in einen kurzen Ueberblick zu sammen.
+
+Von der Verständigung über den Sprachgebrauch von Werkzeug und Organ ausgehend ergaben sich uns als die wesentlichen Eigenschaften der Hand, dass sie als das natürliche und deshalb allzeit fertige Normalwerkzeug des Menschen die Bestimmung hat, die Anfertigung der ersten künstlichen Werkzeuge nicht nur selbst zu bewerkstelligen, sondern zugleich auch für diese das Vorbild ab [p. 151] zugeben. Die Hand hat sich die zu ihrer Unterstützung dienenden, ihre Kraft und Geschicklichkeit erhöhenden
+
+Werkzeuge gerade so geformt, wie sie dieselben braucht. Wegen dieser ihrer Handlichkeit sind sie das Handwerk zeug. In der Hand, dem auswendigen Gehirn, sind sie deshalb die Culturbegründer, weil sie Theil haben an dem Verhältniss von Hand und Hirn, dessen Bedeutung Eduard Reich kurz und bündig mit dem Ausspruch würdigt: „Das best entwickelte Gehirn und das best entwickelte Greif werkzeug vereinigen sich in den der wahren Gesittung fähigen Menschenarten, und das gegenseitige Verhältniss der beiden Organe ist die Quelle alles Könnens, alles Wissens und aller Weisheit.“ (Der Mensch und die Seele, S. 178.)
+
+Von den beiden Seiten des primitiven Werkzeugs, dem Zweck und der Form, besteht jener in der bewusst vom Menschen erstrebten Beseitigung eines momentanen Mangels, oder was dasselbe ist, Herstellung eines Vortheils, diese aber, die Gestaltung des für den Zweck verwendeten Stoffes, geht unbewusst vor sich. Dieser unbewusste Vor gang, dass die organischen Gebilde, Thätigkeiten und Be ziehungen und die mechanischen Vorrichtungen sich wie Vorbild und Nachbild verhalten, und dass der Mechanismus nur als Mittel zur Aufdeckung und zum Verständniss des Organismus verwendet wird, wurde als das eigentliche Wesen der organischen Projection erkannt. Weiterhin ergab sich, dass aus der stoffgestaltenden Anlage der Hand eine Menge Dinge hervorgehen, welchen der Mensch als einer zweiten, von der natürlichen unterschiedenen Aussen welt sich gegenüber sieht. Aber Geräthe, die er selbst mit Anstrengung hervorgebracht, obenan sein Handwerk zeug, liegen ihm näher und sind ihm verwandter als die
+
+[p. 152] Naturdinge, in deren Kenntniss und über den thierischen Genuss erhabenen Gebrauch er sich erst mittels jener zu setzen vermag.
+
+In der Metamorphose des primitiven Handwerkzeugs zu einer Menge von Haus-, Feld-, Jagd- und Kriegs geräthen bleibt deren elementare Mitgift immer erkennbar.
+
+In zweifelhaften Fällen geben nächst der Ethnographie die Sprachwurzeln, als Aequivalentdepositäre der Cultur anfänge, Auskunft und Entscheidung. Ausser Arm und Hand kommen auch die unteren Extremitäten, theils als organische Vorbilder, theils nach ihrer auf Werkzeug und Maschine in kinematischer Verkettung übertragenen Muskel bewegung in Betracht. Nachdem dann die prominenten Gliedmaassen in ihrer Verwendung zu Maass-, Zahl- und Zeitbestimmungen mit gelegentlicher Rechtfertigung der Einbürgerung der mechanischen Terminologie in der Physiologie besprochen waren, erstreckte sich unser Verfahren weiter auf die Sinnesorgane und holte sich aus dem Bereich der optischen und akustischen Mechanik eine solche Ausbeute, dass alle etwaigen Einwürfe, als walte hier Phantasiespiel mit Symbol und Gleichniss, vor dem Ernst der Thatsachen verstummen müssen.
+
+Dem Nachweis eines diese Thatsachen bekräftigenden
+
+Zuwachses durch Vorführung der auffallenden Congruenz der Stimmorgane und der Herzthätigkeit mit ihren mechanischen Nachbildungen, folgte die wiederholte Sicher stellung des Begriffs vom Organismus gegen mechanische Ueberfluthung, immer jedoch mit dem willigen Zugeständ niss, dass der Mensch sich sein leibliches Selbst zunächst nur unter erklärender Anwendung der von ihm selbst gefundenen mechanischen Vorrichtungen und Gesetze vor stellig zu machen im Stande ist.
+
+[p. 153] Demnächst durfte auf Grund einer ausführlicheren
+
+Berichterstattung über die grossartige Entdeckung, deren Verlauf den Inhalt der 1. Wolf " schen Abhandlung über die innere Architektur der Knochen ausmacht, das Princip der actuellen Empirie rückhaltslos in seiner vollen Beweis kraft auch für die organische Projection in Anspruch genommen werden.
+
+Hiernach nahm die mechanistische Weltanschauung, bei idealer Auffassung der Werkzeug- und Maschinenent stehung einem geistigen Werkzeug vergleichbar, ihre inso weit durchaus berechtigte Stellung, als sie die eine Orien tirung über die organische Welt eröffnende und eine ihr begrifflich nachhelfende Macht ist.
+
+Bis dahin war unsere Darstellung von der vorherrschenden Einzelauffassung ihrer Gegenstände zu der mechanischen Nachgestaltung der im Zusammenhang durch die ganze Leiblichkeit verbreiteten Gebilde des Nerven- und
+
+Gefässsystems vorgeschritten. Hatte schon der Maschinen bau insofern seine Höhe erreicht, als die Dampfmaschine in Beziehung sowohl auf den Begriff der Erhaltung der Kraft als auf Locomotion das getreue Abbild der orga nischen Lebendigkeit ist: so zeigte der elektrische Tele graph in seiner Eigenschaft der Sprachzeichen- und Ge dankenvermittelung wie in der Abstreifung des Grobstoff lichen die grösstmögliche Annäherung an das Gebiet der durchsichtigsten Formen des Geistes, welches unter der Bezeichnung „Universelle Telegraphik“ in der Philosophischen Erdkunde von S. 669 bis 677 die entsprechende
+
+Erläuterung gefunden hat. Zunächst gilt es hier die Verständigung über den Antheil der Organprojection an der Lehre vom Unbewussten mittels Herstellung des Zusammenhanges der bisher [p. 154] vereinzelt aufgetretenen Berührungspunkte, und sodann gilt es in einem weiteren Abschnitte die theoretische Ab rundung der vorausgegangenen Untersuchungen über die Entstehung und Ausbildung der Artefacte im Lichte der durch die „Theoretische Kinematik“ neubegründeten Ma schinenwissenschaft. Vor allem unter den Anklängen aus dem Bereiche des Unbewussten in gerade dieser Wissen schaft gewahrt der Mensch die Wechselbeziehung zwischen seinem Leibesbestand und der Welt ausser ihm, die vor her eine Welt in ihm war.
+
+So geht ihm, indem er sich der Führung jener Verwandtschaft zwischen Vorbild und Nachbild überlässt und die von ihm geschaffene Aussenwelt messend an sich selbst legt, ein stets höheres Selbstbewusstsein auf.
+
+IX.
+
+Betheiligung der Organprojection am Unbewussten. Das Unbewusste und das Selbstbewusstsein. Die „Philosophie des Unbewussten“ und die ܙܕ„Psyche“ . Anthropopathische Irrwege.
+
+Der Geist als Selbstdefinition.
+
+Die Kenntniss des eigenen Leibes ist die Grundlage alles Denkens über den Menschen.
+
+Da wir hier abermals über die Brücke des Unbe wussten beim Selbstbewusstsein angelangt sind, so scheint es erspriesslich, die Begrenzung näher zu bezeichnen, inner halb deren die Organprojection an dem in neuester Zeit universal erweiterten Begriff des Unbewussten wesentlich betheiligt ist. Die Sache ist nicht ganz leicht, weil bekanntlich die Begriffsbestimmungen über denselben Gegen stand oft nur zu sehr auseinander gehen. So giebt es denn auch jetzt schwerlich zwei Denker, welche dasselbe unter dem Unbewussten verstehen, wie dies deutlich hervorgeht aus der lebhaften, oft recht erfrischenden Polemik über „die Philosophie des Unbewussten“, welche sich gegenwärtig in hohen Wogen durch die gesammte Literatur hindurchzieht.
+
+Es hat eben Jeder seinen eigenen Standpunkt, nicht nur den seiner Füsse, auf dem nicht zugleich auch ein anderer Mensch stehen kann, sondern vor allem den seines Denkens, dem entsprechend sich die Dinge von den Stand punkten verschiedener Menschen verschieden ausnehmen.
+
+Die Thatsache zu leugnen, dass in uns Vieles vorgeht, [p. 156] dessen wir uns nicht bewusst sind, fällt Niemandem ein.
+
+Was darüber von jeher gedacht und geschrieben worden, ist seinem sporadischen Vorkommen vor nunmehr einem Menschenalter zum ersten Male von C. G. Carus enthoben und auf Grund einer tiefen selbständigen Forschung in einen festen wissenschaftlichen
+
+Zusammenhang gefügt worden. Das Werk erschien in Form einer Entwickelungs geschichte der Seele unter dem Titel „Psyche“ . Carus selbst nennt es „ein lange gehegtes, viel im Geiste erwo genes, immer von neuem durchdachtes Werk, die eng zu sammengedrängte Frucht vieljähriger Studien, wobei er bemüht war, das was in den reinsten Stunden in seiner Betrachtung zur Reife gekommen, in der einfachsten Weise, immer in möglichst genetischer Folge, und frei von den Fesseln schulmässiger Methoden, als treues Ergebniss viel erwogener Intuition wie in einem Sanctuarium nieder zulegen.“
+
+Das unter Bürgschaft eines so starken „wissenschaft lichen Gewissens" entstandene Buch handelt in seinen drei Hauptabschnitten vom unbewussten Leben der Seele, vom bewussten Leben der Seele und von dem was im Unbewussten und im Bewussten der Seele vergänglich und darin ewig ist. Das Wesen der ersten Bildungsvorgänge des mensch lichen Organismus, dessen erste durch unbewusstes Wal ten der Idee gesetzte Gliederung, das wesentlich Unbe wusste im Vorgange der Vervielfältigung der Individuen innerhalb der Gattung, ferner das was in einer ihrer selbst bewusst gewordenen Seele immer noch dem Reiche des Unbewussten angehört, und die krankhaften Zustände im unbewussten Seelenleben dies bildet den Inhalt des ersten Abschnittes. Der folgende begreift nächst der Her
+
+> [p. 157] anbildung der Seele in den Thieren, die der Seele und des Geistes im Kinde, die Wechselwirkung zwischen un bewusstem und bewusstem Seelenleben, die Rückkehr des bewussten Seelenlebens in das unbewusste, das Wachsthum des Seelenlebens, die Heranbildung der Seele zur Persönlichkeit und zum Charakter, die verschiedenen Strahlungen des Seelenlebens, je nach Gefühl, Erkenntniss und
+
+Willen, und schliesst vor dem Uebergang in den letzten verhältnissmässig kurzen, aber inhaltschweren Ab schnitt mit einer Erörterung über Seelengesundheit und Seelenkrankheit.
+
+Dies ist der reiche Stoff eines Werkes, welches als grundlegend für alle späteren Untersuchungen über das Unbewusste zu betrachten ist.
+
+Es kann daher nur sehr auffallen, dass bis jetzt in der gesammten betreffenden Literatur mit nur sparsamen Ausnahmen eine solche Würdigung der „Psyche“ , welche sich mit der gerechten An erkenrung des früher Geleisteten befasst, vermisst wird, so dass die bewusste Continuität der Geistesarbeit “, wie sie J. C. Fr. Zöllner verlangt, beeinträchtigt erscheint.
+
+Das Verdienst dem Begründer, wenn auch der Nachfolger es besser machen sollte, sagt ein ara bisches Sprichwort! Der Nachfolger, der es besser gemacht hat, ist der Verfasser der Philosophie des Unbewussten, dem es selbst am wenigsten eingefallen ist, die „Psyche“ zu igno riren. Erklärt er doch ausdrücklich in dem Capitel, welches über seine Vorgänger in Bezug auf den Begriff des Unbe wussten handelt:
+
+„In die neuere Naturwissenschaft hat der Begriff des Unbewussten noch wenig Eingang ge funden; eine rühmliche Ausnahme macht der bekannte
+
+Physiologe Carus, dessen Werke „Psyche“ und „Physis“ [p. 158] wesentlich eine Untersuchung des Unbewussten in seinen Beziehungen zu leiblichem und geistigem Leben enthalten. Wie weit ihm dieser Versuch gelungen ist, und wie viel ich bei dem meinigen von ihm entlehnt haben könne, überlasse ich dem Urtheil des Lesers. Jedoch füge ich hinzu, dass der Begriff des Unbewussten hier in seiner Reinheit, frei von jedem unendlich kleinen Bewusstsein, klar hingestellt ist.“ Ueberdies erscheint der Ausspruch, womit Carus die „Psyche“ eingeführt hat, „der Schlüssel zur Erkenntniss vom Wesen des bewussten
+
+Seelenlebens liegt in der Region des Unbewusst seins“ als das Motto, unter welchem Eduard von Hart mann den zweiten Haupttheil seines Buches „Das Un bewusste im menschlichen Geist“ seiner Betrachtung un terwirft.
+
+Wäre die Kritik der obigen indirecten Aufforderung zu einer Vergleichung beider Werke nachgekommen, die Philosophie des Unbewussten konnte nur dabei gewinnen; manches müssige Wort wäre weniger gesprochen, manches Missverständniss vermieden worden.
+
+Denn bei der Ueber einstimmung der Philosophie des Unbewussten mit der „Psyche“ war diese eine sicher nicht zu verachtende Bundesgenossin, und in der Abweichung von ihr konnten Vorzüge um so schärfer zu Tage treten.
+
+Bei Carus ist das Unbewusste zunächst Princip für die Entwickelungsgeschichte der menschlichen Seele. Er vermeidet die herkömmliche Bezeichnung Psychologie; denn die alte Psychologie, der zünftigen Schubfachbehandlung entwachsen, hatte schon damals begonnen, aus ihrer Stockung in psychophysischen Fluss zu gerathen. E. v. Hartmann dagegen, welcher das Unbewusste zum Princip der Orientirung über die Welt erweitert und erhebt, findet [p. 159] in ihm das, was von jeher den Grund aller philosophischen Systeme ausgemacht habe.
+
+Demnach ist in Carus' „Psyche“ das Unbewusste überwiegend als metaphysisches Moment auf eine einzelne philosophische Disciplin beschränkt, in der „Philosophie des Unbewussten " bedeutet es als schrankenloser
+
+Grund alles Lebens die Inauguration einer neuen Weltanschauung. Man wird kaum fehlgreifen, wenn man diese als Panentheismus des Unbewussten auffasst, dessen Dar stellung, wie sie auch immer aus dem Conflict der Vertreter eines Allu n bewussten mit den Vorkämpfern für ein All ur bewusstes hervorgehen mag, das grosse Verdienst un verkümmert bleiben wird, die Schwankungen dualistischer und monistischer Gegenstösse in dem Verhältniss der Begriffe von Seele und Geist wesentlich beruhigt und des Philosophirenden tiefeignes Selbst als den allein möglichen Anfang aller Philosophie vertreten zu haben. Es ist nicht ungewöhnlich, dass eine lang gebrauchte Terminologie zeitweilig von einer neuen abgelöst wird, wenn man mit jener, sofern nur noch abgegriffene Lehr sätze ins Treffen geführt werden, nicht mehr vom Flecke kommt.
+
+Wollen also nach geschehener Ausdehnung der Schranken der empirischen Forschung die alten Maassstäbe nicht mehr vorhalten, so wird nicht selten der Sache dadurch ihr Recht, dass eine ihrer bis dahin mehr nur vorübergehend beachteten Seiten in den Vordergrund der wissenschaftlichen Erörterungen tritt und in dieser Bevorzugung dem Begreifen des erfolgten Fortschrittes zu Hülfe kommt. Dies war der Fall mit dem Unbewussten.
+
+Auf ihm, als derjenigen Bestimmung der Sache, womit diese steht und fällt, beruht der Begriff von Seele und Geist.
+
+[p. 160] Der Kern der neuen von der Philosophie des Unbe wussten im Zusammenhang mit der organischen Ent wickelungstheorie veranlassten Bewegung ist einfach die alte Frage nach dem Wesen der Seele. Aber erst dann, wenn die wissenschaftliche Gesammtdarstellung des Unbe wussten den Process gründlicher Läuterung bestanden ha den wird, kann der Begriff der Psyche die ihm bisher mangelnde Ergänzung erhalten, und wird auf dieser höhe ren Phase seiner Entwickelung die Gestaltung des in vie len Anzeichen sich ankündigenden neuen Systems der Philosophie entscheidend bestimmen. Da von einem Unbewussten überhaupt nur insofern die Rede sein kann, als wir uns bewusst werden, dass ein Unbewusstes ist, und dass unser Bewusstsein nach unbewusst in uns wirkenden Vorgängen zu Tage tritt, so er giebt der Mittelbegriff des Bewusstseins die Einheit von Selbstbewusstsein und Unbewusstsein in der Weise, dass unter Geist die sich ihrer bewusst gewordene Seele, unter Seele der im Unbewussten latente Geist zu verstehen ist.
+
+Der Mensch pflegt ganz gemüthlich das, was ihn zu dem macht was er ist, nämlich sein Selbstbewusstsein, nach unten hin mit dem Thiere, nach oben hin mit einem Absoluten zu theilen und geräth in der Selbsttäuschung über die Möglichkeit, aus seinem eigenen Wesen heraus zutreten, sprachlich wie sachlich auf anthropopathische Irrwege. In jedem Menschen dagegen trifft er immer sich selbst an, indem er eine seiner eigenen gleiche Be wusstseinsanlage wieder findet, worüber ihm von ihm selbst aus Urtheil und Schluss zusteht.
+
+Jeder andere
+
+Mensch ist sein Mit-Mensch, aber kein Mensch ist eines Thieres Mit - Thier, es sei denn, er versuchte das Unmögliche, sein Wesen in das Thier zu verlegen und dessen
+
+[p. 161] Seelenleben sich unter Eigenschaften seines eigenen Bewusstseins vorzustellen.
+
+Eben weil sie ihm nicht zugänglich sind, fehlt dem Menschen für nichtmenschliche Zustände der ganz ent sprechende Ausdruck. Wenn er gleichwohl zur Aushülfe Aehnliches ausser ihm mit von sich entlehntem Aehn lichen bezeichnet, um nur überhaupt der Vortheile der vergleichenden Naturbetrachtung nicht verlustig zu gehen, sollte er sich doch nicht in dem Grade den Sprachmän geln auf Gnade und Ungnade unterwerfen, dass Bild und Sache bis zur Unterschiedslosigkeit sich vermengen. Die menschliche Psyche, der Geist, ist Selbstdefinition. Hiernach ist, nebenbei bemerkt, die ganze so genannte Thierpsychologie zu corrigiren. Das Thier spürt Lust und Unlust, das Thier kennt nach instinctiver Combination sinnliche Eindrücke und hat Erinnerungen daran, aber Empfindungen, welche die Verheissung von Vorstellungen sind, und Vorstellungen, aus denen Begriffe er wachsen, gehen ihm ab. Um wie viel mehr dasjenige Bewusstsein, welches durchaus nur als Uranlage zum Selbst bewusstsein denkbar ist.
+
+Von der Beschaffenheit nicht menschlicher „Bewusstseine" macht der Mensch sich Vor stellungen nur auf Kosten der Integrität seines Selbstbewusstseins.
+
+Die Organprojection verfolgt den Process des Selbst bewusstseins auf dem bisher unter diesem Gesichts punk tausser Acht gelassenen Gebiete der Culturwelt und sieht die wiederholte Berufung auf Carus' Psyche vorzüglich durch die positive Bekräftigung gerechtfertigt, welche den Resultaten dieses Werkes im Licht der Philosophie des Unbewussten in so hohem Grade zu Theil wird. KAPP, Phil. d. Technik.
+
+[p. 162] Das Unbewusste.
+
+Möge der Organprojection nach dem Maass ihrer Be theiligung am Unbewussten das Zugeständniss nicht vor enthalten werden, dass vor allem durch sie und aus ihr der Drang der menschlichen Natur, sich in sich zu reflectiren, erkannt wird.
+
+Die menschliche Natur ist der ganze Mensch, die ein gefleischte Seele, deren erste unbewusste Regung potentiell schon Bewusstsein und Geist ist, ohne dass dabei an genommen werden darf, auf Seele und Geist, Unbewusstes und Bewusstes, Bewusstsein und Selbstbewusstsein könne der Begriff von einem Höheren und Niederen im Sinne von Rangordnung Anwendung finden. Wundt nennt Seele und Geist dasselbe Subject, jene, das Subject der Erfahrung mit den Bedingungen, welche dieselbe durch ihre erfahrungsmässige Gebundenheit an ein äusseres Dasein mit sich führt; diesen, das nämliche Subject der inneren Erfahrung, in welchem von seinen Be ziehungen zu einem leiblichen Wesen abstrahirt wird.
+
+„Diese Definition lässt es vollkommen dahin gestellt, ob dem Geistigen jene Unabhängigkeit von der Sinnlichkeit wirklich zukommt.
+
+Denn man kann von einer oder mehreren Seiten einer Erscheinung absehen, ohne darum zu leugnen, dass diese Seiten vorhanden sind. “ (a. a. 0. S. 12.)
+
+Unter diese vorsichtige Definition, die als Resultat so gründlicher psychophysischer Untersuchungen nicht unter schätzt werden darf, fallen natürlich auch die Begriffe Unbewusstes und Bewusstsein, als Wesensbestimmungen von Seele und Geist.
+
+So weit immer das Unbewusste Inhalt des Bewusstseins wird, in demselben Grade ist das Bewusstsein auch Selbstbewusstsein. Wenn im Unbewussten die unendlichen Fäden lie [p. 163] gen, durch welche der Mensch in das gesammte Uni versum verfiochten ist, so ist alle Philosophie recht eigentlich auch Philosophie des Unbewussten (Fr. Zange, Ueber das Fundament der Ethik, S. 170), und ihr letztes Resultat ist das im Selbstbewusstsein gewusste Unbewusste. Da nun das Unbewusste gleichermaassen in der Leiblichkeit wie im Geist zur Erscheinung kommt, so ist das Selbstbewusstsein nicht nur Bewusstsein vom Subject der Geistesthätigkeit, sondern ebensowohl Bewusstsein von dem das Selbst wesentlich constituirenden Leibesleben.
+
+Ich schliesse diese Bemerkungen über das Selbstbewusstsein, soweit die Organprojection in dessen Process eingreift, mit dem sehr zu beherzigenden Ausspruche Virchow's:
+
+„Der gebildete Mensch soll nicht blos seinen eigenen Leib kennen, weil eine solche Kenntniss zur Bildung gehört, sondern vielmehr deshalb, weil zuletzt die Vorstellung, die man sich von sich selbst macht, die Grundlage für alles weitere Denken über den Menschen wird.“ (Vier Reden über Leben und Kranksein, S. 81.) Es giebt Aussprüche von dauernder Wahrheit, die für sich allein hinreichen würden, das Genie ihrer Ur heber zu bekunden, wenn auch sonst nichts von ihnen bekannt wäre. Dahin gehört das eben angeführte Wort Virchow's. Hier hat die Wissenschaft in grossartigen
+
+Zügen ihre vornehmste Aufgabe verzeichnet, nämlich: eine Bildung, welche von den zwischen Fach- und Laienwissen aufgerichteten Schranken unberührt ist, sodann als unerläss liches Mittel zu diesem Ziel die ethische Forderung, „der gebildete Mensch soll seinen Leib kennen“, und schliess 11 * [p. 164] lich die Erklärung der auf der Kenntniss des eigenen Leibes beruhenden Bildung für die höchste, und zwar deshalb, weil sie die „Grundlage für alles weitere Denken über den Menschen“, und, fügen wir hinzu, für das Selbstbewusstsein wird.
+
+X.
+
+Der Begriff der Maschine auf Grund der „theoretischen Kinematik“ . Die Elementenpaare, die kinematische Kette, das Getriebe als Entwickelungs Das Quirlgetriebe die erste Maschine. Verhältniss von Bewegung und Kraft. Kraftschluss und Paarschluss. Im Process der Ablösung des Kraftschlusses durch Paar- und Kettenschluss besteht der Fort stadien der Maschine.
+
+schritt in der Vervollkommnung der Maschine. Das Unbewusste in der allgemeinen Entwickelung der Maschine.
+
+Wie Kraft- und Bewegungserzeugung, so gehen
+
+Entdeckung neuer Kraftquellen und Erfindung Hand in Hand. Die kine matische Zeichensprache. Die kinematische Analyse. Kraftmaschinen, Arbeits maschinen. Die kinematische Synthese. Der leibliche Organismus das all gemeine Ur- und Musterbild aller besonderen Formen der Maschinentechnik. Die Idealmaschine. Wahrheit und Irrthum in dem Buche: L'homme machine.
+
+Die machinale Kinematik als unbewusste Uebertragung der organischen Kinese ins Mechanische. Das Verstehenlernen des Originals mit Hülfe der Ueber tragung wird bewusste Aufgabe der Erkenntnisslehre.
+
+Der Mensch soll seinen eigenen Leib kennen, heisst einfach, er soll sich selbst kennen lernen. Wie diese Selbst kenntniss mit den sehr greifbaren Mitteln, welche aus den von seiner eigenen Hand geschaffenen Utensilien be stehen, zu Stande kommt, dies darzulegen, ist unsere ganze
+
+Aufgabe. Denn wir haben zu zeigen, dass der einheitsvoll in sich abgeschlossene Reichthum eines lebendigen Glieder ganzen gegenbildlich in der äusserlichen Zerstreuung einer unendlichen Menge discreter Stückwerke erscheint.
+
+Daher ist die Entdeckungsgeschichte der inneren un verrückbaren Wechselbeziehung zwischen jenem Ganzen und dieser Vieleinzelnheit die Entwickelungsgeschichte des Selbstbewusstseins.
+
+Theilweise haben wir diese Culturwelt im Gleichschritt mit der allmäligen Erweiterung des Inne werdens ihres auf Organprojection beruhenden Zusammen [p. 166] hanges mit der Leiblichkeit vorübergeführt und machten vorläufig da Halt, wo mittels des elektrischen Telegraphen das Spiel des Gedankens die bis jetzt höchste Beweglichkeit auf mechanischer Unterlage erreicht hat. Zugleich ge statteten wir uns, im voraus von hier einen Blick auf das Gebiet zu werfen, in welchem neben der räumlichen Dauer haftigkeit fester mechanischer Formen auch die zeitliche Dauer solcher Gestaltungen bemerkbar wird, die als Er scheinungsmittel geistiger Functionen im Fluss des Ver- ' schwindens und Wiederkehrens der derb sinnlichen Haft sich entziehen.
+
+Es war die Dampfmaschine in Bezug auf die Er zeugung, Unterhaltung und Wirkung der Kraft ein so entsprechendes Abbild des leiblichen Organismus, dass bei oberflächlicher Betrachtung die Unterscheidung von mechanischem Bewegungszwang und organischer Bewegungs freiheit beirrt wurde, und dass die Vorstellungen von Maschine und Mensch sich geradezu verwirrten. Bevor wir uns nun über die durch den Telegraphen bewerkstelligte machinale Gedankenbeförderung hinaus auf das oben erwähnte Gebiet einer mehr directen Vermittelung geistiger Mittheilung wagen, liegt uns hauptsächlich ob, dass wir über den Begriff der Maschine vollkommene Klar heit suchen.
+
+Denn um beantworten zu können, ob der Mensch eine Maschine sei oder nicht, müssen wir vor allen Dingen wissen, was die Maschine in Wahrheit ist, kurz der Begriff der Maschine muss feststehen, um an ihm die Vorstellung, die wir uns von uns selbst machen, messen zu können. Diese Möglichkeit ist recht eigentlich erst neuer dings gegeben worden, seit Reuleaux in seinem Werk über Theoretische Kinematik “ den Begriff der Maschine [p. 167] vollständig entwickelt, dadurch erst eine Maschinenwissen schaft wahrhaft ins Leben gerufen und in Verband mit den übrigen Wissenschaften gesetzt hat. Der vollständige Titel desselben lautet: Theoretische Kinematik. Grundzüge einer Theorie des Maschinen wesens von F. Reuleaux, Professor, Director der Königl. Gewerbe -Akademie zu Berlin. Mit einem Atlas und zahlreichen in den Text eingedruckten Holz schnitten. Braunschweig, 1875. XVI u. 622 S. Die Resultate dieser Theorie des Maschinenwesens, an und für sich von ungewöhnlichem Werthe für die richtige
+
+Auffassung der Culturidee, kommen insbesondere dem Fort gang unserer Untersuchung wesentlich zu statten. Es wird die folgende Betrachtung der Maschinentechnik, auch in der Form eines kritischen Berichtes, in welcher sie im zweiten Jahrgang des Athenäums eine vorläufige Veröffentlichung gefunden hat, geeignet sein, hier als Bindeglied der bei den wiederholt namhaft gemachten Hauptgebiete der Lehre von der Organprojection einzutreten. Unter den Erscheinungen, die gegenwärtig auf allen Gebieten der menschlichen Thätigkeit einer neuen Welt anschauung entgegendrängen, ist Reuleaux’s Werk von her vorragendster Bedeutung; denn die neue Weltanschauung ist die neue Philosophie, an welche die Forderung ergeht, das rechte Gleichgewicht zwischen den empirischen und den speculativen Elementen herzustellen. Die speculative Systematik auf der einen Seite, und der
+
+S H O S L OBO S3
+
+INA aphoristische Empirismus auf der anderen, bildeten lange Zeit zwei feindliche Heerlager. Während der Speculation bei zunehmender transscendentaler Aushöhlung der Nahrungs stoff auszugehen schien, verlor der Empirismus unter realistischer Ueberladung Einsicht und ordnenden Ueberblick
+
+NAHOR [p. 168] über die Masse seiner Errungenschaften. Dort lichteten sich immer bedenklicher die Schatten grüner Zweige, hier sah man schon vor lauter Bäumen den Wald kaum mehr!
+
+Der Ruf nach Revanche seitens der empirischen Wissen schaften, gegenüber der langjährigen Uebermacht des idea listischen Princips, war mit nur zu reichlichem Erfolg ge krönt worden. Die Philosophie wurde ein für allemal als abgethan erklärt und entschieden materialistische Richtungen gewannen die Herrschaft; jedoch nur dadurch, dass sie den Geist mit ihm entliehenen Waffen, mit Sprache und Deduction, bekämpften, und so weit sich mit dem Gegner einliessen, dass sie, von dessen unwiderlegbaren Wahrheiten getroffen, unvermerkt der Wandlung in Naturphilosophie unterliefen.
+
+So ist vorerst der Friede zwischen Natur wissenschaft und Philosophie präliminirt, indem letztere ja auch die Bedürftigkeit unablässiger Ergänzung aus den empirischen Wissenschaften offen eingestanden hat. Man ist in dieser Beziehung so sehr gewohnt, politische, religiöse und sociale Momente, Schöpfungen der Kunst und Entdeckungen der Naturforschung als die treibenden Mächte des geistigen Fortschrittes anzusehen, dass darüber gerade dasjenige empirische Gebiet, welches von jeher die unent behrlichste Grundlage unserer gesammten Culturentwicke lung ausmacht, fast gänzlich übersehen wurde. Wenn durch die von der natürlichen Aussenwelt aus gehenden sinnlichen Reize und Anstösse, welche sich im Menschen zu Empfindungen und Vorstellungen fortsetzen, eine innere Welt des Bewusstseins und des geistigen Lebens überhaupt sich gestaltet: so entsteht die Frage, wes halb nicht auch eine annähernd ähnliche Entwickelung im Thierreiche stattfindet, welches, mit gleich empfindlichen Sinnen ausgerüstet, vor derselben Aussenwelt mit offenen
+
+[p. 169] Augen steht und trotzdem in unveränderlichem Stumpf sinn derselben gegenüber beharrt. Die Frage beantwortet sich, wie bereits oben gezeigt worden ist, durch die genauere Angabe dessen, was alles zur Aussenwelt gerechnet werden kann. Gewöhnlich ver steht man darunter lediglich die den Menschen umgeben den, von Natur vorhandenen Dinge. Prangt denn aber nicht neben dieser natürlichen Welt und sie überragend eine an dere, nämlich der Inbegriff der aus Hirn und Hand des Menschen hervorgegangenen technischen Vorrichtungen, von deren Qualität internationale Ausstellungen eine annähernde
+
+Vorsteilung geben, deren Menge jedoch, in Form von Werkzeugen, Waffen, Bauten, Gewändern, Kunst- und
+
+Schriftwerken, Geräthen, Apparaten und Maschinen über die bewohnte Erde verbreitet, unübersehbar ist? Und diese Aussenwelt ist es, worin der Mensch sich eine Fortsetzung seiner selbst nach aussen erschaffen hat, ohne welche für ihn weder das Verständniss und die Be nutzung der Natur, noch der Aufschluss über sein eigenes Wesen denkbar sein würde.
+
+Er wird sich ihrer bewusst, so wie sie, von dem ersten rohen, dem natürlichen Organ nachgeformten Werkzeug anhebend, heute in einem Reich thum der complicirtesten Maschinenwerke gipfelt. Sie er scheint ihm als eine aus ihm selbst hervorgegangene Welt, als ein Aeusseres, das vorher sein Inneres war. In dieser Bedeutung unterscheidet er sie von der übrigen Aussen welt, von der tellurischen und kosmischen Natur, deren Vorhandensein allein für lebende Wesen im besten Falle nie etwas Anderes sein kann, als Bedingung animaler Existenz. Die Natur aber geht, als Rohstoff mit dem Kunst trieb des Menschen in Berührung gebracht, eine Veredlung ein, wodurch sie, zum Artefact umgewandelt, jene andere
+
+[p. 170] Aussenwelt darstellt, die als Reich der technischen Vor richtungen neben und gegenüber den Naturgebilden den
+
+Culturprocess in alternirendem Wechsel des Hervorbrin gens und Hervorgebrachtwerdens in hochgradigster Steigerung unterhält.
+
+Unter allen Machwerken der Menschenhand ragt die Maschine hoch empor. Sie ist der Gegenstand des Reuleaux schen Buches, welches dadurch, dass es den Schwerpunkt seiner Untersuchungen in die Kinematik verlegt, eine neue Wissenschaft, welche auch den Titel Grundzüge einer Theorie des Maschinenwesens führt, begründet hat.
+
+Eine Reihe von Abhandlungen, die im Laufe der letzten Jahre unter der Rubrik „Kinematische Mittheilungen " in den Berliner Verhandlungen veröffentlicht worden sind, erscheinen hier erweitert und vermehrt in systematischem
+
+Zusammenhange. Schon in der Form ihrer successiven Veröffentlichung ist ihnen seitens der Mehrzahl der deut schen polytechnischen Schulen die zustimmendste Aufnahme geworden, und werden sie als ein geschlossenes Ganzes jetzt um so mehr allgemeinen Zugang in die betreffenden Hörsäle finden.
+
+Indem aber das Werk „nicht ausschliesslich für das Studium von Fachgenossen bestimmt ist, sondern auch demjenigen, der nicht unmittelbar dem Fach angehört“, das Verständniss der vorgetragenen Theorie zugänglich machen will, tritt es aus den Fachkreisen vor das grössere Publicum und appellirt selbstredend an das Urtheil aller denkenden Leser. Hiermit steht eine neue Befruchtung des gesammten geistigen Gebietes in Aussicht, welchem die merkwürdigen Vorgänge auf einem Felde, das bisher weit ab zu liegen schien, fern und fremd geblieben waren. Die bisherige Behandlung des Maschinenwesens um [p. 171] fasste nächst der Maschinenlehre, welche die Beschaffenheit der vorhandenen Maschinen beschreibt, die mechanische Technologie, welche diejenige besondere Einrichtung der Maschine darstellt, vermöge deren sie die durch Naturkräfte aufgenommene Wirkung auf die geeignetste Weise abgiebt, und die Maschinenbaukunde oder die Constructionslehre.
+
+Durch das Hinzutreten der Kinematik oder der Maschinengetriebslehre wird nunmehr das, was bisher überwiegend aus vereinzelten Gesichtspunkten behandelt wurde, zu einem untheilbaren Ganzen verschmolzen.
+
+Da es des Verfassers Absicht ist, durch eine wahr haft deductive Behandlung der Maschine dem Maschinen mechaniker die von ihm auszuführenden Denkoperationen zum vollen Verständniss zu bringen, und an die Stelle einer unbestimmten, vielfach zufälligen Auffassung eine bestimmte wissenschaftliche zu setzen, so liegt allerdings was er Neues in seinem Buche vorführt, „auf dem logischen und philosophischen Gebiete“ . An der seitherigen lückenhaften Behandlung des Gegenstandes sei im allgemeinen der Verfall des philosophischen Studiums schuld, in dessen Folge speciell auch in den Kreisen der praktischen, wie der theoretischen Maschinenkenner die Philosophie, und gleich in einem hin die wissenschaftliche
+
+Logik, gering geschätzt oder auch verspottet worden sei. Dem ins Maasslose anwachsenden Ziffern- und Formelwesen sollten Zügel angelegt, dagegen auf die Erweckung der selbständigen Behandlung des Specialfalles aus allgemeinen Gesetzen hingearbeitet werden. Nur so sei die Möglichkeit gegeben, statt der bisherigen Theorie einzelner Maschinen eine eigentliche Theorie des Maschinen wesens, also eine Maschinenwissenschaft zu begründen,
+
+[p. 172] Das Wahrzeichen jeder Fachwissenschaft ist ihr ober ster Gedanke, welcher diejenige Bestimmung der Sache enthält, woran sie, weil ihr Begriff darauf ruht, ihren alleinigen Bestand hat. Dieser Begriff der Sache ist die unversiegbare Quelle ihrer denkenden Betrachtung, und so haben sich denn auch dem Verfasser aus dem von ihm gewonnenen Begriff der Maschine gleichsam von selbst die Grundlinien ihrer Wissenschaft erschlossen, die als Ma schinenwissenschaft mit allen übrigen Wissenschaften solidarisch verbunden, unter gegenseitigem Geben und Empfangen, im Bestehen und im Fortschritt aller auch ihr Gedeihen verbürgt sieht.
+
+Dem entsprechend ist hier „der Versuch, zwischen der Maschinenwissenschaft und der Gesammtheit der übrigen Wissenschaften die Verbindung wieder anzuknüpfen, welche in Folge des Specialisirungszuges dem völligen Schwinden nahe war“, so schlagend durchgeführt, dass die wohlthä tigen Ergebnisse für die tieferen Interessen der Mensch heit vorerst kaum zu ermessen sind.
+
+Weil Werkzeuge und Maschinen weder auf den Bäumen wachsen, noch als Göttergeschenke fertig vom Himmel herabfallen, sondern „weil wir sie selbst gemacht haben“ , tragen sie als Producte dieses Selbst das deutliche Gepräge des bald unbewusst findenden, bald bewusst erfindenden Geistes.
+
+Daher geben sie in der Rückbezie hung auf ihre Zeugungsstätte Erklärung und Aufschluss über die organische Thätigkeit selbst, welcher sie wie das Nachbild dem Vorbild ihre Entstehung verdanken, und müssen als eins der wichtigsten Momente gewürdigt wer den sowohl für die Erkenntnisslehre im allgemeinen, wie für die Entwickelung des Selbstbewusstseins im besonderen. Beruht daher die Aufgabe der Philosophie auf der [p. 173] Lösung der Frage nach der Stellung unseres Denkens zur Aussenwelt, also auch der aus Werken der Menschenhand bestehenden Aussenwelt, so hat eine Darstellung des Ent stehens und der Vervollkommnung der Maschine allen Anspruch auf sorgfältigste Beachtung. Auch muss sie willkommen sein als eine gründlich ausgeführte wissen schaftliche Bestätigung für das bedeutungsvolle von Vir chow auf der vorletzten Anthropologen -Versammlung gesprochene Eröffnungswort, welches „die Kunstfertigkeit, wodurch der Mensch die Herrschaft über die Natur und Hand in Hand mit ihr auch die Herr schaft über sich selbst erringt, für wesentlich betheiligt an der Entwickelung des Gewissens und an der sittlichen Erziehung des Menschen geschlechts“ erklärt.
+
+Werden, wie hier angedeutet, empirische Gegenstände im Zusammenhang mit den eigensten Zwecken des Geistes aufgefasst, dann erhebt sich das Können und Wissen von ihnen recht eigentlich zum Rang einer Wissenschaft.
+
+In wie grossartiger Weise dies im vorliegenden Falle geschehen ist, wird aus einem Ueberblick über Anlage und Ausführung des Buches selbst einleuchten.
+
+Vorwort und Einleitung befassen sich mit der Entstehung, mit den leitenden Gedanken für die Ordnung des Stoffs, sowie mit dem Unterschiede zwischen der seit herigen Auffassungsweise und dem zu erstrebenden Ideal. Für das allgemeinere Verständniss eignen sich dann zunächst diejenigen Abschnitte, welche vorwiegend auf das Logische und die Philosophie übergreifen. Der Inhalt der übrigen geht die Techniker von Fach näher an. Bei etwa vorhandener Abneigung gegen Neues und Ungewohntes bedürfen sie einer thatsächlichen Begründung für die Ueber [p. 174] zeugung, dass der Führer, dem zu folgen sie aufgefordert werden, in der vollkommenen Beherrschung des Einzelnen, worin gerade sie sich stark fühlen, auch seinerseits die Macht besitzt, für diese zum erstenmal unternommene de ductive Behandlung des Gegenstandes als gewichtige Autorität einzutreten.
+
+Ohne also annehmen zu dürfen, dass die Maschinen kunde dem Laien geradezu verschlossen sei, ist vielmehr zuzugeben, dass Leser mit so viel dilettantischer Kenntniss und Handhabung von Werkzeugen und Maschinen, wie sie heutiges Tages die Schule allen Gebildeten mitgegeben hat, ohne eigentlich störende Schwierigkeiten in den Zusammen hang und das Verständniss des Ganzen einzudringen ver mögen. Treten wir nunmehr dem Maschinenproblem näher und folgen wir seiner schrittweisen, durchaus nur vom kinematischen Standpunkt aus möglichen Lösung. Denn der kunstreichste Apparat ohne Bewegungs- oder Betriebs fähigkeit mag höchstens als Modell einigen Werth haben, vermag sich aber niemals auf andere Weise als im Act der Bewegung als Maschine zu legitimiren. Auf Grund des Unterschiedes zwischen den äusseren sensiblen Naturkräften als Bewegungsspendern und den inneren, in den Maschinentheilen latenten Naturkräften als
+
+Widerstandsleistern, sowie auf Grund des zur Herstellung einer bezweckten Bewegung veranstalteten Zusammenwirkens der sensiblen und der latenten Kräfte baut sich der Begriff der Maschine auf. Abweichend von der allgemeinen Mechanik, welche je nach den ihr zugänglichen Naturkräften die Bewegung überhaupt untersucht, befasst sich die Maschinenme chanik mit fest durch einen begrenzten Kreis von Mitteln eingeschränkten Bewegungen und kann als gesonderte Wissen schaft ihren Bezirk von dem Gesammtgebiete trennen.
+
+[p. 175] Während früher die theoretische Maschinenlehre die Ortsveränderungen in der Maschine als gegebene aufnahm, will man nunmehr auch deren Verursachung kennen. „Mit dieser systematischen Kenntniss beschäftigt sich die Kinematik als Wissenschaft von derjenigen besondern Einrichtung der Maschine, vermöge deren die gegenseitigen Bewegungen Fig. 28.
+
+in derselben, soweit sie Ortsveränderungen sind, zu bestimmten werden. “ Der Grundzug der Maschine ist nämlich ihre Zusammensetzung nicht sowohl aus Elementen, sondern aus paarweise zusammengehörenden
+
+Körpern oder Elementenpaaren. Von diesen bildet eins die Umhüllungsform des anderen, so dass, wenn man das eine feststellt, das andere beweglich bleibt, aber nur in der einzigen, dem Paare eigenthümlichen Weise, wie dies ersichtlich ist z. B. an der Schraube und der Schrauben [p. 176] mutter. Die Bewegung des einen Elementes verhält sich relativ zu dem zugehörigen Element, absolut aber zu dem Punkte der räumlichen Feststellung. (Fig. 28.)
+
+Aus der wechselseitigen Verbindung von Elementen paaren entsteht die kinematische Kette, deren Glieder, nämlich die beiden aus verschiedenen Elementenpaa ren verbundenen Elemente, gezwungen sind, sobald eine Relativbewegung in der Kette stattfindet, in geschlossener Kette bestimmte Relativbewegungen mit zu voll ziehen.
+
+Fig. 29:
+
+„Die Kette besteht aus vier gleichen Fig. 29.
+
+h
+
+Paaren ab, cd, ef, gh, jedes aus einem cylindrischen Zapfen und einer denselben umschliessenden Hülse gebildet, und jedes parallel den anderen liegend. In derselben beschreibt jedes Glied gegen ein benachbartes nur Kreisbewegungen. Jede Drehung von ha gegen gf ruft aber eine Lagenände rung von bc sowohl als von de hervor, die Kette ist also geschlossen.“
+
+Wird dann von der geschlossenen Kette ein Glied, deren sie so viele hat wie Elementenpaare, festgestellt, so gehen ihre Relativbewegungen in absolute über und eine solche Kette heisst ein Mechanismus oder Getriebe.
+
+In
+
+Fig. 30 erscheint das Kettenglied ah an einem genügend festen Ständer festgeklemmt, worauf es kinematisch mit dem selben aus einem Stücke besteht. „Die Bewegung, in welche [p. 177] das Getriebe nunmehr versetzt werden kann, ist durch
+
+Punktirung einiger Hauptstellungen angedeutet; sie ist die bekannte, zwischen „Balancier“ nnd „Kurbel“ stattfindende Bewegung." Ein kinematisches Getriebe kommt in Bewegung, wenn Fig. 30.
+
+auf eines seiner beweglichen Glieder eine Kraft, welche die Lage desselben zu ändern im Stande ist, einwirkt. Die Kraft verrichtet dabei eine mechanische Arbeit, die unter bestimmten Bedingungen vor sich geht. Das Ganze ist also dann eine Maschine. “ (Fig. 31.) Somit hat der Begriff „Maschine" eine Reihe von Entwickelungsstadien zu durchlaufen.
+
+Aus diesem ihrem kinematischen Inhalte, den Elementenpaaren, der geschlos [p. 178] senen Kette und dem Mechanismus, ist sie inductiv hervor zubilden und ihn in lässt sie sich deductiv wieder auflösen.
+
+Ist nun die Maschine durch eine häufig dunkel gebliebene Induction ein mehr unbewusster Fund, so sind „Deduction und Analyse das Mittel, um zur bewussten Induction und Synthese der Erfindung zu gelangen“ . Fig. 31.
+
+Hiermit ist jedoch keineswegs gemeint, als ob das Erfinden irgend wie vordemonstrirt werden könnte.
+
+Viel mehr geht für den, welcher die vorhandenen Mechanismen gründlich verstehen gelernt hat, erst aus diesem Verständniss der alten die Befähigung zum Schaffen neuer hervor.
+
+Das gründliche Verstehen folgt Schritt vor Schritt dem Entstehen der Maschine aus ihren Elementen heraus bis zur Realisirung ihres vollen Begriffes - es findet sich, wie immer, auf dem Wege der Entwickelung, den der betreffende Gegenstand selbst genommen hat.
+
+[p. 179] Indessen bedarf es hier einer so genauen Kenntniss der Einzelheiten, wie sie die folgenden Abschnitte, die von dem weiteren Ausbau der Sätze von den Elementenpaaren und den kinematischen Ketten handeln, sehr ausführlich an den Tag legen. Ueber diese, zunächst nur den Sachverständigen zugängliche Brücke erfolgt die Einführung des Lesers in die Entwickelungsgeschichte der Maschine. Indem nun diese streng von einer Geschichte Fig. 32.
+
+EYES der Maschine unterschieden wird, ist der Entwicke lungsgedanke selbst die unversiegbare Quelle, aus welcher der neuen Wissenschaft die Beweiskraft zufliesst, und wodurch gerade dieses Capitel in einen Reichthum schöpferischer Gedanken und ungeahnter Fernsichten nach vor- und rückwärts ausschlägt. Es ist der Entwickelungs gedanke, welcher mit der Verlegung der Entstehung der Maschine in den Menschengeist auf das Gebiet ihrer Entwickelungsgeschichte führt, deren Anfänge in die fernsten ethnologischen Vorkommnisse zurückreichen, so dass die nächste Auskunft darüber nur von Geologen und Linguisten 12 * [p. 180] zu beschaffen ist. Und so erweist denn auch Reuleaux dem Sprachgeschichtsforscher L. Geiger die gebührende Ehre, indem er auf dessen Vorgang die ersten Anfänge der Maschine im Reibholzfeuerzeug (Fig. 32) aufgespürt hat, in Uebereinstimmung mit der Thatsache, dass die Feuer bereitung überhaupt aller eigentlichen Cultur Anfang ist. Demnach wäre also das Doppelholz des Reibholz Fig. 33.
+
+feuerzeuges in seiner quirlartigen Drehbewegung die aller erste Maschine oder die erste Vorrichtung, welche diesen Namen verdient.
+
+Später entsteht dadurch, dass eine
+
+Schnur etlichemal um das Reibholz gewunden, an ihren Enden mit den Händen hin- und hergezogen und so erst durch ihre Vermittelung dem Stab eine Quirlbewegung ertheilt wird, das Quirlgetriebe, von dessen hin- und hergehender Drehung man allmälig auf die dauernde, nicht absetzende Bewegung kam. (Fig. 33.)
+
+[p. 181] Als erste Repräsentanten der dauernden Bewegung sind die unterschlächtigen Wasserräder zu be trachten. Eben solche Drehbewegungen wurden durch die Wagenräder und durch die Töpferscheibe darge stellt. Da die bei letzterer stattfindende Drehung eine machinale Lagerung des abzudrehenden Stückes erfordert, so hat die Töpferscheibe den Weg zur Dreh bank gezeigt.
+
+Der jedenfalls schwierige Uebergang von der Quirl bewegung zu der dauernden Drehbewegung mittels Schnur und Riemenbetriebes, und ferner von dem gekreuzten schmalen Riemen und der mehrmals um beide Rollen ge schlungenen Schnur zur ungekreuzten und einmaligen Um schlingung, sowie die Perspective von diesen bereits dem hohen Alterthum eigenen Vorrichtungen auf unsere heutigen endlosen Riemen und den Drahtseilbetrieb ist entsprechend veranschaulicht. Die Benutzung des Schnurtriebes zur Bewegung der Spindel, deren ursprüngliche Drehung durch die Hand noch nicht ausgestorben ist, erzeugte das Handspinn rad. Zum Spinnen im weiteren Sinne gehört auch die Seilerei.
+
+Der Webstuhl, welcher der Verarbeitung des
+
+Gespinnstes dient, ist ähnlich dem Spitzenklöppelzeug nicht eine Maschine im angegebenen Sinn, sondern eine Vor richtung, bei welcher die eigentlich machinale Bewegung erst im Keime liegt. Hier geht die Untersuchung auf die Auf- und Niederbewegung des zum Wasserschöpfen ein gerichteten Wippbaums, der Picota der Inder, über und macht auf die ähnliche Vorrichtung aufmerksam, mittels welcher die Chinesen mit dem Seilbohrer ihre artesischen
+
+Brunnen stossen. An dieser gradlinigen Bewegung sind auch Pfeil und Bogen betheiligt. Von einem elastischen Kraftsammler geht bei dem Flitz bogen, der Armbrust, [p. 182] den Ballisten und Katapulten die Schnellung aus. Das Blasrohr ist der Betriebsart des Geschosses nach eine Vorstufe zum Pulvergewehr. Nicht so entschieden äussert sich Reuleaux über das Elementenpaar der Urschraube und der Urschrauben mutter in Beziehung auf die Entstehung der Schraube überhaupt, wie auf die Bevorzugung der Rechtsschraube und die Herstellung der Mutter oder der Holzschraube. Die betreffende Dunkelheit dürfte physiologisch zu erklären sein. Da nämlich die linke Seite des Körpers als Herz seite von Natur schonungsbedürftiger gegen anstrengende oder zu anhaltende linksseitige Bewegungen ist, als die rechte Seite, so erklärt sich daraus die Bevorzugung der rechten Hand, und musste deshalb das Schraubengewinde als offenbare Fortsetzung der drehenden, vom Körper ab nach aussen gerichteten Bewegung das bevorzugte Rechts gewinde sein. Was aber die Schraubenmutter angeht, so ist ja eigentlich jedes vorübergehend durch Drehung einer Schraube in Holz entstandene Hohlgewinde die wenn auch noch so unvollkommene Urschraubenmutter; eine Annahme, welche mit der Behauptung, dass der Bohrquirl mittelbar den Weg zum Schraubenpaar gewiesen habe, durchaus nicht in Widerspruch steht.
+
+In Betreff des Verhältnisses von Bewegung und Kraft wird darauf hingewiesen, dass Naturmenschen und Kinder beim Anblick z. B. von Windmühlenflügeln, Wasser rädern, Pochwerken mehr durch die Bewegung, als durch die Kraftentwickelung lebhaft angeregt werden. Dies dürfe mit als Beweis gelten, dass aus und neben der zunehmen den Mannigfaltigkeit der Bewegung langsam und schrittweise die Erzeugung der mittelbar erreichbaren Kraftwirkungen hervorgehe, und nicht umgekehrt. Daher auch habe nicht [p. 183] der Hebel, sondern der Feuerquirl den Anspruch auf die Auszeichnung, für die erste Maschine zu gelten. Während der Mensch bei der Bewegung der ersten Maschine seine Gliederkraft mehr unbewusst mit einsetzte, er folgte nach und nach die so schwierige Verstandesoperation der begrifflichen Abtrennung der Kraft von der Bewegung, so dass er dazu übergehen konnte, die motorische Seite der Maschine dahin zu entwickeln, dass er an die Stelle sei ner Muskelkräfte im Betrieb der Urmaschinen Naturkräfte, Thiere, den strömenden Wasserlauf und den Wind, zu setzen vermochte. Das Princip des Aufsammelns der sensiblen Kraft der Muskeln, welches vorhin bei Gelegenheit der Aufsamm lung der Kraft im elastischen Bogen erwähnt wurde, „dehnt sich später ohne Unterscheidung auch auf clementare Kräfte aus und ist bis heute in voller Anwendung geblieben, vom kleinen Werk der Taschenuhr und des Gewehrschlosses an durch zahlreiche Spannmechanismen hindurch bis zu den Drucksammlern der Armstrong'schen Wasserkrahne und bis zu den Windkesseln des Mont-Cenis-Bohrapparates“. „Spät erst wird die motorische Kraft des Wasser dampfes entdeckt, vorher schon diejenige schnell entzünd licher oder explosibler Stoffe, in beiden eigentlich nur die latente Kraft, welche die Natur in den zersetzbaren
+
+Stoffen auf dem Erdball in ungeheurer Menge angehäuft hat. Damit war dem Menschen eine Kraftquelle bekannt geworden, deren Grösse er anfangs nicht ahnte, die ihm aber in der Maschine zu einer Macht über die Natur ver half, welche den grössten je gesehenen Umschwung im Leben des Menschengeschlechtes ins Werk gesetzt hat.“ Mit der Klarstellung des Verhältnisses von Kraft und Bewegung ist die Untersuchung an dem Knotenpunkte an gelangt, wo die Frage nach dem eigentlich kinematischen
+
+Merkmal der Vervollkommnung der Maschine zur Ent scheidung kommt. Es handelt sich dabei zunächst um die Form, in welcher ein Körperpaar seine kinematische Ver bindung schliesst.
+
+Bei den meisten Wasserrädern wird jede senkrechte Erhebung des Drehzapfens aus dem ohne Deckel construir ten Lager durch das bedeutende Gewicht des Rades gehindert. Das Radgewicht ist also die Kraft, welche der zu erwartenden störenden Kraft das Gleichgewicht hält, indem sie die ungeschlossen gebliebene Stelle der Umhüllungsform gleichsam schliesst. Daher die Bezeichnung Kraftschluss. Bei einem Elementenpaare dagegen mit vollständiger Umhüllungsform, wie z. B. bei Schraube und Schrauben mutter, ist jeder störenden Einwirkung, seitens sensibler Kräfte auf die einzige dem Paare eigenthümliche Weise der Bewegung, durch latente Kräfte begegnet. Diesen Schluss der beiden Elemente in voller paariger Congruenz nennt Reuleaux Paarschluss.
+
+Der Fortschritt nun in der Vervollkommnung der Maschine besteht in der abnehmenden Verwendung des Kraftschlusses bei zunehmender Ersetzung des selben durch den Paarschluss und den Schluss der dabei sich bildenden kinematischen Kette. Nachdem nun die theoretische Kinematik den Process der Ablösung des Kraftschlusses durch Paar- und Ketten schluss im Rückblick auf die vorher betrachteten Ma schinenanfänge nachgewiesen hat, geht sie auf das von der Erfindung der Dampfmaschine datirende moderne Maschinenwesen über und zeigt, dass derselbe Process weiterhin als wesentliche Form der nunmehr beschleunig teren Entwickelung der Maschine zu betrachten ist. Hierauf zeigen unter anderen Beispielen das Fuhrwerk, [p. 185] die Turbine, das landwirthschaftliche Maschinenwesen, die Zahnräder, Uferkrahne, die Mühlwerke, die Dampfmaschine selbst, aufs Deutlichste, „dass die Kraftschlussbeschränkung wesentlich das Mittel gewesen ist, die Maschine geeignet zu machen, den ihr zugewiesenen Antheil an der Aufgabe besser zu erfüllen ". In Folge des Bestre bens, die Nothbehelfe der ersten Versuche in sicher wir kende Elementenpaare und einfachere Getriebe überzufüh ren, wurde der Antheil der Maschine ein grösse rer Bruchtheil der ganzen Aufgabe und rief die Erfindung neuer Mechanismen hervor. Das mannigfaltige Kraftschlusswerk, welches an diesen, namentlich von reinen
+
+Empirikern erfundenen, Maschinen haftete, schwand als Uebergangsstufe zum Theil unter der Hand des geübten Constructeurs. Hierbei war das unausgesetzte Verbessern durch möglichsten Ersatz des Unsicheren durch Sicheres, also des Kraftschlusses durch Paarschluss, der Grundzug der älteren Maschinenperiode. Im Gegensatz hierzu ist der Charakter des modernen Maschinenwesens das mit unter „wie mit einem scharfen Klang einsetzende Auf kommen von sofort sehr vollkommenen Maschinen".
+
+Die Betrachtungen, welche Reuleaux hier an seine Darstellung des inneren Wesens der Maschine knüpft, ge statten einen tieferen Blick in die grossartige Auffassung seiner Wissenschaft, deren bisher ungeahnte innere Be ziehungen zu den höchsten Aufgaben der Geschichte zu überraschenden Einsichten erschlossen werden.
+
+Und zwar geschieht dies in einer schwungvollen Darstellung, welche verräth, dass die Behandlung eines sonst trockenen und kühl lassenden Gegenstandes unter der Weihe eines tieferen Ein blicks in Kunst und allgemeine Wissenschaft gestanden hat. Das Grosse an diesem Buche ist eben, dass es, um es [p. 186] kurz auszudrücken, einer Metaphysik der Maschine das Wort redet. Durch das Rasseln und Klappern, Aechzen und Stampfen von Rädern, Walzen und Hämmern, durch das Summen und Schwirren des Spinnstuhls, durch den Pfiff der Locomotive und das Ticken des Telegraphen hindurch vernehmen wir eine Mahnung, dass auch in diesen an ein organisches Vorbild erinnernden Mechanismen das menschliche Wesen sich selbst gegenständlich geworden ist.
+
+Wir bewundern das Verständniss des Verfassers für das Walten des Unbewussten auch in der Genesis der
+
+Industriewelt, dessen Verkenner eine stillschweigende Ab weisung erfahren, indem er sagt: „Nicht übersehen dürfen wir, dass bisher die all gemeine Entwickelung der Maschine gewissermaassen unbewusst bewirkt worden ist, und dass diese Unbewusstheit der älteren Erzeugungsweise einen besonderen Stempel auf drückt, ja sie dem scharfen Verständnisse sogar entzogen hat. Daneben aber steht heute diejenige Erzeugungsweise der modernen Maschine, welche von vornherein in den oben erwähnten sehr geübten Händen liegt. Hier ist schon Manches, wenn auch nicht gerade Vieles, klar und ab sichtsvoll erfasst!
+
+Hier sehen wir nicht sowohl alte mangelhafte Vorrichtungen verbessern, als vielmehr neue Einrichtungen fertig ins Leben setzen.“ Wie in diesem, so giebt er in manchem anderen Falle
+
+Zeugniss von einer merkwürdigen Spürkraft für die, je nach der Einwirkung unbewussten Dranges oder bewusster Ueberlegung, verschieden vor sich gehende Ausbildung der Maschine. So heisst es bezüglich der langsamen Er zeugungsweise der ersten Maschinen: „Deshalb sind die ersten Maschinen, die aus der ungeübten Hand des Men schen hervorgingen, solche, bei denen die Kraft eine unter [p. 187] geordnete Rolle spielte, indem sie die gleichsam unbewusst geübten Anstrengungen der Glieder nicht über stieg.“ Und ferner: „Die Theorie des Maschinenwesens giebt den Nachweis von dem Zusammenhang der Resultate verschiedener Denkprocesse auf einem Felde, auf welchem man unbewusst, aber deshalb aufUmwegen und langsam, nach Gesetzen verfuhr, denen man sich, eben weil sie wahre Gesetze sind, nicht entziehen konnte.“ Die Ana lysirung der Maschine erörternd, bemerkt er: „Die Analyse hat zu dem leitenden Gedanken geführt, welchem die sämmtlichen Erfinder und Verbesserer von Maschinen un bewusst, ahnungslos gefolgt sind.“ Auch sonst ist über all da das Unbewusste gemeint, wo das Erfinden auf eine Art Offenbarung, als Folge höherer „Eingebung“ , auf „das Genie in seiner Gedankenwerkstatt" , auf „eine häufig dunkel gebliebene Induction“, auf „Gefühl und Instinct“ zurückgeführt wird. Diese Stellen über das Unbewusste mögen den von uns gewählten Ausdruck „Metaphysik der Maschine" erläutern helfen. Dieselben haben, da sie unmittelbar aus den Untersuchungen über das specielle Fach her vorgegangen sind, ausser aller Bezugnahme auf die Philosophie des Unbewussten, für diese um so mehr den nicht zu unterschätzenden Werth unbefangener Uebereinstimmung und objectivster Bestätigung. Behalten wir demnach das im Kraft- und Paarschlüs sigen aufgedeckte Princip der Maschinenentwickelung im Auge, suchen wir im allgemeinen den Kraftschluss auf Seiten des unbewussten Findens, den Paarschluss auf Seiten des bewussten Erfindens, wird, nach Reuleaux's ausdrück licher Behauptung, in der Maschine die Gegnerschaft von Paarschluss und Kraftschluss niemals eigentlich erlöschen, beruht hierauf der Begriff des Mechanismus, welcher [p. 188] nimmermehr die Controle von Hirn- und Handkraft des Menschen entbehren kann, ist die Maschine das Abbild der lebendigen organischen Regel in todter mechanischer
+
+Formel: so stehen Psychologie und Physiologie vor der Aufgabe, das Princip, welches eine Culturwelt schafft, auch als der Menschennatur immanent nachzuweisen, und zwar auf Grund der Einsicht, dass das, was Gegnerschaft ist in der Aussenwelt, sich löst in dem monistisch vermittelten Unterschiede der Erscheinungsform unserer inneren
+
+Welt. So mögen denn Kraftschluss und Paarschluss in Zukunft ihre psycho-physische Würdigung finden, indem der in der Culturwelt vorhandene machinale Gedanke in der erklärenden Rückbeziehung auf seinen Urgrund neue Schlaglichter auf das Wesen der menschlichen Seele und auf die Geisteswelt überhaupt zu werfen berufen ist. Die erhabene Warte für eine weite Rundschau ist er richtet. Unter Beziehung auf die an sich unabhängig von einander wirkenden kosmischen Kräfte und auf die der Ein wirkung eines Motors entgegenwirkenden, im Bestand der Maschine verborgenen Molecularkräfte, sowie mit der Erinnerung daran, dass der Kraftschluss die Form ist, in welcher ein Rest kosmischer Freiheit den machinalen Systemen beigemengt ist, wird auf das Uebergangsgebiet hingedeutet, welches aus dem ideal machinalen System in das kosmische überleitet. Fügen wir hinzu, dass dem Kosmos der Mikro kosmos eingeboren ist, und dass der Mensch selbst, wie er leibt und lebt, das ideal machinale System darstellt! Mächtige Anstösse zu dieser Erkenntniss enthält die Betrachtung über die dem inneren Wesen der Maschine parallelen Erscheinungen, namentlich auf dem Gebiete der menschlichen Gesittung, deren verschärftes Gegenbild die Entwickelung des Maschinenwesens dadurch ist, dass diese [p. 189] mit kunstvoller Einengung der Bewegung die Kräftewirkung auf ein einziges beabsichtigtes Ziel hinzwingt. Das Verhältniss von Bewegung und Kraft ist im all gemeinen schon berührt worden.
+
+Hier kommt es bei
+
+Besprechung der „Antriebe zur Entwickelung der Maschine" als Bedürfniss der Bewegungserzeugung und als Kraft bedürfniss abermals in Betracht. Abgesehen davon, welches von beiden sich ursprünglich früher geltend gemacht hat, überwiegt, je nachdem sie, mehr oder weniger geeint oder getrennt, später ineinander oder nebeneinander her laufen, in der einen Maschinengattung die Kraftfülle, in der anderen der Bewegungsreichthum: „Das Kriegs- und das Bauwesen, überhaupt die Lastenbeförderung drängten auf Vergrösserung der geleisteten Kräfte; die Manufacturen, die Zeitmessungs- und andere Instrumente forderten die Bereicherung der erzielten Bewegungen.“ „Bevor der Mensch die kosmischen Kräfte als Motoren für seine Zwecke individualisiren kann, müssen sie durch Beobachtung und Naturforschung von der Gesammtheit der begleitenden Erscheinungen unterschieden oder entdeckt sein. Wie daher Kraft- oder Bewegungserzeugung, so gehen
+
+Entdeckung und Erfindung Hand in Hand und „der Ent deckung jeder neuen Kraftquelle schliesst sich die Erfindung der Mittel, sie zu verwerthen, an“ . Dass in der Ablösung des Kraftschlusses durch den kinematischen Schluss überall der Kerngedanke, die inner lichste Leitlinie des Fortschrittes liegt, in diesem Verständniss vor Allem erkennt Reuleaux die Aufgabe der polytech nischen Schulwissenschaft. Vermöge der auf sie gerichteten
+
+Studien werde es gelingen, für den Maschinenbildner das Gemeingefühl mit der Gesammtheit der ganzen praktischen Mechanik und darüber hinaus mit der Gesammtheit der [p. 190] menschlichen Thätigkeit überhaupt theils festzuhalten, theils wieder herzustellen und die dem populären Feldgeschrei „Theilung der Arbeit“ folgende, alles Maass überschreitende Theilung des Wissens auf die Grenzen zu beschränken, inner halb deren es möglich bleibt, die getheilten Gebiete unter Leitung des Entwickelungsgedankens, in welchem die Stärke der heutigen Wissenschaft liege, immer wieder zusammen zufassen und auf höhere Einheiten zurückzuführen.
+
+Auf dem bisher verfolgten Entwickelungsgang der Maschine von den niederen und höheren Elementenpaaren hin durch bis zur kinematischen Kette ergiebt sich eine solche Formenfülle und Mannigfaltigkeit der abgeleiteten und ab leitbaren Fälle, dass sowohl die Uebersichtlichkeit als auch die sprachliche Feststellung der einzelnen Eigenthümlich keiten immer schwieriger wird. Diesem sehr fühlbaren
+
+Uebelstand wird abgeholfen durch eine „kinematische Zeichensprache“ , deren Anwendung, nachdem ihr durch die wissenschaftliche Feststellung der Begriffe vor gearbeitet worden ist, den Vorgang der Mathematik und nach ihr den der Chemie für sich hat.
+
+Dergleichen literale und semiotische Abbreviaturen sind um so zweckmässiger, je mehr deren stenographischer Charakter sich an die schon gebräuchliche internationale wissenschaftliche Terminologie anschmiegt. Der Leser muss beim Studium dieser sofort im Verlaufe der „theoretischen Kinematik“ in Betrieb gesetzten Zeichensprache die Ueber zeugung gewinnen, dass hier ein äusserst geschickter kine matischer Wurf gethan worden ist. Was Reuleaux selbst dem Maschinenbildner als Erfinder zumuthet, davon ist seine Erfindung der neuen Zeichensprache ein eben so be lehrendes als unterhaltendes Analogon: „Man erspart sich dadurch das jedesmalige Zurückkommen auf bereits de [p. 191] finirte Eigenschaften und gewinnt wegen der Knappheit des Ausdrucks Urtheile über den Zusammenhang und die Gegenseitigkeit der verbundenen Ganzheiten, welche bei der gewöhnlichen Ausdrucksform kaum erhaltbar und namentlich kaum mittheilbar sind.“
+
+So hat die Untersuchung selbst sich ein Werkzeug hergestellt, womit sie in den nun folgenden Abschnitten die Pfade durch das Dickicht der „kinematischen Analyse“ lichtet, und lässt die Erfindung der Zeichensprache den Beweis der Brauchbarkeit im ferneren Verlaufe gerade der Untersuchungen liefern, aus denen sie aufgetaucht ist. Die früheren kraftschlüssigen Wildlinge unter andern des Engländers C. Babbage „A Method of Expressing by Signs the Action of Machinery“ - sind also auch auf diesem Gebiete, sofern ein anspielender Vergleich gestattet ist, paarschlüssig bestens abgelöst. Was die eben erwähnte kinematische Analyse betrifft, so besteht deren Aufgabe in der Zerlegung einer kinematischen Vorrichtung in diejenigen Theile, welche kinematisch als Elemente anzusehen sind, und in der Feststellung der Ordnung, in welcher dieselben zu Ele mentenpaaren und kinematischen Ketten zusammentreten. Indem Reuleaux auf diesem umfangreichen Gebiete eine Reihe solcher Untersuchungen in Angriff nimmt, beginnt er mit den sogenannten einfachen Maschinen oder mechanischen Potenzen, Hebel, Schiefebene, Keil, Rolle, Radwelle und Schraube, von denen nur der Hebel, die Schiefebene und die Schraube als Elementen- oder Um schlusspaare gelten dürfen, und vertieft sich mit staunens werther Gründlichkeit in das grosse Gebiet der Kurbel getriebe, der Kurbelkapselwerke, der Kapselräderwerke und der baulichen Elemente der Maschine.
+
+[p. 192] In wie weit in dieser Schule der angewandten Theorie die Kinematik insofern Probe bestanden hat, dass infolge davon das Erfinden im bisherigen Sinne durch ein wissen schaftliches Entwickelungsverfahren ersetzt werden könne, darüber möge die Kritik der Fach- und Sachkundigen sich verständigen. Unsere Besprechung hat sich ihrer von vornherein geäusserten Absicht gemäss auf die Hervor hebung derjenigen Punkte zu beschränken, um welche neue allgemein wissenschaftliche Beziehungen sich grup piren, und wendet sich zu dem Capitel über „die Ana lysirung der baulichen Elemente der Maschine“ . Dies ist die zugänglichste Partie für das allgemeine Verständniss, in welcher auch der Nichtfachmann sich zu orientiren vermag, da er das bisherige Gemisch von kine matisch sehr verschiedenen Dingen, womit er im gewöhnlichen Leben der Form und dem Namen nach bekannt geworden ist, in übersichtlicher begriffsmässiger Neuordnung von drei Reihen vor sich hat, und zwar als: starre Elemente, bildsame Elemente und Getriebe. Die starren Elemente sind entweder Verbindungen (Gliedbildungen): Nieten und Nietungen, Keile und Keilver bindungen, Zwängungsverbindungen, Schrauben und Ver schraubungen; oder Elemente gepaart und zu Gliedern verbunden: Schraube und Mutter, Zapfen, Lager,
+
+Achsen, Wellen, feste Kuppelungen, einfache Hebel, Kurbeln, zusammengesetzte Hebel, Pleuelstangen, Querhäupter und
+
+Führungsgleise, Reibungsräder, Zahnräder, Schwungräder. Die bildsamen Elemente sondern sich in Zugkraft organe und deren kettenschlüssige Verwendung: Riemen, Riemenbetrieb,
+
+Seile, Seiltrieb,
+
+Ketten, Kettentrieb; in
+
+Partner der Druckkraftorgane: Röhren, Kolben röhren, Kolben, Stopfbüchsen, Ventile; und in Federn:
+
+[p. 193] Zugfedern, Druckfedern, Biegungsfedern, Drehungsfedern, Strebefedern.
+
+Die Getriebe bestehen aus den einfachsten Sperr werken, Bremswerken, lösbaren und beweglichen Kuppe lungen.
+
+Die drei Schliessungsweisen, welche den Uebergang zur Analysirung der vollständigen Maschine bilden, sind: Die normale zwangsläufige, bei der alle Relativ bewegungen der Glieder bestimmt sind; die unvollständige oder zwanglose, bei der die Relativbewe gungen zwischen den Gliedern unbestimmt sind; und die übermässige Schliessung, welche die gegenseitige Bewegung der Glieder aufhebt. Die unverkürzte Mittheilung dieser Uebersicht der baulichen Elemente der Maschine hat den Zweck, an wenig stens Einem Beispiel eine allgemeine Vorstellung davon zu geben, dass das genetische Verfahren wie in allen Partien des Buches, so auch hier sogar in einer scheinbar trocknen Folge von Namen kenntlich ist. Denn dergleichen Ueber sichten müssen, soll ihnen anders der Vorzug innerer
+
+Folgerichtigkeit eingeräumt werden, als Theile dem das Ganze durchwaltenden Entwickelungsgedanken entsprechen, wie das Blatt der zugehörigen Pflanze. So ist denn mit obiger Neuordnung die schwierige Aufgabe, „in den ver wickelten Bildungen der einzelnen Theile das unverrückbar Gesetzmässige aufzufinden und dasselbe von dem Zufälligen zu scheiden“ , als gelöst zu betrachten. Der Baumeister, welcher ein Haus aufführen will, hat an dem Stück Papier mit der Planzeichnung das ganze Haus mit Allem, was der Bau erfordert, den Grund und Boden, das verschiedene Material und dessen Formirung, die Kraftleistung von Menschen, Thieren und technischen
+
+[p. 194] Vorrichtungen, die Bezugnahme auf Witterung und Jahres zeit, auf Sonne, Luft, Licht und hundert andere Dinge und Rücksichten zugleich im Kopfe und geht daher immer von einem Ganzen aus, bevor er sich mit der Prüfung des Bedarfs, mit der Inangriffnahme und Fortsetzung des Einzelnen befasst. Das Resultat der in die Gestaltung des Rohmaterials umgesetzten physischen Arbeit ist dasselbe ganze Haus, das schon im Anfang in seinem Geiste da war, natürlich jedoch in äusserer sinnlicher Gegenwart. Auch beim wissenschaftlichen Verfahren kommt am Ende der Untersuchung stets wieder heraus was im Anfang war, allerdings aber vermehrt um die Zugabe der langen geistigen Operation. Dort das Haus, wie es auf dem Papier steht, und das Haus, wie es auf dem gemauerten Fundament ruht; hier ein Denkstoff, wie er als offene
+
+Frage vorliegt, und derselbe Denkstoff, wie er am Schluss einer begrifflichen Entwickelung als wissenschaftlicher Aus bau kenntlich wird!
+
+In derselben Weise vollzieht denn auch Reuleaur, in dem er vor der Analysirung der vollständigen Maschine steht, „den Kreislauf, welchen wir im ersten Capitel begannen, wo wir von der vollständigen Maschine ausgehend, die Zergliederung derselben vornahmen, um die Maschine von denjenigen Gesichtspunkten aus zu unter suchen, welche wir als dem kinematischen Gebiete ange hörig erkannt haben“ .
+
+Zunächst wird die Haltbarkeit der bisher gebräuchlichen Auffassungsweise geprüft, wonach der Inhalt der vollständigen Maschine in drei Gruppen zerfällt: Receptor,
+
+Transmission und Werkzeug. „Der Receptor ist der jenige Theil, auf welchen die bewegende Naturkraft un mittelbar einwirkt und demselben die zur Verfügung kom [p. 195] mende mechanische Arbeit überträgt; das Werkzeug giebt die Arbeit in geeigneter Weise an den zu bearbeitenden Körper ab; zwischen Receptor und Werkzeug, deren Bewegung in der übergrossen Zahl der Fälle nicht überein stimmt, befindet sich als Bewegungsvermittler die Trans mission .66" in einer Die Prüfung ergiebt, dass alle drei Kategorien Maschine vorkommen und klar nachweisbar sein können, dass sie aber als „zufällige Angehörig keiten“ nicht logisch als wesentliche Theile zu bezeichnen sind. Denn es wird nachgewiesen, dass an gewissen Maschinen ein Werkzeug entweder nur undeutlich erkennbar oder gar nicht vorhanden ist, dass ferner Receptor und Wasser, Wind, Dampf, Gase anderer Art, Ge Motor wichte, Federn, belebte Wesen – stets eine kinematische Paarung oder Verkettung eingehen, in welcher der eigentliche Receptor schwer zu bezeichnen ist, und dass endlich in anderen Fällen die Begriffe der Transmission und des Werkzeugs sich bis zur völligen Undeutlichkeit vermengen. So ist an der Dampfmaschine ein Werkzeug nicht zu ent decken; so wird, wenn nach Wegnahme des Uhrgewichtes die Schnur oder die Kette um den Betrag der Schwere, den das Gewicht hatte, verlängert und die Uhr durch die Schnur allein weiter betrieben wird, das Gewicht nicht Motor sein können, die Schnur aber auch nicht Receptor, da sie ihre Qualität nicht verändert hat; so auch ist beim Faden des Spinnstuhls unentschieden, wo die Transmission aufhört und wo das Werkzeug beginnt. Dagegen führt die Erwägung, dass Maschinen ohne Krahn, Locomotive, Erkennbarkeit eines Werkzeugs Dampfboot, Uhr - stets die Aufgabe haben, eine Orts veränderung, einen Transport zu bewirken, und dass ferner solche Maschinen, an welchen sich thatsächlich ein 13 *
+
+[p. 196] Drehbank, Hobelmaschine, Schrau Werkzeug vorfindet benschneidmaschine, Bandsäge u. s. w. –, die Eigenthüm lichkeit haben, die zu bearbeitenden Körper einer Form veränderung zu unterwerfen. Abgesehen nun davon, dass bei etlichen dieser Maschinen die Umformung zugleich mit Transport verbunden ist, wie z. B. die Mühle den Körper transportirend gleichzeitig in Theile zerlegt, sondert Reuleaux die Maschinen hinsichtlich ihrer Zwecke in zwei grosse Classen, nämlich in Maschinen für die Orts änderung, ortsändernde oder transportirende Maschinen, und in Maschinen für die Formveränderung, form ändernde oder transformirende Maschinen.
+
+Hiermit wäre der nach Receptor, Transmission und Werkzeug gebräuchlichen Dreitheilung des Inhalts der voll ständigen Maschine das Urtheil gesprochen. Wenn nun dieser Wahrspruch mit dem Zusatz ergänzt wird: „Somit ist der Begriff des Werkzeugs nicht ein eigentlicher Stamm begriff der Maschine, sondern nur ein zufälliges Merkmal derselben, und kann daher als Grundlage des Verständnisses der vollständigen Maschine nicht dienen " , so ist der Begriff „Werkzeug“ , weit entfernt hierdurch degradirt zu sein, von einer die Deutlichkeit des Maschinenbegriffs schä digenden Verbiegung erlöst. Denn auf seinen Ursprung zurückbezogen ist „Werk zeug“ in seiner Eigenschaft als Handwerkzeug nicht nur die erste Möglichkeit der Maschinenbildung, sondern es umfasst sogar in seiner weitesten Bedeutung von Mittel und Werkzeug, vom Gesichtspunkt der Vermittelung der Culturzwecke und der Werk - Zeugung überhaupt, sammt und sonders alle Maschinen mit und ohne besondere Werk zeugvorrichtungen. In diesem Sinne ist die Locomotive, an welcher ein besonderes Werkzeug nicht vorhanden ist, als [p. 197] ganze Maschine ein Werkzeug. So ist die freie Auffassung des Werkzeugbegriffes als allgemeiner Culturmacht gegen jede Einengung gesichert. Es ist wohl nur dem Streben nach angemessener Beschränkung seiner ohnehin so umfangreichen Untersuchungen zuzuschreiben, dass Reuleaux das Handwerkzeug von den Anfängen der Maschinenbil dung gänzlich ausgeschlossen hat. Wo wäre denn auch die Grenze gewesen? Weist ja doch das Handwerkzeug hinwiederum in seiner Entstehung auf die Hand selbst zurück, welche schon bei den Alten als „Werkzeug der Werkzeuge“ bezeichnet ward, ein Ausdruck, dessen sinnige Verschlingung der Begriffe von Organ und Werkzeug ooyovov tõv ógyárov - , in weiterer Ausdeutung dieser Be ziehungen, die Verwandtschaft eines lebendigen organischen Vorbildes mit seinem leblosen mechanischen Nachbild, eines Organs und seiner technischen Fortsetzung, auch der primitiven Formgebung nach durchscheinen lässt.
+
+Bei der Analysirung der vollständigen Maschine kommt die Menschenhand selbstverständlich nach einer hiervon verschiedenen Richtung in Betracht. Sie fügt sich nämlich dem Maschinengetriebe als Organ ein, ja es betheiligt der Arbeiter, z. B. am Spinnrad oder am Schleifstein, seine Gliedmaassen unter der Leitung der Willenskraft derart an dem Getriebe, dass er seinen organisch arbeitenden Körper als ein für sich bestehendes kinematisches Getriebe mit der leblos arbeitenden Maschine in geschlossene kine matische Verkettung setzt.
+
+Die durch Menschenhand und
+
+Thierkraft betriebenen Maschinen sind hiernach als „voll ständige Maschinen anzusehen und brauchen von den durch Elementarkraft betriebenen nicht getrennt zu wer den“ .
+
+Denn in allen Fällen tritt der Motor als Glied in die kinematische Kette ein, entgegen der älteren
+
+[p. 198] Auffassung, welche ihn als ausser der Maschine stehend ansieht.
+
+Von besonderer Wichtigkeit sind diejenigen Maschinen, welche, wie die Dampfmaschine, das Wasserrad, die Turbine, als Motoren zum Betrieb mannigfaltiger anderer Vaschinen dienen. Sie sind unter der Benennung Kraft maschinen als eine Gattung für sich bestehender voll ständiger Maschinen bekannt. Vollständig sind ebenfalls alle theils orts- theils formändernde Maschinen, welche, für den Betrieb durch eine Kraftmaschine passend ein gerichtet, Arbeitsmaschinen genannt werden. Was nun den Menschen „in seiner Eigenschaft als Arbeitsmaschine“ angeht, so lassen die von Reuleaux be handelten „Beispiele zur beschreibenden Analysirung voll ständiger Maschinen“ erkennen, dass die Mitwirkung des Menschen an den Maschinen in demselben Grad verringert wird, wie die Unabhängigkeit der Maschine zunimmt, und dass die vollkommenste oder vollständigste Maschine schliesslich die sein wird, bei welcher der Mensch nur das Einleiten und Abbrechen des machinalen Processes zu be wirken hat. „Diesem Gipfelpunkte der Vervollkommnung strebt die Maschine im allgemeinen sichtlich zu, ja hat sich demselben stellenweise schon auf Sehweite genähert.“ Die Annäherung der Maschine an dieses Ziel ist nach dem Zusammenhang ihrer Entwickelung mit der Gesammt heit der Cultur von höchster Bedeutung für die Gesellschaft.
+
+Mit diesem Thema befasst sich der Schluss der Analysirung der Maschine. Die Ausbeutung der fast unbegrenzten Kraft des Dam pfes durch Grossmaschinen hat Massenarbeiten in kolos salen Fabrikgebäuden möglich gemacht, welche nur durch Arbeitermassen bewältigt werden können.
+
+In dem Kampf [p. 199] der an den Fabrikcentren haftenden Licht- und Schattenseiten, nämlich Wohlfeilheit der Producte der Nutzin dustrie, grossartige Aufschliessung und Verwerthung der Bodenschätze einerseits, Entwerthung des Familienlebens,
+
+Vertheuerung der nothwendigsten Lebensbedürfnisse und auffallende Abnahme der Handgeschicklichkeit andererseits, bewegt sich die Arbeiterfrage. Indem die Dampfmaschine mit der Grösse ihre Kraft steigert, so nimmt vermittels ihrer die leichtere Herstellung der Wasserkraftmaschinen und der Kraft- und Arbeitsmaschinen überhaupt zu. „So wird diese eine Kraft maschine, die Dampfmaschine, die Mutter einer Legion von Arbeitsmaschinen, damit aber auch
+
+Herrin der Situation.“
+
+Daraus ergiebt sich, dass gerade da, von wo der Conflict zwischen Capital und Arbeit aus gegangen war, auch das Heilmittel liegt. Steht die Gross maschine unter der Garantie des Capitals, so werden da gegen die kleinen Arbeitsmaschinen mit verhältnissmässig geringen Kosten zu beschaffen sein. Es eröffnet sich die Aussicht, dass die Thätigkeit der Kleinmeister lohnend wieder aufleben, und dass die Hausindustrie neue Nah rung finden wird. „Schon bieten sich den Kleingewerken kleine Kraftmaschinen dar, vor allen die Gaskraftmaschi nen, die Heissluftmaschinen, die kleinen Wassersäulenma schinen und, im Stadium eines vielversprechenden Versuches, die Petroleumgasmaschinen.“ Reuleaux nennt die kleinen Motoren die wahren
+
+Kraftmaschinen des Volkes und versichert, dass die Luft- und Gasmaschinen, da sie jetzt schon beträchtlich billiger arbeiten, der Dampfmaschine erfolgreiche Concur renz machen können.
+
+Er rechnet sie zu den wichtigsten aller neueren Maschinen und findet in ihnen „die Keime [p. 200] zu einer völligen Umgestaltung eines Theiles der Industrie“ . Schon liegen vielversprechende praktische Erfolge vor.
+
+Innerhalb des Verlaufs dieser Umgestaltung ist die Arbeiterbewegung ein Moment, d. h. ein treibendes, und wenn es seine Dienste gethan, wieder verschwindendes Fortschrittsmittel. Wir erhalten damit die Ueberzeugung, „dass nicht im Princip der Maschine selbst ihre zu Tage getretene Feindseligkeit gegen das Menschenwohl enthalten ist“ . Die aufs Höchste gespannte Centralisirung der Arbeit war vorübergehend nothwendig zum Zustande bringen zahlreicher und billiger Arbeitsmaschinen für den Kleinmeister und wird von selbst allmälig auf das gesunde
+
+Maass zurückgehen; denn die wahre Decentralisation ist nicht Zerstörung des Centrums, sondern Herstellung der
+
+Gleichgewichtsbeziehung zwischen Centrum und Peripherie, zwischen der cyclopischen Grossmaschine und den zer streuten kleinen Arbeitsmaschinen. Beider Existenz wird in Zukunft gegenseitig verbürgt sein, insofern jene eben so unentbehrlich ist für den unberechenbar wachsenden Be darf an Kraftmaschinen, wie die Herstellung dieser unentbehrlich ist für den Betrieb jener. Aus der Absorbirung der Hausindustrie und der Häuslichkeit durch die Gross industrie entsprang die Gefahr. In der Neubelebung der Kleinmeistergewerbe durch machinale Befruchtung wird die Ausgleichung erfolgen und damit der grosse Fortschritt auf eine höhere Stufe der Gesittung gethan sein. Die Aufgabe der Dampfmaschine für den Transport in der Bergwerksindustrie wie auf Eisen- und Wasser strassen wird einer wesentlichen Veränderung nicht aus gesetzt sein, da die Maschinenkraft in diesen Fällen eine Theilung nicht verträgt, wo sie nur in ihrer Ganzheit und [p. 201] Grösse Erfolge zu erzielen vermag. Dieselbe Machtdauer ist der Dampfmaschine verbürgt, wo es die Herstellung anderer grosser Maschinen gilt, und überhaupt da, wo zugleich dem Opfer an Leben und Gesundheit genügende Schranken gesetzt werden. Dagegen wird den misslichen Zuständen auf dem ausgedehnten Gebiete der Textil- und Faserstoffindustrie ein Ende gemacht werden durch die un ausbleibliche Lockerung einer zu starren Concentrirung. Die Extreme der Anhäufung von Lebenssäften auf Einen Arbeitspunkt und die Verödung auf allen übrigen laufen hier wie dort schliesslich stets auf Verkümmerung hinaus. Das heilsame Gleichgewicht muss sich herstellen, wenn der Ueberfluss an Arbeitskräften in friedlicher Ab lösung theils der benachtheiligten Agricultur zurückgegeben, theils in die durch Arbeitsmaschinen regenerirten häuslichen Werkstätten übergeleitet sein wird. Die Dampfmächte, welche den socialen Sturm herauf geführt haben, sie allein können und werden ihn wieder beschwören. Allen, die da berufen sind, die schwüle Zeit frage vorurtheilsfrei zu betrachten, wird es im Lichte der Theoretischen Kinematik wie Schuppen von den Augen fallen, wenn es heisst: „Weise Beschränkung schuf den Staat, sie allein erhält ihn und befähigt ihn zu den grössten Leistungen; Beschränkung hat uns in der Maschine allmälig die gewaltigsten Kräfte unterworfen und lenk sam an unsere Schritte gefesselt.“
+
+Hatte die Analysirung der Maschine die Eigenschaften des Bewegungszwanges kennen gelehrt, welche die aus ge gebenen Elementenpaaren, kinematischen Ketten und Mechanismen gebildeten Verbindungen besitzen, so hat die Kinematische Synthese, welche den Schlussstein des [p. 202] Lehrgebäudes bildet, „diejenigen Elementenpaare, Ketten und Mechanismen anzugeben, durch deren geeignete Verbindung sich ein Bewegungszwang von gegebener Art ver wirklichen lässt“ . Es wird diese Aufgabe als die bedeutendste deshalb bezeichnet, weil sie sich mit der Schöpfung neuer Maschinen, also mit der Fortentwickelung des Ma schinenwesens als Ziel befasse. Doch solle die Synthese in der angewandten Kinematik eines der Untersuchungs mittel, nicht aber der Kanon der Behandlung der Auf gaben sein.
+
+Die nun noch folgende mit zahlreichen Beispielen erläuterte Umschau auf dem synthetischen Gebiete führt zu der wichtigen Entdeckung, dass die Haupterfolge des Maschinenwesens sich auf eine ziemlich kleine Anzahl kine matischer Ketten concentriren, und dass daher das Gebiet der kinematischen Probleme nicht unübersehbar ist.
+
+Der Schluss des genialen, die Erkenntniss der wahren Bildungsgesetze der Maschine behandelnden Werkes drückt die Ueberzeugung aus, „dass das Viele, welches geleistet wer den soll, mit wenig Mitteln geleistet werden kann, und dass die Gesetze, nach welchen dies zu geschehen hat, unserer Erkenntniss offen liegen " , eine Hindeutung auf das Verhältniss ursprünglicher Zugehörigkeit, worin jedes Ma nufact zum organischen Factor steht! Wenn nun Reuleaux das die Maschine betreibende organische Wesen eine vollständige Maschine nennt, so ist der Ausdruck nicht buchstäblich gemeint, sondern nur ein augenblicklicher Erklärungsnothbehelf der Sprache. Denn diese greift oft zu Vergleichen, entweder, wenn um der Kürze willen einer umständlichen Definition ausgewichen werden soll, oder wenn, da nach Jean Paul's Ausdruck das Ma schinenmässige Jedem näher und anschaulicher ist als sein
+
+[p. 203] Inneres, von der mechanischen Einkleidung organischer
+
+Beziehungen nicht wohl ganz abzusehen ist. Der dort vorübergehend auf das organische Wesen gefallene Schatten verschwindet sofort mit der von Reuleaux gestellten Forderung, dass die Maschinenlehre „das machinale Eingreifen der Menschenhand bei Fertigstellung des Erzeugnisses der Maschine, also auch das Studium des lebendigen Wesens in seiner Eigenschaft als Arbeitsmaschine nicht unbeachtet lassen dürfe“ . Indessen will er damit zu einer derartigen Erweiterung des Gebietes der Maschinenlehre nicht aufgefordert haben. Doch scheint es, dass der blosse Gedanke einer solchen Erweiterung nach dieser Richtung eigenthümliche psychologische Entdeckungen in Aussicht stellt.
+
+Was aber immer seine Entstehung der menschlichen Organthätigkeit verdankt, trägt unvermeidlich den Stempel des gerade als Organthätigkeit und nicht anders erscheinenden Geistes.
+
+Alle Urmaschinen waren nach Reuleaux „von Menschen witz ausgedacht, mitunter von recht besonderem, da man sie als Göttergeschenke pries; sie waren aber immer aus gedacht durch den Denkprocess, der irgend welche Stufen durchlaufen " . Ja, sie waren ausgedacht, aus der dem Denken im manenten Organfunction heraus, deren flüssige, lebendige
+
+Regeln und Beziehungen unbewusst in Form, Zahl und Gesetz der leblosen stofflichen Nachbildung fest geworden waren.
+
+Dieses ursprüngliche Begleitetsein der Maschinen bildung vom Unbewussten, das auch Reuleaux, wie wir gezeigt haben, bei so vielen Gelegenheiten betont, erklärt die Uebereinstimmung der Artefacte theils der Form nach [p. 204] mit einzelnen Organen, theils den kinematischen Vorgängen nach, je nach dem Unterschiede des organischen Sichselbst bewegens von innen heraus und des mechanischen Bewegt werdens von aussen heran.
+
+Vorausgesetzt die Beschränkung auf das Gebiet der Artefacte, gehört daher das Wort Kinematik (von xivro, das Bewegte) dem Mechanismus an, wie das von uns mehrfach gebrauchte Kinese (von xivnois, das Bewegen) dem Organismus. Diese Zerlegung des Begriffes der Bewegung in active und passive dürfte einer befriedigenden Erklärung des Verhältnisses von Organismus und Maschine wesentlich zu statten kommen. Indessen muss vorher die Frage erledigt sein, in wie weit die Organprojection dem aus Reuleaux’s Werk sich ergebenden Begriff der Maschine entgegen kommt, und vor allem, ob sich der Werkzeugbegriff, wie er von uns auf gefasst ist, mit dem Maschinenbegriff der theoretischen
+
+Kinematik verträgt oder nicht. Die Frage ist bejahend zu beantworten, sobald man die Ansicht festhält, dass die Maschine ebenso die Fortsetzung des Handwerkzeugs und überhaupt der Werkzeuge ist, wie diese die Fortsetzung der Hand und der Organe.
+
+Ob aus der drehenden Hand die Spindel, aus dieser das Spinnrad, aus dem Spinnrad der Spinnstuhl, ob aus den Körner zermalmenden Mahlzähnen die Mahlsteine des Wilden, aus diesen die Wind- und Wassermühle und demnächst die Dampfmühle hervorgehen und im Fort schritt zu vollständigen Maschinen sich von der unmittelbaren und dauernden Einwirkung der Hand entfernen der Zusammenhang bleibt, und wie nach einem geflügelten
+
+Wort jener Uebelthäter trotz alledem und alledem sich an den Rockschössen seiner Motoren festhält, so klammert [p. 205] sich die Maschine auch in ihrer höchsten Vollendung fort und fort noch an die Menschenhand. Sie ist von ihrem Ursprung getrennt nicht zu denken und hört ausser Zusammenhang mit demselben auf, Maschine zu sein. Jede Fortsetzung weist stets auf den Anfang zurück. Das kine matische Getriebe ist der reale Fortsatz der leibhaftigen organischen Kinese, welche Reuleaux als die lebendige Arbeitsmaschine von jener als der leblosen scharf unter scheidet.
+
+Die lebendige Arbeitsmaschine ist also, um einmal figür lich weiter zu sprechen, jedenfalls Maschine, aber sie ist die Maschine, welche vor allen durch Menschenhand ge bildeten Maschinen vorhanden war, die allgemeine Maschine, das allen besonderen Formen der Maschinentechnik gemein same Ur- und Musterbild, die leibhaftige Maschine, eine aus organischen Gliederpaaren bestehende kinetische Gelenk verkettung, kurz der leibliche Organismus oder die Ideal maschine, mit dem Willen als eingeborenem Motor für sie selbst, und als Universalmotor für die Gesammtheit der machinalen Erzeugnisse!
+
+Wo jedes Glied eines untheilbaren Ganzen ein ele mentares natürliches Werkzeug ist, da erscheint das Ganze als Gliederung. Die lebendige kinetische Gliederung des Organismus ist in machinaler Entäusserung kinema tische Verkettung von Stücken und Theilen.
+
+Während die geometrische Darstellungsweise der Bewegungen, deren Lehre die Phoronomie ist, an den Ma schinentheilen sichtbar wird, schliesst die organische Gliederung alle Geometrie aus. Wie das eine Stimmorgan des Menschen, das Vorbild der Orgel, die Möglichkeit aller einzelnen Orgeltöne ist, und wie jede einzelne Pfeife, je nach der mechanischen Ausprägung scalarer Anordnung, [p. 206] immer nur einen bestimmten Ton aus der Menge der im Stimmorgan vereinigten Töne hören lässt, so ist die eine kinetische Gliederung, der eine Organismus die Möglich keit aller einzelnen kinematischen Verkettungen der vorhandenen Maschinen.
+
+Jede einzelne Maschine ist daher von jeder anderen einzelnen sowohl nach ihrem materiellen Bestand, wie nach dessen besonderer geometrischer Formbestimmung unterschieden.
+
+Was der Arm, was die Gelenkkette der Gehörknöchel chen im Einzelnen und Kleinen, das ist die Gliederung des Organismus im Ganzen und Grossen. Was aber in der Gliederung als Möglichkeit vorhanden ist, das voll streckt und übersetzt die Hand in sinnliche Wirklichkeit von Zahl und Maass. Daher ist die Vielheit der Maschinen bildung die reale Verherrlichung der Universalität der einen Handfertigkeit. Alle Wunder der in Weltausstel lungen paradirenden „Maschinenarmeen“ stammen aus der Hand, weisen auf Manufactur zurück, und von ihr auf den Geist, der nach seinem, d. h. organischen, Vorbilde dem Finder wie dem Erfinder und jedem Arbeiter die folgsame Hand führt.
+
+Sie, die Hand, ist es, welche leblose Gestaltungen mit einem Schimmer von Menschlichen, die Maschine mit der Mitgift eines Seelenhaften ausstattet, in dessen Ueber schätzung dereinst La Mettrie das Buch L'homme machine verfasst hat.
+
+Nachdem es seit einem Jahrhundert bei den Todten geruht, ist ihm neuerdings unter der mächtigen Fürsprache von Albert Lange und vor allen von Du Bois Reymond, der verdiente Auferweckungsruf erklungen.
+
+Ohne hier auf die grosse Wahrheit und auf den grossen Irrthum in demselben näher einzugehen, wollen wir uns doch nicht versagen, unter Anführung einer eigen [p. 207] thümlichen Betrachtung Reuleaux's über das Wesen der Maschine dėm Leser das eigene weitere Urtheil über ein so verfehmtes Buch an die Hand zu geben.
+
+Reuleaux sagt:
+
+„So wie der alte Philosoph die stätige allmälige Ver änderung der Dinge einem Fliessen verglich, und sie in den Spruch zusammendrängte: د„و„روAlles fliesst“ , so können wir die zahllosen Bewegungserscheinungen in dem wunder baren Erzeugniss des Menschenverstandes, welches wir
+
+Maschine nennen, „ „Alles rollt“ .
+
+zusammenfassen in das eine Wort:
+
+„Für den praktischen Mechaniker, welcher sich mit der neueren Phoronomie vertraut gemacht hat, und mehr noch für den theoretischen, ist deshalb die Maschine auf besondere Art belebt durch die überall in jhr rollenden geometrischen Gebilde. Einzelne derselben treten leib haftig hervor, wie an den Riemscheiben, den Reibungs rädern, z. B. denjenigen der Eisenbahnen; andere, wie die der Zahnräder, sind leicht umschleiert von gitterartigen Hüllen; wiederum andere sind eng zusammengezogen auf das Innere massiger Körper, welche in ihrer Aussenform kaum etwas von jenen verrathen; noch andere endlich, wie die der aus Kurbeln und Gestängen gebildeten Mechanismen, sind ausgedehnte, die Körper weit umspannende, ja ihre Aeste ins Unendliche streckende äusserlich ganz unerkennbare Gebilde.
+
+Inmitten des oft sinnverwirrenden
+
+Geräusches ihrer körperlichen Vertreter vollziehen sie ihre geräuschlose Lebensfunction des Rollens. Sie sind gleichsam die Seele der Maschine, den körperlichen Bewegungsäusse rungen derselben gebietend und sie in einem reinen Lichte wiederspiegelnd. Sie sind die geometrische Abstraction der Maschine, und verleihen dieser neben ihrer äusseren [p. 208] eine innere Bedeutung, welche dieselbe unserem geistigen Interesse ungleich näher bringt, als es ohne sie möglich wäre.“
+
+Die Organprojection hat somit in der Maschine eine mächtige Bundesgenossin gefunden. Denn die Entwickelungs geschichte der Maschine als eine der Strahlungen des all gemeinen Entwickelungsgedankens, dessen Wissen schaffende Macht heute mehr als je der philosophischen Forschung
+
+Halt und Richtung giebt, steht mit Leib und Seele des Menschen in engster Beziehung. Die machinale kinematik ist die unbewusste Uebertragung der organischen Kinese ins Mechanische und das Verstehenlernen des Originals mit Hülfe der Uebersetzung wird bewusste Aufgabe der Erkenntnisslehre!
+
+XI.
+
+Die neue Lehre von den Proportionen des menschlichen Körpers; der Goldene Schnitt; Herkunft und Erklärung. Die Vertretung der Lehre seitens der Kunst, Philosophie und Naturwissenschaft. Das Grundgesetz nimmt die volle menschliche Gestalt in Anspruch.
+
+culatur constituiren eins das andere. oder Charakter,
+
+Das Knochengerüst und die Mus
+
+Symmetrie, Proportionalität, Ausdruck
+
+Die Einschlussfigur der aufrechten menschlichen Gestalt.
+
+Proportionale Theilungsstelle und Grenzen ihres Spielraumes. Der Goldene Schnitt als Maass, Gleichmaass und Ebenmaass. Der mystische Beigeschmack. Unterschied von Maass und Maassstab. Prüfung des Grundverbältnisses an der Gliederung. Arm und Hand. Handwerk und Kunsthandwerk. Die amerikanische Axt, Typus eines vollkommenen Handwerkzeuges. Das Ma nufact ein Artefact. Physiologische Resultate. Die Inzahl und die Anzahl, Princip aller organischen und mechanischen Bildungen. Die Violine als Typus eines vollkommenen Instrumentes aus der Sphäre des Kunsthandwerkes. Kleidung, Wohnung, Architektur. Rückblick.
+
+Ueber die Erscheinungen der machinalen Kinematik haben wir nunmehr volle Auskunft erhalten. Schwieriger ist die Verständigung über den Begriff der organischen Kinese.
+
+Die Kinematik hat es mit der einem Mechanismus von aussen her aufgenöthigten Bewegung zu thun, die Kinese ist spontane Bewegung, organisches Sichselbst bewegen. Das Wesen der Spontaneïtät ist das grosse Räthsel der Menschheit. Um so unschätzbarer wäre jeder Erfolg der Wissenschaft, durch den zunächst wenigstens das „Ignoramus“ bezüglich absoluter Gewissheit eines „Ignorabimus“ festgestellt würde. Zu Erfolgen dieser Art ist unter anderen Zeising's Lehre von den Proportionen des menschlichen Körpers zu KAPP, Phil. d. Technik.
+
+[p. 210] rechnen, eine Entdeckung, auf die wir um so mehr näher einzugehen haben, als sie auf eins der Grundgesetze der organischen Kinese ein helles Licht wirft. Im verflossenen Frühjahr haben öffentliche Blätter die Nachricht von dem am 27. April erfolgten Tode des Professors Dr. Adolf Zeising in München gebracht. Den Kreisen der Künstler und Gelehrten war der Verstorbene rühmlichst bekannt durch sein Werk über den Goldenen Schnitt.
+
+Dem grösseren Publicum ist das Buch im ganzen ziemlich fremd geblieben, da es zu einer Zeit veröffentlicht wurde, wo die Naturwissenschaft mit den grossartigsten, unmittelbar in das volle Leben eingreifenden Forschungen und Entdeckungen beschäftigt war. Ueber die sie ganz in Anspruch nehmenden nächsten Ziele hinaus durfte sie sich nicht gemüssigt sehen, auch solchen Bestrebungen Aufmerksamkeit zuzuwenden, die nach dem ersten Anschein mehr idealistischer Richtung waren. Und was damals nicht von der Naturforschung als eine hervorragende Leistung signalisirt wurde, blieb vorläufig im Hintergrund und hatte eben seine Zeit abzuwarten. Diese Wartezeit ist nunmehr vorüber
+
+Abgesehen von den ersten vereinzelten Beifallszeichen seitens der Naturforschung gleich nach Zeising's erstem Auftreten, ist es von ent schiedener Bedeutung, dass seit dem Beginn des gegenwärtigen Jahrzehntes gerade die beiden Namen, von denen der eine als Begründer der physiologischen Psychologie, der andere als ihr Fortsetzer hoch hervorragt, G. Th. Fechner und W. Wundt, sich innerhalb bestimmter Grenzen für die Lehre Zeising's günstig ausgesprochen haben. Auch kam ihr gleichzeitig von anderen Seiten her erneute Zustimmung entgegen, besonders seit die Speculation sich mit der Empirie ins Einvernehmen zu setzen bemüht war. Und so ist es denn auch die Philosophie, welche das Proportionsgesetz des Goldenen Schnittes princi piell für alle Richtungen der organischen Lebendigkeit aufrecht erhält.
+
+Unter dem Schutz „philosophischer Evidenz“ erscheint das Zeising'sche Gesetz als der Höhenpunkt, in welchem 0. Caspari's nenestes Werk gipfelt. Wie man bisher mehr dunkel geahnt, [p. 211] als begriffen hatte, steht es mit der Lösung der „Grundpro bleme der Erkenntnissthätigkeit " in wesentlichem Zusammen hang, und kann der socialen Anthropologie behufs Orientirung über sich selbst nicht nahe genug gelegt werden.
+
+Die Betrachtung der Musterwerke der antiken Plastik erweckte schon früh die Meinung, es müssten die Meister der Kunst das Proportionalgesetz des menschlichen Körpers gekannt haben und einer darauf beruhenden Regel lehre des formell Schönen gefolgt sein. Dadurch wurden vielfache Bestrebungen rege, dem vermutheten Gesetz auf die Spur zu kommen.
+
+Gefunden hat es Adolph Zeising. Man darf die Aufgabe als durch ihn gelöst erachten, besonders wenn auch die Resultate späterer Arbeiten, welche auf dem von ihm ge legten Grunde fussen, gleichzeitig mit in Anschlag gebracht werden.
+
+Das Zeising'sche Hauptwerk es hat bis jetzt eine Widerlegung nicht erfahren – ist unter dem Titel „Neue Lehre von den Proportionen des menschlichen Körpers aus einem bisher unerkannt gebliebenen, die ganze Natur und Kunst durchdringenden morphologischen Grundgesetze“ vor bereits mehr als zwei Decennien veröffentlicht worden. Bald nachher gab er die Schrift „Ueber das Normalverhältniss der chemischen und morphologischen Proportionen“ heraus. Mit der Anwendung eines schon bei Euklid vorkommenden Lehrsatzes auf die Dimensionen des menschlichen Körpers war das Grund gesetz entdeckt. (Fig. 34.) Dieser Lehrsatz der Geometrie, genannt der Goldene Schnitt, handelt von der Theilung einer Linie, wonach der kleinere Abschnitt sich zu dem grösseren verhält, wie der grössere zur ganzen Linie. Woher die Benennung „Golde 11 *
+
+[p. 212] Das' morphologische Grundgesetz.
+
+ner Schnitt“ rührt, weiss Zeising nicht anzugeben, doch, meint er, sie rühre wahrscheinlich daher, dass man die ausserordentlichen Vorzüge dieses Verhältnisses mit richtigem Blick erkannt habe. Prof. Wittstein giebt an, die Bezeichnung stamme aus dem Mittelalter, wo sie unter Fig. 34.
+
+d*
+
+Theilung der Linie ab nach dem Goldenen Schnitt. bc = " 2 ab, ce = bc, ea auf ab übertragen ergiebt d als Theilungspunkt.
+
+dem Namen „sectio aureass auch wohl „sectio divina“ vor komme, mit welchem Ehrenprädicat man die Vorzüglich keit eines Lehrsatzes, an dem die damaligen Mathematiker ein grosses Interesse genommen, habe bezeichnen wollen.
+
+Zeising schickt seinen Untersuchungen einen historischen Ueberblick voraus, worin er ausführlich über die auf die Proportionslehre des menschlichen Körpers gerich [p. 213] teten Arbeiten seiner Vorgänger berichtet. Zu diesen ge hörten Physiologen, Künstler, Kunstkenner und Philosophen, und unter ihnen Namen von grosser Berühmtheit, wie
+
+Polyklet, Lysippos, Leonardo da Vinci, Michel Angelo, Albrecht Dürer, Raphael, Lavater, Horace Vernet, Winckelmann, J. G. Schadow, Quetelet und Andere. Besondere Beach tung haben Zeising's unmittelbare Vorgänger, der Historien maler C. Schmidt und der Physiolog C. G. Carus, gefunden; jener durch das Werk „Proportionsschlüssel. Neues System der Verhältnisse des menschlichen Körpers. Für bildende Künstler, Anatomen und Naturwissenschaft“, dieser durch „Die Proportionslehre der menschlichen Gestalt“ .
+
+An der Begründung der Zeising'schen Ansicht haben sich ganz neuerdings betheiligt G. Th. Fechner, Conrad Her mann, Theod. Wittstein, Joh. Bochenek und Otto Caspari. Nach Fechner's ausdrücklicher Bemerkung sind den meisten Naturforschern die Bestrebungen Zeising's so gut wie unbekannt geblieben. Als einzelne Ausnahmen führt er die Berücksichtigung von dessen Lehre im Handbuch der Anatomie von Harless und die Messungen Dr. Hagen's an, welche den Satz des Goldenen Schnittes im Kopf- und Gehirnbau sogar im grössten Detail bestätigen. Uebri- . gens sei verschiedenen Abhandlungen Zeising's ein Platz auch in naturwissenschaftlichen Zeitschriften nicht versagt worden, ja ästhetischerseits habe seine Ansicht Aufsehen erweckt und grösstentheils Beistimmung gefunden. Um so mehr legen mit Recht die entschiedenen Anhänger der Lehre Werth darauf, dass selbst der be rühmte Begründer der „Physiologischen Psychologie“ diesen Gegenstand einer eben so unbefangenen als sorgfältigen Prüfung unterworfen hat. Er verhehlt nicht seine Bedenken gegen die universalé Anwendung des Gesetzes über das ästhetische Gebiet hinaus, lässt der philosophischen Begründung des Goldenen Schnittes durch Zeising ihr Recht widerfahren, findet dessen Ansicht in Bezug auf Dimen sionsverhältnisse schlagend bestätigt, nicht aber in Bezug auf Abtheilungsverhältnisse, und tadelt, dass der ästhetische
+
+Vortheil der Symmetrie dem des Goldenen Schnittes zu sehr nachgesetzt sei. Schliesslich erklärt er, er sei weit entfernt, das Verdienst, die bis zu gewissen Grenzen ge sicherte Bedeutung des Goldenen Schnittes entdeckt zu haben, zu unterschätzen; er halte sie vielmehr für die erste eigentliche Entdeckung, die, überhaupt bis jetzt in der Aesthetik gemacht, Zeising's Namen in der Geschichte der Aesthetik rühmlichst forterhalten werde. Leichter sei es, eine Entdeckung zu constatiren, zu beschränken und zu verschärfen, als sie zu machen.
+
+(Zur experimentalen
+
+Aesthetik 1871, S. 16. 17. 21. 26. 28. 34.)
+
+Conrad Hermann eröffnet seine Abhandlung „Ueber das Gesetz der ästhetischen Harmonie und die Regel des Gol denen Schnittes“ (Philos. Monatshefte VII, 1-20) mit einer Berufung auf Fechner's Urtheil: „Noch kürzlich hat Fechner diese Untersuchungen einer eingehenden und die selben in der Gesammtheit ihrer Resultate wesentlich be stätigenden Prüfung unterzogen. Es scheint hiernach in der That, als ob auf dem Gebiete des Schönen jetzt wirklich etwas Bestimmtes in einer eigentlich exacten oder empirischen Weise erkannt worden wäre.
+
+es, namentlich mit im Anschluss an die Ausführungen Fechner's, als eine Thatsache betrachten zu dürfen, dass das Princip des Goldenen Schnittes eine hervorragende Bedeutung für die innere Ordnung oder die Maassverhält nisse des Schönen besitzt.“ Die Abhandlung C. Hermann's hat das Verdienst, die Würdigung des Goldenen Schnittes [p. 215] auf Grund einer Fülle neuer, die ästhetische Frage tief berührender Betrachtungen gefördert zu haben. Er ist weit entfernt, die Anwendung des Goldenen Schnittes, wie sie von Zeising über das gesammte Kunstgebiet hinaus auch auf Naturerscheinungen, und sogar auf ethische und religiöse Bezüge, ausgedehnt wird, abzuweisen. Indem er es seinerseits an sehr werthvollen Ergänzungen nicht fehlen lässt, bewahrt er zugleich das Begreifen der immanenten Ordnung der Dinge, als Hauptaufgabe der beobach tenden Aesthetik, vor jedweden Eingriffen der arithmetischen Ordnung im äusserlich mechanischen Sinne des Wortes.
+
+Wittstein dagegen hat sich in der Abhandlung „Der Goldene Schnitt und die Anwendung desselben in der Kunst“ (1874), indem er von einer Reihe langjähriger Erfahrungen, die ihm den Grundgedanken Zeising's vollauf bestätigen, aus der Ueberfülle des Stoffes, worin dieser sich bewegt, auf einen engeren, leicht zu überschauenden Horizont beschränkt. Von hier aus, aber immer den Blick auch der idealen Seite des Gegenstandes zugewandt, bahnt er sich von unten auf, vom Standpunkt nächstliegender Erfahrungen, in ruhigem und sicherem Voranschreiten den Pfad zu einer sehr für sich einnehmenden Definition des Schönen überhaupt, und mittels ihrer zu dem Proportional gesetz der formellen Schönheit insbesondere.
+
+Während von Anderen dasselbe als gegeben einfach aufgenommen wird, deckt Wittstein dessen Herkunft, und damit auch dessen Zukunft, auf. Im Vergleich zu seiner voraussicht lichen Dauer sind die früheren, auf dasselbe Ziel gerichteten Versuche, welche als Vorläufer immerhin das Interesse an der Lösung der Aufgabe wach zu erhalten ge eignet waren, nur noch von geschichtlichem Werthe.
+
+[p. 216] Bochenek thut befremdlicher Weise in seiner Schrift über „Die männliche und weibliche Normalgestalt nach einem neuen System“ der Wittstein'schen Untersuchung gar keine Erwähnung; dass er sie überhaupt nicht sollte gekannt haben, ist kaum anzunehmen. Beide ergänzen einander. Sie stehen beide auf dem von Zeising gelegten Grunde und treffen, jeder ein besonderes Feld derselben gemeinsamen Aufgabe bearbeitend, darin zusammen, dass sie neues haltbares Material zum Ausbau des von jenem aufgeführten Lehrgebäudes beibringen. Bochenek ist überzeugt, dass er die unwiderlegbaren Gesetze der Schönheit, welche die Griechen kannten, die uns aber nicht erhalten geblieben, wieder aufgefunden habe, und kommt von der Untersuchung der Grundformen, auf denen alles Wahrnehmbare in Natur, Kunst und Wissenschaft beruhe, zu dem Schluss: „Die wechselseitige Ver bindung dieser Grundformen schafft unzählige Gebilde, die sich aber alle bei genauer Untersuchung auf jene zurück führen lassen. Von den primitivsten Formen, die in der Natur vorkommen, bis zu den vollendetsten sind alle in der menschlichen Gestalt vereinigt dasjenige schön zu nennen, bei dessen Zusammensetzung nicht mehr oder weniger Formen verwendet wurden, als zu dem Zwecke unbedingt nothwendig waren; ja darauf beruht die formelle Schönheit.“ Obwohl nun Zeising durch den Goldenen Schnitt die Verhältnisse der menschlichen
+
+Gestalt messe, so sei dennoch weder die speculative Bedingung dargestellt, noch führe sie zum abschliessenden Ziele. Dies eben zu erweisen, hat sich Bochenek zur Aufgabe ge macht. Immerhin aber mit der gleichzeitigen Anerkennung, dass Zeising bisher die tiefsten Ansichten über das System der Verhältnisse documentirt habe, und dass in [p. 217] dessen Aufstellungen mehr Wahrheit enthalten sei, als in allen Systemen insgesammt, was er durch seine eigene Auffassung des Gegenstandes nur bestätigen könne.
+
+Er geht daher über die proportionellen Bestimmungen der Gliederung der menschlichen Gestalt, wie sie bisher anderen Systemen eigen waren, hinaus. Hierbei vermeidet er die Klippe, an welcher nach dem Urtheil strenger Aesthe tiker mehr oder weniger seine Vorgänger scheiterten. Auch hält er, da keine Zahlenverhältnisse mit dem Goldenen Schnitte übereinstimmen, Alles was Maassstab mit Ziffer bezeichnung heisst, den organischen Beziehungen fern und hat vielmehr nur das Verhältniss der Verhältnisse, wie es zunächst als Ebenmaass des Körpers erscheint, im Auge. „Durch jede mit dem Goldenen Schnitt vorge nommene Theilung einer Linie wird dieselbe in kleinere unter einander verwandte Theile eingetheilt, so dass ein jeder Theil die ganze Linie in gewissem Sinne vertritt, weil er ein harmonischer Theil ihrer ganzen Länge ist.“
+
+So ist der Goldene Schnitt das sich unendlich in sich selbst wiederholende Verhältniss. Sein vollkommenster Aus druck ist die menschliche Gestalt, nur dass diese als Organismus anstatt des Begriffs „Theilung“ den der „Gliederung“ fordert. Theile lassen sich beziffern, Glieder als solche sind nur im unveränderlich sich gleich bleibenden Verhältniss veränderlicher Dimensionen aufzufassen. Nichts hat der Lehre vom Goldenen Schnitt mehr geschadet, als die Annahme, es könnten nach Zahlbestimmungen und nach einem doctrinären Kanon der Schönheitsverhältnisse Kunst werke geschaffen werden. Vor solchem Missverständniss bewahrt ebenfalls Witt stein ausdrücklich den Lehrsatz des Goldenen Schnittes mit richtigem Verständniss für das Schaffen des Künst [p. 218] lers, „der volles Recht hat, gegen Alles, was als Regel sich von aussen ihm aufdrängen will, sich ablehnend zu ver halten. eine Folge des dem Menschen inwohnenden philosophischen Dranges, die Ursachen der Dinge zu ergründen, wenn wir hinterher nachsehen, welche Regeln der Künstler sich selbst unbewusst befolgte, und wenn wir diese Regeln zu einer Kunstlehre zusammenstellen. sich nicht bewusst, weshalb er gerade die Octave oder die Quinte als Consonanzen gebraucht; er thut dies, weil es ihm so gefällt, und erst der Physiker kommt hinterher und findet den Grund in den Schwingungsdauern der Töne.“ Einfacher und unbefangener, als es in diesen Worten geschehen ist, kann das intuitive Schaffen des Künstlers und das „Hinterher“ der wissenschaftlichen Aufklärung, worin ja das Wesen der Organprojection besteht, nicht ausgedrückt wer den. Erst aus der retrospectiven Beglaubigung durch Kunst thatsachen ist das Proportionalgesetz als anerkannt organisches Princip hervorgegangen. Und in diesem Sinne ist es, mit Rücksicht auf den Unter schied der Kunstgebiete und der künstlerischen Individualität selbst, zu verstehen, wenn wir in einer neuerdings von Robert Keil veröffentlichten Lebensskizze „Corona Schröder“ der Aeusse rung begegnen:
+
+die Natur die Kunst erschuf.“ Dasselbe meint in den „Drei Vorlesungen über Kunst“ W. von Kügelgen mit der Bemerkung: „Der Künstler stellt zunächst nichts anderes dar als sich sel der;“ dasselbe auch sagt der Dichter (Schiller's Leben von E. Palleske 4. A. S. 395) mit Beziehung auf seine dramatischen Charaktere: „Gleichwie aus einem einfachen weissen Strahl, je nachdem er auf Flächen fällt, tausend und wieder tausend
+
+Farben entstehen, so bin ich zu glauben geneigt, dass in unserer Seele alle Charaktere nach ihren Urstoffen schlafen und durch Wirklichkeit und Natur oder künstliche Täuschung ein augen scheinliches Dasein gewinnen. Alle Geburten unserer
+
+[p. 219] Phantasie wären also zuletzt nur wir selbst. “ Fügen wir dem noch eine sachliche Erläuterung hinzu, die sich bei D. Strauss (Der alte und der neue Glaube, S. 366) findet: „So wenig wie Schiller Hermann und Dorothea, hätte Goethe das Lied von der Glocke dichten können“ , so erfährt das mehr berührte Wort von F. Lasalle, dass die absolute Selbstpro duction der tiefste Punkt im Menschen sei, von Seiten sowohl der ausübenden Kunst wie der Philosophie eine werthvolle Zu stimmung. Dieser tiefste Punkt erweist sich als die Urheimath der Kunst. Da nun aber die absolute Selbstproduction mit dem zusammenfällt, was hier im Interesse einer Darstellung der culturgenetischen Momente Organprojection genannt worden ist, so haben auch wir im Zusammenhang damit das von Zeising aufgestellte Grundgesetz näher zu besprechen. Das Suchen nach einer Verhältnisslehre hat in der Regel zu wenig den menschlichen Körper in seiner Einheit vor Augen gehabt und hat sich, wie unter Anderen von Carus geschehen, zu einseitig auf das Skelett bezogen. Wenn es auch unbestritten ist, dass der Körper an dem Knochenbau seinen kinematischen Halt hat, so ist doch nicht minder klar, dass die einseitige Inbetrachtnahme des festen inneren Gerüstes, welche von dessen äusserer Ab rundung durch die Musculatur absieht, fehl geht. Denn mit einer solchen Theilung des Gliederbestandes, beruhe sie nur in der schwankenden Vorstellung, oder habe die Untersuchung wirklich das anatomisch präparirte Skelett vor sich, ist das lebendige Verhältniss aufgelöst. Der ganze Mensch ist Gestalt, das Skelett für sich ist ein Gestell. Das Knochengerüst und die Musculatur nebst Zubehör constituiren eins das andere und machen zusammen die Constitution" aus. Es ist dies eine Wechselwirkung, welche G. Hermann Meyer in seiner „Statik und Mechanik des menschlichen Knochengerüstes“ näher be
+
+2:20
+
+Das murphlogische Grundlgeset :.
+
+zeichnet, indem er bemerkt: „Wenn die Theile des Knochengerüstes und das ganze Knochengerüste maassge bend werden für die Muskelwirkungen und die statischen Verhältnisse des Körpers, so sehen wir dagegen auch wie der alle diese Beziehungen Einfluss gewinnen auf die Gestaltung der einzelnen Knochen und des ganzen Knochen gerüstes." (S. 4.)
+
+Bei einer Folge von so vielfach in einander überge henden und aus einander hervorgehenden Gebilden Membranen, Gefässen, Nerven, Muskelfasern, Sehnen, Knor peln, Spongiosen, compacten Knochen -- entschwindet die Schéidelinie zwischen Knochengerüst und Weichtheilen. Daher nimmt Zeising selbstverständlich für sein Grund gesetz der Proportionalität die ganze volle menschliche Gestalt in Anspruch. An ihr grenzt sich im Bereiche des Kunstschönen das plastische Ideal ab. Ist also überhaupt ein solches Gesetz vorhanden, so muss es als Ausfluss der menschlichen Gestalt dieser immanent sein und musste von Zeising, da es das künstlerisch Schöne selbst nicht ist, als eine von dessen verschiedenen Qualitäten nachgewiesen werden.
+
+Der Gang in der Entwickelung seines Systems ist nun der, dass er das Verhältniss der Proportionalität zur Schön heit überhaupt erörtert und darauf die specielle Darlegung desselben in den verschiedenen Gebieten der Natur und Kunst folgen lässt.
+
+In dem Abschnitt von der Bedeutung der Proportionalität im Gebiete des Formell- Schönen behandelt Zeising nächst der Unendlichkeit und der Einheit im Formell Schönen die Harmonie beider, welche sich auf drei verschiedenen Stufen offenbart, und zwar als Gleich maass oder Symmetrie, als Proportionalität und als Aus druck oder Charakter.
+
+[p. 221] Erscheint die Symmetrie vorzugsweise am Aeusseren oder am Umriss der Figur, so geht die Proportionalität vom Innern der Figur aus, von dem ihr den Charakter der Einheit gebenden Cardinalpunkte, welcher der eigentliche Kern- und Keimpunkt des Ganzen ist. Die ausdrucksvolle oder charakteristische Schönheit empfängt ihre Gesetze vorherrschend aus dem Gebiet der psychischen Bewegungen, „welche ein Hinausgehen über die Gesetze der Symmetrie und eine freiere Modification der Proportionalgesetze nicht nur gestatten, sondern sogar bedingen " ; jedoch nur bis zu dem Grade, wo diese Ge setze aufhören würden, die formalen Moderatoren der freie ren Gestaltung zu bleiben.
+
+Hiermit erhält das Proportionalgesetz die Bedeutung, dass nur diejenige ausdrucksvolle Form als eigentlich schöne zu betrachten ist, in welcher es sich trotz aller
+
+Modificationen durch den Ausdruck doch noch heraus erkennen lässt.
+
+Die Entstehung einer proportionalen Figur erklärt Zeising auf die Weise, „dass jener Keimpunkt sich durch Ausdehnung in die Länge zu einer Anzahl verschiedener radialer Linien und diese wieder durch Ausdehnung in die Breite und Dicke žu Figuren ausbildet, diese sämmtlich unter einander verbindet und in sich als Glieder zu einem Ganzen vereinigt. zungslinien als die wesentlichen und ursprünglichen Bestandtheile der Form, sondern die dem Umriss zum Gerüst dienenden Linien radialen Charakters, wesentlich die sogenannten Axen der Figuren, obschon dieselben in der Wirklichkeit nicht mehr als solche sichtbar zu sein pflegen, sondern ebenfalls schon zu wirklichen Körpern, Fasern, Röhren, Knochen, Adern u. s. w. ausgebildet sind.
+
+[p. 222] Das Verhältniss zwischen dem Ganzen und den Gliedern ist dann dasjenige, durch welches die Glieder selbst unter einander verbunden sind. Die Umgrenzungslinien erscheinen diesen inneren Lineamenten gegenüber gleichsam nur als deren Bekleidung, oder richtiger, sie sind als die Fäden anzusehen, wodurch die äussersten Spitzen und Enden der inneren Lineamente mit einander verwebt und zu einem Ganzen abgeschlossen werden. So entwickelt sich aus dem Wesen der Proportion zugleich der Charakter der Progression und mit ihm der Charakter des Wachsthums und des organischen Lebens. Bei den vollkommneren Figuren dieser Art erscheint als die Hauptrichtung stets die verticale oder die Dimension der Höhe, als die zweite die horizontale oder die Dimension der Breite; die übrigen sind nur als Vermitte lungen dieser anzusehen.“ (S. 153–155.) Dieser Auffassung schliesst sich erläuternd Bochenek an. Er geht nämlich in Beziehung auf die Configuration der Geschöpfe von einem Parallelogramm aus, dessen recht winklig stehende Seiten die Gestalt in ihrer äussersten
+
+Breite und Länge einrahmen. Dieses Parallelogramm den Einschluss nennend nimmt er an, dass, wie er es durch gehends bestätigt gefunden, jedes Geschöpf eine Bildung seines Einschlusses sei. Beobachte man die Bildung im Thierreiche vom niedrigsten Geschöpfe bis zur menschlichen Gestalt, dann erhebe sich ihre längste Durchschnittslinie von der horizontalen Lage bis zur verticalen. Kein einziges Thier habe hierin Aehnlichkeit mit dem Menschen, kein einziges einen hohen verticalen Einschluss und kein einziges auch so ausgebildete Organe. Seine sich hier anschliessende Bemerkung verdient um so mehr Beachtung, als sie zugleich die Frage der organischen
+
+[p. 223] Entwickelungstheorie eigenthümlich berührt: „Die gradweise Erhebung einer horizontalen Linie bis zur verticalen, oder die Ausfüllung eines rechten Winkels mit verschiedenen Linien, welche den Durchschnittslinien verschiedener Geschöpfe ent sprächen, bildet den ersten und hauptsächlichsten Unterscheidungsgrund zwischen dem Menschen und den Thieren.
+
+Insofern als ein Winkel von 70 Grad nicht einem Winkel von 50
+
+Grad entstammt, vielmehr ein jeder Winkel an und für sich als ein Element anzusehen ist, wäre entsprechend auch die Gestaltung der Geschöpfe nicht eins aus dem anderen, sondern ebenfalls als ein Element für sich anzunehmen.“
+
+Jedes Geschöpf hat sein Oben und sein Unten, aber nur die Menschengestalt rechtfertigt die Unterscheidung eines Ober- und eines Unterkörpers, auf Grund sowohl der Höhlenlinie wie der beiderseitigen inneren Organ gruppen. Dem Oberkörper kommen, wie Zeising hervor hebt, diejenigen Organe zu, in denen sich der Mensch sammelt und bei sich bleibt, die Organe der Ernährung, der edleren Sinne und der Vernunft; der Unterkörper umfasst die Organe, in welchen sich der Mensch von sich selbst scheidet, sich dem Anderen und der Bewegung hin giebt, die Secretions-, Geschlechts- und Bewegungsorgane. Dort also der Charakter der Einheit und des Insichver harrens, hier das Bild der Entzweiung, der Spaltung und des Aussichherausgehens. (S. 180.)
+
+Die Unterscheidungszone zwischen Ober- und Unter körper ist die Gürtelregion. Sie wird durch die zwischen den untersten Rippen und dem Kamm der Hüftknochen befindliche Lücke gebildet. In tliese Lücke fällt die Theilung durch den Goldenen Schnitt, und zwar nicht ohne einigen
+
+Spielraum, welchen auch hier „das Gesetz der gestaltenden Natur gestattet, damit auf diese Weise die stereotype Gleichförmigkeit vermieden werde“ ,
+
+[p. 224] Als oberste Grenze des Spielraumes markirt sich die Taille, „während sich der nicht selten etwas tiefer, d. h.
+
+ein wenig unterhalb des Goldenen Schnittes liegende Nabel als Schwerpunkt dieses Spielraumes darstellt“. Die neben stehende, der anziehenden Monographie „Der Apoxyomenos des Lysippos“ von Ignaz Küppers entlehnte Figur zeigt nach dem beigefügten Proportionsmesser eine vollkommene Uebereinstimmung mit der Regel des Goldenen Schnittes. (Fig. 35.) Die Hauptabtheilungen des Kopfes, des Rumpfes, der Oberschenkel- und der Unterschenkelpartie liegen in den normalen Durchschnitten. d schneidet den Kehlkopf, e das Knieende, f den Knöchelbug. Der Nabel, die Ernährungspforte des Ungeborenen, ist in seinem Abschluss als Nabelnarbe beim Neugeborenen das Wahrzeichen des Functionsantrittes der Organe, das Muttermal seines Zusammenhanges mit dem Allgemeinen. Er „erscheint hiernach als Kern- und Ausgangspunkt der beiden ungleichen, aber verhältnissmässigen Theile, und als der Mittelpunkt der pro portionalen Gliederung, als der Goldene Schnitt des mensch lichen Körpers, das heisst: es verhält sich der kürzere Ober körper (vom Scheitel bis zum Nabel) zum längeren Unterkörper (vom Nabel bis zur Sohle), wie dieser zur ganzen Körper länge.“ (176.)
+
+Wen das sorgfältige Verfahren, womit der Entdecker des im Goldenen Schnitt bekundeten Normalverhältnisses der menschlichen Gestalt zu Werke gegangen ist, nicht zu überzeugen vermöchte, dem müsste die weitere Beweis führung durch Bochenek, wodurch die Frage im Geiste des Entdeckers gefördert worden und in der Hauptsache als erledigt zu betrachten ist, auch den letzten Zweifel benehmen.
+
+Bochenek verfolgt sein Ziel mit strengster Consequenz.
+
+А
+
+*C
+
+TTT
+
+Fig. 35. KAPP, Phil. d. Technik.
+
+[p. 226] Da ihm die menschliche Gestalt die Bildung ihres Ein schlusses ist, so lässt er schon von vornherein in dieser
+
+Umschliessungsform das Grundverhältniss auftreten, welches innerhalb seiner in unendlicher Selbstwiederholung zu höchster Fülle und Mannigfaltigkeit ebenmässiger Gliederung aufgeschlossen ist. Er hält es nicht für angezeigt, durch Berufung auf Beispiele seine Beweisführung zu stützen, nur das im Auge behaltend, was unmittelbar dazu gehört, die Sache ihren Beweis durch sich selbst führen zu lassen. „So wäre denn wohl“ , wie er am Schluss seiner Abhandlung sagt, „die harmonisch gesetzmässige Entwickelung des Einen aus dem Anderen schlagend be wiesen und damit festgestellt, dass ein jedes andere Maass aller wissenschaftlichen Begründung entbehrt.“ Das Normalverhältniss, auf dessen Erforschung von Alters her so viele in Kunst und Wissenschaft hervor ragende Geister ausgegangen waren, es war demnach kein Phantom!
+
+Festgestellt wie es nunmehr ist, wird es die alte Wahr heit, dass der Mensch das Maass ist der Dinge, nachhaltig bekräftigen helfen, und deshalb auch sich als eine mächtige Stütze der Lehre von der Organprojection be währen. Von dieser seiner Bedeutung hat zunächst der ganze Bereich der Aussenwelt Zeugniss abzulegen. Ausnahmen giebt es, wo das Ebenmaass in Frage steht, eigentlich nicht, und was jeweilig als solche erscheint, wird sich einer späteren Forschung eben als Schein enthüllen. In dieser Ueberzeugung hat denn auch Zeising keinen Anstand genommen, in seinem bahnbrechenden Buche sich der speciellen Darstellung des Proportionalgesetzes in den verschiedenen Gebieten der Natur und der Kunst zu unterziehen.
+
+[p. 227] Das morphologische Grundgesets.
+
+Nachdem er die Gliederung des menschlichen Körpers nach den gesetzlichen Proportionen sowie auch nach deren Modificationen durch Geschlecht, Alter, Nationalität und Individualität betrachtet hat, geht er zu der Manifestation des Proportionalgesetzes im Gebiet anderer Naturerscheinungen, der makrokosmischen und der mikrokosmischen (Mineralien, Pflanzen, Thiere), über und verweilt dann zum Schluss bei der Manifestation des Proportionalgesetzes im Gebiete der Baukunst und bei seiner Bedeutung für die Gebiete der Musik, der Poesie, der Wissenschaft, der ethischen Bezüge und der Religion. Es konnte nicht fehlen, dass er als Einzelner der allseitigen Lösung einer so universalen Aufgabe nicht ge wachsen war und den Vorwurf hinnehmen musste, für viele seiner Behauptungen die Beweise schuldig geblieben zu sein. Es ist dies aber das Schicksal aller Entdecker, dass
+
+Irrthümer und Unzulänglichkeiten im Einzelnen ihnen nie ausbleiben. Sache der Nachfolger ist es, wenn nur das Princip unantastbar ist, unter maassvoller Beschränkung auf Theil arbeit zu bessern und zu ergänzen. Für uns steht die Gültigkeit des Goldenen Schnittes als des organischen Normalverhältnisses ausser Zweifel. In sich Maass, Gleichmaa ss und Ebenmaass ver einigend ist er als Grundlage der Harmonie eine der Qualitäten des Schönen, dessen Ideal die hellenische Plastik in ihren Meisterwerken veranschaulicht hat.
+
+Wir unterscheiden streng das Maass von dem Maass stal). Jenes waltet gestaltend im Reich des Organischen, dieser steckt fertig in künstlichen Mechanismen, jenes ist der Wiederschein eines Verhältnisses, dieser ist Ausdruck der Ziffer, in jenem regt sich der Process lebendiger Be ziehungen, diesen markt der Polizeistempel. 15 *
+
+[p. 228] Wo nur immer der Goldene Schnitt als Glied -Maass, d. h. maass-regelnd, begriffen wird, da ist Zeising im Rechte, im Unrecht aber sind die Sachwalter des Mechanischen, die nichts als ziffrirte Maassstäbe gelten lassen. Das Maass als Verhältniss ist zifferlos, und kein Organ trägt eine arithmetische Etikette. Was ist ein Finger für sich? Sofort ein Verwesendes, bald ein Gewesenes. Aber von so und so vielen Steinbeilen der Urzeit ist jedes noch heute, was es vor Jahrtausenden war. Nur an der Hand giebt es Finger. Hier ist ihre Fünfzahl ein untheilbares
+
+Ganzes, untheilbar wie die Farben des Spectrums und die Paareinheit der Magnetpole.
+
+In gleicher Weise untheilbar ist die Zweieinheit im organischen Grundverhältniss, worin ein Grösseres sich von einem Kleineren unterscheidet, und worin die Einheit von beiden, das Ganze, ein Anderes ist als jeder der Theile für sich allein.
+
+Nur zwei und doch drei!
+
+Hier ist Veranlassung, darauf hinzudeuten, dass der Bezeichnung „Goldener Schnitt" ein Etwas von sogenannt mystischem Beigeschmack anhaftet. Dieser Um stand erklärt zum Theil, weshalb der eigenthümlichen, aus mittelalterlicher Zeit herrührenden Legitimation des ein fachen geometrischen Satzes seitens derer nicht ohne Miss trauen begegnet wurde, welche sich vor jedem mystischen Klang entsetzen.
+
+Inzwischen hat die Philosophie fortgefahren, das Gebiet des Mystischen von seiner Entstellung durch krank hafte Auswüchse in demselben Grade zu säubern, als sie überhaupt voranschreitet in ihrer Arbeit, den Inhalt intel lectueller Anschauung der rationellen Beweisführung zugänglich zu machen. Erkennt doch E. v. Hartmann „in der ganzen Geschichte der Philosophie nichts Anderes als die [p. 229] Umsetzung eines mystisch erzeugten Inhaltes aus der Form des Bildes oder der unerwiesenen Behauptung in die des rationellen Systems“. (Philosophie d. Unb. S. 318.) Namentlich neueren Arbeiten, wie „Meister Eckhart, der Mystiker“ von Lasson und der Abschnitt „Das Un bewusste in der Mystik“ in der Philosophie des Unbe wussten, ist es zu verdanken, dass man im allgemeinen aufhört, sich gegen die Einsicht in die Bedeutung des Mystischen für die gesammte Culturentwickelung zu sträu den. Damit dürfte denn auch der Goldene Schnitt jedem solchen Vorurtheil entzogen sein. Die Thatsache, dass wir von Geheimniss und Unbe greiflichkeit überall umgeben sind, dass wir selbst voll davon stecken, zu bestreiten, fällt Niemandem ein. Bleibt aber dieses Geheimnissvolle unveränderlich Inhalt des dunklen Gefühles, so findet jene krankhafte Stagnation statt, welche eine abschreckende Wirkung ausübt auf Alle, welche dem Unbegriffenen mit Nachdenken entgegenzu treten gewohnt sind. Wie weit sie mit dem rationellen Beweise des mystischen Inhalts kommen, das ist eine Sache für sich, aber schon das Bewusstsein, dass sie über haupt ihn versuchen und wollen können, löst die Stag nation, bringt den Gegenstand in den Fluss des Denkens und befreit ihn nachhaltig von den Gefahren des dogma tischen Stillstandes.
+
+Freilich spriessen auf dem Wege, welchen die Philosophie vor sich lichtet, nach rückwärts andere Räthsel auf, so dass der Regenerationsstoff auf den Hochebenen der Forschung sich niemals verringert und dass der Auf lösungsprocess des Unbegriffenen nur frische Nahrung er hält. So folgen jenem „Wollenkönnen“ sofort eine Menge neuer Fragezeichen. Verlangt doch alles Beweisen und [p. 230] Erklären selbst wieder seine Erklärung, Beweises genug, dass die Menschheit vor einem Zustand, wo es nichts mehr zu erklären und zu erkennen gäbe, noch hinreichend ge sichert ist.
+
+Der Mystik also hat man Stand zu halten. Ihr ist nicht zu entfliehen, sie ist nicht auszurotten, am wenig sten da, wo es sich gleichsam in ihrem eigenen Hause um Einrichtungen und Vorgänge handelt, denen mit Wage und Maassstab, überhaupt mit Ziffern, nicht beizukommen ist. Wir meinen den lebendigen Menschen, in welchem die beiden höchsten Erscheinungen seines Wesens, Körper liches und Bewusstes, Materie und Geist, im Organis mussein, jede der anderen immanent ist, ein Einssein, dessen Begriff die Verbindung von „Leib und Leben“ so schön und wahr bis zur Sprachwurzeltiefe getroffen hat. Ist schon das wahre Kunstwerk incommensurabel, um wie viel mehr das erhabenste Vorbild des Kunstschönen, der Mensch „bei lebendigem Leibe“ . Während Gegen stände der Technik den genauesten Maass- und Zähl operationen zugänglich sind, verhalten sich die Organe und ihre Functionen durchaus spröde dagegen, und wo es dennoch anders scheinen möchte, müsste das Resultat, da das Leben ununterbrochene Veränderung und Umgestaltung ist, in jedem Momente ein anderes, also kein exactes sein. Wenn daher die Dimensionen einer Statue unter den Maassstab gebracht werden, so wird eben der Marmor oder überhaupt der Stoff, aus dem sie besteht, wie jeder andere Stoff gemessen. Ferne dagegen liegt der Ziffer die in dem Stoff vergegenwärtigte Idee des Künstlers. Der Idee aber des Kunstwerkes entspricht im organischen Be reiche die Beseelung, deren Berührung mit Maassbestim [p. 231] mungen ein ebenso der Mechanik entlehnter Nothbehelf ist, wie die Benutzung anderer in der Mechanik heimischer Ausdrücke zum Verständniss organischer Bildungen. Was von Zahl in diesen bemerkbar ist, entzieht sich unablässig jedem Messapparate. Mit der Proportion also, welche sich innerhalb des Goldenen Schnittes in unendlich verschiedenen Dimensionen wiederholt, können Zahlenverhältnisse nicht überein stimmen. Es würde deshalb jeder Versuch misslingen, der darauf abzielte, so schwankende Zifferbezeichnungen auf den Menschen und auf das Kunstwerk anwenden zu wollen. Denn diese sind die beiden einzigen realen Existen zen, welche Conrad Hermann deshalb als solche bezeichnet, „weil sie zugleich in demselben Maasse sinnlicher und geistiger Art sind und hierdurch gewissermaassen an der Grenze dieser beiden allgemeinen Regionen oder Sphären alles Daseins, der realen und der idealen, zu stehen scheinen " . (a. a. 0. S. 3.)
+
+Wo dann gleichwohl mit einem dem Goldenen Schnitte nächstliegenden Zahlenverhältniss an Kunstwerke gegangen wird, trifft dies entweder den Unterricht in den Anfangs gründen der technischen Gestaltung und die Schulung des Auges für Symmetrie und Proportion, oder es gilt die augenscheinliche Probe auf principielle Uebereinstimmung. So giebt Zeising in einer Anzahl bildlicher Darstellungen berühmter Werke der Plastik eine überraschende Bestätigung seiner Lehre, indem er das Kunstwerk, dem der künstlerische Genius unbewusst das schöne Ebenmaass anerschaffen hat, das Urtheil über die Gültigkeit des nachträglich entdeckten Normalverhältnisses der mensch lichen Gestalt sprechen lässt. Nach Zeising ist „der menschliche Körper ein aus [p. 232] einer Uridee hervorgequollener, nach demselben Grund verhältniss gegliederter, von vollkommenster Harmonie und Eurythmie durchdrungener Organismus“, und hat „über haupt das Grundprincip aller nach Schönheit und Totalität drängenden Gestaltung im Reich der Natur wie im Gebiete der Kunst, erst in der Menschengestalt seine voll kommenste Realisation“ erfahren. Hieraus folgt, dass das Grundverhältniss seine constituirende Macht, so weit wie des Menschen Gestaltungsbedürfniss reicht, bewähren muss.
+
+Ueberlassen wir nunmehr die Ausbeute aus Zeising's Forschungen, inwiefern das höhere Kunstwerk daran be theiligt ist, der Aesthetik und wenden wir uns den Vor stufen der höheren räumlichen Kunstdarstellung zu, dem Handwerk, und weiterhin dem Kunsthandwerk, also dem Gebiet, zu welchem der Eingang unserer Arbeit in nächster Beziehung steht. Wir knüpfen an die Thatsache an, dass die Extremitäten des menschlichen Körpers durch Umsetzung ihrer Unterschiede in Maassstab und Anzahl zu „Gliedmaassen " werden, dass diese der Leiblichkeit entlehnten Maasse, vornehmlich die einfachen äusserlich an Arm und Hand und Fuss ins Auge fallenden, Dimensionen sind, und dass, unter Voraussetzung eines allgemeinen, die besonderen
+
+Formen regelnden Gliederungsprincips, Fusslänge und Fin gerzahl keine Zufälligkeiten, sondern leibliche Einrich tungsgesetze sind.
+
+Daher halten wir uns zunächst an das Organ, von welchem das Handwerk seinen Namen führt, und an das ihm unmittelbar zugehörige Ganze, den Arm. (Fig. 36. 37.) Die erste Theilung des bis zur Mittelfingerspitze aus gestreckten Armes in Ober- und Unterarm geschieht genau durch die Falte, welche das innere Ellbogengelenk bildet,
+
+[p. 233] Fig. 36.
+
+Fg. 37. c is ()
+
+Die Hand. a d die Ilinterhand von der Gelenkfalte der Handwurzel bis zu den Knöcheln. db die Der Arm. b Schulterhöhe, a Spitze des Mittelfingers, e Höhe der Achselhöhle, d Handwurzel.
+
+ganze Vorderhand: dc das hintere Finger glied bis zur mitteren Gelenkfalte des Zeigo und des Goldfingers, eb vordere Fingerglio der bis zur Spitze des Mittelfingers. Also ad: db = db: ab; dc: cb = cb: db: u. s. w.
+
+oder durch die Stelle, wo der Arm zwischen oben und unten die geringste Breite hat. Sonach verhält sich der Oberarm (von der Schulterhöhe bis zum inneren Ellbogen winkel) zum längeren Unterarm, wie dieser zum ganzen Dasselbe Verhältniss spricht sich am Oberarm durch die an der Achselhöhe, am Unterarm durch die von der Handwurzel gebildete Theilungsstelle aus. Es wiederholt sich mehrfach weiterhin in der Gliederung der Arm.
+
+Hand, die den Vorzug besitzt, nächst dem Kopf für das ausgebildetste Glied des menschlichen Körpers zu gelten. Wie nun diese Verhältnisse unter sich und mit denen des benachbarten Mittelkörpers, ferner mit denen der Total gliederung nach Längen- und Breitenrichtung correspon diren, wird durch zahlreiche bildliche Darstellungen bei Zeising und Bochenek verdeutlicht.
+
+Da die genannten Verhältnisse, wie Zeising bemerkt, am vollkommensten am Kopf ausgebildet erscheinen, so geben wir zur Vergleichung Fig. 38. Uebereinstimmend mit der auf der Bibliothek in Weimar käuflichen Photographie, welche nach der von Alex. Trippel 1790 in Rom gearbeite ten Büste Goethe's angefertigt wurde, ist sie eine ausneh mend charakteristische Bestätigung der Normalproportion. Nicht allein die Musculatur, sondern auch die inneren Gebilde stehen nach Gestalt, Lage und Anordnung unter ein und demselben Normalverhältniss; nur nicht in so fester Augenscheinlichkeit wie der knochengerüstliche Bestand, so dass die Frage sich erneuern dürfte, ob das Gehirn den Schädel oder dieser das Gehirn wölbe,
+
+Immerhin ergiebt sich eine ins Unendliche verlaufende, jeder Zählung spottende Combination, welche jedoch, Maass und Begrenzung in sich tragend, im Goldenen Schnitt „die Vereinigung des letzten Unterschiedes, d. h. des Unterschiedes der Einheit und der Verschiedenheit, erkennen lässt“ . (Zeising, S. 180.) Die Vertreter der Zeising'schen Lehre, so berechtigt [p. 235] sie sich glauben, die Allgegenwart des Normalverhältnisses für den ganzen Menschen bis zur Verästelung der Adern Fig. 38.
+
+Musterkopf. cb obere Kopfpartie vom Scheitel bis zum Orbitalrand; der Schnitt d bezeichnet den An fang des Haargrundes; ca untoro Kopfpartie bis zur Halsmitte (Kehlkopf); 6 Basis der Nase; f Vorsprung des Kinns.
+
+und Nerven in Anspruch nehmen zu dürfen, sind doch auch andererseits bescheiden genug, die Beweisführung [p. 236] über den gegenwärtigen physiologischen Thatsachengrund hinaus nur von dem dereinstigen Fortschritt der betreffen den Forschungen zu hoffen. Es fehlt schon nicht mehr an Erfolg versprechenden Versuchen, das bisher zwischen
+
+Physiologie und Psychologie mühsam gewahrte, aber schon vielfach durchlöcherte Gehege niederzubrechen. Sie ver künden das ewige Recht des als organisirender Macht in Menschengestalt eingefleischten Grundverhältnisses. Wir verstehen den Fingerzeig des plastischen Kunst werkes auf den lebendigen Menschen und finden uns auf dem geraden Richtwege in die Werkstätte des Handwerkers. Der „goldene Boden des Handwerks“ und der „Goldene Schnitta sollte für diese Nebeneinanderstellung nur
+
+Symbolik, nicht auch Thatsache sprechen? Die Frage, mit welchem Rechte eine Minderzahl von primitiven Werkzeugen als „Handwerkzeug“ im hervor ragenden Sinne bezeichnet werde, kommt hier so weit in Betracht, als die Eigenschaft der Handlichkeit gerade bei den Werkzeugen, ohne welche die menschliche Cultur überhaupt nicht gedacht werden könnte, von ganz besonderer Bedeutung ist.
+
+Ein Werkzeug ist eben stets um so leichter und bequemer zu handhaben, je mehr seine Formen durch das organische Normalverhältniss beeinflusst waren. Mag sich dieser Einfluss im Bereiche des Handwerks mehr unter dem Gesichtspunkte der Nützlich keit, im Bereiche der Kunstindustrie mehr vom Stand punkte des Wohlgefallens geltend machen, immer ist es der Goldene Schnitt, der, Nutzen und Schönheit einend, das Nützliche durch das Gefällige, das Schöne durch das Taugliche fordert, und auf der Grenze von Atelier und Werkstatt jeglichem Geräth im System der menschlichen
+
+Bedürfnisse Rang und Stelle anweist.
+
+[p. 237] Die Ansicht, dass das erste aus der Menschenhand hervorgegangene Werkzeug der thatsächliche Anstoss für die Culturentwickelung gewesen sei, hält sich mit Rücksicht auf die unserer Untersuchung gezogene Grenze fern von der Berührung mit dem, was die anthropologische Wissen schaft über Gleichzeitigkeit oder über Priorität theils von Wort und Gedanke, theils von Sprache und Werkzeug auf gestellt haben mag. Die Archäologie, des Menschen Uranlagen zur Cultur axiomatisch voraussetzend, fasst jedenfalls den urgeschicht lichen Menschen an der richtigen Stelle, wenn sie ihn bei der Hand greift und im ersten Steinbeil oder Hammer die erste reale Hand -lung erkennt. Nach Benjamin Frank lin ist ja der Mensch das „Tool making animal“ ! Da wir nun mit der Hand und an der Hand den ganzen Menschen halten, bleibt es sich in Betreff der weiteren Erörterung des Grundverhältnisses durchaus gleich, ob wir von den Fingerspitzen über Hand, Arm und Rumpf zum Verhält nissschnitt der normalen Körperlänge aufsteigen, oder ob wir von da aus in absteigender Linie wieder bei der Hand und den Knöchelfalten des Fingers anlangen. Wo nur irgend das Grundmaass am Menschenkörper geprüft wird, immer halten wir in der Einheit des Verhältnisses alle seine Unterschiede fest, und an jedem der Unterschiede deren aller Einheit. Wie diese Maassnahmen selbst mit Ausschluss aller Rechenexempel zu bewerkstelligen sind, erklärt Bochenek (S. 14), wo er das Verfahren mit dem für den besonderen Zweck angefertigten und ge stimmten Verstell- oder Reductionszirkel angiebt. Wenn man die längeren Schenkel auf eine in acht gleiche Stücke getheilte Linie stellt, so müssen die kürzeren nicht ganz fünf dieser Stücke umfassen.
+
+[p. 238] „Dann ziehe man eine gerade Linie, nehme dieselbe in die längeren Schenkel des Zirkels, setze dann auf die Linie die kleineren Schenkel auf, dadurch erhält man einen kurzen und einen langen Theil. Wird dieser lange Theil in die längeren Schenkel aufgenommen, so müssen die kurzen Schenkel mit dem kürzeren Theil stimmen; sobald keine Differenz in dieser Theilung stattfindet, ist der Zirkel normal gestimmt. Ohne dieses Verhältniss ist es unmöglich, mein System Fig. 39.
+
+Proportionsmesser.
+
+vergleichend zu verfolgen, es wäre darum anzurathen, sich mit einem solchen Zirkel zu versehen. Alle anderen Methoden, den Zirkel zu ersetzen, sind viel zu umständlich. “
+
+Wo ein Verstellzirkel nicht zur Hand ist, gewährt Fig. 39 ein brauchbares Schema zur Anfertigung eines Proportionsmes ser svon jeder gewünschten Grösse. Ist nämlich eine Linie ab, wic (Fig. 34) angegeben, in c nach dem Goldenen Schnitte getheilt und sind von einem Punkt d, in beliebiger Entfernung von ba, die Linien db, de und da gezogen, so werden alle möglicher Weise zwischen db und da fallenden Linien von dc ebenfalls im Verhältniss des Goldenen Schnittes getroffen.
+
+[p. 239] Nur um womöglich auch dem Ungläubigsten, von dem in Marmor festgewordenen Grundmaasse aus, augenschein liche Zifferbeweise für die Untrüglichkeit seiner Lehre zu liefern, hat sich Zeising die Mühe nicht verdriessen lassen, ein den Begriff des Normalverhältnisses störendes mechanisches Verfahren in Anwendung zu bringen. Man würde ihm diese Rücksichtnahme kaum anders denn als einen Nothbehelf angerechnet haben, wenn man seiner ausdrücklichen Verwahrung (S. 10), „dass sich das Gesetz niemals ganz durch endliche Zahlen erreichen lässt, dass es daher zugleich messbar und unberechenbar, zugleich rational und irrational, zugleich höchst klar und doch. mit dem Reiz einer niemals ganz zu ergründenden Tiefe umkleidet ist“ , die gebührende Beachtung gezollt hätte. Jedenfalls wird diesen und ähnlichen Missdeutungen unter Anwendung des Bochenek'schen Verfahrens die Spitze abgebrochen. Doch ist hierbei der von Zeising gemachte
+
+Vorbehalt in Bezug auf den freieren Spielraum, welcher der Uebereinstimmung der Einzelerscheinung mit dem Gesetz gelassen ist, wohl im Auge zu behalten. Indem Zeising von einer allseitigen Verfolgung des Gesetzes den Beweis dafür erwartet, wie die weltschöpferische Kraft mit den scheinbar geringsten Mitteln die grossartigsten Wirkungen zu Stande gebracht und aus dem Einen den Uebergang ins unendlich Viele und Verschiedenartige gefunden habe, fährt er fort:
+
+„Dieser Erfolg kann aber nur erreicht werden, wenn jede von ihrem besonderen Standpunkte aus das Gesetz einer speciellen und gründlichen Prüfung unterwirft
+
+Wissenschaft und die Ergebnisse der Beobachtung und Erfahrung mit den aus ihm folgenden Bestimmungen vergleicht. Natürlich wird man hierbei nie eine vollkommene Ueber einstimmung der einzelnen realen Erscheinungen mit dem Gesetz [p. 240] erwarten und verlangen können; denn jede einzelne Erscheinung ist als solche nothwendig in gewissem Grade unvollkommen und kann daher dem Gesetz nicht in jeder Beziehung ent sprechen.
+
+Ja sie vermag den Schein der Vollkommenheit nur dadurch zu erreichen, dass sie sich in gewissem Grade vom Gesetz des Ganzen losreisst und ihrer Particularität und Abhängigkeit das Gepräge einer eigenthümlichen Totalität und Freiheit aufdrückt.
+
+Das Gesetz wird also überall nur als der ideale Ur typus oder normale Maassstab anzusehen sein, dem sich die realen Bildungen bald mehr, bald minder nähern, und als die vollkommensten Realisationen im Gebiet der Einzelerschei nungen werden keineswegs diejenigen gelten dürfen, die es in seiner vollen Strenge und Starrheit verwirklichen, sondern welche daneben ebenso wie der menschliche Körper die volle
+
+Kraft des inneren Lebens und der Selbstbestimmung besitzen, durch die es scheinbar aufgehoben, in der That aber nur in Fluss und Bewegung gesetzt und auf höhere und freiere Weise zur Anschauung gebracht wird.“ (p. VIII.) Hier unterstützt Zeising seine Ansicht mit jener classischen Belegstelle aus Goethe's Aufsatz über die Principes de Philosophie Zoologique von Geoffroy de Saint- Hilaire: „Sehen wir immerfort nur das Geregelte, so denken wir, es müsse so sein, von jeher sei es so bestimmt und deshalb stationär. Sehen wir aber die Abweichungen, Missbildungen, ungeheure Miss gestalten, so erkennen wir, dass die Regel zwar fest und ewig, aber zugleich lebendig sei, dass die Wesen zwar nicht aus der selben heraus, aber doch innerhalb derselben sich ins Unförm liche umbilden können, jederzeit aber, wie mit Zügeln zurück gehalten, die unausweichliche Herrschaft des Gesetzes aner kennen müssen.“
+
+Die Forderung und die Zulassung jenes freien Spiel raumes für das Handwerk und für das Kunsthandwerk sind demnach gerechtfertigt.
+
+Der höhere oder niedere
+
+Grad der Handlichkeit und des Ebenmaasses ist nicht so wohl abhängig von scrupulöser Uebereinstimmung der Ein [p. 241] zelerscheinung mit dem Normalverhältniss, als vielmehr von der Einhaltung eines Beweglichkeit gewährenden Spiel raumes, der innerhalb der Schwellen zu grosser Gleichheit und zu grosser Ungleichheit der beiden Abschnitte zu suchen ist.
+
+Zum Beweis für das Gesagte sei nunmehr ein bekanntes Handwerkzeug als mustergültiges Beispiel hervor gehoben.
+
+Ich war einst Zeuge, wie ein alter Backwoodsman im westlichen Texas die Philosophy of the Axe, wie er es nannte, vordemonstrirte.
+
+Seine amerikanische Axt neben eine aus Deutschland stammende legend, deutete er die gröbsten Unterschiede aus. Hier der kerzengerade steiſe und störrige Stiel von auffallender Länge und einförmiger Dicke, dort das schlanke „handle " in gefälligem Wechsel doppelter Längsbiegung, hier ein Eisen in steif rechtwink ligem Ansatz, dort dasselbe mit leichter Einwärtsrichtung! Dann verweilte er mit besonderem Wohlgefallen bei letzterem, Sein schwieliger Finger überfuhr jene eigenthüm liche auf den Backen des Eisens erkennbare Anschwellung, erklärte deren Vorzüge in Bezug sowohl auf den wuchtigen Einhieb, wie auf die erleichterte Lockerung zum Rück schwung, machte aufmerksam auf die Beschaffenheit der zum handle verwendeten Holzart, des zähen Hikory, der in elastischer Schmiegsamkeit dem Prellschlag und der Verbellerung der Hand wehre. Das war Stoffes genug und ein gewiss recht handgreiflicher Anstoss zu weiterem Nach denken für den neuen Ankömmling! Die Frage liegt nun nahe, wie kommt es, dass diese Axt das Doppelte und Dreifache einer Tagesarbeit schafft im Vergleich mit der deutschen? (Fig. 40. 41.) Ein Blick auf die Musterkarten der berühmten Aexte KAPP, Phil. d. Technik,
+
+[p. 242] Fig. 40.
+
+Die amerikanische Axt und der menschliche Arm.
+
+von Douglas in Boston und von Collins in Hartford giebt Auskunft über die ungewöhnliche Sorgfalt in der Anfertigung eines Werkzeugs, von dem wie von keinem anderen so wesentlich die Begründung einer ersten Niederlassung
+
+Fig. 41.
+
+abhängt.
+
+Da findet man die ver $ schiedenen Muster je nach einzel nen Staaten der Union benannt und geordnet mit Rücksicht auf das Bedürfniss, je nach Oertlich keit und Berufsart, nach nationaler Gewohnheit und Lebensalter der Bewohner: die Yankee, Kentucky, Ohio, Maine, Michigan, Georgia,
+
+Turpentine, Fire Engine, Spanish Labor, Boys' Handled Pattern u. s. w. mit nicht geringerem An spruch auf Beachtung, als ander wärts die renommirten Firmen für Clavier- und Violinbau sich an kündigen. Bei all diesen Unterschieden der Anpassung an die mancherlei Gebrauchszwecke bleibt die Grund form der Axt in Uebereinstimmung mit dem Normalverhältniss des Or gans, dem sie dient, durchweg die selbe.
+
+Es giebt einige Geräthe, welche einer wesentlichen Verbesserung nicht weiter zugänglich sind. Zu diesen gehört die amerikanische Die deutsche Axt.
+
+Axt, deren einfache und gefällige
+
+Ausformung ein für allemal den
+
+Ansprüchen an höchste Zweckmässigkeit genügt. Die Ein- und Ausbiegungen ihrer Handhabe sind so beschaffen, dass sie an keiner Stelle ausserhalb des durch die Mitte der Enden gedachten Längsdurchmessers fallen. 16 *
+
+Das morphologische Grundgeset:.
+
+Bezeichnen wir das im Eisen befestigte Ende des Stieles als das obere, das entgegengesetzte als das untere und denken wir uns, Axt- und Armlänge des Arbeiters wie herkömmlich als gleich angenommen, die Axt mit nach auswärts gerichteter Schneide des Eisens in Parallellage mit dem Arm, so stimmt das obere Ende mit der Schulterhöhe und das untere mit der Mittelfingerspitze des ausgestreckten Armes.
+
+In diesem
+
+Fall trifft auch das
+
+Ellbogengelenk mit der Mitte der nächst dem Eisen befindlichen Einbiegung zusammen. Der kleine obere Theil verhält sich zu dem grösseren unteren, wie der grössere zur ganzen Länge.
+
+Innerhalb dieser beiden Theile wieder holt sich dasselbe Verhältniss in gleicher Weise, wie früher für den Ober- und Unterarm angegeben wurde, an den der Achselhöhe und der Handwurzel gegenüberliegenden Stellen. Die dem Ellbogen und der Handwurzel ent sprechenden Theilungsstellen sind zugleich diejenigen, welche die eine oben am äusseren Rand, die andere unten am inneren Rand der Einbiegungen vom Längsdurchmesser · berührt werden.
+
+Was das Eisen angeht, so ergeben sich für das Ver fahren mit dem Reductionszirkel ähnliche, wenn auch weniger wie dort auf den ersten Blick einleuchtende Resultate. Denn wo die Beziehungen von Länge, Breite und Dicke an kleineren Gegenständen sich mehr durchkreuzen, wird die Bestimmung verwickelt und steht vielfach unter dem Vortheil des innerhalb des Verhältnisses statthaften
+
+Spielraumes. Ein solches Werkzeug wie die amerikanische Axt ist insofern ein absolut fertiges, als seine Formverhältnisse das treue Abbild derjenigen eines organischen Vorbildes sind. Auf dieser Cebereinstimmung beruht das Ebenmaass, [p. 245] welches dem Werkzeug die Anwartschaft auf Zweckmässigkeit verleiht und es weiterhin auch in das Gebiet des Gefallenden und des Kunsthandwerks erhebt.
+
+Was hier von Einem Handwerkzeug gesagt worden ist, passt selbstredend mehr oder minder auch auf die übrigen. Ihre Brauchbarkeit richtet sich nach dem Grade ihrer Handlichkeit, diese selbst nach dem Maass der Uebereinstimmung mit dem unbewusst auf sie übertragenen Grundverhältniss der leiblichen Articulatur.
+
+Diese Uebereinstimmung ist zugleich eine Abstimmung des Werkzeugs nach dem organischen Grundverhältniss, ebenso wie die richtige, dem Organismus analoge Stimmung eines musikalischen Instrumentes, nur in derbstofflicher artefactischer Fügung. Artefact, das Fremdwort für alles „Gebild der Menschenhand“ , verräth uns, etymologisch näher ange sehen, einen tiefen Sinn, dem wir einen neuen Aufschluss über die Natur des Normalverhältnisses verdanken. Der Ausdruck weist zurück auf die dem griechischen dow, „füge“ , entsprossenen Sprachbildungen - üoti, üprios, úptúo, úptúo, uopov, ars, artus, articulus - , durch welche ein der Natur und der Kunst gemeinschaftliches Gesetz als Princip des Ebenmaasses hindurchleuchtet. Ohne irgend sprachlichen Weiterungen Raum zu geben, beschränken wir uns lediglich auf eine das õptiov betreffende Erörterung.
+
+Nach der bisherigen Auffassung nämlich sollten die Worte üptiov und nepooóv in der pythagoräischen Zahlen theorie das Grade und das Ungrade bedeutet haben. Richard Hasenclever hat jedoch in der oben angeführten Schrift mit Bezugnahme auf die von den Alten selbst und nachmals von Galilei gegebenen Fingerzeige nachgewiesen, dass jene Worte innerhalb der Schule einen ganz anderen Sinn hatten, so zwar, dass unter üptioy die bis ins un endlich Kleine theilbare Einheit, unter 7 quogóv die bis ins Unendliche vermehrbare Menge discreter Einheiten ver standen werden müsse. „Wenn nun hierbei, wie Niko machos sagt, die einheitliche Grösse mit einem lebendigen Organismus, wie Pflanze, Thier, sowie mit dem Weltganzen, dem Kosmos, verglichen wird, so kann sehr wohl die Ein heit in diesem Sinne auch ein votiov, d. i. ein Ganzes, Vollständiges, und hinwiederum die über alle Grenzen hinaus vermehrt zu denkende Menge ein περισσόν, a. 1. ein Uebergrosses, Uebervieles genannt werden. Dass dies die richtigen Grundbedeutungen sind, wird nicht be stritten werden können.“ „Nun findet aber die unbegrenzte Theilbarkeit, welche der Begriff des Ganzen gleichsam in seinem Schoosse trägt, ihren ganz exacten Ausdruck in der Reihe der Aliquot brüche; die Menge dagegen, d. i. die unendliche Vermehrung der Einheiten, in der Reihe der Ganzzahlen.“ (S. 10.) Hasenclever bezeichnet im Anschluss an die Schrift „Die harmonikale Symbolik des Alterthums“ von A. von Thimus, welche Katzenberger ein Werk von geradezu monumentaler Bedeutung nennt, die erstere der beiden Zahlengattungen als das Theilige (1) áprior), die letztere als das Nichttheilige (Tù regiooóv) und lässt sie in Einer Reihe sowohl in ihrem re ciproken Verhältniss einander gegenübergestellt, als auch in ihrer durch die Einheit hindurchgehenden Kreuzung (éralios) wiederum unzertrennlich mit einander verbunden anschaulich also hervortreten:
+
+„Von der Einheit ausgehend bis zum unendlich Grossen andererseits einerseits, und bis zum unendlich Kleinen [p. 247] bilden die Ganzzahlen (das Nichttheilige) eine stetige arithmetische, die Aliquotbrüche (das Theilige) eine harmonische Progression. Die Einheit selbst bildet stets die mittlere geometrische Proportionale zweier gleichweit abstehender Glieder, welche jedesmal reciproke Werthe sind. Wir finden mithin in dieser natürlichen Zahlenreihe die arithmetische, die harmonische und die geometrische Proportion, eine Verbindung, welche für die gesammte Harmonie von grösster Bedeutung ist.“ (S. 11.)
+
+Es ist die Sache derjenigen Leser der verdienstvollen Schrift R. Hasenclever's, welche, soweit sie zugleich Musik kenner sind, unter ihrer Führung an das Studium der harmonikalen Symbolik des Alterthums gehen wollen, sich mit deren Beweiskräftigkeit abzufinden. Wir unsererseits halten hier lediglich das üptiov fest, in nächster Beziehung auf das Grundverhältniss der organischen Glied fügung. Ohne Zweifel entspricht die Wahl der Bezeichnungen „Theiliges“ und „Nichttheiliges“ , anstatt des Geraden und Ungeraden, sehr wohl dem Musikverständniss. Meinem Zweck entsprechender und im allgemeinen deutlicher finde ich die Bezeichnung Inzahl und Anzahl und verstehe unter jener die in der Einheit als Unterschied gebundene
+
+Zahl, unter dieser die An- und Aufeinanderfolge der in arithmetischer Progression fortschreitenden discreten Einheiten, die ungebundene Zahl. Um bei der Hand zu bleiben, mit der wir ja als dem Factotum der Cultur vornehmlich zu thun haben, so ist der Fünffinger -Unterschied eine Inzahl, während von be liebig vielen anderen Gegenständen fünf herausgenommen eine Anzahl ausmachen. Letzterer kann zugezählt und abgezählt werden, die Einzelnen der Summen und Reste erleiden keine Veränderung; hingegen würde der Bestand der Inzahl für eine solche Gewaltthat absolut unzugänglich
+
+Das morphologische Grundgeset:.
+
+sein. Die Inzahl als solche ist unverletzlich, sie ist ein ad cor Accord, vom Herzleben des Ganzen, d. h. vom Begriff des Organismus verbürgt, dessen Versehrtheit das Ganze krüppelhaft afficiren würde. Die Reciprocität aber, wie sie oben in der Reihe des
+
+Theiligen und des Nichttheiligen betont wurde, fehlt auch in unserem Gebiete nicht. Denn der inzahlige innere Unterschied des einheitlichen Organes löst sich in die anzahlige äusserliche Vielheit des mechanischen Stück werkes. Die Anzahlnamen, eins, zwei, drei u. s. w ., sind als Sprachbestandtheile in alphabetischen Lauten Wörter wie andere Wörter; in ihrer Kurzschrift-Form, als Anzahl zeichen oder Ziffern, werden sie eines der feinstoftlichsten
+
+Werkzeuge des Menschen zur Orientirung über die Welt und sich selbst.
+
+Auch wir bekennen uns zu der Ansicht, dass die Zahlen blosse Vorstellungen seien und dass es in der Natur, der äusseren, keine Zahlen, sondern höchstens zähl bare Dinge gebe, Gegenstände, auf welche Zahlen ange wendet werden können (J. J. Baumann, Philosophie als Orientirung über die Welt, S. 63). Daher müssen die Zahlen, weil sie ursprünglich nicht den äusseren Dingen ent lehnt, sondern hervorgegangen sind aus der geheimniss vollen Tiefe des Grundverhältnisses der leiblichen Gliederung als der universalen Urquelle unseres Wissens und Könnens, jenen eingeborenen organischen Unterschieden ent stammen. Die Vorstellung von diesen Unterschieden, von innen nach aussen projicirt, vermochte sich dann an den einzelnen Dingen in die Realität eines Zählbaren und seiner Numerirung zu verwandeln. Aus den Beobachtungen von Reisenden unter Natur völkern ist zu schliessen, dass die ersten Zählversuche der Das morphologische Grumgesetz.
+
+Urmenschen von fast unglaublicher Schwierigkeit begleitet waren. Der Vorgang lässt sich wohl am besten so er klären, dass der Mensch nicht von vornherein darauf ver fiel, jene Versuche an dem gleichsam selbstverständlichen Mitdasein der gewohnten Naturumgebung vorzunehmen. Er wurde im Gegentheil auf dieselben hingenöthigt in dem langwierigen Verlaufe des nothdürftigen Zustande bringens seiner primitiven Geräthschaften. Nur die ange strengteste Aufmerksamkeit war im Stande, jedes erhasch bare Erleichterungsmittel festzuhalten. Mit dem hierbei erforderlichen ungeheuren Aufwande von Zeit und Mühe ist die Erscheinungsweise der wichtigsten und grossartigsten Erfindungen der historischen Zeit, in Erwägung des schon fertigen Vorrathes von Hülfsmitteln, kaum zu vergleichen. Der erste Hammer, der erste Bogen! Wie oft musste da gewählt, geprüft, bezeichnet, geändert, verdorben und wieder begonnen werden! Ein Dieses, ein Anderes, ein Jenes – das waren so viele wie ein Daumen, ein Zeigefinger, ein Mittelfinger, deren unterscheidende Namen gleich viele Gegenstände als discrete zu bedeuten und im weiteren
+
+Fortschritt der Handfertigkeit sich schliesslich in Zahl namen zu verwandeln anfangen. Noch giebt es heute Naturvölker, die nicht weiter als bis drei zählen können. War erst die Fünf gewonnen, 30 war von selbst der leichtere Schritt zur Zehn gethan, aus der das ganze unendliche Gefolge des Zahlensystems hervorgehen sollte. Von der Lösung der Riesenaufgabe der Abfingerung bis zur Fünf und zur Zehn, oder gleich zeitig damit, mochte sich von den beiden Händen und überhaupt von der durchgängigen Beidgliederung der
+
+Körperhälften das an den Unterschied von Rechts und Links gebundene Beidige in die ihm entsprechende An
+
+[p. 250] Das morphologische Grundgeset:.
+
+zahl Zwei herausgelöst haben, um als zehn Finger und zwei Hände in der Zwölfzahl paarig die Beweglichkeit der Theilung zu erhöhen.
+
+Dass die Fingernamen, sowie die Rechts- und Links bezeichnungen eine wesentliche Rolle bezüglich der Entstehung der Ziffernamen gespielt haben müssen, lässt sich aus einer von Lazarus Geiger gelegentlich einer Betrachtung über das Zahlwort Acht aufgeworfenen Frage entnehmen. „Sollte die Erklärung aus dem technischen Kunstgriffe so vieler Naturvölker beim Zählen, wo die Hand die Stelle einer primitiven Rechenmaschine versah, bis auf die Entstehung einfacher Zahlwörter selbst ausgedehnt werden dürfen?“ (Ursprung und Entwickelung der menschlichen Sprache und Vernunft, I, 320. 321.)
+
+Vom völkerpsychologischen Standpunkt aus kann die Ant wort auf diese Frage nur bejahend ausfallen, namentlich da Geiger selbst hinzufügt: „Zu der ungemeinen, für uns beinahe unbegreiflichen Wichtigkeit, welche der menschliche Körper für die Anschauung der Urwelt hatte, stimmt es ebensowohl, an zunehmen, dass die Zahlwörter ursprünglich überhaupt nicht die Aufgabe hatten, zu einer anderen Zählung verwandt zu werden, als eben nur zu der der Finger. Es war dem Menschen ohne Zweifel ein eben so interessantes Bewusstsein, fünf Finger, als zwei Hände oder zwei Augen zu haben; und das Interesse an dieser Kenntniss, welche einmal einer Entdeckung bedurfte, war ihm der Schöpfung eines zu deren Zählung eigens ver wendbaren Ausdruckes wohl werth; von hier aus mag der Ge brauch auf andere zu zählende Dinge übertragen worden sein, zunächst solche, bei denen es auffallen mochte, dass sie in eben so grosser Zahl vorhanden waren, als die Hand Finger hat.“ In dem „Fragment“ überschriebenen Abschnitt unterwirft Geiger Hand und Fuss, Arm, Hand und Finger einer sprach vergleichenden Erörterung, und im Anschluss daran sehr verschiedene Zählmethoden besprechend, verweilt er vorzugsweise [p. 251] bei der Hand, die er, wenn auch sonst ihre ganz unbe rechenbare Bedeutung für die menschliche Thätigkeit sich in der Sprache nicht wiederspiegele, als organischen Untergrund für die Hervorbildung der Zahlbegriffe nicht hoch genug stellen kann. (Bd. II, 223-239.)
+
+Seine hier sehr ins Einzelne gehenden Mittheilungen stellen es ausser Zweifel, dass die ursprüngliche sprachliche Finger unterscheidung den ersten einfachen Zahlwörtern ihre Entstehung gegeben hat.
+
+Die von der „primitiven Rechenmaschine" entlehnten
+
+Namen blieben eben haften an den Dingen! Die Abzählung nach der Fingergliederung ist einer der grossartigsten Fort schritte in der geistigen Entwickelung des Naturmenschen, dem die begriffliche Abtrennung der Gliedzahl von dem Gliedunterschied eben so schwierig sein musste, wie die oben S. 183 erwähnte begriffliche Abtrennung der Kraft von der Bewegung. Der Naturgriff der Hand des Urmenschen nach Beute und Nahrung, die Hand- und Kunstgriffe der niederen und höheren Technik helfen den universal geistigen Griff, den Begriff, entbinden, und die also durch Uebung vervoll kommnete Anlage des Greiforgans kommt dem in seinem Erscheinungsdrang als Idee sichtbar werdenden Gedanken in ursprünglich wahlverwandter Kunstfähigkeit entgegen. Die Vollmacht aber zu so offenbarer Gegenseitigkeit beruht in dem Grundverhältniss, welches von der Fülle der normalen Menschengestalt aus Gesetz und Regel der Erscheinungswelt zum Bewusstsein bringt, indem es die Inzahl und die Anzahl als Princip der orga nischen und der mechanischen Bildungen be greifen lehrt. Sobald die Anzahl zu einem bestimmten Zweck in Verwendung tritt, etwa dem einer in sich abgeschlossenen [p. 252] machinalen Construction, so reflectirt sie, gleichsam in einer Art von Erinnerung an ihre Herkunft, namentlich in ihrer Wandlung zur mathematischen Formel, die orga nische Ineinsfügung, aus der sie hervorgegangen war. Werden diese Formeln unbefangen in ihrem harmonischen Gefüge als Kunstwerke gewürdigt, so deuten sie auf dem Wege der mittels ihrer bewirkten Lösung physi kalischer und kosmischer Probleme auf das normale Kunst werk zurück, von wo sie stammen, auf den Menschen, der dadurch seiner Hand als des universalen Organs fortge setzter Selbstoffenbarung mehr und mehr inne wird. So bleibt denn ohne Frage die Hand und was sie schafft der reale Grund für das menschliche Selbstbewusst sein, ja alle Kunst und Wissenschaft wird im transscen dentalsten Fluge die Beziehungen zur Hand niemals los. Der Mensch mag sich drehen und wenden so viel er will, seine Hand bleibt überall bei Allem treibt mit im Spiele.
+
+was er denkt und
+
+Wie sie alle Dinge greift und hält, so wird sie auch im feierlichen Handschlag ergriffen und gehalten, in welchem sie Hand in Hand symbolisch den ganzen Menschen vertritt.
+
+Und so auch, hält die Wissenschaft den historischen Menschen, ohne sich immer ganz klar darüber zu sein, eigentlich immer an der Hand fest, die sie nicht los lassen darf, sofern sie überhaupt zugiebt, dass das erste Werkzeug aller Geschichtlichkeit Anfang ist. Auch wir wenden uns immer wieder zu ihr und der Behauptung zurück, dass jedes Werkzeug um SO vollkommener, d. h. um so handlicher ist, je reiner seine Formverhältnisse nach dem handhabenden Organ abge stimmt sind.
+
+In wie hohem Grade nun dies bei der amerikanischen
+
+[p. 253] Axt der Fall ist, davon giebt der Urwald Zeugniss. Vor der Aufgabe, die hier der menschlichen Thatkraft gestellt ist, würde ein schwerfälliges Werkzeug nicht Stand ge halten haben, und würde der rapide Fortschritt einer im Strömungsbette neuer Staatengründungen sich von Ocean zu Ocean ergiessenden Cultur kaum denkbar gewesen sein. Wohl fällt es im Hinblick auf die Besitzergreifung neu entdeckter Gebiete Niemandem bei, die weltgeschichtliche Bedeutung der Pulverwaffe in Frage zu stellen. Weniger allgemein ist die Ueberzeugung einer gleichen Bedeutung der amerikanischen
+
+Axt.
+
+Und doch hat sie denselben
+
+Antheil an der Bezwingung einer feindlichen Natur, die nur dadurch bewerkstelligt wurde, dass die Ausrodung der Wildnisse Hand in Hand ging mit der Ausrottung der Wilden.
+
+Wer sich demnach die grandiosen Dimensionen des westlichen Continents und seine riesigen Urwälder ver gegenwärtigt, aus denen neue Staaten gewissermaassen mit der Axt herausgehauen wurden, der wird allerdings einen Sinn darin finden, wenn der Hinterwäldler von einer Philosophy of the Axe spricht, und wird nicht umhin können, die Worte in Verbindung zu setzen mit dem Vorgang einer internationalen Ausstellung in der Neuen Welt und der erstmaligen Concurrenz der jungen Centennial-Cultur auf eigenem Grund und Boden mit der nach Millennien zählenden Cultur der Alten Welt.
+
+Die Ueberlegenheit der Vereinigten Staaten auf dem ganzen Gebiete der Werkzeug- und Maschinen - Technik gegenüber den anderen Culturvölkern ist anerkannt. Der Fortschritt, der sie dem Zeitpunkt nähert, wo sie auch in den übrigen Richtungen der Industrie die alten Nationen eingeholt haben werden, ist ein auffallend rascher. Was [p. 254] sie hierbei der Zweckmässigkeit ihrer Werkzeuge verdanken und inwiefern für diese das organische Grundverhältniss maassregelnd geworden, liegt auf der Hand, ja im buchstäblichen Sinn des Wortes „Manufacte – in der Hand. Forderte doch auch selten einerseits eine über mächtige und zugleich vielverheissende Natur das dem Menschen angeborene Gestaltungsbedürfniss in so hohem Grade heraus, und kam andererseits niemals ein so erhabenes Vorbild, wie es die Alte Welt in ihrer allseitig durch Kunst und Wissenschaft geförderten Industrie dar bot, in solcher Formenfülle dem menschlichen Bildungs drang entgegen! Was nun die Utensilien im allgemeinen angeht, so wird es Unterhaltung und Belehrung gewähren, wenn der Verstellzirkel prüfend an verschiedene Hand- und Zier geräthe in Küche, Wohnraum und Werkstätte gelegt wird, wobei ein verständiges Verfahren jeder Ausartung in minu tiöse Spielerei vorbeugt. Das wesentliche Verhältniss zwischen Handhabe, handle (Griff, Stiel, Heft), und dem eigentlichen form- und be wegungsverändernden Theil des Werkzeugs, sowie innerhalb jedes der Haupttheile selbst, springt meistens sofort ins Auge und findet auch an den Formaten sonstiger Ge brauchs- und Luxusartikel des täglichen Lebens vom ein fachen Octav des Papierbogens bis zu den nationalen Costümen hinauf nach Anleitung der Wittstein'schen Schrift eine überraschende Bestätigung. Dem Versuche, an dem Beispiel eines der Handwerks sphäre angehörigen Manufactes darzuthun, dass Handlich keit nur der Ausfluss des organischen Grundverhältnisses ist, kann nunmehr hinzugefügt werden, dass das Künstlerische überhaupt, also auch das dem Handwerklichen [p. 255] inhaftende, keine andere Herkunft hat.
+
+Denn im Kunst handwerk durchdringen sich Zweckmaass und Ebenmaass das eine ist auch das andere und dies ist auch die wahre Grundlage, auf der sich weiterhin die exacte super ficielle Technik mit dem vollen Anspruch auf Erregung des Wohlgefallens ergehen kann. Der kostbarsten Vase wird immerhin so viel an Schön heit fehlen, als ihre Dimensionen sich von der Verhält nissmässigkeit entfernen, während das einfachste Hand werksgeräthe, wofern es dem Normalverhältniss genügt, und bei sonstiger Reinheit der Ausführung, auf unbeding tes Gefallen wird rechnen können.
+
+Eingehend spricht sich Zeising über die Bedeutung des Goldenen Schnittes auch für alle diejenigen Zweige der Tech nik aus, „für welche die Erzeugung des Schönen zwar nicht der letzte und höchste Zweck ist, die es aber doch als ein höheres Bedürfniss betrachten, bei ihren zunächst für den Ge brauch bestimmten Erzeugnissen auch den Forderungen des Schönheitssinnes zu genügen. Da diese nämlich ihren Arbeiten nicht wohl durch Unterlegung einer höheren Idee oder durch eine ausdrucksvolle Gestaltung den Charakter der Schönheit mittheilen können, so sind, wenn man die Farben ausnimmt, die rein formellen Verhältnisse fast die einzigen Mittel, durch die sie eine ästhetische Wirkung auszuüben vermögen.“
+
+„Fragt man sich aber bei derartigen Gegenständen, z. B. bei Tischen, Stühlen, Schränken, Uhren, Vasen, Schalen, Kan nen, Leuchtern, Lampen, Urnen und sonstigen Haus- und Wirthschaftsgeräthen, oder auch bei reinen Ornamenten, z. B. Arabesken, Rosetten, Kanten, Deckenverzierungen, Tapeten mustern, oder auch bei Gegenständen der Bekleidung, der Bewaffnung, der Toilette u. dergl. -- worauf denn eigentlich, wenn sie missfallen, ihre Unschönheit beruhe, so wird man fast stets irgend welche Verletzungen der Verhältnissmässigkeit als Grund angeben müssen, sei es, dass uns die Höhe zur Breite, das Maass der Theile zu dem des Ganzen, der Grad [p. 256] der Ausbauschungen zu dem der Einbiegungen, die Gliederung des einen Abschnitts zu der eines anderen in Missverhältniss zu stehen scheint.“ „So leuchtet ohne Weiteres ein, wie wichtig auch für diese das Bedürfniss mit der Schönheit versöhnenden Künste es ist, sich auf die Erkenntniss eines zuverlässigen Proportionalgesetzes stützen zu können, und wie eng also eine geschmackvolle und wohlgefällige Gestaltung unseres Lebens mit einer weiteren Ausbeutung dieser Erkenntniss auch für diese Art von Pro ductionen zusammenhängt.“ (S. 410. 411.)
+
+Ohne Zweifel hat Fechner die angeführte Stelle in seiner Abhandlung „Zur experimentalen Aesthetik“ im Auge gehabt, wenn er seine Zustimmung dahin ausspricht, es werde von an sich wohlgefälligen Dimensions- und Abtheilungsverhältnissen „um so mehr ein Vortheil bei Gegenständen zu erwarten sein, die keine höhere Bedeutung überhaupt beanspruchen, die man aber doch auch wohlgefällig herzustellen wünscht, als namentlich den Werken der sogenannten Tektonik, d. i. Kunst der Gefässe, Geräthe, Möbel, Waffen, Kleider, Teppiche, Schmuck sachen u. dergl. bis in die allerdings auch höherer ideellen Bezüge nicht ermangelnde Architektur hinein, endlich in der Ornamentik.
+
+(S. 7. 8.)
+
+Es kann selbstredend der Zeising'schen Lehre durchaus nur zu statten kommen, wenn Fechner überdies in seinem neue sten Werke „Vorschule der Aesthetik“ (S. 184 bis 203) sich umständlicher über den Gegenstand in der Art auslässt, dass das von Wittstein beigebrachte Material einen bestätigenden Zuwachs erhält.
+
+Auf den etwaigen Einwurf, dass es eine Menge Hand geräthe gebe, die auch ohne sichtliche Uebereinstimmung mit dem Goldenen Schnitt immer brauchbar seien, lässt sich erwiedern einmal, dass sie überhaupt ohne alle und jede Anpassung an das sie führende Organ ganz unbrauchbar sein würden, sodann auch, dass ihre Brauchbarkeit mit dem Grade verhältnissgemässer Uebereinstimmung sich erhöht.
+
+Hat doch die Mehrzahl der Handwerkzeuge gerade [p. 257] dadurch ihre wesentliche Verbesserung in der amerikanischen Praxis erfahren! Und was wusste denn der Yankee vom Goldenen Schnitt? Die Rücksicht auf möglichst wenig anstrengende Handhabung war die einzige Richtschnur, der er folgte. Wir sehen hinterdrein zu und entdecken, dass er unbewusst sein eigenes organisches Grundver hältniss auf das Gebild seiner Hand, im Ebenmaasse mit sich selbst, projicirt hat. Sehen wir uns nun auch in der Sphäre des Kunst handwerks nach einem tadellosen Muster einer auf dem Wege solch organischer Projection entstandenen Formgebung um, wir wüssten kein gelungeneres zu nennen, als die Vio line.
+
+Die sie betreffende, von Julius Zöllner angestellte
+
+Betrachtung führt auf Resultate, die für die Bestätigung des Gesagten nicht günstiger hätten ausfallen können. In seiner Uebersicht der Geschichte des Geigenbaues nämlich (Buch der Erfindungen) kommt es ihm vor, als ob das Geheimniss der Verhältnisse, welches die alten Gei genbauer durch einen besonderen Instinct gefun den zu haben schienen, verloren gegangen wäre, und als ob die unau aussprechliche Schönheit der Amati, Guarneri, Stradivari nur durch Nachahmung ihrer Bauweisen einiger maassen zu erreichen sei. Sodann auf die Bestandtheile und die Theorie der Geige übergehend, bemerkt er:  و„رEs ist schwierig zu sagen, welche der einzelnen Theile der Geige und der mit ihr verwandten Saiteninstrumente zu dem Gelingen des Tones beitragen. Die Abstufungen sind so mannig facher und untereinander so zart nüancirter Art, dass bei den verschiedenartigen Bestandtheilen der Einfluss des einen oder des anderen aus dem zusammengewirkten Product kaum herauszulesen ist.“66
+
+Savart hat zwar versucht, die Theorie der Geige
+
+KAPP, Phil, d. Technik.
+
+2:39
+
+D28 surfhologische Grudget:.
+
+narh physikalischen Grundsätzen zu entwickeln, allein mit so gut wie keinem Erfolge; denn das sargähnliche Instrument, das er aus sechs rectangulären Brettchen zusam mensetzte, ist mit der Geige in keiner Art zu vergleichen. Die Gesetze schwingender Platten, wie sie in der Physik aus einfachen Experimenten abgeleitet werden, er leiden bei der Geige eine solche Complicirung, einmal durch die eigenthümlich construirte Form, sodann durch die Wölbung der Decke, durch den Einschnitt der Löcher, durch die verschiedene Dicke des Holzes, durch die Be festigung des Randes, durch die durchgezogenen Stäbchen und Stützen, durch die verschiedene Vertheilung der Spann kräfte, welche der Bezug ausübt u. s. w., dass, obwohl alle diese Factoren natürlicher Weise von der einfachsten
+
+Gesetzmässigkeit beherrscht werden, doch das endliche
+
+Ergebniss nicht in eine einfache Formel zu fassen ist. In gleicher Weise wirken nun auch der Zargen, der Boden und der Hals ein.
+
+Keiner dieser Theile ist aber erschö pfend für sich auf seine Wirkungsweise zu untersuchen, und deswegen sind auch an Versuchsapparaten, an denen der eine oder andere Bestandtheil fehlt, keine Beobachtungen zu machen, welche auf die Geige einen unmittelbaren Schluss zuliessen."
+
+„Damit kann selbstverständlich nicht gesagt sein, dass die physikalische Wissenschaft sich von der Erklärung und Begründung dieses Instrumentes ganz zurückziehen sollte, im Gegentheil werden ihre Schlüsse den Instrumen tenbauern wesentliche Vortheile an die Hand zu geben vermögen, nur müssen sie umgekehrt das Instrument als ein fertiges Product annehmen und den Gründen seiner Eigenthümlichkeit a posteriori nachspüren.“ (Buch der Erfind. II, 435. 436.)
+
+[p. 259] Dieser Auffassung zufolge ist also die Geige ein durch einen besonderen Instinct Gefundenes, sie muss als ein fertiges Product axiomatisch aufgenommen werden, die Verhältnisse ihrer Construction sind ein Geheimniss und den Gründen ihrer Eigenthümlichkeit hat man a posteriori nachzuspüren. Inzwischen wissen wir zur Genüge, dass die allein richtige Spur auf den Organismus führt, von dem der in stinctartige, unbewusst gerathene, Fund ausgegangen war. „Nachspüren " welch' unübertrefflicher Ausdruck für das Wesen der organischen Projection! Einem Phantom kann man nicht nachspüren, weil überhaupt Spuren von ihm nicht vorhanden sind, wohl aber einer Realität, von der sich Spuren ihres Werdens auffinden lassen. Auf die richtige Spur deutet nun aber auch J. Zöllner selbst mit dem schönen und klaren Hinweis:
+
+„Die Geige ist, wie sie ist, ein durchgeistigtės Instrument, ein Organismus, wie ihn belebte Wesen haben; sie hat Körper, Nerven und Seele. Jedes derselben hängt von dem anderen ab in natürlicher Weise, aber keines lässt sich von dem anderen lostrennen und für sich auf seinen belebenden Einfluss bemessen und erwägen.“
+
+Nur bildweise kann es selbstredend gemeint sein, wenn hier das Instrument ein Organismus genannt wird; es kam ja nur darauf an, dem Aufspüren eine anschauliche Richtung zu geben auf die innere Beziehung, in welcher das construirte Machwerk dem construirenden Menschen verbunden bleibt.
+
+Die Geige ist ein durchaus fertig in sich Abgeschlos Auf der hier deutlich bezeichneten Spur kann allein ihre Analyse gelingen, da das organische Grund verhältniss der Hauptschlüssel für alle seine Nachbilder senes.
+
+17 * [p. 260] ist, und diese selbst wieder die Nachschlüssel für die Ein zelzugänge der Sinnespforten des Organismus sind. Wie einerseits unter der Hand des ungeschickt Spielenden das Instrument misstönen, und wie eine Verhältnissstörung im Bau des Instrumentes auch den, der es handhabt, verstim men kann, so dringt andererseits aus dem gegenseitigen Sicherkennen beider all jene Kraft und Weichheit der Harmonie, für deren Entstehen und Verstehen der leibliche Organismus allein den richtigen Aufschluss giebt.
+
+Wo man einem Künstler nachrühmt, er sei gleichsam Eins mit seinem Instrument, da machen Arm und Hand gelenk in schmiegsamer Beugung, die Finger in der Be rührung der Saiten, ja des Künstlers ganze fügsam nach giebige Haltung den Eindruck, als tönten auch sie. Und thun sie es nicht in Wahrheit? Die Klänge des Instrumentes, wer hat sie ihm eingesenkt, wer entlockt sie ihm, woher stammen sie?
+
+Ist es nicht die Macht und Schön heit des Organismus, die hier uns entgegenrauscht, die uns durch uns selbst ergreift? Sind doch musikalische Instrumente gleich den Werk zeugen des Handwerkers, ja in noch höherem Grade, die Fortsetzung von Organen, Fortsetzung des ganzen Men schen. Könnte das in der Hand gehaltene und an den Mund gefügte Blasinstrument mit dem ganzen Menschen eine im eigentlichen Sinne geschlossene Klangkette bilden, wenn es sich den Organen contrar und nicht vielmehr conform verhielte, wenn nicht das leibliche Gliedmaass sich seiner Construction mitgetheilt hätte? Auch die In strumentalmusik, die der Mensch „macht" , ist, wenn auch nicht unmittelbar wie der Gesang, tönender Organismus. Gesang wird nicht „gemacht“. Es ist daher bezeichnend, dass der Ausdruck „Musikmachen“ dem Hervorquellen der [p. 261] Töne unmittelbar aus der organischen Harmonie durchaus widerstrebt, und dass auch die Redensart „die Musik kommt“, welche die Instrumente und die Musiker identificirt, niemals auf ein Sängerchor Anwendung finden kann. Seit das Monochord einen Lichtstrahl in das Dunkel eines der Vorhöfe des Gehirnnervencentrums gesendet hat und das mikroskopische Wunder des Corti’schen Organs gleich einem Cerebralspectrum aufschimmern lässt, wird auch hier ein „Introite“ so lange forttönen, bis die Leuchte rastlos inductiver Forschung über die noch die ganze Wahr heit verhüllende Dämmerung, unter dem Beistand instru mentaler Besaitung, mehr und mehr Herr werden wird. Die Geschichte der schon in den früheren Perioden unserer Zeitrechnung bekannten Streichinstrumente lässt einen stetigen Fortschritt in deren Herstellung erkennen bis zum 17. Jahrhundert, wo die Geige den Gipfel ihrer tech nischen Vollendung erreicht hatte. Ihr Bau kann niemals einer Kritik seitens des Goldenen Schnittes unterliegen, wohl aber hat umgekehrt dieser seine Probe an jenem zu bestehen, und er besteht sie an ihm nicht minder überraschend und durchschlagend, als an den plastischen Kunstwerken.
+
+Wer den Versuch nicht scheut, in eine Einschluss form, deren horizontale Linien gleich sind dem kleineren oberen Stück der nach dem Goldenen Schnitte getheilten senkrechten Seiten, das Oberflächenbild einer Violine zu zeichnen, der wird Kasten, Hals, Griffbrett, Steg und Schalllöcher, jegliches im richtigen Entfernungsverhältniss zu Allem finden. (Fig. 42.) Dieselbe Uebereinstimmung mit dem Goldenen Schnitt wird sich ohne erhebliche Abweichung auch in Bezug auf die zwischen Oberfläche, Seitenwand und Boden obwaltenden Verhältnisse herausstel [p. 262] len. Nur was die bis jetzt kaum sagbaren und nicht zu definirenden feineren Beziehungen und Unterschiede von Auswölbung, Stimmstock, Bogen, Holzsorte und Saiten bezug angeht, harrt zukünftiger Aufklärung. Diese aber wird erst mit der mehr zum Gemeingut gewordenen Ein Fig. 42.
+
+b f
+
+Die Violine.
+
+sicht gelingen, dass das Verhältniss des Goldenen Schnittes, über die augenfällige Sinnesauffassung hinaus, zugleich als Werthmesser unserer Vorstellungswelt der Aufspürung idealer Relationen dienen muss, wenn es der in jedem wahren Kunstwerke realisirten Einheit von Sinnlichem und Geistigem genügen will. Seit kurzem machen die Violinen nach dem System des Prof. Tuzzi viel von sich reden.
+
+Das Problem, neue Violinen herzustellen, welche bezüglich [p. 263] des Wohlklanges denen der alten Meister gleichstehen, soll gelöst sein, und zwar durch ein noch geheim gehaltenes Verfahren, welches dem Material die richtige Beschaffen heit verleiht. Ehemals nämlich, als ein Geigensonanzdeckel seine 60 bis 100 Jahre brauchte zur völligen Durchtrocknung, unterlag das Holz dem natürlichen Trocknungsprocess von aussen nach innen. Nach der neuen Erfindung geht der selbe künstlich in kurzer Zeit von innen nach aussen vor sich, mittels Einpumpen von erwärmter Luft in die Poren, so dass Säfte und Harztheile ausgähren und Gleichheit der Vibration in Folge der gleichen Trocknung aller Schichten des Holzes erreicht wird, ohne dass Gefässe, Zellen,
+
+Klangfäden und Klangknoten darunter. leiden. Wir sehen, dass die neue Erfindung, die immerhin ihre
+
+Probehaltigkeit, gleich den Sonanzdeckeln der Amati und Stradivari, im Laufe der Zeit erst noch zu bewähren haben wird, sich nicht auf die äusseren Verhältnisse des Baues er streckt, sondern nur auf die inneren Verhältnisse der mole cularen Anordnung des Materials. Sollten diese aber ausser halb des allgemeinen Grundverhältnisses liegen können? Die früheren Meister halfen sich mehr instinctartig mit Holz von alten Kirchenstühlen und Hausmöbeln, die heutigen profitiren von der Wissenschaft, welche frischem
+
+Holz die Eigenschaften des alten zu geben verheisst. Aber einem späteren höheren Wissen ist es vorbehalten, auch dieses Verständniss unter dem Gesichtspunkte des orga nischen Grundverhältnisses im Einklang mit der Organ projection zu erkennen! So betrachtet ragt die Violine weit über das Kunst gewerbe hinaus, indem sie in das Kunstgebiet selbst eintritt und, nebenbei bemerkt, auch im Geldwerth mit eigentlichen
+
+Kunstwerken rangirt, wie denn unter anderen noch kürzlich
+
+Das morhologische Grundgesetz.
+
+eine der Prager Domkirche gehörige Cremoneser Geige von Stradivari für den Preis von mehreren Tausend Gul den verkauft wurde. Das ihr von den älteren italienischen
+
+Meistern intuitiv eingehauchte Tongeheimniss hat sich bis jetzt spröde gegen die sorgfältigste mechanische Nachahmung verhalten.
+
+Es steht in Aussicht, dass das neuerdings der Lehre Zeising's lebhafter zugewandte Interesse den Weg zur Er schliessung des Geheimnisses wesentlich ebnen werde, eine Annahme, in der wir uns vorzüglich durch die von 0. Cas pari wiederholt dem Gegenstand gewidmete Aufmerksamkeit in hohem Grade bestärkt sehen. „Im Goldenen Schnitt,“ sagt er, „sind die zu grosse Gleichheit der Theile (als zu schwacher Contrast), wie die zu grosse Ungleich heit (als zu starker Contrast) vermieden, und so liegt es denn nahe, in diesem Ausdruck einen feinen, geistigen, mathematischen Werthmesser zu suchen, der nicht nur in ästhetischer, sondern auch in erkenntnisstheoretischer Hin sicht, sowie endlich auch in psychologischer Beziehung einen objectiven Anlehnepunkt für die Arten und Formen der In tellectbewegungen gewährt. Unsere vorstehenden Ausführungen haben bereits bewiesen, wie mannigfache Fingerzeige uns durch unseren Werthmesser für die Aufhebung von Einseitigkeiten, von logischen Unmöglichkeiten und Wider sprüchen hinsichtlich der Begriffsbildung gegeben wurden.“ (Grundprobleme der Erkenntnissthätigkeit I, 155.)
+
+Vor Caspari hat nur Conrad Hermann den Goldenen Schnitt auch dem Gebiete der Logik vindicirt, indem er das allgemeine
+
+Gesetz der ästhetischen Harmonie dem logischen Gesetz der Richtigkeit an die Seite stellt, umgekehrt im Goldenen Schnitt die logische Form der Schlussfolgerung wiedererkennt, und die drei Urtheile, aus denen eine Schlussfolgerung besteht, als den [p. 265] drei Gliedern des Goldenen Schnitts correspondirend nachweist. (a. a. 0. S. 12. 13.)
+
+Schon in Caspari's früherem Werke „Die Urgeschichte der Menschheit“ gipfelt der ganze Abschnitt über „Die Entstehung der Kunstidee“ (II, S. 362 bis 400) in der Anerkennung, dass der Goldene Schnitt das Wesen der ästhetischen Harmonie und die ästhetische Grundidee des Weltalls widerspiegele. Hier auch findet sich zum ersten Male die unbefangene Ueberzeugung ausgesprochen, dass auch für die philosophische Idee der Wahrheit dieses Gesetz die nämliche Gültigkeit besitze. In solcher Einheit mit der philosophischen Idee steht das Gesetz auf unerschütterlichem Grunde.
+
+Die in Obigem dem vollendetsten musikalischen Instrumente zugewandte Ausführlichkeit lässt die Anführung weiterer Beispiele in Bezug auf das Verhältniss des Kunsthand werks zu seinen Nachbargebieten überflüssig erscheinen. Sollten sie gleichwohl vermisst werden, so geben die illustrirten geschichtlichen Specialarbeiten über den Gegenstand dem Leser hinreichende Auskunft. Diese wird ihm, je nach der grösseren oder geringeren Vervollkommnung einzelner Erzeugnisse der
+
+Kunsttechnik, die entsprechenden Modificationen nach dem Gol denen Schnitte erleichtern helfen. „Nicht als wenn,“ wie Cas pari bemerkt, „der Ausdruck des Goldenen Schnittes überall mathematisch absolut getroffen werden könnte, aber die orga nische Vervollkommnung und das Bildungsgesetz suchen die sen Weg im allgemeinen einzuhalten, um den von diesem Grundverhältniss zu extrem abweichenden Formen zu ent gehen. (a. a. 0. S. 384.)
+
+Waltet wahre Kunst nur da, wo die Gesetze der Schönheit aus der menschlischen Gestalt heraus in pla stischer Ineinsfügung eines Inneren und eines Aeusseren anschaulich werden, so folgt, dass der Goldene Schnitt dem Kunstwerk immanent, d. h. nicht ein etwas Anderes ihm von aussen Zugebrachtes ist. Hiermit ist jedem Attentat, welches auf Maassregelung der Kunst ausgehen wollte, das Urtheil gesprochen. Denn die Kunst lässt sich nicht [p. 266] maassregeln, sie ist Maass in sich selbst und theilt ihrer seits Maassstäbe aus an das unendliche Reich ihrer Nach bildungen, in welchem das Kunsthandwerk regiert.
+
+Dabei hat man sich stets zu vergegenwärtigen, dass, wie Handwerk und Kunstgewerbe nicht selten die Vor stufen des Bildungsganges grosser Künstler waren, so auch die Kunst öfter sich wieder abwärts bewegt, um sinkend in rein handwerksmässiger Verkommenheit zu enden. Die Uebergänge, meist unmerklich, haben ihre Scheidemark in Allem was Maassstab heisst.
+
+Wo dieser aufhört, fängt die Kunst an, und wo das rationelle Messen anfängt, hört die incommensurable Kunst auf.
+
+Das Maass aber wohnt der Inzahl inne, dem organischen Aussichselbst, der Maassstab der mechanischen Zu that von aussen her.
+
+Hiermit ist jedoch keineswegs gemeint, dass nicht auch das Handwerk, um wie viel mehr nicht das Kunst handwerk, von Strahlen der Kunstglorie siegreich durch Hat doch schon oft ein genialer Griff sinnigen bisher unbeachteten Arbeiter zum grossen den Erfinder, zum ruhmreichen Künstler emporgehoben!
+
+brochen werde.
+
+Die bisher behandelten Utensilien und Geräthe waren solche Gegenstände, von denen der Mensch zeitweise sich trennen kann, ohne gerade dadurch in seiner Existenz bedroht zu sein, da sie weniger auf eine unmittelbare leibliche Zugehörigkeit zu ihm Anspruch haben. Anders verhält es sich mit Allem, was zur Körperbedeckung und deren Vervollkommnung, zum Costüm, gehört. Dass wir im Anschluss an das Costüm auch die Architektur in Betracht ziehen, wird sich rechtfertigen lassen. Bei der Unthunlichkeit, auf Einzelheiten hier näher einzugehen, wird die Andeutung genügen, dass die Be [p. 267] griffe Costüm und Architektur aus den ursprünglich auf den Schutz des Körpers berechneten Vorrichtungen, aus Bekleidung und Behausung, hervorgegangen sind, mit deren primitivster Beschaffenheit die mehr als bild weise Bezeichnung der Körperbedeckung als einer „por tativen Wohnung“ sehr wohl sich verträgt. Die Sprach verwandtschaft von „Gewand“ und „Wandung“ , sowie der Halbhumor des „hölzernen Schlafrockes“, als letzter enger Wohnung aller Hütten- und Palastinhaber, deuten darauf hin.
+
+Was die Kleidung angeht, so giebt die Taille in Uebereinstimmung mit der an der menschlichen Gestalt sichtbaren Hauptform des Goldenen Schnittes taille eigentlich der  و„وEinschnitt" - den Grundton für das Kleidsame einer herrschenden Tracht.
+
+Die verdienstvolle Volksschrift von II, Klencke „Kosmetik oder menschliche Verschönerungskunst auf Grund lage rationeller Gesundheitslehre hat den Goldenen Schnitt nicht ohne Rücksicht auf Bekleidung soweit in Betracht gezogen, dass deren Verfasser sich zu der Bemerkung veranlasst gesehen hat: „Das Gesagte wird für eine Volks schrift ausreichen, um den Leser davon zu überzeugen, dass die regelmässige, angenehme und schöne Körperform sich nicht von Gesetzen frei machen kann, welche durch Raumverhältnisse der Theile zum Ganzen sich in der Natur überall geltend machen, und deren Form ausdruck dem verfeinerten Sinne gefällt.“ Eingehenderes über Kleidertracht nebst Illustrationen findet sich in der trefflichen Schrift von Wittstein, der die beistehenden Abbildungen entlehnt sind. (Fig. 43. 44.)
+
+SCHE
+
+S
+
+Für die darstellenden Künste erweitert sich der Be
+
+FUNCHEN
+
+DEUT griff „Costüm“ von den die Leibesgestalt deckenden Klei [p. 268] derformen mit Einschluss festlicher Ornate über Alles, was der Körper trägt, hinaus auf die nächste von der Fig. 43.
+
+А netary f
+
+Weibliche Tracht.
+
+Menschenhand geschaffene Einrichtung des Wohnraumes und von da auf die angrenzende Umgebung. So gehören Werkstätten, Studir- und Toilettenzimmer, Parks, Hof haltungen, Auditorien, Bibliotheken, Bühnen u. S. W.
+
+[p. 269] zum Costüm irgend einer damit in nächster 'Beziehung stehenden und dadurch charakterisirten Persönlichkeit. Fig. 44. А
+
+C* f
+
+Männliche Tracht.
+
+Der „Salon“ von 1876 bringt eine von tieferem Ein blick in unsere gewerblichen Zustände zeugende, sehr lehr reiche Abhandlung über das Kunstgewerbe der Neuzeit von A. v. Eye, in welcher das Verhältniss der Wohnung zur Kleidung übereinstimmend mit Obigem aufgefasst wird: „Auf das, [p. 270] was wir zunächst um uns und an uns haben, auf unseren An zug, achten wir, denn darin sind wir zu Hause, darin leiden und freuen wir uns. wir uns so einzurichten trachten, dass bis zu den fernsten
+
+Aeusserungen unseres Daseins uns behaglich wird, so dass Zimmer, Kammer, Haus und Garten eine Fortsetzung, eine Erweiterung unserer Kleidung bilden.“
+
+In Betreff der Architektur ist zu bemerken, dass Zeising antike und mittelalterliche Bauwerke, namentlich Tempel und Kirchen, seiner Prüfung unterworfen hat und eine erhebliche Anzahl von Belegen für die Richtigkeit des Proportionalgesetzes vorführt. Genaue bildliche Darstellungen unterstützen auch hier seine Beweisführung.
+
+In dem allmäligen Herauswachsen des Begriffes Co stüm in so umfassender Bedeutung aus dem ursprünglichen
+
+Bedeckungs- und Bedachungsbedürfniss des Körpers her aus, erhebt sich die Architektur über die Linie der Dienst barkeit und der Nützlichkeitszwecke zu jenen freien monumentalen Gestaltungen, in denen der Mensch, wie über haupt in allen Werken der Kunst, zum Bewusstsein kommt über den Erscheinungsdrang der in ihm selbst leibhaft gewordenen organischen Idee. Somit wäre nach dieser Auffassung die gesammte Cultur in Wahrheit das Gross - Costüm der Menschheit, unter der von der Menschengestalt ausstrahlenden Alles ver klärenden Macht des im Goldenen Schnitt lebendigen Pro portionalgesetzes, und wir pflichten dem Worte Zeising's bei, dass die Cultur nichts anderes ist, als die in höherem Sinne sich weiter bildende Menschen natur. (S. 179.) Werfen wir nunmehr einen Rückblick auf den Gang der bisherigen Erörterungen über das organische Grundverhältniss.
+
+[p. 271] Im Gegensatz zur mechanischen Construction bethätigt sich die organische Gliederung in der wechselseitigen Accommodation aller Glieder untereinander, so dass, im Einklang mit der Lehre vom Goldenen Schnitt, jedes das Bestehen aller anderen verbürgt.
+
+Die Bedeutung dieser Lehre für die Würdigung des Ebenmaasses, wie es in der Menschengestalt seinen höchsten Ausdruck findet, erfährt zunehmende Anerkennung in den neuesten sich mit dem Gegenstand beschäftigenden Schriften. Wo immer sie den Menschen als Maass der Dinge auf nehmen, verlegen sie den Begriff des Maasses in die leben dige Einheit der organischen Unterschiede, in das sich in ihm selbst wiederholende Normalverhältniss und verweisen
+
+Maassstab und Ziffer dahin, wo sie zu Hause sind, in das Gebiet mechanischer Formen.
+
+Alle Artefacte sind Manufacte, Werke der Hand. Das
+
+Handwerk, das Kunsthandwerk und die eigentliche höhere Kunst sind die Stufen aufsteigender Vervollkommnung, je nach den Uebergängen des Künstlichen und der Kunst stücke in Kunstwerke, des Nutzgefälligen in das rein Wohl gefallen Erregende, der Utensilien in freie über das Noth wendige erhabene Schöpfungen. In der Hand hat das Proportionalgesetz den freiesten Spielraum, weshalb sie das beweglichste, gestaltungsfähigste und das eigentlich werkthätige Organ ist. Die Hand ver tritt in ihren realen Leistungen, ja auch symbolisch, wie schon das Wort Handlung besagt, den ganzen Menschen. Was Gehirn und Theorie auf der einen Seite, das ist Hand und Praxis auf der anderen.
+
+Denn dass Hirn und Hand,
+
+Theorie und Praxis allseitig sich decken, ist das Ziel aller denkbaren Arbeit, dem der Mensch nur dadurch näher rückt, dass die Hand selbst sich mit den Mitteln aus [p. 272] rüstet, welche geeignet sind, ihre Kraft und Geschicklichkeit über die leibliche Grenze hinaus zu erweitern. Die Hand vollführt was ihr frommt und bleibt in der Anpassung und in der Handlichkeit ihrer Gebilde immer bei sich selbst, indem das Verhältniss ihrer articularen
+
+Fügung zum Maass wird für das aus ihr hervorgehende Artefact. Eine sprichwörtliche Redeweise lässt Mancherlei „aus dem Aermel geschüttelt“ werden; es wird aber auch Vieles aus der Hand geschüttelt, die der Aermel birgt, und „aus den Fingern gesogen“, wovon Philosophie und Mathematik bis jetzt sich wenig haben träumen lassen. Auf dem versteckten oder verleugneten Hintergrund einer schon erworbenen empirischen Kenntniss der Erscheinungswelt bläst sich das Vorstellen forcirt zu SO genannten rein abstracten Begriffen auf, die freilich sofort wieder zerplatzen. Wie mit Raum und Zeit, so auch ver hält es sich mit Zahl.
+
+In der leeren Unendlichkeit echappirt zuletzt Alles.
+
+Anders stellt sich der Begriff der Unendlichkeit mit dem Prospect auf Erscheinung, d. i. die Idee des Unendlichen oder das als ewiges Werden des Endlichen gedachte Unendliche.
+
+Schon der bestimmte Artikel, wenn wir sagen, der“ Raum, mahnt an den Hintergrund und färbt die sogenannte absolute Leere. So auch tritt „die“ Zahl mit bestimmter Beziehung auf. Schematisch als Linie vorgestellt, bleibt sie nach der einen Richtung immer die Einheit als artische Ineinsfügung von Unterschieden (das Artion), und ist nach der anderen Richtung immer eine Aufeinanderfolge discreter, überzähliger Einheiten (das Perisson). Auf der einen Seite also die Inzahl, organische Gliederung und Unterschiede, auf der anderen Seite die [p. 273] Anzahl, mechanische Abtheilung und Ziffern. Dort Kunst und Philosophie, hier Mechanik und Mathematik, und inmitten zwischen Verinnerung und Veräusserung der Zahl,
+
+Hand in Hand mit Speculation und exactem Vorgehen die Formel, das grosse Fragezeichen an die gegen ständliche Welt, welche diesem nicht nur Antwort giebt, sondern dessen Urheberin sie zugleich ist, und zwar des halb, weil mit ihrer eigenen stummen Frage an den Menschen, den „Denker“ und „Messer ", die Formel co incidirt.
+
+Dieser Rückblick wird genügen, um das natürliche Werkzeug, die Hand, als Organ im eminenten Sinne voll gültig zu legitimiren. Indessen nöthigt uns, bevor wir uns einer neuen Seite unserer Betrachtung zuwenden, der Um stand, dass die Hand mit dem Pentagramm in mystische Berührung gerathen ist, dafür zu sorgen, dass sie aus dieser Trübung nicht allein frei ausgehe, sondern noch erhöhtes Ansehen davon trage. Denn noch öfter werden wir uns auf sie als die zuverlässigste Repräsentantin des Normalverhältnisses und als Spenderin der Zählwerthe zu berufen haben. Die menschliche Hand und das Fünfeck sind sich im allgemeinen in ihren Verhältnissen so ähnlich, dass vor dem vielfach daran herumgedeutet wurde.
+
+Die Sache scheint sich jedoch ganz einfach zu verhalten. Sie beherbergt nicht mehr und nicht weniger Mystik als jeder Grashalm.
+
+Werden nämlich die Seiten eines Fünfeckes nach beiden
+
+Richtungen verlängert, bis sich die Verlängerungen be rühren, so bilden letztere mit jeder Fünfeckseite schmale Dreiecke, welche sich gliedartig der Stammfigur an schliessen, so dass sich das Ganze, schematisch betrachtet,
+
+1S [p. 274] wie mehrfach geschehen, mit einer sehr gespreizten Hand vergleichen lässt.
+
+Zieht man hierauf im regelmässigen
+
+Fünfeck sämmtliche Diagonalen, so durchschneiden sich dieselben genau nach der Proportion des Goldenen Schnittes und formiren in ihrer Mitte ein neues regelmässiges Fünf eck in entsprechender Verkleinerung. Die Seiten des kleine ren Fünfeckes verhalten sich genau wie die des grösseren zu ihren Verlängerungen, also wie der Minor der nach dem Goldenen Schnitt getheilten Linie zu deren Major. Da gegen dienen dem aus einer gradlinigen Verbindung der Spitzen der äusseren Dreiecke entstehenden grösseren Fünf eck die vorhin erwähnten verlängerten Seiten der ursprünglichen Figur nunmehr als fertige, stets im Normal verhältniss sich schneidende Diagonalen. Diese nach auswärts oder einwärts beliebig wieder holbare Procedur führt immer zu den nämlichen Resultaten, hervorgehend aus der im Verhältniss des Goldenen
+
+Schnittes fortgesetzten Ineinsbildung von Diagonale und Fünfeck.
+
+Bei dem wechselweise sich bedingenden Uebergang des einen dieser Factoren in den anderen erscheint als die bestimmende Macht der Goldene Schnitt, welchem solcher gestalt in der Fingergliederung die Fünfzahl und das dekadische System unveräusserlich ist. Cnorad Hermann legt der Dekadologie darum einen so hohen Werth bei, weil der Zahl Zehn als solcher eine be stimmte hervorragende und entscheidende Bedeutung für die innere Gliederung der ganzen uns umgebenden Wirklichkeit zugeschrieben werden dürfe. Der Goldene Schnitt kommt da bei nicht zu kurz, steigt vielmehr im Ansehen, da der Lob redner der Dekadologic seine Abhandlung über das Gesetz der ästhetischen llarmonie mit den Worten schliesst: „Es ist aber überhaupt zuletzt die arithmetisch -logische und ästhetisch- orga nische Gliederungsfrage wesentlich eine und dieselbe und wir glauben einmal in der Zahl Zehn, andererseits aber in der Regel des Goldenen Schnittes die beiden wichtigsten Anhalts punkte für eine weitere Bearbeitung dieser ganzen Frage nach einem allgemeinen Organisationsgesetz alles Wirklichen er blicken zu müssen.“ (S. 18-20.) Fig. 45.
+
+*d
+
+Das Pentagramm.
+
+Die nur symmetrische, in Form des Fünfeckes hier beigegebene mechanische Construction kommt immerhin dem Verständniss für das Ebenmaass und den Unterschieds reichthum des vorbildlichen Organs zu statten. (Fig. 45.) Abgesehen von der erwähnten mystischen Zuthat hat eine andere Deutung argem Aberglauben Thür und Thor geöffnet und ist hier und da sogar Veranlassung zu localen öffentlichen Störungen geworden. Wir meinen die Chi 18 * [p. 276] romantie. Dieselbe steht auf gleicher Linie mit der Astrologie und Alchemie. So wie letztere aus dem Dunkel einer mit empirischen Fragmenten vermengten geheimnisskrämerischen Speculation imponirend als Wissen schaften ersten Ranges ins Leben traten, so auch entpuppt sich nunmehr in Uebereinstimmung mit unserer Auffassung die Lineamentenschau der Hand, die Chiromantie, freilich erst spät, als „Lehre von den Proportionen des menschlichen
+
+Körpers "; ein neuer Beweis, dass die Wissenschaften nicht immer auf Richtwegen sich bewegen, sondern auch auf den gewundenen Pfaden einer nur langsam aus den Ban den des Aberglaubens sich befreienden Ahnung von organischen Grundgesetzen zur Reife gedeihen. Die Chiromantie stand von jeher in weit geringerem Ansehen als ihre Schwestern, von denen die eine des Menschen Geschick von kosmischen, die andere von tel lurischen Einflüssen bestimmt sein liess, während sie es unmittelbar in den Menschen selbst, ja in seine Hand, in dieses Symbol zurechnungsfähigen Handelns, verlegte. Immerhin hatte sie den Vorzug einer dunklen Ahnung da von, dass das Schicksal des Menschen seinem „Leib und Leben“ verwachsen ist, als dessen constituirende Macht das organische Grundgesetz sich nicht mehr verleugnen lässt.
+
+Das Dichterwort: „In deiner Brust sind deines
+
+Schicksals Sterne" ist hiermit einer neuen zusätzlichen
+
+Deutung offen. Noch erübrigt die Andeutung, dass die Fünfzahl nicht nur in der vom Rumpf ausgehenden Gliederung vertreten ist, sondern dass sie sich auch an jeder einzelnen Extre mität gleichmässig wiederholt. Was die fünf Finger an Arm und Hand, die fünf
+
+[p. 277] Zehen an Bein und Fuss, das sind an Hals und Haupt die fünf Sinne; denn die specifischen Sinnesorgane, Ge sicht, Gehör, Geruch und Geschmack, fungiren bei ihrer Betheiligung am allgemeinen Hautorgan auch als Tast organe, und zwar als solche von feinster Beschaffenheit. Der hier in Betracht kommende Unterschied besteht darin, dass die Sinnesorgane, während bei jenen Einzelbeweg lichkeit in gliedriger Trennung stattfindet, in allernächster halbseitiger Verwachsenheit erscheinen.
+
+In Uebereinstimmung mit dem
+
+Zusammenhang von
+
+Sinnesthätigkeit, Empfindung und Naturlaut, mit der Doppelfunction der Zunge, zu schmecken und zu reden, und überhaupt mit der localen Zusammengehörigkeit der Sinnesorgane und der Sprachorgane steht die beziehungs reiche Thatsache, dass in Wechselwirkung Sprechen und Denken durch Sinnesthätigkeit geweckt, die Sinne durch Sprechen und Denken belehrt und erzogen werden. Die Zunge, die lingua, schlägt die Brücke aus dem Bereiche der Sinnlichkeit in die Geisteswelt der Sprache, und an die bedeutungsvolle Inzahl der fünf Finger und der fünf Sinne schliesst sich die der fünf Vocale, der eigentlichen Repräsentanten der Lautsprache.
+
+VII.
+
+Lautsprache und Schriftsprache sind instinctive Schöpfungen. Handschrift und Druckschrift. Das Princip der alternirenden Wirkungen beim Sprechen und Denken. Die Materie für die Gestaltung der Sprachlaute. Die Sprache als Werkzeus. Die Bildung der Vocale und Consonanten. Apfange und alphabetische Entwickelung der Schrift. Der Buchstabe; etymologische Grund bedeutung. Die Schriftzeichen als Charaktere. Autographensammlungen. Universalschrift. Resultate des Taubstummenurterrichts. Sprachsurrogate. Die Sprache als Abbild unseres innersten Seins vor dem Forum der Organprojection.
+
+Wie früher bemerkt, schreitet die Darstellung der Organprojection von solchen Artefacten, die in derbsinn licher Nachbildung der natürlichen Werkzeuge bestehen, zu denjenigen fort, bei welchen die handgreifliche Materie gegen zunehmend geistige Durchsichtigkeit zurücktritt. Mit der Wirklichkeit des historischen Hervortretens der verschiedenen Culturmittel und deren oft gleichzeitigem
+
+Neben- und Durcheinander vermag die discursive Dar stellung so wenig in gleichem Schritt zu gehen, dass sie vielmehr sich vorzugsweise nur an die jezeitigen Abschlüsse relativ höchster Ausbildung hält. Daher kommt denn auch die Sprache erst jetzt zur Erörterung. Wir wenden uns zunächst der Schrift zu, die als Handschrift den natürlichen Uebergang aus dem vorhergehenden Abschnitt bildet. Wenn unter Schrift und Schriftenthum im weiteren Sinne
+
+Alles zu verstehen ist, wodurch das gesprochene Wort für das [p. 279] Auge festgehalten wird, so ist Gedrucktes die unmittelbare Consequenz des Geschriebenen. Eins geht über ins Andere, Geschriebenes wird abgedruckt und Gedrucktes kann wie der abgeschrieben werden. Die Buchdruckerkunst ist nichts
+
+Anderes als die Vervielfältigung der Zeichen machenden Hand und dieser ihrer ursprünglich mit und an dem einfachsten Material ausgeübten Geschicklichkeit. Was heute die Schnellpresse besorgt, ist wesentlich das Nämliche wie das, was vordem der Abschreiber mit vieler Mühe und in langer Arbeit zu Stande brachte. Erhöhte Gleichmässig keit und Zeitgewinn sind der ganze zunächst äusserliche Unterschied. Es ist die Hand selbst, die sich ebenso mit dem
+
+Druckmaterial ausrüstet, wie sie sich mit dem Schreib material ausgerüstet hatte. Sie schreibt dem Setzer vor, was er mit seinen Lettern nachschreiben soll, zur Weiter gabe an die Schnellcopirmaschine der Presse. Das Schriften thum der Menschheit umfasst daher die altägyptischen Monument- und die mesopotamischen Backsteinsignaturen nicht minder als die Producte höchster maschineller Kunst fertigkeit der Gegenwart.
+
+Wie es mit Recht vom Tele graphen heisst, er schreibe, ebenso schreibt auch die Presse.
+
+Es ist eben Alles Handschrift, litera und Letter, das manufactische Portrait der Lautsprache. Aller Manu facte Höchstes aber ist die Schrift. Auch sie ist die Ein heit von einem Idealen und Realen, ein Kunstwerk, dessen Zauber in der „manu propria " - Namenszeichnung, als kürzester sichtbarer Abbreviatur einer Persönlichkeit, den ganzen Menschen in sich begreift und documentirt. In der Sprache hört der Unterschied von Kunstwerk und Werkzeug, der sonst durchweg feststeht, ganz auf. Indem sie erklärt was sie selbst ist, übt sie gerade das aus, was sie erklären will. Mithin ist sie das Werkzeug, sich als ihr eigenes Werkzeug zu begreifen, also ein ver geistigtes Werkzeug, Spitze und Vermittelung zugleich der absoluten Selbstproduction des Menschen. Gedankenform in dem Sinne, dass die Form selbst Gedanke und der Gedanke Form ist, ist auch sie die Einheit eines letzten
+
+Unterschiedes. Je nach ihrer Berufung an das Ohr oder an das Auge wird die Sprache als Lautsprache und als Schriftsprache unterschieden. Die vergleichende Sprachwissenschaft ist dem Werden ihres Gegenstandes nachgegangen bis auf die ersten Con sonanzen von Geberde und Laut, hat in „Klanggeberden“ die Sprachwurzeln erkannt und hat nachgewiesen, dass das Sprechen potentiell mit dem Organismus anhebt. Wie Hören, Sehen, Athmen in entsprechenden Organen veruranlagt sind, so ist die Klanggeberde eine organische Function, gewissermaassen das Echo des Organismus. Daher ist nach Schleicher, auf Grund der schon oben er wähnten physiologischen Thatsache, dass die Functionen der Organe nur eine Art der Erscheinung der Organe selbst sind, die Sprache eine reale Existenz, ein Naturwesen. Was von Einigen Sprachtrieb, Sprach kraft, Sprachbedürfniss, von Jacob Grimm aber „unbewusst waltender Sprachgeist“ genannt wird, ist dem Organismus eingeboren.
+
+In diesem Sinne stösst man sich weniger an eine gewisse öfter vorkommende significante Härte der Ausdrucksweise: „die Sprache ist der Mensch“, oder der Mensch ist – statt des üblichen „hat" - Bewusstsein, Vernunft und Aehnliches. Daher wird angenommen, was der Mensch als untheilbarer Inbegriff organischer Thätigkeiten von vornherein schon sei, das könne von ihm nicht auch [p. 281] noch gleichsam als Extrabesitz gehabt oder angeeignet werden.
+
+Es macht keinen Unterschied, ob die Entstehung der Sprache auf den unbewusst waltenden Sprachgeist zurück geführt, oder ob mit A. Bastian gesagt wird: „Nicht wir denken, es denkt in uns.“
+
+Denn dieses „Es“ ist immer dasselbe Unbewusste im Simultanvorgang von Denken und Sprechen; es denkt in uns und -- es spricht aus uns.
+
+Das Princip der alternirenden Wirkungen, welches Noiré (Der monistische Gedanke, S. 353) mit Recht nachdrücklich betont, erklärt es, dass Denken und Sprechen Eins sind. Die Annahme der Priorität des Einen vor dem Anderen ist unzulässig. Solche Einseitigkeit findet weder in jenem ersten Stadium statt, in welchem die Sprachformen nach E. v. Hartmann's treffendem Ausdruck „die gemeinsame Wirkung eines Masseninstinctes“ sind, noch später, wenn die Sprache nach geschehener Fixirung durch die Schrift als ein bis zu bewusster Erlernbarkeit und bis zum internationalen Austausch relativ Fertiges vorhanden ist.
+
+Der einfachste Ausdruck für die genannte Einheit ist jenes „Es“, welches im Uebergange vom Empfinden zum Vorstellen immer mehr das sprachdenkende oder denk sprachliche Ich zu werden strebt. Denn hinter dem Es steht die ganze geistige Natur des Menschen, die Psyche, das Ich, die Persönlichkeit.
+
+Wenn C. G. Carus im „Organon der Erkenntniss der Natur“ (S. 46) schon die Sprachlaute Aequivalente des Geistes nennt, um wie viel mehr muss das volle Wort, womit die Vorstellung Beschlag auf die Dinge legend selbst dingfest wird, die unmittelbare Einheit von Sinn lichem und Geistigem sein, nämlich die Einheit von Laut, [p. 282] von Sinn, von äusserer und innerer Sprachform, kurz eine Einheit von organischen Unterschieden, wie wir ihrer oben wiederholt als Inzahl gedacht haben und inne ge worden sind.
+
+So lange das „Ich denke“ und sein Vorgang nicht als Functionsbeziehung von Geist und Körper erkannt ist, wird diese Unbestimmtheit des functionirenden Ich einst weilen in das Es verlegt, in welchem das Absolute, das Unbewusste, der Wille, die Empfindung, das Urbewusste, und wie sonst die Benamung des Göttlichen lauten mag, verborgen sind.
+
+Das Es ist das unfassbare universale
+
+Etwas der Metaphysik, das sich jeder dogmatischen Fessel entzieht, ein Etwas, dem der Mensch sich nur in so weit zu nähern vermag, als er, fortschreitend in dem Wissen von sich selbst, das Gebiet des ihm Unbewussten ebenso schrittweise mindert, wie er dasjenige seines Bewusstseins erweitert. Es ist dies ein Process alternirender Wirkungen, einerseits der in Zuständen von Schlaf und Ruhe durch das Versenktsein ins Unbewusste gewonnenen positiven Be kräftigung des Bewusstseins, andererseits seiner hierdurch in der Richtung auf Erschliessung des Unbewussten gestei gerten Energie. So weit nur immer die Sprache reicht, so weit reicht Denken und Selbstbewusstsein, und umgekehrt. Hierauf fussend haben wir zu untersuchen, in wie fern der Sprache eine Seite abzugewinnen ist, wonach sie als Product der Organprojection in der Kategorie „Werkzeug“ die ihr gebührende bevorzugte Stellung einnimmt. Demzufolge muss sowohl das Material, worin das leibliche Organ unbewusst nachgebildet wird, als auch die Thatsache aufgezeigt werden, dass das Nachbild in der Vergleichung mit seinem Vorbild sich als Werkzeug erweist, mittels dessen [p. 283] sich die Kenntniss des leiblichen Organismus vervoll kommnet.
+
+Mit seinen Stimm- oder Sprachorganen ist Jeder mehr oder minder bekannt und die bei Aug. Schleicher vor kommende Definition der Sprache, dass sie nämlich das durch das Ohr wahrnehmbare Symptom der Thätigkeit eines Complexes materieller Verhältnisse in der Bildung des Gehirns und der Sprachorgane mit ihren Nerven, Knochen,
+
+Muskeln u. s. w. sei, ist hinlänglich klar. Nach dem Material aber, in welchem das Sprechen Gestalt gewinnt, dürfte Mancher sich vergeblich umsehen. Und doch liegt es ihm näher, als er vermuthet, nur nicht so greifbar wie dasjenige, was gewöhnlich als solches gilt. Der Schluss der physiologischen Vorträge von Czermak giebt hierüber vollkommene Aufklärung: „Gesang und Sprache setzen sich aus Elementen zu sammen, welche objectiv betrachtet thatsächlich nichts
+
+Anderes sind, als akustische Phänomene, welche sich vom Munde des Sängers und Redners durch den Luftraum in das Ohr des Hörers mechanisch fortpflanzen ohne dass ihnen irgend etwas von Geist inne wohnte.“ „Was zwischen Mund und Ohr — zwar unsichtbar, aber nicht unerkennbar den Raum erfüllt das ist eine sinnlose rein mechanische Schallwellenbrandung! Erst im Gehirn des verständnissfähigen Hörers findet die Transsubstantiation des ausschliesslich materiellen Be wegungsvorganges der Stimm- und Sprachlaute in den physischen Zustand der Empfindung, des Gefühls und des Gedankens statt.“66
+
+„Gedanke und Gefühl wird - ausgesprochen factisch zu bewegter Materie und diese verklärt sich im Bewusstsein des Hörers erst wieder zu Gefühl und Gedanke."
+
+„Der Weg von Bewusstsein zu Bewusstsein führt eben - so wenig anmuthend dies für den idealen Sinn schöner Seelen immerhin sein mag ohne Gnade mitten durch die so verachtete grobe Materie.“
+
+Diese Materie für die Gestaltung der Sprachlaute nun ist die Luft, ihre durch den Athem des Menschen bewirkten
+
+Bewegungen sind die an sich tonlosen, nicht sichtbaren, nur in Berührung mit dem Ohre in Lautempfindungen ver wandelten Schallwellen, von deren Schwingungsverhält nissen, je nach Weite und Dauer, die Stärke und die Höhe des Tones bedingt wird.
+
+Wir sehen hiermit den Weg vor uns, auf welchem die Lautsprache zum Werkzeug wird, ohne dass eins der zum Begriff der Organprojection nothwendigen Elemente vermisst würde: weder das in dem functionirenden Organ erkennbare organische Vorbild, noch das mechanische Nachbild in der geformten Luftschwingung, noch der un bewusste Vorgang des Formirens. Es bleibt nur noch der Nachweis übrig, dass das dem Menschen unbewusst entstandene Nachbild, wenn bewusst von ihm aufgenommen und verglichen mit dem organischen Vorbild, auch dessen physische Kenntniss zu erhöhen geeignet sei. So gewöhnlich es ist, den Begriff „Werkzeug“ im bildweisen Sinn zu gebrauchen, so wenig findet in man chen Fällen die reale und ernstlich gemeinte Anwendung das richtige Verständniss.
+
+Wenn daher unter Anderen W. Wundt die Sprache als „bequemes Instrument“ und als das „wichtigste Werk zeug“ des Denkens bezeichnet (S. 852. 855), und wenn Whitney sagt, dass der Mensch als Gattung die Sprache, das Organ seiner geistigen Thätigkeit, so gut wie die mechanischen Vorrichtungen, durch die er seine körper [p. 285] lichen Arbeiten erleichtert und potenzirt, erfinde (Sprach wissenschaft, S. 601. 602), so meinen sie „Werkzeug“ im buchstäblichen Sinne, an den wir uns strict zu halten haben.
+
+Ein Unterschied zwischen dem gesprochenen Wort und einem geschriebenen als Werkzeugen findet allerdings statt. Jenes kommt nicht so augenscheinlich und hand greiflich wie dieses zu Tage, sondern entsprechend dem unsichtbaren und unbeständigen Material, welches Czermak gleichwohl ein grobes nennt — in Form von Schwingungs verhältnissen der Luftwellen.
+
+Diese, durch die vom
+
+Sprachorgan ausgehenden Anstösse erzeugt, haben sich als Laut und Gedanke vor dem Sinnesforum des Gehörs zu legitimiren. Der Unterschied läuft also darauf hinaus, dass für die sinnliche Auffassung der Schallwellengebilde statt des Auges das Ohr functionirt, welches sich hierdurch als solidarisch mit dem Stimmorgan verbunden kundgiebt. Die Auskunft, welche die Physik über die periodischen Schallwellen, über ihre Messung und Zählung und über die Verschiedenheit der Mischung aller gleichzeitig im Instrument mit dem Grundton klingender Neben- und Obertöne gegeben hat, ist der Physiologie des Sprach organs in hohem Grade zu statten gekommen.
+
+Die thatsächliche Begründung dieser von Helmholtz gemachten Entdeckung der zusammengesetzten Natur der Klänge ergab in ihrer Verwerthung für die Physiologie der Sprachlaute, dass auf dem Zusammenklingen von Ober tönen ebenfalls die Bildung der Vocale beruht, die wie Czermak sagt, „nichts Anderes sind, als verschiedene Klang farben der menschlichen Stimme, welche dadurch ent stehen, dass die Mundhöhle verschiedene Formen annimmt [p. 286] und durch Resonanz ganz bestimmte im Klange der Stimme enthaltene Obertöne verstärkt — andere hingegen schwächt.“ (a. a. 0. S. 67.)
+
+Entsprechend der Verschiedenheit des Schalles als Klang und als Geräusch, je nach den Schwingungen der Luft in regelmässig periodischer oder in unregelmässiger Aufeinanderfolge, unterscheiden sich auch die Sprachlaute als Vocale und als Consonanten, d. i. als Klangformen und als
+
+Geräuschformen. (W. Wundt, S. 499.)
+
+Eine Entwickelung der „Vocaltöne“ und des „Con sonantismus“ giebt Jax Müller in seiner dritten Vorlesung über die Wissenschaft der Sprache (S. 166), worin er vom physiologischen Alphabet handelt. Hier weist er nach, woraus die Laute gebildet werden (aus vocalisirtem und nicht vocalisirtem Athem) ; wie sie gebildet werden (mit weiter Oeffnung oder mit Verengerung der Stimmritzen bänder); und wo sie gebildet werden, nämlich „an verschiedenen Stellen durch thätige und leidende Organe, wovon die Normalstellen die von der Berührung zwischen der Zungenwurzel und dem Gaumen, der Zungenspitze und den Zähnen und der Unterlippe und Oberlippe be zeichneten sind, nebst mannigfachen Modificationen.“ Aus dem Bisherigen erhellt, dass nicht wohl über die Sprachorgane geredet werden kann, ohne Bezugnahme auf die früheren Erörterungen über Blas- und Saiten instrumente. Denn diese sind Projectionen der Organe der Stimmgebung und des Gehöres, also diejenigen Vor richtungen, in denen die der menschlichen Lautgebung eigene Universalität organischer Klänge mechanisch speci ficirt zum Ausdruck gelangt. Auch der sprechende Automat, diese Spottfigur aus Rad und Draht, ist im Grunde nur die Missgeburt eines musikalischen Instrumentes.
+
+[p. 287] Lediglich von einer instrumentalen Vorstufe aus konnte der Aufschluss über das Material gegeben werden, welches der Sprachlautbildung dient und in seiner flüchtig entstehenden Formirung das Werkzeug abgiebt zum Rück schluss auf den Denkprocess und auf die von Ilegel aus gesprochene Wahrheit: „Es ist in Namen dass wir denken.“ Erst das Saiteninstrument gab genauere Auskunft über die physiologische Einrichtung des Ohres, erst das Gefüge im Bau der Orgel verbreitete Licht über das Zusammen wirken von Lunge, Luftröhre und Kehlkopf bei der Stimm gebung. Aber die Saite Saitenordnung und das Cortische Organ, die Orgelpfeife und die Luftröhre sind wie alle mechanischen und organischen Gebilde von einander ge trennt, während dagegen im Sprechen Werk und Werk zeug räumlich und zeitlich simultan sind und deshalb das Wort zugleich Gedanke, der Gedanke zugleich Wort ist.
+
+„In der Musik“, sagt Helmholtz, „sind es wirklich geradezu Tonempfindungen, welche das Material der Kunst bilden“ und in der Sprache? Wären jene Urlaute, die zu Worten zusammengehen, nicht wirkliche Dingempfindungen, welche das Material der Sprache bilden? Diese Frage darf Deckung suchen unter dem Ausspruche Wundt's, dass bei den Sprachlauten jede constante Klang- und Geräusch färbung zu einem Element mannigfachster Vorstellungs und Gefühlszeichen geworden ist. (S. 499.) Die Vorstellung, welche auf diese Weise der Mensch in den Sprachlauten von sich selbst erhält, ist recht eigentlich Selbstbewusstsein. Ganz neuerdings theilt Ott. B. (Ottmar Beta?) in der Gartenlaube aus dem Bereich eigener Erfahrung eine äusserst interessante linguistische Thatsache mit, welche die Kenntniss von der Bildung der Sprachlaute wesentlich zu erweitern ver [p. 288] spricht. Es handelt sich dabei zunächst um die Aussprache des Englischen, deren vollständige Aneignung für den Aus länder mit so grossen Schwierigkeiten verbunden ist. „Trotz dem“, versichert Ott. B., „ist es nicht schwer, sie bis zur Voll endung nachzuahmen, wenn man die Vorsicht gebraucht, ein fach den Unterkiefer vorzuschieben. Sofort tritt auch die ge wünschte Lautverschiebung ein. Wie mit einem Zauberschlage verwandelt sich dann der deutsche Consonant Win den englischen Vocal Doppel- U; unser sprödes Th wird zu dem unsäglich zarten Lispellaut der Briten, und jede Härte zur Unmöglichkeit; selbst das geschnarrte R, welches im Englischen nicht vorhanden ist, verschwindet von selbst.“
+
+Bei vorgeschobenem Kinn sei man gezwungen, die Zunge und meist sogar unter den Zähnen des Oberkiefers spielen zu lassen. Sie habe statt langer Wege nur noch kurze zu machen, statt schroffer All's, Alk's, A w's erscheine der englische Halbdiphthong A oh, aus Knie werde Nie u. s. w. Bei den Engländern, die meist stark hervorstehende Nasen und Kinne hätten, zeige sich, dass eine lange schmale Nase eine vorn lange schmale Zunge und diese eine gelispelte Zahnsprache bedinge. Bei den Celten, Iren und Franzosen herrsche die breite, kurze Nase und Zunge und deshalb mehr Gaumen sprache vor. Das Kinn spiele beim Sprechen die Hauptrolle, und zwar seien der Regel nach die Zunge und die untere Nase proportionirt; die Nase stehe in Rapport mit der Zunge nicht blos in Betreff der Geschmacks- und Geruchsempfindungen, welchen beiden der gemeinsame Nery des vierten Schädel wirbels, der Sensorius, diene, sondern auch bezüglich ihrer Dimensionen. – Nach so geistvoller physiologischer Begründung des Gegenstandes leuchtet ein, dass die den Schluss des Artikels bildende Andeutung vollkommen gerechtfertigt ist, es werde sich aus diesem linguistischen Ei des Columbus“ etwas entwickeln, das dem Grimm'schen Gesetze der Laut verschiebung zur Erklärung dienen dürfte. Wir überzeugen uns, dass die Lautbildung überhaupt von ursprünglichen Raumverhältnissen der Sprachorgane und ihrer kinetischen, um nicht zu sagen kinematischen, Verkettung be herrscht wird, ferner dass insbesondere die Lautverschiebung [p. 289] von einer Art habituell gewordenen, meist unsagbaren Ver schiebung der Elemente jener Sprachorganverkettung bedingt ist, bei welcher Abstammung, Boden, Klima, Gewohnheit, Lebensweise und Nahrungsbeschaffenheit als formbestimmend für Zähne, Zunge und Mundhöhle mit in Betracht kommen. Das Selbstbewusstsein würde sich nicht entwickeln können, wofern nicht Hand und Kopf unablässig einander entgegenkämen, d. h. wenn nicht die Technik dem Sprach bedürfniss Anregung und Stoff lieferte und die Sprache dem Gestaltungsbedürfniss das Bewusstsein über seine Leistungen und deren Vervollkommnung vermittelte.
+
+Unsere bisherige Untersuchung, dem Zug der Cultur geschichte im grossen folgend, lief auf die Beweisführung hinaus, dass die Organprojection, die in Form einer vom Menschen selbst geschaffenen Aussenwelt vor sich geht, die Entfaltung des Selbstbewusstseins bedingt. Wenn nun derselbe Gang in der Entwickelung der Sprache sich kundgiebt, so unterscheidet sich diese von allen anderen Gestaltungen der Organprojection doch wesentlich dadurch, dass sie frei von den Hemmungen ist, welche der Widerstand des festen Materials dem Gestal tungsbedürfniss verursacht. In dem gefügigsten und einem gewissermaassen geisthaften Elemente sich bewegend, lässt sie das Werkzeug und die es formende organische Thätigkeit in einheitlichem Verband erscheinen.
+
+Hiervon kann man, ohne gerade paradox zu sein, sagen, das Denken sei eben so wohl Werkzeug der Sprache, wie diese das Werk zeug des Denkens.
+
+Wollen wir demgemäss das Verhältniss der Sprache zu dem ganzen übrigen Culturinhalt bestimmen, so dürfen wir in Anlehnung an das Wort von W. Wundt, „dass die Seele das innere Sein der nämlichen Einheit ist, die wir KAPP, Phil. d. Technik.
+
+[p. 290] äusserlich als den zu ihr gehörigen Leib anschauen “ , immer hin sagen, dass gleichermaassen die Sprache das innere Sein der nämlichen Einheit sei, die wir äusserlich in der zu ihr gehörigen Culturwelt anschauen.
+
+Von dieser Auffassung des Werkzeuges in seiner höchsten Bedeutung, wie sie in der Sprache erscheint, wenden wir uns nunmehr zurück zu dem Verbindungs gliede zwischen den geistigsten und den grobsinnlichsten Gebilden der Selbstproduction des Menschen, zur Schrift, um nachzuweisen, dass erst dann, wenn die Sprachlaute in sichtbaren Zeichen für die Erinnerung präsent bleiben, den Forderungen des Sprachbedürfnisses volles Genüge geleistet wird.
+
+Als oben der elektrische Telegraph Gegenstand der Betrachtung war, handelte es sich zunächst weniger um die Beschaffenheit der hervorgebrachten Schriftzeichen, als um die maschinelle Construction eines Schreibapparates. Obschon die bewegende Kraft des dictirenden Organismus und die der mechanischen Veranstaltung zur Beförderung der Dictate anscheinend dieselbe ist, hatten wir uns doch ausdrücklich gegen die Annahme irgend einer Verwechslung von organischer Verrichtung und mechanischer Vor richtung zu verwahren. Denn anorganische Stoffe, wenn ursprünglich auch dieselben, wie die, aus denen der Mechanismus zusammengesetzt wird, sind doch in ihrer Um wandlung zu organischem Bestand und für die Dauer ihrer Betheiligung an den Acten eines lebendigen Willens organische geworden, also nicht das geblieben, was sie vorher waren. Der Telegraph, eine aus anorganischen Stoffen zusammengesetzte leblose Maschinerie, wird erst durch menschliche Willensacte zum Träger des Gedankens und der Sprache. Die allgemeine elektrische Strömung im Or [p. 291] ganismus unterscheidet sich wesentlich von dem sporadischen Vorkommen der Elektricität in den verschiedenen
+
+Formen von Einzelmechanismen, gleich der in der mensch lichen Stimme geeinten Tonwelt, deren unterschiedliche
+
+Klangweisen in den besonderen Arten von musikalischen Instrumenten mechanisch nachgebildet erscheinen. Der bewusste Wille des Menschen ist es, nicht etwa eine elektrische Wolke, wodurch die Fernschrift des Telegraphen zu Stande kommt. Der Telegraph gehört sonach einfach in die Geschichte des Schreibmaterials und weiter in die „Geschichte der Schrift und des Schriftthums". Unter diesem Titel ist von H. Wuttke der erste Band eines Werkes erschienen, welches als eine Schrift über die Schrift „von den rohen Anfängen des Schreibens in der
+
+Tatuirung bis zur Legung elektromagnetischer Drähte “ vom Standpunkte der genetischen Aufnahme des Gegen standes aus recht eigentlich ein Beweis durch sich selbst ist.
+
+Da jede Erörterung über die Schrift sich eben so wohl mit dem Material der Zeichendarstellung, wie mit den Schriftzeichen und ihrer Bedeutung zu befassen hat, be merken wir hier in der Kürze, dass die Geschichte des elektrischen Telegraphen bis auf den ersten griffelartig vom Menschen verwendeten Gegenstand zurückgeht. Das organische Vorbild des ersten Griffels war und ist noch heute der Finger, der, wo gerade nichts Anderes zur Hand ist, zeichnenden Andeutungen und Erläuterungen genügen muss. Und in der That ist dieses Urbild aller ritzenden, zeichnenden, malenden und schreibenden Werk zeuge in deren verschiedenartigsten Gestaltungen durch zuerkennen.
+
+Auf den zur Aufnahme der Zeichen gebrauchten Stoff 19 * [p. 292] und seine Zurichtung ob Baumrinde, Stein, Metall, Wachs, Thierhaut, Papier - und darauf, ob die Sicht barmachung der Zeichen in trockner Eingrabung oder in farbiger Auftragung geschieht, kommt es hierbei zunächst nicht an.
+
+Die Hauptsache bleibt immer das als Griffel,
+
+Stift, Rohr, Nadel, Meissel, Feder vorhandene Abbild des die natürliche Schreibfähigkeit bethätigenden Fingers.
+
+Der Fingerdruck des Telegraphisten und der Fingerdruck des die Schreibfeder Führenden sind wesentlich nicht ver schieden. Auch die punktirte telegraphische Papierrolle ist ein Manuscript, das in seiner weiteren Uebertragung auf die Feder als Couvertdepesche in die ursprüngliche Schriftform der „aufgegebenen Depesche“ zurückver wandelt wird.
+
+Setzt sich die Lautsprache in der Handschrift fort, so sind Bücherdruck und Telegraphie die natürlichen Fort setzungen der Handschrift. Die Consequenz des Sprach lautes ist der Buchstabe.
+
+L. Geiger's etymologische Beleuchtung dieses merk würdigen Wortes setzt dessen Begriff in sein richtiges Verhältniss zum Sprachlaut und führt damit zugleich ein auffallendes Beispiel vor „von der Gebrechlichkeit einer blos lautlichen, sich nicht an die Begriffsgesetze binden den Etymologie " Hiernach bedeutete im deutschen Alterthum „Buch"
+
+Geschriebenes ohne Beziehung auf das Material, worauf es stand. „Boca (angelsächsisch boec) heisst zunächst Buch stab (Schriftzeichen), dann auch Schrift, Brief; wie boka reis der Schriftgelehrte. Die Grundbedeutung des zweiten Theiles, stab, der zu einer Erklärung des Schriftzeichens als eines Stabes, wohl gar eines buchenen Stabes verlockte, ist die allgemeine von Laut. Dies wird zur Gewissheit durch [p. 293] Vergleichung mit Stimme, angelsächsisch staefn, gothisch stilna, wobei der Uebergang der Bedeutung derselbe ist wie in vox, Ruf, Stimme, Sprachlaut, Wort. Es wird also deut lich, dass boec und staef als gleichbedeutend mit einander wechseln können. Jenes ist Buchstab, litera, dieses Sprach laut, vox; beide zusammen entsprechen einigermaassen dem lateinischen literarum elementa.“ (a. a. 0. II, S. 108. 109.) Für unseren Zweck halten wir uns genau an die Unterscheidung von litera und vox, von geschriebenem Zeichen und gesprochenem Laut, von Schriftzeichen und Sprachlaut. Zu einem Begriff verbunden bedeuten also die Worte eigentlich Schriftlaut, d. h. der Laut wie er sich geschrieben ausnimmt, also der Buchstabe. So hat die Etymologie dieses Wortes den leitenden Grund gedanken gegeben für die Entstehung und alphabetische Entwickelung der Schrift überhaupt und die der semitischen Buch stabenschrift aus der Bilderschrift insbesondere. Das Wort
+
+Buchstabe bedeutet die Einheit von Sprechen und Schreiben. Im vollen Begriff der Sprache sind Laut und Schrift unent wirrbar ineinander verwachsen.
+
+Man fühlt sich zu der An nahme versucht, dass mit den Urlauten der Lautsprache auch
+
+Urzeichen der Schriftsprache coincidiren, und dass wie jene als Lautgeberden, so diese erste, der Vorstufe des Schreibens angehörende Zeichenmachung mit einem kaum mehr gesucht klingenden Ausdruck als „Schreibgeberde“ bezeichnet wer den könnte.
+
+Dem ursprünglichen Zusammentreffen von Geberden mit
+
+Naturlauten, als Ausdruck von Empfindung, und werdender
+
+Vorstellung, dürfte immerhin ein gleiches Verbundensein von Geberden und äusseren festen Zeichen entsprochen haben, gleich der warnend erhobenen Hand und dem sie bedeutenden aufgesteckten Baumzweig, gleich den Trauergeberden, die schriftartig in Grab- und Todtengedenkzeichen sich fortsetzen.
+
+In der Schrift ist die Sprache permanent, die Schrift [p. 294] ist der verzauberte Laut, ist eben das was der Buchstabe „buchstäblich“ besagt, aus dem sie in jedem Moment wieder aufklingen und aufs neue als lebendiges Wort den Geist des Hörers bannen und fortreissen kann. Kurz der Buchstabe ist das Symbol einer unzerstörbaren Zusammengehörigkeit, der gegenseitigen Immanenz von Gehörtem und Erblicktem, von Buch als Schriftzeichen und von Stab als Lautklang, von Rede und von Schrift, mit einem Wort er birgt das Sprachganze! In dieser Untheilbarkeit ist das Sprachwerk ein Pro oder duct der Functionen von Hirn, Hand und Zunge welches Glied der Verkettung des Sprachorganes man sonst ist an in diesem Fall anstatt der Zunge wählen will sich der Beweis, dass auch die Schrift nach den Unter schieden ihrer alphabetischen Gestaltung ein flüssiges Moment in der ethnographischen Gliederung der Menschheit ist und dass die Schriftzeichen, als eine instinctive Schöpfung, nicht beliebig ersonnene und vereinbarte und ebenso beliebig zu vertauschende Chiffern sind, sondern – Charaktere.
+
+Denn das griechische Wort Charakter ist ursprünglich das auf Stein, Metall, Holz Eingegrabene und Aufgeprägte,
+
+Schrift und Figuren, sodann bedeutet es das eigenthüm liche (innere) Unterscheidungsmerkmal. Die Buchstaben sind also Charaktere, Lautzeichen, deren Gestaltung der
+
+Stammesorganisation in irgend einer Beziehung näher verwandt ist.
+
+In Gemässheit des in allen Culturkreisen voraus gesetzten Hervorgehens der Buchstabenschrift aus der Bilderschrift und der Verwandlung des Bildes in Zeichnung und Bezeichnung der Buchstaben ist der Schluss auf eine allgemeine Uebereinstimmung, „Congenialität“, der Schrift systeme mit den betreffenden Sprach- und Racenorganis [p. 295] men ein nothwendiger, auch in deren späteren Abschleifung und Verblassung nie ganz erloschener. Die Sprachwelten der einsylbigen, der vielsylbigen und der flectirenden Sprachen sind nicht ohne entsprechende Unterschiede ihrer Schriftsysteme. Die Schrift aber lässt sich ihre Bethei ligung eben so wenig an der Laute gebenden lingua, wie an dem dieser angehörigen organischen Ganzen nehmen. Lebt dahör und entwickelt sich die Sprache als Naturmacht im Menschen, so ist dessen Handschrift die Signatur seiner Abstammung, d. h. der im Allgemeinen und im Besonderen, nach Race und Nationalität, ja nach dem Naturell des Individuums ausgeprägten Naturbestimmtheit. Dem „Sprich, und ich will dir sagen, wess Volkes und Geistes Kind du bist“ tritt im allgemeinen die Auskunft ebenbürtig an die Seite, welche die Charaktere der Hand · schrift über den Charakter des Schreibers ertheilen.
+
+Das Interesse an Authographensammlungen ragt weit über Neugierde und Liebhaberei hinweg in das physiologische Gebiet hinein. Auch die monumentalen Urschrift literaturen erweisen sich als nationale weltgeschichtliche
+
+Autographen und werden Inhalt der Völkerpsychologie! Wir sind nun dem Process der Organprojection so weit gefolgt, wie sich dieselbe auf discrete Mechanismen erstreckt, und bleibt uns hier noch die Aufgabe, das letzte und höchste mechanische Gebilde in seinem Sich verlieren in das Geistige zu betrachten, um zu erkennen, dass es zum Werkzeug wird sowohl der Einsicht in die organische Function, wie der Selbstauffassung des Menschen in höchster Potenz.
+
+Da das, was man bezüglich der Sprache unter Werkzeug versteht, durch die Handschrift permanent und sinnlich wahr nehmbarer vertreten wird, als durch die Lautform, so ist denn [p. 296] auch die Literatur eines Volkes der Inbegriff seiner Schrift sprachwerke. Bei einem vorübergehenden Blick auf die Schrift als Handschrift und auf die Hand selbst, aus deren organischer
+
+Thätigkeit Zeichen hervorgehen, in denen Sinn und Bild so eng verwachsen sind, kann uns nicht entgehen, dass das in der Handgliederung lebendige Grundgesetz des Goldenen Schnittes nicht nur an den bei den heutigen Culturvölkern heimischen Schriftzeichen sich ausprägt, sondern auch in dem Ganzen der sogenannten typographischen Ausstattung. Wittstein hat letzteren Gegenstand näher berührt und überhebt uns des Ein gehens auf Einzelnes.
+
+Im Gegensatz zu der Handschrift als instinctiver Schöpfung ergiebt sich die Würdigung ihrer mit überlegter Wahl ersonnenen Surrogate, der Chifferschrift und der Stenographie, die, zu jeder Zeit beliebig verwechselbar, in keinem anderen Zusammenhang stehen, als dass sie die willkürlichen Zeichen für die mit der Lautsprache entstandenen und verwachsenen Buchstabensymbole sind. Aus diesem Gesichtspunkte sind demnach auch die oft gemachten Versuche, eine Universal schrift herzustellen, zu beurtheilen. Während ähnliche, auf Einführung einer künstlichen Uni versallautsprache gerichtete Experimente stets misslungen sind und voraussichtlich noch lange misslingen werden, scheint da gegen das Problem in Ansehung der Schriftsprache, auf Grund der in der Chiffrirung, Stenographie und Telegraphie gemachten
+
+Erfahrungen, gegenwärtig nach dem, was über die langjährigen gründlichen Vorarbeiten eines Gelehrten, des Dr. phil. J. Damm in Stockholm, bekannt geworden ist, eine Lösung finden zu wollen. Im Interesse des geschäftlichen Weltverkehrs ist dem Unternehmen, das so grosse Zeit- und Kostenersparung ver heisst, der entsprechende Erfolg zu wünschen.
+
+Im Anschluss an die Chiffrirung ist nochmalige Notiz von der Faber'schen Sprechmaschine zn nehmen. Eine mit grosser Geschicklichkeit ausgeführte künstliche Nachbildung der Anatomie des menschlichen Sprechapparates macht sie Resultate der Wissenschaft anschaulich und überragt als vorübergehend unterhaltendes Lehrmittel alle sogenannt automatischen Curio [p. 297] sitäten früherer Zeit. Ueberlassen wir diese unerquicklichen schachspielenden, musicirenden und plappernden ihrem herkömmlichen Schicksal, dem Raritätencabinet und der Rumpelkammer! Ganz unnütz sind sie nicht gewesen, insofern an ihnen sich wenigstens die Einsicht vermittelt, eine wie grosse Kluft die organisch und unbewusst aus dem Gestal tungsbedürfniss des Menschen hervorgegangenen und seinen Culturzwecken dienenden Werkzeuge von jenen spielwerk artigen Kunststücken trennt, welche zu augenblicklicher Verwunderung vom Menschen witz ersonnen, einer dauernden Bewunderung durchaus fern liegen. Der „Göttergabe der Laut und Schriftsprache gegenüber sind Kurzschrift und tönende Androiden nichts als Carricaturen.
+
+Der Natur- und der Sprachwissenschaft ist es gelungen, das Geheimniss der Sprachlautbildung zu erschliessen. Sehr verschiedenartige von der Lunge bis zu den Lippen fest localisirte Muskelbewegungen projiciren sich in eben so viele nach Grösse und Anzahl verschiedene Luftschwingungen. Sind letztere mittels des Ohres als Sprachlaute signali sirt, so bringen sie in Rückbeziehung auf die projicirende Muskelthätigkeit diese selbst nach dem Zusammenhang ihrer örtlichen Vertheilung zum Verständniss.
+
+Die Entdeckung der Schwingungsverhältnisse der Schallwellen, ausgegangen von Untersuchungen über die Natur der musikalischen Klänge, ist auch die wissenschaft liche Grundlage für die Forschungen über die Bildung der Vocale und der Sprachlaute überhaupt geworden. Die Zuverlässigkeit der betreffenden Resultate hat namentlich in deren Anwendung auf den Taubstummen unterricht sich glänzend herausgestellt.
+
+Denn so genau sind die Articulationsgebiete der Sprachlaute in Mund und Rachenhöhle ermittelt, dass der Taubstumme die äusserlich wahrnehmbaren Muskelbewegungen des Sprechenden wie Schriftzeichen abliest.
+
+[p. 298] Oeffentliche Blätter brachten neuerdings folgende Mittheilung über einen wahrhaft staunenswerthen Erfolg: „Vor der Heidelberger philosophischen Facultät ist kürzlich ein Doctor -Examen unter Umständen abgelegt worden, welche vielleicht einzig zu nennen sind. Vor einigen Wochen (Juli 1875) kam ein junger Mann dorthin, machte bei den Professoren Besuche und gab die Absicht zu erkennen, die akademische Prüfung in den Naturwissenschaften abzulegen. Der gleichen geschieht so häufig, dass nichts Auffallendes dabei wäre, wenn nicht der Candidat vorsichtig geforscht hätte, ob diejenigen Professoren, welche als Examinatoren fungiren würden, Bärte hätten! · Sollte er bei unbärtigen Lehrern auf grössere Milde gerechnet haben, wegen deren Aehnlichkeit mit Frauen? Es stellte sich bald der wahre Grund heraus, der junge Mann ist völlig taub geboren und hat nicht mit Hülfe des Gehöres, sondern auf künstlichem Wege sprechen gelernt und solche Uebung im Ablesen des Gesprochenen von den Lippen des Sprechenden erlangt, dass für gewöhnlich von seiner Taubheit, auch nicht einmal durch den Tonfall seiner Rede, etwas zu bemerken ist. Wem solche Energie und solcher Fleiss innewohnt, der hat Recht, die wissenschaftliche Laufbahn zu ergreifen, und es ist erfreulich zu vernehmen, dass er sein Exa men mit höchster Auszeichnung bestanden hat.“ Zur Erläuterung, und um jeden Zweifel an der Möglich keit dieses Vorganges zu benehmen, mag eine Aeusserung des Professors Kilian über „Taubstummen -Bildungswesen“ dienen: „Mittels der fixirten Resonanzen der Mundhöhle ist es dem nach physisch ermöglicht, der Lautsprache der Taubstummen nicht nur den musikalischen Wohlklang, sondern zugleich eine Ausdehnung von mehreren Octaven zu geben, so dass mit den scharfen Dissonanzen die lästige Monotonie verschwindet. Die Genesis der Vocale beruht auf dem von Donders entdeckten Gesetz der Hohlräume, nach welchem die Höhe und Tiefe der Vocalklänge der Weite und Enge des Mundrau mes entspricht. Jeder Vocal hat seine sogenannte Eigenre sonanz, seinen Mundraum, der ihm die normale Fülle und den Glanz seiner Klangfarbe verleiht.“ („Im Neuen Reich“ 1874, Nr. 8.)
+
+[p. 299] Mit Recht wird man diese Methode des Taubstum menunterrichtes, wie sie sich in Deutschland im Anschluss an die Lautirung ausgebildet hat, als die organische be zeichnen können, während die ausserdeutschen Anstalten, abgesehen von der Beibehaltung natürlicher Geberden, einer künstlichen, an das Mechanische streifenden Zeichen- und Fingersprache den Vorzug geben. Der oben berührte Zusammenhang zwischen Laut sprache und Schrift tritt hier aufs neue deutlich hervor. Die Luftschwingungen, vom Hörenden als Laut gehört, werden vom Taubstummen in der Form der die Schwingungen bewirkenden Muskelbewegungen gesehen. Und die ses Gesehenwerden der Laute geht nahezu mit derselben Schnelligkeit vor sich, wie ihr Gehörtwerden, eine Fertig keit, welche, da jedem Sprachlaut seine besondere muscu lare Articulation entspricht und da im Verlauf einer Minute an die sechshundert Laute ausgesprochen werden, dem Ablesen einer gleichen Anzahl von Muskelzusammen ziehungen in gleicher Zeit gewachsen ist. Die Fingersprache ist als Sprachsurrogat eine durch die Lautzeichen hindurchgegangene Fingergeberdensprache. Von der Schrift hat sie das Moment der Sichtbarkeit, von der Lautsprache das des flüchtigen Verschwindens und von der allgemeinen Geberdensprache, dass sie die auf ein Specialorgan reducirte Geberde ist. Hinter den genannten Deformationen der eigentlichen Schrift, Chif fern und Telegraphie einbegriffen, steht immer der gewaltige Buchstabe und hinter dem Buchstaben der all mächtige Sprachlaut, der verschleierte Logos. Aus die sem treten alle Sprachgestalten, wie verschieden sie nach Gedankeninhalt und nach äusserer und innerer Form sein mögen, hervor, und ihm kehren sich alle wieder zu [p. 300] sowohl als vollkommenstes Lehrmittel wie auch als vor nehmster Lernstoff.
+
+Sehen wir nunmehr ab von allen inneren und äusseren Unterschieden und nehmen die Sprache auf als ein Ganzes, dem Ganzen der Menschheit Eigenthümliches, so erscheint sie, nach dem Zweck der Verständigung und Belehrung, als Werkzeug, aber nach dem Inhalt ihres universalen Lernstoffes als Product. Bei unablässigem Auf und Uebergehen des Werkzeugs in das Product und des Productes in das Werkzeug hört die Unterscheidung, auf dem Wege fortschreitender Erkenntniss in stufenweise höheren Abschlüssen des Selbstbewusstseins mehr und mehr ver schwindend, schliesslich ganz auf. Auf dem ganzen bisher durchschrittenen Gebiete war das Werkzeug nach seiner Entstehung um so deutlicher von den Objecten seiner Wirksamkeit zu unterscheiden, je mehr in die Sinne fallend der zu beiden verwendete Stoff war.
+
+Mit der allmäligen, sogar bis zum Lufthauch sich steigernden Verfeinerung des Stoffes verlor sich der Unterschied in ein Dunkel, aus dem er noch einmal strahlend in dem Sondergebiete eines reinen Manufactes, in der Handschrift, hervortrat, um dann in der allgemeinen Sprach sphäre am Schlusse unserer Aufgabe, dem wir uns nun mehr genähert haben, sich gänzlich zurückzuziehen. Vorzüglich in der Sprache als Rede (reda, ahd., Rechenschaft), dem überlegten Gedankenausdruck, giebt der Mensch Rechenschaft von sich als dem Ich. Das Ich, die Persönlichkeit, ist Sprache in höchster Potenz, d. h.
+
+Selbstgespräch. Im Selbstgespräch sind Werkzeug und Werk, Mittel und Zweck, Subject und Object in Einheit, und zwar in der durch den Culturfortschritt vermittelten Einheit des Selbstbewusstseins.
+
+[p. 301] Wenn Wilh. Scherer die Sprache „das Abbild unseres innersten Seins“ nennt, so setzt er die Organisation des Menschenleibes als Vorbild voraus.
+
+Es würde also die
+
+Möglichkeit vorliegen, die Beziehung der Gehirnfunctionen zu denen der Sprachorgane enthüllen zu können, „da es sich,“ wie Alb. Lange bemerkt, „bei der Sprache nicht nur darum handelt, den Lippendruck genau abzumessen, welcher ein B oder ein P hervorbringt, oder die Bewegungen der Sprachorgane, welche ein Wort von schwieriger Aussprache bilden, geläufig auf einander folgen zu las sen. Die Sprache soll auch etwas bedeuten und deshalb müssen von der Combinationsstätte eines Wortes wieder vielfache
+
+Verbindungen nach der Combination der Sinneseindrücke verlaufen. Diese Verbindungen lassen sich zum Theil gar nicht anders denken, als so, dass je eine bestimmte Empfindung oder ein bestimmter Impuls zur Muskelbewegung in einer ganzen Reihe von Zellen der Hirnrinde seine Vertretung findet, von denen jede wieder ihre besonderen Ver bindungen hat.“ (Geschichte des Materialismus II, 360.) Die Resultate der Vergleichung des Abbildes mit dem vorbildlichen Organe wird nicht allein die anatomische und physiologische Kenntniss bereichern, sondern verheisst auch mögliche Rückschlüsse auf die Geschichte der Entwickelung des Gehirns und der Sprachorgane, eine Entwickelungsgeschichte, welche mit der des Selbstbewusst- . seins zusammenfällt.
+
+Dass eben diese Entwickelungsgeschichte in Wahrheit mit dem ersten aus der Menschenhand stammenden Werk zeuge anhebt, und dass diese in ihren ferneren Gebilden die Gleisen legt, auf denen der Mensch dazu kommt, sich auf sich selbst zu besinnen, das ist der Grundgedanke, auf dem unsere ganze Untersuchung beruht.
+
+[p. 302] Wir schliessen diesen Abschnitt nicht ohne wieder holt Nachdruck darauf zu legen, dass das erste unscheinbare Handwerkzeug, in zunehmender Unentbehrlichkeit, seine Bedeutung als Culturmacht voll und ebenbürtig neben einer zahlreichen Nachkommenschaft behauptet, wenn nicht vielmehr sie überragt. Dem Zusammenhang mit dem zuletzt durchschrittenen
+
+Gebiete gemäss liegt es also sehr nahe, dass wir aus den grossartigsten Schöpfungen der modernen Technik diejenige heraus und weit über alle anderen ohne Ausnahme hervorheben, welche der directesten Kundgebung des Gedankens auf machinalem Wege dienstbar ist. Absehend demnach von der Allgegenwart des ersten
+
+Handwerkzeuges überhaupt auf allen Entwickelungsstufen der verschiedensten Industriezweige, fassen wir die beiden äussersten Endpunkte der menschlichen Culturbahn ins Auge, den scheinbar niedrigsten, das Hervortreten des ge meinen Hammers, und den sichtlich höchsten, die Thätigkeit der Geschwinddruckpresse.
+
+Wir gewahren hier bei das Verschwinden eines vermeintlichen Gegensatzes vor der Thatsache, dass beim Aufbau und bei der Ausrüstung einer literarischen Officin durch all die tausendfältigen Acte der Handwerker- und Künstlerhand hindurch, von dem ersten dröhnenden Schlag am Fundament bis zur leisen regulirenden Berührung eines Maschinentheilchens hinauf, der Hammer die Seele bei der Herstellung des Gebildes der Menschenhand ist und immer bleiben wird;
+
+denn er hat, als die naturgemässeste Fortsetzung der zu allseitiger Kraftübung angelegten Hand, an dieser Allsei tigkeit unbedingt mehr Antheil als jedes andere Werkzeug. Nach dieser Befürwortung wird es sicher nicht auffallen, wenn hier eine Reflexion über den Hammer an eine [p. 303] Betrachtung über die Sprache, näher über Schriftthum und dessen machinale Vervollkommnung sich anschliesst. Letztere erheischt wie alles sich Entwickelnde behufs vollständiger Würdigung einen Rückblick auf ihre Anfänge. Hören wir deshalb eine Stimme aus den Spalten des ausgezeichneten New-Yorker technischen Journals Scientific American (XXXI, No. 24, 1874). Der Artikel stimmt zu genau mit dem Princip der vorliegenden Untersuchung überein, als dass ich mir dessen wörtliche Uebersetzung und Mittheilung hätte versagen können: „Wenig Menschen“, sagt J. Richards, „wenn sie den Gebrauch eines Hammers beobachten oder selbst eines solchen sich bedienen, würdigen ihn als ein Werkzeug, welches Tonnen von Kraft ausübt, indem er Kraft con centrirt und in Anwendung bringt durch eine Thätigkeit, die, wäre sie durch andere Mechanismen bewerkstelligt, Räderwerk, Hebel oder Schrauben erfordern würde. Auch müsste ein solcher Mechanismus, wenn er an Stelle von Hämmern in Betrieb gesetzt würde, jenes Vorzuges er mangeln, wodurch die Kraft nach jeder beliebigen Richtung hin ausgeübt wird.“ „Ein einfacher Handhammer ist, so für sich betrachtet, eins der vielseitigsten mechanischen Werkzeuge, das heisst, seine Thätigkeit ist schwieriger zu analysiren, als die vie ler complicirten Maschinen, die aus einer Menge mechanischer Vorrichtungen bestehen; aber unsere Vertrautheit mit dem Hammer lässt uns diese Thatsache übersehen, so dass ihm sogar unter diesen Vorrichtungen, die miss verständlich mechanische Kräfte heissen, ein Platz ver CG weigert wird.“ „Bei dem Vergleich des Hammers mit einem Rad nebst
+
+Axe, mit einer schiefen Ebene, mit einer Schraube oder [p. 304] einem Hebel als Mitteln, um Kraft zu concentriren 'und anzuwenden, wird der Leser, wenn er ernstlich die Principien der Wirksamkeit des Hammers wahrnimmt, und dann die universale Gebrauchsweise desselben in Betracht zieht, zu dem Schluss kommen, dass, wofern es einen Mechanismus giebt, welchem verschiedene Principien innewoh nen, diese Vorrichtung der gemeine Hammer ist. Er scheint fürwahr eins von den Dingen zu sein, welche, be stimmt dem menschlichen Gestaltungsbedürfniss entgegen zukommen, geradezu für die Mechanik unentbehrlich sind. “ „Bei der Bearbeitung von fast jeder Art von Material wird der Hammer fortwährend gebraucht, um die natürliche Handkraft zu verstärken. Ein Zimmermann, der einen
+
+Sparrennagel einschlägt, hat eine Kraft von ein bis zwei Tonnen, ein Schmied eine Kraft von fünf Pfund bis zu fünf Tonnen nöthig, um den Ansprüchen des Gegenstandes seiner Arbeit zu genügen, ein Steinmetz verwendet die Kraft von hundert bis tausend Pfund, um die Schärfe seiner Werkzeuge wirksam zu machen. Das Meisseln, das Kalfatern, in der That nahezu alle mechanische Arbeiten, bestehen mehr oder weniger aus Schlägen, und Schläge sind nichts Anderes als die Verwendung aufgespeicherter Kraft, innerhalb begrenzter Entfernung.“ „Aus dem Gesichtspunkt eines mechanischen Werkzeuges concentrirt der Hammer die Kraft der Arme und verwendet sie in der Weise, welche den Erfordernissen der herzustellenden Arbeit entspricht. Ist grosse Kraft erfordert, so wird sie durch weiteres Ausholen und langsame Schläge bewirkt, ist nur wenig Kraft nöthig, so reichen kurze Schwingungen und rasche Schläge aus, wobei nicht nur das Maass der Kraft, sondern auch die beabsichtigte Richtung stets berechenbar bleibt. Würde eine andere mecha [p. 305] nische Vorrichtung anstatt der Hämmer zu gleichem Zwecke in Anwendung gebracht, so müsste es eine complicirte Maschine sein, die doch nur in der einzigen ihrer Eigen thümlichkeit angemessenen Weise beweglich wäre.“ Ist dies die unseren Blick nach rückwärts lenkende
+
+Sprache der verständigen Technik, die dem Hammer ge recht wird, indem sie sich auf die empirische Richtigkeit von Fusspfund und Ziffern stützt, so mag demselben auch seine Verherrlichung werden von Seiten der höheren Wahr heit des im mythischen Gewande nach vorwärts drängen den Gedankens:
+
+Felix Dahn (Wodan und Donar als Ausdruck des deutschen Volksgeistes. Im „Neuen Reich“ 1872, Nr. 8) zeigt, dass Donar oder Thor, dessen Naturgrundlage das donnernde Gewitter, nach seiner idealen Bedeutung der schützende Gott des Ackerbaues und aller menschlichen Cultur ist.
+
+Das Werkzeug aber, dessen er sich, bei all seinem Schaffen und Wirken bedient und wodurch er zum Ausdruck des deutschen Volksgeistes wird, ist sein mächtiger Hammer. „Seines kräftigen Armes That ist die Zer schmetterung und Zermürbung des öden unfruchtbaren Felsgebirges durch den Wurf seines nie fehlenden Stein hammers Miölnir, des Zermalmers. Die trotzigen Häupter der Steinriesen trifft er mit zertrümmernden Blitzen und verwandelt allmälig die Schroffen von Kalk, Granit und Basalt, welche jedes Wachsthum ausschliessen, dem Pflug des Menschen nichts gewähren, zerbröckelnd und verwitternd in fruchtbares Bauland, das dereinst die gol denen wogenden Ernten tragen mag. - So wird Donar auch zum Gott der menschlichen Cultur überhaupt: sein Steinhammer ist nicht nur Kriegswaffe im Kampf gegen die Felsriesen, er dient auch friedlichen Zwecken. KAPP, Phil. d. Technik.
+
+Die
+
+[p. 306] Berührung mit dem Hammer weiht das Mädchen zur bräutlichen Frau und heiligt die Schwelle des Hauses mit erhöhter Befriedigung, der Hammerwurf bildet das Maass bei Landnahme und Landtheilung, der Hammer schlägt die ehrwürdigen Marksteine in den Boden, er festigt die Wegsäulen, er schlägt die stämmeverbindende Brücke, er lässt die Grenzen enden und wenden, ja er weiht zuletzt noch den Scheiterhaufen, auf welchen fromme Hände den Todten zur letzten Ehrenfeier gebettet.“ Der Hammer des Donar ist der idealisirte Stein hammer der Vorzeit, welcher in der Hand des urge schichtlichen Menschen die Wunder der ersten Arbeit verrichtete.
+
+Durch den Mythus hindurch schimmert in unvergäng licher Dauer die Wahrheit einer äusseren oder einer inneren Erfahrung. Die Wahrheit des Miölnir hat sich denn auch bis heute forterhalten in den Hammerschlägen bei feierlicher Grundsteinlegung, symbolisch andeutend die Begründung von Haus und Heerd, Familie und staatlicher Gemeinschaft. Unter diesem Zeichen treten wir nun in den Bereich des Staates, in welchem nach dem Vorbilde des ganzen menschlichen Individualorganismus die Gesammtthätigkeiten von Hand und Hirn sich durchdringen.
+
+XIII.
+
+## Sprachorganismus und Staatsorganismus
+
+Wort und Handlung.
+
+Der Staat als Sphäre der menschlichen Verantwortlichkeit. Die Res publica oder externa der Menschennatur. lebens.
+
+Der leibliche Organismus das Urbild echten Staats Arbeitstheilung und ständische Gliederung. Das Naturgrundgesetz in der Stiatenbildung. „Bau und Leben des socialen Körpers.“ Der Ge schichtsstaat und der Idealstaat. Der Staat als Mittel und als Zweck. Die Staatsidee, Leibesconstitution und Staatsconstitution. Die Anthropogenie und der fundamentale Vergleich. Der Gedanke in der Entwickelungsgeschichte. Leibeigenschaft des Gedankens. Begriff der Arbeit. Der älteste Lehrer der Volkswirthschaft.
+
+Arbeit der Organisation und Organisation der Arbeit.
+
+Recht des Staates auf Einverleibung der berufsständischen Thätigkeiten. Das Post wesen die staatliche Form der Communication. Das moderne Fatum und die Eisenbahnen. Die Webrverſassung als Prototyp für die organische Durch bildung der Berufsstände. Abrüstung. Politische Reflexbewegungen. Die Armeeschule und ihr Verhältniss zur Wissenschaft. Die militärische und die machinale Disciplin. Das Urbild von Staat und Maschine. Der Staat als Einheit von Sinnlichem und Geistigem. Die Maschine das verschärfte Gegenbild der menschlichen Gesittung. Der stoffliche Bestand des Staats körpers. Anfang und Ende wissenschaftlicher Untersuchungen; die uner schlossene und die erfüllte Einheit. Moralische und ethische Verantwortlichkeit. Das Gewissen. Willensfreiheit. Der Staat als das menschliche Alles in Allem.
+
+Unter der Führung der verschiedenen Regionen des leiblichen Gliederbaues haben wir das grosse Gebiet der Artefacte durchwandert und uns überzeugt, dass allen ihre culturgeschichtliche Legitimation vom Organismus mit auf den Weg gegeben wurde.
+
+Auf dieser ganzen Bahn fanden wir die Artefacte ohne Ausnahme als Nachgebilde unterschiedlicher organischer
+
+Bezirke, bis schliesslich die Schwelle des Ueberganges zum Gesammtorganismus in der Sprache betreten wurde. Unberechtigt wie wir waren, von einem Eisenbahn 20 * [p. 308] oder Telegraphen -Organismus zu reden, hat uns nichts gehindert, bedingt auf einen „Sprachorganismus“ einzu gehen. Denn abgesehen von dem Umfang und der sonstigen Beschaffenheit des sprachlichen Materials, geht aus seiner durch die grammatisch -logische Gruppirung und durch die Flexion unterhaltenen Beweglichkeit ein dem Organismus sehr nahe stehendes Gebilde hervor.
+
+Den tieferen Sinn, welchen das Wort Buchstabe seiner Entstehung nach rechtfertigt, haben wir zur Genüge ken nen gelernt. Indem wir uns nun auch die Bedeutung der ihm entsprechenden Fremdwörter litera und literae leben dig vergegenwärtigen, können wir nicht umhin, den mensch lischen Organismus selbst als die ursprüngliche und eigentliche universitas literarum in Anspruch zu nehmen.
+
+Denn je nach veränderten Combinationen entsteigt demselben Letternkasten bald eine Fibel, bald ein Compendium der Wissenschaft, und zwar sicherlich nicht etwa unter mechanischem Durcheinanderschütteln, sondern unter Ineins fügung nach organisch articulirender Regel. Die Sprache unterscheidet sich aber von den übrigen Gestaltungen der Organprojection sehr wesentlich dadurch, dass sie das Abbild nicht bloss einer für sich in Betracht gezogenen Organgruppe, sondern einer Totalität organischer Functionsbeziehungen ist. Als die durchsichtige Form eines organischen Gesammtbildes würde sie, in sol cher Abstraction von der auch ihr zu Gebote stehenden
+
+Technik, immerhin nur als Schemen eines Organismus gel ten dürfen, wenn nicht die Thatsache der Entwickelung der Technik durch die Sprache und der Sprache durch die Technik beide als Seiten derselben organischen Einheit erscheinen liesse.
+
+Die Darstellung, welche mit dem Process dieser wechselseitigen Durchdringung von Hirn und [p. 309] Hand nicht gleichen Schritt zu halten vermochte, war darauf beschränkt, in successiver Nachfolge bald der einen, bald der anderen Seite sich zuzuwenden.
+
+Unter diesem Gesichtspunkte und mit besonderer Beziehung darauf, dass wir von der Sprache zum Staat uns übergeleitet sehen, gewinnt der Ausspruch des alten Ana charsis, der Mensch handle nach Buchstaben, die er selbst erdacht, eine eigenthümliche Bedeutung. Mit den Buchstaben und mit der Sprache, worin Gedanke, Bewusstsein und Wissen des Menschen sich formt und äussert, sowie mit seinen Hantierungen haben wir uns bisher vielfach zu beschäftigen gehabt.
+
+Seinen
+
+Handlungen waren wir ziemlich fern geblieben. Für sie ist er verantwortlich als für seine in und gegenüber der Gesellschaft durch Reflexbewegung bestimmte Thätigkeit. Die allgemeine Sphäre aber der menschlichen Verantwortlichkeit ist der Staat.
+
+Die Thätigkeit des Menschen überhaupt, auch die artefactische (hantalunga ahd. die Bearbeitung einer Sache) wird zur Handlung (handelunge mhd. die Behandlung, Ver handlung), zum beabsichtigten Handeln. Wie einem Einsiedler sein Thun oder seine Beschäftigung vorkommt, ist durchaus gleichgültig, da der Mensch nur in der menschlichen Gemeinschaft als solcher Geltung hat. Nur ihr steht es zu, mit Urtheil und Gegenhandlung das Thun des Einzelnen abzuweisen oder sich gefallen zu lassen.
+
+In jedem menschlichen Gemeinwesen aber setzt sich das fort, was allen Individuen das Gemeinsamste ist, der menschliche leibliche Organismus.
+
+Daher ist auch der
+
+Staat der werdende Organismus, d. h. er ist die zur res publica und externa werdende res interna der Menschen natur und ihre organische Totalprojection.
+
+[p. 310] Jeder natürliche Organismus ist zunächst Selbstzweck. Der Zweck auch des Staates ist kein anderer als der un gehemmte Fluss seiner Selbstthätigkeit, das Organismussein. Das Individuum aber ist je nach seiner Betheiligung an der Förderung oder Störung des Staatszweckes zurech nungsfähig, seine Thätigkeit ist Handlung.
+
+Im Lichte der Auffassung, dass der Einzelne als organisches Wesen mit seiner eigenen Fortsetzung, dem staat lichen Organismus, nicht in Widerspruch treten kann, ohne mit sich selbst in Widerspruch zu gerathen, ist er für die Einordnung seines Willens in den allgemeinen Willen responsabel. Die Corresponsabilität der Zwecke des Ein zelorganismus und der Zwecke des staatlichen Gesammt organismus ist die Wiege der Ethik und der realisirten Rechtsordnung
+
+Demnach ist der ganze Mensch im Staate, aber auch der ganze Staat im Menschen. Der Mensch, es ist richtig, ist das Zoon politikon, aber der Staat ist ein Polisma an thropikon! Des Menschen Handlungen besorgt weder der Kopf allein, noch die Hand allein, sondern der ganze Mensch.
+
+Daher ist Alles was des Menschen ist und von ihm ausgeht zugleich auch des Staates. Wie der Staat als Organismus nichts hat, sondern Alles ist, was durch ihn und in ihm zur Erscheinung kommt, so sind Land, Volk, Handwerk, Kunst, Wissenschaft, Ethik, Religion nicht etwa Nebendinge und Nebenfächer, und ein sogenannter Zweck der sogenannte Staat allein, sondern das Material, worin der Zweck sich ausführt, das hat ihn und giebt ihn nicht frei, wie auch dem Zwecke das Material, worin er thätig ist und lebt, zu eigen angehört. todte Zwecke giebt es nicht.
+
+Abstracte,
+
+[p. 311] Das erste Werkzeug war, wie wir oben gesehen, die erste Arbeit und die erste Arbeit der Urgeschichte Beginn. Die ursprüngliche Arbeitstheilung, als geschlecht liche von der Ehe ausgehend und von der Familie aus in angehender Berufsthätigkeit sich nach aussen unterscheid bar fortsetzend, wurde in Form erster ständischer Gliederung das eigentliche Wahrzeichen des organischen Staats lebens.
+
+Der Staat ist von jeher nichts Anderes gewesen, als die nie rastende Organisation der Arbeit. Hiernach wird die engere Bedeutung einer zum Stichwort socialer Bestrebungen gewordenen Bezeichnung zu bemessen sein. Die Zeit, wo der Vergleich des Staates mit dem leib lichen Organismus als ein bildweises Spiel der Phantasie betrachtet wurde, ist vorüber. Die grossen Entdeckungen der Physiologie haben einer ernsteren Würdigung Raum gegeben. Und wie hätte es ausbleiben können, dass die selben Stimmen, auf die wir uns bisher zu Gunsten des Princips der Organprojection berufen durften, nicht das auch für den Gesammtorganismus gelten lassen sollten, was sie in Beziehung auf die unterschiedenen Kreise sei ner Gliederung als selbstverständlich eingeräumt haben! Gleichwohl ist die Ansicht, welche den Staatsorganis mus unter die unbewusste Vorbildlichkeit des Einzelor ganismus und die Kenntniss von diesem unter den Ver gleich mit jenem stellt, selbst in fachwissenschaftlichen
+
+Kreisen noch zu wenig geläufig, als dass hier zur Beseitigung von Zweifeln und Misstrauen die Anführung zu stimmender Aeusserungen von competenter Seite ganz zu umgehen wäre: A. Bastian eröffnet sein Werk über die Rechtsver hältnisse bei verschiedenen Völkern der Erde mit den [p. 312] Worten: „Der Organismus des Menschen, in dem Charakter eines Zoon politikon, gliedert sich in seinen staatlichen
+
+Einrichtungen, die als der gesetzliche Ausdruck einheit licher Existenz überall unter denselben Grundzügen zu Tage treten müssen.“ Nachdem Virchow in den bekannten „Vier Reden über Leben und Kranksein“ deutlich gemacht, dass man sich den Körper nicht vorstellen dürfe wie eine Maschine, welche die Seele nach ihren Ansichten regiere, dass man im Gegentheil den Leib des Menschen auffassen müsse als einen vielgliedrigen, durch und durch belebten Organismus, vergleicht er ihn mit der Familie, dem Staat, der Gesellschaft.
+
+„Auch hier stehen die Kleinen und Un mächtigen neben den Grossen und Gewaltigen, der gemeine Mann neben dem Magnaten und Potentaten, jeder mit eigenem Wesen und Leben, das seinen besonderen, individuellen Ausdruck hat." (S. 127.) Mit den Worten: „Wir können uns unseren Organismus gewissermaassen wie einen grossen Staat denken“ unter nimmt M. Perls (Ueber die Bedeutung der pathologischen Anatomie S. 8) einen ins Detail gehenden Vergleich der Organe des menschlichen Körpers und ihrer Functionen mit denen des Staates.
+
+In der Abhandlung „Sociales Wissen“ stellt A. F. Grohmann vielseitige Vergleiche zwischen den socialen Bildungen unter den Thieren und den lebenden Organismen an und weist jede Verwechselung solcher Vergleiche mit blossen Gleichnissen ab, indem er (S. 24) John Tyndall anführt, welcher beispielsweise darthue, dass die Be zeichnung des Gletschers als eines Stromes, der eine zähe Masse wälze, eine auf Gleichheit aller wesentlichen Um stände beruhende Analogie und kein blosses Gleichniss [p. 313] sei. Er selbst fügt dann hinzu: „Wenn man die mensch liche Gesellschaft einen lebenden Organismus nennt, so ist auch dies eine auf Gleichheit der wesentlichen Um stände beruhende Analogie.
+
+In ähnlicher Weise nennt W. Flemming (Ueber die heutige Aufgabe des Mikroskops, S. 12) den menschlichen Körper eine grosse sociale Republik, deren zahllose, gleich berechtigte, aber nicht gleichbegabte Bürger die Zellen darstellen.
+
+Auch Flemming geht mehrfach auf Einzelheiten des Vergleiches ein.
+
+Ausführlicher wird der Gegenstand von 0. Caspari im ersten Bande der Urgeschichte der Menschheit abgehandelt. (S. 29 — 44, 81 — 102.) Ihm ist es vorzüglich um Klar stellung der socialen Frage zu thun, zu welcher die Naturgeschichte des Zellenlebens als Brücke dient. Er fin det in den thierischen Schwarm- und Heerdenverbänden und namentlich in dem schwimmenden „Hydromedusen staat“ die natürlichen analogen Anknüpfungspunkte für die Arbeitstheilung und für die Gliederung der Gesellschaft. Man könne sich heute kaum noch eine Socialwissenschaft denken, welche nicht vorerst die Naturwissenschaft um Rath frage. Die sociale Frage, über die wir gewohnt seien, nur den Nationalökonomen und den Staatsmann urtheilen zu hören, sollte man nicht mit Unrecht auch den Physiologen und den Naturhistorikern vorlegen. Bau und Leben des vollkommenen und gesunden Organismus liefern das Vorbild für die Gestaltung des socialen Lebens der Individuen in der Gesellschaft; denn der Organismus selbst repräsentire im Grunde nichts Anderes als eine gut und solidarisch consolidirte Gesellschaft, d. h. eine staat lich organisirte Gesellschaft von Zellenindividuen.
+
+G. Jäger geht ebenfalls auf die vollständige Analogie [p. 314] von Staat und natürlichen Organismen ein, indem er Be zeichnungen, wie Republik, Föderativstaat, constitutionelle
+
+Monarchie auf Thierformen anwendet. (Wunder der un sichtbaren Welt, S. 181 bis 184. Lehrbuch der allgemeinen Zoologie, S. 276.) Die Beweiskraft der hier aus den Schriften von G.
+
+Fager und 0. Caspari hervorgehobenen Ansichten leidet durchaus nicht unter der analogen Beziehung des Staates auf weniger entwickelte thierische Organismen. Denn wo diese schon als genügend gelten, muss es der vollkommnere Menschenleib um so mehr.
+
+E. Iläckel bezeichnet jeden höheren Organismus als eine Gesellschaft oder einen Staat von vielgestaltigen, durch Arbeitstheilung mannigfaltig ausgebildeten Elementarindi viduen. (Natürliche Schöpfungsgeschichte 1. Aufl., S. 114. Anthropogenie, S. 114.) Dem ersten Bande der siebenten Auflage der Philosophie des Unbewussten hat E. v. Ilartmann einen Anhang „Zur Physiologie der Nervencentra“ beigegeben, worin er (S. 421 ff.) auf Grund der wichtigsten Errungenschaften der neueren Nervenphysiologie die Uebereinstimmung des Staatsorganismus mit dem natürlichen eingehend bespricht. Dieser hält nach ihm „als Muster einer kunstreichen Ver bindung von leitender Spitze, selbständiger Ressortregierung, localer Selbstverwaltung und individueller Selbstthätigkeit rechte Mitte ein zwischen demokratischer Anarchie und centralisirter Präfectenwirthschaft" .
+
+Voraussetzend, dass heutigen Tages Aussprüche des angeführten Inhaltes einen ernstlichen Widerspruch kaum noch finden werden, darf ich im Vertrauen auf so bedeutende wissenschaftliche Gewähr auf eine kleine im Jahre 1849 von mir veröffentlichte Schrift über die Staatsidee zurück [p. 315] greifen. Ich würde kaum wagen, ihrer Erwähnung zu thun, wenn es mir nicht auf ihr Zeugniss ankäme, dass ich nicht etwa erst jetzt in gerade diese Behandlung des Gegenstandes eingetreten bin. Zunächst aus dem Studium der „Psyche" hervorgegangen, mag sie, auf Grund von Carus' Lehre, dass der Schlüssel zu einer wahren Psychologie nur im Unbewussten zu finden sei, der erste ein gehende Versuch gewesen sein, im leiblichen Organismus des Menschen das unbewusste Vorbild des Staatsorganis mus nachzuweisen. Indessen hatte die Kritik, ohne Verständniss für eine später mögliche physiologische Begründung der analogen Gleichheit, auch wo sie sich günstig ver nehmen liess, meine Untersuchung eben nur als ein hübsch durchgeführtes „Gleichniss“ bezeichnet. Von um so grösserem Werthe musste mir damals die einzige Ausnahme sein, eine briefliche Kundgebung vom Verfasser der Psyche, aus der ich eine auch heute noch über das nähere Interesse des Empfängers hin ausreichende Stelle heraushebe: wohl besonders erkannt, „Richtig haben Sie dass in Erkenntnissen dieser Art ein Grundstein für noch gar manches Gebäude ge geben ist, und dass namentlich auch im Staatenbau die Lehre von der besten Verfassung nur auf dem Gegebenen eines höheren und organischen Verständnisses herauf geführt werden könne. Ich selbst habe Mannigfaltiges über diese Dinge gedacht und aufgezeichnet, indess hat die Ausführung im Einzelnen nämlich so, dass das Staatsleben unmittelbaren Nutzen daraus ziehen könne, seine grossen Schwierigkeiten. Dass die Lehre vom Unbe wussten in den Völkern und von dessen Heraufbildung zum Bewusstsein im Gesetz sehr wesentlich - ja erste Grund lage sei, haben Sie sehr wahr erfasst. Manches Andere [p. 316] wird Ihnen selbst mit der Zeit noch zu denken und zu ändern geben.“
+
+Allerdings hat sich mir noch gar Vieles zu denken und zu ändern gegeben! Der Grundgedanke jedoch, dass nämlich der Staat ein aus Hand- und Geistesarbeit des Menschen unbewusst hervorgegangener Organismus und der leibliche Organismus der natürliche Staat sei, ist durch aus intact geblieben, besonders da er später zahlreichen Ansichten von der Beschaffenheit der oben angeführten begegnete.
+
+Uebrigens hat auch Carus selbst in der später ver fassten „Physis“ gegen das Ende der Darstellung der „höheren Lebenswirkungen unseres Organismus“ (S. 474) ausdrücklich in diesem „das Bild der gesammten Mensch heit, ja das Urbild ihres ächten Staatslebens“ er blickt, und, fügt er hinzu, man dürfe es keck sagen, manche Erleuchtung, manche Gesetzbegründung könnte der Staatsmann besser erhalten aus dem Studium der Lehren der Physiologie, als aus verjährten Actenstössen und dick bestäubten Pergamenten. Unter so bewandten Umständen wird die vorübergehende Berührung wenigstens des Punktes in meiner frühe ren Auffassung der Staatsidee, welchen ich jetzt noch als wesentlich festhalte, immerhin sachgemäss erscheinen. Ausgehend nämlich vom leiblichen Organismus als unbewusstem Vorbilde des Staates, versuchte ich die natürliche Lagerstätte der Staatsidee aufzuspüren, das Natur grundgesetz hervorzuheben und das Verhältniss der Arbeit der Organisation zur Organisation der Arbeit klar zu stellen. Hierauf betrachtete ich den Staat als das allmälig ins Bewusstsein tretende Nachbild des leiblichen Organismus, indem ich hierbei auf Volksvertretung, auf das mon [p. 317] archische Princip und die Beamtenwelt einging. Den Schluss machte die Erörterung des Begriffes der Freiheit, wie sich derselbe, je nach dem stufenweise höheren Bewusstsein, welches dem Menschen durch die erklärende Rückbeziehung des staatlichen Analogons auf das organische Vorbild über sich selbst aufgeht, im sociologischen Fortschritt ver wirklicht.
+
+Diese Auffassung, dass der Staat das in organischer Gestaltung sich offenbarende Bewusstsein der menschlichen Gesellschaft ist, beruht auf der Uebereinstimmung der beiderseits in Natur und Staat waltenden Momente des selben Grundgesetzes. Als solche aber machen sich be merkbar:
+
+Die unermessliche Vervielfältigung der organischen Urform zu grösster Mannigfaltigkeit der Gliederung und die auf staatlichem Gebiete diesem Process der Zellenbildung entsprechende Vervielfältigung der Familie;
+
+die Wiederholung der niederen und kleineren Kreise der Entwickelung in immer höheren und grösseren, erscheinend im Staat als administrativer In stanzenzug von der Ortsbehörde bis zum Gesammtmini sterium;
+
+das Gesetz der Periodicität, sich kundgebend wie in der periodischen Erneuerung und Fortsetzung der organischen Functionen, so in der gesammten, auf fester
+
+Regel periodischer Wiederkehr beruhenden staatlichen Le bensordnung; und schliesslich das auch den Staat als nie rastende Reform erhal tende, wahrhaft conservirende Gesetz des Stoff wechsels.
+
+Sind diese Gesetze als gültig angenommen, so müssen [p. 318] sie auch in ihrer einheitsvollen Wechselbeziehung erkannt werden als Strahlungen ein und desselben Grundgesetzes der organischen Lebendigkeit; denn jenes Entstehen und jene mannigfache Gliederung des organischen Baues in unendlicher Wiederholung der Urform ist ja zugleich die Entfaltung höherer Lebenskreise durch die periodische Aufeinanderfolge der in Neubildungen und in Ausstossung des Abgelebten sich bethätigenden Function der Organe. Wie nun mit der Thätigkeit der Gliedmaassen die Sonderarbeit der Individuen, so stimmen die Functionen der grossen einheitlichen organischen Heerde (Ernährungs-, Gefäss-, Athmungs- und Nervensystem) mit der auf Arbeits theilung basirten berufsständischen Gliederung der Massen, je nach deren Richtung auf Ackerbau, Gewerbfleiss, Handel und Pflege der Intelligenz. Auch die Erweiterung der berufs ständischen Thätigkeit und ihre Fortsetzung nach aussen, sowohl die Gründung von Pflanz- und Töchteransiedlun gen, das Colonialwesen, als auch das die Existenz der Gesellschaft schützende Heerwesen, haben beide ihre organischen Analoga. Diese bestehen theils in den Einrichtungen zur Fortpflanzung der Gattung, theils in dem Knochengefüge, welches, in seiner nunmehr erkannten Be stimmung als Organ der Fest- und Selbständigkeit, den gliederigen Unterschied und den Aufrechthalt des Ganzen ausmacht.
+
+Im Staat giebt es so viele Grundthätigkeiten wie im leiblichen Organismus. An ihnen hat er sein Bestehen, seinen Bestand, seine Stände. Sie sind ihm von der Natur vorgedacht und vorgegliedert.
+
+Ihren Reflex nach oben bilden die Fachministerien. Wenn nun bei übermässiger
+
+Anhäufung einer berufsständischen Thätigkeit collidirende Interessen eine Zweigtheilung bewirken, so geht damit [p. 319] eine Abzweigung in der obersten Verwaltung gleichen Schritt.
+
+So ist das Fundament, worin das Gemeinwesen wur zelt, die berufsständische Arbeit, und die Spitzen, in denen es gipfelt, sind berufsständische Ministerien. Die früheren allgemeinen landständischen Vertretungen haben sich zu Fachministerien verdichtet. Also unten und oben ständischer
+
+Abschluss! Aber zwischen dem Oben und Unten, zwischen
+
+Fundament und Kuppel findet periodische Trennung und Auflösung der ständischen Zusammengehörigkeit statt zum Zweck directer Wahl der allgemeinen Volksvertretung. Ist dies Abfall von der ständischen Idee und deren Verleug nung, oder ist es Schutz gegen kastenartige Verknöcherung, ist es Verfall oder Verjüngung der Staatsidee? Die Frage beantwortet sich durch das richtige Verständniss dessen, was man sich unter mechanischer Ausartung und organischer Einordnung vorzustellen hat. Soviel von dem wesentlichen Inhalt einer Schrift, welche es sich zur Aufgabe gemacht hatte, die organische Herkunft der Staatsidee aufzusuchen.
+
+Ein weiteres Vorgehen bei dem angestellten Vergleiche würde nicht sicher vor dem Sichverlieren geblieben sein. Denn so lange das De tail einer Frage sich mehr wie eine schwimmende Ra sendecke, als wie ein fester Steingrund verhält, ist es, ob schon verlockend, doch ein zu schwankender Boden, als dass die Forschung sich auf ihm vorzeitig hätte efähr den dürfen.
+
+Nunmehr indessen hat Alb. Schäffle den Gegenstand auf Grund der neuesten Fortschritte der anthropologischen Wissenschaften in einem grossartig angelegten Werke über „Bau und Leben des socialen Körpers“ zu behandeln unternommen. Er nennt es einen encyklopädischen Ent [p. 320] wurf einer realen Anatomie, Physiologie und Psychologie der menschlichen Gesellschaft mit besonderer Rücksicht auf die Volkswirthschaft als socialen Stoffwechsel und sucht demgemäss seine Hauptstützen in den anatomischen und physiologischen Grundthatsachen der organischen Körper.
+
+Das Buch ist daher bei der Umsicht und Ausführlichkeit, womit ein massenhaftes, namentlich der Hi stologie entlehntes Material, verarbeitet wird, vorzüglich geeignet, dem Kerngedanken, dass der sociale Körper ein nach dem Vorbild des leiblichen Organismus sich glie derndes Gemeinwesen ist, von nun an die verdiente all gemeinere Anerkennung zu verschaffen. Dass der Staat ein dem Menschenleibe sich nachbil dender Organismus ist, darf als zugestanden angenommen Wir wissen damit, woher er stammt und sind werden.
+
+durch die Kenntniss seiner Herkunft befähigt, auf seine Zukunft zu schliessen. Um aber darin nicht fehl zu gehen, ist der Unterschied zwischen der unbestimmten Vorstellung vom Staate, wie er für jede Gegenwart als geschichtliche Thatsache erscheint, und dem Begriff des Staates, wie er als entwickelter Organismus gedacht wird, festzuhalten. Jener, der Geschichte angehörigen Formen, in welchen successiv und simultan die Staatsidee sich zu verwirklichen strebt, sind viele, diese, die Staatsidee, das Ziel, ist nur einmal vorhanden; jene sind die zeitlichen Ansätze des Staatsorganismus, wechselnde Formen mit particulär-nationalen Zuthaten, diese ist der Eine in allen einzelnen Staats formen lebendige und sie gestaltende Begriff des Organischen; jene sind das Veränderliche und Verschwindende, diese ist das Unveränderliche und Dauernde.
+
+Nach der idealen Auffassung, welche den Gegenstand unter den Gesichtspunkt der Zukunft stellt, sind alle der [p. 321] Vergangenheit und der jedesmaligen Gegenwart angehörende Staaten als Momente höchster organischer Entwickelung Mittel zum Endzweck. Im Widerspruch damit hält die politische Routine gemeinhin das durch ihr Getriebe her vorzubringende Werk schon für den wahren Staat und erklärt gerade das, was ihr unverbrüchlich die höchste Maass und Ziel angebende Richtschnur sein sollte, nämlich den von der Idee des vollendeten Organismus angestrebten Idealstaat, irrthümlich für die Ausgeburt unfruchtbarer Ideologie.
+
+Es ist wahr, die Routine treibt dem Mechanismus zu, und die unfruchtbare Ideologie erzeugt Bildungen, den früh dahin siechenden Wunderkindern vergleichbar.
+
+Dort also politische Stockung, hier politische Frühreife, beides Klippen, durch welche die unter der unbewussten Führung der organischen Idee ihren gemessenen Gang schreitende Staatsentwickelung wohl vorübergehend gehemmt werden, an denen sie aber nicht scheitern kann. Denn die mensch liche Gesellschaft ist dadurch, dass sie sich auf die Dauer der Gesetze des im Organismus thätigen Unbewussten in Form ihrer Rechtsverfassung mehr und mehr bewusst wird, vor der Gefahr mechanischer Abtödtung bewahrt, mithin befähigt, sich zu neuen höheren Stufen des Selbstbewusstseins zu erheben.
+
+Die veränderlichen Formen des Staates müssen als Mittel zu dem Einen ihnen immanenten Zweck erkannt werden. Wenn aber der Staat als Mittel zu einem über ihn selbst hinausliegend gedachten Zweck angesehen wird, so hängt die Berichtigung von der Entscheidung über die Frage ab, ob es sich überhaupt mit seinem Wesen verträgt, dass er entweder nur als Mittel, oder nur als Zweck, oder aber als Selbstzweck angesehen wird. KAPP, Phil. d. Technik.
+
+[p. 322] Franz Ziegler, gross als Patriot und ausgezeichnet durch staatsmännische Einsicht, hat einst beklagt, dass uns „die Idee des Staates, des Höchsten, was der Mensch zu bilden vermöge" , verloren gegangen sei.
+
+Ist nun aber die Idee des Staates, nur in so weit als derselbe ein Organismus ist, das Höchste was der Mensch zu bilden vermag, so ist es wesentlich die Idee des Organismus, worauf es da bei ankommt; denn sie ist das höchste dem mensch lichen Gedanken Erreichbare. Auch leuchtet ein, dass hierbei nicht etwa der Begriff des organischen Einzel wesens als Norm in Betracht kommt, sondern dass nur die organische Idee, das Organismussein, die Organicität, die supreme göttliche Lebensquelle aller individuellen organischen Gebilde, gemeint sein kann. Ueber diese Spitze hinaus hat sich noch niemals das nur innerhalb des Logos berechtigte, also Gefühlsahnun gen und Phantasie abweisende, menschliche Denken ver stiegen. Die ständigen Namen dessen, was nur immer den Hauptinhalt philosophischer Lehrgebäude ausmacht, sind, genau erwogen, eigentlich nur Prädicate, deren alleiniges Subject die organische Idee, das Allorganismus sein, ist und bleibt.
+
+In ihm leben und weben und sind wir. Darum setzt der Mensch sich selbst, Leib und Leben, was er ist und hat, in den Staat ein.
+
+Höheres als den
+
+Staat bildet er nicht, Höheres als die organische Idee denkt er nicht, und über das Höchste, was er als Spitze aller organischen Schöpfungen selbst ist, reicht er nun einmal mit Hand und Hirn nicht hinaus.
+
+So ist die organische Idee die Substanz des Absoluten und der allein untrügliche Anhalt für die gläubige Zu eignung anthropomorpher Attribute in harmonischer Vollkommenheit. Die organische Idee ist von kosmischer Uni [p. 323] versalität und in ihr bewegt sich der Gedanke, weil er zugleich am Menschen selbst sich festhält, auch auf mi krokosmischem, dem einzigen niemals unter ihm schwan kenden Grunde. Von sich selbst aus reift der Mensch als höchstes organisches Geschöpf zunächst unbewusst dem Staatsleben entgegen; denn „jedem Volke steht“ , nach Hegel's präg nantem Ausdruck, „die wahre Verfassung bevor und es geht auf sie zu.“ Und so geht auch die gesammte Mensch heit auf die Staatsidee, auf den idealen aus vielen unter geordneten Lebenskreisen bestehenden Organismus, also auf sich selbst, zu.
+
+Auf dieser Bahn wird, je nach dem alternirenden Vorwiegen eines der beiden in der Entwickelung zum Selbstbewusstsein sich durchwirkenden Momente, des Bewusstseins und des Unbewussten, dasjenige, was zu einer Zeit unbewusster Zweck oder Ziel war, zur anderen bewusstes Ziel oder Zweck.
+
+Dem Begriff des Organismus entsprechend dürfte vom Staat als von einem über oder neben oder gegenüber dem Volke Existirenden nicht die Rede sein.
+
+Geschieht es gleichwohl, so besteht ein innerer Widerspruch, der daher rührt, dass in absolutistischen Zuständen die spontane Thätigkeit, weil sie, ohne das Ganze gleichmässig zu durch dringen, nur von einer Seite aus wirksam ist, von der anderen Seite als Zwang und Herrschaft empfunden wird. Sind dagegen alle Staatsangehörige mehr oder minder gemeinsam an der Staatsarbeit betheiligt, so ist diese das allen gemeine Gemeinwesen. Sein Vorbild aber ist der Menschenleib, der sich selbst verwaltet, selbst aufbaut und erhält. Denn das Charakteristische des Organismus ist ja eben, dass er sich selbst hervorbringt, so dass das Vollbrachte zugleich das Vollbringende ist, ein Vorgang, 21 * [p. 324] den wir gleichermaassen schon vom Sprachorganismus bezeugt gesehen haben. So ist auch das Staatswesen sich selbst hervorbringend und constituirend Constitution. Der Leibesconstitution analog geht die staatliche vor sich.
+
+Der Ausdruck Constitution ohne nähere Be stimmung hat ausschliesslich nur diese beiden Bedeutungen und ist in Uebereinstimmung mit der Uebertragung der Benennungen menschlicher Werke auf deren natürliche Vorbilder zugleich ein Beweis für die Thatsache, dass die Projection eines Gesammtorganismus, wie der Staat es ist, durch die retrospectiv ertheilten Aufschlüsse über die to tale organische Selbstverwaltung auch dem Selbstbewusst sein die Fernsicht auf das Gebiet seiner weitesten Aus dehnung eröffnet.
+
+Haben sich in neuester Zeit überhaupt Vergleiche von Staat und Organismus gemehrt, so fehlt es auch nicht an Proben des näheren Eingehens auf die Thatsache, dass das Verständniss des natürlichen Organismus durch die rückbezügliche Betrachtung des ihm unbewusst nachge bildeten Staates gefördert werden könne, dass also das Menschenwerk ganz entsprechend dem Princip der Organ projection als eine Art physiologischen Apparates zur Verwendung kommt. In diesem Sinne behandelt E. Häckel das ganze schwierige Problem der Entwickelungsgeschichte des Men Er führt dasselbe auf die Frage zurück, durch welche natürlichen Vorgänge sich aus einer einfachen Zelle jener complicirte Lebensapparat mit allen seinen man schen.
+
+nigfaltigen Organen hervorgebildet habe, und beantwortet sie mit dem Ausspruch, dass der vielzellige Organismus durchaus nach denselben Gesetzen aufgebaut und zusammengesetzt sei, wie ein civilisirter Staat, in welchem sich [p. 325] viele verschiedene Staatsbürger zu verschiedenen Leistungen und zu gemeinsamen Zwecken verbunden haben. Er erkennt gerade diesem Vergleiche die grösste Bedeutung zu, indem dadurch das Verständniss der Zusammensetzung des Menschen aus vielen verschiedenartigen Zellen und ihres harmonischen Zusammenwirkens sehr erleichtert wird. „Wenn wir diesen Vergleich festhalten und diese bedeutungsvolle Auffassung des vielzelligen entwickelten Organismus als eines staatlichen Verbandes von vielen Individuen auf seine Entwickelungsgeschichte anwenden, so gelangen wir zu dem wichtigen Verständniss von dem eigentlichen Wesen der ersten und wichtigsten Entwickelungs vorgänge.“ (Anthropogenie, S. 117. 118.) Wir müssen es uns versagen, der weiteren Ausführung des Vergleiches zu folgen. Nur dies sei hervorgehoben, dass derselbe, insofern er als ein „و, وfundamentaler" für die Anthropogenie bezeichnet wird, mit Rücksicht auf die gerade hier eingeräumte Bevorzugung von eminente ster Bedeutung ist. Wenn der Verfasser, vom „Verständniss des harmonischen Zusammenwirkens der verschiedenen Zellen zu einem scheinbar vorbedachten Zwecke“ sprechend, dieses „scheinbar“ ganz besonders betont, so darf man wohl behaupten, dass die Beibehaltung oder Auslassung dieses einen Wortes den Schwerpunkt des ganzen „Für" und „Wider“ der tiefeingreifenden Erregung in der wissen schaftlichen Welt ausmacht.
+
+Indessen bleibt mit und ohne jenen Zusatz die An thropogenie ein zu fester Bau, als dass Angriffe in bisheriger Weise ihn aus den Fugen zu bringen vermöchten. Ja, wenn wirklich der Irrthum, dessen der Verfasser geziehen wird, indirect zu seinen Gunsten ausschlägt, [p. 326] so müsste der gefährlichste Gegner Häckel's nur er selbst sein.
+
+Nach dieser Auffassung würde seine Verkündigung eines unabwendbaren Concurses des vermeintlich autonomen in der Materie vordenkenden Geistes, in Betracht des Aufwandes von Geist, womit die Verkündigung geschieht, Zeugniss für das gerade Gegentheil ablegen. Sprache und Logik, die Mitgift des Menschen in der Ur anlage - dem strengen, intransigenten Materialismus ein mechanisches Supplement des Zufalls müssten sich in diesem Falle als die uneinnehmbare Schutz- und Trutz wehr des nach einem Ziele strebenden und des erreichten Zieles sich bewusst seienden Genius erweisen. Die kühne
+
+Beweisführung des Schöpfers der Anthropogenie, die Kunst der Darstellung, der Ausdruck der Begeisterung für die mit solcher Arbeit beabsichtigten Erfolge, nach seinerseits vorbedachtem Zwecke, -- sind dies Zutälligkeiten und gelegentliche Beigaben des Organismus, oder Aeusserungen einer Innerlichkeit? Und wenn letzteres behauptet wird, was ist von einer organischen Innerlichkeit zu halten, deren Aeusserungen so viel Vorbedacht verrathen? Wir unsererseits halten fest an dem von Häckel zu gestandenen Fundament der Anthropogenie, an dem „fundamentalen Vergleich“ von Staat und Menschenleib, fest daran, dass der Mensch im Wissen vom staatlichen Organismus zum Bewusstsein über sein eigenes Leibesleben kommt, und wir können im Sinne der Organprojection nicht umhin, daraus zu folgern, dass der Wissenschaft alle Denker leib eigen im buchstäblichen Sinne des Wortes sind. Denn der Gedanke einer Entwickelungsgeschichte des Menschen wird nicht von aussen her in sie hineingetragen. Vielmehr erhält ihn der Forscher aus nächster Nähe von [p. 327] dem Gegenstand der Forschung, dem individuellen Organismus, und der ist er. selbst. Der Entwickelungsgeschichte ist ihr Gedanke immanent; denn der individuelle Organismus ist der eingefleischte Entwickelungsgedanke. Mit dem Gedanken aber ist der Geist und mit dem Geist ist
+
+Zweck in aller Entwickelung. Die Entwickelung lässt sich keineswegs zum Prädicate von Gesetzen der Vererbung und Anpassung herabmindern.
+
+Die Sache verhält sich umgekehrt; denn die Entwickelung selbst ist das principielle Subject. Sollte dem Begriff des Fundamentalen im Vergleich von Staat und Menschenleib hiermit nicht genügt sein, so steht nur noch an, dass er actuell auch für die organischen Vorstufen des Menschen nachgewiesen wird. Wie gründlich dies geschehen, davon zeugt in 0. Cas pari's Urgeschichte der Menschheit der Abschnitt über „die zusammenhängende Arbeitstheilung als Grundlage und Ursache aller Organisation und des organischen Staatslebens“ . Hier wird unter anderen ein Hydromedu senstaat, eine Art föderativen Gemeinwesens, eine im Ganzen schwach centralisirte Organisation, vorgeführt, indem der Centralpolyp die Regierung, die Ruderer und die
+
+Fangpolypen den Wehrstand, die Tastpolypen den Beamten- und Lehrstand, und die staatlichen Insassen, nach Männchen und Weibchen getheilt, den Nährstand dar stellen. (S. 18 ff.)
+
+Kaum von geringerer Wichtigkeit für die Erhärtung der wahrhaft fundamentalen Beschaffenheit des Vergleiches durch die actuelle Empirie, die sich auch für die anor malen Verhältnisse der Organismen zu bewähren hat, ist die Belehrung, welche die Pathologie von jeher aus den krankhaften Zuständen der staatlichen Gesellschaft schöpfen
+
+[p. 328] So gleichen namentlich den politischen Revolutionen die acuten Fieber als Heilprocesse zum Zweck der Befreiung des Organismus von aufgespeicherten Mauser konnte.
+
+stoffen. Letztere hemmen im Staat die Reform, im mensch lichen Körper den Stoffwechsel. Daher klagt von jeher die Reformbedürftigkeit: „Es erben sich Gesetz und Rechte wie eine ew'ge Krankheit fort.“
+
+Die Aufgabe des Staates also ist es, der mechanischen Störungen sich zu erwehren und die organische Gesammt thätigkeit im ungehemmten Fluss zu erhalten.
+
+Der Mechanismus zehrt am Organismus, wie die Krankheit an der Gesundheit; mechanische Verkümmerung und orga nische Stärkung stehen in umgekehrtem Verhältniss. Die Heilung im Staate geschieht durch Arbeit, aber nur durch solche Arbeit, welche die Lebenskraft erhält und erhöht, wie ja auch dem kranken Leibe Heilmittel, die zugleich Nahrungsmittel sind, am meisten zusagten. Von jeher haben Zustände unter dem fahrlässigen Princip des Gewährenlassens damit geendet, dass Arbeits leistungen ausserhalb der vollen organischen Solidarität maass- und regellos verwildernd der Fremde, dem Aus land, dem Elend und der Hülflosigkeit verfielen, bis der Staat, durch die ihm, dem Gemeinwesen, drohende Ge fahr zur Besinnung gebracht, Pflicht und Vortheile der organischen Zähmung wahrnahm. Selbstverständlich kann hier nicht eine besondere Art von Arbeit gemeint sein, welche exclusiv als solche gelten möchte. Im Organismus, der dadurch besteht, dass Form und Function der Organe dasselbe sind, ist Alles Arbeit. Keiner seiner Lebenskreise verrichtet sie ausschliesslich und arbeitend verbürgt jeder von ihnen alle anderen. Von jenem alten Menenius Agrippa und seiner sogenannten Alle [p. 329] gorie vom Magen und den Gliedern kann die Volkswirth schaftslehre auch heute noch lernen.
+
+Soviel wir wissen, formulirte er seiner Zeit zuerst den fundamentalen Ver gleich als argumentum ad — plebem, und im Verein mit der biblischen Fassung, „So ein Glied leidet, leiden alle Glieder mit ' , ist er der Grundtext höchster Staatsweisheit so wohl, wie höchster individueller Lebenskunst geblieben. Es fehlt nicht an grossartigen Beispielen in der Geschichte, aus denen hervorgeht, dass der Staat mehr und mehr der oben berührten Schwierigkeiten Herr wurde. Dieselben waren um so grösser, wenn innerhalb der Gesellschaft die Ausartung und die Unfügsamkeit privater Arbeitsgemeinschaften durch einen vielfach zerstreuten, die Absonderung begünstigenden Territorialbesitz unter halten wurde.
+
+Unsere Culturstaaten stehen gegenwärtig vor einer ähnlichen Nothwendigkeit. Zur Erläuterung erinnern wir daran, dass unter an dern „die geistlichen Ritterorden im Mittelalter, so lange es keine stehenden Heere gab, den Militärstand, aber ab gesondert von staatlicher Gemeinschaft, ebenso die Mönchs orden die Kirche, die Vehmgerichte die Justiz, die Hansa Verkehr und Handel darstellten. Diese geistlichen und weltlichen Körperschaften griffen vielfach die einen in die Befugnisse der anderen und überhaupt in die des Staates über.
+
+Die Geistlichkeit führte auch wohl das Schwert, die Kaufleute befassten sich mit eigener Jurisdiction und Kriegführung u. s. w. Bei Reibungen dieser Art mussten sie mit der Zeit in Gegensatz zum Staate gerathen, der diese Lebensfunctionen, um seinem Begriff allseitig zu ent sprechen, selbst auszuüben hat; sie konnten sich der Ein fügung in eine höhere Ordnung eben so wenig entziehen, [p. 330] wie ihre sporadischen Niederlassungen der räumlichen Einverleibung in das grössere Ganze.“ (Philosophische Erd kunde, S. 429.) Lange noch dauerte es, bis die Schule den Klöstern, die Gewerbthätigkeit der Zunft entwachsen, bis Kunst und Wissenschaft in Akademien und Universitäten unter staatlicher Pflege geborgen waren, bis besondere Ministerien Akerbau, Handel und Wandel in na tionalökonomischen Zusammenhang setzten und bis die schliesslich an dem Mark des Staates zehrenden Wucher pflanzen der Monopole und Privilegien der freien Con currenz Platz gemacht hatten.
+
+Aus dem ganzen Verlauf dieser Vorgänge erhellt, dass der Masseninstinct, so lange der Staat in eigener organischer Arbeitsleistung zurück ist, die unumgängliche Aus hülfe auf eigene Hand ins Werk setzt und dass der in zwischen hinreichend erstarkte Staat erst dann, wenn das in der Privatpflege herangewachsene Kind sich im Ueber muth der Kraft ausbeuterisch am Gemeinwesen ver greift, der Arbeit seiner Selbstorganisation durch Organisation der Arbeitsleistung aller Staatsangehörigen mit Er folg genügen kann. Sinnreich verbindet sich im Sprachgebrauch „Han del“ mit „Wandel“ zum Ausdruck der volkswirthschaft lichen Thätigkeit. In dieser sind vor allem Strassen und Communicationsmittel jeder Art einbegriffen, da sie über haupt den Wandel, d. i. sowohl die Wandlung und Umgestaltung der Roherzeugnisse, als auch das Wandern und Hin- und Hergehen von Gütern und Menschen, obenan. das Postwesen, möglich machen. Auf letzteres haben wir nunmehr im Anschluss an die früheren Erörterungen über die Draht- und Schienenlei tungen und im engsten Zusammenhange mit der Ent [p. 331] wickelung des staatlichen Organismus noch besonders ein zugehen. Eine weitere Veranlassung ist die im deutschen Reich in Vollzug gesetzte Vereinigung der Staatstelegra phenverwaltung mit dem Generalpostmeisteramt. Was im allgemeinen das Verhältniss der Eisenbahnen und der Telegraphen zur Post angeht, so giebt es sich schon in deren näheren Bezeichnungen zu erkennen. Man spricht gemeinhin von Eisenbahnsystem und von Tele graphensystem, aber niemals heisst es Postsystem, sondern ohne Ausnahme Postwesen.
+
+Die Verschiedenheit dieser näheren Bestimmungen er klärt sich dadurch, dass die mechanischen Vorrichtungen für den Lauf der Telegramme und Locomotiven ein für allemal an unveränderliche Gleise von Schienen und Drähten in festem Zusammenhang gebannt sind, während die Post rücksichtlich der technischen Träger der Beförderung eine sehr vielseitige Unabhängigkeit besitzt. Nach dem sie sich anfänglich mehr vorübergehend an Telegraphen und an Schienenwegen eingebürgert, steht sie nunmehr im Begriff, auch letztere sich dauernd einzuverleiben.
+
+Schon sind Briefe zu Telegrammen, Telegramme zu Briefen geworden. Doch bleiben Landstrassen, Post wagen und Briefe, diese unentwickelten Formen von Schienenwegen, Locomotivtrains und Telegrammen, fort während der Beförderung durch Dampf und Elektricität dienstbar zur Seite.
+
+Der Fracht- und Personenwagen der
+
+Post speist den Waggon, der optische Telegraph a. D. ist der Eisenbahn zur Disposition gestellt, und was vordem Zweck war, wird Moment zur Erreichung eines höheren, in möglichster Verkürzung von Raum und Zeit bestehenden Zweckes.
+
+Post ist der Inbegriff aller vom Staat in Dienst ge [p. 332] nommenen Beförderungsmittel, von der Taube bis zum
+
+Vierfüssler, vom Velocipede bis zur Locomotive, vom Brief träger bis zum Courier, vom Feldpfad bis zur Eisenstrasse, von der Schreipost bis zur Rohrpost und bis zu all den Röhren, Drähten, Kabeln, Tunneln und Dämpfern, durch die Luft, zu, über und unter Land und Wasser. Das Postwesen im eigentlichen Sinne ist Beförderung von Staatswegen auf den Wegen des Staates.
+
+Der Staat hat schliesslich alle ihm zukommenden Functionen in sich aufzunehmen und erfüllt diese Aufgabe, indem er die innerhalb seiner Sphäre lebensfähig gewordenen Bildungen und Institutionen des öffentlichen Verkehrs der ihnen mehr oder minder anhaftenden Vereinzelung enthebt und in organischen Fluss bringt. Post als Staatsanstalt ist die zum Weltverkehr erweiterte Locomotion.
+
+Ihr bisheriger Begriff ist zu eng ge worden. Der Gedanke einer Weltpost und dessen geniale Ausführung ist die Inauguration eines Verkehrsministeriums der Zukunft, mit universaler die gesammte Culturwelt um spannender Thätigkeit. Man hat sich unter Post weniger das äussere technische Material der Fortbewegung, als viel mehr deren Zwecke, innere Richtung und Verzweigung zu vergegenwärtigen. Daher ist die Post, weil durchdrungen vom Wesen des Staates, als der organischen Existenz eines nationalen Geistes, das Postwesen. Dagegen ist es die stückweise Zusammenstellung technischer Vorrichtungen, welche recht augenfällig den Telegraphen und Eisen bahnen in der eigenthümlich abgegrenzten Einerleiheit ihres Gefüges den Stempel mechanischer Composition auf geprägt und dieselben unter dem industriellen Terminus von Systemen eingeführt hat. Somit ist das Postwesen die staatliche Form der Com [p. 333] munication und je nach dem Grade der Vervollkommnung das Abbild der ununterbrochenen Correspondenz aller Functionen des Einzelorganismus, wohl geeignet, zum Zweck des Fortschrittes im Selbstbewusstsein, die richtige Vorstellung von der organischen Lebendigkeit ver mitteln zu helfen!
+
+In der Unterhaltung zwischen Goethe und Napoleon zu Erfurt kam das Gespräch auch auf die Schicksalsidee der Alten, wobei die Bemerkung fiel, dass die Macht der Umstände in moderner Zeit das Fatum vertrete.
+
+Doch was ist Macht der Umstände? Vom Grundgedanken unserer Untersuchung aus sind die Umstände, unter deren
+
+Macht der Mensch steht, vorzugsweise seine Culturzu stände, das Product seiner Hand- und Geistesarbeit. Alle sonstige Creatur unterliegt meist nur der Macht der Naturereignisse. Umstände setzen Arbeit und Bewusstsein voraus. Von guten oder schlechten Umständen der Pflanzen und Thiere spricht man nicht, eher davon, ob sie gut oder schlecht im Stande seien. Dass die Elementarmächte bestimmend in die Gestaltungen der Cultur eingreifen, des Menschen Wille und Intelligenz in die der Natur, ändert im allgemeinen wenig; denn dort bleiben Cultur und staat liche Gemeinschaft, hier Natur und bewusstloses Heerden leben das Wesentliche.
+
+Nun ist aber die Betheiligung des menschlichen Lei des an der Beschaffenheit der Culturwelt der Art, dass die verschiedenen Gebilde der Organprojection, welche ja nur aus dem Zusammenhang eines organischen Ganzen heraus denkbar sind, ihren Verfertigern unbewusst, von der Idee dieses Ganzen afficirt sein müssen.
+
+Es kann daher nicht ausbleiben, dass die ihnen anhaftende organische Zugabe auch die Sphäre, innerhalb deren ihre Entstehung und Vervollkommnung allein möglich ist, den Staat nämlich und seinen Ausbau, vollenden helfen wird.
+
+Denn eine staatlose Cultur und culturlose Staaten hat es niemals ge geben. Aus der Identität also von Cultur und Staat geht die Macht der Umstände hervor.
+
+Von diesem Fatum sind
+
+Handel, Justiz, Bewaffnung, Polizei, Schule, Kunst und Wissenschaft, Kirche, Wege, Posten, Telegraphen ereilt worden.
+
+Und die Eisenbahnen?
+
+Die Einordnung der besonderen Functionen in das staat liche Gesammtleben ist nach dem Grade der Bedürftigkeit sehr verschieden. Im Verhältniss zu der unendlichen Entfernung vom Ziele, d. h. von der vollkommenen Harmonie in Wirkung und Gegenwirkung, ist der wichtigste Schritt schon gethan, sobald nur überhaupt der Widerspruch ge gen das organisatorische Recht des Staates gebrochen und der Gegenstand in seiner Gewalt ist. Je nach der Macht der Umstände wird die eine oder andere Seite der organischen Lebendigkeit relativ in den Vordergrund treten. Man unterscheidet Ackerbau-, Han dels-, Gewerbe-, Klerus- und Militärstaaten. Kommt das nationale Pathos in einer von diesen starken Seiten des Staates zur Erscheinung, dann zeigt sich die Stärke wesentlich darin, dass die minder entwickelten Kreise an ihr Schutz und Gedeihen finden.
+
+In dieser Form erhalten letztere ihre eigene für das Bestehen des Ganzen geleistete Arbeit nach dem Wechsel der organischen Gegenseitig keit zurück. Hierauf beruht im allgemeinen die Selbst erhaltung des Organismus und im besonderen der Vorrang der deutschen Wehrverfassung. Eine höhere Entwickelung staatlicher Functionen als diese hat die Geschichte nicht aufzuweisen.
+
+Gleichzeitig durchdrungen, wie die Armee es ist, von [p. 335] dem Naturgrundgesetz, mit dem wir oben bekannt wurden, erkennen wir in den Individuen der Mannschaft die Urformen der taktischen Gliederung, in dieser die Wiederholung niederer Sphären in immer höheren bis zum Generalstab hinauf, nach einer in periodischer Wiederkehr geordneten Uebungsregel und unter nie rastendem Stoff- und Kraft wechsel mittels Erneuerung und Beförderung des Personal bestandes. Ist hierdurch die möglichst erreichbare Aus scheidung und Fernhaltung mechanischen Einrostens ge sichert, dann schreitet die Armee auf dem Richtwege ihrem hohen Ziele zu, Prototyp zu werden für die organische Durchbildung der übrigen Berufsstände. Ein Ausfluss des unabänderlichen Naturgrundgesetzes ist die Strenge der militärischen Ordnung und Unter ordnung. Sie hat missverständlich auch dem deutschen Heerwesen, von dem hier allein die Rede ist, die Bezeichnung Militarismus als Ausdruck der Abneigung gegen das selbe eingetragen. Unter dieser Etikette ist von „Abschaffung“ des stehenden Heeres gesprochen worden, ohne alle Erwägung, dass nur Söldnerhaufen käuflich an- und ab geschafft werden können, dass aber Glieder eines Organismus anerschaffen sind, und urwüchsig von innen heraus. Eine Armeeorganisation, deren Keime in altvolks thümlichen Wehrverhältnissen und in der nationalen Ur anlage zu suchen sind, entsteht und wächst allmälig ihrem, der Nation unbewussten, Ziele entgegen.
+
+Nur die technische Ausrüstung und die Verwendung zu einem bestimmten Zwecke geschieht in bewusster Ab sicht. Aber wer von Allen, die an der Grundlegung des Heerwesens betheiligt waren, hätte von der gegenwärtigen
+
+Stufe seiner Entwickelung eine deutliche Vorstellung gehabt! Indessen sehen wir diese Entwickelung im Gleich [p. 336] schritt mit grossen wissenschaftlichen Entdeckungen perio disch durch Bewusstseinsacte von grösserer oder geringerer Dauer und Energie durchbrochen.
+
+In einer solchen Epoche des Sichbesinnens über die Ausbildung und Leistungsfähigkeit der Armee in der Vergangenheit und über ihre Aufgabe in der Zukunft steht Deutschland seit dem letzten Aufgebot seiner gesammten
+
+Kriegsmacht. Allgemein gewinnt die Ueberzeugung Raum, dass eine so gestaltreiche, unzertrennlich mit dem Staats organismus verwachsene Ausgliederung des Volksbewusst seins sich ohne Zusammensturz des Ganzen nicht einfach fortdecretiren lasse.
+
+Auch das Verlangen nach wenigstens theilweiser Ab rüstung wird unter andern durch Aufschlüsse, welche die Wissenschaft über organische Reflexbewegungen ertheilt, gründlich beschieden. Erhöhte Militäretats sind politische Reflex bewegungen. Eine Berufung von den organischen Gesetzen ist nicht zulässig; denn sie sind selbst die höchste Instanz.
+
+Den Abschaffungs-, Abrüstungs-, Entwaffnungs- und Wehrlosmachungs -Zumuthungen gegenüber erschliesst sich überdies die Einsicht, dass das stehende Heer ausser sei nem nächsten Beruf, Stand zu halten im Felde für die politische Selbständigkeit, auch einen grossen Antheil an der Sicherstellung der Wissenschaft hat. Denn die Kriegskunst, nunmehr zur Kriegswissenschaft durchgebildet und als solche im Verband mit den übrigen Wissenschaften, ist, genährt von allen, auch betheiligt an der Förderung aller. Die Wissenschaft aber wächst aus der Schule heraus, welche sämmtliche Unterrichts- und Erziehungs-Einrichtungen von der Bewahranstalt bis zur Hochschule umfasst. Inzwischen ist aus gemeinschaftlicher Wurzel mit ihr ein gleich kräftiger Stamm in der Heer [p. 337] schule erstarkt. Beide, die Bücherschule und die Waffen schule, sich geschwisterlich erkennend, sind nunmehr auf dem Wege einer voraussichtlichen Verschmelzung ihrer gemeinschaftlichen Interessen. Einerseits die Staatsgym nastik vertretend, andererseits frei von den Gebrechen der Gelehrtenschule, zeigt das stehende Heer als Ziel seiner Schulung das Gleichgewicht in der allseitigen Entwickelung der physischen und geistigen Anlagen des Menschen. Das seiner Zeit mehrfach bemängelte Wort Hegel's, das Heer gehöre dem Stande der Intelligenz an, fährt fort sich im mer mehr zu bewahrheiten.
+
+Die ausnahmsweise bevorzugte Stellung der Armee ist die natürliche Consequenz der steten Uebung ihrer Thätigkeit in Vorbereitung auf den Ausnahmezustand krie gerischer Conflicte, deren Eintritt, wenn sie die Unabhängig keit in Frage stellen, die gesammte im stehenden Heere aufgesammelte Spannkraft der Nation herausfordert. Daher die Nothwendigkeit seiner imponirend durchgeführten Organisation und das instinctive Hinströmen aller sonst verfügbaren Kräfte nach dieser starken Seite.
+
+Blieben die Hörsäle für längere Zeit geschlossen, die Existenz des Staates wäre noch nicht gefährdet. Dagegen würde die Entlassung der Armee, auch nur auf kurze Dauer, alle äusseren und inneren dem Staat feindlichen Elemente Eine facul entfesseln und dessen Fundament erschüttern.
+
+tative Volksbewaffnung, suchte man in ihr einen Ersatz, wäre gleichbedeutend mit Finanzzerrüttung und Unterwüh lung der Gesellschaft.
+
+Dagegen wirkt die Tag für Tag unausgesetzte Arbeit im Dienst des stehenden Heeres ein Capital, welches sich unvermerkt als Kraft und Gesundheit, Gehorsam und Pflichtgefühl in alle Lebensadern des Gemeinwesens ver [p. 338] theilt. Sein Werth, an und für sich unberechenbar, ent zieht sich für die gedankenlose Gewohnheit eines täglich selbstverständlichen Genusses jeder annähernd vernünftigen Schätzung.
+
+Fragt man aber nach der zeugenden Macht der Wirkungen solcher Thätigkeit, so giebt sie sich kund in dem Cardinalverbältniss von Commando und Subordination. Es ist überhaupt die Unterordnung unter einen höheren Willen, woraus von der Familie aufwärts der ganze Zusammenhalt der Gesellschaft hervorgeht. Gesteigert bis zur Strenge des unwiderruflichen Befehls und des unverbrüchlichen Gehorsams soll die Disciplin, als militärischer Geist zu Gedankensubstanz werilend, die Armee in der Entscheidung des Kampfes um die höchsten Güter bereit halten zur unbedingten Hingabe an das Eine, was der Befehl von Oben verlangt.
+
+Um nun aber die Frage nach dem Zusammenhang der militärischen Disciplin mit dem von uns behandelten Thema beantworten zu können, ist auf eine frühere Erörterung zurückzugreifen. Wie sich oben, S. 184, herausgestellt hat, beginnt die Entwickelung der Maschine mit dem Elementenpaar, des sen charakteristische Eigenschaft darin besteht, dass das eine Element die Umhüllungsform des anderen ist und dass ihre Bewegung nur in der Einen, der paarigen An einanderschliessung eigenthümlichen Weise vor sich gehen kann. Ist das eine Element festgestellt, so ist die Bewegung des anderen eine absolute zum Punkte der räum lichen Feststellung; ohne solche Feststellung bewegen sie sich relativ zu einander.
+
+Die Form ihrer Zusammenschliessung mag hier, je nach Befund einer nur theilweisen oder einer vollständigen
+
+[p. 339] Umhüllung als Theilschluss und als Vollschluss bezeichnet werden. Da nun die zwangsläufige Bewegung des theil schlüssigen Elementenpaares nie ganz sicher ist, die des voll schlüssigen aber Störungen fernhält, so beruht überhaupt auf der zunehmenden Ablösung des Theilschlusses durch Vollschluss der Fortschritt in der Vervollkommnung der Maschine.
+
+Es ist eine höchst überraschende Thatsache, dass auch die Entwickelung der menschlichen Gesellschaft das Es ist die Unterordnung des Einzelwillens unter den höheren, und kommt am schärfsten nämliche Fundament hat.
+
+ausgebildet als militärische Disciplin zur Erscheinung. Dies vorausgeschickt nennen wir geradezu den Theil und Vollschluss des Elementenpaares die Disciplin der Maschine, und bezeichnen dem entsprechend die Disciplin des Heeres als Vollschluss von Befehl und Gehorsam.
+
+Wir halten ausserdem bei dieser Verwendung des Ausdrucks
+
+Disciplin dessen Doppelbedeutung fest, einerseits die paa rige Uebereinstimmung der Elemente, welche sowohl die Dienstordnung der Maschine als auch die des Heeres be dingt, andererseits die Kenntniss und die Wissenschaft von der Erzeugung und Aufrechterhaltung dieser Erfolge. Der feste Punkt oder der oberste befehlende Wille, um welchen sich der Gehorsam in paariger Geschlossen heit durch eine Rangstufenkette von Ueber- und Unter ordnung zu bewegen hat, ist das monarchische Princip. Dieser Grundzug fehlt nirgends einer noch so mangelhaften militärischen Disciplin.
+
+Wenn es sich jedoch um stetigen Fortschritt im Ueber gang von unvollständigem zu vollständigem Ineinander greifen von Gebot und seiner Ausführung, · von der Ablösung des Schwankenden durch Bestimmtes, des Losen 22 * [p. 340] durch Festes, der Ausnahme durch die Regel handelt, da behauptet das deutsche stehende Heer den Ruhm, dass es auf der bis jetzt erreichbaren höchsten Stufe der Organisation steht und als Vorbild für alle übrigen Heerverfas sungen anerkannt wird. Verdankt wird dieser staunens werthe Erfolg der Erziehung vom nur blinden Gehorsam zum unbedingten Gehorsam, als Product der freien Ein sicht von dessen Nothwendigkeit zum Bestehen des Ganzen. Diese innere Nothwendigkeit ist der Halt für die mensch liche Freiheit, während die Maschine lediglich vom Zwang äusserer Nothwendigkeit regulirt wird. Selbst wenn eine Aera ohne Kriegführung einträte, würde das Heer als die mit dem Staate organisch verwachsene Männerschule und als steter Erneuerungs grund von Gehorsam und physischer Tüchtigkeit unentbehrlich bleiben.
+
+Schon die einfache Thatsache seiner
+
+Gegenwart genügt, anarchische Gelüste in Zaum und Zügel zu halten.
+
+Welche Umgestaltungen dem Heerwesen ferner bevor stehen in Uebereinstimmung mit dem allgemeinen Cultur fortschritte, darüber kann man eben so wenig klar sehen, wie die früheren Generationen von den gegenwärtigen Zu ständen eine Ahnung hatten.
+
+Gewiss ist, dass das Heer wesen, unbewusst dem Zuge der Staatsidee folgend, fort fahren muss, seine Aufgabe in der Vertretung der starken Seite des Gemeinwesens zu finden, so lange der Vollbegriff der Persönlichkeit in der harmonischen Ausbildung der menschlichen Anlagen gesucht wird. Sich jetzt schon über das dereinstige Verbleiben von Kanonen und Torpedos den Kopf zu zerbrechen, ist jedenfalls zu früh. Hiermit ist, wofern überhaupt in der Maschinentechnik der Kern- und Mittelpunkt des Bereiches mechanischer
+
+[p. 341] Gebilde und in der Heeresorganisation das Vorbild für die weitere Entwickelung der Staatsgesellschaft anerkannt wird, die vielbedeutende Beziehung zwischen den beiden grossen Gebieten, deren Schöpfer der Mensch ist, zwischen dem machinalen und dem politischen, mehr als angedeutet. Es bestätigt sich, dass die Entwickelung von Staat und von Maschine auf demselben Princip beruht. Auch die Maschine muss gehorchen!
+
+Da nun der Staat sich im stehenden Heere das Organ geschaffen hat, welches mit seiner Disciplin die Idee des Gehorsams in der ganzen Gesellschaft lebendig erhält, so konnten nur innere aus dem Wesen des Staates hervorgehende Gründe es veranlassen, dass unsere Betrachtung gerade bei diesem Einen Berufsstande länger zu verweilen hatte. Jedenfalls ist es ferner nicht nöthig, dass die Bedeutung der mechanischen Technik für die Entwickelung der Staatsidee aufs neue hervorgehoben wird. Wir halten jeden Zweifel daran, dass nach dem Zusammenhang von Staats und Maschinenwesen das eine im anderen sein höheres
+
+Verständniss gewinne, für beseitigt. Haben doch beide ihr gemeinschaftliches Vorbild an ein und demselben hohen Urbild disciplinarer Vollschlüssigkeit! Denn was im Ge biete der Technik und in dem des Staates die Eine der paarigen Congruenz entsprechende Weise der Bewegung, das ist für das leibliche Organ der Zweck, welcher zu gleich die einzige Bestimmung desselben ist.
+
+So ist das
+
+Sehen Zweck und alleinige Bestimmung des Auges, und so auch vermag weder in der Maschine eines der paarigen Elemente, seiner ursprünglichen kinematischen Form zuwider, auf eine andere Form von Paarschluss einzugehen, noch ist in der sittlichen Welt zu erwarten, der Gehorchende werde zwei verschiedenen Befehlen zugleich genügen können.
+
+[p. 342] Ueber die Bedeutung der gegenseitigen Beziehung von Staats- und Maschinenwissenschaft sagt die Theoretische
+
+Kinematik: „Das ganze innere Wesen der Maschine ist das Ergebniss einer planvollen Beschränkung, ihre Vervollkommnung bedeutet die zunehmende kunstvolle Einengung der Bewegung bis zum vollen Ausschluss jeder Unbestimmtheit. An dieser Steigerung der Beschränkung hat die Mensch heit durch Aeonen gearbeitet. Suchen wir eine Parallele hierzu auf anderen Gebieten, so können wir sie wohl in dem grossen Problem der menschlichen Gesittung finden. Dieser gehört im Grunde genommen die Entwickelung des Maschinenwesens als ein Factor an, indem sie zugleich ihr verschärftes Gegenbild vor Augen führt. " Ein hellerer Strahl der Erkenntniss hat selten das innerste Wesen des Staatslebens getroffen. Stammend aus dem Bereich, worin mechanisch „Alles rollt“, ist er ein Hinweis auf die Welt der Sittlichkeit, worin organisch hier wie dort in kunstvoller Einengung „Alles fliesst" der Bewegung. Nur die gehobene Stimmung, in welche den Autor der endliche Abschluss eines grossartigen Werkes versenkte, konnte Worte von solcher Einfachheit und ruhiger Erhabenheit eingeben!
+
+Auf dem ganzen bisher zurückgelegten Wege waren wir bemüht, den Gegensatz, der zwischen mechanischen Vorrichtungen und organischen Gebilden besteht, aufrecht zu erhalten. Inzwischen hat der Gegensatz von Manufact und Fac tor eine wesentliche Milderung dadurch erfahren, dass der Maschine ein anderes Erzeugniss menschlicher Arbeit, nämlich der Staat, an die Seite getreten ist, und sehen wir auf einmal den Maschinenmechanismus und den Staats organismus „Hand in Hand" mit dem Begehr nach Aus stellung ihres Heimathscheines seitens der Wissenschaft.
+
+[p. 343] Unsere Beschäftigung mit des Menschen artefactischer Aussenwelt fand scheinbar in so einseitigem Vorgehen statt, dass dem gleichzeitig mitentstehenden Staat und der Wechselbedingung ihres beiderseitigen Zustandekommens nicht die gleiche Aufmerksamkeit zugewendet wurde. Nun ist der vollendeten Thatsache nicht länger auszuweichen, dass das Reich der mechanischen Bildungen, dessen Ein zelformen der schroffen Gegensätzlichkeit zum leiblichen Organismus sich nicht entziehen können, als ein Ganzes dem Staatsorganismus integrirend angehört. So haben wir es auf einmal mit zwei organischen
+
+Gebieten zu thun, mit dem menschlichen Einzelorganismus und mit dem staatlichen Gesammtorganismus. Jenem stan den einzelne Artefacte gegenüber, mechanische der unter schiedlichen Gliederung und den besonderen Functionsbezie hungen nachgeformte Machwerke - hier der Mensch und da die Maschine, während der menschliche Leib in seiner organischen Totalität das Urbild des staatlichen Gesammt organismus ist. Wollte man auch hier trennen: auf der einen Seite der Mensch und auf der anderen Seite der Staat, so würde der Staat gleich jenen Einzelartefacten lediglich als Mechanismus zu beurtheilen sein. Daher genügt in diesem Falle Vorbildlichkeit des Einzelorganismus allein nicht. Vielmehr machen alle Einzelorganismen in voller selbsteigner Leibhaftigkeit zugleich auch die eigentlich organische Substanz der staatlichen Schöpfung aus. Das Vorbild für die Organisation ihrer Gesammtarbeit ist allerdings kein anderes als das, welchem auch die Her stellung der besonderen Artefacte zu folgen hatte. Wie nun im Einzelorganismus, dessen ursprünglich anorganische oder chemische Bestandtheile kraft der orga nischen Idee andere Verbindungen eingehen, als sie je im Bereiche der Chemie möglich sind: so gewinnt auch der stoffliche Bestand des Staates, sein Grund und Boden nämlich und sein gesammter technischer Inhalt, in der Bethei ligung an organischem Leben eine Bedeutung, welche ihn wesentlich von allem dem unterscheidet, was nie mit mensch lichen Zwecken in Berührung war. Wo nur immer der historische, d. h. der in staat licher Gemeinschaft lebende Mensch einem Gegenstand Spuren des Geistes aufgeprägt hat, da erscheint ein sol cher Stoff an der Geschichte betheiligt und ist, weil der historische Process und die Entwickelung des Staatsorganismus identisch sind, in staatsorganischer Verbindung. So wenig also ein lebendiger Menschenkörper existirt ohne sinnliche Realität, ebenso wenig giebt es einen Staatskörper ohne sinnliches Material zum Selbstaufbau. Der von Menschen hand geformte Stoff in seiner Gesammtheit ist demnach als staatsorganischer Bestand frei von mechanischer Besonderheit, gleich wie Anorganisches, dem leben digen Körper nach der organischen Idee eingeordnet, eben falls zu organischer Constitution wird. Der Staat, wenn auch noch so unvollkommen oder verkommen, bleibt Organismus und ist nie eine Maschine. Ueberhaupt bezeichnet das Maschinenmässige, auf den Einzelnen wie auf die Gesellschaft angewandt, meistentheils nur einen hohen Grad von Gedankenlosigkeit und ge wohnheitlichem Schablonenthum.
+
+Staat sein heisst sich als Organismus verhalten. Deshalb kann er nie ganz mechanisch sein, wohl aber giebt es innerhalb seiner Maschinen, die als Einzelmechanismen vom Einzelorganismus unterschieden werden müssen, die aber als Ganzes im Ganzen der vom Staate selbst tauglich zum Angeeignetwerden zu gerichtete Stoff seiner Selbsterhaltung sind,
+
+[p. 345] Wir sind nunmehr auf dem Höhenpunkt unserer Untersuchung angelangt und sehen das Product der Menschenhand, das in seiner Form von Einzelmechanismen bisher vor jeder Vermengung mit organischen Gebilden behütet war, in seiner Gesammtheit mit der Gesammtheit der menschlichen Individuen zu organisch gesellschaftlicher Einheit verschmolzen. In dieser Form also, im stofflichen
+
+Bestand des Staatskörpers, ist der in den Einzelartefacten sich forterhaltende Gegensatz von Mechanismus und Organismus aufgehoben. Alle nach organischem Vorbilde geschaffenen Einzel werke waren unter den Begriff Werkzeug gestellt worden, insofern sie als Mittel zum Verständniss der organischen Leiblichkeit und zur Entwickelung des Selbstbewusstseins dienten. Auch in der Lautsprache hatten wir ein Werk zeug erkannt, obschon an dessen Hervorbringung die Hand nicht unmittelbar betheiligt war, und zwar ein solches Werkzeug, welches als Product seiner eigenen Thätigkeit das unverkennbare Wahrzeichen des Organischen an sich trägt, die unmittelbare Einheit von Hervorbringendem und Hervorgebrachtem. Da die Sprache jedoch zu ihrer Entfaltung auf die Dauer der Unterstützung der Hand be durfte, so that sie mit Handschrift und Schriftthum ge wissermaassen einen Schritt zurück auf die manufactische
+
+Werkzeugbildung. Auf diese Weise, gleichsam mit einem Fusse im Reiche der Mechanismen, mit dem anderen im Gebiete des Organischen und des Geistes, ist sie einerseits durch Laut und Gedankeninhalt, andererseits durch Hand schrift und Schriftthum das Bindeglied zwischen den er wähnten beiden grossen Schöpfungen der Menschheit, der Welt des Stofflich -Mechanischen und der Welt des Organisch-Geistigen.
+
+Verwirklicht ist deren Einheit im Staate, dem Abglanz der als Mensch erscheinenden Einheit von Sinnlichem und Geistigem. Die Kraftfülle dieser Einheit hat der Hel lene in das herrliche Wort Energie gelegt, d. i. die schaf fende Werkthätigkeit, deren erster Hammerschlag die Ver kündigung war vom Aufbau der staatlichen Gemeinschaft.
+
+Vergegenwärtigen wir uns hierbei, dass der einzelne Staat nur eine theilweise Gewähr für diese Betrachtung bieten kann.
+
+Wir mussten daher von allen untergegange nen und von den noch existirenden Staaten als Entwicke lungsformen auf die zukünftigen vollkommeneren Gestaltungen schliessen, und an der Staatsidee selbst den wahren
+
+Maassstab zu gewinnen bestrebt sein.
+
+Wäre dies annähernd gelungen, dann dürfen wir an nehmen, dass wir angelangt am Ziel, zugleich auch wieder am Anfang uns befinden.
+
+Denn der Urmensch der werk zeuglosen Aera, wovon wir ausgegangen sind, war die noch nicht aufgeschlossene organische Lebendigkeit, unbewusst und unmittelbar eine Hand und Hirn und die ganze Cul turwelt in sich bergende Einheit.
+
+Aus seiner Uranlage traten Waffen, Werkzeuge, Ge räthe, Apparate, Instrumente, Maschinen und alle die an der Erdkruste selbst zur Stützung mächtiger Verkehrs systeme vorgenommenen Veränderungen hervor. In lang samer nach Weltaltern zählender Zeitenfolge, wie Gletscher massen unmerklich sich weiterschiebend, kehren sie, immer neu sich gebärend und ebenso ohne Unterlass aufgehend im Fluss der organischen Idee, zu der im Staatskörper verwirklichten Einheit zurück.
+
+Ende und Anfang sind dasselbe, dieser die unerschlossene, jenes die mit den Resultaten der menschlichen Arbeit erfüllte Einheit.
+
+Wir wiederholen, dass des Menschen bewusste Thätigkeit
+
+[p. 347] Arbeit ist, dass die Arbeit innerhalb des Staates oder über haupt für die Zwecke des Staates als berufsständische Arbeit erscheint, und dass die Berufsarbeit im Zusammenhang ihrer den Staatsorganismus unterhaltenden oder störenden Beschaffenheit zur Handlung wird. Für jede Handlung, sei sie stoffgestaltend oder geistbildend, Dampfkessel oder Höl lenmaschine, offene Schule oder syllabistische Geheimlehre, ist das Individuum der Gesellschaft verantwortlich, deshalb nannten wir mit Beziehung auf den Ausspruch, der Mensch handle nach Worten, die er selbst erdacht, d. h. er handle mit Vorbedacht, den Staat die Sphäre der menschlichen Verantwortlichkeit. Ob moralischer oder ethischer Verantwortlichkeit, das hängt davon ab, ob die Handlungen das veränderliche Rechtsgebiet der Gesellschaft oder die un wandelbaren ewigen Hoheitsrechte des Organismus und das Gewissen berühren.
+
+Wird sich der Mensch, aus der Tiefe seines unbewussten Verwachsenseins mit der Staatsgemeinschaft, eingetre tener Störungen und Verletzungen dessen bewusst, was wir oben die Corresponsabilität der Zwecke des Einzel organismus und der Zwecke des Gesammtorganismus genannt haben, so macht sich in dieser Vergewisserung dar über, dass etwas ist was nicht sein soll, die Stimme des Gewissens vernehmbar.
+
+Gewissensregungen sind Bewusst seinsacte, deren Wiederholung in demselben Grade die Schranken des Unbewussten einengen, wie sie die des Selbst bewusstseins erweitern.
+
+Die äusserste Grenze der Organprojection, bis wohin immer noch sinnlich wahrzunehmende, mess- und zähl bare Producte zum Vorschein kamen, wäre nunmehr er reicht. Selbst der Staat hatte sich seine Verwendung zum sen, Gleich Verständniss der Leiblichkeit gefallen zu lassen [p. 348] wohl muss noch der eine Schritt bis zum verschwindenden letzten Schimmer von Mittel und Werkzeug gewagt werden. Wir sind gewohnt, den Grundzug in „Leib und Leben“ , nämlich Gestaltung und Umgestaltung, Entstehen und Ver gehen, Wachsthum und Verfall, und überhaupt die Ein heit aller Sonderfunctionen des Organismus als Entwickelung zu bezeichnen. In dieser unmittelbaren Einheit ist Entwickelung zunächst reine Dimensionsveränderung und findet, erst im Unterschiede von Dimension und Veränderung projicirt, en kosmisches Einverständniss im Neben einander der Dinge und im Nacheinander ihrer Bewegung. Der Mensch nennt dieses Einverständniss Raum und Zeit und besitzt daran die Form für seine Anschauung der phänomenalen Welt, welche er mittels dieser Abstraction als Räumlichkeit und Zeitlichkeit zu unter scheiden vermag.
+
+Die Auslösung des Begriffes von Raum und Zeit und dessen Fortsetzung zu Unendlichkeit und Ewigkeit ist eine der grössten Thaten der Menschheit. Entsprungen aus dem organischen Selbst, aus Leib und Leben, aus Stoff und Bewegung, aus Dimension und Veränderung, unterhält seine Rückbeziehung auf den Ursprung in dem ihn aus lösenden Gedankenwesen die Anwartschaft auf einen über Räumliches und Zeitliches hinausreichenden Zusammenhang mit dem, was oben als das Subject des Ewigen und Unendlichen bezeichnet worden ist.
+
+Unsere Untersuchung ist am Ziele.
+
+Den
+
+Menschen begleitend von seiner ersten in einem Werkzeug kund gegebenen Arbeitsleistung bis zur allseitigen Ausübung be rufsständischer Arbeit, haben wir im Staatskörper die mit ihrem Culturcostüm zu organischer Einheit sich verschmel zende menschliche Gesellschaft erkannt.
+
+Wenn ein Blick [p. 349] darüber hinaus versucht wird, so ist deshalb der feste
+
+Standpunkt, den wir in der von einer bestimmten Räumlichkeit und Zeitlichkeit getragenen Staatenbildung eingenommen haben, nicht aufgegeben, vielmehr nur dem Zuge der Staatsidee und ihrer Sondergestalten nach dem pan organischen Urquell hin sein Recht geblieben. Auf weitere Consequenzen einzugehen, kann daher nicht in unserer Ab sicht liegen. Nur mit Bezug darauf, nach welchen Richtungen die Lehre von der Organprojection der Wissen schaft neue Angriffspunkte für die Behandlung mancher Fragen gestattet, mögen einige Andeutungen erlaubt sein. Noch steht die Menschheit in den Kinderschuhen ihrer Cultur oder in den Anfängen der technischen Gleisen, die sich der Geist selbst zu seinem Voranschreiten zu legen hat.
+
+Von dem bis jetzt durchlaufenen, verhältnissmässig kurzen Stadium lassen sich nach Maassgabe des Erreichten, bei progressiver Vervollkommnung von Werkzeug und Maschine und unter gleichzeitig wachsender Indienstnahme der Naturkräfte, die kühnsten Schlussfolgerungen auf eine ausser allem Ermessen liegende Grösse der Culturzu kunft machen.
+
+Entsprechend der zunehmenden Kenntniss des leib lichen Organismus wird ein höheres Selbstbewusstsein hei lend die Gesellschaft durchdringen und mit der Milderung der Conflicte der Individuen unter sich und der Staaten unter einander die pessimistische Weltanschauung auf einen für den gesunden Optimismus unentbehrlichen Grad herab stimmen.
+
+Die erweiterte, in festen Gedankeninhalt verwandelte
+
+Kenntniss von den organischen Grundbedingungen des Staatslebens wird das Gesetz zu Inhalt und Form ethischer
+
+Satzung vereinfachen.
+
+[p. 350] Die apostolische Botschaft, welche den Leib als einen Tempel des heiligen Geistes proclamirt hat, wird ihre bis her so fragmentarische Bethätigung durch eine Religion des Leibes ergänzen und wird alsdann, die Ansprüche Aller auf die irdische Wirklichkeit mit den Anweisungen auf das transscendente Jenseits versöhnend, ihre Selbster neuerung und die Erlösung von allem Uebel socialer Missstände vollziehen. Die Erkenntniss wird vom leiblichen Selbst aus höhere Aufschlüsse ertheilen über annoch ungelöste Probleme des Wissens, über die Herkunft des Begriffes von Raum und Zeit, über das Ding an sich in der Vielheit der Dinge und seine in der Relation zur Entwickelung des Selbstbewusstseins vor sich gehende stufenweise Ent schleierung. Die Kunst wird beharrlich fortfahren, in ihrem Ver wachsensein mit der Urheimath alles Schönen, mit der organischen Idee, das morphologische Grundgesetz zu einer alle Verhältnisse des Lebens verklärenden Macht zu er heben.
+
+Die Einsicht wird sich befestigen, dass des Menschen Freiheit nur innerhalb seiner, mit dem Selbstbewusstsein gleichen Schritt haltenden, Freiheitsfähigkeit möglich ist. Jedwede andere Richtung als diejenige, welche von der menschlichen Uranlage angestrebt wird, auferlegt dem Wil len äusseren Zwang und Unfreiheit. Daher wird sich her ausstellen, dass nur in dem durch Zucht und Erziehung vermittelten, bewusst gewollten Einklang mit der inneren organischen Nothwendigkeit die wahre Freiheit zu finden, und dass der Mensch, damit er auf sein Werden zu dem, was er sein soll, auch Werth lege, der selbstthätige freie Wille nothwendig ist. Ueberhaupt nur innerhalb des mensch [p. 351] lichen Wesens denkbar, scheitert darüber hinaus der Wille nach oben an titanenhafter, nach unten an brutaler Ohn macht.
+
+Unter der Voraussetzung der Indentität von Freiheit und innerer Nothwendigkeit, wie sie aus dem Verständniss von Werkzeug und Maschine, von Mensch und Arbeit, je nach der Entwickelung des Einen aus dem Anderen und nach der Erklärung des Einen durch das Andere hervor geht, giebt der Staat den Anhalt für eine fortschreitend höhere Auffassung der organischen Idee. Auf ihr beruhen die Erfolge des wissenschaftlichen Strebens, in ihr be wegen sich alle philosophischen Systeme, sie ist die Verheissung der religiösen Wiedergeburt auf dem Fundamente desjenigen Glaubens, unter dessen Symbol die Cul turvölker der Erde stehen.
+
+So bleibt das nächst Liegende und Gegebene, wovon alle Speculation ausgeht und wohin sie zurückkehrt, der Mensch und sein höchstes reales Gebilde, der Staat, das menschliche Alles in Allem.
+
+*
+
+Hervor aus Werkzeugen und Maschinen, die er ge schaffen, aus den Lettern, die er erdacht, tritt der Mensch, der Deus ex Machina, Sich Selbst gegenüber!
+
+MUNCHE N
+
+2S 4082
+
+A.
+
+Accord, 248. Achromasie, 81–83.
+
+Actualismus, Princip des, 124. Actuelle Empirie, 327. Akustische Apparate, 84. Alchemie, 276. Alles rollt, Alles fliesst, 207.
+
+B. B, Ott. , 287. Babbage, C. , 191. Baer, E. von, 11. Bagehot, Walter, is.
+
+Bastian, Adolph, 11. 12. 60. 311.
+
+Alter d. Menschengeschlechts, 37. Analyse der Maschine, 191 ff.
+
+Baumann, J. J. , 248. Beil, 43. 54. Beisszange, 43. Bergmann, 27.
+
+Anthropocentrischer Standpunkt,
+
+Beschränkung, Werth für die Ma
+
+13-16; geocentrische Anspieschine und für den Staat, 201. Bewegung, dauernde, ihre Reprä lung, 15.
+
+Anthropogenie, 114 ;fundamentaler Vergleich mit dem civilisirten Staate, 325.
+
+Anthropologischer Maassstab, 3.8. Anthropopathische Irrwege, 160. Anzabl und Inzahl, 247. 251. 272. Arbeiterfrage, 199. Arbeitsmaschine, 198; in Beziehung zum Studium des Menschen, 203.
+
+Argumentum ad – plebem, 329.
+
+Aristoteles, anat. u. physiol. Arbeiten, 4. 5. 41.
+
+Artefact, 41; etymologischeGrundbedeutung, 245. Astrologie, 276. Aussenwelt, Begriff, 24. Autographensammlungen, 295.
+
+Axt. 54; die amerikanische, 244. KAPP, Phil. d. Technik.
+
+sentanten, 181.
+
+Bewegung und Kraft, 182. Bewegungsgesetze der Organe, 59. Bewusstes und Unbewusstes im Leben der Seele, 23. 156.
+
+Biogenetisches Grundgesetz, bis 20.
+
+Blutgefäss- und Eisenbahnsystem, 136.
+
+Bochenek, Joh ., 216. 222. 224. 237, 239.
+
+Böhmer, Heinrich, 11. Bronzeperiode, 44. 58.
+
+Buchstabe, Etymologie, 292 ff. C.
+
+Calendarium, 75. Camera obscura, so.
+
+*-܂ܠ
+
+£
+
+TP
+
+C'esc G.
+
+sa her Visa
+
+Vicos
+
+ܵܬܵܐܵܗ E
+
+: 4.33 Es. Vea
+
+Cari Oba
+
+Ginseedia
+
+Git men Emzia Fu ne den
+
+-ITS SA SACHS DIEN
+
+TANELISTS ITS OPTIONS ri, m E3
+
+Course Coco
+
+Casta
+
+. in Man)
+
+Curs Carer,
+
+:?
+
+Ezteres Exiannetz ni izreisstecz.
+
+Energe. to. SEDZ.
+
+27. I.
+
+CIC, IT hin semini ie. Sr Minde:
+
+une Lisime mi Gore
+
+Carlarcie Brning der
+
+Encrcnis
+
+Engin
+
+Es
+
+N.
+
+Sm ziemas
+
+Larvišinas. : 3 I. ISCIRO rosse Tirsten: werden use Carrerunt Estas 170 TISZ.
+
+riders armi.1221 9. SIIDISTUSAFT WIND
+
+Isangr :se mi je LASI.S za
+
+FINS AL1. de Lerrete se
+
+TrTlurire. ;;
+
+THISINORuit te
+
+310-02 DISL.
+
+'',11: ༤ན༌ ge 1 ESHTE is
+
+C:  ܘܫm &
+
+THT
+
+*cani *T :*** .
+
+chr als * !ܕܬܝܕ
+
+; ܐܝܐܳܢ T__
+
+܀ܢܝܐܬܚܠܪܝܐܠܺܢܫܕܬ  ܬ ܺܣܚ- ; TE
+
+ar.
+
+im
+
+Cile.
+
+* ODE
+
+RE
+
+T.IT.
+
+Formel, Begriff, 273. Franklin, 237. Frantz, Constantin, 10. Froschstrom, 147.
+
+Functionsbild, projicirt, 137. Funke, 31. Fuss als Maassstab im hervorragenden Sinne, 72.
+
+Goethe, 118. 240. Goldener Boden des Handwerks, 236.
+
+Goldener Schnitt, 209 ff. Benennung, 212; Aesthetisches Gesetz der Harmonie und logisches Gesetz der Richtigkeit, 264;
+
+Bewahrheitung durch Kunst G.
+
+Galenus, 5. Galvani, 5. 146. Gebiss als vorbildliches Organ, 53. Geige, ein durchgeistigtes Instrument, 257. 259.
+
+Geigenholz, Trocknungsprocess, 263.
+
+werke, 218; erstreckt sich auf die ganze menschliche Gestalt, 220. 225; Anwendung auf Kopf, 235; auf Arm und Hand, 233. Grimm, Jacob, 280. Grohmann, A. F. , 312. Gürtelregion, 223.
+
+Geiger, Lazarus, 11. 18. 42. 48. 51. 56. 250.
+
+H.
+
+Geist als Selbstdefinition, 161. Gemeinwesen, 323. Geräthe für Haus und Küche, 56.
+
+Hacken, 46. Häckel, E. , 1S. 324. 326.
+
+Geschichtliche und physiologische
+
+Hammer, 42. 43; des Donar, 305;
+
+Thatsachen, 11.
+
+Geschichtsphilosophie, ihre Auf gabe, 5.
+
+Geschichtsstaat und Idealstaat, 320. Geschwinddruckpresse, 302. Gesellschaft, ihre Anatomie und Physiologie, 320. Gesichtsvorstellung und ihre Beziehung nach Aussen, 32. Gewährenlassen, Princip des, 328. Gleichheit und Gleichniss im Verhältniss von Organ und Werkzeug, 90. 91. Gleichmaass, 220. Glied im Unterschied von Theil, 71. Gliederung und Theilung, 217. Gliedmaassen, 27. 68.
+
+Gliedzahl, begriffliche Abtrennung vom Gliedunterschied, 251.
+
+das Factotum der Handwerk zeuge, 303. Hand, das auswendige Gehirn, 151; eiserne, des Ritters Götz von Berlichingen, 101 ff.; Normal verhältniss, 233; vertritt symbolisch den ganzen Menschen, 252.
+
+Hand und Handwerkzeug, 61. Hand, das Werkzeug der Werk zeuge, 41.
+
+Handlichkeit, 252 ff.; des Werk zeugs, eine organische Mitgift, 104.
+
+Handlung, Begriff, 71; Etymologie, 309.
+
+Handschrift, 279. Handwerk, 232.
+
+Handwerkzeug, 41 ff. 57 fr. 23*
+
+Hzvezizesz. Vsestre z Ms sasabi 1 % Veuiszoe çörre
+
+Azazenu 3
+
+Lazai »
+
+12:47: Precio der orciscan scia Briza meet
+
+2.
+
+en Esveisegesen 3 Harmace E. S. 91. 3.4. Harin E. , 3. Harte. 3. Harescere, Deard aber die esccerisede Harock des Aser
+
+Jiger. Gstar, 13. 7.9 Pa J 11. J :boc. Edari 31.
+
+The ze! t 23.SY das Seetheze, 245: aib metische od baroccsche Pro
+
+Kasi prol Sisodpeckt 9.
+
+pessica iti. HebeCarne, Herresen, deutsches, 31-341:
+
+Abschaag. 335.
+
+Kupo. Erast. 7 :. 153. 334. Kartea. GS.
+
+Katzenberger, Marin 6. Keil. 53.
+
+H - z L 2.7. 331. Herze. Ma, 1
+
+K.
+
+Hewaid. Fr. I. über die prizi
+
+Kinemark und Kaese, 04.
+
+tiren Ferrobre, Helmholtz, 31. 3. 129. 131. 132. 1.Si.
+
+Kipenatische Gjeder eg pd si -13. Decatiebe Versat
+
+Kedang ud Bebasing, * .
+
+Hensen, aber das Corti sebe Or an. 91. 3. Hermann. Ccarad, 04.03. SI. S. 213. 214. 9. 14.
+
+Klescke, H,
+
+Herschel's Riesenteieskop, Herz, das, ein Purspwerk. % . Hobl- und Parmaasse, 63. Horriez, Adolph. 32. Homboids, A. v. das Ensebasen
+
+Kraft und Bewegay, 13. Kraftaaschipe, lus
+
+Dezer Organe, 105. Hydroedasenstast, 347.
+
+Egoeberwacestern, 11o. lii.
+
+Kopf, Normareka.ciss, -33.
+
+Krat, sc gesammelte, i3. Kriseiss, 19. Krnet. P. 31.
+
+Kriegswissenschaft, 330. Krystal-Linse, 13. O. Közelger, W. v ., ? Kunsthandwerk, 23
+
+I.
+
+Ich, das kürzeste Selbstgespräch, 300.
+
+Kurstiche Glieder, im Unterschied von Werkzeugen. 103 ti. Küppers, Iguaz, 21.
+
+Lealmaschine, 305. Idealismus. realer, 1:29. 151.
+
+L.
+
+Ideal -macbinales System. 158. Im Sezen Reich, **. 31.).
+
+Lagarde, Paul de, 15.
+
+Instidet des Fiddess, 149.
+
+La Mettrie, -15.
+
+[p. 357] Mechanische Terminologie in der Lange, Albert, 31. 206. 301. Längenmaasse, 63. Lasalle, 29. Lasson, S. 229. Lautgeberde, 293.
+
+Mechanismus als Erklärungsmittel des Organismus, 26. 121 ff. Mechanistische Disciplinirung der Lautsprache, 280. Lautverschiebung, 288.
+
+Meckel, Joh. Friedrich, 18.
+
+Leib, seine Kenntniss und der ge bildete Mensch, 163. Leibniz, 9.
+
+Liebmann, Otto, 128. 132. Lingua, Zunge und Sprache, 277. Litera 293.
+
+Physiologie, 65. 152.
+
+Naturforschung, 120. Meissel, 53.
+
+Menenius Agrippa, 328. Mensch, Spitze der organischen Schöpfung, 17; findend und er findend, 25; der feste Ausgangs punkt aller Forschung, 39; das
+
+Litera und literae, 308.
+
+tool making animal, 237.
+
+Ludwig, 31.
+
+Mesail-Starigny, 72.
+
+Lupe, 79.
+
+Meyer, G. Hermann, 108 ff. 219. Mikroskope, 79. M.
+
+Maass, Gleichmaass, Ebenmaass, 227.
+
+Maass- u. Gewichtssystem, das natürliche, 72; d. altgriechische, 73. Maassstäbe, 69. 73. 74. Manu propria, 279. Maschine der Maschinen, 126. Maschinen für Form- und für Orts
+
+Militarismus, 335. Miölnir, der idealisirte Steinbam mer, 306.
+
+Monochord, 85. 361. Musik, tönender Organismus, 260. Mühle, Etymologisches, 49 ff.
+
+Müller, Joh., 31. Müller, Johannes, 31. 32. Musikalische Instrumente, davon entlehnte physiologische Denen veränderung, 196. Maschine und Denkprocess, 203. Maschine, ihr Begriff, 172; Verursachung der Ortsverän
+
+Mystik, 8; Verhältniss zur Philosophie, 229.
+
+derung in ihr, 175; ihr vollständiger Inhalt, 194;
+
+N.
+
+scheinbare Feindseligkeit gegen Menschenwohl, 200;
+
+Vervollkommnung mittels Er satz des Kraftschlusses durch
+
+Paarschluss, 184.
+
+Maschinenwesen, modernes, 184. Maschinenwissenschaft, 171. Mayer, Robert, 130. 145.
+
+Mechanische Gesetze, 61, nungen, 93.
+
+Nabel, Theilungspunkt, 223. Nägel des Menschen, Vorbild für Werkzeuge, 53. Natur- und Staatsgrundgesetz, 317. Naturkräfte, sensible und latente im Maschinenwesen, 174. Nervenfasern und Telegraphen drähte, 145.
+
+Normalmaschine, 131,
+
+[p. 358] Vamen- und Sachregister.
+
+Oberschenkelknochen, Zug- und einstimmung des Staatsorganis mus mit dem natürlichen, 314. Philosophy ofthe axe, 241 ff. 253.
+
+Druckseiten, 111; Schub- oder
+
+Physiologie, Geschichte dersel
+
+0.
+
+Scheerkraft, 114.
+
+den, 4.
+
+Oerstedt, 147. Ohr und Hören, 88. 93. Obrschnecke, 104.
+
+Physiologische und geschichtliche Thatsachen, 11.
+
+Oidtmann, Blutumlauf, 135.
+
+Physiologische Psychologie, 5. Pisco, F. J., über das Corti’sche Organ, 92. Plastik, ethische, des Sokrates, 3. Polisma anthropikon, 310.
+
+Optische Technik, 76. 78. Organ und Werkzeug, 40. Organicität, 322.
+
+Organisatorisches Recht des Staa-
+
+Physiolog. Rettungsapparat, 9.
+
+Postwesen, Inbegriff aller staat tes, 330.
+
+Organische Entwickelungstheorie und mechanische Vervollkomm nungspraxis, 133.
+
+Organische Regel und mechanische Gesetze, 61.
+
+Organismus, Urbild des echten Staatslebens, 316.
+
+lichen Beförderungsmittel, 331. Preyer, W., 92. Pristley, 5.
+
+Projection, Sprachgebrauch, 29. 32; empiristische und nativisti sche Theorie 31; als Beziehung, 32.
+
+Organprojection, Begriff, 27; Be-
+
+Proportionalität, 220.
+
+theiligung am Unbewussten, 151. Organismussein, 230. 322.
+
+Proportionslehre des menschlichen Körpers, 211 ff .; ihre namhafte sten Bearbeiter, 213. Proportionsmesser, 238.
+
+P.
+
+Protagoras, 3. S. Paarschluss, 184. Palleske, E. , 218.
+
+Psychologie, Verhältniss zur Physiologie, 5.
+
+Paracelsus, 5. Parallelogramm der Kräfte, 66.
+
+Q.
+
+Pascal, 20. Pauly'scher Brückenträger, 116. Pendel, 64. Pentagramm, 257. Perls, M., 136. 312.
+
+Quinet, 10.
+
+Perrot, F., 136. Persönlichkeitsbegrill, 6. Peschel, 0. , 10.
+
+Realer Idealismus, 12. Receptor, 194. Rechenmaschine, primitive, 250. Rede und Rechenschaft, 300.
+
+Philosophie des Unbewussten, 187;
+
+Quirlgetriebe, 130. R.
+
+als Inauguration einer neuen
+
+Reductionszirkel, 238.
+
+Weltanschauung, 157; Ueber-
+
+Reflexbewegungen ,politische,336.
+
+Reibholzfeuerzeug, erste Anfänge der Maschine, 180. Reich, Eduard, 151.
+
+Res publica, 309. Reuleaux, Fr. , 166 ff. 342.
+
+Revolutionen, Fieberprocesse, 328. Richards, J., 303 ff. Riesenteleskop, so. Rokitansky, 17. 30. Rosenkranz, K., 30. 118. Roth, 124. S.
+
+Samt, P., Princip des empirischen Actualismus, 124. Schaeffle, Albert, 319. Schallwellenbrandung, 283. Schattensäulen als Zeitmesser, 75. Scheermesser und Scheere, 51. Scherer, Wilh. , 301. Schiefe Ebene, 67. Schlauch, 50. Schleicher, Aug., 46.
+
+Sich befassen mit einem Gegen stande, 62. Sichel und Mähmaschine, 56. Siegwart, K., 37.
+
+Si liba, Leib und Leben, 2. Skeletbewegungen, 65. Sokrates, 3. 8.
+
+Spiegelapparate, 149. Spiller, Philipp, 145. Spinnrad, 181. Spongiosa, die Entdecker ihrer Architektur,
+
+108;
+
+Geschichte der Entdeckung, 109 ff. Sprache, ihr eigenes Werkzeug, Sprach 280; Product d. Masseninstincts, 281; Instrument des Denkens, 284.
+
+Sprache und Technik in gegen seitiger Durchdringung, 308. Sprachgeist, 280. Sprachorgane,ihreVerkettung,258. · Sprachorganismus, 308. Sprechmaschine, 297.
+
+Schliessungsweisen, 193.
+
+Staatsidee, 315. 320. 322.
+
+Schnur- und Riemenbetrieb, 181. Schreibgeberde, 283. Schriftcharaktere, 294. Schriftsprache, 280. Schriftsysteme, 295.
+
+Staat, die Totalprojection der Menschennatur, 309. 324; als Schriftthum, Geschichte des, 291. Schultzenstein, 29. Schweigger, 147. Scientific American, 303. Seelenzustände erklärt durch Sprachformen der Technik, 146.
+
+Seele und Geist, 162.
+
+Organisation der Arbeit, 311; sein Recht auf organische Ein ordnung aller Arbeit der Gesellschaft, 329 ff.
+
+Steinhammer, 43. Steinheil, 147. Steinmesser, 44. Stände, 318.
+
+Steinperiode, 44. 58. Steinsäge, 44.
+
+Seilerei, 181.
+
+Steinthal, 51.
+
+Selbst, sein Begriff, 2. Selbstauffassung, 2.
+
+Stephenson, 134. 136. Stethoskop, 84.
+
+Selbstbewusstsein, 22.
+
+Stimmorgane und ihre Benennung
+
+Selbstproduction, absolute, 29. 50. 219.
+
+von musikalischen Instrumenten, 93. 97.
+
+[p. 360] Namen- und Sachregister.
+
+Stumpf, C., 31.
+
+Vorgeschichte, Urgeschichte, Ge
+
+Synthese der Maschine, 201 ff.
+
+schichte, 34. W.
+
+T.
+
+Waffen, primitive, 56. 181. Wahlen, directe, 319.
+
+Taubstummensprache, 297. Telegraphenschrift, 290. Telegraphen -u.Nervensystem, 143.
+
+Watt, James, 127. 134. 136.
+
+Telegraphik, universelle, 153.
+
+Wehrverfassung, organisches Vor
+
+Telegraphische Depesche, 292. Thierpsychologie und Selbstbewusstsein, 22.
+
+Tonwerkzeuge als Werkzeuge, 89. Transmission, 195.
+
+bild staatlicher Arbeitsleistun gen, 335.
+
+Weltpost, 332. Werkzeuge, primitive, 41; nie als Fetisch verehrt, 104; Unterschied
+
+Tuzzi, 262.
+
+zwischen Viensch und Thier, 25;
+
+Tyndall, John, 149.
+
+äusserer Zweck und innere Con
+
+U.
+
+ception ihrer Herstellung, 26.
+
+Ueberweg, 31. Uhren und deren Vervollkomm
+
+Werkzeugentstehung und Sprach wurzeln, 48. 51. 52. 56. Whitney, 13+. Wittstein, Th. , 213. 215. 254. 267.
+
+nung, 75.
+
+Unbewusste, das, 22. 155 ff.; beim Maschinenbau, 186.
+
+Umgestaltung d. primitiven Werk zeuge, 53.
+
+Wolff, Julius, 109. Wundt, W., 32. 91. 115. 162. 210. 284 ff.
+
+Wuttke, H., 291.
+
+Universallautsprache, 296. Universalschrift, 296. Universitas literarum, 308. Urmensch, physische Beschaffen z.
+
+Ursprüngliche Anlage, 38.
+
+Zahl, fünf, zehn, zwölf, 249 fl.; gebundene und ungebundene, 247. Zählen an den Fingern, 69.
+
+Urschraube und Urschraubenmut
+
+Zählversuche, erste, 249.
+
+heit, 35; erste Bewaffnung, 36.
+
+Zange, 41. Zeichensprache, kinematische, 190.
+
+ter, 182.
+
+Zeising, Adolph, 210 18.
+
+V.
+
+Vergrösserungsgläser, 79. Violine, Muster eines vollkomm
+
+Zeitmaasse, 68. Ziegler, Franz, 322.
+
+Zöllner, J. C. Fr., 157.
+
+nen Instrumentes, 261. Virchow, 110 ff. 163. 173.
+
+Zöllner, Julius, 78.
+
+Vocalbildung, 285.
+
+Zunge, 277. 288. 294.
+
+UTSC
+
+BIBITOTHEK
+
+NC MU
+
+HES
+
+Zoon politikon, 312.
+
+!

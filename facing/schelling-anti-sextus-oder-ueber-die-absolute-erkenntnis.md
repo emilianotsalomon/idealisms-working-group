@@ -1,0 +1,977 @@
+---
+title: Anti-Sextus, oder über die absolute Erkenntnis
+author: Friedrich Wilhelm Joseph Schelling
+year: 1807
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: the 1807 edition; converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: the PDF text layer of a scan, not corrected against the scan; non-word rate 0.9% (wordfreq, the edition's own spellings kept); paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority
+translation: none
+canonical: "[p. N] marks where printed page N begins (the 1807 edition); read from the PDF folios where legible, the others by sequence"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: The Anti-Sextus, oder über die absolute Erkenntnis was written by an author who died in 1854, so before 1931; Friedrich Wilhelm Joseph Schelling (d. 1854) is long out of protection and the edition (1807, from the title page of the scan) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 5979)
+---
+
+# F. W. J. Schelling, *Anti-Sextus, oder über die absolute Erkenntnis* (1807)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+ANTI - SEXTUS, ODER
+
+ÜBER DIE ABSOLUTE ERKENNTNISS
+
+Friedrich Wilh. Jos, vou VON SCHELLING.
+
+Valentin;
+
+Was dir, Vernunft, genügt in einem Augenblicke, Wird gut auch nach Aconen seyn,
+
+BLIOT
+
+BOUTERWEK,
+
+SI
+
+C
+
+B
+
+N ER
+
+E
+
+HE
+
+SN
+
+HEIDELBERG, 1807. VERLEGT DURCH DIE PFAHLERISCHE BUCHHANDLUNG,
+
+## VORERINNERUNG.
+
+Vor nicht langer Zeit kam uns Bergs; Professors der Kirchengeschichte zu Würzburg, Streitschrift: „Sextus oder über die absolute
+
+Erkenntniſs von Schelling " , zu Gesicht. Unwille ergriff uns über die Behandlung, die hier Schelling nicht nur, sondern gewissermassen auch denen, die die Lehre dieses Philosophen kennen und schätzen, widerfährt. Bis jetzt schwieg man über diese Behandlung so gänzlich stille, als wäre jenem Manne und seiner Lehre, so wie den Freunden der [p. 4] letztern recht geschehen; allein wir sind nicht gesonnen, länger zu schweigen, und wir legen das Resultat unsrer Prüfung der Bergischen Streitschrift dem unpartheiischen Publikum in diesen Bogen vor.
+
+Wir sagen: Das Resultat unserer Prüfung:
+
+denn eine Widerlegung jener polemischen Schrift zu verfassen, fiel uns um so weniger ein, als diese sich selbst positiv widerlegt. Auch keine Vertheidigung der Lehre Schellings wollten wir schreiben: denn diese muſs in und durch sich selbst, d. i. in der Vernunft des Menschen sich vertheidigen.
+
+Auch wollten wir nicht beweisen, es gebe ein Absolutes (denn daran zweifelt Berg - zu seiner Rechtfertigung sey es gesagt - gar nicht; aber er sucht es aufser dem Universum, und will auf der Causalitätsleiter zu demselben.
+
+emporsteigen). Darthun wollten wir vielmehr [p. 5] das Absolute müsse der Ercheinungswelt immanent seyn; die Mifsgriffe aufdecken, welche Berg sich zu Schulden kommen läfst; zeigen daſs dieser gar nicht befugt war, über Schelling sein Richtscheit fallen zu lassen. Hiemit wäre der Endzweck dieser Bogen deutlich angegeben. Daſs, genau angesehen, unsere
+
+Gegenschrift nichts enthalte, als was jener Absicht entspricht, wird jedem, wie wir hoffen, von selbst einleuchten, wenn wir gleich gestehen müssen, daſs wir weitläuftiger geworden sind, als es anfänglich unser Plan mit sich brachte.
+
+Wir haben mehr als einmal Reflexion durch Reflexion zurückgewiesen. Aber man bedenke, mit wem wir es zu thuu haben. Mit einem Manne, dem rein formales Denken Alles in Allem, das non plus ultra alles Philo. sophirens ist, liefs sich kaum anders sprechen. [p. 6] Bei einem andern Gegner würden wir gewiſs anders zu Werke gegangen seyn. Wir konnten nicht umhin, den Gegensatz zwischen Denken und Seyn fest ins Auge zu fassen, und beständig auf ihn zurück zu kommen.
+
+Warum? Dieses wird aus dem
+
+Sextus überhaupt nicht nur, sondern insbesondere auch daraus klar, daſs Berg die Materie eine reelle Opposition Gottes
+
+Negation des Absoluten also eine nennt, Aber eben deſswegen haben wir auch mit guten Vorbedachte die sämmtlichen Ansichten, welche der Reflexion vom Universum möglic sind, zwar kurz, aber doch umfassend vorau geschickt.
+
+Wenn Berg die Lehre Schellings auf eine gar nicht verdeckte Weise, Wahnsinn nennt, (der übrigen Invektive nicht zu gedenkeu) ſo erwäge er, daſs er dadurch nicht blos [p. 7] diesen, sondern jeden sonst ruhigen Denker, beleidigen musste, weleher in derselben Wahrheit und Beruhigung findet. Sind wir uns daher nicht so gleich geblieben, als wir uns in der That vorgenommen hatten; so mag es Berg geduldig auf seine Rechnung hinnehmen.
+
+Noch finden wir aber nicht sowohl unserer Leser, als vielmehr unseres Gegners willen nöthig, folgende Bemerkung anzufügen. Wenn wir sagen: Es gibt (ist) ein Absolutes u. s. w. , so erkennen wir gar wohl \ den Widerspruch, der für das reflectirte Denken darin ligt; ob aber auch die Vernunft einen darin finde, ist eine ganz andere Frage. L
+
+Dieses gilt noch von vielen andern, dem Anscheine nach, widersprechenden Bestimmungen, die aber keineswegs der Vernunft, sondern [p. 8] nur unserer Sprache zugeschrieben werden dürfen.
+
+Endlich ersuchen wir unsere Leser aufs geziemendste, ruhig bis zum Schlusse fortzulesen und Bergs Sextus dabei nicht aus den Augen zu verlieren. Der
+
+Im Jänner 1807. Verfasser.
+
+I.
+
+Den Gesetzen des Reflexes zu Folge zerfällt das Universum in zwei Sphären, welche man Denken und Seyn nennt. Alles, was ist, schliefst der Verstand in die Grenzen der Körper- und Geisterwelt ein, und zwar so, daſs beide keinen gemeinschaftlichen Berührungspunkt haben sollen. II.
+
+Der Gegensatz zwischen Körperlichkeit und Geistigkeit, Subjectivität und Objectivität, Materialität und Idealität, wird aber absolut, wenn in dem, was dem Verstande ausschliefslich Körper heifst, nichts enthalten seyn soll, von dem, was sonst Geist genannt wird, und umgekehrt. III.
+
+-Fragt man: Können absolut Entgegengesetzte miteinander in Wechselwirkung stehen? so muſs die Antwort folgende seyn: a) Zwischen absolut Entgegengesetzten hört nothwendig alle Wechselwirkung auf:
+
+[p. 10] denn beide Sphären sollen ja einander fremd, es soll in keiner etwas von dem enthalten seyn, was in der andern enthalten ist. Steht A unter dem Charakter der Absolutheit B, unter demselben Charakter gedacht, entgegen, so sind sie zwei geschlossene Welten, deren keine mit der andern etwas gemein hat. b) Zwei Absolute heben einander auf: denn es wäre eines durch das andere beschränkt. Absolut und doch beschränkt seyn, ist ein Widerspruch, der sich unter keiner Bedingung denken läfst. IV.
+
+Die gemeine Empirie kann die Frage: wie ist die Synthesis alsolut Entgegengeſetzter möglich, nicht anders, als so, beantworten: Sie muſs möglich seyn, weil sie wirklich ist. Hier wird die Synthesis als unerklärbar vorausgesetzt, und folglich ist die Analysis das höchste Geschäfte des gemeinen Empirikers. Allein er verfällt nothwendig in absoluten Dualismus: denn der Widerspruch, welcher sich über die Grundsphären verbreitet, erstreckt sich auf alle und jede un Geht die gemeitergeordneten Synthesen.
+
+ne Empirie über die gegebene Synthesis und deren Analysis hinaus, so verlässt sie die ihr eigene Region und wird in gewisser Hinsicht [p. 11] transcendent:
+
+dann heifst sie aber nicht mehr gemeine, sondern erklärende Empirie, wiewohl durch ihr Verfahren der Widerspruch keineswegs vertilgt wird. Wir werden hierüber die nöthigen Erläuterungen sogleich mittheilen. V.
+
+Setzt man die Synthesis als erklärbar; so läfst man entweder die Objectivität aus der Subjectivität oder umgekehrt, entweder nach dem Grundsatze der Causalität oder der Substanzialität hervorgehen.
+
+Auf diese Weise entsteht entweder ein gemeiner Idealismus oder Realismus, (wir würden lieber mit andern sagen Idealistik oder Realistik). Also die gegebene Synthesis wird hergeleitet entweder a) aus reiner isolirt gesetzter Subjectivität, (b) oder aus reiner isolirt gesetzter Objectivität, c) oder endlich aus beiden zugleich, jedoch in diesem Falle so, daſs zwischen beiden keine wechselseitige, sondern nur einseitige Bestimmung Statt haben soll.
+
+Hier wird entweder das
+
+Subjective oder Objective als Substanz angefehen. Ist das Subjective absolute Sub [p. 12] stanz, so ist das Objective absolutes Accidens und umgekehrt. Zwischen beiden findet also ein verschiedener Rang Statt. Die Glieder der Synthesis sind unter dem Character der Absolutheit einander zwar coordinirt, aber zugleich auch subordinirt. Das Eine wird als das absolut Bestimmende, das Andere, als das absolut Bestimmt- werdende angesehen. Eines von beiden wird unter dem Character des absoluten
+
+Todes gedacht. * ) Zu der letztern Classe der erklärenden Empiriker scheint Berg zu gehören, welches daraus erhellt, daſs er den Kôrperstoff der Welt, als ewig aufser Gott vorhanden, annimmt und die Materie eine reelle Opposition Gottes nennt.
+
+VI.
+
+Diese scheinbar verschiedenen Ansichten des Universums müssen etwas näher beC leuchtet werden.
+
+a) Der empirische Idealist setzt ursprünglich reine Subjectivität, als den Entstehungs- und Erklärungsgrund der gegebenen Synthesis. Hier gilt das Gesetz der Causalität. Das rein Subjective ist ihm die absolute Ursache aller gegebenen Subjectivität und Objectivität.
+
+Soll etwas aus einem andern hervorgehen; so muſs es in demselben enthalten seyn, Da nun das rein Subjective, [p. 13] als das Erste und Ursprüngliche (der Zeit nach) gesetzt wird, so fragt sich, wie aus einem rein Subjectiven ein Objectives hervorgehen könne? b) Der empirische Realist setzt ursprünglich reine Objectivität, als den Entste hungs- und Erklärungsgrund der gegebenen
+
+Synthesis Auch hier fragt sich wieder, wie aus einem rein Objectiven ein Subjectives hervorgehen könne? c) Der gemischte Idealismus setzt ursprünglich nicht reine Subjectivität, als absoluten Entstehungs- und Erklärungsgrund der gegebenen Synthesis; sondern Subjectivität und Objectivität zugleich von Ewigkeit her coёхіstirend.
+
+Das Materielle steht hier dem Substantiellen (Geistigen) als ein absolut Todtes entgegen. Würde es nicht durch die absolute Substanz bestimmt, so läge es in einem ewigen Todtesschlafe. d) Der gemischte Realismus setzt ursprünglich nicht reine Objectivität, als den Entstehungs- und Erklärungsgrund der gegebenen Synthesis; sondern Objectivität und Subjectivität zugleich von Ewigkeit her coexistirend, jedoch so, daſs das Objective, als das absolut Bestimmende, das Subjective aber als das absolut Bestimmtwerdende gilt.
+
+[p. 14] In Hinsicht auf die zwei letztern Ansichten des Universums ist zu bemerken, daſs zwei
+
+Absoluta gesetzt werden, welche zwar nicht der Zeit, sondern nur dem Range nach verschieden sind.
+
+Wir sehen über diesen Grundwiderspruch hinweg, und erinnern noch überdies soviel, daſs das, was absolut todt ist, todt bleibt und durch nichts zum Leben erweckt werden kann. VII.
+
+Ausser den so eben aufgestellten (empirischen)Ansichtendes Universums, giebt es keine. Die groſse Frage: Wie ist die gegebene Synthesis möglich wird durch keine derselben gelöst und alle bieten dem Skepticismus Blössen.
+
+ww
+
+Ist eine höhere Ansicht unmöglich;
+
+so thut man wohl, wenn man auf Philosophie Verzicht leistet. Dann ist alles nur Meinung, *) und unser Leben weiter nichts als ingens fabula et longum mendacium. * Socrates, Democritus, Anaxagoras, Empedocles, omnes prope veteres, nihil cognosci, nihil percipe, nihil sciri posse dixerunt; angustos sensus, imbecillos animos, brevia vitae curricula, et ut Democritus, in profundo veritatem esse demersam; opinionibus et institutis omnia teneri, rihil veritati relinqui, deinceps omnia tenebris circumfusa esse dixerunt.
+
+Cic. acad. quaest.
+
+[p. 15] Und doch hängt die Ruhe und die ganze Würde der Menschheit von der Lösung des Problems ab: Giebt es absolute Wahrheit und liegt sie innerhalb der Sphäre unsers Erkennens? Oder sind wir zu einem ewigen Herumtappen verurtheilt- dazu verurtheilt, im Widerspruche mit uns selbst, eine Zeit lang zu végetiren Ein Versuch, jene Fragen auf eine die Vernunft befriedigende Art zu beantworten, verdient Achtung auch dann, wenn er nicht gelingt.
+
+Aber Schelling gelang er.
+
+Zwar fand er jene Idee, durch welche wir mit uns selbst und dem sich widersprechenden
+
+Universum ausgesöhnt werden, nicht eigentlich: denn sie ist wirklich in jedem Menschen da; aber er zog sie, ihrem wahren Gehalte nach, wieder hervor und, gleich einem Lichtstrahl aus einer bessern Welt, fällt sie in unsern Geist herüber.
+
+In den Zeiten der Vorwelt wohnte sie auch rein und ungetrübt in jenen vorzüglichern Genien, die, frei von den Banden des Sinnenlebens, in sich selbst ein wahrhaft freies Leben lebten und sich selbst
+
+Bürgen ihres ewigen Seyns wurden. Berg, Professor der Kirchengeschichte zu Würzburg, hat es nun gewagt, die Idee des Absoluten das absolute, in keinem Widerspruche [p. 16] befangene Erkennen (Denken), wie Schelling es aufstellt, für eine Chimäre zu erklären.
+
+Wie und mit welchem Rechte er das gethan habe, darüber werden die folgendsn Blätter Auskunft geben. Für's Erste haben wir uns über jene Idee zu äussern.
+
+§.
+
+Der Charakter der Idee des Absoluten kann nicht positiv angegeben werden; alle Beschreibungen (Definitionen) desselben können nur eine negative Bedeutung haben.
+
+Jedes
+
+Wort in unserer Sprache bezeichnet einen Begriff, also entweder ein Subjectives oder Objectives; allein gerade dieser Gegensatz soll in jener Idee aufgehoben werden.
+
+Wollte man also das Absolute an einem Begriffe nachweisen, so hieſse dás, es zu etwas Subjectiven oder Objectiven machen. Wenn daher einige Sätze in Bezug auf das, was absolut ist, aufgestellt werden; so haben sie einen nur negativen Werth.
+
+a) Das Absolute kann nur Einheit, seyn. Wir bestimmen dieses dahin: Alle Differenzen müssen von ihm negirt werden. Würde in das Absolute eine Differenz gesetzt; so hörte es auf, wesentlich zu seyn, und würde zu einem bleſsen Gedankendinge (noumen [p. 18] b) Das Absolute kann also kein Gattungsbegriff seyn. Begriff und Begriffenes (Allgemeines und Besonderes) ist vielmehr in ihm Eins. Diese Einheit wäre somit keine formale, sondern eine reale.
+
+c) Das Absolute ist also Totalität. Es darf nichts geben, das ihm an sich entgegen. gesetzt wäre, d) Das Absolute müsste also der Erscheinungswelt immanent seyn, d. i. ihre Realität beruhte auf dem ihr immanenten Absoluten. Denken und Seyn wären also Erschei nungsweisen desselben. e) Das Absolute kann, seinem Wesen nach, nicht anders, als ideal, in seiner Idealität aber muſs es zugleich als real bestimmt werden.
+
+Hieraus würde nothwendig folgen, daſs alles Seyn ein Seyn in den Ideen, und daher der Gegensatz des Idealen und Realen im absoluten Erkennen aufgehoben sey. §.
+
+2.
+
+Wirklich ist es uns unmöglich, eine Realität zu denken, welche nicht als ideal bestimmt werden müsste. Die Erscheinungswelt als real und aufser dieser das Absolute als real, folglich zwei einander widersprechende Realisäten, ſetzen, oder, was dasselbe ist, das Abtolute objectiviren, ist ein Widerspruch, den [p. 19] die Vernunft unter keiner Bedingung verträgt. Die Verirrung, welche der Verstand durch ein solches
+
+Verfahren zu Schulden kommen läfst, liegt offenbar darin: die Idee des Absoluten ist in jedem Menschen da; dieses ist unläugbar; aber der Verstand, als bloſses Begriffsvermögen, faſst sie auf eine wider.
+
+sprechende Art auf. Da er nämlich jene Idee, die das Wesen der Vernunft constituirt und die er selbst nicht entbehren kann, in sich, als schon gegeben, vorfindet; so bringt er sie, vermöge seiner Natur, mit sich selbst und der von ihm sogenannten realen Welt in Gegensatz, d. h. er objectivirt das Absolute und behauptet, daſs es Allem, was er real nennt, fremd sey. §. 3.
+
+Wird ein so ungeheurer Widerspruch zum Princip einer vorgeblichen Philosophie gemacht; so ist klar, daſs alles Wissen, dessen man sich rühmen möchte, nichts sey.
+
+Das
+
+Universum ist absolut entzweiet und alle Harmonie, die man postulirt, ist ebenfalls nichts. Was helfen alle Postulate, wenn man mit absoluter Evidenz einsieht, daſs das, was man postulirt, auf dem Standpunkte, den man gewählt hat, als eine widersprechende Realität erscheine, also nichts sey und dafs man
+
+[p. 20] Unsinn postulire? Das Universum so bestimmen, heifst es vernichten, und es wird warlich aus seiner Vernichtuug nicht dadurch zur Realität hervorgerufen, wenn man postulirt, daſs man den Widerspruch als nichts ansehen soil.
+
+5. 4.
+
+Eine solche Philosophie ist weiter nichts als Empirie: denn sie kommt nie über die widersprechenden Erscheinungen hinaus. Das an sich Wahre (Absolute) bleibt ihr ewig unzugänglich. Wir kennen hierüber die Resultate von Kants Kritik und Fichte's Wissenschaftslehre.- Kann aber gleich der Verstand, der nichts weiter, als ein Auffassungsvermö gen des Gegebenen ist, als solches, das an sich Wahre nicht erkentien; folgt denn daraus, daſs es sonst auf keinem andern Wege zu finden sey? Ist denn deswegen, weil er, unser Verstand, mithin ein blos passives
+
+Vermögen, den absoluten Gegensatz, der in der höchsten Synthesis, seiner Ansicht zu Folge, liegt und liegen muſs, aufzulieben nicht fähig ist, das an sich Reale, das Eine, in welchem das absolut entzweite Universum harmonisch wird, (der Reflexionsphilosophie zu Folge harmonisch seyn soll,) auch für die Vernunft, als Productionsvermögen (denn daſs sie wirklich ein actives Vermögen sey, ist schon längst anerkannt) unerreichbar? Wenn Schelling dieses Eine, an welchem uns so viel gelegen ist, suchte und, wie wir überzeugt sind, nicht vergeblich suchte, und es uns mit einem Aufwande von Geisteskräften, der zur Bewunderung hinreiſst, näher bringen will; so fragen wir; Was wollen denn unsere Reflexions- und Ergründungsphilosophen, die sich in einem ewigen Widerspruch hertumdrehen, wenn sie das Identitätssystem verketzern und verlästern? §.
+
+5.
+
+Das Erkennen jenes Einen und Absoluten (durch keinen Gegensatz Bedingten,) folglich in und durch sich selbst Wahren, kann, wie es sich von selbst versteht, nicht auf dem gewöhnlichen Wege, dem des Gegebenseyns (denn es soll in eben das, was gegeben ist, nämlich jene widersprechende Synthesis, harmonisch werden) vor sich gehen.
+
+So lange man bei den blosen Erscheinungen (der Form, unter welcher die Dinge sich darstellen,) stehen bleibt; so lange kann auch über das, was wesentlich an ihnen ist, nichts ausgemacht werden. Aber gerade von diesem, dem We. sentlichen, allen Dingen Gemeinschaftlichen, behaupten wir, daſs es weder erscheine, noch [p. 22] erscheinen könne, ſondern unter entgegenge. setzten Formen, oder dein Character der Duplicität hervortreten müsse.
+
+Diese Formen sind eben, nach unserer Behauptung, Denken und Seyn. Ob diese unsere Behauptung richtig sey, desgleichen, ob es nicht mehr als gerade diese zwei Formen geben, unter wele chen das Absolute objectiv werden, oder für die Erscheinung hervortreten kann, das wird sich späterhin noch besonders, überhaupt aber aus unserer ganzen Darstellung ergeben. §.
+
+6.
+
+Die Differenzen in der Erscheinung, welche nach uns nur Bilder jenes Einen und Identischen sind, können als solche nicht qualitativ d. i. wesentlich, sondern nur quantitativ, d. i, formal seyn. Absolute (qualitative) Differenzen kann es im Universum nicht geben. Wir könnten dieses auch so ausdrücken:
+
+Es giebt weder reine Subjectivität, noch reine Objectivität; sondern in der Subjecti vität ist zugleich Objectivität und umgekehrt. Wir dürfen wohl nicht erinnern: daſs diese Bestimmungen einzig und allein nur für die Erscheinung gelten, das, was nicht erscheint, das An-sich des Universums, ist weder Subjectivität noch Objectivität; sondern das, was unter der Form eines Subjectiven [p. 23] und Objectiven für die Erscheinung hervor. tritt.
+
+Denken und Gedachtes sind also, der
+
+Form nach undabstrahirtvom Wesen, nichts; sondern nur real in so ferne, als Ein Wesen in ihnen sich ausdrückt. Man sieht schon daraus, welche Blindheit es verrathe, wenn man sagt, das Identitätssystem sehe die Dinge für an sich nichts an oder hebe die Realität der Erscheinungswelt auf. Nicht diese, sondern der Widerspruch, den die Reflexion darein setzt, wird aufgehoben; die widersprechende Form, die etwas für sich seyn will, wird vernichtet; aber keineswegs das, was wahrhaft real an den Dingen ist. §.7.
+
+Soll das, dem Verstande zufolge, mit sich selbst im Widerspruche stehende Universum vernünftig gedacht werden können; so mufs angenommen werden, daſs alles, was erscheint, entweder Subject - Object, oder Object-Subject sey. Diesem Satze gemäſs gehört der menschliche Geist mit zur Erscheinungswelt, d. h. er ist eine Synthesis, mithin nicht das, als was er erscheint, reine Subjectivität.
+
+Aber eben so wenig ist das, was man sonst todte Materie nennt, bloſse Objectivität. Die Differenz für die Erscheinung beruht lediglich darauf, daſs in dem, was man sonst reine
+
+[p. 24] Subjectivität nennt, der negative Factor für die Wahrnehmung gänzlich zurücktritt.
+
+Im entgegengesetzten Falle verschwindet der positive Factor, Folgendes wird das Gesagte einleuchtender machen.
+
+Das Absolute, als A = A, demnach als rein identische Thätigkeit gedacht, kann nur erscheinen unter der Form entgegengesetzter Thätigkeiten.
+
+Als AA kann es für die Erscheinung nicht hervortreten. So Wir genommen ist es die tiefste Ruhe. sagen: Unter der Form, entgegengesetzter Thätigkeiten: denn beide Thätigkeiten sind ja nicht realiter einander entgegengesetzt. Ihr Reales ist vielmehr das Absolute und Identische selbst.
+
+Will man, wie wir bereits thaten, die eine von jenen Thätigkeiten die positive, die andere die negative, oder weil die positive zu einer unendlichen. Expansion, die negative zu einer unendlichen Contraction strebt, die eine die expandirende, die andere die contrahirende oder limitirende nennen; SO kämen wir dadurch der wahren Ansicht um so näher.
+
+Man nenne sie aber, wie man will; uns ist dieses gleichgültig: denn nicht auf das Wort, sondern auf die Sache kommt es uns an Vielleicht sähe man es lieber, wenn wir sagten, es gebe eine subjective und ob [p. 25] jective, eine freie und eine gebundene, oder eine geistige und materielle Thätigkeit, §.
+
+8.
+
+Abstrahirt von jenen in der Form einander entgegengesetzten Thätigkeiten ist Alles
+
+Einheit (reine Intelligenz *) ) . Zur Anschauung dieser Einheit, deren Realität uns bis jetzt noch problematiseh seyn mag, könnte ein absolutes Apperceptionsvermögen deswegen gefordert werden, weil sie als Erscheinung nicht gegeben werden kann. Was erscheint ist immer ein Subjectives oder Objectives, nach unserer Ansicht ein gewisses
+
+Quantum von positiver und negativer Thätigkeit.
+
+In allen Erscheinungen sind jene Thätigkeiten durch einander beschränkt, so daſs keine von ihrer Schranke völlig frei wird, weil sonst nichts erscheinen könnte.
+
+Wird aber, wie gefordert werden darf, von der Form der Subject - Objectivität abstrahirt; so führt uns dieses auf den Satz: Die Allheit ist Einheit und die Einheit Allheit. Oder: Die allen Dingen zukommende Realität ist Einheit.
+
+Oder: Das Wesen aller Dinge ist Eins, *) Je tiefer man in die Natur eindringt, je mehr reduoirt sich alles auf geistige Kräfte.
+
+[p. 26] Keine Synthesis ist denkbar ohne Thesis ✓und Antithesis. Ohne diese Triplicität der Formen ist die Erscheinungswelt überhaupt nicht möglich.
+
+Bei dem einzelnen Producte kommt es nur darauf an, ob in demselben mehr das Thetische, oder Antithetische, oder Synthetische zum Vorschein kommt. Aber jene Triplicität gilt, wie gesagt, nur für die Erscheinung; für die absolute Apperception ist die Synthesis jene Thesis selbst. Es bliebe daher nur eine thetische und antithetische Thätigkeit übrig. Da aber jenes Antithetische nur für die Form gelten kann, unter welcher das Absolute (das Thetische, als rein Identisches) objectiv wird (sich selbst reflectirt) ; so ist klar, daſs für die Vernunft die Antithesis nichts gilt und daſs es ausser dem Absoluten, dessen Bilder und Abdrücke die Erscheinungen sind, nichts geben könne. §.
+
+10.
+
+Sobald daher von dem An - sich der Erscheinungen die Rede ist; so hört Antithetisches und Synthetisches auf, etwas zu bedeuten; nur die Thesis (das Absolute und rein
+
+Identische) bleibt übrig. Darum behaupteten wir:
+
+[p. 27] 1) alle Differenz müsse von dem Absolue ten negirt werden;
+
+2) das Absolute sey kein Gattungsbegriff, oder, Form und Wesen seyen einander nicht entgegengesetzt; sondern absolut angeschaut, Eins;
+
+3) das Absolute sey Totalität; 4) das Absolute sey der Erscheinungswelt immanent;
+
+5) das Absolute sey seinem Wesen nach ideal. Die Realität, welche der Verstand aufstellt, sey nichts, ad 1) Die Differenz der Formen in der Erscheinungswelt wird keineswegs geleugnet, und das Interesse der Philosophie bringt es mit sich, auf die Form Rücksicht zu nehmen.
+
+Die Erfahrung hat, in diesem Sinne, für uns einen groſsen Werth, und würden Schellings Constructionen nicht durch die Erfahrung bestätigt, so würden sie wenig zu achten seyn. Nur ist die Erfahrung kein kaltes, todtes Formengebäude mehr, sondern Geist und Leben.
+
+ad 2) Man hat Schelling den Vorwurf gemacht, er habe durch seine absolute Einheit weiter nichts gethan, als das Höchste und Allgemeinste der Erfahrung ausgesprochen. Allein dieses ist offenbar falsch. Er construirt [p. 28] vielmehr die Erfahrung, d. i, er zeigt, wie sie möglich sey, und zwar so, daſs Möglichkeit und Wirklichkeit absolut Eins wer!
+
+den: denn was absolut (an sich) möglich ist, das ist auch wirklich. Die Idee, nach welcher er construirt, ist ihm keineswegs in dem gewöhnlichen Sinne, sondern nur in so ferne gegeben, als sie das Product der Freithätigkeit seines, so wie des Geistes eines jeden
+
+Menschen ist, der sich auf diesen Standpunkt erheben kann oder will. Schon der Umstand, daſs die Idee des Absoluten auf dem gewöhnlichen Wege des Gegebenseyns nicht gefunden werden kann, aber doch in unserm Bewustseyn, das ohne dieselbe gar keinen Vereinigungspunkt hätte, vorkommt, ist der Beweis, daſs die Vernunft sich über die Region der Erscheinungen erheben könne. Wir sind daher weit entfernt, sie für ein blofses Räsonnirvermögen anzusehen; sondern ihr Character ist Selbstthätigkeit und ihr ganzes Streben gehet auf Einheit. Es wird hierauf in der Folge noch besondere Rücksicht genommen werden. Einiges möchte sich hier schon aufklären, wenn wir unsere Aufmerksamkeit auf das eigentliche Geschäft des Verstandes richten. Dem Verstande ist Zweiheit nur durch
+
+Dreiheit denkbar (Form der Schlüsse).
+
+Will [p. 29] er ein cinzelues Ding denken; so ordnet er es unter die zunächst liegende Gattung. Diese gilt ihm als ein Prius.
+
+Aber in der Gattung ist wieder Differenz, die in einer höhern Gattung vermittelt werden muſs u. s. w.
+
+Das
+
+Vermitteln geht so lange gut von statten, bis die höchsten und lezten Gegensätze, die eben Denken und Seyn sind, zum Vorschein kommen.
+
+Da nun hier der Faden des Anknüpfens abgerissen ist, was thut der Verstand? Er setzt, um Einheit zu schaffen, das Ding überhaupt; aber er täuscht sich nur selbst. Das Ding überhaupt, genau angesehen, ist nichts weiter, als jener Gegensatz selbst, nämlich der Inbegriff aller Subjectivitäten und Objectivitäten. Die Selbsttäuschung ahnend und den Widerspruch nicht ertragend, postulirt er absolute Einheit und setzt diese ausserhalb der Erscheinungswelt.
+
+Daher ist ihm das Absolute nothwendig ein ens extramundanum (ein Objectives) , das nie erkannt, sondern nur geglaubt werden kann.
+
+Kaum wird hier die Erinnerung nöthig seyn, daſs dieses ganze Verfahren des Verstandes bloſser Formalismus sey.
+
+Noch soviel: Wäre das Absolute ein
+
+Gattungsbegriff; so bedürfte es einer höhern
+
+Vermittelung, was aber weder seyn kann, noch soll.
+
+[p. 30] ad 3) Das Absolute ist Totalität, heiſst: Das Universum ist absoluter Organismus oder ein System, inwelchem Eins Alles und Alles Eins ist. ad 4) Setzt man das Absolute ausserhalb der Erscheinungswelt; so hört es, vermög der ihm gesetzten positiven Schranken, auf, absolut zu seyn.
+
+Die Idee des Absoluten weifst alle Beschränkung von sich ab. ad 5) Ideal und doch real seyn, ist nichts Widersprechendes. Der fixirte Begriff der Realität, welcher nur dem Verstande eigen ist, erzeugt den Irrthum. Für ihn ist nämlich nichts real, als was gegeben ist. Das Absolute kann nicht, gleich andern Erscheinungen, gegeben werden, folglich ist es nicht real, oder wenigstens lässt sich über seine Realität nichts entscheiden. Ist dieser Schluſs richtig? Die Erscheinungswelt ist real, das heiſst, etwas Wesentliches, und das Absolute ist auch real.
+
+das heiſst, etwas jenem entgegengesetztes Wesentliches, was heifst das wohl? 5.
+
+11.
+
+Aus dem Gesagten erhellt, daſs die Ansicht des rein logischen, also nur die Form der Dinge berücksichtigenden Verstandes von dem Universum unmöglich die wahre seyn könne. Ueber diese Form kommt er nie hinaus und darum stehen subjective und objective Natur [p. 31] für ihn ohne realen Indifferenzpunct da. In. dem er zwar die Urgegensätze zu vermitteln sucht; ist er doch genöthigt, immer bei dem Begriffe des Dings, welchen er auf das Abso Inte überträgt, stehen zu bleiben. Will sich der Verstand jenen Begriff aufklären; so muſs er ihn entweder als ein Subjectives oder Ob.
+
+jectives bestimmen, wie es denn der Begriff des Dings so mit sich bringt. Aber wir sagen: Der absolute Indifferenzpunct soll und kann kein Ding, d. i. weder ein Subjectives noch Objectives, seyn. Der Begriff der Dingheit kann und darf nicht auf das, durch welches die im Widerspruche stehende Dingheit vermittelt werden soll, übergetragen werden.
+
+Also gerade da, wo der Verstand seinen höchsten Schwung nimmt, fällt er in absolute Duplicität zurück, und zerschlägt somit sein künstliches Formengebäude selbst. Ihm gebührt keine Stimme im Gebiete der Philosophie. §.
+
+12.
+
+Man kann über das Universum, als Erscheinungswelt nicht philosophiren, wenn nicht in dasselbe der menschliche Geist, als ein integrirender Theil (ein Theilganzes) aufgenommen wird; auch lässt sich über die Ichheit nichts philosophiren, ohne daſs man die
+
+3호 objective Natur berücksichtige. Beide thachen das Totalganze oder ein Universum aus. Für den Verstand zerfällt das erscheinende Totalganze in zwei absolute Gegensätze ohne
+
+Indifferenzpunct; allein da keine Erscheinung möglich ist ohne Triplicität; so ist die Erscheinungswelt selbst ohne drei Grundformen nicht möglich. Diese sind unorganische, organische und intelligente Natur. Die indifferente Form ist die organische Natur. Die unorganische Natur stellt sich der Reflexion unter dem Character des absoluten Todes dar. Ihre Thätigkeitsäusserungen werden, als von aussen in sie gekommen, angesehen. Alle Veränderungen, die in derselben vorges hen, sollen die Folge fremder, auf sie ein wirkender Stoffe oder Kräfte seyn. Allein ist die sogenannte, unorganische Natur wirklich absolut todtes Seyn; ist sie keiner Vera änderung in und durch sich selbst, kei ner Thätigkeit ihrem innern Character nach fähig, so fragt sich, wie ist z. B. der magnetische, electrische, chemische Pro ceſs, wie Galvanismus, kurz die gemeinste
+
+Veränderung in der unorganischen Natur zu erklären?
+
+Die organische Natur ist für die Reflexion eine Synthesis des Lebens und des Todes, [p. 33] folglich stellt sie sich selbst unter einem Widerspruche dar.
+
+Hier sieht nämlich die Empirie die Thätigkeitsäusserungen der Materie, dieser nicht mehr als fremd, sondern derselben immanent und eigenthümlich an. Hier fragt sich wieder: Wie können absolut Entgegengesetzte zusammentreten und eine Syn thesis darstellen?
+
+In der intelligenten Welt erheben sich die Widersprüche z. B. in Freiheit und Naturnothwendigkeit u. f. aufs Neue, und stellen sich in einem so grellen und schneidenden Gegensatze dar, daſs alle Mühe, sie zu heben, vergeblich zu seyn scheint. Die gemeine, wie die erklärende Empirie, sie mag, wie erstere thut, die Synthesis nehmen, wie sie gegeben ist; oder etwas daran ändern, wie leztere verfährt, setzt Materie und Geist einander absolut entgegen und verfehlt so, selbst in der Erscheinung, den Indifferenzpunct, in welchem beide Eins werden. §.
+
+13.
+
+Absichtlich bleiben wir noch, jedoch nur auf eine kurze Weile, bei jenen drei Grundformen stehen.
+
+Die unorganische Natur ist, abgesehen vom Totalganzen, eine vollkommen in sich geschlossene Welt. In ihr ist auch, wenn gleich [p. 34] nicht der Form, doch dem Wesen nach, das nämliche, was in der organischen und intelligenten Natur ist: denn auch in ihr wird jenes Eine und Identische objectiv. Dem Auge der Vernunft stellt sich die unorganische Natur als eine Linie dar, welche aus zweien Gegensätzen und einem Indiffe.
+
+renzpuncte bestehet, also folgendermassen:
+
+B
+
+A und B bezeichnen jene Gegensätze. Das Licht erscheint hier als ein Subjeetives (als immateriell) Auch hat es keine Schwere. (Wenn wir sagten, das Licht erscheine als ein Subjectives, so verhält es sich doch ganz anders.
+
+Selbst das reinste erscheinende Licht z. B. im Prisma das weiſse, ist noch immer eine Synthesis. Es giebt schlechterdings kein ganz reines, ungetrübtes Licht. Wäre das, so gäbe es keinen Uebergang aus der unorganischen Natur in die organische. Wäre man im Stande, auf irgend einem Wege die Immaterialität des Lichtes darzuthun; so würde sich Schellings Philosophie nicht halten können). In der oben construirten Linie ist es bezeichnet als A (Subjectivität). Auf der andern Seite finden wir in der unorganischen Natur, wie sie noch immer heiſsen mag, ein Product, dem alle Thätigkeitsäusserung fremd zu seyn [p. 35] scheint, und dieses ist der Diamant.
+
+Er ist in obiger Linie bezeichnet als B (Objectivität).
+
+Die indifferente Form ist das Wasser, in so ferne in demselben keine Differenz bemerkbar ist.
+
+Es ist, abstrahirt von den Differenzen, in welche es sich ausstralt, zu be zeichnen A = A. ziren soll,
+
+Da es sich aber differenso muſs es als A = B und die ganze Linie folgendermaſsen bezeichnet werden:
+
+A- B
+
+Brenio
+
+A-B
+
+B erscheint als A, d. h. als reine Subjectivität, welche hier ist
+
+Licht.
+
+B erscheint als B, d. h. als reine Objectivität, = welche ist
+
+Diamant.
+
+Der Diamant ist als das im höchsten Grade erstarrte, das Licht als das zu einem höhern und schönern Daseyn erhobene Wasser anzusehen.
+
+Oder: Die Materie stellt sich im Wasser als ein Indifferentes, im Lichte als ein Ideelles (Subjectives) im Diamante als ein Reelles (Objectives) dar. §.
+
+14.
+
+Hieraus gehen folgende Sätze hervor:
+
+1) Die unorganische Natur ist, für sich betrachtet, eine völlig in sich beschlossene Welt. 3*
+
+[p. 36] 2) Dieses Ganze bestehet aus zweien Gegensätzen und einem Indifferenzpuncte oder sein Character ist Triplicität.
+
+3) Es giebt in demselben keine absolute, sondern nur relative Gegensätze Wo A ist, mufs zugleich B seyn und umgekehrt. Oder:
+
+Alles ist hier mit einem plus oder minus gesetzt.
+
+Abgeleitete Sätze:
+
+a) Jeder Körper muſs in Wasser übergehen können.
+
+b) Es giebt keinen absolut lichtlosen Körper. So wie das Licht von jedem Körper durchdrungen werden kann; so muſs auch das Licht jeden Körper durchdringen können.
+
+c) Es giebt kein Licht ohne Körperlichkeit. d) Die Verschiedenheit der Körper beruht auf dem Uebergewichte des positiven oder negativen Factors.
+
+e) Alle einfache Stoffe sind Erdichtungen ohne allen Gehalt. Dieses alles wird sich an einem andern Orte noch weiter bestätigen.
+
+In der organischen Natur entspricht dem Wasser das Blut, dem Lichte der Instinct, dem Diamant der Hirnschädel, dem härtesten
+
+Körper in der organischen Welt. In so ferne [p. 37] sich hier das Blut differenziren soll; so ist der Hirnschädel als die höchste Verhärtung des Blutes, der Instinct aber als die höchste Vergeistigung desselben anzusehen. §.15.
+
+Die drei Entwickelungsstufen, die wir in der unorganischen und organischen Natur wahrnehmen, reproduciren sich in der Sphäre der intelligenten; aber nur dem Grade, nicht dem Wesen nach, sind sie verschieden. Der Instinct potenzirt sich hier zur transcendentalen Einbildungskraft, welche das vorstellt, was in der unorganischen Natur das Wasser, in der organischen das Blut ist. Auf beiden Seiten liegen Verstand und Vernunft. Keines dieser Geistesvermögen ist ohne das andere; nur der Potenz nach sind sie von einander geschieden. Indem wir hier auf das Verdienst einer vollständigen Darstellung Verzicht leisten, berufen wir uns und verweisen auf Schellings Schriften selbst, in welchen das Weitere hierüber nachgelesen werden kann. Nur noch folgendes setzen wir hinzu: Betrachtet man das erscheinende Universum überhaupt, so ist es zu bezeichnen als A
+
+B, wodurch die Fotenz überhaupt gesetzt ist.
+
+Aber die unorganische Natur, im Gegensatz gegen die organische, [p. 38] ist zu bezeichnen durch A - B, lez+ tere durch A = B.
+
+Berücksichtigt man die objective Natur gegen die subjective; so ist leztere zu bezeichnen durch A
+
+B, erstere durch A
+
+B. Es kommt nur auf das Uebergewicht des positiven oder negativen Factors an.
+
+§.
+
+16.
+
+Bei dieser unserer Darstellung lag uns eigentlich nur daran, unserer Behauptung: Das erscheinende Universum könne eben so wenig, als eines seiner Theilganzen, ohne drei Grundformen gedacht werden, und der menschliche Geist müsse daher in die Construction des ersteren mit aufgenommen werden, Eingang zu verschaffen. Ist aber der menschliche Geist ein iutegrirender Theil des Universalganzen; ist. die Thätigkeit, die in uns als Denken hervortritt an sich nicht verschieden von der Thätigkeit, die sich in der unorganischen und organischen Natur äussert; so lässt sich allerdings eine Wechselwirkung als möglich denken, da im Gegentheil eine solche unmöglich wird, wenn der Gegensatz, der in der höchsten Syn-
+
+`hesis liegt, als absolut gelten soll: denn eine ynthesis absolut Entgegengesetzten ist baarer
+
+[p. 39] Widerspruch. - Erst durch die von Schelling aufgestellte Ansicht der Dinge erhalten die mancherlei Processe in den verschiedenen Sphären der Natur ihre wahre Bedeutung. Nichts, auch das nicht, was sich unter dem Ausdrucke des absoluten Todes, als bloſse Contraction, als thätigkeitslose Materie, darstellt, ist der Veränderung unfähig. Wie wäre aber dieses möglich, wenn nicht die Bedingung zur Selbstthätigkeit in ihm läge?
+
+J
+
+§. 17. Noch einleuchtender wird alles dieses werden, wenn wir den einzig möglichen Begriff von der Materie aufstellen.
+
+Alles, sagten wir, sey eine Synthesis, d. h. ein Setzen, Entgegensetzen und Gleichsetzen. Der äussere Ausdruck einer thetischen, antithetischen und synthetischen Thätigkeit ist die Materie. Hierinn liegt zugleich die wahre Ansicht dessen, was man Raum und Zeit nennt. Die Materie von ihrer subjektiven (dynamischen) Seite betrachtet, ist eben jenes Antithetische und Synthetische-
+
+Thetische
+
+, selbst die unendliche Zeit.
+
+Die Materie von ihrer objectiven Seite ist die äussere Darstellung jener Thätigkeiten - der unendliche erfüllte Raum. Thätigkeit und Seyn constituirt also das, was wir Materie nennen [p. 40] und beide sind nicht getrennt. Die einzelne bestimmte Raumerfüllung ist der Ausdruck eines gewissen Verhältnisses jener Thätigkeiten. Keine derselben ist ohne die andere; aber eine kann vor der andern überwiegend gesetzt seyn, welches gerade soviel ist, als wenn wir sagten, alles ist Subject Object oder Object Subject. §.
+
+18.
+
+Es ist klar, daſs, nach dieser Ansicht, die Materie, an sich betrachtet, das Absolute selbst sey, welches sich nicht anders, als unter dem Chtracter einer thetischen, antithetischen und synthetischen Thätigkeit objectiv machen oder für die Erscheinung hervortreten kann.
+
+Weit entfernt, hier einen Missverstand zu fürchten, glauben wir vielmehr, dafs durch eben diese Ansicht der Materie aller und jeder Mifsverstand beseitiget werde. Genau angesehen, drückt das Gesagte nicht mehr aus, als was schon weiter oben da war, nämlich: Die Erscheinungen haben nur in so ferne Reali. tät, als das Absolute sich in ihnen reflectirt oder in einem Gegenbilde sich darstellt. Dieses Gegenbild wäre aber nichts Reales, wenn das Absolute nicht seine ganze Wesenheit auf dasselbe übertrüge, d. i, wenn es nicht etwas in sich Selbstständiges wäre.
+
+Daher ist auch [p. 41] wirklich alles absolut in seiner Sphäre, und die Erscheinungswelt bedarf keiner Begründung von aussen. Die ihr zukommende Realität liegt in ihr und ist das Absolute selbst, ausser welchem es sonst nichts Reales giebt.
+
+Zu keiner Zrit war die Erscheinungswelt ohne das Absolute und dieses ohne jene. Hieraus folgt, daſs es vom sogenannten Bedingten aus keinen Uebergang zum Unbedingten gebe: denn alles ist an sich unbedingt. Wenn der Verstand diesen Weg einschlägt, so beruht, wie Schelling sagt, seine Täuschung darauf, dafs er gewiſs ist, nie zum Lezten und Unbedingten zu kommen, wo sich denn die ganzever.
+
+meinte (nicht vereinte: denn hier giebt es keine Einheit) Wissenschaft in nichts auflösen würde, §.
+
+19.
+
+Der Verstand kann das, was er als unbedingtes sucht, nur isolirt setzen; darum steht es mit dem erscheinenden Universum im Widers spruche. Es soll ja die Erscheinungswelt nicht seyn, sondern ein Anderes. Ist aber das Absolute ein Anderes, als das erscheinende Universum; so sage man uns in welchem Verhältnisse sie zu ein ander stehen sollen? Nicht in dem Verhältnisse der Causalität: denn soll etwas aus einem andern hervorgehen, als aus seiner Ursache; so muſs es in demselben enthalten seyn, was aber dem bisher Verhandelten zufolge negirt werden mnfs.
+
+[p. 42] Nicht in dem Verhältnisse der Substanzialität:
+
+denn auch das Wesen der Erscheinungswelt soll einanderes seyn, als das Absolute. Nicht in dem Verhältnisse der Wechselwirkung: denn diese hört zwischen absolut Entgegengesetzten auf. Was folgt hieraus? Die Realität, welche der Verstand, durch absolute Duplicität bestimmt, aufstellt, ist nichts: das einzige Reale ist das Absolute. Dieses istdas An - sich des Universums, der innigste Geist alles dessen, was Geist und Körper genennt wird. Ausser diesem Ansich giebt es nur Formen, die ihre Realität eben von jenem Ansich, d. i. dem Absolutenborgen Hier ergiebt sich zugleich, daſs die philosophische Erkenntniſsart auch dem Gegenstande nach absolut sey: denn es ist nicht einzusehen, wie es eine Philosophie geben könne, ohne die lebendige Idee des Absoluten. Eben so wenig ist es begreiflich, wie es mehr als eine Philosophie geben könne, oder wie man es wagen dürfe, verschiedene und doch real seyn sollende Principien der Philosophie aufzustellen. Nur ein reales Prinzip kann es in der Wissenschaft des Wahren geben und dieses ist die richtig aufgefasste Idee des Absoluten.
+
+Hier möchte wohl gelten, was der verewigte Schiller aussprach: Welche wohl bleibt von allen den Philosophien. Ich weiss nicht.
+
+Aber die Philosophie, hoff' ich, soll ewig bestehn.
+
+[p. 43] §.
+
+20.95
+
+Es ist ganz natürlich, daſs es so keinen positiven Weg zum Absoluten geben könne, d. h. daſs alle Einleitung dazu in dem Sinne unmöglich sey, daſs es durch Worte in seiner Wesenheit vor die Seele zu bringen wäre. Mit Recht erinnert Schelling, daſs das Einfache nur angeschaut werden könne. Auch die Vorstellung des Raumes und der Zeit ist auf dasselbe deswegen nicht anwendbar, weil es weder im Raume noch in der Zeit seyn, mithin nicht als Gegenstand der Sinnenwelt nachgewiesen werden kann. Wir hätten darum auch die Philosophie nicht mit einem Hause und die Thüre mit der Einleitung in dieselbe vergleichen mögen.
+
+Wie passend dieses sey, ist wohl einem jeden von selbst klar.
+
+Wenn man freilich in die
+
+Philosophie, wie durch die Thüre in's Haus, eingehen könnte; so möchte dieses wohl manchem recht seyn.
+
+Eben so wenig kann es
+
+Schelling zum Vorwurfe gereichen, wenn er Leute ohne Unterschied in seinen Hörsaal aufnimmt. Kann er gleich seine Schüler nicht positiv zur Erkenntniſs des Absoluten führen; so zeigt er ihnen doch die Nichtigkeit aller Begriffsphilosophie, und damit ist nicht wenig gewonnen. Darf er gleich nicht erwarten, dafs seine Hörer die intellectuelle Anschauung, wie er sie fordert, gleich ganz frei mitbringen; so läfst er doch das morsche Gerüste, auf welchem sie bisher stunden, zusammen stürzen, oder eigentlich zu sagen, es stürzt bei seinen Hörern von selbst zusammen. Der intellectuell Blinde bleibt freilich auf dem Gerüste stehen, ohne etwas zu sehen, als das leztere, wenn es gleich aus lauter Widersprüchen, nur für ihn nicht, zusammengesetzt ist. Philosophie will nicht sowohl ihren Bekennern etwas mittheilen, als vielmehr nehmen, d. i. sie von den Banden, mit welchen die Sinnenwelt sie umstrickt hat, frei machen;
+
+sie nöthigen, die Region des Nichtigen zu verlassen und sich zu dem Ewigen und Bleibenden zu erheben. §.
+
+21.
+
+Freilich kann hier nur der Erfolg entscheiden. Berg und mit ihm noch andere, haben Schelling gänzlich miſsverstanden, wenn sie gemeint haben, dieser verachte alle Erfahrungskenntniſs, und er leugne die Realität der Erscheinungswelt.
+
+In Rücksicht auf das Erstere, ist Schelling selbst mit einem solchen Vorrath empirischer Erkenntnisse ausgestattet, daſs man darüber in Erstaunen gerathen muſs; und was das Leztere [p. 45] betrift, so ist er von der Realität der Erscheinungswelt aus bessern Gründen überzeugt, als irgend einer seiner zahlreichen Gegner.
+
+Wenn Schelling die Realität, welche der Vers stand, als solcher, auf die Dinge überträgt, nicht gelten lässt, leugnet er denn deswegen die Realität der Erscheinungswelt? Oder sind denn die Dinge deswegen nichts, weil er behauptet, das Ansich derselben sey das Absolute? Die Form, unter welcher die Dinge er scheinen, sey nichts im Gegensatze gegen das Wesen? Alles sey Modus (Darstellungsweise) des Absoluten in der Erscheinung? Trotz allen
+
+Veränderungen und scheinbaren Verschiedenheiten sey das Wesen der Dinge ewig und unveränderlich? -
+
+So genommen ist Empirie und Philosophie vielmehr Eins. §.
+
+Es kam uns in der That ganz possirlich vor, als wir im Sextus die Aeusserung lasen, daſs man, um philosophiren zu können, von etwas Auerkanntem ausgehen, und dafs der Lehrer mit dem Schüler sich vorhinein über Eins und das Andere verstehen müsse (p, 45.). Wir wären sehr begierig, zu erfahren, was denn das Anerkannte sey, von welchem die Philosophie ausgehen soll: denn ein solches uns nachzuweisen, hat Berg wirk [p. 46] lich vergessen, Vielleicht Begriffe? Allein Verstandesbegriffe beziehen nur auf die Form, nie auf das Wesen, daher auch behauptet werden muſs, daſs sich durch bloſses Denken keine objective Wahrheit gewinnen lasse. Man erinnere sich hier an Kants Kategorien und an das Resultat der Kritik überhaupt.
+
+Nach Kant haben jene Kategorien (Denkgesetze, Regelbegriffe) keinen Bezug auf das an sich Wahre.
+
+Was das Ding an sich ist, erfährt man nie. Wir erkennen nur Erscheinungen (phaenomena) , und alle Verstandsbegriffe beziehen sich auf diese, und kommen nie über dieselbe hinaus. Da Berg, so gut wie Kant, auf dem Reflexionsstandpuncte stehet, wo er die Dinge nehmen muſs, wie sie gegeben sind; so wird es ihm wohl nicht einfallen, jener Entscheidung zu widersprechen. Wenn daher Begriffe der Stoff sind, worüber philosophirt werden soll; so ist klar, daſs eine solche Philosophie weiter nichts sey, als ein Spiel des Verstandes mit Begriffen, von denen man nicht weifs, ob ihnen etwas Reales entspreche. Aber wer wird ein solches, Spiel Philosophie nennen? Diese muſs uns absolute Wahrheit gewähren. Ist aber das Absolute für uns unerreichbar; so ist alles vermeintliche Erkennen - Wissen - ein Irrwisch, der uns in öde Sümpfe lockt.
+
+[p. 47] §.23.
+
+Jedoch wir vermutheten es schon, dafs Berg noch mit einem Postulate angerückt kommen würde.
+
+Das, was unser Postulant Postulirt, ist (nach p. 47.) nichts geringeres, als daſs der Begriff des Erkennens, wie man ihn im gemeinen Verstande findet, Realität haben soll. Zwar, sagt er, könne diese Realität nicht erwiesen oder aus einem höhern Grunde hergeleitet wer. den; aber hinweisen könne man die Reflexion auf die in uns liegende Thatsache und fordern könne man, daſs sie angenommen werde. Diese Forderung gehe der Philosophie nothwendig voraus. Daſs die Dinge ausser uns Realität haben, wissen wir; aber diese ihre Realität postuliren wir nicht, sondern wir erkennen sie.
+
+Aber Berg's Forderung enthält absoluten Widerspruch: denn er trägt den Begriff seines Erkennens, wie er sich ausdrückt, auf ein demselben absolut Entgegengesetztes über. Doch was soll uns ein leerer Begriff? Was erkennt denn Berg durch denselben? Und solche Begriffe wären das Anerkannte, von welchen die Philosophie ausgehen soll? Vor einer solchen Philosophie bewahre jeden sein guter Genius!
+
+[p. 48] Wir fragen im einfältigsten Ernste: Wie kann, wie soll die absolute Duplicitat vermittelt werden? Wie können absolut Entgegengesetzte in Wechselwirkung stehen? Es hilft nichts, zu sagen: Die Synthesis ist gegeben, und weil sie gegeben ist, muſs sie auch möglich seyn.
+
+Entweder muſs die Philosophie
+
+Jenen Widerspruch heben können, oder es giebt keine Philosophie.
+
+Soll er gehoben werden;
+
+so dürfen Denken und Seyn nicht als einander an sich, sondern nur der Form nach, entgegengesetzt angesehen werden. Oder, was dasselbe ist: Denken und Seyn sind Formen, unter welchen Ein Wesen (das Absolute) objectiv wird. 5.24:
+
+Das Absolute muſs auſser aller Form seyn, eben deswegen, weil es das Absolute ist. Es ist das, wodurch erst alle Form, und somit Raum und Zeit, möglich und daher auch wirklich wird. Es ist der Punkt, wo das in der Reflexion, d. i. der Form nach Getrennte, zusammenstimmt.
+
+Nur wenn die Form dem
+
+Wesen nicht entgegengesetzt ist und es erwiesen werden kann, daſs es so sey; dann ist die höchste Aufgabe der Philosophie gelöst, und der absolute Dualismus, der Widerspruch, der das Universum entzweiete, vertilgt. Das Wissen, [p. 49] wie das in Denken und Seyn getrennte Universum Eins werde, ist zugleich ein Wissen des Absoluten.
+
+Alles andere Vereinigen,
+
+Zusammenstimmen, u. s. w. ausser dem absolut Identischen, ist Widerspruch und folglich nichts. Reale, nicht formale Einheit des Denkens und Seyns zu erkennen, das ist das Streben der Philosophen. Nothwendig muſste so die Vernunft auf das All-Eins (παν §v) übergehen. ---- Wenn man übrigens den von dem Verstande in das Universum gesetzten absoluten Widerspruch für den Text ansieht, worüber die Philosophie den Commentar zu liefern haben soll, so möchten wir doch wissen, aus welchem Gesichtspuncte ein solcher Commentar anzusehen sey, indem er nicht bündiger seyn kann, als der Text selbst. §.
+
+25.
+
+Schellings Absolutes findet bei unsern Em pirikern (wozu auch Berg gehört,) nur des. wegen so viel Widerspruch, weil sie es nicht mit den Händen greifen können, oder mit der Nase darauf stofsen. Eine unmittelbare Erkenntniſs des Absoluten ist ihnen eine Unmöglichkeit. Und doch müssen sie uns zugeben, daſs das, was absolut ist, nimmermehr mittelbar aufgefafst oder erkannt werden könne.
+
+Indem sie alles mittelbar begreifen [p. 50] wollen, gehen sie, demallbeliebten Grundsatze der Causalität zufolge, von einer erscheinenden Form zur andern fort, verbinden in ihrem Kopfe (wovon aber die Natur nichts weiſs,) Ursache und Wirkung fein miteinander, und weil doch am Ende nichts herauskommt, als Widerspruch; so will man durch ein Machtgebot der von ihnen sogenannten practischen Vernunft denselben vertilgen. Aber, was mit Widerspruch angefangen wird, muſs mit Widerspruch enden. Die verlangte Einheit eines Systems wird dadurch nicht herbeigezaubert, daſs man sie postulirt; sondern mit Recht wird gefordert, daſs sie realiter zum Bewuſstseyn gelange. §. 226.
+
+Allerdings ist so das Absolute denkbar; aber nur dem mit der Vernunft identificirten
+
+Verstande. Dieser erreicht die erste Stufe der
+
+Vernünftigkeit in dem Augenblicke, in welchem er die Widersprüche, die in seiner Art, das Universum anzuschauen, liegen, einsieht.
+
+Aber damit ist noch keineswegs das Absolute erkannt. Erst dann, wenn die Form als Form vernichtet wird, d. h. wenn der Verstand sich selbst als einen Reflex des Absoluten, mithin sein Verhältnifs zu diesem und der ganzen
+
+Erscheinungswelt erkennt; dann hört er auf [p. 51] bloſs yous (formales Denken) zu seyn; er wird λογος (productiver Verstand, d. i. Vernunft). In dieser Productivität sich anschauend, erkennt diese ihr ewiges Seyn, d. i. ihr Ansich, oder ihr Seyn im Absoluten. Hier liegt der tiefe Sinn jener Worte Spinoza's, welche Schelling in seiner vortrefflichen Schrift (Philosophie und Religion) anführt: Mens nostra, quatenus se sub alternitatis specie cognoscit, eatenus Dei cognitionem necessario habet, scisque se in Deo esse et per Deum concipi. Freilich erwirbt man ein solches Wissen nur durch Freithätigkeit des Geistes.
+
+Aber eben deswegen; weil bei dieser Handlung die Vernunft über alle Verhältnisse der Sinne (des formalen
+
+Denkens) hinausgeht und hinausgeheu muſs und sich in und durch sich selbst anschaut; wird das hier statt habende Erkennen ein absolutes genannt. §.
+
+27.
+
+Wenn Berg sagt, alles Denken sey im Absoluten aufgehoben; so ist dieses zwar in so ferne richtig, als das Absolute weder Denken noch Seyn, sondern das Eins beider ist;
+
+wenn er aber glaubt, es sey auch völlig in unserer Vernunft aufgehoben; so irret er sich: denn diese ist selbst nur eine Form (Darstellungsweise) des Absoluten. Das ihr eigene Anschauungsvermögen [p. 52] ist daher noch immer ein Denken, d. i. ein Erkennen in der Form; allein eben deswegen, weil hier die Vernunft durch Selbstthätigkeit ihre eigene Form vernichtet, erfährt man, daſs die Form nichts im Gegensatze gegen das Wesen, oder, was dasselbe ist, daſs das An - sich aller Erscheinungen und also auch unsers Denkens, das Absolute selbst sey.
+
+Uebrigens wird es hier beinahe handgreiflich, daſs Berg nicht einınal geahnet hat, was Schelling mit seinem Absoluten wollte. S. 28 wird die Frage erhoben: Wie bestünde denn dein Absolutes, wenn in Ansehung desselben Widersprüche eine gleichgültige Sache wären und in einer Periode Ja und Nein über denselben Punct ausgesagt Nun da haben wir's! Nun mag würden? Schelling sehen, wie er diesen Stofs auspa-rive! Doch zur Sache.
+
+Hätte das Gesetz des
+
+Widerspruchs keine höhere Bedeutung, als ihm in Berg's Sextus beigelegt wird; so stünde die Sa he allerdings sehr schlimm. Aber so ist es nicht!
+
+Wie lautet das Gesetz des Widerspurchs? Was ich nicht denken kann, kann auch nicht seyn. Oder: Was im Denken einen Wider.
+
+spruch involvirt, involvirt ihn auch im Gedachten.
+
+Was berechtigt denn Berg, das, [p. 53] was er in subjectiver Hinsicht als widersprechend erkennt, auch in objectiver als widersprechend zu erklären? Was berechtigt ihn denn, sein Denken auf ein ihm absolut Entgegengesetztes überzutragen? Was berechtigt ihn denn, mit seinem Denken aus der ihm eigenthümlichen Sphäre hinauszugehen? Erwägt man dieses genau; so ergiebt sich, daſs das Gesetz des Widerspruchs selbst einen Widerspruch in sich fasse. Und doch ist es dem menschlichen Geiste so eigen, daſs er sich nicht davon trennen kann. Die Auflösung des Räthsels liegt darin, daſs jenes Princip nicht nur in der subjectiven, sondern auch in der objectiven Natur zu Hause ist. Nur drückt es sich in einer Sphäre anders aus, als in der andern.
+
+Für die objective Natur muſs es so bestimmt werden: Absolut Entgegenge. setzte können nicht zusammentreten und gemeinschaftlich eine Synthesis darstellen.
+
+Für die subjective: Was sich im Denken widerspricht; widerspricht sich auch im Gedachten. Die Realität dieses Princips beruht einzig und allein darauf, daſs der Organismus des Universums schlechthin Einer ist. §.
+
+28.
+
+Erst durch Schelling hat jenes Gesetz seine wahre Bedeutung erhalten. Es geht durch die [p. 54] ganze Erscheinungswelt hindurch, und ist nicht formaliter, sondern realiter in derselben. Nur dann, wenn Alles absolut (An sich) Eins ist, hat dieses Prinzip einen constitutiven Sinn, da es nach den Gesetzen des Reflexes nicht einmal einen formalen (regulativen) haben kann.
+
+Diesem ewigen Gesetze zu widersprechen, wird sich Schelling ganz gewiſs hüten. Aber Berg darf es, vermöge seiner An. sicht vom Universum, nicht wagen, etwas über objective Natur zu entscheiden, wenn er nicht jeden speculativen Denker zum Lächeln reizen will.
+
+Sollte er wohl hier nicht merken, welchen Sinn Schellings Behauptung: „Dals der Dogmatismus, der auf Verstandesbegriffe baue, einen ewigen Widerspruch gegen sich habe" in sich fasse? Nicht nach dem sich widersprechenden Gesetze des Widerspruchs, sondern wirklich vom Standpuncte des Absoluten aus, schlägt Schelling seine
+
+Gegn zurück, und keineswegs überläſst er es dem gemeinen, sich widersprechenden, folglich nichtigen Denken, über sein Absolutes abzuurtheln. Das vernünftige Denken aber hat Schelling wahrhaftig nicht in sich aufgehoben. Das Denken der Vernunft ist Einheit;
+
+das des Verstandes Zweiheit. Aus dieser (absoluten) Duplicität kommt man so lange nicht [p. 55] heraus, als man den Reflex des Absoluten für etwas an sich nimmt, d. i. so lange man die Erscheinungen für etwas dem Absoluten an sich Entgegengesetztes hält. Hier klären sich Schellings Worte auf: Sich vom Reflex zum Ansich, zum Kategorischen und durch sich selbst Evidenten zu erheben, ist überhaupt Etwas, das sehr vielen versagt zu seyn scheint. Daher die Unfähigkeit, sich die reine Subject Objeetivität der absoluten Form als absolute Einheit zu denken.
+
+§.
+
+29.
+
+Das absolute Denken oder Erkennen unterscheidet sich von dem relativen oder abgeleiteten dadurch, daſs alles Relative und Entgegengesetzte aufgehoben, und das Universum, seinem Wesen nach, als Einheit und Allheit (Totalität) zugleich angeschaut wird. Ob es ein solches absolutes Erkennen gebe, oder, was völlig Eins ist, ob eine Erkenntniſs des Absoluten möglich sey, daran scheint Berg nicht zu zweifeln. Aber nur Schellings Absolutes ist ihm nicht recht. Wenigstens sagt er: Man müsse das Bedingte in Ehren halten, um zum Unbedingten, d. i. wie wir glauben, Absoluten (denn eben nur das Bedingte kann absolut heissen) einen möglichen Weg zu haben.
+
+Also verzweifelt Berg keineswegs, das Absolute [p. 56] (Unbedingte) zu finden. Aber der Weg, den er einschlägt, ist nicht der rechte. Uns dünkt, wenn man etwas über das sogenannte Unbedingte bestimmen wolle, so müsse man zuvor das Unbedingte kennen, gerade wie der Architect bei Erbaunng eines Hauses nicht mit den Dachsparren, sondern mit Legung des Grundes den Anfang macht. Doch das bei Seite! Was für ein Sinn liegt denn in der Frage: Giebt es ein Absolutes? Kein anderer als dieser: Giebt es einen Punct, wo die absolute Duplicität, in welche nach Angabe des Verstandes, das Universum zerfällt, aufgehoben ist? Daſs es einen solchen Punct gebe, ist, der Reflexionsphilosophie zufolge, nicht einmal erweiſslich, noch weniger also jener Punct selbst erkennbar; aber er wird doch - wie wie fromm! consequent! - postulirt, und durch Glauben fest gehalten. Aber warum ist denn jener Punct nicht erkennbar? Blos aus dem einzigen Grunde, weil der Verstand demselben ausserhalb der zu vereinigenden Gegensätze einen Platz anweiſst.
+
+Aber kann denn wirklich das, in welchem Gegensätze vereinigt werden sollen, ausserhalb der Wenn Jemand Gegensätze selbst liegen?
+
+im Ernste die Frage erhöbe: Liegt der Mittelpunct ausserhalb der Peripherie des Cirkels?
+
+[p. 57] so könnten wir bei diesem Jemand auf die
+
+Vermuthung gerathen, er möchte nicht allzu.
+
+gut unter dem Hute verwahrt seyn. Darum nehmen wir uns sehr in Acht, den Vereinigungspunct zwischen Extreme ausserhalb der Linie zu versetzen, um nicht in einen uns unangenehmen Verdacht zu kommen. §.
+
+30.
+
+Wäre das Absolute ein ausserhalb der Gegensätze liegendes, ein ausserweltliches Ding;
+
+so könnte die Jdee desselben gar nicht in unserm Bewusstseyn vorkommen. Unsere Sprache hätte gar kein Wort für dasselbe. Kürz, das Absolute kann, ohne Widerspruch, als ein ausserweltliches Ding gar nicht gedacht werden. Es muſs daher dem Universum und mithin auch unserer Vernunft immanent seyn. Ist es dieser immanent; so ist es nicht unerreichbar für dieselbe. Ist es ihr erreichbar, so läfst sich dieses nicht anders denken, als daſs sie sich selbst als einen Reflex des Absoluten erkenne. Erkennt sie sich als einen solchen, so erkennt sie nothwendig das Absolute, das ihr wahres Ansich ist. Wenn Berg einmal über diese Sätze gehörig nachgedacht hat, dann mag erwiederkommen und sich mit Schelling mes sen.
+
+[p. 58] Wenn dieser wahrhaft speculative Denker die Behauptung aufstellt: Es giebt ein Absolutes, aber nur innerhalb des Universums, dessen Wesen es ist; es ist daher auch erreichbar für die menschliche Vernunft u. s. w. , wie will es Berg vor dem Richterstuhle sviner Vernunft und seiner Zeitgenossen verantworten, wenn er die so bestimmte Idee des Absoluten für ein Erzeugnifs der Phantasie erklärt? Was ist denn Phantasie? Im Gegensatze gegen den Verstand ist die Phantasie als freies Denken zu characterisiren. Der Verstand kommt nämlich nie über die besondere und einzelne Formen hinaus; immer ordnet er eine der andern unter.
+
+Die Phantasie vermag zwar über die besondern und einzelnen Formen der Erscheinungen hinauszugehen; aber nie über die allgemeine Form, unter welcher das Absolute erscheint, nämlich Raum und Zeit. Ganz anders ist es mit der Vernunft. Als ein freithätiges Vermögen geht sie hinaus über die besondern Formen, auf welche der Verstand, über die allgemeine Form, auf welche die Phantasie eingeschränkt ist, und sucht ihre Möglichkeit zu erweisen. Auch dieser Begriff könnte nicht in unserm Bewusstseyn vorkommen, wenn Vernunft nicht eine unabhängig von aussen widersprechenden Eindrücken [p. 59] (Erscheinungen) wirkende Kraft wäre. In der oben angegebenen Beziehung ist der Verstand als reines Auffassungsvermögen der einzelnen todten Formen, unorganischer, die Phantasie, in welcher sich eine regere (freiere) Thätigkeit äussert, organischer Natur; die Ver. nunft erscheint als reine Thätigkeit; aber sie ist es nicht, und darum nicht ausser aller Form, d. h. sie gehört mit zur Erscheinungswelt, oder sie ist ein Reflex, aber der allerreinste Reflex des Absoluten,des Einen und als solchen nothwendig Identischen, also Formlosen und mithin nie Erscheinenden. §.
+
+51.
+
+Der Vergleich mit dem Träumer Manes paſst also so gewiſs nicht hieher, als Vernunft keine Phantasie ist.
+
+Weit entfernt, zu träumen, d. i. blos auf Raum und Zeit eingeschränkt zu seyn. schaut sie, freithätig jene Form vernichtend, das Wesen selbst an. Wenn
+
+Erfahrung, als bloses Auffassen der widersprechenden Formen, die conditio sine qua non alles Philosophirens ist; so kommt Berg nie über die Erscheinungen und deren Analysis, und somit auch nicht aus dem Widerspruche hinaus. O wie wohl hätte er also gethan, wenn er mit seinem System der Philosophie, von welchem er in der Vorrede zu seinem Sextus spricht, und welches damals, gewisser Ursachen halber, noch nicht erscheinen konnte, zu Hause geblieben wäre! Konnte er doch; als gemeiner Empiriker, nichts weiter als das alte Lied leiern, dessen Inhalt wir ihm hätten zum Voraus angeben können: Das Universum steht in absolutem Gegensatze; über diesen kommen wir nicht hinaus, und also wissen wir, daſs wir nichts wissen.
+
+Zwischen Berg und uns ist folgender bedeutender Unterschied: Unser Standpunct bei der Ansicht des Universums ist der der freithätigen (construirenden) Vernunft; Bergs Standpunct aber der des rein logischen (formalen)Denkens. Uns zufolge erhebt sich die Vernunft in und durch sich selbst über alle Erfahrung; der Verstand fafst nur das Uebrigens Gegebene auf und analysirt es. nenne man Schellings Philosophie Idealismus oder Realismus; so hat man in einem gewissen Sinne Recht. Uus gefällt die Bezeichnung durch: Philosophie des Alls, so wie der Name: Identitäts - System. §.
+
+32.
+
+Allerdings verwirft Schelling den Realismus; welcher behauptet, es existire ausser dem Absoluten etwas an sich.
+
+Und doch hat die
+
+Erscheinungswelt Realität für ihn; aber freilich nur, in so ferne sie im Absoluten ist.
+
+[p. 61] Diese Realität steht fester als die, die ihr durch den Verstand angewiesen werden will. Nur aus diesem kommt der unvertilgbare Dualismus. von welchem das Universum nichts weifs. Berg spricht zwar von einer Vereinigung des Subjectiven und Objectiven, welche keine Identität seyn soll; aber diese Vereinigung ist der Epikritik schlecht gelungen: denn Berg konnte, wie es denn ganz natürlich war, nicht aus dem Widerspruche hinauskommen. Wir dürfen wohl fragen: Wenn das Absolute keine Identität ist, :
+
+was ist es denn? Was wäre denn das für eine Realität, die unserm Erkennen zu Grunde liegen soll? Was wären denn das für Widersprüche, in welche der Leugner jener Realität verwickelt werden, durch welche er beschämt werden soll? Sieht denn Berg nicht, daſs gerade dieses ihm mit seinem absoluten Dualismus widerfährt, vermöge welches er einen Widerspruch postulirt und daher dem Colosse der Philosophie ein Nichts (denn was sich selbst widerspricht, ist nichts) zum Postament giebt? Wir fassen das Gesagte in Folgendes zusammen: Wer mit absoluter Duplicität_anhebt; muſs mit solcher enden.
+
+Berg hebt mit einer solchen (mit einem Widerspruche) an;
+
+Folglich muss er damit enden.
+
+[p. 62] Hier hat Berg einen Syllogismus in bester logischer Form;
+
+ob er aber unter Barbara,
+
+Barbaralipton u.s.w. gehört, das wird er wohl am besten wissen. Genug, daſs er richtig ist. Aber noch einmal erinnern wir uns, daſs Berg sagt, das Verschiedene stimme in einem Puncte zusammen. Das Wo? anzugeben, fand Berg damals, als er seinen Sextus heraus gab, nicht für gut. Dieses tiefe Geheimniſs haben wir nun aus seines Epikritik erfahren. Und nun mag sich Schellings Philosophie verkriechen wie eine Maus in ihr Loch, da Berg sein absolutes Licht vor der Welt hat leuchten lassen. Schon bei seinem Sextus stunden seine philosophirenden Zeitgenossen mit dem Finger an der Nase und warteten der Dinge, die da kommen sollten. Aber aber, es ging wie mit dem krei senden Berg
+
+Richtig, Satyre ist keine Widerlegung, aber sie hat doch, um Berg zu parodiren, das Verdienst einer literarischen Polizei, indem sie gewisse Leute abhält, über Dinge abzuurtheln, wovon sie nichüs verstehen und mag genug seyn.
+
+Also das Verschiedene stimmt in einem Puncte zusammen. Mit diesem Zusammenstimmen kann, kraft mehrerer
+
+Aeusserungen in Berg's Sextus (mit welchem wir es hier eigentlich zu thun haben), keinblos [p. 63] formales, sondern ein reales gemeint seyn. Ist dieses; so befindet er sich mit Schelling auf einem Wege, und er ist daher ein Krypto Schellingianer. §.
+
+33.
+
+Lustig wird nun für den Kenner des Identitätssystems die Scene, wo Sextus dem Plotin beweiſst, daſs die erscheinenden Dinge etwas an sich seyn müſsten, weil es sonst keine Sprache, keine Geschichte, kein Lehren und Lernen geben könnte. Aber wissen möchte ich, fährt Sextus fort, was ihr so von der Lüge denket, indem das absolute Ich nicht aus seiner Sphäre hinausschreitet und man sowohl sich täuschen, aber nie den andern belügen und betriegen kann. - Der ganze Miſsverstand beruht offenbar darauf, daſs Berg wähnt, Schelling betrachte die erscheinenden Dinge als ganz und gar nichts. Aber dieses thut nur der einseitige, die Sphäre des Objectiven nicht umfas. sende Idealismus, den wir weiter oben Idealistik nannten, Die Vernunft erkennt ihre Realität; nicht diese, sondern der Widerspruch, unter welchem sie sich darstellen. wird aufgehoben. Nach dieser Bemerkung muſs es uns klar seyn, was Lehren und Lernen heifst. Der
+
+Lehrer der Philosophie kann weiter nichts thun, als die Widersprüche aufdecken, in welche das [p. 64] blos formale (nur die Form der Dinge berücksichtigende) Denken verwickelt Diese Widersprüche kann zwar der Schüler erkennen; aber auf den Standpunct, auf welchem das Universum in Harmonie übergeht, muſs er sich selbst durch freie Thätigkeit seiner Vernunft erheben, so daſs er mit Evidenz einsieht, es könne keine andere Ansicht desselben geben. Die Geschichte ist ein von Ewigkeit her fortgehendes Objectivwerden des Absoluten. Die Mängel, die wir hier an dem Menschen wahrnehmen, beweisen nur, daſs er sein wahres Verhältniſs zum Absoluten nicht kannte.
+
+Eben so verhält es sich mit der Lüge. Nicht der wahre Weise, der das Absolute in seiner Lebendigkeit und Wahrheit erkannt hat, sondern nur der von der Kenntniſs des Absoluten entblöste (gefallene) Mensch kann lügen. Jener spricht nur seine reinste innigste Ueberzeugung aus *) .
+
+Aber an sich ist uns nichts verachtungswürdig, oder hässlich. Es ist immer, wenn gleich ein unvollkommenes Abbild, (eine minder edle Form) des Absoluten. Aber alles muss sich in und durch sich selbst auf eine höhere Stufe erheben können.
+
+Ja, wenn die Totalität ins Auge gefaſst wird; ſo nähert sich alles, wenn gleich *) Ihr sollt heilig seyn; denn ich biu heilig.
+
+[p. 65] noch so entfernt (durch die Form getrennt) von seinem Urbilde, dieſem immer mehr. Es würde, um uns hierüber weiter zu verbreiten, eine eigene Abhandlung erfordert werden, und schon Schelling hat es besser gethan, als wir zu thun vermöchten. S. Philosophie und Religion. Tübing. 1804. *) Freilich setzt die Sprache das Daseyn vieler Menschen voraus, und diese sind für uns realiter, und folglich ist unsere Sprache nicht nichts, sondern Etwas.
+
+Das Alles was beweist es wohl?
+
+Dafs Berg wirklich nicht gewuſst, worüber er schrieb. Sonst hätte er Fragen, wie folgende gewiſs nicht gethan: Begreifst du wohl unser Gespräch ohne Wechselwirkung - ohne Dualismus? Wenn Dualismus gleichbedeutend mit Wechselwirkung ist; so können wir Berg versichern, daſs Schelling das nämliche behaupte. Ihm zufolge hat das Gesetz der Wechselwirkung nur in so ferne Realität, als alles an sich Eins ist; wenn aller Verschiedenheit der Form ungeachtet, allen Erscheinungen ein nnd dasselbe Wesen zu Grunde liegt.
+
+*) Diese Schrift ist uns vorzüglich deswegen schätzbar, weil Sch. seine Ueberzeugungen über Religion und Tugend darin niebergelegt hat.
+
+[p. 66] 5.334.
+
+Wahre Armseligkeiten sind es, welche von p. 50 85 ausgekramt werden. Wir wiederholen es, die Erscheinungswelt hat Realität für sich, und sie ist uns kein leerer Schein. Nur durch die Formalitäten des Verstandes wird sie dazu gemacht. Mag sich Berg sein Kunststück, das absolut Getrennte zu vereinigen, abkaufen lassen, von wem er will; wir zahlen ihm keinen Obolus dafür. Vou ganz gleichem Werthe ist uns sein causalisches Wissen, worauf er sich nicht wenig zu gut thut. Er sagt: wenn die Causalreihen, die uns hier erscheinen, als in's Unendliche bedingt, uns keinen Ruhepunct gewähren, so folgt nicht mehr, als daſs das Unbedingte ausser den erscheinenden Causalreihen zu suchen ist.
+
+Wie oder wann kommt denn aber Berg zum Unbedingten, wenn er auf seiner Causalitätsleiter nie die lezte Stufe (denn die Stufen gehen ja ins Unendliche fort!) erreicht? Zudem sagt er mit jenen Worten nicht mehr und nicht weniger, als: Mir ist das Absolute ein ens extramundanum. Berg sey doch so gut und gebe uns über folgende Kleinigkeit Aufschluſs: Wie kann aus einem Unbedingten ein diesem an sich entgegengesetztes Bedingtes hervorgehen?
+
+[p. 67] Zeigt uns dieses Berg auf eine die Vernunft befriedigende Art; so wollen wir Schellings Philosophie an ihn verloren geben. Aber bündig muſs der Beweiſs seyn, und es darf nichts postulirt werden. §.
+
+35.
+
+Wir können nicht umhin, wiewohl deshalb schon breitere Erwähnung geschehen ist, noch einen Beweiſs von Berg's tiefem Eindringen in Schelling's Lehre (p. 62.) anzuführen. Hier fragt Sextus: Du läugnest das Ding an sich, das heiſst, alle Dinge sind dir nur Schein oder etwas in der Vorstellung, an sich aber nichts. Ist's nicht so? Wirklich, antwortet Plotin.
+
+Wäre diesem Plotin der Kopf auf dem rechten Flecke gesessen; so hätte er so antworten müssen: Wirklich, armer Sextus, du sagst da etwas Abgeschmacktes. Mir sind die Dinge, nicht blos etwas in der Vorstellung; sondern wahrhaft und real; so real, als ich es selbst bin und du es bist. Aber wie ich merke, ist dir nur das real, worüber du mit den Füfsen stolperst, was freilich bei mir der Fall nicht ist. Daher deine ewige Instanz mit dem Ding an sich und mit den Initiativen, die von Seite des gemeinen Verstandes, von Reflexion begleitet, der Philosophie vorangehen sollen. 5*
+
+[p. 68] Mir ist, wenn von der Erkenntniſs des Absoluten die Rede ist, die schärfste Reflexion gerade so viel werth, als der gemeine Verstand: denn beide kommen nicht aus dem Widerspruche hinaus. Was ist denn Kant's Kritik anders, als das Resultat des geschärften Nachdenkens, von Reflexion begleitet? Was Fichte's Wissenschaftslehre? Und was fanden am Ende Beide? - So lange du den Vereinigungspunct von Denken und Seyn ausserhalb diesen scheinbaren Gegensätzen suchst; so lange mufs behauptet werden, daſs alle Versuche, sich jenem Puncte zu nähern, nicht nur vergeblich, sondern offenbar widersprechend sind, und dafs jeder möglich gedachte Weg rückwärts führe. Siehst du, darum suche ich dir zu beweisen, dafs das Absolute der Vernunft nicht unzugänglich, daſs alles, was existirt, der äussere (objective) Ausdruck des Absoluten, dieses also der Erscheinungswelt keineswegs fremd, sondern der innigste Geist derselben sey; daſs die erscheinenden Dinge keineswegs nichts, oder nur etwas in unserer Vorstellung, sondern, ihrem Wesen nach, ewig seyen; daſs es im Universum zwar einen Formenwechsel gebe aber, dieses Wechsels ungeachtet, das An - sich unverändert bleibe us. w. Diese Sätze hast du nicht nur nicht widerlegt;, sondern du hast in [p. 69] keiner Hinsicht ihren Sinn gefasst. Nur gegen deine eigene Phantasmen hast du gekämpft. Mit deinen Philosophen, die die Realität des Scheins behaupteten, mag ich mich deswegen nicht abgeben, weil ich überzeugt bin, ein Schein sey nichts Reales. Ich mag meine
+
+Streiche nicht in die Luft führen; nicht mit Windmühlen mag ich fechten. Vergleichst du also jene alte Idealistiker mit mir, so kommt etwas, dergleichen uns Vater Horaz mahlt, zum Vorschein:
+
+Humano capiti etc. etc. §.
+
+36.
+
+Daſs der Mond im Neulichte, im Viertel, im vollen Lichte, an sich nichts sey; daſs, wenn er zu gewissen Zeiten gar nicht erscheint, er als das ausgemachteste Nichts angesehen werden müsse; daſs die Sonne, samt dem ganzen gestirnten Himmel, nur ein scheinbares Etwas sey; daſs die Ideen und Erfindungen der Menschen als Farbenspiele des ideellen Lichts zu betrachten und an sich nichts seyen; das alles, und noch mehr, glaubt Berg, sey Schellings Lehre. Das Licht, setzt er hinzu, samt allem, was es bescheint, ist selbst an sich nichts und verhält sich zum Absoluten, wie die Farbe zum Lichte.
+
+[p. 70] Es gäbe in der That nichts Lächerlicheres als Schellings Lehre, wenn das alles in dem Sinne, in welchem Berg es nimmt, wahr wäre. Es ist uns unbegreiflich, wie er, der zu Wirzburg in Schellings Nähe lebte, diesen so ganz miſsverstehen konnte. Die Realität des gestirnten Himmels ist weder Schelling, noch uns, auch nur im mindesten zweifelhaft. Es gehört in die Sphäre der unorganischen Natur, und wie diese, als Totalität angesehen, auf drei Potenzen gebracht werden kann; so ist dieses auch der Fall mit den Himmelskörpern, deren Gröfse, Verschiedenheit, Glanz u. s. w. wir bewundern. Die Sterne zerfallen indrei Rangordnungen; es giebt Sonnen, Cometen und Planeten. Ihrem Wesen nach sind sie Eins; der Potenz nach sind sie verschieden. An sich ist jede Sonne Planet und jeder Planet und Comet Sonne.
+
+Aber dem In- und Für - sichselbst - seyn nach ist die Welt der Sonnen von der der Cometen und Planeten auf immer ab gesondert. Der hier erscheinende Indifferenzpunct ist die Welt der Sonnen. Aber eine ganz reine Sonne giebt es nicht. Als eine solche ist nur das Absolute, als die Selbstsonne, die völlig durch und in sich stralt, anzusehen. Das Gesagte ist nun freilich in diesen Bogenkeinerweitern Darstellung fähig. Wir ver-
+
+:
+
+weisen aber auf folgende Schriften Schellings: Bruno, oder über das göttliche und natürliche Princip der Dinge. Ferner auf des I. Bandes 2tes St. der neuen Zeitschrift für speculative
+
+Physik. §. VII. Speculative Bedeutung der (keplerischen) Gesetze des allgemeinen Weltbaues, p. 63. §.
+
+37.
+
+Was Berg über die alten Philosophen Griechenlands sagt, z. B. über Plato und andere, kann zwar nicht umständlich beleuchtet, darf aber doch auch nicht gänzlich mit Stillschweigen übergangen werden. Alle jene Philosophen waren, wie Berg meint, samt Spinoza, weiter nichts, als theils Idealisten, theils Realisten, beide Ausdrücke in dem gewöhnlichen schiefen Sinne genommen. Man kann schon daraus abnehmen, daſs Berg nie in Plato's und Spinoza's Geist eingedrungen seyn könne, Was er endlich seinen Sextus zu Plotin sagen läfst, „er sey Spinoza nicht blos vertraut, sondern richtiger gesagt, Spinoza selbst, wiewohl es ihm, dem Plotin, schwer falle, sich in denselben einzustudiren; ob er nicht auch der Mörder sey, den man gestern geköpft habe, unerachtet ihm der Kopf noch auf dem Rumpfe sitze, und er sehr dagegen protestirt haben würde, wenn man ihn eines Mordes [p. 72] halber hätte vor Gericht ziehen wollen" ; so weiſs man nicht, ob man über solche Albernheiten lachen oder weinen soll. Aber der Vergleich, der zwischen Schelling und dem jungen Mann im (Wirzburger) Irrenhause angestellt wird, macht Berg zum Lästerer, und nicht blos jenem ist es zu nahe getreten, sondern einem jeden, der Schellings Lehre kennt und schätzt, hat er dadurch das Recht gegeben, ihn derb zu züchtigen und ihn in seiner lächerlichen Nacktheit darzustellen.
+
+Doch hat sich Berg denn nicht selbst gezüchtiget? Ward er nicht zum Manne im Loche dadurch, daſs er mit Schelling, einem solchen Riesengegner, anband? §.
+
+38.
+
+Wir gehen über die bereits gerügte und an. Undamit wir nicht mehr sagen geziemtheiten hinweg: denn es wird Zeit, einige Sätze, die Berg in Beziehung auf die alten Philosophen Griechenlands geltend zu machen. sucht, näher in's Auge zu fassen. Er wirft einem Xenophanes, Parmenides u. a. vor, ihre Philosophie sey absoluter Realismus gewesen, (als wenn Schellings Philosophie etwas anderes wäre!) indem das All, dessen Einheit sie lehrten, die Körperwelt gewesen sey, zu welcher sie auch den Menschen dere
+
+---gerechnet [p. 75] hätten. Also deswegen war die Philosophie jener Männer Realismus, weil sie das, was man sonst Körper nennt, so wie den Menschen, so wie er ist, zu ihrem All zählten! Folglich, sagt Berg weiter, hätten sie es nur zur Einheit des Physischen gebracht? Dieses sehe man daraus, daſs in ihrem All - Eins (nach uns, Absoluten) keine Bewegung statt haben sollte, (ἀκινητον) woraus wieder erhelle, dafs Realismus ihrem Idealismus unausbleiblich angehangen habe. Wie gründlich und tief eingreifend doch dieses Raisonnement ist. Wirklich lehrt Schelling im Grunde eben das, was jene Männer lehrten, und doch ist seine Philosophie kein solcher Realismus, dergleichen in Bergs Kopfe spuckt. Auch zu unserm All gehört die ganze Körperwelt und der Mensch nach seinem ganzen Seyn. Nur ist uns das, was man sonst Körper oder Geist (Erscheinungswelt überhaupt) nennt, nichts dem Absoluten an sich Entgegengesetztes, sondern alles, was ist, Repräsentant (Darstellung) desselben auf einer bestimmten Stufe (in einer gewissen Potenz). Eine solche Philosophie mag man nennen, wie man will; so ist es gleichviel. Auch ist uns das Absolute weder ein Bewegliches noch ein Unbewegliches, d. h. die Vorstellung des Raums und der Zeit ist gar nicht auf dasselbe anwendbar; sondern, wenn doch Worte darüber gebraucht werden sollen, eine Thätigkeit, die die tiefste Ruhe selbst ist. §. 39.
+
+Eben so bündig, wie hier, geht Berg mit Plato's Philosophie zu Werke. Er sagt: Dem Plato seyen die Ideen, diese Ausflüsse der Vernunft, die Gründe des Wissens und des Seyns, die Mutter des Wahren, Guten und Schönen, des Allgemeinen, und des Besondern. Ausser diesen Ideen sollte weder
+
+Wahrheit noch Seyn statt finden. In so weit wäre Plato's nicht nur, sondern auch
+
+Schellings Lehre richtig dargestellt. Aber die darüber mitgetheilten Erläuterungen klingen um so disharmonischer. Wir übergehen Mehreres und bemerken nur Folgendes, das Berg seinem Sextus in den Mund legt: Die Ideen Plato's waren also von der Existenz durchaus verschieden und so auch in Gott.
+
+Ferner: Vergissest du der Materie, des Körperstoffes der Welt, ewig ausser Gott vorhanden, dieser positiven Schranken aller Ideen und der Ursache aller Unvollkommenheiten und Mängel im Universum? Hier, fährt Sextus fort, hast du eine reelle Opposition Gottes, und eines an und für sich ewig so wie Gott existirenden
+
+Stoffes, der den Ideen desselben stets entgegen arbeitet. (Wahrlich! kaum trauten wir unsern Augen, als wir dieses lasen.) Zulezt löst sich also alles bei Plato in Realismus auf, in Hinsicht des geistigen Subjects sowohl als der Materie, und dieser Realismus, der in Dualismus zerfällt, ist nicht einmal absolut. Von Plato habt ihr also wenig Ehre. Ach, armer Plato, wie bist du unter die Mörder gefallen - wie hat man dich geradbrecht! Sagten wir nicht, Berg sey weiter nichts, als ein Seynsphilosoph, der als solcher sich nie zur wahren Speculation erheben könne? Ihm steht das Absolute mit der Erscheinungswelt in ewigem Widerspruche. Aber so war's nicht bei Plato. Keineswegs setzte er seine Ideen den erscheinenden Dingen an sich entgegen; vielmehr waren ihm die Dinge selbst diese Ideen und diese jene, oder anders ausgedrückt, das Ansich aller Erscheinungen war ihm die Idee.
+
+In Gott aber waren ihm Idee und Ideaté als in ihrem ewigen Centrum Eins. Dieses ist Plato's wahre Lehre, zwar nur in wenige Worte zusammen gefasst, aber doch richtig dargestellt. Nicht im geringsten ist sie verschieden von Schellings Lehre. Auch ihm sind die Dinge die Ideen in der Erscheinung und er ist weit davon entfernt, die erscheinenden [p. 76] Dinge für etwas seinen Ideen an sich Entgegengesetztes anzusehen. Aber alle Ideen sind ihm und uns in einer Idee, so daſs es uns absolut unmöglich ist, eine Realität zu denken, welche nicht zugleich ideal wäre *)
+
+Dem zufolge fällt das weg, was Berg eine reelle Opposition Gottes - den. Körperstoff der Welt nennt: denn die sogenannte
+
+Körperwelt hat ihre Wesentlichkeit in dem absolut Ideellem, das nichts anders, als wieder
+
+Ideelles, welches zugleich ein Reelles ist, produciren kann. Die Materie erscheint nur als ein dem Ideellen an sich Entgegengesetztes; allein sie ist nur unter dem Character der Geistigkeit für die Vernunft begreiflich, und die erste ihrer Eigenschaften - die Schwere - ist nur als eine geistige Kraft denkbar. Die Materie ist weder, noch kann sie das seyn, wofür Berg sie ansieht- eine reelle Opposition Gottes. Gott, dem Absoluten: kann nichts realiter (an sich) entgegengesetzt seyn. Wenn daher Berg sagt: Die Ideen hätten ein Subject im Menschen, in den Dämonen und vorzugsweise in Gott; so erwiedern wir ihm: Wir wissen nichts, weder von einem Subjec*) Man denke hiebei an Leibnitzens Monadenlehre und an dessen prästabilirte Harmonie des Universums.
+
+Schelling N. Zeitschr. f. sp. Phys. I. B. 1. St. p. 25.
+
+[p. 77] tiven, noch Objectiven; diesen Unterschied macht nur die Reflexion. Im absoluten Erkennen ist er völlig aufgehoben. §.
+
+40.
+
+Vorzüglich unglücklich ist Berg in der Darstellung der Philosophie des Spinoza. Das wollen wir ihm gerne zugeben, daſs, wenn die Lehre desselben, die Definitionen und Axiome die er aufstellt, blos eine Composition des (reflectirten) Denkens und sonach ein Werk der Willkür wären, das System, auf Sand gebaut, keinen Werth haben würde. Wir neh.
+
+men daher sehr gerne an, daſs die zum Grunde liegenden Begriffe aus den Tiefen des mensch.
+
+lichen Erkenntniſsvermögens (aus absoluter Erkenntniſs nämlich) hervorgeholt sind. Die Realität dieser Erkenntniſs setzen wir mit Spinoza allerdings und alle Axiome, Theoreme und Corollarien derselben angemessen, voraus. Natürlich musste der so fortschliefsende Spinoza seinen Gedanken, gerade wie wir auch thun, Realität gegenüber setzen, aber freilich nicht die Realität, die Berg im Sinne hat, und die offenbar nichts ist. Das Resultat von Spinoza's Philosophie sollte und konnte daher nichts anders seyn, als Realismus; aber ein solcher
+
+Realismus, der zugleich Idealismus heifsen kann. Gegen den aber, von welchem Berg [p. 78] träumt, wird unserer Seits, in Spinoza's Namen, auf das feierlichste protestirt. An einen solchen konnte dieser nicht denken.
+
+S. N. Zeitschr. f. sp. Physik. I. B. I. St. §.
+
+41.
+
+Aus dem Vorhergehenden ergiebt sich Folgendes:
+
+1) Sobald vom Absoluten selbst, als dem Wesen aller Erscheinungen, die Rede ist; so sind die Ausdrücke, Idealität und Realität" völlig gleichbedeutend, so daſs das wahrhaft Reale ideal und das Ideale real ist. Auf diese Art wird die Realität des Universums nicht nur nicht vernichtet (in blosen Schein oder Sinnentäuschung oder in etwas in unserer Vorstellung verwandelt; ) sondern seine Realität ist ewig gesichert. 2) Das, was der Verstand in die Sphäre des Subjectiven oder Objectiven verweist, heist, nach Plato Idee, nach Spinoza Attribut im Allgemeinen oder Modus im Besondern, nach Schelling Reflex oder Form, (Darstellung des Absoluten in der Erscheinung). So ist das Sonnenstäubchen sowohl als der menschliche Geist ein solcher Reflex des Absoluten, folglich real und nicht nichts.
+
+Ob sich so Spinoza für das Absolute selbst halten konnte, ist nun unschwer zu beurtheilen. [p. 79] Als Modus (Erscheinungsweise) des Absoluten, war er ein anderes als dieses, ungeachtet er seinem Wesen nach, von dem Absoluten nicht getrennt oder demselben entgegengesetzt war. Spinoza's Worte: Deus est res cogitans, res extensa, sind allerdings, aber nur für Reflexionsphilosophen, schwer zu verdauen; ihrem innern Gehalte nach, und absolut angeschaut, haben sie einen ewig wahren Sinn. Zwar kann die Gottheit nicht als Res, eben so wenig als Res cogitans oder als Res extensa bezeichnet werden, weil sie dadurch zu etwas Subjectiven oder Objectiven gemacht würde. Aber jene Ausdrücke gelten bei Spinoza wirklich nur in so ferne, als das Absolute erscheint, d. h. einmal unter dem Attribute der Zeit (des Denkens) das anderemal unter dem Attribute des Raumes (des Seyns) für die Wahrnehmung hervortritt und als reine, freie Thätigkeit, die sich selbst reflectirt, nicht anders, als gerade so, hervortreten kann und muls. Sie bedeuten wirklich nicht mehr, als bei Schelling die Ausdrücke: Das Absolute stellt sich einmal unter der Form eines Subjectiven (res cogitans) ; das anderemal unter der Form eines Objectiven (res extensa) dar. Doch Berg ist nicht der erste, der Spinoza verkennt. Wir glauben, zur Rechtfertigung [p. 80] dieses sonst geächteten Weisen das Urtheil eines verehrungswürdigen Gelehrten anführen zu müssen:
+
+„Auch Männer, die in die platten Lästerungen, die Spinoza zu seinen Lebzeiten, noch mehr aber nach seinem Tode erfuhr, mit nichten einstimmten, von Geist und Herz verehrungswürdige Gelehrte, haben ihm doch Anschuldigungen gemacht, die nicht viel besser sind, als, Schmähungen, da sie ihm Ungereimt- . heiten vorwerfen, die ihn keineswegs treffen, gegen die er sich nachdrücklich in seinen Schriften erklärt. Z. B. Jerusalem (in s. Betr. über die vornehm. Wahrh. d. Rel. 1. Th.) und Men. delsohn werfen ihm vor, er verwechsele Gott und die Welt, d. i. in so fern unter der Welt die materielle Masse der sinnlichen Erscheinungen nach ihrer Verknüpfung Dieser grobe Irrthum, verstanden wird. wie sehr streitet er nicht gegen das ganze System dieses Mannes!
+
+In demselben ist Gott das Uebersinnliche im Sinnlichen, das Unvergängliche im Vergänglichen, das Bleibende, Beharrliche, im steten Flusse der wandelnden, Gestalten, das einwohnende, lebendige, belebende Princip des Alls. Er ist nicht ausser dem All; dies wäre Widerspruch; er ist kein besonderes [p. 81] von demselben getrenntes Ding. Er ist die Eine Substanz; (Eth. 1. def. 3.) der Grund aller Modificationen der Welt; das absolut unendliche Wesen, d., i die aus unendlichen Attributen bestehende Substanz, deren jegliches eine ewige und unendliche Wesenheit ausdrückt (Eth. 1. def. 6.). Der Inbegriff demnach alles Wesens und Seyns, wo lauter Position, keine Verneinung, statt findet (def. 6.); er ist die durch die Nothwendigkeit seiner Natur freie, freiwirkende, freithätige, einwohnende, nicht vorübergehende Ursache aller Dinge, in der lebet und wirket, was ist. (def. 7. vergl. mit propos.
+
+17 et 18.) "
+
+Schon nach der Erscheinung des tract, theol. polit. warf man ihm aus Miſsverstand solche Verwechslung vor. Deutlich erklärt er sich dagegen in seinem Brief an Oldenburg, ep. XXI. p. 449. opp. posth, MDCLXXVII. „attamen, quod quidam putant, tractatum theologico politicum eo niti, quod Deus et natura (per quam massam sive materiam corpoream intelligunt) unum et idem sint, tota errant via."
+
+Benedicts von Spinoza theologisch - politisch. Abhandlungen, neu übersetzt mit den von Hrn.
+
+von Murr herausgegebenen Anmerkungen des Verfassers zu diesem Tractat, einer einleitenty [p. 82] den Vorr. und einig. Anmerk. begleitet von C. P. Conz, ordentl. Prof. in Tübingen. Stuttgart, 1806. Für den Kenner darf es wohl nicht erinnert werden, daſs Schellings Lehre sich um jene Sätze, wie um ihre Spindel, herumdreht; aber eben so klar ist es, daſs nur ein verwandter, productiver Geist den wahren Gehalt darein zu legen vermag. Wenn wir gleich überzeugt sind, daſs Spinoza das Absolute in seiner Realität erkannt habe, was ihm von Berg streitig gemacht werden will, indem er ihm seinen Substanzbegriff vorrückt, den aber jener nach seiner Manier behandelt; so brauchen wir uns doch hier auf weiter nichts einzulassen, indem wir es ja nur mit Berg zu thun haben und dieser nur Schellings Absolutes widerlegen will. §.
+
+42.
+
+Also nachdem unser Vernunft - Antipode über Spinoza, Kant, Fichte u. a. seine Meinung gesagt hat, (in wie ferne sie richtig sey, in Beziehung auf den erstern, konnte, als dem Zweck dieser Schrift unangemessen, nicht umständlich erörtert werden; und die Systeme der lezteren wurden hin und wieder, obschon nur flüchtig, berührt, und werden noch in der Folge, wenn gleich nur im Vorübergehen, berührt werden) wendet er sich wieder zu [p. 83] Schellings Lehre. Schlechterdings läfst er sei nen Plotin (p. 89. 90.) sagen, muſste der verderbliche und überall sich eindrängende Gegensatz des Idealen und Realen vertilgt werden und in ein absolutes Eins zusammen fallen wenn Philosophie gerettet werden sollte. Der Reflexion durfte man keinen Zutritt mehr gestatten. Keinen Zutritt? entgegnet Sextus, was müſste das für ein Eins seyn? Ein Traum u.
+
+s. w. Schelling wird vorgeworfen, er könne, ohne Reflexion, mit seinem Absoluten nicht auskommen, und falle bei dem Bestreben, darüber hinauszuschreiten, in Widersprüche ohne Ende. Mit der Reflexion aber müsse auch der Gegensatz des Idealen und Realen herbeigelassen werden. Mit Besonnenheit das absolut seyn sollende Eins betrachtet, habe man nur die Wahl, es als etwas im Subjectiven oder Objectiven anzunehmen. Dieses wieder als Eins zusammenfassen, heisse soviel als durch eine
+
+Petitio principii den Proceſs in's Unendliche hinausweisen. Die herbeigelassene Reflexion untersage diese Ausflucht. Es sey nichts übrig, als Schellings absolutes Eins in Realismus oder Idealismus zu kleiden u. s. w. Dieses und noch mehr sucht nun Berg dadurch zu erweisen, daſs er Denken und Seyn, das Ideelle und Reelle, als die ersten Gegensätze, als den 6* f
+
+[p. 84] Grundunterschied, über welchen hinaus es sonst keinen höhern mehr gebe, geltend zu machen sucht. Diese Gegensätze für Eins halten, nennt er Unsinn, und die Differenz, als solche, in demselben Act der Vorstellung als Eins nehmen, nennt er Widerspruch. Umgekehrt sey es auch widersprechend, das Absolute, in wie ferne es Eins sey, als verschiedachten wir den anzusehen. (O si tacuisses hier.) Folglich müsse das Absolute an sich etwas anderes seyn, als die Differenz. Wenn das Absolute an sich nicht verschieden sey, so erscheine es nur so, oder der Unterschied, den es mit sich führe, gelte nur für die Vorstellung an sich nichts. Das Eins des Idealen und Realen nennt Berg ferner ein Nest voll Widersprüche u. s. w
+
+Daſs Einwürfe dieser Natur nur der, um mit Schelling zu reden, von Gott dem Absoluten - verlassene Mensch ersinnen und sie dem speculativen Denker vorhalten könne, ist, den bisherigen Verhandlungen zufolge, wohl ohne unser Erinnern klar. Doch fragen wir noch zum Ueberflusse: Was ist denn Bergs Absolutes? Wenn es nicht Einheit ist, was ist es denn? Bringt es denn nicht die Idee eines Absoluten mit sich, Einheit und nicht
+
+Zweiheit zu seyn? Und doch - wenigstens el vermuthen wir es ist Gott, das Absolute, für Berg gewiſs ein höchst reales Wesen. Duplicität ist aber Vernichtung aller Realität. Sind Denken und Seyn absolute Gegensatze, so heben sie einander nothwendig auf, und gesetzt, daſs sie nebeneinander bestehen könnten; so ist doch dieses so evident, als nur et- was seyn kann, das sich durch unser ganzes Denken über das, was Objectivität heiſst, nichts ausmachen lasse, eben so wenig, als über das Absolute, das ausserhalb der Erscheinungswelt versetzt, nothwendig zu einem blosen noumen (Gedanken ding) wird. Hat denn das Nämliche nicht schon Kant erwiesen? Nicht Fichte im practischen Theil der Wissenschaftslehre, wo der, wie er sagt, nie aufzulösende Cirkel zum Vorschein kommt, daſs nämlich der endliche
+
+Geist nothwendig etwas Absolutes ausser sich setzen, und dennoch von der andern Seite anerkennen muſs, daſs dasselbe nur für ihn da sey (ein nothwendiges noumen sey).
+
+Schelling N. Zeitschr. f. sp. Phys. 1. B. 1. St. p. 25. 5.43.
+
+Das traurige Phantom, das überall in Bergs Sextus spuckt und ihn von einem Irrthum zum andern lockt, ist, daſs er das Absolute ausserhalb des erscheinenden Universums [p. 86] sucht. Daher der sonderbare Wahn,
+
+Schelling sehe dieses nur für ein Gebilde der Phantasie oder für etwas in unserer Vorstellungan. Daher die Behauptung: Man müsse das absolut seyn sollende Eins als etwas im Subjectiven oder Objectiven annehmen. Daher die witzig seyn sollende Aeusserung: Das Ideale und Reale in der Idee als Eins betrachten: sey eben so viel als sagen, das Männliche und Weibliche sey in der Mannheit absolut Eins. - Betrachten wir denn das Absolute als etwas im Subjectiven oder im Objectiven? Oder ist es uns nicht vielmehr das, wodurch alles, was der Reflexion Subjectivität oder Objectivität heifst gesetzt ist? Berg nennt das Ideale und Reale den Grundunterschied, über welchen hinaus es sonst weiter keinen mehr gebe. Aber er antworte uns auf folgende Frage: Ist denn sein Ideales dem Realen absolut fremd? Als consequenter Empiriker muſs Berg diese Frage bejahen. Daſs aber mit dieser Bejahung alle Philosophie, d. i. alles eigentliche und wahre Wissen, aufhöre, ist nicht zu leugnen. Berg wird sich dann bescheiden, die Synthesis unerklärt zu lassen, wenn er sich nicht selbst widersprechen und seine Unwissenheit organisiren will. Die petitio principii, die er gerne Schelling aufbürden [p. 87] möchte, wird ihm alsdann selbst zur Last fallen. Mag er somit sein mit der Erscheinungswelt im Widerspruche befangenes Absolutes postuliren, so lang er will; mag er es durch Glauben, wie Kant und Fichte, oder mit andern durch Gefühl und Ahnung vesthalten wollen! Wir versichern ihn, daſs wir gegen das alles nichts weiter einwenden werden. §.
+
+44.
+
+Wenn im Sextus (p. 94.) behauptet wird, man unterwerfe das Absolute, wenn man es als real bestimme, einem Gegensatze; so ist dieses völlig falsch: denn unser Reales können wir Niemanden zum Betasten hingeben, und eine Realität, die dem Absoluten entgegen gesetzt seyn soll, ist uns nur das Product des sich selbst täuschenden Verstandes.
+
+Wenn nun, wie es denn ohne Widerspruch nicht anders denkbar ist, das Absolute nur das einzige Reale, in seiner Realität aber nur ideal seyn kann; so erhellet hieraus 1) die Nichtigkeit der Productions- oder Emanationslehre. Aus dem Absoluten geht nichts hervor in dem Sinne, welchen man gewöhnlich mit dem Wort „Schaffen" verbindet,
+
+SO daſs man sagen könnte, die Welt sey etwas in der Zeit Entstandenes. Sie ist so ewig als das Absolute selbst und beide konnten nicht ohne einander seyn.
+
+2) die Nichtigkeit dessen, was man Substanzen und Accidenzen nennt, Nur eine Substanz giebt es - das Absolute. Accidentell ist nichts im Universum und auch die Form ist nothwendig. §.
+
+45.
+
+Schellings Behauptung: Das Ideelle und Reelle sind Eins im Absoluten, steht also vest wenn alle Erfahrungsschlüsse wanken. Aber wahr ist es, daſs jenes absolut Eine nicht durch Anleitung, Unterricht, Beschreibung u. s. w. erkannt, sondern nur durch eine absolute Apperception aufgefasst werden könne.
+
+Auch diese absolute Apperception kann man Niemanden geben; sondern man giebt sich die. selbe selbst. Dieses ist so wahr, als die Vernunft kein blosses Räsonnir-, sondern ein productives und in ihrem Producte sich anschauendes Vermögen ist. Wäre dieses nicht, so dürfte man wohl fragen: Was heifst das, et. was a priori bestimmen? Wie wir es nehmen, hat das a priori einen wahren Sinn. Aber nicht so in der Reflexionsphilosophie. Sie kann nicht wissen, ob das, was sie nach ihrem a priori bestimmt, a posteriori wahr sey. Mit andern Worten: Dadurch, daſs ich mir etwas denke, ist die Wirklichkeit nicht gesetzt. Ganz anders ist es mit dem Erkennen der Vernunft.
+
+[p. 89] Was diese als möglich anerkennt, muſs zugleich wirklich seyn. Warum? Weil in Allem Alles, weil Denken und Seyn an sich (wesentlich) Eins ist. Das, was auf der einen Seite im Denken, auf der andern im Seyn ausgedrückt ist, reflectirt den ganzen Organismus der Vernunft, so daſs das a priorí mit dem a posteriori völlig zusammen fällt. Hier giebt es keinen Schein; sondern was erkannt wird, ist wahrhaft, real, vollkommen, ewig. §.
+
+46.
+
+Hat Berg nur einigen Sinn für wahre Speculation; so erkennt er auch in dem bisher
+
+Verhandelten die Vereinigung des Idealismus und Realismus; er sieht ein, daſs beide einander nicht entgegengesetzt, sondern wesentlich Eins seyen; er gesteht ein, daſs das Universum nicht absolute Zweiheit, sondern nur Einheit seyn könne; er merkt, was wir mit unserm absoluten Indifferenzpunct haben wollen, und dafs dieser unmöglich ausserhalb der zu vereinigenden Gegensätze gedacht werden könne.
+
+Fänden wir doch im Sextus nur eine Spur, daſs Berg über Naturphilosophie auch nur etwas gelesen oder gedacht hätte! Auch hierin liegt eine Hauptursache, daſs er in allen seinen Darstellungen höchst einseitig. wird. Diese seine einseitige Ansicht des Universums [p. 90] führt ihn zu irrigen Behauptungen und endlich zu wirklichen Invectiven, die ihm, der mit Schelling an einer Universität lebte, wahrlich keine Ehre machen und seine Versicherung, er ehre Schelling, aber die Wahrheit noch mehr als ihn, offenbar widerlegen, und nothwendig alle, die mit der Lehre des leztern bekannt sind, im höchsten Grade beleidigen müssen. Man höre: „Vielleicht, daſs er (Schelling) sich erst in der Folge von diesen restirenden Schlacken seiner vorigen Unphilosophie reinigt, wie er sich bisher allmählich von den gröbern Bestandtheilen Kant's und Fichte's losmachte, und dann giebt's neue
+
+Systeme, neue Bücher, neue Collegien, und die jugendlich gläubige Welt läuft ihm stets mit offenem Munde nach, (Hinc illae lacrymae! So schien es uns, so lange Schelling in Wirzburg lebte. Mit der Logik war damals wenig zu machen. Etliche male als wir durch Wirzburg reisten, war unser erstes Geschäfte, Schellings Hörsaal zu besuchen, welcher jederzeit gedrängt voll war.) um sich" so heisst es weiter, „immer von neuem bis zum Schwindel durch Widersprüche, Zirkel, petitiones principii, herumdrillen und mit Winde füttern zu lassen."
+
+[p. 91] Mein Gott! womit füttert denn Berg seine
+
+Proselyten? Was für Gerichte giebts denn in Bergs logischem Hörsaale? (denn wir vermuthen, daſs er Logik lehrt. ) Da giebts Realität! das ächte ὀντος ὀν; Und jeder nimmt davon sich seine Portion.
+
+Weiter wird gesagt (p. 105): So ein erklärter Feind des Disputirens warst du nie, und diese Antipathie und die Kunst der Unüberwindlichkeit hast du im Disputirsaale Schellings aufgelesen! - Dagegen haben wir nichts zu sagen: denn so etwas eckelt jeden zartfühlenden Menschen an. Wer mehr, bis zur Uebertreibung viel wissen will, der nehme, wenn er es noch nicht gethan hat, das Büchlein selbst zur Hand, und wundere sich, wie weit verblendete Leidenschaft führen könne. 1000 $.
+
+47.
+
+Wenn Berg, bei dem vorgeblichen Beweise, Schellings Philosophie sey nur (einseitiger) Idealismus, (Idealistik) sagt,„man möge zwischen dem absoluten Ich und dem relativen noch so fein unterscheiden, das Ich bringe man nicht weg" ; so können wir ihn versichern, daſs dieses auch unsere Meinung sey. Schelling will auch das absolute Ich, das er sonst absolutes durch keinen Gegensatz bedingtes Bewusstseyn nennt, nicht [p. 92] wegbringen; sondern nur das relative, d.h. das Ich (Subject) dem ein Nicht - Ich (Object) entgegensteht. Ienes absolute Bewusstseyn ist ihm die conditio sine qua non alles Philosophirens und gleichbedeutend mit dem, was er sonst absolute Form und noch öfter intellectuelle Anschauung nennt. Das ist eben der Punct, wo das Wissen um das Absolute, und das Absolute selbst Eins sind. Dieses Wissen ist allerdings noch ein Erkennen in der Form, d. h. das Ich verschwindet wirklich nicht ganz und gar; allein man erkennt zugleich, daſs das Ansich desselben das Absolute selbst, oder anders ausgedrückt, daſs unser Denken eine Form (Erscheinungsweise) des Absoluten, aber eben deswegen demselben nicht entgegen gesetzt sey. Hier wird es für den, der speculative Verhältnisse fassen mag, völlig deutlich, daſs nicht das Absolute, das Eine und Identische, das Wesen, erscheinen könne; sondern daſs alles, was ist, nur der objective Aus Aruck (das Gegenbild) desselben sey. In diesem Einen und in seiner Einheit Realen, verliert sich unser Geist; er kehrt, so zu sagen, zurück zu jener in sein Urprincip zurück Urquelle alles dessen, was Körperlichkeit oder Geistigkeit genannt wird; er erkennt sein ewiges Seyn. Der Stille, die hier herrscht, ungeachtet, [p. 93] regt sich doch ein freies unabhängiges Leben und rinnt, wie in sichtbaren Adern, nach allen Seiten hin, und wo es seinen Lauf hinnimmt, da bewegt sich alles in eigener Fülle und Kraft. Wie der Tropfen im Ocean, schwimmt die Seele in diesem Lichtmeere, das grenzenlos vor ihrem Blicke sich ausbreitend, sie mit heiligem Schauder erfüllt. §.
+
+48.
+
+Ob so genommen, das Absolute zu einem Subjecte oder zu etwas in unserm Subjecte werde, ist nun leicht zu entscheiden. Dieses ist nicht nur nicht der Fall; sondern man könnte eher sagen, daſs unser Subject, wenn anders dieser Terminus hier noch anwendbar wäre, etwas im Absoluten sey. Doch wir wollen Berg darüber hören: Wenn du also, sagt Sextus p. 101. vom Subjectiven oder Idealischen sprichst; welches in der Idee des Absoluten mit dem Realen Eins sey, so kommst du, ohnerachtet deines Vorgebens, nicht ganz über das Subjective hinaus. Immer bleibt dir ein Subject des Subjectiven, eine Idee des Idealen. Das Drollichste bei der Sache besteht nun gar darin, daſs ihr jener Idee der Ideen oder einem Subjecte wieder ein Subject unterstellet u. s. w. Wie klein, wie dürftig! So verfährt nur der auf der niedrigsten Stufe ste* [p. 94] hende Empiriker, aber nicht der speculative Philosoph! - Doch, wie? Dadurch, daſs wir behaupten, im Absoluten höre Denken und Seyn auf, etwas an sich zu bedeuten, würde jenem ein Subject untergestellt? - O der Weisheit Schellings, die Berg zur Thorheit ward!
+
+Nur dadurch ist die Erscheinungswelt gesetzt, daſs das Absolute, durch die Freiheit oder Nothwendigkeit seiner Natur (denn beides ist völlig identisch) sich selbst reflectirt, (in einem realen, in seiner Realität aber nothwendig idealen Gegenbilde sich darstellt). Ein solcher Reflex ist nun auch der menschliche
+
+Geist, (unser Subject) der, wenn er sich als einen solchen erkennt, auch zugleich das Absolute erkennt.
+
+§.
+
+49.
+
+Wahr ist's, diese Verhältnisse können nur intellectuell, wie es denn nicht anders möglich ist, aufgefasst werden. Allein dieses intellectuelle Auffassen spricht Berg unserer Vernunft gänzlich ab, und bricht so über sich selbst nicht nur, sondern auch über Philosophie überhaupt den Stab. So viel ist doch wohl klar, daſs, wenn das Absolute für uns nicht erkennbar ist, wir es nur mit dem Auffassen der widersprechenden Erscheinungen zu thun haben können. Da aber unsere Behauptung [p. 95] dahin geht, daſs das An - sich derselben, vermittelst der Vernunftanschauung, erkannt werden könne; so kommt uns zu, uns, ohngeachtet es für den, der in unsere bisherige Darstellung eingehen mochte, bei weitem hinlänglich geschehen ist, noch näher darüber zu er klären, zumal da Berg im dritten Abschnitte seines Sextus, die intellectuelle oder Vernunftanschauung noch besonders in Anspruch nimmt. Ja wohl, ist nichts leichter, als A = A.
+
+Freilich ist dieses nur eine logische, keine reale Identität.
+
+Freilich ist durch einen solchen leeren Satz für das Erkennen nichts gewonnen. Eben so wenig, wenn ich sage: Das Thier ist ein Thier. So kommt man sicher nie über die Form hinaus.
+
+Auch erkenne ich nichts, wenn ich von einem unbestimmten Hier nur einstwei Dinge sage, es sey A.
+
+len eine Zwischenfrage: Ist denn das Absolute, das wir durch die Formel A = A bezeichnen, ein Ding, d. h. ein Subjectives oder Objectives? Wenn man es mit dem Weglassen des Besondern, fährt Berg fort, auf das höchste treibt; so bleibt nichts übrig, als das allgemeinste Merkmal eines Dings. Aber noch einmal, das Absolute ist uns kein
+
+Ding, sondern das, in welchem Allgemeines und Besonderes Eins sind. Wer sieht [p. 96] nicht, wie Berg, der Reflexionsphilosoph, ge nöthigt ist, den Begriff der Dingheitauf das Absolute überzutragen, wie er sich offenbar dadurch widerspricht und sich in die höchste und lezte Gegensätze einsperrt? Doch wir verweilen hier nicht länger. - Das Denken, sagt Berg weiter, findet einmal keinen Weg über sich selbst hinaus. Wir sagten aber schon, reflectirtes, formales, und absolutes, productives Denken sey uns nicht einerlei. Nun protestirt Berg gegen das leztere und appellirt (sonderbar genug, jedoch durch Schel.
+
+ling veranlaſst,) an die Mathematik. Hier müssen wir also stehen bleiben. Vor allen Dingen haben wir uns vorläufig über Raum und Zeit zu erklären, wobei noch einiges in's Auge ge faſst werden wird, welches dazu gehört. §.
+
+50.
+
+Was ist Raum und Zeit?
+
+Raum und
+
+Zeit gehen aus einem Prinzip, dem Absoluten hervor, und sind in ihrer Unendlichkeit die allgemeine Form, unter welcher jenes objectiv wird; an sich sind sie das Absolute selbst. Die Zeit entspricht dem Denken, der Raum dem Seyn. Die Zeit stillestehend gedacht, ist der Raum; der Raum in Bewegung gedacht, ist die Zeit. Man kann auch Raum und Zeit die allgemeine Subject - Objectivität [p. 97] nennen, deren absoluter Indifferenzpunct jenes Eine und Identische ist, welches nicht anders, als einmal unter dem Character der Zeit (des Subjectiven, des Denkens, kurz als Thätigkeit) das anderemal unter dem Character des Raums (des Seyns, des Objectiven, kurz, der Ruhe) hervortritt. Hier wird es vollkommen klar und deutlich, daſs es nicht mehr als diese zwei Formen gebe, unter welchen das Absolute erscheinen kann. Das Absolute, als eine rein identische Thätigkeit, muſs sich nämlich, um erscheinen zu können, in entgegengesetzte Thätigkeiten, so zu sagen, trennen. Jene Entgegensetzung (Trennung) ist aber keineswegs eine reale: denn was an sich (seinem Wesen nach) identisch ist, kann sich nimmermehr realiter trennen;
+
+sondern nur eine formale, d. i. jene Trennung findet nur dadurch statt, dafs das Absolute (die Thesis) sich selbst reflectirt und als Thätigkeit reflectiren muſs, und somit sich selbst zur Antithesis wird. Das, worin sie sich reflectirt, ist kein anderes, sondern nur ihr Gegenbild, das aber nothwendig Realität hat, weil das, wodurch es gesetzt wird, selbst ein Reales ist. Darum ist uns das Universum allerdings real, in seiner Realität ewig und nie entstanden; auch wird es nie vergehen: denn [p. 98] was an sich real ist, entsteht und vergeht nie. Nur der Erscheinung (der Form) nach entstehen und vergehen die Dinge; nur der Form nach sind sie auch einander entgegen gesetzt. Eben jene Thätigkeiten, die wir weiter oben subjective und objective, positive und. negative Thätigkeit nannten, constituiren die Dinge. Keine kann ohne die andere seyn: denn wir bekämen sonst etwas dem Absoluten an sich Entgegengesetztes; nur mehr oder weniger ist eine durch die andere beschränkt. Das Streben der positiven Thätigkeit geht dahin, sich in's Unendliche zu expandiren; das der negativen, sich in's Unendliche zu contrahiren. Da, wo die Expansion mit ihrem Maximum gesetzt ist, z. B. in der sogenannten unorganischen Natur im Lichte, scheint alles Materielle verschwunden zu seyn. Daher durchdringt das Licht alles und wird von allem durchdrungen. Aber auch da, wo das Maximum der Contraction in der unorganischen Natur herrscht, im Diamant, ist die Bedingung zur Thätigkeit (Expansion) gesetzt. Ein Zusatz von Kohlensäure löset ihn völlig in Kohlensäure auf. Wäre es möglich, daſs die Factoren, je einer von dem andern, frei, würden; so könnte in keinem der beiden Fälle etwas erscheinen, Contraction in's Unendliche [p. 99] ist mathematischer Punct; Expansion in's Unendliche, mathematische Linie (ohne Breite und Dicke). Die Natur im weitläuftigsten Sinne geht daher zwar auf Extreme; aber absolutė
+
+Extreme sind in ihr unmöglich. Nun könnte Berg dünkt uns wohl einsehen, warum uns Denken und Seyn nur relative (quantita. tive) und nicht qualitative Gegensätze sind.-
+
+ン
+
+Was wir von diesen behaupten, gilt auch von der Zeit und dem Raume. Die Zeit ist weder dem Raume, noch der Raum der Zeit fremd. Man versuche es nur, den Raum ohne die Zeit, und die Zeit ohne den Raum zu den ken; so wird beides unmöglich seyn. §.
+
+51.
+
+Aus demselben Grunde ist uns die sogenannte unorganische Natur nicht wirklich, sondern nur scheinbar unorganisch. Das, was man in ihr unorganisch nennen könnte, wäre das Wasser, in so ferne es sich erst zu Körpern von mehrerer oder minderer Cohäsion organisirt. Aber auch selbst das Wasser ist nicht unorganisch. Man denke an die regelmässige
+
+Gestalt der Wassertropfen und in anderweitiger Beziehung an die regelmässige Form der Schneeflocken, der übrigen Crystallisationen ú. s. w. Das Wasser, in so ferne es sich in eine zahllose Menge von Körpern von mehre7* [p. 100] rer oder minderer Cohäsion differenzirt, in ihm selbst aber keine Cohäsion bemerkbar ist, ist das reelle A = A, das Absolute oder Unendliche dieser Sphäre, so wie das Licht das ideelle A = A ist, und sich in den Farben als different darstellt.
+
+Man denke hier an das Prisma, wo das Licht gefärbt erscheint. Jeder einzelne Körper ist organisirtes Wasser und das Wasser ist die desorganisirte Körperwelt. Weil nun kein einzelner Körper seinem Ansich (hier dem Wasser als einer geschlossenen Welt) entgegengesetzt seyn kann; so muſs behauptet werden, dafs das Besondere (Endliche, Linzelne) dem Allgemeinen (hier dem Indifferenzpuncte alles dessen, was Körper heifst) keineswegs entgegengesetzt sey.
+
+Endliches und Unendliches, Allgemeines und Besonderes sind also in dieser Beziehung Eins. Wir nannten das Wasser das reelle, das Licht das ideelle A — A. =
+
+Auch sie sind einander nicht absolut entgegengesetzt. Es giebt kein Licht ohne Wasser und ki
+
+Wasser ohne Licht.
+
+Die Erfahrung lehrt, dafs keine Lichtentwickelung möglich ist, ohne daſs Wasser dabei erzeugt werde. Daher ist das Wasser als das reelle Licht, das licht als das ideelle Wasser anzusehen. Beide sind durchsichtig. Weiter: Im Lichte ist so wenig als im Wasser Cohäsion [p. 101] bemerkbar. In dieser Rücksicht ist das Wasser als die erstorbene, das Licht aber als die zu einem höhern und freiern Leben potenzirte Cohäsion zu betrachten. Dieses wieder angewandt auf die höchsten und lezten
+
+Gegensätze, die in der Erscheinung hervortreten, würden wir sagen, die Materie sey der erloschene, geronnene Geist, der Geist aber die zu einem schönern und höhern Daseyn emporgehobene Materie. Auch in der organischen Natur reproduciren sich jene Extreme (Indifferenzpuncte) ; aber nur in einer höhern Potenz. Der ideale Pol ist hier der Instinct;
+
+der reale das Blut. Beide stralen sich in ihre Differenzen aus, bei welchen wir aber nicht stehen bleiben können; sondern auf Schellings und anderer Schriften verweisen, wo dieses Alles ausführlicher dargestellt ist Da aber alle Differenzen auch hier wieder aus einem gemeinschaftlichen Grunde herfliessen, so muſs auch gesagt werden, daſs Allgemeines und Besonderes, Endliches und Unendliches Eins sey.
+
+In der intelligenten Welt erhebt sich der Instinct zur transcendentalen Einbildungskraft. Sie ist in dieser Sphäre das reelle Extrem, so wie die Vernunft das ideelle ist. Zwischen beiden liegen die übrigen Geisteskräfte. Keine von diesen Kräften ist der andern absolut fremd
+
+[p. 102] Aber auch hier giebt es ein Maximum und ein Minimum, Das Maximum ist eben unsere
+
+Vernunft, die sich sls ein Streben nach absoluter Einheit (Indifferenz) characterisirt; das Minimum ist der Verstand, als das Vermögen, nur die einzelnen gegebenen Formen (Erscheinungen) aufzufassen. Daher giebt es für ihn nur formale, (nicht reale, absolute) Einheit. Diese zu erkennen, ist das ewige Eigenthum der Vernunft. Gerade dadurch ist unsere
+
+Vernunft das, was sie ist, daſs sie, wenn gleich selbst nicht ausser aller Form, doch, indem sie die Form vernichtet, sich selbst anschauen und in dieser Anschauung ihr Wesen erkennen kann.
+
+Was sie erkennt, spricht keine
+
+Zunge aus; keine Sprache giebt ihm den wahren Namen. Nenne es, wie du willst; Gott,
+
+Absolutes, Einheit, Substanz, Wesen; das ist gleichgültig. Nur die anschauende Erkenntniſs leistet dir, was du begehrst. In dieser Erkenntniſs bist du in Gott und Gott in dir. (Er ist nicht ferne von einem jeden unter uns: denn in ihm leben, weben und sind wir. ) Du bist im All und das All ist in dir, und dein wahrhaftiges Seyn ist dir verbürgt, §.
+
+52.
+
+Bedarf es wohl einer wiederholten Erinnerung, daſs jene Indifferenzpuncte, die wir in [p. 103] den drei Sphären der Natur nachwiesen, nur für die Erscheinung gelten? Keiner derselben ist das Absolute. Es erscheint nur als ein Absolutes und Unendliches. Alle erscheinende Unendlichkeiten aber sind enthalten in dem absolut Unendlichen, das nicht erscheinen kann. Dieses ist das Innere der Natur, das absolut thätige Leben und Wirken, die reine natura naturans, völlig Eins mit der natura naturata, die ihr ewiges Abbild ist. Es ist das Licht, dessen Stralen sich ins Unendliche hin verbreiten, deren keiner aber sich von seinem Centrum entfernt, ohne in dasselbe zurückzukehren, Bedarf es wohl, fragen wir weiter, einer Beantwortung der Frage: das Absolute reflectirt im Endlichen oder auch im Unendlichen, was heifst das wohl? Für uns giebt es nur Endliches in der Form, und auch das erscheinende Unendliche ist nur ein Unendliches in der Form; das absolut Unendliche (das Unendliche an sich) ist ansser aller Form. Aber es nimmt die Form des Endlichen und Unendlichen an, um erscheinen zu können.
+
+Bedarf es wohl einer weitern Erläuterung der Behauptung Schellings: Das Denken (als Denken in der Form) sey an sich nichts, d. h. ohne die bestimmte Erkenntniſs, daſs unser Denken selbst nur eine Form (Erscheinungsweise) [p. 104] des Absoluten sey, könne es unmöglich ein reales Erkennen genannt werden? Mit Recht heifst daher jedes Denken in der Form ein endliches, so wie das Denken, das auf dem Standpuncte des Absoluten vor sich geht, ein Unendliches ist, d. h. durch keinen Gegensatz ausser sich beschränkt wird. §.
+
+53.
+
+Das leztere könnte auch intuitives Denken genannt werden; noch passender aber absolutes Bewusstseyn. Wir wählen aber doch lieber den schon bekannten Namen: Intellectuelle Anschauung. Von dieser behaupten wir mit Schelling, daſs sie auch dem Mathematiker eigen sey, und zwar in so ferne es in seinen Constructionen die Einheit des Allgemeinen und des Besondern, des Endlichen und Unendlichen, ausdrückt. Für den Geometer ist das Unendliche der Raum. Alle Figuren, welche er beschreibt, sind im Raume, und es ist gar kein besonderer Raum denkbar ohne die Vorstellung des unendlichen Raumes, der als das Substrat jeder nur denkbaren Figur angesehen werden muſs; mit einem Worte: Das An - sich jeder besondern und einzelnen Figur ist dem Geometer der Raum. Wir werden suchen durch folgende Sätze deutlicher zu werden, [p. 105] a) Die Geometrie hat es mit dem Raume und den verschiedenen Eintheilungen desselben zu thun.
+
+b) Einer jeden geometrischen Figur liegt die Vorstellung des unendlichen Raumes zu Grunde.
+
+c) Jede besondere Figur ist daher in ihrem Allgemeinen, dem unendlichen Raume, enthalten, und es läfst sich keine Figur ausser dem Raume denken.
+
+d) Dem gemeinschaftlichen Substrate nach ist daher jede Figur mit der andern identisch. e) Der Raum ist daher das Absolute der Geometrie.- Es ist ganz gleichgültig, ob ich mir den unendlichen Raum so oder anders modificirt (begränzt) denke. Es ist immer einer und derselbe Raum, in welchem das Besondere (die Figur) enthalten ist. 5ίας f) An sich ist also das Besondere das Allgemeine und umgekehrt. Oder: Das Endliche (die Figur) und das Unendliche (der gränzenlose Raum) sind Eins. §. 54. Da nun in der Geometrie das Besondere im Allgemeinen enthalten ist, und beide einander nicht entgegengesetzt sind; so kann auch der Geometer aus einer besondern Figur allgemeine Schlüsse ziehen: denn diese ist ei [p. 106] gentlich nichts Besonderes (Abgesondertes); sondern sie ist in ihrem An sich, hier dem unendlichen Raume, enthalten. Dieser ist aber nicht eigentlich in sich selbst, sondern nur in der Idee des Geometers modificirt, daher auch behauptet werden muſs, daſs alle Figuren, welche der Geometer im Raume beschreibt, seine Ideen inder Erscheinung sind. Man würde die Geometrie mit sich selbst in Widerspruch setzen, wenn man behaupten wollte, es gebe einen besondern dem unendlichen entgegengesetzten Raum (eine Figur an sich). Dann wäre es erst wirklich unmöglich, aus einem solchen Besondern allgemeingültige Schlüsse, wie Berg sich ausdrückt, zu ziehen, weil das Besondere nicht in dem Allgemeinen enthalten wäre. Beide wären als zwei getrennte Welten anzusehen. Nur so und auf keinem andern Wege kann die alte Schwierigkeit, die seit Hume's und Kants Zeiten spuckt, und mit deren Losung Berg aus guten Gründen (weil er es eben nach seiner Philosophie nicht vermag) sich nicht abgeben wollte, gehoben werden. Die
+
+Apodixis des Geometers beruht lediglich darauf, daſs er durch seine Anschauung (nach Kant) durch intellectuelle Anschauung (nach Schelling) die Einheit (wie Berg sagt, die Vercintheit,) [p. 107] des Allgemeinen und Besondern; des endlichen und unendlichen Raumes erkennt.
+
+Doch wir müssen, wie billig, Berg auch darüber hören: Er sagt (pag. 120. u. f. ): Bei allem dem, dafs der Geometer eine besondere Figur vor sich hat, müssen doch seine Sätze und Schlüsse als allgemein angenommen werden. -- Du unterscheidest also in der Demonstration des Geometers die Besonderheit der Figur, welche derselben zu Grunde liegt, und den allgemeinen Werth der Sätze und Schlüsse, welche er darauf baut. Ist's nicht Umsonst zauderst du mit der Antwort. so? Bedenke, daſs, wenn du die Einerleiheit in den Prämissen gesetzt hättest, das erst zu Erschliessende voraus angenommen und im Schluſssatze blos wiederholt wäre. Das Falsche und Schiefe in diesen Worten kann nicht ausführlich dargestellt werden, Aber bemerkenswerth ist, dafs das, was Berg hier sagt, nicht gegen, sondern für uns ist. Wir behaupten eben, daſs in der Geometrie, wie überhaupt in der Mathematik, nichts erschlossen sondern demonstrirt werde. Das zu demonstrirende wird zum Voraus schon als wahr angenommen und seine Wahrheit in der Demonstration blos wiederholt. Es dünkt uns, man könne dieses beinahe mit den Händen [p. 108] greifen. Der Lehrsatz: In einem jeden Triangel sind zwei Seiten zusammengenommen grösser als die dritte, oder folgender: 7 + 5 = 12, wird nicht erst erschlossen, sondern als wahr demonstrirt. Die Figuren und Ziffern des Mathematikers sind weiter nichts, als das Gerüste, das er seinen Vernunftconstructionen unterstellt; an sich sind sie nichts. Eben weil die Figur gar nichts an sich (keine wirkliche Figur) ist, haben jene Sätze, als Vernunftconstructionen, nothwendig allgemeine Gültigkeit. §. 55.
+
+Berg sagt weiter (p. 182) : Man nehme sich viel vor, wenn man die Indifferenz des Idealen und Realen im Raum und in der Zeit aus sich,gleichsam proiicirt und in sich selbst unmittelbar intellectuell anschauen und so mit der Mathematik fertig werden wolle. Welchen
+
+Gehalt Schellings Worte: Der Mathematiker proiicire gleichsam aus sich die Indifferenz des Idealen und Realen im Raum und in der Zeit, und schaue sie unmittelbar intellectuell an, habe, wissen wir sehr gut, und sind von der Wahrheit desselben vollkommen überzeugt. Aber Berg hat nichts davon verstanden oder verstehen wollen, folglich müssen wir noch, in speculativer Hinsicht, einige Erläuterungen
+
+[p. 109] Pres darüber mittheilen. Wir bleiben bei der Geometrie stehen.
+
+Der Geometer stellt seine Idee durch eine Figur im Raume dar. Sind beide different? Keineswegs. Das Project (die Figur) des Geometers erscheint nur als ein Reales; aber das wahrhaft Reale ist nur die idee des Geometers.
+
+Dieser kann bei der Anschauung seiner Constructionen nicht aus sich hinaustreten. Daher liegt das Apodictische bei ihm nicht in der besondern Figur, sondern in der Idee. Eben deswegen ist jeder geometrische Lehrsatz in und für sich selbst wahr und steht als eine geschlossene Welt da. So bedarf der Satz: „alle drei Winkel in einem Triangel sind gleich zwei rechten Winkeln" keiner Herleitung in dem Sinne, als wenn er erst in Verbindung mit einem andern (durch causalischen Zusammenhang) seine Bedeutung erhielte. Blos die Vernunftconstruction des Geometers giebt ihm Gültigkeit für alle mögliche Triangel, keineswegs aber die besondere und einzelne Figur, die nur der äussere Ausdruck (die Form) dessen ist, was der Geometer in sich selbst schon als evident erkannt hat.
+
+Aber wenn wir auch behauptet haben, daſs jeder geometrische Satz in und für sich selbst wahr sey, und als eine geschlossene Welt dastehe; [p. 110] so wollten wir damit nicht sagen, daſs er dadurch aus der Verbindung mit dem Ganzen heraustrete.
+
+Vielmehr ist unsere
+
+Meinung diese, daſs an sich jeder geometrische Lehrsatz mit der ganzen Geometrie identisch sey, indem diese eben so wenig, als ein einzelner Satz aus ihrem Absoluten, hier dem unendlichen Raume, heraustreten kann; diesem selbst aber wieder jenes Eine und Identische, durch welches Geometrie und Mathematik überhaupt erst möglich wird, zu Grunde liegt. In dieser Beziehung ist Geometrie eine Totalität (ein System), in welchem Eins Alles und Alles Eins ist, und kann daher auch von der Vernunft, als eine Einheit überschaut werden. §.
+
+56.
+
+Seine Constructionen, wie eine mathematische Figur, in der Erscheinung geben, dieses kann der Philosoph nicht. Er hat vielmehr darzuthun, wie selbst Raum und Zeit und somit auch Mathematik möglich sey, welche Wissenschaft daher ihre Evidenz von der Philosophie entlehnt. Raum und Zeit, sagten wir, seyen an sich nichts; sondern nur die allge meine Form, unter welcher das Absolute ob.
+
+jectiv wird. Folglich ist die besondere Figur, welche der Geometer entwirft, eben so wenig [p. 111] als der Raum überhaupt, etwas an sich. Das Ansich der besondern Figur ist die eigene Vernunft des Geometers, die sich als ein Objectives darstellt in der Figur, als ein Seyn im Raume. Das Verfahren der Vernunft ist hier als ein Sich selbst erkennen zu L characterisiren. Das, worin sie sich erkennt, ist kein anderes, sondern nur ihr Bild, ihr eigener Reflex, aber nicht etwas ihr an sith Entgegengesetztes. So wie aber die Vernunft die Nichtigkeit aller Formen erkennt; so erkennt sie auch die Nichtigkeit ihrer eigenen Form, d. h. ihr Seyn im Absoluten, welches Seyn das wahre und allen Dingen ei genthümliche, das Seyn an sich, oder in den Ideen ist. Wir greifen das Gesagte und zugleich die Hauptdata, welche in diesen Bogen niedergelegt sind, zusammen.
+
+Intellectuelle Anschauung gründet sich auf das Wesen der Vernunft selbst. Diese ist nämlich kein passives, sondern ein actives, (construirendes, productives) Vermögen. Dieses ist nicht etwas Neues, das Schelling etwa erst vorgetragen hätte, sondern auch Kant sah sie für ein solches an, wenn er gleich diese groſse Idee nicht consequent vest gehalten hat. In der Vorrede zu seiner Kritik d. r. Vern. sagt er: Sie (Galilai, Torricelli u. a. ) begriffen, daſs die Vernunft nur das einsieht, was sie nach ihrem eigenen Entwurfe hervorbringt (d. h. nach uns construirt). Die Vernunft mufs mit ihren Principien, nach denen allein übereinkommende Erscheinungen für Gesetze gelten können, in einer Hand, und mit dem Experiment, das sie nach jenen Principien ausdachte, in der andern, an die Natur gehen u, s. w. Es soll, wie sich von selbst versteht, durch diese Stelle weiter gar nichts dargethan werden, als daſs Kant die Vernunft für kein bloſses Räsonnirvermögen ansah, sondern für ein solches, das sich (in gewisser Beziehung) über das Gegebenseyn erheben könne. Deutlicher aber, als alles dieses, beweifst das Gesagte der hohe Schwung, den die Kritik im practischen Theile nimmt, wo gefordert wird, daſs, des Widerspruches, in welchen, der aufgestellten Ansicht gemäſs, das Univer1 sum zerfällt, ungeachtet, doch ein Absolutes, das freilich widersprechend, wie denn alle und jede empirische Philosophie nicht anders kann, ausser dem Universum versetzt wird, geglaubt werden soll. Diese Forderung beweifst die Erhabenheit der Vernunft über alles widersprechende Gegebenseyn - beweifst unleugbar ihren mächtigen Einfluss auf den in absoluter Duplicität befangenen Verstand.
+
+[p. 113] S
+
+Die Vernunft eben so wenig als der Verstand, kann Widerspruch ertragen. Und doch widerspricht sich das Universum dadurch, daſs es, der Reflexion zufolge, in Denken und Seyn, als absolute Gegensätze, zerfallen soll. Durch eine Idee, welche sie als ihr Wesen und als das Wesen des Universums erkennt, und welche sich ihr als Einheit offenbart, geht die Erscheinungswelt in die entzückendste Harmonie über. Diese hallt auch in den entferntesten Theilen wieder, und es giebt in derselben keine wirkliche Dissonanzen.
+
+Was eine solche zu seyn scheint, dient nur, das Ganze zu heben und den Einklang zu erhöhen. Doch wir sprechen ohne Bilder.
+
+Für die wahre Philosophie giebt es nichts Einzelnes und Abgesondertes. Jedem Dinge ist vielmehr die absolute Vernunftform aufgedrückt und es ist wesentlich in dem Absoluten und durch dasselbe. Es giebt daher keine Pflanze, kein Thier an sich. Auch der menschliche Geist ist an sich nichts, d. h. es kommt ihm nur Wesenheit zu, in soferne er im Absoluten ist. Dieses ist nur das Einzige und Reale, die unsichtbare Wurzel alles Seyns.
+
+Nichts ist von demselben getrennt oder abgesondert, sondern alles ist und bestehet nur in demselben und durch dasselbe. Nicht einmal [p. 114] seinen Namen dürfen wir nennen, ohne fürchten zu müssen, es zu entstellen.
+
+Hier giebt es keine Schranken, keine Grenzen; nichts Einfaches, dem ein Zusammengesetztes, nichts Substanzielles, dem ein Accidentelles entgegenstünde; hier ist alles real und ewig. Weder Coordination noch Subordination, weder Namen noch Zahl findet hier statt.
+
+Das Eine, ausser welchem es nichts giebt, noch geben kann, hebt alle jene schiefen Bestimmungen durch seine Wesenheit mit einem Male auf. So denken wir uns Gott, und unsere Vernunft sagt uns, dafs wir uns der Art, wie wir ihn denken, nicht zu schämen haben. Auch erröthen wir nicht, wenn wir hier unser Glaubensbekenntniſs ablegen.
+
+Bevor wir die wahre Philosophie, von welcher alle andere sogenannte Philosophien nur die verzerrten Bilder sind, kannten, stund unsere Ueberzeugung von der Realität des Absoluten nie auf vestem Grunde. Nicht unbekannt mit Kants und Fichte's Systemen, aber nicht befriedigt durch dieselben, sahen wir unser Wissen nur für ein vages Durcheinander an, welchem das Wichtigste, die Vereinigung in einen Punct, fehlte. Nie mit uns selbst übereinstimmend, waren wir immer mit uns und mit dem, was uns umgab, unzufrieden. Schwankend zwischen, wie [p. 115] wir damals glaubten, nie zu vereinigenden Gegensätzen, sahen wir alles Wissen der Menschen für Selbsttäuschung an, und oft lächelten wir über das, was andere als baare Wahrheit vortrugen, aber warum sollten wir es nicht gestehen? - noch öfter lächelten wir über uns selbst.
+
+Ehe wir anfingen, mit Schellings Lehre vertrauter zu werden, ging es uns gerade wie vielen andern wir glaubten überall nichts als Widersprüche zu sehen. Zuweilen dachten wir auch wir legten willkürlich den Sinn in die Sätze, die vorgetragen wurden. Ja mehr als einmal stunden wir im Begriffe, das Studium jener Lehre aufzugeben. Aber wäre es auch nicht Hang zu solchen speculativen Untersuchungen gewesen, so war es doch der Gedanke, wir möchten, jenem Manne Unrecht thun und uns irren welcher uns immer wieder zu demselben zurückzog. Kurz, wir verglichen, machten Einwürfe, und fanden, daſs unsere Einwürfe und
+
+Vergleichungen nicht nur nichtig, sondern auch nicht selten abgeschmackt waren. Wenn ein Mann mit der Behauptung auftritt, das Wesen aller Dinge sey Eins; was als noch zu entgegengesetzt erscheine, treffe in einem Puncte zu. sammen; Denken und Seyn seyen nur die zwei entgegengesetzten Radien, eines und desselben 8*
+
+[p. 116] Mittelpunctes; das in der Erscheinung absolut entzweite Universum könne, ohne einen in ihm selbst liegenden Indifferenzpunct, der als solcher nicht erscheinen, sondern nur durch Vernunft angeschaut werden könne, nicht gedacht werden; in dieser Anschauung verschwinde alles Besondere und Einzelne, als solches, u.s.w., so begreifen wir nicht, wie manhier Atheismns, oder wie unser lieber Berg auch thut, Partheiismus rufen konnte. Was die Beschuldigung des Atheismus anbelangt, so ist doch so viel wohl richtig, daſs nur die Dummheit oder Bosheit dem Identitätssystem diesen Vorwurf machen kann. Es spricht das Daseyn nicht nur, sondern auch die Einheit Gottes, und, wenn man will, die Trinitätslehre, deutlich aus, Ja, ihm ist alles Wissen, ohne die Erkenntniſs des absolut Realen, (der Gottheit) weiter nichts, als bloſser Schein. Wer vermag hier Pantheismus zu wittern?
+
+Doch wir lenken wieder ein. Also wirglauben an einen Gott, als ein reales, in seiner Realität aber ideales Wesen; an Freiheit an sich identisch mit Naturnothwendigkeit, so wie selbst Gott nach seiner Natur handeln muſs;
+
+an eine Ewigkeit, die nie anfing und doch war, diejetzt ist, und weil sie ist, nie aufhört; an eine Tugend ohne Lohn, weil Tugend und Heilig [p. 117] keit absolut Eins sind. Wir halten uns für verpflichtet, zu gestehen, daſs wir die Ueberzeugung von diesen groſsen Wahrheiten, und somit unsere ganze Ruhe Schelling schuldig sind. Weder Denken noch die Natur ist für uns verloren. Das Denken (Erkennen) unserer Vernunft ist uns vielmehr Bürge unserer Würde, die uns nie verloren gehen kann.
+
+Für uns hat sich der Unsichtbare überall sichtbar dargestellt. Wie am Firmamente, sehen wir ihn auch im Sandkorne. Das Auge der Vernunft erblickt ihn im Thautropfen und auf dem nuacirten Blatt der Tulpe und der Nelke. Er ist überall und doch nirgends. Nur das kann Berg nicht begreifen, wie ein rein Identisches erscheinen könne, weswegen er auch sagt, Schellings Philosophie setze die Differenz nothwendig voraus. Wir aber sagen: Das Absolute als rein identische Thätigkeit erscheint auch nicht. Es trennt sich, (wir reden menschlicher Weise) um erscheinen zu können, in entgegengesetzte Thätigkeiten. Nothwendig erscheinen so entgegengesetzte Realitäten; aber nur dem Verstande, nicht der Vernunft, welche zwar Differenzen, aber auch nur in der Erscheinung, anerkennt. Indas Absolute selbst setzen wir keine Differenz, wenn es gleichals ein Differentes erscheinenmuſs.
+
+Der Stein ist ein Stein, die Pflanze eine Pflanze, das Thier ein Thier; aber es sind nur endliche Formen des absolut Unendlichen, das als solches, ausser aller Form ist. Den Stein im Steine, die Pflanze in der Pflanze, das Thier im Thiere das Unsichtbare und Unendliche im Sichtbaren und Endlichen zu erblicken, das ist das erhabene Geschäfte dessen, der auf speculative Erkenntniſs Anspruch macht.
+
+§.
+
+57.
+
+Wir könnten hier ohne weiters schliessen:
+
+denn Alles, was in Bergs Sextus vorkommt, haben wir, bis auf einige zur Sache nicht gehörende Kleinigkeiten, theils unmittelbar, theils mittelbar berührt. Aber sollten wir dieses, ohne vielleicht auch nur ein einzigesmal unsern Mund zum Lächeln verzogen zu haben? Und dann möchten auch wir unser Urtheil mit eineminale über Bergs Sextus fällen. Wie man an groſsen Tafeln oft zulezt das Gebratene, wie manche sagen das Beste, giebt; so regalirt uns denn auch Berg, als ein geschickter Koch, vorzüglich zulezt mit einigen Gerichten, die ein Meisterstück seiner philosophischen Kochkunst sind. Es sind folgende: 1) Ein Gericht causalisches Wissen, gewürzt mit der Behauptung: Es wäre sehr viel, wenn du [p. 119] die Stirne hättest, von der Wirklichkeit dieses Gesprächs nichts wissen zu wollen, oder auszugeben, du könntest alle Stösse, Ausbeugungen und Rückstösse, wie ein geometrisches Problem construiren.- Hoch leben alle geschickte Fechtmeister!
+
+2) Ein' Hachis aus Raum und Zeit, welches durch folgenden Zusatz zur wahren Delikatesse für den Kenner wird: Aus dem Begriff des Endlichen leitest du also erst Zeit und Causalität und doch ist das Endliche schon in der Zeit und ist verursacht. Es entsteht nach dem Gesetz des Reflexes? Aber darf ich fragen, woher der Reflex entsteht? (Warum nicht? hätte nur Berg genau bei Schelling nachgefragt, d. i. in seinen Schriften sich umgesehen, so würde er die passende Antwort schon bekommen haben.) Denn (favete linguis! ) daſs der Reflex entsteht, kann keine Frage seyn, weil er nicht allezeit vorhanden ist, z. B. wenn du dich in der intellectuellen Anschauung vertieft hast, oder schläfst, u. s. w. Ach das schmeckt! 3) Eine Compote aus Unendlichem und Endlichen, Bergs ganz eigene Erfindung, vorzüglich schmackhaft gemacht durch folgende Zuthat: Das Absolute reflectirt im Endlichen oder Unendlichen, was heifst das wohl ?- Ja, ja, da liegt's eben!
+
+[p. 120] 4) Ein Stück aus der Geschichte der Gnostiker: gespickt mit Aeonen und eingebeizt in Bergs selbsterfundener intellectueller Anschauung.
+
+Undso hat uns denn Berg recht köstlich regalirt. Wir könnten zwar noch mit mehreren Zwischengerichten aufwarten; aber hier gilt das Wort: Sapienti sat!
+
+Nur noch unser Endurtheil anzufügen, nehmen wir uns die Freiheit. Berg hat diesmal gezeigt was er könne und vermöge. Höchstgesättigt gehen wir von seiner Tafel weg, mit der Versicherung, daſs die, welche an seine Kost gewöhnt sind,gewiſs keine Indigestionen bekommen werden. Sollten auch einige über Cruditäten schreien; sind das doch Lente von verwöhnten Gaumen und schwachen
+
+Mägen-Mägen, die reelle Kost verschmähen, oder gar Ignoranten, die von derphilosophischen Kochkunst, worin Berg nur allein Meister ist, kein Jota verstehen, - Nun wissen wir auch, wie wir daran sind, da uns Berg seine Kunst in ihrem Glanze - systematisch - dargestellt hat. Wir versichern ihn, daſs, so viel an uns ist, wir noch dazu beitragen werden, ihr zu der Celebrität, die sie verdient, zu verhelfen.
+
+Klar sehen wir jetzt ein, daſs andere nur
+
+Stümper - nur Şudelköche gegen ihn sind.

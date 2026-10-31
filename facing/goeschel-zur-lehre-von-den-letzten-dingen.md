@@ -1,0 +1,1872 @@
+---
+title: Zur Lehre von den letzten Dingen
+author: Carl Friedrich Göschel
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: a scan of an old print (library or Google Books digitization; the imprint is not recorded in the library); converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: the PDF text layer of a scan, not corrected against the scan; non-word rate 1.5% (wordfreq, the edition's own spellings kept); paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority
+translation: none
+canonical: "[p. N] marks where printed page N begins (a scan of an old print (library or Google Books digitization; the imprint is not recorded in the library)); read from the PDF folios where legible, the others by sequence"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: The Zur Lehre von den letzten Dingen was written by an author who died in 1861, so before 1931; Carl Friedrich Göschel (d. 1861) is long out of protection and the edition (a library or Google Books digitization of an old print, no copyright page) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 1441)
+---
+
+# C. F. Göschel, *Zur Lehre von den letzten Dingen*
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+## Einleitung.
+
+Was Sokrates kurz vor seinem Tode nach Phädon's Erzählung zu seinen um ihn versammelten Freunden sagte, das ist allen Menschen gesagt. Es trifft jeden Erdenpilger, wenn es heißt: „Auch ziemt es sich ja wohl am besten, daß der, welcher im Bes. 61. „griff ist, dorthin zu wandern, nachsinne und sich Vorstellungen „bilde über die Wanderung dorthin, wie man sie sich wohl zu den„ken habe. Was könnte einer auch wohl noch weiter thun in der Zeit bis zum Untergange der Sonne? " So heißt es wörtlich im Grundterte: Kai yàp lows nal páhiota πρεπει μέλλοντα ἐκεῖσε ἀποδημεῖν, διασκοπεῖν τε καὶ μυθολογεῖν περὶ τῆς ἀποδημίας τῆς ἐκεῖ, ποίαν τινὰ οἰόμεθα αὐτὴν εἶναι. τὶ γὰρ ἄν τις καὶ ποιοῖ ἄλλο ἐν τῷ μέχρις ἡλίου δυσμῶν χρόνω; Bald hernach sezt Sokrates im Angesichte des nahen Todes 69. auseinander, daß Sterben besser sei als das Leben hier, weil das, was wir hier verlassen, uns dort reichlich ersezt wird, da ja auch dort vortreffliche Götter und Oberherren und gute Freunde zu erwarten sind für die Guten. Aber Kebes antwortet: „Das „dünkt mich wohl schön gesagt: nur das von wegen der Seele 70.a. — τὰ δὲ περὶ τῆς ψυχῆς findet großen Unglauben bei den „Menschen πολλὴν ἀπιστίαν παρέχει τοῖς ἀνθρώποις - , ob sie nicht, nämlich die Seele, wenn sie vom Leibe getrennt ist, [p. 2] „nicht mehr ist, sondern an jenem Tage umkommt und untergeht, „an welchem der Mensch stirbt, und, sobald sie von dem Leibe sich „trennt und ausfährt, wie ein Hauch oder Rauch ὥσπερ πνεῦμα ἤ καπνὸς auch zerstoben ist und verflogen, und nirgends nichts "mehr ist." Das von wegen der Seele ist nun der weitere Gegenſtand des Gesprächs zwischen dem scheidenden Lehrer und ſeinen Schülern und Zuhörern. Zum Beweise für die Fortdauer der Seele nach dem Tode dient dem Sokrates allererst die unläugbare Erfahrung von dem beständigen Wechsel des Entstehens und Vergehens herüber und hinüber, wie nämlich alle Dinge entstehen, das Entgegengesezte aus dem Entgegengeseßten — πάντα γίγνε, 71.3. ται ἔξ ἐναντίων τὰ ἐναντία πράγματα: wie das Grifere aus dem Kleineren entspringt, das Beſſere aus dem Schlechteren, das Wachen aus dem Schlafen und umgekehrt. So geht auch aus dem Leben der Tod, und umgekehrt aus dem Todtsein das Leben hervor, 71.d. ἐκ τῶν τεθνεώτων τὰ ζῶντὰ τε καὶ οἱ ζῶντες γίγνεται ---: aus dem Gestorbenen gehet das Lebendige hervor und aus den Verſtorbenen erstehen die Lebenden. So gewiß es daher ist, daß die Lebenden alle zumal sterben müssen, eben so gewiß ist es nach demselbigen. Geseze des Wechsels, daß die Todten wieder aufleben werden: 72.4. ὁμολογεῖται ἄρα ἡμῖν καὶ ταύτῃ, τούς ζῶντας ἐκ τῶν τεθνεώτων γεγονέναι, οὐθὲν ἧττον ἤ τοὺς τεθνεώτας ἐκ τῶν ζῶντων. Dieß ist das erste philosophische Argument des Sokrates für die Fortdauer des Lebens nach dem Tode, und für das Wieder. Das Wieaufleben des Gestorbenen — τὸ ἀναβιώσκεσθαι C deraufleben ist selbst nichts anderes als Geburt aus den Todten zu au den Lebenbigen — ἐκ τῶν τεθνεῶτων γένεσις εἰς τοὺς ζωντάς. --Denselben Beweis führt jedes Saatfeld, jedes Saamenkorn, jeder Frühling, der nach dem Winter kommt. Das leßte Argument des Sokrates für die Fortdauer des Menschen nach dem Tode, welcher dem Lehrer selbst inmittelst noch näher gekommen ist, ruht auf einer entgegengeseßten logischen Wahrheit, 102.c. wornach umgekehrt das Entgegengeseßte selbst niemals ſein Entgegengesettes werden kann.
+
+Die Größe, die einem Wesen inwohnt, [p. 3] kann selbst nicht Kleinheit, die Kleinheit kann nicht Größe werden, und so kann überhaupt nichts, das dem Anderen entgegengesezt ist, das Andere werden, dem es entgegen gesezt ist οὐδὲ ἄλλο οὐδὲν τῶν ἐναντίων, τιον γίγνεσθαι τε καὶ εἶναι, ἔτι ἄν ὅπερ ἦν, ἅμα τούνανKebes muß auch hier dem Lehrer beistimmen; aber Einer aus der Geſellſchaft, er wird nicht genannt, kann sich dabei nicht beruhigen: denn die logische Wahrheit, wor-
+
+量 nach Nichts sein Gegentheil sein, sein Gegentheil werden kann, scheint jener schon früher anerkannten Erfahrung zu widersprechen, wornach vielmehr Alles im steten Wechsel sich in sein Gegentheil verkehrt und verändert. Erst hieß es: Alles wird anders, Alles geht in Anderes über; jezt heißt es: Nichts wird anders, Nichts kann in sein Gegentheil übergehen.
+
+Sokrates hört den Einwand 103.
+
+ausführlich an, und läßt ihn vollständig entwickeln; aber dann zeigt er auch desto treffender, daß der Widerspruch zwischen seinen beiden Urtheilen nur scheinbar ist. Denn, so sagt er, „vorhin re„beten wir von den Dingen, die das Entgegengesezte an sich „haben, und benannten sie mit dem Namen des Entgegengeseßten,"  جيدd. h. nach den sich entgegengeseßten Begriffen, unter die sie gehören, jezt aber reden wir von jenen Wesenheiten selbst, „durch deren Einwohnung die eben so genannten Dinge ihre Be„nennung haben. " Oder um es noch deutlicher auszudrücken: 105. Vorhin nannten wir Dinge, die den Tod an sich haben, todt, Dinge, die das Leben an sich haben, lebendig. Also ist der Leib ein Ding, das wir lebend nennen, wenn ihm - Seele einwohnt, todt, wenn ihn Seele verläßt. Jezt reden wir aber nicht von entgegengeseßten Dingen, sondern von entgegengeseßten Qualitäten, die den Dingen einwohnen. Vorhin, nämlich nach dem ersten Argumente, ſahen wir aus dem Todten Lebendiges hervorgehen, wie aus dem Schlafenden ein neues Erwachen.
+
+Jetzt, nämlich nach dem leßten
+
+Argumente, können wir nicht bestreiten, daß aus dem Tode selbst nie Leben wird. Wohl kann das Todte wieder lebendig werden, aber der Tod wird nun und nimmermehr Leben.
+
+So ist auch
+
+Seele immer Seele, d. h. Leben: ste nimmt den Tod nicht an, sie ist unsterblich, folglich auch unvergänglich.
+
+Tritt also der Tod 106. 1* „den Menschen an, so stirbt, wie es scheint, das Sterbliche an ihm, „das Unsterbliche aber und Unvergängliche zieht wohlbehalten dem „Tode aus dem Wege. " Das leuchtet ein. Ganz sicher „alſo, o Kebes, ist die Seele unsterblich und unvergänglich, (ádavatos, „xal ávúλeðpos) und inWahrheit werden unsere Seelen ſeinimHades. " Hiermit schließt der philosophische Theil des merkwürdigen
+
+107. Gesprächs; und Simmias erklärt nun, daß er zwar nicht widersprechen könne, aber nichts desto weniger noch einen Unglauben daran bei sich verspüre. Und das billigt wieder Sokrates, insofern es zu immer weiterer und immer gründlicherer Erwägung der ersten Voraussetzungen antreibe. So fragt es sich namentlich, ob das Selbstbewußtsein, das Ich an der Seele, als am Leben, mir ein Accidentelles, mithin ein Sterbliches sei, oder das Wesentliche. Im ersteren Falle würde die unverwüstliche Fortdauer des allgemeinen Lebens mir selbst, als dem Ich, nicht zu Statten kommen, wohl aber im lezteren Falle, wenn das Ich das Wesen des dadurch bestimmten Lebens ist. Das ist, so scheint es, womit Simmias nicht alsobald fertig werden kann.
+
+Sokrates fügt aber zulezt noch hinzu: „Wenn der Tod eine Erledigung von Allem wäre, so wäre „es ein Fund für die Schlechten, wenn sie sterben, ihren Leib los „zu werden, aber auch ihre Schlechtigkeit mit der Seele zugleich. " Nun aber diese sich unsterblich zeigt, kann es ja für sie keine " Sicherheit vor dem Uebel geben und kein Heil, als nur, wenn „fte so gut und vernünftig geworden ist als möglich.“ 115.i Kriton fragte nun noch, wie Sokrates begraben sein wolle, worauf dieſer ganz ruhig lächelte, und sagte, indem er uns anſah: \# Diesen Kriton, ihr Männer, überzeuge ich nicht, daß ich der So „krates bin, dieser, der jest mit euch redet, sondern er glaubt, ich „ſei jener, den er nun bald todt ſehen wird, und fragt mich des„halb, wie er mich begraben soll.
+
+Daß ich aber schon so lange „eine große Rede darüber gehalten habe, wie ich, sobald ich den „Trank genommen, dann nicht länger bei euch bleiben, sondern „fortgehen werde zu irgend welchen Herrlichkeiten der Seligen, das, „meint er wohl, sage ich alles nur so, um euch zu beruhigen, und mich mit, "
+
+[p. 5] Darauf ging Sokrates in ein Gemach, um erst noch zu baden. 116. Aber noch war die Sonne nicht untergegangen; da verlangte schon Sokrates nach dem Giftbecher, als wenn er es nicht erwarten könnte. Und als ihm dieser gereicht und jede Libation untersagt 117. worden war, sprach er: " Beten aber darf man doch zu den Göttern, unb muß es - ἀλλ ' εὔχεσθαι γέ που ποῖς θεοῖς εξεστι μετοίκησιν „Te xai xpǹ, beten, daß die Wanderung dorthin - μeroíxyow τὴν ἐνθένδε — glücklich sein möge, worum denn auch ich hierεὔχομαι ἐγὼ exoμαι καὶ sɣd δὴ xai „mit bete, und so möge es geschehn- & on ητε, καὶ γένοιτο ταύτη - " Darauf folgten seine leßten Worte: „O Kriton, wir sind dem Asklepios einen Hahn schul- 118. „dig: entrichtet ihm den, und versäumt es ja nicht:“ - τῷ Ασκληπιῷ ὀφείλομεν αλεκτρυόνα, ἀλλὰ ἀπόδοτε, καὶ μὴ ἀμελήσητε — . So starb Sokrates, betend und dem Asklepios Dank opfernd für seine Genesung, gleich als hätt' er etwas vernommen von der Predigt des Predigers: „Der Tag des Todes ist besser, denn der „Tag der Geburt: es ist auch besser in das Klaghaus gehen, denn „in das Trinkhaus: in jenem ist das Ende aller Menschen, „und der Lebendige nimmt es zu Herzen (7, 2. 3.) Und was St. Paulus wandern nennt, aus dem Leibe wandern und zu dem Herrn
+
+ἐκδημήσαι ἐκ τοῦ σώματος, καὶ ἐνδημῆσαι πрòs πρὸς Tov τὸν Kúpιov Κύριον 2. Kor. 5, 8. —, das nannte auch Sokrates So nennt ἀποδημεῖν --in derselben Sprache Auswandern - arоônμeiv auch einer wie der andere den Leib das Haus. Es sind aber, so wesentlich auch der Unterschied sei, nicht bloß die Worte oder die äußeren Zeichen einander ähnlich.
+
+Wer könnte wohl in Sokrates Reden die Spuren ältester Gottes-Offenbarung und ihrer Transpiration durch alle Zeiten, durch alle Lande und durch alle Völker, wer könnte die Vorahndungen der kommenden leßten Offen• barung verkennen! Sokrates lebte zu den Zeiten Nehemia's und Maleachi's: er starb 400 Jahre vor Christo: er vergleicht selbst84 flg. sein Lallen von der Zukunft jenſeit des Grabes mit den Schwanengesängen. Aber nicht weniger merkwürdig als der Lehrer ist der Schüler aus Theben, Namens Simmias oder es ist vielleicht das
+
+107. Wort des Jüngers noch merkwürdiger, als die Weisheit des ſterbenden Meisters, —wenn jener in ſeiner Einfalt einmal bekennen muß, den Verstandesgründen des Sokrates nicht widersprechen, und doch auch keinen vollen Glauben gewinnen zu können, und wenn er 85. ein andermal, und zwar früher, aber in demselben Sinne, gegenüber der schwierigen Frage über das Leben nach dem Tode, auf das eigene gründliche Nachdenken, und, dafern dieſes doch nicht zu einer zuverlässigen Entscheidung führen ſollte, auf die zuverläſſigſte menschliche Autorität provocirt, um damit wie auf einem Boote, so gut es gehen will, durch das Leben zu schwimmen, „wenn einer -- ακιν und gefahrloser ασφαλέστερον „nicht etwa sicherer " δυνότερον — fann auf einem festeren fabreuge — ἐπὶ βεβαιοτέρου seine Pilgerschaft bestehen, nämlich auf einem σχήματος "1 Corte Gottes, -- ἐπι λόγου θείου τινὸς — So hat Simmias, der Thebaner, vor mehr als 2200 Jahren drei Wege bezeichnet, um zu mehrerer Gewißheit über das Verhältniß des Menschen zur Ewigkeit zu gelangen, nämlich das eigene Nachdenken, oder, wenn dies unzulänglich befunden wird, eine menschliche Autorität außer uns, zu der wir Vertrauen faſſen können, oder, wenn es etwa sein könnte, eine noch höhere Offenbarung durch ein Gottes Wort, das nicht trügen kann. Jest fragt es sich, wie weit wir in diesem Zeitraume von zwei Jahrtausenden und zwei Jahrhunderten auf den vorgezeichneten drei Wegen in der Erkenntniß der lezten Dinge vorgeschritten sind: aber wir dürfen auch nicht unterlassen, zugleich in die Jahrtausende vor Plato zurück zu ſehen, um zu ergründen, ob den Menschen nicht wirklich schon früher ein festeres Fahrzeug, nämlich ein Gottes - Wort, anvertraut und angeeignet worden ist, dem wir trauen und folgen können auf der Pilgerfahrt durch Leben und Tod zu der bleibenden Statt, welche wir hier nicht haben, sondern suchen.
+
+Bur Eschatologie.
+
+## I.
+
+Dem vollen Begriffe des Menschen sind drei Momente wesentlich, in deren Vereinigung das menschliche Wesen besteht: Leib, Seele und Geist. 1. Theff. 5, 23.
+
+Hebr. 4, 12.
+
+Zur näheren Versinnlichung des Unterſchiedes können wir den Leib als den Stoff, den wir mit der leblosen Natur gemein haben, die Seele als das Leben, welches auch dem Thiere zukommt, den Geist als das Bewußtsein, in welchem das Privilegium des Menschen besteht, bezeichnen. Wie dem Menschen drei Bestandtheile zumal gegeben sind, nämlich Leib, Seele und Geist, so sind ihm auch successtv drei Zustände, drei Perioden beschieden und verheißen, nämlich der leibliche, der seelische und der geistige Zustand. Das Erste ist die Teibliche Periode, da Seele und Geist im Leibe, aber in einem ihnen noch nicht adäquaten Leibe wohnen. Paulus nennt diesen Leib unser irdisches Haus dieses Reisezeltes, ý kníɣeios oixía tous oxývous, in welchem wir uns beschweret fühlen und seufzen, so lange wir in der Hütte sind, da wir im Leibe wohnen, στενάζομεν βαρούμενοι, ἐνδημοῦντες ἐν τῷ σώματι. 2. Kor. 5, 1. 2. 6.
+
+Es ist der irdische Leib. 1. Kor. 15, 44.
+
+Das Zweite ist die seelische Periode, da die Seele außer dem Leibe wallet, nämlich außer dem irdischen oder irdenen und [p. 8] handgreiflichen Leibe, da sie selbst die Stelle des Leibes vertritt, und als Leib, als Organ des Geistes sich erweiset.
+
+Paulus bezeichnet diesen Zustand als ein Ausziehen aus dem Leibe und Heimgieben gum Serrn, ἐκδημῆσαι ἐκ τοῦ σώματος, ἐνδημῆσαι πρὸς τὸν Κύριον. 2. for. 5, 8. Das Dritte ist die geistige Periode, da Leib und Seele im Geiste sich vollenden, im Geiſte zu unauflöslicher Einheit ſich verklären. Paulus nennt diesen Zustand der Vollendung den geistlichen Leib, σῶμα πνευματικόν. 1. Kor. 15, 44.
+
+Der erste Zustand ist
+
+Diesseits, also hier, wiewohl wir uns gerade hier nicht hier, nicht zu Hauſe, nicht heimisch fühlen, sondern als Fremdlinge und Pilgrimme wiſſen. --- 13, 14. f. 39, 13. 1. Petr. 2, 11. Hebr. 11, 13. 14. Der zweite ist Jenseits, wiewohl wir gerade dort die Heimath finden. 2. Kor. 5, 8. Der lezte Zustand, der Zustand der Vollendung, kann aber nicht mehr als Jenseits bezeichnet werden, in so fern unter dem Jenseits von zwei Seiten eine ohne die andere zu verstehen iſt, während in der Vollendung beide Seiten, Diesseits und Jenseits, sich vereinigen und verklären. Dennoch heißt der lezte Tag, da die Vollendung anhebt, jener - èxeivηuépa, illa dies, dies illa, --2. Tim. 1, 18.4, 8. weil er das Ziel ist, oxonós, und das Kleinod, ßpaßɛłov, nach dem wir laufen, wornach wir uns ausstrecken, 1. Kor. 9, 24. Phil. 3, 14. Das Ziel, das alle Fernen aufhebt, liegt für uns jezt selbst noch in der Ferne.
+
+Von dem ersten Zustande wissen wir scheinbar am meisten, weil er sichtbar ist, weil wir ihn leben; aber näher und tiefer besehen, löset sich diese Kenntniß in ein Weniges auf. Von den folgenden Zuständen wissen wir nur ein Weniges, das uns offenbaret ist: aber in diesem Wenigen liegt ein fruchtbarer Keim zu weiterer Entwickelung für den Knecht, der über Wenigem treu iſt.
+
+Gleich im ersten Zustande finden wir am Menschen Alles, was zu seinem Begriffe gehört, wenn auch noch unvollkommen und in unvollkommener Verbindung, Leib, Seele, und Geist. Hier erweiſet ſich das Verhältniß aller drei Momente oder Bestandtheile so, daß der Leib gleichsam die Seele trägt, indem er ihr als Unterlage und Organ nach Außen dient, daß die Seele ihrerseits den Leib hebt, und daß der Geiſt darüber schwebt, als das Uebernatürliche über der Natur; doch nicht so, wie der Geiſt› Gottes über den Wassern 1. Mos. 1, 2. , nicht über Stoff und Materie zugleich sondern Form, und Leben, im Menschen ist der Geiſt aus Gott durch denselbigen Geiſt mit der ursprünglich natürlichen Seele, welche ohne den Geist gedacht nur Naturleben aussagt (Luk. 7, 23. Apftg. 15, 26.), wesentlich so vereinigt, daß er selbst zum Zeichen dieser Einheit im ersten Adam den Namen der Seele annimmt, &vxỳ Cãoɑ, und dieſen Namen auch in der weiteren Entwickelung behauptet, bis er in der Vollendung auch an dem Menschen als der Geist aus Gott, vεдμа (woдоLoν, vollkömmlich sich offenbaret, 1. Kor. 15, 45. als der Geist, welcher den Menschen zum Ebenbilde Gottes - erhebt. 1. Mos. 1, 27. - 2, 7. Denn Gott ist selbst Geist, aveõua ó deós, Joh. 4, 24. und hat ſich auch in bestimmter Hypostase als Geiſt geöffenbaret: 2. Kor. 13, 13.; als solcher ist er über dem Menschen.
+
+Jene Einheit des Geistes mit der Seele im Menschen ist auch darin ausgedrückt, daß die Seele mit dem Geiſte zuſammen einen einigen Gegenſaz zum Leibe bildet, Matth. 10, 28„während der Leib mit der Seele in Verbindung ist, aber nicht in Einheit, vielmehr erweiset sich diese Verbindung nach allen Beziehungen als auflöslich: wer fühlte nicht diese Auflöslichkeit? Dennoch wird eben dieser zerbrechliche Leib, als die Behausung des Geistes aus Gott, ein Tempel Gottes genannt 1. Kor. 6, 19. 20. Phil. 1, 20
+
+[p. 10] Und die Leiber der Christen werden die Glieder Christi genannt, 1. Kor. 6, 15. wie denn die Gemeinde des Herrn, Seine Kirche, als Sein Leib, und Er Selbst als das Haupt dieses Leibes bezeichnet wird, Col. 1, 18.
+
+Eph. 1, 23.
+
+weil Er mit Seinem Heiligen Geiſte, ja mit Seinem verklärten Leibe und Blute in der Gemeinde, wie die Seele des Menschen im Leibe, wohnen und regieren will. So hoch ist der Leib gestellt zu einem Vorzeichen, daß er nicht so schlecht und vergänglich bleiben soll, als er zunächſt erſcheint.
+
+Aber zunächst müſſen wir die Momente des menschlichen Begriffes als Bestandtheile des Menschen auseinander halten, und in ihrer Scheidung, oder wenigstens in ihrem Unterſchiede von einander betrachten.
+
+Fragen wir nun, wie und woher ste dem
+
+Menschen zukommen, so giebt die erste Betrachtung alsbald so viel zu vernehmen, daß Leib und Seele der Natur angehören, aus der Natur kommen, der Leib aus dem Fleische und die Seele als das Leben aus dem Blute, von einem Menschen zum andern. Beides beruht auf der natürlichen Fortpflanzung. 1. Mos. 1, 28. Apoftg. 17, 26. Die Seele ist das Leben oder das Blut: sie gehört der Natur ſo15, 44. Sie ist wohl an als der Leib: 4vxỳ. 1. Kor. 2, 14. das Blut des Fleiſches. 1. Kor. 15, 50. Im Blute ist des Leibes Leben (3. Mos. 17, 11.), und das Leben ist die Seele. So kommt Leib und Seele, Fleisch und Blut, Gebein und Leben auf natürlichem Wege dem Menschen vom Menschen. Aber der Geist kommt unmittelbar aus Gott: es ist der Odem Gottes, welcher das lebendige Geschöpf zum Menschen macht und für die Ewigkeit zeichnet. Pred. 12, 7. Auch Adam ist nach Leib und Seele aus den Elementen der Naturschöpfung gebildet, hingegen nach dem Geiste durch Inspiration von Gott geschaffen. 1. Mos. 2, 7. Darum wissen wir auch, daß der Geist des Menschen wieder aufwärts fähret, und der Odem der Thierwelt unterwärts. Preb. 3, 21.
+
+Darum ist auch der Geist das Pfand oder das Angeld geheißen, appaßæv, das uns gegeben ist zur Versicherung der Zukunft. 2. Kor. 5, 5. Somit ist der Geist selbst der Beweis für die Unsterblichkeit der Seele, die er sich angeeignet hat.
+
+Aber zunächst tritt eben dieſem Menschenleben, in welchem wir Leib, Seele und Geist zusammen finden, - der Tod entgegen. →→→→ Der Tod ist die Trennung der Seele von dem Leibe, während Seele und Geist sich nicht trennen, indem vielmehr beide, Natürliches und Uebernatürliches, so Eins geworden sind, daß die Menschen Seele der Geist des Menschen und sein Geist seine Seele heißt. Matth. 10, 28. Der Tod zeugt von einem Riffe, welcher den Verband des Leibes mit der Seele betroffen hat. Wir kennen und fühlen die Ursache in uns selbst. Der Tod ist der Sünde Sold, Röm. 6, 23. und die Sünde ist der Stachel des Todes. 1. Kor. 15, 56. Sind wir nun allzumal Sünder, ſo ſind wir auch allzumal dem Tode unterworfen, nämlich der Trennung des Leibes von der Seele, der Scheidung der Seele von dem alten Adamsleibe, sie werde an uns vollzogen durch Verweſung oder durch plögliche Verwandlung. Aber der Tod, welcher der Sünde Sold ist, trifft dennoch auch die Seele, denn die Trennung des Leibes von der Seele ist für beide Glieder eine --- Trennung. Ueberdieß besteht der Tod, als Sold der Sünde, nicht blos in der Trennung des Leibes von der Seele, er besteht vielmehr hauptsächlich in der Trennung der Seele von Gott und von dem ewigen Leben in Gott. Aus dieser Seelen-Trennung von Gott folgt erst der natürliche oder leibs liche Tod: sie geht auch dieſem voraus, denn der Entfernung von Gott sind wir schon vor der Entfernung des Leibes von der Seele durch die Sünde unterworfen.
+
+Der Unterschied ist nur, daß der leibliche Tod, die Trennung zwischen Leib und Seele, als zeitlich ein Ende hat, hingegen der Tod der Seele, nämlich die Trennung der Seele von Gott und von dem ewigen Leben in Gott, kein Ende hat, außer durch die Erlösung in Christo, das heißt durch [p. 12] die Gemeinschaft Gottes mit dem Menschen zur Herstellung der Gemeinschaft des Menschen mit Gott.
+
+So wissen denn Alle, welche erlöset sind, daß der Tod zwar den Leib von der Seele auf einige Zeit, aber nicht die Seele von Gott zu trennen vermag, ſondern vielmehr dem Herrn näher bringt, weil im Tode alle Sünde mit stirbt und abgewaschen wird im Blute des Lammes. Off. 7, 14. Aber ob wir auch der Erlösung von dem Tode gewiß sind, so ist uns doch das Wie nicht in gleichem Maaße erſchloſſen; und darum verlanget uns nicht wenig, hinüber zu ſehen, wo so viele Seelen der Erlöseten, die uns vor aufgegangen sind, versammelt werden, da wir, will's Gott, mit Andern auch bald hernacher wandern. Darum haben von jeher so viele Christen vor ihrem eigenen Tode den Zustand der Seele nach dem Tode, insbesondere der erlöseten, zu erkunden gesucht. Wir folgen ihnen; aber da wir wissen, daß die Erlösung für Alle geschehen ist, welche sie annehmen, so beschränkt sich unsere Frage auf diese.
+
+In der Zeit liegt uns der Zustand der Vollendung nach der Auferstehung am entferntesten. In dieser Beziehung beſchäftigt uns zunächst der Zustand der Seele von der Stunde des Todes an bis zu der Stunde, da des Menschen Sohn wieder kommen wird, Matth. 24, 44. 25, 13., und alle, die in den Gräbern sind, werden seine Stimme hören, und werden hervorgehen, die da Gutes gethan haben, zur Auferstehung des Lebens, die aber
+
+Uebels gethan haben, zur Auferstehung des Gerichts. 28. 29.
+
+Joh. 5,
+
+Dieser Mittelzustand ist von dem Zustande der Vollendung wohl zu unterscheiden. Es liegt schon in dem Begriffe, daß die einzelne Seele, als einzelne, nicht vollendet werden kann, ohne den Gesammtorganismus, dessen Glied sie ist. leidet, so leiden alle.
+
+1. Kor. 12, 26.
+
+So ein Glied
+
+Zur Vollendung des einzelnen Menschen gehört vielmehr dieses, daß auch das Ganze vollendet werde. Bis dahin dauert ein für uns nach unserer [p. 13] irdischen Zeitrechnung langer Mittel- und Zwischen - Zustand, von welchem uns die heilige Schrift weniger sagt, als von dem legten, wiewohl es auch über jenen nicht an einzelnen Fingerzeigen fehlt.
+
+So viel lehret die heilige Schrift als gewiß, storbenen nach ihren Leibern als Todte, vexpo, 1. Kor. 15, 35. 42.
+
+daß die Ver-
+
+Off. 14, 13.
+
+als Begrabene, οἱ ἐν τοῖς μνημείοις, Joh. 5, 28. hingegen nach dem unsterblichen Kerne des Leibes als Seelen, ψυχαί, Off. 6, 9. 21, 4. als Geister, πνεύματα, 1. Petr. 3, 19. Hebr. 12, 23. hiermit als fortlebend betrachtet werden. Von denselbigen Seelen ist uns auch zuvor gesagt, daß ſie nach dem Tode "/ außer dem Leibe wallen, und daheim bei dem Herrn sein werden. " 2. Kor. 5, 8. Sie werden entkleidet, das heißt von ihrem verweslichen Leibe getrennt werden, éxdócaçdai, 2. Kor. 5, 4. , aber nicht umi nackt und blos zu bleiben, youvoi, 2. Kor. 5, 3. Off. 16, 15. , ſondern um wieder bekleidet und eingekleidet zu werden, vôvoάuevo, 2. Kor. 5, 3. und zwar eine jegliche mit einem weißen 7, 13.) in Geduld bis zur
+
+Kleide, otoλh λevxý, (Off. 6, 11.
+
+Vollendung, sofern sie nicht zu den Ueberbleibenden gehören, welche werden überkleidet werden, krevdбoasdaι. 2. Kor. 5, 2. Wer überwindet, der soll mit weißen Kleidern angethan werden. Off. 3, 5.4, 4.7, 9.
+
+So ist uns auch gesagt, daß die Erlöseten, so entschlafen sind, (1. Teff. 4, 13.) in Christo entschlafen sind, of xoyunDévτes Ev Xpioτ. (1. Kor. 15, 18.), und daß die Todten, die in dem Herrn sterben, coi svexpolhoí èvi xúpíą ánodvýoxovtes, ſelig [p. 14] ruhen werden von ihrer Arbeit von nun an, dvanaúsovran éx τῶν κύπων αυτών. D. 14, 13. Es kann auch nicht allein die Ruhe des Leibes im Grabe gemeint sein, wenn der Prophet schreibt: „Die richtig vor sich ge„wandelt haben, die kommen zum Frieden, und ruhen in ihren „Kammern," Jes. 57, 2, und wenn der Apostel schreibt: „Darum ist noch eine Ruhe vorhanden dem Volke Gottes: denn wer zu „seiner Ruhe gekommen ist, der ruhet auch von seinen Werken, -- κατέπαυσεν ἀπὸ τῶν ἔργων αὑτοῦ -- gleichwie Gott von — seinen."
+
+Hebr. 4, 9. 10.
+
+Wenn die Ruhe der Seele im Tode nach einem aus irdischen Verhältnissen entnommenen, mithin unvollkommenen Bilde dem Schlafe verglichen werden kann, so ist die Seelenthätigkeit in dieser Ruhe dem Traume gleich. „Wenn der Herr die Gefan"genen Zions erlösen wird, so werden wir sein wie die Träumenden. "
+
+Pf. 126, 1.
+
+So ruhen die Todten, aber in dem Herrn, welcher das Leben ist: sie schlafen, aber zu ihrer Erquickung nach langer Mühe und Arbeit, welche in dem vorausgegangenen Leben das Köstlichste gewesen war, (Pf. 90, 10.) : ſie träumen, aber so, daß ihr Bewußtſein eben nur dem äußeren Verkehre mit den Lebenden entzogen ist.
+
+Darum gilt es insbesondere von denen, die ſchlafen, wenn uns gesagt wird, daß wir zugleich mit dem Herrn Jeſus Chriſtus, der für uns gestorben ist, leben sollen, wir wachen oder schlafen. 1. Theff. 5, 10.
+
+Ein volles, nach allen Richtungen zumal gleich waches Be1 wußtſein iſt dem Menschen überhaupt weder für dieses, noch für das zweite Leben beschieden, sondern erst für das dritte.
+
+Hienieden muß immer das Bewußtsein nach einer Seite zurücktreten und -- schlafen, um für die andere Raum zu gewinnen. Je mehr sich die Seele in Gott versenkt, je tiefer sie sich in die Andacht vertieft, je höher sie sich in der Erstaſe erhebt, um so unzugänglicher verschließt sie sich für die Außenwelt, für alles Andere, ja für das eigene Bewußtsein: in der höchsten Spannung vergißt der Mensch sich selbst, und in der Speculation tritt die Reflerion zurück. Auch wenn wir irgend einem äußeren Berufe treu eifrig nachgehen, je schärfer derselbe das Bewußtsein für sich in Anspruch nimmt, desto, mehr verschließt sich dieses allem Andern.
+
+Darum, wie wir auch wach sind, wir schlafen dennoch mitten am Tage fortwährend bald nach dieser, bald nach jener, ja nach mehr als einer Seite. Ist doch alles Vergessen ein Schlafen, und jede Erinnerung ein Erwachen aus dem Schlafe. Ja alles, was wir als gedacht im Gedächtnisse, aber nicht lebendig zur Stelle haben, ist einstweilen dem Schlafe befohlen. Wie aber das Wachen nie ohne Schlaf iſt, ſo ist auch der Schlaf nicht ohne alle wachende Seelenthätigkeit. Durch diese fortgehende Thätigkeit unterscheidet sich der Schlaf von dem Tode. Von dieser Thätigkeit zeugt besonders der Traum, welcher - um so vollkommener ist, je mehr er mit dem Erwachen verschwindet, je weniger er in diese Tageswelt herüberreicht.
+
+Der Traum ist eben nichts anders, als die Thätigkeit der Seele außerhalb der Schranken des Raumes und der Zeit. Und wie zu voller, wacher Aufmerkſamkeit für irgend einen Gegenstand mehr oder zu jeder weniger ein augenblickliches Vergessen alles Andern, Virtuosität eine Selbstbeschränkung, eine - Einseitigkeit hienieden erforderlich ist, so scheint auch umgekehrt zu einem erquicklichen und stärkenden Schlafe nichts so sehr zu gehören, als die Weide der Seele in ihrer Sphäre. Es gilt auch in dieser Beziehung, daß wir leben, wir wachen oder schlafen. Es ist wichtig, die geschilderte Einseitigkeit alles irdischen Wachens und Schlafens zur lebendigen Vorstellung zu bringen, denn nach eben diesen Analogien ist auch das Ruhen, Schlafen und Träumen, welches den Seelen der Verstorbenen zuges) schrieben wird, zu erklären. Sie leben und sind selig, sie freuen sich in dem Herrn, und sind sich dessen bewußt: aber dieses Des wußtsein ist nicht nach allen Seiten gleichmäßig geöffnet, wiewohl die Anschauung des Herrn, deren sie gewürdigt sind, nicht allein. von Allem Andern abzieht, sondern auch wieder für Alles Andere die Augen schärft.
+
+[p. 16] Fragen wir näher, worin eigentlich der Mangel bestehe an dem Zustande erster Seelenseligkeit, so ergiebt sich ein Doppeltes. 1) Der Seele in ihrem neuen, weißen Kleide fehlt noch das alte Kleid, der vorige Erdenleib, welcher wesentlich zur Integrität des ganzen Menschen´gehört, derselbe Leib, der uns hier so oft zur Bürde wird, weil er mit der Seele zwar verbunden, aber noch nicht eins ist, noch nicht verklärt ist. 2) Der einzelnen Seele fehlt nicht minder die Gemeinschaft Aller, die zusammen gehören, als ein einiges Ganzes. Hiermit ist schon gesagt, worin die Vollendung bestehen wird, nämlich 1) in der Redintegration des Menschen als eines einzelnen Ganzen, als des Mikrokosmos, 2) in der Vollendung des Ganzen überhaupt, oder des Gesammtorganismus, deſſen
+
+Glied der einzelne Mensch ist, in der Vollendung des Makrofosmos. Daraus folgt weiter, daß das Ganze dem Einzelnen voraus gehen muß, daß der Makrokosmos den Mikrokosmos in sich schließt und mit sich führt, oder mit andern Worten, daß erst alle Glieder vollzählig zusammen sein müſſen, ehe Himmel und Erde erneuert werden, womit auch der Leib des Einzelnen nicht allein wieder gegeben, sondern auch erneuert und verklärt wird, wie wohl solches Alles zumal in einem Augenblick plöglich geschehen mith, ἐν ἀτόμῳ, 1. Kor. 15, 52.
+
+ἐν ριπῇ ὀφθαλμοῦ,
+
+ἐν τῇ ἐσχάτη σάλπιγγι.
+
+Ohne die ganze Menschheit ist auch kein einziger Mensch ohne Hinzutritt eines jeden einzelnen Gliedes ist auch dieGesammtheit nicht vollendet. So kann auch ein Theil der Geganz
+
+ſammtgemeinde, nämlich die obere Gemeinde, nicht vollendet werden ohne die untere Gemeinde, als den andern Theil. Darum stehet geschrieben, daß zwar den Heiligen, einem jeglichen, werde gegeben werden ein weißes Kleid; aber es wird auch denselbigen gesagt, daß sie noch eine kleine Zeit zu ruhen haben, dvanaúcovτai
+
+[p. 17] S
+
+ěti xpóvov μixpòv, bis vollends hinzukommen und erfüllt werden (λnpwdwo) ihre Mitknechte und Brüder:
+
+Off. 6, 11. denn es sollen nicht etliche herrschen ohne die anderen, 1. Kor. 4, 8. ſondern die voraufgegangenen müſſen auf ihre Brüder warten und sollen nicht ohne uns vollendet werden,
+
+Hebr. 11, 40. und die leben und überbleiben, werden wiederum denen nicht zuvorkommen, welche schlafen, sondern zugleich mit denselbigen hingerückt werden in den Wolken, dem Herrn entgegen, in die Luft, εἰς ἀπάντησιν τοῦ κυρίου εἰς ἀέρα, als per itbifden Gymere enthoben, und werden also bei dem Herrn sein allezeit. 1. Teff. 4, 15-17.
+
+Mit dieſer Lehre der heiligen Schrift ſtimmt auch das Gesicht überein, welches in dem apokryphischen Buche Esra, nämlich in dem zweiten oder vierien, (4, 35. folg.) aufgezeichnet stehet. Dort fragen die Seelen der Gerechten in ihren Kammern und sprechen: Wie lange soll ich hoffen? Und wann kommt die Frucht der Erndte unseres Lohnes?
+
+Und darauf erfolget die Antwort des Engels: „Wenn die Zahl des Saamens unter euch wird voll sein: denn Er hat die Welt in der Waage gewogen, und hat die Zeiten mit dem „Maaße gemessen, und hat sie mit der Zahl gezählet, und beweget noch reget nichts, bis das vorgesezte "Maaß voll werde. " Aber wenn das Maaß voll ist, so wird daselbst ferner bezeuget, dann müssen auch die Kammern der Seelen in der Hölle wieder geben, was ihnen befohlen und anvertraut ist, wie das Weib die Frucht nicht behalten kann, wenn die Zahl der neun Monate erfüllet ist.
+
+Erst wenn der Begriff der Menschheit erfüllet, und die Vielheit des Geschlechts zu seiner Allheit, die Menge zur Gesammtheit [p. 18] erhoben, wenn das Maaß voll und die Zahl geſchloſſen ſein wird, erst dann wird auch der Himmel und die Erde erneuert, Jef. 65, 17.66, 22. 2. Petr. 3, 13. Off. 21, 1. 5. und Jerusalem wird neu werden im Himmel. Off. 3, 12. - 21, 2. 10. Dann wird auch unser irdisch Fleisch nicht allein zu dem natürlichen Leibe wie zuvor, sondern der natürliche Leib zum geistigen Leibe erneuert werden.
+
+Darum glauben wir eine fünftige Auferstehung, welche mit dem Tode noch nicht geschehen ist, wiewohl von Anfang an, nämlich seit Hymenäus und Philetus, Etlicher Glauben dahin verkehret worden ist, als sei die Auferstehung schon geschehen. 2. Tim. 2, 17. 18.
+
+Darum glauben wir auch an die Auferstehung des Fleisches, und wir sagen: des Fleisches, um damit den dunkeln Erdenleib, den wir als Leichnam verlassen haben, das irdische Haus dieser Hütte, welches zerbrochen wird und verweset, desto deutlicher zu bezeichnen, und von dem weißen Kleide, welches der Seele als ihr Organ als aus ihr selbst sogleich nach dem Tode gegeben wird, desto bestimmter zu unterscheiden. Es ist mithin der Leib, welcher auferstehen wird, derselbige, welchen wir im Tode verlassen haben, derselbige, welcher als Leichnam begraben worden und demnächſt verweset ist, gleichwie der alte Adam mit der neuen Kreatur in Christo ein und derselbige und doch ein durch und durch veränderter Mensch ist (2. Kor. 5, 17.), oder wie der Leib des Mannes in voller Lebenskraft derselbige ist, den er mit auf die Welt gebracht hat.
+
+So kommen wir theils durch innere Erfahrung an unserem Herzen, theils durch sinnliche Erfahrung an unserm eigenen Leibe zu dem über die Sinnenwelt hinaus reichenden wahren Begriffe des Fleisches und der Identität desselben. Der Begriff der Identität schließt Veränderungen und Verwandlungen nicht aus, sondern ein; und der Begriff des Fleisches hat dessen Verklärung [p. 19] zur nothwendigen Vorausseßung, er ist mithin eben so fern von dem sogenannten Spiritualismus als von dem Kapernaitismus. Dagegen steht der sogenannte Spiritualismus, der wie der Rationalismus von seinem Gegentheile lucus a non lucendo genannt ist, dem Kapernaitismus näher, als er es ahndet, ja er bleibt so sehr wie dieser in der sinnlichen Vorstellung haften, daß er zu dem Begriffe des Fleiſches so wenig sich erheben kann, als zu dem Begriffe des Geistes, nach welchem er sich doch nennt. Es stehet ausdrücklich geschrieben, daß der Heiland Jesus Christus der Herr vom Himmel wiederkommen wird, in welchem unsere Wohnung πολιτεύμα ist, und daß er bei seiner Wiederkunft verklären wird unsern nichtigen, näher unsern elenden Erdenleib, „den Leib unserer Niedrigkeit“ (owµa tñs ´taneivóosws huv) , dergestalt daß er ähnlich werde dem Leibe seiner Herrlichkeit (oopar tis dótŋs abτou) , nach der Macht, womit Er kann alle Dinge ihm unterthänig machen.
+
+Phil. 3, 21. Denn wie Er Selbst Sich erniedriget hat (kraneίvooεv) zu unserem irdischen Leibe der Niedrigkeit, so soll durch Ihn dieser unser irdischer Leib erhöhet werden zu Seinem himmlischen Leibe. Phil. 2, 8.
+
+Und wie das ewige Wort Fleisch geworden, unser Fleiſch geworden ist,
+
+Joh. 1, 14. handgreifliches Fleisch, 1. Joh. 1, 1. so soll nun auch unser Fleiſch, das verweslich ist, ein Haus von Händen gemacht, anziehen die Unverweslichkeit, als einen Bau aus Gott. 1. Kor. 15, 51-53. 2. Kor. 5, 1.
+
+Es siehet geschrieben, als das Wort Gottes selbst, daß der Staub wieder zur Erde kommen muß, wie er geweſen iſt. 2*
+
+[p. 20] 1. Mos. 3, 19.
+
+Pred. 12, 7.
+
+Es stehet nicht minder geſchrieben, zur Wiederholung derselbigen Wahrheit, daß Fleisch und Blut nicht können das Reich Gottes ererben, noch das Verwesliche wird erben das Unverweslide, κληρονομῆσαι 1. Kor. 15, 50. Und von dieser Wahrheit geht auch nicht ein Titelchen ab, wie denn Daſſelbe geschrieben steht vom Sauffen und Fressen, denn die solches thun, werden das Reich Gottes auch nicht ererben. Gal. 5, 21. Es ist wohl zu merken, daß die Erbschaft ein Recht vorausseßt; ein Erbrecht auf das Reich Gottes kann Fleisch und Blut nicht in Anspruch nehmen. Und wo die Erbschaft aus Gnaden gegeben wird, da wird sie doch nur durch den Geiſt vermittelt, welcher aus Gott ist und zu Gott geht, Pred. 12, 7. durch welchen wir berufen werden zur Kindschaft, und mittelst dieser zur Erbschaft. Röm. 8, 14-17.
+
+Darum ist auch der Geist das Pfand und Angeld genannt zum Siege über den Tod durch Christum. 2. Kor. 5, 5. Darum ist es der Geist, welcher allein lebendig macht,
+
+Joh. 6, 63. welcher auch das Fleisch verklärt, das die Hörer des Wortes zu Kapernaum so fleischlich deuteten,
+
+Joh. 6, 52. wie Nikodemus die Wiedergeburt. Joh. 3, 4. Immer bleibt es aber dabei, daß Fleisch und Blut als solches nicht ererben können das Reich Gottes, noch das Verwesliche wird erben (xλŋpovoµɛï) das Unverwesliche, 1. Kor. 15, 50. sondern es muß zuvor verwesen, wie das Saamenkorn. 1. Kor. 15, 36, 37.
+
+[p. 21] Aber eben so gewiß ist es auch, daß eben dieses Verwesliche, welchem kein unmittelbares Erbrecht zusteht, anziehen muß die Unverweslichkeit, und dieses Sterbliche muß anziehen (¿vòóσaodai) die Unsterblichkeit. 1. Kor. 15, 51–53.
+
+In demselben Sinne schreibt der Apostel: „So nun Christus „in euch ist, so ist der Leib zwar todt um der Sünde willen, „der Geist aber ist das Leben um der Gerechtigkeit willen. „So nun der Geist des, der Jesum von den Todten auferwecket „hat, in euch wohnet, so wird auch Derselbige, der Christum von „den Todten auferwecket hat, euere sterblichen Leiber leben"1 „dig machen um deswillen, daß Sein Geist in euch wohnet. „Darum auch wir, die wir haben des Geistes Erstlinge, sehnen „uns auch bei uns selbst nach der Kindschaft, und warten auf "unseres Leibes Erlösung. " Röm. 8, 10-23. Allein des Leibes Erlösung ist darum nicht das Erste. Das Erste ist vielmehr die Erlösung der Seele von dem Leibe dieses Lobes, ἔκ τοῦ σώματος τοῦ θανάτου τούτου. Röm. 7, 24. Das Lezte ist die Erlösung des Leibes selbst vom Tode, anoλύτρωσις τοῦ σώματος ἡμῶν, Röm. 8, 23. denn der lezte Feind, der aufgehoben wird, ist der Tod. 1. Kor. 15, 26.
+
+Zwischen dem Ersten und dem Lezten, zwischen der Erlösung der Seele von dem Leibe dieses Todes und der Erlösung des Leibes von dem Tode selbst, liegen mehrere Stadien in geheimnißreicher Stufenfolge, bis daß Alles vollendet sein wird. So ist uns die Wiederkunft Chriſti verheißen, mit allen Engeln, Matth. 25, 31. und mit der Posaune Gottes. 1. Theff. 4, 16.
+
+22. So ist auch eine successive Auferstehung verheißen, da alle in Chriſto lebendig gemacht werden, ein jeglicher in seiner Ordnung, -- ἐν Der Erstling ―― ἀπαρχή, primitiae τῷ ἰδίῳ τάγματι. ― ist Christus. Darnach die Auferstehung derer, die Chriſto angehören, wenn er kommen wird: darnach das Ende, wenn Er das Reich Gott und dem Vater überantworten, wenn er aufheben wird alle Herrschaft und alle Obrigkeit und alle Gewalt. 1. Kor. 15, 22. - 24. So ist uns nicht minder verkündigt das Ende der Welt, da die Himmel zergehen werden mit großem Krachen, und die Elemente werden vor Hize zerschmelzen, und die Erde, und die Werke, die darinnen sind, werden verbrennen. 2. Petr. 3, 10. Es ist uns aber auch ein neuer Himmel und eine neue Erde verheißen, 2. Petr. 3, 13.
+
+So gehet die Weiſsagung von der lezten Zukunft in geheimnißvollen Bildern durch das neue Testament. Und wie nicht einerlei Fleisch, und auch nicht einerlei Leib ist, so ist auch die lezte Verleiblichung der Seelen und die Verklärung alles Fleiſches nicht auf ein Stadium beschränkt, 1. Kor. 15, 39-42. ſondern gehet von einer Klarheit zur andern 2. For, 3, 18.
+
+bis die Vollendung kommt.
+
+Und wenn wir fragen: Wie lange? und stille werden, wie uns befohlen ist, Jes. 30, 15., so vernehmen wir tief innerlich im Herzen das inhaltreiche Wort, welches uns der Apostel Petrus Angesichts dieser Zukunft zuruft: „Eins aber sei euch unverhalten, daß " Ein Tag vor dem Herrn ist, wie Tausend Jahr, und Tauſend „Jahr wie Ein Tag. " Die kürzeste Zeit enthält den Keim aller Zeit in sich vor dem Herrn, - das ist eine reiche Wahrheit; und [p. 23] Tausend Jahre sind wieder wie Ein Tag gegenüber der Ewigkeit, das ist die andere inhaltreiche Wahrheit
+
+2. Petr. 3, 8. Uns dünken tausend Jahr lang, die vor dem Herrn wie Ein Tag sind; und Ein Tag dünkt uns wieder so ganz kurz, der doch vor dem Herrn wie ein Jahrtauſend ist. Eins ist so wichtig als das Andere. Deffelbigen gleichen sind nun auch die, die daheim bei dem Herrn sind, desjenigen Zeitmaaßes überhoben, das uns noch drückt, das uns die Zeit bald lang bald kurz macht.
+
+Und darum sagt auch Paulus von ihnen, daß sie ruhig schlafen, weil sie Genüge haben in Hoffnung und Geduld, und will uns auch nicht verhalten, daß sie leben, und denen nicht nachstehen werden, welche leben und überbleiben, wenn der Herr kommt. 1. Theff. 4. Ihnen gewährt ein Augenblick die Fülle, denn ſie ſind daheim bei dem Herrn, und ihnen wird auch die längste Zeit bis zur Vollendung eine kleine 3eit, — χρόνον μικρόν. Offenb. 6, 11.
+
+Diese lezte Zukunft bildet auch den Schluß aller Offenbarung: davon händelt auch die Offenbarung St. Johannis beſonders vom Kapitel 19. an bis zum Schlusse. Und so heißt es bis zuleht: „Ich komme bald. Amen: ja, komme, Herr Jesu! "
+
+## II.
+
+Die ersten Christen schmeckten in ihrer ersten Liebe die Kräfte der zukünftigen Welt so kräftig, daß sie die Wiederkunft des Herrn und die Vollendung seines Reiches bald erwarteten. Die Christo nachgefolgt waren in der Wiedergeburt, hofften nun in aller Kürze auf die Erweiſung dieser Palingeneſte, Matth. 19, 28. und auf die Zeit der Erquickung von dem Angesichte des Herrn -
+
+[p. 24] καιροὶ ἀναψύξεως ἀπὸ προσώπου τοῦ Κυρίου, tempora refrigerii a conspectu Domini — und auf die Wiederbringung aller Dinge, ἀποdie zuvor geredet sind von Gott durch die Propheten,
+
+κατάστασις πάντων.
+
+Apostelg. 3, 19. 21. Sie beteten mit Zuversicht: Amen! Ja, Herr, komme bald! Darauf bezieht sich auch zunächst der Gruß des Apostels Paulus, womit er seine erste Epistel an die Thessalonicher noch zuleßt begleitet, wenn er schreibt: „Und euer Geist ganz, ὁλόκληρον ὑμῶν τὸ πρεῦμα, integer spiritus vester, sammt der Seele und Leibe καὶ ἡ ψυχὴ καὶ τὸ σῶμα — musse behalten werben unfträflich auf die Zukunft unſers Herrn Jesu Chriſti — napovcía. — 1. Theff. 5, 23. Und die so warteten, als wäre die Parusie schon vor der Thüre, haben sie sich etwa geirrt?
+
+Der Apostel sagt gerade in dieſer
+
+Beziehung: „Tausend Jahre vor dem Herrn sind wie Ein Tag.“ Und er fügt hinzu: „Der Herr verziehet nicht die Verheißung, wie es Etliche für einen Verzug achten: sondern Er hat Geduld mit uns. 2. Petr. 3, 8. 9.
+
+Aus dieſer Nähe der Hoffnung erklärt es sich, daß in der ersten Zeit der Kirche, in der ersten Liebe der Zwischenzustand der Seelen vom Tode an bis zur Wiederkunft Christi nicht zu einer abgesonderten Betrachtung gezogen worden ist; denn die Christen ſehneten sich in ihrer Hütte, nicht entkleidet, ſondern überkleidet zu werden: sie hofften überzubleiben und die Verwandelung zu erleben.
+
+Später mußte die Zwiſchenſtation als zeitlich langdauernd die volle Aufmerksamkeit der nüchternen Reflerion in Anspruch nehmen. Schon Frenäus, der Schüler des Polycarpus, des Schülers des Johannes, handelte ausdrücklich und besonders von der Unsterblichkeit der menschlichen Seele.
+
+Später begegnen wir den ausführlichen Erörterungen des Origenes, Tertullianus, Lactantius und Augustinus. Denn ob auch Gott allein Unsterblichkeit hat, aus Ihm Selbst, 1. Tim. 6, 16., so ist sie doch von Ihm Seinem
+
+[p. 25] Ebenbilde mitgetheilt. Diese Unsterblichkeit des ganzen Menschen ist durch den Tod des Leibes gefährdet, gestört, unterbrochen, wenn auch nicht ´aufgehoben, zugleich aber auch durch die FortDieſe Unsterbdauer der Seele in ihrer Kontinuität erhalten. lichkeit der Seele bezieht sich wesentlich auf den Zwiſchenzuſtand bis zur Auferstehung. Der Zwischenzustand mußte den Gläubigen um ſo näher treten, je mehr sich die Vollendung zu entfernen ſchien; aber er wurde darum doch nicht in der allgemeinen Vorstellung der Christen getrübt; denn er ward erleuchtet einerseits von dem Glauben, der ihm voranging, andrerseits von der lezten Herrlichkeit, die ihm folgen sollte. Die Kirche hat auch unausgesezt daran festgehalten, daß denen, welche in dem Herrn sterben, alsbald die Nähe des Herrn und Sein Antlig leuchten werde. Leuchtet es doch selbst Vielen schon in den lezten Sterbestunden! Es stehet auch geschrieben: Wahrlich, ich sage dir, heute wirst du mit mir im Paradiese sein! Luk. 23, 43. Der Arme starb und ward getragen von den Engeln in Abraham's Schoos. Luk. 16, 22. Ich habe Luft abzuſcheiden und bei Christo zu sein, welches auch viel besser wäre.
+
+Phil. 1, 23. Oft treten indessen auch in der Schrift die beiden Stufen oder Stationen der Zukunft ſo zuſammen, daß sie beide zuſammen als das Jenseits nur Einen Gegensaß zum Diesſeits bilden. So sagt Paulus, „Wir sehen jezt durch einen Spiegel in einem dunkeln "Wort: dann aber von Angesicht zu Angesichte. Jetzt erkenne „ich es Stückweise: dann aber werde ich es erkennen, wie ich „erkannt bin. "
+
+1. Kor. 13, 12m Das Jetzt, apri, ist der diesseitige Zustand: das „Dann aber,“ Tóte dè, ist das Jenseits. So weit ist alles klar. Aber welches
+
+[p. 26] Jenseits ist unter dem „Dann“ gemeint ?. Es ist wohl zu merken, daß das Dann im Terte doppelt ist, wie auch das Jenseits oder die Zukunft doppelt ist. Darum könnte wohl das erste Dann im › Terte — „dann aber von Angesicht zu Angesicht“ — auf den ersten Abschnitt der Zukunft, auf den Zwischenzustand, der unmittelbar dem jeßigen folgt, drápti, bezogen werden; und das zweite Dann im Terte „dann aber werde ich es erkennen, wie ich erkannt bin" - könnte auf den zweiten und leßten Abschnitt der Zukunft, auf die Ewigkeit bezogen werden. - Allein bestimmter ist diese Unterscheidung im Terte selbst nicht angedeutet; der Tert hält sich überhaupt nicht an den Unterschied zwischen den beiden Stationen der Zukunft, sondern an den Unterschied dieſes Lebens gegenüber dem zukünftigen.
+
+In gleicher Weise schreibt Johannes: „Es ist noch nicht er"schienen, was wir sein werden. Wir wissen aber, wenn es er„ſcheinen wird, làv pavepwdñ, daß wir ihm gleich sein werden, uoto, similes, denn wir werden Ihn sehen, wie Er ist." 1. Joh. 3, 2. Hiermit ist allerdings auf die lezte Zukunft verwiesen, da wir werden ähnlich werden, ouμuoppor, configurati, dem verklärten Leibe des Sohnes, der uns in der Niedrigkeit gleich geworden ist, damit wir ihm gleich würden in der Herrlichkeit. Phil. 3, 21. Aber es ist auch die nächste Zukunft nach dem Tode nicht schlechterdings ausgeschlossen.
+
+So betet Paulus für Onesimus um Barmherzigkeit an jenem Tage, èxɛívy Яuépa, 2. Tim. 1, 18, für sich um Aushülfe zu des Herrn himmliſchem Reiche (2. Tim. 4, 18. ) .
+
+So bezeuget er im Vorgefühl der Ewigkeit: „ich habe einen guten Kampf gekämpt, ich habe den Lauf vollendet, ich habe Glauben gehalten; „hinfort ist mir beigelegt die Krone der Gerechtigkeit, welche mir „der Herr an jenem Tage, der gerechte Richter, geben wird, nicht [p. 27] „aber mir allein, sondern auch Allen, die seine Erscheinung lieb „habent, πᾶσι τοῖς ἠγαπηκόσι τὴν ἐπιφάνειαν αυτοῦ. 2. Tim. 4, 7. 8.
+
+Hier ist überall nur der Unterschied zwischen der Gegenwart und der Zukunft in den Vordergrund gestellt; und jener Tag erhält dadurch die doppelte Bedeutung, daß er zunächst den Tag des Ueberganges in jene Welt für jede einzelne Seele, zulegt aber auch den jüngsten Tag für alle Welt bezeichnet. In gleicher Weise unterscheiden wir eine streitende und eine triumphirende Kirche, wie Aegypten und das gelobte Land, wie Babylon und Jeruſalem.
+
+Wo bleibt aber der Uebergang und Zwischenzustand? Es ist wohl zu merken, daß auch in irdischen Verhältniſſen der Krieg mit dem Siege endet, daß dem Siege der Friede folgt, und dann kommt der Triumph als die Krone. So endet das Leben mit dem Tode, welcher durch den Glauben auch ein Sieg ist, dem der Friede folgt, bis daß Alle versammelt sind zum Triumphe. … . So liegen zwiſchen Aegypten und dem gelobten Lande Lagerſtätten mit Waſſerbrunnen und Palmbäumen: und zwiſchen den Arbeitstagen dér Woche und dem Sonntage der Auferstehung liegt unmittelbar vor dem letzteren ein Sabbath der Ruhe, ein Rüſttag, ein heiliger Abend. Wie in der Schrift, so ist auch in der Kirche zwar der Unterſchied zwischen beiden Stationen der Zukunft anerkannt, aber nicht überall besonders hervorgehoben.
+
+Um so mehr haben verſchiedene
+
+Vorstellungen von dem Zustande der Seelen vor der Auferstehung innerhalb der Kirche Raum gewinnen können: ſte ſind auch in Mißverständniſſe ausgeartet.: Dahin gehören die Frrlehren der Thnetopsychiten und der Psychopannychiten. Solcher Heterodorie ist auch Pabst Johann: XXII. angeklagt worden, weil er bestritt, ene sei hen ſubdaß den Seelen der Verstorb schon bot der. Solc Auferstehung Anblick Gottes visio Dei jektiven Meinungen entgegen, wurde eben zur Zeit Pabſt Johann's XXII. in dem zur Union der römischen und griechischen
+
+Kirche versammelten Florentinischen Concilium (1439) als der ges [p. 28] meinſame Chriſtenglaube dieſes anerkannt, daß die begnadigten
+
+Seelen vor der Auferstehung nach der Schrift mit! dem weißen Kleide angethan werden, und daß sie in diesem auch zum Anblicke Gottes kommen, nur nicht so vollkommen von Angesicht zu Angesicht, als mit und nach der Auferstehung.
+
+Außerdem ist in der römischen Kirche der Unterschied zwiſchen beiden Stationen der Zukunft durch die Lehre von einer Seelenreinigung nach dem Tode einigermaßen wach erhalten, wiewohl das Purgatorium nach eben dieſer vielfach getrübten römiſchen Kirchenlehre nicht nothwendig bis zur Auferstehung dauert.
+
+1. In der evangelischen Kirche sind es hauptsächlich die Glaubenslieder, in welchen sich die Vorstellungen gläubiger Chriſten von den beiden Stationen der Zukunft ausgeprägt haben.
+
+Es kann für unsere Zeiten als eine beſonders wichtige Aufgabe angeſehen werden, auch hierüber aus einem alten, ächten Gesangbuche, immer an der Hand der Schrift, Belehrung zu schöpfen, und zu dem Ende in das christliche Gemeindebewußtsein einzugehen, welches sich nirgends mehr als in Liedern ausgedrückt hat.
+
+An solchen singenden Glaubens -Zeugnissen wird es sich auch näher bestätigen, wie dem individuellen Bewußtsein der Unterschied der nächsten Zukunft gegen die Vollendung bald mehr zurück-, bald beſtimmter hervortritt. So oft das Verlangen nach der Erlösung von dem Leibe dieſes Todes, so oft die Sehnsucht abzuſcheiden, und daheim bei dem Herrn zu sein überwiegend vorwaltet, so oft wird der Gegenſaß der Oberwelt gegen diese Welt den Unterschied in jener zurückſtellen; denn bei allem Unterschiede jenseits des Grabes hält sich doch die gläubige Zuversicht daran fest, daß die Todten, welche in dem Herrn sterben, zu der ersehnten Erlösung, zu der herrlichen Freiheit der Kinder Gottes von nun an gelangen. Wenn dagegen das Verlangen nach der Erlösung Aller oder nach der Auferstehung des Leibes, wenn die Aussicht auf die lezte Krone der Vollendung und das ewige Leben die Seele im Glauben ergreift, [p. 29] dann wird die Hoffnung über alle Jahrtausende des Zwiſchenzustandes als über Einen Tag hinwegfliegen und aussehen auf den Tag der Vollendung. Einzelne Glaubenslieder können Erläuterung und Bestätigung hierzu geben. Im ersten Falle heißt es: Ein Tag ist wie Tausend Jahre vor dem Herrn! denn es ist die Fülle und Genüge gegeben; in dem zweiten Falle heißt es:
+
+Tausend Jahre sind vor dem Herrn wie Ein Tag! denn alle Jahrtausende des ersten und zweiten Lebens sind nur Vorbereitungen zu dem leßten Tage, welcher kommen wird.
+
+Am meisten tritt der Unterschied beider Zustände des Jenseits in den der Auferstehung und dem jüngsten Gerichte gewidmeten Liedern hervor. Und hier leuchtet wieder voran das Lied: "Jesus meine Zuversicht 2c.," denn es jubelt fröhlich und ernst der Auferstehung des Fleisches entgegen, "Was die lange Todes - Nacht
+
+Mir auch für Gedanken macht. " Es athmet die gute Zuversicht, "Daß mich auch kein Todes-Dann
+
+Ewig von ihm trennen fann. " Es finget von der Verweſung und von der Erweckung des Leichnams: Ich bin Fleisch und muß daher Auch einmal zur Asche werden. Das erkenn' ich: doch wird Er Mich erwecken aus der Erden, Daß ich in der Herrlichkeit Um Ihn sein mög' alle Zeit. Und hundert Jahre später ruft es wieder: Auferstehn, ja auferstehn wirst du, Mein Staub, nach kurzer Ruh.
+
+Wie den Träumenden wird's dann uns sein: Mit Jesu gehn wir ein. In diesen Schwingungen tritt der Zwischenzustand ganz zurück. In gleicher Vorschau fingen wir mit Paulus Gerhard:
+
+[p. 30] „Ich weiß, daß mein Erlöser lebt 2c. " und getrösten uns der Auferstehung des Fleisches. Anders ist unsere Stellung zu den legten Dingen, wenn es aus der untern Gemeinde hinauf zur oberen ruft, als wäre dieſe schon vollendet: O, wie selig seid ihr doch, ihr Frommen, Die ihr durch den Tod zu Gott gekommen! Ihr seid entgangen Aller Noth, die uns noch hält gefangen.
+
+Und von Oben klingt und singt es dann wieder hernieder: Ja, höchst selig sind wir, liebe Brüder, Unser Mund ist voller Freudenlieder: Doch was wir schauen, Wird Gott euch gar bald auch anvertrauen. In solchen Weisen giebt der selige Friede in dem Zwiſchenzustande solche Genüge, daß nichts zu mangeln scheint.
+
+Derselben
+
+Anschauungsweise gehört es an, wenn eine leidtragende Seele zu ihrem Troste zu der voraufgegangenen Seele eines Kindes aufsicht und finget: Du bist zwar mein und bleibest mein, Wer will mir anders sagen? Doch bist du nicht nur mein allein. " und wenn sie dann immer freudiger und gewisser bekennet: Er ſieht und hört der Engel Mund, Sein Mündlein hilft selbst fingen; Weiß alle Weisheit aus dem Grund Und red't von solchen Dingen, Die auch durch unsern Fleiß und Schweiß Wir, weil wir sind auf Erden, Nicht ausstudiren werden. So ruft es von Unten nach Oben; und dann ruft es auch wieder aus der oberen Gemeinde hernieder: Mein Herzensvater, weint ihr noch, Und ihr, die mich geboren?
+
+[p. 31] Was grämt ihr euch? Was macht ihr doch? Ich bin ja unverloren. Ach! sollt ihr sehen, wie mir's geht,
+
+Und wie mich der so hoch erhöht, Der Selbst so hoch erhoben, Ich weiß, ihr würdet anders thun, Und meiner Seelen füßes Ruh'n Mit euerm Munde loben. In allen diesen Glaubensvorstellungen leuchtet die Herrlichkeit der Vollendung, welche bald kommt, in den füßen Seelenfrieden des mittleren Zustandes schon so hell hinein, daß die Seelen die Kräfte der Auferstehung vorabschmecken, die ja selbst schon uns, wiewohl unter vielen Leiden, in guter Stunde anwehen.
+
+anderen Glaubensliedern tritt hingegen, sondernd und scheidend, die Reflerion hinzu, um dem Leibe im Grabe, und der In
+
+Seele im Schooße des Herrn, so wie nicht minder der Auferstehung, deren die untere und obere Gemeinde zumal warten, ihr Recht gleichmäßig zu erweisen. So fingen wir bei Begräbnissen: Die Seele ruht in Jesu Armen, Der Leib schläft sanft im Erden- Schooß. Nun kann sich Herz an Herz erwarmen, Die Ruh ist unaussprechlich groß, Die sie nach wenig Kampfes Stunden Bei ihrem holden Freund gefunden: Sie schwimmt im stillen Friedensmeer. Gott hat die Thränen abgewischet, Ihr Geist wird durch und durch erfrischet, Des Lammes Glanz ist um sie her. 2C. 2C. 20. 2C. 20.
+
+Der matte Leib ruht in der Erden, Er schläft, bis Jeſus ihn erweckt, Da wird der Staub zur Sonne werden, Den jezt die finstre Gruft bedeckt. Wie fröhlich wird er auferstehen!
+
+[p. 32] Wie wird man ihn vereinigt sehen Mit dem verklärten Seelen Geist! Da wird an den erlösten Beiden, An jenem Tag der Hochzeit Freuden, Des Lammes Herrlichkeit gepreist. Wir, die wir noch durch Mara reisen, Wir sehen uns im Glauben nach; Wir denken unter Thränenſpeiſen An jenes schöne Brautgemach, Allwo wir mit der Schaar der Frommen,
+
+Wer weiß wie bald! zuſammenkommen, Und bei dem Herrn ſein allezeit. Da wollen wir Ihn ewig sehen; Wie wohl, wie wohl wird uns geschehen! Herr Jesu, komm, mach' uns bereit! So fingen wir nicht minder an dem Sarge der liebsten Seelen aus dem Liede: „Ach, Gott ich muß in Traurigkeit mein Leben nun beschließen 2c. " zu unserem vollen Troste gegen solche Traurigkeit: Kein Angst und Trübsal, Weh und Noth Kann dich jezund verlegen,
+
+Im Himmel thut der fromme Gott Mit Liebe dich ergößen. Die Seele schaut mit Lust und Freud Die heilige Dreieinigkeit Mit allen Auserwählten.
+
+Der Höchst' hat dich in Seinem Schooß, Und wiſcht dir ab die Thränen, Erfüllet dich mit Freuden groß, Darnach wir uns noch sehnen. Du sizest bei der Engel Schaar, Lobfingest Gott, frei von Gefahr, Mit füßem Ton' und Schalle.
+
+[p. 33] Der Leib der ruht gar sanft und fein, Ohn' alle Qual und Sorgen, Vor allem Unglück, groß und klein, Liegt er darin verborgen. Kein Beinlein, ja, kein Stäubelein, Wird dir davon verloren sein, Die Engel dich bewahren.
+
+In kurzer Zeit wird Jesus Christ Dich wieder auferwecken, Und weil du auch sein Schäflein bist,
+
+Wird er die Hand ausstrecken :: Brooch Dich führen in sein Himmelreich, ' Da du mit Leib und Seel ' zugleich, Bei ihm sollst ewig leben.
+
+So fingen wir in dem Liede: „Nun laßt uns den Leib begraben 2c." Die Seele leht ohn' alle Klage,
+
+Der Leib schläft bis zum jüngsten Tage, ´´) An welchem Gott ihn verklären Und ew'ger Freud' wird gewähren. "
+
+So fingen wir auch in dem Liede: „Herr Jesu Christ, wahr? Mensch und Gott 2c." Wenn sich die Seel' vom Leibe trennt,.
+
+So nimm ste, Herr, in deine Händ ', Der Leib hab' in der Erd' sein Ruh, Bis nah't der jüngste Tag herzu.
+
+Aber von allen Seiten lassen sich dergleichen süße Heimwehlieder vernehmen, die schon so viele viele Tausend Seelen getröstet haben. Wir verweilen nur noch bei einem, bei einem einfachen und schlichten Sterbeliede. Es beginnt mit den Worten: Alle Menschen müssen sterben, Alles Fleisch vergeht wie Heu.
+
+[p. 34] Hier ist jede Zeile ein Bibelwort; denn es stehet geschrieben: „Es ist den Menschen gesetzt, einmal zu sterben, darnach aber das Gericht."
+
+Hebr. 9, 27. Und was der Prophet im alten Testamente schreibt: „Alles Fleisch ist Heu, und alle seine Güte ist wie eine Blume auf dem Felde. Das Heu verdorret, die Blume verwelket, aber das Wort unseres Gottes bleibet ewiglich,"
+
+Jef. 40, 6-8. dasselbige wiederholt der Apostel nachdrücklich im Neuen Testamente. 1. Petr. 1, 24. 25. Dem Tode unterworfen, ſterblich, ſind auch diejenigen, welche überbleiben werden zur Ueberkleidung: sie werden nicht entſchlafen, aber verwandelt werden, 1. Kor. 15, 51., und denen nicht vorkommen, die da schlafen, 1. Theff. 4, 15.
+
+Der Akt des Todes wird keinem erlassen, aber etlichen wird die Ruhe des Zwiſchenzustandes abgekürzt. Es ist auch zur tieferen Auffaffung der einfachen Anfangsworte wohl zu merken, daß das irdische Leben den Tod nicht allein als sein Ende vor sich hat, sondern als Keim in ſich trägt: wir tragen alle den Tod in den Gliedern.
+
+Dagegen hat ein seliger
+
+Tod das ewige Leben nicht allein vor sich als Vollendung, ſondern auch als Keim in sich. Die Seelen schmecken die Kräfte der Auferstehung von nun an.
+
+Und dieſes Vorgefühl der vollen Seligkeit ist es auch, welches sich in dem eben angefangenen Liede, wie in so vielen anderen Liedern gleicher Art, auf das zuversichtlichſte ausspricht.
+
+Ja wir vernehmen, und viele Sterbeftunden bestätigen dasselbe, wie die Seele, noch ehe ste scheidet, noch diesseits einen Silberblick von Jenseits erlebt, einen Silberblick „aus dem untern Weltgetümmel in den schönen Gotteshimmel. " Jerusalem, du schöne! O wie helle glänzeſt du! Welch' ein lieblich Lobgetöne Hört man da in sanfter Nuh! Oder großen Freud' und Wonne! Jezund gehet auf die Sonne,pa
+
+[p. 35] Jezund gehet an der Tag, Der kein Ende nehmen mag.
+
+Ach! ich habe schon erblicket Diese große Herrlichkeit: Jezo werd' ich schön geschmücket
+
+Mit dem weißen Himmelskleid; Mit der güld'nen Ehrenkrone Steh' ich da vor Gottes Throne, Schaue solche Freude an, Die kein Ende nehmen kann.
+
+Aus solchen Silberblicken, aus solchen Spiegelungen des Jenseits im Diesseits erklärt sich noch mehr die Verschmelzung beider zukünftigen Stadien, welche auch das christliche Bewußtsein in Kraft des lebendigen Glaubens von jeher vollzogen hat, ohne darum den Unterschied zu bestreiten oder zu verkennen.
+
+## III.
+
+Die Eschatologie handelt einerseits von den allerlegten Dingen, von dem Ende der Welt, von dem legten Gerichte, von dem jüngsten Tage, von der Auferstehung alles Fleisches und von dem ewigen Leben. Dieses ist das Allerlezte: damit schließt auch das Urbekenntniß der Christenheit. Aber die Eschatologie handelt auch andererseits von dem Tode des Einzelleibes, von dem jüngsten Tage jedes einzelnen Menschen, oder von der Todesstunde und von dem nächsten Zustande der Seelen nach dem Tode des Leibes, namentlich von der Seligkeit der Seelen, 辈 welche wir - 1. Petr. 1, 9.- und nach nach der Schrift - Off. 14, 13. der kirchlichen Sitte von Alters her denen, die in dem Herrn ge3* [p. 36] sterben sind, zuſchreiben, Allen wünschen. stirbt, ist selig geheißen. Off. 14, 13.
+
+Wer in dem Herrn
+
+Das Allerleßte ist, wie gesagt, das ewige Leben, und dieſem voraus geht - die Auferstehung alles Fleisches, welche wesentlich in der Verklärung des dunkeln Erdenleibes beſtehet.
+
+Die Auferstehung des Fleisches ist als Verklärung zugleich wesentlich die Erklärung des Dunkels, welches die Materie verhüllt, die Lösung des Räthsels, welches in ihr verschlossen ist. Es ist mit Recht gesagt worden: „Die Materie ist das Dunkelste aller Dinge," in der Auferstehung wird dieses Dunkel verklärt werden. Es ist nicht minder mit Recht gesagt worden, daß der Geist, den wir nicht sehen, verständlicher sei, als das Fleiſch, welches wir mit mens notior corpore; erst in der den Händen greifen: Auferstehung wird das Greifliche auch begreiflich, und das Unverständliche der Materie, woran wir hier nicht blos mit dem äußeren Gefühle, sondern auch mit dem Verstande Anstoß nehmen, zur vollkommenen Verständigung durchsichtig werden. 'Nichts ist so unerklärlich als das Fleiſch, nichts ist so erklärlich als die Aussicht auf die Auferstehung und Verklärung des jezt noch unverflärten Fleisches und Deines. Dennoch nehmen Viele an dem Dunkel des Leibes keinen An- . stoß, wohl aber an dem Lichte, welches das Räthsel zu lösen bestimmt ist: und darum bestreiten sie die Auferstehung, welche doch die allergewisseste und einzig mögliche Vollendung ist, ohne welche das Fleisch Fleisch und der Staub Staub, das Dunkel dunkel und die Erde schwer bleibt.
+
+Wir sagen es daher noch einmal: Das Allerleßte ist die Auferstehung und Verneuerung, die Verklärung und Erklärung der Caro resurget, -et quidem Erde und alles Fleisches .: omnis, et quidem integra! Das Fleisch wird gewißlich auferstehen, und zwar alles Fleisch, und zwar ganz! ton Hierzu gehört auch mein Fleisch, auch mein Staub; und wem eignet dieſes Partikelchen der Geſammtmaſſe mehr, als dem, der es [p. 37] hier an sich getragen, den es gekleidet, dem es gedient hat, mit dem es vereinigt gewesen ist? Unter dieſem Partikelchen ist jedoch nichts anders zu verstehen, als der ſubſtantielle oder wesenhafte Antheil des einzelnen Subjekts an dem objektiven Gesammtinhalte der Materie. Was die Materie selbst nach ihrem eigentlichen Wesen sei, ist damit noch nicht erklärt, und wird eben erst in der Auferstehung vollkommen erklärt werden, wenn Alles wird offenbar werden. So viel ist aber schon jezt unabweislich, daß der wesenhafte Antheil, welcher der einzelnen Seele an der Materie zugetheilt und zur Aneignung überwiesen gewesen ist, eben nur dieser Seele und keiner Caro andern wieder zugeeignet werden wird. Suum cuique! resurget, et quidem ipsa. - Jedem das Seine! Das Fleisch wird auferstehen, und zwar dieses selbige Fleisch. Das Substantielle an dem Leibe der Erscheinung, welches zur Auferstehung bestimmt ist, wird von dem Apostel an dem sinnlichen Das du säest, ist ja nicht Erempel des Saamenkorns erläutert. „der Leib, der werden soll, sondern ein bloßes Korn, nämlich Wai„zen oder der andern eins“ , joµvòv xóxxov, ei tuɣoi, sítov ŉ λοιπῶν. „Also auch die Auferstehung der Todten: es τινος TIV Aoiπov. TIVOS τῶν „wird gesäet verweslich, und wird auferstehn unverweslich.“ 1. Kor. 15, 37. 42.
+
+Was von dem Saamenkorn aufersteht, ist eben sein wesenhafter. Inhalt, ganz und gar und unverkümmert, und ist in dem, das hervorkeimt und groß wird und Frucht bringt, nichts anderes als was gefäet war; vielmehr giebt Gott einem jeglichen Saamentorn den im eigen augehörigent Reib, ἑκάστῳ τῶν σπερ1. for. 15, 38. lnb bod ist berfel μάτων τὸ ἴδιον σῶμα bige Leib, der dem Individium eigen zugehört, gegen ſeine frühere Erscheinung in Folge der Verklärung auch ein anderer Leib. In so fern ist nicht alles Fleisch einerlei Fleisch, und nicht aller Leib einerlei Leib.
+
+1. Kor. 15, 39. 40. So hat auch die 1. Kor. 15, 41.
+
+Verklärung ihre Weisen nnd Stufen.
+
+Wenn hiernach zwar dasselbige Fleiſch, das eigengehörige Fleisch, aber durch und durch gewie es einem jeden mitgegeben ist, [p. 38] reinigt und geläutert und von Grund aus erneuert und verändert, mithin in ſo fern als ein anderes auferstehen wird, so bewähret es sich auch in dieser Beziehung, daß Fleisch und Blut nicht ererben wird das Reich Gottes. Vielmehr wird dann abgethan ſein alle Sünde und alles, was aus der Sünde kommt, alles Dunkel und aller Schmuß und alle Schwere, denn solches Alles kann das Reich Gottes nicht ererben.
+
+Aber bleiben wird Alles, was zum Ebenbilde Gottes gehört, wie es auch entſtellt war: in so fern wird nicht allein Alles wie es war nach dem ursprünglichen Maaße der Schöpfung 1. Mos. 1, 26. 27. —- ~wiederhergestellt, sondern auch, wie es in weiterer Entwickelung werden sollte, vollendet und verherrlicht werden in dem — wieder auferstandenen Fleische.
+
+Eben deswegen ist die Auferstehung vielmehr als Auferweckung und diese als der lezte Akt der Schöpfung zu fassen.
+
+Die Schöpfung im Gegensaße zur Emanation, im Gegenſaze zur Entwickelung aus der schon vorhandenen Substanz, die Schöpfung als ein Aft Gottes ist selbst das allererstaunlichste und unbegreiflichste Wunder, welches wir nur durch den Glauben annehmen. Hebr. 11, 3. Wer sich vor diesem Wunder aller Wunder mit Bewußtsein in Demuth beugen gelernt hat, wie sollte der noch so großen Anstoß nehmen können an dem leßten Wunder, an dem Akte der Auferstehung, welcher vielmehr das erste Wunder zu verklären und hiermit zu erklären bestimmt ist? Dem denke ein jeder Christ weiter nach Angesichts des Endes, welches bald kommt: denn was hier so kurz gesagt ist, erfordert ein langes Nachdenken. So viel ist unläugbar, daß das Ende, von dem wir reden, eben sowohl als der Anfang, - als ein Schöpfungs -Akt zu faſſen ist.
+
+Am Anfang sprach Gott: Es werde! wenn Er spricht: Es werde Alles neu!
+
+Das Ende kommt,
+
+Aber zur Eschatologie gehört nicht allein das Allerleßte, [p. 39] sondern auch das Vorlezte, welches mit dem leßten Lebenstage, jedes Einzelnen eintritt.
+
+In so fern ist die Eschatologie wiederum eine gedoppelte. Denn einerseits ist sie als Lehre von dem Vorlegten, oder von dem Zwischen - Zustande, das Gedächtniß der Todten, damit uns nicht verhalten sei von denen, die entſchlafen sind.
+
+Sie ist uns offenbaret, auf daß wir nicht traurig sein, wie die anderen, welche keine Hoffnung haben.
+
+1. Teff. 4, 13.
+
+Sie dienet zu dem Umgange der Erdenpilger mit der oberen Gemeine: fte ist der Inhalt für das Fest aller Seelen zum Gedächtnisse der Todten. Andererseits ist sie die Erinnerung an unsern eigenen in der Kürze bevorstehenden Todestag, - ein heilsames Memento mori, wie der Pſalm betet:
+
+„Herr, lehre uns bedenken, daß wir „sterben müſſen, auf daß wir klug werden. " Pf. 90, 12. Und dieſe Erinnerung ist nicht oft genug zu — vergegenwärtigen. „Herr, „lehre mich, daß es ein Ende mit mir haben muß, und mein Le„den ein Ziel hat, und ich davon muß. " Pf. 39, 5. Und daſſelbe wiederholt sich auch außerhalb des untrüglichen Wortes. „Was „du thust, so bedenke dein Ende, so wirst du nimmer mehr Uebel Μιμνήσκου τὰ „thun. " Sir. 7, 35. Miµvýσxou τà ἔσχατά čoyará cov. — Das Sprüchwort sagt: „Todesgedächtniß fündigt nicht.“
+
+Die Erinnerung an die Todten, und die Erinnerung an den eigenen nahe bevorstehenden Tod sind zwei Seiten Eines Tertes: es ist Beides in Einem zusammengefaßt, wenn David bei dem Tode seines Kindes ausruft: „Ich werde 1 wohl zu ihm „fahren, es kommt aber nicht wieder zu mir. " 2. Sam. 12, 23.
+
+Wie beide Seiten des vorlegten Zustandes im tiefsten Grunde Einem Zuſtande angehören, nämlich dem Mittelzustande, so enthalten sie auch den entſchiedensten Gegenſaz; denn das Aufsehen zu der oberen Gemeinde weiset uns in die Seligkeit, welche kommt, und der Gedanke an den Tod führet uns vorab in -— die lezte Noth, in die größte Noth. Aber - wenn die Noth am größten ist, da ist die Hülfe am nächsten.
+
+Je größer [p. 40] die Noth, je näher Gott. - Noth lehrt beten. ➡ Tod ist Noth, und zugleich der Tod der Noth. -
+
+Es ist merkwürdig, daß dem Sonntage, welcher mit dem Psalm (66, 2.) jauchzet und jubelt, dem Sonntage Jubilate, das Evangelium (Joh. 16, 16–23.) angehöret, welches von der Traurigkeit handelt, und von dem Weinen und Heulen zu der Zeit, da wir nicht mehr werden sehen und gesehen werden, aber dann auch von der unaussprechlichen Freude, welche nicht vergehet, wenn wir werden wiedersehen und wiedergesehen werden. Ueber ein „Kleines so werdet ihr mich nicht sehen, und aber über ein „Kleines so werdet ihr mich wiedersehen.“ Der Verheißung: "So werdet ihr mich wiedersehen", schließt sich die Bedingung derselben an:
+
+ich werde euch wiedersehen: " máli dè youai õµãs: „Und euer Herz soll sich freuen, und eure Freude Der nächste Sinn. bezieht. "soll Niemand von euch nehmen. " sich auf die Auferstehung des Herrn, der zweite auf die Ausgießung des heil. Geistes, wenn der Sohn zum Vater gegangen sein wird. Joh. 16, 7-16. Aber wer wollte sagen, daß damit die Weiſſagung nach ihrem Inhalte erschöpft, nach ihrem Sinne und Verſtändnisse abgeschlossen sei?
+
+Vielmehr ist damit zugleich alle Zukunft in Aussicht gestellt, welche der Geist verkündigen wird. Joh. 16, 13. Zunächst weiset uns freilich die einfache Rede, in welcher Christus seinen Heimgang ankündigt, auf einen eben so einfachen Gegensaß, welcher uns nur zu geläufig geworden ist, und daher nur zu leicht genommen zu werden pflegt, als wären wir schon damit fertig. Es ist der einfachste aller Gegenfäße, nämlich die Zwei, das Zweifache: Kleines (pixpòv) und Großes, oder der Augenblick der Gegenwart und die Zukunft, das Jetzt, võv, Joh. 16, 22., und was da kommt, tà épxóμeva, Joh. 16, 23. → oder die Zeit, welche vergehet, und die Freude der Ewigkeit, welche nicht vergehet, τὴν χαρὰν ὑμῶν ουδεὶς αἴρει ἀφ᾽ ὑμων, sondern
+
+[p. 41] Joh. 16, 22. 24. sie if soufommen, χαρὰ πεπληρωμένη diese wird auch über ein Kleines kommen.
+
+Und
+
+Wohin gehört nun der Zwischenzustand nach diesem Leben und vor der Vollendung? zu dem Kleinen, zu der Zeit, welche vergehet wie ein Augenblick, oder zu dem Großen, das nachkommt, zu dem ewigen Leben, welches Niemand von uns nehmen kann? zu dem Nichtſehen, oder zu dem Wiedersehen?
+
+Wir haben an dem Menschen nach seinem vollen Inbegriffe drei Momente oder Bestandtheile, an seinem Leben drei Zustände oder Perioden entdeckt; und wir finden doch jest nur zwei Formen, nämlich Zeit und Ewigkeit, worunter alle drei Zustände ihre Stelle finden sollen?
+
+Wohin gehört nun der Mittelzustand?
+
+Gehört er zu der kleinen Zeit der Traurigkeit, von welcher das Evangelium zu Jubilate handelt, wo wir nicht sehen wer den, weder den, der uns voraufgegangen ist, als der Erstling, noch die, welche von den Mitlebenden uns vorangeeilt sind? zu der kleinen Zeit, von welcher auch der Apostel Petrus sagt, daß sie jezt ist, ¿λeɣov äρti - 1. Petr. 1, 6. ? oder gehört er zu der Zeit, wo wir sehen werden den Herrn und alle die Seinigen, die mit ihm sein werden alle Zeit? zu der lezten Zeit, ¿v šoxáty xaipw, welche der Apostel Petrus dem Jezt, der kleinen Zeit, gegenüber hält?
+
+1. Petr. 1, 5.
+
+Der Mittelzustand liegt zwischen der Zeit und der Ewigkeit: in so fern wird er einen Rest von der Zeit und einen Vorschmack der Vollendung haben müssen: aber die Sprache hat keinen Ausdruck für diesen Mittelbegriff: wir können ihn nur umſchreiben.
+
+Die Zeit besteht darin, daß wir die nicht sehen, die in dem Herrn: ruhen, noch den Herrn, bei welchem sie sind; die Vollen dung hingegen wird gipfeln in jenem vollkommenen Erkennen, wie wir ſelbſt erkannt sind; was bleibt nun für den Zwiſchenzustand anders übrig, als daß e der Uebergang ist zu der vollkommenen
+
+[p. 42] Gemein{daft mit Christo unb den Seinen, εἰς τὴν ὄψιν τοῦ θεοῦ, da die Seligen den Sohn sehen, und ---- des Vaters warten. Die Seligkeit in dem Mittelzustande beſtehet mithin eben darin, daß die Erlöseten den Herrn sehen und bei Ihm sind: denn Er hat es verheißen. Ich lebe und ihr sollt auch leben. " Joh. 14, 19.
+
+Vater, ich will, daß, wo ich bin, auch die bei mir seien, die „du mir gegeben hast, daß sie meine Herrlichkeit sehen, die du mir "gegeben hast. " Joh. 17, 24.
+
+Ferner ist die Zeit ein Nach- und Außereinander der Vergangenheit, Gegenwart und Zukunft, welches in zerstückelten Momenten, disjecta membra, vorüberfährt; hingegen die Ewigkeit iſt das Mit- und Ineinander aller Zeit - Dimensionen in der ewig neuen Gegenwart, welches dem Glauben als seine Aussicht vorgehalten wird. Hiernach wird dem Mittelzustande statt der zerstückelten Succession unserer Zeit und ihrer Dimensionen eine lebendige Continuität dieser Succeſſion anheimfallen, welche den Vorſchmack der lezten Concentration schon in sich enthält. In diesem Zwiſchenzustande ist der organische Zusammenhang zwischen Gestern, Heute und Morgen enger und inniger und lebendiger geworden, aber er erwartet noch seinen Abschluß, und wartet doch nicht wie wir, ſondern steht schon hinein: und darum ist ihm die längste Zeit wie ein Tag, 2. Petr. 3, 8. und ein kleines, xpóvov μexpòv. 6, 11.
+
+Off.
+
+Der Zwischenzustand ist in so fern keine Zeit mehr, als dieſe nicht mehr so zerstückelt ist, als hier; aber er gehört auch der Zeit noch an, als - die leßte Zeit, eoxatos xaɩpós, weil sie der Vollendung, der Ewigkeit wartet.
+
+Der Mittelzustand ist in so fern keine Zeit mehr, als in ſeinem Gebiete kein Tod mehr ist, kein Leid und kein Geſchrei: aber er gehört in so fern noch der Zeit an, als noch außerhalb seines Gebietes Trennungen überbleiben, welche jedoch mit jeder
+
+Stunde weniger werden: denn jeder Sterbefall hienieden, der in [p. 43] dem Herrn geschieht, ist ein Heimgang, der droben eine Lücke füllt, bis wir alle hinankommen zu einerlei Glauben und Erkenntniß des Sohnes Gottes. Eph. 4, 13. —
+
+Dem Mittelzustande der Seelen gehört das Purgatorium der römischen Kirche an. Von diesem ist so viel wahr, daß bis zur Vollendung immer noch eine Succession in der Form der Continuität, und hiermit auch eine wachsende Verklärung Statt findet, welche in dem Zustande der Vollendung nicht mehr successiv, sondern als stetige Erneuerung sich erweisen wird.
+
+Sed quidnam agunt animae post mortem et ante resurrectionem? „Was thun die Seelen nach dem Tode des Leibes und „vor der Auferstehung desselben?"
+
+So fragt Tertullianus.
+
+Antwort ist: Agunt quidem, sed non plene:
+
+Seine cogitant, volunt, sentiunt, sed ad perficiendum operam carnis exspectant: et illic refrigeria, sed salva resurrectionis plenitudine per carnem. „Sie sind wohl in Thätigkeit, aber nicht vollkommen: sie denken und „wollen und emfinden, aber zum Vollbringen erwarten ſie des „Dienstes des Fleisches.
+
+Wohl werden ihnen Erquickungen, doch „nicht die Fülle der Auferstehung, die von dem Fleische bedingt "ist. " - Nach Tertullian ist die Seele der Leib des Geistes: und das Fleisch ist der Leib der Seele.
+
+Die Seele kann ohne den
+
+Geist nicht für sich sein, und der Geist kann wieder ſeinerseits dieses Organ nicht missen. miſſen. Anima nunquam sine animo esse potest. Darum sagt er auch: Anima corpus est, sed corpus sui generis, non caro: invisibile carni, spiritui autem visibile. „Die Seele ist ihr eigner Leib, aber ein Leib eigenster Art, nicht Fleisch: unsichtbar dem Fleische, aber sichtbar dem Geiste. "
+
+Von eben dieſem Mittelzustande redet Frenäus in den Büchern contra haereticos eben so kurz, als er redselig ist von der Wiederkunft Christi. *) ganz abschreiben.
+
+Seine Worte sind: so wichtig, daß wir sie
+
+Cum igitur in hoc mundo alii accurrant lumini, et per fidem se uniant Deo, alii autem a lumine absistant, seque a Deo separent: jam venit Filius Dei, aptamque utrisque infert habitationem: lumen, appetentibus lumen, repudiantibus autem, tenebras. Interim animae mortuorum in invisibili loco a Deo eis definito commorantur, expectantes resurrectionem; post autem, perfecte, i. e. cum suis corporibus resurgentes ad conspectum Dei pervenient, quotquot Dominus dignos habuerit. Ac primum quidem mille annos in renovata terra regnabunt **), ut praeparentur ad hunc conspectum, deinde vero, prout digni fuerint, alii in coelum assumentur, alii in paradiso conversabuntur, alii denique in urbe Dei (nova Jerusalem) inhabitabunt: ubique autem Dominus videbitur, in quantum digni erunt ipsi videntes.
+
+Hunc enim ordinem, secundum quod Apostolorum discipuli dicunt, servabnnt qui salvantur, ac per hujusmodi gradus proficient; per Spiritum videlicet ascendent ad Filium, per Filium autem ad Patrem; cui Filius deinceps opus suum cedet, ut sit Deus omnia in omnibus. „Weil nun hienieden einige dem Lichte zulaufen, und durch den Glauben zur Gemeinschaft mit Gott gelangen, andere hingegen „sich abwenden von dem Lichte und von Gott abfallen, so kommt „nun der Sohn Gottes, um beiden Theilen zu bereiten die geeignete Stätte: Licht denen, die Licht wollen, denen aber, die es verschmähen, Finsterniß. Bis dahin weilen die Seelen der Verstorbenen an einem von Gott ihnen angewiesenen „Orte, der Auferstehung gewärtig: dann aber werden ſie vollstän„dig, nämlich mit ihren Leibern, auferstehen und zur Anschauung „Gottes gelangen, so viel ihrer der Herr würdig findet. Und zuerst " werden diese regieren tausend Jahre auf der neuen Erde, daß sie
+
+*) Thtersch: Vorlesungen über Katholizismus und Protestantismus. Th. I.
+
+#### S. 193. in der zweiten Ausgabe. 26
+
+**) Off. 20, 5. 6.
+
+[p. 45] „vorbereitet werden zu solcher Anschauung, dann aber, je nachdem „ste dazu geschickt werden befunden werden, werden einige aufge„nommen werden in dem Himmel, andere werden im Paradiese „wandeln, noch andere wohnen in der Stadt Gottes, im neuen „Jerusalem: aber überall werden sie Gott sehen, je nachdem sie „dessen würdig erscheinen werden. Denn diese Ordnung, wie die „Schüler der Apostel berichten, werden beobachten diejeni„gen, welche gerettet werden, und durch solche Stufen werden sie „aufschreiten, nämlich sie steigen auf erstlich durch den Geist zum „Sohne, dann durch den Sohn zum Vater, welchem zulezt „der Sohn sein Werk wird übergeben, auf daß Gott sei › Alles in „Allem. " Nach dieser Vorstellung ist ein Reich des Geistes, als der Anfang, demnächst ein Reich Christi, τὰ πάντα και ἐν πᾶσι χριστός. → Kol. 3, 11. }- als die Fortsetzung, ~und als das lezte das Reich Gottes, -- ἵνα ᾖ ὁ θεὸς τὰ πάντα ἐν πᾶσι - 1. Kor. 15, 28. дão zu unterscheiden. Aber es ist auch wohl zu merken, daß mit einer Person Gottes die Integrität der Hypoſtaſen nicht ausgeſchloſſen, ſondern vielmehr eingeſchloſſen iſt. In diesem Sinne könnte schon das erste Leben, welches wir hier leben, als das Reich des Geistes angesehen werden; ~ welches mit dem ersten Pfingstfeste angebrochen ist und durch alle Jahr hunderte uhunterbrochen fortgehet.
+
+Dagegen würde das andere
+
+Leben, namentlich der Mittelzustand, mit Einſchluß des Milleniums, als das Reich des Sohnes, und das ewige Leben als das Reich Gottes des Vaters vorzustellen sein. An dieser Vorstellung ist zunächst so viel unwidersprechlich gewiß und wahrhaftig, daß das Reich Gottes, wie es durch Christum vermittelt ist, in dem heiligen Geiste seinen Anfang nimmt, in dem Sohne, als dem Mittler, seine Mitte findet, und in dem Vater seine Vollendung feiert. In so fern kann auch gesagt werden, daß in dem Mittelzustande, als dem Reiche des Mittlers, das Anſchauen Gottes des Vaters, opis tou deod, noch nicht gewährt ist, wohl aber allen den Seelen, welche in dem Herrn sterben, sofort auch, wiewohl in verſchiedenen Graden, die Gemeinſchaft mit dem Herrn [p. 46] geschenket wird von Angesicht zu Angesicht. Wie der Sohn T durch den Tod zum Vater zurückgeht, so führt uns der Geist, den er, zurückgekehrt, vom Vater ſendet, zum Sohne, und zuleßt der Sohn zum Vater, und hiermit in alle Wahrheit. So lehrt uns das Evangelium am Sonntage Cantate, in dem es den Hingang des Sohnes und das Kommen des heiligen Geistes verkündigt.
+
+Joh. 16, 515.
+
+Hierbei kann in
+
+Erwägung der Folgeordnung des Kirchenjahres nicht unbemerkt bleiben, daß der Sonntag Cantate dem Sonntage Jubilate unmittelbar, wie der Cantate Psalm (98, 1. ) dem Jubilate Pfalme (66, 1.) mittelbar nachfolgt, während der Text zum Sonntage Cantate (Joh. 16, 5—15. ) dem Terte zum Sonntage Jubilate (Joh. 16, 16 — 23. ) unmittelbar vorausgeht; und wie dieſer über dem Heimgang klaget und jubelt, ſo lehrt jener die Wege Gottes mit dem Menschen mitten durch den Tod: er antwortet auf die Frage: Wohin? Durch den Tod geht der Sohn zum Vater zurück, uns den Geist zu senden, welcher demnächst durch den Tod zum Sohne führt, und durch die Auferstehung zum Vater geleitet.
+
+Hiermit ist auf einmal der Zugang eröffnet zu der Frage, welche der Herr in jenem Cantate-Evangelium ſeinen Jüngern in den Mund legt und in die Seele zeichnet, weil ſie ſte versäumt hatten, zu der Frage, die jedem Erdenpilger irgend einmal nahe tritt und anklopft, zu der großen inhaltreichen Frage: Wo gehest du hin? noõ Smáɣeis; Joh. 16, 5. So fragt es uns alsbald nach dem Sonntage Jubilate an dem folgenden Sonntage Cantate, und die Frage wird am Sonntage Rogate (Joh. 16, 24-30. ) zum Gebete, und am Sonntage Eraudi Pf. 27, 7. wird Erhörung verkündigt, nach Joh. 15, 26. 27. Joh. 16, 1—4. das Pfingſtfest vorzubereiten.
+
+Dennoch feiern wir hienieden, im Pfingstreiche, nicht allein Pfingsten, als das Fest des Geistes, sondern auch Ostern, als das Fest des Sohnes, und Weihnachten, als das Fest des Vaters, der den Sohn uns gibt, und Trinitatis, als das Fest [p. 47] der heiligen Dreieinigkeit.
+
+Gleichermaßen feiern auch die Voraufgegangenen, als die Seligen in dem Herrn, nicht allein das Osterfest als das Fest des Sohnes, sondern alle Feste der heiligen Dreieinigkeit: so feiern zulezt Alle, Alle, die nur wollen, omnes lumen appetentes im Lichte Gottes des Vaters auch dem Sohne und dem heiligen Geiste von Ewigkeit zu Ewigkeit. Amen.
+
+## IV.
+
+Die Sadducäer, welche dafür hielten, es sei keine Auferstehung, - könnten allen ihren NachMads οἱ λέγοντες μὴ εἶναι ἀνάσταοιν, — folgern zu einem lehrreichen Warnungszeichen dienen. Sie nehmen an der fleischlichen Vorstellung von der Auserstehung des Fleisches Aergerniß, und verwerfen darüber und damit zugleich das Geheimniß von der Verklärung des Fleiſches, wodurch doch allein ihr eigener Anstoß beseitigt und überwunden, die innerſte Idee ihres Widerspruchs gegen das rohe Fleisch wirklich, nämlich durch die That, vollzogen wird. Sie hatten ferner, wie ſpäter die Athenienser, Apostelg. 17, 32., -- thren Spott über die Auferstehung der Todten, welche sie zu einer fleischlichen Fortſeßung aller Geschäfte des Fleiſches verzerrten, und verloren mit dieſem Zerrbilde und durch solche Verzerrung auch die Wahrheit und die Kraft der Auferstehung, welche eben durch den Geist die Geschäfte des Leibes tödtet, Röm. 8, 13., indem sie das Fleisch verneuert und verklärt.
+
+So geschieht es, daß Sadducäer aller Zeiten um eitlen Mißverſtändniſſes willen und mit dieſem auch das Verständniß aller Wahrheit verlieren.
+
+Indem sie mit den Schlacken auch die köstlichste Perle der Auferstehung selbst wegwerfen, entweicht ihnen aller Grund und Boden unter den Füßen: sie verzweifeln an allem Bestande; erst fällt der Leib, dann verzweifeln sie selbst an her fortbauer der Seele, ψυχῆς τὴν διαμονὴν ἀναι povo, wie Josephus schreibt.
+
+(De bello jud. II. 8, 14.).
+
+[p. 48] Darum sagt ihnen der Herr zur Belehrung über den Begriff der Auferstehung, zur Berichtigung ihrer fleischlichen Vorstellungen: „In der Auferstehung werden sie weder freien, noch sich freien „laſſen, ſondern sie sind gleich wie die Engel Gottes im Himmel. " Matth. 22, 30. Der Sinn der Lehre ist so klar und einfach, als reich und unerschöpflich; und wird doch so häufig mißverstanden. Das Wort des Herrn schließt nicht die Ehe, sondern die › Weiſe der Ehe im Fleische aus. Wohl bestehet jedes Liebesverhältniß, das in dem Herrn seinen Grund und Bestand hat, unverwüstlich in der ihm eigenthümlichen Gestalt, wie ja der Herr selbst in einem jeglichen Jünger eine Gestalt gewinnt, welche bleibet, — μopywdy xpiotòs év úµïv, Gal. 4. 19. Aber dasjenige Leibesverhältniß, das von dem noch nicht verklärten Fleische bedingt ist, kann so gewiß, als das Fleiſch in der Auferstehung selbst verändert, nämlich verklärt werden soll, nicht so bleiben, wie es hienieden ist. Solches sagt der Herr den Sadducäern, um ihre fleischliche Vorstellung von der Auferstehung zu berichtigen, womit sie den Begriff verzerren, und entstellen, und beschmutzen, um ihn verwerfen zu können Aber er verweiset sie auch zugleich, zum Beweise der wahrhaftigen Wirklichkeit der Auferstehung, auf die Schrift, und ſpricht: „Habt ihr aber nicht gelesen von der Todten Auferstehung, das „euch gesagt ist von Gott, da Er spricht: Ich bin der Gott Abra„hams, und der Gott Isaaks, und der Gott Jakobs? Gott aber „ist nicht ein Gott der Todten, sondern der Lebendigen. "
+
+Matth. 22, 31. 32. Mit diesem gewaltigen Nachsaße ist mehr als eine Seite der Eschatologie berührt. Zunächst wird aus dem Worte Gottes die Fortdauer der Seele nach dem Tode, yoxsý diapový, bewiesen, und der Zwischenzustand des Lebens verbürgt; denn der Gott des Lebens ist auch jezt der Gott Abrahams und Isaaks und Jakobs. Abrahams und Isaaks und Jakobs Seelen müssen alſo ſchon jezt leben, noch vor der Auferstehung leben, weil Gott noch lebet, welcher sie sein Eigenthum nennt. Durch das Wort des Herrn ist aber [p. 49] auch zweitens die Auferstehung des Fleisches verbürgt und bezeuget, denn Abrahams Seele ist nicht der ganze Abraham, ſondern dazu gehört auch der Leib, der jego verweset ist. Gott bekennet ſich nicht allein zu den Seelen seiner Gläubigen, sondern zu der ganzen Person Abrahams und Iſaaks und Jakobs: und darauf beziehet sich auch der Herr ausdrücklich zum Beweise der Auferstehung. Somit heißet es nach allen Beziehungen: Zu welchem sich der Herr des Lebens bekennet, solcher ist lebendig. In dem felben Sinne sagt Christus, als der Sohn des lebendigen Gottes: „Ich bin die Auferstehung und das Leben. Wer an „mich glaubet, der wird leben, ob er gleich stürbe.
+
+Und wer da „lebet und glaubet an mich, wird nimmermehr sterben.“
+
+Joh. 11,
+
+25. 26. Und in demselbigen Sinne ſagt er zu einem ewigen Troſte: „Ich lebe, und ihr sollt auch leben, und mich sehen. " Joh. 14, 19. Hiermit bewährt es sich eben, das gesagt ist: Gott ist nicht ein Gott der Todten, sondern der Lebendigen. Hiermit ist uns persönlich ein Trosteswort gegeben, worauf die Kirche des Herrn ruhet durch alle Jahrhunderte, woran sich alle Herzen erquicken, welche den Herrn erkannt haben als den eingebornen Sohn des lebendigen Gottes. " Es ist noch um ein Kleines, μικρόν, - ſo wird mich die Welt nicht mehr sehen. Ihr ἔτι μexpóv "„ete „aber sollt mich sehen; denn ich lebe und ihr ſollt auch leben." ὑμεῖς δέ θεωρεῖτέ με ὅτι ἐγὼ ζῶ, καὶ ὑμεῖς ζήσεσθε. 14, 19.
+
+30.
+
+Dasselbe ist uns wiederholt in den verschiedensten Ausdrücken verkündigt: „So wir mit Ihm sterben, so werden wir mit Ihm leben." 2. Tim. 2, 11. So sind wir denn mit Ihm begraben durch die „Taufe in den Tod, auf daß, gleich wie Christus ist auferwecket „von den Todten durch die Herrlichkeit des Vaters, alſo ſollen auch wir in einem neuen Leben wandeln. Denn so wir sammt ihm „gepflanzet worden sind zur Aehnlichkeit ſeines Todes, ſo werden wir auch in der Auferstehung gleich sein. " Röm. 6, 4. 5.
+
+[p. 50] Der volle Beweis für die Auferstehung alles Fleisches ist hiers nach der Herr Selbst, die Beglaubigung für unſere dereinstige Auferstehung ist die Auferweckung Christi durch den Vater. Davon zeugt Paulus in der Epistel an die Korinther, - 1. Kor. 15, 14-20. und zwar in solcher Weise, bedingt ist.
+
+daß davon alle unsere Hoffnung
+
+Davon handelt die Pfingſtpredigt Petri: Apostelg. 2, 32.
+
+davon handelt auch die Predigt Pauli zu Athen in der Schule, und auf dem Markte, und auf dem Richtplaze. Dort predigt der thörichte Predigt Apostel die 1. Kor. 1, 21. 23. 27. von der Schöpfung der Welt aus Gott durch das Wort, wovon kein Heide etwas wußte, auch der Weiſeſte nichts ahndete, von dem Verderben durch die Sünde und von der Erlösung durch Christum, den Juden ein Aergerniß und den Griechen eine Thorheit, von dem Gekreuzigten, welchen Gott auferwecket von den Todten, und dadurch uns allen die Beglaubigung gegeben hat, daß wir nidi gweifeln solent, πίστιν παρασχὼν πᾶσιν, ἀναστήσας αὐτὸν ἐκ νεκρῶν.
+
+Apostelg. 17, 31. „Da sie aber höreten die Auferstehung der Todten, so hatten es „Etliche ihren Spott. " . So zankten schon vorher „etlichè der Epi„kurer und Stoiker Philosophen mit ihm.“ — „Etliche aber ſprachen: „Wir wollen dich davon weiter hören.“ Der Mittelpunkt der apostolischen Predigt auf dem Richtplage zu Athen war mithin die Thatsache der Auferstehung Christi, in welcher der Apostel den Beweis für das Christenthum ſelbſt, die Beglaubigung des Sohnes, auf daß wir an ihn glauben, das den Atheniensern Zeugniß Gottes des Vaters erkennt und vorhält.
+
+Und wie wird nun wiederum die Thatsache dieses Zeugniſſes Gottes bezeuget? Petrus sagt: „Dieſen Jesum hat Gott auferwecket, des sind wir alle Zeugen. " Darnach wären doch wieder Menschen Zeugen für die Thatsache des göttlichen Zeugnisses?
+
+So scheinet es denen, die noch draußen stehen. Wir können gleichwohl [p. 51] auf die zweifelnde Frage zunächst getrost Ja antworten, denn Menschen sind allerdings die Werkzeuge Gottes, dazu ausersehen und gesalbet, ein jeder an seinem Theile. Ist doch der Sohn Gottes Selbst Mensch geworden, auf daß dem Menschen durch den Menschen das Heil wiedergebracht würde! Aber wir können auch eben deswegen Nein antworten, denn in dem Sinne, in welchem gezweifelt und gefragt wird, ist es nicht der Mensch aus: eigener Kraft, welcher zeuget, sondern es ist der Pfingstgeist, welcher unserm Geiste Zeugniß giebt, daß wir Gottes Kinder sind. Röm. 8, 16. Es ist das Zeugniß des heiligen Geistes, welches jedem Einzelnen in seinem Geiste werden muß, welches aber auch der Geſammtheit der Gläubigen als — der Gemeinde im Ganzen, welches der Kirche geworden ist, vom Anfang an bis auf diese Tage, testimonium spiritus sancti. Der natürliche Mensch vernimmt nichts von dem Geiste.
+
+„Gottes; es ist ihm eine Thorheit: und kann es nicht erkennen, „denn es muß geistlich gerichtet sein.
+
+Der geistliche aber richtet.
+
+„alles, und wird von Niemand gerichtet. "
+
+1. Kor. 2, 14, 15.
+
+Auf diesem Zeugniſſe des heiligen Geistes ruht zunächst der Glaube des Einzelnen mittelst der eignen Erfahrung.
+
+Allein dies ist eben nur die Erfahrung des Einzelnen: der Pfingstgeist erweiset sich aber zugleich an der Gemeinde: er gehet durch die Reihen, so daß jedes Glied den Verband mit allen Gliedern erfährt. Auf diesem Zeugnisse des Geistes ruhet wirklich die geſammte Kirche seit dem ersten Pfingstfeste. Erst hierdurch wird die Thatsache der Auferstehung als Fundament der Kirche, als die Bürgschaft der leßten Dinge vermittelt.
+
+Durch Pfingsten ist
+
+Ostern, durch Ostern ist auch die Auferstehung der Menschen beglaubigt. Ueber die lezten Dinge, über die allerlegten und vorlegten, wäre unter der Leitung der heiligen Schrift aus dem Gemeindebewußtsein guter Zeiten viel zu lernen, und zwar nicht allein 4* [p. 52] aus den geschriebenen Bekenntnissen der Kirche und aus dem reichen Schaze ihrer Lieder, - so wie aus ihren Festen, wor auf wir später zurückkommen, sondern auch aus den Begräbniß-Liturgien und aus den Leichenreden älterer Zeit, und aus den Inschriften auf den Gräbern der Kirchhöfe, worauf hiermit alle, die auf solchen Stätten einmal oder oft lustwandeln, noch besonders aufmerksam gemacht werden.
+
+Wir lesen schon in den apostolischen Constitutionen (VI. 30.) : "Zur Bestattung der Entſchlafenen ziemet sich Spiel und Gesang, "so sie entschlafen sind in dem Herrn: denn der Tod seiner Heiτίμιος γὰρ ἐναντίον „ligen ist werth gehalten vor dem Herrn.“ τοῦ κυρίου ὁ θάνατος τῶν ὁσίων αὐτοῦ.
+
+Pf. 116, 15.
+
+Dieselbigen apostoliſchen Conſtitutionen (VIII. 41.) enthalten auch die ältesten Gebete bei den Beerdigungen der Christen, an welchen wir die ursprünglichen Vorstellungen der Christen erkennen können. So betete damals jeder Bischof: Der Gott Abrahams, „der Gott Isaaks und der Gott Jakobs, Du bist nicht ein Gott „der Todten, ſondern der Lebendigen, auf daß Aller Seelen bei „Dir leben, und die Geister der Gerechten in deiner Hand sind, „welche keine Qual anrühren wird: denn sie sind alle geheiliget „unter deinen Kindern: siehe nun selbst auf diesen deinen Knecht, "welchen du auserlesen hast und gefördert zu einem anderen Stande, „und vergieb ihm, ob er mit Willen oder ohne Willen gefehlt hat, „und sende ihm dienſtfertige Engel, und verſeße ihn in den Schooß „der Patriarchen und der Propheten und der Apostel und aller, „die vom Anfang an nach deinem Wohlgefallen gewesen sind, wo „kein Leib ist, noch Schmerz, noch Geschrei, sondern eine Friedens„stätte Frommer --- χῶρος εὐσεβῶν ἀνήνεμος - μηb ein frie „densland Gottseliger - γῆ ἐυθέων συνανημένη und derer, „welche darinnen sehen die Herrlichkeit deines Christus: durch wel„chen dir sei Lob und Preis und Ehre sammt dem heiligen Geiste. „Amen. " Und das Schlußgebet lautete:
+
+Behüte, Herr, dein Volk und [p. 53] „ſegne dein Erbe, welches du dir erworben hast durch das theure „Blut deines Christus: weide sie unter deiner Rechten und birg „fte unter deine Flügel, und gieb ihnen Gnade, einen guten Kampf "gekämpft, den Lauf vollendet, den Glauben gehalten zu haben unverrückt, unverfälscht und untadelig durch 2. Tim. 4, 7. „unsern Herrn Jesum Christum, deinen geliebten Sohn, mit wel„chem ſei Ehre und Lob und Preis, dir und dem heiligen Geiste, „von Ewigkeit zu Ewigkeit, Amen. "
+
+Wie frühzeitig den Christen auch der Zwischenzustand der Seelen vor der Auferstehung als ein Reich seligen Friedens zum Bewußtsein gekommen ist, sehen wir nicht minder an Hieronymus, wenn er schreibt: „Sollen wir nicht Gott loben und danken, daß „Er endlich die abziehende Seele gekrönet, daß Er sie von allen „Mühen losgezählt, daß Er ste, aus der Knechtschaft entnommen, „bei Sich Selber hat?"
+
+Diese Blätter wären nicht umsonst geschrieben, wenn sie auch nur die Aufmerksamkeit für Begräbniß - Liturgien und Leichenreden älterer und neuerer Zeit von Jahrhundert zu Jahrhundert zu wecken vermögend wären, oder wenn die Einladung zu fleißigerem Besuche der Gottesäcker dazu dienen könnte, daß die Steine zu reden, die Grabesdenkmäler mit ihren Inschriften zu predigen anhüben.
+
+Zunächst offenbaret sich aber das christliche Gemeindebewußtsein in der Sprache des Tages. So nennen wir den Plaz für die Ruhestätten der Todten mit ihren Schlafkammern, für die xoɩµytýpia, in unserer lieben deutschen Sprache Gottesacker, ans zuzeigen, daß daselbst „die todten Körper gleichsam wie Weizen„körnlein in die Erde gesäet werden, mit der gewissen Hoffnung, „daß sie am jüngsten Tage wieder hervorwachsen werden zum Leben „dessen, der ste erschaffen hat. " Wie der Acker, so ist die Saat Gottes.
+
+Die beste Ueberschrift für den Gottesacker stehet 1. Kor.
+
+15, 37, 43, 44. . . :
+
+[p. 54] Ein Weizenkörnlein in der Erd' Liegt erst ganz todt, dürr' und unwerth, Doch kommt's hervor gar schön und zart, Und bringt viel Frucht nach seiner Art. Dazu gehört auch der Psalm: „Die mit Thränen säen, werden mit Freuden ernten.
+
+Sie gehen hin und weinen und tragen edlen Saamen; und kommen mit Freuden und bringen ihre Garben. “ Pf. 126, 5. 6.
+
+„Dem Christen kann der Besuch solcher Oerter vielfach heil„sam werden, als demüthigende Erinnerung an die allgemeine „Sündhaftigkeit, welche die Ursache des Todes ist, als Predigt „von der Eitelkeit der irdischen Dinge, als Aufforderung zur Buße „und ernſten Erwägung des Zweckes dieſes Lebens, als Erhebung „zu einem freien himmliſchen Sinn, als Sammlung des Gemüths, „und als Belebung des Andenkens an die Verstorbenen und der"Hoffnung ewiger Vereinigung mit den Vollendeten.“
+
+Die Begräbnißpläße wurden frühzeitig in die Nähe der Kirchen und rund um dieselben verlegt: sie befanden sich auf den Kirchhöfen selbst und innerhalb der Befriedigung derselben. Die Todten wurden so dem Schuße und dem Frieden der Kirche befohlen; und so wurden die Begräbnißpläge fast überall identisch areae. mit den Kirchhöfen
+
+Wenn die Begräbnißpläße als Gottesäcker an die Leiber erinnern, welche daselbst als eine Saat Gottes zur Auferstehung aufbehalten sind, so weisen sie als Kirchhöfe aus der untern Gemeinde in die obere und hiermit zu den Seelen, welche schon in weißen Kleidern feiern mit Palmen in ihren Händen. Nicht die Todten sind todt, sondern die Lebendigen, wenn sie nichts vernehmen von der gewaltigen Predigt, welche ihnen die Todten halten, sowohl von Oben, wo die Seelen leben, als von Unten, wo die Leiber als Saamenkörnlein verweſen zur künftigen
+
+[p. 55] Auferstehung; denn auch die Leiber, welche noch ruhen in ihren Kammern und schlafen, predigen vernehmlich zu den Lebendigen, welche allesammt schlafen, daß sie aufstehen von den Todten, damit sie Christus erleuchte.
+
+## V.
+
+Es ist wiederholt darauf aufmerkſam gemacht worden, daß in den älteren Zeiten der Christenheit die erst am Ende der Tage zu erwartende Auferstehung des Fleisches und das ewige Leben, das lezte Ziel, worin auch das apostolische Glaubensbekenntniß Schluß und Krone findet, dem christlichen Gemeindebewußtsein lebendiger vorschwebte, als der Zwischenzustand der Verstorbenen, welcher, obwohl zeitlich näher, als eine kleine Zeit von kurzer Dauer gegen die entferntere Ewigkeit zurücktrat, während ſpäter umgekehrt eben dieser Zwischenzustand für die christliche Vorstellung ſo in den Vordergrund trat, daß er wohl auch mit der Vollendung selbst identificirt wurde. Dennoch ist zu allen Zeiten das christliche Bewußtsein auch mit dem Mittelzustande der Seelen, als solchem, vielfältig beſchäftigt und davon erfüllt gewesen. Davon zeugen die ältesten Kirchengebräuche und Liturgien, davon zeugt auch das Sakrament der legten Delung in der römischen Kirche und die dazu gehörige Liturgie; davon zeugt das Viaticum, oder das lezte Nachtmahl, welches noch nach der lezten Delung dem Sterbenden zum Geleite gereicht wird; davon zeugt nicht minder die lezte Verabschiedung der Seele durch priesterliches Gebet, Commendatio animae genannt, da die heimziehende Seele kurz vor dem Tode und in der Erspiration selbst dem Herrn nochmals befohlen wird; davon zeugen auch die Erequial - Ceremonien und die Liturgien zur Einweihung [p. 56] eines Gottesackers, welche in der römischen Kirche eine feste Form haben *).
+
+Hier sei nur ein Weniges aus der Regel für die priesterliche Verabschiedung der Seele, aus dem Ordo commendationis animae nach dem römischen Rituale beispielsweise zur Erwägung mitgetheilt. Commendo te omnipotenti Deo, carissime frater, et ei, cujus es creatura: ut cum humanitatis debitum morte interveniente persolveris, ad auctorem tuum, qui te de limo terrae formaverat, revertaris. Egredienti animae tuae de corpore splendidus Angelorum coetus occurrat: judex Apostolorum senatus adveniat: candidatorum te Confessorum turma circumdet: jubilantium te Virginum chorus excipiat: et beatae quietis in sinu Patriarcharum te complexus adstriugat: mitis atque festivus Christi Jesu tibi adspectus appareat, qui te inter assistentes jugiter interesse decernat. "Ich befehle dich dem allmächtigen Gotte, liebster Bruder, und dem, dessen Geschöpf du biſt: auf daß du, wenn du die Schuld der Menschheit mittelst des Todes wirst abgetragen haben, zurück„kehren mögest zu deinem Schöpfer, der dich aus dem Staube der „Erde gebildet hatte." „Wenn nun deine Seele aus dem Leibe auszieht, so komme „dir entgegen der glanzesreiche Zug der Engel: so erscheine dir der " Richterkreis der Apostel: so umschlinge dich die Schaar der Be„kenner in den weißen Kleidern: so empfange dich der Chor der „jubilirenden Jungfrauen: und es umfaſſe dich die selige Ruhe im Schooße der Patriarchen: es erscheine dir sanftmüthig und hoch„herrlich das Angesicht Chriſti Jesu, daß er dir gestatte ohne Un„terlaß zu ſein unter denen, die mit ihm ſind. "
+
+*) Zur genaueren Kenntniß der zum Geleit für Sterbende, und zur Segnung für Verstorbene üblichen Liturgien und Gebete kann eine eben erschienene Schrift dienen, die kein Leſer ohne Interesse zur Hand nehmen, ohne Befriedigung aus der Hand legen wird. Sie heißt: Codex liturgicus Ecclesiae universae in epitomen redactus, Curavit H. A. Daniel. Lips. 1847. Der noch nicht erschienene zweite Theil stellt die evangelischen Liturgien in Aussicht.
+
+[p. 57] Und wenn nun die Seele ausgezogen ist von ihrem Leibe, ſo heißt es wieder: Subvenite Sancti Dei, occurrite Angeli Domini, suscipientes animam ejus, offerentes eam in conspectu Altissimi. Suscipiat te Christus, qui vocavit te, et in sinum Abrahae Angeli deducant te. „Heilige Gottes, kommet zur Hülfe: Engel des Herrn, eilet „herbei, und nehmet dieſe Seele auf und bringet ſie vor das An„gesicht des Höchsten.
+
+Dich nehme Christus auf, der dich berufen „hat, und die Engel mögen dich geleiten in Abrahams Schoos.“
+
+Hieran möge sich noch aus dem Pontificale Maffei eine Formel Benedictio Pozur Benediction eines Gottesackers anschließen. lyandrii seu Coemeterii: Einſegnung eines Verſammlungs- und Ruheplages. - Die Formel ist so kurz als inhaltreich: sie segnet den Leib im Grabe, und die Seele im obern Jeruſalem, und die Zukunft der Auferstehung zumal, Domine sancte, Pater omnipotens, aeterne Deus, locorum omnium sanctificator et reformator in melius, a quo et per quem omnis benedictio de coelis descendit in terras: benedicere dignere locum istum, ut sit Polyandrium seu Coemeterium, vel dulcis requies et pausatio Mortuorum, quo animae, quarum corpora hic sepulta vel sepelienda sunt, jucunditatis dulcedine potiantur, sintque interim in superna Hierusalem gaudentes et laetantes, donec in magni judicii die de sepulturis propria corpora recipiant, et sic venienti Domino ad judicandum cum fructu bonae operationis occurrant. "Heiliger Herr, allmächtiger Vater, ewiger Gott, der du hei„ligest und erneuerst alle Orte, von welchem und durch welchen „aller. Segen herniederkommt aus dem Himmel zur Erde: würdige „doch auch diesen Ort Deines Segens, daß er sei eine Stätte vie„ler Menschen oder ein Ruheplaz, das ist füße Erquickung und Er„holung der Todten, da die Seelen, deren Leiber hier begraben „sind oder noch werden begraben werden, füßen Friedens theilhaftig „sind, und unterdessen in der Stadt Jeruſalem, welche droben ist, „ſich freuen und ergößen, bis sie an dem Tage des großen Gerichts [p. 58] „aus den Gräbern ihre Leiber wieder erhalten, und so dem Herrn, „welcher zum Gerichte kommt, mit der Frucht ihrer guten Thätigfeit entgegenkommen werden. "
+
+Im Pontificale Romanum finden wir folgendes Gebet: Domine sancte, — omnium ad Te venientium pius receptor, praesta propitius, ut hoc coemeterium in honorem nominis Tui compositum benedici et fructificari concedas, qui beato Abrahae patriarchae, famulo Tuo, terram a filiis Hebron comparatam in sepulturam benedixisti, et qui populo Israëlitico promissionis tellurem in aevo durantem concessisti, famulorum famularumque Tuarum corporibus in hoc coemeterium intrantibus quietis sedem et ab omni incursione malorum spirituum tutelam benignus largitor tribuas, ut post animarum corporumque resurrectionem coadunatam, Te donante atque concedente, beatitudinem sempiternam percipere mereantur, qui in Trinitate perfecta vivis et regnas Deus, per omnia saecula saeculorum. Amen. "Heiliger Gott, der du alle, die zu dir kommen, gnädig aufnimmst, komme barmherzig herzu, und verleihe, daß diese Ruhestätte, zu deines Namens Ehre bereitet, nunmehro gesegnet und geheiliget werde, wie du deinem Knechte, dem seligen Abraham, dem Patriarchen, das Stück Landes, von den Söhnen Hebron erworben, zu einem Erbbegräbnisse gesegnet hast, und wie du dem Volke Israel das Land der Verheißung auf ewig verliehen haft: also verleihe auch den Leibern deiner Knechte und Mägde, welche zu dieser Ruhestätte kommen, eine Stätte des Friedens, einen Schuß vor allem Anlaufe der bösen Geister, barmherziger Gott, auf daß ste nach der Vereinigung der Leiber mit den Seelen in der Auferstehung, durch Deine Gunſt und Gabe, die ewige Seligkeit erlangen mögen, der du in der Fülle Deiner Dreieinigkeit lebeſt und regiereft von Ewigkeit zu Ewigkeit. Amen. "
+
+So zeugen von Alters her alle Kirchenceremonien von dem Gedächtnisse der Todten in ihrem Zustande vor der Auferstehung.
+
+(59 Noch mehr zeugt davon, und zwar bis auf dieſen Tag, Kalender.
+
+jeder
+
+Alle Tage des Kirchenjahres sind frühzeitig nach Heiligen benannt worden, das heißt, nach solchen Seelen, die im Leben einen guten Kampf gekämpfet und Glauben gehalten haben, und nunmehro dieſem Mittelzustande angehören.
+
+Noch jezt tragen wenig-
+
+ſtens im Kalender die Todestage der Heiligen zu ihrem Gedächtniß ihre Namen. Zugleich wurden aber eben dieſe irdischen Todestage der Heiligen als die himmlischen Geburtstage der zur Herrlichkeit erhobenen Seelen angesehen, dies natales ober natalicia martyrum, ἡμέραι γενέθλιοι οδει τὰ γενέθλια τῶν μαρ τύρων *). Darum fönnen wir an den Todes und Geburtstagen des Kalenders Tag für Tag sterben lernen zu täglicher neuer Geburt und Auferstehung. Alle diese einzelnen Heiligen-Tage konzentriren sich in dem Feste Aller Heiligen, wofür seit 835, also seit länger als einem Jahrtausend, der erste November bestimmt worden ist. Dem Feste Aller Heiligen folgt, wie dem ersten November der zweite, das Fest Aller Seelen, aber erst seit dem 11. Jahrhunderte.
+
+Das Fest Aller Seelen, allen in dem Herrn Verstorbenen gewidmet, begann 1010 in der Benediktiner Abtei Clugny und in allen Klöstern dieſes Ordens durch die Stiftung des Abts Odilo. Später wurde es zu einem mehr und mehr allgemeinen Festtage. Auch diese beide Gedenktage erinnern die streitende Christenheit auf der Erde an die Vollendeten, welche mit ihr einen einigen. Leib bilden, insbesondere an den Verband der untern Gemeinde mit der obern. *) Wir können uns hier nur im Allgemeinen auf den altchristlichen Kirchenkalender berufen, welcher uns fort und fort in die obere Gemeinde verseßt, der wir selbst entgegengehen. Es wäre sehr zu wünschen, daß er uns wieder zur näheren Verständigung gebracht würde. Dadurch könnte jeder Tag schon durch feinen Namen eine Loosung für die Lebenden werden. Einen versuchsweisen Anfang dazu hat uns bereits das Jahr 1850 gebracht.
+
+(60 Diese gemeinſame Beſtimmung beider Feste ist in der römiſchen Kirche insofern auch verschieden, ja ſich entgegengeseßt, als das Heiligen Fest die Fürbitte der Heiligen für die noch dem Erdenleben angehörigen Christen, hingegen das Seelen Fest, die Fürbitte der Lebenden für die verstorbenen, noch nicht zur vollkommenen Herrlichkeit durchgedrungenen. Seelen zum Zweck hat. Die - aber angerufen, Heiligen werden nicht angebetet, — adoratio, adoratio, invocatio, für die zu bitten, welche noch in der Anfechtung veneratio - und als Vorbilder den sind, sie werden verehrt, Lebenden vorgehalten, ― εἴς τε τῶν προηθληκότων μνήμην, καὶ μελλόντων ǎoxnow τῶν μellóvτwv ἄσκησιν ciga Euseb. IV, 15. twv
+
+Den übrigen Seelen wird hingegen von den Lebenden die Fürbitte für ihre Läuterung, und das Andenken commemoratio defunctorum fidelium -gewidmet *).
+
+In der evangelischen Kirche trat die Verehrung der Heiligen wegen der Ausartung in Anbetung, die Fürbitte für die Seelen der Verstorbenen gänzlich zurück.
+
+wegen des Mißbrauchs der Seelenmeſſen faſt
+
+Dennoch sind auch in der evangelischen Kirche manche Reſte wie zum Andenken erhalten geblieben. So nennen wir unsere Kirchen zum Theil noch nach den Heiligen, welchen sie ursprünglich gewidmet worden sind, nicht zu ihrer Anrufung, ſondern zur Erinnerung.
+
+Zu jenen von Mißbräuchen gereinigten Resten gehörten nebst den Marientagen hauptsächlich die Aposteltage, welche beſondere Perikopen und Collekten erhielten. Dahin gehören ferner die Quartaltage Johannis des Täufers, und des Erzengels
+
+*) Es sei hier eine kleine populäre Schriſt genannt, welche jüngst aus der römisch-katholischen Kirche über die leßten Dinge hervorgegangen ist. Sie heißt: „Das Jenseits. Betrachtungen über den Zustand des Menschen in der anderen Welt. Von Karl Bestlin, Pfarrer in Straßdorf bei Schwäbisch - Gemünd. Augsburg, Kollmann 1846.“ Sie führt das Motto: „In allen deinen Werken gedenke an deine leßten Dinge, so wirst du in Ewigkeit nicht fündigen, " cles. 7, 40.
+
+61 * Michael, welcher die triumphirende Gemeinde vertritt. Dahin gehört ferner der Tag Mariä Magdalenă (22. Juli) und Stephani, - 26. December, ingleichen der unschuldigen Kindlein ―― 28. December. Auch der Tag Laurentii (10. August) und der Katharina (25. November) wurde theilweiſe in der lutherischen Kirche geraume Zeit noch gefeiert *) . Jetzt sind leider alle diese Gedächtnißtage größtentheils abgethan. Dagegen ist nicht zu vergessen, daß sich die evangelische Brüdergemeinde außer andern Gedenktagen auch ein Gedächtniß der Märtyrer, so wie Liturgien zum Andenken an die obere Gemeinde bewahrt hat, woran sich auch die Heimgangsliturgien anſchließen. In der evangelisch-lutherischen Kirche wurde auch sorgfältig der Gebrauch festgehalten, daß wenigstens in den drei leßten Sonntagen des Kirchenjahres von den lezten Dingen gehandelt wurde. Dazu waren schon von Alters her die Perikopen der vier leßten Trinitatis Sonntage auserſehen, als des 24. Sonntags nach Trinitatis von der Auferweckung des Töchterleins Jairi, und von dem Erbtheile der Heiligen im Lichte, 1: Matth. 9, 18 26. Col. 1, 914.2 des 25., von der Zukunft des Menschensohnes, und von denen, die da schlafen, und bald aufwachen werden, Matth. 24, 15-28. ,„1. Theff. 4, 13-18. 1: des 26., von dem jüngsten Gerichte, und von der Bereitung zum Reiche Gottes,
+
+Matth. 25, 31-46. 2. Theff. 1, 3-10. *) Wir verweisen hier auf die Schrift: Dr. Th. Kliefoth, Superintendent und erster Domprediger zu Schwerin: Die ursprüngliche Gottesdienstordnung „in den deutschen Kirchen Lutherischen Bekenntnisses, ihre Destruktion und Re„formation. Rostock und Schwerin. Verlag der Schiller'schen Hofbuchhandlung. „1847." S. 45 fg. 52 fg.
+
+des 27. , von den zehn Jungfrauen, und von dem Ende dieser Welt, von dem neuen Himmel und von der neuen Erde, in welcher Gerechtigkeit wohnet. Matth. 25, 1- 13, 2. Petr. 3, 313. In einigen Kirchenordnungen war auch vorgeschrieben, daß in dem Falle, wenn das Kirchenjahr keinen 26. Sonntag nach Trinitatis habe, dennoch die Perikopen deſſelben Matth. 25. 31-46.
+
+2. Theff. 1, 3-10. immer an dem lezten Sonntage des Kirchenjahres gebraucht werden sollten.
+
+Wenn alle Perikopen der drei leßten Sonntage für die allerlegten Dinge, für das jüngste Gericht die christliche Aufmerksamkeit in Anspruch nehmen, so ist die Epistel des 25. Sonntags nach Trinitatis
+
+1. Theff. 4, 13-18. zugleich denen gewidmet, welche schon schlafen in Christo, welche durch Christum entſchlafen sind. In dieser Epistel ist Alles zuſammengefaßt: der Sieg im Tode durch Christum, der Friede nach dem Tode in Christo, der Triumph in der Parusie, wenn der Herr wiederkommen wird ἐν κελεύσματι, ἐν φωνῇ ἀρχαγγέλου, καὶ ἐν σάλπιγγι θεοῦ. Tiers nach sind die Zeichen der Wiederkunft des Herrn Triumphzeichen, ein Feldgeschrei der Engel, eine Stimme des Erzengels, eine Posaune Gottes. Und dann sollen wir, die Todten und die Lebenden zumal, hinangerückt werden in Wolken, dem Herrn entgegen in der Luft. Die Wolken am Himmel gehören auch zu den Zeichen der Gottes-Nähe, sie mahnen an die Wolkensäule, in welcher der Herr des Tages den Kindern Israel voraufzog. 2. Mos. 13, 21. Pf. 99, 7.
+
+104, 3.
+
+Eine Wolke war es auch, welche die Stiftshütte bedeckete. 2. Mos. 40, 34. - 19, 9, 16.
+
+[p. 63] Lobe den Herrn meine Seele! Herr, mein Gott, du bist sehr groß! Du bist ſchön und prächtig geſchmückt. Licht ist dein Kleid, das du anhast. Du breitest aus den Himmel wie einen Teppich. Du fähreft auf den Wolken, wie auf einem Wagen. Pf. 104, 1-4. Es war auch eine lichte Wolke auf dem Berge der Verklärung, welche die Jünger überschattete.
+
+Und siehe! eine Stimme aus der Wolke sprach: Dies ist mein lieber Sohn, an welchem ich Wohlgefallen habe. Den sollt ihr hören. Eine Wolke war es nicht minder, welche zuleßt Jesum aufnahm, vor ihren Augen weg
+
+Apostelg. 1, 9. Und wie Er aufgefahren ist, so wird Er auch wiederkommen. Aber dann werden auch die Seinigen in den Wolken hinangerückt werden, in den Wolken, welche die Teppiche des Himmels und sehr hoch sind
+
+Hiob 35, 5. Hebe deine Augen auf, und siehe umher: Diese Alle versammelt kommen zu Dir. Wer sind die, welche: fliegen wie die Wolken?
+
+Jef. 60, 4. 8. Aber die Wolken erinnern zugleich an die Sünde, die von uns genommen wird, und an die Vergänglichkeit des irdischen Lebens. Unser Leben führet dahin, als wäre eine Wolke da, geweſen.
+
+Weish. 2, 4. Und der Herr spricht: Ich vertilge deine Miffethat, wie eine Wolke.
+
+Jes. 48, 22. So viel sagen uns schon jezt, und zwar gleich bei der ersten Betrachtung, die Wolken der Zukunft. In unserm Tert wird aber auch noch hinzugefügt, daß Alle, die dem Herrn folgen, in. der Luft Ihm entgegen kommen werden, anzuzeigen, daß auch die verklärten Leiber der irdischen Schwere enthoben werden, welche aus der Sünde kommt, und zur Erde herniederzieht.
+
+[p. 64] Hiermit kommt auch die Wahrheit zur Vollendung, welche uns zuvor verheißen ist: „Die auf den Herrn harren, kriegen neue „Kraft, daß sie auffahren mit Flügeln wie Adler, daß sie laufen „und nicht matt werden, daß sie wandeln und nicht müdé werden. " Jef. 40, 31. Dann wird der Herr deinen Mund mit Gutem sättigen, daß du wieder jung wirst wie ein Adler. Pf. 103, 5. So erhebt sich die Epistel, die mit der Ruhe der in Christo Entschlafenen beginnt, zu der künftigen Auferweckung, Verjüngung und Verklärung der mit ihren Seelen wieder vereinigten Leiber. Zulegt ruft sie uns noch zu, daß wir, bei der Erinnerung an unsere Todten und an unseren eigenen nahe bevorstehenden Tod, uns unter einander trösten sollen mit diesen Worten. Hiermit werden wir aber in diesem Jahre das laufende Kirchenjahr noch nicht schließen, denn es wird, so der Herr die Gnadenfrist bis dahin verlängert, erst mit dem 26ften Sonntage abschließen, mit der Predigt von dem jüngsten Gerichte, und von der Bereitung zum Reiche Gottes.
+
+In unserer evangeliſchen. Landeskirche ist fast gleichzeitig mit den ersten Zeichen eines neuen christlichen Lebens durch eine landesherrliche Anordnung vom 17. November 1816 der lezte Sonn tag des Kirchenjahres ausdrücklich als allgemeiner Festtag zum Gedächtniß der Todten und zur Erinnerung an den eignen Tod beſtimmmt worden. Diesen festlichen Abschluß des Kirchenjahres verdanken wir - möchte es nie vergessen werden! — einem durch Gottes Gnade hochgestellten Gliede der Kirche hierunten, welches nunmehr selbst der oberen Gemeinde angehört, zu deren Gedächtniß das Todtenfest bestimmt ist. Und in diesem Feſtgeſchenke verehren wir seit 40 Jahren und noch länger, wiewohl nicht genugsam, eine allen Kirchengliedern werthe und heilsame Vervollständigung des evangeliſchen Festyclus, auf welche die legten Perikopen selbst deutlich hinweisen, und wozu das Ende des Jahres überhaupt [p. 65] mahnet. Wie das Kirchenjahr mit dem Advent, mit der Ankunft beginnt, ſo ſchließt es mit dem Leßten. Und dann folgt dem Feste des Ausganges wieder ein neuer Einzug und Eingang. Der Ausgang erinnert aber nicht allein an den eigenen, sondern auch an das Evangelium unter den Todten, welche im Geiste, Gotte leben, - ζῶσι δε κατὰ θεὸν πνεύματι, und zugleich.- an das Ende aller Dinge, welches nahe herbeigekommen ist ἤγγικε - . 1. Petr. 4, 6. 7.
+
+πάντων δέ τὸ τέλος
+
+Der Eingang erinnert wiederum nicht allein an den ersten Advent, sondern auch an den lezten Advent, an die lezte Zukunft des Herrn; denn noch über eine kleine Weile - ἔτι γὰρ μικρὸν ὅσον ὅσον — adhuc enim modicum aliquantulum wird kommen, der da kommen soll, und nicht verziehen. Hebr. 10, 37.
+
+## VI.
+
+Die legten Dinge der Zukunft, das Leben nach dem Tode und die Auferstehung, bilden den Schlußstein zu der vollkommensten Offenbarung Gottes in Seinem Reiche; sie sind daher nicht allein ein Abſchnitt oder Kapitel der christlichen Theologie, ſondern ihr einiger Inhalt. Insofern ist alle Theologie Teleologie, oder Eschatologie. So schließt auch die heilige Schrift noch zu allerlegt mit einer neuen Prophetie für die Zukunft. Der Glaube hat es nur mit dem zu thun, was droben ist: alles andere folgt von selbst.
+
+Matth. 6, 33. Das vorgesteckte Ziel, oxonós, das Kleinod, ßpaßstov, wozu wir berufen sind von Gott in Christo Jesu, ist droben: die Berufung kommt von Oben und weiset nach Oben, ý ävw xdýois.
+
+[p. 66] Phil. 3, 14 Der Glaube schmecket zuvor die Kräfte der zukünftigen Belt, δυνάμεις μέλλοντος αἰῶνος. 1.52 Hebr. 6, 5. Der Glaube bestehet selbst in der Kraft der Auferstehung Christi, daß wir ähnlich werden Seinem Tode, damit wir entgegenkommen zur Auferstehung der Todten.
+
+Phil. 3, 10. 11. Christus, der Auferstandene, ist das Fundament aller christlichen Theologie. 1. Kor. 15, 17. Darin ist aller Glaube beschlossen, daß Christus nicht allein auferstanden ist aus seinem Tode, ſondern von den Todten —'èx vexp☎v—, Apostelg. 17, 31.
+
+Röm. 6, 4.
+
+daß er erst hinunter gefahren ist zu den Todten, ehe er auferstanden und aufgefahren ist.
+
+Eph. 4, 10. Christus hat als Mensch nicht allein den Tod, ſondern auch den Zwischenzustand nach dem Tode, und erst dann die Auferstehung und die Himmelfahrt erfahren.
+
+Das Reich Christi ist nicht von dieser Welt, wiewohl Er in diese Welt gekommen ist, um sie zu jener geschickt zu machen. Joh. 18, 36.1, 10. 11. Darum stehet auch geschrieben: Suchet, was droben ist, avw Cyjtette τὰ
+
+, da Christus ist, ſizend zur rechten Hand Gottes. rá avw ppoveite -, nicht
+
+Trachtet nach dem, das droben ist, nach dem, das auf Erden ist.
+
+Col. 3, 1. 2. Wir haben hier keine bleibende Stadt, sondern die zukünftige suchen wir.
+
+Hebr. 13, 14. Die Zukunft des Herrn ist nahe. Jac. 5, 8. Offenb. 22, 10.9 mm, 1
+
+Es gilt Schäße sammeln zu einem guten Grunde auf das Zukünftige, zu ergreifen das ewige Leben. dond 1. Tim. 6, 19, So sehnen wir uns, die wir haben des Geiſtes Erftlinge, auch bei uns selbst - ἡμεῖς αὐτοὶ ἐν ἑαυτοῖς, nos ipsi intra nos nach der Kindschaft, und warten auf unsers Leibes Erlösung. Röm. 8, 23. " at
+
+Nach dem Hebräerbriefe hat der ganze christliche Glaube keinen andern Inhalt als die Zukunft, auf die wir hoffen, als das Jenseits, das wir noch nicht sehen.
+
+Der Glaube besteht ſelbſt in den zukünftigen Dingen, die wir hoffen, er ist der Bestand des, das wir hoffen, ὑπόστασις πραγμάτων ἐλπιζομένων, ὑπόστασις βεβαία, παῤῥησία τῆς ἐλπίδος,
+
+Hebr. 11, 1. er ist der Halt und die Probe, wir leiblich nicht sehen.
+
+3, 6. 14. Xerxos, für das Jenseits, das Hebr. 11, 1. Oder, mit anderen Worten, der Glaube hat es nicht nur mit dem jenſeitigen und mit dem ewigen Leben zu thun, sondern er verſeßt uns auch schon dieſſeits hinein durch Aneignung. Die Zukunft ist schon in uns, das Jenseits ist schon diesseits durch den Glauben, welcher eben hierdurch auch das Diesseits zu verklären, und dieſes Leben sammt uns selbst mehr und mehr zu heiligen bestimmt und vermögend ist. Solchergestalt geschieht es, daß uns mit dem, das droben ist, auch alles Andere zufällt. Nicht besteht der Glaube darin, daß wir müßig hinauf- und hinüberſchauen, sondern daß schon hier unser Wandel im Himmel sei. Phil. 3, 20.
+
+Es ist schon einmal erwähnt worden, daß der Glaube, als ein Vorschmack des Himmels, Silberblické erfährt und erhält, in welchen die Zukunft mitten in die Gegenwart hineinſcheint. So steht die Sonne am Himmel und iſt voch auf der Erde.
+
+% $ 30 5*
+
+[p. 68] Ich hab' von ferne, Herr, deinen Thron erblickt, Und hätte gerne Mein Herz vorausgeschickt, w Und hätte gern mein müdes Leben, Schöpfer der Geister, dir hingegeben!
+
+Das war so prächtig, Was ich im Geist gesehn! Du bist allmächtig; Drum ist dein Licht so schön! Könnt' ich an diesen hellen Thronen Doch schon von heute an ewig wohnen. 2C. 2C. 20. 2C. Ich bin zufrieden, Daß ich die Stadt gesehn; Und ohn' Ermüden .it.
+
+Will ich ihr näher geh'n, Und ihre hellen, gold'nen Gaffen Lebenslang nicht aus den Augen laſſen. Offenb. 21, 1. Der Glaube ist noch kein Schauen, aber eine Vorschau. Offenb. 21, 10. 11. Er ist blind und sieht doch: er sieht's noch nicht, und empfindet's doch. Er ist wie sein Gegenstand - ein Wunder: ja, es ist kein Wunder so groß, als daß der Mensch aus Fleisch glauben kann, wirklich glaubt. Der Glaube ist wie sein Inhalt übernatürlich. Er hat das Höchste und Leste, das noch nicht sichtbar ist, nicht allein zu seinem Gegenstande vor und außer sich, sondern zu seinem Sein und Wesen.
+
+Darum ist er nicht Jedermanns Ding, und ist doch für Alle. So hat umgekehrt der Unglaube das Niedrigste, nämlich das Fleiſch, nicht allein als seinen Gegenstand außer sich, ſondern als sein Dasein in sicher flieht und verschmäht das Wunder, wie قا [p. 69] ein Gespenst; und das Fleisch spricht: „Laffet uns essen und trin„ken, denn morgen sind wir todt. " d 1 Kor. 15, 32. Jef. 22, 13. Der Unglaube kommt nicht weiter, als daß - die Todten todt sind und todt bleiben. Der Spiritualismus ist nur eine feinere Form des fleischlichen Unglaubens. Ihm entgegen enthält der Glaube eine doppelte Zuversicht, Snooτaois, denn er zeuget: 1) die Todten sind nicht todt nach ihren Seelen, denn sie leben in Hoffnung, 2) die Todten bleiben nicht todt nach ihren Leibern, sondern sie werden auferstehen und leben. In diesem Sinne ergehet an Alle die große Frage der Schrift: „Wenn die Todten nicht wirklich und vollkömmlich, nicht allerdings „und ganz und gar auferstehen, - εἰ ὅλως νεκροὶ οὐκ ἐγείρονται, was thun denn diejenigen, die sich taufen lassen über den Sobten? - οι βαπτιζόμενοι ὑπὲρ τῶν νεκρῶν; — Sei es, daß solche Täuflinge für schon Verstorbene, sei es, daß sie für sich selbst im Angesichte des Todes, am Rande des Grabes die Taufe empfangen, immer empfangen sie die Weihe des Sakramentes für das Reich der Todten, für die obere Gemeinde. 1 Kor. 15, 29. obten nicht auferste Und was hilft ihnen Solches Alles, so die Todten nicht auferstehen? was hilft das Sakrament, mittelst dessen das Wort Gottes als des Geistes in das Leibliche und Sichtliche kommt, accedit Verbum ad elementum, wenn eben dieses Leibliche und Sichtliche todt ist und todt bleibt? Auf diese inhaltschwere Frage antwortet der Glaube und bekennt sich zu dem Leben im Tode, zu dem Reiche und zu der Gemeinde der Todten, welche leben und auferstehen werden. Auf dieſe Todten weiset der Glaube.
+
+Und dennoch ist uns auch gesagt: „Laß die Todten ihre " Todten begraben! " Αφες τοὺς νεκροὺς θάψαι τοὺς ἑαυτῶν νεκροὺς. Μόνο π Όλα τα
+
+[p. 70] Matth. 8, 22. Was will das bedeuten? Das Wort:
+
+Laß die
+
+Luc. 9, 60.
+
+Todten ihre
+
+Todten begraben!
+
+es ist ein Wort des Herrn, vor dem wir still und stumm stehen bleiben, bis sich uns eins und das andere daraus erklärt. Der Herr hat selbst die beste Anleitung zur Erklärung gegeben. Die Erklärung liegt in der Folge der Erzählung: denn wie dem Einen, welcher Jesu nahte, weil er auf das Gebot: Folge mir nach! erst um Erlaubniß bittet, daß er zuvor hingehe und seinen Vater begrabe, die Antwort wird: Laß die Todten ihre Todten begraben, so erhält ein Anderer, welcher, auf dieselbe Einladung und Berufung, um Erlaubniß bittet, zuvor einen Abschied zu machen mit denen, die in seinem Hause sind, den Bescheid: Wer seine Hand an den Pflug legt, und siehet zurück, der ist nicht geschickt zum Reiche Gottes. Luc. 9, 61. 62. Der Sinn ist klar: Nicht die Sorge um die Todten, nicht die Bestattung der Todten, nicht das Gedächtniß der Todten, nicht der Abschied, den wir zu nehmen haben, wenn wir auswandern, wird von dem Herrn abgewiesen, sondern daß wir zurück ſehen, statt vorwärts und aufwärts zu sehen, daß wir geistlich tobt die leiblich todten Freunde begraben und verabschieden, statt hinzugehen und das Reich Gottes zu verkündigen.
+
+Luc. 9, 60. Es ist ein inhaltreiches Wort, welches der Herr dem zu ſeiner Nachfolge berufenen Jünger vorhält: Todten begraben!
+
+Laß die Todten ihre
+
+Wer kann es erschöpfen?
+
+sdd Zunächst heißt es, und ſo wird es insgemein ausgelegt: Ueberlaffe die äußere Bestattung der Todten denen, die für die Nachfolge im Geiste todt fiud, und laſſe du dich dadurch nicht von der Nachfolge abhalten, wozu du berufen bist.
+
+Nach dieser Erklärung sind die Todten, welche begraben, in einem andern Sinne zu fassen, als die, welche begraben werden. / Es heißt aber auch ferner und in tieferem Sinne: Die Todten [p. 71] bilden eine Gemeinschaft für sich, nach ihren Leibern auf den Gottesåckern unter der Erde, wo sie zuſammen ruhen: nach ihren Seelen droben bei dem Herrn, als die obere Gemeinde. Laſſe du dieſe mit einander schlafen und leben, lasse du diese sich unter einander bestatten und versorgen; und versorge du wieder, was dir befohlen ist. Nach dieser Auslegung sind die Todten, die begraben und die begraben werden, in demſelben Sinne, nämlich als die Abgeſchiedenen zu verstehen: aber das Begraben, welches der Herr meint, ist im weiteren Sinne gefaßt, als es der genommen hatte, der um Erlaubniß zum Begräbniß gebeten hatte. Aber wie auch das Wort gedeutet werde, Röm, 6, 4. Col. 2, 12 immer ist der Gegensaß dieser, daß die Todten für die Todten, die Lebenden für die Lebenden zu sorgen haben, weil Gleich und Gleich zusammengehören. Jenen, den Todten, welche unterwärts begraben, ist damit zugleich das Wort gesagt, welches freilich uns allen auch gilt, uns alle trifft: Wache auf, der du schläfft, und stehe auf von „den Todten, so wird dich Christus erleuchten! " Eph. 5, 14. Allen, welche nur unter die Erde begraben, ist zugleich die Frage gewidmet: Was such et ihr die Lebendigen bei den „Todten? " Luc. 24, 5. Aber es ist auch ihnen und Allen der Trost hinzugegeben:
+
+Gott ist nicht ein Gott der Todten, „ſondern der Lebendigen. Ihm leben sie alle. " Luc. 20, 38. So leben die Todten oben unter einander, und wecken unten die, welche zu leben meinten und todt waren, daß sie nicht rückwärts und unterwärts ſehen, wenn sie einmal die Hand an den Pflug gelegt haben, sondern überwärts wärts. vor-
+
+Diesen, den Lebenden, welche den begrabenen Todten gegenübergestellt werden, ist es aber darum nicht erspart, daß sie täglich der Sünde absterben und durch die Taufe begraben werden in den Tod Christi, -- εἰς Χριστὸν Ἰησοῦν, εἰς τὸν θάνατον αὐτοῦ, -- auf daß, gleichwie Christus ist auferwecket von den Todten durch die Herrlichkeit des Vaters, alſo ſollen auch wir, die [p. 72] wir todt waren in Sünden und in der Vorhaut unſeres Fleisches, in einem neuen Leben wandeln. Röm. 6, 4.
+
+Col. 2, 12. ''ཡུཾ, So sterben die Lebenden täglich, so sie wirklich lebendig, nämlich gläubig geworden sind, ja ste sind schon gestorben und ihr Leben ist verborgen mit Christo in Gott. „Wenn aber Christus, euer Leben, sich offenbaren wird, dann werdet ihr auch offenbar werden mit ihm in der Herrlichkeit.“ Col. 3, 3. 4. So folgt dem Sterben, dem Verborgen und Begrabenwerden immer wieder ein neues Leben, die Wiedergeburt zu einem neuen Leben, wodurch die Lebenden den Verstorbenen ähnlich, aber nicht gleich werden: daher es immer dabei bleibt, daß zunächst die Todten mit den Todten, und siehe sie leben!, die Lebenden mit den Lebenden, und siehe sie sterben! zusammengehören. Immer bleibt es dabei, daß die Todten ihre Todten in ihrer Weise begraben, die Lebenden hingegen hingehen, das Wort-dés Lebens zu verkündigen. Es ist wohl zu merken, daß der Mensch, πρῶτον hinzu welcher um die Erlaubniß bittet, zuvor πрãтоv · gehenμo ἀπελθόντι dneλdóvrɩ — und ſeinen Vater zu begraben, von dem Herrn ſelbſt angewiesen wird, hinzugehen, das heißt zum Begräbniß zu gehen, nur nicht zuvor, ehe er Christó nachfolgt, sondern daß er das Begräbniß in Jesu Namen ausrichte å πeλθῶν διάγγελλε τὴν βασιλείαν τοῦ θεοῦ Durch die Antwort Jesu ist jedenfalls nicht der Umgang derer, die noch im Fleische leben, mit denen, die nach Seele und Geist fortleben, ausgeschlossen, nicht die Sorge für die Bestattung der Todten und für das Begräbniß abgeschnitten, sondern nur die Stellung der Lebenden zu den Todten, des Begrabens zu dem Begrabenwerden vorgezeichnet. Hat doch der Herr selbst an ihm selbst das Begräbniß geheiligt, wenn er spricht: Lasset sie mit Frieden; Solches hat sie behalten zum Tage meines Vegräbniſſes. Denu Arme habt ihr „allezeit bei euch, mich aber habt ihr nicht allezeit. " mart mica Na pia toto qua Buc. 12, 7, 8.
+
+[p. 73] Durch das Wort: Laß die Todten ihre Todten begraben ist mithin die Sorge um die Todten den Lebenden so wenig verkürzt, als durch jenes Wort, welches die Armenpflege der Salbung Marias zum Begräbnisse unterordnet, die Sorge für die Armen erlaſſen wird. ´Wird doch Waiſen und Wittwen in ihrer Trübsal besuchen als ein Gottesdienst, Jak. 1, 27. und was wir dem Aermſten erweiſen als demHerrn ſelbſt erwieſen zum Voraus angesehen! * 193 Matth. 25, 40. So wird auch das Verhältniß der Eltern und Kinder und der nächsten Verwandten unter einander vielfältig dem Verhältnisse der Menschen zu Christo untergeordnet, Matth. 10, 35, 37, aber eben damit geordnet.
+
+In diesem Sinne sagt der Herr selbst zu seiner Mutter: Weib, was habe ich mit dir zu schaffen? τὶ ἐμοὶ καὶ σοὶ, γύναι; Joh. 2, 4. Vielmehr sind alle diese Verhältnisse unter den Menschen, die Ehre und die Liebe, die wir den Todten, und den Aeltern, und den Armen, oder den Wittwen und Waisen darbringen, nur in die ihnen angehörige Stellung gewiesen, und grade durch die Richtung, die ihnen vorgezeichnet wird, nur noch höher gestellt, denn sie werden alle auf Jesum gewiesen und erst dadurch geheiligt: sie gelten nur nicht, weun sie von der Nachfolge Jesu, von dem Dienſte an Seinem Worte abhälten, wenn sie nicht im Namen Jesu geschehen. — Darum lassen wir, die wir leben, die Todten mit den Todten nach ihrem neuen Leben in ihrer Gemeinschaft mit einander ver: kehren; aber wir sterben auch ſelbſt täglich der Sünde ab, um auch unſererseits mit ihnen in einer wenn auch entfernteren Gemeinschaft zu bleiben, bis wir auch nach dem Leibe sterben, um dort mit ihnen zu leben bei dem Herrn; denn " der Weg des Lebens gehet über" wärts --, um flug zu machen, auf daß man meide לְמַעְלָה „den Weg des Todes zur Hölle unterwärts  מָטָה-
+
+[p. 74] Spr. 15, 24. Darum gilt es, und das ist die Summa, daß wir nicht rückmaris sehen, εἰς τὰ ὀπίσω, 2 Luc. 9, 62. sondern vergessen, was dahinten ist, rà iníow, und uns strecken nach dem, das da vorne iſt, rois dè éµπpoodev étexteivóµμevoi, Phil. 3, 13. und den Weg überwärts gehen, wo eben auch die Todten sind, die in dem Herrn sind heimgegangen. Wenn der Weg des Lebens überwärts geht, so führt auch der Weg des Begräbnisses, weil zum Leben, überwärts. Wie fähret, so fähret der Odem des Viches unterwärts - pp der Geist des Menschen aufwärts ---- phuph Pred. 3, 21. 12, 7. Der Tod ist der Sünde Sold, aber die Gabe Gottes ist das ewige Leben in Christo Jesu, unserm Herrn. Röm. 6, 23. Darum ist die Loosung der Lebenden und der Todten Aufwärts! Zur Heim- und Auffahrt nach Oben! Nach dieser Loosung benannt,  מאלות-sind auch die 15 Psalmen 120 123. welche unter dem Namen Stufenlieder, cantica graduum. oder Psalmen im höheren Chore bekannt sind, carmina ascensionum, Es sind Pilgerάσματα & quata tys ávaßacéws — nibyen)* שִׁיר lieder, Wallfahrtslieder, welche die Israeliten auf ihren jährlichen Reiſen zu den hohen Festen nach Jerusalem gemeinschaftlich ſangen: die Feftzüge waren selbst darnach genannt:
+
+hy nibyan *).
+
+Da rufen alle Herzen zu dem Herrn, 120. 130. da heben die Waller ihre Augen auf zu den Bergen, und die Hände auf zum Heiligthum, dem Herrn zu befehlen der Sonne Hiße und den Ausgang und den Eingang, des Mondes Licht und 121.
+
+123.
+
+E. W. Hengstenberg: Commentar über die Psalmen. IV. 2. 1847 ;, 6.1. folg. sie [p. 75] ziehen nach dem Hauſe des Herrn im Vertrauen und in Hoffnung, 122, 124. 125, 127, 129, 131. und beten vor Seinem Schemel, bbw
+
+132.
+
+wie die Gefangenen Zions sich freuen mit Jauchzen ihres Auszugs und ihrer Erlösung, 5184 126. und die Brüder einträchtig bei einander wohnen, in feiner und lieblicher Gemeinschaft, welche, wie der Thau ist, der vom Hermon fällt auf die Berge Zion. Denn daselbst verheißt der Herr Segen und Leben immer und ewiglich. Wer fühlt es nicht, wer zweifelt noch, daß die Pilger-Psalmen aufwärts gehen und ziehen, daß es Wallfahrtslieder: sind, Heimathlaute, Heimwehseufzer, Schwanenlieder, Jubeltöne zur Auf---fahrt, welche nach dem Jeruſalem dringen, das droben ist, ἡ δὲ ἄνω Ἱερουσαλήμ Das ist die Freie, das ist unser aller Mutter, denn von ihr kommen alle Kräfte des ewigen Lebens. Gal. 4, 26. · Hebr. 12, 23. ›. Jerusalem, du hochgebaute Stadt! Wollt Gott', ich wär in dir!
+
+菲
+
+## VII.
+
+Es ist neuerdings gesagt worden, daß die Eschatologie zu denjenigen Regionen der Offenbarung gehöre, welche noch am wenigsten entwickelt, beleuchtet und angebaut; ſind. *)
+
+Es kann hinzugefügt werden, daß diese noch zu erwartenden, näheren Erfor-
+
+* Heinrich Thiersch: Vorlesungen über Katholicismus und Protestantismus. Erlangen, Heyder, 1846, S. 192. II. G. 183 fg bangel. Kirchen Zeitung 1847, Nr. 64.
+
+[p. 76] schungen nach der Schrift und aus dem Leben der Kirche zu der speciellen Aufgabe unserer Zeit zu rechnen sein möchten.
+
+Deutet darauf nicht ſelbſt der Streit unserer Tage über die Auferstehung des Fleisches, welcher nicht allein diejenigen berührt, die noch nicht in den Mittelpunkt und Lebenspuls des Glaubens gedrungen sind, sondern auch Andere wankend macht?
+
+Aber es kommt noch mehr hinzu, um für ein weiteres treues Nachdenken über die leßten Dinge grade unsere bewegte Zeit in besonderen Anspruch zu nehmen. — Hienieden ist uns die Arbeit verordnet im Schweiße des Angesichts: darum ſieht die Seele im Glauben nach der Zeit aus, wo sie ruhen wird von ihrer Arbeit. Hienieden sind wir zum Kampfe berufen, zum Kampfe mit uns selbst und mit der Welt: desto lockender winken uns die Friedenspalmen.
+
+Ist nun in unserer Zeit die Arbeit im Dienste des Herrn besonders schwer und der Kampf beſonders heiß, ſollte sich da nicht auch mit der erhöheten Sehnsucht nach Ruhe und Frieden das Auge des Geistes für die jenseitigen Regionen, wo alle
+
+Fehde ein Ende hat, desto heller und einfältiger erſchließen?
+
+Und wenn aus dem Getümmel der Gegenwart hindurch der Blick auf die Zukunft des Friedens gelenkt wird, sollte dann nicht auch unter denen, die mit der Ewigkeit zu schnell fertig geworden sind, mehr und mehr Beugung vor den Geheimniſſen der Offenbarung, deren Erfüllung Jedem so nahe bevorsteht, zu erwarten sein? ſollte nicht in Folge solcher Beugung auch hienieden der Friede von Oben die Kämpfenden mehr und mehr versöhnen? — Auch insofern scheint die Zeit für die Ausbildung der Lehren, welche von einer Mehrzahl der Genossen angefochten und angezweifelt werden, beſonders günstig zu sein.
+
+Dazu gehört freilich Ruhe und Sammlung: aber was könnte auch mehr zu stiller Einkehr auffordern, als der laute Lärm und Hader des Tages? So sind auch wirklich schon mitten unter den Wirren der Zeit einzelne harmlose Zeichen eines ruhigen Blickes nach dem Lande des Friedens unter uns erschienen. Darauf deuten ſelbſt Flugblätter unſerer Zeit, die wie Fragen an die [p. 77] Zeit ergehen. *) → Möchten doch auch diese geringen Beiträge, indem sie den Blick auf den Frieden lenken, welcher jenseits den Gläubigen verheißen ist, zu dem Frieden diesseits durch den Glauben beitragen !. Aber es ist auch noch kürzlich gerathen worden, nicht Todten zu fragen. "
+
+die
+
+Hierdurch werden wir zur Nüchternheit und Wachsamkeit ermahnt, vor Selbsttäuschungen gewarnt, welche auf diesem Gebiete besonders nahe liegen, wenn wir herzutreten, ohne die Schuhe auszuziehen, ohne uns täglich die Füße waschen zu lassen, Aber keineswegs soll mit dieser Warnung vor unberu fenen Fragen jede Wahrnehmung aus der obern Welt, aller Verkehr und Zusammenhang zwischen der unteren und meinde in Zweifel gestellt werden:
+
+oberen Gevielmehr gehört eben dieſes
+
+Kapitel selbst, das Kapitel von dem Verhältnisse zwischen dem Diesseits und Jenseits, ebenfalls zur Eschatologie. Thun wir nicht einen Blick in diesen freilich nicht sichtbaren Zusammenhang, so oft wir eine Seele im Glauben scheiden, im Herrn sterben, und hinübergehen sehen? In solchen Augenblicken der Trennung scheint der Vorhang gleichsam zu zerreißen und die Scheidewand gehoben zu sein, durch die doch in eben diesem Augenblicke die Bleibenden von der scheidenden Seele getrennt worden sind. →→→ Aber die Empfindung, welche wir Angesichts des Todes erfahren, vermag kein Wort auszudrücken; sie will erfahren sein. Hier sollte nur angedeutet werden, daß ohne ein Sterbebett, - wo der Vorhang zu zerreißen, die Scheidewand für einen Augenblick zu fallen scheint, alle Dogmatik über die leßten Dinge verstummen muß. *) Ueber den Zustand der Seele nach dem Tode bis zur Auferweckung ihres Körpers. Heilbronn, Drechsler'ſche Buchhandlung. Dritte Auflage. 1845. G. Steinbeis. Diesseits und Jenseits. Ein Abhandlung über die Bedeutung des Todes. Für Gläubige und Ungläubige verfaßt und Herrn Dr. Justinus Kerner gewidmet. Zweite Auflage. Heilbronn, Drechsler. 1847. - Dr. WohlK. Bestlin: Das Jenseits. farth: Blicke in das Jenseits. Eisleben, 1847. Augsburg, 1846. - J. N. Müller: Der Kirchenvater Tertullian über die Auferstehung des Fleisches. Magdeburg, 1847. — D. V. Ph. Gumposch: Die Seele und ihre Zukunft, →
+
+[p. 78] Merkwürdig ist auch in dieser Beziehung das Ereigniß beim Tode Jesu, da der Vorhang im Tempel zerriß, von oben an bis "unten aus.
+
+Und die Erdé erbebte, und die Felsen zerrissen, und „die Gräber thaten sich auf, und standen auf viele Leiber der Hei„ligen, die da schliefen, und gingen aus den Gräbern nach der Auferstehung, und kamen in die heilige Stadt, und erschienen "Vielen. " Matth. 27, 51-53. Solches Ereigniß ist einzig, wie der Tod selbst, dessen Folge es war; aber etwas Aehnliches, ein Schatten jener einigen Thatsache, begleitet jede Todesstunde, wo eine Seele in dem Herrn ausziehet, und eine andere nachstehet. Es ist, als schlösse sich der Vorhang erst später allmählig wieder zu:
+
+darum ist auch der stechendste
+
+Schmerz1 im Anfange hebend: der drückende kommt später nach. Es ist auch bekannt, daß grade die Feier des Todes Jeſu in dem heiligen Abendmahle schon den Christen der ersten Jahrhunderte dazu gesegnet geweſen iſt, auch den Zuſammenhang zwiſchen der unteren und oberen Gemeinde, welche beide nur Eine Gemeinde, Einen Leib bilden, zum Bewußtsein zu bringen. In eben diesem Bewußtsein bekennen wir auch die Gemein8 schaft der Heiligen, welche sowohl auf diejenigen sich bezicht, die in Christo entſchlafen sind, als auf die Lebenden Daß dieser Zusammenhang dennoch selbst unter den gläubigen Christen so selten zur beſonderen Anerkennung, so wenig zum lebendigen Bewußtsein kommt, das hat seinen nächsten Grund — in der Schwere, welche zur Erde niederhält, in der Uebermacht der Materie, welche der Antäus in uns aus der Erde ziehet. Damit steht die natürliche Scheu vor dem Geiste in Verbindung, welche den Erscheinungen der hereinragenden Geisterwelt nicht traut und mit - den Gespenstern verwechselt. Aber wer dürfte, um solcher Truggestalten willen, das Hereinragen des Geistes ſelbſt und die Nähe des Herrn bezweifeln? Feiern wir nicht Pfingsten? Empfangen wir nicht den für uns gestorbenen und auferstandenen Heiland in dem Abendmahle, welches eben darum frühzeitig zu einem Bunde mit den in dem Herrn Verstorbenen, und [p. 79] hiermit auch nach dieser Seite zur Communion geworden ist? Hat doch der Herr selbst gebetet: „Vater, ich will, daß, wo ich bin, — ὁποὺ εἰμὶ ἐγὼ - auch die bei mir sein, die du mir gegeben hast."
+
+Joh. 17, 24.
+
+Darum je näher uns Christus iſt, um ſo näher werden uns auch diejenigen sein, mit welchen wir in Ihm hienieden verbunden waren. Durch Ihn finden wir auch zu den Seinen denjenigen Zugang, der uns frommt, so wir nur wirklich darnach Verlangen tragen und treu sind in dem Andenken, das die Vergangenheit, und in der Sehnsucht, welche das Jenseits der Zukunft nahebringt. Etwas Anderes ist es, wenn uns die Erde drückt: etwas Anderes, wenn sie uns anzieht.
+
+In jenem Falle, je mehr sie drückt, desto stärker hebt das Verlangen die Flügel, daß wir auffliegen, und in getroſter Zuversicht fingen:
+
+Dann wird Schwachheit und Verdruß Liegen unter unserm Fuß.20 Aber wenn die Erde uns anziehen, wenn sie uns den Geist in seiner Wirklichkeit verdächtigen, wenn sie uns das Verlangen nach dem Zustande der Verstorbenen verkümmern will, dann ist es Zeit, daß wir die Stimme des Glaubens hören:
+
+Nur daß ihr den Geist erhebt Von den Lüften dieser Erden, Und euch dem schon jezt ergebt, Dem ihr beigefügt wollt werden. Schickt das Herze da hinein, Wo ihr ewig wünſcht zu ſein. Allein wie wir auch aufgefordert sind, in das zukünftige Leben uns hinein zu denken, daß wir seinen Frieden vorab schmecken, so sind wir doch vor allem unruhigen Vorwiße der Neugierde ge Es ist merkwürdig, daß uns der Herr selbst, der Auferum standene, daß uns das Wort Gottes so wenig davon ſagt, warnt.
+
+durch das bescheidene Maaß uns in Zucht zu erhalten.
+
+[p. 80] Merkwürdig ist es auch, daß die in der heiligsten Todesstunde auferstandenen Heiligen nur erscheinen, aber nicht reden, und daß die Tochter Fairi, der Jüngling zu Nain, und Lazarus – zu Bethanien, wenigstens für uns, stumm bleiben, ohne zu zeugen von dem Zustande, aus welchem sie für eine Spanne Zeit wieder zurückgekehrt waren.
+
+Jeder Mythus, wie wahr auch der Gedanke sei, der ihm zum Grunde liege, - σεσοφισμένος μύθος, jede kluge
+
+Fabel sagt mehr, als die Wahrheit sagt.
+
+Wir erinnern nur an
+
+Platon's Erzählung von dem Pamphylier Er, welche für keine Rede des Alkinos gehalten sein will, und wenigstens nicht unter die altvettelischen, - βεβήλοι καὶ γραώδεις μύθοι, 1. Tim. 4, 7., σεσοφισμένοι μύθοι, ſondern eher unter die klugen Fabeln, -2. Petr. 1, 16., zu rechnen, und darum nachzuleſen ſein dürfte (Staat. X. 614 folg.).
+
+Es sei hier auch an Saul's Ungeduld erinnert, welche weder durch Propheten, noch durch Träume, noch durch das Amts -Schildlein # Licht und Recht" Licht erhalten konnte, und deshalb auf verbotenem Wege - die Todten fragte. Ihm wurde von dem Schatten Samuels die Antwort:
+
+" Morgen wirst du und deine Söhne mit „mir ſein“ im Todtenreiche.
+
+1. Sam. 28,
+
+Hiermit sind wir zur Geduld verwiesen, daß wir stille ſein und warten, aber in Zuversicht. Je näher wir dem Tode kommen, desto näher kommt auch uns der Tod, und das Reich, welches jenseits des Todes liegt.
+
+Und dem Tode können wir nicht allein durch die Zeit mit jedem Tage, sondern auch durch den Gedanken immer näher kommen.
+
+Merkwürdig ist auch in dieser Beziehung, was uns von der lezten Lebenszeit Jesu erzählet wird die Fülle von Thaten, Lehren und Weiſsagungen, welche grade dieſer lezten Zeit angehören: wir erinnern zugleich an die ebenfalls der lezten Zeit angehörige Verklärung Jesu auf dem Berge, da zwei es Männer erschienen in Herrlichkeit, év dókn, und redeten, [p. 81] waren Männer, welche wir todt nennen, und Er selbst, welcher sich mit seiner ganzen Seele in den bevorstehenden Tod versenkt hatte,P ward betend verwandelt und verkläret, und sein Angesicht leuchtete wie die Sonne, und seine Kleider würden weiß, wie Licht, und wie Schnee. Und der Lebenden waren auch drei, welche zusehen durften, nämlich Petrus, und Johannes, und Jacobus Zebedäi, der Bruder des Johannes, welche zwar erschrecken und niederfallen und sich fürchten, aber auch auf ein Wort des Troſtes wieder aufstehen, und in dieser Todten- Gesellschaft Angesichts des Todes - Ueberwinders sich so wohl fühlen, daß Petrus ausruft: „Herr, hier ist gut sein! Willst du, so wollen wir drei Hütten „bauen, dir eine, Mofi eine, und Elias eine. "
+
+Aber wir möchten lieber auf die dreifache Erzählung in den Evangelien selbst verweisen, denn es ist ein jedes Wort von großer Bedeutung zur Lehre und zum Troste.
+
+Matth. 17, 1-13. Marc. 9, 2-13. Luc. 9, 28-36. *)
+
+Hier sei aus der Geſchichte von der Verklärung Chriſti und von der Erscheinung zwei verklärter Todter nur noch Einzelnes besonders zur Erwägung gestellt.
+
+Jesus führete die drei Jünger auf einen hohen Berg beifeits, nar idiav, seorsum, besonders allein, xat idiav μóvous, seorsum solos.
+
+Es waren der Jünger drei, und zwar dieſelben Drei, die er im Garten zu Gethsemane zu sich nahm. Im Garten waren *) Wir benußen diese Gelegenheit, auf eine sehr empfehlungswerthe Schrift aufmerksam zu machen, welche der Provinz Sachsen angehört, wie diese Zeilen. Ihr Titel ist: Das Évangelium von Jesus Christus. Synoptisch zuſammengestellt und zur Erbauung erkläret von Karl Braune, evangel. Pfarrer zu Zwethau. Grimma, Gebhardt, 1845. S. 173 folg.
+
+[p. 82] sie Zeugen seiner Erniedrigung und seiner Leiden, auf dem Berge fr Zeugen seiner Verklärung. Dieſelben drei nahm Jesus zu sich, und ließ sie ihm nachfolgen in das Haus Jairi, da er das todte Töchterlein auferweckte. ! Es waren aber auch der Verklärten drei auf diesem hohen Berge, abgesondert von der Welt: nämlich zwei Todte in Klarheit und Herrlichkeit, und Der, welcher die Auferstehung und das Leben ist. Die Erscheinung war freilich nur einem kleinen Häuflein sichtbar. Da spricht Petrus: Hier ist gut sein! xaλóv kotiv quas de elva. Bonum est nos hic esse. Aber die Hütten, zur Niederlasſung auf die Dauer beſtimmt, die Hütten, welche Petrus herzuwünschte, -nicht für sich und die Jünger, ſondern für Jeſum und die Verklärten, — sind immer noch nicht erbauet worden, sondern stehen noch in Aussicht für eine neue Erde mit einem neuen Himmel, wovon wir hier auf dem hohen Berge beiseits nur die Vorzeichen sehen. Petrus, dem das Gesicht so gar wohl gefiel, Petrus hat es gewiß niemals vergessen, was er gesehen; denn er zeuget noch ſpäter davon, wenn er schreibt: „Wir haben nicht klugen Fabeln σεσοφισμένοις μύθοις gefolgt, da wir euch kundgethan haben die Kraft und Zukunft unſers Herrn Jesu Chriſti, und haben ſeine Herrlichkeit selbst gesehen; da er empfing von Gott, dem Vater, Ehre und Preis, durch eine Stimme, die zu ihm geschah von der großen Herrlichkeit dermaßen:
+
+„Dieß ist mein lieber Sohn, an dem Ich Wohlgefallen habe. "
+
+Und diese Stimme haben wir gehöret vom Berge gebracht, da wir mit ihm waren auf dem› heiligen Berge."
+
+2. Petr. 1, 16. 17. 18.
+
+Da aber die Jünger die Stimme aus der Wolke höreten, welche den innersten Kern und Stern des Gesichts bildet, als sie das Wort Gottes höreten:
+
+[p. 83] Dies ist mein lieber Sohn, an welchem ich Wöhli "gefallen habe! Den sollt ihr hören. Οὗτός ἐστιν ὁ ὑιός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα· αὐτοῦ ἀκούετε! Hic est Filius Meus dilectus, in quo Mihi bene complacui: ipsum audite!
+
+da fielen sie auf ihr Angesicht und erschraken sehr.
+
+Jesus aber trat zu ihnen, rührete sie an und sprach: Stehet auf und fürchtet euch nicht!
+
+Eréponte, xai un poßetode. 8. Matth. 17, 8,
+
+Sie waren aber schon vorher bestürzt, expoßol. Mare. 9, 6. pot bra la Und Petrus, und die mit ihm waren, waren voll Schlafs,
+
+BeßaρnuévoL Bпva, gravati erant somno. Luc. 9, 32. Und Petrus wußte nicht, was er redete: oo yàp žôεɩ τὶ λαλήσει. τις Marc. 9, 6. Luc. 9, 33. Lauter Zeichen der Ekstase, ohne welche aus der höheren
+
+Welt des Geistes nichts zu sehen und nichts zu hören ist! Wem aber irgend ein Vorblick wird aus dem Reiche Gottes, der darf sich solcher hohen Offenbarung nicht überheben, 2. Kor. 12, 7. fonbern er beuget fic dem Serrn.
+
+Εἴτε γὰρ ἐξέστημεν,
+
+Θεῷ·
+
+εἴτε σωφρονοῦμεν, ὑμῖν.
+
+2. Kor. 5, 13,
+
+ཨཱདཱ ནཱ ཐཱནྟི Moses aber und Elias erschienen in Klarheit vor dem in Licht verklärten Menschensohne und redeten mit ihm von dem Ausgange, den er ſollte erfüllen zu Jerusalem, leyov thy
+
+ἔξοδον αὐτοῦ, ἦν ἔμελλε πληροῦν ἐν Ἱερουσαλήμ. Dicebant excessum ejus, quem completurus erat in Jérusalem.
+
+Luc. 9, 31. Die Verklärung Christi auf dem Berge ist nicht nur ein Vor6* [p. 84] zeichen derjenigen Verklärung, die ſeinem Ausgange, ſeinem Tode folgen sollte. serer Leiber.
+
+Sie ist auch ein Vorzeichen der
+
+Verklärung un-
+
+Phil. 3, 21. Darum sezt auch Petrus, da er das selige Gesicht wiederum in Erinnerung bringt, alsbald hinzu: „Wir haben ein festes - prophetisches Wort, und ihr thut wohl, daß ihr darauf achtet, als auf ein Licht, das da scheinet an einem dunkeln Drt, bis der Tag anbreche und der Morgenstern aufgehe in eueren Herzen. " 2. Petr. 1, 19. Was wir bis jezt gehöret haben, das geschah auf dem Berge. Da sie aber vom Berge her ab gingen, da fügte der Herr heilsame Belehrung hinzu, um die drei Jünger zu verſtändigen über das, was sie gesehen hatten. Im Bewußtsein des Zuſammenhanges dieser Erscheinung mit seinem Tode und mit dem Siege über den Tod, mahnet Er die Drei, welche dazu auserwählet waren vor den andern, an sein bevorfiebenbes Reiben um Lobe, — οὕτω καὶ ὁ ὑιὸς τοῦ ἀνθρώπου μέλλει πάσχειν ὑπ' αὐτῶν und an seine Auferstehung von den Todten, ἀνάστασις ἐν νεκρῶν — Bis fabin sollen sie aber son dem Beficte dweigen.
+
+Μηδενὶ εἴπητε τὸ ὅραμα, ἕως οὗ ὁ
+
+ὑιὸς τοῦ ἀνθρώπου ἐκ νεκρῶν ἀναστῇ. Matth. 17; 10. Eine Woche vor diesem Gesichte hatte Christus zum ersten Male von seinem Leiden und Sterben, von ſeiner Auferstehung und Herrlichkeit geredet. Matth. 16. Matth. 17, 1. Luc. 9. 28. Und furze Zeit darauf trat Er Seine leßte Reise nach Jeruſalem an. Matth.拳 19, 1. — 21, 1. p
+
+Es war wirklich kurz vor dem Tode des Herrn, und um Seines bevorstehenden Todes willen, als ihm die verklärte Erscheinung [p. 85] aus dem Reiche der Todten ward auf dem Berge beis ſeits. Und als nun der Tod wirklich eintrat, da standen wieder heilige Todte aus ihren Gräbern auf, und nach Seiner Auferstehung erschienen sie Vielen in der heiligen Stadt.
+
+Matth. 27, 52. 53. An allen dieſen Erſcheinungen, welche dem Tode aller Tode voraus und zur Seite gegangen und nachgefolgt sind, erkennen wir deutlich, wie Diesseits und Jenseits grade im Uebergange sich berühren. Im Leben tritt die Scheidewand mehr hervor, im Sterfterben lichtet sich der Vorhang. Darum gilt es, daß wir den lernen. Sterben, in dem Herrn sterben lernen wir aber, wenn wir uns weder den Sterbenden, noch den Todten, noch dem Tode entziehen: wenn wir den Seelen, die in dem Herrn abziehen, das Geleite geben, wenn wir mit den Todten, die uns voraufgegangen sind, fortleben, wenn wir des Todes, der uns selbst bevorsteht, immer eingedenk bleiben, wenn wir auch des Todes, der unserm Nächsten bevorsteht, fürbittend gedenken und diesen unsern Nächsten selbst darauf ansehen, und desto mehr lieben. Das walte Gott! Es war in der Nähe des Todes, da Stephani Angesicht leuchtete, wie eines Engels Angesicht. 1 Apostelg. 6, 15. 夏 1. Es war vor den Thoren des Todes, da er voll heiligen Geistes ward, und: sah auf gen: Himmel und ſah die Herrlichkeit Gottes, und Jeſum ſtehen zur Rechten Gottes, und sprach: Siehe, ich sehe den Himmel offen, und des Menschen Sohn zur Rechten Gottes stehen Apostelg. 7, 55. Es war im Sterben, da er nieder kniete, und laut ſchrie: Herr, behalte ihnen dieſe Sünde nicht!
+
+Apostelg. 7, 59.
+
+## VIII.
+
+[p. 86]
+
+Es ist für einen Menschen aus Fleiſch und Bein, der den Tod in allen seinen Gliedern fühlt, nicht so leicht, über die Unsterblichkeit der menschlichen Seele und über die Auferstehung, das heißt, über die lezte Vollendung des ganzen Menschen so wie der gesammten Menschheit, zu einer völligen Gewißheit, die nicht wanket, zu einer lebendigen Zuversicht, die nicht zweifelt, zu gelangen. Aber es hat auch nie an Mitteln und Versuchen gefehlt, um den Weg dazu zu finden.
+
+Wie viele Verstandes-Beweise sind versucht worden, welche auf Allgemeingültigkeit Anspruch machen, und jedem Verstande zugemuthet werden, aber für sich allein Keinem genügen! wie viele Träume, wie viele Wahrnehmungen aus der unsichtbaren Welt, und wie viele Blicke in das Jenseits sind Einzelnen unmittelbar geworden, und Anderen mitgetheilt worden, ob. Wie viele Gesichte und Gedichte, wie sie's etwa glauben könnten!
+
+viele Sagen und Legenden ziehen sich in und vor der Geschichte durch alle Jahrhunderte und durch alle Völker! heidnische und Edda: Solar- liod christliche, von dem Norden Jslands an bis zu dem Orient Indiens - Mahabharata: ›Ardjuna, und Atharva Veda: Tadjkita! Wie viele Menschen tragen und mühen sich fort und fort mit ihren Gedanken über die Zukunft jenseits des Grabes! wie viel mehr, als — die Literatur kennt, die Geschichte nennt! denn das Meiste bleibt in der Stille. Und wie viel könnte doch auch Geschichte und Literatur sammeln, um in allen Erdichtungen und Entstellungen eine und dieselbe Wahrheit, in allem Aberglauben ein unauslöschliches Fünklein des Glaubens zu erkennen! *)
+
+GoE 22 11
+
+*) Dergl. Ozanam: Dante et la philosophie catholique au 13° siècle. 2. Edition. 1845. S. 335 bis 421. Der junge Bramine Tadfkita bewährt sich recht als ein Abgeordneter der gesammten Menschheit, wenn er zu dem Könige des Todes ſagt: Que se passe-t-il après la mort? je n'ai pas d'autre désir égal à celui-ci.
+
+[p. 87] Allen dieſen Anläufen liegt das Verlangen nach einer bleibenden Statt zum Grunde, in allen diesen Regungen regt sich eine geheime Sehnsucht nach dem Geheimniſſe der Heimath, welche zukünftig ist, ein Heimweh Röm. 8, 22.
+
+Es ist bemerkenswerth, daß auch die christliche Kirche in allen ihren Abtheilungen die Lehre von den legten Dingen nicht abgeschlossen hat. Sie hat nicht allein dem Horchen und Suchen des menschlichen Geistes, sondern auch sich selbst nirgends mehr als hier weiten und freien Raum offen gelaſſen. Eine gründliche Geſchichte der christlichen Eschatologie würde zu weiteren Forschungen die Bahn brechen können. Ist uns doch selbst eine äußere Literaturgeschichte über dieses Kapitel, ja selbst ein Bücherkatalog oder. eine Bibliothek unter dieſem Titel von Bedeutung!
+
+Das kommt vom Heimweh!
+
+Wie das Heimweh nach mehrerer Aufklärung verlangt und im Gefühle,sich regt, so erbaut sich wieder darauf der Verstand mit seinen Gedanken → Röm. 2, 15. — eine Aussicht nach der andern.
+
+Aber wenn er auch ſonſt noch so sehr von höherer Autorität, als einer fremden Macht, ſich emancipirt, hier kommt er keinen Schritt vorwärts, wenn er sich selbst allein überlassen ist: hier steht er sich am meisten nach Hülfe um.
+
+Schon das Gefühl,
+
+ſchon das Verlangen ist ein Wegweiser für den Verſtand, bis ſich der zuverlässigere Leitſtern findet.
+
+Das Verlangen des Menschen nach seiner persönlichen Fortdauer, nach seiner endlichen Vollendung, welche keine Ende, ſondern die Fülle hat, die Sehnsucht ewig zu sein, oder vielmehr ewig selbst bewußt zu sein, ist der menschlichen Seele unverwüstlich eingepflanzt und unversieglichen Bestandes. Es ist nichts, als eine Selbsttäuschung, es iſt eine Verwechslung des Selbstbewußtseins mit dem selbstischen Selbst, wenn der Pantheist an dem Untergange des Selbstbewußtseins sich weidet, und darin den Triumph der Selbstentäußerung feiert: ja er nimmt unbes wußt das Selbstbewußtsein mit hinüber, von welchem die Feier [p. 88] des Untergangs, als eines Triumphs, bedingt iſt: „er kann ſich selbst nicht als vernichtet denken, ohne sich zugleich als existirend zu denken. " *)
+
+Eben dieses mit dem Selbstbewußtsein unvertilgbar verwachsene Verlangen des Menschen nach Unsterblichkeit, welches sich einerseits selbst an der Selbſttäuſchung der Selbſtentäußerung, andererseits selbst an der Furcht vor dem Tode offenbart, bildet aber eben hiermit in dem menschlichen Wesen den Gegensaß zu dem ebenso unabweislichen Gefühle des Todes, welches jeder von uns eben so unablässig mit sich herumträgt. In dem Menschen ist dieses Beides: ein Gefühl unendlicher und unvergänglicher Fortdauer, und daneben - das Gefühl des Todes, der schon vor der Thür steht.
+
+Der Tod begleitet uns durch das Leben: wie wir die Lebendigen geheißen sind, so sind wir auch die Sterbθνητοι 1 genannt: ja die Sterbenden, anodvyoxovlichen ― ς - 2. Kor. 6, 9. τε θνητον σωμα om. 6, 12. TES 4, 10. Aber dieses Gefühl des Todes kommt auch wirklich im Tode zu seinem Rechte, nämlich zu seinem Tode, es bewährt und beweiset sich am Tode selbst, denn es stirbt mit ihm. Luther ſagt: „Der Tod ist nichts als ein Ende des Elends und ſein ſelbſt. " Das Verlangen nach Unsterblichkeit hingegen kann nur an dieser sich bewähren: es ist selbst wie sein Gegenstand unvergänglich. Wenn das Bewußtsein des Todes, welches den Menschen nie verläßt, den leiblichen Tod zum Voraus verkündigt, so zeugt auch das Verlangen nach persönlicher Fortdauer von einem Keime derselben, der schon jezt, zugleich mit dem Tode, dem Menschen innewohnt.
+
+Das Verlangen, desiderium, wird im Fortgange immer mehr zur Hoffnung, die Hoffnung wird im Gebete Gang zu dem Glauben, welcher nichts anders ist, als das wirkliche Leben in dem Inhalte der Hoffnung.
+
+*) Wir erinnern hier an v. Schelling's philosophische Briefe über Dogmatismus und Kriticismus aus dem Jahre 1795 und zwar an den achten. S. Schelling's phil. Schriften. Bd. I. S. 168.
+
+! Man hat oft gesagt, daß der Mensch grade durch seinen Wunſch, mit ſeinem Bewußtſein iu alle Ewigkeit fortzudauern, für dieſen Gedanken parteiiſch werde, sich selbst täusche und verblende, und dadurch zum unparteiischen Urtheile ungeschickt mache.
+
+Aber die so vorsichtig denken, um sich nicht selbst zu täuschen, sollten sich doch auch recht vorsichtig und gründlich fragen, woher jener Wunſch wohl komme und woraus das Verlangen sich erkläre, und wodurch die Einbildung persönlicher Unsterblichkeit uns eingebildet ſei. · Nur zu häufig beginnen Erörterungen und Untersuchungen' über die persönliche Fortdauer des Menschen mit dem ernstlichen Vorfaze ohne Rücksicht auf die Wünsche des eigenen Herzens unparteiisch zu Rathe zu ſizen, und die Sirenenſtimme zu unterdrücken, welche sich fort und fort in der Brust des Menschen vernehmen läßt.
+
+Aber sollte es in einer solchen ernsten Arbeit des Geistes nicht recht eigentlich zu einem gründlichen Urtheile gehören, alle Kräfte des Geistes mit ihrer Stimme zu hören, ja´in's Verhör zu ziehen? Es handelt sich hier um die Frage, woher diese Parteilichkeit stammt, und wie stark die Macht der innern Stimme ist? ob wir ste auch zu unterdrücken vermögen, und woraus sie ihre unverſiegliche und unvertilgbare Kraft schöpft?!
+
+Mit allen diesen Fragen treten wir aus dem Gebiete des Herzens in die Schranken des Verstandes. Der Verstand hält ſich zunächſt an den Gedanken der persönlichen Unvergänglichkeit, welcher sich vor aller Untersuchung — a priori im Geiſte vorfindet, und demſelben inwohnt und von ihm unjertrennlich ist. Damit scheint auch schon die Wahrheit verbürgt, denn der Gedanke persönlicher Unvergänglichkeit ist dem Bewußtſein mitgegeben, und gehört zu demselben.^ # Aber der dem Bewußtsein inwohnende Gedanke persönlicher Unvergänglichkeit strebt aus dieser Allgemeinheit zum´näheren Verständnisse, zu weiterer Bestimmung seines Inhalts. Indem er sich zu diesem Behuse in seinen Kern zurückwendet und vertieft, des richtigt er ſich ſelbſt dahin, daß er die persönliche Unvergång-
+
+90€ lichkeit als unvergängliche Persönlichkeit faßt. Hiermit ist sofort dieses gewonnen, daß die Persönlichkeit, das Selbst, als das Subject des Urtheils, die Unvergänglichkeit, als das Prädikat, oder mit andern Worten, daß das Subject als das 1 Wesen des Bewußtseins gefaßt iſt, von welchem die Unvergänglichkeit nur die Folge ist. So führt der allgemeine Gedanke zu dem beſtimmten Begriffe, näher zu dem Begriffe der Individualität, womit die Unzertrennlichkeit, Untheilbarkeit, Unauflöslichkeit als Prädikat des Einzelwesens als des Subjects ausgesagt ist, Es fragt sich nur, → populär zu reden, welche Stücke, welche Momente in dem Begriffe des Individiums, in; der: Jbee der Persönlichkeit als unzertrennlich sich befinden. Wir abstrahiren von der Terminologie der Schule und antworten getrost: allein ist das Sein von dem Bewußtsein,
+
+Nicht welches jenes mit in sich schließt, oder, mit andern Worten, das Naturſein von dem Sein des Geistes, als dem 1 vollen Sein, unzertrennlich, sondern es ist auch das Bewußtsein von ſeinem, mit keinem andern zu vertauschenden Selbst unzertrennlich, weil davon bedingt. Der Geist ist nur insofern Geist, und bleibt.
+
+als er derselbige Geiſt, daſſelbige Ich ist
+
+4 Der Begriff der Individualität kommt mithin nur ſolchen Einzelwesen zu, die nicht blos nach der Form oder äußerlich, ſondern wesentlich innerlich von andern unterscheidbar, anderen entgegengeſeßt sind, mit einem Worte nur solchen, die ſelbſt ſind. 175
+
+Die Einzelwesen im Reiche der bewußtlosen Natur, alle Naturgeschöpfe, sind eigentlich nur Eremplare ihrer Gattung: sie können nur insofern Individuen genannt werden, als sie von anderen unterſchieden und unterſcheidbar ſind.
+
+Aber dieser Unterſchied beſchränkt sich auf die Form der Erscheinung, er ist den Naturerſcheinungen nicht wesentlich; oder mit anderen Worten: sie sind wohl unterschieden und unterscheidbar, aber sie unterscheiden sich selbst nicht, sie können sich nicht unterſcheiden, weil sie in der Sphäre der: Natur- nicht zur Individualität in ihrer Vollendung, nicht zu ſich selbst, nicht zum Selbstbewußtſein kommen, von welchem die. Unauflöslichkeit bedingt ist.
+
+Die sogenannten Individuen des Naturreichs, wie verſchieden ſie ſich auch unter einander verhalten, sind doch nur ErſcheinungsFormen des allgemeinen Seins und Lebens: sie streben in dieſer ihrer Erscheinungsweise auf verſchiedenen Stufen mehr und mehr nach Individuation, aber ohne zur Individualität ſelbſt zu kommen: sie streben bewußtlos nach Bewußtsein, aber sie bringen es nur bis zu bewußtloſer Empfindung.
+
+Alle Naturgeschöpfe -ſind nur
+
+Analogien der Individualität, Ansätze dazu: weiter wiſſen wir nichts, von ihnen. i mai Es bewährt sich auch nach dieser Seite die alte, inhaltreiche Sentenz, daß das unsichtbare Wesen des Geistes viel verständlicher und begreiflicher iſt, als die ſichtbare_und, handgreifliche Natur. Mens notior corpore. Aber wenn deshalb gesagt worden ist; „In's Innere der Natur dringt kein erschaffner Geist", so " ist die eigentlich gemeinte Wahrheit der obigen Sentenz durch, die verunglückte, Fassung recht eigentlich auf den Kopf gestellt, weil — die Natur an sich kein Inneres, für sich hat, und ebendeswegen unver-1 ſtändlich ist. 751.lt auden or \# 5 Darum, bleiben wir auch mit Seele und Geiſt ſtumm stehen vor der stummen Natur; aber — wir hören in dem Worte 1 der Wahrheit von einer fünftigen Verklärung und Erneuerung der Nas; tur, von einer neuen Erde ― Substanz, -- und von einem neuen Himmel
+
+Leben.
+
+min
+
+. 129 255 ava dulóné, enD
+
+:: Die eigentlichen Individuen hingegen, die Individuen, des Geistes, sind es nicht allein nach ihrer vorübergehenden natürlichen Erscheinung, sie finds es¡ vielmehr innerlich nach ihrem wesentlichen Begriffe, sie sind mithin, unabhängig von der wechſelnden Erſcheinung kraft des Inſichſeins, kraft des Selbstbewußtseins. • bronha end l you whitananger subenis ye Das Individuum, des Geistes ist durch das Selbstbewußte [p. 92] ſein nicht allein einzeln, abgesondert und unterſcheidbar, ſondern auch sich selbst unterscheidend von allem andern. Aber auch damit iſt ſein Wesen noch nicht erschöpft.
+
+Das Individuum´ ist, obwohl für sich und in sich, dennoch nicht auf dieses sein Fürſichſein als auf seine Gränze beschränkt, ſondern es überwindet zugleich die es von allem Andern unterſcheibende Gränze, und zwar durch das dem Selbstbewußtsein inwohnende Bewußtsein des Andern. Indem das Individuum nicht blos " ſeiner selbst, ſondern auch des Andern sich bewußt wird, ist es von dem Andern nicht geſchieden, sondern nur unterschieden; es ist mithin auch-jen-¨ seits seiner Gränze, ohne sich zu verlieren; es ist daher nicht allein endlich, sondern auch unendlich, und hiermit persönlich, durchdringlich und durchdringend: es verliert sich nicht.
+
+In der Welt der Natur und des Geistes geht überall nichts verloren, auch nicht ein Stäubelein. So weit beibe Welten für uns geſchieden sind, bleibt jeder das Ihre. Suum cuique. + Das sogenannte Individuum der Natur verliert nichts, wenn es in das allgemeine Sein und Leben, in die Substanz zurückund untergeht. Weder das Sein, noch das Leben geht dadurch verloren, wie von selbst 1 einleuchtet: aber auch die Erscheinung ist unverloren, denn ſie kommt als eine andere wieder: und in diesem Gebiete der Natur ist eine Erscheinung wie die andere, weil jede nur Form, nicht selbst ist. Das Individuum der Natur hat ſelbſt 1 nichts zu verlieren, weil es nicht selbst ist. Das Individuum des Geistes ist hingegen selbst: es würde alles verlieren, wenn es im Wechsel der Erscheinung sich selbst verlieren könnte. Dies ist aber nicht möglich, denn der Tod des Einzelnen, durch den es allein ſich ſelbſt einbüßen könnte, ist nichts anderes, als der Uebergang des Einzelnen in dasjenige Allgemeine, dem es gehört, aus dem ´es (ſtammt. Suum cuique. Wie das einzelne Sein in das allgemeine Sein zurück und untergeht, ebenſo kann das einzelne Bewußtsein nur in das allgemeine Bewußtsein zurück, und zwar als in das höchste Bewußtsein [p. 93] nicht unter, sondern übergehen, in welchem es, als in seinem Elemente, nicht, verſchwimmen, ſondern nur noch intensiver sich verinnern, nur noch reiner zu sich selbst kommen, nur noch durchdringlicher und durchsichtiger für Anderes werden kann.
+
+Hiermit führt uns der Gedanke bis zum höchsten Selbst, zur höchsten Individualität, die aus sich und in ſich ſelbſt immanent ist, und darum: allem Andern transcendent ist, zur höchsten Persönlichkeit, die aus sich heraus transcendirt und so auch ihrer Schöpfung immanent wird, zum höchsten Selbstbewußtſein, aus dem alles einzelne Selbstbewußtsein stammt, und in dem es nicht erlischt, als im Sein, sondern sich verklärt, als im Bewußtsein: zu dem absoluten Insichsein, das ebendeswegen selbst auch außer ſich iſt, ohne sich zu verlieren, und Anderes, das es außer sich gesetzt hat, wieder in ſich zurücknimmt, ohne es zu abſorbiren. Wie das Herz, so sucht auch der Verstand so lange, bis er Gott und • zwar als Selbst, als Person findet; und wie das Herz, so findet auch der Verstand nicht anders Ruhe, als in dem Schooße Gottes, in welchem von seinen Kreaturen nichts, verloren gehet.
+
+Je mehr es sich bewährt, daß der Begriff des Selbstbewußtſeins die Unverlierbarkeit und Unvergänglichkeit desselben schon in sich schließt, und in seinem Principe, als im höchsten Selbstbewußtsein, Wurzel und Wipfel findet, desto deutlicher finden wir den Nerv alles Beweises für die Unsterblichkeit der menschlichen Seele und für die endliche Vollendung des ganzen Menschen in der Selbsterkenntniß.
+
+Aber diese Selbsterkenntniß umfaßt in dem, angedeuteten Umfange den disparatesten Inhalt, nåmlich einerseits das jedem einzelnen Menschen inwohnende Selbstbewußtsein, und andererseits --- das höchste Selb ft bewußtsein als das Prinzip. Ist nun dieſes Selbſt bewußtsein wie der Gegenstand so auch der Grund aller unserer, auf die persönliche Fortdauer gerichteten Gedanken, so liegt es auch schon in dem Begriffe dieſes Grundes [p. 94] und Gegenstandes selbst, daß er zu unserer vollkommenen Ueberzeugung →→ Gegenstand zu ſein aufhören, und des Geistes sich in sich selbst erkennen müßte. › als Inhalt
+
+Aber wie gelangen wir zu dieser Intimität des Begriffs, zu dieſer vollſtändigen Aneignung des doppelten Inhalts? Tritt uns nicht vielmehr das höchste Bewußtsein, in welchem das einzelne Selbst als in seinem eigensten Elemente geborgen zu sein hoffte, als eine völlig frembe Macht entgegen?
+
+Fühlen wir uns nicht von ihr entfernt und entfremdet, getrennt und abgewandt? · Je mehr sich uns die Selbst erkenntniß nach der Seite des Menschen erſchließt, desto mehr fühlen wir die Macht, die über uns gebietet, als eine fremde und unbekannte; und je fremder und unbekannter und unheimlicher dieſe Macht uns entgegentritt, deſko_ungewiſſer wird es uns um unſere Zukunft. Hiermit mahnt der Verstand selbst mit allen seinen Gedanken an das Band zwischen dem menschlichen Bewußtsein, als Gewissen, und Gottes Bewußtsein, als seinem Principe; aber er findet das verlorene Band nicht aus sich selbst. " Hiermit sind wir wiederum auf das Wort Gottes an die Menschen verwiesen, oder vielmehr auf die innere Erfahrung, die wir davon machen, das heißt auf den Glauben, der das Wort der Offenbarung aufnimmt und erfährt.
+
+Aber mit dem Glauben scheint es uns nicht besser zu ergehen. War uns vorhin das höchste Selbst als ein fremdes und unbekanntes entgegengetreten, das und nicht einmal Gegenstand, viel weniger Inhalt der Erkenntniß werden konnte, so wird nun auch, von dem ersten Worte des Glaubens getroffen, das eigene Selbst mit allen seinen Ansprüchen auf und an die Ewigkeit aus einem Vertreter derselben ein Ankläger gegen sich selbst, als Gewissen. Das erste Wort ist: Gehet in euch, und thut Buße - μetavoite. Nun findet das Gewissen → Sünde und Tod in dem Selbst des Menschen. Nun erkennen wir erst, was es zu bedeuten hat, wenn der Apostel schreibt: Sind nicht auch wir alle Stunden in [p. 95] -Todesgefahr? – τί καὶ ἡμεῖς κινδυνεύομεν πᾶσαν ὥραν; 1. Kor. 15, 30. * Mitten wir im Leben sind Mit dem Tod umfangen: Wen such'n wir, der Hülfe thu', Daß wir Gnad erlangen?
+
+Die Hülfe kann nur aus der Wiederherstellung des verlorenen Bandes der Gemeinschaft des Menschen mit Gott kommen. Und dazu ist eben Gott mit den Menschen in Gemeinschaft getreten, dazu ist Gott im Menschen, in einem Menschen erschienen: der eingeborne Sohn Gottes ist in unser armes Fleisch und Blut gekommen, um es vom Verderben zu erlösen und zu heiligen: welcher dem Tode die Macht genommen, und das Leben und ein unvergänglices 23efen - ζωὴν καὶ ἀφθαρσίαν an das Licht gebracht hat,
+
+2. Tim. 1, 10. welcher Alle, die ihn annehmen, wiedergeboren hat zu einem unvergänglichen und unverwelklichen und unbefleckten Erbe, das be7.1 halten wird im Himmel.
+
+1. Petr. 1,J 3. 4 est vt di
+
+Aber zu solchem Glauben an die Erhebung des Menschen durch die Erniedrigung des Sohnes Gottes können wir nicht anders gelangen, als wenn wir uns zuvor desto gründlicher beugen und demüthigen vor dem Heiligen unter der gewaltigen Hand Gottes: denn nur den Demüthigen giebt der Herr Gnadezd 1. Petr. 5, 5. und die Schwachen, aber auch nur die Schwachen, werden & stark in Ihm, 1. Kor. 1, 27. 2. Kor. 12, 9. in Ihm, welcher selbst, ob wohl ihm alle Dinge unterthan sind, dennoch sanftmüthig und von Herzen. demüthig ist,
+
+[p. 96] Matth. 11, 25-30. in Ihm, welcher, ob er wohl in göttlicher Gestalt war, hielt er es doch nicht für einen Raub Gott gleich zu sein, sondern entäußerte sich selbst und nahm Knechtsgestalt an, Phil. 2, 6-9. in Ihm, welcher geoffenbaret ist im Fleische, G aufgenommen in die Herrlichkeit. Geiste, gerechtfertigt im
+
+Joh. 1, 1-14.
+
+1. Tim. 3, 16. *) *** Und hiermit ist auch schon der Kern und Stern des Glaubens genannt, in welchem die Gottheit mit der Menschheit, die Menschheit mit der Gottheit sich zusammenfäßt, in welchem die Menschheit selbst nicht allein zur moralischen, sondern zur persönlichen Einheit, zür Individualität gelangt.
+
+Was wir vor unserer Erweckung zu dieſem vollen Glauben an Gott in Christo - irgend wie von dem menſchlichen Wesen, von menschlicher Individualität und Unvergänglichkeit erkennen, ja, was wir vorher von dem göttlichen Wesen fassen und von göttlicher Persönlichkeit, ſolches Alles, wie es erst die Ahndung, dann der Gedanke giebt, solches Alles ist doch nur der Schatten deſſen, das uns bevorſtehet, aber der Körper selbst, das Wesen selbst ist in Christo. M Col. 2, 17. Darum, ist jemand in Christo, so ist er eine neue Kreatur mit einer neuen und gewissen Zuversicht zu dem ewigen Leben; 2. Kor. 5, 17. denn wer an Ihn glaubt, der hat das ewige Leben,
+
+*) Es ist noch kürzlich, und zwar achtbarer Seits, ein Blick der Geringschäßung auf diejenigen Theologen geworfen worden, welche die Handschriften des N. T. ignoriren, in denen zu 1. Tim. 3, 16. statt dɛos nur zwei Buchstaben, und zwar die beiden lezten, zu lesen sind, als wenn darum irgend wie der Sinn des Apostels von der Erscheinung Gottes im Fleische, und von der Rechtfertigung im Geiste, und von der Aufnahme in die Herrlichkeit zweifelhaft würde. Von solchen Varianten hängt weder Glaube, noch Eregeſe, noch Dogmatik ab./
+
+[p. 97] Joh. 3, 36.
+
+6, 47.
+
+und so wir glauben, daß Jesus gestorben und auferstanden ist, also wird Gott auch, die da entschlafen sind durch Jeſum, mit ihm führen. rhin gw 1. 1. Theff. 4, 14. Zu dieser Zuversicht ist aber nichts so unerläßlich, als daß wir wirklich mit Christo sterben, und suchen was droben ist, da Christus ist, sizend zur Rechten Gottes. Col. 3, 14.45 % mortui suis ala Will uns das nicht gelingen, so liegt es an der Sünde, die noch auf uns liegt, denn wie die Sünde, d. h. die Entfernung des Menschen von Gott, zu ihrem Solde den Tod empfängt, d. h. zunächst die Entfernung des Leibes von der Seele und dem Geiste vom Leibe, so ist eben diese Sünde auch der eigentliche Stachel des Todes, der in den Gliedern ist und zugleich in Aussicht steht.
+
+Röm. 6, 23.
+
+1. Kor. 15, 56.
+
+Es erweiset sich auch hieran, was nicht stark genug accentuirt werden kann, daß der Glaube überhaupt zugleich und weſent! lich ein ethischer Lebens Akt ist: so ist auch der Glaube an Fortdauer und Auferstehung ohne die geistliche Wiedergeburt des Willens und Herzens auf intellectuellem Wege allein nicht möglich.
+
+Je mehr das Herz des Menschen erneuert und gereinigt und geheiliget wird durch und durch, desto heller und erleuchteter werden auch die Augen des Verständnisses für die Geheimnisse des Reiches Gottes. Ohne Heiligung wird Niemand den Herrn sehen.
+
+Hebr. 12, 14.
+
+Zu einer wirklichen und wahrhaftigen Ueberzeugung, zu einer gründlichen Verständigung über das Jenseits müssen alle Kräfte, alle Saiten des Geistes zuſammenſtimmen: der Verstand und die Vernunft, der Wille und das Herz, das Gefühl und die Empfindung. So wie wir Gott nicht wirklich lieben, wenn wir ihn nicht lieben von ganzem Herzen, von ganzer Seele, von ganzem Gemüth und von allen Kräften, Marc. 12, 30. p so ist auch unser Glaube an die Zukunft, der wir entgegen gehen, nicht eher vollkräftig, bis Herz und Wille und Verstand zumal erneuert und hierdurch Eins worden sind. ་ ་། * Haben wir vorhin den menschlichen Verstand in Verbindung mit einem suchenden Verlangen als einen Weg bezeichnet, der zum völligen Glauben und zu gewisser Zuversicht unserer Hoffnungen führen kann, so müssen wir ihn nun auch, wenn er, wo, nicht ganz von jenem Verlangen, doch von der Vernunft und von dem Herzen sich isolirt, wenn er sich in sich verschließt und verhärtet, als einen gefährlichen Abweg betrachten. Der Verstand allein kann das Auge des Geistes nicht hell machen, er blendet und ver stockt es vielmehr, wenn er hoffärtig für sich bleibt. Der Vers stand wird nicht eher hell, bis das Herz rein: das Herz wird nicht eher fest und stark, bis es weich und mürbe geworden ist.Selig sind, die da geistlich arm sind, denn das Himmelreich 1. 7 "ist ihr. "
+
+Matth. 5, 3. " Selig sind, die da reines Herzens sind, Gott schauen. "
+
+denn sie werden
+
+Matth. 5, 8. Es ist ein köstlich Ding, daß das Herz fest werde",
+
+Hebr. 13, 9. aber dazu gelangt es nicht, wenn es nicht zuvor zerbrochen und zerſchlagen, gedemüthigt und klein worden ist. Pf. 51, 19. Jes. 57, 15. "Herr, wenn Du mich demüthigst, machst Du mich groß, "! 2. Sam, 22, 36,
+
+And p
+
+Es kann zugegeben werden, daß ein frommer Eifer, gegen Philosophie und Gelehrsamkeit zuweilen sein beſcheiden Maß überſchreitet, und darüber selbst stolz und unbescheiden zu werden versucht [p. 99] wird: aber das bleibt doch ewig wahr, daß ein einzig Wörtlein aus dem Worte Gottes ein einfältig Herz zur rechten Stunde weiter fördert, als alle Weisheit; das kann jede Chriſtenſeele ſelbſt erfahren, wenn sie nur will, daß der Goldgrund des Glaubens als sein inwendiges Licht erst recht erglänzt, wenn der mühsame Aufbau von Holz, Heu, Stoppeln darniederbrennt. 1. Ror. 3, 12. Das wird doch einer jeden Christenseele, früher oder später, སྐ aufgedeckt, daß wir erst alle unsere Waffen strecken müſſen, ehe wir zu der vollen Rüstung Gottes kommen, stark zu sein in dem Herrn, und in der Macht seiner Stärke. Eph. 6, 10 flg. Unsere Zuversicht kann nie fester stehen, als wenn sie der Krücken und Stüßenz nicht mehr bedarf. Durch den Glauben, der den Geist gan ergreift, geschieht es allein, das bi Lahmen gehen, die Blinden sehen, die Ausfäßigen werden rein und die Tauben hören, die Todten stehen auf und den Armen wird das Evangelium gepredigt.
+
+Matth. 11, 5.
+
+Aber es ist noch mehr zu sagen. Zu einer gewissen Zuversicht gehört nicht allein der Geist ganz mit allen seinen Kräften in der Lebensluft der Offenbarungen Gottes, sondern auch der ganze Mensch, nach dem Leibe, nach der Seele, und nach dem Geiste, so wie er ist, und wie er auch zulegt, und zwar verklärt, f wieder hergestellt soll werden. Zu einer ganzen Zuversicht gehört die Zustimmung des ganzen Menschen so gewiß, als auch die ethische Erneuerung des Menschen den ganzen Menschen, auch den Leib des Menschen erneuert und heiliget. Röm. 6, 15. 19. Darum füget auch der Apostel hinzu: „So preiſet nun Gott an euerm Leibe, und an euerm Geiste, welche sind Gottes. " 1 Röm. 6, 20. ཎཱི ཝ ། ཙ མ $ ཙྪཱ ཉྙི ॰ ! Darum faget auch der Apostel anderwärts, namentlich in Beziehung auf die Zukunft des Menschen:
+
+„Er aber, der Gott des 7* [p. 100] „Friedens, heilige euch, durch und durch, ➡ óµãs ódoteλeis ὁλός und euer Geist ganz sammt der Seele und Leibe — óλós σκληρον ὑμῶν τὸ πνεῦμα καὶ ἡ Ψυξὴ καὶ τὸ σῶμα - misse bea halten werden unsträflich auf die Zukunft unsers Herrn Jesu „Christi. tun.“
+
+Getreu ist Er, der euch rufet, welcher wird es auch
+
+1. Theff. 5, 23, 24.
+
+Auf diesem Wege, welcher freilich dem Fleiſche schwerer fällt und auch schwerer ist, als die höchste Spize dialektisch spekulativer Erhebung, auf diesem Wege, welcher andererseits für Jedermann zugänglich ist und in Christo selbst gegeben ist, weil er selbst der Weg ist, kurz auf diesem Wege allein kommt der Christ mehr und mehr zu dem Ziele, wo er mit demſelben Apostel bekennen kann: „Der Tod ist verschlungen in den Sieg. Tod, wo ist dein „Stachel? Hölle, wo ist dein Sieg? Gott aber sei Dank, „der, uns den Sieg gegeben hat durch unsern Herrn Jeſum „Christum. " 1. Kor. 15, 55, 57. Und derselbe Apostel, welcher dafür hielt, „daß dieser Zeit „Leiden nicht werth sei der Herrlichkeit, die an uns soll geoffenbaret werden", Röm. 8, 18 derselbe fügt Angesichts Alles deſſen, das uns abwendig machen könnte, getrost hinzu: „In dem allen überwinden wir weit, um „des willen, der uns geliebet hat.
+
+Denn ich bin gewiß, daß, we- „der Tod, noch Leben, weder Gegenwärtiges, noch Zukünftiges, „noch keine Kreatur mag uns scheiden von der Liebe Gottes, die 1 by mt in Christo Jesu ist, unserm Herrn." Röm. 8, 37-39.
+
+Derselbe Apostel verkündiget auch, daß ſchon dieſſeits unſer im Wandel, unsere Heimath, nolitevua, nostra conversatio, Himmel ist, von dannen wir auch warten des Heilandes Jeſu Christi, des Herrn, welcher unsern nichtigen Leib, verklären wird,
+
+$14 [p. 101] daß er ว ähnlich werde seinem verklärten Leibe, nach der Wirkung, damit er kann auch alle Dinge ihm unterthänig machen. Phil. 3, 20. 21.
+
+Auf diesem Wege eigener Erfahrung geschieht es, daß wir zu einem lebendigen Zeugniſſe für die Zukunft die Kräfte der zukünftigen Welt vorabſchmecken.
+
+Hebr. 6, 5.
+
+Aber das stärkste Zeugniß von dem Glauben, welcher uns in das ſelbſt verſeßt, was wir hoffen, und die Erweiſung der unſichtbaren Welt an uns selbst vollzieht, enthält das elfte Kapitel des Hebräer Briefes.
+
+Hiernach hat der Glaube die Zukunft nicht allein als seinen Gegenstand an sich, sondern als seinen Inhalt in sich.
+
+Hebr. 11, 1.
+
+Dem natürlichen Menschen, so sagt Chrysostomus, scheinen die Gegenstände seiner Hoffnung, " als erst zukünftig, jezt noch nicht wirklich zu sein, sie scheinen ohne Realität zu sein ἀνυπό. στατα otata; aber der Glaube verleiht ihnen die reale Grundlage Snootaσw, oder vielmehr er verleiht sie ihnen nicht, sondern. Der Glaube ist er ist selbst ihr Wesen ― οὐσία αὐτῶν wer kann es überſeyen? — die Hypostasis der Anaſtaſts, der Lebenskeim zur Auferstehung aus dem Tode, die Wurzel des Lebensbaums, der Anfang der Vollendung, welcher seine Zukunft ſchon in sich trägt.
+
+Aber der Hebräerbrief fährt fort, die Kraft des Glaubens an die Gegenwart der unsichtbaren Kräfte, aus welchen die sichtbaren - φαινομένα, βλεπόμενα hervorgerufen sind durch das Wort Gottes, nach allen Seiten zu vertreten und zu erweisen. Abraham, Sara, Isaak, Jakob " Diese alle sterben im Glauben, sind ge- als Gäste und Fremdlinge auf Erden, „und begehreten eines besseren Vaterlandes, nämlich eines himm-/ [p. 102] „lischen. Darum schämet sich Gott ihrer nicht, « zu heißen, ihr denn, er hat ihnen, eine, Stadt, bez „Gott, Matth. 22, 32. reitet. „Durch den Glauben gingen die Kinder Israel durch das rothe Meer, als durch trocknes Land, welches die Aegypter auch „versuchten, und erſoffen.“ . „Aber was soll ich mehr sagen? " - Kai tí ěti λéyw; Das ganze Kapitel handelt von den dem Glauben inwohnenden Kräften und verheißenen Gütern der zukünftigen Welt, und ist von Wort zu Wort zu lesen und -— gründlich zu erwägen. T
+
+Zum Schlusse sei noch erinnert an den Tod Mosis, des
+
+Knechtes Gottes, mit welchem das fünfte Buch Mosis schließt. 5. Mos. 34. Der Geist des Herrn, welcher nicht des Menschen Geist ist, erkläre und verkläre einem jeden Leser diesen Todesbericht, von welchem hier nur Weniges ausgezogen werden kann, *) 1) Moses ging beiseits aus der Ebene auf einen hohen Berg. 2) Der Herr stand bei seinem Knechte, und zeigte ihm noch vor dem Tode aus der Ferne das gelobte Land, das Land der Verheißung. auf das
+
+3) Dann starb Moses, der Knecht des Herrn, Wort aus dem Munde des Herrn - פִּי יְהוָה
+
+*) Unter dem Terte erinnern wir zugleich an eine Predigt-Sammlung, welche gleich diesen Beiträgen zunächst der Provinz Sachsen heimathlich angehört. Der Titel ist: „Mose, der Knecht Gottes. Geistliche Betrachtungen von Aug. Wilh. Appuhn, Pastor zu Altenhausen und Jvenrode bei Neuhaldensleben. Magbes burg, Druck und Verlag von Albert Falckenberg u. Comp. 1845.“ Die_vorleste Predigt predigt und erklärt die Vorbereitung des Moſe zum Lode, und unsere eigene Vorbereitung zum, Lode; die leßte predigt ---- am Todtenfeste den Tod des Mose selbst, und unsern und zwar, wie wir hoffen, zu einem nachhaltigen Segen wie der Hörer, so auch vieler Leser. Vergl. Mose, der Knecht Gottes. Eine Sammlung geistlicher Reden von Moriz Meurer, Archidiac. zu Waldenburg. 1836, S. 141. fig. 47 lauh fubol
+
+[p. 103] 4) Und Er begrub ihn im Thale, und hat Niemand ſein Grab erfahren, bis auf diesen Tag. Aus dem Munde Gottes kommet der Odem in den Menschen, 1. Mos. 2, 7. und gehet auch wieder aus dem Menſchen zu Gottes Munde zurück. 5. Mos. 34, 5.
+
+2.
+
+ana builds 1t use but sli [p. 104] nii formalt
+
+1 and sind? mi zdi bmpul 40 sul d
+
+Die heilige Schrift ist Ein Buch, ein einziges Buch, welches aus mehreren untereinander zuſammenhängenden Abſchnitten beſteht. Das Buch hat auch nur Einen Autor, wenn gleich mehrere Verfasser oder Schreiber. Was in dem Vorderſaße nicht steht, das fehlt darum nicht, sondern es folgt alsbald im Nachſaze, der auch dazu gehört. Was der Autor nicht selbst als Sein eigenes Wort verkünden läßt, das läßt er uns doch als geschehen, als zur Geschichte Seines Reiches gehörig erzählen. So ist freilich das Wort der Schlange· 1. Mos. 3, 1 folg. — nicht das Wort Gottes ſelbſt, ſondern wider Gott, aber es wird uns doch durch das Wort Gottes offenbart, und hiermit ein Blick eröffnet in die Urgeschichte unseres Geschlechts, und in unser eigenes Herz. Wenn irgend ein Abſchnitt oder eine Stelle der heiligen Schrift einzeln für sich genommen dem Worte Gottes fremd zu ſein ſcheint, so ist der Leser desto bestimmter auf den Zuſammenhang gewiesen, aus welchem sich das Fremde erklärt und das Spröde erweicht, – — oder es bleibt auch wohl dem einzelnen Leser eins und das andere unverständlich und ungenießbar, ohne daß durch dieſe ſubjective Unverständlichkeit die objective Autorität des Wortes im Mindesten erschüttert werden könnte.
+
+Wer dürfte sich denn auch Unser Wissen ist rühmen, die ganze Schrift zu verstehen? Stückwerk.
+
+Zum richtigen Verſtändnisse der heiligen Schrift gehört nichts so ſehr, als daß die Bibelleſer das Wort der Wahrheit recht theilen.
+
+[p. 105] 2. Tim. 2, 15. Und zu solcher Orthotomie gehört es wieder, daß wir die Theile und Stücke, die Verse und Kapitel der heiligen Schrift nicht zertheilen oder vereinzelnen, oder aus ihrem Zuſammenhange reißen, ſondern vielmehr als Glieder Eines Leibes, als Organe eines unzertrennlichen Ganzen zwar unterscheiden, aber nicht scheiden, sondern zusammenhalten steht,
+
+Wer im Zusammenhange zu lesen und wieder zu lesen verreligio a relegendo, der wird in der heiligen Schrift
+
+Alles als zum Worte der Wahrheit gehörig mehr und mehr zu würdigen geschickt werden, der wird auch nicht ein Titelchen davon ausscheiden, als wäre 24es ein fremdes; vielmehr wird es sich ihm mehr und mehr bestätigen, daß in der heiligen Schrift kein Schreiber und kein Wort zu finden ist, zu dem der Leser sagen dürfte: Freund; 21. wie bist du hereingekommen?
+
+Wenn es gleichwohl mitunter auch ehrlichen, oder selbst den gebildetſten und gelehrtesten Bibellesern so scheinen will, als wenn Dieses oder Jenes doch wohl nicht zum Worte Gottes gehören möchte, so kommt solcher Zweifel zumeist daher, daß man das Einzelne isolirt, und von dem Zusammenhange loslöset, während es doch eben nur in seinem zusammenhängenden Verbande Gottes Wort ist und bleibt.
+
+Oder man hält wohl auch das Wort Gottes für zu vornehm für Kleinigkeiten, oder für zu gut, um gemeine Greuel in den Mund zu nehmen, als wenn nicht das lebendige Wort selbst Knechtsgestalt angenommen hätte, und gleich wie ein anderer Mensch an Geberden erfunden worden wäre.
+
+daß
+
+Beispiele erläutern. So meinen wohl auch fromme Bibelleser, der diätetische Rath des Apostels an seinen rechtſchaffenen
+
+Sohn im Glauben, nicht mehr pur Wasser zu trinken, sondern ein wenig Wein zu brauchen
+
+JLAA
+
+[p. 106] 1. Tim. 5, 23. doch wohl nicht zu dem Worte Gottes gehören möchte.
+
+Faſſen wir aber dieses Work zärtlicher Liebe in seinem Zusammenhange mit der ganzen Epistel, oder auch nur im Zuſammenhange mit den nächst vorhergehenden und nachfolgenden Vorschriften ernster Zücht und Ordnung, so müssen wir es recht eigentlich zu dem Worte rechnen, welches ſelbſt Fleisch geworden ist und sich erniedrigt hat, Phil. 2, 7. 8 zu dem Worte der Wahrheit, welches Gott den Menschen reden heißt. *) Und wer könnte die leßten Worte desselbigen Apostels an denselbigen geistlichen Sohn, wer könnte das Testament des Gefangenen, nämlich den zweiten Brief Pauli an den Timotheus, irgend einmal mit einiger Besinnung gelesen haben, ohne zu der Ueberzeugung gekommen zu sein, daß auch die Bestellung wegen des in Troas bei Karpus zurückgebliebenen Mantels, welche der Briefsteller Angesichts seines Todes
+
+2. Tim. 4, 6 flg. verordnet,
+
+2. Tim. 4, 13 im Zuſammenhange mit dem, was voraufgeht und nachfolgt, recht eigentlich zu der Herablassung des göttlichen Wortes gehört! Der Apostel sieht schon nach vollendetem Laufe, nach langem Kampfe die Siegeskrone der Gerechtigkeit leuchten, welche ihm hinfort bei-
+
+Der gelegt ist, und vergißt doch nicht, wieder hernieder zu sehen, um te über Mantel, Bücher und Pergamen zu verfügen: darum gehören dieſe lezten Teſtamentes -Worte recht eigentlich zu den leßten Dingen.
+
+Auch in Beziehung auf die Lehre von den leßten Dingen be-" währt es sich, daß die ganze Schrift eben in dieser ihrer Integrität und in dieſem ihren unzertheilbaren Zuſammenhange das fi wahrhaftige Wort Gottes ist. Nur die ganze Schrift führt in Sachsen Provinz aus Schrift eine wiederum ei auf hier können *) Wir H. A. Pistorius: Richtige Erklärung der Bibelstellen, welche in verweisen. unſerer Zeit besonders von den sogenannten Nationaliſten gemißbraucht werden. 1845. Heft II. S. 63 flg. 67 flg.
+
+I [p. 107] die volle Wahrheit der göttlichen Offenbarungen von der Zukunft des Menschen.
+
+So ist es umgekehrt nur der zersetzenden Scheidekunft der Kritik, welcher das geistige Band fehlt, es ist nur einer einseitigen historisch-grammatischen Eregese, welche den Wald vor den Bäumen nicht erkennen kann, zuzuschreiben, wenn im Alten Testamente, von welchem jedes Wort nach seinem Geiste und Zuſammenhange über dieſes Leben hinaus weiſet *) , demohngeachtet die Lehre von der Zukunft des Menschen vermißt, oder auf einen dunkeln, unbekannten Ort, Scheol genannt, . שְׁאֹלָה ִ רְפָא- beschränkt worden auf Schatten, Rephaim genannt, — ים DN ist **). Und doch könnte selbst die Grammatik auch schon an diesen beiden Worten - Scheol und Rephaim den beiden Begriffen, welche damit bezeichnet werden sollen, ein wenig näher kommen. Der Scheol bezeichnet entweder einen Ort, nach dem man fragt und wieder fragt, oder nach dem man verlangt, um zu seiner Ruhe zu kommen, oder eine Stätte, die alle Lebenden zu sich fordert und miteinander versammelt.
+
+Und die Schatten, Rephaim genannt, sind sie die Mächtigen, die es uns´ zuvorthun, sind die Rephaim gleich dem Cananitiſchen Riesengeschlechte der Rephäer über das Maaß hinausgewachſen, womit wir meſſen, die wir noch diesseits des Todes wallen und weilen? ***) Oder sind umgekehrt diese Schatten die Schwachen und Matten, in welchen der Herr stark wird, sind sie die Hinfälligen und Kranken, für - Rephaël —? welche der Arzt gekommen ist, daß er ſie heile, Von diesen Schatten Dfinget der Psalmist und jammert und klagt, indem er die Fragen an Gott richtet: *) Vergleiche Philosophie der Geschichte, oder über die Tradition. Münster, 1834. Th. I. §. 272. 273. S. 202. flg. **) Dergl. E. B. Hengstenberg: Commentar über die Psalmen: IV. 2.  دE' W. Hengstenberg: Die Authentie des Pentateuch.
+
+#### S. 314 bis zu Ende. —ر
+
+### II. S. 560
+
+577. A. Tholuck, Ueberseßuug und Auslegung der Psalmen. LXV. folg, Ad. Schumann: die Unsterblichkeitslehre des Alten und Neuen Testaments. Berlin, Neimer, 1847. *** Vergl. E. W. Hengstenberg: Commentar über die Psalmen III. Seite 499.
+
+[p. 108] „Wirſt du unter den Todten Wunder thun? —- aufstehen „Oder werden; die Verstorbenen ·→ רְפָאים unb „dir danken? Sela. „Wird man in Gräbern erzählen deine Güte und deine Treue „im Verderben? " Diese Fragen zittern durch allé Menschenherzen: aber es ist auch merkwürdig, daß die Septuaginta und die Vulgata die Rephaim in heilende Aerzte überseßt. In der Vulgata lesen wir: Num quid mortuis facies mirabilia? aut medici -
+
+– רֵפָאִים suscitabunt et confitebuntur Tibi? Numquid narrabit aliquis in sepulcro misericordiam Tuam et veritatem Tuam in perditione?
+
+Noch viel wichtiger ist der Psalm 88 selbst. vom Anfang bis zu Ende! Wir vernehmen hier einen jammernden Klage-Ruf in der höchsten Noth mit der Bitte zu Gott um eilende Rettung in der 斧 Gnadenfrist, weil jenseits die Möglichkeit einer Rettung in Frage ſtehe.
+
+Es ist ein Wort der Wahrheit, das in die tiefste Nothy des eigenen Herzens - blicken / läßt, und darum nurum ſo weniger aus seinem Zusammenhange geriſſen und von dem1 heilenden Troste ges trennt werden darf, welchen auch, das Alte Testament darreicht und zwar vom Anfange bis zum Ende Ist es nicht eine volle Bürgschaft für die Unvergänglichkeit des menschlichen Geistes, wenn das Alte Testament alsbald, am Anfange den Menschen als das Ebenbild Gottes sofort in die Scene sezt?
+
+1. Mos. 1, 26. 27 wenn es im Zuſammenhange hiermit den Geist des einzelnen Menschen als einen Odem Gottes darstellt, welcher dem Menschen von Gott unmittelbar eingehaucht wird? " 1. Mos. 2, 7. Und wie der Geist des Menschen aus Gott kommt, und jedem Menschen sogleich bei seiner natürlichen Entstehung auf übernatürliche Weise von Gott mitgegeben wird, so geht auch eben dieser Geist bei dem Tode eines jeden Menschen wieder zu Gott zurück, 5. Mos. 34, 5.
+
+[p. 109] wie auch der Teufel darüber zanket, und schon über dem Leichnam Moſis gehadert hat mit dem guten Engel des Menschen. ศรี Jud. 9. Ebendarum ist auch alsbald in den Büchern Mosis, in der Genesis und im Deuteronomium, des Menschen Anfang, sein Eingang in das Leben, als ein Ausgang aus dem Munde Gottes, und das diesseitige Ende des Menschen, sein Ausgang aus diesem Leben, als ein Eingang in den Mund Gottes, in welchem Nichts verloren geht, dargestellt worden. Darum predigt auch der Prediger Salomo - Kohelet — in vollster Uebereinstimmung mit dem Anfange und Ende der Bücher Mosis: „Der Staub kommt wieder „zu der Erde, wie er gewesen ist, und der Geist wieder zu Gott, „der ihn gegeben hat. "
+
+Pred. 12, 7.
+
+Der Prediger Salomo predigt gewaltig und ohne alle Schonung von der Vergänglichkeit alles Irdischen und von dem Tode des fröhlichsten Lebens in blühender Natur. „Es gehet dem Menſchen wie dem Viehe; wie dies stirbt, so stirbt er auch, und haben alle einerlei Odem; und der Mensch hat nichts mehr denn das Vieh, denn es ist alles eitel. Es fähret alles an einen Ort, es ist Alles von Staub gemacht, und wird wieder zu Staub. Wer weiß, ob der Geist des Menschen aufwärts fahre, und der Odem des Viehes unter die Erde fahre?
+
+Darum sage ich, daß nichts beſſeres iſt, › denn daß ein Mensch fröhlich sei in seiner Arbeit, denn das ist sein Theil. Denn wer will ihn dahin bringen, daß er sehe, was nach ihm geschehen wird? 3, 19-22. Ist's nun nicht beſſer dem Menschen, essen und trinken! 2, 24.5, 17. Denn in der Tiefe, wo du hinfährst, ist weder Werk, Kunst, Vernunft, noch Weisheit.". Grade so sagt auch der Prophet (Jes. 40, 6. ) und der Apostel (1. Petr. 1, 24) : Heu und wie Gras. "
+
+„Allés Fleisch ist
+
+Und Paulus schreibt ´–
+
+1. Kor. 15,
+
+32 — : „Laſſet uns eſſen und trinken: denn morgen sind wir todt.“ Aber -nun kommt auch der Nachsaß: denn Paulus zeuget nun desto gewaltiger von der Auferstehung des Fleiſches: und Petrus [p. 110] und Jesaias zeugen, daß das Wort des Herrn, unseres Gottes, in Ewigkeit bleibet mit Allem, was es uns verkündigt.
+
+Und der
+
+Prediger sagt einmal über das anderemal: „Es ist Alles ganz eitel. " Und dann seßt er hinzu: Laß dein: Bröd über das Waſſer fahren, so wirst du es finden auf lange Zeit. " 11, 1. Das heißt mit andern Worten: „Wer sein Leben auf dieser Welt daran giebt, der wird es erhalten zum ewigen Leben. "´) Joh. i 12, 25.
+
+Luc. 17, 33.
+
+12, 1 14 — ſchildert noch einmal die Eitelkeit aller Kreatur an dem Leben des Menschen, von der Doch der Prediger -
+
+Kindheit und Jugend auf, — denn Kindheit und Jugend ist auch eitel, bis zum Alter, da die bösen Tage kommen, und die Jahre herzutreten, da du wirst ſagen: Sie gefallen mir nicht. Wo tritt auch mehr die Vergänglichkeit hervor als im Alter, wenn mit der Leibeskraft und unter dem Drucke der den Dienst versagenden Organe auch die Kraft des Geiſtes abzusterben scheint? Es sind die Tage, da die Sonne und das Licht, Mond und Sterne finster werden, „und Wolken wieder kommen nach dem Regen: zu der Zeit, wenn zittern, und im Hause des Leibes die Hüter im Hauſe“ sich krümmen die Starken, und müßig stehen die Müller, 3 daß „ihrer so wenig geworden ist, und, finster werden die Gesichte durch die Fenster: und die Thüren auf der Gasse geschlossen werden, „daß die Stimme der Müllerin leise wird, und erwachet, wenn der „Vogel singt, und ſich bücken alle Töchter des Gesanges: da ſich „auch die Hohen fürchten, und scheuen auf dem Wege: wenn der "‚Mandelbaum blühet, und die Heuschrecke beladen wird, und alle „Lust vergehet, — denn der Mensch fähret hin, da er ewig bleibet, und „die Kläger gehen umher auf der Gasse. Das gedenke, ehe denn" -nun kommt das Lezte
+
+, ehe denn der silberne Strick wegkomme „und die goldene Quelle verlaufe, und der Eimer zerlechze am Born, „und das Rad 1 zerbreche am Born.“ Das ist schon der Anfang des Todes,„da der Staub muß wieder zu der Erde kommen, wie „er geweſen ist.“
+
+Aber nun folgt sogleich das Leben nach dem Tode, „denn der Geist, kommt wieder zu Gott, der ihn gegeben „hat:" und eben dieser Gott ist es, welcher wird alle Werke vor [p. 111] „Gericht bringen, das verborgen ist, es sei gut oder böſe. " In und nach ſeine Hände befiehlt auch der Psalmiſt -31, 6. ihm Chriſtus ſelbſt Luc. 23. 46. seinen Geist, und Stephanus betet: „Herr Jesu, nimm meinen Geist auf. " Ap. 7, 58, denn „du haft mich erlöset, Herr, du t treuer Gott," (Ps. 31, 6) aus Noth und Tod.
+
+Wohl wird uns besonders im Alten Testamente der Zweifel, wie er in unserm Herzen durch die Sünde eingezeichnet ist, mehr als einmal vorgehalten: aber es wird ihm auch Schritt für Schritt das Leben als die Wahrheit entgegen gehalten. Es ist recht aus dem Leben, wenn Hiob im Ueberbruſſe dieſes Lebens und im Zweifel an dem künftigen seufzet und ausruft: So läge „Warum bin ich nicht gestorben von Mutterleibe an! „ich doch nun und wäre stille, schließe und hätte Ruhe, mit den „Königen und Rathsherren auf Erden, die das Wüſte bauen, oder „mit den Fürsten, die Gold haben, und ihre Häuſer voll Silbers „sind. " Oder wär' ich doch wie eine unzeitige Geburt verborgen, „und Nichts weiter, wie die jungen Kinder, die das Licht nie ge„ſehn haben.
+
+Daſelbſt müſſen doch aufhören die Gottlosen mit „Toben, daselbst ruhen doch, die viele Mühe gehabt haben: da „haben doch miteinander Friede die Gefangenen und hören nicht „die Stimme des Drängers: da ſind Beide Klein und Groß, Knecht „und der von seinem Herrn freigelaſſen iſt.“ Hiob 3, 11- 19. von Und diese Klagen wiederholen sich fort und fort. „Eine Wolke vergehet und fähret dahin; also wer in die „Hölle hinunter fähret, kommt nicht wieder herauf, und kommt „nicht wieder in fein Haus und ſein Ort kennt ihn nicht mehr.“ 1: 3 Hiob 7, 9. 10. So klaget auch David zum Herrn: „Im Tode gedenket man „dein nicht: wer will dir in der Hölle denken? "
+
+Pf. 6, 6. „Was ist dir nüße an meinem Blute, wenn ich todt bin? wird dir auch der Staub danken, und deine Treue verkündigen?
+
+[p. 112] Pf. 30, 10,
+
+2 and, mend1
+
+99, „Die Todten, Herr, werden dich nicht loben, noch die hinunter fahren in die Stille. " Pf. 115, 17, iné mě, proud sup
+
+Aber das ist eben nur die menschliche Seite; wer tiefer pflügt, und höher fliegt, der wird auch den Trost dagegen finden: dieser wird uns bald frei heraus verkündigt, bald in Zeichen und Gleichniſſen, in Lehren und Erzählungen, in Gesichten und Geschichten angeboten, so wir nur Augen hätten zu sehen, Ohren zu hören, Hände zu greifen. Ist es nicht wie Morgenroth in der Geſchichte unseres Geschlechts, ist es nicht ein frühzeitiges Zeichen zu eindringlicher Lehre von der unvergänglichen Zukunft des Menschen, wenn der Heimgang Henochs, des Urgroßvaters Noahs, als eine Abberufung durch Gott zu Gott berichtet wird? 1. Mos. 5, 24. Hebr. 11, 5. Und später wird wieder die wunderbare Vision von der Auffahrt des Propheten Elias erzählt. 2. Kön. 2, 10 folg 臭 Darum, wie auch der Zweifel in dem Herzen des natürlichen Menschen von dem Worte Gottes selbst dem Menschen vorgehalten werde, welcher sich selbstI erſt dadurch gründlich kennen lernt, ———— wie auch erst an diesem Spiegel Gottes in unserm eignen Innern die geheimsten Zweifel der menschlichen Seele über ihre Fortdauer lesbar werden, es klinget doch auch im Alten Testamente überall t und immer der Trost wieder durch: „Mein Herz freuet ſich, und meine Ehre ist fröhlich: auch mein Fleiſch wird sicher liegen. Denn Du wirst meine Seele nicht in der Hölle lassen, und nicht zugeben, daß Dein Heiliger verwese.“ ma 19 Pf. 16, 9, 10 *);)) din ng phON *) E. W. Hengstenberg: Commentar über die Psalmen I, Seite 332 A. Tholuck: Ueberseßung und Auslegung der folg. -- IV. 2. 3347. 1.1 jer varia Psalmen. S. 77. folg.
+
+[p. 113] „Auf dem rechten Wege ist Leben, und auf dem gebahnten „Pfade ist kein Tod.“
+
+Spr. 12, 28. „Der Weg des Lebens gehet überwärts für den Klugen, auf „daß man meide die Hölle unterwärts.“ Spr. 15, 28. Darum kann es auch nicht überraschen, wenn es später noch bestimmter heißt: „Deine Todten werden leben, und mit dem LeichWachet auf und rühmet, die ihr lieget unter „der Erden! denn dein Thau ist ein Thau des grünen Feldes, „aber das Land der Todten wirst du stürzen.
+
+„nam auferstehen.
+
+Jes. 26, 19. „Er wird den Tod verschlingen ewiglich. Und der Herr, Herr „wird die Thränen abwischen von allen Angesichtern, und wird „aufheben die Schmach seines Volkes in allen Landen.“ Jef. 25, 8. *) So sieht der Prophet Hesekiel das ganze weite Feld der Todtengebeine sich regen und zusammenkommen und auferstehen. „Und ich sahe, und siehe, es wuchsen Adern und Fleiſch darauf, und Er überzog sie mit Haut: es war aber noch kein Odem in ihnen. Und Er sprach zu mir: Weiffage, du Menschenkind, und sprich zum Winde: So spricht der Herr, Herr: Wind, komme herzu aus den vier Winden und blaſe diese Getödteten an, daß sie wieder lebendig werden. Da kam Odem in sie, und wurden wieder lebendig. Und ihrer war ein sehr, sehr groß Heer. Und er sprach zu mir: Du Menschenkind, diese Beine sind das ganze Haus Israel. Siehe, jest sprechen sie: Unsere Beine sind verdorret, und unsere Hoffnung ist verloren, und ist aus mit uns. Darum weissage und sprich zu ihnen: So spricht der Herr, Herr: Siehe, Ich will Eure Grä*) Vergl. " Jesaias, nicht Pseudo -Jesaias. Bon Dr. Rud. Stier. 1850." LXXI. Wir möchten aber lieber abschreiben, was dort in einer kurzen Note, über buchstäbliches und höheres Verständniß, über und syg über Tod und Sieg, über Abſorption (Kor. 15, 55.) angedeutet worden ist: so wichtig ist jedes Wort, was dort geſagt ist, und doch noch so wenig beachtet wird.
+
+[p. 114] der aufthun, und will euch, mein Volk, aus denselben herausholen, und euch in das Land Israel bringen: und sollt erfahren, daß Ich der Herr bin, wenn ich eure Gräber geöffnet, und euch, mein Volk, aus denselben heraufgebracht habe: und ich will meinen Geiſt in euch geben, daß ihr wieder leben sollt und will euch in euer Land ſezen; und ſollt erfahren, daß Ich der Herr es geredet und auch gethan habe, ſpricht der Herr. " Hesek. 37.
+
+Ein Gleiches lesen wir im Propheten Daniel: Es kommt ein Tag der Errettung für „Alle, die im Buch geschrieben stehen. Und Viele, so im Staub der Erde schlafen liegen, werden aufwachen: Etliche zum ewigen Leben, Etliche zur ewigen Schmach und Schande. Die Lehrer aber werden leuchten wie des Himmels Glanz; und die, so Viele zur Gerechtigkeit weisen, wie die Sterne immer und ewiglich. "
+
+Dan. 12, 2. 3. 10. Merkwürdig ist auch das lezte Wort, welches der Prophet vernimmt: „Du aber gehe hin, bis das Ende komme; und ruhe, daß du aufsteheft zu deinem Erbtheile am Ende der Tage." Dan. 12, 13.
+
+Außerdem sei hier auch noch erinnert an
+
+Hiob 19, 25- 27 *)
+
+und an Hosea 6, 2 **) Denn wenn es auch zu lich heißt:
+
+„Ich weiß es,
+
+Hiob mein
+
+19,
+
+Erlöser
+
+25 wörtlich wirklebt, zulezt
+
+*) „Ich weiß, daß mein Erlöſer lebet, und er wird mich hernach aus der Erben auferwecken. Und werde hernach mit dieſer meiner Haut umgeben werden, und werde in meinem Fleische Gott sehen. Denselben werde ich nun sehen, und meine Augen werden ihn schauen, und kein Fremder." **) „Er machet uns lebendig nach zween Tagen, er wird uns am dritten aufrichten, daß wir vor ihm leben werden."
+
+[p. 115] wird er auf der Erde stehen“ u. s. w. , so bleibt doch Alles übrige nach wie vor bestehen: und wenn auch zu Hosea 6, 2 eine andere moralisch-spiritualiſtiſche Deutung nicht ausgeschlossen ist, so bleibt es doch von unverwüstlicher Bedeutung, daß dieſe wie jene Aussagen so viele, viele Jahrhunderte hindurch nach ihrem LiteralSinne auf die Auferstehung gedeutet und zu unvergänglichen Liedern geworden sind im Munde der Kirche. Noch dunkler ist der Seufzer des vielgeprüften Dulders,
+
+Hiob 13, 15. 16 *). aber wie auch das pythische Wort gelesen, gedeutet und überſeßt werde, so viel bleibt immer unverwüftlich stehen, daß der Geplagte und Angeklagte auch in der tiefsten Noth des Todes auf den Herren harret, der es wohl macht, und dem Herrn vertrauet, der auch jenseits des Todes ist. Wie das alte Testament anhebt, von der Bestimmung des Menschen für die Ewigkeit zu zeugen, so schließt es auch, um an das Ende der Zeit zu mahnen, welches bevorsteht. Das lezte Kapitel des legten Propheten verkündigt einen lezten Tag, der brennen ſoll, der Herr - wird mich doch erwürgen (tödten), und ich *) „Siehe, Er kann es nicht erwarten, doch will ich meine Werke vor Ihm strafen: Er wird ja mein Heil ſein; denn es kommt kein Heuchler vor Ihm.“ - So überseßt Luther wörtlich nach dem Grundterte. Es ist auch Frageweise gedeutet worden: „Soll ich nicht warten und vertrauen können? Vor Ihm werde ich aufrichtig Die Masora hinge mein Anliegen bringen, und er wird mein Heil ſein.“ Darnach lautet die Uebergen liest  ― לוIhm - tatt & ― nicht. setzung: „Ob mich der Herr gleich tödten wird, so will ich doch auf Ihn hoffen." - Nach dieser Ueberseßung, welcher die Vulgata zum Grunde liegt, bestimmte auch die Verfasserin des Liedes: „Jesus, meine Zuversicht sc.“ - Kur fürstin Henriette Luise, - ihren Leichentext, worüber noch sieben Leichenpredigten zu lesen sind. Voran stehen 25 verſchiedene Ueberseßungen, welche ſämmtlich zuleßt in Einem Sinne zuſammenſtimmen, wie die verſchiedensten Töne, wenn sie sich auch durch Dissonanzen ergehen, zuleßt zu Einer Harmonie ſich abſchließen, wie alle Widersprüche zulegt im Frieden sich auflösen. Darum iſt auch in einer lutherischen Predigt über Hiob 13, 15., es war im Jahre 1698, und zwar in Berlin, die Zuversicht auf die Ewigkeit „die unsterbliche Hoffnung der Sterblichen“ genannt worden. 8* [p. 116] den zukünftigen Tag, welcher alle Uebelthäter anzünden wird wie Stoppeln. " Euch aber, die ihr meinen Namen fürchtet " , ſpricht der Herr Zebaoth, „soll aufgehen die Sonne der Gerechtigkeit, und Heilung in ihren Flügeln; und ihr sollt ausgehen und löcken wie die Mastkälber. "
+
+Mal. 4, 1. 2. So wird noch zum Schlusse des Alten Testaments allen Schwachen, wenn sie nur des Herrn Namen fürchten, den Rephaim - die Heilung -― verheißen. רְפָאִים מַרְפֵא
+
+Was hier kranket, seufzt und fleht, Wird dort frisch und herrlich gehen; Irdisch werd' ich ausgesät, Himmlisch werd' ich auferstehen. Hier geh' ich natürlich ein: Nachmals werd' ich geistlich sein. Wie im Kanon des Alten Testamentes, so erweiset sich auch in den Apokryphen das unverwüstliche Bewußtsein der Unsterblichkeit und Unvergänglichkeit einer jeglichen Menschenseele, „denn Gott hat den Menschen geſchaffen zum ewigen Leben, und hat ihn gemacht zum Bilde, daß er gleich sein soll, wie Er ist. "
+
+Weish. 2, 23.
+
+Zwar vernehmen wir hier wiederum Zweifel und Klage; es heißt hier wiederum: Wer will den Höchsten loben in der Hölle? Sir. 17, 25. Aber dann ruft es uns auch wieder zu:
+
+„Der Gerechte, ob „er gleich zu zeitlich stürbe, ist er doch in der Ruhe: er gefällt ", Gott wohl, und ist ihm lieb: und wird weggenommen aus dem „Leben unter den Sündern: er ist bald vollkommen geworden und „hat viele Jahre erfüllet; denn seine Seele gefällt Gott: darum „eilet er mit ihm aus dem bösen Leben. " Weish. 4, 7-14.
+
+[p. 117] Es wehet uns als eine Stimme von Oben an, wenn wir hören: „Der Gerechten Seelen sind in Gottes Hand, und keine Qual rührt sie an,“ οὐ μὴ ἅψηται αότων βάσανος Weish. 3, 1. Und dieselbige Stimme gehet durch alle Lande und Zeiten als die Offenbarung an alle Menschen; denn es ist, als hätte einer dem andern nachgeschrieben, wenn wir auf dem altklaſſiſchen Theater in Athen aus alter Zeit das Wort herüber tönen hören: „Es rührt fein Leid die Todten an," ― θανόντων δ᾽ οὐδὲν ἀλγος ἅπτεται Dedip. Col. 9, 55.
+
+Tiefer führt uns das Buch der Weisheit in das Geheimniß, wenn es ferner heißt: „Die dem Herrn vertrauen, erfahren, daß „er treulich hält, und die treu sind in der Liebe, lässet er sich „nicht nehmen. Denn seine Heiligen sind in Gnade und Barm„herzigkeit, und er hat ein Aufsehen auf seine Auserwählten.“ Weish. 3, 9. Der Herr läßt sich die Seinen nicht nehmen, sondern er nimmt sie zu sich. Das ist die Paralepsis, die uns alsbald in das neue Joh. 14, 3. Testament verseßt.
+
+## X.
+
+[p. 118]
+
+Wie am Alten, so hat sich auch am Neuen Teſtamente viele Gelehrsamkeit verſucht, die Unterſchiede in den Lehren Jeſu und ſeiner Apostel auch über die zukünftigen Dinge nachzuweisen, indem man sie zu solchem Zwecke vereinzelt und von einander trennt. Wer wollte auch verkennen, daß der Herr ſchon in ſeinen erſten Jüngern je nach ihrer verschiedenen Individualität eine beſondere Geſtalt gewonnen hat? Aber ein einfältiges Auge und ein treues Herz werden auch in allen diesen Verschiedenheiten nur die mannichfaltigen Spiegelungen eines und deſſelben Sonnenlichts, einer und derselben Wahrheit erkennen.
+
+Eine Seite der Wahrheit ſchließt die andere nicht aus, ſondern fordert sie zu ihrer Ergänzung: alle Seiten zuſammen bilden das Ganze, als die Integrität der gesammten Gliederung.
+
+Wenn wir das Einzelne mehr und mehr zum Ganzen organisch zusammenfassen lernen, so werden wir auch in der Gesammtlehre des Neuen Testaments die beiden Seiten der Zukunft, den Mittelzustand und die Vollendung, nicht verkennen können. Wenn zuweilen bald beide Seiten in der individuellen Anschauung zusammentreten, bald eine gegen die andere in den Hintergrund tritt, ſo rechtfertigt und erklärt sich jenes logiſch, weil beide wirklich, dem Dieſſeits gegenüber, Einer Kategorie angehören, dieſes pſychologiſch, je nachdem der Heimgang überhaupt, oder die lezte Vollendung die Seele vorwiegend beschäftigt.
+
+Wie das Wesen des Menschen drei Momente in sich begreift, -Leib, Seele und Geist, --und doch auch wieder zu zweien verkürzt werden kann, weil Seele und Geist unzertrennlich eins worden sind, so kann auch die Entwickelung des Menschen, wiewohl sie wesentlich in drei successiven Perioden sich vollzieht, auf zwei Zustände reducirt werden, wovon der erste Seele und Geist [p. 119] im dunkeln Erdenleibe, der andere Seele und Geist ohne dieses Dunkel der Erde darstellt, ohne daß damit die Unterabtheilung des zweiten Zustandes vor und nach der Auferstehung und Verklärung des Erdenleibes geläugnet wird. Wenn ferner die Wiederkunft des Herrn zur Vollendung und zum Gericht als nahe bevorstehend, als bald zu erwarten bezeichnet wird, wenn die Apostel und die Zeitgenossen derselben des Sohnes vom Himmel harren, ob sie etwa überbleiben und mit verwandelt werden würden, 1. Theff. 1, 3. 10. 13.
+
+5, 23.4, 15.
+
+ſo ist es für die erſten Chriſten, wie für uns und die lezten, buchſtäblich wahr, daß wir alle darauf ſtündlich gefaßt ſein ſollen, um unsträflich bewahrt zu werden: denn es ist uns, wie den ersten Chriſten, nicht umsonst geſagt Alles, was Jeſus ſeinen Jüngern auf die Frage: "1 Wann wird das geschehen? und welches wird das Zeichen sein deiner Zukunft und der Welt Ende?"
+
+Matth. 24, 3. ausführlich antwortet. er nicht.
+
+Er nennt die Zeichen, aber den Tag nennt „Von demselbigen Tage aber und von der Stunde weiß
+
+Niemand, auch die Engel nicht im Himmel, ſondern allein mein Vater. " Matth. 24, 36.
+
+Marc. 13, 32.
+
+Er fügt dann, um zur Wachsamkeit zu mahnen, die Gleichniſſe von den zehn Jungfrauen und von den vertraueten Zentnern hinzu, und schließet mit der Schilderung des jüngsten Gerichts. Matth. 25. Und immer heißt es wieder: " Sehet zu, wachet und betet; denn ihr wisset nicht, wann es Zeit ist.
+
+So wachet nun; denn ihr wiſſet nicht, wenn der Herr des Hauſes kommt, ob er kommt am Abend, oder zu Mitternacht, oder um den Hahnenschrei, oder des Morgens. "
+
+Marc. 13, 35. Darum ſchreibt auch derselbe Apoſtel, der des Herrn harrt, in demſelbigen Briefe, der dieser Erwartungen voll ist: „Von den Zeiten aber und Stunden, Brüder, ist nicht Noth, euch zu schreiben: denn [p. 120] ihr selbst wisset gewiß, daß der Tag des Herrn wird ſo kommen, wie ein Dieb in der Nacht 1. Theff. 5, 1. 2. - 2. Petr. 3, 10. oder wie der Herr selbst sagt - wie ein Fallstrick. "
+
+Luc. 21, 35. Darum gilt es, zu beten und zu wachen, und die Lampen in Bereitſchaft zu halten. Zugleich warnt aber auch der Apostel vor der trügerischen Einbildung, als ob der Tag Christi ſchon vorhanden sei. 2. Theff. 2, 2. Es werden vielmehr zum Zeichen, daß er noch nicht ſo ſinnlich nahe sei, auch von den Aposteln erschreckliche Vorzeichen genannt, die noch nicht eingetreten sind.
+
+2. Theff. 2, 3 folg. Es bleibt mithin nach wie vor dabei, daß Zeit und Stunde Niemand zuvor erfährt und iſt darüber Niemandem eine Offenbarung gegeben. Vor allen waren aber eben die Apostel aller dieſer Worte und des Alles erinnert, das ihnen ihr Meister gesagt hatte. Joh. 14, 26.
+
+Mit dieser selbigen Erinnerung, daß Zeit und Stunde Niemanden offenbart sei, aber daß sie plößlich und unversehens einbrechen werde, verkündigt auch Petrus die Nähe der Wiederkunft Christi, weil sie täglich ſtatt haben kann, 1. Petr. 4, 7 aber auch den bisherigen Verzug des Gerichts, welches er aus der Geduld und Langmuth Gottes erklärt. 2. Petr. 3, 9. Desto gewiſſer ist aber, so lange das Gericht noch verzieht, einem Jeglichen unter uns die Nähe des Todes, welchen wir oben unter den Bildern des Predigers Salomo heranziehen ſahen.
+
+Mein Gott! ich weiß nicht, wann ich sterbe; Kein Augenblick geht sicher hin, Wie bald zerbricht doch eine Scherbe!
+
+[p. 121] Die Blume kann ſehr leicht verblühn. Drum mache mich nur stets bereit Hier in der Zeit zur Ewigkeit. *)
+
+Dieser Tod führt uns zwar nicht unmittelbar zur Ewigkeit, nicht unmittelbar zur Vollendung, und kann uns nicht zur Vollendung führen, - denn dazu gehören nicht allein Viele, sondern Alle: dazu gehört auch für jeden einzelnen Menschen sein Leib, welcher nothwendig mit der Erneuerung der Erde zuſammenhängt, zu welcher er gehört. Aber wenn auch das Leben nach dem Tode nicht die lezte Zukunft ſelbſt iſt, wozu der jüngste Tag gehört, so verseßt uns doch der Tod — wohl zu merken — in ein wesentlich anderes Verhältniß zu der leßten Zukunft, in ein näheres Zeitverhältniß zu dem lezten Tage, in ein kürzeres Zeitmaß, als das Maß ist, wornach wir in den Tagen des Fleiſches zu meſſen gewohnt sind. Der Tod ist schon verschlungen in den Sieg. κατεπόθη ὁ θάνατος εἰς νίκος — , 1. Kor. 15, 55.
+
+Es ist wichtig, die Veränderung des Zeitmaßes, welche der Tod unmittelbar zur Folge hat, näher zum Bewußtsein zu bringen, und dazu können auch Analogien aus diesem Leben dienen. Aber es ist auch überhaupt wichtig, überall auf die Analogien aufmerksam zu werden, welche dieses Leben für jenseitige Zustände bietet. Es käme recht darauf an, dieſe näher zu verfolgen. Ist nicht selbst die Jahreszeit des Osterfestes, der Frühling, eine irdische Analogie für die höhere Bedeutung des Osterfestes mit ſeinem ewigen Frühlinge? So ist auch die dieſſeitige ſtete Verwandlung unseres Leibes, welche im Laufe der Jahre sich vollzieht, ohne daß er aufhört, derselbe Leib zu sein, - eine sprechende Analogie zum Verſtändniß der Auferstehung dieses Fleiſches.
+
+Und wie das neugeborene Kind den
+
+*) Der Verfasser des obigen Liedes ist Benjamin Sch molk, ein Schlefiſcher Prediger † 1737. Ihn traf 1730 der Schlag, bald hernach der Verlust des Augenlichts, zuleßt der Tod.
+
+[p. 122] Keim zu dem Leibe des Mannes und Greises in seinem Fleische schon an sich hat, und darum doch von Kindesbeinen an täglich Anderes von Außen an sich zieht, ohne daß darum der Leib ein anderer würde, eben so kann auch die Seele in ihrer unzertrennlichen Einheit mit dem Geiste, wenn sie den Leib bis zu seiner künftigen Erneuerung und Verklärung verlaſſen muß, dennoch den Keim zu dem Leibe der künftigen Auferstehung mit hinüber nehmen und bis dahin zu ihrem Organe gebrauchen. Und hiermit kommen wir auf den noch übrigen Zeitraum bis zur legten Zeit, und dessen verschiedene Maße vor und nach dem Tode noch einmal zurück, um diese Verschiedenheit an diesseitiger Erfahrung zu veranschaulichen. So ist z. B. ſchon hienieden dieselbe Quantität der Zeit, je nach der Weise, wie sie ausgefüllt wird, oder auch nach der Stellung der Seele zu einem Gegenstande der Erwartung, nach dem Maße der Geduld oder der mittlerweise gewährten Beschäftigung, oder auch selbst nach der Verſchiedenheit des Lebensalters bald kürzer, bald länger. Das Sprüchwort sagt: „Dem Glücklichen schlägt keine Uhr. " Eben darum stehen wir auch, sobald wir den Tod bestanden haben, dem lezten Tage der Welt, der Wiederkunft des Herrn näher, als diejenigen, welche gleichzeitig noch im Fleische leben. Um so sicherer konnten die Apostel an die Nähe des unversehens hereinbrechenden lezten Tages der Welt mahnen, dem sie bald ſelbſt ſammt ihren Zeitgenossen näher gerückt werden sollten: denn der lezte Tag des Einzelnen bringt dieſem wirklich den lezten Tag der Welt näher, als er denen ist, die zurückbleiben, eben weil dem lezten Tage der Welt, der lezten Wiederkunft des Herrn, die Wiederkunft vorausgeht, welche jede einzelne Seele im Tode erfährt, wenn sie in dem Herrn ſtirbt. Dennoch wissen auch die Apostel den Tod des Einzelnen, den lezten Tag des Einzellebens, den sie selbst, - und nicht erst im Alter, - in allen Gliedern fühlten und immer näher und näher herankommen sahen, Röm. 7, 24.
+
+[p. 123] Phil. 1, 23. 2. Tim. 4, 6. 2. Petr. 1, 14, 15. beſtimmt zu unterscheiden von dem allgemeinen Ende, von dem leßten Tage der Welt, welcher hernach kommt, wenn er uns nicht auf dem Wege ereilet, welcher die Lebenden und die Todten gleich machen wird, aber, ehe er kommt, den Todten und denen, die zum Voraus der Welt gestorben sind, viel näher liegt, als den Lebenden.
+
+Hiernieden singen wir aus vollem Herzen: Es ist gewißlich an der Zeit, Daß Gottes Sohn wird kommen In seiner großen Herrlichkeit, Zu richten Bös' und Frommen! und weil wir sein längst harren, so schließen wir: Jesu Christ! du machst es lang Mit deinem jüngsten Tage, Den Menschen wird auf Erden bang Von wegen vieler Plage. *) Aber die schon ihren besonderen jüngsten Tag gefeiert haben und ſchon daheim ſind bei dem Herrn, die warten, wie ihnen geſagt iſt (Off. 6, 11.), in Geduld des allgemeinen jüngsten Tages und ihrer lezten Vollendung: es wird ihnen nicht zu lange, es ist ihnen auch nicht bange, ſondern es ist ihnen so wohl und ſo ſelig, daß sie in Freud' und Frieden noch eine Weile ruhen, bis die Uebrigen vollends werden hinzugekommen sein.
+
+Aber wer glaubet solcher Predigt?
+
+Es kommt ja doch immer wieder ein Zweifel drein und flüstert uns die Frage zu, ob *) Das evangelische Lied ist dem lateiniſchen Hymnus Dies irae, dies illa nachgebildet. Die Gestalt, in der es in unſeren Gesangbüchern steht, vervanken wir dem Märkischen Prediger Bartholomäns Ningwaldt, der noch am Gube des 16. Jahrhunderts lebte.
+
+[p. 124] wohl auch Gott unter den Todten Wunder thun werde?
+
+ob die
+
+Verstorbenen aufstehen und danken werden? ob man in den Gräbern gedenken werde der göttlichen Güte, und der Treue des Herrn im Verderben? Pf. 88, 11. 12. - Aber ebendarum wiederholt sich auch fort und fort die Frage: Wer glaubt solcher Predigt? Und wem wird der Arm des Herrn offenbar? Jeſ. 53, 1. Wer kann aus eigener Kraft an ein Leben aus Gott glauben, wer kann es sich aneignen, wenn er sich nicht zuvor davon wirklich berührt fühlet? Angesichts dieser Frage, welche immer wieder von Neuem auf Selbstprüfung dringet, gehen wir auch jezt wiederum mitten durch die heilige Passionszeit dem Osterfeste entgegen, dem Feste der Auferstehung. Möchte doch der Auferstandene selbst zu dieſem Seinen Feste alle liebe Chriſtenſeelen, die daran zweifeln und in der Irre gehen, recht merklich mit dem Lebens - Odem berühren, womit er ἐνεφύσησε - und sprach: „Neh einst die Jünger anhauchte met hin den heiligen Geist! "
+
+Joh. 20, 22.
+
+Wir sind hiermit zum Voraus, zur Vorbereitung, erinnert an das Evangelium des ersten Sonntags nach Ostern, des weißen Sonntags, des Sonntags Quasimodogeniti; wir sind hiermit gemahnet, dem Hauche des Geistes aus dem heiligen Munde des Herrn zum Voraus weiter nachzudenken. Zunächst dient aber zu dem weitern Verständnisse die kompetente Parallelstelle, welche die Hirschberger Bibel nachweiſet: ste steht 1. Mos. 2, 7. Hauch des Lebens aus Gott weiset auf den andern." Wie zur Schöpfung des Menschen, „Ein als eines selbstbewußten
+
+Wesens, der unmittelbare Hauch aus dem Geiste Gottes gehört, 1. Mos. 2, 7. *)
+
+*) Die Septuaginta überseßt durch dasselbe Wort, welches wir Joh. 20, 22. finben. Καὶ ἐνεφύσησεν εἰς τὸ πρόσωπον αὐτοῦ πνοὴν ἑωῆς. Philo schreibt dazu: èveqúoŋoev - ἐνέπνευσεν = ἐψύ
+
+χωσεν.
+
+[p. 125] denn der Geist Gottes hat mich gemacht, und der Odem des Allmächtigen giebt mir das Leben, Hiob 33, 4. und die Himmel ſind durch das Wort des Herrn gemacht, und  ריהָ פּיו- : all ihr Heer durch den Geist seines Mundes, Pf. 33, 6. wie gleichermaßen zum Sterben des Menschen in dem Herrn der Odem des Lebens aus seinem Munde herzutritt, 5. Mos. 34, 5. *) wie zuletzt zur Auferweckung der todten Gebeine und zur Auferstehung des verweseten Fleisches das Wehen des Geistes aus Gott ausgehet, als eines Windes, welcher Obem giebt dem Verdorreten und Verweſeten:
+
+Hef. 37, 9. 10. **) eben so gehört auch zum Glauben an das Leben nach dem Tode und an die Auferstehung des Fleiſches nichts ſo ſehr als der Geiſt, welcher allein zu dem neuen Leben lebendig macht, Joh. 6, 63. der Geist aus Gott, welchen der Herr mit dem Wehen des Windes vergleicht,
+
+Joh. 3, 8. der Geist, den der Auferstandene den Seinen einhauch t. Joh. 20, 22. Es ist derselbige Geist, der da schaffet (1. Moſ. 2, 7.) und auferwecket (Heſ. 37, 9. 10.), welcher auch den Glauben daran
+
+*) Moses starb -
+
+Die Septuaginta überſeßt: ¿tɛ-
+
+λεύτησεν Μωυσῆς ὁ οἰκέτης κυρίου διὰ ρήματα κυρίου. **) In der Septuaginta steht wieder dieselbe Bezeichnung des An- und EinSaugens: καὶ ἐμφύσησον εἰς τοὺς νεκρούς τούτους, καὶ ζησάτωσαν.
+
+[p. 126] als ein neues Leben einhauchet (Joh. 20, 22.) , den Glauben an das Osterfest. *)
+
+*) Haben wir früher zu 5. Moſes 34, 5. einer vortrefflichen Schrift über Mose, den Knecht Gottes, welche der Literatur unserer Provinz, der Provinz Sachsen, angehört, eine Schluß-Anmerkung gewidmet, so dürfen wir hier zu Joh. 20, 22. nicht unterlaſſen, eine jüngst erſchienene - Passions- und OsterSchrift zu begrüßen, und namentlich auch für das nahende Osterfest bestens zu empfehlen. Die Schrift heißt: „Die lezten Reden des Herrn Jesu, des Leidenden, Sterbenden und Auferstandenen. Ausgelegt von D. Rudolph Stier. Barmen, 1848." Sie ist der sechste Band der Reden Jeſu überhaupt. — Die Oster Betrachtung zu Joh. 20, 22. über das „deúτepov éμpúoqua Jeſu“, über das zweite Einhauchen des Herrn zu einem neuen, zweiten Leben findet sich S. 750 folg. -
+
+## XI.
+
+[p. 127]
+
+11Wenn die Zahl der Menschen erfüllt sein wird –– Off. 6, 11 dann kommt die Vollendung. Aber welche Zahl wird es sein, in welcher sich endlich die Menschheit vollendet? Es sind ihrer so gar viele, die neben und nacheinander gelebt haben, vom Anbeginn der Tage bis zur letzten Stunde: durch so große Fernen auf so weitem Erdenraume, durch so viele Jahrtausende von einander getrennt.
+
+Wie viele sterben tagtäglich in Haufen dahin, ohne daß wir darnach fragen oder darum wissen! Wie viele sterben und verderben auch zu diesen unseren Zeiten in Krieg und Aufruhr, zu See und Land, an Peſt und sonst elendiglich, oft nicht einmal genannt, ja nicht gezählt, unbeachtet gleich den Mücken! Und diese sollen alle einst zusammen kommen, so viele ihrer gerettet werden!
+
+Große und Kleine, Hohe und Geringe, Weise und Einfältige, Könige und Bettler! Eind doch kaum mehr Mücken, von welchen auch schon eine, nämlich die Mücke des Virgilius, auf Fortdauer Anspruch gemacht hat!
+
+Es ist wie ein Spott und Scherz, und doch so rührend, wenn wir von so vielen Millionen Mücken, die jeder Tag bringt, einem einzigen kleinen Mücklein ein Gedächtniß gestiftet ſehen, das nun bald 2000 Jahr alt wird. Aber ist es nicht auch in Hinsicht auf die unzählbare Menge der Menschen mit Einſchluß aller Kinder ein unergründliches Wunder, wenn sie alle erhalten werden sollen, von denen so viele Millionen dahin sterben, ehe sie zu irgend einer Besinnung kommen? Die Zahl wird wirklich so groß, daß sie dem menſchlichen Kleinmuthe zur Unzahl wird und zum Anstoße, weil er sie nicht fassen kann.
+
+Wir haben zwar ein schönes deutsches Sprüchwort, um unser Verhalten zu dem Unbegreiflichen, unſere Stellung zu dem Unfaßlichen [p. 128] bezeichnend auszudrücken.
+
+Wir sagen:
+
+Da steht einem´ der Verstand still! Aber wir bewähren dieſen geſunden Volksverstand nicht immer: denn selbst im Gebiete der Religion, die doch nach ihrem eigensten Wesen über uns hinaus weiset, steht der kleine Menschenverstand oft genug vor wirklichen Wundern nicht ſtill, ſondern er fährt zu, und greift ſie an, er bestreitet, er leugnet sie, weil sie ihm unbequem und überlegen sind. Die große Schaar der jenseitigen Seelen ist wirklich auch eine wunderbare Erscheinung, vor welcher einem Menschenkinde der Verstand still steht. Aber thut er's auch? Ist er nicht viel mehr geneigt, Zweifeln nachzugeben, wenn es sich von der Zukunft jenſeits handelt? Und diesseits muß er sich doch dieselbe unfaßliche Größe in der Geschichte unter den Formen des Raumes und der Zeit gefallen lassen. Sollte eben daran nicht auch die Wunderscheu des natürlichen Menschen ihre handgreifliche Zurechtweisung erfahren? Denn was sich in den natürlichen Verhältnissen nicht bestreiten läßt, wiewohl es weder zu zählen noch zu fassen ist, wie sollte das in übernatürlicher Sphäre nicht möglich sein? Wozu der Menſch in dieſer unvollkommenen Welt Ja sagen muß, so unermeßlich es auch ist, weil es nun einmal vor unseren Augen in der Geſchichte geschrieben steht, wie sollte er dazu für die Zeit der Vollendung Nein sagen, da es doch klärlich geschrieben steht in dem Worte Gottes? —
+
+Aber die Geschichte, so sagen ſte, zeichnet ja eben von ſo vielen Tausenden nur wenige ein, von ganzen Völkern etliche Heroen und etliche Weise, von ganzen Kriegsheeren wenige Feldherren, auf Tausend nicht Einen: die anderen sind historisch untergegangen, auch die Namen verhallen. Das ist aber eben nur die menschliche Geschichte. Dagegen stehet in dem Buche des Lebens geſchrieben, daß auch der Auserwählten wird ſein eine große Schaar, welche Niemand zählen kann, aus allen Heiden und Völkern und Sprachen Off. 7, 9. — , aus allerlei Geschlecht und Zungen und Volk und Heiden - Off. 5, 9. — , „vor dem Stuhle stehend „und vor dem Lamme, angethan mit weißen Kleidern und Palmen „in ihren Händen."
+
+[p. 129] Die Schrift mahnet ausdrücklich an die Menge vieler tausend Engel μυριάσις ἀγγέλων πανηγύρις Hebr. 12, 22. So stehet auch geschrieben: Siehe gen Himmel, und zähle die Sterne, kannst du ſie zählen? Also soll auch der Same Israels -ſein. 1. Moſ. 15, 5. 22, 17.
+
+Ja, Gott selbst, welcher ein Gott der Lebendigen, und nicht der Todten geheißen ist, Gott ſelbſt heißt nach dieſer unfaßlichen Menge der Herr der Heerschaaren, Gott Zebaoth. Sein Name heißet Zebaoth (Jes. 51, 5.) , der aller Welt Gott genannt wird (Jes. 54, 5). Heilig, heilig, heilig ist der Herr Zebaoth! Lande sind seiner Ehre voll! Jeſ. 6, 3.
+
+alle
+
+Das Lezte ist, daß die Vielheit der Menschen zur Allheit sich vollendet, und hiermit zur Einheit sich abſchließt. Erſt hiermit erhebt sich die unendliche Vielheit der Menschen zur vollkommeter Menschheit, als zur persönlichen Einheit und Totalität: erst hiermit wird die kreatürliche Menschheit am Ende, was die Urmenschheit im Logos ist vor der Schöpfung von Ewigkeit zu Ewigkeit, nämlich persönlich. Das Ziel der Schöpfung und Erlösung ist mithin wesentlich eschatologisch. Bis dahin kann die Vielheit der Menschen nur insofern als Menschheit gelten, als sie es am Ende werden soll, und im Urmenschen schon vor ihrem Anfange vorgebildet ist. sohnes ganz vollendet.
+
+Erst hiermit ist das Werk des Menschen-
+
+## XII.
+
+[p. 130]
+
+Ueber die Sphären und Zustände des jenseitigen Lebens der Menschen können wir auch aus den subjektiven Vorstellungen einzelner gläubiger Christen und Theologen Manches lernen, wenn wir nur mit einiger Selbstentäußerung uns hinein leben wollen, und die eigenen Meinungen einstweilen in den Hintergrund zu stellen, hingegen die Lehre der Schrift und die constanten Auslegungen der Kirche im Auge zu behalten nicht unterlassen. In dies sem Sinne versuchen wir jetzt, neuesten Zeit nachzugehen, einem fremden Gedankenkreise der welcher sich aus dem christlichen Bewußtſein entwickelt hat und an der heiligen Schrift nur hinterdrein ſeine Probe findet: wir suchen auf einem fremden Acker Aehren zu lesen; aber daß wir darauf Aehren lesen dürfen, st Beweises genug, daß der Acker keinem Fremden, sondern einem Nächsten gehört, wenn wir auch hernachmals mit ihm zu rechten haben sollten, und Spreu und Stoppeln von den Aehren sondern müßten. Nach Oetinger * ) sind die Glaubensartikel über die leßten Dinge diejenigen, worüber die Kirche bis jezt am kürzesten und spärlichsten gewesen, und sind doch grade die, „welche zur óñootáoɛ oder Grundstellung des Glaubens im Geiſt gehören, die, welche uns die zukünftigen Dinge durch Erkenntniß der Herrlichkeit Gottes in dem Angesichte Jesu Christi erfreulich und lebendig machen, daß uns die Lüfte im Irrthum vergehen. Diejenigen Punkte der Religion, welche uns von der Furcht des Todes freimachen, sind die wichtigsten; eben dieſe müſſen es sein, welche uns von der Tilgung der Sünden durch das Anschauen Christi vergewissern. " Nach Oetinger **) würde aber dazu, wie zu aller übersinnlichen Er*) Die Theosophie Oetinger's. Von Auberlen. Mit einem Vorwort von Pr. Rothe. Tübingen, 1847. S. 522. **) A. a. O. S. 535.
+
+[p. 131] kenntniß,. „ein eigenes, über das Sichtbare erhabenes Sensorium" gehören, welches auch Oetinger's großer Zeitgenosse, auf den er sich deshalb bezieht, nämlich der große Philosoph de Sanssouci ", dazu für unerläßlich nothwendig erachtete, aber weder an sich finden, noch an anderen Menschen anerkennen konnte. Aber es ist nicht Oetinger, der Schüler Bengel's, der Zeitgenosse Friedrich's des Großen und Swedenborg's, den wir jezt über die Zukunft hören wollen, wie viel auch von ihm zu lernen ſein möchte: es ist vielmehr ein Geiſtesverwandter, der ein Jahrhundert später erscheint, und künftig, nach seiner eigenen Ueberzeugung, „in das Kämmerchen der Theosophen zu stehen kommen wird in die Nähe Oetinger's, auch sich keine bessere Stelle wünscht. *)
+
+So möchten auch wir die Theosophie anhören, welche jezt von so werthen Männern auf's Neue vertreten wird **), wenn uns nur gestattet wird, immer wieder zur Schrift unmittelbar, desgleichen zur Kirche zurückzukehren, deren Schäße tiefer liegen und reicher sind, als die Zeit erkennen kann.
+
+Der Mensch - so lesen wir in der neuesten Eschatologie, der Mensch besteht aus Geist und Leib, oder aus einem Inneren und deſſen äußerem Organe. In dem Verbande zwischen diesem Inneren und Aeußeren beruhet die Wirklichkeit des Menschen. Allein dieser Verband ist an dem Menschen, wie wir ihn finden, noch nicht vollendet. Inneres und Aeußeres befinden sich nicht in Harmonie. Der materielle Leib ist zwar das Organ des menſchlichen Geistes, in welchem die menschliche Persönlichkeit besteht; aber dieses äußere Organ entspricht nicht dem Innern, dem es zu ſeiner Thätigkeit dienen soll. Dieser Mangel des Verbandes kann aber nicht an einer Seite allein liegen, vielmehr ist zunächst das Innere berufen, sich selbst, und hiermit auch seinen äußeren Organismus, auszubilden und
+
+*) A. a. D. Vorwort III. IV. **) Vergl. Dr. Schmieder: Das hohepriesterliche Gebet unsers Herrn Jesu Christi. Zwanzig Betrachtungen, Hamburg, 1848. Vorwort III - XXIV. 9* [p. 132] zu dem adäquaten Ausdrucke des Inneren zu erheben. . Hiermit ist schon gesagt, daß der Mensch berufen ist, selbst an der Vollendung der noch mangelhaften Harmonie seines Wesens zu arbeiten.
+
+Die Schöpfung des Menschen ist von Gott selbst nicht vollendet worden; ste ist um deswillen unvollendet geblieben, weil es in dem Begriffe des Menschen, in dem Begriffe der endlichen Freiheit, wozu er geschaffen ward, begründet ist, daß er das Schöpfungswerk selbst an ihm selbst fortzusehen hat. Insofern der Mensch von seinem Schöpfer selbst zu dieſer Schöpfung berufen ist, insofern ist ein jedes menschliche Individuum causa sui.
+
+Gott nimmt ihn selbst zur mitwirkenden Cauſalität in den Schöpfungsprozeß auf, und legt die Fortseßung deſſelben in ſeine Hand. Hiernach besteht die sittliche Aufgabe des Menschen eben darin, daß er den noch unadäquaten materiellen Organismus ſeines Innern zu einer dem letzteren adäquaten Verleiblichung ausbilde, und diese mit seinem Innern identificire. Dazu gehört aber die successive Aufhebung der natürlichen Materialität des Leibes, so doch, daß die Seele nicht ohne Leib sei, nicht entblößt, nicht entkleidet werde - 2. Col. 5, 1—5. — , sondern vielmehr mit einem ihr eignenden Organismus überkleidet werde.
+
+Sittlich ist mithin das menſchliche Leben ein fortgehendes Ableben, in welchem der materielle Leib mehr und mehr zerfällt, während der geistige Organismus als beseelter Leib immer mehr sich ausbildet. Diesem ethischen Prozesse des Ablebens gegenüber steht als sein Gegentheil das Sterben und der Tod selbst, d. i. die Entblößung der Seele von dem materiellen Leibe ohne geistigen Ersatz dafür.
+
+Der dem Menschen zu stetiger Fortſezung von Gott ſelbſt aufgetragene Selbstschöpfungsprozeß ist gleich am Anfange unterbrochen worden durch die Sünde, welche eben in dem Abfalle von dem Herrn besteht, der den Auftrag gegeben hat.
+
+Durch die
+
+[p. 133] Sünde ist alsbald das ganze Verhältniß verkehrt worden, indem das zum Dienste bestimmte materielle Organ des Geistes zu einer fortſchreitenden Uebermacht und Herrschaft über den Geiſt gelangt ist. Hierdurch ist die anfänglich gegebene Disharmonie zum wirklichen Risse geworden.
+
+Die Frage über die Möglichkeit des ersten Sündenfalles fann hier nicht ausführlich erörtert werden. Wenn wir sie aus einer vorzeitlichen Eristenzweise, oder aus einer von vorn herein gegebenen Uebermacht der Materialität über den Geist, oder aus dem am Anfange unvermeidlichen Mangel normaler Erziehung und erziehender Normalität erklären wollten, so würden wir ste eben nicht erklären. Uns kann jedenfalls hier genügen, daß mit der Unvollkommenheit der unmittelbaren Menschenschöpfung, welche im Begriffe des Menschen liegt und die vollkommene Anlage zur Vollkommenheit nicht aus-, sondern einschließt, auch die Möglichkeit der Sünde eben so wie die Nichtnothwendigkeit derſelben gegeben war. Aber wie wir auch die Möglichkeit erklären, die Wirklichkeit der Sünde und ihre Imputabilität liegt uns sichtlich vor Augen und empfindlich genug im Gewiſſen.
+
+Der Sünde des Menschen ist ein neuer Schöpfungsakt aus Gott, die Erlösung, unmittelbar gefolgt, und ſucceſſive — in der Geschichte der Menschheit zur Erfüllung gekommen. Hierdurch des unterbrochene ethische
+
+Prozeß zur
+
+Ausbildung adäquaten ist
+
+Organismus für die menschliche
+
+Persönlichkeit jedem Menschen wieder zugänglich geworden, wenn er die objektiv gegebene Erlöſung annimmt, um der Sünde abzusterben. Die bedingte Theilnahme des Menschen an seiner Schöpfung erweiſet ―― ſich nun als Theilnahme an ſeiner Erlösung: dieſe Theilnahme besteht zunächst in der Annahme der Gnade.
+
+Die Annahme der Erlösung erweiſet sich als Bekehrung, und die Bekehrung ist der Anfang zur Wiedergeburt und zur Heiligung. [p. 134] Wirkliche Bekehrung *) schließt wirklichen Wiederabfall aus, wenn auch nicht einzelne Rückfälle, lapsus. Die Labilität nimmt aber in demselben Verhältnisse ab, in welchem die Heiligung zunimmt: jene verschwindet ganz, wenn diese vollendet ist. Ist mit wirklicher Bekehrung der Wiederabfall, so ist mit vollendeter Heiligung auch die Labilität ausgeſchloſſen. Die Vollendung der Heiligung ist die Bedingung zur Aufnahme in das Reich Christi jenseits des Todes. Aber wer kommt schon diesseits zur Vollendung in der Heiligung? Jedenfalls scheint diese Vollendung dieſſeits und im Uebergange nur ausnahmsweiſe zu erfolgen, nur insofern stattzufinden, als etwa der Prozeß des natürlichen Sterbens die Heiligung nicht allein fördern, sondern nach Befinden auch vollenden kann. So können auch Unbekehrte mitten im Sterben, in articulo mortis, sich noch bekehren und hiermit gerettet, aber nicht alsbald in dem so lange versäumten Werke der Heiligung vollendet werden.
+
+Hiernach scheint es allgemeine Regel zu sein, daß die meiſten Menschen weder im Verlaufe ihres Lebens, noch im Prozesse ihres ohnedies oft ſehr jähen und unversehenen, oft sehr unruhigen Sterbens zu demjenigen Zustande ihrer Reife kommen, welcher sie mit einem neuen, adäquaten, geistigen Organismus überkleidet. In der Regel scheint also das sinnliche Ableben eher einzutreten, als das sittliche sich vollzieht und vollendet; das äußere Kleid fällt oft eher ab, als der innere Mensch zu dieser Entkleidung reif ist, eher, als das neue Kleid, der beseelte Leib, fertig ist.
+
+Wo aber ausnahmsweise schon beim und im natürlichen Ableben auch das sittliche Ableben und die damit verbundene neue Bekleidung vollendet ist, da tritt auch sofort für die einzelne Seele *) Wirkliche Bekehrung, wozu mehr gehört, als daß das Wort mit Freuden angenommen und eine Zeit lang geglaubt wird, Luc. 8, 13., mehr, als daß die himmlischen Gaben und Kräfte geschmeckt werden, Hebr. 6, 4. 6., 26-29., auch mehr als Erkenntniß, Matth. 12, 31, 32.
+
+[p. 135] die specielle Auferstehung ein, welche der Gesammt - Auferstehung (Off. 20, 4—6.) vorausgehen kann. Eben darum ist auch mit der Vollendung der einzelnen Persönlichkeit zugleich die gliedliche Einfügung in den Leib Christi verbunden, welcher selbst erst ganz wird durch die Gesammt-Auferstehung.
+
+Wo hingegen das sinnliche Ableben vor der Vollendung des ethischen Ablebens eintritt, da kann auch mit dem Tode nicht ſogleich die specielle Auferstehung und Eingliederung folgen.
+
+Für diesen Fall, welcher die allgemeine Regel bildet, ist zur Vollendung des angefangenen ethischen Entwickelungs- und VerleiblichungsProzesses eine erste Station in dem Zwischenzustande gegeben, welche zwar nicht dem Tode gleichsteht, welcher die Unbekehrten trifft, aber doch nur als ein embryonischer Zustand im Todtenreiche gelten kann, welches allen nicht vollendeten Abgeschiedenen gemeinſam ist. Dieser Station des Zwischenzustandes verfallen mithin alle bekehrten Menschenseelen, welche bei ihrem natürlichen Ableben noch nicht reif geworden sind zu dem neuen geistigen Organismus, von welchem die specielle Auferstehung und Eingliederung bedingt ist.
+
+Eben diese nächste Station des Zwischenzüſtandes bringt die durch ihre Bekehrung geretteten, aber noch nicht vollkommen geheiligten Seelen außer Contact mit ſinnlichen Versuchungen, und nach Befinden in Verbindung mit anderen Abgeschiedenen im Hades zu gegenseitiger Förderung. Besonders dient ihnen aber dieser Zwischenzustand zu stiller Sammlung, Selbstprüfung und Selbstbesinnung, zu tieferer Einkehr in sich, zur Ausläuterung der noch abnormen Ingredienzien natürlicher Materialität, kurz zu successiver Vollendung des neuen beseelten Leibes.
+
+Sobald nun die Seele mit diesem Entwickelungsprozesse fertig ist, so feiert sie auch alsbald ihre specielle Auferstehung aus dem Hades, welche auch in diesem Falle der Gesammt - Auferstehung vorausgehen, oder an ihr sich anschließen, aber nicht noch später [p. 136] nachfolgen kann. Eben dieſe ſpecielle Auferstehung hat dann eben so, als wäre sie unmittelbar nach dem Tode erfolgt, die Eingliederung in den gesammten Leib des Erlösers zur unmittelbaren Folge,
+
+Mit dieser speciellen Vollendung tritt für jede Seele die Seligkeit ein, welche aus der gliedlichen Gemeinſchaft mit dem Erlöser an dessen Leibe von selbst folgt. Diese Seligkeit ist aber des Zuwachses fähig und theilhaftig durch alle weiteren Stufen der Entwickelung bis zur Gesammt-Auferstehung. Endlich folgt die erste Gesammt-Auferstehung, d. i. die Auferstehung aller Gerechten in Folge der Wiedererscheinung des Erlöſers (Off. 20, 4-6.) . Unter dieſer Wiederkunft Christi iſt die ſichtbare Wiedererſcheinung des allezeit gegenwärtigen Erlösers zu verstehen, mit welcher die gleichzeitige ſichtbare Wiedererſcheinung aller Abgeschiedenen zusammenhängt, die bis dahin, weil vollendet, einzeln auferstanden und dem Leibe successiv eingegliedert worden sind (1. Theff. 4, 14-16.).
+
+Auch in dieser Vollendung bleibt jede Seele ſie ſelbſt: durch die Ausbildung des eigenen adäquaten Organismus ist die Fortdauer der Rückerinnerung, durch die Eingliederung in den Leib Chriſti das Wiedersehen und Wiedererkennen verbürgt. Aber diese erste Gesammt-Auferstehung und die damit verbundene Wiederkunft Chriſti kann nicht eher eintreten, bis die gesammte Menschheit christianisirt und die Vollzahl der Erlöseten erfüllet ist. Matth. 24, 14., Marc. 13, 10., Luc. 24, 47., Ap. 1, 8. , Joh. 16, 10.
+
+Wie die Wiederkunft Christi, die sichtbare, einerseits die ſichtbare Wiedererscheinung aller Christen zum Geleite hat, so hat sie andererseits die Elimination aller antichristischen Menschen aus dem Bereiche der christlichen Menschheit zur Folge.
+
+[p. 137] Unter diese auszuscheidenden fremdartigen Elemente gehören alle bis zum leßten Augenblicke unempfängliche und widerstrebende Seelen, welche nicht selig werden wollen. 2. Theff. 17, -10. , 2, 8. ,
+
+Off. 19, 11., 20, 3.
+
+Diese Scheidung aus dem christlichen Bereiche ist näher Entfernung von der Erde überhaupt, Off. 19, 20., 29, 2. 3. 10. 15. da die Vollendung des Reiches Christi auf Erden von der Aneignung der ganzen irdischen, äußeren, materiellen Natur an die Menschheit bedingt ist.
+
+Zu der hiermit eintretenden Vollendung des Reiches Chriſti gehört auch dieses unzertrennlich, daß die alsdann noch sinnlich lebenden christlichen Individuen verwandelt werden, 1. Cor. 15, 51. 52., 1. Theff. 4, 14-17., 2. Cor. 5, 1. ff. um so vergeistigt dem großen Organismus der Erlöſeten eingegliedert zu werden.
+
+„Jezt hat sich der Erlöser die Menschheit vollkommen zugeeignet, und beseelet sie in allen ihren Punkten schlechthin. Der Erlöſer iſt jezt schlechthin die Menschheit geworden; und nun ist auch die Menschwerdung Gottes in dem Erlöser auf schlechthin_abſchließende Weise vollendet. "
+
+Eins übrigt noch. Das ist die Wiederauflösung der äußeren Natur in ihre Elemente. 2. Petr. 3, 7-12., Off. 20, 11., Röm. 8, 19—23. Mittelst dieser Auflösung wird das irdische Reich Christi vollends verklärt. Es ist das chiliastische: es ist die Hochzeit und das Abendmahl des Lammes. Offenb. 19, 6-9., 20, 4-6. Mit der Wiederauflösung der materiellen, äußeren, irdischen Natur ſind innerhalb der irdischen Weltsphäre für alle nicht wirklich [p. 138] geistige Naturwesen die Bedingungen des Seins hinweggefallen. Darum können die bis dahin dem Todtenreiche verfallen gewesenen unbekehrt gebliebenen menschlichen Einzelwesen von nun an in diesem Todtenreiche unter der Erde keine Stelle finden, denn es hat selbst als materielle Dertlichkeit die Zerstörung erfahren. Off. 20, 14. Jetzt giebt daher das Todtenreich die noch Zurückgebliebenen heraus. zum Gericht;
+
+Dies ist die zweite Auferstehung, die Auferstehung
+
+Off. 20, 11-15., Joh. 5, 28. 29., es ist die Auferstehung, welche der chiliastischen nachfolgt. Nun sind auch die aus dem Todtenreiche entlassenen Seelen reif für die lebte Entſcheidung, für das Endgericht. Alle äußeren Impulse sind an ihnen erfolglos erschöpft: ein Umschwung ihrer Die lezte persönlichen Entwickelung ist hinfort nicht denkbar. Probe, sie zu gewinnen für ihre ursprüngliche Beſtimmung, ist eben die lezte Stunde, in welcher sich noch Viele von der rettenden Bemühung des Erlöſers ergreifen laſſen, während die Uebrigen verloren gehen.
+
+Die sich noch in dieser leßten Stunde bei dem Wiedererscheinen des Heilands von ihm ergreifen laſſen, dieſe werden noch zur vollendeten Menschheit hinzugethan, ſo doch, daß sie nicht mehr eingegliedert werden können, denn der Gesammtleib des Erlösers ist bereits in der ersten Auferstehung vollendet; aber sie werden dieſem Leibe als Extremitäten hinzugefügt: sie sind die — GibeoJos. 9, 27. die Nethinim 1. Chron. 10, niten 2.
+
+Dem Verderben sind sie zwar entrissen, aber ste bleiben weit zurück hinter der Herrlichkeit der früher Gereiften (1. Cor. 3, 15. ).
+
+Alle übrigen Seelen, welche auch in dieſem leßten Augenblicke die ihnen noch einmal angebotene Hülfe zur Rettung von sich weisen, und nun alle Versuche zu ihrem Heile vereitelt haben, werden als unerrettbare ausgestoßen aus der vollendeten irdischen Schöpfung. [p. 139] So ausgeschieden aus dem kosmischen Organismus können sie nur in allmähliger Aufzehrung ihrer endlichen völligen Vernichtung entgegengehen. Dies ist der zweite Tod.
+
+Der erste Tod für dieſe unempfänglich Verhärteten war der natürliche, welcher sie in das Todtenreich, und zwar in ein ſchattenartiges Dasein verseßte, wo sie, noch ungesondert von den Des kehrten, aber nicht Vollendeten, doch in verschiedener Weise forteristiren.
+
+Es bleibt ihnen in diesem Zustande der Ohnmacht noch ein Streben, zum Leben sich emporzuarbeiten, aber nicht zum wahren. Sie befinden sich recht eigentlich in der Tiefe der Erde. Matth. 12, 40. Aber -wenn sie fortschreiten, so schreiten sie nur zum Böseren fort.
+
+Der zweite Tod hingegen hebt im Endgerichte an, er ist die endliche Folge des Endgerichts. Zunächſt verſeßt er die nun Gerichteten in den leeren Weltraum. Ephef. 2, 2., 6, 12. Dort erwartet sie ein Verweſungs- und Verbrennungsprozeß. Marc. 9, 49. - Sie reiben das ihnen noch übrig gebliebene Seyn im ſteten, aber nugloſen Kampfe gegen Gott und das Reich der Erlöſeten auf. Dieser Rest des Daseins ist wesentlich vergänglich, ob er auch noch durch unabsehbare Zeiten fortdauert, bis endlich das Band zwischen ihrem Aeußeren und Inneren, worin ihre Wirklichkeit besteht, völlig wird gelöset sein. Ihre sittliche Aufgabe war, die materielle Natur ihres Wesens successiv ihrer Persönlichkeit bis zur Identität mit derselben anzueignen: der fortgehende Widerſtand gegen diese ihre Bestimmung führt in Ermangelung der Umkehr — zum leßten Tode.
+
+## XIII.
+
+[p. 140]
+
+In dem Vorstehenden haben wir die unterschiedenen Entwickelungsstadien des Menschen jenseits des Todes mit fremden Augen angesehen. Wir haben uns - ohne uns jedoch auf neue, subjektive Erklärungen des ersten Sündenfalls einzulaſſen, mit Liebe und Treue in einen fremden Vorstellungskreis verseßt. Theologische Ethik. Von Dr. Rich. Rothe. §. 85, 86. 104. 105, 466-474. 487 ff. 593-605, 798. 804. 496-499. *)
+
+Wir sind damit zugleich an verwandte und an entgegengesezte Erklärungen des Geheimniſſes der Zukunft erinnert worden ** ;) aber *) Hiermit wäre zu vergleichen: „Die Theosophie Fr. Chr. Oetinger's. Von K. A. Auberlen. Mit einem Vorwort von R. Rothe, 1847, besonders S. 381 ff., S. 448 ff., S. 516 ff. **) Zu vergleichen wäre insbesondere Joh. Fr. v. Meyer's Vorstellungen vom Hades und von der Wiederbringung aller Dinge. Inbegriff der christlichen Glaubenslehre. Von Dr. J. Fr. v. Meyer. S. 256-280. - Hierher gehören auch „Berichte eines Geisterſehers über den Zustand der Seele nach dem Tode." Von Schubert mitgetheilt. Wir nennen ferner Weiße: „Ueber die philosophische Bedeutung der chr. Eschatologie“ in den Studien und Kritiken, Nach ihm verhält sich der Zwischenzustand der Seelen nach dem Tode zum zeitlichen and ewigen Leben wie Potenz zum Actus. Dr. Nitsch: System der christlichen Lehre. Letztes Hauptstück. — Lange: Studien und Kritiken 1836. S. 700 folg. www J. Müller: Stud. und Kritiken 1835. . .785. folg. Krabbe D. Weißel: Stud. und Kritiken. 1836. S. 975 flg. : Lehre von der Sünde und vom Tode.
+
+#### J. H. Fichte: Idee der Persönlichkeit. - Das
+
+Büchlein vom Leben nach dem Tode. Von Dr. Mides. Dresden, 1836. - Das Büchlein von der Auferstehung. Von Nicodemus. Ebend. Auch in der Ev. K. 3. sind verschiedene Auffassungen aus neuerer Zeit mitgetheilt. Ev. K. 3. 1835 Nr. 33. 34., 1836 Nr. 16. 17. 25-27., 1847 Nr. 61. Darauf bezüglich sind auch die neuesten Auslegungen über die Gesichte der Apokalypse, insbesondere über das tausendjährige Reich (1847 Nr. 96-99 ., 1848 Nr. 29-32. 80. 81.), welche jedenfalls ein gewissenhaftes Studium in Anspruch nehmen, wenn ſie das Millenniuw nicht in der Zukunft ſuchen, sondern in der Vergangenheit finden.
+
+[p. 141] wir bleiben diesmal bei den vorstehend mitgetheilten Ansichten ſtehen, ohne uns jedoch die neuen Entdeckungen, so weit sie dem uralten Vorstellungskreise der gesammten Christenheit entgegenstehen, alsbald aneignen zu können. Immer können aber die vorstehendenMittheilungen nicht allein zu mehrerer Belebung und Beleuchtung, so wie zur Bereicherung des eschatologischen Inhalts unserer Erkenntniß, ſondern auch zu weiterem Nachdenken, zu neuen Forschungen und Vergleichungen in der Schrift dienen. Zunächst muß es auffallen, daß in dem Begriffe des Menſchen das vermittelnde Glied zwiſchen Leib und Geist, die Seele, zu fehlen scheint. Hier kann es indessen genügen, diesen Mangel zu bezeichnen: wir kommen später bei einer anderen Gelegenheit darauf zurück. Aber darauf müssen wir schon hier aufmerksam machen, daß die angegebene Differenz zwischen Leib und Geist, womit der Mensch anfängt, um sie zur Harmonie zu bringen, mit der Lehre der römischen Kirche verwandt ist, wornach dem Menschen Vernunft - pars superior - und Sinnlichkeit pars inferior mit der Wahlfreiheit zur Entscheidung anerſchaffen worden, und auch nach dem Falle, wenn gleich geſchwächt, geblieben ist, wiewohl er durch diesen Fall das ihm außerdem verliehene Gnadengeschenk ursprünglicher Gerechtigkeit (donum supernaturale justitiae originalis) verloren hat. Dieſer römisch-kirchlichen Vorstellung nähert sich die Rothe'ſche nur zu sehr. Näher wäre indeſſen die ethische Aufgabe des Menschen, wie sie hier gefaßt ist, nämlich die Erneuerung und Ausbildung eines adäquaten Organismus für den Geiſt ſtatt des irdischen Leibes, in's Auge zu fassen. Wir sind ihr schon vorhin, mitten in unſerer Relation, insofern näher getreten, als wir zur Erläuterung darauf aufmerksam machten, daß diese. Aufgabe von dem Inneren ausgehen, folglich dieſes ſelbſt zuerſt anfaſſen müßte, um dadurch auch den äußeren Örganismus zu verinnern. Zu der gegenseitigen Ausbildung würde daher nichts so sehr gehören, als daß das Innere auf sich und auf das Aeußere zumal förderlich einwirke, um alsdann auch wieder von dem Aeußeren Förderung und Hebung [p. 142] zu erfahren.
+
+Darin besteht eben die dem Menschen selbst befohlene
+
+Selbstschöpfung und Selbsterlösung, ein Prozeß, der durch die Sünde gestört, durch die Erlöſung von neuem vermittelt worden ist. Nach dieser Seite meinen wir die vernommene Vorstellung nicht zu alteriren, wenn wir sie wie die eigene behandeln, und mit unſeren Worten ausdrücken. schen ist,
+
+Wir können ſagen: „Die Aufgabe des Menden Anfang des Geſchaffenſeins zu negiren und aufzuheben: in dieser Aufhebung besteht der wesentliche Fortschritt des Menschen; " * ) ein Prozeß, der durch die Sünde nicht zerstört, aber gestört, durch die Erlösung wieder hergestellt worden ist. **)
+
+Wir sagen ferner: „Mit der fortschreitenden Entwickelung des endlichen Geistes wird Schritt für Schritt auch die Natur erhoben und verklärt, indem die Seele den Leib und das Innere das Aeußere zu durchdringen berufen ist. ***)
+
+Wir sagen ausführlicher:
+
+„Der
+
+Mensch ist geschaffen! Damit ist gesagt, daß dem Menſchen nicht allein das Insichsein, oder der Geist, sondern auch das Außersichſein, das Organ der Aeußerung und Realiſation, unmittelbar gegeben ist, mit der Beſtimmung, die unmittelbar gegebene Einheit des Inneren und Aeußeren zu vermitteln, den Leib als ſein Aeußeres der Seele als seinem Inneren, aber auch die Seele dem Leibe selbst anzueignen. Wie aber der Mensch in sich selbst das doppelte Verhältniß hat, daß er nicht allein ein immanentes Ganzes für sich, sondern auch das persönliche Glied eines Ganzen, als seines Begriffs, ist, so hat er auch in Beziehung auf die ihm unmittelbar gegebene, aber erst von ihm zu vermittelnde und zu reproducirende Aeußerlichkeit das doppelte Verhältniß, daß ihm ein doppelter Leib gegeben ist, nämlich jedem Einzelnen, als einem Einzelnen, ein Leib für sich selbst, als die vorabgegebene Aeußerlichkeit seiner Individualität, damit er darin sich selbst zur Unterscheidung von allen anderen Gliedern der Menschheit ausprägen und äußern *) Beiträge zur spekulativen Philoſophie von Gott und dem Menschen und von dem Gottmenschen. Von C. F. Göschel. Berlin, Dunker und Hum, blot, 1838. S. 198. Oder wir beziehen uns lieber auf die ganze Abhandlung: „Der Sündenfall und die Erlösung", S. 191-236. **) Ebendaſ. S. 209. 211. ***) Ebendaſ. S. 203.
+
+[p. 143] ſoll, und zweitens allen Gliedern der Menschheit ein gemeinſchaftlicher Leib, als die vorabgegebene Aeußerlichkeit der ganzen Menschheit zu gemeinsamer Herrschaft und Durchdringung 2c. 20. " *) Das Prinzip dieſes ganzen, dem Menschen anvertrauten Entwickelungsprozeſſes ist mithin kein anderes, als die Uebermacht des Geistes; und dies ist auch das Prinzip der Erlösung. **) So ist auch das Ich die Energie des Leibes. ***) Darauf ruht insbesondere die Unsterblichkeit, die Auferstehung des Fleiſches, die Verklärung der Erde.
+
+Alle drei Stadien der Entwickelung gehören recht eigentlich zur sittlichen Aufgabe des Menschen, hiermit zur Ethik.
+
+Selbst die Erkenntniß dieser dreifachen Aufgabe ist kein einseitiger Verſtandesakt, ſondern der Anfang zur Realiſation durch die Erhebung des Willens ****). Die Realiſation iſt vom Anfang an durch den Erlöser, als den Menschensohn, möglich gemacht und angebahnt. Darum ist auch zur Vollendung die sichtbare Wiedererscheinung des Erlösers mit den Erlöseten verheißen. „Das Ziel der Erlösung ist die Auferstehung. †) Hiermit ist wiederum die Idee der sittlichen Aufgabe des Menschen näher bezeichnet, erläutert und begründet. So weit können wir uns auch zu der vorstehenden Auseinandersetzung bekennen; aber unser Einverständniß geht auch noch weiter. Jest treten wir mit dieser ethischen Aufgabe des Menschen, die ihn durch das Leben begleitet, aber auch darüber hinaus reicht, aus dem leiblichen Leben heraus, und hiemit in den Zwischenzustand, der vom Tode bis zur allgemeinen Auferstehung durch verschiedene Stadien fortgeht. Dieser Zwischenzustand wird, namentlich evangeliſcherſeits, leicht übersehen; es thut Noth, daran zu erinnern, weil die moderne Vorstellung nur zu oft grade die nächſte Sphäre nach dem Tode, die Sphäre des Uebergangs, überspringt, und ohne diesen Uebergang unmittelbar zum Himmel zu gelangen meint. ††) Müssen wir aber nach der Schrift den Zwi-
+
+*) Ebendas. 6. 208. **) Ebendas. S. 212. ***) . Ebendas. S. 213. ****) Ebendas. S. 215. †) Ebendas. XVI. S. 191 - ·231. ††) Thiersch: Vorlesungen über Katholicismus und Protestantismus. 11. Ausg. I. S. 193 ff. II. S. 183 ff.
+
+[p. 144] schenzustand anerkennen, ſo werden wir auch im Allgemeinen unterschiedene Stadien dieses Zwischenzustandes beachten müſſen, wenn auch die ſubjektiven Vorstellungen darüber, so weit die bestimmte Norm in der heiligen Schrift fehlt, verſchieden sich gestalten mögen. So hat namentlich die Römisch-katholische Kirche ein Purgatorium als das erste Stadium dieſes Zwiſchenzustandes, welches aber den Letzteren nicht ganz ausfüllt; denn die Seelen können ſucceſiv noch vor der allgemeinen Auferstehung hervorgehen und zur Seligkeit gelangen, wenn auch diese noch im Wachsen bleibt. Eben dieser kirchlichen Lehre nähert sich mehr oder weniger die obige doktrinelle Auffassung. Gegen diese lettere tritt uns aber ein anderes wesentliches Bedenken entgegen, welches zum Theil auch die Römiſch-katholische Lehre trifft, wiewohl weniger.
+
+Es wird nämlich vorausgesezt, daß die meiſten zu Christo bekehrten, durch den Glauben gerechtfertigten Christen unvollendet aus diesem Leben scheiden und in jenes eben so unvollendet übergehen, als sie hier geſchieden sind. Diese Vorausseßung gründet sich wieder nicht allein darauf, daß auch die Gefördertsten unter den Gläubigen hienieden nicht frei von Flecken und Mängeln werden, indem die Heiligung jedenfalls nur selten, etwa durch Märtyrerthum dieſſeits, oder im Uebergange vollendet werde, sondern auch ferner darauf, daß die ethische Entwickelung des Bekehrten eine nur natürliche, stetige, ſtufenweiſe Fortbildung sei, welche ihre gemessene Zeit erfordere, und daß der Heiligungsprozeß von der Rechtfertigung nicht allein unterſchieden, sondern auch getrennt, einer regelmäßigen Stufenfolge unterworfen ſei. Mit dieser Annahme einer rein natürlichen Ausbildung hängt zugleich die Vorstellung zuſammen, daß die menschliche Seele eben so unvollendet dort ankomme, als sie hier scheide, welches eben auch nur natürlich wäre. Unser christliches Bedenken ist nun eben gegen die Vorausseßung einer rein natürlichen Ausbildung des geistigen Organismus durch alle Stadien ihres Verlaufes gerichtet. Uns scheint der wesentliche Begriff derjenigen Entwickelung, wodurch Christus in dem menschlichen Individuum Gestalt gewinnt
+
+Gal. 4, 19. - , einer solchen von natürlichen
+
+[p. 145] Gesezen abhängigen Entwickelung schlechthin zu widersprechen. Das - und das Anziehen des neuen Anziehen Chriſti — Röm. 13, 14. — --Menschen 2. Cor. 5, 3. ist wesentlich das Gegentheil natürlichen Wachsthums. Eben darum erstreckt sich unser Bedenken auch auf den nicht einmal in natürlichen Verhältnissen gültigen Schluß, als wenn die Seele nicht anders jenseits anlangen könne, als sie diesseits geschieden sei; denn damit scheint nichts so sehr als der Uebergang und der Prozeß deſſelben, alſo das Wichtigste, übersehen zu werden. In Beziehung auf dieſes unser doppeltes Bedenken erinnern wir einmal an diejenigen Augenblicke im Leben, da wir rein und frei sind, und zweitens an das Mysterium des legten Entwickelungsprozeſſes im Sterben, welches nicht nach Zeitmaßen berechnet werden kann, und noch überdies allen unseren Wahrnehmungen sich entzieht. *) In beiden Beziehungen berufen wir uns auf das Wort der Wahrheit: „Ihr seid jezt rein um des Wortes willen, das ich zu euch geredet habe," Joh. 15, 3. , 13, 10., oder: „So ist nun nichts Verdammliches an denen, Röm. 8, 1.-- Und wer weiß, was die in Christo Jesu sind, " in der Sterbeſtunde vorgeht! Es steht geſchrieben: „Selig sind die Todten, die in dem Herrn sterben, " Offb. 14, 13. — Zugleich erinnern wir an die Macht des Glaubens, welcher kommt, sieht und siegt, welcher auch den dogmatiſch-ethischen Unterſchied zwiſchen Bekehrung und Rechtfertigung einerseits, und Heiligung andererWir erſeits, zulezt noch vollkömmlich zu überwinden vermag. innern nicht minder an den Rock der Gerechtigkeit als das hochzeitliche Kleid, welches den Bekehrten in dem wichtigsten Akte seines Lebens, im leßten Ableben nicht wird entkleidet sehen lassen, 2. Cor. 5, 4.
+
+Wir erinnern an das Thörichte, an das Schwache, an das Unedle, an das, das da nichts ist, welches Gott erwählet hat, 1. Cor. 1, 27-29. Wir erinnern an die leßte Reise, und an den Geleitsmann, welcher der Seele nie näher tritt, als in der Noth.
+
+Rechnen wir doch selbst bei den irdischen Reisen darauf,
+
+*) Vergl. Thiersch: Vorlesungen über Katholicismus und Protestantismus. Möhler: Symbolik S. 218. 219. Neue UnterZweite Aufl. II. S. 183. suchungen S. 328. 329. Gschatologie.
+
+[p. 146] daß der Wanderer nicht ohne Frucht zurückkehre und anders ankomme, als er abgereiset war! Auch die evangelische Lehre von der Rechtfertigung überhaupt scheint mit dem langwierigen Läuterungs- und Entwickelungsprozeſſe im Hades und mit dessen Berechnung nach natürlichen Maßen nicht übereinzustimmen. Das evangelische Purgatorium endet vielmehr in der Regel mit dem Sterben.
+
+Damit ist aber der demnächst folgende Zwischenzustand nicht ausgeschlossen, welcher vor der Auferstehung nicht endigt.
+
+Das Lezte ist die Auferstehung, in welcher wir die erste und die zweite zu unterscheiden haben. Hier weicht die subjektive Vorstellung, in die wir uns zu versezen gesucht haben, von der Kirchenlehre hauptsächlich insofern ab, als diese die Erneuerung und Verklärung des alten, im Grabe zurückgelafſſenen Leibes, d. h. desjenigen ſubſtantiellen Organs, welches im Tode von der Seele sich trennt, unzweideutig lehrt, während die neue Ansicht nicht etwa nur die sinnlichen Auferstehungsvorstellungen verklärt, ſondern überhaupt eine andere Auferstehung als die Ausbildung des im Sterben conservirten neuen geistigen Organismus nicht anerkennt. Die specifische Differenz zwischen dieſer Subjektivität und der Kirche besteht jedenfalls darin, daß nach dieser im Tode wirklich etwas von der Seele getrennt, nach jener hingegen der eigentliche Leib in seiner vollen Integrität, entweder schon vollkommen ausgebildet, oder zur ferneren Ausbildung conſervirt wird, so daß dasjenige vom Leibe, welches hier sichtbar gewesen und im Tode abfällt, niemals wieder hinzugethan wird.
+
+Es ist merkwürdig, wie dieſe ſubjektive Vorstellung alle Vordersätze, worauf die Lehre der Kirche ruht, nicht allein zugibt, ſondern sich aneignet, und nur einen Schlußſaß, der aus den Vorderfäßen folgt, zu eliminiren versucht. So wird ausdrücklich anerkannt, daß die lezte Vollendung und Auferstehung von der Erfüllung der Menschen zur Menschheit, nämlich zur Totalität nach der Zahl [p. 147] und nach der christlichen Qualität bedingt ist, *) und mit der Zers störung und Verklärung aller irdischen Materialität, welche der geſammten Menschheit wird angeeignet werden, verknüpft ſein wird. Aber daß in gleicher Weise zur Redintegration und Erfüllung, zur Vollendung des Einzelmenſchen die Verklärung und Wiederaneignung des alten Leibes von der Schrift — Phil. 3, 21., Hiob 19, 25-27. verheißen, von der Vernunft gefordert wird, das wird nicht anerkannt, wiewohl der Einzelleib für den einzelnen Menschen eben das ist, was die irdische Natur, was die gesammte Erde für die Menschheit ist. Eins ist wie das Andere dem Menschen anvertraut, daß es ein Jeder an seinem Theile baue und bewahre als ein Eden, 1 Mos. 2, 15.
+
+Aber wie der Einzelne den
+
+Gesammtleib auf einige Zeit verlaſſen muß, ſo bleibt ihm auch der Einzelleib im Tode nicht conſervirt, wiewohl er ihm aufbehalten bleibt als der Garten Eden, aus dem der Mensch vertrieben worden ist, um ihn hernachmals wieder zu gewinnen. Desgleichen wie die gesammte Erde der Menschheit, 2 Petr. 3, 7. 13., Röm. 8. 19-21 ., so wird auch der Einzelleib, — nachdem eine Zeitlang die volle, wenn auch nicht alle Verbindung mit dem Geiste gelöset gewesen ist, dem einzelnen Menschen wieder Es ist wohl zu merken, angeeignet werden in der Verklärung. daß die wirkliche Trennung des Leibes von der Seele die nächste und völlige, aber nicht alle Verbindung zwischen den getrennten Bestandtheilen löset.
+
+Darum glauben wir nach wie vor, und ohne irgend eine Alteration der wesentlichen Vorstellung nach der Lehre der Kirche, die künftige „Auferstehung des Fleiſches, " nicht allein des beseelt gebliebenen Leibes, sondern auch des von der Seele getrennten Fleisches nach seiner Substanz. An das leßte Gericht schließt sich die lezte Zukunft der Verdammten. Aber wir enthalten uns unsererseits den Schleier lüften, zu wollen, welchen Schrift und Kirche bis jezt darüber zu halten scheinen.
+
+Nur so viel müſſen wir zugeben, daß nach dem Ver-
+
+*) Vergl. C. F. Göschel: Beiträge zur spekulativen Philosophie von Gott s. S. 207. 10**
+
+[p. 148] M stande der volle Begriff der Ewigkeit nur der ewigen Seligkeit eignet, welche daher auch allein als das ewige Leben bezeichnet wird. Aber daraus würde noch nicht die abstrakte, mithin´ungedenkbare Vernichtung, sondern vielmehr die Wiederbringung folgen.
+
+So würde auch die Auflösung in Elemente nur auf die Materie anwendbar sein, aber nicht auf ein untheilbares und unauflösliches Selbstbewußtsein, nicht auf eine - causa sui. Aber auch die elementarische Auflösung der Materie ist ohne neue Verbindung und Verklärung dem Gedanken wie der Offenbarung widersprechend. Darum können wir für die allmählige Verzehrung, Verweſung und Verbrennung der Verdammten bis zur endlichen gänzlichen Vernichtung weder in der Offenbarung, noch im Gedanken irgend einen Anhalt finden.
+
+Anders als die, welche auch noch in der lezten Noth sich nicht bekehren, sind diejenigen anzusehen, welche wenigstens noch zuleßt nach Rettung verlangen; denn für diese soll sich noch in der lezten Stunde eine Zuflucht finden, und zwar nach der Analogie der Gibeoniten oder Nethinim, in welchen die Geſchichte des auserwählten Volkes ein Vorbild liefert. Für diese soll in der Gliederung des Leibes so wenig als in dem bereits vertheilten gelobten Lande eine Stelle zu finden sein.
+
+Das gelobte Land gehört den zwölf Stämmen: so gehört der Leib Christi denen, die ihn angezogen haben, und mit welchen die erste Auferstehung vollendet ist. Darum finden diejenigen Seelen, welche später nach der Zerstörung der irdischen Welt sich noch bekehren, nur als äußerer Ansah am Leibe eine Aufnahme, keine Eingliederung. So hören wir, aber wir können's nicht glauben, sondern wir sind unseres Theils der gewiſſen Zuversicht, daß der Herr für eine jede Seele, die ernstlich nach ihm ruft, sei es auch noch in der leßten Stunde, ober, wenn's möglich wäre, noch später, die geeignete Stätte bereit hält. Wir sind überdies des Glaubens, daß diejenigen, welche sich zu Holzhauern und Waſſerträgern der Gemeinde und für den Altar des Herrn erbieten, am wenigsten werden zurückgestellt oder gar von der gesammten Gliederung ausgeschlossen werden.
+
+Luc. 14,
+
+[p. 149] 11., 18, 14.
+
+Und wer mit David sprechen kann:
+
+„Ein Tag in deinen Vorhöfen ist besser, denn sonst tausend; ich will lieber der Thür hüten in meines Gottes Hauſe, denn lange wohnen in der Gottlosen Hütten" Pf. 84, 11. —, der wird auch aus den Vorhöfen Eingang finden in das Heiligthum. Zulegt wenden wir uns aber von diesen Differenzen, ohne sie jedoch aufzugeben, zu der dadurch nicht gestörten Gemeinſchaft in der Ueberzeugung von dem Wesen des jenseitigen Menschenlebens. Wir kommen zu dem Ende noch einmal auf den ethischen Prozeß der menschlichen Leibesentwickelung zurück, um an das große Wort zu erinnern: Leiblichkeit ist das Ende der Wege Gottes. *) Wir können dasselbige zu mehrerer Erläuterung wiederum mit eigenen Worten aus älterer Zeit ausdrücken: „Die Entwickelung der Seele ist wesentlich phyſiologiſch, sie besteht wesentlich in dem intimen Verhältnisse der Seele zum Leibe: es ist zu sagen, daß die Seele nicht sowohl sich selbst in ihrer Abstraktion, ſondern ihren Leib, ihr Verhältniß zum Leibe entwickelt, durchdringt, verklärt, personirt, Eben deswegen ist der Gipfel der physiologischen Entwickelung die Personalität. Die Persönlichkeit besteht eben so wohl in der Verleiblichung der Seele, als in der Durchdringung des Leibes. Persönlichkeit ist das Ende der Wege Gottes. " **) Weil die Persönlichkeit die geiftdurchbrungene Leiblichkeit selbst ist, so wird zuleßt der Leib dem Geiste, die Schöpfung dem Herrn willig dienen als ein treues Organ; und das Unsichtbare wird sichtbar, der Leib geistlich, der Geist leiblich werden. Denn nicht das Unsichtbare ist das Lezte, ſondern das werde.
+
+Lezte ist, daß das
+
+Unsichtbare sichtbar
+
+*) Dr. G. H. v. Schubert: Die Geschichte der menschlichen Seele. S. 40. S. 660 ff. Vgl. Dr. C. J. Nißsch: Syſtem der christlichen Lehre. §. 92. S. 188 ff, §. 121. S. 228 ff. --- Oetinger's Theosophie. Von Dr. Auberlen. Mit einem Vorworte von Dr. Rothe. S. 129 ff. S. 147 ff. **) C. F. Göschel: Von den Beweisen für die Unsterblichkeit der menſchDie fiebenfältige Osterfrage lichen Seele. S. 184 ff., S. 228 ff., S. 230. G. 28.
+
+[p. 150] Hieran erweiset sich nach allen Seiten die Bedeutung des Leibes, dessen Geringschäßung zu einem unwirklichen Spiritualismus führt. So ist auch die Seele des Geistes nach der Trennung von ihrem Leibe nicht ganz ohne Leib, der innere folgt ihr; und der alte wird ihr künftig wieder beigefügt werden zu ihrer vollkömmlichen Redintegration und Restauration. Ja, es bleibt auch zwischen der Seele des Geistes und dem todten Leibe in der Zwischenzeit ein geheimes Verhältniß, näher ein Polaritätsverhältniß, ein gegenseitiger Zug, ein Rapport. Und daraus folgt auch wieder, daß der von der Seele verlassene, und insofern entseelte Leib, wenn er auch die Seele nicht mehr in ſich hat, ſie doch als das Leben außer sich hat.
+
+Ist doch auch die Verweſung des Leibes ein Lebenszeichen und als Durchdringung eine Vorbereitung der Auferstehung. *) Und nun erinnern wir zum Schlusse noch an ein Wort des Apostels, welches dem Leibe die Ehre gibt: „Wisset ihr nicht, daß euer Leib ein Tempel des heiligen Geistes ist, der in euch ist, welchen ihr habt von Gott, und ſeid nicht euer selbst? Denn ihr seid theuer erkauft. Darum so preiset Gott an euerm Leibe und in euerm Geiste, welche sind Gottes " (1 Cor. 6, 19. 20.) . *) Die fiebenfältige Ofterfrage S. 31. Erstes und Letztes in der „Zeitſchrift für speculative Theologie." 1836. I. 1. §. 134.
+
+## XIV.
+
+[p. 151]
+
+Der Zwischenzustand des menschlichen Daseins, welcher von dem Tode bis zum jüngsten Tage dauert, ist noch nicht die Vollendung selbst; er gewähret denen, die in dem Herrn sterben, VieLes, was ihnen für dieſe lange Zeit frommt und genügt, aber nicht Alles, was ihnen beschieden ist für die Ewigkeit.
+
+So gewährt er namentlich die Vereinigung mit so vielen wahren Gliedern des Leibes, aber nicht mit allen, die noch sollen hinzugethan werden; so gewährt er den Himmel, aber ohne die Erde, das Jenseits, aber ohne das Dieſſeits; so bewahret er Geist und Seele, Bewußtsein und Leben, aber ohne den Leib. Gegenüber der irdischen Lebensstation führt der Zwischenzustand in dié wirkliche Heimath, von welcher kein zweiter Tod trennen wird, aber sie ist selbst noch mit einer dreifachen Trennung behaftet; denn ſie ist getrennt erstens von den noch zu erwartenden Heimathsgenoſſen, zweitens von der irdischen Heimath und drittens von den Leibern der Seelen, und diese dreifache Trennung dauert bis zum jüngsten Tage. Der lezte Tag ist eben dieses, Menschengeschlechts daß damit die Totalität des vollends realiſirt wird vollends hinzugethan werden (Offenb. 6, 11.) , alle Angehörige daß die irdische
+
+Natur verklärt und das Diesseits dem Jenseits verinnert, die Erde mit dem Himmel erneuert wird (Jes. 65, 17. , 66, 22., 2. Petr. 3, 13., Offenb. 21, 1.), und endlich, daß mit der Erde auch ders jenige Antheil an der Erde, welcher dem einzelnen Menschen beſonders zugestanden hat und zuſteht, verklärt und einem Jeglichen wieder angeeignet wird (Phil. 3, 21.). Aber es sind ihrer Etliche, welche meinen, die Auferstehung des Fleisches sei schon damit geschehen, daß im Tode der Geist die Seele als sein nächſtes Kleid, als ſein inwendigstes Lebensorgan an sich behalte, womit er auch den eigentlichen Leib nach seiner [p. 152] wahrhaften Substanz conſervire, wenn auch etwa eine Unterbrechung eintrete. Solcher Meinungen hat es von Anfang an gegeben. — 2. Tim. 2, 18. Von solchen Meinungen muß nun zunächſt dieſes zugegeben werden, daß auch im Tode dem menschlichen Geiste mit der Seele das intimste Organ und hiermit eine leibbildende Lebensmacht erhalten bleibe. Insofern findet übrigens nur diejenige Unterbrechung statt, welche der Todes akt mit sich bringt. So kann auch ferner zugestanden werden, daß an dem Leibe ein Zufälliges und Wechselndes sich findet, welches mit dem Tode, wie auch vorher im Leben mit jeder Lebensperiode, abfällt, ohne daß es jemals so wiederkommt; aber eben so gewiß ist es, daß im Tode auch der Leib selbst, der eigentliche Leib von der mit dem Geiste vereint bleibenden Seele getrennt wird, und mit diesem Leibe geht dem Menschen wirklich ein Stück seines Wesens verloren, welches zu seiner Totalität gehört und nicht für immer getrennt bleiben kann.
+
+Das ist aber nicht so zu verstehen, als wäre damit das Verhältniß der Seele zum Leibe gänzlich abgelöst, aber es ist doch wesentlich unterbrochen. Wer diese Scheidung und Unterbrechung nicht anerkennen wollte, dem müßten folgeweiſe alle damit zuſammenhängenden Unterschiede zwischen. Jenseits und Dieſſeits, zwiſchen Himmel und Erde, Heimath und Fremde, — in trübster Confusion verschwinden. Denn wie sollte Jenseits und Diesseits getrennt sein, wenn Seele und Leib nicht getrennt wären?
+
+Ist Diesseits und Jenseits getrennt und bis zum jüngsten Tage unterſchieden, wenn auch nicht ohne Wechſelbeziehung, so ist nothwendig auch Leib und Seele von einander getrennt, wenn auch nicht radikal, ſondern unter Fortdauer einer geheimen Verbindung. Wer seinen Gedanken eine kleine Anstrengung zumuthen will, der wird ſich überzeugen müſſen, daß vor der Vollendung des Menschengeschlechts auf Erden die zu deſſen Aufenthalt bestimmte Erde nicht verzehrt und verklärt, und vor der Verklärung der Erde auch der Einzelantheil daran nicht verklärt und erneuert werden kann. Hier hängt eins wesentlich von dem anderen ab.
+
+Der Leib kann nicht auferstehen ohne die Erde, von der er entnommen ist; die [p. 153] Erde bleibt aber, wie sie ist, bis die Zahl der Menschen geschlossen ist. Aber so gewiß hiernach die Trennung selbst ist und deren Fortdauer bis zum jüngsten Tage, eben so unläugbar ist es, daß der Geist sammt der Seele auch nach dem Akte der Trennung, welchen wir Tod nennen, in einem wesentlichen Bezuge oder Rapport zu dem Leibe bleibt. Darum darf die Trennung des Geistesund Seelenlebens von dem Leibe, welche der Tod vollzieht, nicht so abstrakt gedacht werden, als es sinnlicherseits aussieht, wenn wir nur auf den Leichnam sehen, welcher zurückbleibt und verwest; sie darf aber auch andererseits nicht zu einem Scheine verflüchtigt werden, indem vielmehr jener fortdauernden Wechſelbeziehung unbeschadet und unerachtet der Leib selbst, der eigentliche Leib nach seinem Unterschiede von der Seele wirklich_todt, wirklich geschieden ist. Nun kommt aber die Frage, welche unsere Zeit besonders viel beschäftigt, die Frage: Worin besteht denn eigentlich der Leib, dessen Verband mit der Seele durch den Tod unterbrochen ist, und durch die Auferstehung erneuert und verklärt, wieder hergestellt werden ſoll? *) *) Hler sei auf drei neuere kleine Schriften verwiesen, welche dieselbe Frage behandeln: Diesseits und Jenseits. Eine Abhandlung über die Bedeutung des Todes. Für Gläubige und Ungläubige verfaßt und Herrn Dr. Justinus Kerner gewidmet von G. Steinbeis, ev. Pfarrer. Heilbronn, 1847. Der Geist der Unirten Evangelischen Kirche von Dr. Schmieder. II. Das apostolische Symbolum. Leipzig, 1846, S. 35-40. - D. Gumposch: Die Seele und ihre Zukunft. St. Gallen, 1849. Hier wird auch auf Leibniz syst. Theologie Bezug genommen. S. 25 flg. Aber wir müssen auch an den alten Kirchenvater Tertullian erinnern, an den "Antignosticus", der die Auferstehung des Fleisches ganz absonderlich vertheidigt hat. Vergl. deshalb, außer Dr. Neander's Monographie, „Die Kirche Christi und ihre Zeugen oder die Kirchengeschichte in Biographien. Durch Fr. Böhringer. Zürich, 1842.“ I. S. 349–356. - „Der Kirchenvater Tertul lianus über die Auferstehung des Fleisches. Ein Wort für scharfsinnige Beurs theiler des apostolischen Glaubensbekenntnisses. Mitgetheilt von I. N. Müller. Magdeburg, Falkenberg, 1847."
+
+[p. 154] Diese Frage zu lösen ist vor allen Dingen anzuerkennen, daß an jedem Leibe, so wie an der irdischen Natur überhaupt, ein Veränderliches und ein Unveränderliches zu unterscheiden ist. Das Unveränderliche beschränkt sich nicht bloß auf die Substanz, als ſei der Stoff allein das Wesen; es bezieht sich vielmehr zugleich und vorzüglich auf die dem Stoffe eingeprägte Form, wodurch die Substanz eben dieſe und keine andere iſt, wodurch sie zu ihrem Charakter, zu ihrer eigenthümlichen Physiognomie kommt.
+
+Das
+
+Veränderliche, Accidentelle hingegen beschränkt sich auf den wechselnden Schein, der an der Substanz und Form vorübergeht, ohne die Selbigkeit zu alteriren; dahin gehören namentlich, wie der Römische Katechismus sagt, alle körperlichen Deformitäten, alle Gebrechen, alle Verstümmelungen. Hiervon abgesehen ist der Leib des Kindes und des Jünglings, der Leib des Mannes in seiner vollsten Lebenskraft und des Greiſes in zitternder Altersschwäche einer und derselbe nach dem wesentlichen und unveränderlichen Typus; - der Menſch iſt ſich auch unter allen Wandlungen dieser Selbigkeit bewußt. Und wie der Leib des Kindes und des Greises eben derselbe Leib ist und kein anderer, so ist auch der auferstandene Leib derselbe mit dem todten, nur daß das Veränderliche abgefallen ist, wie wir's zum Theil schon an den Gesichtern der Todten ſehen können, welche in dem Herrn heimgegangen sind, und auch dem verlassenen Leibe ein Vorzeichen des verklärenden Friedens hinterlaſſen. Bei der Auferstehung Christi *) tritt diese Identität des Leibes nur insofern noch unmittelbarer heraus, als zwiſchen dem vollzogenen Tode und einer dreitägigen Trennung keine Verwesung eingetreten ist. Indessen scheint doch auch die Auferstehung des Erstlings in Verbindung mit dem voraufgegangenen Tode das Accidentelle oder Veränderliche in so weit zu heben, daß die näch ſten Jünger den Auferstandenen nicht sogleich wieder erkannten Luc. 24, 16., Joh. 20, 15. Maria Magdalena hält ihn für den Gärtner; die Jünger wandern den Weg nach Emmaus mit ihw, * Vgl. Schmieder a. a. D. S. 37.
+
+[p. 155] ohne ihn zu erkennen; und Thomas will seinen Augen nicht trauen, ſondern nur seinen Händen.
+
+Allerdings ist aber bei Christo die weitere Verklärung erst mit der Himmelfahrt verbunden, in welcher die Selbigkeit des Leibes eben so conſervirt bleibt, wie wir uns von unserer künftigen Auferstehung versprechen dürfen. Diese Selbigkeit ist zwar zunächst und ursprünglich im Selbst begründet, also im Geiste, und insofern nicht im Leibe, aber ſie erstreckt sich auf Seele und Leib, sie ist gleichzeitig der Seele und dem Leibe angeeignet, ſo daß die Identität des Geiſtes Seele und Leib wesentlich afficirt und recht eigentlich bis auf die Haut geht, wie das Kirchenlied singt.
+
+Der Leib gehört auch mit zur Persönlichkeit; es hat seinen tiefen Grund, wenn grade der Leib als Person bezeichnet wird, nicht allein nach dem gangbaren Sprachgebrauche, sondern auch in der Schriftsprache aller Zeiten. Wir erinnern hier nur an das größte christliche Gedicht, an die göttliche Komödie Ins. VI. 36., Prg. II. 110. III. 12. Eben darum kommt auch die menschliche Persönlichkeit erst durch die Auferstehung des Fleiſches zu ihrer vollen Integrität, wo ja dieſes Ich auch dieſen ſeinen Leib wieder erhält und keinen anderen. Diese Selbigkeit des Leibes der Auferstehung ist, gleich der Seite, in welche Thomas seine Hände legen durfte, eben so fern von Materialismus, als von Spiritualismus, wie oft ihr auch jener untergeschoben worden ist und dieser an ihr sich versucht hat. Nur der Materialismus, der auch dem Spiritualismus zum Grunde liegt, kann die wahre und wesentliche Identität des Leibes, die wir als diese bezeichnen, mit einem wandelbaren, im Umwenden veränderten Dieſem verwechseln; die Kirche thut es nicht, wenn sie nach der Schrift mit gutem, reinem Gewiſſen lehrt und fingt:
+
+Dann wird eben diese Haut Mich umgeben, wie ich gläube, Gott wird werden angeschaut Dann von mir in diesem Leibe,
+
+[p. 156] Und in diesem Fleisch werd' ich Jesum sehen ewiglich. Dieser meiner Augen Licht Wird ihn, meinen Heiland, kennen, Ja ich selbst, kein Fremder nicht, Werd' in seiner Liebe brennen; Nur die Schwachheit um und an Wird von mir sein abgethan.
+
+Es ist eine wesentliche Folge der Sünde oder des Abfalls von Gott, daß der Tod in die Welt gekommen ist, durch welchen am Menschen selbst ein Bestandtheil vom anderen abfällt; die Sünde hat den Tod zum Solde; die Trennung des Menschen von Gott hat die Trennung des Menschen von seinem Leibe zur Folge, wiewohl wir lieber überkleidet, als entkleidet werden möchten. Wer aber seine Sünde nicht läugnen kann, der wird auch an ihrer Folge, an dem Verluste des wirklichen Lebens, nicht zweifeln. Eben so wird aber der Glaube an die Gnade Gottes in Vergebung der Sünden die gewiſſe Zuversicht zu Jeſu geben, welcher unſeren nichtigen Leib verklären wird, daß er ähnlich werde seinem verklärten Leibe. - Phil. 3, 21. - Damit stimmt das „kühne Glaubenswort Hiob's " - Hiob 19, 26. — überein, wie auch die Deutsche Ueberseßung berichtigt werde;
+
+daran hält sich die Glaubenszuversicht des Christen, daß er selbst mit Paul Gerhard dem kühnen Hiob nachſingen kann: lebt", u. f. w.
+
+„Ich weiß, daß mein Erlöser
+
+Zum Schluſſe müssen wir noch auf, 3weierlei aufmerkſam machen. Wenn die Auferstehung des Leibes negirt und ſpiritualifirt, oder anticipirt und verdünnt wird, so ist die stetige Entwickelung des menschlichen Individuums und Geſchlechts aus ihrem Zusammenhange mit der Weltschöpfung gerissen, zu der sie gehört.
+
+Das ist das Erste, worüber schon oben gehandelt worden ist; und das zweite ist, daß dann zugleich die menschliche Entwickelung in sich selbst gestört, zerrissen, ja aufgehoben werden würde. Wer [p. 157] könnte verkennen, daß die Unsterblichkeit der Seele, welche voraufgeht, mit der Auferstehung des Leibes, welche nachfolgt, in dem engsten und innigsten Zusammenhange steht, in einem Zusammenhange, welcher alle Aufmerksamkeit in Anspruch nimmt! Darum wird mit Einem auch das Andere, mit dem Nachfolgenden auch das Voraufgehende erschüttert. Wenn wir von der Auferstehung des Leibes absehen, so scheint freilich zunächst die Unsterblichkeit der Seele nur um so völliger zu werden, denn hiernach hätte der Geist schon an der Seele seinen adäquaten Leib, und diese von dem Leibe die organische Kraft sich angeeignet: so verwandelt sich die Unsterblichkeit flugs in ewiges Leben, dem nichts mehr mangelt; dann kann aber auch von den Todten, die ruhen, nicht mehr die Rede sein, oder es müßte auch die Seele ſammt dem Geiste in die Ruhe des Todes versinken. Für den lezteren Fall, für den Fall der Psychopannychie und Psychothnesie, wäre das menschliche Dasein nicht bloß theilweise, nämlich nach der Seite des Leibes, ſondern nach allen Seiten unterbrochen, mit der Seele auch der Geist gelöst und hiermit die Identität gefährdet, welche irgend einen Zusammenhang und dazu ununterbrochene Fortdauer des Bewußtseins vorausseßt.
+
+Für den ersten Fall, für den Fall sofortiger
+
+Vollendung, wäre der Tod nur noch ein Wort für einen kurzen Uebergang, der kürzer wäre als der nächtliche Schlaf. So scheint es zunächſt, aber das ist eben nur die Oberfläche, die nicht auf den Grund geht; sehen wir genauer zu, so wird umgekehrt mit dem Wegfalle der Auferstehung auch das Leben der Seele neuen Zweifeln preisgegeben, und der Tod, der erst gar zu verschwinden ſchien, tritt in den Vordergrund; ein Bruch zieht den anderen nach sich.
+
+Hat erst der Geist sein lebenslängliches Organ ganz und für immer daran gegeben und jede Verbindung, jeden geheimen Rapport, jeden Faden, der zur Wiederbelebung und Wiedervereinigung führen könnte, im Tode abgebrochen, so ist nur noch ein Schritt, um auch die Seele zu entlaſſen, daß sie in alle Lüfte zerrinnt, wie der Leib in seine Elemente sich auflöst. Ist aber auch die Seele zerronnen, so gehört der Geist nicht mehr dem bestimmten menschlichen Individuum, welches von Leib und Seele bedingt ist. Aber [p. 158] wer kann eine solche Zerstörung auch nur denken?
+
+Einer solchen
+
+Auflösung widersteht der Gedanke: Ich iſt Ich; hiermit ist dem Ich auch sein Inhalt verbürgt. Allein der Christ hat die ſicherste Bürgschaft nicht in seinen Gedanken, sondern in der Offenbarung, und an Christo hat er den Vorgang seiner Zukunft. Auch Chriſtus ist im Tode von seinem Leibe wirklich getrennt worden; so vom Leibe getrennt ſehen wir ihn niederfahren, und mit dem Leibe vereinigt erst auferstehen und dann auffahren. Mit der Seele ist er herniedergefahren gleich den Todten vor ihm, mit dem Leibe ist er auferstanden und aufgefahren als der Erstling.
+
+## XV.
+
+[p. 159]
+
+Auf Christi Tod Matth. 27, 50. Mark. 15, 37. Luk. 23, 46. Joh. 19, 30. folgte zuerst das Begräbniß des Leibes, Matth. 27, 57-60. Mark. 15, 42-46. Luf. 23, 50-53. Joh. 19, 38-42. und die Niederfahrt der Seele im Geiste zum Hades, 1. Petr. 3, 18-22.- 4, 6. Kol. 2, 15. Eph. 4, 8-10.
+
+Pf. 68, 19.
+
+Luf. 23, 43.
+
+darauf nach drei Tagen die Auferstehung des Leibes mit Seele und Geist, Matth. 28. Mark. 16, 1–18. Luf. 24, 1-50. Joh. 20, 21. und zulegt nach 40 Tagen die Himmelfahrt des Auferstandenen. Mark. 16, 19. Luf. 24, 51. Ap. 1, 9-11.
+
+Der Tod Christi war, wie unser Tod, ein Entlaſſen, ein Aufgeben des Geistes ἀφῆκε τὸ πνεῦμα, παρέδωκε τὸ πνεῦμα - , so schreibt Matthäus und Johannes: ein Verscheiden- ἐξέπνευσε éпvevσe — so schreibt Markus und Lukas näher, ein Ausathmen des Geistes, den der Sterbende zuvor in die Hände des Vaters befohlen hatte (Luk. 23, 46.). So besteht der Tod überhaupt wesentlich in der Trennung des Geistes und seines Leibes, seiner Seele von dem Leibe. So neiget auch Jesus das Haupt, xλívas thy neçαλhy, und giebt den Geist auf.
+
+So von Seele und Geist getrennt wird der Leib, als Leichnam, tò owµa, in Leinewand gehüllt, begraben, - in ein Felsengrab gelegt, und ein großer Stein wird davor gewälzt. Hiermit war die lezte Scheidung des Todten von dem Lebendigen vollzogen [p. 160] : nun ging auch Joseph von Arimathia davon, åπñλdɛv, der Lebendige pon dem Todten.
+
+Gleichzeitig erfährt der Geiſt in dieſer Trennung vom Leibe ſeine tiefste Erniedrigung in die unterſten Oerter der Erde. Wie sich das Haupt am Leibe neiget, wenn die Seele ausfährt, ſo ziehet nun die Seele, welche mit dem Geiste eins ist, in die Tiefen darnieder. Wie der Leib unter der Erde begraben wird, so versenkt sich auch die Seele Christi noch viel tiefer unter die Erde.
+
+Aber mit dieſer tiefsten Erniedrigung beginnt auch alsbald die Erhöhung und der Sieg der Erhebung, ein Triumph über Hölle und Tod, denn während der Leib, von seinem Leben getrennt, sich leidend verhält, dem Tode preisgegeben, verhält sich das Leben des Geistes thätig, - und führet das Gefängniß gefangen.
+
+Im Geiste"
+
+fährt der Gottmenſch hinab, zu predigen den Geiſtern im Gefängniſſe. Dieſe Niederfahrt, Katabaſis, ist wesentlich die Bedingung der Auffahrt, Anabasis. Eph. 4, 9. 10. Mit Seele und Geist ist Gott und Menſch zumal in Einer Perſon niedergefahren zur Hölle. *)
+
+Wie sich die Trennung des lebendigen Geistes vom Leibe am todten Leibe durch das Begräbniß, an dem Leben oder der Seele des Geistes durch die Niederfahrt bekundet hat, so erweiset sich auch die Wiedervereinigung des todten Leibes mit dem Leben des Geistes in zwei unterſchiedenen Akten, in der Auferstehung und Himmelfahrt. - ἀνάστασις Die Auferstehung Christi ·— àvástasis — war der lezte und höchste Akt des Lebens Chriſti auf Erden, sie gehörte noch der Erde an, und
+
+*) „Wie aber solches möge zugegangen sein, daß der Mensch da im Grabe „liegt, und doch zur Hölle fährt, das sollen und müssen wir wohl unergründet „und unverstanden lassen: denn es ist freilich nicht leiblich, noch greiflich „zugegangen, ob man's wohl grob und leiblich mahlen und denken muß, und „davon reden durch Gleichniß." So predigte D. Martin Luther zu Ostern 1533 auf dem Schloße zu Torgau, und daran hält sich auch die Konkordienformel einfältiglich.
+
+[p. 161] geschah dieſſeits, wie die Fleiſchwerdung, nur daß dieſe allen Augen der Zeitgenossen, jene hingegen nur den Glaubensaugen der Jünger sichtbar wurde vierzig Tage lang. 1. Kor. 15, 6.
+
+veifet aus der Liefe Die Himmelfahrt Chriſti — ἀνάβασις áváßaois — - weiſet in die Höhe, von der Erde in den Himmel, da der Gottmenſch ſizet zur Rechten Gottes, des allmächtigen Vaters, von dannen er kommen wird, noch einmal hernieder fahren wird, zu richten die Lebendigen und die Todten. Matth. 26, 64. — 16, 27. Ap. 7, 55. 2, 33-36.
+
+Die Auferstehung Christi hat zu ihrer Vorausseßung einestheils die Auflösung des Todesbannes vor der Verweſung des Leibes, andererseits die Entlaſſung der Seele aus dem Hades, aus der Gehenna und aus dem Paradieſe. Ap. 2, 24. 27. Hiernach wird die Auferstehung erst möglich durch die doppelte Entbindung oder Befreiung - des Leibes aus dem Grabe und der Seele aus der Hölle.
+
+Die Himmelfahrt Chriſti hat zu ihrer Vorausſeßung die Vollendung der Verklärung des Leibes, welche mit der Auferstehung begonnen, aber noch nicht bis zur leiblichen Unsichtbarkeit und Unberührbarkeit sich gesteigert hatte, - Joh. 20, 17. 27. Luf. 24, 39. 40. um zusehends aufgehoben zu werden, Wolke aufnahm vor ihren Augen weg. Ap. 1, 9.
+
+bis ihn eine
+
+An den einzelnen eben so einfachen als wunderreichen Mittheilungen der h. Schrift über Christi Tod, Begräbniß, Niederfahrt, Auferstehung und Himmelfahrt werden die Chriſten nicht auslernen. Wenn wir, wie ſich's ziemt, Wort für Wort erwägen, denn es ist keins umsonst geschrieben, wenn wir keinen Umstand als einen Nebenumſtand vorübergehen lassen, so können wir daraus auch für unsere eigene Zukunft viel lernen, viel mehr, als daraus bis jetzt gelernt worden ist.
+
+[p. 162] În den lezten ſechs Wochen des Herrn auf Erden vom Kreuzestode an bis zur Himmelfahrt finden wir zunächst Einiges, oder doch Eins, das Christus vor uns voraus hat. So ist es ausdrücklich als ein exceptioneller Vorzug bezeichnet, daß der Heilige Gottes die Verwesung nicht gesehn hat - Ap. 2, 27.13, 35.
+
+Pf. 16, 10.-, während unsere Leiber der Verwesung erliegen, so daß davon nur diejenigen werden ausgenommen werden, welche die lezte Stunde erleben, da Christus wiederkommt. 1. Kor. 15, 51. Es ist wirklich eine bemerkenswerthe Ausnahme, daß Chriſti Leib, als rein von aller Sünde, als heilig und unsträflich, ohne Verweſung διαφθορα durchdringlich verklärt werden konnte, während die menschlichen Leiber bis zur leßten Stunde, da der Herr selbst kommt, der Verweſung und Zersetzung zur gründlichen Umwandlung und Verklärung bedürfen.
+
+An dem Ende der Christen findet sich aber auch Einiges, das fte vor Christo voraus haben durch Christum und um Seinetwillen. Schon Stephanus stirbt leichter und freudiger, als der Ueberwinder des Todes: denn Stephanus sieht den Himmel offen und Christum zur Rechten des Vaters Ap. 7, 55. , während der Matth. 27, 46 -, Gekreuzigte sich von Gott verlassen fühlte ehe er seinen Geist in die Hände des Vaters befehlen konnte Ap. Luf. 23, 46. Stephanus befiehlt ſeinen Geiſt Jeſu 7, 58-.
+
+Zu der Erniedrigung Chriſti (Phil. 2, 6—8. ) gehörte auch και die Niederfahrt bis in die untersten Oerter der Erde, -τάβασις εἰς τὰ κατώτερα μέρη τῆς γῆς, aber Damit ist auch die Hölle überwunden, das Gefängniß gefangen geführt, es sind ausgezogen die Fürstenthümer und die Gewaltigen, und öffentlich Schau getragen zum Triumph über ſte. - Darum können wir im Glauben sprechen: Tod, wo ist dein Stachel? Hölle, Wo ist dein Sieg? Insoweit ist denen, die in dem Herrn sterben, die Niederfahrt erlaſſen durch die Niederfahrt, die der Herr selbst für uns bestanden hat nach seinem Tode. Darum ist Christi
+
+Tod und Niederfahrt der nannt. *)
+
+Tod des Todes und der Hölle ge-
+
+Dagegen ist uns, wie Christo, ein Zwischenzustand geſezt, der vom Tode an bis zur allgemeinen Auferstehung dauert, und zwar nach zeitlichem Maaße ein längerer, als Christo. Dieser Zwischenzustand ist aber nicht mehr ſo, wie der Zustand der Abgeschiedenen vor Christi Niederfahrt war. 2lbrabam's, κόλπος Ἀβραάμ, - Limbus
+
+So ist der Schoos (Luf. 16, 22.) durch
+
+Christi tieferen Niedergang verwandelt worden in das Paradies des Hades (Luk. 23, 43) , wo Chriſtus mit dem begnadigten Schächer war nach seiner Niederfahrt zur Gehenna. **)
+
+Dem Zwischenzustande folgt die Auferstehung des Fleisches, ´nämlich aller menschlichen Leiber, welche wird ähnlich ſein der Auferstehung des Erstlings (1. Kör. 15, 23.), auch nach der Wirkung in der Verklärung des Leibes (Phil. 3, 21.) .
+
+uns ausdrücklich und wiederholt gesagt.
+
+Dieses ist
+
+Und zu dieser Aehnlichkeit unserer Auferstehung mit der Auferstehung Chriſti gehört wesentlich auch die Identität dieſes unſeres nichtigen, irdischen Leibes (σῶμα τῆς ταπεινώσεως ήμων) , welden der Serr berflären wir (μετασχηματισει) sur Gleichfürmigfeit (συμμορφον) mit einem verklärten Leibe.
+
+Nur unter der Vorausseßung dieser Identität ist Christus wirklich der Erstling (anapy, primitiae) .
+
+Denn daß an Christo Selbſt derselbige Leib, welcher am Kreuze, durchbohrt und zerstochen, getödtet, und hernachmals in das Grab gelegt worden war, am dritten Tage wieder auferstanden, und, nach vollendeter Verklärung in vierzig Tagen, zusehends zum Himmel erhoben worden ist, das ist auf das unzweideutigſte in den sprechendften Thatsachen verbürgt. ---- Joh. 20, 6. 27. Luf. 24, 39, 40.
+
+Der Römische Katechismus (1, 6, 6.) beruft sich auf Hoſe a, 13, 14 da Christus spricht: Ero mors tua, o mors! morsus tuus ero, inferne! **) Nud. Stier: Die Reden des Herrn Jesu. VI. S. 520. 523. zogene 6. Band enthält eben die legten Reden des Herrn Jesu. 11 *
+
+Der des
+
+[p. 164] Mark. 16, 6. Matth. 28, 6. 13. — Gleichermaßen wird an uns, so gewiß unsere Auferstehung der Auferstehung Christi konform ſein wird, ebenderselbige Leib erneuert werden, welcher im Tode von seiner Seele wirklich getrennt worden ist, nur daß er, ungleich dem Leibe Christi, zuvor verwesen muß. Was an dem lebenden Körper die stete Wandelung ist, welche unbeſchadet ſeiner Identität alles Aeußere an ihm verändert *) , das ist an dem todten διαφθορά Körper die Verwesung. An dieser Verwesung - diapdopȧ versinnlicht sich einerseits die Nichtigkeit dieses unseres Sündenleibes, die Tapeinoſis desselben, andererseits der Uebergang zu. Das seiner Verklärung Metaſchematiſis und Symmorphose verwesende Saamenkorn des natürlichen Leibes enthält schon den Keim zum geistlichen Leibe (1. Kor. 15, 35-45.) : und wird daſſelbige Bild verklärt werden von einer Klarheit zur andern. Dieſe Verklärung nennt Paulus 2. Kor. 3, 18. -- auch Metamorphose ἀπὸ δόξης εἰς δόξαν -.
+
+Hiernach besteht die Auferstehung, insofern wir auf den alten Leib sehen, wesentlich in einer Metamorphose, insofern wir hingegen auf den Erstling sehen, in einer Symmorphose. Die Auferstehung des Fleisches mit Einschluß unserer eigenen Auferstehung ist mithin nichts anderes als der Lebensprozeß der Verklä― eung zur Herrlichkeit, mittelst deſſen die Seele den ihr wieder vereinigten Leib durch und durch durchdringt, durchleuchtet, perſonirt und personificirt.
+
+Darum wird auch der lezte Sieg der Auferstehung in der zur Verherrlichung sich erhebenden Verklärung der sein, daß wir, wie Christus selbst sagt, in der Auferstehung werden sein gleich wie die
+
+*) Wir berufen uns unter dem Terte auf eine neueste, an Kompilationen besonders reiche und insofern merkenswerthe Schrift: D. V. Ph. Gumposch: Die Seele und ihre Zukunft. Untersuchungen über die Unsterblichkeitslehre. St Gallen, 1849. S. 25 flg. S. 155 fig. Am wichtigsten ist in dieser Schrift die Mittheilung aus Leibnitz Systema theologicum.
+
+[p. 165] Engel Sottes in Simmel, ὡς ἄγγελοι του θεος ἐν οὐρανῷ εἰσι Matth. 22, 30. Mark. 12, 25. Luf. 20, 36.
+
+Hiermit ist schon gesagt, daß die Auferstehung nicht das Lezte ſein wird; ſondern wie der Auferstehung Chriſti die Himmelfahrt folgte, so wird auch unserer Auferstehung die lezte Auffahrt folgen in der Luft (1. Theff. 4, 17. Kol. 3, 1—4. Phil. 3, 20.). Nach der Auferstehung des Fleisches kommt das ewige Leben. Hiermit schließt wörtlich das älteste und allgemeinste christliche Glaubensbekenntniß den dritten Artikel, so wie im zweiten Artikel auf Christi Himmelfahrt und Siß zur Rechten Gottes, des Vaters, Chriſti Wiederkunft zur Auferstehung und zum Gericht folgt.
+
+Hiernach ist wie an Chriſto also auch an denen, welchen Er ist gleich geworden, daß er sie sich gleich mache: 1) der Tod die wirkliche Trennung der Seele vom Leibe, auch von der Leibessubstanz, welche der Seele künftig wieder vereinigt werden soll, eine Entkleidung der Seele
+
+2. Kor. 5, 4. — ;
+
+2) der Zwischenzustand die Fortdauer dieſer Trennung, in welcher jedoch dem Leibe eine Potenz der Seele, ein Seelenkeim, der Seele eine Leibespotenz bleibt, wodurch der Zusammenhang mit der getrennten Leibes substanz in seiner Continuität erhalten wird; 3) die Auferstehung die Wiedervereinigung der in der Seele konservirten Leibespotenz mit der getrennten Leibesſubſtanz, ſo daß jene aus ihr selbst herauswächst und sich aus sich entwickelt, während diese ihr synthetisch zuwächst, womit die Wiederherstellung des begrabenen Leibes wie an Christo, so an uns wird vollendet werden. Dieſe Wiederherstellung ist aber, der Identität unbeſchadet, ſowohl in Beziehung auf den ersten Zustand des Lebens vor dem Tode, als auch im Verhältnisse zu dem Zwischenzustande, wie eine Metamorphose, so auch eine wirkliche Veränderung, aλay, 1. Kor. 15, 51, - : dem Ausziehen des Leibes, der Entkleidung, Exdoors, wird für alle, auch für die, welche nicht wie wir sterben, [p. 166] eine Kleber leibung, ἐνδυσις, ἔπενδυσις, folgent
+
+2. Kor. 5, 3. 4.
+
+1. Kor. 15, 53. 54. —, so wie der Auswanderung, exdquia, eine Die VollEinwanderung, evòŋuá, folgt ―― 2. Kor. 5, 8. endung der Ueberkleidung geschieht in der Auferstehung, und die leßte Einwanderung ist --4) die Himmelfahrt zum ewigen Leben 14-17.
+
+1. Theff. 4.
+
+Aber wer kann wirklich und wahrhaftig an die Auferſtehung des Fleiſches und die leibhaftige Auffahrt zum ewigen Leben glauben, so er nicht zuvor im Geiste auferstanden und aufgefahren ist, errettet von der Obrigkeit der Finsterniß und verfeßet in das Reich des Sohnes (Kol. 1. 13. ) ? Wie können wir zu den fünftigen Wundern an uns selbst Vertrauen fassen, so wir nicht zuvor, da wir todt waren in Sünden, sammt Christo wunderbarlich wieder lebendig gemacht und miterwecket und mitgesezt werden in das himmlische Wesen (Eph. 2, 5. 6. ) ?
+
+Wie können wir glauben, daß die Stunde kommen wird, da die Todten werden die Stimme des Sohnes Gottes hören, wenn nicht schon jest die Stunde da ist, da wir aus dem Tode erwachen? Joh. 5, 25, Eph. 5, 14. So lange uns einerseits der grobe Materialismus, andererseits der dünne Spiritualismus gefangen hält, so lange bleibt auch alles unser Denken von den lezten Dingen ſchwankend aschgrau. *) So wir aber schon hier, ſchon jezt im Geiste mit Chriſto gestorben und wieder auferstanden sind (Kol. 3, 1. 3.), so wir schon hier nach dem trachten, was droben ist, da Chriſtus ist, und schon jezt unſere Heimath im Himmel haben, von dannen Christus wiederkommen wird (Kol. 3, 1-4. Phil. 3, 20, 21.),
+
+*) Vergl. „Auferstehung. Die Fundamentalwahrheit des Evangeliums. Aus dem Englischen überseßt. Düsseldorf, 1849. Buddeus (Eduard Schulte).“ Wir erinnern zugleich an eine hiervon sehr verschiedene Schrift, in welcher auch die Auferstehung im Geiste voraufgestellt wird. Die Glaubenssätze von Christi Höllenfahrt und von der Auferstehung des Fleisches vor dem Nichterstuhle unſerer Zeit. Ein Beitrag zu den Glaubensverhandlungen unserer Tage von D. C. Ackermann. Hamburg und Gotha, Perthes, 1845," [p. 167] so werden wir auch unseres Glaubens an unſere künftige Auferstehung und Himmelfahrt gewiß werden, welche der wahrhaftige Glaube (Hebr. 11, 1.) so vergegenwärtigt, daß der Apostel (Hebr. 12, 22-23.) die denkwürdigen Worte schreiben konnte, mit welchen wir schließen: „Ihr seid gekommen zu dem Berge Zion, und zu der Stadt „des lebendigen Gottes, zu dem himmliſchen Jeruſalem, und zu der „Menge vieler Tausend Engel, und zu der Gemeine der Erstges „bornen, die im Himmel angeſchrieben sind, und zu Gott, dem „Richter über alle, und zu den Geistern der vollkommenen Gerech „ten, und zu dem Mittler des Neuen Testamentes Jesu, und zu „dem Blute der Besprengung, das da beſſer redet, denn Abel's. " Sehet zu, daß ihr euch des nicht weigert, der da redet. Denn „ſo jene nicht entflohen sind, die sich weigerten, da er auf Erden „redete: viel weniger wir, ſo wir uns des weigern, der vom Him„mel redet. "
+
+## XVI.
+
+[p. 168]
+
+Die Seele ist an dem Menschen das Mittelglied, welches nicht allein sich selbst einerseits mit dem Leibe, andererseits mit dem Geiste, sondern auch Leib und Geist mit einander verbindet. Das ist die nähere Bestimmung des Verhältniſſes zwiſchen Leib, Seele und Geist, aber damit ist die dreifache Gliederung selbst nicht erklärt.
+
+Leib und Seele ist als Stoff und Form vor dem Menſchen geschaffen, auf daß der Mensch daraus gebildet, und unter dem Hinzukommen des Geistes Mensch werde, Ich werde, als ein Bild Gottes.
+
+Der Menſch ſelbſt, jeder einzelne wie der erſte, wird daher nach Leib und Seele nicht geschaffen, sondern gebildet, erzeuget, geboren, aber nach dem Geiste wird er erschaffen, der lezte wie der erste. So fassen wir das Geheimniß unseres eigenen Daſeins: und hiermit ſind alle drei Momente des Menschen in ihrem nächſten Unterſchiede bezeichnet, wie in ihrer thatsächlichen Verbindung: hiermit ist eigentlich alles geſagt, aber noch nicht entwickelt. Es käme namentlich darauf an, die ursprüngliche Einheit der drei Momente nachzuweisen, gegangen sein müſſen, aus welcher sie hervorwenn die daſeiende Verbindung in ihrer
+
+Nothwendigkeit und Ewigkeit sich bewähren soll: aber über dieſe Ur-Einheit ſelbſt fehlt noch, wo nicht der Schlüſſel, doch der wirkliche Aufschluß.
+
+So viel liegt indeſſen vorab und unmittelbar in dem Bewußtſein, daß die Seele, als das Mittelglied, ſowohl mit dem Geiſte, der sie sich aneignet, als auch mit dem Leibe, den sie sich belebend und durchdringend aneignet, nicht vorübergehend, ſondern unzertrennlich vereinigt ist;
+
+aber wir erkennen auch Angesichts des
+
+Todes, daß die Verbindung der Seele mit dem Leibe, welche von [p. 169] der Seele ausgeht, wenigstens eine Unterbrechung erfährt, während die Verbindung der Seele mit dem Geiſte, welche von dem Geiſte ausgeht, ohne solche Unterbrechung fortdauert. Oder mit anderen Worten: die Seele des Geistes die dem Geiste angeeignete Seele stirbt nicht, aber die Seele des Leibes, das leibliche Leben stirbt *) , wenigstens nach der Außenseite, wenn auch nicht ganz, - wie selbst die Verweſung zeigt, und wird ebendeswegen wieder auferstehen. Allein diese Unzertrennlichkeit und Unverwüftlichkeit des Verbandes zwischen Leib und Seele erscheint zunächſt uur als eine Vorausſeßung, als ein Poſtulat, oder als eine Schlußfolgerung aus der Macht des Geistes, der aus Gott unmittelbar gegeben wird, Leib und Seele zu verbinden, aus der bewußten Innigkeit dieser Verbindung selbst, die über diese Zeit hinausweiset und denket.
+
+Zeugt doch auch die Sprache für diese Unzertrennlichkeit ſo, daß sie grade den Leib als Ich, als Person bezeichnet, und hiermit das eigenste Wesen des Geistes auf den Leib überträgt, während ſie Leib und Fleiſch und Leichnam zu unterſcheiden weiß Fleisch ist entgeisteter, Leichnam entseelter Leib. Aber damit ist immer noch nicht der ursprüngliche Grund der unzertrennlichen Zuſammengehörigkeit zwischen Leib, Seele und Geist nachgewiesen. Wir können ferner Geist und Leib wie Ich und Nichtich Vernunft und Sinnlichkeit - unterscheiden, und Seele und Geiſt als verſchiedene Kategorien, als Bewußtsein und Persönlichkeit fassen, gegenüber dem Andern, welches der Leib iſt. Dieser ist so der Gegensaß, der Gegenstand, den das Ich sich aneignet und durchdringt, perſonirt und perſonifizirt, wodurch es ſich als Geiſt, als Persönlichkeit bewährt und seinen Gegenstand selbst bewahrheitet. **)
+
+Diese Unterſcheidungen sind wichtig und fruchtbar, ſie
+
+*) Siehe: K. F Göschel. Von den Beweiſen für die Unsterblichkeit der menschlichen Seele im Lichte der ſpelulativen Philoſophie. Berlin, 1835. S. 96 flg. **) Ebendaſelbſt. - Dergl. Beiträge zur spekulativen Philosophie von Gott und dem Menschen ac.“ Berlin, 1838.
+
+6. 23-35.
+
+. 188 flg.
+
+[p. 170] erweisen sich auch als richtig, sofern sie die Seele als das Mittels glied in ihrer doppelten Beziehung zu Leib und Geist festhalten, wenn sie nur der Gefahr entgehen, Seele und Geist bloß als Stufen Einer Größe zu fassen, wodurch die gegebene Trichotomie in einen abstrakten Dualismus verkehrt wird, welcher die Differenz zwischen Ich und Nichtich nur noch härter machen, aber nicht er. klären, und die Auferstehung des Fleisches nur noch weiter dem Verständnisse entrücken würde.
+
+Immer ist aber damit die Einheit der drei Momente, die ursprüngliche Einheit nicht erklärt, auf welcher die vermittelte Einheit ruhen müßte, die wir poſtuliren. Um so getroſter halten wir uns fort und fort an die Autorität, welche sich als die Wahrheit innerlich an uns bewähret hat durch das Zeugniß des h. Geistes, an das Wort Gottes.
+
+Dieses giebt uns auch Aufschluß über die ursprüngliche Einheit der drei Momente, die im menschlichen Organismus verbunden sind, ohne daß sie zur Zeit wieder zu völliger Einheit gelangt wären, die sich im Tode wieder zu trenneu scheinen, ehe sie mit ihrer Vereinigung zu Ende gekommen sind. Der gesuchte Aufschluß ergiebt sich, wenn wir - bis auf den Anfang zurückgehen, wenn wir von der Schöpfung des Menschen am sechsten Tage bis zur Schöpfung am Anfange vor dem ersten Tage rückwärts ſehen. *) Hier finden wir, daß Gott am Anfange die Welt geschaffen hat, und zwar Himmel und Erde, d. h. Leben und Materie, Form und Stoff, Seele und Leben, und zwar aus dem, das nicht war, nicht da war, nicht außer Gott war. 1. Mos. 1, 1. Hebr. 11, 3. Im Nicanum bekennen wir unsern Glauben an Gott, den Schöpfer Himmels und der Erden, Alles deſſen, sichtbar und unsichtbar ist. Hier sehen wir, wie der Geist Gottes sein schaffend sich offenbaret, das als das heißt, wie das
+
+Urbewußtes sich zu-
+
+Siehe: " Erstes und Letztes. Ein Glaubensbekenntniß der spekulativen Philosophie." S. 64 flg. in der „Zeitschrift für spekulative Theologie, herausgegeben von Bruno Bauer." 1836. I. 1. - „Dante Alighieri's Unierweiſung über Weltſchöpfung und Welterhaltung. Berlin, 1842.“ S. 1—18. S. 119 --- 137.
+
+[p. 171] nächst als das Andere seiner selbst entäußert in Sein und Werden: Sein als Substanz, Materie, Stoff, Werden als Form, Seele, Leben. So zerlegt sich das Bewußtſein in Sein und Werden, als in zwei Momente des Geistes, welcher damit noch nicht erschöpft ist; denn es fehlt noch das dritte, welches das Bewußtſein selbst ist.
+
+So schuf Gott am Anfange Himmel und Erde, d. i. Höheres und Niederes, Licht und Nacht, Form und Materie, Seele und Leib, ſucceſſiv, aber in flüssiger Continuität. So ist die Welt geschaffen, d. h. von dem Geistes Gottes entlassen aus dem, das nicht da war. Und zulezt wurde der Mensch gebildet aus dem, das schon da war, aus einem Erdenkloße zu der ihm eignenden Lebensform berufen: aber nun kommt auch alsbald zu dem, das ſchon da war, zu Sein und Werden, zu Leib und Seele das Dritte, das außerhalb Gottes noch nicht war, das Bewußtsein.
+
+Denn es stehet geschrieben: „Und er blies ihm ein den lebendigen Odem. " Solches ist der Geist aus Gott, wodurch der Mensch Ich wird, als ein Ebenbild Gottes. Dazu ist die ganze Welt geschaffen.
+
+In diesem Sinne stehet auch von dem
+
+Menschen geschrieben: „Der Geist Gottes hat mich gemacht, und der Odem des Allmächtigen hat mir das Leben gegeben. " Hiob 33, 4.
+
+So sind nun dieſe Drei der Inhalt der gesammten Schöpfung: Sein, Werden und Bewußtsein, Leib, Seele und Geist. Der Leib ist ebensowohl als die Seele ein Moment des Geistes: die Seele ist eben so wenig als der Leib der Geist selbst, welcher wesentlich im Bewußtsein wurzelt und in der Persönlichkeit gipfelt. *)
+
+Alle
+
+*) Vergl. Temmler: „Zur Lehre von der Auferstehung des Fleisches“ in der evang. Kirchenzeitung, 1849. Nr. 73. 74. 75. Der Verfaſſer findet in der Seele embryonisch passive Seelenhaftigkeit, welche sich in der weiteren Lebensentwickelung zu geistigem Bewußtsein hebt, während der Geist im Selbstbewußtſein besteht, und in der Persönlichkeit, als in der Herstellung aller Momente (Leib, Seele, Geist), ſich vollendet. Die Ausführung würde noch gelungener und überzeugender geworden sein, und der Kirchen- und Schriftlehre bestimmter sich anschließen, wenn der Mittelbegriff der Seele bestimmter als Leibes Leben nach seinem Ursprunge, als Geistes Leben nach seiner Verbindung mit dem Geiste gefaßt worden wäre. Wir möchten den Philosophen zunächſt an einen Poëten verweisen. Dante: Purgat. XXV. 61 — 78, [p. 172] drei Momente ſind aus dem schöpferischen Geiste Gottes hervorgegangen, und daher in ihrer Entäußerung, und vorerst zugleich vereinzelt, ― Momente, die im Menschen, als im Gipfel der Schöpfung, wieder zu ſich ſelbſt kommen, zu einem beſonderen Bewußtsein verbunden werden. Hiermit ist die ursprüngliche Einheit aller drei Momente ebenso wie ihr Unterschied wirklich nachgewiesen, und ihre Wiedervereinigung im Menschen erklärt.
+
+Diese Wiedervereinigung im Menschen ist aber noch nicht Einheit. Wir finden vielmehr, daß die kreatürliche Verbindung gestört worden ist, in der Natur bis - zur Versteinerung, im Menschen bis - zum Tode, und zwar durch die That des Menschen, als des Herrn der Natur, durch die Sünde.
+
+Der Tod scheidet Leib und Geist, das bloße Sein der Leiblichkeit und das Bewußtsein des Geistes; und die Seele, als das Mittelglied, wird recht eigentlich in der Mitte getrennt, ſo daß ſie nach der einen Seite dem getrennten Leibe, nach der andern Seite dem getrennten Geiste zufällt.
+
+In dieser Weise bewährt sich die Seele auch im Tode als das Mittelglied, ſie versicht auch nach dem Tode die Function der Vermittlung zwiſchen Leib und Geiſt, sie erhält während der äußerlichen Trennung tief innerlich die Fäden des Zusammenhangs aller drei Momente. Die Seele ist also weder vom Leibe, noch vom Geiste ganz getrennt, und darum ist auch weder der Leib, noch der Geist ganz getrennt von einander. So bewahrt namentlich das fortdauernde Leben des Geistes in der Erinnerung den Zusammenhang mit dem verlassenen Leibe und Leibesleben. Die Verbindung der drei Momente ist mithin nicht vernichtet, sondern nur unterbrochen bis -zur endlichen Redintegration in der Verklärung des Leibes und des ihm verbliebenen irdischen Lebens.
+
+Es bleibet also dabei: Erst geht der Geiſt des Menschen, der aus Gott ist, zu Gott zurück, ſammt dem Leben, welches der Geiſt von dem natürlichen Leben sich angeeignet hat; und der Leib aus Erden [p. 173] verfällt der Erde, ſammt dem Reſte des natürlichen Lebens, das der irdischen Schöpfung verbleibt. Zulezt geht aber auch der Leib des Menschen mit dem ihm verbliebenen Leben, als der Leib deffelbigen Menschen, verklärt zu Gott zurück, von dem auch Leib und Leben, Sein und Werden in die Welt gesezt war, und ſo wird er dem Geiste deſſelbigen Menschen, dem er hier beschieden war, wieder angeeignet werden als sein Antheil an dem Gesammtleibe.
+
+Dennoch zweifelt fort und fort der Materialismus und der Spiritualismus, einer wie der andere, und zwar mit Recht, denn das Geheimniß ist weder materialiſtiſch, noch spiritualiſtiſch, weder realiſtiſch noch nominalistisch zu begreifen, sondern allein perſonalistisch. Der Personalismus ist das Selbstbewußtſein, welches zunächſt als Bewußtsein des Anderen sich bewährt, alle Momente durchdringet und bewahret.
+
+und hiermit
+
+Hiermit ist uns das Räthsel gelöset.
+
+Aus dem ersten Anfange erklärt und erschließt sich auch die leßte Zukunft. Je gründlicher wir zurückgehen und zurückſehen, desto heller wird die Ausſicht vorwärts. Rückwärts und Vorwärts gehören zuſammen. Der Anfang ist die göttliche Weltschöpfung, welche nicht aus dem Sein emanirt, sondern - aus dem Bewußtsein transcendirt. - Hiermit ist eine Welt von Gedanken angedeutet. — Das Zweite ist die göttliche Welterhaltung, welche die Continuität der Schöpfung ist, welche an jedem neuen Menſchenleben ſich erneuert, an jedem Todesakte sich fortseßt, und an der Auferstehung alles Fleisches sich vollendet. Damit ist gesagt, daß Gott dreieinig in ihm ſelbſt immanent iſt und bleibt, und folglich insofern uns tranſcendent ist und bleibt: damit ist aber auch geſagt, daß er, schaffend, in die Welt transcendirt, und, erhaltend, in der Welt immanent ist und wirkt zn ihrer Vollendung in der Auferstehung des Fleiſches.
+
+Die Auferstehung des Fleiſches ist wesentlich Redintegra-
+
+17A tion und Verklärung.
+
+Redintegration ist nicht allein
+
+Wiedervereinigung aller Bestandtheile des einzelnen Menſchen, ſondern auch Wiedervereinigung der Menschen miteinander, nicht allein Wiederherstellung des ganzen Menschen nach allen seinen Momenten, sondern auch Wiederherstellung der gesammten Menschheit in allen ihren Gliedern mit ihrem Gesammtleibe und Gesammtleben, Erde und Himmel - Verklärung ist die Erneuerung der erlöseten Welt, näher Durchdringung und Personification des gesammten leiblichen Organismus durch den. Geist, welche nicht anders geschiehet, als durch Heiligung.
+
+Und hier kommt uns aus dem Worte Gottes von ſelbſt eine Stimme entgegen, welche uns zuruft: „Er aber, der Gott des Friedens, heilige euch durch und durch" - ganz und gar, ſammt vollstän und ſonders, ὁλοτελεῖς óλoteλeis; und euer Geist ganz " big, unserfert unb ungertheilt, όλοκληρον ύμων τὸ πνευμα „sammt der Seele und dem Leibe müsse behalten werden unsträflich auf die Zukunft unsers Herrn Jesu Christi. Getreu ist Er, der euch ruft, welcher wird es auch thun. "
+
+1. Theſſ. 5, 23. 24.
+
+## XVII.
+
+[p. 175]
+
+Das Geheimniß des menschlichen Organismus in ſeiner Drei--findet überall sprechende Leib, Seele, Geist, faltigkeit Analogien, welche zum weiteren und näheren Verständnisse dienen können.
+
+Wie an dem Menschen, als einem Tempel Gottes, ſo finden wir auch an dem Tempel zu Jeruſalem ein Aeußeres, als den Leib, ein Inneres, als die Seele, und ein Innerstes, als den Geist des Ganzen: den Vorhof mit seinen verschiedenen Höfen, das Heilige, und das Allerheiligste. — So nennt auch der Apostel den Vorhang im Tempel das Fleiſch, welches im Tode zerreißet Hebr. 10, 20. , und, zerreißend, näheren Zugang bereitet zum Allerheiligsten. So hat auch Alles, was wirklich ist und zur Erscheinung kommt, einen dreifachen Sinn, den buchstäblichen oder historischen, als den leiblichen, den moralischen oder inneren, als den seelischen, den mystischen oder anagogischen, als den geistlichen, welcher himmelan weiſet zur Auferstehung, in welcher sich Alles vollendet. Daher unterscheidet auch die jüdische Tradition eine dreifache Auslegung, Paschut, D'rusch und Sod. *) In gleicher Weise unterscheidet die scholaſtiſche Theologie des Mittelalters den Buchstaben, die Seele und den Geist des Wortes, so doch daß jedem Sinne sein volles Recht unverkümmert bleibe. **)
+
+*) Molitor: Philosophie der Geschichte, oder über die Tradition. Münſter, 1834. I. . 39. §. 52 flg. **) Thomas Aquinas: Summa theol. I. 1, 10.
+
+[p. 176] Wie an dem einzelnen Menschen, so ist auch an der gesammten Menschheit derselbe Organismus mit derselben Bedeutung und Zukunft: die Erde, als der Leib, der Himmel, als die Seele, und der Himmel über alle Himmel, als der Geiſt.
+
+Darum muß auch im Tode der Einzelleib dem Gesammtleibe zurückgegeben werden, bis auch dieſer vergeht und neu wird: darum bleibt ihm auch das natürliche Leben zur Verweſung, bis daß auch Himmel und Erde vergehen und erneuert werden. Off. 21, 1. Matth. 27, 35.
+
+2. Petr. 3, 7.
+
+Darum nennen wir auch mit gutem Grunde und tiefen Sinne den Tod in Beziehung auf den Leib ob wir wohl selten ausdenken, was wir damit sagen, eine Schuld der Natur, welche zurückgezahlt werden muß, weil wir die ursprüngliche Bestimmung völliger Aneignung nicht gelöset haben - mors naturae debita
+
+Wiederum ist an der gesammten Menschheit in ihrer Entwickelung eine Drei. Denn in der Menschheit ist das Erste als der natürliche Anfang des Gesammt-Organismus die Ehe, auf daß der Mensch nicht allein ſei. Zwei iſt beſſer, und daraus wird die erste dreifältige Schnur. Pred. 4, 9. 11. 12. Aus der Ehe und Familie, aus Zwei und Drei, erhebt sich ferner das Volk als Gemeinde und Staat: hierdurch ist die Seele als das mittlere Verhältniß bezeichnet. Das Höchste ist aber die Kirche. *) Die Ehe und Familie umfaßt Individuen, der Staat Familien und Gemeinden, die Kirche Völker und Staaten. Hiermit ist aber nicht ausgeschlossen, daß die Ehe und Familie im Hause Staat und Kirche, daß der Staat im Lande Haus und Kirche, daß die Kirche Ehe und Gemeinde, Haus und Staat -- status ecclesiasticus, politicus, domesticus -- in sich faßt. **)
+
+*) Vergl. Joseph Beraz: Der Mensch nach Leib, Seele und Geiſt. Leipzig, Göschen, 1836. S. 17 flg. Luther sagt: „Die heiligen. Orden und rechten **) A. a. D. S. 33.
+
+[p. 177] Darum wird auch die Kirche, als das höchste Geheimniß, nach ihrem organischen Verbande gleichnißweiſe bezeichnet als der Leib, da Christus das Haupt ist (Eph. 4, 15. 16. ) , als Ehe, da Christus der Mann im Hauſe ist (Eph. 5, 32.), als Staat, da 19, 16). Christus der König ist (Off. 15, 3. 17, 14. Ebenermaßen ist auch an jedem einzelnen Menschen jedes Glied der menschlichen Dreifaltigkeit wieder dreifaltig; der Leib leiblich, seelisch, geistlich, owua yoïxov, Yuxixov, пveuμatixov —: desgleichen die Seele, und zuleßt der Geist. *) Im Kinde ist das Leibliche, im Jüngling wie in der Jungfrau das Seelische, die Empfindung, im Manne wie in der Frau das Geistige, das Denken, das überwiegende oder vorwaltende Moment, ſo daß in der Kindheit selbst der Geist gleichsam vegetirt, in der Jugend auch der Geist zur Seele, zur Empfindung wird, während in der dritten Station selbst der Leib gleichsam sich vergeistigt.
+
+In dem Menschen, zunächſt in jedem einzelnen, koncentrirt sich Natur und Geist, Thier und Engel in der Seele. Der Mensch ist nicht sowohl halb Thier, halb Engel, sondern beides zumal, er „reicht von der äußersten Region bis zur innersten, steht der gan„zen übrigen Schöpfung gleichsam als der andere Pol gegenüber, Stifter sind diese Drei: Priesteramt, Ehestand, weltliche Obrigkeit. " Vergl. K. Ernst: „Ueber Kirche und Kirchengewalt“ in der „Zeitſchrift für die „gesammte lutherische Theologie und Kirche, herausgegeben von Dr. Rudelbach und Dr. Guerice. " 1850. Erstes Quartalheft. S. 63 - 109. Diese sehr wichtige Abhandlung erörtert insbesondere den Unterschied zwischen geistlichen und Es fragt sich nur, ob weltlichen Sachen - res spirituales et corporates. nicht zwischen beiden Gebieten noch ein Mittelglied fehlen möchte. Das Mittelder Staat sein, wie zwis glied zwischen Ehe (Familie) und Kirche würde die Seele. Daraus folgt aber mehr, und zu viel schen Leib und Geist für eine Note. Zunächst möchten wir nur die Aufmerksamkeit für die laudirte Abhandlung in Anspruch nehmen. *) Beraz: a. a. O. S. 50.
+
+[p. 178] und bildet auf diese Weise den allgemeinen Brennpunkt des Da„ſeins, die kleine Welt, den Mikrokosmus.“ *) In dem Menſchen selbst ist das vermittelnde Band zwischen der äußersten und innersten Region die Seele,
+
+Es ist auch gesagt worden: „Der Mensch ist ein Auszug aus allen Kreaturen: in seinem Leibe ist der Inbegriff alles irdenen Wesens, in seiner Seele der Inbegriff alles Himmelweſens, in ſeinem Geist der Inbegriff alles kreatürlichen Engelweſens ſeit Adam, vor und nach dem Falle, wie wohl in veränderten Verhältnissen. Darum ist seine Bestimmung Transmutation des mikrokosmischen Materials, --- wie aus Wasser Wein wird auf der Hochzeit zu Kana, — Verklärung, Verwandlung, Transſubſtantiation, Verherrlichung, Glorifikation, und zwar durch Chriſtum **). Das Mittelglied bleibt aber auch hiernach die Seele. *) Molitor a. a. D. S. 91. §. 125. **) Es sei hiermit noch vor dem Schlusse an eine kleine Schrift erinnert, welche nicht die Aufmerksamkeit gefunden zu haben scheint, die ſie, ſo klein und unſcheinbar sie ist, wohl hätte erwarten dürfen. Der Titel der Schrift ist: „Unſere Unsterblichkeit und der Weg zu derselben. Von einem evangelischen Geistlichen. Kempten, Dannheimer, 1836. " Die Form ist ein Gespräch zwischen Anastasius und Theophilus. Die Frage über unsere Unsterblichkeit knüpft sich hier an die Frage über die Person des ersten Adams und seiner Nachkommen; sie entwickelt sich demnächst an der Person des zweiten Adam's, wobei die Differenz der alexandriniſchen und antiochenischen Schule, øder der lutherischen uud reformirten Kirche nur leiſe berührt wird. Die Unsterblichkeit kommt nach dieser Anschauung dem ganzen Menschen zu, nicht der Seele, welche vielmehr, gleich dem Leibe, stirbt, das heißt, von dem bisherigen Verbande zunächst getrennt wird. Unsterblichkeit ist unzertrennliche Verbindung aller zuſammengehörigen Momente: fle wird daher nach dem Keime als schon gegeben, nach der Anlage als gegenwärtig, hingegen nach ihrer Verwirklichung als zukünftig, und als verlier bare Gnadengabe betrachtet, denn sie besteht am Ende in der Glorifikation. Hierbei kommt auch die Differenz der beiden evangeliſchen Kirchen über Verlierbarkeit und Unverlierbarkeit der Gnade (D. Guericke: Allgemeine christliche Symbolik. §. 51. 52.) nicht allein zur Sprache, ſondern auch zu gegenseitiger Verständigung. Uebrigens wird der Vollendung der Einzelnen vor der Vollendung Aller ausdrücklich widersprochen, und ein Zwischenzustand für Alle Todten bis zur Vollendung in Ausſicht geſtellt, aber auch denen, welche an der Glori-
+
+[p. 179] Die Frage nach dem Size der Seele *) ist wiederum dreifach. In erster Instanz bezieht sie sich auf die leibliche Seele, ob sie im Gehirn, oder im Nervenſyſtem überhaupt, oder im Blutſyſtem ihren Hauptsiz habe. In zweiter Instanz bezieht sie sich auf die Seele als Seele, wie sie dem Geiste angehört und auch im Tode verbleibt, wo ihre Bleibestätten sind nach dem Tode, die uovat, τόποι, σκηναι αιωνιοι. Joh. 14, 2. Luk. 16, 9. Aber die σκηναι αιωνίοι weisen schon in die dritte ewigen Hütten Instanz, in welcher sich die Frage auf die Stellung der Seele bei der Wiedervereinigung des Leibes mit dem Geiste beziehet. Von diesen drei Fragen erläutert sich eine an der andern. Wer sie ganz abweisen wollte, würde leicht in den Verdacht des Spiritualismus fallen; wer sie buchstäblich nachweisen wollte, müßte sich vor der Charybdis des Materialismus in Acht nehmen. Hier sei nur zweierlei bemerkt. Tag und Stunde ist uns nicht offenbart — Matth. 24, 36. — wie sollte uns doch Stätte und Hütte zuvor ganz geöffnet sein, ehe wir eingehen erstens durch den Tod, und dann durch die Auferstehung? Oft ist das allzu genaue Nachforschen über Ort und Art der Fortdauer im Zwischenzustande ein Zeichen, daß wir in unserm Glauben selbst noch nicht recht fest sind;
+
+denn wem es gewiß ist, daß er mit Christo fortleben wird, der überläßt dem Herrn um so lieber das Wie. Das ist Eins. So viel liegt aber nahe, daß der Sig der Seele in allen drei Instanzen die Mitte ist, die Mitte zwischen Leib und Seele: im irdischen Leben, in und nach dem Tode, in und nach der Auferstehung.
+
+Das ist das Zweite.
+
+Es ist sehr wichtig, die Seele als die Mitte zu fassen, wie fikation nicht Theil nehmen, die Vollendung in einem folgenden Aeon vorbehalten; denn, so wird gelehrt, mit dem jüngsten Tage schließt eben nur die Vollendung dieses Aeons ab. Jedenfalls glaubten wir auf die kleine Schrift aufmerksam machen und sie zu vorsichtiger Erwägung empfehlen zu dürfen. *) Vergl. „Ueber den Siß der Seele. Von Dr. Friedr. Fischer, Prof. zu Basel. Leipzig, Weidmann, 1833."
+
+[p. 180] der Himmel die Mitte ist zwischen der Erde und dem Geiste, der höher ist als der Himmel. Als die Mitte erweiset sich die Seele auch in und nach dem Tode: als die Mitte ist sie das Band, welches, wenn es auch im Tode zerreißt, dennoch Fäden zurückläßt, um das Band dereinst wieder anknüpfen zu können. Wie das menschliche Leben, so ist auch der Tod dreifach, denn anders iſt ſein Einfluß auf den Leib, anders auf die Seele, anders auf den Geist; eine Veränderung ist er aber für jeden Theil, welche bis zur Auferstehung bleibt.
+
+Buchstäblich oder leiblich ist der Tod Untergang des - da feibes, — εκλειπειν, ελαττούσθαι, ὑστερείσθαι, ἀναλύσαι, — ba der filberne Strick -wegkommt, da die güldene Quelle verläuft, da der Eimer zerlechzet am Born und das Rad zerbricht am Born, da der Staub wieder zur Erde kommt. Im moraliſchen oder iſagogischen Sinne, in Beziehung auf die Seele oder das Innere iſt der Tod Eingang der Seele, Einkehr in den Geiſt als in ſich, Einwanderung zum Herrn (2. Kor. 5, 8.) , Einzug in das Heilige (Hebr. 10, 9.), Wo in so viel tausend Jahren
+
+Alle Frommen hingefahren. Im anagogischen Sinne weiſet der Tod aufwärts, denn es iſt noch eine kleine Zeit bis zur Auferstehung. Auch der Zwischenzustand ist dreifach, denn die Verbindung des Geistes mit dem getrennten Leibe durch die Seele hört nicht ganz auf, und in der Auferstehung wird sie zur vollkommenen Dreifaltigkeit verklärt.
+
+Im ersten Akte des Lebens ist die leiblich sichtbare Seite, im zweiten die für uns unsichtbare Seite des Lebens überwiegend, im dritten Akte wird Sichtbares und Unsichtbares vereinigt.
+
+Im Erdenleben stirbt jeder Augenblick der Gegenwart an dem [p. 181] folgenden, aber er lebt auch fort durch die Verbindung mit dem, was rückwärts und vorwärts liegt. Im Zwischenzustande erinnert sich der Geist durch die Seele des Erdenlebens und seiner Eindrücke, als seiner Vergangenheit. In der Auferstehung wird die Vergangenheit des Einzellebens durch den Leib, die Geschichte des Menschengeschlechts durch den neuen Himmel und Erde dem Geiste vergegenwärtigt, gegenwärtiger als die neue in Gegenwart: denn die Auferstehung ist selbst Erneuerung und Verklärung der Vergangenheit.
+
+-Wie der menschliche Organismus dreifaltig ist, Leib, diesseits, Seele, Geist, — und in dreifacher Lebensstation jenseits, in Ewigkeit, - zu seiner Vollendung sich entwickelt, so finden wir auch in jeder Lebensstation noch eine andere Drei: nämlich die einzelne Persönlichkeit für sich, im Verhältnisse zur übrigen Schöpfung, und im Verhältnisse zu Gott. Die Persönlichkeit ist am Menschen das Prinzip der Entwickelung, denn der Prozeß der Entwickelung besteht wesentlich in fortschreitender Durchdringung und Perſonation des geſammten Organismus. Ihrerseits wurzelt aber die Persönlichkeit in dem gegenwärtigen Selbstbewußtsein des Geistes, woran sich in Beziehung auf die Vergangenheit die Erinnerung, in Beziehung auf die Zukunft die Hoffnung knüpfet. Das Verhältniß zu der übrigen Schöpfung erweiſet ſich wesentlich als Bewußtsein des Andern: ja diese Seite des Bewußtseins erweiset sich schon an dem eignen Leibe, als fremden, anderen.
+
+einem noch
+
+Dieses Verhältniß des Subjekts zu seinem Gegenstande schließt zunächst das Verhältniß zur Menschheit und zum Gesammtleibe derselben in sich.
+
+In eben dieses Gebiet gehört auch das Wiedersehen, worüber so viel geforscht und gedacht, gefragt und gehofft, empfunden und geträumt worden ist. Hier läßt sich auch die Empfindsamkeit *) ihr Recht nicht nehmen, so *) Klopstock: Das Wiedersehen. von dir 2c.“ Werke. II. S. 241 flg.
+
+Ode.
+
+„Der Weltraum fernt mich weit
+
+[p. 182] ſtreng auch darüber von Anderen geurtheilt worden ist.
+
+Uns ſind hier auch die gewöhnlichsten Vorstellungen * ) von Intereſſe, denn sie zeugen von dem unverwüftlichen Verlangen des menschlichen · Herzens, welches sich nicht minder, wenn gleich entſtellt, in allen Volksmythen abprägt. Wer kennt nicht die anagogische Hebekraft, welche die Seelen, die vor uns heimgegangen sind, auf die Zurückgebliebenen ausüben?
+
+Aber die höchste Hebekraft liegt in dem Verhältniſſe zu Gott. Von Gott ſtammen wir: zu Ihm gehen wir. Der Menſch verlangt zurück nach seinem Ursprunge:
+
+er kommt seinem Schöpfer von
+
+Stufe zu Stufe näher: in der Auferstehung wird das Verhältniß vollendet 1. Joh. 3, 2. -.
+
+Die Auferstehung ist nach allen drei Seiten, in Beziehung auf den einzelnen Menschen für sich, im Verhältnisse zur Schöpfung und zu Gott Redintegration, Perſonification, Verklärung, ****) נצח
+
+Von der wirklichen Auferstehung, welche in der Redintegration und Verklärung des menschlichen Organismus nach Leib, Seele und Geist besteht, ist die erste Auferstehung (Off. 20, 5.) wohl zu unterscheiden.
+
+Die erste Auferstehung ist keine Leibes - Auferstehung: denn wie könnten Etliche vollendet werden vor der Vollendung? Die erste Auferstehung, welche wir schon hienieden vorabſchmecken (Eph. 2, 6. Kol. 3, 1.), gehört dem Zwischenzustande an: in ihr ſammeln sich alle diejenigen Seelen, über welche der andere Tod (Off. 20, 14. - 21, 8.) feine Gewalt hat (Off. 20, 3.) .
+
+Sie sind in der Ruhe (Hebr. 4, 9.)
+
+*) Bolzano's Athanasia. Zweite Ausgabe. Sulzbach, 1838. S. 223 234. Die Seele und ihre Zukunft. Von D. V. Ph. Gumposch. 1849. S. 134-144. Ca Werden wir uns nach diesem Leben wiedersehen? Von D. Heinichen. 1838. **) Wir citiren getrost noch einmal R. Stier: Jesajas LXXI, .
+
+[p. 183] und mit weißen Kleidern angethan, mit Palmen in den Händen, und singen ein neues Lied, und das Lied Mosis (Off. 7, 9-17. 14, 1-5. — 15, 2-4.) . Es steht auch nur dieses von ihnen geschrieben, daß der Seher ſah, wie ſie lebten und regierten mit Christo noch tausend Jahr, von da ab, da der Böse in den Abgrund geworfen wurde, und die anderen Todten nicht lebten, bis daß tausend Jahr vollendet würden. Off. 20, 2-6. Von der tauſendjährigen Zwischenregierung Chriſti mit den seligen und heiligen Seelen im Himmel (Off. 20, 6. ) , welche die erste Auferstehung genannt wird, ist wieder das tauſendjährige Reich auf Erden (Off. 20, 2.) verschieden, da der Satan gebunden ist und die streitende Kirche obsieget, bis die legten und schwersten Kämpfe kommen, da Satan wieder los ist, aber auf eine kleine 3eit (Off. 20, 3.). Es ist merkwürdig, daß grade über dieſe dunkle Weiſſagung eines tauſendjährigen Reiches auf Erden die Kirchen auf Erden einhelligen Bekenntniſſes ſind; denn es wird einmüthiglich gelehrt, daß auf der alten Erde vor der Auferstehung kein weltlich Reich der Herrlichkeit von eitel Heiligen und Frommen zu erwarten ist, noch eine theilweise Auferstehung, noch irgend eine trübe Gemeinschaft Auferstandener mit Lebendigen im Fleische vor der lezten Verwandlung. Die Gegenlehre verwirft die Auguſtana (Art. 17), und die Römische Kirche stimmt ein, wie die Apologie im Art. 8 bekennet.
+
+Darum hat auch die Kirche bis jest verzichtet, die Zeitrechnung zu meſſen, und die tausend Jahre, welche von dem Untergange des Thieres und des falschen Propheten an zu rechnen sind, nach dem Kalender zu zählen. Es sind eben der Jahre tausend, wie der Engel viel tausend mal tausend sind (Off. 5, 11. Dan. 7, 10.) . In allen diesen Gesichten ist der Geist des Verständnisses klarer, als der Buchstabe mens notior corpore: es gilt auch hiër, daß tausend Jahre vor dem Herrn sind, wie ein Tag, und ein Tag wie tausend Jahre: es gilt auch hier, daß wir hienieden glauben, aber nicht schauen.
+
+[p. 184] Und wenn auch der Buchstabe der tausend Jahre, wie nicht zu zweifeln ist, gleich der Zahl 1260. (Off. 11, 3) und der Zahl 666. (Off. 13, 18) , und so vielen anderen apokalyptischen Zahlbezeichnungen sein gutes, volles Recht hat und seine Aufklärung erhielte, so wäre damit noch keine Erklärung gewonnen, denn es handelt sich vor allen Dingen um das Thier mit den sieben Häuptern und zehn Hörnern, nach dessen Untergange der Drache gebunden wird auf tausend Jahre; es fragt sich, von welcher Zeit an die tausend Jahr zu zählen sind, wenn sie überhaupt zu zählen sind. Dem nachzudenken ist heilsam und erwecklich. *) Dazu dienet vornämlich das Buch der Geschichte, welches nicht allein von den Thaten Gottes unter den Menschen zeuget, sondern auch von den Thaten Satans berichtet. Sind dieſe letteren das ist die Frage sind die Thaten Satans, von welchen die Geschichte berichtet, von welchen jedes Jahrhundert unter Chriſten und Nichtchristen sprechende Zeichen liefert, von welchen die Gegenwart übervoll ist, sind sie alle Nachwirkungen des gebundenen Satan? Und seit wann sind sie es? Seit wann gehet der Widersacher in der Welt nicht mehr frei umher, wie ein brüllender Löwe? 1. Petr. 5, 8.
+
+So viel bleibt immer gewiß, daß unterdeſſen Alle, die in dem Herrn gestorben sind, im Frieden sind und im Frieden leben miteinander. So viel ist nicht minder gewiß, daß nach dem tauſendjährigen Reiche, dessen Tag und Stunde wir nicht wiſſen, die lezten ErdenNöthe kommen auf eine kleine Zeit (Off. 20, 3.) . Und darauf kommt erst mit dem neuen Himmel und mit der neuen Erde (Off. 21, 1. ) die Auferstehung, theils zum andern
+
+*) Vergl. „Die Offenbarung des heiligen Johannes. Erläutert von E. W. Hengstenberg. Erster Band. 1849. " Dem zweiten Bande wird mit Verlangen entgegen gesehen. Auch die innestehende Zeit mahnt zn einem ernſten Studium dieſer grade unserer Zeit vorbehalten gebliebenen neuen Forſchungen, wofür jeder aufmerksame Leser dankbar sein wird, wenn er auch nicht überall mitfolgen kann. - I. H. Kurz: Lehrbuch der heiligen Geſchichte Vierte Auflage. 1858. C. 288.
+
+[p. 185] Tode, theils zum neuen Leibesleben (Off. Off. 21, 8. 9. 21, 22.), dà Christus wiederkommt.
+
+Es ist aber nur Eine Gesammt - Auferstehung für die Gerechten und für die Ungerechten.
+
+Matth. 25, 31-46. Marc. 13, 23-37. Luf. 14, 14. 15. - 17, 30. -- 21, 27. 28. Joh. 5, 28. 29. 1. Kor. 15, 17-58. 1. Theff. 4, 13-18.
+
+Der Gesammt - Auferstehung folgt das ewige Leben: der lezten Entwickelung die Krone der Vollendung. Dann - mehr gege= - χρονοι, καιροι, — sind keine Zeiten, keine Fristen — den, sondern der Aeon ist vollendet: vollendet, aber nicht verendet; denn den zeitlichen Entwickelungen des Werdens folgt das Leben selbst: und Leben ist mehr, als Werden, wie Aeon mehr ist, als Zeit. Aeon ist Ewigkeit: es ist Ein Begriff in allen, und auch Ein Wort in vielen Menſchen-Sprachen, aťov, aevum, aeviternitas, Ewigkeit Ewigkeit ist das höchste Leben am Ende, endeliches Ende (Luk. 1, 39. Spr. 22, 29.), Vollendung, Fülle am Ziele. Aber es wird auch im Worte Gottes gezeuget von Ewigkeiten, Aeonen von Aeonen - Off. 10, 6. 11, 15. Wer kann ausdenken, was Gott bereitet hat denen, die Ihn lieben? - 1. Kor. 2, 9. Jes. 64, 4-. Von Ewigkeit zu Ewigkeit! " Wie oft gehen diese Worte in aller Eile über unsere Lippen! Und wie viel mehr sagen ste, als wir denken können! Wir stehen still: wir schließen hier, wir schweigen: aber wir warin Geduld und Hoffnung: wir warten auf unseres Leibes Erlösung - Röm. 8, 23: wir warten auch eines neuen Himmels und einer neuen Erde - 2 Petr. 3, 13. -- am Ende aller Dinge, welches nahe herbeigekommen ist 1 Petr. 4, 7 — ; wir 12** ten [p. 186] warten auf die felige Hoffnung und Erscheinung der Herrlichkeit des großen Gottes und unsers Heilandes Jesu Christi- Tit. 2, 13—
+
+Dazu wird des Menschen Sohn wiederkommen in seiner Herrlichkeit. Diese Wiederkunft des Herrn ist die legte und liebſte Aussicht seiner Jünger, das Wahrzeichen der Vollendung, nach dem wir aussehen.
+
+„Und der Geist und die Braut sprechen: Komm!
+
+Und wer es höret, der spreche: Komm!
+
+Und wen dürftet, der komme, und wer da will, der nehme das Wasser des Lebens umsonst. " Off. 22. 17. Die heilige Stadt, das neue Jerusalem, ist uns zuvor gezeiget im Worte, so wir glauben. Off. 21, 2. Ich bin zufrieden,
+
+Daß ich die Stadt gesetz'n. Und ohn' Ermüden Will ich ihr näher geh'n, Und ihre hellen, gold'nen Gaffen Lebenslang nicht aus den Augen laſſen.
+
+5 NO 64
+
+Druck von C. G. Brandis in Berlin, Deßauerstraße Nr. 5.

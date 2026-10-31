@@ -1,0 +1,2129 @@
+---
+title: Hegel's Naturphilosophie und die Bearbeitung derselben durch den italienischen Philosophen A. Véra
+author: Karl Rosenkranz
+year: 1868
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: the 1868 edition; converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: the PDF text layer of a scan, not corrected against the scan; non-word rate 0.7% (wordfreq, the edition's own spellings kept); paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority
+translation: none
+canonical: "[p. N] marks where printed page N begins (the 1868 edition); read from the PDF folios where legible, the others by sequence"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: The Hegel's Naturphilosophie und die Bearbeitung derselben durch den italienischen Philosophen A was written by an author who died in 1879, so before 1931; Karl Rosenkranz (d. 1879) is long out of protection and the edition (1868, from the title page of the scan) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 1479)
+---
+
+# K. Rosenkranz, *Hegel's Naturphilosophie und die Bearbeitung derselben durch den italienischen Philosophen A* (1868)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+HEGEL'S
+
+Naturphilosophie
+
+Bearbeitung derselben durch den Italienischen Philosophen
+
+A.
+
+Véra.
+
+Von
+
+Karl Rosenkranz.
+
+BERLIN.
+
+Nicolaische Verlagsbuchhandlung. (A. Effert & L. Lindtner.) 1868.
+
+Vorwort.
+
+Die vorliegende Brochüre war ursprünglich für die Zeit schrift der Berliner Gedanke philosophischen
+
+Gesellschaft » Der bestimmt; da dies Journal jedoch in's Stocken gerieth und späterhin ganz einging: so entschloss ich mich, Darüber ist jedoch sie vereinzelt erscheinen zu lassen. so viel Zeit vergangen, dass sich unterdessen im Gebiet der Naturwissenschaft eine grosse Revolution vollzogen hat, in deren Folge Manches, was ich modificirt werden müsste.
+
+gesagt habe, bereits
+
+Es betrifft dies vor allem den Begriff der Aerolithen und der Kometen, deren Auffassung durch Leverrier, Schiaparelli, Weiss, Peters und Andere in ein ganz neues Stadium getreten ist.
+
+Ob die Kometen lediglich als kosmische Schutthaufen anzusehen sind, ist vielleicht noch nicht endgültig entschieden, so lange nicht die Spektral analyse grössere machen können.
+
+Kometen ihrem
+
+Gegenstande hat
+
+Schon sind Andeutungen von Huggins und Anderen hierüber vorhanden, und es würde dann immer noch zwischen Meteoritenaggregaten und zwischen eigentlichen Kometen zu unterscheiden sein.
+
+Jedenfalls hat die Spek tralanalyse als Solar- und Stellaranalyse schon zu dem grossen Ergebniss geführt, dass die elementare Materie ganzen Universum die nämliche ist.
+
+Hegel's astronomische Ansichten scheinen jetzt noch unhaltbarer gewor den, als sie es schon waren.
+
+[p. iv] Erst als diese Schrift von übergeben war, lernte ich mir schon dem Druck
+
+Buch kennen, welches einen Gedanken verwirklicht, den ich ebenfalls ausspreche, nämlich die Erscheinungen der Natur in der Reinheit ihrer Formen darzustellen, unabhängig von den Maschinen, mit welchen wir sie uns Stand zu halten Fragen Antwort zu geben zwingen.
+
+und auf einzelne
+
+Dies ist die treffliche
+
+Schrift von Planck: » Grundlinien einer Wissenschaft der Natur nach ihren reinen Erscheinungsformen.
+
+Tübingen,
+
+1864. «
+
+Wenn ich der Schule Hegel's vorgeworfen habe, für die Naturphilosophie zu wenig thätig gewesen zu sein, und wenn eben diese Thatsache mich bestimmt hat, auf Véra's Arbeit ein so grosses Gewicht zu legen und Sorge zu tragen, dass sie auch in Deutschland bekannt würde, so kann man fragen: Warum hast du selber denn nichts für die Naturwissenschaft versucht?
+
+Dies ist von mir, abgesehen von kleineren Abhandlungen, in der That geschehen, indem ich 1850 in meinem » System der Wissen schaft« , S. 289-563, einen Abriss der gesammten Natur philosophie gab.
+
+Die darin vorkommenden Abweichungen von Hegel sind der Grund, der mich zwang, auch jetzt einige Bedenken gegen Hegel und Véra zu äussern. Da ich in dem Lebensalter stehe, in welchem man nächstens gestorben zu sein pflegt, so benutze ich diese Gelegenheit, mich über zwei Punkte zu erklären, welche zu lebhafter Polemik gegen mich geführt haben.
+
+Erstens: die Aufzählung der regelmässigen Körper. Es herrscht in ihr eine Verwirrung, die ich nicht ent schuldigen kann, da ich sie bei der Revision des Druckes hätte bemerken sollen. Mein Gedanke war, wie aus dem Zusammenhange erhellt,
+
+Hauptformen der die regelmässigen Körper
+
+Geradflächner in schliessen:
+
+[p. v] 1) die trianguläre im Tetraeder,
+
+Oktaeder,
+
+Ikosaeder,
+
+2) die quadranguläre im Kubus und im rhombischen Do dekaeder, 3) die polygonale nur in dem pentagonalen Do dekaeder. Zweitens: bei den chemischen Urstoffen habe ich den Stickstoff und Kohlenstoff als wahrscheinlich aus Wasserstoff und Sauerstoff zusammengesetzt dem angegeben.
+
+Man hat sich hierüber sehr gewundert, ich habe aber die positiven Bestimmungen dieser Analyse aus dem Werke eines schweizerischen Naturforschers Hugi:
+
+>» Grundzüge zu einer höhern Naturansicht. « Solothurn 1841, entnommen. Ich wünsche durch diese kleine Arbeit das Studium Hegel's und Véra's zu fördern.
+
+Véra ist der strengste
+
+Systematiker, welchen Hegel bisher gehabt hat, der ihm mit Hingebung auf Schritt und Tritt nachgeht.
+
+Er ist so sehr Systematiker, dass man seine Urtheile über Andere aus diesem Gesichtspunkte auffassen muss; ich habe daher seine Meinung über Schopenhauer und Trendlenburg als für ihn charakteristisch mitgetheilt, brauche aber wohl kaum zu bemerken, dass diese beiden Philosophen für die Entwicklung der deutschen Philosophie noch ganz andere sehr verdienstliche Seiten darbieten, auf welche einzugehen ich jedoch hier keine Veranlassung habe.
+
+Die Deutschen möchten so gern, wie die Engländer und Franzosen, auch zu einem grossen nationalen Selbst gefühl gelangen. Es ist aber merkwürdig, wie wenig sie sich selbst zu ehren wissen. Sie müssten sich offenbar darüber freuen, dass andere Nationen gegenwärtig sich in das Studium der Hegel'schen Philosophie vertiefen und Hegel als einen der grössten Philosophen aller Zeiten aner kennen.
+
+Statt dessen sind die Deutschen nicht nur gleich gültig gegen einen solchen Weltruhm, sondern warnen wohl sogar die andern Nationen, sich auf Hegel einzulassen.
+
+[p. vi] So scheinen sie auch die Arbeiten Véra's bisher nicht mit derjenigen Achtung
+
+Aufmerksamkeit behandelt haben, welche sie verdienen.
+
+Ich erlaube mir in dieser Hinsicht noch folgende mes Thatsache anzuführen: Ein Englischer Philosoph, Jam Hutcheson Stirling, hatte vor einigen Jahren ein aus gezeichnetes Werk über Hegel's Philosophie unter dem Titel: » The secret of Hegel« veröffentlicht, an dessen Schluss er ausrief: dass man erst bei Hegel's System terra firma verkünden könne.
+
+Statt sich hierüber zu freuen, erschien in der Augsburger Allgemeinen Zeitung eine Besprechung dieses Buchs, welche sich so gut wie gar nicht auf das selbe einliess, vielmehr auseinandersetzte, dass die Deutschen wohlthun würden, statt seiner sich die Ruge'sche Ueber setzung von Bucles » Geschichte der Civilisation Englands << zu kaufen. Königsberg im Juni 1868.
+
+Karl Rosenkranz.
+
+[p. 1]
+
+## Die Hegel'sche Philosophie in Frankreich und Italien.
+
+Während in Deutschland die Sage geht, dass die Hegel sche Philosophie als ein überwundener Standpunkt bereits veraltet und bis auf unbedeutende Reste unter den ältern Hegelianern verschwunden sei, sehen wir zu unserm Er staunen, wie dieselbe ausserhalb Deutschland ein ganz neues Leben beginnt.
+
+In Frankreich war sie schon seit der Julirevolution eingedrungen, allein der Cousin'sche Eklekticismus, der sich im Stillen mit Allem, was er den Franzosen Neues und Anregendes bot, von ihr nährte, desavouirte sie öffentlich und schob sie als pantheistisch und atheistisch zurück.
+
+Er machte es, trotz der Anstrengungen von Barchou de Penhoèn, von Ott, von Slo mann, von Bénard, von Vacherot und Andern, den Franzosen unmöglich, sich das eigentliche Princip der Hegel'schen Philosophie, die Dialektik, zu assimiliren, weil er die alte formale Logik und die alte empirische Psychologie conservirte. Die principienlose Indifferenz des Cousin'schen Eklekticismus wurde zwar auch von Andern, als Hegelianern, z. B. von Leroux und Comte, angegriffen, allein er behauptete von der Sorbonne aus seine Herrschaft. Unterdessen fand die Hegel'sche Philosophie in Italien eine unerwartete Aufnahme und immer wachsende Aufmerksamkeit einem halben Jahrhundert einen Riesenkampf für ihre politische, religiöse und wissenschaftliche Befreiung gestritten.
+
+[p. 2] Wie viel Opfer hat sie dafür gebracht! In wie vielen Kerkern schmachteten die edelsten Söhne Italiens hin, weil sie den Despotismus der kleinen Tyrannen, den Druck der Fremdherrschaft, das Joch einer fanatischen Hierarchie brechen wollten! Wie viele der kühn aufstrebenden Geister mussten das bittere Brod des Exils essen und auf fremder Erde sterben, mit dem erlöschenden Blick noch nach dem geliebten Italien gewendet, mit dem letzten Seufzer noch den Glauben an die bessere Zukunft ihres Vaterlandes besiegelnd. Gioberti, diese platonische Seele, dies grosse Herz, dieser unerschrockene und tief blickende Bestreiter des heutigen Jesuitismus, er, der Sardinischer Minister des Unterrichts gewesen war, starb in Armuth und Verein samung fern von dem Volke, für dessen intellectuelle und sittliche Erhebung er gekämpft hatte. Die italienische Philosophie hatte sich am Ende des vorigen Jahrhunderts den Locke'schen Sensualismus, zumeist in der Condillac'schen Form, angeeignet und ihn den scholastischen Systemen entgegengesetzt. Es war dies eine gute Vorschule für die Aufnahme der Kant'schen Philosophie. Sehr natürlich gingen aus diesen Verarbeitungen auch Versuche hervor, eigenthümliche Bahnen einzuschlagen. Rosmini, Pasquale Galuppi u. A. gehören hieher. Gioberti wollte eine nationale Philosophie begründen und ging deshalb auf die Pythagoreische zurück, die in Italien vornehmlich geblüht und aus welcher Platon geschöpft habe. Er verband aber mit dem Platonismus die Kant sche Ethik.
+
+Sein Werk: del buono, war die geistvolle
+
+Frucht dieser Vermählung des phantasiereichsten Weisen des Alterthums mit dem nüchternsten Denker der Neuzeit. Dieser Epoche folgte
+
+Studium der Hegel'schen
+
+Philosophie, denn die Zwischengestalten zwischen Kant dun Hegel, H. Jacobi, Fichte, Schelling u. A. , blieben den Italienern zwar nicht unbekannt, wurden jedoch von ihnen nicht weiter verfolgt, während sie das Hegel'sche
+
+[p. 3] System mit Begeisterung aufnahmen, weil es ihnen eine organische Totalität darbot, welche sie bei allen übrigen Philosophen in diesem strengen Zusammenhange vermissen mussten. Es war ein interessantes Schauspiel, zu beobachten, wie das Hegel'sche Deutsch in der italienischen Sprache wiedererstand. Mamiani, de Sanctis, del Zio, Trani, Vincenzio Luca, Spaventa, Rafaele Mariano und so viele Andere drückten die Hegel'schen Gedanken mit einer Treffrichtigkeit und Leichtigkeit aus, die man in Deutschland zehn Jahre zuvor noch für unmöglich gehalten hätte.
+
+Eine Nation aber, die einen G. Bruno und Vico zu ihren classischen Autoren zählt, konnte sich mit ihrer Sprache an die Behandlung wagen.
+
+der kühnsten Abstractionen
+
+Es ist wohl keine Frage, dass diese philosophische
+
+Bildung der Italiener an der politisch - religiösen Wieder geburt ihres eben so schönen als lange Zeit so unglück lichen Landes einen grossen Antheil hat und noch mehr haben wird, sobald sich die Unabhängigkeit der Wissen schaft von der kirchlichen Bevormundung noch mehr reali siren und noch stärker befestigen wird. Augenblicklich waltet ganz begreiflich in den aufgeregten Geistern ein Durcheinander der verschiedensten Meinungen, deren chao tischem Gewirre gegenüber das consequente Festhalten des Hegel'schen Systems um so wohlthätiger und nachhaltiger wirken muss.
+
+## II. August Véra.
+
+Dies ist die That und das Verdienst des italienischen Philosophen August Véra.
+
+Er wurde am 4. Mai 1817 zu Amelia in der Provinz Umbrien geboren. Sein Vater war ein angesehener Rechtsanwalt. Er fing seine Studien im Seminar zu Amelia an. Ein Priester urtheilte schon damals über ihn, dass er ein Voltaire oder ein heiliger Augustin 1*
+
+[p. 4] Von Amelia kam er auf das Collegium von werden würde.
+
+Spello, einer kleinen Stadt zwischen Foligno und Spoleto und von hier zu einem Oheim nach Siena, wo er durch die Bekanntschaft mit dem Engländer Francis Leckie zuerst Englisch lernte. Von Siena schickte ihn sein Vater nach Rom, wo er sich in archäologische Studien vertiefte, und bei der jährlichen Preisbewerbung den zweiten Preis gewann. Er begleitete den berühmten Archäologen Mel chiade Fossati bei seinen Ausgrabungen in Canino, Grosseto, Chiusi und andern Orten und ging dann nach Paris, wohin Fossati ihn an Ballanche empfohlen hatte, der ihn mit väterlicher Freundlichkeit aufnahm. Nach einem Jahr ward ihm eine Professur auf dem Institut zu Hofwyl bei Bern angetragen, die er zwar annahm, jedoch nur fünf Monate bekleidete, weil ihm die puritanischen Sitten des Instituts nicht zusagten und er sich nach Frank reich zurücksehnte. Doch hatte er nicht nur Fellen bergs Bekanntschaft gemacht, sondern auch, was für ihn später so wichtig werden sollte, das Deutsche zu lernen Er wurde zunächst Lehrer zu Genf im In angefangen. stitut von Champel, dem Orte, wo Servet verbrannt worden. Er unterrichtete hier im Lateinischen, im Griechischen und in den Elementen der Philosophie, hielt es aber auch hier nicht lange aus und kehrte nach Paris zurück, wo Ballanche ihn mit Cousin im Hause der Madame Colet bekannt machte.
+
+Obwohl er noch keinen akademischen
+
+Grad besass, so ward er doch durch Cousin's Vermittlung, der ihn gern, wie er sich ausdrückte, unter seine Fahne einreihen wollte, nach Mont-de-Marsan, der Hauptstadt des Departements der Landes geschickt.
+
+Er machte das ihm vorbehalten gewesene Examen des Baccalaureats in Pau, wo der Professor Mezière ihn in der Philosophie prüfte und ihm ein grosses Lob spendete. wurde er zur Stellvertretung nach Toulon, Lille,
+
+Von Mont-de-Marsan von Professoren successiv
+
+Paris (am Lyceum Charle-Magne) ,
+
+L
+
+[p. 5] Rouen und Strassburg als sogenannter agrégé volant ge schickt, erwarb das Recht der Licenz in Lyon, in Paris 1844 die Würde eines agrégé de Philosophie und 1845 die eines Doctors der Philosophie. Er verfasste zu letzterem Zweck die Schrift: „Problème de la certitude" und die Dissertation: „de Platonis, Aristotelis et Hegelii de medio Der Minister Salvandy selber machte termino doctrina."
+
+ihm sein Compliment darüber.
+
+Véra hatte angefangen, in einigen Zeitschriften Artikel zu verfassen, von denen wir nur den über die Logik von Hegel 1840 in der Revue de Lyon erwähnen wollen. Er machte die nähere Bekannt schaft von Thiers,
+
+Remüsat,
+
+Victor Leclerc,
+
+Vacherot,
+
+Jules Simon, Guignault, Ozanam, St. Marc Girardin u. A. 1851 ging er nach England und blieb hier bis 1860, wo er nach Italien zurückkehrte. Er ertheilte in London Privatunterricht und hatte berühmte Männer zu Freunden, wie den Neffen Russels, Macaulay, Millmann, den Heraus geber Gibbons, Vandeweyer, den belgischen Gesandten, Oxendorf, den geistreichen Kritiker, Dixon, den Verthei diger Bacon's u. A. Auch nahm er fortwährend an der Journalistik, am „Athenäum“ , am „Emporio Italiano“ u. s. f. Die Hauptfrucht jedoch seiner Studien war 1855 seine: „Introduction à la philosophie de Hegel", durch welche er selbst die Aufmerksamkeit des Prinzen Albert auf sich
+
+Antheil.
+
+zog. Er versuchte es, den Engländern in englischer Sprache durch seine Schrift: „Inquiry into speculative and experi mental science" Geschmack für die Hegel'sche Philosophie abzugewinnen, und hatte damit einen viel günstigeren Er folg, als man bei den grossen und eingewurzelten Vorur theilen der Engländer gegen Hegel hätte erwarten dürfen. Mamiani veranlasste seine Rückkehr nach Italien, wo er zuerst eine Professur an der Akademie zu Mailand inne hatte, ein Jahr darauf aber nach Neapel versetzt ward. Véra ist ein philosophischer Kopf, der sich durch ein sehr umfassendes Studium der Geschichte der Philosophie [p. 6] und der exacten Wissenschaften für die Lösung seiner schweren Aufgabe vorbereitet hat, Hegel den romanischen Völkern zugänglich zu machen.
+
+Er ist zugleich ein sehr didaktischer Kopf, der jeden Schritt der Erkenntniss mit Umsicht einleitet, jedes Missverständniss mit Sorgfalt ab wehrt, aber auch mit gebieterischem Nachdruck fordert, dass, was gedacht werden soll, wirklich gedacht werde. Vor Allem aber ist er ein systematischer Geist, der die Wissenschaft beständig in ihrer Totalität vor Augen hat. Man kann ihn aber keinen Schulpedanten nennen, denn er hat in kleineren Abhandlungen über die Philosophie der Geschichte, über die Todesstrafe u. s. w. gezeigt, dass er einzelne Themata mit vollkommener Freiheit zu behandeln versteht.
+
+Innerhalb der Wissenschaft lässt er jedoch nur das System als wirkliche Wissenschaft gelten, weil der Beweis der Wahrheit allein durch den Zusammenhang dar gethan werden kann, der jede einzelne Bestimmung zugleich als durch alle übrigen vermittelt setzt und umgekehrt. Einheit in der Totalität ihrer Momente ist das erste Bedürfniss der Wissenschaft.
+
+Seine vorhin erwähnte „Introduction à la philosophie de Hegel" ist eine durch Ruhe und Klarheit mustergültige Schrift.
+
+Sie ist aber nicht blos, wie der Titel besagt, eine Einleitung in die Philosophie Hegel's, sondern in die Philosophie überhaupt. rigkeiten in der richtigen Fassung
+
+Alle Schwie philosophischen
+
+Probleme, alle mangelhaften Definitionen der .philosophischen Begriffsbestimmungen werden mit wahrhaft pädagogischer Weisheit durchgenommen. Dies vortreffliche Werk hat 1864 eine vermehrte und verbesserte Auflage mit einer sehr umfangreichen Vorrede erfahren, in welcher Véra den Anspruch der Hegel'schen Philosophie, Wissenschaft der Wahrheit zu sein, energisch verficht.
+
+Vom Allgemeinen wendet er sich darin speciell gegen drei ihrer Widersacher, gegen Foucher de Careil, gegen Schopenhauer und gegen Trendelenburg.
+
+[p. 7] erstere hatte in Schopenhauer.
+
+einem ausführlichen Werk:
+
+„Hegel et
+
+Études sur la philosophie Allemande depuis
+
+Kant jusqu'à nos jours.
+
+Paris 1862 ", eine Schilderung von
+
+Hegel in der Art gegeben, dass er seine Philosophie als eine Illusion behandelte, die in dem Wahn stehe, das ab solute Wissen zu besitzen. Diese Illusion sei überdem in einer barbarischen Sprache dargestellt, die, zumal für einen Franzosen, völlig ungeniessbar erscheine.
+
+Schopenhauer hingegen müsse zwar seines Pessimismus halber (Foucher de Careil ist Leibnitzianer) bestritten werden, allein seiner Kritik der philosophischen Systeme sei er meister haft und jedenfalls geeignet, die Deutschen zur wahren Philosophie zurückzuführen, besonders auch weil er einen klaren, geistvollen, witzigen Styl schreibe, der das gerade Gegentheil von Hegel's krauser Verworrenheit ausmache und Schopenhauer den Franzosen, namentlich Voltaire, an nähere.
+
+Véra vertheidigte nun Hegel gegen die oberflächliche Auffassung Foucher's und bekämpfte das günstige Urtheil desselben über Schopenhauer, weil es diesem gänzlich an einem wirklichen, consequent in sich zusammen hängenden System gefehlt habe. Er treibe sich in den ärgsten Widersprüchen umher und verdiene nur den Na men eines philosophischen Dilettanten.
+
+Gegen Trendelenburg wendete er sich, weil derselbe durch seine centrale Position in Berlin zu dem Ruf gelangt sei,
+
+„Logischen Untersuchungen"
+
+seinen das Hegel'sche System ge stürzt zu haben. Véra behauptet, dass Trendelenburgs Werk nichts als eine monströse Entstellung der Hegel schen
+
+Dialektik sei, den gänzlichen Mangel an speculativer Kraft zur Durchdringung philosophischer Probleme verrathe. Trendelenburg setze dem Sein das Denken gegenüber, welche beide in der Bewegung identisch sein sollten, die als solche unerklärlich sei. Véra sucht nun das Willkürliche und darum Falsche dieser Triade von Sein, Denken und Bewegung darzuthun und beweist [p. 8] der einzig wahre Anfang des Systems immer nur der Begriff des Seins, des Nichtseins und des Werdens als ihrer Einheit sein könne.
+
+Trendelenburg nehme die Philosophie sehr ernst und sei ein sehr gelehrter Mann, der in Platon und Aristoteles ausserordentlich belesen sei. Allein man könne sehr ernsthaft und voll von historischen Kennt nissen sein, ohne deshalb in solchen an sich lobenswerthen Eigenschaften die Bürgschaft dafür zu besitzen, auch das an und für sich Wahre wahrhaft zu wissen. Nachdem Véra sich durch seine „Introduction" den Boden bereitet, ging er zur Bearbeitung der „Logik“ fort und gab 1859 zu Paris in zwei Bänden eine Uebersetzung und Commentirung der Hegel'schen Logik heraus: „Logique de Hegel, traduite pour la première fois et accompagnée d'une introduction et d'un commentaire perpetuel."
+
+Er legte darin den in meiner Ausgabe der Hegel'schen Encyklopädie enthaltenen Text zu Grunde und fügte demselben Erläuterungen aus Hegel's grosser dreibändiger Logik hinzu. Wo ihm auch diese für das Verständniss noch nicht auszurei chen schienen, gab er eigene Aufklärungen. Man muss bedenken, was es heisst, Hegel in's Französische zu über setzen, um das ganz ausserordentliche Sprachtalent Véra's nach Verdienst zu würdigen.
+
+Aber auch nur einem Manne, der so tief, wie er, in Hegel's Gedanken eingedrungen ist, der sich so ganz in ihn hineingelebt hat, konnte dies Wag niss mit solchem Erfolg glücken. Es klingt vielleicht sonderbar, allein es ist buchstäblich wahr, dass Hegel's Ge danken in dem französischen Ausdruck oft an Deutlichkeit gewonnen haben, was sie an Originalität der deutschen Sprachwendungen einbüssen mussten. Die französische Sprache zwingt unerbittlich zur logischen Ordnung des Satzes. Der Verstand kann sich im Französischen nicht verläugnen, wenn er es möchte.
+
+Die Folge davon ist allerdings eine grosse Einförmigkeit des Periodenbaus, die aber dem Verstande günstig ist, weshalb ja auch die [p. 9] neuere Diplomatie, nachdem lateinische Sprache für sie in Abgang gekommen war, die französische zu ihrem Instrument machte. Wer jetzt noch klagen sollte, dass er Hegel in der deutschen Sprache nicht zu verstehen ver möge, dem kann man nunmehr Véra's Uebersetzung empfehlen.
+
+Diese muss er verstehen, versteht sich, wenn er den zu philosophischer Erkenntniss Verstand mitbringt.
+
+überhaupt nöthigen
+
+Als eine ganz ausserordentliche Leistung betrachte ich die Einleitung, die Véra selber I, p. 1–159 zur Logik geschrieben hat. Sie führt seine in der „Introduction" schon angedeuteten Gedanken mit so viel Umsicht, einem so zweckmässigen Eingehen auf die Geschichte der Logik, mit einer solchen didaktischen Sicherheit auch in den schwierigsten Passagen aus, dass zu wünschen wäre, sie möchte eine recht allgemeine Verbreitung finden. Als besonders gelungen möchte ich noch die Auseinandersetzung des Verhältnisses der Hegel'schen Philosophie zur antiken, die Würdigung der Platonischen Dialektik, die Beurtheilung des inneren Zusammenhanges der Logik des Aristoteles mit seiner Metaphysik, die Nachweisung des Widerspruchs als eines auch ontologischen Gesetzes, und die Entwicklung des Begriffs der Methode hervorheben. Die Hegel'sche Logik unterscheidet sich von der alten Metaphysik und Logik dadurch, dass sie beide in sich als Momente einer höheren Einheit, der logischen Idee, aufhebt und ihnen damit einen andern Charakter und ein anderes Verhältniss unter einander ertheilt.
+
+Der Begriff der logischen Idee ist der Inbegriff aller Bestimmungen, welche dem von der Natur wie vom Geist abstrahirenden reinen Denken angehören. Diese Be stimmungen sind nicht nur die des Denkens selber, sondern sie sind auch Kategorien, zu denen es sich selber bestimmt. Aber sie sind, als Bestimmungen des von jedem besondern Inhalt abstrahirenden, sich actu nur in sich bewegenden Denkens zugleich diejenigen Bestimmungen, in denen sich [p. 10] alle Realität der Natur und des Geistes als in ihrer noth Sie sind in wendigen allgemeinen Form bewegen muss.
+
+sofern die ideellen Mächte, von denen die Entwicklung des Seins abhängt.
+
+Sie sind das absolute A priori.
+
+Diese Selbstständigkeit der logischen Idee als einer der Idee der Natur und der Idee des Geistes der Dignität nach coordinirten zu fassen, wird allen schwer, welche bei dem Worte Logik nur an den subjectiven Process des Den- . kens als eines psychischen Actes zu denken sich gewöhnt haben. Noch schwerer wird es ihnen, zu denken, dass Natur und Geist, ihrer Eigenthümlichkeit unbeschadet, der Nothwendigkeit der logischen Idee relativ subordinirt sind. Nicht als wenn sie nicht unbewusst und gleichsam wider willig die Herrschaft der logischen Idee anerkennen müssten, denn wir sehen sie bei der Natur wie bei dem Geist überall an die Vernunft appelliren d. h. die Wirksamkeit der logischen Idee als eine in aller Realität gegenwärtigen vor aussetzen, aber wenn sie dem Gedanken in seiner Unbe dingtheit die Ehre geben sollen, verleugnen sie ihn doch wieder. Er erscheint ihnen gegen das Stoffliche, Empirische, Thatsächliche, dann wieder so ohnmächtig, so über flüssig, dass sie ihn plötzlich wieder nur für ein Vehikel ausgeben, dessen wir uns bedienen, um die Erscheinungen des Realen übersichtlich zu ordnen, bequem zu gruppiren. Von den Widersprüchen, welche dadurch entstehen, giebt Véra aus einer in England beliebten Logik des Dr. Whately ein schlagendes Beispiel. Natürlich kann das Denken nicht ohne ein Subject existiren, von welchem es gedacht wird. Das Subject, welches das ursprüngliche Denken selber ist, nennen wir Gott. Die Vernunft als die Totalität aller sogenannten Gesetze des Denkens, ist göttlich, weil das Denken Gottes selber die Vernunft ist. Die Vernunft ist es, welche Gott mit dem Menschen vereinigt. menschlich.
+
+Der Logos ist gott
+
+[p. 11] Der Begriff der Vernunft erschöpft nicht den Begriff Gottes, denn Gott ist, als absolute. Vernunft, wesentlich auch Geist; d. h. er ist nicht nur denkendes, sondern auch wollendes Subject.
+
+Ohne Denken würde er nicht wollen können, aber die Nothwendigkeit der logischen Bestimmungen allein würde ihn noch nicht zum Gott machen. Er muss auch frei sein, um sich productiv verhalten zu können. Die Freiheit Gottes enthält die Vernunft als ihre eigene Nothwendigkeit in sich d. h. die Vernunft wird zur immanenten Methode der göttlichen Manifestation. Es scheint, als wenn die Italiener sich in den Begriff der logischen Idee als des Princips des absoluten Idealismus schneller hineingefunden haben als die Franzosen, welche durch die lange Herrschaft des Cousin'schen Eklekticismus noch immer in einer heillosen Verwirrung und Vermischung aller möglichen Standpuncte fortleben. Sie könnten nichts Besseres thun, als bei Véra in die Schule gehen, allein er kommt ihnen zu herbe, zu trocken, zu pedantisch vor. Der weichliche, schönrednerische Eklekticismus scheuet vor der strengen Zucht des Gedankens, vor der Festigkeit einer systematischen Ordnung zurück.
+
+Er declamirt gern von
+
+Harmonie, Organisation ,„höherer" Einheit, von den Ideen des Wahren, Guten und Schönen, aber man muthe ihm doch nur nicht zu, ein wirkliches System zu haben. Véra wurde von ihm, wie vorauszusehen gewesen, hart ange griffen.
+
+Er brachte so ziemlich dieselben Vorwürfe gegen ihn vor, welche wir auch in Deutschland seit so vielen
+
+Jahren als stereotype gegen die Hegel'sche Philosophie haben vornehmen müssen. Hegel habe Newton nicht ver standen und mit empörendem Hochmuth gemisshandelt;
+
+seine Philosophie sei zu idealistisch, um nicht die Gelehr samkeit zu unterschätzen und den gesunden Menschenverstand zu beleidigen; sie sei Pantheismus; sie widerspreche als Gnosis der christlichen Religion, obwohl sie dieselbe scheinbar sich anzueignen suche u. s. w.
+
+Diese und andere
+
+[p. 12] Vorwürfe wurden Véra als einem Hegelianer vom reinsten Wasser besonders von Paul Janet in seinen „Études sur la dialectique dans Platon et dans Hegel," Paris 1860; und von Emile Saisset im Decemberheft der Revue des deux mondes 1860, in einer Abhandlung:
+
+„Leibnitz d'après de nouveaux documents" gemacht.
+
+Véra et Hegel schrieb dagegen:
+
+„L'Hegelianisme et la philosophie" Paris 1861. Véra schulmeistert darin seine Gegner in einer zuweilen sehr empfindlichen Weise, indem er ihnen ihre falschen Begriffe und falschen Schlüsse mit kaltblütiger Gelassen heit aufdröselt. Er hatte ja selber dem Eklekticismus unter Cousin lange genug gehuldigt, ihn gründlich kennen zu lernen und wäre ja nicht aus ihm herausgegangen, wenn er eine wahrhaft wissenschaftliche Befriedigung in seiner Akrisie zu finden vermocht hätte. Es fehlt Véra jedoch nicht an einem gewissen kaustischen Witz, an einem trok kenen Humor, seine Katechesen zu beleben. Als ganz vorzüglich muss seine Auseinandersetzung der Einheit aber auch des Unterschiedes der platonischen Dialektik und der Hegel'schen hervorgehoben werden. Es ist zu bedauern, dass man solche Streitschriften gewöhnlich nur als eine Privatangelegenheit ihrer Verfasser mit ihren Gegnern ansieht und den allgemeinen Gehalt, den sie bergen, zu wenig beachtet. Véra liess sich durch diese Opposition nicht beirren, sondern schritt mit rüstiger Ausdauer weiter, indem er von 1863 bis 1866 die Uebersetzung und Commentirung von Hegel's Naturphilosophie zu Stande brachte: „Philosophie de la nature de Hegel, traduite pour la première fois et accompagnée d'une introduction et d'un Commentaire perpétuel par A. Véra." Paris, 3 Tom., 1863, 64, 66. Véra hat die Naturphilosophie Hegel's nach dem Text der Encyklopädie in meiner Ausgabe 1845 mit den Zu sätzen übertragen, welche Michelet zu dem Abdruck der [p. 13] Naturphilosophie in Hegel's Gesammelten Werken, Bd. VII. 1842, aus eigenen Heften Hegel's und aus bei ihm nach Zu dieser geschriebenen Collegienheften gemacht hat. Uebersetzung hat er aber eine ausführliche Einleitung, Anmerkungen, und, wo es ihm möglich schien, erläuternde Excurse von grösserem Umfang hinzugefügt.
+
+## Hegel's Naturphilosophie.
+
+Man darf annehmen, dass das Vorurtheil gegen die Hegel'sche Philosophie in Deutschland sich auf keinem Punkt mit grösserer Entschiedenheit fixirt hat, als in Ansehung der Naturphilosophie.
+
+der Logik, im Naturrecht,
+
+Man räumt ein, dass Hegel in der Aesthetik,
+
+Religionsphilosophie und in der Geschichte der Philosophie, nicht ohne originelle Ansichten, nicht ohne nachhaltige
+
+Wirkung gewesen sei; für die Naturphilosophie hingegen spricht man ihm nicht nur alles Verdienst ab, sondern betrachtet ihn wohl sogar als einen für das Studium der Naturwissenschaften gefährlichen Philosophen, weil er die selben logisch behandeln wolle, daher voreilig a priori construire und die Empirie vernachlässige. Dass man ihm für die Naturphilosophie alles eigene Verdienst abspricht, hat seinen Grund in der Vorstellung, als ob er in dieser Wissenschaft lediglich Schelling's An sichten wiederholt habe, während aus der Geschichte seines Systems, wie ich sie 1844 in meinem „Leben Hegel's" er zählt habe, hervorgeht, wie bedeutend, bei vielfacher Ueber einstimmung, auch hier von Anfang an seine Differenz von Schelling war. Er hat seine Naturphilosophie, wie alle übrigen Theile seines Systems, allmälig zu immer grösserer Vollkommenheit herangezogen. Als er nach Jena kam, brachte er schon eine Naturphilosophie mit, von welcher ich a. a. O. S. 112-123 einen Auszug mitgetheilt habe.
+
+[p. 14] Er setzte darin der Natur bereits die logische Idee voraus, machte aber von dieser den Uebergang zur Natur durch den Begriff des Aethers, den er später ganz und gar fallen gelassen hat. Die ganze Natur fasste er als ein System, das in zwei Systeme, in das der Sonne und in das der Erde, sich unterschied. In jenem und Zeit;
+
+entwickelte er
+
+1) den Begriff von Raum
+
+2) den der Bewegung; 3) den Begriff der verschiedenen Formen der Bewegung der himmlischen Körper des Sonnensystems, nämlich des solarischen, kometarischen, lunarischen und planetarischen Körpers.
+
+In diesem unterschied Physik; 3) die Organik.
+
+er 1) die Mechanik; 2) die Unter dem Namen der Mechanik behandelte er nur die endliche Bewegung des trägen Körpers in Stoss und Fall. In der Physik sonderte er einen idealen Process von einem realen. Der ideale sollte die Einheit aller physikalischen Processe der Erde ent halten, durch welche sie als allgemeine Individualität sich beständig in sich selbst erneut. Stickgas, Sauerstoffgas, das Er ging hier von dem er noch Phlogiston nannte,
+
+Wasserstoffgas und Kohlenstoffgas als einer Tetras aus, deren Extreme eine zweigliedrige Mitte in sich schlössen. Der Gegensatz der Extreme wiederhole sich also im Gegen satz der Mitte, zugleich aber sei in den Momenten der selben ein doppelter Uebergang vom Allgemeinen zum Be sondern, vom Besondern zum Einzelnen enthalten. Luft und Erde seien untereinander so entgegengesetzt wie Wasser und Feuer. Dieser Gedanke war aus dem Platonischen Timäus genommen. Der reale Process sollte die endlichen chemischen Elemente und den endlichen Chemismus in sich fassen. Hegel fing hier mit der Mineralogie an, die er ganz ausführlich durchnahm. Die mineralogische Societät in Jena machte ihn auch zu ihrem Assessor. Die erste öffentliche Aeusserung seiner naturphiloso phischen Ansichten machte er 1801 in seiner Dissertation:
+
+[p. 15] „de orbitis planetarum," worin er die Kepler'schen Gesetze a priori abzuleiten unternahm.
+
+Er kehrte sich schon hier stark gegen Newton, weil derselbe den Begriff des Mathematischen mit dem Physischen zusammengewirrt habe.
+
+spreche von physischen Kräften und behaupte hinterher, es sei das nur in mathematischem Sinn geschehen. Eine mathematische Linie, z. B. die Tangente, kann keine Kraft haben, allein man gewöhnt sich, von der Tangentialkraft zu sprechen. - Unter den dieser Dissertation angehängten Thesen ist die dritte bemerkenswerth: quadratum est lex naturae, triangulum mentis. Diese Vorstellung, dass im Begriff der Natur das Moment der Besonderheit als eine in sich gebrochene Mitte darstelle, hat Hegel auch später festgehalten. Die Triplicität des Begriffs wird dadurch nicht aufgehoben. Die bestimmte Lossage von der Schelling'schen Natur philosophie gab Hegel 1807 in seiner „Phänomenologie des Geistes" ziemlich ausführlich in dem Abschnitt: Beob achtende Vernunft." Doch ist es zu verwundern, dass man diese schärfste Kritik des Schelling'schen Construirens, Pa rallelisirens, Potenzirens, bei der Beurtheilung Hegel's in seinem Verhältniss zu Schelling ausser Acht gelassen und sich dafür immer nur an die Vorrede der Phänomenologie gehalten hat. Die Fortbildung der Hegel'schen Naturphilosophie können wir nur aus seiner „Philosophischen Propädeutik" ersehen, die ich
+
+1840 habe drucken lassen.
+
+Sie zerfällt hier, S. 169-178, in drei Theile: I. in die Mathematik;
+
+II. in die Physik; III. in die Physik des Organischen. Die Absonderung der Mathematik ist hier neu.
+
+subsumirt darunter, wohl nicht ohne pädagogische Rück sicht auf die Schüler, die Geometrie, die Arithmetik und ― In der Physik unterscheidet die Analysis des Unendlichen.
+
+[p. 16] er jetzt die Mechanik von der Physik des Unorganischen. Als Gegenstand der ersten bestimmt er die Materie, ihre Schwere, und ihre theils endliche, theils freie Bewegung. Dies war ein grosser Fortschritt.
+
+Als
+
+Gegenstand der zweiten bestimmte er im Allgemeinen das Licht, im Be sondern den Magnetismus, die Elektricität und die physischen Körper, wie sie als physikalische Elemente, als himmlische Körper und in weiterer Vereinzelung und Vertheilung als irdische qualitativ differente Körper vorhanden sind. Im Einzelnen ist der chemische Process die absolute Form In der Physik des Organi der unorganischen Physik.
+
+schen unterschied er hier 1) die Geologie nach den Momenten der Geognosie, Oryktognosie und Mineralogie; 2) die vegetabilische Natur als Pflanzenphysiologie und Botanik; 3) die animalische Natur Anatomie und Zoologie.
+
+als Physiologie, comparative
+
+Hierdurch wird uns die Gestaltung verständlich, welche er 1817 der Naturphilosophie in seiner „Encyklopädie der philosophischen Wissenschaften" zu Heidelberg gab, denn hier behielt er die nämliche Eintheilung in Mathematik, Physik des Unorganischen und des Organischen bei. Als er zehn Jahr später 1827 eine zweite Ausgabe der Encyklopädie zu veranstalten hatte, änderte er die Eintheilung in sehr bedeutender Weise ab. Der Ausdruck „Mathematik" blieb ganz fort.
+
+Er machte die „Mechanik"
+
+zum ersten Theil überhaupt und integrirte ihr die Lehre von Raum und Zeit, die er sonst Mathematik genannt hatte. Nachdem er dies gethan, musste er auch die Ein theilung des zweiten Theils ändern und that dies dadurch, dass er den Begriff der specifischen Schwere und der Cohäsion aus dem dritten Abschnitt der Physik des Unorganischen herausnahm und als ein selbstständiges Glied in die Mitte zwischen den elementarischen Process einerseits und den chemischen anderseits versetzte.
+
+Dies war ein sehr richtiger Gedanke, weil die specifische Schwere als [p. 17] solche zunächst mit der individuellen Form eines Körpers nichts zu schaffen hat. Er nannte die Unterschiede der Physik jetzt die Physik 1) der allgemeinen; 2) der beson deren; 3) der totalen Individualität. Unter der ersteren verstand er die freien physischen Körper, d. h. die kos mischen, unter der zweiten: »Die Beziehung der Form als physischer Bestimmung und Bestimmung der Schwere durch sie« ; unter der dritten den chemischen Process.
+
+Diese geschichtliche Uebersicht des Bildungsprocesses Hegel'schen Naturphilosophie kann den Eindruck machen, als handelte es sich bei ihr um eine immer an dere Stellung an sich fertiger Begriffe, allein der Grund davon ist das Bestreben, die Wissenschaft der Natur als ein systematisches
+
+Glied
+
+Systems der Wissenschaft überhaupt zu fassen. Das Erkennen geht als wissenschaftliches auf den Be griff der Vernunft, der 1) als gedachter Begriff in der Form der logischen Idee; 2) als zur materiellen Existenz veräusserlicht in der Natur; 3) als sich selbst denkendes und wollendes Subject im Geist existirt. Die Natur steht also zwischen der logischen Idee und dem Geist in der Mitte. Sie ist durch ihre Aeusserlich keit sowohl der logischen Idee als dem Geist entgegen gesetzt. Sie hebt aber die logische Idee in sich auf, während der Geist wiederum die Natur in sich aufhebt und sie seiner Freiheit als Organ unterordnet. Jede
+
+Sphäre des Absoluten, logische
+
+Idee,
+
+Natur,
+
+Geist, ist in sich selbstständig, aber an und für sich sind alle drei Eines.
+
+Eine jede kann daher zwar nur aus sich selbst verstanden, vollständig jedoch nur in ihrer Einheit mit den beiden anderen begriffen werden. Als in sich unterschiedene Einheit ist das Ganze das absolute System, in welchem jede Sphäre für sich wiederum ein System ausmacht. Die Natur ist mithin nur als System wirklich erkennbar.
+
+[p. 18] Die Empirie scheuet zwar das System nicht, wo sie das Detail behandelt, denn sie spricht unbefangen von dem System der Winde, der Mineralien, der Knochen u. s. w. , allein sie fürchtet das System der Totalität, um nicht, wie sie sagt, durch künstliche Beziehung den Thatsachen einen falschen Zwang anzuthun und damit die beeinträchtigen.
+
+Wahrheit zu
+
+Die Speculation kann dieselbe Besorgniss hegen, muss aber den Versuch des Systemes machen, weil er allein die denkende Vernunft befriedigt. Die Empirie behauptet, dass sie mit der Erkenntniss der besonderen Gesetze der Natur sich genüge.
+
+Jedes Gesetz wirkt für sich nach seiner Nothwendigkeit, aber in einem und dem selben Naturphänomen können gleichzeitig verschiedene Gesetze zusammenwirken, was offenbar unmöglich wäre, wenn sich ihr Unterschied nicht zur Einheit könnte.
+
+aufheben
+
+Obwohl also jedes Gesetz für sich rücksichtslos gegen die andern die einzelne ihm untergeordnete Erscheinung bestimmt, so muss doch ein Zusammenhang der Gesetze existiren, aussetzen. Einheit.
+
+in welchem sie sich gegenseitig vor
+
+Dieser Zusammenhang ist ihre systematische
+
+Der Einwand der Empirie, dass ihre Erfahrung noch zu unvollständig sei, um ein System zu begründen, bleibt sich zu aller Zeit gleich, und insofern dürfte der Versuch eines solchen niemals gemacht werden, denn der Assimi lationsprocess der Erfahrung kann niemals abgeschlossen werden. Sie wird in's Unendliche hin Neues entdecken. Die Speculation geht aber nicht auf äussere Vollständig keit, sondern auf Erkenntniss des Wesens der Dinge. Die Frage, was die Materie, was die Zeit, was das Leben u. s. w. sei, hat Platon und Aristoteles vor zweitausend Jahren eben so beschäftigt, als dies mit den Philosophen nach Tausenden von Jahren der Fall sein wird. Trotz aller empirischen Erweiterungen der Naturkenntniss wird das eigentliche Räthsel der Welt immer wieder neu sein.
+
+[p. 19] Ohne die Empirie würde die Speculation freilich von der Natur nichts wissen. Sie bleibt für die Kenntniss der selben von der Erfahrung abhängig, und die empirische Wissenschaft erblickt deshalb in der philosophischen öfter einen undankbaren Parasiten, der in vornehmem Müssig gang die Resultate ihrer sauren Arbeit verzehre. spricht dann vom Denken als einer luftigen Speculation, als einer metaphysischen Träumerei, als einer willkürlichen, nur formalen Combination.
+
+Allein durch die empirische
+
+Vermittelung wird die Selbstständigkeit nicht aufgehoben, welche dem reinen Begriff zukommt, der von dem relativen Mangel oder Ueberfluss der Erscheinung frei ist, wie z. B. gegen den Begriff des Punktes und der Linie jede empirische Existenz eines Punktes oder einer Linie un vollkommen ist. Als System machen die Unterschiede der Natur zu gleich Stufen aus, in deren Folge die Natur von der niedrigeren zur höheren fortgeht.
+
+Die niedrigere ist nicht die Ursache, wohl aber die Bedingung der höheren.
+
+Jede
+
+Stufe als ein nothwendiges Moment des Ganzen ist relativ selbst Totalität, weshalb die Darstellung einer solchen sehr oft nicht umhin kann, bereits Begriffe zu berühren, die erst im weiteren Verlauf ihrer eigenthümlichen Selbstständigkeit nach auftreten. Solche relative Anticipationen sind nicht mit incorrecten Vermischungen der Begriffe zu verwechseln, wie die empirische Wissenschaft sich dieselbe erlaubt. Die höhere Stufe muss sich dadurch als die höhere bewähren, dass sie alle ihr vorangängigen niedrigeren in sich aufhebt. Dies Aufheben des relativ Niedrigeren im Höheren ist keine blosse Negation, sondern zugleich eine positive und in ihrem Process selber gesetzmässige Umbil dung desselben. Der Chemismus z. B. hebt den Mechanismus, der Organismus den Mechanismus und Chemismus in sich auf, ohne dass die Gesetzlichkeit weder des Mechanis 2* [p. 20] mus noch des Chemismus an sich alterirt würde.
+
+Thier entreisst sich durch seine Selbstbewegung der Macht der Schwere, hört aber deshalb nicht auf, schwer zu sein und in seinem Schwerpunkt dem Gesetz der Schwere zu gehorsamen. Ebenso geht es in seiner Verdauung über den Chemismus hinaus, ohne deshalb das Gesetz desselben zu negiren, denn die chemische Beschaffenheit des Nah rungsstoffes macht sich geltend, obwohl sie relativ von der Kraft des Lebens überwunden wird. Das Eigenthümliche der Hegel'schen Naturphilosophie liegt also in ihrer Dialektik, die man jedoch nicht als eine subjective und formale, sondern als eine objective und reale zu nehmen hat.
+
+Es ist unmöglich, in der Entwicke lung der Natur den Stufengang zu verkennen, allein es macht einen grossen Unterschied für die Behandlung aus, ob sie demselben nur empirisch nachgeht, oder ob sie von einem ausdrücklichen Bewusstsein über den Werth der logischen Kategorien begleitet wird, welche darin mitbestim mend sind. Dieses Bewusstsein unterscheidet die Hegel sche Arbeit von den Darstellungen, welche die Natur philosophie in der Schelling'schen Schule empfangen hat. In diesen ist es immer die Analogie, durch welche sich die Erkenntniss orientirt. Es wird beständig das Un organische mit dem Organischen verglichen; im Organischen wird wiederum eine Sphäre mit der andern, oder es wird rückwärts das organische Gebilde oder die organische Function mit einem unorganischen Element, mit einem un organischen Process verglichen.
+
+Es entsteht dadurch auch eine gewisse Dialektik, die jedoch unsicher bleibt, weil ihr viel Zufälliges und Willkürliches anhaftet, wodurch sich die Schelling'sche Naturphilosophie trotz der ausserordentlichen Anregung, die von ihr ausging, bei der exacten Naturwissenschaft das Vertrauen verscherzte. Gegenwärtig ist der ehrwürdige, durch rastlose Arbeit und viele sinn reiche Forschungen so unendlich verdiente C. G. Carus [p. 21] der einzige Repräsentant dieser Richtung. Er hat auch eine Naturphilosophie geschrieben: »Natur und Idee oder das Werdende und sein Gesetz. Eine philosophische Grund lage für die specielle Naturwissenschaft« , Wien, 1861.
+
+Es sind darin ganz vortreffliche Entwickelungen gegeben, allein man wird sehr bald bemerken, wie Carus die Kategorien, mit denen er operirt, wechselt, ohne dass diese Kategorien und ihr Zusammenhang unter einander festgestellt werden. Bald ist es der Stoff und die Form, bald ist es der Stoff und die Kraft, bald ist es das Allgemeine und Besondere, bald das Besondere und das Allgemeine, bald ist es das Gesetz und die vor ihm als das Werdende beherrschte Erscheinung, bald ist es der Aether und bald ist es die Idee u. s. w. , die er als Hebel ansetzt.
+
+Der von einer reichen Anschauung getragene Blick des Naturphilosophen, der mit liebevoller Sympathie den Gestaltungen der Natur folgt, kommt so weit, rationale und irrationale, calculable und incalculable, commensurable und incommensurable Verhältnisse in ihren Gegensätzen und Verkehrungen zu ent decken, aber er gelangt nicht so weit, das Negative als ein constantes Moment der Bewegung festzuhalten. Hegel hat die Schelling'sche Epoche selber durchlebt und hat von ihren Einflüssen nicht frei bleiben können; die Ausdrücke, in denen er vor der Ausarbeitung seiner Logik die Natur zuweilen beschreibt, erinnern oft nur zu sehr daran, allein er hat unablässig nach einer strengeren wissenschaftlichen Erkenntniss gerungen. Wenn man die Geschichte seiner Naturphilosophie überblickt, so sieht man, wie er ursprünglich davon durchdrungen gewesen ist, den Unterschied des solarischen, lunarischen, kometarischen und planetarischen Körpers als Ausgangspunkt zu nehmen, ihn aber, je mehr er sich dem Organischen nähert, fallen zu lassen gezwungen ist. Sie treten zuerst in der Mechanik auf.
+
+Der solarische
+
+Körper ist der centrale; der lunarische und kometarische [p. 22] sind ihm als achsenlose Bewegung entgegengesetzt; der planetarische dreht sich um seine eigene Achse und zu gleich um die des Centralkörpers.
+
+་
+
+In der Physik wird nun nach Hegel der solarische Körper zum Lichtcentrum; die Körper des Gegensatzes zur Realisation des Dunkeln, der Mond als feste, ausgebrannte Schlacke, der Komet als diaphane Materie; der Planet zum Körper der concreten Totalität, in welchem das Lunarische zum gediegenen Kern, das Kometarische zur Gashülle, das Solarische zur Sollicitation seiner individuellen Fruchtbarkeit wird. Die physischen Elemente des Planeten bringen in der Luft das Element für das durch sie hindurchströmende Licht hervor; im Feuer reproduciren sie das lunarische, im Wasser das kometarische Moment; im tellurischen Element verknoten sich Luft, Feuer, Wasser zu einem unaufhörlich sich selbst anfachenden Process, in welchem die Luft zum Winde, das Feuer zum Gewitter, in der Erde als Erdbeben, in der Luft als meteorisches Gewitter, das Wasser zur Wolke in der Luft, zur Quelle in der Erde wird. Die Physik der besonderen Individualität reproducirt das Moment der Centralität in der specifischen Schwere, das der lunarischen Starrheit in der Cohärenz, das der kometarischen Auflösung im Klange, das der planetarischen Fruchtbarkeit in der Wärme. Unter dem Ausdruck der totalen Individualität ver steht Hegel den Begriff der Gestaltung des physischen Körpers als eines Individuums, den Begriff seiner besonderen Eigenschaften und des chemischen Processes.
+
+Die Gestaltung begründet er als krystallische durch den Magnetismus; in seinem Verhalten nach Aussen kehrt der Körper als individuell physischer zu den fundamentalen Beziehungen der Natur zurück, nämlich im Verhältniss zum Licht, durch die Durchsichtigkeit, durch die Brechung des Lichts und die Farbenerzeugung; im Verhältniss zum Licht als [p. 23] specificirte Luftigkeit oder Geruch; im Verhältniss zum Wasser als specificirte Flüssigkeit oder Geschmack; in der totalen Einheit des Magnetismus mit allen diesen Eigenschaften des Leuchtens, Riechens und Schmeckens als Elektricität. ――――――― Im chemischen Process unterscheidet sich die Synsomatie als die blosse Vermischung chemischer Stoffe vom realen Process der Neutralisation, Scheidungsprocess.
+
+Die Luft findet sowie dieser vom
+
+Stickstoff,
+
+Feuer im Sauerstoff, das Wasser im Wasserstoff, die Erde im Kohlenstoff ein specificirtes Element, das nicht mit den Metallen und Erden coordinirt werden darf. Die Luft tritt bei Erzeugung des Galvanismus, das Feuer bei dem chemischen Verbrennungsprocess, das Wasser bei der Salz bildung auf. Im chemischen Process beziehen sich die Körper durch ihre eigene Affinität bereits derartig auf einander, dass sie durch ihr neutrales Product zu einer von ihnen selbst qualitativ verschiedenen Einheit übergehen. Sie gehen aber noch in das Product auf, das nur von Aussen her zur Bewegung, zur Auflösung, zur Scheidung gelangen kann, während das Lebendige sich aus sich selbst in den Unterschieden seiner Einheit wieder erzeugt. Das Princip der Organik ist daher nach Hegel die Subjectivität, welche als Einheit sich selbst in ihre Unterschiede zerlegt, um sie in sich zurückzunehmen.
+
+Das allgemeine Subject ist der Erdorganismus; das besondere, welches ihn schon vor aussetzt, die Pflanze, das einzelne, in welchem die Natur nicht nur zur freien Individualität, sondern in derselben auch zum Genuss ihrer selbst gelangt, das Thier. Natürlich tritt der pflanzliche, wie der thierische Organismus in ein Verhältniss zum Unorgarnischen, aber um sich als Macht desselben in seiner Assimilation zu erweisen. Das Thier verdaut die Stoffe, es athmet die Luft, es dürstet nach Wasser, es sieht das Licht, es empfindet alle Quali täten der specifischen Materie u. s. w.
+
+## Véra's Einleitung in Hegel's Naturphilosophie.
+
+[p. 24]
+
+Ob sich Hegel's Naturphilosophie in Allem bewähren wird, ist problematisch, wenn man bedenkt, dass er für das Detail doch von der Empirie seiner Zeit abhängig blieb.
+
+Seine grosse That, dem logischen Element auch in der Sphäre der Natur Geltung zu schaffen, wird dadurch nicht verkümmert. Véra ist kein blinder Bewunderer Hegel's, allein im Ganzen bemühet er sich, zunächst Hegel's Begriffe und Intentionen als wahr nachzuweisen.
+
+Um dies besser zu vermögen, hat er seiner Uebersetzung und Com mentirung eine Einleitung vorangeschickt, aus welcher ich einige Hauptpunkte, die auch für uns Deutsche von allge meinerem Interesse sind, herausheben werde. Véra wirft zuerst einen Blick auf die Geschichte der Naturphilosophie, um zu zeigen, dass die Hegel'sche ein wahrhaft originales Werk sei, weil sie zuerst als ein System entwickelt ist. Wenn man gewöhnlich Schelling als den jenigen ansehe, der die Naturphilosophie erschaffen habe, so vergesse man, dass derselbe, obwohl er sehr verschiedene Ansätze zu einer speculativen Naturwissenschaft machte, doch nirgends ein einheitliches Ganze derselben aufgestellt habe.
+
+Es sei nun höchst sonderbar, Hegel den Ruhm der Originalität verweigern zu wollen, da er doch etwas ge than habe, was vor ihm bei keinem andern Philosophen, auch nicht bei Kant, Fichte, Schelling, zu finden sei.
+
+Als ob die Schöpfung eines Systems keine ursprüngliche Kraft erfordere? Oder als ob der Fortschreitende das, was seine Vorgänger wirklich geleistet, zurücklassen dürfte?
+
+Wenn es sich nur um die Naturphilosophie als solche handelte, so, glaube ich, käme Oken der Ruhm zu, ein System der selben, und zwar mit eben so vieler Kenntniss, als mit einem grossen, den lebendigen Zusammenhang aller Erscheinungen liebevoll durchdringenden Blick geschaffen zu haben.
+
+[p. 25] Was ihn aber von Hegel, der ihn ungerecht missachtete, unterscheidet, ist, abgesehen von dem gänzlichen Mangel logischer Präcision, 1 dass er nur eine Naturphilosophie hatte, während diese bei ein Moment in einem grösseren Ganzen, in einem System aller Wissenschaft, ist. Véra hält durchaus daran fest, dass die Wissenschaft nur als System sich vollenden könne, weil ein Begriff nur in seiner Totalität die rechte Stelle, die wahre Bedeutung, die genügende Vermittelung zu gewinnen vermag. Eben deshalb meint er, dass Hegel's Naturphilosophie über Humboldt's Kosmos ungerecht vergessen sei, denn dies Buch, so viel von sich reden gemacht, könne weder
+
+Wissenden, noch die Nichtwissenden befriedigen; die Wissen den nicht, denn sie bedürften seiner nicht; die Nichtwissen den nicht, denn für sie fehle es darin wieder an gründlicher elementarer Belehrung. Es sei mit seinen Natur schilderungen und mit seinen zahllosen Notizen ein book of reference, wie die Engländer sagten. Wenn Véra uns Deutschen den Vorwurf macht, dass wir Humboldt's Kos mos zu einseitig angestaunt und das Recht der specula tiven Naturwissenschaft gegen das diplomatisch vornehme Zurückweisen derselben durch Humboldt nicht kräftig genug vertheidigt hätten, so ist dies im Allgemeinen .wahr. Es herrschte geraume Zeit ein ekelhaft serviler Enthusiasmus für Humboldt's Kosmos, der gar keine Kritik dessel den aufkommen liess oder, wenn eine solche laut zu wer den wagte, sie alsbald todt schwieg. Véra wenigstens anführen, dass Dr.
+
+Indessen kann ich Gustav Bieder mann in seiner Schrift: » Die speculative Idee in Humboldt's Kosmos « , Prag, 1849, sich der Hegel'schen Natur philosophie gegen Humboldt annahm. Véra zeigt sehr gut, dass alle Verhältnisse des Men schen zur Natur, theoretische wie praktische, ästhetische wie religiöse, die Wissenschaft der Natur zu ihrer letzten Voraussetzung haben.
+
+Der Mensch fühlt sich der Natur [p. 26] gegenüber erst dann vollkommen befriedigt, wenn er sie zu denken vermag, denn sein Wesen ist das Denken, und erst, wenn er in der Natur den Gedanken entdeckt, hört sie auf, etwas Fremdes zu sein.
+
+Für unser Gefühl ist sie nur als eine sinnliche Thatsache gegeben. So lange wir sie aber nur fühlen, verstehen wir sie noch nicht. Wir müssen sie also denkend erfassen, denn das Denken begreift das Gefühl, nicht umgekehrt. Wenn wir aber mit unserem Denken auf der Oberfläche der Erscheinung bleiben, wenn wir nicht das Wesentliche vom Unwesentlichen, das Ganze vom Fragment, das Nothwendige vom Zufälligen, das Ewige vom Vergänglichen unterscheiden, so denken wir unkritisch, unwissenschaftlich. Erst wenn unser Er kennen den Gedanken des allgemeinen, nothwendigen, sich immer gleich bleibenden Wesens der Natur erfasst, den ken wir die Natur wirklich.
+
+Die Natur ist an und für sich selbst objectiver Gedanke, denn sonst würde freilich die Wissenschaft sich vergeblich anstrengen, sie denken zu wollen. Der in der Natur als ihr Gesetz waltende Ge danke reizt den Menschen beständig an, Dächte Gott nicht die Natur, ihn zu suchen.
+
+könnte er sie nicht schaffen. Wäre sie nicht gedacht, könnten wir sie nicht denken. Die äusserliche, sinnlich wahrnehmbare Natur hat an der idealen, im absoluten Denken Gottes existiren den Natur ihre Wahrheit. Die höchste Form der Erkenntniss, die speculative, ist auch die allein wahrhafte, weil sie allein die nothwen dige und darum genügende ist. Alle andern Formen sind unvollkommen und heben sich in ihr auf.
+
+Die mathema tische und die experimentirende Naturwissenschaft z. B. er fassen von der Natur nur eine Seite derselben, bereiten das speculative Wissen nur vor, können es aber nicht er setzen.
+
+Alle Arten der Auffassung, welche sich ausserhalb der Natur stellen, sind falsch.
+
+Man kann die Natur nur aus ihr selber verstehen, verstehen aber kann man sie nur, [p. 27] weil sie ein System ist, d. h. eine Einheit, welche sich selbst in ihre Unterschiede auseinanderlegt. Die Unterschiede der Natur sind nicht zufällige, einander äusserliche, gegen einander gleichgültige, wie da, wo man Atome als das Wesen der Natur ansieht, sondern nothwendige, die sich selbst durch sich auf einander beziehen, und sich selbst aus ihren Gegensätzen in einer höheren Synthese vereinigen. System und Vernunft sind insofern identische Begriffe.
+
+Véra unterscheidet das wahre System vom falschen, denn man kann allerdings auch Systeme machen, denen keine Realität entspricht.
+
+Das Kriterium des wahr haften Systems, als des vernünftigen, besteht darin, dass die Unterschiede der Einheit sich nicht blos zu andern Unterschieden überhaupt, vielmehr zu solchen fortbestim men, welche ihre eigene Entgegensetzung ausmachen, wie der Raum an der Zeit, die Attraction an der Repulsion, das Licht am Schatten, die gerade Linie an der krummen u. s. w. , nicht blos einen Gegensatz, sondern ihren Gegensatz haben. Der abstracte Verstand frei lich, der sich von der Vernunft trennt, behandelt die Begriffe als starre Einheiten, die er neben einander stellt, ihre Verbindung aber als eine nur äusserliche Beziehung, in welcher sie als das, was sie sind, sich verhalten sollen. Hiedurch richtet er in den Naturwissenschaften eine eben Hinterher, wenn so grosse Verwirrung als anderwärts an. sich die unvermeidlichen Folgen seines mechanischen Ver fahrens einstellen, sieht er sich gezwungen, eine Menge künstlicher Auswege zu ersinnen, um die Erscheinungen, die er nicht läugnen kann, zu erklären. Er ist der Feind aller Umbildung, aller Verwandlung, aller Dialektik. Die Vernunft ist systematisch, und das System ist dialek tisch, denn seine Unterschiede entwickeln die Veränderung der Einheit. Attraction ist z. B. ohne Repulsion undenkbar, eben deshalb aber ist das, was attrahirt, in dem es repellirenden; das, was repellirt, in dem es attrahirenden, [p. 28] actu mitgesetzt; das eine ist im Andern als in seinem Andern.
+
+Ton ist Ton, aber im Schall der Glocke wird der Ton ein anderer als im Klang der Stimme; er indivi dualisirt sich; dort ist er ein mechanischer, hier ein organischer Ton u. s. w. Sehr richtig bemerkt Véra, dass die Form, in welcher der Verstand die Dialektik in die Naturwissenschaft einzuführen liebt, die Vorstellung der Metamorphose sei, die er aber dadurch wieder verderbe, dass er den Uebergang von Form zu Form als einen äusserlichen nehme. Der Verstand will die Materie sich Schritt vor Schritt ganz und gar mechanisch entwickeln lassen.
+
+In der For derung des genetischen Ganges hat er Recht, denn wenn wir sagen, dass Alles, jedes Mineral, jede Pflanze, jedes Thier, von einem Gotte geschaffen werde, der die fertigen Exemplare aus dem Nichts hervorbringt, so fallen wir in die Begrifflosigkeit. Die Wissenschaft verlangt Vermittelung. Diese liegt in dem Begriff, der immanenter Weise nen thätig ist. Wenn ich sage, dass die Natur Protoplasme hervorbringe, aus denen sich Zellen bilden, die aus ihrer elementaren Einfachheit sich allmälig durch die Einwirkung immer anderer Bedingungen zu sehr verschiedenen Organismen umarten, so ist diese genetische Vorstellung an sich nicht zu tadeln. Nehme ich nun aber die Gene sis so, als ob die blosse mechanische Causalität die allein wirkende Ursache sei, als ob sie sich nicht in eine neue, nämlich die organische, teleologisch wirkende Causalität aufgehoben habe, so läugne ich das Leben. Die Natur arbeitet daran, sich im Lebendigen zur individuellen Selbstständigkeit zu erheben.
+
+Der Begriff der mechanischen und physikalischen Processe geht dem Begriff des Lebens als dessen unorganische Bedingung voraus, ist aber diese Bedingung erfüllt, so entsteht das Leben nicht durch das Unorganische, sondern aus der Idee der Natur durch sich selbst. Der Verstand will diese Genesis in sinnlicher
+
+[p. 29] Aeusserlichkeit vor sich haben.
+
+Er fingirt daher z. B. die
+
+Existenz von Eiweissklumpen als den Protorganismen, die sich allmälig in unendlich langen Zeiträumen zu einer Mannigfaltigkeit von Formen metamorphosiren sollen, ohne dass ein Begriff als die ideelle Macht an derselben Antheil haben soll, denn was für Formen entstehen, soll und muss ja nach dieser Theorie ganz zufällig bleiben.
+
+Nur die jenigen dieser Formen können sich erhalten, welche con stanter Weise die Bedingungen finden, von denen ihr Da sein abhängt.
+
+Die, welche nicht so glücklich sind, gehen unter. Diejenigen aber, welche sich längere Zeit erhalten, verändern sich relativ durch die Modification der ihnen an sich nothwendigen Bedingungen. derungen sich
+
+Indem diese Verän nach Darwin mittelst der Zeugung ver erben, entstehen jene Unterschiede, welche wir Arten zu nennen pflegen.
+
+Art ist nach diesem
+
+Standpunkt also nicht ein im Begriff der Gattung liegender, sondern ein ganz zufälliger äusserlicher Unterschied, der eben so gut Professor Ernst da sein als nicht da sein könnte. Haeckel in Jena hat in seiner » Generellen Morphologie der Organismen« , 2 Bde. , Berlin 1866, die Darwin'sche Theorie als die »mechanische Wissenschaft von den entwickelten Formen der Organismen « auf das ganze Pflanzen- und Thierreich ausgedehnt und die » Descendenz << der Organismen von der noch neutralen Zelle bis zum Men schen hin durch genealogische Stammtafeln erläutert.
+
+Thier ist ihm ein »Oxydationsorganismus « , der sich durch >>Anpassung<< zu seinen tausendgestaltigen Formen meta morphosirt. Der Verstand will in der Metamorphose die Unterschiede als das Resultat materieller Veränderungen nachweisen, die lediglich in äusseren Ursachen, Boden beschaffenheit, Wasser, Luft, Druck, Temperatur, ihren Grund haben. Eine Pflanzenart soll aus einer andern, eine Thierart aus einer andern durch äusserliche Trans formation werden.
+
+Da dies Werden empirisch nicht [p. 30] nachgewiesen werden kann, so kommt schliesslich das System der Entwicklungsgeschichte doch wieder mit den Ordnungen, Familien, Classen, Arten, Unterarten eines logisch gegliederten Systemes zusammen.
+
+Der Verstand verfährt aber auch wohl umgekehrt und lässt für die Bildung seiner Begriffe diejenigen Bedingungen fort, ohne welche sie keine Realität haben können. Er nennt dies dann einen idealen Begriff, statt dass er sagen sollte einen imaginären. einen stets schwingenden Pendel.
+
+Er fingirt z. B. Ein solcher kann aber nicht existiren, da jeder wirkliche Pendel durch seine Rei bung der Endlichkeit der Bewegung unterliegt, also immer wieder still stehen muss. Oder er fingirt, dass ein jeder himmlische Körper einen Stoss erhalten habe, in der Tan gente davon zu fliegen.
+
+Er nennt diese Bewegung eine ideale, die in's Unendliche fortgehen würde, wenn nämlich ausser ihm nicht noch andere Körper existirten, die ihn Wirklich also bewegt sich kein Körper in attrahirten. der Tangente u. s. w. Die Natur ist ein System, denn sie ist eine Einheit, in welcher alle Unterschiede Unterschiede der Einheit sel der sind, allein sie ist nicht das System überhaupt, sondern ein System im System.
+
+Das absolute System ist das der Einheit, der logischen Idee, der Natur und des Geistes. Keiner dieser Begriffe kann ohne die andern wahrhaft verstanden werden. Die Vernunft an sich wäre eine Abstraction des Denkens, wenn sie nicht in Natur und Geist sich realisirte. Die Natur wäre ihrerseits ein materielles Chaos, wenn sie nicht von der Vernunft durch drungen wäre.
+
+Dächte man sich aber die Natur, ohne dass der Geist sich an ihrem Schauspiel und Genuss erfreute, so wäre sie ein kaltes, nur sich selbst wiederkäuendes Unge heuer.
+
+Der Geist aber, welcher nicht der Vernunft als der ewigen Gesetzmässigkeit seines Denkens wie des Seins als eines durch den Gedanken gesetzten sich bewusst wäre;
+
+h [p. 31] der Geist, der nicht in der Natur die Vernunft anschaute; der Geist, der nicht die Natur zum Organ seiner Freiheit machte, würde nicht sein, was er ist. Er wäre das rein in sich seiende ideelle Wesen, das in sich verglühende Denken und Wollen. Als der vernünftig Denkende erhebt er sich zugleich über die Natur und bringt sich durch sie zur Realität der Erscheinung.
+
+Vernunft, Natur und Geist sind also, wie Véra sich ausdrückt, consubstantiell.
+
+nicht drei coordinirte Absolute, einander aus schliessen, sondern sie sind die drei nothwendigen Gestalten des Absoluten, deren keine ohne die andern zu existiren vermag.
+
+In ihrer Identität qualitativ unterschieden; Vernunft. Geist frei.
+
+zugleich die Natur steht höher als
+
+Die Vernunft ist wahr, die Natur schön, der Man kann nun aber für den Begriff der Natur vor läufig von dem des Geistes, der sie erst vollkommen verständlich macht, abstrahiren.
+
+Die Natur ist in ihrer Gestaltung überhaupt vernünftig, aber der logischen Idee, die nur im reinen Denken existirt, ist sie durch die Aeusser lichkeit ihres Daseins entgegengesetzt. Die Vernunft kennt nur Nothwendigkeit in ihren Begriffen; die Natur ist an sich vernünftig, allein in ihrer Erscheinung wesentlich dem Spiel des Zufalls preisgegeben. Eine Wissenschaft der Natur hat daher allerdings ausser der Vernunftmässigkeit auch die Zufälligkeit zu beachten. Die logischen Kategorien stellt man sich oft nur als ein Mittel unseres Ver standes vor, der Erscheinungen der Natur habhaft werden zu können, und erwägt nicht, dass die Natur selber qualitativ und quantitativ, positiv und negativ, universell und particulär u. s. w. sich bestimmt. Véra nimmt, um dies zu zeigen, eine einzige Kategorie, die Quantität heraus, weil sie diejenige ist, auf welche die exacte Wissenschaft den grössten Nachdruck zu legen pflegt. Der Physiker wendet, wie er sich ausdrückt, die reine Mathematik auf [p. 32] die Naturerscheinungen an; das Anwenden würde ihm aber nichts helfen, wenn die Natur nicht selber in sich mathe matisch wäre. Speciell unterwirft Véra die Newton'sche Attractions theorie einer eingehenden Kritik, ihre Unbestimmtheit und Willkür zu erweisen. Da die Anhänger Newton's und das sind bei uns alle Professoren der Mathematik und Physik ――――― gegen jeden Widerspruch äusserst empfindlich sind, so hat Véra die Definitionen Newton's, die er an ficht, immer im Original unter dem Text citirt, um keinen Zweifel zu lassen,
+
+Bestimmungen anführt.
+
+er die wirklichen Newton'schen Dem Aufkommen der Hegel'schen
+
+Naturphilosophie hat in Deutschland nichts mehr gescha det, als Hegel's Polemik gegen Newton, weil man diesen besonders als einen logisch unverwundbaren Autor kanoni sirt hat, Jemand also, der ihn von dieser Seite angreift, sich als einen Unlogiker prostituirt. Doch sind es gerade zwei Nichthegelianer gewesen, welche die Newton'sche Mechanik noch viel schärfer, als Véra es thut, angegriffen haben. Der eine von diesen ist Dr. A. F. Dittmann in seiner Schrift: »Die Erde ein Himmelskörper. Ein kritischer Hinblick auf die Geschichte der Astronomie« , Kiel, 1857. Dieser ungeschickte Titel verbirgt den eigentlichen Inhalt, der wesentlich eine Kritik der in den »Definitionen, Scholien und Raisonements herrschenden maasslosen Licenz, Begriffsverwirrung und Verwechslung Newton's, seiner willkürlichen Voraussetzungen und nichtigen Trugschlüsse ist. Die andere Schrift ist von Johannes von Gumpach: >> Kritisch populäre Briefe über die neuere Astronomie. Erster Band: die Gravitationslehre als Anziehungslehre « , München 1860. Ich weiss sehr wohl, dass der Verfasser dieser Schrift sich in einer sehr mühsamen und gelehrten Weise vergeblich abgemüht hat, in der Theorie der Erd gestalt einen Fehler für die Berechnung ihrer Pole nach zuweisen; es kann aber Jemand eine solche Schrulle haben [p. 33] und doch in der Kritik Bedeutendes leisten. wohl zu rechnen sein,
+
+Hierzu dürfte was Gumpach Seite 1-196 über Newton's Gravitationstheorie aus dessen eigenen Schriften Widerspruchvolles entwickelt. Beide Schriften sind natürlich in Deutschland gründlich todtgeschwiegen, und um so weniger hat Véra von ihrer Existenz eine Ahnung. Véra wirft Newton vor, zu behaupten, dass man die Wirkungen und den modus operandi einer Kraft sehr wohl zu kennen vermöge, ohne die Natur dieser Kraft zu ken nen, denn er will, wie er sagt, keine Hypothesen machen. „Satis est, quod revera gravitas existat et agat secundum leges a nobis expositas. " Dies Princip gilt bei allen modernen Physikern.
+
+Wir sollen wissen können, dass etwas existirt, nicht, was es an sich ist. Im Widerspruche hier mit macht Newton aber eine Hypothese, dass nämlich die Schwere eine Kraft, ein in den Körpern verborgener Aether sei, welcher bewirkt, dass ihre Molecüle sich in unendlich kleinen Entfernungen anziehen. „Adjicere licet de spiritu quodam subtilissimo, corpora crassa pervadente, et in iisdem latente, cujus vi et actionibus particulae corporum ad minimas distantias sese mutuo attrahunt et contiguae factae cohaerent." Was soll man nun denken? Im second advertisement sagt Newton ausdrücklich, dass er die Schwere nicht als eine wesentliche Kraft der Körper betrachte, und hier wird sie durch einen subtilen Hauch bewirkt. Woher weiss dies Newton?
+
+Und worin besteht dieser subtile
+
+Hauch? Obwohl Newton über das eigentliche Wesen und die Herkunft des Aethers schweigt, so macht er doch die Hypothese, dass derselbe im Innern der Körper dünner, ausserhalb derselben dichter sei. „I suppose the rarer aether within bodies, and the denser without them. " Mit Recht sagt Véra, ob dies nicht, zufolge der Nothwendigkeit des Drucks der äusseren Schichten auf die inneren gerade um gekehrt angenommen werden müsse, wenn man denn ein mal eine solche Hypothese machen wolle.
+
+Der Newton [p. 34] sche Aether, der gar kein Gegenstand der Erfahrung wer den kann, ist nach ihm nichts besser als die vis occulta der Scholastiker. Newton macht, wie es ihm bequem ist, Unterschiede, wo keine sind, und versichert, dass wir zwar das Gesetz der Schwere, nicht aber deren Ursache kennten, obwohl er den Aether als solche angiebt, freilich ohne zu sagen, was für eine Substanz derselbe sei.
+
+Véra zeigt dagegen, dass in dem Gesetz einer Erscheinung die Kraft derselben begriffen werde. Newton und die Physiker versichern, nicht zu wissen, was die Kraft der Schwere sei, aber sie behaupten, das Gesetz derselben zu kennen, worin die sich immer gleich bleibende Nothwendigkeit der Erscheinung gesetzt ist.
+
+Wenn diese nun nicht das Wesen sein soll, worin soll es denn bestehen? Die Physiker versichern also, weniger zu wissen, als sie wissen, weil sie die Begriffe von Wesen, Kraft, Ursache ganz begrifflos gebrauchen. Den Gesammtcharakter der Newton'schen Theorie fasst Véra in folgende Worte zusammen: » Sie stellt sich zunächst als eine Erneuung des antiken Atomismus dar, combinirt mit den neueren mathematischen Entdeckungen, mit den Galilei'schen und Kepler'schen Gesetzen und mit der Centrifugalkraft. « Diese Charakteristik nimmt er Punkt für Punkt weit läufiger durch.
+
+Bei der Atomistik bemerkt er, dass Newton allerdings diesen Ausdruck vermieden habe, weil die Be zeichnung: particulae unbestimmter und elastischer sei und sich dem Begriff des unendlich Kleinen besser an Diese willkürlichere Bezeichnung verberge die passe.
+
+Schwierigkeiten, welche der Atomismus darbiete, und dis pensire davon, sich über die Hauptfrage auszusprechen, nämlich ob die Materie theilbar oder untheilbar, oder ob sie zugleich theilbar und untheilbar sei.
+
+Véra verwirft die Atomistik.
+
+Er fragt, was das Atom, um ein untheilbares Element zu sein, für ein Element sein [p. 35] soll?
+
+Soll es etwa ein Punkt sein? In diesem Fall müsste man die Körper aus geometrischen Punkten zusammensetzen, die doch nur Abstractionen sind. Oder wäre das Atom eine Krafteinheit? Dann müsste man doch sagen, was für eine Kraft man darunter verstehen wolle. Insofern die Untheilbar keit von Atomen durch die Chemie bewiesen werden soll, rügt Véra die Vermischung des Begriffs der Untheilbarkeit mit dem der Unveränderlichkeit der Form, in welcher die chemischen Elemente sich vereinigt finden. Er erinnert daran, dass die Chemiker selber, z. B. Daubeny in England, sich gegen die Lehre von der Einfachheit der Metalle zu erklären angefangen haben; dass, nach Dumas, die Theorie der Isomerie die Chemie immer mehr revo lutioniren muss, weil sie die hypothetische Untheilbarkeit der chemischen Stoffe der Form und der Anordnung der Molecule unterordnet. Alle solche Gegensätze, wie Theil barkeit und Untheilbarkeit, Gleichheit und Ungleichheit, Einfachheit und Veränderlichkeit, Durchdringlichkeit und Undurchdringlichkeit, schlagen in einander um. Sofern der Verstand das Uebergehen des Entgegengesetzten in das ihm Entgegengesetzte gewaltsam von der Materie abhalten will, entstehen unausbleiblich Widersprüche, die er durch künstliche Ausreden zu verdecken sucht. So stellt man das Dogma von der Undurchdringlichkeit der Materie auf und lehrt dicht daneben die Existenz eines Aethers, der alle Materie durchdringen soll und der doch wohl, wie ätherisch er sei, materiell sein muss, da er nach Newton im Innern der Körper dünner, ausserhalb derselben dichter sein soll.
+
+Dass das Gewicht der Körper sich bei ihren chemischen Processen gleich bleibt, während ihre übrigen Eigenschaften sich darin ändern, ist ganz natürlich, denn man begreift nicht, wie es sich sollte ändern können, da von der Materie als solcher doch nichts verschwinden kann. Wenn Schwefel und Quecksilber in einer gewissen Quantität Zinnober hervorbringen, so müssen sie als Stoffe 3* [p. 36] doch in demselben enthalten sein; der aus ihnen gebildete Zinnober muss also gerade so schwer sein als vorher die Summe des Gewichts des Schwefels und des Quecksilbers. Als Zinnober nicht mehr
+
+Schwefel
+
+Quecksilber, sondern haben sie sich gegenseitig zu einem neuen Producte mit andern Eigenschaften, als ihnen in ihrer Isolirung zukommen, verwandelt. Diese Thatsache will die mechanische Chemie nicht anerkennen und aus ihr den Schluss machen, dass im Zinnober Schwefel als Schwefel, Quecksilber als Quecksilber, nur in einer andern Lagerung, existiren. Die Atome sollen als inalterabel erhalten wer den, wie sehr auch die Erscheinung widerspreche, bei welcher auch das schärfste Mikroskop im Zinnober weder Schwefel noch Quecksilber entdecken kann. Das Gewicht der Stoffe, das stöchiometrische Verhältniss derselben, muss durch Zahlen ausgedrückt werden, allein daraus folgt nicht, dass die chemischen Neutralisationen nur Aggre gate discreter Massentheilchen wären. Atom ist nur ein Ausdruck für Quantum in der Chemie; man kann das Wort aus der ganzen Chemie herauswerfen, ohne diese im Geringsten zu verändern; das Bestreben, den Chemismus auf eine blosse
+
+Statik und
+
+Mechanik herunterzu drücken, ja hierin den Triumph der Wissenschaft zu sehen, kommt mir gerade so vor, als wenn ein Naturforscher behaupten wollte, es seien die Thiere blosse Pflanzen, weil sie, wie diese, durch und durch aus Zellengewe den beständen. Véra richtet sich mit scharfer
+
+Polemik gegen die
+
+Consequenzen der Newton'schen Theorie.
+
+Ich gestehe, dass ich ihm hier nicht zu folgen vermag. Ich bescheide mich, ihn vielleicht nicht richtig zu verstehen, wenn ich aus seinen Erörterungen herauslese, dass er das Gesetz der Massenattraction angreift. Es scheint mir, als habe er das sogenannte Gesetz des trois corps bei seinen Einwürfen über die rotatorische Bewegung, über die Beschleuni [p. 37] gung und Verlangsamung der Bahnbewegung u. s. w. ausser Acht gelassen. Die Schwierigkeiten, welche in der At tractionstheorie liegen, heben deshalb ihr Princip noch nicht auf. Sobald man dasselbe verlässt, muss man aus der Sphäre der Mechanik heraustreten, allein so oft dies versucht worden ist, hat sich keine consequente Theorie bilden lassen. Ich kann Véra aus der Geschichte der Hegel'schen Schule selber einen solchen Versuch anführen. Er wurde von dem Physiker Professor G. F. Pohl in Breslau gemacht, welcher 1846 der Newton'schen Theorie eine dynamische, wie er sie nannte, in folgender Schrift entgegengestellt:
+
+» Elektromagnetismus und die Bewegung der Himmelskörper ihrer gegenseitigen Beziehung « .
+
+Pohl bestritt hierin die Tangentialkraft und substituirte ihr die magnetische Polarität.
+
+Dr. Wirth trat ihm prin cipiell bei in seiner Abhandlung: » Ueber die Affinität als Princip der Bewegung und Gestaltung der Himmelskörper» in den » Jahrbüchern der freien deutschen Akademie<< Frankfurt a. M. 1849, S. 348-62.
+
+Die Wissenschaft ist aber auf diesem Wege nicht vorwärts gekommen, denn in einem System, wie die Natur es ist, hat jede Stufe ihr eigenthümliches Princip. Für die Mechanik ist dies die Massenattraction, die noch von aller specifischen Qualität der Materie abstrahirt. Véra greift auch die Kosmogonie von Kant und La Place an, welche die Newton'sche Attractionslehre mit der Herschel'schen Theorie der Nebelflecke combinirte. Auch in seinem Commentar erneuet und erweitert er diese Polemik.
+
+Unstreitig ist der zuversichtliche Ton, mit welchem unsere moderne Naturwissenschaft die Kosmogonie und Geogonie vorträgt, unzulässig, sofern er die Schwierigkeiten, die seinem Dogmatismus entgegenstehen, igno rirt, z. B. dass die Existenz sogenannter kosmischer Materie in den selbstleuchtenden Nebelflecken sehr problema tisch ist, da sich dieselben bisher bei schärferer Beobachtung [p. 38] noch immer in Sternhaufen aufgelöst haben; dass das Gas sich in den Nebulosen condensiren soll, während es seiner Natur nach das Bestreben hat, sich ins Unendliche zu expandiren; dass, wenn alle Weltkörper ursprünglich glühende Gaskugeln waren, ihre Erkaltung sich schwer be greift, weil sie sich durch ihre Wärme vielmehr gegen seitig erhitzen mussten;
+
+dass alle Fixsterne Sterne sein müssen, die sich noch im Stadium der Gluthflüssigkeit be finden, aber, nach der Theorie der Wärmeverstrahlung, eines Tages, so gut als die Erde, sich mit einer dunkeln Kruste überziehen, also zu leuchten aufhören und das fin stere Universum in einen Mechanismus lebloser Körper, wie der Mond es ist, verwandeln müssen; dass die An nahme eines gluthflüssigen Innern unseres Planeten dem Erdmagnetismus entgegensteht, weil Glühhitze allen Magnetismus aufhebt; dass die Thermalquellen sich sehr wohl durch die vulcanischen Erscheinungen erklären lassen, ohne deshalb ein Centralfeuer vorauszusetzen; dass ein solches Feuer ohne fortwährende Aufnahme von Sauerstoff undenkbar ist; dass die Vulcane auch keines Centralfeuers als Ursache bedürfen, weil sie sich aus der fortwährenden
+
+Selbstentzündung der Mineralien in den Höhlen und Spalten der Erdrinde unter Vermittelung des überall eindrin genden, verdunstenden und verdampfenden Wassers begreifen lassen; dass die Zunahme der Wärme, die man in den Bergwerken nach der Tiefe hin beobachtet hat, keine con tinuirlich progressive zu sein braucht, sondern einen mittleren Grad erreichen kann; dass es auch constante Quellen mit kaltem Wasser aus unerforschlicher Tiefe giebt; dass die Temperatur auf dem Meeresboden eine sehr niedrige ist, während sie, falls ein Centralfeuer existirt, höher er wartet werden müsste u. s. w. Alle diese Schwierigkeiten, welche die Polemik Véra's unterstützen können, sind von der deutschen Philosophie noch genauer und energischer als von ihm selber durch Ulrici in seiner kritischen Schrift:
+
+[p. 39] >> Gott und die Natur« , Leipzig, 1862, geltend gemacht worden. Helmholz hat in einer berühmten Abhandlung: »Ueber die Wechselwirkung der Naturkräfte« , Königsberg 1854, aus der nothwendig nach ihm einst ein tretenden Ausgleichung der Temperatur im Weltall geradezu den Schluss auf seinen unfehlbaren Quietismus ge macht, indem er sich dabei vorzüglich auf den Begriff des immer wachsenden Verlustes an lebendiger Kraft stützte. Ich entgegnete ihm in einer Abhandlung: » Ueber Helm holzens Beweis für den endlichen Stillstand des Weltalls << in den » Königsberger Naturwissenschaftlichen Unterhal lungen <« , 1856, III, S. 251-84, indem ich umgekehrt gerade aus dem Begriff der Wechselwirkung den Schluss zog, dass die lebendige Kraft sich in's Unendliche hin er neuen müsse, und dass die Wärme kein Stoff sei, wie Helmholz selber einräume, durch Wärmeerzeugung auch von einem Weltkörper nichts verloren gehen könne.
+
+Princip der Wärme ist diejenige Bewegung, welche mit der Auflösung der Cohäsion verbunden ist. Wäre nun einst auf der Erde nichts mehr vorhanden, was in solcher Weise aufgelöst werden könnte, so würde sie zu einem Monde, zu einer verbrauchten Schlacke werden. Dass dies nicht geschehen kann, ist durch das Wasser auf ihr bedingt, welches die Atmosphäre tränkt und die Vegetation möglich macht, die immer wieder Kohlenstoff bindet.
+
+Das Ideal, nach welchem Helmholz die Sonne und die Erde beurtheilt, ist, wie er ausdrücklich ausführt, die Dampfmaschine. Hat diese keine Kohlen mehr, das Wasser des Kessels in Dampf zu verwandeln, so kann sie freilich den Kolben nicht mehr heben. Sie steht still. Die »Arbeit« , wie er es nennt, welche die Sonne verrichtet, hört auf, wenn sie ihren Stoff zur Wärmeerzeugung ausgenutzt hat. Das ist jene Auffassung der Natur nach endlichen Maassstäben, welche übersieht, dass das Unendliche in der Natur wirklich existirt und nicht blos ein Hülfsbegriff ist, mit welchem wir [p. 40] operiren. Wie, wenn die Sonne so organisirt wäre, dass sie den Stoff, welchen sie durch Bewegung in Wärme um setzt, immer wieder reproducirte, etwa wie die Erde seit Jahrtausenden immer wieder Pflanzen und damit Brenn stoff hervorbringt?
+
+Müssen die Naturforscher doch zuge den, dass die Bewegung der Weltkörper, lediglich nach dem Princip der Massenattraction, als eine in sich unendliche gedacht werden müsse; warum soll das Unendliche nur in der mechanischen, warum soll es nicht auch in der physikalischen Sphäre existiren? Humboldt hat sich über die Existenz eines Central feuers mit diplomatischer Indifferenz zwischen Poisson und Fourier hindurchbewegt. Andere deutsche Natur forscher haben sich mit Entschiedenheit dagegen erklärt; am Genauesten, indem er sich nur auf empirische Gründe stützte, der nun schon verstorbene Andreas Wagner in seiner >> Geschichte der Urwelt « , 2te Auflage, Leipzig 1857, I, 81-98, in dem Abschnitt: »Das Centralfeuer« . Ausser dem nenne ich den Mineralogen Otto Volger in seinem Werk: »Erde und Ewigkeit oder die natürliche Geschichte der Erde als kreisender Entwicklungsgang « , Frankfurt a. M. 1857, S. 278 ff.
+
+Hier sucht er zu beweisen, dass eine solche Reaction des Erdinnern gegen die es umgebende Lufthülle eine physische Unmöglichkeit sei, nachdem er vorher schon, S. 66, gegen die Annahme eines Central feuers als aus der irrthümlichen Auffassung der Ent stehungsweise vieler Gesteine und der vulcanischen Erscheinungen entsprungen, protestirt hat. Véra macht gegen die Kant - La Place'sche Kosmo gonie auch den Einwurf, dass sie die Kometen nicht zu erklären vermöge; dass sie es unbegreiflich lasse, wie die Centralgewalt auf einmal die Herrschaft über die centri fugale Tendenz der Stücke des rotirenden Ringes, aus dem sich die Planeten hervorbilden sollen, verlieren konnte; dass La Place die Kälte als einen ganz zufälligen Factor [p. 41] einführt, den er, nachdem er ihn zur Verdichtung der Massen hinreichend gebraucht hat, wieder verschwinden lässt, man weiss nicht wohin u. s. w.
+
+Gewiss sind die Mängel dieser Theorie sehr gross, hierin stimme ich Véra gern bei; allein dass wir nun schon eine andere besässen, welche die Forderungen der Wissen schaft befriedigte, lässt sich doch auch nicht behaupten. Dass Véra mit Hegel den einseitigen Plutonismus wie den einseitigen Neptunismus für die Erdbildung verwirft, ist schon recht; die Frage ist aber, wie Feuer und Wasser thätig gewesen sind?
+
+Mir scheint es,
+
+Véra sich eigentlich auf die Seite von Volger, Czolbe u. A. stellen müsste, welche behaupten, dass das Weltall gar nicht ent standen, vielmehr in alle Ewigkeit dasselbe sei. Im Grunde nimmt er auch diese Stellung ein, denn sie entspricht den Hegel'schen Ansichten, nach welchen die Natur ewig ge schaffen wird, da sie ein nothwendiges Moment der absoluten Idee ausmacht.
+
+Der Unterschied Hegel's von dem
+
+Materialismus liegt hier jedoch darin, dass er die Existenz der Natur als eine durch die Idee gesetzte, eben deshalb geschaffene, annimmt, während der Materialismus sie als das schlechthin Erste, als das Absolute selber betrachtet. Nach Hegel hat die Erde als ein Glied des Sonnensystems ebenso seit Ewigkeit existirt als dies System selber, aber als ein einzelnes Glied des Systems ist das Entstehen und zugleich das Vergehen der besonderen Elemente ihres Lebens ein perennirendes. In diesem Sinn hat sie auch für ihn eine Entwicklung. Von einem kosmischen Aether, von einer Zusammenballung desselben, von einem Centralfeuer will er nichts wissen, sondern verlegt die Gestaltung der Erde in den Zusammenhang, in welchem sie mit den andern Gliedern des Sonnensystems steht. Sie ist, was sie sein kann, nur innerhalb dieser Bedingungen. Véra lässt sich ausführlich darauf ein, den Uebergang aus der Idee als logischer zur Natur zu besprechen.
+
+Man [p. 42] muss bei diesem Uebergang sich aller sinnlichen Vorstellungen entschlagen, als ob, der Zeit nach, die logische Idee erst an sich existirte; dann in der Zeit, die Natur zu entstehen anfinge u. s. w. Die logische Idee, als das System der reinen Vernunft, ist allerdings das Prius der Natur, aber in ideeller Weise, denn die Gedanken können als Gedanken doch nur im Denken, also in einem denkenden Subject, also in dem absoluten Geist existiren, der sich seiner selbst als aller Wahrheit gewiss ist. Un persönlich kann man die logische Idee nur in ihrer abstracten Isolirung von der Natur und dem Geist nennen. Die Vernunft, welche wir in der Natur finden, ist in sie vom schöpferischen Denken, dem Geist, hineingedacht. Nimmt man die Vernunft als ein subjectloses Abstractum, so ist unbegreiflich, wie sie die Natur schaffen kann. Die Natur gehört vielmehr wesentlich zum Begriff des Geistes, nicht nur des menschlichen, sondern Gottes selber als des absoluten Geistes, der nicht blos die an sich, sondern auch die für sich seiende Einheit von Vernunft, Natur und Geschichte ist.
+
+Bei dem systematischen Uebergang von dem Begriff der Idee als logischer zur Idee als Natur ist die Vernunft die Bedingung für die Natur, allein Ursache der Natur ist erst der göttliche Geist als der schlechthin Das Erschaffen der Natur ist die Actualisirung vernünftige.
+
+der logischen Idee, ihre Bewährung im Elemente der Aeusserlichkeit. Die Natur ist aber nicht etwa eine blosse Wiederholung der logischen Idee nur in einer andern Form, sondern hat zugleich ihren eigenthümlichen, sie unterschei denden Inhalt. Im Begriff des reinen Denkens kann nicht von Sauerstoff, Stickstoff, Luft, Quecksilber, Salz, Blut u. s. w. die Rede sein. Alle logischen Kategorien heben sich in die Realität der Natur auf, die deshalb eine an sich vernünftige ist.
+
+Weil mit der Aeusserlichkeit des Daseins nothwendig die Möglichkeit des Zufalls eintritt, so ist die Existenz des einzelnen Naturgebildes allen möglichen Hem!
+
+[p. 43] mungen, Missgestaltungen, Zerstörungen preisgegeben, an und für sich aber bleibt die Natur sich in ihrer Allgemeinheit immer gleich. Wenn Hegel von einer Ohnmacht der Natur gesprochen hat, den Begriff festzuhalten, so bezieht sich das nur auf die Realisirung des Begriffs im Einzelnen als diesem zufälligen Dasein, eine Ohnmacht des Begriffs.
+
+keineswegs aber lehrt er
+
+Vielmehr ist es die Macht des Begriffs in der Natur, welche sie in aller Veränder lichkeit der Erscheinung doch immer als wesentlich die selbe erhält.
+
+Wenn die Religion sagt, dass Gott die Natur schaffe, so enthält dieser populäre Audruck jenen Begriff des Uebergangs von der logischen Idee zur Natur, denn, um sie schaffen zu können, muss Gott der Denkende sein. Er muss wissen, was er schaffen will, und im Schaffen muss er sich von seinem Product, als einem undenkenden, dem er die Vernunft zur objectiven Mitgift macht, als Denkender unterscheiden. Schelling hat über Hegel gespottet, dass seine logische Idee, nachdem sie zur vollkommensten Stufe gelangt sei aus Langerweile sich in die Natur stürze. Véra meint, man könne diesen Spott bestens acceptiren, denn es sei ganz richtig, dass das reine Denken, auch in seiner Voll endung, eine nur erst einseitige Form, die Form der Idee im abstracten Elemente des Denkens sei. Der Gedanke, der Logos, ist der Schöpfer der Natur. Véra zeigt mit seiner grossen dialektischen Virtuosität, dass Materie, Kraft, Bewegung, organische Form u. s. w. gar nicht möglich wären, wenn sie nicht durch den Ge danken bestimmt würden. Das gewöhnliche Bewusstsein denkt nicht daran, in der Natur mit Gedanken zu thun zu haben, weil es in den Stoffen, im Wasser, im Feuer, in den Pflanzen u. s. w. etwas ganz Anderes vor sich zu haben vermeint. Die Idee, meint Véra, erscheine ihm als etwas ganz Kraftloses, während sie nicht blos eine Kraft, sondern die principielle, constitutive Kraft sei.
+
+[p. 44] Véra sagt einigemal, dass die logische Idee Form und Inhalt der Natur sei. Dies könnte missverstanden werden, als ob nicht die Natur auch eine selbstständige Gestalt der Idee wäre. Er meint dies aber, wie aus dem Context erhellt, so, dass die logische Form nicht von Aussen her zur Natur als eine ihr an sich fremde hinzutrete, sondern sie von Innen her als ihr immanenter Archeus bestimme, weshalb der Begriff des Wassers, Feuers, Metalls u. s. w. in seiner Allgemeinheit und Nothwendigkeit das wahre Wasser, Feuer, Metall u. s. w. im Unterschied von diesem sinnlich gegenwärtigen Wasser, Feuer, Metall sei Weil die Natur an und für sich Idee, also nicht etwa pure Materie, cruder Stoff, zufällige Atomenaggregate, sondern vom Begriff durchdrungen, von der Vernunft gestaltete Materie ist, so sind die Unterschiede, welche durch ihre Aeusserlichkeit als simultane und successive er scheinen, in ihrem Begriff aufgehoben.
+
+Hegel will die
+
+Erscheinung im Raum und in der Zeitfolge dem Begriff unterordnen. Z. B. Gold wird in den Aequatorialgegenden, aber auch im Ural gefunden; für seinen Begriff kommt es nicht auf diese Localität des Fundorts, sondern auf es selber, auf sein Verhältniss zu den übrigen Metallen, an. Oder der Zeit nach können viele Thiere im Meere schon existirt haben, während noch viele Pflanzenarten auf dem Lande zurück waren; so bleiben die Pflanzen, weil sie Pflanzen sind, doch immer dem Begriff des Thieres unter geordnet.
+
+Ihre Stellung im System hängt weder vom Ort noch von der Zeit ab.
+
+Véra wählt, dies deutlich zu machen, den Streit der Neptunisten mit den Plutonisten über die Priorität des Kalkes vor dem Granit oder des Granits vor dem Kalke. Zum Schlusse seiner Einleitung nimmt Véra die empirische, mathematische und speculative Methode der Natur wissenschaft durch. Die empirische Methode geht von der Wahrnehmung [p. 45] und Beobachtung der gegebenen Thatsachen aus, von ihnen durch Induction und Analogie Schlüsse zu machen, welche das Allgemeine, das Gesetz enthalten sollen.
+
+Dieser Weg der Erfahrung ist schlechterdings nothwendig, weil die Natur dem menschlichen Geist als ein ihm äusserlicher Gegenstand gegeben ist, den er daher zunächst auch in einer nur selbst äusserlichen Weise ergreifen kann, um durch fortgesetzte Vergleichung der erneuten Beobachtungen aus den in bunter Mannigfaltigkeit erscheinenden Thatsachen das in ihnen sich gleichbleibende Wesen als ihren Kern herauszuschälen. Sie ist aber unvollkommen, weil ihre Schlüsse nur den approximativen Werth der Wahrscheinlichkeit zu haben vermögen.
+
+Sie ergänzt sich deshalb durch die mathematische Methode, welche von den Naturerscheinungen das Moment der Quantität unter der Form der Zahl ergreift, hierdurch aber, indem sie von der Qualität abstrahirt, nicht weniger ungenügend wird.
+
+Die Mathematik behandelt daher die Naturerscheinungen ebenso äusserlich als die formale Logik der empirischen Analyse.
+
+Sie berechnet dieselben nach ihrer quantitativen Seite, aber die Rechnung hängt von den Datis der Empirie ab, denn sonst kann sie keinen Ansatz machen. Die Rechnung ist insofern veränderlich. Aendern sich die Erfahrungen, muss sie sich auch ändern.
+
+Dem Calcul ist der Stoff, an welchem er sich erprobt, gleichgültig.
+
+Die Rechnung als solche kann daher immerhin richtig sein, ohne deshalb mit ihrer arithmetischen Correctheit eine Bürgschaft für die Wahrheit der Thatsachen zu geben. So lange man sich die Erde als eine Kugel vorstellte, musste man an ders rechnen, als seitdem man sie sich als ein Sphäroid mit zwei verschiedenen Achsen vorstellte; anders, seitdem man sie sich als ein dreiachsiges Sphäroid vorstellt u. s. w. In dem arithmetischen Elemente liegt eine ihm inwohnende Gesetzmässigkeit der positiven und der negativen Grösse, [p. 46] des Ganzen und seiner Theile, der arithmetischen und der geometrischen Progression, der Wurzel und der Potenz, der Gleichung und ihrer verschiedenen Grade. Diese Gesetzmässigkeit will nun ihren Verlauf haben.
+
+tritt dem empirisch a posteriori aufgenommenen Stoffe als ein apriorisches Princip gegenüber, combinirt sich mit ihm, bleibt aber von ihm abhängig und ist insofern hauptsächlich nur als ein secundäres Correctiv brauchbar. Sind die Messungen, auf welche der Calcul sich stützt, falsch, so müssen die Resultate, zu denen er gelangt, natürlich auch falsch sein. Wie schwankend, ja, wie widerspruchvoll sind aber nicht die Angaben über den Thatbestand in der Astronomie, Physik, Chemie und Physiologie gerade bei den hervorragenden Forschern. Die mathematische Methode muss sich daher zur speculativen erheben, welche dem Begriff der Vernunft und ihrer Dialektik folgt.
+
+## Aus Véra's Commentar zu Hegel's Naturphilosophie: die Theorie der Farbe.
+
+Die Sorgfalt, mit welcher Véra der Hegel'schen Ex position Schritt vor Schritt nachgeht, um die eigenthüm lichen Wendungen derselben zu erläutern, um ihre Ausdrucksweise vor Missverständlichkeit zu schützen, um seine Uebersetzung zu rechtfertigen, ist nicht genug zu rühmen. Der Commentar, welchen er giebt, nimmt natürlich sehr verschiedene Dimensionen an. Bald beschränkt er sich auf einfache Erklärungen; bald ist er eine Unterstützung durch Anführung beweisender Thatsachen; bald sucht er die dunklen Stellen des Originals durch weitere Ver gleichung mit dem Ganzen aufzuhellen; bald schwillt seine Auslegung bis zu einer selbstständigen Abhandlung an. Der Zweck meiner Schrift kann nicht sein, dem Leser Sie soll nur die den Commentar Véra's mitzutheilen.
+
+[p. 47] Aufmerksamkeit darauf hinlenken und nicht blos die Philosophen, sondern auch die Naturforscher von Fach zur Lectüre und zum Studium der vortrefflichen Arbeit Véra's antreiben.
+
+Véra stellt sich mit seinem Commentar ganz auf den Boden einer rein verständigen Discussion.
+
+So sehr er immer das grosse Ganze der Natur vor Augen hat, so sehr er den systematischen Zusammenhang als das wichtigste Erforderniss wahrer Wissenschaft aufzusuchen be strebt ist, so darf der Leser doch sicher sein, dass er nirgends in einen leeren Schematismus verfällt, die Erscheinungen der Natur mit blossen dialektischen Formeln abzufangen, sondern alle Gründe der empirischen Auffassung mit Ernst und Treue zu berücksichtigen, und hierbei sich oft bis in das Speciellste, Subtilste der Ermittelung der Thatsachen einzulassen. Véra besitzt den Muth, sich durch die Dogmen der herrschenden Tagesmeinungen nicht ein schüchtern zu lassen und gegen sie alle Gründe, welche sie oft umgeht und verschweigt, schonungslos geltend zu machen. Ein solches Dogma ist von uns schon berührt worden; es ist das vom Centralfeuer der Erde. Véra be kämpft es von den verschiedensten Seiten, am Ausführlich sten bei der Frage nach der Entstehung des Granits II, 406-17. Ein anderes Dogma ist das von den Aërolithen Diese sollen, nach der jetzt herrschenden Hypothese, welche sich auf die Namen eines Arago und Humboldt stützt, nicht in unserer Atmosphäre erzeugt werden, sondern von Aussen her in dieselbe fallen und durch die Schnelligkeit der Bewegung glühend werden.
+
+Véra erklärt
+
+Hegel für den Ursprung derselben aus unserer Atmosphäre; I, 453-58.
+
+Die Hypothese, sie aus einer Zone kleiner
+
+Steine abzuleiten, die im Weltraum circuliren, erklärt er für ganz unzulässig.
+
+Das Interesse der heutigen Wissen schaft ist die mechanische Auffassung der Natur.
+
+Véra [p. 48] meint, dass, wenn sich Hagel, Wasserhosen u. dgl. in unserer Atmosphäre bilden können, nicht abzusehen sei, warum nicht auch Sternschnuppen in ihr sollen entstehen können, da Eisen, Mangan, Kobalt, welche die chemische Analyse in den Meteorsteinen findet, sich auch im Regen wasser, also in der Atmosphäre, finden. Das Interesse jener kosmischen Hypothese ist, die Meteore nicht ent stehen zu lassen, sondern sie als schon fertige in unserer Atmosphäre durch Friction machen.
+
+im Fallen nur glühend
+
+Das Dogma der Atomistik bekämpft Véra von den mannigfaltigsten Gesichtspunkten an den verschiedensten Orten.
+
+Ich erlaube mir, von dieser Polemik nur Eine
+
+Probe zu geben. Véra spricht I, S. 556 davon, dass die Wärme nicht ein für sich bestehender Stoff, sondern ein den Körpern inhärirender Zustand sei, und sagt:
+
+»Die
+
+Physik geht von der Voraussetzung aus, dass die Materie aus Atomen zusammengesetzt sei; dass diese Atome nicht nur weder warm noch kalt, sondern für die Wärme un durchdringlich sind, so dass diese Alles durchdringende imponderable Wärme nur in den Poren oder Zwischen räumen der Atome existiren kann. Noch mehr. Diese Atome haben ein Gewicht, aber ein im Verhältniss zu diesen Zwischenräumen so kleines Gewicht, dass La Place dafür hielt, dass in den härtesten Metallen die Atome von einander um das mehr als Tausendfache ihres Gewichts getrennt wären.
+
+Im Uebrigen, das Atom eines im andern sind, obwohl die Wärme und verhalten sie sich wie zwei schlechthin verschiedene Wesen, die sich, man weiss nicht wie, vereinigt finden, gerade wie, die Attraction und die Repulsion sich in einer andern Sphäre vereinigt finden. Endlich lehrt man, dass die Wärme eine repulsive Kraft übt, d. h. dass sie die Atome, welche die Attraction wahrscheinlich, nach der Meinung der Anhänger dieser Theorie, einander nähern würde, von einander entfernt. Alles dies [p. 49] ist, wie man sehen kann,
+
+Voraussetzungen. gat von Atomen.
+
+eine Folge von unzulässigen
+
+Denn erstlich ist die Materie kein Aggre Sodann: erwärmt die Wärme die Atome?
+
+Erwärmt sie dieselben, so dehnt sie dieselben auch aus. Also erwärmt sie dieselben nicht. Wie fängt sie es aber an, Elemente nicht zu erwärmen, mit denen sie sich be rührt, welche sie von allen Seiten umgiebt und denen man selbst ein Gewicht beilegt? Und ferner, wie findet sich das Atom zur Seite der Wärme? Hat der Zufall sie ein ander nahe gebracht oder haben sie eine gemeinsame Natur?
+
+Endlich, was ist die repulsive Kraft der Wärme?
+
+Ist es dieselbe repulsive Kraft, die in der mechanischen Zusammensetzung der Materie thätig ist? Und wie findet sich diese repulsive Kraft mit der attractiven in derselben Sphäre oder, besser gesagt, eben da, wo diese? Und was machen die Atome zwischen diesen beiden Kräften? Sie ziehen dort weder an, noch stossen sie ab, sondern sie sind nur da, um angezogen und abgestossen zu werden, so dass diese constitutiven Principe der Materie sich in einem völlig trägen und passiven Zustande befinden würden.
+
+Alles das, wir wiederholen es, kann man nicht zugeben. << Ich enthalte mich, aus dem Reichthum kritischer Bemerkungen Véra's, die für die exacten Naturforscher nicht weniger als für die Philosophen fruchtbare Anregung bieten, mehr herauszuheben, da man sie im Zusammenhange mit dem Text auffassen muss. Um jedoch dem Leser eine genügende und ihn zum Studium des Véra'schen Werkes anreizende Vorstellung des Commentars zu geben, will ich Einen Gegenstand hervorziehen, der mir am geeignetsten dazu scheint, die Lehre von der Farbe. Obwohl Véra auch andere Begriffe, namentlich in der organischen Natur die Begriffe des Bluts, der Zeugung, der Classifica tion der Thiere, des Todes, ausführlich und höchst anziehend commentirt hat, so scheint ihn doch das Interesse [p. 50] an der Licht-
+
+Farbenlehre einer ganz beson deren Ausführlichkeit gereizt zu haben, wie allerdings auch Hegel selber darüber ausführlicher als über irgend einen andern Punkt ist.
+
+Theorie der Farbe. Hegel hat in seiner Naturphilosophie 1) das Licht, S. 129-148, und 2) das Verhältniss der individualisirten Materie zum Licht, S. 277-335, ausführlich erörtert. Er steht hier mit Goethe auf demselben Standpunkt, aber nicht aus Voreingenommenheit für Goethe gegen Newton, sondern in vollkommen selbstständiger Weise nach dem ganzen Zusammenhang seines Systems. Seine Auslassungen über diesen Gegenstand sind so frei von aller schola stischen Diction in einer einfachen, treffenden, zuweilen dichterisch angehauchten Prosa gehalten, dass die Form seiner Darstellung wenigstens nicht der Grund sein kann, sich auf seine Gedanken nicht einzulassen. Die deutschen Physiker haben es unter ihrer Würde gehalten, davon Notiz zu nehmen. Sie haben Hegel damit abgethan, dass schon das Factum ihn verurtheilen müsse, mit Goethe sich gegen Newton erklärt zu haben.
+
+In der Geschichte der Wissenschaften wird dies vor nehme Verhalten der Fachwissenschaft gegen eine ihr un bequeme Theorie einst zu den denkwürdigsten Phasen ge hören. Goethe's Arbeiten wurden von ihr als die eines Dilettanten, eines Dichters, ignorirt und bespöttelt. Wenn Goethe als Künstler auch für die ästhetische Seite der Natur, für die Naturformen,
+
+Sinn gehabt habe, so sei er doch für die Optik ganz unfähig gewesen, weil ihm für sie die nöthige mathematische Bildung abgegangen sei. Goethe mochte darauf erwidern, so oft er wollte, dass es doch in der Naturwissenschaft zuerst auf die richtige Anschauung des Phänomens ankomme und dass es [p. 51] sehr gleichgültig sei, ob diese von einem Dichter oder von einem Professor der Physik herrühre; er mochte fragen, ob man seine Erfahrungen denn durch die Erfahrung widerlegen könne; er mochte aus der Geschichte der Optik darthun, dass ähnliche Gedanken, als die seinigen, schon immer von Anderen geäussert seien; er mochte das künstliche Vertuschen der Widersprüche in Newton's diplomatischem Verfahren mit noch so vielen That sachen belegen; es half ihm Alles nichts. wird verbrannt. << » Der Ketzer
+
+Es war der Philosoph Arthur Schopenhauer, der, Leipzig 1816, mit einer Abhandlung: » Ueber das Sehen und die Farben « für Goethe auftrat.
+
+Er übersetzte diese
+
+Schrift 1830 in's Lateinische, um sie weiter in's Ausland hin wirken zu lassen, im dritten Bande von J. Radius: „Scriptores ophthalmologici minores." was er in seinen:
+
+Umsonst.
+
+Man lese, „Parerga und Paralipomena“ ,
+
+Berlin
+
+1851, II, 143, in dem siebenten Capitel, zur Farbenlehre, darüber sagte. Der aber, welcher lange nach Goethe's Tode, unabhängig von der Hegel'schen Philosophie, ausführlich seiner Farbentheorie sich annahm, war F. Grävell in seiner Schrift: » Goethe im Recht gegen Newton « , Berlin 1857. Von dieser Schrift musste man einige Kenntniss nehmen, wenigstens so weit, um sie als eine gänzlich verfehlte und überflüssige niederzuschreien.
+
+zunächst einer vertheidigte » Charakteristik
+
+Grävell kleinen Schrift:
+
+Newton'schen Farbentheorie « , Berlin 1858.
+
+Die Einwendungen des Professors Herrn von Quintus Icilius der >> Heidelberger kritischen Zeitschrift für Chemie, Physik und Mathematik « , 1858, Heft II und III, bewogen ihn zu einer ausführlichen Entgegnung: » Ueber Licht und Farben, mit besonderer Beziehung auf die Farbenlehren
+
+Newton's und Goethe's« , Berlin 1859. aber erst recht todtgeschwiegen.
+
+Diese Schrift wurde
+
+[p. 52] Der Engländer G. H. Lewes hat eben als Engländer in seiner bekannten Schrift über Goethe's Leben und Schriften nicht verfehlt, sich auf Seiten Newton's zu stellen und Goethe über seine Verblendung und Hartnäckigkeit zu bemitleiden. Er fusst dabei besonders auf Helmholz: »Ueber Goethe's naturwissenschaftliche Arbeiten «
+
+>> Kieler Allgemeinen Monatsschrift für Wissenschaft und Literatur« , 1853, im Maiheft. Man gestatte mir, zur Einleitung in Véra's Commen tar einige Betrachtungen über das philosophische Interesse dieser Streitfrage vorauszuschicken. Dies Interesse begründet sich durch den Wider spruch zwischen dem Begriff, welchen die Physik auf stellt, und zwischen der Thatsache, welche die Anschauung wahrnimmt. Der Philosophie wird von der Empirie, von der exacten Wissenschaft, nichts so oft und so hart vorgeworfen, als der Widerspruch, in welchem sie durch ihre Begriffe sich mit den Thatsachen befinde. ist nun der Fall,
+
+Hier dass die exacte Wissenschaft Begriffe lehrt, welche durch die Thatsachen nicht bestätigt werden, die aber nichts destoweniger die einzig wahren sein sollen. Der Punkt, um welchen sich der Streit drehet, ist folgender. Die Newton'sche Theorie behauptet: das reine Licht ist die mechanische Einheit, die Summe von sieben verschiedenen Lichtern, deren jedes in sich homogen ist. Diese sieben Lichter sind die verschiedenen Farben. Wenn also eine Farbe erscheinen soll, so ist dies nur möglich durch die Decomposition, die Zerlegung des reinen Lichtes. Um dies zu bewirken, muss man einen Lichtstrahl durch ein kleines Loch in einem Fensterladen auf ein Glasprisma vor einer hellen Wand fallen lassen.
+
+Er wird sich als dann in die sieben Farben, aus denen er besteht, brechen. Die Goethe'sche Theorie sagt: das reine Licht ist als in sich unterschiedlos das reine (auch sogenannte weisse)
+
+[p. 53] Licht.
+
+Die Färbung des Lichts entsteht erst durch seine Trübung, welche das Dunkel des Zimmers durch Schliessung des Fensterladens und das Prisma bei dem Newton schen Experiment bewirken.
+
+Das Prisma ist zwar durch sichtig, aber es ist doch als materiell ein relativ trüben des Mittel. Die Newton'sche Theorie lässt die Farben nicht aus dem Zusammenwirken des Lichts und des Dunkeln, Verschattenden entstehen, sondern abstrahirt für das Licht ganz von den es trübenden Bedingungen, die von ihr selber gefordert werden. Die Farben werden ihr zu besonderen Strahlen, die als solche in dem Licht schon fertig enthalten sind und durch jene sichtbar gemacht werden.
+
+Vorrichtung nur
+
+Die Goethe'sche Theorie behauptet hingegen, dass das Dunkel, das Schattende, ein nothwendiger Coëfficient für die Genesis der Farbe, oder, mit andern Worten, dass die Farbe ein Product zweier Factoren, Dunkels, sei.
+
+des Lichts und des
+
+Weder das Licht an sich, noch das Dunkel an sich sind farbig, sondern das Licht wird farbigt, indem es sich mit dem Dunkel irgend wie berührt. Dies ist die Thatsache, welche die Natur uns überall zur Anschauung vorlegt. Den Beweis hierfür liefert nicht nur Alles, was Goethe von Experimenten durch Trübung eines Hellen oder Auf hellung eines Trüben beigebracht hat, sondern auch New ton's Optik selber, welche das weisse Licht irgend wie, durch irgend ein Medium, brechen muss. Die Erfahrung steht also ohne Ausnahme auf Seiten der Goethe'schen Theorie.
+
+Dass die Newton'sche ihr gegenüber versichert, das reine Licht bestehe aus der Summe aller sieben in ihm enthaltenen Farben, wird ihr nur dadurch möglich ge macht, dass Farbe überhaupt ohne Licht allerdings nicht entstehen kann und dadurch der Schein erweckt wird, als ob die Farben aus dem reinen Licht als besondere Lichter [p. 54] frei würden, aus ihm in ihrer particulären Selbstständig keit hervorträten. Wie es möglich sei, dass die Summe der homogenen Lichter das reine Licht hervorbringen können, bleibt un Die sorgfältigste Beobachtung kann im Licht begreiflich.
+
+als solchem auch nicht die geringste Farbenspur entdecken. Die Philosophie muss sich bei diesem Streit auf Goethe's Seite stellen, weil sie begreift, wie das Eine, das Licht, durch seinen Gegensatz, das Dunkel, in die Vielheit der Farben übergehen kann; weil ihr aber alles Verständ niss ausgehen muss, wenn eine Ursache, wie das Dunkel, wie das Prisma, keine Wirkung haben soll, denn obwohl das Spectrum ohne sie nicht hervorgebracht werden kann, so soll sie doch, indem das Licht durch sie gebrochen wird, keinen Antheil an dem dadurch entstehenden Product haben, machen.
+
+kein integrirendes
+
+Moment desselben aus
+
+Es ist bis dahin gleichgültig, ob man die alte Newton sche Emissionstheorie, oder die von den Newtonianern neueren Styls adoptirte Huyghen - Fresnel'sche Undulations theorie voraussetzt. Nimmt man die letztere an, so erhält man mittelst der Hypothese der Interferenz ein Mittel, durch das Licht selber im Licht Schatten zu erzeugen und sich damit der Goethe'schen Theorie zu nähern, ohne doch ihr Princip an zuerkennen. Man hat den Ruhm, Newtonianer zu bleiben. Es tritt aber mit der Wellentheorie eine neue Schwierigkeit ein, sofern sie nur quantitativ genommen wird. Das Licht bewegt sich. Diese Bewegung hat eine be stimmte Geschwindigkeit. Sind nun die verschiedenen Farben selber verschiedene Lichter, so kann ihr Unter schied nur durch den Unterschied des verschiedenen Maasses ihrer Geschwindigkeit erklärt werden. Es ist nicht die Qualität, welche das Roth zum Rothen, das Blau zum Blauen macht, sondern was uns so erscheint, soll nur der [p. 55] Unterschied der Geschwindigkeit sein, mit welcher sich der eine und der andere Strahl bewegt. Um nun aber doch den Unterschied sinnlicher, greif licher zu machen, sollen die Farben sich auch nach der Länge und Breite ihrer Wellen unterscheiden. Was wir also als Farbe sehen, ist hiernach nichts anderes, als eine mechanische Action. Das Violet z. B. ist eine solche Bewegung des Aethers, in welcher sich Wellen erzeugen, die nach Fresnel in einer Secunde 759 Billionen
+
+Schwingungen
+
+Naturwissenschaft hat machen sollen. Die moderne uns zwar sehr daran gewöhnt, weder über sehr grosse, noch über sehr kleine Zahlen zu erstaunen, allein 759 Billionen Schwingungen in einer Secunde von einer Aetherwelle von 423 Millionteln Länge wollen doch verdaut sein. Jeder Farbenstrahl schwingt, wie man versichert, mit einer andern Geschwindigkeit, der violette schneller als der rothe u. s. w. Die Schwierigkeit, welche dadurch erwächst, besteht darin, dass diese verschiedenen Geschwindigkeiten in dem sogenannten weissen Licht, dessen Aether welle eine Länge von 21 Milliontel Linien haben soll, als eine Einheit sich zusammen bewegen sollen. Wie ist das möglich? Man vergesse nicht, dass die verschiedenen Lich ter sich als reines Licht keineswegs chemisch neutralisiren, sondern dass sie in ihm in aller Selbstständigkeit nur la tent sein sollen, um gelegentlich durch den Bruch her vorzutreten. Da die Messung der Aetherwellen, die uns unsichtbar bleiben sollen, direct nicht möglich ist, so beruht sie nicht sowohl auf einer völlig exacten Grundlage, als vielmehr auf einer ungefähren Schätzung. Die Angabe über die Länge und Breite der Wellen wie über die Geschwindig Vor zehn keit derselben ist daher eine sehr verschiedene. Jahren waren andere Bestimmungen darüber im Umlauf [p. 56] als gegenwärtig. Man ändert diese Quanta, um sie den Bedürfnissen, zu welchen die Erfahrung drängt, anzupassen. Es bilden sich conventionelle Zahlen, die eine Zeit lang kanonisches Ansehen behaupten, bis sie still schweigend wieder verlassen werden. In der Chemie ist es ebenso. Früher bestimmte man das Atomgewicht nach der Einheit des Sauerstoffs, heut zu Tage nach der des Wasserstoffs. Die Forscher selbst sind über dies Gewicht durchaus nicht einig, aber das dringende Bedürfniss eines Grundmaasses bewirkt, dass man zuletzt sich epochenweise an eine approximativ für die Rechnung bequemste Zahl gewöhnt. Man wird nun aus dem nachfolgenden Auszug, den ich aus Véra's Commentar mache, die Widersprüche der herrschenden Licht- und Farbentheorie gründlich ersehen können. Véra erscheint hierbei auch als ein Gegner der Aether theorie. Man kann ihm nur beistimmen, wenn er den Missbrauch bekämpft, der mit dem Aether getrieben wird. Man kann die Widersprüche nicht ableugnen, in welche die Physik sich durch ihn mit ihren Principien setzt. Der Aether soll nicht etwa eine Kraft, sondern Materie sein, denn er bewegt sich im Raum und in der Zeit, und zwar, wie man versichert, wellenförmig. Und doch soll er im Er soll sich wellenförmig bewegen ponderabel sein. und doch aus Atomen bestehen. Und diese Atome sollen nicht, wie sonst alle Materie, attrahiren, sondern repel liren. Man gesteht ein, den Aether nicht zum Gegen stand empirischer Wahrnehmung machen zu können, allein man genirt sich nicht, von ihm zu behaupten, dass er alle Körper durchdringe. Wägbarkeit,
+
+Man hebt also für ihn die die Anziehung, die Undurchdring lichkeit und die Trägheit der Materie, d. h. alle die jenigen Gesetze auf, welche sonst als die absoluten Stützen der Naturwissenschaft gelten. Der Aether muss alle Wun der bewirken, die man sonst nicht erklären könnte; und [p. 57] die Natur nicht erklären zu können, wäre ein Armuths zeugniss, zu welchem der Stolz der heutigen Physik sich nicht entschliesst. Sie erklärt daher Alles, was ihren sonst geheiligten Gesetzen widerspricht, durch den Aether.
+
+macht ihn zum Surrogat für den Gedanken und seine Dialektik. Sie hat am Aether ein Princip der Nega tivität in materieller Form. Der Aether ist es, der die ponderabeln Atome auseinanderhält; der Aether ist es, dessen Widerstand die progressive Verkürzung einer Kome tenbahn warum aber bis jetzt nur d'e des Enke'schen Kometen? bewirken soll; der Aether ist es, aus dessen Atomen die kosmischen Nebel entspringen u. s. w.; genug, er stellt sich mit seiner Subtilität und Elasticität überall, wo die Physik in Verlegenheit geräth, als ein willkomme ner Gehülfe ein, der Alles bewirkt, was die gewöhnlichen Agenten der Naturwissenschaft zu vollbringen sich wei gern würden.
+
+Wenn aber der Aether auch nur eine Hypothese und zwar oft gemissbrauchte Hypothese ist, so würde es doch meiner Meinung nach Unrecht sein, in ihm nicht ein grosses Symptom der Naturwissenschaft zu sehen, den Kreis ihrer bisherigen Principien zu durchbrechen und sich zu höheren Begriffen ähnlich fortzubilden, als die Mathematik es durch den Begriff der immaginären Grösse und die Philosophie selber es durch die Dialektik gethan hat. Wenn Véra aber nicht nur den Aether, sondern auch die Undulationstheorie überhaupt anficht, so bekenne ich offen, ihm hier nicht folgen zu können. Gewiss sind die Aus stellungen, die er an dieser Theorie macht, an sich sehr bedeutend; ihr kritischer Werth ist gross; da aber der Schall, die Wärme, das Licht, sich bewegen, so ist nicht abzusehen, in welcher andern Form, als in der Wellen bewegung, sie sich continuiren sollen. bei Hegel eine Auseinandersetzung, Form begreiflich machte.
+
+Ich vermisse hier welche eine andere Mag ein Aether existiren oder [p. 58] nicht, so bleibt doch immer die Bewegung, mit welcher, was das Licht betrifft, die Goethe'sche Farbentheorie sich sehr wohl verträgt, worüber ich auf Grävell's schon er wähnte Schriften verweise.
+
+Ich lasse nunmehr die scharfsinnigen Erörterungen Véra's über das Licht und die Farben folgen.
+
+Ueber die Lichtbrechung.
+
+Zu §. 318, p. 46 ff.
+
+Es ist zuvörderst zu bemerken, dass dies Phänomen sich nur unter eigenthümlichen Bedingungen erzeugt und dass ihm ein eigenes Gebiet, ein eigenthümlicher und bestimmter Gegenstand zukommt. Dieser Gegenstand ist die Bestimmung der Ortes, nicht eine Bestimmung des rein mechanischen Ortes, wie es die Bestimmung durch die Attraction, die Repulsion oder die Bewegung sein würde, sondern eine Bestimmung des speciellen Ortes, und zwar, wie sie sich hier gestalten muss, d. h. des sichtbaren Ortes. Die Körper treten somit hier nur so weit in Verhältniss zu einander, durch ihre Einwirkung den Ort zu bestimmen, wo ein Gegenstand gesehen werden kann. Denn die Sichtbarkeit ist, wie die Schwere, die Cohäsion, der Geschmack u. s. f. , eine der Naturbestimmtheiten, und insofern muss der Gegenstand nicht nur überhaupt, sondern in einer spe ciellen Weise, in derjenigen nämlich gesehen werden, welche das Sehfeld constituirt. Wenn man daher einerseits hier nicht mehr rein mechanisches Verhältniss oder von einfacher Cohäsion hat, so hat man anderseits auch nicht jenes Verhältniss, bei welchem sich die ganze Natur der Glieder des Verhältnisses angezogen findet, sondern ein solches Verhältniss, wo zwei Körper in einander sind und sich als sichtbare und leuchtende durchdringen oder, was dasselbe, sofern sie durch ihr identisches und allgemeines Element, das Licht, durchdrungen werden, es durchdringen und sich in ihm gegenseitig durchdringen.
+
+[p. 59] Das erste Verhältniss der Gestalt zum Licht begründet die Durchsichtigkeit. Der Körper ist leuchtend, sofern er durchsichtig ist. Das zweite Verhältniss ist das der verschiedenen Durch sichtigkeiten oder der auf verschiedene Weise durchsich tigen Körper. Mithin ist die Thatsache sehr einfach.
+
+Indem das
+
+Licht von einem Mittel in ein anderes qualitativ verschiedenes übergeht, folgt es nicht der nämlichen Richtung, sondern beugt sich mit einer gewissen Quantität von ihr je nach der Beschaffenheit der Mittel und seinem Ausgangspunkte ab. Es handelt sich um die Erklärung dieses Phänomens. Snellius oder Descartes fand das Gesetz oder die Form dieses Verhältnisses. Allein es erhellt, dass die geometrische Erklärung unzureichend ist und, so zu sagen, durch Linien nur den Weg beschreibt, den das Phänomen einschlägt, ohne den wahren Beweis zu geben, denn man hat hier nicht rein geometrische, sondern phy siche Linien. Es kommt also darauf an, die innere oder physiche Natur dieses Phänomens zu bestimmen. In der Wellentheorie erklärt mau es durch den Unterschied der Geschwindigkeit des Lichts in den beiden Mitteln.
+
+Licht pflanzt sich in gerader Linie mit einer gewissen Geschwindigkeit fort. Vermehrt sich die Dichtigkeit des Mittels, so muss die Geschwindigkeit des Lichts in Folge des grössern Widerstandes des neuen Mittels sich vermindern; sie muss sich also auch ablenken,
+
+#### d. h. sich der
+
+Normale je nach der Dichtigkeit des Mittels annähern. Das Gegentheil wird stattfinden, wenn das Licht von einem dichteren Mittel in ein weniger dichtes übergeht. Indessen gilt dies nur für die schräg auffallenden Strahlen, denn senkrechten Strahlen erleiden keine Brechung, weil, wie man voraussetzen muss, das Mittel dem Strahl keinen oder doch nicht den Widerstand entgegensetzt, als wenn er schräg auffällt.
+
+[p. 60] Dies ist, wie man sieht, eine rein mechanische Er klärung, die im Grunde von derjenigen nicht abweicht, welche man von der Refraction der festen Körper giebt. Sieht man von der Schwere ab, so wird ein fester Körper, der schräg in ein vollkommen homogenes Mittel geworfen wird, fortfahren, sich in gerader Linie nach der Richtung seines anfänglichen Anstosses und im Verhältniss zur Kraft, mit welcher er erfüllt worden, fortbewegen; trifft er aber ein dichteres Mittel, z. B. das Wasser, unter einem ge wissen Winkel (denn es giebt auch hier in gewissen Fällen Reflexion oder Rückschlag) , so wird seine Geschwindigkeit, wie seine ursprüngliche Richtung sich durch die Dichtigkeit des neuen Mittels und zwar im Verhältniss zu dieser Dichtigkeit ändern. Aber diese Theorie legt von dem Phänomen in keiner Weise Rechenschaft. Und selbst wenn man zugiebt, dass sie die Abweichung des Lichts erklären könne, welches von einem undichteren Medium in ein dichteres übergeht, so sieht man nicht, wie sie das entgegengesetzte Phänomen erklären könne.
+
+Denn da das Mittel, in welches der Strahl eintritt, weniger dicht ist, als das, aus welchem er austritt, so ist der Widerstand, dem das Licht begegnet, geringer, und man versteht deshalb nicht, warum es sich ablenken und von der Normale entfernen soll. Man könnte sagen, dass diese Ablenkung und diese Entfernung daher kommen, dass seine Stärke und Geschwindigkeit sich in Folge des Widerstan durchlaufenen Mittels selbst verringert haben.
+
+Allein man wird darauf antworten, dass, da es mit einer unendlichen Kraft und Geschwindigkeit begabt ist, diese Veränderung, wenn eine solche existirt, unmerklich sein und sich jedenfalls durch den Unterschied der Mittel aus geglichen finden müsste. Denn indem sich das Licht jetzt in einem undichteren Mittel bewegt, müsste es eben des halb sich schneller bewegen müsste folglich keine
+
+[p. 61] Abweichung statt finden. Das ist noch nicht Alles, viel mehr wenn man in dem Punkt, wo der Strahl sich im einem weniger dichten Mittel bricht, an seine Stelle ein anderes Mittel setzt, d. h. das dichteste, so wird das Phänomen aufhören und der Strahl wird sich
+
+Uebergang zu mit derselben Geschwindigkeit und in der nämlichen Richtung, wie zuvor, bewegen. Und doch müsste das Gegen theil eintreten, wenn es wahr ist, dass die Abweichung des Lichts in diesem Fall von einer Schwächung seiner Kraft und Geschwindigkeit herrührt. Denn diese Schwächung müsste eben dadurch, dass man einem dichteren
+
+Mittel ein weniger dichtes unterstellte, zunehmen, und auch die Brechung müsste, statt aufzuhören, in derselben Pro portion sich vermehren. Man stellt sich in dieser Erklärung das Licht aus kleinen Strahlen zusammengesetzt vor, die von allen Punkten des leuchtenden Körpers ausgehen. Und man muss es sich wohl so vorstellen, um die verschiedenen Grade der Schiefe des einfallenden und des gebrochenen
+
+Strahls, sowie die Abwesenheit der Brechung in dem auf der Oberfläche des Einfallswinkels senkrechten Strahl zu erklären. Dieser Begriff einer Zusammensetzung des Lichts ist aber ein durchaus willkürlicher und der Natur des Lichts entgegengesetzter.
+
+Es ist nur eine An wendung der geometrischen und mathematischen Analyse auf das Licht, gerade so, wie man eine Kugel in Ebenen zerlegt und sie dann als aus Ebenen zusammengesetzt vor stellt, was ein für die mathematische Kenntniss sehr be quemes und sehr nothwendiges, der wahren Erkenntniss der Dinge jedoch keineswegs adäquates Verfahren sein kann. Aber selbst wenn man annimmt, dass das Licht sich in kleine Strahlen, in geometrische Linien zerlegt, so muss man annehmen und nimmt in der That an, dass es sich auf dieselbe Weise und ohne sich zu brechen in dem selben Mittel fortpflanzt, z. B. im Wasser oder in der Luft.
+
+[p. 62] Ist es so, so sieht man nicht ein, warum es Strahlen giebt, welche sich brechen, und andere, welche sich nicht brechen, denn sie pflanzen sich alle in derselben Weise und mit derselben Geschwindigkeit in demselben Mittel fort und müssten sich folglich sämmtlich bei einem Uebergange von einem Mittel zum andern brechen, da in dieser Hinsicht zwischen dem senkrechten Strahl und den übrigen kein Unterschied ist. Diese Erklärung ist also eine rein sub jective, d. h. dass der Unterschied von Strahlen, welche sich brechen, und anderen, welche sich nicht brechen, nicht ob jectiv, sondern nur in Bezug auf unser Auge und seine Stellung existirt. Derselbe Strahl also, der für das senk recht blickende Auge sich nicht bricht, wird sich für das brechen, welches ihn schief sieht. Und man sage nicht, dass es nicht der nämliche Strahl sei, denn das Auge, welches zum Verbindungspunkt der beiden Medien da, wo der Strahl aus dem einen herausgeht, um in das andere überzugehen, schräg gestellt ist, sieht und muss diesen Punkt eben so gut sehen, als das, welches ihn senkrecht erblickt. Für das eine wie für das andere hat der Strahl dieselbe Richtung verfolgt. Bis zum Eintritt in das an dere Mittel hat er denselben Weg zurückgelegt, und nur im Verbindungspunkt beider Mittel weicht er für das eine Auge ab, während er sich für das andere in derselben
+
+Richtung fortbewegt. Es ist wahr, dass, wenn ein Strahl nicht genügt, man ihn in mehrere zerlegt oder ihn vergrössert, oder statt Eines Strahls Strahlenbündel oder auch Strahlen in un endlicher Anzahl verwendet, die von allen Punkten ausgehen und sich überall durchkreuzen. Ist es aber so, wie kann das Auge, was auch sonst seine Stellung sei, in diesem Durcheinander sehen? Man müsste sogar sagen, dass der Punkt, den es am wenigsten sehen kann, der ist, den es sehen will, weil sich zwischen ihm und diesem Punkt jene verworrene Masse von Strahlen zwischenschiebt. In dem [p. 63] Fall, dass ein Gegenstand in einem mit Wasser gefüllten Behälter gehoben erscheint, handelt es sich nicht blos, wie Hegel bemerkt, um einfache Strahlung oder um ein ein faches Verhältniss von Strahlen, sondern um ein Verhältniss von zwei Mitteln und von dem, was sich in diesen Mitteln findet.
+
+Mit andern Worten, man hat hier nicht blos Strahlen, die sich auf einem gewissen Punkt an der Grenze zweier Mittel abbeugen, sondern man hat zwei ganze Mittel, die gegenseitig auf einander wirken. Denn wenn der Gegenstand gesetzt und erhoben erscheint, so ist es weder das einfache Licht, noch die Action des einen oder des andern Mediums, sondern die vereinte Thätigkeit beider Medien, die ihn so erscheinen lässt.
+
+Und diese
+
+Thätigkeit ist nicht blos auf den Berührungspunkt be schränkt, sondern erstreckt sich auf alle Punkte beider Mittel.
+
+Denn wenn das in der Luft befindliche Auge den Gegenstand im Wasser gehoben erblickt, so kommt dies sowohl von der Natur der Luft als der des Wassers und vom Verhältniss dieser beiden
+
+Naturen,
+
+#### d. h. von der
+
+Durchdringung der beiden Mittel. Ihre ideelle Einheit wirkt auf beide, den sichtbaren Ort zu bestimmen. Princip, welches macht, dass das Wasser als leuchtend in der Luft, und umgekehrt, dass die Luft als leuchtend im Wasser ist, muss ein objectives Princip sein, welches die Totalität beider Medien umfasst und folglich vom Auge und seiner Stellung unabhängig ist. Dies findet in der That statt, denn das Mittel ist stets gehoben, welches auch die Stellung des Auges sei, und der Einfallswinkel wie der Brechungswinkel sind nur theilweise Bestimmungen dieser totalen Erhebung.
+
+Man hat also zwei Mittel, die verschiedene Dichtigkeit besitzen, und zwar keine einfache, wie ein fester Körper, der einem andern Widerstand leistet, sondern als eine von Luft durchdrungene, als eine leuchtende Dichtigkeit. tende
+
+Man hat also zwei verschiedene leuch
+
+Dichtigkeiten ihre ideelle
+
+Einheit, [p. 64] bewirkt, dass die Dichtigkeit des einen Mittels als leuchtende und sichtbare die des andern durchdringt, oder, was das selbe ist, dass die Dichtigkeit des einen zu der des andern wird und in ihr erscheint, woraus nothwendig die Ver setzung der beiden Mittel folgt. Denn der sichtbare Ort ist nicht sichtbar durch die Action nur eines der Mittel, sondern durch die combinirte Action beider Mittel.
+
+Beide
+
+Mittel und beide reelle Oerter müssen sich also versetzen (déplacer), um den sichtbaren Ort zu bilden; diese Ver -setzung ist eine Erhebung und eine Vergrösserung. Indessen bietet dies Gesetz Ausnahmen dar.
+
+Wir wollen sagen, dass die Dichtigkeit nicht immer das Princip des Brechungsvermögens der Körper ist. Die brenn lichen Substanzen, der Alkohol, die Oele und selbst das Wasser (man weiss, dass Newton, indem er sich auf diese Thatsache stützte, im Wasser und im Diamanten Brenn barkeit enthalten glaubte) besitzen eine Brechungskraft, die ihrem specifischen Gewicht nicht proportional ist.
+
+Einwurf, den man hieraus entnehmen kann, trifft Hegel's Theorie ebenso gut, als die gewöhnliche physische, ja die letztere noch mehr, weil diese Ausnahmen nicht nur die Lehre angreifen, sondern in der That das ganze System der Brechung und der Doppelbrechung, wie die Theorie der Wellenbewegung sie aufgestellt hat. Denn nach dieser Theorie ist es freilich die Dichtigkeit, welche die Bre chung hervorbringt, aber die Dichtigkeit, die als ein von der Geschwindigkeit des Lichts unterschiedenes Princip operirt; es würde gerade der Unterschied dieser Geschwindigkeit sein, welcher die Brechung begründete, weil durch die geringere Dichte die Geschwindigkeit zunehmen,
+
+Brechung also abnehmen sollte, während das Gegentheil geschieht.
+
+Bei der Hegel'schen Erklärung intervenirt die Geschwindigkeit gar nicht, nur die Dichtigkeit.
+
+Die Dichtigkeit der beiden Mittel und ihre Einheit ist nach Hegel das besondere Princip, welches dies Phänomen bestimmt.
+
+[p. 65] Er hat Recht, sich nicht um sie zu kümmern, weil sie zur Erklärung der Bildung und Hebung des leuchtenden Bil des nichts beiträgt.
+
+Dennoch besteht der Einwurf gegen beide Theorien, gegen die der Physiker, wie gegen die Hegel's. Die erstere antwortet darauf, dass die chemische Beschaffenheit der Theile das Gesetz abändere; allein es ist klar, dass dies im Grunde gar keine Antwort ist, weil sie der Frage mit der Frage selbst antwortet, denn sie besagt, dass diese Modification durch ein gewisses Arrangement, durch eine gewisse Form der Theile des Körpers herbeigeführt werde. Gerade dies aber soll erklärt wer den, nämlich worin die Natur und die Function dieser be sondern Form besteht.
+
+Was Hegel's Erklärung anbetrifft, so ist sie, man muss es gestehen, nicht genügend, denn auch sie ist zu unbestimmt, allein sie ist besser als die der Physiker, denn sie ist aus der Natur des Lichts selber entnommen.
+
+Licht, das immateriellste Princip
+
+Körperwelt, bewahrt, indem es sich mit den Körpern mengt, seine Unabhängigkeit und lässt sich nicht durch die Ge setze ihrer Natur völlig unterjochen. Die Erklärung, welche wir von dem scheinbaren Ge hobenwerden eines Gegenstandes in einem Wasserbehälter geben, ist im Hegel'schen Sinne folgende.
+
+Die Dichtigkeit enthält als integrirende Elemente die extensive und intensive Quantität. Obwohl keine jemals ohne die andere sein kann, so kann doch ihr Verhältniss sich ändern, so dass in einem Körper die Extension die Intension, in einem an dern die Intension die Extension überragen kann. Könnte man nun nicht sagen, dass bei den in Rede stehenden Körpern die intensive Kraft die extensive überragt und ausgleicht, dass die specifische Schwere vor Allem als intensive Kraft derartig wirkt, dass unter dem nämlichen
+
+Volumen eine geringere extensive, aber grössere intensive Kraft enthalten wäre? Dies ist um so wahrscheinlicher, [p. 66] als das feurige Princip, also die intensivste Kraft, das be stimmende Princip des Brechungsvermögens dieser Körper zu sein scheint. Die Doppelbrechung.
+
+Zu § . 319. p. 55 ff.
+
+Die Doppelbrechung macht das dritte Moment im Verhältniss der Gestalt zum Licht aus. Die einfache Transparenz ist nur erst durchscheinend ohne alle weitere Bestimmtheit, wie die Materie zuerst nur die reine und abstracte Materie und wie der Raum zuerst nur der reine und unmittelbare Raum ist.
+
+Man hat in ihr weder die einfache Gestalt noch das einfache Licht, sondern die vom Licht erleuchtete Gestalt und das von der Gestalt durch drungene Licht, denn die Gestalt ist nicht gleichgültig gegen das Licht, sondern verleiht demselben Eigenschaf die es ohne die Gestalt und ausserhalb ihrer nicht Ausserhalb des Krystalls ist es nicht, was es in ihm ten, hat.
+
+ist, wie es im Schatten nicht ist, was es ausserhalb des selben ist. Die verschiedene Dichtigkeit in den verschie denen Gestalten führt die Brechung herbei, in welcher zwei Mittel als durchscheinend sich verhalten, das eine im andern, so dass das Licht in ihnen gegenseitig erscheint. Die Brechung macht die Particularisation der Transparenz aus. Die Körper sind nicht nur durchsichtig überhaupt, sondern sie sind es auf verschiedene Weise und sie sind es einer für den andern.
+
+Dieser Unterschied und diese Beziehung bildet die Brechung.
+
+Die Physiker erklären die
+
+Brechung und die Doppelbrechung durch die Geschwindigkeit.
+
+Weder der Unterschied der Dichtigkeiten, noch die Form der Mittel genügen ihnen, sondern es soll in der Geschwindigkeit des Lichts ein Unterschied als die unmittelbare Ursache der Abweichung des Lichts in den beiden Mitteln liegen. Die Anhänger der Emissions-, wie der Undulations theorie stimmen hierin überein; wenn auch, so zu sagen, [p. 67] widerborstiger Weise, denn während die ersteren lehren, dass die Geschwindigkeit mit der Dichte der Mittel wächst, lehren die andern im Gegentheil, dass sie abnimmt. Die Newtonianer, die Alles durch Attraction und Repulsion erklären wollen, sagen, dass das Licht, indem es vom Lee ren in ein materielles Medium übergeht, von den Molecü len desselben angezogen werden, seinen Weg beschleunigen und im Uebergang von einem undichteren Mittel in ein dichteres seine Geschwindigkeit steigern muss. Es muss die Richtung der Schwere nehmen und sich daher mehr und mehr der Normale nähern. ――― Die Andern dagegen stellen sich das Licht als mit einer eigenthümlichen, unendlichen Geschwindigkeit begabt vor, als die Wirkung einer Schwingung eines im Raum überall verbreiteten Aethers. Sie können daher die Abweichung des Lichts im Ueber gang von einem undichteren Mittel zu einem dichteren nicht einer Vermehrung, sondern nur einer Verminderung - der Geschwindigkeit zuschreiben, einer Verminderung, welche durch den Widerstand des Mittels entsteht. So begegnen sich beide Theorien im Ausgangspunkt; dann trennen sie sich, um sich im Endpunkt wieder zu sammenzufinden.
+
+Alle Wege, pflegt man zu sagen, führen nach Rom, allein eben deswegen kann der eine kürzer und schneller dahin führen. Da die Emissionstheorie von der heutigen Physik aufgegeben ist, so wollen wir uns auf eine Prüfung der Undulationstheorie beschränken und be merken zunächst, dass man in ihr das Gegentheil dessen aufstellt, was man von dem Ton lehrt. Denn wenn man für diesen zugeben muss, dass seine Verbreitung mit der Dichtigkeit des Mittels sich beschleunigt, behauptet man hier, dass der Strahl durch die Dichtigkeit des Mittels verzögert wird, in welchem Betracht die Emissionstheorie offenbar consequenter ist, weil sie die Geschwindigkeit in beiden Phänomenen durch die Dichte wachsen lässt. Man sage nicht, dass der Ton doch etwas Anderes sei als das [p. 68] Licht, denn dieser Unterschied verstärkt nur das Argument, weil der leuchtende Aether überall ist und weil seine Schwingungen schneller als die des Tons sind, mit hin die Ursache, welche die Geschwindigkeit des Tons mit der Dichte der Mittel vermehrt, ganz und gar und mit noch mehr Grund für das Licht besteht. Ausserdem hat man noch eine andere Substanz, die sich auch fortpflanzt und die sich dem Lichte noch mehr nähert als der Ton. Wir meinen die Wärme. Auch hier vermehrt sich die Geschwindigkeit der Fortpflanzung ungefähr proportional Nach den Untersuchungen der Dichtigkeit des Mittels. von Malus, von Berard und vorzüglich von Melloni, polarisirt die Wärme wie das Licht. Nun will man die Polarisation des Lichts und die daraus entstehenden Far den durch die ungleiche Geschwindigkeit des gewöhnlichen und des aussergewöhnlichen Strahls erklären, die aus einer Wäre es so, so doppelbrechenden Platte hervorgehen. hätte man zwei verschiedene Weisen der Polarisation, eine für das Licht und eine andere für die Wärme, falls man nicht durch einen Zauberschlag die Natur der Wärme in der Polarisation umändert, dass sie nämlich zwar im All gemeinen und im Normalzustande sich in einem dichteren Mittel schneller fortpflanze, aber, wenn sie sich polarisire, schneller in einem undichteren. Dieser Einwurf kehrt sich "gegen den innern Werth dieser Theorie selber, die nichts als eine modificirte Anwendung der Theorie des Tones auf das Licht ist. Nach derselben existirt zwischen Ton und Licht nur ein quantitativer Unterschied, d. h. ein Unter schied in der Anzahl der Schwingungen, obwohl selbst dieser Unterschied nicht mit der Erklärung stimmt, welche Man will nun allerdings sie von der Brechung giebt. zwischen Ton und Licht dadurch einen Unterschied machen, A dass bei dem Ton die Schwingungen senkrecht auf der Oberfläche der Tonwellen, bei dem Licht hingegen der Oberfläche selbst folgend oder transversal stattfinden sollen;
+
+[p. 69] allein abgesehen davon, dass diese Hypothese auch keinen qualitativen Unterschied setzen würde, so ist sie noch hypothetischer als die des Aethers selber. Uebrigens identi ficirt man in dieser Theorie die Brechung mit der Doppel brechung, oder, richtiger, die Ursache beider Erscheinungen, denn der einfallende und der gebrochene Strahl der einfachen Brechung werden darin zum gewöhnlichen und zum aussergewöhnlichen Strahl der Doppelbrechung, und die Ursache des einen wie des andern soll nur in dem Unterschied der Geschwindigkeit des Strahls liegen.
+
+Statt also hierin zwei verschiedene Phänomene, zwei verschiedene Momente der Natur zu sehen, blossen Wechsel der Position. sich um wesentlich erblickt man einen Aber es ist klar, dass es verschiedene Erscheinungen handelt.
+
+Die Flüssigkeiten und die Gase, welche einfache Brechung zeigen, haben niemals Doppelbrechung. Woher kommt das? Will man sagen, dass ihre Dichtigkeit keine doppelbrechende zu sein vermöge? Aber man wird diesen Grund fallen lassen, wenn man erwägt, dass es Flüssigkeiten giebt, welche eine stärkere Brechung als feste Körper haben. nur Flüssigkeiten und Gase giebt
+
+Und nicht es, die nicht doppel brechend sind, sondern feste Körper und unter diesen alle Krystalle, die zum kubischen System gehören.
+
+Will man sagen, dass in diesen festen Körpern und in diesen Kry stallen das Mehr oder Weniger von Dichtigkeit und also das Mehr oder Weniger von Geschwindigkeit nicht vorhanden ist, dessen man bedarf, die doppelte Brechung zu er klären?
+
+Ist also keine Doppelbrechung da, so lässt eben die Gestalt des Glases oder des Krystalls eine solche nicht zu, was schon beweist, dass die Ursache dieses Phänomens nicht die Geschwindigkeit ist.
+
+Man führt zur Stütze der entgegengesetzten Meinung die Erfahrung von dem sprö den Glase, von der Compression des Glases und der Wür felkrystalle an. Aber diese Erfahrung ist nicht schluss kräftig, weder was den Unterschied der einfachen und der [p. 70] doppelten Brechung, noch was die Geschwindigkeit betrifft. Denn in ersterem Bezug beweist sie vielmehr den Unter schied der beiden Brechungen, weil sie zeigt, dass es einer Disposition, Körpers einer besonderen Gestalt des durchsichtigen bedarf, um Doppelbrechung zu erzeugen, einer Gestalt, welche dort die Sprödigkeit oder der Druck her vorbringt. In Bezug auf die Geschwindigkeit findet eine petitio principi statt. Was man in der That beweisen muss, ist, dass ein Unterschied in der Dichte oder in der Cohäsion oder in der Gestalt eines Körpers, einen gewissen Unterschied in der Geschwindigkeit des Lichts herbeiführt und dass dieser Unterschied die Ursache seiner Ablenkung oder Gabeltheilung ist.
+
+Sagt man nun, dass die Sprödigkeit oder die Compression, indem sie die Cohäsion oder die Gestalt modificirt, die Geschwindigkeit des Lichts modificirt, und so die Brechung erzeugt, so versichert man gerade das, was man beweisen sollte. Denn zwischen der Cohäsion und der Geschwindigkeit besteht kein so nothwendiger Zusammenhang, dass die eine sich im umgekehrten Verhältniss zur andern vermehren oder vermindern müsste. Ein solcher Zusammenhang existirt auch nicht für den Ton, nicht für die Wärme, und es ist kein Grund, dass dies der Zusammenhang der Dichtigkeit mit dem Lichte sein müsste. Die Newtonianer nahmen mit demselben Recht den entgegengesetzten Zusammenhang an.
+
+Je nachdem man in dem festen Körper, den das Licht durchdringt, die At traction oder die Repulsion spielen lässt, wird man die Newton'sche Theorie oder die Wellentheorie haben. Denkt man sich nämlich die leuchtende Molecule als von den Molecülen des festen Körpers angezogen, so wird sie um so mehr angezogen werden, je dichter der Körper ist, und folglich wird die Geschwindigkeit sich beschleunigen. Das ist die Newton'sche Theorie. Lässt man im Gegen theil die Repulsion spielen, und stellt man sich den Körper [p. 71] als Widerstand leistend vor, so wird der dichtere Körper dem Gange des Lichts sich stärker entgegensetzen, dieser Gang also verlangsamt werden.
+
+Dies ist die Wellentheorie.
+
+Haben also in dieser Hinsicht beide Theorien Recht, so heisst dies so viel, dass das Princip der Doppelbrechung anderswo als in der Geschwindigkeit zu suchen ist; wollen sagen, wir dass der Strahl sich unabhängig von der Geschwindigkeit bricht, und dass er sich bricht, mögen sich die Strahlen mit einer gleichen oder ungleichen Geschwindigkeit bewegen, möge der Strahl durch ein dichte res oder undichteres Mittel hindurchgehen. In einem Moment der Natur finden sich integrirende und nothwendige Elemente; was aber das Moment als dieses begründet, sind nicht die andern Momente, sondern dies ist seine eigene und besondere Bestimmtheit, dies ist der Charakter, der ihn von andern unterscheidet und der ihn zu dem macht, welcher er ist. Dieser Charakter, dies besondere und unterschei dende Element ist es, welches in jeder Sphäre das bestimmende Princip ausmacht, dem gegenüber die andern Elemente unter geordnet sind und, nach Hegel's Ausdruck, keinen Sinn mehr haben, sofern sie nicht die wahre Natur der Sache enthalten und bezeichnen, weshalb man, indem man jene Elemente be schreibt und bestimmt, nicht diese Natur bestimmt. So exi stirt wohl in der Pflanze Schwere, Bewegung u. s. w., aber zu sagen, dass die Pflanze schwer ist, dass sie sich bewegt, oder dass dieser Theil der Pflanze sich schneller als ein anderer entwickelt, heisst in keiner Weise die besondere Natur der Pflanze bestimmen. Dies findet hier statt, denn hier weiss man nicht, welches das bestimmende Princip der Doppelbrechung ist.
+
+Ist es die Dichtigkeit oder ist es die Geschwindigkeit? Vielleicht sagt man: beide, weil man von der einen Seite einen festen Körper, von der an dern das Licht hat und die Doppelbrechung das Verhältniss beider ist, so dass sie beide,
+
+Dichtigkeit und Geschwindigkeit, gleich sehr zur Erzeugung des Phänomens [p. 72] beitragen.
+
+Indessen ist es klar, dass das bestimmende
+
+Princip in dieser Theorie die Dichtigkeit ist und das Licht sich zu ihr passiv verhält. Die Gestalt des Körpers spielt keine Rolle dabei. Das Licht bewegt sich mit einer ge wissen Geschwindigkeit und würde einförmig fort bewegen, wenn es nicht einer andern Dichtigkeit begegnete. Die Dichtigkeit ist es also, die es modificirt, die es ablenkt und bricht. Sie ist das bestimmende, thätige, das Licht das bestimmte, passive Princip, aber nicht das Licht als einfaches, sondern als das mit Bewegung begabte
+
+Licht.
+
+Folglich wird das Phänomen nicht durch die Dichtigkeit und das Licht, sondern durch die Dichtigkeit und die Geschwindigkeit des Lichts hervorgebracht. Bewegte sich das Licht nicht, inhärirte es den Körpern und jeder Molecule der Körper als ein fixes Element, so würde es weder Brechung noch Doppelbrechung geben. Aber warum, werden wir uns fragen, lässt man die Geschwindigkeit nicht beim Magnetismus interveniren?
+
+Warum sagt man nicht, dass es zwei Pole giebt, weil die Molecularkraft oder sonst eine Kraft sich in Folge des Unterschiedes der Dichtigkeit bei einem gewissen Punkt der Identität oder Indifferenz spaltet und sich mit dieser Geschwindigkeit nach diesem, mit jener nach jenem Theil bewegt? Denn man kann sich den Magnetismus auch als eine Bewegung nach rechts und nach links und diese bei den Bewegungen als zwei verschiedene Geschwindigkeiten vorstellen, und dies um so mehr, als die neutrale Linie nicht genau in die Mitte fällt und zwischen beiden Polen sich intermediaire Punkte bilden. Warum also, fragen wir, lässt man die Geschwindigkeit nicht beim Magnetismus interveniren? Weil man ihrer nicht bedarf. Selbst wenn in der magnetischen Linie ein Unterschied der Geschwindigkeit existirte, würde diese Thatsache keineswegs die Existenz und Natur des Magnetismus erklären.
+
+Hier aber hat man ein Bedürfniss dieser Differenz, namentlich für [p. 73] die Theorie der Farben, und deshalb lässt man sie inter veniren. Hätte man ein Bedürfniss, der gegentheiligen Bestimmung, der Identität, - so würde man die Identität spielen lassen und behaupten,
+
+Geschwindigkeit
+
+Lichts sei so gross, dass man den Unterschied der beiden Geschwindigkeiten sehr wohl vernachlässigen könne. Und • doch sagt man uns zugleich, dass der Aether überall sei. Ist er aber überall, woher kommt dieser Unterschied? Er kommt, sagt man, vom Unterschied der Dichtigkeiten.
+
+Ist er jedoch überall, so ist kein Atom Materie, worin nicht ein Atom Aether, so dass in einem dichteren Medium mehr, in einem dünneren weniger Aether und folglich aller Unterschied der Geschwindigkeit aufgehoben sein wird. Denn in dem dichteren Medium wird eben dadurch, dass mehr Aether in ihm ist, die Kraft und folglich die Geschwindigkeit des Lichts der Quantität des Aethers proportional sein, d. h. gleich der Kraft und Geschwindigkeit des Lichts in einem dünneren Medium, worin weniger Aether. Man sagt: um einen Punkt herum sind verschiedene Cohäsionen oder Dichtigkeiten, weshalb der um diesen Punkt befindliche Aether sich mit einer un gleichen Geschwindigkeit bewegt. Aber diese Vorstellung des Aethers um einen Punkt widerspricht dem Grundbegriff des Aethers als einer alldurchdringenden Substanz. Der Aether ist vielmehr nicht um einen Punkt, sondern in einem Punkt, denn ist er um irgend einen Punkt, so ist kein Grund, weshalb er nicht auch um einen andern Punkt sein sollte und so fort, wodurch dieser Aether, statt Alles zu durchdringen, endlich nichts durchdringen würde. Nach einer andern Voraussetzung könnte die Quantität des Aethers zur Quantität des Körpers im umgekehrten Verhältniss stehen und also in einem dichteren Körper weniger Aether enthalten sein als in einem dünneren. Sobald man aber von einem alldurchdringenden Aether ausgeht und ihm die Eigenschaft der Verdichtung beilegt, ist kein Grund zu [p. 74] einer solchen Annahme vorhanden, weil im Gegentheil durch die Allgegenwart des Aethers die totale Dichtigkeit eines Mittels mindestens zu gleichen Theilen aus der des Körpers und der des Aethers gebildet sein muss. Die Fehler dieser Theorie rühren davon her, man
+
+1) einen Aether als
+
+Princip
+
+Lichts annimmt,
+
+2) dass man die Bewegungen, die Schwingungen und das Mehr oder Weniger dieser Schwingungen als die unmittelbare Ursache der Brechung, der 整 Doppelbrechung und der Farben ansieht, 3) dass man die Brechung und Doppel brechung für eine und dieselbe Erscheinung, für die gleiche Stufe der Natur hält und 4) dass man die Gestalt un beachtet lässt und alle Unterschiede der Gestalt auf einen einfachen Unterschied der Cohäsion oder der Dichte zu rückbringt.
+
+Aber der Krystall ist etwas Anderes als Cohäsion und Dichtigkeit, und es ist ebenso begrifflos, ihn auf sie zurückzubringen, als es sein würde, den Organismus auf Cohäsion und Dichtigkeit zurückzubringen. Im Kry stall als Krystall ist die Dichtigkeit ein untergeordnetes Moment, weil sie darin durch die krystallinische Gestalt bestimmt und gemodelt wird. Ein Krystall ist nicht Kry stall, weil er dicht oder weniger dicht ist, sondern weil im Gegentheil die Dichtigkeit und Cohäsion zur Dichtigkeit und Cohäsion des Krystalls geworden, weil sie, so zu sagen, krystallisirt sind. Folglich ist der wahre Krystall, der Krystall in seiner reinen und idealen Gestalt, gegen die Dichtigkeit indifferent, denn jeder Theil, jede Molecüle des Krystalls muss homogen, d. h. von der Einen und iden tischen Form des Krystalls durchdrungen und gestaltet sein, so dass die Dichtigkeit in ihm accidentell ist. Will man also die Doppelbrechung durch die Dichtigkeit und die Geschwindigkeit erklären, so erklärt man sie nicht durch ein inneres und nothwendiges Gesetz, sondern durch eine Zufälligkeit. Die Nichtbrechung der Krystalle, die zum Würfelsystem gehören, bestätigt vielmehr diese Ansicht, [p. 75] als dass sie dieselbe bekämpft.
+
+Man sagt: die kubischen
+
+Krystalle werden durch den Druck doppelbrechend, schliesst daraus, dass, wenn sie nicht doppelbrechend wären, dies von einem Mangel an Ungleichheit in ihrer Dichte herrühre, welche durch den Druck hervorgebracht werde. Allein dieser Schluss ist nicht gültig, denn er müsste in den Krystallen, mit Ausnahme der kubischen, ursprüngliche Ungleichheiten ihrer Dichte voraussetzen; eine ganz willkürliche und ganz unzulässige Voraussetzung. Warum soll es solche Ungleichheiten in allen Krystallen geben, ausgenommen in den kubischen? Es ist nicht der geringste Grund dafür vorhanden.
+
+Aus demselben Grunde, weshalb solche in einigen existirten, könnten sie in andern nicht existiren. Diese Voraussetzung beruht nur auf dem Bedürfniss, Unterschiede zu erfinden, um die Theorie zu stützen. Die nämlichen Betrachtungen kann man auf das spröde Glas anwenden. Man behauptet, dass auch die Härtung Ungleichheiten in das Glas bringt. Was beweist aber, dass solche nicht vorher schon darin waren? Ja, zugegeben, dass die Härtung in Folge des Erkältens Ungleichheiten in der Dichtigkeit erzeugt, warum soll man nicht denken, dass andere schon zuvor darin waren? Warum sollen die Materien und Processe, deren man sich bei der Anfertigung des Glases bedient, jede Möglichkeit für die Ungleichheit der Dichte ausschliessen? Weshalb soll die Rolle, die vollkommene Homogenität des Glases zu stören, einzig der Härte aufbehalten bleiben? Die Voraussetzung einer primitiven Gleichheit der Dichte im Glase und in den Würfelkrystallen und die Aufhebung dieser Gleichheit durch die Härtung und Compression sind also ganz willkürlich, und man kann mit mehr Grund an nehmen, dass das ursprüngliche Entstehen zwar nicht in der als gleichmässig vorausgesetzten Vertheilung der Dichtigkeit, wohl aber in der Anordnung der Molecüle, oder in der Gestalt des Glases und Krystalles, Veränderungen [p. 76] hervorruft. Bei dem Krystall ist es klar, dass die Compression seine kubische Form zerstört und ihn in die Kategorie der nichtkubischen Krystalle versetzt.
+
+Was aber die
+
+Sprödigkeit anbetrifft, kann man nicht annehmen, dass sie das Glas krystallisirt?
+
+Sind die Härte und die Bruchform, welche sie dem Glase ertheilt, nicht der Beweis dafür? Entwickelt sie nicht durch Schichtung und Punktualisirung die Disposition, welche den Krystall charakterisirt?
+
+aller Weise glauben wir genugsam bewiesen
+
+In zu haben, dass weder die Dichtigkeit noch die Geschwindigkeit die Doppelbrechung begründen könne.
+
+Ueber das Farbenprisma.
+
+p. 76.
+
+Sobald man zugiebt, dass die Körper bei der Erzeugung der Farbe nicht rein passive Mittel sind, sondern als active und wesentliche Principe dabei mitwirken, so muss man auch zugeben, dass ihre Gestalt, Cohäsion und Dichtigkeit als Bedingungen dabei eintreten.
+
+Dass es sich in
+
+Betreff des Prisma's so verhält, beweist die Thatsache, dass die Weite des Winkels auf die Zersetzung des Lichts, wie man.es nennt, auf die Vertheilung der Farben, auf die Ausdehnung der farbigten Streifen, Einfluss hat, dass, je spitzer der Winkel ist, diese Streifen sich um so mehr zusammenziehen, bis dass die Zersetzung mit der prisma tischen Figur aufhört, d. h. sobald die Seiten des Eintritts und des Austritts parallel sind. Es leuchtet also ein, dass der Winkel und die Stellung der beiden Seiten und folglich der Unterschied in der Dichtigkeit der verschiedenen Theile des Prismas auf die Formation des Spectrums einen Einfluss ausüben müssen.
+
+Die Physik kann, weil sie Licht und Farbe identificirt, dem Prisma nur das Vermögen der Lichtzersetzung zuertheilen. Allein abgesehen von an dern Bedenken, fragen wir, wie es kommt, dass ein auf die Oberfläche eines Würfels schräg fallender Strahl nicht decomponirt wird?
+
+Denn, da Brechung stattfindet, müsste [p. 77] er es eigentlich, zumal da die verschiedenen Farben oder verschiedenen Theile des Strahls als verschieden brechbar vor gestellt werden.
+
+Man kann darauf doppelt antworten.
+
+Man könnte sagen, dass die Zersetzung nicht stattfindet, Oder man weil die Seiten des Würfels parallel sind. könnte sagen, dass der Strahl beim Eintritt in eine der Seiten zersetzt, beim Austritt aus den andern wieder zusammengesetzt werde.
+
+Aus diesem zweiten Argument kann man offenbar gar nichts schliessen, weder Zersetzung noch Nichtzersetzung, weder Mitwirkung noch Nichtmitwirkung -des Mittels. Denn fände Zersetzung beim Eintritt des Strahls in den Würfel statt, so müsste man das Spectrum im Innern des Würfels bemerken.
+
+Sagt man, dass man das Spectrum nicht bemerken oder dass es sich, aus was immer für Gründen, nicht bilden könne, so ist man dadurch nicht zu der Versicherung berechtigt, dass überhaupt Zer setzung stattgefunden hat. Man muss also auf das Prisma zurückkommen und mit dem ersten Argument zugeben, dass die prismatische Figur zur Zersetzung des Lichts nothwendig ist. Behauptet man, dass ein Ding für ein anderes nothwendig oder wesentlich ist, so heisst dies so viel als zwischen ihnen einen Zusammenhang setzen, ohne welchen sie nicht sein können, indem das eine in die Existenz des andern als eine integrirende Mitbegründung der selben eingeht. Findet z. B. zwischen dem Wasser und der Pflanze ein solcher Zusammenhang statt, so muss man auch zugestehen, dass das Wasser nicht eine bloss zufällige und äusserliche Bedingung für die Pflanze, sondern ein integrirender Theil der Pflanze ist, ohne welchen sie nicht sein könnte. So ist auch der Zusammenhang der Farbe und des Prisma's oder der Farbe und jedes andern Körpers, der das Licht, wie das Prisma, zersetzen würde; was im Grunde darauf hinauskömmt, dass diese Körper in die Farbenerzeugung als wesentlich eintreten. Diesen Zuzam menhang des Lichts mit der Farbe hatte schon Antonio [p. 78] de Dominis bemerkt, dessen Theorie mit der Goethe schen Aehnlichkeit hat. Goethe giebt in seinen Materialien zu einer Geschichte der Farbenlehre eine Analyse seines Buchs: „De radiis visus ac lucis in vitris perspectivis et in iride. Venetiis 1611."
+
+Brewster.
+
+p. 79.
+
+Brewster hat die Farben auf drei, Gelb, Roth und Blau, zurückgeführt. Bei der Analyse des Sonnenspectrums glaubte er zu entdecken, dass sich diese drei Farben in jedem Theil des Spectrums wiederfinden, und schloss dar aus, dass das Sonnenspectrum nur aus drei Farben besteht, die sich über einander legen und die, indem sie auf verschiedenen Punkten das Maximum ihrer Intensität er reichen, die andern Farben hervorbringen. Die Theorie Brewster's scheint von den Physikern nicht angenommen zu sein, aber warum sollte man sie nicht annehmen? Die
+
+Erfahrungen Brewster's sind so viel werth als die Newton's, mithin eine Theorie so viel als die andere. Die Brewster sche nähert sich derjenigen, welche wir für die wahre halten, und hätte, wie uns scheint, nur noch einen Schritt zu thun gehabt, bei der Goethe'schen anzulangen. Denn wenn er das Spectrum dadurch vereinfacht, dass er seine verschiedenen Farben auf drei zurückführen konnte, so hätte er es durch die sehr natürliche Bemerkung noch mehr vereinfachen können, dass man in diesen drei Far den überall das Helle und das Dunkle findet. Antonio de Dominis hatte im prismatischen Bilde auch nur drei Farben entdeckt: Roth, Grün und Violett. Newton und der Achromatismus.
+
+Wie man weiss, für unmöglich erklärt, p. 84.
+
+hatte Newton den Achromatismus weil nach ihm Zerstreuung und Brechung in einem constanten Rapport standen.
+
+Euler beobachtete, dass im Auge keine Abirrung der Brechbarkeit [p. 79] stattfände, und schloss daraus auf einen solchen Bau des selben, dass die Dispersionen seiner verschiedenen Theile sich unter einander compensirten und neutralisirten. Dies führte ihn zu einer neuen Prüfung der Frage, die er mit der Möglichkeit des Achromatismus beantwortete. Wie gewöhnlich wollten die Newtonianer zuerst von Euler's
+
+Theorie nichts wissen, obwohl Klingenstierna sie durch einen Nachweis der hierin vorgekommenen Irrthümer New ton's bekräftigte. sache beugen.
+
+Endlich aber mussten sie sich der That Merkwürdiger Weise kam ihnen dieser Schlag nicht nur von einem Landsmanne ihres Meisters, sondern auch von einem Genossen, denn Dollond war ein Newtonianer. Er unternahm seine Arbeiten, nicht um Euler zu rechtfertigen, sondern um ihn zu bekämpfen.
+
+Durch einen Zufall combinirte er zwei Linsen, die eine von Flint-, die andere von Kronglas, und fand zu seinem grossen Er staunen, dass man dadurch eine achromatische Linse erhielt. Der Achromatismus setzte also die Thatsache ausser Zweifel, dass die Dispersion und die Refraction zwei verschiedene Erscheinungen seien, die man nicht durch die nämlichen Principien erklären könne, d. h. dass die Phänomene der Färbung, welche die eine, und diejenigen Phänomene, welche die andere hervorbringt, nicht auf denselben Grund zurückgeführt werden könnten.
+
+Wir sagen, dass der Achromatismus diesen Punkt ausser Zweifel setzte, denn selbst vor seiner Entdeckung musste die Existenz zweier verschiedener Phänomene klar sein. Weil man aber mit Newton fortfuhr,
+
+Dispersion und Refrangibilität als proportional zu nehmen, so konnte man, indem man At traction und Repulsion wie in der Doppelbrechung spielen, oder, wie bei den farbigen Ringen, Anfälle von leichter Transmission eintreten liess, zwischen ihnen eine Ver bindung herstellen und der Theorie eine scheinbare Haltung geben. Dies wurde jedoch unmöglich, nachdem die Nichtexistenz jenes proportionalen Rapportes bestätigt war.
+
+[p. 80] Weil also diese Theorie von der Zerstreuung keine Rechen schaft zu geben vermag, kann sie es noch weniger vom Achromatismus „der sich ausserhalb der Brechung bewegt, denn das, was man berichtigt, ist nicht die Brechung, sondern die Zerstreuung, oder, wie die Physiker sagen, die Brechung wird nicht zugleich mit der Zerstreuung berich tigt. ―― Heut zu Tage hat man der Emission den leuchtenden Aether, der Attraction und Repulsion die Schwingungen des Aethers substituirt und versichert uns, dass diese Theorie das erkläre, was die Newton'sche nicht zu erklären vermochte.
+
+Wir wollen uns hier nur auf die Bemerkung beschränken, dass die alten Newtonianer denselben Anspruch machten und ihre Beweise mit derselben
+
+Sicherheit als rationelle vortrugen, wie die heutigen Newtonianer die ihrigen. Die empirische Unsicherheit und Ungenauigkeit in der Newton'schen Theorie des Spectrums. p. 86. Man beobachtet oder man glaubt ein Factum zu beob achten, oder richtiger, man beobachtet und misst es auf -seine Weise und errichtet auf diesem so beobachteten Factum mit Hülfe der Zahlen ein Gebäude, welches von dem Augenblicke an zusammenstürzt, wo dies nämliche
+
+Factum durch andere Augen beobachtet oder durch andere Thatsachen widerlegt wird.
+
+So hatten die Newtonianer anfänglich in ihrem Spectrum unendlich viele Färbungen wahrgenommen, die jedoch so unendlich klein waren, dass man sie ohne Missstand unterdrücken konnte, um nur sie den oder fünf oder drei, denn wir wissen nicht genau wie viel, glänzen zu lassen.
+
+Da entdeckten die durchdringen deren Augen Frauenhofer's schwarze Linien, Newtonianer nichts gesehen hatten.
+
+wo die
+
+Man sagte, dass diese durch eine achromatische Linse gesehenen Linien sich bis auf mehr als sechshundert belaufen könnten. Seitdem hat man noch andere Dinge im Spectrum entdeckt, denn ausser [p. 81] den sichtbaren Strahlen phosphorogenischen den continuirlichen hat man unsichtbare darin entdeckt, die noch brauchbarer als die sichtbaren sein sollen. Endlich haben sich diese sechshundert schwarzen Linien Frauenhofer's unter den noch durchdringende ren Augen der sagen ins Linien,
+
+Herren Kirchhoff und Bunsen so zu
+
+Unendliche vervielfältigt, und nicht nur die sondern die Spectra selber haben sich unendlich vervielfältigt, denn man wird von jetzt ab ziemlich für jede Substanz ein Spectrum haben. Wird man hiernach fortfahren, uns zu sagen, dass Fresnel die Zwischenräume der Säume der grössten Präcision gemessen habe?
+
+Sollte dies, wie Hegel sagt, eine jener ungenauen und aus schliesslichen Messungen sein, die unsern Glauben an den Aether, an die Wellen und an Alles, was daran hängt, begründen müssten?
+
+Die Newton'schen Fits. "Les Accès newtoniens."
+
+p. 88.
+
+Fits ist ein englischer Plural, der accès, Anfall, bedeutet.
+
+Goethe in seiner Farben lehre, Polemik p. 293, hat das Wort mit Fertigkeiten übersetzt, was aber falsch ist.
+
+Goethe hat das Substan tivum Fit mit dem Adjectivum fit verwechselt, welches ge schickt zu etwas bedeutet. Das Substantivum Fit heisst so viel als eine heftige, unordentliche, plötzliche Bewegung. Hegel hat es mit Paroxysmus übersetzt. Es ist wahr, dass diese Anfälle nach Newton durch eine gewisse An lage herbeigeführt werden, welche das Licht im Durch gang durch eine brechende Oberfläche erlangt, und er hat sie so genannt, weil sie launische, nach seinem Ausdruck, leichtfertige Dispositionen ohne Nothwendigkeit sind.
+
+bedurfte ihrer zur Erklärung der Farben der dünnen Platten. Wir wollen uns nicht weiter bei ihnen aufhalten, da die Physik selber ihnen ihr Recht hat widerfahren lassen. Nur unser Erstaunen wollen wir aussprechen, dass die [p. 82] Wissenschaft überhaupt eine dergleichen Erklärung hat zulassen können, die nicht nur ganz willkürlich ist, sondern, genauer besehen, nicht das Geringste erklärt. Was sagt Newton in der That?
+
+Dass leuchtende Molecule, in dem sie durch ein brechendes Medium gehen, dadurch eine gewisse transitorische Disposition erlangen, von einem An fall leichter Reflexion zu einem Anfall leichter Trans mission überzuspringen. Warum und wie sie diese Disposition erlangt haben, sagt man uns nicht. Natürlich führt nun diese Fähigkeit der Molecüle, mit Leichtigkeit bald reflectirt, bald versetzt zu werden, wenn auch nicht noth wendiger Weise, zu Intermittenzen, Alternativen oder Inter vallen in einem Zustande. Und welches ist der Grund dieser Intervalle?
+
+Aus alle diesem resultirt, sagt Biot, mit Evidenz (schöne Evidenz, fürwahr! ) , dass diese Alter nativen von einer gewissen physischen Modification abhängen, welche den leuchtenden Molecülen während ihres Durchgangs durch die erste brechende Oberfläche aufge drückt wird (Phys. IV ch. V).
+
+Dies ist gerade, als ob man auf die Frage, was der Ton sei, antwortete, dass der Ton eine gewisse Modification eines tönenden Körpers sei.
+
+Das Licht und die Farbe.
+
+p. 90.
+
+Jede neue Stufe der Natur begründet auch einen neuen Gesichtspunkt, von welchem aus man sie betrachten muss, um sie in ihren Theilen, wie in ihrem Ganzen, zu ver stehen.
+
+Der Gesichtspunkt ist also im Grunde die eigene
+
+Bestimmung der Natur, und Vermischung der Gesichts punkte heisst vielmehr eben so viel als Vermischung der Bestimmungen.
+
+Die Farbe wird also einen eigenen Gesichtspunkt, eine besondere Bestimmung begründen, welche weder der Magnetismus, noch die Schwere, noch der Kry stall u. s. w. ist. Ist die Farbe das Licht? Nein, denn das reine Licht als solches kann die Farbe nicht erzeugen. Vermischt man also das Licht mit der Farbe, so verfällt [p. 83] man in einen eben so schweren Irrthum, als wenn man die Farbe mit der Schwere vermischte. Denn Irrthum ist Irrthum, und der Irrthum ist nicht geringer, ob man nach barliche Bestimmungen, wie Licht und Farbe, Chemismus und Organismus, Affe und Mensch, oder entferntere, wie Schwere und Farbe u. s. w. vermengt. Die Farbe macht also ein bestimmtes Moment der Natur, d. h. eines systematischen Ganzen aus. Sie setzt also andere Momente voraus, ohne welche sie nicht sein würde, von denen sie sich aber unterscheidet und zu denen sie sich hinzubringt, die folglich nicht sein könnten, was sie ist, sie und ihre Wirkungen aber auch nicht hervorzubringen vermöchten, wenn sie ihnen sich nicht als ein neues Moment der Idee hinzufügte.
+
+Weil die Farbe Theil eines Ganzen ist, ist sie nicht ausserhalb desselben, und weil das Ganze nicht ausser halb ihrer ist, so ist sie so wenig ausserhalb der Körper, als der Ton, die Wärme, die Schwere u. s. w. , was man allerdings von einem Aether sagt, von welchem man nicht weiss, was er ist, und der sich zu den Körpern hinzufügt, man weiss nicht wie oder woher. Weil sie also in den Körpern ist, weil sie ohne die Körper nicht sein kann, so treten dieselben in ihre Gestaltung als wesentliche Elemente ein. Es ist wie mit dem Triangel und der Linie. Der Triangel ist nicht die Linie, allein er ist nicht ohne die Linie; die Linie ist eine Bedingung und ein wesentliches Element seiner Existenz. 1) Es muss in Betreff der Farbe zuerst ihr Begriff festgestellt werden; das Uebrige, sagt Hegel, gehört der empirischen Physik an. Denn während der Begriff unverän derlich derselbe ist, sind die Formen als empirische unendlich und lassen sich wissenschaftlich nicht erschöpfen. Versteht oder bestimmt man also den Begriff nicht, und sucht man die Wissenschaft in der Erfahrung, so ist die Wissenschaft unmöglich.
+
+So ist
+
+#### z. B. der
+
+Begriff des
+
+Thieres nur Einer, während die empirischen Formen der 6*
+
+[p. 84] Thierheit unbestimmbar sind; oder wie der Begriff, die Nothwendigkeit des Todes, nur Einer ist, während der For men des Todes unzählige sind.
+
+Platon macht im Timäus eine ähnliche Bemerkung wie Hegel, denn nachdem er Weiss und Schwarz als die Grundfarben aufgezeigt hat, bemerkt er über die Verbindung der Farben unter einander, dass Nie mand sie auf eine nothwendige, ja auch nur wahrschein liche Weise würde bestimmen können, und fügt hinzu, dass selbst, wenn man es vermöchte, es nicht vernünftig sein würde, alle Farben aufzuzählen, indem er meinte, dass jene Mischungen und Aufzählungen nicht zur Aufgabe der Wissenschaft zu rechnen, sondern der Malerei und Experi mentalphysik zu überlassen seien. Man muss diesen Unter schied der Idee und der Erfahrung nicht als eine Schranke der Idee, sondern im Gegentheil als einen Beweis ihrer Macht ansehen, denn sie zeigt, dass die Idee innerhalb der Grenzen einer ihrer Bestimmungen alle ihr möglichen For men der Manifestation erschöpft.
+
+Daher ist in jeder Frage die Idee und ihre Bestimmung der wesentliche und entscheidende Punkt.
+
+Der Rest ist secundär, d. h. der Idee untergeordnet, wie sie sich in diesem oder jenem Stoff nach der Verschiedenheit von Raum und Zeit hervorbringt. Was ist z. B. das Leben, was ist die Doppelbrechung?
+
+Warum giebt es Leben, warum giebt es Doppelbrechung in der Natur? Zwei Fragen, die im Grunde identisch sind, denn die Nothwendigkeit des Lebens und der Doppelbrechung beruht zuletzt auf ihrer Idee. Wenn übrigens zwei Strahlen auf dieselbe Ebene fallen oder nicht fallen, wenn in irgend einem Krystall. der Index der Brechung des einen Strahls kleiner ist als der des andern, wenn in einem andern Krystall das Umgekehrte stattfindet u. s. w. , so gehören solche und ähnliche Fragen im Allgemeinen der Experi mentalphysik an. So ist es auch mit der Farbe.
+
+2) Die wahre Antwort auf die Frage: warum es Farbe giebt? beruht also wissenschaftlich darin, zu sagen, weil [p. 85] die Idee der Farbe existirt, und diese Idee zu bestimmen. Für die Farbe sind die Durchsichtigkeit, die Brechung und Doppelbrechung die Voraussetzung, gleichsam die Stufen, durch welche die Gestalt vom Licht bis zu derjenigen Ein heit des Lichts und der Dunkelheit fortgeht, welche eben die Farbe ausmacht.
+
+Der krystallinische Körper ist durchsichtig als Einheit seiner homogenen Masse und des Lichts, der Wägbarkeit
+
+Unwägbarkeit.
+
+Jeder
+
+Punkt durchsichtigen Körpers ist Centrum und zwar ganz und gar leuchtendes Centrum, in welchem Sinn Hegel poetisch den Diamanten den Erstgeborenen der Schwere und des Lichts genannt hat.
+
+Indessen leuchtet der durchsichtige
+
+Körper oder vielmehr die Durchsichtigkeit nicht mit eige nem Licht und darf es auch nicht, weil sie sonst nicht dazu angethan wäre, das Licht durch sich hindurch zu lassen.
+
+Das Licht befindet sich in ihr nur als eine Möglichkeit und zwar als eine reelle, wie der Schlaf im wachen den organischen Wesen oder wie das Sehen im geschlossenen Auge.
+
+Weil es aber nur als Möglichkeit darin vor handen ist, so muss die Durchsichtigkeit sich verdunkeln; die abstracte Idealität des durchsichtigen Körpers muss sich differenziren, und die entgegengesetzte Möglichkeit, die Dunkelheit, muss sich auch realisiren.
+
+Die Durchsichtigkeit und die Dunkelheit sind daher die beiden ersten Bestimmungen oder Möglichkeiten, die sich in der Gestalt verwirklichen. Die Gestalt verdunkelt sich, d. h. sie geht von ihrer abstracten Identität, der Durchsichtigkeit, zum Nichtsein oder zur Differenzirung der Durchsichtigkeit, und die verschiedenen Momente dieser Verdunkelung, die Brechung, Doppelbrechung und Farbe, sind die Verwirklichung dieser beiden Möglichkeiten, der Medius terminus, worin Licht und Finsterniss, Tag und Nacht sich verbinden, um so die Sphäre der Sichtbarkeit der Gestalt her vorzubringen.
+
+[p. 86] Das Urphänomen der Farbe.
+
+p. 719.
+
+Das Urphänomen besteht darin: entweder sieht man das Medium oder man sieht einen dunkeln Hintergrund durch ein aufgehelltes Medium. Im ersteren Fall erscheint das Licht durch die geringere Verdunkelung des Mittels gelb; vermehrt sich die Trübung, so geht das Gelb in's Rothe über, bis das Rothe selber auftritt. So erscheint die Sonne auf dem höchsten Punkt ihres Laufs fast weiss, obwohl sie schon eine Tendenz zum Gelben hat; aber in dem Masse, als sie sich senkt, erscheint sie, da ihre Strahlen die immer dichtere Atmosphäre durchdringen müssen, immer gelber, bis sie endlich im Untergange roth wird. Blickt man anderseits durch ein aufgehelltes trübendes Medium auf einen leeren und schwarzen Raum, so wird sich dieser bei einer gewissen Dichtigkeit des Mittels blau darstellen; vermindert sich dieselbe, so wird man ein tie feres Blau erhalten, das in das Violette übergeht. Ausser den Experimenten, durch welche Goethe seine Theorie zu stützen sich bemühte, und welche sich vorzüglich im zweiten Theil seiner Farbenlehre finden, der von den physischen Farben, im Unterschied von den physiologischen und chemischen, handelt, richtete er seine Aufmerksamkeit vorzüglich auf die prismatischen Phänomene, um zu zeigen, dass sie aus einer Durchdringung des Hellen und des Dunkeln, d. h. durch eine Versetzung der Helligkeit in den Schatten und durch die Bedeckung des Hellen durch den Schatten, entstehen. Unter den Vorwürfen, welche man gegen die Goethe sche Theorie gerichtet hat, ist einer auch von dem Gegen satz des Hellen und Dunkeln oder, einfacher, des Weissen und Schwarzen, hergenommen, weil sie zwar Elemente der Farbe sind, die Farbe aber doch etwas Anderes als eine Verbindung von Weiss und Schwarz ist, denn diese geben in ihrer Vereinigung nur das Grau.
+
+Es giebt aber eine giebt ab [p. 87] sehr merkwürdige Thatsache, welche diesen Einwurf wieder entwerthet, nämlich dass nicht nur Weiss und Schwarz, sondern auch die drei Grundfarben, Gelb, Roth und Blau, sowie die Mischungen dieser drei Farben, Orange, Grün und Violett, in ihrer Vermischung zusammen dasselbe Resultat, das Graue, geben, während man, wenn man zwei dieser Farben, z. B. Gelb und Roth, mischt, eine reine und be stimmte Farbe, das Orange, erhält. Dies zeigt, abgesehen von andern Combinationen, die ebenfalls Grau erzeugen, dass das Grau nicht weniger das Product von Weiss und Schwarz als von andern Farben ist. So wenig man folglich berechtigt ist, zu behaupten, dass die Farben, die in einer gewissen Verbindung das Grau hervorbringen, schlechterdings und keinenfalls eine bestimmte Farbe erzeugen können, eben so wenig ist man berechtigt, zu sagen, dass Weiss und Schwarz durch ihre Verbindung in keinem Fall Farbe hervorbringen können. Wie es also Farbenmischun gen giebt, welche das Grau, andere, welche Schmutzfar den, und endlich noch andere, welche reine Farben her vorbringen, so kann es auch Verbindungen von Weiss und Schwarz geben, welche Grau, und andere, welche Farben erzeugen.
+
+Das ist der Sinn Hegel's, wenn er eine erste, unbestimmte, quantitative Verbindung des Hellen und Dunkeln von einer zweiten, bestimmten und qualitativen unter scheidet. Und in der That bildet das Grau eine unbe stimmte Mischung, eine Zu- oder Abnahme von Schatten und Licht, welche die Specification der Farbe noch nicht erreichen kann. Es ist keine absolute Abwesenheit der Farbe, wohl aber ein nur
+
+Man könnte sagen, unreifer
+
+Entwurf derselben.
+
+es verhalte sich zur Farbe wie das
+
+Geräusch zum Ton, das Zoophyt zum Thier. Was ihm fehlt, ist der Medius terminus, hier das trübende Mittel, welches die Farbe specificirt und fixirt, denn der Medius terminus ist zu gleich die Mitte und das bestimmende Element eines Wesens, und er ist nur Medius terminus, weil er das bestimmende
+
+[p. 88] Element, die wesentliche Form, die Einheit dieses Wesens ist. In einem Wesen ist Alles nothwendig, aber der Medius terminus das Nothwendigste, weil ohne ihn das Wesen sich auflöst und seine Theile in einen Zustand der Bestimmungslosigkeit und Indifferenz versinken, weil sie dann, nach Hegel's Aus druck, keinen Sinn mehr haben. In einer Armee ist der General der Medius terminus; ohne ihn kann es wohl eine Anhäufung von Menschen, aber keine Armee geben. In der numeri schen Figur 3: 4 ist die Beziehung selber der Medius terminus; ausser diesem Verhältniss sind 3 und 4 gleichgültige Grössen. Das Wasser ist weder Hydrogen noch Oxygen, sondern es ist das Verhältniss dieser beiden, welches als ihre Einheit das Hydrogen und Oxygen bestimmt und, als Element, nicht nur quantitativ, sondern auch qualitativ.
+
+Denn diese bei den im Wasser vereinten Gase haben darin Eigenschaften und müssen sie haben, welche sie nicht haben können, wenn sie getrennt sind. So ist es auch mit der Helle und Dunkelheit. Sie sind die wesentlichen Elemente der Farbe, und die Farbe kann nicht ohne sie sein, aber sie sind nicht die Farbe. Damit sie Farbe werden, bedarf es der Thätigkeit eines terminus medius, der sich ihrer bemächtigt und sie umgestaltet, wie die Harmonie sich der unbestimmten Töne bemächtigt und sie zu harmonischen macht. Dies bewirkt in der Goethe'schen Theorie das trübe und trübende Medium. Was soll man darunter verstehen? Es ist klar, dass das Prisma, die Atmosphäre, das Glas u. s. w. nur besondere Fälle eines allgemeinen trüben Mediums, d. h. des Begriffs dieses Mediums selber sind, und dass man vor Allem die sen Begriff bestimmen muss.
+
+Dieser Begriff kann aber nur der der Farbe selber als des Princips sein, das, als eines der Momente der Natur, das Helle und Dunkle in sich aufhebt und zu einer dritten Bestimmtheit, zur Farbe, macht.
+
+Das Prisma und die Atmosphäre z. B., verschiedene Körper, sind identisch als colorirende Körper nur durch die Gegenwart dieses Princips, dem gegenüber sie [p. 89] nur Mittel, es ist wahr, nothwendige, aber beschränkte, äusserliche und untergeordnete Mittel sind. Dies Princip der bestimmenden Ursache der Farbe muss man anerkennen, wie immer man sich die Farbe vorstelle, ob nach Goethe oder nach den Newtonianern. Denn sagt man mit den Newtonianern, dass die Farbe eine Bestimmtheit des Lichts ist, so muss man auch zugeben, dass in der Farbe zunächst reines Licht (weisses Licht, wie sie es nennen) ist, ferner das Gegentheil des reinen Lichts (schwarzes Licht, wie sie es nennen müssten) und endlich das Verhältniss beider Lichter, welches eben die Farbe ist. Dies Verhältniss, diese Einheit des Hellen und Dunkeln ist die Durchsichtigkeit, aber die getrübte Durchsichtigkeit, oder, wie Hegel vom Prisma sagt, die dunkle Transparenz, die man auch Halbdurchsichtigkeit nennen könnte. Und in der That muss dieser Terminus medius, wie jeder, so beschaffen sein, dass er die beiden Extreme ist, indem er sich zugleich von ihnen unterscheidet, so dass er ihre Einheit ausmachen und sie doch durch ihre gänzliche Verwandlung kann fort bestehen lassen. Diese Function erfüllt die Halbdurchsich tigkeit durch ihr Verhältniss zum Hellen und Dunkeln. Der halbdurchsichtige Körper ist weder das Licht noch die Finsterniss, aber ihre Möglichkeit und demnach die Ein heit beider.
+
+Er ist wie das Holz, welches weder Feuer noch Luft, aber die mögliche Einheit beider ist; oder wie das Auge, welches weder das Licht noch der erleuchtete Gegenstand ist und eben deshalb sie vereinigen kann. in der That ist
+
+Und der halbdurchsichtige Körper einerseits durchsichtig und homogen, als solcher für das Licht ge macht, das er voraussetzt und als Möglichkeit enthält, in welchem Betracht er auch der Leichtigkeit und Imponde rabilität zufällt.
+
+Aber anderseits ist er dunkel, als solcher für die Trübung gemacht; er enthält die Dunkelheit als Möglichkeit und ist insofern dicht und wägbar.
+
+Wie das
+
+Holz als die mögliche Einheit von Feuer und Luft unter H [p. 90] gewissen Bedingungen zu ihrer reellen Einheit, zur Flamme, wird; oder wie das Auge im Act des Sehens die reelle Einheit des Lichts und des erleuchteten Gegenstandes wird; so wird auch der halbdurchsichtige Körper unter gewissen Bedingungen die reelle und actuelle Einheit des Hellen und Dunkeln, d. h. er wird Farbe oder erzeugt die Farbe. P. 126: Im Prisma erleidet das Sonnenlicht zwei Um wandlungen, denn es geht gefärbt und vergrössert daraus hervor.
+
+In jedem Punkt des Prisma's entstehen zwei Bil der; das eine durch die Brechung fixirte: das gewöhnliche Bild; das andere versetzte und vorgeschobene, das ausser ordentliche Bild, welches der Schein des ersteren ist. Jeder Punkt des Prisma's stellt das Bild zugleich in den einen und den andern Ort; es ist nicht allein durchsichtig und undurchsichtig, sondern es ist dies in den verschiedenen Punkten auf verschiedene Weise, wodurch sich eine eigenthümliche innere Brechbarkeit des Prisma's erzeugt, welche der des Isländischen Kalkspaths insofern ähnlich ist, als sie ein Bild in zwei Bilder bricht und es so versetzt, entstaltet, vergrössert.
+
+Diese innere Brechbarkeit des Pris ma's, die man Doppelbrechung nennen könnte, bezieht sich zugleich auf die Gestalt und die Dichtigkeit desselben und erklärt das Sonnenspectrum mit seinen Farben und seinen unendlichen Nüancen. Hegel sagt, dass das eine dieser Bilder, das ausserordentliche, im Verhältniss zum andern die Rolle des trübenden Mittels spiele. Eigentlich zu reden, ist das Prisma das trübende Mittel.
+
+Da aber das ausser ordentliche Bild der Schein, so zu sagen, der Schatten des gewöhnlichen ist, so stellt es die Nichttransparenz,
+
+Verdunkelung des Prisma's und des Bildes dar. Kritik der heutigen Theorie des Lichts und der Farbe. p. 163 sqq. Mit Beiseitesetzung secundärer Fragen wollen wir, soweit dies in den Grenzen eines Commentars möglich ist, [p. 91] uns auf die- hervorstechendsten Punkte der Frage beschränken. nämlich: 1) Das reine oder farblose Licht; 2) Das Licht in seinem Verhältniss zur Farbe oder farbigte Licht. Die Physik sagt: das Licht ist ein schwingender Aether, und die quantitative Differenz der Schwingungen bringt zugleich den Schatten und die Farbe oder, besser gesagt, die verschiedenen Farben hervor. Dies ist in Ansehung des fundamentalen Princips die ganze Theorie der Farbe und des Lichts, wie sie von der heutigen Physik zugelassen wird.
+
+Zunächst kann man mit Leichtigkeit sehen, dass diese Theorie, wenn man sie vom streng wissenschaftlichen Stand punkt betrachtet, eine rein mathématische ist, dass das mathematische Element seine ganze Stärke ausmacht und dass ihr, wenn man dasselbe wegnimmt, nichts bleibt, oder, wenn man will, dass ihr das Wort Aether verbleibt. Und warum ist das Licht ein Aether? dieser Aether?
+
+Woher kommt er?
+
+Und was ist
+
+Welches Verhältniss hat er zu andern Aethern? Denn es giebt verschiedene Aether, und der Aether ist der Sündenbock der Physiker. Im Grunde gilt der Satz: das Licht ist eine schwingende Materie, eben so viel als der andere: das Licht ist ein schwingender Aether. Man kann sich die reine, abstracte und unbestimmte Materie als Aether, als universellen Aether vorstellen, so dass, wen: man der Materie Schwingung, eine gewisse Schwingung beilegt, man eben so gut das Licht haben wird, als bei der in Rede stehenden Theorie. Oder wenn man in Folge einiger Raisonnements mit Thales sagt: die Materie ist das Wasser; oder mit Heraklit: sie ist das Feuer, so könnte auch hier die Lehre, dass das Licht Wasser oder das Feuer ist, welches schwingt, eben so gut als die Doctrin vom leuchtenden Aether zugelassen [p. 92] werden.
+
+Aus demselben Grunde haben jedoch diese Sätze und Lehren so lange keinen Werth, als man nicht die Natur der Ausdrücke, die darin figuriren, also der Materie, des Feuers, des Aethers u. s. w. bestimmt, und zwar systematisch, d. h. an sich und in ihren Beziehungen, bestimmt Uebrigens stellen die Physiker selber den Aether hat.
+
+nur als eine Hypothese dar, was ihrer Manier, die Natur wissenschaft überhaupt zu behandeln, gemäss ist, denn die Physik ist aus Hypothesen zusammengesetzt, an denen sie sich vollkommen zu genügen scheint. Was ist die Schwere, die Wärme und die Elektricität u. s. w. ? Wir wissen es nicht, sagen die Physiker.
+
+Es sind Hypothesen (sie soll ten sagen: Wörter) , die wir aufstellen, weil wir genöthigt sind, die Eigenschaften an ein Subject und die Erscheinungen an eine Ursache anzuknüpfen. Es ist also wahr, dass die Physiker sich sehr wenig um den Aether kümmern. Wenn sie sagen, dass das Licht ein Aether ist, so geschieht das nur, um etwas zu sagen und weil sie genöthigt sind, etwas zu sagen, denn das Wichtige und Wesentliche für sie ist nicht der Aether, sondern die Vibration desselben. Nehmen wir nun behufs der Untersuchung an, dass das Licht ein Aether sei, so werden wir sehen, dass die Schwingung das wesentliche Element und die wesentliche Form des Aethers ist, so dass, wenn man sie aufhöbe, wohl ein unbestimmter Aether zurückbleiben, aber kein Licht existiren würde.
+
+Allein es ist nicht die Schwingung überhaupt, sondern eine speci fische, welche das Licht bewirkt und es von jeder andern Schwingung, z. B. der des Tons, unterscheidet. In der That lehren die Physiker, dass die Luftschwingungen sich auf eigenthümliche Weise vollziehen, nämlich transversal bei der Fortpflanzung der Lichtwellen, während beim Ton die Schwingungen perpendiculär auf der Oberfläche der Ton wellen existiren sollen. Dies ist nach den Physikern der specifische und qualitative Unterschied des Lichts vom Ton.
+
+[p. 93] Aber worauf stützen sie sich, diesen Unterschied auf zustellen?
+
+Das sagen sie nicht, und das können sie nicht sagen, denn es ist schlechterdings kein Grund vorhanden, weshalb der eine anders als der andere schwingen soll.
+
+Der einzige Grund, den man vom Standpunkt der Aether doctrin aus angeben könnte, wäre die Nöthigung, diesen Unterschied vorauszusetzen, weil sonst zwischen Ton und Licht nur ein quantitativer Unterschied, ein Mehr oder Weniger von Geschwindigkeit, existiren würde, was nicht ausreichte, von dem Unterschied ihrer Natur Rechenschaft zu geben.
+
+Man muss ausserdem bemerken, dass der Ton und das Licht nicht allein schwingen, denn man sieht nicht ein, warum, wenn die qualitative Form der Schwingung den wesentlichen Unterschied von Ton und Licht aus machen sollen, die Wärme nicht auch, wie sie, schwingen sollte.
+
+Im Gegentheil müsste man nach dieser Art, die Natur aufzufassen, sagen, dass auch die Wärme ein schwin gender Aether ist. Aber wie schwingt sie? Schwingt sie rechts, schwingt sie links, schwingt sie von Oben nach Unten, von Unten nach Oben u. s. w. ? Das müsste man uns auch sagen, aber das sagt man uns nicht. Wir glauben daher versichern zu können, dass diese Schwingungen und ihre verschiedenen Formen so, wie sie jetzt von den Physikern vorgestellt werden, grundlos sind. Ausserdem ist das Licht für die moderne Physik nicht nur das Licht, sondern auch die Farbe, und es ist das Licht nicht durch neue Eigenschaften und Bestimmungen, die aus den verschiedenen Sphären der Natur zu ihm hin zutreten und neue Verhältnisse mit ihm begründen, sondern an und für sich, unabhängig von diesen Sphären und Verhältnissen, so dass es in Bezug auf die Farbe Alles ist und die Körper, in welchen es erscheint und mit welchen es in Verhältniss tritt, absolut nichts sind, gar keine oder höchstens eine passive Rolle spielen, und dass folglich das Licht als Farbe sein würde, was es ist, auch wenn diese [p. 94] Körper und Verhältnisse nicht existirten. Wie bringt nun das Licht die Farbe hervor? Das Licht an sich selbst, das Licht in seiner Einheit, das reine Licht ist farblos;
+
+es ist weiss und wird Farbe nur, wenn es aus dieser Ein heit herausgeht. Wie aber geht es aus derselben heraus? Nach den Physikern in Folge einer quantitativen Ungleich heit, die in ihm entsteht und bewirkt, dass ein Strahl oder eine Molecüle oder ein Theil des Aethers eine ge wisse Anzahl Schwingungen, ein anderer Theil eine andere Anzahl macht. Das bringt die Farbe und ihre Unterschiede hervor. Das Licht enthält also zwei Momente oder besteht in zwei verschiedenen Weisen, als farbloses Licht und als farbigtes Licht, und der Uebergang von der einen dieser Existenzweisen zur andern macht sich so zu sagen im Innern des Lichts selbst, ohne den Hinzutritt eines äusserlichen oder Licht selber.
+
+eines andern Elementes, als das
+
+Diese Auffassung des Lichts und der Farbe erweckt so viel Schwierigkeiten, um nicht zu sagen Unmöglichkeiten, dass man sich wundern muss, sie so allgemein zuge standen, so hartnäckig vertheidigt zu sehen. Zunächst wollen wir bemerken, dass das Licht als reines Licht nicht nur nicht die Farbe, sondern dass es auch nicht das weisse Licht ist, aus mehreren Gründen, unter Anderem aber auch aus dem einfachen Grunde,
+
+Weisse, wie das
+
+Schwarze, wie das Gelbe, überhaupt wie irgend eine Farbe, etwas Anderes als das Licht ist. Aber selbst zugegeben, dass dies Eigenschaften des Lichts seien, so bleiben immer, einerseits das Licht, anderseits diese Existenzweisen. Wenn man folglich sagt: das weisse oder das grüne Licht, so sagt man Verschiedenes aus, gerade wie wenn man sagt: deg sterbliche Mensch. Dies zeigt schon, dass das Weisse und die Farbe Bestimmungen sind, die zum Licht hinzu treten und andere, als es selbst, sind. Sagt man, dass das Licht und das Weisse Eines oder wenigstens, dass sie so [p. 95] eng verbunden sind, wie der Winkel und der Triangel, so muss man in diesem Fall das nämliche Verhältniss zwischen dem Licht und dem Schwarzen zugeben. Denn wenn man in die Sphäre des reinen Lichts das Weisse setzt, so muss man auch sein Gegentheil, das Schwarze, darin setzen, und um so mehr, weil man hier das Licht nur deshalb weiss haben will, die Farbe daraus hervorgehen zu lassen. Da also das Schwarze eben so wohl als das Weisse in die Bildung der Farbe eintritt, so muss man, wenn das Licht die einzige Ursache der Farbe ist, behaupten, dass es eben so wohl schwarz als weiss ist. Ist das Weisse die Einheit oder die Synthese der verschiedenen Farben, so könnte das Schwarze seinen Platz darin ansprechen oder eine Synthese für sich bilden, und das schwarze Licht wäre dann eben sowohl eine Zusammensetzung der Farben als das weisse. Setzen wir aber zur Vereinfachung der Untersuchung vor aus, dass das Licht weiss sei und dass die Farben aus dem weissen Licht entspringen.
+
+Wie vereinigen sie sich, und wie sind sie vor ihrem Hervorgang in dem weissen Licht enthalten?
+
+Man sagt: durch Zersetzung des weissen Lichts erhält man die Farben und durch Zusammensetzung der Farben wieder das weisse Licht; woraus man schliesst, dass die Farben in dem weissen Licht enthalten sind und dass man, sie zu haben, dasselbe nur zu zerlegen brauchte. Wohl verstanden, trägt man bei dieser Zersetzung und
+
+Wiederzusammensetzung den Instrumenten, den Bedingungen, den Mitteln des Prisma's, der Atmosphäre u. s. w., welche dabei interveniren, keine Rechnung. Dies Alles ist so gut, als ob es nicht da wäre, obwohl, wenn man es unterdrückte, jene vorgebliche Zerlegung nicht stattfinden und das Licht im Zustande des weissen Lichts verbleiben würde. Doch hierauf werden wir sogleich weiter kommen. Die Farben sind also im weissen Licht. sie darin?
+
+Aber wie sind
+
+Sie sind darin nicht als Farben, und dies nicht nur, weil man sie nicht sieht, sondern aus dem einfachen
+
+[p. 96] Grunde, weil das weisse Licht nicht die Farbe ist. Folglich ist die Farbe im weissen Licht, wie der Regen in der Atmosphäre, wie das Kind im Schooss der Mutter, d. h. das weisse Licht ist nur die Möglichkeit oder, richtiger, ein Moment der Farbe, welches Moment, um Farbe zu werden, anderer Momente bedarf, so gut als die Mutter nicht ohne Zuthun des Mannes zeugen oder die Atmosphäre den Regen ohne diejenigen Elemente hervorbringen kann, die für ihn erforderlich sind, wenn er sich realisiren soll. Ist also das Licht und die Farbe einerseits innigst vereint, sofern keine Farbe ohne Licht möglich ist, so sind sie anderseits zwei verschiedene Sphären der Natur, und die Farbe durch das einfache Licht erklären, wäre gerade so, als wenn Jemand den Pflanzensaft durch das Wasser, die mensch liche Stimme durch den Ton erklären wollte. Gleichwie nun Wasser und Ton zum vegetabilischen Saft und zur menschlichen Stimme nur durch den Hinzutritt anderer Elemente, anderer Bedingungen, in andern Sphären der Natur werden, so wird auch das Licht Farbe nur in einer bestimmten Sphäre, wo sich alle für die Farbe eigenthüm lichen Bedingungen und Elemente vereinigt finden und zu ihrer Erzeugung mitwirken. Die Speculation begegnet sich hier mit der Erfahrung. Was zeigt in der That die neue Entdeckung von Kirch hoff und Bunsen? Sie zeigt nicht nur, dass Helligkeit und Dunkelheit, Weiss und Schwarz, unzertrennlich verbunden sind und sich in allen Punkten des Spectrums durchdringen, sondern dass das Spectrum sich je nach den Substanzen verändert. Sie zeigt, dass die Körper als wesentliche Elemente in die Bildung des Lichts eintreten. Man braucht aber für die Bewährung dieser Thatsache diese Entdeckung nicht einmal heranzuziehen, denn sie findet sich durch die Theorien und Experimente der Newtonianer selber bestätigt.
+
+Diese ganze angeblich Newton'sche Theorie von den dünnen 4 Platten und farbigten Ringen, [p. 97] heutzutage zur Theorie der Interferenz und der Polarisation geworden ist, erscheint als eine directe und perpe tuirliche Demonstration dieses Factums; denn diese Theorie oder, genauer, die Erfahrungen und Beobachtungen, auf welche Newton seine Theorie gegründet hat, stossen für die Hervorbringung der Farbe mit dem Finger auf die Thätigkeit der Körper, ihrer Substanz und Form. Auch haben Newton und seine Schüler die Gefahr, die ihrer Lehre von dieser Seite drohte, sehr wohl gefühlt und den Schlag abzuwehren gesucht, bald, indem sie sagten, dass die Farben, die in dünnen Schichten entstehen, ganz richtig den Eigenschaften zukämen,
+
+Durchgang durch diese Körper erlangt,
+
+Licht dass aber diese
+
+Eigenschaften nur accidentell und transitorisch seien, bald, indem sie die Einwirkung der Mittel auf das Licht mit So sagt uns Z. B. Biot (Phys. Keckheit leugneten. experim., Vol. IV, chap. V) bei Gelegenheit der wärmen den Eigenschaften der leuchtenden Strahlen: »> dass alle Erscheinungen, welche in der Theorie Newton's von den farbigten Ringen beschrieben sind, die Resultate bestätigen, welche man neuerdings über die Natur der leuchtenden Strahlen erhalten hat, nämlich, dass die wärmenden Eigenschaften dieser Strahlen in keiner Weise von irgend einer Veränderung oder Modification abhängen, welche ihnen beim Durchgang durch die Mittel zuertheilt sein könnten, sondern dass sie diesen Strahlen inhäriren, dass sie mit ihnen coexistiren, dass diese sie schon bei der Emanation aus den leuchtenden Körpern besitzen und dass sie diesel den ohne irgend welche Abänderung in allen Mitteln be halten, welche sie durchlaufen. << Das versichert Biot, allein die Erfahrungen von See beck und Melloni haben diese Worte widerlegt, indem sie zeigten, dass die Wärmeeigenschaften der leuchtenden Strahlen mit den Substanzen wechseln. Was Bunsen und Kirchhoff für die Farbe, das haben Seebeck und [p. 98] Melloni für die Wärme gethan, jene, indem sie zuerst nachwiesen, dass die verschiedenen Substanzen ein chemi sches Spectrum, diese, dass sie ein verschiedenes Wärme spectrum besitzen.
+
+In der That kann es keine irratio nellere Doctrin als die von der absoluten Passivität, man könnte sagen, vom Nichtsein der Körper bei der Bildung der Farbe geben, eine Doctrin, die man hartnäckig auf recht zu halten sucht, obwohl es keine Farbe ausserhalb der Körper geben kann, obwohl sie nur da und nur in dem Augenblick erscheint, wo Licht und Körper sich be rühren, obwohl die Farbenerscheinungen sich mit den Körpern verändern, und obwohl man zugiebt, dass das Licht im Durchgang durch die Körper neue Eigenschaften er wirbt. Aber man wirft sich lieber in's Absurde, in die Anfälle leichter Reflexion, in die transitorischen nur in Zwischenräumen erscheinenden Eigenschaften, in die Bewegungen von rechts nach links und von links nach rechts, mit Einem Wort, in das, was Hegel den metaphysischen Galimathias nennt, als diese Lehre zu verlassen.
+
+Und selbst wenn man sich an diese künstlichen und willkürlichen Erklärungen hält, müsste man sich sagen, dass das Licht diese intermittirenden Anfälle, diese launischen Eigenschaften u. s. w. , woraus gewisse Farbenerscheinungen entspringen, den Körpern verdankt, mit denen es in Verhältniss tritt, oder wenigstens, dass diese Körper für ihren Theil in die Bildung dieser Phänomene eingehen. Man müsste aus diesem einfachen Raisonnement schliessen, dass das Licht ohne würde.
+
+diese Körper
+
+Licht, aber nicht Farbe sein
+
+Diese Erwägungen richten sich nicht nur an die alten, sondern auch an die neuern Newtonianer, an die Anhänger der Wellentheorie, denn in diesem Punkt unterscheidet sich diese Theorie nicht von der der alten Newtonianer, weil sie gleicherweise lehrt, dass das Licht die Farbe und diese nichts als das zerlegte Licht ist. Was die Auffassung des [p. 99] Aethers als Princip des Lichts und der Farbe betrifft, so haben wir schon gezeigt, dass sie nicht mehr Werth hat als die der Emission und in manchem Betracht sogar einen geringern als diese. Was die neue Lehre unterscheidet, ist nur die Art und Weise, wie sie die Production der Farben durch die Schwingungen des Aethers erklärt. Die Schwingung constituirt nicht nur das Licht, sondern ist auch das Princip seiner Bewegung, denn es pflanzt sich nur schwingend in geradem Verhältniss der Anzahl seiner Schwingungen zu einer gewissen Zeiteinheit fort.
+
+Das ist die Schnelligkeit des Lichts. Aber, fügt man hinzu, indem man der Newton'schen Theorie die Hand reicht, das Licht ist nicht blos Licht, sondern eine zusammengesetzte Substanz, die unter gewissen Bedingungen sich decomponirt und so die Elemente, aus denen es zusammengesetzt ist, d. h. die Farben, erscheinen lässt. Die vom Licht erzeugten Farben schwingen wie es selber.
+
+Die Kinder sind im
+
+Allgemeinen wie ihre Eltern, da sie jedoch verschieden sind, können sie nicht alle auf dieselbe Weise schwingen. Eine Farbe, z. B. das Violett, macht in Einer Secunde 728 Billionen Schwingungen, während das Roth darin nur 496 Billionen ausführt; d. h. obwohl Kinder desselben Vaters, sind sie doch nicht alle gleich geschickt zum Laufen. Das unterscheidet die Farben von einander, denn das Violett ist, was es ist, nur dadurch, dass es eine gewisse Anzahl von Schwingungen in der Secunde macht, das Roth ist roth nur dadurch, dass es in derselben Zeit eine andere Anzahl von Schwingungen macht. Diese Theorie erklärt im Grunde weder den Ueber gang des Lichts zur Farbe, noch die Farbe, sondern be einfach zu sagen: es giebt Licht, es giebt Farbe. Sie nimmt das Licht und die Farbe, wie sie durch gnügt sich, die Erfahrung gegeben werden, gründet sich auf Messungen der Farbensäume, der Aetherschwingungen, wendet eine mathematische Formel an, und glaubt damit den Bedin 7*
+
+[p. 100] Warum und wie gungen des Problems genügt zu haben.
+
+aber wird das Licht Farbe? Das zeigt uns diese Theorie nicht. Das Licht ist Licht, und wenn die Schwingung und die Anzahl der Schwingungen dasselbe ausmachen, so sieht man nicht ein, wie und warum es aufhört, Licht zu sein und Farbe zu werden. Es giebt in dieser Theorie allerdings eine Verdunkelung, die sich im Lichte selber vollzieht die Interferenz. Aber zunächst ist das Dunkle noch keine Farbe, und die Interferenz bringt nur Dunkel hervor.
+
+Und wenn man gewisse Farbenerscheinungen durch die Interferenz polarisirter Strahlen zu erklären vorgiebt, so setzt man die Farbe bereits als existirend voraus, aber, was etwas ganz Anderes, man leitet die Farbe nicht ab. bis zu welchem Punkt die Interferenz
+
+Auch fragt sich, theorie überhaupt zulässig ist und ob sie in der That, wie sie behauptet, die Dunkelheit erklärt. dieses Das Phänomen ist zwei Strahlen oder, wie man zu sagen beliebt, zwei
+
+Wellensysteme des natürlichen Lichts bringen, indem sie sich unter einem sehr kleinen Winkel begegnen, die Dunkelheit hervor. Dies erklärt man So. Indem man vom Aether und seinen Schwingungen ausgeht, setzt man vor aus, dass diese Schwingungen in einer Bewegung bestehen, die aus zwei Momenten, aus Gehen und Kommen, zusammengesetzt ist.
+
+Fortgang und Rückgang bilden zusammen eine ganze Welle;
+
+der Raum, welchen sie durchlaufen, bildet eine Wellenlänge. Fortgang oder Rückgang allein werden also eine Halbwelle oder eine halbe Wellenlänge bilden.
+
+Nun nehme man zwei Wellensysteme von gleicher
+
+Länge und gleicher Intensität an, Richtung fortpflanzen.
+
+die sich in derselben
+
+Ist das eine der Systeme dem an dern in dem Fortgang oder Rückgang um eine gleiche Zahl der Halblänge der Welle voraus oder dagegen zurück, so werden beide Systeme dem Aether eine gleichmässige Bewegung zutheilen, und die Intensität wird sich verdoppeln; während, wenn ein System gegen das andere um eine [p. 101] ungleiche Zahl von Halbwellen zurück ist, die dem Aether mitgetheilten Bewegungen sich neutralisiren und Dunkelheit hervorbingen werden. Dies Alles kommt also im Grunde darauf zurück, dass, wenn die angeblichen Bewegungen der angeblichen Systeme sich in derselben Weise, sei es beim Gehen oder Kommen, begegnen, eine Fusion beider Systeme und Vermehrung der Lichtintensität eintritt; während sie im anderen Fall sich zwar auch, aber auf entgegengesetzte Weise, begegnen, was unter ihnen einen Stoss und in Folge dessen Lichtentziehung und Verdunkelung veranlasst. Allein selbst wenn man sich die Dinge als nach dieser Theorie geschehend vorstellt, Bewegungen in einem Hin und Her, Wellensysteme, Systeme, die sich in gleicher, andere, die sich in ungleicher Zahl begegnen, so ist man nicht berech • tigt, die Consequenz daraus zu ziehen, die man daraus zieht, nämlich, dass das Licht bei einer gleichen Anzahl sich vermehrt, bei einer ungleichen sich vermindert, denn es könnte auch das Gegentheil stattfinden. In der That, geht man von einem schwingenden Aether aus, dessen Molecüle mit einer unendlichen Geschwindigkeit, also Kraft, schwingen, so begreift man nicht, wie das Licht durch eine Collision dieser Molecüle verdunkelt werden kann.
+
+Vielmehr scheint der entgegengesetzte Schluss eintreten zu müssen, d. h. dass seine Intensität durch diese Colli sion vermehrt werden müsste. Man macht sich eine falsche und der Erfahrung widersprechende Vorstellung, wenn man glaubt, dass die entgegengesetzte Bewegung zweier Körper eine negative Wirkung, hier die Dunkelheit, her vorbringen müsste. Diese Vorstellung ist der rein mechanischen Sphäre entnommen, in welcher der Zusammenstoss zweier
+
+Massen
+
+Ruhe erzeugt.
+
+Verminderung der Bewegung oder
+
+Was aber wahr ist in einer Sphäre, ist es In verschiedenen Sphären deshalb nicht in einer andern.
+
+können durch denselben Vorgang verschiedene Wirkungen entstehen. In der Sphäre der Lichterscheinungen zeigt [p. 102] uns die Erfahrung, dass aus der Reibung der Funke her vorspringt und aus der Begegnung der entgegengesetzten Elektricitäten das elektrische Licht. Die Wärme, die Zeugung und andere Phänomene bieten andere Beispiele dar, und selbst in der mechanischen Sphäre sehen wir Bewegungen, wie die der himmlischen Körper, die aus der Ver einigung entgegengesetzter Kräfte entspringen.
+
+Giebt es also in den Bewegungen der Aethermolecüle ungleiche, so müsste eher das Licht als der Schatten daraus entstehen. Allein selbst wenn wir zugäben, dass der Schatten bei sol chen Bewegungen von ungleicher Anzahl im Aether ent stände, so würde damit sein erster Ursprung, sein Wesen, noch nicht erklärt sein. So wenig die Begegnungen in ungleicher Zahl vom Schatten, so wenig legen die in gleicher Zahl vom Lichte Rechenschaft. Der Aether in sich selbst ist weder leuchtend noch dunkel; er giebt nur die Bewegung.
+
+Was ihn dunkel macht, ist eine feste, unveränderliche, absolute Form, ein Gesetz, wie die Physiker sagen, welches bewirkt, dass die sich bewegenden Theile des Aethers, statt sich constant in gleicher Zahl zu begegnen, sich zuweilen in ungleicher begegnen.
+
+Dies Gesetz ist also, wie man sieht, ein rein quantitatives oder mathe matisches, nach welchem zwischen Licht und Dunkel ein nur quantitativer Unterschied stattfände. Aber ein blosser Unterschied der Grösse kann den Schatten nicht erklären. Verhielte es sich so, dann müsste der Schatten nur als eine Verminderung, Abschwächung des Lichts angesehen werden. Die Verminderung aber setzt selber das Princip voraus, welches die Verminderung bewirkt, indem es die Verdunkelung im Licht herbeiführt. Dies erhellt noch mehr, wenn man die Frage so stellt: was lässt den Aether bald in gleicher, bald in ungleicher Anzahl schwingen? Die Antwort kann nur die sein, dass dies die Folge eines gewissen Gesetzes, eines gewissen Principes sei.
+
+Will man nun sagen, dass dies Gesetz das Gleiche und das Ungleiche [p. 103] sei, dass der Aether so schwinge, weil es gleiche und un gleiche Zahlen giebt? schmackt.
+
+Eine solche Antwort wäre abge
+
+Schwingt also der Aether bald auf die eine, bald auf die andere Weise, so muss ein Princip existiren, welche dies quantitative Element der Schwingung wesentlich bestimmt und folglich höher als dasselbe steht. Diese Form, dies Princip, ist die Idee des Schattens wie die Idee des Lichts, die zugleich Inhalt und Form ist und das quantitative Element, aber als ein untergeordnetes, in sich ent hält. Mit Licht und Schatten verhält es sich ebenso wie mit Bewegung und Ruhe, Wachen und Schlaf, Leben und Tod und anderen Gegensätzen, z. B. Ursache und Wirkung, Zufälligkeit und Nothwendigkeit u. s. w. Man kann in diesen Bestimmungen eine quantitative Differenz finden, und sagen, dass in der Bewegung ein Plus, in der Ruhe ein Minus, oder dass die Ruhe das Zero der Bewegung, der Schlaf das Zero des Wachens, wie auch, dass in der Nothwendigkeit ein Plus, in der Zufälligkeit ein Minus sei, allein man wird dadurch keineswegs den wahren inneren Grund der Zufälligkeit und Nothwendigkeit, des Wachens und Schlafens u. s. f. erfasst haben. Wir glauben daher versichern zu dürfen, dass die Aethertheorie weder das Licht noch den Schatten erklärt, selbst wenn ein Aether existirte und wenn in ihm solche gleiche und ungleiche Bewegungen existirten.
+
+Um so weniger kann sie die Farbe erklären, denn wenn auch die Farbe nicht der Schatten ist, so setzt sie doch den Schatten Voraus. Da man übrigens die Farbe eben so wie das Licht und den Schatten erklärt, so treffen dieselben Einwürfe auch die Farbentheorie. Wir fügen indessen noch einige specielle Betrachtungen über die Farbe hinzu. Man hat das Licht, den Schatten und die Farbe. Das sind • die drei Momente des Aethers. Eine gewisse Schwingung dieses Aethers bringt das Licht; eine andere quantitativ verschiedene bringt den Schatten; eine dritte, von beiden
+
+[p. 104] Ala verschiedene, die Farbe hervor. Denn, wie wir gesehen haben, ist es die Wellenlänge, oder es sind, was dasselbe, die in einer gewissen Zeiteinheit, in einer Secunde, voll zogenen Schwingungen des Aethers, welche die Farbe und ihre Unterschiede hervorbringen. Man hat also drei Arten der Schwingung und, rechnet man die Unterschiede der Farben hinzu, sogar neun. Wir wollen hier nicht die Frage nach dem Warum dieser Aetherschwingungen wiederholen, obschon sie sich hier noch stärker als bei der Entstehung des Schattens aufdrängt, sondern wir wollen nur fragen, ob zwischen diesen drei Arten der Schwingung ein Verhältniss besteht? Dies findet unstreitig statt, denn ausser den einfachen Schwingungen muss eine Einheit der selben existiren. Man stelle sich die Sache so vor. Der Aether schwingt zuerst in gleicher Anzahl, und man hat das Licht; sodann in ungleicher, und man hat den Schatten; er muss also als Farbe anders schwingen, und da dieselbe Licht und Schatten zugleich enthält, so ist klar, dass sie weder in gleicher, noch in ungleicher, sondern sowohl in gleicher als in ungleicher Zahl schwingen muss. Mit an deren Worten heisst dies nach den eigenen Sätzen dieser Theorie, dass die Farbe die Einheit von Licht und Schatten bildet. Und so muss es auch sein, da die Farbe eine viel concretere und tiefere Sphäre der Natur, als das einfache Licht, enthält. Im Gegentheil aber sagt man uns, dass das weisse Licht die Farbe und alle Farben enthält, und zwar weil man nach der Erfahrung, wenn man diese verschiedenen Farben vereinigt, das weisse Licht erscheinen sehe. Allein diese Erfahrungen beweisen durchaus nicht, was man sie beweisen lassen will, nämlich, dass die Far den das weisse Licht sind. nicht darin.
+
+Denn vorweg sieht man sie
+
+Sodann fragt sich, wie sie darin sein können?
+
+Man sagt, damit Farbe sei, muss der Aether in einer spe cifischen Weise schwingen.
+
+Man sollte also, wie es scheint, schliessen, dass, weil die Farbe und noch mehr, weil die [p. 105] verschiedenen Farben im weissen Licht auf solche Weise nicht schwingen können, sich auch nicht in diesem Licht befinden können, und dass, was man Recomposition des weissen Lichts nennt, die Aufhebung der Farbe selber ist, eine Aufhebung, welche unstreitig daher kommt, dass die Farbe nicht im weissen Licht existiren kann. Man zieht aber den entgegengesetzten Schluss daraus, und das ganz einfach, weil man die Farbe in das Licht setzen muss, denn thäte man dies nicht, so wüsste man in dieser Theorie nicht, woher man sie bekommen sollte. Die alten Newtonianer versichern uns,
+
+Geschwindigkeit der leuchtenden Molecüle von verschiede ner Brechbarkeit kein merklicher Unterschied ist, weil sonst der Trabant des Jupiter beim Eintreten in den Schatten des Planeten oder beim Heraustreten aus dem selben successiv die verschiedenen prismatischen Farben darbieten müsste, was nicht stattfindet. Aber warum soll der Trabant diese Farben darbieten? Weil man voraus setzt, dass sie sich im Licht befinden und dass sie überall, wo das Licht erscheint, erscheinen müssten. Es verhält sich mit Licht und Farbe wie mit Licht und Wärme. Denn man setzt Alles in das Licht, Wärme wie Farbe; das Licht soll warm und es soll auch farbigt sein. Wenn die Farben in diesen fernen Regionen des Raums nicht erscheinen, müssen wir annehmen, dass sich in den hier existirenden Körpern nicht die Bedingungen vereinigen, welche die Erzeugung der Farbe fordert. Man stellt sich das Licht als aus Molecülen zusammengesetzt vor; man setzt Licht und Farbe in diese Molecüle; wenn man nun aber in der Scheibe des Trabanten keine Farben er scheinen sieht, so schliesst man daraus, dass diese Molecüle, obwohl von ungleicher Brechbarkeit, sich doch mit gleicher Geschwindigkeit bewegen.
+
+Und man muss wohl sie sich mit gleicher Geschwindigkeit bewegen lassen, vornehmlich, um sie alle mit Einem Mal auf das Prisma fallen zu lassen,
+
+;
+
+[p. 106] wo sie in ihrer Zerstreuung zeigen sollen, was sie bis dahin verborgen haben, die Farbe. So dachten die alten Newtonianer.
+
+Die neuen den ken nicht ganz dasselbe, denn sie behaupten, dass die Un gleichheit der Brechbarkeit hauptsächlich von Un gleichheit der Geschwindigkeit dieser Molecüle herkommt, weil die Molecule A, die violette Farbe macht,
+
+Millionen mal schneller schwingt als die, welche die rothe macht. Dieser Unterschied existirt freilich nicht, so lange sie im weissen Lichte sind;
+
+er beginnt erst von dem
+
+Augenblick an, wo sie sich an gewisse Körper stossen. Aber wenn alle diese Molecule im weissen Licht identisch sind, warum gehen sie dann, wenn sie auf das Prisma fallen, die eine nach rechts, die andere nach links, eine schneller, die andere langsamer, und warum ist es die Molecüle oder der Strahl A, bis dahin mit dem Strahl B iden tisch, der sich mehr oder weniger geschwind als der Strahl B bewegt und so die Farbe erscheinen lässt, die er bis dahin verborgen hatte?
+
+Das sagt man uns nicht.
+
+Indem wir diese Betrachtungen schliessen, rufen wir uns noch die Einwürfe zurück, welche die Wellentheorie in der Erklärung der Beugung, der chemischen Wirkung des Lichts und selbst der Brechung, hervorruft, Einwürfe, die schon 1826 das Programm eines Preises ausmachten, welchen die Akademie der Wissenschaften zu St. Peters burg aussetzte; Einwürfe, die, so viel wir wissen, noch nicht gehoben sind.
+
+[p. 107]
+
+## Einige Bedenken gegen Hegel's Naturphilosophie und Véra's Exegese derselben.
+
+Véra's ausserordentliches Verdienst um Hegel's Natur philosophie besteht eben in der Treue, mit welcher er die Hegel'schen Gedanken als den wahren Begriff der Sache zu illustriren bemüht ist. Wie dankbar wir ihm aber auch dafür sein müssen, so darf dies doch nicht hindern, mit Freimüthigkeit einige Bedenken zu äussern, zu denen gerade die Systematik Hegel's, auf welche Véra mit Recht den grössten Nachdruck legt, Veranlassung giebt. In " Deutschland hat man niemals eine eingehende Kritik der Hegel'schen Naturphilosophie gegeben. Man hat sie ent weder ganz ignorirt; oder man hat sie, in Geschichten der Philosophie, ohne weitere Beurtheilung kurz excerpirt; oder man hat Einzelheiten aus ihr herausgerissen, sich darüber als über Curiositäten zu verwundern, noch mehr, um Hegel lächerlich zu machen. Die einzige zugleich mit einer Kritik verbundene Darstellung von Hegel's Naturphilosophie, die ich wenigstens kenne, hat Erdmann in seiner: >> Entwicklung der deutschen Speculation seit
+
+Kant « , Leipzig 1853, II, 771-785, gegeben. Der erste Punkt, den ich mir zur Sprache zu bringen erlaube, ist die Frage, ob Hegel's astronomische An sichten heut zu Tage noch aufrecht gehalten werden können? Hegel ist für seine Auffassung der Erde als des Mittelpunkts des gesammten Universums unstreitig eben so sehr durch seinen Begriff des Geistes, als durch den der Natur bestimmt worden. Der Geist existirte für ihn nur in der menschlichen Gestalt, welche dem Planeten der Erde angehört. In ihr concentrirt sich die gesammte Natur, um damit über sich als Natur hinauszugehen. Der mensch liche Geist allein bringt eine Geschichte hervor, welche zugleich die absolute Geschichte ist, weil auf anderen Weltkörpern keine Intelligenzen existiren. Eine Verdoppe [p. 108] lung oder gar Vervielfachung der Geschichte wäre ein überflüssiger Luxus nicht nur, sondern ein Widerspruch mit der Einheit des Geistes. Ist aber die Erde der Schau platz der Weltgeschichte, so muss sie auch der vollkom menste Weltkörper sein, derjenige Planet, der Alles, was sich in den übrigen Sterngebilden als etwas Besonderes vorfindet, in sich concreter Weise vereinigt.
+
+Ist dies der
+
+Fall, so muss auch unser Planetensystem überhaupt das vollendetste System unter den Himmelskörpern sein. Die übrigen Gestirne ausserhalb desselben können nur die Be deutung eines mechanischen Substrats für dasselbe haben. Wir können die ungeheure Grösse des Sternenalls bewundern, allein wir dürfen von der Kenntniss der Gruppirung Sternbilder nicht diejenige Befriedigung erwarten, welche nach Hegel einzig und allein unser Sonnensystem durch seine >>reale Vernünftigkeit zu geben vermag.
+
+Dies ungefähr ist unstreitig Hegel's Ansicht gewesen. Véra unterstützt sie hauptsächlich aus dem Gesichtspunkt des Systems, welcher eine Stufenentwicklung fordere, die bis zu einem centralen Maximum fortgehe. Für die empirische Begründung der Meinung, in unserer Erde die vollkommenste Sternbildung zu sehen, beruft er sich vorzüglich auf die Schrift des Dr. rev. Whewell: „Plurality of Worlds", die wegen der Vorurtheile der englischen Ortho doxie ohne den Namen des Verfassers erschien. Ausserdem erwähnt er einer Abhandlung, welche der Professor Filo panti am 9. Januar 1862 in der Akademie der Wissen schaften zu Bologna gelesen und von welcher der „Moni tore di Bologna" ein Compte rendu gegeben hat.
+
+Filopanti hat aus der Convergenz einer Menge von Sternen erster Ordnung gegen die Erde hin nachzuweisen gesucht, dass dieselbe dürfe.
+
+einen ganz ausserordentlichen Rang ansprechen
+
+Da es sich hier in der Naturphilosophie um eine natur wissenschaftliche Frage handelt, so muss man offenbar die [p. 109] Beziehung auf den Geist, auf die Geschichte, zunächst ganz ausser Rechnung lassen. Hier ist nun klar, dass man a priori nicht einsehen kann, weshalb in der kosmischen Mechanik nur in unserm Sonnensystem, nicht aber im Universum, Vernunft herrschen soll. Warum soll das Universum nicht ein System von Systemen sein? Warum soll in der Bildung der Gestirne nicht eine eben so grosse Mannigfaltigkeit, eine eben solche Erschöpfung aller irgend denkbaren Möglichkeiten sich erzeugen, wir dies von der Natur in jeder andern Sphäre sehen? Der Raum ist unendlich; in seiner Unendlichkeit bewegt sich das Sternenall; es bewegt sich rotatorisch in den einzelnen Gestirnen, translatorisch in der Wanderung der
+
+Sterngruppen durch den Weltraum; alle Systeme graviti ren in ihrer Bewegung in das absolute Centrum des gigantischen Mechanismus, das kein Centralkörper, sondern ein ideeller Punkt ist.
+
+Die fundamentale Structur, die sich überall wiederholen muss, ist der nothwendige Gegensatz von Centrum und Peripherie, allein die Individualisirung dieser Form breitet sich zu einer unendlichen Vielgestaltig keit aus. Die Doppelsterne z. B. zeigen uns Systeme ohne einen Centralkörper, die sogenannten Globularsysteme.
+
+Oder wir finden Begleitsterne, die, selbst leuchtend, doch zu gleich noch erleuchtet werden. Bevor Herschel am Cap den südlichen Himmel beobachtet hatte, war die Milch strasse eigentlich erst zur Hälfte bekannt; jetzt ahnen wir schon, dass sie ein Gürtel von Millionen Sternen ist, der ringförmig einen Haufen von Fixsternen in sich einschliesst. Hegel hat sich lange Zeit bemüht, ein Gesetz für den Abstand der Planeten von einander, nach der von Titius und Bode gegebenen Anregung, herauszurechnen.
+
+Jetzt sehen wir, dass unser Planetensystem aus drei verschiedenen Gruppen besteht, aus den vier innern Planeten, den zahlreichen Planetoiden und den vier äussern Planeten;
+
+dass in diesen Sternen die grösste Mannigfaltigkeit in der [p. 110] Dichtigkeit der Masse, in der Tages- und Jahresperiode, in der Mondlosigkeit oder Mondbegleitung, zugleich aber die strengste Gesetzmässigkeit waltet. Die topische Astronomie hat es nur mit der Masse und Bewegung der Gestirne zu thun; die physische beschäftigt sich auch mit ihrer Qualität.
+
+Sind wir nun aber schon für die topische Astronomie in unseren Mitteln be schränkt, so ist dies noch viel mehr der Fall für die physische. Unsere Schlüsse werden hier immer unsicherer. Wir müssen hier unsere Unwissenheit eingestehen. Warum zeigen z. B. so viel Doppelsterne so schöne Farben? Wir wissen es nicht.
+
+Die Venus und der Mars scheinen eine
+
+Atmosphäre zu haben.
+
+Dann wäre organisches Leben auf ihnen so gut als auf der Erde möglich; und wenn dies, warum nicht auch die Existenz von Intelligenzen, deren Organismus natürlich den dortigen Bedingungen conform gestaltet sein muss? Wir wissen aber nichts darüber. Vom Standpunkt der Natur aus sind Venus und Mars eben sowohl Planeten als die Erde. Wenn wir geneigt sind, die Erde für vorzüglicher zu halten, wenn wir für diesen Vorzug anführen, dass sie der Sonne nicht so nahe als die Venus, nicht so fern als der Mars stehe, so reichen doch solche Bestimmungen nicht aus, apodiktische Behauptungen zu begründen. Hegel hätte vom Standpunkt der Naturphilosophie aus durch eine genauere Vergleichung der Erde mit den übrigen Planeten nachweisen müssen, dass sie allein die Möglichkeit einer organischen Natur und damit die Bedingungen für die Möglichkeit der Geschichte enthält. Das hat er aber nicht gethan, sondern er begnügt sich mit kategorischen Behauptung. Ich glaube, dass sein
+
+Standpunkt, in den Figurationen der Gestirne nur einen geometrischen Ausdruck der formellen Vielheit derselben zu erblicken, durch den Fortschritt der Astronomie wenigstens scho so weit überwunden ist, dass wir die Vernunft im [p. 111] Bau des kosmischen Universums und das in ihm überall wirksame Gesetz der Massenattraction nicht mehr bezweifeln können.
+
+Hegel sagt am Schluss des Zu satzes zu § 268 selber sehr richtig: » Die Würde der Wissenschaft muss man nicht darin setzen, dass alle mannigfaltigen Gestalten begriffen, erklärt seien, sondern man muss sich mit dem begnügen, was man in der That bis jetzt begreifen kann.
+
+Es giebt Vieles, was noch nicht zu begreifen ist, das muss man in der Naturphilosophie zu gestehen. << Der schwierigste Theil für die Naturphilosophie ist der zweite, die Physik, weil er nicht blos für Hegel, sondern überhaupt der schwierigste ist.
+
+ist die Mitte zwischen der Mechanik, welche von der Qualität der Materie abstrahirt, und zwischen der Organik, in welcher die individuelle Form als Princip auftritt.
+
+Was ist nun das
+
+Princip der Physik? Offenbar die specifische Bestimmt heit der Materie mit allen sich daraus ergebenden Folge rungen. Diejenige Qualität, mit welcher die Mechanik zu thun hat, ist lediglich die Schwere.
+
+Sie ist der Grund, wes halb sie sich nur mit der Masse, mit der Bewegung, mit der Geschwindigkeit und Dauer derselben, mit der Länge der Entfernungen beschäftigt. Sie vergleicht unaufhörlich Raum und Zeit mit einander. Die Materie ist aber als concrete eine qualitativ in sich bestimmte.
+
+Dies In sichsein ist es, was Hegel mit dem Ausdruck der physikalischen Individualität bezeichnet hat. Fragen wir die exacte Naturwissenschaft, wie sie bis her diesen Theil gestaltet hat, so vermissen wir alle Systematik, weil man die Aufgabe, Definitionen zu finden, möglichst umgeht und die Beschreibung der Phänomene mit der der Instrumente, durch welche wir uns ihrer be mächtigen, ganz begrifflos vermischt.
+
+Man nehme
+
+Handbuch der Physik, wie das von Pouillet - Mueller, welches jetzt in Deutschland das angesehenste und ver [p. 112] breitetste ist, so wird man es voll von Abbildungen der Maschinen finden, durch welche wir die Naturerscheinungen zwingen, uns Stand zu halten und uns bestimmte
+
+Antworten auf bestimmte Fragen zu geben. Gewiss ist diese Seite der Wissenschaft durchaus nothwendig, aber sie müsste nicht die eben so nothwendige, die Bestimmung des Begriffs und des innern Zusammenhangs der Begriffe, derartig überwuchern, dass man oft ganz vergebens dar nach sucht. Die Darstellung fängt entweder ganz empirisch mit einer rohen Aufnahme von Thatsachen an, die man als zweifellose behandelt, oder am liebsten mit der Beschreibung eines Apparates zur Beobachtung der Erscheinungen. Die allgemeinen Resultate, zu deren Kenntniss uns der Apparat verhilft, verschwinden hinter der Auseinandersetzung der Maschinen; sie schrumpfen zu noth dürftigen Bemerkungen ein oder es werden uns statt ihrer mathematische Formeln geboten, welche der Darstellung die Physiognomie äusserster Präcision verleihen sollen. Gegen die Zufälligkeit der Anordnung, die in solchen
+
+Werken herrscht, macht das Bestreben Hegel's nach logischer Gliederung den stärksten Contrast. Es fragt sich aber, ob seine Systematik sich rechtfertigen lässt? Véra hat einen ausserordentlichen Aufwand von Gelehrsamkeit und Scharfsinn gemacht, Hegel's Entwicklung als eine in sich nothwendige zu erweisen, allein er ist nicht so befangen, die Schwierigkeiten zu verhehlen, welche sie in sich birgt, und Th. II, p. 138 ff. spricht er dies offen aus. Die systematische Stellung des Begriffs der Farbe und des Krystalls geben ihm hierzu den vornehm sten Anstoss. Zunächst scheint mir ein Grund des Ungenügens der Hegel'schen Eintheilung der Physik in die Lehre: 1) von der allgemeinen; 2) von der besondern; 3) von der totalen Individualität, darin zu liegen, dass in seiner Darstellung zwei verschiedene Beziehungen durcheinander laufen.
+
+[p. 113] Einerseits nämlich sollte die logische Bestimmung mass gebend sein.
+
+Sie ist es auch, die in der Unterscheidung der Individualität als der allgemeinen, besondern und totalen hervortritt, welche jedem exacten Physiker völlig unverständlich sein muss. Anderseits aber will Hegel die ganze Naturphilosophie nach dem Schema der himmlischen Körper: 1) des Centralkörpers; 2) der Körper des Gegensatzes, Mond und Komet; 3) des Körpers der concreten Totalität, des Planeten, in der Weise behandeln, dass dasselbe auch auf dem Planeten sich überall wiederholen soll. Diese Tendenz, die er mit dem sonst von ihm so zurückge stossenen Oken gemein hat, lässt sich aber nicht durch führen. Das lunarische Princip z. B. muss bald die Starr heit, die Dunkelheit, bald wieder das Feuer repräsentiren; u. S. W. Jede Sphäre der Natur hat vielmehr, wie auch Véra oft höchst überzeugend ausführt, ihr eigenthümliches Princip, in welches allerdings alle ihm im Rücken liegen den Bestimmungen übergehen, das aber für sich wieder neu und selbstständig ist. In jenem Bestreben, das Sola rische, Lunarische, Kometarische, Tellurische in immer andere Bildungen sich vertiefen zu lassen, liegt noch ein Rest des Schelling'schen Construirens und Potenzirens, der mit dem Princip der freien Gestaltung des Begriffs in Miss verhältniss gerathen musste. Sodann aber fragt es sich, ob nicht das Capitel, mit welchem Hegel die Physik anfängt, das letzte sein und das zweite und dritte ihm vorangehen müssten? Das zweite enthält nämlich die Lehre von der speci fischen Schwere von der Cohäsion;
+
+Lehre vom Magnetismus, das dritte von der Elektricität und vom chemischen Process; das erste die Lehre von der physischen Beschaffenheit der himmlischen Körper und vom meteorologischen Process. Hegel ist von der mechanischen Astronomie sofort zur physischen übergegangen, weil er damit eben zu jenem [p. 114] fundamentalen Schema gelangte, im Centralkörper das Princip für das Licht, im Monde für das Feuer, im Kometen für das Wasser, in den Planeten für die Vereinigung dieser Elemente zu finden. Ist dies aber logisch richtig? Ist nicht der Begriff, welcher dem der abstracten Materie entgegengesetzt ist, nur erst der Begriff der specifischen Bestimmtheit derselben?
+
+Ist der Begriff der specifischen Schwere, der Cohäsion und ihrer Auflösung, nicht ein Begriff, welcher allen Weltkörpern gemeinsam ist, mögen sie nun centrale oder peripherische Körper sein? Gilt dasselbe nicht aber auch vom Magnetismus, der Elektricität und dem Chemismus? meine Processe der Materie?
+
+Sind sie nicht allge
+
+Wenn sie natürlich auch, so gut als die Cohäsion und ihre Auflösung in Klang, Wärme und Licht, sich auf jedem Weltkörper anders par ticularisiren, so müssen ihre Gesetze doch im ganzen Universum dieselben sein. Die Beschaffenheit des einzelnen Weltkörpers, wie sie durch seine Grösse, Dichtigkeit und durch seine Stellung zu allen übrigen Weltkörpern bedingt ist, ordnet alle jene Bestimmungen seiner individuellen Einzigkeit unter. Alle diese Millionen und Millionen Weltkörper sind zu gleich jeder ein specifisch anderer. Die totale physische Individualität ist nicht der Chemismus, wie Hegel glaubt, sondern die physische Eigenthümlichkeit des kos mischen Individuums, die über alle physischen Processe auf ihm übergreift. Diese an sich einfachen Processe sind in ihrer Thätigkeit endlich, aber das physische Leben eines kosmischen Individuums ist in sich unendlich. Wenn wir die Physik
+
+Mechanik vergleichen, entspricht der
+
+Begriff der specifischen Schwere und der Cohäsion als der elementare Begriff der ganzen Physik dem formalen
+
+[p. 115] Mechanismus; der Begriff der magnetischen, elektrischen und chemischen Polarität dem des realen Mechanismus; der Begriff der freien physischen Elemente und ihres sich unaufhörlich aus sich selbst erneuenden und das Leben eines Sterns verjüngenden Processes dem des absoluten Mechanismus. Es tritt mit dem Begriff der totalen physischen Individualität in diesem Sinn zugleich die Schranke der Wissenschaft ein, denn von einem elementarischen Process, wie Hegel ihn unter den Begriff der allgemeinen Individualität subsumirt, wissen wir nur auf unserm Planeten. Von der Venus und dem Mars können wir einen ähnlichen vermuthen; wie ist es aber mit dem Jupiter, Saturn, Ura nus und Neptun?
+
+Planeten sind sie auch.
+
+Sie müssten deshalb, nach Hegel, einen meteorologischen Process haben; wir wissen nichts darüber; haben sie einen, so muss er bei der Verschiedenheit ihrer Grösse, Dichtigkeit, Sonnenferne, Tages- und Jahresperiode, nothwendig ein ganz anderer, als auf unserer Erde sein. Und wie ist es mit der Sonne? Specifische Schwere, Cohäsion, Wärme, Licht, Magnetici tät, Elektricität, Chemismus kommen ihr gewiss zu; aber alle diese physischen Bestimmungen werden durch ihre physische Einzigkeit individualisirt.
+
+Ihre Photosphäre ent hält unstreitig ihren meteorologischen Process, wie wir aus den Sonnenflecken schliessen können, aber wie unendlich verschieden wird er von dem tellurischen sein!
+
+Wie schon in der mechanischen Sphäre die Eigen schwere jedes Weltkörpers das Fallgesetz auf ihm modifi cirt, so ordnet die physische Einzigkeit eines jeden Welt körpers die allgemeinen und besondern physischen Processe seiner Individualität unter. Sie ist es aber auch, welche seinen geologischen Organismus beherrscht; ich sage, geo logischen, weil wir mit diesem Worte einmal den Schich tenbau eines Sterns bezeichnen, da wir doch z. B. beim Monde oder Mars eine Schichtung und Gestaltung ihrer Masse voraussetzen müssen.
+
+[p. 116] Verhält es so in Betreff der Eintheilung der Physik, so wird sich dadurch natürlich Manches in den besondern Gebieten derselben verändern müssen. Hierher gehört die von Véra angeregte Frage nach der Stellung des Begriffs der Farbe. Hegel behandelt den Begriff des Lichts in dem Capitel von der Physik der allgemeinen Individualität lediglich im Zusammenhang mit dem Begriff des solarischen Centralkörpers; den der Farbe in dem Capitel von der Physik der besondern Individualität mit dem Begriff des Krystalls.
+
+im Zusammenhange
+
+Wir wollen ihm zuge stehen, dass er den Begriff des Centralkörpers eines Systems, wie Oken, als mit einem selbstleuchtenden Körper iden tisch nimmt, so bleibt doch Licht ein ganz elementarer, ganz allgemeiner physikalischer Begriff, unter welchem alles Licht, wie es in concreto auch entstehe, subsumirt werden muss. Da die Gesetze des Lichts für alle Licht bildung, sei sie eine endliche, wie auf unserem Planeten, oder eine unendliche, wie auf der Sonne, die nämlichen sind, so muss auch das Wesen alles Lichts identisch sein und ein Schluss von dem tellurischen Licht auf das sola rische erlaubt bleiben.
+
+Das tellurische Licht aber ent steht nur durch einen Verbrennungsprocess, d. h. durch absolute Auflösung der Cohäsion.
+
+Weil die Materie in derselben schlechthin verflüchtigt wird, absolute
+
+Leichtigkeit so geht sie in und Beweglichkeit über.
+
+Da
+
+Grundform des Processes auch hier die Vibration ist, so kann die Verbreitung desselben nur in der continuirlichen Reproduction derselben, also in fortzitternden Schwingungen, geschehen, ohne dass es deshalb nothwendig wäre, durch eine sehr künstliche Theorie von Aetheratomen un auflösliche Widersprüche, z. B. zwischen der transversalen und longitudinalen Richtung der Bewegung, zu schaffen. Das Licht gehört daher genetisch zur Lehre von der Auflösung der Cohäsion.
+
+Klang,
+
+Wärme und Licht [p. 117] sind die qualitativ differenten
+
+Stufen dieser Auflösung.
+
+Man kann das Licht nur gewaltsam von dem Begriff der Wärme und des Klanges trennen. Alle drei setzen sich die specifische Bestimmtheit der Materie voraus; alle drei enthalten in verschiedenen Graden eine Auflösung der Cohäsion, erst einen Angriff, eine Erschütterung, weiterhin Zerstörung und völlige Vernichtung derselben. Ein Stück Eisen, welches geschlagen wird, klingt, wird warm, fängt an zu glühen und damit zu leuchten. Alle drei bewegen sich nach allen Seiten in Wellenform, was Véra allerdings bestreitet; alle drei unterliegen in ihrer Intensität dem Gesetz der Ab- und Zunahme derselben nach dem umgekehrten Quadrat der Entfernung. Da nun das Licht sich den Begriff der specifischen Schwere und Cohäsion, den Begriff der Aggregatzustände des Festen, Flüssigen und Aetherischen, schon voraussetzt, so reicht dies hin, von ihm als dem farblosen zu ihm als dem farbigten überzugehn, da die Farbe ausser dem Licht nur das Dunkle zu ihrer Entstehung fordert. Die Farbe individualisirt sich nach der Verschiedenheit der Qualität des Stoffs und der Eigenthümlichkeit seiner Gestalt in's Unendliche. Wenn nun aber Hegel den Begriff der Krystallisation ihr voranschickt, so halte ich dies einer seits für überflüssig, anderseits für unzureichend.
+
+Hegel's
+
+Gedanke ist, die Körperlichkeit sich als physische Gestalt zum Licht, zur Luft, zum Wasser als Sichtbarkeit, als Geruch und Geschmack in Verhältniss setzen und diese Bestimmungen sich dann in die Elektricität als ihre Ein heit aufheben zu lassen.
+
+Aber im Begriff der Cohäsion als der gediegenen oder lockeren, im Begriff der Ober flächengestaltung als der rauhen oder glatten, im Begriff der Aggregatzustände als der starren, flüssigen oder elastischen, sind alle Bedingungen für den allgemeinen Begriff der Farbe gegeben und der des Krystalls überflüssig.
+
+Allein dieser Begriff ist auch unzureichend, denn was die Durch [p. 118] sichtigkeit anbetrifft, sind nicht nur andere Körper, ausser den Krystallen, auch durchsichtig, wie z. B. die Luft und das Wasser, sondern es sind auch viele Körper, wie die Metalle, krystallisirt, ohne deshalb durchsichtig zu sein. Der Krystall ist zu einseitig, um den Begriff der Körperlichkeit überhaupt, weiterhin auch für den Geschmack und Geruch, zu repräsentiren.
+
+Der Krystall als durchsich tiger ist nur ein specieller Fall des Verhaltens der Körper welt zum Licht. Der letzte Grund der Farbe ist, ausser dem Licht, immer die specifische Qualität und Cohäsion der Materie überhaupt. Mit Einem Wort, der Krystall gehört noch gar nicht in die Physik, sondern erst in die Organik als Anfang der Selbstgestaltung individueller Körper. Die Physik hat mit der Form in diesem Sinn noch nichts zu schaffen. Der abstracte Begriff der materiellen Form überhaupt fällt in den Begriff der mathematischen Raumfiguration. Die erste concrete Gestaltung derselben als eines Solidums ist die sphärische, theils als flüssige, theils als starre Kugel
+
+B oder doch Sphäroid, wie die Erde ein Rotationssphäroid ist. Hegel bringt die Ableitung der Gestalt mit dem Magnetismus in Zusammenhang; aber der Magnetismus ist nur, auch in der Kugel, das Princip der Linearität.
+
+Er tritt an der Gestalt des Körperlichen als dynamische Grenze derselben hervor, allein er ist kein Princip ste reometrischer Figuration, aus welchem die tetraedrischen, kubischen, rhombischen, prismatischen Formen der Kry stallisation entspringen könnten.
+
+Der Verfolg des Magnetismus führt nicht zum Begriff der krystallinischen Gestalt und durch diese, weil sie ein Verhältniss zum Licht haben kann, ܙzum Begriff der Farbe. Farbe ist ein oberfläch licheres, wechselnderes, so zu sagen, kraftloseres Phänomen als der Magnetismus, mit welchem ein Körper einen andern durch und durch inficirt und bewegt.
+
+[p. 119] Es könnte scheinen, als ob der chemische Process den Begriff des Krystalls weil viele chemische
+
+Producte krystallisiren.
+
+Nothwendigkeit voraussetzte, Allein es kommt bei dem Chemismus nicht auf die krystallinische Form, sondern auf die Qualität des Stoffes und auf das stöchiometrische Quantum seines Gewichts an. Nicht die Krystallisation bewirkt den chemischen Process, die Affinität.
+
+sondern
+
+Das chemische Product erscheint nicht nur in fester, krystallinischer Form, sondern auch in Gasform oder in flüssiger Form. In verschiedener Temperatur kry stallisiren manche Producte in verschiedenen Formen; aber diese Formen fallen gleichsam aus der Sphäre des Chemismus schon heraus und greifen schon in eine andere Sphäre über. Jedenfalls macht die Entstehung des Krystalls den chemischen Process zu einer Bedingung; nicht aber kann die Krystallisation als ein Voraus des Chemismus angesehen werden. Vielmehr erscheint sie als sein Resultat. Hegel hat immer daran festgehalten, in dem chemischen Process die nächste Vorstufe des Lebens zu erblicken. Er vermisst an seiner Entwicklung nur die Rückkehr in Freilich wäre er es sich; sonst wäre er schon Leben. dann, aber er ist es doch noch nicht, und es ist von ihm bis zum wirklichen Leben noch ein weiter Weg. Alle chemischen Processe, mögen sie verbinden oder scheiden, sind endlich. Sie bedürfen immer der Sollicitation von Aussen. Der elementarische Process eines Planeten verhält sich zu diesen Metamorphosen als der freie, in sich unendliche Chemismus, der Luft, Feuer und Wasser beständig in ein ander verwandelt. Wie ein Planet alle Millionen kleiner Bewegungen des endlichen Stosses und Falles auf ihm in den freien Flug seiner unendlichen Bewegung als ein acci dentelles Moment mit sich reisst, so hebt auch der meteorologische Process als der totale physische alle endlichen chemischen Actionen in sich auf. Wenn man die Physik, [p. 120] wie auch das Handbuch von Pouillet - Müller thut, ihm schliesst, so hat es nichts
+
+Widerstrebendes,
+
+Luft, Wasser, Feuer, Erde als physische Elemente im Unterschied von den chemischen zu bezeichnen, weil diese dann als die endlichen, von ihm negirten Bedingungen vor angegangen sind.
+
+Stickstoff,
+
+Luft besteht doch einmal aus Sauerstoff Wasser aus Sauerstoff und Wasserstoff u. s. w. , und das Gewitter, mit welchem Hegel den elementarischen Process schliesst, ist doch ohne Elektricität nicht möglich.
+
+Alle diese Begriffe folgen aber bei Hegel der Meteorologie erst nach. Weil jedes Moment eines systematischen Ganzen relativ auch Totalität ist, so ergiebt sich daraus, dass von ihm aus in alle übrigen Sphären Uebergänge existiren.
+
+Lässt man sich darauf ein, so muss dies im speciellen Fall mo tivirt werden, wenn nicht Verwirrung entstehen soll.
+
+Man nehme z. B. die Kegelform, so ist sie zunächst eine ab stracte stereometrische Formation, die für sich in ihren Eigenthümlichkeiten zu betrachten ist.
+
+Nun kann man, ihre Bedeutung für die Natur zu zeigen, ihr Vorkommen in den verschiedenen Gebieten der Natur und die hiermit verknüpften Veränderungen ihrer Gestalt monographisch verfolgen. Es ist nichts dagegen zu sagen. Stellt man aber die Natur an und für sich in ihrer Einheit dar, so muss man abwarten, wo und wie die konische Form zuerst in der Stereometrie und weiterhin sodann in der Gestaltung der Berge, der Pflanzen, der Thiere zum Vorschein kommt. Man kann sich dies auch an der Optik und Akustik verdeutlichen. Die exacte Physik vermischt in ihren Darstellungen das Beschreiben des objectiven Phänomens des Lichts und des Tons mit dem subjectiven Act ihrer Wahrnehmung durch den Seh- und Hörnerven.
+
+ser Act gehört aber erst in die Organik, in die Physiologie.
+
+Sehen und Hören ist kein blos physischer Vor gang, sondern ein physiologischer und psychischer Process.
+
+[p. 121] Handelt man aber von der Farbe überhaupt, so wird man von der nur physischen Farbe, wie sie aus der Wechsel wirkung von Licht und Dunkel entsteht, auch zur Betrach Im tung der physiologischen Farbe fortgehen dürfen. System als solchem dagegen wird sich der Begriff der Farbe bei seinem ersten Auftreten auf den rein physischen Process zu beschränken und erst in der organischen Natur die Entwicklung des Sehens in der so verschiedenen Structur des Auges der Mollusken,
+
+Insecten, Fische,
+
+Amphibien,
+
+Vögel und Säuger zu verfolgen haben. Nichts destoweniger sind, wie ich früher schon ein mal berührte, Anticipationen unvermeidlich.
+
+Auch die keuscheste Beschränkung für die systematische Accuratesse wird sie nicht vermeiden können, wenn sie nicht einem fanatischen Pedantismus anheimfallen will. Man muss aber in einem solchen Fall die Vorwegnahme auf das Mass zu rückführen können, welches durch die gerade gegenwärtige Stufe des Ganzen geboten ist. Um bei der Entwicklung von Klang, Wärme und Licht stehen zu bleiben, so muss man für sie den Grundbegriff festhalten, dass sie die verschiedenen Formen der Auflösung der Cohäsion in einer noch mechanischen Form, nämlich der Bewegung, aus machen.
+
+Die Bewegung individualisirt sich nach der qualitativen Beschaffenheit der Medien, in denen sie verläuft. Diese Medien können, ihrem Ursprung nach, unendlich verschieden sein, allein für den Begriff der Auflösung der Cohäsion kommt es nur auf den Unterschied ihrer Dichtigkeit an. Der Ton bewegt sich im dichteren Mittel schneller als im dünneren, die Wärme fixirt sich im dichteren Körper länger als im dünneren; das Licht bewegt sich im dünneren Mittel anders als im dichteren; es ver ändert beim Uebertritt aus dem einen in das andere seine Richtung.
+
+Bei diesen Auseinandersetzungen wird es nun ganz natürlich sein, dass wir die Luft als das Haupt medium, worin sich Klang, Wärme und Licht bewegen, [p. 122] heranziehen, aber nicht nach ihrer chemischen Bestimmtheit, nicht nach ihrer elementarischen Function, nicht als Atmosphäre, sondern lediglich als ein Medium des Durchgangs, der Fortpflanzung, für jene qualitativ und darum auch quantitativ verschiedenen Bewegungen. Wenn man, wie ich vorschlage, die Physik mit der Meteorologie schliesst und dieser die Chemie vorangehen lässt, so scheint der Begriff der Luft, des Feuers, des Wassers für die Chemie nicht entbehrt werden zu können, und Hegel hat die verschiedenen Formen des chemischen Processes sogar als Luft- , Feuer- und Wasserprocess unter schieden, allein diese physischen Elemente treten innerhalb der Chemie nach ihren chemischen Wirkungen auf, die in ihren Bestandtheilen liegen; gerade so, wie die Metalle und Halbmetalle, die in der Chemie gar nicht nach ihrem mineralogischen Charakter, sondern nur nach ihrer chemischen Function erscheinen. Wir sagen wohl, dass die Luft das Eisen oxydirt; aber die Oxydation wird nicht von der Luft, sondern nur von dem in der Luft enthaltenen Oxygen hervorgebracht. Der Stickstoff, das charakteristische Element der Luft, verbindet sich mit keinem Metall.
+
+Oder wir sagen, dass ein chemischer Process nur auf nassem Wege möglich sei, d. h. eine Verflüssigung der chemischen Substanzen fordere; wenn hierzu Wasser gebraucht wird, so bleibt das Wasser nur ein Mittel, den Aggregatzustand der Substanzen zu ändern, aber die Ursache des chemischen Processes liegt zuletzt nicht im Wasser, sondern in der Qualität und Affinität der Sub stanzen, gerade wie für manche chemische Verbindungen Licht als Bedingung gefordert wird.
+
+Die Vorwegnahme von Luft und Wasser ist also gerechtfertigt. Der Begriff des Feuers aber ist für die Chemie der Process einer ge wissen Verbindung des Sauerstoffs mit andern chemischen Substanzen, z. B. Kohlenstoff, ganz abgesehen davon, dass der Begriff der Wärme überhaupt als einer dynamischen
+
+[p. 123] Bewegung der Materie schon bei dem Begriff der Cohäsion absolvirt ist. Michelet bemerkt in seiner Vorrede zu der von ihm besorgten Ausgabe der Naturphilosophie Hegel's, S. XX. , dass der hauptsächliche Irrthum desselben bei der ersten Ausgabe der Encyklopädie darin bestanden habe, die höhern Verhältnisse einer Sphäre den niedern vorangeschickt zu haben, z. B. in der Mechanik Druck, Fall, Stoss und Träg heit auf die allgemeine Gravitation folgen zu lassen.
+
+Ganz derselbe Irrthum waltet nun bei der Physik ob, wenn sie die einfacheren Bestimmungen, specifische Schwere, Cohäsion, Klang, Wärme, Licht, Magnetismus, Elektricität, Chemismus, die aller Materie auf allen Weltkörpern zu kommen, dem elementarischen Process folgen lässt, der sogleich durch die besondere Individualität eines Planeten bedingt ist. Wenn die Mechanik mit dem absoluten Mechanismus des kosmischen Universums schliesst, so schliesst die Physik mit dem absoluten physischen Processe des kosmischen Individuums, der die end lichen Bestimmungen der Physik seiner freien Unendlich keit unterwirft. Hier erst ist daher der Ort der physischen Astronomie, mit welcher Hegel die Physik er eröffnet, denn nun erst sind die Bedingungen vorhanden, welche der meteorologische Process in sich als Momente aufhebt. Die physische Beschaffenheit eines Weltkörpers steht mit seiner mechanischen Bestimmtheit in Zusammen hang.
+
+Kometen und Monde haben noch keine freie Achsen drehung und machen eben deswegen » Trabanten<< ihres Centralkörpers aus. Die Kometen zeigen uns eine gasigte Expansion, die Monde eine starre Concentration. Der Fix stern hat eine freie Rotation um die eigene Achse; er hat einen festen Kern, das lunarische Moment, aber auch eine gasigte Hülle, das kometarische Moment. Er ist jedoch wasserlos. Der Planet hat eine freie Rotation um seine eigene Achse, zugleich aber eine Bewegung um seinen
+
+[p. 124] Centralkörper.
+
+Das Licht der Sonne fällt auf alle Gestirne ihres Systems, allein für die Kometen und Monde bleibt es improductiv. Wir können uns denken, dass das Sonnen licht die Felsen auf unserem Monde durchglüht und damit ihre Cohäsion abmürbt, allein einen weiteren Effect hat es nicht, weil dem Monde eine Atmosphäre fehlt. Oder weil diese fehlt, ist es vielleicht auf dem Monde absolut kalt, wie etwa bei uns in der dünnen Luft hoher Berge trotz des schönsten Sonnenlichts. Der Planet verarbeitet das Sonnen licht in seinem meteorologischen Processe und bringt dadurch die Fruchtbarkeit auf seiner Oberfläche, die Bedingungen des organischen Lebens, hervor. Er erzeugt das Wasser. Ich komme nunmehr auf den Krystall zurück. Hegel hat für die organische Natur den grossen Schritt gethan, in sie den Erdorganismus aufzunehmen, weil die Erde sich nicht nur eine individuelle Gestalt giebt, sondern auch ihr Leben in stetigem Kreislauf immer von Neuem hervor bringt.
+
+Ich enthalte mich, auf das Specielle einzugehen, und bleibe nur bei den allgemeinen Bestimmungen stehen, indem ich frage, worin das entscheidende Princip der Organik zu suchen sei? des Lebens.
+
+Ich antworte mit Hegel: im Begriff
+
+Das Leben aber fordert Subjectivität und damit individuelle Abschliessung seiner Gestalt.
+
+In der
+
+Mechanik und Physik kommt die Gestalt nur als durch die Attraction der Materie, durch die Cohäsion und durch den Wechsel der Aggregatzustände bedingt vor, nicht aber als individuelle Selbstgestaltung. Diese Plastik gehört erst dem Leben an. Gewöhnlich wird nun aber die ganze geologische Natur im Gegensatz zur vegetabili schen und animalischen als unorganisch behandelt, der Be griff des Organischen also auf den der Pflanze und des Thiers eingeschränkt.
+
+Wenn Hegel diese Schranke durch brochen hat, so muss auch das morphologische Element in dem Erdorganismus als das constituirende nachgewiesen werden.
+
+Dies Element ist aber das der Krystallisation.
+
+[p. 125] Hegel hat dieselbe, wie erwähnt worden, mit dem Magnetismus in Verbindung gebracht. Véra hat sich unglaubliche Mühe gegeben, dies zu rechtfertigen, und namentlich auch den Gedanken Hegel's erläutert, dass die Wärme die Bedingung für die Gestaltung sei.
+
+Dann ist aber nicht von primitiver, sondern nur von secundärer Gestaltung, von Umgestaltung die Rede. Und doch soll die Gestalt hier zum ersten Mal als physische Kategorie auftreten. Die Wärme löse die Materie aus ihrem starren Zustande auf, sie zerstöre seine Gestalt; aber wenn die Masse wie Die sphärische der erkalte, nehme sie wieder Gestalt an.
+
+Form der Masse, welche durch die mechanische Attraction entsteht, sei gleichsam die noch gestaltlose Gestalt; die eckige, kantige Form hingegen, die sich im Erkalten des flüssigen Körpers erzeuge, sei die concrete, die indi vidualisirte Gestalt, der Krystall. Alles, was sich für diesen Uebergang sagen lässt, hat Véra, I, 618—23, beigebracht.
+
+Wenn er aber hier mit Hegel ausser der
+
+Wärme den Magnetismus zur Begründung der Krystallisation aufnimmt, so erlaube ich mir, die Richtigkeit dieser Combination zu bezweifeln. Im Magnetismus liegt aller dings der Gegensatz des Sphärischen, die Linearität, allein die Kugel hat diese in ihrer magnetischen Achse sel der an sich. Der magnetische Pol fällt nicht mit dem mathematischen der Erdachse zusammen. Die Achsen eines Krystalls hingegen haben wieder mit der Magneticität nichts zu schaffen und beziehen sich lediglich auf seine stereometrische Gestalt. Die Physik kann sich mit der individuellen Vereinzelung der Körperlichkeit überhaupt, mit dem Begriff der Form überhaupt genügen, die im Be griff der physischen Individualität der Körper liegt, aber sie hat noch nicht die Krystallform zu entwickeln. Jeder Körper als ein materielles Individuum ist selbstisch, und diese Selbstischkeit drückt er in seinem Magnetismus durch Anziehen und Abstossen aus, sowohl nach der Richtung [p. 126] der Länge als der Breite; im Krystall ist aber nicht diese. Bewegung, sondern die Form die Hauptsache. Das Princip der Krystallisation muss daher organischen Tendenz der Natur gesucht werden, d. h. in dem Begriff der Zelle, denn die Zelle ist die elementare Form der ganzen organischen Natur, aus welcher sie alle Sondergebilde aufbaut. Der Krystall ist der erste Versuch der Zellenformation, der noch sogleich wieder er starrt, weil er alle Flüssigkeit von sich ausschliesst, welche die vegetabilische und die animalische Zelle in sich ein schliesst. Der Krystall setzt sich zwar, wie oben erinnert wurde, den chemischen Process voraus, allein man muss diesen nicht für seine Ursache halten. Chemische Neu tralisationen erfolgen auch ohne Krystallisation; die Individualität der krystallinischen Form, die mit der Schärfe ihrer Kanten und Ecken der Kugelgestalt sich schroff ent gegensetzt, hat ihren Ursprung schon in der Idee des Lebens, welches von Innen her durch sich selbst entsteht. Alle Beobachtungen
+
+Krystall der neueren Mineralogie bestätigen, in seiner Urgestalt plötzlich mit Einem Schlage da ist und in der sogenannten Juxta position nur sein Wachsthum in der Identität mit seinem Auch hat sich die Empirie primitiven Typus fortsetzt. schon daran gewöhnt, die Krystallform in ihrer Einheit mit der Zellenform aufzufassen, seitdem Theodor Schwann 1839 in seinen >>Mikroskopischen Untersuchungen « , Seite 220-257, den Vergleich der Zellen mit den Krystallen zuerst durchgeführt hat. Den ausführlichsten Nachweis, wie die Pflanzen und Thiere die mannigfaltigen Krystallformen in ihrer Gestalt zu Momenten verarbeiten, hat E. Haeckel in seiner >> Allgemeinen Anatomie der Organismen « , Berlin 1866, im dreizehnten Capitel, S. 400 ff. , gegeben, worin er das »System der organischen Grundformen« darlegt. Die Krystallographie als solche ist freilich nur die ideale Morphologie, allein gerade hierin liegt ihre [p. 127] hohe Bedeutung.
+
+Wir sehen, mit welcher Energie
+
+Form sich hier dem Stoffe gegenüber geltend macht, während die physischen Processe, die chemischen nicht aus genommen, sich gegen die Form gleichgültig verhalten.
+
+Dass nun ein Stoff gerade in dieser und keiner andern Form krystallisirt, können wir nicht • weiter enträthseln. Gold krystallisirt z. B. in oktaedrischer Form. Wir wissen es nicht.
+
+Diese Form ist
+
+Goldsein unmittelbar identisch.
+
+Warum?
+
+einmal mit dem
+
+Die Mineralogie ist die
+
+Wissenschaft von den einfachsten geologischen Organismen, welche die physische Beschaffenheit zugleich in einer be stimmten krystallinischen Form zeigen. Aus den Mineralien erbaut sich die Schicht, das Vorbild des lebendigen Zellgewebes.
+
+Die geologische Tektonik führt durch die Lagerung der Schichten zur äusseren Gestalt der Erdoberfläche, welche den Gegenstand der Geographie ausmacht. Ich glaube, dass Hegel die Geographie zu früh auf nimmt, wenn er sie der Oryktognosie, dem Leben der Erde in der Atmosphäre, im Meer und auf dem Lande, vorauf stellt.
+
+Ich glaube, dass Hegel auch hier, wie in der Physik, das, was das Höhere ist, unrichtig anticipirt hat. Die Gestaltung der Erdoberfläche ist der Schluss in der Gestaltung des Erdorganismus, denn sie bedingt die Existenz der Pflanzen und Thiere sowie die Vertheilung derselben. Die Mineralien sind offenbar die abstracten Elemente, die einfacher als die Schicht sind, welche sich aus ihnen bereits als ein Collectivindividuum zusammensetzt. Die Schichten aber lagern sich über und nebeneinander und bringen damit die Gestalt der Berge und Thäler hervor, welche Erdmann a. a. O. meint, dass das Wasser begrenzen.
+
+Hegel den meteorologischen Process erst hieher hätte setzen müssen; allein in dieser Hinsicht kann man Hegel wohl vertheidigen, weil dieser Process ein allgemeiner physischer Begriff ist, der an sich allen kosmischen Individuen [p. 128] zufällt, wenn er auch nicht auf allen existirt.
+
+In der
+
+Geographie kommt die Erde nur als orographischer, das Wasser nur als hydrographischer Factor der Erdgestaltung vor. Es ist hier nicht die Dialektik der physischen Elemente, sondern die Form, auf welche der Accent fällt, obwohl Hegel, wie man auch zugeben muss, Luft, Meer und Land hauptsächlich von Seiten des in ihnen sich regen den Lebens betrachtet. Er zeigt hierin eine ganz ausser ordentliche Feinfühligkeit, welche bis in die zartesten Unterschiede hinabtastet. Auch das, was er S. 440-442 über die physische Geographie sagt, ist reich an solchen genialen Blicken. Es zeigt uns am Schluss, wie sehr er sein Grundschema: Sonne, Mond, Komet, Erde, durchzuführen bemüht ist. Die neue Welt soll die unausgebil nördlichen und südlichen Theil, in der Weise des Magneten; die alte aber die vollkommene dete Entzweiung, einen Entzweiung in drei Theile darstellen, deren Einer, Afrika, das Metall, das Lunarische, starr vor Hitze ist, wo der Mensch in sich selbst verdumpft, der nicht in's Bewusst sein tretende stumme Geist; der andere, Asien, ist die bakchantisch kometarische Ausschweifung; der dritte aber, Europa, bildet den vernünftigen Theil der Erde, das Gleich gewicht von Strömen, Thälern und Gebirgen, dessen Mitte Deutschland ist. Diese Unterschiede, bemerkt Hegel, sind nicht blos zu äusserer Bequemlichkeit gemacht, sondern wesentliche. Er mischt in ihre Andeutung überall die Geschichte ein, und man merkt dabei, dass er Amerika als den unreiferen Welttheil herabdrücken will.
+
+Keiner der alten Welttheile sei von einem andern bezwungen, wohl aber Amerika von Europa. Europa ist ihm unter den Welttheilen, was der Planet unter den Gestirnen, die Erde unter den Planeten, der vernünftige Welttheil. Lässt man sich auf eine Kritik dieser Ansichten ein, so können Zweifel entstehen, selbst wenn man die tiefere Begründung hinzunimmt, [p. 129] welche Hegel in der Einleitung zu seiner »> Philosophie der Geschichte« davon gegeben hat. Ich erwähne nur noch, dass Professor Michelet in seiner philosophischen Darstellung der neuesten Geschichte wie in seiner Rechts philosophie über Amerika und Oceanien zu ganz abweichen den Meinungen gekommen ist. Er erblickt auf den Inseln Oceaniens die höchste Zukunft des Menschengeschlechts, die freieste Entwicklung des demokratischen Selfgovern ments.
+
+## Die systematische Organisation der Naturwissenschaften in Rücksicht auf Hegel's Naturphilosophie.
+
+Véra's Commentar zu Hegel's Naturphilosophie zeigt den tiefen Zusammenhang auf, der unter den Bestimmungen derselben herrscht.
+
+Er zeigt auch, wie das, was zuerst als paradox auffallen oder wenigstens, den gewöhnlichen Auffassungen gegenüber, als eine blosse Hypothese der Speculation erscheinen könnte, durch die Erfahrung viel mehr begründet ist, als diese selber es Wort haben will. Wenn ich mir daher erlaubt habe, sowohl gegen Hegel als gegen Véra Einwendungen zu machen, so glaube ich meiner Hochachtung für beide keinen bessern Aus druck geben zu können, als wenn ich zum Schluss den Punkt noch besonders hervorhebe, auf welchen Véra von Seiten der Philosophie den grössten Nachdruck legt, nämlich die systematische Organisation der Naturwissenschaften. Es wird durch eine solche kurze Darlegung das, was ich an Hegel's System für wahr, und das, was ich daran für der Veränderung bedürftig halte, am einfachsten her vortreten. Für die Systematik ist es nothwendig, dass sie nicht blos einen Gegensatz, sondern auch die Einheit desselben Natur nur in die unor enthalte. Wenn man daher [p. 130] ganische und in die organische theilt, so ist dies nur eine unvollkommene Dichotomie. Der Begriff des Organismus, der höchste in der Natur, wird zu Grunde gelegt, und ihm alles das, was nicht Organismus ist, entgegengesetzt. Das eine Glied der Eintheilung wird also nur negativ be stimmt. Es wird von ihm nur gesagt, was es nicht ist. Wenn es aber nicht organisch ist, was ist es denn? ist es dann positiv bestimmt?
+
+Wie
+
+Wir sehen dieser Frage dadurch ausweichen, dass man nur den Begriff des Organismus überhaupt festhält und den des Unorganischen ganz fallen lässt.
+
+So besitzen wir von einem talentvollen Hegelianer, K. Th. Bayrhoffer, der leider 1848 in einem wüsten Socialismus unterging, >> Beiträge zur Naturphilosophie « , deren erster, Leipzig 1839, das System der Naturentwicklung als allgemeine Grund lage, deren zweiter, 1840, die Theorie der ursprünglichen geschlechtlichen Erzeugung
+
+Menschen enthält.
+
+Bayrhoffer theilt darin die ganze Natur: 1) in den kosmischen;
+
+2)
+
+in den planetarischen;
+
+3) in den lebendigen
+
+Organismus, d. h. in das Sonnensystem, das Erdsystem und das System der Pflanze und des Thiers. Das Organische hat aber in der That das Unorgani sche zu seiner Voraussetzung, nämlich alle diejenigen Pro ducte der Natur, in denen sie noch nicht zur Selbstgestaltung als wirkliches Individuum gelangt. Was ist denn aber das Positive hierin? Offenbar die Materie als solche, denn das Organische unterwirft die Materie der Form, während sie als unorganische, unabhängig von der Form bestimmtheit, ohne subjective Einheit wirkt. Die Materie enthält nämlich in sich selbst den Gegensatz der blossen Masse und der qualitativen, specifischen Bestimmtheit derselben. Die Qualität der Masse ist ihre Schwere, das Streben zur äusseren Syn these mit jedem nächsten Körper, der an Masse überlegen Von dieser Qualität, die auch Kraft genannt zu ist.
+
+[p. 131] werden pflegt, ist diejenige gänzlich verschieden, welche das eigene Wesen einer Materie ausmacht. Dies ist ihre specifische Bestimmtheit, die mit ihrem materiellen Dasein unmittelbar identisch ist und nach verschiedenen Seiten hin als specifische Schwere, als specifische Cohärenz, als specifischer
+
+Ton, specifische
+
+Wärmecapacität
+
+Temperatur, als specifische Farbe, als specifischer Geruch und Geschmack erscheint. Nach allen diesen Seiten hin manifestirt eine Materie ihr Wesen als eine ihr eigenthüm liche Kraft, denn sie äussert in diesen mannigfaltigen
+
+Processen, was sie an sich ist. Eisen z. B. ist als Materie überhaupt nur schwer;
+
+als Materie aber, welche eben Eisen ist, unterscheidet es sich vor jeder andern und hat specifische Schwere, speci fische Cohärenz, einen specifischen Ton, specifische Wärme capacität, specifische Farbe; in sofern es aber Metall ist, hat es als Individuum eine kubisch-oktaedrische Krystallform. Niemand wird leugnen, dass es für jede Wissenschaft ein Bedürfniss ist, ihre Theile mit adäquaten Benennungen zu bezeichnen. Die Anfänge einer Terminologie sind gewöhnlich sehr unbestimmt und zufällig. Lange schwan ken verschiedene Namen durch einander, bis in diesem Kampf um die Existenz endlich einer siegt und sich ver erbt, gewöhnlich weil er von einer grossen Auctorität ge tragen wird.
+
+Und so haben sich für die Naturwissenschaft Physik und Organik, deren die Namen Mechanik, sich auch Hegel zur Unterscheidung ihrer Theile bedient, nunmehr allgemein eingebürgert, und wir werden in ihrer Anwendung, sobald es sich um concrete Bestimmungen Allein wir dürfen uns nicht verhehlen, dass die Behandlung der besondern Wissen La Place hat die schaften Schwierigkeiten erzeugt.
+
+handelt, selten fehlgreifen.
+
+Astronomie als mécanique céleste gefasst;
+
+gehört unzweifelhaft zur Mechanik, weil sie es lediglich mit der Der Astronomie, als einer mono 9*
+
+Bewegung zu thun hat.
+
+[p. 132] graphischen Wissenschaft, muss nun eben so unzweifelhaft gestattet sein, die Physik der Himmelskörper zu unter suchen, also zur mechanischen Astronomie die physische als Astrognosie hinzuzufügen. Wird hingegen die Natur in ihrer Totalität dargestellt, so wird die physische Astronomie in die Physik fallen müssen.
+
+Die Chemie unter scheidet sich von der Physik, welcher sie die Bestimmung der Begriffe der Dichtigkeit, des Volumens, der Magneti cität u. s. w. werden?
+
+zuweist.
+
+Freilich,
+
+Wohin soll sie nun gerechnet wäre atomistische
+
+Theorie
+
+Chemie unbedingt wahr, so müsste man sie zur Mechanik zählen, denn alsdann wären ja alle chemischen Processe nur mechanische Veränderungen, eine Umstellung der un veränderlichen Atome an einen andern Ort. So redet man auch in den Einleitungen der Handbücher, in denen man die Chemie streng wissenschaftlich zu begründen verspricht, worunter man nichts
+
+Anderes die Einführung der
+
+Mechanik versteht. Ist man dann erst im Zuge, dann vergisst man diese Grundlage; dann spricht man von den Kräften der chemischen Stoffe und von ihren Verwandlungen.
+
+Die Chemie muss also als ein integrirender Theil der Physik behandelt werden, denn sie wird das Princip derselben, die specifische Qualität der Materie, nicht los. Das Princip aber muss über die Eintheilungen entscheiden. Oft nennen wir auch in der Mechanik eine Bestimmung eine physische, sofern wir nicht ein blos mathematisches, sondern auch dynamisches Verhältniss bezeichnen wollen; der Unterschied von der speciellen Physik bleibt aber, dass in die sogenannten physischen Kräfte der Materie zwar Attraction und Repulsion, die eigenthümliche Qualität des Stoffs aber nicht eintritt. Die Eintheilung einer Wissenschaft muss erschöpfend sein, d. h. es muss keinen zu ihrem Gebiet gehörigen Gegenstand geben, der nicht principiell durch sie bestimmt würde. Wie sie selber, im Verhältniss zu den übrigen
+
+[p. 133] Wissenschaften, eine feste Grenze haben muss, so auch müssen die Unterschiede innerhalb ihrer selbst feste, klare Unterschiede sein.
+
+Dies können sie aber nur sein, wenn sie nothwendige sind.
+
+Nothwendige nur, wenn sie sich als ein Schluss aus dem Begriff der Idee ergeben. Die Eintheilung der Naturwissenschaft muss von dem Begriff der Idee der Natur ausgehen, dass sie das Absolute in der Aeusserlichkeit seiner Existenz ist. In dieser Aeusserlichkeit ist sie: 1) unmittelbar Materie, wie sie in der Vereinzelung ihrer Massen die Einheit als Schwere ausser sich hat; 2) ist sie als qualitativ in sich bestimmt die dynamische Entgegensetzung gegen ihre Aeusserlich keit, die Kraft, welche in der Materie als ihr Wesen thätig ist und die nicht nur mechanische, sondern zugleich physische Wechselwirkung der einzelnen Körper hervorbringt; 3) ist sie das Leben als der Process des organischen Individuums, welches als subjective Ein heit die Materie sowohl als deren Kräfte oder Eigenschaften dem Erzeugen und steten Wiedererzeugen seiner Form unterwirft und sie als Mittel für seine Selbsterhaltung opfert. Die Wissenschaft von der Materie im Allgemeinen nennen wir Mechanik; die von der Besonderung der Materie durch ihre specifische Kraft die Physik; die von der Individualisirung der Materie durch das Leben die Organik. Diese Unterschiede bilden die Stufen, durch welche die Natur vom niedrigsten ihrer Producte bis zum höchsten fortschreitet; quantitativ, allein dieser Fortgang ist nicht blos sondern zugleich qualitativ zu fassen. Die in den populären Darstellungen der Natur, deren wir [p. 134] letzten Decennien so zahllose erhalten haben, stehen mit den monographischen Specialarbeiten, die sich anachoretisch in ein Thema vertiefen, dadurch in Gegensatz, dass sie das Bedürfniss des Zusammenhanges lebhafter empfinden. Sie wären von dieser Seite her an die Philosophie als ihre Führerin gewiesen. Hiervon merkt man indessen nichts, denn sie wollen den Leser vor allen Dingen in einer seine Phantasie anregenden Weise unterhalten. Sie müssen bei dem grossen
+
+Publicum mit der Romanlectüre concurri ren und nehmen deshalb auch am liebsten den Ton der Erzählung auf.
+
+Sie suchen zu beschäftigen, zu spannen, zu überraschen, aber von einem tieferen Bewusstsein über die Organisation, von einer logischen Eintheilung, ist keine Spur zu finden. Wo der Begriff ganz ausgeht, stellen sich nicht einmal mehr Worte, sondern Holzschnitte ein. Was will man noch gegen eine Holzschnittillustration vor bringen, welche das Unbegreifliche uns schwarz auf weiss vor Augen stellt?
+
+Wer z. B. nicht begreifen kann, wie die hypothetische negative und positive
+
+Flüssigkeit einem Magneten herumwandert, der sehe sich das Bild an, welches ihre Vertheilung in Längs- und Quer- und Doppel streifen abmalt; oder wer nicht begreifen kann, wie die Atomistik den chemischen Process möglich macht, der in seiner physischen Erscheinung das Gegentheil aller Atomi stik darbietet, der sehe sich die Kugelhaufen an, welche. ihm der Holzschnitt zeigt; da sieht er ja ganz deutlich z. B. Zucker als fünf Atomkugeln Oxygen, sechs Kohlen stoff, fünf Hydrogen, die zusammen eine Zuckermolecüle ausmachen; was will er dagegen aufbringen? Was man so deutlich abbilden kann, muss doch wohl wahr sein. Was nun die Mechanik als die erste Sonderwissen schaft der Natur betrifft, so haben wir oben gesehen, wie mannigfache Wandelungen Hegel selber durchlaufen ist, bis er zu seiner letzten Anordnung kam. Wir finden in der letzten Ausgabe der Encyklopädie die Eintheilung so [p. 135] angegeben: 1) Raum und Zeit; 2) Materie und Bewegung; 3) absolute Mechanik. Sie ist nicht symmetrisch, denn das dritte Moment müsste, conform den beiden ersten, offenbar heissen: das kosmische Individuum und die unendliche Bewegung. Michelet hat in seiner Bearbeitung der Naturphilosophie bei der Angabe des Inhaltsverzeichnisses: 1) die mathematische; 2) die endliche; 3) die absolute Mechanik: Astronomie, unterschieden. Véra ist ihm hierin gefolgt. Systematisch genommen, muss das zweite Moment der Gegensatz des ersten sein. Wenn man aber die end liche Mechanik der mathematischen entgegensetzt, so er hellt aus der Benennung wenigstens kein Gegensatz.
+
+ser aber liegt darin, dass die fundamentalen Bestimmungen der Aeusserlichkeit der Idee formale sein müssen, weil sie die Möglichkeit der Existenz der Realität der Materie bedingen.
+
+Ohne die Materie, das ist gewiss, würden Raum und Zeit selber nicht da sein, aber, ohne den Raum und ohne die Zeit sich vorauszusetzen, ist auch die Materie undenkbar.
+
+Raum und Zeit bringen die Materie nicht hervor, sind aber die formale Bedingung ihrer Existenz. Die Materie ist die concrete Räumlichkeit und Zeitlich keit, die unmittelbar in der Realität einer endlichen Masse existirt. Der Gegensatz des formalen Mechanismus ist also der reale, und dieser Gegensatz hebt sich im absoluten auf, weil in diesem die Realität der Materie zugleich in der Form ihrer Massengestalt, Bahngestalt, Bewegungs gestalt auftritt, die Form also ebenso wichtig wird als die Masse oder vielmehr die Masse nur in dieser Form ihre Bedeutung hat.
+
+Hegel hat sich in seiner grossen Logik bei der Beschreibung des Mechanismus als des ersten Mo mentes des objectiven Begriffs selbst jener Bezeichnungen des formalen, realen und absoluten Mechanismus bedient. Der Ausdruck: formaler Mechanismus, ist noch ganz vorzüglich deshalb zu empfehlen, weil er sehr treffend das jenige Element andeutet, was durch das
+
+Prädicat des [p. 136] mathematischen nicht ohne Verwirrung bezeichnet wer den soll. Der Ausdruck: Mathematik lässt sich nur auf die Grösse und den Raum, schlechterdings nicht auf die Zeit anwenden. Wenn Hegel deshalb 1817 diese erste Sphäre Mathematik benannte, so war, da er auch die Zeit darunter subsumirte, der Ausdruck unangemessen. Das erkannte er wahrscheinlich auch, liess ihn 1827 weg und integrirte Raum und Zeit der Mechanik, was jedenfalls richtiger war. Wenn Michelet nun beide Namen ver bindet und eine mathematische Mechanik aufstellt, so lässt sich dabei nur etwas sehr Unbestimmtes denken und am wenigsten ein Gegensatz zur Endlichkeit der Mechanik Das Wort Mathematik selber laborirt an darin finden.
+
+einer grossen Unbestimmtheit und Weitläufigkeit. Einmal hat man die reine und angewandte Mathematik. Die letztere ist aber nichts Anderes als Mechanik und Physik. Die reine Mathematik zerfällt wieder in die arithme tische und geometrische. Die arithmetische aber ge hört, systematisch genommen, in die Metaphysik, denn sie ist in der That nichts Anderes als die Entwicklung des Begriffs der Quantität. Das, was die Mathematik als Sonderwissenschaft hierin von der Metaphysik unterscheidet, ist nur die Technik der Rechnungsarten, der alge braischen Formulirung der Begriffe. Wenn man von der mathematischen Behandlung eines Gegenstandes spricht, so versteht man darunter im Allgemeinen die arithmetische, den Calcül. Die Geometrie hingegen, als Planimetrie, Stereometrie, Trigonometrie, ist wesentlich Naturwissenschaft, denn sie hat die Formen zu ihrem Inhalt, welche der Punkt, als die ideelle Bestimmt heit des Raumes, hervorbringen kann. Der Punkt erzeugt durch seine Bewegung die Linie, die Linie die Ebene, die Ebene die Umschliessung des Raumes, den sogenannten mathematischen, d. h. nicht von Materie erfüllten Körper. Diese Gestalten sind diejenigen, in denen sich die gesammte
+
+[p. 137] Plastik der Natur bewegt.
+
+Was wir auch erblicken mögen, es wird immer eine gerade trianguläre, Figur, quadranguläre, es wird ein Körper sein.
+
+oder krumme polygonale geradflächiger
+
+Linie, oder sphärische oder krummflächiger
+
+Das hat man allmählich einzusehen ange
+
+Ein schöner Beweis dafür ist Nees von Esen beck: » Allgemeine Formenlehre der Natur als Vorschule der Naturgeschichte« , Breslau, 1852, und Karl Köstlin fangen.
+
+in seiner >> Aesthetik« , Tübingen, 1863, Theil I, S. 382 ff., in der Plastik der Körperwelt. Hegel selber hat sich auf die elementaren Begriffe des Punkts, der Linie und der Ebene beschränkt und dabei zwar den Gedanken der Möglichkeit einer Philosophie der Mathematik ausgesprochen, ihn aber eigentlich sofort wieder bekämpft, weil die Mathematik in der für sie genügenden Methode wesentlich Verstandeswissenschaft sei.
+
+Es ist jedoch schlechter dings nicht abzusehen, weshalb die Mathematik von der Philosophie ausgeschlossen bleiben sollte. Als Arithmetik ist dies gewiss schon unmöglich, denn fällt in die Metaphysik, und Hegel hat durch seine eigene Bearbeitung der Kategorie der Quantität, namentlich durch seine ebenso gelehrte als geistvolle Darlegung des Zwecks des Differen tialcalcüls, dafür gesorgt, dass sie nicht wieder daraus ver schwinde. Dass der Begriff des Raumes derjenige ist, aus welchem die Geometrie hervorgehen muss, wird ebenfalls von ihm selber begründet. Es mag ja nun diese Wissen schaft immerhin die entweder analytische oder synthe tische Form für sich behalten, so lange sie ausserhalb der Philosophie sich befindet. Sobald sie aber innerhalb der selben als das abstracte Element der Naturgestaltung auf tritt, ist kein Grund vorhanden, weshalb die allgemeine Methode der Philosophie bei diesem Gegenstande plötzlich aufhören und er zu einer Ausnahme der Dialektik werden Man spricht bei der Mathematik immer nur von der Quantität, allein die Quantität hat ja in der Geometrie sollte.
+
+[p. 138] unaufhörlich auch mit qualitativen Unterschieden zu thun. Ein Winkel von 90 Grad ist, wenn ich blos zähle, von einem Winkel von 70 Grad nur quantitativ unter schieden, sofern er 20 Grad mehr hat.
+
+Allein der Winkel von 70 Grad ist zugleich qualitativ ein anderer, denn er ist ein spitzer Winkel. Der rechte Winkel bleibt sich immer gleich, der spitze und sein Gegensatz, der stumpfe, sind variabel. Die tetragonale Figur ist von der trigona len, wenn ich blos zähle, nur durch das Plus eines Win kels unterschieden, allein sie ist damit zugleich eine qualitativ andere Figur, eine Figur mit ganz andern Eigenschaften.
+
+So ist es mit allen Bestimmungen der Geometrie, die eine vollkommen apriorische Wissenschaft ist.
+
+Es wäre sonderbar, wenn eine solche Wissenschaft nicht des streng sten systematischen Zusammenhangs fähig wäre und nur in der analytischen oder synthetischen, nicht aber genetischen Methode sollte dargestellt werden können. Uebergang zur lebendigen Erfassung der möglichen räum lichen Naturformen scheint mir von Seiten der Mathematik in der descriptiven Geometrie zu liegen. Dass wir die qualitativen Differenzen in den Raumfigurationen zugleich als quantitative in Zahlen und Formeln auszu drücken vermögen, giebt eben der Mathematik den Charakter der Evidenz, den wir an ihr oft bewundern und um welche sie andere Wissenschaften oft beneiden. Von dem Gegensatze des Raums, der Zeit, kann es keine so weitläufige Wissenschaft als vom Raume geben, weil ihr Begriff sich sogleich mit dem ihrer Dimensionen erschöpft, die bestimmte Zeit aber erst durch die Bewegung der Gestirne hervorgebracht wird. Die abstracte Einheit von Raum und Zeit ist der so wohl durch seinen Raum als durch seine Zeit bestimmte Punkt, der jetzt ein Hier ist. In dieser ganzen Sphäre ist noch nicht von der Materie selber die Rede. Der Begriff der Bewegung, wie er [p. 139] in ihr vorkommt, ist erst der einer abstracten Bewegung, die sich zwar schon in dem Elemente der Aeusserlichkeit, allein doch noch völlig ideell vollzieht,
+
+Wenn wir in dem
+
+Bereich der logischen Idee von der Selbstbewegung des Begriffs sprechen, so verstehen wir darunter den nur ideellen Uebergang einer Bestimmung zu einer andern. Der Begriff der Qualität geht durch seine Entwicklung zu dem der Quantität über u. s. w. Raum und Zeit haben nichts damit zu schaffen.
+
+Hier in der Naturphilosophie ist die Bewegung der geometrischen Gestaltung eine im Raum sich vollziehende.
+
+Der Punkt bringt, indem er sich in identischer Richtung bewegt, die Linie als gerade, in dem er seine Richtung continuirlich ändert, die Linie als krumme hervor u. s. w. Die Bewegung der Figuration von der trigonalen zur tetragonalen, von dieser zur poly gonalen Gestalt ist nothwendig im Raum, aber sie ist eine immaterielle und darum doch noch ideelle. Eben so ver hält es sich mit der Bewegung des Zeitmomentes, der im Raum die Continuität des Werdens, allein in selbst noch ideeller Form, realisirt.
+
+Die Bewegung endlich des Punk tes, der sich im Raum durch die Zeit, in der Zeit durch den Raum bestimmt, enthält Raum und Zeit schon als Momente, aber auch erst in ideeller Weise.
+
+Kant hat in seinen »Metaphysischen Anfangsgründen der Naturwissenschaft « die hierdurch entstehende Wissenschaft Phoronomie genannt, und Fries ist ihm hierin in seiner » Mathematischen Naturphilosophie« , 1822, gefolgt. Den Gegensatz zu diesem erst formalen Mechanismus macht der reale, in welchem die den Raum erfüllende, in der Zeit sich von Ort zu Ort bewegende Materie auf tritt. Sie kann nicht aus Raum und Zeit abgeleitet wer den; sie entsteht nicht aus dem • Orte; sondern es ist die Idee der Natur, welche in ihr sich zur äusserlichen concreten Erscheinung bringt.
+
+Hegel, und mit ihm Véra, erklären sich gegen die Hypothese, sich die Materie als [p. 140] die unendliche Vielheit, sei es ungeschaffener, sei es ge schaffener Atome, zu denken, die sich immer gleich blei den und nur in immer andere, ihnen selbst gleichgültige Beziehung zu einander treten.
+
+Mit dem Augenblick, dass man diese Hypothese annimmt, sieht man sich zu der Con sequenz verurtheilt, die ganze Natur und weiterhin auch den Geist lediglich mechanisch zu fassen und mit den Erscheinungen, wie sie sich in der Wirklichkeit darstellen, in Widerspruch zu gerathen.
+
+Man muss Hegel hierin bei stimmen. Nichts destoweniger werden wir den Begriff des Atoms als den der materiellen Punktualität in der Weise zulässig finden, dass die kleinsten Theile der Materie entstehen und vergehen, dass sie, wie alle Quanta, für sich discrete, aber, im Verhältniss nach Aussen, eben so sehr continuirliche sind. Véra bestreitet den Be griff eines kosmischen Aethers als der Urform der Materie, wie Kant, Herschel, Oken, Carus u. A. ihn annehmen. Ich glaube nicht, dass man dieser Hypothese alle Berechtigung absprechen kann, nur muss man den Aether, wie den Raum und die Zeit, als ein Cotinuum, nicht als ein Aggregat von fertigen Atomen denken. Der Aether wird sich aber von Raum und Zeit dadurch unterscheiden, dass er in sich thätig ist und aus seiner Continuität dynamisch zu discreten Sondergebilden fortgeht, die sich als Massen isoliren. Diese machen in ihrer Bewegung durch Stoss und Fall den Inhalt der gewöhnlichen Mechanik und Statik aus.
+
+Die Schwere in ihrer Doppelbeziehung als centri fugale und centripetale, als Repulsion und Attraction, be stimmt hier das Verhalten der Massen zu einander. Die Repulsion hält sie als vereinzelte ausser einander, während die Attraction ihre Einheit zu setzen strebt, da sie als Materie an sich identisch sind. Raum und Zeit werden die Factoren dieser Bewegung und machen den Idealismus derselben aus, denn Niemand wird Raum und Zeit Kräfte [p. 141] nennen wollen, und doch sind sie es, welche durch ihre verschiedene Quantität die Wirkung der Schwere verändern.
+
+Hegel hat gesagt, dass, wenn ein herabfallender
+
+Ziegelstein einen Menschen tödte, derselbe nicht sowohl durch den Stein als durch Raum und Zeit todtgeschlagen werde.
+
+In einer Kritik, welche die Revue des deux mondes
+
+1866 über Véra's Naturphilosophie von Mr. Levèque brachte, sprach sich eine laute Verwunderung über diese Paradoxie aus. Raum und Zeit sind doch nicht Kräfte der Materie, wie können sie tödten?
+
+Der Stein allein ist der Mörder.
+
+Aber der ruhig liegende Stein tödtet doch Niemand; der Stein, der nur ein paar Fuss durchfällt, auch nicht, sondern erst der Stein, der, indem er einen grösseren Raum continuirlich beschleunigender
+
+Geschwindigkeit durchmisst, erlangt dadurch die Kraft, einen Men schen zu tödten. Es ist also doch, wie Hegel sagt, Raum und Zeit, welche den Menschen todtschlagen;
+
+ohne den
+
+Stein freilich nicht; das hat er ja aber auch nicht behauptet. Jeder Stoss und Fall, in welcher Form er auch er scheine, ist eine endliche Bewegung, die unmöglich sein würde, wenn nicht die in sich unendliche Bewegung der freien kosmischen Körper existirte, die ihr eigenes Centrum haben.
+
+einzelnen Körper auf einem solchen freien Körper verhalten sich nur als Accidenzen zu seiner Masse, er selber aber verhält sich zu allen übrigen freien Körpern nach der Proportion seiner Masse. Alle kosmischen Körper stehen unter einander in Wechselwirkung. Die Form der Bewegung wird daher die einer geschlossenen Curve, während alle endliche Bewegung entweder ist oder, wie in der Pendelbewegung, eine sphärische Form, in der Wurfbewegung eine Parabel be schreibt. In dem unmittelbaren Verhältniss eines periphe geradlinigt rischen Körpers zu seinem Centralkörper würde nur die geradlinigte
+
+Beziehung von jenem auf diesen liegen.
+
+[p. 142] Newton setzte daher eine besondere Kraft voraus, welche den peripherischen Körper in der Richtung der Tangente von der verticalen Richtung auf seinen Centralkörper ab leiten sollte.
+
+Véra hat, wie ich oben berichtete, gegen die sogenannte Tangentialkraft eine scharfe Polemik geführt. Er will die Curve als die Resultante aus dem Dualismus der Tangente und der Verticale nicht statuiren. Es könnte, nach dem Parallelogramm der Kräfte, nur eine Diagonale entstehen.
+
+Diese Diagonale würde allerdings auch nur eine gerade Linie sein, wenn die Seitenkräfte als gleich mässig wirkende angesehen würden;
+
+eben deshalb aber macht man die Voraussetzung, dass sie ungleichmässig wirken, indem die eine den peripherischen Körper gleich mässig bewege, die andere ihn mit progressiv beschleuni gender Kraft anziehe, wodurch dann die continuirliche
+
+Aenderung in der Richtung der Bewegung und damit eine Curve resultire. Es bedarf aber nicht des Stosses einer transcendenten Kraft, den Körper in die Tangente zu wer fen, sondern er wirft sich selbst hinein, sofern seine Entstehung nicht ohne Eigenbewegung zu denken ist.
+
+Gewöhnlich sagt man, dass er von der Tangentialrichtung durch die Anziehung des Centralkörpers abgelenkt und seine Bahn damit in die Curve umgebogen werde, allein umgekehrt wird seine Ablenkung vom Centralkörper auch durch die Attraction der vielen andern Körper auf immanente Weise realisirt. Hätte z. B. der Mond ein Verhältniss nur zur Erde, so müsste er in der Verticale auf dieselbe zustürzen, allein er wird, wie die Erde selber, auch von der Sonne attrahirt.
+
+Diese doppelte Attraction hält ihn in der Schwebe. Seine Bewegung ist eben deshalb reich an Perturbationen, welche seine Librationen hervorbringen. Das Parallelogramm der Kräfte, welches die Bewegung der endlichen Mechanik beherrscht, erweitert sich hier zum sogenannten Gesetz der drei Körper. Wenn wir uns in der Rechnung auf dies Minimum beschränken, so [p. 143] ist doch keine Frage, dass in der Wirklichkeit alle kos mischen Körper auf einander wirken, der Mond also nicht blos von Sonne und Erde, sondern auch von Venus und Mars u. s. w. angezogen wird. Wir vernachlässigen diese Attraction, wenn wir sie nicht zu bestimmen vermögen; wir eliminiren sie unter der Form eines gleichgültigen Minimums aus der Rechnung; sie ist aber unzweifelhaft vorhanden. Der Neptun wurde nur dadurch entdeckt, dass die Störungen in der Bahn des Uranus aus seinem Verhältniss zur Sonne und zum Saturn nicht genügend sich erklären liessen und die Hypothese der Einwirkung noch eines andern Planeten über ihn hinaus herbeiführten. Es tritt nun hier, in der absoluten Mechanik, bei Hegel nur unser Sonnensystem auf.
+
+Diese Beschränkung ist aus seiner Philosophie des Geistes, wie ich früher ge zeigt habe, erklärlich, allein vom Standpunkt der Natur schwerlich zu rechtfertigen, der sich auf den Bau des gesammten Universums hinrichten muss.
+
+Hegel bemüht sich, den Planeten als den Körper darzustellen, welcher die vollendetste Bewegung besitze, und führt den Beweis dafür dadurch, dass derselbe einmal sich um seinen Centralkörper und zweitens um seine eigene Achse bewege, während Kometen und Monde ihre Achse in ihrem Centralkörper hätten und der Rotation um die eigene Achse entbehrten. Es kann sich, hier in der Mechanik des Himmels, erst um die Masse und Bewegung der himmlischen Körper, noch nicht um ihre physischen Eigenschaften, handeln. Die Rotation des Körpers ist deshalb in der That der entscheidende
+
+Begriff in dieser
+
+Sphäre.
+
+Sie kommt allen himmlischen Körpern, auch den Kometen und Monden, zu, nur dass bei diesen die Drehung um die eigene Achse mit der Drehung um ihr Centrum zusammenfällt, oder, wie wir es auch ausdrücken können, dass bei ihnen die Tages periode mit der Jahresperiode identisch ist. Es entsteht nun für die logische Anordnung eine dialektische Schwierigkeit.
+
+[p. 144] Wir wollen davon absehen, dass der Centralkörper eines Planetensystems im Verhältniss zum absoluten Centrum des Kosmos selbst wieder zu einem peripherischen wird, um welches er sich translatorisch herumbewegt, weil Hegel von einem solchen Verhältniss unseres Systems noch keine Ahnung hatte, so liegt doch noch die Schwierigkeit vor, wie man den Kometen und den Mond behandeln solle. Ihrer mechanischen Bewegung nach stehen sie unstreitig unter der des Centralkörpers, auf welchen sie sich beziehen; Hegel stellt sie aber als die Körper des Gegensatzes zwischen Sonne und Planet. Er stellt also die an sich niedrigere Bewegung, die eigentlich erst eine Fallrotation ist und insofern an den freien Fall der endlichen Körper noch anknüpft, höher als die selbstständige Rotationsbewegung der Sonne. Der Komet ist in seiner Bahn von der Sonne abhängig, aber von diesem ist bei Hegel da, wo er den Mond einführt, noch nicht die Rede gewesen. Wenn Hegel Komet und Mond einander als » centrumlose « Körper coor dinirt, so kann er damit nicht sagen wollen, weder, dass sie nicht in sich ein Centrum hätten, noch dass sie nicht sich auf ein Centrum ausser sich bezögen, sondern nur, dass sie keine freie Rotation besässen, vielmehr in ihrer Rotation an das Centrum und die Achse eines andern Körpers gebunden seien. Wollte man nun consequent ihrer mechanischen Inferiorität halber mit ihnen den Anfang machen, so würde das Missliche nur darin liegen, dass von dem solarischen und planetarischen Centrum, welches sie voraussetzen, noch nichts vorgekommen. Wollte man um gekehrt erst von diesem als der fundamentalen Bedingung aller kosmischen Structur handeln, so kann es, wenn man ihm den kometarischen und lunarischen Körper folgen lässt, den Schein gewinnen, als müssten sie in der Form der Bewegung höher stehen, was doch nicht der Fall ist. Alle diese Bedenken steigern sich noch, wenn man die physische Beschaffenheit dieser Weltkörper erwägt, nach [p. 145] welcher der Komet wohl die unterste Stufe der Gestirn bildung einnimmt, der Mond aber ihm in der That, was Hegel auch lehrt, durch seine Starrheit wie durch seine Unterordnung unter einen Planeten entgegengesetzt ist.
+
+Ich kann jedoch bei dieser Antithese die Bemerkung nicht unterdrücken, dass wir eigentlich nur etwas von der physischen Qualität des Erdmondes, aber so gut wie gar nichts von der der übrigen Monde unseres Systems wissen. Hegel erblickt im Monde auch das Metallische, das Feurige, Vulcanische. Da unser Mond jetzt seit Jahrtausenden schlechthin todt ist, so muss er eine Periode im Rücken haben, in welcher er wenigstens Luft und Wasser besass, weil er sonst keine Vulcanität hätte entwickeln können, auf welche wir aus der Kegelform seiner Berge und aus seinen Rillen schliessen. Hegel sucht diesen Schwierigkeiten dadurch zu begegnen, dass er von der mechanischen Sphäre die logischen Bestimmungen geltend macht. Er sagt §. 270: >>Was die Körper, in welchen der Begriff der Sphäre für sich reali sirt ist, betrifft, haben sie zu Bestimmungen ihrer unterschiedenen Natur die Momente ihres Begriffs. ist also das allgemeine Centrum der ziehung auf sich selbst.
+
+Einer abstracten Be
+
+Diesem Centrum steht die un mittelbare, ausser sich seiende, centrumlose Einzel heit, als gleichfalls selbstständige Körperlichkeit erschei nend, entgegen.
+
+Die besondern aber sind die, sowohl in der Bestimmung des Aussersichseins als zugleich des In sichseins stehen, Centra für sich sind und sich auf den ersten als ihre wesentliche Einheit beziehen. << In dieser Classification muss auffallen, dass Hegel nicht, wie der Begriff es fordert, von dem Allgemeinen durch das Besondere zum Einzelnen, sondern vom Allgemeinen durch das Einzelne zum Besonderen als der con creten Totalität fortgeht, denn die Totalität ist concret dadurch, dass sie den Gegensatz des Besonderen in sich [p. 146] aufhebt.
+
+Hegel sagt gleich zu Anfang eines Corollariums zu jenem Paragraphen:
+
+» Die centrumlose Körperlichkeit als der Aeusserlichkeit angehörig besondert sich an ihr selbst zum Gegensatz des lunarischen und kometarischen Körpers. « Dennoch will er auch in einer weiteren Exposition bei Michelet, S. 152, durch eine Analyse der im Sonnensystem enthaltenen Schlussform die Planeten als die Mitte desselben aufrecht halten.
+
+Das Grundverhältniss des Sonnensystems ist aber unstreitig das der Sonne zu ihren Planeten, der Gegensatz des centralen Körpers zu seinen peripherischen, denn die Sonne ist, was sie ist, wahrhafter Weise nur durch die Wechselwirkung mit ihren Planeten, so wie diese Planeten sind nur durch ihre Wechselwirkung mit der Sonne.
+
+Die Kometen sind nur ein Accidens der Sonne, die Monde nur ein Accidens des Plane ten.
+
+Wir sehen daher auch, dass Planeten, Mercur, Venus, Mars, ohne Monde bestehen, von den Planetoiden ganz zu geschweigen, für welche es sich sogar, ihrer Kleinheit hal der, sehr fragt, ob sie, wie sie nach Hegel als Planeten es müssten, einen meteorologischen Process besitzen? Es ist hier also, wie man sieht, noch viel zu thun. Die Uranologie oder Astronomie oder himmlische Mechanik, wie man sie auch nennen möge, hat drei Probleme zu behandeln: 1) die Gestaltung der Form des kosmischen Individuums als einer sphäroidischen; 2) die Gestaltung der Form seiner Bahn als einer geschlossenen Curve mit ungleichen Achsen von den mannigfaltigsten Grössenver hältnissen, d.
+
+h.
+
+einer wesentlich elliptischen;
+
+3) die Gestaltung der Form seiner eigenen Bewegung als einer achsendrehenden, die aber als unfreie nur ein Linienziehen, als freie hingegen eine Spirale ist. Dies letztere Problem führt dann zum System des ganzen kos mischen Universums, das man oft auch einen Organismus genannt hat. Auch Hegel spricht unwillkürlich von den Riesengliedern des Sonnensystems; allein man muss
+
+[p. 147] J.
+
+bei solchen Ausdrücken niemals vergessen, sie die
+
+Uebertragung der Form einer höheren Sphäre auf eine niedrigere sind, denn sonst entstehen eben solche Verschie fungen und Verfälschungen der Begriffe, wie umgekehrt, wenn der wirkliche Organismus nur als ein Mechanismus vorgestellt wird. Den Gegensatz zur Mechanik macht die Physik da durch aus, dass die Materie nicht nur schwer, sondern dass sie zugleich eine in sich qualitativ bestimmte oder specifische ist, welche deshalb auch eine specifische Schwere hat. Mechanisch verhalten sich die Körper nur nach ihrer Aeusserlichkeit als relativ selbstständige und unselbststän dige zu einander; physisch beziehen sie sich durch ihre innere Eigenthümlichkeit, durch ihre individuelle Qualität, auf einander. Diese ist es, die in ihrer Wechselwirkung als Kraft erscheint, welche sich die Schwere unterordnet. Die Kraft ist nicht ausserhalb des materiellen Stoffes, aber der Stoff wirkt physisch nicht durch seine Masse, sondern durch seine Qualität. Innerhalb der reinen Mechanik ist die Schwere die alleinige Qualität des Stoffes, die ihn bewegt; innerhalb der Physik ist es seine specifische Beschaffenheit, die ihn, nach verschiedenen Seiten hin, immer anders erscheinen lässt. Kant hat diese Wirksamkeit mit Innerhalb der dem Ausdruck: Dynamik bezeichnet. Mechanik kommt dieser Ausdruck auch vor. Wir nennen die Wissenschaft vom Gleichgewicht der Körper Statik, die von ihrer Bewegung Dynamik.
+
+In so fern hätte man eine mechanische und physikalische Dynamik zu unter scheiden, allein in der Mechanik ist von keiner besondern der Materie immanenten Kraft die Rede, denn die Grösse der Masse, die Proportion ihrer Quantität, macht in ihr das entscheidende Princip aus. Allerdings liebt es die exacte Wissenschaft, die Mechanik mit noch andern Kräften, ausser der Schwere, auszustatten, indem sie die Ver änderungen der Bewegung in Kräfte verwandelt, daher von 10 * [p. 148] einer beschleunigenden, einer verlangsamenden Kraft, von einer Stosskraft, einer Wurfkraft u. s. w. spricht, allein zuletzt kommen doch alle diese Kräfte auf die Attraction und Repulsion als Modificationen derselben zurück. 1 Es ist 驾 keine besondere Kraft, welche den Fall der Körper bewirkt; es noch weniger ein Fallstoff vorhanden, dem diese Kraft inhärirte, sondern ein Körper fällt, weil er schwer ist. Raum und Zeit sind keine besonderen Kräfte, aber sie machen den Idealismus der Mechanik aus, weil der Körper sich im Raum und in der Zeit bewegt. Wenn ein Körper fällt, so muss das Quantum des Raumes und der Zeit, worin dies geschieht, nothwendig ein bestimmtes Verhältniss zu einander haben. Raum und Zeit, Masse und Schwere, Ruhe und Bewegung, gehen natürlich als Momente in die Physik über, allein ihr Princip ist die qualitative Besonderheit der Materie. Der allgemeine Begriff derselben abstrahirt noch von den speciellen Unterschieden der Materie und zeigt in sofern eine selbst noch mechanische Physiognomie.
+
+specifische Schwere ist in der Cohäsion der Körper thätig, welche hier an die Stelle der nur mechanischen Attraction tritt. Wir besitzen keinen Namen, die ganze hierher ge hörige Gruppe von Phänomenen zu bezeichnen. Man kann mit Hegel sagen, sie handle von der besonderen Individualität, allein ich glaube nicht, dass dieser Ausdruck einem Physiker verständlich wäre. Individualisirende Mechanik zu sagen, würde schon passender sein, wäre es nicht wünschenswerth, den Ausdruck Mechanik in der Ein theilung der Physik zu vermeiden. den Herbart'schen können?
+
+Ausdruck
+
+Sollte man daher nicht
+
+Synechologie anwenden
+
+Die Verhältnisse sind hier noch mechanisch, aber diese Mechanik wird principiell durch die Specification der Materie bestimmt. Der allgemeine Begriff derselben und der durch sie bedingten specifischen Schwere giebt den Begriff [p. 149] der elementaren Synechologie.
+
+Jeder Körper hat aber seinen ihm eigenthümlichen Zusammenhang, in welchem die einzelnen Theile desselben, bis zu den kleinsten hin, sich gegenseitig berühren und verbinden. Die blos äusserliche Contiguität ist nur Adhäsion, die auch innere Continuität der materiellen Einheit ist Cohäsion.
+
+Man geht hier gewöhnlich auf die Vorstellung von Atomen und von Poren zurück, die zwischen ihnen befindlich sein sollen, allein die Art, wie eine Materie als ein Ganzes ihre Ein heit durch ihre discreten Theile continuirt, ist ein dynamischer Act, der in concreto von der Qualität der Materie und von ihrer Form als gasigter, flüssiger oder fester ab hängt. Bei den festen Körpern erscheint die Cohäsion in den Lamellen der Krystalle, in dem Zellgewebe der Pflanzen und Thiere. Man kann diese Stufe der Cohäsion da her die synthetische Synechologie nennen, denn sie hat es mit der Elasticität und dem sogenannten Aggregatzustand der materiellen Individuen zu thun. Ob Eisen durch Ver flüssigung der Masse zu Gusseisen oder durch Hämmerung zu Schmiedeeisen oder durch einen Zusatz von Kohle zu Stahl gemacht wird, bringt in ihm eine andere Form seiner elementaren Cohäsion hervor. Wenn die Cohäsion eines Körpers gewaltsam zerstört wird, ist dies eine nur mechanische Trennung derselben durch Schlagen, Ziehen, Schneiden, Stechen u. s. w. , von welcher sich diejenige Auflösung unterscheidet, die, als eine der Causalität nach mechanische, doch eine zugleich dynamische ist. Diese könnte man die analytische Synechologie nennen. Man hat die Formen dieser Auflösung auch Dyna miden genannt, weil sie dazu zwingen, das Princip der Schwere zu verlassen. Der Ausdruck imponderable Stoffe, welcher die Erkenntniss der Idealität dieser For men zuerst aussprach, ist jetzt schon antiquirt, um so mehr, als er einen Widerspruch enthielt, weil ein Stoff, wie leicht er auc sei, doch schwer sein muss. Die Cohäsion [p. 150] eines Körpers löst sich durch Klang, Wärme und Licht auf. In der Physik kann es nicht auf die Empfindung ankommen, welche dieselben in unsern Sinnen, der Klang im Gehör, die Wärme in der Haut, das Licht im Auge, Die Stellung, welche diese Empfindungen in der organischen Natur und im Seelenleben einnehmen, hervorbringen.
+
+ist nicht in diese Sphäre hereinzuziehen, wenn auch die Vergleichung des Physischen mit dem Organischen ganz interessant ist, sofern sie uns belehrt, dass die Natur in jeder Sphäre die Consequenz des in ihr geltenden Princips rücksichtslos verfolgt und nichts destoweniger alle unter sich so verschiedenen Sphären zur Einheit mit einander verbindet. Der Hörsinn ist tiefer als der Lichtsinn und dennoch steht, der physischen Vermittelung nach, das Licht über dem Klange. Klang, Wärme und Licht sind darin identisch, dass sie der Form nach ein mechanischer Process sind, der sich nach allen Seiten hin, also sphärisch, continuirt und in seiner Intensität nach dem Quadrat der Entfernung ab nimmt. Der Klang ist die nur erst formale, die Wärme die schon reale, das Licht die absolute Auflösung der Der Klang erzeugt sich durch eine mechanische Erschütterung des Körpers, gegen welche er noch Wider stand leistet. Er stellt sich, indem er in sich schwingt, Cohäsion.
+
+wieder zur Einheit mit sich her.
+
+Diese Vibration, sich nach der specifischen Schwere und Dichtigkeit der Körper in's Unendliche hin verändert, ist der physische Vorgang, den wir Klang nennen. Der klingende Körper fängt schon an, in sich zu erwarmen, aber die Wärme ist diejenige Veränderung der Cohäsion, welche ihn bereits über die Grenze des Raums, den er unmittelbar einnimmt, ausdehnt.
+
+Die Auflösung der Cohäsion, die in der Erzitte rung des Körpers wieder aufgehoben wird, wird in der Wärme reell. Die Wärme hat für jeden Körper, je nach [p. 151] seiner specifischen Bestimmtheit, eine Gradation von einem Minimum bis zu einem Maximum, mit welchem er nämlich sich schlechthin auflöst.
+
+Daher kann ein Körper auch warm werden, ohne seine Gestalt zu verlieren.
+
+Er vergrössert sich nur durch und durch.
+
+Er kann sich wieder in seine zurückbewegen.
+
+ursprüngliche Raumgrenze kann sich abwechselnd expandiren und contrahiren, d. h.
+
+für unser Gefühl erwarmen und erkalten. Der physische Vorgang ist nur der der Expansion und Contraction. Wärme ist die Bewegung in einem materiellen Individuum, welche seine Cohäsion nicht blos ideeller Weise in der Zeit, sondern auch reeller Weise im Raum auflöst, mag die Ursache dieser Bewegung mechanisch, wie beim Schlagen und Reiben, oder chemisch, wie bei dem Verbrennungs process, sein.
+
+Die Wärme ist kein in den Körpern laten ter Stoff, welcher durch die Bewegung frei würde, sondern sie ist die Bewegung selbst. Was wir Licht nennen, ist an sich die nämliche Bewegung, aber eine nicht nur quantitativ in der Geschwindigkeit, sondern auch qualitativ durch die absolute Auflösung der Cohäsion verschiedene. Wie die Wärme nicht blos ein gesteigerter Klang, so ist auch das Licht nicht blos eine gesteigerte Wärme, denn Wärme kann existiren, ohne als Licht zu erscheinen und unser Auge zu afficiren, wohingegen das Licht allerdings die Wärme in sich aufhebt. schen Capacität des Körpers,
+
+Es ist, je nach der specifi ein bestimmter Grad der Wärme nothwendig, ihn leuchtend zu machen. dieser Zusammenhang nicht entgangen.
+
+Hegel ist
+
+Er macht §. 306 und 307 den Uebergang von der Physik der besonderen Individualität zu der der totalen dadurch, dass die Existenz der rein physischen Idealität, der frei werdenden Negation des Materiellen, aus der Wärme als Licht, jedoch als Flamme, hervortrete, als an die Materie gebundene Negation der Materie.
+
+Als das Princip der Idealität sieht
+
+[p. 152] Hegel die Form an, die zuerst in der negativen Gestalt der selbstischen Flamme erscheine, an sich aber als ideelle Totalität die Materie bestimme. Hegel accentuirt hier das Moment der Gestalt des Lichts als Flamme, weil er damit den Anfang der totalen physischen Individualität, den er in die Gestalt, in die Krystallisation setzt, vorbereiten will, allein an sich ist das Feuer, mit welchem das Licht erscheint, die Negation aller concreten Gestalt der Materie. Das Licht ist als die absolute Auflösung aller Cohäsion im Verbrennungsprocess derjenigen Materie, die sich noch nicht in diesem Zustande befindet, entgegengesetzt; diese ist daher dunkel, das Licht wird durch sie sichtbar und sie selber wird durch das Licht sichtbar.
+
+Wärme allein erhellt noch nicht die Finsterniss.
+
+In das Licht tritt die specifische Qualität der verbrennen den Materie ein und ertheilt ihm eine eigenthümliche Färbung. Metall, Holz, Oel u. s. w. sind im Leuchten als Licht im Allgemeinen identisch, sie bewegen sich in ihrer Auflösung nach denselben Gesetzen; aber im Ton ihres Lichts sind sie verschieden.
+
+Wohin wir auch den Ursprung des Lichts verfolgen mögen, überall führt er uns zur Auf lösung der Cohäsion.
+
+Es ist nicht nothwendig, dass die selbe sich als Flamme vollende, aber ohne sie wird kein
+
+Licht erscheinen; faulendes Holz phosphorescirt, indem es seine Cohäsion auflöst; das elektrische Leuchten löst den Gegensatz der positiven und negativen Elektricität auf, der an einem Substrat haftet, dessen specifische Qualität und Cohäsion eben im elektrischen Antagonismus sich äussert u. s. w. Die Bewegung des Lichts ist, wie die des Klanges und der Wärme, nothwendig eine mechanische und muss sich von dem Punkt ihres Ursprungs aus kugel förmig nach allen Seiten hin in's Grenzenlose ausbreiten. Man kann dabei von der Hypothese eines Aethers, durch dessen Atome und Wellen es sich fortbewegen soll, ganz abstrahiren, so bleibt immer die wellenförmige Bewegung [p. 153] mit ihrer ungeheuren Geschwindigkeit, die sich nach allen Seiten des Raumes hin continuiren muss und nur durch materiellen Widerstand gehemmt werden kann. Die Grösse des Substrats und die Intensität des von ihm entwickelten Lichtes bestimmen natürlich das Maass der actio in distans, aber an sich hat das Licht in seiner Ausdehnung keine Grenze. Dass es aber nicht ein blosser Schein, sondern wirkliche Bewegung sei, zeigt uns die Geradlinigkeit sei ner Richtung, die Reflexion und Refraction seines Strahls, die chemische Wirkung, die es ausübt, die Wirkung, die es in unseren Sehnerven hervorbringt. Im Lichte wird die Materie gleichsam dematerialisirt, weil es die absolute Negation ihrer Cohäsion ist, allein in seiner Genesis hat es die Materie zu seinem Träger; es ist immateriell als dynamischer Act, gerade wie unser Sehen selber, das auch durch Hornhaut, Regenbogen- und Netzhaut, Sehnerv materiell bedingt und doch als Act ein immaterieller, dynamisch seelischer Act ist. Wenn Hegel und Véra die Wellentheorie der Wärme und des Lichts bestreiten, so kann man ihre Polemik wohl theilen, sofern sie die atomistische Farben theorie betrifft, welche das Dunkel vom Begriff der Farbe ausschliessen will, allein weshalb Wärme und Licht sich nicht in Wellenform bewegen sollen, ist eben so wenig ersichtlich, als was eigentlich an die Stelle dieser Form treten könnte. Die Wellenbewegung ist die mechanische Dialektik der physischen Natur. Phonologie, Thermologie und Photologie sind Momente eines einzigen Systems, dessen Princip unendlich einfach, dessen Entwicklung aber unendlich mannigfach ist. Der Gegensatz der Synechologie, wie man die Lehre von der Cohäsion nennen könnte, ist ein Gebiet, in welchem wir noch weniger einheitliche Ordnung antreffen und für welches daher auch keine gemeinsame, keine anerkannte Terminologie existirt.
+
+Der Empiriker kann sagen, dass es ihm nur auf die Richtigkeit der Thatsachen ankomme;
+
+[p. 154] wohin sie gestellt würden, könne ihm sehr gleichgültig sein, weil sie sich dadurch nicht veränderten. Der systematische Zusammenhang, welchen die Philosophie erstrebe, bringe nur zu oft in Gefahr, die Thatsachen in eine falsche Abhängigkeit von einander zu setzen und Ver bindungen zu erkünsteln, wo keine vorhanden wären. In dessen muss man dieser Sprache, welche vor dem System bauen warnt, nicht auf's Wort glauben, denn auch der Empiriker, wenn er nicht auf ein roh sinnliches Anstarren vereinzelter Facta sich beschränken will, muss dem Den ken den Tribut zollen, nach Einheit in der Auffassung des Gegebenen zu suchen und damit in das Systembilden hin einzugerathen. Nehmen wir z. B. in der Chemie die berühmtesten Empiriker, so unterscheiden sie sich sämmtlich zugleich als Systematiker.
+
+Lavoisier, Berthollet, Dalton,
+
+Avogadros, Berzelius, Davy u. s. w. haben immer andere Systeme aufgestellt, d. h. immer andere Versuche gemacht, die Mannigfaltigkeit der Thatsachen auf die Einheit eines Princips zurückzubringen.
+
+Wenn die Philosophie immer mit der Richtigkeit der Thatsachen, wie sie von den einzelnen Empirikern behauptet wird, in Uebereinstimmung sein sollte, so müsste sie oft ihre Ansichten wechseln, denn die Thatsachen als solche sind zwar immer dieselben, allein ihre empirische Auffassung verändert sich. Was gestern noch für wahr galt, wird heute bestritten. Was als irrig allgemein verurtheilt war, kommt oft nach einiger Zeit wieder zu Ehren.
+
+Die Undulationstheorie des Lichts hatte schon gleichzeitig mit der Newton'schen Emissions theorie existirt. Sie ward im Namen Newton's feierlich ver worfen.
+
+Euler brachte sie als Vibrationstheorie wieder in Anregung, bis Fresnel sie zur allgemeinen Herrschaft er hob. Die Lehre vom Aether, mit welcher Oken seine Naturphilosophie eröffnete, wurde fast ein halbes Jahrhundert als eine speculative Illusion verlacht und ist jetzt der Abgott der exacten Physik und Geologie. Die Philosophie [p. 155] muss aber noch in ganz anderer Weise als die Empirie zur Systematik fortgehen, weil sie nicht blos eine parti culäre Theorie aufstellt, eine gewisse Gruppe von Erscheinungen zu erklären, sondern weil sie die Idee, die absolute Einheit in der Form ihrer eigenen Nothwendigkeit zum Gegenstande hat.
+
+Sie muss sich immer, Philosophie zu sein, auf den universellen Zusammenhang hinrichten. In der Sonderwissenschaft kann der Bearbeiter hiervon abstrahiren; es ist ihm erlaubt, sich ganz in seine Spe cialität zu vertiefen; der redliche Verfolg derselben pflegt von selbst die Einseitigkeit des Standpunktes zu enthüllen. Berthollet übertrug in seiner chemischen Statik die Theorie der Massenanziehung auf die chemischen Stoffe.
+
+Die Erfahrung bestätigte diesen Gedanken nicht. Dalton ver suchte daher, durch die Atomistik die Widersprüche der Theorie mit der Erfahrung wegzuschaffen. sprüche erhoben sich,
+
+Neue Wider denen Avogadros durch die Ver gleichung des Volumens der Körper mit der Dichtigkeit ihrer Masse zu begegnen suchte u. s. w. Es war immer nur die Chemie, der Philosoph.
+
+um die es sich handelte.
+
+Ganz anders
+
+Er muss Synoptiker sein und Systematiker werden, weil er nur durch das System beweisen kann.
+
+ist hierbei weit grösseren Verirrungen als der Empiriker ausgesetzt, aber sie dürfen ihn nicht zurückschrecken, denn er darf ebenso wie der Empiriker darauf rechnen, seine Irrthümer sich durch ihre Entwickelung zu Wider sprüchen fühlbar machen werden.
+
+Es kann dem Empiri ker oft kindisch erscheinen, wenn er die Philosophen sich über die Stellung streiten sieht, welche einem Begriff zukomme, denn die Sache bleibe ja die nämliche, ob sie nun etwas früher oder etwas später herankomme, ob sie etwas höher oder niedriger gestellt werde. Allein eben diese Position eines Begriffs ist nichts 3 weniger als gleich gültig, weil von ihr der Beweis abhängt. Da, wo ein Begriff auftritt, soll er als Resultat vermittelt sein; für [p. 156] das, was ihm folgt, wird er selber der vermittelnde Ter minus. Jedermann wird zugeben, dass das philosophische Denken sich nicht dem Zufall überlassen darf. Es muss einem Begriff so lange seine Berechtigung zum Eintritt bis sie nachgewiesen ist. Derselbe Begriff ist versagen, nicht mehr derselbe, wenn er an einer andern Stelle steht, so wenig als eine Zahl denselben Werth hat, wenn sie in einer Zahlenreihe eine andere Stelle einnimmt, denn dieselbe Zahl, z. B. 3, bedeutet darnach drei oder dreissig oder dreihundert oder dreitausend u. s. w. So hat das Licht als physischer Vorgang eine andere Bedeutung, wie als Factor im elementarischen Process oder wie als Gegen stand des Sehens oder wie als Bedingung für die Malerei u. S. W. Hier zeigt sich sogleich, dass die Malerei das Sehen, dass das Sehen das Licht voraussetzt u. s. w. Das Licht als solches ist dagegen, dass es gesehen wird, ganz gleichgültig, aber das Auge ist es nicht gegen das Licht, denn es hat vielmehr in seiner Aufnahme, in seinem Ge nuss den Zweck seines Daseins. Dies muss man erwägen, um die Begeisterung zu würdigen, mit welcher Véra für die systematische Organisation der Wissenschaft erfüllt ist. Ich will hier nicht auf die Einwendungen zurück kommen, welche ich gegen Hegel und Véra über die Ein theilung der Physik gemacht habe.
+
+Ich will nur erinnern, dass sie auf der Hegel'schen Logik beruhen, nach welcher das Endliche sich im Unendlichen aufhebt. Die Bestimmungen der specifischen Schwere, der Cohäsion, ihrer Auf lösung, constituiren die positive Grundlage der Physik; sie machen ihre unmittelbaren Kategorien aus. Der magnetische, elektrische und chemische Process unterscheidet sich von ihnen als die Sphäre der Reflexion ihres We sens. Der meteorologische Process aber unterwirft alle diese Bestimmungen der Materie der freien Unendlichkeit seiner Dialektik. Ich behaupte, dass Hegel selber diese Ansicht ausspricht, ohne sie formell durch seine Systematik [p. 157] anzuerkennen, weil er den meteorologischen Process als den ersten vorausschickt.
+
+Er sagt z. B. in dem Corolla rium zu §. 286: »Wie die Bestimmungen der gemeinen Mechanik und der unselbstständigen Körper auf die absolute Mechanik und die freien Centralkörper angewendet werden, so wird die endliche Physik der vereinzelten individuellen Körper für dasselbe genommen, als die freie selbstständige Physik des Erdprocesses ist.
+
+Es wird für den Triumph der Wissenschaft gehalten, in dem allgemeinen Processe der Erde dieselben Bestimmungen wieder zu erkennen und nachzuweisen, welche sich an den Processen der vereinzelten Körperlichkeit zeigen. << Und nachdem er dies specieller ausgeführt, schliesst er: »Es sind dies über haupt Anwendungen von Kategorien eines Feldes, worin die Verhältnisse endlich sind, auf eine Sphäre, innerhalb welcher sie unendlich, d. h. nach dem Begriff, sind. << Ich will auch nicht wiederholen, was ich über die eigenthümliche Behandlung des Begriffs der Gestalt ge sagt habe, sofern Hegel sie mit dem Begriff des Krystalls identificirt. Die Gestaltung der Gestalt geht durch die ganze Naturphilosophie.
+
+Die mathematische ist die erste, noch abstracte, die Hegel selber aufgenommen hat; die mechanische als materielles, den Raum erfüllendes Individuum in der zufälligen Bestimmtheit aller irgend möglichen stereometrischen Formationen ist die zweite; die sphäroi dische als die kosmische ist die dritte.
+
+Die physische Individualität, um mit Hegel zu sprechen, setzt sich alle diese mechanischen Formen schon voraus und beschäftigt sich mit den Veränderungen, welche sich durch die Qualität der Körper in ihrer Cohäsion erzeugen. Sie hat es mit der inneren Gestaltung, mit der unaufhörlichen Ver wandlung des Festen in's Flüssige, des Flüssigen in's Ga sigte und umgekehrt; sie hat es mit Verdichtung und Verdünnung, mit dem Spiel der Kräfte, wie man jetzt zu sagen pflegt, mit der Metamorphose der lebendigen
+
+[p. 158] Kraft zu thun.
+
+Der Körper als Individuum, als irgend wie gestaltete Masse, genügt für sie.
+
+Die Form der Aussenseite der Gestalt ist geradezu das in diesen Processen verschwindende Moment. In der organischen Sphäre da gegen tritt die Gestalt, als das Princip auf, welches von Innen heraus die Gestalt auch nach Aussen hin gliedert. Sie wird hier das constitutive Element. Die Krystallisation ist der Anfang seiner Entwicklung. Es bleiben daher nach Eliminirung der krystallini schen Gestalt zunächst der magnetische, elektrische und chemische Process, die von einander untrennbar sind, obwohl die Physiker die beiden ersteren als ihnen zugehörig behandeln und die Chemiker sich von ihnen in der Theilung der Arbeit scheiden.
+
+Diese Trennung wird aber durch die Natur der Dinge stets über den Haufen geworfen, und die Benennungen selber, mit welchen die Chemiker zuweilen ihre Wissenschaft bezeichnet haben, z. B. Elektrochemie, legen Zeugniss von diesem engen Zusammenhang ab. Die Elektricität spielt deswegen eine so grosse Rolle bei diesen Veränderungen, weil sie zwischen dem Magnetismus und Chemismus die Mitte aus macht und weil man deshalb sowohl den Magnetismus als den Chemismus mit der Elektricität identificirt hat.
+
+und Véra bekämpfen diese Identificirung, weil sie die qualitativen Unterschiede verwischt.
+
+Es ist gerade wie mit
+
+Klang, Wärme und Licht, die auch wesentlich zusammen hängen und doch specifisch verschieden sind, denn den Klang kann man nicht fühlen oder sehen, die Wärme nicht hören oder sehen, das Licht nicht hören oder, wie die Wärme, mit der Haut auch fühlen. Die Einheit des Magnetismus, der Elektricität und des Chemismus liegt in der Dualität ihrer Wirksamkeit, in ihrer Polarität, wie man lange Zeit ganz richtig sagte, späterhin aber, als die Schelling'sche Naturphilosophie in Misscredit verfiel, zu sagen vermied, um sich nicht [p. 159] als philosophisch anrüchig denunciren.
+
+Natur philosophie nannte die Einheit jener Processe auch den dynamischen Process, wozu Kant durch den zweiten Abschnitt seiner » Metaphysischen Anfangsgründe der Natur wissenschaft << die Veranlassung gab. In der neueren Zeit ist durch Redtenbacher der Ausdruck: Dynamide in Umlauf gekommen, wohin er aber auch Wärme und Licht rechnet.
+
+Im Gegensatz zur physischen Mechanik der Syne chologie könnte man den Ausdruck des dynamischen Processes sich wohl gefallen lassen, wenn er nicht zu weit wäre und einer Beschränkung bedürfte, das Eigenthümliche dieser Dynamik zu charakterisiren. Man müsste sagen: physische Dynamik. Der Unterschied derselben von der mechanischen liegt in der Immanenz des Antagonismus. Im Ton, in der Wärme, im Licht sind auch Gegensätze, aber nicht pola rische. Der hohe Ton ist nicht der Gegenpol des tiefen; die Kälte ist nicht der Gegenpol der Wärme; das Dunkel nicht der Gegenpol des Lichts. Alle diese Unterschiede sind in ihrer Entgegensetzung relativ, weil die Quantität sie vermittelt, wohingegen der Magnetismus mit dem Nordpol zugleich den Südpol, die Elektricität als positive zugleich die negative, der Chemismus mit der Basis zugleich die ihr correlate Säure setzt.
+
+Dieser polarische
+
+Unterschied ist ein qualitativer, der sich von der unmittelbaren Qualität der Körper durch die Untrennbarkeit seiner entgegengesetzten Bestimmungen unterscheidet. Wismuth z. B. ist unmittelbar Wismuth, aber in seiner dynamischen Qualität zeigt er sich diamagnetisch. Der Diamagnetismus als der Gegensatz des Paramagnetismus ist keine quantitative Bestimmung, wie die Gradunterschiede des Tons, der Temperatur, oder der Intensität eines Lichts im Verhältniss zu der eines andern, z. B. des Kerzenlichts zum Sonnenlicht, sondern er ist eine physische Qualität, kraft welcher der Wismuth andere Körper in der äquatorialen Richtung anzieht und abstösst.
+
+[p. 160] Die Dialektik des magnetischen, elektrischen chemischen Processes ist unstreitig der Grund der Verwirrung, welche in diesem Theil der Chemie herrscht. Weil das höhere Moment das niedrigere in sich aufhebt, kann es dasselbe auch erzeugen, aber nicht umgekehrt.
+
+Der Chemismus kann sowohl Elektricität als Magnetismus hervorbringen, aber die Elektricität oder der Magnetismus als solche vermögen keinen chemischen Process zu erzeugen. Die Elektricität kann wiederum Magnetismus, aber der Magnetismus als solcher keine Elektricität hervorbringen.
+
+Wenn ein Magnet durch Rotation elektrisch werden kann, so ist es eben die Rotation, welche die Elektricität durch ihre Bewegung vermittelt.
+
+An sich sind alle Körper kraft ihrer physischen Individualität magnetisch, elektrisch, chemisch bestimmbar, allein daraus folgt nicht, dass nicht die Stufen des dynamischen Processes qualitativ ver schieden wären. Die Temperatur greift bekanntlich tief in diese Region ein; Wärme kann z. B. Magnetismus er regen, sie kann ihn aber auch bei sehr hoher Temperatur aufheben; deswegen liegt die Ursache des Magnetismus doch nicht in der Temperatur, sondern in der Qualität des Körpers. Die Temperatur wird nur Bedingung für das Erscheinen oder Nichterscheinen des magnetischen Processes. Um die Elektricität als Ursache des Chemismus zu behaupten, beruft man sich auf die Zersetzung von Flüssig keiten durch die galvanische Säule; man übersieht jedoch dabei, dass der Galvanismus, indem er verschiedene Metalle durch ein feuchtes Medium verbindet, selber schon chemisch wirkt, obwohl die Form seiner Aeusserung noch die elektrische bleibt.
+
+Dies ist auch der Grund, weshalb
+
+Hegel selber den Galvanismus früher als eine Form des elektrischen, später als eine Form des chemischen Processes dargestellt hat. Er ist der Uebergang aus der elektrischen Polarität zur chemischen. Wir lesen jetzt überall [p. 161] wieder, dass die Elektricität eine »uns unbekannte Kraft<< sei. Wäre dies ernsthaft gemeint, so müsste man sich über die Versicherung wundern, dass die Magneticität Elektricität sein soll, denn woher will man dies wissen, wenn man nicht weiss, was Elektricität ist? Das, was die Physik zu solchen Anwandlungen von Bescheidenheit bringt, ist entweder nur ein negatives
+
+Symptom ihres Stolzes oder ein positives Symptom der augenblicklichen Verwirrung, worin sie sich dadurch befindet, dass sie einen Process, der wesentlich dynamisch ist, in einen mechanischen verwandeln will. Die Elektricität soll feine Flüssigkeit sein, die in den Poren zwischen den Atomen der Körper circulirt und um sie herum rotirt; eben deshalb soll auch der Magnetismus schon Elektricität sein. Auch er soll ein Fluidum sein, das aus Atomen besteht, welche sich anziehen oder ab stossen, sich in Ruhe oder Bewegung befinden, eine gleiche oder entgegengesetzte Richtung und eine gleiche oder verschiedene Geschwindigkeit haben sollen; d. h. man ver wandelt die Dynamik zurück in Mechanik. Die magne tische, elektrische, chemische Kraft wirkt aber eben als Kraft ideell; sie wirkt als mit der specifischen Beschaffen heit eines Körpers identisch, sie wirkt als durch ihre Ge genkraft erregt.
+
+In der Mechanik giebt die exacte Wissen schaft zu, dass die Attraction eine Kraft sei, welche der Masse eines Körpers unmittelbar inhärire.
+
+Die Sonne zieht die Erde nicht durch Stricke aus feinen Atomen, die wir etwa nur nicht sehen könnten, an sich, sondern der Idealismus der Schwere kommt in der Attraction zur Erscheinung.
+
+In der Physik spricht man auch von vielen
+
+Kräften, allein, bei Licht besehen, sollen dieselben doch wieder besondere Materien sein. Der Ausdruck: elektrischer Strom, wird nicht metaphorisch, sondern in crasser Eigentlichkeit als die Bewegung eines Fluidums genommen. Wenn er ein Fluidum ist, so muss er nach der exacten
+
+[p. 162] Wissenschaft, die nur Atome kennt, aus Atomen bestehen, und diese Atome müssen sich nun durch die fictiven Poren andern fictiven
+
+Atome hindurchquetschen.
+
+Wie es möglich ist, mit einer solchen Hypothese die elektrischen Erscheinungen zu erklären, ist freilich nicht einzusehen, und deswegen macht man die Elektricität einstweilen wie der zu einer uns unbekannten Kraft. Der Materialismus selber kann den Begriff der Kraft nicht entbehren, allein er fürchtet ihn auch, weil er mit ihm etwas Geistartiges zuzugestehen glaubt. Er verwandelt daher die Kraft wie der in Stoff, wenn auch in einen sehr subtilen, und hebt damit die Kraft als Kraft wieder auf. Er scheuet sich dann nicht, unsichtbare Atome, imponderable Materien, fictive Bewegungen zu erfinden. Wenn der magnetische, elektrische und chemische
+
+Process auf das Innigste zusammenhängen, so schliesst das nicht aus, dass sie nicht unter einander zugleich qualitativ verschieden seien.
+
+Der magnetische Process erscheint als eine mechanische Bewegung, die jedoch nicht durch die Schwere, sondern durch die eigenthümliche Selbstbe grenzung eines physischen Individuums nach der Längen wie nach der Querrichtung hervorgebracht wird. Erde ist als ein physisches Individuum selber magnetisch; vertical stehende eiserne Stangen,
+
+Kreuze, Basaltsäulen u. s. w. werden von selbst magnetisch; der magnetische Körper repellirt und attrahirt sowohl nach der axialen als nach der äquatorialen Richtung. Der elektrische Process hingegen ist diejenige dynamische Spannung zweier physischer Individualitäten, welche sich schon durch eine heftige und plötzliche Ausgleichung aufhebt, die als eine mechanische
+
+Erschütterung erscheint durch die mit ihr verbundene absolute Auflösung der Cohäsion ein eigenes
+
+Licht erzeugen kann.
+
+Jener
+
+Schlag und dieses Licht sind schlechthin dynamische lassen zwar Wirkungen im Zersprengen,
+
+Acte. Zerspalten,
+
+[p. 163] Durchzucken, Verbrennen, Versengen, Schmelzen der Materie, aber niemals die Spur einer besonderen Materie beobachten. Wenn ein Stück Eisen magnetisirt wird, so wird es deshalb nicht schwerer, was der Fall sein müsste, wenn es durch die Magnetisirung einen eigenthümlichen Stoff in sich aufnähme. Wenn eine Glasscheibe mit einem Katzenfell gerieben wird, erzeugt sich Elektricität, keine elektrische Materie.
+
+Weil sie wesentlich dynamisch ist, erscheint sie als von so zarter, empfindlicher, launi scher Natur.
+
+Jede Veränderung der Gestalt einer Ober fläche, ob rauh, ob polirt, ob matt geschliffen, der verschiedene Grad der Feuchtigkeit, der Wärme, der Unter schied in der Richtung der Friction u. s. w. kann sofort eine Umstimmung des elektrischen Verhaltens der Körper erzeugen. Der elektrische Process kann durch sogenannte Nichtleiter in einem Körper isolirt, er kann aber auch durch Contact und Induction auf andere Körper übergeleitet werden. Der chemische Process ist nicht blos eine Spannung der physischen Individualitäten, die sich in einem Schlag und Funken aufhebt, sondern eine reelle Vernichtung derselben, welche sie zu einer qualitativ ganz andern Individualität verwandelt.
+
+Magneticität und Elektricität werden zu Begleitern dieses Processes. Der chemische Process ist ein dynamischer Act, der ein inneres Verhältniss der Körper voraussetzt, welche in ihn eintreten. Sie beziehen sich durch sich selbss, durch ihre entgegengesetzte Qualität auf einander. Die in ihnen an sich vorhandene Einheit zwingt sie, sich gegenseitig in ihrer unmittelbaren Einseitigkeit zu zerstören und kraft dieser Negation sich als Einheit zu setzen. Hier ist nun der Punkt der Scheidung
+
+Philosophie von der exacten
+
+Wissenschaft, welchen Hegel und Véra scharf hervorheben. Die Philosophie nimmt an, dass in dem neutralen Product ein der Qualität nach ganz neuer Körper entstehe, wie sich dies auch in Form, Farbe, Geruch, Geschmack u. s. w. 11 * [p. 164] empirisch zeige.
+
+Von den Körpern, welche sich neutrali sirt haben, ist in ihrem gemeinschaftlichen Product zwar ein jeder seiner materiellen Substanz nach enthalten, wie nämlich das gleiche Gewicht ausweist, allein die Körper selber sind ihrer specifischen Qualität nach verschwunden. Es hat, wie Kant es ausdrückte, eine Intussusception des einen durch den andern stattgefunden, die in der Transsubstantiation der Materie sich darstellt. Die Sache der Philosophie ist von dem Preussischen Oberberg rath und Akademiker J. B. Karsten mit rein empirischen Waffen in einer vortrefflichen Schrift:
+
+» Philosophie der
+
+Chemie«< , Berlin, 1843, geführt worden, von deren Berücksichtigung ich jedoch in Schriften der exacten Wissenschaft Diese setzt die Unver nie eine Spur gefunden habe. änderlichkeit von Atomen voraus.
+
+Weil Sauerstoff,
+
+Stickstoff, Gold u. s. w. vorhanden ist, so kann aus ihnen, wie sie meint, niemals etwas Anderes werden.
+
+Werden ist als eine qualitative Veränderung nach ihr unmöglich, denn die inalterabeln Atome können nur in eine andere Lage gerathen. Der ganze Chemismus ist dann nur ein mechanischer Process, durch welchen die Atome in eine andere Form ihrer Lagerung gebracht werden. Das Wort Neutralität ist dann eine Bezeichnung nur des Gleichgewichts der Atome, nicht ihrer Durchdringung. Da nun die Thatsache der Erfahrung mit dieser Hypothese im grellsten Widerspruch steht, so müssen die künstlichsten, die ungeheuerlichsten Fictionen gemacht werden, sie aufrecht zu halten. Man hat z. B. Schwefel und Kohle vor sich. Beide sind harte Körper. Der eine sieht gelb, der andere schwarz aus. Der Schwefel ist mineralischen, die Kohle vegetabilischen Ursprungs. Wenn sie sich aber zu Schwefelkohlenstoff neutralisiren, so er blicken wir eine flüchtige, wasserhelle Flüssigkeit.
+
+Und in dieser Flüssigkeit sollen nun durchaus nach der exacten Wissenschaft,
+
+Schwefel als Schwefel,
+
+Kohle als Kohle, [p. 165] lediglich in einem ganz apparten Arrangement ihrer Atome enthalten sein!
+
+Diese von der Empirie völlig verlassene
+
+Auffassung als die Wahrheit anzunehmen, gehört ein eben so starker Glaube, als an die Tangentialkraft, an die fertigen Farbenlichter im reinen Licht, an die imponde rabeln nur repellirenden Atome des Aethers, an die Wärme hüllen der Atome, an das Fluidum u. s. w. zu glauben.
+
+magnetische und elektrische Weil man das Mischungs gewicht mit dem Namen Atomengewicht getauft hat, weil man das Quantum der Aequivalente nach Atomen bestimmt, so glaubt man auch an die Existenz der Atome. Die Chemiker reden hier wie die Theologen vom Jenseits, das auch nicht wahrgenommen, nur geglaubt werden kann.
+
+Das irdische Auge sieht zwar keine Atome, aber das » geistige Auge« soll sie erblicken. Helmholz warf Goethe vor, dass er in der Farbenlehre nur das sinnliche Factum, nicht aber das sehe, was hinter den Coulissen spiele. Und doch ist es sonst der kitzlichste Ehrenpunkt der exacten Wissenschaft, nur das, was die Sinne bestätigen, zuzulassen. Die ganze Atomenlehre ist für die Chemie völlig überflüssig, denn sie erklärt nichts, wie sie soll, und die Rechnungen hängen ja nicht vom Begriff des Atoms, sondern nur von dem des Quantums ab. Wenn die Atomistik im Recht wäre, so würde unerklärlich werden, wie die selben Stoffe mit demselben Quantum in ganz verschiedenen Formen erscheinen können, denn sie müssten sich noth wendig immer in derselben Form zeigen.
+
+Milchzucker,
+
+Sauerkraut und Baumwolle bestehen aus gleichen Theilen Kohlen-, Wasser- und Sauerstoff; sie sind isomerisch. >> Die verschiedenen Eigenschaften dieser Körper rühren her von der verschiedenen Anordnung ihrer Atome. << Aber die Atome ordnen sich doch selber zu einem Ganzen.
+
+Wie können sie denn nun, zu gleichen Theilen, das eine Mal andere
+
+Ordnung annehmen, als das andere
+
+Mal?
+
+Welche Nothwendigkeit bewirkt denn diese Anordnung?
+
+[p. 166] Ist aber ein anderes Princip vorhanden, welches jene Atome ordnet, so ist dasselbe eine Macht über sie, die ausser den Atomen existirt. Aus ihnen selber kann doch offenbar das ganz andere Arrangement in der Baumwolle, als im Sauerkraut, nicht kommen. Es ist hier offenbar das organische Leben, welches sich die chemischen Elemente unterwirft und sie in seine Gestalt verarbeitet oder auch mit ganz andern Qualitäten begabt.
+
+Auch die Erscheinung der Isomorphie, dass bei verschiedenen Elementen, gleichen Quantis, dieselbe Gestalt sich erzeugt, spricht zu Gunsten der Dynamik, denn, wenn Schwefel dem Selen, Aluminium dem Eisen u. s. w. substituirt werden kann, so muss doch die Einheit der Form den Unterschied der Substanzen dynamisch bewältigen. Wie Isomorphie, SO existirt aber auch Dimorphie und Polymorphie. miker wird natürlich bemerken, in Der Che welcher Form
+
+Neutralisation sich vollzieht, aber nicht diese Form, sondern die Neutralisation ist es, die ihn als Chemiker inter essirt.
+
+Die Gase, die Metalloide und die Metalle, kommen für ihn nach ihrer dynamischen Physiognomie, nicht nach der Form zur Sprache, durch welche sie zum Gegenstande der Mineralogie werden. Das Gold z. B. kann in eine Flüssigkeit aufgelöst werden;
+
+diesem
+
+Process wird unzweifelhaft seine oktaedrische Form zerstört; allein diese Form kommt nicht in Betracht, nur der Uebergang vom festen Zustande in den flüssigen. Dies ist nun wieder ein Punkt, welcher die Organisation der Wissenschaft schwierig macht. Sonderwissenschaft hat Recht,
+
+Die Chemie als sich in die unorganische und in die organische einzutheilen, allein in der totalen Systematik wird sie zunächst sich auf die unorganische
+
+Natur zu beschränken haben, weil die organische Natur sich die einfachen Elemente der unorganischen voraussetzt und mit ihren Gebilden in eine unendliche Mannigfaltigkeit von Verbindungen übergeht.
+
+chemischen. Elemente [p. 167] stehen, sofern sie einfach sind, alle neben einander.
+
+Sie gestatten keine Ableitung aus einander, keine Unter ordnung unter einander. Wir sehen wohl, dass die Gase die verbreitetsten und gewaltigsten chemischen Mächte sind, aber wir können ihnen doch z. B. das Gold nicht unter ordnen, denn, um dies zu vermögen, müssten wir zeigen können, dass es aus Oxygen und Hydrogen u. s. w. be stände. Es ist eben so einfach für uns, wenn wir auch Vermuthungen haben können, dass es bereits durch ver Es bleibt daher schiedene Vermittelungen bedingt sei. nichts übrig, als die chemischen Elemente in Gase, Metalloide und Metalle zu gruppiren und innerhalb dieser Gruppen die chemische Analogie möglichst zu berücksichtigen. Die Chemie ist eine wahrhaft exacte Wissenschaft, weil ihre Processe an die strengste Quantität gebunden sind. Sie ist von dieser Seite, wie die Mechanik, voll kommen für den Calcul geeignet. Ein chemischer Stoff kann sich mit dem ihm entgegengesetzten nur unter der Bedingung verbinden, dass von ihm wie von dem andern ein bestimmtes Quantum vorhanden sei.
+
+Bei einem Zuwenig erfolgt kein Process; bei einem Zuviel bleibt der Ueber schuss unverarbeitet zurück. Jeder Stoff bleibt seinem stö chiometrischen Charakter einem andern gegenüber treu, z. B. Stickstoff verhält sich zu Sauerstoff wie 14: 8; 14 Aequivalente
+
+Stickstoff mit 8 Aequivalenten
+
+Sauerstoff geben Stickstoffoxydul; mit 16 Stickstoffoxyd; mit 24 salpetrige Säure; mit 32 untersalpetrige Säure; mit 40 Salpetersäure. Aus den binären Verbindungen entstehen die Neutralisationen erster Ordnung, denen die ternären, qua ternären u. s. w. folgen. Alle diese Begriffe:
+
+specifische
+
+Schwere,
+
+Cohäsion,
+
+Klang, Wärme, Licht, Magnetismus, Elektricität, Chemismus, sind allgemein physikalische Begriffe, die von dem Begriff der Materie überhaupt untrennbar sind.
+
+Auf einem bestimmten Weltkörper werden sie aber durch seine phy [p. 168] sische Einzigkeit individualisirt.
+
+Hier erst ist daher, meiner Meinung nach, der systematische Ort für die physische Astronomie und für den meteorologischen Process, denn auch der letztere Begriff ist an sich ein allgemeiner, kosmischer. Hegel beschränkt ihn auf die Erde, sofern wir von der Physik der übrigen Weltkörper wenig wissen, aber wir wissen doch so viel, dass auf einigen Planeten wenigstens, wie Venus und Mars, ein solcher existirt.
+
+Die mechanische Bestimmtheit eines Weltkörpers steht natürlich zu seiner physikalischen im innigsten Verhältniss. Der selbstleuchtende Centralkörper muss eine andere Beschaffenheit haben, als die ihn umkreisenden peripherischen Körper, die von ihm erleuchtet werd Und unter diesen müssen Kometen, Monde und Planeten sich offenbar wieder anders verhalten. Dass jedoch die Materie an und für sich in ihren Elementen überall die selbe ist, scheint durch die Kirchhof- Bunsenschen
+
+Entdeckungen dargethan zu werden, die auf unserer Sonne z. B. Kalium unzweifelhaft nachgewiesen haben.
+
+Es ist viel darüber gesprochen und gespottet worden, dass Hegel Luft, Wasser, Feuer und Erde als Elemente behandelt, weil man nur die chemischen Urstoffe mit diesem Namen belegt wissen wollte.
+
+Es ist aber nicht abzusehen, warum es nicht erlaubt sein sollte, diese Benennung für die grossen Factoren beizubehalten, welche das physische Leben eines Planeten constituiren. Ist diesem Begriff der des synechologischen und dynamischen Processes vorangegangen, so kann ja auch kein Missverständniss stattfinden, wie allerdings bei der Stellung möglich ist, welche Hegel dem elementarischen Process an der Spitze, statt am Schluss der Physik, gegeben hat. Die physischen Elemente sind schon immer chemische Verbindungen. Der Sauerstoff ist in der Luft mit Stickstoff, im Wasser mit Wasserstoff, im Feuer mit Kohlenstoff verbunden, aber diese Verbindung selber als solche ist für sich wieder einfach.
+
+Véra hebt [p. 169] mit Recht hervor, dass das Wasser weder Oxygen noch Hydrogen, sondern sowohl Oxygen als Hydrogen derartig sei, dass in ihm weder das eine noch das andere zu ent decken ist.
+
+Es ist in seiner Qualität etwas ganz Anderes.
+
+Die moderne Physik spricht daher auch selber wieder ganz unbefangen vom Elemente der Luft, des Wassers u. s. w. , vom Kampf der Elemente, vom elementarischen Process, bemüht sich aber, ihn als eine ganz und gar mechanische Leistung zu behandeln, indem sie dazu den Begriff der lebendigen Kraft in der Form der Wärme ver wendet.
+
+Die Sonne erwärmt die Luft und die Folge dieser Erwärmung ist die Bewegung derselben. also in Bewegung umgesetzt.
+
+Die Wärme wird
+
+Wenn die Sonne das Wasser nicht erwärmte, so würde es nicht verdunsten.
+
+Es würde also keine Wolkenbildung, also kein feuchter Niederschlag, also keine stete Erneuung der Wassermasse des Planeten existiren. Wenn die Sonne nicht die Pflanzenwelt gross zöge, wenn sie dieselbe nicht sollicitirte, Oxygen zu exhaliren, so würde dieses sich nicht erneuen. Und wenn die Thiere nicht die Pflanzen assimilirten und als Lungenthiere den Sauerstoff zugleich mit Kohlenstoff d. h. als Kohlensäure ausathmeten, werden.
+
+so würde der Kohlenstoff nicht regenerirt
+
+Im Winde, im Regen, in den Pflanzen, in den
+
+Thieren, im verbrennenden Holz und Knochen, überall begegnen wir also der Wärme, also der Sonne, also der Arbeit der Sonne, denn ohne diese würde das Holz, das wir verbrennen, nicht gewachsen sein; die Wärme, die von seiner Flamme sich entwickelt, ist ursprünglich Sonnenlicht und Sonnenwärme. In einem Cubikfuss Eichenholz ist ein bestimmtes Quantum lebendiger Kraft von der Arbeit der Sonne niedergelegt.
+
+Indem dies Holz verbrennt, kann es
+
+Wasser in Dampf verwandeln, der Dampf kann einen Kol den in einem Cylinder heben; es ist also die Sonne, welche die Dampfmaschine bewegt.
+
+Der Ausdruck Arbeit wird von den Physikern absichtlich gewählt, die Thätigkeit der [p. 170] Natur mit der einer Maschine zu identificiren, denn die Dampfmaschine ist und bleibt, offener oder versteckter, das Ideal, welches die heutige exacte Forschung in der Natur verfolgt.
+
+Ein Lungenthier, welches durch den ein geathmeten Sauerstoff den Kohlenstoff befeuert, ist eine wandelnde Dampfmaschine, denn eine lebendige darf man ja nicht sagen, weil das Leben selber nur mechanische Arbeit sein soll. Das, was wir im Process der Elemente wahrnehmen, ist nach dieser Auffassung nichts, als mechanische Arbeit der Sonne. Können wir den Antheil der Sonne an diesem Process leugnen?
+
+Gewiss nicht.
+
+Würde aber die Sonne alle diese
+
+Wirkungen zu haben vermögen, wenn nicht Luft, Wasser, Erde existirten? Gewiss nicht. Diese Seite ist es, welche in jenem Sonnencultus zu sehr verschwindet. Die Sonne als Sonne ist nicht Ursache der Luft, des Wassers, des Feuers;
+
+diese Ursache ist die Erde.
+
+keine Pflanze, kein Thier hervor.
+
+Sonne bringt
+
+Sie dient ihnen nur in ihrer Entwicklung. Sie ist durch ihr Licht eine Bedingung des planetarischen Lebens, allein die Ursache dessel den ist der Planet selber.
+
+Die Erde ist es, die sich selber in ihre physischen Elemente unterscheidet und sie in ihrer Einheit zusammenhält.
+
+Sie ist das Individuum, welches sich in ihrer unendlichen Wechselwirkung in's Unendliche hin selber verjüngt. auf den Mond.
+
+Das Licht der Sonne scheint auch
+
+Hier aber bleibt es unfruchtbar, weil Luft und Wasser fehlen.
+
+Mit andern Worten: die Qualität der
+
+Luft, des Wassers, der Erde ermöglicht dem Sonnenlicht, Bewegung hervorzubringen, wenn auch die Periodicität derselben von der Stellung der Erde zur Sonne und von Wärme ihrer Bewegung um dieselbe abhängig bleibt. bringt nur deshalb Bewegung hervor, weil sie selber Bewegung ist. Das Licht, als absolute Auflösung der Cohäsion
+
+Verbrennungsprocess, bringt in der Luft Bewegung hervor, die wir als Wärme empfinden. Wäre die Luft [p. 171] nicht zur Wärmeerzeugung ebenfalls nothwendig, so könnten wir, wenn wir an einem schwülen Sommertage einen Berg von fünf- bis sechstausend Fuss besteigen, nicht in immer kühlere Regionen gelangen; vielmehr, wenn das Licht der Sonne allein die uns fühlbare Wärme erzeugte, müssten wir, da wir seinem Ursprung näher kommen, in immer heissere gerathen. Der dritte Theil der Naturwissenschaft hat die Idee des Lebens zu seinem Inhalt.
+
+Das Leben besitzt in der
+
+Mechanik und Physik die Voraussetzung seiner Existenz, allein es entspringt nicht aus ihnen, sondern lediglich aus sich selbst.
+
+Der Lebensprocess ist nur in einem Individuum möglich und ein natürliches Individuum ist unmöglich, ohne eine Form zu besitzen, in welcher es sich als ein für sich seiendes abschliesst. Ein Weltkörper ist schon ein physisches Individuum, dessen Processe durch das ihnen innewohnende Maass zu einem sich selbst erneuenden Kreis lauf geregelt sind, aber er ist noch kein organisches Individuum, denn dazu wird ein Individuum erst durch die Selbstgestaltung seiner Form. Die exacte Naturwissenschaft polemisirt bekanntlich gegen den Begriff einer Lebenskraft, indem sie an seine Stelle nur einen Stoffwechsel setzt, also das Organische zu einem chemischen Vorgang macht, und, da den Chemismus principiell vermöge der Atomistik wieder in einen Mechanismus verwandelt, das Leben zuletzt zu einem lediglich mechanischen Act herabsetzt.
+
+Die Philosophie wird die Selbstständigkeit des Lebens gegen solche An sichten vertheidigen müssen, wie der nun auch schon ent schlafene Hegelianer Hinrichs in Halle in einer ganz vorzüglichen Schrift gethan hat: » Das Leben in der Natur. Bildungs- und Entwicklungsstufen desselben in Pflanze, Thier und Mensch. Naturhistorisch - philosophisch dar gestellt. <<
+
+Halle 1854.
+
+Die exacte Forschung hat es natürlich unter ihrer Würde erachtet, von dieser Kritik die [p. 172] geringste Notiz zu nehmen. Ich glaube, dass Hinrichs noch eindringlicher die Formseite in der Selbstbestimmung des Lebens hätte hervorheben können, denn sie ist es, die bei dem Streit über den Begriff der Lebenskraft zu wenig beachtet wird. Das Leben ist nicht blos eine Kraft in dem Sinn, wie die Physiker dies Wort zu nehmen gewohnt sind, sondern es ist als Kraft zugleich eine von Innen heraus zweckmässig bildende Energie. Es ist in seiner Thätigkeit eine subjective, sich von Innen her in eigene Grenzen einschliessende Gestaltung, wie sie weder der Attraction, noch der Cohäsion, weder der Magneticität und Elektricität, noch dem Chemismus zukommt. Der Reflexionsbegriff der Kraft, der für die Physik unentbehrlich ist, reicht für den Begriff des Lebens nicht aus. Organik ist eine continuirliche Morphologie. Man kann bei ihr nicht blos von Stoff und Kraft, ihren abstracten Voraussetzungen, sondern man muss bei ihr nicht weniger von der Form handeln, welche sie dem Stoffe giebt und in welcher sie eine mechanische oder dynamische Wirkung übt.
+
+Die Blätter der Pflanzen athmen im Licht Sauerstoff, im Dunkeln Kohlenstoff aus.
+
+Sie haben also, wie man es ausdrücken kann, die Kraft, diese Stoffe sowohl in sich aufzunehmen, als auch wieder zu entäussern. Allein sie würden diese physiologische Function nicht üben können, wenn sie nicht Spiralgefässe, wenn sie nicht Athmungs organe besässen. Die Function der organischen Kraft ist wesentlich an eine Form gebunden. In der Eintheilung der Organik muss daher die Form den Ausgangspunkt ausmachen, denn sie ist es, durch welche sie der unorganischen Natur entgegengesetzt ist. Von dieser Seite würde daher die Eintheilung der gesammten Natur, wie schon einmal erinnert werden musste, nur in eine Dichotomie zerfallen, nämlich unorganische und orga nische Natur. Da aber die unorganische selber in eine Dichotomie: Mechanik und Physik, sich unterscheidet, so [p. 173] ergiebt sich daraus eine Trichotomie. Materie, Kraft, Leben, sind die fundamentalen Bestimmungen der Natur. Man hätte bei Hegel vielleicht erwarten können, dass er die Physik für sich wieder als Dichotomie gefasst hätte, weil er behauptet, dass die Natur das Moment der Besonderheit ihres Begriffs sich immer in einen auch äusserlichen Gegensatz, wie Mond und Komet, zerlegen lasse. Allein dies ist nicht der Fall. Wir sehen vielmehr, dass er, je länger je mehr, beflissen gewesen ist, die Eintheilung der Natur ganz derjenigen der logischen Idee nachzubilden, so dass die Mechanik dem Begriff des Seins, die Physik dem des Wesens, die Organik dem des Begriffs selber ent spricht.
+
+Die exacte Naturwissenschaft betrachtet sich als die eigentliche Herrin der Naturwissenschaft überhaupt, weil sie die Gesetze aufstelle, von welchen das Leben abhängig sei. Sie blickt deshalb auf die Organik zuweilen nicht ohne Stolz hinab, weil dieselbe zur descriptiven Naturgeschichte werden muss, während sie sich Natur lehre nennt. Indessen ist doch auch die Naturgeschichte empirische
+
+Naturwissenschaft,
+
+Reiche unterscheidet:
+
+welche ihren Inhalt in
+
+1) Mineralreich; 2) Pflanzen reich; 3) Thierreich.
+
+Hier werden also mit dem Mineralreich dieselben Gegenstände, ausserdem unorganische Natur figuriren, als ein Moment der descripti ven Naturwissenschaft genommen, weil die Form wesentlich wird. Sie ist es, welche sie hier von ihrem Vor kommen in der Chemie unterscheidet, worin sie nur durch ihre dynamische Qualität Bedeutung haben. Eine feste, klare und dem Begriff des Lebens adäquate
+
+Eintheilung der organischen Natur lässt sich nur so gewinnen, dass das Leben in seinem Stufengange sich nach seiner Selbstgestaltung, Selbsterhaltung und nach seinem Selbstgefühl unterscheidet.
+
+Aristoteles hat dies die erzeugende (genetische) , ernährende (threptische) , und empfindende (ästhetische) Seele genannt.
+
+Wo Selbstgefühl [p. 174] ist, da ist auch Selbsterhaltung und Selbstgestaltung. Selbsterhaltung, da ist auch Selbstgestaltung.
+
+Wo
+
+Aber Selbst gestaltung kann ohne Selbsterhaltung, Selbsterhaltung ohne Selbstgefühl existiren. Gewöhnlich wird Leben im speci fischen Sinn nur von demjenigen Organismus ausgesagt, der auch Selbstgefühl hat. Dem Thier gegenüber erscheint die Pflanze relativ todt, aber die Pflanze gestaltet und ernährt sich selber. Ihr gegenüber erscheint daher das Mineral als todt, aber von den mechanischen und chemischen Kräften der unorganischen, insofern todten Natur unterscheidet es sich durch seine Selbstgestaltung.
+
+Das Mineral stellt uns noch gegenwärtig die Urzeugung dar, denn es bildet sich plötzlich aus einem Menstruum hervor, in dem als solchem wir nicht eine Spur seiner Form zu entdecken vermögen. Wachsthum können wir ihm eigentlich nicht absprechen, Sein Leben geht noch ganz in wohl aber Reproduction. seine Bildung auf. Ist es fertig, so verfällt es den mechanischen und chemischen Mächten. Dass also Mineral, Pflanze und Thier den Inhalt der Organik ausmachen, so wie dass die Pflanze zwischen dem Thier und dem Mineral die Mitte einnehmen muss, ist zweifellos und die Systematik der Wissenschaft insofern auch. Ich sehe deshalb davon ab und beschränke mich auf einige Bemerkungen über die Systematik des Erd organismus, wie Hegel das erste Moment der Organik nennt.
+
+unterscheidet nach
+
+Michelet's
+
+Mittheilungen folgendermaassen: A. Geschichte der Erde: 1) die Mächte des Erden processes d. h. die übrigen Gestirne unseres Sonnensystems; 2) die Geschichte der Erdbildung, welche von der Geognosie erforscht wird; 3) die physikalische Geographie, welche die Vertheilung und Gestaltung des Landes auf der Ober fläche der Erde beschreibt.
+
+[p. 175] B.
+
+Die Geologie und Oryktognosie, welche 1) das
+
+Urgebirge; 2) die Flötzgebirge und 3) das aufgeschwemmte Land zum Gegenstand hat. C. Das Leben der Erde:
+
+1)
+
+Atmosphäre,
+
+2) im Meer, 3) auf dem Lande. Ich erlaube mir übrigens die Bemerkung, dass Hegel in der Encyklopädie den Ausdruck: geologische Natur gebraucht, ihn dem der vegetabilischen und animalischen gegenüberstellen. Dies halte ich auch für richtig, glaube jedoch, dass die systematische Anordnung einer Revision unterworfen werden kann. Wär' es Hegel vergönnt gewesen, die Naturphilosophie selber in ihrer Ausführlichkeit für den Druck zu behandeln, so ist wohl Jedermann über zeugt, dass er eine viel strengere Dialektik herausgekehrt hätte, als sie gegenwärtig sichtbar ist. Für die akademischen Lehrzwecke genügten seine Erläuterungen vollkommen, allein für den Druck würde er sie noch ganz anders gestaltet haben, da er einer der sorgfältigsten, überlegsamsten, mit künstlerischem Takt verfahrenden Schriftsteller war. Es lässt sich sehr wohl denken, dass die organische Natur vom philosophischen Standpunkt aus in einer freieren und umfassenderen Weise, als bisher, behandelt werde, indem sie nach der logischen Unterscheidung des Begriffs in die allgemeine, besondere und einzelne gegliedert würde; die Einzelheit nicht im Sinn der atomistischen Vereinzelung, sondern in dem der individuellen Totalität genommen. Es würde sich daraus: 1) die Biologie als der Begriff der Idee des Lebens überhaupt ergeben, welchen Hegel aller dings schon in der Logik selber abhandelt, der aber, systematisch gefasst, erst in der Natur vorkommen kann.
+
+allgemeine Begriff des Processes der Gestaltung, des Lebens und der Gattung, aus welcher sodann auch die Arten ent springen, macht ihren Inhalt aus. Die Wissenschaft vom Gestaltbau des Organischen ist die Anatomie; die von den Functionen des lebendigen Individuums die Physiologie, [p. 176] in welcher auch der Geschlechtsprocess, der Process der Krankheit und des Todes vorkommen müssten, da nicht abzusehen ist, weshalb sie vom Lebensprocess getrennt werden sollen; die von den Abänderungen der Gestalt des organischen Individuums in seinen Arten die Morphologie. 2) Die besondern Formen des Lebens als die geologische, vegetabilische und animalische machen den Inhalt der sogenannten Naturgeschichte aus.
+
+3) Der Begriff der totalen Form giebt den Inhalt der somatischen Anthropologie, von welcher Erdmann in seiner Kritik der Hegelschen Naturphilosophie mit Recht meint, dass sie denn doch zur Naturwissenschaft gerechnet werden müsste. Die menschliche Gestalt fasst die ganze Natur affirmativ in sich zusammen, weil sie das Organ des Geistes ist. Die Natur geht mit ihr über sich selbst hinaus.
+
+Daher ist es ein Irrthum, sie der Thiergestalt zu coordi niren, als ob sie nur eine Nebenform des Affentypus wäre, in welchen sie zurückzuversetzen jetzt so viele Anstrengungen gemacht werden. Die menschliche Gestalt ist vielmehr von allen thierischen durch und durch verschieden. Man darf nur Ein Organ z. B. den menschlichen Fuss, wie Burmeister ihn vortrefflich dargestellt hat, in's Auge fassen, um sich von dieser qualitativen Differenz zu über zeugen. Ueberall prägt sich im Skelet, in den Organen und Functionen des menschlichen Leibes die Universalität als charakteristisches Element aus und es kann daher, wie Carus mit so reicher Erfahrung und mit so vielem Geist gethan hat, eine Symbolik der menschlichen Gestalt geschrieben werden. Nach diesem Abschweif komme ich auf die Geologie. Das allgemeine Element derselben ist das Mineral; das besondere die Schicht, die sich aus den Mi zurück.
+
+neralien zusammensetzt; das totale der Erdoberfläche. schaften:
+
+concrete Gestalt
+
+Hieraus ergeben sich drei Wissen
+
+1) die Mineralogie;
+
+2)
+
+die Geotektonik;
+
+[p. 177] 3) die Geographie. Die Geschichte der Erde, mit welcher Hegel beginnt, fällt, meiner Meinung nach, in den Abschnitt der Physik, der den Begriff der physikalischen Einzigkeit jedes kosmischen Individuums, damit auch den des elemen tarischen Processes desselben enthält. Nur im Zusammen hang mit der Sonne, den übrigen Planeten, den Kometen und Monden, konnte die Erde werden, was sie ist, allein dies kosmische Werden liegt im Rücken der organischen Natur, die mit der Krystallisation anfängt, welche an die Stelle der allseitigen Centralanziehung die mehr seitige Attraction, die individuelle Gestalt setzt. Ich stimme Carus bei, wenn er in seiner Schrift: » Natur und Idee« , S. 178 sagt: » Die Naturphilosophie darf jetzt den Satz aussprechen: Das Erste, wodurch in der Masse der Erdveste das Einzellebendige der späteren epitellurischen Geschöpfe vorbedeutet und vorbereitet wird, ist der Krystall. << Die Mineralogie ist das allgemeine Element des geologischen Organismus, denn er besteht überall, in allen Zonen, in allen Schichten, aus den gleichen Mineralien. Quarz oder Eisen sind Quarz und Eisen auf der ganzen Erde. Die Mineralien machen uns durch ihre Gleichheit überall heimisch. Die Mineralogie ist 1) von Seiten der Anatomie Krystal lographie; 2) von Seiten der Physiologie kann eine eigentliche Physiologie als ein durch besondere Organe unter haltener Lebensprocess des Minerals nicht existiren; es tritt aber an ihre Stelle das Verhalten des Minerals nach Aussen hin: seine Härte, Cohäsion, Wärmecapacität, seine Durchsichtigkeit, seine Farbenveränderung (Opalisiren, Iri siren u. s. w.) , seine Magneticität, Elektricität, chemische Bestimmbarkeit, genug alles das, was Hegel in der Physik der totalen physischen Individualität aufführt.
+
+Das orga nische Leben des Krystalls äussert sich aber auch darin, dass er in seiner Bildung, wie ein pflanzlicher oder thie rischer Embryo, gehemmt oder begünstigt werden kann. Bei Hemmungen sehen wir z. B. Krystalle sich nur in
+
+[p. 178] Skeletform gestalten; bei Begünstigungen zur Normalität der Gestalt und relativ bedeutender Grösse reifen. Hemmungsbildungen, die sehr verschiedene Ursachen haben können, haben manche Mineralogen veranlasst, sogar von einer Pathologie der Mineralien zu sprechen.
+
+3) Von Seiten der Morphologie ist die Mineralogie Oryktognosie.
+
+Da jedoch nicht Alles, was aus der Erde gegraben wird, ein Mineral, sondern, als ein Fossil, auch wohl vegetabilischen Ursprungs, wie bei der Steinkohle, der Braunkohle, dem Bernstein u. s. w. ist, so hat man vorgeschlagen, sie lieber Minerognosie zu nennen. Sie umfasst die Beschreibung der Metalle, der Steine (Metalloxyde, Schwefel, Kiesel) und der Salze. Die Geotektonik ist die Wissenschaft von dem besondern Element der Geologie, von der Schicht. Sie erbaut sich aus den einzelnen Mineralien, wie das Gewebe einer Pflanze aus ihren Zellen. Die Schicht aber wird wiederum das Material für den Bau der Lagerungen.
+
+Es sind also drei Begriffe zu unterscheiden: 1) der Aggregat zustand der Schicht, die Felsart; 2) die Lage der Schicht als solcher; 3) die Folge der Schichten in ihrer Lagerung. Der erste Begriff giebt den Inhalt der Petrographie. Die Schicht kann schieferigt, körnig oder porphyrartig; sie kann gemengt, gemischt, chaotisch; sie kann metamor phisch durch einen chemischen Process umgebildet sein, wie z. B. der Feldspath im Granit verwittert und sich zu Salzen umformt, wie der Jurakalk Marmor, wie kohlen saurer Kalk durch Schwefelsäure Gyps, durch Magnesia im Augitporphyr Dolomit u. s. w. werden kann. Die Schicht hat aber auch eine besondere Form und Lage, welche die Structur der Felsarten bedingt und die eigentliche geo logische Tektonik ausmacht. Indem sich aber die Schichten horizontal, vertical oder klinisch über und neben ein ander lagern, erscheint in ihrer Folge, bei aller sporadi schen Verwerfung, doch eine unverkennbare Gesetzmässig [p. 179] keit der Architektur der Erdrinde, welche den Inhalt der Geognosie ausmacht.
+
+Hegel meinte, dass diese Wissen schaft das Nebeneinander überflüssig in ein Nacheinander verwandle, der Schluss von der Lage der Schichten auf die Zeit ihrer Entstehung problematisch sei. Man kann dies zugeben, so bleiben doch die Unterschiede der Urund Uebergangsgebirge, der Flötzgebirge, der Tertiärgebirge und des Alluviums bestehen. Die sogenannten eruptiven und sedimentären Formationen haben ein inneres, sich gegenseitig ergänzendes Verhältniss zu ein ander. Man kann hierbei von den Petrefacten zunächst ganz abstrahiren. Eine Eintheilung der geognostischen Formationen in petrefactenlose und petrefactenführende bringt ein Element in die Geologie, welches ihrem Princip, dem Mineral, an sich fremd ist.
+
+Man muss die Petre facten als Momente in die Morphologie der Pflanzen und Thiere an Ort und Stelle, wo sie nach ihrem Typus hin gehören, als eine seiner Modificationen aufnehmen, wie es jetzt auch schon viele Botaniker und Zoologen thun. Der Rückschluss von ihrem Fundort auf eine gewisse Periode der geognostischen Formation ist ein immerhin sehr un sicherer und in der neueren Zeit von solchen Naturfor schern, welche die grossen Revolutionen der Erdgestaltung überhaupt in Abrede stellen, lebhaft bekämpft. Alle diese Formen sind Voraussetzungen der Geographie, welche sich mit der Gestalt beschäftigt, die in der Oberfläche der Erde als dem Resultat der geognosti schen Lagerung hervortritt. Die Geographie muss als Naturwissenschaft von aller Geschichte abstrahiren und sich lediglich an die Natur selber halten.
+
+Wie die Entwicklung der Geschichte durch sie bedingt wird, das zu zeigen, ist Sache der Philosophie der Geschichte. In der Erdoberfläche unterscheidet sich aber: 1) das anatomische Element ihrer verticalen und horizontalen Bodengestaltung; 2) das ästhetische Element der Physiognomie eines relativen
+
+[p. 180] Erdganzen als eines charakteristischen Gliedes der totalen Form: das landschaftliche Profil; 3) die Organisation der Plastik der Welttheile, welche alle elementaren und ästhetischen Formen in's Unendliche individualisirt und sie als Momente einer tellurischen Gestaltung integrirt, die in der Wechselwirkung mit allen übrigen eine bestimmte physische Function übt. Dies ist die geographische Morphologie,
+
+Druck von Carl Jahncke in Berlin, Klosterstrasse 64.
+
+"

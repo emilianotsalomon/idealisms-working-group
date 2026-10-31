@@ -1,0 +1,5739 @@
+---
+title: Godefridi Guilielmi Leibnitii Principia philosophiae, more geometrico demonstrata
+author: Gottfried Wilhelm Leibniz
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: a scan of an old print (library or Google Books digitization; the imprint is not recorded in the library); Sonnet transcription from page images in Seinsbyte's library; this file is the source, corrections go here
+original_text: "transcription of the print (sonnet transcription: 200 dpi page images, tesseract lat as hint; page labels read from the scan), corrected against the scan; printed paragraphs"
+translation: none
+canonical: "the printed folios could not be read: [p. N] marks page N of the scan PDF (sequence number), not the printed page"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Godefridi Guilielmi Leibnitii Principia philosophiae, more geometrico … was written by an author who died in 1716, so before 1931; Gottfried Wilhelm Leibniz (d. 1716) is long out of protection and the edition (a library or Google Books digitization of an old print, no copyright page) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 6539)
+---
+
+# G. W. Leibniz, *Godefridi Guilielmi Leibnitii Principia philosophiae, more geometrico …*
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+[p. fm1] 
+
+[p. fm2] 
+
+[p. fm3] 
+
+[p. fm4] 
+
+[p. fm5] 
+
+[p. fm6] 
+
+[p. fm7] GODEFRIDI GUILIELMI LEIBNITII
+
+PRINCIPIA PHILOSOPHIAE,
+
+MORE GEOMETRICO DEMONSTRATA:
+
+CUM
+
+EXCERPTIS
+
+EX
+
+EPISTOLIS PHILOSOPHI
+
+ET
+
+SCHOLIIS QUIBUSDAM
+
+EX
+
+HISTORIA PHILOSOPHICA.
+
+CUM INDICIBUS THEOREMATUM, AUCTORUM, RERUM DENIQUE ET VERBORUM MEMORABILIUM.
+
+ACCEDUNT
+
+THEOREMATA METAPHYSICA DE PROPRIETATIBUS QUIBUSDAM ENTIS INFINITI ET FINITI MUNDIQUE EXISTENTIS PERFECTIONE, EX PHILOSOPHIA LEIBNITIANA PARITER SELECTA ET GEOMETRICE DEMONSTRATA NEC NON MEDITATIO PHILOSOPHICA DE UNIONE MENTIS ET CORPORIS DENUO EDITA.
+
+FRANCOFURTI ET LIPSIAE,
+
+Impensis PETRI CONRADI MONATH.
+
+CIↃ IↃ CCXXVIII.
+
+[p. fm8] 
+
+[p. fm9] SERENISSIMO. PRINCIPI. AC. DOMINO.
+
+DOMINO.
+
+EUGENIO.
+
+FRANCISCO.
+
+PRINCIPI. DE. SABAUDIA. ET. PEDEMONTIO.
+
+AUREI. VELLERIS. EQVITI.
+
+CAESARI. AUGUSTO.
+
+A. CONSILIIS. INTIMIS. ET. SANCTIORIBUS.
+
+CONSILII. IMPERIALIS. AULAE. BELLICI.
+
+PRAESIDI.
+
+ARMORUM. GENERALI. LOCUM. TENENTI.
+
+ET. S. R. I. CAMPI. MARESCHALLO.
+
+UT. ET.
+
+IN. ITALIA. PER. REGNA. ET. PROVINCIAS.
+
+CAESARIS.
+
+GENERALI. VICARIO.
+
+ET. RELIQVA.
+
+HEROI. ET. ARTE. ET. MARTE.
+
+INCOMPARABILI.
+
+[p. fm10] 
+
+[p. fm11] Serenissime Princeps ac Domine,
+
+Domine clementissime!
+
+Non longe mihi sunt arcessendae rationes SERENISSIME PRINCEPS, DOMINE CLEMENTISSIME, qvibus inductus Principia haec Philosophiae, more geometrico à me primum de-
+
+[p. fm12] monstrata, SERENITATI TUAE submissimo humillimoque mentis cultu dicare audeo. Ut enim taceam patrocinium SERENITATIS TUAE, quo inde à pluribus annis dignata est tenuitatem meam, nullis id servitiis promeritam, & adhuc dignatur clementissimè, cui potiori jure inscriberentur Prima haec humanae cognitionis de Elementis rerum Principia, qvam TIBI HEROS INVICTISSIME, qvi summo aevi nostri philosopho, Godefrido Gvilielmo Leibnitio, dum in Aula Caesarea erigendae Scientiarum Academiae operam suam commodaret, auctor extitisti, ut primam de illis conscribendis susciperet cogitationem. Paruit is TANTI MAECENATIS jussui primaque eorum lineamenta chartae commisit, quae cum Actis jam eruditorum, Lipsiae in lucem editis, legantur inserta, ego primus, demonstrationibus munita geometricis, & hinc inde ad Auctoris mentem ex ejusdem Amoebeis explanata SERENITATI TUAE
+
+[p. fm13] TUAE ex veterum formula mente devotissima do, dico, atqve dedico, ut innotescat Orbi, qvantum & Philosophiae Restauratio debeat SERENITATI TUAE, quae medios inter Armorum strepitus elegantiores etiam litteras fovet, promovet atqve tuetur, vel ex hac unica causa nulli Heroum nostri & superiorum saeculorum Arte & Marte secunda. Unicum, qvod ea, qvam mens concipere potest, maxima devotione, à SERENITATE TUA oro atqve contendo, est, ut Gratiam mihi SUAM conservet perpetuam, DEUM simul veneratus O. M. ut supersit inter mortales qvam diutissime IPSI dilecta & AUGUSTISSIMO ROMANORUM IMPERATORI amata, serveturqve rebus semper majoribus ac melioribus, & tandem, cum fuerit Saeculi Ornamentum & aeternaturae famae Exemplum, Posteritatis evadat Miraculum! Qvod omine fausto
+
+[p. fm14] fausto vovens, paginis hisce, pretii in se nullius, animum tamen offerentis exprimentibus, publice consigno
+
+SERENITATIS TUAE
+
+subjectissimus
+
+D. Michaël Gottlieb Hanschius.
+
+## [p. fm15] PRAEFATIO.
+
+### LECTORI PHILOSOPHO
+
+S. P. D.
+
+MICHAEL GOTTLIEB HANSCHIUS, SAC. CAES. ET CATHOL. MAJESTATIS CONSILIARIUS.
+
+Quum in Academia Lipsiensi Meditationem illam philosophicam de Unione Mentis & Corporis secundum Principia G. G. LEIBNITII, Ideae meae Boni Disputatoris cIɔ Iɔccxxii Francofurti ad Moenum & Theorematibus meis Metaphysicis, ex Philosophia potissimum Leibnitiana selectis, de Proprietatibus quibusdam Entis infiniti & finiti Mundiqve existentis perfectione, methodo geometrica demonstratis, biennio abhinc Augustae Vindelicorum editis, subnexam, in gratiam amicorum, genuinam LEIBNITII sententiam sa-
+
+[p. fm16] pe ex me quaerentium, concinnarem, in qua, pro instituti tum temporis mei ratione, ἐν συνόψει hypothesin circa Unionem mentis & corporis Leibnitianam distincte repraesentare conatus sum, nondum videram CHRISTIANI WOLFII, Primarii nunc in Academia Marpurgensi Philosophiae & Mathematum Professoris celeberrimi, Cogitationes rationales de DEO, Mundo & Anima humana generalibusque rerum affectionibus, germanico idiomate conscriptas, qvarum editionem tertiam quum Auctor mecum communicasset, legi librum, ob mota à Theologis quibusdam magni nominis circa sententias nonnullas, in Libro hocce ab Auctore propositas, certamina, cum attentione debita, WOLFIOqve apprime cum LEIBNITIO convenire, deprehendi, ita ut prorsus penitusque persvasus sim, ne ipsam quidem invidiam acutissimo WOLFIO gloriam pleniòris evolutionis multorum dogmatum, à LEIBNITIO sive inventorum sive renovatorum, reddere posse dubiam. Eadem enim cum aliis veritatibus ita intexuit Systemati suo Vir celeberrimus, ut innata non immerito videri possint. Gavisus itaque sum vehementer de consensu hocce, nec eundem in litteris ad Virum celeberrimum datis, dissimulavi. Rescripsi enim xxi. August. cIɔ Iɔ ccxxv. inter alia hunc in modum: Cum voluptate perlegi cogitata Tua metaphysica, Vir Celeberrime,
+
+[p. fm17] me, quae cum Parte Politices Tuae rectè accepi. Firmant enim & promovent veritates, vel veteribus jam cognitas, vel nuper sive inventas sive renovatas. Acumen Tuum in judicando & profunditatem in meditando singula demonstrant Libri paginae. Commodum autem accidit, ut celeberrimus jam Academiae Petropolitanae Professor GEORGIUS BERNHARDUS BULFFINGERUS, quo de edita hactenus specimina praeclara omnia sperare nos jubent, exemplum *Commentationis suae philosophicae de Origine & permissione mali, praecipue moralis*, mihi cum humanissimis litteris, Tubingae xiv. Februarii cIↄ Iↄccxxiv datis, mitteret. Hae enim occasionem suppeditârunt primam Theoremata metaphysica, Augustae edita, connectendi in systemate & geometricè demonstrandi, quae cùm Per-Illustri & Amplissimo Viro SAMUELI KOELESERIO à KERES-EER, Consiliario & Secretario Caesareo-Regio in Gubernio Principatus Transylvaniae pro consuetudine, qvae mihi cum illo à plurimis jam annis intercedit, & communicassem & Nomini IPSIUS, mihi tam caro, inscripsissem, non digna tantum judicavit, quae lucem adspicerent publicam, sed & à me desideravit, ut Meditationem priorem de Unione mentis & corporis in formam geometricae demonstrationis redigerem. En! verba Per-Illustris Viri, ex literis, xx.
+
+[p. fm18] Augusti cIↄ Iↄccxxv, Cibinio ad me datis, excerpta: *Si theorematibus metaphysicis, quae, ad exemplar tuum invariatum nitide & accurate descripta, ad praelum paro, elegantioribus literis & charta mox imprimenda, quae ad harmoniam praestabilitam quoad unionem animae & corporis attinent, methodo geometrica addi potuissent, optandum id omnino neque inutile fuisset. Quod si id à te sperare non liceat, haud aegre feres, meditationem tuam de eadem materia, Ideae Boni Disputatoris annexam, theorematibus iterum annecti.* Et paucis interjectis: *difficeri non possum, unionem animae cum corpore & quicquid ad illam spectat, nec DEO dignius nec philosopho convenientius explicari, vel proximius concipi posse, quam more isto Leibnitiano, mihique videri, licet à puero Philosophiae Cartesianae totus innutritus sim, multo pluribus Cartesianam unionem difficultatibus, ipsis Cartesianis dogmatibus contradicentibus, implexam esse, quàm Leibnitianam per harmoniam praestabilitam.* Et vel ex hoc solo, satis mirari nequeo, quî doctrina tam elegans, DEO & rerum essentiis con-
+
+[p. fm19] consona in se ipsà, consequentiarum, nondum combinabilium, nexu in dubium vocetur, & cur inventores minus theologicè poenis praemientur, ac publicè Atheismi criminis insimulentur. Sed nil novi, veritates, nondum inventas, ubi pullulare inceperunt, raro & à quàm paucis fotas esse: attentio quippe in hominibus non solum desideratur, sed & ut judicium, re, ad mentem inventoris nondum cognitâ, suspendere velint, vix & à paucis impetrari potest, quin potius ad haereticandum proclivi pronoque impetu ruunt, si quae ab opinionum, quibus quotusquisque imbutus est, etiamsi meliora occurrant, systematibus tantillum recedant. Et in literis, x. Octob. cIↄ Iↄccxxv. ad me datis: *Jucundissimum inquit, fuisset non minus, quàm utilissimum, Meditationem de Unione mentis & corporis, in formam geometricae demonstrationis redactam, Theorematibus hisce addi. Quod cùm optare quidem, sed obtinere per occupationes tuas hac vice non licet, dabis tamen meo desiderio tantum, ut illa ipsa meditatio, quasi secundis curis, adnectatur.* Nil mihi magis cordi erit
+
+[p. fm20] erit, quam à suspicione illusionis liberari Leibnitium, & doctrinam illam, altioribus ingeniis dignam, suae fidei & evidentiae restitui. Et de tempore foret eos, qui hoc argumento militant, realiter convicisse. Excitatus itaque Amici veteris voluntate, & memor promissi, Cel. WOLFIO in litteris, xxiii. Julii cIↄ Iↄccxxv. Marpurgum ad ipsum directis, dati, de Sententiis LEIBNITII, ex commercio epistolico, de rebus metaphysicis ante editam Theodicaeam cum Per-Illustri Viro à me instituto, illustrandis, ut Tanti Viri in Scientiarum omnium Reginam merita orbi literato magis magisque innotescerent, primam, quam nunc exequor, de Principiis Philosophiae Leibnitianis, more geometrico demonstrandis, suscepi cogitationem. Nihil autem in his demonstrationibus meum, omnia LEIBNITII sunt; etsi nullus dubito, quin LEIBNITIUS, si adhuc vitali hâc fruueretur aurâ, quaedam suo more paulò aliter esset inflexurus. Indictum igitur esto id omne, quod à mente Philosophi alienum est, nec mihi, quae ex principiis LEIBNITII demonstro, imputantor. Meum autem de Principiis Philosophiae Leibnitianis judicium hic non subnecto, sed alii tempori & occasioni reservo. Analogiam tamen id esse, quod mihi in Systemate Philosophiae Leibnitianae pulcrum videtur, ingenuè in antecessum fateor;
+
+[p. fm21] teor; de illius vel veritate vel usu nihil jam determinans, neutrum tamen negans. Excerpta ex Epistolis Philosophi, ad me quondam sua manu datis, tanquam testibus omni exceptione majoribus, ideo addidi, ut posteritas intelligeret, quid in restaurandis humanae cognitionis Principiis LEIBNITIO debeat. In Historiae enim Philosophicae Scriptoribus scientiam dogmatum sufficientem merito desiderat magnus pariter aevi nostri Philosophus CHRISTIANUS WOLFIUS (*) dum ex ignorantia ipsam inventionis gloriam tribuunt saepè illis, quibus ea non debetur. LEIBNITIUS saepè mihi fassus est, in suâ potestate esse geometricam veritatum metaphysicarum demonstrationem. Nec erit facilè quisquam, qui, lectis cum attentione debitâ hisce meis demonstrationibus, affirmare audeat, Auctorem in principiis suis non nisi sua via somnia orbi literato obtulisse, quique non fateri necessum habeat, LEIBNITII dogmata, quae jam primus in Systemate repraesento, & ex domesticis Philosophi principiis demonstro, prout idem in Partibus Prima & Secunda Principiorum CARTESII demonstrandis tentatum est ante me, esse ordinatissima, & Auctorem sine vanitate de Systemate suo dicere potuisse: (**)
+
+*Omnia*
+
+(*) *In Annotat. Metaph. §. CCXVIII. p. 342.*
+
+(**) *Replique aux Reflexions de Mr. Bayle. Tom. II. Recueil de diverses Pieces. p. 416.*
+
+[p. fm22] *Omnia percepi atque animo mecum ante peregi.*
+
+Quod superest, Vale, Lector Philosophe, & demonstrationibus hisce, si libet & licet, in inveniendis aliis veritatibus fruere. Dabam Viennae Austriae, a. d. xxviii. Augusti cIↄ Iↄccxxvii.
+
+## [p. 1] PRINCIPIA PHILOSOPHIAE,
+
+Auctore G. G. LEIBNITIO.
+
+*Ex Actis Eruditorum Lipsiensibus Tom. VII. Supplementorum Sect. XI. p. 500. — 514. inclus.*
+
+### §. I.
+
+MONAS, de quâ dicemus, non est nisi substantia simplex, quae in composita ingreditur. Simplex dicitur, quae partibus caret.
+
+II. Necessarium autem est, dari substantias simplices, quia dantur composita: neque enim compositum est nisi aggregatum simplicium.
+
+III. Ubi non dantur partes, ibi nec extensio, nec figura, nec divisibilitas locum habet. Atque Monades istae sunt verae Atomi naturae, &, ut verbo dicam, Elementa rerum.
+
+IV. Neque etiam in iis metuenda est dissolutio, nec ullus concipi potest modus, quo substantia simplex naturaliter interire potest.
+
+V. Ex eadem ratione non datur modus, quo substantia simplex naturaliter oriri potest, quoniam non aliter nisi per compositionem formari posset.
+
+[p. 2] VI. Imo asserere licet, monades nec oriri, nec interire posse, nisi in instanti, hoc est, non incipere posse nisi per creationem, nec finiri nisi per annihilationem, cum è contrario composita incipiant ac finiantur per partes.
+
+VII. Nullo etiam modo explicari potest, quomodo Monas alterari aut in suo interiori mutari queat per creaturam quandam aliam quoniam in ea nihil transponere, neque ullum motum internum concipere licet, qui excitari, dirigi, augmentari aut diminui possit, quemadmodum in compositis contingit, ubi mutatio inter partes locum habet. Destituuntur Monades fenestris, per quas aliquid ingredi aut egredi valet. Accidentia non egrediuntur ex substantiis, quemadmodum alias species sensibiles Scholasticorum. Atque adeo neque substantia neque accidens in Monadem forinsecus intrare potest.
+
+VIII. Opus tamen est, ut Monades habeant aliquas qualitates: alias nec Entia forent.
+
+IX. Imo opus est, ut quaelibet Monas differat ab alia quacunque. Neque enim unquam dantur in natura duo entia, quorum unum ex asse convenit cum altero, & ubi impossibile sit quandam reperire differentiam internam aut in denominatione intrinseca fundatam. Quod si substantiae simplices qualitatibus non differrent; nulla etiam in rebus mutatio observari posset: quoniam, quod in composito reperitur, aliunde quam ex simplicibus ingredientibus resultare nequit. Et si Monades qualitatibus destituerentur, nec una ab altera distingui posset, quoniam eaedem nec quantitate differunt: consequenter si plenum supponatur, locus quilibet in motu non reciperet nisi quod aequivaleret ei, cui succederet, & unus rerum status indiscernibilis foret ab altero.
+
+X. Assumo etiam tanquam concessum, quod omne Ens creatum sit mutationi obnoxium, & consequenter etiam Monas creata; imo etiam quod mutatio sit in unaquaelibet continua.
+
+[p. 3] XL. Sequitur ex hactenus dictis, mutationes naturales Monadum à principio interno proficisci, propterea quod causa externa in ejus interius influere nequit. Et generaliter adfirmare licet, vim non esse nisi principium mutationum.
+
+XII. Opus etiam est, ut praeter principium mutationum detur quoddam Schema ejus, quod mutatur, quod efficit, ut ita dicam, specificationem ac varietatem substantiarum simplicium.
+
+XIII. Involvere istud debet multitudinem in unitate aut simplici. Omnis enim mutatio naturalis cum per gradus fiat, aliquid mutatur, & aliquid remanet, consequenter in substantia simplici datur quaedam pluralitas affectionum ac relationum, quamvis partibus careat.
+
+XIV. Status transiens qui involvit ac repraesentat multitudinem in unitate seu substantia simplici, non est nisi istud, quod Perceptionem adpellamus, quam probe distinguere debemus ab Apperceptione seu Conscientia, quemadmodum in sequentibus patebit. Atque in hoc lapsi sunt Cartesiani, quod pro nihilo reputaverint perceptiones, quarum nobis non sumus conscii. Propter hanc quoque rationem sibi persuaserunt, solos Spiritus esse Monades, nec dari Animas brutorum, nec alias entelechias, & cum vulgo longum stuporem cum morte rigorose sic dicta confuderunt: unde porro in praejudicium Scholasticorum de animabus prorsus separatis prolapsi, & ingenia perversa in opinione de mortalitate animarum confirmata sunt.
+
+XV. Actio principii interni, qua fit mutatio seu transitus ab una perceptione ad alteram, Appetitus adpellari potest. Verum equidem est, quod appetitus non semper prorsus pervenire possit ad omnem perceptionem, ad quam tendit; semper tamen aliquid ejus obtinet, atque ad novas perceptiones pervenit.
+
+XVI. Ipsimet experimur multitudinem in substantia simplici, quandoquidem deprehendimus, minimam cogitatio-
+
+[p. 4] tationem, cujus nobis conscii sumus, involvere varietatem in objecto. Omnes itaque, qui agnoscunt, animam esse substantiam simplicem, hanc multitudinem in Monade admittere debent, atque BAELIUS ea in re difficultates facessere non debebat, quemadmodum fecit in suo Dictionario, articulo RORARIUS.
+
+XVII. Negari tamen nequit, perceptionem, & quod inde pendet, per rationes mechanicas explicari non posse, hoc est, per figuras & motum. Quod si fingamus, dari machinam, quae per structuram cogitet, sentiat, percipiat; non obstat, quo minus, iisdem proportionibus retentis, sub majore mole construi concipiatur, ita ut in eam aditus nobis concedatur, tanquam in molendinum. Hoc supposito, intus nil deprehendemus nisi partes, se mutuo impellentes, nec unquam aliud quicquam, per quod perceptio explicari queat. Hoc itaque in substantia simplici, non in composita seu machina quaerendum. Imo etiam praeter istud in substantia simplici non reperietur aliud, hoc est, praeter perceptiones earumque mutationes in ea nil datur: Atque in hoc solo consistere debent omnes actiones internae substantiarum simplicium.
+
+XVIII. Nomen Entelechiarum imponi posset omnibus substantiis simplicibus seu monadibus creatis. Habent enim in se certam quandam perfectionem ( ἔχουσι τὸ ἐντελές ) datur quaedam in iis sufficientia, ( αὐτάρκεια ) vi cujus sunt actionum suarum internarum fontes, quasi automata incorporea.
+
+XIX. Quod si Animam adpellare libet, quicquid perceptionem & appetitum habet in sensu generali, quem modo explicavimus; omnes substantiae simplices aut monades creatae adpellari possent Animae. Enimvero cum apperceptio aliquid amplius importet quam simplicem quandam perceptionem: consultius est, ut nomen generale Monadum & Entelechiarum sufficiat substantiis simplicibus, quae
+
+[p. 5] quae simplici perceptione gaudent, & Animae appellentur tantummodo istae, quarum perceptio est magis distincta & cum memoria conjuncta.
+
+XX. In nobis enim ipsis experimur statum quendam, in quo nihili recordamur, nec ullam perceptionem distinctam habemus, veluti cùm deliquio animi laboramus, aut quando somno profundo absque insomnio oppressi sumus. In hoc statu Anima quoad sensum non differt à simplici Monade. Sed cum status iste non perduret, aliquid amplius sit necesse est.
+
+XXI. Atque inde non sequitur, quod tunc substantia simplex careat omni perceptione. Fieri hoc nequit per rationes modo dictas: neque enim perire, nec sine omni variatione subsistere posset, quae aliud esse nequit, quam ipsius perceptio. Enimvero quando ingens adest exiguarum perceptionum multitudo, ubi nihil distincti occurrit, mens stupet, quemadmodum in gyrum aliquoties celeriter acti vertigine corripimur, qui attentionem evanescere facit, ita ut nihil distinguere valeamus. Istiusmodi statum ad tempus animalibus mors conciliare valet.
+
+XXII. Et quemadmodum omnis praesens substantiae simplicis status naturaliter ex praecedente consequitur, ita ut praesens sit gravidus futuro:
+
+XXIII. Ita quoque cum evigilantes ab isto stupore perceptionum nostrarum conscii simus, necesse omnino est, ut aliquas immediate ante habuerimus, quamvis earum conscii non fuerimus. Etenim perceptio naturaliter non oritur nisi ex alia perceptione, quemadmodum motus naturaliter non oritur nisi ex motu.
+
+XXIV. Apparet inde, nos, quando nihil distincti &, ut ita loquar, sublimis ac gustûs altioris in nostris perceptionibus habemus, in perpetuo fore stupore. Atque is Monadum nudarum status est.
+
+XXV. Videmus etiam, naturam dedisse animantibus perce-
+
+[p. 6] perceptiones sublimes, dum iis organa concessit, quae complures radios luminis aut complures undulationes aëris colligunt, ut per unionem fiant magis efficaces. Simile quid in odore, sapore & tactu, forsitan in aliis etiam sensationibus bene multis, sed nobis incognitis, occurrit: atque mox explicabo, quomodo, quod in animâ accidit, repraesentet illud, quod fit in organis.
+
+XXVI. Memoria speciem Consecutionis suppeditat animabus, quae rationem imitatur, sed ab ea distingui debet. Videmus ideo, animantia, dum percipiunt objectum, quod ipsa ferit, & cujus similem perceptionem antea habuere, per repraesentationem memoriae exspectare, quod eidem in perceptione praecedente jungebatur, & ad sensationes ferri similes iis, quas tum habuerant. E. gr. quando baculus monstratur canibus, doloris, quem ipsis causatus est recordantur, clamant & fugiunt.
+
+XXVII. Et imaginatio fortis, quae ipsos ferit ac movet, vel à magnitudine, vel à multitudine perceptionum praecedentium proficiscitur. Interdum enim idem est impressionis fortis, uno ictu factae, effectus, qui diuturni habitus aut multarum perceptionum mediocrium, saepius repetitarum.
+
+XXVIII. Homines bestiarum instar agunt, quatenus Consecutiones perceptionum, quas habent, non nisi a principio memoriae pendent, & instar Medicorum empiricorum agunt, qui simplici praxi absque theoria utuntur. Et nos non nisi empirici sumus in tribus actionum nostrarum quartis, e. gr. quando lucem diei crastini exspectamus, empirice agimus, propterea quod constanter ita factum fuit. Soli Astronomi per rationem judicant.
+
+XXIX. Enimvero cognitio veritatum necessariarum & aeternarum est id, quod nos ab animantibus simplicibus distinguit & rationis ac scientiarum compotes reddit, dum nos ad cognitionem nostri atque DEI elevat. Atque hoc est, istud,
+
+[p. 7] istud, quod in nobis Anima rationalis sive Spiritus appellatur.
+
+XXX. Cognitioni veritatum necessariarum & earum abstractionibus acceptum referri debet, quod ad actus reflexos elevati simus, quorum vi istud cogitamus, quod Ego appellatur, & hoc vel istud in nobis esse consideramus. Et inde etiam est, quod nosmet ipsos cogitantes de Ente, de substantia cum simplici cum composita, de immateriali & ipso DEO cogitemus, dum concipimus, quod in nobis limitatum est, in ipso sine limitibus existere. Atque hi actus reflexi praecipua largiuntur objecta ratiociniorum nostrorum.
+
+XXXI. Ratiocinia nostra duobus magnis principiis superstructa sunt. Unum est principium contradictionis, vi cujus Falsum judicamus, quod contradictionem involvit, & Verum, quod falso opponitur vel contradicit.
+
+XXXII. Alterum est Principium rationis sufficientis, vi cujus consideramus, nullum factum reperiri posse verum, aut veram existere aliquam enunciationem, nisi adsit ratio sufficiens cur potius ita sit quam aliter, quamvis rationes istae saepissimè nobis incognitae esse queant.
+
+XXXIII. Quando veritas necessaria, ratio reperiri potest per analysin, dum eam resolvimus in ideas & veritates simpliciores, donec ad primitivas perventum fuerit.
+
+XXXIV. Hoc pacto apud Mathematicos theoremata speculationis & canones praxeos reducuntur per analysin ad definitiones, axiomata & postulata.
+
+XXXV. Et dantur tandem Ideae simplices, quarum definitiones dare non licet. Dantur etiam Axiomata & Postulata, aut verbo Principia primitiva, quae probari nequeunt, nec probatione indigent, atque ista sunt enunciationes identicae.
+
+XXXVI. Enimvero Ratio sufficiens reperiri etiam debet in veritatibus contingentibus vel facti, hoc est, in serie rerum, quae reperitur in universo creaturarum, ubi resolutio in
+
+[p. 8] in rationes particulares progredi posset in infinitum, propter immensam rerum naturalium varietatem & divisionem corporum in infinitum. Datur infinitudo figurarum & motuum praesentium atque praeteritorum, qui ingrediuntur in causam efficientem scripturae meae praesentis, & infinitudo exiguarum inclinationum ac dispositionum animae meae, praesentium atque praeteritarum, quae ingrediuntur in causam finalem.
+
+XXXVII. Et quemadmodum tota haec series non nisi alia contingentia anteriora involvit, quorum unumquodque simili analysi opus habet, ubi rationem reddere voluerimus, progressus nil juvat: necesse est, rationem sufficientem seu ultimam extra seriem contingentium reperiri, quantumvis infinita ponatur.
+
+XXXVIII. Propterea quoque ratio ultima rerum in substantia quadam necessaria contineri debet, in qua series mutationum non nisi eminenter existat, tanquam in fonte suo.
+
+XXXIX. Jam cum substantia ista sit ratio sufficiens omnis istius seriei, quae etiam prorsus connexa est; non nisi unus datur DEUS, atque hic DEUS sufficit.
+
+XL. Judicare etiam licet, quod substantia ista suprema, quae est unica, universalis & necessaria, cum nihil extra se habeat, quod ab ea non dependeat, & simplex rerum possibilium series existat, limitum capax esse nequit & omnem realitatem possibilem continere debet.
+
+XLI. Unde sequitur, DEUM esse absolutè perfectum, cum perfectio non sit nisi magnitudo realitatis positivae praecisè sumta, sepositis rerum limitationibus.
+
+XLII. Sequitur hinc etiam, creaturas habere perfectiones suas ab influxu DEI; sed imperfectiones à propria natura, essentiae sine limitibus incapaci. In eo enim à DEO distinguuntur.
+
+XLIII. Verum etiam est, in DEO non modo esse fontem
+
+[p. 9] fontem existentiarum, verum etiam essentiarum, quatenus reales sunt, aut ejus, quod in possibilitate reale est. Propterea Intellectus DEI est regio veritatum aeternarum aut idearum, unde dependent, & sine ipso nihil realitatis foret in possibilitatibus, & nihil non modo existeret, sed nihil etiam possibile foret.
+
+XLIV. Etenim opus est, ut, si quid realitatis in essentiis aut possibilitatibus, aut potius in veritatibus aeternis fuerit, haec realitas fundetur in aliqua re existente & actuali, & consequenter in existentia entis necessarii, in quo essentia includit existentiam, aut in quo sufficit esse possibile, ut sit actuale.
+
+XLV. Ita DEUS solus, (seu Ens necessarium) hoc privilegio gaudet, quod necessario existat, si possibilis est. Et quemadmodum nihil possibilitatem ejus impedit, quod limitum expers, nec ullam negationem, consequenter nec contradictionem involvit, hoc unum sufficit ad cognoscendam existentiam DEI à priori. Nos eam quoque probavimus per realitatem veritatum aeternarum.
+
+XLVI. Enimvero eandem jam probabimus à posteriori, quia scilicet res contingentes existunt, quae rationem ultimam seu sufficientem habere nequeunt, nisi in Ente necessario, quod rationem existentiae suae in se ipso habet.
+
+XLVII. Nihilominus tamen cum nonnullis nobis imaginari non debemus, veritates aeternas, cùm à DEO dependeant, arbitrarias esse & à voluntate ipsius pendere, quemadmodum CARTESIUS & postea POIRETUS statuit. Id verum non est, nisi de veritatibus contingentibus, cum è contrario necessariae unice dependeant ab intellectu ejus & sint objectum ipsius internum.
+
+XLVIII. Ita DEUS solus est Unitas primitiva seu substantia simplex originaria, cujus productiones sunt omnes monades creatae aut derivativae, & nascuntur, ut ita loquar, per
+
+[p. 10] per continuas Divinitatis fulgurationes, per receptivitatem creaturae limitatas, cui essentiale est esse limitatum.
+
+XLIX. Datur in DEO Potentia, quae est fons omnium, deinde Cognitio, quae continet Idearum schema, & tandem Voluntas, quae mutationes efficit seu productionem secundum Principium melioris.
+
+L. Atque hoc est istud, quod respondet ei, quod in Monadibus creatis facit subjectum seu basin facultatis perceptivae & facultatis adpetitivae. Sed in DEO haec attributa sunt absolutè infinita, aut perfecta, & in Monadibus creatis aut Entelechiis (aut Perfectihabeis, quemadmodum HERMOLAUS BARBARUS traduxit hanc vocem) non sunt nisi imitationes, pro mensura perfectionis, quam habent.
+
+LI. Creatura dicitur Agere extra se, quatenus habet perfectionem, & Pati ab alia, quatenus est imperfecta. Ita Monadi actionem tribuimus, quatenus habet perceptiones distinctas, & passiones, quatenus confusas habet.
+
+LII. Et una creatura perfectior est altera in eo, quod reperiamus in ea, quod inservit rationi reddendae de eo, quod in altera contingit, & propterea dicimus, quod in alteram agat.
+
+LIII. Sed in substantiis simplicibus influxus unius Monadis in alteram tantum idealis est, qui effectum sortiri nequit nisi DEO interveniente, quatenus in ideis DEI una Monas cum ratione postulat, ut DEUS, ordinans ceteras, in principio rerum ipsius rationem habeat. Quoniam enim Monas una physice influere nequit in interius alterius, aliud non datur medium, per quod una ab altera dependere valeat.
+
+LIV. Atque ideo actiones & passiones creaturarum mutuae sunt. DEUS enim duas substantias simplices inter se comparans, in unaquaque rationes deprehendit, quibus obligatur unam aptare alteri, & consequenter id, quod acti-
+
+[p. 11] activum est, quatenus certo respectu passivum secundum alium considerandi modum; activumnempe, quatenus id, quod distincté in eo cognoscitur, infervit rationi reddendae de eo, quod in alia contingit, & passivum, quatenus ratio de eo, quod in ipsa contingit, reperitur in eo, quod distincte cognoscitur in altera.
+
+LV. Quemadmodum vero infinita sunt universa possibilia in ideis DEI & eorum non nisi Unicum existere potest; ita necesse est, dari rationem sufficientem Electionis divinae, quae DEUM ad unum potius, quam ad alterum determinet.
+
+LVI. Atque haec ratio reperiri nequit nisi in gradibus perfectionis, quam hi mundi continent, cum quodvis possibile habeat jus praetendendi existentiam pro ratione perfectionis, quam involvit.
+
+LVII. Atque id ipsum causa est existentiae melioris, quod DEUS vi Sapientiae cognoscit, vi Bonitatis eligit, & vi Potentiae producit.
+
+LVIII. Atque huic adaptationi rerum omnium creatarum ad unamquamque & uniuscujusque ad ceteras omnes tribuendum, quod qualibet substantia simplex habeat respectus, quibus exprimuntur ceterae omnes, & per consequens Speculum vivum perpetuum universi existat.
+
+LIX. Et sicuti eadem urbs, ex diversis locis spectata, alia adparet & optice quasi multiplicatur, ita similiter accidit, ut propter multitudinem infinitam substantiarum simplicium dentur quasi totidem differentia universa, quae tamen non sunt nisi scenographicae repraesentationes unici secundum differentia puncta visus uniuscujusque monadis.
+
+LX. Atque hoc ipsum medium est obtinendi tantum varietatis, quantum possibile, sed cum maximo ordine qui fieri potest, hoc est, medium obtinendi tantum perfectionis, quantum possibile.
+
+LXI. Neque etiam alia datur, quam haec hypothesis,
+
+[p. 12] quae, prout fieri debet, magnitudinem DEI elevat: (id quod BAELIUS agnovit, cum in Dictionario suo, articulo RORARIUS objectiones quasdam proposuit, immo sibi persuasit, quod DEO nimium & ultra quod possibile est, tribuam) sed nullam rationem allegare potuit, cur haec harmonia, ob quam quaelibet substantia exacte exprimit ceteras omnes per respectus, quos ad eas habet, sit impossibilis.
+
+LXII. Ceterum ex eo, quod modo retuli de rationibus à priori, videmus, cur res aliter se habere nequeant, quoniam DEUS, totum ordinans, respexit ad quamlibet partem & inprimis ad unamquamque Monadem, cujus natura cum sit repraesentativa, nihil est quod eam limitare posset ad unam tantum rerum partem repraesentandam, quanquam verum sit, quod haec repraesentatio non sit nisi confusa respectu partium universi, nec distincta esse possit, nisi quoad exiguam rerum partem, hoc est, earum, quae aut propiores sunt, aut majores respectu uniuscujusque Monadis, alias quaelibet Monas foret aliqua divinitas. Non in objecto, sed in modificatione cognitionis objecti Monades limitatae sunt. Omnes confuse ad infinitum tendunt, sed limitantur & distinguuntur per gradus perceptionum distinctarum.
+
+LXIII. Atque in eo compositae cum simplicibus conveniunt. Quoniam enim omnia plena sunt & per consequens omnis materia connexa, & quemadmodum in pleno omnis motus effectum quendam sortitur in corporibus distantibus pro ratione distantiae, ita ut unumquodque corpus non modo afficiatur ab iis, quae ipsum tangunt, & quodammodo percipiat, quod ipsis accidit, verum etiam, mediantibus ipsis, adhuc percipiat ea, quae prima tangunt, à quibus ipsum immediate tangitur; ideo inde sequitur, hanc communicationem procedere ad quamlibet distantiam. Et per consequens omne corpus ab omni eo afficitur, quod in universo accidit, ita ut is, qui omnia perspicit, in unoquoque legere possit, quod per totum accidit, immo etiam quod jam factum,
+
+[p. 13] factum, aut adhuc futurum, in praesenti observans, quidquid tam secundum tempus, quam secundum spatium elongatur. Σύμπνοια πάντα dicebat HIPPOCRATES. Enimvero anima in se ipsa legere nequit, nisi quod distincte in ipsa repraesentatur; non omnes suas perceptiones una evolvere valet, quoniam ad infinitum tendunt.
+
+LXIV. Quamvis itaque quaelibet Monas creata totum universum repraesentet; multo tamen distinctius repraesentat corpus, quod ipsi peculiari ratione adaptatum est & cujus Entelechia existit. Et sicuti hoc corpus exprimit totum universum per connexionem omnis materiae in pleno, ita etiam anima totum repraesentat universum, dum repraesentat hoc corpus, quod ad ipsam spectat peculiari quadam ratione.
+
+LXV. Corpus spectans ad Monadem, cujus Entelechia vel Anima existit, constituit cum Entelechia id, quod Vivens adpellatur, & cum Anima id, quod Animal salutatur.
+
+LXVI. Est vero corpus viventis vel animalis semper organicum. Etenim cum qualibet Monas sit speculum universi suo modo & universum perfecto ordine gaudeat, ordo etiam esse debet in repraesentante, h. e. in perceptionibus animae, & per consequens in corporibus, secundum quae universum in eis repraesentatur.
+
+LXVII. Ita quodlibet corpus organicum viventis est species machinae divinae aut automati naturalis, quod omnia automata artificialia infinitis modis antecellit, quoniam machina, arte hominis facta, non est machina in qualibet parte. E. gr. Dentes rotae partes habent seu fragmina, quae non amplius artificiale quid sunt, nec quidquam habent, quod machinam connotet, respectu usus, cui rota destinatur. Machinae vero Naturae, h. e. corpora viventia sunt adhuc machinae in minimis partibus usque in infinitum. Atque in eo consistit discrimen inter Naturam & Artem, h. e. inter Artem divinam & nostram.
+
+LXVIII. Et fieri potuit, ut Autor Naturae hoc arti-
+
+[p. 14] ficium divinum & prorsus mirabile in praxin deduceret, quia portio quaelibet materiae non modo divisibilis in infinitum, sicuti veteres agnovêre, verum etiam actu subdivisae in infinitum, qualibet parte peculiari motu gaudente: alias fieri haudquaquam posset, ut quaelibet portio materiae totum exprimeret universum.
+
+LXIX. Liquet inde, in minima portione materiae dari mundum creaturarum viventium, animalium, entelechiarum, animarum.
+
+LXX. Qualibet materiae portio concipi potest instar horti pleni plantis & instar piscinae plenae piscibus. Sed quilibet ramus plantae, quodlibet membrum animalis, qualibet gutta humorum ipsius est denuò hortus aut piscina istiusmodi.
+
+LXXI. Et quamvis terra atque aër inter plantas horti, aut aqua, inter pisces piscinae intercepta, non sit planta, neque piscis, nihilominus plantas & pisces continent, sed plerumque subtilitate nobis imperceptibili.
+
+LXXII. Ita nihil incultum, nihil sterile, nihil mortuum datur in universo, nullum chaos, nulla confusio, nisi quoad adparentiam, quemadmodum in piscina ad aliquam distantiam adpareret, ubi motus confusus piscium videtur, nec tamen ipsos pisces discernere licet.
+
+LXXIII. Videmus hinc, quodlibet corpus vivum habere Entelechiam unam dominantem, quae est anima in animali; sed membra hujus corporis viventis plena sunt aliis viventibus, plantis, animalibus, quorum unumquodque iterum suam habet entelechiam seu animam dominantem.
+
+LXXIV. Enimvero haudquaquam nobis cum nonnullis imaginari debemus, qui mentem meam parum perspexerunt, animam unamquamque habere massam quandam aut portionem materiae propriae, & per consequens possidere alia viventia inferiora semper ad ipsius servitia destinata. Omnia enim corpora rivorum instar in perpetuo sunt fluxu & par-
+
+[p. 15] & partes aliae continuo ingrediuntur, aliae egrediuntur.
+
+LXXV. Ita Anima non mutat corpus nisi sensim sensimque & per gradus, ita ut nunquam omnibus suis organis uno quasi ictu privetur. Et dantur saepius metamorphoses in animalibus, sed nunquam metempsychosis seu transmigratio animarum locum habet. Neque etiam dantur Animae prorsus separatae.
+
+LXXVI. Atque ideo etiam nulla datur generatio, nec mors perfecta, rigorose loquendo. Sunt enim evolutiones & accretiones, quas Generationes appellamus; quemadmodum involutiones & diminutiones, quod Mortem vocamus.
+
+LXXVII. Perplexos reddidit Philosophos Origo Formarum, Entelechiarum aut Animarum; sed postquam hodie observationibus exactis de plantis, insectis & animalibus compertum est, quod haecce corpora organica naturae nunquam ex chao seu putrefactione prodeant, sed constanter per Semina, in quibus sine omni dubio datur quaedam praeformatio; hinc concluditur, corpus non modo organicum jam praeexstitisse ante conceptionem, sed etiam animam in hoc corpore, h. e. Animal ipsum. Et per conceptionem Animal istud tantummodo disponitur ad magnam quandam transformationem, ut fiat animal alterius speciei. Simile quid videmus extra generationem, e. gr. quando vermes fiunt muscae & erucae papiliones.
+
+LXXVIII. Animalia, quorum nonnulla elevantur ad gradum maximorum Animantium, ope conceptionis appellari possunt Spermatica: sed ea, quae speciem non mutant, nascuntur, multiplicantur & destruuntur, quemadmodum Animalia magna. Parvus admodum numerus est Electorum, qui ad theatrum majus progrediuntur.
+
+LXXIX. Sed haec non nisi dimidia veritatis pars est. Judicavi igitur, si animal nunquam naturaliter incipit, nec unquam
+
+[p. 16] unquam naturaliter finiri debere, & non modo nullam dari Generationem, verum etiam nullam destructionem totalem, seu Mortem rigorose sumtam. Atque ratiocinia ista, à posteriori facta, optime cum principiis meis, ante à priori deductis, concordant.
+
+LXXX. Ita asserere licet, non modo animam (mundi indestructibilis speculum) esse indestructibilem; verum etiam Animal ipsum, quamvis machina ipsius saepius ex parte pereat & involucra organica linquat, vel capiat.
+
+LXXXI. Haec principia dedere mihi medium naturaliter explicandi Unionem aut potius conformitatem animae ac corporis organici. Anima suas sequitur leges & corpus itidem suas: conveniunt vero inter se vi harmoniae, inter omnes substantias praestabilitae, quoniam omnes repraesentationes sunt ejusdem Universi.
+
+LXXXII. Animae agunt secundum Leges causarum finalium per appetitiones, fines & media. Corpora agunt secundum Leges causarum efficientium seu motuum. Et duo regna, alterum nempe causarum efficientium, alterum causarum finalium, sunt harmonica inter se.
+
+LXXXIII. Cognovit CARTESIUS, animam non posse dare vim corporibus, quoniam eadem semper virium quantitas in materia conservatur; credidit tamen, animam posse mutare directionem corporum. Id quidem ideo factum est, quod ipsius tempore Lex Naturae ignoraretur, quae vult, eandem semper directionem totalem conservari in materia. Quod si hoc observasset, in Systema meum Harmoniae Praestabilitae incidisset.
+
+LXXXIV. In hoc Systemate corpora agunt, ac si (per impossibile) nullae darentur animae, ac animae agunt, ac si corpora nulla darentur, & ambo agunt, ac si unum influeret in alterum.
+
+LXXXV. Quod Spiritus seu Animas rationales concernit, quamvis reperiam, eodem modo rem habere cum omni-
+
+[p. 17] omnibus viventibus & animantibus, quemadmodum dixi, (§. LXXX.) scilicet quod Animal & Anima nec oriantur nisi cum Mundo, nec intereant nisi cum Mundo: id tamen peculiare est in Animalibus rationalibus, quod ipsorum Animalcula Spermatica, qua talia, habeant tantum Animas ordinarias seu sensitivas, sed quae electa sunt, ut ita dicam, & ad naturam humanam ope conceptionis actualis perveniunt, eorum Animae sensitivae elevantur ad gradum rationis & praerogativam Spirituum.
+
+LXXXVI. Inter alias differentias, quae inter Animas ordinarias & Spiritus intercedunt, & quarum partem jam exposui, etiam illa datur, quod Animae in genere sint Specula viventium seu imagines Universi creaturarum; sed quod Spiritus insuper sint imagines ipsius Divinitatis, seu Autoris Naturae, quae Systema universi cognoscere & aliquid ejus per scintillulas architectonicas imitari possunt, cum Spiritus unusquisque sit parva quaedam Divinitas in suo genere.
+
+LXXXVII. Atque inde est, quod Spiritus sint capaces Societatis alicujus cum DEO ineundae, & quod ipse eorum respectu non solum sit Inventor, qualis est respectu creaturarum ceterarum, sed insuper Princeps & Parens, h.e. eam habeat ad ipsos relationem, quem Princeps ad suos subditos, & Parens ad liberos suos.
+
+LXXXVIII. Inde haud difficulter infertur, omnes Spiritus simul sumtos constituere Civitatem DEI, h. e. regnum omnium perfectissimum sub perfectissimo Monarcha.
+
+LXXXIX. Haec Civitas DEI, haec Monarchia, vere universalis, est Mundus moralis in mundo naturali, & id maxime sublime & divinum est in operibus DEI, atque in hoc revera Gloria DEI consistit, quoniam nulla daretur, nisi Magnitudo & Bonitas Ejus à Spiritibus cognosceretur ipsisque admirationi esset. Respectu hujus Civitatis divinae datur Bonitas pro-
+
+[p. 18] tas proprie sic dicta, cum è contrario Sapientia & Potentia ubique eluceant.
+
+XC. Quemadmodum supra (§. LXXXII.) Harmoniam perfectam stabilivimus inter duo Regna naturalia, alterum causarum efficientium, alterum finalium: ita hic nobis alia Harmonia commemoranda venit, quae inter Regnum physicum naturae & Regnum morale gratiae intercedit, h. e. inter DEUM, quatenus consideratur ut Architectus machinae, & inter DEUM eundem, quatenus ut Monarcha Civitatis divinae Spirituum spectatur.
+
+XCI. Ab hac harmonia pendet, quod res deducant ad gratiam per ipsas vias naturae, & quod hic globus e. gr. destrui & reparari debeat per media naturalia iis momentis, quando regimen spirituum id postulat ad aliquos puniendos, ceteros remunerandos.
+
+XCII. Asseverare etiam licet, DEUM tanquam Architectum, satisfacere DEO, tanquam Legislatori, ex asse, atque sic peccata consequi debere poenas per ordinem naturae & structurae mechanicae rerum, bonas etiam actiones secum trahere remunerationes per media machinalia respectu corporum, quamvis idem nec possit, nec debeat constanter extemplo accidere.
+
+XCIII. Tandem sub perfectissimo hoc regimine nulla datur actio bona sine remuneratione, nulla mala sine poena, & omnia vergere debent in salutem bonorum, h.e. eorum, qui regimine divino contenti sunt in magno hoc regno, qui confidunt in providentia divina & qui amant atque imitantur, ut par est, Autorem omnis boni, voluptatem percipientes ex consideratione perfectionum ipsius, secundum naturam Amoris puri & veri, vi cujus voluptatem percipimus ex ejus, quem amamus, felicitate. Atque ideo personae sapientes ac virtuosae perficere conantur, quidquid voluntati divinae praesumtivae & antecedenti conforme apparet, &, hoc non obstante, in iis adquiescunt, quae per voluntatem
+
+[p. 19] divinam secretam, consequentem & decisivam acta contingunt, quoniam agnoscunt, quod si ordinem naturæ satis intelligeremus, deprehensuri simus, eadem vota sapientissimi longe superare, nec fieri posse, ut meliora reddantur sive intuitu totius Universi in genere, sive etiam respectu nostrûm in specie. Siquidem, prout par est, Autori omnium adhæremus, non modo, tanquam Architecto & causæ efficienti essentiæ nostræ, verum etiam tanquam Magistro nostro atque causæ finali, cujus est efficere quod volumus, & qui solus nos felices reddere valet.
+
+## G.G. LEIBNITII PRINCIPIA PHILOSOPHIÆ, more geometrico demonstrata.
+
+## DEFINITIONES.
+
+### DEF. I.
+
+CONTRADICTIO est simultanea unius ejusdemque prædicati de uno eodemque subjecto affirmatio & negatio.
+
+Scholion. Ita e. gr. in hac Propositione: quicquid existit, illud non existit, existentia de eodem subjecto affirmatur simul & negatur.
+
+II. IMPOSSIBILE est id, quod involvit contradictionem.
+
+Scholion. Philosophus noster vocat Falsum, quatenus Vero contradicit.
+
+[p. 20] III. IMPOSSIBILE ABSOLUTE est, quod in se citra connexionem cum aliis involvit contradictionem.
+
+Scholion. Ita Circulus quadratus est impossibilis.
+
+IV. IMPOSSIBILE RESPECTIVUM est, quod non in se, sed in connexione cum aliis involvit contradictionem.
+
+Scholion. Ita Homo, mali moralis incapax, non in se, sed in connexione cum serie rerum optima implicat. Conf. etiam LEIBNITIUS Epist. V. ad CLARCKIUM. §. 25. p. 94.
+
+V. POSSIBILE est quod non involvit contradictionem.
+
+Scholion. Philosophus etiam vocat Verum, quatenus Falso contradicit.
+
+VI. POSSIBILE ABSOLUTE (SIMPLICITER) (POSSIBILE INTRINSECUM) est, quod in se solum nullam involvit contradictionem extra omnem cum aliis connexionem.
+
+Scholion. Ita Leges motuum, à Legibus, quas observamus, diversa, sunt absolute possibiles.
+
+VII. POSSIBILE RESPECTIVUM (EXTRINSECUM) est, quod etiam in connexione cum aliis possibilibus nullam involvit contradictionem.
+
+Scholion. Ita omne id est possibile, quod in hoc præcise mundo, non in alio quocunque possibili, vel fuit, vel est, vel erit.
+
+VIII. POSSIBILIA PRIMA sunt possibilia illa, propter quæ reliqua omnia possibilia sunt.
+
+IX. ENS est id omne, quod est possibile absolutè.
+
+X. Si ENS dicitur id omne, quod est possibile absolutè, NIHIL, vel NON-ENS dicendum est, quod est impossibile absolutè.
+
+XI. MODUS ENTIS est omne id, quod sine Ente, cui inesse vel adesse intelligitur, non est possibile.
+
+XII. ESSENTIA (NATURA) ENTIS est primum illud, propter quod reliqua omnia Enti alicui inesse posse intelliguntur.
+
+Coroll. Essentia est modus, quo Ens possibile esse intelligitur, per def. 9.
+
+[p. 21] Scholion. Ex. gr. Essentia circuli est modus, quo circulus ex elementis suis generatur: Essentia horologii est modus, quo ex partibus suis, structuram ingredientibus, horologium componi potest: Essentia arboris est modus, quo Arbor ex folio nasci potest. Vid. CL. LUD. PHIL. THUMMIGIUS in Experimento singulari de Arboribus, ex folio educatis, ad rationes physicas revocato.
+
+XIII. EXISTENTIA ENTIS est essentiæ entis actualitas.
+
+Coroll. I. Existentia est modus, quo possibilitas ejus, quod absolute possibile est, fit actualis, per def. 9.
+
+Coroll. II. Modus actualitatis includit & sequitur modum possibilitatis.
+
+XIV. PROPRIETAS (AFFECTIO, ATTRIBUTUM) ENTIS est illud omne, quod propter solam essentiam enti alicui inesse posse intelligimus.
+
+XV. RATIO SUFFICIENS (ULTIMA) est id, ex quo intelligi & explicari potest, cur aliquid existat potius, quam non existat, & cur hoc potius, quàm alio modo existat.
+
+XVI. PRINCIPIUM in genere est id, in quo aliquid rationem sufficientem invenit: dicitur que INTERNUM, quatenus ratio illa est in ente; EXTERNUM, quatenus est extrà ens aliquod in alio Ente.
+
+XVII. PRINCIPIUM CONTRADICTIONIS est pugna affirmationis & negationis unius de eodem, quatenus in illâ ratio sufficiens continetur, cur idem de eodem simul affirmare & negare in potestate nostrâ non sit positum, per def. 1. & 16.
+
+XVIII. PRINCIPIUM RATIONIS SUFFICIENTIS est id, in quo omnia, quæ existunt, rationem ultimam inveniunt, ex quâ intelligi potest, cur potius ita, quam aliter existant, per def. 15. & 16.
+
+XIX. ENS A SE (ENS INCREATUM) est Ens, quod rationem sufficientem, cur potius existat, quam non existat, in se ipso agnoscit,
+
+[p. 22-2] Scholion. Videtur PHILOSOPHUS in Principiis Philosophiæ §. XLV. Ens necessarium ab Ente à se non distinguere. Sed §. tamen immediatè præcedenti Ideam Enti necessario peculiarem discretè assignat.
+
+XX. ENS AB ALIO, (ENS CREATUM, CREATURA) est Ens, quod rationem sufficientem essentiæ & existentiæ suæ agnoscit in alio Ente existente.
+
+XXI. CONTINGENS ABSOLUTE est id omne, cujus oppositum est possibile absolutè.
+
+XXII. ENS ABSOLUTE CONTINGENS est Ens illud, cujus non-existentia æquè est possibilis absolutè, ac ejus existentia, per def. 21.
+
+XXIII. VERITAS ABSOLUTE CONTINGENS (POSITIVA, FACTI) est propositio, cujus contradictoria est possibilis absolutè, dicitur que hinc saltem INCONVENIENS, per def. 21.
+
+Scholion. Conferatur ipse PHILOSOPHUS in Diss. de Confor. Rat. & Fidei §. II. p. 3. & in ipsà THEODICÆA §. XLIV.
+
+XXIV. NECESSARIUM ABSOLUTE est id omne, cujus oppositum est impossibile absolutè.
+
+XXV. ENS ABSOLUTE NECESSARIUM est illud Ens, cujus non-existentia est impossibilis absolutè, per def. 24.
+
+Scholion. Hinc PHILOSOPHUS §. XLV. vocat Ens absolutè necessarium illud Ens, quod existit, si existere potest.
+
+XXVI. VERITAS ABSOLUTE NECESSARIA est propositio, cujus contradictoria est impossibilis absolute, per def. 24, dicitur que hinc ABSURDUM.
+
+Scholion. Conf. etiam THEODICÆA §. XXXVII.
+
+XXVII. VERITAS ABSOLUTE NECESSARIA PRIMITIVA est veritas absolutè necessaria, cujus vel definitionem ulteriorem ob simplicitatem, vel probationem ulteriorem ob intimam subjecti cum prædicato connexionem dare non licet: illa dicitur IDEA SIMPLEX; hæc ENUNCIATIO IDENTICA.
+
+[p. 23-2] Scholion. Tales sunt omnes illæ definitiones, quarum possibilitas manifesta est, in quibus nulla est connexio, sed quæ connecti debent. LEIBNITIUS in Epistola Hanoverâ XXXI. Maji cIɔIɔccVIII. ad me datà.
+
+XXVIII. VERITAS ABSOLUTE NECESSARIA DERIVATIVA, est veritas absolutè necessaria, quæ ad veritates absolutè necessarias primitivas reduci potest.
+
+XXIX. ENS INDEPENDENS est illud Ens, cujus essentia nihil in se habet, quod rationem suam agnoscat in alio Ente.
+
+Cor. Ens independens existere potest, nullo alio Ente, præter ipsum, existente.
+
+XXX. ENS DEPENDENS est illud Ens, cujus essentia continet illa, quæ rationem suam agnoscunt in alio Ente, extra ipsum existente.
+
+XXXI. IDENTITAS est modus Entium, quatenus unum substitui potest alteri, ut omnia, factâ substitutione, maneant, sicut fuerant ante substitutionem.
+
+Scholion. Ponatur pondus A idem cum pondere B: quod si igitur pondus B ipsi ponderi A in libra substituatur, factâ substitutione, in Libra omnia manebunt, sicut fuerant ante factam substitutionem. Est hoc exemplum Celeb. CHRISTIANI WOLFII in Metaph. §. XVII. Sed cum pondera substitui sibi invicem non possint, nisi ponantur esse duo, unum A existit extra alterum B, consequenter apparet EADEM non posse existere alterum extra alterum. Videatur LEIBNITIUS Epistol. V. ad SAM. CLARKIUM §. XXVI. Tom. I. du Recueil. p. 94.
+
+XXXII. PROPOSITIO IDENTICA est enunciatio, in quâ prædicatum substitui potest subjecto, & subjectum prædicato, manentibus omnibus post substitutionem, sicut fuerant ante substitutionem, per def. 31. dicitur que QUA SENSUM ET SONUM TALIS, si subjectum & prædicatum constent iisdem litteris, syllabis, & vocibus, eodem sensu acceptis, QUA SENSUM TANTUM TALIS, si subjectum
+
+[p. 22] Scholion. Videtur PHILOSOPHUS in Principiis Philosophiæ §. XLV. Ens necessarium ab Ente à se non distinguere. Sed §. tamen immediatè præcedenti Ideam Enti necessario peculiarem discretè assignat.
+
+XX. ENS AB ALIO, (ENS CREATUM, CREATURA) est Ens, quod rationem sufficientem essentiæ & existentiæ suæ agnoscit in alio Ente existente.
+
+XXI. CONTINGENS ABSOLUTE est id omne, cujus oppositum est possibile absolutè.
+
+XXII. ENS ABSOLUTE CONTINGENS est Ens illud, cujus non-existentia æquè est possibilis absolutè, ac ejus existentia, per def. 21.
+
+XXIII. VERITAS ABSOLUTE CONTINGENS (POSITIVA, FACTI) est propositio, cujus contradictoria est possibilis absolutè, dicitur que hinc saltem INCONVENIENS, per def. 21.
+
+Scholion. Conferatur ipse PHILOSOPHUS in Diss. de Confor. Rat. & Fidei §. II. p. 3. & in ipsà THEODICÆA §. XLIV.
+
+XXIV. NECESSARIUM ABSOLUTE est id omne, cujus oppositum est impossibile absolutè.
+
+XXV. ENS ABSOLUTE NECESSARIUM est illud Ens, cujus non-existentia est impossibilis absolutè, per def. 24.
+
+Scholion. Hinc PHILOSOPHUS §. XLV. vocat Ens absolutè necessarium illud Ens, quod existit, si existere potest.
+
+XXVI. VERITAS ABSOLUTE NECESSARIA est propositio, cujus contradictoria est impossibilis absolute, per def. 24, dicitur que hinc ABSURDUM.
+
+Scholion. Conf. etiam THEODICÆA §. XXXVII.
+
+XXVII. VERITAS ABSOLUTE NECESSARIA PRIMITIVA est veritas absolutè necessaria, cujus vel definitionem ulteriorem ob simplicitatem, vel probationem ulteriorem ob intimam subjecti cum prædicato connexionem dare non licet: illa dicitur IDEA SIMPLEX; hæc ENUNCIATIO IDENTICA.
+
+[p. 23] Scholion. Tales sunt omnes illæ definitiones, quarum possibilitas manifesta est, in quibus nulla est connexio, sed quæ connecti debent. LEIBNITIUS in Epistola Hanoverâ XXXI. Maji cIɔIɔccVIII. ad me datà.
+
+XXVIII. VERITAS ABSOLUTE NECESSARIA DERIVATIVA, est veritas absolutè necessaria, quæ ad veritates absolutè necessarias primitivas reduci potest.
+
+XXIX. ENS INDEPENDENS est illud Ens, cujus essentia nihil in se habet, quod rationem suam agnoscat in alio Ente.
+
+Cor. Ens independens existere potest, nullo alio Ente, præter ipsum, existente.
+
+XXX. ENS DEPENDENS est illud Ens, cujus essentia continet illa, quæ rationem suam agnoscunt in alio Ente, extra ipsum existente.
+
+XXXI. IDENTITAS est modus Entium, quatenus unum substitui potest alteri, ut omnia, factâ substitutione, maneant, sicut fuerant ante substitutionem.
+
+Scholion. Ponatur pondus A idem cum pondere B: quod si igitur pondus B ipsi ponderi A in libra substituatur, factâ substitutione, in Libra omnia manebunt, sicut fuerant ante factam substitutionem. Est hoc exemplum Celeb. CHRISTIANI WOLFII in Metaph. §. XVII. Sed cum pondera substitui sibi invicem non possint, nisi ponantur esse duo, unum A existit extra alterum B, consequenter apparet EADEM non posse existere alterum extra alterum. Videatur LEIBNITIUS Epistol. V. ad SAM. CLARKIUM §. XXVI. Tom. I. du Recueil. p. 94.
+
+XXXII. PROPOSITIO IDENTICA est enunciatio, in quâ prædicatum substitui potest subjecto, & subjectum prædicato, manentibus omnibus post substitutionem, sicut fuerant ante substitutionem, per def. 31. dicitur que QUA SENSUM ET SONUM TALIS, si subjectum & prædicatum constent iisdem litteris, syllabis, & vocibus, eodem sensu acceptis, QUA SENSUM TANTUM TALIS, si subjectum
+
+[p. 24] subjectum & prædicatum enunciationis non simul constent iisdem litteris, syllabis & vocibus.
+
+Scholion. Ita hæc Propositio: Quicquid caret partibus, illud caret partibus; est identica quà sensum & quà sonum simul: & hæc propositio: Omne simplex caret partibus; est propositio identica quà sensum tantum.
+
+XXXIII. PROPOSITIO IN PRINCIPIO CONTRADICTIONIS FUNDATA est enunciatio quà sensum identica, per def. 17. & 32.
+
+XXXIV. PRINCIPIUM IDENTITATIS est propositio, quà sensum & quà sonum identica, quatenus in illâ ratio sufficiens continetur, cur idem de eodem vel affirmare vel negare in potestate nostrâ sit positum, per def. 16 & 32.
+
+XXXV. DIVERSITAS est modus Entium, quatenus unum non potest substitui alteri, omnibus manentibus post substitutionem, sicut fuerant ante substitutionem.
+
+Coroll. Diversa existere non possunt, nisi alterum ponatur existere extrà alterum.
+
+XXXVI. Si plura diversa, numerum determinatum agnoscentia, concurrant in uno Ente constituendo, Ens illud est TOTUM; & plura diversa, ad Ens illud constituendum concurrentia, sunt PARTES illius.
+
+Coroll. Essentia Totius consistit in concursu diversorum, numero finitorum, ad Unum ens constituendum, per def. 12. & 36.
+
+XXXVII. MAGNITUDO in genere non est, nisi multitudo partium.
+
+Scholion I. Vulgò Multitudo dicitur Magnitudo discreta: nos eam vocamus Magnitudinem in genere, quæ secundum LEIBNITIUM est objectum Arithmeticæ, in Epistolâ Berolino VI. FEB. cIɔIɔCCVII. ad me datâ.
+
+Scholion II. Veteres partes discretas vocabant, quæ non θέσιν, sed τάξιν agnoscunt, h. e. quæ solâ serie, quà se invicem consequuntur, distinguuntur, ut unâ earum assumtâ, pro primâ, alia fiat secunda.
+
+[p. 25] secunda & alia tertia, &c. Hinc Numerum dicebant, multitudinem, serie consequentia distinctam, adeoque compositum de Collectione unitatum; graece ita numerum definiunt: ἀριθμός ἐστι τὸ ἐκ μονάδων συγκείμενον πλῆθος & brevius: ἀριθμὸς μονάδων σύνθεσις, apud JOACHIMUM CAMERARIUM de graecis latinisque Numerorum notis.
+
+XXXVIII. MAGNITUDO DETERMINATA est multitudo partium, quatenus per certum numerum assignari potest.
+
+XXXIX. MENSURABILE est, quod determinatam agnoscit magnitudinem.
+
+XL. MENSURARE est inter plura ejusdem speciei, Unum pro unitate, quae MENSURA dicitur, assumere, & quoties in reliquis continetur, inquirere.
+
+XLI. QUANTITAS est id, quod in mensurandâ magnitudine pro Unitate assumitur.
+
+Coroll. LEIBNITIUS hinc rectè dicere solebat, Quantitatem omnem esse ἄρρητον quid, quod quidem exhiberi, sed nullo modo explicari possit.
+
+XLII. QUALITAS est omnis determinatio intrinseca Entis, quâ illud distingui potest ab omni alio, quod non est Ens illud.
+
+Coroll. Qualitates entium verbis alteri explicare possumus.
+
+XLIII. DISSIMILIA sunt, in quibus qualitates se non eodem modo habent.
+
+XLIV. SIMILIA sunt, in quibus omnes qualitates sese eodem modo habent.
+
+Coroll. I. Similium interna differentia sola est quantitas.
+
+Coroll. II. Hinc rectè LEIBNITIUS in Epistola Hanoverâ III. Januar. cIↃ IↃ ccX. ad me datâ : Similia distinguuntur per comprasentiam, vel per applicationem mensurae tertiae ad utrumque similium, quae saepè sit insolâ mente. (durchs Augen-Maaß.)
+
+XLV. SIMILITUDO est identitas qualitatum.
+
+Scholion : Objectum Geometriae non sola Magnitudo, sed & similitudo est : Geometriae.
+
+[p. 26] est : ex gr. Magnitudinem trianguli determinamus per numerum mensurarum quadratarum, similitudinem per situm. LEIBNITIUS in Epistolâ XXX. Martii cIↃ IↃ ccXII. Hanoverâ ad me datâ.
+
+XLVI. PRINCIPIUM IDENTITATIS INDISCERNIBILIUM est id, in quo ratio sufficiens invenitur, cur non existant duo Entia per omnia similia, per def. 16. & 31.
+
+Coroll. I. Existentia eorundem extrà se invicem, in nullo rationem sufficientem invenit, per def. 31. & 15.
+
+Coroll. II. Duo Entia non possunt esse eadem, per def. 46.
+
+Coroll. III. In propositione hâc : Si duo Entia sunt eadem, sunt duo, hypothesis est impossibilis, per coroll. 2. Videatur ipse PHILOSOPHUS Epistol. V. ad CLARK. §. XXVI. Tom. I. du Recueil, p. 94. 95.
+
+XLVII. COMPOSITIO (STRUCTURA) est determinatio combinationis partium diversarum, ad unum tertium constituendum concurrentium.
+
+XLVIII. COMPOSITUM ABSOLUTE (ENS COMPOSITUM) est id, quod ex compositione resultat.
+
+Coroll. Omne Totum est compositum, non contrà, per def. 36.
+
+XLIX. ESSENTIA COMPOSITI est ipsa compositio, per def. 12. & 47.
+
+Scholion : ex gr. Essentia arboris, quatenus est compositum, est ipsa compositio ejusdem ex radice, trunco & ramis.
+
+Coroll. Essentiam compositi non ingrediuntur partes partium, nisi quatenus ab illarum determinata combinatione pendet possibilitas ipsius compositi, per cor. def. 12. 47. 48.
+
+L. CONTINUITAS est compositio, quae nullarum partium inter partes, ad unum tertium constituendum concurrentes, existentiam intermediam admittit.
+
+Scholion I. Ideam continuitatis ingrediuntur diversitas & compositio plurium, quae nullam aliorum admittunt existentiam inter se intermediam.
+
+Scholion II. Continuitas involvit Plenitudinem, & opponitur Vacuo.
+
+[p. 27] Scholion III. Veteres Partes continuas vocant, si adsit aliquod commune, quod connexionis continuationem determinet. NICOMACHUS Lib. I. Arithmeticae apud CAMERARIUM loc. cit. Rerum aliae sunt conjunctae, atque confertae & concretae, ut unum quiddam sint, ex. gr. animans, stirps, mundus ipse, quorum omnium proprium est, ut Magna appellentur : aliae sunt discretae & applicatae quasique coacervatae, quae vocantur Multa, ut grex, populus, coetus, acervus. Determinata haec sub Scientiam cadunt. Sunt autem Magna & multa per se & simpliciter infinita: illa diminutione, haec incremento. Quapropter multa definienda sunt copiâ, id est, eo, quod πόσον, id est quantum dicimus: & magna definienda sunt mole, id est, eo, quod πηλίκον sive quàm grande vocamus. Parens scientiarum est Arithmetica, quâ sublata evanescunt & caeterae : sed non contrà; sublatis caeteris, & jam haec ipsa evanescit. Ex. gr. si non sint tria aut quatuor, non poterit esse triquetra s. triangula aut quadrata figura : sed figuris his sublatis, nihilo tamen minus tria & quatuor remanent. Quod quantum dicimus, Arithmetica considerat per se & solum, ut par, impar, quadratum ; Musica relatum ad aliud, ut duplex, dimidium, majus, minus, sesqui, tertiâ parte amplius. Quod quàm grande sit quaerimus, in eo spectatur vel status, & habet scientiam, cujus nomen est Geometria, vel motio, & habet scientiam, quae vocatur Spherice. Atque patet, sine his Sapientiam non posse constitui, atque studium hujus, hoc est, Philosophiam. Hactenus NICOMACHUS. Placet summopere Modestia veterum, Philosophiam sollicitè ab ipsâ Sapientiâ distinguentium, cujus nulla creatura per finitudinem essentiae suae capax est. Hinc Apostolus Rom. XVI. 27. DEUM vocat μόνον σοφόν. Creaturae autem rationales, quatenus parvae quaedam in suo genere quasi sunt divinitates, sapientiam pro modulo essentiae suae per philosophiam repraesentant. Conf. Diatriba nostra de Enthusiasmo Platonico, curis secundis edenda, Sect. VII. §. XXXV.
+
+LI. PARTES PERFECTE SIMILES, SIMILITER INTER SE COMPOSITAE sunt, quae non admittunt partes dissimiles intermedias, alio modo compositas, per def. 43. 44.
+
+LII. CONTINUUM EJUSDEM SPECIEI (MA-
+
+[p. 28] GNITUDO CONTINUA, (GEOMETRICA)) est multitudo partium, perfectè similium, similiter in uno ita compositarum, ut nullarum partium admittant existentiam intermediam, per def. 37. 50. & 51.
+
+Scholion. Ideam Magnitudinis Geometricae ingrediuntur Continuitas & similitudo perfecta compositionis & partium compositarum.
+
+LIII. SIMILITUDO RELATIONIS est id, quod plura, ad se invicem relata, commune inter se habent, per def. 45.
+
+LIV. LEX (REGULA) est formula generalis, quae similitudinem relationis exprimit.
+
+LV. ORDO est similitudo relationis diversorum, quae, in connexione mutuâ spectata, non involvunt contradictionem, quatenus ex lege quâdam facilè cognoscibilis est.
+
+LVI. ORDO COEXISTENTIARUM est similitudo relationis diversorum coëxistentium, ex simultaneâ unius extrà alterum existentiâ & peculiari unius à reliquis omnibus distantiâ, vi cujus uno assumto pro primo, aliud fit secundum, aliud tertium &c. facilè cognoscibilis.
+
+LVII. SPATIUM non est nisi ordo coëxistentiarum continuarum possibilium.
+
+Scholion. Ideam Spatii ingrediuntur ideae diversitatis, continuitatis & coëxistentiae, sed quatenus sunt possibilia.
+
+LVIII. INFINITUM MATHEMATICUM est modus loquendi, quo, multitudini alicujus nullum numerum aequalem assignari posse, innuimus.
+
+Scholion. Videatur LEIBNITIUS in Actis Eruditorum Lipsiensibus Anni cIↃ IↃ ccXII. p. 168.
+
+LIX. SPATIUM INFINITUM est ordo partium continuò coëxistentium possibilium, quarum multitudini nullus numerus aequalis assignari potest, per def. 57. & 58.
+
+LX. SITUS (actualis scil.) non est, nisi ordo coëxistentiarum non continuarum.
+
+[p. 29] Scholion. Ideam Situs actualis ingrediuntur diversitas coëxistendi & ipsa coëxistentia ; sed praecisâ continuitate coëxistendi.
+
+LXI. LOCUS non est , nisi ordo coëxistentiarum continuarum.
+
+Scholion I. Hanc Loci ideam in nobis invenimus , attendentes ad existentiam nostri ipsius & aliarum rerum extrà nos & extrà se invicem, & inquirentes in modum coëxistendi, quem omnia coëxistentia, ad se invicem relata, inter se communem habent. Videatur etiam LEIBNITIUS Epist. V. ad CLARK. §. XLVII. p. 105.
+
+Scholion II. Ideam Loci ingrediuntur diversitas, coëxistentia & continuitas. LEIBNITIUS loc. cit. Tom. I. p. 138.
+
+Coroll. I. Locus est situum collectio. LEIBN. loc. cit. p. 107.
+
+Coroll. II. Essentia Loci differt ab essentia compositi , quod dicitur esse in loco, ut determinatio coëxistentiae ab ipso coëxistente, per def. 12, 48, 61 , adeoque ut Modus Entis ab ipso Ente, per def. 11.
+
+Coroll. III. Locus est spatium actuale per def. 57. & Spatium est locus possibilis ; per def. 61. Vid. LEIBNITIUS Epistol. V. ad SAM. CLARK. §. CIV, CV, Tom. I. du Recueil. p. 138. seq.
+
+Coroll. IV. Compositorum unum occupat locum alterius , quatenus eodem modo coëxistit cum existentibus fixis , quo alterum coëxistebat antea cum ipsis: eodem autem modo coëxistit cum aliis existentibus fixis, quo alterum coëxistebat cum iisdem ; si per elongationem ab illis fiat , ex. gr. primum, quod alterum illud erat ante elongationem, per def. 56. Vid. LEIBNITIUS loc. cit. §. XLVII. p. 106. seq.
+
+Coroll. V. Locus à loco solo numero differt.
+
+LXII. PERDURANS est subjectum determinationum omnium, quod ad hanc vel illam suam determinationem specialem se indifferenter habet & unam post alteram consequitur.
+
+LXIII. VARIATIO PERDURANTIS est substitutio diversarum determinationum unius ejusdemque subjecti absoluti , ita ut , posteriore existente , non existat amplius prior.
+
+[p. 30] LXIV. MUTATIO entis in genere non est nisi variatio perdurantis : quae dicitur ACTIO, respectu Entis , in quo cognoscitur principium illius : & quidem INTERNA , si ipsa simul variatio sit in eodem ente. EXTERNA , si sit in alio ente : PASSIO respectu Entis , extrà quod principium variationis cognoscitur : utraque IDEALIS vocatur , quatenus ratio ejus quod in uno cognoscitur , continetur in altero , & neutrum existere potest sine Ideâ opificis , in qua singula omnibus adaptata sunt.
+
+LXV. SCHEMA MUTATIONIS est exemplar, quod variatio perdurantis immediatè respicit.
+
+LXVI. ORDO MUTATIONUM est similitudo relationis diversorum incompatibilium , sive succedentium , ex existentiâ unius extrà alterum continuâ , sed non simultaneâ , & peculiari unius ab alio distantiâ , vi cujus , uno assumto pro primo , aliud fit secundum , aliud tertium , &c. facilè cognoscibilis.
+
+LXVII. TEMPUS (actuale scil.) non est nisi ordo mutationum continuarum.
+
+Scholion I. Hanc Temporis Ideam in nobis invenimus , attendentes ad mutationes animae nostrae , quarum nobis conscii sumus , & quas non omnes simul habemus , sed unam post alteram consequimur.
+
+Scholion II. Ideam Temporis ingrediuntur diversitas , incompatibilitas coëxistendi sive successio , & successionis continuitas. Videat. LEIBNITIUS loc. cit. p. 138.
+
+Coroll. I. Tempus ex principio contradictionis intelligi & explicari debet , per def. 1. & 17. LEIBNITIUS in Epistolâ , Hanoverâ XXXI Octobr. cIↃ IↃ ccVIII. ad me datâ.
+
+Coroll. II. Locus & Tempus ad continuò coëxistentia & succedentia se indifferenter habent , ut numerus abstractus ad rem numeratam, LEIBNITIUS Tom. II. du Rec. p. 418.
+
+Coroll. III. Magnitudo loci & temporis pendet à multitudine coëxistentium & succedentium , per def. 37.
+
+LXVIII. TEMPUS INFINITUM est ordo partium, sibi invicem continuò succedentium , quarum successioni initium
+
+[p. 31] initium & finis assignari non potest per ullum numerum finitum, quantumlibet magnum, per def. 58.
+
+Scholion. Differt tempus infinitum ab Æternitate, quae est proprietas Entis à se, quatenus absolutè est impossibile, ut existentia ejus initium & finem agnoscat.
+
+LXIX. CHAOS dicitur, si plurium diversorum coëxistentia & successio non possint ex certâ lege facilè cognosci.
+
+Coroll. In Chao nullus datur ordo , per def. 56. & 66.
+
+LXX. ENS INFINITUM est Ens , cujus essentia nullorum limitum capax est.
+
+Scholion. Ex incapacitate limitum in Ente infinito fluit, quod Ens tale omne illud sit, quod esse potest, simul ; quam ideam acutissimus Philosophus CHR. WOLFIUS in Metaph. §. CIX. & in Annot. Met. p. 65. Enti infinito assignat.
+
+LXXI. ENS FINITUM est Ens cujus essentia limitum capax est.
+
+Scholion. Atque ex hâc capacitate limitum essentiae fluit demum , quod Ens tale non simul sit id omne , quod esse potest , & proinde successio rationem sufficientem agnoscit in limitibus entis , in quo datur successio , & infinitudo essentiae omnem excludit successionem.
+
+LXXII. ENS MUTABILE est Ens, cujus essentia determinationum aliarum atque aliarum successivè capax est , per def. 63.
+
+LXXIII. ENS IMMUTABILE est Ens, cujus essentia nullarum determinationum successivè capax est , per def. 64.
+
+LXXIV. SUBSTANTIA est Ens , quod principium mutationum in se continet.
+
+Scholion. In definitione Substantiae abstrahendum est à modo , quo Ens principium mutationum contineat ; an eminenter , an formaliter , omniumne simpliciter an limitatè illarum tantùm , quae ad essentiam illius restrictae sunt. Ens autem illud continet eminenter principium mutationum omnium , quod per realitatem suam absolutam & universalem supplere potest limitationes principii cujuscunque mutationum , illud producendo extrà se : & Ens illud continet formaliter princi-
+
+[p. 32] principium mutationum suarum , quod illud secundum essentiam suam continet, ut ab illo intrinsecè possit denominari.
+
+LXXV. SUBSTANTIA NECESSARIA est Substantia , cujus essentia includit existentiam , per def. 25.
+
+LXXVI. SUBSTANTIA UNIVERSALIS est substantia , quae omnes realitates omnium reliquarum substantiarum universaliter & absolutè continet.
+
+LXXVII. SUBSTANTIA SUPREMA est substantia , ante quam nulla alia existit substantia.
+
+LXXVIII. SUBSTANTIA INFINITA est substantia , cujus essentia in nullâ realitate limitum capax est , per def. 70.
+
+LXXIX. SUBSTANTIA FINITA est substantia , cujus essentia in omnibus suis realitatibus limitum capax est , per def. 71.
+
+LXXX. SUBSTANTIA COMPLETA est substantia , quae vim agendi simplicem & vim patiendi sive resistentiam simplicem in se habet.
+
+LXXXI. ACCIDENS est modus substantiae finitae.
+
+Coroll. Accidens non potest egredi è substantiâ per def. 11.
+
+LXXXII. CONATUS est nisus sive tendentia continua ad producendam mutationem.
+
+LXXXIII. VIS in genere non est nisi conatus Entis.
+
+LXXXIV. FACULTAS est possibilitas conatûs.
+
+Coroll. I. Vis est medium quid inter facultatem & inter ipsam actionem , per def. 54. & def. 64.
+
+Coroll. II. Vis est perdurans quid , per def. 62.
+
+Coroll. III. Vis est principium mutationum , per def. 16. & 82.
+
+Coroll. IV. Tot facultates sunt specie diversae , quot mutationes , specie diversae , sunt possibiles.
+
+LXXXV. ENS SIMPLEX est Ens , quod partibus caret.
+
+LXXXVI. MONAS non est nisi Ens simplex.
+
+LXXXVII. MONAS ORIGINARIA (PRIMITIVA, INCREATA) est Ens simplex , quod existere potest , nullis
+
+[p. 33] nullis aliis entibus simplicibus existentibus, per cor. def. 29.
+
+Scholion. Atque hanc intelligit PLATO per τὸ ἕν, de cujus perfectionibus praeclare disserit in PARMENIDE. Videatur Diatriba mea de Enthusiasmo Platonico. Sect. VII. §. XL.
+
+LXXXVIII. MONAS DERIVATIVA, (CREATA) est Ens simplex, quod, non existente Monade origanaria, existere non potest.
+
+Coroll. Omnis Monas derivativa est Ens ab alio sive Ens creatum, per def. 20.
+
+LXXXIX. PERDURANS MONADIS DERIVATIVAE est individuum illud & absolutum subjectum omnium determinationum intrinsecarum monadis derivativae, quod ad nullam earum restrictum est, & omnes, quarum Monas per essentiam suam capax est, successivè consequitur, per def. 62.
+
+XC. GRADUS est qualibet determinatio intrinseca perdurantis Monadis creatae.
+
+XCI. VARIATIO PERDURANTIS MONADIS CREATAE est substitutio diversorum graduum, ita ut gradu posteriore succedente, transeat prior, per def. 63.
+
+XCII. MUTATIO MONADIS CREATAE est variatio perdurantis ejusdem, per def. 64.
+
+Scholion. In omni mutatione Monadis derivativae, datur perdurans aliquod, quod est subjectum individuum omnium graduum, ad eosdem se indifferenter habens, & aliquid transiens, quod est gradus, qui variatur, consequenter omnis mutatio Monadis derivativae involvit multitudinem: quatenus gradus sequens rationem sufficientem existentiae suae agnoscit in gradu praecedenti, à sequentibus diverso, adeoque in gradu quolibet praesenti, praeter diversitatem à reliquis includitur aliqua ad praecedentes & consequentes schesis, consequenter multitudo simultanea in subjecto individuo; eaque non interna, sed externa; non realis ipsius subjecti; sed repraesentativa tantum objecti sive termini, ad quem repraesentatio extrà monadem refertur, in ipsà monade.
+
+[p. 34] XCIII. ACTIO MONADIS UNIUS IN ALTERAM est mutatio, in unà monade existens, quatenus ejusdem ratio distinctè cognoscitur in aliâ Monade, per def. 64.
+
+XCIV. PASSIO MONADIS CREATAE, est mutatio ejusdem, cujus principium distinctè cognoscitur, extra ipsam, per def. 64.
+
+XCV. CONATUS MONADIS DERIVATIVAE est tendentia ejusdem continua ad producendas omnes mutationes in se ipsâ, quâ facultates ejus diversae, quarum per essentiam suam capax est, in actum deducuntur à Monade, se ipsam ad earum hanc vel illam determinante, per def. 82. & def. 92.
+
+XCVI. VIS MONADIS DERIVATIVAE, non est nisi conatus ejusdem, per def. 83.
+
+Coroll. I. Vis Monadis derivativae est principium internum omnium mutationum, per def. 16. & 95. quatenus determinatio ejusdem non in causâ efficiente externa tendente, sed in ipsâ monadis essentiâ rationem existentiae suae sufficientem invenit.
+
+Coroll. II. Vis Monadis derivativae est perdurans, per def. 89.
+
+XCVII. FACULTAS PERCEPTIVA MONADIS DERIVATIVAE in genere est facultas repraesentandi multitudinem externam in subjecto simplici, ita ut repraesentatio rationem sufficientem existentiae suae agnoscat in solâ essentiâ subjecti repraesentantis.
+
+Coroll. Facultates perceptivae specie diversae esse possunt in uno eodemque subjecto simplici, per cor 4. def. 84.
+
+XCVIII. APPETITUS in genere est conatus ad producendam novam repraesentationem, qui rationem sufficientem existentiae suae agnoscit in repraesentatione praecedenti.
+
+Coroll. I. Appetitus est tendentia continua monadis derivativae ad producendas mutationes in se ipsâ, per def. 95.
+
+Coroll. II. Appetitus ad sui consummationem tempus requirit, per def. 82.
+
+[p. 35] Coroll. III. Facultas appetitiva est possibilitas appetitûs, per def. 84.
+
+XCIX. PERCEPTIO MONADIS DERIVATIVAE est ipsa repraesentatio in subjecto individuo multitudinis, extra illud positae.
+
+Coroll. Perceptio est mutatio monadis derivativae, per def. 92.
+
+Scholion I. PHILOSOPHUS omnem mutationem monadis creatae vocat Perceptionem: quia intellectus infinitus in mutationibus singulis monadum creatarum, per respectûs, quos habent ad multitudinem, extrà monadem positam, intuetur ipsam multitudinem externam.
+
+Scholion II. Atque hanc Perceptionis ideam in nobis invenimus, attendentes ad ea, quae ex. gr. uno oculi ictu nobis repraesentamus, & ad minimam quamlibet cogitationem, cujus nobis conscii sumus, quae involvit varietatem aliquam in objecto, adeoque multitudinem quandam, repraesentatam in Monade.
+
+C. SCHEMA REPRAESENTATIONIS est pars multitudinis, quam gradus quilibet subjecti individui immediatè repraesentat, & secundùm quam subjectum individuum totam repraesentat multitudinem.
+
+CI. CLARITAS REPRAESENTATIONIS est distinctio totius repraesentationis à quâcunque aliâ, conjuncta cum conscientiâ distinctionis.
+
+CII. OBSCURITAS REPRAESENTATIONIS est absentia claritatis quà ipsam repraesentationem.
+
+CIII. DISTINCTIO REPRAESENTATIONIS est claritas repraesentationis notarum, repraesentationem aliquam ingredientium.
+
+CIV. CONFUSIO REPRAESENTATIONIS est absentia claritatis, quà notas, repraesentationem ingredientes.
+
+CV. ADAEQUATA REPRAESENTATIO est quae in gradu distinctionis pervenit usque ad prima & irresolubilia, repraesentationem ingredientia.
+
+CVI. LEX APPETITUUM est formula generalis, quae exprimit id, quod successiones perceptionum inter se commune
+
+[p. 36] ne habent, vi cujus praecedens perceptio se habet ad sequentem, ut finis ad medium, per def. 54. & def. 98. 99.
+
+Coroll. Tot sunt Leges appetituum, specie diversae, quot sunt perceptiones specie diversae.
+
+Scholion I. ex gr. Volitio oritur ex praecedente perceptione distinctâ boni; ita tamen ut facultas interna se ipsum determinandi, hàc positâ occasione, ad hanc, non aliam determinationem saltem excitetur, non cogatur, & semper determinatio opposita maneat possibilis, secundùm Legem Appetitûs rationalis, quae involvit conscientiam motivorum determinationis & possibilitatem sese determinandi in oppositam partem, etiam jam factâ determinatione ex bonitate praevisâ inclinante, non necessitante: adeoque specie diversa est à Lege Appetitûs sensitivi, quae non involvit conscientiam rationis determinationis, sed solam spontaneitatem, vi cujus salvâ essentiâ Monadis, determinatio in partem oppositam, in se est possibilis.
+
+Scholion II. Lex appetituum generaliter procedit inclinando monadem ad perceptionem mediorum producendam, per productionem perceptionis finis; adeoque fundatur in collatione causarum finalium cum appetitibus. Quae collatio in Monadibus nudis nullam involvit conscientiam, in animabus sensitivis conscientiam, in rationalibus etiam reflexionem.
+
+CVII. SPONTANEITAS est facultas, se ipsum determinandi ex principio interno.
+
+Coroll. Spontaneitas involvit contingentiam absolutam, per def. 21.
+
+Scholion. Videatur ipse PHILOSOPHUS in Theodicaea Part. III. §. CCXC. p. 478. & §. CCCI. p. 491.
+
+CVIII. Si in totâ repraesentatione respectu subjecti repraesentantis nihil sit clari, dicitur PERCEPTIO NUDA vel SIMPLEX.
+
+Coroll. Perceptio nuda excludit conscientiam, per def. 101.
+
+CIX. APPETITUS NUDUS est conatus ad novam perceptionem nudam, per def. 98. & 108.
+
+CX. MONAS NUDA est monas derivativa perceptione nuda & appetitu nudo praedita.
+
+Scholion. Dicitur etiam Entelechia ἀπὸ τῦ ἔχειν τὸ ἐντελὲς. Unde
+
+[p. 37] Unde HERMOLAUS BARBARUS eam latinè per perfectihabeam interpretatur. Videantur, quae de inventore hujus vocis habet BAELIUS in Dictionario art. Barbarus Hermol. p. 473. col. 1.
+
+CXI. Si in repraesentatione multitudinis externae in subjecto simplici, respectu ipsius subjecti repraesentantis, aliquid sit clari, cujus id sibi conscium est, se id ab aliis distinguere, dicitur APPERCEPTIO (CONSCIENTIA)
+
+Coroll. I. Apperceptio includit claritatem repraesentationis, per def. 101.
+
+Coroll. II. Omnis Perceptio distincta, est apperceptio, per def. 103.
+
+CXII. APPETITUS APPERCEPTIVUS est conatus ad novam apperceptionem, per def. 98. & 111.
+
+CXIII. ANIMA in genere est Monas derivativa apperceptione & appetitu apperceptivo praedita.
+
+CXIV. SENSUS EXTERNUS est facultas Animae sibi clarè repraesentandi multitudinem externam praesentem in subjecto simplici; quatenus illa in partibus alicujus compositi dissimilaribus mutationes prae aliis extantiores producit.
+
+Scholion. Ex. gr. Mutationes luminis in oculo, soni in aure, effluviorum in naribus, corporum in lingua & palato, vel in fibris nerveis subcutaneis totius corporis per contactum factas.
+
+CXV. SENSATIO est ipsa repraesentatio clara in subjecto individuo mutationum, à multitudine externâ praesente in subjecto aliquo composito productarum.
+
+Coroll. I. Sensatio est apperceptio, per def. 101 & cor. 2. def. 111.
+
+Coroll. II. Sensatio quà id, quod continet rationem sufficientem existentiae suae agnoscit in schemate ejus ad externam multitudinem praesentem.
+
+Coroll. III. Sensatio non est in potestate animae sentientis.
+
+Scholion. Ex. gr. non est in potestate animae nostrae, ut objectum nigrum videat album, &c.
+
+CXVI. IMAGINATIO (PHANTASIA) est facultas animae sibi clarè repraesentandi in subjecto simplici mutationes à
+
+[p. 38] nes à compositis externis, nunc absentibus, olim in subjecto aliquo composito productas, ex occasione praesentium, cum quibus semel fuerunt conjunctae.
+
+Coroll. I. Imaginatio debilior est sensu externo, per def. 114.
+
+Coroll. II. Imaginatio supponit sensum externum, per def. 115.
+
+CXVII. PHANTASMA est ipsa repraesentatio clara in subjecto simplici mutationum, à multitudine externâ praesente in subjecto aliquo composito olim productarum.
+
+Coroll. I. Phantasma est apperceptio, per def. 101. & cor. 2. def. 111.
+
+Coroll. II Phantasma est debilius sensatione; eandemque praesupponit.
+
+Scholion. Ita phantasmata noctu fortiora sunt, quam interdiu, quia anima se tum ad sensûs externos non determinat.
+
+Coroll. II. Sensationes & phantasmata sunt animae mutationes, per def. 99. & 92.
+
+CXVIII. MEMORIA est facultas animae agnoscendi reproductionem sensationum & phantasmatum, semel productorum.
+
+Coroll. Impotentia imaginationis est principium impotentiae memoriae.
+
+CXIX. APPETITUS SENSITIVUS est conatus ad novam sensationem, qui rationem sufficientem existentiae suae agnoscit in sensatione aliâ praecedenti, per def. 98. & 115.
+
+Coroll. I. Appetitus sensitivus est vis animae, per def. 83.
+
+Coroll. II. Appetitus sensitivus est principium sensationis. per cor. 3. def. 84.
+
+CXX. AVERSATIO SENSITIVA est conatus ad impediendam productionem sensationis, qui rationem sufficientem existentiae suae agnoscit in sensatione aliquâ praecedenti.
+
+Coroll. I. Aversatio sensitiva plus infert, quam nudam absentiam appetitûs sensitivi.
+
+[p. 39] Coroll. II. Facultas sensitivae appetitiva & aversativa sunt principium internum appetitûs sensitivi & aversationis sensitivae, per cor. 2. def. 98. & def. 16.
+
+CXXI. CONSECUTIO PERCEPTIONUM est expectatio similis perceptionis ei, quae jungebatur perceptioni, jam semel ab animâ productae.
+
+Scholion. Dicitur etiam Sensus internus.
+
+CXXII. ANIMA SENSITIVA est anima, quae praeter perceptionem nudam & appetitum nudum, sensu, & appetitu sensitivo atque aversatione sensitivâ, imaginatione item & memoriâ praedita est.
+
+Scholion. Ideam hanc Animae sensitivae acquirimus per reflexionem ad requisita cognitionis Universalis.
+
+CXXIII. INTELLECTUS est facultas animae, id, quod plures sensationes singulares & phantasmata inter se commune agnoscunt, sive quae in illis similia sunt, in subjecto individuo sibi distinctè repraesentandi.
+
+CXXIV. SIMILIA IN SENSATIONIBUS sunt, quae in sensationibus confusa, & ab iisdem abstracta, possibilia sunt, & in quibus illae cum phantasmatis conveniunt.
+
+Coroll. Quicquid in sensibus externis & imaginatione distinctum est ad Intellectum pertinet.
+
+CXXV. COGITATIO (IDEA) est ipsa repraesentatio distincta in subjecto individuo eorum, quae in sensationibus vel phantasmatis pluribus singularibus similia sunt, per voces determinatae significationis facta.
+
+Scholion. COGITATIONEM in his demonstrationibus ab Apperceptione in genere distinguimus & pro apperceptione universalium accipimus: Monadibus nudis perceptionem nudam, Animabus in genere apperceptionem sive conscientiam; animabus sensitivis in specie, sensationes & phantasmata, animabus rationalibus in specie Cogitationem assignantes: Ita pariter Philosophi veteres per τὴν ἰδέαν intellexerunt abstractum aliquid à sensationibus. Vid. Diatriba de Enthusiasmo Platonico, curis secundis edenda. Sect. VII. §. 34. 45. 46.
+
+[p. 40] Coroll. I. Cogitatio in genere est mutatio animae, per def. 99. & 92.
+
+Coroll. II. Cogitatio in specie est apperceptio possibilium, adeoque Cogitatio Universalium, per cor. 2. def. 111. & 123.
+
+Coroll. III. Sensationes & phantasmata fiunt cogitationes, sive Ideae per abstractionem eorum, quae omnibus communia sunt, & repraesentationem distinctam notarum illa ingredientium per voces determinatae significationis factam.
+
+Scholion. Ex. gr. Sensationes colorum singularium ingrediuntur plura, quae per voces determinatae significationis à se invicem distingui possunt, & haec inter quaedam omnibus coloribus communia sunt, adeoque vocibus universalibus seorsim repraesentari possunt, ut ex Sensationibus colorum singularium fiat Cogitatio coloris in genere.
+
+CXXVI. JUDICIUM est conjunctio aut separatio duarum idearum diciturque INTUITIVUM, si intuitu subjecti, in quo praedicatum contineri observamus, formetur.
+
+CXXVII. RATIO est facultas animae sibi distinctè repraesentandi in subjecto individuo connexionem trium judiciorum inter se.
+
+CXXVIII. RATIOCINIUM est ipsa distincta repraesentatio trium judiciorum, quorum primum formatur intuitu subjecti, in quo praedicatum contineri observatur, secundum occasione prioris, ex sensationibus reproductis, cum conscientiâ reproductionis, & tertium ex duobus praecedentibus.
+
+CXXIX. SCIENTIA est promtitudo unum possibile ex alio deducendi per ratiocinium.
+
+CXXX. APPETITUS RATIONALIS (VOLUNTAS) est conatus ad producendam novam cogitationem, ex cogitatione aliâ praecedenti ortus.
+
+Scholion. Videatur ipse PHILOSOPHUS Part. I. Theodicaeae §. XXII. p. 133. & 134. §.LI. p. 163. Part.III. §.CCCXI.p.500. §. CCCXXV, CCCXXVI. p.515.seqq.
+
+CXXXI. AVERSATIO RATIONALIS (NOLUNTAS) est conatus impediendi productionem cogitationis, ex cogitatione praecedenti de eodem objecto ortus.
+
+Coroll. I. Noluntas plus infert, quàm nudam voluntatis absentiam,
+
+[p. 41] tiam, quatenus praeter absentiam cogitationis alicujus objecti, involvit praesentiam cogitationis de opposito ejusdem Objecti.
+
+Coroll. II. Facultates Animae appetitiva & aversativa rationalis sive volendi & nolendi, sunt principium internum voluntatis & noluntatis, per def. 16. & cor. 2. def. 98.
+
+CXXXII. ANIMA RATIONALIS (SPIRITUS FINITUS) est anima, quae praeter perceptionem nudam, appetitum nudum, sensum externum, appetitum sensitivum & aversationem sensitivam, imaginationem & memoriam, praedita est intellectu & voluntate.
+
+Scholion. Ex pluralitate facultatum animae rationalis specie diversarum, patet possibilitas definitionis Leibnitianae 99.
+
+CXXXIII. FACULTAS ATTENDENDI est facultas animae rationalis obtinendi claritatem repraesentationis unius prae aliâ.
+
+CXXXIV. FACULTAS ABSTRAHENDI est facultas animae rationalis non attendendi partes unas in repraesentatione aliquâ prae aliis, ut non fiant tam clarae, quam illae, quas sibi anima conatur repraesentare.
+
+CXXXV. FACULTAS REFLECTENDI est facultas animae rationalis comparandi partes repraesentationis plures quà convenientiam & differentiam.
+
+Coroll. Facultas reflectendi includit facultatem abstrahendi & attendendi.
+
+CXXXVI. REALITAS ABSOLUTA est possibile, praecisè sumtum, sive ab omni negatione abstractum.
+
+Scholion. Ex. gr. Distinctio repraesentationis in quocunque intellectu finito possibili negationem gradûs summi distinctionis involvit. Quod si igitur distinctio abstrahitur ab illâ negatione, distinctio ipsa, tanquam intellectûs finiti qualitas, ab adhaerente negatione abstracta, est Realitas absoluta.
+
+Coroll. I. Gradus involvit realitatem cum limitatione, h. e. positivi & negativi quid simul, per def. 90.
+
+Coroll. II. Quoniam multitudo realitatum absolutarum in nullo Ente creato est absolutè necessaria, h. e. in omni ente creato ejus-
+
+[p. 42] ejusdem speciei alii realitatum gradûs possibiles sunt absolutè: Omne Ens creatum est contingens per def. 20. & 22.
+
+CXXXVII. CAUSA EFFICIENS est Ens, quod alteri enti realitatem absolutam confert.
+
+CXXXVIII. AUCTOR OMNIUM est causà efficiens omnis realitatis absolutae extra se.
+
+Scholion : PHILOSOPHUS etiam vocat Auctorem naturae; per naturam hoc loco rerum universitatem intelligendo. §. 9, 68, 86.
+
+CXXXIX. CAUSA DEFICIENS est Ens, quatenus alteri realitatem vel nullam vel non sufficientem vel non omnem confert.
+
+CXL. PERFECTIO est magnitudo realitatis absolutae.
+
+Scholion : Ubi adest magnitudo, h. e. multitudo realitatum absolutarum per def. 37. ibi nulla locum habet negatio, consequenter nullus dissensus, consequenter Perfectio Entis involvit consensum plurium in uno Ente. Est autem Consensus relatio plurium conjunctorum inter se ad communem scopum, vi cujus omnia ad illum conservandum vel obtinendum conducunt : Scopus est omne id, quod ex consensu plurium resultat ; commune id, ad quod praestandum plura concurrunt ; criterium consensûs est id, per quod intelligitur, sequi commune resultans ex relatione plurium, inter se conjunctorum. Absolutè igitur Perfectum dum omnem continet realitatem possibilem absolutè, involvit consensum maximum possibilem infinitarum realitatum in uno. Ex quibus manifestum est, WOLFIO optimè convenire cum LEIBNITIO. Videatur WOLF in Met. §. CLII. collat. BÜLFFINGERI Dilucidat. Philos. Sect. I. cap. VI. §. CXXII. p. 122. seq.
+
+CXLI. PERFECTIO ESSENTIALIS est multitudo realitatum absolutarum in uno ente, sine quibus essentia entis salva esse non potest.
+
+Scholion : Ex. gr. Distinctio est perfectio essentialis repraesentationis, & quo plures sunt gradûs distinctionis in aliquâ repraesentatione, eo repraesentatio est perfectior. per def. 103.
+
+CXLII. PERFECTIO ACCIDENTALIS est multitudo realitatum absolutarum, quae, salvâ essentiâ alicujus entis, abesse possunt.
+
+[p. 43] CXLIII. FELICITAS est confluxus perfectionum.
+
+CXLIV. AMOR PURUS est promtitudo voluntatis percipiendi delectationem ex alterius felicitate.
+
+Scholion : Est haec definitio PHILOSOPHI in Epistolâ Hanoverà xxv. Julii cIↄ Iↄccvii. ad me datâ: Amor verus, qui mercenario opponitur, est ille mentis affectus, quo ferimur ad delectandum alterius felicitate ; quam adoptavit WOLFIUS Metaph. §. CCCCXLIX.
+
+CXLV. ENS ABSOLUTE PERFECTUM est Ens, quod continet omnem realitatem possibilem absolutè: ENS PERFECTUM IN SUO GENERE est Ens, quod continet omnem realitatem, in aliquo Entium genere simul possibilem.
+
+CXLVI. MONAS DERIVATIVA PERFECTIOR est, in quâ distinctè cognoscitur ratio mutationis, quae fit in aliâ monade.
+
+CXLVII. BONUM est id omne, quod Ens reddit perfectius.
+
+CXLVIII. BONITAS est promtitudo voluntatis, Ens aliud extrà se reddendi perfectius.
+
+CXLIX. CAUSA FINALIS (FINIS) est perceptio boni ; vel confusè repraesentati, per Sensûs & Imaginationem, vel distinctè per Intellectum, quam producere conatur Anima rationalis per Voluntatem.
+
+CL. MEDIUM est ratio sufficiens, cur finis potius producatur, quam non producatur.
+
+Coroll. Repraesentatio finis est principium repraesentationis mediorum, per def. 16.
+
+CLI. MEDIUM NATURALE est ratio sufficiens, cur finis producatur, quae in solâ rei alicujus essentiâ fundatur.
+
+CLII. SAPIENTIA est scientia inveniendi media, finibus obtinendis proportionata, eademque cum finibus ita connectendi, ut finis unus sit medium alterius.
+
+Scholion : Haec definitio Sapientiae, adoptata à Celeb. WOLFIO,
+
+[p. 44] FIO, Met. §. DCCCCXIV. est antiquissima. Neque enim veteres Philosophi Sapientiam tantùm vocârunt rerum sublimium scientiam ; sed & scientiam media connectendi cum finibus. Videatur PHAVORINUS in Lexico.
+
+CLIII. MOTIVUM est bonitas praevisa (sive obscurè tantum, sive clare, sive etiam distinctè repraesentetur) in quâ determinatio animae rationalis interna in hanc potius, quàm oppositam partem rationem sufficientem existentiae suae invenit.
+
+CLIV. MOTIVUM FORTIUS (PRAEVALENS) est gradus bonitatis maximus praevisus (sive obscurè, sive clarè, sive distinctè repraesentetur) in quâ determinatio animae rationalis interna praevalens rationem sufficientem existentiae suae invenit.
+
+Coroll. I. Motivum praevalens voluntatem ita inclinat ad sui productionem, ut illam animae rationali hic & nunc persuadeat.
+
+Coroll. II. Motivum praevalens includit acquiescentiam voluntatis in repraesentatione bonitatis maximae, sed talem, ut determinatio in partem oppositam semper maneat possibilis, & saepè etiam, (factâ licet jam determinatione) fiat actualis per cor. 2. def. 91.
+
+CLV. OPTIMUM est bonum praevalens, quod inter plura, inaequaliter bona ; factâ aestimatione totali, voluntatem gradu bonitatis suae eminente, ad sui productionem quàm maximè inclinat.
+
+CLVI. LIBERTAS est facultas se ipsum determinandi ex principio interno cum conscientiâ motivorum determinationis, ad producendam potius, quàm non producendam repraesentationem optimi.
+
+Coroll. I. Libertas includit Spontaneitatem per def. 107.
+
+Coroll. II. Libertas involvit Intellectum & Voluntatem per def. 122. & 129.
+
+CLVII. LEX SAPIENTIAE est illa generalis agendi ratio, secundum quam voluntas Sapientis se non ad agendum determinat, nisi ob repraesentationem graduum bonitatis vel plurium vel majorum, sive secundum quam gradus bonitatis sunt motiva Sapientis tanto fortiora, quo plures sunt & majores.
+
+[p. 45] CLVIII. PRINCIPIUM MELIORIS est id, in quo ratio sufficiens invenitur, cur sapiens in agendo constanter Legem Sapientiae observet, per def. 16.
+
+CLIX. JUSTITIA est bonitas, secundùm Legem Sapientiae administrata.
+
+Scholion I. Idea haec Justitiae involvit constantem & perpetuam voluntatem agentis, cui tribuitur, jus suum cuique tribuendi : prout Sacratissimus Imperator JUSTINIANUS Justitiam definit, pr. Inst. de I. & I. quatenus scil. Bonitas tribuit unicuique, & Sapientia repraesentat bonitati Jus, h. e. id, quod pro rei convenientiâ vel tribuere liceat, vel negare oporteat. Quomodo ex hâc Ideâ Justitiae omnia deduci possint ejusdem attributa, jam solidè ostendit BÜLFFINGERUS in Dilucid. Philos. Sect. IV. cap. III. §. CCCCXLV — CCCCLI. incl. p. 500 — 511. incl.
+
+Scholion II. In quo consistat exercitium hoc bonitatis secundum Sapientiae Legem Pythagorica JUSTITIAE definitio determinat per distributionem aequalitatis, cuique congruentis, medii, quadrato numero impari comprehensi, ne per distributionem inaequalitatis alius plus, alius minus obtineat. Scilicet medius numerus, inter numeros ab 1. & 9. ordine in jugo librae utrinque dispositos, est 5 (Greek), quam ideò JUSTITIAE encomio ornârunt. Vid. MEURSIUS in denario Pythag. Cap. VII. p. 65. 67. Pythagorei, & per examen medium in jugo librae adumbrârunt. Jam numerus quadratus impar primus est 9. adeoque 5. est illud medium, quadrato numero impari comprehensum.
+
+CLX. IMPERFECTIO est absentia perfectionis.
+
+CLXI. MALUM est quod ens reddit imperfectius.
+
+Scholion : PHILOSOPHUS malum triplex facit. Malum metaphysicum vocat nudam absentiam perfectionum in entibus creatis, quarum recipiendarum per essentiam suam sunt incapaces: malum physicum vocat absentiam perfectionis, cujus recipiendae ens creatum
+
+[p. 46] tum capax est: (ex. gr. Solutio continui est malum physicum corporis humani, quia essentiam ejus, quae in modo compositionis consistit, destruit, adeoque absentiam perfectionis infert, cujus corpus humanum per essentiam suam capax est.) Malum denique morale (Peccatum, Culpam) vocat absentiam perfectionis, in voluntate animae rationalis adesse debitae. (ex. gr. perfectio voluntatis humanae est constans ejusdem inclinatio versus optimum, non confusè per sensûs, sed distinctè per intellectum cognitum, & proinde imperfectio voluntatis humanae est absentia tendentiae ulterioris ad perfectionem summam, & acquiescentia in sensu perfectionis, quam excitant voluptates sensuales, vel aliae quaevis, cum jacturâ majoris boni, ut valetudinis, virtutis &c. conjunctae, quae absentia cum in voluntate adesse non debeat, dicitur Malum Morale.)
+
+CLXII. Si malum physicum culpâ animae rationalis fuerit contractum, ejusdem sensus est POENA.
+
+Scholion : ex. gr. Sensus solutionis continui, sive perceptio ejusdem confusa animae dicitur Dolor : hic autem rationem poenae habet, si culpâ agentis rationalis fuerit contractus.
+
+CLXIII. POENA NATURALIS est sensus mali physici, qui rationem sufficientem existentiae suae agnoscit in successione impressionum in corporibus, secundùm leges motuum, à DEO sapientissimè electas, factâ.
+
+CLXIV. POENA POSITIVA est sensus mali physici, cum culpâ connexus, qui rationem sufficientem existentiae suae agnoscit in speciali sanctione ipsius Legislatoris.
+
+CLXV. STATUS MONADIS CREATAE est perceptio totalis, sive perceptio, quae resultat ex omnibus perceptionibus partialibus praesentibus, simul sumtis.
+
+CLXVI. STATUS PERCEPTIONUM OBSCURARUM est status, quem ingrediuntur perceptiones partiales omnes obscurae.
+
+CLXVII. STATUS PERCEPTIONUM CLARARUM est status, quem ingrediuntur perceptiones partiales saltem clarae.
+
+[p. 47] CLXVIII. STATUS PERCEPTIONUM DISTINCTARUM est status, quem ingrediuntur perceptiones partiales distinctae.
+
+CLXIX. STUPOR est status Monadis creatae, in quo ne quidem perceptio totalis clara est.
+
+Scholion. Talem animae nostrae statum experimur in Vertigine, Deliquio animi, & Somno profundo absque insomnio.
+
+CLXX. MONADATUM (SUBSTANTIATUM) est compositum ex monadibus per aggregationem, per def. 48.
+
+Scholion I. Sicut ex non-mixturâ fit mixtura, ex non-exercitu fit exercitus per compositionem: ita pariter ex non-aggregato (simplicibus) fit aggregatum (compositum) per compositionem.
+
+Scholion II. LEIBNITIUS in Epistolâ Brunsuigâ IV. Septembr. cIↄ Iↄccxvi. ad me datâ: Substantiatum ego appello aggregatum ex monadibus.
+
+Scholion III. Dici possent Monades, stylo Leibnitiano, partes Monadatorum, sed non nisi infinitè parva, quae scilicet infinities sumtae partem aliquam Monadati constituunt, per def. 58.
+
+Scholion IV. LEIBNITIUS ita rationes inire solebat : Substantiale vel est substantia simplex, vel substantiatum : hoc vel Unum per se, vel Unum per accidens, in Epistolâ Berolino XIX. Febr. cIↄ Iↄccvii. ad me datâ.
+
+Scholion V. Aliàs compositum ex Monadibus in Principiis Philosophiae §. 1. 2. & dans sa Replique aux reflexions de Mr. BAYLE Tom. II. du Recueil. p. 400. vocat Compositum absolutè, quia omne compositum ens est propter Monades in partes ejus ingredientes. Hae autem solae sunt verae atque reales Unitates. Minus accuratè dicitur Substantia composita ; quamvis ipse LEIBNITIUS interdum cum vulgò loquatur, in his ipsis principiis §. 17. & 30.
+
+Scholion VI. Antiquissimi Graecorum Philosophi Composita vocârunt (Greek), phaenomena, Entia autem simplicia dixerunt (Greek). Haec secundùm eosdem sunt verae & constantes naturae : illa nomine tantùm sunt res, quae sensibus subjiciuntur, non solâ animi intelligentiâ comprehenduntur. Hinc Philosophiam definierunt Scientiam in rebus & naturis veritatis ; scientiam autem comprehensionem rei subjectae immotam, quam rerum nomine talium esse volunt, quatenus veras naturas quodam respectu atque
+
+[p. 48] que casu, participant. Multitudo multiplicando & dividendo semper agitatur & est instabilis atque fluxa. Haec ex JOACHIMI CAMERARII Libro de graecis latinisque numerorum notis & praeterea Sarracenicis seu Indicis, ideò adduco, ut constet, quam benè cum antiquitate conveniat definitioni Philosophiae Wolfianae per Scientiam possibilium, quà talium, in Elem. Aerometriae in Prefatione & in Ratione Praelectionum Sect. II. cap. I. §. 2. seqq. ab ipso propositae.
+
+CLXXI. ELEMENTUM MONADATI est id, quod in monadatum actu ingreditur, ex quo intelligi potest, cur illud ita potius, quàm aliter existat.
+
+CLXXII. MATERIA est id, quod ex continuâ resistentiarum simplicium in Monadatis coëxistentiâ resultat.
+
+Coroll. I. Principium materiae est resistentia simplex Monadum per def. 16.
+
+Coroll. II. Ideam materiae ingrediuntur, resistentiae Monadum simplices, resistentiarum coëxistentia, & coëxistentiae continuitas.
+
+Coroll. III. Ut instans ad tempus, ita Monas ad materiam.
+
+Coroll. IV. Ubi nulla materia, ibi nullus est locus, per def. 61.
+
+CLXXIII. MUTATIO MONADATI est variatio vel multitudinis, vel similitudinis, vel aequalitatis, vel ipsius compositionis partium monadati ; per def. 64. & def. 170.
+
+CLXXIV. MUTATIO LOCI CONTINUA est variatio ordinis, quem diversa, continuò coëxistentia, inter se servant, quatenus determinatio ultima relationis existentis ad alia coëxistentia fixa, non succedit primae, nisi praecesserint omnes intermediae, in quibus ratio sufficiens continetur, cur determinatio ultima successerit primae per def. 64, 61, 55, & 50.
+
+CLXXV. FACULTAS LOCO-MOTIVA est possibilitas conatûs ad producendam loci mutationem, per def. 84.
+
+Coroll. Cùm modus, quo locus mutari potest, tantùm sit unicus possibilis, facultas etiam loco motiva non admittit diversas species, per def. 175.
+
+[p. 49] CLXXVI. MOTUS est mutatio loci continua.
+
+Coroll. I. Motus est continuum, à loco & tempore diversum, per def. 61. & 67. LEIBNITIUS Tom. II. du Recueil. p. 418.
+
+Coroll. II. Motus involvit existentiam unius cum coexistentibus reliquis diversis temporibus diversam.
+
+Coroll. III. Nullus motus fit in instanti, per def. 50.
+
+Coroll. IV. Nullus motus fit per saltum, per def. 51.
+
+Scholion : Est autem Saltus cùm ab extremo ad extremum devenitur, non transeundo per intermedia, in quibus ratio habetur transitûs ab uno extremo ad alterum.
+
+Coroll. V. Ut materia ad Locum, ita se habet motus ad tempus, LEIBNITIUS Epist. V. ad CLARK §. LXII. p. 119.
+
+CLXXVII. MOTUS INTERNUS est mutatio loci continua in iisdem partibus alicujus compositi.
+
+CLXXVIII. PLAGA est punctum, quod determinat linea recta, à principio motûs ducta.
+
+CLXXIX. DIRECTIO est plaga, versus quam motus tendit.
+
+CLXXX. DIRECTIO TOTALIS est directio, ex directionibus partialibus singularum materiae partium simul sumtis, resultans.
+
+CLXXXI. CELERITAS MOTUS est ratio spatii ad tempus.
+
+Scholion: Sit spatium r, tempus t, erit celeritas motûs r/t
+
+CLXXXII. QUANTITAS MOTUS est gradus, qui in mensurandà auctione vel diminutione celeritatis pro unitate assumitur, per def. 41.
+
+Scholion. Sit materia m, celeritas c, erit quantitas motûs mc.
+
+CLXXXIII. LEX MOTUUM est formula generalis, exprimens id, quod consecutiones diversae motuum ex motibus inter se commune habent, quatenus omnis motus oritur ex motu per trusionem, quà pars materiae, ab extrà determinata, trudit alteram, per def. 54.
+
+[p. 50] Coroll. Lex motuum non admittit diversas species, per cor: def. 176.
+
+CLXXXIV. LEX APPETITUUM ET MOTUUM GENERALIS est formula generalis eadem, sed in monadibus & monadatis ita determinata, ut ratio determinationis motûs sit in monadibus & ratio determinationis perceptionis sit in monadatis.
+
+CLXXXV. CONATUS PARTIUM MATERIAE est nisus sive tendentia continua partium materiae ad producendum motum, quae se ad directionem omnem & celeritatem motûs indifferenter habet, quà facultas loco motiva, directione & celeritate motûs ab alio principio externo determinatà, in actum deducitur, per def. 82. & 177.
+
+Scholion I. Conatus hic in omnes plagas solum illud est, quod in motu partium materiae reale est. Quodsi enim directio à principio externo determinetur, motus necessariò sequitur, & impossibile est, positâ hàc motûs determinatione in uno, non sequi hunc motum in altero, nisi impediatur. Jam verò sublato impedimento nihil novi accedit partibus motis, quod ante non inerat.
+
+Scholion II. LEIBNITIUS in Epistolà Berolino XV. Febr. "CIↃ IↃCCVII. ad me datà: Praeter tres dimensiones singula puncta, ex. gr. in cubo gravitatem & impetum recipiunt.
+
+CLXXXVI. VIS MOTRIX non est nisi conatus partium materiae.
+
+Coroll. I. Vis motrix est medium quid inter motum & facultatem loco-motivam, per cor 1. def. 84.
+
+Coroll. II. Vis motrix est perdurans quid, per cor. 2. def. 84.
+
+CLXXXVII. QUANTITAS VIRIUM MOTRICIUM est gradus, qui in mensurandà auctione vel diminutione virium motricium pro unitate assumitur, per def. 41.
+
+CLXXXVIII. QUANTITAS VIRIUM MOTRICIUM TOTALIS est collectio omnium graduum earundem, quorum tot accedunt uni parti materiae, quot alteri ejusdem parti, decedunt.
+
+[p. 51] CLXXXIX. IMPETUS est conatus partium materiae, cujus directio ab aliâ parte materiae ab extrà est determinata.
+
+Coroll. I. Vis motrix est principium externum impetûs, quatenus directionis determinatio in principio externo trudente rationem sufficientem existentiae suae invenit, per def. 186. & def. 16.
+
+Coroll. II. Impetus est principium externum motûs, per def. 177. & 16.
+
+Coroll. III. Motus sequitur impetum nisi impediatur.
+
+CXC. NATURA non est nisi Vis motrix : dicitur que PARTICULARIS, quatenus ab essentià monadati determinatur; UNIVERSALIS, quatenus se ad omnem essentiam monadatorum indifferenter habet.
+
+CXCI. ORDO NATURAE est coexistentia & successio motuum, è pluribus possibilibus perfectissima.
+
+CXCII. ATOMUS NATURAE est Ens, in quod natura composita per motum dividere non potest.
+
+CXCIII. DIVISIBILITAS est qualitas materiae, vi cujus partes ejusdem, mediante motu, à se invicem separari possunt.
+
+CXCIV. CORPUS est id, quod resultat ex compositione partium materiae & naturà praeditum est.
+
+Coroll. I. Corpus est compositum, per def. 48.
+
+Coroll. II. Essentia corporis est structura vel compositio partium materiae inter se, per def. 49.
+
+Coroll. III. Corpus respectu materiae est passivum, respectu naturae activum.
+
+Scholion. Ideam corporis ingrediuntur ideae materiae, structurae, sive compositionis & naturae.
+
+CXCV. STATUS CORPORIS est collectio omnium impressionum, quas recipiunt partes corporis à corporibus ambientibus, quatenus omnes illae efficienter concurrunt ad determinationes motuum, statum corporis consequentem absolventium.
+
+[p. 52] CXCVI. INFLUXUS CORPORIS IN ALIUD CORPUS est mutatio corporis per motum; quatenus principium externum motus est in alio corpore, & dicitur ACTIO, respectu corporis, motum in altero corpore determinantis, PASSIO respectu corporis, cujus motus ab extrà determinatur, per def. 64.
+
+CXCVII. CORPUS ORGANICUM (ORGANA) est compositum dissimilare, cujus mutationes extantiores monas derivativa sibi immediatè & clarè, & secundum quod reliquorum omnium mutationes sibi mediatè & obscurè repraesentat in suo simplici.
+
+Scholion I. Ex. gr. Oculus humanus per structuram suam, à partibus aliis corporis humani diversam, fortiorem à lumine impressionem recipit, quàm ab aliis corporibus ambientibus, ita ut hinc impressio luminis in oculo facile secernatur ab impressione ejusdem luminis, ex. gr. manûs illabentis.
+
+Scholion II. LEIBNITIUS in Epistolà Hanoverà XV. Decembr. "CIↃ IↃCCCVII. ad me datà : Vellem corpus humanum describi, principio sumto à causà finali, seu officio, & dicere soleo : esse machinam conservanda contemplationis gratià inventam. Alias corpus humanum est machina, ut ita dicam, pyrobolico-hydraulico-mechanica.
+
+CXCVIII. PHAENOMENON est perceptio, quae, quà id, quod continet, rationem sufficientem existentiae suae agnoscit in relatione ad impressionem, quam corpora in organis sensoriis producunt.
+
+Coroll. Phaenomena non sunt in animae potestate.
+
+Scholion : Phaenomenon dicitur Observatio ; si se offerat nobis, nihil ad id cooperantibus : Experimentum ; si à nobis ipsis applicando agens naturale ad patiens eliciatur.
+
+CXCIX. EXTENSIO est perceptio continuitatis in diversis coexistentibus, sive continuitas diversorum coexistentium, in subjecto individuo repraesentata.
+
+Coroll. Perceptio solius coexistentiae plurium diversorum, praecisà continuitate, non involvit extensionem.
+
+[p. 53] CC. FIGURA est perceptio terminorum continuitatis, in diversis coexistentibus, sive termini continuitatis diversorum coexistentium in subjecto individuo repraesentati.
+
+CCI. ATOMUS MOLIS est pars materiae indivisibilis, & determinatam tamen agnoscens magnitudinem & figuram.
+
+CCII. MONAS DERIVATIVA DOMINANS (CENTELECHIA CREATA DOMINANS) est Ens simplex, cui respondet corpus aliquod organicum.
+
+CCIII. UNUM PER SE est Monadatum, quod à Monade dominante vegetatur, sive Monas incorporata.
+
+Scholion I. Tale est Homo, Ovis; LEIBNITIUS in Epistolà Berolino XV. Febr. CIↃ IↃCCVII. ad me datà.
+
+Scholion II. IDEM Tomo II. du Recueil. p. 329. Une veritable substance, telle, qu' un animal, est composée d' une ame immaterielle & d' un corps organique ; & c' est le composé de ces deux, qu' on appelle unum per se.
+
+CCIV. UNUM PER ACCIDENS est Monadatum, quod à nullà Monade dominante monadatur.
+
+Scholion: Tale est Exercitus, Grex ovium. LEIBNITIUS in Epistolà modo citatà.
+
+CCV. Si unum per accidens componatur ex aliis monadatis, quae etiam sunt unum per accidens, est MASSA.
+
+Scholion : Talis massa est Caseus, acervus lapidum. LEIBNITIUS loc. cit.
+
+CCVI. VIVENS est monas nuda, cum corpore organico conjuncta; diciturque CORPUS VIVUM simpliciter.
+
+Coroll. Vivens est compositum, per def. 48.
+
+CCVII. ANIMANS (ANIMAL) est anima, cum corpore organico conjuncta ; sive corpus vivum, cujus monas dominans est Anima.
+
+Coroll. Omne animans est Vivum ; non contrà.
+
+CCVIII. ANIMANS SIMPLEX (ANIMAL IRRATIONALE) est anima sensitiva, cum corpore suo organico spectata ; sive corpus vivum, quod ab animà sensitivà dominante vegetatur.
+
+[p. 54] spectata ; sive corpus vivum, quod ab animà sensitivà dominante vegetatur.
+
+CCIX. ANIMAL RATIONALE est Anima rationalis sive spiritus, cum corpore suo organico spectatus ; sive corpus vivum, cujus monas dominans est Spiritus.
+
+CCX. ANIMAL SPERMATICUM est animalculum, cui non repugnat elevatio ad gradum animantium majorum.
+
+CCXI. ANIMAL SPERMATICUM ELECTUM est animal spermaticum, quod actu per conceptionem transformatur in animal alterius speciei.
+
+CCXII. ANIMAL SPERMATICUM NON ELECTUM est animal spermaticum, quod speciem suam non mutat per conceptionem.
+
+CCXIII. MACHINA (AUTOMATON) est Ens, cujus mutationes rationem sufficientem agnoscunt in essentià illius.
+
+CCXIV. MACHINA INCORPOREA est Ens simplex, cujus mutationes secundùm legem appetituum ex essentià illius indivisibili successivè consequuntur, ut in praecedenti mutatione ratio sufficiens existentiae consequentis mutationis contineatur.
+
+Scholion : Ideam Machinae incorporeae in nobis invenimus, attendentes ad Memoriam.
+
+CCXV. MACHINA CORPOREA est compositum, cujus proprietates & mutationes omnes rationem sufficientem existentiae suae in structurà ejusdem, sive compositione, agnoscunt.
+
+CCXVI. MACHINA CORPOREA DIVINA (AUTOMATON CORPOREUM NATURALE) est machina corporea, quae in minimis partibus in infinitum est machina corporea.
+
+CCXVII. MACHINA CORPOREA HUMANA (AUTOMATON CORPOREUM ARTIFICIALE) est
+
+[p. 55] est machina corporea, quae non manet machina corporea in quâlibet suà parte.
+
+Scholion. Mechanicè explicare est ex figuris & compositione partium effectus compositi deducere.
+
+CCXVIII. GENERATIO (ORTUS) NATURALIS est modus, quo monadatum aliquod existere incipit, qui intelligi & explicari potest per successivam partium compositionem.
+
+CCXIX. MORS (INTERITUS) NATURALIS est modus, quo monadatum aliquod existere desinit, qui intelligi & explicari potest per successivam partium dissolutionem.
+
+Coroll. I. Per generationem & mortem naturalem inexistentia essentiae in hoc vel illo monadato mutatur, per cor. def. Essent. non ipsa essentia compositi.
+
+Coroll. II. Generatio & mors sunt mutationes compositorum, per def. 171.
+
+CCXX. GENERATIO PERFECTA ET RIGOROSE SIC DICTA (ORTUS TOTALIS) est modus, quo monas derivativa possibilis in instanti fit actualis.
+
+CCXXI. MORS PERFECTA ET RIGOROSE SIC DICTA (INTERITUS TOTALIS) est modus, quo monas derivativa existens in instanti existere desinit.
+
+CCXXII. MUNDUS (UNIVERSUM CREATURARUM, RERUM UNIVERSITAS) est aggregatum omnium simplicium & compositorum, simul & successivè existentium, sive inter se secundùm locum & tempus connexorum.
+
+Scholion. Videatur PHILOSOPHUS Epistol. V. ad CLARK. §. LIX. p. 118.
+
+CCXXIII. DEUS est Ens, quod continet rationem sufficientem existentiae hujus potius mundi, quàm alterius cujuscunque possibilis.
+
+Scholion. BOETHIUS de Consolatione Philosophiae Lib. III. Prosà XII. p. 1058. Hoc, quicquid est, quo condita manent atque agitantur, usitato cunctis vocabulo DEUM nomino.
+
+[p. 56] CCXXIV. CERTITUDO EVENTUUM (DETERMINATA VERITAS FUTURORUM) est qualitas universi alicujus possibilis, vi cujus nullum in eo factum assignari potest, cujus non una contradictoriarum ab aeterno vel vera fuerit vel falsa.
+
+Coroll. Certitudo eventuum est principium praescientiae eorundem, per def. 16.
+
+CCXXV. ARCHITECTUS est, cujus intellectus operis alicujus ideam invenire potest, fini, sibi proposito, satisfacientem.
+
+CCXXVI. ARCHITECTUS (INVENTOR) UNIVERSI CREATURARUM est, cujus intellectus Ideam universi creaturarum illam invenire potest, quae fini sibi proposito satisfacit.
+
+CCXXVII. PERFECTIO MAXIMA MUNDI est realitas absoluta omnium mundi partium inter se connexarum, maxima possibilis per def. 140.
+
+CCXXVIII. INFLUXUS DEI (ACTIO DEI EXTERNA) est illud, ex quo ratio ultima reddi potest illius, quod in mutationibus entium creatorum absolutè reale est.
+
+CCXXIX. CREATIO MUNDI est actio DEI externa, ex quà ratio ultima reddi potest, cur Mundus aliquis possibilis fiat actualis.
+
+Coroll. Generatio perfecta involvit creationem.
+
+CCXXX. CONSERVATIO MUNDI est creatio continua omnis realitatis absolutae in entibus creatis.
+
+CCXXXI. ANNIHILATIO est actio DEI externa, ex quà ratio ultima reddi potest, cur aliquid, quod existit, existere desinat in instanti.
+
+CCXXXII. INDESTRUCTIBILITAS est qualitas monadis derivativae, quatenus existentia ejus desinere non potest nisi per annihilationem.
+
+Coroll. Indestructibilitas est oppositum mortis perfectae, per def. 221.
+
+[p. 57] CCXXXIII. IMMORTALITAS est indestructibilitas animae rationalis, in quantum illa indestructibilitatis suae etiam sibi conscia est.
+
+CCXXXIV. INTELLECTUS DEI est adaequata & simultanea omnium possibilium repraesentatio.
+
+Coroll. Intellectus divinus est merus actus.
+
+CCXXXV. SAPIENTIA DEI est scientia connectendi finem generalem cum specialibus talis, ut speciales sint media omnes fines simul possibiles plenissimè & brevissimè obtinendi.
+
+CCXXXVI. VOLUNTAS ABSOLUTE PERFECTA est conatus infallibiliter producendi repraesentationem boni alicujus possibilis distinctam pro gradu bonitatis ejusdem.
+
+Scholion. Conatus hic involvit (1.) consensum repraesentationis bonitatis cum ipso objecto, qui ex perfectione intellectûs pendet, (2.) consensum volitionis cum repraesentatione motivorum, (3.) consensum volitionis unius cum altera, (4.) consensum volitionis cum potentia, executioni praesidente, per Schol. def. 140.
+
+CCXXXVII. VOLUNTAS DEI est conatus absolutè perfectus infallibiliter producendi repraesentationem adaequatam optimi possibilis.
+
+CCXXXVIII. LIBERTAS DEI est perfectio divinae voluntatis, vi cujus rationem ultimam determinationis suae non habet aliam, nisi adaequatam Optimi repraesentationem.
+
+Coroll. DEUS liberrimè agit, quatenus motivum agendi praevalens in ipso non est, nisi adaequata repraesentatio Optimi.
+
+CCXXXIX. VOLUNTAS DEI ANTECEDENS est conatus absolutus & praevius producendi omne bonum, ab intellectu divino adaequatè repraesentatum.
+
+CCXL. NOLUNTAS DEI ANTECEDENS est conatus absolutus & praevius impediendi omne malum,
+
+[p. 58] quatenus nulla schesis mali datur, quâ illius odium mutari possit in amorem.
+
+CCXLI. VOLUNTAS DEI PRAESUMTIVA est determinatio divinae voluntatis, cujus connexio cum optimo ab animâ rationali ante eventum praesumitur.
+
+CCXLII. VOLUNTAS DEI CONSEQUENS est conatus finalis, praevalens & decretorius producendi repraesentationem adaequatam Optimi.
+
+CCXLIII. MIRACULUM est mutatio, cujus ratio sufficiens non continetur in essentiis quorumcunque entium creatorum.
+
+Coroll. Miraculum, propriissimè sic dictum, involvit necessarium respectum ad solam & immediatam DEI voluntatem. Vid. PHILOSOPHUS in Theodic. Part. II. §. CCVII. p. 382.
+
+CCXLIV. BONITAS DEI est promtitudo divinae voluntatis intensissima, creaturis omnibus conferendi perfectiones, quarum per essentiam suam capaces sunt, universas, per def. 148.
+
+CCXLV. JUSTITIA DEI est bonitas DEI secundum Legem Sapientiae DEI administrata, per def. 159.
+
+CCXLVI. POTENTIA DEI est abundantia realitatis tanta, quae exhibendae existentiae cujuscunque possibilis simpliciter, sufficiens est.
+
+Coroll. Voluntas DEI est exercitium potentiae divinae per def. 236. 237. Conf. PHILOSOPHUS Part. I. Theodicaeae §. VII. p. 115.
+
+Scholion. Hinc IDEM in Principiis hisce §. XLIX. Potentiam DEI vocat fontem omnium, h. e. principium omnis realitatis extrà DEUM, quatenus possibilitas rerum involvit necessarium respectum ad aliquod Existens, cujus vires illius existentiae exhibendae sufficiunt, h. e. quod Potens est.
+
+CCXLVII. POTENTIA DEI RELATA ad possibile, simpliciter tale, ABSOLUTA ; ad possibile respectivum ORDINATA vocatur.
+
+[p. 59] CCXLVIII. MAGNITUDO DEI est potentia DEI cum Sapientiâ DEI conjuncta.
+
+CCXLIX. GLORIA DEI est satisfactio, quam DEUS invenit in cognitione & admiratione perfectionum suarum, in spiritibus finitis excitatis.
+
+CCL. MANIFESTATIO GLORIAE DIVINAE est repraesentatio perfectionum divinarum in perfectione Mundi à DEO producti, quatenus illae à spiritibus finitis intelliguntur, & admirationem maximam possibilem in illis excitant.
+
+CCLI. GLORIAM DEI SERIO INTENDERE est conari efficere actionibus suis, ut oriatur in animabus rationalibus divinarum perfectionum solida cognitio & intima admiratio.
+
+CCLII. FELICITAS DIVINA est perfectionum omnium confluxus, per def. 143. & Schol. def. 140.
+
+CCLIII. AMOR PURUS DEI est promtitudo voluntatis creatae percipiendi delectationem ex felicitate divinâ, per def. 144.
+
+CCLIV. CULTUS DEI (PIETAS PHILOSOPHICA) est actio animae rationalis, cujus motivum est divina perfectio.
+
+Scholion. Est haec definitio Cel. WOLFII, quam dedit in Ratione suarum Praelectionum Part. II. cap. IV. §. XXVIII. p. 198. mirefice moralibus foecunda.
+
+CCLV. SOCIETAS est conjunctio diversorum entium rationalium, ad certum finem obtinendum.
+
+CCLVI. CIVITAS DEI est Societas DEI & spirituum finitorum, simul sumtorum, cujus finis communis est gloria DEI.
+
+CCLVII. BEATITUDO SPIRITUUM FINITORUM est progressûs spirituum finitorum non impeditus ad perfectiones plures & majores : quae MAXIMA POSSIBILIS est, si ad perfectiones maximas, quarum Spiritus finiti
+
+[p. 60] per essentiam suam finitam capaces sunt, continuò tendat.
+
+Scholion. BOETHIUS de Consolatione Philosophiae Lib. III. Prosâ II. Oper. p. 1009. Beatitudo est status bonorum omnium (quorum scilicet creatura rationalis per essentiam suam capax est) aggregatione perfectus.
+
+CCLVIII. MONARCHIA est civitas, in quâ ab unius arbitrio cura beatitudinis Universorum pendet : quae vocatur UNIVERSALIS, si omnia Entia rationalia, societatis capacia, complectatur.
+
+CCLIX. MONARCHA est, à cujus arbitrio cura beatitudinis reliquorum omnium in Monarchiâ pendet ; qui dicitur OPTIMUS, quatenus voluntas ejus fertur ad conferendam omnibus in civitate perfectionem maximam possibilem ; per def. 243. idemque dicitur PERFECTISSIMUS, quatenus illius magnitudo & bonitas procurandae beatitudinis maximae omnium animarum rationalium sufficiunt, per def. 247.
+
+CCLX. MONARCHIA PERFECTISSIMA est monarchia, cujus Monarcha est perfectissimus.
+
+CCLXI. CIVIS BONUS est anima rationalis sive spiritus finitus, qui voluntatem Monarchae optimi & perfectissimi praesumtivam constanter exequi conatur : MALUS est, qui voluntatem suam voluntati illius praesumtivae non conformat.
+
+CCLXII. MISERIA est status perpetuae calamitatis Civis boni.
+
+CCLXIII. REGNUM CAUSARUM EFFICIENTIUM est connexio causarum efficientium inter se, à quâ pendent motûs monadatorum.
+
+CCLXIV. REGNUM CAUSARUM FINALIUM est connexio causarum finalium inter se, à quâ pendent mutationes monadum.
+
+CCLXV. REGNUM NATURAE (PHYSICUM) MECHANISMUS est utrumque regnum, quatenus mutatio-
+
+[p. 61] tationes monadum per fines & media, & motûs monadatorum per causas efficientes producuntur.
+
+CCLXVI. HARMONIA IN GENERE est relatio plurium ad se invicem, vi cujus unum inveniri potest ex altero.
+
+CCLXVII. HARMONIA REGNI CAUSARUM EFFICIENTIUM ET CAUSARUM FINALIUM est talis connexionis causarum efficientium inter se ad connexionem causarum finalium inter se relatio, à DEO praevisa, vi cujus una inveniri potest ex altera, per def. 265, 262, 263.
+
+CCLXVIII. HARMONIA ANIMAE ET CORPORIS HUMANI est connexio perceptionum singularum alicujus animae cum determinatis alicujus corporis motibus, à DEO praevisa, vi cujus DEUS existentiam dedit animae, se ipsam sponte determinantis, ad perceptiones suas successive evolvendas, secundùm locum corporis alicujus in universo, eodem ordine, quo sibi succedunt impressiones corporum circumstantium in organa ejusdem sensoria, & corpus tale secundùm illarum exigentiam condidit, quod ad motûs, perceptionibus congruos, per vim motricem justo gradu, ordine & tempore producendos, determinatur, ita ut ex iis, quae fiunt in animâ, possint inveniri, quae fiunt in corpore.
+
+Coroll. Harmonia Animae & Corporis est necessaria Harmoniae utriusque Regni sequela.
+
+CCLXIX. REGNUM GRATIAE (MORALE) est administratio optima regiminis Spirituum finitorum.
+
+Scholion. Dicitur Providentia DEI specialis, quatenus sub hoc regimine optimo nulla actio bona est sine remuneratione, & nulla actio mala est sine poenâ. Conf. etiam LEIBNITIUS in Theodicaeâ Part. I. §. LXII. p. 176. & Tom. II. du Recueil. p. 399. seqq.
+
+CCLXX. HARMONIA REGNI NATURAE ET REGNI GRATIAE est relatio administrationis optimae regiminis spirituum finitorum ad connexionem causarum efficientium & finalium, à DEO praevisa, vi cujus Machina universi corporea talis à DEO electa est, ex quâ regimen
+
+[p. 62] optimum spirituum finitorum inveniri potest, per def. 265, 264 & 267.
+
+CCLXXI. UNUM REPRAESENTAT ALTERUM, si ex dato uno ejusdemque lege, secundùm quam ex suo praecedenti sequitur, inveniri potest alterum, & contra.
+
+CCLXXII. SPECULUM (SIMULACRUM, IMAGO) dicitur id, quod repraesentat alterum.
+
+CCLXXIII. ORIGINALE dicitur id, quod ab alio repraesentatur.
+
+Coroll. Quae in Originali à se invicem distingui possunt, illa ex imagine ejusdem, si perfecta fuerit, inveniri possunt, per def. 270.
+
+CCLXXIV. SIMULACRUM DIVINITATIS EST Ens rationale, cujus ratio agendi repraesentat divinam agendi rationem.
+
+CCLXXV. HARMONIA RERUM UNIVERSALIS PRAESTABILITA est talis omnium Entium simplicium & compositorum in principio rerum ad se invicem relatio, in Ideâ DEI fundata, vi cujus à singulis simplicibus & compositis omnia simplicia & composita in universo, essentiae suae convenienter, repraesentantur, ita ut intellectus DEI in quolibet Ente simplici & composito intueatur omnia quae fuerunt, sunt, & futura sunt in omnibus entibus reliquis simplicibus & compositis, per def. 265.
+
+## [p. 63] AXIOMATA.
+
+### Axioma I.
+
+IDem non potest simul esse & non esse : sive : Idem simul verum & falsum esse non potest.
+
+Scholion I. Axioma hoc dicitur Principium contradictionis, per def. 17.
+
+Scholion II. Observo hic, Principium contradictionis resolvi in Principium Identitatis. Omnis enim Propositio contradictoria (ex. gr. quod caret partibus, illud non caret partibus) ideò falsa est ; quia haec identica, ob intimam scilicet subjecti & praedicati connexionem, cujus ulterior dari ratio non potest, (quod caret partibus, illud caret partibus) vera est. Identica autem quà sensum & sonum mutatur in propositionem, quae fundatur in Principio contradictionis, & haec in illam per mutuam substitutionem vel definitionis aut definiti, sive subjecti sive praedicati, propositionis, vel etiam conceptûs generici loco specifici, &c.
+
+### Axioma II.
+
+QUicquid existit, illud agnoscit rationem sufficientem existentiae suae, cur ita potius, quàm aliter existat.
+
+Coroll. Ens absolutè necessarium agnoscit rationem sufficientem existentiae suae in se ipso : Ens absolutè contingens in alio existente, per def. 24. & 22.
+
+Scholion I. Axioma hoc dicitur Principium rationis sufficientis, per def. 18.
+
+Scholion II. Observo hic, Principium rationis sufficientis resolvi in Principium contradictionis. Eadem enim in Demonstratione WOLFIANA §. XXXI. Instit. Met. sive Cogitat. rat. de DEO, Mundo & Anima humana, non admisso Principio rationis sufficientis, simul sunt eadem & non sunt eadem, quod evertit Axioma I. Sed confer tamen quae monet Cl. GEORG. BERNH. BULFFINGERUS in Dilucidationibus Philosophicis Sect. I. cap. III. §. LXXIX. p. 74. seq.
+
+Scholion III. LEIBNITIUS hoc Axioma negativè effert : Nihil fit sine ratione sufficiente. Vid. BULFFINGERUS loc. cit. Sect. I. cap. III. §. LXXIII. p. 70.
+
+[p. 64] Scholion IV. CICERO Lib. II. de Divinatione fol. 317. b. Nihil fieri sine causa potest, nec quicquam fit, quod fieri non potest. En Principium Rationis sufficientis Leibnitianum, jam CICERONI cognitum & applicatum !
+
+## THEOREMATA.
+
+### THEOREMA I.
+
+#### MONADES EXISTUNT.
+
+Demonstratio.
+
+EXistunt composita ; per experientiam consequenter & partes compositorum, per def. 47, 48. Sed quicquid existit, agnoscit rationem sufficientem existentiae suae, cur ita potius, quàm aliter existat, per ax. 2. Jam partes partium in compositis, in infinitum progredientes, determinatam suam magnitudinem & figuram agnoscunt, per experientiam, consequenter non sunt, nisi composita, per def. 38. 48. & 200. Igitur partes in compositis rationem sufficientem, ex quâ illarum magnitudo & figura intelligi & explicari possint, non agnoscunt in partibus in infinitum, & hypothesis existentiae partium in infinitum, sine hypothesi existentiae simplicium, quae partibus carent, per def. 85. impossibilis est absolutè, per def. 3. Ergo, existentibus compositis, existunt Entia simplicia, consequenter MONADES existunt, per def. 86. Q. E. D.
+
+Scholion I. Quicquid in Monadatis reale est, à Monadibus est. LEIBN. Journal des Sçav. 1695. p. 454. Et sicut numerus, qui est compositum ex collectione unitatum, per Schol. 1. def. 37. intelligi nequit sine unitatibus : ita nec Monadatum sine Monadibus, per def. 170. & Scholion. 1. 5. Hinc LEIBNITIUS MONADES vocat veras atque reales Unitates, l. c. p. 446. Atomos, non molis, sed substantias, itemque Formas substantiales, Entelechias primas, Vires primitivas ibid. p. 447. Puncta Metaphysica p. 453. add. Recueil de diverses Pieces Tom. II. p. 365.
+
+[p. 65] Scholion II. MONAS, id est, UNUM, ita vocatur παρὰ τὸ μένειν, ficut ἀπὸ τῦ πένεσθαι πόνος, ἀπὸ τῦ γίγνεσθαι γένος, & alia similia quàm plurima similiter fiunt. Rationem derivationis hanc assignant veteres, quòd omnis multitudo insistat in Uno, & numerus omnis, cui Unum applicatur, idem permaneat, ut semel duo, semel tria, semel quatuor, &c. PYTHAGORICI τὴν μονάδα definiunt, per ἀρχὴν ἀριθμῦ, ὅτιν μὴ ἔχειν. Ἥτις enim est σημεῖον (Puncti geometrici) σημείων τάξις μονάδος. Bellum est, quod animadverterunt quidam, nomen Μονάς eas habere literas, quae sint notae numeri 361, & circulum, qui Signifer, & Via Solis vocatur, sicut omnem circulum, dividi solere in gradûs, quae sunt μοῖραι 360. Sunt, quibus τὴν ἑνάδα καὶ τὴν Μονάδα pro iisdem accipi, non placet: quod τὸ ἕν (UNUM simpliciter) indivisum sit & nullo modo mutetur & superet atque contineat omnem de quibuscunque cogitationem. Hinc τὸ ἓν νοητὸν ἀριθμὸν vocârunt: quoniam in EO notio numeri tantum sit cogitatio quaedam & mentis contemplatio, non apparente proprietate & naturâ. Multis aliis nominibus τὴν μονάδα insignierunt PYTHAGORICI, ὕλην καὶ πανδοχέα καὶ εἶδος εἰδῶν eam appellantes, quorum quaedam collegit JO. MEURSIUS in Denario Pythagorico cap. III. p. 16 — 23. incl. Ex veteribus, PLATONIS Praeceptor & in successione à PYTHAGORA octavus, ARCHYTAS TARENTINUS scripsisse fertur περὶ τῆς δυάδος, in quo libro sine dubio de essentiâ & proprietatibus numerorum, adeoque & τῆς μονάδος egit. Vid. Cel. JO. ALB. FABRICIUS, Fautor & Amicus noster honoratissimus in Bibliothecâ Graecâ Lib. II. cap. XIII. p. 482. seq. A PETRO BUNGO citatur JOANNES quidam (prout ex Catalogo Auctorum praemisso operi de Numerorum mysteriis conjicio) DEE de Unitate in Margine p. 51. qui scripserit peculiarem Librum, cui titulus est: Monas hieroglyphica. (vide Indicem auctorum) Etsi autem Μονάς tantùm est ἀρχὴ ἀριθμῦ, (fons & origo numeri) omnem tamen numeri vim & potestatem complectitur; οὐκ ἐνεργείᾳ (cum effectu) ἀλλὰ δυνάμει (in quàdam interiore suâ potestate) ἀριθμός. Ita Μονάς numerum & parem & imparem comprehendit; est primus numerus quadratus, primus numerus cubicus &c. DUO generantur quasi per fluxum UNIUS, ut in Geometriâ Linea per fluxum Puncti, & incipiunt esse numerus, sed nondum prorsus sunt, designantque Lineam, quae ab uno extremo ad alterum habet tantùm spatium unius dimensionis 1 ———— 1.
+
+[p. 66] Sed TRIA jam planè numerus sunt. Hinc PYTHAGORICI τριάδι perfectionem tribuunt: ἐνέργεια etiam, non solùm δύναμις eò quod UNUM atque DUO actu comprehendit, & σχῆμα primum ἐπίπεδον, (figuram primam planam) quod est τρίγωνον, spatium habens duarum dimensionum, designat. Sicut OCTO designant primum σχῆμα στερεόν, (figuram primam solidam) ad longitudinem atque latitudinem addens densitatem, σῶμα (moles corporis) adpellatum, spatiumque adeò trium dimensionum agnoscens. Existit enim ὀγδοάς per multiplicationem trium numerorum (bis duo bis sunt octo) & in omni cubo octo sunt anguli solidi. Μονάς secundum PYTHAGOREOS neque numerus est neque pars numeri. Non numerus; quia multitudo non est; non pars numeri; quia omnis pars numeri etiam est numerus: μέρος ἐστὶν ἀριθμὸς ἀριθμῦ, ὁ ἐλάσσων τῦ μείζονος, ὃ ἐὰν καταμετρῇ τὸν μείζονα, ex definitione apud EUCLIDEM. Hinc soli numeri compositi, (quos non UNO tantùm, sed pluribus numeris metiri licet) partem; (ex. gr. 45. habet partem 5. & 9.) numeri primi autem (quos sola μονάς metitur) partes habere dicuntur. (ex.gr. 3. 5. 7.) Atque ex hoc principio negârunt, δυάδα esse numerum perfectum & inchoatum tantùm numerum vocârunt. Cum igitur UNUM non sit numerus, sed numerum tantùm determinet: pars etiam propriè numeri dici nequit: τριάς autem ideò numerus perfectus est; quod natura & proprietas numeri, in ternario perficitur, quatenus in ternario nulla pars est, nisi παρώνυμος totius, hoc est, tertia, quae tamen, cùm non sit numerus, sed UNUM, pars ejus propriè sic dicta non est. At in HEXADE, quae existit per additionem trinam binarii, (ter duo sunt sex) partes 2, 2, 2, tanquam parentes, aequales sunt toti, tanquam soboli. Hinc ἕξας dicitur numerus planus perfectus, constans partibus suis cunctis & τὴν τριάδα complectens, primus inter numeros pariter impares, partibus suis totus completur, medius in tria dividitur, est numerus areae trianguli recti-linei, cujus latera, angulum rectum includentia, sunt 4. & 3. & hypotenusa est 5, continet proportionem arithmeticam, 1, 2, 3, quibus numeris scil. 6. conficiuntur. Cùm omnis tandem multitudo UNITATE circumscribatur, PYTHAGOREI τὴν μονάδα sic definierunt, quòd sit τὸ διωρισμένῃ τινὶ περιγραφῇ θεωρούμενον, apud JOACHIMUM CAMERARIUM de Graecis latinisque Numerorum Notis.
+
+THEO-
+
+## [p. 67] THEOREMA II.
+
+### In Monadibus nulla locum habet extensio.
+
+Demonstratio.
+
+IN Monadibus nullae dantur partes absolutè, per def. 85. & 86. & proinde etiam in Monades non cadit continuitas partium coëxistentium, per def. 50. consequenter nec perceptio ejusdem, per ax. 1. Sed extensio est perceptio continuitatis in partibus diversis coëxistentibus, per def. 199. Ergò in Monadibus nulla locum habet extensio. Q.E.D.
+
+## THEOREMA III.
+
+### In Monadibus nulla locum habet figura.
+
+Demonstratio.
+
+UBI nulla locum habet perceptio continuitatis in partibus diversis coëxistentibus, ibi nec locum habet perceptio terminorum continuitatis in partibus coëxistentibus, per ax. 1. adeoque in Monadibus locum non habet perceptio terminorum continuitatis in partibus coëxistentibus, per theor. 2. Quamobrem in Monadibus nulla locum habet figura, per def. 200. Q.E.D.
+
+## THEOREMA IV.
+
+### In Monadibus nulla locum habet divisibilitas.
+
+Demonstratio.
+
+IN Monadibus nullae prorsus dantur partes, per def. 85. & 86. adeoque nec aptitudo admittendi partium à se invicem separationem, per ax. 1. Quamobrem in Monadibus nulla locum habet divisibilitas, per def. 192. Q.E.D.
+
+## THEOREMA V.
+
+### Monades sunt verae Atomi naturae.
+
+Demonstratio.
+
+IN Monadibus nullae prorsus dantur partes, per def. 85. & 86. adeo-
+
+[p. 68] 86. adeoque nec successivè parti uni post alteram impetus communicari potest, per ax. 1. Sed omnis directio motus & gradus celeritatis in motu ab impetu corporis moti, corpori alteri per partes communicato, producitur, per experientiam. Ergo Monades per se moveri non possunt. Sed quae per se moveri non possunt, illa nec à se invicem per motum separari possunt, per ax. 1. Quamobrem Monades sunt Entia, quae naturâ per motum à se invicem separare non potest, & proinde sunt Entia, in quae natura composita per motum dividere non potest. Ergo Monades sunt verae Atomi naturae, per def. 192. Q.E.D.
+
+Scholion I. Experimenta recentiorum Physicorum ipsam etiam Imaginationem convincunt, quod natura Materiam IN INFINITUM subdividat, h. e. in tot partes, ut possibile non sit, determinare numerum partium, in quamlibet partem materiae datam ingredientium. Conferantur quae habet CHRISTIANUS WOLFIUS in Institut. Physicis Part. I. cap. I. §. III. p. 3. seqq. & §. V. p. 19. seq. Sed partes omnes in qualibet parte minima materiae non sunt nisi composita, & proinde esse non possunt verae Atomi naturae.
+
+Scholion II. Quidam Minima naturae in prima & secunda subdividunt: prima vocantes illas materiae particulas, quae determinatâ figurâ gaudent & omnem prorsus sensum subtilitate sua fugiunt: secunda autem illas materiae particulas, quae ex primorum combinatione oriuntur, & separata quidem Sensoria non afficiunt, in corporibus tamen magis concretis, v. gr. terrâ, aquâ, sale, sulphure, diverso sub schemate id praestant. Ostendit JO. BOHNIUS in Dissertat. Chymico-Physicis Dissert. I. §. XXI. Chymiam in Analysi corporum non progredi ultra Minima secunda.
+
+## THEOREMA VI.
+
+### Elementa rerum non sunt nisi Monades.
+
+Demonstratio.
+
+EX Elementis, quae in partes compositi actu ingrediuntur, intelligi potest, cur partes in composito ita potius, quàm
+
+[p. 69] quàm aliter existant, per def. 171. In existentia igitur Elementorum datur ratio ultima existentiae partium in compositis, per def. 15. Sed in existentia Monadum datur ratio ultima existentiae partium in compositis, per theor. 1. consequenter & Mundi, qui non est, nisi aggregatum omnium simplicium & compositorum, secundum locum & tempus inter se connexorum, per def. 222. Ergo Elementa etiam rerum non sunt nisi Monades. Q.E.D.
+
+Scholion I. LEIBNITIUS Epistol. V. ad SAM. CLARKE, §. XXIV. Tom. I. du Recueil de diverses Pieces sur la philosophie p. 94. „ Il n'y a rien de simple, selon moi, que les veritables „ Monades, qui n'ont point de Parties ni d'Etenduë. Les corps „ simples, & même les parfaitement similaires, sont une suite „ de la fausse position du Vuide & des Atomes, ou d'ailleurs „ de la Philosophie paresseuse, qui ne pousse pas assez l'analyse „ des choses & s'imagine de pouvoir parvenir aux premiers Elemens corporels de la nature: parce que cela contenteroit nô- „ tre Imagination. „
+
+Scholion II. IDEM in Epistolâ, Berolino VI. Febr. cIↄ Iↄccvii. ad me datâ: CARTESII Materia triplicis elementi est contra „ principium rationis sufficientis. Neque enim datur ratio suffi- „ ciens materiam continuam dividendi in partes hujus potius, „ quàm alterius magnitudinis. „
+
+## THEOREMA VII.
+
+### Atomi molis non sunt Elementa rerum.
+
+Demonstratio.
+
+CÙM Atomi molis supponantur esse partes materiae, determinatam agnoscentes magnitudinem atque figuram, & esse tamen simul indivisibiles, per def. 201. patet, de Atomo molis partes diversas, quarum pars A non est pars B, simul affirmari; dum eadem ponitur agnoscere determinatam suam magnitudinem & figuram, per def. 38. 52. & 200; & simul negari; dum eadem assumitur esse indivisibilis, per def. 193. sive (quod eodem recidit) dum affirmatur,
+
+[p. 70] matur, partes ejusdem constituere unicam simplicem entitatem, vel continuum unicum absolutè, vel solidum unicum impenetrabile; adeoque Atomum molis involvere contradictionem, per def. 1. Sed quicquid involvit contradictionem, illud absolutè est impossibile, per def. 3. & proinde Non-Ens, per def. 10. Quamobrem Atomus molis est Non-Ens. Sed Non-Ens non potest ingredi in partes compositorum, consequenter nec ex illo intelligi potest, cur partes ita potius, quàm aliter existant, per ax. 1. Ergò Atomi molis non sunt Elementa monadatorum, per def. 171. consequenter nec rerum, per def. 222. Q.E.D.
+
+Scholion I. LEIBNITIUS in Epistolâ, Hanoverâ XXIII. Junii cIↄ Iↄccvii. ad me datâ: „ Etsi existentia Atomi molis non foret „ contrà divinam potentiam, foret tamen contra divinam sapien- „ tiam. Non enim datur ratio sufficiens, DEUM determinans „ ad subdividendum e. gr. globum terrae, & non subdividendi „ Acarum. Ultimum in natura rerum non datur, quia nulla „ datur ratio terminandi. Ut acarus ad globum terrae, ita hic ad alium majorem. „
+
+Scholion II. Aegrè credo DEMOCRITUM, ἄνδρα σοφώτατον, σοφρονίζειν ἀνθρώπους μῦνον δυνατώτατον, judice HIPPOCRATE in Epistolâ ad DAMAGETUM Oper. Tom. I. p. 25. ed. Paris. in fol. Atomis suis figuram & magnitudinem determinatam assignâsse, & simul tamen easdem pro absolutè indivisibilibus habuisse. Placent, quae apud THOMAM CAMPANELLAM, cujus communicationem, uti aliorum plurimorum rariorum Auctorum, quibus Bibliothecam suam instruxit, debeo Generoso & Amplissimo Viro Dom. D. ZACHARIAE CONRADO AB UFFENBACH Reipublicae Moeno-Francofurtensis Senatori gravissimo, Fautori & Amico honoratissimo, in quaestionibus Physiologicis in Appendice ad quaest. VII. Tom. II. Oper. p. 35. lego: „ LEUCIPPUS inventor atomorum, ex quibus omnia componit, ipsumque secuti DEMOCRITUS & „ EPICURUS Atoma dixerunt propterea indivisibilia, quoniam „ nos non possumus ea dividere, sed tamen dedere illis figuras rotundas, & aculeatas & angulosas, ergo Partes. „
+
+[p. 71] Scholion III. Addo ex F. BERNIER Abregé de la Philosophie de GASSENDI sequentem Atomorum EPICURI descriptionem: „ Il faut remarquer qu'on ne dit pas Atome, parceque ce soit un „ corps, qui n'ait ni parties, ni grandeur, en sorte que ce ne „ soit qu'un poinct mathematique, ou parce qu'il soit d'une „ petitesse extreme, & par consequent une portion de matiere si „ petite, qu'il ne s'en puisse point donner de plus petite; mais „ parce qu'il est tellement solide, dur & compacte, qu'il ne „ donne aucune prise sur luy, & qu'il ne peut estre ni divisé, ni „ coupè, ni aucunement endommagé: PHILOPONUS s'en „ est clairement expliqué. LEUCIPPE, dit-il, DEMOCRITE & „ EPICURE ont veritablement cru les atomes invisibles, à cause „ de leur petitesse, mais indivisibles à cause de leur solidité. „ PLUTARQUE; & quelques autres en disent presque autant. „ L'on dit Atome, c'est à dire grandeur indivisible, ou insecable, & in- „ capable d'estre percée, pliée, rompue, non parce qu'il soit de la der- „ niere petitesse comme un poinct, ou tellement petit, qu'il ne soit possible „ de l'attendre, & de le diviser, mais parce qu'il est solide & „ sans vuide. Aussi est ce pour cela, qu'on definit l'ATOME „ une certaine nature pleine, ou sans aucun vuide, & par conse- „ quent solide & indivisible; comme si une masse corporelle „ n'estoit divisible & dissoluble, que parce qu'elle a les petits vui- „ des, qui en interrompent la liaison, & la continuité, & qui „ donnent entrée à quelque corps etranger, qui ecarte & separe „ ses parties les unes des autres. C'est ce que LUCRECE en- „ tend lorsqu'il enseigne, que les premiers Principes ne peuvent „ estre ni brisez par le choc des corps etrangers, ni pliez, ni rom- „ pus, ni fendus par la moitié, ni couppez en deux, ni enfin „ penetrez par la chaleur, ou par l'humidité, parce que cela ne „ se peut faire sans vuide:
+
+Haec nec dissolvi plagis extrinsecus icta
+Possunt, nec porrò penitus penetrata retexi,
+Nec ratione possunt alia tentata labare:
+Nam neque conlidi sine Inani posse videtur
+Quidquam, nec frangi, nec findi in bina secando:
+Nec capere humorem, neque item manabile frigus
+Nec penetralem ignem, quibus omnia conficiuntur.
+
+[p. 72] Tomo II. Lib. I. cap. X. p. 109. seqq. De Proprietatibus & motu atomorum conferantur cap. XI. XII. XIII. p. 144-170. incl.
+
+Scholion IV. Magnitudo Atomi determinata existit sine ratione sufficiente, contrà ax. 2. & consequenter Atomi molis fundantur in confusâ, quam, mediante Imaginatione, de rerum elementis acquirimus, Ideâ. Sed, εἰλικρινὲς οὐδὲν esse τῶν ἐν αἰσθήσει, jam agnovit PHILO de Mundi Opificio, Operum pag. 5. & Elementa ipsa materiae ad τὸ βάθος divinae magnitudinis pertinent. Conferatur etiam de Philosophiâ DEMOCRITI RENATUS DES-CARTES in Principiis Philosophiae Part. IV. art. 202. p. 219. qui principiis suis convenienter contrà HENR. MORUM asserit, ne virtute quidem divinâ fieri posse, ut dentur Atomi, suâ naturâ indivisibiles, quas dividendi facultatem DEUS sibi ipsi ademerit. Part. I. Ep. LXVI. p. 180. ep. LXVII. p. 186. Addatur infrà Theorema CV.
+
+## THEOREMA VIII.
+
+### Monades naturaliter interire non possunt.
+
+Demonstratio.
+
+IN Monadibus nulla locum habet divisibilitas, per theor. 4. adeoque in Monadibus nulla locum habet successiva partium à se invicem, mediante motu, separatio, per def. 193. Quicquid autem finiri non potest per partes, in illius interitu nihil omninò praecedit, ex quo ratio reddi possit ejus, quod sequitur, per ax. 1. consequenter in illo modus, quo existentia ejus desinere possit, non potest intelligi & explicari per modum dissolutionis partium successivae. Ergo Monades naturaliter interire non possunt, per def. 219. Q. E. D.
+
+Coroll. Datur in Monadibus subjectum individuum & absolutum omnium determinationum, quarum Monas per essentiam suam capax est, hoc est, Perdurans, per def. 62.
+
+Scholion. In hoc Theoremate fundatur Indestructibilitas Monadum in genere, & in specie Immortalitas Animae rationalis.
+
+THEO-
+
+## [p. 73] THEOREMA IX.
+
+### Monades naturaliter oriri non possunt.
+
+### Demonstratio.
+
+UBi nullae prorsus dantur partes, ibi nulla locum habet partium compositio, per ax. 1. & proinde existentia Monadum incipere non potest per successivam partium compositionem, per def. 85. & 86. Quare nihil in ortu Monadum praecedit, ex quo ratio reddi possit ejus, quod sequitur, adeoque ortus Monadum intelligi & explicari non potest per modum compositionis partium successivae. Ergo Monades naturaliter oriri non possunt, per def. 218. Q. E. D.
+
+Scholion I. Cùm species sit ortûs naturalis, si Monades per divisionem ex Monadibus oriri ponantur : patet in hoc Theoremate fundari IMPOSSIBILITATEM ORTUS MONADUM, & in specie ANIMARUM RATIONALIUM EX DEI ESSENTIA.
+
+Scholion II. Cum grano Salis accipiendae sunt Veterum loquendi formulae, quod animae humanae sint particula divina aura. LEIBNITIUS, in Epistolà, Hanoverà XXV. Julii cIɔ Iɔccvı. ad me datà: Non aliter intelligi potest, animam esse ex DEO, nisi DEUM & Animam corporea fingas. Sed talis de DEO atque Animà notio aliunde absurda est.
+
+## THEOREMA X.
+
+### Monades incipere non possunt, nisi per creationem.
+
+### Demonstratio.
+
+MOnades non possunt oriri naturaliter, per theor. 9. adeoque, si oriuntur, oriuntur in instanti, per ax. 1. hoc est, incipiunt existere in instanti, cùm antea non existerent. Sed quicquid, anteà non existens, incipit existere in instanti, ad illius existentiam exhibendam nihil praeter causam efficientem requiritur, in quà ratio sufficiens contineatur, cur ex possibili fiat actuale, consequenter illud incipere non potest,
+
+[p. 74] potest, nisi per creationem, per def. 229. Quamobrem nec Monades incipere possunt, nisi per creationem. Q.E.D.
+
+## THEOREMA XI.
+
+### Monades finiri non possunt, nisi per annihilationem.
+
+### Demonstratio.
+
+MOnades naturaliter interire non possunt, per theor. 8. adeoque, si existere desinunt, id fit in instanti, per ax. 1. Sed quicquid finitur in instanti, illud finitur per annihilationem, per def. 231. Ergo Monades finiri non possunt, nisi per annihilationem. Q.E.D.
+
+## THEOREMA XII.
+
+### Partes compositorum non absolutè necessario occupant locum suum.
+
+### Demonstratio.
+
+PArtes in composito, à loco, quem occupant, non differunt, nisi ut id, quod aliis coëxistit, à modo, quo iisdem coëxistit, per cor. 2. def. 61. & proinde, partes in composito, salvà essentià suà, illo modo cum reliquis coëxistere, quo aliae coëxistunt cum iisdem, in se nullam involvit contradictionem, per cor. 5. def. 61. Ergo partes in composito non occupare locum, quem occupant, non est absolutè impossibile, per def. 3. & consequenter partes compositorum non absolutè necessariò occupant locum suum, per def. 24. Q. E. D.
+
+## THEOREMA XIII.
+
+### Composita incipiunt existere sine creatione.
+
+### Demonstratio.
+
+ESsentia compositorum consistit in compositione, per def. 49. & illorum nulla pars absolutè necessariò occupat
+
+[p. 75] pat locum suum, per theor. 12. Quamobrem partibus in composito non repugnat successio, per ax. 1. & proinde ratio sufficiens, cur hae potius partes in compositione succedant, quàm aliae quaecunque, datur in partibus praecedentibus, per ax. 2. Modus igitur, quo composita oriuntur, intelligi & explicari potest per compositionem partium successivam. At, quorum modus, quo oriuntur, per successivam partium illarum, à quarum compositione pendet possibilitas ipsius compositi, compositionem intelligi & explicari potest: illa oriuntur naturaliter, per def. 218. Ergo composita oriuntur naturaliter, & proinde non oriuntur in instanti, per ax. 1. Sed quae non incipiunt existere in instanti, illorum initium existendi non agnoscit rationem ultimam in actione externà DEI, per ax. 1. Ergò Composita incipiunt existere sine creatione, per def. 229. Q.E.D.
+
+Scholion I. In hoc Theoremate fundatur Possibilitas geneseos corporum, consequenter POSSIBILITAS SCIENTIAE, quam PHYSICAM vocamus.
+
+Scholion II. Memini LEIBNITIUM ad Scientiam Physicam promovendam desideràsse accuratam & scientificam Artium Mechanicarum tractationem. Cùm enim Essentia Corporis, in compositione longè subtilissimarum materiae partium consistat, patet, quantum ad Scientiam corporum conferat inquisitio tum principiorum Artium Mechanicarum omnium, tum inprimis ARTIS TEXTORIAE & HOROLOGIORUM.
+
+Memini etiam, me ex PHILOSOPHO didicisse, PRINCIPIA ARTIS TEXTORIAE JOACHIMUM JUNGIUM, Professorem quondam Hamburgensem meditatum esse, pleraque autem excellentis hujus Philosophi Manuscripta esse combusta.
+
+## THEOREMA XIV.
+
+### Composita finiuntur sine annihilatione.
+
+### Demonstratio.
+
+QUoniam in composita cadit partium successio, per theor. 13. ratio sufficiens, cur hae potius partes in dissolutione
+
+[p. 76] tione succedant, quàm aliae quaecunque, datur in partibus praecedentibus, per ax. 2. & proinde modus, quo existentia compositorum desinit, intelligi & explicari potest per successivam partium dissolutionem. Sed quorum modus, quo finiuntur, per dissolutionem successivam partium illarum, à quarum compositione possibilitas ipsius compositi pendet, intelligi & explicari potest, illa naturaliter intereunt, per def. 219. & proinde non intereunt in instanti, per ax. 1. Ergo Composita non finiuntur in instanti. Quae autem non intereunt in instanti, illorum finis existendi non agnoscit rationem ultimam in actione externà DEI, per ax. 1. Ergo Composita finiuntur sine annihilatione, per def. 231. Q.E.D.
+
+## THEOREMA XV.
+
+### Nulla Monas derivativa physicè influere potest in interius alterius Monadis derivativae.
+
+### Demonstratio.
+
+QUandoquidem Monades omnibus prorsus partibus carent, per def. 85. & 86. in monadibus etiam derivativis nullae partes continuo mutare possunt locum suum, per ax. 1. Sed si in monadibus derivativis nihil prorsus datur, quod locum suum continuò mutare possit, nec intelligibili modo explicari potest, quomodo in interiori Monadum derivativarum motus ullus excitari, dirigi, augmentari aut diminui possit, per def. 177. consequenter nulla in iisdem fieri potest per motum internum mutatio, per def. 173. Sed in cujus interiori nulla, mediante motu interno, fieri potest mutatio, in illius interius etiam nihil physicè influere potest, per def. 196. Quamobrem nulla omninò Monas derivativa in interius alterius Monadis derivativae physicè influere potest. Q. E. D.
+
+[p. 77] Scholion. In hoc Theoremate fundatur MONADUM DERIVATIVARUM αὐτάρκεια sive SUFFICIENTIA, vi cujus in agendo à nullo alio Ente creato dependent. Fundatur adeò in hoc ipso Theoremate non modò HARMONIA ANIMAE ET CORPORIS HUMANI, sed & HARMONIA REGNI CAUSARUM EFFICIENTIUM ET REGNI CAUSARUM FINALIUM, HARMONIA REGNI NATURAE & REGNI GRATIAE, & ipsa tandem HARMONIA RERUM UNIVERSALIS, quà de acutissimum philosophum, Academiae Scientiarum Petropolitanae Sodalem, & Logices, Metaphysices & Moralium Professorem Ordinarium praeclarè merentem, GEORGIUM BERNHARDUM BüLFFINGERUM, Amicum & Fautorem honoratissimum, peculiarem meditari tractationem, intellexi, cui partui Lucinam propitiam rerum intelligentes mecum ex animo apprecabuntur.
+
+## THEOREMA XVI.
+
+### In Monadem creatam forinsecus nec Substantia nec Accidens intrare possunt.
+
+### Demonstratio.
+
+CUm nihil in interius Monadis creatae physicè influere possit, per theor. 15. nihil etiam in eandem ab extrà ingredi potest, per ax. 1. At, si nihil in Monadem creatam ab extrà ingredi potest, nec substantia nec accidens per def. 75. & 81. in Monadem creatam forinsecus intrare possunt, per ax. 1. Q. E. D.
+
+Scholion. In hoc Theoremate fundatur IMPOSSIBILITAS SPECIERUM SENSIBILIUM SCHOLASTICORUM, de quibus optimè judicat F. BERNIER, Abregé de la Philosophie de GASSENDI Tom. III. Lib. I. cap. XVI. p. 289. seq. „ Quelques Aristoteliciens depuis quelques années se sont avisez de soutenir, „ que les images, ou comme ils disent d' ordinaire, les especes intentionelles & visuelles sont de purs accidens, qui n' ont, ni ne, portent avec eux rien de substantiel, & qui cependant sortant, „ des corps visibles par eduction & par propagation, passent par, „ le, „
+
+[p. 78] „ le milieu, affectent l' organe de la veüe, & le meuvent, sont „ reflectives des Miroirs, sont tout-entieres dans tout le milieu „ & dans chacune des parties, & ainsi du reste. Mais comme „ ARISTOTE n' a jamais songé à cela, & que d' ailleurs la cho- „ se semble estre tout à fait eloignée du sens-commun, comme „ il est visible de ce qui a esté dit tant de l' eduction des formes „ substantielles, que des accidens, & nommement de la lumiere „ ce seroit perdre le temps que de s' y arrester.
+
+## THEOREMA XVII.
+
+### In compositis motus internus ab aliis compositis excitari potest.
+
+### Demonstratio.
+
+CUm composita constent suis partibus, determinato modo inter se combinatis, per def. 48. pars una post alteram ab extrà impetum recipere potest, per ax. 1. Sed ab impetu, partibus compositi ab aliis partibus, ab extrà determinatis, successivè communicato, producitur mutatio loci partium in composito, per Experientiam : & proinde intelligibili modo explicari potest, quomodo partes compositi locum suum continuò mutare possint. Ergo in compositis motus internus ab aliis compositis excitari potest, per def. 177. Q. E. D.
+
+## THEOREMA XVIII.
+
+### Monades derivativae certis quibusdam qualitatibus sunt praeditae.
+
+### Demonstratio.
+
+COmposita existunt alterum extrà alterum per Experientiam ; Ratio autem sufficiens existentiae compositorum extra se invicem est in monadibus, in composita actu ingredientibus, per theor. 6. & proinde etiam Monas una existit extrà alteram, per ax. 1. Sed quae extrà se invicem existunt, illa non sunt eadem, per cor. def. 35. consequ.
+
+[p. 79] sequ. in illis intrinsecae determinationes non sunt eaedem, sed quaedam dantur, quibus à se invicem distingui possunt, per ax. 1. Ergo in Monadibus derivativis quaedam dantur determinationes intrinsecae, quibus à se invicem distingui possunt. At in quibus quaedam dantur determinationes intrinsecae, quibus inter se distingui possunt, illa certis quibusdam qualitatibus sunt praedita, per def. 42. Quamobrem Monades etiam derivativae certis quibusdam qualitatibus sunt praeditae. Q. E. D.
+
+Scholion I. In hoc Theoremate fundatur DIFFERENTIA MONADUM CREATARUM A PUNCTIS GEOMETRICIS; PUNCTI enim GEOMETRICI Idea obtinetur, si ab Idea Monadis realis abstrahatur sola partium carentia, & seorsim à reliquis qualitatibus consideretur. Hinc manifestum est, Punctum unum ab alio non esse diversum, nisi solo numero, per def. 46. consequenter nec unum existere posse extrà alterum, per cor. def. 35. adeoque ex Punctis Geometricis nullum componi posse continuum, per def. 50. Extat de Puncto hocce peculiaris Liber HENRICI MONANTHOLII.
+
+Scholion II. Etsi autem PUNCTUM GEOMETRICUM, nec existit in rerum universitate, per Schol. 1. nec moveri potest, per ax. 1. & proinde hypothesis Geometrarum DE FLUXU PUNCTI, non nisi fictio est imaginationis: in Geometrià tamen haec hypothesis imaginaria utilis est, quatenus ex illà Magnitudinis continuae genesis & proprietates intelligi & explicari possunt. Sicut in Calculo differentiali, cujus PHILOSOPHUS noster inventor est, τὸ infinitè parvum non est nisi fictio. Neque enim datur tempus infinitè parvum, in quo momentaneum incrementum magnitudinis finitae per fluxum elementi ejusdem generari debeat, consequ. illud respectu magnitudinis finitae haberi pro nihilo potest, cujus additio & subtractio nec auget nec minuit magnitudinem finitam, & cum eadem comparari nequit.
+
+## [p. 80] THEOREMA XIX.
+
+### Nulla Monas creata in rerum universitate alteri Monadi creatae per omnia similis existit.
+
+### Demonstratio.
+
+EXperimur in compositis variationes, consequenter in motu id, quod substituitur, non aequivalet ei, cui substituitur, per def. 63. Sed ratio sufficiens, cur statûs compositorum diversi temporis inter se sunt discernibiles, & cur in substitutione compositorum non omnia retinent, sicut fuerant ante substitutionem, datur in Monadibus, actu in composita ingredientibus, per theor. 6. & proinde Monades creatae inter se diversae sunt, per def. 35. & ax. 1. Jam Monades creatae partibus absolutè carent, per def. 85. & 86. adeoque non nisi intrinsecis determinationibus à se invicem distingui possunt, per def. 41. & 37. Sed quae solis differunt determinationibus intrinsecis, solis qualitatibus differunt, per def. 42. & proinde in illis non omnes qualitates se eodem modo habent, per def. 35. & ax. 1. At talia non existunt per omnia similia, per def. 43. & 44. Ergò nulla Monas creata in rerum universitate alteri Monadi creatae per omnia similis existit. Q. E. D.
+
+Scholion I. Hoc Theorema à Philosopho dicitur Principium Identitatis indiscernibilium, per def. 46. & in illo fundatur IMPOSSIBILITAS CONTINUI EJUSDEM SPECIEI, quod etiam à posteriori observationes Microscopicae demonstrant. Magnitudo igitur Geometrica, Spatium & Tempus absoluta, & Motus uniformis non sunt nisi fictiones Imaginationis.
+
+Scholion II. Conferatur de eodem LEIBNITIUS Epistolà ad CLARKIUM §. V. VI. Tom. I. du Recueil. p. 50. Epistol. V. §. XXVI, XXVII, XXVIII, p. 94. 95. item Replique aux Reflex. de M. BAYLE Tom. II. du Rec. p. 418. BüLFFINGER. in Dilucid. philosf. p. 87. Supponit autem in DEO non solam potentiam, sed simul sapientiam infinitam. WOLFIUS in Annotat. Metaph. p. 323.
+
+## [p. 81] THEOREMA XX.
+
+*Nullum compositum in Universo creaturarum alteri composito per omnia simile existit.*
+
+### Demonstratio.
+
+COmposita omnia rationem sufficientem, cur unum alteri per omnia simile potius existat, quàm non existat, agnoscunt in elementis, quae actu in illa ingrediuntur per omnia similibus, *per theor. 6.* & proinde nullum compositum in universo creaturarum alteri composito per omnia simile existit, non existentibus illius elementis alterius elementis per omnia similibus, *per ax. 1.* Jam verò nullum elementum alteri elemento per omnia simile existit, *per theor. 19.* Ergò Nullum etiam compositum in universo creaturarum alteri composito per omnia simile existit. Q. E. D.
+
+Scholion I. Experientia etiam veritatem hujus Theorematis confirmat, quâ de hæc habet LEIBNITIUS in Epist. IV. ad CLARKIUM §. IV. *Tom. I. Rec. p. 50.* Il n' y a point *deux Individus indiscernables.* Un Gentil-homme d' esprit de mes amis, en parlant avec moi en presence de Madame l' Electrice dans le jardin de Herrenhausen, crut qu'il trouveroit bien deux feuilles entierement semblables. Madame l' Electrice l' en défia, & il courut long-tems en vain pour en chercher. Deux gouttes d' eau, ou de lait, regardées par le microscope, se trouveront discernables.
+
+Scholion II. Aliam de Compositorum dissimilitudine demonstrationem dedit Acutissimus Philosophus CHRISTIANUS WOLFIUS Metaph. §. DLXXXVII.
+
+Scholion III. In hoc Theoremate fundatur *Infinita rerum in Universo Varietas.* WOLFIUS *loc. cit. §. DXCI.*
+
+## THEOREMA XXI.
+
+*Omne Ens creatum est finitum.*
+
+### Demonstratio.
+
+ENs creatum rationem sufficientem essentiae & existentiae suae agnoscit in alio ente existente, *per def. 20.* & proin-
+
+[p. 82] de essentia entis creati non involvit existentiam, *per ax. 1.* Quamobrem Entis creati non-existentia manet absolutè possibilis, adeoque Ens creatum existit contingenter, *per def. 21.* Sed quod contingenter existit, illud non existit absolutè & simpliciter, adeoque in existendo limites admittit *per ax. 1.* Ens igitur creatum in existendo est limitatum. Quamobrem etiam modus, quo Ens creatum possibile est, limitum capax est, *per cor. 2. def. 13.* adeoque Ens creatum capax non est essentiae illimitatae, *per cor. def. 12.* At Ens omne, quod non est capax essentiae sine limitibus, est finitum, *per def. 71.* Ergo Omne Ens creatum est finitum. Q. E. D.
+
+Coroll. Omnis Monas creata est ens finitum, *per cor. def. 88.*
+
+## THEOREMA XXII.
+
+*Omne Ens creatum mutationi est obnoxium.*
+
+### Demonstratio.
+
+ENs creatum est finitum, *per theor. 21.* adeoque non est id omne, quod esse potest, simul, *per Schol. def. 71.* Quamobrem perdurans in Ente creato admittit substitutionem successivam diversarum determinationum, quarum posteriore succedente, non manet prior *per ax. 1.* adeoque variationem Perdurantis, *per def. 63.* Sed quod admittit variationem perdurantis sive restrictionem subjecti absoluti & in determinati successivam, illud mutationi est obnoxium, *per def. 64.* Ergo omne Ens creatum mutationi est obnoxium Q. E. D.
+
+Coroll. Omnes Monades creatæ sive derivativæ mutationibus sunt obnoxiæ, *per cor. def. 88.*
+
+## THEOREMA XXIII.
+
+*Mutationes Monadum derivativarum naturaliter continuæ sunt.*
+
+### Demonstratio.
+
+MOnades derivativæ sunt Entia simplicia, *per def. 85. & 86.* quæ naturaliter interire non possunt, *per theor. 8.*
+&
+
+[p. 83] & in quorum interius nullum Ens creatum physicè influere potest, *per theor. 15.* quæ tamen mutationibus obnoxia sunt, *per cor. theor. 22.* adeoque non nisi determinationes intrinsecas in subjecto individuo admittunt, *per def. 72.* per diversorum graduum possibilium, qui successivè fiunt actuales, dum, succedente posteriore, transit prior, *per def. 89. 91. 92.* substitutionem talem, quæ rationem sufficientem existentiæ suæ in solâ essentiâ Monadis derivativæ agnoscit, *per ax. 1.* Mutationes igitur monadum derivativarum nullum Ens creatum impedire potest, *per def. 92.* Sed cùm eædem etiam in essentiâ solâ Monadum derivativarum rationem sufficientem existentiæ suæ simul agnoscere & non agnoscere non possint, *per ax. 1.* illas nec ipsæ monades impedire possunt. Jam quicquid nec ab ullo ente creato, nec ab ipsis monadibus derivativis impediri potest, illud naturaliter continuum est, *per def. 50.* Ergo Mutationes Monadum derivativarum naturaliter continuæ sunt. Q. E. D.
+
+## THEOREMA XXIV.
+
+*Mutationes Monadum derivativarum à principio interno proficiscuntur.*
+
+### Demonstratio.
+
+IN Monades derivativas nihil physicè influere potest, *per theor. 15.* & proinde mutationes, quæ in ipsis continuæ sunt, *per theor. 23.* rationem sufficientem, cur existant potius, quàm non existant, cur hoc potiùs, quàm quocunque alio modo existant, agnoscere non possunt in ullo alio Ente creato, *per ax. 1.* Quamobrem cùm rationem sufficientem, cur hoc potiùs, quàm alio modo contingant, omninò agnoscant, *per ax. 2.* eandem agnoscunt in ipsis Monadibus derivativis, mutationibus obnoxiis, *per ax. 1.* Sed mutationes, quæ rationem sufficientem existentiæ suæ in ipso Ente, quod mutatur, agnoscunt, à princi-
+
+[p. 84] pio interno proficiscuntur, *per def. 16.* Ergo mutationes etiam Monadum derivativarum à principio interno proficiscuntur. Q. E. D.
+
+Coroll. I. Monades derivativæ in genere Spontaneitate sunt præditæ, *per def. 107.*
+
+Coroll. II. Animæ autem rationales in specie, cum gaudeant etiam facultate se ipsas determinandi ex principio interno, *cum conscientiâ motivorum determinationis*, ad producendam potius mutationem aliquam in se ipsis, quàm non producendam, ad hanc potius, quàm aliam producendam: simul Libertate sunt præditæ, *per def. 156.*
+
+Coroll. III. Animæ rationales in sensationibus & phantasmatis producendis se non habent passivè, *per def. 115. & 117.*
+
+## THEOREMA XXV.
+
+*Omnis Monas derivativa Vi prædita est.*
+
+### Demonstratio.
+
+MUtationes Monadum derivativarum naturaliter continuæ sunt, *per theor. 23.* & à principio interno proficiscuntur, *per theor. 24.* Datur igitur in monadibus derivativis continuus nisus, sive tendentia quædam continua, adeoque conatus, *per def. 82.* ad producendas omnes mutationes in se ipsis, quarum quælibet earum per essentiam suam capax est, *per def. 95.* & proinde conatus talis, qui se ad omnem facultatem monadis derivativæ indifferenter habet, & quem ipsa Monas ad hanc vel illam facultatem in actum deducendam determinat, *per ax. 1.* Sed talis conatus est Vis, *per def. 83.* Ergo Omnis Monas derivativa Vi prædita est, *per def. 96.* Q. E. D.
+
+## THEOREMA XXVI.
+
+*Monades derivativæ sunt substantiæ.*
+
+### Demonstratio.
+
+MOnades derivativæ vi prædita sunt, *per theor. 25.* consequenter principium mutationum suarum in se con-
+
+[p. 85] tinent, *per cor. 1. def. 96.* Sed quicquid mutationum suarum principium in se continet, principium mutationum in se continet, *per ax. 1.* Ergo Monades derivativæ sunt substantiæ, *per def. 74.* Q. E. D.
+
+Scholion. PHILOSOPHUS infert definitioni Monadis, quod nos cum Excellentissimo Philosopho CHR. WOLFIO §. CXXVII. Metaph. facili negotio de omnibus Entibus simplicibus ex principiis Leibnitianis demonstramus.
+
+## THEOREMA XXVII.
+
+*Qualitates, quibus Monades inter se differunt, in diversis mutationum schematibus consistunt.*
+
+### Demonstratio.
+
+MOnades inter se differunt solis qualitatibus, *per theor. 19.* & qualitates non sunt, nisi determinationes intrinsecæ perdurantis monadum *per def. 42.* adeoque gradus ejusdem diversi, sibi invicem succedentes, *per def. 90.* Differunt igitur Monades inter se solis gradibus diversis. Sed gradûs singuli repræsentant multitudinem extrà monadem secundùm partem multitudinis diversam, *per Schol. def. 92.* Ergo qualitates Monadum, quibus illæ inter se differunt, in diversis mutationum schematibus consistunt, *per def. 65.* Q. E. D.
+
+Coroll. VARIETAS MONADUM DERIVATIVARUM rationem sufficientem agnoscit in diverso singularum mutationum schemate.
+
+## THEOREMA XXVIII.
+
+*Omnis Monas derivativa perceptione prædita est.*
+
+### Demonstratio.
+
+CUm mutationes Monadum derivativarum rationem sufficientem existentiæ suæ in solâ essentiâ cujuslibet monadis *per theor. 23.* & præterea diversum schema agno-
+
+[p. 86] scant, *per theor. 27.* illæ non nisi diversis respectibus in subjecto individuo repræsentant, tum se mutuo, ita ut ex respectibus, quos mutatio præsens involvit ad omnes antecedentes & consequentes mutationes ejusdem Monadis, inveniri possint antecedentes, inferendo ab effectibus ad causas, & consequentes, pergendo à causis ad effectûs, *per def. 85. & 86. & ax 1.* tum multitudinem extra Monadem positam, pro diversâ connexione, quam habet multitudo cum parte illâ multitudinis, secundùm quam fit repræsentatio, *per def. 100.* At cujus mutationes hoc modo repræsentant multitudinem, illud est perceptione præditum, *per def. 99.* Ergò omnis Monas derivativa perceptione prædita est. Q. E. D.
+
+Scholion I. Quæ BÆLIUS in Dictionario suo *art. Rorarius pag. 2608. & 2611. seq.* objicit, impossibilitatem perceptionis in Monadibus non evincunt. Conf. BÜLFFINGERUS in Commentatione Hypothetica de Harmonia Animi & Corporis humani quàm maximè præstabilita §. CXLVI — CLII. & in Dilucid. Philos. Sect. III. cap. IV. §. CCCXLVIII. p. 357. Ipse PHILOSOPHUS dans sa Replique *Tom. II. du Recueil. p. 390. seqq. 410. 412.*
+
+Scholion II. Atque hoc est Theorema illud, de cujus veritate nihil adhuc determinare audent Viri harum rerum quàm maximè intelligentes, & quorum industria hactenus in evolvendis Principiis Leibnitianis summa cum laude versata est. Convenit autem ipsis cum PHILOSOPHO in sequentibus : I. *Monades omnes creatas mutationibus esse obnoxias* ; II. *Mutationes in singulis dari continuas* ; III. *Gradus perdurantis in qualibet Monade creatâ esse diversos, non tantùm inter se, sed & respectu graduum perdurantis in omnibus reliquis Monadibus* ; IV. *Graduum diversitatem involvere respectûs, non tantùm ad gradûs antecedentes & consequentes omnes in singulis monadibus creatis, sed & ad gradûs perdurantis in reliquis monadibus ; si non immediatè ; tamen mediatè, si non singulorum, in se spectatorum, actualis cum omnibus ; tamen omnium inter sese & singulorum cum omnibus mediatâ* ; V. *Gradum quemlibet involvere multitudinem simultaneam in simplici ; sed relativam* ; VI. *In hac multiplici relatione, in individuo alicujus Monadis perdurante obviâ, ad multitudinem, extrà Monadem positam, intellectum infinitum intueri multitudinem, extrà mona-*
+
+[p. 87] *monadem positam, adeoque gradum quemlibet perdurantis in monade creatâ involvere repræsentationem multitudinis externæ, & quia hæc repræsentatio est in perdurante individuo Monadis, tanquam subjecto simplici, etiam* MONADEM CREATAM REPRÆSENTARE MULTITUDINEM EXTERNAM. Indeterminatas tantùm relinquunt has quæstiones: I. *An repræsentatio hæc multitudinis externæ in Unitate etiam in Monadibus nudis propriè dici possit Perceptio ?* II. *An repræsentatio hæc in Monadibus nudis inferat identitatem statûs illarum monadum cum statu animæ nostræ in stupore, lethargo & somno profundo ?* III. *Annon in Monadibus nudis possit concipi Vis perdurans, nec perceptiva tamen, cujus mutationes non inferant multitudinem partium, sed graduum & relationum externarum tantùm, & tamen à Perceptione propriè sic dictâ, obscurâ etiam & cum nullo actu reflexo conjunctâ, differat essentialiter ?* Cæterùm fatentur ingenuè, se nihil tale adhuc invenire potuisse, quod satisfaciat, & *Monades nudas Leibnitianas, perceptione nuda præditas, esse possibiles.* Quod contrà objectiones Bælianas sufficit.
+
+## THEOREMA XXIX.
+
+*Cogitatio animæ rationalis est Perceptio.*
+
+### Demonstratio.
+
+Cùm cogitatio sit apperceptio, distinctè repræsentativa eorum, quæ sensationibus vel phantasmatis pluribus singularibus communia sunt, per voces determinatæ significationis, *per def. 125. & cor. 2.* manifestum est, quamlibet cogitationem involvere repræsentationem claram notarum similium, à sensationibus vel phantasmatis singularibus abstractarum, *per ax. 1.* & consequenter omnem cogitationem in animâ rationali involvere multitudinem quandam extrà animam rationalem, in objecto cogitationis existentem, in ipsâ animâ rationali repræsentatam, *per ax. 1.* Sed quod involvit repræsentationem multitudinis externæ in subjecto individuo, est Perceptio, *per def. 99.* Ergo Cogitatio animæ rationalis est Perceptio. Q. E. D.
+
+[p. 88] Scholion I. Differt cogitatio à phantasmate, quòd minus est composita, qualibet tamen involvit aliquam multitudinem. LEIBNITIUS dans sa Replique aux Reflexions de Mr. BAYLE *Tom. II. du Recueil p. 408.*
+
+## THEOREMA XXX.
+
+*Nulla perceptio Monadis derivativæ est sine Appetitu.*
+
+### Demonstratio.
+
+MUtationes monadum derivativarum non nisi in perceptionibus consistunt, *per theor. 28.* adeoque perceptiones in solâ monadum derivativarum essentiâ rationem sufficientem agnoscunt existentiæ suæ, *per theor. 23.* Omnis igitur perceptio Monadis derivativæ conjuncta est cum tendentia continua ad producendos omnes gradûs, in perdurante monadis derivativæ possibiles, *per theor. 25. & def. 91. 92. 99.* Quamobrem nulla perceptio monadum derivativarum est sine conatu ad novam perceptionem, *per def. 95.* Ergò nulla etiam Perceptio Monadis derivativæ est sine appetitu, *per def. 98.* Q. E. D.
+
+Coroll. Nulla apperceptio est sine appetitu apperceptioni conveniente: sensatio scil. non est sine appetitu sensitivo, & cogitatio non est sine appetitu rationali.
+
+## THEOREMA XXXI.
+
+*Appetitus Monadis creatæ semper pervenit ad novam perceptionem.*
+
+### Demonstratio.
+
+APpetitus monadis creatæ consistit in conatu ejusdem ad novam perceptionem, *per def. 98.* tali, qui in perceptione præcedenti rationem sufficientem existentiæ suæ agnoscit, *per theor. 30.* & proinde nullus appetitus ab ipsâ Monade, quæ conatu illo prædita simul esse & non esse
+
+[p. 89] non potest, impediri potest; per ax. 1. Idem etiam ab alio ente creato impediri non potest, per theor. 15. Ergò Appetitus Monadis creatæ semper pervenit ad novam perceptionem. Q.E.D.
+
+Scholion. In Theorematibus XXX. & XXXI. fundatur LEX APPETITUUM, vi cujus omnis successio perceptionum & appetituum in eo versatur, ut vel ex perceptione appetitus, vel ex appetitu oriatur perceptio, & appetitus connectatur cum appetitu, mediante perceptione, quæ ex appetitu præcedenti consequitur. Ita appetitus finis connectitur cum appetitu mediorum, mediante perceptione connexionis, inter media & finem intercedentis.
+
+## THEOREMA XXXII.
+
+### Nulla Monas derivativa sine omni perceptione subsistere potest.
+
+Demonstratio.
+
+MUtationes monadum derivativarum naturaliter continuæ sunt, per theor. 23. consequenter nulla monas derivativa sine omni mutatione subsistere potest, per ax. 1. Sed mutationes monadum derivativarum consistunt in perceptionibus, per theor. 28. Ergò etiam nulla monas derivativa sine omni perceptione subsistere potest, per ax. 1. Q.E.D.
+
+Scholion I. PHILOSOPHUS Tom. II. du Recueil p. 328. J'accorde aux CARTESIENS, que l'Ame pense toujours actuellement, mais je n'accorde point qu'elle s'apperçoit de toutes ses pensées. Car nos grandes perceptions & nos grands appetits, dont nous nous apperçevons, sont composez d'une infinité de petites perceptions, & de petites inclinations, dont on ne sçauroit s'appercevoir. Et c'est dans les perceptions insensibles que se trouve la raison de ce qui se passe en nous; comme la raison de ce, qui se passe dans les corps sensibles, consiste dans les mouvemens insensibles.
+
+Scholion II. LUDOV. de la FORGE: Contradictionem involvit, si quis dicat, Spiritum non semper, dum existit, cogitare: Nam quoniam Spiritus nihil aliud est, quàm Substantia, quæ
+
+[p. 90] percipit; quicquid in ipsa contingit; sive agat, sive patiatur, id debet percipere; debet ergò semper aliquid percipere, & per consequens haud possibile est, eum non semper cogitare. de Mente Humana Cap. VI. p. 28. 30. seqq.
+
+## THEOREMA XXXIII.
+
+### Essentiæ compositi Perceptio repugnat.
+
+Demonstratio.
+
+QUandoquidem perceptio est repræsentatio multitudinis externæ in subjecto, omnibus partibus carente, per def. 99. nulla perceptio est variatio vel multitudinis vel similitudinis vel æqualitatis vel ipsius compositionis partium subjecti, per motum facta, per ax. 1. & proinde nulla perceptio involvit mutationem loci partium, realiter distinctarum, in subjecto, partes illas agnoscente, per def. 177. Sed quod nullam loci partium in subjecto, partes illas agnoscente, mutationem involvit, illud non est mutatio, quæ ex compositione intelligi & explicari potest, per def. 47. & 173. consequenter illud essentiæ compositi repugnat, per def. 49. Ergo Perceptio essentiæ compositi repugnat. Q.E.D.
+
+## THEOREMA XXXIV.
+
+### Cogitatio corpori ne quidem per absolutam DEI potentiam communicari potest.
+
+Demonstratio.
+
+COgitatio omnis est perceptio, per theor. 29. & proinde essentiæ compositi repugnat, per theor. 33. Sed corpus est compositum, per cor. 1. def. 194. adeoque cogitatio etiam essentiæ corporis repugnat. Jam essentiæ corporis cogitatio non potest simul repugnare & non repugnare, per ax. 1. adeoque in se involvit contradictionem, corpori communicari cogitationem, essentiæ corporis repugnantem,
+
+[p. 91] salvà manente essentià corporis. Quicquid autem in se contradictionem involvit, illud est absolutè impossibile, per def. 2. & proinde illius existentiæ exhibendæ nulla facultas in DEO sufficit. Ergo cogitatio corpori ne quidem per absolutam DEI potentiam communicari potest, per def. 246. Q.E.D.
+
+Scholion. Theorema hoc supponitur in demonstratione Cartesianà DISTINCTIONIS ANIMÆ A CORPORE, quæ à COGITATIONE sive CONSCIENTIA desumitur.
+
+## THEOREMA XXXV.
+
+### Actiones internæ Monadum derivativarum non nisi in continuis perceptionum variationibus consistunt.
+
+Demonstratio.
+
+MUtationes Monadum derivativarum in ipsis monadibus à principio interno proficiscuntur, per theor. 24. consequenter sunt actiones internæ monadum derivativarum, per def. 64. Sed mutationes Monadum derivativarum naturaliter continuæ sunt, per theor. 23. & non nisi in perceptionibus consistunt, per theor. 28. Ergo perceptiones continuæ sunt Monadum derivativarum actiones internæ, adeoque actiones internæ Monadum derivativarum non nisi in continuis perceptionum variationibus consistunt. Q.E.D.
+
+## THEOREMA XXXVI.
+
+### Monades creatæ nudæ in perpetuo sunt stupore.
+
+Demonstratio.
+
+CÙm Monades creatæ nudæ perceptione nudà & appetitu nudo tantùm præditæ sint, per def. 110. multitudinem externam in se ipsis ita repræsentant perpetuò, ut in totà repræsentatione, respectu ipsarum, nihil sit vel distincti vel clari tantùm, per def. 108. consequenter sibi repræ-
+
+[p. 92] sentationis suæ non sunt conscix, per cor. def. 108. Sed quod ita repræsentat multitudinem, extrà se positam, in seipso, illius status internus continuò talis est, ut ne quidem perceptio totalis clara sit, per ax. 1. & proinde in perpetuo est stupore, per def. 169. Ergò Monades creatæ nudæ in perpetuo sunt stupore. Q.E.D.
+
+Coroll. Animæ nostræ, cùm vel deliquio animi laboramus, vel somno profundo absque insomnio oppressi sumus, vel vertigine corripimur, vel corpus præsens naturaliter interit, ad tempus in stupore sunt, adeoque tum temporis quà sensum non differunt à Monadibus nudis.
+
+Scholion. Falsa est CARTESII hypothesis, Animam humanam existere non posse sine cogitatione. Part. I. Epist. CV. p. 343. Intelligit enim COGITATIONIS nomine Apperceptionem in genere, sive illa omnia, quæ nobis consciis in nobis fiunt, quatenus eorum in nobis conscientia est. Part. I. Princip. Philos. Art. IX. p. 2. Vid. Scholion ad Theor. XXXII.
+
+## THEOREMA XXXVII.
+
+### Memoria est principium consecutionis perceptionum in animabus sensitivis.
+
+Demonstratio.
+
+COnsecutio perceptionum in animabus sensitivis involvit expectationem perceptionis similis ei, quæ jungebatur perceptioni, jam semel productæ, per def. 121. adeoque rationem sufficientem existentiæ suæ invenit in conscientia reproductionis illius perceptionis, quæ cum aliâ perceptione jam semel vel aliquoties conjuncta fuit, per ax. 1. & consequenter in memorià, per def. 118. Sed quicquid rationem sufficientem existentiæ suæ invenit in memorià, illius principium est memoria, per def. 16. Ergo Memoria est principium consecutionis perceptionum in animabus sensitivis. Q.E.D.
+
+## [p. 93] THEOREMA XXXVIII.
+
+### Nuda consecutio perceptionum non involvit Rationem.
+
+Demonstratio.
+
+QUoniam nuda consecutio perceptionum rationem sufficientem existentiæ suæ invenit in solà conscientià reproductionis alicujus perceptionis, quæ semel iterumque conjuncta fuit cum aliâ perceptione, cujus conjunctionem cum perceptione reproductà expectamus, per theor. 37. ad illius existentiam non requiritur repræsentatio distincta ipsius connexionis perceptionis reproductæ cum perceptione aliâ, cum quà olim conjuncta fuit, per ax. 1. h. e. repræsentatio notarum illarum, in quibus duarum perceptionum connexio rationem sufficientem invenit, per def. 103. Ergo nuda consecutio perceptionum non involvit Rationem, per def. 127. Q.E.D.
+
+Scholion I. Quemadmodum CONSECUTIO PERCEPTIONUM differt à RATIONE in principio connexionis; quippe quod in CONSECUTIONE NUDA fundatur in hoc canone: Quæ perceptiones semel iterumque fuerunt comproductæ, illa in omnibus casibus comproduci debent, qui, si casûs diversi extiterint, fallere potest; in RATIONE autem puræ fundatur in ipsis æternis possibilium ideis: ita CONSECUTIO RATIONI analoga est in modo connectendi, quòd simili modo inter se connectat perceptiones, quo RATIO inter se connectit Ideas possibilium.
+
+Scholion II. Quæ §. XXVIII. de tribus actionum nostrarum quartis, non nisi in Perceptionum Consecutione fundatis, extant, ex Principiis PHILOSOPHI demonstrare jam in potestate non est; non dubito tamen, quin hanc proportionem ex sufficienti ratione determinaverit, quam aliâ occasione inquiram.
+
+Scholion III. CONSECUTIO PERCEPTIONUM est Analogum illud Rationis in Brutis, quibus CARTESIUS Sensus & Imaginationem tribuere non audet. Part. I. Epist. CV. p. 343. seq.
+
+[p. 94] Epist. LXVII. p. 189. "Videmus quidem, inquit, in animalibus "brutis motûs quosdam, eorum similes, qui imaginationes no-"stras sive sensûs consequuntur; imaginationes verò aut sensûs "utrum illa habeant ignoramus; è contrà verò cùm isti iidem "motûs possint absque imaginatione fieri, non sine causâ suspi-"cari possumus, illos in iis ita produci, quemadmodum spero, "me clarè ostensurum, subtiliter describendo totam illorum "corporis compagem, & istorum motuum causas. Part. I. "Epist. LIV. p. 109. Licet bruta nihil agant, quod probet, illa "COGITARE, tamen quia corporis illorum organa à nostris "valde diversa non sunt, conjicere licet, aliquam esse cogitatio-"nem hisce organis adjunctam, quemadmodum in nobis expe-"rimur, licet illorum Cogitatio sit imperfectior nostra. Si bru-"ta COGITARENT ut nos, animam etiam, ut & nos, immor-"talem haberent, quod non est verisimile. Nam nulla est ratio, "cur de quibusdam potius, quàm de omnibus id credam, per-"multa autem ut ex. gr. Ostreæ, Spongiæ, &c. nimis imperfecta "sunt, quam ut hoc de iis judicari queat. Conf. etiam Celeb. CHR. WOLFIUS in Annotat. Met. p. 459.
+
+Scholion IV. HIERONYMUS contrà RORARIUS in peculiari Libro, (qui centum ferè annis in Bibliothecis delituit, in Galliâ primùm anno 1645. à NAUDAEO, & posteà aliquoties in Belgio, ex. gr. Amstelodami 1654. in 12mo, editus, teste BÆLIO dans son Dictionaire Hist. art. RORARIUS p. 2599.) probare conatus est, quod animalia bruta ratione utantur melius homine. Vide quæ ex antiquis & recentioribus auctoribus collegit BÆLIUS loc. cit. p. 2600. seqq. 2608. seqq. & quæ ad argumentum adversus Animæ nostræ immortalitatem, à similitudine ejusdem cum animà brutorum desumtum affert THOM. CAMPANELLA Part. III. Met. Lib. XIV. cap. V. art. I. II. p. 142. 144. & in Quæstion. Physiol. qu. XLIX. art. II. p. 477. qu. LIV. art. IV. p. 541. Licet, inquit, in multis RATIOCINENTUR bruta, adeò tamen exilis est RATIOCINATIO eorum, ut nulla videatur humanæ comparata. Bruta hinc secundum THOMAM non sunt rationalia, sed extimativa.
+
+## [p. 95] THEOREMA XXXIX.
+
+### Imaginatio & Memoria sunt Principium Rationis.
+
+Demonstratio.
+
+RAtio est facultas distinctè repræsentandi in subjecto impartibili connexiones idearum inter se mutuas, per def. 127. Ergò ratio involvit repræsentationes claras notarum omnium, quæ connexionem idearum in judiciis ingrediuntur, per def. 103. Cùm verò repræsentationes hæ rationem sufficientem existentiæ suæ agnoscant in reproductione repræsentationum eorum, in quibus sensationes & phantasmata conveniunt vel differunt, quæque non nisi confusè in ipsis sensationibus atque phantasmatis repræsentantur, & in conscientià illius reproductionis, per def. 125. Ratio rationem sufficientem existentiæ suæ agnoscit in Imaginatione & in Memoria, per def. 116. & 118. Ergo etiam Imaginatio & Memoria sunt principium Rationis, per def. 16. Q.E.D.
+
+## THEOREMA XL.
+
+### Ratio est principium Scientiæ.
+
+Demonstratio.
+
+QUandoquidem Scientia non est nisi promtitudo deducendi unum possibile ex alio, mediante ratiocinio, per def. 129. illa rationem sufficientem existentiæ suæ agnoscit in distinctà repræsentatione trium judiciorum, quorum primum formatur intuitu subjecti, in quo prædicatum contineri observatur, secundum formatur occasione prioris ex sensationibus reproductis cum conscientià reproductionis, & tertium ex duobus præcedentibus, per def. 128. & per consequens in facultate distinctè repræsentandi in subjecto simplici connexionem trium illorum judiciorum inter se, per ax. 1. Atqui facultas hæc est ratio, per def.
+
+[p. 96] 127. Quare scientia rationem sufficientem existentiæ suæ agnoscit in ratione, & proinde Ratio est principium Scientiæ, per def. 16. Q.E.D.
+
+## THEOREMA XLI.
+
+### Ratio est principium actuum reflexorum in anima rationali.
+
+Demonstratio.
+
+QUia reflexio omnis involvit comparationem idearum plurium inter se, quà convenientiam & differentiam, per def. 135. & hæc separatam attentionem subjecti comparantis, ipsius comparationis & idearum comparatarum per cor. def. 135. reflexio involvet abstractionem Idearum, per def. 134. Sed abstractio idearum supponit earundem conjunctionem inter se, & proinde judicium, per def. 126. Quare etiam actûs reflexi, circa Ideas versantes, supponunt judicium, adeoque rationem sufficientem existentiæ suæ agnoscunt in facultate, distinctè repræsentandi idearum in judiciis connexionem, per def. 127. Ergò Ratio est principium actuum reflexorum in animà rationali, per def. 16. Q.E.D.
+
+Coroll. Anima rationalis per reflexionem cognoscit se ipsam, hoc est id, quod EGO appellatur, quatenus EGOITAS fundatur in conscientià mei, attendendo scil. seorsim ad id, quod sui ipsius sibi conscium est, tanquam à conscientià ipsà diversum. Dum se ipsam cogitat, invenit in se ipsà Ideas Entis, Substantiæ, unius, immaterialis, simplicis, compositi, temporis, mutationis, situs, aliasque veritates necessarias. Dum limites ab his Ideis abstrahit, cognoscit Existentiam, Essentiam, & Proprietates divinas. Anima igitur per actûs reflexos elevatur ad Cognitionem sui ipsius, DEI & Veritatum necessariarum, & Ratio illud est, quod Animam ad cognitionem illam elevat.
+
+Scholion I. In hoc Theoremate fundatur REGENERATIO PHILOSO-
+
+[p. 97] LOSOPHICA, quà de præclarè differit R. P. NICOL. MALEBRANCUS in Libro cui tit. Entretiens sur la Metaphysique & sur la Religion.
+
+Scholion II. Patet etiam quo sensu verum sit Ideas esse innatas, & nihil tamen esse in intellectu, quod non fuerit in sensu. Scil. etsi anima naturaliter nullam Ideam producit, nisi occasione sensationum præcedentium; tamen in sensationibus jam Ideæ continentur, & anima vi prædita est easdem evolvendi secundùm certam Legem, sine determinatione novà, ab extrà concurrente. Optimè PHILOSOPHUS in Epistolà Hanovera xxv. Jul. cIɔ Iɔccvii. ad me datà: Longè præferendæ sunt PLATONIS Notitiæ innatæ (quas reminiscentiæ nomine velavit) Tabulæ rasæ ARISTOTELIS & LOCKII, aliorumque recentiorum, qui ἐξωτερικῶς philosophantur. Addatur WOLFIUS in annotat. metaph. p. 473.
+
+Scholion III. CARTESIUS intelligit Ideæ nomine quicquid in cogitatione nostrà versari potest, triaque constituit Idearum genera; primum adventitiarum, v. gr. de Sole; secundum factitiarum, v. gr. Astronomi de Sole, per rationem formata; tertium innatarum, ut Idea DEI, mentis, corporis & omnium veritatum necessariarum. Part. II. Epist. LIV. p. 210.
+
+## THEOREMA XLII.
+
+### Principium contradictionis est principium veritatum necessariarum.
+
+### Demonstratio.
+
+Cùm omnis veritas necessaria sit propositio, cujus contradictoria est absolutè impossibilis, per def. 26. rationem veritatis sufficientem agnoscit in eo, quòd de uno eodemque subjecto unum idemque prædicatum simul affirmari & negari non possit, per ax. 1. Quare eandem agnoscit in principio contradictionis, per def. 17. Ergo principium contradictionis est principium veritatum necessariarum, per def. 16. Q. E. D.
+
+## [p. 98] THEOREMA XLIII.
+
+### Ratio sufficiens in veritatibus necessariis derivativis invenitur per earundem analysin in veritates necessarias primitivas.
+
+### Demonstratio.
+
+Quoniam analysis veritatum necessariarum derivativarum non progreditur in infinitum; sed omnis veritas necessaria derivativa vel ad definitiones possibiles simplices, quarum definitionem ulteriorem dare non licet, vel ad enunciationes identicas, quarum connexio est intima, ut probari ulterius nequeant, ultimatò reducibilis est, per def. 28. ex analysi earundem in veritates necessarias primitivas intelligi & explicari potest, cur illæ veræ potius existant, quàm falsæ, per def. 27. Quare ratio sufficiens veritatis in veritatibus necessariis derivativis invenitur per analysin earum in veritates necessarias primitivas, per def. 15. Q. E. D.
+
+Scholion. PHILOSOPHUS analysin finitam veritatum necessariarum comparare solebat cum numeris rationalibus, per quos problemata illa in Arithmeticà solvuntur, quibus per numerum aliquem, in integris aut fractis assignabilem, exactè satisfieri potest, ut error non minimus, sed planè nullus sit. Hanc comparationem distinctè explicat CL. BULFFINGERUS in Dilucid. philosoph. Sect. I. cap. III. §. LXVII. p. 65.
+
+## THEOREMA XLIV.
+
+### Principium rationis sufficientis est principium veritatum contingentium.
+
+### Demonstratio.
+
+Cùm omnis veritas contingens sit propositio de hoc vel illo facto, cujus contradictoria æquè in se possibilis est,
+
+[p. 99] est, per def. 23. nulla veritas contingens rationem sufficientem veritatis suæ agnoscit in eo, quod de uno eodemque subjecto unum idemque prædicatum simul affirmari & negari non possit, per ax. 1.; sed in eo, ex quo intelligitur, cur omnia, quæ in universo creaturarum contingere observantur, contingant potius, quàm non contingant, ita potius, quàm aliter contingant, per ax. 2. Quamobrem omnis veritas contingens rationem sufficientem veritatis suæ agnoscit in principio rationis sufficientis, per def. 18. Ergò principium rationis sufficientis est principium veritatum contingentium, per def. 16. Q. E. D.
+
+Scholion. Requiritur etiam ratio sufficiens ad possibilitatem, scilicet ut hoc vel illud hoc vel illo modo fieri possit, utut non fiat, & ratio quædam sufficiens esse potest ad id, ut fiat A, & simul ad id, ut fieri possit B, prout rectè monet laudatus Philosophus in Dilucidat. philos. l. c. §. LXX. LXXI. p. 68. seq.
+
+## THEOREMA XLV.
+
+### Ratio ultima in veritatibus contingentibus non potest inveniri per analysin in rationes particulares.
+
+### Demonstratio.
+
+Omnis veritas contingens, cùm contineat factum, cujus oppositum æquè in se est possibile, per def. 23. adeoque aliter concipi possit sine omni contradictione, per def. 6.; veritatis suæ rationem particularem agnoscit in aliâ propositione, aliud iterum factum, cujus oppositi existentia in se æquè est possibilis, continente, per ax. 2. & proinde cujuscunque veritatis contingentis analysis in rationes particulares, cur potius existat vera, quàm ejusdem oppositum, in se æquè possibile, progreditur in infinitum; quatenus nunquam devenire licet ad rationem naturalem ejusmodi, quæ non postulet novam, veritatis facti, in se contingentis,
+
+[p. 100] rationem. Atqui in tali analysi veritatum facti in rationes particulares non continetur id, ex quo intelligi & explicari potest, cur propositio de facto, absolutè contingenti, vera potius existat, quàm falsa per ax. 1. Ergò etiam ratio ultima in veritatibus contingentibus non potest inveniri per analysin in rationes particulares, per def. 15. Q. E. D.
+
+Coroll. Rationes particulares veritatum contingentium sæpissimè nobis esse possunt incognitæ.
+
+Scholion. PHILOSOPHUS analysin infinitam veritatum contingentium comparare solebat cum numeris irrationalibus, per quos illa Problemata in Arithmeticà solvuntur, quibus nunquam perfectè satisfieri potest, ut error nullus remaneat, licet ille semper approximando minor fiat. Videatur iterum Cl. BULFFINGER. loc. cit. §. LXIX. p. 66. seq.
+
+## THEOREMA XLVI.
+
+### Ratio sufficiens existentiæ Seriei contingentium infinitæ, datur extrà seriem infinitam contingentium.
+
+### Demonstratio.
+
+Cùm existentia seriei contingentium infinitæ sit absolutè contingens, per def. 21. intelligi & explicari non potest ex eo, cujus existentia pariter est absolutè contingens, per ax. 2. adeoque ratio sufficiens existentiæ Seriei contingentium infinitæ invenitur in eo quod existere potest, Serie infinità contingentium etiam non existente, per def. 15. consequenter in eo, quod à Serie illà diversum est, per def. 35. Ergo ratio sufficiens existentiæ seriei contingentium infinitæ datur extrà seriem infinitam contingentium, per cor. def. 35. Q. E. D.
+
+## [p. 101] THEOREMA XLVII.
+
+### Ratio ultima existentiæ Seriei contingentium infinitæ datur in substantia quadam necessaria.
+
+### Demonstratio.
+
+Ratio ultima existentiæ seriei contingentium infinitæ datur in eo, quod existere potest, sine infinità contingentium etiam non existente, per theor. 46. consequenter in eo, cujus non existentia est absolutè impossibilis, per ax. 1. & proinde in Ente absolutè necessario, per def. 25. Sed Ens, in quo series infinita contingentium rationem sufficientem existentiæ suæ invenit, confert actualitatem principio mutationum, quod continet quodlibet ens illius Seriei, per def. 13. & ax. 1. adeoque Ens illud principium mutationum omnium entium illius seriei continet eminenter, per Schol. def. 74. & proinde continet principium mutationum, per ax. 1. Quare Ens necessarium, in quo series infinita contingentium rationem sufficientem existentiæ suæ invenit, est substantia, per def. 74. Ergò Ratio ultima existentiæ Seriei contingentium infinitæ datur in substantià quàdam necessarià, per ax. 1. Q. E. D.
+
+Coroll. Substantia illa necessaria, in quà datur ratio ultima Existentiæ Seriei contingentium infinitæ, cum serie illa Unum aliquod constituere non potest, per theor. 46.
+
+## THEOREMA XLVIII.
+
+### Substantia necessaria est Ens à se.
+
+### Demonstratio.
+
+Substantiæ necessariæ essentia includit existentiam, ita ut sufficiat, illam esse possibilem, ad id, ut sit actualis, per def. 75. adeoque Substantia necessaria non in alio Ente, sed in se ipso rationem sufficientem existentiæ suæ agnoscit,
+
+[p. 102] per ax. 1. Quare substantia necessaria est Ens à se, per def. 19. Q. E. D.
+
+## THEOREMA XLIX.
+
+### Substantia necessaria est Substantia universalis.
+
+### Demonstratio.
+
+Omne Ens creatum rationem sufficientem essentiæ & existentiæ suæ agnoscit in Ente à se, per def. 20. & proinde in substantià necessarià, per theor. 48. Quamobrem substantia necessaria universaliter & absolutè continet omnes realitates reliquarum substantiarum, per def. 136. Ergo Substantia necessaria est substantia universalis, per def. 76. Q. E. D.
+
+Scholion. LEIBNITIUS: Substantia universalis non est Ens indeterminatum, ut genus, & species; sed Ens absolutum & illimitatum. Tom. II. du Recueil. p. 333.
+
+## THEOREMA L.
+
+### Substantia necessaria est substantia infinita.
+
+### Demonstratio.
+
+Substantia necessaria cùm sit substantia universalis, per theor. 49. illius essentia in nullà realitate limitum capax est, per def. 76. & proinde substantia necessaria est substantia infinita, per def. 78. Q. E. D.
+
+## THEOREMA LI.
+
+### Substantia necessaria est Ens immutabile.
+
+### Demonstratio.
+
+CUm substantia necessaria sit substantia infinita, per theor. 50. omne id, quod esse potest, simul est, per Schol. def. 10. & proinde essentia illius aliarum atque aliarum determinationum successivè non est capax, per ax. 1. Ergo Substan-
+
+[p. 103] Substantia necessaria est Ens immutabile, per def. 73. Q. E. D.
+
+## THEOREMA LII.
+
+### Substantia necessaria est Ens independens.
+
+### Demonstratio.
+
+Substantia necessaria rationem sufficientem existentiæ suæ in seipso agnoscit, per theor. 48. consequenter essentia substantiæ necessariæ nihil eorum continet, quæ rationem aliquam agnoscunt in alio Ente, per ax. 1. Ergo Substantia necessaria est Ens independens, per def. 29. Q. E. D.
+
+## THEOREMA LIII.
+
+### Mundus est machina corporea.
+
+### Demonstratio.
+
+Quoniam Mundus aggregatum est, ex connexione omnium entium creatorum, simul & successivè existentium resultans, per def. 222. erit compositum, per def. 48. consequenter essentia Mundi in compositione consistet, per def. 49. Quamobrem omnes proprietates & mutationes mundi in structurà ejusdem sive compositione rationem sufficientem agnoscent, per def. 12. & 14. Ergo Mundus est machina corporea, per def. 215. Q. E. D.
+
+Coroll. Mundus est Unum quid, eò quòd est Compositum, quod est machina.
+
+## THEOREMA LIV.
+
+### Substantia necessaria est Substantia suprema & unica.
+
+### Demonstratio.
+
+I. Substantia necessaria est substantia independens per theor. 52. adeoque existere potest, nullo alio ente existente,
+
+[p. 104] stente, per cor. def. 29. Quare ante substantiam necessariam nulla existit substantia, per ax. 1. Ergo substantia necessaria est substantia suprema, per def. 77. Q. E. D.
+
+II. Series quæcunque contingentium ita connexa est, ut Unum quid constituat, per cor. theor. 53. & existentia ejus rationem sufficientem invenit in substantià necessarià, per theor. 47. Ergò Substantia necessaria est Unica, per ax. 2. Q. E. D.
+
+## THEOREMA LV.
+
+### Substantia necessaria est Ens absolutè perfectum.
+
+### Demonstratio.
+
+Quandoquidem substantia necessaria est substantia universalis, per theor. 49. illius essentia omnes continet realitates universaliter & absolutè, per def. 76. consequenter omnem realitatem possibilem, præcisè sumtam, per def. 136. & ax. 1. Ergò substantia necessaria est Ens absolutè perfectum, per def. 145. Q. E. D.
+
+## THEOREMA LVI.
+
+### Substantia necessaria est Ens simplex.
+
+### Demonstratio.
+
+Substantia necessaria est Ens immutabile, per theor. 51. & proinde in illam nulla cadit substitutio successiva diversarum determinationum, per def. 64. & 63. adeoque nec variatio vel multitudinis vel similitudinis vel æqualitatis vel ipsius compositionis partium per motum factæ, per ax. 1. quare substantia necessaria partibus caret, per ax. 1. Ergo substantia necessaria est Ens simplex, per def. 85. Q. E. D.
+
+## [p. 105] THEOREMA LVII.
+
+### Substantia necessaria est Monas Originaria.
+
+Demonstratio.
+
+Substantia necessaria est Ens independens, per theor. 52. & simul Ens simplex, per theor. 56. adeoque est Ens simplex quod existere potest, nullis aliis Entibus simplicibus existentibus; per cor. def. 29. Ergo Substantia necessaria est Monas Originaria, per def. 87. Q. E. D.
+
+## THEOREMA LVIII.
+
+### DEUS est substantia.
+
+Demonstratio.
+
+Cum per DEUM intelligatur Ens, quod continet rationem sufficientem existentiae hujus potius mundi, quàm cujuscunque alterius possibilis, per def. 223. DEUS omnibus entibus, quorum Mundus est aggregatum, actualitatem confert, per def. 13. Quamobrem principium mutationum Entium omnium continet eminenter, per Schol. def. 74. Ergo DEUS continet principium mutationum, per ax. 1. & proinde DEUS est substantia, per def. 74. Q. E. D.
+
+## THEOREMA LIX.
+
+### DEUS est substantia necessaria.
+
+Demonstratio.
+
+IN DEO datur ratio sufficiens existentiae omnium entium ab ipso diversorum, per def. 222. & 15. & cor. theor. 53. adeoque DEUS est substantia, quae rationem sufficientem existentiae suae non in alio ente, à se diverso, agnoscit, per ax. 1. Sed substantiae illius, quae rationem sufficientem existentiae suae in nullo alio ente existente agnoscit, essentia includit existentiam, per ax. 1. Ergo DEUS est substantia necessaria, per def. 75. Q. E. D.
+
+[p. 106] Coroll. Quicquid de Substantiâ necessariâ in antecedentibus demonstratum est, etiam de DEO verum est. DEUS igitur EXISTIT; per def. 19. DEUS cum nulla serie contingentium UNUM constituit, per cor. theor. 47. DEUS est Ens à se, per theor. 48. DEUS est Substantia universalis, per theor. 49. DEUS est substantia infinita, per theor. 50. DEUS est Ens immutabile, per theor. 51. DEUS est Ens independens, per theor. 52. DEUS est substantia suprema & unica. per theor. 54. DEUS est Ens absolutè perfectum, per theor. 55. DEUS est Ens simplex, per theor. 56. DEUS est MONAS ORIGINARIA, per theor. 57.
+
+Scholion. JO. PICUS MIRANDULANUS de Ente & Uno apud PETRUM BUNGUM de Numerorum mysteriis, de Unitate p. 13. seq. DEUS secundùm Pythagoricos essentialiter est UNUM, à quo & per quod, & in quo & ad quod omnia sunt, & ordinantur & permanent, & continentur, & implentur, & convertuntur ; est primum Unum, & primum Ens. IDEM ex JAMBLICHO & PROCLO ; loc. cit. p. 15. Ab UNITATE DIVINA cuncta prodeunt, prodeuntiaque Unitatem quandam, ipsis impressam retinent, divinae Unitatis Imaginem, quà & revocantur in illam, & revocata perficiuntur. IDEM p. 51. PYTHAGORAS apposite Unitatem profitetur esse DEUM & Bonum intellectum, Dualitatem verò Daemonem ac malum, in quà materialis est multitudo. HOMERUS UNIUS naturam in boni portione constituit, in mali verò dualitatem. THOMAS CAMPANELLA Part. II. Metaph. Lib. VII. cap. I. art. I. Tom. IV. oper. p. 111. 112. DEUS non potest esse nisi UNUS, quia verè UNUS. Verùm nihil prohibet, quia UNITAS producat Unitates minores & consimiles. Nam si idem procedit, non recedit, ut fiant duo: quod si enim Ens non potest non entia facere, neque unitas non unitates ; sed solùm infinitum Unum est, nec potest infinitum facere extra se. Multitudo ergò est unitatum numerus ; sed quia numerus importat divisionem, divisio autem est à non-ente : in hoc enim calor est divisus à frigore, & hoc corpus ab illo corpore, quod non est calor frigus, nec hoc corpus illud corpus. Igitur unitas, quae est summum Ens, infinita est, nec numerum admittit, quin nec actu nec potentiâ divisionem. Addatur cap. II. p. 116. seqq.
+
+## [p. 107] THEOREMA LX.
+
+### In DEO datur Potentia infinita.
+
+Demonstratio.
+
+DEUS continet rationem sufficientem existentiae hujus potius mundi, quàm alicujus cujuscunque, cujus tamen existentia, in se spectata, aequè possibilis est, per def. 223. Datur igitur in DEO abundantia realitatis tanta, quae exhibendae existentiae cujuscunque possibilis simpliciter sufficit, per ax. 1. & proinde Potentia, per def. 245. Sed talis abundantia realitatis, quae se extendit ad exhibendam existentiam cujuscunque possibilis simpliciter, nullorum limitum capax, per ax. 1. adeoque infinita est, per def. 70. Ergò in DEO datur Potentia infinita. Q. E. D.
+
+## THEOREMA LXI.
+
+### In DEO datur Intellectus infinitus.
+
+Demonstratio.
+
+IN DEO datur ratio sufficiens existentiae hujus potius mundi, quàm alterius cujuscunque, in se possibilis, per def. 223. & haec involvit rationem, quae DEUM determinat, ad exhibendam unius potius existentiam, quàm cujuscunque alterius, per ax. 1. Sed haec ratio, DEUM determinans, non est nisi in distinctâ repraesentatione omnium universorum possibilium, & omnium graduum perfectionis in singulis universis possibilibus, per ax. 1. & per consequens DEUS sibi adaequatè & simul repraesentat simpliciter omnia possibilia. Quare repraesentatio divina possibilium nec quà objectum, nec quà modum repraesentandi ullas limites admittit, per ax. 1. Ergò in DEO datur intellectus infinitus, per def. 234. & 70. Q. E. D.
+
+## [p. 108] THEOREMA LXII.
+
+### Intellectus DEI est principium essentiarum simul & existentiarum.
+
+Demonstratio.
+
+IN intellectu divino omnis possibilitas rationem sufficientem invenit, per def. 234. adeoque etiam omnium entium essentia, per cor. def. 12. Existentia autem entium includit & sequitur eorundem essentiam, per cor. 2. def. 13. adeoque existentia entium omnium pariter in intellectu divino rationem sufficientem invenit. Ergo intellectus DEI est principium essentiarum simul & existentiarum, per def. 16. Q.E.D.
+
+Scholion I. Intellectus divinus, in Schemate Idearum sive veritatum omnium consistens, à PLATONE dicitur χώρα ἰδεῶν & MUNDUS IDEALIS. Loca citavimus in diatribâ nostrâ de Enthusiasmo Platonico, Sect. IV. §. 16. Sect. VII. §. 37. cujus editionem novam brevi dabimus, Conf. etiam LEIBNITIUS Tom. II. Recueil. p. 423. seq.
+
+Scholion II. Atque hic mundus THOMAE CAMPANELLAE est MUNDUS ARCHETYPUS in primo Ente immensus, infinitus, sibi simillimus, in suâ entitate innumerabiles absque fine mundos corporeos praehabens & praecellens. Potest enim DEUS innumerabiles facere mundos, uti probat S. CHRYSOSTOMUS, si ipsi esse existentialiter possent. In Mundo archetypo, tanquam basis sustentatur Mundus mentium sive Metaphysicus, qui praecedit, penetrat & ambit Mundum Mathematicum & Mundum corporalem. In Mundo mentium autem, tanquam basi suâ, fundatur Mathematicus, in quo mentes, tanquam in posteriore sibi ente, faciunt figuras, lineas, puncta imaginesque omnes mathematicas. Quod in Mundo Mathematico per mundum mentalem fundatur, exprimitur in Mundo corporali. In Mundo corporali locatur Mundus situalis, per numeros & formas, ad essentiam existentiarum & coexistentiarum pertinentes, distinctas. Mundi mentalis, Mathematicus & corporalis non moriuntur, sed tantum situalis. Vid. Part. II. Metaph. Lib. X. cap. I. art.
+
+[p. 109] I. art. III. V. VI. VII. p. 243, 245, 246. Part. III. Lib. XVIII. cap. I. art. I. p. 249.
+
+## THEOREMA LXIII.
+
+### In DEO datur Sapientia absolutè perfecta.
+
+Demonstratio.
+
+IN DEO datur distincta repraesentatio omnium finium & mediorum, ut & omnium connexionum, inter fines & media possibilium, per theor. 61. & proinde in DEO datur scientia connectendi finem generalem cum specialibus, ut hi sint media obtinendi finem ultimum brevissimè & plenissimè, per ax. 1. Quare in DEO datur Sapientia per def. 152. & quidem talis, quae omnem realitatem absolutam Sapientiae continet, per ax. 1. Ergo in DEO datur Sapientia absolutè perfecta, per def. 140. Q.E.D.
+
+## THEOREMA LXIV.
+
+### Motiva fortiora DEI non sunt nisi perfectiones plures majoresve.
+
+Demonstratio.
+
+DEUS sapientissimus fines omnes, simul possibiles plenissimè & viâ brevissimâ obtinet, per theor. 63. & proinde id, ob quod DEUS se ad agendum determinat, major perfectionis gradus est, per ax. 1. Motiva igitur DEI fortiora non sunt nisi perfectiones plures majoresve, per def. 153. Q. E. D.
+
+Scholion. Hoc theorema dicitur Lex Sapientiae per def. 157.
+
+## THEOREMA LXV.
+
+### In DEO datur Voluntas absolutè perfecta.
+
+Demonstratio.
+
+MOtiva fortiora DEI non sunt nisi perfectiones plures majoresve per theor. 64. adeoque datur in DEO prom-
+
+[p. 110] promtitudo perfectissima ad producendam infallibilem repraesentationem adaequatam possibilis Optimi, per def. 237. Quare in DEO datur voluntas, per def. 130. cujus conatus producendi possibile repraesentatum servat consensum constantem, qui in voluntate maximè possibilis est, cum gradu perfectionis ejusdem, per ax. 1. Sed talis conatus ad producendam repraesentationem distinctam possibilis pro gradu perfectionis ejusdem dicitur voluntas absolutè perfecta per def. 236. Ergo in DEO datur voluntas absolutè perfecta. Q.E.D.
+
+Coroll. Intellectus infinitus non est sine voluntate absolutè perfecta, per theor. 61. & 65.
+
+Scholion. En analogiam inter Monadem Originariam & Monades derivativas ! In Monadibus derivativis nulla perceptio est sine appetitu, per theor. 30.; in Monade originariâ intellectus infinitus non est sine voluntate absolutè perfectâ, per cor. theor. 65. & cor. theor. 59. En differentiam inter perceptiones Monadum derivativarum earundemque appetitûs, & inter intellectum atque voluntatem Monadis Originariae. In illis enim perceptiones, utut distinctae fuerint, gradûs tamen distinctionis admittunt, consequenter limitum capaces sunt, per def. 90. & cor. 1. def. 136. nec se ad omne possibile absolutè extendunt ; in hâc intellectus repraesentat omnia possibilia absolutè, & in gradu distinctionis absolutè summo, consequenter sine successione & adaequatè. In illis Appetitus, utut agat ex motivis perfectionis distinctè cognitae, non tamen agit ex adaequatâ repraesentatione optimi: in hâc Voluntas tendit ad omnem perfectionem absolutè & ab intellectu adaequatè repraesentatam, nec sistit nisi in productione Optimi.
+
+## THEOREMA LXVI.
+
+### In DEO datur Bonitas absolutè perfecta.
+
+Demonstratio.
+
+QUoniam in DEO datur voluntas absolutè perfecta, per theor. 65. promtitudo etiam voluntatis divinae erit intensissima, conferendi creaturis omnibus perfectiones, qua-
+
+[p. 111] quarum per essentiam suam capaces sunt, universas, per def. 236. consequenter omnes realitates absolutas, in suo genere possibiles, continet, per ax. 1. Ergo datur in DEO Bonitas absolutè perfecta, per def. 158. & def. 140. Q. E. D.
+
+## THEOREMA LXVII.
+
+### In DEO datur Justitia absolutè perfecta.
+
+Demonstratio.
+
+Cum Justitia sit bonitas, secundùm Sapientiae Legem administrata, per def. 159. in DEO autem detur Sapientia absolutè perfecta, per theor. 63. detur etiam Bonitas absolutè perfecta, per theor. 66.: dabitur etiam Justitia absolutè perfecta per ax. 1. & def. 140. Q.E.D.
+
+Coroll. In Civitate DEI nulla datur actio bona sine remuneratione, & nulla actio mala sine poenâ.
+
+## THEOREMA LXVIII.
+
+### Substantiae finitae perfectiones suas habent ab influxu DEI.
+
+Demonstratio.
+
+QUandoquidem substantiae finitae in nullâ realitate suâ sunt illimitatae; per def. 79. rationem etiam sufficientem existentiae suae agnoscunt in Ente, in quo ratio sufficiens existentiae hujus mundi deprehenditur, per cor. 2 def. 13. consequenter in DEO, per def. 223. Sed quicquid rationem sufficientem existentiae suae agnoscit in DEO, etiam rationem ultimam omnium suarum realitatum absolutarum agnoscit in DEO, per theor. 62. Ergo substantiae finitae perfectiones suas habent ab influxu DEI, per def. 228. & def. 140. Q. E. D.
+
+## [p. 112] THEOREMA LXIX.
+
+### Substantiae finitae imperfectiones suas habent ab essentia sua sive propria natura.
+
+Demonstratio.
+
+SUbstantiae finitae in nullâ realitate suâ sunt illimitatae; per def. 79. & proinde modus, quo substantiae finitae possibiles sunt, involvit absentiam realitatum quarundam, & negationem ulterioris tendentiae in realitatibus praesentibus, per ax. 1. Quamobrem essentia sive propria natura substantiarum finitarum involvit imperfectiones per cor. def. 12. & def. 160. Ergo substantiae finitae imperfectiones suas habent ab essentiâ suâ sive propriâ naturâ. Q. E. D.
+
+Scholion I. In hoc Theoremate fundatur ORIGO & PERMISSIO MALI, quâ de peculiarem publico dedit Commentationem Philosophicam Celeberrimus GEORG. BERNH. BÜLFFINGERUS.
+
+Scholion II. PHILOSOPHUS noster Malum triplex facit, Metaphysicum, physicum & morale. Malum Metaphysicum est imperfectio simplex entium, etiam non intelligentium : Malum Physicum est incommodum sive perpessio creaturarum, sensu & intellectu praeditarum : Malum Morale est actio vel omissio actionis creaturarum intelligentium, à normâ suâ discedentum. Vid. THEODIC. §. XXI. p. 132. & CAUSA DEI. §. XXX, XXXI, XXXII. coll. BÜLFFINGERI Dilucid. Philos. p. 553.
+
+## THEOREMA LXX.
+
+### Possibilitas DEI est principium existentiae DEI.
+
+Demonstratio.
+
+IN DEO ratio sufficiens existentiae mundi cujuscunque possibilis deprehenditur, per def. 223. adeoque existentia DEI in ipso DEO rationem sufficientem agnoscit, per ax. 2. Quamobrem non-existentia DEI est absolutè impossibilis,
+
+[p. 113] per ax. 1. & consequenter DEUS existit absolutè necessariò, per def. 25. Sed quod absolutè necessariò existit, illius existentia in eo solo rationem sufficientem invenit, quòd essentia ejus, nullam involvit contradictionem, per ax. 1. Ergo possibilitas sola DEI est principium existentiae DEI, per def. 5. & def. 16. Q. E. D.
+
+Coroll. EXISTENTIA DEI ad veritates necessarias pertinet : Existentia autem creaturarum ad veritates contingentes, per def. 27. & def. 23. quatenus scilicet Existentia DEI talis est, ut intelligi possit, nisi existat DEUS, eundem simul esse possibilem & non possibilem ; existentia contra creaturarum talis est, ut eadem non , vel aliter positâ , possibilitati tamen earum absolutae non contradicat.
+
+Scholion I. CARTESIUS rectè ex Ideâ Entis perfectissimi existentiam DEI à priori demonstrat : si prius demonstretur hypotheseos assumtae possibilitas ; prout rectè monuit LEIBNITIUS Memoires pour l' histoire des Sciences & des beaux arts Sept. & Oct. art. XXIII. p. 276. seq. On suppose tacitement, „ que DIEU ou bien l'Eftre parfait est possible. Si ce point „ étoit encore demontré comme il faut , on pouroit dire que „ l' Existence de DIEU seroit demontrée geometriquement à „ priori. Et cela montre ce que j' ay déja dit , qu' on ne peut „ raisonner parfaitement sur des idées , qu' en connoissant leur „ possibilité : à quoy les geometres ont pris garde, mais pas assez les Cartesiens. „
+
+Scholion II. Certitudo Existentiae omnium creaturarum resolvitur in certitudinem conscientiae SUI. In hâc enim fundatur existentia Entis sibi conscii , & ante hanc nulla nobis existentia aliarum creaturarum innotescit. CARTESIUS igitur in Meditationibus suis de Primâ Philosophiâ Medit. II. p. 9. seqq. demonstrationem existentiae DEI & animae humanae rectè incipit à conscientiâ sui.
+
+## [p. 114] THEOREMA LXXI.
+
+### Essentia & Attributa DEI sunt prima possibilia.
+
+### Demonstratio.
+
+QUoniam sine intellectu DEI nihil est possibile, per theor. 62. propter essentiam & attributa DEI omnia possibilia sunt possibilia , per def. 12. & def. 14. Ergò Essentia & Attributa DEI sunt prima possibilia. per def. 8. Q. E. D.
+
+## THEOREMA LXXII.
+
+### Existentia DEI est principium realitatis in possibilitatibus.
+
+### Demonstratio.
+
+QUoniam Essentia & attributa DEI sunt prima possibilia, per theor. 71. Sine existentiâ DEI nihil foret realitatis in veritatibus necessariis , per def. 26. & 136. & per consequens in existentiâ DEI realitas possibilium rationem sufficientem invenit, per ax. 1. Ergo existentia DEI est principium realitatis in possibilitatibus , per def. 16. Q. E. D.
+
+Scholion I. Huc pertinet illud LEIBNITII in Theodicaeâ Part. II. „ §. CLXXXIV. p. 354. Toute realité doit être fondée dans quel- „ que chose d'existant. Il est vray qu' un Athée peut être Geo- „ métre. Mais s' il n' y avoit point de DIEU , il n' y auroit point „ d' objet de la Geometrie. Et sans Dieu non seulement il' n' y „ auroit rien d' existant, mais il n' y auroit mème rien de possib- „ le: in Causâ DEI assertâ §. VIII. p. 5. Ipsa rerum possibilitas, cùm actu non existunt, realitatem habet fundatam in Divinâ Existentiâ: nisi enim DEUS existeret, nihil possibile foret ; „ & possibilia ab aeterno sunt in Ideis divini intellectûs. Add. Part. I. Theod. §. VII. p. 115. & Part. III. §. CCCXXXV. p. 525.
+
+Scholion II. Ex realitatibus veritatum necessariarum etiam à priori demonstrari potest Existentia DEI.
+
+## [p. 115] THEOREMA LXXIII.
+
+### Voluntas DEI non est principium veritatum necessariarum.
+
+### Demonstratio.
+
+OMnis veritas necessaria rationem sufficientem invenit in principio contradictionis , per theor. 42. Sed principium contradictionis rationem sufficientem agnoscit in repraesentatione distinctâ consensûs vel dissensûs idearum inter se, per def. 17. & per consequens in repraesentatione simultaneâ & adaequatâ omnium possibilium, per axioma 1. adeoque omnis veritas necessaria eandem agnoscit in solo intellectu Dei, per def. 234. Ergo Voluntas DEI non est principium veritatum necessariarum, per def. 16. Q. E. D.
+
+Scholion I. RENATUS CARTESIUS, Part. I. Ep. CXII. p. 359. praesupponens , omnem affirmationem atque negationem ad voluntatem , non intellectum pertinere , Part. I. Princip. art. XXXIII. XXXIV. p. 9. principium veritatum necessariarum in divinâ voluntate quaerit, & per consequens easdem facit arbitrarias : Quantum , inquit , ad veritates aeternas, dico iterum , illas esse tantum „ veras aut possibiles, quia Deus illas veras & possibiles COGNOSCIT: „ (h. e. ex hypothesi CARTESII ; quia voluntas DEI se ipsam determinat ad earundem vel affirmationem de se invicem vel negationem) non autem contra veras à DEO cognosci , quasi independenter ab illo sint vera. Quem verborum sensum esse ex sequentibus constat. Ita enim immediatè in eâdem Epistolâ per- „ git: Et, si homines verborum suorum sensum probè intelligerent , utique non possent sine blasphemiâ dicere , veritatem „ cujuspiam rei priorem esse cognitione DEI; in DEO enim „ unum idemque est velle & cognoscere ; ita ut hoc ipso , quod „ aliquid velit , ideò cognoscit , & ideò tantùm talis res est vera. „ Addatur Part. I. Ep. LXVIII. p. 186. Ep. CXV. p. 372. Sed rectè LEIBNITIUS Part. IV. Theodicaeae §. CCXXXV. p. 414. Lors qu' on demande , si une chose est possible ou necessaire „ & qu' on y fait entrer la consideration de ce que Dieu veut ou „ choisit on change de question. Car Dieu choisit parmi les „ possib-
+
+[p. 116] „ possibles , & c' est pour cela, qu'il choisit librement & qu'il „ n' est point necessité ; il n' y auroit point de choix ni de liberté „ s' il n' y avoit qu' un seul parti possible.
+
+Scholion II. De genuinâ PETRI POIRETI sententiâ accuratè egit Celeb. BULFFINGERUS in dilucidationibus suis philosophicis , qui otia nobis fecit in exhibendis ipsis Philosophi hujus verbis , ex Cogitationibus rationalibus , anno 1715. editis , in 4to Oeconomiâ divinâ & Libro de Veris & cognitu omnium primis excerptis. Veritates scilicet necessarias , quae non immediatè ipsam DEI Essentiam concernunt , ita arbitrario DEI decreto subjicit POIRETUS , ut DEus & has & harum loco alias , sed Divinitati tamen non indecoras , statuere olim potuerit , & has quoque, quas statuit, statuere potuisset ad tempus solùm , licet non credendum sit, DEUM illas hoc modo statuisse, cùm nullam suspicari possimus causam , cujus gratia terminus veritatibus statutus sit , & beneplacitum DEI ( praesupposito simul decreto) „ sit immutabile. Dico, inquit , in Cogitationibus Rationalibus „ Lib. III. cap. X. §. V. p. 395. DEUM concipere necessariò , ne- „ cessitate naturae suae, veritates illas , quae de illo sunt, quaeque „ ejus naturam , essentiam, attributa , immediatè spectant, & „ illum nunquam fuisse ad has indifferentem. At non item de „ veritatibus, quae ideas, essentias, proprietates omnium eorum, „ quae ipse DEUS non sunt , respiciunt : sive existant illae, aut „ solùm concipiantur ; sive ad mentium naturam, aut corpora, „ eorumve motûs , regulas, figuras, aut ad numeros, aut ad „ quaevis alia referantur. Nam eas ideò tales concipit & cogi- „ tat DEUS , non quod eae ex sese tales sint , immutabilesque , „ sed quod ipsi placuerit, eas tales statuere : adeò ut veritates illae „ sint dependentes à DEI placito , & verae , quia DEO eas placuit sic statuere. Atque placitum istud (sive voluntas) quo „ haecce statuit DEUS, concipiendum est, ut indifferentissimum „ ex naturâ suâ ad haec vel statuenda, vel planè omittenda, vel „ etiam diversa decernenda ; quo sanè modo vel nullae, praeter il- „ las , quae ad ipsam DEI essentiam pertinent, veritates fuissent ; „ vel omninò aliae fuissent, quàm quae sunt hodiè. Imò , quod „ plus est , itàDEUS horum omnium respectu concipiendus est, „ ut postquam veritates illae ideales , essentiales , propria , &c. ad „ tempus usque praesens duraverunt , potuerint deinceps immutari, „ aliaeque vel nulla prorsùm statui , si hoc ei placuisset , adeò ut , quae
+
+[p. 117] quae jam sunt, non sint in se & ex se immutabiles, tametsi possint esse, ut reverà sunt , immutabiles ex placito DEI: nec „ enim habemus causam suspicandi, DEUM, illas statuentem, „ ad tempus eas statuisse, siquidem placeat ei suum ipsius placi- „ tum, & tanquam bona probet , quaecunque ipse vel fecit, vel „ statuit, neque sit , quod illas eà de causâ destruat , ut scilicet „ omnia à placito suo pendere ostendat illis, qui hâc gloriâ illum „ spoliant : nam & hi , cùm omnes mutatae fuissent veritates, „ ipsi quoque fuissent mutati, neque etiam superfuissent cogni- „ tiones eorum. Id ipsum verò, quod in causam allegatum est, „ jam ostendit DEUS luculentissimis in omnium mentibus testi- „ moniis, quae facilè est agnoscere , si ad sequentes demonstra- „ tiones benè attendatur: nam eae in hoc principium resolvuntur, „ quod DEUS non sit confundendus cum illis quae non sunt „ DEUS, sive, quod solus DEUS sit DEus; & effata assumpta „ ex suprà demonstratis sunt. In Notâ : Ut hoc benè intelliga- „ tur, considerandae sunt veritates, de quibus agitur, & relativè „ ad DEUM, & relativè ad se ipsas. Quatenus, tanquam ad se „ ipsas relatae, considerantur, sive cùm spectantur, quatenus à „ se sunt , ad se, per se , in se ipsis ; tunc hoc respectu nihil „ sunt, nihil etiam habent, quo sint id, quod sunt, quo ab aliis „ distinguantur, quo durent magis vel minus , & continuent ali- „ quandiu vel semper , nihil quod impediat , quo minus DEUS „ in omnibus , quicquid lubet , agat, statuat , velit. At quando „ considerantur in respectu ad DEUM , ex hypothesi nempe, „ quod placuit DEO statuere , aliquas esse veritates, vel res, quae „ ipsum aliae minus, aliae magis, aliae maximè & quàm exactissimè repraesentarent: tunc realitatis , immutabilitatis, constantis & semper continuaturae durationis fundamentum in DEO „ habent. Et Lib. III. cap. IX. §. X. p. 387. Atheum quendam, hunc in modum argumentantem , introducit: Si perceptio perfectissima necessariò aliud praeter se percipit & noscit, „ sequitur , eam solam suae intelligentiae non sufficere, siquidem „ sine alterius, à se diversi, perceptione esse non possit. Quae „ autem perceptio , alterius perceptione absente, non est perfecta, & perceptio non est summa, seu summè perfecta , nec est „ Entis summi. Subjungit autem hoc judicium : Cui difficultati non video , quomodo satisfieri queat ab illis , qui rerum „ creatarum ideas necessariò in DEO esse, ab illo concipi scientiâ „ simpli-
+
+[p. 118] „ simplicis intelligentiae , independentesque esse ab ejus voluntate „ sibi persuadent. In Oeconomiâ divinâ Lib. I. cap. V. §. VII. „ p. 51. 52. & §. XXI. Quodcunque DEUS semel decrevit, id „ aeternum manet, & nullo tempore mutatur , quippe cùm sit „ beneplacitum DEI. Nunquam autem placitum est DEO , be- „ neplacitum suum destruere : contradictionem enim infert, esse „ DEI beneplacitum beneplacito DEI adversari. Adde, quod „ nihil in beneplacito DEI inveniatur, quod mereatur destrui. „ Ibid. §. IV. & V. p. 49. 50. Omnia DEO sunt indifferentia. „ Nihilque ei est impossibile , nihil quo potentia ejus limitetur, „ quamcunque ille rem voluerit. Nihil ad eum, nihil ad divinae „ essentiae aut ideae divinarumque virtutum perfectionem facit , „ utrum res sint an non sint , utrum in se ipsis & in conceptu „ ejus arbitrario itâ sint, an aliter? Isthaec ei unum idemque sunt. „ Nihil est quod eum tangat , nihil nexum necessarium cum eo „ habeat. Si DEUS velit rem aliquam esse, hoc ipso est : si ve- „ lit eam esse hujusmodi, est hujusmodi: Si velit eam ad certum „ tempus in hoc statu durare , indeque ad alium transire , id „ ipsum fiet. Quod si velit ei principium dare perpetuò subsi- „ stendi , subsistet perpetuò : Si principium agendi , aget : Si „ principium sese producendi, producet sese : Si principium sese „ dirigendi, ipsa suae directioni praeerit : Si principium de cogi- „ tatis suis, deque felicitate suâ, quam ipse ei oblaturus est, li- „ berè disponendi, vel si inanis statuendi, & hoc principium in „ se habebit. Si circumstantias omnes omniaque eventa parti- „ cularia rerum futurarum & possibilium , antequam eveniant, „ in divino conceptu suo habere velit , fiet ita : at si ea illo de- „ mum tempore, quo geruntur, ibidem esse velit, & hoc erit : „ si verò ideam statûs ac regiminis rerum , utut existentium, in „ divino conceptu suo absolutè habere nolit , ibidem eam non „ habebit, sed sciet quidem res existere , de ceteris autem omni- „ bus cogitare non volet. Et ita quidem credo blasphemiae „ horroresque & abominationes inferni ac damnatorum , con- „ ceptum DEI , in felicitate arbitrariâ cum beatis exsultantis , „ non attingent : Verùm ex quo DEUS radium quendam lumi- „ nis sui in rerum ideas ac statum emittere volet , omnia con- „ festim ei patebunt, qui de cetero extra hunc voluntatis suae actum „ sine omnibus esse potest , quippe cùm nulla ei necessitas sit de „ rebus aliis praeterquam de se ipso cogitandi , ipse sibi sui solius „ cogni-
+
+[p. 119] cognitione plenissimè sufficiens. Non dico tamen generaliter , „ posse res quasdam existere, quarum ideae in DEO non sint. Id „ enim ne intelligi quidem potest; cùm res omnes sint imagines „ expressae Idearum DEI. DEUS enim primitus quidem Ideas „ rerum constituit, deinde verò ad harum exemplar res ipsas for- „ mavit. At cavendum tamen est, ne ideas capitales, cum nu- „ mero , regimine , & circumstantiis eventisque particularibus „ omnium exemplorum aut imaginum, h. e. singularum rerum „ creatarum, hic confundamus. Sic DEUS v. gr. ideam rei in- „ telligentis, liberae, corporeque ac facultate se ipsam procrean „ di praeditae , h. e. ideam hominis constituit, quae Idea, si in „ DEO non esset , nullus certè homo existere posset: at, cùm „ homines sint , audacter concludimus , ergò & in conceptu „ DEI datur idea hominis, h. e. creaturae intelligentis , liberae, „ ac se ipsam procreantis. At eadem tamen idea hominis, quae „ in DEO est, non includit, quotnam actu exempla ejus ideae, „ seu quotnam hominis in mundo sint futuri ; nec quomodo „ singuli se gesturi sint , quid unusquisque facturus sit , & quae- „ nam sint singulis eventura? DEUS quidem in eâ videt diver- „ sitates infinitas combinationum ac varietatum possibilium & „ idealium tum regiminis , tum habitudinum , tum propaga- „ tionum : Sed hoc ipso tamen homo ad particularia ista, veluti „ ad certum terminum propagationis, aut ad certum regiminis „ modum non determinatur. Idea hominis & hominis quidem „ creati, nihil horum , sed solam libertatem in genere, solum- „ que regimen possibile essentialiter ac necessariò includit ; unde „ & post hominis constitutionem & creationem indifferens erit „ DEO, ideas particulares numeri , itemque combinationum , re- „ giminis & eventuum singularium & determinatorum , quae in „ singulis divinae ideae exemplis , h. e. in hominibus existentibus, „ sunt , quando & quomodocunque volet , in conceptu suo arbi- „ trario admittere. Ista enim in ideâ hominis, quae in DEO „ est , sigillatim non includuntur, uti dixi, imò nec possunt in „ eâ determinatè includi , si ponamus , quod verissimum est , „ hominem esse creaturam liberam , aut DEUM voluisse , ut „ creatura libera esset. Libertas enim haec non minus determi- „ nationem praevenientem & necessariam excludit , quàm essen- „ tiae divinae perfectio , simulque divini conceptûs arbitrarii li- „ bertas, necessitatem excludunt absolutam , res omnes sigilla- „ tim
+
+[p. 120] „ tim determinandi & praevidendi , sive illae in statu realitatis „ maneant , sive malo implicitae in turbas & abominationes in- „ numeras incidant. Et quam necessitatem dicas , quae DEUM „ cogat , tot ineptias & obliquitates alienas , quae indesinenter „ committuntur, in conceptu suo habere? Anne sine istis minor „ erit DEI perfectio ? Si DEUS rem , quam existentem vult , & „ perpetuò extituram , itâ cognoscere velit , ut posteà de statu ejus „ non inquirat , nec ideas particulares eorum , quae ab eo gerun- „ tur , in conceptu suo habent , quidnam impediet , quo minus ist- „ haec ita fiant ? Non obstabit utique divinae essentiae aut ideae „ & cognitionis essentialis DEI perfectio ; haec enim omninò sine „ illis subsistit , nulloque modo ab iis pendet. Non obstabit per- „ fectio ideae hominis : Haec enim nihil horum includit, imò & „ idea libertatis ejusdem ista excludit. Non obstabit divini con- „ ceptûs cognitio arbitraria : Haec enim , cùm arbitraria sit , quae- „ cunque vult & quomodocunque vult , cognoscit. Non obstabit „ denique ipsius rei natura absoluta ; haec enim à se extra divi- „ nam constitutionem nihil est. Ergone obstabit persuasio ho- „ minum quorundam praeoccupatorum , qui fortè rationibus „ quibusdam chimaericis praeoccupati , nolent , rem ita esse ? „ Quis est , qui consilium DEI verbis imperitis obscurat ? age, „ praeparet se, ac DEUM doceat rationem cognoscendi ; det & „ regulas : & praeter beneplacitum DEI modos alios , quibus „ cum rebus externis agat, ei praescribat ? Quis fuit consilia- „ rius DEI? quis dedit ipsi ante , ( quis DEO essentiam , reali- „ tatem , veritatem , ideam , regulam ullius rei obtulit ) & „ DEUS ei rationem reddet? HIOB. XXXVIII. 2. 3. Rom. XI. „ 34. 35. In Isagoge Libelli : Vera & Cognitu omnium prima: „ Arbitrium DEI extendit ad ipsas rerum essentias , solamque „ DEI naturam & proprietates & operationes , sine quibus na- „ tura divina & quae in illâ sunt , nec esse , nec rectè ab ullo con- „ cipi possunt , à voluntate divinâ excludit , & absolutè necessa- „ ria facit , negatque DEUM omnes ideas excogitavisse , quas „ potest vel potuit excogitare ; sed hodiè & in aeternum excogitare „ plures posse , idque in DEO ignorantiam nullam inferre ; cùm „ Ideae , quas DEUS non excogitavit , excogitare tamen posset , „ idealiter etiam , nihil sint ; ignorari autem idealitatem ejus- „ demque in intellectu absentiam & privationem involvat , p. 33. „ asserit , DEUM loco idearum , à se excogitatarum , potuisse excogi-
+
+[p. 121] excogitare alias atque nunc sunt, *p. 34.* & *ideas, subjective in* ,,
+DEO consideratas, esse arbitrarium DEI conceptum, quatenus ,,
+divinae cogitationi placitum sit, praeter naturalem Sui in se ipso ,,
+suisque essentialibus contemplationem & delectationem, lude- ,,
+re etiam ex arbitrio extra eandem suae naturae contemplatio- ,,
+nem, idque facere DEUM per contemplationem variarum ,,
+formarum, *pro lubitu suo excogitatarum*, quae variae formae ,,
+sint τὸ *esse idearum formale & differentiale p. 36.* constituit ,,
+etiam duplicem harum idearum finem; quorum primus sup- ,,
+ponat decretum creationis & productio sit rerum secundum il-
+las; alter idem non supponat, & sit repraesentatio divinarum
+perfectionum, e.gr. Ideae, quatenus ex nihilo sunt productae,
+repraesentant divinam potentiam, quatenus unaquaeque sibi &
+omnes inter sese convenienter formatae sunt, repraesentant divinam
+sapientiam &c. *p. 37. seqq.*
+
+## THEOREMA LXXIV.
+
+*Voluntas DEI est principium existentiae melioris.*
+
+### Demonstratio.
+
+Cùm motiva DEI fortiora non sint nisi plures majoresve
+perfectiones, *per theor. 64.* DEus in agendo constanter
+observat Legem Sapientiae, *per def. 157.* consequenter se
+ipsum infallibiliter determinat ad eligendum, inter plura,
+inaequaliter perfecta, id, quod gradu perfectionis suae emi-
+nente ipsum ad sui productionem quàm maximè inclinat,
+*per ax. 1.* h. e. optimum, *per def. 155.* In promtitudine
+igitur DEI perfectissimâ producendi infallibiliter repraesen-
+tationem adaequatam optimi, Existentia melioris rationem
+sufficientem invenit, *per ax. 1.* Ergò Voluntas DEI est
+principium existentiae melioris, *per def. 16. & def. 237.*
+Q. E. D.
+
+Coroll. Existentia non melioris est absolutè possibilis, *per theor.
+74.* adeoque omnes existentiae entium creatorum pertinent ad
+veritates contingentes, *per def. 23.*
+
+Scholion I. Hoc Theorema à PHILOSOPHO vocatur *Principium
+melioris, per def. 158.*
+
+[p. 122] Scholion II. CAMPANELLA *Part. II. Metaphys. Lib. VII. cap. V.
+art. VIII. p. 147.* ,, Malum non est in mundo, nisi respectu par-
+,, ticularium, ut ignis est malus terrae & homo serpenti, non
+,, autem respectu mundi, cui omnes partes concinunt: multo au-
+,, tem minus respectu DEI, cujus gratia factus est mundus. Utrum
+,, autem alios mundos fecerit extra istum meliores, aut factu-
+,, rus sit, non intelligimus. Sed utrum res meliores, quàm quas
+,, videmus, possit; alii negant, quoniam sapientia decrevit opti-
+,, mos effectûs & potentia efficit: alii dicunt cum D. THOMA,
+,, non esse limitatam DEI Sapientiam in rebus factis: & hoc ra-
+,, tionabilius est, si infinita est. Sed cur non fecerit MELIORA.
+,, nemo intelligit, & qui putat alium esse Mundum & DEUM
+,, meliorem, ut SIMON MAGUS, non ostendit. Quapropter
+,, conjecturis urgemur nescio quò. Interim hoc unum agnosco,
+,, *quod qua putamus mala bona sunt*, & qui eorum usum norûnt,
+,, id fatentur: qui verò sui sensu rapiuntur, mala putant, quae
+,, nocent ipsis, licet optima sint aliis: bona verò, quae utilia &
+,, delectabilia, licet aliis rebus mortifera sint: qui autem phi-
+,, losophatur in DEO, agnoscit *singula Entia esse bona, omnia*
+,, *verò valde bona.*
+
+## THEOREMA LXXV.
+
+*Voluntas DEI est principium veritatum contin-
+gentium.*
+
+### Demonstratio.
+
+Cùm oppositum veritatum contingentium absolutè qui-
+dem possibile, sed inconveniens tamen sit, *per def. 23.*
+illius existentia non continetur in serie universi optimâ,
+quae existit, *per ax. 1.* & proinde productionem optimi non
+ingreditur, *per ax. 1.* Quare existentia veritatum contin-
+gentium rationem sufficientem invenit in promtitudine
+DEI perfectissimâ producendi repraesentationem adaequatam
+optimi, *per ax. 1.* Ergò Voluntas DEI est principium verita-
+tum contingentium, *per def. 237. & def. 16.* Q. E. D.
+
+## [p. 123] THEOREMA LXXVI.
+
+*Intellectus & voluntas animarum rationalium, qua-
+tenus sunt perfectiones animarum, intellectum & voluntatem DEI
+repraesentant: quatenus autem illis adhaerent imperfectiones, ex
+essentiâ animae cujusvis propriâ fluentes, repraesentant
+propriam illius animae naturam.*
+
+### Demonstratio.
+
+Quoniam intellectus animae rationalis est facultas, distinctè
+repraesentandi possibilia quaedam, *per def. 123. & def.
+125.* perfectio illius involvit magnitudinem distinctae re-
+praesentationis possibilium, *per def. 140. & 145.* Quam-
+obrem intellectus animae rationalis, quatenus est perfectio
+animae, eo magis accedit ad repraesentationem simulta-
+neam & adaequatam simpliciter omnium possibilium, quo
+major est multitudo possibilium repraesentatorum, & gra-
+duum distinctionis in ipsâ repraesentatione, *per def. 37.* &
+proinde ex intellectu animae rationalis, quatenus est per-
+fectio animae, inveniri potest intellectus DEI, *per def. 234.*
+Ergo intellectus animae rationalis, quatenus est perfectio
+animae, repraesentat intellectum DEI, *per def. 270.* Q. E. D.
+
+Contrà cùm imperfectio intellectûs animae rationalis in-
+volvat absentiam magnitudinis distinctae repraesentationis
+possibilium, *per def. 160* intellectus animae rationalis, qua-
+tenus est ejusdem imperfectio, eo magis recedit à repra-
+sentatione simultaneâ & adaequatâ omnium simpliciter
+possibilium, consequenter ab intellectu DEI, *per def. 234.*
+quo pauciora possibilia & quo minori distinctionis gradu
+eadem repraesentat, *per def. 37.* Sed ex imperfectionibus
+intellectûs animae rationalis inveniri potest propria ejus-
+dem natura, *per theor. 69.* Ergò intellectus animae rationa-
+lis, quatenus imperfectiones illi adhaerent, ex essentiâ ani-
+mae cujuslibet propriâ fluentes, repraesentat propriam ani-
+mae illius naturam, *per def. 270.* Q. E. D.
+
+[p. 124] Voluntas animae rationalis consistit in conatu produ-
+cendi repraesentationem distinctam boni, ab intellectu prae-
+visi, *per def. 13.* adeoque perfectio voluntatis involvit ma-
+gnitudinem consensûs repraesentationis distinctae boni, &
+tendentiae ad ejusdem productionem, quatenus tendentia
+non sistit, nisi in productione optimi, *per def. 82. & def.
+140. & def 145.* Quare voluntas animae rationalis, qua-
+tenus est animae perfectio, eò magis accedit ad promtitudi-
+nem perfectissimam producendi repraesentationem adaequa-
+tam optimi, consequenter ad Voluntatem DEI, *per def. 237.*
+quo major est consensus (1) inter repraesentationem perfe-
+ctionis objecti, & ipsum objectum repraesentatum, qui ex
+perfectione intellectûs pendet, (2) inter volitionem sive
+tendentiam & repraesentationem motivorum, (3) inter
+tendentiam unam & alteram, (4) inter tendentiam & po-
+tentiam illius executricem, *per def. 136. & def. 37.* & pro-
+inde ex voluntate animae rationalis, quatenus est ejusdem
+perfectio, inveniri potest voluntas DEI *per def. 237.* Ergò
+Voluntas animae rationalis, quatenus est perfectio animae,
+repraesentat voluntatem Dei, *per def. 270.* Q. E. D.
+
+Contrà imperfectio voluntatis animae rationalis invol-
+vit absentiam magnitudinis consensus inter repraesentatio-
+nem distinctam boni, ab intellectu praevisi, & inter ten-
+dentiam ad ejusdem productionem, *per def. 160.* & per
+consequens Voluntas animae rationalis, quatenus est im-
+perfectio animae, eò magis recedit à promtitudine perfe-
+ctissimâ producendi repraesentationem adaequatam optimi,
+consequenter à Voluntate Dei, *per def. 237.* quo minor est
+consensus inter repraesentationem & objectum repraesenta-
+tum, inter tendentiam & repraesentationem motivorum, in-
+ter tendentiam unam & alteram, inter tendentiam & po-
+tentiam, executioni praesidentem, *per def. 136. & def. 37.*
+Sed ex imperfectionibus voluntatis animae rationalis in-
+veniri potest propria illius animae natura, *per theor. 69.*
+
+[p. 125] Ergò Voluntas animae rationalis, quatenus ei imperfectio-
+nes adhaerent, ex essentiâ animae cujuslibet propriâ fluentes,
+repraesentat propriam illius animae naturam, *per def. 270.*
+Q. E. D.
+
+## THEOREMA LXXVII.
+
+*Actio sive influxus unius Monadis derivativae in al-
+teram non nisi idealis est.*
+
+### Demonstratio.
+
+MOnades derivativae in agendo à se mutuò prorsus sunt
+independentes, *per theor. 15. & Schol.* consequenter
+nulla mutatio in Monade unâ produci potest ab aliâ eo mo-
+do, quo mutatio in corpore per motum producitur ab
+alio corpore, *per ax. 1. & def. 198.* Quamobrem actio
+unius monadis in alteram intelligi non potest, nisi interve-
+niente Ideâ DEI opificis, qui in principio rerum, in unâ
+quâlibet monade rationes deprehendit, cur universum or-
+dinans, illas elegerit monades possibiles ad existendum,
+quae reliquis omnibus in statu possibilitatis jam erant adapta-
+tae per essentiam suam, ut id, quod distinctè in unâ cogno-
+scitur inserviat rationi reddendae, de eo, quod in aliâ con-
+tingit, & contrà ratio de eo, quod in ipsâ contingit, repe-
+riatur in eo, quod distinctè cognoscitur in aliâ, *per def. 93.*
+Ergò actio sive influxus unius Monadis derivativae in alte-
+ram non nisi idealis est, *per. def. 64.* Q. E. D.
+
+Scholion. Qui praeter actionem idealem dari etiam posse adhuc aliam
+arbitrantur, fateri tamen coguntur, se nullum adhuc illius influxûs
+habere potuisse conceptum. Illud satis liquet, absolutam Mona-
+dum à se invicem independentiam in Systemate Leibnitiano, non
+nisi cum ideali in se invicem actione consistere posse. Ita ipse
+PHILOSPHUS *Tom. II. du Recueil. p. 330.* Les causes secon- ,,
+des agissent veritablement, mais sans aucune influence d' une ,,
+substance simple créée sur une autre ; & les ames s' accordent ,,
+avec les corps & entre elles en vertu de l' harmonie préétablie, ,,
+
+[p. 126] ,, & nullement par une influence physique mutuelle ; sauve *l' u-*
+,, *nion metaphysique de l' Ame & de son corps*, qui les fait compo-
+,, ser *Unum per se* : un Animal, un Vivant. On a donc eu
+,, raison de refuter le sentiment de ceux, qui nient l' action des
+,, causes secondes; mais il faut le faire sans renouveller les faus-
+,, ses influences tellesque sont les espéces de l' ecole.
+
+## THEOREMA LXXVIII.
+
+*Omnis Monas derivativa est Automaton natura-
+le incorporeum.*
+
+### Demonstratio.
+
+Cùm mutationes Monadum derivativarum non tantùm
+naturaliter continuae sint, *per theor. 23.* sed & omnes
+proficiscantur à principio interno, *per theor. 24.* omnes cujus-
+libet monadis derivativae mutationes inveniunt rationem
+sufficientem in se mutuo, ita ut in mutatione praecedenti
+sit ratio sufficiens existentiae mutationis consequentis *per
+ax. 1. & 2.* & proinde omnes alicujus monadis derivativae
+mutationes in essentiâ illius monadis indivisibili rationem
+sufficientem agnoscunt, *per def. 85. & 86.* Ergo omnis
+Monas derivativa est Automaton naturale incorporeum, *per
+def. 214.* Q. E. D.
+
+Scholion I. Ita vocat LEIBNITIUS in Journal des Sçavans
+ɔIɔ Iɔcxcvii. mense Julio p. 338. ɔIɔ Iɔcx p. 459. in Theodi-
+caeà *Part. I. §. LII. p. 163. Part. III. §. CCCCIII. p. 603.* Distin-
+ctius autem, à me monitus, sententiam suam explicat in aulâ li-
+brariâ (Bücher-Saal) Lipsiae editâ *1711. in Octavo.*
+
+Scholion II. Nisi mutationes Monadum derivativarum rationem
+sufficientem existentiae suae in se invicem agnoscerent, in mona-
+dum mutationibus minus realitatis & consensûs, conseq. & per-
+fectionis, *per Scholion def. 140.* foret, quàm in motibus corpo-
+rum, immò & Machinae cujuslibet artificialis, in quâ omnes motûs
+consequentes, fundantur in antecedentibus. Cave tamen somnies,
+LEIBNITIUM Animas hoc ipso facere *Rotas Machinae Mundanae
+corporeae.* Pertinent enim Animae humanae ad Regnum non phy-
+sicum, sed morale, & proinde partes sunt universi creaturarum,
+ut Civitatis divinae, non ut Machinae corporeae divinae.
+
+## [p. 127] THEOREMA LXXIX.
+
+*Monas derivativa perfectior, respectu Monadis deri-
+vativae imperfectioris, agit; & Monas derivativa im-
+perfectior, respectu Monadis derivativae per-
+fectioris, patitur.*
+
+### Demonstratio.
+
+IN Monade derivativâ perfectiore distinctè cognoscitur ra-
+tio mutationis, in Monade imperfectiore factae, *per def.
+146.* Sed mutatio entis, dicitur actio respectu entis, quod
+illius mutationis rationem continet, & passio respectu En-
+tis, extra quod mutationis ratio datur, *per def. 64.* Ergo
+Monas derivativa perfectior, respectu monadis derivativae
+imperfectioris, agit; & monas derivativa imperfectior, re-
+spectu Monadis derivativae perfectioris, patitur. Q. E. D.
+
+## THEOREMA LXXX.
+
+*Actiones & Passiones creaturarum mutuae sunt.*
+
+### Demonstratio.
+
+CReatura una continet rationem mutationis, quae con-
+tingit in alterâ, *per theor. 79.* Ergo actiones & passio-
+nes creaturarum mutuae sunt, *per def. 64.* Q. E. D.
+
+## THEOREMA LXXXI.
+
+*Numerus universorum possibilium in intellectu DEI
+est infinitus.*
+
+### Demonstratio.
+
+INtellectus Dei simul & adaequatè repraesentat possibilia sim-
+pliciter omnia *per def. 234.* adeoque omnes etiam com-
+binationes possibilium compatibilium & incompatibilium
+possibiles, *per ax. 1.* Quare intellectus DEI repraesentat multi-
+tudinem combinationum possibilium, quae secundùm locum
+
+[p. 128] & tempus connecti possunt, cui nullus numerus aequalis
+assignari potest. Ergo Numerus universorum possibilium
+in intellectu DEI est infinitus, *per def. 222. & def. 58.* Q.
+E. D.
+
+Scholion. Mirificè hoc Theorema illustrat LAURENTII VALLAE
+Dialogus de Libero Arbitrio, BOETHIO oppositus, prout eun-
+dem PHILOSOPHUS noster in Theodicaeà secundùm princi-
+pia sua continuat. *Part. III. §. CCCCXIII. -- CCCCXVII. p. 613. --
+620.*
+
+## THEOREMA LXXXII.
+
+*Ex universis possibilibus unicum tantùm existere
+potest.*
+
+### Demonstratio.
+
+SI negas; ponamus, ex universis possibilibus duo simul
+posse existere. Quodlibet igitur eorum non involvit
+seriem possibilium, secundùm omnia loca & omnia tempora
+inter se connexorum, quod evertit hypothesin, *per def. 222.*
+Ergò ex universis possibilibus non nisi unicum existere pot-
+est, *per ax. 1.* Q. E. D.
+
+Scholion. LEIBNITIUS *in Theodicaeà Part. I. §. VIII. p. 116.*
+,, MUNDUM voco totam seriem totamque collectionem re-
+,, rum omnium existentium, ne dicat aliquis, mundos plures
+,, existere potuisse diversis temporibus & locis, nam omnes simul
+,, pro uno Mundo, vel, si mavis, pro uno universo computandi
+,, forent.
+
+Coroll. I. Non omne, quod possibile est, etiam est actuale.
+
+Scholion I. ABAELARDUS, quem imitatus est WICLEFUS, do-
+cuit, *nihil esse possibile, nisi quod sit actuale.* Vid. BAELIUS Di-
+ctionaire art. BERINGER *p. 562. col. 2.* Notat JO. LAUNO-
+JUS de Variâ ARISTOTELIS fortunâ in Academiâ Parisiensi,
+hunc ABAELARDUM quàm maximè amâsse Philosophiam Ari-
+stotelicam, eique BERNARDUM in Epistolâ ad INNOCEN-
+TIUM II. Dialecticam ARISTOTELIS exprobrâsse, citans li-
+bros quatuor GALTERI, Prioris Sancti Victoris contrà haereses,
+
+[p. 129] in conciliis damnatas, quas Sophistæ ABAELARDUS, LOMBARDUS, PETRUS PICTAVINUS & GILBERTUS PORRETANUS sententiarum suarum Libris acuunt, limant, roborant, cap. III. p. 29. seq. Assumpsit hanc hypothesin HOBBESIUS ex principio, quod nullum à DEO non electum, cadat sub potentiam DEI: in specie autem HOBBESIUS negat præsto esse requisita futuritionis in eventibus non futuris, indeque infert, id omne; cujus requisita omnia, ad id, ut fiat, non sunt præsto, esse impossibile: Cùm tamen actio sit possibilis, si requisita omnia ad eam præstandam per facultatem agentium liberorum adesse possint, utut nunquam adsint, si vel potestas agendi vel volitio desint. Conferatur LEIBNITIUS in Theodicæâ Parte II. §. CLXXII. p. 335. SPINOZA supponit, omne quod non sit involvere contradictionem, consequenter, quicquid hic & nunc sit, fieri absolutè necessariò & proinde sine electione.
+
+Scholion II. Optimè LEIBNITIUS in Epistolâ ad Abbatem NICASIUM de Philosophiâ CARTESII : dans le Journal des Sçavans pour l' année 1697. p. 441. seq. Si tout possible doit arriver, & s' il n' y a point de fiction, quelque absurde & indigne qu' elle soit, qui n' arrive en quelque tems ou en quelque lieu de l' Univers, il s' ensuit qu' il n' y a ni choix ni providence, que ce qui n' arrive point est impossible, & que ce qui arrive est necessaire justement comme HOBBES & SPINOSA le disent en termes plus clairs : aussi peut-on dire, que SPINOSA n' a fait que cultiver certaines semences de la Filosofie de Monsieur DES-CARTES : de sorte que je crois qu' il importe effectivement pour la religion & pour la pieté, que cete Filosofie soit chatiée par le retranchement des erreurs qui sont mélées avec la verité. Ceterum de summis CARTESII in Philosophiam meritis honorificè sentit LEIBNITIUS, eumque in religione suâ sincerum fuisse, persuasus est, loc. cit. p. 441. 616. 624. 625. Videatur ipse CARTESIUS Part. III. Pr. Phil. §. XLVII. p. 66. Vix aliquid supponi potest, ex quo non idem effectus (quanquam fortasse operosius) per easdem naturæ leges deduci possit: cum enim illarum ope materia formas omnes, quarum est capax, successivè assumat, si formas istas ordine consideremus, tandem ad illam, quæ est hujus mundi, poterimus devenire: adeò ut hic nihil erroris ex falsâ suppositione sit timendum.
+
+[p. 130] Coroll. II. Ab inconvenientiâ existentiæ ad impossibilitatem objecti non existentis non valet Consequentia.
+
+Coroll. III. Universum quodlibet possibile non est Totum per def. 36. sicut numerus infinitus nec par est nec impar; quia non est totum.
+
+Scholion. Corollare hoc sæpe inculcâsse & ad objectiones, à me propositas, ursisse PHILOSOPHUM recordor.
+
+Coroll. IV. Universum non potest dividi in duas æquales partes.
+
+Scholion. In hoc Corollario fundatur impossibilitas Asini BURIDANI, quo de conferatur BAYLE Dictionaire art. BURIDANUS p. 742. col. 1. 2. MICHAEL MONTANUS Essais Lib. II. c. XIV. Tom. II. p. 340. C' est une plaisante imagination, de concevoir un esprit balancé justement entre deux pareilles envies. Car il est indubitable, qu' il ne prendra jamais party: d' autant, que l' application & le choix parte inequalité de prix; & qui nous logeroit entre la bouteille & le jambon avec égal appetit de boire & de manger, il n' y auroit sans doute remede, que de mourir de soif & de faim. Pour pourvoir à cét inconvenient, les Stoiciens, quand on leur demande, d' où vient en nostre ame l' election de deux choses indifferentes, ( & qui fait, que d' un grand nombre d' escus nous en prenions plustost l' un que l' autre, n' y ayant aucune raison, qui nous incline à la preference) respondent; que ce mouvement de l' ame est extraordinaire & desreglé, venant en nous d' une impulsion estrangere, accidentale, & fortuite. Il se pourroit dire, ce me semble, plustost, qu' aucune chose ne se presente à nous, où il n' y ait quelque difference, pour legere, qu' elle soit : & que ou à la veüe, ou à l' attouchement il y a toûjours quelque choix, qui nous tente & attire, quoyque ce soit imperceptiblement. Addatur LEIBNITIUS in Theodicæâ Part. I. §. XLIX. p. 161. 162. Part. III. §. CCCV. p. 494.
+
+Coroll. V. Non datur indifferentia æquilibrii in universo creaturarum.
+
+Scholion. CARTESIUS Indifferentiam non pro perfectione sed imperfectione Libertatis agnoscit. P. II. Epist. LIV. p. 208. Indifferentia mihi, inquit, propriè significat statum istum, in quo voluntas reperitur, cùm illa non fertur ullâ cognitione veri aut
+
+[p. 131] aut boni ad partem unam potius quàm aliam amplectendam; illamque hoc sensu sumpsi, ubi dixi infimum Libertatis gradum in hoc consistere, quod possimus nosmet determinare ad res eas, ad quas sumus prorsus indifferentes. Homo eo magis indifferens est, quo pauciores rationes novit, quæ illum ad partem unam potius quàm aliam amplectendam moveant : quod quidem à nemine negari posse mihi videtur, Part. I. Epist. CXII. p. 360. Ep. CXV. p. 370. E sensu autem hujus indifferentiæ, illius existentiam demonstrari non posse, ( prout facit CARTESIUS Part. I. Princip. art. XXXIX. p. 10.) LEIBNITIUS ostendit, Part. III. Theodic. §. CCCV. p. 494. coll. §. CCXCII. p. 480. CCXCIX. p. 486. seqq. Videatur etiam infrà Theorema 96. Schol. 4.
+
+Coroll. VI. DEUS non esse potest anima Mundi, per cor. 3. & def. 222.
+
+Scholion. In hoc Corollario LEIBNITIUS prærogativam suæ Philosophiæ piæ Platonicâ constituere solebat. Vid. etiam Theodicæa Part. II. §. CXCV. p. 366.
+
+## THEOREMA LXXXIII.
+
+*Universum existens inter universa possibilia est optimum.*
+
+### Demonstratio.
+
+UNniversum existens rationem sufficientem existentiæ suæ agnoscit in substantia necessaria, per theor. 47. cujus voluntas inter plura, inæqualiter perfecta, infallibiliter eligit existentiam optimi, per principium melioris, theor. 74. Ergo universum existens inter universa possibilia est Optimum, per ax. 1. Q. E. D.
+
+## THEOREMA LXXXIV.
+
+*Essentia Monadis derivativæ est repræsentativa illius universi, cum quo in intellectu DEI jam connexa est idealiter.*
+
+### Demonstratio.
+
+MOnas derivativa prædita est perceptione, per theor. 28. adeò-
+
+[p. 132] adeòque repræsentat multitudinem quandam, extrà se positam, in subjecto individuo, per def. 99. Sed hanc repræsentare non potest in se ipsâ, nisi secundùm partem aliquam multitudinis, quam immediatè repræsentat, per def. 100. Quare omnis monas derivativa repræsentat illam multitudinem, cujus partem immediatè repræsentat, & secundùm connexionem illius cum multitudine, multitudinem ipsam, & proinde Monas derivativa, repræsentando multitudinem externam, secundùm partem ejus aliquam, repræsentat aggregatum compositorum omnium, secundùm locum & tempus inter se connexorum, per ax. 1. hoc est Universum, per def. 222. Jam verò Monas derivativa est substantia finita, per cor. def. 88. cor. theor. 21. & theor. 26. consequenter illius essentia in omnibus realitatibus suis est limitata, per def. 79. Quare Monas derivativa etiam in repræsentatione universi est limitata, per ax. 1. Ergò Monas derivativa non repræsentat universum quodcunque possibile, consequenter illud tantùm, cum quo connexa est; & quidem idealiter, quatenus universum illud, cum quo connexa est, in statu meræ possibilitatis spectatur, actualiter, quatenus idem in statu existentiæ consideratur. Non potest autem Monas derivativa sine omni perceptione subsistere, per theor. 32. adeoque modus, quo Monas derivativa est possibilis, consistit in repræsentatione, per def. 99. & quidem universi alicujus, cum quo Monas derivativa in intellectu DEI jam connexa est idealiter, per demonstrata. Ergò Essentia Monadis derivativæ est repræsentativa illius universi, cum quo in intellectu DEI jam idealiter est connexa, per cor. def. 12. Q. E. D.
+
+Coroll. I. Præsentia Monadis derivativæ in universo cognoscitur ex repræsentatione universi, essentiæ suæ repræsentatrici conveniente.
+
+Coroll. II. Præsentia animæ humanæ cognoscitur ex repræsentatione rerum per sensationes.
+
+[p. 133] Scholion I. Viderint alii, an, quæ de Puncto habet CAMPANELLA, Leibnitianis similia sint. Ita ille in quæst. Physiolog. Append. ad quæst. VII. Tom. II. Oper. p. 35. Si accipiatur Punctum in Spatio Mathematico similiter statim habet partes. Nam respicit ad varias spatii & quasi mundi positutas. Ergò cum alius sit respectus ad Orientem, alius ad Occidentem, & immineri respectus ad alias partes: consequens est, ut etiam in spatio demus punctis partes respectivas, etsi negemus, punctum in se posse partiri. Similiter in mundo mentali non licet imaginari punctum impartibile secundùm loci positiones, sed tantùm secundùm soliditatem.
+
+Scholion II. Hinc de Perceptionibus animæ nostræ ita LEIBNITIUS dans sa Replique aux Reflex. de Monsr. BAYLE Tom. II. du Recueil. p. 409. Les pensées confuses ne manquent jamais d' accompagner les plus distinctes, que nous pouissions avoir. Elles enveloppent toûjours l' infini & non seulement ce qui se passe en nôtre corps, mais encore par son moyen, ce qui arrive ailleurs.
+
+Coroll. I. Nulla Monas derivativa existens absolutè necessariò existit : quatenus repræsentat Universum, quod è pluribus universis, absolutè possibilibus, liberè à DEO electum, existit contingenter, per theor. 83.
+
+Coroll. II. Si aliud elementatum, alia sunt Elementa ; si alius Mundus, aliæ sunt Monades, per theor. 6.
+
+Scholion. Nervosè hoc Corollarium ex mutationibus Monadum continuis probat CL. BÜLFFINGERUS in Dilucid. philosophicis Sect. II. cap. IV. §. CLXXXVII. p. 182. Ens à se est per essentiam determinatum ad existendum: elementa non sunt per essentiam determinata ad existendum; mutantur enim quoad statum suum intrinsecum. Igitur Elementa non sunt à se.
+
+## THEOREMA LXXXV.
+
+*Quælibet Monas derivativa illud universum, cum quo connexa est, repræsentat alio modo.*
+
+### Demonstratio.
+
+OMnis Monas derivativa repræsentat universum, cum quo
+
+[p. 134] quo connexa est, secundùm partem illius aliquam, cum reliquis connexam, sed ab iisdem tamen diversam, per theor. 84. Ergò quælibet Monas repræsentat universum illud, cum quo connexa est, diverso modo, per ax. 1. Q. E. D.
+
+Coroll. Unicum Universum infinitis modis diversis repræsentatur.
+
+Scholion. Recordor non sine voluptate, Per-illustrem Dominum EHRENFRIEDUM WALTHERUM de TSCHIRNHAUS sæpè illud in ore habuisse: Universum suprà omnem modum simplex, & simul tamen fæcundum est. Add. G. G. LEIBNITIUS in Theodicæâ Part. II. §. CCVIII. p. 383.
+
+## THEOREMA LXXXVI.
+
+*Differentia interna Monadum derivativarum consistit in gradu perfectionis essentialis repræsentandi unum idemque Universum.*
+
+### Demonstratio.
+
+ESsentia Monadis derivativæ est repræsentativa alicujus universi, per theor. 84. adeoque perfectio essentialis Monadum derivativarum in gradu distinctionis repræsentationis consistit, qui totam universi repræsentationem immutat, per def. 141. Ergò differentia interna Monadum derivativarum consistit in gradu perfectionis essentialis repræsentandi unum idemque Universum, per ax. 1. Q.E.D.
+
+Scholion I. Hâc viâ detectæ sunt hactenus tres Monadum derivativarum diversæ species. Infimam constituunt Elementa rerum, sive Viva simpliciter, quæ infinitas species subalternas complecti, ex compositorum, in quæ actu ingrediuntur, essentiali diversitate nobis innotescit. Mediam Animæ Sensitivæ, quas iterum infinitas species subalternas continere posse, ex animantium externâ differentiâ colligere pronum est. Supremam denique absolvunt Animæ rationales; sive Spiritus creati, quos iterum infinitas species subalternas admittere, Analogia suadet. In infimâ specie nihil est in totâ universi repræsentatione, respectu ipsius monadis derivativæ, distincti: in mediâ in totâ repræsentatione aliqua est distin-
+
+[p. 135] distinctio, propter claritatem repræsentationum partialium : in supremâ denique in partialibus etiam repræsentationibus quædam est distinctio. Omnes autem hæ species monadum derivativarum in hoc quàm maximè differunt à MONADE ORIGINARIA essentialiter ; quod hæc sola atque unica repræsentationis adæquatæ omnium universorum possibilium capax est.
+
+Scholion II. Analoga his habet BOETHIUS de Consolatione Philosophiæ Lib. V. Prosâ V. Oper. p. 1110. Sensus solus immobilibus animantibus cessit, quales sunt conchæ maris ; imaginatio verò mobilibus belluis, quibus jam inesse fugiendi appetendive aliquis videtur affectus: ratio verò humani tantùm generis est ; sicut intelligentia sola divini.
+
+Scholion III. Hic noto : (1.) ex mente PHILOSOPHI species Monadum derivativarum non ita respicere Monadata, in quæ ingrediuntur, ut fieri non possit, quin inter Elementa compositi alicujus sint Monades, non nudæ tantùm, sed & animæ sensitivæ, & tales etiam, quæ aliquando futuræ sint rationales. Ita memini LEIBNITIUM, cum Lipsiæ me conveniret & potu Caffée cum lacte, quo quàm maximè delectabatur, uteremur ambo, in discursu de hoc argumento inter alia dixisse : se determinare non posse, annon in hocce vasculum, è quo potum hauriebat calidum, Monades ingrederentur, quæ suo tempore futura sint animæ humanæ. (2.) TSCHIRNHAUSIUM firmiter persuasum fuisse, CARTESIANOS contra principia CARTESII negare animarum in Brutis existentiam, & CARTESIUM cogitationem etiam brutis concedere per principia sua necessum habere.
+
+## THEOREMA LXXXVII.
+
+*Appetitus est medium naturale in monadibus derivativis unicum universum infinitis modis diversis repræsentandi.*
+
+### Demonstratio.
+
+QUandoquidem essentia Monadis derivativæ universi illius, cum quo connexa est, repræsentativa est, per theor. 84. conatus monadis derivativæ ad novas illius universi repræsentationes producendas, in solâ cujuslibet mo-
+
+[p. 136] nadis derivativæ essentiâ est fundatus, per ax. 1. Quamobrem in conatu monadis alicujus derivativæ datur ratio sufficiens cur repræsentatio hæc non alia quæcunque universi unius ejusdemque, succedat hic & nunc repræsentationi alteri. Ergo appetitus monadis derivativæ est medium naturale unicum universum infinitis modis diversis repræsentandi, per def. 98. & def. 151. Q. E. D.
+
+## THEOREMA LXXXVIII.
+
+*Status præsens Monadis derivativæ naturaliter consequitur ex præcedenti.*
+
+### Demonstratio.
+
+CÙm Monas derivativa vi prædita sit, per theor. 25. se ipsam ad hanc vel illam facultatem suam in actum deducendam determinat, per def. 83. & cor. 1. def. 96. adeoque omnes perceptiones partiales Monadis alicujus derivativæ consequentes rationem sufficientem existentiæ suæ agnoscunt in perceptionibus partialibus præcedentibus, quæ scilicet singulis partialibus consequentibus respondent, per theor. 30. & proinde etiam perceptio totalis consequens rationem sufficientem existentiæ suæ invenit in perceptione totali præcedenti. Ergo Status præsens Monadis derivativæ naturaliter consequitur ex præcedenti, per def. 165. Q. E. D.
+
+Coroll. Perceptiones animæ nostræ, quarum nobis conscii sumus, è Stupore evigilantes, præsupponunt perceptiones immediatè præcedentes, quarum nobis non fuimus conscii; & præsentes perceptiones distinctæ ab anima nostrâ non elicerentur, nisi præcessissent hæ, non aliæ, in pueritiâ confusæ, vel obscuræ.
+
+## [p. 137] THEOREMA LXXXIX.
+
+Statum quemlibet præsentem Monadis derivativæ ingreditur infinitudo exiguarum perceptionum, quæ omnes concurrunt ad determinationem perceptionum infinitarum, statum consequentem absolventium.
+
+### Demonstratio.
+
+PErceptio totalis alicujus Monadis derivativæ est repræsentativa universi, per theor. 84. & proinde etiam Status quilibet præsens ejusdem Monadis, per def. 165. Sed quod universum repræsentat, in illud ingrediuntur repræsentationes numero infinitæ omnium corporum universi, inter se connexorum, per ax. 1. Ergo Statum quemlibet præsentem Monadis derivativæ ingreditur infinitudo exiguarum perceptionum, quæ omnes concurrunt ad determinationem perceptionum infinitarum, statum consequentem absolventium, per theor. 88. Q. E. D.
+
+Coroll. I. Anima rationalis sibi nunquam status sui præsentis adæquatè conscia est, quatenus perceptiones obscuræ sunt infinitæ & minus discernibiles perceptionibus confusis, & hæ distinctis.
+
+Coroll. II. Intellectus animæ rationalis nunquam est purus, & proinde in nullâ repræsentatione ejusdem totali omnia ita distincta sunt, ut nihil adsit simul confusi & obscuri: Ratio semper mixta est consecutioni perceptionum, & voluntas nunquam est sine omnibus affectibus.
+
+Coroll. III. Non datur Oblivio propriè sic dicta; quatenus vestigia perceptionis alicujus, semel à monade derivativâ productæ ab intellectu infinito in perceptionibus consequentibus semper inveniri possunt.
+
+Scholion. LEIBNITIUS Tom. II. du Recueil. p. 405. seq. L' Ame, „ toute indivisible qu' elle est, renferme une tendence compo- „ sée, c' est à dire, une multitude de pensées presentes, dont cha- „ cune tend à un changement particulier, suivant ce, qu' elle ren- „ ferme, & qui se trouvent en elle tout à la fois, en vertu de son „ „ rapport
+
+[p. 138] „ rapport essentiel à toutes les autres choses du Monde. add. pag. 407. seq. & Journal des Sçavans 1698. p. 339. 340. Exemplo Theorema hoc illustrat CL. BüLFFINGERUS in Dilucidat. Philosoph. Sect. III. cap. IV. §. CCCXLVI. p. 359. seq.
+
+## THEOREMA XC.
+
+Statum quemlibet præsentem corporis ingreditur infinitudo figurarum & motuum.
+
+### Demonstratio.
+
+Cùm status cujuslibet corporis præsens componatur ex omnibus motibus, quos partes ejus minimæ recipiunt à corporibus ambientibus, proximis & remotioribus, maximis & minutissimis, quatenus illi omnes ad determinationes motuum sequentium efficienter concurrunt, per def. 195. statum quemlibet præsentem alicujus corporis ingreditur infinitudo motuum imperceptibilium, minimarum partium, & figurarum etiam, in partibus motis, per ax. 1. Q. E. D.
+
+## THEOREMA XCI.
+
+Diversitas repræsentationis unius ejusdemque universi in quâlibet Monade derivativâ est principium diversi monadis derivativæ in universo situs.
+
+### Demonstratio.
+
+MOnas derivativa una existit extrà reliquas omnes, & peculiarem, ad coëxistentes relata, ab iisdem servat distantiam, per cor. def. 35. & theor. 19. & proinde quælibet monas derivativa in universo, cum quo idealiter jam connexa est, certum agnoscit ordinem coëxistendi reliquis, per def. 56. Quare in quâlibet monade adest ratio sufficiens, ex quâ intelligi potest, cur existentia ejus hanc potius quàm aliam ad coëxistentiam reliquarum monadum agnoscat relationem, per ax. 2. Sed essentia Monadis derivativæ est repræ-
+
+[p. 139] præsentativa universi per theor. 84. & quidem essentia cujuslibet monadis derivativæ est unius ejusdemque universi diverso modo repræsentativa, per theor. 85. consequenter ratio sufficiens situs monadis alicujus in universo diversi datur in diversitate repræsentationis illius universi, per def. 60. Ergò diversitas repræsentationis unius ejusdemque universi in quâlibet Monade derivativâ est principium diversi Monadis derivativæ in universo situs, per def. 16. Q. E. D.
+
+Scholion. Ex principiis Perspectivæ PHILOSOPHUS diversitatem Situs Monadum derivativarum in uno eodemque universo illustrat. Sicut enim in Perspectivâ tot diversa dantur Puncta Visus, (Augpuncte) quot diversæ sunt scenographicæ repræsentationes unius ejusdemque objecti: ita similiter tot diversi dantur situs monadum in universo, quot diversæ fiunt unici universi in singulis monadibus repræsentationes.
+
+## THEOREMA XCII.
+
+Universum maximo gaudet ordine.
+
+### Demonstratio.
+
+Cùm universum involvat collectionem omnium locorum & omnium temporum per theor. 82. in illo continetur similitudo coëxistentium & succedentium, ex cujus lege intelligi & explicari potest cur hoc non aliud, huic non alii coëxistat, vel succedat, per def. 61. & def. 67. Sed, quod continet similitudinem talem in coëxistentiis & mutationibus, ex certâ lege omniscibilem, illud maximo gaudet ordine, qui possibilis est, per def. 56. & def. 66. Ergò universum maximo gaudet Ordine. Q. E. D.
+
+Coroll. Chaos excludit ordinem per coroll. def. 69. Ergo in rerum Universitate nullum datur Chaos per theor. 92.
+
+Scholion. LEIBNITIUS Tom. II. du Recueil. p. 188. Il n' est pas „ possible que l' Univers entier ne soit pas bien reglé, la prévalen- „ ce en perfections, étant la raison de l' existence de ce systeme „ des choses, préférablement à tout autre Systeme possible. Ain- „ si les desordres ne sauroient être que dans les parties. „
+
+## [p. 140] THEOREMA XCIII.
+
+Quælibet perceptio Monadis derivativæ involvit ejusdem consensum cum illo universo, cum quo idealiter in intellectu DEI jam est connexa.
+
+### Demonstratio.
+
+PErceptio quælibet Monadis derivativæ respicit omnes perceptiones reliquarum monadum universi alicujus, quatenus una monas in aliam non, nisi idealiter, agere potest, per theor. 77. & actiones tamen atque passiones mutuæ sunt, per theor. 80. & in perceptionibus consistunt, per theor. 28. adeoque singulæ perceptiones consentiunt cum omnibus perceptionibus monadum coëxistentium per ax. 1. Ergo quælibet perceptio monadis derivativæ involvit consensum cum illo universo, cum quo idealiter in intellectu DEI jam est connexa. Q. E. D.
+
+Coroll. Quælibet perceptio, etiam partialis, Monadum derivativarum est repræsentatio universi.
+
+Scholion I. In hoc Theoremate fundatur HARMONIA RERUM UNIVERSALIS. Vide supra Theorema 15. Pendet autem à determinatione perceptionis primi momenti in singulis Monadibus harmonicâ cum determinationibus perceptionum primi momenti in omnibus reliquis Monadibus. Hâc enim positâ, consequentes determinationes omnes perceptionum in monadibus singulis manent harmonicæ cum determinationibus omnibus reliquarum monadum. Determinatio perceptionis primi momenti harmonica quà existentiam suam in divinâ voluntate & potentiâ, quà essentiam suam in respectu fundatur, quem quælibet perceptio habet ad ceteras omnes coëxistentes aut successione connexas, hoc est à situ & tempore, idealiter in mundo possibili, realiter in existente.
+
+Scholion II. LEIBNITIUS dans sa Replique aux Reflex. de Monsr. BAYLE Tom. II. du Recueil. p. 406. Il n' y a point de chose individuelle, qui ne doive exprimer toutes les autres; de sorte, „ que l' ame, à l' egard de la varieté de ses modifications, doit „ être comparée avec l' Univers, qu' elle représente, selon son „ poinc
+
+[p. 141] point de vûë, & même en quelque façon avec DIEU, dont „ elle représente finiment l' infinité, à cause de sa perception con- „ fuse & imparfaite de l' infini, plûtot, qu' avec un atome ma- „ teriel. Et la raison du changement des pensees dans l' ame, est „ la même que celle du chancheinent des choses dans l' Univers „ qu' elle représente. Car les raisons de mecanique, qui sont „ developpées dans les corps, sont reünies, & pour ainsi dire con- „ centrées dans les ames ou entelechies & y trouvent même „ leur source. „
+
+## THEOREMA XCIV.
+
+Nulla perceptio sive in una eademque Monade derivativâ, sive in diversis, alteri cuicunque perceptioni per omnia similis est.
+
+### Demonstratio.
+
+PErceptio quælibet Monadis derivativæ involvit consensum cum perceptionibus coëxistentibus & successione connexis omnium monadum reliquarum ejusdem universi per theor. 93. Sed monades derivativæ nullo assignabili tempore per omnia similes sunt, per theor. 19. & 32. interna autem differentia monadum derivativarum consistit in gradu perfectionis essentialis repræsentandi universum, per theor. 86. Ergo nec perceptio una, sive in unâ eâdemque monade derivativâ sive in diversis, alteri cuicunque perceptioni per omnia similis est, per cor. theor. 93. Q. E. D.
+
+Coroll. I. Omnis Monas derivativa est SPECULUM UNIVERSI, nullo assignabili tempore Universum eodem modo repræsentans.
+
+Scholion. Sicut Specula Vulgaria repræsentant corpus lucidum per radiorum, à corpore radiante in superficiem speculi incidentium, sub eodem angulo ad oculum reflexionem; ita monades repræsentant universum in subjecto simplici, per respectûs, quos habent ad omnes reliquas monades, in universo coëxistentes, & in singulis ab intellectu infinito distinctè cognoscibiles. Quod igitur sunt specula corporea respectu oculi nostri, id sunt Monades, tanquam specula incorporea, respectu intellectûs infiniti.
+
+[p. 142] Coroll. II. Pars temporis & loci minima variationes admittit diversas, consequenter nullus Universi status alteri statui per omnia similis exstitit, existit & unquam existet.
+
+Scholion I. Fundatur in hoc theoremate MAGNITUDO HARMONIÆ UNIVERSALIS, in quà PHILOSOPHUS τὸ βάθος „ divinæ Sapientiæ constituit in Causâ DEI §. CXLII. p. 45. Ipsum „ βάθος in divinæ Sapientiæ thesauris vel in DEO abscondito, „ & (quod eodem redit) in Universali Rerum Harmoniâ latet; „ (quæ facit, ut hæc series universi, complexa eventûs, quos „ miramur, judicia, quæ adoramus, optima præferendaque omni- „ bus à DEO judicaretur.)
+
+Scholion II. Cel. BüLFFINGERUS dum nexum necessarium inter Magnitudinem sive perfectionem Harmoniæ rerum Universalis & repræsentationem Universi in singulis monadibus attentius considerat, illam non fore tam perfectam, nisi Monades singulæ universum actu repræsentarent, lubens agnoscit in Dilucid. Philosoph. „ Sect. V. cap. V. §. CXIX. p. 117. Certum est, inquit, decede- „ re hic (si scilicet unicuique Monadi creatæ tribuatur definita ali- „ qua activitatis sphæra, ultrà quam non repræsentet actu ipso „ alia) aliquid Harmoniæ omnium rerum universali, qualem il- „ lam ab illustri LEIBNITIO assertam esse communiter existi- „ mant, manet tamen universalis sensu laxiori. Namque si exi- „ stimes, non involvi ipso actu (etsi obscurè tantùm) in toto re- „ præsentationis cujuscunque simplicis ambitu res universi omnes: „ sequitur non ἁρμόζειν omnia, ut singula cum omnibus, hoc „ est, non singula quæque entia repræsentare actu omnia: potest „ tamen Harmonia hoc sensu Universalis dici, quod uniuscujus- „ que simplicis repræsentatio in suâ sphærâ activitatis repræsen- „ tatricis non tantùm non repugnet repræsentationibus cetero- „ rum, sed illis etiam ita consentiat & involvatur, ut nullibi hia- „ tus sit proximorum perfectus & absolutè talis, sed dum altera „ sphæra in alteram exporrigitur, omnes mutuo sint implicitæ. „ Unde cohæsio est & harmonica & universalis, si non singulo- „ rum, in sese spectatorum, actualis cum omnibus, tamen omnium „ inter sese & singulorum cum omnibus mediata.
+
+## [p. 143] THEOREMA XCV.
+
+Harmonia rerum universalis præstabilita est medium naturale obtinendi tantùm perfectionis in universo, quantum possibile est.
+
+### Demonstratio.
+
+Cùm Universum dicat aggregatum omnium entium simplicium atque compositorum, secundùm locum & tempus inter se connexorum, per def. 222. Perfectio universi maxima possibilis involvet consensum maximum possibilem omnium entium, inter se connexorum, per Schol. def. 140. & def. 227. consequenter relationem omnium entium simplicium atque compositorum ad communem scopum, sive resultans tale, ad quod præstandum omnia concurrunt, per Schol. cit. Quamobrem perfectio maxima possibilis universi agnoscit rationem sufficientem in solâ essentiâ repræsentatrice omnium simplicium & compositorum, vi cujus à singulis simplicibus & compositis omnia simplicia & composita in universo naturæ suæ convenienter repræsentantur, ut intellectus infinitus in unico ente simplici & composito, intueatur omnia, quæ fiunt in omnibus entibus simplicibus & compositis per ax. 1. Ergò harmonia rerum universalis præstabilita, est medium naturale obtinendi tantùm perfectionis in universo, quantum possibile est, per def. 274. & def. 151. Q. E. D.
+
+Coroll. I. Cùm essentiæ singularum Monadum derivativarum sint repræsentativæ universi, per theor. 84. & coroll. 1. theor. 94. Monades, quatenus sunt Specula Universi, media sunt naturalia, per def. 151. connectendi fines speciales cum fine ultimo universi, in eo consistente, ut universum sit speculum DEI opificis. Videatur infrà cor. theor. 125. & cor. 2. theor. 126.
+
+Coroll. II. Perfectio Universi intelligi & explicari non potest ab intellectu finito.
+
+[p. 144] Coroll. III. Harmonia Rerum Universalis hypothesis est, divinâ sapientiâ dignissima.
+
+Scholion I. BÆLIUS de hypothesi hâc honorificè sentit in dictionario suo art. RORARIUS, p. 2610. col. 2. „ Je considere pre- „ sentement ce noveau Systeme comme une conquête d' impor- „ tance, qui recule les bornes de la philosophie. Nous n' avions que „ deux hypotheses, celle de l' ecole & celle des Cartesiens. l' une „ étoit une voie d' influence du corps sur l' ame, & de l' ame sur „ le corps, l' autre étoit une voie d' assistance, on de causalité „ occasionnelle. Mais voici une nouvelle acquisition, c' est cel- „ le qu' on peut appeller avec le Pere LAMI de la connoissance „ de soi - meme Traité 2. p. 226. ed. 1699. voie d' harmonie „ preétablie. Nous en sommes redevables à Monsr. LEIBNIZ „ & il ne se peut rien imaginer qui donne une si haute idée de „ l' intelligence & de la puissance de l' Auteur de toutes choses. „ Item p. 2612. col. 2. Cette supposition quand elle sera bien de- „ veloppée, est le vrai moien de resoudre toutes les difficultez.
+
+Scholion II. Non ingratum erit Lectori, si primam occasionem hoc loco, ipsis LEIBNITII verbis distinctius aperuero, quam excolendi hanc hypothesin Philosopho suppeditavit Serenissima quondam Borussiæ Regina SOPHIA CHARLOTTA, ex Epistolâ Viri incomparabilis, Hanoverâ XXIII. Junii cIɔ Iɔccvii. „ ad me datâ: Cum olim Serenissima Prussorum Regina BAYLII Libros, doctrinæ & elegantiæ plenos, libenter legeret, & „ in his crebras objectiones circa justitiam divinam, Libertatem „ arbitrii, originem mali, causam peccati, &c. animadverteret, „ sententiam meam non raro rogabat. Ego verò ostendebam, „ non tantas esse difficultates quantæ viderentur, & rem omnem, „ (ni fallor,) rectè & dilucidè expediri posse. Et sanè, quæ of- „ ferebam, non displicebant. Itaque plus semel instabat IN- „ CLYTA REGINA, ut meditationes meas eo de argumento „ in chartam conjicerem, & gallicâ quidem linguâ, quo ab ipsâ „ & aliis etiam extrà Germaniam latinæ minus assuetis legi pos- „ sent. Cœperam opus, sed morte Reginæ filum abruperam. Sed „ cùm hâc hyeme Berolini agerem, amici, quibus voluntas Re- „ ginæ nota fuerat, ut ejus mandatis ex asse satisfacerem, urgere „ non desistere. Ita nata est mihi scriptio, (Theodicæa) quæ si „ præelo committeretur, octavâ formâ justæ magnitudinis libel- „ lum daret. Vellem autem typis batavis edi gallicum hoc scri- „ ptum:
+
+[p. 145] ptum : ita enim facilius per varias Europæ partes, ubi linguæ ejus usus est, dispergeretur : præsertim cùm ipsa BAYLII & Antagonistarum ejus scripta ibidem in Batavis gallicè sint edita. Nomen quidem meum non esset præfigendum Libello, (neque is adeò mos est scribentibus gallicè ) sed tamen neminem facilè Lectorum peritorum latere posset, ob doctrinas, partim insperfas, quas alibi jam tum exposui. „
+
+Scholion III. Fundatur in hoc Theoremate UNITAS MUNDI: Ob nexum enim universalem causarum efficientium cum effectibus per Leges motuum, omnia corpora in Mundo non sunt, nisi unum compositum: & ob nexum universalem finium & mediorum per Leges appetituum, omnes spiritûs unam absolvunt DEI civitatem ; & spiritûs omnes & corpora omnia ob nexum universalem motuum corporum cum perceptionibus Monadum per legem motuum & appetituum generalem Unum metaphysicum sive unam rerum universitatem constituunt.
+
+### THEOREMA XCVI.
+
+### Harmonia rerum universalis est principium certitudinis eventuum omnium in universo quocunque possibili.
+
+### Demonstratio.
+
+CErtitudo eventuum in universo aliquo possibili involvit determinatam unius propositionis, è duabus propositionibus contradictoriis, de aliquo facto veritatem, per def. 224. adeoque rationem sufficientem agnoscit, in adaptatione omnium simplicium & compositorum in principio rerum ad se invicem tali, vi cujus mutatio unius rationem continet mutationis, in altero factæ, & quilibet motus corporis connectitur cum omnibus reliquis motibus corporum omnium in universo per leges motuum, quælibet autem perceptio alicujus monadis connectitur cum omnibus reliquis perceptionibus reliquarum monadum in universo per leges appetituum , & perceptiones omnes cum motibus omnibus in universo per legem appetituum & motuum gene-
+
+[p. 146] generalem connectuntur in intellectu DEI opificis idealiter. Sed quæ idealiter jam connectuntur in intellectu DEI, illa rationem sufficientem agnoscunt in essentiâ repræsentatrice omnium simplicium & compositorum, in universo aliquo secundùm locum & tempus inter se connexorum , vi cujus omnia simplicia & composita in aliquo universo repræsentantur à singulis simplicibus & compositis, per ax. 1. Ergò Harmonia rerum universalis est principium certitudinis eventuum omnium in universo quocunque possibili, per def. 275. & def. 16. Q. E. D.
+
+Coroll. Consequentiæ & benè & malè factorum diuturnæ sunt & auctoribus suis superstites. Ex. gr. ex Neronis, diu jam defuncti, malis facinoribus hodiè mala patiuntur posteri contrà. intellectus ARCHIMEDIS, ( quo de legatur inter alios NICEPHORUS GREGORAS Scholiis in Librum SYNESII de Insomniis Operum SYNES. p. 366. ) antè multa sæcula defuncti, hodiè in intellectu aliorum adhuc effectum fortitur.
+
+Scholion I. In hoc Theoremate fundantur INFALLIBILITAS DIVINÆ PRÆSCIENTIÆ, & CERTITUDO PHILOSOPHIÆ PRACTICÆ. Conf. Acutissimus Philosophus CHR. WOLFIUS in Metaph. §. DXXI. & in annot. Met. pag. 182. 230. 272.
+
+Scholion II. Fundatur etiam in hoc Theoremate EFFICACIA & UTILITAS PRECUM HUMANARUM : quatenus illæ etiam ingrediuntur motivum prævalens eligendi existentiam hujus universi præ existentiâ reliquorum possibilium. LEIBNITIUS in Theodicæâ Part. I. §. LIV. p. 166. seq. add. BÜLFFINGERUS in Dilucid. Philos. Sect. II. cap. II. §. CLXI. p. 160.
+
+Scholion III. Fundatur in hoc Theoremate NECESSITAS SIBI ATTENDENDI ET A PECCATIS CAVENDI : quoniam eorum consequentiæ naturaliter perennes sunt ; indeque porrò deduci possunt OFFICIA NOSTRA ERGA ANTECESSORES in imitando, & ERGA POSTEROS in exhibendis vitæ exemplis. Conf. laudatus modò BÜLFFINGERUS de Originem mali. Sect. IV. §. CCCCXLVII. — CCCCLI. p. 415. — 422. incl.: & specimen Doctrinæ Moralis Veterum Sinarum Sect. Special. I. §. L. p. 55.
+
+[p. 147] Scholion IV. LEIBNITIUS in Epistolâ , Hanoverâ XXX. Sept. cIↃ IↃCCXI. ad me datâ : CARTESIUS ad LIBERTATEM videtur requirere omnimodam indeterminationem. Sed talis notio Libertatis est impossibilis. SPINOSA CARTESII mentem solet detorquere ad suam. Ex sensu intimo nulla infertur Libertas, ut benè notavit etiam BAYLIUS. Res enim resolveretur in argumentum tale negativum. Ego non sentio ; Ergo non adest. Certè etsi nos rationes necessitatis non sentiremus , possent tamen subesse , neque enim omnia sentimus, quæ in nobis fiunt, cùm multas habeamus perceptiones confusas, quarum ingredientia à nobis non sentiuntur. Add. Theodicæa Part. III. §. CCCIII. p. 492. CCCX. p. 499.
+
+Scholion V. Optimè BOETHIUS de Consolatione Philosophiæ Lib. V. Prosâ VI. Operum p. 1115. FUTURA , quæ ex arbitrii libertate proveniunt, ad intuitum relata divinum , necessaria fiunt per conditionem divinæ notionis : per se verò considerata ab absolutâ naturæ suæ libertate non deficiunt.
+
+### THEOREMA XCVII.
+
+### Essentia Monadis Originariæ est repræsentativa omnium Universorum possibilium, idque omni modo possibili.
+
+### Demonstratio.
+
+Cùm sine essentiâ Monadis Originariæ repræsentativâ, nulla existere possit essentia alia repræsentativa alicujus universi possibilis, per def. 87. & ex illis essentiis repræsentativis possibilibus existant essentiæ monadum, universi optimi repræsentativæ, per theor. 83. 84. erit essentia monadis originariæ in repræsentatione suâ nullorum limitum capax, per ax. 1. consequenter nec quà objectum, nec quà gradum distinctionis in repræsentando erit limitata. Sed talis essentia est repræsentativa omnium universorum possibilium simpliciter, idque omni modo possibili. Ergò essentia Monadis Originariæ est repræsentativa omnium universorum possibilium, idque omni modo possibili. Q. E. D.
+
+[p. 148] Coroll. I. Essentia Monadum derivativarum imitatur essentiam Monadis Originariæ , in quantum repræsentatio earum à limitibus, ex essentiâ earum fluentibus, abstrahitur, per theor. 76. & 84.
+
+Coroll. II. Essentia DEI rectè collocatur in repræsentatione omnium universorum possibilium , idque omni modo possibili per cor. theor. 59.
+
+Scholion I. LEIBNITIUS dans sa Replique aux Reflexions de Mr. BAYLE Tom. II. du Recueil. p. 409. 410. DIEU exprime tout distinctement & parfaitement à la fois, possible & existant, passé, présent & futur ; Il est la source universelle de tout, & les Monades créées l' imitent autant, qu' il est possible que les creatures le fassent : il les a fait sources de leurs phénomenes, qui contiennent des rapports à tout, mais plus ou moins distincts, selon les degrez de perfection de chacune de ces substances.
+
+Scholion II. Patet ex hoc Theoremate , Celeb. WOLFIUM , Principiis Leibnitianis convenienter, Essentiam DEI ponere in Vi Universi repræsentativâ illimitatâ. Met. §. MLXVII. MLXVIII. & Essentiam Animæ in Vi universi repræsentativâ limitatâ Met. §. DCCLV. DCCLVI. in repræsentatione autem similitudinem utriusque essentiæ ; in capacitate vel incapacitate limitum differentiam utriusque essentialem infinitam quærere. §. MLXXVI.
+
+### THEOREMA XCVIII.
+
+### Monas Originaria est sine Organis.
+
+### Demonstratio.
+
+ESsentia Monadis Originariæ est repræsentativa omnium universorum possibilium in gradu distinctionis absolutè summo , per theor. 97. adeoque Monas Originaria nullam alicujus universi possibilis partem distinctius repræsentat partibus reliquis , & proinde omnia æquè distinctè repræsentat in omnibus universis possibilibus. Quamobrem monas originaria repræsentat Entia, ut in se sunt, non secundùm schesin, quâ se mutuo respiciunt, alia remotè, alia proximè, & proinde non percipit continuum , per def. 50. 65. 109. consequenter nec materiam, per def. 172. Ergò Monas
+
+[p. 149] Monas Originaria nullam etiam materiæ partem distinctius percipit reliquis partibus, adeoque nullum agnoscit schema repræsentationis, per def. 100: Sed quod nullum agnoscit schema repræsentationis, illud nec repræsentat sibi partem aliquam universi instar compositi dissimilaris , in quo repræsentationes suas producere videtur, & secundùm cujus mutationes, in partibus aliis atque aliis extantioribus, compositorum omnium reliquorum mutationes repræsentat. Ergò Monas Originaria est sine Organis, per def. 197. Q. E. D.
+
+Coroll. Cùm Sensûs & Affectûs involvant Organa : in DEUM non cadere possunt, per cor. theor. 59. Cavendus igitur est Anthropomorphismus, qui in conceptibus, de divinâ essentiâ divinisque proprietatibus consistit, ejusmodi, qui imperfectionem humanam inferunt.
+
+Scholion. Anthropomorphitæ extiterunt tempore JOHANNIS X. Pontificis Romani Anno CHRISTI 917. DEUM humano corpore ponentes, quorum Errorem FANTINUS Præsul Veronensis doctissime redarguit. RAPHAEL VOLATERRANUS Commentar. Lib. XXII. coll. 795.
+
+### THEOREMA XCIX.
+
+### Non datur Vacuum, in rerum universitate disseminatum.
+
+### Demonstratio.
+
+IN Universo existente , quælibet Monas derivativa diversum obtinet situm, per theor. 91. consequenter monades ita coëxistere possunt , ut non admittant aliarum monadum existentiam intermediam , & proinde Monades continuum efficere possunt , per def. 50. Sed monades etiam sunt dissimiles, per theor. 19. & harmonicæ tamen, per theor. 95. Quare , si Monades coëxistentes non efficiunt continuum, non datur harmonia rerum maxima possibilis , adeoque nec universum existens ex infinitis possibilibus est optimum, per ax. 1. Sed datur harmonia rerum maxima possibilis,
+
+[p. 150] per theor. 95. & universum existens est optimum per theor. 83. Ergo monades continuum efficiunt, adeoque non datur Vacuum in rerum universitate disseminatum. Q. E. D.
+
+Coroll. Cùm Synthesis monadatorum ex monadibus non involvat contradictionem per theor. 99. exhibendæ existentiæ Continui per aggregationem Monadum sufficit potentia infinita per def. 245.
+
+Scholion I. Supponit hæc demonstratio Analysin materiæ in Elementa sua dissimilia & harmonica : quâ suppositâ , quo major existit materiæ quantitas, hoc major existit occasio sapientiam infinitam demonstrandi. Confer supra Theor. VII. Schol. I. LEIBNITIUS Epistol. IV. ad CLARKIUM Tom. I. du Recueil. p. 61. 62. „ Vouloir du vuide dans la nature, c' est attribuer à Dieu une „ production tres-imparfaite ; c' est violer le grand principe „ de la necessité d' une raison suffisante , que bien des gens ont „ eu dans la bouche, mais , dont ils n' ont point connu la force, „ comme j' ai montré dernierement, en faisant voir par ce principe , que l' espace n' est qu' un ordre des choses comme le „ tems , & nullement un etre absolu. Sans parler deplusieurs „ autres raisons contre le Vuide & les atomes ; en voici celles, „ que je prends de la perfection de DIEU , & de la raison suffisante. Je pose, que toute perfection , que DIEU a pû mettre „ dans les choses sans déroger aux autres perfections, qui y sont, „ y a été mise. Or figurons nous un espace entierement vuide „ DIEU y pouroit mettre quelque matiere sans déroger en rien „ à toutes les autres choses : donc il l' y a mise : donc il n' y a „ point d' espace entierement vuide : donc tout est plein. Le „ même raisonnement prouve , qu' il n' y a point de corpuscule, „ qui ne soit subdivisé. Voici encore l' autre raisonnement pris „ de la necessité d' une raison suffisante. Il n' est point possible „ qu' il y ait un principe de determiner la proportion de la matiere on du rempli au vuide, on du vuide au plein. On dira „ peut être que l' un doit être égal à l' autre ; mais comme „ la matiere est plus parfaite que le vuide, la raison veut qu' on „ observe la proportion geometrique , & qu' il y ait d' autant „ plus de plein qu' il merite d' être préferé. Mais ainsi il n' aura point de vuide du tout ; car la perfection de la matiere est „ à celle du vuide, comme quelque chose à rien. Il en est de mê-
+
+[p. 151] me des atomes. Quelle raison peut on assigner de borner la „ nature dans le progres de la subdivision ? Fretions purement „ arbitraires & indignes de la vraye philosophie. Les raisons qu' „ on allegue, pour le vuide, ne sont que des Sophismes. „
+
+Scholion II. De Experimentis Vacuistarum legi possunt ANTON. DEUSINGIUS in Disquis. Physic. Mathem. de Vacuo & attractione Amstelodami 1661. in 12. WOLFERDUS SENGVERDIUS in Inquisitionibus experimentalibus Lugd. Bat. 1690. in 4to. BERNIER. loc. cit. cap. XV. p. 190. — 208. incl.
+
+Scholion III. CARTESIUS essentiam corporis in extensione constituit , consequenter Spatium absolutum & corpus pro iisdem habet. Part. I. Epist. XXXVI. p. 81. Ep. LXVII. p. 185. seq. Tenetur igitur asserere, ne virtute quidem divinâ fieri posse, ut propriè dictum existat vacuum. Part. I. Ep. LXVI. p. 179.
+
+### THEOREMA C.
+
+### Communicatio motûs in pleno procedit ad quamlibet distantiam.
+
+### Demonstratio.
+
+Cùm motus naturaliter non desinat, licet in infinitum decrescat, per exper. & ax. 2. in pleno quodlibet corpus minimum à motu quovis minimo reliquorum omnium corporum recipit aliquem impetum, consequenter omnis motus in pleno aliquem effectum fortitur in omnibus corporibus pro ratione distantiæ, per theor. 99. Ergo motûs communicatio in pleno procedit ad quamlibet distantiam. per cor. 4. def. 176. Q. E. D.
+
+Scholion. Recordor hâc occasione exempli, quo LEIBNITIUS uti solebat : scilicet motum brachii sui effectum aliquem in fixis stellis fortiri, etsi effectus ille pro ratione distantiæ decrescat.
+
+THEO-
+
+### [p. 152] THEOREMA CI.
+
+### Omne corpus illud repræsentat universum in subjecto multiplici, cum quo in intellectu DEI jam idealiter est connexum.
+
+### Demonstratio.
+
+QUandoquidem communicatio motûs in corporibus universi ad quamlibet procedit distantiam, per theor. 100. cuilibet corpori non tantùm impetus aliquis communicatur à corporibus , quæ ipsum immediatè tangunt, verùm etiam, illis mediantibus, à corporibus, quæ prima tangunt ; adeòque omne corpus in universo corporeo afficitur à motibus omnium reliquorum corporum, per ax. 1. Quare in statu præsenti cujuslibet corporis intellectus infinitus intuetur quicquid in universo corporeo tam secundùm tempus, quam secundùm spatium elongatur, adeoque quidquid vel jam factum in eodem, vel adhuc futurum est. Ergò omne corpus illud repræsentat universum in subjecto multiplici, cum quo in intellectu DEI jam idealiter est connexum, per def. 270. Q. E. D.
+
+Scholion I. LEIBNITIUS dans sa Replique aux Reflexions de Mr. BAYLE Tom. II. Recueil. p. 396. „ Les corps n' étant pas des atomes . mais divisibles & divisez même à l' infini ; & tout en étant plein ; il s' ensuit, que le moindre petit corps reçoit quelque impression du moindre changement de tous les autres, quelques éloignez & petits qu' ils soient, & doit être ainsi un miroir exact de l' univers ; ce qui fait, qu' un esprit assez pénétrant pour cela pourroit, à mesure de sa pénétration voir & prevoir dans chaque corpuscule, ce qui se passe & se passera, & dans ce corpuscule & au dehors. Ainsi rien n' y arrive , pas même par le choc des corps environnans, qui ne suive de ce, qui est déja interne, & qui en puisse troubler l' ordre. „
+
+Scholion II. Per Principia hujus Philosophiæ Perceptio propriè sic dicta est repræsentatio multitudinis externæ in subjecto simplici per def. 99. Igitur Perceptio in nullum compositum cadit, per theor. 33. Ca-
+
+[p. 153] 33. Cadit tamen in composita repraesentatio multitudinis, essentiae compositi conveniens, qualis est, quae fit in subjecto multiplici; quatenus impetus non nisi per partes communicari potest, corpus subjectum compositum supponit: & in regno causarum efficientium Perceptionem quodammodo imitatur. Quo sensu §. LXIII. PHILOSOPHUS asserit: Unumquodque corpus QUODAMMODO PERCIPERE id, quod accidit in universo. In quo abit ab hypothesi GEORGII RITSCHELII, in Contemplationibus Metaphysicis, Part. I. cap. XI. §. III. IV. pag. 198. seq. (quem fide citamus CL. BüLFFINGERI in dilucidationibus Philosophicis saepè laudatis.) Hic enim entibus simplicibus & compositis Perceptionem tribuit, eamque à principio quoque externo deducit. Quicquid, inquit, agit in aliud, illud quodam impetu percutit, à quo si movetur percussum, fieri non potest, quin se jam aliter habeat, ac anteà. Hoc vero PERCEPTIONEM percussionis in percusso indicat, quia ipso aspectu deprehendimus, ut cucumis sese ad appositam aquam exporrigat & in longum crescat, avertatur autem ab apposito oleo, & in rugas torqueatur; quod non fieret, nisi illam actionum diversitatem PERCIPERET. Non quasi cucumis expressam illorum motuum, vi imaginante hauriat imaginem, ut in animalibus fit: sed quia ne concipere quidem possumus, quomodo aliquid actionem, ut convenientem sibi, admittat, & aliam, ut alienam respuat, nisi vim earum discretricem naturalem habent. Discernere autem percipere est. Interim illa perceptio diligentissimè à sensu animalis distinguenda, ne vox in erroris praecipitium deducat, &c.
+
+## THEOREMA CII.
+
+### Vis passiva simplex Monadum derivativarum est principium materiae in corporibus.
+
+#### Demonstratio.
+
+Monades derivativae sunt substantiae, per theor. 26. & quidem simplices per def. 86. mutationibus obnoxiae per cor. theor. 22. quae, quatenus earum ratio est extrà monades ipsas, sunt passiones illarum monadum, per def. 94. adeoque quaelibet monas derivativa est substantia comple-
+
+[p. 154] ta, quae vim agendi simplicem & vim patiendi sive resistentiam simplicem in se habet per def. 80. Sed in multiplicatione resistentiae simplicis continuitas resistentiae in corporibus rationem sufficientem agnoscit, per. def. 50. & 171. Ergo Vis passiva simplex Monadum derivativarum est principium materiae in corporibus, per def. 172. & def. 16. Q. E. D.
+
+Scholion I. LEIBNITIUS Tom. II. du Recueil. p. 190. „Comme les Monades sont sujettes aux passions, excepté la primitive, elles ne sont pas des forces pures, elles sont les fondemens, non seulement des actions, mais encore des resistances ou passibilitez & leurs passions sont dans les perceptions confuses, ce qui enveloppe la matiére ou l' infini en ombres.
+
+Scholion II. Fundatur in hoc Theoremate Solutio dubii WOLFIANI, adversus Perceptiones Monadum nudarum in Annot. Metaph. §. CCLI. p. 382. propositi.
+
+## THEOREMA CIII.
+
+### Vis activa simplex Monadum derivativarum est Principium naturae in corporibus.
+
+#### Demonstratio.
+
+Cùm vis motrix consistat in conatu partium materiae, per def. 186. & conatus ille non sit, nisi tendentia continua partium materiae ad producendum motum, per def. 185.; partes autem materiae involvant continuum, quod rationem sufficientem in aggregatione monadum agnoscit, per def. 170. & 172.; manifestum est, vim motricem involvere continuam tendentiarum simplicium in monadibus derivativis coëxistentiam. Quare vis motrix rationem sufficientem agnoscit in multiplicatione virium activarum simplicium monadum derivativarum, adeoque in vi activâ simplici ipsarum monadum, per ax. 1. Ergò principium vis motricis est vis activa simplex monadum derivativarum, per def. 16. Sed quod est principium vis motricis, idem etiam
+
+[p. 155] etiam est principium naturae in corporibus, per def. 190. Ergo Vis activa simplex monadum derivativarum est principium naturae in corporibus. Q. E. D.
+
+Scholion I. Sicut ad genesin Resistentiae in corporibus, quam Inertiam materiae etiam vocare licet, sufficit multiplicatio Virium passivarum simplicium, per theor. 102: ita ad genesin Naturae in corporibus sufficit multiplicatio Virium activarum simplicium. Vis activa simplex est principium internum perceptionum per cor. 1. def. 96. multiplicata autem est principium naturae, quae est principium externum motuum in corporibus per Schol. def. 185.
+
+Scholion I. Huc pertinent illa LEIBNITII: Vis activa primitiva in omni substantià corporea per se inest, cùm corpus omni modè quiescens à rerum naturà abhorrere arbitrer, in Actis Erud. Lipsiensibus 1694. p. 146. Principium activum, materialibus notionibus superius, ubique in corporibus admitto. ibid. p. 153. Ipsa rerum substantia in agendi patiendique vi, consistit in actis Erud Lipsiensibus 1698. p. 432. In quolibet corpusculo est Vis motrix sive natura, essentiae corporis & materiae superaddita, quae semper agit, sed variè ex corporum concursibus per conatûs impetûsque modificatur. ibid. p. 434. Vis activa inter facultatem agendi & actionem media est, & solà sublatione impedimenti ad operationem mitiget. Ultima ratio motûs in materià est Vis, in creatione impressa, quae in unoquoque corpore inest, sed ipso conflictu corporum variè in naturà limitatur & coërcetur.
+
+## THEOREMA CIV.
+
+### Extensio est phaenomenon, sed in principio materiae fundatum.
+
+#### Demonstratio.
+
+Extensio non est, nisi perceptio continuitatis in diversis partibus coëxistentibus, per def. 199. adeoque est perceptio, quae, quà id, quod continet, rationem sufficientem agnoscit in relatione ad impressionem, ab aggregato monadum in oculo productam, per theor. 103. Ergo Extensio est
+
+[p. 156] est phaenomenon, sed in principio materiae fundatum, per def. 189. & theor. 102. Q. E. D.
+
+Scholion I. LEIBNITIUS in Epistolâ ad REMONDUM Tom. II. du Recueil. pag. 133. „Les Monades ou les substances simples, sont les seules véritables substances, & les choses materielles ne sont que des PHENOMENES; mais bien fondez & bien tiez. add. p. 189. La Matiére n' est autre chose qu' un PHENOMENE, mais bien fondé resultant des Monades. Illustrare solebat hoc theorema PHILOSOPHUS simili, ab IRIDE desumto, nullam rationem sufficientem inveniens, cur tactus prae visu privilegio quodam gaudere deberet.
+
+Scholion II. Apparet ex hoc Theoremate IDEALISMUM LEIBNITIO injustè imputari; quo de legatur BüLFFINGERUS in Dilucid. Philos. Sect. I. cap. V. §. CXVI. CXVII. CXVIII. p. 111.— 116. incl.
+
+Coroll. Monades ipsae in extensione non nisi obscurè percipiuntur; dum continuum percipitur, cujus perceptio in relatione ad impressionem, ab aggregato monadum, ex modo coëxistendi ipsarum Monadum resultante, in oculo productam, fundatur.
+
+Scholion. Ità ex. gr. Unitates illas numeri magni, quas in partibus ipsius non discernimus, in illis tamen obscurè percipimus.
+
+## THEOREMA CV.
+
+### Pars qualibet materia peculiari motu est praedita.
+
+#### Demonstratio.
+
+Partes materiae sunt continuum, quod in aggregatione Monadum rationem sufficientem agnoscit, per def. 172. & def. 170. adeoque continent vim activam simplicem multiplicatam, per theor. 25. Partes igitur materiae continent vim motricem, per theor. 103. Sed vis motrix involvit conatum, partium in partibus materiae per def. 186. & conatus partium nisum earum, quà directionem indeterminatum, per def. 185. consequenter vis motrix involvit id, quod in motu reale est, per Schol. 1. def. 185. Ergo Partes mate-
+
+[p. 157] materiae continent id, quod in motu reale est. Jam verò qualibet etiam pars materiae impetum recipit ab omnibus reliquis materiae partibus, per theor. 100. adeoque in qualibet materiae parte sequitur motus, si impedimentum, aequalis scilicet resistentia, removeatur, per cor. 3. def. 189. Ergò Pars qualibet materiae peculiari motu est praedita, Schol. cit. Q. E. D.
+
+Coroll. Non dantur partes materiae perfectè solidae, quarum partes unam simplicem entitatem constituant.
+
+Scholion I. Fundatur igitur in hoc Theoremate IMPOSSIBILITAS ATOMORUM MOLIS & NECESSITAS EXISTENTIAE MONADUM. Vid. ipse LEIBNITIUS Epist. V. ad CLARKIUM §. XXII. Tom. I. du Recueil. p. 92. Quae contrà illud movent Atomistae Imaginationi, non Rationi satisfaciunt. Vid. BERNIER loc. cit. cap. X. p. 109. 110. 111. 116. 117. 118. Confer. suprà Theorema VII. & LXXXIV.
+
+Scholion II. Usus est hoc Theoremate jam in Hypothesi physicâ novâ §. II. LEIBNITIUS, in quà id etiam seni placebat, quod phaenomena naturalia reduxisset ad tria generalia capita: Gravitatem, Vim Elasticam & directionem.
+
+## THEOREMA CVI.
+
+### Motus in corporibus naturaliter non nisi ex motu oritur.
+
+#### Demonstratio.
+
+IN corporibus materia motui resistit per exper. corpus tamen motum aliud movet, per exper. adeoque motus in corporibus rationem sufficientem existentiae agnoscit in impetu, partibus materiae à principió externo successivè communicato, per ax. 1. Quare nullum corpus movetur, nisi directio motus ab alio corpore moto per trusionem determinetur, per def. 189. Ergo motus in corporibus naturaliter non nisi ex motu consequitur, per def. 170. Q. E. D.
+
+## [p. 158] THEOREMA CVII.
+
+### Pars qualibet materia actu in infinitum est subdivisa.
+
+#### Demonstratio.
+
+Pars qualibet materiae peculiari motu est praedita, per theor. 105. adeoque, sublato impedimento, locum suum mutat, per Schol. def. 185. Qualibet igitur pars materiae actu à partibus coëxistentibus est separata, per def. 193. & cor. theor. 105. Ergò pars qualibet materiae actu in infinitum est subdivisa, per def. 58. & cor. theor. 99. Q. E. D.
+
+Coroll. I. Cùm Analysis partium materiae in Monades nullam in se involvat contradictionem, cadit sub potentiam infinitam, per def. 246.
+
+Coroll. II. Monades dici possent sano sensu Partes Monadatorum infinitè parvae.
+
+Scholion I. BOETHIUS agnovit infinitam temporis subdivisionem Lib. II. de Consolatione Philosophiae Prosâ VII. Oper. pag. 1000. „Unius mora momenti si decem millibus conferatur annis, quoniam utrumque spatium definitum est, minimam licet, habet tamen aliquam proportionem. At hic ipse numerus annorum, ejusque quantumlibet multiplex ad interminabilem diuturnitatem ne comparari quidem potest. Ita fit ut quanticunque prolixi temporis Fama, si cum in exhaustâ Aeternitate cogitetur, non parva, sed planè nulla esse videatur.
+
+Scholion II. CAMPANELLA veritatem Theorematis hujus agnoscens pariter videtur in quaestionibus Physiolog. quaest. VIII. Tom. II. Operum p. 43. Materia in atomos partes dividi & in molem maximam uniri à causis agentibus apta est. Scientia autem de particulis ejus non datur mortalibus, quoniam indefinita sunt, & latent sensum atque ignotae prorsus.
+
+Scholion III. CARTESIUS pariter admittit progressum in infinitum in subdivisione partium materiae. Part. I. Epist. LXVII. pag. 186. Epist. CXV. p. 369. Addatur TSCHIRNHAUSEN in medicinâ mentis Part. II. Sect. III. p. 187.
+
+[p. 159] Scholion IV. LEIBNITIUS in Journal des Sçavans 1695. p. 446. Ubi materia, ibi aggregatum partium in infinitum. Tom. II. du Recueil. p. 404. A mon avis, il n' y a point d' atomes de matieré dans la nature, la moindre par celle de la matière ayant encore des parties.
+
+## THEOREMA CVIII.
+
+### Pars qualibet materia continet mundum creaturarum.
+
+#### Demonstratio.
+
+Pars qualibet materiae actu in infinitum est subdivisa, per theor. 107. & partes singulae repraesentant universum in subjecto multiplici, per theor. 101, & consequenter pars qualibet materiae continet aggregatum creaturarum, secundùm locum & tempus inter se connexarum, per ax. 1. Ergo pars qualibet materiae continet Mundum creaturarum, per def. 222. Q. E. D.
+
+Coroll. Mundi in Mundis dantur in infinitum.
+
+Scholion. LEIBNITIUS Epist. IV. ad SAM. CLARKIUM Tom. I. du Recueil. p. 60. Nous voudrions que la nature n' allât pas plus loin; qu' elle fût finie, comme nôtre esprit; mais ce n' est point connoître la grandeur & la Majesté de l' Auteur des choses. Le moindre corpuscule est actuellement subdivisé à l' infini, & contient un monde de nouvelles creatures, dont l' Univers manqueroit, si ce corpuscule étoit un atome; c' est à dire, un corps tout d' une piece sans subdivision.
+
+## THEOREMA CIX.
+
+### Corpus Organicum viventis est Organicum in qualibet parte minima in infinitum.
+
+#### Demonstratio.
+
+Corpus organicum viventis actu in infinitum est subdivisum, per theor. 105. & ejusdem pars qualibet est ag-
+
+[p. 160] gregatum monadum dissimilare, per theor. 103. & theor. 19. consequenter illud in infinitum continet composita, quae agnoscunt diversas determinationes compositionis in partibus diversis, ita ut una pars prae aliâ extantiorem cum corporibus ambientibus involvat connexionem, & fortiorem ab illis impressionem recipere apta sit. Sed tale compositum est organicum in qualibet parte minimâ in infinitum, per def. 197. Ergò corpus organicum viventis est organicum in qualibet parte minimâ in infinitum. Q. E. D.
+
+Coroll. I. Corpus organicum viventis est Machina divina, per def. 216.
+
+Scholion. LEIBNITIUS dans sa Replique aux Reflex. de Monsieur BAYLE Tom. II. du Recueil. pag. 393. Il est vrai, que le monde est une machine composée, dans chacune de ses parties, d' un nombre véritablement infini de ressorts: mais il est vrai aussi, que celui, qui l' a faite, & qui la gouverne, est d' une perfection encore plus infinie; puisqu' elle va à une infinité de mondes possibles, dont il a choisi celui qui lui a plû.
+
+Coroll. II. Omnia viventium plena sunt in Universo, per def. 206.
+
+Scholion I. LEIBNITIUS loc. cit. p. 395. „Il faut par tout des entelechies, & c' est avoir une petite idée de l' Auteur de la nature qui multiplie, autant qu' il se peut, ses petits Mondes, ou se miroirs actifs indivisibles,) que de n' en donner qu' aux corps humains. Il est même impossible, qu' il n' y en ait par tout.
+
+Scholion II. PAULLINI in Disqu. curiosâ; „an Mors naturalis sit substantia verminosa? p. 18. seqq. Vermes, inquit, observantur in igne, plantis, medicamentis officinalibus; item in Mehl-Thau, in nive, aquâ, cerevisiâ, aceto &c p. 51. in muris, metallis, ibid. & in cerebro, hepate p. 56.
+
+## [p. 161] THEOREMA CX.
+
+*Nulla Monas derivativa est sine organis.*
+
+### Demonstratio.
+
+Monades derivativae sunt substantiae, *per theor. 26.* & quidem finitae *per cor. theor. 21.* consequenter essentia Monadum repraesentativa *per theor. 84.* in repraesentatione, tum quà objectum repraesentationis, tum quà gradum distinctionis ejusdem, est limitata *per def. 79.* adeoque Monades derivativae nec omnia universa possibilia absolutè, nec illud etiam, cum quo jam idealiter in intellectu DEI connectuntur, quà ingredientia sua, in gradu distinctionis absolutè summo repraesentant. Sed quod nulla ingredientia universum, in gradu absolutè summo distinctionis repraesentat, illud in repraesentatione singulorum ingredientium plura diversa instar unius repraesentat. Ergo Monades derivativae universum confusè repraesentant, *per def. 104.* consequenter Entia non repraesentant sibi, ut in se sunt, sed ut unum agit idealiter in alterum, & ut relationibus se mutuis entia singula respiciunt. Quamobrem Monades derivativae percipiunt continuum, & proinde materiam, *per def. 50. & def. 172.* secundùm connexionem, quam materia habet cum parte illà materiae, secundùm quam fit repraesentatio, *per theor. 28.* Monades igitur derivativae universi partem aliquam immediatè & distinctius repraesentant partibus reliquis, *per def. 100.* Sed cùm *per demonstrata* Monades derivativae nullum ingrediens in illud universum, quod repraesentant, in summo distinctionis gradu repraesentent, nec schema repraesentationis in summo distinctionis gradu repraesentant, consecq. in schemate etiam ipso percipiunt materiam, *per def. 50. & def. 172.* Quamobrem Monades derivativae sibi repraesentant aliquam universi partem, tanquam compositum dissimilare, in quo repraesentationes suas sibi producere videntur, & secun-
+
+[p. 162] dùm cujus mutationes, in partibus aliis atque aliis extantiores, sibi mutationes compositorum omnium in universo, in quo continentur, repraesentant. Ergo Monades derivativae non sunt sine organis, *per def. 197.* Q. E. D.
+
+Scholion I. LEIBNITIUS in Epistolâ, Brunsuigâ IV. Sept. clɔ Iɔccxvi. ad me datâ: Mallem dicere *omnem Monadem esse incorporatam*, seu omnem Monadem suum corpus organicum habere atque ita *Vivum* constituere. Omne vivum appellari posset *Monadatum*, quod ab unà scilicet Monade dominante vegetatur; Vicissim posset dici, *omnem Monadem Monadare*, seu corpus aliquod vivum vegetare, sed non ipsam Monadari.
+
+Coroll. I. Non dantur Animae prorsus separatae.
+
+Scholion I. LEIBNITIUS Epist. V. ad CLARKIUM §. LXI. Tom. I. du Recueil. p. 119. Je tiens avec les Anciens & avec la Raison, *que les Anges ou les Intelligences, & les Ames separées du corps grossier, ont toûjours des corps subtils,* quoi qu' elles mêmes soient incorporelles. La philosophie vulgaire admet aisément toute sorte de fictions; la mienne est plus severe. Item *Tom. II. Recueil. p. 384. seq.* J' accorde une existence aussi ancienne que le monde, non seulement aux Ames des Bêtes, mais généralement à toutes les Monades, ou substances simples, dont les phénoménes composez resultent; & je tiens que *chaque ame, ou Monade, est toûjours accompagnée d' un corps organique,* mais, qui est dans un changement perpetuel, de sorte, que le corps n' est pas le même, quoique l' ame & l' Animal le soit. Add. Theodicaeà *Part. II. §. CXX. pag. 248. &* §. CXXIV. *pag. 261.*
+
+Scholion II. Memini PHILOSOPHUM subtilitatem tantam Organis angelorum assignâsse, ut aliquot milliones angelorum cum organis suis non occupent spatium unius guttulae aqueae.
+
+Scholion III. Optimè PHILOSOPHUS in Epistolâ Hanoverâ, XVI. Octobr. clɔ Iɔccxii. ad me datâ: Possum à communi sententià doctorum recedere, etsi non recedam à communi doctrinâ Ecclesiae. Hoc facio in Doctrinâ de Angelis, quos quidem Spiritûs esse statuo, sed semper corpora indutos, etsi minus iisdem affixos, quàm sunt animae nostrae. Consentiunt Patres tam graeci, quàm latini. Notanter GENNADIUS
+
+[p. 163] DIUS Massiliensis Libro de Ecclesiasticis dogmatibus, *cap. XII. Tom. III. Oper.* AUGUSTINI *col. 197.* Creatura omnis corporea est, angeli & omnes coelestes virtutes corporeae, licet non carne subsistant. Ex eo autem corporeas esse credimus intellectuales creaturas, quod localiter circumscribuntur, sicut & anima humana, quae carne clauditur & daemones, qui per substantiam angelicae naturae sunt. Ante & post GENNADIUM idem alii Ecclesiae Doctores docuerunt, quorum testimonia collegit GER. JO. VOSSIUS de Origine & progressu Idol. *Lib. I. cap. VI. p. 17. 18.* Et SIXTUS SENENSIS Bibliothecae Sanctae *Lib. V. annotat. VIII. p. 329.* observat, sententiam de creaturis prorsus incorporeis Scholasticae Theologiae Professoribus originem debere, ipse autem τὸ ἐπίσχειν eligit. ARISTOTELES *Lib. II. de Generat. Animal. cap. III. Tom. II Operum p. 618.* πάσης μὲν οὖν ψυχῆς δύναμις, ἑτέρου σώματος ἔοικε κεκοινωνηκέναι, καὶ θειοτέρου τῶν καλουμένων στοιχείων, ὡς δὲ διαφέρουσι τιμιότητι αἱ ψυχαὶ καὶ ἀτιμίᾳ ἀλλήλων, οὕτω καὶ ἡ τοιαύτη διαφέρει φύσις. Sed enim omnis animae Virtus corpus aliud participare videtur, idque magis divinum, quàm ea, quae Elementa appellantur. Verum prout nobilitate ignobilitateve animae inter se differunt, ita & natura ejus corporis differt.
+
+Scholion IV. Adde sequentia THOMAE CAMPANELLAE: Videntur PHILONI, PLATONEM secuto, corporei esse Angeli. Idem sentiunt ORIGENES, & BASILIUS, CASSIANUS, DAMASCENUS, LACTANTIUS, & aliquando CAJETANUS & HILARIUS, & in Concilio Ephesino secundo JOANNES THESSALONICENSIS putat constare ex corpore aëreo, igneoque, prout DAVID ait: *qui facis angelos Spiritus & ignem urentem.* Et ATHANASIUS & METHODIUS suffragantes allegantur. HILARIUS autem id probat, quia *omne creatum in aliquo receptum est.* Et tandem AUGUSTINUS in mille locis hanc sententiam adstruit, putatque cum Graecis nil incorporeum, excepto DEO: angelis autem tenuissima inesse corpora & immortalia, quoniam constant ex igne & aëre, activis elementis, non autem ex humo & humore passibilibus, ut dicit in Libro de Divinitat. Idem MAHOMETUS quo-
+
+[p. 164] quoque in Alcorano docet, angelos ex igne, homines ex luto creatos. Et HIERONYMUS interdum sidera esse Spiritus angelicos corporatos docet cum ORIGENE. At contrà his opponuntur DIONYSIUS & CYRILLUS & CHRYSOSTOMUS, quos sequitur *totus Scholasticorum Theologorum chorus,* duce THOMA. BERNHARDUS autem sub dubio relinquit, utrum corpora sint angelis adnata, vel ad tempus suscipiantur & deponantur. *Part. III. Metaph. Lib. XII. cap. III. art. I. p. 84. seq.* add. *Lib. XV. cap. VI. art. III. pag. 178.*
+
+Scholion V. Quomodo haec hypothesis conciliari possit cum Resurrectione Corporum, quam fide credimus, ostendit AUCTOR KABBALAE DENUDATAE C. KNORR à ROSENROTH in adjectà adumbratione Cabbalae Christianae.
+
+Coroll. II. Angeli sunt Animalia.
+
+Coroll. III. Plures dantur VIVORUM SPECIES, quàm Plantae & Animalia, quorum Monades dominantes diversam specie essentiam agnoscunt. Vid. Schol. I. Theor. LXXXVI. LEIBNITIUS in Epistolâ Hanoverâ, XVI. April. clɔ Iɔccix. ad me datâ. IDEM *Tom. II. du Recueil. p. 385. seq.* Il y a apparemment une infinité de degrés dans la perception, & par consequent dans *les Vivans.* Mais ces Vivans seront toûjours indestructibles, non seulement par rapport à la substance simple mais encore parce qu' elle garde toûjours quelque corps organique.
+
+## THEOREMA CXI.
+
+*Tot dantur Sensûs in Animantibus, quot diversa diversorum fluidorum impressiones in Organa Diversa possibiles sunt.*
+
+### Demonstratio.
+
+Tot sunt diversae facultates in animantibus clarè repraesentandi mutationes in animâ, à compositis, extrà animam praesentibus, in partibus alicujus compositi dissimilari secundùm quod anima reliqua composita repraesentat, aliis prae aliis productas: quot mutationes diversae à toti-
+
+[p. 165] totidem diversis compositis praesentibus in partibus alicujus compositi dissimilari aliis prae aliis producuntur, *per ax. 1.* Ergo tot dantur sensûs in animantibus, quot possibiles sunt diversae diversorum fluidorum in organa diversa impressiones, *per def. 115. & def. 197.* Q. E. D.
+
+Coroll. LEIBNITIUS in Epistolâ Brunsuigâ IV. Sept. clɔ Iɔccxvi. ad me datâ: dari possunt in universitate rerum Sensûs plurimi, nobis incogniti.
+
+## THEOREMA CXII.
+
+*Monas derivativa repraesentat universum illud, cum quo jam in intellectu DEI est connexa, mediante corpore organico, cujus est Monas dominans.*
+
+### Demonstratio.
+
+Monadis derivativae essentia est repraesentativa illius universi, cum quo jam idealiter in intellectu DEI est connexa, *per theor. 84.* & nulla monas derivativa est sine organis, *per theor. 110.* adeoque omnis monas derivativa repraesentat universum secundùm mutationes, à fluidis externis organa ambientibus, in organis, quae cum illis extantiori modo per structuram suam connectuntur productas, *per theor. 111.* Ergò Monas derivativa repraesentat universum illud, cum quo jam in intellectu DEI est connexa, mediante corpore organico, cujus est Monas dominans, *per def. 197. & def. 202.* Q. E. D.
+
+## THEOREMA CXIII.
+
+*Corpus organicum viventis in perpetuo est fluxu.*
+
+### Demonstratio.
+
+Omne Vivum repraesentat universum, mediante aliquo corpore organico, *per def. 206. & theor. 112.* & idem nullo assignabili tempore universum eodem modo repraesentat, *per cor. 1. theor. 94.* consequenter in corpore organi-
+
+[p. 166] organico viventis aliae atque aliae impressiones à fluidis ambientibus continuò producuntur. In corpore igitur organico viventis datur motus internus continuus, *per theor. 17. & 106.* consequenter partes aliae continuò in illud ingrediuntur, aliae egrediuntur. Ergò Corpus Organicum viventis in perpetuo est fluxu.
+
+Coroll. Nulla Monas derivativa pro corpore organico agnoscit massam quandam aut portionem materiae propriae, & per consequens nec possidet alia viventia inferiora, semper ad ipsius servitia destinata.
+
+## THEOREMA CXIV.
+
+*Vivens corpus suum non mutat nisi per gradûs.*
+
+### Demonstratio.
+
+Corpus organicum alicujus viventis in perpetuo est fluxu, *per theor. 113.* Sed nullus fit motus per saltum, *per cor. 34. def. 176.* Ergo partes corporis organici non egrediuntur in instanti, sed successivè transeundo per intermedia, *per ax. 1.* Ergo Omne Vivens corpus suum mutat per gradûs. Q. E. D.
+
+Coroll. I. Nulla datur Metempsychosis: quia illa infert permutationem organorum praecedentium cum consequentibus, per saltum factam. Vid. LEIBNITIUS *Tom. II. du Recueil. p. 186.* BÜLFFINGER. *in Dilucidat. Philosoph. p. 308. 309.*
+
+Scholion. Pythagoreos per μετεμψύχωσιν suam non intellexisse transmigrationem animarum propriè dictam, ex Systematis ipsorum ratione magis magisque mihi redditur probabile. Definierunt enim μετεμψύχωσιν suam numero 216. annorum ( Vid. CAMERARIUS l. c.) consequenter fieri potuit, ut mutationes rerum singulares hàc voce indicarent. Utinam aliquando tantùm concederetur otii, ut, quam à plurimis annis, hortatu LEIBNITII meditor connexionem Philosophiae Platonicae in systemate, Magnatum indulgentià perficere possem! Si quelqu' un reduisoit PLATON en systeme, il rendroit un grand service au genre humain, & l' onverroit, que j' en approche un peu. LEIBN. *Tom. II. du Recueil. p. 130. & 190. seq.*
+
+[p. 167] Coroll. II. Dantur tamen in animalibus metamorphoses, h. e. continuae organorum variationes, quae in generatione & morte animalis quàm maximè sunt perceptibiles.
+
+Coroll. III. Omne Vivum per conceptionem fit vivum alterius speciei, ex. gr. animal simplex fit rationale.
+
+## THEOREMA CXV.
+
+*Non dantur in universo creaturarum generatio & mors totalis.*
+
+### Demonstratio.
+
+Cùm Viva sint composita *per cor. def. 206.* non transeunt in instanti è statu possibilitatis in statum actualitatis & contrà *per theor. 13. 14.* Ergò nullum vivum totaliter generatur & moritur *per def. 220. & def. 221.* Ergò generatio & mors totalis in universo creaturarum non dantur, *per theor. 8. 9.* Q. E. D.
+
+Coroll. Omne Vivum ante conceptionem jam praeexistit.
+
+Scholion I. Non sine voluptate recordor, Per illustrem Virum EHR. W. de TSCHIRNHAUS pro certo asseruisse, sibi per indubitata constare experimenta: *non omne ovum esse ex animali, ut omne animal sit ex ovo.*
+
+Scholion II. CHR. FR. PAULLINI *loc. cit. p. 30.* Talis Mors, quae aut separatio animae fit à corpore ( omni ) aut cessatio omnium omninò actionum, reverà *puram putum figmentum est Scholasticorum, p. 14.* Non est impossibile, ut illa miscibilia quae ante aliquot saecula in praedecessoribus nostris fuerunt, à plantis rursus attrahantur, cumque plantis bruta vescantur, rursusque ipsa homini veniant in escam, fieri potest, ut illud quod anteà fuit in homine, iterum in hominis corpus reducatur.
+
+THEO-
+
+## [p. 168] THEOREMA CXVI.
+
+*Animal spermaticum non electum nascitur & interit ut animal electum.*
+
+### Demonstratio.
+
+Animal spermaticum non electum est Vivum *per def. 212. & cor. def. 207.* adeoque, organa sua non nisi per gradûs mutat, *per theor. 114.* nunquam tamen prorsus deponit, *per theor. 110.* Quare animal spermaticum non electum est animalculum, quod incipit & desinit existere per successivam organorum praesentium compositionem & dissolutionem, etsi per conceptionem non transformetur in animal alterius speciei. Ergò animal spermaticum non electum nascitur, & interit, ut animal electum, *per def. 211. & def. 218. 219.* Q. E. D.
+
+Scholion. Optavit LEIBNITIUS, ut quaestio de Generatione animalium examinetur curatius. Ita enim in Epistolâ Brunsuigâ, IV. Sept. clɔ Iɔccxvi. ad me datâ: Cum Domino D. NABOTHO vel alio Anatomico insigni apud Lipsienses communicanda judicavi, quae ad me praescripsit Celeberrimus LEEWENHOOKIUS, Delfensis, Ovarii foeminarum haud approbator. Insignis Anatomici judicium expeto, sed ( licet dissentiret ) honorificum LEEWENHOOKIO, cujus sagacitas & industria aestimari merentur. Curabis pro benevolentià Tuà, ut Leewenhokiana lecta & expensa mihi & quidem addito, quale dixi, judicio remittantur, KERCKRINGIUS & alii Ovarium foeminarum protulerunt. LEEWENHOOKIUS seminarium marium. ANDRIUS & alii quidem utrumque conjungunt. VALLISNERIUS oppugnat seminarium vivum LEEWENHOOKII, hortatus eum sum, ut suas objectiones proferat, vivo LEEWENHOOKIO; Contrà LEEWENHOOKIUS ovarium oppugnat, quod VALLISNERIUS defendit. IDEM in Epistolâ postremâ ad me datâ; Gratulor studiis, quibus in naturae arcana magis magisque penetrare laboras. Post studium virtutis nullum est magis necessarium, quàm sanitatis, quod Physicae specialis & Anatomiae inprimis cogni-
+
+[p. 169] cognitionem requirit. Optarem Dominum Doctorem PAULI & Dom. D. NABOTHUM paulò fusius agere de re tanti momenti, quanta est generatio animalium, & uberiores esse tam in oppugnandà Leewenhookianà sententià, quàm in astruendà suà. Vellem enim rem agitari diligenter, vivo adhuc LEEWENHOOKIO, qui est admodum senex. Ita enim, re discussà ab egregiis viris, certius emicabit veritas. Quod negant, à se visos vermiculos in seminibus quibusdam, vereor, ut sufficiat, cùm tot alii viderint, aut se vidisse putent, & inter alios HARTSOECKERUS, qui multus est in eà re, sed & HUGENIUS vir magni acuminis, magnique judicii Leewenhookianis observationibus, cùm primùm prodiére, adstipulari videbatur. Argumento Domini D. PAULI, de multitudine animalculorum seminalium inutili, quæ sapientiæ divinæ haud convenire videatur, non malè occurrit LEEWENHOOKIUS ab exemplis in plantis & consilio abundandi in naturà. Neque enim inutilia ideò sunt reliqua, quæ pereunt, animalia, non magis, quàm ephemera aut alia brevis ævi. Nec dubium est, hæc quoque ad motum cæterorum propagari per sexûs. Cæterùm, quæ pereunt, bruta sunt, & sola quorum succedit transformatio, animam rationalem, vel accipiunt, vel habent ab initio rerum præstabilitam inditamque. Desiderem ergò rem tantam tractari curatius.
+
+### THEOREMA CXVII.
+
+*Generatio naturalis infert evolutionem & accretionem organorum in corpore, & statum perceptionum evolutioni & accretioni organorum, in Monade derivativâ respondentem.*
+
+### Demonstratio.
+
+Cùm non detur in universo creaturarum Vivorum generatio totalis, *per theor. 115.* & hæc involvat transitum animalis, cum omnibus organis suis è statu possibilitatis in statum actualitatis sivè successione in instanti, *per def. 220.* Generatio naturalis vivorum præsupponit organorum in seminibus præformationem, & Monadis dominan-
+
+[p. 170] minantis præexistentiam ante conceptionem, *per ax. 1. def. 206.* Ergo generatio naturalis infert evolutionem & accretionem organorum in corpore, & statum perceptionum, evolutioni & accretioni isti organorum respondentem in ipsâ Monade. Q. F. D.
+
+Coroll. Nulla generatio naturalis completa fit in instanti.
+
+### THEOREMA CXVIII.
+
+*Mors naturalis infert involutionem & diminutionem organorum præsentium in corpore, & stuporem temporarium in Monade derivativâ.*
+
+### Demonstratio.
+
+IN nullum Vivum mors totalis cadit, *per theor. 115.* adeoque corpus organicum viventis non destruitur simul & uno ictu, *per def. 221.* Ergo Mors naturalis viventium non plus infert, quàm involutionem & diminutionem organorum præsentium in corpore, & stuporem temporarium in Monade derivativâ, statum illum organorum repræsentantem. Q. E. D.
+
+Coroll. Mors naturalis, sive corporis sive totius animalis, completa non fit in instanti. Conf. BÜLFFINGERUS in Dilucid. Philos. *Sect. III. cap. V. §. CCCLXVIII. p. 399.*
+
+Scholion : LEIBNITIUS uti solebat simili à Lumine desumto, & organa humana per mortem naturalem in statum subtilitatis infinities majorem evehi, probabile judicabat, ipso lumine, quod à corporibus crassis adhuc refractionem pati, observamus.
+
+### THEOREMA CXIX.
+
+*Nullum Vivum post mortem naturalem existere desinit.*
+
+### Demonstratio.
+
+NULLIUS viventis mors naturalis plus infert præterquàm involutionem & diminutionem corporis organici præ-
+
+[p. 171] sentis, alicujus monadis dominantis, *per theor. 118.* & hæc naturaliter interire non potest, *per theor. 8.* Ergò nullum vivum post mortem naturalem existere desinit, *per def. 231.* Q. E. D.
+
+Coroll. I. Omne Vivum est indestructibile, *per def. 232.*
+
+Coroll. II. Monades sunt *specula Universi viva & perpetua, per cor. 1. theor. 94.*
+
+Coroll. III. Omne animal rationale est immortale, *per def. 209. & def. 233.*
+
+Scholion I. In hoc Theoremate fundatur EXILIUM MORTIS, à Philosopho assertum, *Tom. II. du Recueil. p. 283.* add. BÜLFFINGERUS in Dilucid. Philosoph. *Sect. III. c. V. §. CCCXVII. p. 397.* Eleganter PHILOSOPHUS in Epistolâ Hanoverà XXV. Julii cIɔ Iɔccvii. ad me datâ : Nullâ DEO in universo substantia (simplex scilicet,) neque persona in suo regno perit. Et in Epistolâ ad REMOND *Tom. II. du Recueil. p. 188.* Chaque Monade est un Miroir vivant de l'Univers suivant son point de vûë, *per cor. 3.*
+
+Scholion II. Utrum hoc Theorema jam veteribus fuerit cognitum erudité disputat & LEIBNITIO gloriam inventionis tribuit des MAIZEAUX in Epistolâ ad Abbatem CONTI *Tom. II. du Recueil. p. 368 -- 380. incl.* Ipse LEIBNITIUS ad locum HIPPOCRATIS *Lib. I.* περὶ διαίτης ὑγιαινόντων *Cap. IV. & V. Tom. VI. p. 450.* ed. Parif. observat sequentia : La simple conservation de la matiére, ou des Elemens, ne paroit pas suffire à expliquer l' auteur de la Diéte, puis qu' il dit positivement, *qu' aucun vivant ne meurt,* & generalement, *qu' aucun véritable étre ( aucune substance ) ne sauroit naître, ni périr :* S' il entendoit la seule conservation de la matiére, en parleroit-il ainsi ? Du moins il faudra avoüer, qu' en ce cas ses paroles conviendroient mieux à mon systême, qu' au sien. *Tom. II. du Recueil. p. 387.* THOMAS CAMPANELLA *Part. II. Metaph. Lib. VII. cap. V. art. VI. p. 145. nullum Ens DEO mori & mundo, sed transmutari,* nec dari annihilationem variis probat rationibus, cùm mors sit propriè compositorum ex diversis, *Part. III. Lib. XVIII. cap. I. art. I. p. 249.*
+
+Scholion III. Theologi etiam Protestantes sapientiores cum THOMA AQUINATE agnoscunt possibilitatem creationis Mundi ab
+
+[p. 172] æterno. LEIBNITIUS mundi creationem in tempore admittit sub hypothesi Epist. V. ad CLARKIUM *§. LXXIV. p. 124.* Si la nature de choses dans le total, est de croître uniformement en perfection, l' Univers des creatures doit avoir commencé. Ainsi il y aura des raisons pour limiter la durée des choses, quand même il n' y eu auroit point pour en limiter l' étendüe. De plus, le commencement du monde ne deroge point à l' infinité de sa durée *à parte post,* ou dans la suite ; mais les bornes de l' univers derogeroient à l' infinité de son étendüe. Ainsi il est plus raisonnable d' en poser un commencement, que d' en admettre des bornes ; afin de conserver dans l' un & dans l' autre le caractére d' un Auteur infini. Cæterùm duratio universi, etiam *à parte ante* per nullum numerum determinatum assignabilis, ab æternitate DEI differt contradictorie ; quatenus oppositum æternitatis in DEO est absolutè impossibile, oppositum durationis Universi infinitæ absolutè est possibile. Memini LEIBNITIUM mihi auctoritatem Scripturæ Sacræ objicienti, inter alia respondisse : *Nihil se invenire in Scriptura Sacra quod principiis suis contradicat, & voces in fontibus ipsis notiones admittere, principiis suis consonas : plura autem requiri ad veritatem hanc facti ex Sacris literis invictè demonstrandam & sapienti persuadendam, quàm vulgus Theologorum credat.* In genere dicere solebat de paradoxis nostro sæculo veritatibus : *fore, ut oppugnatores sanctæ suæ simplicitatis, aliquando puteat.* Philosophis in dijudicandis hujus controversiæ momentis acumen & modestia Cl. BÜLFFINGERI exempli loco esse possunt. Vid. Dilucidat. Philosoph. *Sect. II. cap. IV. §. CXCI. p. 185. §. CXCIV. p. 187. Sect. IV. cap. IV. §. CCCCLXV. p. 537.*
+
+Scholion IV. Monas derivativa in morte naturali, variatur quà gradûs perdurantis : organa autem variantur quà compositionem, consequenter quà essentiam, hujus vel illius compositi in existentiam in hoc vel illo subjecto, *per def. 49. & cor. 2. def. 194.*
+
+### [p. 173] THEOREMA CXX.
+
+*Creatio & annihilatio sunt miracula.*
+
+### Demonstratio.
+
+EX creatione ratio ultima reddi potest, cur aliquid, quod in se est possibile, fiat actuale, *per def. 229.* ex annihilatione autem ratio ultima reddi potest, cur aliquid, quod est actuale, desinat esse actuale, *per def. 231.* consequenter utraque involvit mutationem ejusmodi in subjecto quodam possibili, vel actuali, cujus ratio sufficiens non continetur in essentiâ ullius creaturæ. Sed talis mutatio est miraculum, *per def. 242.* Ergo Creatio & Annihilatio sunt Miracula. Q. E. D.
+
+Coroll. Monades incipiunt & desinunt existere per miraculum *per theor. 10. 11.* LEIBNITIUS *Journal des Sçavans 1695. p. 447.*
+
+Scholion : IDEM in Epistolâ Viennâ XIV. Junii cIɔ Iɔccxiii. ad me datâ : Ad miracula propriè sic dicta refero creationem, annihilationem, & incarnationem Filii DEI. Addantur Discursus præliminaris de Conformitate fidei & rationis *§. III. p. 5.* Theodicæa ipsa *Part. I. §. LIV. p. 166. Part. II. §. CCVI. CCVII. p. 382. Part. III. §. CCXLIX. p. 429. seq.*
+
+### THEOREMA CXXI.
+
+*Harmonia rerum universalis præstabilita est principium harmoniæ animæ & corporis humani præstabilitæ.*
+
+### Demonstratio.
+
+HARMONIA animæ & corporis humani præstabilita consistit in connexione, à DEO prævisâ, perceptionum singularum animæ alicujus cum determinatis corporis alicujus motibus, vi cujus DEUS existentiam dedit sponte animæ se ipsam determinanti ad perceptiones suas successivè evolvendas, secundùm locum corporis alicujus in univer-
+
+[p. 174] so, eodem ordine quo sibi succedunt impressiones corporum circumstantium in organa ejusdem sensoria, & corpus tale secundùm illam exigentiam condidit, quod ad motûs, perceptionibus congruos, per vim motricem justo gradu, ordine & tempore producendos, determinatur, ità ut ex iis quæ fiunt in animâ, possint inveniri, quæ fiunt in corpore, *per def. 267.* consequenter rationem sufficientem invenit in tali omnium entium simplicium & compositorum in principio rerum ad se invicem adaptationi in Ideis eorum fundatâ, vi cujus à singulis simplicibus & compositis omnia simplicia & composita in universo, naturæ suæ convenienter, repræsentantur ; ut intellectus infinitus in quolibet ente simplici & composito intueatur omnia, quæ fiunt in omnibus entibus simplicibus & compositis, *per ax. 1.* consequenter Harmonia Animæ & corporis humani rationem sufficientem invenit in Harmonia rerum universali *per def. 274.* Ergo Harmonia rerum universalis est principium harmoniæ animæ & corporis humani, *per def. 16.* Q. E. D.
+
+Scholion I. Harmonia Animæ & Corporis humani præstabilita dici potest *Unio,* in sensu metaphysico, quatenus Anima & corpus humanum constituunt Unicam personam ; non autem in sensu physico, quatenus unio duorum compositorum infert influxum physicum unius in alterum.
+
+Scholion II. Non datur alius modus NATURALITER explicandi commercium animæ & corporis humani mutuum. Videatur BÜLFFINGERUS *in Dilucid. Philos. Sect. III. cap. IV. §. CCCXXI. CCCXXII. p. 314. seqq.*
+
+Scholion III. Quomodo CARTESII Systema cum Systemate Leibnitiano conciliari & ad illud reduci possit, ostendit Acutissimus ævi nostri Philosophus CHR. WOLFIUS *in Annotat. Metaph. p. 422. 425. 429. 596.* BÜLFFINGER. *loc. cit. §. CCCXLVI. pag. 351.*
+
+### [p. 175] THEOREMA CXXII.
+
+*Duo regna naturalia causarum efficientium & causarum finalium inter se sunt harmonica.*
+
+### Demonstratio.
+
+Cùm Monades derivativæ repræsentent Universum, mediante corpore quodam organico, *per theor. 112.* ex iis, quæ fiunt in monadibus inveniri possunt ea, quæ fiunt in corporibus, consequenter datur Harmonia inter perceptiones Monadum & impressiones, ab ambientibus corporibus in organa ipsorum factas, *per def. 265.* Sed perceptionum in monadibus successio sequitur leges appetituum, *per theor. 30. 31.* & successio motuum in corporibus sequitur leges motuum, *per theor. 106.* Leges autem appetituum fundantur in connexione finium & mediorum, *per def. 106.* & Leges motuum in connexione causarum efficientium, *per def. 183.* Quamobrem connexio causarum efficientium inter se talem habet relationem ad connexionem causarum finalium inter se, à DEO in ideis utriusque prævisam, ut una ex alterâ possit inveniri. Ergò duo regna naturalia causarum efficientium & causarum finalium inter se sunt harmonica, *per def. 265.* Q. E. D.
+
+### THEOREMA CXXIII.
+
+*Lex naturæ qua eadem virium motricium quantitas & eadem directio totalis in universo corporeo conservantur, est principium harmoniæ inter duo regna naturalia.*
+
+### Demonstratio.
+
+NON datur Vacuum in universo corporeo, *per theor. 99.* & monades sunt indestructibiles *per theor. 8.* Ergo eadem conservatur quantitas materiæ in universo corporeo, *per theor. 102.* consequenter quantitas virium motricium &
+
+[p. 176] directio totalis in universo corporeo eædem manent, ante & post conflictum corporum, *per def. 188. & def. 180.* consequenter directio nova motûs in corporibus non potest produci per influxum physicum à monadibus, *per def. 196.* Sed in eo quod nulla directio motûs corporum à monadibus per influxum physicum produci potest, rationem sufficientem agnoscit relatio talis connexionis causarum efficientium ad connexionem causarum finalium, vi cujus una inveniri potest ex alterâ dum sese mutuò repræsentant. Ergo Lex naturæ, quâ eadem virium motricium quantitas & eadem directio totalis in universo corporeo conservantur, est principium harmoniæ inter duo regna naturalia, *per def. 266. & def. 16.* Q. E. D.
+
+Scholion. Videatur LEIBNITII demonstratio erroris de eâdem quantitate motûs in Actis Eruditorum Lipsiens. cIɔ IɔcLxxxvi. *p. 161. seq.* addatur Epistola ad REMOND *Tom. II. du Recueil. p. 135.*
+
+### THEOREMA CXXIV.
+
+*Animæ rationales ante conceptionem tantum sunt animæ sensitivæ.*
+
+### Declaratio.
+
+ANIMÆ rationales cum organis suis præexistunt ante conceptionem, *per cor. theor. 115. & def. 206. 132.* Organa tamen illarum nondum sunt humana, *per cor. 2. theor. 114.* adeoque animæ rationales ante conceptionem nondum repræsentant motûs corporis humani, *per theor. 112.* Sed cum organa animarum mediante conceptione, transformentur in organa perfectioris structuræ, quatenus omnis mutatio in universo non destructiva, sed perfectiva est, ipsæ etiam animæ evehuntur ad majorem distinctionis in repræsentatione gradum, organis perfectioribus respondentem, *per theor. 112.* Ergo animæ rationales ante conceptionem tantùm sunt animæ sensitivæ.
+
+[p. 177] Scholion. LEIBNITIUS in Causâ DEI assertâ §. LXXXI. p. 28. coll. Theodicaeae Part. I. §. XCI. p. 208. seq. Tom. II. du Recueil. p. 187. seq. supponit in conceptione fieri elevationem sive transmutationem animalculorum spermaticorum in species animalium majorum, per experientiam Physicorum recentiorum : non tamen definit : an anima praexistens sensitiva evehatur ad statum animae rationalis ordinariâ an extraordinariâ DEI operatione ; item , an detur medium naturale evehendi animam sensitivam ad gradum rationalitatis; vel an DEUS illi rationem largiatur operatione particulari per speciem quandam transcreationis ? id quod facilius ipsi videtur admitti posse , quoniam revelatione teste, constet, plures operationes DEI esse immediatas in animas nostras. Item in Theodicaeâ Part. III. §. CCCXCVII. p. 595. seqq. coll. §. CCCXXXIV. p. 339. „Haec animae elevatio, quae illam transducit in gradum „essentialem sublimiorem, scilicet rationem, adscribi potest ope- „rationi divinae extraordinariae. Fatetur tamen, se malle in ge- „neratione hominum aeque ac caeterorum animalium evitare mi- „racula, & explicari posse negotium, si concipias, quod in ma- „xima illa copia animarum & animalium aut corporum saltem „organicorum viventium, quae sunt in seminibus, illae solae ani- „mae, quae olim, ut ad naturam humanam deveniant, destinatae „sunt, rationem suo tempore sese manifestaturam, involvant, „& quod sola corpora organica sint praeformata & praedispo- „sita ad formam humanam olim recipiendam ; caetera autem „animalia aut viventia seminalia, in quibus nil tale praestabilitum „est, essentialiter à prioribus differre, & in universum illis inferio- „ra esse.„
+
+## THEOREMA CXXV.
+
+*Animae rationales sunt simul specula Universi creaturarum & simulacra ipsius Divinitatis.*
+
+### Demonstratio.
+
+Animae rationales, quatenus sunt Monades derivativae per def. 132. sunt specula viva & perpetua Universi, per cor. 2. theor. 119. ; quatenus autem sunt animae rationales quaedam possibilia sibi distincte repraesentant , per def. cit. & praeditae sunt Libertate se ipsas determinandi ad produ-
+
+[p. 178] ctionem repraesentationis distinctae alicujus possibilis , per cor. 2. theor. 24. adeoque possibilibus quibusdam ex arbitrio suo existentias & operationes suas determinare, horumque ope nova possibilia producere possunt. Ergò animae rationales simul sunt simulacra ipsius Divinitatis, per def. 273. Q. E. D.
+
+Scholion I. Optimè PHILOSOPHUS in Epistolâ Hanoverâ XXV. „Julii ɔɔccvii. ad me datâ : Mens non pars est, sed simula- „crum divinitatis, repraesentativum universi, civis divinae Mo- „narchiae.
+
+Scholion II. Huc pertinet MECHANICA , quam animo concepe- rat Philosophus incomparabilis Per-illustris EHRENFRIED WALTHER de TSCHIRNHAUSEN. Intelligebat autem hoc nomine scientiam sublimiorem , adhuc desideratam, ex Physicâ, à priori demonstratâ, fluentem, quâ naturae effectûs arte producuntur.
+
+## THEOREMA CXXVI.
+
+*DEUS respectu Universi creaturarum in genere est inventor sive Architectus sapientissimus & potentissimus.*
+
+### Demonstratio.
+
+Cùm intellectus DEI sibi omnia universa possibilia simul distincte repraesentet per theor. 61 DEUS etiam Ideam universi creaturarum illam invenire potest, quae fini sibi proposito satisfacit, per ax. 1. Sed cujus intellectus operis ideam invenire potest, fini, sibi proposito , satisfacientem , est Architectus per. def. 225. Ergo DEUS respectu universi creaturarum est inventor sive Architectus, per def. 226. Sed universum existens est optimum, per theor 83. & proinde in illo consensus mediorum atque finium omnium maximus possibilis est , per Schol. def. 140 adeoque DEUS respectu universi creaturarum est Architectus sapientissimus, per theor. 63. Et cùm in DEO etiam detur ratio ultima existentiae universi optimi , per cor. theor. 59. & voluntas ejus
+
+[p. 179] sit principium melioris, per theor. 74. tanta in eo est abundantia realitatis , ut sufficiat exhibendae existentiae universi optimi , è pluribus universis possibilibus sapientissimè electi, conseq. DEUS respectu Universi creaturarum etiam est Architectus potentissimus, per theor. 60. Ergò DEUS respectu universi creaturarum in genere est inventor sive Architectus sapientissimus & potentissimus. Q. E. D.
+
+Coroll. Universum est speculum divinae magnitudinis per def. 271. & def. 247.
+
+## THEOREMA CXXVII.
+
+*DEUS respectu animarum rationalium in specie simul est Monarcha Optimus.*
+
+### Demonstratio.
+
+Cùm animae rationales sint simul simulacra divinitatis, non nuda universi creaturarum specula, per theor. 125. animae rationales actionibus suis divinam agendi rationem imitantur & repraesentant, per def. 273. pro modulo essentiae suae, per theor. 76. & proinde etiam per essentiam suam aptae sunt, ut cum DEO ad eundem actionum finem obtinendum conjungantur, consequenter DEUS cum animabus rationalibus societatem aliquam constituit, per def. 254 quae una est DEI civitas, per def. 255. Sed DEUS in hac civitate est Ens infinitè potens per theor. 60. & independens, per cor. theor. 59. adeoque in Civitate DEI à solius DEI arbitrio cura beatitudinis omnium animarum rationalium pendet, per def. 245. & def. 29. Ergo Civitas DEI est Monarchia, per def. 257. & DEUS respectu animarum rationalium in specie simul est Monarcha, per def. 258. Est autem DEUS simul bonitate absolutè perfectâ praeditus, per theor. 66. adeoque voluntas ejus fertur ad conferendam omnibus animabus rationalibus perfectionem maximam possibilem, per def. 243. Ergò DEUS respectu animarum rationalium in specie non tantùm est Architectus seu inventor sapientissimus & potentissimus, sed simul est Monarcha optimus, per def. 258. Q. E. D.
+
+[p. 180] Coroll. I. Monarcha optimus eam ad cives suos habet relationem, quam habet Parens ad suos liberos, conseq. DEUS respectu animarum rationalium etiam est Parens optimus.
+
+Coroll. II. Civitas DEI est speculum bonitatis divinae per def. 271. & def. 243.
+
+## THEOREMA CXXVIII.
+
+*DEUS est Monarcha perfectissimus.*
+
+### Demonstratio.
+
+DEUS est Monarcha per theor. 127. idem etiam est absolutè perfectus per cor. theor. 59. & infinitus per cor. cit. adeoque illius magnitudo & bonitas sufficiunt procurandae beatitudini maximae possibili omnium animarum rationalium, per def. 247. & def. 243. Ergò DEUS est Monarcha perfectissimus, per def. 258. Q. E. D.
+
+## THEOREMA CXXIX.
+
+*Civitas DEI est Monarchia Universalis.*
+
+### Demonstratio.
+
+Civitas DEI est Monarchia, per theor. 127. & omnes animas rationales societatis ineundae capaces, completitur, per def. 255. Ergò Civitas DEI est Monarchia Universalis, per def. 257. Q. E. D.
+
+## THEOREMA CXXX.
+
+*Civitas DEI est Monarchia perfectissima.*
+
+### Demonstratio.
+
+Civitas DEI est Monarchia universalis, per theor. 129. ejusque Monarcha est perfectissimus, per theor. 128. Ergo Civitas DEI est Monarchia perfectissima, per def. 259. Q. E. D.
+
+## [p. 181] THEOREMA CXXXI.
+
+*Miseria propriè sic dicta in Civitate DEI nulla est.*
+
+### Demonstratio.
+
+Civitas DEI est Monarchia perfectissima, per theor. 130. consequenter in civitate DEI magnitudo & bonitas Monarchae sufficiunt procurandae beatitudini maximae possibili omnium civium, per def. 258. 259. Non datur igitur in civitate DEI status perpetuae calamitatis civis boni, per ax. 1. Ergò miseria, propriè sic dicta, in Civitate DEI nulla est, per def. 261. Q. E. D. Item:
+
+In Civitate DEI nulla actio bona sine remuneratione & nulla mala sine poena datur, per cor. theor. 67. adeoque nec datur status perpetuae calamitatis civis boni, per ax. 1. Ergo miseria, propriè sic dicta, in civitate DEI nulla est, per def. 261. Q. E. D.
+
+Scholion : LEIBNITIUS in Epistolâ Hanoverâ XXX. Sept. ɔɔ Iɔccxi. ad me datâ ; Quod ad dubia tua attinet inter aeter- „nas veritates habendum est, neminem à justo judice , nisi ob „culpam suam damnari, culpa autem, nisi intelligentis & volen- „tis, nulla est. Si quis secus sentit , novas justitiae notiones fin- „gat, oportet, quas DEO attribuat, vel DEUM quidvis jure „posse dicet : alterutro autem modo incidet in sententias du- „rissimas Supralapsariorum.„
+
+## THEOREMA CXXXII.
+
+*Gloria DEI involvit Spirituum finitorum existentiam.*
+
+### Demonstratio.
+
+Gloria DEI est satisfactio, quam DEUS invenit in perfectionibus suis, quatenus cognitae Spiritibus finitis admirationi sunt , per def. 248. adeoque involvit cognitionem & admirationem Spirituum finitorum. Ergò & gloria DEI involvit spirituum finitorum existentiam , per ax. 1. Q. E. D.
+
+## [p. 182] THEOREMA CXXXIII.
+
+*Datur Harmonia perpetua inter Regnum naturae & inter Regnum Gratiae.*
+
+### Demonstratio.
+
+Cùm universum existens sit optimum per theor. 83. & harmonia universalis sit medium naturale tantùm perfectionis in illo obtinendi, quantum possibile est , per theor. 95. talis etiam Machina Mundi corporea à DEO electa est, ex quâ ratio reddi potest regiminis optimi spirituum, & tale regimen spirituum ex quo inveniri potest ipsa Machina Mundi corporea perfectissima. Ergo datur harmonia perpetua inter regnum naturae & inter regnum gratiae , per def. 269. Q. E. D.
+
+Coroll. I. Regnum gratiae est mundus moralis in Mundo naturali.
+
+Coroll. II. Phaenomena naturalia ex intentione DEI sunt divini monitores, respectu spirituum finitorum.
+
+Scholion I. In hoc Theoremate fundatur THEOLOGIA ASTRONOMICA , cujus mentionem injicit PHILOSOPHUS in Theodicaeâ §. XIII. p. 125. seqq.
+
+Scholion II. Quae sequuntur Theoremata sunt Corollaria quaedam, maximam partem ad philosophiam practicam spectant , & ex Systemate Leibnitiano fluentia. Philosophia enim Practica fundatur in Philosophiâ Theoreticâ. Hinc tale Philosophiae Universae Systema animo conceperat TSCHIRNHAUSENIUS: Initium philosophandi ab experimentis ducebat, quibus admiratio in animis excitatur , naturaliter sciendi cupidis , quam matrem philosophiae & ignorantiae filiam cum veteribus vocare solebat: inde progrediebatur ad Universam Mathesin. Ex Mathesi derivabat Logicam genuinam , sive Regulas artis inveniendi generales. Logicae beneficio Physicam primum in formam scientiae redigi volebat : ex hac porrò Medicinam corporis , Mechanicam sublimiorem & Metaphysicam ; Ex physicâ & metaphysicâ Ethicam suam perfectissimam & ex Metaphysicâ atque Ethicâ Politicam perfectissimam deducebat.
+
+## [p. 183] THEOREMA CXXXIV.
+
+*Poenae per ordinem naturae actiones malas & remunerationes per eundem actiones bonas consequuntur.*
+
+### Demonstratio.
+
+Datur harmonia perpetua inter regnum naturae & inter regnum gratiae, per theor. 133. & regnum gratiae consistit in administratione optimâ regiminis spirituum finitorum in regno naturali, per def. 268. adeoque regnum gratiae in ipso naturae regno sapientissimam poenarum & remunerationum involvit distributionem. Quamobrem regnum gratiae involvit naturalem connexionem sensûs mali physici, cum actione malâ, &, vi oppositorum sensûs perfectionis physicae cùm actione bonâ spirituum finitorum. Ergò poenae per ordinem naturae actiones malas, & remunerationes per eundem naturae ordinem actiones bonas consequuntur, per def. 191. & def. 163. Q. E. D.
+
+## THEOREMA CXXXV.
+
+*Poenae naturales & remunerationes naturales non necessariò extemplò consequuntur actiones creaturarum rationalium malas & bonas.*
+
+### Demonstratio.
+
+Cùm poenae & remunerationes naturales consistant in sensu mali physici & perfectionis physicae , qui rationem sufficientem existentiae suae agnoscit in successione impressionum in corporibus , secundùm leges motuum, à DEO sapientissimè electas , per def. 163. illae non consequuntur, nisi ex motu antecedenti tali, in quo continetur ratio sufficiens existentiae ipsarum, per ax. 1. Sed quod non consequitur, nisi ex motu tali antecedente, illud non necessariò consequitur ex motu quovis immediatè antecedente, consequenter nec immediatè semper coëxistit actionibus malis & bonis creaturarum rationalium. Ergo poenae naturales &
+
+[p. 184] remunerationes naturales non necessariò extemplò consequuntur actiones creaturarum rationalium malas & bonas. Q. E. D.
+
+Coroll. Poenae positivae non sunt necessariae , nisi cùm non sufficiunt poenae naturales, per def. 164.
+
+## THEOREMA CXXXVI.
+
+*Ordo naturae vota sapientissimi superat.*
+
+### Demonstratio.
+
+Ordo naturae involvit coëxistentiam & successionem motuum in regno naturae, quam Voluntas elegit, quae est principium non nisi melioris, per def. 191. & theor. 74. adeoque leges ejusdem , adaequatè cognitae, perfectionem maximam possibilem continent, per def. 158. & proinde in Ordine naturae, à DEO sapientissimè electo, & adaequatè cognito, plus perfectionis invenitur , quàm Spiritus quicunque finitus desiderare potest. Ergò ordo naturae vota sapientissimi superat. Q. E. D.
+
+## THEOREMA CXXXVII.
+
+*Status calamitatis transiens, respectu innocentis, non est miseria propriè sic dicta.*
+
+### Demonstratio.
+
+Status calamitatis transiens, respectu innocentis, in ordine naturae continetur, qui vota sapientissimi superat, per theor. 136 adeoque status calamitatis transiens, respectu innocentis, in ordine naturae per tantam compensationis abundantiam ad harmoniam universalem reducitur , ut innocens, intuitu perfectionum , quibus afflictio ejus, quam ipsi, Optimus Monarcha in hac vel illâ temporis periodo , ob rationes superiores, accidere permittit, posteà compensatur, nollet, tot & tanta esse passus. Ergò status calamitatis transiens, respectu innocentis, non est Miseria propriè sic dicta , per def. 261. Q. E. D.
+
+[p. 185] Scholion. In hoc Theoremate fundatur CONSOLATIO PHILOSOPHICA SAPIENTIS, quae tamen praesupponit innocentiam in subjecto patiente. Vid. Celeb. BüLFFINGERUS in Commentatione philosophicâ de Origine & Permissione Mali Sect. IV. §. CCCCLXXIV. p. 449.
+
+## THEOREMA CXXXVIII.
+
+*In Civitate DEI omnia vergunt in salutem bonorum civium.*
+
+### Demonstratio.
+
+Cùm in civitate DEI nulla omninò detur miseria, propriè sic dicta, *per theor. 131.* in eadem etiam in nullum civem, qui voluntatem Monarchae sui praesumtivam constanter exequi conatur, cadit status perpetuae calamitatis, *per def. 261.* Status autem calamitatis transiens, respectu innocentis, non est miseria, propriè sic dicta, *per theor. 137.* Ergò in civitate DEI omnia vergunt in salutem bonorum civium, *per def. 260.* Q. E. D.
+
+## THEOREMA CXXXIX.
+
+*Civis bonus in Civitate DEI regimine Monarchae sui contentus est.*
+
+### Demonstratio.
+
+CIvis bonus novit, omnia, quae sibi evenire possunt, sibi in salutem vergere, *per theor. 138.* certus etiam est de amplitudine compensationis calamitatum transitoriarum, *per theor. 137.* Ergo Civis bonus in Civitate DEI regimine Monarchae sui contentus est. Q. E. D.
+
+## THEOREMA CXL.
+
+*Civis bonus in Civitate DEI confidit in divinâ providentiâ.*
+
+### Demonstratio.
+
+CIvis bonus convictus est non tantùm de infinitâ DEI sapientiâ atque potentiâ; *per theor. 126.* sed & de infinitâ ejus-
+
+[p. 186] ejusdem bonitate, *per theor. 127.* adeoque voluntati civis boni praestò suntomnia motiva, ad fiduciam in divinâ providentiâ ponendam, necessaria, *per Schol. def. 268.* Ergò Civis bonus in civitate DEI confidit in divinâ providentiâ, *per theor. 31.* Q. E. D.
+
+## THEOREMA CXLI.
+
+*Civis bonus in Civitate DEI amat Monarcham suum perfectissimum.*
+
+### Demonstratio.
+
+CIvis bonus confidit in divinâ providentiâ *per theor. 140.* & proinde divinam sapientiam, potentiam & bonitatem per se expetit, *per Schol. def. 268.* Sed qui perfectionem aliquam per se expetit, illius voluntas promta est ad delectationem ex illius sensu capiendam, & per consequens voluntas civis boni promta est, ad delectationem capiendam ex felicitate Monarchae sui perfectissimi, *per def. 251.* Ergo Civis bonus in Civitate DEI amat Monarcham suum perfectissimum, *per def. 252.* Q. E. D.
+
+## THEOREMA CXLII.
+
+*Beatitudo maxima possibilis Spirituum finitorum consistit in amore puro Auctoris sui.*
+
+### Demonstratio.
+
+BEatitudo maxima possibilis spirituum finitorum consistit in progressu non impedito spirituum finitorum ad perfectiones, quarum spiritus finitus per essentiam suam capax est, *per def. 256.* adeoque in illis infert promtitudinis voluntatis delectationem capiendi ex felicitate auctoris sui *per def. 251.* Ergo Beatitudo maxima possibilis spirituum finitorum consistit in Amore puro Auctoris sui, *per def. 252.* Q. E. D.
+
+Scholion : LEIBNITIUS in Epistolâ Hanoverâ XXV. Julii „ cIɔ Iɔccvii. ad me datâ: Philosophos omnia ad se retulisse objicit
+
+[p. 187] cit AUGUSTINUS creaturamque adeò praetulisse creatori. Ego „ verò vereor, ne haec nimia sit subtilitas, qualis nuper quorundam, DEUM amari jubentium, nullo nostri respectu. Neque enim per naturam rerum fieri potest, ut quisquam suae felicitatis rationem non habeat. Sed DEUM amantibus felicitas inde propria nascitur. Itaque cùm nondum prodiisset controversia illa nupera *de mercenarii & veri amoris discrimine,* nodum videram & in Codicis Juris Gentium Praefatione dissolverem, definitione *Amoris* allatâ, quae magno intelligentium plausu accepta est, visaque decidere litem. *Amor enim verus,* qui *mercenario* opponitur, est ille mentis affectus, quo ferimur ad delectandum alterius felicitate, nam quibus delectamur, ea per se expetimus. Porrò cùm *divina felicitas* sit omnium perfectionum confluxus, & *Delectatio* sit sensus perfectionis: hinc consequens est, veram esse felicitatem creatae mentis in sensu divinae felicitatis. Itaque qui rectum, verum, bonum, justum quaerunt, magis quia delectat, quàm quia prodest (quanquam revera maximè prosit) ii ad Amorem DEI maximè sunt praeparati ex ipsius sententia AUGUSTINI, qui egregiè ostendit, bonos frui DEO velle, malos uti, & probat, quod Platonici volebant, commutationem amoris divini cum caduco esse causam lapsûs animarum. Neque igitur nostra felicitas ab Amore DEI separari potest. „
+
+## THEOREMA CXLIII.
+
+*Civis bonus in civitate DEI acquiescit in Voluntate consequente Monarchae sui.*
+
+### Demonstratio.
+
+CIvis bonus confidit in divinâ providentiâ, *per theor. 140.* adeoque acquiescit in decreto DEI finali, quo producit Optimum *per ax. 1.* Ergò civis bonus in civitate DEI acquiescit in voluntate consequente Monarchae sui, *per def. 241.* Q. E. D.
+
+Scholion : In hoc Theoremate fundantur tum ABNEGATIO SUI PHILOSOPHICA, tum RESIGNATIO CREATAE MENTIS IN VOLUNTATEM DIVINAM, quam ad Cultum DEI pertinere ex definitione Cultûs Wolfianâ facilè deducitur.
+
+## [p. 188] THEOREMA CXLIV.
+
+*Civis bonus in Civitate DEI seriò intendit GLORIAM DEI.*
+
+### Demonstratio.
+
+CIvis bonus exequitur voluntatem praesumtivam Monarchae sui, *per def. 260.* & acquiescit in voluntate illius consequente, *per theor. 143.* adeoque voluntas Civis boni in civitate DEI semper est voluntas Monarchae sui, quatenus illa ipsi innotescit, *per ax. 1.* Sed Monarcha perfectissimus per creationem spirituum finitorum intendit gloriam suam, *per theor. 132.* consequenter Civis bonus in civitate DEI etiam conatur efficere actionibus suis, ut in animabus rationalibus oriantur divinarum perfectionum solida cognitio atque intima admiratio, *per def. 248.* Ergò Civis bonus in civitate DEI seriò intendit GLORIAM DEI, *per def. 250.* Q. E. D.
+
+Coroll. Civi bono in Civitate DEI perinde est, quo demum cuncunque mediante solida cognitio atque intima admiratio divinarum perfectionum in aliorum animis excitetur; qui cum id unice conatur efficere, in effectu hoc acquiescit, sive mediatè sivè immediatè à se producto.
+
+Atque haec GLORIA DEI unicus etiam esto *Principiorum Philosophiae Leibnitianorum, More geometrico demonstratorum,*
+
+F I N I S.
+
+## [p. 189] SERIES THEOREMATUM,
+
+quorum principaliora asterisco notantur; ex Principiis Philosophiae Leibnitianis, more geometrico demonstratorum.
+
+* I. MONADES existunt.
+II. In Monadibus nulla locum habet extensio.
+III. In Monadibus nulla locum habet Figura.
+IV. In Monadibus nulla locum habet divisibilitas.
+V. Monades sunt verae Atomi Naturae.
+VI. Elementa rerum non sunt nisi Monades.
+VII. Atomi molis non sunt Elementa rerum.
+* VIII. Monades naturaliter interire non possunt.
+* IX. Monades naturaliter oriri non possunt.
+X. Monades incipere non possunt, nisi per creationem.
+XI. Monades finiri non possunt, nisi per annihilationem.
+XII. Partes compositorum non absolute necessariò occupant locum suum.
+* XIII. Composita incipiunt existere sine creatione.
+* XIV. Composita finiuntur sine annihilatione.
+* XV. Nulla Monas derivativa physicè influere potest in interius alterius Monadis derivativae.
+XVI. In Monadem creatam forinsecus nec Substantia nec Accidens intrare possunt.
+XVII. In Compositis motus internus ab aliis compositis excitari potest.
+XVIII. Monades derivativae certis quibusdam qualitatibus sunt praeditae.
+* XIX. Nulla Monas creata in rerum Universitate alteri Monadi creatae per omnia similis existit.
+XX. Nullum Compositum in Universo creaturarum alteri composito per omnia simile existit.
+XXI. Omne Ens creatum est finitum.
+XXII. Omne Ens creatum mutationi est obnoxium.
+
+[p. 190] XXIII. Mutationes Monadum derivativarum naturaliter continuae sunt.
+* XXIV. Mutationes Monadum à principio interno proficiscuntur.
+* XXV. Omnis Monas derivativa Vi praedita est.
+* XXVI. Monades derivativae sunt substantiae.
+XXVII. Qualitates, quibus Monades inter se differunt, in diversis mutationum schematibus consistunt.
+* XXVIII. Omnis Monas derivativa perceptione praedita est.
+XXIX. Cogitatio Animae rationalis est Perceptio.
+* XXX. Nulla Perceptio Monadis derivativae est sine Appetitu.
+XXXI. Appetitus Monadis creatae semper pervenit ad novam Perceptionem.
+XXXII. Nulla Monas derivativa sine omni perceptione subsistere potest.
+* XXXIII. Essentiae Compositi Perceptio repugnat.
+XXXIV. Cogitatio Corpori ne quidem per absolutam DEI potentiam communicari potest.
+XXXV. Actiones internae Monadum derivativarum non nisi in continuis perceptionum Variationibus consistunt.
+XXXVI. Monades creatae nudae in perpetuo sunt stupore.
+XXXVII. Memoria est principium Consecutionis perceptionum in animabus sensitivis.
+XXXVIII. Nuda consecutio perceptionum non involvit Rationem.
+XXXIX. Imaginatio & Memoria sunt Principium Rationis.
+XL. Ratio est principium scientiae.
+* XLI. Ratio est Principium actuum reflexorum in animâ rationali.
+* XLII. Principium contradictionis est principium veritatum necessariarum.
+XLIII. Ratio sufficiens in veritatibus necessariis derivativis invenitur per earundem analysin in veritates necessarias primitivas.
+* XLIV. Principium rationis sufficientis est principium veritatum contingentium.
+XLV. Ratio ultima in veritatibus contingentibus non potest inveniri per analysin in rationes particulares.
+* XLVI. Ratio sufficiens existentiae seriei contingentium infinitae, datur extrà seriem infinitam contingentium.
+* XLVII. Ratio ultima existentiae seriei contingentium infinitae datur in substantiâ quàdam necessaria.
+* XLVIII. Substantia necessaria est Ens à se.
+XLIX. Substantia necessaria est substantia Universalis.
+L. Substantia necessaria est substantia infinita.
+LI. Substantia necessaria est Ens immutabile.
+
+[p. 191] LII. Substantia necessaria est Ens independens.
+* LIII. Mundus est Machina corporea.
+LIV. Substantia necessaria est substantia suprema & unica.
+LV. Substantia necessaria est Ens absolutè perfectum.
+LVI. Substantia necessaria est Ens simplex.
+LVII. Substantia necessaria est Monas Originaria.
+LVIII. DEUS est substantia.
+* LIX. DEUS est substantia necessaria.
+LX. In DEO datur Potentia infinita.
+LXI. In DEO datur Intellectus infinitus.
+* LXII. Intellectus DEI est principium essentiarum simul & existentiarum.
+LXIII. In DEO datur Sapientia absolute perfecta.
+LXIV. Motiva fortiora DEI non sunt nisi perfectiones plures majoresve.
+* LXV. In DEO datur Voluntas absolutè perfecta.
+LXVI. In DEO datur Bonitas absolutè perfecta.
+LXVII. In DEO datur Justitia absolutè perfecta.
+LXVIII. Substantiae finitae perfectiones suas habent ab influxu DEI.
+LXIX. Substantiae finitae imperfectiones suas habent ab essentiâ suâ sive propria naturâ.
+LXX. Possibilitas DEI est principium existentiae DEI.
+LXXI. Essentia & Attributa DEI sunt prima possibilia.
+LXXII. Existentia DEI est principium realitatis in possibilitatibus.
+* LXXIII. Voluntas DEI non est principium veritatum necessariarum.
+* LXXIV. Voluntas DEI est principium existentiae melioris.
+LXXV. Voluntas DEI est principium veritatum contingentium.
+LXXVI. Intellectus & Voluntas animarum rationalium, quatenus sunt perfectiones animarum, intellectum & voluntatem DEI repraesentant: quatenus autem illis adhaerent imperfectiones, ex essentiâ animae cujusvis propriâ fluentes, repraesentant propriam illius animae naturam.
+* LXXVII. Actio sive influxus Unius Monadis derivativae in alteram non nisi idealis est.
+LXXVIII. Omnis Monas derivativa est Automaton naturale incorporeum.
+LXXIX. Monas derivativa perfectior respectu Monadis derivativae imperfectioris agit, & Monas derivativa imperfectior respectu Monadis derivativae perfectioris patitur.
+LXXX. Actiones & passiones creaturarum mutuae sunt.
+
+[p. 192] LXXXI. Numerus Universorum possibilium in intellectu DEI est infinitus.
+LXXXII. Ex universis possibilibus unicum tantùm existere potest.
+LXXXIII. Universum existens inter Universa possibilia est Optimum.
+* LXXXIV. Essentia Monadis derivativae est repraesentativa illius Universi, cum quo in intellectu DEI jam connexa est idealiter.
+LXXXV. Qualibet Monas derivativa illud universum, cum quo connexa est, repraesentat alio modo.
+LXXXVI. Differentia interna Monadum derivativarum consistit in gradu perfectionis essentialis repraesentandi unum idemque Universum.
+LXXXVII. Appetitus est medium naturale in Monadibus derivativis unicum universum infinitis modis diversis repraesentandi.
+LXXXVIII. Status praesens Monadis derivativae naturaliter consequitur ex praecedenti.
+LXXXIX. Statum quemlibet praesentem Monadis derivativae ingreditur infinitudo exiguarum perceptionum, quae omnes concurrunt ad determinationem perceptionum infinitarum, statum consequentem absolventium.
+XC. Statum quemlibet praesentem corporis ingreditur infinitudo figurarum & motuum.
+* XCI. Diversitas repraesentationis unius ejusdemque universi in qualibet Monade derivativâ est principium diversi Monadis derivativae in Universo Situs.
+XCII. Universum maximo gaudet ordine.
+XCIII. Qualibet perceptio Monadis derivativae involvit ejusdem consensum cum illo universo, cum quo idealiter in intellectu DEI jam est connexa.
+* XCIV. Nulla perceptio sive in unâ eâdemque Monade derivativâ, sive in diversis alteri cuicunque perceptioni per omnia similis est.
+* XCV. Harmonia rerum Universalis praestabilita est Medium naturale obtinendi tantùm perfectionis in Universo, quantum possibile est.
+* XCVI. Harmonia rerum universalis est principium certitudinis eventuum omnium in Universo quocunque possibili.
+* XCVII. Essentia Monadis Originariae est repraesentativa omnium universorum possibilium, idque omni modo possibili.
+* XCVIII. Monas Originaria est sine Organis.
+* XCIX. Non datur vacuum, in rerum Universitate disseminatum.
+* C. Communicatio Motûs in pleno procedit ad quamlibet distantiam.
+* CI. Omne corpus illud repraesentat universum, in subjecto multiplici, cum quo in intellectu DEI jam idealiter est connexum.
+
+[p. 193] CII. Vis passiva simplex Monadum derivativarum est principium materiæ in corporibus.
+
+CIII. Vis activa simplex Monadum derivativarum est principium naturæ in corporibus.
+
+CIV. Extensio est phænomenon, sed in principio materiæ fundatum.
+
+CV. Pars quælibet materiæ peculiari motu est prædita.
+
+CVI. Motus in corporibus naturaliter non nisi ex motu oritur.
+
+CVII. Pars quælibet materiæ actu in infinitum est subdivisa.
+
+CVIII. Pars quælibet materiæ continet mundum creaturarum.
+
+CIX. Corpus organicum viventis est organicum in qualibet parte minimâ in infinitum.
+
+CX. Nulla monas derivativa est sine organis.
+
+CXI. Tot dantur Sensûs in animantibus, quot diversæ diversorum fluidorum impressiones in organa diversa possibiles sunt.
+
+CXII. Monas derivativa repræsentat universum illud, cum quo jam in intellectu DEI est connexa, mediante corpore organico, cujus est Monas dominans.
+
+CXIII. Corpus organicum viventis in perpetuo est fluxu.
+
+CXIV. Vivens corpus suum non mutat, nisi per gradûs.
+
+CXV. Non datur in Universo creaturarum generatio & mors totalis.
+
+CXVI. Animal spermaticum non electum nascitur & interit, ut Animal electum.
+
+CXVII. Generatio naturalis infert evolutionem & accretionem organorum in corpore, & statum perceptionum, evolutioni & accretioni organorum in Monade derivativâ respondentem.
+
+CXVIII. Mors naturalis infert involutionem & diminutionem organorum præsentium in corpore, & stuporem temporarium in Monade derivativâ.
+
+CXIX. Nullum vivum post mortem naturalem existere definir.
+
+CXX. Creatio & Annihilatio sunt miracula.
+
+CXXI. Harmonia rerum universalis præstabilita est principium harmoniæ animæ & corporis humani præstabilitæ.
+
+CXXII. Duo regna naturalia causarum efficientium & causarum finalium inter se sunt harmonica.
+
+CXXIII. Lex naturæ, quâ eadem virium motricium quantitas & eadem directio totalis in Universo corporeo conservantur, est principium harmoniæ inter duo regna naturalia.
+
+CXXIV. Animæ rationales ante conceptionem tantùm sunt animæ sensitivæ.
+
+[p. 194] CXXV. Animæ rationales sunt simul specula universi creaturarum & simulacra ipsius Divinitatis.
+
+CXXVI. DEUS respectu universi creaturarum in genere est inventor sive Architectus sapientissimus & potentissimus.
+
+CXXVII. DEUS respectu animarum rationalium in specie simul est Monarcha Optimus.
+
+CXXVIII. DEUS est Monarcha perfectissimus.
+
+CXXIX. Civitas DEI est Monarchia Universalis.
+
+CXXX. Civitas DEI est Monarchia perfectissima.
+
+CXXXI. Miseria propriè sic dicta in Civitate DEI nulla est.
+
+CXXXII. Gloria DEI involvit Spirituum finitorum existentiam.
+
+CXXXIII. Datur Harmonia perpetua inter Regnum naturæ & inter Regnum gratiæ.
+
+CXXXIV. Pœnæ per ordinem naturæ actiones malas & remunerationes per eundem actiones bonas consequuntur.
+
+CXXXV. Pœnæ naturales & remunerationes naturales non necessariò extemplo consequuntur actiones creaturarum rationalium malas & bonas.
+
+CXXXVI. Ordo naturæ Vota sapientissimi superat.
+
+CXXXVII. Status calamitatis transiens, respectu innocentis, non est miseria propriè sic dicta.
+
+CXXXVIII. In Civitate DEI omnia vergunt in salutem bonorum Civium.
+
+CXXXIX. Civis bonus in Civitate DEI regimine Monarchæ sui contentus est.
+
+CXL. Civis bonus in civitate DEI confidit in divina providentiâ.
+
+CXLI. Civis bonus in Civitate DEI amat Monarcham suum perfectissimum.
+
+CXLII. Beatitudo maxima possibilis Spirituum finitorum consistit in Amore puro Auctoris sui.
+
+CXLIII. Civis bonus in Civitate DEI acquiescit in Voluntate consequente Monarchæ sui.
+
+CXLIV. Civis bonus in Civitate DEI seriò intendit Gloriam DEI.
+
+[p. 195] INDEX AUCTORUM,
+
+in his Demonstrationibus citatorum,
+additis eorum editionibus.
+
+Acta Eruditorum Anno cIↃ IↃCCXVII. publicata Lipsiæ in 4. Elogium G. G. LEIBNITII Mense Julio p. 322-- 336.
+
+Actorum Eruditorum, quæ Lipsiæ publicantur, Supplementa. Tom. VII. Lipsiæ 1721. in 4. Sect. IX. p.423. seq.
+
+Aristotelis Opera omnia græcè & latinè per Guillelmum duVal Parisiis 1654. 4. Voll. in fol.
+
+Augustini Aurelii Opera omnia Basileæ apud Froben. 1569. 10. Voll. in fol.
+
+Bayle Petri Dictionaire historique & critique à Rotterdam 1702. edit. 2da 3. Voll. in fol.
+
+Abregè de la Philosophie de Gassendi en VII.Tomes par F.Bernier Docteur en Medicine de la faculté de Montpellier. edit. sec. Lugduni Gall. 1684. in 12. maj.
+
+Boëthii Anilii Manlii Severini Opera omnia Basileæ ex officina Henric-Petrinâ 1570. in fol.
+
+Bohn Joannis, Dissertationes Chymico-physicæ cum tractatu de aëris in sublunaria influxu. Lipsiæ 1685. in 4.
+
+Bülfingeri Georg. Bernhard. Commentatio hypothetica de Harmoniâ corporis & animi humani quàm maximè præstabilita Francofurti ad Moenum 1723. in 8vo.
+
+de origine & permissione mali præcipuè moralis Commentatio philosophica Francofurti & Lipsiæ 1724. in 8vo.
+
+Dilucidationes Philosophicæ de DEO, animâ humanâ, Mundo & generalibus rerum affectionibus. Tubingæ 1725. in 4to.
+
+Specimen doctrinæ veterum Sinarum moralis & politicæ ; tanquam exemplum Philosophiæ gentium ad Remp. applicatæ ; cum dissertatione extemporali de litteraturâ Sinensi, Francofurti ad Moenum 1724. in 8vo.
+
+Bungi Petri Numerorum mysteria ex abditis plurimarum disciplinarum fontibus hausta : opus maximarum rerum doctrinâ & copiâ refertum. In quo mirus inprimis idemque perpetuus Arithmeticæ Pythagoricæ cum divinæ paginæ numeris consensus multiplici ratione probatur. Postremâ editio-
+
+[p. 196] editione ab Auctore ipso copiosè indice & ingenti appendice auctum. Lutetiæ Parisiorum 1618. in 4to.
+
+De græcis latinisque numerorum notis & præterea Sarracenicis seu Indicis, cum indicio elementorum ejus quam Logisticen græci nominant ( quæ est methodus conficiendarum rationum ) vocabulorum artis interpretatione & aliis quibusdam ad hanc pertinentibus. Accesserunt explicatiunculæ Arithmetices doctrinæ Nicomachi & alia quædam ad contemplationem scientiæ istius pertinentia : studio Joachimi Camerarii Papeberg. ad Sebastianum Theodoricum Winshemium Mathematicarum disciplinarum Profess. in Academia Wittenbergensi edit. secunda 1569. in 8vo.
+
+Campanellæ Thomæ Stylen. Ord. Præd. Universalis Philosophiæ seu Metaphysicarum rerum juxta propria dogmata partes tres, Libr. XVIII. Operum Tomus IV. Parisiis 1638. in fol.
+
+Ejusdem Disputationum in quatuor partes suæ Philosophiæ realis Libri quatuor. Operum Tomus II. Physiologiam, Ethicam, Politicam, Oeconomicam cum quæstionibus complectens.
+
+des Cartes Renati Opera philosophica editio ultima Amstelodami ex Typographiâ Blavianâ 1698. Tom. IV. in 4to. Principia Philosophiæ Tomo I. 1692. in 4to. Meditationes de primâ philosophiâ ibid. 1698. in 4to. Epistolæ partim ab Auctore latino sermone conscriptæ, partim ex gallico translatæ. Partes tres. Amstel. 1682. in 4. Tom. IV. Operum.
+
+Ejusdem Principiorum Philosophiæ Pars prima & secunda more geometrico demonstratæ per Benedictum de Spinoza Amstelodamensem, cum Cogitatis Metaphysicis Amstelodami apud Johannem Rieverts 1663. in 4.
+
+Ciceronis M. T. Opera omnia tribus Tomis, quorum III. & ultimus continet Opera Epistolica & philosophica, singulari studio, variorum & antiquissimorum exemplarium collatione recognita, Basileæ apud Andream Cratandrum 1520. in fol.
+
+Dee Joannis Londinensis Monas Hieroglyphica, mathematicè, magicè, cabalisticè anagogiceque explicata, ad Maximilianum Dei gratiæ Romanorum, Bohemiæ & Hungariæ Regem Antwerpiæ 1564. 7. plagg. in 4to.
+
+Deusingii Antonii Disquis. phys. mathem. de Vacuo & Attractione Amstelodami 1661. in 12mo.
+
+Fabricii Jo. Alberti Bibliotheca græca sive notitia Scriptorum veterum græcorum, quorumcunque monumenta integra aut fragmenta edita exstant: tum plerorumque è MSS. ac deperditis. Hamburgi 1705. in 4to. Bibliothecæ
+
+[p. 197] thecæ græcæ Liber V. de scriptoribus græcis christianis aliisque, qui vixère à Constantini M. ætate ad captam A. C. MCCCCLIII. à Turcis Constantinopolin Hamb. 1712. in 4.
+
+Fontenelle Histoire du renouvellement de l' Academie Royale Tom. II. in 8. Parisiis 1717. in 12. de Vitâ Leibnitii.
+
+de la Forge Ludovici Tractatus de mente humanâ, ejus facultatibus & functionibus : nec non de ejusdem Unione cum corpore, secundùm principia Renati des Cartes Amstelodami 1669. in 4to.
+
+Hanschii Michael Gottlieb Diatriba de Enthusiasmo Platonico, in quâ sublimia Platonicorum de ultimo animæ humanæ in divinam essentiam reditu philosophemata methodo facili atque evidenti ex suis principiis deducuntur, in originem & progressum eorundem inquiritur, media quoque obtinendi redunitionem illam mentis nostræ cum DEO exponuntur, singula optimorum Auctorum fide uberius confirmantur atque illustrantur, omnia denique ad rectæ rationis normam exiguntur ; cum Epistola G. G. Leibnitii ad Auctorem hoc de argumento scripta, Lipsiæ 1716. in 4.
+
+Hippocratis & Galeni Opera, graecè & latinè per Renatum Charterium Lutetiæ Parisiorum 1679. Tomi XIII. in fol.
+
+Jamblichus de Vitâ Pythagoræ graecè & latinè per Ulricum Obrechtum cum notis Ludolphi Kusteri : Malchus sive Porphyrius de Vitâ Pythagoræ cum notis Lucæ Holstenii & Cunradi Rittershusii Anonymus apud Photium de Vitâ Pythagoræ Amstelodami 1707. in 4to.
+
+Journal des Sçavans pour l'année 1695. Tom.XXIII. Amstelodami 1696. in 12mo. pour l' année 1697. Tom. XXV. à Amsterdam 1698. in 12mo.
+
+Jungii Joachimi Principia artis textoriæ inedita.
+
+Ejusdem Opiniones physicæ cum Isagoge phytoscopicâ Hamburgi 1679. in 4to.
+
+Kabbala denudata, seu doctrina Hebræorum transcendentalis & metaphysica atque theologica Tomus I. cum Præfatione Editoris C. Knorr à Rosenroth de applicatione dogmatum Cabbalisticorum ad scripta N. T. Sulzbaci 1677. & 1678. in 4to. Tomus II. cum adjectâ Adumbratione Cabbalæ Christianæ ad captum Judæorum, Francofurti ad Moenum 1684. in 4to.
+
+de Launoy Joannis Liber de variâ Aristotelis fortunâ in Academiâ Parisiensi ad Henricum Ludovicum Hubertum Monmorium Libellorum supplicum Magistrum edit. secunda Hagæ. Com. 1656. in 4to.
+
+Leibnitii Godefridi Guilielmi Hypothesis nova physica, quâ phænomenorum naturæ plerorumque causæ ab unico quodam Universali motu, in
+
+[p. 198] globo nostro suppositO, repetuntur, seu Theoria Motus, Moguntiæ 1671. in 12mo.
+
+Ejusdem Essais de Theodicée sur la bonté de Dieu, la liberté de l'homme & l'origine du Mal à Amsterdam 1710. in 8vo. Ejusdem causa DEI asserta per Justitiam ejus cum cæteris ejus perfectionibus cunctisque actionibus conciliatam, ibid. 1710. in 8vo.
+
+Malebranche Nicolai Entretiens sur la Metaphysique & sur la Religion à Rotterdam 1688. in 8vo.
+
+Memoires pour l'histoire des Sciences & des beaux arts recueuillis par l'ordre de S. A. S. Mgr. le Duc du Maine de l'an 1701. seconde edition Tome I. Mois de Janvier - - Mois de Juin à Amsterdam 1701. in 8vo. Tome second Mois de Juillet - - Mois de Decembre ibid. eod.
+
+Meursii Joannis Denarius Pythagoricus, sive de numerorum usque ad denarium qualitate ac nominibus secundum Pythagoricos Liber singularis Lugd. Bat. 1631. in 4to.
+
+Monantholii Henrici Liber de Puncto Lugduni Batav. 1600. in 4to.
+
+Les Essais de Michel, Seigneur de Montaigne par Pierre Coste en III. Tomes à Paris 1725. in 4to maj.
+
+Paullini Christiani Francisci Disquisitio curiosa : an mors naturalis sit substantia verminosa? Francofurti & Lipsiæ 1703. in 8vo.
+
+Phavorinus vide infra Varinus.
+
+Philonis Opera graecè & latinè Coloniæ Allobrogum 1613. in fol.
+
+Platonis Opera græcè & latinè cum Commentariis Marsilii Ficini Lugduni Gallorum 1550. in fol.
+
+Poiret Petri Cogitationum rationalium de DEO, Animâ & Malo Libri quatuor, in quibus, quid de hisce Cartesius, ejusque sequaces, boni aut secus senserint, omnisque Philosophiæ certiora fundamenta, atque inprimis tota Metaphysica verior, continentur. Amstelodami 1677. in 4to.
+
+Ejusdem Vera & cognitu omnium prima, sive de naturâ Idearum, ex origine suâ reperitâ, asserta & adversus Cl. A. Pungelerum defensa Disquisitio theologico-philosophica Amstelodami 1715. in 12mo maj.
+
+Recueil de diverses pieces sur la Philosophie, la Religion naturelle, l' Histoire, les Mathematiques &c. par Mrs. Leibniz, Clarke, Newton, & autres autheurs celebres Tome I. à Amsterdam 1720. in 8vo. Tome II. ibid. eod.
+
+Senecæ L. Annai Opera, à Justo Lipsio emendata & Scholiis illustrata, editio quarta Antwerpiæ 1652. in fol.
+
+[p. 199] Sengverdii Wolferdi Inquisitiones experimentales Lugduni Bat. 1690. in 4to.
+
+Sixti Senensis Bibliotheca Sancta Lugduni 1593. in fol.
+
+Spinoza v. sup. Cartes.
+
+Synesii Opera cum Scholiis Nicephori, graecè & latinè per Dionysium Petavium 1612. in fol.
+
+Thümmigii Lud. Philippi experimentum singulare, de arboribus, ex folio educatis, ad rationes physicas revocatum, Halæ Magdeburg. 1721. in 4to.
+
+àTschirnhausen Ehrenfried. Walther. Medicina mentis, sive Artis inveniendi præcepta generalia Lipsiæ 1695. in 4to.
+
+Varini Phavorini Lexicon græcum per Joachimum Camerarium Basileæ 1538. in fol.
+
+Volaterrani Raphaëlis Commentariorum urbanorum Libri octo & triginta, tribus Tomis distincti, quorum primus Geographiam, secundus Anthropologiam, tertius Philologiam continet apud Claudium Marnium & hæredes Jo. Aubrii 1603. in fol.
+
+Vossii Gerardi Joannis de Theologiâ gentili & Physiologiâ Christianâ sive de Origine & Progressu Idololatriæ deque natura mirandis, quibus homo adducitur ad DEUM Libri IX. Amstelodami 1700. in folio.
+
+Wolfii Christiani Elementa Aërometriæ Lipsiæ 1709. in 12mo.
+
+Ejusdem Ratio Prælectionum Halæ Magd. 1718. in 8vo.
+
+Ejusdem Cogitationes rationales de DEO, mundo, & Animâ rationali, germanicè, editio tertia Halæ Magdeb. 1723. in 8vo.
+
+Ejusdem Annotationes Metaphysicæ germanicè Francofurti ad Moenum 1724. in 8vo.
+
+Ejusdem Cogitationes rationales de causis phænomenorum naturæ, editio secunda Halæ Magd. 1725. in 8vo.
+
+## [p. 200] INDEX RERUM ET VERBORUM
+
+quam maximè memorabilium.
+
+( P. Principia Leibnitii, ex Actis Eruditorum Lipsiensibus his demonstrationibus præmissa, D. definitiones, A. Axiomata, T. ipsa in demonstrationibus theoremata designat. )
+
+A.
+
+Bælardus T. 82.
+Abnegatio sui philosophica T. 143.
+Absoluta realitas D. 136.
+Absolutè compositum D. 48.
+  contingens D. 21.
+    Ens D. 22.
+    Veritas D. 23.
+  impossibile D. 3.
+  necessarium D. 24.
+    Ens D. 25.
+    Veritas D. 26.
+  perfectum D. 140. 145.
+  possibile D. 6.
+Abstrahendi facultas P. 30. D. 134.
+Absurdum D. 26.
+Accidens D. 81.
+  non egreditur ex substantia P. 7.
+Accidentalis perfectio D. 142.
+Actio D. 64.
+  externa
+  idealis } D. 64.
+  interna
+  monadis unius in alteram D. 93.
+Actiones interna monadum derivativarum. T. 35.
+Actiones mutuæ creaturarum T. 80. P. 54.
+Adæquata repræsentatio D. 105.
+Admiratio mater philosophiæ T. 133.
+Æternitas D. 68. T. 119.
+Affectio Entis D. 14.
+Amor mercenarius D. 144.
+  purus D. 144.
+  DEI D. 252.
+  verus D. 144.
+Analogum rationis in brutis T. 38.
+Analysis materiæ in elementa T. 99. 107.
+Andrius T. 116.
+Angeli sunt animalia T. 110.
+Anima D. 113. P. 19.
+  rationalis D. 132. P. 20.
+  est repræsentativa alicujus corporis P. 64.
+  & hoc mediante totius universi P. 64.
+  est sensitiva ante conceptionem T. 124.
+  separata prorsus nulla est P. 14. 7. 5. T. 110.
+  simulacrum divinitatis T. 125.
+  species quædam monadum P. 16. T. 86.
+
+[p. 201] Anima rationalis est speculum universi P. 80.
+Animae rationalis distinctio à corpore T. 34.
+immortalitas T. 119.
+intellectus T. 76.
+libertas T. 24.
+praesentia in universo quomodo innotescat. T. 84.
+stupor temporarius P. 20. T. 36.
+voluntas T. 76.
+Anima sensitiva D. 122.
+species quaedam monadum P. 14. T. 86.
+Animae sensitivae memoria T. 37.
+Animal (Animans) P. 25. 65. D. 207.
+indestructibile est P. 80.
+praeexistit ante conceptionem P. 77.
+Animal irrationale D. 208.
+rationale P. 29. D. 209.
+simplex P. 29. D. 208.
+spermaticum P. 78. D. 210.
+electum D. 211. P. 78.
+non electum D. 212.
+Animalium generatio naturalis T. 117.
+spermaticorum ortus & interitus P. 78. T. 116.
+Animarum mortalitas nulla P. 14.
+origo P. 77.
+praeexistentia qualis P. 77.
+Annihilatio D. 231.
+miraculum est T. 120.
+Antecedens Voluntas DEI D. 238.
+Antecessores : quodnam erga eos sit officium nostrum T. 96.
+Anthropomorphismus T. 98.
+Apperceptio P. 14. 19. D. 111.
+
+Appetitus P. 15. D. 98.
+semper pervenit ad novas perceptiones P. 15.
+Appetitus apperceptivus D. 112.
+monadis derivativae est medium repraesentandi universum T. 87.
+nudus D. 109.
+rationalis D. 130.
+sensitivus D. 119.
+Appetituum Lex D. 106.
+Archimedes T. 96.
+Architectus D. 225.
+universi creaturarum D. 226.
+est sapientissimus & potentissimus T. 126.
+Archytas T. 1.
+Aristoteles T. 16. 41. 110.
+Arithmeticae objectum D. 37.
+Arithmetica scientiarum parens D. 50.
+Artis textoria principia T. 13.
+Asinus Buridani T. 82.
+Astronomica Theologia T. 133.
+Athanasius T. 110.
+Atomi substantiae Leibnitio sunt monades T. 1.
+Atomus Epicuri T. 7.
+molis D. 201.
+impossibilis est T. 7. 105.
+magnitudinis determinatae nullius est T. 7.
+naturae D. 192.
+est quaelibet monas T. 5.
+Attendendi facultas D. 133.
+sibi ipsi necessitas T. 96.
+Attributa DEI sunt prima possibilia T. 71.
+Vid. DEI attributa.
+Cc
+
+[p. 202] Attributum Entis D. 14.
+Auctor omnium DEUS D. 138.
+Aversatio rationalis D. 131.
+sensitiva D. 120.
+Augustinus T. 110. 141. 142.
+Αὐτάρκεια Monadum creatarum P. 18. T. 15.
+Automaton D. 213.
+corporeum artificiale D. 217.
+naturale D. 216.
+incorporeum est quaelibet monas P. 18. T. 78.
+B.
+Barbarus Hermolaus P. 50. D. 110.
+Basilius Magnus T. 110.
+Βάθος divina sapientiae latet in Harmonia rerum universali T. 94.
+Bayle Petrus D. 110. T. 28. 38. 82. 95. 95.
+notatus P. 16. 61.
+Baylii judicium de principiis Leibnitii honorificum T. 95.
+Beatitudo Spirituum finitorum D. 256.
+maxima possibilis qua ? T. 142.
+Bernardus Abbas T. 82. 110.
+Bernier F. T. 7. 16. 99. 105.
+Boëthius D. 223. 256. T. 86. 96. 107.
+Bohn Joannes T. 5.
+Bonitas D. 148.
+DEI D. 243.
+Bonum D. 147.
+Bülffingerus G.B. D. 140. 159. A.2. T. 15. 19. 28. 43. 45. 69. 84. 94. 95. 101. 114. 118. 119. 121. 137.
+Bungus Petrus T. 1. 59.
+Buridani Asinus T. 82.
+C.
+Cajetanus T. 110.
+
+Camerarius Joachimus D. 37. 50. 170. T. 1. 114.
+Campanella Thomas T. 7. 38. 59. 62. 84. 107. 110. 119.
+statuit mundum triplicem T. 62.
+Cartesiani notantur P. 14.
+Cartesii Renati indifferentia T. 82.
+methodus philosophandi T. 70.
+Cartesius Renatus citatus T. 6. 7. 36. 38. 41. 70. 73. 82. 96. 99. 107.
+notatus P. 47. 83.
+Cassianus T. 110.
+Cavendi sibi à peccatis necessitas T. 96.
+Causa deficiens D. 139.
+efficiens D. 137.
+finalis D. 149.
+Causarum efficientium regnum D. 262.
+finalium regnum D. 263.
+Celeritas motus D. 181.
+Certitudo eventuum D. 224.
+philosophiae practicae T. 96.
+principium agnoscit Harmoniam rerum universalem T. 96. P. 62.
+Chaos D. 69.
+nullum in universo existit P. 72. T. 92.
+Character serio intendentis Gloriam DEI T. 144.
+Chrysostomus T. 62. 110.
+Cicero M. T. A. 2.
+Civis bonus P. 93. D. 260.
+acquiescit in voluntate DEI consequente P. 93. T. 143.
+
+[p. 203] Civis bonus amat Monarcham suum perfectis. P. 93. T. 141.
+beatus est hoc ipso T. 142.
+conatur perficere voluntatem praesumptivam DEI. P. 93.
+confidit in divina providentia P. 93. T. 140.
+contentus est divino regimine P. 93. T. 139.
+imitatur Monarcham suum P. 93.
+intendit serio gloriam DEI T. 144.
+vergunt illi in bonum omnia P. 93. T. 138.
+Civitas DEI P. 88. 89. D. 225.
+est Monarchia perfectissima T. 130.
+universalis T. 129.
+Speculum divinae bonitatis T. 127.
+Civitatis DEI finis salus bonorum Civium T. 130.
+Claritas repraesentationis D. 101.
+Coëxistentiarum ordo D. 56.
+Cogitatio D. 125.
+est incommunicabilis corpori P. 17. T. 34.
+perceptio T. 29.
+varia in objecto P. 16.
+Cognitio DEI P. 49.
+Communicatio motûs in pleno P. 63. T. 100.
+Completa Substantia D. 80.
+Compositae partes similes inter se similiter D. 51.
+Composita Substantia D. 170.
+Compositi Essentia D. 49.
+
+Compositi partes non necessario occupant locum suum T. 12.
+Compositio D. 47.
+Compositorum dissimilitudo T. 20.
+motus internus P. 7. T. 17.
+Compositum absolutè D. 48. 170. P. 2.
+ens D. 48.
+Conatus D. 82.
+monadis derivativae D. 95.
+est vis ejusdem D. 96.
+partium materiae D. 185.
+Conceptionis ratio P. 77. T. 124.
+Confusio repraesentationis D. 104.
+Conscientia D. 111.
+Consecutio perceptionum D. 121. T. 37.
+non involvit rationem P. 26. 28. T. 38.
+rationi tamen analoga est T. 38.
+statuum in monadibus derivativis P. 22. T. 88.
+Consensus D. 140.
+criterium D. 140.
+universalis perceptionum in omnibus Monadibus T. 93.
+Consequens DEI Voluntas D. 241.
+Consequentiae benè & malè factorum diuturna T. 96.
+Conservatio mundi D. 230.
+Consolatio philosophica Sapientis T. 137.
+Contingens absolutè D. 21.
+Contingentium veritatum principium est voluntas DEI T. 75.
+ratio ultima P. 36. T. 45.
+Continuae partes D. 50.
+Cc 2
+
+Con-
+
+[p. 204] INDEX
+
+Continui Solutio D. 161.
+sensus ejusdem D. 162.
+synthesis ex Monadibus possibilis T. 99.
+Continuitas, D. 50.
+Continuum ejusdem speciei D. 52.
+Contradictio D. 1.
+Contradictionis principium D. 17.
+Corporis Essentia D. 194.
+idea D. 194.
+influxus in aliud corpus D. 196.
+status D. 195.
+Corpus D. 194.
+divisum est in infinitum P. 36.
+organicum D. 197.
+est machina divina P. 67. T. 109.
+organicum in infinitum P. 66. 67. T. 109.
+repraesentativum est universi P. 63. 66. T. 101.
+Creata monadis actio D. 93.
+appetitus D. 98.
+conatus D. 95.
+facultas appetitiva D. 98.
+perceptiva D. 97.
+mutatio D. 92.
+passio D. 94.
+perceptio D. 99.
+Creata monas D. 88.
+Creatio est miraculum T. 120.
+mundi D. 229.
+Creatum Ens P. 48. D. 20.
+Creaturarum actiones & passiones mutuae P. 51. 54. T. 80.
+Culpa D. 161.
+Cultus DEI D. 253. T. 143.
+Cyrillus T. 110.
+
+D.
+Damascenus T. 110.
+Dee Joannes T. 1.
+Deficiens causa D. 139.
+DEI actio externa D. 228.
+affectiones cum Substantia necessaria eaedem sunt T. 59.
+amor purus D. 252.
+attributa sunt prima possibilia T. 71.
+bonitas D. 243.
+est absolutè perfecta T. 66.
+Vid. Bonitas.
+civitas D. 255.
+cultus D. 253.
+essentia est primum possibile T. 71.
+existentia necessaria P. 45. T. 59.
+gloria D. 248. Vid. gloria.
+influxus D. 228.
+intellectus D. 234.
+est infinitus T. 61.
+justitia D. 244.
+est absolutè perfecta T. 67.
+libertas D. 237.
+magnitudo D. 247.
+motiva fortiora quae? T. 64.
+possibilitas est principium existentiae divinae T. 70.
+potentia P. 49. D. 245.
+est infinita T. 60.
+proprietates T. 59. seqq.
+providentia specialis D. 268.
+sapientia D. 235.
+est absolutè perfecta T. 63.
+voluntas D. 237. 245.
+est absolutè perfecta T. 65.
+DEI
+
+[p. 205] RERUM ET VERBORUM MEMORABILIUM.
+
+DEI voluntas antecedens D. 238.
+consequens D. 241.
+praesumtiva D. 240.
+Delectatio T. 142.
+Democritus T. 7.
+Dependens Ens D. 30.
+Derivativae monadis actio D. 93.
+appetitus D. 98.
+conatus D. 95.
+facultas appetitiva D. 98.
+perceptiva D. 97.
+mutatio D. 92.
+passio D. 94.
+perceptio D. 99.
+perdurans D. 89.
+perdurantis variatio D. 91.
+Vis D. 96.
+Derivativa Monas D. 88.
+DEUS D. 223.
+est architectus potentissimus & sapientissimus T. 126. P. 87. 90. 93.
+incapax sensuum & affectuum T. 98.
+inventor respectu universi in genere P. 87. 90. 93.
+legislator P. 92.
+Monarcha optimus T. 127.
+perfectissimus T. 128.
+parens optimus T. 127.
+perfectus absolutè P. 41.
+princeps & parens respectu spirituum in specie P. 87.
+substantia T. 58.
+necessaria T. 59.
+unitas primitiva P. 48.
+Deusingius Antonius T. 99.
+Differentia monadum creatarum à punctis geometricis T. 18.
+
+Differentia monadum creatarum interna T. 86.
+Dionysius Areopagita T. 110.
+Directio T. 179.
+totalis P. 83. D. 180.
+Discreta partes D. 37.
+Dissimilia D. 43.
+Dissimilitudo compositorum T. 20.
+monadum T. 19.
+perceptionum in singulis monadibus T. 94.
+Distinctio repraesentationis D. 103. 136. 141.
+Diversa quae ? D. 35.
+Diversitas D. 35.
+Divinae praescientiae infallibilitas T. 96.
+Divisibilitas D. 193.
+Divisio materiae in infinitum T. 107.
+Diuturnae consequentiae benè & malè factorum T. 96.
+Dominans Monas D. 202.
+Duratio infinita D. 119.
+Δυάς T. 1.
+E.
+Eadem quae dicantur? D. 31. 46.
+Efficacia precum T. 96.
+Efficiens causa D. 137.
+Egoitas T. 41. P. 30.
+Electionis divinae ratio sufficiens P. 55.
+Elementa rerum T. 86.
+sunt monades T. 6.
+Elementum Monadati D. 171.
+Empirici sunt homines in tribus actionum suarum quartis P. 28.
+Ἐν T. 1.
+Ens D. 9.
+a se D. 19.
+ab alio D. 20.
+compositum D. 48.
+contingens absolutè D. 22.
+Cc 3
+
+Ens
+
+[p. 206] INDEX
+
+Ens creatum P. 10. D. 20.
+dependens D. 30.
+finitum D. 71.
+immutabile D. 73.
+increatum D. 19.
+independens D. 29.
+infinitum D. 70.
+mutabile D. 72.
+necessarium absolutè P. 46. D. 25.
+perfectum absolutè in suo genere D. 145.
+simplex D. 85.
+Entelechia P. 14. 18. 19. 50. D. 110.
+creata dominans. P. 73. 202.
+Entelechiae primae T. 1.
+Entis affectio (attributum) D. 14.
+essentia D. 12.
+existentia D. 13.
+modus D. 11.
+natura D. 12.
+proprietas D. 14.
+creati finitudo T. 21.
+Enunciatio identica P. 35. D. 27.
+Epicuri atomi T. 7.
+Epicurus T. 7.
+Essentia arboris D. 49.
+circuli D. 12.
+compositi D. 49.
+DEI est primum possibile T. 71.
+entis D. 12.
+horologii D. 12.
+loci D. 61.
+monadis derivativae est repraesentativa alicujus universi possibilis, cum quo idealiter jam in intellectu divino cohaeret T. 54.
+originariè est repraesentativa omnium
+
+universorum possibilium T. 97.
+Essentia totius D. 36.
+Essentialis perfectio D. 141.
+Euclides T. 1.
+Eventuum certitudo. D. 224.
+Ἐξ T. 1.
+Exilium mortis T. 119.
+Existentia creaturarum & Dei in quo differant P. 44. T. 70.
+DEI est principium realitatis in possibilitatibus P. 43. T. 72.
+Entis D. 13.
+monadum T. 1.
+est miraculosa T. 120.
+necessaria hypotheticè T. 105.
+non-melioris T. 74.
+Expectatio similium eventuum P. 26. 28.
+Experimenta Vacuistarum T. 99.
+Experimentum D. 198.
+Extensio D. 199.
+monadum nulla est T. 2.
+phaenomenon est T. 104.
+Externum principium D. 16.
+Externus Sensus D. 114.
+F.
+Fabricius Jo. Albertus T. 1.
+Facultas abstrahendi D. 134.
+appetitiva D. 98.
+rationalis D. 130.
+attendendi D. 133.
+aversativa rationalis D. 131.
+locomotiva D. 175.
+perceptiva D. 97.
+reflectendi D. 135.
+
+Falsum
+
+[p. 207] RERUM ET VERBORUM MEMORABILIUM.
+
+Falsum P. 31. D. 2.
+Fantinus T. 98.
+Felicitas D. 143.
+divina D. 251. T. 142.
+Figura D. 200.
+monadum nulla est T. 2.
+Finis D. 149.
+civitatis DEI est salus bonorum civium T. 138.
+Finita substantia D. 79.
+Finitudo Entis creati T. 21.
+monadis creatae T. 21.
+Finitum Ens D. 71.
+Finitorum spirituum beatitudo D. 256.
+Finitus spiritus D. 132.
+Fluxus corporum perpetuus P. 74.
+Forge Ludov. de la T. 32.
+Formae substantiales T. 1.
+Fortius motivum D. 154.
+Futurorum Veritas determinata D. 224.
+G.
+Galterus T. 82.
+Generatio animalium T. 116.
+naturalis D. 218. T. 117.
+in instanti nulla fit T. 117.
+perfecta P. 76. D. 220.
+rigorosè sic dicta P. 76. D. 220.
+totalis nulla est T. 115.
+Gennadius T. 110.
+Geometria D. 50.
+Geometriae objectum D. 45.
+Gloria DEI D. 248.
+nulla sine existentia spirituum finitorum P. 69. T. 132.
+
+Gloriae divinae manifestatio D. 249.
+Gloriam DEI seriò intendere quod involvat ? D. 250.
+à spiritibus finitis quando intendatur? T. 144.
+Gradus D. 90. 136.
+Gratiae regnum D. 268.
+Gregoras Nicephorus T. 56.
+H.
+Harmonia D. 265.
+animae & corporis humani D. 267. P. 84. T. 15. 121.
+regni causarum efficientium & finalium D. 266. P. 82. T. 15. 122. 123.
+naturae & gratiae P. 92. 91. D. 269. perpetua est T. 133.
+rerum universalis praestabilita. D. 274. T. 15. 93.
+maxima possibilis est T. 94.
+medium est obtinendi perfectionem universi maximam possibilem T. 95.
+principium est certitudinis eventuum T. 96.
+Hartsoeckerus Nicolaus T. 116.
+Hieronymus T. 110.
+Hilarius T. 110.
+Hippocrates P. 63. T. 7. 119.
+Hobbesius Thomas T. 82.
+Homerus T. 59.
+Homines quando agant instar bestiarum P. 28.
+Hugenius Christianus T. 116.
+
+Jambli-
+
+[p. 208] INDEX
+
+I.
+Jamblichus T. 59.
+Idea D. 125.
+animae sensitivae D. 122.
+continuitatis D. 50.
+corporis D. 194.
+entis finiti D. 71.
+infiniti D. 70.
+loci D. 61.
+machinae corporeae D. 215.
+incorporeae D. 214.
+magnitudinis geometricae D. 52.
+perceptionis D. 99.
+simplex P. 35. D. 27.
+situs D. 60.
+spatii D. 57.
+substantiae D. 74.
+temporis D. 67.
+Ideae rerum innatae T. 41.
+Idealis monadum influxus T. 77.
+mundus T. 62.
+Idealismus T. 104.
+Idearum tria genera secundùm Cartesium T. 41.
+Identica enunciatio D. 27.
+propositio D. 32.
+Identitas D. 31.
+Identitatis principium D. 34.
+indiscernibilium principium P. 9. D. 46. T. 19.
+Imaginatio D. 116.
+fortis P. 27.
+principium rationis. T. 39.
+Imaginationis impotentia D. 118.
+Imago D. 271.
+Immortalitas D. 233.
+animalium rationalium T. 119.
+animarum rationalium T. 8.
+Immutabile Ens D. 73.
+
+Imperfectio P. 42. D. 160.
+Imperfectior monas respectu perfectioris patitur T. 79.
+Impetus D. 189.
+Impossibile D. 2.
+absolutum D. 3.
+respectivum D. 4.
+Impossibilitas Atomorum molis T. 7. 105.
+continui ejusdem speciei T. 19.
+influxûs physici monadum in se invicem T. 15.
+ortûs animarum rationalium ex DEI essentiâ T. 9.
+monadum ex monadibus T. 9.
+Inconveniens D. 23.
+Increata Monas D. 87.
+Increatum Ens D. 19.
+Independens Ens D. 29.
+Indestructibilitas D. 232.
+monadum T. 8.
+vivorum T. 119.
+Indifferentia Cartesii T. 82.
+Inertia materiae T. 105.
+Infallibilitas divinae praescientiae T. 96.
+Infinita quaenam dicantur? D. 50.
+Infinita Substantia D. 78.
+Infinitè parvum T. 18.
+Infinitum Ens D. 70.
+Infinitum mathematicum D. 58.
+Infinitum tempus D. 68.
+Infinitus numerus universorum possibilium T. 81.
+Influxus corporis in aliud corpus T. 196.
+idealis monadum in se invicem P. 53.
+
+[p. 209] Influxus physicus monadum in se invicem impossibilis P. 53. T. 15.
+Intellectus D. 123.
+animarum rationalium T. 76.
+DEI D. 234.
+est principium essentiarum & existentiarum T. 62.
+humanus nunquam est purus T. 89.
+Intendere serio gloriam DEI quid importet? D. 250.
+Interitus animalium spermaticorum non-electorum T. 116.
+compositorum T. 14.
+monadum per annihilationem T. 11.
+naturalis D. 219.
+totalis D. 221.
+Interna differentia Monadum derivativarum T. 86.
+Internum principium D. 16.
+Internus motus compositorum T. 17.
+Internus sensus D. 121.
+Inventor Universi creaturarum D. 226.
+Joannes Thessalonicensis T. 110.
+Judicium D. 126.
+Jungius Joachimus T. 13.
+Justinianus Imperator. D. 159.
+Justitia D. 159.
+quomodo à Pythagoreis definiatur D. 159.
+DEI D. 244.
+
+K.
+
+Kerckringius T. 116.
+Knorr à Rosenroth T. 110.
+
+L.
+
+Lactantius T. 110.
+Lamy Bernard T. 95.
+Launojus Joannes T. 82.
+Lœwenhook Anton. T. 116.
+LEIBNITIUS Godefridus Guilielmus D. 4. 19. 23. 25. 26. 27. 31. 37-41. 44. 45. 46. 58. 61. 67. 99. 107. 130. 140. 144. 161. 170. 176. 197. 203. 204. 205. 222. 242. 245. 268. A. 2. T. 1. 6. 7. 9. 19. 20. 26. 28. 29. 32-41. 43. 45. 49. 62. 69. 70. 72. 73. 78. 81. 82. 84. 85. 86. 91. 92. 94. 95. 96. 97. 99. 100. 101. 102. 103. 104. 105. 107. 108. 109. 110. 111. 114. 116. 118. 119. 120. 123. 124. 125. 131. 141.
+Leucippus. T. 7.
+Lex. D. 54.
+appetituum D. 106.
+in monadibus derivativis qualis sit T. 31.
+compositorum non est absolutè necessaria T. 12.
+generalis appetituum & motuum D. 184.
+motuum D. 183.
+sapientia D. 157. T. 64.
+Libertas D. 156. T. 96.
+animarum rationalium T. 24.
+DEI D. 237.
+Loci differentia ab alio loco D. 61.
+essentia D. 61.
+Lock Joannes T. 41.
+Locomotiva facultas D. 175.
+Locus D. 61.
+Lucretius T. 7.
+
+[p. 210] M.
+
+Machina D. 213.
+corporea D. 215.
+divina P. 67. D. 216.
+humana P. 67. D. 217.
+incorporea D. 214.
+Magna quæ dicantur? D. 50.
+Magnitudo D. 37.
+continua D. 52.
+DEI P. 61. D. 247.
+determinata D. 38.
+discreta D. 37.
+geometrica D. 52. T. 19.
+Mahometus T. 110.
+Maizeaux des T. 119.
+Malebranche Nicolaus T. 41.
+Mali origo T. 69.
+permissio T. 69.
+Malum D. 161.
+metaphysicum D. 161. T. 69.
+morale D. 161. T. 69.
+physicum D. 161. T. 69.
+Manifestatio gloriæ divinæ D. 249.
+Massa D. 205.
+materiæ nulla monadibus propria est T. 113.
+Mater Philosophiæ T. 133.
+Materia D. 172.
+subdivisa est in infinitum P. 68.
+Materiæ analysis in elementa T. 99.
+inertia T. 103.
+partes non sunt perfectè solidæ T. 105.
+partium conatus D. 185.
+motus T. 105.
+principium est vis passiva simplex Monadum derivativarum T. 102.
+Mathematicus Mundus Campanellæ T. 62.
+Mechanica Tschirnhausii adhuc desideratur T. 125.
+Mechanicè explicare quid inferat? D. 217.
+Mechanismus D. 264.
+Medium D. 150.
+naturale D. 151.
+repræsentandi universum sunt appetitus T. 87. & organa sensoria T. 112.
+obtinendi tantum perfectionis in universo, quantum possibile est P. 60.
+Melioris principium D. 158.
+Memoria P. 26. D. 118.
+est principium rationis T. 39.
+Mensurabile D. 39.
+Mensurare D. 40.
+Metamorphoses animalium dantur P. 75. T. 114.
+Metaphysica puncta T. 1.
+unio animæ & corporis T. 121.
+Metaphysicum malum D. 161. T. 69.
+Metaphysicus mundus Campanellæ T. 62.
+Metempsychosis animarum nulla datur P. 75. T. 114.
+Methodus philosophandi Cartesiana T. 70.
+Meursius Joannes D. 159. T. 1.
+Minima naturæ T. 5.
+prima T. 5.
+secunda T. 5.
+Miraculum D. 242.
+propriè sic dictum T. 120.
+
+[p. 211] Miseria D. 261.
+in Civitate DEI nulla est T. 131.
+Modus Entis D. 11.
+Moles D. 50.
+Molis atomus D. 201. Vid. Atomus
+Monadati Elementum D. 171.
+mutatio D. 173.
+partes infinitè parvæ D. 170.
+Monadatum D. 170. T. 110.
+Monades sunt Atomi naturæ P. 3. T. 5.
+Elementa rerum P. 3. T. 6.
+Puncta metaphysica T. 1.
+specula universi T. 94.
+substantiæ P. 1. T. 26.
+Monadis creatæ actio D. 93. T. 79.
+appetitus D. 98.
+conatus D. 95.
+essentia T. 54.
+facultas appetitiva T. 98
+perceptiva T. 97
+influxus in aliam monadem creatam idealis T. 77.
+mutatio D. 92.
+passio D. 94.
+perceptio D. 99.
+perdurans D. 89.
+perdurantis variatio D. 91.
+status D. 165.
+Vis D. 96.
+originaria essentia P. 48. T. 97.
+est repræsentativa omnium universorum possibilium T. 97.
+Monadum creatarum actiones internæ P. 17. T. 35.
+Monadum creatarum annihilatio miraculosa P. 4. 6. T. 120.
+ἐντελέχεια P. 18. T. 8.
+differentia à punctis geometricis T. 18.
+interna T. 86.
+dissimilitudo P. 9. T. 19.
+divisibilitas nulla est P. 3. T. 4.
+essentia P. 61. 62. T. 84.
+existentia T. 1.
+est contingens absolutè T. 84.
+miraculosa P. 5. 6. T. 120.
+necessaria hypotheticè T. 105.
+extensio nulla P. 3. T. 2.
+figura nulla P. 3. T. 3.
+finitudo T. 21.
+indestructibilitas P. 4. T. 8.
+influxus idealis T. 77.
+physicus est impossibilis P. 7. T. 15.
+mutabilitas T. 22.
+mutationes continuæ P. 10. T. 23.
+organa T. 110.
+ortus P. 5. 48. T. 9.
+perceptio P. 14. T. 28.
+est continua P. 17. 21. T. 32.
+præsentia in universo T. 84.
+
+[p. 212] Monadum creatarum puncta visus T. 91.
+qualitates P. 8. T. 18.
+situs diversus in universo T. 91.
+species T. 86.
+spontaneitas T. 24.
+status præsens T. 89.
+statuum consecutiones P. 22. T. 88.
+sufficientia P. 7. 18. T. 15.
+synonyma T. 1.
+variatio in morte naturali T. 119.
+Varietas T. 27.
+Vis T. 25.
+activa simplex est principium naturæ T. 103.
+passiva simplex est principium materiæ T. 102.
+Monadum nudarum stupor perpetuus T. 36.
+Monantholius Henricus T. 18.
+Monarcha optimus D. 258. T. 128. P. 88. 90.
+Monarchia D. 257.
+perfectissima P. 93. D. 259.
+universalis P. 89. D. 257.
+Monas D. 86. P. 1. 19.
+est automaton incorporeum P. 18. T. 78.
+pars infinitè parva monadatorum D. 170. T. 107.
+unde derivetur T. 1.
+Monas creata D. 88.
+nunquam est sine organis T. 110.
+Monas creata nunquam est sine perceptione T. 32.
+derivativa D. 88.
+dominans P. 73. D. 202.
+imperfectior respectu perfectioris pati dicitur T. 79.
+increata D. 87.
+nuda P. 14. D. 110.
+originaria D. 87. T. 86.
+est sine organis P. 58.
+perfectior D. 146.
+respectu imperfectioris agere dicitur T. 79.
+primitiva P. 48.
+repræsentat totum universum P. 62. 64.
+Montagne Michael de T. 82.
+Morale malum T. 69.
+regnum T. 268.
+Mors naturalis D. 219.
+animalium P. 21. T. 118.
+non fit in instanti T. 118.
+perfecta P. 76. D. 221.
+rigorosè sic dicta P. 14. 76. 79. D. 221.
+totalis figmentum Scholasticorum nulla datur T. 115.
+Mortis exilium T. 119.
+Morus Henricus T. 7.
+Motivum D. 153.
+DEI D. 237.
+fortius (prævalens) D. 154.
+Motûs celeritas D. 181.
+communicatio in pleno T. 100.
+definitio D. 176.
+
+[p. 213] Motûs quantitas D. 182.
+Motûs internus D. 177.
+compositorum P. 7. T. 17.
+oritur non nisi ex motu P. 23. T. 106.
+uniformis T. 19.
+Motuum Lex D. 183.
+Multa quæ dicantur? D. 50.
+Multitudo D. 37.
+Mundi conservatio D. 230.
+creatio 229.
+dantur in mundis in infinitum P. 69. & 71. T. 108.
+perfectio maxima D. 227.
+possibiles infiniti T. 81.
+unitas T. 91.
+Mundus D. 222.
+est machina corporea T. 53.
+unum quid T. 53.
+Mundus corporeus Campanellæ T. 62.
+existens inter mundos possibiles, numero infinitos, est optimus T. 83.
+idealis Platonis T. 62.
+mathematicus Campanellæ T. 62.
+metaphysicus ejusdem 62. T. 62.
+moralis Leibnitii P. 87. T. 133.
+naturalis ejusdem P. 89. T. 133.
+situalis Campanellæ T. 62.
+Musica D. 50.
+Mutabile Ens D. 72.
+Mutabilitas Entis creati P. 10. T. 22.
+monadum creatarum P. 10. T. 22.
+Mutatio D. 64.
+Mutatio loci continua D. 174.
+monadati D. 173.
+monadis creatæ D. 92.
+naturalis fit per gradûs P. 13.
+Mutationes Monadum derivativarum sunt continuæ P. 10. T. 23.
+Mutationum ordo D. 66.
+Schema D. 65.
+Mutationum in monadibus creatis principium T. 24.
+Schema P. 12. 13. T. 27.
+
+N.
+
+Nabothus Martinus, Anatomicus celebris T. 116.
+Natura D. 150.
+entis D. 12.
+Naturæ atomus P. 3. D. 192.
+ordo D. 191.
+principium in corporibus est vis activa simplex Monadum T. 103.
+regnum D. 261.
+Naturalis generatio D. 218.
+in interitus D. 219.
+ortus D. 218.
+pœna D. 162.
+remuneratio T. 134. 135.
+Naudæus T. 38.
+Necessariarum veritatum principium T. 42.
+Necessaria Substantia D. 75. Vid. Substantia.
+Veritas D. 26. 27. 28.
+Necessarium absolutè D. 24.
+Necessitas hypothetica existentiæ Monadum T. 105.
+
+[p. 214] Necessitas sibi attendendi & à peccatis cavendi T. 96.
+Nicasius T. 82.
+Nicephorus Gregoras T. 56.
+Nicomachus D. 50.
+Nihil D. 10.
+Noluntas D. 131.
+DEI antecedens D. 239.
+Non-Ens D. 10.
+Nuda Monas P. 14. 24. D. 110.
+Perceptio P. 14. D. 108.
+Nudus Appetitus D. 109.
+Numerus D. 37.
+
+O.
+
+Objectum Arithmeticæ D. 37.
+Geometriæ D. 45.
+internum intellectus divini P. 47.
+Oblivio propriè sic dicta non datur T. 89.
+Obscuritas repræsentationis T. 102.
+Observatio D. 198.
+Occasio Theodicææ conscribendæ quæ fuerit Leibnitio T. 55.
+Oculus humanus T. 197.
+Officia nostra erga antecessores & posteros T. 96.
+ὄγδοας T. 1.
+Optimum D. 155.
+Ordo D. 55.
+coëxistentiarum D. 56.
+mutationum D. 66.
+naturæ D. 191.
+superat vota Sapientis P. 93. T. 136.
+Ordo universi maximus possibilis P. 60. 66. T. 92.
+Organa D. 177. P. 25.
+monadum creatarum T. 110.
+mutantur per gradûs P. 75. T. 114.
+non sunt massæ materiæ, Monadibus propriæ, P. 74. T. 113.
+sunt in perpetuo fluxu T. 113.
+medium repræsentandi universum T. 112.
+Organorum subtilitas incomprehensibilis T. 110.
+variatio in morte naturali P. 80. T. 119.
+Origenes T. 110.
+Originale D. 272.
+Originaria Monas P. 48. T. 87.
+Origo formarum P. 76.
+mali T. 69.
+Ortus animalium spermaticorum non electorum T. 118.
+animarum ex divina essentia impossibilis T. 9.
+monadum ex monadibus impossibilis T. 9.
+per creationem P. 6. T. 10.
+naturalis D. 218.
+compositorum P. 6. T. 13.
+Ovum an omne sit ex animali T. 115.
+
+[p. 215] P.
+
+Partes continuæ D. 50.
+discretæ D. 37.
+materiæ non sunt perfectè solidæ T. 105.
+similes perfectè similiter inter se compositæ D. 51.
+Partium materiæ conatus D. 185.
+motus T. 105.
+Parvum infinitè T. 18.
+Passio D. 64.
+idealis D. 64.
+monadum derivativarum T. 77.
+Passiones mutuæ creaturarum P. 51. T. 79.
+Pauli Jo. Wilhelm. T. 116.
+Paullini Chr. Fr. T. 109. 115.
+Peccatum D. 161.
+Perceptio compositorum nulla est P. 17. T. 31.
+monadis creatæ D. 99. T. 28.
+nuda D. 108.
+ad infinitum tendit P. 63.
+simplex P. 19. D. 108.
+Perceptionum consecutio P. 23. D. 121.
+consensus universalis in omnibus Monadibus creatis T. 93.
+dissimilitudo T. 94.
+Perdurans P. 59. D. 62.
+monadis derivativa D. 89. T. 8.
+Perdurantis variatio D. 63.
+monadis derivativa variatio D. 91.
+Perfecta generatio D. 220.
+mors D. 221.
+Perfectihabea P. 50. D. 110.
+Perfectio P. 41. D. 140.
+accidentalis D. 142.
+essentialis D. 141.
+maxima mundi D. 227.
+medium illam obtinendi T. 95.
+universi inexplicabilis T. 95.
+Perfectiones substantiarum finitarum, T. 68.
+sunt à DEO, P. 42. 50.
+Perfectior creatura P. 32.
+monas agit respectu imperfectioris T. 79.
+Perfectum Ens absolutè D. 145.
+in suo genere D. 145.
+Permissio mali T. 69.
+Phænomena D. 170. 198.
+naturalia sunt divini monitores T. 133.
+Phænomenon est Extensio T. 104.
+Phantasia D. 116.
+Phantasma D. 117.
+Phavorinus D. 152.
+Philo T. 7.
+Philoponus T. 7.
+Philosophica Consolatio Sapientis T. 137.
+Pietas D. 253.
+Regeneratio T. 41.
+Philosophia D. 50.
+Pigrorum T. 6.
+
+[p. 216] Philosophiæ Leibnitianæ prærogativa præ Platonicà T. 82.
+mater T. 133.
+Platonica Systema adhuc desideratur T. 114.
+Practica certitudo T. 95.
+Tschirnhausiana Systema affectum T. 133.
+Physicæ possibilitas T. 13.
+Physicum malum T. 69.
+regnum D. 264.
+Picus Jo. Mirandulanus T. 59.
+Pietas philosophica D. 252.
+Pigrorum philosophia T. 6.
+Plaga D. 178.
+Plato T. 41. 110.
+Platonis Mundus idealis T. 62.
+Plutarchus T. 7.
+Pœna D. 162.
+naturalis P. 91. 92. D. 163. T. 134.
+non extemplò necessariò male facta consequitur P. 92. 135.
+positiva T. 164.
+quando demum sit necessaria T. 135.
+Poiretus Petrus notatus P. 47. T. 73.
+Positiva pœna D. 164.
+Possibile D. 5.
+absolutè D. 6.
+respectivum D. 7.
+Possibilia prima D. 8.
+sunt attributa DEI T. 71.
+Possibilitas DEI est principium Existentiæ DEI T. 70.
+Physicæ T. 13.
+Posteris quid debeamus? T. 96.
+Potentia DEI P. 49. D. 245.
+absoluta D. 246.
+ordinaria D. 246.
+Practica Philosophiæ certitudo T. 96.
+Præexistentia vivorum T. 115.
+Præsentia animæ humanæ in universo T. 84.
+monadum creatarum in universo T. 84.
+Præsumptiva DEI voluntas D. 243.
+Prævalens Motivum D. 154.
+Precum efficacia & utilitas T. 96.
+Prima Entelechiæ T. 1.
+Prima possibilia T. 71.
+Primitiva Monas D. 87.
+Principia Artis textoriæ T. 13.
+primitiva P. 35.
+Principium D. 16.
+externum D. 16.
+internum D. 16.
+mutationum in monadibus creatis P. 11. T. 24.
+Principium certitudinis eventuum est Harmonia rerum universalis T. 95.
+contradictionis P. 31. A. 1. D. 17.
+essentiarum T. 62.
+existentiarum T. 62.
+existentiæ DEI T. 70.
+melioris P. 57. T. 74.
+harmoniæ Animæ & Corporis Humani T. 121.
+Regni causarum efficientium & finalium T. 123.
+
+[p. 217] Principium identitatis D. 34. A. 1.
+indiscernibilium P. 9. D. 46. T. 19.
+materia est vis passiva simplex monadum creatarum T. 102.
+melioris D. 158.
+rationis T. 39.
+sufficientis P. 32. D. 18. A. 2.
+est principium veritatum contingentium T. 44.
+realitatis in possibilibus T. 72.
+reflexionis T. 41.
+scientiæ T. 40.
+sitûs diversi Monadum creatarum in universo T. 91.
+veritatum contingentium T. 75.
+necessariarum T. 42. 73.
+Proclus T. 59.
+Propositio in principio contradictionis fundata T. 33.
+identica D. 32.
+quà sensum & sonum D. 32.
+quà sensum tantùm D. 32.
+Proprietas Entis D. 14.
+Providentia DEI specialis D. 268.
+Puncta Metaphysica T. 1.
+Punctum Geometricum T. 18.
+Purus Amor D. 144.
+
+Purus Amor DEI D. 252.
+Pythagoras T. 59.
+
+Q.
+
+Qualitas D. 42.
+Qualitates Monadum T. 18.
+Quantitas D. 41.
+motûs D. 182.
+an eadem conservetur in universo? T. 123.
+virium motricium D. 187.
+P. 83.
+totalis D. 188.
+Quantum D. 50.
+
+R.
+
+Ratio P. 29. D. 127.
+humana semper est mixta T. 89.
+principium reflexionis T. 41.
+scientiæ T. 40.
+Ratio sufficiens P. 32. D. 15.
+ultima P. 38. 46. D. 15.
+existentiæ seriei contingentium infinita P. 37. 46. T. 46.
+unius præ alterâ P. 56.
+non datur nisi in Substantia necessariâ P. 38. T. 47.
+veritatum contingentium P. 36. T. 44.
+
+[p. 218] Ratiocinium P. 30. D. 128.
+Rationis Analogum in brutis T. 38.
+sufficientis principium D. 18.
+in Veritatibus necessariis derivativis T. 43.
+Realitas absoluta D. 136.
+positiva P. 41.
+veritatum æternarum P. 45.
+Reflexionis principium P. 30. T. 41.
+Regeneratio philosophica T. 41.
+Regna causarum efficientium & causarum finalium semper sunt harmonica P. 82. T. 122.
+Regnum Causarum efficientium D. 262.
+finalium D. 263.
+Gratiæ D. 268.
+Morale D. 268.
+Naturæ D. 264.
+Physicum D. 264.
+Regula D. 54.
+Relationis Similitudo D. 53.
+Remunerationes naturales T. 134.
+non necessariò extemplo benè factá consequuntur P. 92. T. 135.
+Repræsentatio adæquata D. 105.
+diversimoda universi unici P. 59. T. 85.
+mutua unius ab altero D. 270.
+quomodo fiat à corporibus mediante motu T. 101.
+à monadibus mediante appetitu T. 87.
+
+Repræsentationis claritas D. 101.
+confusio D. 104.
+distinctio D. 105.
+136. 141.
+obscuritas D. 102.
+schema D. 100.
+Rerum universitas D. 222.
+Resignatio mentis creatæ in divinam voluntatem T. 143.
+Resurrectio corporum T. 110.
+Rigorosè sic dicta Generatio D. 220.
+Mors D. 221.
+Ritschelius Georgius T. 101.
+Rorarius Hieronymus T. 38.
+
+S.
+
+Saltus D. 176.
+Salus bonorum civium finis civitatis DEI T. 138.
+Sapientia D. 50. 152.
+DEI D. 235.
+Sapientiæ Lex D. 157.
+Sapientis Consolatio philosophica T. 137.
+Vota superat Ordo naturæ T. 136.
+Schema mutationis D. 65.
+in Monadibus creatis P. 12. T. 27.
+repræsentationis D. 100.
+Scholasticorum species sensibiles T. 16
+ingrediuntur & egrediuntur ex substantiis P. 7.
+Scientia P. 29. D. 129.
+Σημεῖον T. 1.
+
+[p. 219] Sengwerdus Wolferdus T. 99.
+Sensatio D. 115.
+Sensitiva Anima D. 122.
+Aversatio D. 120.
+Sensitivus Appetitus D. 119.
+Sensus Animantium plures possibiles, nobis incogniti P. 25. T. 111.
+Sensus externus P. 25. D. 114.
+internus P. 26. D. 121.
+Similes partes similiter inter se compositæ D. 51.
+Similia D. 44.
+in Sensationibus D. 124.
+Similitudo D. 45.
+relationis D. 53.
+Simplex Ens P. 1. D. 85.
+Idea D. 27.
+Perceptio D. 108.
+Simulacrum D. 271.
+divinitatis P. 86. D. 273.
+quælibet est Anima rationalis P. 86. T. 125.
+Situs D. 60.
+Sixtus Senensis T. 110.
+Societas D. 254.
+Solutio continui D. 161.
+SOPHIA CHARLOTTA Regina Borussiæ T. 95.
+Spatium D. 57.
+absolutum T. 19.
+infinitum D. 59.
+Species sensibiles Scholasticorum P. 7. T. 16.
+Specula universi sunt monades creatæ omnes T. 94.
+eaque viva & perpetua P. 58. T. 119.
+Speculum D. 271.
+
+Speculum DEI opificis est Universum T. 95.
+Spermaticorum Animalium non-electorum ortus & interitus T. 116.
+Sphærice D. 50.
+Spinoza Benedictus de T. 82. 96.
+Spiritus finitus P. 29. D. 132.
+est capax Societatis cum DEO P. 87.
+Spirituum finitorum beatitudo D. 256.
+Spontaneitas D. 107.
+Monadum creatarum T. 24.
+Status calamitatis transiens non est miseria propriè sic dicta T. 137.
+corporis D. 155.
+monadis creatæ D. 165.
+perceptionum clararum D. 167.
+distinctarum D. 168.
+obscurarum D. 166.
+Status præsens in monadatis T. 90.
+monadibus creatis T. 89.
+Statuum consecutio in monadibus creatis T. 88.
+Structura D. 47.
+Stupor P. 14. D. 169.
+temporarius in animabus rationalibus P. 20. 21.
+Substantia D. 74.
+completa D. 80.
+composita D. 170.
+finita D. 79.
+infinita D. 78.
+
+[p. 220] Substantia necessaria P. 40. D. 75.
+continet rationem sufficientem existentiæ Seriei contingentium infinita P. 37. 38. T. 47.
+est Ens à se T. 48.
+immutabile T. 51.
+independens T. 52.
+perfectum absolutè T. 55.
+simplex T. 56.
+est extra seriem contingentium P. 37. T. 47.
+monas originaria T. 57.
+substantia infinita P. 40. T. 50.
+substantia suprema P. 40. T. 54.
+substantia unica P. 40. T. 54.
+substantia universalis P. 40. T. 49.
+simplex P. 2.
+suprema D. 77.
+universalis D. 76.
+Substantiæ atomi T. 1.
+Substantiales formæ T. 1.
+Substantiarum finitarum imperfectiones T. 69.
+perfectiones T. 68.
+Substantiatum D. 170.
+Sufficiens ratio D. 15.
+
+Sufficientia Monadum creatarum P. 18. T. 15.
+Sufficientis rationis principium D. 18.
+Synonyma monadum T. 1.
+Synthesis continui ex monadibus possibilis T. 99.
+Systema Philosophiæ Platonicæ desideratum T. 114.
+Tschirnhausiana affectum T. 133.
+
+T.
+
+Temporis subdivisio in infinitum T. 107.
+Tempus D. 67. T. 19.
+infinitum differt ab æternitate DEI D. 68.
+Textoria artis principia T. 13.
+Theodicææ conscribendæ quænam Leibnitio data fuerit prima occasio T. 95.
+Theologia Astronomica T. 133.
+Thomas de Aquino T. 38. 110. 119.
+Thümmigius Lud. Philipp. D. 12.
+Totalis directio D. 180.
+interitus D. 221.
+ortus D. 220.
+quantitas virium motricium D. 188.
+Totius essentia T. 36.
+Totum D. 56.
+Τριάς T. 1.
+Tschirnhausen Ehrenfried Walther à T. 85. 86. 107. 115.
+ejus Mechanica adhuc inter Scientias desideratur T. 125.
+
+[p. 221] Tschirnhausen Systema Philosophia universæ affectum T. 133.
+
+V.
+
+Vacuistarum experimenta pro Vacuo T. 99.
+Vacuum in universo nullum T. 99.
+Valla Laurentius T. 81.
+Vallisnerius T. 116.
+Variatio monadum creatarum & organorum, ipsis respondentium, in morte naturali T. 119.
+perdurantis D. 63.
+monadis creatæ D. 91.
+Varietas monadum T. 27.
+rerum in universo infinita P. 36. T. 20.
+Veritas contingens absolutè P. 36. 47. D. 23.
+determinata futurorum D. 224.
+facti P. 32. 36. D. 23.
+necessaria absolutè P. 47. D. 26.
+derivativa D. 28.
+primitiva D. 27.
+positiva D. 23.
+Veritates æternæ P. 29. T. 73.
+arbitrariæ T. 73.
+Veritatum contingentium principium T. 44
+ratio ultima T. 45.
+
+Veritatum necessariarum principium T. 42.
+ratio sufficiens quomodo inveniatur P. 33. 34. T. 43.
+Verum P. 31. D. 2.
+Uffenbachius Zachar. Conrad. ab T. 7.
+Vires primitivæ T. 1.
+Virium motricium quantitas D. 187.
+totalis D. 188.
+Vis P. 17. D. 83.
+monadis creatæ D. 96. T. 25.
+activa simplex principium naturæ T. 103.
+passiva simplex principium materiæ T. 102.
+motrix T. 186.
+Viva simpliciter T. 86.
+existunt ubique T. 109.
+mutant species T. 114.
+Vivens P. 65. D. 106.
+Viventis corpus organicum in infinitum T. 109.
+Vivorum præexistentia T. 115.
+species infinita T. 110.
+Ultima ratio D. 15.
+veritatum contingentium T. 45.
+Unio animæ & corporis metaphysica P. 81. T. 121.
+Unitas DEI P. 39.
+mundi P. 39. T. 95.
+primitiva P. 48.
+
+[p. 222] Unitates reales T. 1.
+Universa possibilia infinita in intellectu divino P. 55. T. 81.
+Universalis consensus perceptionum in monadibus creatis T. 93.
+harmonia rerum T. 93.
+substantia D. 76.
+Universi ordo est maximus possibilis T. 92.
+Universitas rerum D. 222.
+Universum creaturarum D. 222.
+existens est optimum T. 83.
+speculum DEI T. 95.
+speculum magnitudinis divinæ T. 126.
+unicum P. 55. T. 82.
+Universum non admittit vacuum T. 99.
+repræsentatur à qualibet monade T. 84. 86.
+à quolibet corpore T. 101.
+
+Unum per accidens D. 204.
+se D. 203.
+Unum quando dicatur repræsentare alterum D. 270.
+Volaterranus Raphaël T. 98.
+Voluntas D. 130.
+DEI P. 49. D. 237.
+principium veritatum contingentium T. 75.
+non autem necessariarum T. 73.
+antecedens P. 93. D. 238.
+consequens P. 93. D. 241.
+decisiva P. 93.
+perfecta absolutè D. 236.
+præsumtiva P. 95. D. 240.
+secreta P. 93.
+Vossius Gerardus Joannes T. 110.
+Vota Sapientissimi superat ordo naturæ, ex infinitis, absolutè possibilibus, à DEO sapienter electus T. 136.
+
+W.
+
+Wiclefus T. 82.
+Wolfius Christianus D. 31. 70. 140. 144. 152. 170. 253. A. 2. T. 5. 19. 20. 26. 38. 41. 96. 97. 102. 121.
+
+FINIS.
+
+[p. 223] THEOREMATA METAPHYSICA
+EX
+PHILOSOPHIA LEIBNITIANA
+Selecta:
+DE
+PROPRIETATIBUS QUIBUSDAM
+ENTIS INFINITI ET FINITI MUNDIQUE
+EXISTENTIS PERFECTIONE;
+METHODO GEOMETRICA DEMONSTRATA:
+
+PERILLUSTRI, GENEROSO ET AMPLISSIMO
+DOMINO,
+DOMINO
+SAMUELI KOELESERIO
+A KERES-EER,
+CÆSAREO-REGIO IN GUBERNIO PRINCIPATUS TRANSILVANIÆ CONSILIARIO ATQUE SECRETARIO, VIRO DE RE ET PUBLICA ET LITERARIA PRÆCLARE MERITO MERENTIQUE
+DICATA AB AUCTORE,
+MICHAELE, GOTTLIEB HANSCHIO,
+SACR. CÆS. ET CATHOL. MAJEST. CONSILIARIO.,
+
+Accedit
+EJUSDEM AUCTORIS MEDITATIO PHILOSOPHICA,
+DE UNIONE MENTIS ET CORPORIS SECUNDUM PRINCIPIA LEIBNITIANA,
+DENUO EDITA,
+ANNO CIƆ IƆ CC XXVIII.
+
+[p. 224] 
+
+[p. 225] Perillustris, Generose & Amplissime
+Vir!
+
+Nec nudius demum tertius, nec inconsulto literaria nostra coaluit amicitia; plures enim jam effluxerunt anni, ex quo, cognitis perspectisque singularibus ingenii TUI dotibus, TUAM, Perillustris Domine, ambire amicitiam coepi, & ab illo tempore tam felici mihi esse contigit, ut non interrupto TUO literarum frui potuerim commercio. Quamobrem aequum esse duxi, ut publico etiam aliquo declararem documento, quo loco TUAM, Fautor honoratissime, habeam consuetudinem. Exequor id ipsum, diu jam mente conceptum, levidensi hac meditationum, quas exhibeo, philosophicarum inscriptione; Per-Illustri TUO celeberrimoque apud exteros Nomini facta: ut scilicet ex illo lucem, quam ab Auctore habent nullam, iisdem foenerer amplissimam. Sunt in illis selecta quaedam ex Leibnitiana praecipue philosophia Theoremata, geometrice à me demonstrata. Veritates igitur nec à me
+
+[p. 226] inventae sunt, nec soli Leibnitio inventori debentur: compendium tamen demonstrationis meum est. Sed & veritates Theologiae naturalis & demonstrationes earundem, illustri se brevitate commendantes, amare TE, aliunde novi: utut adhuc dentur inter Eruditos plurimi, qui ad exorientem pleniorem earum lucem, nostris temporibus divino consilio reservatam, coecutire, quam apertis eam oculis admittere malint. Interea patet omnibus veritas, ut ROMANI SAPIENTIS [^226-s1] verba mea faciam, à mortalium nullo penitus est occupata: multum ex illa etiam futuris relictum est. Quod superest DEUM T.O.M. veneror, ut TE, Per-Illustris Domine, longum servet, & quod jam à plurimis annis literarum colimus commercium, fortunatum porro esse jubeat atque diuturnum! IDEM, si id consonum est connexioni locorum atque temporum perfectissimae, faxit, ut de argumentis philosophicis, longe gravissimis, quibus dijudicandis parem TE esse novi, coram aliquando conferre possimus! Vale, VIR Per-Illustris & Amplissime, mihique, quod facis, fave
+
+[^226-s1]: SENECA Epist. XXXIII. Oper. p. 445. ed. quartae & ab ultima Lipsii manu, Antwerpiae 1652. in fol. p. 445.
+
+Vir Perillustris, Gener. & Ampl.
+
+Francofurti ad Moenum
+a. d. XXVII. Maji
+CIↃ IↃ CC XXV.
+
+obsequiis TUIS devotissimo
+M. G. Hanschio.
+
+## [p. 227] Ad Candidum Lectorem.
+
+Quae hic vides, Lector Benevole, Theoremata Metaphysica, ex Philosophia potissimum Leibnitiana selecta & more geometrico à me demonstrata, Prodromus sunt Principiorum Philosophiae hujus Philosophi (prout in Actis Eruditorum Lipsiensibus Tomo Supplementorum Septimo extant) eadem methodo à me demonstratorum; quae Te expectare, proximè jubeo, cum Excerptis ex Epistolis Philosophi, de rebus maximè metaphysicis ad me quondam datis, nec non Scholiis quibusdam ex Historia Philosophica, si laborem hunc tibi non ingratum fuisse intellexero. Vale!
+
+Francofurti ad Moenum
+d. XX. Nov.
+CIↃ IↃ CC XXV.
+
+[p. 4-2] I. N. I.
+
+## MICHAELIS GOTTLIEB HANSCHII
+
+## THEOREMATA METAPHYSICA
+
+Ex Philosophia Leibnitiana selecta:
+
+DE PROPRIETATIBUS QUIBUSDAM ENTIS INFINITI ET FINITI MUNDIQUE EXISTENTIS PERFECTIONE;
+
+Methodo Geometrica demonstrata.
+
+### I. DEFINITIONES.
+
+DEF. I. Realitas dicitur id omne, quod aliquid ponit, adeoque ad aliam realitatem se habet, ut positivum ad positivum.
+
+II. Perfectio est consensus realitatum, quae in uno aliquo Ente à se invicem discerni possunt.
+
+III. Imperfectio est dissensus realitatum, quae in uno Ente à se invicem discerni possunt.
+
+IV. Utraque summa dicitur, si consensus vel dissensus ille sit maximus possibilis.
+
+V. Consensus est tendentia realitatum in uno Ente inter se connexarum, ad eundem finem Entis generalem.
+
+Corol. Est itaque inter finem aliquem generalem plurium in uno Ente & inter tendentiam plurium in uno ad eundem finem, adeoque inter positivum & positivum.
+
+VI. Dissensus est non-tendentia realitatum in uno Ente inter se connexarum ad eundem finem entis generalem.
+
+[p. 5-2] Corol. Est igitur inter finem aliquem generalem plurium in uno & inter non-tendentiam plurium, in uno connexorum ad eundem finem, adeoque inter positivum & negativum.
+
+VII. Si in toto quodam composito dissensus realitatum in partibus faciat ad majorem in toto consensum obtinendum, imperfectio partium absoluta absolvit perfectionem totius respectivam. e. g. in oculo humano dissentiunt duae realitates simplices oculi, in se spectati, nimirum cernere aeque distinctè remotissima & proxima simul, cum fine oculi generali, qui est cernere aeque distinctè omnia; quia per principia dioptrica in oculo humano utraque perfectio obtineri simul nequit, adeoque oculus humanus, non est capax omnium perfectionum oculi in se spectati. Sed hic dissensus harum realitatum cum eodem fine generali oculi facit ad majorem consensum, cum fine generali totius corporis humani obtinendum, si ita attemperetur in oculo humano, ut remotissima & minima lateant, & ut lumen debilius sufficiat ad cernenda mediocriter remota & parva, quatenus haec afficiendo corpori humano sunt proportionata & plus illi consensus cum fine eodem praestant, atque ita fit, ut utraque imperfectio oculi humani absoluta, scil. non cernere remotissima, non cernere minutissima dicatur totius corporis humani perfectio respectiva, quatenus utraque consentit cum eodem fine, qui est evitatio noxiorum corpori, qualia tantum sunt mediocriter remota & parva.
+
+VIII. Ens, in quo omnes simul realitates inter se sunt connexae, dicitur Ens absolute perfectissimum: & Ens, in quo non omnes realitates simul inter se sunt connexae, dicitur Ens imperfectum.
+
+Schol. Ens absolute perfectissimum omnes Gentes in Linguis sui DEI nomine intelligunt.
+
+IX. Ens perfectissimum in suo genere, dicitur Ens, in quo omnes realitates simplices, quae eidem, in se spectato,
+
+[p. 6-2] per naturam suam separatim conveniunt, si inter se conjunctae pugnent, ita sunt sibi invicem attemperatae, ut omnia in eodem Ente, eidem fini generali obtinendo inserviant atque ita in toto consensus maximus possibilis servetur per defin. IV. V.
+
+X. Limitatio sive Finitudo est negatio aut privatio vel realitatis vel ulterioris saltem ejusdem in aliquo Ente tendentiae.
+
+XI. Ens in quo nullae prorsus adsunt realitatum negationes sive simplices sive privativae fuerint dicitur ab illa Infinitudine Ens infinitum.
+
+XII. Id in quo adsunt realitatum negationes, vel simplices vel privativae, ab illa Finitudine dicitur Ens Finitum.
+
+XIII. Bonum dicitur, quod rem, cui confertur, reddit perfectiorem.
+
+XIV. Malum in genere dicitur id, quod rem reddit imperfectiorem.
+
+XV. Causa efficiens est id quod alteri realitatem confert.
+
+XVI. Causa deficiens est id, quod alteri realitatem vel nullam, vel non sufficientem vel non omnem confert.
+
+XVII. Id quod non existit Nihil dicitur: cui si e statu nihileitatis educendo potentia quaedam sufficiat dicitur Possibile; si nulla sufficiat dicitur Impossibile.
+
+Schol. I. Cum id, quod è statu nihileitatis educi non potest, actu etiam ex eodem nunquam educatur: intelligitur, quo sensu ex nihilo aliquid fieri non possit. Sed cum aliquid ex illis, quae è statu nihileitatis educi possunt, actu ex illo educitur, intelligitur, aliquid, quod existere potest, incipere posse existere cùm anteà non existeret, h. e. posse nihilum aliquod possibile incipere esse Ens actuale.
+
+Schol. II. Assumpsi Ens & existentiam in demonstrandis proprietatibus Entis infiniti & finiti pro iisdem & exinde demonstravi Theor. XVIII. & XXV. Omne Ens finitum & mundum quemcunque possibilem in se ipso & ex se ipso nihil esse: ex stylo Scripturae S. quae
+
+[p. 7-2] creaturas, etiam contingenter jam existentes, multoque magis in statu purae possibilitatis spectatas, in ordine ad Ens, absolute necessariò existens Nihil vocat. Et in vulgaribus pariter Metaphysicae Scholasticorum libellis Ens in potentia homonymicè Ens vocatur & Existentia aequipollet Enti, nec ab Essentia nisi solà rationè differt. Samuel Schelguigius in Idea Metaphysicae §. XII. & XXXVI. p. 4. & 17. Wittebergae 1670. in 12mo edita.
+
+XVIII. Id, cujus Existentiae exhibendae quaedam potentia sufficit, etsi existentia nunquam exhibeatur, nullam in se involvit contradictionem, atque hinc dicitur: Possibile absolutè.
+
+Schol. Cum observo alicujus existentiae exhibendae potentiam quandam sufficere; scio ejus possibilitatem à posteriori; quod non involvat contradictionem: cum autem intelligo, aliquid non involvere contradictionem; scio ejus possibilitatem à priori, cur ejus existentiae exhibendae quaedam potentia sufficiat.
+
+XIX. Id cujus Existentiae exhibendae, nulla simpliciter potentia sufficit, involvit in se contradictionem, atque hinc dicitur Impossibile absolutè.
+
+Corol. Impossibile absolutè est absolutè imperfectissimum.
+
+XX. Necessarium absolutè dicitur, cujus oppositum in se involvit contradictionem, vel, cujus oppositum ita est comparatum, ut ejus existentiae exhibendae nulla potentia sufficiat.
+
+Corol. Necessarium absolutè in existendo est, cujus non-existentiae exhibendae nulla potentia sufficit.
+
+XXI. Contingens absolutè dicitur, cujus oppositum, in se spectatum nullam involvit contradictionem, vel cujus oppositum ita est comparatum, ut ejus existentiae exhibendae quaedam potentia sufficiat.
+
+XXII. Necessarium moraliter dicitur, cujus oppositum, in se spectatum nullam involvit contradictionem; quidem, sed quod, vel in se spectatum, vel cum aliis collatum, minus conveniens est perfectionibus propriis Entis absolutè perfectissimi.
+
+[p. 8-2] XXIII. Mundus, individualiter & in universo suo ambitu spectatus, dicitur collectio universalis omnium locorum & omnium temporum.
+
+Corol. Duo Mundi possibiles simul existere non possunt, quia existerent in diversis spatiis, quod evertit hypothesin.
+
+XXIV. Locus est connexio plurium coëxistentium, secundùm unam eandemque Normam.
+
+XXV. Tempus est connexio plurium incompatibilium, sive mutuo sibi succedentium, secundùm communem aliquam Normam.
+
+XXVI. Connexio plurium, secundùm communem aliquam Normam, sive legem, in genere dicitur Systema.
+
+XXVII. Plura inter se connexa sunt, quorum unum determinat alterum.
+
+XXVIII. Determinare, est restringere id, quod in idea alicujus rei indifferens est, ad aliquid specialius. Quod si restrictionis hujus in Uno ratio reddi possit, ex restrictione, quae in altero deprehenditur, unum dicitur determinare alterum, sive, determinatio dicitur esse mutua.
+
+XXIX. Mundus in suo genere perfectissimus dicitur, talis collectio omnium Locorum & omnium Temporum, quae collata cum omnibus aliis collectionibus Locorum atque Temporum omnium, absolutè possibilibus, plurimum consensûs, sive consensum maximum possibilem finium & mediorum continet, & minimum dissensûs sive dissensum minimum possibilem, in universo suo ambitu spectata, & facta totali finium & mediorum aestimatione admixtum habet, per defin. IX.
+
+XXX. Intellectus dicitur connexio possibilium inter se; quae, si repraesentet omnia possibilia simul inter se connexa, distinctè & adaequatè, dicitur Intellectus absolutè perfectissimus.
+
+Corol. I. Sine intellectu absolutè perfectissimo nihil est possibile.
+
+[p. 9-2] Corol. II. Cum Entia eorumque attributa cogitamus, ab existentia eorum abstrahimus, h. e. illa, non ut Entia; sed ut pure possibilia consideramus, & propriè loquendo non entia, sed eorum, quae non existunt, existere tamen possunt, exemplaria in intellectu absolutè perfectissimo rationem sufficientem agnoscentia, nobis praesentia sistimus: per def. XVII. & XXX.
+
+XXXI. Voluntas dicitur facultas inter plura possibilia, ob rationem ab intellectu exhibitam, eligendi unum prae altero; quae absolutè perfectissima est, si inter plura possibilia inaequaliter perfecta, infallibiliter eligat perfectissimum: quo ipso servatur consensus maximus possibilis inter rem volitam & ipsam volitionem per Def. IV.
+
+XXXII. Libertas dicitur facultas voluntatis, seipsam ad electionem illius è pluribus eligibilibus, quod hoc casu, hoc tempore atque his circumstantiis quam maxime approbat, determinandi: quae absolutè perfectissima est, si voluntas seipsam infallibiliter semper ad electionem illius determinet, quod, cum omnibus suis circumstantiis consideratum, perfectissimum esse intellectus absolute perfectissimus voluntati absolutae perfectissimae infallibiliter repraesentat.
+
+XXXIII. Sapientia dicitur aptitudo connectendi media & fines: quae si consensus maximus possibilis inter media & fines servetur, absolutè perfectissima est per Def. IV. Servatur autem, si media eligantur talia, ut iisdem fines omnes, simul possibiles, plenissimè & via brevissima obtineantur.
+
+XXXIV. Potentia absolutè perfectissima est, quae sufficit exhibendae existentiae omnium possibilium.
+
+Corol. Sine potentia, absolutè perfectissima, nil existit.
+
+XXXV. Bonitas dicitur promptitudo voluntatis, aliis conferendi realitates: quae absolutè perfectissima dicitur; si promptitudo haec sit intensissima, & se extendat ad omnia Entia, quot concipi possunt, & ad realitates omnes, quot recipere possunt, & quot ex absolutè possibilibus, lex sapientiae, absolutè perfectissimae, potentiae absolutè per-
+
+[p. 10-2] fectissimae producere permittit; ita enim adest consensus maximus possibilis inter conferentem, rem collatam, & subjectum cui confertur per Def IV.
+
+XXXVI. Lex sapientiae dicitur illa agendi ratio, qua perfectiones sunt motiva actionum tanto fortiora, quò sunt vel plures vel majores.
+
+XXXVII. Justitia absolutè perfectissima est exercitium bonitatis absolutè perfectissimae, secundum legem sapientiae absolutè perfectissimae institutum.
+
+XXXVIII. Miraculum dicitur id, cujus ratio plane non continetur in determinationibus mutuis causarum quarumcunque possibilium finitarum e. g. Creatio universi, Incarnatio Filii DEI.
+
+Corol. Quae igitur per Ministerium Angelorum in mundo existente explicari possunt, hoc sensu ad Miracula, propriissimè sic dicta, non pertinent.
+
+## II. THEOREMATA.
+
+### THEOREMA I.
+
+Omnis realitas, ut talis, est perfectio.
+
+Demonstratio.
+
+Omnis realitas, quatenus est realitas, se habet ad aliam quamcunque realitatem ut positivum ad positivum; (a) & quae se ita ad seinvicem habent, inter se consentiunt. (b) Sed in consensu realitatum plurium, quae in Ente aliquo à se invicem discerni possunt, consistit ejusdem perfectio (c) & consequenter omnis realitas, ut talis, est perfectio. Q. E. D.
+
+### [p. 11-2] THEOREMA II.
+
+Omnis realitas, ut talis, est bonum.
+
+Demonstratio.
+
+Cum bonum dicatur id omne, quod rem, cui confertur, reddit perfectiorem; (d) & realitates omnes, ut tales, id praestent rei, cui tribuuntur ? (e). omnis realitas, ut talis, bonum est. Q. E. D.
+
+Corol. I. Malum igitur quodcunque, ut tale est, non in realitate, sed in ejusdem negatione, vel simplici vel privativâ, consistit.
+
+Scholion. Notanter dico : Malum, ut tale; dantur enim habitus privationum, quorum consequentiae sunt maximè sensibles. Sed in sensu privatio non consistit, licet privationem consequatur, nec habitus, cui privatio etiam inseparabiliter adhaeret, ad illam, ut talem, pertinet. Si quis tamen privationem moralem, cum habitu adhaerente conjunctam, positivum, non in genere Entium sed in genere morum appellare voluerit, nos non habebit dissentientes: praesertim cum ipsa Scriptura S. nativam humanae naturae corruptionem eodem sensu, terminis positivis describat. conf. Rom. cap. VII. com. 20. 23. 24.
+
+Corol. II. Hinc malum, ut tale, non requirit causam efficientem, sed deficientem. (f)
+
+### THEOREMA III.
+
+Ens absolute perfectissimum est possibile.
+
+Demonstratio.
+
+Omnes realitates, ut tales, inter se consentiunt: (g) quae inter se consentiunt, illorum praedicata essentialia sibi non contradicunt, & illa quae sibi non contradicunt sunt possibilia. (h) Realitates igitur omnes simul in uno Ente inter se connexae, sunt possibiles. Sed illud Ens, in quo omnes simul realitates inter se sunt connexae, dicitur Ens absolutè perfe-
+
+[p. 12-2] perfectissimum (i) Ergo Ens absolutè perfectissimum est possibile. Q. E. D.
+
+### THEOREMA IV.
+
+Quoddam possibile est Ens imperfectum.
+
+Demonstratio.
+
+Cum Ens quoddam, cui aseitas, omnipotentia, aliaeque perfectiones desunt, & consequenter in quo non omnes realitates inter se connexae sunt, actu existere, quemlibet conscientia existentiae propriae mentis convincat: quoddam Ens existens est Ens imperfectum. (k) Sed omne quod existit illud potest existere, & proinde nullam involvit contradictionem, adeoque possibile est. (*) Ergo quoddam possibile est Ens imperfectum. Q. E. D.
+
+Corol. I. Si quoddam possibile est Ens absolutè perfectissimum (l) & quoddam possibile etiam est Ens imperfectum (m) omne Ens imperfectum erit possibile; sed non reciprocè, omne possibile erit Ens imperfectum.
+
+Corol. II. Si omne Ens imperfectum est possibile (n) & quoddam possibile non existit (o) neque enim omnia quae nullam in se involvunt contradictionem, in hoc mundo, qui existit, actu existunt: quoddam etiam Ens imperfectum non existit.
+
+Corol. III. Cum nulla species separationis realitatum in se involvat contradictionem, nullum Ens imperfectum est unicum, sui generis possibile.
+
+Corol. IV. Erit igitur Ens absolutè perfectissimum unicum sui generis possibile.
+
+### [p. 13-2] THEOREMA V.
+
+Ens in unica sua realitate illimitatum in omnibus est infinitum.
+
+Demonstratio.
+
+Si negas : erit ad minimum in unica etiam realitate finitum. Jam itaque admittit negationem (p) adeoque limitationem, (q) cum autem realitates, inter se connexae, sint unum Ens, illud, si in una realitate illimitatum, in alia limitatum esset, unum idemque simul illimitatum & limitatum foret : quod cum implicet contradictionem, adeoque sit impossibile: (r) Ens in una realitate limitatum in omnibus erit limitatum, quod hypothesin evertit. Quare Ens, in unica realitate illimitatum, in omnibus erit illimitatum, & proinde nullas prorsus in aliqua realitate admittit negationes; (s) sed tale Ens in omnibus est infinitum. (t) Ergo Ens in unica sua realitate illimitatum, in omnibus est infinitum. Q. E. D.
+
+### THORÉMA VI.
+
+Ens in unica sua realitate limitatum in omnibus est finitum.
+
+Demonstratio.
+
+Est enim in omnibus limitatum, (u) & consequenter in omnibus realitatibus suis admittit negationes. (w) Sed tale Ens in omnibus est finitum. (x) Ergo Ens in unica sua realitate limitatum in omnibus est finitum Q. E. D.
+
+Corol. I. Ens igitur limitatum v. g. in cognoscendo, est etiam in existendo finitum, adeoque eidem non repugnat non existentia. (y) & proinde contingenter existit. (z)
+
+Corol. II. Ens contingenter existens, non agnoscit rationem existentiae suae in seipso; agnosceret enim simpliciter, non limitate, absolute non per gradus definitos, adeoque infini-
+
+[p. 14-2] infinitam possideret Existentiam, contra hypot. Ergo Ens contingenter existens, rationem Existentiae suae agnoscit in alio Ente existente.
+
+Corol. III. In assignanda igitur sufficiente ratione existentiae Entis, contingenter existentis, saltus tandem faciendus est ad Ens, in existendo infinitum & absolute necessarium, adeoque extra seriem contingentium (utut infinita supponatur) constitutum.
+
+### THEOREMA VII.
+
+Ens absolutè perfectissimum in omnibus est infinitum.
+
+Demonstratio.
+
+Cum in Ente, quod realitates omnes inter se connexas habet, non assignari possit vel realitas, vel ejusdem saltem gradus aliquis absens : in Ente perfectissimo absolute nullae dantur realitatum earumve graduum negationes vel privationes; (a) sed Ens in quo nullae dantur realitatum earumve graduum negationes vel privationes, in omnibus est infinitum. (b) Ergo Ens absolutè perfectissimum in omnibus est infinitum. Q. E. D.
+
+Corol. I. Est igitur etiam in existendo infinitum & consequenter negatio existentiae in illud non cadit. (c)
+
+Corol. II. Ergo Ens absolutè perfectissimum absolutè necessario existit, ut ejusdem non existentia simpliciter contradictionem involvat (d)
+
+Scholion. Atque ita invictè demonstrata est DEI EXISTENTIA; (e) demonstrata in antecessum (f) assumptae hypotheseos possibilitate.
+
+### THEOREMA VIII.
+
+Ens infinitum in omnibus est absolutè perfectissimum.
+
+Demonstratio.
+
+Cum Ens infinitum nullas admittat realitatum earumve graduum, sive tendentiarum ulteriorum, negationes vel
+
+[p. 15-2] vel privationes (g) & Ens absolutè perfectissimum sit illud, in quo nullae realitates desiderantur, & in omnibus gradus omnes sive tendentiae in infinitum adsunt, cùm gradu vel unico realitatis alicujus deficiente, non essent omnes simul realitates inter se connexae : quod est contra definitionem Entis absolutè perfectissimi. Quamobrem Ens infinitum in omnibus erit absolutè perfectissimum. Q. E. D.
+
+Corol. Cum malum, ut tale, in imperfectione consistat (h) malum in Ente infinito vel minimum esse, absolute impossibile est. (i)
+
+### THEOREMA IX.
+
+Ens finitum in nullo est absolutè perfectissimum.
+
+Demonstratio.
+
+Cum ens finitum admittat realitatum earumque graduum negationes tum simplices tum privativas : (k) erit limitatum. (l) Si in una realitate est limitatum, in omnibus erit limitatum. (m) Sed quod in omnibus est limitatum, in nullo omnes realitatum gradus simul possidet, quos habere potest, & consequenter in omnibus admittit dissensum inter id, quod habet, & inter id, quod non habet, habere tamen potest. Sed quod dissensum hunc admittit in omnibus, in omnibus est imperfectum. (n) Ergo Ens finitum in nullo est absolutè perfectissimum. Q. E. D.
+
+Corol. I. Malum igitur a finitis Entibus est inseparabile. (o)
+
+Corol. II. Ens finitum etiam in existendo non est absolutè perfectissimum, adeoque contingenter existit, (p) & per consequens rationem existentiae suae agnoscit in alio Ente infinito. (q)
+
+### [p. 16-2] THEOREMA X.
+
+Ens infinitum intellectu absolutè perfectissimo est praeditum.
+
+Demonstratio.
+
+Quandoquidem Ens infinitum nullas admittit realitatum negationes, (r) illud omnes simul possidet realitates & consequenter etiam omnes simul perfectiones. (s) Jam verò intellectus absolutè perfectissimus, ponit facultatem, omnia possibilia, simul inter se connexa, distinctè & adaequatè exhibentem, (t) adeoque est realitas (u) & proinde perfectio. (v) Possidet igitur Ens infinitum etiam perfectionem, sibi repraesentandi omnia possibilia inter se connexa, distinctè non tantum, sed & adaequatè; in quâ intellectus absolutè perfectissimus consistit. Ergò Ens infinitum Intellectu absolutè perfectissimo est praeditum. Q. E. D.
+
+### THEOREMA XI.
+
+Ens imperfectum rationem possibilitatis suae in intellectu absolutè perfectissimo Entis infiniti agnoscit.
+
+Demonstratio.
+
+Cum nullum Ens imperfectum unicum sit sui generis possibile (x) unum majorem prae reliquis agnoscit possibilitatis rationem, (y) rationem autem possibilitatis unius prae altero exhibet facultas, omnium possibilium simultaneam inter se connexionem distinctè & adaequatè repraesentans, & proinde Ens imperfectum rationem possibilitatis suae in illa facultate agnoscet. Sed haec facultas absolvit intellectum absolutè perfectissimum Entis infiniti. (z) Ergo Ens imperfectum rationem possibilitatis suae in intellectu absolutè perfectissimo Entis infiniti agnoscit. Q. E. D.
+
+[p. 17-2] Corol. Ens absolutè perfectissimum rationem possibilitatis suæ in se ipso continet. (a)
+
+## THEOREMA XII.
+
+### Ens infinitum voluntate absolutè perfectissima est praeditum.
+
+#### Demonstratio.
+
+QUoniam Ens infinitum omnes simul perfectiones possidet (b) & voluntas absolutè perfectissima ponit facultatem, inter plura possibilia, inæqualiter perfecta, infallibiliter eligendi perfectissimum, (c) adeoque est realitas (d) & proinde etiam perfectio, (e) Ens infinitum etiam habebit perfectionem eligendi inter plura possibilia infallibiliter perfectissimum, in quà voluntas absolutè perfectissima consistit. Ergo Ens infinitum voluntate absolutè perfectissima est præditum. Q. E. D.
+
+## THEOREMA XIII.
+
+### Voluntas absolutè perfectissima cum libertate absolutè perfectissimâ conjuncta est.
+
+#### Demonstratio.
+
+QUandoquidem voluntas absolutè perfectissima inter plura possibilia, inæqualiter perfecta, illud, quod est perfectissimum, infallibiliter eligit: (f) se ipsam etiam infallibiliter determinat ad electionem ejus, inter plura, in se eligibilia, quod intellectus absolutè perfectissimus, ut perfectissimum infallibiliter repræsentat. Sed quod se ipsum infallibiliter ad electionem talem determinat, illud cum libertate absolutè perfectissima est conjunctum. (g) Ergo voluntas absolutè perfectissima cum libertate absolutè perfectissima conjuncta est. Q. E. D.
+
+## [p. 18-2] THEOREMA XIV.
+
+### Ens infinitum Sapientia absolutè perfectissima est praeditum.
+
+#### Demonstratio.
+
+SApientia absolutè perfectissima infert aptitudinem ita inter se connectendi media & fines, ut in hac Connexione summus possibilis inter media & fines servetur consensus, (g) adeoque est realitas (h) & proinde etiam perfectio, (i) Enti infinito competens. (k) Quare Ens infinitum Sapientiâ absolutè perfectissima est praeditum. Q. E. D.
+
+## THEOREMA XV.
+
+### Ens infinitum potentia absolutè perfectissima est praeditum.
+
+#### Demonstratio.
+
+POtentia absolutè perfectissima ponit vires quæ sufficiunt existentiæ exhibendæ omnium possibilium, (l) adeoque est realitas (m) & consequenter perfectio (n) Enti infinito competens. (o) Ergo Ens infinitum potentia absolutè perfectissima est præditum. Q. E. D.
+
+## THEOREMA XVI.
+
+### Ens infinitum bonitate absolutè perfectissima est praeditum.
+
+#### Demonstratio.
+
+BOnitas absolutè perfectissima ponit promptitudinem voluntatis intensissimam, conferendi Entibus omnibus, quot concipi possunt, realitates omnes, quot recipere possunt, & quot lex sapientiæ infinitæ, potentiæ infinitæ producere permittit (p) & consequenter est realitas, (q) adeoque etiam perfectio, (r) competens Enti infinito. (s) Ergo Ens infinitum bonitate absolutè perfectissima est præditum. Q. E. D.
+
+## [p. 19-2] THEOREMA XVII.
+
+### Ens infinitum justitia absolutè perfectissima est praeditum.
+
+#### Demonstratio.
+
+JUstitia absolutè perfectissima infert exercitium Bonitatis absolutè perfectissimæ, secundùm legem sapientiæ absolutè perfectissimæ institutum (t) & proinde est realitas, (u) adeoque etiam perfectio (w) competens Enti infinito. (x) Quarè Ens infinitum Justitia absolutè perfectissima est præditum. Q. E. D.
+
+## THEOREMA XVIII.
+
+### Ens finitum omnes realitates suas recipit ab Ente infinito extrinsecus illas conferente.
+
+#### Demonstratio.
+
+CUm Ens finitum in nullo sit absolutè perfectissimum (y) neque existentia ejus erit absolutè perfectissima, adeoque finita, (z) cujus proinde ratio sufficiens in Ente alio, in existendo infinito & absolutè necessario, continetur. (a) Ens igitur finitum Existentiam suam recipit ab Ente infinito extrinsecus eam conferente. Si existentiam ab Ente infinito recipit, omnes reliquas realitates ab eodem recipit, quippe quæ existentiam præsupponunt. Q. E. D.
+
+Corol. Quoniam Ens finitum existentiam suam ab extra recipit, cum omnibus realitatibus suis (b) in se ipso & ex se ipso nihil est. (c)
+
+## [p. 20-2] THEOREMA XIX.
+
+### Ens finitum non est capax recipiendis omnibus realitatibus.
+
+#### Demonstratio.
+
+ENs finitum in nullo est absolutè perfectissimum : (d) adeoque in nullo capax est omnibus realitatum gradibus recipiendis. Ergo Ens finitum non est capax recipiendis omnibus realitatibus. (e) Q. E. D.
+
+## THEOREMA XX.
+
+### Realitates simplices, quarum Ens finitum, in se & absolutè spectatum, capax est, incompatibiles esse possunt.
+
+#### Demonstratio.
+
+CErnere distinctè remotissima, & cernere etiam distinctè proxima, sunt duæ realitates simplices, quarum oculus, in se spectatus, capax est ; quia consentiunt cum fine oculi generali, qui est, visio distincta omnium, adeoque sunt ejus perfectiones absolutæ, (f) sed in oculo humano, per principia dioptrica, simul in eodem gradu concurrere nequeunt. Dantur igitur realitates simplices, quarum Ens finitum, in se & absolutè spectatum, capax est, quæ tamen inter se, in eodem Ente conjunctæ, incompatibiles sunt. Q. E. D.
+
+## THEOREMA XXI.
+
+### Imperfectio in partibus Entis finiti absoluta, esse potest perfectio respectiva totius compositi.
+
+#### Demonstratio.
+
+CUm imperfectio absoluta in partibus Entis cujusdam finiti obvia, majorem conciliet toti compositο consensum,
+
+[p. 21-2] um, si plures realitates in partibus incompatibiles, adeoque inter se dissidentes & unà perfectionem absolutam involventes (g) tali attemperatione mutua conjungantur, ut in toto composito plus consensus conservetur, & in consensu majori omnium partium cum fine, cujus gratia est ipsum totum, totius compositi perfectio respectiva consistat: (h) imperfectio absoluta in partibus entis cujusdam finiti, esse potest perfectio respectiva totius compositi. Q. E. D.
+
+## THEOREMA XXII.
+
+### Mali possibilitas in Entibus imperfectis, est absolutè necessaria.
+
+#### Demonstratio.
+
+CUm malum sit imperfectio (i) & imperfectio ab omni Ente imperfecto sit inseparabilis (k) hoc autem sit possibile. (l) Ens imperfectum ad mali possibilitatem in Entibus imperfectis, ita se habebit, ut Ens imperfectum sine omni malo, ad mali impossibilitatem, in Entibus imperfectis h. e. ut contradictorium ad contradictorium. Cujus autem possibilitas ita se habet, ut opposita ejusdem impossibilitas involvat contradictionem, ejusdem possibilitas absolutè necessaria est. (m) Ergo possibilitas mali in Entibus imperfectis est absolutè necessaria. Q. E. D.
+
+## THEOREMA XXIII.
+
+### Mali existentia in Entibus imperfectis est absolutè contingens.
+
+#### Demonstratio.
+
+CUm nullum Ens imperfectum sit unicum sui generis (n) possibile, nec imperfectio erit unica sui generis possibilis in Entibus imperfectis, & proinde malum æque ac entia ipsa imperfecta, hoc modo existit, ut etiam non hoc, sed alio modo existere possit. (o) Quod ita existit illud con-
+
+[p. 22-3] contingenter existit. (p) Ergo mali existentia in entibus imperfectis est absolutè contingens. Q. E. D.
+
+## THEOREMA XXIV.
+
+### Mundus quicunque possibilis, individualiter & in universo suo ambitu spectatus, est Systema.
+
+#### Demonstratio.
+
+QUandoquidem mundus quicunque possibilis, individualiter & in universo suo ambitu spectatus, est collectio universalis omnium locorum & omnium temporum : (q) erit connexio omnium coëxistentium & sibi mutuo succedentium secundùm communem aliquam normam. (r) Sed connexio plurium secundùm communem aliquam legem, in genere dicitur Systema. (s) Ergo mundus quicunque possibilis, individualiter & in universo suo ambitu spectatus, est Systema. Q. E. D.
+
+Corol. I. Cum in Systemate omnia se mutuo determinent : (t) in Mundo quocunque possibili, individualiter & in universo suo ambitu spectato, illa, quæ fiunt in uno loco exhibent intellectui, saltem infinito & absolutè perfectissimo, illa, quæ fiunt in omnibus locis, & in statu præsenti cujuscunque universi possibilis continetur ratio statûs ejusdem præteriti ac futuri.
+
+Corol. II. Quoniam in Mundo existente, quatenus individualiter & in universo suo ambitu spectatur, omnia sunt determinata : & implicat id, quod hoc modo, jam determinatum est ita non esse determinatum: (u) quicquid in determinationibus hujus præcisè mundi, ut talis, continetur, illud aut fuit, aut est, aut erit, & quicquid nec fuit, nec est, nec erit, illud in hoc mundo, quatenus hic mundus est, evenire non potest.
+
+## [p. 23-3] THEOREMA XXV.
+
+### Mundus quicunque possibilis in omnibus est finitus.
+
+#### Demonstratio.
+
+MUndus quicunque possibilis includit Successionem realitatum, (w) & successio infert absentiam realitatum succedentium, & consequenter realitatum limitationem, (x) quam absentia sive negatio vel unius realitatis ejusdemve gradus infert. Jam verò quicquid in unica sua realitate limitatum est, in omnibus est finitum. (y) Ergo mundus quicunque possibilis in omnibus est finitus Q. E. D.
+
+Corol. I. Mundus, qui existit, etiam in existendo est finitus, h. e. admittit negationem existentiæ, (z) adeoque non absolutè necessario, sed contingenter existit. (a)
+
+Scholion. Etsi autem omnes mundi cujuscunque possibilis partes, quà essentiam sint finitæ : tamen tam coëxistentes, quàm sibi succedentes quà numerum esse infinitas, non repugnat ; quatenus multitudini earum nullus numerus æqualis assignari potest. Scilicet connexio plurium tam coëxistentium, quam sibi succedentium est extrinseca entibus, quæ, qua coëxistentiam & successionem connectuntur, etsi nulla cogitari potest connexio, sine entibus, quæ connectuntur. Hinc Locus & Tempus nihil mutant in ipsis entibus, quæ sunt in loco & in tempore, adeoque patet, quomodo Essentia Entium coëxistentium & succedentium possit esse finita, etsi multitudo plurium, quæ connectuntur, quà numerum ponatur esse infinita.
+
+Corol. II. Mundus quicunque possibilis in se ipso & ex se ipso nihil est. (b)
+
+## [p. 24-2] THEOREMA XXVI.
+
+### Mundus absolutè perfectissimus est impossibilis.
+
+#### Demonstratio.
+
+MUndus quicunque possibilis, in omnibus est finitus (c) & consequenter in nullo est absolutè perfectissimus : (d) Quare mundus absolutè perfectissimus involvit contradictionem, & proinde impossibilis est. (e) Q. E. D.
+
+Scholion. En PLATONEM ὁμόλογον. Voluit DEUS omnia bona, malum nihil, quoad natura pateretur, in Timæo p. 1047. ed. Francof. 1602. in fol.
+
+## THEOREMA XXVII.
+
+### Mundus in suo genere perfectissimus non est in existendo absolutè necessarius.
+
+#### Demonstratio.
+
+MUndus quicunque possibilis in omnibus est finitus, (f) & proinde etiam Mundus in suo genere perfectissimus, in existendo est finitus. Quamobrem, non-existentia mundi in suo genere perfectissimi, nullam in se involvit contradictionem. (g) Ergo mundus in suo genere perfectissimus non est in existendo absolutè necessarius. (h) Q. E. D.
+
+Corol. Erit igitur Mundi cujuscunque imperfectioris præ perfectiore existentia in se possibilis. (i)
+
+## THEOREMA XXVIII.
+
+### Mundi tamen imperfectioris possibilitas nunquam in actum deducitur.
+
+#### Demonstratio.
+
+CUm Mundus quicunque possibilis in omnibus sit finitus, (k) contingenter existet, (l) adeoque rationem existentiæ
+
+[p. 25-2] stentiae suae agnoscet in alio Ente, (m) quod in omnibus infinitum (n) & absolutè perfectissimum est: (o) Sed si Mundus quicunque possibilis rationem existentiae suae agnoscit in Ente absolutè perfectissimo: Mundus imperfectior agnoscet rationem existentiae suae in Ente quod simul absolutè sapientissimum, (p) & extra se libertate absolutè perfectissimâ, (q) praeditum est. At libertas talis voluntatem infallibiliter determinat ad electionem perfectissimi, (r) quod Sapientia absolute perfectissima efficaciter suadet, (s) & intellectus absolutè perfectissimus infallibiliter cognoscit. (t) Jam verò si voluntas absolutè perfectissima perfectissimum Mundum è pluribus, inaequaliter perfectis eligit: (u) non permittit, ut potentia absolutè perfectissima existentiam conferat Mundo imperfectiori. Cujus autem possibilitati existentia à potentia absolutè perfectissima non conceditur, ejus possibilitas nunquam in actum deducitur. Ergo Mundi imperfectioris possibilitas nunquam in actum deducitur.
+
+Q. E. D.
+
+## THEOREMA XXIX.
+
+Mundus, qui existit, in toto suo ambitu spectatus, in suo genere est perfectissimus.
+
+### Demonstratio.
+
+CUm Mundus, qui existit contingenter existat, (w) agnoscet rationem existentiae suae in alio Ente, (x) in existendo infinito. (y) Sed hoc Ens in omnibus est infinitum, (z) adeoque etiam in omnibus absolutè perfectissimum, (a) quamobrem non permittunt in hoc Ente sapientia & Libertas, utraque absolutè perfectissima, ut potentia absolutè perfectissima existentiam conferat mundo imperfectiori, in se possibili. (b) Ergo Mundus, qui ab hoc Ente productus est, h. e. Mundus qui existit, in toto suo ambitu spectatus, in suo genere est perfectissimus.
+
+Scholion. Veritas haec jam M. T. Ciceroni cognita fuit atque perspecta. Ita enim BALBUS Stoicus apud eundem L. II. de Naturâ Deorum Operum Tom. III. fol. 292. a edit. Basileensi. ex
+
+[p. 26-2] aedibus And. Cratandri 1528. in fol. Mundi quidem, inquit, administratio nihil habet, nisi quod reprehendi possit. Ex iis enim naturis, (ex infinitis scil. mundis, in se possibilibus) quae erant, (in intellectu Entis absolutè perfectissimi) QUOD EFFICI OPTIMUM POTUIT, EFFECTUM EST. (Mundus in suo genere perfectissimus.) Doceat ergo aliquis potuisse melius, sed nemo unquam docebit: (nec à priori; quia intellectus finitus infinitas infinitorum possibilium connexiones inter se comparare non potest: nec à posteriori; quia absurdum est, Ens perfectissimum elegisse id, quod est imperfectius) & si quis corrigere aliquid volet, aut deterius faciet: (incidens in alium Mundum possibilem eo, qui existit, in universo suo ambitu spectato, imperfectiorem,) aut id, quod fieri non potuit, desiderabit. (nempe mundum absolutè perfectissimum.) En compendium Theodicaea Leibnitiana longè elegantissimum! Immo PLATO jam Veritatem hancce cognitam perspectamque habuit, qui loc. cit. „Fas, inquit, non est, quicquam nisi Pulcherrimum facere eum, „qui est optimus DEUM autem ad salutem Totius omnia ordi- „nare docet. Lib. X. de legibus p. 957.
+
+## THEOREMA XXX.
+
+Mundus, in suo genere perfectissimus, est tantum unicus.
+
+### Demonstratio.
+
+SI negas: unicus ad minimum reliquorum possibilium Mundo, in suo genere perfectissimo, perfectione aequalis est. Si duo mundi possibiles aequaliter sunt perfectissimi, vel uterque à sapientia & voluntate absolutè perfectissimâ electus est, vel neuter: illud si alter non excludat alterum; hoc si uterque simul à sapiente produci non possit. (c) Jam verò duos Mundos simul produci est contra cor. def. Mundi individualiter & in toto suo ambitu spectati. Mundus tamen, qui existit, in suo genere est perfectissimus. (d) Ergo Mundus in suo genere perfectissimus est tantum unicus.
+
+THEO-
+
+## [p. 27-2] THEOREMA XXXI.
+
+Miraculum mundum, in suo genere perfectissimum ingredi potest.
+
+### Demonstratio.
+
+QUandoquidem Mundus, in suo genere perfectissimus, est Systema, (e) cujus partes omnes, quà essentiam, sunt finitae: (f) ille in connexione partium vehementer composita, admittere potest dissensum, qui ad consensum in toto, non per id, quod in determinationibus mutuis causarum quarumcunque finitarum continetur; sed tantum per vires causae infinitae reducibilis est. Sed talis dissensûs reducibilitas in Mundo, in suo genere perfectissimo, infert possibilitatem miraculi, (g) & proinde miraculum etiam mundum, in suo genere perfectissimum, ingredi potest.
+
+Q. E. D.
+
+## THEOREMA XXXII.
+
+Mali permissio actualis in Mundo, qui in suo genere est perfectissimus, moraliter est necessaria.
+
+### Demonstratio.
+
+CUm in Mundo, qui in suo genere est perfectissimus, omnia sint determinata, (h) & in determinationibus illius impeditio actualis mali non contineatur: (i) impeditio mali actualis in Mundo, qui in suo genere perfectissimus est, inferet productionem, vel nullius Mundi vel imperfectioris eo, qui actu productus est, & proinde inferet aliquid, quod est contra voluntatem & sapientiam absolutè perfectissimam Entis infiniti; (k) & consequenter impeditio mali actualis in mundo, in suo genere perfectissimo, infert omissionem ejus, quod Ens absolutè perfectissimum sibi
+
+[p. 28-2] sibi ipsi debet, adeoque est contra justitiam absolute perfectissimam. (l) Sed esse in se injustum, est malum in Ente absolutè perfectissimo infinities majus, quàm est ipsa permissio mali actualis, in mundo producto, cujus absoluta perfectio est impossibilis. (m) Quare impeditio actualis mali in mundo, in suo genere perfectissimo, ab Ente absolutè perfectissimo fieri nequit, sine violatione propriarum perfectionum moralium, inprimis sapientiae & justitiae, & proinde ejusdem oppositum perfectionibus moralibus Entis absolutè perfectissimi est convenientissimum. Ergo mali permissio actualis in Mundo in suo genere perfectissimo est moraliter necessaria. (n) Q. E. D.
+
+## THEOREMA XXXIII.
+
+Mundus qui existit, in toto suo ambitu spectatus, non obstante mali permissione actuali, in suo genere est perfectissimus.
+
+### Demonstratio.
+
+QUandoquidem Mundus, qui existit, in suo genere quidem perfectissimus, (o) in omnibus tamen finitus est: (p) à nullo mundo possibili malum est separabile. (q) Permissio autem ejus actualis, in mundo, in suo genere perfectissimo, est moraliter necessaria. (r) Quamobrem Mundus, qui existit, in toto suo ambitu spectatus, non obstante mali permissione actuali, in suo genere est perfectissimus.
+
+Q. E. D.
+
+Tantum!
+
+MEDI-
+
+## [p. 29-2] MEDITATIO PHILOSOPHICA
+
+DE
+
+UNIONE MENTIS ET CORPORIS.
+
+### CONSPECTUS.
+
+I. Unio mentis & corporis:
+II. Harmonia quid?
+III. Repraesentare quid?
+IV. Perceptio quid?
+V. Motus quid?
+VI. Repraesentare universum quid inferat?
+VII. Possibilitas harmoniae, inter Mentem & corpus à DEO praestabilita.
+VIII. Independentia Mentis & corporis mutua.
+IX. Influxus idealis Mentis in corpus, & corporis in mentem.
+X. Imperium Mentis in corpus & subjectio Mentis in quo consistant?
+XI. Veritates positivae sive contingentes.
+XII. Principium veritatum contingentium.
+XIII. Principium veritatum contingentium est principium repraesentationis inter mentem & corpus mutua.
+XIV. DEUS nihil vult sine ratione.
+XV. Mentis essentia est repraesentativa corporis.
+
+[p. 30-2] XVI. Repraesentatio mutua est medium naturale Harmoniae, inter mentem & corpus praestabilitae.
+XVII. Repraesentatio vera: imperfecta.
+XVIII. Perceptiones confusae.
+XIX. Omnes creaturae quasdam habent perceptiones confusas.
+XX. Harmonia praestabilita in beatis.
+XXI. Diversus Monadum in universo situs.
+XXII. Individualitas Mentis.
+XXIII. Communicatio sive influxus physicus mentis atque corporis est inexplicabilis.
+
+[p. 31-2] I. UNIO MENTIS ET CORPORIS consistit in Harmonia, utramque inter hominis partem à DEO ab aeterno praestabilita.
+
+II. Harmonia haec consistit in repraesentatione unius, ab altero, naturae suae convenienter, factâ.
+
+III. Unum autem repraesentat alterum, si ex eo, quod fit in uno, ratio sufficiens dari possit ejus, quod in altero contingere observatur: vel si ab intellectu quodam, ex illis, quae fiunt in uno, omnia inveniri possint, quae fiunt in altero. Jam mens nostra immaterialis est, & proinde corpus, sibi assignatum, non potest repraesentare, nisi in subjecto indivisibili, secundùm punctum visûs, sibi in universo proprium: corpus contrà est materiale & componitur ex plurimis organis, adeoque mentem, sibi propriam, non potest repraesentare, nisi in subjecto multiplici.
+
+IV. Repraesentatio corporis in monade, sive perdurante individuo fit per Perceptionem mentis: repraesentatio mentis in multitudine fit per Motum corporis.
+
+V. Sicut enim Perceptionis mentis nostrae nulla potest cogitari Linea: ita Motûs corporis nostri Linea quaedam cogitari potest, ex cujus longitudine, intrà datum tempus à corpore moto descriptâ, celeritas motûs aestimatur. Motus enim est continuum quid, continuam loci mutationem involvens, & continuum in tempore & spatio indivisibili generari nequit.
+
+VI. Cùm autem inter perceptiones mentis nostrae praeteritas, praesentes & futuras eadem prorsus sit connexio, quae inter effectum aliquem & causam ejusdem proximam observatur; quatenus scilicet principium rationis sufficientis postulat, ut omnia, quae in universo contingunt, in alio existente rationem ultimam inveniant, ex quâ intelligi & explicari possit, cur ita potius contingant, quàm aliter; &
+
+[p. 32-2] cùm omnes etiam materiae partes in universo inter se cohaereant ita, ut minima quaelibet materiae portio motu sit praedita peculiari, & motus ille ex omnibus reliquarum materiae partium motibus in universo componatur: patet intellectum infinitum & absolutè perfectum ex unicâ mentis perceptione invenire posse omnes reliquas, & pariter ex motu unico, qui in hoc loco atque in hoc tempore fit, rationes invenire posse omnium motuum, qui fiunt in omnibus locis atque in omnibus temporibus. Hinc sequitur, Perceptionem mentis omnem esse repraesentationem universi in subjecto indivisibili per respectûs, quos Mens ad reliquas omnes substantias simplices in universo agnoscit, & quibus easdem, utut partibus careat, exactè semper exprimit: & contrà, Motum corporis omnem esse repraesentationem ejusdem universi in subjecto multiplici, per connexionem materiae in pleno, in quo omnis motus effectum aliquem in corporibus distantibus fortitur pro ratione distantiae, adeoque motûs ipsius communicatio procedere intelligitur ad quamlibet distantiam. Mens igitur aequè ac corpus nostrum totum repraesentat universum, dum unum repraesentat alterum; quatenus intellectus infinitus non tantùm ex mentis perceptionibus corporis motûs & vicissim ex corporis motibus mentis perceptiones, sed & ex illis, quae vel in unico corpore vel mente unicâ contingunt, omnium tam motuum quàm perceptionum in universo relationes mutuas invenire potest, per §. III.
+
+VII. Quod si unum ex altero certò potest inveniri, manifestum est, DEUM etiam ab aeterno Harmoniam inter perceptiones mentis & motûs corporis praestabilire potuisse, vi cujus in certo tempore & determinato loco illi praecisè motûs corporis consequuntur perceptiones mentis, qui easdem repraesentant, & contrà illae perceptiones in mente respondent corporis motibus, quae motus hosce pariter repraesentant.
+
+[p. 33-2] VIII. Positâ tali mentem inter atque corpus Harmonià, semel à DEO præstabilità, patet, mentem ex se & suâ virtute, independenter ab omni aliâ creaturâ, sibi repræsentare motûs, in certo quodam corpore se invicem, nexu hypotheticè necessario, excipientes; & contrà, corpus ex se, independenter à mente, sibi assignatâ, repræsentare perceptiones illius mentis, quæ naturaliter sese invicem excipiunt, secundùm communem aliquam regulam, naturæ mentis convenientem.
+
+IX. Patet hinc etiam, influxum mentis in corpus & corporis in mentem non esse, nisi idealem: quatenus DEUS, propter id, quod distinctè cognoscitur in uno, ita adaptavit alterum, ut priori mutatio in posteriori respondeat.
+
+X. Ex iisdem principiis explicari potest, quomodo mens nostra corpori dominetur, cùm perceptiones ejus distinctæ sunt: quatenus scilicet corpus à DEO ita in antecessum est dispositum ad agendum, ut, praesentibus in mente distinctis perceptionibus, corpus eo momento moveatur, quo mens id vult. Similiter ex dictis intelligitur, quomodo mens corpori subjiciatur, cùm perceptiones ejus confusæ sunt: quatenus scilicet DEUS existentiam talis præcisè Universi ex infinitis, in se possibilibus, elegit, in quo continetur jam idealiter mens per naturam suam ita disposita, ut voluntas ejusdem non per inclinationem rationis prævalentem, sed per passiones, quæ ex perceptionibus confusis, impressiones corporum, nos ambientium, in organa nostra sensoria factas, repræsentantibus, se hic & nunc ad agendum actu determinet.
+
+XI. Necessarium esse, ut Perceptiones mentis repræsentent motûs corporis, & contrà: ex naturâ veritatum contingentium sive positivarum consequitur. Est autem veritas contingens sive veritas positiva vel facti Propositio, cujus contradictoria non est impossibilis, sed tantùm inconveniens.
+
+[p. 34-2] XII. Principium veritatum contingentium est id, in quo veritates contingentes rationem ultimam inveniunt, ex quâ intelligi & explicari potest, cur potius ita, quàm aliter existant. Illud autem huc redit: Quicquid existit, rationem sufficientem existentiæ suæ, cur ita potius, quàm aliter existat, vel in se ipso, vel in alio existente agnoscit.
+
+XIII. Quod si enim perceptiones mentis nihil continerent, quod repræsentaret motûs corporis, ex gr. si occasione eorundem corporis motuum, qui repræsentantur per perceptiones, quas calorem, lumen, frigus vocamus, orirentur quæcunque aliæ mentis perceptiones, ex quibus nulla ratio dari posset dictorum motuum, qui fiunt in corpore: aliquid existeret sine ratione sufficiente, h. e. sine eo, ex quo à priori ratio reddi posset, cur aliquid existeret, vel cur non aliter existeret.
+
+XIV. At verò hoc ipsum evertit Magnum illud ratiocinandi principium. Neque enim sufficit, DEUM aliquid simpliciter velle, ex. gr. DEUM velle, ut solutionem continui, quæ corpus præsens nostrum destruit, in mente nostrâ, cui corpus illud est assignatum, perceptio grata excipiat; sed opus simul est, ut adsit medium naturale, quo DEUS efficiat, ut talis perceptio in mente oriatur.
+
+XV. Jam verò medium tale, ex ipsâ mentis nostræ naturâ fluens, est repræsentatio eorum, quæ fiunt in aliquo corpore. Mens enim naturâ suâ est repræsentativa corporis, ita ut repræsentationes, per naturalem perceptionum successionem ex se invicem ortæ, motibus certis corporis alicujus semper respondeant.
+
+XVI. Omnis autem repræsentatio naturalem habet respectum, ad id, quod repræsentatur, adeoque, si DEUS ita præstabilivisset mentem, ut ad continui in corpore, ipsi proprio, solutionem in ipsa mente perceptio sequeretur grata; opus etiam fuisset, ut essentia corporis à DEO electa illam
+
+[p. 35-2] illam agnosceret structuram, ex cujus per solutionem continui mutatione non imperfectio corporis, sed major ejusdem perfectio, & quidem secundum naturales motuum Leges, quæ in se aliter possibiles sunt, fuisset subsecuta.
+
+XVII. In omni siquidem repræsentatione verâ nihil esse potest, quod non sit in originali; quia aliàs redderetur falsa: etsi in repræsentatione imperfectâ minus sæpè sit, quàm in ipso objecto repræsentato, & omne objectum diversimodè à quàlibet substantia simplici repræsentetur.
+
+XVIII. Omnes perceptiones confusæ sunt repræsentationes imperfectæ; quia illas plura ingrediuntur, quàm quæ creaturæ evolvere possunt. Ex. gr. color viridis est perceptio confusa, quoniam in hâc perceptione, quam colorem viridem vocamus, minus repræsentatur, quàm inest objecto repræsentato: oculo enim armato observamus, objectum viride ex partibus flavis atque cœruleis componi, quas tamen in perceptione mens non distinguit.
+
+XIX. Nec ulla dari potest creatura, utut fuerit perfectissima, quæ ad ultimam omnium suarum perceptionum pervenire possit analysin; quippe quæ infiniti aliquid & divini involvit.
+
+XX. Ut hinc in ipsis Beatis admittendum sit aliquod Systema rerum, respectu ipsorum præstabilitum, vi cujus illorum perceptiones confusæ semper ad Bonum verum tendunt, licet Beati non semper adæquatam illius Boni habeant Ideam.
+
+XXI. Diversitas tandem repræsentationis in quàlibet substantiâ simplici necessario fluit ex diversimodo earundem in universo situ, dum quælibet substantia simplex punctum aliquod visûs peculiare in eodem agnoscit.
+
+[p. 36-2] XXII. Atque hinc Individualitas Mentis & omnis alterius substantiæ simplicis consistit in Lege perpetuâ, totius seriei perceptionum, ipsi propriarum, corpus assignatum, eodemque mediante, integrum universum, secundùm locum corpori, menti assignato, proprium, repræsentantium.
+
+XXIII. Cùm itaque Harmonia, inter mentem atque corpus à DEO præstabilita, prout eandem explicavimus, ex notionibus mentis & corporis sponte fluat, ordinemque inter Leges naturales, quæ connectunt perceptiones, & Leges naturales, quæ connectunt motûs, conservet, atque ad omnia phænomena salvanda sufficiat; contrà cùm communicatio sive influxus physicus mentis atque corporis omnem dictarum Legum ordinem turbet & destruat, quippe quæ sine perpetuâ lineæ directionis & graduum celeritatis in motibus corporis, mutatione ab animâ, & viciffim sine perpetuâ mutatione perceptionum in mente, à corpore produ­ctâ, concipi non potest: inde quid consequitur aliud, quàm hanc quidem ex nullâ mentis & corporis notione deduci posse & manere inexplicabilem; illam autem solam superesse, ex quâ phænomena unionis Mentis atque Corporis NATURALITER explicari valeant.
+
+F I N I S.
+
+## [p. 37-2] Emendanda.
+
+Errata leviora, in distinctionibus, numeris, aliisve minutiis, Lector Benevolus, pro æquitate sua, ipse corriget. Pro definitione 238. in Demonstrationibus & Indice Rerum citatur definitio 237. adeoque numerus definitionum sequentium, unitate auctus, definitionem, in Demonstrationibus ex Indice Rerum citatam, indicat.
+
+In Principiis Philosophiæ p. 14 lin. 4. subdivisæ, lege, subdivisa. 15. lin. 33. qui, lege, quæ. In ipsis Demonstrationibus p. 25. lin. 4. ἀειδμός, lege, ἀριθμός. lin. 5. πλῆθος, lege, πλῆθος. lin. 15. reliquis, lege, mensurabili. p. 34. lin. 18. tendente, lege, trudente. p. 39. lin. 2. sensitivæ, lege, sensitiva. p. 40. lin. 4 cogitatio, adde, est. p. 52. lin. 12. suo, lege, subjecto. lin. 17. manus, lege, manui. p. 59. lin. 24. mirefice, lege, mirifice in. p. 60. lin. 18. beatitudinis, lege, beatitudini. p. 65. lin. 2. περὶ, lege, περὶ. p. 66. lin. 7. ... lin. 38. ... p. 71. lin. 19. attendre lege, atteindre; solide, adde, plein. lin. 23. les, lege, des. p. 87. lin. 16 differat, lege, differant. p. 88. lin. 3. qualibet, lege, qualibet. p. 89. lin. 3. impedire, lege, impediri. p. 101. lin. 7. fine, lege, serie. p. 102. lin. 29. pro 10, lege, 70. p. 104. lin. 26. factae, lege facta. p. 105. lin. 25. pro 53, lege, 47. p. 106. lin. 30. quia, lege, quin. p. 107. lin. alicujus, lege, alterius. p. 108. lin. 15. ... lin. 26. basis, lege, basi. lin. 35. distinctas, lege, distinctus. p. 109. lin. 29. pro 153. lege, 154. p. 110. lin. 2. infallibilem, lege, infallibiliter. lin. 6. maxime, lege, maximus. p. 111. lin. 3. pro 236, lege, 244. lin. 5. pro 158, lege, 148. p. 112 lin. 15. MALA, lege, MALI. lin. 23. discedentum, lege, discedentium. p. 113. lin. 19. post o&. adde, Anni clɔ Iɔ ccc. p. 117. lin. 37. & lege, ea. 118. lin. 4. pro XXI. lege, X. XI. lin. 16. nihil nexum, lege, nihil quod nexum. lin. 25. si inanis, lege, si mavis. p. 119 lin. 18. hominis, lege, homines. p. 120. lin. 2. implicitæ, lege, implicatæ. lin. 10. habent, lege, habeat. lin. 15. externis, lege, extraneis. p. 122. lin. 15. urgemur, lege, vagamur. p. 124. lin. 4. pro 131, lege, 130. p. 125. lin. 14. pro 190, lege, 196. p. 126. lin. 24. pro clɔ Iɔ cx, lege, clɔ Iɔ cxcv. p. 130. lin. 14. pro 340. lege, 420. 131. lin. 17. pix, lege, prae. p. 132. lin. 18. qundcunque, lege, quodcunque: lin. 17. parte, lege, porte. p. 133. lin. 7. 8. imminerì, lege, innumeri. p. 151. lin. 3. Frerions, lege, Fictions. p. 153. lin. 25. habent, lege, habeat. p. 155. lin. 11. Schol. adde, 1: lin. 23. mitiget, lege, indiget. p. 156. lin 7. tiez, lege, liez. p. 157. lin. 33. pro 170, lege, 176. p. 158. lin. 8. Schol. adde, 1. lin. 25. in exhausta, lege, inexhausta: lin. 28. agnoscens, lege, agnoscere. p. 159. lin. 5. par celle, lege, parcelle: lin. 32. pro 109, lege, 107. p. 160. lin. 26. altifs, lege, actifs. p. 163. lin. 17. ... lege, ... p. 164. lin. 35. dissimilari, lege, dissimilaris. p. 165. lin. 3. dissimilari, lege, dissimilaris. p. 166. lin. 17. pro 34, lege, 4. p. 167. lin. 22. pro 34, lege, 13. p. 168. lin. 17. examinetur, lege, examinatur: lin. 20. praescripsit, lege, perscripsit: lin. 28. quidem, lege, quidam. p. 169. lin. 20. motum, lege, modum: lin. 34. sive, lege, fine. p 171. lin. 13. pro ccexvii, lege, ccclxvii. p. 172. lin. 26 puteat, lege, pudeat: lin. 33. essentiam, lege, essentiae, in, lege, in. p. 174. lin. 10. adaptationi, lege, adaptatione. p. 176. lin. 24. pro 2, lege, 3. p. 182. lin. 22. spectant, lege, spectantia. p. 186. lin. 6. pro 31, lege, 131. lin. 26. promtitudinis, lege, promtitudinem. p. 187. lin. 10. dissolverem, lege, dissolveram. p. 188. lin. 20. in margine; intententis, lege, intendentis.
+
+[p. 38-2] 
+
+[p. 39-2] 
+
+[p. 40-2] 
+
+[p. 41-2] 
+
+[p. 42-2] 
+
+[p. 43-2] 
+
+[p. 44-2] 

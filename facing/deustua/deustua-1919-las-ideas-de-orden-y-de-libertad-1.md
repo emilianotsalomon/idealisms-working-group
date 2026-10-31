@@ -1,0 +1,2699 @@
+---
+title: Las ideas de orden y de libertad en la historia del pensamiento humano, tomo I
+title_en: The Ideas of Order and Freedom in the History of Human Thought, vol. I
+author: Alejandro O. Deustua
+year: 1919
+original_language: es
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: Alejandro Deústua, *Las ideas de orden y de libertad en la historia del pensamiento humano, tomo I*, Lima: Casa editora E. R. Villarán, 1919; scan ‘Alejandro Deústua (1919) (V1) LAS IDEAS DE ORDEN Y DE LIBERTAD EN LA HISTORIA DEL PENSAMIENTO HUMANO.pdf’ (LatAm Philosophy / Peru/Alejandro Deústua)
+original_text: OCR of the scan of the printed book; Apple Vision OCR (on-device), 2026, mean line confidence 0.933, uncorrected; running heads and folios removed by the OCR layout pass; `⟦…⟧` kept around the lines read with low confidence; the scan is the authority
+translation: none
+rights: Alejandro Deústua died in 1945, and this printing is of 1919; both are past protection, so it is free to publish.
+pages: 173
+genre: Latin American philosophy
+collection: Alejandro O. Deustua
+order: 1
+see_also: deustua-estetica-general; deustua-la-estetica-contemporanea (with English translations)
+generated: 2026-10-26 by import_editions.py (claude-folder/_ocr-vision, issue #37)
+public: true
+---
+
+# Alejandro Deústua, *Las ideas de orden y de libertad en la historia del pensamiento humano, tomo I* (1919)
+
+Conventions: `[p. N]` marks where a printed page begins, numbered as the folio was read; `[PDF N]` a page of the scan that carries no folio; paragraphs are whole across page turns, as the OCR's line boxes found them; `## ` a centred line (a heading, or a title page's line); `[^id]` a small-type line at the foot of the page, set under the paragraph that ends there; `⟦…⟧` a line the OCR read with low confidence (damaged print, foreign quotation). Uncorrected OCR: the scan is the authority. This folder is the source: corrections go into its original.md.
+
+[PDF 1]
+
+Profesor de Estética de la Universidad Mayor de San Marcos de Lima
+
+Las ideas de orden y de libertad
+
+en la historia del pensamiento humano
+
+⟦gh HathiTrust GMT the United States, Google-digitized on 2025-07-23 06:57 PRIMERA PARTE⟧
+
+⟦Doma⟧ Diego lic ⟦ubi⟧ ⟦California https://hdl.handle.net/2027/uc1.$b44069 LIMA-PERU⟧
+
+CASA EDITORA
+
+ERNESTO R. VILLARAN University
+
+[^p1-1]: AZÁNGARO-SAN CARLOS—872 1919 Digitized by Google Original from UNIVERSITY OF CALIFORNIA
+
+[PDF 2]
+
+Profesor de Estética de la Universidad Mayor de San Marcos de Lima
+
+Las ideas de orden y de libertad
+
+en la historia del pensamiento humano
+
+⟦GMT Google-digitized⟧
+
+06:57 2025-07-23
+
+PRIMERA PARTE ⟦States,⟧
+
+⟦igh HathiTrust on United the in⟧
+
+Dom lic Pub San ⟦California https://hdl.handle.net/2027/uc1.$b44069 LIMA-PERU⟧
+
+CASA EDITORA
+
+ERNESTO R. VILLARAN University
+
+⟦AZÁNGARO-SAN CARLOS-872⟧ 1919 ⟦at⟧ Generated
+
+[^p2-1]: Digitzed by Google Original from UNIVERSITY OF CALIFORNIA
+
+[p. 1]
+
+SUMARIO
+
+⟦I⟧
+
+Advertencia.
+
+CAPÍTULO I
+
+Introducción..
+
+CAPÍTULO II
+
+as ideas de orden y libertad en la civilizi
+
+ión oriental. ⟦9⟧
+
+CAPÍTULO III
+
+En la mitología griega....... 14
+
+CAPÍTULO IV ⟦GMT -digitiz⟧
+
+En los primeros filósofos griegos. 30 ⟦: 57⟧ 06 CAPÍTULO V
+
+⟦Goog⟧
+
+En la Sofistica y en la filosofía de Sócrates...
+
+- 07 57 ⟦25 States,⟧
+
+CAPÍTULO VI ⟦on the United⟧ ⟦rust⟧
+
+En la filosofía de Platón...... 70
+
+⟦Hathi⟧ CAPÍTULO VII in ⟦through⟧
+
+En la filosofía de Aristóteles..... 103 ⟦Diego https://hdl.handle.net/2027/ucl.$b44069 / Public Domain CAPÍTULO VIII⟧
+
+En la filosofía de los Escépticos, Epicúreos
+
+y Estoicos.. 127 ⟦an⟧
+
+CAPÍTULO IX of California
+
+En la filosofía Alejandrina... 151
+
+University
+
+⟦at⟧
+
+Generated
+
+⟦Digitzed by Google⟧
+
+[^p1-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[PDF 4]
+
+## ADVERTENCIA
+
+Este libro contiene una colección de artículos publicados en "La Revista Universitaria".
+
+Su objeto no es contribuír al mejor conocimiento de la historia de la Filosofia, sino dar a los que no están familiarizados con esta disciplina, una idea de la evolución, que, en là historia del pensamiento humano, han tenido los conceptos fundamentales de orden y de libertad, de una gran importancia, especialmente, en el proceso seguido por las ideas ⟦estéticas.⟧
+
+Su contenido no encierra, por consiguiente, ninguna novedad. Son apuntes arreglados para la cátedra de Estética, que la benerolencia del Dr. Dn. Javier Prado y Ugarteche Rector de la Universidad, ha considerado dignos de publici-Good dad.
+
+- 07 " Aél se debe además que aparezcan en la forma que ahora se presentan.
+
+Lima. (EL AUTOR).
+
+Generated at University of California, San Diego through Hat https://hdl.handle.net/2027/ucl.$b44069 / Public Domain in :
+
+Digitized by Google
+
+[^p4-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[PDF 5]
+
+## Las ideas de orden y de libertad en la historia del pensamiento humano (1).
+
+⟦I⟧
+
+⟦BIBLIOGRAFIA.-G. L. Fonsegrive. Essai sur le libre arbitre, sa theo-⟧ rie et son histoire. 1896.-L. Levy-Bruhl. La Morale et la Science des ⟦Moeurs. 1903.—E. Boirac. L'idée du phenoméne. 1894.-H. Bergson. Essai⟧ sur les donnés inmediates de la conscience 1898.-Ch. Renouvier. Introduction a la Philosophie Analytique de l'Histoire. 1896.-Ch. Renouvier. Histoire et solution des problemes methaphysiques. 1901.—F. Martín. La perception exterieure et la science positive. 1894.-Theodoro Gomperz. Les penseurs de la Gréce. Histoire de la philophie antique. 1904.—Alejan-⟦dro Guichot y Sierra. Ciencia de la Mitología. 1903;⟧
+
+⟦Las ideas de orden y libertad, opuestas pero no contradic-⟧ ⟦torias, que tienden a fines diferentes, pero de necesaria conci-⟧ ⟦liación, como son diferentes y se integran las energías elemen-⟧ ⟦tales de la conciencia, han imperado sucesivamente en el pen-⟧ ⟦Hai⟧ ⟦samiento humano; la una como fruto de la actividad cognos-⟧ ⟦1n⟧ ⟦handle.net/2027/ucl.$b44069 / Public Domain citiva y la otra como expresión de la vida síquica, que aspira⟧ ⟦á expandirse sin coación alguna.⟧ ⟦San Diedol⟧
+
+⟦Intimamente ligadas a las nociones de espacio y dura-⟧ ⟦ción, como a las de sustancia y fenómeno, estado y cambio,⟧ ⟦unidad y pluralidad, se traducen, principalmente, en las de⟧ ⟦University of Calltornia, (1) Este estudio sirve de introducción al desarrollo histórico de las⟧
+
+⟦ideas estéticas, que ofrecen una tentativa de conciliación entre esos dos⟧ ⟦conceptos característicos de la belleza: el del orden y el de la libertad. Está⟧ ⟦destinado a los estudiantes de estética, y por eso contiene citas extensas⟧ ⟦para economizarles el trabajo de consultar directamente las fuentes de don-⟧ ⟦de han sido tomadas.⟧
+
+⟦enerated⟧
+
+Original from ⟦Diaitized by ( Google⟧ UNIVERSITY OF CALIFORNIA
+
+[p. 4]
+
+necesidad y contingencia, constituyendo los núcleos de creencias y de problemas filosóficos en la historia delas ideas.
+
+El proceso del pensamiento, al conocer los seres, averiguar su orígen y explicar sus relaciones de coxistencia y sucesión, reduciendo sus semejanzas ó distiguiendo sus diferencias, ha engendrado naturalmente todos esos conceptos, que responden al fin de la inteligibilidad del mundo como condición de vida y de progreso.
+
+Una tendencia espontánea del espíritu, dice Fonsegrive, nos impulsa á pensar las cosas bajo la forma de la unidad, á excluír toda multiplicidad y á proscribir el libre albedrío, al mismo tiempo que todo movimiento y toda diversidad. Esa exigencia de unidad en el pensamiento nos lleva á la idea de género y al concepto simple por excelencia, á la fuerza, á la sustancia, al absoluto, a la ley; en una palabra, á la unidad pura. Si la eliminación de las diferencias y la síntesis de las semejanzas, conduce á esa unidad pura, trasformando la percepción concreta en concepto, subordinando la comprensión á la extensión de las ideas, en cambio la marcha inversa conduce al individuo y con él á la idea de libertad, que es inseperable de la idea de individualidad.
+
+Pero la necesidad y la libertad, así engendradas, entrañan la idea de un orden rígido, concebido porel pensamiento 5-07-23 y la de un ser que escapa a ese orden y que es el individuo en la absoluta comprensión de todas sus cualidades y ener-⟦gías.⟧
+
+La necesidad es una sistematización ideal puramente 16gica y la libertad es una realidad que no sufre esa sistematización. Por eso Levy-Bruhl sostiene que la idea filosófica dela necesidad proviene de las matemáticas, de la lógica, de la as-⟦Domaln⟧ tronomía, por la experiencia que adquirimos allí del «no poder ⟦San Diead .net/2027/ucl.$b44069 / Public ser de otro modo»; derrivándose, al contrario, la idea filosó-⟧ fica de la contingencia o de la imprevisibilidad, de la observación de los fenómenos biológicos y sobre todo de los fenó-University of California, menos morales, que pueden ser de otro modo, que pueden realizarse fuera de un orden preestablecido.
+
+La necesidad y la contingencia se refieren así a la idea de lo ordenado y de lo que está fuera del orden o de lo desordenado o de lo que no es posible ordenar mediante el proceso exclusivo del pensamiento ⟦hand le⟧
+
+⟦Digitized by Google⟧
+
+[^p4-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 5]
+
+La unidad y la variedad, la sustancia y el fenómeno, la permanencia y el cambio provienen de la misma función ló-. gica y tienden al mismo fin, el de la inteligibilidad de la naturaleza por la sistematización de sus fenómenos reducidos a categorías del pensamiento.
+
+El espacio y la duración comprender también a las dos grandes categorías del espíritu: el orden y la libertad. Leibniz ha demostrado victoriosamente, dice Boirac, que la extensión no es, ni puede ser una sustancia; que ella es un atributo, una relación o, para hablar más exactamente, un «orden», es decir, en el sistema leibniziano de la palabra, un ser de razón.
+
+Lo mismo sostiene Bergson, para quien la duración es libertad. La duración pura es la forma que toma la sucesión de nuestros estados de conciencia cuando nuestro yo se deja vivir, cuando se abstiene de establecer una separación entre el estado presente y los estados anteriores. Así concebida la sucesión, sin la distinción y como una mutua penetración, como una solidaridad, como una organización íntima de elementos, en los que cada uno, representantivo del todo, no se distingue y no se aisla más que por un pensamiento capaz de abstraer, el determinismo desaparece y lo sustituye la libertad. Libertad y duración son correlativos. La libertad no es un desórden; es también un orden, pero no el orden creado por el pensamiento en el espacio o en el tiempo, que es la duración materializada o su símbolo especial, sino un orden propio, creado por el espíritu en el espontáneo e integral desarrollo de su energía.
+
+Orden y libertad son pues dos faces de la actividad humana; ideal la una, real la otra; extraña a la vida y al movimiento la primera; confundiéndose con estos la segunda San Diego en su proceso de creación incesante. Orden y libertad han coexistido siempre, aún cuando la libertad haya sido dominada por el pensamiento ordenador, cuya función estaba des-⟦Calltornia. tinada a despertar y desarrollar esa tendencia expansiva del⟧ espíritu, que encuentra desde el primer momento la resisten-⟦https://hdl.handle.net/2027/uc1 cia de la Naturaleza, a la que necesita vencer mediante con-⟧ ⟦Jniversitv of quistas lentas y sucesivas, expuestas a reacciones frecuentes.⟧
+
+La reflexión, la razón y la libertad han pertenecido a los primeros hombres, por sólo haber sido hombres, dice Renou-
+
+Generated
+
+⟦Digitzed by Google⟧
+
+[^p5-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 6]
+
+vier. Pero son potencias, agrega, que conforme a una ley ge-• neral de las funciones humanas, no han podido pasar al acto, sino a medida de la experiencia, sin llegar a ser, en cada persona, facultades de que tuviese claramente conciencia, más que en proporción misma del ejercicio que hubiese hecho de ellas, ni elevarse a cierta altura sino a la larga y después que las relaciones múltiples у crecientes entre personas diversas entre sí y el mundo externo hubiesen aportado un caudal suficiente de conocimientos, aplicaciones y pruebas.
+
+La condición de la libertad era, al comienzo de la vida humana, el dominio de la Naturaleza exterior, que sólo se podía alcanzar mediante esa obra de ordenación y gobierno de sus fenómenos, realizada por el pensamiento, que antes de crear la ciencia creó las cosmogonias y teologías en la imposibilidad de abstraer las formas y engendrar los conceptos puros.
+
+F. Martín, restaurando esa primera época de organización del mundo por la imaginación infantil de la humanidad, explica como, siguiendo una natural tendencia, el sujeto ob-⟦Google-digitized jetiva su facultad de combinar medios y fines, considera las⟧ cosas como regladas por una inteligencia y por una voluntad semejantes a su propia inteligencia y a su propia voluntad; cómo los fenómenos simultáneos le parecen en adelante componiendo sistemas; siendo estos mismos otros tantos medios de alcanzar un fin supremo y único. El sujeto habría concebido así o más bien creado una doble finalidad: una por la que agrupaba, más o menós, gran número de fenómenos entre sí y otra por la que realzaba la suprema unidad, relacionando todo con el pensamiento y con el universo. El uni-⟦through⟧ verso se convertiría entonces en un sistema único, compuesto de sistemas inferiores y estos de otros sistemas, y así sucesivamente; cada fenómeno tendría un fin, en un todo particu-⟦San Diego ottos:|/hdl handle.net/2927/uc1$h44969 / Public lar, y cada todo particular en la totalidad de las cosas, con-⟧ curriendo todo necesariamente al bello orden del mundo. Universitv of California. El mundo aparecería así como una reunión de objetos o de individuos dotados de una sustancia y, por consiguiente, estables, compuestos de partes y dispuestos en vista de ese fin, engendrando, cuando se disociaban, otros objetos e individuos esparcidos en el espacio y en el tiempo y oponiéndose, por su multiplicidad, a la unidad fundamental del espíritu.
+
+Generated at
+
+⟦Google⟧
+
+[^p6-1]: Original from Diaitized by ( UNIVERSITY OF CALIFORNIA
+
+[p. 7]
+
+Tal sería el mundo, dice Martín, no quizás el mundo del filosófo o del sabio, del que ha meditado y trasformado . por su meditación la representación original de las cosas, sino el mundo del niño, del que no tiene todavía a su disposición sino un sistema de imágenes naturales y en quien ninguna especulación ha destruído o alterado la obra sorda de la espontaneidad del espíritu. Así aparece el objeto como un ser, no sólo distinto de nosotros, sino aún semejante a nosotros; el sujeto les ha dado todos sus atributos: la existencia, la unidad lógica, el acto, la sustancia; creándolo es como si él mismo se multiplicase al infinito.
+
+Esta sistematización tenía un modelo: el orden social. El hombre ordenó el mundo, no sólo a imágen suya, sino principalmente subordinando lo incierto a la constitución social, que le era más o menos conocida reflexivamente. Según Renouvier el hombre primitivo no se asombraría de sí mismo, y sus relaciones con sus semejantes le parecerían simples y claras, determinadas como estaban por funciones intelectuales y morales que su reflexión no había analizado todavía. Pero ante la Naturaleza su ignorancia debió ser muy profunda y por eso mismo le atribuyó todas sus pasiones: el amor, el odio, la esperanza, el temor, todos los trasportes y todos los goces. No debió tener ninguna idea de esta materia, ora inerte, ora universalmente creadora, que debía ser, más tarde, un prejuicio casi universal.
+
+Esta explicación del mundo hecha por el hombre primitivo, engendró naturalmente el mito, que, personificando los fenómenos, primero, y purificando después esas personificaciones del elemento cósmico, dió vida a las religiones diversas, en las que aparece, más o menos claro, el principio director y organizador universal como inteligencia suprema.
+
+Mucho antes de que el pensamiento filosófico investigase ⟦San Dieao⟧ el mecanismo y naturaleza de los fenómenos síquicos, debió dirigir el hombre su atención hacia la génesis de los fe-Sh44969 of California, nómenos externos, procurando explicarse, no el misterio de la generación misma, inaccesible al pensamiento, sino el enlace, la relación entre los hechos, mediante la intervención de una fuerza activa semejante a la voluntad humana, ocupada como ella, de ordenar los fenómenos en el movi-⟦nıversıł!⟧ miento incesante de la vida universal. El problema del cono-
+
+⟦Google⟧
+
+[^p7-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 8]
+
+cimiento hubo de plantearse entonces, erigiendo como principio absoluto de explicación, la inteligencia ordenadora, que ponía término al caos y hacía posible el tránsito a la realidad existente, permitiendo el desarrollo de la vida. Este problema lógico estaba pues estrechamente ligado al problema cosmológico y al teológico, planteados y resueltos por la ima-. ginación en las edades primitivas,
+
+El principio organizador suponía en la lógica primitira, el desórden al que pone fin. De allí que la idea de caos coincidía con él en las cosmogonias. Renouvier hace notar, que en muchas antiguas cosmogonias se ve dos poderosas ideas combatirse en el espíritu de sus autores, como provenientes de la observación de la naturaleza; por una parte, la constante experiencia y el hábito de la sucesión de los fenómenos, de los que ninguno produce sin tener antecedentes y, por otra parte, el sentimiento del querer y de la causa que gobierna los cambios y los precede sin ser precedido. Este problema metafisico relativo a la razón de ser del universo, en cuanto al tiempo, y que conducía, ora a la eternidad del mundo, ora a la investigación de algo como orígen del mundo, permitiría a la imaginación crear el caos, una cierta masa confusa, que habría existido siempre y habría engendrado la concepción de un poder activo sin principio. Gomperz cree también que el concepto del caos es el primer ensayo de representación de un estado de cosas primordial, lo más lejano posible del estado actual del mundo.
+
+Ese poder activo original era un reflejo de lo indeterminado, que daba lugar al orden, mediante la lucha de una divinidad ordenadora contra los elementos de la Naturaleza. El reinado del orden, dice Gomperz, no podría presentarse al hombre primitivo como un hecho inicial; porque los seres poderosos que creía percibir tras el mundo exterior, se los debía figurar como animados de una voluntad tan arbitraria y de pasiones no menos indomables que los miembros más ⟦net/2027/uc1.$b44069 considerables de la sociedad humana, la única que le era co-⟧ nocida y que estaba tan lejana de la disciplina y de la paz. De allí esta conjetura: que la regularidad observable en losfenómenos de la Naturaleza era una ley impuesta a los vencidos por la voluntad del vencedor.
+
+La idea de un orden en la Naturaleza ha debido engen-
+
+generated
+
+⟦Google⟧
+
+[^p8-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 9]
+
+drarse primitivamente por la concurrencia de esos factores: la experiencia diaria que ofrecía, no sólo el nacimiento y la destrucción de objetos siempre nuevos y que naturalmente conducía a referir al todo lo que parecía verdadero de las partes y provocaba el problema del orígen del mundo, sino tambien las diterencias y semejanzas en los tenomenos que imponían una sistematización lógica, necesaria para comprender la realidad. A ese factor de la experiencia se asoció la observación astronómica, con sus estaciones y el regreso regular de los astros brillantes del cielo, que rigen la vida de la naturaleza y la de los hombres y que, a causa de esto eran adorados como dioses y que debieron ser de una importancia determinante, como demuestra Guichot y Sierra. En esa experiencia las ideas de divinidad y de regularidad se encuentran y se asocian por la primera vez, y mediante ella un reflejo divino se esparce sobre los conceptos de orden y regularidad y, lo que vale más, la idea de la soberanía divina deja de confundirse con el reino de lo arbitrario, como observa ⟦Gomperz.⟧
+
+El principio de la indeterminación no desaparece sin embargo; pero el principio de orden fué restringiendo más y más el campo de lo imprevisible y contingente, hasta triunfar casi por completo en el período reflexivo de la formación de las ciencias, en el que la imaginación y la intuición son reemplazadas por la razón y la idea lógica. El principio de la libertad, como indeterminación, se confunde y el de la necesidad triunfa definitivamente bajo el imperio de la ley, emancipada de todo elemento subjetivo.
+
+⟦1n⟧ ⟦through Domain|⟧
+
+⟦Diego https://hdl.handle.net/2027/uc1.$b44069/Public II⟧
+
+⟦an⟧
+
+⟦Ch. Renouvier. — Introductión a la Philosophie Analytique. de l' His-⟧ California, ⟦toire.—Guichot y Sierra oh. cit.- E. Golay. — De la philosophie premiére.⟧ ⟦Genéve 1898.-A. Fouillée.—Histoire de la Pihlosophie. 9a. ed.⟧
+
+La evolución mitológica, desde la concepción ariana de ⟦at Universıty la divinidad, marca ese proceso del caos al orden, de lo inde-⟧ terminado á lo determinado.
+
+Generated
+
+⟦Digitzed by Google⟧
+
+[^p9-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 10]
+
+Remontándose Guichot y Sierra hasta la religión de los accadios en la primitiva Caldea, exhibe al dios Anna o Anu que imperaba en el Cielo, que era, a la vez, alma y cuerpo del Cielo, inteligencia que todo lo rige y cielo meterial, rectordelos cielos y dioses luminosos, como de los espíritus y demonios que pueblan los mundos celeste, terrestre e infernal.6 El segundo grandios era Ea, espíritu de la tierra, el buen principio y ser providente, que en su orígen había sido el caos, Ganna. Ea gobernaba el mundo por mediode su hijo primogénito, Amarudug. Por último, en el abísmo o mundo subterráneo había también regentes y auxiliares.
+
+En la Caldea, formada la religión nueva al traves de los siglos, aparece como raíz de la teologia y de la teogonía místicas, la primera suprema trinidad, compuesta de Anna o Anu, de Ea, la diada accadia, y de Baal o Bel, el Supremo dios semita, demiurgo, señor y soberano del mundo, que dirije los movimientos de los cuerpos celestes y los espíritus de los muertos, en sus dos formas, la de Bel-Marduck, segundo demiurgo y mediador en Babilona, y la de Bel-Dagan, demiurgo, maestro del oráculo y civilizador de los hombres. A esta primera trinidad se unió la compuesta de la Luna, el Sol y la Atmósfera, derivada de la anterior, y los cinco planetas conocidos entonces y de los que se derivaron los dioses Júpiter, Saturno, Hércules, Mercurio, y Venus, constituyendo los doce grandes dioses del panteón caldeo-babilónico.
+
+En Asiria, como en Babilona, el dios local Assur era jefe y padre, árbitro supremo, señor de la justicia, dios de la guerra, y a su poder estaban sometidas las deidades oficiales caldeas y las extranjeras admitidas con la conquista.
+
+La religión ariana primitiva, según Renouvier, expresa-⟦.handle.net/2027/uc1.$b44069 / Public ba este poder ordenador de la divinidad, que la imaginación⟧ había engendrado humanizando la idea del fenómeno natural. La noción ariana de la ley era la de un orden esencialof California, mente benévolo del universo y se expresaba por términos diferentes, que se reducen a radicales y que significan constitución, adaptación y conservación de las cosas. La más importante era la voz rita, que puede tener este sentido o el de University una marcha regular, como en el curso del Sol, por ejemplo, sin que se deba excluir la idea de una persona superior que
+
+⟦https://hdl⟧
+
+⟦Digitized by Google⟧
+
+[^p10-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 11]
+
+engendra, establece, dirige, siendo esta idea naturalmente inseparable, bajo el punto de vista primitivo y religioso, de la del establecimiento o dirección.
+
+Pero esa faz de la mitología primitiva se modificó y trasformó, y a la idea del fenómeno natural humanizado de la mitología primitiva sucedió la del hombre desarrollado en * fenómenos naturales, adoptando el espíritu en esa evolución, uno de estos dos extrenos, según Renouvier: o la producción y el desarrollo del mundo como una aplicación de las virtudes de orden y sabiduría, no menos que de poder, que residen en el Hombre inicial, autor de los fenómenos, excluyendo en ese caso la idea inmoral de la magia, opuesta a las nociones de plan, de regla inmutable y de eterna seguridad, o la introducción, en el concepto de poder generador de fenómenos, ese elemento de capricho que entraña la voluntad, aplicada a las pasiones humanas; en cuyo caso entraba la magia, ope ración por la que el fenómeno emanaba de ese elemento arbitrario unido a un poder supremo; camino que siguió la mitología en la India, dominada por una imaginación caprichosa que se extraviaba en el símbolo.
+
+Ronouvier observa, que aún cuando los brahamanes, en la concepción del mundo, no veían en él sinola manifestaciónde un personaje supremo, su espíritu cosmogónico y panteista, por unlado, y por otro la fé extravagante en los milagros y la magia, la confusión de las especies, el desprecio del orden y de la razón y la ininteligencia de las leves naturales impidieron en las creencias de las familias arias de la India, el desarrollo de un antropomorfismo simple y natural, al que no alcanzó niel paraíso de Indra, cuyas divinidades se absorven en la esencia suprema de la divinidad brahamánica.
+
+Las divinidades más populares de la India eran Indra y Agní. El primero, dios del cielo, de reyes y de guerreros, batallador, que mata a la serpiente de las nubes y fecunda la tierra con las lluvias. El rol de esta divinidad, relativamente San ⟦2007[çcl8k4486 a la ley, es particular en la antigua mitología védica, dice Re-⟧ nouvier; lo que proviene de su cualidad de dios exclusivamente consagrado a la lucha contra las influencias malhechoras, y además extraño a las concepciones del orden universal o ⟦ot⟧ cósmico, en el que el espíritu está forzado a hacer entrar los elementos pertubadores, así como las acciones favorables á
+
+generated
+
+⟦Google⟧
+
+[^p11-1]: Original from Digitized by ( UNIVERSITY OF CALIFORNIA
+
+[p. 12]
+
+los intereses humanos, cuando unos y otras están constantemente ligados.
+
+Agní es el dios del fuego de los sacerdotes, alma del universo, mediador entre el cielo y la tierra, que todo lo sabe y todo lo ve, desde el trono solar, donde brilla en todo su explendor o desde la región de las nubes, cuando centellea, y entónces es Indra. Pero Agní es también el mediador para las generaciones y para la vida. Como príncipe supremo, Purusa, vive en los padres, revive en loshijos y es elesposo de las mujeres. Reside en el padre de familia, jefe del hogar; con mayor plenitud en el rey, jefe del pueblo; y eminentemente en el sacerdote, cuyo pensamiento lo ha concebido, cuya voz lo canta, cuyas manos lo bendicen y lo engendran sobre el altar. Agní, en fin, és el Salvador y tiene el poder de resucitar a los muertos.
+
+El Vedismo fué reformado por el Brahaminismo, que creó la doctrina de la Trimurti, compuesta de Brahma, actividad creadora, alma del mundo, de quien todo emana y a quien todo vuelve, de Vishnú, el principio conservador, que estuvo asociado con Indra y que para favorecer a sus fieles, cuando peligran y enseñarles el bién, desciende a la sociedad humana en diferentes encarnaciones, y Siva, con doble aspecto, temible dios destructor, como Rudra.
+
+En el Egipto, al contrario de la India, aunque la adoración de los poderes materiales cósmicos opuso obstáculos al establecimiento de divinidades francamente humanas, llegó un momento en el que encarnó sus dioses y encontró su expresión el espíritu que crea el orden y lo mantiene. ⟦San Diedo throuah Hai El Egipto adoró, personificó, y divinizó el Sol, la Genera-⟧ ⟦handle.net/2027/ucl.$b44069 / Public Domain ción, la Fecundidad, la Construcción, la Invención, el Gobier-⟧ no y por último, estableció como dogma del orígen de los seres la idea de la Causa en sí y por sí aplicada a la naturaleza física y representada por diversos símbolos. Los egipcios simbolizaban el universo bajo la forma del triángulo, re-Universitv of California, presentando lo absoluto, lo infinito, la razón suprema, el poder eterno bajo el nombre de Ammon-Ra, señor del cielo, luz eterna, que era como Vishnú, el verbo divino, la inteligencia suprema, la luz eterna. Como en la filósofia religiosa de los Arías, de los Persas y demás pueblos del antiguo Oriente, la luz era el emblema del bien y de la felicidad y las tinieblas
+
+⟦Generated ttps: |/hd|⟧
+
+⟦Google⟧
+
+[^p12-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 13]
+
+el del mal y de la desgracia, residencias de bienaventurados ⟦o réprobos.⟧
+
+Según los libros más, inportantes de esta filósofia religiosa, afirma Golay, la inteligencia suprema ha sacado todo del caos: la tierra y los mundos. La tierra y la luz han engendrado enseguida los seres y todos los animales que existían virtualmente en ellos. Pero la inteligencia suprema, padre de todo, que es la vida y la luz, ha procreado al hombre semejante a ella misma y lo ha acogido como su hijo y su encarnación, porque era bello é inteligente como su autor.
+
+C. P. Tiele, citado por Guichot, redujo la expresión mítica de la religión egipcia a dos ideas: una expresada en dos aspectos, el triunfo de la luz sobre las tinieblas y de la vida sobre la muerte, y otra, la creación del mundo por el fuego o alma universal, con los espíritus o potencias que lo asisten. La segunda idea fué expresada en el Imperio antiguo por el mito de Ptah, dios del fuego cósmico, alma del Universo, creador y formador del mundo, que figura en el panteón egipcio al lado de Osiris, Horos y Ra, dioses solares por excelencia. La primera idea, en sus dos aspectos, se expresó en los dos mitos solares, el mito de Ra y el de Osiris. Refiere la leyenda egipcia, dice Guichot, que llegó un momento en que los dioses, además de gobernar el cielo, quisieron gobernar la tierra, y en su virtud tomaron forma y cualidades humanas, descendieron y comenzaron a a regir el Egipto. El quinto de los dioses gobernantes fué Osiris. Renouvier asocia íntimamente el dios Osiris al dios Ra. La función del campeón del bien, en la lucha comenzada desde el origen de las cosas, es atribuida al uno como al otro de estos dos dioses; y el uno como el otro tiene por hijo a ese dios Horos, vengador de su padre, llamado al gobierno y al derecho, después de la victoria del orden sobre el caos.
+
+Este principio organizador, esta inteligencia suprema San Di divinizada, que se presenta vagamente en la mitología aria ⟦Ch44960⟧ y se acentúa en la religión egipcia, se carácteriza también en la religión Persa, en concepto de Fouillée. Los antiguos Persas, dice, nacidos de la misma raza que los Indios, adoraban el principio de la luz y del calor, que es también el principio •de la inteligencia y de la vida. Esta antigua doctrina fué perfeccionada por Zoroastro, en cuya metafísica el princi-
+
+Generated
+
+⟦Google⟧
+
+[^p13-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 14]
+
+pio del bien es la inteligencia o la luz que penetra todas las cosas sin alterarse ella misma, por lo que su carácter esencial es la pureza.
+
+⟦III⟧
+
+⟦Ch. Renouvier. Introduction etc.—Paul Janet-Gabriel Seailles. Histoire⟧ de la Philosophie. 1887.—PauldeSaint Víctor. Las dos caratulas. Esquilo.— A. Guichot y Sierra. Ob. cit.—Víctor Duruy. Historia de los Griegos.-G. ⟦L. Fonsegrive. Ob. cit.—Fustel de Coulanges. La ciudad antigua.-F. A. Lan-⟧ ge. Histoire du materialisme. 1877.- A. Weber. Histoire de la Philoso-⟦phie Europienne. 1892.—T. Gomperz. Ob. cit.-J. Fabre. La pensée anti-⟧ ⟦que. 1902.- H. Taine. Philosophíe de l'art. 1883.—A. Croisset. Histoire⟧ ⟦de la Litterature Greque. 1896.—H. Ritter. Histoire de la Philosophie.⟧ ⟦1835.-Ch. Renouvier, Philosophie analytique de l'Histoire. 1896.-Gastón⟧ ⟦Milhaud. Les philosophes géométres de la Gréce. 1900.⟧
+
+La mitología védica adquiere su última evolución en el antropomorfismo que traduce el espíritu griego. El principio generador de este espíritu es el culto del hombre ideal, del hombre como fuerza, coraje y belleza; pero también del hombre como bondad y justicia en la élite de la nación.
+
+Las divinidades pelásgicas y helénicas son primitivamente las mismas que las de la antigua aria: personificaciones de fenómenos terrestres y atmosféricos; pero esos seres divinos, observa Renouvier, tienden a despojarse de los velosde la naturaleza para adquirir la forma humana y convertirse en los autores o moderadores de fuerzas con las que se confundían. Esta transformación, operada en virtud de una fuerte cultura del espíritu y del cuerpo, se expresa en la mitología griega por la victoria de Dios sobre los Titanes. Las fuerzas son dominadas por leyes: leyes de orden y armonía, que se traducen en el mundo moral por la justicia y en el mundo físico por la belleza. Los poderes tumultuosos que turbaban la paz del mundo son encadenados en el tenebroso of California, Tártaro. Los dueños de la luz se distribuyen equitativamente sus funciones independientes. Cada ser, cada ciudadano de esta inmensa república de la Naturaleza, tiene su ley en sí mismo, el más humilde, como el más grande, el hombre ⟦Jniversıtv⟧ como los dioses, y del mutuo acuerdo de esas leyes vivientes
+
+⟦Google⟧
+
+[^p14-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 15]
+
+resulta esta divina y eterna sinfonía del universo que los griegos llaman Cosmos.
+
+Esta trasformación dejó intacto, sin embargo, al espíritu del Dios védico, que se convierte en el Zeus y Zeus padre de los griegos, el Deus, Diespiter, Júpiter de los Latinos y el Tina de los Etruscos, descendientes en línea recta del gran Deva, que el ario mismo llamaba ya, algunas veces, Diauspitar, el Luminoso. Los dioses fueron representados como legisladores cósmicos y distribuidores de la vida.
+
+Zeus es el supremo ordenador, el que dispone y dirige todo. Todas las fuerzas del universo se arreglan bajo su autoridad. En la cima del imperio de los dioses, Zeus aparece sólo, como ideal de supremo poder y de inteligencia absolu-⟦ta. Preside la asamblea de los dioses y se comunica con los⟧ hombres.
+
+No sólo Zeus personifica ese espíritu ordenador; otras divinidades lo simbolizan también. Hefaistos o Vulcano se eleva entre los griegos al rol de constructor y demiurgo, prototipo delartista humano. Palas-Athene, personifi cación del aire y del agua superior y celeste, es elevada gra dualmente de la esencia física de los más sútiles elementos a la idea del espíritu en la ciencia y'en el arte, de la inteligencia y de la razón en la conducta de la vida, del coraje racional en el alma del heroe y, en fin, de la sabiduría misma en la persona de Zeus, que se crea esta hija sin madre.
+
+Pero es Apolo el dios ordenador por excelencia. Apolo, símbolo de los rayos bienhechores del Sol, se modela progresivamente para llegar a ser el digno inspirador del santuario anfictiónico de Delfos. Este dios, cuya victoria sobre la serpiente Pyton, nos conducea los conceptos de la mitología ⟦Domain⟧ la más antigua, puesto que recuerda la lucha de Yndra contra los Asouras, simbolizando el combate de los rayos sola-San Diego res con los torrentes y los pántanos hijos del diluvio y los vapores maléticos de los valles, ese dios, heroe, adivino y médico, se encuentra, al fin, como representante perfecto de la gracia y de la belleza, unidas a todo lo que los dones y el ⟦net (2027/1c1| estudio del arte, la rectitud de la vida y la voluntad de la⟧ justicia realizan de perfecciones en la persona humana. University of
+
+Apolo es el dios del orden, es la personificación de la inteligencia que ordena, como Dionysos o Baco es dios del desór-
+
+⟦at⟧
+
+⟦Digitzed by Google⟧
+
+[^p15-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 16]
+
+den, de la libertad del sentimiento sensorial. Como Paul de Saint Victor, Salas y Ferré citado por Guichot les atribuye esos mismos carácteres. Dios del calor y de la luz y arquero destructor de montes, en el naturalismo primitivo. Apolo se elevó, por grados, al dios del orden y de la armonía, regulador de las estaciones, árbitro y pacificador de los pueblos, creador de las artes, revelador, por la poesía y por los oráculos, de altas verdades, purificador, salvador y redentor de pecadores, a quienes limpia de sus manchas y recibe en su divina gracia. A su lado, en Delfos, figura Dionysos. Sometido a una vida más accidentada y a una pasión más dolorosa que los dioses de la fecundidad terrestre, Dionysos introdujo un grado de emoción más violento en los misterios de Eleusis, donde, identificado con el niño Yacco, hijo de Demeter, la Tierra, pasó a representar la humanidad en su elemento mas puro, el alma inmortal, con las esperanzas y dérechos inherentes a su esencia. Como dios del mundo subterráneo, se le atribuyó la inspiración terrestre causada por los vapores que se exhalaban de las grutas o antros de los oráculos, y por este lado entró en relación con Apolo, con quien llegó a igualarse, más nunca a confundirse.
+
+Apolo fué siempre el dios victorioso y brillante, tipo de serenidad y de armonía. Dionysos, por el contrario, alternativamente dulce y terrible, alegre y triste, representó el cambio y la pasión. Simbolizaba, el primero, lo permanente, lo inmutable, lo ideal de la vida; el segundo, lo transitorio, lo mudable, lo real. Por esto Apolo era el dios aristócrata, que reunía en torno suyo lo mas selecto del pueblo; Dionysos, el dios popular, que derramaba, a manos llenas, la alegría en una vida alegre y fácil. Esta oposición se reflejaba ⟦throual •ne 84489 | lic mair en el culto. El instrumento de Apolo era la lira, que solo⟧ permite cierto grado de pasión; su himno el pæan, grave y ⟦San Dieaol⟧ mesurado. El instrumento de Dionysos era la flauta, que se presta a todos los grados de la emoción: su himno, el ditirambo varió de formas y de tonos, desigual, apasionado. Universitv of California. Esta oposición, correspondiente a los dos aspectos de la vida, explica la unión fraternal de estas divinidades en el santuario de Delfos, que pasó a representar, por ende la armonía de la vida y el conjunto de todas las clases sociales.
+
+Bajo la influencia de las ideas relacionadas con el culto
+
+generated at
+
+⟦Google⟧
+
+[^p16-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 17]
+
+• de Apolo, que personifica también la justicia, no obstante de que los helenos hacían de Temis la personificación del orden, primero, y la diosa de la Justicia después, prodúcese una civilización mas elevada y comienza una nueva era de la vida griega. La sociedad se organiza mejor; la vida urbana se desarrolla y erígense templos para los dioses. Los cantos y la música sustituyen a los gritos salvajes, y los dioses se acercan al hombre y le revelan sus designios por la voz de los oráculos, pues Júpiter había dado a Apolo la inspiración divina, haciéndole sentar en el trono profético. Las costumbres se dulcifican. El mundo de la armonía, de la luz, de la inteligencia y de la gracia sustituye al del caos, de las tienieblas, de la fuerza y del terror. Delfos es el centro de ese mundo, como lo es de todo el universo, y desde allí el Dios difunde, entrela raza helénica, la inspiración de la poesía, de la música y de las artes, como también la revelación del pensamiento divino que no se detiene jamás. Todas las tribus helénicas adoptaron su culto. Los otros dioses siguieron siendo divinidades secundarias; solamente Apolo y Júpiter fueron los grandes diosos nacionales.
+
+Así describe Duruy el triunfo de la civilización apolínea sobre la vida dionisiaca, del orden intelectual sobre la libertad pasional, de la armonía estética, que fué el ideal helénico definitivo. Pero Duruy observa, que en la teogonía helénica, los dioses no son los creadores del universo, sino solamente los que lo gobiernan. Hubo un tiempo en que no existian. Hijos del Cielo y de la Tierra hallaron ya hecho el mundo cuyas diversas y perecederas fuerzas representan. De allí que no fueran necesarios y eternos como no lo son los fenómenos que personificaban.
+
+Mercurio, cuyo carácter primitivo es incierto, sufre, una progresiva trasformación. Destinado a comunicar a los hombres la elocuencia artificiosa y la habilidad para la as-⟦net/2027/uc1.$b44069 tucia, la mentira y los hechos atrevidos, se convierte en⟧ mensagero de los dioses, en conductor de los muertos, para aparecer después como el Hermes itifálico y llegar a ser, al fin, la Razón divina, el Logos enviado por los dioses a la Tierra.
+
+Sobre todas las divinidades del Olimpo helénico reina el Destino, Dios sin vida, sin leyenda y hasta sin figura, que en
+
+⟦enerated⟧
+
+⟦Google⟧
+
+[^p17-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 18]
+
+la Tierra no tiene altar y que inaccesible en el fondo del Empireo a toda oración, mantiene el equilibrio del mundo moral sustrayéndolo a los caprichos de las otras deidades. Este dios, que señala a cada uno su parte de bien y de mal, habría sido creado o mas bien habría nacido de la conciencia perturbadora de los hombres para explicar lo inexplicable y hacer comprender lo incomprensible, es decir las causas lejanas y ocultas de los acontecimientos y los motivos de orden superior que los producían. El Destino mismo no tenía caprichos. Representando las leyes generales del Cosmos y la armonía del mundo, obligaba a los dioses a obedecerlas, sin prohibirles que se contristasen por ello o que retardasen, a veces, la ejecución de aquellas.
+
+En que relación estaban estas ideas religiosas con la libertad del alma helénica, es cuestión que divide el parecer de los críticos. "Que todo cede a la ley", tal es el ideal antiguo, dice Fonsegrive, refiriéndose a la antiguedad griega. La ley domina el mundo y somete todas las cosas a su poder, inclusive Zeus. La necesidad es la que domina; el hombre pertenece a los dioses; no se les escapa, sino en muy raros instantes para hacer mal; pero cae después bajo su poder para expiar, por el dolor, la perturbación que ha producido en la armonía universal. Para la tradición pagana, agrega Fonsegrive, todo está arreglado, es armonioso y está sometido a leyes. Las fuerzas brutas del universo obedecen a leyes inmutables; los hombres deben obedecer a los dioses, los dioses a Zeus y Zeus mismo obedece a la Razón. Esta Razón es él mismo y se obedece a sí mismo. En este sentido es independiente. Formala Ley según su sabi. ⟦Domain⟧ duría y su razón; ordena, arregla asítodas las cosas. El mundo no es solamente una figura geométrica, un cilindro o una Public esfera, un universo, un todo; sino que es también una belleza, una armonía. En esta armonía universal, el hombre no San ⟦Jniversitv of California. handle net (2077/uc1.5144969| puede producir mas que disonancias. y aún aquellas mismas⟧ que parece producir, no son quizas sino artificios del artista divino para hacer sentir mejor el concierto. Todo está ligado; todo se corresponde. Zeus conoce el porvenir como el pasado; el porvenir no es mas que el desarrollo de la misma razón soberana que ha hecho nacer el pasado y que arregla el presente.
+
+⟦https://hdl⟧
+
+⟦Google⟧
+
+[^p18-1]: Original from Digitized by ( UNIVERSITY OF CALIFORNIA
+
+[p. 19]
+
+Fustel de Coulanges piensa del mismo modo. Los antiguos, dice, no conocían ni la libertad de la vida privada, ni la libertad de la educación, ni la libertad religiosa.
+
+Opinan de opuesta manera otros escritores.
+
+A pesar de su creencia en el Destino, los griegos, dice Duruy, han obrado como si fuesen dueños de si mismos. En el espíritu de esos grandes lógicos, que tanto han tardado en conciliar la lógica con la razón y que amaron la libertad hasta en sus abusos, la fatalidad se mezcla en proporciones mal determinadas, y por eso mismo mas eficaces, con la ley moral, que impone al hombre el trabajo y el esfuerzo, prometiéndole recompensas o exigiéndole expiaciones. Libertad y fatalidad son ideas tenaces a que los hombres no renuncian, porque son, a la vez, su fuerza y su flaqueza. El griego, agrega, no tuvo libros sagrados que contuvieran el dogma, ni tampoco una casta sacerdotal encargada de en-⟦señarlo. La creencia quedó entregada a los caprichos de⟧ la imaginación popular y a la fantasía de poetas y artistas, únicos teólogos del helenismo. El griego no humilló tampoco su inteligencia ante todos los signos cuyo sentido buscara el aráspide. Su arte fué libre y laico, el arte humano por excelencia, el equilibrio mas perfecto de la forma y el pensamiento. Sus oráculos suponían la creencia en la intervención de los dioses en los asuntos humanos y por consiguiente, en una acción de la Providencia contraria a la ⟦Patalidad.⟧
+
+Mas terminante es la opinión de Renouvier, el filósofo de la libertad, para quien el hombre de la aria antigua era un hombre libre, que, aún cuando temía el poder de ciertas divinidades nocivas, que turbaban el buen orden del mundo, no flaqueaba ante ellas y no trataba de desarmarlas con bajezas u ofrendas sangrientas, sino que invocaba contra ellas a los dioses benéficos.
+
+Renouvier atribuye a los griegos de la época homérica dones naturales los más excelentes: la emancipación espontánea del alma y el poder de reflexión debido al mérito moral, la ingenuidad unida a la invención y a la libertad. Jamás el libre albedrío humano, dice, ha sido atacado en su raíz por los dioses; jamás tampoco se dió un mentís al misterioso decreto del Destino, que regla los gran
+
+⟦Digitized by Google⟧
+
+[^p19-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 20]
+
+des sucesos. Renouvier, afirma aún, que la enseñanza del libre albedrío resulta del espíritu del asunto y plan de la llia-. da y de la Odisea. La libertad reina entre los dioses como entre los hombres, y la lección que dan es doble. El Destino, ciertamente, es presentado, algunas veces, con el sentido simple y riguroso que debía prestarle la especulación; pero no se aplicaba sino a ciertos fines previstos, cuya necesidad era un límite y no un impedimento del arbitrio humano o divino dentro de ciertos límites. Este arbitrio se ejerce todo entero en el espacio, en el tiempo y los asuntos que le son dejados. A menudo también, el Destino parece no ser para Homero sino la voluntad divina como unida a la sabiduría y conforme a hechos anteriormente producidos. No hay, para Renouvier, nada de común entre esta filosofía y esta religión, que llama prácticas, y la doctrina de la fatalidad atribuída a la Grecia, y a la Grecia en masa, por aquellos que confunden a todos los poetas y todas las épocas.
+
+Renouvier vé, además, confirmada esa tésis de la libertad y elevada a la altura de una doctrina formulada expresamente, en un pasage famoso de la Odisea, en el que Zeus y Athene van a decidir de la suerte de Ulises y en el que, después de tratar del asesinato reciente de Egisto, Zeus pronuncia estas palabras: «¡Ah, cómo los mortales ponen a los dioses en conflicto! Dicen que los males vienen de nosotros y son ellos los que, por sus locuras, se atraen los dolores, contra el Destino». Y Zeus expone, como Egisto, contra el Destino, se ha casado con la mujer del Atrida y ha degollado a éste jefe que volvía de Troya, y esto sabiendo que su propia muerte seguiría a su crímen; porque los dioses habían enviado a Her-⟦Dledo throuah Public Domair⟧ mes, su mensagero, para predecirles la inevitable venganza de Orestes. Un crímen cometido, que podría no haberlo sido, un buen destino, pero no necesario, ni infalible, una gra" San ⟦Universitv ot Calltornla. 0ł08 cia preventiva de la divinidad preventiva, pero no siempre⟧ suficiente y eficaz, he allí, según Renouvier, rasgos de teología, más claros quizás en Homero, que en los molinistas. Re nouvier cree que esos rasgos son menos fuertes todavía que el alma entera de los dos poemas, en donde respira, tan energicamente, la incoercible personalidad de los dioses y de los heroes.
+
+Generated at
+
+⟦Google⟧
+
+[^p20-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 21]
+
+Cuando el arbitrio moral es comprendido así y puesto en obra por el poeta; cuando difieren tan poco a sus ojos la esencia, los actos y los móviles del hombre y de Dios, no teniendo el Dios de exceso sino la inmortalidad y la vasta previsión, a lo sumo con un fundamento de justicia más firme bajo la capa de las pasiones; cuando la reflexión está muy formada, el espíritu muy desarrollado, para que los personajes se expandan en discursos, en argumentaciones, en análisis. aún sicológicos; cuando Athene osa amenazar a Zeus con su desaprobación; cuando Diomedes o Ayax luchan contra los dioses, no reclamando este último sino el derecho de combatir a la luz del día; cuando Tersites insulta a los reyes; cuando asistimos en el Cielo y en la Tierra a conferenciaseen 'que se pesan los motivos, a verdaderas sesiones de asambleas déliberantes, cuyos incidentes y tipos de oradores nos hacen pensar en el futuro Agora, no es preciso, dice Renouvier, preguntar, si la libertad política es, en el espíritu de Homero o de los tiempos que nos pinta, la continuación natural de una libertad moral y de una independencia personal así fuertemente concebidas. Renouvier no sólo cree que esa libertad ha existido, sino además, que la democracia más ó menos atemperada por las dos aristocracias del nacimiento y del talento, preexistió de alguna manera entre los helenos, en tiempo de los aedas, anunciándose como destinada a reemplazar, algún día, a las pequeñas monarquías patriarcales de una sociedad todavía elemental y muy dividida.
+
+Renouvier encuentra en el estudio del espíritu de la civilización homérica, después del principio de libertad, las nociones correlativas de derecho y de deber, y extendiendo su análisis al culto primitivo de los griegos, demuestra como embellecieron la vida religiosa y la civil llevando al culto un ideal desconocido en otras naciones, por estar dotados de un espí-⟦Diedo⟧ ritu artistíco creador y del genio de la medida hasta en los ⟦San⟧ transportes de la pasión; no sacrificando jamás a sus creacio-⟦.$b44069 /⟧ nes de una vida de ultratumba, la energía, ni la gloria de sus goces de la vida presente, ni el concepto, el más sólido y el más autónomo de la justicia, considerada en la conciencia.
+
+Gomperz no llega a formular, tan netamente como Re-⟦OT⟧ nouvier, la afirmación del principio de libertad en el pueblo University helénico primitivo; pero ese principio se desprende de las ca-
+
+⟦generated at nttps:|/hd]|⟧
+
+⟦Digitzed by Google⟧
+
+[^p21-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 22]
+
+racterísticas que atribuye al griego. Según Gomperz, el griego posee, al lado de una imaginación constructora, de una riqueza desbordante, un espíritu de duda, siempre despierto, que examinaba todo fríamente y no retrocedía ante ninguna audacia; una irresistible necesidad de generalización, unida a una observación tan activa y tan penetrante, que no dejaba escapar el más menudo detalle de los fenomenos; una religión que acordaba plena satisfacción a las necesidades del corazón, y no obstante esto, no coactaba absolutamente la libre acción de una inteligencia que amenazaba y aún destruía sus creaciones. A estas cualidades debe agregarse una multitud de centros intelectuales, cada uno con su carácter propio y rivalizando los unos con los otros; una fricción de fuerzas continua, que excluía toda posibilidad de estagnación; por último, una organización política y social bastante extricta para refrenar los deseos vugos y pueriles de las gentes mediocres, pero bastante elástica para no poner sériamente en peligro el vuelo atrevido de espíritus superiores; taera, dice Gomperz, la reunión de dotes naturales y de condiciones favorables que han valido al espíritu griego su preeminencia y que le han permitido colocarse y mantenerse en el primer rango, en el dominio de la investigación científica.
+
+Gomperz afirma además, como atributo del pueblo grie. go, la libertad política, citando un pasaje del tratado Sobre la Constitución de los Atenienses, en el que se dice, que el pueblo saca su fuerza y su libertad de lo contrario al orden y a la ley; y para sostener esta misma libertad en la organización de la vida privada, se refiere a la oración fúnebre pronunciada por Pericles, en la que ningún rasgo de la vida so-⟦chrouah⟧ •cial de Atenas se ha revelado con más fuerza que esa libertad individual, que permitía a cada uno organizar su vida privada ⟦San Diedo⟧ como lo entendía mejor, sin coacción, sin someterse al yugo de la mayoría.
+
+⟦Universitv of California. ‹net (1077/1c] 544969| Se ha hecho gran ruido en otro tiempo sobre el vorden⟧ moral del Universo», que se decía revelado en las tragedias de Sófocles; pero un examen más atento y más imparcial ha destruído esta ilusión, agrega Gomperz. El autor de Edipo Rey, cree también, es verdad, que la suerte de los hombres está reglada por las dispensaciones divinas; pero entre el carácter
+
+generated at
+
+⟦Google⟧
+
+[^p22-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 23]
+
+de sus personajes y el Destino que los hiere hay, a menudo, la más acentuada desproporción.
+
+Gomperz no se refiere, es verdad, a la época homérica șolamente para marcar ese espíritu de emancipación helénico, que no sale de los límites de cierto orden para caer en lo arbitrario, sino que se recrea en mantenerse dentro del orden; pero ese espíritu constituyó el genio nacional y se trasmitió, no obstante la nube sombría que, de Homero a Herodoto, se extendió sobre el cielo radiante de la vida hélenica, como observa ese filósofo.
+
+Casi todos están de acuerdo en admitir como ideal hélenico, desde las primeras edades, esa singular compenetración del orden y la libertad, esa especie de equilibrio, en el que el orden se explica por la libertad misma, en la forma particular de la armonía, de lo uno y lo múltiple, coexistiendo sin destruírse y, al contrario, fortificándose por esa conciliación. De allí, que el signo característico de la civilización helénica, desde su época mítica, ha sido la tendencia a la armonía, de la que es un símbolo el Olimpo griego.
+
+Por eso dice Gomperz: el carácter nacional de los griegos, y especialmente de los atenienses, tenía una repugnancia instintiva por todo lo que era aceleración y precipitación, un sentimiento de tacto y de medida muy favorable al desarrollo natural de las instituciones.
+
+Ese mismo ideal le atribuyen cuantos han creído encontrar el pensamiento dominante en la cultura hélenica desde los comienzos de su historia. Una idea madre domina los esfuerzos del pensamiento helénico, dicen Janet y Seailles: la idea de orden, de proporción, de armonía. Es esta idea que varían las sentencias de los gnómicos y que los legisladores, como Solón, quieren hacer vivir en la ciudad; es ella, la que construye los universos en los poemas y los templos sobre el Acrópolis.
+
+Este ideal era el ideal estético, encarnado en las obras de arte y engendrado por la vida desenvolviéndose sin coacción; dentro de los límites impuestos por una razón ordenadora, era un ideal de orden principalmente; porque la libertad, aun. que elemento real, aunque actividad creadora, no era sentida y amada sino al través de la medida determinada por el pensamiento. Por eso, la libertad ocupa un rol secundario; su importancia desaparece ante el brillo de la inteligencia orde-
+
+⟦Google⟧
+
+[^p23-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 24]
+
+nadora, y su sentimiento profundo se exterioriza y se confunde con el sentimiento lógico o con el sentimiento sensorial.
+
+Los que reducen a la armonía el ideal estético, encuentran este ideal traducido en todas las manifestaciones del espíritu helénico. No sólo la concepción del universo es estética entre los griegos, sino que la conciencia moral se confunde con el sentido delo bello. La tendencia nativa de la razón a unificarlo vario produce la armonía por todas partes. El bien, que la voluntad apercibe, como su fin supremo, es sinónimo de armonía y la armonía es la unidad en la diversidad. Así lo afirman Fabre y Weber.
+
+Esta interpretación está de acuerdo con el intelectualismo helénico y justifica la opinión de los que creen en el determinismo invariable de las creencias en el pueblo griego, en las que se asocian dos actividades que parecen excluírse: la de una imaginación desbordante y de una reflexión severamente lógica, que entrañan los dos factores de libertad y orden, que constituyeron la conciencia nacional helénica.
+
+¿Cómo explicaresta integración de actividades que parecen excluírse? ¿Cómo explicar la alianza de la aptitud artística con la científica, tan excelentes en ese pueblo, en el que nacen el arte y la ciencia, símbolos y productos de la libertad y el orden? Gomperz se empeña en esa explicación, procurando reducir ambas actividades a la función ordenadora de las percepciones claras y al goce que estas producen; goce que, sólo en apariencia, se opone a la función generadora de los conceptos. Para Gomperz, las condiciones del éxito en las artes son la separación neta de las diversas partes, la luminosa ordenación del conjunto, la correspondencia rigurosa de ⟦Domaln⟧ la forma y el fondo, de la función y del órgano; y las que conciernen a la ciencia, la precisión de la visión mental, la clasi-/ Public ficación sistemática de materias que estudiar y una división lógica netamente definida, condiciones que constituyen la ⟦Calitornia, , net/2027/uc1.$b44069 fuente del espíritu analítico y que se derivan del goce que pro-⟧ duce el ordenar las representaciones. La abstracción, fuente del espíritu deductivo, tendría también su orígen en el goce que produce aligerar la conciencia de la multiplicidad diversa de las mismas representaciones. El alma respira entonces con University tanta más libertad y holgura, dejando salir de la conciencia, momentáneamente al menos, la masa innumerable de hechos
+
+⟦Digitized by Google⟧
+
+[^p24-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 25]
+
+ndividuales, sin perder la certidumbre de poseerlos y el sentimiento de tenerlos a su disposición con la frecuencia necesaria. Así pues, a despecho de apariencias contrarias, el espíritu deductivo toca de cerca, por su orígen, al placer que procuran a los sentidos la riqueza y variedad de los objetos exteriores. La inteligencia helénica poseía, por consiguiente, ese espíritu sistemático, que no admite ningún detalle como detalle, sino solamente como parte de una construcción bien combinada, bien arreglada, en otros términos, de un sistema. Gomperz afirma, más tarde, que las dos facultades directoras del génio helénico fueron el dobledon de ver las cosas con una maravillosa claridad y de representarlas con la más perfecta objetividad.
+
+Es verdad que el arte griego no escapa al intelectualismo de la raza helénica, por que el sentido de la medida, de la proporción y de la armonía, realizadas en su arte plástico, tenían su raiz en esas percepciones de maravillosa claridad; pero esa sola condición, unida al goce de adquirirlas y ordenarlas, no es bastante para explicar la síntesis estética, muy diferente de la síntesis lógica, aún cuando se prescinda de la finalidad práctica de esta última. El arte helénico era eminentemente contemplativo y los goces que esa contemplación producía, aunque mezclados con los que ofrecía el simple ordenamiento de las imágenes, nacían del equilibrio obtenido con la síntesis estética de la libertad estática sentida, de esa no — coacción o forma negativa de la libertad, que es el resultado de una vida perfectamente desarrollada. La imaginación plástica del heleno quedaba satisfecha con ese ideal, que lo distinguía del aria indio, dotado de una imaginación sin razón directora, y del egipcio que hacía delorden sin vida, del orden inerte, del orden puramente pensado, la idea madre de su civilización.
+
+⟦San Diead⟧
+
+Es pues, en ese elemento de libertad, que explica el ideal, no de orden simplemente, sino de armonía viviente, en donof California, de se debe buscar la característica esencial del espíritu helénico, que anima el mundo y lo concibe como un poema.
+
+El griego era un razonador ciertamente, y en esto la apreciación que hace de él Taine es exacta; pero razonaba para gozar de la libertad de su espíritu. No pensaba por pensar soiamente, como afirma Taine, sino porque así gozaba con la
+
+⟦Google⟧
+
+[^p25-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 26]
+
+conciencia de la libertad intelectual, que tejía las ideas para gozar con el tejido, como armonizaba las imágenes para darse el espectáculo de su libertad dentrode la síntesis.
+
+¿Qué elementos formaron este ideal helénico de armonía? Croisset se encarga de demostrarlo, haciendo la sicología de esa raza. Lo que impresiona en ella, desde luego, es la variedad de sus aptitudes, un desarrollo uniforme de sus facultades diversas, que ha sido la causa del feliz equilibrio y de la armonía que se observa en sus grandes obras artísticas. El heleno ha introducido siempre la razón en la imaginación, el pensamiento en el sentimiento, la reflexión en la pasión. Jamás se le ha visto dominado totalmente por un solo aspecto de la vida. Ha tenido, por decirlo así, muchas facultades dispuestas para cada cosa, y es asociándolas como ha dado a sus creaciones su verdadero carácter. Por eso mismoha estado en contacto de mil maneras, a la vez, con la naturaleza y con sus semejantes. La naturaleza le hablaba un lenguaje infinitamente variado, escuchado siempre y siempre
+
+La vida del exterior llegaba a la conciencia griega nuevo.
+
+llena de imágenes y sensaciones y salía de ella y volvía a la naturaleza llena de dioses. Si el espectáculo del mundo emocionaba así a los griegos, el del hombre no le fué menos provechoso. El griego, era eminentemente sociable. El alma helénica, en general, era pues, muy abierta, muy sensible de todos lados, para encerrarse en una pasión sombría y dominante. Eso explica esa grande y precoz experiencia de la vida, que se hace notar ya en sus más antiguas poesías épicas. El hombre se manifiesta en el griego lleno de contrastes, con , matices inesperados de sentimientos y de ideas, con peripecias de pasión admirables, adaptándose a todos los roles y a todas las situaciones. Por eso Croisset cree que el juego de las facultades humanas no ha sido quizás tan libre, tan ligero y tan extenso en ninguna otra raza.
+
+⟦San⟧
+
+En su concepto, debe atribuírse a esto, sin duda, una de ⟦net/2027/uc1.$b44069 las más notables cualidades de la raza griega: su viva y su⟧ inagotable curiosidad, como los vicios graves que se asocian a su exageración: la versatilidad, la verbosidad, la falta de sinceridad y el formalismo. Fuera de esa aptitud general de la raza helénica, tenía la finura o delicadeza del espíritu, gracias a la que fueron, desde muy temprano y por mucho tiem-
+
+⟦ttps://hdl⟧
+
+⟦Google⟧
+
+[^p26-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 27]
+
+po, los maestros en el análisis moral, como en el raciocinio. Al mismo tiempo pue pensaban con finura concebían con nitidez; y como lo desmesurado se hace oscuro, procuraban que toda concepción fuese naturalmente mesurada, cualidad que, si se olvidaba en la especulación filosófica y en la vida política algunas veces, se conseguía sin esfuerzo en las obras de la imaginación, como en la mitología y en el arte. Esta nitidez de concepción los acompañaba hasta en las cosas abstractas. Ningún pueblo ha dado a la metafísica más realidad concreta. No sólo los filósofos poetas de los primeros tiempos se forman una mitología con la que sustituyen la mitología popular, sino aún en pleno reinado de la prosa, los discípulos de Sócrates no proceden de otro modo.
+
+Croisset desprende de los caracteres ya indicados el espíritu de libertad que animaba al pueblo griego, no obstante la fuerza grande que tenían la tradición y el ejemplo. Este sentimiento de libertad, que se revela contra toda coacción, era ese mismo sentimiento de armonía, de equilibrio, de orden, que permitía el libre juego de sus variadas aptitudes. Por el atrevimiento del juicio, por la fantasía de la imaginación y la sinceridad ingénua o reflexiva de los sentimientos, el heleno escapaba a todo lo que podía coactar el vuelo de su naturaleza.
+
+Estas cualidades imponían al espíritu griego un fondo afectivo sobre cuya naturaleza disputan todavía los helenistas, haciendo rasaltar unos la alegría y otros la tristeza del sentimiento. Pero sea cual fuere el valorde esta disputa, todo hace creer más bien, que ese fondo atectivo era muy débi, tanto, que no influía para perturbar la serenidad del espíritu helénico, en el cual la fuerza ordenadora del pensamiento era predominante.
+
+Disputan también los helenistas sobre el modo como se ⟦San Dieao⟧ engendró ese espíritu, en el que la libertad y orden se compenetranen una tan maravillosa armonía. Ese espíritu habría si-⟦Sh44969⟧ do efecto de la influencia del medio y del comercio con los países vecinos, creen unos; pero otros piensan que su gérmen debió haber sido importado por las primeras tribus arias que ocuparon la Grecia. Lange, Golay y Gomperz dan una gran importancia á la influencia oriental; Ritter, y Milhaud la restringen considerablemente, dándole al medio propio y a
+
+⟦Google⟧
+
+[^p27-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 28]
+
+la actividad creadora del espíritu griego la explicaisón de sus carácteres. Taine y hasta cierto punta Croisset, coinciden con esta opinión, que no es inconciliable con la influencia oriental.
+
+Si la imaginación en el hombre está más que cualquiera otra facultad bajo la influencia directa de los sentidos, dice Croisset, parece que el hábito de vivir bajo un cielo con frecuencia puro y de tener á la vista horizontes casi siempre netamente limitados, pudiese ser considerado como la causa primera de esta cualidad de nitedez verdaderamente nacional en la Grecia. Acostumbrado el griego, desdela infancia, á no encontrar jamás á su rededor lo infinito, ni lo vago, no ponía el uno ni el otro en lasimágenes que se formaba él mismo. El mundo de sus recuerdos, de sus ficciones y de sus fantasías se parecía naturalmente al que veía en realidad al rededor de él. Pero esta nitidez plástica de la percepción, con que caracteriza Croisset la mente griega y que es uno de los méritos más atractivos de su imaginación, no se habría producido como fenómeno sicológico, ni habría engendrado obras de armonía viviente, si la actividad espiritual del heleno no hubiese tenido el poder de reflejar así la realidad y de crear con ella ideales de belleza objetiva. El medio ha podido ser favorable para el desarrollo de ese poder, pero no hacerlo surgir de una conciencia estéril. Lo lógico parece, por consiguiente, suponer que los primeros pobladores de la Grecia, de orígen ario, fueron portadores de ese espíritu de libertad ordenada y de imaginación creadora, que Renouvier encuentra, analizando el Rig Veda, en el primitivo ario, y que desarrollandose en medios opuestos, produjeron las civilizaciones opuestas de la India y Grecia.
+
+Según Ritter, ha hábido una doble influencia oriental, una ⟦San Diego through https://hdl.handle.net/2027/ucl.$b44069/ Public Domair muy antigüa y otra muy reciente. Coloca la más antigüa⟧ en la época en que la Grecia recibió del Asia sus primeros hábitantes, y después, en el tiempo en que las colonias siguieron la dirección de los que llegarón primero у pasaron del Asia y del Egipto a Grecia. La influencia posterior fué aque-⟦Calitornia.⟧ lla que se realizó más tarde, cuando los Griegos se convirtieron en un pueblo que no admitía ya ningun elemento extraño. Lo que los griegos habrían aportado del Oriente a su nueva pa-Universitv of tria habría sido el fondo de su lengua griega y los rudimentos de las artes necesarias a la vida. Todo lo que en sus cos-
+
+⟦Digitzed by Google⟧
+
+[^p28-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 29]
+
+tumbres y en su mitología presenta alguna semejanza con las costumbres y las creencias análogas del Oriente, habría sido el elemento de civilización extranjera que se apropiaron los griegos en esa elevada antigüedad. Al contrario, los Griegos habrían aprendido muy verosimilmente de los extranjeros, en una época más reciente, el arte de escribir, el de contar, la geometría y la astronomía. Ritter no cree que el sentimiento religioso haya sido buscado por los griegos y trasmitido por los bárbaros, ni que hayan tenido comunicaciones filosóficas con el oriente.
+
+De una manera general, las viejas civilizaciones. que habrían precedido a los Griegos en la historia de la humanidad, les habrían dejado una multitud de preocupaciones prácticas de orden político, económico y religioso; pero este conjunto de elementos, para asimilarse a la vida del pueblo heleno, debió haber recibido marcas características, debidas a algo de más nuevo y de más inesperado, a la ciencia racioual, que constituyó la originalidad de sus pensamientos. Así piensa Milhaud, al afirmar que la ciencia comienza en Grecia.
+
+Pero importados o no los factores de la cultura helénica, lo cierto es que esos factores sufrieron una trasformación radical, que puede calificarse de verdadera creación. Lo que en el Oriente era yuxtaposición de imágenes sacadas de la Naturaleza, u orden rígido, como el de la sucesión en los fenómenos físicos; lo que era ley despótica de la divinidad o de la voluntad humana; lo que se pierde en la oscuridad del misterio o se desvanece en la interpretación de las ideas religiosas o filosóficas, se convierte en Grecia en armoníca viviente y luminosa, en percepción clara, en concepto preciso, en ideal humano accesible. La libertad, en su expresión objetiva, creó ese ideal de equilibrio, que encarnado ya en la civilización homérica, persiste como ideal de cultura clásica
+
+asta hoy.
+
+Por eso, puede decirse con Renouvier, "que en Grecia , no de homienza la asociación de la razón y de la libertad", la libertad en el sentido de la auto determinación, como la concebimos hoy, sino en el de perfecta armonía, de equili-
+
+⟦Google⟧
+
+[^p29-1]: Original from Digitized by( UNIVERSITY OF CALIFORNIA
+
+[p. 30]
+
+⟦brio, de no coacción en el desenvolvimiento de la vida de⟧ ⟦espontaneidad y expansión mesurada, con que se exhibe en⟧ ⟦el orden estético clásico, de la belleza escultural.⟧
+
+⟦IV⟧
+
+⟦Ch. Renouvier. — Ph. A. d. l'H. — T, Gomperz - H. Ritter - A. Weber⟧ ⟦-F. Martín.-Golay. — Janet. — Sailles. — G. Milhaud. — A. Fouillée. —F.⟧ ⟦Lange. ob. cit. — W. Windelband. Storia della Filosofía, 1910.⟧
+
+⟦La fuerza del pensamiento, que introdujo el orden en⟧ ⟦la imaginación mítica, convirtiendo los fenómenos dioses en⟧ ⟦dioses fenómenos y creando toda la mitología helénica, en⟧ ⟦la cual la razón y la libertad humanas sedivinizan para reves-⟧ ⟦tirse con las formas vivientes de un arte maravilloso, esa⟧ ⟦misma fuerza, en su creciente y natural desarrollo, rompe la⟧ ⟦unidad estética del ideal helénico para sustituirla con la uni-⟧ ⟦dad lógica y dar a luz a la ciencia y a la filosofia, al mismo⟧ ⟦tiempo.⟧ ⟦Goodle-diaitized⟧
+
+⟦El pensamiento, en su madurez, no se conforma con elaná-⟧ ⟦lisis que el sentimiento practica entre las diversas percepcio-⟧ ⟦. nes de la realidad objetiva, ni con las síntesis de las imáge-⟧ 06:57 ⟦nes simpáticas para personificar susdeidades, sino que tien-⟧ 2025-07-23 ⟦de a simplificar esa misma realidad, sustituyendo la mul-⟧ ⟦tiplicidad de las representaciones con la unidad de su sus-⟧ ⟦tancia. Ese es el proceso natural de la inteligencia, cuyo fin⟧ ⟦último es abstraer y unificar; suprimir lo heterogéneo pa-⟧ ⟦ra encontrar lo homogéneo; eliminar la vida, que es pura⟧ ⟦heterogeneidad, para remplazarla con la inercia, que se tra-⟧ ⟦duce en homogeneidad.⟧
+
+⟦Bajo la acción disolvente de esta inteligencia reflexiva,⟧ ⟦la vida mítica tenía que modificarse radicalmente, perdien-⟧ ⟦/ Puhlic⟧ ⟦do, poco a poco, su valor poético y su sentido divino. Renou-⟧ ⟦vier observa, que ya en Hesiodo el sentido antropomórfico⟧ ⟦tiende a borrarse, aunque no a retroceder al mito primitivo;⟧ ⟦California, $b44069|⟧ ⟦que su mitología es, en gran parte sistemática o un simbo-⟧ ⟦lismo artificial, dirigido por la razón; y Gomperz hacenotar,⟧ ⟦que no sólo la madurez del pensamiento tiende a disolverlas⟧ ⟦creaciones míticas, sino que, además, la excesiva pluralidad⟧ ⟦versitv⟧ de los dioses no le satisface y aspira a convertirla en una
+
+⟦nttps://hdl⟧
+
+⟦Digitzed by Google⟧
+
+[^p30-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 31]
+
+unidad, pasando del politeismo al monoteismo, aspiración que era favorecida por el proceso de las ideas morales, asociadas a las religiosas, que conducía a una depuración del ideal divino.
+
+El tránsito de la concepción mítica a la filosófica, del orden estético allógico, no fué brusco, sino qué coexistieron ambos, confundidos, hasta cierto punto, en la mente helénica, pero con tendencia siempre más acentuada a separarse en dominios diferentes y aún opuestos. Según Renouvier, los mitógrafos, desde Hesiodo, emplean el Caos, la Noche y. el Amor, el Aire, el Eter, Metis o la Sabiduría y otros conceptos de cualidades elementales o mentales, como asuntos para llegar a concebir el origen de las cosas y, por otro lado, la representación sistemática por símbolos, si no de la divinidad, bajo el propio nombre de Dios, al menos de lo que ese nombre significa con relación al mundo, fué, desde el origen de la filosofía, la obra de los filósofos, que, en el fondo, personificaban sus concepciones de entidades tomadas al orden de la Naturaleza; porque les prestaban roles, que no pertenecían sino a agentes dotados de inteligencia, obrando en vista de ciertos fines.
+
+Así la religión subsiste al lado de la filosofía y de la ciencia sin marcar bien sus límites. Pero ese sistema complicado debió hacer desear otros en los que tantos principios fuesen reducidos a la unidad y en que el simbolismo fuese menos artificial y menos visible. De allí los sistemas que vinieron con la filosofía.
+
+El orden estético y el orden científico se suceden y se complican así. La mitología, en forma de cosmogonía, primero, y de teología después, inspira a la filosofía, que se desprende de ella y de la moral gnómica. Su punto de partida, como dice Weber, es el naturalismo ario, modificado por el génio nacional y porlas condiciones físicas en que se desarrolla. Los poetas, que son los teólogos en la Grecia, preceden a los filósofos y plantean y resuelven los problemas inmensos de las viejas teogonías, que averiguan el origen del mundo y del hombre, como afirma Renouvier, pero los resuelven en el dominio puro de la imaginación, creando poderes divinos o inventando aventuras. Los primeros filósofos aceptaron la herencia de los viejos poetas; su problema era el mismo,
+
+⟦Google⟧
+
+[^p31-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 32]
+
+toda la realidad; pero su método era racional; pasaron de lo imaginario a lo lógico, del universo al pensamiento mismo. La filosofía no suprime, sin embargo, los dioses, sino que los reduce a su verdadera naturaleza y hace de ellos elementos. La filosoña, así como la teología, comienza preguntándose cual es el elemento primitivo, el que precede a los demás en dignidad y duración y de donde han salido, por consiguiente, los demás, por vía de generación.
+
+Pero la especulación helénica, confundida con la mitología, al principio, y en pugna con ella más tarde, no adquiere su vuelo inmediatamente, por un impulso autónomo, como piensa Ritter, para quien niel politeismo, ni la poesía gnómica fueron sus precursores. Según este historiador, la filosafía pudo encontrar un punto de apoyo en las creencias oscuras é inciertas de monoteismo, que contenía la religión helénica. El orden moral de las cosas, al que conducen las ideas religiosas, pudo también excitar la idea filosófica; pero en concepto de Ritter, fué, sobre todo, bajo el punto de vista físico, que esa religión, que mostraba la vida divina en toda la Naturaleza, sometiéndo todo a sus leyes, debía su-⟦Google- 1a.⟧ citar la reflexión flosófica.
+
+06:57
+
+La pura abstracción no podía brotar, en el orden lógíco, sin atravesar otro dominio, el del orden moral, práctico, que sirve de transición entre el orden estético y el lógico de la ciencia. Ese tránsito se marca por la poesía lírica y gnómica, que entrañaba la filosofía de la vida humana como norma. Suponer, por otro lado, que la inspiración filosófica ha nacido solamente de la observación física, es olvidar el elemento social, que creó la vida política con su ideal de li-⟦San Diedo throud⟧ bertad, de esa libertad que en el filósofo se traduce como ⟦Domair⟧ emancipación del espíritu de la tradición mítica.
+
+Windelband hace notar esa poderosa influencia en el espíritu helénico. En Grecia, el potente impulso de la vida nacional despertó las energías espirituales de ese pueblo, el me-California, jor dotado entre todos. Pero más que el refinamiento y la mayor espiritualidad de la vida producida por la riqueza debida al comercio, fué muy favorable en ese suceso el desarrollo democrático de las constituciones, que contribuyó, con las pasiones de partido, a la independencia de los juicios y de las opiniones individuales y desarrolló el valor de la per-
+
+⟦enerated COS : //hal⟧
+
+Original from ⟦Diaitized by( Google⟧ UNIVERSITY OF CALIFORNIA
+
+[p. 33]
+
+sonalidad. Según Windelband, este audaz desarrollo del individualismo, que relajaba los antiguos frenos de la conciencia colectiva, de la fe y de la costumbre, amenazando a la joven civilización griega con el peligro de la anarquia, impuso a los hombres, que ocupaban una posición eminente por su ínteligencia y carácter, el deberde volver a encontrar en la reflexión propia la justa medida que se había perdido. Esta reflexión ética encontró sus representantes en los poetas líricos y gnómicos y especialinente en los llamados siete sabios, cuya influencia se ejerció sobre la vida religiosa y moral.
+
+De este fermento de circunstancias hace nacer Windelband la ciencia de los Gríegos, a la que estos dieron el nombre de Filosofía. La reflexión independiente de los individuos se extendió a los problemas de la vida práctica, auxiliada porla fantasía religiosa, al conocimiento de la naturaleza, y en esta solamente adquirió aquella libertad de fines exteriores, esa limitación del saber en si mismo, que constituye la esencia de la ciencia.
+
+Windelband considera así, como fundamento inmediato de los comienzos de la filosofía griega, los poemas cosmogónicos, destinados a representar, con vestidura mítica, la prehistoria del estado del mundo actual y los que expresaron las ideas dominantes en torno a las vicisitudes constantes de las cosas, en la forma de narraciones del origen del mundo. El libre desarrollo que adquirieron allí las opiniones personales provocó, al fin, el problema sobre el principio primero de las cosas, que sobrevive en medio de las viscisitudes del tiempo, y sobre el modo como se trasforma en las cosas singulares o como las reabsorve. Ala solución de este problema se dedicó, por vez primera, la escuela na-⟦Diego⟧ turalista de Mileto.
+
+Fué el problema del orden físico el que se planteaba de ⟦San⟧ ese modo y el que demandaba una explicación. El orden es-⟦calitornia, tético no necesitaba ser explicado; le bastaba ser sentido; y⟧ en cuanto al 'orden moral este descansaba sobre la costumbre bajo el imperativo de la tradición y de la sanción religiosa. Lo que se hacía necesario someter a un orden lógico era la realidad fisica, inexplicable por sólo el sentimiento y cuya sumisión a la voluntad de los dioses dejó de aceptarse
+
+⟦Generated nttps://nal⟧
+
+⟦Google⟧
+
+[^p33-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 34]
+
+como explicación satisfactoria, desde que la mitología comenzó a perder su prestigio entre los espíritus superiores. La explicación física, no depurada completamente del elemento religioso, inicia la ciencia; pero confundida esta con el aspecto metafísico de la Naturaleza, se convierteen una cosmogonía, evoluciona en el sentido de la dialéctica, cuando el pensamiento elimina la imágen, y penetra, al fin, en el dominio de la abstracción pura; solo que, en todos estos desarrollos, la consideración de lo objetivo es predominante; lo subjetivo, la idea de la ciencía misma no llega a alcanzarse en este primer período de la filosofía helénica, aún cuando, como observa Ritter, la tendencia hacia el punto de vista subjetivo del pensamiento debe incluirse en este primer período, si bien ella no considera a la ciencia como tal, sino como obra de arte y no con relación al conocimiento de lo objetivo, teniendo sólo un carácter parcial, destructor de la filosofía, así como se presenta en la sofística.
+
+Este problema del orden fisico o de la inteligibilidad de las cosas sensibles, entrañaba el del ser o la sustancia y el del origen y fin de las cosas, que atribuyen Martín y Golay, respectivamente, a los primeros filósofos. La explicación de lo vario por lo uno o sea de la multiplicidad ordenada por la unidad, conducía a la investigación de la sustancia, de la materia, del ser, de lo que persiste bajo la variabilidad de los hechos, de lo que puede explicar esa multiplicidad heterogénea, de lo que puede servir de criterio de inteligibilidad y explicación universal. De allí que todos los filósofos anteriores a Sócrates, como establece Martín, han intentado de-⟦Hal⟧ terminar la materia de las cosas, entendiendo por materia ⟦1n⟧ ⟦Romain⟧ a sustancia despojada de sus cualidades.
+
+Esa sustancia debia llegar a esa explicación, no sólo por ⟦San Diedo nttos:|/hdl.handle.net/2027/ucl.$b44069 / Public encontrarse en todas las cosas, por comprender el orden de⟧ su coexistencia y el de su sucesión, inseparables de su inteligibilidad; sino además, por abarcar el origen y fin de las co-University of California, sas percibidas y aún imaginadas, el porqué de su existencia y el porqué de su destino. Por eso Golay afirma, que el primero y verdadero pensamiento filosófico de los griegos se dirigió a investigar el origen y fin de las cosas.
+
+La filosofía jónica buscó ese principio ordenador en los elementosde la Naturaleza: el orden físico atrajo su atención
+
+⟦at⟧
+
+⟦Digitzed by Google⟧
+
+[^p34-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 35]
+
+principalmente, porque el orden en las imágenes es la primera etapa en la función del pensamiento y quizás también por el atractivo que la realidad ejercía sobre la raza jónica. Infuencias de raza habrían producido, dice Ritter, una especie de selección de problemas filosóficos en este primer período. La escuela jónica habría elegido el aspecto físico del mundo, la pitagóríca, de raza dórica, el aspecto metatísico y la eleática el aspecto lógico o dialéctico. Pero esta distinción no significa que los primeros filósofos griegos distinguieron la materia del espíritu. Esos conceptos estaban confundidos todavía. El elemento, cuya evolución constituye el mundo es, a la vez, materia y fuerza.
+
+Fué el jonio Tales (640 a de J. C.) el primero que inicia las investigaciones filósoficas. Tales concibió una materia única y fuerzas divinizadas inmanentes en esta materia, estableciendo, con su filosofía, una transición entre la mitología fetichista de los poetas y la cosmología dinámica de los filósofos y traduciendo, bajo una forma abstracta y científica, la cosmogonía mitológica. Tales no hizo más que sustituir al Oceano y a Tetis de las teogonías por el elemento húmedo, con cuyo cambio operó una revolución creando la ciencia y la filosofía; porque no se trataba ya de apelar a las tradiciones religiosas para explicar el orden físico, sino de observar a la Naturaleza y de aplicar el raciocinio a las ideas ofrecidas por esa observación.
+
+Milhaud encuentra en ese esfuerzo de Tales un comienzo de idealismo, una especie de sistema vago e impreciso; puesto que al lado de la unidad ideal, que se oculta bajo la variedad de las cosas, se encuentra afirmada la multiplicidad infinita de los poderes de la Naturaleza. Pero fué con Anaximandro (611 a. de J. C.), discipulo de Tales, que la especulación adquiere un gran vuelo y se eleva a la catégoria de un concepto superior a la experiencia.
+
+Anaximandro no admite que un elemento de la Natura-⟦₫h44969⟧ leza de origen y explique todo el orden de la realidad física, porque se agotaría, al fin, en su incesante producción. Ese principio generador debía ser inextingible e indestructible, ilimitado e indeterminado, sin origen ni fin. Anaximandro lo llama el Infinito, evitando toda determinación cualitativa y concibiendo el todo del Universo, en su fondo, como la
+
+⟦Google⟧
+
+[^p35-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 36]
+
+cosa sin cualidades, que produce todas las cualidades. Todas las cosas provienen del Infinito y todas vuelven a él. Los contrarios nacen separándose de él, del Uno, múltiple y todo, que los encierra. Lo Infinito es así lo divino, puesto que es inmortal e indestructible; posee en su ser eterno una propiedad organizadora interna y espontanea, inseparable de la propiedad generadora. De él nacen mundos infinitos y en él se vuelven a disolver, y esta generación no cesa nunca, porque es infinita.
+
+Las tentativas de los filósofos de Mileto para definir el principio universal del mundo, se elevan asi, con Anaximandro, a la construcción de un concepto metafísico, apartándose de los hechos para entrar en las reflexiones conceptuales. Por eso Gomperz considera a Anaximandro como el verdadero creador de la ciencia de la naturaleza en Grecia, y por tanto en el Occidente. La destructibilidad de las cosas individuales, la caducidad y la mortalidad de los seres vivientes, la circulación de la materia se amplifican en el espíritu de Anaximandro y le hacen concebir un orden natural, que para el, equivale a un orden legal universal. Con Anaximandro, además, se hace la primera tentativa de despojar la representación de Dios de toda forma mítica, haciendo de la materia el concepto folosófico de la divinidad, y se fija un fín moral a las cosas. Este fín es, según Windelband, una expiación de la injusticia y explica el suceder de las cosas como una necesidad moral. La necesidad física adquiere asi el valor de un ordenadamiento moral, y Anaximandro aparece como precursor de Heráclito. ⟦through Hai⟧
+
+⟦Anaximenes (557. a. de J. C.), discipulo de Anaximandro⟧ llama al principio generador de las cosas, el aíre o soplo-/ Public Domain Weber considera su doctrina como una forma más precisa de la de su maestro y la resume así: materia infinita, un movimiento perpetuo de condensación y de dilatación y al-San go como un principio plástico, una fatalidad directora del ⟦handle.net/2027/uc1.sb44069 movimiento. Para Ritter, el progreso de esta doctrina no⟧ esta sólo en la infinitud atribuida a un elemento de la Naturaleza, que ofrece por su movilidad los caracteres de la vida, sino que se encuentra en ella ya la comparación de ese principio con el alma del hombre. En Anaximenes, como en Tales, encontramos estos elementos: materia, movimiento,
+
+⟦Google⟧
+
+[^p36-1]: Original from Digitized by ( UNIVERSITY OF CALIFORNIA
+
+[p. 37]
+
+fuerza motriz y necesidad dirigente, que entran en la explicación del orden universal.
+
+Un siglo más tarde, Diógenes de Apolonia (que florecio entre los años 480 y 450 a. d. J. C.) atribuye al aire la propiedad humana de pensar y ordenar, demostrada por la medida y el orden del Universo, en el que todo existe para lo mejor. El aire, considerado como alma, es para Diógenes, un ser dotado de conciencia; sabe muchas cosas; y su saber mismo, el conocimiemto racional de que está dotado como alma general, es, para Diógenes, una prueba de que el aire es el principio primitivo. Del orden que existe en el mundo, concluye que ese mundo saca su origen de un ser inteligente, de una alma, que anima todo y conoce todo; porque ella es la primera cosa que ha formado todo; porque el orden no puede venir sino de la inteligencia. Para Diógenes lo que tiene conocimiento es lo que los hombres llaman aire, lo que rige y gobierna todo; porque el aire da nacimiento a todo, penetra todo, dispone todo, está en todo y no hay nada que no participe de su naturaleza. Lo que más impresionó a Diógenes, agrega Ritter, fué la idea de un desarrollo intelectual: todo para él estaba dispuesto de una manera admirable, según un fin racional; siendo el principio primitivo el autor de todo orden, es la fuente de rodo conocimiento racional. Diógenes no distinguió, sinembargo, el espíritu de la materia, sin duda porque se figuraba el orden como un movimiento dependiente sólo de condiciones físicas que provienen del espacio.
+
+La escuela jonica ofrece así un proceso de espiritualización que va de Tales a Diógenes. El principio de Tales es puramente físico; es una simple fuerza vital; en Anaximenes se encuentra ya la comparación de ese principio con el alma del hombre; por último Diógenes confunde, identifica la fuerza física del aire, que es el principio de movimiento con San la razón, principio de fines y del conocimiento e imagen de California, la fuerza infinita. De aqui debió resultar, dice Ritter, como progreso natural del pensamiento, una investigación del conocimiento y de las ideas que reglan la acción racional, partiendo de otro punto diferente del físico. La explicación del orden ideal debía seguir, por consiguiente a la del orden físico.
+
+generated
+
+⟦Digitzed by Google⟧
+
+[^p37-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 38]
+
+Heráclito de Efeso (536-470 a. de J. C.) se mantiene en un término medio, según Ritter. Tiene de común con los jonios, que le antecedieron, el buscar, como ellos, el principio físico de todos los fenómenos, un principio que penetre todos los fenómenos del mundo, como su unidad eternamente viviente; pero se distingue completamente de ellos bajo otro punto de vista. Los jonios se proponian encontrar el principio de los fenómenos y de las fuerzas particulares de la Naturaleza, cuya existencia real y absoluta suponian; Heráclito, al contrario, sin preocuparse de esta suposición, no procuraba sino adquirir la idea de la fuerza vital la más elevada y la mas perfecta que se revela en todos los fenómenos. Heráclito se forma la idea de un ser ilimitado que vive con una vida completa, absoluta, dotado de una fuerza invencible, de una fuerza que se manifiesta, sobre todo, superando todos los obstaculos, todas las ideas que pueden oponerse a ella. Pero esta fuerza es destructora y constructora, al mismo tiempo. Heráclito aisla el momento de la mutabilidad, separandolo de la persistencia, que habían entrado sin ⟦tized⟧ una clara limitación en la filosofía jonia, proclama la inconsistencia de todo lo creado y toma como símbolo de ese poder destructor al fuego. Según este filósofo no hay nada de permanente en las cosas singulares del mundo, ni en su complexo; no sólo los fenómenos especiales, sino aun el Uni-- 07 verso, como todo, está en eterna e incesante revolución: todo huye y nada permanece; de las cosas no se puede decir que son, sino que llegan a ser y pasan. A este concepto se asocia la intuición sensible del fuego, que representa este movimiento y es la forma visible que adquiere el devenir en el Universo. Este fuego es materia e inteligencia, al mismo tiempo; porque estas dos cosas son indivisibles en el universal devenir de donde todos los fenómenos proceden. Es pues / Public un fuego viviente, un fuego inteligente, un fuego divino que gobierna todas las cosas sin extingirse jámas, un fuego que ⟦California, nttps://hdl.handle.net/2027/ucl.$b44069 ha producido pordegradación el fuego sensible. La actividad⟧ móvil, de la que el movimiento no es sino la forma visible, es, según Heráclito, un «deseo» eterno de vivir y un «disgusto» eterno de vivir. El fuego animado por ese deseo produce, y at University of cansado de llegar a ser alguna cosa, destruye.
+
+Generated
+
+⟦Digitzed by Google⟧
+
+[^p38-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 39]
+
+Sin embargo, en esta instabilidad eterna e incesante existe una estabilidad constituida por la ley, por el orden, por el principio organizador, que es Dios. Lo que permanece y merece el nombre de divinidad no es cosa, ni materia: no es un principio determinado ni una sustancia fija, dice Fouillée, sino más bien el movimiento, el suceder, el mismo devenir, que consiste en ser y no ser y cuya ley es la uniónde los contrarios, la conciliación de las diferencias, que es la armonía. Esta ley de contradicción 5 de armonía tiene por carácter el ser una «ley fatal», una necesidad armada, que, al mismo tiempo, es una justicia, que entraña, en el fondo, la necesidad de un pensamiento interior al devenir y que lo gobierna de dentro. Esta ley fatal, esta justicia armada, este pensamiento que gobierna es divino, es Dios mismo, que está fuera y sobre esa unidad de los contrarios y que es esa misma unidad.
+
+Heráclito llama destino, orden y razón del mundo este ritmo del suceder, la única cosa duradera y permanente. Estas definiciones, por las cuales el orden físico, ético y lógico del mundo aparecen siempre idénticos, no prueban sino el estado confuso del pensamiento que no llega todavia a distinguir los varios motivos; pero, como afirma Windelband, el concepto que Heráclito ha comprendido con plena claridad y perseguido con todo el rigor de su fuerte personalidad es el del orden, concepto cuyo valor era para él tanto objeto de fé, como de conocimiento. Este orden tiene dos definiciones esenciales: la armonía de los opuestos y la circulación del cambio de la materia en el Universo; es un orden armonioso y cíclico. Así el Universo es, en cada momento, una unidad que se subdivide y vuelve después sobre sí; una lucha que encuentra su conciliación; un defecto que encuentra su compensación; la esencia del mundo es la armonía indivisible en la que se resuelven todas las diversidades y todas las antítesis. El mundo es devenir y el devenir es unidad delos opuestos. En esta perpétua trasformación de todas las cosas no existe nada de singular, sino sólo el orden en que se realiza la viscisitud de los movimientos, la ley del cambio, que constituye el significado y el valor del todo. El devenir de Heráclito no produce ningún ser, como el Ser de Parménideș no produce ningún devenir.
+
+⟦Digitzed by Google⟧
+
+[^p39-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 40]
+
+La moral de Heráclito se apoya en esa mísma idea de orden. Según Heráclito, conocer la ley o la razón universal, tal es el objeto supremo de la ínteligencia; plegarse, someterse a ella, tal es la regla suprema de la conducta. Seguir el propio sentimiento o la propia voluntad es incorporar en sí lo falso y el mal, que en el fondo no son sino una sola y misma cosa. La sabiduría no es más que la interpretación de la manera como el Universo es gobernado; no hay sino una sola sabiduría, la de comprender el pensamiento que sólo gobierne todas las cosas en general y en particular. Ser sabio es la suprema virtud; la sabiduría consisteen decir la verdad y conformar las acciones a ella interrogando a la Naturaleza para conocerla. Es pues sabio conocer las leyes necesarias de la Naturaleza y someterse a ellas.
+
+Con Heráclito surge clara la idea de orden o de ley engendrados por una inteligencia suprema o razón universal que los establece como permanentes en medio de las viscisitudes de la fuerza vital, que descompone y recompone el Universo. De las leyes particulares, que ha creído encontrar en la Naturaleza, como en los hombres, se eleva Heráclito a la idea de una ley única, el Logos, que abraza el conjunto del Universo. El principio de la inteligencia ordenadora, divinizado por la mitología aria, reaparece como entidad metafísica simbolizada en el elemento sensible que mejor expresa el movimiento incesante.
+
+Todo hace creer que Heráclito se inspiró en Pitágoras (588 a. de J. C.) discípulo del teólogo Ferecide y quizás de Anaximandro. Como Pitágoras se elevó a la idea de un orden absoluto, al que éstellega partiendo de las ciencias matemáticas, de la Astronomía y especialmente dela Música. El punto de partida de Pitágoras fué diferente del de los jo-/ Public nios; mientras que estos se elevaron al establecimiento de un primer principio de inteligibilidad, tomando como base la observación sensible de la realidad física, los pitagóricos, California, como los eleatas, emplearon la determinación de las condiciones del conocimiento para llegar al conocimiento del Ser. Según Milhaud, las proposiciones matemáticas, que ⟦OT⟧ no consideran ya la huella del origen concreto de las can-⟦versitv⟧ tidades específicamente diversas y en las que la heterogeneidad de la intuición sensible ha desaparecido ante el nú-
+
+⟦eneratedi ttps: //hdl|⟧
+
+⟦Google⟧
+
+[^p40-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 41]
+
+mero puro, debieron sugerir a lo spitagóricos este pensamien. to: que las determinaciones de los cuerpos por la figura y por la forma tienen su explicación última en el número. La misma impresión debió producirles la observación que la aritmética y la geometría pueden sustituírse en su marcha paralela. Pero lo que más debió impresionar a Pitágoras debió ser, en concepto de Gomperz, el descubrimiento de las leyes del sonido, que reducían al número el fenómeno más fugitivo e impalpable de la Naturaleza. Descubierta por Pitágoras la ley matemática del sonido en las vibraciones de una cuerda, era natural que se hiciese del número la esencia de las cosas. Desde entonces la esencia del mundo no fué ya ni el fuego, ni el aire, ni aún una esencia primitiva que abrazase todas las oposiciones materiales como el Infinito de Anaximandro; el trono vacante fué ocupado por la expresión de la ley general, por el número.
+
+Cada ser representa un número, y el fin último de la ciencia es encontrar para cada serel númerode que es equivalen te; pero la serie infinita de los números y por consiguiente de las cosas, piocede de la unidad; si el número es la esencia de las cosas, la unidad es la esencia del número. El pitagorismo, según Weber, distinge dos especies de unidad: primero, la unidad de donde sale la serie de los números (seres) y que, por consiguiente, los encierra, los abraza, los resume todos; unidad absoluta y sin contrario, Monada de las monadas, Dios de los dioses; segundo, el uno, primero en la serie de los números derivados opuestos a toda pluralidad. Así reducido todo al Número, a relaciones numéricas y en definitiva a la Idea, el pitagorismo establece un idealismo abstracto, dice Weber, en el que la cosmogonia no tiene otro objeto que el de hacer ver el orden, la ley, la serie, según los que las cosas emanan eternamente de su principio. La unidad que contiene, al mismo tiempo, la multiplicidad, tales el principio de todas las cosas; unidad que está representada por el uno primero, por el número esparcido en todo el universo, pero incognoscible, que, poniendo en armonía todas las cosas, apropiando las unas a las otras, las hacía cognoscibles. El número parece ser, agrega Ritter, no sólo fuente de toda existencia, sino aún de toda rerdad en las cosas; porque, como dice el pitagórico Filolao, el error no participa en nada
+
+⟦ttps://hdl⟧
+
+⟦Google⟧
+
+[^p41-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 42]
+
+del número; le es hostil y odioso, mientras que la verdad es su aliada natural.
+
+Para los pitagóricos, el número, la unidad y la armonía eran ideas que se explicaban recíprocamente: el número su ponía la unidad, la unidad entrañaba la armonía de la multiplicidad comprendida en ella. Por eso decian también, que la unidad y la armonía eran, como el número, el principio de todas las cosas, y que el Universo es armonía y número. El vínculo de los contrarios estaba establecido ya en el primer principio delos pitagóricos, en el Uno primitivo, que era, por consiguiente, para ellos, el principio de enlaces armónicos o el principio de la armonía. De allí, que la armonía fuese para ellos el principio de la unidad de todas las cosas y el Universo una armonía de unidades o de números compuestos según relaciones determinadas. La doctrina de la armonía se refería también al orden que mantiene todas las partes del Universo en relación y determina la esencia de las cosas; de donde se sigue, que la vida entera del mundo era considerada, no simplemente come un lazo entre los opuestos, sino también como un vínculo de orden y de una justa medida. Según el pitagorismo, todos los grados de la existencia vi. 96÷57 viente estaban de tal modo ordenados, que el grado más elevado contenía todo lo que constituían los grados inferiores. El alma misma era un número determinado que tenía su lugar en la série eterna de las cosas, una partícula del alma del mundo, una chispa del fuego celeste, una idea de Dios. El alma era considerada como una relación numérica que ormaba armónicamente su cuerpo. El pitagorismo dominado por la tendencia a percibir por todas partes, en el mundo a lo menos, la posibilidad de la razón, refería todo conocimiento a la teoría de los números, como demuestra Ritter. ⟦Diego⟧
+
+En el orden moral domina el mismo principio, Todo bien tiene su fundamento en la unidad y en el orden; todo ⟦net/2027/uc1.$b44069 mal tiene su orígen en la división y la disonancia. La vir-⟧ tud nace del acuerdo de las diversas partes del alma bajo la ley de la razón; así la virtud es, ella misma, una armonia; los pitagóricos la llamaban así, procurando poner en acuerdo toda la vida mediante el dominio de las pasiones. Para ellos el orden del Universo es un desarrollo armónico del primer principio de todas las cosas, no en belleza exterior, sino
+
+⟦nttps://hdl⟧
+
+⟦Google⟧
+
+[^p42-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 43]
+
+en virtud y en sabiduría, sobre la tierra y en el Cosmos. La armonía del mundo, por imperfecta que sea todavía, ha sido ordenada según ideas morales.
+
+Esta idea de unidad, que Ritter encuentra en la moral pi. tagórica, la encuentra Fouilleé en su política y en su religión. Dios es la unidad primitiva, fuente de la eterna Naturaleza. El Uno es el principio de todo, dice Filolao. Hay un Dios que dirige todas las cosas, siempre uno, siempre sólo, inmó-• vil, semejante a sí mismo, diferente del resto. Dios es el principio del ser, puesto que todo el sér está en los números; es el principio del pensamiento, porque toda verdad está en los números y sin los números no hay conocimiento posible. En él están conciliados todos los contrarios. El bien y el mal mismo están envueltos en el primer principio y no se desarrollan sino en el mundo.
+
+La concepción estética del mundo, fundada en la idea de armonía, encuentra pues, en este sistema su completa expresión, después de haberla realizado en el Arte. La imaginación helénica resolvió en el arte el problema de la armonía en las imágenes; la razón helénica ha pretendido resolverlo en el orden de las ideas con la unidad pitagórica que concilia los contrarios y es esencia del número orígen de los seres. El intelectualismo adquiere en este sistema su plena consagración, mediante la razón ordenadora. En la aplicación astronómica del sico-pitagorismo de Filolao, convergen, dice Gom. perz, todos los elementos de la concepción helénica del mundo: la alegría exaltada de vivir, el sentimiento de amor y de respeto que inspira un Universo penetrado de energías divinas, el sentido elevado de la belleza, de la simetría y de la armonía y, por cima de todo, el íntimo placer que procura la paz del Estado y de la familia. Así el Universo, rodeado por ⟦San Diedd el círculo de fuego del Olimpo como de una muralla, ha sido,⟧ para los que lo consideraban de ese modo, una residencia ⟦net |1077/1c1 5h44969 amada, un santuario y una obra de arte, al mismo tiempo.⟧
+
+La unidad pitagórica es todavia una formación estética, en la que la armonía o conciliación de los contrarios entraña un equilibrio y por lo mismo una no coacción, forma pasiva de la libertad; pero la unidad eleática es opuesta a la multiplicidad. El eleatismo es un poderoso esfuerzo para determinar, a priori, el fondo de las cosas, lo absoluto y es, por ex-
+
+⟦Google⟧
+
+[^p43-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 44]
+
+celencia, la filosofía del ser, opuesta a la filosofía del dere-⟦nir.⟧
+
+Jenófanes, (nacido en Colofon en 569. a. d. J. C.), jefe de la escuela eleática, adopta, en oposición a Heráclito, el momento de la persistencia del ser como base de su doctrina. Encuentra todo fundado sobre una fuerza única y hace que converja todo hacia la unidad, que llama Dios, unidad • que comprende también el cielo o el mundo. Pero su monoteísmo no excluye el orden; porque a la dominación arbitraria de un Dios opone la dominación basada sobre las leyes, y en esta frase, dice Gomperz, tenemos el derecho de ver la proclamación más o menos clara de un orden soberano y regular. Esta concepción no importa, sin embargo, la idea de un Dios creador u ordenador. Al contrario, según Gomperz mismo, en el sistema de los díscipulos de Jenófanes no hay el más pequeño lugar para un creador del mundo, ni para un artesano que persiga un fin, mucho menos para un padre celeste, que revele su benevolencia por intervenciones especiales, o para un juez que distribuya recompensas o cas-⟦tigos.⟧
+
+El eleatismo se eleva a una forma mucho más abstracta del pensamiento. Distingue la verdad pura de sus manifestaciones sensibles, y ese es el progreso importante de que le es deudora la filosofía, como observa Ritter. Con Jenófanes el orden lógico tiende a sustituír al orden estético.
+
+⟦Parménides (Elia 500. a. d. J. C.) discípulo de Jenófa-⟧ nes, acentúa la separación entre lo absoluto y lo relativo, fundando la teoría de la unidad absoluta. El sistema de Parménides debe su fundamento al panteismo de Jenófanes y su forma a la matemática de Pitágoras; pero su orientación la debe al sistema de Heráclito, contra el que reacciona fuertemente. La doctrina de Parménides, según Gomperz, ⟦San Diedo⟧ es el producto de una descomposición espontánea de la doctrina de la materia, sostenida por los filosófos naturalistas, California, $b44069| para quienes la materia no nace, ni perece. De allí el ser uni versal de Parménides, que llená el espacio y tiene por atributo' ⟦, net/2027/ucl⟧ no solo lacternidad, sino también la inmutabilidad. Es una materia primordial, que no sufre, como las de Tales, Anaximandro, Anaximenes y Heraclito, múltiples modificaciones, que no despliega formas variadas para reabsorverlas luego
+
+⟦enerated⟧
+
+⟦Digitzed by Google⟧
+
+[^p44-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 45]
+
+en sí: esa materia es hoy, no solo lo que era, sino como ella era y como será de toda eternidad. Parménides agregaba al postulado de la constancia cuantitativa el de la constancia cualitativa.
+
+Para Parménides el ser no se concibe sino como eterno, inmutable, inmóvil, continuo, indivisible, infinito, único. No hay para el pensador sino un ser único, el Uno-Todo, en quien se absorven todas las diferencias individuales. Su unidad, sin embargo, no es abstracta, ni vacía, ni material. Ella es Dios mismo, al seno del que Parménides se trasporta por el pensamiento y de donde pretende que nada puede salir. Dios es el pensamiento mismo en su absoluta unidad con el ser. El ser, que afirma Parménides, no es ni cuerpo, ni alma, ni materia, ni espíritu; es el ser y nada más que el ser; todo lo demás es accidente, apariencia, ilusión. El pensar y el ser son cosas idénticas. Parménides llega lógicamente así a la indeterminación absoluta del primer principio para la inteligencia humana. Heráclito niega el ser y afirma el devenir; ⟦Parménides niega el deveniry afirma el ser. (Weber-Fouillée).⟧
+
+Estas proposiciones, que consideradas literalmente aparecen así abstractamente ontológicas, asumen, según Windelband, otro significado completamente, si se considera lo que Parménides quizo propiamente entender por ser o por Ente; esto es la corporeidad, la materialidad. Para él, ser y llenar espacio eran lo mismo. Este Ser, esta función de llenar el es pacio eran para todo ente exactamente lo mismo. Por eso no hay sino lo Uno, ser unitario, sin diferencia. Milhaud piensa del mismo modo. Para este filosófo matemático, el ser de Parménides es material, corporal, continuo, extenso y limitado, homogeneo, igual en densidad y comparable a una esfera. Por su parte Gomperz sostiene que el ser material de Parménides era, al mismo tiempo, un ser espiritual; que era, a la vez, universal materia y universal espíritu, infecundo como materia, porque no era capaz, de ninguna expansión, e impotente, como espíritu, porque no era capaz de ninguna energía. Pero en medio de esta indeterminación dela materia, aparece claramente la concepción de la unidad absoluta, en la que el ser y el pensamiento se confunden y el or-⟦den lógico sustituye al orden estético. Parmenides conside-⟧
+
+⟦Digitzed by Google⟧
+
+[^p45-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 46]
+
+raba el pensamiento y la extensión como los dos atributos de una sustancia única.
+
+Parménides llega así, por la dialectica, al mismo resultado que se había ofrecido inmediamente a Jenófanes, al partir de la idea de Dios; a saber, que todo es idea y conocimiento racional. El pensamiento y lo que ocasiona el pensamiento son una misma cosa; porque sin lo que es y que proclama el pensamiento, este no podría existir; lo que hace decir a Parménides, que la plenitud del ser es el pensamiento. Parménides aparece, por esta oposición entre lo real y lo intelegible, como precursor del idealismo platónico, sin ser espiritualista en el sentido moderno (Ritter-Weber). Pero su idealismo era, en cierto modo nihilista, porque reducía toda modificación del ser a simple ilusión; de tal modo que si este metafísico no hubiese silo, al mismo tiempo, como observa Gomperz, un griego, dotado de un sentido plástico, un poeta y un díscipulo de Pitágoras, su sistema, que suprimía todas las diferencias, habría disipado el Universo, que habría quedado reducido a una masa absolutamen-⟦joodle-diaitized⟧ te uniforme, desprovista de toda diferenciación, un trozo de materia, desnudo de toda forma y de toda limita-06:57 ción. Destruída la variedad desaparecía naturalmente la idea de orden en la coexistencia de los fenómenos diversos 2025-07-23 y en su sucesión; quedaba solo el orden lógico de las ideas derivadas de la unidad absoluta del ser, que elevada a la categoría de Dios, carece de toda función creadora u organi-⟦zadora.⟧
+
+Melisus de Samos, (140 a. d. J. C.) discípulo de Parménides llevó la lógica de su sistema a términos extremos. Par ménides rechazó todo comienzo absoluto en el tiempo. Su ⟦Domair⟧ ser es eterno en el pasado como en el porvenir; pero una ne-⟦net/2027/ucl.$b44069 / Public cesidad curiosa de regularidad, de igualdad, de simetría lo⟧ condujo a comparar su forma a la de una esfera y lo declaró finito y limitado. Melisus, más lógico que su maestro, excluyó todo límite en el espacio y eliminó totalmente la ⟦Calitornia,⟧ idea de orden. Cuando nada se agrega, ni se pierde, ni se convierte en otra cosa ¿cómo puede tener lugar cualquier cambio de orden? pregunta Melisus. Con esta exclusión opuso a las cosmogonias jónicas la doctrina eleata de la ⟦Universıty⟧ eternidad del mundo. Melisus lleva la volatilización del
+
+⟦at⟧ generated
+
+⟦Digitized by Google⟧
+
+[^p46-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 47]
+
+Universo hasta el punto de hacerlo desaparecer completamente y reemplazarlo con el puro espíritu. No es órfico, sin embargo. porque se apoya, no sobre la simple luz interior e intuición, sino sobre una demostración rigurosa. Melisus conservaba al ser el atributo de la extensión, pero lo despojaba de todo elemento grosero y corporal; reconocía al ser una vida afectiva exenta de toda pena, de todo sufrimiento y que se puede, por consiguiente, considerar como un estado de felicidad perfecta. Adquirida la noción de la infinidad del ser en el espacio, Melisus deriva de ella su unidad. De lo uno sale inmediatamente lo uniforme y la homogeneidad, extendiéndose ésta a los estados simultáneos y sucesivos del ser ⟦(Milhaud-Weber-Gomperz).⟧
+
+Zenon de Elea, (495-490 a. d. J. C.) discípulo de Parménides, acentúa más todavía la transformación del pensamiento concreto en concepto. La ley lógica brota de sus argumentos, que ofrecen otra determinación positiva del pensamiento, que sus predecesores habían contrapuesto a la percepción y que ya con Pitágoras tenía el carácter matemático positivo. Para aleanzar ese grado de abstracción, redujo a polvo, con su crítica, los conceptos fundamentalesdel Eleatismo, los dela Unidad, de la Extensión y de la Realidad misma. Si la teoría de la materia primordial se descompuso espontáneamente para engendrarla del ser absoluto, la obra nihilista de Zenon expresó la descomposición espontánea de la doc-⟦trina eleata del ser. [Windelband-Gomperz]. Separados ra-⟧ dicalmente la percepción y el concepto, el pensamiento abandonó el principio ordenador en las imágenes, para buscarlo en las relaciones lógicas de los conceptos solamente. Pero la teoría de lo Uno absoluto y abstracto no estaba en armonía con el espíritu helénico, cuya plasticidad se acomodaba muy dificilmente a las concepciones puramente ideales. Por eso, dice Gomperz, la doctrina de la unídad fué objeto de la ⟦San⟧ burla de los griegos.
+
+⟦2077/1c1 8944969 Reacciona Anaxágoras en favor de la teoría, que concilia⟧ lo uno con lo vario en la idea de un orden dirigido por un principio intelectual. Con Anaxagoras [Clazomene, Jonia, 550 a de J. C.] la filosofía y las ciencias de la Naturaleza ⟦OT⟧ pasan de la Jonia al Atica (460 a. d. J. C.)
+
+generated
+
+⟦Google⟧
+
+[^p47-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 48]
+
+El problema de la materia preocupó a Anaxagoras como a sus compatriotas los Jonios: pero su solución fué original. Sin haber sufrido la infiuencia crítica de los Eleatas, tuvo absoluta confianza en las inducciones ofrecidas por los sentidos. Para Anaxágoras, la naturaleza de las cosas es tal como los sentidos nos las muestran; los cosas han llegado a ser indestructibles; lo mismo sucede respecto a șus cuali-⟦dades.⟧
+
+Anaxágoras tiene puntos de contacto con Heráclito, ⟦Anaximandro y los Eleatas. Su teoría es, para Gomperz,⟧ una tentativa, grosera sin duda y prematura, para demostrar que todos los fenómenos materiales son las consecuencias de movimientos; pero Anaxágoras opuso al dinamismo de Heráclito una cosmogonia mecanista, que tomó de Anaximandro, yal monismo hylozoista sustituyó el dualismo de una sustancia ininteligente e inerte y de un principio inteligente causa del movimiento. Además sustituyó el devenir con la agregación, y el morir con la disgregación. Para ⟦tized⟧ Anaxágoras también, al comienzo, reinaba una especie de caos; pero en lugar de una materia primordial, única, estableció un número indefinido de materias primas igualmente extendidas fuera de todo límite. Todas las cosas estaban 2025-07 reunidas; las partículas, infinitamente pequeñas, amontonadas en desórden, formaban la confusión inicial. Del principio eleático, que ningún Ente puede tener principio o fin, Anaxágoras dedujo, como conclusión, que se debían admitir tantos elementos cuantas materias simples se encuentran en las cosas de la experiencia; materias que, en su división se descomponen de nuevo en partes cualitativamente iguales a sí mismas. Estos elementos inumerables, difundidos San Diego en todo el Universo, determinaban, por su encuentro o su se-/ Public paración, el orígen o fin de las cosas singulares. [Gomperz-⟦California, nttps://hdl.handle.net/2027/uc1.$b44069 Weber-Windelband].⟧
+
+⟦Los elementos, como los Entes, son también para Ana-⟧ xágoras, eternos, sin fin y sin principio, inmutables, y sieran también móviles, eran inmóviles por sí. De allí la necesidad at University of de determinar la fuerza que causaba ese movimiento. Debiéndose considerar también esta fuerza como un Ente, Anaxágoras encontró la solución de este problema, uniendo esa fuerza a otra materia especial y singular el Nous.
+
+⟦Digitzed by Google⟧
+
+[^p48-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 49]
+
+Anaxágoras contemplando la enorme revolución de los astros, que ofrece la impresión de un orden bello y conformea su fin; observando este armónico dominio de masas gigantescas, esta circulación no interrumpida de infinitos cuerpos, no le parecio sino el resultado de un espíritu ordenador según un fin y moderador del movimiento. Por eso caracterizó la matería del movimiento como Razón o como mate-⟦ria pensante [Windelband].⟧
+
+Anaxágoras creía que el primer impulso había sido dado por ese elemento, que llamó Nous, palabra intraducible, dice Gomperz, porque toda traducción, sea por espíritu o por materia pensante, introduce en su significación un elemento extraño. Según la propia declaración de Anaxágoras, «es la más sutil y la más pura de las cosas»; solo ella no está mezclada de ninguna otra cosa. Windelband caracteriza el Nous como una materia, como un elemento corporeo, homogéneo en sí, increado e imperecedero, difundido en una fina distribución en todo el mundo, pero diverso de todas las demás. materias, no solo en grado, siendo la mas fina, la más ligera, la más móvil; sino también en sustancia, por cuanto se mueve por sí y mueve los demás elementos en el modo como se dá a conocer en el orden del mundo. El Nous, dice Gomperz, posee toda ciencia sobre toda cosa, sobre el pasado, el presente y el porvenir y le pertenece el supremo poder. Pero si, según todo esto, alguien trata de identificarlo con la divinidad suprema, se encuentra detenido por otras y no menos importantes determinaciones. Anaxágoras habla de un mas y de un menos del Nous; lo representa como «divisible» y como inherente a muchas cosas por las que comprende todos los seres vivientes. Weberatribuye aún al Nous un carácter de actividad libre. Todos los demás elementos son pasivos; pero el Nous está dotado de una actividad espontánea, perfectamente libre, fuente de todo movimiento y de toda vida en 'el mundo. Anaxágoras, no solo admite que el Nous actúa libremente, organizándolo todo como un Demiurgo, con intención y conveniencia finales, como un eterno ordenador del Universo, mas poderoso que todos los demás elementos reunidos, sino que el Hado es a sus ojos una palabra vacía. Las cosas una vez dispuestas en el orden concebido por el Nous, entraban en un curso de desarro-
+
+Generated
+
+⟦Google⟧
+
+[^p49-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 50]
+
+llo progresivo y continuo, no periódico como el de Heráclito; sino indefinido, el que Anaxágoras no quiso explicar por la necesidad, ni por el azar, como sus antepasados, dice ⟦Renouvier.⟧
+
+Anaxágoras acentúa, como se vé, la idea del orden en el Universo; pero como observa Windelband, esa acentuación era un momento heracliteo en la doctrina de ese filósofo; así como la conclusión de los movimientos ordenados con relación a su causa racional y operante y según un fin, es el primer ejemplo de una explicación teleológica de la Naturale-
+
+Con ella el concepto del valor de la belleza y de la per-⟦za.⟧ fección se eleva también, teóricamente, a principio de explicación.
+
+A los esfuerzos hechos para explicar la Naturaleza por la materia, como los Melesios, por el fuego-devenir, como Heráclito o por el ser como Parménides, sucedieron tentativas de conciliación que engendraron nueros sistemas como ⟦los de Anaxágoras, de Empédocles y de los atomistas..Los⟧ naturalistas del siglo V sostuvieron con los Eleatas la inmutabilidad cualitativa del ser; pero contra los Eleatas, la pluralidad y la movilidad; con Heráclito sostuvieron la realidad del suceder y contra Heráclito, la existencia de materias constantes e invariables del movimiento. Su modo común de ver era éste: hay una pluralidad de entes, que, en sí invariables, hacen comprensible, con su movimiento, el cambio y la multiplicidad de las cosas particulares [Windel-⟦band].⟧
+
+Parece que este principio ha sido combatido, por la pri-⟦mera vez, por Empédocles de Agrigento, [450 a. d. J. C.],⟧ poeta, orador, político, profeta y purificador, que estableció como elementos, los cuatro que eran corrientes todavía en / Public el pensamiento popular: tierra, agua, aire y fuego. Cada uno de estos debía ser originario e indestructible, homogeneo $b44069| en sí e imutable, pero sin embargo divisible y trasladable California, en sus partes. De la mezcla de esos elementos nacían las cosas singulares; con su separación cesaban de nuevo, y según el modo y el genero de la mezcla debían derivar las varias cualidades de las cosas singulares, siempre diversas, de las propiedades de los elementos. Pero el carácter de la inmutabilidad y la desviación del hilozoismo milesiano preva-
+
+⟦generated⟧
+
+Original from ⟦Digitized by Google⟧ UNIVERSITY OF CALIFORNIA
+
+[p. 51]
+
+lecen en Empédocles, tanto, que no podía atribuír la capacidad de movimiento espontáneo a estas materias, suceptibles solo de mezclas mecánicas, y por eso debió buscar una causa del movimiento, independiente de las cuatro materias. Como tal designó el amor y el odio, que no son, en Empédocles, solo propiedades, funciones o relaciones de elementos, sino también fuerzas independientes, [Windelband]
+
+Si no hubiese enemistad en las cosas, dice Empédocles, todo sería uno. Todo viene pues, de la Enemistad, excepto Dios, que es el Amor. El amor es la «caridad que une»; es la «gracia persuasiva que odia materialmente la intolerable necesidad». Así Empédocles, dice Fouillée, parece haber entrevisto, que lo que constituye el precio del amor y el encanto de la gracia es la libertad. El reinado de la amistad, en cambio, le parece a Gomperz caracterizado por un estado que se puede comparar a la confusión primordial de Anaxágoras y a su análogo en Anaximandro. Una esfera enorme envuelve los elementos mezclados, enredados los unos con los otros en un caos en que ya no se puede distinguir ninguno. Pero el ⟦2025-07-23 06:57 GMI Google-digitized reinado de la discordia ofrece un contraste exacto de ese⟧ cuadro: los cuatro elementos se encuentran casi completamente separados, unos de otros, y la casi totalidad de cada uno de ellós está aglomerada en un una masa independiente.
+
+Empédocles, en su fisica, parte del punto de vista de los Eleatas, que todo lo que es verdadero es uno. El mundo se identifica con el amor; la materia así no difiere de la fuerza ⟦que actúa en ella, como sostenían los Eleatas. Empédocles⟧ como Parménides, concibe el amor como la divinidad que une; como la única fuerza que une, que penetra todo, desde el centro del mundo, en donde está el foco de toda actividad: lo concibe también como la necesidad de que todo depende. [Ritter]. Un principio inteligente y pensante, según Empédocles, como según Anaxágoras, anima y mueve el mundo; no Japor el exteriorsino porel interior. El acto del pensamiento, $h44969 recorriendo el Universo, introduce en él el amor, que nadie ha visto en la universalidad de los casos, sin embargo. ⟦[Fouillé-Ritter].⟧
+
+Empédocles afirma que la verdadera unidad de las cosas no es visible sino por sí misma; de allí que el conocimiento hum atro del Universo es imperfecto: sólo Dios puede pene-⟦generated nttps://hdl.handle⟧
+
+⟦Google⟧
+
+[^p51-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 52]
+
+trar en su unidad. Distingue así el conocimiento humano del divino; al amor corresponde en nosotros la razón; y a la discordia los sentidos; pero como el amor penetra el mundo, todo está lleno de razón y participa del conocimiento. El conocimiento sensible y el racional forman pues para Empédocles dos dominios del saber completamente diferentes. De ese modo la doctrina eleática conduce a Empédocles, por dos vías opuestas, el punto de vista sensible y el punto de vista racional del ser, a una contemplación mística de los ⟦cosas [Ritter-Fouillée].⟧
+
+Gomperz hace notar, como una particularidad en Empédocles, la intensidad extraordinaria con la que esas dos tentativas en conflicto se habian apoderado, una de su pensamiento científico y la otra de su sentimiento religioso, presentándolo como un miembro de la comunidad órfica y como un campeón celoso de las investigaciones científicas; pero observa que, sin embargo, apenas se encuentra una huella de ese dualismo en la teología propiamente dicha de Empédocles, en donde debía esperarse encontrarla. Al contrario, allí ha conseguido fundir, en una armonía completa, las dos mitades de su sistema, introduciendo seres divinos de la Naturaleza, de aquellos existentes en los demas hylozoistas y calificados como dioses de segundo rango, que no contradecían la naturaleza de la materia, dotada de fuerza y de conciencia y la que no dejaba lugar para una divinidad exterior al Universo, capaz de ordenarlo, de gobernarlo, para no decir de crearlo. Esta observación de Gomperz permite afirmar que Empédocles introduce, de ese modo, el principio divino ordenador en la naturaleza, que no tenía cabida en su física, como entidad independiente de la materia.
+
+Un progreso mayor en la emancipación del espíritu helénico, al hacer el estudio de la Naturaleza, se encuentra en la escuela atomística de Abdera. Comparando Gomperz el pensamiento de Herodoto [nacido en Halicarnaso, 480 a d. San ⟦net/2027/uc1.$b44069 J. C.J con el pensamiento de Homero, determina, en cierto⟧ modo, los rasgos que caracterizaban el espíritu helénico ilustrado del siglo V. El pensamiento de Herodoto se dístingue del de Homero en tres puntos principales: una meditación prolongada y séria sobre el orden de la Naturaleza y sobre el destino humano, unida a la inteligencia más desa-
+
+⟦enerated [pS: //hdl|⟧
+
+⟦Google⟧
+
+[^p52-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 53]
+
+rrollada que se tenía de la unidad de gobierno del Universo, ofrecía ocasiones incomparablemente más frecuentes de hablar de las leyes generales que lo rigen; por otra parte, la fé en la verdad literal de las narraciones míticas había disminuído y la imagen del Dios supremo se veía, por consiguiente despojada de mas de un rasgo humano, inseparable de st esencia en otro tiempo; por último, se revelan aquí las huellas de la influencia de los filósofos, que, desde hacía mucho tiempo, habían encontrado la fuente primitiva de toda existencia en un principio impersonal superior a los dioses partículares. En lo que concierne al rol de juez, atribuído a la suprema divinidad, ese rol ora aparece como una parte de lo que se podría llamar el orden natural, operando automáticamente, ora se ejerce, siguiendo un plan fijo; el juez divino elige, con un arte seguro de sí mismo, los medios mejor apropiados a sus fines; se burla de todas las intenciones humanas y las fuerza a servir sus propios designios. Esas ideas, dominantes en la época de Herodoto eran la expresión de las condiciones sicológicas, religiosas y políticas propias del griego, que prepararon naturalmente el advenimiento de una ciencia libre del influjo religioso.
+
+06:57
+
+Bajo la influencia de este ambiente nació la escuela atomistica de Abdera, cuyo fundador fué Leucipo, pero cuyo sistematizador fué Demócrito, su amigo y discípulo [460 a. d. J. C.] Las doctrínas de ambos se confunden; pero es a Leucipo a quien corresponde esa frase que proclama, de una manera inequivoca, la ley absoluta de la causalidad: «Nada sucede sin causa, sino que todo procede de una causa y de la necesidad». Leucipo y Demócrito se propusieron dar una explicación del orden en el Universo mediante una teoría original, que se diferenciaba profundamente de las demás. ⟦San Diedo⟧
+
+Leucipo fragmentó el cuerpo cósmíco establecido por Parménides y esparció sus partes en el espacio infinito. Estas $b44069 / fracciones del ser las llamó átomos, y con ellos compuso y explicó el Universo [Gomperz] .Según Lange, se pueden considerarlas proposiciones siguientes como constituyendo la base esencial de la metafísica atomística: 1ª Nada viene de nada; nada delo que existe puede ser anonadado. Todo cambio no es sino agregación o disgregación de partes. 2ª Nada sucede fortuitamente, sino que todo tiene su razón y su necesi-
+
+⟦generated httos: /|⟧
+
+⟦Digitzed by Google⟧
+
+[^p53-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 54]
+
+dad. 3ª Nada existe sino los atómos y el vacío; todo lo demás es hipotético. 4ª Los átomos son en un número infinito y sus formas de una diversidad infinita. Cayendo eternamente a través del espacio inmenso, los más grandes, cuya caída es más rápida, chocan con los más pequeños; los movimientos laterales y los torbellinos que resultan de ese choque son el comienzo de la formación del mundo. Mundos innumerables se forman para perecer en seguida, simultánea o sucesivamente. 5ª Las diferencias de todas las cosas provienen de diferencias de sus atómos en número y magnitud, forma, y coordinación; pero los atómos no presentan diferencias cualitativas. No tienen «estados internos»: no actúan los unos sobre los otros, sino por la presión ó el choque. 6ª El alma está formada de atómos sutiles, lisos y redondos, semejantes a losdel fuego. Estos atómos son los más móviles de todos, y de su movimiento, que penetra todo el cuerpo, nacen los fenómenos de la vida.
+
+La doctrina atomística enseñaba quelas propiedades que percibimos en los complexosde atómos, no son más que apariencias; que en verdad, no existen sino las determinaciones de forma, de magnitud, de orden y situación de los atómos singulares que constituyen el ser. Todo lo que sucede es, en sustancia, movimientos de átomos en el espacio. Si se 2025-07-23 reclama la razón de estos movimientos no puede buscarse sino en los atómos mismos; quiere decir, que los atómos están en movimiento espontáneo, sin principio, ni flnalidad, como su ser. Windelband, agrega, que la separación ideal que Empédocles y Anaxágoras habían intentado entre materia y fuerza motriz, fué empleada por los atomistas, que atribuían a las partículas de la materia la capacidad, ⟦Domain⟧ no de cambio cualitativo, sino de movimiento espontáneo en sentido extricto, renovando, en cierto modo, el principio ⟦del hilozoismo milesio.⟧
+
+Milhaud no acepta este principio de espontaneidad en el ⟦le.net/2027/ucl.$b44069| movimiento atómico atribuido al sistema de Demócrito. Se-⟧ gún él, la fisonomía general de ese sistema y los comentarios de la antiguedad afirman el carácter mas rigurosamente determinante de su física. En ese determinismo especial encuentra el sello del espíritu geométrico, que no se contenta con una razón de hecho, con una causalidad concreta, al
+
+⟦at⟧
+
+⟦Google⟧
+
+[^p54-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 55]
+
+que no le basta aplicar un fenómeno por su antecedentes, sino que quiere encontrar para todas las cosas una ley general que las rija, dar una razón, a la vez inteligible y necesaria.
+
+Respecto a la teología de Demócrito, este ha considerado al espíritu, no como la fuerza creadora del mundo, sino solamente como una materia al lado de otras materias (Lange). La moral de Demócrito, no obstante la superioridad asignada al espíritu sobre el cuerpo, no es en el fondo, sino una teoría de la felicidad completamente contorme a su explicación materialista. La felicidad consiste en la tranquilidad serena del espíritu a la que el hombre no puede llegar sino mediante la armonía interna obtenida por el triundel pensamiento sobre los deseos. La verdadera felicidad, para la que vive el sabio, «según su naturaleza», que es fin y medida de la vida humana, debe buscarse, no en los bienes externos y en las satisfaciones de los sentidos, sino sólo en ese dulce movimiento, en aquella tranquila disposición del alma que lleva en si el recto conocimiento, la suave movilidad de los atómos igneos. Esa sola da medida y armonía al alma; esa la protege de las sorpresas afectivas, le da seguridad y firmeza en si misma; es la tranquilidad del alma que ha llegado a ser señora de sus pasiones mediante el conoci-⟦miento. [Windelband].⟧
+
+Renouvier encuentra analogías entre el atomismo y el pitagorismo. Parece, dice, que los atomos son una especie de concreción o solidificación de los números pitagóricos, y la oposición del ser y del no ser (cuerpos indivisibles y figurados por una parte, y vacios por otra) que emplea el atomismo, es una forma nueva del dualismo. pitagórico de lo uno y de lo múltiple, de lo finito y de lo infinito Esto aclararia la idea de orden en el atomismo, que se presenta bajo una forma un poco modificada por la atracción de lo se-⟦San Dlead mejante por la semejante, que juega en Empédocles el rol del⟧ 'ordenador del Universo. Demócrito, dice Gómperz, reconoce también enla tendencia de los semejantes a asociarse, una ⟦Calltornia. net /2027/uc15h44969 norma reguladora de los procesos universales; pero no la⟧ considera como un hecho último del que no se podría dar o del que no haya lugar a dar explicación. Demócrito quiere comprenderla, es decir, reducirla a su causa, y como se trata de un fenómeno material, a su causa física o mecánica.
+
+⟦Generated https://hdl⟧
+
+⟦Digitized by Google⟧
+
+[^p55-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 56]
+
+La existencia de esas aglomeraciones de materias homogeneas es un problema cuya solución se encuentra en esta ley: «las particulas de forma y de magnitud iguales tienen un poder de reacción; las partículas de magnitudes y de formas diferentes tienen un poder diferente de reacción» Según Gómperz, esta función • ordenadora del torbellino de atómos ⟦arranca de Anaximandro y pasa a Anaxágores; pero este⟧ atribuye a un principio inmaterial o a lo menos semi-material, el impulso que da nacimiento al movimiento rotatorio. Este movimiento, triunfando de la friccióninterna, desprende las masas hasta entonces amontonadas o mezcladas en una completa confusión y les permite seguir la solicitación de su pesantez y de arreglarse en el orden en que las vemos. No hemos podido determinar, agrega Gómperz, en que punto Empédocles, ha encontrado el origen del movimiento, que en él también, produce un torbeíllno y, por intermedio de este, separa la masa confusa de materia reunida hasta entonces en el «esfairos» divino. Lo unico que hemos podido afirmar con certidumbre, es que el proceso mecánico se ha realizado en él, en servicio de la discordia, uno de losdos pode-⟦zed⟧ res exteriores de la materia. En los atomistas, toda huella ⟦Good le-d1q]⟧ de una tal dependencia ha desaparecido. El proceso cosmogónico no es el medio de ningún fin cualquiera preconcebido; 2025-07-23 no deriva ya de la intención de un Nous, que ordena el Todo y que no emana de ningún otro poder que regle y domi-⟦States⟧ ne los fenómenos universales; sino que es derivado, entera y exclusivamente, de fuerzas naturales, en el sentido más extricto de la palabra, de fuerzas inherentes a la materia misma. La hipótesis de Demócrito responde únicamente a la necesidad de una explicación científica; tiene por unico objeto resolver, sin ningún fin acesorio y de una manera absoluta ⟦Domair⟧ mente imparcial, la cuestión siguiente: como ha podido hacerse que sobre tal o cual punto de la infinita extensión del ⟦Diedo / Public⟧ vacío, en tal o cual punto del curso sin fin del tiempo, se haya producido esta separación de masas de materia, de la ⟦California, net/2027/uc1.$b44069 que el mundo que nos rodea no es seguramente sino un⟧ ejemplar aislado.
+
+Con el sistema de Demócrito la idea de orden elimina todo factor subjetivo y toma el caracter lógico del princi. pio de razón o de intelegibilidad del mundo. ⟦at nttps:|/hdl.handle generated⟧
+
+⟦Digitzed by Google⟧
+
+[^p56-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 57]
+
+⟦Gomperz-Windelband-W'eber-Ritter-Fouillée-Fonsegrive, ob. cit.—⟧
+
+⟦Annibale Pastore. Il Penciero furo. 1913.⟧
+
+Causas políticas, económicas y puramente lógicas determinaron una trasformación profunda en la conciencia • helénica, y produjeron un movimiento poderoso en favor de la libertad, tal como se entendía en la Grecia.
+
+Los triunfos sobre los Persas, obtenidos por la acción solidaría de todos los ciudadanos griegos, engendraron la democracia y con ella la libertad política; el enriquecimiento alcanzado como efecto de esas victorias, desarrolló la libertad individual, y, a Imismo tiempo, el desprestigio de las viejas tradicciones y la anarquía de las ideas filosóficascontribuyeron a la emancipación del espíritu. Este movimientode libertad era una reacción contra la idea de orden mantenida por políticos y filósofos. Ya sabemos lo que se afirmaba en el tratado Sobre la Constitucíón de los Atenienses respecto al desorden y lo que Pericles decía sobre la libertad social en Atenas.
+
+Comparada esta época con la de Homero, resalta la profunda diferencia que distingue el periodo de virilidad y reflexión del periodo de la juventud. Una viva aspiración a una concepción racional, a la racionalización de todos los dominios de la vida, caracteriza esta época de libertad individual, pero también de anarquía, de pesimismo y excepticismo, que, sinembargo, no alteran elideal de equilibrio consagrado por la civilización ateniense. Pero junto con esa ponderación ofrecía la civilización ática, como rasgo carac-⟦https://hdl.handle.net/2027/ucl.$b44069 / Public terístico, una gran riqueza de individualidades. En ningu-⟧ na otra civilización se vió reinar tan poderosamente, dice Gomperz, la alibertad»y desplegarse en tan alto grado lavariedad de las situaciones», engendrando asi la fuerza de los individuos y la múltiple diversidad de caracteres favorables al progreso de la libertad ateniense. La vida constitucional de Atenas ofrecía, al propiotiempo, una admirable coopera-University ción y solidaridad que favorecían la libertad social y política.
+
+generated
+
+⟦Digitized by Google⟧
+
+[^p57-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 58]
+
+Los pensadores atenienses reunían esos dos elementos de entusiasmo y serenidad, de libertad y de orden; tenian el celo más ardiente para discutir los intereses superiores del hombre y la mas fria impasibilidad para examinar las cuestiones mismas que se referian a él. Su juicio no era jamás influenciado por el amor, ni por el odio. Dominados por una fuerza febril e independiente para dar solución práctica a todas sus ideas, y una respuesta a todas sus dudas, encontraban una masa de pueblo presa del ardordeapropiarse los resultados de la ciencia. (Gomperz-Windelband).
+
+Esta tendencia del espíritu al dominio de los hechos, esta necesidad de llevar a la práctica los principios de la ciencia encerrados en el tranquilo recinto de la investigación teórica, se hizo sentir principalmente en la política ateniense. Los políticos necesitaron ser hombres de ciencia, oradores, y recurrieron a los sofistas, depositarios de la ciencia, para adquirir esas cualidades. Así, dice Windelband, no sólo la posición social de la ciencia, sino aun su íntima esencia, su tendencia y su fin se trasformaron desde su base, llegando a ser una potencia social, un momento decisivo en la vida política; pero poniéndose precisamente, por esto, bajo la dependencia de las exigencias de la vida práctica y especialmente de la política. Como consecuencia de este fin secundario impuesto a la investigación científica, que se dirigía al pensamiento y a la voluntad del hombre en la lucha política, la ciencia griega adquirió una dirección escencialmente antropológica o subjetira, en relación con las actividades internas del hombre, y al mismo tiempo, perdió su carácter puramente teórico para adquirir un significado predominante práctico. Con esta trasformación subjetiva, la anarquia penetró en el campo de los principios, despretigiados ya en el estudio de la Naturaleza, y surgió necesariamente, como ⟦Puhlic⟧ consecuencia de ella, la cuestión de saber, si existe algo que sea universalmente válido; problema del periodo antropológico de la filosofía griega o del iluminismo, como lo ⟦Calitornia⟧ ⟦llama Windelband.⟧
+
+Tal problema era, por consiguiente, fruto de esa época, en la cualla fé religiosa y las antiguas costumbres vacilaban, el prestigio de la autoridad decaía siempre más y to-University do tendía hacia un estado de anarquía en la que los indi-
+
+⟦Generated nttps://hdl|⟧
+
+⟦Digitzed by Google⟧
+
+[^p58-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 59]
+
+viduos llegaban a ser dueños de si. Esta disolución interna del espíritu griego, que ya preveian pensadores pesimistas, se manifestó públicamente con el estallido de la guerra del Peloponeso, contribuyendo a su consumación el relativismo proclamado por los sofistas, que condujo al escepticismo llevado a excesivos extremos. Poetas, filósofos y moralistas del siglo V, en previsión de este resultado, habían protestado contra la indisciplina y la desobediencia a las leyes, demostrando, como Heráclito y los Pitagóricos, la validez absoluta de la ley y la conveniencia de obedecerla; pero, con el advenimiento del iluminismo griego esos dos principios sufrieron una fuerte sacudida y la moral también llegó a convertirse en un problema [Windelband].
+
+El mismo autor hace notar que, puesto en tela de duda el valor de la ley política, surgió la cuestión sobre si había, en general, algo que fuese válido siempre y en todas í partes, una ley independiente de la diversidad delos pueblos, de los Estados y de los tiempos, y desde entonces se inició la ética griega con un problema que recorrió un camino perfec-⟦e-dlgitized tamente paralelo al problema inicial de la física. La esencia⟧ de las cosas, eternamente igual y estable, lejos de todo cambio, había sido llamada por los filósofos del primer periodo, Naturaleza. Ahora se preguntaba, si esta naturaleza, eternamente idéntica, determinaba también una ley superior a todo cambio y a toda diferencia; y como antítesis a esta Naturaleza, se estableció, que los preceptos todos, válidos solo temporalmente, en un ámbito restringido, eran dados y fundados también por una convención humana. Esta antítesis entre naturaleza y convención, que no era más que una forma de la existente entre libertad y orden impues-⟦Domain⟧ to, ha sido la más característica concepción del iluminismo ⟦San Diego https://hdl.handle.net/2027/uc1.$b44069/ Public o intelectualismo griego. Ella domina toda su filosofía, y⟧ no solo tiene el significado de un principio de aplicación genética, sino la importancia de una norma de apreciación de valor. Si existe algo de universalmente válido eso es lo que vale por naturaleza, para todos los hombres, sin diferencia de pueblos y de tiempos; pero lo que ha sido afirmado por los hombres en el curso de la historia no puede tener sino un valor histórico. Ahora bien, la ley es la tiranía del hom-
+
+Generated
+
+⟦Digitzed by Google⟧
+
+[^p59-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 60]
+
+bre y lo constriñe muchas veros, a lo que es contrario a la naturaleza.
+
+De estos principios, la teoría de los sofistas llegó a una crítica de las condiciones dadas ya la exigencia de radicales •revoluciones en la vida social y política. El escepticismo derivó de allí. Este escepticismo, dirigido primero contra la • validez de las leres civiles, atacó, poco a poco, también, las leyes morales. La determinación del individuo, según un impulso natural, fué proclamada ley de la naturaleza y elevada a ley suprema de la conducta. En esta ruina fueron enrueltas aun las ideas religiosas, con mayor facilidad, desde que estas habían sido reconocidas ya solamente como exposiciones alegóricas de conceptos morales. (Windelband]
+
+Esta labor de crítica y de disolución no fué infecunda, sin embargo, porque arruinó las bases mentales del politeismo y preparó el camino a la religión de Sócrates, de Platón y de los estoicos, y arruinó también el dogmatismo ingénuo de la especulación fantástica y obligó al pensamiento a dar-⟦Google-digitized⟧ se cuenta de si mismo, de sus métodos y de sus leyes, por el abuso mismo de la dialéctica y del sofisma, como sostiene 06:57 ⟦Weber.⟧
+
+En medio de estas ruinas de lasideas, el orden estético 2025- 07-23 se mantiene. Para Protágoras, el sofista, la idea de la co-⟦States,⟧ rrección, era la idea dominante, en concepto de Gomperz. Con Protágoras [487 a. d. J. C.] se plantea el problema del ⟦ust on⟧ conocimiento; y al punto e vista objetivo tradicional se asocia el punto de vista subjetivo, mediante el estuerzo he: choen su doctrina para explicar sicogenéticamente las ideas humanas. Determinada la percepción por el objeto y por el ⟦in⟧ ⟦Domair⟧ sujeto, al propio tiempo, se inicia así la doctrina, de gran trascendencia, relativa a la subjetividad de la percepción ⟦Dlego net/2027/uc1.$b44069 / Public sensible. Pero a este esfuerzo crítico, que representó una⟧ reneción del pensamiento libre y' que inició las corrientes de relativismo, fenomenalismo y escepticismo, dirigidas a la University of Calitornia, anarquía del pens miento y a la destrucción de todo orden, había de suceder un movimiento opuesto creado por la necesaria ley del retorno en la actividad humana.
+
+Fué Sócrates [470 a. d. J. C.J quien operó ese movimiento dentro la sofística misma. Frente a la desenfrenada y frívola conducta de los últimos sofistas, Sócrates confirmó ⟦handle⟧
+
+⟦Generated tps://hdl⟧
+
+⟦Google⟧
+
+[^p60-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 61]
+
+la fé en la razón y en una verdad válida para todos. Pero este convencimiento fué en él esencialmente práctico, fué, como dice Windelband, un sentimiento moral, y esto lo condujo a una investigación del saber, que contrapuso a las llamadas opiniones, y cuya esencia encontró en el pensamiento en forma conceptual. Sócrates y los sofistas se encontraron así sobre el mismo terreno y trataron los mismos problemas; pero donde los sofistas, con su arte y con su erudición, permanecieron en el tumulto de las opiniones contemporáneas y concluyeron con un resultado negativo, el sentido sano y simple de Sócrates y su noble y pura personalidad encontraron los ideales de la moral y de la ciencia; donde los sofistas siguieron el análisis de los sentimientos y de los impulsos, que determinan las decisiones de hechos de los individuos, viéndose forzados finalmente a reconocer en todos estos motivos el mismo derecho a un desarrollo natural y necesario, Sócrates tomó en consideración aquel momento, que fué decisivo en la cultura de su tiempo; esto es, la importancia práctica, política y social, que el saber y la ciencia habían alcanzado.
+
+Precisamente, por haberse hecho los individuos independientes y sustraídose a las pasiones personales, era de gran valor el concepto que la virtud del hombre se funda sobre su sàber. En esto encontró Sócrates la medida objetiva para la valuación del hombre y de sus acciones. La virtud era, por consiguiente, el saber; el conocimiento la base de todas las cualidades que hacen al hombre de valor y útil; la base de todas las virtudes. Este saber existía, ante todo, en el exacto conocimiento de las cosas a las que se refieren las acciones; por consiguiente las virtudes singulares se distinguían solo por los objetos a que se refiere el saber. La virtud residía así en el conocimiento del bien, que para Sócrates era la felicidad.
+
+San
+
+Esta concepción intelectualista del querer, agrega Windelband, fué decisiva para toda la Etica antigua. Según Sócrates, el modo más seguro y aún el único para alcanzar la felicidad consistía en la sumision a la ley y a la moral. Así restituyó su derecho a la autoridad. El principio del iluminismo no admitía sumisión ciega a la autoridad constituída y exigía el examen de de las leyes; pero estas le-
+
+⟦Google⟧
+
+[^p61-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 62]
+
+res resistían a la prueba, se revelaban como exigencias de la razón, en lo que es conforme a un fin, y por eso se les debía prestar obediencia. Así demostró Sócrates la racionalidad de las leyes y su justa pretensión a una validez universal.
+
+Todas las corrientes del pensamiento de la sofistica concluyeron por renunciar a la verdad; pero Sócrates tenía necesidad de la verdad y creía que se la podía encontrar buscándola honestamente. Virtud es saber, y puesto que debe existir la virtud debe existir también el saber. Aqui se presenta por primera vez en la historia, con plena claridad, dice Windelband, la conciencia moral como postulado noseológico. Puesto que no es posible la moralidad sin el conocimiento, debe existir el conocimiento, y si el saber no existe debe ser buscado, debe ser conseguido con esfuerzo. Para Sócrates la esencia de la ciencia era la investigación de los conceptos. Buscó lá lógica y la encontró en el concepto; pero si definió la ciencia como pensamiento con-⟦ceptal no fijó el límite de su aplicación. En su opinión,⟧ ese fin no se podía satisfacer sino en el campo de la vida práctica. La ciencia era, según su forma, organización de conceptos; pero según su contenido era Etica. Sócrates, apartándose de los problemas relativos a la Naturaleza, refugiándose en el dominio de la moral, admiraba sin embargo, la sabiduría del orden en el mundo, la conformidad de las cosas a un fin.
+
+Sócrates afirmú el caracter divino de la razón; y después de haber hecho ver la presencia de la divinidad en nosotros, por ese medio, procuró reconocer igualmente lo divi-11o en el Universo. Ritter cree que, al encontrar Sócrates en nosotros lo divino en la razón, estaba persuadido de que no solo el hombre obedece a la razón, sino que todo el Universo está sometido a su ley. De allí su persuación que to-San do en el mundo se acuerda con la razón que está en noso-⟦net/2027/uc1.$b44069 tros, que todo ha sido hecho según fines racionales y revela⟧ la razón universal de donde emana y en la que vire nuestra alma racional, y que el verdadero valor y el verdadero principio de las cosas consiste en su fin racional. Por eso sostiene Ritter, comoevidente, que todo el objeto de Sócrates era el de llegar al conocimiento de lo racional, de lo racional puro
+
+⟦ttps://hdl⟧
+
+⟦Google⟧
+
+[^p62-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 63]
+
+y de reducirlo a acto, de practicarlo, Sócrates hacia ver que la razón dominaba a la Naturaleza y que todolo que había de natural servía a fines racionales. Su pensamiento fundamental era que lo divino es la razón pura, que debe ser reverenciada por nosotros como principio de todas las realidades y de todos los fenómenos y como término de toda la actividad humana. El fin de la vida era para él la racionalidad o la sabiduría del hombre. La actividad moral del hombre tenía por fin el conocimiento; y el verdadero conocimiento era el del bien, el conocimiento de la razón o de Dios que rige el mundo. Para Sócrates, el verdadero saber, que es lo mismo que la acción moral, es un saber desconocido de los mortales, el perfecto conocimiento del bien. Fouilleé confirma estas ideas de Ritter cuando compara a Anaxágo-⟦ras con Sócrates. Anaxágoras dice Fouilleé, se había dete-⟧ nido en la noción de una inteligencia que era sobre todo motriz, pero Sócrates se elevó a la de una inteligencia verdaderamente ordenadora, y de allí a una idea superior todavía, a la idea del bien. La verdadera y primera causa es el bien mismo.
+
+Fouilleé demuestra además, como Sócrates pasa del orden lógico al orden moral, como concilia la naturaleza con la ley y la ciencia con la libertad. El orden de las nociones, de los géneros y de las especies, que la dialéctica establece, colocando lo mejor antes que lo peor, el bien más general, antes que el bien particular y más restringido; este orden lógico, que constituye la ciencia, pasa necesariamente a las acciones y se convierte en la virtud. Lo que es racional es la ley; lo que es racional es también la naturaleza; de cualquier parte que venga un orden, si está fundado en la fuerza y no en la persuación, es un acto de violencia. Violencia y azar son los dos extremos opuestos a la ciencia. Sólo la ciencia regla sin coacción.
+
+⟦San⟧
+
+Con Sócrates se establece definitivamente el criterio ló-⟦Calıtornla. 2077/1c1 8944969 gico para apreciar la realidad, lo que Pastore llama el pan-⟧ logismo explícito o reflejo, en oposición al panlogismo alógico e ilusorio de los países orientales. El panlogismo explícito y reflejo se presenta en la Grecia, afirmado por el naturalismo material y abstracto de la escuela jónica y pitagórica, que pasa después al idealismo abstracto de la escue-
+
+⟦Google⟧
+
+[^p63-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 64]
+
+la eleática, al considerar lo múltiple y variable como una pura ilusión de los sentidos e intuir el concepto del ser inmutable y uno, para aproximarse a la visión refleja del panlogismo con la idea de los atomistas y sobre todo con el Nous de Anaxágoras, inteligencia ordenadora, que es simplemente la lógica inmanente en el Universo, entendida en el modo objetivo propio de casi todos los filósofos griegos. Pero en Anaxágoras la misma realidad, y quizas si el Nous, es considerada como realidad natural, no es distinta de la natural y mucho menos puesta fuera de los límites de ella. Esta filosofía dice Pastore, conoce, pero no reflexiona sobre el conocer; no conoce el conocer; no tiene conciencia de sí. Sócrates es el primero que se eleva del conocimiento natural al conocimiento conceptual, delos objetos a los conceptos, esto es, a los objetos ideales, en suma; trasciende de la objetividad natural a la objetividad ideal, sin trascender de la realidad. En los filósofos preplatónicos, agrega Pastore, la objetivación universal del Logos, como principio demiúrgico de todas las cosaș, es ya una verdadera filosofía, es decir, un esfuerzo del pensamiento para darse una explicación racionalmente aceptable del Universo.
+
+Pero con Sócrates no solo se eleva el pensamiento de su forma concreta a su forma abstracta, sino que se introduce, como elemento nuevo, la finalidad racional, convirtiéndose el orden lógico en orden teleológico creado por la razón. La ciencia teórica se convierte en ciencia práctica; el orden moral se establece, pero subordinado a la ciencia: el fin de la conducta es el bien; pero el bien es la felicidad y la felicidad consiste en el saber; la sabiduría es la virtud por excelencia. El intelectualismo helénico abarca de ese modo la ciencia del ser, como la del conocer y el querer. El hombre es un ser racional por excelencia y la razón es el principio de toda in-San Diego teligibilidad como de todo ser y de todo morimiento. El panlogismo se convierte en un sistema universal. ⟦Calltornla _net |2077/uc1 5144969 Sócrates, dice Fonsegrive, es el primer filósofo que ha⟧ tenido, sobre todo, preocupaciones morales. Ha tratado de resolver por la finalidad el problema del Universo; pero tratando de explicar el mundo porsu fin, quería, en último análisis, explicarlo por el pensamiento. Parece así, que se-⟦Universitv⟧ gún Sócrates, la voluntad no juega ningún rol en la adqui-
+
+⟦generated nttps://hdl|⟧
+
+⟦Digitized by Google⟧
+
+[^p64-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 65]
+
+sición de la virtud y que todo se reduce en el hombre a funciones intelectuales. Todo se explica por la idea, el mundo primero, el hombre en seguida y, en el hombre, todos sus actos. La idea general, fin de la vida, nos es impuesta por la Naturaleza; las ideas particulares, fines de los actos, nos son impuestas, a cada instante, por la conformidad que nuestra inteligencia percibe entre el fin general y cada una de ellas. El intelectualismo socrático, parece pues conducir a un determinismo muy riguroso. Si el desorden existe en el mundo; si hay todavía malos, es que el bien no es conocido, que la idea no es pensada; es preciso, por consiguiente, instruírse, hacerse hábil en la dialéctica, a fin de llegar a ser mejores y más felices. Sócrates es el primero de esos teóricos que sostienen que la instrucción no puede dejar de suprimir la inmoralidad.
+
+Fonsegrive cree encontrar un estado de indeterminación muy próximo al libre albedrío en la actitud que Sócrates atribuye al sabio dominándose, reflexionando, buscando libremente la ciencia y poniendo así término a la duda entre esta resolución y la de entregarse al torrente móvil de las sensaciones; pero esta indeterminación, dice Fonsegrive, ni Sócrates, ni griego alguno la habría decorado con el nombre de libertad. La libertad para ellos fué una cualidad que se adquiría, no el poder por el que se la puede adquirir.
+
+Los discípulos de Sócrates, llamados semisocráticos, constituyeron las tres escuelas Cínica, Cirenaica y de Me-⟦gara..⟧
+
+⟦Antistenes (444 a. d. J. C.) funda la escucla cínica, cu-⟧ yas disposiciones y fondo de su filosofía caracteriza Gomperz en los siguientes términos: sed insaciable de libertad, sensibilidad profunda de los males de la vida, inquebranta-⟦https://hdl.handle.net/2027/ucl.$b44069 / Public University of Calltornia, San Diego ble confianza en la soberanía de la razón y en su eficacia y,⟧ como consecuencia, inconmensurable desprecio por todos los ideales tradicionales. Jamás encorvados y jamás sometidos al Jugo del deseo, no honran sino un poder: la inmortal reira Libertad. Para los cínicos el ser supremo no era ni un Padre que bendice, ni un juez que castiga; era cuando más un sabio ordenador del Universo en vista de un fin.
+
+Antístenes colocaba el verdadero valor del hombre en el uso de su razón, y este uso legítimo en la independencia de
+
+⟦Digitzed by Google⟧
+
+[^p65-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 66]
+
+espíritu. Esta independencia o más bien esta licencia, como dice Ritter, constituía el objeto de su ambición, porque reducía lo más posible sus necesidades. Antístenes parece haber resumido su doctrina sobre el placer y la pena, diciendo: que no se debe correr tras los goces que relajan y enervan el alma, sino que es preciso buscar solo los que resultan del trabajo y de la actividad. En este sentido podía bien llamar a la fatiga o al trabajo y la pena un bien; pero solamente, como observa Ritter, en tanto que son medios que conducen a placeres sanos, a la riqueza y a la libertad del alma, que nos garantizan la verdadera virtud y nos hacen semejantes a los dioses.
+
+Los cínicos querían que el sabio no sufriese ninguna influencia del exterior y que fuese independiente de los accidentes de la fortuna. Despreciaban el orden social y de ese desprecio nacía su impudor, enemigo de toda conveniencia. De allí también el orgullo de estos sabios embriagados de la libertad y de la independencia moral. [Ritter]. Weber, los compara con Rousseau. A la vida pulida y civilizada, dice Weber, esos Rousseau de la antigüedad sustituyen el estado de naturaleza; al patriotismo, el cosmopolitismo. Es el principio de la autonomía individual, proclamado por los sofistas y por Sócrates, que de la teoría pasa a los hechos.
+
+Sin embargo no todos los cínicos son radicales, porque su sentimiento de libertad es más bien negativo que posi-. tivo; nace como fruto de la disolución, del desprestigio de la ley y de la autoridad y como una reacción contra el concepto tradicional de la felicidad fundada en la obediencia.
+
+Tanto en el cinismo de Antistenes cuanto en el hedonis-⟦Domair⟧ mo de Aristipo, el espíritu griego tiende siempre a sacar la mayor suma de provecho que ofrece a la felicidad del individuo la manera como la civilización ordena la sociedad. Si la virtud debía hacer feliz, como creía Sócrates, de un modo seguro y en todas las circunstancias, ella debía consistir en aquella norma de vida que hiciese al hombre independiente, hasta donde fuese posible, de las viscisitudes del mundo. Pera toda necesidad y todo apetito son un lazo, que hace al hombre dependiente del destino, por cuanto su felicidad o su infelicidad son relativas a la circunstancia de ser o no ser satisfecho su deseo en el curso de la vida. Sobre el mundo ex-
+
+generated
+
+⟦Google⟧
+
+[^p66-1]: Original from Digitized by ( UNIVERSITY OF CALIFORNIA
+
+[p. 67]
+
+terior no tenemos ningún poder; pero lo tenemos en cambio sobre nuestros deseos. Nos exponemos a • los poderes extraños, tanto más cuanto más deseamos, esperamos o tememos de ellos; todo deseo nos hace esclavos del mundo externo. La virtud que hace al hombre independiente, no puede consistir sino en la supresión de los deseos y en la limitación de las necesidades al mínimo posible. La virtud consistía así en no tener necesidades, consecuencia perfecta. deducida por los cínicos desde el punto de vista del eudemonismo, y al mismo tiempo tal que debía ser aceptada especialmente por los hombres de posición modesta en la vida, como observa Windelband.
+
+Pero mediante la radical elaboración de este pensamiento, los cínicos llegaron a una posición puramente negativa ante la civilización; porque reduciendo la medida de las necesidades a lo absolutamente inevitable, repudiaron todos los bienes de la civilización, llegando a un ideal de estado de naturaleza, en el que la libertad tenía que restringirse grandemente por la eliminación de todos los valores superiores y porque la misma exclusión de los bienes materiales tendía a reducir la libertad que es acción, a la libertad como idea y y sentimiento estériles.
+
+Para Windelband esta filosofía en conjunto, es una característica del tiempo, documento de un modo de pensar, que se contrapone, sino hostilmente, con indiferencia, a la sociedad griega, y que ha perdido toda facultad de comprender sus bienes ideales; lo que hace ver, en lo íntimo, cómo la sociedad griega de aquel tiempo se disgregaba en los individuos.
+
+El individualismo cínico es por consiguiente, un resultado de la disolución social y no un organismo engendrado por un sentimiento positivo de libertad moral.
+
+En perfecta antítesis con el cinismo se presenta el hedonismo, la filosofia del goce sin prejuicio. Da la imperfección de la doctrina socrática, Aristipo de Cirene (435 a. d. J. C.) parte para seguir la opuesta vía: a él le fué fácil ofrecer al concepto del bien un contenido claro y simple: el del placer. Para Aristipo la virtud consiste en la capacidad de gozar. Cada uno, ciertamente, puede y sabe gozar; pero sólo el hombre culto, el sabio, el inteligente sabe gozar bien. Aris-
+
+⟦Google⟧
+
+[^p67-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 68]
+
+tipo, en oposición a Antístenes, buscaba una liberación de los dolores impuestos por la organización social, mediante los goces, huyendo de toda limitación que coactase su liber-⟦tad de gozar. (Windelband-Ritter)⟧
+
+Se encuentra así en Aristipo, como en otros socráticos, una tendencia decidida a la independencia del espíritu, tal como puede fácilmente resultar de la imitación un poco estrecha de la verdadera libertad de espíritu socrático. Pero Aristipo creyó apercibir otra vía, parallegar a la independencia del espíritu, que la que se había seguido rompiendo con todos los placeres; él quería permitir el placer y gozar de él, pero no el deseo de los goces que nos hace esclavos del temor y de la esperanza. Así Aristipo enseñaba que no se debía desear sino lo que se poseía; porque todos los goces se asemejan y ninguno es más grande que otro y no se debe dejar dominar por ningún goce sensible. Conduciéndose el hombre toda su vida conforme a ese principio, se muestra indiferente para todos los bienes de los que no tiene necesidad en el momento mismo. (Ritter).
+
+La independencia del individuo con relación a la sociedad y a la costumbre fué para Aristipo y los cirenaicos un fin buscado, como para los cínicos, pero con un espíritu contrario, como observa Renouvier; es decir, con la voluntad no de librarse de las cosas, sino de sacar partido de ellas; no dejándose dominar por ellas, sino para subordinarlas y explotarlas mejor; y con la resolución, no de limitar sus deseos y de simplificar su vida, sino de procurarse todos los placeres posibles que se pueden acordar entre sí y no son causas previsibles de dolores futuros.
+
+Los cirenaicos sostenían, como Sócrates, que el carácter principal de la virtud es la racionalidad; pero como no po-San Diego / Public dían determinar la esencia de la racionalidad sino de una manera muy conforme al fin supremo que establecían, la virtud no podía tener sino un sentido negativo, desde que ⟦, $b44069|⟧ enseñaban, sobre todo, a evitar cuanto puede turbar el placer y a libertarse de vanas opiniones, entre las que ponían la envidia, el amor apasionado, el temor a ia muerte y otras superticiones. Ritter hace notar a este respecto, que la opinión del cirenaico Teodoro, sobre que el sabio debe emanciparse de toda supertición, debía naturalmente formar par-
+
+generated
+
+⟦Digitized by Google⟧
+
+[^p68-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 69]
+
+te de una doctrina que no encontraba goce alguno en lo bueno, ni en lo bello; sino solamente en la presunción orguliosa de bastarse a sí mismo.
+
+Al rededor de Euclides, (450-374 antes de Jesucristo) discípulo de Sócrates, se fundó en Megara, una escuela, de carácter científico, que dió predominio a la idea de orden y siguió las doctrinas del maestro, ocupándose también de la filosofía eleática. El carácter de la doctrina megárica, se resume, según Ritter, en que a las opiniones eleáticas seagrega la conciencia socrática del bien moral y de las leyes del pensamiento científico.
+
+Gomperz, refiriéndose a los megáricos y a los filósofos de la misma tendencia, entre los que incluye a Antístenes, dice lo siguiente respecto a ese carácter científico de la escuela. El fin último de todo esfuerzo científico es el de conocer el orden del universo en el sentido mas extenso de la palabra; esto es el de penetrar las leyes de la sucesión y de la coexistencia de los fenómenos, tanto físicos como síquicos. Se puede afirmar, que la doctrina de Antístenes constituye un paso dado en esta ⟦Google-digitized vía, porque dirige todo su esfuerzo, no sobre los simples ele-⟧ mentos, sino sobre las combinaciones de los hechos de experiencia y porque relega a un plano inferior la cuestión ultraesperimental de su esencia.
+
+Como se ve, el movimiento socrático tiende esencialmente a restituir a la idea de orden su antigua autoridad imponiendo la ley con la fuerza divina atribuida a la razón. Elacio rnalismo, aún cuando no elimina el principio de crítica y no excluye la libertad en este dominio, reconoce en el poder ordenador de la razón el rol que la ciencia y el determinismo absoluto le conceden haciendo del principio de causalidad el principio único de inteligibilidad y de acción. La libertad como fenómeno del espíritu se mantiene, sin embargo en el orden estético, que el genio griego no incluye en el debate de los problemas filosóficos, porque no lo reduce a ⟦Calitornia, .S044069 simples conceptos. Y el ideal estético penetra en el domi-⟧ nio de las ideas morales que no pueden escapar de la im-⟦ttps://hdl.handle.net/2027/ucl posición de un ideal de felicidad como fin próximo o remoto⟧ de la actividad humana. Ese ideal es de orden, ciertamente; pero no se confunde con el orden puramente lógico, porque contiene siempre un factor de independencia, que aún
+
+⟦Google⟧
+
+[^p69-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 70]
+
+cuando no pueda llamarse libertad en el sentido de una vo-
+
+⟦VI⟧
+
+⟦Windelhand-Martín-Janet y Seailles-Lange--Renouvíer-Ritter— Pasto-⟧
+
+⟦re-Milhaud -Gomperz — Weber -Fonsegrive-Ob. cit.— Foullée.-La⟧
+
+Philosophie de Platon 1888-Obras completas de Platón traducidas
+
+por Patricio de Azcárate. Madrid 1871.
+
+Con Platon (428-347 a. d.J.C.) el proceso filosófico llega a un período de sistematización, en el que el problema del conocimiento adquiere una solución más perfecta y el principio • de orden se eleva a la categoría de principio universal de explicación. La idea de la materia, profundizada en la escuela de Mileto, es reducida a simple virtualidad en una concepción matemática superior y se precisa la noción de una inteligencia activa y motriz, ordenadora primero y modeladora después, convirtiéndose en razón universal de toda realidad.
+
+En esta sistematización original de la filosofia platónica se encuentran la materia concreta de los jonios, la materia abstracta y virtual de los pitagóricos, la Inteligencia motriz y ordenadora de Anaxágoras, los números matemáticos y lógicos, primer grado de lo inteligible, el Amor de Empedocles, la Unidad de Parménides, último grado de lo inteligible, ⟦nttps://hdl.handle.net/2027/ucl.$b44069/ Public Domail University of California. San Diedo throuah el Bien de Sócrates, idéntico a la Unidad, pero que tiene ade-⟧ más un carácter moral y que es la causa final de la Inteligencia y del Amor. Se encuentran también la razón universal y el dinamismo de Heráclito, con el que explica los principales rasgos de su teoría del mundo, considerado como un ser perfectamente viviente, animado y encerrado en el flujo constante de la contingencia y destinado a manifestar en sí mismo, en cuanto es posible, la idea racional mediante el orden y la medida, y, por último, la pluralidad formal de los Megáricos, pero con un principio de actividad y de vida expan-⟦siva.⟧
+
+Generated at
+
+⟦Google⟧
+
+[^p70-1]: Original from Diaitized by UNIVERSITY OF CALIFORNIA
+
+[p. 71]
+
+Platón recibió esa múltiple influencia, especialmente la pitagórica; pero se inclinó mas aun á la doctrina eleata, siguiendo con extremado rigor la idea que constituía el alma de esta filosofia: que solo lo perfecto existe realmente, y procurando hacer ver además, cómo, en lo perfecto, el ser y el saber son una misma cosa y cómo se opera la conciliación de todo lo que nos parece diferente. Pero el genio de Platón convirtió la unidad estéril de los eleatas en una fecunda unidad, introduciendo en ella un elemento original, la Idea, que ya había sido vislumbrada por Euclides.
+
+Euclides, discípulo de Parménides y de Sócrates, sostenía que lo uno y el bién eran la misma cosa; que la Unidad era buena y el bien uno, y Platon, aunque no interpretaba la unidad como Euclides, admitía también la identidad del Bien, de la Unidad y del Ser; pero introducía como término medio, que concilia todas las oposiciones de los sistemas, la Idea, forma del ser, del pensamiento y de la actividad, al propio tiempo, relación y armonía de todos los elementos introducidos en el pensamiento para hacer inteligible la realidad. Para Platon la Unidad era el Bien; las Ideas eran formas del Bien, perfecciones que expresaban la cualidad y la esencia y no solamente la cantidad. Lo Uno, aspiración de todo nuestro ser, lo Uno universal, es no solo la realidad concebida, como envolviendo todo lo positivo de los seres, es decir concebida como Bien, sino que es también lo Perfecto. De allí el principio que «todo lo que existe tiene una Idea, que lo hace inteligible; todo tiene una relación con la inteligencia »; principio que, para Platón, llega a ser idéntico a este otro: «todo tiene una relación con una unidad suprema, envolviendo la perfección de cada cosa y cuyo nombre mas elevado es el ⟦Bien ».⟧
+
+Fouillée establece, ademas, que el principio supremo para ⟦San Diego .handle.net/2027/uc1.$b44069 / Public Platon, no es el pensamiento, sino la Unidad, colocada sobre⟧
+
+la Inteligencia y la Esencia. La Unidad es mas que el sujeto University of California, puro y el objeto puro, conteniendo en sí todo lo real del pensamiento. De allí que el principio mas general del platonismo sea el principio de razón suficiente de las cosas, el principio de inteligibilidad o de orden, que sobrevive a todos los sistemas, que engendra la variedad misma en el seno de la unidad, que subsiste no obstante nuestra impotencia para
+
+⟦Digitzed by Google⟧
+
+[^p71-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 72]
+
+explicar los mas difíciles problemas y que constituye como una ciencia innata, que no puede destruir todas nuestras ignorancias.
+
+Afirmar la eterna unidad del ser y de la razón de ser es, segun Platon, afirmar el Bien, que tiene, por doble caracter, el ser absoluto en su existencia, de cualquier manera que se le presente, y el ser perfecto en su esencia. Afirmando la razón suficiente y una, Platon la afirma, a la vez, como razón del ser, razon del pensamiento y razon del amor. Lo que así afirma, agrega Fouillée, es el orden universal, es la universal armonía, es la unidad de todas las perfecciones, es el supremo ideal, es el Bien, en una palabra. Para Fouillée, la eterna unidad del pensamiento y del ser se convierte en lo supremo amable de Platon. No podemos concebirla, sin amarla con un amor que excluye todo límite; no podemos amarla sin apetecerla, sin afirmarla como posible para nosotros, sin afirmarla como ya real en sí, estando fundada toda posibilidad sobre lo real. La unidad del ser y del pensamiento es, como lo decía Platon, «el bien ⟦Google-digitized⟧ que toda alma desea», y Platon mismo parece haber admitido que nuestra creencia metafísica en la Idea de las Ideas, ⟦•h = 5 7⟧ es en el fondo un movimiento de deseo y de amor.
+
+Esta unidad perfecta del pensamiento y del ser, de la inteligencia y la esencia, de la razón y el amor, es, en concepto de Fouillée, lo que Platón llama el Bien, fin absoluto, ideal o real, que entraña la causalidad universal y la razón última de todo ser. Así, bajo el punto de vista platónico, el orden fisico, el orden logíco y el orden metafísico tienen su última unidad en el orden teleológico y moral como en el pensamiento socrático. Ese orden, que aspira a la Unidad, que es el Bien, tiene por principio la armo-⟦San Diead / Public⟧ nía en la vida y en el pensamiento, una armonía de finalidad ética, alcanzada por la razón o la Idea, y por eso se ha calificado la doctrina platónica como un racionalismo ⟦California, $b44069|⟧ esencialmente ético o práctico, en oposición al racionalismo esencialmente teórico de Demócrito.
+
+Si el Bien es la unidad pefecta y fecunda que abarca toda la realidad, la Idea, forma de esa perfección, ha sido concebida por Platón como un principio de unidad. Para este filósofo, hay un principio de determinación de los seres,
+
+⟦Digitized by Google⟧
+
+[^p72-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 73]
+
+que es la Esencia, que hace que lo que es, es y cuyos cáracteres son la universalidad, la pureza y la unidad. No hay esencia ⟦verdadera sino en la unidad; no en la unidad vacía y muer-⟧ ta, producida por la eliminación de toda cualidad, sino en la unidad infinitamente rica, producida por la elevación de una cualidad a su más alto poder. En esa unidad desaparece toda contradicción y toda limitación y se alcanzan la pureza y la universalidad. Los principios de las formas, las causas esenciales encierran la identidad absoluta, que se expresa en la lógica por la absoluta afirmación. Por estos principios es que los seres particulares son idénticos a si mismos y distintos de otros seres. Ahora bien; esos principios de identidad y de distinción, de esencia y de forma, son las Ideas. La Idea, agrega Fouillée, por lo mismo que es un principio de esencia, ha parecido también a Platón, como un principio de perfección. La verdadera razón de las cosas es, pues, lo perfecto o la Idea, que es, a la vez, causa y modelo o causa ejemplar; y como lo perfecto es lo que constituye lo real, y el Bien es la fuente de toda existencia, los diferentes aspectos del Bien, con relación al mundo en que se refleja, las apariencias diversas de la Unidad, con relación a la multiplicidad, son los tipos eternos, principios de perfección, causas ejemplares de todas las cosas; son las Ideas.
+
+Se ha caracterizado la filosofía de Platón atribuyéndole por objeto el conocimiento del Ser, del Bien y de la armonía de las cosas; pero más propiamente podría llamársele la filosofía del orden; no solo porque el principio lógico de la razón suficiente, el principio de la inteligibilidad de las cosas, que es el principio del orden, domina en toda la doctrina platónica, sino porque las ideas de Ser, de Esencia, de ⟦Domair⟧ Unidad, de Bien, como las de Verdad, Belleza y Justicia, que Platón las asocia constantemente, se reducen a la idea de ⟦San Diego .net/2027/uc1.$b44069 / Public orden, sea fisíco, lógico, metafísico, teleológico o moral.⟧
+
+La Idea, que Platón introduce como término medio o vínculo destinado a conciliar oposiciones e integrar la explicación de la realidad y la realidad misma, no es más que un principio sintético de ordenación gradual, que penetra todas las cosas y las comprende en su unidad universal.
+
+El Ser, para Platón, no es una abstracción pura, sino el fondo de realidad y verdad que se encuentra en todas las
+
+⟦Generated https://hd⟧
+
+⟦Digitzed by Google⟧
+
+[^p73-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 74]
+
+cosas, pero el Ser y la Idea del del Ser se confunden. Todo
+
+lo que existe, existe porque participa de la Idea del Ser. Es-
+
+ta Idea no es simplemente una cualidad general, sino la sus-
+
+tancia absoluta de lo que todo lo demás es una imitación.
+
+El Ser no es pues la materia; lejos de constituir la mate-
+
+ria, no es sino una condición de ella, y aunesta condición no
+
+es absoluta, sino relativa a la imperfección de los seres con-
+
+⟦tingentes. El Ser verdadero es realmente puro y perfecto⟧
+
+cuando es independiente de toda materia. Por consiguien-
+
+te, para Platón, como para Aristoteles, es en la forma en
+
+donde es preciso buscar los verdaderos principios de las co-
+
+sas. Pero, según Platón, la forma esencial de las cosas es
+
+la Idea: el Ser se confunde con la Esencia y la Idea.
+
+Conforme a estas afirmaciones de Fouillée, el Ser consis-
+
+te en lo que la Razón percibe como nota constante en medio
+
+de la multiplicidad y variedad de la experiencia sensible; es
+
+⟦la condición esencial de las cosas; es lo que determina • Su⟧
+
+Unidad y su Idea. El Ser se refiere a la Esencia y esta a la
+
+Unidad y a la Idea. La Idea traduce la realidad; es la rea-⟦States, Google-digitized lidad generadora, que, en su constitución, comprende lo uno⟧
+
+y la múltiple, lo racional y lo sensible, la realidad universal, on 2025-07-23 06:57 cuya existencia y desarrollo engendra y explica al propio
+
+tiempo.
+
+Resulta de allí, que el estudio de la filosofia platónica se
+
+concentre y culmine en el estudio de las Ideas, cuya natura-
+
+leza caracteriza la formación y rumbo del pensamiento en ⟦San Diego through HathiTrust United esa filosofía, El problema platónico, dice Martin, es el de⟧
+
+convertir las reuniones ininteligibles de cualidades, sin cons-
+
+tancia y sin principios, en asociaciones inteligibles; es tam-⟦https://hdl.handle.net/2027/ucl.$b44069 / Public Domain| bién el de reducir lo múltiple a lo uno, como en la filosofía⟧
+
+anterior; solo que aqui se trata de una multiplicidad cualita-
+
+tiva y de una unidad cualitativa. Esta multiplicidad cuali-
+
+tativa la forman los individuos, que son en número infinito ⟦at Universitv ot Calltornia. y esta unidad cualitativa es el género. Las ideas distintas⟧
+
+y múltiples se unen y su agrupación constituye la especie, el
+
+típo, realizándose mediante el principio de identidad, pero
+
+no en virtud de una necesidad lógica, sino de una necesidad
+
+moral. Una especie es un conjunto de Ideas, que concurren
+
+a un mismo fin o a un mismo bien; el Bien es el principio
+
+Generated
+
+⟦Google⟧
+
+[^p74-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 75]
+
+de asociación de las Ideas; las que se unen son medios con relación a un mismo fin o a un mismo Bien.
+
+Este principio de finalidad, introducido por Sócrates y precisado por Platón, subordina la naturaleza de la Idea a la del Bien universal, mediante una gradación de bienes y de Ideas adecuadas. Platón coloca en la base de estas Ideas o esencias de las cosas al Bien, como principio primero de inteligibilidad, principio ininteligible e indefinible al que Platón, por una extraña paradoja, como dice Renouvier, llama el Bien, del que la justicia y demás virtudes derivan su orígen y todas sus cualidades:
+
+Es el conocimiento del Bien, en último análisis, el que ofrece la clave de todo este sistema filosófico, que, en la persecución de la unidad absoluta, como aspiración imperiosa del espíritu humano, llega al Bien absoluto, que es la absoluta realidad, la realidad perfecta, Dios. Pero Platón no define el Bien, al contrario, lo cree indefinible, y de la vaguedad en que dejó este principio, que encierra y concilia las contradiciones en que está envuelto el pensamiento, nacen sus diversas interpretaciones.
+
+La Idea del Bien se encuentra asociada constantemente a las Ideas de Verdad, de Belleza y de Justicia, como se ha dicho. Se puede suponer, al menos, dice Ritter, que, para Platón, toda ciencia tiene el bien por objeto, puesto que lo verdadero es el bien y el bien es lo verdadero. La ciencia parece asi como reguladora de la conducta, y eso explica el caracter de la dialéctica platónica, que debe indicar a cada ciencia particular su objeto, Para Platón, la dialéctica es la ciencia fundamental, es la Filosofía, la ciencia que, guiada por la idea del bien, ordena todo, puede hablar de todo, responder a todo, y que domina, no solo el pensamiento, sino tambien la expresión legítima del pensamiento por la palabra. Esta es la verdadera ciencia cuya fuente es el amor a lo bello y al bien.
+
+A Platón lo bello y lo bueno se le ofrecen siempre estrechamente unidos, segun la manera antigüa de concebir esas dos cosas. La belleza misma, que trasciende de las bellezas particulares, es para Platón el objeto propio de la ciencia, por su carácter esencial. La ciencia una y divina tiene, no solo porobjeto lo bello y el Ser, sino que es aun lo bello y el Ser.
+
+⟦Google⟧
+
+[^p75-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 76]
+
+Pero el Bien no es, sin embargo, la ciencia, ni la verdad, ni el Ser, sino que es superior a ellos, que son solo especies de bien, como la belleza. No encontramos, dice Ritter, ninguna expresión más científica sobre la idea del Bien, que aquella en la que Platón lo pinta como la unidad que da verdad y conocimiento a todo Ser, y que está en la concepción de su Idea el no poder ser conocida netamente y en si, por lo mismo que domina la verdad o el conocimiento.
+
+Platón niega, por otra parte, que el Bien sea el placer o la inteligencia. Lejos de ser una causa, el placer es esencialmente un efecto. Segun este filósofo, cuando la armonía llega a disolverse en los ammales, en ese momento la natutaleza se disuelve también y el dolor nace; cuando la armonía se restablece y vuelve a entrar en su estado natural, el placer nace entonces. El placer, cosa indefinida en sí, depende pues de la mezcla, más o menos armoniosa, de elementos del organismo, en proporciones definidas. Cuando esa mezcla está en movimiento para disolverse, hay dolor; cuando está en movimiento para restablecerse, hay placer; cuando es estable no hay placer ni dolor, sino un género de ⟦e-digitized⟧ existencia más próxima a la vida divina, superior a las impresiones variables de la sensibilidad. El placer y el dolor son los efectos de nuestra imperfección. Lo que constituye el verdadero placer no es su intensidad, sino su cualidad.
+
+Si el Bien no es el placer, no es tampoco la inteligencia; porque una vida toda razón, de la que estuviese excluido todo elemento extraño, sin placer ni dolor, una vida de insensibilidad y apatía no puede satisfacer al corazón; aunque superior a la vida de placer, sería incompleta e insuficiente.
+
+No es pués, en un principio único, sino enel género mixto en el que se puede encontrar el soberano Bien para el hom-⟦San Dledo⟧ bre, dice Platón. El Bien, en si, es, sin duda, infinitamente simple, pero es también infinitamente rico en determinaciones; lo que lo expresa mejor, no es una cosa exclusiva, California, como el placer solo o la inteligencia sola, sino una combinación armoniosa de la inteligencia y el placer. La dualidad de esta mezcla expresaría los atributos varios del Bien; la armonía que presidiese a la mezcla correspondería a la unidad del Bien. Esta mezcla, en proporciones de-⟦Generated ttps://hdl.hand⟧
+
+⟦Google⟧
+
+[^p76-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 77]
+
+finidas, sería, por tanto la imitación más fiel de la Idea. Unamos, dice, los conocimientos mas elevados a los placeres mas puros; que la sabiduría presida a esta unión; que sepa- i re todo lo que es excesivo e intemperante y esta mezcla ideal sería como una especie de mundo incorporeo propio para gobernar bien un cuerpo animado.
+
+Comentando estas ideas expresadas por Platón en el Filebo, dice Fouillée: como se ve, el soberano Bien no es otra cosa que el mundo inteligible mismo en toda su variedad y toda su unidad. Así lo revela Platón en la escala en la que clasifica los bienes, en la que estos están colocados en el siguiente orden: 1º la medida, el justo medio y todas las demas cualidades semejantes, que se deben considerar como teniendo una naturaleza inmutable; 2° la proporción, lo bello, lo perfecto, lo que se basta a si mismo y todo lo que es de este género: es decir, todo lo que resulta de la aplicación de la unidad o la variedad; 3° la inteligencia y la sabiduría; el 4° rango pertenece a las ciencias no filosóficas, a los conocimientos verdaderos, a las artes; en el 5? rango están los placeres puros, y en el 6° los placeres mezclados,
+
+Después de lo expuesto, cabe preguntar ¿en que consiste el Bien para Platón? La verdad es, dice Fouillée, que el Bien, por su carácter universal, es indefinible y no se le puede definer por el placer, ni por la felicidad, ni por la inteligencia, ni por lo bello, ni por lo justo, ni por el Ser, ni aun por el Orden; porque la idea de orden no se comprende sin la idea de un fin, en vista de que las cosas son ordenadas, y de un tipo de unidad que ellos se esfuercen por expresar en el seno de lo multiple. Llamar al Bien el fin universal, es calificarlo en su relación al movimiento del mundo sensible; no es definirlo, ⟦San Diead / Public⟧ porque queda por saber cual es este fin al que tiende el mundo. Decir que el Bien es la Unidad, es expresar el carácter ⟦• net (1977/uc1.5144969 dialéctico con el que se le puede reconocer; pero no es definir-⟧ lo; es mas bien declararlo indefinible. Fouillée cree que el Bien es indefinible, como absoluta universalidad y como absoluta individualidad al mismo tiempo; sin embargo cree, con Platón, que el Bien, si no es el Ser en su sentido amplio ⟦Universıtv⟧ y vacio, es el Ser en su plenitud; es el último término de la dialéctica, que es, en sí mismo, su propia esencia.
+
+⟦Generated nttps://hdl|⟧
+
+⟦Digitzed by Google⟧
+
+[^p77-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 78]
+
+Si no podemos percibir el Bien bajo una sola Idea, dice Platón en el Filebo, podemos percibirlo bajo tres Ideas: las de la belleza, del orden y de la verdad. Platón da así al Bien todos los nombres que le había quitado antes, porque quería considerarlos, no ya como simples calificaciones incompletas del Bien, sino como una definición completa. Se puede decir, pues, sin contradidicción real, que el Bien es lo bello y que no es lo bello, que es y no es el orden, que es y io es la verdad, la inteligencia, la ciencia o mas bien, que es todo esto y alguna cosa de más todavía. Platón no lo dice, expresamente; pero de su doctrina sobre la Unidad se desprende, dice Fouillée, que Unidad y Bien son la misma cosa, La unidad perfecta del pensamiento y el Ser, de la inteligencia y de la esencia es, para Fouillée, lo que Platón llama el Bien.
+
+Pero esta unidad ¿es puramente formal? ¿no tiene por contenido algun sentimiento? Fouillée cree que Platón conprendió que el Bien en sí debe ser bueno por sí y para si, conciente y libre; pero que el término Bien que empleó no indica suficientemente el aspecto personal de la verdadera perfección, cuyo nombre es Bondad. Fouillée niega que el plato-06:57 nismo sea absolutamente un idealismo puro y abstracto, como se le ha acusado; porque si Platón se eleva desde el 2025-07 punto de vista del poder al del pensamiento y explica el universal dinamismo por lo universal lógico, no se detiene alli y coloca el primer principio del Ser sobre el del poder. Platón no habría reunido todas las cosas por el lazo de la pura identidad lógica, que excluye del seno de los seres la contradicción, sin enseñarnos cual es, en el fondo, su naturaleza; sino que, cuando Platón dice, que todo es inteligible y tiene una Idea, coloca la inteligibilidad verdadera, no en la ausencia de una contradicción, sino en la presencia de la razón sufi-⟦San Dieao / Public⟧ ciente, que es una razon amable y buena, una razón final de amor y bondad, penetrando asi en el dominio del Bien. ⟦net/2027/uc1.$b44069| Fouillée creé, que es a este principio supremo al que Platón⟧ llama la Unidad y al que llama también el Bien; y en ese Bien, que no es celoso de dones, percibe ya el Bien amante o la Bondad. De alli que la dialéetica represente, a la vez, la marcha del pensamiento y del amor y que el método dialéctico sea, en el fondo, un método moral. La ciencia del pen-
+
+generated at
+
+⟦Google⟧
+
+[^p78-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 79]
+
+samiento llega a ser así idéntica en sus principios a la del amor. Platón hace decir a Sócrates: "Yo no sé sino una pequeña ciencia, el amor". Y esta pequeña ciencia es todo; porque alcanza sola el fondo de las cosas, agrega Fouillée; porque solo por el amor desaparece esta ley de la impenetrabilidad que rige la materia y que excluye los seres unos de otros.
+
+La idea del Bien aparece en el platonismo como la idea fundamental de la Razón, única noción verdaderamente innata, a la que se reduce la noción de razón suficiente o de inteligibilidad con todas las operaciones intelectuales que dependen de ella. Absoluto, razón suficiente o inteligibilidad perfecta, son bajo el punto de vista platónico una sola y misma cosa; estableciéndose, de ese modo, en nuestro pensamiento, la suprema sintesis de la perfección, de la inteligencia y de la realidad. El Bien, hacia el que es preciso dirigirse con el alma toda entera para apercibirlo, como dice Platón, es el Dios viviente, Idea de Ideas, Ser de seres. Es lo ideal, pero también es lo real; es lo inteligible, pero también es el ser; es el bien únicamente, pero también es el bien expansivo y amante; es lo verdadero, es lo bello, el orden, la armonía, la unidad; es libertad absoluta, amor absoluto, absoluta beatitud; todos estos nombres, dice Fouillée, expresan una de sus faces, pero ninguna agota su infinitud. Sin embargo, si hay un nombre, concluye Fouillée, que le conviene más que ningun otro, porque ese nombre, abrazando todas las cosas, es vasto e infinito, no soló como el Ser y el pensamiento, sino como el amor, es el de Bondad, que Platón pronunció antes del Cristianismo y bajo el que ado-⟦ró la'perfección divina.⟧
+
+Pero estas diferentes donominaciones con que Fouillée ⟦San Dlead net/2027/uc1.$b44069 / Public caracteriza el Bien en el sentido platónico, no aclaran su⟧ significado, sino mas bien lo oscurecen, introduciendo en él los factores afectivo y del amor y de la libertad, que California, alteran el intelectualismo de esta filosofía, calificada de panlogista por Pastore.
+
+La bondad en el sentido de la benevolencia y de la beneficencia, dice Gomperz, no es extraña al principio del Bien platónico, pero no forma, de ningun modo, el centro propiamente dicho. Duración, estabilidad, bienestar, orden, su-
+
+⟦generated https://hd⟧
+
+⟦Digitized by Google⟧
+
+[^p79-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 80]
+
+bordinación a un fin, tales son sus elementos principales, ofrecidos en parte, por la filosofía de Anaxágoras y por el Pitagorismo. La escala de los bienes, que ofrece en el Filebo, pueden interpretarse aproximadamente asi: bajo el número 1, los principios de la matemática; bajo el número 2, su realización en el mundo de los fenómenos; bajo el número 3, las facultades intelectuales que la conciben, bajo el número 4, su aplicación al dóminio de los hechos objetivos y bajo el número 5, los efectos emotivos que produce por intermedio de las sensaciones estéticas elementales, que descansan, sobre todo en las relaciones de las formas. Pero, en la vaguedad de las expresiones con que Platón designa el Bien, este no es ya simplemente, como observa Gomperz, el princi-• pio de la salud humana, sino también y, al mismo tiempo, el de la salud cósmica. Esto no impide que predomine el intelectualismo en el ideal platónico del Bien, considerado esencialmente como un orden, como una sistematizacion de lo uno y lo múltiple, que, engendrada por la función propia del pensamiento, se eleva gradualmente hasta el orden y la sistematización universal del Bien absoluto.
+
+Para Pastore, la misma idea suprema del Bien no abandona su carácter de objetiva y simple logicidad, fuera de la que, segun Platón, sería absurdo concebir el Universo. El platonismo es para Pastore, la actuación más completa, que era posible en aquellos tiempos, de un ideal, elevado, aunque ⟦quimérico, de panlogismo. Su colorido ético no perturba⟧ absolutamente este fondo; porque si la idea del Bien es el principio de la explicación universal de las cosas, la propiedad esencial de este bueno y conveniente es la de ligar y contener todas las cosas; es lógica fuera de toda duda. Si así ⟦omai r⟧ no fuese, agrega Pastore, todas las cosas no podrían deducirse logicamente de ese principio.
+
+/ Public
+
+Es más aceptable esta interpretación del Bien platónico, que, siendo objeto del amor, no se confundía con él. El con-California, $b44069 cepto de Platón sobre la actividad afectiva, excluye esa conversión del Bien en Bondad, que afirma, un carácter esencialmente subjetivo. El placer para Platón, es la armonía o el equilibrio de los diversos elementos que componen al hom-⟦Universitv ot⟧ bre; es esa tranquilidad del alma, que ocupa un término medio entre el placer y el dolor sensibles; los verdaderos place-
+
+⟦enerated⟧
+
+⟦Google⟧
+
+[^p80-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 81]
+
+res son los que tienen un caracter contemplativo o estético, cuya privación no es sensible, ni dolorosa y cuyo goce va acompañado de una sensación agradable, sin mezcla alguna de dolor; placeres puros, derivados del libre juego de las facultades cognoscitivas, como ha calificado Kant a los goces estéticos.
+
+El concepto del amor tiene en la filosofía platónica un carácter de universalidad que abraza a la Naturaleza y al Espíritu. Es la armonía en una y otro, como dice Eriximaco en el Banquete. Todo lo que se hace de bueno en el Universo es su obra; porque introduce por todas partes el orden, el número y la armonía; y como el orden es el objeto de la ciencia, se puede decir, indiferentemente, que toda ciencia tiene por objeto las Ideas o que ella tiene por objeto el Amor. Pero si reconocemos en la Naturaleza entera los efectos del Amor, es porque hemos sentido su maravillosa influencia en nosotros mismos, y por eso es en nuestra alma que es preciso estudiar el Amor.
+
+Así lo hace Platón en el Banquete. El amor, dice, busca la armonía de las almas; es el regreso a la unidad, que es la ley íntima de todos los seres. Platón pone en boca de Agatón las siguientes frases: Antes del reinado del Amor, los dioses luchaban unos con otros; imperaba entonces la Necesidad, y bajo su ley, todas las cosas se agitaban en desorden; el Amor apareció y engendró la universal armonía. El Amor es el amor a la belleza y no a la fealdad, agrega Sócrates; por consiguiente, si ama la belleza es que la belleza le hace falta. Por eso no puede decirse verdaderamente que el amor es bello; y como lo bello es inseparable de lo bueno. ⟦Domain⟧ el amor carece también de bondad. No poseyendo la belleza, ⟦San Dieac net/2027/uc1.$b44069 / Public ni la bondad, no puede gozar de la beatitud. Por consi-⟧ guiente no es un dios, es solo un demonio, un intermediario entre el mortal y el inmortal, destinado como todos los de-California, monios a mantener la armonía entre los hombres y los dioses. Platón en el Timeo, llama razón a esta parte del alma en la que habita el demonio; el alma misma, en lo que tiene de superior y de inmortal, es, a sus ojos, un demonio. La razón y el amor son para él un solo y mismo poder, a la vez divino y humano, intermediario entre lo sensible y lo inteli-
+
+⟦nttps://hd]⟧
+
+⟦Digitized by Google⟧
+
+[^p81-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 82]
+
+gible. Platón representa, sin cesar, el conocimiento puro, como un himeneo divino de la razón con la verdad.
+
+Esta distinción encierra para Fouillée, toda la teoría del amor platónico. El amor es la filosofía misma, porque esta es el movimiento del alma imperfecta hacia la pertección. El deseo supone un cierto grado de perfección, una unión primitiva con el Bien, unión incompleta que aspira a completarse. Bajo este aspecto, el amor es superior a la inteligencia misma; por que la inteligencia se limita a la contemplación de su objeto; pero en el amor hay más que una aproximación: hay una unión íntima. El antor dice, Fouillée, es el fondo de la inteligencia; su fin es el Bien, idéntico a la Beatitud; tender a ese bien es la esencia de toda voluntad; por consiguiente, el amor es lo que constituye el fondo de toda voluntad, de toda actividad. Así traduce Fouillée el mito de Platón, refiriéndolo a su doctrina metafísica.
+
+Sócrates penetra con Diotima en los últimos misterios del amor, colocado entre la Tierra y el Cielo. Para elevarse del uno al otro, el amor debe seguir una marcha regular y segura como la de la inteligencia; esta tiene necesidad de puntos de apoyo y se eleva, de hipóteses en hipóteses, hasta el principio absoluto de donde deriva toda belleza. Lo que se admira en el cuerpo es la vida, el movimiento, la rica variedad y, al mismo tiempo, el orden y la unidad. Elevándonos de los bellos sentimientos, pasamos a la esfera de los bellos conocimientos. Allí está el dominio propio de todas las ciencias y de la filosofía cuya visión solamente puede satisfacer la inteligencia. Lo que puede dar valor a esta vida es el espetáculo de la belleza eterna o divina, Pero la unión con Dios no es el anonadamiento del alma, ni del amor; lejos de eso, es la vida verdadera; es el ⟦San Diedo⟧ amor en su esencia inmortal.
+
+Toda esta doctrina puede encerrarse en estas palabras del Banquete, que pronuncia Sócrates: «El amor consiste en querer poseer lo bueno". No es, por consiguiente fin de la actividad, sino medio, de conseguir ese fin, que, para Platón, es siempre la unidad, el orden o la armonía, que entran en lo bello y lo bueno, como formas estática o dinámica de la coordinación de relaciones. El amor, como sentimiento y como voluntad, no tiene más objeto, que realizar
+
+⟦generated⟧
+
+⟦Google⟧
+
+[^p82-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 83]
+
+una armonía en las Ideas, como se propone la razón platónica universal, que es el misterioso poder que impulsa al alma siempre más alto en el nacimiento de la ciencia y que se identifica con la verdad y el ser. Fouillée mismo sostiene que el verdadero nexo de las nociones filosóficas para Platón se encuentra en la aspiración de todo nuestro ser a la unidad, concebida como realidad, que envuelve todo lo positivo de los seres; es decir, concebida como el Bien; y ese nexo es el origen del principio de inteligibilidad que domina toda la filosofía platónica. La Unidad es el bien al que el pensamiento aspira; es el término de la dialéctica, tanto de la inteligencia como del amor platónico. Pero el verdadero sentimiento no unifica, en el sentido del amor platónico, con esa tendencia a la mayor universalidad; esa función es propia y exclusiva del pensamiento, que en su progresiva generalización, tiende a llegar a esa absoluta unidad, opuesta a la unidad individual engendrada por el sentimiento puro.
+
+Por eso, la interpretación panlogista de la doctrina platónica parece más aceptable, y según ella, el Bienes solamente una Idea, en la que la realidad del pensamiento abarca toda la realidad, y el orden absoluto comprende no solo el orden fisico, el biológico, el estético, el lógico y el teleológico, sino también el orden divino primario, superior y anterior a los dioses mismos: concepción puramente racionalista, como la califica Windelband.
+
+Si el Amor no es un elemento del Bien, sino que tiene el Bien por objeto, la libertad, lejos de estar comprendida en esa realidad panlogista, es excluida de ella por su naturaleza. La libertad, en su concepto comtemporaneo, considera-⟦https://hdl.handle.net/2027/uc1.$b44069 / Public Domain da como esencia del Espíritu, como principio y fin de su acti-⟧ vidad, como libertad sicológica, no entró en la filosofía platónica, ni en el pensamiento helénico, de caracter geométrico. Fouillée, sin embargo, llega a la libertad como fondo del Bien platónico. Li voluntad dice, adquiere también, cierta parte en la armonía de las partes del alma y produce la virtud; pero no es todavía el libre albedrio. El primer pasaje significativo que se ofrece sobre el libre albedrio, es un largo discurso de Protágoras, en el que el sofista expone, no sin ⟦Universitv⟧ un notable buen sentido, las pruebas ordinarias del libre albedrio, por el mérito y el demerito, la alabanza y la censu-
+
+Generated
+
+⟦Digitized by Google⟧
+
+[^p83-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 84]
+
+ra, las penas y las recompensas. Platón, que conocía las razones que se podrían oponer al libre albedrio, admitió la posibilidad de un desacuerdo entre la inclinación y la opinión; pero en ninguna parté habla de un poder independiente, a la vez, de la razón, de la pasión y de la cólera y que se determina por sí mismo.
+
+No obstante, a Fouillée le parece que la idea de energía, emitida por Platón, es una idea vaga y oscura de ese poder. La libertad, dice, está siempre para Platón, en la inteligencia, en el Nous, el único que es verdadero y libre por su naturaleza; libre porque es verdadero, verdadero por que es libre. Fouillée reconoce que la penalidad en Platon no descansa en la noción del libre albedrio, sino en la del orden o del desórden, intrínseco y extrínseco, considerados independientemente de la libertad. Platón castiga el mal en sí, cuando es interior al alma; no lo concibe como un mal libre, y su castigo es un simple remedio o una intimidación, que suple a la ciencia ausente. Voluntario no tiene, pues, para Platón el mismo sentido que libre en las lenguas modernas. El sistema de Platón es un intelectualismo, complicado con un cierto fatalismo de pasión; es decir, que admite la libertad en la inteligencia y la fatalidad en la pasión. Para Fouillée, por consiguiente, Platón entendía por libertad la tendencia sin obstáculos del pensamiento al bien, que es su objeto. El alma obra bajo la influencia de las causas exteriores y de la materia, y entonces es esclava, o actua en virtud de un principio interno, que es la tendencia esencial de la razón y de la voluntad hacia las Ideas, y entonces es libre. Razón, cien. cia, amor, tendencia al Bien, virtud, libertad, son así términos sinónimos.
+
+En concepto de Fouillée, todos las pasages de la República y de Las Leyes, que parecen implicar el libre albedrio de ⟦San Diegd⟧ los modernos, llegan a ser explicables de ese modo. Todos los seres animados, dice Platón en Las Leyes, estan sujetos ⟦. $b44069|⟧ a diversos cambios, cuyo principio está en ellos mismos, J ⟦Calitornia⟧ como consecuencia de esos cambios, cada uno se encuentra ⟦e net /2027/uc1l⟧ en el orden y el lugar marcado por el destino. Fouillée, apreciando este pasaje, cree que Platón está allí muy cerca de la ⟦OT⟧ libertad; pero que se detiene en la espontaneidad que poseen ⟦Jniversitv⟧ todos los animales y que no es otra cosa, a sus ojos, que la in-
+
+⟦eneratedi⟧
+
+⟦Google⟧
+
+[^p84-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 85]
+
+teligencia más o menos encadenada por la materia. Está espontaneidad no va hasta hacer al vicio voluntario; ella hace solamente voluntarios nuestros actos, como actos. En difinitiva, Platón admite una espontaneidad y casi una libertad, que puede establecer un desacuerdo entre los actos y la opinión del Bien; pero fiel al principio socrático, continua sosteniendo que el vicio es involuntario, porque el desacuerdo de la opinión y de la actividad en un resto de error o aun una profunda y peligrosa ignorancia, de la más importante de las verdades; a saber, la absoluta identidad del bien de cada uno y del Bien en sí.
+
+Fouillée mismo reconoce, por otra parte, que Platón, en el examen de las diversas fuentes del Bien, no hace mención de la actividad y de la voluntad libre; que no se pregunta 'absolutamente, si el bien no será la acción, la libertad, o a lo menos, si la actividad no es un elemento del Bien, a lo que habría respondido, que la actividad, lejos de ser, para él, el Bien, es la tendencia del alma al Bien. La idea de actividad, que había de jugar un rol tan grande en la moral de • Aristóteles es completamente omitida por Platón en el cuadro que ofrece de los diferentes bienes. Para Fouillée, si Sócrates y Platón, en vez de representar a la libertad del alma como una libertad muy exclusivamente intelectual, hubiesen visto la acción de un poder verdaderamente voluntario, habrían dado de la inmortalidad la razón más elevada, concibiéndola como el fondo de la libertad moral y de la moralidad misma.
+
+No obstante todas las anteriores afirmaciones, que excluyen del pensamiento platónico, la verdadera idea de libertad, Fouillée, cree que el Bien en sí debe ser bueno por sí y para sí, conciente y libre; que Platón lo comprendió así, pero que el término de Bien, que había empleado, no indica suficientemente el aspecto personal de la verdadera perfección, ⟦Sani⟧ cuyo nombre es Bondad. Fouillée aspira así a sustituir el ⟦ot Calitornia, 2027/uc1.$b44069| fundamento del idealismo platónico, colocándolo sobre el⟧ principio de poder y no sobre el de conocer. Según él cuando Platón dice, que todo es inteligible y tiene una Idea, no entiende solamente por eso, que todo está sometido a la ley de la identidad y del acuerdo consigo mismo. Su pen-
+
+samiento es, en el fondo, el de Leibniz, que coloca la inteli-
+
+⟦Generated ttos: |/hd|⟧
+
+⟦Google⟧
+
+[^p85-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 86]
+
+gibilidad verdadera, no en la ausencia de contradición, sino en la presencia de una razón suficiente. Pero Fouillée da a este principio de rigurosa determinación, un alcance moral de que carece, Para él, la razón suficiente no es solo una razón, que no se contradice ella misma, sino una razón mejor que su contraria, una razón de conveniencia, un motivo de preferencia y de elección, una razón que «inclina sin necesitar», que tiene la certidumbre sin la fatalidad, que hace amar infaliblemente por la ausencia misma de coacción; en una palabra, una razón amable y buena, una razón final de amor y de bondad. Así cree Fouillée que la esfera de la pura inteligencia es superada y se entra en la esfera del Bien.
+
+Pero este tránsito de la inteligencia al Bien, esa libertad amable, no sale de los límites del conocimiento; es el conocimiento que se amancipa de la multiplicidad y se eleva a la Unidad absoluta, que es el término de la dialéctica de la razón y del amor; pero que no puede llamarse libertad en el sentido que tiene hoy esta palabra. La armonía tiene ⟦e-dlatized⟧ también su forma de libertad; pero ella consiste en la no coación recíproca de los elementos unificados; es una libertad negativa, que, hasta cierto punto, excluye la actividad eficiente, y la que constituía el encanto estético del arte helénico. No es esa la libertad moral, opuesta a toda determinación y contraria, por consiguiente, al inflexible principio ordenador de la razón suficiente.
+
+La libertad no puede, por tanto, considerarse como contenido del Bien platónico, en el deseo hacer de estela plenitud de toda realidad. Fouilleé va mas lejos todavía en ese próposito. Para él, la Idea de las Ideas o la Idea del Bien, en la que solamente reposa el espíritu y la única que puede satisfacernos, no es la pura necesidad, ni la libertad abso-⟦San Diego nttps://hdl.handle.net/2027/uc1.$b44069 / Public luta, sino esa cosa superior, a la vez, a la necesidad y a la⟧
+
+libertad, a la inteligencia necesariamente determinada y al California, poder absolutamente determinante, que es la Bondad. La suprema inteligibilidad es, para Fouilleé, la suprema actividad, y la suprema actividad es lo "supremo amable", y así se reduce el principio de razón suficiente y el principio de ⟦Of⟧ causalidad al principio del bien, sustituyendo arbitraria-⟦Universiłv⟧ mente a la voluntad por la razón. La idea del Bien, así conce-
+
+⟦Digitzed by Google⟧
+
+[^p86-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 87]
+
+bida, la idea de una perfección, perfectamente perfecta, como la llama Fouillée, es la unica, en su concepto, que puede determinar nuestra libertad sin necesitarla; porque ella sola satisface y basta; porque ella sola tiene por objeto lo que es soberanamente inteligible y soberanamente amable.
+
+Pero la idea de la perfección, de esa unidad infinitamente comprensiva de lo Perfecto, a la que Platón llamaba el Bien, a la que nada le hace falta, si bien carece de un principio superior de determinación, no es, por eso solamente, una actividad libre, que tiene en sí la causa de su propia determinación; no es una entidad libre, con libertad positiva, sino simplemente un término de la escala ascendente de la dialéctica del pesamiento, que, para llegar a ser un término último y definitivo, había de carecer de determinación superior y anterior.
+
+Esto se comprende mejor todavía por el concepto platónico de Dios, con el que se confunde el Bien absoluto. Para Platón, Dios no es sino una especie de geómetra y de mecánico, que trabaja la materia por el exterior y se contenta con darle una forma. Es el demiurgo, Dios concebido a imagen del hombre, que produce el reposo más bien que el movimiento, el equilibrio pasivo, mas bien que el activo, la inercia mas bien que la energía. Verdad es que Fouillée, como Renouvier, no admite la interpretación literal del Timeo, en la que Dios se ofrece como un simple demiurgo. Segun el espíritu de la doctrina, el Dios platónico no es para Fouillée un obrero que hace obras sino un obrero que crea obreros. Reconociendo que Platón ha puesto en la acción divina demasiado mecanismo y estética, hace notar el rol que acuerda Platón al alma del mundo, principio de movimiento, idea viviente, dios engendrado, que engendra, a su San Diego tierno, almas particulares y les confía, como a dioses secun-/ Public darios, el cuidado de formar las diversas partes del todo.
+
+Estas almas llenas de perfección, vuelven a Dios, por la dia-$h44069 léctica del pensamiento y del amor. Si los símbolos del Timeo, dice Fouillée, ofrecen todavía demasiado la idea de un dios artista o geómetra y de una finalidad mecánica, eso no es sino la superficie del platonismo; el fondo es una concepción animista del Universo, que se basta a sí mismo, que comprende todos los animales mortales e inmortales,
+
+⟦https://no⟧
+
+⟦Digitized by Google⟧
+
+[^p87-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 88]
+
+animal visible, que encierra todos los animales visibles dios sensible, imágen del dios inteligible, muy grande y muy bueno, de una belleza y de una perfección acabadas, mundo único y de una sola naturaleza. El alma misma, ese microcosmos, es también un dios engendrado, imágen del Padre, excento de envidia y cápaz de engendrar a su turno. Segun esto la finalidad que Platón había puesto primero en el exterior de las cosas penetra en el interior después.
+
+Este carácter de creador, que Fouillée y Renouvier atribuyen al dios Platon, en cambio del de simple ordenador del Universo, que la atribuye el Timeo, es fruto de la arbitraria interpretación de ambos filósofos. Fouiliée lo deriva de la naturaleza activa y libre del Bien y Renouvier de la creación del tiempo que antecede al caos. No piensan del mismo modo los que solo admiten el sentido lógico u ontológico del sistema. Segun Ritter, la Idea de Dios para Platón, es la idea su-⟦Gooale-diaitized prema, que, como tal se encuentra en todas las demás y las⟧ contiene todas; es por consiguiente, tambien la unidad que contiene la esencia real de todaslas cosas. La Idea de Dios aparece así, como la suposición primera, o mejor como el pensamiento fundamental de la razón, teniendo conciencia de sí mismo, ⟦States.⟧ porque ella le hace conocer el verdadero objeto de la ciencia, tan necesariamente como la ciencia misma. Siendo concebido Dios, en general, por Platón, como el objeto de la ciencia y como el conjunto de ideas, se le presenta tambien, en sus relaciones con el mundo, como el modelo del mundo, a cuya semejanza el Universo tiende y aspira. A este respecto, Dios se manifiesta particularmente en las ideas que forman el ideal de la tendencia humana; y de esas ideas las mas cul-⟦San Dieao⟧ tivadas, segun Platón, son las de lo bello y lo bueno, que son tomadas, casi siempre, en el mismo sentido o concebidas como íntimamente ligadas. Dios parece pues ser, para Platón, como lo verdadero bello y lo verdadero bueno, en gene-⟦tps:|/hdl handle net /2977/1c1| ral como el verdadero modelo al que el mortal debe esfor-⟧ zarse por aproximarse sin cesar, para participar de la belleza at University of y de toda otra verdadera existencia y llegar a ser bueno. Ahora bien, como la idea de bueno, dice Ritter, nos representa, en general, todo lo que debe ser el fin de los esfuerzos,
+
+⟦enerated⟧
+
+⟦Google⟧
+
+[^p88-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 89]
+
+de la naturaleza humana. Platón indica ordinariamente a Dios por la idea de lo bueno.
+
+Esta idea, si tiene la significación de poder, la tiene, como hemos visto, como la de un poder ordenador, no de un poder libremente creador, como piensa Fouillée. Segun Pastore, lo divino para Platón no significa sino la excelencia máxima; el Dios de Platón no es jamás un principio primitivo, sino siempre un principio derivado, no denota jamás un ser personal, entendido antropomórficamente, sino solo la razón lógica (alma) del mundo. Las Ideas Platónicas, no son, de ningun modo, los pensamientos de la divinidad, es decir, del Dios supremo, en el sentido moderno de la palabra. Esta interpretación familiar al neoplatonismo es manifiestamente arbitraria. El intelecto, que dispone el todo y a cuya potestad estan sujetos el orden que se observa en el movimiento de lo astros y todas las cosas, es simplemente la hipótesis de la lógica universal de las Ideas. Es verdad, agrega Pastore, que Platón admite la derivación de todas las cosas de las Ideas y la de todas estas Ideas del Uno; esto es el del Bien; pero las Ideas, en la dialéctica estan sistemadas entre sí gerárquicamente y la gerarquía enentre las Ideas está fundada en su creciente generación. Ni aun la Idea suprema del Bien, como se ha dicho, abandona el carácter de la objetiva y simple logicidad, fuera de la que, segun Platón, sería absurdo concebir el Universo.
+
+Mas definitiva es la interpretación de Milhaud. El ser último para Platón le parece que es el que satisface las condiciones siguientes; en primer lugar, la inteligencia humana es conducida a él por la comtemplación de las esencias matemáticas, como a un término extremo, de donde descenderá, de regreso, a esas mismas esencias, la razón, fundamento último de su ser; y, en segundo lugar, realiza el ideal de perfección de las cualidades de pureza, de precisión, de exactitud, de inteligibilidad, de las que las esencias matemáticas dan ejemplo.
+
+⟦ot Calltornia 2027/uc1.$b44069 Comforme a estas interpretaciones, no es posible admi-⟧ tir que la idea de Dios encierre, en la filosofía platónica, algo más que la idea de un orden supremo, como la Idea del Bien, destinada a servir de modelo a los demás ordenes inferiores de la dialéctica. Las Ideas son, para Platón, en
+
+generated
+
+⟦Google⟧
+
+[^p89-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 90]
+
+un pasaje del Timeo, "dioses eternos", como obserra Gomperz, y los nombres de "autor", de "padre". , que se encuentran en el Sofista y en la Política, exactamente como en el Timeo, designan el mismo principio que aparece en la República, como "Idea del Bien"
+
+'. La personificación del Bien no tiene nada de antropomórfica; es simplemente la Unidad, el Orden, la Armonía por excelencia; su forma absoluta alcanzada por el progreso ascendente de la razón.
+
+Platón al sistemar las ideas de sus anteriores y constituir una filosofía, organizó y elevó esa idea de orden que encierra toda la función del pensamiento y su fin. El intelectualismo helénico, que buscaba la armonía en todo, encontró en la filosofía platónica su más perfecta expresión. De allí que el gran mérito de Platón haya consistido, no solo en la organización del pensamiento al rededor de ese eje, sino en la creación de su teoría de las Ideas que sirvieron de nexo ordenador de toda realidad. Esa ha sido también la verdadera originalidad de Platón: crear la Idea como única realidad y ordenar el todo segun Ideas. Dios y la Idea se confunden de tal modo en Platón, dice Weber, que ora es Dios que parece nacer de la Idea, ora es la Idea que parece proceder de Dios como de la fuente eterna de las cosas. Frente a la nada, la Idea, como realidad por excelencia, llega a ser creadora, causa, voluntad, principio plástico. La Idea, es como dice Fouillée, la razon suprema de la existencia por ser la razón suprema del conocimiento. La lógica se identifica así con la metafísica en el punto de vista mas elerado del platonismo. La unidad esencial de una cosa o su Idea, es el bien de esta cosa, su perfección absoluta. Las Ideas, según Fouillée, podrían definirse como los diversos puntos de vista del Bien, que es absolutamente uno en si mismo, pero que parece dividirse, fraccionarse, diferenciarse, cuando se le considera en sus relaciones con la pluralidad ⟦San⟧ sensible, llegando a ser así unidad en lo multiple y no ⟦handle net (2077/uc1.5144969| ya unidad pura. El principio absoluto de toda verdad, la⟧ Unidad primitiva, que es Dios mismo, segun Fouillée es absolutamente incomprensible para nosotros, escapa a todas las condiciones y a todas las formas de nuestro pensa-⟦Jniversity of⟧ miento. Considerada en sí misma, esa unidad primitiva es una e inefable; considerada en relación con los seres, cuya
+
+⟦https://hdl⟧
+
+⟦Digitzed by Google⟧
+
+[^p90-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 91]
+
+posibilidad abraza, aparece como una multiplicidad indefinida de formas múltiples; pero esa es una multiplicidad completamente ideal, que comprende todas las determinaciones, reune aun los contrarios y solo excluye los contradictorios que emplean una negación absoluta. Así Platón, por el movimiento necesario de su dialéctica es conducido dice Fouillée, a resolverlo todo en las Ideas y en sus relaciones mutuas, en el seno de la Unidad suprema. La Idea es, pues, el término medio vanamente buscado, que resuelve todas las dificultades de la ciencia. Para conocer la armonía universal de las cosas no es necesario detenerse en su multiplicidad infinita y perderse en ella, como los Jonios, ni detenerse en la unidad y perderse en ella de nuevo como los ⟦eleatas.⟧
+
+En medio de la diversidad de interpretaciones a que se presta la teoría platónica de las Ideas, surge así, como caracter comun el considerarlas como sistemas de relaciones constantes en medio de la variedad infinita de los fenómenos. Admitido por Platón, que la realidad y el ser, se encuentran en lo que permanece y no en lo que huye y desaparece, el ser estaba constituido por ese conjunto de notas constantes y esenciales descubiertas por el pensamiento al traves de la variedad. De allí que la unidad de caracteres esenciales, no obstante la diversidad de estos, fuese el principio de realidad y de inteligibilidad de los fenómenos; principio constructor de la ciencia y que satisfaciendo al espíritu, que repugna el caos y ama el orden, constituía el bien por excelencia. De esta doble función del espíritu, que anhela la explicación de la realidad y que la encuentra en el ordenamiento de la exis-⟦net/2027/uc1.$b44069 / Public Domain tencia, poniendo término a la confusión o mezcla desordena-⟧ da de las imágenes, brotó la Idea comounidad ordenadora, como armonía entre el pensamiento, que aspira é impone la San Diego unidad, y la existencia, que ofrece las imágenes de variedad infinita. La Idea fué así la conciliación entre lo uno y lo California, vario, en que se debatía el pensamiento científico; fué la armonía entre ambos, el orden aplicado a toda la realidad.
+
+Este orden, esta razón suficiente, no tenía por objeto exexclusivo explicar la realidad física, por medio de la combi-⟦University nación de sus elementos, sino todas las realidades, abarcan-⟧ do el orden de las cosas en el espacio y el de los sucesos en el
+
+generated
+
+⟦Digitized by Google⟧
+
+[^p91-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 92]
+
+tiempo, el orden rígido de las cosas inertes, como el estético de las cosas vivientes o que simbolizan la vida, el orden matemático, como el teleológico, el sicológico como el moral, el político, como el histórico.
+
+La Irea, proceso lógico, se convirtió en metafísico u ontológico, cuando en el desarrollo dialéctico del pensamiento fué necesario colocar por cima de todos los órdenes parciales, el orden universal y absoluto, incread), superior a la inteligencia ordenadora, confundiéndose con la unidad primitiva, con Dios mismo. Era ese orden la Idea suprema, la Idea que ordenaba todas las demás Ideas, el Bien que comprendía todos los bienes ofrecidos por la comprensión parcial de la realidad, el Ser en sí, la Esencia Suprema, en la que se resumían todas las constantes ofrecidas por las imágenes infinitas de las existencias individuales, la unidad suprema absoluta, comprensiva de la multiplicidad infinita.
+
+Por eso la Idea puede ser la objetivación de un concepto lógico, un tipo o modelo de la realidad, un principio de inteligibilidad, un género, una esencia matemática, un número ideal, una fuente de gozo, un bien; porque todo ese es el orden, el orden puro lógico o metafísico, estático o teleológico, absolutamente extraño a la libertad o mezclado con ella en la armonía estética. Por eso también la idea suprema, el Orden supremo, el Bien es inefable e indefinible, porque, fuente de toda determinación, es lo indeterminable por excelencia. Solo puede decirse, que es la Unidad en la cual se concentran y concilian todas las diversidades esenciales, que no son contradictorias, que no importan una negación absoluta, una disolucíón que el espíritu repugna, porque es opuesta a su naturaleza, que es también la mas perfecta conciliación de lo uno y lo vario.
+
+Así se explica como Platón asimila siempre las Ideas, que San Diego implican grandes órdenes o categorías del pensamiento, haciendo de ellos Ideales o Valores fines: el Bien, la Belleza, la ⟦Calltornia _net (2077/1c1 8144969 Verdad, la Justicia, aun cuando dé al primero la suprema-⟧ cia, porque las tres últimas órdenes son, en efecto, bienes diversos, que por el proceso unificador del pensamiento, deben entrar en un solo Bien. Este proceso de unificación, que es ⟦OT⟧ propiamente de ordenación, resulta, a cada paso, en la filoso-⟦Universitv⟧ fía platónica. Platón, dice Fouillée, ha perseguido la unidad
+
+⟦Digitzed by Google⟧
+
+[^p92-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 93]
+
+⟦con todas las fuerzas de su pensamiento; su dialéctica, su⟧ estética, su moral y su política, no son otra cosa que la in. vestigación de la unidad; pero las relaciones más próximas a la unidad, las que participan de ella más y la expresan mejor por su simplicidad misma, constituyen la proporción y la armonía u orden. En todolo que existe hay, para Platón, verdad, proporción y belleza, que son formas del orden, pero en grados diversos.
+
+Este predominio de la idea de orden en la filosofía de Platón proviene de su intelectualismo sistemático, de su panlogismo. El ser, el pensamiento y el bien son los términos más elevadosde la gerarquía de las Ideas, y la metafísica de Platón consiste en determinar las relaciones que los une, como observa Fouillée; pero esa relación, que constituye la mejor originalidad de la filosofía platónica, es puramente intelectual y consiste en admitir un orden ideal, en el que el ser considerado como multiplicidad de imágenes se concilia con la función ordenadora del pensamiento, que es lo esencial. Platón reconociendo en la intuición racional el poder de sintetizar o de dar forma de unidad a las imágenes ofrecidas por la percepción, crea un orden que satisface al espíritu y que es un bien, orden parcial, que es un proceso de unificación progresiva, que es la dialéctica y que llega por solo el pensamiento a la unificación de orden universal y absoluto que es el Bien, universal y absoluto tambien. La inteligencia crea así, exclusivamente, todo el sistema, subordinando a su dialéctica el proceso del amor.
+
+La física, la sicología, la moral y la política platónicas, confirman ese carácter esencial y dominante.
+
+Según Platón, el origen de este mundo se debe a la acción doble de la necesidad y de la inteligencia. El ser, el lugar y la generación son tres principios distintos anteriores a la formación'del mundo. Dios sacó las cosas de la agitación y confusión en que se hallaban y les dió la mayor belleza, la mayor perfección posible. Todas las cosas estaban en desorden, cuando Dios puso en cada una, tomada aparte, y en todas, tomadas en conjunto, toda la medida y toda la armonía que estaba en su poder y que su naturaleza consentía; porque antes ninguna de ellas mostraba el menor rastro de este orden, como no fuera por casualidad; y en general puede ⟦ttps://hd⟧
+
+⟦Google⟧
+
+[^p93-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 94]
+
+decirse, que nada merecía ser llamado con el nombre con que hoy designamos las cosas, tales como el fuego, el agua y otras. Dios, por lo pronto, puso orlen en esta confusión; después se sirvió de todo ello para formar este univer so, animal único, que encierra todos los animales mortales e inmortales. El mismo fué el artífice de los animales divinos; pero respecto a los animales mortales, encargó a sus propios hijos el cuidado de producirlos. Platón presenta así a Dios, en el Timeo, como un demiurgo, como un espíritu ordenador del Universo. Todo en el mundo, dice Platón, es hecho para el conjunto y cada cosa en particular tiene allí su • lugar, de tal modo marcado, que sirve para la conservación y la virtud del todo, Platon, rechazando la opinión que hace derivar el nacimiento de las cosas, de una naturaleza espontáneamente activa y sin pensamiento; haciendo, al contrario, salirtodo de una causa racional, que obraba con ciencia, concibió un formador y padre de todo, que realiza con razon todas las cosas en la Naturaleza. | La actividad de una causa semejante, parte, necesariamente, de una Idea que sirve de modelo de lo que debe suceder. Ese modelo no es contingente y mortal, sino eterno e inmutable, porque el mundo es la más bella de las obras y Dios es la mejor de las causas. Por eso, este mundo ha pasado del desórden del movimiento al estado de orden; porque el orden es mejor ⟦States,⟧ que el desorden. Creía Platón que la Providencia divina había hecho de este mundo un ser animado, dotado de razon; que había puesto la razon eu su alma y el alma en el cuerpo; que esa alma formadora de los animales mortales obraba también racionalmente para producirel orden. Platón proclamabael orden determinado delas cosas según números ⟦Domair⟧ y figuras: es decir, la regularidad externa de los fenómenos, ⟦_net |2027/ cl844869 | lic principio de la belleza, el más magnífico de los arquetipos,⟧ uno de los rasgos más notables de lo que es formado por la razon. Insistía en que aquello que los cuerpos tienen de sa-San ⟦Universitv ot Calltornia. lud y de fuerza y todas las obras de solidez, dependían del⟧ orden y la composición armónica. Para Platón, en todos los cuerpos celestes, aparecía el pensamiento; las grandes masas del mundo estaban ordenadas y dominadas por la vida generaldel mundo. Losastros eran también dioses formadores. Una sola cosa en la vida mortal, no estaba sometida a ⟦generated at nttps://hdl.handle⟧
+
+⟦Google⟧
+
+[^p94-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 95]
+
+esa fuerza poderosa; era la virtud que no reconoce supe-⟦rior, ni maestro. (El Timeo, Ritter, Fouillée).⟧
+
+Toda la fisica de Platón tiene por fin hacer ver como por la razón, lo irracional llega a ser ordenado, armónico y be-⟦llo. Así se ve claramente, por todo el plan de esa física,⟧ agrega Ritter, como la moral se refiere a esta ciencia. Los fenómenos naturales están todos ordenados, de tal suerte que deben servir para hacer triunfar la virtud y sucumbirel vicio. No se encuentra, dice Milhaud, una página en el Timeo en que no aparezca la preocupación de buscar el mejor arreglo de las cosas, de conseguir, sin cesar, el bien y el orden más perfecto, como si solo se consiguiese la verdad en la medida en que se realizasen mejor las condiciones de la mas grande perfección. La necesidad sola era impotente, a los ojos de Platon, para darse cuenta del mundo, tal como es; era preciso para explicarlo, según la verosimilitud, asociarle la inteligencia divina, que ha tenido cuidado de lo que es elegante, de lo que es simple, de lo que es bello.
+
+Esta especie de finalidad estética, de la que el Timeo ofrece huellas tan numerosas, lejos de apartarnos de las razones inteligibles de las cosas, debe, al contrario, en concepto de Milhaud, conducirnos más seguramente hacia ellas, porque esa finalidad estética descansa en el principio matemático de la proporcionalidad, que para Platón era el más bello de los lazos. Esta proporcionalidad, esta medida, que tiene por sí misma una significacion estética y moral, dice Milhaud no nos aleja mucho del número, condición de orden y armo-⟦nía.⟧
+
+Gomperz confirma esta interpretación, sosteniendo que en la filosofía natural del Timéeo, Platón parte, sobre todo, de la hipótesis de regularidades matemáticas y de ritmos correspondientes, aun en los dominios en que la ciencia moderna ha buscado rara vez y no ha conseguido jamás descubrirlos. Platón es guiado por una necesidad estética o casi estética, ⟦Calitornia, 2027/uc1.544069 a la que, está persuadido, la naturaleza dará siempre satis-⟧ facción plena.
+
+La sicologia platónica está subordinada al mismo principio de explicación. Platón llama al alma del mundo, que se mue-⟦OT⟧ ve por sí misma, un número, como los pitagóricos, lo que es casi llamarla una Idea, en sentir de Fouillée. El alma resul-
+
+⟦Generated https://hd⟧
+
+⟦Digitized by Google⟧
+
+[^p95-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 96]
+
+ta así un compuesto de Ideas, una proporción, un número; pero no es el número ideal, ni el número matemático, ni el número sensible, sino más bien un número complejo, envol-⟦viendo a todos los demás, una decada, en pequeño. Al nú-⟧ mero sensible corresponde la sensación y la pasión; al número intermediario, el entendimiento y la energía, y al número ideal la razón, Esta última función del alma es de tal modo análoga a las Ideas, que Platón concluye por preguntarse, si la razón y las Ideas no constituyen un sólo y mismo ser y si no es la presencia misma de la Idea en nosotros la que constituye la inteligencia y el alma El alma indıvıdual no es una Idea; es más bien una relación de Ideas o algo de mal definido que participa de ellas; es, si se quiere, un número de una especie particular, en el que se resumen todos los números y todos los elementos, condición necesaria a la inteligencia y a la vida.
+
+Platón coloca en el alma del mundo las Ideas de unidad, variedad y de esencia, como elementales; le atribuye la inteligencia como imágen de la divina y fuente del orden. La inteligencia es lo que hay de más sutil, de más puro y que tiene el conocimiento entero del mundo. Nada se le escapa. Conoce lo que está mezclado, lo que está diferenciado, lo que está separado. Del mismo modo, muere y ordena todo; lo que debía ser, lo que ha sido, lo que es y lo que será. Preside el curso del Sol y las revoluciones de los astros, los cambios y combinaciones del aire y del eter. Platón, como Anaxágoras y como Heráclito, proclama también la existencia de una razón universal e impersonal, única fuente de la verdad y de la certidumbre. La razón es inmortal, a causa de ⟦Dledo throuah https://hdl.handle.net/2027/ucl.$b44069/ Public Domair su analogía con las Ideas. Esta analogía es tal, que pa-⟧ rece ir hasta la identidad del pensamiento y su objeto. Hay una facultad, en esta sicología, que nos pone en relación directa con lo inteligible, sin los intermediarios de la lógica San discursiva; tal es la intuición racional. Nuestrarazón actual no sería sino la memoria de un pasado que remonta más allá de nuestro nacimiento. Hay, dice Platón, una parte superior del alma, por la que toca a lo divino y se mantiene University of suspendido a él; es más un fruto del Cielo que de la Tierra. Esta parte elevada, que un Dios habita, es la Razón. Unión del alma con lo inteligible; he allí el orígen y también
+
+⟦Digitzed by Google⟧
+
+[^p96-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 97]
+
+el fin de nuestra vida intelectual. Esta unión esti expresada en el Fedro, por un símbolo. La vida anterior del alma humana está representada como una visión directa de las esencias. El alma, viviendo con una vida suprasensible ha contemplado sin velos el bien en sí, lo bello en sí, la ciencia verdadera y la verdadera inteligencia. Para Platón la razón eterna y la razón del hombre, la verdad y la inteligencia están en íntima unión. Es pues por la Idea de la ciencia en sí, que se puede conocer el Bien en sí, lo Bello en sí y las demás ciencias eternas. La Idea de la ciencia en sí es una Idea intermediaria entre la Inteligencia y las demás Ideas. Si no participáramos de ella todo conocimiento sería imposible. ⟦(Fouillée)⟧
+
+La Razónes para Platón la pura esencia del pensamiento aplicado a la pura esencia de cada cosa en sí; es la esencia en sí misma presente en el hombre y comunicándose con él. La Razón pierde, desde luego, su carácter personal en relación con nosotros. Está en nosotros; es aun nuestra esencia, según Platon; pero por esta no entiende nuestra individualidad; puesto que la esencia es universal y el individuo es más bien para él un fenómeno. La Razôn, inmanente en el hombre, tiene un, carácter de universalidad y de impersonalidad. Pero con relación a ella misma, la Razón es personal, en este sentido, que se conoce y conoce todo lo demás y tiene la suprema realidad. La Razón con relación a ella misma, es la ciencia en sí. En el fondo es la verdad; es el ser. En resumen, dice Fouillée, la intuición racional es la unión del pensamiento y de la existencia en la posesión natural y eterna de la verdad; es la intimidad del alma y del Ser. Pero ⟦Jniversity of California, San Dieao throua Platón atribuye superioridad a la Razón sobre el Ser. y de⟧ ⟦Domai⟧ allí su certidumbre absoluta, mediante la que entra en posesión de la verdad eterna. Lo racional en su pureza, es el término de nuestra actividad intelectual.
+
+⟦handle.net/2027/uc1.$b44069 / Platón, continúa Fouillée, nos ha probado la eternidad⟧ de la razón y de la actividad motriz, que es para él idéntica a la inteligencia; porque el pensamiento es un movimiento espontáneo. La vida racional es para Platón idéntica a la vida virtuosa, a la vida eterna. No solamente es necesario o libre aceptar la Razón; sino que es bueno, bueno en sí, bueno para nosotros, bueno para los demás; porque el objeto mismo ⟦httos://hdl⟧
+
+⟦Google⟧
+
+[^p97-1]: Original from Digitized by ( UNIVERSITY OF CALIFORNIA
+
+[p. 98]
+
+de la Razón es el Bien universal, del que depende el nuestro y es bueno adherirse al Bien. Fouillée piensa que esta adhesión, sin destruir todas las razones inferiores, les agrega la razón suficiente y buena; interpretación que deriva de confundir el Bien platónico, que es puro orden racional, con la Bondad, que se refiere al poder de sentir y querer.
+
+Pero el análisis anterior conduce siempre a reconocer en la Razón un principio ordenador y un orden mismo elevado a lo absoluto y lo universal. Platón en La República habla de los placeres más puros y más verdaderos de que goza el alma entera cuando es guiada por la Razón, sin que se suscite en ella rebelión alguna, sino antes bien, cada una de esas partes se mantiene en los justos límites de su acción. Lo que más se aleja de la filosofía y de la Razón, dice allí, es igualmente lo más capaz de producir trastornos funestos en el alma. Pero lo que separa más del orden y de la ley, se separa de la Razón en la misma medida. Nada se aleja más de la Razón que los deseos tiránicos y amorosos. Y nada se separa menos que los deseos moderados ⟦Google-digitizeo⟧ y monárquicos. En Las Leyes define la educación como el arte de atraer y conducir a los jóvenes hacia lo que la ley rust on 2025-07-23 06.51 dice ser conforme con la recta Razón y a lo que ha sido declarado tal por los mas sabios y más experimentados ancianos. La educación es esa dirección de los sentimientos hacia el orden. Objetivado ese rol ordenador de la razón individual, se convierte en Razón universal y eterna, sin perder su carácter de principio de conocimiento y de ordenación. Esla ciencia misma, es la verdad misma; es la Idea de la ciencia misma, porque todas estas son modalidades del orden en sí, ⟦.net/2027/uc1.$b44069 / Public Domain que dirige y somete a la voluntad y a la pasión pero sin con-⟧ fundirse con ellos.
+
+San Diego|
+
+Ese mismo principio de orden domina en la sicología afectivade Platón. El placer verdadero y durable es el placer de la razón en posesión de la verdad y el bien. Los placeres puros California, o sin mezcla que se refleren al conocimiento y a la belleza de lus figuras, de los colores y de los sonidos, tienen siempre en sí mismos una cierta medida y un límite que dependen de la University of razón [Ritter]. Ya hemos visto que el placer mismo es una armonía y el dolor una disolución, y cómo el estado de equilibrio produce un género de existencia más proximo a la vi.
+
+⟦Digitized by Google⟧
+
+[^p98-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 99]
+
+da divina, superior a las variaciones de la sensibilidad. Lo que constituye el verdadero placer no es su intensidad, sino su cualidad.
+
+Ese mismo carácter se encuentra en el amor platónico, como hemos visto. "Yo no sé sino una pequeña ciencia" decía Sócrates: "el amor". Lo que Sócrates llamaba pequeña ciencia es a los ojos de Platón, la ciencia toda entera: el amor es también la dialéctica, Todo lo que se hace de bien en el Universo es su obra. Introduce por todas partes el orden, el número y la armonía; y como el orden, dice, Fouillée, es el objeto de la ciencia, se puede decir indiferentemente o que toda ciencia tiene por objeto las Ideas o que tiene por objeto el Amor. La razóny el amor son para Platón un sólo y mismo poder, a la vez divino y humano, intermediario entre lo insensible y lo inteligible, lazo de la Tierra y del Cielo.
+
+En Moral Platón ha prestado muy poca atención a la teoría del deber. Ritter observa, que, como es de esencia de la voluntad aspirar al Bien, la idea del deber, como opuesta a una inclinación primitivamente irracional, no existe en Platón, ni en la doctrina socrática. Platón considera la falta involuntaria como un defecto de habilidad y al hombre virtuoso como a un artista, que puede hacer, sea el bien o sea el mal en su arte, mientras que, al contrario, el malvado o el injusto no debe ser considerado sino como un obrero que carece de habilidad para obrar justa o injustamente; de modo que el mal que hace no es imputable a su voluntad, sino sólo a su defecto de habilidad.
+
+La voluntad, según Platón, es la tendencia natural del alma hacia el bien concebido por la razon. Querer, en el sentido propio de la palabra, no es la misma cosa que hacer lo que se juzga a propósito. La voluntad no es pues de ningún ⟦San Diead handle net 2027/uc15h44969 | Public modo libre, ni ambigua con relación al fin último que persi-⟧ gue. La voluntad adquiere cierta participación en la armonía de las almas y produce la virtud; pero no es todavía el libre albedrío propiamente dicho. Ya hemos demostrado que Platón no admitía otra libertad que la del Nous, que es verdadero y libre por su naturaleza.
+
+Platón no solo excluyó la libertad de su Moral sino de su Estado ideal (La República) En Las Leyes, el rey del mun-
+
+⟦nttps://hdl⟧
+
+⟦Google⟧
+
+[^p99-1]: Original from Digitized by ( UNIVERSITY OF CALIFORNIA
+
+[p. 100]
+
+do arregla todo; pero ha dejado a disposición de nuestra vo-⟦luntad las causas de que dependen las cualidades de cada⟧ uno de nosotros. La funesta aspiración a la unidad, conduce a Platon, en Las Leyes, a pronunciarse por una solidaridad excesiva, por un orden rígido en la sociedad, dice Gonzperz. Ala divisa «Orden y Disciplina» se asocia en él esta otra «Simetría y Belleza». Es el grito del corazón de un artista enamorado de lo bello y al mismo tiempo de un filósofo pitagórico, que ha aprendido a admirar en la Matemática, en la Acústica y sobre todo en la Astrónomia el poder de la regla, de la proporción, de la armonía y del ritmo. El moralista socrático, agrega Gomperz, no exige con menos fuerza la obediencia absoluta a la razón o, para hablar más exactamente, a la utilidad demostrada por la razón. De la fusión de estos elementos se forma en Platón este ideal, que le es particular, de orden interior, de consagración a la ciencia, de dominación de si mismo, de firmeza, de calma, de tranquilidad de alma y de resignación, que constituyen lo que los ⟦griegos llamaban la sofrosine.⟧
+
+Platón reconoce en el alma tres virtudes; pero introduce entre ellas la necesidad de una armonía, que engendra la juz ticia y cuya idea no es referida a una manera de actuar exterior, sino que indica, en cada hombre, una proporcionali-2025-07-23 dad interna de su desarrollo, por medio de la que cada facultad del alma llena su fin evitando hacer otra cosa y estableciendo así un perfecto orden en el alma. La justicia, como observa Ritter, es ordenadora de las demás virtudes y ordenadora de la sociedad. Platon introduce de nuevo en la virtud el elemento afectivo y moral desdeñado por Sócrates. Para este, la virtud única era la ciencia; para Platón, la ⟦San Dieao throuah $b44069 / Public Domain ciencia no es sino la virtud de la inteligencia; la virtud del⟧ alma, en general, es la justicia. En Sócrates reconoce Fouillée una pura unidad racional, pero en Platón, unidad y multiplicidad, constituyen el orden o justicia. La injusticia es una perturbación accidental, toda interior que resulta de California, un trastorno del orden en las relaciones mutuas de las facul-⟦nttps://hdl.handle.net/2027/uc1 tades y en su gerarquía. Esta entermedad moral es siempre⟧ involuntaria; pero su causa no es menos intrínseca. Se la cura actuando, por la corrección y el dolor, sobre las mismas University facultades que entran en la lucha, para restablecer el equili-
+
+generated
+
+⟦Digitized by Google⟧
+
+[^p100-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 101]
+
+brio. Segun Platón, el alma debe ser, a la vez, variada y una, en movimiento y reglada; pero de estas dos cosas, el movimiento y la armonía, solo la segunda es la que domina en la moral platónica, hasta el punto de absorver en ella a la primera; porque no es propiamente hablando, la actividad la que produce libremente el bien, sino al contrario, es el bien el que produce la actividad por su atracción irresistible y que desarrolla armoniosamente todos los poderes del alma segun su grado de importancia. (Fouillée).
+
+El diálogo titulado Carmides describe ese estado del alma llamado sofrosine, virtud eminentemente helénica que es muy difícil designar con un nombre completamente apropiado, como dice Gomperz. Prudencia, moderación, sobriedad, modestia, imperio sobre si mismo, son otras tantos términos, de los que cada uno contiene una parte de la sofrosine, pero que ninguno la expresa por entero. Según su composición, la palabra griega equivale a "salud síquica" , en concepto de Gomperz. Cuando hablamos de "naturalezas sanas" dice, entendemos, sobre todo, por eso, los individuos en quienes nada es artificial, esos individuos dotados de espontaneidad, de energia y en los que los instintos no han perdido nada de su fuerza tomada en los sentidos; pero cuando se trata del héleno es otra cosa. No es la carencia, sino el exceso de fuerza lo que hay que temer. Dominar esta fuerza, reducirla a la medida normal, que exige en particular la prosperidad del Estado, eso es en lo que consiste esencialmente, para el héleno, la salud siquica y lo que constituye la parte principal de la virtud griega. La sofrosine es una virtud que se distingue de las virtudes la sabiduria, la pru-⟦San Dieao throuah dencia y la bravura, por el hecho de que no es dote de una⟧ parte de la comunidad, sino de la comunidad toda entera y cuya esencia en el individuo, como en la sociedad, es poner de acuerdo el elemento mejor y el más malo, de hacer reinar entre ellos esta armonía que reposa sobre la preponde-⟦0ł08 01æle 869 rancia del más elevado y la subordinación del más bajo. La⟧ sofrosine es casi lo mismo que la justicia, que tiene por objeto conservar la armonía interior del alma. La línea de demarcación entre la sofrosine y la justicia es tan ligera, dice Gomperz, que llega á ser casi imperceptible. La sofrosine es, para Platón, la virtud más elevada, aunque la justicia sea
+
+Generated
+
+⟦Google⟧
+
+[^p101-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 102]
+
+la virtud particular, cuyo nombre le sirve, lo más a menudo, para designar la virtud toda entera. Lo que nos es presentado como justicia, dice Platón, es, rigurosomente hablando, más bien la condición previa de la justicía. Pero precisamente esta condición tiene más precio para Platón, que la virtud que depende de ella. Para Platón, la manifestación del ideal en la personalidad de cada individuo, tiene más im-. portancia que el servicio hecho por este individuo a la comnnidad. La justicia ocupa el centro de la moral platónica. Después de la justicia viene imperfectamente separada de ella, la sofrosine, esta disciplina personal, que deriva del sentimiento de la propia dignidad, que, en Platón, más que en otro, lleva el sello de una reserva aristocrática y altiva. Exagerándola se convierte en ascetismo.
+
+Por este breve estudio de la filosofia platónica se ve, que ese filosófo reduce el Universo a una síntesis de relaciones, sin las que no habría existencia inteligible, sino un puro caos; el Universo es un sistema, un determinismo recíproco de seres, fundado sobre una razón eterna y por eso inteligi-⟦Google-dlgıtızea⟧ ble. Asi, bajo el punto de vista platónico, el orden fisico, el orden lógico, el orden metáfisico tienen su última unidad en el orden teleológico y moral. La vida universal, explicada por la universal inteligibilidad, que se explica ella misma por la 2025-07.22 iniversal tendencia al Bien, tal sería, en resumen, el platonismo, en conceptò de fóuillée. Para los platónicos, dice, la perfección, implicando la existencia, era absoluta. Absoluto, rozón suficiente o inteligibilidad perfecta, son una sola y misma cosa bajo el punto de vista del platonismo. En otros términos, se trata de establecer en nuestro pensamiento la suprema síntesis de la perfección, de la inteligibilidad y de la rea-⟦Domain⟧ lidad. En Platón, observa Fouillée, los objetos de la metafísíca no presentan solamente lo que puede ser o lo que es, como los San Diego de otras ciencias, sino lo que debe ser; son concebidos, no solo bajo la idea de posibilidad o bajo la idea de realidad, sino California, bajo la idea de bien. Esto es exacto; pero al introducir Platún la idea de valor moral como idea suprema, la hizo con-⟦handle net /2927/ucl sistir en una idea de orden y no de libertad, como pretende⟧ Fouillée, convirtiendo el Bien racional platónico en Bondad afectiva y libre.
+
+⟦https://hdl⟧
+
+⟦Digitized by Google⟧
+
+[^p102-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 103]
+
+La razón, en su proceso dilaléctico ascendente, jamás llega a la libertad. Es preciso que se situe de golpe en una voluntad libre y creadora del orden para conciliar estos elementos de la vida del espíritu. Fouillée ha creído hacer eso mediante el amor, haciendo del amor libertad; pero si el pensamiento no puede crear la libertad, el amor no puede engendrarla tampoco. El amor intenso, que va hasta el sacrificio del yo, la absorción del ser amado, destruye la libertad, haciéndose infecundo. La fecundidad del espíritu impone la necesidad de imanciparlo de la doble tiranía del sentimiento y del pensamiento, que son sus instrumentos. La voluntad libre, dándoles forma, les da tambien valor.
+
+La filosofia platónica es por consiguiente, una filosofía ⟦del orden y no de la libertad. Fonsegrive lo afirma. Como⟧ Sócrates, dice Fonsegrive, Platón no admite que el hombre sea libre para elegir el fin general de sus acciones, ni aun el fin particular, cuando lo conoce claramente, con ciencia cierta, por las ideas que le muestra su razón. El poder de elegir, poder que Platón no parece haber nombrado en ninguna parte, que Aristóteles y después todos los antiguos llamaron, no la libertad, sino lo que depende de nosotros y que los modernos han llamado el libre albedrio, es reconocido por Platón y colocado por él en el dominio de la opinión. Poseerlo no es poseer un verdadero poder, sino una impotencia; no es una perfección, sino una verdadera imperfección. Así es como Platón aclara y completa a Sócrates. El ideal, como en Sócrates, es el determinismo del bien; pero en el hecho, el ideal está lejos de ser realizado siempre. Platón considera siempre el libre albedrio como una debilidad y como un defecto.
+
+⟦VII⟧ ⟦Fonsegrive-Pastore-Martin-Windelband-Gomperz— Renouvier-Weber⟧ ⟦San Diead | Public⟧
+
+⟦—Janet et Seailles-Fouillée-Ritter-ob. cit.—D. Patricio de Azcárate.⟧
+
+Obras de Aristóteles-A. Ed. Chaignet. Psychologie d' Aristote 1883.— ⟦Universitv ot Calltornia. /hdl.handle.net/2027/uc1.$b44069 J. Barthelemy-Saint-Hilaire. De la logique d' Aristote 1858—Leon⟧
+
+⟦Ollé-Laprune. Essai sur la morale d'Aristote 1881.-J. Barthelemy —⟧
+
+⟦Saint-Hilaire. La Metaphysique d'Aristote 1879-F. Ravaisson. Essai-⟧
+
+⟦sar la metaphysique d' Aristote-Henri Bergson. L' evolution creatrice⟧
+
+1908.
+
+Aristóteles (Estagira. 384-322 a. d. J. C.) discípulo de Platón, planteó y se propuso resolver en su filosofia el mis-
+
+⟦at⟧ generated
+
+Original from
+
+⟦Digitized by ( Google⟧ UNIVERSITY OF CALIFORNIA
+
+[p. 104]
+
+mo problema de la inteligibilidad tratado por su maestro, haciéndolo depender de otro de los factores que entran en él, necesariamente.
+
+El problema de la inteligibilidad, que es el del conocimiento y de la ciencia, depende de tres factores esenciales: el sujeto que conoce, el objeto materia del conocimiento y la ley a que debe someterse el primero para entender y explicar el segundo. La necesidad absoluta de estos tres elementos permite establecer dos tesis opuestas: o la norma lógica es anterior o superior al pensamiento que la aplica o es creada por este y depende de él. Platón, con su teoría de las Ideas, adoptó la primera tesis y Aristóteles, con sus categorías y principios obtenidos por la inducción, se decidió por la segunda. De allí las armonías у desacuerdos entre ambos filósofos, conformes en su intelectualismo fundamental, en la finalidad de sus respectivas filosofias, pero opuestos en la manera de resolver el mismo problema de la inteligibilidad.
+
+Para Fouillée el acuerdo es casi completo entre Platon y Aristóteles en lo que concierne a los grados del conocimien-⟦Google-digitized to y a la naturaleza sicológica de nuestras diversas faculta.⟧ des intelectuales. Su oposición no está en lo que podría lla-2025-07-23 06:57 marse el punto de vista subjetivo, sino en el valor esencial que acuerdan a los objetos de nuestras facultades. Lo que Aristóteles reprocha a Platón es el haber dado vida real a los géneros, a las Ideas, convirtiendo las nociones lógicas en entidades metafísicas y dando un poder activo a lo absoluto. Aristóteles considera a las Ideas cono puras abstracciones y niega que correspondan a realidades inteligibles, a formas vivientes de la sustancia y del pensamiento divino y por consiguiente anteriores y superiores al pensamiento. Lo que Pla-⟦nttps://hdl.handle.net/2027/ucl.$b44069/ Public Domain ton objetiva, Aristóteles lo reduce a un fenómeno completa-⟧ Universitv of California. San Dieao mente subjetivo del intelecto humano. Una cosa, dice, son las condiciones de la ciencia discursiva, otra cosa son las condiciones de la existencia; la realidad que Platon coloca en el género, Aristóteles la coloca en el individuo. Solo el individuo es real; la esencia real es la individualidad; la esencia y la existencia no se confunden sino en la absoluta indivisibilidad del acto que cae bajo el dominio de la experiencia y de la inmediata intuición. El acto es el fin al que tiende el ser y lo que produce la individualidad produciendo la forma.
+
+⟦Google⟧
+
+[^p104-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 105]
+
+Por ese fin es que el ser se mueve como potencia y realiza el acto, que es, al propio tiempo, la forma, el fin y el bien del ser. Ahora bien, ese acto, principio, fin y esencia del deseo que anima al ser y del movimiento que le sigue, ese acto considerado en sí mismo, es la perfección, el acabamiento de una cosa y, por decirlo así, es el máximum de esta cosa. Así cada cosa tiene su esencia en su perfección misma o en su acto. El acto puro, que es la pura forma, es la individualidad absoluta, la absoluta unidad, a la que se llega por una progresión ascendente, en la que el acto va realizando cada vez más la potencia virtual del ser, hasta realizarla de un modo perfecto en el acto puro, en la actividad sin potencia, en la que lo individual seidentifica con lo universal y se alcanza la perfección absoluta del Bien, la actividad absoluta de Dios, principio de toda inteligibilidad.
+
+La oposición de Aristóteles y de Platón, proviene, por consiguiente, según Fouillée, de que el primero considera el principio interno del ser y el segundo su principio externo. El primero funda la inteligibilidad en la energía del pensamiento, que crea el orden y lo imprime al mundo por atracción, por simpatía, como lo supremo deseable; el segundo coloca el orden sobre el pensamiento, haciendo de Dios, no una causa final, que atrae al mundo y le imprime un movimiento y una forma sin saberlo, como el Dios aristotélico, sino un demiurgo que ordena el mundo según las Ideas, modelos ó arquetipos de la realidad posible. Las Ideas no son verdaderas causas finales motrices para Aristóteles. Para Platón, al contrario, la inmovilidad de la Idea, lejos de estar en contradicción con el Bien y con el verdadero poder activo, es la condición esencial de la perfección y de la actividad. Admitir las Ideas en el pensamiento divino es, para Aristóteles, introducir en la razón intuitiva la razón discursiva; e introduciendo la pluralidad y el movimiento, lo que se introduce es el mal. Pero si no hay Ideas en el pensamiento divino, of California, hay ideas en el pensamiento humano. Las ideas son reales solamente en el entendimiento humano o en los objetos exteriores, que son poderes incompletamente actualizados y por lo mismo múltiples. Pero las ideas no forman un mundo inteligible, que envuelva en su contemplación la Inteligencia di-University vina y que lleve en su seno la perfección esencial de Dios.
+
+⟦Google⟧
+
+[^p105-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 106]
+
+Aristóteles rehusa obstinadamente atribuir a Dios esta comprensión y esta fecundidad de lo Universal, que es incapaz de producir, porque carece de causa motriz. Aristóteles considera toda multiplicidad en potencia como incompatible con la individualidad verdadera, en cuya consideración se encierra.
+
+Aristóteles, como observa Fouillée, además, no quiso seguir a Platón hasta el fin de su marcha dialéctica de formas supranaturales, sino que, rehusando abandonar la serie de formas naturales de los diversos grados del acto, creyó que sobre la inteligencia nada podía existir y estableció así una identidad absoluta entre la Inteligencia y el Bien. Pareciéndole, con razón, la Inteligencia, bajo la forma de una conciencia eterna, el grado supremo de la individualidad, se detuvo allí, sin experimentar la necesidad de un principio supremo, y por eso, cree Fouillée, que el bien universal, fuente inagotable del ser, del pensamiento y de la vida, superior a la esencia, a la inteligencia y al alma, en concepto de Platón, le pareció a Aristóteles una abstracción incomprensible.
+
+Foulilée no explica, sin embargo, la causa por la cual Aristóteles se detuvo en su escala dialéctica ascendente, en ese límite de lo subjetivo, absteniéndose de pasar a la objetividad pura de las Ideas, sino que se contrae a justificar la actitud platónica, que hace del Bien en sí, la fuente de lo universal y de lo individual, al mismo tiempo, atribuyéndole al primero una realidad que Aristóteles solo concede a lo individual, excluyendo a lo universal de la categoría de la esencia y confinándolo en la de relación, en donde incluye a las puras abstracciones. Relegado así el ser universal entre la abstracciones, Dios no era ya un ser comprensivo de todas ⟦Domain⟧ las determinaciones posibles, sino un ser sin otra determinación que el pensamiento de sí mismo, en cuya simplicidad, Public absolutamente indivisible, no cabía la pluralidad de las Ideas, San ni la explicación del gobierno directo del mundo. El Dios ⟦Jniversitv of California. handle net (2077/uc1.5144969 de Aristóteles es una providencia, pero sin saberlo. Dios ig-⟧ nora el Universo, aunque no deja de ser el principio de todo orden y de todo bien; porque el mundo lo conoce y experimenta su contacto bienhechor; el mundo se conmueve eternamente en presencia del objeto amado, que es Dios. La Naturaleza tiende por todas partes hacia el Bien, bajo la inme-
+
+⟦https://hdl⟧
+
+⟦Google⟧
+
+[^p106-1]: Original from Digitized by ( UNIVERSITY OF CALIFORNIA
+
+[p. 107]
+
+diata influencia del deseo. Su vuelo hacia el Bien es espontáneo, inconciente y, por lo mismo, ciego. Sin embargo produce y ordena todas las cosas, como lo haría el cálculo abstracto de una reflexión previsora. Lo que constituye la vida de la Naturaleza es el pensamiento; la Naturaleza no puede producir nada si no lleva el sello del pensamiento, nada que no sea inteligible, racional, bello y bueno. El orden del traundo tiene así su causa en la atracción ejercida por el acto divino sobre el poder material.
+
+El primer principio de Aristóteles es, por consiguiente, como afirma Raraisson, el pensamiento sustancial en toda la realidad de su acción la más perfecta, independiente de todo y bastándose a sí mismo; pensamiento sustancial del que depende todo, al que todo se refiere, presente en todo, como cada alma lo está en todo su cuerpo, desigualmente, diversamente y según como cada cosa lo puede expresar; es el pensamiento absolutamente activo y pensante en sí mismo, de un modo diverso y desigual en las cosas, según todas las difereracias de lo posible. Las analogías que Fouillée encuentra entre los principios fundamentales de Platón y de Aristó teles, combinando los elementos de universalidad e individualidad que entran en la realidad absoluta o reduciendo las cli a lécticas de uno y otro a la oposición entre materia e Idea, en la platónica, y entre materia y Pensamiento ên la aristotélica, no destruyen la tesis de Ravaisson; porque si biera ambas filosofías contemplan el mismo problema de la inteligibilidad de lo real, lo hacen desde puntos de vista difererates, que tienden a integrarse y que se integran, en efecto, pero que parten de principios muy diferentes y llegan a condu siones diversas. Platón hace de lo universal, de la Idea, del Orden absoluto, del principio de razón, la fuente de su doctrina idealista, principio que carece de eficacia para Aristóteles que le niega la causalidad motriz. Aristóteles, sin des-COta Ocer las Ideas, las subordina al pensamiento, en cuya natur aleza y funciones, con relación al objeto real, encuentra todos los elementos de su teoría dinámica, opuesta al estatismo cle la Idea platónica. Para Aristóteles, como afirma Ravaisson, no existe sino un solo principio real, un solo ser: el Pensamiento divino o la intuición de sí mismo, que aparece en los poderes diferentes de la materia, bajo mil formas y en
+
+Generated
+
+⟦Google⟧
+
+[^p107-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 108]
+
+mil operaciones diferentes, encontrándose apenas en los diferentes grados de la sensación y de la inteligencia, pero en posesión eterna de si en el acto simple de la contemplación.
+
+Aristóteles, que consideraba la sabiduría como una función de actividad contemplativa, de caracter divino, y que se inspiraba en la experiencia para inducir sus principios, encontró en el análisis de esa actividad todos los elementos de su sistema. Puede decirse que allí descubrió esa materia indeterminada y contingente, simple virtualidad o potencia, materia segunda cuya esencia es el movimiento; descubrió, así mismo, la esencia del movimiento, la tendencia, el deseo; la esencia del deseo, el alma; la esencia del alma, el pensamiento y la esencia del pensamiento, el pensamiento en sí, el acto puro del pensamiento, colocado en el último término de su dialéctica, en la que el primer término es la materia pura, eterna como el pensamiento puro, entidades metafísicas derivadas de la experiencia. Para Platón, la inteligencia es únicamente receptiva; la actividad radica en la Idea que norma a la inteligencia. Aristóteles niega a la Idea platónica su valor dinámico, establecido como postulado de caracter místico, y afirma la actividad del pensamiento como energía, que se traduce en acto y forma, que es, al mismo tiempo, un fin y un bien, que es la entelequia, palabra, que designa, como dice Bertrand, el acto, la forma, por oposición a la materia, y literalmente, para cada ser, la posesión de su perfección, de su fin interno. Esta concepción de la materia, como simple potencia o virtualidad, y de la forma, como acto, constituye la verdadera originalidad de Aristóteles, según Fouillée, y es ella la que lo conduce a sostener, como única realidad, la forma sustancial, el individuo, producto de la concurrencia de esos dos elementos sustanciales. La sustancia real es el individuo para Aristóteles; la Idea no es sustancia; es simple relación, como se ha dicho.
+
+En su Tratado delalma, Aristóteles establecía ya el fenó-⟦San⟧ ⟦California, net/2027/uc1.$b44069| meno que había de servirle para la constitución de su teoría⟧ teológica. Ocupándose del movimiento, coloca casi toda la causalidad en el objeto exterior deseado por el alma. El objeto deseado es el motor universal, que atrae al animal y lo ⟦oT⟧ pone en movimiento; teoría semejante a la famosa de su Metafísica, que hace de Dios el motor inmóvil del Universo, que
+
+⟦Google⟧
+
+[^p108-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 109]
+
+atrae todo lo demás por el deseo y el amor. La inteligencia
+
+y la voluntad, agrega Azcárate, son motores, sin duda; pero
+
+motores que son móviles, es decir, que tienen necesidad de
+
+recibir el movimiento que ellos comunican, pero que no
+
+⟦crean.⟧
+
+Aristóteles reconoce un entendimiento pasivo, humano,
+
+de caracter discursivo, que recibe las sensaciones y las tras-
+
+forma en conocimientos y leyes mediante la inducción. Pero
+
+admite, además, esa forma activa del pensarniento, en que és-
+
+te se refleja sobre sí mismo, entregándose a la contemplación
+
+de su propia actividad. Entonces el hombre se parece a los
+
+dioses. Sobre esta doble faz de la razón humana edifica su
+
+moral y clasifica y describe lo que llama virtudes prácticas
+
+y especulativas, colocando estas por cima de las anteriores.
+
+Es bello, dice, hacer reinar en los sentimientos, en las accio-
+
+nes, en todos los pasos, en toda la vida, el orden, la armo-
+
+nía, la razón; es bello reglar todas las relaciones sociales se-
+
+gún la razón; pero es mejor todavía vivir de la inteligencia
+
+misma; y en vez de proveer por ella a todo lo demás, esti-⟦Google-digitized marla por ella sola, dejarla obrar sola, gozar de ella sola.⟧
+
+Las ciencias particulares no tienen todavía ese desinteres, esa on 2025-07-23 06:57 libertad, esa soberana excelencia. Sirven para algo; tienen
+
+en la vida su empleo; reciben diversas aplicaciones; pero, no
+
+obstante su belleza, conservan algo de mercenario y de subal-
+
+terno. Son de un gran valor; pero no sirven para la virtud.
+
+Son menos estables; dan a la naturaleza humana una menor
+
+satisfacción, y el hombre que sabe mucho sin obrar bien, es
+
+menos hombre que el que obra bien sin saber mucho. El sa-
+
+ber, en este sentido particular, es inferior a la acción. Pero
+
+la ciencia suprema o mas bien la contemplación o sabiduría
+
+propiamente dicha, supera a la virtud práctica o moral. Las ⟦San Dieac buenas resoluciones y las buenas acciones palidecen ante ella.⟧
+
+Esa ciencia es el conocimiento de las cosas eternas e inmuta-
+
+bles, la ciencia del ser como ser, ciencia de lo divino, divina ⟦ot Calitornia, 2027/uc1.Sb44069 ella misma, y al mismo tiempo, conviniendo perfectamente⟧
+
+al hombre, puesto que es el acto mas elevado, mas completo,
+
+mas acabado, el mejor, la acción completamente interior,
+
+pero maravillosamente poderosa de la inteligencia, despren-
+
+dida de todo lo demás, libre de todo lazo extraño, sin consi-
+
+deración por las cosas inferiores, fijada en sí misma, acción
+
+Generated https://na
+
+⟦Digitzed by Google⟧
+
+[^p109-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 110]
+
+viva, enérgica y reposo absoluto, visión sin labor, intuición sin esfuerzo, posesión, sin languidez, del supremo objeto, unión, comercio íntimo, contacto de la inteligencia y de lo inteligible; todo luz, todo vida, todo goce último de las aspiraciones del hombre.
+
+Observa Ollé-Laprune, al reproducir estos pensamientos de Aristóteles, consignados en su Moral y en su Metafisica, que ese retrato del hombre honesto y sabio, así trazado, es el del griego de esa gran época, que va de Pericles a Alejandro. Allí se encuentra, dice Ollé-Laprune, ese gusto por la medida, la proporción y la belleza característico del griego; ese sentimiento de la vida sin exhuberancia; ese movimiento poderoso, pero sin fuego; cierta cosa de vivo, de agil, de noble, de divinamente apacible; cierta combinación feliz de libertad y de razón, de fuerza y de seductora dulzura. La actividad inteligente, libre y reglada, una bella y facil manera de atravesar la vida, tal es el caracter dominante del griego y eso es lo que encontramos en la moral de Aristóteles.
+
+Esta misma ponderación se encuentra en toda la filosofia aristotélica, en la que la tendencia a encontrar el término me-⟦Good le-a1d⟧ dio constituye el leit motiv, como dice Gomperz. Aristóteles cifra la felicidad más perfecta en la emancipación, que adquiere 2025 - 07-23| el espíritu contemplándose a sí mismo; pero reconoce, al mismo tiempo, la necesidad absoluta del órden; sólo que, idealizando el principio activo de la inteligencia, que crea la realidad con el acto y la forma, no admite la superioridad de ese orden ideal, y oscilando entre la inteligencia pasiva, que recibe las ideas universales como entidades superiores e independientes, y la activa, que crea por intuición los principios ⟦Domair⟧ eternos, se refugia en el misterioso dominio de la actividad divina contemplativa que ordena todo sin saberlo. ⟦San Diegd / Public⟧
+
+Una filosofía de esta naturaleza, que busca en el principio activo del espíritu la base de su sistema, parecería que se ⟦. $b44069|⟧ inclinara hacia la libertad, que constituye la esencia del indi-⟦Calitornia⟧ viduo moral; pero Aristóteles era la encarnación del tipo clá-⟦nttps://hdl.handle.net/2027/uc1 sico, que hace del orden la esencia de la vida, del orden pe-⟧ netrado de libertad estática, de razón y de finalidad y no podía salir de ese concepto de no-coacción, que no constituye la forma de la libertad opuesta a la causalidad racional.
+
+generated at
+
+⟦Google⟧
+
+[^p110-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 111]
+
+Actividad, razón, medida, belleza, estas palabras aparecen en cada página de Aristóteles, dice Ollé-Laprune. Ha dicho en la Poética que lo bello consiste en dos cosas: la grandeza y el orden. Ha dicho en la Metafísica, que los objetos de las matemáticas podían tener su belleza, puesto que los principales elementos de la belleza son el orden, la simetría, la determinación. Aristóteles quería que se viviese la vida mejor y la más elevada; que se desarrollase en sí el sér y las potencias del sér observando una regla, un orden; que cada cosa estuviera en su lugar y en su rango y que en la cima estuviese lo más excelente, a lo que se refiere todo lo demás. La virtud, en su concepto, ponía en el alma y en la conducta, el orden, la armonía y la medida; coordinaba las diversas partes de nuestro sér, definía y determinaba el rol de cada una; no dejaba nada en lo vago y en la indecisión; nada en el sueño, en un abandono indolente; quería que todo fuese neto; y esta vida bien arreglada tenía, a la vez, la fuerza y la medida, la amplitud y la proporción; era alguna cosa de grande y de ordenado.
+
+Este poder ordenador es la inteligencia que, al dar a la materia una forma, produce esas obras de arte que llamamos bellas. La inteligencia es la que, introduciendo en los sentimientos y en las acciones de los hombres el orden, cuyo principio lleva en sí misma, y dando así a la vida humana una forma, produce esta cosa maravillosamente bella, el hombre virtuoso. La inteligencia, cuyo rol es reglar, ordenar, actúa más y mejor en la ciudad que en el individuo. Su poder organizador se muestra allí mejor y su obra es más notable, más importante y más bella. Además, las prescripriones de la razón no reciben sino en la ciudad un valor verdaderamente imperativo. Hasta entonces sus decisiones se parecen a las de un hombre de gusto, que se pronuncia sobre los méritos o defectos de una obra de arte; aquí solamente hay mandato en sentido propio; por eso la obra moral por excelencia es para Aristóteles, como para el genio griego, la virtud social.
+
+Ollé-Laprune observa, además, que es en la sociedad en dondeelideal, regla completamente intelectual, llega a ser ley, propiamente dicha, porque es la expresión del orden Todo lo que es orden, arreglo, es ley; pero no un orden cualquiera, sino
+
+Generated
+
+⟦Google⟧
+
+[^p111-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 112]
+
+un orden conforme a la verdad y a la realidad y por tanto a la recta razón. La ley es razón, Logos, es decir arreglo o distribución racional de las cosas conforme a su verdadera naturaleza y a su esencia; es discurso o definición y decisión racional, expresando y determinando la conducta que es preciso mantener según el valor verdadero de las cosas; es pues justicia y derecho; es medida y proporción; ella no posee en las cosas una quimérica unidad, que borrando todas las diferencias, haría consistir la armonía en el unísono y la cadencia, en la repetición de una sola nota; sino que establece entre seres diversos, pero sin embargo iguales, una feliz armonía: buenas leyes, buen orden, es la misma cosa.
+
+Pero esta inteligencia ordenadora encuentra en sí las normas del orden inspiradas por su elemento divino, y las encuentra en su actividad contemplativa, que es la más perfecta y la que refleja la pertección de ese sér que es todo acto y que, por lo mismo, a nada mueve, ni nada lo mueve. Según Aristóteles, hay una región puramente humana en la que residen lo bello, el orden, la medida, la razón, el logos, término, que en medio de su riqueza de acepciones, expresa una sola idea. El Logos, palabra, discurso, acción distinta, razón de 06:57 las cosas y razón del hombre, percibiendo la razón de las cosas, es, en concepto de Ollé-Laprune, todo lo que explica, caon 2025-07-23 racteriza, define, denota lo que existe, discerniéndolo de lo demás y poniéndolo en su lugar; es lo que determina al sér en sí mismo por su forma o esencia y, en segnida, en el espírítu por la acción precisa y la palabra propia. Hay en todo lo que tiene razón o participa de élla o es definido por élla, algo ⟦-he⟧ de fijo, de medido, algo de proporción bien tomada, algo de justeza y sobriedad, que no es muy grande, ni muy pequeño, ⟦San Diego through ttps:1/hdl.handle.net/2027/ucl.$b44069 / Public Domain que no tiene defecto, ni exceso, y que constituye esa gracia⟧ encantadora quenace de la armonía perfecta y acabada. Esa razón es regla. Manteniendo las cosas en los límites de sn naturaleza, marca lo que les conviene y discierne las condicioat University of California. nes de su perfección; porque su perfección es el desarrollo, el acabamiento, la realización de la naturaleza misma, conforme a la noción verdadera del sér, a su esencia, a su ideal. El hombre, conduciéndose por la razón y viviendo según la virtud, llega a esta belleza, a esta pertección.
+
+Generated
+
+⟦Google⟧
+
+[^p112-1]: Original from Diaitized by ( UNIVERSITY OF CALIFORNIA
+
+[p. 113]
+
+Por cima de esta razón humana, lógica, estética, práctica, que vive y se desarrolla dentro de la realidad, se eleva el Nous, el elemento divino de la razón, que recibe el hombre de Dios y que participa de la naturaleza contemplativa del pensamiento divino. Sólo el Nous es divino, dice Gomperz. Arístóteles, agrega, habla del Nous, a veces, en un sentido estrecho, a veces en un sentido amplio. Ya es la facultad de pensar en general, aquella por medio de la que el alma concibe ideas y forma suposiciones, ya se sirve de la misma expresión, como opuesta a todo conocimiento mediato, a toda prueba, a toda reflexión, al Logos. La función del Nous es • para él un «contacto»; la compara a la percepción sensible de la que constituye, por decir así, una categoría superior; es la facultad, podría decirse, del conocimiento racional intuitivo. Ese Nous, en sentido extricto, es, para Gomperz, el órgano de la intuíción de los conceptos.
+
+Esta misma función contemplativa, ideal y desinteresada del pensamiento superior, está en armonía con el espíritu griego, que asocia la emancipación, la espontaneidad, al orden lógico. El espíritu se emancipa así de lo objetivo, de la obra a la que está adherido y se encuentra dueño de sí. El goce de la no-coacción se realiza en ese momento de independencia, en el que el pensamiento que ama, gozando de sí mismo, que considera este goce como la cosa más liberal y más noble, encuentra enesta suficiencia, en esta independencia, algo de divino, como hace notar Ollé-Laprune. El pensamiento, dice este fllósofo, no adquiere su plena independencia, no se basta plenamente a si mismo, sino cuando contempla en sí las cosas universales, inmutables y eternas y, tomando como objeto lo divino, llega a ser en cierto modo divino.
+
+En esta compenetración de lo divino y de lo humano, en el que el pensamiento asociado a la eficacia divina, explica el orden moral, como la Naturaleza y Dios explican el orden en ⟦San⟧ el Universo, Aristóteles aparece indeciso. Adversario de to-* do antropomorfismo, no quiso repetir con Platón, que Dios es el organizador del mundo; y en su celo por la pureza de la soberana inteligencia, parece, como dice Ollé-Laprune, que quiso quitarle el conocimiento mismo de este Universo supri. miendo la providencia. La acción providencial pertenece a la Naturaleza; élla es la que, en todas las cosas, aspira a lo
+
+⟦Google⟧
+
+[^p113-1]: Original from Digitized by ( UNIVERSITY OF CALIFORNIA
+
+[p. 114]
+
+mejor. En todas las cosas la vemos hacer lo que es mejor entre los posibles. Lo que pierde de un lado lo recupera de otro; lo que quita aquí lo agrega allá. Ella establece el equilibrio, repara el desorden, cura la enfermedad. Siempre trabaja sobre la masa inerte del cuerpo; la forma y la transforma. Por último, nada hace en vano; élla es la causa de todo orden; por todas partes establece y conserva la proporción y la belleza. El demiurgo eterno, el artista siempre en trabajo es la vida universal, el alma universal, la Naturaleza. Pero la Naturaleza no se regla porlas Ideas, comoel demiurgo de Platón. Las Ideas no son concebidas sino por la razón reflexiva del hombre y no por la razón espontánea de la Na-, ⟦turaleza.⟧
+
+Aristóteles, que no admitía lo universal independiente de la realidad individual; que rechazaba las Ideas platónicas, porque no eran principios de acción; que explicaba los géneros por el esfuerzo del pensamiento, elevaba este principio de energía a la altura de un acto eterno y puro, esencia de la divinidad y no descubría otro medio de explicar la concepción de las verdades eternas, generadoras del orden absoluto o que lo constituyen, sino apelando a la compenetración de lo divino y lo humano, de la materia pura y el pensamiento puro, operado por el misterioso atractivo del amor, que no explica esa compenetración, sino que deja separados siempre los dos principios de la inteligibilidad, que son también los de la realidad. Aristóteles, en el proceso ascendente de las verdades, sentía la necesidad de un límite absoluto, venido de fuera y del pensamiento divino. Si no hubiese en nuestra razón nada que venga de fuera y de más alto, no tendría, en efecto, el derecho de decidir sobre lo que es verdadero y lo ⟦Domain⟧ que es falso, sobre lo que es bueno y lo que es malo; y está exigencia lógica había de engendrar ese concepto de la acti-⟦San Diego / Puhlic⟧ vidad pura y contemplativa del pensamiento, pensando en sí mismo, para encontrar en sí ese límite absoluto del proceso cognoscitivo, El orden se hacía así inmanente y trascendía después al exterior como reflejo de la actividad interior. Ese • ⟦net (2077/|c]|⟧ orden era puesto por Dios como reflejo de su naturaleza en el alma humana y en la vida de la Naturaleza. University of
+
+La idea de orden desempeña así un rol importantísimo en la filosofia aristotélica, aun cuando no descanse en ella la
+
+⟦Digitzed by Google⟧
+
+[^p114-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 115]
+
+base del problema de la inteligibilidad de lo real que resuelve mediante los demás factores que entran en ese problema. El mismo principio de razón ordenadora anima esta filosofia como la platónica. Aristóteles exalta esa función ordenadoa de la razón humana, como se ha visto. La razón, la recta razón, da, por decrir así, la forma a la vida humana. Allí, donde Aristóteles nombra lo que hace la razón, dice que define, que ordena. Las virtudes son cosas que dependen de nore. tros, cosas voluntarias; pero este voluntario, esta libre actividad, recibe su forma de la recta razón. La acción virtuosa es la que la recta razón, la razón en su absoluta rectitud, pediría . que fuese. Aristóteles no emplea la palabra obligación. La idea dominante expresada por todas las palabras que usa, es la idea de orden, de conveniencia, de armonía, de belleza. La recta razón ordena; tiene poroficio mucho menosdar órdenes, are poner en orden. Aun cuando prescribe una acción, prescribe más bien un bello arreglo, una bella disposición del alma y de la vida, que enuncia un artículo de ley. La forma que da es estética más bien que legal, agrega Ollé-Laprune. Ella arregla el espíritu, el sentimiento, asignando a cada cosa si lugar, determinando así la conducta, mucho más análoga en esto a un principio íntimo de armonía que a una ley que manda. La recta razón, reguladora, sin ser, propiamente hablando, imperativa, es el hombre mismo conociéndose tal como es, en la verdad de su naturaleza.
+
+Sin embargo, el orden puro no es para Aristóteles una realidad sustancial; es necesario que se individualice para que tenga el valor de sustancia, que ad quiera forma, mediante una actividad que convierta la potencia en acto, para que sea una realidad, y que desarrolle todo el poder de que es capaz el individuo, que llene cumplidamente su fin para que alcance toda suidealidad y toda su realidad. Lo individual en-⟦San Diead⟧ carnaría así todo lo universal de su género; es decir todo su orden. La razón humana tiene por oficio pensar lo universal en lo individual, como la realidad penetrar lo individual de lo universal; siendo lo universal el orden a que pertenece lo individual, el género dentro del que el pensamiento ordena la realidad individual. Para Aristóteles la recta razón, la rażón que engendra el ideal y crea el orden no produce sentencias abstractas: ella es esta viva y clara inteligencia que
+
+⟦Google⟧
+
+[^p115-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 116]
+
+percibe en cada cosa lo que hay que hacer, como dice Olle-Laprune. Un sentimiento la acompaña, pero de acuerdo con la razon: es el placer del sabio, que es el verdadero plicer, lo que constituye la felicidad perfecta. La recta razón juzga pues a la manera de un artista.
+
+La idea de libertad ocupa también un lugar importante en la filosofía aristotélica, aun cuando su naturaleza no sea la de la libertad entendida en el sentido de no causalidad, como hemos dicho. Sometido todo a la razón determinante, a la causa final, Aristóteles no podía entender la libertad sino como sumisión a la inteligencia, como la entendieron todos los antiguos. Sin embargo se ocupó de los actos libres en su Moral; sintió allí la necesidad de distinguir los actos voluntarios de los involuntarios para justificar la alabanza y la censura; habló de actos libres, producto de la preferencia en el momento mismo que se practican; estudió la preferencia o intención que determina nuestras resoluciones; las distinguió de la deliberación; definió la intención o preferencia como el deseo reflexivo de las cosas que dependen de nosotros solamente; pero, en este proceso de la conciencia moral, la razón impera como en todo; nuestra intención, nuestra preferencia escoge las cosas que sabemos que son buenas; no es sobre el fin mismo que se delibera, sino sobre los medios que pueden conducir a él; el objeto de la intención o preterencia debe estar previamente tijado; el tin, que es el bier perseguido, es predeterminado por la inteligencia. El bier está en la actividad propia de cada ser. Aristóteles, por otra parte, confunde los actos voluntarios con los libres; no considera estos como una especie de aquellos; son involuntarias todas las cosas que se hacen por fuerza mayor o por ignorancia. El conocimiento es, según Aristóteles, el acto ver-⟦San Diedo net/2027/ucl.$b44069 / Public daderamente propio del hombre y que al mismo tiempo su-⟧ pera al hombre; ese es el fin, ese es el soberano bien. La libertad no existe ante la fuerza imperativa del pensamiento. ⟦Calıtornia,|⟧
+
+Para Aristóteles, lo necesario es lo que existe siempre, lo imposible lo que no existejamás, lo posiblelo que puede igualmente ser o no ser, lo que no existe todavía, peró que puede ⟦OT⟧ existir lo contingente, al contrario, eslo que existe ya, pero que versity podía dejar de existir; pero Aristóteles confunde, a menudo, lo posible y lo contingente. Su concepto de la materia parece im-
+
+generated
+
+⟦Google⟧
+
+[^p116-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 117]
+
+plicar la idea de la contingencia por entrañar la posibilidad de engendrar los contrarios. Todo ser u objeto individual, antes de existir, podía ser lo que es o su contrario; antes de ser esto mas bien que aquello, podía ser indiferentemente esto o aquello. Este poder indeterminado de donde nacen los contrarios es, precisamente, la materia para Aristóteles. Pero esta materia, sujeto de todo cambio, condición de todo devenir, increada e imperecedera, sin cualidad, anterior a los elementos mismos y a sus diferencias y que escapa a nuestras percepciones, es como la materia segunda perceptible, no un poder libre, sino una mera virtualidad accesible a toda forma; encierra la posibilidad y no la verdadera contingencia. Aristóteles, por otra parte, se muestra siempre adversario de la doctrina del azar y dirige su admiración profundamente entusiasta hacia la sabiduría y la previsión de la Naturaleza, como observa Barthelemy-Saint-Hilaire. Por consiguiente, no podía admitir la contingencia en la Naturaleza como producto de una actividad emancipada del imperio determinante de la inteligencia.
+
+Para Fonsegrive, Aristóteles creyó en un poder del hombre, en una cierta indeterminación de los actos, en un libre albedrío, sin tener de este la idea que hoy se tiene. Fonsegrive piensa, que Aristóteles, en su Moral a Nicomaco, encontró, en la elección, la característica del poder del hombre sobre sus acciones; que descubrió en la contingencia la condición de la elección y discutió las consecuencias lógicas de la indeterminación de las acciones humanas. Intere de allí Fonsegrive, que no se puede negar, que Aristóteles ha creído en el poder del hombre sobre sus acciones, en una elección libre, imposible de determinar y prever; pero que, como Sócra. tes y Platón, había creido, que hay una tendencia gencral del hombre hacia el bien, tendencia que juega cerca de la razón humana el mismo rol que juega el apetito cerca de la sensibilidad animal. Esta tendencia se nos impone; no San deliberamos sobre su existencia; la aceptamos. Es a esta $h44969 tendencia general a la que Aristóteles reserva el nombre de voluntad.
+
+Fonsegrive reconoce así, que Aristóteles no admite una indeterminación absoluta del ser, sino una indeterminación relativa, hija de las pasiones, que escapan al determinismo ⟦Generated nttps://hdl.handle⟧
+
+⟦Google⟧
+
+[^p117-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 118]
+
+de la razón. Para Aristóteles, como para la antigüedad entera, salvo Epicuro, dice Fonsegrive, la contingencia, la indeterminación de los actos no es un poder del que podamos enorgullecernos. Somos superiores a los animales, a los qua falta esta indeterminación; pero no les somos superiores sino por las determinaciones mas numerosas que poseemos. Si a sus determinaciones no se mezcla la indeterminación en los actos, es que no pueden prescindir de esta certidumbre y de esta determinación. Poseemos, además, la razón, y como no podemos poseerla entera y perfecta, absolutamente en acto, se mezcla necesariamente con ella, la materia, la potencia, y de allí la contingencia y la indeterminación. El ideal* permanece siempre sobre la contingencia y la indeterminación, en la esfera de la acción indefectible y sólida, en la inde. pendencia perfecta del ser, que permanece inmóvil en el seno de la beatitud y de su eterno pensamiento. Según Fonsegrive, Aristóteles descubrió entre las condiciones del acto moral la idea de un comienzo de acción que debe encontrarse en el agente. El hombre debe ser el padre de su acción para ser responsable de ella. Aristóteles descubrió también un atractivo general invencible hacia el bien; pero el hombre era dueño de elegir sus acciones particulares, y el Estagirita se pronunció resueltamente por la contingencia de los futuros. Fonsegrive reconoce así, un principio de libertad en la filosofía aristotélica, pero que no llega a la libertad absoluta, a donde no podía llegar, porque, propiamente hablando, el principio divino iniciaba el acto humano, que el hombre se encargaba de acabar eligiendo los medios en virtud de un proceso racional.
+
+Según Gomperz, se podría decir, que Aristóteles era en ⟦Domain⟧ nueve décimos determinista y en un décimo indeterminista. Por la manera como ha discutido la idea del azar, se ha concluido, de un modo absolutamente erroneo, dice Gom-⟦San⟧ perz, que atacaba la universal causalidad. Sin mas razón se ⟦Calitornia. .net/2027/uc1.$b44069 le ha hecho defensor del libre albedrío, en los pasages en que⟧ solo quería hablar de actos arbitrarios, que revelaban la animalidad é igualmente comunes a los hombres y a las bestias, a los niños y a los adultos. Los sentimientos, las tendencias de la voluntad o las cualidades morales son cosas ofrecidas ⟦Unıversıty⟧ por el hombre maduro; tal es el punto esencial de su doctri-⟦at ttps://hdl_handle⟧
+
+⟦Google⟧
+
+[^p118-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 119]
+
+na. Aristóteles declara con toda energía y casi en los términos de un determinista moderno, que nosotros no podemos querer ser inmediatamente indiferentes de lo que somos. Ocupándose Aristóteles de la base racional que debe darse a la imputación de las acciones, se engolta en una serie de obserraciones y objeciones que revelan que no era un convencido de la libertad. Al comienzo de su disertación, designa al hombre como «el autor» de su disposición; luego no le atribuye ya esta cualidad, sino, «por decir así», despues «en cierta medida» y finalmente no ve ya en él sino al «coautor», en cierta manera, de esta disposición originaria del hombre, hablando como un determinista convencido. No es la consideración de esta libertad de elección primitiva, de la libertad de disposicion, de su proximidad o de su alejamiento en el tiempo, lo que determina el juicio de Aristóteles en cuanto al castigo reservado a tal o cual acción, sino únicamente la consi. deración de la utilidad social de ese castigo, utilidad sobre la que insiste expresamente.
+
+La opinión determinista que predomina en Aristóteles es desmentida todavía, en apariencia, sobre otro punto, continúa Gomperz. En apariencia, porque lo que ataca en realidad no es, de ningún modo el determinismo, sino el fatalismo, que le es semejante, pero no del todo idéntico. Si todo sucede por necesidad, dice Aristóteles, no queda ningún lugar para la acción humana y para la deliberación que la precede. El hecho que la «reflexión» humana y la acción que deriva de ella intervengan de muchas maneras en el curso de las cosas, conduce al Estagirita a protestar contra la mecanización de todo lo que pasa en la tierra. Gomperz hace notar, que, allí mismo, Aristóteles no habla propiamente de la voluntad humana y no quiere, por consiguiente, insistir ⟦University of California, San Diego nttps://hdl.handle.net/2027/ucl.$b44069/ Public sobre io que se llama el libre albedrío, tanto como sobre la ca-⟧ pacidad de la «reflexión» de la «deliberación interior» y de la capacidad de actuar de una manera que dependa de ella. Si Aristóteles hubiese sido invitado a extender su opinión, no habría, en concepto de Gomperz, negado ciertamente que esas reflexiones poseen, cada vez, una historia anterior, que están determinadas por el estado de conocimiento y por la capacidad de pensar del que reflexiona y, sobre todo, que están coloreadas por las emociones del individuo de que se tra-
+
+⟦Google⟧
+
+[^p119-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 120]
+
+ta, hecho que Aristóteles reconoce, por otra parte, de la manera mas categórica.
+
+Las opiniones expuestas demuestran que Aristóteles no tuvo una visión clara del fenómeno de la libertad moral. Su modo de concebir la realidad no le permitía penetrar en esa profundidad. En una sicología intelectualista, como dice Chaignet, la teoría de la voluntad había de ser oscura e incierta. Aristóteles habla de la libertad, pero para él, el hombre es esencialmente una razón; pertenecerse a sí mismo es pertenecer a la razón, conformarse a sus leyes, ser su esclavo; sólo la razón es libre; ella es la que nos hace conocer el bien, la perfección, lo divino; la voluntad es un deseo razonado, una razón que desea, una fuerza que se somete al principio ordenador, al bien, que por su telleza, eternamente deseable, produce, sin moverse, el movimiento y con el movimiento el orden en el Universo.
+
+Chaignet confirma lo que dejamos dicho, respecto a la sicología de Aristóteles: ella prepara toda su filosofía. Aristóteles manifestó, que, por la sicología del entendimiento y de la razón solamente, podemos descubrir los principios de la ciencia misma, que no podemos percibir las causas supremas sin un esfuerzo del pensamiento; que la sicología es impor-2025-07-23 tante para la política y la moral y principalmente para hacernos conocer la Naturaleza, es decir la causa y el principio del movimiento primero de cada ser, el alma o sea la esencia de las cosas que tienen un movimiento y tienen en sí mismos el principio de ese movimiento. Es en la sicología de su propia alma endonde Aristóteles busca, la explicación de toda la realidad. Es en el juego libre de su razón activa y contemplativa en donde encuentra la perfección humana, que eleva a la categoría divina y de la cual hace el principio inteligible del Universo. Es allí en donde observa realizado ese orden estético, compenetración de la idea y de la libertad, que expresa la potencia convertida en acto, la materia vivificada of California, por la forma. La concepción del mundo es estética para Aristóteles, a quien con justa razón, se le considera por eso, como encarnación del genio griego, que entendía la realidad de ese modo. El orden fisico es estético, estético es también ⟦Jniversıtv⟧ el orden teleológico, porque la finalidad y la forma se confunden en el pensamiento aristotélico. El orden reina por to-
+
+⟦generated ttps://hdl⟧
+
+⟦Google⟧
+
+[^p120-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 121]
+
+das partes; pero ese orden es creado por el pensamiento, como el orden estético es engendrado por el genio artístico.
+
+Es evidente, dice Ritter, que Aristóteles concibe la formación del mundo por analogía con la producción artística. Por eso, todos los ejemplos, por medio de los que quiere hacer sensible el concurso de las cuatro causas: material, formal, motriz y final, están tomadas de las obras del arte plástico. Aristóteles considera las obras de la razón como obrasde arte, en oposición a las obras dela Naturaleza; pero la Naturaleza misma, agrega Ritter, ejecuta su obra como un artista inconciente. Según este filósofo, Aristóteles no ha estado lejos de pensar, que en todo el Universo circulaba un calor vivificante y que todo estaba, en cierto modo, lleno de alma, de alma que aspira a tomar una forma, no una forma pura, como en la lógica del pensamiento, sino una configuración exterior, la coordinación de diferentes partes de un cuerpo, de manera que pudiese producir una figura determinada. La vida en la Naturaleza crea, pues, inconcientemente esta figura, como el escultor crea la forma de la estátua imponiéndola a la materia. La Naturaleza crea así el orden; es decir, una cierta relación estética entre las cosas. La Naturaleza como el Arte tiene necesidad de proporción y de semetría, y la forma es considerada como una fuerza que mantiene los elementos en relación entre sí, en un cierto orden. La Naturaleza, para Aristóteles, obra artísticamente; no con una conciencia perfecta, sino sólo segun un movil que ignora; no es divina, sino demoniaca, dice Ritter. Por eso Aristóteles considera el azar entre las causas activas de la Naturaleza. La Naturaleza como el Arte puede fallar; porque ambos no realizan su obra por reflexión racional.
+
+No sólo pone Aristóteles en la Naturaleza un orden estético engendrado por la vida, que busca su forma y la encuentra, sino que considera el espacio mismo como algo que in. dica un orden determinado en el mundo y que aún lo funda en cierto modo. Aristóteles, dice Ritter, no concebía la idea del espacio, de la manera más general, sino que lo constituía en una relación viviente con las relaciones de orden que forman, según él, la esencia del mundo. El orden en el espacio es considerado como fuerza motriz.
+
+Aristóteles introduce este mismo principio en su concepción astronómica. El orden se mantenía constante en el
+
+generated
+
+⟦Digitized by Google⟧
+
+[^p121-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 122]
+
+movimiento sin reposo de las esferas superiores del Cielo, que recibían de Dios el movimiento por atracción y lo comunicaban al mundo sublunar de las cosas perecederas, Aristóteles atribuía al Cielo todo lo que existía de bien; porque en el Cielo hay un movimiento más regular que sobre la tie-⟦tra. El Cielo tenía en su concepto, una alma y llevaba en sí⟧ el principio del movimiento. Si en la tierra comienza el desorden y perdura en ella, Aristóteles la convierte en un vasto taller en el que cada ser trabaja en transformar la potencia en acto, lo imperfecto en perfecto, como el artista que perfecciona la realidad idealizándola, no para suprimir la vida sino para imprimirla a la materia inerte mediante la forma.
+
+La forma es la expresión del orden en la Naturaleza como en el Arte; es el orden en sí mismo, que Aristóteles consideró como eterno, eliminando la idea del caos, admitido por la Mitología, aún cuando no hizo de ese orden, como Platón, una entidad directora del pensamiento divino. El pensamiento libre del artista crea el orden estético, como el pensamiento divino crea el orden universal penetrando en toda la realidad. La finalidad de la forma por la forma entra en uno' y otro. Weber observa que el fin, como principio de movimiento en el Arte, lo es tambien en la Naturaleza artística, porque ese fin es lo bello apetecido por la realidad. Dios es lo absoluto y eternamente deseable, porque es lo absoluto y eternamente bello. La finalidad universal se convierte así en finalidad estética. Sólo que este Dios, este supremo deseable, este ideal de perfección, lo pide Aristóteles a la vida imperfecta y mortal como observa Renouvier. La vida contemplativa del sabio es el germen de esa divinidad a la que Aristóteles se eleva por inducción.
+
+Pero esa vida expresa la contemplación artística en el ⟦San Diego handle net|2077/uc15h44969 | Public mundo clásico. El arte clásico, cuya forma típica es la escul-⟧ tura, es un arte racional, en el que el alma se emancipa de todo fin práctico, para vivir de la pura contemplación de un or-California, den ideal de imágenes que se elevan por cima de la realidad existente y ocupan una región que parece divina. El alma encuentra allí esa emancipación, esa libertad del acto puro de que goza el sabio; el sentimiento lógico constituye la esencia y el fondo del sentimiento estético, y sabio y artista se con-
+
+⟦generated https://hdl⟧
+
+⟦Digitized by Google⟧
+
+[^p122-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 123]
+
+funden en el mismo placer libre. El orden estético y el orden lógico son aquí la misma cosa.
+
+Esta conjunción de ambos órdenes se realiza en el orden moral, que para Aristóteles es el orden de lo bello. La virtud es excelencia, es perfección, es obra acabada; pero, al mismo tiempo, es medida, es proporción, regla, orden, lo medio bien tomado entre lo excesivo y lo deficiente. Así como el Universo está lleno de orden y de armonía, hay algo de análogo en los individuos. Gomperz cree que el bello ordenamiento del Universo, la belleza del Kosmos mismo determinó el juicio de Aristóteles, como había determinado el de Anaxágoras, de Diógenes de Apolonio y de Platón; pero admitiendo la influencia poderosa de lo objetivo sobre la conciencia helénica, no es arbitrario suponer, que en la de Aristóteles, formada ya por elideal griego artístico, esa armonía petecida y buscada en las acciones, como en las ideas, era un . reflejo de su alma ordenada, en la que la razón había establecido el equilibrio de la sabiduría.
+
+Por eso lo bello es para Aristóteles el nombre propio de la moralidad; porque lo bello es orden y libertad al propio tiempo. Aristóteles, dice Ollé-Laprune, opone lo bello a lo necesario, a lo fatal. Es preciso hacer lo que es bello; es decir se debe hacer lo que es bello. Es lo bello lo que Aristóteles considera de preferencia en la acción moral; pero es lo bello como orden racional o lógico. Lo que es preciso hacer es cier. tamente lo que se debe hacer; peró es también lo que conviene hacer, y lo que es bello hacer es lo quela razón prescribe. Aristóteles no emplea la palabra obligación como hemos dicho. La idea dominante expresada por todas las palabras que usa, es laidea de orden, de conciencia, de armonía, de belleza, y la razón, la recta razón es la que concibe el ideal del hombre, de la vida humana. Aristóteles no habla tampoco de la con-⟦San Diedo⟧ ciencia. La recta razón juzga, pero es a la manera de un artista. Ella decide lo que hay que hacer para realizar el ideal y cuando la obra está ejecutada se pronuncia sobre su valor, es decir, que decide si lo ideal está realizado o no y hasta que punto. La idea que se forma Aristóteles de la responsabilidad en el fuero interno, agrega Ollé-Laprune, puede decirse que es estética, más bien que propiamente moral. Lo bueno es lo bello, como lo malo es lo feo. Los juicios de
+
+⟦generatedi⟧
+
+⟦Google⟧
+
+[^p123-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 124]
+
+la recta razón, tal como la entiende Aristóteles, establecen las condiciones de la belleza humana, más bien que de la moralidad propiamente dicha. Si interpretamos sus fórmulas en su sentido propio y original, según sus ideas, más que según las nuestras, es siempre el orden, la conveniencia, la proporción, la armonía, en fin, lo que se trata de reconocer en las acciones humanas. La razón práctica de que habla Aristóteles, es la conciencia, seguramente, pero no la conciencia con el sentimiento de responsabilidad propiamente moral, con los sublimes terrores que inspiran el pecado y sus consecuencias, con el respeto profundo, absoluto, hacia una ley soberana, imperiosa, inflexible, al mismo tiempo que sábia y buena, sino la conciencia con exquisitas delicadezas de artista, con el disgusto por lo feo, con un vivo amor por todo lo que es nobleza, gracia, belleza. La política misma de Aristóteles constituye una admirableobra de arte, comodice ⟦Eucken.⟧
+
+Ahora bien; sin desconocer el fin lógico que persigue el pensamiento aristotélico en el concepto de la realidad fisica y síquica; admitiendo que sea la intuición de los conceptos primarios y esenciales el fin que se atribuye a la vída contemplativa, fin que no se apartó jamás del orden estético en la vida helénica, no parece aventurado descubrir en esa contemplación intensa y absorvente del pensamiento sobre el pensamiento mismo, la expresión del extásis estético, que invade todo el alma, confundiendo las armonías del objeto artístico con las del espíritu que se alimenta de sí mismo en ese estado. Sólo la intuición estética tiene ese poder de pene-⟦through Hai⟧ trar en la esencia de la realidad y fundir, en una sóla vida, la vida del espíritu con las energíasdei mundo exterior, a las que imprime el sello de la individualidad humana. Aristóteles, eminentemente artista, en medio del intelectualismo he-Diego / Public lénico, encontró en esa misteriosa intuición, que escapa al análisis de la ciencia, el orden estético del que hizo la base y ⟦of Californial handle.net/2027/uc1.$b44069 el centro de su filosofía; no el orden absoluto, superior al⟧ pensamiento y rigiendo a este en el conceptode las cosas y en su gobierno; sino el orden creado en la profundidad de la conciencia por la conciencia misma y elevado, como valor real, a la categoría divina, para hacer de él un principio de inteligi-University bilidad universal. Ese orden, que el pensamiento descubría,
+
+Generated
+
+⟦Digitized by Google⟧
+
+[^p124-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 125]
+
+como una síntesis armónica, en la que la realidad de la vida, con toda su multiplicidad, no desaparecía jamás, era el orden estético, que el alma intue en su armonía interior y que cear libremente, combinando los elementos sensibles en el mundo del arte, en el que penetra, para darle vida, la irradiación del espíritu.
+
+Aristóteles redujo a ese orden estético el orden físico, como el lógico y el teleológico. Como se ha dicho el orden estético clásico es eminentemente racional; en el arte helénico el sentimiento lógico sirve de fondo y le imprime su naturaleza, a diferencia del arte romántico en el que los sentimientos moral y religioso le dan ese carácter de infinitud opuesto a la medida helenica, inseparable del límite y de lo finito. El fin teleológico era la forma, la actividad realizada, el acto, la expresión más acabada de la potencialidad encerrada en la materia, función que Aristóteles mismo comparaba a la del arte, que traduce en su obra esa misma potencialidad, dando forma a lo que el espíritu considera como ideal o esencia de la vida. El orden físico era concebido también bajo el punto de vista estético. Pastore establece, a este respecto, con razón, que la logicidad de lo real era netamente intuida a la luz del principio lógico de la proporción universal, proporción que entraña el concepto estético. Los antiguos, dice Bergson, reducían el orden fisico al orden vital, es decir las leyes a los géneros; pero su concepción del mundo era geométrica; la duración era la faz negativa del espacio; el movimiento la atenuación de lo permanente, que se cristalizaba en la Forma o la Idea, introduciendo así el concepto estético de la forma ideal totalmente realizada, que es el concepto clásico, en la inteligibilidad de todo lo real.
+
+Considerada bajo este aspecto la filosofía aristotélica, podría decirse aún, que Aristóteles fué no sólo un estético, sino también un subjetivista, opuesto al objetivismo abso-⟦San⟧ luto de su maestro. No lo fué, ciertamente, tanto, que hiciese de la voluntad libre la energía creadora del mundo y de sus leyes. Aristóteles vislumbró la libertad en ese estado contemplativo del Nous divino, que se emancipa absolutamente de todo otro ser, si bien para constituir una actividad inmóvil, una forma pura, un acto puro, supremo deseable de la realidad que le era extraña; pero esa libertad estática,
+
+⟦Generated ottos://hd⟧
+
+⟦Google⟧
+
+[^p125-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 126]
+
+consistía en una no-coacción solamente, en un equilibrio que convertía en armonía viviente y estética, lo que era puro mecanismo de la materia inerte. La espontaneidad era entendida en la moral de Aristóteles, como se ha visto, en el sentido de la acción arbitraria, comun a los hombres y a los animales; y si reconoció un grado suverior de espontaneidad en la decisión voluntaria acompañada de reflexión, aspiración, fundada sobre la deliberación interna, hácia lo que está sometido a nuestro poder, como reconoce Gomperz, esa espontaneidad era regida siempre por la razón determinante como causalidad necesaria y de carácter objetivo.
+
+Tiberghien, comparando el armonismo platónico con el aristotélico, establece que el primero consistía en la relación de la unidad absoluta con la variedad de las cosas, concebida en provecho de la unidad, de la trascendencia y del idealismo; mientras que el segundo era la relación de la unidad absoluta concebida en provecho de la variedad y de la individualidad, de la inmanencia y el realismo; pero que en este concepto, el término armónico de Aristóteles aparece no como un principio sustancial, sino lógico, no como verdad absoluta, sino como una verdad abstracta y refleja. No parece ⟦n 2025-07-23 06:57 Gooale-d1g. exacta esta afirmación. La armonía aristotélica es esencial-⟧
+
+mente estética, como la platónica era, puede decirse, mística; los elementos aristotélicos entran como realidades y no como formas puras del pensamiento o como conceptos solamente. Aristóteles, fundador de la lógica, no hizo sin embargo del concepto puro, de la forma vacia, sino del acto puro, de la actividad que realiza toda su potencialidad, el ser más real y perfecto, un ser estético y no lógico.
+
+Este equilibrio entre el orden y la libertad; este real-idealismo, que deja subsistente el dualismo entre la Naturaleza y el Nous, entre el sujeto y el objeto, el pensamiento y la ley, ⟦Diedd / Public⟧ entre la realidad individualy eficiente y la actividad contemplativa o inmóvil bastándose a sí misma, constituía la ines-⟦Calitornia, net/2027/uc1. $b44069| tabilidad del sistema aristotélico, que marca el límite del⟧ progreso filosófico antiguo en el sentido de la idea de libertad. La idea de orden triunfa en los filosófos posteriores a Aristóteles, y mantiene su victoria por muchos siglos, no obstante las tentativas de Epicuro, de los Estoicos, y de la ⟦Universıty⟧ Nueva Academia y las revoluciones operadas en la concien-
+
+⟦Google⟧
+
+[^p126-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 127]
+
+⟦cia por el sentimiento religioso, que conducían a introducir⟧ la idea de libertad en el orden moral principalmente.
+
+⟦VIII⟧
+
+⟦Windelband.-Renouvier.—Fouillée.-Ritter.-Fonsegrive.- Lange.-Weber.⟧
+
+⟦Janet et Seailles. ob. cit.—M. Guyau. La Morale d'Epicuro et ses⟧
+
+rapports avec les doctrines contemporaines 1856.-G. Wundt. In-
+
+⟦troducción a la Filosofía.⟧
+
+⟦Después de Aristóteles, causas sociales y políticas y el⟧ ⟦mismo desarrollo de las ciencias, ejercen una influencia de-⟧ ⟦cisiva en el ideal griego, modificando las ideas filosóficas y⟧ ⟦la orientación del pensamiento. El nacimiento de nuevas⟧ ⟦necesidades de orden cultural, los cambios en la religión,⟧ ⟦la corrupción de las costumbres, debida a la supresión de⟧ ⟦las libertades públicas, a la adulación y al servilismo, el⟧ ⟦predominio del factor económico, que engendró el refina-⟧ miento de los placeres, el contagio con los pueblos orienta-⟦les y el cosmopolitismo, precipitaron en la decadencia al⟧ ⟦pueblo helénico, borrando su antiguo carácter cívico, del⟧ ⟦que no quedaron huellas sino en algunos rincones aislados,⟧ ⟦casi ocultos, y conmoviendo hasta la vida doméstica, como⟧ ⟦demuestra Ritter.⟧
+
+⟦Para combatir los efectos de esa degradación, los espíri-⟧ ⟦tus selectos, que continuaban en Atenas la tradición filosó-⟧ ⟦fica, adoptaban una actitud común. Bajo el peso de las ca-⟧ ⟦lamidades sociales que hacían ilusoria la felicidad forjada⟧ ⟦por la imaginación helénica, concentraron toda su atención⟧ ⟦al problema moral, haciendo de él el eje al rededor del cual⟧ ⟦giraba toda la filosofia. El interés puramente teórico y el⟧ ⟦interés práctico, que estaban indisolublemente unidos, se⟧ ⟦separan; la tendencia teórica hacia la ciencia se dirige a lo⟧ ⟦particular; la indiferencia ante las teorías metafisicas se⟧ ⟦acentúa así y aún cuando se presentan doctrinas teóricas con⟧ ⟦sus antítesis vivamente combatidas, no tenían ya ningún⟧ ⟦interés en sí mismas, y como dice Windelband, sólo se diri.⟧
+
+⟦Generated ttps://hdl⟧
+
+Google
+
+[^p127-1]: Original from Digitized by ( UNIVERSITY OF CALIFORNIA
+
+[p. 128]
+
+gían al fin de la sabiduría de la vida práctica y carecían de originalidad.
+
+De allí el carácter totalmente ético que presenta este periodo filusófico. El problema por excelencia es el de la felicidad humana, que el sabio debe conquistar; problema planteado y resuelto en tres diversas direcciones por los escépticos, epicúreos y estoicos.
+
+Según los escépticos, el hombre consigue la felicidad absteniéndose de todo juicio; porque la abstención de todo jurcio es seguida, naturalmente, de la firmeza inquebrantable del alma que la acompaña como una sombra. El que abraza el escepticismo vive siempre tranquilo, sin inquietud, sin agitación, en una disposición de espíritu siempre igual, sin preocuparse de los terrores de la sabiduría. La multitud de los hombres es subyugada, a causa de la disposición pasiva de su alma, por opiniones y por vanas leyes; pero el sabio, no decide sobre nada, y en su estado de calma, no considerando nada como un mal, ni como un bien, se siente libre de todos los movimientos apasionados que no hacen sino turbar la felicidad.
+
+Como los escépticos, los epicúreos y los estoicos se afanan en forjar el ideal del sabio; es decir del hombre, cuyos conocimientos lo hacen virtuoso y, por consiguiente, feliz. La nota más saltante, al determinar el concepto del sabio, es, en esta época, la imperturbabilidad (la ataraxia.)
+
+Estoicos, epicúreos y escépticos, como dice Windelband, no se cansan de alabar esta independencia del curso del mundo, como el rasgo principal del sabio; él es libre; es un rey, es un Dios; lo que le sucede no puede atacar, su saber, su virtud, su felicidad; su sabiduría reside en él y el mundo no le preocupa absolutamente. Este retrato del ideal, agrega ⟦California, San Diedo ttps://hdl.handle.net/2027/uc1.$b44069/ Public Windelband, caracteriza su época; el hombre normal para⟧ ella no es el que trabaja para grandes fines y crea; sino aquel que sabe hacerse independiente del mundo externo y sabe encontrar su felicidad en sí mismo. El interno aislamiento de los individuos, su indiferencia ante los fines universales se presenta claramente en la expresión de ese retrato; la vic-⟦Jniversitv of⟧ toria sobre el mundo externo es condición de la felicidad del sabio. Pero éste debe vencer, en sí mismo, al mundo sobre
+
+Generated
+
+⟦Google⟧
+
+[^p128-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 129]
+
+el que exteriormente no tiene ninguna fuerza; debe dominar las influencias que el mundo ejerce sobre él. Estas influencias consisten en sentimientos y pasiones, que la vida y el mundo suscitan en el hombre; ellos son perturbaciones de su propia naturaleza; son estados pasivos. La sabiduría se realiza en el modo como el hombre se comporta respecto a sus afectos; es esencialmente emancipación de los afectos, carencia de afectos (apatía, ataraxia). Permanecer en sí, sin perturbación, tal es la victoria de la sabiduría.
+
+El escéptico buscaba la ataraxia en la abstención completa, siempre que era posible. Los epicúreos la buscaban en la abstención del dolor, en el refinamiento estético de la vida, en el hedonismo refinado y espiritual que procuraba la beatitud del placer de sí, la independencia del instante. Los estoicos trataban de encontrarla en la autonomía del alma individual, que acentuaron más que Aristóteles, haciendo de la razón la fuerza directora y unitaria del alma, Los estados contrarios a la razón perturbaban la concien-⟦Gonale-diaitized cia; y si el sabio no podía sustraerse, ante el curso del mun-⟧ do, a los estímulos sentimentales, debía negarles su asentimiento con la fuerza de la razón; su virtud consistía en emanciparse de los afectos. Su victoria sobre el mundo era la victoria sobre sus propios instintos. Para los estoicos, si nosotros llegabamos a ser dependientes del curso de las cosas, era sólo por medio de nuestro consentimiento; si no lo otorgábamos nuestra personalidad permanecía firme e inconmovible sobre sí misma. Si el hombre no podía impedir que la suerte le procurase un placer o un dolor, podía, en cambio, conservar fiera la conciencia de su independencia, no reputando al primero como un bien, ni al segundo como un mal.
+
+/ Public
+
+En el fondo, el ideal de felicidad, que debía conquistar el sabio, estaba en conservar la armonía interior, producida ⟦Calitornia. net (1077/uc15.44969 por la razón, defendiéndola de las causas perturbadoras ex-⟧ ternas mediante la emancipación de esas causas. Siendo así, como observa Windelband, el repliegue de la personalidad sobre sí misma la nota común y dominante de la sabiduría práctica en esta época, el problema de la libertad había de plantearse, en el orden moral, en términos más preci-
+
+⟦Digitized by Google⟧
+
+[^p129-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 130]
+
+sos que los que habían sido empleados, como supuestos abstractos, en la filosofia de Sócrates y de Aristóteles.
+
+Para el escepticismo, la libertad del espíritu, reducilo a una simple abstensión, no podía contener ningun valor positivo. El hombre debía escapar al determinismo lógico de las ideas negándoles toda cualidad; pero, en el orden práctico, debía resignarse a seguir el camino establecido por el uso y el que le pareciese justo. La virtud excéptica encuentra así sus limitaciones en la imposición del hecho, eomo ⟦observa Windelband.⟧
+
+Pero no sucedió lo mismo respecto a Epicuro (Samos 341-270), quien, para fundar su teoría moral, creó un sistema, en el cual, la libertad en el hombre y el contingentismo en la naturaleza se elevan a la categoría de problema universal. Epicuro subordinó al problema ético todo los demás problemas, elevándose de la liberación síquica a la libertad metafísica. Según su doctrina los principios de orden y deli-⟦Gooale-diaitizec bertad se asocian tan íntimamente, que la libertad fecunda la⟧ armonía. Como dice Guyau, en la doctrina de Epicuro, a medida que aymenta la libertad crecen también ei orden y la armonía; las pasiones no chocan ya en un indescriptible tu-2025-07-23 multo; así como los átomos tienen el espacio ante ellos para ⟦states,⟧ operar, en un orden eterno, sus movimientos espontáneos, así mismo los instintos y las pasiones del alma tienen ante ellos la duración; restringidos, aprisionados, se irritarían y gruñirían en desorden; pero esparcidos a través del tiempo, se calman, y no siendo ya molestados por ningún obstáculo, no se molestan ya recíprocamente. Viendo así abrirse ante nosotros, un porvenir sin término fijo, no podemos tener ya ⟦Domaln⟧ sino un pensamiento: preparar y ordenar todas las cosasen ⟦Diego handle.net/2027/ucl.$b44069 / Public vista de la felicidad de esta vida entera; tal es la obra de la⟧ sabiduría.
+
+⟦San⟧
+
+El sabio es un bienaventurado, un artista de la felicidad; California, de esa felicidad que Epicuro establece en el reposo, como fruto de un equilibrio, en el que desaparece toda perturbación, todo desorden producido por la intervención de causas exterio-University of res. Esa idea de perturhación, que Epicuro ha concebido tan fuertemente y desarrollado, tiene por principio natural la idea de armonía, dice Guyau: no se turba sino lo que es
+
+⟦Generated. at httos://hdl⟧
+
+⟦Digitzed by Google⟧
+
+[^p130-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 131]
+
+armonioso; no se teme la turbación sino para conservar la armonía. Según eso, la última palabra del epicureísmo no debía ser la apatía, la ausencia de pena, sino más bien la conservación del placer, mediante el reposo, que entraña la posesión plena de la independencia interior. Vivir así en libertad, en reposo, en armonía consigo mismo y sentirse interiormente vivir; tal sería el placer supremo, del que los demás no serían sino formas cambiantes.
+
+Contra este ideal de reposo bienaventurado conspiraban el temor a los dioses y el temor al destino o a la necesidad de las leyes tísicas, causas perturbadoras que Epicuro se propuso destruir, combatiendo la superstición y proclamando el contingentismo en la naturaleza.
+
+Epicuro encontró en la ciencia, y particularmente en la ciencia natural, el medio de emancipar a los espíritus de la tiranía de los dioses. La ciencia daba al sabio la ataraxia y una sólida seguridad de sí mismo, Epicuro, haciendo de la razón el instrumento de la ciencia, hizo de ella también el arma destinada a conquistar la independencia de la humanidad. Así redujo a la impotencia a la imaginación religiosa, reemplazándola por la razón, que consciente siempre consigo misma, debía demostrar la inmutable necesidad que regla el mundo y envuelve al hombre.
+
+Pero después de haber luchado contra la idea religiosa de providencia o de capricho divino, se encontró Epicuro en presencia de la noción científica de necesidad, contra la que emprendió nueva lucha, como enemiga de la independencia espiritual y de la felicidad humana, por consiguiente. Para librar al espíritu humano de la necesidad física, no tenía Epicuro otro camino que introducir la libertad en la naturaleza y eso fué lo que hizo, tomando como base la teoría atomística de Demócrito e introduciendo en ella un cambio en el concepto del caos primitivo. Demócrito había considerado todo movimiento como el resultado de un choque fatal y de un rebote de átomos no menos fatal. Esta doctrina tenía para Epicuro el doble defecto de implicar una contradicción ad-⟦de tiendo un movimiento antes unal movimiento inado Bi⟧
+
+choque para Epicuro no era sino un efecto ulterior, que su-
+
+⟦generatedi tos: |/hdl|⟧
+
+⟦Google⟧
+
+[^p131-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 132]
+
+ponía un morimiento antecedente. Para encontrar el principio de ese movimiento era preciso, primero, pasar del exterior al interior, de la violencia externa al impulso interno que, según Epicuro, no era otra cosa que la pesantez. La pesantez, era ya una causa de movimiento íntimo, menos visiblemente material, en la que la fatalidad, si existía siempre, llegaba a ser inherente a la naturaleza misma de los seres y parecía tomar un carácter más espontáneo, si no más verdaderamente libre.
+
+Sin embargo, esta segunda explicación del movimiento le pareció a Epicuro insuficiente todavía, por presuponer aún una idea de ley necesaria; los principios de las cosas arrastradas por la pesantez, habrían perseverado eternamente en el movimiento comenzado,si otra fuerza no venía bruscamen te a encorvar la línea rígida que trazaban a través del espacio. Para encontrar esta fuerza, Epicuro apeló a la experiencia interna; buscó allí el principio del movimiento, que trasportado al fondo de todas las cosas, dió, al fin, la explicación ⟦•e•⟧ buscada. La observación de donde partió Epicuro, agrega Guyau, es la de que nosotros distinguimos en nosotros mismos dos especies de movimientos que es imposible confundir: el movimiento coactado y el movimiento espontáneo. Ser conmovido no es todo; sabemos también por experiencia lo que es conmoverse. Nos damos cuenta del uno por un sentimiento completamente diferente del que nos revela el otro Es de la voluntad del espíritu que procede primero el movimiento; de allí es distribuído por todo el cuerpo y los miembros. No sucede lo mismo cuando marchamos bajo el golpe de un impulso cediendo a fuerzas superiores de otro y a una coac-⟦throuah Domair⟧ ción violenta. El mismo contraste observan los epicúreos entre el élan inmediato de la voluntad y su ejecución más lenta ⟦San Diedo net/2027/ucl.$b44069 / Public en la materia rebelde.⟧
+
+Ahora bien: de estos hechos observables, Epicuro pasó, mediante una inducción fundada sobre el principio de causalidad, a la consideración del universo No hay nada sin causa y alguna cosa no puede venir de nada; he allí el principio. Por consiguiente, el poder que existe en nosotros debe tener University of su causa y encontrarse en las "semillas de la vida" o los átomos; de donde era necesario representarse a los átomos, • no ya como inertes y muertos, sino como entrañando el po-
+
+⟦enerated tps://hd1|⟧
+
+⟦Google⟧
+
+[^p132-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 133]
+
+der de moverse, y, por eso mismo, era preciso confesar, que en los gérmenes de las cosas existe igualmente, fuera del choque, otra causa de movimiento, de la que nos ha venido a losotros mismos este poder, que nos es innato, por que vemos que de nada, nada puede salir.
+
+Existen pues, según Epicuro, tres causas de movimiento más y más profundas e íntimas: el choque, que es exterior y fatal, a la vez; la pesantez, que es interior, pero que parece todavía fatal, y, por último, la voluntad, que es interior y libre al mismo tiempo. Esta voluntad se manifiesta por el poder de hacer declinar el movimiento, de hacerle dejar la línea en que la fatalidad lo empuja; es, en una palabra, el poder de inclinarse ella misma al movimiento, poder que, en los gérmenes eternos de las cosas sería la declinación espontánea (el clinamen de los átomos), escapando a toda predeterminación de tiempo o de lugar. La pesantez impide ya que todo se haga por choque, como por una fuerza externa; que el alma no tenga en sí una necesidad interna en todas las acciones que ha de realizar y que, vencida, no esté forzada a sufrir todo y permanecer pasiva; eso es lo que se impide por la imperceptible declinación de los principios de todas las cosas, cuyo lugar y tiempo no se pueden determi-⟦nar.⟧
+
+Con estos datos imaginó Epicuro el origen de las cosas. Según él, originariamente, el átomo descendía en el vacío en virtud de su pesantez; no lejos de él otros átomos descendían igualmente solitarios; y si la necesidad sóla hubiese continuado imprimiendo a los átomos ese mismo movimiento eterno, el mundo no habria podido nacer; la necesidad habría sido infecunda. Pero conocida por experiencia otra causa de movimiento diferente del choque y de la pesantez; sabiendo que es del germen de las cosas que nos viene el libre poder innato en nosotros, el principio de este poder debía encontrarse en el origen del átomo mismo. El átomo ⟦of California, net (1077/uc1 5h44969 habría podido pues, sacar de sí el movimiento que lo acerca-⟧ se a otros átomos; emancipándose de la necesidad que lo arrastraba, habría podido librarse de ese modo de la soledad y comenzar la creación del universo. Mientras que la necesidad dominaba todas las cosas no habría existido sino un caos de átomos comprendidos en el vacío: el primer movi-
+
+⟦Google⟧
+
+[^p133-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 134]
+
+miento que partió del ser mismo habría marcado el origen del Cosmos. De la línea rígida, que describía su movimiento a través del espacio y que era como la representación de la necesidad, el átomo se habría desviado espontaneamente, sin la intervención de ninguna otra fuerza, sin la intersección de ninguna otra línea, desviación ligera, insensible, infinitamente pequeña. Esta línea, completándose poco a poco, habría formado, en el seno del vacío, un primer esbozo de las figuras geométricas, una primera armonía, resumen de todas las armonías del universo. Ensanchando sus curvas, en la profundidad del vacío, los átomos habrían concluído por encontrarse, por tocarse. Palpitando entonces bajo el choque habrían rebotado y vuelto a rebotar hasta enlazarse entre sí. Habiendo vencido así el espacio que los separaba habrían servido de obstáculo a la caída de nuevos átomos, y detenidos éstos en el tránsito habrían engrosado cada cuerpo ya formado, convirtiéndolo en el núcleo de un mundo. Así el vacío se habría poblado de formas extrañas y nacido todos esos mundos, cuya armonía regular, una ⟦tized⟧ vez producida, nos hace creer falsamente en la fatalidad pri-⟦Good Le-dla⟧ ⟦mitiva.⟧
+
+Concebida de esa manera la creación, no habría ya necesidad, para dar razón del universo, de recurrir a un deus ex machina, a una causa superior y sobrenatural, que llegaba a ser para el hombre un poder tiránico; el mundo podía prescindir de los dioses, podía prescindir de una inteligencia ordenadora y determinante por esa cualidad. Con el espacio infinito, con los átomos en núcleo infinito y con el tiempo, que se abre al infinito ante ellos, nada había imposible, ⟦through⟧ en cada átomo, ⟦Domaln⟧ porque la fuerza espontánea, existente era suficiente para organizar el mundo finito que está a nuestra vista.
+
+⟦San Diead⟧
+
+Según esta teoría, el hombre era una reunión de átomos ⟦Universitv of California, net/2027/ucl.$b44069| solamente, pero de átomos más sutiles, más capaces toda-⟧ vía de declinar y más conscientes del vuelo íntimo por el que se mueven. Su libertad misma, lejos de ser superior a la naturaleza tenía su origen en ella y era el perfeccionamiento de su esencial espontaneidad. No se podía explicar, de otro modo, según Epicuro, el poder que pretendemos poseer todos de elegir entre dos direcciones contrarias, de conducir-
+
+⟦Digitized by Google⟧
+
+[^p134-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 135]
+
+nos libremente allí en donde nuestra voluntad nos conduce, de apartarnos, en cierto modo, del peso de los hábitos o de las tendencias adquiridas.
+
+Combatiendo Guyau la creencia ordinaria de que la contingencia, colocada por Epicuro en el origen de las cosas, era una especie de expediente dialéctico, que desaparecía para dar lugar inmediatamente a la necesidad de leyes, atribuye a la doctrina epicúrea una doble finalidad; la de introducir en los fenómenos la suficiente regularidad para que e! milagro no pudiese encontrar cabida, y la suficiente espontaneidal para que la necesidad primitiva no tuviese nada de absoluta, de primitiva, ni de definitiva. La libertad y el orden coexistían así sin destruírse. La espontaneidad de los átomos no podía traspasar las leyes necesarias de la mecánica (ulteriores y derivadas), sino sobre un solo punto y de una manera completamente insensible. Los movimientos espontáneos de los átomos encontraban así un límite en las leyes de sus combinaciones. Los movimientos propios de los seres vivientes no podían entrabar la marcha de las cosas; la espontaneidad debía, más bien, ir en el sentido de la naturaleza. Así, a creer a Epicuro, agrega Guyau, nosotros no desarreglábamos verdaderamente las leyes de la naturaleza, cuando, por una decisión de la voluntad, imposible de determinar de antemano, nos determinábamos nosotros mismos en tal o cual sentido, tomábamos tal o cual dirección. La espontaneidad no era, por consiguiente, un milagro, que está en oposición directa y formal con la naturaleza, que es ⟦una parálisis violenta de la marcha de las cosas. La espon-⟧ taneidad, al contrario, precedía, seguía y completaba a la naturaleza; le impedía ser un mecanismo puro, incapaz de' mejorar y sometido a una fatalidad inexorable. Epicuro, es verdad, no tenía sobre este punto teorías muy precisas; ⟦. net/2027/ucl.$b44069 / Public pero lo cierto es, dice Guyau, que Epicuro esperaba, con ra-⟧ zón o sin ella, contrabalancear la necesidad del encadena-⟦Calitornia. miento de las causas, sin desarreglar, sin embargo, de una⟧ manera sensible, el orden del universo.
+
+Epicuro no sólo combatió el determinismo físico, sino también el lógico y el moral. Sostuvo contra los estoicos, que de dos proposiciones contradictorias, respecto a una contecimiento futuro, ni la una ni la otra, tomada en particular,
+
+⟦https://hd⟧
+
+⟦Digitzed by Google⟧
+
+[^p135-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 136]
+
+era verdadera; porque si hubiese una verdadera, se podría prever, con seguridad, las decisiones del libre albedrio y éste mismo sería suprimido. Para Epicuro no había verdad sino en lo que sucedía: los diversos sucesos no eran, como lo querían los estoicos, consecuencias, y, por decir así, aspectos diversos de una verdad eterna, que precedían al hecho mismo. La ciencia de la adivinación, la presciencia, que intenta ligar el porvenir, es también rechazada por Epicuro; el porvenir permanece abierto al poder espontáneo, a la vida, a la voluntad; el porvenir es lo que saldrá de la indetermiración que persiste en germen hasta la determinación presente.
+
+Tratándose de la libertad moral, Epicuro fundaba sobre ella su teoría de la responsabilidad, atribuyéndole valor propio sin sujeción al castigo o a la recompensa. La necesidad, escribía a Menecio, la necesidad, de la que algunos hacen la señora de todas las cosas, se reduce, en parte, al azar, y, en parte, a nuestro poder personal. Al azar se reducen los sucesos externos, que no están primitivamente sometidos a una ley necesaria, sino a causas espontáneas, de las que no podemos prever sus efectos; a nuestro poder personal, se reducen nuestros sucesos internos, que no están sometidos tampoco a ninguna ley necesaria, sino que tienen la libertad por causa. En efecto, continúa Epicuro, por una parte, la necesidad es irresponsable y, de otra parte, el azar es inestable; pero la libertad existe sin señor, y la censura como la alabanza la acompañan naturalmente. Y puesto que no tenemos señor, puesto que somos independientes de toro lo que es nosotros, la censura o la alabanza no pueden elevarse sobre nosotros y dirijirse a la necesidad o al azar, sino que se detienen en nosotros. Por esta atribu-San Diego / Public ción de un valor intrínseco, dado a la libertad, Epicuro parece hacer un esfuerzo para superar su propio sistema moral, ⟦dice Guyau.⟧ ⟦Calitornia, . $b44069⟧
+
+Esto le permite a Guyau observar, que Epicuro distin-⟦handle. net/2027/uc1 gue la libertad del azar, consistiendo éste, no en la completa⟧ ausencia de causa, sino en lo imprevisto, en lo indeterminable, que se produce en un tiempo y en un lugar no ciertos. University Para Epicuro, dice Guyau, este imprevisto es el resultadode una causa que se oculta tras el azar; causa que, en definitiva
+
+⟦Generated https://hdl⟧
+
+⟦Digitized by Google⟧
+
+[^p136-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 137]
+
+es la espontaneidad del movimiento inherente a los átomos. El azar no es sino la forina bajo la cual esta espontaneidad se nos revela. Cuanto a nosotros, lo que nos constituje, es el poder sobre nosotros mismos y la libertad de querer o de moverse. El azar es así exterior y la libertad interior. Pero este azar exterior, una vez manifestado, no deja de ser para nosotros, un poder más o menos hostil, la fortuna, contra la que es preciso, para la moral, saber premunir su libertad. La fortuna no es ya, es verdad, un poder absolutamente invariable e invencible en sí mismo, como lo era el destino; porque con el azar cambiante y variable, la esperanza es siempre mucho más permitida y siempre ordenada. Pero la fortuna o el azar tiene tan poco imperio sobre el sabio, que vale más dice Epicuro, ser desgraciado con la razón, que ser afortunado sin la razón.
+
+El alma del sabio es libre, serena, satisfecha de sí y de las cosas. En presencia del dolor, le bastará siempre, para evitarlo, ese clinamen, que se encuentra, en grados diversos, en la sabiduría reflexiva del hombre, como en la espontaneidad ciega de los primeros elementos; le bastará un simple movimiento hacia atrás o hacia adelante, un libre retroceso al pasado o un libre vuelo (elan) hacia el porvenir; declinará lejos del dolor, escapará de él, como escapa el átomo del destino, y se retirará al seno de una calma más inalterable y en una más dulce impertubabilidad. Así, el sabio, siendo libre, existe sin señor, vive, por lo mismo, en el seno de los bienes inmortales; la declinación espontánea es convertida en virtud y felicidad.
+
+Después de este profundo análisis de la teoría de Epicuro sobre la contingencia en la naturaleza y la libertad en el hombre, a Guyau le parece, que el punto más saliente y más original en esa teoría, es la solidaridad estrecha establecida San Diego entre el hombre y el mundo. Epicuro llegó a negar la inercia absoluta, si no de la materia, a lo menos de sus elementos ⟦Calitornia, primitivos. Es una especie de dinamismo, todavía rudi-⟧ mentario, que Epicuro agrega al mecanismo puro y simple ⟦ne de Demócrito. Si se quiere, dice Guyau, que el hombre sea⟧ libre, es preciso que al rededor de él, todo posea también, en sus elementos atómicos, el germen de la libertad, que todo tienda allí; y que, por todas partes, la espontaneidad de Epi-
+
+⟦Digitzed by Google⟧
+
+[^p137-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 138]
+
+curo se alíe, para organizar el universo, al choque fatal de Demócrito.
+
+¿Habría planteado y resuelto así Epicuro, el problema de la libertad? Renouvier, criticando las ideas de Guyau, no lo cree, no obstante sus simpatías por el contingentismo y la libertad. Guyau no habría distinguido suficientemente en este análisis, entre una espontaneidad, que se concilia sin esfuerzo con la determinación natural, y una libertad pura, ambigua en su acto, indeterminada en sus efectos, mientras que no se convierta en actos. Ya la libertad humana, que muchos filósofos admiten, dice Renouvier, escapa evidentemente a la razón; porque si se pudiese dar enteramente razón de un acto reputado libre, se reduciría al predominio necesario de tal o cual motivo! entraría así en el dominio del determinismo; explicar una cosa es determinarla; la libertad es pues, esencialmente, un poder no racional, un poder de indiferencia respecto a la razón. No es propiamente hablando, un poder de deliberación; el libre albedrío reside, todo entero, en el acto de la decisión, en la acción, que surge bruscamente del fondo del ser, en una moción desprendi-⟦Google-digitized⟧ da de todo otro movimiento exterior, no mecánica, no ra-Trust on 2025-07-23 06:57 cional y tan poco consciente que muchos filósofos, como Kant, han negado la realidad de esa. conciencia.
+
+En este concepto, la libertad de Epicuro es una idea de ⟦United States,⟧ emancipación, de liberación intelectual y moral, pero no una verdadera libertad. Epicuro, como todos los filósofos que le antecedieron, consideraban a la razón como una causa determinante de la voluntad. Nada existía sin causa, y esa causa racional, si bien conducía a emancipar al sabio de toda coacción, conquistándole la ataraxia, se oponía al azar y ⟦San Diedo throual le.net/2027/uc1.$b44069 / Public Domair proclamaba la necesidad de un orden lógico, dentro del que⟧ la libertad aracional era inconcebible. Epicuro, en la creación de ese poder interno de declinación, no destruye el valor de las leyes mecánicas, ni las hace derivar de ese poder California, expresamente. Vale más, dice Epicuro, ser desgraciado con la razón. que afortunado sin ella; de modo que su idea de sabiduría y de felicidad consistía en someter toda la vida al poder determinante de la razón. El intelectualismo helénico, opuesto a la libertad pura, a la libertad extraña, a la causalidad, persistía en el epicureísmo, en medio de su teo-⟦Generated ttps://hdl.hand⟧
+
+⟦Google⟧
+
+[^p138-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 139]
+
+ría del clinamen, imaginada para explicar la armonía de la vida, la no pertubación de esa armonía, como supremo fin estético y moral. El sabio debía librarse, por medio de la razón, que le da el conocimiento de las causas de la naturale-⟦za, del temor a los dioses, del destino y, en general, de⟧ todo temor supersticioso. La misma razón lo libertaría del temor de la muerte, porque le demuestra que ésta es la emancipación de todo dolor. La razón pues, es la gran libertadora del hombre; pero lo es a condición de dominar absolutamente en la conciencia y dirigir toda la actividad humana. La libertad así adquirida es una libertad racional, no pura, no aracional, comoes la libertad a que se refie-⟦re Renouvier.⟧
+
+La libertad de Epicuro no es, pues, como piensa Fonsegrive, un absoluto, un comienzo sin causa e inexplicable. Epicuro la establece como ideal en la conciencia, para elevarla enseguida a la categoría de un sistema contigentista universal: su fundamento es la espontaneidad del espíritu, su liberación de todo cuanto pudiese perturbar la armonía interna, dejando a ésta subordinada exclusivamente a la razón. Es este principio supremo determinante, la verdadera causa de la armonía y del reposo, que constituyen la felicidad. La libertad o mejor dicho la liberación buscada por Epicuro, primero, en el alma e imaginada después como hipótesis en el universo, es un relativo, un derivado, un medio. no un absoluto, ni un comienzo sin causa. El error de considerarla de otro modo depende de haber confundido la libertad y el azar en la teoría de Epicuro sobre la declinación, extendida al universo entero en fuerza de la lógica del sistema, como Fonsegrive mismo lo reconoce.
+
+Si Epicuro hubiese establecido la libertad como acausal, como cree también Windelband, la idea de armonía, de or-⟦San Dlead⟧ den interno, no habría tenido en su doctrina la importancia superior que le atribuía. El reposo, como ideal de felicidad ⟦Calitornia.. $h44969 y como punto de partida de toda su filosofía, descansaba⟧ en la necesidad de mantener la armonía interna contra to-⟦nttps://hdl.handle.net/2027/ucl da causa perturbadora. Y en cuanto al orden exterior mis-⟧ mo, Epicuro, como dice Lange, enseñaba que, aún cuando ⟦ot⟧ el murimiento de los cuerpos celestes no derivaba del deseo o del impulso de un ser divino y que esos cuerpos no eran se
+
+Generated
+
+⟦Digitzed by Google⟧
+
+[^p139-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 140]
+
+res divinos, todo sin embargo, estaba reglado según un orden eterno, que producía, alternativamente, el nacimiento y la muerte. Investigar la causa de este orden eterno era el fin del que estudiaba la naturaleza, y era en el conocimiento de esta causa en donde los seres perecederos encontraban su felicidad.
+
+Por la necesaria intervención de ese principio ordenador, Renouvier encuentra un gran vacío en la teoría de las declinaciones atómicas, que no puede hacer entrever cómo el Nous de Epicuro, ipsa mens, compuesto atómico, él mismo, sería capaz, de entenderse con esos átomos y obtener de todos y de cada uno que se convirtiesen de una manera conveniente, para arrancar a la voluntad del destino y dirigir al individuo a donde su placer lo condujese. Sólo admitiendo una energía capaz de crearse su propio fin y de ordenar los medios de alcanzarlo, habría podido Epicuro conciliar su doble tesis de la libertad y del orden, haciendo de la primera un principio absoluto y único, capaz de explicar toda la realidad y servir de fundamento a una moral infinitamente superior a su eudemonismo negativo, que perseguía la eleminación del dolor.
+
+Para llegar a ese monismo voluntarista, construído sobre la libertad absoluta, Epicuro habría necesitado dejar de ser heleno y emanciparse del criterio estético de la armonía, al través del que el pensamiento griego ordenaba y comprendía toda realidad. La idea de orden estético predomina en su sistema, que excluye el orden teleológico y comprende el orden físico, el lógico y el moral.
+
+⟦Hat in t⟧
+
+Si Epicuro trata de encontrar la felicidad en una armo-⟦through.⟧ nía, emancipada de todo dolor, de toda causa perturba-⟦Domain⟧ dora, y, conducido por esa aspiración de libertad, llega hasta una especie de indeterminismo, que se ha confundido con la libertad y el azar, Zenón (Chipre 340—265), ⟦San⟧ fundador de la escuela estoica, persiguió la misma armo-⟦Calitornia. .net/2027/uc1.$b44069| nía, pero no por la abstención y el quietismo, sino, al con-⟧ trario, como se ha dicho, por la lucha contra las causas perturbadoras, que comprenden también el placer. Epicúreos y estoicos se esfuerzan por conseguir aquella tranquilidad de ⟦Generated at Universıty espíritu, que estos hacen consistir en el desprecio de las con-⟧ ⟦nttps:|/hdl.handle cupiscencias externas y aquellos en la moderación y los bie-⟧
+
+⟦Google⟧
+
+[^p140-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 141]
+
+nes que produce una satisfación duradera. Unos y otros adoptan una posición diferente ante el refinamiento y la grosería propias de la cultura de su tiempo, como hace observar Wundt. Los estoicos vuelven los ojos hacia atrás; quieren renovar la piedad y la antigua sencillez de costumbrés; por eso se esfuerzan también en conservar, en lo posible, las antiguas concepciones religiosas, en cuanto ponen en relación su Logos con Zeus, y su ideal de la personalidad humana lo vinculan en los héroes de la religión popular. Los epicúreos, por el contrario, son los representantes del racionalismo, que tienden a destruir la superstición y a fundar la autonomía humana.
+
+La felicidad, a la que espira el estoico, no consiste sino en el libre curso de la vida, como enseña Ritter. El placer buscado en una relajación de la actividad, no podía aparecerle sino como una interrupción de la vida y como un mal. Para Cleanto, ei placer no era conforme con la naturaleza, que el estoico tomaba como modelo, ni con su fin; y si otros estoicos admitian que fuese conforme a la naturaleza y bajo cierto aspecto como un bien, le negaban todo valor moral y lo consideraban solamente como un resultado subordinado y accesorio en la actividad libre y conveniente de la naturaraleza; no como una actividad del alma, sino como un estado pasivo de ella. En su rechazo absoluto del mérito de las obras y de los bienes exteriores, no admitían como bien sino la sabiduría, ni como cosa buena sino la virtud, que se bastaba a sí misma. Pero la verdadera virtud o la virtud moral, consistía en una fuerza del alma, que tenía su principio en la razón, y en una invariable dirección racional del carácter, por la que el alma está de acuerdo consigo misma, durante todo el curso de la vida.
+
+Por esto, la virtud por excelencia para el estoico, es también la sabiduría, y el sabio el hombre perfecto. El sabio se encuentra sobre todo suceso exterior; sufre, es verdad, la ley del destino, pero su vida interior no puede ser turbada ni favorecida. Como este ideal se resume en la idea de la apatía del sabio, es decir, en su liberación absoluta de todas las disposiciones pasivas e irracionales, así como de todo desarreglo de la tranquilidad de su espíritu, es libre de todo deseo, de todo temor, de todo placer y de todo dolor, cosas todas que
+
+⟦Google⟧
+
+[^p141-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 142]
+
+constituyen las principales fuentes de las pasiones; es decir, que no se deja dominar por el placer, ni por el dolor, ni por otras cosas, aunque experimente todo esto. La dominación de las pasiones es la esclavitud; pero el sabio es el hombre verdaderamente libre, puesto que sigue sólo a su razón. De esta manera es verdaderamente rico, verdaderamente rey y señor, es el sacerdote, el adivino y el poeta verdadero, y en general, es el único que sabe actuar, con inteligencia; mientras que en los demás hombres es la naturaleza sola de su disposición irracional lo que actua en ellos. En una palabra, dice Ritter, los estoicos nos pintan a su sabio, por lo que es su estado de alma, como un Dios, y le permiten estar orgulloso de su vida y de envanecerse como Júpiter. La razón de esta sabiduría es muy simple, agrega Ritter; todo resulta de la idea que el sabio ha llegado a una razón perfectamente pura e inalterable, a un conocimiento perfecto de lo bueno. En el fondo, el sabio está por encima de toda ley, por encima de todo hábito; se le permite cometer aun las más gran-⟦Good le claitize des abominaciones, siempre que lo haga a propósito y con⟧ una intención virtuosa, desinteresada y extraña al placer.
+
+No obstante esta autonomía, la idea racional de orden prima en la concepción estoica de la vida, mucho más que en la epicúrea. El orden explica la libertad; la fuerza ordenadora del espíritu, que somete todo a la razón, consigue esa liberación como consecuencia. De allí que el estoico tome como modelo el orden cósmico y establezca como principio supremo de conducta, el vivir conforme a ese orden, sea reflejado en la naturaleza universal o en la conciencia racional del sabio.
+
+Esto explica el carácter de la filosofia estoica, en la que, en oposición a la epicúrea, la moral se subordina a la física. Los estoicos, a diferencia de sus antecesores, referían a la fisica y no a la lógica, las investigaciones sobre los princi-San pios de las cosas, sobre Dios y la materia. Consideraban la ⟦calıtornıa $b44069⟧ física como la ciencia filosófica más sublime. Solo los últimos estoicos, agrega Ritter, parece que prefirieron la moral a la ⟦net /2027/1c1⟧ física. Por este predominio de la física, los estoicos tendían a reducir todo lo que hay de esencial en las cosas a la ⟦oT⟧ idea de cuerpo o de una fuerza, que reunida a otras füerzas llenaba el espacio; admitían, como consecuencia, un principio
+
+⟦Generated ttps://hdl⟧
+
+⟦Google⟧
+
+[^p142-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 143]
+
+activo y otro pasivo en los cuerpos, uniéndolos íntimamente. Lo pasivo, considerado como principio de las cosas, era la materia desprovista de cualidad; lo activo era Dios en la materia. La materia, como principio pasivo de las cosas, sin ninguna propiedad, era también lo que había de más fundamental y la esencia general: pero Dios como fuerza activa y formadora en la materia, estaba necesariamente ligado con ella. La materia no se podía separar ya de la fuerza activa, porque esta habita en ella y la penetra.
+
+Los estoicos no admitían sino una sola fuerza divina, j para demostrarlo se referían al orden que reina en la composición y en el movimiento del mundo y que no podia ser considerado como efecto del azar o de un principio que obrase ciegamente. El mundo es para los estoicos comparable a un ser viviente, en el que debía haber necesariamente una parte dominadora, una fuerza divina, que debia serel principio motor y vivificante. Concebían las actividades materiales en el espacio como difundiendo en toda la materia un soplo, que mantenía todas las partes reunidas y que producía en ellas una perfecta armonía entre el ser y el pade-⟦cet. Ahora bien, este soplo no era precisamente otra cosa⟧ sino la causa general activa, el Dios de los estoicos o la razón, que penetra todo, de la misma manera que elalma penetra nuestro cuerpo y que se anuncia en todas los cosas como la fuerza que liga, aunque de un modo diverso en las diferentes cosas.
+
+Este principio divino, que los estoicos tomaron del sistema filosófico de Heráclito y al que denominaban el soplo racional que penetra todo el universo, el fuego artístico (neuma), que forma o produce todo el universo, distinto del fuego elemental o el éter idéntico al fuego artístico, era el Nous ígneo, de los estoicos, la fuerza viviente, que gobierna todo el universo y la razón general del mundo. Considerado bajo San su aspecto moral, Dios es la razón eterna que gobierna todo el universo y penetra toda materia, es la bienhechora providencia que cuida del todo, así como del individuo; es el sabio principio de la ley natural que prescribe el bien y prohibe el mal, que castiga la violación de la ley y recompensa el bien, es el ser perfecto dotado de una conciencia feliz. Considerado bajo su aspecto físico, es la fuerza mo triz
+
+⟦enerated⟧
+
+⟦Google⟧
+
+[^p143-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 144]
+
+de la materia, la naturaleza general, sin la que absolutamente nada sucede; es el destino que somete todo a leyes necesarias de relación de causa y efecto; es la necesidad de todas las cosas; es el alma vivificante del mundo que tiene una tendencia natural a hacer nacer todo de ella como de una semilla.
+
+Para los estoicos la necesidad, el destino, no consistía simplemente en que todo en el mundo se encontrase encadenado por la relación de causalidad, sino aún en que tenía su causa en la esencia o en la materia de Dios. Verdad es, dice Ritter, que, en cuanto a Dios, los estoicos se esforzaban por concebirlo como el principio del destino y como idéntico a él; no querían convenir en que estuviese sometido al destino; pero realmente, en su manera de considerar toda la porción del mundo, la necesidad natural de su materia era considerada como la ley suprema para todo devenir, y Dios mismo aparecía como sometido a esta ley, en tanto que su fuerza racional dependía de su materia. Su esencia era una semilla del mundo; su desarrollo, su vida, seguían la marcha necesaria de una semilla natural, que se desarrollaba y sufría, por consiguiente, también, la necesidad de pasar por los estados imperfectos de la oposición y del combate mutuo de sus fuerzas para llegar a su perfección.
+
+Este principio de orden dominaba igualmente en la conciencia humana, en la que se reproducían en pequeño las ideas cosmológicas de los estoicos. La moral de los estoicos tenía por eso la relación más íntima con su fisica. Crisipo pretendía que la vida virtuosa no era mas que una vida ⟦1n⟧ ⟦through.⟧ / Public Domain arreglada según la experiencia de lo que sucedía en la naturaleza no siendo nuestra naturaleza sino una parte de la naturaleza entera. Fundada la moral estoica en los pri-⟦San Diedo⟧ meros principios de la fisica, como quería Crisipo; sometido el universo entero y cada una de sus partes a una ley uni-⟦of California, handle.net/2027/ucl.$b44069| versal, se comprende, dice Ritter, como fuera para los estoi-⟧ cos principio supremo de la moral seguir a la naturaleza o vivir conforme a la naturaleza; lo que significaba tanto como seguir el orden de la naturaleza universal, como el de la particular del hombre, caracterizada por la razón esen-University cialmente, la cual debía regirse según el conocimiento de
+
+⟦Generated nttos://hdl|⟧
+
+⟦Google⟧
+
+[^p144-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 145]
+
+la ley universal. Vivir conforme a la naturaleza era también vivir con vida simple, sin complicaciones, sin varidades, como vive el animal y como pretendían vivir los cínicos.
+
+Se comprende ahora como en esta moral estoica, en que no había de bueno sino la obediencia a las leyes universales de la naturaleza, el problema de la libertad entrase muy difícilmente, necesitando conciliar el destino con esa liberación interior a la que aspiraba el ideal estoico. Lo que los estoicos llaman la libertad del alma, dice Ritter, consistía en el asentimiento que damos a las ideas y que no es seguramente arbitrario, sino conforme a la naturaleza del alma individual. Esta opinión se fundaba sobre dos proposiciones, primera: que las representaciones son, en verdad, suscitadas en nosotros por las relaciones exteriores de la naturaleza, pero que una representación sola no formaba, sin embargo, todavía, un pensamiento, sino que era preciso agregarle el asentimiento que damos a las representaciones; y segunda, que la voluntad y el deseo del alma son idénticos al pensamiento y pueden ser reducidos á él. La necesidad de la vo-Juntad y de las acciones, rechazada por los estoicos, no podía pues, ser, sino la necesidad exterior, como observa Ritter. Las representaciones, que la necesidad exterior de las impresiones hacía nacer en nosotros, no nos arrancaban el asentimiento y la voluntad, según los estoicos; al contrario, ellas partían de nuestra propia naturaleza y se fundaban sobre la necesidad interior de nuestro impulso. Los estoicos confesaban, al mismo tiempo, que era necesidad del destino universal lo que nos daba nuestra naturaleza y nuestro impulso; pero que, enseguida, queríamos y actuábamos conforme a este impulso, lo mismo que una piedra, que rueda, de lo alto de una montaña, recibe el primer impulso del exterior y continúa después su curso, en virtud de su peso y de su forma propios. Así la libertad de las cosas es su ley interior; pero esta ley interior la ha recibido cada ser de la naturaleza universal.
+
+El vivo sentimiento de la responsabilidad, que caracte-⟦10⟧ riza la moral estoica, preocupada vivamente del deber, requería de ellos, como dice Windelband, el reconocimiento de la
+
+⟦Google⟧
+
+[^p145-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 146]
+
+libre elección del individuo, el libre asentimiento prestado a las representaciones, y por eso procuraron mantenerla de todos modos. Pero mucho más difícil era que los condujese allí su metafisica, con la teoría del hado y de la providencia; puesto que admitiendo esta teoría, que el hombre, como todos los demas seres individuales, está determinado por la fuerza vital universal, en su entera conformación interna y externa y en todas sus acciones, como en toda su pasividad, la personalidad dejaba de ser la verdadera y propia causa de sus acciones y éstas no aparecían, por consiguiente, como todo otro suceso, sino casi como efectos predeterminados e inevitablemente necesarios de la naturaleza divina. Sin embargo, los estoicos se empeñaron en demostrar que, no obstante este determinismo y precisamente a causa de él, el hombre era la razón de sus acciones, en el sentido de que era responsable. Fuudándose sobre una diferencia de causas principales y secundarias, Crisipo trata de demostrar, que toda decisión de la voluntad resultaba necesariamente de la cooperación del hombre con el ambiente; pero que precisamente aquí las circunstancias externas eran sólo causas secundarias, mientras que la determinación que derivaba de la personalidad era la causa principal, y esta sola estaba sujeta a la imputabilidad. Pero si la espontaneidad del hombre estaba determinada por el neuma general, adquiría una naturaleza autónoma que lo diferenciaba de los demás, naturaleza que debía considerarse como propia. Los estoicos distinguen así la libertad moral de toda otra libertad. Ellos manifestaron especialmente, que, el considerar la responsabilidad como un juicio respecto a las cualidades morales de las acciones y de los caracteres, era independiente de la cuestión relativa a sí las personas y los ⟦Diedo / Public⟧ hechos, en el curso del mundo, habrían podido ser diversamente o no.
+
+⟦San⟧
+
+La libertad ideal de los estoicos no es pues la verdadera California, $b44069 independencia de la voluntad, determinándose ella misma y por sí misma, por mas que hubiesen dado al asentimiento ⟦. net /2027/uc1⟧ personal un valor de emancipación; porque, como observa Fouillée, el hombre no polía, según ellos, cambiar nada contra el destino que era ley universal. Para escapar a la necesidad de las cosas, no quedaba, dice Fouillée, otro
+
+⟦nttps://hdl⟧
+
+⟦Digitized by Google⟧
+
+[^p146-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 147]
+
+medio que el de identificarse a ella. En efecto, agrega, mientras que la necesidad permanece exterior a la razón y no se hace aceptar, es una coacción y una servidumbre; pero si el sabio, por su razón, comprende la razón necesaria de las cosas y si por su voluntad se confunde con la voluntad que produce todo, cesa de ser esclavo para participar del imperio del universo, y llega a ser libre como Dios mismo. La necesidad comprendida y querida así, es la libertad. Sin duda, así han demostrado los estoicos que la libertad y la necesidad se concilian en una noción superior; pero asimismo, en lugar de subordinar la necesidad a la libertad es todavía la necesidad la que han colocado en el origen de las cosas, dice Fouillée. Pero la verdadera libertad, continua este, no consiste en consentir en el destino, sino, al contrario, en no consentir en él y en modificarlo. El estoicisimo pues, lejos de colocar el soberano bien en una voluntad libre, lo coloca en una voluntad concentrada en sí, que parece ser libre, que soporta la necesidad universal y se abstiene de lo que es contrario a esta necesidad.
+
+Refiriéndose al estoicismo, dice Renouvier: jamás doctrina alguna, respiró el espíritu de libertad en tan alto grado, como la que llamaba así al hombrede todas condiciones a elevar su alma al tono de la más alta energía, a dominar, en vista de un bien superior, los atractivos vulgares y aún lo que se cree ser sentimientos incoercibles y necesidades, y, sin embargo, jamás el libre albedrío fué más completamente sacrificado en teoría como lo fué porla confusión estoica de la virtud con la ciencia, de la voluntad con la razón, y de la libertad con la necesidad en un mundo en el que no sucede nada que no sea necesario. Los estoicos, agrega, fueron los primeros en componer un sistema naturalista de necesidad universal, combinando el determinismo socrático y platónico con la doc-/ Public trina heraclítea del devenir cósmico, y adoraron una Provi-
+
+dencia divina, inmanente en la evolución, cuyo fin, exclusi-⟦Universitv of California, ,net/2927/uc1.Sh44969 vamente relativo al todo, se opera sin consideración a los⟧ individuos: de suerte que este fin, que es el bien, implica males aparentes, que son sus inevitables condiciones. Penetrados de esta doctrina hicieron el gran esfuerzo, renovado por Spinoza entre los modernos, de indentificar, por la aceptación de la ley del mundo, la voluntad del individuo con la ne-
+
+⟦Digitzed by Google⟧
+
+[^p147-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 148]
+
+cesidad del todo, para encontrar de ese modo lo que creían poder llamar la libertad y aún la libertad por excelencia.
+
+Zenón concibe un ideal de la persona humana intacta y pura en el que las pasiones están exentas de turbación, informadas, como están, por una constante razón, no siendo así la voluntad sino esta misma razón que se imagina dirigida a su fin naturalmente, sin deliberación expresa, a la manera de un deseo.
+
+Epicúreos y estoicos admiten así, que es la libertad la que constituye la persona; pero buscan la libertad más bien en la región de la naturaleza que en la de la voluntad, y la conciben bajo la forma de fenómenos exteriores que se nos presentan, ya como fortuitos e imprevistos, ya como fatales y ligados los unos a los otros. Desde luego, esta libertad no puede ya ser comprendida, sino de dos maneras; o como una voluntad consciente de su indeterminación arbitraria o como una libertad consciente de su determinación necesaria; la primera se pierde en el azar; la segunda en la necesidad; es siempre una libertad fisica o lógica, más bien que una libertad moral. Tal es el juicio definitivo de Fouillée sobre el indeterminismo de epicúreos y estoicos.
+
+La verdadera libertad no fué pues comprendida por ambos, porque el intelectualismo helénico, que conquistó el pensamiento latino, no pudo emanciparse del concepto estético de la realidad que descansaba en un orden racional, dentro del que la libertad acausal era inconcebible. El principio de orden, que predomina en el fondo de la doctrina indeterminista de Epicuro, predomina con mucha mayor fuerza en la filosofía estoica, en la que reaparecen la finalidad y la providencia con un Dios, creador artístico de todo el universo. Para los estoicos, dice Fouillée, el bien está solamente en el orden del mundo. Desde luego es enteramente idéntico a la proporción y a la belleza; porque la belleza es el bien conce-⟦San⟧ bido como la unidad de una pluralidad, como el lazo y la ⟦Calitornia,⟧ conveniencia de muchas partes, como la forma de una materia que se conoce, y para los estoicos forma y materia son inseparables. En el estoicismo, la belleza es absolutamente idéntica al bien y lo engendra más bien que es engendrada por él. Como en la filosofía aristotélica la moralidad y el versity arte se confunden; la moralidad aparece cuando la vida
+
+⟦Google⟧
+
+[^p148-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 149]
+
+humana, en vez de ser un producto de la espontaneidad natural, llega a ser una obra de arte. En otros términos, la conducta no puede ser llamada virtuosa, si es simplemente conforme a la naturaleza o al orden, sino cuando ella está reglada en vista del orden, como dicen Janet y Seailles.
+
+La misma idea de finalidad, que introduce en el estoicismo la idea de conveniencia, informa el ideal estético antiguo en el que lo múltiple se armoniza en virtud de esa relación lógica.
+
+Contra el dogmatismo de la escuela estoica reacciona Carneades, filósofo de la Nueva Academia, fundador de la teoría del probabilismo. Carneades combate el determinismo estoico y formula un argumento, que es considerado como la primera tentativa para establecer la acausalidad como expresión de la verdadera libertad. Los epicúreos, decía Carneades, habrían podido defenderse contra Crisipo, admitiendo cierto movimiento voluntario del alma, y sin recurrir a su declinación, tanto mas desde que ellos no podían encontrarle una causa. Los epicúreos podían convenir en que no hay movimiento sin causa, pero no que todo lo que se hace, se hace por causas antecedentes; porque nuestra voluntad no tiene causas externas y antecedentes... Cuando decimos que nuestro espíritu se mueve sin causa, entendemos que es sin causa antecedente y externa... El movimiento voluntario es en sí de tal naturaleza, que existe en nuestro poder y nos obedece. Y esto no es sin causa, porque la causa de este efecto es la naturaleza misma.
+
+Analizando Renouvier esta explicación de la libertad, observa que a Carneades le hacía falta ese analisis sicológico, ⟦Domair⟧ hoy tan familiar, que pone sobre los fenómenos internos, ⟦San Diedo $b44069 / Public actos y motivos, la misma cuestión que no consideraba Car-⟧ neades sino en las causas externas y en su encadenamiento, deteniéndose en la naturaleza, como en algo que no se podía ⟦Jniversitv ot Calltornia. superar para reconocer el acto de una voluntad.⟧
+
+Más neta y de valor más duradero le parece a Renouvier la polémica de Carneades contra la tésis de la futurición cierta, respecto de la demostración pretendida de esta tesis con el auxilio del principio de contradicción. Carneades no admitía una futurición verdadera de todo lo que sucede,
+
+⟦https://hdl⟧
+
+⟦Google⟧
+
+[^p149-1]: Original from Digitized by ( UNIVERSITY OF CALIFORNIA
+
+[p. 150]
+
+sino solamente de lo que tenía causas para ser futuro, no co. nociéndose esas causas para todo lo que sucedía. Sólo los acontecimientos que las tienen son predeterminados cuando suceden, decía Carneades.
+
+Los filósofos de la Nueva Academia hicieron uso de los argumentos en favor del libre albedrío sacados de las ideas morales y de la creencia general, que estaban en circulación desde Aristóteles. Si todo sucede, decían, por causas antecedentes, si las causas de nuestros deseos y nuestros mismos deseos, por consiguiente, y los actos que proceden de ellos y nuestros asentimientos y nuestras acciones, si todas estas cosas no existen en nosotros, en nuestro poder, entonces no habría justicia ni en las alabanzas, ni en los reproches, ni en los honores, ni en las penas. Como esta consecueneia es inmoral, los nuevos académicos consideraban como probable esta conclusión: que todo lo que sucerle no es fatal. Desgraciadamente, como observa Renouvier, los términos que empleaban los probabilistas para caracterizar los efectos que se producen en el agente en virtud de una serie fatal de causas antecedentes, cuando se dice, que esos efectos no existieran ⟦Good le-a1g⟧ en nosotros, en nuestro poder, esos términos son equí-⟦vocos.⟧ 2025-07-23
+
+La Nueva Academia ha combatido también el dogma estoico del predeterminismo teológico, de que fueron sus incontestables autores. Apolo mismo, decía Carneades, no podría anunciar como futuras sino las cosas cuya naturaleza encierra sus causas, de tal manera que sea necesario que se produzcan. Las mismas que habían pasado y de las que ⟦through https://hdl.handle.net/2027/uc1.$b44069 / Public Domain in ya no existía ni signo, ni restigio, pensaba Carneades que⟧ no fuesen conocidas por Apolo. Con mucha mayor razón las futuras; porque es sólo por causas eficientes conocidas, San Diego que es posible saber lo que está por suceder. Apolo no habría podido pues predecir si las causas no hubiesen estado •dadas anteriormente en la naturaleza de las cosas. of California
+
+Generated at Universitv
+
+Original from ⟦Digitized by( Google⟧ UNIVERSITY OF CALIFORNIA
+
+[p. 151]
+
+⟦Ritter. - Renouvier. — Windelband. - Fonsegrive. — Janet et Seailles. -⟧
+
+⟦Fouillée.-Weber.-Pastore.-oh. cit. — Rodolfo Eucken. Los grandes⟧
+
+⟦pensadores. Su teoría de la vida, 1914.⟧
+
+⟦El morimiento de repliegue o concentración del espíritu⟧ ⟦en si mismo, que se había iniciado con Sócrates y desarro-⟧ ⟦llado en su escuela, hasta alcanzar en los Estóicos la forma⟧ ⟦re una aversión a los atractivos del mundo externo, siguió⟧ ⟦acentuándose con la mayor corrupción de las costumbres y⟧ ⟦con el conocimiento, cada vez más amplio y profuado de la⟧ ⟦actividad síquica; punto de partida de las doctrinas filosófi-⟧ ⟦cas caracterizadas por el predominio del problema ético, en-⟧ ⟦tendido siempre como problema de la inteligibilidad de lo⟧ ⟦real.⟧
+
+⟦Como consecuencia de este progreso de subjetividad, el⟧ ⟦espíritu se distingue radicalmente del cuerpo y aparece como⟧ ⟦un principio autónomo e independiente, y en él no se encuen-⟧ ⟦tra ya, como dice Windelband, una actividad racional gene-⟧ ⟦ral solamente, sino la esencia propia de la personalidad indi-⟧ ⟦vidual, tanto humana comodivina. Elespíritu, considerado⟧ ⟦en toda la filosofía griega como esencialmente receptivo, se⟧ ⟦eleva a la categoría de un principio autónomo y creador,⟧ ⟦aun cuando esta autonomía no tenga aun los caracteres de⟧ ⟦la rerdadera libertad. La concepción del espíritu, como⟧ ⟦principio autónomo y creador, no se detiene en el significa-⟧ ⟦do sicológien, ético y noseológico, sino que, a la caida de⟧ ⟦la antigüedad, se eleva a la altura del pensamiento domi-⟧ ⟦nante de la metafísica religiosa. En concepto de Windel-⟧ ⟦band, el último y más elevado problema de la antigua filo-⟧ ⟦2027/uc1.$b44069 sofía fue este: entender el mundo como un producto del⟧ ⟦espíritu; abrazar aun el mundo material con todos sus fenó-⟧ ⟦menos, como cosa de orígen y de contenido esencialmente⟧ ⟦espiritual. Esta espiritualización del universo, producto de-⟧ ⟦finitivo de la antigua filosofia, era una consecuencia del co-⟧ ⟦nocimiento más profundo de la sicología humana.⟧
+
+Google
+
+[^p151-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 152]
+
+Ese conocimiento introdujo, además, otra idea esencial: la idea de infinito, que primitivamente se había presentado al espíritu medido y preciso de los griegos, como lo imperfecto, lo incompleto, uua especie de realidad secundaria atribuída al espacio y al tiempo. En este periodo lo infinito llegó a ser el único predicado, que ante las cosas finitas del mundo debía atribuirse a la más elevada realidad o a lo divino.
+
+Ante esos progresos, el criterio exclusivo de la razon, activa o contemplativa, había de aparecer insuficiente para dar una respuesta satisfactoria a todas las interrogaciones del espíritu teórico y práctico, favoreciendo el escepticismo. Reconocida la incapacidad del hombre para realizar, por esfuerzo propio, el ideal de sabiduría, de virtud y felicidad propuesto por el pensamiento filosófico, tratose de encontrar en una fuente radical, superior a la conciencia humana, el principio universal de explicación, que el dogmatismo reinante no había podido ofrecer. En esta labor de ⟦tized⟧ profundización, el pensamiento filosófico había de entrar el dominio del misticismo, que no había sido extraño a jen ⟦Gooa Le-d1q1⟧ primeros grandes pensadores de la Grecia y en el que los Estóicos penetraron resueltamente buscando el principio de la moral en una ley divina y admitiendo la posibilidad de dar a las imágenes míticas un significado filosófico que pudiese comunicarse aún a todas las formas del culto.
+
+Esta tendencia dió singular prestigio a las más antiguas tradiciones, no solo nacionales, sino de los países extranjeros conquistados por los griegos. El descontento del presente, no produjo una aspiración a buscar en el porvenir el ⟦Domaln⟧ remedio de la decadencia que amenazaba la ruina de la cultura adquirida, sino un sentimiento de reacción en favor del pasado, en donde se localizaron las condiciones de la vida perfecta, de la vida más pura, como observa Ritter. ⟦of California, andle.net/2027/ucl.$b44069| Las condiciones del sentimiento religioso entre los⟧ griegos, agrega este filósofo, favorecían además esa influencia o atractivo de las ideas filosóficas y religiosas del Oriente. La filosofia de la Grecia no estaba muy ligada a su religión; se había operado, en consecuencia, en ese pueblo, una descomposición de ideas religiosas y de ideas científicas, que-
+
+⟦Google⟧
+
+[^p152-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 153]
+
+hizo sentir la necesidad de encontrar las formas de cultos más significativos, necesidad que parecían satistacer los cultos orientales.
+
+Pero la influencia de las ideas orientales y especialmente del Cristianismo, tendía a destruir la cultura antigua, tanto helénica, como romana, y había de producir natural. mente una reacción destinada a garantizar la nacionalidad antigua. La filosofía griega, aunque contenía elementos heterogéneos, introducidos por el espíritu oriental, hizo un esfuerzo para unificar esos elementos siguiendo la dirección de los antiguos maestros. Ese esfuerzo de sincretismo engendró un nuevo sistema, mejor dicho, una nueva orienta-. ción filosóf ca pagana. Las cuestiones que preocupaban entonces eran las partes mas oscuras de la filosofía, en las que no hay exposición posible mediante el puro uso de las palabras. Los orientales, con relación a la filosofía griega, y los griegos con relación a la sabiduría mítica de los orientales, experimemtaron, dice Ritter, una igual dificultad para expresar por la palabra el misterio de lo divino y de su relación con el mundo; pero cuanto más forzados se ⟦06:57 Goodle-dlc veían a tomar las palabras en un sentido figurado y mítico,⟧ encontraban también más necesaria una libre interpreta-⟦ción de las doctrinas de los antiguos filósofos y más ne-⟧ cesario, por consiguiente, buscar una significación más profunda en el sentido propio de sus palabras. Esto favoreció la opinión. que, en el fondo, todos los filósofos, a lo menos los más profundos, estaban de acuerdo entre sí, dentro de los límites más primitivos de la investigación, que contenían rerelaciones orginales. Así se introdujeron en el criterio fi-⟦Domain⟧ Insófico dos principios nueros: el de la autoridad y el de la rerelación. El problema consistía en remontarse a la revelación original, expresarla en su fuerza nativa y representar todo verdadero conocimiento de lo divino como un rayo ro-⟦Calitornia, San net/2027/uc1.$b44069 / to de la sahiduría primitiva. De allí que los sistemas filosó-⟧
+
+ticos que parecían favorables al elemento religioso de la villa, fuesen considerados también como la expresión fiel de la sabiduría primitiva.
+
+Además, se tenía la idea de que lo divino no nos era conocido sino por una serie creciente de rerelaciones; y como
+
+⟦Digitized by Google⟧
+
+[^p153-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 154]
+
+se juzgaba necesario referir todo a lo divino, se pensó que era aún una necesidad de su naturaleza recorrer esta serie de revelaciones. Tal era, según Ritter, el punto de vista de la doctrina de la emanación o procesión, que se esparció en esta época, pero que era extraña a la antigüedad griega; punto de vista que se había formado de una manera de ver oriental y que correspondía, particularmente, a la manera de pensar de entonces. No entró absolutamente en el pensaamiento helénico, como en el de los orientales, observa Ritter, referir a la idea de la perfección divina la de la creación activa. Los orientales hacían entrar en la filosofía un concepto de la vida, según el que, el mas elevado grado de contemplación consistía en un reposo infinito; y para explicar como del reposo del ser perfecto había podido provenir el no reposo de la actividad cósmica, debieron resolver esa cuestión admitiendo que, en la emanación cósmica del seno de la divinidad, Dios permanecía inmutable en su esencia y dejaba solamente al mundo producirse en cuanto era posible. Esa era precisamente la sustancia de la doctrina de la emanación, doctrina que consistía en concebir el mundo como brotando de la naturaleza de Dios, sin actividad de su parte y sin que el fruto de esa emanación recayese en Dios, sino en otra cosa.
+
+Esta manera de explicar la realidad y de interpretar las tradiciones o revelaciones, se coordinaba con la repugnancia a la vida activa y con sus consecuencias ascéticas. Para percibir la esencia pura de nuestro espíritu o de nuestra razón y comprender las antiguas tradiciones, se creyó necesario romper con lo exterior. Eso condujo a la purificación de ⟦Domair⟧ la conciencia y de sus percepciones, a la contemplación interior que los orientales habían recomendado de tantas ma-San Diego $b44069 / Public neras diferentes, al deseo de destruir el encadenamiento natural de las cosas, para sustituirlo con otro mas elevado, y, como consecuencia, a un sistema arbitrario de representa-California, ciones que no expresaba, en definitiva, como dice Ritter, sino el encadenamiento de lo interno con el mundo exterior, ⟦net (2077/ucl⟧ en el modo de pensar; pero encadenamiento roto por la ⟦OT⟧ manera de ver completamente personal. La purificación no University solo era preparación para penetrar mejor la esencia de ⟦generated nttos:|/hdl_handle⟧
+
+⟦Digitzed by Google⟧
+
+[^p154-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 155]
+
+nuestro espíritu, sino también para recibir la gracia divina en que se hacía consistir el fin de la vida humana.
+
+Bajo la acción de todos estos elementos, la filosofía greco-romana tendió a dar al problema religioso un valor supremo, orientando sus enseñanzas en el sentido de las revelaciones religiosas, y engendrando la filosofía mística. Pero en sentido inverso, las mismas religiones recibían una poderosa influencia de la filosofía pagana modificando radicalmente su criterio. Mientras la una trataba de sustituir el criterio de la razón humana por las apreciaciones inefables del sentimiento religioso, las otras se proponían dar a la explicación racional un gran rol en el conocimiento de las cosas divinas. El antiguo mundo, dice Windelband, estaba de tal modo penetrado por la polilla del pensamiento; lo estaba tan profundamente de la necesidad del conocimiento, que ninguna de las religiones quería satisfacer solo el sentimiento, sino también la inteligencia y por consiguiente, se empeñaron en encerrar su vida dentro de una doctrina. Esto sucedió principalmente en el Cristianismo. Así se encontraron, agrega ese filósofo, la necesidad de la ciencia y la de la vida; aquella buscaba en la religión la solución del problema por la que se empeñaba en vano, y esta requería para su aspiración o fé religiosa una fórmula y una base científica; abriendo ambas así el campo de la metafisica religiosa que absorvió la actividad del pensamiento filosófico en este periodo.
+
+El caracter fundamental de la filosofía entonces, consiste en una elaboración religiosa del platonisino, que establece su sede en Alejandría, nuevo centro importante de la cultura humana. En esta nueva escuela surge Plotino (Licopolis-Egipto-205. d.d. J. C.), el hombre que maduró y desarrolló exclusivamente, en el campo helenista, la tendencia religiosa de la filosofía, el más grande pensador de esta época, fundador del Neoplatonismo, nombre con el que se expresa su tentativa de sistemar, bajo el principio fundamental religioso, todas las doctrinas principales de la filosofía grie-⟦ga. Su doctrina es calificada por Windelband, como el⟧ sistema de ciencia más acabado y más elaborado que la antigüedad ha producido. Si su discípulo: Porfirio se mostró mas inclinado a formar una religión de esta doctrina lire-
+
+⟦generatedi tos: //hdl|⟧
+
+⟦Google⟧
+
+[^p155-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 156]
+
+giosa, Jamblico, que es considerado como jefe del neoplatonismo siriaco, la transformó en una dogmática del politeismo, con la que los opositores doctrinarios y políticos del Cristianismo, como el emperador Juliano, esperaron esterilmente reanimar el culto de la religión pagana caido en ⟦desuso. En cambio, la necesidad de la religión positiva de⟧ encerrarse y afirmarse en una doctrina científica alcanzó su objeto; la comunidad cristiana creó su dogma con los medios conceptuales que le ofreció el helenismo en su agonía.
+
+Los nuevos estóicos romanos se aproximaron, por su tendencia religiosa, a la filosofía greco-oriental. Según Ritter, prepararon la propagación de la filosofia neoplatónica, no solo porque consideraban la via de la abstención de todo contacto con el exterior, como la via de la armonía con lo divino, sino, tamién, porque, como los neoplatónicos, querían llegar al reposo del alma por la práctica severa de la virtud y contemplar en seguida lo divino en las alturas. No obstante las diferencias que existen entre el estoicismo de Roma y el neoplatonismo de Alejandría, puede considerarse al primero como una transición al segundo, que renueva los problemas metafísicos desdeñados por la filosofía práctica romana. Por otro lado, la tendencia de la filosofia griega a combinar sus tradiciones con las ideas religiosas orientales se encuentra principal. mente en las doctrinas de Plutarco (Queronea 50-125, d. d. ⟦J. C.) y de Neumenius de Siria.⟧
+
+Aunque en sentido opuesto, debe considerarse, también, como una transición, la filosotía religiosa del judío Filon (30 a. d. J. C. a 50 d. d. J.C.), que combina las creencias re-⟦Domaln⟧ ligiosas del judaismo con las ideas filosóficas de los griegos e introduce la idea metafisica de la emanación o procesión San Diego entre Dios y el mundo, idea que, en concepto de Fouillée, conciliaba el principio de la trascendencia de Aristóteles y ⟦California, net/2027/uc1.$b44069 el de la inmanencia del Estóicismo, que habían estado⟧ unidos en la filosofia de Platon. Esta afinidad con el helenismo era mas profunda con la doctrina estoica, en la que era esencial la religiosidad. Entre la doctrina de Filon y el Estoicismo existía, dice Pastore, un parentezco, al me-⟦l1versıty⟧ nos patético, respecto a la intuición lógica del mundo. El Logos era el punto cardinal de la doctrina de Filon Alejan-
+
+⟦Digitized by Google⟧
+
+[^p156-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 157]
+
+drino. Sus caracteres eran la universalidad, el dinamismo, la mediación, la revelación (fé), el extasis y la inspiración profética, elementos que no ofrecen todavía una sistematización lógica decisiva en el pensamiento de Filon, pero que contienen, como idea única y fuerza o actividad sintética universal, el Logos, motivo predominante que dió a la doc. trina filoniana el primer colorido del nuevo panlogismo que había de formar el tema general de la civilización cristiana. Con Filon, la teoría estoica del neuma o fuego artístico creador, adquiere una forma decididamente espiritual. Jehovah, el Dios incognoscible, no puede actuar directamente sobre la materia; gobierna por intermediarios. Todas estas fuerzas divinas, todos estos poderes que unen al mundo con Dios, estan comprendidos en la sabiduría, en el Verbo. El logos de Filon es una síntesis, mas o menos coherente, de la sabiduría hebrea, del Vous de Aristóteles y del mundo de las Ideas de Platon, como hacen notar Janet y Seailles.
+
+La antinómia principal de la realidad no es para Filon la de lo bueno y lo malo, sino la del espíritu y la materia, lo insensible y lo sensible del eterno ser y el fugaz devenir; todas las cosas sensibles son para él impuras, y pecaminoso todo lo que participa de la transformación. Esto, dice Eucken, lleva al desco de unificarse con Dios por el camino de la mística y el extásis. Filon para Bossuet, es el primer místico y estático en el terreno de la religiosidad específica monoteista. Filon encuentra, en medio de la tradición judía muchas indicaciones y puntos de apoyo para la unión con Dios, considerada por él como el bien supremo. Esta unión perfecta, que significaba la absorción del hombre por Dios; excluía toda idea de libertad humana; pero Filon encontró en la explicación alegórica de la tradición religiosa, ⟦San Diead⟧ un medio de conciliar y armonizar la libertad individual con el orden general impuesto por Dios.
+
+⟦handlenet(2027/uc1.$h44969 El sistema filosófico de Plotino resume todas las as-⟧ piraciones vagas y todos los esfuerzos dispersos de los pensadores que se empeñaron encontrar en el principio divino transcendental la explicación del mundo que la razón helénica había ofrecido a través de los siglos. Según Fouillée, la teoría platónica de las Ideas era particularmente
+
+⟦generated nttps://hdl|⟧
+
+Original from
+
+⟦Digitized by ( Google⟧ UNIVERSITY OF CALIFORNIA
+
+[p. 158]
+
+propia para aproximar y conciliar el espíritu helénico y el espíritu asiático. La filosofia griega, tratando de elevarse de la naturaleza visible al Dios invisible, encontraba un intermedio en las Ideas y en la Inteligencia. Las religiones orientales, tratando de descender de Dios inefable a la naturaleza, concebían, por su parte, la sabiduría o razón divina como un intermedio entre Dios y el mundo. La doctrina del Verbo o de la razón mediadora era así la conclusión natural del Platonismo, que se realizó en el neoplatonismo de Plotino. Este filósofo adoptó el doble proceso de la emanación oriental y de la conversión platónica, que respondía, por otra parte, como observa Fouillée, a la más simple observación sicológica, que permite apercibir en el alma la vida, con su actividad movil, el pensamiento, con ⟦sus reglas inmutables, y ese fundo del ser, esa unidad in-⟧ tima, que se desarrolla sin dividirse.
+
+Esta observación, agrega Fouillée, familiar a todas las teologías y filosofías de cierta profundidad, era bastante para suscitar en el espíritu filosófico las ideas de trinidad y de procesión, que estaban en germen en la filosofía griega y en la teología judáica. Plotino, en esa aspiración a lo absoluto, fundamento metafísico de la inteligibilidarl, asciende hasta el Dios Uno, el Dios Todo, el Primero, superior al ser mismo, sin confundirse con la nada, para explicar, desde allí, por medio de la emanación o irradiación sucesira, primero el Verbo, la Inteligencia, el Logos, fruto directo de Dios, y después, por medio del Logos, el Alma, que desarrolla, en una multitud de poderes distintos, todas las formas que la Inteligencia envuelve. Tales la Trinidad ale-⟦Domair⟧ jandrina, en la que las tres hipostasis, aunque metafísicamente proceden una de otra, son las tres eternas. El Alma ⟦San Diedo⟧ responde al dios de los estóicos; ella crea, por su movimiento, el espacio y el tiempo y esparce las ideas en el vasto cuerpo del mundo que anima. Pero el ser engendrado no se ⟦Calitornia,⟧ separa enteramente del ser al que debe su existencia; sino ⟦handle net 077/cl| que vuelve hacia la perfección mas elevada de donde emana,⟧ aspirando a confundirse de nuevo con ella. A la emanación o procesión de Dios responde la conversión hacia Dios. Esa ley del retorno se manifiesta sobre todo en el hombre por el progreso dialéctico del conocimiento y del amor y por el
+
+⟦enerated⟧
+
+⟦Google⟧
+
+[^p158-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 159]
+
+término común a donde estos van reunirse: el extásis. A la vida práctica sucede la contemplativa y a esta la vida divina en el hombre.
+
+El concepto de la unidad divina parece en Plotino la conciliación de los contradictorios. No tiene nada de numérica; es, como dice Weber, el milagro de los milagros. Produce todas las cosas y no es producida por nada; es la fuente de toda belleza sin ser bella, la fuente de toda forma, sin tener ninguna forma, la fuente de todo pensamiento y de toda inteligencia, sin ser pensante e inteligente y el fin de todas las cosas sin ser una cosa propiamente hablando; es el principio de lo que es bueno, el bien supremo, sin ser bueno, como puede serlo una criatura que participa de la bondad. No tiene bondad, ni belleza, ni inteligencia; pero es la bondar, la belleza, el pensamiento mismo. Dios no tiene tampoco, una voluntad, en el sentido humano de esta palabra; no tiende hacia ningún fin; no quiere, ni desea sino a él mismo, porque fuera de él nada hay deseable; es la paz, el reposo, la satisfacción suprema. No es libre como lo son las almas, ni esclavo a la manera de los cuerpos; está sobre el libre albedrio, que flota entre determinaciones contrarias, como sobre la condición de los seres corporales, que reciben sus impulsos de un poder extraño. Limitándolo toda calificación que le demos, debemos abstenernos de darle atributos; el es, a la vez, todo y nada de todo lo que podemos imaginar; atribuírle, darle algo, es privarlo de él. He allí, agrega Weber, porque las determinaciones que Plotino le dió (el Uno, el Bien, el Pensamiento puro, el Acto puro) las declara inadecuadas; todo lo que podemos decir de Dios, es que está sobre todo lo que se puede concebir y decir. Extrictamente hablando, no se puede aun afirmar que existe, porque está sobre el ser mismo. Abstracción suprema, no podemos elevarnos a él sino por medio de una abstracción absoluta, radical.
+
+Torlos estos rasgos místicos provenían, según Ritter, de que Plotino se esforzaba por concebir el primer principio, no como primer principio, es decir con relación a aquellos de que es la razón, sino mas bien en sí mismo, lo que jamás había ocurrido al pensamiento de los antiguos filósofos,
+
+⟦generated nttps://hdl⟧
+
+⟦Digitized by Google⟧
+
+[^p159-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 160]
+
+excepto aquellos que querían que se concibiese al Primero como siendo también el Ultimo y el Unico, pero nó como principio; no habiendo sido posible esta tentativa sino en una época en que se concebía la idea del Primero, no ya como idea, es decir como producto del pensamiento, sino haciéndola venir de fuera, salvo tratar en seguida de ponerla en relación con la tendencia científica para encontrar los supremos principios del ser y del pensamiento. Plotino aspiraba así a reconciliar la filosofía con la vida religiosa, fin que no habían podido alcanzar los platónicos y los estóicos anteriores. El problema filosófico para Plotino no parece ser, por consiguiente, el problema de la inteligibilidad de lo real, sino el de la naturaleza de lo real mismo, el de la sustancialidad. La razón objetivamente considerada como emanación de lo Uno, es para Plotino una imágen, una semejanza de lo Uno, que envuelve un gran número de caracteres; sólo que no se le asemeja completamente, que no encierra toda la perfección. Según Plotino, todo aquello en que consiste la razón, debía ser extraño al Primero, y sin embargo debía existir cierta semejanza entre la Razón y el Primero; más aun, cuando la razón se mantenía perfectamente pura, debía poder hacer ver en sí mismo al Primero y contenerlo. Según Ritter, aquí se encuentran los dos puntos principales del misticismo de Plotino: el defecto de Razón del Primero y la intuición suprasensible de la Razón.
+
+El concepto del hombre estaba en armonía con este proceso de emanación y conversión, que producía y atraía al espíritu humano por intermedio de la Inteligencia pura y el alma del mundo. El alma, intermedio también entre el intelecto y el cuerpo, tenía, dice Weber, del uno y del otro y resumía el universo. En la esfera intelectual rei-/ Public naba la necesidad lógica; en el mundo de los cuerpos la ⟦Diedd⟧ necesidad física; pero en el alma dominaba el libre albedrio. ⟦San⟧ Colocada entre las solicitaciones del cuerpo y las de la In-$b44069 teligencia, podía, dirigiéndose hacia la Razón, vivir con ⟦Calitornia⟧ una vida puramente intelectual; pero podía también dirigir-⟦, net/2027/uc1⟧ se hacia la materia, decaer y encarnarse en un cuerpo grosero y terrestre. De allí tres categoríasde almas: 1ª las que viven para la razón y para Dios, las almas divinas; 2ª las que flotan indecisas entre el espíritu y el cuerpo, el
+
+⟦nttps://hdl⟧
+
+⟦Digitzed by Google⟧
+
+[^p160-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 161]
+
+cielo y la tierra, los demonios, genios más o menos buenos, más o menos malos; 3ª las que viven en la materia y habitan cuerpos groseros. Las almas celestiales, como el alma del mundo misma, son soberanamente felices. Su felicidad consiste en la apatía, en la obediencia a la razón divina y en la comtemplación de lo absoluto. Su cuerpo, todo luz, no tiene nada de material, tomando este término en el sentido de terrestre. Eternamente perfectas y siempre las mismas, no tenían memoria, ni preciencia, ni esperanza, ni pena; porque no hay recuerdo ni esperanza sino para los seres que cambian de estado, sea en bien, sea en mal. No tenían, como el alma humana, conciencia de sí mismas, absortas como estaban en la contemplación de las Ideas y de lo absoluto; esta inconciencia de ellas mismas, esta apercepción exclusiva de las cosas divinas, era lo que constituíasu soberana felicilad. Las almas humanas no habían estado siempre encerradas en cuerpos groseros; sino que habían cumenzado por ser almas celestes, concientes de Dios solaminte y no de sí mismas; pero habían separado su vida de la vida universal para llegar a ser individuos egoistas y rerestir cuerpos groseros, que las aislaban unas de otras. La caída, la personificación y el revestimiento de un cuerpo terrestre eran un solo y mismo acto, del que las miserias de la vida presente eran el justo castigo. Este acto era libre, en el sentido de que ningún poder diferente de las almas mismas las había constreñido para practicarlo; era necesario también, en el sentido de que habían sido determinadas por su propia naturaleza. Cada una era autora de su destino y, reciprocamente, lo hacía conforme a su carácter individual.
+
+⟦Domair⟧
+
+Pero el hombre volvía a Dios por el proceso opuesto de la conversión. Según Plotino, la sensación, la opinión y el raciocinio son el esfuerzo del alma para rolver a la Inteligencia, Razón, Verbo o Logos, sin el movimiento de con-California. versión por el que la actividad tiende al reposo. Lo mismo son los esfuerzos de la voluntad luchando contra los obstáculos exteriores o contra el obstáculo interior de las pasiones. Según Plotino, dice Fouillée, la libertad, que con-⟦Jniversity⟧ siste en poder hacer el mal o el bien, no era la libertad verdadera, la verdadera independencia; la verdadera libertad ⟦handl e⟧
+
+⟦generated nttps://hdl⟧
+
+⟦Google⟧
+
+[^p161-1]: Original from Digitized by ( UNIVERSITY OF CALIFORNIA
+
+[p. 162]
+
+consistía en el estado del alma que ra espontaneamente hacia el bien sin esfuerzo y sin desfallecimiento. El fin de la vida práctica y de las virtudes purificadoras era librar al alma de los lazos del cuerpo y convertirla hacia la pura Inteligencia. Mas para que esta conversión se realizase, no era necesario que saliese el alma de ella misma, sino mas bien que penetrase en ella misma; porque, al venir al cuerpo, nuestra alma no se había desprendido del alma universal y no había cesado de habitar en ella; no se había desprendido de la Inteligencia pura; porque, por su parte superior, vivía siempre la vida pura de la contemplación, a la que se debía llegar por el rechazo de las solicitaciones del mundo externo, por la separación del cuerpo y del alma.
+
+El objeto propio de esta contemplación intelectual en el reposo, era la verdad, era la belleza, dos cosas idénticas para Plotino, lo bello, era el reflejo de la Inteligencia en el alma; era la forma o la Idea, como dice Fouillée; pero no entendida como Platon exclusivamente, sino engrandecida por la influencia de Aristóteles; no como una forma inmóvil, con apariencia de abstracción, como era la Idea platónica, sino penetrada de vida y de poder. Plotino, en sus Enneadas agrega Fouillée, representa la Idea como una forma del penasmiento y del ser, como un principio inteligente e inteligible, en el que la realidad y la vida individual se unen al ideal y a la universalidad. Las formas vivientes del mundo suprasensible eran la belleza misma, puesto que reunian todos sus caracteres:y un objeto no era bello sino a condición de ser, como estos, a la vez, real e ideal. La belleza objeto de la contemplación del alma era, pues, lo inteligible viviente y, por lo mismo, pensante; era la Inteligencia, que el alma superaba; porque en su infinito deseo anhelaba reunirse al objeto amado, que era el Bien, el Dios Uno, lo Infinito, el único capáz de satisfacer el amor infinito que inquieta nuestras almas y el que anima la for-⟦Calitornia.⟧ ma bella, como si fuese su alma..
+
+Para Plotino, ningún esfuerzo del pensamiento podía ⟦_net (?077/uc1⟧ ofrecernos esa visión de Dios; era preciso esperar tranquilamente que apareciese y prepararnos a contemplarla; el pensamiento, con sus operaciones imperfectas solo servía
+
+⟦ttps://hdl|⟧
+
+Original from ⟦Digitized by ( Google⟧ UNIVERSITY OF CALIFORNIA
+
+[p. 163]
+
+para elevarnos, poco a poco, a la altura de donde era posible descubrir a Dios. Esta contemplación no era exterior; no era una visión, era más bién un extasis, una simpliticación, un abandono de sí, un deseo de contacto, una perfecta quietud, un deseo de confundirse con lo que se contemplaba en el santuario. Pero si en este estado de extasis, continúa Fouillée, el alma ya no pensaba, no era por defecto, sino por exceso de pensamiento y como por el primer grado del pensamiento. La inteligencia tenía dos poderes; por el uno, que era el poder propio de pensar, veía lo que existe en ella; por el otro apercibía lo que estaba sobre ella con el auxilio de una especie de intuición y de percepción. Por esta intuición veía primero simplemente; después, viendo, recibía la intelección y se indentificaba a lo Uno. El primer modo de contemplación era propio de la inteligencia que poseía todavía la razón; el segundo era la inteligencia trasportada por el amor y que se expandía en una felicidad que satisfacía todos sus votos. Mas valía para ella entonces abandonarse a esta embriaguez, que permanecer más sabia. Entonces también veía de golpe aparecer ante ella a Dios, confundiéndose de tal modo Dios y el alma que la dualidad existente antes desaparecía completamente. En este estado el alma no sentía ya su cuerpo; no sentía ya si vivía, si era hombre, si era esencia, ser universal o cualquiera otra cosa en el mundo; porque considerar estas cosas habría sido decaer y el alma no tenía entonces ni la voluntad de ocuparse de ella.
+
+Esta filosofía que había colocado la vida sobre la Razón, que había introducido la idea de infinito favorable al concepto de libertad y elevado el criterio de la intuición filosófica; que había proclamado la espiritualización del univer-⟦San Diedo⟧ so, la separación del espíritu y la concepción de la personalidad humana como sus dogmas; que había creado un Dios aracional e inexplicable por eso mismo, no alcanzó sin embargo el concepto de la verdadera libertad. Dominada por el panlogismo helénico, que consideraba el orden ideal como la verdad suprema y primera, y bajo la influencia del espíritu religioso oriental, engendró ese Dios Uno, ese Dios Todo, en el que la Idea platónica se hacía infinitamente activa y fecunda, perdiendo el carácter abstracto y esteril
+
+⟦enerated⟧
+
+⟦Google⟧
+
+[^p163-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 164]
+
+por el que Aristóteles la condenaba, y realizando su actiridad indirectamente como el Dios inmóvil de Aristóteles y en armonía con la idea de emanación importada del Oriente; pero sin dejar de ser por eso el orden absoluto que resolvía todas las contradiciones comprendiendo todas las ideas.
+
+Ese Dios había engendrado todo, ciertamente, por una voluntad soberanamente independiente, que era su misma sustancia, como dice Fouillée. El fondo del pensamiento de Plotino era que Dios había engendrado, por una razón suprema, que era el mismo tiempo, amor, libertad y necesidad y por consiguiente no era ninguna de estas cosas y que no difería de Dios; pero este pensamiento, observa el mismo ⟦Fouillée, permanece vago en las Ennedadas de Plotino y⟧ cuando trata de elegir una expresión precisa para determinar el acto divino, parece elegir de preferencia todo lo que entraña la idea de necesidad. Preocupado, sin cesar, del carácter absoluto de Dios se dedica, sobre todo, a excluír de su perfección la contingencia, el azar, la relación y la multiplicidad. La metafora platónica del Demiurgo, del artista ⟦que delibera y contempla un modelo, le parece a • Plotino in-⟧ digna de Dios o al menos de su primera hipostasis, lo Uno.
+
+Plotino, según Renouvier, identifica la voluntad divina con la naturaleza divina y en otros términos, la libertad de actuar con la necesidad de existir. Pero Plotino no entiende por esto renunciar a atribuír a Dios una voluntad; al contrario él considera a Dios como mandándose y obedeciéndose eternamente a sí mismo, aunque su voluntad no haya engendrado nada que no existiese ya, y lo llama verdaderamente libre, porque no existe ni aun en la dependencia de sí mismo; porque es como ha querido ser, y sin em-⟦San Diead net/2027/ucl.$b44069 / Public bargo su voluntad estaba ya en su esencia y no podía ha-⟧ cerse otra sino la que se había hecho; pero es que en Dios el poder no consiste para Plotino, en poder hacer los contra-⟦Calıtornia.⟧ rios; sino que es un poder constante e inmutable, cuya perfección está precisamente en no apartarse de lo que es uno; y poder hacer los contrarios es carácter propio del ser incapáz de mantenerse siempre en lo mejor; contradicciones, University agrega Renouvier, producidas por el deseo de decir de Dios
+
+generated at
+
+⟦Digitzed by Google⟧
+
+[^p164-1]: Original from UNIVERSITY OF CALIFORNIA
+
+[p. 165]
+
+que se ha hecho él mismo, mientras que, en el fondo, se piensa en un sujeto eterno, sin causa.
+
+Para Plotino todo en este mundo es vida y alma, pensamiento y razón. El mundo se funda en el orden que reina en la formación de las cosas, orden que solo ha porlido ser producido por el Alma universal. Si hay mal en el mando; si existe discordia y enemistad entre las cosas, eso era necesario e indispensable, porque como copia del mundo suprasensible hay menos unidad en él y las cosas debían de ser imperfectas y ser así opuestas unas a otras. Sin embargo, toda esa oposición se reduce a la mas bella armonía, que forma lo necesario y el bien; solo cuando se considera lo particular en sí mismo puede parecer defectuoso, pero en su relación con el todo, cada cosa es buena.
+
+Esta rida sensible no es para Plotino mas que una representación teatral; no hay desgracia sino en imágen; todo lamento es solo una ilusión de los actores y todo esto proviene de que, en el hecho, las cosas de este mundo sensible abandonan la verdad de lo Uno y se alejan de él cuando quieren ser algo, en virtud de una libertad que les es propia y llegan a ser así una apariencia. Los cosas para Plotino tenían pues la facultad de desviarse de su orígen. Estaba, dice Ritter en la naturaleza de la teoría de la emanación de Plotino, según la que todo ser saca de su seno alguna cosa y por lo mismo es alguna cosa, atribuír a los seres esa facultad; pero tal libertad, agrega, no era en el fondo diferente de la necesidad general en que estaban las cosas de hacersalir su emanación de su seno. En concepto de Ritter, Plotino se vió conducido a considerar esta necesidad de la emanación como una energía libre por la reflexión que debió hacer al considerar las últimas emanaciones dependien-⟦San Diedo / Public⟧ tes del Dios supremo. El veía en la caída gradual de las cosas, del seno del ser supremo, la razón de lo detectuoso y del mal; y Plotino, que no quería aún que se dijese, a la manera de los astrólogos, de los dioses subordinados, los astros, que el vicio de las costumbres dependía de ellos, no podía convenir que el mal en el mundo viniese de Dios, y por eso representó la caída de la Razón en el Alma del mundo y la de esta en el mundo sensible, según sus diferentes grados,
+
+generated at
+
+⟦Google⟧
+
+[^p165-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 166]
+
+como un hecho de la voluntad libre o de la temeridad. Por consiguiente el hombre era un ser libre, principio de su acción: el pecado era falta suya.
+
+Pero Plotino no pudo, dice Ritter, sostener esto en general; porque toda alma permanecía fiel a su rolen este mundo; ella debía responder a una idea determinada (logos) en la armonía universal de las cosas: esta idea servía al bien y prescribía a cada cosa en particular In que ella debía hacer. Así, desde este punto de vista, la libertad era un mal regalo. Según Plotino, valdríamos mas, a este respeto, si no poseyésemos esta libertad de hacer el mal. Mas aún, si la libertad debía entrañar la elección entre el bien y el mal no le parecía ya deseable; porque esta libertad era solo un defecto de poder. Plotino no quería pues que el alma turiese libertad cuando seguía los dictados de su naturaleza, cuando, en'el deseo, obedecía a las representaciones sensibles. No debía ser reputado libre lo que se realizaba por opinión, sino solamente lo que la justa razón efectuaba con ciencia. Solo la razón era libre, puesto que deseaba el bien que es conforme a su verdadera naturaleza. Solo era libre lo que no era material absolutamente. Pero esa libertad era concedida tan solo a la razón teórica, de modo que la razón práctica, que tenía que hacer con lo material y que es coactada por él, no podía pretender a la libertad. Plotino reconocía pues, así, una libertad al hombre, que era conducido al bien con libertad, por su propia naturaleza; porque la virtud no tenía señor. Esta libertad del alma, como emancipación absoluta de lo sensible, se comprende en Plotino, dice Ritter, si se tiene en consideración que para ese filósofo ⟦Domaln⟧ lo corporal es sensible y todo lo incorporeo es suprasensible, y libre, por consiguiente, de la pasividad.
+
+⟦Diedo⟧
+
+El hombre, para Plotino, no era pues libre, sino en tanto que ejercía la razón y la inteligencia; pero resta saber, dice ⟦. net/2027/uc1.$b44069 Renouvier, si era libre de ejercer la razón y la inteligencia.⟧ Lo era según Plotino; pero esta afirmación que el flósofo hacía desde el punto de vista del hombre y que no carecía de claridad, la retiraba desde el punto de vista de la Providencia; mejor dicho Plotino se complacía en la contradic-⟦Jniversıty⟧ ción en la que la teología tomó parte después. Cuando él
+
+⟦Generated htt0s:|/h0l⟧
+
+⟦Google⟧
+
+[^p166-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 167]
+
+refutaba el encadenamiento causal de los estóicos, bajo la forma determinista, no era para rehusar a todos los hechos su poder de remontar hasta la causa suprema en lo que tenían de inteligible y de real, sino, al contrario, para referirlos a ella directamente. Lo que Plotino no quería era la trasmisión de la acción por un proceso al infinito. Según Renouvier, a Plotino le era mas fácil confundir el agente con el alma universal, en la que existe y por la que actúa, y decir que cada uno vive, piensa, realiza una vida, un pensamiento, una acción que le son propios, que tiene la responsabilidad de sus acciones buenas o malas, que no son imputables a la causa universal, atribuyendo a la causa inmanente del mundo externo-abstracción hecha de las imperfecciones y vicios que Plotino imputa a la materia-la actuación inmediata de los actos producidos en su curso. Los estóicos lo pretendían también elevándose a la causa universal a través de los grados de la evolución del mundo.
+
+Plotino había querido como Carneades, dice Fonsegrive, ocupar. una posición intermedia entre los estóicos y los epicureos, admitiendo la providencia y el destino que brota de ella, sin suprimir el libre albedrio. Creía que la providencia, de una bondad soberana, había organizado el mundo y no había dejado nada al acaso. Todo tenía su razón, su causa, todo estaba previsto y determinado, por consiguiente. Pero Plotino pensaba que de allí no se seguía que el hombre no tuviese ningún poder. Quitar al hombre todo poder era, para Plotino, reducir el mundo a la unidad de una sola vida, unidad en la que no cabía disposición, ni ⟦Domain 1n⟧ orden, ni providencia. El orden providencial exigía pues, que el hombre pudiese alguna cosa: de allí que el hombre fuese un principio de acción, pero un principio subordi-⟦Publ1d⟧ nado y sumiso. Las buenas y las malas acciones provemían de él. Era, ademas, tanto mas libre cuanto mas practicaba el bien. Si hay acciones buenas y malas esto mismo ⟦California, .$b44069 era una ley providencial. La razón que ordenaba el mundo⟧
+
+quería la existencia de los contrarios para que resultase una armonía. Entraba así en los designios de la providencia que hubiese en el mundo bien y mal moral, como entraba en University los designios de un poeta trágico introducir en el teatro hombres buenos y malvados. Ahora bien, para que el mal
+
+⟦Google⟧
+
+[^p167-1]: Original from Digitized by ( UNIVERSITY OF CALIFORNIA
+
+[p. 168]
+
+y el bien existiesen era preciso que el hombre pudiese pro. ducirlos; pero conservándose siempre dueño de si mismo y de sus acciones.
+
+La tentativa renovada por Plotino de conciliar el libre albedrio con la razón ordenadora, que se había acentuado en los filósofos anteriores a él, por la introdución del elemento religioso, no tuvo éxito y solo dió origen a contradiciones numerosas en su sistema, que Renouvier ha hecho resaltar. Esa conciliación era imposible en el helenismo, que consideraba el orden como principio supremo de inteligibilidad y aun de realidad y a la libertad como un principio de desorden y un signo de imperfección y decadencia. El pensamiento filosófico de la Grecia estableció así un dualismo inconciliable. El griego no concebía posible que la voluntad libre engendrase un orden adecuado a la expansión y creación del espíritu, porque su intelectualismo radical, fundado en la cultura constante y secular de la humanidad, no había podido alcanzar todavía el fin práctico de la libertad, como había encontrado y hecho fecundo el fin práctico de la inteligencia ordenando la realidad entera. La única forma real de la libertad, más bien sentida, que conocida, fué la libertad estética, de la no coación, que penetrada de orden y 2025-07-23 puesta al servicio de la armonía artística, hacía sentir la emoción que Kant calificó mas tarde como el libre juego de las facultades cognocitivas. La libertad, como postulado moral, era un supuesto necesario para la concepción de un dios justo, incapaz de premiar el vicio y de castigar la virtud, de llenar el mundo de males y herir sin causa justa a ⟦1n⟧ los hombres. Si la necesidad de orden y armonía, dice Fon-⟦through. handle.net/2027/ucl.$b44069 / Public Domain segrive, inclinaba a los antiguos hacia la creencia en la ne-⟧ cesidad, de otro lado el instinto moral los impulsaba a creer San Diego en el libre albedrio.
+
+Plotino no podía escapar a las consecuencias de ese dua-⟦University of Calltornia, lismo, con mayor razón desde que en su sistema la idea de⟧ orden se elevaba a la categoría de principio divino y adquiría el valor de una actividad fecunda. Plotino, representante de la cultura helénica, no podía colocar la voluntad libre como principio de toda realidad. Su sistema tenía que ser un panlogismo subteológico, pero transcendental y de-
+
+⟦Generated nttos://hdl|⟧
+
+⟦Google⟧
+
+[^p168-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 169]
+
+cadente, como lo califica Pastore. El Dios de Plotino era más bien necesidad y ley que libertad absoluta; era como se ha dicho, un orden absoluto, que contenía toda la realidad pero infinitamente. Ese orden era la Unidad, el Todo, el Principio, lo absoluto y de él se desprendían, por emanacio. nes sucesivas, todas las múltiples realidades del universo. No era un orden puramente lógico, como el de la Idea platónica, un orden puramente teleológico como el de Aristóteles, que colocaba la finalidad en la forma o el acto; ni un orden estético, como el helénico puro que se realizaba completamente en lo finito, sino un orden divino, lógico, teleológico y estético a la vez, pero que colocaba en el ser supremo el principio de inteligibilidad, el fin de toda actividad extra divina y la causa de una emoción estética en la cualla armonía, puramente espiritual, se realizaba en el infinito.
+
+Una filosofía así, no podía comprender la verdadera libertad. Plotino no la coloca en el primer principio, ni en las emanaciones sucesivas. Habla de libertad en la procesión, como en la conversión; pero en la primera la postula como una necesidad de la emanación, que no es ni creación, ni evolución y como una defensa de la justicia y providencia divinas; y si en la conversión hace de ella un proceso necesario de purificación, la libertad no es sino liberación del mundo externo, que tiene por fin la pérdida absoluta de la autonomía y personalidad humana, absorvida en el seno de la Unidad, absorción que en este sistema constituye la suprema felicidad.
+
+Plotino decía: Los actores permanecen libres, aunque el poeta haya reglado su representación. Después de él Hierocles atirma que la justicia sería en el mundo tal como lo ha ordenado la providencia, y lejos el libre albedrio de derogar la orden providencial, no hace sino conformarse con ella. Tal es, dice Fonsegrive la última palabra del paganismo sobre el libre albedrio. Estas doctrinas parecen muy próximas a las que cantaban trece siglos antes los viejos aedas de la Jonia. La idea de orden triunfaba no obstante la influencia religiosa del pensamiento oriental.
+
+Fonsegrive admite, sin embargo, algunos progresos alcanzados por la idea de libertad. Nacida en medio de las
+
+⟦enerated⟧
+
+⟦Google⟧
+
+[^p169-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 170]
+
+tradiciones y de las creencias populares, la filosofía antigua creía, primero, que la voluntad humana estaba sometida a determinaciones exteriores, todo poderosas, fatales ellas mismas y apenas racionales. Sócrates descubre que el destino era una providencia moral, que ordenaba las cosas para su perfección y enseñaba al hombre a conocerse a si mismo y le mostraba el actractivo interior que el bien ejerce sobre su voluntad. Platon reconoció que la mayor parte de los hombres, no haciendo mas que sospechar la existencia del bíen, escapa a su actractivo. Aristóteles demostró, que todos los hombres, por solo ser morales y responsables de sus acciones debían estar dotados de cierto poder. Epicuro, en fin, ve este poder en una indeterminación azarosa. en una independencia absoluta. La idea de la independencia del hombre ha hecho así, desde Sócrates, continuos progresos. Pero la posición extrema del epicureismo produce la reacción estóica. Los filósofos del Pórtico se apartan del estudio exclusivo del hombre individual, procuran volver a encontrar su lugar en la nturaleza y sostienen que si bien los actos interiores del hombre dependen inmediatamente de su naturaleza propia, de ese algo que es el agente especial de la moralidad, esos actos interiores son imputentes para producir al exterior movimientos que no entren en el orden del destino. El estoicismo, ciertamente, no pierde por ente. ro de vista las enseñanzas de Sócrates y reconoce en el destino una providencia, pero la acción de esta providencia se reduce a establecer en el mundo un acuerdo completamente abstracto y como matemático caracterizado por la ausencia de contradición. Los académicos son mas favorables ⟦Domalr⟧ al poder del hombre rehusando creer en el invencible poder del destino. La escuela de Alejandría ve claramente el pro-/ Public blema y se esfuerza por resolverlo: de un lado, una proridencia soberana, que quiere el bien y lo mejor y y de otro lado el hombre. ¿Como el hombre puede ser independien-⟦of California, handle.net/2027/uc1.$b44069 te de esta providencia sin contrariarla? ¿como puede es.⟧ tarle sometido sin perder todo su poder? Plotino resuelve el problema mediante consideraciones estéticas; estas dos contradiciones aparentes se resuelven en una armoniosa belleza. Hierócles da una solución moral: la justicia es providen-⟦Jniversity⟧ cial, y sin el libre albedrio la justicia no existe.
+
+⟦Generated nttos://hal⟧
+
+⟦Google⟧
+
+[^p170-1]: Original from Digitized by UNIVERSITY OF CALIFORNIA
+
+[p. 171]
+
+He allí, según Fonsegrive, el progreso esencial operado en la filosofía helénica; el poder del hombre, apenas sentido al principio por los creyentes y los primeros filósofos paganos ante la omnipotencia formidable de la naturaleza, ha sido profundamente estudiado por la escuela de Sócrates y sobre todo por Aristóteles. Al mismo tiempo, el hado es sustituido por una providencia metafisica. El poder del hombre, desde entonces, ha tenido que conciliarse, no ya con un hado ciego y todo exterior, sino con una providencia racional y buena, inmutable en su esencia y en sus decre-⟦tos.⟧
+
+La cuestion última que el paganismo legó al Cristianismo fué pues esta: cómo el libre albedrio del hombre podía acordarse con el orden establecido por la providencia.
+
+La teología cristiana aceptó la cuestión así planteada. La precisión del dogma se asoció aun, en este sentido, al rigor de la doctrina de la providencia., Pero elementos nueros, contenidos en los Evangelios o los Epístolas canónicas van a modificar y desarrollar esta doctrina. El hombre ha pecado y por esta caída primera ha mancillado su posteridad toda entera; tiene pues necesidad de ser redimido y no puede redimirse él mismo. La providencia misericordiosa cambia milagrosamente el orden natural de las cosas. El hombre es redimido por la sangre de Cristo: pero aun después de esta redención no puede sin socorro divino y milagroso, sin la gracia divina hacer nada que pueda servir a su salud. Estos dogmas sobrenaturales van ahora a encontrarse ante la creencia natural del hombre en su libre poder. Además, Dios es justo y no puede recompensar y ⟦in⟧ ⟦through⟧ ⟦https://hdl.handle.net/2027/ucl.$b44069 / Public Domain| castigar justamente sino al hombre que es libre. Es preciso⟧ pues conciliar entre sí el dogma y el libre albedrio; y esta conciliación es la que han intentado todos los doctores del ⟦San Diedo.⟧ Cristianismo.
+
+at University of California,
+
+## FIN DE LA PRIMERA PARTE
+
+Generated
+
+⟦Digitzed by Google⟧
+
+[^p171-1]: Original from UNIVERSITY OF CALIFORNIA

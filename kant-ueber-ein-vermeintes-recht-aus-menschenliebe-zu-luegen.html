@@ -1,0 +1,325 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Immanuel Kant, Über ein vermeintes Recht aus Menschenliebe zu lügen</title><style>
+:root{--paper:#f6f3ec;--card:#fffdf8;--ink:#1f1c17;--muted:#6e675b;--toc:#a39d92;--accent:#7a2a22;--line:#e3dccd;--orig:#f0ebdf;--note:#fbf6e6;--shadow:0 1px 2px rgba(60,40,10,.06)}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--paper:#161511;--card:#1e1c17;--ink:#e8e2d6;--muted:#9c9484;--toc:#6f6a60;--accent:#d49287;--line:#2c2922;--orig:#242119;--note:#26231a;--shadow:none;color-scheme:dark}}
+:root[data-theme=dark]{--paper:#161511;--card:#1e1c17;--ink:#e8e2d6;--muted:#9c9484;--toc:#6f6a60;--accent:#d49287;--line:#2c2922;--orig:#242119;--note:#26231a;--shadow:none;color-scheme:dark}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;font-size:17px;line-height:1.55}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+.top{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
+.top .in{margin:0 auto;padding:.6rem 1.4rem;display:flex;gap:1rem;align-items:baseline;flex-wrap:wrap}
+.top h1{font-size:1.1rem;font-weight:normal;margin:0;letter-spacing:.01em}.top h1 i{color:var(--ink)}
+.top .sub{color:var(--muted);font-size:.85rem}.top .back{font-size:.85rem;letter-spacing:.03em;text-transform:uppercase}
+.chip{display:inline-block;font-size:.72rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:.05rem .55rem;margin-left:.3rem;vertical-align:middle;white-space:nowrap}
+.wrap{margin:0 auto;padding:1.2rem 1.4rem 5rem}.wrap.index{max-width:1100px}
+/* index */
+.tabs{display:flex;gap:1.6rem;border-bottom:1px solid var(--line);margin:1.6rem 0 0}.tabs button{font:inherit;font-size:1rem;border:0;background:transparent;color:var(--muted);padding:.6rem 0;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px}.tabs button.on{color:var(--ink);border-bottom-color:var(--accent)}
+.reslist .row{border-bottom:1px solid var(--line)}.tabs .tabl{margin-left:auto;padding:.6rem 0;font-size:.95rem}
+.hero{padding:2.4rem 0 1.2rem}.hero h1{font-size:2rem;font-weight:normal;margin:0 0 .3rem;letter-spacing:-.01em}.hero p{margin:0;color:var(--muted);max-width:60ch}
+.controls{display:flex;gap:.9rem;flex-wrap:wrap;align-items:center;margin:1rem 0 1.6rem;position:sticky;top:3.1rem;background:var(--paper);padding:.6rem 0;z-index:4}
+.seg{display:inline-flex;align-items:center;gap:0;border:1px solid var(--line);border-radius:999px;background:var(--card);padding:.15rem;font-size:.82rem}
+.seg .lbl{color:var(--muted);padding:0 .7rem 0 .8rem;letter-spacing:.04em;text-transform:uppercase;font-size:.7rem}
+.seg button{font:inherit;font-size:.85rem;border:0;background:transparent;color:var(--muted);padding:.3rem .8rem;border-radius:999px;cursor:pointer}.seg button.on{background:var(--orig);color:var(--ink)}.seg button:hover{color:var(--ink)}
+select,input[type=search]{font:inherit;font-size:.95rem;padding:.45rem .7rem;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
+input[type=search]{flex:1;min-width:14rem}.controls .n{color:var(--muted);font-size:.85rem;margin-left:auto}
+
+.lib{display:grid;grid-template-columns:15rem minmax(0,1fr);gap:2.2rem;align-items:start}
+#groups{position:sticky;top:7.4rem;max-height:calc(100vh - 8.4rem);overflow:auto;display:flex;flex-direction:column;border-left:1px solid var(--line);scrollbar-width:thin}
+#groups button{font:inherit;font-size:.9rem;display:flex;gap:.6rem;align-items:baseline;justify-content:space-between;text-align:left;border:0;background:transparent;color:var(--muted);padding:.28rem .7rem .28rem .9rem;cursor:pointer;border-left:2px solid transparent;margin-left:-1px;line-height:1.3}
+#groups button:hover{color:var(--ink)}#groups button.on{color:var(--ink);border-left-color:var(--accent)}#groups button.dim{opacity:.35}
+#groups .gc{font-size:.75rem;font-variant-numeric:tabular-nums;color:var(--toc)}
+#panel{min-height:60vh}#panel .ph{display:flex;align-items:baseline;gap:1rem;border-bottom:1px solid var(--line);padding:0 .2rem .5rem;margin-bottom:.2rem}
+#panel .ph h2{font-size:1.45rem;font-weight:normal;margin:0}#panel .ph .cnt{color:var(--muted);font-size:.85rem}
+#panel h3{font-size:.75rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:normal;margin:1.6rem 0 .2rem;padding:0 .2rem;scroll-margin-top:8rem}#panel h3:first-child{margin-top:0}
+#panel .none{color:var(--muted)}
+@media(max-width:900px){.lib{grid-template-columns:1fr;gap:1rem}#groups{position:sticky;top:6.6rem;z-index:3;background:var(--paper);flex-direction:row;overflow-x:auto;max-height:none;border-left:0;border-bottom:1px solid var(--line);padding-bottom:.4rem}
+ #groups button{white-space:nowrap;border:1px solid var(--line);border-radius:999px;margin:0 .35rem 0 0;padding:.2rem .7rem}#groups button.on{border-color:var(--accent)}}
+.genre{margin:0;border-bottom:1px solid var(--line)}.genre summary{display:flex;align-items:baseline;gap:1rem;padding:.9rem .2rem;cursor:pointer;list-style:none}
+.genre summary::-webkit-details-marker{display:none}.genre summary::before{content:"›";color:var(--muted);display:inline-block;transition:transform .15s;width:.8rem}.genre[open] summary::before{transform:rotate(90deg)}
+.genre h2{font-size:1.05rem;font-weight:normal;margin:0;letter-spacing:.01em}.genre .cnt{color:var(--muted);font-size:.82rem;margin-left:auto}
+.genre[open]{padding-bottom:.6rem}.genre .row{margin-left:1.8rem}
+.row{display:grid;grid-template-columns:1fr auto;gap:.6rem 1.4rem;padding:.6rem .2rem;border-bottom:1px solid var(--line);align-items:baseline}
+.row:last-child{border-bottom:0}.row .t a{font-size:1.05rem}.row .t .en{color:var(--muted);font-size:.92rem;display:block}
+.row .m{color:var(--muted);font-size:.82rem;white-space:nowrap;text-align:right}.row .m .chip{margin-left:.35rem}
+/* a term searched: the texts that use it most */
+.tsec{margin-bottom:1.2rem}.tbar{display:flex;flex-wrap:wrap;gap:.3rem;align-items:center;margin:.2rem 0 .3rem}.tbar .map{margin-left:auto;font-size:.82rem;white-space:nowrap}
+.tchip{font:inherit;font-size:.86rem;border:1px solid var(--line);border-radius:999px;padding:.12rem .7rem;background:var(--card);color:var(--ink);cursor:pointer}.tchip small{color:var(--muted);font-size:.74rem}.tchip.on{border-color:var(--accent);background:var(--orig)}.tchip:hover{border-color:var(--ink)}
+.tnote{margin:0 0 .3rem;color:var(--muted);font-size:.88rem}.tnote b{font-weight:normal;color:var(--ink);font-style:italic}.row .m .tn{color:var(--ink);font-variant-numeric:tabular-nums;margin-right:.5rem}
+.tmore{font:inherit;font-size:.85rem;border:1px solid var(--line);border-radius:999px;padding:.2rem .9rem;background:transparent;color:var(--muted);cursor:pointer;margin:.6rem 0 0}.tmore:hover{color:var(--ink);border-color:var(--ink)}
+.hidden{display:none!important}
+/* text page */
+.card{scroll-margin-top:4.5rem}.cl{list-style:none;margin:.6rem 0 1.2rem;padding:0;max-width:46rem}.cl li{margin:.3rem 0;padding-left:calc(var(--d,0)*1.3rem)}
+.cl .it{display:flex;align-items:baseline;gap:.45rem;color:var(--ink)}.cl a.it:hover{text-decoration:none}.cl a.it:hover .t{color:var(--accent)}
+.cl .dots{flex:1;min-width:1.2rem;border-bottom:1px dotted var(--muted);opacity:.55;transform:translateY(-.3em)}.cl .n{min-width:2em;text-align:right;color:var(--muted);font-variant-numeric:oldstyle-nums}
+.cl a.it .n{color:var(--accent)}.cl li.grp{margin-top:1rem}.cl li.grp .t{font-variant:small-caps;letter-spacing:.04em;font-size:1.05em}
+.cl .sum{margin:.05rem 2.6rem .25rem 0;font-size:.86em;line-height:1.45;color:var(--muted)}
+.page{display:grid;grid-template-columns:var(--side-w,250px) 10px minmax(0,1fr);gap:0 1rem;--side-w:250px;--cm-w:300px}
+.hdl{cursor:col-resize;border-radius:4px;background:transparent;position:relative}.hdl::after{content:"";position:absolute;top:0;bottom:0;left:4px;width:2px;background:var(--line);border-radius:2px}.hdl:hover::after,.hdl.on::after{background:var(--accent)}
+.hdl.r{display:none}body.an-with-comments .hdl.r{display:block}body.resizing{user-select:none;cursor:col-resize}
+.tog{position:fixed;left:0;top:50%;transform:translateY(-50%);z-index:6;display:flex;flex-direction:column;align-items:center;gap:.15rem;width:1.7rem;padding:.6rem 0 .5rem;border:1px solid var(--line);border-left:0;border-radius:0 8px 8px 0;background:var(--card);color:var(--muted);cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.08);font:inherit}
+.tog span{font-size:1.3rem;line-height:1}.tog small{writing-mode:vertical-rl;font-size:.6rem;letter-spacing:.14em;text-transform:uppercase}.tog:hover{color:var(--ink);background:var(--orig)}
+body.noside .tog span{transform:scaleX(-1)}body.noside .tog{left:0}
+body.noside .page{grid-template-columns:0 0 minmax(0,1fr)}body.noside.an-with-comments .page{grid-template-columns:0 0 minmax(0,1fr) 10px var(--cm-w,300px)}
+body.noside .side,body.noside .hdl.l{visibility:hidden;overflow:hidden;padding:0;min-width:0;width:0}
+body.noside .page{gap:0 0}body.noside main{padding-left:.2rem}
+.side{position:sticky;top:4.2rem;align-self:start;max-height:calc(100vh - 5rem);overflow:auto;font-size:.84rem;padding-right:.8rem;scrollbar-width:thin;scrollbar-color:var(--line) transparent;color:var(--toc)}
+.side h3{font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--toc);font-weight:normal;margin:0 0 .5rem}
+.side a{display:block;color:var(--toc);padding:.16rem 0 .16rem .6rem;border-left:2px solid transparent;margin-left:-.6rem;line-height:1.35;transition:color .15s}
+.side a:hover,.side a.on{color:var(--ink);border-left-color:var(--accent);text-decoration:none}.side .l3{padding-left:1.4rem}.side .l4{padding-left:2.2rem}
+.side .meta{color:var(--toc);line-height:1.4;margin:0 0 1rem;font-size:.8rem}
+.card{position:relative;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);padding:1.1rem 1.3rem 1rem;margin:0 0 1.1rem;display:grid;grid-template-columns:1fr 1fr;gap:1.4rem}
+.card.mono{grid-template-columns:1fr;max-width:calc(90ch + 2.6rem);margin-inline:auto}
+.card.doc{display:block;max-width:calc(90ch + 3.6rem);margin-inline:auto;padding:1.4rem 1.8rem 1.2rem}
+.card.doc h1,.card.doc h2,.card.doc h3,.card.doc h4,.card.doc h5{text-align:left;font-weight:normal;line-height:1.3;margin:1.4rem 0 .6rem}.card.doc>:first-child{margin-top:0}
+.doc h1{font-size:1.5em}.doc h2{font-size:1.3em;padding-bottom:.35rem;border-bottom:1px solid var(--line)}.doc h3{font-size:1.1em}.doc h4{font-size:1em;font-style:italic}
+.doc p,.doc li{line-height:1.6}.doc p{margin:0 0 .8em}.doc ul,.doc ol{margin:0 0 .9em;padding-left:1.5rem}.doc li{margin:0 0 .35em}.doc li>ul,.doc li>ol{margin:.35em 0 0}
+.doc code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.84em;background:var(--orig);border-radius:4px;padding:.05em .3em;overflow-wrap:anywhere}
+.doc pre{background:var(--orig);border-radius:7px;padding:.8rem 1rem;overflow:auto;font-size:.84em;line-height:1.45}.doc pre code{background:none;padding:0}
+.doc blockquote{margin:0 0 .9em;padding:.2rem 0 .2rem 1rem;border-left:3px solid var(--line);color:var(--muted)}
+.doc hr{border:0;border-top:1px solid var(--line);margin:1.4rem 0}
+.doc .tw{overflow-x:auto;margin:0 0 1.1em;border:1px solid var(--line);border-radius:8px}
+.doc table{border-collapse:collapse;width:100%;font-size:.92em;line-height:1.45}
+.doc th{text-align:left;font-weight:normal;font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);background:var(--orig);padding:.5rem .75rem;border-bottom:1px solid var(--line)}
+.doc td{padding:.5rem .75rem;border-top:1px solid var(--line);vertical-align:top}.doc tr:first-child td{border-top:0}.doc tbody tr:nth-child(even){background:color-mix(in srgb,var(--orig) 35%,transparent)}
+.doc td:first-child{white-space:nowrap}.doc td:first-child,.doc td:nth-child(2){min-width:8rem}
+.doc .lead{color:var(--muted);font-size:.9rem;margin:0 0 1rem}
+.card.pairs{--cg:1.1rem;display:block;padding:1.1rem 0 1rem;background:none;border:0;box-shadow:none;isolation:isolate}
+.card.pairs::before,.card.pairs::after{content:"";position:absolute;top:0;bottom:0;width:calc(50% - var(--cg)/2);background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);z-index:-1}
+.card.pairs::before{left:0}.card.pairs::after{right:0}
+.card.pairs h2,.card.pairs h3,.card.pairs h4,.card.pairs h5{display:block;margin-inline:1.3rem}
+.card.pairs .hp{display:grid;grid-template-columns:1fr 1fr;column-gap:calc(var(--cg) + 2.6rem)}.hp .hsep{display:none}
+@media print{.card.pairs::before,.card.pairs::after{display:none}.card.pairs .hp{display:block}.card.pairs .hp .hsep{display:inline}.card.pairs .row>div{border:0}}
+.card.pairs .row{column-gap:var(--cg);border-bottom:0;padding:0;margin:0;align-items:stretch}.card.pairs .row>div{border-bottom:1px solid var(--line)}.card.pairs .row:last-child>div,.card.pairs .row:has(+:is(h2,h3,h4,h5,.fnrows))>div{border-bottom:0}.card.pairs .row .o{background:none;border-radius:0;padding:.6rem 1.3rem}.card.pairs .row .e{padding:.6rem 1.3rem}
+.card.pairs .row.single .e{grid-column:2;max-width:none;margin-left:0}.card.pairs .fnrows{padding-top:0;border:0}.card.pairs .fnrow:first-child>div{padding-top:.6rem;background:linear-gradient(var(--line),var(--line)) 1.3rem 0/calc(100% - 2.6rem) 1px no-repeat}
+.pnotes{margin:-.4rem 0 1.1rem;border:1px solid var(--line);border-radius:10px}
+/* parallel editions (#59): .cbg draws one card per column, --nc of them shown; its gap is 4px under --cg as #58's pseudo-element cards are content-box (2px wider each) */
+.card.par::before,.card.par::after{display:none}.card.par>.cbg{position:absolute;inset:0;display:flex;gap:calc(var(--cg) - 4px);z-index:-1;pointer-events:none}.cbg>i{flex:1;min-width:0;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow)}
+.card.par .row,.card.par .hp{grid-template-columns:repeat(var(--nc,2),1fr)}.card.pairs .row .x{padding:.6rem 1.3rem}.card.par .row>.nil{border-bottom-color:transparent;background:none}
+.eds{display:inline-flex;flex-wrap:wrap;gap:.3rem;margin-left:.3rem;vertical-align:middle}.ed{font:inherit;font-size:.72rem;letter-spacing:.04em;color:var(--muted);background:transparent;border:1px dashed var(--line);border-radius:999px;padding:.05rem .6rem;cursor:pointer;white-space:nowrap}.ed.on{color:var(--ink);background:var(--orig);border:1px solid var(--accent)}.ed:hover{border-color:var(--ink)}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:1.4rem;margin:0 0 .75em}.row.single{grid-template-columns:1fr}.row.single .e{max-width:90ch;margin-left:1.3rem}.row:last-child{margin-bottom:0}
+.row .o{padding:0 .9rem 0 1.3rem;font-size:.96em}.row .o p{margin:0}.row .e p{margin:0}.row .x p{margin:0}
+.card.pairs .pg{left:1rem}
+.fnrows{margin-top:.9rem;padding-top:.6rem;border-top:1px solid var(--line)}.fnrow .o,.fnrow .e,.fnrow .x{font-size:.84em;line-height:1.45;color:var(--muted)}
+.fnrow{margin-bottom:.3rem}
+.card .pg{position:absolute;top:-.62rem;left:1rem;font-size:.72rem;letter-spacing:.08em;color:var(--accent);background:var(--card);border:1px solid var(--line);border-radius:999px;padding:.02rem .55rem}
+.card h2,.card h3,.card h4,.card h5{grid-column:1/-1;font-weight:normal;text-align:center;margin:.3rem 0 .5rem;line-height:1.3}
+.card h2{font-size:1.3em;letter-spacing:.02em}.card h3{font-size:1.1em}.card h4{font-size:1em;font-style:italic}
+.card .o{background:var(--orig);border-radius:7px;padding:.75rem .9rem;font-size:.96em}
+.card .fnrow .o,.card .fnrow .e,.card .fnrow .x{font-size:.84em}.card .fnrow .o p,.card .fnrow .e p,.card .fnrow .x p{line-height:1.45}
+.card .o p,.card .e p,.card .x p{margin:0 0 .75em;text-align:justify;text-align-last:left;hyphens:auto;-webkit-hyphens:auto;hyphenate-limit-chars:6 3 3;overflow-wrap:anywhere;line-height:1.6}
+.card .o p:last-child,.card .e p:last-child,.card .x p:last-child{margin-bottom:0}.card .o,.card .e,.card .x{min-width:0}
+.card .fn{margin-top:auto;padding-top:.5rem;border-top:1px solid var(--line);font-size:.84em;line-height:1.45;color:var(--muted)}
+.card .fn p{margin:0 0 .3em;text-align:justify;text-align-last:left;hyphens:auto}.card .fn p:last-child{margin-bottom:0}.card .o .fn{border-top-color:color-mix(in srgb,var(--line) 60%,var(--orig))}
+.card .fn{margin-top:.8rem}.card .fnb{font-size:.84em;line-height:1.45;color:var(--muted);margin:.2rem 0 .5rem}
+.gnotes p,.notes p{text-align:justify;text-align-last:left;hyphens:auto}
+.card p.sep{text-align:center;color:var(--muted);letter-spacing:.4em}
+.pg-in{color:var(--accent);font-size:.72em;letter-spacing:.04em;vertical-align:.1em}
+.card .note{font-size:.88em;color:var(--muted)}
+.notes{grid-column:1/-1;background:var(--note);border-top:1px dashed var(--line);margin:.4rem -1.3rem -1rem;padding:.7rem 1.3rem .9rem;border-radius:0 0 10px 10px;font-size:.92em}
+.notes h5{margin:0 0 .3rem;font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);font-weight:normal;text-align:left}
+.notes p{margin:0 0 .5em}.notes .who{color:var(--muted);font-size:.85em}
+.gnotes{background:var(--note);border:1px solid var(--line);border-radius:10px;padding:1rem 1.3rem;margin:0 0 1.2rem;font-size:.95em}.gnotes h3{margin:0 0 .4rem;font-weight:normal;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+sup{font-size:.7em;line-height:0}.toolbar{display:flex;gap:.3rem;align-items:center;margin:0 0 .4rem}.toolbar input{max-width:24rem;min-width:0}
+.qb{font:inherit;font-size:.85rem;width:1.9rem;height:2rem;flex:none;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--muted);cursor:pointer}.qb:hover{color:var(--ink);background:var(--orig)}
+.qn{margin:0 0 .4rem;font-size:.76rem;color:var(--muted);min-height:1em}.qres{max-height:40vh;overflow:auto;margin:0 0 1rem;scrollbar-width:thin}.qres:empty{display:none}
+.side .qres a{display:block;font-size:.78rem;line-height:1.35;color:var(--muted);padding:.3rem .4rem;margin:0;border-left:0;border-radius:6px}.side .qres a:hover{background:var(--orig);text-decoration:none}.side .qres a.on{background:var(--orig);color:var(--ink)}
+.qres b{color:var(--ink);font-weight:normal;background:rgba(214,188,96,.4);border-radius:2px}.qres .ql{display:block;font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}.qmore{font-size:.74rem;color:var(--muted);margin:.4rem}
+::highlight(fe-hit){background-color:rgba(214,188,96,.45)}::highlight(fe-cur){background-color:#e39b2d;color:#000}.card.qcur{outline:2px solid var(--accent)}
+/* annotations */
+mark.an{background:transparent;color:inherit;border-radius:2px}mark.an.hl.straw{background:rgba(214,188,96,.28)}mark.an.hl.sage{background:rgba(120,160,120,.26)}mark.an.hl.rose{background:rgba(200,120,120,.24)}
+mark.an.ul{text-decoration:underline;text-decoration-color:rgba(122,42,34,.55);text-decoration-thickness:1.5px;text-underline-offset:3px}
+mark.an.st{text-decoration:line-through;text-decoration-color:rgba(60,60,60,.55);text-decoration-thickness:1.5px}
+mark.an.cm{background:rgba(214,188,96,.18);box-shadow:0 1.5px 0 rgba(122,42,34,.45)}mark.an.on{background:rgba(214,188,96,.45)}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]) mark.an.hl.straw{background:rgba(214,188,96,.22)}:root:not([data-theme=light]) mark.an.hl.sage{background:rgba(120,160,120,.22)}:root:not([data-theme=light]) mark.an.hl.rose{background:rgba(200,120,120,.2)}}
+:root[data-theme=dark] mark.an.hl.straw{background:rgba(214,188,96,.22)}:root[data-theme=dark] mark.an.hl.sage{background:rgba(120,160,120,.22)}:root[data-theme=dark] mark.an.hl.rose{background:rgba(200,120,120,.2)}
+main{font-size:calc(1em*var(--fs,1))}
+.prefs{margin-left:auto;display:flex;gap:.5rem;align-items:center;align-self:center}.prefs+.an-ctl{margin-left:.4rem}
+.prefs .seg{padding:.1rem}.prefs .seg button{padding:.15rem .55rem;line-height:1.2}.prefs .seg .aa{font-size:.8rem;letter-spacing:.02em;min-width:2.6rem}
+.prefs .th{font:inherit;font-size:.95rem;line-height:1;width:2rem;height:1.75rem;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--muted);cursor:pointer}.prefs .th:hover{color:var(--ink)}
+.an-ctl{margin-left:auto;display:flex;gap:.9rem;align-items:center;font-size:.8rem;color:var(--muted)}.an-ctl label{display:flex;gap:.3rem;align-items:center;cursor:pointer}
+.an-btn{font:inherit;font-size:.78rem;padding:.2rem .6rem;border:1px solid var(--line);border-radius:999px;background:var(--card);color:var(--muted);cursor:pointer}.an-btn:hover{color:var(--ink)}
+.an-bar{position:absolute;z-index:20;display:flex;gap:2px;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:3px;box-shadow:0 4px 14px rgba(0,0,0,.12)}
+.an-bar button{font:inherit;font-size:.9rem;width:2rem;height:1.9rem;border:0;background:transparent;border-radius:5px;cursor:pointer;color:var(--ink)}.an-bar button:hover{background:var(--orig)}
+.an-bar .sw{display:inline-block;width:14px;height:14px;border-radius:3px}.an-bar .sw.straw{background:rgba(214,188,96,.6)}.an-bar .sw.sage{background:rgba(120,160,120,.6)}.an-bar .sw.rose{background:rgba(200,120,120,.6)}
+.an-gutter{position:relative;display:none}body.an-with-comments .page{grid-template-columns:var(--side-w,250px) 10px minmax(0,1fr) 10px var(--cm-w,300px)}body.an-with-comments .an-gutter{display:block}
+.an-cm{position:absolute;left:0;right:0;background:var(--note);border:1px solid var(--line);border-radius:8px;padding:.55rem .75rem;font-size:.84rem;line-height:1.4;box-shadow:var(--shadow);cursor:pointer}
+.an-cm .an-meta{color:var(--muted);font-size:.74rem;display:flex;gap:.3rem;align-items:baseline}.an-cm .an-meta b{color:var(--ink)}.an-x{margin-left:auto;border:0;background:transparent;color:var(--muted);cursor:pointer;font-size:1rem}
+.an-cm .an-q{color:var(--muted);font-style:italic;margin:.2rem 0;font-size:.78rem}.an-cm .an-t{color:var(--ink)}
+.an-dlg{position:fixed;inset:0;background:rgba(0,0,0,.35);z-index:30;display:flex;align-items:center;justify-content:center}.an-dlg.hidden{display:none}
+.an-box{background:var(--card);color:var(--ink);max-width:34rem;padding:1.4rem 1.6rem;border-radius:10px;font-size:.92rem;line-height:1.45}.an-box h3{margin:0 0 .6rem;font-weight:normal}
+.an-box label{display:block;margin:.6rem 0;font-size:.85rem;color:var(--muted)}.an-box input{display:block;width:100%;font:inherit;padding:.4rem .6rem;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink);margin-top:.2rem}
+.an-row{display:flex;gap:.6rem;margin-top:.8rem}
+@media(max-width:900px){.page{grid-template-columns:minmax(0,1fr)}.card.par>.cbg{display:none}.card.par .row{grid-template-columns:1fr}.card.pairs{background:var(--card);border:1px solid var(--line);box-shadow:var(--shadow);padding:1.1rem 0 1rem}.card.pairs::before,.card.pairs::after{display:none}.card.pairs .row .o{background:var(--orig);border-radius:7px;padding:.75rem .9rem;margin-inline:1.3rem}.card.pairs .row.single .e{grid-column:1}.card.pairs .hp{display:block}.card.pairs .hp .hsep{display:inline}body.an-with-comments .page{grid-template-columns:1fr}.hdl{display:none!important}.an-gutter{position:static}.an-cm{position:static;width:auto;margin:.4rem 0}.side{position:static;max-height:none}.card,.row{grid-template-columns:1fr}.card.doc{padding:1rem 1rem .9rem}.doc td:first-child{white-space:normal}.row{grid-template-columns:1fr}.row .m{text-align:left}}
+
+.pdfm{position:relative;display:inline-flex}.prefs .pdfb{width:auto;padding:0 .65rem;font-size:.68rem;letter-spacing:.1em}
+.pdfmenu{position:absolute;right:0;top:calc(100% + .45rem);z-index:20;width:17rem;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:0 6px 20px rgba(0,0,0,.14);padding:.35rem;font-size:.86rem;line-height:1.35}
+.pdfmenu button{display:block;width:100%;text-align:left;font:inherit;border:0;background:transparent;color:var(--ink);padding:.4rem .6rem;border-radius:6px;cursor:pointer}
+.pdfmenu button:hover,.pdfmenu button:focus-visible{background:var(--orig);outline:0}.pdfmenu small{display:block;color:var(--muted);font-size:.78rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pdfmenu .pdfh{display:block;margin:.3rem .6rem .1rem;color:var(--muted);font-size:.8rem}body.pp-pick .side a[class^=l]{color:var(--ink);cursor:pointer}body.pp-pick .side a[class^=l]:hover{border-left-color:var(--accent);background:var(--orig)}
+.pdfmenu .pdfn{display:block;margin:.35rem .6rem .3rem;padding-top:.45rem;border-top:1px solid var(--line);color:var(--muted);font-size:.74rem}
+.pdfmenu .pdfs{display:flex;align-items:center;gap:.3rem;margin:.3rem .6rem 0;padding-top:.45rem;border-top:1px solid var(--line);font-size:.78rem;color:var(--muted)}.pdfmenu .pdfs .pdfl{flex:1}
+.pdfmenu .pdfs button{display:inline-block;width:auto;padding:.1rem .5rem;border:1px solid var(--line);border-radius:999px;font-size:.78rem;line-height:1.3}.pdfmenu .pdfs .pdfv{min-width:3.2rem;text-align:center}
+.ptitle{display:none}
+@media print{
+html{background:#fff!important;color-scheme:light}
+body.pp{margin:0;padding:0 .72in;background:#fff;color:#111;font:10.6pt/1.42 "EB Garamond","Hoefler Text",Garamond,"Iowan Old Style",Palatino,Georgia,serif;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+body.pp{font-size:calc(10.6pt * var(--pfs,1))}body.pp-mono{padding:0 1.15in;font-size:calc(12pt * var(--pfs,1))}
+body.pp>:not(.wrap),.pp .cbg,.pp .top,.pp .side,.pp .hdl,.pp .an-gutter,.pp main>:not(section.card),.pp .notes,.pp .pp-out{display:none!important}
+.pp .wrap{padding:0;margin:0;max-width:none}.pp .page{display:block!important}.pp main{font-size:1em!important;padding:0!important}
+.pp a{color:inherit!important;text-decoration:none!important}.pp sup{font-size:.68em;line-height:0}
+.pp mark.an{background:none!important;text-decoration:none!important;box-shadow:none!important}
+::highlight(fe-hit),::highlight(fe-cur){background-color:transparent;color:inherit}
+.pp .card{display:block;position:relative;background:none!important;border:0;border-radius:0;box-shadow:none;padding:0;margin:0;max-width:none;outline:0!important}
+.pp .row,.pp-bi .card.mono{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:.42in;margin:0 0 .55em;padding:0;border:0}
+.pp .card.par .row{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+.pp .row .o,.pp .row .e,.pp .row .x,.pp .card .o,.pp .card .e{position:relative;background:none!important;border-radius:0;padding:0!important;margin:0!important;font-size:1em;max-width:none;min-width:0}
+.pp .row.single .e,.pp-bi .card.mono>.e{grid-column:2}.pp-bi .card.mono>.pg{grid-column:1/-1}.pp-bi .card.mono{margin:0}
+.pp .card .o p,.pp .card .e p,.pp .card .x p{margin:0;line-height:1.42;text-align:justify;text-align-last:left;hyphens:auto;-webkit-hyphens:auto;text-indent:1.2em;orphans:2;widows:2;overflow-wrap:break-word}
+.pp .card .o p+p,.pp .card .e p+p,.pp .card .x p+p{margin-top:.55em}.pp .card p.cont{text-indent:0}
+.pp .card h2,.pp .card h3,.pp .card h4,.pp .card h5{grid-column:1/-1;margin:1.1em 0 .6em!important;text-align:center;font-weight:normal;line-height:1.3;text-indent:0;break-after:avoid;page-break-after:avoid;break-inside:avoid}
+.pp .card h2{font-size:1.22em;letter-spacing:.04em}.pp .card h3{font-size:1.08em;letter-spacing:.02em}.pp .card h4{font-size:1em;font-style:italic}.pp .card h5{font-size:.95em;font-style:italic}
+.pp .card p.sep{text-align:center;text-indent:0;letter-spacing:.4em;color:#555;margin:.6em 0}
+.pp .fnrows{margin:.4em 0 .8em;padding:.3em 0 0;border:0;border-top:.4pt solid #bbb;break-inside:avoid}.pp .fnrow{margin:0 0 .25em}.pp .card .fn{margin:.4em 0 .8em;padding:.3em 0 0;border:0;border-top:.4pt solid #bbb;color:#222;font-size:1em}
+.pp .fnrow .o p,.pp .fnrow .e p,.pp .fnrow .x p,.pp .card .fn p{font-size:.83em;line-height:1.33;text-indent:0;padding-left:1.2em;color:#222}
+.pp .cl{max-width:none;margin:.3em 0 .8em}.pp .cl li{break-inside:avoid}.pp .cl .it,.pp .cl .n,.pp .cl a.it .n{color:#111}.pp .cl .sum{color:#444}.pp .cl .dots{border-bottom-color:#888}
+.pp .card>.pg{position:relative;top:0;left:auto;display:flex;justify-content:space-between;height:0;margin:0 -.66in;padding:0;border:0;background:none;font-size:0!important;letter-spacing:0;break-after:avoid;page-break-after:avoid}
+.pp .card>.pg::before,.pp .card>.pg::after{content:attr(data-m);width:.5in;font-size:7.8pt;line-height:1;letter-spacing:0;color:#a33;white-space:nowrap;margin-top:4pt}
+.pp .card>.pg::before{text-align:right}.pp .card>.pg::after{text-align:left}.pp-mono .card>.pg::after{content:none}
+.pp .pg-in{font-size:0!important;letter-spacing:0;vertical-align:baseline;margin-right:-2.6pt}
+.pp .pg-in::before{content:"";display:inline-block;width:0;height:9pt;border-left:.6pt solid #a33;vertical-align:-1.8pt;margin:0 1.4pt}
+.pp .pg-in::after{content:attr(data-m);position:absolute;left:-.66in;width:.5in;text-align:right;text-align-last:right;font-size:7.8pt;line-height:1;font-style:normal;font-weight:normal;letter-spacing:0;text-indent:0;color:#a33;white-space:nowrap;margin-top:3.5pt}
+.pp-bi :is(.e,.x) .pg-in::after{left:auto;right:-.66in;text-align:left;text-align-last:left}
+.pp .card>.pg:is([data-m^="scan "],[data-m^="PDF "])::before,.pp .card>.pg:is([data-m^="scan "],[data-m^="PDF "])::after,.pp .pg-in:is([data-m^="scan "],[data-m^="PDF "])::after{color:#d3abab}.pp .pg-in:is([data-m^="scan "],[data-m^="PDF "])::before{border-left-color:#d3abab}.pp .card>.pg.pp-dup{visibility:hidden}.pp .pg-in.pp-lead::before{content:none}
+.pp .ptitle{display:flex;page:pptitle;flex-direction:column;justify-content:center;text-align:center;height:6.9in;break-after:page;color:#111}
+.pp-mono .ptitle{height:8.6in}.pp .ptitle p{margin:0}
+.ptitle .pa{font-size:13pt;letter-spacing:.06em;margin:0 0 1.1em!important}.ptitle h1{font-weight:normal;font-size:24pt;line-height:1.2;letter-spacing:.02em;margin:0 0 .3em}
+.ptitle .py{font-size:12pt}.ptitle .pe{font-size:15pt;font-style:italic;margin-top:.5em!important}.ptitle .ps{display:none}
+.ptitle .pv .tr{display:inline;margin:0}.ptitle .pv{font-size:9.5pt;line-height:1.45;color:#444;max-width:6.2in;margin:2.4em auto 0!important}.ptitle .pv span{display:block;margin-top:.5em}
+.pp .ptitle.compact{display:block;page:auto;height:auto;break-after:avoid;text-align:left;margin:0 0 1.4em;padding-bottom:.6em;border-bottom:.5pt solid #bbb}
+.ptitle.compact .pa,.ptitle.compact .py,.ptitle.compact .pe{display:inline;font-size:10pt;letter-spacing:0;margin:0!important}.ptitle.compact .pa::after{content:", "}
+.ptitle.compact h1{display:inline;font-size:10pt;font-style:italic;letter-spacing:0}.ptitle.compact .py::before{content:" "}.ptitle.compact .pe::before{content:" — "}
+.ptitle.compact .ps{display:block;font-size:12pt;margin-top:.5em!important}.ptitle.compact .pv{font-size:8pt;max-width:none;margin:.5em 0 0!important}.ptitle.compact .pv span{display:inline;margin:0}.ptitle.compact .pv span::before{content:" "}
+}
+@media print{@page{size:8.5in 11in;margin:1.05in .3in 1.2in;@top-center{content:"Immanuel Kant · Über ein vermeintes Recht aus Menschenliebe zu lügen";font:italic 8.5pt "EB Garamond","Hoefler Text",Garamond,"Iowan Old Style",Palatino,Georgia,serif;color:#777}@bottom-center{content:counter(page);font:9pt "EB Garamond","Hoefler Text",Garamond,"Iowan Old Style",Palatino,Georgia,serif;color:#555}}@page pptitle{@top-center{content:none}@bottom-center{content:none}}}</style><script>try{var d=document.documentElement,t=localStorage.getItem('iwg-theme'),f=localStorage.getItem('iwg-fs');if(t)d.dataset.theme=t;if(f)d.style.setProperty('--fs',f)}catch(e){}</script></head><body class="pp pp-mono"><div class="top"><div class="in"><a class="back" href="index.html">← Library</a><h1>Immanuel Kant, <i>Über ein vermeintes Recht aus Menschenliebe zu lügen</i> (1797)</h1><span class="chip">de</span><span class="chip">original only</span><span class="chip">Kant and post-Kantian philosophy</span><div class="prefs"><span class="pdfm"><button id="pdf" class="th pdfb" title="print this text as a PDF" aria-haspopup="menu" aria-expanded="false">PDF</button><span id="pdfmenu" class="pdfmenu hidden" role="menu"><button data-k="all" role="menuitem">Whole text</button><button data-k="page" role="menuitem">This page<small></small></button><span class="pdfh">Or click a heading in the contents on the left to print that section.</span><span class="pdfs" role="group" aria-label="text size of the print"><span class="pdfl">Text size</span><button data-s="-" title="smaller print" aria-label="smaller print">−</button><button data-s="0" class="pdfv" title="reset the print size" aria-label="reset the print size">100%</button><button data-s="+" title="larger print" aria-label="larger print">+</button></span><span class="pdfn">The text size applies to the print only and is remembered in this browser. In the print dialog choose “Save as PDF”. Made for Chrome and Edge. In Safari or Firefox, pick the orientation by hand (landscape for two columns); the running head and page numbers may be missing.</span></span></span><span class="seg" role="group" aria-label="text size"><button id="fs-" title="smaller text (-)" aria-label="smaller text">−</button><button id="fs0" class="aa" title="reset text size (0)" aria-label="reset text size">100%</button><button id="fs+" title="larger text (+)" aria-label="larger text">+</button></span><button id="theme" class="th" title="dark mode (d)" aria-label="switch between light and dark">☾</button></div></div></div><div class="wrap"><header class="ptitle"><p class="pa">Immanuel Kant</p><h1>Über ein vermeintes Recht aus Menschenliebe zu lügen</h1><p class="py">(1797)</p><p class="ps"></p><p class="pv">Original text: transcription of the Akademie-Ausgabe (Kants gesammelte Schriften, vol. 8) by the Bonner Kant-Korpus (korpora.org, Universität Duisburg-Essen); printed paragraphs, page breaks as [AA 8:p]. Numbers in the outer margins give the pages of the source (scan or PDF pages where it has no printed number); a thin red bar marks where a page begins inside a paragraph.<span class="pu"></span></p></header><div class="page"><aside class="side"><p class="meta">transcription of the Akademie-Ausgabe (Kants gesammelte Schriften, vol. 8) by the Bonner Kant-Korpus (korpora.org, Universität Duisburg-Essen); printed paragraphs, page breaks as [AA 8:p].</p><div class="toolbar"><input id="q" type="search" placeholder="search the whole text (/)" aria-label="search the whole text"><button id="qprev" class="qb" title="previous match (shift+enter)" aria-label="previous match">↑</button><button id="qnext" class="qb" title="next match (enter)" aria-label="next match">↓</button></div><p id="qn" class="qn" aria-live="polite"></p><div id="qres" class="qres"></div>
+</aside><div class="hdl l" data-for="side"></div><main>
+<button class="tog" id="tog" title="hide the contents (press c)" aria-label="hide or show the contents"><span>‹</span><small>contents</small></button>
+<section class="card mono" id="c2"><span class="pg">AA 8:425</span><div class="e" lang="de"><p>In der Schrift: Frankreich im Jahr 1797, sechstes Stück, Nr. I: von den politischen Gegenwirkungen, von Benjamin Constant, ist Folgendes S. 123 enthalten.</p><p>"Der sittliche Grundsatz: es sei eine Pflicht die Wahrheit zu sagen, würde, wenn man ihn unbedingt und vereinzelt nähme, jede Gesellschaft zur Unmöglichkeit machen. Den Beweis davon haben wir in den sehr unmittelbaren Folgerungen, die ein deutscher Philosoph aus diesem Grundsatze gezogen hat, der so weit geht zu behaupten: daß die Lüge gegen einen Mörder, der uns fragte, ob unser von ihm verfolgter Freund sich nicht in unser Haus geflüchtet, ein Verbrechen sein würde"<sup class="fnc">*</sup>.</p><p>Der französische Philosoph widerlegt S. 124 diesen Grundsatz auf folgende Art: "Es ist eine Pflicht die Wahrheit zu sagen. Der Begriff von Pflicht ist unzertrennbar von dem Begriff des Rechts. Eine Pflicht ist, was bei einem Wesen den Rechten eines anderen entspricht. Da, wo es keine Rechte giebt, giebt es keine Pflichten. Die Wahrheit zu sagen, ist also eine Pflicht; aber nur gegen denjenigen, welcher ein Recht auf die Wahrheit hat. Kein Mensch aber hat Recht auf eine Wahrheit, die anderen schadet."</p><p>Das <em>πρωτον ψεyδοσ</em> liegt hier in dem Satze: "Die Wahrheit zu sagen ist eine Pflicht, aber nur gegen denjenigen, welcher ein Recht auf die Wahrheit hat."</p><div class="fn"><p data-at="1">*) "I. D. Michaelis in Göttingen hat diese seltsame Meinung noch früher vorgetragen als Kant. Daß Kant der Philosoph sei, von dem diese Stelle redet, hat mir der Verfasser dieser Schrift selbst gesagt." K. Fr. Cramer +).</p></div></div></section>
+<section class="card mono" id="c3"><span class="pg">AA 8:426</span><div class="e" lang="de"><p>Zuerst ist anzumerken, daß der Ausdruck: ein Recht auf die Wahrheit haben, ein Wort ohne Sinn ist. Man muß vielmehr sagen: der Mensch habe ein Recht auf seine eigene Wahrhaftigkeit ( <em>veracitas</em> ), d. i. auf die subjective Wahrheit in seiner Person. Denn objectiv auf eine Wahrheit ein Recht haben, würde so viel sagen als: es komme wie überhaupt beim Mein und Dein auf seinen Willen an, ob ein gegebener Satz wahr oder falsch sein solle; welches dann eine seltsame Logik abgeben würde.</p><p>Nun ist die erste Frage: ob der Mensch in Fällen, wo er einer Beantwortung mit ja oder nein nicht ausweichen kann, die Befugniß (das Recht) habe unwahrhaft zu sein. Die zweite Frage ist: ob er nicht gar verbunden sei in einer gewissen Aussage, wozu ihn ein ungerechter Zwang nöthigt, unwahrhaft zu sein, um eine ihn bedrohende Missethat an sich oder einem anderen zu verhüten.</p><p>Wahrhaftigkeit in Aussagen, die man nicht umgehen kann, ist formale Pflicht des Menschen gegen jeden<sup class="fnc">*</sup>, es mag ihm oder einem andern daraus auch noch so großer Nachtheil erwachsen; und ob ich zwar dem, welcher mich ungerechterweise zur Aussage nöthigt, nicht Unrecht thue, wenn ich sie verfälsche, so thue ich doch durch eine solche Verfälschung, die darum auch (obzwar nicht im Sinn des Juristen) Lüge genannt werden kann, im wesentlichsten Stücke der Pflicht überhaupt Unrecht: d. i. ich mache, so viel an mir ist, daß Aussagen (Declarationen) überhaupt keinen Glauben finden, mithin auch alle Rechte, die auf Verträgen gegründet werden, wegfallen und ihre Kraft einbüßen; welches ein Unrecht ist, das der Menschheit überhaupt zugefügt wird.</p><p>Die Lüge also, bloß als vorsetzlich unwahre Declaration gegen einen andern Menschen definirt, bedarf nicht des Zusatzes, daß sie einem anderen schaden müsse; wie die Juristen es zu ihrer Definition verlangen ( <em>mendacium</em> <em>est falsiloquium in praeiudicium alterius</em> ). Denn sie schadet jederzeit einem anderen, wenn gleich nicht einem andern Menschen, doch der Menschheit überhaupt, indem sie die Rechtsquelle unbrauchbar macht. Diese gutmüthige Lüge kann aber auch durch einen Zufall ( <em>casus</em> ) strafbar werden nach bürgerlichen Gesetzen; was aber bloß durch den</p><div class="fn"><p data-at="2">*) Ich mag hier nicht den Grundsatz bis dahin schärfen, zu sagen: "Unwahrhaftigkeit ist Verletzung der Pflicht gegen sich selbst." Denn dieser gehört zur Ethik; hier aber ist von einer Rechtspflicht die Rede. - Die Tugendlehre sieht in jener Übertretung nur auf die Nichtswürdigkeit, deren Vorwurf der Lügner sich selbst zuzieht.</p></div></div></section>
+<section class="card mono" id="c4"><span class="pg">AA 8:427</span><div class="e" lang="de"><p class="cont">Zufall der Straffälligkeit entgeht, kann auch nach äußeren Gesetzen als Unrecht abgeurtheilt werden. Hast du nämlich einen eben jetzt mit Mordsucht umgehenden durch eine Lüge an der That verhindert, so bist du für alle Folgen, die daraus entspringen möchten, auf rechtliche Art verantwortlich. Bist du aber Strenge bei der Wahrheit geblieben, so kann dir die öffentliche Gerechtigkeit nichts anhaben; die unvorhergesehene Folge mag sein, welche sie wolle. Es ist doch möglich, daß, nachdem du dem Mörder auf die Frage, ob der von ihm Angefeindete zu Hause sei, ehrlicherweise mit ja geantwortet hast, dieser doch unbemerkt ausgegangen ist und so dem Mörder nicht in den Wurf gekommen, die That also nicht geschehen wäre; hast du aber gelogen und gesagt, er sei nicht zu Hause, und er ist auch wirklich (obzwar dir unbewußt) ausgegangen, wo denn der Mörder ihm im Weggehen begegnete und seine That an ihm verübte: so kannst du mit Recht als Urheber des Todes desselben angeklagt werden. Denn hättest du die Wahrheit, so gut du sie wußtest, gesagt: so wäre vielleicht der Mörder über dem Nachsuchen seines Feindes im Hause von herbeigelaufenen Nachbarn ergriffen und die That verhindert worden. Wer also lügt, so gutmüthig er dabei auch gesinnt sein mag, muß die Folgen davon, selbst vor dem bürgerlichen Gerichtshofe, verantworten und dafür büßen, so unvorhergesehen sie auch immer sein mögen: weil Wahrhaftigkeit eine Pflicht ist, die als die Basis aller auf Vertrag zu gründenden Pflichten angesehen werden muß, deren Gesetz, wenn man ihr auch nur die geringste Ausnahme einräumt, schwankend und unnütz gemacht wird.</p><p>Es ist also ein heiliges, unbedingt gebietendes, durch keine Convenienzen einzuschränkendes Vernunftgebot: in allen Erklärungen wahrhaft (ehrlich) zu sein.</p><p>Wohldenkend und zugleich richtig ist hiebei Hrn. Constants Anmerkung über die Verschreiung solcher strenger und sich vorgeblich in unausführbare Ideen verlierender, hiemit aber verwerflicher Grundsätze. "Jedesmal (sagt er S. 123 unten) wenn ein als wahr bewiesener Grundsatz unanwendbar scheint, so kommt es daher, daß wir den mittlern Grundsatz nicht kennen, der das Mittel der Anwendung enthält." Er führt (S. 121) die Lehre von der Gleichheit als den ersten die gesellschaftliche Kette bildenden Ring an: "Daß (S. 122) nämlich kein Mensch anders als durch solche Gesetze gebunden werden kann, zu deren Bildung er mit beigetragen hat. In einer sehr ins Enge zusammengezogenen Gesellschaft kann dieser Grundsatz auf unmittelbare Weise angewendet werden und</p></div></section>
+<section class="card mono" id="c5"><span class="pg">AA 8:428</span><div class="e" lang="de"><p class="cont">bedarf, um ein gewöhnlicher zu werden, keines mittleren Grundsatzes. Aber in einer sehr zahlreichen Gesellschaft muß man einen neuen Grundsatz zu demjenigen noch hinzufügen, den wir hier anführen. Dieser mittlere Grundsatz ist: daß die Einzelnen zur Bildung der Gesetze entweder in eigener Person oder durch Stellvertreter beitragen können. Wer den ersten Grundsatz auf eine zahlreiche Gesellschaft anwenden wollte, ohne den mittleren dazu zu nehmen, würde unfehlbar ihr Verderben zuwege bringen. Allein dieser Umstand, der nur von der Unwissenheit oder Ungeschicklichkeit des Gesetzgebers zeugte, würde nichts gegen den Grundsatz beweisen." - Er beschließt S. 125 hiemit: "Ein als wahr anerkannter Grundsatz muß also niemals verlassen werden: wie anscheinend auch Gefahr dabei sich befindet." [ Und doch hatte der gute Mann den unbedingten Grundsatz der Wahrhaftigkeit wegen der Gefahr, die er für die Gesellschaft bei sich führe, selbst verlassen: weil er keinen mittleren Grundsatz entdecken konnte, der diese Gefahr zu verhüten diente, und hier auch wirklich keiner einzuschieben ist.</p><p>Wenn man die Namen der Personen, sowie sie hier aufgeführt werden, beibehalten will: so verwechselte "der französische Philosoph" die Handlung, wodurch jemand einem anderen schadet ( <em>nocet</em> ), indem er die Wahrheit, deren Geständniß er nicht umgehen kann, sagt, mit derjenigen, wodurch er diesem Unrecht thut ( <em>laedit</em> ). Es war bloß ein Zufall ( <em>casus</em> ), daß die Wahrhaftigkeit der Aussage dem Einwohner des Hauses schadete, nicht eine freie That (in juridischer Bedeutung). Denn aus seinem Rechte, von einem anderen zu fordern, daß er ihm zum Vortheil lügen solle, würde ein aller Gesetzmäßigkeit widerstreitender Anspruch folgen. Jeder Mensch aber hat nicht allein ein Recht, sondern sogar die strengste Pflicht zur Wahrhaftigkeit in Aussagen, die er nicht umgehen kann: sie mag nun ihm selbst oder andern schaden. Er selbst thut also hiemit dem, der dadurch leidet, eigentlich nicht schaden, sondern diesen verursacht der Zufall. Denn jener ist hierin gar nicht frei, um zu wählen: weil die Wahrhaftigkeit (wenn er einmal sprechen muß) unbedingte Pflicht ist. - Der "deutsche Philosoph" wird also den Satz (S. 124): "Die Wahrheit zu sagen ist eine Pflicht, aber nur gegen denjenigen, welcher ein Recht auf die Wahrheit hat," nicht zu seinem Grundsatze annehmen: erstlich wegen der undeutlichen Formel desselben, indem Wahrheit kein Besitzthum ist, auf welchen dem einen das Recht verwilligt, anderen aber verweigert werden könne; dann aber vornehmlich, weil die</p></div></section>
+<section class="card mono" id="c6"><span class="pg">AA 8:429</span><div class="e" lang="de"><p class="cont">Pflicht der Wahrhaftigkeit (als von welcher hier allein die Rede ist) keinen Unterschied zwischen Personen macht, gegen die man diese Pflicht haben, oder gegen die man sich auch von ihr lossagen könne, sondern weil es unbedingte Pflicht ist, die in allen Verhältnissen gilt.</p><p>Um nun von einer Metaphysik des Rechts (welche von allen Erfahrungsbedingungen abstrahirt) zu einem Grundsatze der Politik (welcher diese Begriffe auf Erfahrungsfälle anwendet) und vermittelst dieses zur Auflösung einer Aufgabe der letzteren dem allgemeinen Rechtsprincip gemäß zu gelangen: wird der Philosoph 1) ein Axiom, d. i. einen apodiktisch gewissen Satz, der unmittelbar aus der Definition des äußern Rechts (Zusammenstimmung der Freiheit eines jeden mit der Freiheit von Jedermann nach einem allgemeinen Gesetze) hervorgeht, 2) ein Postulat des äußeren öffentlichen Gesetzes, als vereinigten Willens Aller nach dem Princip der Gleichheit, ohne welche keine Freiheit von Jedermann Statt haben würde, 3) ein Problem geben, wie es anzustellen sei, daß in einer noch so großen Gesellschaft dennoch Eintracht nach Principien der Freiheit und Gleichheit erhalten werde (nämlich vermittelst eines repräsentativen Systems); welches dann ein Grundsatz der Politik sein wird, deren Veranstaltung und Anordnung nun Decrete enthalten wird, die, aus der Erfahrungserkenntniß der Menschen gezogen, nur den Mechanism der Rechtsverwaltung, und wie dieser zweckmäßig einzurichten sei, beabsichtigen. - - Das Recht muß nie der Politik, wohl aber die Politik jederzeit dem Recht angepaßt werden.</p><p>"Ein als wahr anerkannter (ich setze hinzu: a priori anerkannter, mithin apodiktischer) Grundsatz muß niemals verlassen werden, wie anscheinend auch Gefahr sich dabei befindet," sagt der Verfasser. Nur muß man hier nicht die Gefahr (zufälligerweise) zu schaden, sondern überhaupt Unrecht zu thun verstehen: welches geschehen würde, wenn ich die Pflicht der Wahrhaftigkeit, die gänzlich unbedingt ist und in Aussagen die oberste rechtliche Bedingung ausmacht, zu einer bedingten und noch andern Rücksichten untergeordneten mache und, obgleich ich durch eine gewisse Lüge in der That niemanden Unrecht thue, doch das Princip des Rechts in Ansehung aller unumgänglich nothwendigen Aussagen überhaupt verletze (formaliter, obgleich nicht materialiter, Unrecht thue): welches viel schlimmer ist als gegen irgend jemanden eine Ungerechtigkeit begehn, weil eine solche That nicht eben immer einen Grundsatz dazu im Subjecte voraussetzt.</p></div></section>
+<section class="card mono" id="c7"><span class="pg">AA 8:430</span><div class="e" lang="de"><p>Der, welcher die Anfrage, die ein anderer an ihn ergehen läßt: ob er in seiner Aussage, die er jetzt thun soll, wahrhaft sein wolle oder nicht, nicht schon mit Unwillen über den gegen ihn hiemit geäußerten Verdacht, er möge auch wohl ein Lügner sein, aufnimmt, sondern sich die Erlaubniß ausbittet sich erst auf mögliche Ausnahmen zu besinnen, ist schon ein Lügner ( <em>in potentia</em> ): weil er zeigt, daß er die Wahrhaftigkeit nicht für Pflicht an sich selbst anerkenne, sondern sich Ausnahmen vorbehält von einer Regel, die ihrem Wesen nach keiner Ausnahme fähig ist, weil sie sich in dieser geradezu selbst widerspricht.</p><p>Alle rechtlich=praktische Grundsätze müssen strenge Wahrheit enthalten, und die hier sogenannten mittleren können nur die nähere Bestimmung ihrer Anwendung auf vorkommende Fälle (nach Regeln der Politik), aber niemals Ausnahmen von jenen enthalten: weil diese die Allgemeinheit vernichten, derentwegen allein sie den Namen der Grundsätze führen.</p></div></section>
+</main><div class="hdl r" data-for="cm"></div><aside class="an-gutter"></aside></div></div><script>
+{(function(){const pg=document.querySelector('.page');if(!pg)return;const st=k=>{try{return localStorage.getItem(k)}catch(e){return null}};const sv=(k,v)=>{try{localStorage.setItem(k,v)}catch(e){}};
+ const tog=document.getElementById('tog');const setSide=on=>{document.body.classList.toggle('noside',!on);sv('fe-side',on?'on':'off');if(tog)tog.title=(on?'hide':'show')+' the contents (press c)';window.dispatchEvent(new Event('resize'))};
+ setSide(st('fe-side')!=='off');if(tog)tog.onclick=()=>setSide(document.body.classList.contains('noside'));
+ document.addEventListener('keydown',e=>{if(e.key==='c'&&!e.metaKey&&!e.ctrlKey&&!e.altKey&&!/input|textarea/i.test(e.target.tagName))setSide(document.body.classList.contains('noside'))});
+ const w0=st('fe-side-w'),w1=st('fe-cm-w');if(w0)pg.style.setProperty('--side-w',w0+'px');if(w1)pg.style.setProperty('--cm-w',w1+'px');
+ document.querySelectorAll('.hdl').forEach(h=>{h.addEventListener('mousedown',e=>{e.preventDefault();const side=h.dataset.for==='side';const x0=e.clientX;const cur=parseFloat(getComputedStyle(pg).getPropertyValue(side?'--side-w':'--cm-w'))||(side?250:300);
+  h.classList.add('on');document.body.classList.add('resizing');
+  const mv=ev=>{const d=ev.clientX-x0;const w=Math.max(120,Math.min(700,side?cur+d:cur-d));pg.style.setProperty(side?'--side-w':'--cm-w',w+'px')};
+  const up=()=>{document.removeEventListener('mousemove',mv);document.removeEventListener('mouseup',up);h.classList.remove('on');document.body.classList.remove('resizing');sv(side?'fe-side-w':'fe-cm-w',parseFloat(getComputedStyle(pg).getPropertyValue(side?'--side-w':'--cm-w')));window.dispatchEvent(new Event('resize'))};
+  document.addEventListener('mousemove',mv);document.addEventListener('mouseup',up)})})})();
+const links=[...document.querySelectorAll('.side a[href^="#"]')];const map=new Map(links.map(a=>[a.getAttribute('href').slice(1),a]));
+if(links.length&&'IntersectionObserver' in window){let cur=null;const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){const a=map.get(e.target.id);if(a){if(cur)cur.classList.remove('on');a.classList.add('on');cur=a;const sd=a.closest('.side'),t=a.offsetTop-sd.offsetTop;if(t<sd.scrollTop||t+a.offsetHeight>sd.scrollTop+sd.clientHeight)sd.scrollTop=t-sd.clientHeight/3}}})},{rootMargin:'-10% 0px -80% 0px'});map.forEach((a,id)=>{const el=document.getElementById(id);if(el)io.observe(el)})}
+const q=document.getElementById('q');if(q){const main=document.querySelector('main'),info=document.getElementById('qn'),res=document.getElementById('qres');
+ const HL=window.CSS&&CSS.highlights&&window.Highlight,MAXHL=3000,MAXLIST=200;let hits=[],at=-1,tm=0;
+ const esc=x=>x.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+ const index=()=>[...main.querySelectorAll('.card')].map(c=>{const w=document.createTreeWalker(c,NodeFilter.SHOW_TEXT,{acceptNode:n=>n.parentElement.closest('.pg')?NodeFilter.FILTER_REJECT:NodeFilter.FILTER_ACCEPT});let s='',map=[],n;while((n=w.nextNode())){map.push([s.length,n]);s+=n.data}
+  const l=s.toLowerCase(),pg=c.querySelector('.pg'),h=c.querySelector('h2,h3,h4');return{c,s,l:l.length===s.length?l:s,map,lab:pg?pg.textContent:(h?h.textContent:'')}});
+ const pos=(map,k,end)=>{let lo=0,hi=map.length-1;while(lo<hi){const m=(lo+hi+1)>>1;if(end?map[m][0]<k:map[m][0]<=k)lo=m;else hi=m-1}return[map[lo][1],k-map[lo][0]]};
+ const range=h=>{const r=document.createRange(),a=pos(h.d.map,h.i,0),b=pos(h.d.map,h.i+h.n,1);r.setStart(a[0],a[1]);r.setEnd(b[0],b[1]);return r};
+ const clear=()=>{hits=[];at=-1;if(HL){CSS.highlights.delete('fe-hit');CSS.highlights.delete('fe-cur')}info.textContent='';res.innerHTML='';main.querySelectorAll('.qcur').forEach(c=>c.classList.remove('qcur'))};
+ function run(cid){clear();const t=q.value.trim().toLowerCase();if(t.length<2)return;const pages=new Set();
+  index().forEach(d=>{let i=d.l.indexOf(t);while(i>-1){hits.push({d,i,n:t.length});pages.add(d.c);i=d.l.indexOf(t,i+t.length)}});
+  if(!hits.length){info.textContent='no matches in this text';return}
+  if(HL&&hits.length<=MAXHL)CSS.highlights.set('fe-hit',new Highlight(...hits.map(range)));
+  res.innerHTML=hits.slice(0,MAXLIST).map((h,k)=>{const s=h.d.s,a=Math.max(0,h.i-45),b=Math.min(s.length,h.i+h.n+45);
+   return '<a href="#" data-k="'+k+'"><span class="ql">'+esc(h.d.lab)+'</span>'+(a?'…':'')+esc(s.slice(a,h.i))+'<b>'+esc(s.slice(h.i,h.i+h.n))+'</b>'+esc(s.slice(h.i+h.n,b))+(b<s.length?'…':'')+'</a>'}).join('')
+   +(hits.length>MAXLIST?'<p class="qmore">'+(hits.length-MAXLIST)+' more — use ↓ / Enter to step through them</p>':'');
+  const k0=cid?hits.findIndex(h=>h.d.c.id===cid):0;go(Math.max(0,k0),pages.size)}
+ function go(k,np){if(!hits.length)return;at=(k+hits.length)%hits.length;const h=hits[at],r=range(h);
+  if(HL)CSS.highlights.set('fe-cur',new Highlight(r));main.querySelectorAll('.qcur').forEach(c=>c.classList.remove('qcur'));if(!HL)h.d.c.classList.add('qcur');
+  info.dataset.pages=np||info.dataset.pages;info.textContent=(at+1)+' of '+hits.length+' matches · '+info.dataset.pages+' page'+(info.dataset.pages==1?'':'s');
+  res.querySelectorAll('a.on').forEach(a=>a.classList.remove('on'));const a=res.querySelector('a[data-k="'+at+'"]');if(a){a.classList.add('on');res.scrollTop=a.offsetTop-res.offsetTop-res.clientHeight/2}
+  const y=r.getBoundingClientRect().top+window.scrollY-window.innerHeight/3;window.scrollTo({top:Math.max(0,y),behavior:'instant'})}  // smooth scrolling gets cut off on long texts
+ q.addEventListener('input',()=>{clearTimeout(tm);tm=setTimeout(run,250)});
+ q.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();clearTimeout(tm);if(!hits.length||at<0)run();else go(at+(e.shiftKey?-1:1))}else if(e.key==='Escape'){q.value='';clear()}});
+ document.getElementById('qprev').onclick=()=>go(at-1);document.getElementById('qnext').onclick=()=>go(at+1);
+ const q0=new URLSearchParams(location.search).get('q');if(q0){q.value=q0;setTimeout(()=>run(decodeURIComponent(location.hash.slice(1))),80)}   // opened at a term (?q=…) from the library's search or the map; with #card, at its hit there
+ res.addEventListener('click',e=>{const a=e.target.closest('a[data-k]');if(a){e.preventDefault();go(+a.dataset.k)}});
+ document.addEventListener('keydown',e=>{if(e.key==='/'&&!e.metaKey&&!e.ctrlKey&&!e.altKey&&!/input|textarea/i.test(e.target.tagName)&&!e.target.isContentEditable){e.preventDefault();const tg=document.getElementById('tog');if(document.body.classList.contains('noside')&&tg)tg.click();q.focus();q.select()}})}}
+
+(function(){const d=document.documentElement,sv=(k,v)=>{try{v==null?localStorage.removeItem(k):localStorage.setItem(k,v)}catch(e){}};
+ const mq=matchMedia('(prefers-color-scheme: dark)'),dark=()=>d.dataset.theme?d.dataset.theme==='dark':mq.matches,th=document.getElementById('theme');
+ const showT=()=>{if(!th)return;const k=dark();th.textContent=k?'☀':'☾';th.title=(k?'light':'dark')+' mode (d)'};
+ const flip=()=>{const t=dark()?'light':'dark',sys=t===(mq.matches?'dark':'light');if(sys)delete d.dataset.theme;else d.dataset.theme=t;sv('iwg-theme',sys?null:t);showT()};
+ if(th)th.onclick=flip;mq.addEventListener('change',showT);showT();
+ const aa=document.getElementById('fs0');let fs=parseFloat(getComputedStyle(d).getPropertyValue('--fs'))||1;
+ const setF=v=>{fs=Math.min(1.8,Math.max(.7,Math.round(v*10)/10));d.style.setProperty('--fs',fs);sv('iwg-fs',fs===1?null:fs);if(aa)aa.textContent=Math.round(fs*100)+'%';window.dispatchEvent(new Event('resize'))};
+ if(aa){aa.textContent=Math.round(fs*100)+'%';aa.onclick=()=>setF(1);document.getElementById('fs-').onclick=()=>setF(fs-.1);document.getElementById('fs+').onclick=()=>setF(fs+.1)}
+ document.addEventListener('keydown',e=>{const t=e.target;if(e.metaKey||e.ctrlKey||e.altKey||/^(INPUT|TEXTAREA|SELECT)$/.test(t.tagName)||t.isContentEditable)return;
+  if(e.key==='d'&&th)flip();else if(aa&&(e.key==='+'||e.key==='='))setF(fs+.1);else if(aa&&(e.key==='-'||e.key==='_'))setF(fs-.1);else if(aa&&e.key==='0')setF(1)});
+})();
+
+(function(){const btn=document.getElementById('pdf'),menu=document.getElementById('pdfmenu'),main=document.querySelector('main'),pt=document.querySelector('.ptitle');if(!main)return;
+ const cards=()=>[...main.querySelectorAll(':scope>section.card')];
+ // the text size of the print (--pfs, a factor on the print's base size), kept in this browser; Cmd+P honours it too
+ const st=k=>{try{return localStorage.getItem(k)}catch(e){return null}},sv=(k,v)=>{try{v==null?localStorage.removeItem(k):localStorage.setItem(k,v)}catch(e){}};
+ let pfs=parseFloat(st('iwg-pfs'))||1;const pv=menu&&menu.querySelector('.pdfv');
+ const setP=v=>{pfs=Math.min(1.6,Math.max(.8,Math.round(v*10)/10));document.documentElement.style.setProperty('--pfs',pfs);sv('iwg-pfs',pfs===1?null:pfs);if(pv)pv.textContent=Math.round(pfs*100)+'%'};
+ setP(pfs);
+ // the page marks as the margins show them: `p. 12` -> 12; scan, PDF, AA and GW labels as they are
+ // a card opened by a paragraph in which its page begins shows the mark only there, at the bar (no bar before a paragraph's first word)
+ const marks=()=>document.querySelectorAll('main .pg-in,main .card>.pg').forEach(s=>{s.dataset.m=s.textContent.replace(/^\[|\]$/g,'').replace(/^p\.\s*/,'');
+  const b=s.closest('p,h2,h3,h4,h5');if(s.matches('.pg-in')&&b){const r=document.createRange();r.setStart(b,0);r.setEndBefore(s);s.classList.toggle('pp-lead',!r.toString().trim())}
+  if(s.matches('.pg'))s.classList.toggle('pp-dup',[...s.parentElement.querySelectorAll('.pg-in')].some(x=>x.textContent==='['+s.textContent+']'))});
+ const stamp=()=>{const u=pt&&pt.querySelector('.pu');if(u)u.textContent='Printed from '+location.href.split('#')[0]+' on '+new Date().toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric'})+'.'};
+ const reset=()=>{document.querySelectorAll('.pp-out').forEach(e=>e.classList.remove('pp-out'));if(pt){pt.classList.remove('compact');pt.querySelector('.ps').textContent=''}};
+ // what is on screen: the last card whose top is in the upper part of the window
+ const current=()=>{const cs=cards();let c=cs[0];for(const x of cs){if(x.getBoundingClientRect().top<=innerHeight*.3)c=x;else break}return c};
+ // the text in reading order: headings, rows and paragraphs (a card's page label, footnotes and notes go with their card)
+ const units=()=>{const u=[];cards().forEach(c=>{[...c.children].forEach(e=>{if(e.matches('.pg,.notes,.fnrows,.fn,.cbg'))return;
+   if(c.classList.contains('mono')&&e.matches('.e,.o'))[...e.children].forEach(x=>{if(!x.matches('.fn'))u.push([x,c])});else u.push([e,c])})});return u};
+ const lv=e=>/^H[2-6]$/.test(e.tagName)?+e.tagName[1]:0;
+ // the section: from the last chapter-level heading at or before the card on screen to the next heading of that level or higher
+ // or, given a heading (a click in the contents), from that heading to the next of its level or higher
+ function section(h){const u=units();let s=-1;
+  if(h)s=u.findIndex(([e])=>e===h);
+  else{const cur=current();if(!cur)return null;const at=u.findIndex(([,c])=>c===cur);if(at<0)return null;
+   const n={};u.forEach(([e])=>{const l=lv(e);if(l)n[l]=(n[l]||0)+1});const ls=Object.keys(n).map(Number).sort();if(!ls.length)return null;
+   const top=ls.find(l=>n[l]>1)||ls[0];for(let i=at;i>=0;i--){const l=lv(u[i][0]);if(l&&l<=top){s=i;break}}}
+  if(s<0)return null;
+  const L=lv(u[s][0]);let e=u.length;for(let i=s+1;i<u.length;i++){const l=lv(u[i][0]);if(l&&l<=L){e=i;break}}
+  return{u,s,e,title:u[s][0].textContent.trim()}}
+ function scope(k,h){reset();if(k==='all')return;
+  if(k==='page'){const c=current();if(!c)return;if(pt)pt.classList.add('compact');cards().forEach(x=>{if(x!==c)x.classList.add('pp-out')});const l=c.querySelector(':scope>.pg');if(pt)pt.querySelector('.ps').textContent=l?l.textContent:'';return}
+  const r=section(h);if(!r)return;const keep=new Set();if(pt)pt.classList.add('compact');
+  r.u.forEach(([e,c],i)=>{if(i<r.s||i>=r.e)e.classList.add('pp-out');else keep.add(c)});
+  cards().forEach(c=>{if(!keep.has(c))c.classList.add('pp-out');else{const f=r.u.find(([,x])=>x===c);const l=c.querySelector(':scope>.pg');if(l&&f&&f[0].classList.contains('pp-out'))l.classList.add('pp-out')}});
+  if(pt)pt.querySelector('.ps').textContent=r.title}
+ // EB Garamond for the print (Google Fonts, loaded on first use; the local serif stands in if it does not arrive in time)
+ function font(){let l=document.getElementById('ppfont');if(!l){l=document.createElement('link');l.id='ppfont';l.rel='stylesheet';
+   l.href='https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400;1,600&display=swap';document.head.appendChild(l)}
+  const load=()=>Promise.all(['400 10pt "EB Garamond"','italic 400 10pt "EB Garamond"','600 10pt "EB Garamond"'].map(f=>document.fonts.load(f,'Aaé ő ά'))).catch(()=>0);
+  const ready=new Promise(r=>{if(l.sheet)load().then(r);else{l.addEventListener('load',()=>load().then(r));l.addEventListener('error',r)}});
+  return Promise.race([ready,new Promise(r=>setTimeout(r,6000))])}
+ window.addEventListener('beforeprint',()=>{marks();stamp()});window.addEventListener('afterprint',reset);
+ window.ppScope=scope;
+ if(!btn||!menu)return;
+ // the contents links in order are the text's headings in order (one link per heading); a link picks its heading
+ const side=document.querySelector('.side'),tocs=side?[...side.querySelectorAll(':scope>a[class^=l]')]:[];
+ const heading=a=>{const hs=units().map(([e])=>e).filter(lv),i=tocs.indexOf(a),t=a.textContent.trim();
+   return hs.length===tocs.length&&hs[i]&&hs[i].textContent.trim()===t?hs[i]:(c=>hs.find(e=>e.closest('section.card').id===c&&e.textContent.trim()===t)||hs.find(e=>e.closest('section.card').id===c&&'l'+lv(e)===a.className))(a.getAttribute('href').slice(1))};
+ const open=on=>{menu.classList.toggle('hidden',!on);btn.setAttribute('aria-expanded',on);
+  const pick=on&&tocs.length&&!document.body.classList.contains('noside');document.body.classList.toggle('pp-pick',!!pick);menu.querySelector('.pdfh').classList.toggle('hidden',!pick);
+  if(on){const c=current(),l=c&&c.querySelector(':scope>.pg');menu.querySelector('[data-k=page] small').textContent=l?l.textContent:'';font()}};
+ const go=(k,h)=>{scope(k,h);open(false);btn.textContent='…';font().then(()=>{btn.textContent='PDF';marks();stamp();window.print()})};
+ btn.onclick=e=>{e.stopPropagation();open(menu.classList.contains('hidden'))};
+ menu.querySelectorAll('button[data-s]').forEach(b=>b.onclick=()=>setP(b.dataset.s==='0'?1:pfs+(b.dataset.s==='+'?.1:-.1)));
+ document.addEventListener('click',e=>{if(!menu.contains(e.target))open(false)});document.addEventListener('keydown',e=>{if(e.key==='Escape')open(false)});
+ menu.querySelectorAll('button[data-k]').forEach(b=>b.onclick=()=>go(b.dataset.k));
+ // while the menu is open, a click on a contents heading prints its section instead of going there
+ if(side)side.addEventListener('click',e=>{const a=e.target.closest('a[class^=l]');if(!a||menu.classList.contains('hidden')||!tocs.includes(a))return;
+  e.preventDefault();e.stopPropagation();const h=heading(a);if(h)go('sec',h);else open(false)},true);
+})();
+</script><script>window.ANNOT={"repo": "idealisms-wg/idealisms-working-group-private", "branch": "main", "rel": "kant-ueber-ein-vermeintes-recht-aus-menschenliebe-zu-luegen", "base": ""}</script><script src="annot.js"></script><script>window.MEMBERS={"repo": "idealisms-wg/idealisms-working-group-private", "branch": "members-site", "base": "/idealisms-working-group/"}</script><script src="members.js"></script></body></html>

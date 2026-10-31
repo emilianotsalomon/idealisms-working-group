@@ -1,0 +1,2326 @@
+---
+title: Historisch-kritische Darstellung der dialektischen Methode Hegels ...
+author: Karl Ludwig Michelet
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: a scan of an old print (library or Google Books digitization; the imprint is not recorded in the library); converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: the PDF text layer of a scan, not corrected against the scan; non-word rate 0.8% (wordfreq, the edition's own spellings kept); paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority
+translation: none
+canonical: "[p. N] marks where printed page N begins (a scan of an old print (library or Google Books digitization; the imprint is not recorded in the library)); read from the PDF folios where legible, the others by sequence"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: The Historisch-kritische Darstellung der dialektischen Methode Hegels ... was written by an author who died in 1893, so before 1931; Karl Ludwig Michelet (d. 1893) is long out of protection and the edition (a library or Google Books digitization of an old print, no copyright page) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 4074)
+---
+
+# K. L. Michelet, *Historisch-kritische Darstellung der dialektischen Methode Hegels ...*
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+Historisch - kritische Darstellung dialektischen Methode Hegels.
+
+21. IMorris .
+
+Historisch -kritische Darstellung dialektischen Methode Hegels. Ich weiss, dass sie die einzige wahrhafte ist.
+
+HEGEL .
+
+Nebst dem gutachtlichen Berichte über die der
+
+Philosophischen Gesellschaft zu Berlin einge reichten Bewerbungsschriften und einer Geschichte dieser Preisbewerbung.
+
+Von l
+
+Car dung
+
+Dr. C. L. Michelet und Dr. G. H. Haring.
+
+Leipzig , Duncker & Humblot. 1888 .
+
+Vorrede. Wenn eine Vorrede, gebürender Weise, die Veranlassung, das Zeitgemäße ur den Zwerl einer Veröffentlichung anzugeben hat : so wollen wir uns hier über diese drei Punkte, dem Leser gegenüber, erklären. Die Veranlassung bot uns das Preisausschreiben einer philosophischen Gesellschaft, dessen Wortlaut folgender ist, dar : Historisch - kritische Darstellung der dialektischen
+
+Methode Hegels.
+
+No. I. Es wird eine Entwickelung der Methode Hegels auf Grund seiner Schriften verlangt. Wie verhält sich bei ihm die Dialektik zur
+
+Logik und Metaphysik?
+
+No. II. Vergleichung der Hegel'schen Methode mit den Methoden seiner Vorgänger. Ist sie aus denselben entstanden ?
+
+No. III. Der Werth und die Bedeutung der dialektischen Methode Hegels ist festzustellen, Erfüllt sie die Forderungen , welche an die philosophische Methode zu machen sind, oder nicht ?
+
+Von den Bewerbungsschriften übergeben wir hier mit dem geneigten Leser diejenige, welche den Einen von uns zum Verfasser hat : und schicken ihr die Gut achten des Andern von uns über alle drei Abhandlungen , die eingegangen sind, voraus.
+
+Letzterer, von der Gesellschaft zum Berichterstatter ernannt , wollte sich diesem
+
+Auftrage nicht entziehen , bei einem so philosophischen Anlasse , und noch dazu in Anbetracht eines Gegen standes, der ihn so nahe berührt. Um das Zeitgemäße unseres Unternehmens dar zulegen, müssen wir die Lage der Philosophie seit Hegels am 14. November 1831 eingetretenen Tode entwickeln . Der zahlreiche Kreis seiner Nachfolger war in die verschiedensten Richtungen auseinander gegangen , weil die Philosophie ihres Meisters selbst die Totalität der Systema in eine wissenschaftliche Einheit zusammengefaßt hatte . Hegels Freunde waren zum Theil bestrebt, ihre eigenen Special-Wissenschaften durch die Philosophie principiell zu begründen und weiter auszuführen : andern Theils auch, die eigentlichen Disciplinen der Philosophie nach allen Seiten hin fortschrittlich auszubilden. In ersterer
+
+Hinsicht können wir die Namen Marheineke , Strauß und Vatke für die Theologie : Vischer, Hotho und Rötscher für die Aesthetik: Gans für die Rechtswissen schaft; bezüglich der allgemeinen Philosophie und ihrer besondern Disciplinen Gabler , Rosenkranz , Erdmann, den Grafen Cieszkowski , Michelet und Andere an führen.
+
+Gegen diese ausgebreitete Literatur, die, ohne sicht bares Oberhaupt, sich die weitere Entwickelung der
+
+Philosophie zum Range einer exacten Wissenschaft an gelegen sein ließ, trat nun Schelling unvorsichtiger Weise durch sein umgebildetes System auf.
+
+Wir dürfen es uns nicht verhehlen, daß er, unterstützt durch mächtige staatliche Einflüsse, bereits seit 1840, wo er auf dem
+
+Schauplatz der Metropole der Philosophie erschien, der Fortbildung dieser Wissenschaft ein unerfreuliches Hemmniß entgegenwarf. Es gelang ihm, auch in den Augen eines großen Theils des philosophischen Publi cum's eine Misgunst gegen die reiche Entfaltung der Deutschen Philosophie, die in Jena, um den Wechsel des Jahrhunderts, durch das philosophische Dioskuren Paar einen gewissen Abschluß gefunden hatte, zu er wecken. Wie Schelling selber an den Anfang dieser
+
+Entwickelung , an den Kantischen Kriticismus zurück gekehrt war, so zog er auch viele Andere mit sich.
+
+Freilich konnte diese rückläufige Bewegung nicht allein auf der Bühne der Philosophie erscheinen. Es wurden auch verschiedene Anläufe gemacht, die Philosophie von der Hauptstraße auf Seitenpfade abzulenken. Wir können hierher die pessimistischen Systeme Schopen hauers und Hartmanns rechnen, die indessen ihre ab weichenden Ergebnisse mit dem Material der großen Denker Deutschlands erzielen wollten. Zudem hatte die
+
+Kantische Philosophie auf die Erfahrung hingewiesen ; und obgleich diese im echten Kriticismus mit einem aprioristischen Elemente durchwoben war, so legte sich doch der Realismus unserer Zeit auf die Erfahrung, als solche.
+
+Es erhob sich aus dem Schooße der Schule selbst eine Stimmung, welche das Unternehmen, durch die dialektische Methode zur Wahrheit zu kommen, für gescheitert behauptete, und dagegen die Erfahrung, die Anschauung als den richtigen Weg anpries. Der Auf schwung, den die immerhin berechtigte Erfahrung in den Naturwissenschaften genommen hatte, trug dazu bei, das sie oft in reinen Sensualismus und Materialismus umschlug Dem gegenüber verfiel Schelling allerdings auch einer auf gefrischten Glaubensphilosophie, in welche er seine ursprüngliche „ intellectuelle Anschauung verwandelte. Neben allen diesen neu auftauchenden Richtungen bildete sich dann eine große Gruppe von Philosophen, welche schlechthin an dem Rückfall in den bloßen Kriticismus fest hielt : und denselben noch dazu nicht in seiner anfänglichen idealistischen Fassung aufnahm , sondern der Verflachung desselben, wie er in der zweiten Auflage der Kritik der reinen Vernunft angebahnt und von vielen der damaligen Anhänger Kants vervollständigt wurde, anheimfiel. Nach und nach übten die Angriffe dieser verschiedenen Gegner der Hegel'schen Philosophie ihre Wirkung auf die Stellung derselben aus. Während sie früher, als Altenstein noch Minister des Unterrichts war, eine lange Zeit hindurch für Preußens Hof- und Staats philosophie angesehen wurde, verkehrte sich dun ibre Lage in's Gegentheil ; und man konnte sich der Regierung nicht besser empfehlen, noch sicherer auf baldiges Emporkommen rechnen , als wenn man gegen Hegel sprach und schrieb. Mit den ersten Vorläufern dieser Richtung hatte beiläufig sei es bemerkt schon
+
+Hegel selber sich herumzuschlagen begonnen ; und er verglich sich in dieser Hinsicht mit dem Sieger von Zorndorf,
+
+Thaten aber die Freunde Hegels gar nichts, um die Angriffe auf die Stellung der Hegel'schen Philosophie abzuwehren ? Sie blieben keineswegs unthätig. Zunächst gründeten schon zu der Zeit, als durch Schellings Auf treten in Berlin der Wirrwar im philosophischen Lager ein ernstlicher zu werden drohte, der Graf Cieszkowski und Michelet am 5. Januar 1843, unter freudiger Zu stimmung der Schüler und Anhänger Hegels, „ die Philosophische Gesellschaft zu Berlin .“ Sie erklärte als ihren
+
+Zweck, zunächst die mannigfaltigen Richtungen , in welche die Hegels'che Schule selbst zerfallen war, durch Verständigung der Mitglieder unter einander auszugleichen , und dabei an der Fortbildung der echten Wissenschaft der Philosophie gemeinschaftlich zu arbeiten. Sodann wollte sie sich aber auch an Andersdenkende wenden, welche einseitigern Richtungen zugethan waren ; sie suchte dieselben, ebenfalls durch Verständigung mit ihnen, in den Kreis der allgemeinen Philosophie hereinzuziehen . Endlich stellte sie auch für die Zukunft die von Ciesz kowski geforderte Philosophie der That in Aussicht, um , durch Entfaltung ihrer Ideen, auf die Entwickelung der Menschheit, im Fortschritt der Weltgeschichte, ein zuwirken .
+
+Das Organ , durch welches sie diese Zwecke zu er reichen hoffte, war die Zeitschrift : „ Der Gedanke ", welche unter der Redaction Michelet's in neun Bänden , während zweier Jahrzehnte vom Jahre 1861 an, erschienen
+
+Indessen geschah in der Zwischenzeit allerdings wenig von Seiten der Hegel'schen Schule, um die hef tigsten Angriffe, die sie zu erdulden hatte, abzuweisen. Nur Michelet batte schon gegen Schelling den Fehde handschuh zum Kampfe von Hörsal zu Hörsal aufgenommen : und bald darauf ( 1843) Gabler gegen Trendelenburg, der in seinen „ Logischen Untersuchungen “, und in der Schrift : „ Die logische Frage“, besonders die ist.
+
+dialektische Methode Hegels angriff, ein kleines Schar mützel bestanden. Erst aber als Trendelenburg uns den „ Stolz“ vorwarf, daß wir unser ,,Schweigen vielleicht für eine Widerlegung“ gelten lassen wollten, und Professor Twesten Michelet aufforderte, Trendelenburg die
+
+Antwort nicht schuldig zu bleiben, da entschloß sich Jener, nach zwanzig Jahren, in zwei offenen Sendschreiben an Trendelenburg unter dem Titel : „ Die dialektische
+
+Methode und der Empirismus“, das Schweigen zu brechen, da die Schule ja auch inzwischen ein eigenes Organ er worben hatte (Der Gedanke, Bd. I, S. 111-126 ; 185–201 ) . Erst nunmehr entspann sich der härteste Kampf in Deutschland, wir möchten sagen, um die Existenz der Philosophie. Wenn es auch, in Folge desselben, der ge nannten Gesellschaft nicht gelang, die Misgunst gegen Hegel ganz zu verscheuchen, so urtheilte doch der
+
+[p. xi] Italiener Rafaele Mariano mit vollem Rechte : „ Desto schlimmer für Deutschland ! " In, den dieses Herz der
+
+Europäischen Jungfrau umgebenden Ländern waren die
+
+Kämpfer für den wahren Fortschritt der Philosophie wohl glücklicher, da Hegel dort mehr in ideale Ferne gerückt war. Ich nenne für Italien Ausonio Franchi ,
+
+Spaventa, Vera,
+
+Pasquale d'Ercole , Rafaele
+
+Mariano , V. Imbriani : für Groß-Britannien Hutcheson Stirling und Oxenford : für Schweden und Norwegen Afzelius , Monrad , Lieblein , Lyng und Borelius ; woran sich der Finnländer Snellman schließt.
+
+Auch bis zu den beiden Enden Europa's über Frankreich nach Spanien und Portugal im Westen , im Osten über Polen und Ungarn nach Rußland , ja bis in die neue Welt jenseits des Atlantischen Oceans ist die Lehre Hegels gedrungen. Auch wurden nunmehr aus dem Innern der Philosophischen Gesellschaft die Anfeindungen der Gegner Hegels häufiger beantwortet: z. B. durch Kuno Fischers
+
+,,Anti- Trendelenburg ". In Michelet's Schriften : „ Hegel, der unwiderlegte Weltphilosoph, eine Jubelschrift“, und „ Hegel und der Empirismus“, werden Zeller, Hartmann und Andere abgewehrt. Diese Gesellschaft beschloß ibre Thätigkeit dann damit , am 3. Juni 1871 das Denkmal
+
+Hegels zu enthüllen , da der während des Krieges ein getretene hundertjährige Geburtstag Hegels (27. August 1870) nicht als dafür geeignet erachtet worden war.
+
+Es blieben aus den eingegangenen Beiträgen noch so viel
+
+[p. xii] Gelder übrig, um daraus den ersten Grundstock für eine Hegelstiftung zu machen , welche den Zweck hat , die Weiterführung echter philosophischer Wissenschaft zu fördern. Außer den Stiftern sind indeß nur noch wenige, überdies nicht mehr theilnehmende Mitglieder dieser Gesellschaft am Leben.
+
+Wiewohl der Kampf jetzt schwächer wurde , so ist der Sieg doch noch nicht errungen. Es liegen aber Anzeichen vor , welche diesen Sieg in Aussicht stellen .
+
+Einerseits scheint man es denn doch bedenklich zu finden, sich lediglich auf das träge Ruhebett der kritischen
+
+Philosophie niederzulassen. Da andererseits Hegel stets darauf gedrungen hat , die Erfahrung mit dem philosophischen Gedanken auszusöhnen : so hat auch eine Annäherung der empirischen Naturforscher an die Vernunfterkenntniß stattgefunden. Sie verhalten sich nicht mehr so spröde gegen die Philosophie, sondern sind zu der Einsicht gekommen , daß dieselbe doch wohl er sprießliche Dienste zur Förderung der Naturwissenschaft leisten könne.
+
+In der That haben sie denn auch bereits z. B. die Theorie der Wärme von der Philosophie auf genommen. Kurz, der Friede scheint angebahnt zu sein . Bei dieser Lage der Dinge halten wir den Augen blick für gekommen , mit unserem Zwecke hervorzu treten. Derselbe ist aber kein anderer, als der, welchen auch die genannte Philosophische Gesellschaft, so lange sie ihr gedeibliches Wirken ausüben konnte, unverbrüchlich im Auge behalten hatte. Wenn es nämlich dem
+
+XIII größten Denker des Alterthums, wenn es dem hehren Stagiriten nicht erspart geblieben ist , vermittelst des unterirdischen Kellers von Skepsis drei Jabrhunderte hindurch in einige Vergessenheit zu gerathen, um in dem darauf folgenden Jahrtausend als der princeps philo sopho: um auf dem höchsten Gipfel der Philosophie an Ruhm und Ansehen hervorzuglänzen : so dürfen wir der Zuversicht leben , daß es dem tiefsten der Deutschen Denker, daß es dem modernen Aristoteles in unserer schnelllebenden Zeit schon nach einem halben Jahr hundert vergönnt sein werde , die Misgunst der gegen ihn anprallenden Strömungen der oberflächlichen Ober welt zu überwinden : und, gerade wie sein ebenbürtiger Genosse, Jahrtausende der Ehre und des Preises unter künftigen Geschlechtern zu genießen, da sie ihm bereits während seines Lebens von seinen Zeitgenossen so reich lich zugeflossen waren. Die Mittel aber, die uns zu Gebote stehen , um an unserem Theile einen Beitrag zur Erreichung dieses Zieles zu liefern, sind etwa folgende. Was zunächst die Abbandlung betrifft, so weisen wir hier nur darauf hin, daß die Hegel'sche Lehre mit ihrer Methode steht und fällt; denn diese ist das eigentlich Bahnbrechende an derselben . Wer also das Wiederaufleben des Studium's MES dieser Philosophie erwartet und fördern will, muß die Wahrheit ihrer Methode zu beweisen suchen. Dies geschieht in der historisch-kritischen Darstellung, die wir dem philosophischen Publicum bringen, und welche, indem sie die Lösung der gestellten Preisaufgabe unternimmt, im Grunde aus dem lange vorbereiteten Entschluß hervorgegangen ist, eine dem gewöhnlichen Bewußtsein so weit, wie möglich, entgegenkommende Einführung in das Studium Hegels zu veröffentlichen. Bei einer solchen mußte natürlich der Hauptgesichtspunkt sein, den nothwendigen Zusammenhang der Hegel'schen Philosophie mit aller wahren Philosophie überhaupt, in's Besondere aber mit der neuern Philosophie nachzuweisen.
+
+Wenn gezeigt werden kann , daß die Hegel'sche Philosophie das Ergebniß und die zu sich selbst gekommene Seele der Systeme seiner Vorgänger ist : so kann man bei keiner frühern Philosophie stehen bleiben, namentlich nicht bei der kritischen .
+
+Man hat nur die Wahl, alles Philosophiren für Thorheit auszugeben , oder sich ernstlich um das Verständniß Hegels zu bemühen . - Im Uebrigen muß die Schrift für sich selbst sprechen. Sodann hielten wir sämmtliche Gutachten über die eingelaufenen Bewerbungsschriften für eine geeignete Einleitung in die nachstehende Abhandlung. Denn merk würdiger Weise bieten sie eine Darstellung der Haupt richtungen, in welche sich die Philosophie gegenwärtig gespalten hat , dar.
+
+Auf der Einen Seite steht ein
+
+Kantianer, der das rollende Gespann der Philosophie durchaus rückwärts in die ausgefahrenen Geleise des Kriticismus zurückzuschieben sich die Kraft zutraut.
+
+Auf der andern Seite erblickt man einen die ganze Reihe der edeln Denker von Thales bis Hegel für Träumer und Nachtwandler in der Nebeldämmerung der Abstraction erklärenden Sensualisten und Materialisten, der allein „ zum concreten Denken “ in einer Philosophie der Zukunft emporgestiegen sein will, die er aber wohlweislich nicht etwa giebt, sondern uns blos verspricht. Beide Aufsätze möchten als Folie dienen , um den mittleren in sein rechtes Licht zu setzen .
+
+Zur erfreulichen Durchführung unseres Vorhabens dürfte ferner auch der sehr günstige Umstand mit wirken , daß die vorliegende Abhandlung, um die dialek tische Methode Hegels aus ihren Quellen abzuleiten , vor nehmlich an die stärkste Zeitströmung in der Philosophie, an den Kantischen Kriticismus anknüpfen mußte, indem sie nachweist , wie aus dieser Eichel die majestätische Eiche der Wissenschaft hervorgewachsen ist.
+
+Selbst wenn wir unsere Widersacher zu überzeugen nicht im Stande wären, trauen wir ihnen doch den Edelmuth und die Pietät gegen einen solchen Helden der Wissenschaft žu , daß sie unser Bestreben immerhin würdigen und achten werden, weil es darauf abzielt, den Ariadnefaden zu finden , der den Ausgang aus dem von uns geschilderten Labyrinth gewähren soll. Endlich leitete uns zur Erreichung unseres Zweckes auch ein praktischer Gesichtspunkt. Wenn die kalte Selbstsucht der Einzelnen, der gesellschaftlichen Stände und der Völker jetzt vom empirischen Realismus sehr stark genährt wird : so dürfte der nicht minder berechtigte
+
+[p. xvi] Idealismus der Deutschen Philosophie durch seine Wieder erweckung sich als ein nicht zu verachtender Bundes genosse dem mächtigen Friedensbündnisse anreihen , welches vom schneebedeckten Haupte der Britischen
+
+Orkaden bis zur südlichen Stiefelspitze Italiens reicht, und am wieder muthvoller pochenden Herzen der bejahrten Jungfrau seinen Mittelpunkt in Deutschland gefunden hat. Denn in den Schriften unserer großen Philosophen, welche die Zukunft vorahnend angedeutet haben , ist unter andern auch die Idee eines ewigen Friedens niedergelegt. Nun mehr erblicken wir diese Idee, wie durch einen werden den, auf solchem internationalen Grund- Gesetze beruhen den Areopag der Menschheit, der Wirklichkeit etwas näher gerückt. Kraft der Hochachtung der die Wirklich keit am Ende doch immer beherrschenden Ideen dürften wir also hoffen , ohne den Greueln eines Krieges ausge setzt zu sein, zur Unterdrückung habsüchtiger Sonder interessen und zur sittlichen Erstarkung des allgemeinen Wohlstands im alternden Europa zu gelangen , und da mit seiner Verjüngung gewärtig zu sein. So geben wir denn dem Büchlein getrost die besten Wünsche auf seinen Lebenspfad mit, indem wir meinen , daß nicht nur die „ Werdenden “ uns dankbar sein werden für die Winke , die wir ihnen ertheilen , sondern daß wir es auch den gemachten Leuten , den „ Fertigen “, wenn auch nur zum Theil, recht gemacht haben " .
+
+Berlin und Hamburg , zum Ostertage . Michelet .
+
+Haring.
+
+Verbesserungen. S. 156, Z. 11 v . 0.: Statt III, lies V. S. 156, Z. 15 v . 0.: Hinter einen setze ein Komma.
+
+## Erste Abtheilung :
+
+Gutachtlicher Bericht Michelet's über die sämmtlichen der Philosophischen Gesellschaft zu Berlin zugegangenen Be werbungsschriften .
+
+## [p. 1] Einleitung
+
+Ohne den Wurf überschätzen zu wollen , den die
+
+Gesellschaft that, als sie, auf den Antrag ihres Schrift führers, des Herrn Meineke, die Aufgabe stellte : „ Historisch - kritische Darstellung der dialektischen Methode Hegels,“ dürften wir doch sagen , daß dieselbe eine recht zeitgemäße sei. Denn vielleicht gelingt es uns, im Verfolge der Beurtheilung, die wir als Kampfrichter auszuüben haben, die Wissenschaft der Philosophie, dieser Königin aller Wissenschaften , dem Wirrwarr zu entreißen , in welchen dieselbe in Deutschland gerathen ist. Wenn ihr Dies aber in Deutschland zustieß , so sind auch die übrigen Völker davon nicht unberührt geblieben, da die Deutschen eben , wie Hegel sich ausdrückt , zu Hütern für dieses heilige Feuer der Wissenschaft, wie die heilige Familie der Eumolpiden in Athen für die Bewahrung der Eleusinischen Mysterien , auserkoren wurden. Im zweiten und dritten Jahrzehnt unseres Jahrhunderts erreichte die Hegel'sche Philosophie den Gipfel ihres Glanzes : und zwar in der Stadt der Intelligenz , in der Preußischen Hauptstadt Berlin ; so daß sie sogar die Preußische Hof- und Staatsphilosophie genannt wurde, und als eine der festesten Säulen der bürgerlichen Ordnung galt. Schon aber am Anfang des vierten Jahr zehnts, nach der Juli-Revolution, trat plötzlich ein Rück schlag ein , der seit Hegels Tode , und besonders als Friedrich Wilhelm IV. den Thron der Hohenzollern be stiegen hatte , immer fühlbarer wurde.
+
+An die Stelle 1*
+
+[p. 4] Altensteins, welcher der Hegel'schen Philosophie großes Wohlwollen bezeigt hatte, trat Eichhorn als Unterrichts minister. Er erklärte diese Philosophie für unverträglich mit dem bestehenden Staate und der bestehenden Kirche.
+
+Von da an entbrannte ein erbitterter Krieg gegen die
+
+Anhänger der Schule, besonders gegen ihre linke Seite. Schelling, eines der glänzendsten Gestirne am Himmel der Philosophie des neunzehnten Jahrhunderts , hatte mächtig dazu beigetragen , die von Kant ausgegangene, durch Fichte und ihn selber weiter geführte
+
+Philosophie auf eine solche Höhe der Entwickelung zu bringen , daß sie in Hegel zu einem einstweiligen Stillstand und Abschluß gelangte. Mit Einem Male jedoch fiel Schelling durch seine Philosophie der Offenbarung von dieser Kette der Ueberlieferung ab. Denn nachdem Hegel den absoluten Idealismus bis zu dem Punkte ausgebildet hatte, wo derselbe mit dem Realismus zusammentraf, und aus dem Grunde behauptete, das Ziel der ganzen Geschichte der Philosophie, die Identitätvon Denken und Sein, und zwar durch Dialektik , erwiesen zu haben, schickte Schelling ,,ein grosses Wort gelassen“ dem verewigten Freunde nach : „ Mit der Vernunft können wir nicht an die Wirk lichkeitgelangen gelangen ". Hegel hatte dagegen ausgesprochen : „ Das Vernünftige ist das Wirkliche, und das Wirkliche das Vernünftige". Indem Hegel diese Wahrheit gerade durch seine Methode bewiesen haben wollte , rühmte er sich , die Philosophie aus der Stufe, bloße „ Liebe der Weisheit “ zu sein, zum Standpunkte erhoben zu haben, wo sie „wahrhaftes Wissen und sich selbst beweisende
+
+Wissenschaft“ geworden sei.
+
+Das nannte Schelling aber eben eine Sackgasse,“ und übernahm die allerhöchst ihm vom Könige gewordene ,,Mission ", die Philosophie aus dieser “ Sackgass [p. 5] zu befreien .
+
+Indem er zu dem Ende den Glauben und die Erfahrung als die obersten Principien der Philosophie hinstellte, beging er einerseits einen schmählichen Rück fall in die Scholastik des Mittelalters , andererseits förderte er die Blüte , welche die Erfahrungswissen schaften jetzt genießen. Für die Philosophie des neun zehnten Jahrhunderts selbst aber hatte Dies die Wirkung, daß ein großer Theil ihrer Vertreter auf deren Ursprung zurückgriff, und die Kantische Philosophie seit einem halben Jahrhundert wieder aufkam. Denn diese lehrte zunächst , daß der Verstand vermittelst der Erfahrung nur Endliches, nur Erscheinungen zu erkennen vermöge : und dann, daß, wenn wir mit der Vernunft an die ewigen
+
+Ideen treten wollten, wir uns in Widersprüche verwickeln würden ; — Gott, Freiheit und Unsterblichkeit also nur für den Glauben erreichbar seien.
+
+Daß wir an der Neige des Jahrhunderts von Vorne anfangen sollten , Das ist die wahre Sackgasse , in die Schelling selber gerathen ist , und Andere mit sich ge zogen hat , statt uns Alle aus jener vermeintlichen herauszuholen.
+
+Schön wäre es nun sicherlich, wenn wir die Wiedereinsetzung der Philosophie in ihre alte Würde dadurch herbeizuführen im Stande wären, daß wir, nach Anleitung der Entscheidung über die vorliegende Preis frage, den heutigen Zustand dieser Wissenschaft zur völligen Klärung brächten. In der That hat es den Anschein, als ginge dies trostlose Zwischenreich seiner Endschaft entgegen. Es sind zwar nur drei Abhandlungen, und alle drei rechtzeitig, vor Ablauf des 31. De cembers 1886, eingelaufen. Sie können jedoch, bis zu einem gewissen Grade, als die Vertreter der verschiedenen Richtungen betrachtet werden , in welche die Philosophie unserer Zeit auseinander geht.
+
+[p. 6] No. I schaut mit ihrem Gesichte nach rückwärts.
+
+Sie steht auf dem Standpunkt der Kantischen Philosophie, und widerlegt die dialektische Methode der speculativen Logik der Vernunft mit den Waffen der abstracten Begriffe, der formalen Verstandeslogik. No. III will da gegen in die Zukunft schauen , und findet, daß der Hegel'sche ,,concrete Begriff immer noch zu abstract sei, weil er nicht lediglich seinen Ursprung aus den materiellen Urstoffen der Naturwissenschaft genommen habe. No. II endlich steht auf dem Boden der Gegenwart, in dem sie den bis jetzt unwiderlegten Standpunkt Hegels festhält. Denn die Füße des ebenbürtigen Nachfolgers, die Hegels Philosophie hinaustragen sollen , stehen noch nicht vor deren Thür. Hat sie nicht auch den Januskopf:
+
+die ganze Vergaugenheit der Geschichte der Philosophie in sich aufgenommen zu haben, um damit die Philosophie der Zukunft befruchtend vorzubereiten ? Sämmtliche Ab handlungen stellen aber, wie sich's gehört bei einer die Hegel'sche Philosophie betreffenden Frage , Hegel'sche Aussprüche, als Motto, an die Spitze ihrer Rede. Hören Sie jetzt deren Inhalt und meine Vorschläge , um dann selber darüber zu entscheiden.
+
+Um diese Entscheidung aber sachgemäß fällen zu können , kommt es , bei der Erwägung einer jeden solchen Abhandlung , wohl auf folgende drei Haupt punkte an. Erstens und vor allen Dingen niuſ danach gefragt werden , ob denn der Verfasser alle Punkte unseres Ausschreibens vollständig beantwortet hat. Zwei tens haben wir doch wohl auch den Inhalt des uns Dargebotenen zu prüfen , und zu entscheiden , ob darin sachliche Irrthümer mit untergelaufen sind.
+
+Endlich dürfen wir freilich nicht unseren Standpunkt als den allein maßgebenden an die Arbeit legen , sondern auch [p. 7] fremde Standpunkte anerkennen, wenn sie nur mit Talent und ohne geschichtliche Verstöße behauptet worden sind .
+
+Aber allerdings die Vollständigkeit der Beantwortung bleibt unerläßlich ; und wenn diese fehlt, kann auch dem größten Talent, selbst bei aller thatsächlichen
+
+Richtigkeit, die Palme des Sieges dennoch nicht zuge sprochen werden.
+
+No. I fügt dem von uns der Preisaufgabe gegebenen Titel das Motto hinzu : „ Erst wenn man die Sache versteht, was nach dem Lernen kommt , steht man über ihr.
+
+Auf siebenhundert und siebzig weitläufig geschriebenen Seiten bietet uns der Verfasser eine Arbeit , die auf einen ersten Blick Gründlichkeit für sich in Anspruch nehmen dürfte. Dieselbe legt aber nicht so große Kenntniß der Hegel'schen Schriften, wie wir sie in unserer ersten
+
+Forderung vorausgesetzt haben, an den Tag. Der Verfasser führt durchgehends nur Seiten lange Stellen Hegels an , er sie beurtheilt ; was freilich den Umfang bevor seiner Arbeit nahezu um die Hälfte anschwellen lies, und eigentlich unnütz war, indem er doch wohl annehmen mußte, daß seine Richter mindestens ebenso sehr, wie er selber , in den Hegel'schen Werken bewandert seien. Er hätte sich also füglich mit der bloßen Ortsangabe begnügen können. 1. Was nun erstens die Vollständigkeit der Beantwortung betrifft, so möchte sie zunächst als vor handen anzusehen sein .
+
+Indessen ist der Raum für die drei Antworten, welche auf die von uns gestellten Fragen gegeben werden , höchst ungleich vertheilt. Unserer ersten Frage scheinen 725 Seiten gewidmet zu sein.
+
+[p. 8] Die geschichtliche Betrachtung wird dann auf fünf und dreißig Seiten abgethan, und die kritische Beleuchtung scheint gar mit den letzten zehn Seiten vorlieb nehmen zu sollen. Der Verfasser hat jedoch die Beantwortung unserer dritten Frage schon in seiner ersten Antwort vorweg genommen , dabei aber den Irrthum begangen, Das , was wir in unserer ersten Nummer „ eine Ent wickelung der Methode Hegels auf Grund seiner Schriften" .
+
+nennen , als eine wörtliche Aufzählung der bloßen Ergebnisse dieser Methode , durch die Phänomenologie des Geistes , die Logik , die Naturphilosophie und die Geistesphilosophie hindurch, aufzufassen. Dabei hängt er dann sogleich an jede Stufe des Systems Schritt für Schritt seine Kritik an ; so daſs die zehn Schlußseiten sich nur als ein gedrängtes Zusammenfassen jener um fangreichern Urtheile darstellen. Auf diese Umstellung brauchten wir am Ende kein großes Gewicht zu legen, wenn durch solches Verfahren nur nicht die Erfüllung unserer ersten Forderung sehr zu kurz gekommen wäre.
+
+Der Verfasser berührt kaum die Natur der Hegel'schen Methode , die sich auf die Natur des philosophischen Denkens gründet. Statt die drei Stufen desselben , - das blos verständige Denken nach dem Satze der Identität in der gemeinen Logik, das negativ- vernünftige der Dialektik mit dem Kampfe der Gegensätze, und die volle Versöhnung dieser in der positiv -vernünftigen Speculation , – seinem Urtheil zu unterwerfen, vermeint er, vom niedrigen Standpunkt der ersten Stufe aus, in welcher er schon die Natur des
+
+Denkens für erschöpft hält , die höheren Formen des selben umstürzen zu können .
+
+Er kennt zwar den berühmtesten , aber auch dunkelsten, und darum zugleich vielfach angefochtenen Ausdruck Hegels , „ die absolute
+
+[p. 9] Negativität“. Aber gegen dieses Princip wendet sich der Verfasser besonders , und erblickt in dem Operiren mit demselben eben den Grundfehler und eigentlichen
+
+Mangel der Hegel'schen Methode, während Das doch vielmehr gerade der lebendige Pulsschlag und der springende Punkt im Denken ist, welcher den Fortschritt der Stufen allein ermöglicht.
+
+Die Speculation gilt dem
+
+Verfasser nur als eine „ Ueberschwänglichkeit “. Weil der Verfasser nun diese drei, doch überall aus Hegels Schriften hervorleuchtenden Momente des Denkens schlechthin nicht zu fassen vermochte, so wußte er auch nichts aus dem Schlußsatz unserer ersten Frage zu machen : „ Wie verhält sich bei Hegel die Dialektik zur
+
+Logik und Metaphysik ?" Diese drei seit Aristoteles bis zu Hegel getrennten Wissenschaften hat Hegel wieder in die Eine verschmolzen , welche er die speculative
+
+Logik oder die Principienlehre nannte. In jeder Stufe derselben kommen die drei Glieder des Denkens , die genau den drei genannten Wissenschaften entsprechen , Hegel ist hierbei dem Vorgange Kants gefolgt, vor.
+
+dem in seiner transscendentalen Logik eine solche Ver schmelzung wenn auch nur vorschwebte. Dieser erste Mißgriff des Verfassers ist schon sehr bedenklich, und die damit in Verbindung stehende Unvollständigkeit der Beantwortung ein schwerwiegender Umstand. Dazu kommt zweitens noch die Art und Weise, wie der Verfasser von seinem Standpunkt aus dem Hegel'schen beizukommen sucht. Verzichten wir auch darauf, den Inhalt seines Gesichtspunktes zu verurtheilen , so legt er doch durch die Form seines Angriffs ein offenes Ge ständniß zu seinen Ungunsten ab : „ Wir müssen bei der gewöhnlichen Betrachtungsweise des Verstandes in der Psychologie und in der alten Logik stehen bleiben, und, [p. 10] mit vollem Rechte auf ihr fußend, uns der dialektischen
+
+Methode kritisch gegenüberstellen .“ Keineswegs ! Die wahre Widerlegung, wie Aristoteles und Hegel sie ein müthig beschreiben, besteht vielmehr darin, sich in die
+
+Kraft des Gegners hineinzubegeben, um von Innen her aus dessen Ansichten aufzulösen.
+
+Eine gegen ein un verstandenes Gedankensystem blos von Außen her ange brachte Versicherung vermag Dies nicht. Der Verfasser entspricht daher sehr schlecht der Anforderung, die er selber durch sein Motto an sich gestellt hat. Denn bei seinem Erlernen- Wollen der Sache ist ihm ihr Verständ niß ausgeblieben, und er ist lediglich unter ihr stehen geblieben . Dieses Urtheil kann ich nicht umhin, durch einige Beispiele sachlich zu begründen.
+
+Der Verfasser sagt an einer Stelle : „ Es muß empirisch von der Einzelheit zur Vielheit , und dann zur
+
+Einheit gegangen werden. Hegel geht aber stets den umgekehrten Weg."“ An einer andern Stelle heißt es aber geradezu , daß „ Hegel in der Phänomenologie des Geistes mit der Erfahrung der sinnlichen Gewißheit im psychologischen Bewußtsein begonnen habe. Wäre der selbe zur Bewährung des Bewußtseins zurückgekommen, So wäre er auf dem richtigen Wege gewesen.
+
+In der
+
+Logik habe er aber mit dem reinen Sein, einem Begriffe, den Anfang gemacht , dem die Giltigkeit abgesprochen werden müsse.“ Hieraus geht einerseits hervor, daß der Verfasser mit sich selbst in Widerspruch verfallen ist, indem er selber den doppelten Weg Hegels kennt , und ihm dennoch den einseitigen unterschiebt.
+
+Andererseits ist das Einschlagen dieses doppelten Weges gerade die Stärke Hegels und eines seiner hervorragendsten Ver dienste. Um einen Eingang in die Philosophie zu get winnen, beginnt er im blos „ erscheinenden Geistes mit
+
+Dem , was ihm zunächst gegeben ist , mit der Wahr nehmung durch die Sinne, und führt diese unmittelbare
+
+Erfahrung durch die stetige dialektische Bewegung bis zu dem Punkte hin, wo sie sich zum absoluten Wissen erhoben hat.
+
+Da nun dieses die Einheit von Sein und
+
+Denken ist, so beginnt Hegel in der Logik , als dem
+
+Anfang des eigentlichen Systems der Philosophie , ganz richtig mit dem Gedanken des Seins, als dem einfachsten Begriffe, um aus ihm den ganzen Reichthum der Gedankenwelt durch eine zweite dialektische Bewegung Hegel steigt also vom Einzelnsten bis zum Allgemeinsten hinauf, und von da wieder zu entwickeln.
+
+am Schlusse des Systems in der Philosophie der Welt geschichte zur Erfahrung der Wirklichkeit herunter, indem hier im erreichten Ziele der Menschheit alle realen Verhältnisse des Menschengeistes dem Urbilde der absoluten Vernunft entsprechen. Diesen Kreislauf der Philosophie hat schon Aristoteles erkannt , und ihn mit dem Doppelwege der Wagenkämpfer in den Spielen verglichen, die von den Richtern zur Meta, und von da wieder zurück zu den Schranken sich bewegen. Der
+
+Verfasser geht den einseitigen Pfad der Analyse , ohne dieselbe mit der Synthese zu verknüpfen . Weil , dem Verfasser zufolge, Hegel die Bahn der
+
+Erfahrung nicht gehörig inne gehalten haben soll, sondern auf den abschüssigen Stegen der kühn dahin segelnden speculativen Idee vorwärts schreite , so habe seine dia lektische Methode Schiffbruch erlitten .
+
+Die Nummer I entlehnt dem Professor Zeller das Urtheil, Hegels Ver such, die Dinge a priori erkennen zu wollen , sei ge scheitert.
+
+Wenn der Verfasser dann aber doch der
+
+Klage, dass es ihm leider nicht vergönnt gewesen sei, die Darstellung des Hegel'schen Systems von Hutcheson
+
+[p. 12] Stirling zu benutzen , den Trost hinzufügt, daß seine Arbeit dadurch an Originalität gewonnen habe : so stimmt Dies äußerst schlecht zu dem Umstande , daß er auch noch die übrigen bekannten Gegner Hegels , wie Trendelenburg , Ueberweg , Hartmann , Lotze und Andere reichlich ausschreibt , um sich , statt eigener Urtheile, durch die ihrigen zu decken ; wodurch das fremde Eigen thum seiner Arbeit wohl wiederum auf mehr , als die Hälfte, anwächst. Diese Gewährsmänner des Verfassers sehen wir uns, um ihrer Unbedeutendheit willen , nicht bemüßigt, gleichfalls zu widerlegen. Wo er aber selber auf eigenen Füßen stehen will , bringt er nur knappe Schlagwörter gegen die Hegel'sche Methode vo den Umfang der kritisirten Stellen nicht erreichen , ohne Beweis hingestellt sind , und sich in stets wiederkehrenden Wendungen durch die ganze Abhandlung hin durchziehen , als da sind : Das sei entschieden falsch ; Das sei nicht richtig ; Das müssen wir für ungiltig er klären ; Das sei hinfällig; Das sei ein Irrthum ; Das sei nach beiden Seiten hin unmotivirt ; Das sei unbewiesen, als ob der Verfasser nur Einen stichhaltigen Beweis dagegen aufzubringen im Stande gewesen wäre ! Ich gehe nun zu einzelnen Ausstellungen über, die der Verfasser der Hegel'schen Methode, in den vier angegebenen Theilen des Systems, macht.
+
+a. Hegel beginnt bekanntlich in der Phänomeno
+
+logie des Geistes seinen Weg mit der Dialektik des Jetzt und des Hier : daß, wenn es jetzt Tag sei, und der Baum hier stehe, über Nacht, und wenn wir uns umdrehen , Jetzt und Hier ganz andere geworden seien ; jene Sätze seien daher keine ewige Wahrheiten, das Bleibende sei nur das allgemeine Jetzt und das allgemeine Hier, das Diese aber etwas Vergängliches. Dem stellt der Verfasser [p. 13] entgegen, daß das Jetzt und das Hier nicht blos all gemeine seien , sondern auch diese einzelnen blieben .
+
+Das wird Hegel gewiß nicht in Abrede stellen. Der Verfasser sieht jedoch nicht ein, daß Hegels Behauptung auf die Platonische Ideenlehre hinauslaufe , wonach die
+
+Gattungen , als die Urbilder der einzelnen Dinge , das wahrhaft Seiende sind.
+
+Als Hegel aber weiter über die Einseitigkeit , daß nur das Allgemeine wirkliche Realität enthalte, durch die Vernunft hinausgekommen ist , indem in ihr das einzelne Bewußtsein zu der Gewißheit gelangt sei , an sich alle Realität und mit dem unwandelbaren Bewußtsein versöhnt zu sein , da lautet die kurze Ant wort des Verfassers : Das scheine nur so , und der dialektische Uebergang sei ein gewaltsamer.
+
+Wenn der
+
+Verfasser aber dann behauptet, in der Phänomenologie habe die Dialektik manchmal eine „ poetische Färbung “, so wollen wir ihm Dies zugeben ; nannte doch Hegel selber sie seine „ Entdeckungsreisen “. Dagegen nehmen wir Act von des Verfassers Lobe , das in der „ Ency klopädie die Uebergänge „ natürlicher“ seien. b. In der Logik weiß der Verfasser gegen ihren An fang, gegen das Uebergehen von Sein und Nichts in ein ander, oder das Werden, nur den so vielfach nachge sprochenen Einwand seines Hauptgewährsmannes, nämlich Trendelenburgs, zu wiederholen: daß der logische Denker die Bewegung gar nicht in diesem Begriffe des Werdens finden würde, wenn sie ihm nicht schon vorher in der Anschauung gegeben worden wäre. Als ob der Gedanke nicht vielmehr die schöpferische Macht sei, welche die
+
+Natur, wie die Geschichte, in Bewegung setzt ! Freilich bewegen sich in der Logik die reinen Gedanken noch nicht, wie in den angeführten Gebieten, auf dem Boden [p. 14] der äussern Wirklichkeit; aber darum sind sie doch nicht, wie der Verfasser meint, blos subjective Vor stellungen der gemeinen Logik. Wie viel schöner sagt Kant, auf den sich doch die Empiriker immer berufen, die apriorischen Denkbestimmungen müßten hinterher in der empirischen Anschauung recognoscirt werden. Wenn der Verfasser aber Hegel tadelt, daß er die Erfahrung zu wenig angewendet habe : so wäre dagegen zu erinnern, daß Hegel selbst in der Logik die Erfahrung der Denk bestimmungen macht, und namentlich den Begriff des Anfangs empirisch aufnimmt, um aus ihm seine ersten
+
+Kategorien durch Analyse zu entwickeln. Noch möchte ich Folgendes herausheben. Der Verfasser findet an Hegel auch auszusetzen, daß ihm jeder Begriff aus entgegengesetzten bestehe ; doch schon auf der nächsten Seite giebt er selber zu, daß sowohl die Continuität, wie die Discretion, ihren Gegensatz in sich schließe. Ferner wirft er Hegel vor, daß derselbe gegen den Satz des Widerspruchs verstoße : stumpft aber später diesen Vorwurf dahin ab, daß Hegel nur scheinbar in Widerspruch mit der Logik gerathe, indem nur zwischen contradictorischen Begriffen, wie Pferd und Nicht-Pferd, das Dritte ausgeschlossen sei, nicht aber zwischen con trären , wie Licht und Finsterniß ; was der Verfasser, ohne mich zu nennen, meiner betreffenden Vertheidigung Hegels entnommen hat
+
+Verfasser Recht geben, daß Attraction und Repulsion so wie die Zahl , nicht in die Logik , sondern in die Naturphilosophie gehören. c. Was die Naturphilosophie betrifft, so leugnet der Verfasser, dal Raum und Zeit in einander über gehen ; und doch wird er nicht, wie der Eleate Zeno, das Dasein der Bewegung bestreiten wollen. Der Verfasser [p. 15] wird sich gewiß nicht der Anschauung verschließen können, daß dieses Jetzt sich als dieses Hier, und ein anderes Jetzt sich als ein anderes Hier darstellt. Sodann wird
+
+Hegel der bekannte Vorwurf nicht erspart, die vier Elemente der Griechischen Philosophie wieder hervor gesucht zu haben ; und daß deshalb seine Naturphilosophie eine sehr veraltete sei. Als ob Hegel diese immer hin großen Naturmächte für chemisch einfache Stoffe ausgegeben hätte! Der Verfasser ist es aber vielmehr, der die veraltete Ansicht vertritt, daß die Wärme ein Stoff sei, während schon Hegel, und lange vor diesem Baco von Verulam die Wärme für eine Bewegung aus gesprochen haben ; was seit dem Rumford'schen Versuche mit dem Kanonenbohren eigentlich gar nicht mehr in
+
+Frage hätte gestellt werden sollen. Wollte der Verfasser aber nicht dem dialektischen Philosophen beistimmen, so hätte er doch den Naturforschern sein Ohr leihen müssen, da endlich von Mayer und von Helmholtz sich nicht länger der Behauptung der Philosophen erwehren konnten. Darf schließlich der Verfasser wohl bei den chemischen
+
+Processen in Abrede stellen, daß vor seinen erstaunten
+
+Blicken die Basen , Säuren und Salze in der Retorte in einander übergehen, indem sie sich wechselsweise mischen und scheiden ? Das Lob Hegels aber, daß derselbe den Unterschied von Pflanze und Thier schön entwickelt habe, wollen wir vom Verfasser im Geiste des großen Denkers dankbar annehmen.
+
+d. Für die Philosophie des Geistes sind die Ein wendungen gegen die Dialektik des individuellen Geistes denen ähnlich , die der Verfasser ihr auch schon in der Beurtheilung der Phänomenologie gemacht hatte. Hin sichtlich der praktischen Philosophie wagt der Verfasser dann auch noch , mit der Behauptung hervorzutreten , [p. 16] daß die am geschichtlichen Webstuhle der Zeit hin und her sausenden Schifflein ihr Spiel nur im Gehirne Hegels treiben. Die dritte Stufe aber, den absoluten Geist, ver mißt der Verfasser, nach Lotzes und anderer Vorgang, gänzlich im Hegel'schen Systeme : und zeiht es des Pan theismus, - weil dasselbe nur eine Religion des Denkens aufstelle.
+
+2. Die Beantwortung unseres zweiten Punktes, der eigentlich eine Geschichte der Dialektik fordert, fällt, da diese sich, wie ein rother Faden, durch die ganze Geschichte der Philosophie hindurchzieht, dem Inhalte nach etwas lückenhaft aus. Es fehlen manche bedeutende Dialektiker. Bei der von uns geforderten Vergleichung der Methoden kommt der Verfasser wieder nicht über kurze , dürftige Urtheile hinaus. . Ueberdies schöpft er seine Kenntniß der Philosophen, so wie seine Urtheile über dieselben oft nur aus der zweiten Hand, namentlich aus Ueberwegs Schriften. Schon der zweite Jonier, Anaximander, hätte ange geführt werden können, indem er alle Gegensätze bereits in der ursprünglichen Weltmaterie enthalten annimmt. Heraklit wird sehr abfällig als bloßer Hylozoist abge fertigt, indem bei ihm von logischen Gründen nicht die Rede sein könne ! Es sieht fast so aus, als hätte der
+
+Verfasser seine
+
+Blicke nur auf das erste Buch der
+
+Aristotelischen Metaphysik geheftet, indem dort blos ge sagt wird, daß Heraklit das Feuer zum Princip der Welt gemacht habe. Dieses war aber dem großen Ephesier, als das Beweglichste, lediglich ein Symbol der allgemeinen Vernunft, durch die allein, und nicht vermittelst der Sinne, der Mensch zur Wahrheit dringe. So hat Heraklit denn in einer ausgebildetern Dialektik viele Gegen sätze des Gedankens zur Einheit verknüpft, wie es der [p. 17] er
+
+Verfasser aus dem Werke Lasalle's hätte erfahren können , oder auch wenn er nur bis zum vierten Buche der
+
+Metaphysik des Aristoteles gekommen wäre. Namentlich finden sich daselbst die Sätze : „ Sein und Nichtsein ist Dasselbe", oder ,, Alles ist und ist auch nicht" , was Heraklides Ponticus *, ein Schüler des Aristoteles, specia lisirter also ausdruckt: είμέν τε και ουκ είμεν. Hegel aber ruft darüber in seiner Logik, wie Columbus, als er auf seinem Schiffe America's ansichtig wurde, pathetisch aus : ,,Hier sehe ich Land " Von Zeno's Dialektik heißt es dann beim Verfasser blos : sie habe auf Hegel eingewirkt. Ueber Plato aber fallen die unglaublichsten Aeußerungen : er stehe vollständig auf dem Standpunkt des verständigen Denkens ; und : das Gespräch Parmenides, auf das Hegel als auf das allein maßgebende fuße (er nennt es allerdings das größte Kunstwerk der alten Dialektik) , habe mit der dialekti schen Methode rein gar nichts zu thun ! Den scharfen Dialektiker Aristoteles übergeht der Verfasser aber völlig mit Stillschweigen . Von den Griechischen Dialektikern wird nur noch der Neuplatoniker Proklus herausgehoben . Und da kann denn der Verfasser sich doch nicht der Einsicht ver schließen , daß dessen Dialektik der Hegel'schen sehr nahe komme, und unverkennbar auf sie eingewirkt habe. In der That , die drei Momente der triadischen Construction bei Proklus : das Bleiben, das Hervorgehen und die Rückkehr , entsprechen genau den drei Hegel'schen
+
+Stufen : des Ansichseins , des Andersseins und des An und Fürsichseins, als Einheit, Zwiespalt und Versöhnung. Von der Dialektik in der Christlichen Philosophie * Allegoriae Homericae, c. 4, p. 443.
+
+[p. 18] des Mittelalters ist dem Verfasser nur Scotus Erigena in den Wurf gekommen ; und doch wurde damals während sechs Jahrhunderte die Dialektik mit großem Eifer ge trieben. Aber auch über die Philosophie des Scotus Erigena weiß der Verfasser nur die nichtssagende Phrase vorzubringen, daß er der Hegel'schen Methode sehr nahe stehe, und seine Dialektik ihr sehrähnlich sehe. Wenn ich dann auch die Arabischen und die Jüdischen Philosophen unerwähnt lasse, so möchte ich doch wenigstens an den Verfasser die Frage richten : Wo bleibt die Ars magna des Raymund Lullus ? Wo die Disputir-Methode des Duns Scotus ? Nur Nicolaus von Cusa wird noch er wähnt , indem er durch sein Princip der coincidentia oppositorum und die Unterscheidung von Verstand und Vernunft (ratio et intellectus) an Hegel erinnere. Den nach dem Wiederaufleben der Wissenschaften aufgetretenen Giordano Bruno vermisse ich schmerzlich, da er doch die Lullische Kunst mit der coincidentia oppositorum in Verbindung bringen wollte.
+
+Der beste
+
+Gedanke vorliegender Schrift ist aber die jedoch nicht weiter durchgeführte Annahme, daß der Satz des Spinoza : Determinatio est negatio, der absoluten Negativität Hegels den Ursprung gegeben habe. Damit hat der Verfasser den Glanzpunkt unserer zweiten Nummer über die Entstehung der Hegel'schen Dialektik geahnt, ohne ihn ver standen oder entwickelt zu haben.
+
+Wenn der Verfasser dann aber dafür hält , daß Hegel den Unterschied von Verstand und Vernunft aus Kant geschöpft habe : so möchte ich doch dagegen bemerken , daß diese zwei Seiten des Denkens schon den philosophischen Dioskuren des Alterthums sehr geläufig waren.
+
+Da es keinem Zweifel unterliegt, daß der Gegen satz der Thesis und Antithesis in Kants Antinomien der
+
+[p. 19] Kosmologie, so wie dessen Paralogismen der Psychologie grossen Einfluß auf Hegel ausgeübt haben, so brauchte der Verfasser nicht auf sechs Seiten die Urtheile Hart manns und Schopenhauers hierüber zu Hilfe zu rufen. Ueber das Verhältniß der trichotomischen Eintheilung bei Hegel zu der Kantischen Kategorien - Tafel ist das Heranziehen des Lotze'schen Urtheils nicht glücklich gewählt : daß die Einwirkung derselben auf Hegel wohl im Ganzen zu erkennen sei, ohne jedoch besonders er sichtlich zu sein ; sie ist vielmehr eine augenscheinliche. Noch schiefer ist die Ansicht , daß sich die Einwirkung von Fichtes Thesis , Antithesis und Synthesis auf Hegel nicht nachweisen lasse, da sie im Gegentheil zweifellos ist. Ueber Schelling läßt der Verfasser Hartmann sagen , daß derselbe mit der Identität der Gegensätze keines weges die Dasselbigkeit oder die Einerleiheit gemeint habe, sondern offenbar eine organische Einheit und begriffliche Zusammengehörigkeit. Nun , Hegel that Das doch sicherlich auch.
+
+Und es ist sogar keine Frage, daß eher Hegel Schelling beeinflußt habe, als umgekehrt. Endlich ist aber ungerechtfertigter Weise Solger gänzlich ausgelassen worden ; und doch steht seine Methode der Hegel'schen nicht nur sehr nahe, sondern kann fast als identisch mit ihr angesehen werden. Beide Männer legen den hauptsächlichsten Werth in der Philosophie auf die Methode ; Beide bauen ihre triadische Construction auf den Unterschied von Verstand und Vernunft
+
+Indem Solger schon 1819, wenige Jahre nach Erscheinen der Hegel'schen Logik ( 1812–1816), verstorben ist : so könnte man geneigt sein, Solger die Priorität der Er findung zuzuerkennen . Da indessen die Solger'sche Ab handlung : „ Ueber Sein , Nichtsein und Erkennen “, wo rin die Beziehung zu Hegel eben ganz unabweislich ist, 2* [p. 20] erst 1826 unter den nachgelassenen Schriften Solgers veröffentlicht worden ist: so bleibt es wahrscheinlicher, dal Solger dieses Gespräch in den letzten Jahren seines Lebens verfaßt habe, wo er die Hegel'sche Logik schon vor Augen hatte. Als Ergebniſ seiner geschichtlichen Erörterungen giebt dann der Verfasser dieses an : dal Hegel selbst auf Heraklit, die Eleaten, Plato, Proklus, Spinoza und Kant hinweise ; man könne aber nicht sagen, daß seine Dialektik ein Product dieser Elemente sei.
+
+Vielmehr habe Hegel sie nur als Hilfsmittel der Darstellung, als Handhaben benutzt. Seiner Methode schon sicher, habe er sie in jene Elemente erst hineingetragen, und die selben in seinem Sinne aufgefaßt und verwerthet. Statt dieser nicht weiter bewiesenen Vermuthung hätte der
+
+Verfasser besser gethan, wenn er aufgezeigt hätte, wie der dialektische Geist von Anaximander bis zu Hegel allmälig und stufenweise seit seinen ersten Anfängen den höchsten Gipfel erklommen, und in Hegel die volle Ausbildung erlangt habe, die uns in seinen Schriften vorliegt. 3. Die dritte Frage nach dem Werth und der Be deutung der dialektischen Methode Hegels be antwortet der Verfasser kurz in entschlossenen Worten also: „ In Bezug auf ihre Ergebnisse ist ihr Werth gering anzuschlagen ; sie erfüllt die Forderungen nicht, welche an die philosophische Methode zu stellen sind . Anderer seits wenn wir den großartigen Zweck dieses speculativen Gebäudes betrachten, so bewundert man den Scharfsinn, mit welchem dieses gewaltige Werk und doch einfache System durchgeführt ist. Dabei steht man staunend vor den herrlichen Gedanken und den kostbaren Aus sprüchen, welche sich in die Entwickelung eingestreut [p. 21] finden, und uns die Schwachheit der Methode vergessen machen. Sie lassen errathen, welche mächtige Zauber kraft dieser Lehrer auf seine Schüler durch das gesprochene Wort ausüben mußte : und machen die Begeisterung derselben für dies System erklärlich.“ Diesen Lobeserhebungen stimme ich aus vollem Herzen bei, habe ihre Richtigkeit an mir selbst erprobt, möchte aber an Mit- und Nachwelt die Frage richten : Sind diese glänzenden Errungenschaften des philosophirenden Geistes trotz der den ganzen Verlauf der Geschichte der Philosophie beherrschenden Dialektik , oder nicht viel mehr kraft ihrer unaufhaltsamen Fortschritte gewonnen worden ? Wir schliessen den Bericht über diese erste Ab handlung mit der Erörterung des dritten Gesichts punktes , den wir gleich Anfangs als maßgebend für unser Urtheil erachtet hatten.
+
+Wollten wir auch immerhin nicht unerheblichen Unvollständigkeiten in der
+
+Beantwortung unserer Fragen dem Verfasser nicht in Anrechnung bringen : so wäre doch einerseits der Stand punkt der Vergangenheit , von dem aus der Verfasser einen Philosophen der Gegenwart übersehen zu können meint , ein thatsächlicher Fehlgriff; und das geringe Talent , mit welchem die Schrift ausgestattet ist , nicht dazu angethan , uns günstiger über die vorliegende Arbeit auszusprechen. Sagt er doch selber einmal ganz unverholen im Geiste der kritischen Philosophie : „ Wir wissen nur , was Licht für uns , nicht was es an sich sei !!" -- als habe der Verfasser , wie Epimenides , ein Jahrhundert hindurch geschlafen ! freilich mit einer recht ansehnlichen Zahl von Genossen.
+
+[p. 22] No. II. Diese Abhandlung , die auch sachlich in der Mitte zwischen ihren beiden Mitbewerbern steht , setzt dem von uns beliebten Titel das Motto vor : „ Ich weiß , das sie die einzige wahrhafte ist.“ Hegel fährt dann an dieser Stelle folgendermaßen fort: „ Und Dies erhellt für sich schon daraus, daß sie von ihrem Gegenstande und Inhalt nichts Unterschiedenes ist ; denn es ist der Inhalt in sich, die Dialektik , die er an sich selbst hat , welche ihn fortbewegt. Keine Darstellungen können für wissen schaftlich gelten , welche nicht dem Rhythmus dieser Methode gemäß sind ; denn es ist der Gang der Sache selbst.“
+
+Es ist ein richtiger Blick des Verfassers, diese
+
+Hauptstelle über die Natur der Hegel'schen Dialektik sogleich an die Spitze seiner ganzen Ahandlung gestellt zu haben , während die No. I in ihren zahlreichen An führungen aus Hegel erst sehr spät auf diese klassische Stelle kommt, und sie an einem versteckten Orte mit andern Stellen zusammenwirft. Dann bemerkt der Verfasser im Verlaufe seiner
+
+Darstellung, daß, wenn ihm zwei Schriftsteller, die er nennt, gute Dienste zur Lösung seiner Aufgabe geleistet hätten , er nun auch hoffe, durch seine Arbeit ein „ Weg weiser" für Andere geworden zu sein. Das ist ihm denn auch in der That vortrefflich gelungen : ' und zwar nicht nur für die Werdenden, sondern auch für die Fertigen. Ja, er hat es sich ausdrücklich zur Aufgabe gemacht, die Dunkelheiten, die noch vielfach über die Lehre Hegels obwalten, und schmerzlich empfunden werden , aufzu hellen. Darum, sagt er selbst, habe er sich einer popularen Darstellung befleißigt. Wenn in dieser Hinsicht selbst im Schooße unseres Ausschusses Zweifel über die wissen [p. 23] schaftliche Haltung des Verfassers rege wurden, so mag doch wohl die Vorführung des Inhalts der Schrift ge eignet sein, solches Bedenken zu heben. Verstärkt wird dasselbe zwar auch noch dadurch , daß zugleich die
+
+Kürze der Abhandlung bemängelt wurde. Aber ganz abgesehen davon , daſ Geistes-Erzeugnisse nicht mit der Elle gemessen werden dürfen, macht der Verfasser den Vers des Horaz zu Schanden : Brevis esse laboro, obscurus fio. Im Gegentheil. Der Verfasser ist, ungeachtet seiner Kürze, gemeinverständlich geblieben , wenn auch nicht geleugnet werden soll , daß er , bei seiner so concisen, wie präcisen Schreibart, dem denkenden Leser Manches zu ergänzen überlassen hat. Auch der Vorwurf ist dem Verfasser nicht erspart worden , daß er gewissermaßen zu dogmatisch sei , und in seiner Begeisterung für Hegel auf dessen Standpunkt verharrt sei ; er hätte in die Zukunft schauen sollen, und deren Philosophie in's Auge fassen müssen. Nun, es ist unserer Gesellschaft ja auch in No. III eine Philosophie der Zukunft in Aussicht gestellt worden ; und wir werden zu prüfen haben , wie dieselbe beschaffen ist : und wer mehr in die Zukunft eindringt, die Nummer II oder die Nummer III. Uebrigens blickt jene schon dadurch in die Zukunft, daß sie in ihrer ebenso licht vollen, wie gründlichen Darstellung die angeblichen Geheimnisse der Hegel'schen Lehre für die Nachwelt an den Tag des allgemeinen Bewußtseins hervorzuziehen bestrebt ist , und darin dem Beispiele vieler Schüler Hegels folgte, die ihn nicht nur entwickelten , sondern auch, und zwar gerade dadurch, über ihn hinausgingen. Es ist also nicht zu besorgen , daß die Geschichte der Philosophie in dem letzten Halbjahrhunderte stillgestanden habe : noch, daß ihr Dies je begegnen werde, wenn dieser
+
+[p. 24] Bericht auch in seiner Einleitung manche krummen Wege und scheinbare Rückläufe zu verzeichnen hatte. Und so dürfte der Hoffnung Raum gegeben werden, daß es dem Verfasser im Verein mit jenen Nachfolgern und Fortbildnern Hegels gelingen werde , diesen großen Meister, den selbst seine Gegner , wie wir an No. I so eben gesehen haben, anzuerkennen nicht umhin können, wieder in den ihm gebürenden Rang und Würde zurück zuversetzen , aus denen ihn mehr nur äußern Umständen, namentlich politischen Strömungen, auf eine kurze
+
+Weile zu verdrängen, allerdings gelungen zu sein schien . Gehen wir jetzt an der Hand unserer drei schon bekannten Gesichtspunkte näher in die Erwägung der vorliegenden Schrift ein.
+
+1. Was erstens die Vollständigkeit der Beantwortung betrifft, so müssen wir sie für diese kürzere
+
+Behandlung, im Gegensatz zu jener ersten, sehr weit schweifigen , als durchaus vorhanden aussprechen. Das erste Capitel giebt die Grundgedanken der Hegel'schen Philosophie an. Das zweite ist überschrieben : Die Vor gänger Hegel's. Das dritte nennt sich : Die kritische
+
+Philosophie , die eigentliche Vorstufe der speculativen. Der Titel des vierten lautet : Darstellung der dialek tischen Methode Hegel's ; es ist das ausführlichste. Das fünfte Capitel ist überschrieben : Was ist bei Hegel aus der frühern Metaphysik geworden ? Das sechste ist eine Vergleichung der dialektischen Methode Hegels mit den Methoden seiner Vorgänger. In der Einleitung stellt sich der Verfasser sogleich in den richtigen Gesichtspunkt , und erblickt in der Stellung unserer Frage die Absicht, als wollten wir die
+
+Bahn eröffnen, wie die Philosophie aus dem Rückfall in die Kantische Philosophie wieder zu einer gedeih [p. 25] lichen Entwickelung kommen könne.
+
+Die glänzenden
+
+Fortschritte der Naturwissenschaften lrätten die Philosophen, sagt der Verfasser, auf die Erfahrung und den Kreis des endlichen Wissens angewiesen, und dadurch dem Gebiete der ewigen Ideen entrückt. Aber bei dieser Verzweifelung an der Vernunft- Erkenntniß dürfe und könne man nicht stehen bleiben.
+
+Nun seien alle Ver suche von Philosophen , die zwischen Kant und Hegel liegen, wie die von Fichte, Schelling, Herbart, Schopenhauer und Hartmann, Theils unfertige Systeme , Theils zu abstruse Versuche einer Speculation gewesen , als daß sie bei den wissenschaftlich Gebildeten, geschweige denn beim großen Publicum , hätten Eingang finden können. Nur Hegel zeige, wie Kant, der philosophischen Welt ein fertiges , durchgebildetes System , das dem Kantischen ebenbürtig sei. Selbst Naturforscher haben auch aus dem Hegel'schen schon manche Erscheinungen der Natur tiefer aufzufassen unternommen.
+
+Der Zweck des Verfassers sei hiernach, den kommenden Generationen der Philosophen das Verständniſ eines so abgerundeten Systems, wie es das Hegel'sche in der That sei , auf zuschließen, um endlich durch Weiterbildung desselben sich von dem Banne des auf halbem Wege stehen gebliebenen Kriticismus zu befreien .
+
+Da aber nach dem vom Verfasser aus Hegel selbst gewählten Motto Form und Inhalt unzertrennlieh seien, so versucht der Verfasser dann im ersten Capitel, bevor er an unsere eigentlichen Fragen über die Methode Hegels herantritt, eine kurze Schilderung des Inhaltes und Princips von dessen Philosophie zu geben ; denn ohne den Inhalt wäre die Methode unverständlich.
+
+Nun kenne ich kein Schriftstück , welches auf elf weitläufig geschriebenen Seiten eine so plastisch wahre Angabe des [p. 26] wesentlichen Inhalts des Hegel'schen Gedankenganges darbietet, wie sie bier vorliegt. Der Verfasser beschreibt denselben folgender Maßen : Die Vernunft ist eben so wohl Subject, wie Object. Als letzeres, ist sie das Innere der Welt, das in der Natur, im Rechte, im Staate, in Kunst und Religion alle Wirklichkeit ist. Das Innere der Welt ist uns also nicht verschlossen, kommt aber erst in der Philosophie zum völligen Bewußtsein , als unser eigenes Selbst. Die Gesetze und Gedankenbestimmungen , die wir aus der ganzen sinnlichen Welt und dem ganzen Reiche des Geistes durch Erfahrung vorfinden, würden wir gar nicht aus ihnen entnehmen können, wenn sie nicht an sich in unserem Geiste anwesend wären . Die Logik macht den ursprünglichen vernünftigen Gehalt beider Reiche für sich ausfindig. Die Naturphilosophie und die Philosophie des Geistes weisen dann dessen Verwirklichung in beiden Gebieten nach. Nach nur einundzwanzig vorausgeschickten Seiten geht der Verfasser nun ausdrücklich an die Lösung der von uns ihm gestellten Aufgabe, und zwar in den fünf übrigen Capiteln. Damit soll indeß keineswegs ge sågt sein, daß er vorher Fremdartiges getrieben hätte. Mit der ersten Silbe seines Motto's ist er bei seinem
+
+Gegenstande, ist er – und hier widerlegt er nicht, wie zuerst, einen Spruch desselben Römischen Dichters, sondern bestätigt ihn lediglich -, stürzt er sich in medias res. Er hat gleich den Kern der Sache erfaßt; er zeigt uns, wie die Hegel'sche Methode in's Werk gesetzt werden müsse, wie sie sich selbst in's Werk setze.
+
+Denn wie sie ihr
+
+Werkzeug aus der Rüstkammer des Kriticismus entnommen hat, so wendet sie sich auch mit dem Stoffe ihrer Arbeit sofort gegen ihn, schafft sich selbst ihren Inhalt : den Nachweis, daß die Vernunft das absolute
+
+[p. 27] Subject-Object sei. Denn in ihr decken sich ja Form und Inhalt. Diese an die Spitze seiner Schrift gestellte Formel entwickelt der Verfasser dann näher im Verfolg seiner Rede.
+
+Die in unserem Programm aufgeführten drei Nummern enthalten folgende fünf Forderungen : 1) Ent wickelung der Natur der Hegel'schen Dialektik ; 2) ihr Verhältniſ zu Logik und Metaphysik ; 3) ihre Entstehung ; 4) ihre Vergleichung mit frühern Methoden ; 5) ihren Werth und ihre Bedeutung. Der Verfasser beobachtet auch ziemlich genau die Reihenfolge unserer Fragen. Denn nachdem er die Natur der Dialektik anfänglich nur im Allgemeinen angegeben hatte , entwickelt das vierte
+
+Capitel sie in ihrer ganzen Ausführlichkeit, während das zweite und das dritte sie geschichtlich entstehen lassen
+
+Das fünfte erörtert sodann ihr Verhältniß zur
+
+Metaphysik.
+
+Das sechste stellt die Vergleichung der
+
+Methoden an.
+
+Und der Werth und die Bedeutung der
+
+Hegel'schen Dialektik springt aus der ganzen Abhandlung mit augenscheinlicher Klarheit hervor ; so daß ihnen kein besonderer Abschnitt gewidmet zu werden brauchte. 2. Was nun zweitens den Inhalt der Ansichten des
+
+Verfassers betrifft, so steht er auf der Höhe der geschichtlichen Entwickelung der Philosophie. Er besitzt die richtige Einsicht in die Geschichte der Philosophie, daß jedes große geschichtliche System eine Seite der Wahrheit darstelle: daß zwei vorhergehende Philosophien in der zunächt folgenden verknüpft werden ; und alle, in der reichsten Philosophie , zu Einer Einheit zusammengefaßt, die Wahrheit in ihrer vollendetsten Form enthalten . Es gebe nur Eine Philosophie, weil die Vernunft nur Eine sei.
+
+Durch diese Erkenntniß erweitert sich dem Verfasser der Blick , so daß er von seinem
+
+Standpunkte aus das Ganze mit Sicherheit zu über schauen vermag. Indem ich Ihnen nun den ganzen Gedankengang des Verfassers entrolle , werde ich mich bestreben, Dies, wie der Verfasser, mit höchster Deut lichkeit zu thun : und, obgleich ich des Verfassers Kürze noch mehr zu kürzen gezwungen bin , dabei dennoch seiner Gründlichkeit keinen Abbruch zu thun .
+
+a. Ich beginne mit dem vielleicht genialsten Punkte der ganzen Schrift. Das ist der , wie der Verfasser die dialektische Methode Hegels, der Form und dem Inhalte nach , aus den Sätzen zweier seiner Vorgänger ent springen läßt : nämlich Spinoza's und Kants. Jenem verdankt Hegel mehr die Seite der Form, diesem mehr die des Inhalts. Diese Deduction ist geradezu meister haft, während die vier anderen Beantwortungen unserer Fragen immerhin genügend ausgefallen sind. Unter der Form verstehe ich das wohl am Meisten bestrittene Princip der „ absoluten Negativität“, das eben , als doppelte Negation , durch seine Beweglichkeit den Inhalt unaufhaltsam immer weiter treibt, bis er seinen
+
+Kreislauf vollendet hat. Hegel knüpft selbst hierbei an den Satz des Spinoza an : Determinatio est negatio, und hält ihn für einen sehr wichtigen. Indem Spinoza aber jede Bestimmtheit nur negire, so bleibe die Substanz bei ihm bloße Einheit , also etwas Leeres , in welches eben alles Bestimmte nur verschwinde. Man müsse die
+
+Bestimmtheit aber auch positiv fassen. Denn da alle Gegensätze einander negiren, so werde das dem Positiven entgegengesetzte Negative durch dasselbe negirt ; so ent stehe die doppelte Negation , welche eben das Positive sei. Das Negative werde aber positiv nicht blos im Verhältniß zu seinem Andern , sondern sei es auch in sich selbst. - So weit Hegel.
+
+[p. 29] Der tiefe Blick des Verfassers liegt nun darin, daß er nicht blos bei der Forderung Hegels, das Positive aus dem Negativen selber zu entwickeln , stehen geblieben ist, sondern dieselbe vollständig erfüllt, indem er seine Beantwortung geradezu logisch aus dem Spinozistischen Satze abgeleitet hat. Das diene als ein recht schlagen des Beispiel , wie der Verfasser auch die Fertigen zu belehren sich als sehr geschickt erweist.
+
+Denn er hat alle Dunkelheit, die in dem Principe der absoluten Negativität vielleicht für Alle noch vorhanden war, voll ständig aufgehellt. Zwar ist es nur Ein Wort , welches der Verfasser uns vor unser geistiges Auge stellt : ,,Die Conversion des Spinozistischen Satzes“. Dies Eine Wort hat auch eines der Mitglieder unseres Ausschusses stutzig gemacht. Dieses Wort ist aber, ungeachtet seiner grausamen Kürze, dem sinnigen Leser an die Hand ge geben , damit er nun selber die Lösung des Räthsels finde.
+
+Ich will Das versuchen.
+
+Der Verfasser setzt, wie Hegel selbst, und Alle, die sich mit diesem Satze Spinoza's befaßt haben , voraus, daß dieser Philosoph ein universelles Urtheil gefällt habe : Omnis determinatio est negatio. Obgleich nun das Wort omnis bei Spinoza selber fehlt, so liegt es doch wohl in seinem Sinne, da er eben alle Bestimmtheiten, d. h. alle endlichen Dinge, in seiner absoluten Substanz nur untergehen lassen will. Wenn dann von dem er wähnten Mitgliede die richtige Bemerkung ausging, universelle Urtheile werden in der gemeinen Logik durch Umkehrung zu particularen : so könnte zwar erwiedert werden, daß die Worte Spinoza's , determinatio est negatio , eigentlich gar kein regelrechtes Urtheil enthalten, sondern ein bloßer Satz sind.
+
+Denn welches Glied wäre wohl das allgemeinere gegen das andere ? Man könnte also die
+
+[p. 30] Umkehrung geradezu so machen : „ Die Negation ist Bestimmtheit“. Damit ist der Negation , als einer solchen , sogleich ein Inhalt, also etwas Positives als innewohnend mitgegeben ; denn jede Bestimmtheit ist ein besonderer Inhalt. Aber auch wenn wir streng der logischen Regel folgen wollten, und aussprächen : ,, Einige Negationen sind Bestimmtheiten ", so würde doch immerhin für diese wenigstens der Schluß zu ziehen sein, daß sie einen positiven Inhalt haben .
+
+Jedenfalls ist uns daher, durch die angeführte Umkehrung, die Verknüpfung eines Positiven mit einem Negativen , gesichert , da der bestimmte Inhalt nicht alles
+
+Positive, sondern ein mit lauter Negationen behaftetes Positive ist. Denn alle anderen positiven Bestimmtheiten sind von ihm ausgeschlossen, also in ihm negirt. Ebenso sind alle diese Negationen auch jede ein anderer bestimmter Inhalt. Weil jede Bestimmtheit also, ungeachtet ihres positiven Inhalts, die Négation aller andern Bestimmt heiten ist : so ist jede bestimmte Negation eine negative Negation, oder eine doppelte Negation : d . h. das Positive durch absolute Negativität. Alle Bestimmtheiten sind somit nicht nur, wie Spinoza meint, einfache Negationen im Absoluten ; wodurch dieses eben eine leere Abstraction bliebe. Sondern indem bei Hegel die bestimmte Negation negirt wird, ist nur die Bestimmtheit an ibr negirt, das in ihr durch die doppelte Negation eingeschlossene Positive aber in der Totalität des absolut Positiven er halten .
+
+Damit ist die absolute Negation die absolute
+
+Position jedes bestimmten Inhalts im Absoluten.
+
+Denn im Absoluten ist jeder Gegensatz aufgehoben ; und die Totalität des endlichen Inhalts nicht blos zersplittert, sondern, wie aufgehoben, so auch in der Einheit des Unendlichen aufbewahrt. Das ist der Unterschied der Hegel' [p. 31] schen Philosophie von der Schelling'schen. Schelling läßt, wie Spinoza , alle Gegensätze im Absoluten nur unter gehen , während Hegel die aufgehobenen auch be stehen läßt.
+
+Aber wenn aus der Conversion des Spinozistischen Satzes auch wirklich die Verwandelung eines universellen Urtheils in ein particulares hervorgehen sollte, so hätten wir noch eine weitere Folgerung daraus gewonnen ; und es wäre uns also damit noch mehr gedient.
+
+Denn sind nur : „ Einige Negationen Bestimmtheiten “, so sind : 9„ Einige Negationen Unbestimmtheiten ". Mit andern Worten , wir haben den Unterschied der conträren und der contra dictorischen Gegensätze aus der Umkehrung des Spino zistischen universellen Urtheils erhalten.
+
+Daraus aber erhellt augenscheinlich, daß Hegel der so oft ihm ge machte Vorwurf, den . Satz des Widerspruchs verletzt zu haben, nicht trifft. Zwei conträre Gegensätze, wie Licht und Finsterniſ, Schwarz und Weiß, sind zwei Bestimmt heiten , deren jede das Negative der andern ist , aber gerade durch diese Negation ihr eigenes Positives setzt. Diese Einheit des Positiven und des Negativen ist das Mittlere, hier Farbe und Grau, welches beide Gegensätze ebenso auflöst, wie bestehen läßt: also im Aufheben be wahrt. Von contradictorisch Entgegengesetzten darf Dies jedoch nicht gesagt werden . Pferd und Nicht-Pferd sind nicht zwei Bestimmtheiten , die Eine Einheit bilden können ; sie haben also kein Mittleres. Hier gilt der Satz des ausgeschlossenen Dritten ; und Hegel hat sich nicht am Satze des Widerspruchs versündigt.
+
+Wir sehen hier, wie ein einziges Wort, am rechten Orte und zu rechter Zeit angebracht, fortzeugend immer neue Gedanken hervorlockt. Auf mich wenigstens hat es diese Wirkung geübt.
+
+[p. 32] Ausführlicher läßt sich der Verfasser dann über Das aus, was die Hegel'sche Dialektik der Kritik der reinen Vernunft verdanke .
+
+Auch sei Kant, bemerkt er , der jenige Philosoph, den Hegel am Meisten citire, und von dem er stets mit hoher Achtung spreche, auch wo er ihn tadle. Es sei eines der größten Verdienste Kants, führt der Verfasser aus Hegel an , der Dialektik den Schein der Willkür genommen zu haben , indem die Vernunft nothwendig auf Widersprüche stoße. Denn nur dadurch können die einander Entgegengesetzten zu ihrer vollen Versöhnung gelangen. Dies Instrument der Philosophie, setzt der Verfasser sehr bezeichnend hinzu, habe Kant seinem großen Fortsetzer nicht etwa geschenkt, sondern dieser habe es ihm abringen müssen ; und Niemand habe es schärfer und einschneidiger gebraucht, als eben Hegel. . Aber nicht nur die Form; hauptsächlich auch der Inhalt und die Stufenfolge der Materien in Hegels Logik leiten zum großen Theil ihren Ursprung aus dem Epoche machenden Werke Kants ab ; doch habe Hegel das Entnommene zugleich tiefer erfaßt, und gründlicher bis zu Ende durchdacht , indem er die von Kant aus dessen Sätzen nur geahneten Folgerungen nun auch wirklich zog.
+
+Vornehmlich sind es fünf Punkte Kants , aus denen, dem Verfasser zufolge, Hegel in seiner Logik das Ganze einer Wissenschaft entwarf, welche Kant vorher ver kündet hatte.
+
+Die geordnete Totalität dieser Punkte führt der Verfasser in nachstehender Reihenfolge auf: 1 ) die in vier Klassen getheilte Tafel der zwölf Kategorien. Jede Klasse enthalte drei Kategorien, von welchen die dritte immer die Verbindung der beiden ersten sei. Die zwei ersten Klassen beziehen sich auf Gegenstände der Anschauung, die dritte und vierte auf die Existenz [p. 33] dieser Gegenstände entweder in Beziehung auf einander, oder auf den Verstand.
+
+Aus diesen Stammbegriffen könnten, sage Kant , leicht noch andere Kategorien ab geleitet werden , um das System zu vervollständigen. 2) Die ursprüngliche. synthetischc Einheit der Apper ception, als Einheit des : Ich denke , oder des Selbst bewußtseins , welches Kant das oberste Princip nenne, spreche auch nach Hegel das Princip der Speculation, die Identität von Subject und Object, auf's Bestimmteste
+
+3) Die Antinomien der Kosmologie und die Paralogismen der Psychologie erweisen die Nothwendigkeit des Widerspruchs , welcher zur Natur der Denkbestim mungen gehöre. Dazu komme nun 4) die Kantische Frage : „ Wie sind synthetische Urtheile a priori möglich ?" deren Beantwortung nach Kant die eigentliche Aufgabe der reinen Vernunft löse .
+
+Um endlich solchen Urtheilen objective Giltigkeit beilegen zu können , führe Kant: 5) den Begriff des transscendentalen Schema's ein. Das sei nämlich ein Drittes, welches bei der Ungleichartigkeit, die zwischen der Kategorie und der Erscheinung statt finde, die Anwendung der Erstern auf die Letztere er mögliche. Dies geschebe aber durch eine intellectuelle
+
+Anschauung, welche die Kategorien in der Sinnlichkeit wiedererkenne: also z. B. die Kategorie der Substanz und Accidenz, als Beharrlichkeit oder Wechsel der Dinge in der Zeit. Denn die Zeit sei das Ich = Ich, aber der reine Begriff noch in seiner gänzlichen Aeußerlichkeit. b. Wie Hegel nun auf diesen Grundlagen das System der Philosophie erbaute , zeigt der Verfasser auf's Ge nügendste durch die Darstellung der dialektischen Methode Hegels. Sehr richtig beginnt der Verfasser zu diesem Zwecke damit, zu entwickeln , was Hegel unter dem Begriffe verstehe. Das nennt der Verfasser, „ den
+
+[p. 34] Begriff begreifen“, oder auch „ den Begriff des Begriffs,“ den vollständigen Begriff; und ehe man Dies nicht er faßt habe , könne man nicht in das Verständnis der
+
+Hegel'schen Lehre eindringen.
+
+Ein solcher uneinge weihter Leser sehe die Ergebnisse , zu denen Hegel durch seine dialektische Methode komme, vielleicht gar nur für Erschleichungen an ; wie Dies ja in der That auch von unserer No. I versichert wird.
+
+Der Verfasser fährt fort: Die Hegel'sche Dialektik besteht in nichts Anderem , als in der Anwendung des
+
+Begriffs auf die Begriffe. Um aber die Natur und die Macht des Begriffs zu erkennen, knüpft Hegel an Kants oberstes Princip der ursprünglichen Apperception des Ich an. Das Selbstbewußtsein, indem es von allem be sondern Inhalt der sinnlichen und der intelligibeln Welt absieht , kehrt zu sich zurück. Die Negation des Be sondern ist aber zugleich die Affirmation als vermittelte Einheit , welche unmittelbar im Ich , als individueller
+
+Persönlichkeit, existirt. Das Ich ist so die Einheit von Einzelnheit und Allgemeinheit , welche , als Subject Object, Gedanken und Sinnlichkeit a priori synthesirt, und jenen in dieser wiederfindet.
+
+Indem dann Hegel sich das Ziel steckte, das System der reinen Vernunft aufzubauen, mußte er in der positiven Auflösung der Antinomien, vermittelst des Princips der absoluten Negativität , die Totalität der Denkbestimmungen durch Dialektik eine aus der andern ableiten. Hier weist nun der Verfasser sehr schön nach , was „ ein Hegel“ aus der Kantischen Kategorien - Tafel hat machen können, und in der That gemacht hat. In den ersten Theil seiner Logik , in die Lehre vom Sein, hat Hegel zwar die zwei ersten Klassen der Kantischen
+
+Kategorien aufgenommen, aber nicht ohne sie vielfach [p. 35] umzuändern , und zu vervollständigen .
+
+Aus Position,
+
+Negation und Limitation machte Hegel Dasein, Anders sein und Grenze ; und hinzufügte er unter Anderem Sein , Nichts, Werden , Fürsichsein u. 8. w. Da aber zu Qualität und Quantität der dritte Begriff der Trichotomie fehlte, den Kant doch auch verlangte, so fügte Hegel das Maß hinzu. Aus den Kategorien der Relation, nämlich Möglichkeit , Zufälligkeit und Nothwendigkeit , die Hegel unter den Begriff der Wirklichkeit zusammenfaſte , hat er seine Lehre vom Wesen gestaltet ; denn die Dinge stehen in ihr im Verhältniß von Wesen und Erscheinung zu einander. Da aber die Wirklichkeit, als Verknüpfung dieses Gegensatzes, nur die dritte Stufe bildet, so fehlten hier bei Kant umgekehrt die beiden ersten. Diese waren es also, die Hegel nunmehr zu ergänzen hatte, indem er der Wirklichkeit die Stufen des Wesens und der Erscheinung voranschickte, und im Wesen z. B. die Unter abtheilung : Identität, Unterschied und Grund, behandelte. Der dritte Theil der Logik, die Lehre vom Begriff, mußte aus dem obersten Principe der Kantischen Philosophie entnommen werden ; und da fand Hegel bei Kant nur alle drei Hauptstufen : Subject, Object und Idee vor. Er mußte also hier vielmehr alle Unterabtheilungen ergänzen : im subjectiven Begriff, Begriff, Urtheil und Schluſs; im objectiven , Mechanismus , Chemismus und Teleologie ; in der Idee Beispielsweise das Wahre, das Gute und das Schöne. Aber auch im subjectiven Be griff, bemerkt der Verfasser , haben die Kategorien objective Giltigkeit. Damit gab Hegel dem Dinge an sich den Gnadenstoß : hinfort gebe es kein Jenseits mehr, und das Absolute war für Hegel wieder erkennbar geworden. Nach diesen Vorausschickungen geht der Verfasser an den durchaus löblichen Versuch, „ auch solchen Lesern 3* [p. 36] die Natur und das Wesen der dialektischen Methode
+
+Hegels aufzuschließen , welche , obgleich sie ihr ganzes Leben hindurch Philosophie ernstlich betreiben, dennoch nicht vermochten , in Hegels Philosophie einzudringen, weil sie vielleicht durch deren dem gemeinen Bewußtsein unverständlichen Sprache davon abgeschreckt wurden .“ Hier wird sich nun zeigen , daß der Verfasser die von uns allerdings vorausgesetzte wissenschaftliche Darstellung und Kritik keineswegs verabsäumte. Die damit verbundene Faßlichkeit ist aber gerade am Nöthigsten für die vom Verfasser soeben angedeuteten Leser : noch dazu, wenn sie, ohne Hegel zu verstehen , oder, wenn sie ihn zu verstehen glauben, es unternehmen, ihn zu wider legen . Um nun , fährt der Verfasser fort, diese Methode begreiflich oder doch vorstellig zu machen, müssen wir zunächst wieder auf die Natur des Ich zurückgreifen . Ein Gegenstand des Denkens, etwa eine Kategorie, wird zuerst von dem Ich einfach aufgefaßt; Das ist der Be griff an sich . Er unterscheidet sich aber nicht nur von seinem Gegenstande , sondern findet auch in ihm
+
+Unterschiede, ja entgegengesetzte Bestimmungen, sobald er auf den besonderen Inhalt eingeht.
+
+Insofern ist die dialektische Methode analytisch. Wie beide Bestimmt heiten im Ich sind , wird es dieselben auch im Gegen stande zusammenfassen , indem es die eine , welche die negative der andern ist , wieder durch die doppelte Negation negirt. Insofern ist die Dialektik synthetisch. Diesen Gedanken erläutert der Verfasser dann auf's
+
+Anschaulichste an einem Beispiele, an der Dialektik des Eins und des Vielen.
+
+Die drei Stufen sind die Thesis, als Position : die Antithesis, als Negation ; und die Sypr thesis, als Negation der Negation.
+
+Alles fußt beim
+
+[p. 37] Verfasser aber stets, wie wir es forderten, auf den Grund angeführter Stellen aus Hegel'schen Schriften. Mit der Negation der Negation beginnt eine neue Position höhern, bereichertern Inhalts, welche den Ausgangspunkt einer ähnlich verlaufenden Entwickelung bildet , bis – wenn wir nur die Logik im Auge haben – das höchste Ziel, die Idee , erreicht ist , der Begriff sich als Begriff ver wirklicht hat.
+
+Seine erste Unmittelbarkeit als Sein negirt er zweitens im Wesen, kommt dabei zum Gegen satze des Innern und des Aeußern, bis er sich drittens, durch die Negation jener ersten Negation, als sich selber wiederfindet. Nun folgt beim Verfasser ein anmuthiges Symbol dieses dialektischen Rhythmus, welches den ganzen Bau der Logik im sinnlichen Bilde dreier Kreise vor stellen soll : „ von denen jeder die beiden anderen be rührt. Darin sollen die drei Hauptstufen eingeschrieben werden ; und Das soll sich für die Unterabtheilungen zweimal in kleinern Kreisen wiederholen .
+
+Der Verfasser beschließt diese Schilderung folgender
+
+Maßen : „ Als Princip seiner Selbstverwirklichung ist der Begriff die Idee des absoluten Wissens , und , als reine
+
+Form aufgefaßt, die dialektische Methode. Die Triplicität ist von Hegel niemals mechanisch angewandt, sondern immer dem gerade vorliegenden Inhalt gemäl. So ist die Art des Fortganges in jeder der drei Haupt abtheilungen der Logik eine verschiedene. Im Sein geht eine Bestimmtheit einfach in die andere über : im Wesen scheint die eine in die entgegengesetzte , mit dem Gesetztsein der einen ist auch die andere gesetzt, - aber sie sollen auch jede abgesondert für sich gefaßt werden ; im Begriffe endlich ist die Identität seiner Momente gesetzt , deren jedes unmittelbar nur aus und mit den andern gefaßt werden kann. Die dialektische Methode [p. 38] allein befähigte Hegel zur Aufrichtung seines ganzen Systems der reinen Vernunft in allen drei Disciplinen desselben ; sie ist dessen Seele."
+
+c. Darauf beantwortet der Verfasser die Frage : Was ist bei Hegel aus der frühern Metaphysik gewor den ? " Die Antwort lautet ganz kurz : „ Wie Hegel vermittelst seiner Methode der todten Thongestalt der formalen Logik Leben einhauchte , so verhalf er auch der todten Metaphysik zu neuem Leben, — aber in einem verklärten Leibe." Und : „ Hegels Logik ist zugleich Metaphysik, indem sie durch die ihr innewohnende Dialektik nicht die Form äußerlich an den Stoff bringt, nicht in jene erst einen Inhalt hineingießt. Sondern das eigene Leben der Vernunft treibt sie unaufhaltsam weiter, bis sie sich immer vollständiger als das aussagt, was sie selber , ist, - nämlich das Absolute. So werden in Hegel die Ideen der Vernunft erkannt, die Probleme der Metaphysik gelöst : und zwar vollkommener , als irgend eine frühere Philosophie sie zu lösen vermochte.“
+
+d. Der vierte Punkt war eine Vergleichung der
+
+dialektischen Methode Hegels mit den Methoden seiner Vorgänger. Hier hätte sich der Verfasser fragen sollen , was wir unter Hegels Vorgängern ver stehen. Er selber spricht einmal von Hegels , unmittelbaren " Vorgängern. Darunter versteht er die Deutschen
+
+Philosophen, deren Chorführer Kant ist. Da wir dies Prädicat aber nicht gebrauchten, so möchten wir doch wohl unter Hegels Vorgängern , wenn nicht die Galerie der ganzen Geschichte der Philosophie, so doch alle die jenigen Heroen der Wissenschaft gemeint haben, welche Dialektik übten .
+
+Freilich weil die Dialektik das Trieb rad ist , welches die ganze philosophische Bewegung zweier Jahrtausende hervorgebracht hat , so könnte [p. 39] eine vollständige Geschichte der Dialektik leicht über den Rahmen einer Preisschrift hinausgehen. Indessen hätten wir doch wohl eine Besprechung der Griechischen Dialektik erwarten können , von welcher unser
+
+Verfasser so gut , wie nichts sagt : sogar noch weniger, als Nr. I.
+
+Da er uns jedoch durch die zutreffende
+
+Vergleichung Hegels mit seinen nächsten Vorgängern und mit Spinoza sattsam für diesen Mangel ent schädigt , so möchten wir ihm denselben wohl zu Gute halten : aber den Rath ertheilen, wenn seine Ab handlung zum Drucke kommen sollte, diese Lücke durch
+
+Einschaltung eines Capitels hinter dem zweiten auszu füllen ; was ihm nicht nur leicht fallen würde, sondern ihn auch dem Vorwurf der Kürze, wie unwichtig er auch ist, immerhin begegnen ließe. Nur des hervorragendsten Philosophen-Paares im Alterthum erwähnt der Verfasser am Schlusse seines zweiten Capitels sehr kurz mit den Worten : „ Ausser
+
+Spinoza, Kant und Fichte sind jedenfalls Plato und Aristoteles von Hegel bei der Ausbildung seiner dialektischen Methode am Meisten zu Rathe gezogen worden.
+
+Nur
+
+Dies fügt er noch hinzu : sie hätten ihm nicht direct zum Vorbild dienen können , weil Plato kein voll kommenes Bewußtsein über die Dialektik gehabt habe, und Aristoteles mit dem Schein behaftet sei , die Erfahrung zum Princip des Erkennens gemacht zu haben ; was Hegel doch ergänzend aufklärt. Der Verfasser hätte dann aber wenigstens anführen sollen , daß Plato Hegeln ein Vorbild des Mischens und Scheidens der Gedanken gegeben, und ausgesprochen habe : dem Dia lektiker, der Solches vollbringe, folge er nach, wie den Fußstapfen einer Gottheit (ust' ľx vlc Baive geoło). Von Aristoteles aber wäre zu erwähnen gewesen, daß er die
+
+[p. 40] Dialektik als den Weg zur Metaphysik bezeichnete, in dem sie das Erkennen der letztern dadurch vorbereite, daß sie einen Gegenstand nach allen Seiten hin be trachte, dadurch die in demselben enthaltenen Schwierig keiten aufdecke, und so zu deren positiver Lösung bei trage. Richtig aber ist es , wenn der Verfasser zur Vergleichung beider alten Philosophen mit Hegel noch anführt, sie hätten dessen Aufmerksamkeit auf Kategorien geleitet, die bei Kant nicht vorkommen. Da der Verfasser dieselben aber nicht näher bezeichnet, so will ich als Beispiele aus Plato das Anderssein (Topós ti), das An- und Fürsichsein (aútò xas'auto), die Identität und den Unterschied : aus Aristoteles das cóplotov, das
+
+το τί ήν είναι, das πρότερον και ύστερον u. S. wW heben . Endlich hätten auch wohl zwei große Principien der Dialektik , die natürlich bei Hegel nicht fehlen können , als schon im Alterthum vorhandene besprochen werden können , da Hegel, der früh in die Kenntniß der Griechischen Philosophie eingeweiht war, sie doch daselbst sicherlich angetroffen und studirt haben mußte . Ich meine einmal das Haupt -Princip der coincidentia oppositorum , das von den Joniern bis zu den Neu platonikern sich durch die ganze Griechische Philosophie hindurchzieht , und durch Giordano Bruno fast allen seinen Nachfolgern geläufig geworden ist. Das andere Princip ist aber die trichotomische Eintheilung , die in Proklus ihren Glanzpunkt erreichte , wie denn sogar der Charakter seiner drei Stufen dem der Hegel'schen zum Vorbilde gedient hat. – So wäre denn , zur Vervollständigung der Vergleichung Hegels mit den Griechen, die der Verfasser nur andeutet, etwa noch Folgendes auszuführen gewesen : Die Wurzeln der Hegel'schen Dialektik reichen nicht blos bis an Plato [p. 41] und Aristoteles heran, sondern sie dringen tiefer in den Boden der Griechischen Philosophie ein ; es giebt keine dialektische Errungenschaft dieser Philosophen, welche nicht von Hegel benutzt und zu einem in den vollen Blütenkranz seiner Methode eingepaßten Ring geworden wäre. Schon das von den ältesten Joniern, durch Ver dichtung und Verdünnung, behauptete Umschlagen aller Elemente und Dinge in einander ist eine thatsächliche Dialektik auf dem Gebiete der Natur.
+
+Namentlich aber ist es das erwähnte Princip von dem Umschlagen und
+
+Zusammenfallen der Gegensätze in einander , welches von Anfang an sich durch die ganze Geschichte der Dialektik hindurchzieht , und in der Hegel'schen Methode seinen endgiltigen Abschluß und seine wissenschaft liche Begründung gefunden hat. Ausdrücklich hat bereits
+
+Anaximander , der Nachfolger des ersten Philosophen, dieses Princip , als den Urquell der philosophischen Wahrheit, entdeckt, indem er sagte, daß das anfänglich Eine die Gegensätze in sich enthalte, und durch ihr Mischen und Ausscheiden alle Dinge aus sich hervorgehen lasse .
+
+Die auf die Jonier folgenden Pythagoreer haben diesen Gedanken weiter ausgebildet, indem sie das Welt all aus dem Gegensatze des Begrenzten und des Un begrenzten entspringen ließen.
+
+Doch blieben sie nicht bei diesem einfachen Gegensatze stehen, sondern stellten zum ersten Male in der Geschichte der Philosophie eine Kategorien - Tafel auf, die das erste Vorspiel der Hegel schen Logik ist. Ihrer Zahlenlehre gemäß, legten sie zehn Denkbestimmungen mit ihren entsprechenden Gegen sätzen allen Dingen zu Grunde. derselben Schule
+
+Alkmäon aber aus beschränkte sich nicht auf diese zwanzig, sondern warf unverzagt in die Geschichte der
+
+[p. 42] Philosophie den Satz hinein, daß es auf der Welt gar nichts gebe, was nicht seinen Gegensatz an sich trage. Als die eigentlichen Erfinder der Dialektik er scheinen dann die Eleaten.
+
+Wenn aber die drei ersten dieser Schule nur eine subjective Dialektik übten, in dem sie von einer einseitigen Voraussetzung ausgingen, und darnach mit leichter Mühe die entgegengesetzte Ansicht als einen unwirklichen Schein behaupteten : so hat erst Zeno , der Vollender der Schule , den Keim der objectiven Dialektik in das Erdreich der Geschichte der Philosophie gepflanzt, bis sie in der Hegel'schen Methode zu diesem Alles überschattenden Baume der Erkenntniß geworden ist. Von Zeno's Dialektik der
+
+Materie , daß diese zugleich Eines und Vieles , daß sie ebensosehr unendlich groß, als unendlich klein sei, rühmt Hegel, daß Dies bis auf den heutigen Tag unwiderlegt geblieben sei, und die Naturforscher nicht wissen, wie sie von diesem Dilemma loskommen sollen.
+
+Wenn Zeno in der Dialektik gegen die Bewegung von dieser un erreichten Höhe etwas herabsteigt, so liegt Dies darin, daß er den Gegensatz der Denkbestimmungen der Continuität und der Discretion nicht zu verschmelzen ver mochte, sondern einseitig bald an der einen, bald an der andern dieser Kategorien mit Strengigkeit fest hielt. Hegel aber hat in seiner Dialektik nicht nur die Antinomie der Bewegung, sondern auch die der Materie glücklich gelöst. Indem Xenophanes das „Weder Noch “ des Begrenzten und des Unbegrenzten, Parmenides und Melissus deren „ Entweder- Oder aus sprechen : Zeno aber zu ihrem „ Sowohl-Als auch“ gelangt ist ; so haben die Eleaten die drei Stufen der Hegel schen Dialektik einzeln aufgefunden , damit Hegel sie [p. 43] in die eine Totalität des Kreislaufes seiner Methode zusammenfassen könne.
+
+Nunmehr aber gelangt die Geschichte der Philosophie an einen Heros der Dialektik, von dem Hegel selbst einräumt, daß es in dessen Dialektik keinen Satz gebe, der nicht auch in seiner eigenen Logik vorkomme. „ Alles ist und ist auch nicht , Sein und Nichtsein ist
+
+Dasselbe“, – Das stellt Heraklit sogleich an die Spitze seiner Lehre , wie Hegel an die der seinigen . Wenn aus der Verknüpfung dieser ursprünglichsten Kategorien Heraklit dann das Werden, als den ewigen Fluß aller
+
+Dinge, ableitet : so folgt Hegel auch hierin des Ephesiers Fußstapfen. Heraklit fährt darauf fort: „Verknüpfe Ganzes und Theile , Harmonisches und Disharmonisches , Eines
+
+Hierbei spricht er den großen Satz aus : „ Jeder Gegensatz sei zugleich Dasselbige mit seinem andern Gegensatze, und auch wiederum nicht Das selbige. Die beste Harmonie der Gegensätze sei also
+
+Vieles“ u. S. W.
+
+die verborgene." Das ist nun gerade das innerste Geheimniß der philosophischen Wahrheit, das uns Hegel durch seine Methode erschlossen hat.
+
+Denn während er das Bestehen der Gegensätze in der wirklichen Welt. behauptet, schließt er sie doch in den innersten Tiefen der Gedankenwelt zu Einer concreten Einheit zusammen.
+
+Durch dies Erhalten des Unterschieds sagte sich Hegel von seinem Jenensischen Freunde los , indem er den selben mit dessen inhaltsloser Identität des Absoluten auf dem Weltenthron vereinsamt sitzen liess.
+
+Der Nachfolger des Heraklit, Empedokles , folgt zwar der dialektischen Thätigkeit seines Vorgängers.
+
+nach, kann aber wegen seiner poetischen Haltung dessen Kraft nicht bewahren . Er schwankt in der Darstellung seines Weltprocesses zwischen den Kategorien der Einheit [p. 44] und der Vielheit hin und her. Bald geht ihm das Welt all zertrümmert in das Eins zurück , bald entwickelt es sich ihm verjüngt als Vieles aus dem Einen. Außer dem spaltet er diesen Uebergang des Einen in das Viele und des Vielen in das Eine noch in drei unter geordnete Weltprocesse, indem er aus dem Einen die Vielheit der Atome, dann aus deren Verknüpfung die vier Elemente , und endlich aus diesen die übrigen Dinge entspringen läßt.
+
+Die Atomistiker, Leucipp und Demokrit , knüpfen directer an Heraklit an, indem sie dem positiven Satze desselben : „ Alles ist und ist auch nicht,“ den negativen entgegenhielten : „ Weder das Sein ist, noch das Nicht sein . “
+
+Das Sein sei das Volle, das Nichtsein das Leere ;
+
+es gebe aber weder schlechthin Volles, noch schlecht hin Leeres.
+
+Denn alle Dinge seien aus Vollem und
+
+Leerem gemischt, also von verschiedener Dichtigkeit. Die drei letztgenannten Systeme stellen wieder die drei Stufen der Hegel'schen Dialektik aber in der den Eleaten entgegengesetzten Reihenfolge auf. Heraklit beginnt damit , womit die Eleatische Schule endet : mit dem „" Sowohl-Als auch “ des Seins und des Nicht seins.
+
+Empedokles steht auf der zweiten Stufe , wie
+
+Parmenides und Melissus , indem er auf dem Ent weder-Oder des Einen und des Vielen verharrt.
+
+Atomistiker endlich kehren zur ersten Stufe, die Xeno phanes einnimmt , zurück , indem sie das Weder-Noch des Seins und des Nichtseins behaupten.
+
+Nachdem nun Anaxagoras nicht mehr nur die eine oder die andere Denkbestimmung, sondern den Gedanken überhaupt, die allgemeine Vernunft, zum Principe der Welt gemacht hatte, da verwandelte sich die Bühne der
+
+Geschichte der Philosophie vollständig. Als so an die
+
+[p. 45] Stelle der Natur die Gedankenwelt getreten war, hatte die Dialektik ihren eigentlichen Boden erreicht ; und wir sehen immer deutlicher das Werden der Hegel' schen Dialektik sich aus ihren Griechischen
+
+Wurzeln entwickeln.
+
+Zunächst freilich scheinen die auf Anaxagoras folgenden Philosophen einen Gegensatz gegen die wahre Dialektik zu bilden ; doch wurde diese durch einen Kampf gegen jenes Nebenbild erst recht gekräftigt. Kaum hatte Anaxagoras durch sein Princip Alles, was nicht der Gedanke war, wankend gemacht : so ergriffen auch schon die Sophisten dieses Werkzeug des Gedankens, um ver mittelst desselben den selbstsüchtigen Zweck des einzelnen Subjects zu fördern . Durch Beredsamkeit wollten sie das Subject in der Wissenschaft und im Staate mächtig machen, damit es über seine Mitbürger zur Herrschaft gelange. Heute sollte der Redner seine Hörer von diesem Satze , morgen vom entgegengesetzten zu über zeugen in den Stand gesetzt werden, je nachdem es ihm für seine Zwecke am Nützlichsten schien. Diese Kunst, welche, als das Zerrbild der Dialektik , die Antilogik genannt wurde, trug durch ihre Widerlegung das Meiste dazu bei, die wahre Dialektik von solchen Schlacken zu reinigen . Gorgias suchte in seiner Schrift „ Ueber die Natur oder das Nichtsein " zu beweisen, daß das Sein nicht sei :
+
+daß, wenn es auch wäre, es doch nicht zu erkennen ; und wenn auch erkennbar, jedenfalls nicht einem Andern mit zutheilen sei. Prodikos wendete die Antilogik in seiner
+
+Lehrfabel: ,,Hercules am Scheidewege," praktisch an , in dem er die Tugend und das Laster entgegengesetzte Reden an denselben halten ließ. Protagoras endlich brachte den Standpunkt der Sophisten zum Bewußtsein , indem [p. 46] er sagte , daß der Mensch das Maß aller Dinge sei : aber nicht der Vernunftmensch , sondern der sinnliche Einzelne mit seinen selbstsüchtigen Zwecken. In dieser Rücksicht behauptete daher auch dieser Sophist , Alles sei nur so , wie es jedem Einzelnen erscheine. Das ganz Aeußerliche der Antilogik zeigt Protagoras aber darin, daß er die Gegensätze, die an einem Gegenstande zum Vorschein kommen , nur in verschiedenen Rück sichten auf denselben bezog. Er sagte z. B. , acht sei sowohl groß , als klein : groß , wenn man es auf vier ;
+
+klein , wenn man es auf zwölf beziehe.
+
+Gegen diese falsche Dialektik erhob sich nun zuerst Sokrates , um mit echter Dialektik die Sophistereien seiner Vorgänger zu widerlegen , und darauf erst die
+
+Idee des Guten positiv im Geiste seiner Mitbürger zu erzeugen .
+
+So machte er den Vernunftmenschen zum
+
+Maß aller Dinge. Nachdem er durch Frage und Ant worten seine Mitunterredner in Widersprüche verwickelt, und zum Geständniß gebracht hatte , daß sie nichts wüßten , ließ er sie selber aus ihrem eigenen Innern heraus das Gute durch Einsicht finden .
+
+Nunmehr trat die große Gestalt des Plato auf, welcher den Kampf gegen die Sophistik weiter fort führte. Man müsse , hielt er dem Protagoras vor , die Identität der Gegensätze nicht in verschiedenen Rück sichten an einem Gegenstande nachzuweisen suchen ; sondern in derselben Rücksicht , nach welcher Etwas z. B. Eins ist, sei es auch Vieles. Darin liegt die näher e Verwandtschaft der Platonischen Dialektik mit der Hegel' schen, wie wenn wir vom Organismus sagen wollten, die Seele sei gerade dadurch Eins , daß sie in den vielen Gliedern des Körpers sich selber durchsetze. So ist Plato einer der einflußreichsten Vorgänger Hegels ge [p. 47] wesen .
+
+Nur beklagt sich Hegel freilich noch darüber, daß diese Platonische Dialektik sich nicht immer rein gehalten habe , und ihrem Urheber das volle Bewußtsein über deren Natur noch nicht aufgegangen sei. So geht Plato im Parmenides immer noch von Voraus setzungen aus ,, wie die Eleatische Schule. Allerdings macht er nicht mehr eine einseitige Voraussetzung , wie Sondern, nachdem er die eine Voraussetzung z. B. die des Einen, gemacht hatte, geht er zur andern diese.
+
+Voraussetzung , der des Vielen, über. Auch entwickelt er aus einer jeden, was folge, oder nicht folge, wenn sie sei, oder nicht sei, sowohl in Bezug auf sie selber , als hinsichtlich ihres Gegentheils. Ebenso verfährt Plato mit andern Kategorien , wie Sein und Nichtsein , Identität und Unterschied , Ruhe und Bewegung. Das Ergebniſ ist aber am Schlusse dieses Dialoges also ausgedrückt : „ Das Eins , möge es sein oder nicht sein, sowohl es selber, als die anderen Gedanken , und sowohl für sich selbst, als für einander , sind ganz und gar und sind auch nicht , erscheinen und erscheinen auch nicht.“ Dieses pegative Ergebniß hinderte den Neuplatoniker Proklus durchaus nicht, darin die Enthüllung der innersten Natur des Absoluten zu erblicken.
+
+Im Sophisten wird dann das positive Ergebniß der Dialektik dergestalt gezogen, daß dieselbigen Kategorien in ihrer Verknüpfung aufgefaßt werden : und erst da durch fähig geworden sind , die innerste Natur der
+
+Wahrheit zu enthüllen. Mit diesem „ Sowohl-Als auch “ hat Plato sich mithin bis in die dritte Stufe der Hegel schen Dialektik erhoben. Er bekämpft daher den Parmenides, als sei nur das Sein ; und er nennt ihn in dieser Rücksicht einen Freund der Ideen , weil derselbe die
+
+Unbeweglichkeit des Seienden behaupte. Diesem Idealis [p. 48] mus setzt Plato die Lehre entgegen , wonach es nur Körperliches gebe ; Das ist also Das , was wir jetzt den Materialismus nennen würden. Gegen beide Einseitig keiten tritt nun Plato auf, indem er sagt: die Welt, als das Seiende, besitze Leben , Thätigkeit. Dazu gehöre aber auch das Nichtsein, als die Quelle der Veränderung. Identität und Anderssein, Sein und Nichtsein, Ruhe und
+
+Bewegung , Einheit und Vielheit seien daher in der
+
+Welt gemischt und auch unterschieden ; und Das sei erst das wahrhaft Seiende" (Tavte 5 öv).
+
+Im Philebus werden sittliche Gegenstände auf die reinen Kategorien des Gedankens zurückgeführt; und Hegel rühmt Dies sehr , indem in solchen „ reinen Ge danken“ das Substantielle enthalten sei, da ihnen über alles noch so Concrete, noch so fern Liegende die letzte Entscheidung gebüre. Das Vergnügen sieht Plato nämlich als das Unbestimmte an , weil in der That die
+
+Begierde in’s Unendliche geht, aus der Befriedigung wieder in die Begierde verfällt, und so fort. Dem gegen über, fährt nun Plato fort, sei das Bessere die Grenze , welche durch die Klugheit (opóvnois) , als das sich selbst Bestimmende, am Unbestimmten des Vergnügens gesetzt werde. Das sei drittens das Maß, als die Vernunft, durch welche die Gesundheit im Organismus, die Harmonie in der Musik , das Gute und Schöne in der Sittlichkeit erzeugt werde. Hegel tadelt nur den Platonischen Ausdruck des „ Gemischten “ für dieses Dritte , indem er bemerkt, daß derselbe ein ungenauer sei, den wir nicht gebrauchen würden. Eine ebenso große Hilfe, wie die Platonische Dialektik, hat auch die Aristotelische der Hegel'schen Methode gebracht. Aristoteles beginnt damit, der Dialektik drei Thätigkeiten zuzuschreiben : Erstens sei sie nützlich, [p. 49] um die Denkkraft zu üben (Tipos youvacia ). Zweitens leiste sie vortreffliche Dienste , um die sophistischen Beweisführungen, nicht nur der eigentlichen Sophisten, sondern auch der Megariker, die oft bloße Wortspiele sind, zu widerlegen (Tapos taç SVTEVEELG). Hier ist es , wo Aristoteles den großen Satz , den Hegel sich in vollem Maße angeeignet und zur Anwendung gebracht hat, aus spricht : man dürfe bei der Widerlegung eines Gegners nicht von seiner eigenen Voraussetzung ausgehen , sondern müsse sich in die Kraft desselben versetzen , um von Innen heraus dessen Ansichten zu widerlegen. Den dritten, den Hauptzweck der Dialektik, welchen
+
+Aristoteles angiebt, habe ich schon vorhin besprochen . Es wäre hier nur noch hinzuzufügen , daß Aristoteles in dieser Rücksicht die Dialektik als eine suchende, ver suchende, forschende: die Philosophie selber aber als eine lehrende bezeichnet ( πειραστική ων η φιλοσοφία Oldaxtixen ). Das Nähere seines Verfahrens ist aber dieses, daß er zuerst die Schwierigkeiten auflöst, welche sich bei der Behandlung eines Gegenstandes durch die An sichten seiner Vorgänger herausgestellt haben. So dann geht der Stagirite zu den Schwierigkeiten über, die in dem vorliegenden Gegenstande selber enthalten sind, löst auch diese auf, und gelangt auf diese Weise durch die Totalität der Erfahrung zur Anschauung der Principien in ihr. Damit erledigt sich zugleich die Bemerkung unseres Verfassers, als ob Aristoteles' Lehre der
+
+Schein treffe, lediglich aus der Erfahrung abgeleitet zu sein ; denn Hegel, der dem Aristoteles die tiefste Specu lation zuerkennt, setzt hinzu, diese falle mit der totalen Erfahrung in Eins zusammen. Von Aristoteles haben wir zum Schlusse noch zu erwähnen , daß er der Zweite ist , welcher Hegel das
+
+[p. 50] Beispiel einer Kategorien - Tafel gegeben hat, wie dieser sie dann in seiner metaphysischen Logik entwarf. Gegen die Pythagoreer machte Aristoteles aber den Fortschritt , daß er lauter reine Gedankenbestimmungen in seine zehn ersten Kategorien, wie in die fünf Postprädicamente aufnahm , mit alleiniger Ausnahme von Raum und Zeit : während die Pythagoreer noch mehrere Gegensätze aus den Gebieten der Mathematik, der Natur und der Sitt lichkeit entnahmen .
+
+Nunmehr gelangen wir an einen Dialektiker, an den letzten der Griechischen Philosophen , in welchem die Strahlen der Dialektik in so mächtiger Fülle die Hegel'sche Methode durchzucken , daß die innigste Verwandtschaft beider Methoden Niemanden , der sie ernsthaft mit ein ander vergleicht, entgehen kann. Wir haben schon in dem ersten Gutachten angegeben , wie die triadische Construction in Proklus den drei Stufen der Hegel'schen Dialektik ganz und gar vorgebildet ist. Aber nicht nur diese Gliederung der Methode hat der Vollender der Philosophie des Alterthums mit dem his jetzt noch letzten Deutschen Philosophen gemein. Sondern Beide über tragen die Trichotomie ihrer Methoden auch auf die trichotomische Eintheilung des Weltalls. Proklus spricht von drei Weltordnungen (Sloxoguos), als den drei Formen , in denen sich das Absolute abspiegele und in deren jeder es ganz vorhanden sei .
+
+Während aber einer seiner Vorgänger , Plotin , in der Reihenfolge dieser Weltordnungen , den Geist unmittelbar auf das Logische folgen lasse , und die Natur als das Letzte in der Reihe hinstelle : habe er (Proklus) vielmehr, nach Anleitung seines Lehrers Syrianus , die Natur in die Mitte gestellt. Das ist auch das ganz Richtige, das sich denn auch bei Hegel wiederfindet.
+
+[p. 51] Als selbst ein Ganzes , stelle jede Weltordnung dann in ihrer innern Gliederung wieder die ganze Trias dar. Die logische Trias, als das blos gedachte Absolute, ent halte die drei Momente auf eine einfache Weise ( Evlade), oder in der Form der Grenze (Tepatoeldvę). Die erste Kategorie in dieser Trias ist dem Proklus die Einheit (éváę) ; diese , indem sie sich selbst negire , erzeuge die unendliche Vielheit als das zweite Moment.
+
+Proklus be merkt, daß diese erzeugende Negation (attópaols yavvntexń) sehr verschieden von der beraubenden (otepa texn) sei. Sollte sich nicht hierin der erste Keim der „absoluten
+
+Negativität“ bei Hegel finden ? Die dritte Kategorie im ersten Kreise nennt Proklus die Grenze (répas) selbst als die Verknüpfung des Einen mit dem Unendlichen ; und diese bezeichnet er , wie Plato, als ein uextóv . Im zweiten Diakosmos, in der Natur, welche Proklus auch das Leben nennt , sei Alles auf vielfache und un endliche Weise enthalten . Als deren einzelne Kategorien macht er aber wiederum , ganz im Hegel'schen Sinne, Das, was das Letzte in der ersten Trias war, zum Ersten in der zweiten. Die Grenze oder das Gemischte wird hier in der Natur zur Substanz (oủola) ; was wir auch das Formprincip heißen können . Das, was in der ersten Trias das Unendliche war , wird in der zweiten Trias zur un bestimmten Möglichkeit (duvauıç) : und entspricht also der materiellen Ursache, dem Stoffe, in welchem die Form Als die Verknüpfung von Form und sich ausbildet.
+
+Materie gilt dem Proklus aber das Leben (own) ; diese dritte Kategorie der Natur würden wir den Organismus nennen .
+
+In der Natur stellt sich das Absolute sowohl als gedacht, wie auch als denkend dar. Die dritte Trias ist dagegen das rein nur denkende Absolute. Das ist die Vernunft oder der Geist, die Rück 4 * [p. 52] kehr des Wesens in sich selbst zum Principe. Der Geist ist die höchste Spitze (áxpótns) des Seins. In dem Ge dachten ist die Vernunft, und in der Vernunft das Ge dachte ; aber im Gedachten ist die Vernunft auf gedachte, d. h. objective Weise ( vontớc): in der Vernunft das Ge dachte auf productive Weise (vosp@6) enthalten. Das Ergebniſ der Dialektik ist dann , daß das zunächst uner kannte Absolute nunmehr erkannt sei.
+
+Alle drei Triaden offenbaren auf mystische Weise die Causalität des Absoluten : die erste seine unaussprechliche Einheit; die zweite die Ueberschwänglichkeit aller Kräfte ; die dritte die vollkommene Ausgeburt aller Wesen. Diese drei Triaden bezeichnet Proklus auch als Wahrheit, Schönheit und Symmetrie ; aber alles Dieses sei Ein Denken. Wir sehen hier durch die Kraft der Dialektik die
+
+Intellectualwelt, wie sie sich im Innern des Geistes ent wickelt. Sie hat alles Seiende in sich aufgenommen , um es wieder aus sich zu erzeugen. Daher neigen sich diese Neuplatoniker zur Magie , in welcher ja eben das Sein unmittelbar aus dem Geiste fließt.
+
+Dieser in sich vollkommen ausgebildeten subjectiven Idee tritt dann die objective Idee , als ein dem Subjecte Fremdes ent gegen. Dieselbe Intellectualwelt, welche der Philosoph bis jetzt in seinem Denken zu bergen meinte , erhebt sich nunmehr hinter dem Bergkolos des Glaubens als. eine jenseitige Welt , in welcher alle Wahrheit in ewiger Ruhe vorhanden sei. Die diesseitige Welt ist dagegen in den höchsten Gegensatz zerrissen , um aus demselben zur höchsten Einheit zurückzukehren.
+
+Für die thätige, zeugende Dialektik war hier kein Platz, sondern bei den Gegensätzen, welche das Mittelalter herausbildete , Vernunft und Glaube, Denken und Sein, Natur und Geist, blieb für die Dialektik nur die formale
+
+[p. 53] Seite des disputirenden Verstandes über den gegebenen Inhalt übrig. Dies formale Denken erreicht in der Disputirme thode von Duns Scotus seinen glänzendsten Höhepunkt.
+
+In der ars magna des Raymund Lullus wird die Dialektik aber sogar zu einem mechanischen Spielzeug, in dem er sechs concentrische Kreise um einander zog, dieselben vom Umkreise bis zum Mittelpunkte in neun Fächer theilte, und in jeden der Kreise neun Kategorien einschrieb : zuerst neun absolute Prädicate , zweitens neun relative Prädicate. Den dritten Kreis füllten eben soviel Fragen, den vierten neun allgemeine Substanzen, den fünften neun natürliche Accidenzien.
+
+Der sechste
+
+Kreis endlich enthielt neun sittliche Eigenschaften. In dem nun ein Theil dieser Kreise beweglich, ein anderer unbeweglich war, so entstanden durch Drehungen die verschiedensten Combinationen dieser vierundfünfzig einzelnen Kategorien. Vermittelst solcher Verknüpfungen wollte Lullus jede Erkenntniſ herbeiführen . So himmelweit unterschieden diese mechanische Beziehung der Denkbestimmungen auf einander von der wahren Dialektik auch immer ist : so erinnert sie doch in sofern an die Hegel'sche Logik , als sie der dritte Versuch ist, die Denkbestimmungen, welche das Wesen des Geistes ausmachen, zu einer umfassenden Totalität zu entfalten. Von dem vierten Versuche, der Kantischen Kategorientafel, brauche ich hier nicht zu reden , weil der Verfasser dieselbe schon so richtig als eine der
+
+Hauptquellen der Hegel'schen Logik nachgewiesen hat. Merkwürdig bleibt aber , daß der gewaltige Geist, welcher, die Fesseln des Mittelalters abschüttelnd, den Keim der neuern freien Philosophie in den Boden der Geschichte legte , ich meine Giordano Bruno , 80 [p. 54] große Stücke auf jene „ große" Lullische Kunst hielt. Sie war es, um derentwillen er Europa bereiste , weil er sie überall verbreiten wollte. Aber die Begeisterung für diesen Formalismus hielt ihn nicht ab, die wesentlichen Ergebnisse der Griechischen Dialektik als den Inhalt seiner philosophischen Ueberzeugungen auszu sprechen. Damit ist er denn eine der Hauptstützen des Wiederauflebens der Wissenschaften geworden : ist muthig in die Bahn der Ueberlieferungen eingetreten, und bildet siegesgewiß das verbindende Mittelglied zwischen der zwischen Griechischen und der modernen Dialektik , Aristoteles und Hegel. Bruno hat der Neuzeit das
+
+Princip der coincidentia oppositorum übergeben ; und der erste Gründer der neuern Philosophie, Cartesius , hat dieses Zusammenfallen der Gegensätze im : cogito, ergo sum , sogleich an die Spitze seiner Philosophie gestellt. Was aber den wesentlichen Inhalt der Gedanken
+
+Bruno's betrifft, so knüpfte er dabei an die vier von Aristoteles aufgestellten ersten Ursachen an. Er sagte, die materielle, die formelle, die bewegende und die Zweck ursache sind Ein und dasselbige. Es sei dasselbige das im Gehirn Princip , – die allgemeine Vernunft, des Menschen denke , in den Metallen bilde und die Pflanzen keime wachsen mache .
+
+Wie die Natur Alles aus Allem schaffe, so erkenne der Verstand Alles aus Allem .
+
+Daraus folgerte dann Spinoza , daß in der absoluten Substanz Denken und Ausdehnung identisch seien . Weiter brauchen wir Spinoza's Vergleichung mit Hegel hier nicht anzu stellen. Denn an Spinoza knüpfte ja der Verfasser selber an , indem er uns denselben als eine der Hauptquellen der Hegel'schen Dialektik vorgeführt hat.
+
+Das Größte aber , was Bruno ausgesprochen hat , ist Dies : es sei [p. 55] schwerer, nachdem alle Gegensätze in die Einheit der Weltseele zusammengefaßt worden seien, die Unterschiede, zu denen sich die Idee entfalte, wieder aus der Einheit herauszufinden. Es ist zwar Bruno's Irrthum, Dies etwa durch die Lullische Kunst erreichen zu können. Nichts desto weniger bleibt der geniale Zug unangefochten und unverkürzt bestehen, durch welchen Bruno in dem zuletzt erwähnten Satze geradezu den Angelpunkt vorgeahnt hatte, mit welchem das Schelling'sche Identitätssystem in den absoluten Idealismus Hegels umschlug. Denn Hegel be willigte auch den Unterschieden ihr Recht, indem er ihnen die Realität nicht absprach, während Schelling dieselben als ganz ideelle in die absolute Identität aufgehen ließ. –
+
+Die Vergleichung Hegels mit seinen unmittelbaren Vorgängern brauche ich aber nicht näher auszuführen, weil der Verfasser dieselbe sowohl in Bezug auf den Inhalt ihrer Lehren , als hinsichtlich der Methode selber behandelt hat. Die Methode Spinoza's nennt der Verfasser eine un genügende, weil die Mathematik, obgleich sie, wegen ihrer Evidenz, stolz gegen die Philosophie thut, noch an der Mangelhaftigkeit ihres Stoffs, welcher nur die Größe ist, leide. Auch nehme Spinoza die Definitionen und Axiome ohne weitere Untersuchung als ausgemacht an . Kant nahm zwar einen Anlauf zu einer mehr wissen schaftlichen Methode, er geht aber nur erzählend zu Werke: schöpft z. B. die Kategorien ohne Prüfung aus der Tafel der Urtheile, und die Seelenvermögen nur aus ihrem Ge gebensein. Auch bleibt Kant in dem Dualismus stecken, die
+
+Kategorien ohne die Anschauungen für leer , und diese ohne jene für blind auszugeben. Die einzige Erkenntniß ist ihm die Erfahrung, der einzige Gegenstand des Wissens das Endliche. So bleiben Ding-an - sich und Erscheinung unvermittelt einander gegenüber stehen . In der Dialektik [p. 56] kommt Kant nicht weiter, als bis zur zweiten Stufe. Die
+
+Vernunft erreicht nur das negative Ergebniß, daß wir die unendlichen Ideen nicht erkennen, sondern nur glauben können, weil sie nicht in dem Context der Erfahrung ge geben, nur Ideen seien.
+
+Weil Kant auf halbem
+
+Wege stehen blieb, so sagt der Verfasser sehr poetisch : „ Aus dem herrlichen Marmorblock der Kritik der reinen Vernunft meißelte Hegel seine von Kopf bis zu Fuß ge harnischte Athene." Jacobi aber diene nur als Gegenstück und Ergänzung Kants; denn er fängt damit an , womit Kant endet, – mit dem Glauben. Fichte steht zwar auf dem Standpunkt des Subject Objects; er will die Welt aus dem Ich ableiten, unter nimmt eine Deduction der Kategorien. Indem er aber den Kantischen Idealismus nur reiner und strenger durch geführt habe, so war er noch mit der Einseitigkeit be haftet, die Kant nicht los werden konnte : Das Ueber wiegen des Subjectiven konnte auch Fichte nicht weg bringen. Nach Spinoza, setzt der Verfasser hinzu, habe Fichte indeß für Hegel den besten Mörtel zum Aufbau seines Systems geliefert. Was Schelling anbetreffe, so durchschaute Hegel früh dessen Hauptmangel. Er lobt ihn, daß er, in einer Zeit der Gährung, das absolute
+
+Princip der Philosophie den wahren Inhalt derselben wieder hergestellt habe ; aber er begnüge sich mit dessen Aufstellung, ohne ihn wissenschaftlich bewiesen zu haben. Er suche , als ein Unfertiger , vor dem Publicum stets nach einer neuen Form ; bald bediente er sich der mathematischen Methode , bald der Construction , auch des Dialogs. Ein vernichtendes Urtheil fälle Hegel aber gegen Schellings schematisirenden Formalismus, wo ein Gegenstand mit einem andern nach oberflächlichen Analogien nur verglichen werde, ohne daß man eben er [p. 57] fahre, was der eine und der andere sei.
+
+Schellings
+
+Methode habe auf diese Weise abschreckend auf Hegel gewirkt; und da dieser es nicht geliebt habe, sich vor dem Publicum zu bilden , habe er im Gegensatze zu seinem jüngern Freunde sein System erst ganz in der Stille ausgearbeitet, bevor er mit dem fertigen an die Oeffentlichkeit getreten sei. Auf die von Schelling im Alter vorgenommene Neubildung seines ursprünglichen Systems, das er selbst „ die Erfindung seiner Jugend" nannte, bezieht sich die kurze Bemerkung des Verfassers, daß er, von der Glaubensphilosophie Jacobi's geleitet, durch seine Philosophie der Offenbarung eine trostlose Zeit heraufführte, wo er eine Philosophie aufstellte, die keine war.
+
+Am Schlusse dieser von Verfasser angestellten Ver gleichung kann ich nicht umhin, zu erwähnen, daß auch dieser Mitbewerber , wie die beiden anderen , Solgers mit keiner Silbe gedenkt. Dieser bedeutende Denker scheint gar nicht recht in's Bewußtsein seiner Zeit genossen eingedrungen zu sein. Ich habe bereits ange führt, wie sehr seine Dialektik der Hegel'schen ähnelt; nur Das ist noch sein Irrthum , die Gesprächsform als die höchste Darstellungsweise der Philosopbie behauptet zu haben. Denn die Gegensätze, die sich im lebendigen Fortschritt des Vortrags in einander bewegen sollen , müssen nicht durch die zufälligen Meinungen sich unterhaltender Persönlichkeiten vermittelt werden ; sondern die Kategorien selbst müssen in eigener Person gegen einander kämpfen. Solgers Dialektik hätte also allerdings am ge eigneten Orte vom Verfasser besprochen werden müssen. Die Solger'sche Methode bildet nämlich ein merk würdiges Mittelglied zwischen der Hegel'schen Dialektik, dem von Schelling hergestellten wahren Inhalt der Philo [p. 58] sophie, und der von Schleiermacher , ungeachtet sei nes Gefühlsglaubens, entwickelten Form der Dialektik .
+
+Denn Solger will eben den absoluten Inhalt der Schelling schen Philosophie wieder in die Form des Schleier macher'schen Glaubens erheben : und bringt der Hegel schen Dialektik diese Verknüpfung entgegen. Man würde aber Unrecht thun, wenn man auch Solger noch für einen Vorgänger Hegels ansehen wollte, aus welchem die Hegel'sche Methode unmittelbar hervorgegangen sei. Die Sache verhält sich vielmehr, höchst wahrscheinlicher
+
+Weise, umgekehrt so, daß Hegel das Vorbild ist, welches sich Solger bei der Entwickelung seiner Dialektik vor gesetzt hat. Die Schrift über : „ Sein, Nichtsein und Er kennen “, welche in die letzten Lebensjahre Solgers fällt, hat sich offenbar den sieben Jahre vor Solgers Tode (1819) erschienenen ersten Band von Hegels Logik zum
+
+Muster genommen . Dabei soll nicht geleugnet werden, das die sonstige Art und Weise , wie Solger seine dialektische Methode darstellt, auch unabhängig von der
+
+Kenntniß des Hegel'schen Standpunktes gewonnen worden sein kann . Wenigstens stellt Solger selbst in einem Briefe an Tieck vom 26. April 1818 die Sache so dar : ,,Ich verehre Hegel sehr, und stimme in vielen Stücken höchst auffallend mit ihm überein.
+
+In der Dialektik haben wir Beide unabhängig von einander fast denselben
+
+Weg genommen.“ (Nachgelassene Schriften, Bd. I, S. 620.) Darin liegt eine gewisse Rechtfertigung, daß Solger übergangen wurde. Die Dialektik Schleiermachers geht von den höchsten
+
+Gegensätzen aus , deren Versöhnung die neuere Philosophie anstrebt.
+
+Schleiermacher bezeichnet dieselben als ,,das Sein und das Wissen ; das vollkommene und beharrliche Gleichgewicht beider Glieder des Gegen [p. 59] satzes kann nur dem höchsten Sein und Wissen zu kommen. Jedes besondere Wissen, und somit auch das Sein , dessen Ausdruck es ist , besteht nur in Gegen sätzen und durch solche . Durch je weniger Gegensätze es bestimmt ist, um desto mehr ist es ein Allgemeines. Denn je allgemeiner es ist, desto mehr untergeordnete Gegensätze begreift es in sich : je einzelner, desto mehr Beigeordnetem ist es entgegengesetzt. Das höchste Wissen ist gar nicht durch Gegensätze bestimmt, sondern der schlechthin einfache Ausdruck des mit ihm selbst identischen höchsten Seins. Die höchsten Gegensätze, welche im Absoluten verknüpft sind, heißen Natur und Geist, Gott und Welt.
+
+Aber diese höchste Einheit läßt sich nicht positiv in der Wissenschaft darstellen.
+
+Wir können uns ihr nur annähern , und besitzen nur eine negative Erkenntniß derselben , indem wir nur sagen können, was sie nicht ist. “ Das ist denn allerdings ein Rückfall in die Kantische Unerkennbarkeit des Dinges an sich.
+
+Nur setzt Schleiermacher an die Stelle des
+
+Kantischen Glaubens das Poëtische und Mythische, wenn man sich das Absolute positiv vorstellen wolle.
+
+An diese Schleiermacher'sche Dialektik knüpft nun die Solger'sche an, um an die Hegel'sche heranzukommen. Solger geht von einer ewigen Thatsache aus, die er, als
+
+Glauben und Erfahrung, der Philosophie vorangehen läßt. Philosophiren können wir nur, wenn wir zuvor diesen Glauben haben.
+
+Dieser aber ist nicht der Glaube an ein leeres , höchstes Wesen ; sondern die Thatsache des Glaubens ist, daß das Absolute sich als die Einheit der
+
+Gegensätze offenbare. In der Natur spalte sich das Absolute in Gegensätze; im Geiste kehre es aus dieser Zer splitterung zur Einheit zurück. Dieser doppelten Thätig keit des Absoluten entsprechen zwei Erkenntnißarten [p. 60] der Philosophie ; die eine sei die niedere Erkenntniß des Verstandes, welche die Gegensätze in ihrer Trennung auffasse.
+
+Die höhere Erkenntniß , welche Solger die
+
+Veruunfterkenntniß nennt, verknüpfe die Gegensätze zur Einheit. Beide Erkenntnißarten zusammen genommen, bilden erst das philosophische Wissen ; denn , um die Gegensätze zur Einheit zusammenzufassen, müssen sie vorher als getrennte auftreten . Die Thätigkeit des Philosophen bestehe nun darin , sich durch diese dia lektische Bewegung in die absolute Thatsache zu ver senken und dadurch Eins mit ihr zu werden .
+
+In seiner Aesthetik nennt Solger den Untergang des Individuums daran, daß die sittliche Macht ihre
+
+Kraft und Geltung bewährt, die tragische Ironie. Wir könnten dieselbe auch auf das philosophirende Subject Solgers übertragen.
+
+Das bildet eben den Unterschied zwischen den beiden sich so nahestehenden Standpunkten. Hegel läßt das Individuum , wie in dem Fichte'schen Idealismus, erhalten bleiben, indem es sich in den absoluten Inhalt taucht, wie ihn die ursprüngliche Philosophie Schellings dargestellt hat.
+
+Der zweite Unterschied zwischen Solger und Hegel, wodurch Solger den Hegel'schen Standpunkt noch nicht erreicht hat, ist der, daß er seine Philosophie noch in die Form des Gesprächs gekleidet hat. Er sagt zwar zuvörderst, daß die Lebendigkeit des Vortrags dadurch gewinne , daß wirkliche Personen die Vertreter der
+
+Gegensätze seien, welche einander bekämpfen und sich in einander auflösen sollen .
+
+Aber wie schon bei Plato das Gespräch mehr nur eine äußerliche Form ist , die in dessen spätern Dialogen zu immer größerer Aeußer lichkeit herabsinkt : so ist Solger das Bewußtsein dieser
+
+[p. 61] Zufälligkeit nicht entgangen. Er läßt in einem Dialoge einen Mitunterredner selber eingestehen, daß ihre Unter redung eine Quälerei sei , mit der sie am Ende doch nichts vor sich bringen würden. Jetzt bleibt mir nur noch übrig , eine Probe der Solger'schen Dialektik zu geben. Da kann ich denn kein besseres Beispiel wählen, als die schon angeführte Schrift: ,,Sein , Nichtsein und Erkennen, weil Solger in ihr
+
+Hegel am Nächsten steht. Die Gegensätze, die Schleier macher Sein und Wissen nennt , treten bei Solger als
+
+Sein und Erkennen auf. Das allgemeine Sein, oder die absolute Thatsache sei eben die Totalität aller Besonderheiten , aller Bestimmtheiten des Seins : jedes einzelne Ding ein bestimmtes Sein, und diese Bestimmtheit nur durch Negation aller übrigen Bestimmtheiten, die dieses bestimmte Ding von sich ausschliesse. Hier hat also Solger den Spinozistisches Satz : determinatio est negatio, auf den Hegel großen Werth legt, auch in seine Dialektik aufgenommen.
+
+Da jedes bestimmte Ding nur dieses
+
+Bestimmte sei durch die Negation aller übrigen Bestimmt heiten des Seins, so sei in jedem Dinge Sein und Nicht sein mit einander verknüpft.
+
+Damit sehen wir denn
+
+Solger in der That bis zum Anfang der Hegel'schen Logik durchgedrungen. Die Bestimmtheit dieses Dinges, die für es selber Sein sei, sei für alle übrigen Nicht sein . Nun aber fährt Solger eigenthümlich also fort: Wie in dem absoluten Sein alle Bestimmtheiten des
+
+Seins Seiende sind , so sind sie im Erkennen Nicht seiende. Das Erkennen ist also der Inbegriff aller Negationen des Seins ; und wir erkennen daher die Dinge nur , weil wir diese in uns nicht seienden Bestimmt heiten in den Dingen als seiende setzen. Dem Erkennen kommt aber die Allgemeinheit ebenso zu, wie dem all [p. 62] gemeinen Sein : nur daß im allgemeinen Sein alle Bestimmtheiten als seiende, im Erkennen als nicht seiende vorhanden sind.
+
+Aber auch dieser höchste Gegensatz hebt sich auf; denn das allgemeine Sein beschränkt sich, d. b. negirt sich , indem es einzelnes bestimmtes Sein setzt. Umgekehrt erweitert sich das Erkennen, indem es alle seine Negationen in den einzelnen Dingen als seiende setzt : und macht sich gleichfalls zur Totalität des Seienden . Das allgemeine Sein und das allgemeine Erkennen sind also schlechthin Ein und dasselbe.
+
+Damit ist die Solger'sche Dialektik in die Hegel'sche übergegangen .
+
+Wenn nun aber gegen unseren Verfasser auch der Tadel erhoben wurde, er hätte die Literatur über und besonders gegen Hegel in Betracht ziehen sollen , so ist Dem nicht zuzustimmen. Der Einwand stützt sich auf die Worte unseres Programms : „Historisch- kritische Darstellung," und daß man fünfzig Jahre der Geschichte der Philosophie doch nicht unberührt lassen dürfe. Aber das Historische fehlt nicht in der Abhandlung, die in Rede steht.
+
+Das
+
+Kritische in ihr ist eine Bejahung unserer Schlußfrage. Die Gegner Hegels aber stehen auf einem so beschränkten
+
+Standpunkt, daß sie ganz unfähig sind , Hegel zu be urtheilen . Die letzten fünfzig Jahre haben eben keinen Fortschritt in der Philosophie aufzuweisen ; so daß es besser ist , von ihnen zu schweigen , um diese Schande nicht aufzudecken .
+
+é. Hinsichtlich dər fünften Frage über den Werth und die Bedeutung der dialektischen Methode Hegels bemerkt der Verfasser, daß er darum der Beantwortung derselben keinen besonderen Abschnitt gewidmet habe, weil der Leser hoffentlich gar nicht in Zweifel darüber sein werde, wie der Verfasser sie beantworten werde, ja in [p. 63] seiner ganzen bisherigen Darstellung bereits beantwortet habe. Diese Antwort'lautet aber dahin : ,,Die dialektische
+
+Methode Hegels erfüllt die Forderungen, welche an die philosophische Methode zn machen sind.“
+
+3. Was endlich das Talent betrifft, mit welchem der Verfasser uns seine Ansichten vorträgt, so übertrifft es um ein Bedeutendes die seiner beiden Nebenbuhler rechts und links.
+
+In die reinste, edelste, oft zu dichte rischem Schwunge sich erhebende , aber stets durchaus gemessen bleibende Sprache kleidet er seine Gedanken mit gedrängter Kürze ein , wo oft wenige Worte den
+
+Leser in den Stand setzen , eine Reihe von Gedanken daraus zu entwickeln.
+
+Dieser Schönheit der Form ent spricht die Gediegenheit des Inhalts, wie es denn auch nicht anders zu erwarten war von einem Manne, welcher die Form und Inhalt innig mit einander verknüpfende Methode
+
+Hegels so hoch schätzt, daß er die diese Identität aus sprechenden Worte Hegels nicht blos an die Spitze seiner Rede stellt, sondern , dieselbe damit krönend, auch als ihren Schlußstein, - als sein Alpha und Omega wiederholt.
+
+No. III hat das Motto : „ Das Uebersinnliche ist das Sinnliche und
+
+Wahrgenommene, wie es in Wahrheit ist ; die Wahr heit des Sinnlichen und Wahrgenommenen aber ist,
+
+Erscheinung zu sein. - Die Bewegung der Individualität ist die Realität des Allgemeinen.“ Diesem Hegel'schen Ausspruche schickt der Verfasser aber folgenden Titel seiner Abhandlung voraus : „ Das Geheim niß der Hegel'schen Dialektik , beleuchtet vom concret sinnlichen Standpunkte."
+
+[p. 64] Es muß zunächst höchst auffallend erscheinen , dal uns eine Schrift als Preisbewerbung zugeschickt wird , die nicht einmal den Titel annimmt, unter welchem wir die Beantwortung unserer Fragen zusammenfaſten. Wir könnten nun wohl über diesen großen Formfehler hinweg sehen, wenn der Verfasser nur sonst uns Rede stände. Auch daſ er uns eine Philosophie der Zukunft verkündet, könnten wir freudig annehmen, wenn er sie am Schlusse seiner Abhandlung, und als Ergebniſ einer gründlichen Kritik und Widerlegung der Hegel'schen Dialektik, uns nur brächte. Um Dies zu finden, verfolgten wir begierig den Gedankengang des Verfassers durch die zwölf Capitel , in welche er seine Schrift theilt.
+
+Erst als wir bei dem achten , welches : „Kritische Beleuchtung der Hegel'schen Dialektik ,“ überschrieben ist, anlangten , konnten wir hoffen , daß der Verfasser gründlich auf unsere Fragen eingehen würde. Aber auch diese Hoffnung wurde ge täuscht. Die Kritik Hegels ist nicht Zweck des Verfassers, sondern nur das Mittel , um seine Philosophie der Zukunft vorzubereiten.
+
+Schon vorher, wie nachher, erinnert er sich zwar manchmal, daß er es eigentlich nur mit Hegels Dialektik zu thun habe, theilt uns auch hin und wieder einige Winke mit , welche in die von uns gewünschten Antworten einschlagen. Aber eine durchgeführte Beantwortung haben wir nicht entdecken können. Hiernach hätten wir also die Abhandlung ein fach bei Seite liegen lassen können, da sie unmöglich in den Wettkampf eintreten darf. Da Dies aber doch, auch einem Unbekannten gegenüber, höchst unfreundlich : einem Schriftsteller aber gegenüber , der sich an uns mit so hohen Ansprüchen wendet, zugleich gefährlich wäre, wenn wir schwiegen : so hat Ihr Ausschuß beschlossen, auch diese Abhandlung seiner Erörterung zu unterwerfen .
+
+[p. 65] Von einer
+
+Vollständigkeit der Beantwortung unserer Fragen kann hier natürlich nicht die Rede sein ;
+
+es handelt sich nur um die Darlegung und Beurtheilung des Inhalts und des Zwecks der ganzen Abhandlung . Und zum Schluß hätten wir wohl noch einige Worte über unsere Ansicht von dem Talente und der Originalität des Verfassers, die wir etwa in ihm finden möchten, mitzutheilen .
+
+Der Verfasser beginnt damit, die ganze zweitausend jährige Arbeit des philosophirenden Geistes, also den ganzen Verlauf der Geschichte der Philosophie von Thales bis
+
+Hegel, mit dem Anathem zu belegen, daß sie ein großer Irr thum, -- daß sie eine abstracte Weltanschauung sei, weil sie sich in der Abstraction der reinen Denkthätigkeit bewegt habe ; denn sie mache nur Denkschemata zu Principien der Wahrheit. Wir können dem Verfasser zu geben, daß die Philosophie sich im Element des Denkens bewege. Denn das Denken ist eben die Thätigkeit, wo durch eine Wissenschaft erst Wissenschaft wird : die
+
+Thätigkeit, durch welche ein Gegenstand erst zur Er kenntniß gelangt. Das Streben aller Philosophie ist aber von Anfang an darauf gerichtet gewesen, vielmehr den Gedanken und das Sein mit einander zu versöhnen , denselben in der Welt wiederzufinden, und eben dadurch diese zu erkennen. Nur der Skepticismus ist es , der die Trennung beider Glieder vollzieht : der behauptet, daß der Gedanke sich enthalten müsse, über das Sein überzugreifen , da der Mensch nur Erscheinungen er kenne, — nur wisse, wie die Dinge sich in der Abstraction seines Bewußtseins darstellen . Lassen wir aber die Helden der Erkenntniß vor unserem innern Gesichte vorbeiziehen , so werden sie fast sämmtlich den ihnen vom Verfasser gemachten
+
+[p. 66] Vorwurf ablehnen dürfen .
+
+Der Chorführer aller Philosophen, wie ihn Aristoteles nennt, Thales, hat das Wasser zum Princip der Welt gemacht. Freilich meinte er nicht das sinnliche Wasser ; sondern , indem er dem selben , wegen seiner Flüssigkeit, Beweglichkeit und Wandelbarkeit, diesen Vorzug einräumte, hat er es zum
+
+Allgemeinen : d. h. eben zu einem Gedanken gemacht, in welchem er die Grundlage der Welt erblickte. Ebenso verhält es sich mit der Materie des Anaximander und der Luft des Anaximenes.
+
+Und nun gar Heraklit , der in dem Feuer, als dem Beweglichsten, das Werden, den ewigen Fluß aller Dinge sah : und es darum die ewige Vernunft in uns nannte, durch welche wir alles zu er kennen vermögen ! Parmenides hatte ein klares Bewußt sein hierüber, und sprach , in einem der uns von ihm übrig gebliebenen Verse, es geradezu aus : „ Das Denken ist Dasselbe , wie das Sein .“ Anaxagoras behauptete, daß die allen Wesen der Natur innewohnende Vernunft die Ursache der Ordnung in der Welt sei : Plato , dal die Ideen der Dinge, als deren Urbilder , das wahrhaft
+
+Seiende wären . Aristoteles aber erklärte sein großes Princip, das Denken des Denkens, dahin, daß das Coele ment des Denkens , das sinnliche Sein , durch die Be rührung mit dem Denken selber als Gedachtes Eins mit ihm werde.
+
+Gehen wir dann auf die neuere Philosophie ein , so sagt der Verfasser selbst , Descartes habe an die Ein gangspforte derselben in Flammenschrift die Worte ge heftet: Cogito, ergo sum. Soll ich noch Spinoza vor- , führen , der in der Einen absoluten Substanz Denken und Ausdehnung zusammenfallen läßt ? Und doch sollen alle diese Männer im Traume und in der Dämmerung der abstracten Weltanschauung versunken gewesen sein !
+
+[p. 67] Ja , der Verfasser übertrumpft diese Bezeichnung noch durch das Beiwort „ phantastisch ,“ und die Apposition „ mythenbildende Phantasie . “ Die Gerechtigkeit dieses Urtheils findet er darin, daß alle diese Philosophen das
+
+Denken zum Princip des Seins gemacht haben. Die „ Neuplatonische Phantastik “ sei der vollendetste Aus druck hierfür, indem sie das Immaterielle zum „ Ueber seienden “ mache ; was dann in der modernen Philosophie, als „ der Aether des reinen Gedankens," seinen Abschluß gefunden habe. Alles Das sei nur ein mystischer Aus druck für die Subjectivität. Diese und ähnliche Formeln ziehen sich durch die ganze Arbeit hindurch ; und es hat den Anschein , als wäre der Verfasser der Ansicht, durch die unaufhörliche Wiederholung eines und des selbigen, wenig variirten Ausdrucks einen strengen Beweis für die Richtigkeit seiner Behauptungen geliefert zu haben. Wenn nun nach dem Verfasser die ganze Reihen folge der Philosophen von Thales bis unmittelbar vor Kant das Traumleben der abstracten Weltanschauung träuruten, ohne einmal zu wissen , daß sie träumten , so habe mit Kant die Geschichte der Philosophie doch eine andere Wendung genommen. Der philosophirende Geist mache nämlich nunmehr den Versuch, aus dieser Nacht der Dämmerung herauszukommen, und zur Klarheit des Sonnenlichts zu gelangen, welches ihm in der Zukunfts philosophie des Verfassers aufgehen soll. Drei Schritte gelten dem Verfasser als solche, welche dazu hingethan wurden ; und sie sind an die vier Namen Kant, Fichte, Schelling und Hegel geknüpft. Aber nur die drei letzten haben einen wirklichen Fortschritt gemacht. Kant stebe ruhig in der Mitte zwischen zwei Weltanschauungen , und habe nur den Dreien die Leuchte des Bewußtseins aufgesteckt, welche nun die Füße dieser seiner Nach [p. 68] folger auf dem Wege zum Ziele immerhin leiten konnte. Aber erreicht haben auch sie das gelobte Land noch nicht, sie haben nur den Besitz vorbereitet : und stecken, im Grunde genommen, selber noch im dämmernden Zwie licht der abstracten Weltanschauung.
+
+Ich kann natürlich diese ganze sehr ausführliche, und in sechs Abschnitten mehr, als die Hälfte der ganzen Arbeit, ein nehmende Erörterung hier nicht wiedergeben, und mus mich mit folgenden Andeutungen begnügen.
+
+Das Bewußtsein der Unzulänglichkeit alles bisherigen Philosophirens erblickt der Verfasser darin, dal Kant die Weltwesen in Noumene und Phänomene trennte , die Gedankenwelt als eine unaufgeschlossene behauptete : und die Erscheinungen, obgleich ein Aus fluß der Dinge an sich , für den einzigen Gegenstand der Erkenntniß erklärte.
+
+Dadurch sei der Dualismus von Sein und Erscheinung zwar auf die Spitze getrieben, mußte aber eben damit brechen .
+
+Den ersten Schritt dabin thue nun Fichte, indem er alle Realität im Ich eingeschlossen meinte ; so daß dieses die Welt der Erscheinungen lediglich aus seinem Bewußtsein entwickele. Fichte verlange reine Thätigkeit an Stelle des todten Seins ; diese liege im absoluten Ich. Wie komme aber das empirische Ich über sich hinaus zum absoluten Ich ? Fichte bleibe bei seiner Betrachtungsweise einseitig sub jectiv. Die anbrechen wollende Morgenröthe wird also sehr bald wieder in den Nebel der abstracten Welt anschauung gehüllt ; aber Fichte halte die Abstraction nicht passiv fest. „ Da er jedoch die Beschränkung des individuellen Ich durch ein Nicht-Ich aus der Urthätig keit des absoluten Ich nicht erklären konnte , so griff er zur Hypothese eines unbegreiflichen Anstoßes,រ und gerieth in den Progreſ in's Unendliche."
+
+[p. 69] Betrachten wir sodann, wie der Verfasser die Lehre
+
+Scbellings, welcher den zweiten Schritt gethan habe, auf faßt. Nunmehr scheint ihm die rosenfingerige Eos wirklich aus den dunkeln Meereswellen der Abstraction emporzu steigen. Der Verfasser lobt Schelling, daß er nicht, wie Fichte, das blos abstracte Denken zum Princip der Er kenntniß mache ; Schelling schwebe die Erlösung des Ver standes aus den todten Formen der Abstraction zum ursprünglichen Leben des Sinnlichen vor.
+
+Die ,, intellectuelle
+
+Anschauung" sei die Anschauung des Gedanklichen im Sinnlichen :: das Urwissen zugleich Ursein . „ Schelling machte das Sinnliche zum Sinnigen, aber sah, wie Moses, das gelobte Land nur vom Berge in blauer Ferne. Er that nicht den letzten entscheidenden Schritt, flüchtete wieder zu den nebeligen Höhen der Abstraction . " In der von Spinoza aufgenommenen Erkenntniß sub quadam aeternitatis specie verschwinde eben alles Einzelne, Bewegte, Thätige , Sinnliche , individuell Bestimmte in die farb lose, gegensatzlose Einheit des unbestimmten Absoluten :
+
+Schelling stieg nicht in die Tiefen, wo Geist und Natur aus Einer Wurzel hervorgehen ; das wahrhaft Seiende wurde ein Unwirkliches, und so blieben ihm zuletzt nur mytho logische und theosophische Träume. Diesem Urtheil ließe sich wohl beipflichten. Schließlich sollten auch die in Bezug auf Schellings
+
+Nachfolger angeregten Hoffnungen getäuscht werden, Die Göttin, welche nochmals in die finsteren Fluten des
+
+Oceans versunken war, harrte zwar auf die Geistesgestalt
+
+Hegels, der so Großes ,, vollbracht habe. Indessen er sei eine Sphinx die uns ein Räthsel aufgebe. Die Dunkelheit und Unverständlichkeit seiner Rede halte gleichen Schritt mit der Tiefe seiner Gedanken.
+
+Daher sei er diese letzten fünfzig Jahre in den Hintergrund gerathen. Und es frage [p. 70] sich , ob er der Genius sei , der es verdiene , wieder auf den Vordergrund der Bühne hervorgezogen, oder auf immer in die Letheströme der Vergangenheit vergraben zu werden .
+
+Was die Dunkelheit Hegels betrifft, so sollte ich doch denken , daß die vielen aus der zahl reichen Schule hervorgegangenen Schriftsteller mächtig dazu beigetragen haben, ihn zu popularisiren , und sein Verständniß der Gelehrtenwelt zu offenbaren ; ich hebe in dieser Rücksicht hier nur die Namen von Strauß und
+
+Rosenkranz hervor, ohne Andern dadurch zu nahe treten zu wollen.
+
+Der Verfasser schildert Hegel nun so : er sei der Vorgang der Philosophie der Zukunft, habe sie aber nur vorbereitet . Das Geheimniß der Hegel'schen Dialektik sei Dies, den abstracten Begriff concret zu machen : also die Auflösung des ganzen Systems der abstracten Gedankenwelt , die immanente Zerstörung der Abstraction :
+
+„ Thätiger Uebergang ist das ausgesprochene Princip Hegels . Aber Hegel faßte das Concrete nur in negativer , abstracter Weise ; sein Concretes ist nur der abstracte
+
+Schatten des Concreten . Er schwebte daher , ebensowie seine Vorgänger, noch einseitig in den Höhen des reinen Denkens ; er suchte den concreten sinnlichen Boden , fand ihn aber nicht. Hegels Lehre ist ein Uebergangsstadium . Nur so läßt sich die ganze , unfalbare, mystische Atmosphäre , in der sie sich bewegt, begreifen .“ – Es schien uns zuerst , als habe der Verfasser das Geheimniß des
+
+Systems erfaßt. Aber nein ! Trotz des Motto's, das gegen den Verfasser spricht, und das er doch nur anführen durfte , wenn er es eben verstanden · hätte , bleibt auch ihm die Philosophie Hegels ein mit sieben Siegeln verschlossenes Buch. Oder wenn wir ihm zugeben wollten , daß das Unverständliche in der Hegel'schen Philosophie nur ihr
+
+[p. 71] Buchstabe sei, so werden wir ihm doch nimmermehr zu gestehen können, daß ihr Geist nichts Anderes sei , als des Verfassers Philosophie der Zukunft. Daß der Verfasser aber auch den Geist der Hegel schen Lehre nicht begriffen habe , will ich zunächst durch die Art und Weise erhärten , wie er die Hegel'sche Dialektik zu widerlegen versucht. Weil Hegel, sagt der Verfasser, von der Identität des Subjectiven und des Objectiven ausgehe , so seien ihm die subjectiven Ge dankenschemen der abstracten Schattenwelt unmittelbar und einfach die ansichseienden Mächte, Urmächte , Ur gestalten des Bewußtseins nicht blos, sondern auch des Alls. Selbst die Kategorien des ersten Abschnitts des dritten Theils der Logik, die Kategorien des subjectiven Begriffs, mache Hegel zu objectiven Kategorien der Dinge. „ Wir erleben so ", bemerkt der Verfasser dazu , das eigenthümliche Schauspiel, daß das Abstracte mit allen Prädicaten des Sinnlichen und Concreten“ ausgestattet wird, „ wie in einem Chinesischen Schattenspiele, wo der hinter den Coulissen Verborgene," also in unserem
+
+Falle der logische Denker, „ die Figuren bewegt.“ Es gewinne den Anschein , als ob solche Abstractionen sich selbst bewegten , sich producirten , selber in einander, als in ihr Anderes, übergingen und sich auflösten . Das sei das ganze Geheimniß und Wesen der Hegel'schen Dialektik. - Heißt Das aber nicht, in massiv-plumpern
+
+Wendungen den flacheren Angriff Trendelenburgs , den der Verfasser indessen nicht nennt, wiederholen : daß das Sein Ruhe sei, das Nichts ebenso , sie sich mithin nicht in's Werden bewegen könnten ; und Hegel ihre Bewegung gar nicht hätte denken können, wenn er diesen Begriff nicht in der Anschauung vorgefunden hätte ? Die unge borene Philosophie der Zukunft holt sich ihre Waffen [p. 72] aus der Rumpelkammer der Vergangenheit. Wir hatten schon Gelegenheit , Hegel in diesem Punkte gegen die Nummer I in Schutz zu nehmen. Wir erinnern die No. III daher hier nur noch an den Satz eines alten Weltweisen, dem sie doch gewiß zustimmen wird : „ Der Gedanke ist das Beweglichste." Ja, der Verfasser bietet sogar selber uns die Handhabe zu seiner Widerlegung, wenn er hinzu fügt: Dies principielle Auflösen des Gedanklichen sei der von der Philosophie der Zukunft zu entfaltende Ausdruck der sachlichen , sinnlichen Grundwahrheit des Gedank lichen ; und deshalb mache eben der Eingang der Hegel'-. schen Logik diesen überwältigenden Eindruck. Nur Dies möchten wir dem Verfasser noch entgegen halten : In der Logik bewegen sich die Gedanken aller dings nur in ihrem eigenen , reinen Elemente , oder meinetwegen „ Aether.“
+
+Darum ist es aber nicht der
+
+Denker allein, der sie bewegt. Denn da , wie der Verfasser auch sehr wohl weiß, wir unsere Gedanken sind : so kommt es auf Eins heraus , zu sagen , wir bewegen die Gedanken, oder dieselben bewegen sich selbst. Da ferner im Gebiete der Natur das Sinnliche, von der Bewegung des Gedankens ergriffen , sich durch sich selbst bewegt , so bewegen wir , als sinnliche Individuen , es ebenso, wie vorher den Gedanken , weil wir ebenso das
+
+Sinnliche sind. Die Gedanken sind aber deswegen nicht abstract, weil sie auf ihrem besondern Boden bleiben : so wenig, als das Sinnliche es ist , weil es das Gebiet der Natur nicht überschreitet. Concret hat aber , wie schon Aristoteles weiß, zwei Bedeutungen : tÒ GUYXEXUPÉVOV ist ihm sowohl das Allgemeinste, als das Einzelnste ; der höchste Gipfel des Gedankens , wie die unterste Spitze der Sinnlichkeit .
+
+Und Jenes könnten wir vielleicht als das abstract Concrete, Dieses als das concret Concrete [p. 73] passend bezeichnen . Immer jedoch sind in jeder dieser beiden Arten des Concreten die Gegensätze zusammen geschüttet, oder in einander gewachsen. Aber unser Verfasser beschränkt sich bei der Kritik der Hegel'schen Dialektik nicht auf das Gebiet der Logik.
+
+Er ergeht sich über alle besonderen Wissen schaften der Hegel'schen Philosophie , um auch sie in ihrem Verhältnisse zur Dialektik zu betrachten.
+
+Hier wird indessen der Zusammenhang mit der von uns ge stellten Aufgabe ein noch loserer ; und der Verfasser schweift vollends über ihren Rahmen hinaus.
+
+Auf die
+
+Phänomenologie hält er große Stücke , ohne doch sonderlich Bemerkenswerthes über sie vorzubringen. Die Aesthetik überschüttet er mit überschwänglichem Lobe, die Naturphilosophie hat er aber ganz besonders auf's Korn seiner kritischen Flinte genommen.
+
+Von der Naturphilosophie handelt das ganze zehnte Capitel : Dieselbe sei allgemein als der schwächste Theil der Hegel'schen Lehre anerkannt, – und zwar, seitdem Schelling zuerst den etwas anrüchigen Witz von der Idee, welche die Natur aus sich entlasse, von sich ge geben hat. Dennoch hat Hegels Naturphilosophie die Schelling'sche aus ihrem formalen Schematismus befreit, und zum Range einer durch Dialektik begründeten strengen Wissenschaft erhoben. Während die No. II, wie wir sahen , das richtige Verhältniſ der Logik zur Naturphilosophie, obwohl nur in der Kürze, angab, tadelt unser Verfasser ausführlich Hegel , daß er die ganze Natur durch die abstracten Schattenbilder seiner Dialektik habe schaffen, dieselbe aus diesen herausspinnen lassen. Der logische Urproceß, sagt der Verfasser, fasse nach Hegel in ganz mythologischer Weise den Entschluß, die Natur frei aus sich zu entlassen.
+
+Wir wollen zu [p. 74] geben , daß dies Bild , an diesem Orte besonders , ein sehr unglücklich gewähltes sei. Was hat Hegel aber auch Alles dafür leiden müssen , und leidet es noch jetzt ! Was das Einzelne betrifft, so rafft der Verfasser einige Gedankenbestimmungen auf, reißt sie aus dem
+
+Zusammenhange heraus ; und statt dem Gedankengange nachzugehen, kraft dessen Hegel die Natur eines Gegen standes, wie des Lichts, der Luft, des Wassers u. 8. W., aus einer Kategorie zu entwickeln sucht , macht der Verfasser so, als ob Hegel eine solche Denkbestimmung nur äußerlich, wie die schematisirende Naturphilosophie
+
+Schellings, dem Naturwesen , gleich Etiketten auf Apotheker-Büchsen , anhefte : Die Natur werde dadurch zu etwas Todtem. Von allen Schülern Hegels, die seine Naturphilosophie fortgesetzt haben , weiß der Verfasser nur einen gewissen Chlebik zu nennen .
+
+Dieses abstract negative Gedankenspiel schlägt dann ,“ nach dem Verfasser, „ in die Bahnen des alten Dogmatismus über, den schon die große Grundconception Fichtes für immer vernichtete.“
+
+Sollte man es denken !
+
+Endlich aber ver fällt der Verfasser in einen Pamphlets - Ton , wobei man zweifelhaft sein könnte, was wunderlicher sei, die Keck heit der Behauptung, oder der Uebermuth der Anmaßung, die aus ihr spricht. Wie Faust, sollen wir nämlich : „ von dem Geist, der stets verneint, von der absoluten Nega tivität“, kurz „ durch . Mephistopheles plötzlich in den Blocksberg-Nebel einer metaphysischen Walpurgisnacht “ hineingezaubert worden sein , „ wo Schemen auf Natur gebilden reiten , wie die Teufel und Hexen auf Besen,
+
+Böcken und Schweinen; wo sich Gedankenphantome mit sinnlich seienden Naturwesen in unnatürlicher Weise gatten,“ u . 8. W.
+
+Die Aesthetik soll dagegen darum der Glanzpunkt [p. 75] der Hegel'schen Lehre sein, weil Hegel zuerst sie als systematische Wissenschaft geschaffen habe. Wenn in dem Zerrbilde der Naturphilosophie das Sinnliche un sachgemäß und ungeheuerlich zu Gedanklichem werde, so geschehe Dies in der Aesthetik zutreffend. In der
+
+Auffassung der Idee des Schönen komme bei Hegel das Princip des Concreten in der Idee zum Durchbruch, in dem ihm das Schöne das sinoliche Scheinen der Idee sei. - Aber ach ! Eitles Hoffen, vergebliches Bemüben ! Auch die Hegel'sche Aesthetik schwebe noch oft in ein seitig logisch schematischen Bestimmungen , die das Schöne noch nicht als concretes Empfinden hervortreten lassen. Nichtsdestoweniger erkennt der Verfasser an , daß ,,das System Hegels im Großen und Ganzen, kraft der leitenden Grund-Idee, die alle Theile desselben durch dringt, ein wundervolles Kunstwerk philosophischer Dar stellung ist, wie es in dieser Vollendung Niemand vor ihm und Niemand nach ihm schuf.
+
+Alle einzelnen Ge danken reihen sich, ihrer Natur gemäß, zum großen
+
+Ganzen des totalen Gedankenbaus.
+
+Das Ziel sei die concrete Wahrheit selbst, die Entfaltung der Natur des Gedanklichen, als Enthüllung der concreten Wirklichkeit des Universums, in immer vollendetern Stufen.
+
+durchgehende Dreitheilung des in sich abgerundeten Systems finde hierin ihre Erklärung, indem von der Unmittelbarkeit zu ihrem Gegensatze übergegangen, und in der Synthesis der Momente die Totalität zum Ab schluß gebracht werde , die Hegel zum harmonisch schönen, ergreifend mächtigen Ausdruck bringe. „ Man weiß nicht, was man bei Hegel mehr bewundern soll, die Tiefe der Ausführung, oder die Großartigkeit des
+
+Ueberblicks."
+
+Auf diese Weise baut der Verfasser, wiederum in, einem besondern Capitel, das er die Architektonik des
+
+Hegel'schen Systems“ betitelt , diesen, wie er sich aus drückt: „ imposanten Gothischen Dom mit seinen festen krystallhellen Pfeilern und Thürmen“ aus . Wir folgen ihm hierin nicht, weil er die Hauptgliederung und ihre Unterabtheilungen im Umrisse ganz richtig angiebt. Der Verfasser schließt diese kurze Inhaltsanzeige mit den Worten, daß nach Hegel sowohl der absolute Zweck aller Geistesentwickelung, als das Endziel der philosophischen Forschung darin zu suchen sei : daß der im Menschenwesen sich verwirklichende absolute Geist sich selbst in seiner gegensatzlosen Ewigkeit und Idealität erkenne . - Nun aber kommt der hinkende Bote nach :
+
+weil Hegel im Grunde bei der Voraussetzung fertiger
+
+Gedankenformen stehen bleibe , so habe er die große Idee der Auflösung des Abstracten im Concreten blos concipirt, aber noch nicht durchgeführt.
+
+Wie die neue
+
+Frühlingssonne jenen Eispalast an der Newa nur durch zittern, aber nicht auflösen könne , so habe Hegel die Schmelzung der todten Formen der Abstraction nicht vollends vollzogen ; sie erstarrten sogleich wieder in dem Aether des reinen Gedankens. — Aber post nubila Phoebus::
+
+„ Die Philosophie der Zukunft geht an die wirkliche Er lösung des Geistes aus den Fesseln der Abstraction .“ Hiermit sind wir endlich bei den eigenen Ansichten des Verfassers angelangt. Dieselben entwickelt er jedoch nicht im Zusammenhange als Gesammtergebniß der Kritik aller seiner Vorgänger ; sondern durch die ganze
+
+Abhandlung ziehen sich, als Kritik einzelner Philosophen, als Besprechung besonderer Materien, die Bruchstücke der Anschauungen des Verfassers hindurch ; so daß es auf den ersten Blick schwer scheint, sich ein Bild des Ganzen daraus zusammenzusetzen. Indessen wird diese
+
+[p. 77] Aufgabe wieder dadurch erleichtert, daß der Verfasser stets dieselben Sätze, dieselbe Terminologie unendliche Male wiederholt, indem er an Alles denselben eintönigen
+
+Maßstab anlegt. Und so läßt sich aus den überall zerstreuten Gliedern die ganze Gestalt wohl ahnen. Wir beginnen unsere Darstellung mit der Frage des
+
+Verfassers: „ Wie ist die concrete Philosophie möglich ?“ Die Lösung dieser großen Frage müsse uns auf die Dialektik Hegels führen, „ wenn in ihm wirklich eine epochale
+
+Entwickelungsphase des Menschengeistes, und nicht das trügerische Hirngespinnst des größten Sophisten vor uns steht.“
+
+Der Verfasser entscheidet sich für die erste
+
+Alternative. In der That ist ja auch jeder Gedanke, alles Gute, was wir in dieser Philosophie der Zukunft antreffen werden, lediglich jenem „ Riesengeiste“ entnommen : also, außer der Dialektik, die Identität von Logik und Meta physik, von Subject und Object, des Sinnlichen und des Gedanklichen ; das Streben, die Uebereinstimmung von
+
+Psychologie und Physiologie, von Philosophie und Natur wissenschaft herbeizuführen , das Absolute als reine
+
+Thätigkeit zu fassen u. 8. W. Weil aber diesem Zukunfts propheten der Erlösung der Menschheit aus den Banden der Abstraction sein Johannes der Täufer
+
+Das ist also Hegel nur erst die Wege zu seinem Heilswerke gebahnt hat : so muß er selbst die Sache in die Hand nehmen, „ das Abstracte concret zu beleuchten, das Un sinnliche zu versinnlichen, das Unbegreifliche zum Ereigniß zu machen . Die zum concreten Bewußtsein heran gereifte Zeit fordert den eigentlichen concreten Ausdruck , anstatt eines schulmäßigen, abstracten, den Hegel, seiner historischen Stellung gemäß, dem neuen Geiste gab .“
+
+Darin stimmen wir aber mit dem Verfasser vollkommen überein, daß, wenn die Philosophie eine ,,exacte Forschungsa [p. 78] werden solle, sie nicht das Erzeugniß von Schulsystemen einzelner Persönlichkeiten bleiben könne, sondern als die Eine Philosophie das Werk der Menschheit werden müsse. Meiner Ansicht nach, stehen wir dicht an dieser epochemachenden Wendung der Geschichte der Pbilo sophie, und zwar ohne die Hilfe der No. III. Was ist nun aber der Kern dieser so viel ver sprechenden , und so lange hinter der Kritik ihrer Vor gänger sich verbergenden, nur aphoristisch angedeuteten Philosophie der Zukunft ? Mit einem Worte : Das Seiende, das Sinnliche, Elementarische, Individuelle, Lebendige, Einfache, - kurz das Concrete. Die Idealphilosophie wolle dagegen das Concreteste nur im Gedanken sehen, und mache ihn zum Princip der Welt , während die Philosophie der Zukunft die ursprüngliche Sinnlichkeit zu diesem Principe erhebe. Das sei aber keineswegs der alte Sensualismus. Der Verfasser glaubt, daß seine Philosophie eben so entfernt sei vom kurzsichtigen Spiritualismus , wie vom kurzsichtigen Materialismus. Kein Titelchen der Gesetze der Idealität solle verloren gehen ; indem er die Hegel'sche Philosophie aufhebe, nehme er sie in sich auf. Eine echt Hegel'sche Wendung !
+
+Dies Alles soll nun auf folgende Weise bewerkstelligt werden . An die Spitze stellt der Verfasser den Satz : ,,Die Identität von Sein und Erscheinen ist das Grund princip der neuen Weltanschauung“, - im Gegensatz zu dem Dinge an sich, das nicht erscheine, und zu der Erscheinung, die nicht sei. Ich erinnere den Verfasser aber daran, daß schon vor mehr, als zweitausend Jahren, der alte Sophist Protagoras denselben Satz zum Principe seines Denkens und Handelns gemacht hat : "„ Wie etwas mir im Bewußtsein erscheint , so ist es mir ; wie es Dir erscheint, so ist es Dir.“ Sein und Erscheinen sind [p. 79] nun aber gerade so Etwas , das der Verfasser sonst „ Gedankenschemen “ zu nennen pflegt. Da müßte er also mitten in dem dicksten Nebel der von ihm verur theilten abstracten Weltanschauung stehen. Wenn er , um dieser Klippe zu entgehen, das Sinnliche, als solches, zu seinem Grundprincipe macht : so können wir nicht umhin , ihm vorzuhalten , daß , wollte er sich zu dem
+
+Ende auf sein Motto stützen, er weder den Buchstaben , noch den Geist desselben richtig aufgefaßt hat. Hegel spricht darin vielmehr nur aus, daß der Gedanke darum das Sinnliche sei, weil derselbe darlege , daß das Sinn liche eine bloße Erscheinung des Bewußtseins , nicht aber das Weltprincip sei.
+
+Aus dem eigentlich sinnlichen Sein, als dem einfachen Urelemente alles Erscheinens, — als dem anschaulich Fab baren, Exacten, naturwissenschaftlich Darstellbaren, greift der Verfasser nur vier Stoffe heraus , um sein Denken davon herzuleiten : Sauerstoff, Kohlenstoff, Calcium und Phosphor. Diese setzt er nämlich in Beziehung zum „ Gehirnprotoplasma,“ um die Thätigkeit des Gedank lichen daraus zu erklären .
+
+Da tritt nun zum Theil eine neologistische Terminologie ein , in welcher sich auch manche Ausdrücke finden , die Horaz als sesquipedalia verba bezeichnen würde , wie zum Beispiel : Spannungs erscheinungen , Spannungsgebilde , Spannungsmoment, Spannungsverhältnisse, der spannende Urbezug des Thä tigen. Für Spannung wird dann auch Ausdehnung gesetzt ; Das soll wohl die Thätigkeit der Elementar -Stoffe vor stellen, um die Gehirnsubstanz zu erzeugen. Denn jetzt folgen : die Nervenströme , die Billionen Nervenbahnen des Gehirns, die centralen Nervenprotoplasmafunctionen , die mächtigen centralen Nervenzellenfunctionen . Aus diesen organischen Tbätigkeiten sollen ferner die Ge [p. 80] dankenformen hervorgehen , die nichts Ursprüngliches, sondern Erzeugnisse des Sinnlichen seien : und zwar durch Urbezüge der Thätigkeit , Variationsmomente,
+
+Variationsgebilde, synthetische Variationsacte, unendlich reiche Complicationen , complicirte Erkenntnißbezüge. Ich glaube, ich habe keinen dieser unschätzbaren Kunst ausdrücke ausgelassen , um dem Verfasser gerecht zu werden in seiner Findung der „ Bezugsformen des Gedankens.“
+
+Freilich meinte eine Stimme unseres Aus schusses , daß alle diese concret sein sollenden Kategorien nicht minder abstract seien, als die vermeintlichen Gedankenschemen Hegels. Statt aber den Ursprung des Gedankens klar zu machen, scheint mir aller dieser Aufwand von neuen Wortbildungen die Sache nur immer mehr zu verdunkeln .
+
+Der Verfasser fährt jedoch unbedenklich fort: so allein werde klar, wie die elementaren , seienden Er scheinungsmomente des Brodes, die Spannungsindividuen des Kohlenstoffs, Sauerstoffs, Calciums, Phosphors u. s. w. im Gehirn , im Kreise höchst complicirter intensiver Totalspannungen als constituirende Momente in die Total erscheinungen der Denkfunction eintreten können .“ Mir will es im Gegentheil ganz und gar nicht einleuchten, daß die wunderbare Organisation des Sinnlichen , dessen höchste Blüte das Gehirn ist , kurz , daß das Leben aus der Verbindung todter unorganischer Stoffe mechanisch hervorgehen solle : obgleich ich sehr wohl weiß, daß der ganze helle Haufe der Naturforscher dem Verfasser zur Seite steht.
+
+Ich halte diese Vorstellung mindestens für äußerst roh. Der Zeit nach ist Organisches und Unorganisches simultan , das Unorganische das stete Residuum , der Auswurf des Organischen ; und der Würde nach ist das
+
+[p. 81] Organische, als das wahrhaft Individuelle, das Tpótepov des Unorganischen. Das wußte schon Anaxagoras. Die elementarische Sinnlichkeit ist also ein Residuum , ein Auswurf des Organismus, und ein von ihm Abhängiges, welches erst durch dessen Auflösung entbunden wird . 'Eyxelonowy Naturae nennt's die Chemie, Spottet ihrer selber, und weiss nicht, wie : Hat freilich die Theile in ihrer Hand, Fehlt leider nur das geistige Band.
+
+Dieses geistige Band wohnt im Organismus ; und der schaffende Gedanke ist es, der, als Lebensthätigkeit, die
+
+Stoffe bändigt und unter seine Herrschaft bringt. Daher sagte auch Empedokles sehr gut, der Knochen sei durch die Vernunft : und Aristoteles, die Seele sei die ursprüng- . liche Entelechie eines Körpers , insofern er organisch ist ; der Gedanke aber der Feldherr des Universums, welcher Ordnung und Schönbeitin seinem großen Heere erhalte.
+
+Dies Gedankliche ist ungleich concreter , als die abstracten Elemente der No. III.
+
+Weit besser, als deren Verfasser, hatte bereits vor vielen Jahren Schultz-Schultzenstein in der ursprünglichen Gesellschaft nachgewiesen, wie im menschlichen Gehirn die größere Masse der Gangliensubstanz und die viel facheren Windungen des Gehirns die Bedingung erhöhter Denkkraft seien. Etwas davon muß der No. III auch wohl vorgeschwebt haben , indem sie plötzlich die ",,Bezugs formen des Gedankens" für den „ Ausdruck einer von der physiologischen Function unabhängigen Wahrheit:“ mithin als „ den Ausdruck der thätigen Gemeinschaft der sinnlichen Wesen “ erklärt. Diese ,, sind , ihrer Natur gemäß , Universales, Ewiges , Gedankliches, Ideales: d . h. also nicht blos, wie Aristoteles will , Bedingung und Möglichkeit des Denkens. Hiernach ginge sogar [p. 82] der Verfasser noch über Aristoteles hinaus , indem er das Sinnliche selbst zum Gedanklichen macht. Aber freilich durch die Kraft des Gedankens wird eben das
+
+Sinnliche selbst aus einer bloßen Möglichkeit zur ursprünglichen Zweckthätigkeit des Gedankens erhoben . So könnten wir in der That von unserem Verfasser mehr nicht verlangen, wäre es nicht sein Geist, der noch umhüllt ist von dem Flor einer Morgendämmerung des sonnen hellen Tages, welcher von Hegel längst am Horizonte der Welt heraufgeführt worden ist. Des Verfassers Um nebelung wird aber vollkommen klar werden, wenn wir nun eine Vergleichung seiner Aussprüche mit den be treffenden Hegel'schen Sätzen vornehmen. Wie einst Professor Werder den Mangel der Philosophie darin erblickte, daß die Philosophie eine Blume nur erkennen, nicht schaffen könne (als ob das Erzeugen ihres allgemeinen Begriffs nicht höher wäre , denn das natürliche Hervorbringen einer Einzelnheit) : so bedauert der Verfasser noch, daß die Philosophie als Erkenntniß im Elemente des Denkens verweile, somit nur durch den Schleier des Gedankens hindurch zum Isisbilde der
+
+Wahrheit, zum Urwesen des Gedankens dringen könne.
+
+Hegel sagt dagegen mit Aristoteles, in der Philosophie sei die Wissenschaft die Sache selbst; und also, um mit Schelling zu sprechen : Indem wir das Absolute erkennen, sind wir es selber geworden.
+
+Sodann gesteht der Verfasser selbst die Schranke seines Standpunktes : er so wenig, wie alle Naturforscher, hätten bisher erklären können , auf welche Weise aus
+
+Kohlenstoff, Sauerstoff, Calcium, Phosphor u. s. w. die herrliche Organisation des Gehirns entspringen könne. Ja, der große Physiologe, Dubois -Reymond, bekennt sogar, daß er nie aus der Verbindung der Atome das Bewußt [p. 83] sein werde ableiten können .
+
+Der Verfasser hält deshalb auch, wie wir eben gesehen haben , die Bezugsformen des Gedankens für etwas von der physiologischen Function Unabhängiges. Die Naturforscher müßten so mit eigentlich Schillers Worten beipflichten: Und der erhab'ne Fremdling, der Gedanke, Sprang aus dem staunenden Gehirn.
+
+Schillers Ausspruch ist indessen durchaus unrichtig. Der Gedanke ist eben kein Fremdling im Gehirn , sondern der Herr im eignen Hause. Für Hegel hat die Frage nach der Entstehung des Gedankens aus dem Gehirn gar keinen Sinn. Weil ihm das
+
+Sinnliche die Erscheinung des Uebersinnlichen selber ist, der Gedanke aber erst in seiner Erscheinung wirksam wird : so ist Sinnlichkeit und Gedanke, der Wirklichkeit nach , schlechthin Eins ; wie wir ja auch schon vorhin vom Verfasser gehört haben, daß das Sinnliche an der Unsterblich keit des Gedankens Theil habe. Darum brauchen wir aber nicht mit Karl Vogt zu sagen, daß das Denken blos eine Secretion des Gehirns sei, wie gleichfalls die Nieren und jedes andere Glied die seinige habe. Oder 'wenn wir Dies zugeben , müssen wir von den Materialisten den umgekehrten Satz als zugestanden heischen, daß das Gehirn auch eine Secretion des Gedankens sei. Denn eine philosophische Vernunft -Wahrheit läßt sich nur durch zwei Verstands - Sätze ausdrücken . Hegels Formel kann daher nur die sein : „ Das Denken ist das in Thätigkeit gesetzte Gehirn "; und ; „ Das Gehirn ist das der Möglichkeit nach seiende Denken .“
+
+Dies ist die mit voller
+
+Klarheit ausgesprochene Devise der Zukunft, durch welche Hegel selbst den Materialismus in seiner Weltphilosophie verklärte : die nur träumende Akatalepsie der eingebildeten Zukunftsphilosophie des Verfassers aber erst wach 6*
+
+[p. 84] Die „ Riesengestalt“ Hegels stolpert nicht über Baumwurzeln ! Die schon von Plato gerügte Misologie rief.
+
+drückt aber des Verfassers Lebre zu einer Zwerggestalt herab , die schon die geringsten, sie hlendenden Ge dankenstrahlen scheu machen. Als Beweis der Coincidenz des Sinnlichen und des
+
+Gedanklichen kann ich mich nicht enthalten , ein Bei spiel geltend zu machen , das ich aus meiner eigenen Erfahrung schöpfe. Es ist mir nämlich unzählige Mal begegnet, so daß es kein Zufall sein kann, daß ich, vor meinem Pulte stehend, den Vorsatz faßte , Etwas aus meiner Hinterstube zu holen.
+
+Während ich nun zu diesem Behufe den etwas langen Corridor meiner Wohnung durchschritt, vergaß ich oft schon auf des Weges Mitte den Grund, warum ich ihn angetreten hatte. Ich mußte unverrichteter Sache wieder zu meinem Schreibtische zurückkehren. Dort aber angelangt , fiel mir sogleich bei, weshalb ich ihn verlassen hatte. Dies scheint mir sehr geeignet zu sein, einen völligen Aufschluß über die sogenannte Association der Ideen zu geben. Die Anschauung meines Pultes, so sagte ich mir, entspricht der Bewegung einer Fiber meines Gehirns. Der Vorsatz, fort zu gehen , um Etwas zu holen , setzt die nächst liegende Fiber in Bewegung. Auf dem Wege nach Hinten verliert dieselbe ihre Spannkraft, indem die
+
+Gegenstände, an denen ich vorbei komme, andere Fibern in Bewegung setzen und jene stören. So bald ich aber wieder vor meinem Pulte stehe, erweckt die damit verbundene Bewegung meines Gehirns die abhanden gekommene Bewegung ihrer Nachbar-Fiber nochmals. Darauf mache ich mich wieder getrost auf den Weg ; denn dies Mal vergesse ich seinen Zweck nicht mehr , weil durch die doppelte Schwingung der entsprechenden Fiber [p. 85] meine wieder aus dem Schachte der Erinnerung empor gestiegene Absicht zu prägnanterer Gegenwart gediehen ist. Dabei versteht es sich von selbst, daß nicht etwa eine bestimmte Vorstellung jedesmal derselben sich bewegenden Fiber angehört ; sondern jenachdem die Wahrnehmungen der Dinge in der Außenwelt mit ein ander verbunden sind , oder die Vorstellungen eines jeden Einzelnen im Innern seines Geistes zusammen hangen, werden auch verschiedene nachbarliche Fibern von ihren Nebenleuten in Bewegung gesetzt.
+
+Noch eine Entscheidung habe ich zwischen Hegel und dem Verfasser zu treffen. Beide behaupten, Meister zu sein, sei es des Gedankens oder der Sinnlichkeit. Wer von Beiden ist aber in der That Dualist ? Offenbar beschuldigt dessen der Verfasser seinen großen vermeintlichen Täufer Johannes.
+
+Denn er wirft ihm vor, die Natur mit Haut und Haaren aus seines Gehirnes
+
+Webstuhl herausgesponnen, aus dem Munde der logischen Idee herausgespieen zu haben ; was doch voraussetzt, daß diese Idee für sich existirt habe, um hinterher erst, und zwar, wie Schelling meint, aus purer Langerweile, eine zeitliche Schöpfung, wie Gott der Vater in der Mosaischen Urkunde, aus dem Nichts hervorzuzaubern.
+
+Es ist eine große Beleidigung der ganzen Schule, wenn der Verfasser sie solchen Unsinns für fähig halten konnte. Die Klage Werders hätte ihn schon eines Bessern be lehren sollen. Nein ! Keine Moluske, kein Sonnenstäubchen wollen wir durch eine dialektische Taschenspielerei dem Publicum aus den Aermeln schütteln.
+
+Hegel selber aber, wie hätte er denken können, daß man ihn, ein halbes Jahrhundert nach seinem Tode, einer solchen Gaukelei zeihen dürfte ? Wenn die
+
+Identität von Denken und Sein eine ewige Wahrheit ist, [p. 86] wie sie es denn in der That nach Hegel und der Mehr zahl seiner Vorgänger ist : so braucht das Denken gar nicht in Sein von der Logik zur Natur, noch das Sein in Denken von der Natur zum Geiste umzuspringen, da sie ewig in untrennbarer Einheit mit einander verschlungen sind . In der ganzen Hegel'schen Anthropologie stellt sich die Natur als die Grundlage der
+
+Seelenthätigkeiten , z . B. in den Temperamenten, den Lebensaltern u . 8. w., dar. In den spätern Theilen der Geistesphilosophie wird umgekehrt die Natur die immer intensivere, adäquatere Erscheinung des Geistes. Die Hegel'sche Philosophie ist nur die Doppel-Probe davon, wie sich diese ewige Einheit in der Wirklichkeit voll zieht. Nachdem Hegel in der Phänomenologie des Geistes gewissermaßen durch eine inductive Dialektik die Erscheinung des sinnlichen Bewußtseins bis zum absoluten Wissen gesteigert hatte, zeigt er in dem zweiten Theile des Systems durch Deduction, wie schon ursprünglich in der Logik alles Denken Sein, in der Naturphilosophie alles Sein Denken ist, im Geiste aber das Sein des Denkens das sich selbst denkende Sein ist.
+
+In Hegel ist sowohl das Denken Träger des Sinnlichen, wie das Sinnliche Träger des Gedankens : und, was der Verfasser auch anerkennt, die totale Erfahrung die Speculation , das Absolute nicht blos Substanz, sondern ebenso sehr
+
+Subject, das Allgemeinste die höchste Spitze der Persönlichkeit .
+
+Gehen wir nun aber zu den Sätzen des Verfassers über, so ist er in der That ein Dualist, indem er die Unabhängigkeit des Gedankens von der Sinnlichkeit behauptet , und dann doch wiederum das Sinnliche zum alleinigen Urheber des Gedankens machen will. Zum vollständigen Ausbruch des Dualismus kommt aber seine
+
+[p. 87] Lehre durch die zweimal wiederholte Behauptung, daß zwar innerhalb der Philosophie die Frage gar nicht auf geworfen werden dürfe, ob die Erscheinung in unserem Bewußtsein das getroffene Ebenbild eines Urbildes außer uns sei, oder ihm nicht ganz entspreche : daß die Untersuchung dieser Frage jedoch in die Naturforschung ge höre.
+
+Dies setzt ein an sich seiendes Wesen voraus, welches hinter der Erscheinung stecke ; und der Verfasser selber wäre es, der der abstracten Weltanschauung verfiele. Auch läge darin die Möglichkeit eines Zwie spalts zwischen Philosophie und Naturforschung, die sich doch in der Philosophie der Zukunft brüderlich umarmen sollten. So unfertig und widerspruchsvoll läuft am Ende die Ansicht des Verfassers aus, nachdem er in der Vorrede so Ueberschwängliches versprochen hatte. Seine Ab handlung , statt die Verheißung einer Philosophie der Zukunft zu sein , ist nichts Anderes, als die dürftige Nach lese längst vergangener Standpunkte von Anaximander bis zum Baron von Hollbach und Friedrich Albert Lange. In einem letzten Capitel : ,,Kritischer Ueberblick,"
+
+werden nur dieselben Behauptungen und Vorwürfe, in den uns schon sattsam bekannten Ausdrücken, namentlich gegen „ die geniale Phantasie in der Hegel'schen Philosophie,“ zum Ueberdruß wiederholt.
+
+Auch ist sich der Verfasser dieser Einerleiheit endlich bewußt geworden , indem er zweimal sagt : „Wir haben schon betont." Neu ist nur, wenn auch keineswegs originell, was der Verfasser über die Hegel'sche „ Philosophie des Staats und der Gesellschaft“ beibringt.
+
+Er weiß selber wohl, daß Dies außer halb seiner „ engern Aufgabe fällt“, will es daher auch „ hier nur berühren “, weil „ die Lehre Hegels nicht nur in das Leben der Wissenschaft, sondern auch in das Rad der Geschichte mächtig eingriff.“ Der Verfasser [p. 88] bringt es aber zu nichts Weiterem , als zur Anbeftung seines beliebtesten Epithetons : „abstracte, die Individualität verschlingende Lehre vom Staate, abstracte starre Ständegliederung , abstracte , fleisch- und blutlose Freiheitstheorie, abstracter Liberalismus.
+
+Dabei läßt der
+
+Verfasser es uns ungesagt, wie er sich den concreten
+
+Liberalismus der Zukunftsphilosophie denke ; worauf wir sehr gespannt gewesen wären. Um keine Disciplin des Hegel'schen Systems unbe rührt zu lassen, sagt der Verfasser uns auch einige Worte über die Philosophie der Religion. Er ,, fühlt den Hauch der neuen Lehre sowohl in den conservativen Bestrebungen protestantischer Theologen, welche die Wahrheit der Vergangenheit wahren wollten, als in dem eine Welt der Vergangenheit auflösenden Nibilismus eines Ruge, Strauß, Bruno Bauer und Feuerbach . " Früher hatte er schon einmal bedenklich den Kopf geschüttelt über die theologischen Verirrungen eines Daub , der nicht nur einen persönlichen Gott, sondern auch den persönlichen Teufel dialektisch habe deduciren wollen.
+
+Was hat Dies aber mit unserer Fragestellung zu thun ? Es sei denn , daß es das zweischneidige Schwert der Dialektik bekundet, das in der Hegel'schen Schule allerdings eine gewisse Allseitigkeit auch der Richtungen erzeugt hat , und sehr wenig dazu paßt, daß, nach dem Verfasser, die Hegel'sche Philosophie pur ein „ Uebergangs-Stadium “ sei. Die Philosophie der Zukunft wähnt uns aber der Verfasser zum Abschied noch dadurch dringend an's Herz legen zu sollen, daß er, seine Schwülstigkeit über trumpfend , uns mit einer bombastischen Anpreisung dieser seiner Lehre, ich kann es nicht anders nennen, entläßt: ,,Den Titanen der Geistesforschung also doch wohl allen Vertretern der „ abstracten Weltan [p. 89] schauung“ von Thales bis Hegel ,, folgten auf dem Fuße die Giganten der Naturforschung“ (er hatte kurz vorher die Namen Schleiden , Darwin , Häckel, Dubois Reymond, Wundt und Andere aufgeführt) „ und thürmten den Pelion auf den Ossa " ! ,,Der Puls der Weltgeschichte pochte gewaltiger, als je : daß Das offenbar werde, was vordem kein Auge gesehen und kein Ohr gehört.“
+
+Nun, bis jetzt hat noch Niemand gesehen, gehört und geoffen bart, wie aus Sauerstoff, Kohlenstoff, Calcium , Phosphor u. s. w. das Gehirnprotoplasma hervorgehe. Aus der Ehe der Naturwissenschaft und Philosophie, die auch wir aufrichtig mit der vollsten Sehnsucht herbei wünschen, und, wenn sie vollzogen würde , aus dem Innersten unseres Geistes segnen werden, soll nun ein zukünftiger Zustand der Menschheit entspringen, von dem der Verfasser in knappen Zügen folgendes Bild entwirft: „ Die berechtigte Seite Hegels ist, daß er schon hier das Absolute, Göttliche im menschlichen Innern und dessen Unendlichkeit sich verwirklichen sieht.66 Aber
+
+,,das menschliche Bewußtsein hat das heiligste Recht, sich zum ewig Menschlichen in individuell persönlicher Verwirklichung zu erheben “, — sich als „Menschheit des Alls “ zu erfassen ; „ ein Sichverwirklichen des Geistes, das über Jahrtausende und Aeonen, ebenso wie über Sirius
+
+Weiten, hinausgeht.“ Der Verfasser beruft sich hierfür auf die Weltanschauungs - ,,eines Krause , trotz seiner mythologischen Auffassungen in der Philosophie.“ Hier rufen wir unsererseits dem Verfasser nur den Spruch des Dichters nach : Aber im Raume, Freund, triffst Du das Grosse nicht an.
+
+Und hat denn die Hegel'sche Schule nicht alles Das längst gefordert, was der Verfasser jetzt verkündet ? Im Anschluß [p. 90] an die letzten Worte von dessen Motto : „ Die Bewegung der Individualität ist die Realität des Allgemeinen, hatte David Strauß gesagt, das Göttliche sei die Gattung der Menschheit, die im Cultus des Genius, durch hervor ragende Individuen, sich auslege. Noch früher ahnte Steffens eine „ ewige Persönlichkeit des Geistes,“ deren „ Epiphanie “ die Philosophische Gesellschaft bald nach ihrer Gründung durch jahrelange Discussionen über meine betreffenden Dialoge erörterte. Soweit der thatsächliche Bericht, ich komme zur Be schlußfassung. Ihm zufolge beantragen wir, der No. II den von der Gesellschaft ausgesetzten Preis zu ertheilen : erstens weil ihre Beantwortung unserer Fragen eine vollständige ist, wenn auch'im historischen Theile die
+
+Griechische Philosophie sehr knapp ausgefallen ist. In No. I ist die Vollständigkeit durch den großen Misverstand unserer ersten Frage sehr gefährdet.
+
+No. III berührt unsere Fragen überhaupt nur im Vorbeigehen ; und da sie einen ganz anderen Zweck, als den von uns gewünschten, verfolgt, ist sie schon aus diesem Grunde von der Mit bewerbung auszuschließen. Was zweitens den Inhalt der Arbeiten betrifft, so schlage ich die Krönung der Nummer II nicht darum weil sie auf dem Hegel'schen Standpunkt steht, sondern weil sie denselben, ohne thatsächliche Unrichtig keiten, von Anfang bis zu Ende in bündigster Schärfe folgerichtig durchführt, und seine Wahrheit genügend erweist. No. I kann von dem niedrigen Standpunkt der Vergangenheit , auf welchem sie steht, durchaus nicht an eine sachgemäße Beurtheilung der Hegel'schen Dialektik heranreichen ; sie ermüdet durch die Einförmig keit ihrer Assertionen, deren stete Wiederholungen sie für so viele Beweise gelten lassen möchte. Auf No. III [p. 91] lastet der Vorwurf, die ganze Geschichte der Philosophie misverstanden zu haben : und die eigene Lehre, die Philosophie der Zukunft, nur desultorisch und nicht ein mal folgerichtig dargestellt zu haben . Auch leidet der
+
+Verfasser entschieden an der Krankheit der Misologie. Was drittens das Talent betrifft, so ist es bei No. I nur in geringem Maße vorhanden ; zu der Flachheit der
+
+Sprache gesellt sich die Unbehilflichkeit und Kärglich keit der Gedanken, womit der Inhalt durchgeführt werden soll . In No. III ist wohl Talent sichtbar; die schein bare Originalität, mit der sie - durch Verknüpfung der Gegensätze der Gegenwart : der Hegel'sche Philosophie und der empirischen Naturforschung - die Philosophie der Zukunft heraufbeschwören will , bleibt aber doch eine äußerst absonderliche. Der Verfasser vergeudet sein Talent in der Ueberschwänglichkeit, womit er sowohl die Schilderung seines Inhalts, als den Ausdruck seiner Sprache ausstattet.
+
+No. II verwerthet ihr schätzens werthes . Talent sowohl durch die markige Kraft ihres Gedankenganges, als durch den maßvollen Gebrauch, den sie von der anmuthigen Blüte ihrer dichterischen Begabung macht, ohne jedoch in leere Phraseologie oder Ueberfülle zu verfallen.
+
+Etwas Besseres, als die No. II uns gewährt, werden Sie nicht erlangen , auch nicht für 1050 Reichsmark, wenn Sie sie , wie ich vernehme , eventuell anbieten sollten. Die Abhandlung ist das Beste , was über den vorliegenden Gegenstand gesagt werden kann. Uebrigens bemerke ich, daß, dem Sprichwort zufolge, das Bessere der größte Feind des Guten ist. Fürchten Sie nicht, weder als Gesellschaft, noch in deren einzelnen Mit gliedern , wegen der von mir vorgeschlagenen Preiser theilung , unter der Ungunst der öffentlichen Meinung, [p. 92] die auf der Oberfläche der Zeit schwimmt , zu leiden zu haben. Durch den ursprünglichen Zweck der Philosophischen Gesellschaft bei ihrer Gründung (wenn die selbe auch jetzt, gerade so wie die eingegangenen Be werbungsschriften, in sich, ja vielleicht sogar in ihrem Ausschusse , die Totalität der mannigfaltigen Zeit richtungen wiederspiegelt), ferner durch die von der Gesellschaft ausgegangene Herstellung des Hegel Denkmals, auch durch die Hegelstiftung, und jetzt noch zuletzt durch das vermittelst dieser Stiftung ermöglichte
+
+Preisausschreiben ist der Gesellschaft gewissermaßen doch nun ein für alle Mal ein character indelebilis auf gedrückt. Wir wollen daher die Gunst des Schicksals preisen, wenn es uns , ganz ohne vorher gehegte Absicht , nur durch die Logik der Thatsachen , die im nothwendigen Gange der Ereignisse liegt, unterstützt, gelingen sollte, den Umschwung in der philosophischen Welt vorzubereiten, den ich gleich Anfangs in Aussicht stellte. Für den Riesengeist, als welchen Hegel sogar seine Gegner, wie ich anführte, anerkennen , ist diese Genugtbuung eine so unerläßliche , wie unausbleibliche .
+
+Uns aber werden, bei der Mit- und Nachwelt, der Ruhm, die Ehre und deren Früchte zufallen, daß wir an unserem Theile mit dazu beitrugen, die Philosophie wieder in die Bahnen des Fortschritts, die der Neoschellingianismus versperren wollte , gelenkt zu haben , wenn sie auch , als exacte Wissenschaft, eine veränderte Gestalt angenommen hat. Jedenfalls hätten wir ihr, in Jahrhunderten der Zukunft, die Möglichkeit erwirkt, einen bedeutenden Ruck nach Vorwärts dem Ziele ihrer Vollendung entgegen zu machen.
+
+Noch möchte ich hinzufügen , daß es vielleicht wünschenswerth wäre, der etwa zu krönenden Abhand [p. 93] lung meinen Bericht voranzuschicken , wie Das denn öfters in ähnlichen Fällen geschehen ist. Dies würde einerseits der in Ihrem Ausschusse beanstandeten Kürze der No. II Abhilfe gewähren, andererseits dem Leser sogleich einen Total-Einblick in die etwa gehegte Aus sicht auf die Zukunft der Philosophie darbieten. Ja, noch vollständiger dürfte dieser Zweck erreicht werden, wenn, auf meinen Bericht als Einleitung, auch die zwei nicht gekrönten Abhandlungen , No. I vor der Nummer
+
+II, und Nummer III hinter derselben , abgedruckt würden. Das ergäbe einen stattlichen Band , welcher eine voll ständige Sammlung der in die vorliegende Frage ein schlagenden Actenstücke liefern würde.
+
+Wer fände sich indeß so leicht bemüßigt, einen immerhin recht starken Band in unserer schnell lebenden , praktischen Zeit, besonders über einen philosophischen Gegenstand, durch zulesen ? Die kurze Schrift der No. II möchte vielleicht, in
+
+Verbindung mit der vorgeschlagenen Einleitung, eine raschere und durchgreifendere Wirkung erzielen.
+
+### Zusatz .
+
+Der Leser dürfte hier die Frage aufwerfen , wie ich es mir gestatten könne, einen Bericht, den ich im Auf trage der Preisaufgebenden Gesellschaft verfaßte, zu einem andern Zwecke zu verwenden, als der war, den die Gesellschaft im Auge gehabt hatte. Als ich meinen
+
+Schlußantrag stellte, hegte ich zwar noch die – wenn auch nicht starke – Hoffnung, die Gesellschaft günstig für die von den Herausgebern in der Vorrede ausge sprochene Absicht zu stimmen. Seitdem ich aber die Erkenntniß des Gegentheils erlangte, mußte icb, in einer [p. 94] dritten Abtheilung unserer Veröffentlichung, die Berechtigung dazu nachweisen, daß ich nunmehr auch außer halb der Gesellschaft ein Unternehmen verfolge, welches ich im Interesse der Wissenschaft für ein mit Noth wendigkeit gebotenes erachte. Indem ich so die freie Verfügung über meine Gutachten zurüchbekam, meine ich sogar, die Verwirklichung unseres Zwecks sicherer und besser erreichen zu sollen , als wenn ich auf die Beihilfe der Gesellschaft hätte warten müssen.
+
+Getrost kann ich den Christlichen Ausspruch : „ Gott leitet alle Dinge zum Besten ,“ mit gutem philosophischen Gewissen auf unseren Fall beziehen , da schon ein heidnischer
+
+Philosoph, der Stoiker Kleanthes, in einer Hymne an Zeus, denselben Glauben bekannte : Weder geschieht, Du Göttlicher, ohne Dich Etwas auf Erden, Noch am ätherischen Pole des Himmels, noch in dem Meere : Ausser was unverständig die Sterblichen Schlechtes beginnen. Aber Du weisst auch da das Wilde zu fügen in Ordnung.
+
+Also stimmtest Du Alles zu Einem, Schlechtes zum Guten ; Dass durch die ganze Natur die Vernunft in Ewigkeit walte.
+
+Meine Schuld ist es aber nicht, wenn die jetzige philo sopbische Gesellschaft in dem sich vorbereitenden Drama der Philosophie eine Rolle wider Willen überkommen hat.
+
+## Zweite Abtheilung:
+
+Harings Historich -kritische Darstellung der dialektischen Methode Hegels .
+
+Ich weiß, daß sie die einzige Hegel.
+
+wahrhafte ist.
+
+## Einleitung
+
+Ein Versuch , Hegels philosophische Werke der großen Menge der wissenschaftlich Gebildeten zugänglich zu machen, muß als hoffnungslos aufgegeben werden. Was von Kant, Fichte und Schelling nach Hegels eigenen Worten gilt, ist in noch höherem Grade auf ihn selbst anwendbar. „ Bis in die Kantische Philosophie “ , sagt er , ,,ist das Publicum noch mit fortgegangen. Geschäftsmänner, Staatsmänner beschäftigten sich damit. “ Aber schon „ bei dem verworrenen Idealismus der
+
+Kantischen Philosophie sinken ihnen die Flügel.“ Noch mehr hat sich das gemeine Bewußtsein von der Fichte'schen Philosophie abgewandt, hat die Popularität noch weniger als Fichte erreicht." * Die Erklärung für diese Erscheinung findet Hegel in dem Speculativen, welches diese Philosophien enthalten. Wie hätte nun seine eigene Philosophie, die durch und durch speculativ ist , bei dem gebildeten Publicum all gemeinen Eingang finden sollen ? Ist sie doch wegen ihrer speculativen Natur sogar manchem Philosophen von Profession vollständig verschlossen geblieben. Zu dem erwähnten Hinderniß , das einer allgemeineren Verbreitung derselben von Anfang an im Wege stand , ist in neuerer Zeit noch ein anderes hinzugekommen. Von den großen Erfindungen der letzten sieb zig Jahre geblendet, hat das gebildete Publicum seine Gunst fast ausschließlich derjenigen Wissenschaft ge schenkt, welche jene Wunder möglich gemacht hat * Hegels Werke (zweite Auflage), B. XV, S. 678 u. 593.
+
+[p. 98] Die Philosophie ist in seinen Augen entthront, es liegt der Naturwissenschaft huldigend zu Füssen. Indessen braucht man deshalb doch nicht dem trost losen Glauben zu verfallen , daß es nun mit der Philosophie endgültig vorbei sei , daß sie als ein Element einer verschollenen Bildung nur noch etwa in einer
+
+Culturgeschichte einige Berücksichtigung verdiene. Denn gerade Vertreter der Naturwissenschaft, und zwar her vorragende, wie z. B. Helmholtz, haben nicht umhin ge konnt, zuweilen auf die Philosophie zu verweisen, und so einzugestehn , daß ihr Durst nach Erkenntniß von ihrer eigenen Wissenschaft doch nicht vollständig ge stillt wird. Auch sind innerhalb der Naturwissenschaft in neuster Zeit manche Vorstellungen aufgekommen, durch welche sie sogar dem speculativen Denken näher gerückt ist , wie z. B. die von der Umsetznng der Bewegung in Wärme , der Electricität in Magnetismus und andere .
+
+Der Philosoph , auf welchen Naturforscher gelegentlich verweisen, ist nun freilich nicht Hegel, von diesem sprechen sie in der Regel gar nicht oder mit unver hohlenem Widerwillen , sondern Kant, und hieraus erklärt es sich wohl zum Theil, daß von jüngeren deut schen Philosophen, die es vielleicht für gerathen hielten, mit der hochmögenden Naturwissenschaft auf gutem Fuße zu stehn , in den letzten zwanzig Jahren nichts eifriger betrieben worden ist, als die Rückkehr zu Kant.
+
+Daß aber mit diesem Zurückgehn auf die kritische Philosophie ein durchschlagender Erfolg erzielt worden sei, wird wohl kaum jemand behaupten. Es sind bei der Gelegenheit die „Epigonen “ mit Ausnahme Hegels zum Theil treffend kritisirt , es sind manche wirkliche oder scheinbare Widersprüche Kants mit sich selbst [p. 99] aufgedeckt, manche Ergänzungen und Berichtigungen seines Systems in Vorschlag gebracht worden : im Ganzen erkennt jedoch die so oder so verbesserte Erkenntnis theorie nicht mehr, als die ursprüngliche erkannte, una erklärt auch ihrerseits für unerkennbar , was diese für unerkennbar erklärte. Ja, Liebmann, der Urheber des
+
+Losungswortes : „ Es muß auf Kant zurückgegangen werden “, beweist vielleicht noch schlagender als das, was er eigentlich beweisen will, die Unmöglichkeit, bei Kant stehen zu bleiben, also die Nothwendigkeit über Kant hinauszugehn. Zu wem jedoch von Kant aus fortzuschreiten ist, kann kaum zweifelhaft sein . Die Philosophien Fichtes,
+
+Schellings, Schopenhauers und E. v. Hartmanns mochten bei ihrem Erscheinen wohl Manche blenden , zeigen aber, aus einiger Entfernung und mit Ruhe betrachtet, ihre Unfertigkeit, ihren Mangel an systematischer Geschlossenheit und methodischem
+
+Verfahren doch zu deutlich , als daß sie die nach philosophischer Einsicht Begierigen dauernd anziehen könnten ; und mit Herbart zu Leibnitz und dessen Monaden zurückzukehren , ist doch auch ein Vorschlag , welchen man im Ernste niemandem machen wird , dem es um mehr als eine äusserliche „ Bearbeitung “ (d. i. Zurechtstutzung) ge wisser philosophischer Begriffe, um mehr als die Auf lösung einiger „Widersprüche in der Erfahrung" durch eine in sich selbst erst recht widerspruchsvolle Hypo these zu thun ist.
+
+Kann man also bei Kant nicht stehen bleiben ,
+
+SO zu Hegel vorwärts gegangen werden. Seine Philosophie ist der Kantischen ebenbürtig. Sie hat mit ihr die großen Eigenschaften eines wohl-geglie derten Aufbaus , einer sorgfältigen Ausarbeitung ihrer muß von ihm
+
+7*
+
+[p. 100] Theile , einer streng festgehaltenen und scharfsinnig durchgeführten Methode gemein ; sie ist , wie die Kantische , nicht eine Ansammlung von einander wider sprechenden Versuchen, sondern ein einheitliches System eine in sich vollendete Verkörperung der Wissenschaft des Wissens. Sie übertrifft die Kantische an Tiefe der
+
+Einsicht , an Folgerichtigkeit der Entwickelung, an Gedrungenheit der Sprache, an Kühnheit und zugleich Sicherheit des Gedankenflugs. Vielleicht würden daher von denen, welche das Studium der Philosophie , sei es zu einer gewissen Zeit ihres Lebens , sei es ihr ganzes Leben hindurch , ernst lich betreiben, manche den Versuch machen, in Hegels
+
+Philosophie einzudringen, wenn sie nicht durch die eigen thümliche Methode derselben , durch ihre ,,dem gemeinen Bewußtsein “ völlig unverständliche Sprache davon ab geschreckt würden.
+
+Zum Besten solcher Jünger der Philosophie soll nun hier eine historisch - kritische Darstellung der speculativen Methode Hegels gegeben werden, ob wohl eine solche Scheidung der Form von dem In halte gerade seinem System gegenüber , in welchem dieser jene durch und durch bedingt , eine etwas mil liche Sache ist.
+
+„ Die Exposition dessen “, sagt Hegel (Werke, B. III, S. 38), „ was allein die wahrhafte Methode der philosophischen Wissenschaft sein kann , fällt in die Abhandlung der Logik selbst ; denn die Methode ist das Bewußt sein über die Form der inneren Selbstbewegung ihres Inhalts.“66
+
+Eine wirklich genügende Darstellung seiner Methode müsste also eine förmliche Reproduction seiner Logik werden . Was hier geboten wird, kann der Natur der
+
+[p. 101] Sache nach nicht mehr sein, als eine Beschreibung des
+
+Ursprungs und des Wesens der dialectischen Methode in der Sprache des gewöhnlichen Bewußtseins , und kann nur den Zweck verfolgen, der jüngeren philosophischen Generation das Studium des scharfsinnigsten und voll endetsten philosophischen Werkes aller Zeiten, der Logik Hegels, als eine , allerdings großen Muth und unermüd liche Ausdauer erfordernde, aber auch die höchste geistige Befriedigung gewährende Arbeit erscheinen zu lassen .
+
+### Erstes Capitel.
+
+Die Grundgedanken der Hegel'schen Philosophie. Eine gesonderte Darstellung der dialectischen Methode Hegels würde unverständlich bleiben , wenn ihr nicht die Angabe des wesentlichen Inhalts seiner Philosophie vorausgeschickt würde.
+
+Hier ist eine solche in gedrängter Kürze. Hegel wird von dem Gedanken geleitet , daß die Vernunft ebensowohl als Subject wie als Object aufge faßt werden müsse. (Werke, B. II, S. 14.) Sie ist ihm das Innere der Welt , das, was allem zu Grunde liegt, was allem Bestand und Halt giebt. Während sie aber in den Dingen nur ist und wirkt, kommt sie im Men schen zum Selbstbewußtsein. Auch in den Schöpfungen der Menschen, in dem Staat, dem Recht, der Sitte, der Kunst , der Religion , den besonderen Wissenschaften , wirkt sie zum Theil nur instinctmäßig ; in der Wissen schaft des Wissens allein , in der Philosophie , wird sie sich ihrer selbst völlig bewußt , macht sich selbst zu ihrem Gegenstande , erkennt ihr Wesen , kommt, so zu [p. 102] sagen, hinter sich, so wie hinter die äußern Dinge und hinter die genannten concreten Gestalten , in denen sie sich geschichtlich verwirklicht hat und noch verwirklicht. Es ist daher verkehrt, nach dem Beispiele Kants von unserem menschlichen " Denken zu immer nur reden, als ob es der Welt nur als etwas Anderes gegen überstände, nicht auch das Wesen derselben auszu sprechen fähig wäre. Es ist eine philisterhafte Ansicht mit Kant und Haller zu meinen , daß das Innere der
+
+Natur von keinem erschaffenen Geist erkannt werde : der Geist ist eben das Innere der Natur, das aber erst in der Wissenschaft des Wissens rein für sich heraus gearbeitet wird .
+
+Man sollte meinen , in Folge der vorgeschrittenen allgemeinen Bildung der Menschen müsse es heut' zu Tage möglich sein, diese Grundanschauung Hegels auch solchen , die in philosophischem Denken nicht geübt sind, annehmbar erscheinen zu lassen. Schon die allen Wissenschaften zu Grunde liegende Voraussetzung , daß durch Nachdenken das Wesen der
+
+Dinge herausgebracht werden könne, spricht ja für die selbe. Die Gesetze , welche von den Physikern , Astro nomen, Chemikern und andern Erforschern der Natur festgestellt worden , sind doch jedenfalls keine Dinge, sondern an sich Gedanken , d. i. vernünftige Bestimmungen , nach welchen sich die Natur richtet , welche also auch in der Natur vorhanden sind , obschon sie erst durch die Thätigkeit der Menschen als Gedanken enthüllt werden .
+
+Die Sprachen sind ein anderes Beispiel, durch welches das unbewußte, instinctartige Wirken der Vernunft veranschaulicht werden kann. Lange bevor es ein Volk dahin bringt, die Formen seiner Sprache einer [p. 103] verständigen Untersuchung zu unterwerfen, Wort- und Satzarten von einander zu unterscheiden , kurz, die in ihr liegenden logischen oder vernünftigen Principien für sich herauszuheben, sind diese schon in ihr wirksam : ihnen gemäß bildet sich die Sprache von Anfang an, obschon sie erst erkannt werden, nachdem sich dieselbe schon weit entwickelt, vielleicht ihre vollendete Gestalt im Wesentlichen schon erreicht hat. *
+
+Wenn nun der Grammatiker die Wörter einer
+
+Sprache in Substantive , Adjective , Verben , Prä positionen u. s. w. eintheilt, so kann es ihm scheinen, als ob er hier allein von dem Material , das er als ein gegebenes, irgendwie gewordenes vorfindet, geleitet würde , wie sich etwa auch der Botaniker vorstellt , er werde bei seinen Classificationen und Beschreibungen nur von den vorhandenen Pflanzen geleitet. Indessen in beiden Fällen und in allen ähnlichen spielen auch die dem menschlichen Geiste innewohnenden Kategorien, die reinen Wesenheiten des Philosophen , deren wahre Bedeutung jene Forscher freilich in der Regel nicht be griffen haben , eine wichtige Rolle. Wenn der mensch liche Geist nicht selbst etwas für sich Bestehendes so näher bestimmt sein kann, eine Substanz mit diesen oder jenen Attributen , und wenn diese seine innere Natur nicht schon bei der Bildung der Sprache instinctiv wirksam gewesen wäre , so wäre , das so oder würde der Grammatiker auch keine Substantive und keine
+
+Adjective vorfinden, diese Wortarten – um einen Kantischen Ausdruck zu gebrauchen -- nicht aus der Sprache
+
+,,herausklauben" können ; und wenn in dem Geiste eines
+
+Botanikers die philosophischen Kategorien des An -sich * Vergl. Hegels Encyclopädie welche ich nach der noch von ihm selbst besorgten dritten Ausgabe citire - $ 459, S. 471.
+
+[p. 104] Seins, Für- sich - Seins und An -und - für- sich - Seins nicht auch anwesend wären , obschon er von diesen blinden
+
+Passagieren nichts weiß , so würde er die Vorstellung, daß sich aus der Eichel nur ein Eichbaum entwickeln kann, daß der Baum, so zu sagen, schon in der Frucht steckt und seinerseits wiederum nur diese bestimmte
+
+Frucht, keine andere , hervorbringen kann, nicht zu fassen im Stande sein .
+
+Was aber in diesen besondern Fällen gilt und durch deren Anführung veranschaulicht werden sollte, gilt all gemein für die ganze sinnliche Welt und für das ganze Reich des Geistes. Was Hegel gewollt und nach meiner Meinung erreicht hat, war nichts Geringeres, als den ursprünglichen vernünftigen Gehalt beider für sich ausfindig zu machen und dann dessen Verwirklichung in beiden nachzuweisen.
+
+(Vergl. Werke B. III , S. 16
+
+u. 17.)
+
+Den ersten Theil dieser Heldenarbeit hat er in der großartigsten und vollendetsten Weise in seinerLogik ausgeführt, den zweiten in geringerem Umfang in seiner Encyclopädie, einem ,, Vorlesebuch " , das erst durch mündlichen Vortrag seine nöthige Erläuterung erhalten sollte (Encycl., dritte Ausgabe, S. III), und das — bei in seinen von der Naturphilosophie und von der Philosophie des Geistes handelnden Theilen -- also in denjenigen, zu deren umständlicherer Dar stellung Hegel selbst nicht gekommen war, – vor einigen Jahren eine außerordentlich sorgfältig gearbeitete, alle neueren Special-Forschungen berücksichtigende Er läuterung und Ergänzung gefunden hat in C. L. Michelet's „ System der Philosophie als exactèr Wissenschaft.“ Ueber das Verhältniss der Logik , wie sie Hegel auffaßt, zu den empirischen Wissenschaften mag hier läufig bemerkt [p. 105] ehe wir an eine Beschreibung ihrer Entstehung und ihrer eigenthümlichen Methode gehen, noch das Nöthigste gesagt werden, da das Mißverständniß , Hegel habe auf Grund jener absoluten Wissenschaft die Natur und die Geschichte construiren, so zu sagen, aus dem Nichts er schaffen wollen, noch immer nicht ganz verschwunden ist.) Dieverständlichsten Aeußerungen Hegels über dieses Verhältniß finden sich in der Einleitung zu seiner Encyclopädie. Er sagt da (unter Anderem , was hier noch angeführt werden könnte , wenn wir es nicht auf eine möglichst knapp gehaltene Darstellung abgesehn hätten) : ,,Das nächste Bewußtsein dieses Inbalts" (d. i. der Wirklichkeit) „nennen wir Erfahrung. Eine sinnige Betrachtung der Welt unterscheidet schon, was von dem weiten Reiche des äußern und innern Daseins nur Erscheinung, vorübergehend und bedeutungslos ist , und was in sich wahrhaft den Namen der Wirklichkeit verdient.
+
+Indem die Philosophie von anderem Bewußtwerden dieses einen und desselben Gehalts nur der Form nach unterschieden ist, so ist ihre Uebereinstimmung mit der Wirklichkeit und Erfahrung nothwendig .“ ($ 6, S. 7.) Ferner : „ Das Verhältniß der speculativen Wissenschaft zu den anderen Wissenschaften ist Inhalt der letzteren nicht etwa auf der Seite läßt, sondern ihn anerkennt und gebraucht, daß sie eben so das All gemeinedieser Wissenschaften , die Gesetze, die Gattungen u. s. w. anerkennt und zu ihrem eigenen Inhalte ver wendet, daß sie aber auch ferner in diese Kategorien andere einführt und geltend macht. Der Unterschied bezieht sich insofern allein auf diese Veränderung der
+
+Kategorien .“ (§ 9,S. 14.) Freilich ist die Einführung neuer, ja, schon die ver änderte Auffassung bekannter Kategorien keine so un
+
+[p. 106] + bedeutende Sache, wie es dem unbefangenen Bewußtsein auf den ersten Blick scheinen mag. Man darf behaupten , daß die veränderte Auslegung einer einzigen Kategorie von Seiten eines englischen Philosophen den ersten Anstoß zu der Entwickelung der ganzen neueren deut schen Philosophie gegeben hat. „ Ich gestehe frei“, sagt Kant *, „ die Erinnerung “ (d. i. die Bemerkung) ,,des David Hume war eben dasjenige , was mir vor vielen
+
+Jahren zuerst den dogmatischen Schlummer unterbrach und meinen Untersuchungen im Felde der speculativen
+
+Philosophie eine ganz andere Richtung gab .“
+
+Hume hatte bekanntlich „ einem einzigen , aber wichtigen Begriffe der Metaphysik , nämlich dem der Verknüpfung der Ursache und Wirkung “, die Nothwendigkeit abgesprochen, die man demselben vor ihm beizulegen pflegte, und dadurch namentlich seinen schottischen Landsleuten
+
+Reid, Beattie und Oswald einen wahren Schrecken ein gejagt, weil sie meinten , daß er damit dem Schluß des gewöhnlichen Bewußtseins von der Welt auf eine letzte Weltursache und so ihrem besten Beweise für das Dasein Gottes allen Halt zu rauben versucht habe.
+
+So wenig unschuldig und harmlos also einerseits die philosophische Feststellung der in den empirischen Wissenschaften und insbesondere in der Theologie zur Anwendung kommenden Kategorien ist, so unumgänglich nothwendig ist sie andererseits. Man bedenke doch nur, daß man in jenen Wissenschaften die wichtigsten Kategorien , wie Sein , Werden , Dasein , Qualität, Quantität, Ding , Eigenschaft, Substanz und Accidenz , Kraft und Stoff, Inneres und Aeußeres, Endlichkeit und Unendlich keit u. s. w. , gebraucht und gelten läßt , ohne jemals * Sämmtliche Werke, herausgegeben von G. Hartenstein , B. VI, S. 8.
+
+[p. 107] genau untersucht zu haben, welche Bedeutung man ihnen eigentlich beimißt und beimessen darf. Nun , diese Untersuchung hat in der neueren Zeit erst Kant in größerem Umfang begonnen und Hegel im Wesentlichen vollendet ; denn bei diesem ist das Ergebnis derselben ein vollständiges System der Form, welche die sich rein auf sich beziehende Vernunft im Laufe ihrer Entwickelung annimmt.
+
+### Zweites Capitel .
+
+Hegels Vorgänger . Während unter den neueren bedeutenderen Philosophen mancher die Ansicht hegte, daß sein System das einzige richtige, alle andern aber falsch seien, hat Hegel im Gegentheil stets daran festgehalten, daß die Philosophie im Grunde nur eine sei , und daß sich in den auf einander folgenden Systemen der verschiedenen
+
+Philosophen nur die geschichtliahe Entwickelung dieser einen Wissenschaft darstelle.
+
+Dies geht schon aus seiner bereits im Jahr 1801 erschienenen Abhandlung über die ,, Differenz des Fichte' schen und Schelling'schen Systems der Philosophie “ ganz unzweifelhaft hervor.
+
+Wenn das Absolute“ , sagt er da (Werke, B. I, S. 165), „ wie seine Erscheinung, die Vernunft, ewig Ein- und dasselbe ist (wie es denn ist) : 80 hat jede Vernunft, die sich auf sich selbst gerichtet und sich erkannt hat, eine wahre Philosophie producirt, und sich die Aufgabe gelöst, welche, wie ihre Auflösung, . ,,Jede Philosophie", bemerkt er zu Ende des betreffenden Abschnitts (S. 168 ), zu allen Zeiten dieselbe ist“ „ ist in sich vollendet, und hat, wie ein ächtes Kunst [p. 108] werk, die Totalität in sich. So wenig des Apelles und
+
+Sophokles Werke , wenn Raphael und Shakespeare sie gekannt hätten, diesen als bloße Vorübungen für sich hätten erscheinen können : so wenig kann die Vernunft in früheren Gestaltungen ihrer selbst nur nützliche Vorübungen für sich erblicken.“
+
+Derselben hohen Meinung von der geschichtlichen Entwickelung der Philosophie huldigt Hegel aber auch noch in dem vollendetsten seiner Werke, in der Logik. „ In Rücksicht auf die Widerlegung eines philosophischen Systems“, sagt er da ( Werke , B. V, S. 9), „ ist ander wärts die allgemeine Bemerkung gemacht worden , daß daraus die schiefe Vorstellung zu verbannen ist, als ob das System als durchaus falsch dargestellt werden solle , und als ob das wahre System dagegen dem falschen nur entgegengesetzt sei.
+
+Diese allgemeine
+
+Bemerkung auf das System Spinoza's anwendend, kenn zeichnet er dies so : „ Es ist nicht der höchste Stand punkt. Allein insofern kann das System nicht als falsch , als der Widerlegung bedürftig und fähig an gesehen werden ; sondern nur dies daran ist als das
+
+Falsche zu betrachten, daſs es der höchste Standpunkt sei. Das wabre System kann daher auch nicht das
+
+Verbältniß zu ihm haben , ihm nur entgegengesetzt zu sein ; denn so wäre dies Entgegengesetzte selbst ein Einseitiges.
+
+Vielmehr als das höhere muß es das unter geordnete in sich enthalten .“ Hierzu nehme man nun noch folgenden, in der
+
+Encyclopädie ($ 6, S. 8) vorkommenden Ausspruch, der ja, wenn er überhaupt von der Verwirklichung der Vernunft in der Geschichte der Menschheit gilt, auch von der geschichtlichen Verwirklichung der Philosophie . gelten muß : „ Diese Uebereinstimmung “, nämlich der
+
+[p. 109] Philosophie mit der Wirklichkeit, „ kann für einen wenigstens äußern Prüfstein der Wahrheit einer Philosophie angesehn werden “, – und man wird überzeugt sein, dal
+
+Hegel vom Anbeginn seiner philosophischen Laufbahn an einen Kompaß besaß , der ihm zeigte , wobin er steuern mußte. Sein System mußte , wenn es ihm genügen sollte , alle vorhergehenden als untergeordnete Standpunkte in sich enthalten. Daß er auch das Steuer besaß, um diese Insel der Seligen zu erreichen , und daß er dieses Steuer Kants Händen entrang, -- nicht etwa geschenkt bekam , dies werden wir im nächsten Capitel darthun . Hier haben wir es noch nicht mit seinem speciellen Vorgänger, sondern nur mit seinen Vorgängern im allgemeinen zu thun. Als solche sind im Grunde alle früheren Philosophen, die ein wirkliches System hervorbrachten , anzusehn.
+
+Indessen ging er zunächst doch von den deutschen Philosophen aus, welche in den letzten zwanzig Jahren des vorigen Jahrhunderts eine so gewaltige Umwälzung in dieser Wissenschaft bewirkten .
+
+Nachdem er, ebenso wie Fichte und Schelling, woh !
+
+zuerst durch Kant aus seinem dogmatisch -metaphy sischen Schlummer aufgerüttelt worden war, konnte er, da es seiner gründlichen Natur gänzlich widerstrebte, „ seine philosophische Ausbildung vor dem Publicum “ zu machen *, auch noch die ersten Werke jener beiden Männer für die Ausarbeitung seines Systems benutzen. Daß er dieselben , sowie die Werke Jacobi's, Rein holds, Spinoza's, vollständig verdaute und allen Nahrungs stoff, den sie ihm bieten konnten, aus ihnen herauszog, ehe er an die Vollendung seines Systems ging, ergiebt *
+
+Vergl. Werke, B. XV, S. 585.
+
+[p. 110] sich schon aus seinen in den Jahren 1801 u. 1802 veröffentlichten Abhandlungen über die „ Differenz des Fichte'schen und Schelling'schen Systems“ und über ,,Glauben und Wissen " , und was den Inhalt und die Gliederung seiner Philosophie anbetrifft, so darf wohl zugestanden werden , daß er diesen Philosophen viel fache Anregung und Förderung verdankte. Da wir es aber hier nur mit der Entstehung seiner Methode zu thun haben, so müssen wir uns darauf beschränken, die Beiträge, die sie ihm zu der Ausbildung dieser ge liefert haben mögen, bemerklich zu machen. Wir können o uns jedoch kurz fassen, denn sie lieferten ihm für die
+
+Erreichung dieses Zwecks im ganzen nicht viel. Spinoza's der Mathematik entlehnte Methode gilt ihm als völlig ungeeignet für die Darstellung philosophischer Wahrheit. * Dagegen spricht er dem Satze Spinoza's „ Omnis determinatio est negatio“ eine „ unendliche Wichtigkeit zu. (Werke, B. III, S. 111.) In demselben Sinne äußert er sich an einer andern
+
+Stelle (B. IV, S. 188) : „ Die Bestimmtheit ist Negation , ist das absolute Princip der Spinozistischen Philosophie ; diese wahrhafte und einfache Einsicht be gründet die absolute Einheit der Substanz. Aber Spinoza bleibt bei der Negation als Bestimmtheit oder Qualität stehen ; er geht nicht zur Erkenntniß derselben als ab
+
+$ soluter, das heißt, sich negirender Negation fort; somit enthält seine Substanz nicht selbst die absolute Form, und das Erkennen derselben ist kein immanentes Er kennen ". Aber Hegel wußte diesem Mangel des Spino zistischen Princips abzuhelfen und es dadurch zur eigent * Vergl. 1 ) Vorrede zur Phänomenologie (Werke, B. II, S. 33 ;
+
+2) Logik, Einleitung (Werke, B. III, S. 37) ; 3) Vorlesungen über die
+
+Geschichte der Philosophie (Werke, B. XV, S. 343).
+
+[p. 111] lichen Seele seiner Methode zu machen. „ Das Einzige, um den wissenschaftlichen Fortgang zu gewinnen, und um dessen ganz einfache Einsicht sich wesentlich zu be mühen ist“, sagt er in der Einleitung zu seiner Logik die Erkenntniß des logischen ( W., B. III, S. 38), ist :
+
+Satzes, daß das Negative eben so sehr positiv ist, oder daß das sich Widersprechende sich nicht in Null, in das abstracte Nichts auflöst, sondern wesentlich nur in die
+
+Negation seines besonderen Inhalts, oder daſ eine solche Negation nicht alle Negation, sondern die Negation einer bestimmten Sache, die sich auflöst, somit bestimmte Negation ist ; daß also im Resultate wesentlich das ent halten ist, woraus es resultirt.
+
+sultirende, die Negation , bestimmte Negation ist , hat sie einen Inhalt. Sie ist ein neuer Begriff, aber der höhere, reichere Begriff als der vorhergehende ; denn sie ist um dessen Negation oder Entgegengesetztes reicher geworden ; enthält ihn also, aber auch mehr als ihn, und ist die Einheit seiner und seines Entgegengesetzten . So hatte er durch Conversion des Spinozistischen Satzes das belebende Princip entdeckt, nach welchem „ sich das System der Begriffe überhaupt zu bilden, und in unaufhaltsamem, reinem , von Außen nichts hereinnehmendem Gange zu vollenden hat “ (S. 39). Auch Fichte mag ihm bei der Ausbildung der wahr haften philosophischen Methode von Nutzen gewesen sein. „ Die Identität des Subjects und des Objects“, wie sie Fichte hinstellt, gilt ihm als „ das kühn ausge sprochene ächte Princip der Speculation“ (W., B. I., )
+
+S. 159). Namentlich hebt er aber Fichte's Versuch, die * Im vierten Capitel dieser Abhandlung wird die oben stehende abstracte Beschreibung der dialectischen Methode durch Beispiele veranschaulicht werden.
+
+[p. 112] Quisjechua
+
+Nothwendigkeit der Kategorien aufzuzeigen, rühmend hervor.
+
+Er führt zuerst aus der bereits im Jahre 1794 erschienenen und von ihm gebührend gewürdigten und durchforschten ,,Wissenschaftslehre" einige Beispiele zur Erläuterung dieses Versuchs an, von denen wenigstens eins hier Platz finden mag. „Insofern das Ich betrachtet wird als den ganzen, schlechthin bestimmten Umkreis aller Realitäten umfassend, ist es Substanz ; insofern es in eine nicht schlechthin bestimmte Sphäre dieses Um kreises gesetzt;wird, ist es ein Accidens.“ – „ Dies“, be merkt er dann, „ ist der erste vernünftige Versuch in der Welt , die Kategorien abzuleiten ; dieser Fortgang von einer Bestimmtheit zu einer andern ist aber nur Analyse vom Standpunkt des Bewußtseins aus, nicht an
+
+Wie man sieht, erkannte Hegel , daß, diesem ersten vernünftigen Versuch ein zweiter , von und für sich “ .
+
+der Einseitigkeit des ersten befreiter, folgen müsse.
+
+Er machte denselben in seiner Logik, zu deren erfolg reichem Aufbau ihm also — außer und nach Spinoza Fichte den besten Mörtel geliefert hatte. Was Schelling anbetrifft, so durchschaute Hegel jedenfalls sehr früh dessen Hauptmangel . Schon die Abhandlungen über die ,, Differenz des Fichte'schen und
+
+Schelling'schen Systems" ( 1801) und über ,,Glauben und Wissen “ ( 1802) machen den Eindruck, daß Hegel dem Fichte’schen System in Bezug auf die Form den Vorzug vor dem Schelling'schen giebt.
+
+Ob er sich in seinen
+
+Vorlesungen über die Geschichte der Philosophie bereits natürlich nur insoweit Schellings in Jena so aussprach , vor 1805 erschienene Schriften in Betracht kommen, wie später, könnte nur auf Grund einer zu diesem Zweck vorgenommenen Durchsicht seines Jenaischen
+
+Collegienheftes festgestellt werden. Mir scheint es un [p. 113] wahrscheinlich zu sein.
+
+Denn in dem XV. Band seiner
+
+Werke , S. 587 , lautet die hier in Frage kommende Aeußerung so : „ In verschiedenen Darstellungen fing Schelling jedesmal nur wieder von vorne an, weil, wie man sieht, das Vorhergehende ihm nicht Genüge gethan hat, sondern er immer nach einer neuen Form suchte ; und so hat er sich in verschiedenen Formen und Terminologien herumgeworfen, ohne je ein vollendet durc geführtes Ganze aufzustellen. Während seines Aufenthalts in Jena war aber Hegel gegen Schelling, den er wegen seiner Uebersiedelung dahin um Rath gefragt hatte, so viel mir bekannt ist, stets sehr rücksichtsvoli . Indessen schon in der Vorrede zu seiner im Jahr 1807 veröffentlichten Phänomenologie, also nur ein Jahr nach der Schlacht bei Jena, die auch ihn von da vertrieb, bricht er in eine Philippica aus, bei deren Abfassung er jedenfalls Schelling hauptsächlich im Auge hatte. Um sich von der Richtigkeit dieser Behauptung zu über zeagen, lese man zuerst folgende, theils seinem ,, Ersten
+
+Entwurf eines Systems der Naturphilosophie" , theils seinem ,,System des transscendentalen Idealismus “ ent nommene , also schon in den Jahren 1799 und 1800 gedruckt vorliegende Bemerkungen Schellings : „ Wenn in der organischen Natur nur der allgemeine Organismus gleichsam sich contrahirt, so müssen in der allgemeinen
+
+Natur wenigstens die Analoga aller Kräfte vorkommen . Und so wäre 1 ) das Licht das was in der allgemeinen Natur der Ursache des Bildungs triebs in der organischen Natur entspricht. Und wenn das Licht letzte Ursache alles chemischen Processes ist, So wäre der Bildungstrieb selbst O
+
+Potenz des chemischen Processes.
+
+Aber dieselbe
+
+Thätigkeit, welche auf einer tieferen Stufe als Bildungs [p. 114] trieb erscheint, erscheint auf einer höheren als Irri . tabilität ; und so würde nun 2) die Electricität das sein, was der Irritabilität in der Außenwelt ent spricht sache in der Außenwelt getrieben , die sich zur Electricität ebenso verhalten muß wie Sensibilität zu Irritabilität.
+
+sein , was der Sensibilität in der Außenwelt entspricht“ .
+
+*
+
+Ferner : „ Was ist denn nun das, was uns durch Empfindung zum Object wird ? Nichts anderes als Qualität. Aber Qualität ist nur Electricität, ein Satz, der in der
+
+Naturphilosophie bewiesen wird . Aber Electricität ist eben das, wodurch in der Natur jenes zweite Moment in der Construction bezeichnet wird.
+
+Man könnte also sagen , daſ, was in der Intelligenz die Empfindung ist, in der Natur die Electricität sei." **
+
+Mit diesen Proben vergleiche man nun Hegels ver nichtendes Urtheil über denjenigen Gebrauch der von Kant ,,durch den Instinct wiedergefundenen ", aber „ noch unbegriffenen Triplicität“, „ durch den wir sie zum leb losen Schema zur Tabelle herabgebracht sehen “ : „ Dieser Formalismus, die Natur und das Leben einer Gestalt begriffen und ausgesprochen zu haben, wenn er von ihr eine Bestimmung des Schema's als Prädicat aussagt, es sei die Sub jectivität oder Objectivität, oder auch der Magnetismus, die Electricität und so fort, die Contraction oder Expansion, der Osten oder Westen und dergleichen , was sich ins Unendliche vervielfältigen läßt, weil nach dieser * Schellings sämmtliche Werke, B. III ., S. 207, S. 210 und S. 218. ** Werke , B. III , S. 452.
+
+Schelling schreibt : „jener zweite
+
+Moment“ , was dem heutigen Sprachgebrauch zuwider ist.
+
+[p. 115] Weise jede Bestimmung oder Gestalt bei der andern denselben Dienst leisten kann ; - ein Cirkel von Gegenseitigkeit , wodurch man nicht erfährt, was die Sache selbst, weder was die eine noch die andere ist.“ Und „ diese äußere und leere Anwendung der Formel wird Construction genannt.“66 * Man ersieht aus dieser nicht mißzuverstehenden
+
+Stelle, daß Hegel seinem um fünf Jahre jüngern, genialen philosophischen Zeitgenossen in methodischer Hinsicht durchaus nichts zu danken hatte. In seinen Vorlesungen über die Geschichte der Philosophie erkannte er ver muthlich stets unumwunden an , daß es in der Schelling schen Philosophie um einen tiefen speculativen Inhalt zu thun ist.
+
+Aber Schellings Methode verwarf er voll ständig, und, wie man zugeben wird, mit Recht : sie diente ihm nur als abschreckendes Beispiel. Auch der Grund, warum es Schelling in methodischer Beziehung nicht weiter gebracht hatte und auch nach Hegels Tod nicht weiter brachte , war ihm vollkommen klar. „ Spätere Darstellungen von Philosophie“, sagt er (B. III, S. 49) mit Bezugnahme auf Kant in einer Stelle , welche ich im nächsten Capitel vollständig anführen werde , „ haben dasselbe " (d. i. das Logische ) „ wenig beachtet , zum Theil oft nur eine rohe -- aber nicht ungerächte Verachtung dagegen bewiesen .“ Außer Spinoza, Fichte und Kant, mit dem wir uns im nächsten Capitel eingehender beschäftigen werden, sind jedenfalls Plato und Aristoteles von Hegel bei der *
+
+Werke, B. II, S. 37 und 38. Auf wen diese Kritik gemüazt war, verstand natürlich niemand besser als Schelling. Er brach nach dem Erscheinen der Phänomenologie seinen Briefwechsel mit seinem Jugendfreunde sofort ab . 8. Briefe von und an Hegel , herausgegeben von Karl Hegel. 8+
+
+[p. 116] Ausbildung seiner dialectischen Methode am meisten zu Rathe gezogen worden , aber auch sie nicht blindlings.
+
+Ihre Dialectik behandelt er in seinen Vorlesungen besonders ausführlich und offenbar mit dem größten Interesse (B. XIV, S. 195–217 und S. 277–280). Ich halte es jedoch nicht für nothwendig , einzelne seiner Aussprüche über dieselbe hier anzuführen , sondern be gnüge mich damit zu bemerken, daß sie ihm nicht direct zum Vorbild dienen konnte : denn, was Plato anbetrifft, so findet Hegel bei ihm zwar die Dialectik selbst, aber nicht das vollkommene Bewußtsein über ihre Natur (S. 195), und was Aristoteles anbetrifft, so ist seine Manier zu philosophiren wenigstens mit dem Scheine behaftet, daß sie das, was man Erfahrung nennt , zum Princip des Erkennens macht. ,,Ueberhaupt“, sagt Hegel in dieser Beziehung, „ist die gewöhnliche Vorstellung, die man jetzt von der Aristotelischen Philosophie hat, die, daß sie das, was man Erfahrung nennt, zum Princip des Erkennens gemacht hat“ . So falsch diese Ansicht auch einerseits ist, so ist die Veranlassung dazu in der Manier des Aristotelischen Philosophirens zu suchen. "
+
+( B. XIV, S. 277, Z. 6- 11.)
+
+In den Schriften beider fand Hegel jedoch manche
+
+Beispiele wahrhaft dialectischer Entwickelung, auch mag durch beide seine Aufmerksamkeit auf Kategorien gelenkt worden sein, welche bei Kant nicht zu ihrem Rechte kommen. Zur Bekräftigung der Behauptung , daß sie ihn mächtig ergriffen, und zwar schon in Jena, führe ich nur noch Michelet's Zeugniß aus der Vorrede zu Hegels Vorlesungen über die Geschichte der Philosophie an (B. XIII, S. XIII) : „ Die wörtlichen Anführungen “ (aus Aristoteles und Plato) „ anlangend, so zeigt deren Uebersetzung im Jenaischen Heft eine Frische des ersten gegenwärtigen Ein drucks, welche dem Leser nicht unbemerkt bleiben wird.“
+
+### Drittes Capitel .
+
+[p. 117]
+
+Die kritische Philosophie die eigentliche Vorstufe der speculativen. Wer, ganz äußerlich verfahrend, allein aus der verschiedenen Häufigkeit, mit welcher Hegel in seinen Werken seine unmittelbaren Vergänger Jacobi , Kant , Reinhold,
+
+Fichte und Schelling nennt, einen Schluß auf die verschiedene Bedeutung machen wollte, die sie für ihn haben, der würde zu der Ueberzeugung kommen, daß ihm Kant bei weitem obenan steht.
+
+Durch eine oberflächliche
+
+Kenntnißnahme von dem Inhalt der Stellen , an denen diese Männer von ihm genannt werden, könnte sich ferner jeder leicht überzeugen, daß Jacobi nur als einen Gegen satz zu Kant bildend und die übrigen genannten Philosophen nur als diesen oder jenen Mangel der kritischen Philosophie erkennend und ersetzend für ihn in Betracht kommen, daß er dagegen aus Kant einen wesentlichen Theil des Inhaltes seiner Philosophie gewonnen hat. Bei einer solchen Durchblätterung seiner Schriften, namentlich aber seiner Vorlesungen über die Geschichte der Pbilosophie, würde es uns nun freilich auch auf fallen , daß er Kant oft in starken Ausdrücken tadelt; Da wird z. B. seine Terminologie eine barbarische genannt ( W. , B. XV, S. 506). Da heißt es : „ Das Dritte bei Kant ist die Vernunft , zu der er von dem Verstande eben so psychologisch fortgeht: es wird nämlich im Seelensack herumgesucht, was darin noch für Vermögen sich befioden ; und so wird zufälliger Weise eben auch die Vernunft angetroffen. Es wäre eben so gut, wenn sich auch keine fände" (S. 518). Man würde indessen völlig irren, wenn man sich durch solche Ausdrücke
+
+[p. 118] Hegels zu der Meinung verleiten ließe , er habe vor Kants Verdiensten um die Philosophie keine Hochachtung gehabt. Jedem drastischen Worte des Tadels, mit dem er ihn bedenkt , könnte man ein halbes Dutzend Aus sprüche gegenüber stellen, in welchen er ihm die höchste Anerkennung zollt. Ich sehe indessen davon ab , zum Beweise dieser meiner Behauptung solche Aussprüche anzuführen , weil sie zum Theil in den Stellen vorkommen, die ich zu einem andern Zwecke vollständiger an führen muß.
+
+Es liegt mir nämlich nun ob , genauer anzugeben, was Hegel der kritischen Philosophie verdankte. Dab er ihr soviel verdankte, beruht freilich 'wesentlich darauf, daß er sich ihr gegenüber selbst durchaus kritisch ver hielt : er nahm nichts aus ihr auf, was er nicht zugleich tiefer erfaßte , besser begründete , bis zu Ende durch dachte.
+
+„ Ich erinnere“, sagt er in der bereits citirten Stelle seiner Logik (Werke, B. III, S. 49) , „ daß ich auf die Kantische Philosophie darum häufig Rücksicht nehme, "
+
+- was manchen überflüssig erscheinen könnte, - weil sie ihre nähere Bestimmtheit , so wie die besondern
+
+Theile der Ausführung mögen sonst und auch in diesem Werke betrachtet werden wie sie wollen) die Grundlage und den Ausgangspunkt der neueren deutschen Philosophie ausmacht, und dies ihr Verdienst durch das, was an ihr ausgesetzt werden möge, ihr ungeschmälert bleibt. Auch darum ist auf sie in der objectiven Logik häufig Rücksicht zu nehmen, weil sie sich auf wichtige be stimmtere Seiten des Logischen näher einläßt, spätere
+
+Darstellungen von Philosophie hingegen dasselbe wenig beachtet, zum Theil oft eine rohe - aber nicht unge-. rächte
+
+Verachtung dagegen bewiesen haben.“
+
+[p. 119] Zu den bestimmteren Seiten des Logischen, auf welche sich die Kantische Philosophie näher einläßt, gehören zunächst die Kategorien. Kant wurde bekannt lich durch Hume's Behauptung, daß der Verknüpfung von Ursache und Wirkung keine Nothwendigkeit zukomme, zu seinen „Untersuchungen im Felde der speculativen Philosophie “ angeregt. Er , fand bald , daß dieser Begriff bei weitem nicht der einzige sei, durch den der Verstand a priori sich Verknüpfungen der Dinge denkt.“ Er suchte sich ihrer Zahl zu versichern, und nachdem es ihm nach Wunsch gelungen war, sie nach einem Princip zusammen zubringen, bemühte er sich durch eine Deduction der selben -- „ das Schwerste, das jemals zum Behuf der Metaphysik unternommen werden konnte", ihre ob jective Gültigkeit zu begründen . *
+
+In sein ,,Stammregister des Verstandes nimmt Kant unter den vier Ueberschriften : 1. Kategorien der Quantität,
+
+2. der Qualität, 3. der Relation, 4. der Modalität je drei Stammbegriffe auf, nämlich : 1. Einheit, Vielheit, Allheit; 2. Realität, Negation, Limitation ; 3. Inhärenz und Sub sistenz , Causalität und Dependenz , Wechselwirkung ;
+
+4. Möglichkeit und Unmöglichkeit, Dasein und Nichtsein, Nothwendigkeit und Zufälligkeit. (W., B. III, S. 100.) Diese Tafel, sagt er dann, enthalte alle Elementar begriffe des Verstandes vollständig , sie sei ungemein dienlich, ja, unentbehrlich, den Plan zum Ganzen einer Wissenschaft , so fern sie auf Begriffen a priori be ruhe , vollständig zu entwerfen und sie mathematisch nach bestimmten Principien abzutheilen (S. 102 ) ; außer den Elementar- oder Stammbegriffen gebe es allerdings auch noch abgeleitete Begriffe des reinen * Immanuel Kants sämmtliche Werke , herausgegeben von G. Hartenstein , B. IV, S. 8.
+
+[p. 120] Verstandes , die in einem vollständigen System der Transscendental-Philosophie nicht übergangen werden dürften, die man aber leicht auffinden könne, wenn man die ontologischen Lehrbücher zur Hand nehme. (S. 101.) Ferner stellt er über die Tafel der Kategorien noch allerlei ,,artige Betrachtungen“ an, von denen ich folgende heraushebe. „ Die erste ist, daſs sich diese Tafel, welche vier Klassen von Verstandesbegriffen enthält, zuerst in zwei Abtheilungen zerfällen läßt , deren erstere auf Gegenstände der Anschauung (der reinen sowohl wie der empirischen), die zweite aber auf die Existenz dieser Gegenstände entweder in Beziehung auf einander oder auf den Verstand gerichtet ist. “ zum Nach befinden sich drei Kategorien, „ welches denken auffordert “.
+
+die dritte Kategorie allenthalben aus der Verbindung der zweiten mit der ersten (Kategorie ) ihrer Klasse ent springt . So ist die Allheit nichts Anderes als die Vielheit als Einheit betrachtet , die Einschränkung“ (Limitation ) „ nichts Anderes als Realitätmit Negation verbunden “ „Man denke aber ja nicht , daß darum die dritte Kategorie ein blos abgeleiteter uud kein Stamm -Begriff des reinen
+
+Denn die Verbindung der ersten und zweiten , um den dritten Begriff die dritte
+
+Verstandes sei .
+
+Kategorie ,,hervorzubringen , erfordert einen be n son Actus des Verstandes , der nicht mit dem einerlei ist , der beim ersten und zweiten “ bei der ersten und zweiten Kategorie -- „ ausgeübt wird “. (S. 102 und 103.)
+
+Alle diese Betrachtungen die vielleicht erhebliche Folgen in Ansehung aller Vernunfterkennt nisse haben könnten " ,7 besonders auch die letzte trotz ihrer, von mir bemerklich gemachten, etwas holpe [p. 121] rigen Fassung waren für Hegel vom höchsten Werthe. Er ließ sich durch sie zu einem so nachhaltigen und durchdringenden Nachdenken auffordern , daß es ihm wirklich gelang , „ das Ganze einer Wissenschaft , insofern sie auf Begriffen a priori beruht“, aufzubauen, - und zwar wesentlich deshalb , weil er die dialectische Natar ,,dieses besondern Actus des Verstandes durchschaute und ihn überall zur Herstellung der Ver bindung ausübte. Die von dem guten , ehrlichen Kant geahnten „ erheblichen Folgen in Ansehung der wissen schaftlichen Formaller Vernunfterkenntnisse" sind also wirklich eingetreten. Es ist wohl möglich , daß Hegel nach Kants Rath ein ontologisches Lehrbuch — vielleicht
+
+Christian Wolff's Philosophia prima sive Ontologia - zur Hand nahm und es zu dem angedeuteten Zweck durch suchte. Natürlich blieb ihm auch nicht verborgen, daß Quantität, Qualität, Relation und Modalität selbst wieder
+
+Kategorien sind, was Kant, wenn ich nicht irre, nirgends sagt. Ferner führte ihn wohl auch Kants Zerlegung der vier Klassen von Verstandesbegriffen in zwei Ab theilungen auf den Gedanken , daß jede dieser Abthei lungen der Vervollständigung bedürfe, daß z. B. zu den Kategorien Qualität und Quantität - den beiden ersten auch wieder eine dritte (sie heißt bekanntlich bei ihm Mal) durch einen besondern Actus des Verstandes gefunden werden müsse ; ja, die in der ersten Bemerkung vorkommenden Ausdrücke „ reine und empirische Anschauung“ und „ Existenz der Gegenstände in Beziehung auf einander oder auf den Verstand " enthalten eine, für einen Hegel wohl verständliche Hinweisung auf die Kategorien Sein und Wesen , welche den Inhalt der beiden ersten Bücher seiner Logik ausmachen.
+
+[p. 122] Von ganz besonderer Bedeutung mußten nun aber diejenigen Stellen der „ Kritik der reinen Vernunft“ für Hegel sein , welche ihn darauf führen konnten , den Begriff des Begriffs , im speculativen Sinne des
+
+Worts, und somit die aus der dialectischen Verbindung der Kategorien Sein und Wesen sich ergebende dritte Kategorie, welche den Inhalt des dritten Buchs seiner Logik bildet,, zu erfassen. Diese Stellen hier vollständig aufzunehmen , ist jedoch nicht thunlich . Ich muß mich begnügen, einige der auf sie hinweisenden Bemerkungen Hegels anzuführen, und dann kurz anzudeuten , iu wie fern in ihnen der Begriff in dem bezeichneten Sinne schon enthalten ist .
+
+Die wichtigste unter diesen Bemerkungen findet sich im zweiten Theil der Logik in dem Abschnitt, der „ Vom Begriff im Allgemeinen" handelt. Hier heißt es ( S. 14) : „ Es gehört zu den tiefsten und richtigsten Einsichten, die sich in der Kritik der Vernunft finden , daß die Einheit, die das Wesen des Begriffs ausmacht, als die ursprünglich -synthetische Einheitder Apper ception , als Einheit des > „ Ich denke" oder des Selbst bewußtseins erkannt wird.
+
+Dieser Satz macht die so genannte transscendentale Deduction der Kategorien aus ; sie hat aber von jeher für eins der schwersten Stücke der Kantischen Philosophie gegolten , - wohl aus keinem andern Grunde, als weil sie fordert, daß über die bloße Vorstellung des Verhältnisses, in welchem Ich und der Verstand zu einem Dinge und seinen Eigenschaften und Accidenzen stehen , zum Gedanken hinaus gegangen werden soll.“
+
+Kant selbst hatte sie, wie bereits oben im Vorüber gehn erwähnt wurde, für schwer erklärt. „ Diese De duction ", sagt er (Werke, B. IV, S. 8), „ die meinem [p. 123] scharfsinnigen Vorgänger (Hume) unmöglich schien, die niemand außer ihm sich auch nur hatte einfallen lassen, obgleich jedermann sich der Begriffe getrost be diente, ohne zu fragen, worauf sich denn ihre objective
+
+Gültigkeit gründe,— diese, sage ich, war das Schwerste, das jemals zum Behuf der Metaphysik unternommen werden konnte.“66
+
+Hegel erkannte ihre große Bedeutung schon sehr früh , was deswegen besonders beachtenswerth ist , weil wir daraus zugleich ersehen, daß er die Wünschelruthe, welche ihm die Hervorzauberung seines Systems ermöglichte, den Begriff des Begriffs, schon früh entdeckte, „ In dem Princip der Deduction der Kategorien “, schrieb er schon im Jahre 1801 , „ ist diese “ (die Kantische) „Philosophie ächter Idealismus ; und dies Princip ist es, was Fichte in reiner und strenger Form herausgehoben, und den Geist der Kantischen Philosophie genannt hat." Und ferner: „ In jener Deduction der Verstandes Formen ist das Princip der Speculation , die Identität des Subjects und Objects , aufs Be
+
+G stimmteste ausgesprochen.
+
+Diese Theorie des
+
+Verstandes ist von der Vernunft über die Taufe gehalten worden."
+
+Durch diese früh gewonnene tiefe Einsicht wurde
+
+Hegel zur Aufstellung seines Systems befähigt. Während es Fichte in speculativer Beziehung bei seiner ziemlich hastig entworfenen „ Wissenschaftslehre“ bewenden ließ, und während in Schellings Geist der tiefe speculative
+
+Inhalt, den er erfaßt. hatte , weiter gor , ohne sich je zu einem durchsichtigen System abzuklären , arbeitete Hegel in aller Ruhe, mit der größten Besonnenheit und Umsicht, mit unermüdlichem Fleiße an der Aufrichtung [p. 124] und Bedachung seines Systems, dessen erster Theil dem philosophischen Publicum im Jahr 1812 übergeben wurde.
+
+In der Einleitung bemerkt er , daſ Fichtes Philosophie den Anfang gemacht habe, die Vernunft aus sich selbst ihre Bestimmungen darstellen zu lassen , daß aber die subjective Haltung dieses Versuchs seine Vollendung verhinderte. (S. 30.) In der Vorrede (S. 5, unten , und S. 6, oben ,) nimmt er auch auf Schelling Bezug , denn folgende Worte sind jedenfalls vorzüglich gegen ihn ge richtet.
+
+„ Die Zeit der Gärung, mit der eine neue
+
+Schöpfung beginnt , scheint vorbei zu sein. In ihrer ersten Erscheinung pflegt eine solche die zur wissenschaftlichen Ausbildung erfordert wird , zu scheuen , und im Bedürfnisse einer solchen zuerst zu einem leeren Formalismus zu greifen. Die Anforderung der Verarbeitung und Ausbildung des Stoffes wird um so dringender. Es ist eine Periode in der Bildung einer Zeit, wie in der Bildung eines Individuums, nun wo es vornehmlich um Erwerbung und Behauptung des Princips in seiner unentwickelten Intensität zu thun ist.
+
+Aber die höhere Forderung geht darauf, daß es zur Wissenschaft werde."
+
+Diese Bemerkungen Hegels über die andern beiden deutschen Philosophen , welche neben Kant allein als seine unmittelbaren Vorgänger in Betracht kommen können , bestätigen indirect , daß es doch im Grunde dieser war, welcher ihm in der Kritik der reinen Vernunft den herrlichen Marmorblock lieferte, aus dem er seine von Kopf bis zu Fuß geharnischte Athene sein
+
+System - meißelte. In einem gewissen Sinne kann man sogar behaupten, daß er auch das Instrument zur Aus führung dieses Kunstwerks aus Kants Händen empfing. Es gehört unter die größten Verdienste Kants , sagt
+
+[p. 125] Hegel (B. III, S. 41), daß er der Dialectik „ den Schein von Willkür nahm , den sie nach der gewöhnlichen Vor stellung hat, und sie als ein nothwendiges Thun der Vernunft darstellte."“ „ Kants dialectische Dar stellungen in den Antinomien der reinen Vernunft ver dienen zwar, wenn sie näher betrachtet werden, wie dies „ weit im Verfolge dieses Werkes" – der Logik läufiger geschehen wird, freilich kein großes Lob ; aber die allgemeine Idee, die er zu Grunde gelegt und geltend gemacht hat, ist die Obiectivität des Scheins und Noth wendigkeit des Widerspruchs, der zur Natur der Denk bestimmungen gehört.“ Erst Hegel gab jedoch dem von Kant wieder aufgefundenen philosophischen Instrumente die nothwendige Härte und Schärfe , erst er brauchte es mit der unfehlbaren Geschicklichkeit, mit der es vor ihm niemals ein Philosoph gebraucht hatte.
+
+### Viertes Capitel.
+
+Darstellung der dialectischen Methode Hegels. Nach meiner Ansicht kann man das Verfahren
+
+Hegels , vermittelst dessen er einen Begriff aus dem andern entwickelt, nie vollständig begreifen, so lange man nicht weiß , was er unter dem Begriff versteht. Die Worte Hegels hört ein solcher uneingeweihter Leser wohl, allein ihm fehlt der Glaube ; ja, er meint vielleicht sogar, Hegel bediene sich höchst unheiliger Zauber künste, um das, was eben noch das Eine war, im Hand umdrehen in ein Anderes , Sein in Werden , werden in
+
+Dasein , Qualität in Quantität u. s. w . zu verwandeln.
+
+[p. 126] Nebenbei hat ein solcher Leser vielleicht auch noch das Gefühl, daß die Ergebnisse, zu denen Hegel kommt, gar keine Ergebnisse, sondern „ Erschleichungen “ seien. Was den letzten Punkt betrifft, so muß auf den Unter schied zwischen dem, was – streng genommen – allein zum System gehört, und den Anmerkungen hingewiesen werden . In diesen wird vielfach auf die geschichtliche Entwickelung des philosophischen Denkens zurückge griffen , welche Hegel freilich nur aus der Erfahrung kennen und aus dieser aufnehmen konnte. Sie sollen aber wesentlich auch nur dazu dienen , die Bedeutung der in dem strengen Fortgang des Systems gewonnenen Ergebnisse zu veranschaulichen , und die Hoffnung er wecken und rege erhalten , daß init den trockenen logischen Bestimmungen doch auch in der bunten, ge staltenreichen Wirklichkeit etwas anzufangen sei. Auch die Worte, welche Hegel zur Bezeichnung entwickelter
+
+Begriffsbestimmungen gebraucht , muß er natürlich aus der Erfahrung hernehmen : — er kann die Sprache nicht erst erfinden, wiewohl er für einige Zwischenstufen des
+
+Begriffs, auf welche sich das gewöhnliche Bewußtsein nicht einläßt , zu Neubildungen greifen oder bekannte Wörter in einer neuen oder erweiterten Bedeutung brauchen muß. So hat er z . B. die Ausdrücke „ Fürsich sein“, „ Anderssein“, „specifische Quantität“ neu gebildet, die Wörter „ Repulsion “, „ Attraction “ , „ Begriff nicht nur in ihrem gewöhnlichen , sondern auch noch zwar „ Begriff vorzugsweise in einem andern , erst von ihm bestimmten Sinne angewandt. Was nun aber der Begriff eigentlich sei, das tritt sowohl in der Logik wie in der Encyclopädie erst spät zu Tage. Daraus entspringt die große, selbst von nam haften, aber freilich nur im verständigen Denken ge [p. 127] übten Schriftstellern nicht überwundene Schwierigkeit, Hegels System wirklich zu begreifen .
+
+Einem Goethe, einem Schopenhauer, auch – wie Stirling schlagend nachgewieseen hat - einem Haym blieb es stets ein unverschlossenes Jenseits .
+
+Hegel selbst hat mancherlei versucht, seinen Lesern das Eindringen in dasselbe zu erleichtern. In den Vor reden und Einleitungen seiner drei Hauptwerke, der Phänomenologie, der Logik und der Encyclopädie, finden sich hierauf abzielende Ausführungen.
+
+Es würde leicht sein, mit Hülfe derselben eine Beschreibung seiner dia lectischen Methode zu geben. Aus dem im Anfang dieses Capitels angegebenen Grunde, nämlich weil eine solche Beschreibung doch räthselhaft bleiben würde, ziehe ich es jedoch vor, einen andern Weg einzuschlagen, indem ich versuchen werde, dem mit Hegel noch nicht vertrauten Leser von vorn herein eine Vorstellung von dem , was Hegel unter dem Begriff versteht, zu ermöglichen . Gelingt mir dies, so wird ihm dann von selbst klar werden, daß Hegels dialectische Methode in nichts
+
+Anderem besteht,, als in Anwendung des Begriffs auf die
+
+Begriffe, in der allmählichen Entwickelung seiner höchsten Form aus den vorhergehenden , denen er jedoch immer schon zu Grunde liegt, denen gerade er Leben und Bewegung verleiht .
+
+Freilich um vollständig zu begreifen , was der Begriff ist, muß man Hegels Logik selbst – die Encyclopädie würde nicht genügen – zum Gegenstande eines ernsten und nachhaltigen Studiums machen. Wer nach der ersten , mit intensiver Aufmerksamkeit vorge nommenen Lesung derselben, ihren Inhalt und ihre
+
+Form noch nicht ganz erfaßt hat, dem ist zu empfehlen, zu Kants „ Kritik der reinen Vernunft“ zu greifen, und, [p. 128] nachdem er sich durch diese hindurchgearbeitet, zu Hegels Logik zurückzukehren. So wird es ihm schließlich wohl gelingen, die wahre Natur und Macht des
+
+Begriffs zu begreifen. Wenigsteus hat mir im Wesentlichen das Einschlagen dieses Weges das Eindringen in dieselbe ermöglicht, wenn ich auch gern und dankbar anerkenne, daß mir bei der Zurücklegung desselben Ch. L. Michelet's und James Hutchison Stirlings Werke gute Dienste geleistet haben. Vielleicht kann Anderen auch diese Abhandlung solche Wegweiserdienste leisten. In dem Abschnitt der Logik, der „ Vom Begriff im
+
+Allgemeinen “ handelt, erinnert Hegel an die Grund bestimmungen, welche die Natur des Ich ausmachen .“ Ehe man an die Durchlesung der betreffenden Stelle geht , überlege man Folgendes.
+
+Das Selbstbewußtsein eines Menschen erscheint zunächst nicht als etwas Ein faches, sondern als das Resultat einer Vermittelung. Gewöhnlich findet sich im Bewußtsein allerlei besonderer
+
+Inhalt, der es mit der sinnlichen , oder auch mit der intelligiblen Welt zu thun hat. Von diesem besonderen Inbalt kann aber das Bewußtsein auch wieder absehen , sich davon unterscheiden und zu sich zurückkehren.
+
+So ist es Selbstbewußtsein , welches erst durch jenes Absehn von dem besonderen Bewußtseinsinhalt , also durch Negation , zu Stande gekommen ist. Diese Negation ist jedoch, wie man sieht, zugleich eine Affir mation, die Erhaltung des Selbstbewußtseins in seiner
+
+Einheit. Aber dieses Vermittelte, durch Abstraction Entstandene, existirt auch als ein unmittelbar Vorhandenes. Ich, du, er, jeder von uns ist ein solches Selbstbewußt sein, eine individuelle Persönlichkeit. So ist das Selbst bewußtsein oder das Ich der Begriff, zugleich Einzeln heit und Allgemeinheit , und zwar Allgemeinheit, [p. 129] insofern es dem so oder so, d. i. auf irgend eine besondere Weise bestimmten Bewußtsein zu Grunde liegt, das Gemeinsame in ihm ausmacht.
+
+Nach Erwägung dieser vorläufigen Erläuterung lese man nun in Hegels Logik die bezeichnete Stelle selbst. Sie lautet: „ Der Begriff, sofern er zu einer solchen Existenz gediehen ist, welche selbst frei ist, ist nichts Anderes als ich oder das reine Selbstbewußtsein.
+
+Ich habe wohl Begriffe, das heißt, bestimmte Begriffe; aber
+
+Ich ist der reine Begriff selbst , der als Begriff zum Dasein gekommen ist. Wenn man daher an die Grund bestimmungen , welche die Natur des Ich ausmachen, erinnert, so darf man voraussetzen, daß an etwas Bekanntes, d. i . der Vorstellung Geläufiges, erinnert wird. Icb aber ist erstlich diese reine sich auf sich beziehende
+
+Einheit, und dies nicht unmittelbar, sondern indem es von aller Bestimmtheit und Inhalt abstrahirt, und in die Freiheit der schrankenlosen Gleichheit mit sich selbst zurückgeht. So ist es Allgemeinheit ; Einheit, welche nur durch jenes negative Verhalten , welches als das Abstrahiren erscheint , Einheit mit sich ist, und dadurch alles Bestimmtsein in sich aufgelöst ent Zweitens ist Ich ebenso unmittelbar, als die sich auf sich selbst beziehende Negativität, Einzelnheit, hält.
+
+absolutes Bestimmtsein , welches sich Anderem gegen überstellt, und es ausschließt; individuelle Persönlichkeit. Jene absolute Allgemeinheit , die ebenso unmittelbar absolute Vereinzelung ist, und ein An und Fürsichsein , welches schlechthin Gesetztsein und nur dies An- und Fürsichsein durch die Einheit mit dem Gesetztsein ist, macht ebenso die Natur des Ich , als des Begriffes aus ; von dem einen und dem andern ist nichts zu begreifen, wenn nicht die angegebenen
+
+X [p. 130] beiden Momente zugleich in ihrer Abstraction und zu gleich in ihrer vollkommenen Einheit aufgefaßt werden .“ (Werke, B. V., S. 13 und 14.) Die hier beschriebene Natur des Begriffs hatte, wie bereits im vorhergehenden Capitel erwähnt wurde, schon Kant durchschaut, aber nicht in ihrem vollen Umfang. Gerade deswegen mag es aber nützlich sein, etwas genauer anzugeben , wie er den Begriff im speculativen Sinne des Wortes faßte : denn in der besondern Form, in der ihn Kant nahm, mag er auch Anderen zuerst faßlicher erscheinen, als in seiner vollen Allgemeinheit. Kant betrachtet aber den Begriff in seiner Verwirklichung, also nach Hegel'scher Ausdrucksweise als Idee, und zwar in seiner Verwirklichung im Gebiete des
+
+Mannigfaltigen der sinnlichen Anschauung. Hier ver wirklicht sich derselbe aber in synthetischen Urtheilen a priori, und hier löst also Kant „ die eigentliche Auf gabe der reinen Vernunft“, welche nach ihm in der Frage enthalten ist : „ Wie sind synthetische Urtheile a priori möglich ? " ( Bd. III, S. 45.) Damit aus dem Mannigfaltigen der Anschauung Er kenntniß entstehen könne , das ist der wesentliche Inhalt der ziemlich umständlichen Kantischen Auseinandersetzung, muß es sich in einem Bewußtsein vereinigen lassen. Jede Vereinigung verschiedener Vor stellungen setzt Einheit des Bewußtseins voraus.
+
+Wenn z. B. das Bewußtsein, welches die Vorstellung von einem Körper hat , sich nicht als dasselbe wiederfände wie dasjenige, welches die Vorstellung von Schwere hat, so könnten diese verschiedenen Vorstellungen nicht mit einander vereinigt, d. h. das Urtheil „ Dieser Körper ist schwer “ könnte nicht gebildet werden . Dieses Sich wieder - erkennen des Bewußtseins trotz der Verschieden relatum re
+
+, ݂‫ܪܢܫܝ | ܒ݁ܳܟ‬ heit des Inhalts, der sich in ihm findet, ist es, was Kant die synthetische Einheit der Apperception nennt , und diese gilt ihm mit Recht als das oberste Princip alles
+
+Verstandesgebrauches. Um nun auch noch zu erklären, wie wir dazu kommen, in solchen Urtheilen ,,das Ver hältnißwörtchen ist“ zu gebrauchen und so denselben objective Gültigkeit beizulegen (S. 121), macht Kant noch folgende wichtige Bemerkung, die ich auch wieder in etwas abgekürzter Fassung gebe, und die man gerade deshalb um so eher verstehen wird, besonders wenn man sich erinnert, daß es sich in dem beispielsweise an geführten Urtheil um die Kategorie der „ Inhärenza und somit auch um die der „ Subsistenza handelt. Reine Verstandesbegriffe davon geht Kant aus sind empirischen Anschauungen ganz ungleichartig und können niemals in irgend einer Anschauung angetroffen werden. Es muß also ein Drittes geben, „ was einerseits mit der Kategorie, andrerseits mit der Erscheinung in
+
+Gleichartigkeit stehen muß und die Anwendung der ersteren auf die letztere möglich macht.
+
+Diese ver mittelnde Vorstellung muß rein ( ohne alles Empirische) und doch einerseits intellectuell , andrerseits sinnlich sein. Eine solche ist das transscentendale Schema.“ (S. 141.) Solcher Schemata zählt Kant mehrere auf. Sie ergeben sich ihm aus einer Betrachtung der verschiedenen Zeitverhältnisse. (S. 144 und 145.)
+
+Für das von mir angeführte Beispiel würde „ das Schema der Gemeinschaft oder der wechselseitigen Causalität der Substanzen in Ansehung ihrer Acci denzen “, welches in dem „ Zugleichsein der Bestimmungen der einen mit denen der andern " besteht, in An wendung kommen. Kants Vorstellung ist also diese : Der Verstand hat die Kategorien der Substanz und 9*
+
+[p. 132] Accidenz ; er denkt diese gleichzeitig ; zu gleicher Zeit finde ich aber in meinem Bewußtsein auch die
+
+Vorstellungen „ Körper" und „ schwer" , die mir durch sinnliche Anschauungen gegeben sind. Dieses Dritte, die Gleichzeitigkeit, ist nun das Vermittelnde, das Band, wodurch die Kategorie und die Anschauung mit einander vereinigt werden, der Rechtstitel, welcher mir gestattet, auf Grund sinnlicher Anschaungen synthetische Urtheile , wie das Urtheil „ Alle Körper sind schwer“, auszusprechen und denselben objective Gültigkeit bei zulegen. Wir sehen, Kant ist bis nahe an den Anfang der Naturphilosophie Hegels vorgedrungen , aber erst dieser hat das Princip derselben in voller Klarheit auf gestellt in dem großen, gelassen - ausgesprochenen Worte : „ die Zeit ist dasselbe Princip wie das Ich = Ich des reinen Selbstbewußtseins; aber dasselbe oder der einfache Begriff noch in seiner gänzlichen Aeußerlichkeit und Abstraction, - als das angeschaute bloße Werden, das reine Insichsein als schlechthin ein Außersich -kommen ".
+
+(Encyclopädie , § 258.) Diese von Hegel gewonnene Einsicht versetzte zugleich, was hier noch beiläufig be merkt werden mag, zunächst wenigstens auf dem Gebiet der Natur, dem „ Ding-an -sich“ den Gnadenstoß: hinfort gab es da kein Jenseits mehr.
+
+Wurde nun aber Hegel wahrscheinlich durch sein intensives Studium der „ Kritik der reinen Vernunft einerseits dahin geführt, das wahre Verhältniß der
+
+Naturphilosophie und indirect auch das der Philosophie des Geistes zu dem allgemeinen grundlegenden Theil der Philosophie , der bei Kant eben die „Kritik der reinen Vernunft“ heißt, zu durchschauen , und ein zusehn , daß dieser das Gerüste für die Construction jener beiden liefern muß , so konnte ihm andrerseits [p. 133] auch nicht verborgen bleiben , daß derselbe zu diesem
+
+Zweck einer bedeutenden Ergänzung und einer völligen Umarbeitung bedurfte. Auf die Gefahr hin, daß es als eine Abschweifung angesehn werden könnte, will ich die Irrthümer Kants, welche ihn verbinderten weiter zu kommen, als er kam , etwas näher bezeichnen : ist damit doch die Aufgabe, die sich Hegel stellen mußte , zugleich auch näher be zeichnet.
+
+Kant beschränkt bekanntlich die Anwendung der Kategorien auf das Mannigfaltige der sinnlichen (reinen oder empirischen) Anschauung ; an sich gelten sie ihm nur als leere Begriffe (Werke, B. III, S. 82). „ Unsere sinnliche und empirische Anschauung kann ihnen allein Sinn und Bedeutung verschaffen " (S. 125.). Dagegen bemerkt nun Hegel treffend (Logik I , 1. S. 25) : „ Es ist ungeschickt zu sagen, daß die Logik von allen In halte abstrahire , daß sie nur die Regeln des Denkens lehre, ohne auf das Gedachte sich einzulassen und auf dessen Beschaffenheit
+
+Rücksicht nehmen zu können .
+
+Denn da das Denken und die Regeln des Denkens ihr
+
+Gegenstand sein sollen, so hat sie ja unmittelbar daran ihren eigenthümlichen Inhalt ; sie hat daran auch jenes zweite „ Bestandstück “ der Erkenntniß , eine Materie, um deren Beschaffenheit sie sich kümmert.“ Indessen wenn die Kategorien wirklich einen Inhalt haben sollen, müssen sie von einander abgeleitet werden und dazu bedarf man der dialectischen Methode.
+
+Auf diese war aber Kant nicht gekommen. Er macht sich's bequem : er nimmt die Kategorien auf, wie sie die formale Logik zurecht gemacht hat. „ Der Definitionen der Kategorien überhebe ich mich , obgleich ich im Besitz derselben sein möchte." (B. III, S. 102.) Er gesteht jedoch zu, [p. 134] daß man sie ,,in einem System der reinen Vernunft mit
+
+Recht von ihm fordern “ würde. Nun Hegel steckte sich das Ziel, die „,Kritik der reinen Vernunft“, in ein solches „ System der reinen Vernunft“ umzuformen.
+
+Der zweite große Mangel Kants, der es ihm un möglich machte, es in Sachen der Vernunft weiter zu bringen als zu Paralogismen, Antinomien und Postulaten in Sachen des Verstandes brachte er es bekanntlich zu positiven Ergebnissen , - besteht in der zu engen Fassung dessen , was man Erfahrung nennt. solche will er nur die empirische sinnliche
+
+Als Anschauung und, was die Geometrie (Mathematik) betrifft, die reine gelten lassen . (B. III, S. 61.) Daß wir auch in Bezug auf das gesammte geistige Leben Anderer, in Bezug auf die gesammte geistige Cultur der geschichtlichen Nationen Erfabrungen machen, ließ er un beachtet. Man kann daher nach ihm von Gott nichts wissen. „ Alle Kategorien sind von keinem andern als empirischem Gebrauch“, sagt er in dieser Beziehung (B. III, S. 466), „ und haben gar keinen Sinn , wenn sie nicht auf Objecte möglicher Erfahrung , d. i. auf die Sinnenwelt angewandt werden .“ Auch diese Meinung Kants führt Hegel mit einer schlagenden Bemerkung auf ihren wahren Werth zurück. 99Die Vernunftbegriffe, in denen man eine höhere Kraft und tiefern Inhalt ahnen mußte , haben nichts Constitutives mehr,. wie noch die Kategorien ; sie sind bloße Ideen ; es soll ganz wobl erlaubt sein , sie zu gebrauchen, aber mit diesen in telligibeln Wesen, in denen sich alle Wahrheit ganz aufschließen sollte, soll weiter nichts gemeint sein , als Hypothesen , denen eine Wahrheit an und für sich zuzuschreiben , eine völlige Willkür und Tollkühnheit sein würde, da sie - in keiner Erfahrung vorkommen können. Hätte man es je denken sollen, daß die Philo [p. 135] sophie den intelligibeln Wesen darum die Wahrheit absprechen würde, weil sie des räumlichen und zeitlichen
+
+Stoffes der Sinnlichkeit entbehren ?“ (Logik , II. Theil, S. 22 und 23.) Für Hegel ist das Absolute erkennbar ; auch auf dem Gebiete der Vernunft giebt es für ihn 132 kein Jenseits .
+
+Dal Kant die Kategorien nur auf sinnlich Angeschautes angewandt wissen will, ist endlich drittens die
+
+Veranlassung dazu, daß er bei der Abhandlung derselben die Geometrie und die äußere Natur fortwährend im
+
+Auge hat. Daher kann er auch den Begriff nur in seiner Verwirklichung auf dem Gebiete der sinnlichen
+
+Anschauung entwickeln. Es muß, wie wir gesehen haben, zugestanden werden , daß er diese höchst bedeutsame Entwickelung wirklich giebt. Beides , Kants Erfolg im Reich des Verstandes und Mißerfolg im Reich der Vernunft, hatte Hegel auch schon im Jahre 1801 voll kommen erkannt.
+
+„Wenn der Verstand mit Vernunft behandelt worden war“, sagt er schon damals (B. I, S. 158), so „ wird dagegen die Vernunft mit Verstand behandelt.“
+
+Nun wissen wir genauer, in welcher Form Hegel das philosophische Problem von Kant überliefert erhielt, und werden nun um so besser verstehen, was er sich vorsetzen mußte zu thun .
+
+Zunächst mußte er den Begriff rein erfassen und aus ihm seine Methode herausspinnen. Denn besaß er die wahre Methode, so konnte er durch Begründung und Feststellung des Inhalts der Kategorien eine wahre, objective and subjective, von allem empirischen Stoff freie Logik , „ ein System der reinen Vernunft“, produciren ; hatte er aber dieses, so war auch für den Aufbau einer Naturphilosophie und einer Philosophie des Geistes ein fester, sicherer Grund gelegt.
+
+[p. 136] Ich will nun versuchen , seine Methode auch solchen
+
+Lesern, die mit seiner Philosophie nicht vertraut sind, wenn nicht begreiflich, so doch vorstellbar zu machen , und erinnere zu diesem Behuf zunächst wieder an die
+
+Natur des Ich, welche man „ als etwas Bekanntes, d. i. der Vorstellung Geläufiges“, voraussetzen darf.
+
+Ein Gegenstand des Denkens, etwa eine Kategorie wird zuerst von dem Ich einfach aufgefaßt: das ist der Begriff an sich .
+
+Das Ich geht aber in diesem besondern Inhalt nicht auf, sondern es unterscheidet sich auch von ihm , urtheilt über ihn. Dies Urtheil besteht aber , insofern das Begreifen des Inhalts das Ziel ist, darin, daß das Ich Unterschiede in ihm findet. Er ist nicht ein schlechthin (d. i. abstract) Allgemeines, sondern ein Concretes, d. h. (Hegel braucht dies Wort immer in diesem Sinne) ein entgegengesetzte Bestimmungen in sicb Enthaltendes. Hegel sagt einmal, es gebe nichts , weder im Himmel noch auf der Erde , an dem man nicht solche entgegengesetzte Bestimmungen auf zeigen könne. Dieser Baum z. B., um auf der Erde zu bleiben – ist ein einzelnes sinnliches Ding, aber er ist das, was er ist, nur insofern er die Bestimmungen, durch welche ein Naturwesen überhanpt ein Baum ist, auch in sich hat; er ist also ein Einzelnes und zugleich ein Allgemeines, jenes aber nur, insofern er auch dieses ist ; er ist endlich auch ein Besonderes, insofern er ein Baum dieser oder jener Art , eine Tanne oder eine
+
+Birke, sein muß, um überhaupt zu sein. Die Methode Hegels, auf die logischen Wesenheiten , die Kategorien, angewandt, entwickelt aus jeder derselben ihren Inhalt, d. b. die in ihr enthaltenen entgegengesetzten Be stimmungen : das ist , wie schon bemerkt, das Urtheil . „ Die Methode des absoluten Erkennens“, sagt er (Logik ,
+
+[p. 137] Th. II, S. 326) „ ist insofern analytisch “. Setzt. Ich die eine, so geht ihm die andere daraus hervor. Insofern nun dies nachgewiesen , die eine Bestimmung zu der andern gesetzt wird, ist die Methode des absoluten Erkennens zugleich synthetisch. Es wird aber nachgewiesen vermittelst der Dialectik, welche - eine Zeit lang als eine Kunst der Täuschung verschrien - durch Kant wieder zu Ehren gebracht wurde. „ Es ist ein unendliches Verdienst der Kantischen Philosophie , den Anstoß zur Wiederherstellung der Logik und Dialectik , in dem Sinne der Betrachtung der Denkbestimmungen an und für sich gegeben zu haben “, sagt Hegel (Logik, Th. II, S. 329). Durch die Dialectik wird aber schließlich auch das Zusammenfassen der beiden in dem ursprünglichen Inhalt des Bewußtseins - etwa in einer Kategorie - entwickelten entgegengesetzten Bestimmungen in eine höhere
+
+Einheit bewirkt, indem die erste Negation selbst wieder zu negiren ist. Beide Bestimmungen sind im Ich, die eine so gut wie die andere ; sie sind auf einander be zogen, im Grunde schon vereinigt, und es ist nur noch die Kategorie zu denken , welche die Vereinigung der selben ausdrückt : das ist der Schluß.
+
+Zunächst mag hier die dialectische Methode an einem Beispiel erläutert werden. Man versuche Eins zu denken, d. h. nicht dieses oder jenes einzelne Ding, sondern Eins ganz rein und allgemein. Wer bei dem Worte überhaupt etwas denkt, der muß einsehn, daß er Eins denkt als Anderes ausschließend , sonst wäre es ja nicht Eins. Er denkt also Anderes auch, und, insofern er Anderes auch wieder als Eines für sich denken muß, ist er wiederum genöthigt, ihm Anderes gegenüber zu stellen, und so fort. Er denkt also Eins vielmals, d. h . er denkt Viele. Fängt er aber nun umgekehrt [p. 138] mit dem Denken der Vielen an , .so ist er genöthigt, Eins mitzudenken, denn jedes der Vielen ist Eins. Die beiden Kategorien gehn ihm also fortwährend in ein ander über ; mit welcher von beiden er auch anfangen mag, er gelangt zur andern ; somit denkt er im Grunde die Kategorie, welche diesen fortwährenden Uebergang des Eins in Viele und der Vielen in Eins darstellt, d. i. die Quantität. In dieser kann überall eine Grenze angenommen, jede Grenze aber auch wieder aufgehoben werden, d. i . man kann sie als Viele und als Eins denken, weil sie das Eine wie das Andere ist.
+
+Mit Hülfe dieses Beispiels wird sich nun wohl auch ein in philosophischen Dingen wenig geübter Leser eine ungefähre Vorstellung von Hegels Methode bilden können. Das Denken des Eins ist der Begriff in seiner Ursprünglichkeit (Unmittelbarkeit) , die Thesis, die Position ; das Aufzeigen des Andern als darin enthalten, d. h. der Unmöglichkeit, bei dem Eins stehn zu bleiben, wenn man will, des innern Widerspruchs , an dem dieser Gedanke leidet, ist das Urtheil, die Antithesis, die Negation; der rückläufige Gang aber, zu welchem wir durch die Unmöglichkeit, es bei den Vielen bewenden zu lassen, gezwungen werden , und welcher uns wieder zum
+
+Eins zurückführt, ist der Schluß , d. i. das Zusammen schließen der beiden einander entgegengesetzten Ge danken, die Synthesis , die Negation der Negation und somit eine neue Position, eine neue Thesis, welche, zunächst in ihrer Unmittelbarkeit aufgefaßt, den Ausgangspunkt einer neuen , ähnlich verlaufenden Ent wickelung bildet .
+
+Das letzte Ziel des logischen Systems aber ist die Darlegung der Idee des absoluten Wissens , d. i. der Methode , nach welcher sich der Begriff als Begriff in als ist
+
+Seich Qualitä!
+
+ill, en ,
+
+Iso ler Dasein
+
+Sein
+
+Fürsichsein .
+
+Qualität
+
+Qim , rt , in
+
+Maſs
+
+Specifische
+
+Rols
+
+Quantität Werden deen
+
+Wesens.en
+
+Se f f i
+
+Qyar an en , ls jó
+
+Begriff ns, je rie
+
+Sub
+
+B r g in ff's ct n er er U
+
+Für den Buchbinder .
+
+Das leere ]
+
+Begriff ver sein gan
+
+Wesen n
+
+Wes ea R t das
+
+Tlexion in ihnm slselbes.t scheinung uantitä sein
+
+Er also
+
+Der Schein Die Wesen / Existenz heiten Der Grund .
+
+t tilä
+
+Quan st
+
+S
+
+Wirk
+
+Mars eales Maſs ist
+
+Wesentliche : was
+
+' Verhältniſs
+
+Ref W lexese a ion inn ilhsm Selb
+
+Beg ni
+
+[ Neg lichkeit hältniſs .
+
+Er :
+
+Ersch
+
+Das Absolute
+
+Wirklichkeit
+
+Absolutes Verhältniſs.
+
+Subjecti vität objectività mit
+
+Wirk uantitatives Ver lichkeit
+
+Tantität. Quantum ein gro Kre s W des sch ein sich legriff
+
+Urtheil vit ecti
+
+Obj
+
+Cliv
+
+Jdee
+
+Jdee ität Leben at mus
+
+Teleologie .
+
+cləəJn.!gJ
+
+Schluſs .
+
+Chemis
+
+Mechanismus
+
+Idee des Erkennens
+
+Absolute Idee .
+
+Kre
+
+Re: Wi ein dre Kat letz wic links von der Zeichnung und das Ganze am Schluss [p. 139] einung yerwirklicht. Es ergiebt sich , daß er zu Anfang in sejner ärmsten Gestalt auftreten muß, als das Sein , als ganz abstracte , unterschiedslose Beziehung auf sich. Die das Sein mit dem Begriff vermittelnde Kategorie ist das Wesen , die Negation des Seins , - wenn man will, sein Inneres, welches sich aber offenbaren , verwirklichen , alsozumSein zurückkehren muß . In Wirklichkeit ist also die Einheit des Seins und des Wesens vorhanden , d. i. der Er Begriff , das Selbstbewußtsein , das erstens unmittelbar nz mist, zweitens sich selbst gegenübertritt, sich von dem, sentliche :was es unmittelbar ist, auch unterscheidet, sich negirt , rhällniſs und sich drittens durch das Negiren dieser ersten
+
+Wirk Jichkeit
+
+Negation wiederfindet, als das erkennt , was es un Ersch mittelbar ist.
+
+Will man sich von dem ganzen Bau der Logik Hegels ein sinnliches Bild entwerfen, so denke man sich einen großen, den Begriff im Allgemeinen repräsentirenden Kreis, in welchem wieder drei Kreise, als Symbole des Seins, er des Wesens und des Begriffe im Besondern , so einge s schrieben sind, daß sie sowohl den großen Kreis wie
+
+III
+
+In jeden dieser Kreise denke man sich wieder drei sich berührende Kreise eingeschrieben , einander berühren .
+
+und lasse die in den Kreis des Seins eingeschriebenen die Qualität, die Quantität und das Maß , die in den
+
+Kreis des Wesens eingeschriebenen das Wesen als Reflexion in ihm selbst , die Erscheinung und die Wirklichkeit , endlich die in den Kreis des Begriffs eingeschriebenen den subjectiven Begriff, das Object und die Idee sinnbildlich darstellen . Auch in jeden dieser kleineren Kreise denke man sich schließlich wieder drei , noch kleinere, eingeschrieben – als Symbole der
+
+Kategorien , welche sich wiederum innerhalb der zu letzt genannten durch den Fortgang der logischen Ent wickelung ergeben .
+
+[p. 140] Bemerkung Um dem Leser die Bildung dieser Vorstellung zu erleichtern, ist die Zeichnung beigelegt. Sie war, wie auch diese Bemerkung, in meiner Preisschrift nicht ent halten, sondern ist eine Zugabe. Zur Erläuterung derselben füge ich noch Folgendes hinzu.
+
+1. Die im letzten Satze der vorstehenden Beschreibung ,, noch kleineren " Kreise sind in Zeichnung weggelassen, um diese nicht undeutlich zu machen . erwähnten
+
+2. Die Worte zur Angabe der Kategorien, welche in die Zeichnung eingetragen sind, habe ich unverändert der großen Logik Hegels entnommen. Ich wollte in diesem erhabensten Werke Hegels keinen Zug seines ursprünglichen Gusses verwischen , sollte selbst Hegel die Hand zu einem solchen Vorgehn zu bieten scheinen. 3. Fast scheint es, als könne man sich die Befugnil zu einer Verbesserung seines Systems, insbesondere seiner Kategorientafel aus seinen Werken herauslesen : denn erstens giebt er die Verbesserungsfähigkeit seiner Methode selbst zu, - man sehe den letzten Satz dieser Abhandlung, - und zweitens ist er in seiner Encyclo pädie selbst von seiner ursprünglichen Kategorientafel abgewichen. Ob indessen diese Abweichungen als Verbesserungen von ihm angesehn wurden, oder als bloße Zugeständnisse, die er den Erfordernissen eines „ Vor lesebuchs “ machen zu müssen glaubte, das ist eine ganz andere Frage, deren Entscheidung eine weitläufige Untersuchung erfordern würde. 4. Manche der Anhänger Hegels haben jedoch eine Verbesserung seiner Methode und seiner Kategorientafel für durchaus nothwendig erachtet. Meiner Meinung nach ist Michelet's Umarbeitung der Hegel'schen Logik und so mit natürlich des ganzen Hegel'schen Systems die be a ) Hegentlich weil I. Sein.
+
+A. Qualität. 1. Reines Sein . 2. Dasein .
+
+frößere Har e zu kommen atürlich hier
+
+3, Fürsichsein .
+
+glicher Kate nach seiner 1. Reine Quantität. B. Quantität.
+
+2. Quantum .
+
+tegorientafel
+
+3. Der Grad.
+
+C. Das Waſs. aufgeführten
+
+1. Die Regel.
+
+1 , möge der
+
+2. Das Malslose .
+
+3. Uebergang in's W& 1876 *) ent sen.
+
+afel ersehen :
+
+Schranke. Selbstbe nmung. ichsein . lealität.
+
+b ) Miche, Einheit Vielheit. I. Sein,
+
+► Allheit.
+
+A. Qualität (oderuantität. Sein als solches ).
+
+1. Reines Seiu . 2. Dasein . 3. Fürsichsein .
+
+atinuität und scretion .
+
+s Quantum
+
+B. Quantität. 3; quantitative
+
+ältniſ
+
+1. Unendliche Grössth
+
+2. Quantum .
+
+3. Quantitatives velaſ. hältniss . 2 Regel. C. Maſs , s Maßverhält
+
+1. Regel. 1.
+
+2. Malsverhältniss.
+
+3. Indifferenz .
+
+e Indifferenz. ; in der Revue 385-413.
+
+els Kategorientafel. II. Wesen. Um erleichteri auch dies
+
+A. Der subjectivo
+
+Begrifr. 1. Die reinen Reflexi. 1. Der Begriff als sol ons-Bestimmungen. cher.
+
+A. Das Wesen als
+
+Grund der Existenz.
+
+halten, so
+
+2. Die Existenz,
+
+Zur 1 hinzu. 1. Die erwähnter
+
+3. Das Ding weggelass 2. Dioin die Zeic der große diesem ei ursprüngl
+
+IIL. Begriff.
+
+2. Das Urtheil . 3. Der Schluss.
+
+B. Die Erscheinung.
+
+B. Das Object.
+
+1. Die Welt der Er-
+
+1 , Der Mechanismus 2. Der Chemismus.
+
+scheinung . 2. Inhalt und Form , 3. Das Verhältniss .
+
+3. Teleologie. C. Die Idee.
+
+C. Die Wirklichkeit. 1. Das Leben . 1. Das Substantiali-
+
+2. Das Erkennen, das täts - Verhältniss.
+
+Wollen. 3. Die absolute Idee
+
+2. Causalitätsverhältniss.
+
+*3. Wechselwirkung.
+
+die Hand 3. Fa zu einer elet's Kategorientafel. seiner Ka denn erst
+
+Methode e Abhandlui pädie sell abgewiche
+
+II. Wesen.
+
+III. Begriff.
+
+A. Wesen als
+
+solches.
+
+A. Subjectiver Be
+
+griff. 1. Begriff.
+
+1. Identität. 2. Unterschied . 3. Grund .
+
+2. Urtheil. 3. Schluss.
+
+B. Erscheinung.
+
+B. Objectivität.
+
+besserung
+
+1. Existenz .
+
+Zugeständ
+
+2. Erscheinung 2. Chemismus . 3. Wesentliches Ver- 3. Teleologie.
+
+lesebuchs4-
+
+1. Mechanismus.
+
+hältniss.
+
+C. Die Idee .
+
+andere Fri C. Wirklichkeit.
+
+suchunge 4. Ma
+
+Verbesser für durcha ist Michele mit natür
+
+1. Das Leben.
+
+1. Wirklichkeit als
+
+2. Wahres, Gutes und solche. 2 Verhältniss
+
+Schönes. 3. Die absolute Idee.
+
+3. Das Absolute .
+
+[p. 141] deutendste Leistung auf diesem Gebiete, namentlich weil durch die Umgestaltung der erstern eine größere Harmonie in die übrigen Theile der Encyclopädie zu kommen scheint. Auch diese Frage kann jedoch natürlich hier nicht weiter erörtert werden.
+
+5. Zur Vergleichung mit Hegels ursprünglicher Kategorientafel lasse ich a ) die Kategorientafel nach seiner Encyclopädie, und b) Michelet's frühere Kategorientafel neben der Zcichnung abdrucken .
+
+6. Wie sich aus den in diesen Tafeln aufgeführten Kategorien immer concretere entwickeln , möge der Leser aus folgender Michelets Logik von 1876*) ent nommenen vollständigeren Kategorientafel ersehen : I. Das Sein.
+
+A. Das Sein als solches. 1. Das reine Sein . 2. Das Nichts. 3. Das Werden . a . Entstehen.
+
+b. Vergehen . c. Gewordenes. B. Das Dasein . 1. Die Realität. a. Etwas. b . Anderssein . C. Endlichkeit.
+
+2. Die Bestimmtheit. a. Die Grenze. b. Die Qualität.
+
+c. Die Veränderung
+
+3. Die Unendlichkeit. a. Das Sollen .
+
+b. Die Schranke.
+
+c. Die Selbstbe
+
+stimmung C. Das Fürsichsein. 1. Die Idealität. a. Die Einheit.
+
+b. Die Vielheit. c. Die Allheit. 2. Die Quantität.
+
+a. Continuität und
+
+Discretion .
+
+b. Das Quantum.
+
+c. Das quantitative
+
+Verhältnis. 3. Das Maß.
+
+a. Die Regel.
+
+b. DasMaßverhält
+
+niß . c. Die Indifferenz.
+
+*) Vergl. auch seine Esquisse de Logique in der Revue philosophique et religieuse ( 1856) Tom . V , p. 385—413.
+
+[p. 142] II. Das Wesen. A. Das Wesen als solches. 1. Die Identität.
+
+2. Der Unterschied. a. Verschiedenheit .
+
+b. Gegensatz . c. Widerspruch. 3. Der Grund. a . Das Substrat. b. Die Form . c. Der Inhalt.
+
+B. Die Erscheinung. 1. Die Existenz.
+
+a. Das Ding.
+
+b. Die Eigenschaft. c. Die Bedingung. 2. Die Erscheinung. a. Das Jenseits. b . Das Diesseits.
+
+c. Das Gesetz der
+
+Erscheinung 3. Das wesentliche Verhältnis. a. Ganzes u. Theile.
+
+b. Kraft u. Aeuße
+
+rung .
+
+c. Inneres und
+
+Aeußeres. C. Die Wirklichkeit. 1. Die Wirklichkeitals solche.
+
+a. Die Möglichkeit. b. Die Zufälligkeit.
+
+c. Die Nothwendig
+
+keit. 2. Das Verhältniß der
+
+a. Substanz und
+
+Accidenz .
+
+b. Ursache und
+
+Wirkung. c. Wechselwirkung. 3. Das Absolute.
+
+a. Seine Auslegung. b. Relativität.
+
+c. Modus.
+
+III. Der Begriff.
+
+A. Die Subjectivität. 1. Der Begriff als solcher.
+
+a. Das Allgemeine . b. Das Besondere. c. Das Einzelne . 2. Das Urtheil. a . Die Urtheile der
+
+Qualität. b. Die Urtheile des . Wesens.
+
+c. Die Urtheile der
+
+d. Die Urtheile des
+
+Begriffs. 3. Die Schlüsse .
+
+a. Die Schlüsse des
+
+Daseins.
+
+[p. 143] b. Der quantitative
+
+Schlaß. c . Die Schlüsse der
+
+B. Die Objectivität. 1. Der Mechanismus. a . Die Mittheilung. b. Die Gewalt. c. Das Schicksal.
+
+2. Der Dynamismus.
+
+a. Das dynamische
+
+Object.
+
+b. Der dynamische
+
+Proceſ.
+
+c. Die Neutralität.
+
+3. Die Teleologie .
+
+a. Der subjective
+
+Zweck .
+
+C. Die Idee. 1. Das Leben.
+
+a. Gestaltungs
+
+proceſ.
+
+b. Assimilations
+
+proceſ. c. Gattungsproceß. 2. Die bestimmte Idee.
+
+a. Theorie : das
+
+Wahre. b. Praxis : das Gute.
+
+c Das Schöne, Häl liche, Erhabene. 3. Die absolute Idee. a. Die Weltdialektik .
+
+b. Das Weltsystem .
+
+c. Der Weltsyllogis
+
+mus .
+
+b. Das Mittel.
+
+c. Der ausgeführte
+
+Zweck.
+
+Die Seele, das belebende Princip der oben geschilderten Entwickelung ist, wie schon gesagt, der Begriff, dessen immanente Bestimmungen sich in jeder dieser Dreieinig keiten verwirklichen. Als Princip dieser seiner Selbstverwirklichung ist er die Idee des absoluten Wissens , und als reine Form aufgefaßt, die dialectische Methode. Ist aber auch das sich stets wiederholende Schema der Entwickelung die Triplicität, so wird dasselbe doch von Hegel niemals mechanisch angewandt, sondern immer dem gerade vorliegenden Inhalte gemäß. So ist — um dies wenigstens im Großen nachzuweisen - die Art des
+
+[p. 144] Fortgangs in jeder der drei Hauptabtheilungen seiner Logik eine verschiedene. Im Sein geht eine Bestimmung einfach in die entgegengesetzte über , z. B. das Sein in Dasein, das Dasein in Fürsichsein, das Eins in die Vielen .
+
+Im Wesen scheint die eine Bestimmung in die entgegen gesetzte; die eine wird gesetzt sobald die andere ge setzt wird ; so weist die Form schon an sich selbst auf den Inhalt, das Aeußere auf das Innere, die Ursache auf die Wirkung hin : aber sie sollen auch jede für sich , abgesondert von der entgegengesetzten , gefaßt werden und gelten. Im Begriff endlich ist die Identität seiner Momente gesetzt ; jedes derselben kann unmittelbar nur aus und mit den andern gefaßt werden; das. Allgemeine z. B. ist nur das Allgemeine, insofern zu gleich das Besondere und Einzelne in ihm enthalten ist. Beispiele zur Erläuterung der Anwendung der dia lectischen Methode anzuführen , scheint mir kaum noch nothwendig zu sein. Denn was die Anwendung derselben auf dem Gebiete des Begriffs betrifft, so darf ich auf das oben (S. 129 u. folg .) über das Ich Gesagte verweisen.
+
+Ein Beispiel ihrer Anwendung auf dem Gebiet des Seins ist in der Betrachtung des Eins und der Vielen (S. 137)
+
+auch noch vorgekommen. Es mag also hier nur noch ihre Anwendung auf dem Gebiet des Wesens durch ein Beispiel veranschaulicht werden , welches natürlich als bloßes Beispiel an dem Mangel leidet, daß es aus dem
+
+Zusammenhange des Systems herausgerissen ist.
+
+Das Wesen als das Entgegengesetzte des Seins erscheint zunächst als Identität mit sich (Encycl., § 115 ). Es kommt nun darauf an, den Gedanken, der in diesem
+
+Worte liegt , zu fassen . Das bloß verständige Denken will mit demselben den Unterschied ausschließen : das Identische ist ihm das vollständig mit sich Gleiche. Es [p. 145] gehört aber nur wenig Scharfsinn dazu , um herauszu finden, daſ sich der Verstand auch mit dieser Annahme, wie sonst vielfach, hinter das Licht führt. Denn wenn wir das Wesen als das mit sich Gleiche denken , so vergleichen wir es ja mit sich , wir verdoppeln es , so zu sagen , d . h. wir denken mit der Identität auch den
+
+Unterschied. Hegel drückt dies so aus : "„ Das Wesen ist nur (insofern] Identität und Schein in sich selbst , als es die sich auf sich beziehende Negativität , somit Ab stoben seiner von sich selbst ist ; es enthält also die Bestimmung des Unterschieds" . Der Unterschied des Wesens von sich ist ihm aber wesentlich , also schließt der Gedanke des Unterschieds wieder den Gedanken des Wesens in sich . Das Wesen aber, insofern es sich von sich unterscheidet aus sich herausgeht – und doch auch mit sich identisch bleibt, also die Einheit der Identität und des Unterschieds ist der Grund.
+
+Man sieht, daß auch in dieser Entwickelung wieder Thesis , Antithesis und Synthesis , Begriff, Urtheil und Schluß vorkommen ; daß die erste Negation wieder negirt wird , kurz , daß es die dialectische Methode ist, welche auch im Gebiete des Wesens dem Begriff zu seiner Verwirklichung verhilft. Sie allein befähigte Hegel zur Aufrichtung seines Systems der reinen Vernunft , seiner Logik , wie erst diese ihm dann wieder den Aufbau seiner Naturphilosophie und seiner Philosophie des Geistes ermöglichte, und somit die Vollendung des großartigsten philosophischen Systems, das je ersonnen wurde, und hinter dessen harmonischer Gliederung , fester Zusammenfügung und einheitlich durchgeführtem Plan alle andern weit zurück stehn, während es zugleich auch als eine glänzende Bestätigung der von seinem Urheber gehegten Ansicht über das Verhältniß der verschiedenen Philosophien [p. 146] zu einander angesehn werden kann. Denn während Spinoza's System als die Philosophie der Substanz, die Philosophien Wolffs und seiner Vorgänger von Leibnitz an als Philosophie der Causalität, Kants Philosophie aber , in welcher der Dualismus trotz der transscendentalen Deduction der Kategorien noch nicht völlig getilgt ist, als Philosophie der Reci.
+
+procität bezeichnet werden muß, so ist Hegels Philosophie die Philosophie des Begriffs , aus welcher die in den zunächst vorhergehenden Philosophien noch vorhandene Dunkelheit vollständig verschwunden ist, und welche nur denjenigen als dunkel erscheinen kann , die nicht begreifen , was der Begriff ist: denndieser ist eben das Licht, das sie durchleuchtet.
+
+### Fünftes Capitel.
+
+Was ist bei Hegel aus der früheren Metaphysik geworden ? Durch die drei nächst vorhergehenden Capitel hoffe ich auch denjenigen Lesern, denen Hegels Philosophie bisher unbekannt oder undurchdringlich geblieben war, eine Vorstellung von ihrem Hervorgehen , ja, von der Nothwendigkeit ihres Hervorgehens aus den Philosophien seiner Vorgänger, sowie von der Natur, der Bedeutung und dem Werthe seiner dialectischen Methode - der
+
+Seele seiner Logik und somit seines ganzen Systems ermöglicht zu haben. Vielleicht könnten dieselben aber nun noch ausdrücklich zu hören wünschen , was denn bei Hegel aus der Metaphysik geworden sei.
+
+Vorläufig antworte ich : Nun , wie derselbe ver mittelst seiner Methode der todten Thongestalt der for malen Logik Leben einhauchte, so verhalf er auch der todten Metaphysik zu neuem Leben, – aber in einem verklärten Leibe.
+
+[p. 147] Es ist sehr leicht, dies zu zeigen. Die vorkantische Metaphysik war bekanntlich dogmatisch. Sie griff Vor stellungen , die dem gewöhnlichen Bewußtsein geläufig sind, wie Substanz, Seele, Gott, auf, wie sie dieselben vorfand, und sprach ihnen mit Aufwand eines umständ lichen, nach Art der Mathematik mit Definitionen, Grund sätzen, Lehrsätzen und Beweisen operirenden Formalis mus diese oder jene Prädicate zu. So wurde z. B. die Seele für eine Substanz, für einfach und immateriell, Gott für den Inbegriff aller Realitäten erklärt. Diese
+
+Metaphysik rottete nun Kant mit Stumpf und Stiel aus. (Hegels Logik I , 1 , S. 3.) Er faßte erstens die Kategorien, von welchen dieselbe in ihrem „ Ontologie"
+
+genannten Theile handelte, nur als Functionen unseres „ menschlichen" Denkens auf, die allein in ihrer An wendung auf das Mannigfaltige sinnlicher Anschauung von Bedeutung, sonst aber völlig leer wären : er fragte also z. B. gar nicht, ob so etwas wie Substanz an und für sich etwas Wahres sei. In Uebereinstimmung hier mit behauptete er zweitens, daß die Verwendung der Kategorien zur Lösung der Probleme der Vernunft nur auf Paralogismen und Antinomien führe, daß die Vernunft wohl über alle Erfahrung hinaus zu gehen strebe, Gegen stände, die ein grosses Interesse für sie hätten, wohl ahne und daher den Weg der Speculation betrete, um sich ihnen zu nähern, aber erfahre, daß sie vor ihr flöhen (W., B. III, S. 526), das heißt also, er erklärt siè für unbegreiflich. Kant bringt es somit auf diesem , dem interessantesten Gebiete des Denkens nur zu Hypo thesen ; er läßt die drei transscendentalen Ideen (die psychologische, die kosmologische und die theologische) nur als regulative Principien der Vernunft, das heißt aus praktischen Gründen annehmbar , gelten, aber nicht als constitutive Principien, d. i. als objective 10*
+
+[p. 148] Wahrheit enthaltend. Hegel sagt also in der That nicht zu viel, wenn er behauptet, Kant habe die frühere Metaphysik mit Stumpf und Stiel ausgerottet, wodurch man dann freilich das sonderbare Schauspiel hatte, „ ein gebildetes Volk ohne Metaphysik zu sehen “, - „ einen sonst mannigfaltig ausgeschmückten Tempel ohne Aller heiligstes “. So wichtig die Fragen sind , auf welche
+
+Kant in seiner Kritik der reinen Vernunft zu sprechen kommt, und so bedeutungsvoll die Winke , welche er für die Auffindung des Weges giebt, den ein wahrhaft philosophisches Denken einschlagen muß , so unbefriedigend sind die letzten Ergebnisse seiner Philosophie, 80 wirksam waren sie, unter Beihülfe der Jacobi'schen, jene trostlose Zeit herbeizuführer, wo alle Metaphysik vorbei war , und nur eine Philosophie galt , die keine war. (Hegels W., B. XV., S. 551.) Hegels philosophische Methode war allein geeignet, jene zertrümmerte Wissenschaft jedoch nicht in ihrer früheren Trübheit, sondern in lichtvoller Klarheit wiederherzustellen. Ihm ist das philosophische Denken nicht ein äußerliches Herumhantiren an einem sinnlich gegebenen Mannigfaltigen , nicht eine im Voraus Himmel" weil wie - zu Stande gekommene Form , in die ein Inhalt erst hineingegossen werden muß, sondern das eigene Leben der Vernunft, vermöge dessen sie die verschiedenen Gestalten, deren sie fähig ist, nach ein ander annimmt. Seine Logik ist daher zugleich Metaphysik . Durch die ihr innewohnende Dialectik wird die Vernunft von der unentwickeltsten ihrer Formen , von dem Begriff des Seins , zu der allervollendetsten, der absoluten Idee, unaufhaltsam fortgetrieben, und da sie sowohl Inhalt wie Form, sowohl Object wie Subject ist, so definirt sie, als erkennendes Subject, sich , das zu erkennende Object, immer genauer, sagt immer voll ständiger aus , was das Absolute sei. Auf diese Art [p. 149] werden sowohl die Kategorien des Seins, Wesens u. 8. W., welche den Gegenstand der früheren Ontologie bildeten, und welche Kant, so weit er sie überhaupt in Betracht zog, nur als an sich leere Formen ansah, als auch die Ideen der Vernunft, welche den Inhalt der früheren
+
+Kosmologie , Pneumatologie und natürlichen Theologie ausmachten, und welche bei Kant bloße Ideen, d. i.
+
+Hypothesen blieben, in ihrer Wahrheit erkannt und so mit werden in Hegels Logik zugleich die Probleme der Metaphysik gelöst, und zwar vollkommener, als irgend eine frühere Philosophie sie zu lösen vermochte.
+
+### Sechstes Capitel .
+
+Vergleichung der dialectischen Methode Hegels mit den Methoden seiner Vorgänger. Meine Leser sind hoffentlich in gar keinem Zweifel darüber, wie ich die Frage nach dem relativen Wertbe der dialectischen Methode Hegels und der Methoden seiner Vorgänger einzig und allein beantworten kann und im Grunde schon beantwortet habe.
+
+Nur der formellen Vollständigkeit wegen erwähne ich daher hier noch ausdrücklich, daß die letzteren der seinigen geen über überhaupt gar nicht in Betracht kommen können.
+
+Um dies ausführlicher darzulegen, brauchte ich Hegels eigene, dahin zielende Darlegungen, insbesondere die in seiner Phänomenologie und seiner Logik enthaltenen, nur abzuschreiben . Davon sehe ich natürlich ab, und gebe bloß noch den wesentlichen Inhalt einiger der wichtigsten derselben kurz an, andere sind schon im zweiten, dritten und vierten Capitel vorgekommen, mit der Bemerkung, daß ich der Ansicht Hegels voll ständig beistimme und ihr kaum etwas hinzuzusetzen brauche .
+
+[p. 150] Daß eine der mathematischen nachgebildete Methode für die Philosophie nicht genügen kann, ist augenfällig: denn bei einer solchen wird gerade das Wichtigste in Definitionen und Axiomen ohne weitere Untersuchung als ausgemacht angenommen . Dies hatte Hegel bereits in der , einen kühnen , durchaus selbstbewußten Geist verrathenden Vorrede zu seiner Phänomenologie aus ein ander gesetzt. Ich kann mich nicht enthalten , derselben noch die folgenden , treffenden Sätze zu entnehmen: ,,Die Evidenz dieses mangelhaften Erkennens, auf welche die Mathematik stolz ist, und womit sie sich auch gegen die Philosophie brüstet, beruht allein auf der Armuth ihres Zwecks und der Mangelhaftigkeit ihres Stoffs , und ist darum von einer Art, welche die Philosophie ver schmähen muß. — Ihr Zweck oder Begriff ist die Größe. Dies ist gerade das unwesentliche, begrifflose Verhältniß. Die Bewegung des Wissens geht darum auf der Ober fläche vor , berührt nicht die Sache selbst , nicht das Wesen oder den Begriff, und ist daher kein Begreifen. - Der Stoff, über den die Mathematik den erfreulichen
+
+Schatz von Wahrheit gewährt, ist der Raum und das Eins
+
+Das Wirkliche ist nicht ein Räumliches, wie es in der Mathematik betrachtet wird ; mit solcher Unwirklichkeit, als die Dinge der Mathematik sind, giebt sich weder das concrete sinnliche Anschauen noch die
+
+Philosophie ab. In solchem unwirklichen Element giebt es denn auch nur unwirkliches Wabres , d. h. fixirte, todte Sätze ; bei jedem derselben kann aufgehört werden ; der folgende fängt für sich von neuem an , ohne daß der erste sich selbst zum andern fortbewegte, und ohne daß auf diese Weise ein nothwendiger Zusammenhang durch die Natur der Sache selbst entstände. “
+
+Aus diesen Gründen ist also Spinoza's Methode eine ungenügende. „ Die ganze Spinozistische Philosophie" , sagt Hegel nach Anführung der Definitionen, mit denen [p. 151] sie anfängt, ist nun schon in diesen Definitionen ent halten, die aber im Ganzen formell sind " . - Man kann
+
+Z. B. zugeben , „ daß das Wort „ Substanz" dieser Vor stellung entspreche, welche die Definition angiebt ; ein Anderes ist aber, ob dieser Inhalt an und für sich wahr sei. Solche Fragen macht man bei geometrischen Sätzen gar nicht, bei philosophischer Betrachtung ist dies aber gerade die Hauptsache" (Werke, B. XV, S. 343). Diese ganz unphilosophische Methode' wandten aber auch Leibnitz und die anderen Verstandes-Philosophen an, welche sich daher sämmtlich in methodischer Beziehung zu Hegel verhalten , wie die Nacht zum Tag. Kant nahm einen Anlauf zu einer mehr wissen schaftlichen Darstellung. Auch seine Methode leidet jedoch an einem großen Mangel. Er geht gerade in Betreff der Grundlage seiner Philosopbie nur erzählend zu Werke. „ Von der Eigenthümlichkeit unseres Ver standes“, sagt er (B. III, S. 123), „ nur vermittelst der Kategorien und nur gerade durch diese Art und Zahl derselben Einheit der Apperception a priori zu Stande zu bringen, läßt sich eben so wenig fernier ein Grund angeben, als warum wir gerade diese und keine andern
+
+Functionen zu Urtheilen haben , oder warum Zeit und Raum die einzigen Formen unserer möglichen Anschauung Kant nimmt es von vorn herein als erwiesen an :
+
+sind.“
+
+1 ) daß „ mathematische Urtheile insgesammt synthetisch“ uod „ eigentliche mathematische Sätze jederzeit a priori sind “ (S. 42 u. 43) ; 2) dal „ Naturwissenschaft synthetische Urtheile a priori als Principien enthält“ (S. 44) ; und 3) daß „ in der Metaphysik synthetische Erkenntnisse a priori enthalten sein sollen “ (S. 45). Er fragt nur, wie sie möglich seien. Diese Möglichkeit führt er nun allerdings auf das Vorhandensein der Kategorien zurück, aber da er diese ohne weitere Prüfung aufnimmt, wie [p. 152] er sie vorfindet, und sich nur auf das Factum beruft, daß sie einmal da seien , so bleibt seine Methode, die kritisch sein soll, doch zum großen Theil dogmatisch und kann uns aus diesem Grunde nicht befriedigen. Was Fichte anbetrifft, so habe ich bereits im dritten Capitel (S. 123) eine ihn betreffende und jedenfalls wahre
+
+Bemerkung Hegels angeführt.
+
+Aehnlich wie in jener
+
+Stelle äußert sich dieser über ihn in seinen Vorlesungen über die Geschichte der Philosophie (B. XV, S. 557 und S. 560). Das Mangelhafte in Fichte's Verfabren wie sein Verdienst besteht darin, daß „ er eine Construction der
+
+Bestimmungen des Wissens aus dem Ich zu vollbringen gesucht hat“ . Denn das Ich ist“ zwar „ gewil, man kann nicht daran zweifeln ; die Philosophie will aber das Wabre.
+
+Das Gewisse ist“ bloß ,,day Subjective, und weil es der
+
+S
+
+Grund bleiben soll, so bleibt das Weitere auch das Subjec tive, ohne daß diese Form weggebracht werden könnte“ . Das vollständig vernichtende Urtheil Hegels über die Methode Schellings ist oben (S. 114-115 und S. 124) Schon angegeben worden , und wird jedem nicht vor eingenommenen Leser nach den von mir aus Schellings Schriften mitgetheilten Proben (S. 113–114) als ein durch aus gerechtes erschienen sein . Danach durfte also Hegel im Hinblick auf seine mit vollem Rechte sagen : „ Bisher hatte die Aint. Vorgänger Philosophie ihre Methode noch nicht gefunden “. In
+
+Bezug auf seine dialectische Methode aber dürfte er
+
+El a mit eben so großem Rechte das stolze Wort aussprechen : Wie würde ich meinen können, daß nicht die Methode,
+
+‫גל‬ oder die ich in diesem System der Logik befolgt, vielmehr die dies System an ihm selbst befolgt, – noch vieler Vervollkommnung , vieler Durchbildung im Einzelnen fähig sei, aber ich weiſs zugleich , dass sie die einzige wahrhafte ist “ .
+
+## Dritte Abtheilung:
+
+Nachschrift Michelet’s.
+
+Geschichte der Preisbewerbung .
+
+[p. 155] Actenstücke und Belege. Nachdem ich die Geschichte der Philosophischen Gesellschaft zu Berlin in ihren Zeitschriften bis zum
+
+Jahre 1884.fortgeführt hatte, glaubte ich ein für alle Mal überhoben zu sein, noch Ein Wort über die fernere Thätigkeit derselben verlieren zu sollen, da sie nunmehr, sowohl in den Zielen, als in den Personen , eine ganz andere , als die vom Grafen Cieszkowski und von mir gegründete , geworden war. Das Ergebniſ der ausge schriebenen Preisbewerbung, bei welcher ich thätig ge wesen bin, nöthigt mich jedoch, sine ira et studio, quorum causas procul habeo , dasselbe einer nähern Erörterung zu unterziehen, da es in öffentlichen Blättern , wenn auch vielfach, so doch sehr lückenhaft besprochen worden ist. Die authentische Darstellung dieser Angelegenheit dürfte auch wesentlich dazu beitragen, das Interesse des philosophischen Publicum's für unseren Zweck zu erregen, und so dem von uns gewünschten Wendepunkte in der
+
+Geschichte der Philosophie förderlich sein. Seitdem der verewigte Kirchmann zum Vorsitzenden der jetzigen Gesellschaft erwählt worden war, hatte er, aus Abneigung gegen den von mir vertretenen philosophischen Standpunkt, die sich indessen nicht auf meine Person übertrug, ein höchst auffallendes Verfahren ein geschlagen, um sowohl meine Vorträge in den Sitzungen, als deren Abdruck in den „ Verhandlungen“ und in den „ Vorträgen “ der Gesellschaft zu hintertreiben .
+
+Diese
+
+Feindseligkeit wurde besonders in den Jahren 1882 und
+
+1883 eine recht schneidig gespannte, wie ich Dies in der Zeitschrift : „ Der Gedanke" (Bd. IX , Heft 1 , S. 1–17), geschildert habe. Nach langen , vergeblichen Kämpfen, um auch meine Ansicht in den Arbeiten der Gesellschaft [p. 156] zur Geltung zu bringen, brach ich jede Beziehung zu derselben ab, ungeachtet sie mich mehrfach dringend eingeladen hatte , wieder an ihren Sitzungen Theil zu nehmen.
+
+Jener Wettstreit brachte mich jedoch wieder in Be rührung mit dieser Gesellschaft, wiewohl sie meinen gut gemeinten Rath , eine gründliche Umgestaltung ihrer selbst vorzunehmen, verschmäht hatte (ebendaselbst, S. 18-28).
+
+Schon im Jahre 1881 batte nämlich der zweite Schriftführer, Herr Meineke, den Antrag gestellt, die ihrem ganzen Inhalte nach in der Vorrede (S. DIT I angeführte Preisaufgabe auszuschreiben. Nur weil Kirch mann, einer Reise wegen, gerade abwesend war, gelang es, die Zustimmung der von ihrem Vorstande gänzlich beherrschten Gesellschaft für einen, Hegel betreffenden Preis zu erhalten. Derselbe wurde auf 450 Mark fest gesetzt, und sollte auch aus der Hegelstiftung entnommen werden . Das von mir und Herrn Meineke, als den beiden Schriftführern, unterzeichnete Programm wurde unter dem 27. Juni 1881 veröffentlicht.
+
+Am 31. December 1883, als dem bestimmten Termin, war indessen keine Abhandlung eingelaufen. Da ich mich in der Zwischenzeit, aus dem er wähnten Grunde, von den Sitzungen fern gehalten hatte, kam Herr Meineke zu mir, und fragte vertraulich bei mir an, ob ich die Erneuerung des Ausschreibens für rathsam halte ; was ich unbedingt bejahte. Der Hegelpreis wurde auf 750 Mark erhöht, und die Einladung von dem jetzigen ersten Vorsitzenden , Herrn Lasson , und von Herrn
+
+Meineke , als Schriftführer, am 28. Juni 1884 unter schrieben. Am 31. December 1886 lagen die drei oben ( S. 5) erwähnten Abhandlungen dem Urtheile der Gesellschaft vor.
+
+Es wurde nun ein Ausschuß von drei
+
+[p. 157] Mitgliedern gewählt, welcher das Recht der endgiltigen Entscheidung , aber auch das der Cooptation weiterer Mitglieder aus dem Schooße der Gesellschaft haben sollte, falls er es für nöthig erachtete. Dieselbe behielt sich nur das Recht vor , einen Bericht über die Ent scheidung des Ausschusses entgegen zu nehmen. Vielleicht weil ich in einigen Sitzungen wieder gegenwärtig gewesen war, auch, als von der Pariser Akademie gekrönt , mit den äußerlichen Vorkommnissen einer solchen Wettbewerbung Bescheid weiß , endlich wohl, weil ich ja in den Kritiken über meine Werke häufig der letzte Hegelianer" genannt wurde -jetzt habe ich doch wenigstens noch Einen Hintermann - kurz, man wählte mich an erster Stelle ohne Stimmzettel einmüthig. durch Berufung zum Vorsitzenden und Berichterstatter des Ausschusses.
+
+Als meine beiden Beisitzer wurden die zwei Vorsitzenden, die Herren Lasson und Frederichs, durch Stimmenmehrheit ernannt. Ich machte zwar Herrn
+
+Meineke , der eines großen Ansehens in der Gesellschaft genießt , sogleich auf das Gefährliche des Verfahrens aufmerksam , bei einer wissenschaftlichen Beurtheilung, es lediglich auf eine Mehrheit von Zweien gegen Einen ankommen zu lassen : namentlich bei so entgegengesetzten Standpunkten der Richter , wie ich sie in den beiden
+
+Gewählten erblickte. Meine Ahnung ist auch nur zu genau eingetroffen ! Zugleich hätte ich wohl, meiner Stellung wegen, Anspruch auf ein größeres Gewicht meines Urtheils gehabt . Ungeachtet dieser Unzuträglichkeiten vertheilte ich dennoch am Anfang des Jahrs 1887 die Abhandlungen an uns Drei .
+
+Als nach drei Monaten der Umlauf geschehen war , und ich die Gutachten der beiden andern Mit glieder in Händen hatte, berief ich dieselben Behufs [p. 158] einer Ausschuß - Sitzung im April zu mir : damit sie nun auch ihrerseits meine schriftlichen Gutachten entgegen nähmen. Sobald Dies geschehen, wollte ich eine mündliche Discussion eröffnen , um , dem Ausfalle derselben gemäß , der Gesellschaft meinen Bericht abstatten zu können .
+
+Kaum hatte ich aber einige Seiten gelesen, als Herr Lasson mich mit den Worten unterbrach, daß er die Abstimmung verlange, da sie Beide — angeblich keine Zeit mehr hätten , mich noch länger anzuhören; was mir nicht anders , als äußerst verwundersam er scheinen mußte , da dieselben, als Schulmänner , Oster ferien hatten , und der Tag überdies ein Sonntag war. Ich hätte doch mindestens ebensoviel Anspruch gehabt, mit meinen ausführlichen Gründen gehört zu werden, wie ich ihn meinen Amtsgenossen zugestanden hatte.
+
+Ohne auf meinen Einspruch Rücksicht zu nehmen, ohne auch nur eine mündliche Discussion, selbst ohne
+
+Kenntniß meiner schriftlichen Gutachten zuzulassen , gingen die Beisitzer nicht von ihrem Verlangen ab . Es stellte sich heraus, daß Herr Frederichs mehr der No. I ,
+
+Herr Lasson mehr der No. III zuneigte , während ich mich für die No. II aussprach. Doch wurden wir bald darüber einig, daß die Nummern I und III des Preises unwürdig seien. Es blieb also nur noch die No. II übrig, der ich den Preis zuerkannt wissen wollte, von den beiden andern Mitgliedern aber überstimmt wurde. Herrn Frederichs verdenke ich seine Abstimmung nicht, da er, als subjectiver Idealist nach Berkeley und Kant, und bei seiner geringen Bekanntschaft mit Hegel, durchaus unfähig ist, ihn zu beurtheilen. Anders verhält es sich mit Herrn Lasson, dessen negatives Votum, obgleich or der Hegel'schen Schule angehört, ich mir allein daraus er klären kann, daß er No. II nur oberflächlich gelesen hat.
+
+[p. 159] Ich erklärte sogleich , daß ich dies rein negative Ergebniß nicht für ein endgiltiges ansehen könne : und griff nun zum letzten Auskunftsmittel, der Cooptation .
+
+Diese Zuwahl wurde mir jedoch unter allerhand Vor wänden verweigert: es sei zu spät dazu , -da doch das Urtheil bis zum 1. Juli Zeit hatte; die Zuzuwählenden müßten dann auch die beiden anderen Abhandlungen zu prüfen haben.
+
+Waruru ? da doch darüber Ein stimmigkeit unter den Richtern herrschte! Um meinen Wünschen scheinbar einige Rechnung zu tragen , hatte Meineke persönlich , aber nicht auf Grund einer Zuwahl, die Abhandlung No. II den Herren R. Runze, Pappenheim und Engel mitgetheilt, welche sämmtlich dieselbe für eine vortreffliche erkannten, aber, wegen einiger geringfügiger Ausstellungen , der Ansicht des Vorstandes nicht ent gegentraten. Auch Meineke selbst hatte mir einmal die No. II als eine sehr vortreffliche gepriesen : und nur dieselben Ausstellungen vorgebracht, die ich dann in den Urtheilen der drei genannten Mitglieder wieder fand. Als Schatzmeister der Hegelstiftung, hielt Meineke aber mit dem Gelde zurück : und erhoffte, durch eine Erhöhung des Preises auf 1050 Mark , etwas noch Besseres ; von diesem dritten Versuch rieth ich jedoch dringend ab.
+
+Den Zweck , den ich, vermittelst der Krönung der No. II durch die Gesellschaft, in's Auge gefaßt hatte, gab ich indessen darum keinesweges auf, sondern suchte ihn nun auf einem andern Wege in's Dasein zu rufen. Ich wollte mich mit dem mir unbekannten Verfasser in Ver bindung setzen, um zusammen die Rehabilitirung Hegels durch Veröffentlichung seiner Schrift und meiner Gut achten in's Werk zu setzen.
+
+Da uns die Abhandlung aus Hamburg zugekommen war, so ließ ich unter dem Datum des 8. Juli folgende Erklärung , die der Ham [p. 160] bürger Correspondent am 9. Juli, sowie gleichzeitig die Vossische Zeitung brachte, ergehen :
+
+„ An der nur negativen Entscheidung über die von der Philosophischen Gesellschaft zu Berlin ausge schriebene Preisbewerbung habe ich keinen Antheil. Zugleich ersuche ich den Verfasser der mit dem Motto : „ Ich weiß , daß sie die einzige wahrhafte ist“, eingegangenen Bewerbungsschrift sich mit mir in Verbindung zu setzen, indem ich ihm eine Mit theilung zu machen habe. “ Dr. C. L. Michelet,
+
+Professor der Philosophie an der Universität Berlin . Es ergab sich auch bald aus dem zwischen dem
+
+Dr. Haring und mir eingeleiteten Briefwechsel, daß wir Beide sogar im Stillen dieselbe Absicht gehegt hatten, die wir nunmehr durch die gegenwärtige Veröffentlichung gemeinschaftlich auszuführen gedenken. In der auf den 25. Juni anberaumten Sitzung der
+
+Gesellschaft, worin ich den Bericht erstatten sollte, war ich indessen nicht erschienen , weil ich nicht im Namen der beiden andern Mitglieder des Ausschusses eine Ent scheidung billigen wollte, die ich für eine vollkommen verfehlte ansehen mußte.
+
+Statt dessen hatte ich einen schriftlichen „ Protest" eingesandt, der etwa folgenden Wortlaut hatte:
+
+„ Angesehen, daß ich, gegen alle Formen,
+
+1 ) die Gründe meines nicht zu den Acten ge kommenen schriftlichen Berichtes gar nicht in ihrer Ausführlichkeit entwickeln konnte ; 2 ) und noch viel weniger eine mündliche Discussion, welche die Ansichten zu klären sehr geeignet gewesen wäre, sei es im ursprünglichen, oder im verstärkten Ausschusse, zu eröffnen vermochte, erkläre [p. 161] ich hiermit, Angesichts der versammelten Gesellschaft, daß ich : 1 ) meine Minderheitsansicht derselben vorzutragen für nutzlos halte, da ich doch dadurch keine Veränderung in der Sachlage herbeizuführen im Stande wäre ;
+
+2) eine etwa auf einen unvollständigen Ausschuß bericht gegründete Entscheidung aber für eine ungerechtfertigte, und darum hinfällige erachten mur .“
+
+Wie erstaunt war ich nun aber, als ich in dem amtlichen Berichte der Gesellschaft über diese Sitzung in der Vossischen Zeitung vom 15. Juli Folgendes las : „ Philosophische Gesellschaft. Sitzung vom 25. Juni. Da Herr Michelet , der von der Commission zur Begutachtung der auf Grund des Preisausschreibens der Gesellschaft eingelaufenen Concurrenzschriften gewählte Berichterstatter, sich dieser Aufgabe unter schriftlich eingesandtem Protest entzog, so erstattete Herr Lasson den Bericht. Die Entscheidung der Mehrheit der Commission ging dahin, daß keiner der drei Arbeiten der Preis zuertheilt werden könne :
+
+die Eine derselben aber mit dem Motto : ,,Das Ueber sinnliche ist das Sinnliche," wenn sie auch den Anforderungen des Ausschreibens nicht hinlänglich entspreche, doch von so viel Talent und Gründ lichkeit zeuge, daß der Vorschlag gerechtfertigt er scheine, die Philosophische Gesellschaft wolle sich , da ein Accessit nicht vorgesehen sei, mit dem Verfasser dieser Arbeit in Verbindung setzen, um zu ermitteln, wie die Gesellschaft am Zweckmäßigsten ihm eine Förderung seiner Studien könne zu Theil [p. 162] werden lassen .
+
+Die Gesellschaft beschlos Dem gemäß. - Die Feststellung einer neuen Preisauf gabe wurde auf die nächste Sitzung vertagt, die im September stattfinden wird.“ Die Entscheidung der Mehrheit der Commission hatte sich lediglich auf das rein negative Ergebniß beschränkt. Die folgenden Worte : „ Die Eine derselben “ u. S. W., sind kein Beschluß der Commission.
+
+Es ist vollkommen un richtig, daß dieselbe beschlossen haben solle, der Gesellschaft den ,, Vorschlag zu machen, von dem im amt lichen Berichte die Rede ist. In der einzigen unter meinem Vorsitz stattgehabten Ausschußsitzung, da doch nur in einer solchen endgiltige Beschlüsse gefaßt werden konnten, ist mit keiner Silbe einer positiven Berücksichtigung der Nummer III Erwähnung geschehen. Herr Lasson läßt auf seinen Bericht hin die Gesellschaft eine
+
+Entscheidung treffen , der sie sich begeben hatte, und nothwendig begeben mußte , da dieselbe keine selbst ständige Kenntniß von der Nummer III gewinnen konnte. Daß ein regelrechter Beschluß des Ausschusses um gangen worden ist, tritt in den Worten des amtlichen
+
+Berichts : „ Die Gesellschaft beschloß Dem gemäß ,“ zu Tage. Sie beschloß einen Ehrensold, der wohl den vollen Preis einer gekrönten Abhandlung noch zu überschreiten geeignet scheint. Denn um einem jungen Gelehrten ,,eine Förderung seiner Studien zu Theil werden zu lassen,“ mögen 750 Mark kaum ausreichen. Daß aber eine Krönung der No. III, deren sie vom Ausschusse einstimmig für unwürdig erklärt worden war, dennoch in verhüllter Form beabsichtigt wurde, ergiebt sich auch schon daraus, daß von einer dreimaligen Ausschreibung derselben Aufgabe nunmehr Abstand genommen , und eine neue in Aussicht gestellt wurde.
+
+[p. 163] Die Abhandlung No. III war der Gesellschaft aus
+
+Ungarn zugegangen ; und Herr Meineke hatte inzwischen als den Verfasser derselben einen Schreiber am Gericht zu Zombor ermittelt. Die Pester Blätter faßten in ihrer
+
+Magyarischen Lebhaftigkeit dies Ergebniſ auch sogleich mit Recht als eine wirkliche Krönung des Verfassers auf, und triumphirten laut darüber, daß ein Ungarischer Philosoph alle Deutschen Philosophen besiegt habe. Dieser Schreiber war es also , dem die Philosophische Gesellschaft zu Berlin für seine weiteren Studien förder lich sein wollte. Aber freilich wir können mit der
+
+Schrift sagen : ,,Vater, vergieb ihnen ; denn sie wissen nicht, was sie thun .“ Die Gesellschaft hatte, wenigstens nach
+
+Anleitung des Ungarischen Schreibers, alle bisherigen Philosophen, also auch sich selbst, d. h. alle Mitglieder einer bisherigen Philosophischen Gesellschaft, für bloße Träumer erklärt. (S. 65-66.)
+
+Die Wiener „ Deutsche Zeitung hielt sich denn auch sehr über dies Ergebniſ des Preisausschreibens auf.
+
+Der wesentliche Inhalt dieses ibres Artikels ist in den Hamburger Correspondenten vom 29. Juli übergegangen , und lautet etwa so :
+
+„ Der größte Philosoph Ungarns ist erstanden. Sein Vaterland weiß ihn hoch zu ehren. Der Mann ist Tagschreiber bei Gericht. Doch bis zu ihm drang vor einem Jahr die Kunde, dal die Berliner
+
+Philosophische Gesellschaft einen Preis ausge schrieben habe für die beste Arbeit über :
+
+„ Die
+
+Philosophie und die Bedeutung der dialektischen Methode Hegels ;" und er schrieb ein Werk von so berichtet ein Budapester Blatt – 280 Bogen ;
+
+und er errang den Preis . Die Preisrichter Lasson , Frederichs und Michelet bezeichneten die Arbeit 11* [p. 164] des Ungarischen Philosophen als eine sehr be deutende ; und erklärten, die Philosophische Gesellschaft könne es sich zur Ehre anrechnen, daß sie diese Arbeit veranlaßt habe.
+
+Die Pester Blätter rufen : Hosianna ! Ungarns großer Philosoph nennt sich Eugen Schmitt (zu Deutsch Scbmiedt)." Also ist der Mann doch am Ende Deutscher Ab kunft!
+
+Seitdem aber Herr Lasson der heutigen Philosophischen Gesellschaft die Ehre aufgedrungen hat, für einen solchen gewöhnlichen Materialisten einzustehen, ist jede Gemeinschaft und Continuität derselben mit der ursprünglichen Gesellschaft abgeschnitten. Herrn Lasson beneiden wir indessen nicht um den Synkretismus, den er zwischen Hegel und Herrn Schmitt aufgefunden hat, damit seine Philosophie der Zukunft aufzubauen . Mich selbst mußte ich jedoch gegen die Unrichtig keiten, die im Wiener Blatt enthalten waren, schützen, und ließ folgende Verwahrung unter dem 6. August in dieser Zeitung, im Hamburger Correspondenten, und in der Vossischen Zeitung, die je nach den verschiedenen Blättern eine etwas andere Form erhielt, erscheinen. Im Hamburger Blatte vom 9. August habe ich ihr diese Fassung gegeben :
+
+„ Es ist durchaus unrichtig, daß ich, als einer der Preisrichter über die bei der Philosophischen Gesellschaft eingegangenen Bewerbungsschriften, die Abhandlung des Ungarischen Tagschreibers, wie er in der Wiener Deutschen Zeitung geheißen wird, für eine bedeutende sollte erklärt haben. Im Gegentheil. Ich finde die Ironie, welche dieses Blatt über den Verfasser und dessen Beschützer ausgegossen hat, eine nur zu wohl verdiente. Das : Difficile est, satyram non scribere, Ihres an demselben Tage erschienenen
+
+[p. 165] Feuilleton -Artikels über Juvenal möchte man ge neigt sein , auf die wunderliche Nachricht, die aus Ungarn eingelaufen ist, in Anwendung zu bringen." Der glückliche Sieger war selbst sehr bestürzt über die Ueberschwänglichkeit der Budapester Blätter, wie folgender Artikel der Wiener Deutschen Zeitung vom 9. August beweist :
+
+„ Ein Gerichtsschreiber als Philosoph. Wie bekannt, ging von Ungarn die Kunde aus, daß da selbst in der Person des Zomborer Gerichtskanz listen, Eugen Heinrich Schmitt , welcher von der Philosophischen Gesellschaft in Berlin preisgekrönt wurde, ein bedeutender Magyarischer Philosoph er standen sei.
+
+Herr Schmitt sah sich dann veran laßt, in bescheidener Weise selbst die chauvinisti schen Uebertreibungen seiner Landsleute auf das richtige Maß zurückzuführen .“
+
+Nun folgt meine Berichtigung , worauf der Artikel also fortfäbrt :
+
+„ Auch der Schriftführer der Philosophischen Gesellschaft in Berlin hat in dieser Angelegenheit eine Berichtigung in der Nationalzeitung erscheinen lassen, welche wir nachstehend zum Abdruck bringen . Gegenüber theils schiefen, theils falschen An gaben , welche aus Tageblättern Buda-Pests und Wiens auch in Berliner Blätter übergegangen sind, fühle ich mich, als Schriftführer der Philosophischen Gesellschaft in Berlin , zugleich auf Wunsch des Kanzlisten des Königlichen Gerichts zu Zombor in
+
+Ungarn, Herrn Eugen Heinrich Schmitt, zu folgender Berichtigung veranlaßt : Die Philosophische Gesellschaft in Berlin , welche aus den für die Auf stellung der Hegel - Büste auf dem Hegel . Platze [p. 166] eingegangenen , aber übrig gebliebenen Geldern, und spätern Zuwendungen eine Hegel- Stiftung begründet hat, schrieb im Juni 1884 eine Preisaufgabe:
+
+Historisch -kritische Darstellung der dialektischen Methode Hegels, aus.
+
+Bis Ende December 1886 gingen drei Schriften in Deutscher Sprache ein . Das Urtheil der zur selbstständigen Entscheidung über die Preiswürdigkeit von der Gesellschaft ge wählten Commission, bestehend aus den Herren Professoren Lasson, Frederichs, Michelet, Mitgliedern der Gesellschaft, ging dahin, daß keiner der Preis von 750 Mark zu ertheilen sei.
+
+Auf Grund der
+
+Gutachten zweier Mitglieder der Commission, der
+
+Professoren Lasson und Frederichs, beschloß aber die Philosophische Gesellschaft in ihrer Sitzung vom 25. Juni 1887, dem Verfasser der aus Zombor in Ungarn eingegangenen Abhandlung, wegen des bedeutenden Talents , welches sie verrieth, Be hufs Veröffentlichung ihre Beihilfe anzubieten. Als Verfasser dieser Abhandlung stellte sich dem nächst der oben genannte Herr Eugen Heinrich Schmitt, Kanzlist des Königlichen Gerichts zu Zom bor in Ungarn , heraus. Das Wesentliche des Berichts
+
+Commission wird im nächsten
+
+Hefte der Vorträge der Philosophischen Gesellschaft gedruckt erscheinen . Meineke , Stadtgerichtsrath a. D., Schriftführer der Philosophischen Gesellschaft in Berlin ."
+
+(Ohne Datum.) Ich nehme Act davon, daß der Vorschlag einer Geld belohnung nur in dem schriftlichen Gutachten der Herren Lasson und Frederichs vorkommen soll.
+
+In der einzigen, allein entscheidenden Sitzung des Ausschusses , [p. 167] in welcher Herr Lasson selbst die Abstimmung erzwang, ist dieser Antrag gar nicht zur Sprache gekommen, konnte also nicht einmal mündlich discutirt, noch viel weniger von der Commission genehmigt, und am Aller wenigsten von den Gesellschaft beschlossen werden. Das Wesentliche des Berichts der Commission kann un möglich in der genannten Zeitschrift erscheinen, da meine Gutachten, die doch mindestens ein Drittel dieses Wesentlichen enthalten, dem improvisirten Berichterstatter gar nicht vorlagen, also für die Entscheidung der Commission nicht zur Geltung kommen konnten. Wenn die Ab handlung des Herrn Kanzlisten auch nur soviel Folio seiten enthält, als Bogen angegeben wurden : so möchte die Summe von 750 Mark doch wohl kaum ausreichen, um den Druck herzustellen. *
+
+Also auch bei dieser etwas veränderten Form der Krönung überstiege immer hin der Lohn den wirklich verheißenen Preis : ja vielleicht noch um eine größere Summe , als für die Förderung der Studien. Dabei sehe ich noch ganz davon ab, daß ein zu Ehren Hegels gestifteter Preis einer Hegel pamphletartig verhöhnenden Schrift zum Drucke ver helfen soll. (S 74.) Nach jener Veröffentlichung des Schriftführers schöpfte der Gekrönte wieder Muth ; und um seine Erhöhung noch bestimmter in amtlicher Weise beurkundet aufzuweisen , sandte er einem Pester Blatte sein Er * Jetzt erfahre ich indessen, dass in der Sitzung vom 26. November der Preis für diese verschämte Krönung auf nur 300 Mark fest gesetzt worden ist; was freilich nioht viel sagen will für das „ be deutende Talent", und die anderen epitheta ornantia , welche der
+
+Leser bald nachstehend vernehmen wird, wie : „Nicht Weniges zeigt die Hand eines Meisters“, „ Der geniale Geist des Verfassers“ , and dergleichen mehr.
+
+[p. 168] nennungsschreiben zu .
+
+Hierüber bringt die Vossische
+
+Zeitung vom 20. August folgende Mittheilung : „ Pester Blätter gewähren sich die Genugthuung, )
+
+das Schreiben zu veröffentlichen , welches die Berliner Philosophische Gesellschaft an Herrn Schmitt, Kanzlisten beim Zomborer Gerichtshofe, in Angelegenheit der von diesem verfaßten Preis arbeit über Hegels dialektische Methode gerichtet hat. Berlin , 28. Juni 1887. Sehr geehrter Herr! Sie haben eine Bearbeitung der ausgeschriebenen Preisarbeit über Hegels dialektische Methode ein gesendet. Ein Brief: „ Der Autor" unterzeichnet, nebst einem verschlossenen Couvert war dabei. Am
+
+Sonnabend, 25. Juni ist in der Sitzung der Philosophischen Gesellschaft über das Resultat der Be rathungen der zur Entscheidung gewählten Com mission, bestehend aus den Mitgliedern der Gesellschaft, Professor Lasson, Professor Frederichs , Professor Michelet, Bericht erstattet worden. Es waren drei Arbeiten eingegangen. Leider hat keiner derselben von der Commission der Preis zuerkannt Aber die Commission hat das höchst Bedeutende der von Ihnen eingesandten werden können.
+
+Arbeit anerkannt.
+
+Das Urtheil des Einen Mit glieds lautete unter Anderem : „ Die Arbeit ist eine höchst vorzügliche zu nennen ; nicht Weniges zeigt die Hand eines Meisters.
+
+Die Philosophische Gesellschaft kann es sich zur Ehre an rechnen, daß sie diese Arbeit veranlaßt hat.“
+
+Mängel wurden gefunden in der fehlenden Berücksichtigung der antiken Philosophie, der mittelalterlichen (Nikolaus Cusanus, Giordano Bruno,
+
+Eckhardt), in der Nichtberücksichtigung der Gegner
+
+[p. 169] Hegels, und in einer gewissen Formlosigkeit, ob wohl die oft überzeugende Kraft der Sprache, und zum Theil rednerische Schönheit, wenn auch manch mal nicht ganz abgeklärt, anerkannt wurde. Die Gesellschaft hat daher beschlossen , dem Herrn Verfasser ihre Beihilfe zur Veröffentlichung der Arbeit anzubieten .
+
+Ueber die Art der Beihilfe ist zunächst noch nichts beschlossen worden.
+
+Gesellschaft erwartet vom Herrn Verfasser, dessen genialer Geist die Gesellschaft auf das Höchste interessirt , offene Vorschläge. Es ist unter Anderem zur Sprache gekommen, daß die Arbeit, wenn auch vielleicht der Wiederholungen, Ueberschwänglichkeiten entkleidet, und so mehr in eine ihrem tiefen Inhalt entsprechende klassische Form gebracht, in den Vorträgen der Philosophischen Gesellschaft zu Berlin (Halle a. d . S. bei Pfeffer) in Heften erscheinend, zum Druck ge bracht werden könnte. Darf ich mein allerdings nur dilettantisches Urtheil über die Arbeit aus sprechen, so muß ich sagen , daß ich selten von einer Schrift der neuern Zeit so wunderbar er faßt worden bin, daß, als ich die ersten Seiten zu lesen begonnen, ich bald von einem wahren Rausche durch die Genialität des Verfassers ergriffen wurde. Durch eine energische Compression der Gedanken würde die Arbeit vielleicht geradezu Epoche machen können.
+
+Als Schriftführer der Gesellschaft bitte ich Sie nun, mich von den Intentionen des Herrn Verfassers unterrichten zu wollen : ob und wie er auf den Beschluß der Gesellschaft, ihm ihre Beihilfe zur Veröffentlichung der Arbeit anzubieten, ein zugehen Neigung hat, oder ob ich, und an wen, [p. 170] die Arbeit zurücksenden soll.
+
+Der Bericht der
+
+Commission wird in den Philosophischen Vorträgen veröffentlicht werden.
+
+Hochachtungsvoll
+
+Meineke , Stadtgerichtsrath a. D. “ Es ist denn doch vollkommen unrichtig, daß „ die Commission das höchst Bedeutende der Arbeit anerkannt“ haben solle. Es ist in der Commission gar nicht über ein solches Urtheil debattirt, noch viel weniger ein Mehrheitsbeschluß gefaßt worden . Die überschwänglichen Lobeserhebungen, die das obige Schreiben durch ge sperrte Schrift · hervorhebt, können höchstens in dem schriftlichen Gutachten des Herrn Lasson über die
+
+No. III vorkommen ; und doch hat auch er den Gebrauch „ abstracter Kategorien darin getadelt. Herr Frederichs aber bedauerte mir gegenüber im Vertrauen geradezu, daß die Schrift einen reinen Sensualismus und Materialis mus enthalte.
+
+Herr Lasson hat also auf sein eigenes
+
+Urtheil bin die Gesellschaft zu einem Beschlusse veranlaßt, dem zufolge dem Verfasser der No. III solcher Weihrauch gestreut wurde.
+
+Es ist dann aber doch auch völlig abnorm, daß die Gesellschaft sich für den „genialen Geist “ eines Verfassers „auf's Höchste interessirt" haben soll , dessen Schrift ihr nur durch die immerhin bedeutende Redefertigkeit des Herrn Lasson angepriesen worden sein konnte. Dal derselbe in diesem krassen Materialismus ,,die Hand eines Meisters “ angetroffen habe, lastet ferner ganz allein auf seiner eigenen Verantwortlichkeit. Weiter enthüllt das amtliche Schreiben dennoch hinterdrein viele nicht unbedeutende Gebrechen in der „ genialen “ Schrift, die erst beseitigt werden müßten, be vor die Gesellschaft dieselbe zum Druck zulassen könne.
+
+Manche dieser Fehler erklären sich zur Genüge aus dem [p. 171] ehrenwerthen Stande, welchem der Verfasser angehört.
+
+Die Abhandlung No. II, welche ich des Preises für viel würdiger ansehe, erscheint vor der Welt , wie sie eben aus der Feder ihres Urhebers geflossen ist. Wenn aber erst der Vorsitzende der Philosophischen Gesellschaft seine verbessernde Hand an die No. III gelegt haben wird, so fürchte ich darum doch nicht, daß dem philosophischen Publicum die Entscheidung über den Werth beider Mitbewerber sehr erschwert werden dürfte. Endlich erscheint es mir so neu und unerhört, wie unverantwortlich und demüthigend , daß ein Mitglied des Vorstandes einer philosophischen Gesellschaft sich selbst amtlich für einen Dilettanten ausgiebt, und Das durch seine Unterschrift beurkundet.
+
+Aus diesem Um stande wollen wir ihm indessen auf's Wort glauben, daß er schon durch die ersten hohlen Phrasen eines abge standenen Materialismus in einen „ wahren Rausch " ver setzt worden sei. Im Grunde genommen, verschlägt dies
+
+Bekenntniß aber der Gesellschaft nichts.
+
+Denn sie be steht selbst fast nur aus Dilettanten, Schullehrern, Juristen a. D. u. 8. W. Einer meiner Amtsgenossen, ein Professor der Philosophie, äußerte daher auch einmal gegen mich seine Befremdung, daß ich noch in einer philosophischen Gesellschaft weile, welche die Eigenthümlich keit habe, keine Philosophen in ihrem Schooße zu bergen. Nun, ein drittes Mal werde ich mich nicht mehr so leicht mit ihr einlassen, am Wenigsten, wenn es in ihr zu einem neuen Preisausschreiben kommen sollte, - es sei denn, daß andere Bedingungen für das Richteramt gestellt würden. Immerhin zeugt es von Muth, daß die Gesellschaft nunmehr in der That (wie ich soeben vernehme) zu einem dritten Ausschreiben : „ Hegels Lehre vom Wesen [p. 172] der Erfahrung und von ihrer Bedeutung für's Erkennen "
+
+( 800 Mark ), geschritten ist.
+
+## Epilog
+
+Der geneigte Leser möge nun auch dies drama satyricum der philosophischen Preisbewerbung einer sich so nonnenden philosophischen Gesellschaft gütig auf nehmen. Dieselbe befindet sich in der schwierigen Lage
+
+Hamlets, vor eine Aufgabe gestellt zu sein , die sie zu lösen außer Stande ist.
+
+Der Unterschied ist nur der, dal Hamlets scharf reflectirender Verstand, in Collision zu den Befehlen des Schicksals gerathen , seine Unzulänglichkeit, ihn auszuführen, auch erkennt. Das macht eben das Tragische in der Lage dieses denkenden Helden aus : während das Komische in der Lage der Gesellschaft darin besteht, gar nicht einmal zu wissen, daß sie solcher Aufgabe nicht gewachsen ist. Erhöht wird diese Komik noch dadurch, daß sie sich selbst diese Aufgabe gestellt hat, also mit sich selbst in Widerspruch steht : während die tragische Lage Hamlets darin ent halten ist, daß ihn dieser Widerspruch ohne sein Zuthun betroffen hat. Erzeugt nun ein Widerspruch, in welchen der Handelnde sich selbst verwickelt, das komische Ge fühl des Lächerlichen in den Zuschauern : so erregt die Tragik, der Hamlet anheimgefallen ist, die Affecte der Furcht und des Mitleidens , wie Aristoteles sie nennt.
+
+Der ernsthafte Vortheil, den wir aus diesem Schluß Aufzuge der vorliegenden Preisbewerbung ziehen dürften, liegt aber darin, daß es nunmehr zur Erkenntniß in der philosophischen Welt gekommen sein möchte, wie der Schutt, den das fünfzigjährige Zwischenreich im philosophischen Deutschland aufgebäuft hat, erst hinwegge [p. 173] räumt werden müsse : bevor die echte Philosophie die Kette der Ueberlieferung da wieder anzuschmieden vermöge, wo dieselbe durch die Irrwege eines nur negativen Kriticis eines blos zerstörenden Pessimismus, und eines
+
+Wissens abgebrochen worden war , das lediglich aus der Erfahrung entweder der Sinne oder gar eines über natürlichen Glaubens geschöpft ist. Geschähe Dies, so würde damit auch in Erfüllung gehen, was am Schlusse des Platonischen Gastmals, in der Stunde der Morgen dämmerung , der Tragiker Agathon und der Komiker Aristophanes mit dem Bahnbrecher Sokrates vorahnend besprachen , daß die wahre Tragödie auch die wahre
+
+Komödie sein müsse. Diesen glücklichen Ausgang des von dieser Preisbewerbung in Scene gesetzten Drama's denken die Herausgeber eben mit einiger Sicherheit in Aussicht stellen zu sollen. Humor davon !
+
+Und Das wäre der
+
+Anzeigen. 1.
+
+Im Verlage von Duncker & Humblot erschienen früher von Professor Michelet :
+
+Geschichte der letzten Systeme der Philosophie in Deutschland, von Kant bis Hegel. 2 Thl.
+
+1837-1838 .
+
+Entwickelungsgeschichte der neuesten Deut schen Philosophie , mit besonderer Rücksicht auf den gegenwärtigen Kampf Schellings mit der Hegel'schen Schule. 1843.
+
+Hegel, der unwiderlegte Weltphilosoph . Eine Jubelschrift 1870. 2.
+
+Von Michelets gesammelten Werken sind bis jetzt erschienen die Erste Abtheilung, Leben und System , enthaltend Wahrheit aus meinem Leben (Bd. I), Das
+
+System der Philosophie als exacter Wissenschaft, ent haltend Logik (Bd. II), Naturphilosophie auf dem Grunde der Erfahrung (Bd. III), Philosophie des Geistes (Bd IV)), Philosophie der Geschichte (Bd. V-VI) : von der Zweiten Abtheilung, Einzelne Disciplinon der Philosophie, nur die Rechtsphilosophie (Bd. VIII - IX ); Beides Berlin in der Nicolaischen Verlags-Buchhandlung ( R. Stricker). Die Aufnahme des Rests der zweiten Ab theilung, sowie die der Dritten Abtheilung, Vermischte Schriften , wird durch Vereinbarung mit den verschiedenen Verlegern bewirkt werden.
+
+!
+
++
+
+UNIVERSITY OF MICHIGAN
+
+3 9015 02649 2135
+
+GENES 1.2
+
+UN

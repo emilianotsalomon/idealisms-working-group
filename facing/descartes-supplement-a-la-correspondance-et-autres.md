@@ -1,0 +1,4223 @@
+---
+title: Supplément à la correspondance et autres écrits (AT X, 533-693)
+author: René Descartes
+year: 1897
+original_language: fr
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: Œuvres de Descartes, publiées par Charles Adam et Paul Tannery, t. X (Paris, Cerf, 1897-1913); converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: Wikisource's OCR text layer of the scan, mostly not proofread there; long s read as f restored by a lexicon and Haiku (at_longs_fix.py), not otherwise corrected; non-word rate 12.8% (wordfreq, the edition's own spellings kept; Latin passages and 17th-century spelling count as non-words); [p. N] are AT's pages, from Wikisource; the printed edition is the authority
+translation: none
+canonical: "AT X: [p. N] are the pages of AT X"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Supplément à la correspondance et autres écrits (AT X, 533-693) was written by an author who died in 1650, so before 1931; René Descartes (d. 1650) is long out of protection and the edition (1897) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 8252)
+---
+
+# R. Descartes, *Supplément à la correspondance et autres écrits (AT X, 533-693)* (1897)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+[p. 533] ART DE L’ESCRIME
+
+[p. 535] ART DE L’ESCRIME
+
+L’inventaire de Stockholm ne mentionne pas ce petit traité de l’Art de l’Escrime (ou peut-être simplement Art d’Escrime). Il ne nous est connu que par un passage de Baillet, dans sa Vie de Monsîeur Des-Cartes, que nous reproduisons ci-après. Le Manuscrit original se trouvait-il, bien que non inventorié, dans les papiers remis par Chanut à Clerselier ? On ne saurait dire. Toujours est-il que Leibniz, ne l’a pas vu, lorsqu’il feuilleta chez Clerselier les Manuscrits de Descartes à Paris en 1676. Lui-même le déclare, dans une note sur l’Abrégé de la Vie de Mons. des Cartes, note que nous avons reproduite au tome I de cette édition, page 196. Le Manuscrit semble donc irrémédiablement perdu.
+
+A quel moment fut-il rédigé ? On lit dans Baillet, t. I, p. 35 : « M. Descartes passa l’hiver de la fin de 1612 & du commencement de 1613 dans la Ville de Rennes, à revoir sa famille, à monter à cheval, à faire des armes, & autres exercices convenables à sa condition. On peut juger, par son petit Traité de Escrime, s’il y perdit entiérement son têms. » Et c’est tout. Peut-on conclure de là, que ce petit traité est le premier en date de tous les écrits de Descartes, et remonte à sa dix-septième année, bien avant le Compendium Musicæ lui-même ? Le texte de Baillet ne dit pas cela, et nous avons vu, p. 87-88 ci-avant, à propos du Compendium Musicæ, que notre philosophe ne paraît pas avoir rien écrit, comme traité véritable. [p. 536] çj6 Art
+
+antérieurement. — D'autre part, Baillet mentionne VArt d'Es- crime immédiatement après le Dialogue de la Recherche de la Vérité, comme s'il avait sous les yeux les deux Manuscrits à la suite l'un de l'autre. Et ceci est une première indication. En outre, au début de la Correspondance Aq Descartes, il est ques- tion d'escrime dans ses lettres. Le 23 décembre i63o, il répond au sujet d'un Livre à tirer des armes, qui lui avait été signalé, comme si cette question l'intéressait alors (t. I, p. igS, 1. 12-16). Mais surtout, le 4 novembre i63o, il donne à Mersenne, pour le P. Gibieuf, cette commission significative : « le ne seray » pas marry qu'il sçache aussi, plus particulièrement que les » autres, que i'eftudie à quelqu'autre chose qu'à l'art de tirer » des armes » (t. I, p. 174, 1. 28-3o). Descartes avait donc laissé de lui à ses amis de Paris, en ces derniers temps, la réputation d'un amateur d'escrime. C'est peut-être une raison suffisante pour dater de ce moment, 1628 environ, le petit traité perdu.
+
+Voici le passage de Baillet, qui fait suite immédiatement à celui que nous avons donné ci-avant, p. 528-529 :
+
+« Nous trouvons aufTi, parmi les Manuscrits de M. Descartes, un » petit traité touchant la manière de faire des armes, sous le titre de » I'Art d'Escrime, où il paroît que la plupart des leçons qu'il y » donne, sont appuyées sur sa propre expérience. »
+
+« Apres avoir dit quelque chose, en général, de la qualité de l'épée » & de la manière de s'en Tenir , il divifc son traité en deux » parties. »
+
+« Dans la première, il fait voir
+
+comme on peut s'afTùrer contre tous les efforts de Tadverfaire, & en tirer de l'avantage, pendant qu'on ell en mesure longue, & comme on peut le mettre fùrement en mesure courte.
+
+« Dans la féconde il examine
+
+comment, étant entré en mesure courte, on peut infailliblement vaincre.
+
+�� �
+
+[p. 537] DE l'Escrime. ^^7
+
+« Et pour cela il suppose
+
+deux hommes d'égale grandeur, d'égale force, & d'armes égales, se réfervant à marquer ensuite ce qu'il y a à faire en cas d'inégalité.
+
+(A. Baillet, La Vie de Motifieur Des-Cartes, 1691, t. II, p. 407.)
+
+Voici le titre exact et complet de ce « Liure à tirer des armes », dont Descartes parle dans sa lettre du 23 déc. i63o, t. I, p. 195, 1. 12 :
+
+Académie de l'espée de Girard Thibault d'Anvers : oii/e démon- Jlrent par reigles mathématiques sur le fondement d'un cercle myfîe- rieux la théorie & pratique des vrais & iusqu à present incognusfecrets du maniement des armes à pied & à cheval. (M. IDC. XXVIII. in-fol. Privilège du Ro)- de France, 21 décembre 1620; des Etats-Géné- raux des Pays-Bas, 5 juin 1627.) — Un exemplaire, conservé à la Bibliothèque de Versailles, contient à la fin un feuillet supplémen- taire, sur lequel on lit : « Advertiffement au ledeur : Le Letteur » sera adverti, que l'Autheur, ayant eu le deflein de produire la » fcicnce de l'exercice à cheval, avec celle à pied, comme il en ei\ » faift mention au frontifpice de ce livre, la mort l'ayant prévenu, » ne l'a peu mettre en cfTcft; mesme l'impreflion du present livre » en a elle retardée iusques à present. — A Lej-de, Imprimé en la i> typographie des El\eviers, Au moj's d'Aouft, l'an cId Id c xxx. » — Somptueuse édition, ajoute Alphonse Wii.lems [Les Elsevier, Bruxelles, Paris et La Haye, 1880, p. 79), imprimée en grands et beaux caractères sur un papier très fort, et recherchée encore aujourd'hui à cause des magnifiques planches dont elle est ornée. La première partie se compose, en effet, de 33 planches doubles accompagnées d'un texte, et la seconde de i3 planches doubles (sans compter 1 3 feuilles liminaires, dont 9 pour les armoiries des princes auxqueis l'ouvrage est dédié).
+
+D'autre part, nous avons reproduit, t. IV, p. 319^320, d'après Baillet, le récit laissé par Porlier. neveu de Chanut. d'un entretien qu'il eut à Amsterdam, en octobre 1645, avec un Maître d'armes, qui « se vantoit de connoiftrc AL Dcfcartes mieux que pcrfonne, « pour l'avoir hanté souvent en différens endroits de la Hollande »; CEirvuES. V. 68
+
+�� �
+
+[p. 538] Au sujet de l’habitude que Descartes avait des armes, rappelons enfin cette aventure, qui remonte à son séjour de Paris, 1625-1628. Baillet la raconte d’après une relation MS. du P. Poisson, qu’il cite même textuellement :
+
+« Madame du Rosay, qui se faisoit honneur d’avoir été la seule qu’il eût recherchée, étoit toujours fort curieuse de raconter dans toutes les bonnes compagnies une aventure, où son servifeur, qui n’étoit encore qu’un jeune cavalier, s’étoit signalé pour l’amour d’elle. Elle pretendoit que [En marge : Poiss. ibid.] Monsieur Descartes, retournant un jour de Paris, où il l’avoit accompagnée avec d’autres Dames, avoit été attaqué par un Rival sur le chemin d’Orléans, & que, l’ayant désarmé, il luy rendit son épée, disant, qu’il devoit la vie à cette Dame pour laquelle il venoit d’exposer luy même la sienne. Hors ce trait de bravoure, qui pourra servir à ceux qui voudront faire son Roman pour le traiter en Paladin, nous ne trouvons rien, dans tout le reste, qui ait eu aucun air de galanterie, ou qui ait pû faire juger que l’on penchant fût tourné ailleurs que vers la Philosophie. »
+
+(A. Baillet, La Vie de Monsieur Des-Cartes, 1691, t. II, p. 501.) [p. 539] tl ��SUPPLÉMENT
+
+��A LA
+
+��CORRESPONDANCE
+
+(TOMES I-V)
+
+�� �
+
+[p. 541] SUPPLÉMENT
+
+��A LA
+
+��CORRESPONDANCE
+
+(TOMES I-V)
+
+��Lettre VIII, au P. Gibieuf, i8 juillet 1629. (Tome I, page iti.)
+
+LETTRE DE RENERI.
+
+Cette première lettre de Hollande est datée du 18 juillet 1629. Mais nous savons que, le 16 avril pre'cédent. Descartes se fit inscrire comme étudiant à l'Université de Franeker; et d'autre part, sa pré- sence à Dordrecht, le 8 octobre 1628, nous est révélée par \ç Journal de Beeckman (voir ci-avant, p. 33 1 et p. 35). Entre ces deux dates, du 8 octobre 1628 et du 16 avril 1629, est-il demeuré en Hollande ou bien serait-il retourné en France ? On ne sait pas. Voici toutefois une lettre de Reneri, adressée sans doute à Constantin Huygens (bien que le nom du destinataire manque), qui ferait croire que Descartes était à Amsterdam dès la fin de mars 1629. Le Nobilis Gallus, dont parle Reneri, semble bien être, en effet, notre philo- sophe. Et quand même d'ailleurs ce ne serait pas lui (chose bien invraisemblable), la lettre n'en a pa§ moins grand intérêt, à cause des relations d'amitié entre Descarfes et Reneri et de leur commu- nauté d'études en ce temps-là.
+
+« Vir AmpHflîme,
+
+« Jam demum certior fadus de audore illo, cujus nuper apud te » memineram, titulum mitto : Fundamentum Opticum Scheineri » Jefuitce Ingoljladij. In eo fabrica oculi, & modus quo fiât visio,
+
+�� �
+
+[p. 542] ^42 Correspondance.
+
+» accuratiùs quàm apud ullum explicatur. Eo libello promittuntur » quidem reliquaï Optices partes ; sed an prodierint, nondum habet » pro comperto Nobilis ille Gallus. Si exemplarbic nancifci potuif- » fem, maluiffem meà operà te levare inquirendi moleftià ; sed » dabuntur forte aliàs ampliores tibi gratificandi occasiones. Saltem » nil magis velim, quàm eas mihi vel à te vel aliunde fuppeditari, » ut ex obfequijs meis intelligere po(ris,quàm cupiam inter nominis » & ingenij tui cultores locum habere. »
+
+« Cùm poftremum Hagae essem, oblervaffemque ex tuis diftis » quanti Optica aeftimares, poftridie recoUedis quae olim proprio » ingenio deprehenderam, denuô acceffi, ea communicaturus : tum » ut earum rerum quibus te inter feveriores occupationes obleftas » comniunicatione gradum mihi ad favorem tuum pararem, tum » ut fpeciminibus aliquot ingenij maieriam aliquam mei commen- » dandi fuggererem. Graviora tua negotia hanc mihi ansam ademe- » runt, opportuniori tempore, ut fpero, reddendam. Capita verùm » perftringam modo ; inrtrumenta ad eos effedus, cœterafque cir- >)' cumftantias. ut & gradus per quos paulatim ad eorum perfedio- » nem adfcendi , oculari demonftrationi & vivae vocis alloquio >) relinquam. »
+
+« Ratio excitandi Iridem in fontibus, cœlerti nihil cedentem, » neque colorum fplendore, neque duratione, imô ne magnitudine » quidem & situ. cùm & maxima confpiciatur & ocuii judicio in » caîlo. «
+
+« Ratio repraelentandi in cubiculo obfcuro giganteae magnitu- » dinis homines. »
+
+« Rationes duaî novae reprasfentandi res externas in cubiculo obs- » euro, altéra supra ipsam fenellrae (cui fôramen inest) superficiem, » altéra in aëre ipso ; quas ratio aptiffima ad fpedra repraefen- i> tenda. »
+
+« Instrumentum utrinque certis perfpicillis seu vitris terminatum, » cujus bénéficie res rcpraefentantur situ redo. »
+
+« Ratio conficiendi exaé^iflimè & tamen nullo negotio imagines >> illas, qua; propter umbram in longum projedam prima facie » nil minus referunt quàm pfototypum suum, sed adfpedu obli- » quo per foramen in sine all'eris fadum perfedè reprasfen- » tant. »
+
+« Hœc non modo in idteà habeo, sed reipfâ probavi, & extant » nonnulla eorum apud D. Overbeeck. Si quis forte in quaedam » eorum vel casu vel ingenij felicitate ante me inciderit, probe sal- » tem mihi conscius sum, me hxc omnia proprio marte sine ullius
+
+�� �
+
+[p. 543] Supplément. ^4}
+
+., alteiius adminiculo reperiffe. Verùm, ut dixi, de his diflerendi » copia erit, cùm eam mihi occupationes tuae magis feriae facient. » Vale & favore tuo dignare
+
+» Ampl(itudinis) tuae
+
+» humillimum cultorem
+
+» He^ricum Reneri. » Amftelodamo, 28 Martij 1629. »
+
+(Londres, Brit. Mus. Additional MS. 21524,
+
+fol. 24S.)
+
+Voici le titre exact et complet, ainsi que la date de publication^ de cette Optique de Scheiner, dont Reneri, semble-t-il, dut la con- naissance à Descartes :
+
+OcuLUS hoc est : Fundamentum opticum, in quo ex accuratâ ocuh anatome, abjîrfuarum experientiarum fedulâ pervejligatione, ex inuifis specierum vifibilium tam euerfo quàm ereâo situ fpeâaculis, necnon folidis rationum momentis radius vifualis eruitur ; sua vifiom in oculofedes deccrnitur ; anguli viforii ingenium aperitur; difficul- tates veteres, novce, innumerce expediuniur ; abjtritfa, ob/cura, curiofa plurima in médium proferunlur ; plura depromendi occafto harum rerum Jîudiofis datur . Opus multorum votis diu expetitum ; Phtlo- fophis omnibus, prce/ertim qui naturce vim in Medicinâ, Phfftcâ aut Matheft addifcendce rimantur, neque inutile, neqtie ingratum, imb uecejfariumfutunim. Auâore Christophoro Scheiner, Soc. lefu &c. (Œniponti, apud Danielem Agricolam, M.D.XIX. 4°, ff. 5, pp. 254.) Seconde édition, Fribourg en Brisgau, 162 1.
+
+Quant aux inventions merveilleuses que s'attribue ensuite Reneri et qu'il énumère complaisamment, elles ne pouvaient manquer d'intéresser Descartes, qui précisément en avait étudié de sembla- bles, au témoignage de Villebressieu. Voir, au tome I de la présente édition, page 211-212.
+
+En ce qui concerne l'arc-en-ciel en particulier, on peut voir aussi que Descartes le reproduisait artificiellement pour mieux l'étudier, dans ses Météores, Disc. VIII. (Ci-avant t. VI, p. 325-344-)
+
+�� �
+
+[p. 544] ^44 Correspondance.
+
+l.ETiRE XL\ bis, A Mersenne, Eté i632. ( Tome I, page 258-25g.)
+
+TROMPETTE MARINE.
+
+Paul Tannery avait trouve à Paris, Bibliothèque S'*-Genevièvc, MS. 1070, Traité des Ittjlrumeiits de Muftque, par Pierre Trichkt « Bourdelois », l'explication suivante de la trompette marine :
+
+« La trompette marine est un instrument triangulaire, qui a » mérité ce nom de Trompette, à cause qu'en sa longueur elle a » quelque conformité avec la militaire; ou bien c'est que, par imi- » tation, l'on lui said exprimer les fanfares de l'autre. Quant à » l'epithete qu'on lui attribue, c'est, à mon avis, parce qu'elle est » fort ufitée sur la mer, & plus pratiquée des mariniers que » d'autres personnes. »
+
+« En ce qu'elle n'a qu'une chorde, l'on la peut comparer à un » monochorde, nonobstant que l'usage de cettui-cy soit fort éloigné » & différent de celui de la trompette marine, qui sert seulement » pour la récréation & pour empêcher de s'ennuyer; mais le mono- » chorde est employé pour faire en musique des recherches fpecula- » tives. Peut-être que le Trigone des Grecs, dont fait mention Platon » [Liv. 8, De Rep.), se peut rapporter à la trompette marine. »
+
+« La fabrique & conftrudion de cet instrument sc said toujours » de trois petites tables fort minces : lesquelles estant longues » chafcune d'environ cinq pieds, & larges par un bout de quatre » travers de' doigts, se vont peu à peu eftréciffant jusques à ') l'autre bout, & finir en pointe, comme une pyramide trigonale... : » il faut... que, sur l'une des surfaces ou sur chafcune d'icelles, » l'on puisse estendre une chorde depuis un morceau de doigt, qui » la doit retenir, jusques à la cheville qui traverse la teste. »
+
+« Cette corde est tendue sur deux chevalets, l'un fixe, l'autre » mobile. & vibre au frottement d'un archet. »
+
+«t Quelques uns ajoutent sur mesme surface une féconde chorde. ») plus courte que l'autre, pour faire l'odavc ou la qilinte, &c. »
+
+« La main gauche du joueur se tient fermement en appliquant » la teste de l'instrument contre la poitrine. » L'autre bout repose à terre. Le pouce de la même main glisse sur la corde pour donner les notes.
+
+�� �
+
+[p. 545] Supplément. ^4^
+
+Lettre XXXIV, [a Reneri], 2 juin i63i. (Tome I, page 208.)
+
+LE VIDE ET LE PLEIN,
+
+Complétons ici, d'après le Journal d'Isaac Beeckman, récemment découvert à Middelbourg (Bibliothèque de la Province de Zélande), la citation que nous avions faite d'après les extraits publiés par son frère en 1644. Des trois passages suivants, les deux premiers se rapportent à l'année 161 3, et le troisième à 1614.
+
+tt Vacui fuga impugnatur. — Cur gravia afcendunt proptcr » fugam vacui? Estne in vacuo virtus? Aut num res vinculo quo- » dam alligantur? At cur, vnà re quovis pado motà, reliqua non » sequuntur propt-er commune vinculum ? »
+
+« Dicatur ergo sie. Defluxus ille, de quo supra, non est levis nec » imbecillis, sed vehemcns & violentus : ut, quando res mollis à » nobii. premitur, si quid in medio esl vacui, extemplo repletur, ut » cuivis experienti palam fit. »
+
+» At dices : si preffus ille tam sit vehemens, cur corpora nostra » non afficit? — Resp. : quia ille preffus vndique ïequabilis est, nec » vlla pars de loco suo movetur, quia omnes œqualiter afficiuntur. » Sic etiam natantibus & vrinantibus magna vis aquas fuperponitur, » cui alias extra aquam ferendo [lege : ferendaî) non sunt {supple : » pares ?) ; quia vero illos aqua vndique œqualiter premit, non » dolent. Quôd autem tantà violentià circumjacentia vacuum 'ocum » premunt, non aliter fit quiim cùm quis fundo vafis aquà pleni ■n incumbeat supra foramen quoddam in fundo : tum demum enim » sentit vim aquœ fuperne prementis aquœ [sic). Vide Sïevinum, » lib. 5, van iverchkonjî. » [Fol. l3, recio, col. 2, L Jip, à perso, col. I , l. j.)
+
+Beeckman, dans ce passage, rappelle un defluxus, dont il vient de parler, dit-il. Il explique, en effet, ce dejluxus dans un passage qui précède presque immédiatement, et Comme ses Idées à ce sujet he sont pas sans analogie avec certaine théorie de Descartes plus tard, nous dohnons aussi cet autre passage :
+
+« Motus gravium deorsum. — Cur gravia deorsum nloventur? » An quia superiora in perpetuo sunt motu, idemque terras accidit » quod lapidi ad médium vorticis aquarum tendenti î Aut an tenuis Œuvres. V. 69
+
+�� �
+
+[p. 546] ��» ert quidam deHexus {sic) iubtilium corporuni à superioribus par- » tibus aequaliter circumcirca, qui obvia quaeque deprimit? Et quia » hic defluxus elt fubtilium partium, pleraque pénétrât, nec tota » substantia premit propter poros majufculos, eaque levia dicuntur ; « reliqua, quœ sunt comparions naturae, gravia dicuntur, quia iste » defluxus fortiùs illis occurrit; propter compadlionem enim parùm » illarum partium licet fubtilium pervolat... » {Fol. i3, recto, col. 2,
+
+l. 11-27.)
+
+Voici, enfin, un troisième passage, qui est de 1614 : « Vacui fiiga explicaluv. — Qua;nam est ratio, corpora quolibet » moveri, vt in naturà vacuum non sit? Resp- •" accidit aeri more » aquœ rébus incumbere, easque secundum profunditatem incum- » bentis eas {sic, pro aeris) comprimere. Res autem quiefcunt quœ- » dam nec perpétue disjiciuntur, quia vndique ;equaliter ab aère » incumbente comprimuntur, qualiter contingit nobis vrinantibus » premi ab aquà. Magno autem nixu locum vacuum petunt propter » incumbentis aeris immenfam profunditatem atque inde natam » molem. Aer enim non ideo gravem {sic, pro gravisi non dicendus » est, quia in ea (eo) absque dolore incedimus : sie enim pilces in » aquà, nullam compreflionem palfi, moventur. » {Fol. 18, recto, col. I, l. 41-56.)
+
+Lettres LII et LIV, avril et mai 1634.
+
+(Tome I, pages 287 et 293.)
+
+RECREATIONS MATHEMATIQUES. Voici le passage auquel Descartes fait allusion. Il se trouve dans le petit livre du P. Leurechon (ou Levrechon), jésuite. Récréation Mathématique, publié d’abord à Pont-à-Mousson (1624)% puis à
+
+a. La première édition a pour titre : Récréation Mathematiqve, composée de plusteurs problèmes plaisants & facétieux, en faict d’Arithmeticque. Géométrie, Mechanicque, Opticque, & autres parties de ces belles sciences. (Au Pont-à-Mousson, par lean Appier Hanzelet, Imprimeur & Graueur de Son Altesse & de rVniuerfité, M.DC.XXIV. Petit in-8^ 8 ff., 141 p.) Sans nom d’auteur. Voici la dédicace :
+
+A tres-noble & tres-genereux Seigneur Lambert Verreyken, Cheualier,
+
+[p. 547] Supplément.
+
+��547
+
+��Paris (1G26), Pont-à-Mousson encore (1626), Paris (1627), Rouen (1628), Pont-à-Mousson (1629), Paris (i638, 1639), etc. :
+
+« 86. Problème. Des catioits... A ce compte, dira quelqu'vn, le » Canon pointé droid au zénith deburoit tirer plus fort, qu'en » toute autre posture. Ceux qui estiment que la baie d'vn canon tiré » de ceste façon, se liquéfie, se perd, & se consume dans l'air, à cause » de la violence du coup & aftiUité du feu, refpondroient facile- » ment qu'ouy; & maintiendroient qu'on en a said souuent l'ex- » perience, sans que iamais on ait peu sçauoir, que la baie soit » retombée en terre. Mais pour moy, qui trouue de la difficulté » à croire cette expérience, ie me persuade pluftofl, que la bale » retombe assez loing du lieu auquel on a tiré. le refponds que non, » parce qu'en tel cas, quoy que le feu ait vn peu plus d'adiuité, la » baie a beaucoup plus de resistance. » (Page 110.)
+
+En i63o, un ami de Descartes, Claude Mydorgc, avait publié un Examen du livre des Récréations Mathématiques (Paris, Antoine Robinot, in-8°) % lequel Examen eut une seconde édition en 1G34,
+
+Seigneur d'Himden, Woluerthem &c., Capitaine d'vne Compagnie de Cuiraffiers pourja Maiejié d'E/pagne au Pays Bas, £c.
+
+« Monsieur, Parmi les rares & curieuses propositions que i'ay apprifes, » eftudiani aux Mathematicques en la célèbre Vniuerfité du Pont à » MoulTon, i'ay pris vn lingulier plailir à certains problèmes non moins » ingénieux que récréatifs, desquels nostre Régent se feruoit pour nous » amorcer à l'estude des autres demonstrations plus difficiles & ferieufes. 1) l'en ay fait imprimer vn amas, tel que ie vous offre en ce cayer... « Signé : « Vortre très humble & obeiffani Nepueu & feruiteur : H. Van » Etten. » Notons ceci : « On sçait bien que la noblesse n'eftudie pas i.n » Mathematicque pour enfler sa bourse & pour le gain qu'elle en espere, » mais pour contenter son esprit, pour employer honneftement le temps. » & auoir de quoy entretenir vne compagnie de discours bienfeants & » neant-moins récréatifs... »
+
+a. Déjà la 4' édition (Paris, 1627, in-8, 238 p.) donnait des annota- tions et corrections sous les initiales : D. H. P. E. M., c'est-à-dire Denis Henrion, Professeur en Mathématique. UExamen de Mydorge les repro- duit, et en ajoute d'autres signées : D. A. L. G., où l'on ne retrouve pas les initiales de Claude Mydorge. Mais nous avons l'explication de ce fait dans un avis du libraire au lecteur : « Il y a quelques années que ces » Récréations Mathématiques ont esté données au public auec quelques » légères notes tirées des premières & particulières remarques de l'Au- » theur de cet Examen, au moyen d'vn brouillon qu'il en auoit commu-
+
+�� �
+
+[p. 548] ^48 Correspondance.
+
+puis en i638, 1639, etc. Il est vraisemblable que Descartes, à cette date d'avril et mai 1634, eut entre les mains la seconde édition du livre deMydorge, plutôt que celui de Leurechon simplement. Nous donniTons quelques extraits de cet ouvrage, soit les Récréations Mathématiques (le pluriel remplaça le singulier à partir de la 4* édition, 1627), soit V Examen de ces Récréations.
+
+« 2. Problème. Representer en vne chambre clo/e tout ce qui Je .) passe par dehors. » (Page 3.)
+
+« ...Pour les Philosophes,... c'est icy vn beau secret, pour expli- » quer l'organe de la veuë : car le creux de l'œil est comme la » chambre close; le trou de la prunelle respond au trou de la » chambre; l'humeur cryftalline, à la lentille de verre; & le fond » de l'œil, à la parois ou feuille de papier. » (Page 4) ^.
+
+Dans l'Examen, sous les initiales D. H. P. E. M., on lit cette remarque :
+
+« ...Les Philosophes s'en eussent peu seruir, pour monllrer que » nous ne voyons pas les obieds par l'emiflîon des rayons de nos « yeux à iceux obieds , ains par la réception de leurs images ou » especes es yeux... » (Page o-)
+
+« 4. Problème : Rompre vn bajîon posé sur deux verres pleins » d'eau, sans les cajfer ny verser l'eau; ou bien sur deux feflus ou » brins de paille , sans les rompre. » (Page 5.)
+
+« ...De mesme aufli les valets de cuisine rompent quelquefois des » os de mouton sur la main, ou sur la nappe, sans l'en dommager, » frappant sur le milieu auec le dos d'vn coufteau. » (Page b)'^.
+
+« 46. Problème : Le moyen de representer icy bas diuerses Iris, » £■ figures d'arc en ciel. » (Page 41.)
+
+» nique à quelqu'vn de ses amis; & comme ce n'auoit point esté son inten- » lion que telles notes fussent publiées, aussi n'ont elles pas palTé sous son » nom. Mais comme par après il fut aduerty que, contre son dessein, il » en eltoit recogneu l'autheur, n'ayant peu, comme il eull defiré, en sup- » primer l'impreifion. . ., il se refolut neantmoins, ou pluflolt il se lailTa » persuader par quelques siens amis, de reuoir ce Liure tout de nou- » ueau. . . «(Page 1-2, non paginée.) L- Examen donne le nom de l'auteur : Claude Mydorge, Efcuyer,Jieur de la Mail larde, Conseiller du Roy, & Treforier General de France en Picardie.
+
+a. Voir Dioptrique, Disc. V. (Tome VI, p. 1 14-1 15.)
+
+b. Ci-avant, p. 182, 1. 20-22.
+
+c. Voir t. III, p. 34, 1. 10-17, ^' P- 74'7^'
+
+�� �
+
+[p. 549] Supplément. ^ç
+
+« ...Ceux qui ont voyagé par la France & l'Italie, auront peu voir, » dedans les maisons & iardins de plaifance, des fontaines artifi- » cielles qui iettent si dextrement la rosée de leurs gouttes d'eau, » qu'vn homme, se tenant entre le soleil & la fontaine, y apperçoit » vne perpétuelle Iris. » (Page 42.)
+
+« ...Prenez vn verre plein d'eau, & Pexpofez au Soleil, faisant » que les rayons qui partent à trauers soyent receus sur quelque » lieu ombragé : vous aurez du plaisir à contempler vne belle forme » d'Iris. Prenez vn verre trigonal, ou quelque autre cristal taillé à » plusieurs angles, & regardez à trauers, ou faides paifer dedans » les rayons du Soleil, ou mesme d'vne chandelle, faisant que leur » apparence soit receuë sur quelque ombrage : vous aurez le mesme » contentement. » [Ibid.)
+
+« le ne diray rien des couleurs d'Iris qui paroissent aux bouteilles » de fauon, quand les petits enfans les font pendre au bout d'vn » chalumeau, ou voler en l'air : c'est chose trop commune ; aulTi » bien que l'apparence d'Iris qui se voit à l'entour des chandelles & » lampes allumées, fpecialement en hyuer. » (Ibid.) ".
+
+<t 65. Problème : Le moyen de faire vn injf ruinent qui face ouyr » de loin, & bien clair, comme les Lunettes de Galilée font voir de » loing-, & bien gros. » (Page 60.)
+
+« 70. Problème. Auquel se descouurent quelques rares propriétés des nombres. » (Page 65.)
+
+« ... Le nombre de 6 est premier entre ceux que les Arithmeticiens nomment parfaicts, c'est à dire égaux à toutes leurs parties aliquotes : car 1, 2, 3, font 6. Or c'est merueille de voir combien peu il y en a de semblables, & combien rares sont les nombres aussi bien que les hommes parfaicts; car, depuis 1 iusques à 40000000, il n'y en a que sept, à sçauoir 6, 28, 496, 8128, 130816, 1996128, 33550336, auec cette propriété admirable, qu'ils se terminent tousiours alternatiuement en 6 & 8... » (Page 66).
+
+« Mais... ie n'ay pas entrepris d'estaler icy toutes les menues proprietez des nombres, si est-ce que ie ne puis passer soubs silence ce qui arriue aux deux nombres 220 & 284 priuatiuement à plu-
+
+a. Voir ci-avant, p. 542.
+
+b. Aucune autre remarque sur ce problème, qu'une note de D.H.P.E.M., indiquant, d'après Euclide (livre 9, prop. 36) le moyen de trouver les nombres parfaits. Voir, dans la Correspondance de Descartes, t. II, p. 254-5, 429-4?o, 448, 475-7.
+
+[p. 550] 5 5°
+
+��Correspondance.
+
+��» fleurs autres. Car quoy que ces deux nombres soient bien diffe- » rents l'vn de l'autre, neantmoins les parties aliquotes de 220, qui » sont I 10, 55, 44, 22, 20, 1 1, 10, 5, 4, 2, I, estant prises ensemble, » font 284; & les parties aliquotes de 284, qui sont 142, 71, 4, 2, i, » font 220, chose rare & difficile à trouuer en autres nombres. » (Page 66-67) ^
+
+« 73. Problème. Des Lunettes de plaiftr... Il n'y a point d'appa- » rence de passer ce problème, sans manier les lunettes de Galilée, » autrement dides d'Hollande & d'Amsterdam ; les autres lunettes » simples donnent aux vieillards des yeux de ieunes gens, mais » celles-cy fournissent des yeux de Lynx pour pénétrer les cieux, » & defcouurir :
+
+« l. Des corps sombres & opaques, qui se trouuent autour du » Soleil, & noirciffent en apparence ce bel astre. »
+
+(' II. Des nouuelles Planettes, qui accompagnent lupiter & » Saturne. »
+
+« III. Les croiffants & quartiers en Venus aussi bien qu'en la » Lune, à mesure qu'elle est efloignée du Soleil. »
+
+« IIII. Vn nombre innombrable d'eftoilles, qui sont cachées à la » foiblesse naturelle de nos yeux, & se defcouurent par l'artifice » de cet instrument, tant au chemin de S. lacques qui en eil tout » parfemé, comme aux autres conftellations du firmament... » » (Page 70-71.) Les éditions de V Examen ajoutent ici cette paren- » thèse, sur le chemin de S' Jacques : (Ce/? ce que les AJironomes & Philo/ophes appellent la voye laâée, qui ejî cette bande blancheajîre qui paroiji au Ciel & l'enuironne.) D. A. L. G.
+
+L'Examen de ce 73. Problème se termine ainsi, dès la première édition, celle de i63o : « Ce noble fuiet de refradions, dont la » nature n'a point eflé cogneuë, ny aux anciens, ny aux modernes » Philosophes & Mathématiciens iusques à present, doibt mainte- » nant l'honneur de sa decouuerte à vn braue Gentilhomme de » nos amis, autant admirable en sçauoir & subtilité d'esprit, qu'ac- » comply en toutes sortes de vertus : lequel, soubs l'esperance qu'il » nous donne d'en faire luy mesme la relation parmy d'autres trai- » dçz qu'il promet au public (en suitte de quoy on se pourroit aussi
+
+a. Voir Correspondance, t. II, p. 93-94, 99-100 et 477.
+
+b. Qui est ce « brave Gentilhomme?» Peut-être Mydorge, ainsi désigné par son ami D.A.L.G. (Voir ci-avant, p. 547-8, note a). Ou bien cet ami ne serait que rapporter une opinion de Mydorge. qui désignerait ainsi Des- cartes lui-même? Voir, dans la Correspondance, t. I, p. 239, 336-7, ^oi.
+
+�� �
+
+[p. 551] » promettre, de nous & de nos particulières inuentions, les moyens d’en réduire facilement & feurement la théorie en practique), nous empesche de rien dire icy, ny ailleurs, touchant ces Lunettes que l’on dit vulgairement de Galilée, bien qu’il n’y ait pas plus cogneu que les autres, de certaine icience, mais peut-estre mieux rencontré par hazard. D. A. L. G. » (Page iSg, de la première édition, et page 157-159 de la « dernière », en 1639.)
+
+« 82. Problème. Des miroirs ardents. » (Page 88.)
+
+« ...laçoit que les miroirs fpheriques bruflent tres-eftîcacement entre la quatriefme & cinquiefme partie du diamètre : toutesfois les paraboliques & ouales ont bien plus d’effed... » (Page 89.)
+
+Et auparavant : « Vne boule de cryftal poli, ou vn verre plus efpais au milieu que par les bords, que dis-ie ? vne bouteille pleine d’eau expofee au soleil ardent, fpecialement en esté & entre 9 heures du matin & trois heures du soir, peut allumer du feu. » Les enfans mesme fçauent cela, quand auec des semblables verres ils bruflent les mouches contre la parois, & les manteaus de leurs compagnons. » (Page 88-89.)
+
+Examen de ce problème, sous la signature D. A. L. G. « ...Ce qu’il (l’autheur de ce liure) dit d’vne fiolle pleine d’eau expofee au Soleil en Esté, se peut auflTi expérimenter en Hyuer pendant le » plus grand froid, & quelquesfois auec vn effed plus notable qu’aux plus grandes chaleurs de l’Esté ; mesmes on peut adioufter qu’en tel temps d’Hyuer, auec vne boule de glace bien vniforme & claire, ou plustost auec vn morceau de telle glace formé « en lentille félon vne deuë figure & proportion, il s’en pourroit produire vn effed assez semblable. » (Page 196-7, édit, 1639.)
+
+Lettre LVII, a [Beeckman], 22 août 1634.
+
+(Tome I, page 307.)
+
+VITESSE DE LA LUMIERE.
+ Le nom du destinataire, « Isaac Beeckman », n’était qu’une conjecture, que nous croyions d’ailleurs suffisamment autorisée. Mais la découverte du Journal de Beeckman, survenue depuis lors, rend
+
+[p. 552] ')')2 Correspondance.
+
+cette conjecture singulièrement douteuse. Aucune mention, en effet, ne se trouve, dans ce Journal, d'une visite de Beeckman à Descartes au mois d'août 1634, ni même en toute cette année: cependant Beeckman n'aurait pas manqué, ce semble, d'en faire mention. Nous donnerons ici, à titre de document, une autre expérience, que rapporte Beeckman, à la date du 19 mars 1629, pour mesurer la vitesse de la lumière.
+
+« Lux quantum temporis euudo occupet, explorare. — Scripsi ante » aliquando, putare homines lumen nihil temporis requirere ad » quodvis fpacium peragrandum, quia nulla mensura est quà tanta » luminis celeritas potest metiri, eo modo quo lumen celeritatcm » fonituum metitur. At hodie, qui est 19 martis 162g, te Dort, mihi !> incidit modus aliquis quo id fieri possit, Diftet homo ab alio per tôt » miliaria per quod {legc quot) bombardi explofi lumen potcll » videri ; & quo spatium hoc sit majus, ftet uterquc in monte » excelfo, ne quid in medio obstet quo minijs lux vel flamma ignis » accenfi videri portit. Verisimile autem est, magnum spatium requiri » ad differentiam aliquam notandam tempore, ob incredibilem » luminis in movendo ccleritatem. Uterque homo habeat cxadifli- » mum horologium portatile, & uterque, tam is qui bombardo » explofo aftat quàm qui tam longe ab eo remotus est, uterque, » inquam, eo momento quo lumen videt, in horologij celerrimà rotà » notet punclum aliquod, vel atramento vel alio modo, quo exadc » potest scire quot denticuli tadi fuerint dum sibi invicem in via » occurrerunt. Uterque enim cum horologio suo ad fociuni proficif- » catur; atque ubi sibi occurrerint, unusquisque numeret quot den- » ticuli in suo horologio tranfierint; idque fiïpiùs fiât, perniutatis » horologijs. Verisimile mihi videtur, non tantam esse lucis cele- » ritatem, quin illi deprehenfuri sint, plures dentés tranfijlfc in » horologio ejus qui bombardo explofo adftiterat. « (Journal di-; » Beeckman, yb/. 340, verso, l. 22-42.)
+
+Ajoutons enfin ce renseignement, que donne Beeckman dans son Journal, année 161 5 ou 1616, et qui est précieux pour l'histoire des sciences :
+
+« Lucem tempore moveri, probatur. — Sententia philosophorum )' ferme omnium est, visum esse momentaneum, id est, uno momento » lucem, vel species quas vocant, à re vifà ad oculum noftruni » pervenire; quam sententiam, licet tôt & tantos authores habeat, T) veritati non esse confentaneam, definivimus antehac... » [Fol. 44, recto, col. 2, l. 4S. — Fol. 44, verso, col. i, l, 6.)
+
+�� �
+
+[p. 553] Supplément. 5 y)
+
+Ajoutons enfin ce passage du Journal MS. d'Isaac Beeckman, à la date de mai i633 environ, où Descartes est encore nommé :
+
+« Denfiora Jîeri possunt calidiora. Cur. — De fteen wort heeter » dan het water, en het yfer heeter dan de fteen, en in universum » hoe meer lichaems op een plaetfe, hoe meer vier of hitte daer in » kan. En dit's een teecken dat het vier geweldigh kleyn, dun en » fubtyl is : so dat de pori int water fynde so groot fyn, dat de igni- » culi daarvan hangende malcanderen noch niet en raken, so oock » in de fteen ; en daerom vervliegen sy te haefter. Also moet men » of mach men oock de.icken, dat de pori of gaetkens van het glas » so groot fyn, dat het licht met veel deelkens feffens daerin kan, » en alfoo der niet in werckt dat dat s/c; teghen de latera pororum » ftootende refledeert, so volght het datter veel verloren gaen, die » door het glas niet en geraken conform haer convexiteyt oftc » concaviteyt. Waer door D. des Cartes fuftinue foude konnen » geexcufeert worden : te weten, hoe dichter glas, hoe meer licht » daer door gaet. Doch daer foude wel fulcke dichte lichamer » konnen bedocht worden, in het welcke de latera door de wedc- » romfteuten meer licht fouden doen verliefen, dan de grootte van » pori, en van daer of mach men feggen : hoe dichter, hoe donc- » kerder. » [Fol. 4i3, verso.)
+
+La traduction suivante nous a été envoyée obligeamment par J. Bosscha, Secrétaire de la Société des Sciences de Harlem :
+
+« La pierre devient plus chaude que l'eau, et le fer plus chaud » que la pierre ; et, en général, plus il y a de corps en un lieu, d'au- » tant plus de feu ou de chaleur peut y entrer. Et c'est un indice, » que le feu est extrêmement petit, mince et subtil, de sorte que les » pores se trouvant dans l'eau sont tellement grands, que les igni- » cules qui adhèrent aux parois ne se touchent pas encore, comme » aussi dans la pierre; et pour cette raison ils se dispersent d'au- » tant plus vite. Donc on doit ou on peut aussi penser que les pores » ou petits trous du verre sont si grands, que* la lumière y peut » entrer avec bien des particules en même temps, et n'y agit pas de » telle manière que, en se heurtant contre les parois des pores, » elle se réfléchisse : il en résulte qu'il s'en perd beaucoup, qui » n'arrivent pas à traverser le verre conformément à leur con- » vexité ou concavité. D'où le sustenu de M. des Cartes pourrait » être excusé : savoir, plus le verre est dense, d'autant plus de » lumière y passe. Mais on pourrait imaginer des corps telle* » ment denses, que les parois par les répercussions feraient perdre » plus de lumière que la grandeur des pores, et d'après c la, Œuvres. V. jo
+
+�� �
+
+[p. 554] 5 54 Correspondance.
+
+» on peut dire : plus un corps est dense, d'autant plus il est » opaque. »
+
+��Lettre LXXIII, a Mersenne, [27 avril 1637J. ( Tome I, page 365.]
+
+PUBLICATION DE 1637.
+
+Sur cette histoire du privilège & de la publication de l'ouvrage de Descartes, voici encore quelques renseignements tirés de la corres- pondance de Saumaise. (Paris, Bibl. Nat., MS. fr., Coll. Dupuy, 7.3.)
+
+Ces lettres sont adressées à «'M. du Puy, prieur de St-Sauveur, à Paris. »
+
+« A Leyden, ce 16 Feurier 1637. — Il n'y a pas encore quinze » iours, que ie suis arriué en cette ville de Leyde, & y suis arnué » malade, & l'ai tousiours esté depuis que i'y suis... » {Fol. 12a.)
+
+« i"Mars 1637. — ...Nous auons en cette ville Mons' de Haute- » riue auec sa femme, qui y fera feiour tant qu'elle soit accouchée & » que lui aille à l'armée qui s'apprefte pour battre aux champs à ce » printemps. Et c'est à mesme temps que sa femme doit poser son » pacquet. Apres qu'ils seront dehors, nous n'aurons plus de com- )) pagnie Françoise... » {Fol. 124.)
+
+Ibid. : « P. S. — Il n'y a rien ici de nouueau pour les liures, qu'un » Idea Medicinœ BeueruiciJ, imprimé chez les Elzeuirs, & le Hure » de Mons"^ des Cartes, qui le fera bien toit. le vous en enuoierai par » la première commodité. » {Fol. 1 24, perso.)
+
+« De Leyde, ce 4 Auril 1637. — ...Pour les nouuelles de nostre » Académie, le Hure du sieur des Cartes est acheué d'imprimer; » mais il ne se débite point encore, à cause du priuilege qu'on attend » de France. le ne vous dirai rien du personnage, parce que ie » m'imagine que vous en aués oui parler. Il fuit tout vne aultre » philosophie que celle d'Aristote, principalement pour la physique. » En la Géométrie mesme, il a tout vne aultre méthode de l'enfei- » gner. Il a tousiours esté en cette ville pendant l'impression de son
+
+�� �
+
+[p. 555] Supplément.
+
+��sss
+
+��» Hure, mais il se cache & ne se monstre que fort rarement. Il vit » tousiours en ce pais dans quelque petite ville à l'efcart. Et » quelques vns tiennent qu'il en a pfis le nom d'Efcartes. Car il » s'est aultrefois nommé aultrement. Il se dit estre gentilhomme de » Poitou. Il est catholique romain & des plus zélés. le l'ai veu, et » paroist fort honneste homme & de bonne compagnie. Les fçauans » d'ici le tiennent pour le nompareil. le vous enuoierai son escrit, » si tost qu'il sera en vente, auec vn aultre intitulé Idea medicorum, » imprimé par les Elzeuirs & composé par un médecin de Dordrech » nommé Beueruic... » [Fol. i25, recio et perso'.)
+
+« A Leyden, ce 19 Auril lôSy. — ...Si le liure du t' d'Efcartes se » vendoit, ie vous en enuoierois vn. Il attend le priuilege, qui n'est » pas encore venu... » {Fol. 128.)
+
+« A Leyden, ce 1 luin 1637. — ...Le liure du sieur d'Efcartes » attend tousiours son priuilege de France. le vous en ferai tenir » deux exemplaires, des qu'il sera en vente. Mes Vfures s'impri- » meront bientoft... » [Fol. 12g, verso.)
+
+« A Leyden, ce 14 Décembre 1637. — ...Le Maire m'auoit promis » d'escrire qu'il bailler {sic) vn exemplaire du liure de Mons"^ Des » Cartes, & l'auoit oublié. Il me dit qu'il lui efcriroit par le messager » qui part aujourdhui. Il me tarde que ie fâche le iugement qu'en M seront nos curieux... » {Fol. 14g.)
+
+« A Leyden, ce 20 Décembre 1637. — ...l'auois pris vn exem- » plaire du liure du S des Cartes, & payé. L'audeur m'en donna » vn après. le rendis celui que i'auois pris, & priai l'imprimeur » d'escrire à Soly de vous en bailler vn exemplaire pour celui que ie » lui auois rendu. Il m'auoit promis de le faire, & s'en estoit oublié. » Enfin il y a huit iours qu'il me dit qu'il lui efcriroit. S'il ne le » fait, ie vous prie de le prendre & tousiours par advance, car il elt » sur mon compte. Le fils d'EIzeuir a aufli charge de vous donner » deux exemplaires du liure d'vn mien ami, intitulé Idea medico- » rum... » {Fol. i52.)
+
+a. Voir t. I, p. 365, et t. II, p. 642.
+
+�� �
+
+[p. 556] ^ ^6 Correspondance.
+
+Lettre CV'III, MorÎn a Descabtks, 22 fév. iô38. ( Tome I, page 54o, note a.)
+
+LIVRES DE BOULLIAUD.
+
+Sur le livre d'Ismaël BouUiaud, De tiaturâ lucis, la correspon- dance de Saumaise fournit quelques renseignements.
+
+Ce sont d'abord deux extraits de lettres de Saumaise >< à M. du Puy, prieur de S'-Sauveur, à Paris. » (Paris, Bibl. Nat., MS.fr., Coll. Dupuy, 713.)
+
+« A Leyden, ce 1 2 Auril i638. — ...le refcrirai aud. S"" Bouilliaud, » quand i'aurai appris de plus certaines nouuelles toufchant la » comète qui a paru en Hongrie, & que i'aurai sceu de Blaeu si » M. Hortenfius lui a baillé sa préface pour le Philolaus. l'ai bien » oui parler ici de cette grande comète qu'on a veu en Hongrie. & » Auftriche, & ne l'ai point oui nommer aultrement que comète, & » n'estoit pas différent, à ce que i'ai appris, des aultres qui se voient » ordinairement, ou à mieux dire, qui se sont veus. le m'en infor- » merai plus particulièrement. Nos philosophes d'ici, & notamment » le s"^ d'Efcartes, à qui i'ai fait voir son liure de natura lucis, » trouuent estrange, qu'il ait dit que lux ejl médium proportionale » inter fubjiantiam & accidens, & ne peuuent bonnement digérer » cela... » {Fol. 168.)
+
+« A Leyden, ce 24 Januier i6?>g{i63S plutôt). — ...le n'ai point » eu de nouuelles du liure de M. Bouilliau, depuis que ie lui ai » escrit. Gela est certain qu'il est imprimé, mais ie ne fçai à quoi il » tient qu'ils {les El\eviers) ne le mettent en vante. Ils m'ont fait » dire, quand ie l'ai demandé, qu'ils n'auoient pas encore fait leur » partages depuis la mort du père, l'en efcrirai derechef, & lui » manderai ce que .l'en aurai appris... » {Fol. 184, verso.)
+
+Voici d'autres extraits, copiés par Paul Tannery en octobre 1899, à Vienne, dans une collection d'autographes de la K. K. Hofbiblio- thek. Il s'agit de lettres de Saumaise à BouUiaud. {MS. 70S0.)
+
+« Du 7 Mars i638 {en accusant réception du livre « de tiaturâ » lucis ».) — ...le suis bien aise du iugement fauorable que vous
+
+�� �
+
+[p. 557] Supplément. 5^7
+
+» faites du Hure de Mons"^ Des Cartes. le le lui ferai sçauoir & à ses » feèlateurs, qui sont en grand nombre en ses [sic) quartiers^ iusques » là que son liure se lit publiquement en l'Académie d'Vtrech par » vn professeur en philosophie nommé Reyneri. Il trauaille tou- » fiours, à ce que i'apprens, après son Monde, S'il estoit moins bon » catholique, il nous l'auroit défia donné ; mais il craint de publier » vne opinion qui n'est pas approuuée à Rome... » {Fol. 143.)
+
+« Du 23 Mai i638. — ...Pour ce qui est de vostre liure de luce, il » est vrai que nos philosophes ont trouué aufli à dire en ce que vous » aués dit qu'elle est moienne entre le corporel & l'incorporel ; car » ils treuuent, félon les Stoïques, que Tài|v svtwv xi [j.ï'i irtl ja»;xxTa, ta » S' àjti[xa-:a. ne Jit médium... » {Fol. 14S.)
+
+<i Du 3o Octobre 1639 {sur le Philolaus de Boiilliaud). — ...le l'ai » fait enuoier à Mons"" des Cartes, qui m'en doit dire son iugement, » que ie vous ferai sçauoir. lUe vnus pro centtim... » {Fol. 166.)
+
+��CLXXVII bis.
+
+Saumaise a Descartes.
+
+Leyde, 22 novembre 1639. Autographe, Paris, Bibl. Nat., MS.fr., 85g3, p. 36.
+
+{Cette lettre serait à insérer, après la CLXXVII', tome II, page 624.)
+
+Monjîeur,
+
+Puisque vous aués eu le premier liure des Vfures^, il
+
+ejl raisonnable que vous ayés le fécond^. Vous ne refu-
+
+ferés donc pas à cettui ci vne place sur vos tablettes auprès
+
+5 de son frère. Si vous aués approuué la hardiejfe que i'ai
+
+eue au premier, de défendre vne opinion si particulière
+
+a. Voir ci-avant, p.. 555, lettre à Du Puy, du i" juin 1637.
+
+b. Après /econ<i .■ mot écrit, puis raturé. MS.
+
+�� �
+
+[p. 558] ^^8 Correspondance.
+
+& qui choque la commune, que dires vous de ce fécond, oii en continuant mes premiers erremens, i'ai de plus osé attaquer le phénix des lettrés de tout ce pays & du monde entier, Jî s es amis en sont crus? Cette liberté ou plujlofî témérité ne m'a pas tant fait d'ennemis que les Vfures, mais de plus grands. Mons de Zuylchen entre aultres, que vous cognoiffés, a pris parti, & s'interesse tout à fait dans la cause d'Heinfius. Mais la vérité m'efi plus que tout & que toutes. Vous fere^ de mon advis, qui la maintenés en choses de grande importance, & moi en cette petite lit- térature qui n'efî pas digne de defchauffer la voflre. Vous receurés donc, s'il vous plait, ccpetit present comme vn gage du feruice que ie vous ai voué, & me croirés pour iamais,
+
+Mons,
+
+Voflre très humble & très affeéîionné feruiteur,
+
+Saumaise.
+
+A Leyden, ce 22 Nou. i63g.
+
+Adrefle :
+
+A Monfîeur Monfîeur Des Cartes^.
+
+Cette lettre a besoin d'éclaircissements, que voici : De Vfuris liber, Clavdio Salmasio auâore. (Lugd. Batavor., ex officina Elfeviriorum, i638, in-8. Marque: le Solitaire.) Ce volume contient 28 ff. limin. y compris le titre, 686 pp., et 36 ff. pour index et errata. C'est le premier volume. Il en parut un second, l'année suivante, celui dont Saumaise annonce ici l'envoi à Descartes : De
+
+a. MS. : d'E/cartes, écrit d'abord, puis corrigé. Voir ci avant, p. 555, lettres des 4 et 19 avril, et i"^ juin i63j.
+
+��10
+
+��i5
+
+��20
+
+�� �
+
+[p. 559] Supplément. ^^9
+
+Modo Vfurarum liber, Cl wmo Salmasio duâore. (Ibid., 1639, in-8.) Il contient aussi 28 ff. Hmin., 891 pp., plus 92 pp. pour index.
+
+Les lettres de Saumaise « à M. du Puj', prieur de St-Sauveur, à Paris » fournissent quelques renseignements sur cette double publi- cation. (Paris, Bibl. Nat., MS.fr., Coll. Dupuy, 7i3.)
+
+« 14 Fev. i638. — ...Mon liure est enfin acheué des la semaine » passée. l'en ai desia fait faire vn ballot pour enuoier en France... » {Fol. 161.)
+
+« 18 Avril i638. — ...Le conuoi d'ici partira en mesme temps, qui » vous portera de mes Vfures, qui sont ici desia fort menacées par » nos Théologiens. le ne croi pas que i'en aye meilleure compo- » fition de ceux de l'aultre parti. Mais auflî, en recompense, les >) Lombards m'adorent... » [Fol. i6g.)
+
+« Leyde, 10 Mai i638. — ...Mon but est de monftrer, ce que ie » preuue puiffamment dans mon fécond traidé de modo vfurarum, » que dans la primitiue Eglîfe les vfuriers n'ont iamais esté excom- » munies pour le fait des vfures qu'ils exerçoient publiquement, & » qu'il n'y a iamais eu de peine ecctefiaftique ni de pénitence » publique ordonnée contre eux, lors mesme qu'ils excedoient » l'vfure licite & permife par les Joix. L'Epiftre canonique de Gre- » goire de Nyffe le monstre clairement. l'en ai vne infinité d'aultres » preuues & toutes certaines. Pour ce qui est du droit ciuil mesme, « qui a eu lieu & a esté prattiqué sous les Empereurs Chreftiens, » ces mesmes Trapezites ou fœnerateurs publics n'ont iamais esté I) tenus pour infâmes, tant qu'ils se sont contenus dans les limites » de l'vfure que le droit leur permettoit. Et mesme la peine qu'ils » encourroient, s'ils l'oultrepaffoient, n'a iamais esté la note d'in- » famie, comme ie le ferai voir. Seulement estoient-ils condamnés » au quadruple du commencement, & puis à la restitution, & non » plus, de ce qu'ils auoient exigé de plus que la loi ne leur permettoit. » Cela choque, comme vous voies, l'opinion de touts les canoniftes, » & condamne celle qu'ils ont ici, que les Lombards sont infâmes » & excommuniés. Par effed, leur [sic) femmes mesmes ne sont » point admises à la Communion, si elles ne iurent qu'elles ne sont » point complices ni confentantes de l'vfure que leur maris exercent. » Cependant cela redonde contre le magistrat, qui les tolère. Bien » d'advantage ces tables de preft, comme ils les appellent en ce pais, » appartiennent aux villes, & c'est vn priuilege qu'elles ont, & le » magistrat de chaque ville peut les exercer lui mesme par personnes » qui le font en son nom, comme font ceux d'Amsterdam, ou bien » les faire crier & bailler à exercer à ceux qui en bailleront le plus
+
+�� �
+
+[p. 560] )6o
+
+��Correspondance.
+
+��" & prendront le moins d'vfure. l'ai donc le magistrat pour moi, qui " est infâme & excommuniable, si les gens qu'ils commettent en » leur place pour tenir cette banque ou table de preft le font... Ce ■) qui fafche nos minières est que ic monlhe, par l'antiquité, que » l'vfure doit seulement estre deffenduë aux minirtres de l'autel, & » non point au peuple. Ils n'osent dire que c'est ce qui les fait crier, )' mais en est'ed s'en {sic) est la l'encloiiure. Car ils sont touts les » plus grands vfuriers de la terre, & entre aultres ce bon ami dont » ie vous ai parlé ci dessus. C'est ce qui l'a mis en auerfion. Car tout » le monde le sçait... » {Fol. i^ i verso, et fol. ijz recto.)
+
+" 7 Juin i638. — ...L'on a commencé d'imprimer mon de \uodo » vfurarum. » {Fol. iy8.)
+
+« A Leyde, ce \-i luillet 1638. — Il {Heinsius) a lafché si fort à » me raualler, depuis que ie suis ici, & le fait encore touts les iours, " que si ie ne me releue en lui monftrant les dents, il me fera passer » en ce pais pour le plus ignorant homme du monde. Croies que >' c'est vne extrême contrainte & neceftité, qui m'a porté à lui " déclarer la guerre. Ce que ie ferai si modeftement, mais si puiftam- » ment, que personne ne m'en blafmera ; & lui n'aura rien à dire à I) rencontre pour sa defence. l'ai recognu, par leur humeur, que » ces gens ci veulent estre gourmandes. Ce qui m'a défia bien reufli " en quelques vns, & i'espere, par ce biais la, de pouuoir ranger » mon fanfaron à la raison. On imprime vn chapitre de modo vj'u- ') raritm, où il est eftendu tout de son beau long. & y fera encore " en dix ou douze aultres endroits... » {Fol. i8g.)
+
+« Leyde, 3 Odobre i63<S. — ...Ce ne fera que par accident & en " la rencontre que ie culbuterai Hcinfius. Ce qui fera comme vne " petite goutte d'cflence de vitriol dans vn grand verre d'eau pour ■" lui donner de la pointte. Pour ce qui est de M. Rigault, il a tort » d'estre si poltron ; il n'auroit pas fait le traidé des Vfures, ni » entrepris la defence des Lombards à la barbe de cens ministres & » ie ne Içai combien de Théologiens. Ceux qui me veulent du bien, " encore qu'ils soient de mon opinion, apprehendoient pour moi » qu'vne vingtaine de maftins ne se miflent après ma queue. lufques " ici ils n'ont fait que gronder, ie ne fçai pas s'ils mordront à la » fin. Ils attendent le fécond. Mais ils n'y trouueront encore rien " qui les irritent {sic). C'est au troisiesme que fera le venin... » {Fol. 2i6.)
+
+« 6 Novembre i638. {On enterre Cunœus, prof, de droit.) — ...Ce » pauure homme a fait tousiours sous main tout ce qu'il a pu contre " moi, & efficacement, car il estoit puissant; & vouloit neantmoins
+
+�� �
+
+[p. 561] Supplément. 561
+
+» que ie creuffe qu'il m'aimoit & faisoit estat de moi. Vn peu après )' que mon Hure des Vfures fust impriiliti, il me vint quereller céans, » sur ce que i'auois entrepris de ibullcnir vne opinion qui choquoit )i toute la théologie de ce pays, & les décrets des Eglises Belgiques, » & la prattique d'icelles. Nous en vînmes aux gros mots... »
+
+(Fol. 223.)
+
+��Lettre CXXX. nu i3 juillet i638. ( Tome II, page 248-251 . )
+
+CENTRES DE GRAVITÉ. PARTIES ALIQ.UOTES DES NOMBRES.
+
+Un passage de cette lettre CXXX, du i3 juillet iG38, a ete juge' par Mersenne d'une telle importance, que, des l'année suivant», il l'inséra dans la Préface d'un de ses ouvrages : Les Novvelles Pensées de Galilei, Mathématicien et Ingénieur du Duc de Flo- rence. Où par des Inuentions merueilleufes, & des Demonjlrations inconnues iusques à present, il ejl trailté de la proportion des Mouue- mens, tant Naturels que Violens, & de tout ce qu'il y a de plusfubtil dans les Mechaniques £• dans la Phifique. Traduit d'Italien en François. (A Paris, chez Pierre Rocolet, M.DC.XXXLX.) (In-8, 256 p. Privilège, du 3 sept. i638. « Acheué d'imprimer, le 1 1. iour de May iGSg. »
+
+« Préface av Lecteur. Oîi l'on void de belles remarques des >• centres de grauité, & des parties aliquotes des nombres. »
+
+<< Ce Liure ne peut qu'il ne foit agréable à ceu.x. qui aj-ment les » fciences & les obferuations, puifqu'il en eft tout remply; & bien » que les demondrations n'ayent peu eftre mifes partout, à raifon » de la grande multitude des figures qu'il euft fallu : il y en a neant- » moins affez pour donner fujet aux plus fçauans d'admirer l'excellent » eiprit du fieur Galilée, lequel nous a donné de très-beaux fecrets » dans les Mechaniques, & dans les Mouuemens naturels & forcez » ou violents, pour en contempler les proprietez & les etfeds. Et fi >■ ces cinq Liures ne contiennent pas tous ses discours de mot à mot, » ils en donnent pour le moins toute la fubflance, si l'on en excepte Œuvres. V. -t
+
+�� �
+
+[p. 562] 562 Correspondance.
+
+» l'addition qu'il fait des centres de grauité; mais i'en mettray icy » plusieurs remarques particulières pour recompenfer le traidé » qu'il en faift, lesquelles ont esté faites par va excellent Géomètre. » Et puis i'acheueray cette Préface par la conternplation des nombres » dont les parties aliquotes lont multiples, afin de fuppleer ce qui » manque à la XIII OBferuation mise à la fin de YHarmonie vniuer- » /elle. »
+
+« Or plusieurs ont trouué le centre de pelanteur de quelques corps, » par exemple, celuy ùu conoïde ; lequel ayant vn cercle pour sa base, » est defcrit par vne parabole qui tome autour de son aiffieu, lequel » est tellement diuifé par ledit centre, en trois parties efgales, que la » distance depuis ce centre iusques au sommet de ce conoïde, est » double de celle qui est depuis ce mesme centre iusques à la base. »
+
+Cette solution est indiquée par Descartes, lettre du 29 juin i638, t. II, p. 180, 1. 23, à p. 181, 1. 5. Et c'est le jeune Gillot, dit-il, son ancien domestique devenu son élève, qui l'a trouvée. La question avait été posée par Feimat [ibid.^ p. 119, 1. 3o, à p. 120, 1. 6, et p. 139, 1. 20-27), et d-^jà résolue aussi par Stevin [ibid., p. 247, 1. 14-17). Mersenne continue :
+
+« Galilée donne vn petit Traidé des centres | de grauité à la fin » de son Liure; mais il y a, ce me semble, peu de choses à dire sur » ce sujet,apres cequ'Archimede, Commandin, LucValere, Steuin, » & quelques autres en ont demonftré. C'est pourquoy ie mets »' seulement icy ce qu'en a remarqué vn excellent Géomètre. »
+
+« Soit donc ABC vne ligne courbe... » [Préface, p. i-3, non paginée.)
+
+Là-dessus Mersenne reproduit mot pour mot, d'ailleurs sans italiques ni guillemets, tout un passage d'une lettre que lui avait écrite Descartes, le i3 juillet i638. (Voir t. II de cette édition, p. 248, 1. 8 à 1. 29.) Mersenne complète seulement la figure, en prenant des segments BF, FG, sur le diamètre, et en traçant « les > lignes appliquées par ordre à ces segments », ou les ordonnées IF et H G. Arrivé aux derniers mots : « ...pour trouuer (5îc) leurs » centres de grauité », avant de continuer : « Outre cela... », il intercale dans le texte de Descartes les deux phrases suivantes :
+
+(( Certes ceux qui se plaisent à raporter à l'harmonie tout ce » qui se rencontre dans l'art & dans la nature, ont icy de fort belles » remarques, puisque le centre de la parabole quarree diuife l'axe » en deux parties, qui font comme trois à deux. Les parties de celuy » de la cubique font comme quatre à trois ; de la quarree quarree, » comme de cinq à quatre, & celles de la furfolide, comme six à
+
+�� �
+
+[p. 563] Supplément. ^6j
+
+» cinq, qui donnent les raisons de toutes les simples confonnances. » (Page 4.)
+
+Mersenne reprend alors textuellement la suite de la lettre de Descartes: « Outre cela,... & ainsy à l'infiny. » (Tome II, p. 248, 1. 29, à p. 249, 1. 24.)
+
+Nous retrouverons exactement le même passage, traduit en latin cette fois, au tome III des Cogitata Phyjico-Mathematica, que Mersenne publiera en 1647. Descartes n'y sera pas encore désigné par son nom, mais seulement comme ici, sous le titre d'excellent géomètre, « illuftris Geometra ».
+
+La seconde partie de la Préface de i63qse rapporte, nous l'avons vu, aux parties aliquotes des nombres. Nous la donnerons aussi, en signalant ce qui se rapporte à certains passages des lettres de Des- cartes. Mersenne continue donc :
+
+« le viens maintenant aux parties aliquotes, lesquelles sont plus » de peine à trouuer, que nulles autres difficultez de Géométrie : » de la vient que plusieurs n'en ont peu venir à bout. Or le premier » nombre* dont on a pris sujet d'y trauailler, est 120, dont les
+
+a. Comme l'indique Paul Tannery (t. II, p. 169, V), Mersenne avait posé cette question dès 1634, dans l'ouvrage qui a pour titre : Les Préludes de l'Harmonie Vniuerjelle ou Que/lions curieuses. Vtiles aux Prédica- teurs, aux Théologiens, aux AJiroiogues, aux Médecins & aux Philo- fophes. Compo/ées par le L. P. M. M. (A Paris, chez Henry Guenon, M. DC. XXXIV. In-8, 224 p.; approbation signée du F. François de la Noue et du F. Martin Hérissé, tous deux Minimes, en date du 20 juin 1634; privilège du mois d'août 1634.) Ces Prelvdes sont la troi- sième partie d'un volume intitulé Questions Physico-Mathematiques &c (qui portent d'ailleurs la date de M.DC.XXXV).
+
+En tête des Préludes est une Epijîre : « A Monsieur de Bourges, » Conseiller du Roy, & Threforier Payeur de Meflieurs les Threforiers » de France à Orléans », et signée « F. M. Mersene M. » On y lit ceci :
+
+« . . . Vous y trouuerez [dans ce Traité) plusieurs choses qui appartiennent » aux myfteres des nombres, dont vous faites vn estat particulier; car la » neunéme Question vous fournira d'idées pour examiner les plus fçauans » Analyftes, qui se vantent de pouuoir resoudre toutes sortes de problefmes » numériques, & vous donnera fuiet de leur demander vn nombre, dont » les parties aliquotes estant alTemblees fassent le triple, ou le quadruple, » ou vn autre nombre qui soit en raison donnée auecle nombre dont elles » sont parties aliquotes; & de sçauoir s'il y a vn autre nombre que 120, » dont les parties fufdites fassent le double, & par quelle règle, ou par
+
+�� � [p. 564] c64 Correspondance.
+
+» parties aliquotes sont le double, à sçauoir 240. lamais l'on n'en
+
+» auoit trouué d'autres que ie sçache, & mesme la pluspart des
+
+» Analyftes ne fçauoient pas s'il y en auoit de semblables, iusques
+
+» à ce que d'excellens Géomètres, Analyftes. & Arithméticiens ont
+
+» adioufté, depuis peu de temps,
+
+(372, 523776, & 1476304S96,
+
+» quelle analyse l'on peut trouuer tant de nombres semblables que l'on » voudra... » (Page 2, npn paginée.)
+
+Quant au passage de la.QueJlion neufiéme, auquel renvoie Mersenne, le voici :
+
+« ...L'vnité est propre pour nous faire conceuoir la Diuinité ; le » nombre 120, dont les parties aliquotes sont le double, c'est à dire 240, » & le mesme 240, dont les parties aliquotes sont le triple, vn moins, & » tous les autres nombres abondans peuuent signifier les natures les plus » fécondes; & les nombres 220 «& 284 peuuent signifier la parfaite amitié » de 2 personnes, d'autant que les parties aliquotes de 220 sont 284, & » celles de 284 reftitueni 220, comme 11 ces deux nombres n'estoient » qu'vne mesme chose. » (Page 21 1-2 12.)
+
+Dans ses deux ouvrages suivants, Harmonie Vniuerfelle (16.^6), et Seconde partie de l'Harmonie Vniuerfelle (iôSy), Mersenne reproduit une réponse qu'il a reçue de Fermât à ce sujet. (Œuvres de Fermât, édit. Tannery et Henry, t. II, p. 20-22.} Dans la « Première Préface générale » au Leileur » de cette Harmonie Vniuerfelle, on lit :
+
+« . ..Si ie voulois parler des hommes de grande naiflance, ou qualité, » qui se plaisent tellement en cette partie des Mathématiques, qu'on ne » sçauroit, peut etîre, leur rien enseigner, ie repeterois le nom de celuy à » qui le iiure de l'Orgue est dédié [Etienne Pascal), & ajouterois Monsieur » r-'ermat Conseiller au Parlement de Thoulouze, auquel ie dois la » remarque qu'il a faite des deux nombres 17296 & 18416, dont les » parties aliquotes se refont mutuellement, comme sont celles des deux » nombres 220 & 284, & du nombre 672, lequel est fousdouble de ses » parties aliquotes, comme est le nombre 120 : & il sçait les règles » infaillibles, & l'analyse pour en trouuer vne infinité d'autres semblables. » (Page 9, non paginée.)
+
+Dans cette même « Préface générale » (i636), Mersenne. et c'est la première fois, cite textuellement tout un passage d'une lettre que Descartes lui avait écrite, le i5 mai 1634. Mersenne n'a point mis d'ailleurs ce texte entre guillemets.
+
+« ...L'vn des excellents esprits de ce temps, dit-il, donnant la raison de » la reflexion des arcs, & des autres corps, considere, premièrement, que » tous les corps que nous voyons sont remplis d'vne certaine matière très-
+
+�� �
+
+[p. 565] Supplément. ç6ç
+
+» qui ont la mesme propriété '; & de plus, vn excellent esprit a » trouué que le nombre qui fuit, dont les par | ties aliquotes sont » aussi le double, à sçauoir 459818240, eflant multiplié par 3, c'est » à dire estant triple, produit le nombre 1 379464720, dont les parties » aliquotes sont le triple. Us en ont encore trouué qui sont sous- » triples de leurs parties aliquotes, par exemple, ceux qui fuiucnt^
+
+30240,
+
+32760,
+
+2356c>92o,
+
+45532800,
+
+142990848,
+
+43861478400,
+
+66433720320,
+
+4o3o3 1236608;
+
+» ausquelles ils en peuuent adioufter mille autres qui auront la » mesme propriété, & mesme qui seront quadruples de leurs parties » aliquotes, comme sont les trois qui fuiuenf^,
+
+» subtile, qui ne peut eltre veuë, & qui se meut tousiours grandement vifte, » de sorte qu'elle pafTe facilement à trauers les porres, ou les petits vuides, » de mesme manière que Teau d'vne riuiere à trauers les trous d'vne » naffe ou d'vn pannier. » Voir notre t. II, p. 294, 1. 10-17. Mersenne continue, en rapportant mot à mot toute la suite, p. 294, 1. 17, à p. zgS, 1. 8, et termine par cette phrase : « . . .Or il semble que les corps subtils » dont il parle se puifleni aisement entendre des atomes qui se meuuent » perpétuellement; mais on en verra la demonstration physique, lors qu'il » luy plaira la donner. » (Page 2-3, non paginée.)
+
+a. De ces trois nouveaux nombres, le premier, 672, est de Fermât (voir t. II de cette édition, p. 148-9) ; le second, 523776, de Sainte-Croix [ibid., p. 167, 1. i5-i6) ; et le troisième, trouvé d'ailleurs à l'aide du second, est de Descartes [ibid., p. 167, 1. 16-17, et p. 428,1. 12-18).
+
+b. Mersenne donne ici huit nombres. Descartes en avait indiqué six, que l'on trouvera dans la même lettre CXXX, du i3 juillet i638, t. II, p. 260, 1. 27, à p. 25 1, 1. 2. Ce sont, en suivant l'ordre dans lequel Mersenne les énumère, les numéros, i, 2, 3, 5, 7 et 8. Les deux autres, numéros 4 et 6, ne sont pas de Descartes. Un peu plus tard, lettre du i5 nov. i638, t. Il, p. 428, 1. 2-12, Descartes révèle comment il a « composé » ces six nombres. Longtemps après, dans une lettre de juin 1645, t. IV, p. 229, 1. i3-i4, le philosophe indique de nouveau les deux premiers nombres (numéros I et 2), et ne parait pas se douter, dans ce passage, p. 229, 1. 17-19, que tous les six ont été publiés en 1639 par Mersenne.
+
+c. De ces trois nombres, le premier seulement se trouve dans la lettre de Descartes, du i3 juillet i638, t. II, p. 25i, 1. 5.
+
+»
+
+�� �
+
+[p. 566] ^66 Correspondance.
+
+141 82439040,
+
+5o86668o32oo,
+
+& 30823866178560;
+
+» & tant qu'on voudra d'autres, dont les parties aliquotes seront le » quintuple, le fextuple, le centuple, &c. iusques à l'infiny : ce qui » n'auoit point esté connu que {sic) iusqu'à present. »
+
+« L'on n'auoit point aussi connu d'autres nombres, dont les » parties aliquotes, prises alternatiuement, reproduifilfent les » mesmes nombres amiables, que 284 & 220, lesquels on appelle » amiables, parce que les parties aliquotes de 284 sont 220, & celles » de 220 sont 284. Mais l'on a depuis peu trouué les deux couples » qui I fuiuent, 18416, 17296, & 9437056, 4363584. Or ie mets » icy la méthode qu'vn excellent Géomètre a donnée, pour trouuer » vne infinité de nombres semblables aux précédents, c'est à dire, » lesquels estant pris deux à deux, l'vn est efgal aux parties aliquotes » de l'autre, & réciproquement l'autre est efgal aux parties aliquotes » du premier. Voicy la règle. »
+
+Là-dessus Mersenne traduit très exactement en français la règle que Descartes avait donnée en latin, dans une lettre du 3i mars i638, t. II, p. 93, 1. 16, à p. 94, 1. 2. Des deux couples de nombres, qu'il vient de publier, outre 284 et 220, l'un est de Fermât [Œuvres, édit. Tannery et Henry, t. II, p. 21) 1841 6 et 17296, l'autre est sans doute de Descartes, p. 94, 1. 4 et 5.
+
+« Si l'on prend le binaire, ou tel autre nombre qu'on voudra, » produit par la multiplication du binaire, pourueu qu'il soit tel, que » si l'on ofte l'vnité du nombre qui lui est triple, il soit nombre » premier ; de mesme, que le nombre fextuple, dont on ofte l'vnité, » soit nombre premier; & finalement, si l'vnité estant oftee du » nombre ododecuple de son quarré, il est encore nombre premier ; » & que l'on multiplie ce dernier nombre par le double du nombre » que l'on a pris : l'on aura vn nombre dont les parties aliquotes » donneront vn autre nombre, duquel les parties aliquotes pro- » duiront le nombre précèdent. Par exemple, ie prends trois nombres » 2, 8, & 64, & trouue les trois couples des nombres precedens. » {Préface, p. 8, non paginée.)
+
+Mersenne arrête ici sa Préface, n'ajoutant qu'une phrase, pour recommander « de corriger toutes les fautes de l'impreflion, mises à » la fin du Liure, auant que de le lire, lequel est si court & si petit, » que chacun le peut porter aux champs pour se recréer. » (Page 9.)
+
+�� �
+
+[p. 567] Supplément. 567
+
+Or, à la fin du volume, on trouve, au lieu d'Errata, ce simple « Aduertijfement » :
+
+« l'ay mis la portée d'harquebuze perpendiculaire horizontale, » & celle de45 degrez, telles qu'elles se rencontrent dans l'air, dans le » Liure de VVtilité de l'Harmonie; & ay trouué que celle de 45 n'est » que de 35o toifes, & la perpendiculaire de 288, lors que la portée » de poindlen blanc est de cent toifes. »
+
+« Quant aux centres de grauilé, Luc Valere en a traidé assez » amplement après Cômmandin. Mais, au lieu de ce qu'en dit Galilée, » i'ay mis en la Préface ce que m'en a escrit vn tres-fçauant homme, » afin que chacun en soit participant. » (Page 256.)
+
+Ainsi Mersenne, sans donner le nom de Descartes, appelle, au commencement et à la fin de son livre, l'attention du lecteur sur un emprunt qu'il fait à ce « tres-fçauant homme », à cet « excellent Géomètre ».
+
+En outre, à deux reprises, au courant du même livre, Les Nov- VELLES Pensées de Gaulée, il mentionne deux théories de Descartes, toujours sans le nommer :
+
+« Article V. Le moyen de cognoijîreji la lumière s'efiend dans vn » moment, ou si elle y employé du temps. »
+
+« . . .11 semble que la splendeur des efclairs, qui paroissent pluftoit » vers la nuë que sur la terre, ait perfuadé à Galilée que la lumière » employé vn peu de temps à s'estendre dans sa sphere d'aâiuité. » Mais cette adion se faift si Soudainement, que l'œil n'est pas » capable d'en iuger, & l'excellent Autheur qui nous fait imaginer » l 'estenduë de la lumière par l'exemple d'vn bafton, lequel ébranle » ce qu'il touche au mesme moment qu'il est poussé, nous ofte les » difficultez de l'estenduë ou du mouuement instantané de la lumière : » de sorte qu'il ne faut que lire sa Dioptrique, pour se defabufer » de plusieurs imaginations, qui sont plus de tort aux sciences » qu'elles ne les aident; & si l'on a la moindre difficulté du monde » à comprendre ce qu'il enseigne de la lumière, qui se fait par vn » mouuement droid, &'des couleurs par vn mouuement circulaire, » il donnera fatisfaftion à ceux qui l'en prieront. Car il n'y a point » de doute qu'il n'a pas pris la peine de réduire ces matières » & plusieurs autres sous les loix de la Géométrie, qu'il ne soit » preft d'en expliquer les difficultez aux honneftes gens, qui s'en » voudront instruire. Or ie reuiens aux penfees de Galilée. » (Page 28-29.)
+
+�� �
+
+[p. 568] 568 Correspondance.
+
+Le second passage se rapporte à l'invention de la roulette, t. II, p. 1 36-1 37 :
+
+« Article VII. Explication de la rarefaâion & de la condensation i< par le moyen du cercle. »
+
+« ...Or l'espace compris par la ligne que fait le cercle dans l'air » en roulant, & par le plan efgal à sa circonférence, sur lequel il » roule vn tour entier, est triple dudit cercle; dont ie donneray la )) demonstration, qui m'a eflé enuoyee par vn excellent Géomètre, » à ceux qui la defireront. » (Page 32-33. î
+
+��Lettre CXLVI, du i i octobre 1638. (Tome II, page 3So-JSS.)
+
+OBSERVATIONS SUR GALILÉE.
+
+Le livre de Galilée imprime' à Leyde par les Elzevier en i638, Difcorji e DimoJlra\ioni matematiche, intomo à due nuoue Jcien\e attenenti alla mecanica & i movimenti locali, parvint presque aussitôt à Mersenne. Il y fit quelques remarques, qu'il envoya le premier à Descartes, le 29 juin 1 638, t. II, p. 194,1. 12-18. Ces remarques, et d'autres encore, dont parle Descartes, le i5 nov. i638, t. II, p. 439, l. 25, se retrouvent sans doute dans le petit livre que Mersenne publia l'année suivante, Les Nouuelles Penfees de Galilée (voir ci-avant, p. 56 1). Comme Descartes avait fait aussi des observations, à la demande de Mersenne, sur cet ouvrage de Galilée, lettre du 1 1 octobre i638, t. ÎI, p. 38o-388 (voir p. 336, 1. 17-22, et p. 271, 1, 4-5), il est intéressant de rechercher si Mersenne en a tenu compte, et s'il en a inséré quelques-unes au moins dans son petit livre de 1639, <^^ reproduit, nous l'avons vu (p. 567 ci-avant), d'autres idées du philosophe, sans d'ailleurs le-citer par son nom.
+
+Les Nouuelles Penfees de Galilée se divisent en cinq livres, dont chacun est divisé en articles.
+
+Livre premier. ...touchant les Mechaniques & la Pliyjique (Page i-jio.) Mersenne met cet avis en tète : « le diuife ce Liure en » 24 Articles, à raison des 24 choses principales qui y sont expliquées, » & prends la liberté de remarquer ce que i'ay reconnu estre contre
+
+�� �
+
+[p. 569] Supplément. 569
+
+•> l'expérience, afin que nul ne soit préoccupé d'aucun (sic) erreur. » Les observations de Descartes portent presque toutes sur les matières traite'es dans ce Livre I. (Voir t. II, p. 38i, i. i, à p. 385, 1. 24.) On n'en retrouve point trace d'ailleurs dans les remarques de Mersenne : celui-ci ne cite son ami (sans le nommer; qu'à propos de la Dioptrique, et de la solution du problème de la roulette, comme nous avons dit p. 5()7-568 ci-avant. — Une des remarques sur laquelle Descartes revient à plusieurs reprises, sans doute à la demande de Mersenne, est celle de la résistance que l'eau oppose à être divisée : t. II, p. 385, 1. 2-3; p. 441, 1. 21-26; p. 443, l.-y-i i ; p. 495. 1, 20.
+
+Livre second. ...De la force des colomnes ou cj'lindres, suiuant les nouuelles penfees de Galilée. (Page 11 !-i66.) Ce livre contient seulement dix articles. « Tout ce qui est dans les six premiers, dit » Mersenne, le doit entendre des cylindres &des prifmes fêliez ou » fichez dans des murailles. » (Page i 12.) « Apres auoir consideré la » force des prifmes & cylindres tirez perpendiculairement de haut )> en bas, dit -il encore, il [Galilée) détermine leur force & leur i> resistance, lors qu'on les presse de trauers. Or bien qu'vn cylindre » de fer peuft porter mille liures auant de rompre, par la tradion » perpendiculaire, il n'en pourra peut-estre pas porter cent en » trauers, lors qu'il est fcellé & attaché horizontalement à vne » muraille perpendiculaire à l'Orifon. » (Page 111-112.) Descartes déclare d'abord que c'est peine perdue d'examiner cette question, et cela à plusieurs reprises : t. II, p. 383, 1. 25 : p. 399, 1. 23 ; p. 439, 1. 1 1-24; p. 4G5, 1. 14-21. Toutefois longtemps après, en 1647, i' '^^ reprend et examine la solution de Galilée, ainsi que des remarques de Le Tcnneur que lui avait envoyées Mersenne. (Voir la lettre CDXCII, t. V, p. 74-77.) Et même il avait conservé en 1647 son édition de i638, puisqu'il renvoie exactement à la même page 1 14. La proposition qu'il cite : « La force mise en G est à la resistance de » toute la ligne AB comme EB est à BC » (p. 76, 1. i 1-12), en la rapportant à Galilée, est bien celle que Mersenne exprime ainsi : ■< La force appliquée en D est à la refiftence de i'efpeffeur du foliueau, » ou à l'attachement de la base BA, comme la longueur DB à la » moitié de I'efpeffeur AB; & par consequent la refiftence abfoluë » de ce foliueau (c'est à dire sa refiftence à estre rompu par vne » tradion perpendiculaire) est à la refiftence qu'il a, confideree de » trauers, par le moyen du leuier DB, comme la longueur DB, à la .) moitié de I'efpeffeur B A. » (Page 221 .) Les lettres seules diffèrent : Œuvres. V. 7»
+
+�� �
+
+[p. 570] 570
+
+��Correspondance.
+
+��C de Descartes correspondant à D de Mersenne. (Dans le texte de Descartes, p. 76, 1. 12, lire : « comme CB est a BE », au lieu de « EB à BC ».)
+
+La remarque singulière, p. 386, 1. 3-5, se rapporte à ceci : « ...Les » arbres, les hommes & les autres animaux, ne peuuent arriuer à » vne grandeur immense, quoyque proportionnée à l'ordinaire, sans » se corrompre d'eux-mesmes par leurs propres masses & pefanteurs : » ce qu'il fait voir par vn os qui est seulement en raison triplée d'vn » autre : de sorte qu'vn géant ne peut faire les fondions d'vn homme » ny subsister, si ses os estant proportionnez ne sont d'vne matière » beaucoup plus dure & plus refiftante. Au contraire, l'on voit que » la force ne se diminue pas en mesme proportion que les corps se » diminuent, mais qu'elle s'augmente : de là vient qu'vn petit chien » en peut porter deux autres, quoy qu'vn cheual eust de la peine » à porter vn seul cheual de sa grandeur. Quant aux baleines, & » autres gros poiiTons, la nature a pourueu que leurs os & leur » chair ne fufTent pas si pefans que ceux des animaux terrestres, » & puis ils ne s'appuyent pas sur leurs membres comme sont » ceux-cy. » (Page 143-144.)
+
+Livre troisiesme. Du mouuement efgal ou uniforme. (Page 167- 17Q.) Aucune observation de Descartes.
+
+Livre quatriesme. De la proportion dont les corps pefans hajîent leur vitejfe en descendant vers le centre de la terre. (Page 180-224.) Descartes fait quelques brèves remarques relatives à cela, t. H, p. 386, 1. i3, à p. 387, 1. 2. La question des tours et retours des poids attachés à des chordes suspendues en l'air, se trouvait déjà traitée dans le livre I de Mersenne, p. 84-89.
+
+« Article XX. De la proportion que doiuetit garder les chordes » pendues en haut, pour faire leurs tours & leurs retours en plus ou » moins de temps, comme l'on voudra. »
+
+(( ...Si l'on m'apprend la durée de l'vn des tours de la chorde qui » tient la lampe d'vne Eglise, & qui est attachée à la voûte, ie fçaura}' » sa longueur, & par consequent la hauteur de la voûte : comme » si depuis la lampe de l'Eglise de Nostre-Dame, il y auoit cent » huift pieds, chaque tour de la lampe dureroit six fécondes, sup- » posé que le tour d'vne chorde de trois pieds dure vne féconde » minute; parce que les quarrez d'vn & de six font vn & trente-six, » & parce que la chorde de trois pieds respond à vn, il faut multiplier » trente-six par trois, qui font cent huid pour la longueur de la
+
+�� �
+
+[p. 571] Supplément.
+
+��Î7I
+
+��» chorde, dont chaque tour dure six fécondes; & si la voûte auoit » cent quarante sept pieds de haut, chaque tour de la chorde » dureroit sept fécondes... » (Page 76-77.)
+
+Livre cinquiesme. Des Mouuements violents. (Page 225-256.) Il entend par là « le mouuement de toutes sortes de mifliles, comme » est celuy d'vne pierre qu'on iette, ou d'vn boulet de canon, d'vne » flèche, &c. » Mersenne ajoute : « l'appelle mijfile, ce qui e&. ietté » par force, soit auec la main, la fonde, l'arc, l'harquebufe, ou » autrement. » Et la première proposition est celle-ci : « Lors que » le mouuement du miflîle est composé du mouuement horizontal » efgal en toutes ses parties, & du mouuement naturel qui haste sa » course vers le centre de la terre, il defcrit vne demie parabole » par son mouuement. » (Page 236.) Descartes fait quelques remarques à ce sujet, t. II, p. 387, 1. 3, à p. 388, 1. 2.
+
+« Les autres propositions, dit Mersenne, seruent pour la con- » ftrudion d'vne table, laquelle monstre la grandeur des volées de » canon suiuant les differens degrez d'eleuation, pourueu que l'on )) considere toufiours leur mouuement dans le vuide, & sans aucun )» empefchement. » (Page 232.) Descartes n'avait point parlé d'abord de cette table. Mersenne la lui signala sans doute, en lui deman- dant son avis. Descartes le donne, dans une lettre postérieure, de décembre i638, t. II, p. 466, 1. 17-21. Mersenne reproduit cette table tout à la fin de son livre, p. 255-256.
+
+Au reste. Descartes a dû lire très vite l'ouvrage de Galilée. En voici une preuve entre autres. Page 385, 1. 4-6, il est question « des » gouttes d'eau sur les choux », dont Galilée, dit Descartes, déclare ignorer la cause. Or nous lisons dans Mersenne : « Les gouttes » d'eau qui se trouuent gonflées en rond sur les fueilles des herbes, » semble {sic) prouuer que l'eau a quelque vifcofité, qui l'empesche » de couler : à quoy il (Galilée) respond, que cet empefchement » ne vient pas des parties internes de l'eau, mais d'vne certaine » contrariété & inimitié que l'air a contre l'eau; ce qu'il preuue par » ce que le vin, qui est plus efpais que l'air, ne refifte pas à l'eau, » puisque les deux goulets de deux bouteilles pleines l'vne de vin » & l'autre d'eau, estant mis l'vn sur l'autre, si l'eau est dessus & le » vin defl'ous, le vin monte &c. » (Page 54-55.) Et Mersenne avait sans doute insisté, puisque Descartes ajoute un mot dans une lettre suivante, du i5 nov. i638, t. II, p. 441, 1. 26-28.
+
+Quant aux « deux manières pour trouuer de combien l'air est plus » léger que l'eau ou les autres corps » (Art. XV, page 63-67), '^^^
+
+�� �
+
+[p. 572] ^j2 Correspondance.
+
+avaient attiré l'attention de Descartes, t. II, p. 385, I. 12-14, Mersenne doute, pour sa part, « de la iufteiîe des expériences de » Galilée, qui ne dit point les grandeurs & les pefanteurs de ses » flacons, ny la force & la iutlelïe do ses balances, ny mesme la » grandeur & pefantear de l'air qu'il a pefé en vfant de grains de » fable pour ce fuiet : il dit seulement qu'il a trouué par cette voye, » que l'eau est prés de quatre cens fois plus pesante que l'air : au » lieu que, par vn autre moyen qui dépend de la proportion des » cheutes qu'ont les corps différents en pel'anteur, dans l'air & dans » l'eau, ie treuue qu'elle pefe du moins mil sept cens fois dauantage » que l'air, comme l'on peut voir dans la première obferuation mise » à la fin des Liures de l'Harmonie. » (Page 66-67.)
+
+��Lettres CXLVI et CXLIX, ii oct. et i5 nov. i638. {Tome II, page 3go-3gi et page 433.)
+
+MECANIQUE. ROBERVAL & GALILÉE.
+
+Quelque invraisemblable que cela paraisse, Descartes n'aurait lu qu'en octobre i638 le Traité de Mechanique de Robcrval, publié cependant par Mersenne dès i636, dans son Harmonie Viiiuerfelle. En voici le titre complet :
+
+» Traité de Mechanique. Des poids fouftenus par des puijfances » sur les plans incline^ à rHori\on. Des puijfances qui foufîiennent vn » poids suspendu à deux chordes. — Par G. Pers. de Roberual Pro- » feffeur Royal es Mathématiques au Collège de Mairtrc Geruais, » & en la Chaire de Ramus au Collège Royal de France. »
+
+Ce petit traité, in-folio, ne comprend que 36 pages. On n'y trouve que trois Propositions, précédées d'une Définition et de cinq Axiomes, et suivies chacune de plusieurs Corollaires, Scholies et Problèmes. Voici les trois propositions :
+
+« La première : Estant donné vn plan incliné à l'horizon. & » l'angle de l'inclination estant cogneu, trouuer vne puissance, » laquelle tirant ou poussant par vne ligne de direction parallèle au » plan incliné, fouftienne vn poids donné sur le mesme plan. »
+
+�� �
+
+[p. 573] « La féconde : Trouuer le mesme, quand la ligne de diredion par laquelle la puissance tire ou pousse, n’est pas parallèle au plan incliné. »
+
+« Et la troisiesme : Trouuer deux puiflances qui puiffeni foullenir vn poids donné, suspendu à deux chordes données. « (Page 7.)
+
+A plusieurs reprises, d’ailleurs, Roberval renvoie à un plus grand ouvrage, qu’il appelle « notre Mechanique » (p. i3, 33) ou « nos Mechaniques » (p. 2 1 , 3 1 , 36), et qui pourrait bien être (plutôt que ce petit traité de 36 pages) le livre au titre fastueux dont Mersenne avait parlé à Descartes (ci-avant, t. II, p. 333-334.)
+
+Quant aux considérations de vitesse ou de temps, que Descartes reproche à Roberval d’avoir mêlées à la considération de l’espace, on les trouve au Corollaire V de la Propos. I, ainsi formulé :
+
+« On peut voir encore clairement qu’il faut moins de force pour faire monter vn poids par vn plan incliné, que par la perpendiculaire. Mais, réciproquement, ce poids fera plus de chemin, & partant fera plus de temps à monter, par le plan incliné que par la perpendiculaire. Et le tçmps par le plan incliné sera au temps par la perpendiculaire, comme, réciproquement, la puissance tirant par la perpendiculaire, à la puissance tirant par le plan incliné... «(Page 11-12.)
+
+Autre chose non moins invraisemblable, et qui pourtant semble réelle, Descartes, à la date du 1 1 oct. i638, n’aurait pas encore pris connaissance des ouvrages de Galilée, puisqu’il le déclare, t. II, p. 388-389 (sauf, bien entendu, le livre dont il parle dans cette même lettre). Mais il n’en est plus de même, dans la lettre suivante, du i5 nov. i638 : sans doute sur les indications de Mersenne, il semble bien avoir au moins jeté les yeux sur un petit ouvrage, que celui-ci avait publié dès 1634: Les Mechaniques de Galilée, Mathématicien & Ingénieur du Duc de Florence. Auec plufteurs Additions, rares & nouuelles, vtiles aux Architectes, Ingénieurs, Fonteniers, Philosophes, & Artijans. Traduites de l’Italien par L. P. M. M. (A Paris, chez Henry Guenon, ruëS. lacques, prés les lacobins, à l’image S. Bernard. M.DC.XXIV. Acheué d’imprimer, 30 Iuin 1634.)
+
+Descartes parle de la balance et du levier, t. II, p. 433, 1. 14-15. Or le Chap. VI de Mersenne est précisément intitulé : De la Romaine, de la Balance, & du Leuier. (Page 20-23.)
+
+Mersenne termine ce petit ouvrage par une Addition X, sur le plan incliné, « affin que l’on considere l’vtilité du triangle reclangle dans les mechaniques ». (Page 87.)
+
+[p. 574] 574 Correspondance.
+
+Ainsi Descartes aurait rédigé d'abord sa Statique, t. II, p. 222- 225, et n'aurait parcouru qu'ensuite, et très superficiellement, les ouvrages similaires de Stevin {ibid., p. 247), Roberval (p. Sgo-Sgi) et Galilée (p. 388-9 et p. 433.)
+
+��Lettre CXCII, a Mersenne, ii juin 1640. [Tome III, page Ss.)
+
+SUR TROIS PRODIGES.
+
+Sur les trois prodiges, dont Saumaise avait mandé la nouvelle à Paris, & dont Mersenne, aussitôt informé, ne manque pas de s'enquérir auprès de Descartes, nous avons les lettres mêmes de Saumaise, à savoir: i°une lettre au Président Le Bailleul, datée du 9 avril 1640; 2° une lettre à M. du Puy, du 7 mai 1640. Voici ces deux documents :
+
+Lettre de M' Saumaife à M' le President Le Bailleul.
+
+« De Leyden, ce ix Auril 1640. »
+
+« L'on est effrayé de deçà d'vn tremblement de terre qui se feit » sentir, le troisiesme de ce mois, la nuift du mardi, enuiron trois « heures & vn quart. Toutes les villes de ces Prouinces confédérées » l'ont senti, les vues plus, les autres moins, félon la situation des » lieux plus haults ou plus bas. Le? lettres d'Anuers portent qu'il » a eflé fort grand en cette ville la, & que les personnes sont sorties » hors de leurs maisons, creignans d'eflre accablées {écrit d'abord » accablez) soubs la ruine que ce tremblement menaçoit. le ne » doubte point que la France n'en ait esté remuée comme ellant » plus fubiette à cet accident que n'est ce pays par la nature & » condition de son terroir. Car, si nous croions les naturalin:es, ces » tremblemens sont caufez par les vents qui s'engouffrent dans les » concauitez de la terre cauerneufe. Par cette raison ces contrées en » deuroient eflre exemptes, où l'eau occuppe & remplit tout & ne » laifl"e point de vuide pour entrer le vent. Aussi ce mal ni est pas si » fréquent ni si ordinaire qu'ailleurs ; ce qui fait qu'on le tient pour
+
+�� �
+
+[p. 575] Supplément.
+
+��SIS
+
+��» vn prodige quand il arriue, bien que ce soit vne chose naturelle & » qui a ses causes, desquelles on ne dispute quasi point. Il ni a que » les Mahometans qui nous en feroient vne controuerfe de religion, » tenans pour article de foy tout ce que l'autheur de cette super- » ftition leur enseigne, aufli bien es choses naturelles que super- » naturelles. Il dit donc que, la terre estant fondée & appuiée sur » la corne d'vn bœuf, quand cet animal vient à remuer sa teste, que » la terre tremble; ce qui esl bien probable, s'il est vrai que la terre » n'a point d'autre fondement. »
+
+« Les bonnes gens d'ici, sur la créance qu'ils ont que cette tre- » meur esl vn cas prodigieux, se donnent l'allarme & s'imaginent » que c'est vn prognoftic de quelque malheur qui doibt fuiure, & » ne se contentans pas de ce qui est certain, se forgent en suitte de » nouueaux prodiges qu'ils inuentent & débitent, affin de confirmer » leur imagination en l'attente des maux qu'ils se figurent estre » dénoncez & preditz par ces eftranges accidens. A Vtreft, tout le » linge des particuliers, qui estoit sur le pré pour herber & blanchir » à la mode du pays, le lendemain de ce tremblement, à l'heure de » midy, a esté enleué de terre en l'air & porté plus hault que les » moulins à vent qui sont sur les remparts de la ville : & ce qui est » de plus admirable, sans qu'il fit pour lors le moindre soupir ou » haleine de vent. »
+
+« A Vefel, < à > vn larron qu'on auoit pendu, vne dent de deuant » est creiie de telle sorte qu'elle paffoit le sommet de la teste ; toute » la ville a veu cela, & le magistrat mesme, lequel ayant délibéré la » dessus & refolu de faire dépendre le corps pour le garder, vn parti- » culier les a prévenus, pour cette mesme raison & la {sic) enleué » de nuift. »
+
+« Vne femme, au pays de Julliers, est greffe depuis trois ans & » sent bouger son fruifl: ; s'il ni auoit que cela, il ni auroit rien de » merueilleux : on l'entend crier dans son ventre, tout de mesme que » s'il estoit entre ses bras ou dans le berceau. »
+
+« le me garderois bien de mander toutes ces bagatelles, si ie ne » les auois veuës affeurer par lettres ou par gens que l'on tient » dignes de foy en ces quartiers. Pour moi, ie vous dirai que, hors le » tremblement de terre, que i'ai senti, de tout le reste, que ie n'ai » pas veu, ie m'en rapporte à la foy des auteurs, laquelle ie ne » vous fais pas bonne. » (Paris, Bihl. Nat., Collection Dupuy, 55o, p. 210, copie MS.)
+
+L'autre document est emprunté au recueil déjà cité de lettres de
+
+�� �
+
+[p. 576] 5 "6 Correspondance.
+
+Saumaise « à M. du Puy, prieur de St-Sauveur, à Paris. » {Bibl. Nat., MS.fr., Coll. Dupuy, 71 3.)
+
+" A Lcyde, ce 7 Mai 1040. — ...le ne fçai ce qui doit arriuer de » malheur en ce pays cette année, mais on ne parle que de pro- ') diges. Touts les iours, ou il s'en fait, ou on en forge de nouueaux. » Et parce que les auteurs ne me semblent pas dignes de foi, ie » n'ai pas voulu en brouiller le {ou de) papier... » {Fol. 232.)
+
+i' ...le viens donc à la pr(euue) des deux que i'ai mande's à Mons » Le Bailleul, puisqu'ils ne treuuent point de foi parmi les bons » efpriis. le les tenois de < M. de > Laet qui se treuua céans » comme ie vcnois de receuoir la dernière. le lui dis qu'il falloit » qu'il iu(t mon garent. Il m'affeura que la chose estoit véritable & » me nomma Ion audeur, & me promit de plus de me faire auoir » des extraits des lettres qui en ont esté efcrites de Vefel. Ce qu'il » a fait pour l'vn; pour l'aultre, le le dois auoir cette semaine. Vn » médecin de Vefel, nommé Francifcus Monhemius, braue homme » & célèbre en son mestier, a escrit l'vn & l'aultre en cette ville à » quelques vns de ses amis, dont l'vn eil ministre que ie cognois, » très homme de bien & très dode, & renommé mesme par ses » escrits. C'est lui qui a donné depuis peu l'Euangile Persan des » lefuites & a fait des Notes sur le Nouueau Testament, nommé » Daniel de Dieu. Il a asseuré aud. f de Laet, de qui ie le tiens, » qu'ayant receu < la > lettre de la dent, il s'estoit enquis puis » après du minière de Vefel, qui estoit venu en cette ville, si cela >i eltoit vrai... » {Fol. 232, verso.)
+
+» Voici les propres mots de Mons de Dieu, qui me furent hier » au soir enuoyés par le sieur de Laet. Ciim hic effet minijler Eccle- » Jia.' Vefalieujts, vir pins & probœjidei, ex illo quœjiui, quid de furis » illius dente credendum effet. AJfirmabat ille, rem Vefalice notiffi- » mam esse & sibi quoque vifam; magijlratui in animo fuisse, prodi- » gium illud ad memoriam conferuare, Jed noâu ablatum fuisse ab » aliquo maie feriato, neque sciri potuijje quis fujîiderit. »
+
+« Pour l'aultre, de l'enfant qui crie, v.oici l'extrait de la lettre » dud. Monhemius, qui est couché en ces mots : Cùm occultorum i> naturœ miraculorum te video auidtim curiofumque, l'ifne aliud » nouum, idqne veriffimum. Ecce dabo ex viri nobiliffimi & fide » digniffimi communicatione. Ejl autem taie. Ciuitas quœdam parua » ejî in Ducatu Iuliacenji Vaffenburgum diâa. Hic etiamnum viuere' » (S^ degere ad me fcribitur fœmina quœdam honejîa, quce iam ante » triennium grauida fada fuit, adhucdum in utero gejlans iifantem )i viuum, cuius vagi tus fonori fœpenumero inibi ab adjlantibus afft-
+
+�� �
+
+[p. 577] Supplément. 577
+
+» dentibufque percipiunlur. RariJJimum quidem, vtfupra dixi, al ali- » quoliens tamen à fcriptoribus no/iris obferuatum annotai umque, » verùni non fine doloro & lacrimis, oh fubfequentia mala ciim pri- n uala lum publica. »
+
+« Quand on m'aura communiqué l'extrait de l'epillre de la dent, » ie vous renuo3'erai par le prochain ordinaire. Si Monficur Moreau » en veut eftrc efclairé dauantage, comme la chose le mérite bien, » il n'a qu'à escrire aud. Monhemius & m'enuoyer la lettre. le lui » ferai tenir, & me fais fort de lui faire auoir response. »
+
+« Pour ces cnfans qui crient dans le Ventre de la mcre, il est » auenu le mesme à d'aultres. Et l'en fçai vn exemple proche d'ici » & affés récent. 'S'ne dame qui demeure en cette ville, fort qua- » lifiéc, nommée de Rechecourt, a vne belle-seur à qui cela ell » arriué. Estant proche d'accoucher, elle entendit la nuit crier Ton » enfant dans Ion ventre, efveilla son mari qui l'ouit aufli, dont » elle fust si eiTra)-e(e) qu'elle en accoucha deux iours après... » [Fol. 233, recto.)
+
+��Lettre CCI, Huygens a Descartes, 14 août 1G40. ' ( Tome III, page 1 53. )
+
+SUR LES ORGUES.
+
+Au sujet de ce livre sur l'usage des orgues dans les églises, voici une autre lettre de Huygens hji-mème « au S' Ludouiq Calan- drini i> à Genève, et datée de La Haye, 12 mars 1G41. Elle se trouve à Amsterdam, Bibliothèque de l'Académie des Sciences, au Trippenhuis, t. H, p. 44-5, des Lettres françoifes de Constantin Huygens. (C'est une copie MS., & non un autographe.)
+
+« ...Il y a un an & plus que, par occasion d'un discours que i'eus » aucq leurs Alt'^ sur le mauuais & fcandaleux ufiige de nos Orgues » d'Eglise, je comprins en peu de fueilles ce qui me sembloit venir » en consideration sur le fubjed. Et enfin, par cest hiuer, les Im- » primeurs me l'ont arraché. En vo)'-ci un exemplaire pour une » heure de palîetemps. Si vous l'y employez, ie vous demande en >' grâce d'en exposer la substance à quelques uns de vos grands >' Théologiens, pour en sçauoir leurs sentiments. Les plus célèbres Œuvres. V. 73
+
+�� �
+
+[p. 578] 578
+
+��Correspondance.
+
+��» de nostre Académie & de nos Eglises me tefmoignent tous les » jours, par de fort dodes lettres, qu'ils font des miens, sans » exception, & qu'il conuient de fandifier les choses profanes ou » indifférentes dans l'Eglise par leur fin : qui ne tendant point » à ce qui est du debuoir de la créature envers le Créateur, n'y » sçauroit estre souffert sans offense. Vous me direz h loisir, & » en trois lignes, s'il vous plaist, si je sens plus le fagot à Geneue » qu'en Hollande... »
+
+��Lettre CCXIX, a '**, [novembrk 1640!. {Tome III, page 2^7.)
+
+ADRESSE ET DATE.
+
+Un autre texte de cette lettre se trouve, art. Andréas Colvius, p. 225 de l'ouvrage intitulé : Befchrjvinge der Stad Dordrecht, door Matthys Balen, Jatis Zoon. (Te Dordrecht, by Symon Onder de Linde, 1677.) Outre quelques variantes, ce texte donne surtout le nom du destinataire, Andréas Colvius, qui manquait dans Clerselier, et la date précise, « de Leyde, ce 14 Nov. 1640 », qui manquait également. La présente lettre doit donc être placée entre la CCXVIF et la CCXVIIP, c'est-à-dire t. III, p. 243. Voici les variantes annoncées :
+
+I avantYon^] Monsieur, ajouté. — 2 auquel] avec lequel. — 4 vé- ritablement omis. — 5 fert] est servi. — 6 pour... voir] monftrer. —
+
+11 — I (p. 248) qui... différentes ow/s. — 1-2 c'est... inférer] pour cela seul d'inférer. — 3 doute] pense, c'est une chose si claire & si natu- relle. — 3 après pu] ayfement ajouté. — 5 après rencontré] en cecy ajouté. — saint Augustin] un si grand personnage. — 7 principe] que j'ay escrit en cet endroit la. — 7-8 Le... écrit] Mon petit Traité. —
+
+12 puis... offrir] vous le puis offrir. — 16 après iugement] le suis, Monsieur, Vostre très humble & très acquis serviteur, Des Cartes. De Leyde, ce 14 Nov. 1640. Ajouté.
+
+�� �
+
+[p. 579] Supplément. ^yp
+
+Lettre CCXXII, a Mersenne, décembre 1(540. {Tome III, page 255.) '
+
+HUYGENS ET BANNIUS.
+
+Huygens jugeait ainsi Bannius, dans une lettre « au S Boeffet », écrite de La Haye « ce- 19 de Jan. 1641 », et conservée à Amster- dam, Bibliothèque de l'Académie des Sciences, dans le recueil MS. de Lettres si-ançoifes de Constantin Huygens, t. U, p. 49.
+
+« ...le renvoyé à ce coup à Mons Mersenne ce que M. Bannius » s'est aduifé de refpondrc sur les obiedions qu'on luy a faides » en France. Vous verrez comme il s'est picqué de ce qu'on l'a » renvoyé à l'Escole pour 12 ans. Il est homme fçauent, & pour » ce qui est de la théorie des Tons & Intervalles harmoniques, n autant versé que i'en aye encor veu, de forte que i'ay toufiours » efperé qu'il rendroit ces matières efclairées, que les Anciens ont » traitées obfcurement en des escrits que des modernes n'ont faift » que la mine de bien entendre : mais pour ce qui est de l'applica- » tion de l'Art, & nommément de ce vray génie que {sic) ne s'en- » feigne à personne, & que {sic) fait l'Ame de la prattique, il y » entend aulH peu que vous, Mons, en poffedez amplement & au » rauiffement de tout le monde. Les règles d'ailleurs qu'il prétend » de precrire {sic) au compofiteur d'un Air a l'advenant de la lettre, » sont, à mon aduis, si efloignées de raison que, quand ie n'auroy » pas veu le mauuais essay qu'il vous en a envoyé, ie ne lairroy pas » de les reietter aueq vous. Il y aura du piaifir à veoir la dessus les » Arbitrages des meilleurs musiciens de l'Europe, auxquels il est » content de s'en remettre. Mais, tout condamné qu'il sera, il ne » démordra iamais de son imagination, si je le cognoy"... »
+
+Voici, einprunté au même recueil, t. II, p. 363-4 (lettre « à
+
+a. Les vers mis en musique par Bannius et par Boesset, et cités t. III, p. 261, se retrouvent dans un recueil intitulé : Poefies choisies de MM. Corneille, Boifrobert, &c. (1660), p. 322. Et l'auteur y est nommé: « Germain Habert, abbé de Cerify. » Déjà Mersenne avait cité tout au long « le Pfalme 146, de 12 couplets, ccmpoféparMonfieur Habert, Abbé » de Cerifé », p. 283-289, Livre V de VHarmonie Vniuerfelle (i636).
+
+�� �
+
+[p. 580] ^80
+
+��Correspondance.
+
+��Mad"* de la Barre », chanteuse appelée de Paris à Stockholm), uti texte postérieur (du 21 juillet 11)48), qui nous apprend combien la musique était en faveur dans la maison de Constantin Huygens, où vint souvent Descartes :
+
+« Il {Morts de Vespré) nous faiél esperer que vous auriez dciïein » de palferparnos païs en Suéde. C'est de quoy ic vien m'informer » chez vous mesme, pour vous dire que, si ny la difficulté d'un si » grand voyage leptentrionai, ny les tendrefl'es de ce digne père » qui vous a mis au monde,' ne vous deftournent, je vous guettcray » au paflage, & en vous faisant un peu reculer pour mieux faulter, » vous prieray dexepofer quelques fepmaines dans mon logis, qui »■ peut estre n'est pas des plus incommodes de la Haye, & dans » lequel au moins vous trouucrez Luths, Tiorbcs, Violes, Efpi- » nettes, Clauecins & Orgues, à vous diuertir, quasi autant que » toute la Suéde vous en pourra fournir. Et, si vous souffrez que je » vienne en ligne de compte, vous m'y trouuerez, sinon Arbitre » compétent de vofîre grand sçauoir, certes admirateur padionne » de ce que vous produilez au delà des dernières capacitez de » vostre sexe. »
+
+��Lettre CCXCVI, a Mersenxe, 23 si';vrh:r iô^S. {Tome III, page 63 1 -6 3 y.)
+
+AUTOGRAPHE.
+
+Cette lettre ne nous était connue que par le texte imprimé de Clerselier (t. il, p. 5o6), et la copie; MS. de la collection Boncom- pagni, que nous avons reproduite. Mais l'autographe, que l'on cro5'ait perdu, se trouvait dans la collection Dubrunfaut, léguée à la Bibliothèque de Lille. Il remplit les quatre pages d'une feuille ordinaire, pliée en deux. En haut de la première pa^e, à droite, se trouve un numéro, entre parenthèses (45). En bas et à gauche, un autre numéro, suivi d'une lettre, 33c. Le numéro (45) correspond au classement de Dom Poirier; l'autre, 33c, rappelle un premier classement à rebours, et correspond au numéro 5i de La Hire. ^'oir là-dessus notre introduction, t. I, p. 1.1, Liv, lvii. Nous nous contenterons de donner ici les différences de cet autographe, qui est
+
+�� �
+
+[p. 581] Supplément. 581
+
+le texte authentique, et de la copie que nous avons imprimée, t. III, p. 631-637.
+
+Page 63 1 : 3 huit] 8. — 10™'] 10. — 3 : i"] premier. — 5 Mon- sieur] M^ — 6 M.] M de. — 8 tres-humblement] sans trait d'uuiou.
+
+— Monsieur] M^ — 9 lettre] Ictre. — 10 Monfieurj M^
+
+Page 632 : 5-6 prennent] prenent. — 8 M.] M^ — 9 aise] ayfe.
+
+— i5 mouille] mouillé. — 18 fuyuant] suiuant. — 20-1 comment] commant. — 25 ceftui-cy{ cetuy cy. — 26 : i*^"^! premier. — 29 ceftej cete.
+
+Page 633 : 6 et 7 lettres] letres. -t- 6 pluftort] plutoll. — 7 fuyuant] suiuant.— 9 ccfte] cete. — i5 ces] fcs. — 16 perpétuelle] écrit d'abord avec une seule 1 : puis seconde 1 rajoutée. — 2 3 Epiflres] epitres. — 24 M.] M^
+
+Page 634 : I autresfoisj autrefois. — 2 lunette] lunete. — 3 croire] croyre. — 7 lors qu'il] lorsqu'il. — 8 plullofl] plutost. — parmy] parmi. — 9 pcze] pcfe. — 1 1 lettre] Ictrc. — 10""^] lo^ — Février] de Feurier. — dificulté] difficulté. — i3 fouuant [sic). — i5 après] après. — 16 cj-deuant sam trait d'union. — 19 vny] vni. — 20 arreftéc] areflée. — 21 confidcrez] confidcrons. — 27 inconti- nant] incontinent. — plurtofl] plutost.
+
+Page ()35 : i encores] encore. ^=— 3 peu à peu] non écrit d'abord, mais ajouté. — 6 prell'é même remarque. — 8 elle] il. — 9 deux] 2. — cftans] estant. — 11 : i^] première. — i3-A] H [sic), faute ; en marge : « Il faut que A. » — 14 ayt] ait. — i6 arreftera] areflera. — K) il ...fort] ils ...sortent écrit d'abord, puis s bai-ré, ainsi que ent. — 20 après viteife] que celuy écrit d'abord, puis barré. — 21 ccftl cet. -— 24 viennent] vienent. — 24 toutesfois] toutefois. — 3o arant qua- druple] dc'iblc écrit d'abord, puis barré.
+
+Page 636 : 2 e/ 4 temps] tcms, — 3 lors qu'] lorsqu'. — 4 acquiert] acquert. — 5 s'il] s'ils écrit d'abord, puis s bai-ré. — également] également sans accent. — 7 ayt] ait. — 9 éleue] eleue sans accent.
+
+— 24 plaindre] pleindre. — 29 M.] M^ — plurtoft] plutoit.
+
+Page 637 : 9 le] ce. — Feurier] Feu.
+
+�� �
+
+[p. 582] ^82 Correspondance.
+
+Lettre CCCXLV, a Pollot, 8 avril 1Ô44. (Tome IV, page 106.)
+
+Sur cette coutume ou cette mode, de faire des visites dans la soirée, voici un renseignement de Constantin Huj-gcns, le fils, dans une lettre que, de passage à Genève, il écrivit à son frère Christian, en janvier i65o :
+
+« ...On passe le tems gaillardement icy à caufcr, jouer & veiller, » qui veut dire donner des visites après souper, chose fort ufitée icy » & mesme partout en France, dont vous trouveriez les façons de » vivre très différentes, & bien plus eftrangcs que celles de Dane- » marc », où Christian venait de faire un voyage. [Correspondance de Christiaan Huygens, La Haye, 1888, t. I, p. i i3-i lô.)
+
+��Lettre CCCLX, a Picot, 8 nov. 1G44. [Tome IV, page 14^-)
+
+MERSENNE : COGITAT A.
+
+Le texte de Baillet, que nous reproduisons ici, ferait croire que l'ouvrage de Merscnne intitulé Cogilata Phj'fico-Mathematica, venait seulement de paraître, et serait par conséquent postérieur aux Principia Pliilo/ophiœ de Descartes, dont l'achevé d'imprimer est du 10 juillet 1G44. Il n'en est rien. Les Cogitata de Merscnne portent la mention suivante : « Peracta est hcec ImprefTio die I April. 1Ô44. » Et ce détail a son importance. Mersenne, en effet, ne nomme pas une seule fois Descartes par son nom dans les Cogitata, respectant ainsi l'incognito que celui-ci avait préféré dans sa publication scien- tifique de 1037. Après les Principia, qui portent en toutes lettres le nom de leur auteur, ce silence de Mersenne n'aurait plus eu de raison d'être. — Mais, s'il ne nomme pas Descartes dans ses Cogi- tata, il le cite cependant à maintes reprises et le désigne d'ordi- naire en ces termes : « Vir illultris ». Or beaucoup d'endroits.
+
+�� �
+
+[p. 583] Supplément. ^83
+
+mis sous cette de'signation, ne sont souvent que la traduction, mot pour mot, de passages de la correspondance de Descaites, ou l'exposé fidèle de ses idées. A ce titre, ils doivent prendre place dans cette édition, comme documents de première importance. Nous les donnerons donc ici même, après quelques renseignements sur l'ouvrage, son titre et son contenu.
+
+F. Marini Mersenni Minimi Cogitata Phj-Jtco - Mathematica , in quitus tam naturœ quant artis effeâus admirandi certijjimis démon- Jîrationibus explicantur. (Parifiis, fumptibus Antonii Bertier, via lacobeà, M.DC.XLIV.)
+
+Dédicace : « Admodum Reverendo Patri, Laurentio à Spezzano, » totius Ordinis Minimorum Gçnerali. »
+
+« Licentia R. P. Generalis », datée de Rome, 8 août 1643, et signée : » F. Laurentius A Spezzano. »
+
+Approbation donnée à Paris, « in Conuentu nostro Sandi Fran- » cifci de Paula ad Platcam Regiam », 27 février 1644, et signée : « I. F'rancifcus Lanouius & F. loannes Francifcus Nîceron. »
+
+Privilège du Roi, 2 octobre 1643.
+
+« Perada e(t ha;c Impreflio die I April. 1644. »
+
+Tradatus isto volumine contenti :
+
+I. De Menfuris, Ponderibus & Nummis Hebraicis, Grcecis & Romanis ad Gallica redaâis. II. De HydraulicO'pneumaticis Phœnomenis. ni. De arte Nautica,seu Hijliodromia, & Hjdrojiatica. IV. De Muftca Theorica & Pradica. V. De Mechanicis Phœnomenis. VI. De Ballijlicis,seu Acontifmologicis Phœnomenis.
+
+Prœfatio generalis, non paginée, s. d. (p. 16).
+
+Traâalusde Menfuris, &c. — Dédicace : « lacobo Halle, régis con- » iiliario, & Parifienfis Rcgiorum Computorum CamerîE Decano. » — Prœfatio. — Tradatus, p. 1-40.
+
+Hydraulico-Pneumatica ; Arfque navigandi. Harmonia Theorica, Pracîica. Et Mechanica Phœnomena. AutoreM. Mersenno M. Dédi- cace : « loanni marchioni d'Eftampes-Valençay. » Datée de Paris, i< Nonis Martij anni 1644. » Prœfatio, non paginée (p. 14). De Hydraulicis & Pneumaticis Phœnomenis, p. 41-224. Arstiavigandi : Hydrojlaticœ liber primus, p. 225-233; liber fecundus, de navi- gatione, seu hijliodromia, p. 233-260. Harmoniœ liber primus.
+
+�� �
+
+[p. 584] ^84 Correspondance.
+
+p. 261-273; liber fecundus, p. 2-3-296; liber tertius, p. 297-32S: lib. quartus, p. 320-370. In librum M echanicoriim vtilis prœfatio, non paginée (p. 8). Traité,
+
+p. !-()<'.
+
+F. Marin! Mersenni Minimi Ballijlica & Acontifmologica. In qua Sagittarum. laculorum, & aliorum MiJJilium laâus, & Robur Arcuum explicantiir . (Parifiis &c. M.DC.XLIV.) Dédicace : « loanni lacobo de Barillon », s. d. — Prfefatio, non paginée (p. 8). Traité, p. 1-140.
+
+Index amplijjimus : P (de ponderibus), H (de hydraulicis, Arte nauigandi, & Harmonia), B (Tradatus Ballifticœ), M (de Mecha- nicis).
+
+��De Gallicis. ..
+
+NUMMlS.
+
+��Page 17 : « ...Porrô monetariam fabricam Parifienfem nouiter » inltitutam, in quà nummi prœlis imprimuntur, non autem malieis » cuduntur. deicribcrem... » Voir Correspondance, t. III, p. 219, 1. is).
+
+��Ph^nomena.
+
+��Hydrauuco- PrcL'fatio ad Leùîorem. Explications complémentaires, relatives Pnel'matica j,y,^ j\.[vi d'eau, notamment ceux de 43 degrés, «. quœ pendent ab
+
+» eleuationc 40 graduum super horizontem », dont parle Descartes,
+
+t. III, p. (')4o, 1. 4, etc.
+
+Page 10. Au sujet du vide, réflexion de Mersenne, qui annonce la prochaine publication de la Phj-Jîque de Descartes {Principia Philojophia:) :
+
+<< ...Vndc cernis incommodum ex vacuolis ; quod fugias, si fubti- » liffimam aliquam matcriam fuppofueris, quae in aeris condenfa- » tione pcr omnium vaibrum poros ingrediatur, & in rarefadione » per cofdem exeat : quà de re Illuftris viri Physicam expefta. »
+
+Et trois ans après, dans ses ReJIeâiones Phjf.-Math., 4647, Mersenne note, comme maintenant publiée, cette Phj-Jtque, qu'il avait annoncée en i(")44 :
+
+« ...Physicam suam, de quà loquebar, iuris publici fecit ab eo ') tcmporc vir Clar. Cartesius. i> (Page 71-72.)
+
+Page 49. Ici se trouve une expérience d'hydraulique, que Des- cartes déclarait « la plus belle & plus vtile de toutes », dans une lettre à Mersenne, du 9 février 1639, t. II, p. 5o4, 1. 27-29. Mer- senne la rapporte en ces termes :
+
+« Ello tubus AC pedalis, & tubus AB quadrupedalis, vterque » plenus, qui suam aquam eodem vel œquali tempère per lineare
+
+�� �
+
+[p. 585] Supplément. S^S
+
+.) lumen effundant. Constat ex obseruatione, non solùm ^\us aqua; ,. fundi à tubo AB, quiim à tubo CA, fcd etiam durlô maiotem » quantitatem; atque adeô rationcm quantitatis aqiue ab AB tubo » fufae, ad quantitatem aquœ ab AC tubo fufœ, fubduplicatam elle » tubi BA ad tubum CA : vel rationcm tuborum elîe duplicatam » rationis quantitatum, seu ponderum, ab illis fularuin... »
+
+Ceci se trouve dans la démonstration de la prop. II ainsi énoncée : Tuborum aquâ plenorum is plus aqux tribuet eodem vel œquali tem- pore, per idem vel œquale lumen, quifuerit altior ; eritque inter aqux fuj'ce quantitates ratio fubduplicata allitudinum, quas tubi habuerint : hoc ejt, tuborum altitudines fuiit in ratione duplicata quantitatum aqux Jluentis. Vbi de fubduplicandis duplicandifque rationibus agitur per mediœ & terlicc proportionalis inuentionem.
+
+Page 8i. Prop. XV :' Salientes hori\outales, verticales, & médias inter verticem & hori'yontem, explicare. Et de mcnic, les proposi- tions suivantes. XVI, XVII,... et XXVIII, jusqu'à la page 140. A rapprocher de la dissertation de Descartes à Huygens, sur le même sujet, iS ou 19 fev. 1643, t. III, p. 617-Ô30; d'autant plus que Descartes, dans une lettre suivante, du 23 mars 1643, à Mersenne, lui écrit : « le suis bien ayfe que ce que i' auois enuoyé à M de » Zuylichcm touchant le iet des eaux, se rencontre auec vos » pensées. » (Tome III, p. 63n, 1. iS-20.)
+
+Page i3i. Prop. XXVI. « Saliens Draconis Ruclliani verticalis » fpado duorum fecundorum afcendit, totidemque defccndit... » Il est question de ce dragon de Ruel dans la lettre de Descartes à Mersenne, du ^3 mars 1G43, t. III, p. «U'^ '• i^.- ^-^ '• '^st '^ remarquer que, dans un autre endroit de son ouvrage.de 1644, Mersenne donne un renseignement réclamé par Descartes. \'oir, en elVct, p. NS : " Porrô, cùm tubi longitîimi sunt, verticales minu- ,. untur, hoc ell non sunt 4 vel | sui tubi : vt in.Draconc Ruelliano » videre eil, cuius tubus originem arcefiit à piicinà ôo pedes super » horizontem ercdà... »
+
+Page io3-4. A propos de ce même jet des eaux, Mersenne a cru devoir donner, entre les prop. XIX et XX, sous forme de Lemme, p. 92-107, un aperçu des sections coniques. Incidemment il men- tionne Descartes (toujours sans le nommer) : <' Descriptio Ellipfeos » & Parabolœ. Quàm belle in hortulanorum gratiam tam ellipfim » quàm hyperbolam Vir illuftris defcribat, nullus nescit qui Diop- Œlvres. V. 74
+
+[p. 586] 586
+
+��Correspondance.
+
+��» tricam illius peiiegerit ; caput (S ipla figurarum pulchritudine tam » corporis quàm mentis oculos recréât... >
+
+Page 129 : « Corollarium II {Prop. XXV). De parabolâ helici Ar- » chimedeœ œquali. — Cùm hœc agerem, vir dodus lineam aliquam >) redam proposuit, quam primae reuolutioni abcdefn helicis » aequalem credebat; quam tamen reuolutionem lineà redà propo- » fità maiorem, eamque parabolfe GT tequalcm Geometra noster » demonftrauit... » Suit la démonstration. « Geometra noster » désigne toujours Roberval, dans cet ouvrage de Mersenne.
+
+Voir la lettre de Descartes à Mersenne, du 23 mars 1643, t. III, p. 642, 1. 3-4.
+
+Mersenne avait annoncé un peu auparavant cette démonstration, p. 90 : '< Alias omitto proprictatcs, quôd non poftintclarè latis intel- » ligi absque nouis figuris, qualis cst parabolœ & fpiralis Archi- » medeœ inuenta nouiter œqualitas, de quà corollario 2 prop. 25 » fequentis hydraulicae. »
+
+Page 140-156. Après avoir étudié le jet des eaux, Mersenne essaie de déterminer le poids de l'air, et propose plusieurs moyens, deux entre autres, l'expérience de l'éolipyle (prop. XXIX, XXX et XXXI, p. 140-149), et celle du fusil à vent, fclopehim pneumaticum (prop. XXXII et XXXIII, p. 149-150). Une bonne moitié de la lettre CCXCII de Descartes à Mersenne, du 4 janvier 1643, se rap- porte à l'expérience de l'éolipyle : « Prop. XXIX. Aëris rarefadi 1) atque condenfati qttantitatem, pondus & vires, ac injlrumenta huic « cognitioni feruientia e.vplicare. » (Page 140-144.) Voir notre t. III, p. 6o(), 1. i5, à p. 61 1, 1. 5. La fin de la lettre, p. 61 1, 1. 5-14, se rapporte à des applications médicales de cette expérience, que Mer- senne expose sous ce titre : « Prop. XXX. Organorum quitus aer condenfatur, vel rarefit, tam medicos quàm alios vsus indicare. » (Page 144-6.) — Quant à l'autre moyen de peser l'air. Descartes l'approuve avec quelques restrictions, lettres du 23 février et du 23 mars 1643, t. III, p. 634, 1. 6, et p. 639, 1. 8, et Mersenne l'expose tout au long : « Prop. XXXII. Sclopeti pneumatici conjlrudionem, » vire' & j'sum explicare, & illius ope pondus aëris inuenire. » (Page 149 etc.)
+
+Plus loin, dans sa préiace au Traité de ballistique, qui termine les Cogitata Phff.-Math., il revient sur cette question du poids de l'air :
+
+« V. Addo ad ea quae de modo ponderandi aërem in Hjdraulicis
+
+�� �
+
+[p. 587] Supplément. 587
+
+» diéla sunt, non deell'e plures alios modos, quos inter vnum fuggeffit
+
+» praïftantiflimus Philosophus Honoratus Fabrj^; ex quo modo cùm
+
+» alla multa concludi poflint, ad illius praxim fludiofos prouocarim.
+
+» Sumatur ergo vas vitreum cubicum, aut alterius cuiufuis figurœ,
+
+» idque cuiuslibet magnitudinis, puta cubici pedis ; & fyringe notae
+
+» magnitudinis pluribus vicibus mittatur aër in illud vas, qui
+
+» nequeat egredi ; si enim innotuerit quantitas aëris, quam fyrinx
+
+» quouis impulfu mittit in lagenam, & quantô fit hœc post immiffum
+
+» aërem, quàm antea, grauior, tam aëris grauitas, quàm eiusdem
+
+» moles innotelcet. Qui quidem modus idem est cum eo quem pneu-
+
+» maticà fiftulà expertus sum ; sed in vase vitreo diaphano id insuper
+
+» habet., quôd aëris condenfati seu preffi colores videre poteris. » {Prœfatio in Ballifticam, p. 7-8, non paginée.)
+
+Page 166-167. Mersenne passe à l'étude du siphon, prop. XXXIV à XXXIX, p. 156-172, et dans la prop. XXXVII notamment : Causam afcenfus aquœ per Jîphonem & Jiltrum, attaque injlriimenta pneumatica, inueftigare, il insère unç explication qui traduit parfois, mot pour mot, deux passages des lettres de Descartes. Voici ce texte de Mersenne :
+
+« Porrô, ex illuftris viri fententià placet explicare, quâ ratione » defcendat aqua tam in fiphone quàm in organo Ctefibico (quod » Galli Pompe dicunt,/». i6j). Cùm igitur nullum in naturâ vacuum )) existat, motus omnes circulares sunt, hoc est nullum corpus loco » suo cedit, quin aliud ci succedat, & huic secundo tertium, & ita » deinceps, adeout fiât eodem tempore multorum corporum circulus M veluti concathenatus... »
+
+» Itaque totius mundi partes ita cohœrent, vt vna loco cedere » nequeat, quin eundem locum alia confcftim occupât : vnde fit vt » folles apcriri ncqucant, nisi circumllans aër illos ingrediatur, cùm » nuUus sit alius in mundo locus ad quem fugere poflTit, prœterquam » in ipsos folles : quod qui probe intellexerit, multa foluct, qua; » alioqui ditticilia futura sint... »
+
+\'oir, pour le premier de ces deux alinéas, la lettre de Descartes à Mersenne, du 23 mars 1643, t. III, p. 644, 1. 2(), à p. 645, 1. 8; et pour le second, la lettre du 2 février 1643, ibid., p. 6i3, 1. i5-2i.
+
+Page i93-i<)3. Après la prop. XLII, Mersenne insère un bel éloge de Galilée, que nous reproduisons ici, à cause de la mention qui y est faite de Descartes (toujours désigné par les termes de Vir illustris) et des principaux iiiathématiciens de France en ce temps-là.
+
+�� �
+
+[p. 588] 588 Correspondance.
+
+��Magni Galilœi & nojlrdrum Gçometrarum Elogium vtile.
+
+« lufta laus mihi fcmper visa est, quà viros ftiidiofos profequi » folemus, ob artcs & scientias promotas, & ob inuenta praeclâra, » quibus fcicntiarum orbem illustrant. »
+
+« Quis enim Archimedaeos conatus non solùm laudibus extollat, » sed etiam admiretur, ob incomparabilem de fph;erâ cylindroque » traftatum ? Vietae nostri Speciofam, quec nuUi problemati cedit? » Viri nobilis C. Mydorgij Conica, qujbus ipsum Pergœum fupc- » rat ? à quo si 4 vltimos libros impetres, nil sit quod in hoc » génère requiras. Illuftris viri Dioptricam, quas iumini motum » rertituit, & radijs hyperbolam & ellipfin accommodât; Geome- » triam, quæ veterem vlteriùs promouèt ; & Physicam, quas » mechanicos ad tantam dignitatem prouehit ? Taceo varios iîlos » TTîpt iratswv, de maximis & minimis, de tangentibus, de locis » planis, folidis, & ad sphaeram, pereruditos, quos clariflfimus » Senator Tholofanus D. Fermatius hue ad nos misit ; & alia » praeclâra, quae Geometra noster hadenus ignota demonftrauit : » quîe si numerare veiim, liber fcribendus fit. Taceo etiam fubtilem » Bonauenturœ Cauallieri Geometriam per indiuifibilia ; praecla-' » rofque tradatus, quos ab acutifiimo Tauricelfo Galilasi fucceflbre » breui fperamus. »
+
+« Cuius Galilaei inuenta quis enumeret? Qui solo telefcopio plura » ferè detexit, quàm quiV hadenus innotuerant : quandoquidem » oflendit Lunas luperficiem non œquabilem, nonpolitam, aut exadè » fpha;ricam, sed cauitatibus tumoribufque.Telluris inllar, refertam » elle, cuius pars lucidior tcrrenam fuperticiem. obfcurior aquam " référât, & montes sint terrenis maiorcs ; ^"ene^is circa Solem mota^ » cornua, quœ Mercurius forsan œmuletur; niundum louialcm cum » suis 4 lunulis, quarum tardifiima diebus 14, vt maxime omnium » confpicua diebus odo, circa louem conucrtatur : Saturnum tcrge- » minum ; fubfiantiœ cœlefiis tcnuitatcm incredibilem. qua; tota i> minus habet, qviàm perfpicilli corpufculum. opacitatis, vt pro » vacuû sumi pofiit, cùm minutifllma ilellati C(eli particula oculum » non effugiat. Fixarum numcrum decuplo. vel etiam vigecuplo » maiorem numéro Ptolcmaico. Viam lacteam. minutiHimarum » ftellarum congeriem; nebulofam fiellam, très aut 4 clariflimas » ilellas in arcliflimo spatio collocatas, quarum fadà cum futuris " cometis, aut alijs ccelcfiibus phamomenis, vcl etiam cum lunà
+
+�� �
+
+[p. 589] Supplément. ^89
+
+» collatione, bénéficie parallaxium de illarum altitudine, certiùs » quàm antea, iudicarc poflls. »
+
+i> Fixarum radiofam, figuram, à planctarum figuris rotundis diffe- » rentem; diamfetrofque exadiores; planeras opacos lucem à soie, » Relias à fcipfis habere; solem 28 dierum spatio circa suum axem )) conuerti ; solis maculas, & faculas ; Iblem veluti mare Hudibus >i afperum, & fluduantibus vndis crifpum, & nunquam eodcm » viiltùs habitu ; fcintillationem Iblis, non Iblùm fixis, fcd etiam » planetis (excepta lunà), quanquam Saturno minus, deindc loui, » Marti & Vcneri, maxime Mcrcurio, compctcrc; tam ftellas, quàm » planeras, fuccefiiuc colores iridis induere; Sarurni fuperficicm » cincream, louis rufam vel Hauam, Maigris inllar rcrrcnœ nigram ; » solis corpus in mcdio valde fulgidum, luce ad colorem argcn- » teum vergente ; exrremum disci limbum, quarrà ferè femidiamctri » folaris parre, luce multo dcbiliorc, càque ad colorem rubeum seu » igneum inclinante. »
+
+(i Hœc, inquam, oninia & alia plura relefcopio vir ille magnus » derexir; cuius vcftigia cùm, in ijs quœ grauium motuni naturalem » & violentum, corporumque ram in rcfiftendo quàm in agendo » vires, premani, œmuler aut deleam, cà de re Lcdorem paucis mo- » nitum volui, qui posteriore noflro tradatu difcet, quibus in rébus » praxis Theoriae Galilaei fauear aut répugner. Qui cùm breuem, » ied aureum, de naranribus rraftarum cdiderit, quem non video » tanri quanrus est fieri, meoque ramen instituto pcnitus conue- » nicntem, illius epiromem fequenribus propofirionibus comple- » dor, vbi monumentum legeris quod illi posuit Hetrurias Lyncea » Societas :
+
+Galilceo Galilœo Florenliuo
+
+Philosopho, ô Geomelrce ver'c Lyncxo,
+
+Natuiw Œdipo,
+
+Mirabilium fempcr inuentorum Machiitalori.
+
+« Qui, inconceffà adhuc mortalibus glorià, cœlorum prouincias » auxit, & vniuerso dédit incrementum ; non enim vitreos fphas- » rarum orbes, fragilefque ftellas contlauit, sed aîtcrna mundi cor- » pora Mediceae beneficentiae dedicauit. Cuius inextinda gloriie » cupiditas, vt oculos nationum fœculorumque omnium videre » doceret, proprios impendit oculos, cùm iam nil amplius haberet » natura quod ipse videret. Cuius inuenta vix intra rerum limites » comprehensa firmamentum ipsum non solùm continet, sed ctiam
+
+[p. 590] 590 Correspondance.
+
+» recipit. Qui, reliftis tôt fcientiarummonimentis, plura secum tulit, » quàm reliquit : graui enim, sed nondum effaetà fenodute, nouis » contemplationibus maiorem gloriam affedans, inexplebilem sa- » pientià.animam, immaturo nobis obitu, exhalauit, anno 1642, » œtatis suae 78. » (Page i93-5.)
+
+Dans la Prœfatio ad Leâorem, ajoutée après coup en tête de ces Hfdraulica, Mersenne a fait, sous le numéro 12, cette addition :
+
+<( Duodecimiim : me in Elogio, ad calcem prop. 47, non omnes » nostros recenfuiffe Geometras, sed prœcipuos, vel eos duntaxat » qui mihi venerunt in mentem; alioquin Guilielmum Desargues » non omififfem, qui varijs operibus Rempublicam Geometricam ^ » ornauit, nempc traflatu peculiari vniuerfaliffîmo de fedionibus
+
+» Conicis, alio de lapidum fedione, & alijs tam de Perfpediuà » quàm de horologijs facile defcribendis, & de angulo folido (in » quo etiam vir EruditifTmius Dominus de Beaune defudauit, à quo » noua mechanica fperamus), quos propediem editurus est. Quid » de binis Pafchalibus dixero, pâtre in omnibus Mathematicœ par- » tibus verfatiiïimo, qui mira de triangulis demonftrauit, filio qui » vnicà propositione vniuerfaliffimà 400 coroUarijs armatà inte- » grum Apollonium complexus est. Pallierus, vt vt occultus feque » deprimens, non vltimum locum obtinet, quippe qui omnia ferè » Geometrica elegantiflîmè breuiffimeque demonstrat. Alios plœ- » rofque non commemoro, ne potiùs librum quàm prœfationem » scribere videar... » [Cogitata Phj's.-Math. : Hydraulica... phce- nomena. Prasfatio ad Ledorem, p. 1 1 , non paginée.)
+
+Artis navigandi Page 245-246 : De Magnetis proprietatibus. « ...Tertium, illa L""^*^ "• » versus mundi polos conuerfio non est exadè mcridionalis in omni-
+
+» bus terrae locis, sed plcrumque versus ortum aut occafum poli » magnetis & ferri diuergunt; neque semper ijfdem gradibus docli- » nant, cum ante 3o annos Burrofius Anglus obferuarit Londini » magneticam acum, i58o, gradibus 11 & i5 minutis; ibidem Gon- » terus, anno 1622, gradibus 6 & i3 minutis; denique Gellibran- » dus, anno 1634, gradibus 4 & 6 minutis, tum veterem acum, tum » nouas acus declinaffe; iamque Parifijs declinationem acùs 3 tan- » tîim graduum reperiamus, quœ ante 3o annos, 8 ferè graduum » cenfebatur; & Aquis' Sextijs Gafl"endus noster nuper obferuarit » declinationem 5 gradus minime fuperare. cùm longé antea repe- » riffet illam 9 graduum... »
+
+Voir la lettre de Descartes à Mersenne, du i" avril 1640, t. III, p. 46 et p. 5i-53.
+
+�� �
+
+[p. 591] Supplément. ^91
+
+Page 249 : « 5. Proprietas in ferri tradione multam affert admi- » rationem, cùm nonnunquam magnetes adeô vegeti reperiantur, » vt nudi ferrum decies fepties feipfis grauius ad se trahant, & » tradum retineant : quod expertus sum in paruulo 7 granorum » magnete Danielis Chorij. Sed illa vis tanta nunquam in maiori- » bus inuenitur, qui cùm librales fuerint, si ferri libram trahant, » peroptimi sunt, quales nunquam mihi videri {sic pro vidcre) » contigit. Cùm verô fuerint 2 aut 3 vnciarum, ferri pondus du- » plum toUere polTunt, quandoquidem apud eundem expertus sum » magnetem fefquunciœ, ad minimum trahere duas ferri vncias. » Quotiefcunque magnes librœ dimidiœ ferri pondus sibi aequale » traxerit, robuiHflimus dicendus ; û vel 4 aut 2 vncias trahat, » melioribus annumerandus. »
+
+Page 25o : « Hic autem primo videtur admirabile, quôd illc » paruus magnes, ferrum 17 se grauius trahens, auulfus aut exfedus » fuerit ex eo. qui ferrum duplô tantùm se grauius trahit. A'nde » confiât hune m'aiorem in similes paruulos fedum, oduplô gra- » uius ferrum ad se tradurum, quàm ante diuisionem ; atque adeô » vires diuifas hic esse vi iundà oduplo fortiores, li^cet totus ille » magnes in puluerem redadus, & glutine fubtiliflimo rcdintegra- » tus, nil amplius trahat, & virtute dirediuà careat, forte ob infi- » nitas propemodum polorum inimicorum oppositionem & com- » mixtionem. Sed experiundum effet, num puluis vnicus, arenœ » Stapulenfis grano œqualis, ferri similes pulueres trahcret, quotue » numéro traheret ; cur cnim puluis vnicus, ex magnete Chore- » ziano lima vel alio modo abrafus, 3oo ferri pulueres non trahat, » si quo minor detrahitur magnes, < eô > plus ferri trahit?... »
+
+Voir la lettre de Descartes à Mersenne, du 11 mars 1640, t. III, p. 42, 1. 12-17.
+
+Parmi les problèmes légue's par les Anciens, il en est deux sur- Harmonie tout qui furent à l'ordre du jour dans le monde des géomètres au Liber IV. xvn siècle : celui de la duplication du cube (cas particulier du pro- blème de deux mojennes proportionnelles), et celui de la trisection de l'angle. Descartes les résolut l'un et l'autre, par une méthode à lui, dans sa Géométrie, t. VI, p. 469-471. En particulier, la solution qu'il donne, pour les deux moyennes proportionnelles, avait l'avan- tage de ne recourir qu'à une seule parabole et un cercle, tandis que les autres solutions exigeaient deux paraboles, ou bien une parabole et une hyperbole. D'autres géomètres s'étaient-ils également avisés de cette solution par le cercle ? Oui, certes, comme nous le voyons
+
+[p. 592] ^9^ Correspondance.
+
+par un traité de Fermât, publie en 1679, ^^ l"^' ^^ retrouve dans l'édition de Paul Tannery et Charles Henry, en 1891, t. I, p. 107. Mais nous ne savons pas la date de ce traité, ni si Mersennc en eut connaissance ; à coup sûr. Descartes l'ignora toujours, et trouva de lui-même sa solution. Bien avant la publication de sa Géométrie (1637'), il était en possession de ce procédé, comme en témoigne la communication qu'il en fit à Beeckman l'hiver de 1628-9 (voir ci-avant, p. S42-347]. Peut-être même faut-il remonter jusqu'à 1620? En tom cas, à la date de 1644, Mersenne, dans ses Cogitala, lui en attribue la première invention. D'où l'importance du passage suivant ;
+
+« ...Omitto varia huius inuenta l'aveuli: quales sunt.duœ per » plana mediœ proportionaies. & trifedio anguli ; motus aliqui » perpetui ; quadraturœ; circuli, & id genus alla, de quibus nil affir- " marim, doncc ad lapidem Lydium reuocentur : quanquam nuUus » sit nostrorum Geometrarum, qui non agnofcut fupplementum » Vieta;, quo spem fecerat autor duplicationis cubi, nullà rationc » suum Icopum attigilTe. » (Page 368.)
+
+(Page 369.)
+
+In Mechanica Page 1-2. Paul Tannerj', dans l'édition des Œuri'es de Fer- PR.tKATio. jji^ji^ t. I, p. 195, publie, sous le titre : < Ad Bon. Cavalieri Qiiivftioties Refponfa >, un morceau jusqu'alors inédit, où Fermât résume ses premiers travaux sur les quadratures et cubatures. « Mersenne, ajoute Tannery, a reproduit presque textuellement la » plus grande partie de ce morceau dans la Prccfalio ad Mecha- » nica, IV, de ses Cogitata Physico-Mathematica, où, venant de » parler des quadratures obtenues par Roberval, il s'exprime ainsi » sur les travaux de P'ermat... » Suit la reproduction du passage, où d'ailleurs Fermât n'est pas nommé, mais seulement ainsi désigné « vir alius summus ».
+
+Les Cogitata Physico-Mathematica furent publiés en 1644. Trois ans plus tard, Mersenne revint sur cette publication, dans scs./?e/7e- âiones Physico-Mathematicœ, en 1647. Et ce dernier ouvrage donne, cap. I, p. 71, une double indication, que voici :
+
+�� �
+
+[p. 593] « ...Quintus Articulas quœdain attinget circa Pnefationem in » Mechanica, & quidcm primo quiE III Pundo de centris grauitatis » dicuntur, à nobiii viro Rt-naîD Cartesio inueata,& quie IV Pundo » referuntur, ab alio v. Illullr. Fermatio conclufa. » (Page 71.)
+
+Si l'on se reporte à l'ouvrage de 1644, on y trouve, en effet, au n° IV, le texte de Fermat, qu'a signalé Paul Tannery ; et ce texte est precédé, au n" III, d'un autre texte, qui n'est pas de Roberval, comme l'a cru Tannery, mais bien de Descartes, comme le déclarera, en 1647, Mersenne lui-même, et comme le prouve un passage d'une lettre de Descartes (voir t. 11 de notre édition, p. 248, I. 8, à p. 24<), 1. 23), dont ce texte latin n'est que la traduction. Cette lettre, du 13 juillet 1638, n'ayant été imprimée qu'au second volume de Clerselier, en 1659, le texte de Mersenne, en 1644, en constitue une publication anticipée. Le voici donc en entier :
+
+« III. Hic nonnulla vtrifque addi gaudebit Ledor ; idque impri- » mis quod vir Illuftris animaduertit, quodque iam ad Priefationem » verfionis Gallicae Dialogorum Galilei reperies à nobis allatum, » circa grauitatis centra. » i^V^oir ci-avant, p. 561-563.)
+
+« Sit igitur curua linea EAS, irtiufmodi conditionis &. natura*, » vt diametri illius AC fegmcnta AL & » AB, verbi gratià, eandcm inter le ratio- » nem habeant, quàm ordinatarum punclis » L & B applicatarum, hoc est redarum » KL & DB, cubi : fitque prasdida; figurai '^ curuœ EASE axis AC : qui si fueriî ita •) diuifus in pundo B, vt AB sit ad BC vt 4 n ad 3, erit centrum grauitatis irtius figurœ 1 » in B. Si prœdida fegmenta AL & AB » sint ad praedidas ordinatas vt ordinatarum » <quadrato-> quadrata, fiât AB ad BC » vt 5 ad 4. In alijs verô dignitatibus altio- » ribus, fegmenta fiant vt 6 ad 5, vt 7 ad 6, » vt 8 ad 7, & iia de reliquis in infinitum. «
+
+« Prœterea, si AC ad angulos rcdos infiftat basi EF, fitque EAS j> conoideum, à curuà EA vel AFcirculariter circa AC axem motâ » defcriptum (basi EF circulo existente), centrum istius conoidis » reperietur, si AB fuerit ad BC vt 5 ad 3, quando fuerit EAS » curua, de quà priore loco dictum, hoc est ciim axis illius seg- " menta fuerint inter se vt ordinatarum cubi. <
+
+« In conoideo i'equente, fedio axis erit vt 6 ad 4 ; & aliorum )) rursus lequentium, vt 7 ad 5, vt 8 ad (>, & ita in infinitum. »
+
+ŒuVRE). V, 7'
+
+��� �
+
+[p. 594] ^94 Correspondance.
+
+« Sed & areas illarum figurarum habes : primae quidem, quôd » triangulus infcriptus EAFfit ad aream curuà EDK AGF & reftà » EF comprehenfam, vt 4 ad 6; in fecundà, vt 6 ad 8; in tertià, » vt 10 ad 6; in quartà, vt 12 ad 7 ; & ita de reliquis in infinitum. »
+
+« Porrô, si fuerit EAS primum conoideum, est ad infcriptum » conum vt g ad 5 ; si secundum, vt 1 2 ad 6 ; si tertium, vt 1 5 ad 7 ; si » quartum,vt 18 ad 8; si quintum, vt 21 ad 9; & ita in infinitum. »
+
+« Denique, ad tangentes inueniendas, si prima curua tangatur in » pundo E à redâ EM, erit A M dupla AC; tripla, in fecundà; » quadrupla, in tertià; quintupla, in quartà; & ita in infinitum. » (Ici s’arrête la traduction.)
+
+« Est etiam obferuandus triangulus EAS, quem non solùm de- » monftrauit Archimedes lib. de Parabolœ quadrature, prop. 24, » fubfefquitertium parabolœ EAS, sed etiam triangulum cuiuis » parabolajportioni, curuà &re(flà comprehenfae, infcriptum : quale » est triangulum A G F, vel quale foret aliud triangulum portion! » AGF infcriptum, esse similiter illius portionis lubquadruplum ; » quœ ratio in infinitum progreditur. »
+
+Vient ensuite le n» IV, que cite Paul Tannerj-, et qui se rapporte à Fermat. Mersenne fait précéder et suivre le texte de Fermat des deux alinéas suivants :
+
+« IV. Generalem etiam regulam ’N'ir alius lummus inuenit, quà » prœdida foluit, non solùm quando partes diametri cum applica- » tarum poteftatibus conferuntur, sed etiam cùm quœlibet partium » diametri poteftates cum quibuflibet poteftatibus applicatarum » comparantur : qucC quia satis compiodè figura -prœcedenti pofTunt » eo modo intelligi, quo ipse voluit, me requirente, Bonauenturae » CauallieroGeometrîe fubtiliftimo innotefcere, ijfdem Ledor noster » perfruatur. »
+
+« Sitque propterea EAS parabola quœuis... vel cylindri ad soli- » dum. » {C’est-à-dire tout le texte de Fermat, t. I, p. 196, l. g, à. p. igj, l. 24, de l’édition Tannery et Henry.)
+
+« Si verô figura circumuoluatur circa EF, solidum generatur, » non simplex, vti superiora, sed compositum; cuius rationem ad » cylindrum ambiens, & centrum grauitatis Vir idem summus, & » noster Geometra [Roberval]^ dudum eruêre : à quibus tam om-
+
+a. « Noster Geometra » désigne toujours Roberval, dans les ouvrages de Mersenne, comme celui-ci le déclare lui-nlême : « Clariftîmus enim » D. de Robernal, quem aliàs nostrum appelle Geometram... » [Reflectiones Phys.-Math., p. 71.) C’est probablement cet alinéa final qui aura trompé Paul Tannery.
+
+[p. 595] Supplément. 59^
+
+» nium curuarum tangentes, quàm areas, solida, & centra graui- » tatis omnium figurarum curuis & redis comprehenfarum possis » accipere. »
+
+Page i2-i3 : « Prop. III. — ■ Veâis naturam & proprietates iuxta Mechanica » ClariJJimi viri cogilaliones explicare : & varias Arijlotelis qiuv- Ph'Enomena. » Jiionesfoluere, vel foluendarum methodum tradere. »
+
+Toute la de'monstration qui suit, p. i2-i3 : « Sit CH veflis, » ...dupla fuerit lineœ OI », est la traduction, mot à mot, d'un texte de Descartes, dans la lettre à Mersenne, du i3 juillet ib38, t. III, p. 235, 1. I, à p. -237, 1. 23. La figure est exactement la même que celle de la p. 236, et les lettres sont aussi les mêmes. Le texte de Descartes a d'ailleurs pour titre : « 3 Exemple. — Du Leitier. »
+
+Mersenne agissait ainsi, après avoir demandé et obtenu l'autori- sation de Descartes, comme nous l'apprend une réponse de celui-ci, du 2 février 1643, t. III, p. 61 3, 1. 23-27 • " P^"'" '^^ ^^'^^ ^°^^ » plaist d'employer en vos escrits quelque chose de ce que i'ay escrit » des Mechaniques, ie m'en remets entièrement à vostre discretion, » & vous auez pouuoird'en faire tout ainsy qu'il vous plairra. » Et à ce propos, corrigeons une erreur commise par nous, note a de cette p. 61 3. Trompés par ces mots : «ce que i'ay escrit des Mecha- niques », nous avions cru qu'il s'agissait du petit traité de sep- tembre-octobre 1637, t. I, p. 435, etc. Mais ce petit traité, adressé à Huj'gens, n'était sans doute point sorti de Hollande, tandis que Mersenne entendait un autre traité, qu'il avait reçu lui-même à Paris, au sujet de la question géostatique, comme en fait foi, outre le passage cité ci-avant, l'alinéa qui va suivre, plus d'autres passages encore que nous citerons, et qui sont également traduits du texte de Descartes.
+
+Page 24: « ...Porro, antequam veéti & librae finem imponamus, n iuuat hîc celeberrimam quaestionem, quœ Geoftatico tradtatui » nomen dédit, proponere : num videlicet corpus idem minits aut » magis grauitet, cùm centra îerrœ vicinum ejl, cùm per libram in » illo traftatu examinata fuerit. Si priùs monuero ad pcrfedam » istius difficultatis solutionem videri necessarium, vt cognoscatur » causa grauitatis : num sit aliqua qualitas interna corporibus, an » traftio terrœ, an impulfio aëris, aut quidpiam aliud? Quod cùrn » nondum innotuerit nobis, grauitatis conceptum vulgarem fuppo- » nemus. »
+
+Cet alinéa termine la prop. VI. Vient ensuite la prop. VII, que Mersenne énonce ainsi, p. 25 : « hum idem corpus graue minus aut
+
+�� �
+
+[p. 596] 596
+
+Correspondance. 
+ » magis ponderet, quo minus atit mapçis ad terrœ centrum accèdit, 
+ » inquirere, varijfque modis soluere. » Après deux alinéas, qui sont de lui, Mersenne continue : ■• Placct autem Illuftris viri hac de re, » quani ad me misit, sententiam cxponerc, quà dignofcatur, quo » fcnfu dici poiïit corpus aliquod esse grauius. cùni sit terrae centro » propius. Quaproptcr sit A terrai centrum,... Igitur leuior erit aqua » centro propior. » La dernière partie de la p. 25, et la p. 2b tout entière, correspondent exactement aux p. 238 à 241 de Descartes, dont elles ne sont même le plus souvent que la traduction mot ù mot.
+
+Ce qui suit dans Mersenne (toujours comme démonstration de la prop. VII) : « Superest explicandum, quà ratione corpus idem graue, » centro pro-(;7. 27) pius cùm sit, grauius dici poflit. Sit A terras centrum, fitque BD libra... », jusqu'en haut de la p. 29, est traduit du texte suivant de Descartes, t. III, p. 242 à p. 244, 1. 18, avec la même figure de la p. 243, et les mêmes lettres.
+
+Page 3 1 : n Prop. IX. — Trochleas explicare & ad veâem referre, » planique inclinati mechanicum auxilium inuejtigàre. » Toute la p. 32 reproduit, en abrégeant un peu, et en changeant les chiffres (40 livres et 20 livres, au lieu de 200 et de 100) le texte de Descartes, t. III, p. 229-230 : « Premier exemple. — De la poulie. »
+
+A la p. 33, 1. 12, Mersenne passe de la poulie au plan incliné : « De quibus postea fufiùs, nunc enim piani inclinati proprietas expli- )) canda. Sit igitur planum horizontale C B... » Et la traduction ou paraphrase reprend, p. 33-34, correspondant au texte de De.s- cartes, t. III, p. 232 : « 2 Exemple. — Du plan incliné », jusqu'au bas de la p. 233, 1. 26. Ici toutefois Descartes fait une distinction, que ne reproduft pas Mersenne : « Notez que ie dis commencer a » de/cendre, & non pasfimplement de/cendre... » (1. 27-8). Mersenne met simplement « neque tamen descendere potest », et passe ici les quelques lignes dans lesquelles Descartes explique sa distinction (p. 233, 1. 27 à 1. 3o). Mais aussitôt après, la traduction recommence pour le texte de Descartes, p. 234, 1. i8-3o. Et revenant en arrière, il reprend, pour le traduire en cet endroit, l'alinéa omis précédem.- ment (p. 233, 1. 3o, à p. 234, 1. 18).
+
+Mersenne continue : « Hac autem ratione vir Clarillimus ea de- » monstrat, quœ ad prœdidum planum attinent. Sit igitur N O, quae » primam potentiœ dimenfionem référât,... esse fubduplum ponderis » à C ad A fublati. » (Page 34-35.) Et tout ce passage est traduit d'un autre texte de Descartes, emprunté à la lettre du 12 sept. i638, t. III, p. 358, 1. 20, à p. 36o, 1. 5,
+
+[p. 597] Supplément. 597
+
+Page 87 : « Aliam lUuftris viri cogitationem explico, qui similiter » vim percufTionis in motùs velocitate collocat. Sit igitur mallcus E )i ccntum librarum. & vnico velocitatis gradu defcendcrc incipiat : » incudem in H punclo intelledam illà solùm vi seu potcntià prc- » met, quam gradus vnicus centum libris leu malleo tribuit. Si verô » malleus alter vnius librae velocitatis gradus centum habeat pcrcu- » tiendo, œquè premet incudem ac piimus centum librarum mal- » leus. »
+
+Voir la lettre de Descartes à Mersennc, du 25 décembre i63(). t. II, p. 63o. Mersenne traduit même, mot pour mot, le passage 1. 16 à 29. L'alinéa suivant reproduit quelque chose qui précède dans Descartes, 1. io-i3. Le voici :
+
+<< Cùm igitur iblutio reliqua pendeat à velocitate quû pondus cor- » pori percutiendo impositum primo momento moueri postulet, & » multi post Galilaeum arbitrentur, graue, seu pondus quodpiam, à » quiète ad qucmuis terminum peromnes tarditatis gradus transire : » non video in eà fententià, qui pondus, folà preflione, mallei mo- » tum seu percuffionem compenfet. » (Page 87.)
+
+Page 22 et suiv. A comparer avec un passage de la lettre de Des- Bamistica cartes à Mersenne, du 26 avril 1643, t. III, p. 65o, 1. 20, à p. 65 1, Phanomena. 1. i5. Mersenne s'exprime ainsi : « Pi-op. IX. ladiis diiier/orum » arcuum maximos, tant feciindum longitudinem quàm velocitatem, » iniiicem comparare... Hic autem duobus prœfertim arcubus vtor : » ligneo 5 pedes & -, & chalybeo 2 pedes & 2 digitos longo... » Voir aussi Prop. XXXV de Mersenne, p. 122-12.S.
+
+Page 33 : « Prop. XIII. Quam ob causam fagiltœ minus temporis » in afcenfu, quàm in defcenfu perpendiculari confumant, inuejîi- » gare. » Voir, sur cette question, la lettre de Descartes à Mersenne, du 26 avril 1643, t. III, p. 607, 1. 4-25.
+
+Page 45 : « Prop. XVI. Quid circa pendulum, quod aliqui vocant » fexhorarium, contingat, ex obferuationibus aperire. » C'est l'expé- rience que Descartes jugeait si remarquable, dans sa lettre à Mer- senne, du 3o mai 1643, t. III, p. G74, I. i-i i, et qu'il refit lui-même en Hollande. Mersenne s'exprime ainsi :
+
+« Sit pendulum B F, 3o pedes aut quantumuis longum, clauo L » ita confixum vel alligatum, vt in acre moueri possit in omnem » partem ; fitque linea meridiana H A, D oriens, & C occidcns. Sunt » qui crediderint filum illud pendulum V B nunquam quiefcere, sed » quotidie bis à meridiana lineà dimoueri circa E, per vnius vel alte- » rius linea; spatium, adeout illo motu plumbi in pundo B appenfi
+
+�� �
+
+[p. 598] 598
+
+��Correspondance.
+
+���D
+
+��"7
+
+��c
+
+��B
+
+��» fiât 12 horarum fpatîo figura qutedam elliptica, qualis ert figura » G H I K, & plumbum ex pundo meridiei G, sex horarum spatio
+
+» ad I, & alijs sex horis ex I ad G redeat ; » & quolibet meridiei mediasque nodis mo- .) mento, in pundo G duabus circiter horis » quiefcere videatur, in fpatijs verô inter G » & I interieétis paulô velociùs moueatur. » Quod quidem Phfenomenon viris clarifli- » mis ita placuit, vt istius motùs varias ra- » tiones commenti sint, crediderintque fieri » motum à G in I, non per H, sed per K, ab » I verô ad G per H redire pendulum. »
+
+« Porrô, vix credibile, quanta conclusio- » num vel coniedurarum feges ex illo cre- » dito vel supposito Phœnomeno pullularit : » verbi gratià, fluxum & refluxum maris pen- » dulum impellentem, terras centrum dimo- » tum, longitudinum inuentionem, horolo- » gium perpetuum in partes quotlibet diuifum, vt maxima diameter » ellipfeos GI in 4 partes diuiditur; & alia id genus fexcenta, quce » homines ex aliquo Phœnomeno extraordinario deriuare solent. » « Sed hasrebat animus, num forsan obferuatores decepti fuissent » ob funes intortos, vel fila siue channabina, siue bombycina, quœ, pr^terquam diutiffimè detorquentur dum fufpenfum plumbum in orbem agitur, omnibus aëris mutationibus sunt obnoxia. Qua- propter filo sum vsus argenteo, per foramen chalybeum dudo : cuius obseruatio clariffîmè docuit, nullum in eo motum siue 6 siue centum horarum spatio fieri : manè siquidem in lineâ FB positus, in eàdem pluribus diebus pluribufque testibus permanfit. » (< Vnde concludendum, quanta sit in obferuationibus adhibenda » diligentia, priusquam illarum rationes, & causae, vel vtilitates, » quasrantur : nisi enim de fado satis constet, quid vlteriùs » inquiras? » (Page 45-46.)
+
+Descartes n'avait donc pas tort de se méfier; et c'est peut-être cette méfiance de son ami, qui amena Mersenne à refaire lui-même l'expérience, & à constater qu'elle était erronée. Mersenne ajoute d'ailleurs :
+
+« Huic autem Phœnomeno falfô credito quidpiam simile conti- » giffet in 5 nouis planetis louialibus, quos nonnemo 4 Medicasis » addebat, & iam de nouenario Mufarum numéro hisce 9 planetis » comparando viri dodi cogitabant, nisi fœlicifllmus obferuator
+
+�� �
+
+[p. 599] Supplément. 599
+
+» fideliiTimulque Gaflendus hune errorem abfterfiffet, epiftolà in » lucem édita, quà demonstrat ftellas pro planctis acceptas. » (Page 46.)
+
+Page 65 : Prop. XXI. — Data verticali eiaculatione, dare inclina- tam (S- hori-^ontalem ; datâque }iori\ontali, dare verticalem.
+
+Question posée par Mersenne à Descartes ; voir la lettre de celui- ci, du 23 mars 1643, t. III, p. 639, 1. 23, à p. 640, 1. 3. La démons- tration, que donne Mersenne, occupe les pages 65-6(S de son ouvrage.
+
+Page 74 : Prop. XXIV. — Jaculorum folarhim robur, velociiatem & longitudinem dimetiri : vbi fundamenta rejlexionis ac refraâionis explicatitur.
+
+Mersenne fait suivre sa démonstration, p. 74-80, d'un appendice, dont la première partie, Monitum primum, renferme un passage relatif à la Dioptrique de Descartes :
+
+« De luminis velocitale ac tarditate. — Sint iacula folaria, atomo- » rum rotundorum vel materiœ fubtiliffimte motus, vel quidquid » libuerit : an illorum motus à soie vel ftellis ad nos vsque inftan- » taneus est? Certè, si quoties videmus solem aut ftellam, necesse » fuerit ab illius corpore ad vniuscuiusque oculum particulam ali- » quam aduenire, verbi gratià, si quando sol surgit ex horizonte, » iaculum atomicum ex suà pharetrà depromat : si motus non sit » inftantaneus, admirabili tamen velocitate 1200 terrœ femidiame- » trorum spatium tranfcurrit, cùm vix super horizonte pars eius » aliqua emineat, quin eodem tempore fpeflantium percutiat oculos. » At verô, si Dioptricam illuflris Viri fequimur, non erit ille motus » admirabilior illo motu, quem lapis baculi extremo fuprapofitus » infert manui alteri extremo adhibit^, quod perinde fiet si baculus » à terrœ superficie ad ftellas vsque produdus intelligatur : digitus » enim baculo fubpofitus perœquè & eodem momento fentiet pon- » dus baculi extremo ilellis vicino vel etiam ftellas spatio quouis » fuperanti alligatum, que perciperet motum eiusdem ponderis, si » baculus vnius effet hexapedœ. Idemque cogita de soie fubtili cui- » dam orbis magni materiœ incumbente; quœ cùm per omnia cor- » pora diffufa sit, sol non potest illam reélà premere, quin oculus » motum ilium percipiat, siue motus ille sit velociflimus, siue paulo » tardior. » (Page 80.)
+
+�� �
+
+[p. 600] 6oo Correspondance.
+
+Lettre CCCLX, a Picot, 8 novembre 1644. {Tome IV, page 14.7.)
+
+VOYAGE DE MERSENNE.
+
+Le voyage de Mersenne, dont il est ici question, avait sans doute été retardé. Car Constantin Huygens en parle déjà, dans une lettre à Calandrini, datée du 3o août 1644, « Devant le Sass » (de Gand). Voici cette lettre, dont une copie MS. se trouve dans les Lettres françoifes de Huygens, t. H, p. i.S3, à Amsterdam, Bibliothèque de l'Académie des Sciences,
+
+« Monsieur,
+
+« Ne vous eftonnez pas, si je vous recommande un Moine dans
+
+» Geneue. En voyci un qu'on y cognoitt aireurement, & qu'on y doit
+
+» moins haïr que tout autre, pour l'a candeur, & ce grand sçauoir
+
+» qui le rend amy de tous ceux qui ayment les belles lettres. C'est
+
+» donq le Père Merlenne, Minime à Paris, aueq qui, sans l'auoir
+
+» jamais veu, j'entretiens depuis beaucoup d'années une intelligence
+
+» lettrée tres-aggreable. Il va faire un tour à Rome, contre mon
+
+» advis, notez omden mutfaert, & je l'en ay fouucnt diffuadé. Apres
+
+» tout, Monsieur, c'eil un personnage à tout, mais surtout, profond
+
+» philosophe musicien : tefmoing, de grands volumes qu'il en a
+
+» escrit. le luy donne celle adreflTe à son instance, & vous prie de
+
+» le veoir de bon œil, & pour son mérite & pour l'amour de celuy
+
+» qui ne mérite rien, qu'en tant qu'il eil, Monsieur, &c. »
+
+Dans une autre lettre, écrite le même jour, 3o août 1644, Huy- gens recommande Mersenne, pour qu'il puisse visiter, en passant, le château d'Orange, alors sous la dépendance du Prince de ce nom. {Ibid., t. H, p. 187.)
+
+�� �
+
+[p. 601] Supplément. 6oi
+
+Lettre CDXLIII, Chanut a Descartes, 25 août 164G. [Tome IV, page 4-3-474-)
+
+Le texte complet de cette lettre se trouve à Paris, Bibl. Nat., Aïs. fr. 17962 p. 570 verso -d p. 574 perso. Le voici donc m extenso.
+
+Monjteur,
+
+Vojîre lettre du i5 Juin m'a donné de la confusion. Si j'auois cjlé homme de parolle, elle m'auroit trouué fort aduancé dans la leéîure de vos Principes; & cependant je n'ay quaji pas ouuert le Hure, & par l'opinion, que me fuggere la parejje, que mon employ ne me laijfera jamais ajfe'^ de temps pour me satisfaire en vne leéîure qui veut vn homme tout entier. Il cjl vray que je ne suis pas le mai/Ire de mon temps. & que la fujedion de la Cour & des affaires m'en consomme la meilleure partie. J^espere neantmoins que les longues nuicls de lafaijon qui nous va renfermer, me permettront de me donner vn peu à moy mesme ; & alors, si je ne trouue moyen de m'efchapper aux affaires, j'en defefpereray pour tout le temps de cet
+
+'5 employ, & remettray mon inflruction au temps qu'en quelque petit coin de la France, je viuray en repos & en liberté.
+
+Cependant, Monjîeur, la honte du reproche que je me suis fait à moy mesme, lisant voflre lettre, a efîé bien
+
+20 recompenféc par d'autres choses qui me confolent merueil- Icujément. Je ne pretens pas que le chemin que vous aue;^
+
+5 après liure] lacune, semble-t-il, dans le MS.
+
+Œuvres. V. 76
+
+��10
+
+�� �
+
+[p. 602] 6o2 Correspondance.
+
+trouué à rejîablijj'ement de quelques principes de Morale, par la connoijjance de la Phijique, me puijfe Jamais fer- uir : je ne me sens pas ajfe:^ fort pour marcher sur vos pas; mais Je me refïouis, d'vn coflé, en ce que fapprens qu'il neji donc pas impoffihle d'auoir quelque chose de 5 ferme & certain en cette matière, dont J'ayfouuent douté, n'ayant rien trouué dans les Hures qui me contentafl; & d'autre part, J'ose quasi esperer que la charité vous per- fuadera quelque Jour d'en donner communication au pu- blic, sans considerer si ceux qui sont preuenus des opinions lo de l'Escole ou de Jaloujie, le méritent, mais pensant au bien inefîimable qu'en tireront ceux qui, à l'aduenir, ejlu- dieront à la vraye sagesse. Si Dieu auoit disposé ma vie en sorte que J'en puisse pajfer vne partie près de vous, J'efpererois que vous ne m'en refuj'erie-^ point quelque i5 chose, auparauant mesme que le public le receujl ; mais, en l'estat où. Je suis, Je ne le demande point, & Je Juge mesme que telles choses ne s'expliquent pas commodément en parcelles & par lettres. le ne peux vous dissimuler que, de toutes les choses humaines, Je nejlime rien tant que ces 20 connoissances , & que, si Je pensois que la méditation d'vne année entière me pufî donner vn seul fondement bien as- feuré. Je quitterois tout autre employ pour cette acquis- tion : non point pour en faire parade, mais pour mon vfage particulier & la direéîion de ma vie. 2 5
+
+J'ay eu vne autre Joye en voflre lettre, oii Je remarque vn changement de ce degouji que vous me tefmoignafîes à Amflerdam : pu is que vous auei^ escrit quelque chose des passions de Vame, vous nèfles plus en colère contre nous, & vous ne vous tiendrez pas de nous faire encore plus de 3o 4 que omis MS.
+
+�� �
+
+[p. 603] Supplément. 603
+
+bien. Car je crois, Monjieur, que je raisonne bien, ju- geant bien qu'il n'ejî pas po£ible que ces aéîions les plus communes de l'ame soient exaéîement connues, qu'on ait donné vne grande atteinte à la nature de l'ame me/me & 5 à sa liai/on auec le corps, qui sont mijîeres jusqu'à present fort cache^. Et c'esl de cela que s interprète ce que vous adjoufie'^, que volontiers efcrirc'^ vous quelque chose de plus.
+
+S'il y auoit des gens au monde qui voulujfent lire vos
+
+10 ouurages, c'ejî à dire, comme je l'interprète en vérité, qui vouluffent se laisser infîruire, puisque nous n'auons plus que cette raison à vaincre, vous ne fçaurie:^ nous refîjîer longtemps. Vous ne voudrie:^pas ejîimer vos disciples par le nombre, n'y refuser de faire bien aux bons par iauer-
+
+1 5 sion contre les mauuais. Jefçay qu 'il ne manquera point de très honnefîes gens qui vous sollicite{r6)nt de nous donner ce petit traicîé des pafjions ; je me joinéls, Monsieur, à leur compagnie, & vous conjure de nous faire ce bien, en mon particulier ; bien que je n'en jouiffe qu'en commun,
+
+20 <& peu à proportion de mon intelligence très médiocre, je me tiendray obligé, comme s'il auoit ejlé fait pour mon en feignement particulier.
+
+Jepajfe sans hefiter à voflre aduis, que le secret de mes- prifer la vie, j'entends de n'en pas craindre la perte, ejl
+
+2 5 sans comparaison plus grand, que ccluy de la conferucr pour quelques années. Mais je le juge d'autant plus diffi- cile à trouuer, que le hasard, qui nous donne beaucoup de remèdes pour l'vn, ne peut rien pour acquérir Vautre, qui confifle tout en la connoissance morale de nostre fin. Or
+
+4 atteintel attente MS. — 12 raison] maison ib. — 17 traidé] traid ib.
+
+�� �
+
+[p. 604] 6o4 Correspondance.
+
+comme je n'ay rien appris de Seneque & de pareils cau~ feurs pour l'intelligence de ce secret, je tiendray à vne grâce Jignalée le moindre cfclaircijfement que vous nous y donnere"^.
+
+Je vous efcris, Monficur, auec vne certaine confiance, 5 qu'il semble, a qui ne me connoijlroit pas, ou qu'vne très ejîroiéle amitié de quarente années, ou que quelque chose de pareil dans les inclinations, m'auroit donné cette li- berté. Pour ce dernier, j'auoue qu'il y a vne si grande dijlance de vos pensées aux miennes, & que je me sens si lo foible auprès de vous, qu'on serait trompé de penser que vous m'aimafiie'^par rejjemblance. Quant à l'autre, je ne vous peux celer, que mon cœur efi tellement porté à vous aimer & re/peûer, que si je n'ay les mérites d'vne longue affeélion, j'en ay la chaleur & la fermeté, & l'esperance i5 que le temps me donnera ce seul auantage qui me manque pour viure auec vous comme je le desire, & efire creu plai- nement, disant que je suis,
+
+Monsieur,
+
+Vofire très humble 20
+
+& très obeifiant feruiteur, Signé : Chanut.
+
+��Lettres CDL, CDLII et CDLXl. {TomeJV, pages SsJ et 525, 53i-2, 5So.]
+
+FONTAINE DE HORNHAUSEN.
+
+Sur cette fontaine de Hornhausen, dont la vogue merveilleuse se répandit jusqu'en Suède à la cour de la reine Christine, on trouve
+
+�� �
+
+[p. 605] Supplément. 6o^
+
+des renseignements curieux dans la correspondance de Chanut, alors rtfsident de France à Stockholm. Voici des extraits de trois lettres, écrites par lui cette même année 1646. (Paris, Bibl. Nat., MS.fr. 17962, Négociation de Monjieur Chanut en Suède, années 1645 et 1646.)
+
+« A M. de Gremonuille. Stockholm, 11 août 1646. — ...On a » rapporté tant de merucilles, atteflées par escrit, d'vne fontaine » qui a paru depuis quatre mois auprès d'Afcherfleben au duché » d'Alberftat, en vn lieu où il n'y en auoit jamais eu, que Monsieur » le Conneftable de la Garde, aueugle depuis cinq années, s'elt » refolu d'y aller pour recouurer sa vciie; comme a fait Monsieur » le Marefchal Torftenfon, qui de Strafiond est retourné, sur cet » aduis, en esperance de garir entier-ement de ses gouttes pour » l'auenir, & recouurer la vigueur de ses jambes qui en sont de- » meurées inutiles. Ce qu'on raconte des effeds de cette fontaine » elt incroyable : elle redonne la parole aux muets, l'ouic aux » sourds, & je dirois volontiers la richesse aux pauures, puisqu'on » publie qu'en sa dissolution on a recogneu clairement qu'il y a de » l'or potable méfié. Sur cela, les chimiftes disent merueilles; car » cette race de gens s'eftend jusqu'icy, & prétendent que cette » eaije ert vne demonstration manifelte de la médecine vniûerfeile » qu'ils cherchent en leur solution radicale de l'or. » [Page 53j, recto et verso.)
+
+« A M. Bralîet, 1 i août i()46. — ...On a apporté icy des attcfta- » tions en vers & en profc, fcellécs & bullées, d'vne merueilleufe » fontaine près AfcherOeben en Albcrftat, que, s'il cil vray ce » qu'on en dit, ce sont des miracles continuels : les sourds enten- » dent, les aueugles voyent, les boiteux marchent droit, & enfin » les goutteux y gueriffent nettement sans retour & recouurent la » première vigueur des parties affoiblies. M' Tortcnfon y est allé, » & dans trois jours Monsieur le Conneltable, aueugle depuis cinq » années, y va sur deux vaiifeaux que la Reine luy donne pour tra- ■» uerfer en Allemagne. Si M. Torftenlon & luy reuicnncnt fains, » je ne crois pas que le desir de reuoir la patrie empcfchc Monsieur » de la Tuillerie de faire ce voyage, auparauant que retourner en » France. Ledid sieur Connertable m'a dit qu'en la dillolution de » cette caiie on y a irouué de l'or radicalement diflbus. Et sur cela » les chimiftes triomphent, car nous auons icy de cette vermine, » & fouftiennent que c'est vne preuue manifeite de la Médecine » \ iiiucrfelle, qu'ils cherchent dans l'or, & chercheront jusques à » la consommation des liecles; car je pense vous pouuoir dire, sans
+
+�� �
+
+[p. 606] 6o6 Correspondance.
+
+» infidélité, que lors qu'on aura trouué la pierre Philofophale, je » cefferay d'estre... « (Page 53g verso, et page 540 recto.)
+
+« A M. de la Tuillerie, 18 août 1646. — Monsieur le Conne- » stable de la Garde ell party pour aller chercher ses yeux, où » Monsieur Torftenfon est allé pour recouurer ses jambes. C'est » une fontaine, prez Afcherfleben en Alberftat, qui fait des mira- » clés; la guerifon de la goutte, sans y reuenir, est vn de ses » moindres effets. Elle sourd en vn lieu où il n'y en auoit point. » Elle s'est multipliée jusqu'à neuf fontaines, pour suffire à la mul- » titude des malades, qui y accourent de toutes parts. On trouue » de l'or potable dans la dissolution de son eaûe. Elle y guérit » sourds, muets, aueugles, boftus, &c. Enfin si ce qu'on en dit est » vray, il n'y a jamais eu de pareille merueille en la nature... » ( Page 554 recto et verso.)
+
+��Lettre CDLIII, a Chanut, [i" novembre 1646]. [Tome IV, page 538-542.)
+
+PORTRAIT DE LA REINE CHRISTINE.
+
+Le portrait de la reine Christine de Suède, que nous donnons tout au long d'après l'imprimé de Baillet, se trouve dans une copie MS. de la lettre de Chanut » à M. de Briennc », datée de Stockholm, ,er février 1648. (Paris, Bibl. Nat., MS. fr. 17964, f 82-94.) Cette copie MS. est plus complète que l'imprimé et fournit bon nombre de variantes. Nous donnons celles-ci, avec les additions, en renvoyant aux p. 538-S42 de notre t. IV.
+
+Page 538 : « Je laisse au(x) peintre(s) de vous representer le visage » de la Reine de Suéde, qui est mamtenant sur sa vingt » unième année. Ils y ont an"ez bien reulfy particulièrement » dans vn grand portraid qu'elle vient enuoyer en France » à ce Printemps en present à la Reine. i>
+
+« Vous y verrez, Monseigneur, ce que je connois moins » que personne : mes yeux n'ont jamais pris la liberté de » regarder à loisir la beauté de cette princesse. Ce que j'en » peux dire, par le jugement d'autruy, est qu'à l'ordinaire
+
+�� �
+
+[p. 607] Supplément 607
+
+» ceux qui la voyant la première fois, n'y trouuent pas » d'abord tant d'éclat qu'ils en defcouurent par après. Il » est vray qu'vn portraid ne fuffît pas à representer son » visage, qui change si subitement... »
+
+1. 4 : a(sez affable] bening.
+
+1. 5 : nuances] muances.
+
+Page 539, 1. 2 : d'assez agréable] d'aggreable,
+
+1. 6 : assez doux] fort doux,
+
+1.8: tout à fait mâle omis,
+
+1. 14 ; son palais] sa maison,
+
+1. 3o-33 : pour le relie de sa vie... dans sa pureté]. Auec cet esprit équitable dont elle traide toutes les questions de reli- gion, il est à croire qu'elle connoiftroit aisement la vérité dans nos controuerfes auec les luthériens, si elle voyoit nostre créance dans sa pureté.
+
+Page 540, 1. 1-2 : elle meditoit auec plaisir les moyens] elle fait ses joyes & ses délices, & se nourrit en la méditation des moyens...
+
+1. 4 : en fioicienne] auec ardeur à la ftoicienne,
+
+1. 6 : forte] merueilleufement forte,
+
+1. 14 : son deuoir] son mestier,
+
+1. 17-22 : En effet... ferieufes.] En effed, Monseigneur, je ne peux approuuer, s'il m'est permis de parler ainsy, que cette Princefl'e, qui parle parfaittement latin, françois, flamand, allemand & fuedois, se charge encore de la langue Grecque, où elle auance à grands pas, faisant ses récréations de cet estude très diftîcille. C'estoit assez, à mon aduis, qu'elle se fait entretenir, aux heures de son loisir, par des personnes fçauantes de ce qu'il y a de plus curieux dans les sciences, & que son esprit auide de connoissances s'informe de tout. Mais quand j'ay osé luy en dire quelque chose, elle m'a reparty qu'elle prenoit cette langue pour vn diuertiflement aux heures perd'es, comme si elle apprenoit les efchets, & que cela ne troubloit point ses leélures ferieufes.
+
+1. 24-28 : Cet auteur... sçauoir.] Cet auteur, qui donne àpenfer aux plus fçauants, luy est très familier. A peine l'aurois-je crû sur le récit d'autruy, ou sur quelque passage qu'elle en auoit cité à propos; mais en son dernier voyage d'Upfale, se laffant de lire par les chemins dans son caroffe, elle me commanda d'y entrer, & me faisant ouurir ce liure au hazard,
+
+�� �
+
+[p. 608] 6o8 Correspondance.
+
+i'elprouuay dans les endroits difficiles, où je m'arreftois comme hefitant sur le iens des paroles, que rien ne l'arre- ftoit, & j'admiray que, dans noftrc langue qui luy est eftran- gere, elle se peuft expliquer des interprétations des pro- fondes pensées de cet auteur. Cela, Monseigneur, m'eftonna d'autant plus, que peu souuent je luy auois ouy parler de cet hirtorien; j'ay connu, en cette occasion & en quelques autres semblables, qu'elle feint, ou au moins qu'elle né- glige, de paroistre auoir lu & sçauoir.
+
+Page 540, 1. 29 : les fçauansl les personnes d'eitudé,
+
+1. 3y : quelque discours étudié] quelque récit ou proposition qu'ils affedionnent.
+
+Page 541, 1. 6 : l'humeur bienfaisante] la beneficence,
+
+I. i3-i4 : vne jeune fille] vne fille,
+
+I. 22 : durer... chasse] jusques à durer à cheual dix heures en vn jour à la chasse,
+
+1. 24-25: tirer... seule] tirer vn Heure courant auec vne baie seule.
+
+1. 25-26 : Elle fçauoit... gloire.] Je tremble encore, quand ilme fouuient qu'vn jour, dans les plaines d'Upfale, sa Majesté étant montée sur vn cheval d'Italie blanc comme de la neige, que son Eminence luy a donné, qu'elle aime extrê- mement & qui semble connoiflre sa Maiftrefle, nous ayant fait prendre quatre des plus villes cheuaux de son efcurie, nous mit auec elle de front pour vne course de cinq cents pas, & arriva la première au bout de la carrière. Elle sçait tirerd'vn cheval tout ce qu'il sçait; & cela se fait sans affeda- tion, en sorte qu'il paroist bien qu'elle ell fort edoignée d'en vouloir tirer de la gloire.
+
+1. 32 : toute... imaginable] vne complaisance bénigne,
+
+1. 39-44 : Il est vrai... qui les souffrent.] Il arriue parfois, dans les heures de son loisir. qu'elle les raille de leurs défauts, & ceux qui entendent le langage Suédois, disent tous qu'il ne se peut rien ouïr de plus rgreable, hors ses domestiques mesmes. Elle efchappe quelqiiefois à rire des défaux des personnes, < & bien > qu'elle 'e fade de bonne grâce, & que vifiblementU paroisse qu'elle n'a n'y aigreur n'y auerfion contre ceux de qui elle fait rifée, il seroit peut estre mieux qu'elle s'en abftint, pource qu'au moings reste t'il vne appre- henfion de mespris en ceux qui ont esté moquez, quand ils viennent à le sçauoir. Mais cela n'arriue que rarem', pour
+
+�� �
+
+[p. 609] Supplément. 609
+
+ce que les affaires & l'estude ne lailTent quafy aucun temps libre à cette Princesse, qui le ménage auec auarice. quoi- que le Ibnieil luy en ode peu.
+
+Page 542, 1. 6 : n'accompagnoient pas mal] accompagnent, ace qu'on dit, fort bien.
+
+1.7: avant ny au vent] ny au soleil de midy ajouté.
+
+1. 10-12 sous lesquelles... les horrunes.] sous lesquelles, lors- qu'elle est couuerte d'vn hongreline auec vn petit collet comme les hommes, vn eftrangerqui furuiendroit au milieu de la chasse, demanderoit où est la Reine.
+
+1. 18-23 : Tes pense'es... à profiter] toutes ses penfecs, & pour conclure cette description par ce qui nous a donné fubjed de la desirer, j'estime, Monseigneur, que son ambition elt plus attachée au desir d'accroiftre son propre mérite par Ion trauail, qu'à estendre plus auant ses conqueftes en Alle- magne par la valleur de ses sujets. Ce n'est pas qu'elle soit pourrefufer ce que la fortune luy donnera: elle proffitcra...
+
+1. 25 : leur Eflat puissant & leurs sujets heureux.] leur Nation puiffantc. Mais je tiens pour certain, en l'estat present des pensées de la Reine de Suéde, qu'elle ne voudroit pas différer, le repos de la Chreftienté par la seule esperance d'augmenter son partage dans l'Allemagne.
+
+��Lettre CDLXII, Chanut a Descartes, i" décembre 1646. ( Tome IV, page 58i-583.)
+
+Le texte complet de cette lettre se trouve dans une copie MS., conservée à Paris, Archives des Affaires étrangères, Suède, 164S- 1646, Vol. 10, f. 376-379. Nous le reproduisons ici intégralement.
+
+A Monjîeur Des Cartes, à Egmond, le premier Décembre 1646,
+
+Monjîeur, Si ie croyois mon affeéîion, aujfytoji que i'ay receu vne 5 de vos lettres, i' y fer ois response dans la chaleur qu'elle
+
+Œuvres. V. 77
+
+�� �
+
+[p. 610] 6io Correspondance.
+
+excite en moy. le m'en retiens neantmoins, conjidcranl que, Ji bien vos lettres me sont extrêmement chères & vtiles, il ne faut pas que ie face le mesme lugement des miennes : pource qu'encore que vous vous cachic-r^, autant qu'il vous esl pofjible, ie trouue tousiours beaucoup dm- 5 flruéîions dans les vojîres; & quand ie m'cfforcerois à mettre en parade tout ce que i'ay de meilleur, ic ne Jçau- rois rien escrire digne de vous. En cette diucrfilé néant- moins, nous conuenons en vnpoinél, quoyque nous y [oyons conduits par chemins differens : vous m'affeurcr^ que vous lo auei beaucoup de bienueillance pour moy, & en cela i'y peux respondre, que ie vous honore parfaiélemenl, & en vn degré d'affedion, où ne montent point les amitiés ordi-' naires. Dans la connoissance que vous aue^ de la nature & de la valeur des pafjions, fï vous mette^ l'amour dans m 1 5 rang honorable, vous vous contenterej de ce seu l mouuc- ment de mon ame,sans considerer la foiblesse de tous les autres.
+
+Mais, aufuiet de l'amour, il faut, M, que ie vous con- feffe franchement mon ignorance : après en auoir Icu 20 mille belles choses dans les Anciens, l'en suis demeuré, comme autrefois de la lumière, que ie fentois bien efîre très agréable & très necessaire, mais que ie ne connoiffois point du tout. l'efprouue, romme les autres hommes, les ioyes & les douceurs de cette passion ; mais, à vray dire, ie ^5 ne la connois pas bien, & ne pourrois déterminer precise- ment quel esl ce mouuement de l'ame. Tant de sortes d'ap- pétits differens, tant d' inclinations sans raisons apparentes, si grand nombre d'obieéîs des iouiffances si bi-^arres me confondent, en sorte que ie me refous à aimer ce que ie ^o penferay le mériter, sans m' informer plus auant.
+
+�� �
+
+[p. 611] Supplément. 6ii
+
+Mais il y a vue difficulté qui me trauaille quelquefois, & que ie vous defcouuriray d'autant plus volontiers, que la charité, en ce rencontre, vous conuiera de me dire, pour soulager ma peine, ce que vous ne donnerie:^ pas à vue 5 Jimplc curiojité. le sens bien, quand i'cfcoutc la raison, qu'il faut aimer Dieu; ie parle en cecy dans les tenues d'vne recherche purement morale, sans le secours de la vérité Chrejiienne & de la grâce de Dieu qui l'accom- pagne. Mais toutes les mesures & les raisons de Vaffeclion
+
+lo me semblent Jî courtes, que ie ne peux comprendre quafî que cette aélion de nofrc aine vers vn obieél infiny de toutes parts se puisse appeller autrement qu'vn eflonne- ment & vne confufîon très refpeélueufe . le ne sçay si ie me trompe, & ie vous supp lie de m'en defabufer, si ma
+
+1 5 remarque efifauffe; mais il me semble qu aucuns des Phi- lofophes n'a osé dire que les hommes deuffent aimer Dieu, & que cette familiarité de la créature enuers luy efi vn principe de la Religion.
+
+Au refie, Monsieur, quoyqu'auparauant la leélure de
+
+20 vos Principes i'ignoraffe ce qu'efioit la lumière, ie ne lais- fois pas de voir aussy clairement au moins que ie sais à present; & ainsy. bien que ie vous auoue que le ne connois nullement la nature de l'amour, ie n'y suis pas insensible, principalement à vostre égard. Et c'efi ce qui me fait plus
+
+25 de difficulté, de sentir en moy vn si grand effort, & ne connoifire point ce qui m'emporte <fi > violemment. le connois bien ce qui cause en moy cette affeéîion, l'en sens les effeéls, ie la conferue comme le plus doux sentiment de mon ame : & auec tout cela, ie ne sçay en vérité ce que c'efi.
+
+3o Mad^ de la Tuillerie ne vous a point trompé, lors qu 'elle vous a dit merueilles de nofire Reine de Suéde :
+
+�� �
+
+[p. 612] 6i2 Correspondance.
+
+sans mentir, vous/erie^ ejlonné de la force de son esprit. Pour la conduite de ses as aires, non seulement elle les connoifl, mais elle en porte vigx)ureufement le poids, & le porte quasi seule : au lieu qu'en plufîeurs autres cours on ne traite d'affaires qu'auec les Minijlres, icy nous n'auons 5 à en rendre compte qu'à la Reine, & prendre les res- ponfes de sa bouche; en quoy elle ejl Jî adroiéïe, que son aage & son peu d'expérience ne donnent aucun auantage à ceux qui luy parlent, son iugement fuppleant tout ce qui luy peut îhanquer en l'vfage des affaires. lo
+
+le me retiens sur cela, & ne veux point faire vn éloge imparfait de cette grande Princesse, dont ie ne vous ay parlé, que pour vous faire connoiflre, qu'elle vous connoifl pour tel que tout le monde vous doit connoiflre, & qu'à mon iugement elle entendrait aussy clairement que per- i5 sonne du monde tous vos Principes, ayant le sentiment mer- ueilleufement détaché de la feruitude des opinions popu- laires, Jî le fardeau du gouuernement d'vn grand Eflat luy laiffoit ajfe:^ de temps pour en donner à ces méditations. Dans les momens qu'elle peut retrancher du soin des as- 20 faires publiques, & souuent après les audiences qu'elle m'a données pour les affaires du Roy, elle s'efgaye dans des entretiens, qui pajferoient pour très ferieux entre les fça- uans; & ie vous affeure, qu'il faut parler deuant elle auec grande circonfpeéîion. 2 5
+
+La dernière fois que i'ay eu l'honneur de la voir, elle tomba, par l'occasion d'vne affaire, sur vne question dont elle m'obligea de dire mes sentimens, & que i'adioujïeray volontiers icy, parce qu'elle n'esl pas éloignée de ce que ie vous difois au commencement de cette lettre, & qu'elle 3o vous fera connoiflre que son esprit efi fort éleué : sçauoir
+
+�� �
+
+[p. 613] Supplément. 6ij
+
+lequel des deux dereglemens & mauuais vfages estoit le pire, de l'amour ou de la haine. La quejîion ejloit générale, & ce terme d'amour ejloit entendu a la mode des Philosophes, & non point comme on le fait sonner Jî fou- 5 uent aux oreilles des filles . l'ofay, en cette quefiion, prendre vn party contraire à sa pensée, & ma contefia- tion luy fit dire plusieurs choses d'vne grande sagesse & d'vn raisonnement subtil . Mais ny l'efiendue du papier ny mon dessein ne permettent pas, que ie vous die nos opi-
+
+lo nions; si vous vous mette-^ au hasard de condamner vne Reine en donnant vofire iugement, ie vous diray le refie, & comme elle fouficnoit [on aduis.
+
+l'attens dans peu vos Méditations françoifes, pour les luy presenter ; & si dans la quefiion vofire sentence fauorife
+
+i5 sa pensée, ie troUuerray occasion de luy auouer que ie me suis mespris, & que vous aure^ confirmé son opinion. Il ne me refie de place, que pour vous dire nuement, que iefuis. . .
+
+��CDLXVI quater.
+
+Descartes a Jan van Foreest.
+
+Egmond, b janvier 1647. Autographe, Heiloo (près Alkmaar), Archives de la famille Van Foreest,
+
+L'objet de cette lettre est le me'me que celui de la lettre DXXXVI. que nous avons imprimée à tort au t. V, p. 262-265, avec la date présumée de 1648 (/*). // conviendrait de reporter cette lettre DXXXVI à la Jin de 1646, et de l'intercaler, comme la présente, au t. IV, p. 5g3, avec le numéro CDLXVI ter. Sans doute elles ont été écrites à peu d'intervalle l'une de l'autre.
+
+�� �
+
+[p. 614] 6 14 Correspondance.
+
+Monsieur,
+
+C'eil la femme de Thofte nostre voyfin, maintenant fugitif à cause du malheur qu'il a eu, qui desire que ie vous efcriue, affin de vous prier d'intercéder pour elle enuers quelques vns des M de la Chambre de 5 Contes de vos amis, à ce qu'ils la traitent fauorable- ment au regard de la confifquation des biens de son mary. Et encore que ie sçache très bien que vous auez tant de charité & de bonne volonté pour tous les habitans de ce quartier, que ce que ie puis escrire ne lo la doit en rien augmenter, & que i'aurois mauuaife grâce , estant icy nouueau venu , de vous dire les qualitez d'vn homme que vous connoilTez mieux que moy, ou de vouloir vous informer de la valeur de ses biens, lesquels on dit élire moins que rien, pource iS qu'il a desia employé tout le sien, & mesme celuy de ses amis, en faux frais pour tafcher d'obtenir pardon : toutefois, à cause qu'on ne craint pas d'estre obligé à ceux qu'on desire seruir, ie n'ay pas voulu refuser d'escrire cecy, pour vous tefmoigner que ie prendrav 20 part à l'obligation que ce pauure voyfin vous aura de ce que vous ferez en sa faueur. Et mesme i'ay esté bien ayfe d'auoir cete occasion, pour vous prier de me continuer l'honneur de vostre amitié, & de me croyre, 2 5
+
+��Monsieur,
+
+��Vostre très humble & très obeiiTant feruiteur, Des Cartes.
+
+D'Egmond, le 5 lan. 1647. 3o
+
+�� �
+
+[p. 615] Supplément. 615
+
+Adresse :
+
+Aen Myn Heer Myn Heer van Forest Raedsheer Inden Hooghen Raed &c. In s'Grauen Haghe.
+
+Cette lettre, qui n'avait pas encore été imprimée, nous a été obli- geamment communiquée, au cours d'un voyage en Hollande, sept. i()o5, par le-Dr. H.-E. van Geider, alors archiviste-adjoint de la ville d'Alkmaar. L'original se trouve. à Heiloo, près Alkmaar, dans les archives de la famille van Foreest, en la possession de Jhr. M^ P. van Foreest, membre des Etats-Généraux des Pays-Bas.
+
+Depuis lors M. H.-E. van Geider- a été nommé archiviste à La Haye. Il était mieux placé désormais pour faire, dans les Archives de l'Etat et des anciennes Cours judiciaires, à V Algemeeii Rijks Archief, toutes les recherches propres à éclaircir cet incident, si curieux, mais si obscur, du séjour de notre philosophe en Nord- Holland". C'est ce qu'il fit avec beaucoup de sagacité et de complai- sance. Voici le résultat heureux de son patient labeur : ^
+
+Les Archives de la Cour d'Appel de la province de Hollande {Hof van Holland) nous apprennent que le Procureur général de ladite Cour a fait appel d'une sentence, rendue (probablement) par les échevins du bailliage d'Egmond, contre Meeus Jacobsz (Bartho- lomé fils de Jacques), aubergiste*- à Egmond Binnen. L'affaire se trouve inscrite au rôle par trois fois : le 14 nov. et le 12 déc. 1645, le 16 janvier 1646. Meeus Jacobsz n'ayant pas comparu"^, nul doute
+
+a. Le territoire d'Egmond demeura, jusqu'en 1607, la propriété des comtes d'Egmond. Mnis, depuis le 26 juillet 1602, il avait été mis en vente pour cause de dettes. Il fut acheté par les Etats de Holland et Wesi- vriesland. Le 7 avril j632, les Etats firent savoir que quiconque possédait encore des parties du domaine, aurait à s'adresser désormais « aan den 1) Heer Stedehouder van der Grafelijkheid. » Egmond conserva sa juridic- tion propre; mais les procès se jugèrent en appel à La Haye. Les Archives d'Egmond ont disparu; on n'avait donc chance de trouver quelque chose que dans les Archives de La Haye.
+
+b. Cet appel du Procureur général s'explique, les juges du lieu ayant d'abord acquitté le meurtrier. Voir t. V, p. 264, 1. 19-21.
+
+c. Meeus Jacobsz, qualifié d'autez-^/sse est donc bien Vhojle, dont parle Descartes, p. 614, 1. 2.
+
+d. Voir t*. V, p. 264, 1. 21-22.
+
+�� �
+
+[p. 616] 6iô Correspondance.
+
+qu'il ait été condamné par défaut; mais le texte de la condamnation n'a pas été retrouvé.
+
+Toutefois on en retrouve les effets dans d'autres Archives, celles de la Chambre des Comptes {Rekenkamer) . C'est à cette Chambre qu'il appartenait de procéder à la vente des biens du condamné en fuite. C'est donc à elle aussi que s'adressa, les derniers mois de 1 646, la femme de ce dernier. Sa requête n'a pas été conservée; mais elle est résumée dans un rapport à la Chambre, en date du 9 janvier 1647. On y voit que cette femme se nommait Aechte Jacobsz (Agathe fille de Jacques), et qu'elle se plaint que les huissiers, dans leur inven- taire dfs biens de son mari, Meeus Jacobsz, n'ont point fait entrer en ligne de compte les dettes, supérieures, dit-elle, à l'actif"; elle demande donc d'être autorisée à racheter la confiscation, afin qu'elle puisse gagner sa vie et celle de ses deux petits enfants (dont le père est en fuite) "^j en tenant l'auberge de son mari.
+
+La Chambre des Comptes se composait de trois membres : Maîtres (ou Docteurs en Droit) van Benthuysen, yan Myerop et N. van Foreest. Ils décidèrent, le 9 janvier 1647, d'accorder l'auto- risation demandée; mais Aechte Jacobsz devait payer 26 florins, plus les frais de justice.
+
+Toutefois, le 14 février, cette décision fut adoucie : pour certaines considérations de valeur, la Chambre accueillit la supplique de la pauvre femme, à qui l'on fit remise des frais de justice.
+
+La lettre de Descartes écrite le 5 janvier, fut-elle pour quelque chose dans la première décision, celle du 9 janvier? Il ne le semble pas. D'abord cette lettre ne sera sans doute point parvenue à temps, d'Egmond à La Haye. Ou bien, l'intervalle était trop court, entre le S et le 9, pour que le destinataire, qui n'était point le membre de la Chambre des Comptes, Nanning van Foreest, mais un neveu de celui-ci, Johan van Foreest, put en donner connaissance à son oncle ; et il se pourrait, enfin, que ce neveu fût alors absent de La Haye. En tout cas, il n'est pas question, dans l'arrêt du 9 janvier, de » considérations favorables ». Mais ces termes se trouvent dans
+
+a. Ainsi se trouve précisé ce que Descartes laissait entendre ci-avant, p. 614, 1. 14-17.
+
+b. « Ses deux petits enfans. » Descartes en parle aussi, t. V, p. 265, 1. 2 et 1. 14.
+
+c. « En fuite. « Voir t. V, p. 264, 1. 29, à p. 265, 1. i, ei p. 265, 1. 13-14.
+
+d. Voici le texte flamand : « Op dén 14 Febniarij i64y, Jijn omme » feeckere goede canjideratien ende infichten de/e cojien ende myfen van » jujîitie aen de fujppliante geremitteerd. 1
+
+�� �
+
+[p. 617] Supplément. 617
+
+Tarrét du 14 février; et il est difficile de n'y pas voir un effet de l'intervention opportune de notre philosophe.
+
+Que l'affaire qu'il recommande à Johan van Foreest, soit bien celle qu'il expose tout au long dans la lettre DXXXVI, t. V, p. 2s)2, et qu'on retrouve dans les Archives de la Cour d'Appel & de la Chambre des Comptes de La Haye : c'est ce qui demeure maintenant établi sans conteste, vu la concordance parfaite des trois documents.
+
+Quant à la date, il n'est pas moins certain, ce semble, que la lettre DXXXVI est postérieure à l'arrêt de la Cour d'Appel, puis- qu'elle demande la grâce du condamné, mais antérieure aux déci- sions prises par la Chambre des Comptes. Elle serait donc de l'année 1646.
+
+Reste le nom du destinataire de cette lettre DXXXVI. Nous avons proposé Constantin Huygens le père. Mais cela n'est pas certain. M. H.-E. vanGelder fait remarquer, avec raison, quecette première lettre n'eut pas le succès de la seconde. Il ajoute, d'ailleurs, qu'en ce temps-là le prince Frédéric-Henri, déjà fort malade, ne s'occupait plus de rien ; et que, d'autre part, Hujgens n'était pas en faveur auprès de la femme du prince, Amalia de Solms. Mais Descartes pouvait l'ignorer.
+
+• Peut-être se sera-t-il adressé à un ami, Alphonse de Pollot; peut- être à quelque autre personnage, comme ce Johan van Foreest, inconnu jusqu'ici dans la Corresjcio«</<2Hce du philosophe. Il était de Hoorn, d'une ancienne famille de la Hollande septentrionale, et devint membre du Haut Conseil ; on a des lettres de ce personnage à des savants, comme Hujgens, Heinsius, Banningius, Scaliger, etc. Son oncle, Nanning van P^oreest, d'Alkmaar, était lui-même neveu de Petrus Forestus, qui fut quelque temps médecin de Guillaume le Taciturne, et que Descartes cite dans une de ses lettres, t. III, p. 121 et i36.
+
+��Lettre CDLXXIX, Chanut a Desc.\rtes, i i mai 1647. (Tome V, page ig-22.)
+
+Le texte complet de cette lettre se trouve dans une copie MS., conservée à Paris, si/7»/. Nat., MS.fr, 17963, f. 317-324. Le voici in-extenso.
+
+Œuvres. V. 78
+
+�� �
+
+[p. 618] 6i8 Correspondance.
+
+A Monjieur D'Efcartes, le XI May 164^.
+
+Monjîeur,
+
+Vous aurie-^ eu vne prompte î'efponfc à la lettre que vous m' aue':^ faicî la faueur de m'escrire, du premier Feb- urier, s'il m'auoit ejîé aujfy facile de la bien comprendre, 5 qu'elle vous a peu coujîé à mettre sur le papier. Ce nefl pas que faye trouué aucune refifîancc en mon esprit à donner consentement : la seule créance que j'ay en vous, me dispose à receuoir tout, de vojlre part, -sans difcufjion; mais, afin que ce que vous me donne^ me profite dauan- 10 tage,je le veux prendre auec discernement, & pour cela il me faut du temps, non pas à la vérité fort long, mais calme & deliuré de l'agitation des autres pens'ées, & je ne suis pas en ejlat de jouir souuent de ces bonnes occajions. La première fois que je me vis en liberté de îu attacher sans i5 interruption à cette agréable leélure, j'en fus tellement rauy qu'à quelques jours de la, je ne pouuois rappeller mon cfprit au soing des affaires; & comme j'auois lame pleine de ces notions que j'auois receues auec tant de plai- fir, il arriua que le Médecin de la Reine de Suéde, J'çauant 20 1res honnejie homme, nommé Monjieur du Hier, me vint rendre vis te. Et tout incontinant je me defchargeay le cœur auec luy, & luy communiquay ma joye. Je luy relcus, sans qu'il s'en ennuyafl, cette lettre de huicl fueilles, qu'il n'admira pas moins que moy, & me pria de luy prefler 2 5 pour quelque temps, afin de la confderer à Ipifir. Je me defgageay ciuilement de cette prière, ne me voulant point defaijir d'vn escrits précieux. Mais, a quelques jours delà, je fus pressé de la Reine, à laquelle il en auoit parlé, de
+
+�� �
+
+[p. 619] Supplément. 619
+
+la luy faire voir. Je fus très aise que sa Majefîé eufî cette curiosité, afin qu'à la leélure de cette feulle pièce, elle con- nufl que tout ce que je luy auois diéî de voflre personne, ejîoit au dessous de la véritable eflime. Il esl vray aussy, 5 Monjieur, que, sans flatterie, elle a le jugemeut Jî clair & si détaché de toute preocupations, que je ne pense pas qu'il y ait rien dans la Philosophie, qu'elle ne puisse comprendre auec facilité. Je differay d'vne audiance à l'autre, jus qu'à irouuer vn temps libre & defoccupé d'affaires; & quoy que
+
+10 pendant plujieurs jours elle me demandaji voflre lettre, je m'en excufay, afin de ne luy en faire la leélure qu'à vne heure commode. Apres l'auoir entendue, elle refla si sa- tisfaitte, qu'elle ne se pouuoit lasser de vous donner des louanges, & de m' enquérir (sic) de toutes les particularité?
+
+i5 de voflre personne & de voflre vie. Je luy dis tout ce que j'en fçauois; & après auoir vn peu pensé, elle conclut : Monsieur Descartes, comme je le vois en cette lettre, & comme vous me le dépeignez, esl le plus heureux de tous les hommes, & sa condition me semble digne
+
+20 d'enuie ; vous me ferez plaisir de l'aOeurer de la grande estime que je fais de luy. Je ne vous rapporte point icy tout ce que sa Majefîé dijl sur tous les poinéls de voflre lettre, qu'elle ne me fijlpas lire en courant : au contraire, elle m'arrefîa souuent pour confirmer par son raisonne-
+
+2 5 ment ce qu'elle entendoit fort bien; & je vous affeure,
+
+Monsieur, que je ne fus pas moins ejlonné de la facilité
+
+qu 'elle auoit à pénétrer dans vosfentimens, que j'auois eflé
+
+surpris de leur profondeur, à la première leélure que j'en
+
+auois faitte .
+
+3o Dans la première quejlion, oii vous explique-^ en gêne- rai la nature de l'amour, sa Majefîé y donna vne sorte
+
+�� �
+
+[p. 620] 620 Correspondance.
+
+attention, mais ne se voulut' pas attacher à examiner la doctrine, pour ce, disoit-elle, que, n'ayant pas ressenty cette passion, elle ne pouuoit pas bien juger d'vne peinture, dont elle ne connoissoit point l'original. Je demeurois bien d'accord, qu'elle ne connoissoit point 5 l'amour comme une passion; mais j'estime que, si elle eust voulu, elle pouuoit parler bien pertinement de l'amour intellectuel, qui regarde un bien pur, & separé des choses. sensibles, pource qu'en general je ne crois pas qu'il y ait personne au monde, qui soit plus touchée de l'amour de la "" vertu.
+
+Enfin, après auoir tout entendu, elle ne resusa son con- sentement à aucune de vos opinions, cette ligne exceptée, ou vous supposez le monde infiniment estendu . Sur ce poinct, sa Majesié doute, qu'on puisse admettre cette hypothese i3 sans blesser la Religion Chrestienne; elle m'en dist succin- tement ses raisons, sur lesquelles je suis certain qu'elle aura très agréable l'esclaircissement que vous luy en don- neriez, sa pieté ne permettant pas qu'elle reçoiue la moindre conjecture sur les choses phisiques, qui puissent 20 (sic) blesser les fondemens du Christianisme.
+
+Premièrement, elle estime que, si on admet une sois que le monde soit infiny en sa matière & en sa substance, à plus forte raison le croira on infiny en sa durée de toutes parts, & qu'ainsy l'hisioire de la création, designée très claire- 2 5 ment dans l'Escriture saincte, au moins quant à la remarque du temps, n'auroit pas sa plaine authorité; & quanta a la autre terme de la durée, qui est la sin du monde, il est aussy diffi- cile de la conceuoir, dans cette large infinité d'une produ- clion sans limites, ou Dieu n'auroit pas estendu l'immensité 5° de son pouuoir pour la borner par le cours de peu de reuo-
+
+�� �
+
+[p. 621] Supplément. 62 1
+
+lutions: au lieu que, dans l'Eglise Chrejstenne, où nous con- ceuons le monde comme le petit ouurage referré d'un pou- uoir immense qui ne s' est pas entièrement desplié, nous ne voyons pas d'inconuenient, qu'il ait son commencement &
+
+5 sa fin.
+
+Sa Majejlé adjoujîe, de plus, que le sentiment de VEglife ejl que l'homme ejl la fin de la création, c'ejî à dire le plus parfait des ouurages du monde, & pour lequel tous les autres ont ejlé faits. L'alliance de Dieu auec
+
+10 l'homme en l'incarnation du Verbe, & tant de miracles faits jusqu'à contraindre le Soleil dans sa route & son illu- mination, monflrent bien que la nature humaine esl la maifîreffe de toutes les autres qui composent ce grand corps que nous voyons. Et il ef certain que,fî nous conceuons le
+
+i5 monde en cette vafle eflendue que vous luy donne-^, il esl impofjible que l'homme s'y conferue ce rang honnorable ; au contraire, il se confderera comme dans vn petit recoing auec toute la terre qu'il habite, sans mesure & sans pro- portion auec la grandeur demefurée du refle. Il jugera
+
+20 bien probablement que toutes ces Efîoiles ont des habitans, ou pluflofl encore des terres autour d'elles, toutes rem- plies de créatures plus intelligentes & meilleures que luy; certes au moins perdra il l'opinion que cette grandeur in- finie du monde s oit faite pour luy, ou luy fasse (sic, lire
+
+2 5 piiiffe) seruir à quoy que ce soit.
+
+Je vous aduoiie, Monsieur, qu'il me vint bien en l'esprit quelque chose à repartir, pour accommoder voflre hypo- these a laverité de la Religion Chreflienne ; mais la Reine n'a point vn esprit 'a se contenter de raisons probables,
+
+3o & j'eflimay que je ne deuois point ajfoiblir voflre cause par vne dejfenfe defeélueufe. Je la vous ay referuée toute
+
+�� �
+
+[p. 622] 022 Correspondance.
+
+entière, & je ne peux croire qu' ayant autrefois pris la peine de respondre à des objections de personnes du commun entre les hommes, en des matières moins importantes, vous refusiez d'entrer en esclaircissement auec une Reine, qui ne vous doit point faire peur comme l'Empereur Adrian au 5 Philosophe Phauorin, pour auoir tant d'armées sur pied, mais dont l'esprit, la generosité & la bonté meritent que tous les hommes qui viuent s'estiment estre ses sujects.
+
+Cependant, Monsieur, il faut que je vous aduertisse, que je suis d'humeur à vouloir trouuer mon compte dans toutes 10 les affaires qui passent par mes mains ; & me persuadant que je vous rendray un office, lorsque je feray voir a la Reine vostre response à sa difficulté, je demande que vous reconnoissiez, s'il vous plaist, mon entremise par quelque libéralité ; & afin que vous ne soyez pas en peine de cher- 15 cher un present qui m'adjuste, je vous diray librement ce que je souhaitterois.
+
+Je ne vois point claireinent, quelle est cette impulsion secrette, qui nous porte dans l'amitié d'une personne, plu- stost que d'un autre, auparauant mesme que d'en connoisre 20 le mente; & bien qu'il me semble que je ne sçay quelle opinion confuse de la bonté de l'object qui nous attire, en puisse estre la cause, ma difficulté reste, en ce que, <comme> je ne connois pas distinctement quelles marques & quels signes nous preuiennent de cette opinion, je doute si cette 25 alliance cachée a son origine dans le corps ou dans l'esprit : si c'est du corps qu'elle naist, je la voudrois mieux con- noisîre que par ces termes généraux de simpatie & anti- patie, auec lesquels nos philosophes de l'Escole couurent leur ignorance ; & si cet attrait d'amitié sort de la disposi- 30 tion de nos mes en leur propre subjstance, quoy qu'il me
+
+�� �
+
+[p. 623] Supplément. 623
+
+paroijfe au de [fus des forces humaines d'en rendre aucune
+
+raison, je suis tellement accoujîumé d'apprendre de vous ce
+
+que jefîimois impoffihle de sçauoir, que je ne defefpere pas
+
+que vous ne me donnier^ quelque fatisfaclion. Mais, fumant
+
+5 mon ordinaire méthode, j'cniends faire défendre la con-
+
+noiffance que vous me donnere'^à la conduite de ma vie pour
+
+en deuenir meilleur ; & pour cela je vous demande, Mon-
+
+sieur, s vn homme de bien, dans le choix de ses amitie^,
+
+peutfuiure (sic lire ces) J'es'mouucmens cache^ defon cœur
+
+10 & de son esprit, qui n'ont aucune raison apparente ; & s'il ne commet point vne injujîice, de dijîribuerfes inclinations par vne autre règle que celle du mérite. Cette quejtion m'a exercé i esprit plus d'vne fois, en ce que, j'eparant l'amitié de deux choses que l'on confond souuent auec elle, dont
+
+i5 Vvn[e) esl l'ejîime de la vertu, & l'autre cet ej'change d'of- fices mutuels auec les honnefles gens, qui n'ejî en effeéî qu'vn commerce de bienfaits, cette amitié refîe comme vne simple liaison & vn ciment, qui assemble tous les hommes en vnfeul corps & qui doit eflre d'égale force entre toutes les
+
+20 parties; autrement, il cf. impossible qu'il ne furuienne de la diui/îon, contre l'équité naturelle, & que, nous attachans trop fortement à quelques personnes, nous ne soyons infen- fiblement separe:^ des autres. Je ne pense pas qu'on peut refujer le nom de sage 'a celuy qui, mettant pour fonde-
+
+25 ment en son cœur vn amour égal pour tous les hommes, puisqu' ils sont tous également hommes, adjoujîeroit feulle- ment par dessus la dijlincîion des mérites différents, & cette obligation de reconnoiffance dans le trafic des bons offices. Et quoy qu'alors l'eJlime de la vertu & la rétribution des
+
+3o bienfaits fissent qu'en apparence il femblajî en aimer plus ivn que Vautre, pource que ces trois affeclions se méfient
+
+[p. 624] 624 Correspondance.
+
+très facillement, & parroijjent ne produire qu'vnfeulmou- uement, il serait vray pourtant qu'il n'auroit pour tous qu'vne amitié très égale.
+
+J'attens, Monjieur, que vous me releuere:^ de ces doutes, & mefere^ voir la véritable règle que nous deuons fuiure 5 au partage de nos inclinations; mais fivojîre loijir ne vous permet pas de me donner tant de lumières^ & que vous vueillieifeullement me fermer la bouche & me conuaincre que je n'obferue pas moy mesme cette égalité, demandé^ moy feullement, s'il n'esl pas vray qu'outre la vénération de 10 voflre vertu & par dessus toutes les obligations que je vous ay, je suis encore porté à vous aimer & honorer par vn mouuement secret, auquel je ne refifle point, & quifaid que je suis, plus qu'à tous les autres hommes,
+
+Monjieur, > 5
+
+Voflre très humble, très obeiffant & très affeéîionné feruiteur.
+
+Signé : Chanut.
+
+��Lettres CDXCI (avertissement), et D, i3 décembre 1647. ( Tome V, pages j i'j3 et g8-io6.)
+
+EXPERIENCES DU VIDE.
+
+L'expérience du Puy-de-Dôme a donné lieu tout récemment, en France, à une vive polémique entre Félix Mathieu [Revue de Paris, \" tx. i5 avril, i" mai 1906; ibid., \" et i5 mars, 1" avril 1907), et Abel Lehanc (Rerue politique et littéraire ou Revue bleue, 11, iS et 25 août, 8 sept\ 1906), Paul Duhem [Revue générale des Sciences,
+
+�� �
+
+[p. 625] Supplément. 62
+
+��)
+
+��i5 et 3o septembre 1906), &c. L'attention a été ainsi ramenée sur un certain nombre de documents, outre ceux que nous avons publiés dans cette édition. Il en eèt un, qui nous avait échappé, et que nous ne pouvons nous dispenser de reproduire ici, parce qu'on y trouve le nom de Descartes. C'est un passage d'une Préface de Mersenne, en 1647, en tète de son livre : Novarum ObJ'ervatiouum phvfico-mathematicarum Tomus III (comprenant V Arijlarchtis Samius de Roberval,et des Refleâiones Phys.-Math.). PaulDuhem. qui en a bien vu le premier toute l'importance, en a donné une tra- duction française, p. 69-71 de sa brochure : Le P. Marin Mersenne et la Pesanteur de l'air. Voici, tout au long, le te.xte latin :
+
+« ...Si prœdidus aëris cylindrus sit pra;didi vacui tubo contenti » vel altitudinis hydrargyreœ causa, vt pote cui aequiponderet, vide- » tur illum cylindrum aëreum breuiorem, & ideo cylindrum hy- » drargyreum minoris altitudinis futurum, si fiât obseruatio ex » turris aut montis alicuius vertice : verbi gratiâ, ad tholi S. Pétri » feneftras"; quœ cùm 3o, ad minimum, fexpedas à terra diftent, » si cylindrus aëreus vnicam 2S00 fexpedarum leucam altus effet, » ille cylindrus breuior effet quinquagefimâ fuî parte, iuxta pras- » dictas feneftras, quàm prope S. Pétri ConfeflTionem. >•
+
+« Sed cùm pag. 204 oftenderimus, cylindrum aëreum esse 2 leu- )> carum ad minimum, sola pars centesima refcindetur; quas cùm )) soli centefimœ parti cylindri hydrarg}Tei respondeat, vix fenfi- » bilis erit illius decurtatio, quandoquidem folà ferè pedis quin- » quagefimà parte, hoc est, proximè, quartà parte lineae, breuior » erit, »
+
+« At verô, si ex vertice montis leucam alti experiaris, cylindrus » hydrargyreus futurus est vnius duntaxat pedis cum fefquidigito. » Quod si minime contigerit, signum est causam istius vacui non » esse cylindrum aëreum ; nisi quis contenderit, superiorem aëris » superficiem non esse fphœricam, sed plus aUt minus attolli, iuxta » varios terraî situs. »
+
+« Porrô, si fuerit atniofphaera fphœrica, cuius sit idem ac terrae » centrum, Rothomagi cylindrus hydrargyreus Parifienfi, hicque » Diuionenfi aut Lingonenfi altior esse deberet : cùm Rothomagum » à Lutetià différât totâ Sequanae decliuitate, quae forsan turrim » B. Mariae Parifienfis, vel etiam pyramidera admirandam Rotho-
+
+a. Voir p. m du même ouvrage de Mersenne, Refleâiones Phys.- Math. .• « . . .5o orgyarum seu fexpedarum, hoc est 3oo pedum Parisien- » fium, qux refert altitudinem hemifphaerij seu Tholi S. Pétri, Gallicè >' Dôme, Italicè Copola. »
+
+ŒuvRKs. V. 79
+
+�� �
+
+[p. 626] 626 Correspondance.
+
+» magenfem exœquat ; fitque praeterea major decliuitas reliquae » Sequanse vsque ad illius originem : quod etiam de caeteris fluuijs » dicendum. »
+
+« Viderint ergo Nannetenfes, Niuernenfes, sed & Lingonenfes, » cuius habeant altitudinis cylindrum hydrargyreum. Quem hîc » non semper vniformem reperimus, quandoquidem tubus, in solo » mercurio immerfus, cylindrum suum mercurialem, nuper coràm » viris Clariflimis, pedum 2, digitorum 3 j habuit : cuius rei telles » habeo nobiliflimum adolefcentem fublimique praeditum ingenio » Casfarem Eftreum, Illuftriflimum Longi-Ponti Abbatem, & viros » praîftantifllmos, Launoium Dodorem Facultatis Theologicœ, » Cartefium, & Roberuailum ; quemadmodum alterius obferua- » tionis, quae dédit cylindrum pedum 2, & y proximè, seu ferè 4 » digitorum, quibus vna vel altéra duntaxat linea deerat : testes » produco R. P. Vatierum lefuitam, & vtrumque Pafch alium exi » mios Geometras & Philosophos, cum alijs multis. »
+
+« Quod notaffe fuit operœ pretium, vt qui deinceps experietur in » locis editiflTimis, vel etiam iuxta mare, videat, & accuratè metia- » tur cylindrorum hydrargyreorum altitudinem, solo mercurio in » fcutellà tubum excipiente posito : cui si aquam vel alium liquo- « rem addiderit, notet istius liquoris altitudinem, quippe qui cylin- » dri mercurialis augeat altitudinem; notetque praeterea tuborum » quibus expertus fuerit altitudinem, si forte vacui aërei altitudo » quidpiam in cylindro hydrargyreo mutet. Vt iam moneo tubum » vitreum, quo sumus experti, fuilTe pedes 3 j altum, cuius bafeos » diameter j digiti seu 4 linearum ; qtianquam longé futurus sit » commodior, si diametrum digitalem habuerit, dummodo lumen » ita minuatur, vt digito perfedè claudi poflit ; quod faciliùs prae- » ftabit Obferuator, si lumen limbo polito marginetur, ne forte » digiti pulpam fcabra crepido 'aedat. »
+
+« Cylindros autem illos hydrargyri potiùs vbique futuros aequales » arbitror : siue quod tanta sit aëris altitudo, nihil vt apud nos » pofilt fenfui obnoxium exhiberi (verbi gratiâ, si vel ipsam lunam » tranfgrediatur); siue ob alias causas nobis ignotas, siue quôd illa » columna aèrea huius phaenomeni non sit causa, vt iterum & » deinceps in aenigmate degamus... » Prcefatio ad Leâlorem, non paginée, p. 3-5. Phyjico- Mathematicarum F. Marini Mersenni MiNiMi. Tomus III. Quibus accejjit Ariftarchus Samius de Mundi Sxftemate. (Parisiis, Sumptibus Antonii Bertier, via lacobeâ sub signo Fortuna;. M.DC.XLVII.)
+
+Les dernières lignes de cet ouvrage de Mersenne donnent la date
+
+�� �
+
+[p. 627] Supplément. 627
+
+où elles furent écrites, le 8 septembre 1647. jour de la Nativité de la Vierge, « hac B. Virginis, huiusce anni 1647, natali die ». (Page 233.) La Dédicace, à Louis de Valois, comte d'Alais, est aussi datée du même jour, « Natali die B. Virginis, anno 1647 ». Vient ensuite la Préface au Lecteur (une première Préface), «■ Prcefatio I ad Leâo- » rem ». Comme cette Préface renvoie d'abord à une liste des fautes d'impression, relevées et corrigées à la fin du volume, et donne les numéros des pages qui appellent des remarques, on doit en conclure qu'elle est postérieure à la date du 8 septembre. Elle ne porte pas cependant de date précise; mais le privilège, qui figure après, est suivi de cette mention : « Per^da est hœc Impreftio die » I Odobris 1647. " L'achevé d'imprimer étant du i"" octobre, la Préface aurait été composée entre le 8 septembre et ce i" octobre. Or Descartes s'esc trouvé pendant ces quelques semaines à Paris, comme en fait foi la lettre de Jacqueline Pascal, du 25 septembre, que nous avons reproduite, t. V, p. 71-73. Les expériences sur le vide, auxquelles Mersenne dit que Descartes a assisté, auraient donc eu lieu ce mois de septembre 1647, entre le 8 et le 3o. Toute- fois un doute subsiste : Mersenne, dans le dernier chapitre (xxv) de son ouvrage, qui se termine par la date du 8 septembre, men- tionne déjà les mêmes expériences, auxquelles il revient dans sa Préface; elles seraient donc quelque peu antérieures, peut-être de la fin d'août 1647, o" même de juin ou juillet, lorsque Descartes s'arrêta à Paris, avant de se rendre en Bretagne. Voici, d'ailleurs, ce passage du chapitre xxv :
+
+« ...Quapropter altitude nostri mercurij non erit Florentinae » aequalis : quippe quae nobis solùm apparere solet pedum 2 & 3 » digitorum & \ digiti ad summum ; quanquam & aliàs 4 ferè » digitorum, praeter 2 pedes, coràm R. Pâtre Vatierio philosopho » fubtiliflimo, & pluribus alijs lefuiftis, & coràm vtroque Clarif- » fimo D. Pafchali nostras obferuationes afpicientibus apparuit. » [Rejlexiones Phyjico-Mathematicœ, cap. xxv, p. 218.)
+
+Un peu plus loin, dans la même Préface, on trouve encore ce passage relatif aux expéiiences du vide :
+
+« Nec enim Historiam primi Obferuatoris, de quâ vit. capite » fufiùs, retexere velim ; nec addere Clariflimum Pafchalium Rotho- » magi dudum plures huiusce vacui Obferuationes, quàm vllum » alium, fecisse, idque tubis non solùm i5 pedum, sed 45, quo » primas, vt arbitror, inuenit aquae vel etiam vini cylindrum, » hydrargj'reo quatuordecies altiorem, idem omnino prasftare : hoc » est, tubum aquà vinoque plénum, & in aliam aquam aliquo vase
+
+�� �
+
+[p. 628] 628 Correspondance.
+
+» contcntam inuerfum, nullà suae aqu£e guttà effluere & exhauriri, » donec 32 pedum altitudinem fuperarit ; quod licet ClarilTimus » Torricellius prasuidiffet, minime tamen, puto, fuerat expertus. Vt » vt sit, primo, Valerianus Magnus se non esse primum obferuato- » rem difcet ex hac Praefatione & ex cap. 25 nostrarum Reflexio- » num... » {Prœfatio ad Leâorem, non paginée, p. 5-6.)
+
+Mersenne venait justement de recevoir un traité du vide de Vale- rianus Magnus, qui motiva ce passage de sa Pré/ace, comme il motiva la publication que fit Pascal quelques jours plus tard de ses Nouvelles expériences touchant le vide (achevé d'imprimer, le 8 octobre 1647). Mersenne rappelle à ce propos que, pendant son séjour à Rome, en 1644-1645, sur le conseil de Lucas Holstenius, il rendit visite au P. Magni, capucin, & même lui prêta un exem- plaire du récent ouvrage de Descartes, Principia Philofophice : « ...eique Illuftris Cartefij principia Philosophica legenda tribuif- » feni, si forte conuenirent cum eà Philofophiâ, quam ipse proprio » marte se condidiffe afl'erebat. » {Ibid., p. 9.) Et plus loin : « qui » lumen aiunt esse motum fubtilis materiœ...; quod facile Valeria- » nus potuit ex Clar. Cartefij, quam ei Romae commodaui, Philo- » fophià concludere. » {Ibid., p. lo-i i.)
+
+��Lettres DXLVI et DLIII, 10 mars et 9 avril 1649. [Tome V, page 3 1 g, l. 23-2g, et page 33<)-34o.)
+
+LETTRE DE SCHOOTEN.
+
+La Bibliothèque de l'Université d'Amsterdam possède une lettre autographe, datée de Leyde, 3 novembre 1648, de Schooten à Constantin Huygens fils {junior), sur les vers de celui-ci pour le portrait de Descartes, mis en tête de la traduction latine de la Géométrie par le même Schooten.
+
+« Myn V E. (dele) Heer, » Ick heb niet konnen naerlaten V E. ten hoochften te bedanc- » ken, voor dattet V E. belieft heeft fyne gedachten te laten vallen » op een Epigramma, het welcke ick van VE. gewenfcht hebbe,
+
+�� �
+
+[p. 629] Supplément. 629
+
+» dienendc om gellelt te worden onder het conterfeijtfel van den » H. des Cartes. Ick en twijffel niet oft hetfelue ial by een ijder, » bij wien fyn schriften aengenaem fyn, van gelycken aengenaem » wesen, ende oorfaeck fyn dat hy iet meerder van Myn Heer fullen » hebben te verwachten, daer van V E. noch lof toekomende is. » Vorders aengefien Y E. fchrijft het felue al over 6of 6 maenden » gemaeckt te hebben, ende daeroni oordeelt dat felue mij nu nict » meer te fullen dienftich wesen, so iffet dat ick daer mede gheen » haeft gehadt en hebbe, gemerckt de plaet op t' left alleen afge- » druckt wort. Ende want defen tôt gheenen andren eijnde die- » nende is, so wil ick eijndigende mijn feluen in Mijn Heer fyne » goede gunft ende gratie recommandeeren, hem biddende mij » daer in te willen continueren
+
+Myn Heer
+
+» VE. ootmoedighen en
+
+» geaffeftionneerden dienaer
+
+» Frans van Schooten. » « Leyden, den 3 November 1648. »
+
+Adresse :
+
+« Aen Myn Heer » Myn Heer Conftantinus » Huijgens J. {sic pro Junior) Secretaris van » Sijn Hoogheijt » in S'Gravenhaghe. »
+
+��Lettre DLXXXVI, 10 février i65o. {Tome V, pages 4jg-48o.)
+
+LETTRES DES HUYGENS, PERE ET FILS.
+
+Dans la Correspondance de Christian Huygens (La Haye, 1888, t. I, p. Il 3-1 14), on trouve une lettre de celui-ci à son frère aîné, Constantin, datée de La Haye, 25 Dec. 1649, avec cette mention sur Descartes :
+
+« Il y a 5 ou 6 jours que je suis revenu de mon voyage de Denne-
+
+�� �
+
+[p. 630] 6}o
+
+��Correspondance.
+
+��» marck... Ayant trouvé borne compagnie, j'ay eu allez de curiosité » pour passer plus avant jusques à Coppenhaghe & Elfeneur, où .1 les navires ont accoustumé de payer le tribut au Roy ; & si la » failbn l'eust permis, j'eusse peut cftre passé plus outre, en Schonen » & Suéde, pour y voir M des Cartes & la Reine, dont il escrit tant » de merveilles... »
+
+Christian Huygens écrivit encore de La Haye, le 12 avril 16S0, à son frère aîné, Constantin :
+
+u ...Pour la plus importante (nouvelle), je vous raconteray ce M que j'ay leu dans la Gazette. Il y avoit dedans celle d'Anvers le » dimanche passé : Dat in Suéde een geck gejlorven iras, die feyde » dat hj'foo langh leven kon als hj tpilde. Notez que c'elt icy M. des » Cartes. » [Correspondance de Christiaan Huygens, La Haye, 1888, t. I, p. 127.)
+
+Et Constantin, qui était en voyage, répondit à Christian, dans une lettre de Rome, 29 mai i65o :
+
+« J'ay receu vostre dernière du 4' {sic pro 12?) Apvril & l'éloge » que donne le Gazettier à M' Descartes, qui est tout à fait drolle. » Ce coquin la mérite que touts les Philosophes luy donnent les » eflrivieres... » {Ibid.)
+
+Constantin Huygens père, à M' Chanut, Ambassadeur de France en Suède, 5 Nov. iG5o :
+
+« ...Me permettrez vous de dire icy un mot du pauvre M. de » Saumaife ? Je le nomme ainsi, parce que le bruièl qui court de sa » maladie defefperée me le faitt croire ou craindre mort. Enfin » vostre Septentrion veut-il enterrer tout ce que la Chreftienté a » faift naistre de plus excellent ? Nous auions bien prognoftiqué à ce » petit corps infirme, qu'un voyage de Suéde l'efcraferoit. Sed fuit » infatis. Il me reste pourtant quelqu'efpcrancc, de la faulfcté de » ceste triste nouuelle, qui retient les dernières de mes larmes. Je » prie Dieu qu'elle me soit confirmée, aueq la vérité de celle de » vostre santé tres-heureuse, afin que la Suéde ne fcnible (rature) » aftamée de nouueau des corps de touts les grands hommes, » comme sa Reine l'est de leurs esprits... » (Amsterdam, Biblio- thèque de l'Académie des Sciences, Lettres françoifes de Huygens, t. U, p. 424-425.)'
+
+Le même à la princesse Elisabeth, 3i déc. i653 : i" Envoi de poésies (« ce qu'il y a de ma façon, a esté mis au jour » par mon fils aifné «l. sur sa maison de campagne, « ...petit lieu de
+
+�� �
+
+[p. 631] Supplément. 6^i
+
+» plaifance, que j'ay à une demie heure d'icy, sur le canal de Leiden. » Je ne suis plus fcrupuleux de dire, rriefme en prose, qu'il est joli, » parce que, l'esté passé, il a pieu à la Reine vostre mère d'en juger » ainsi de sa grâce, m'ayant faidl l'honneur d'y pafTer une après » difne'e aux quilles & à une pauure collation de cerifes... » {Ibid., t. II, p. 519.)
+
+2° Envoi d'une pièce mathématique de son cadet, Christian, sur la quadrature du cercle de Grégoire de Saint-Vincent : « Ceste » autre pièce mathématique de mon fécond Fils, que j'appelle mon » Archimede, & lequel feu Mons des Cartes disoit eltre de son sang, » le cheriffant d'une affection tres-ardente, sera peut estre un peu » plus du goust de V. A. » (Ibid., t. II, p. 519-520.)
+
+Et Huygens continue : « ...Voila, Madame, comme Dieu a beny » mes foings dans l'éducation de quatre iils que j'ay, n'y en ayant » pas un qui n'ayt passé aueq succes extraordinaire [mot ajouté) au » trauers de tout ce qui se peut demander de sçauoir à de jeunes » gens de leur condition. Et si un jour Monseigneur l'Eledeur » vostre frère me faisoit l'honneur d'aggreer quelque poulain de cell » haras, je croy qu'il n'y verroit pas le feruice de sa maison inte- » reffé. V. A. me fasse la grâce d'y penser par occasion, & s'affeure » qu'elle ne se trouuera pas trompée de mon débit, quoy que pa- » ternel & paflionné comme il doibt... » [Ibid., t. II, p. 52o-52i.)
+
+�� �
+
+[p. 633] ADDITIONS
+
+[p. 635] ADDITIONS ��UN MS. DE SCHOOTEN.
+
+��Outre les deux copies MS. du Compendium Mujicce, celle de Mid- delbourg et celle de Leyde, il en existe une troisième en Hollande, à la Bibliothèque de l'Université de Groningue. Bierens de Haan l'avait indiquée, en 1878, dans ses Bouwstoffen, vol. I, p. 263, [Verslagen en Mededeelingeti der Kon. Akademie van Wetenschap- pen, Nattturk. 2' Reeks, dl. XII, p. 4-5). Elle me fut signalée récem- ment par le jeune C. de Waard, et le Bibliothécaire de l'Université de Groningue, A. -G. Roos, voulut bien l'envoyer en communica- tion à Nancy.
+
+Cette copie se trouve aux feuillets 6o-83 d'un cahier in-4'», dont les feuillets ont été numérotés après coup au crayon, sur le recto seulement. Le cahier est inscrit sous le numéro 108, et contient, avant et après le Compendium, des notes MS. de Frans van Schooten le père. Il porte tout au commencement une date, qui paraît d'abord d'un grand intérêt : Francifcus à Schooten. Anno 16S2, S Decem- bris. Mais cette date se trouve en haut du feuillet 1, fort loin par conséquent des feuillets 6o-83. En outre, immédiatement au-des- sous, sur la première page, se trouve, écrite d'une autre encre, une Demonjîratio Conjiruâionis 4 Opaiium, avec renvoi, dès cette pre- mière page, à ceci : Page 35 j. On ne defcrit que de lignes droites, les Hyperboles, les Ellipses. C'est la page 367 de la Géométrie, de Descartes, édition de 1637, laquelle était donc imprimée déjà. Et les indications du même genre, soit de la Géométrie, soit de la Diop- trique, renvoient toujours à la même édition de 1637, avec le nom de Descartes écrit Decartius : feuillets 9, i3 [perso), 20, 53, 57, 58
+
+�� �
+
+[p. 636] 6j6 Additions.
+
+(uerso), et Sg, etc. N'en faut-il pas conclure que la copie du Compen- dium Mujicce, qui vient ensuite dans le même cahier, serait aussi d'une date postérieure à 1637 ?
+
+D'autre part, le MS. ne s'arrête pas là : il continue jusqu'à la fin du cahier, feuillets 84-103. Or, dans cette dernière partie, il est encore question de Descartes, feuillet 94 [t'erso), dans cette note : In paginant j3y et i38 Dioptriae Decheartis (sic). Ce sont toujours les pages de l'édition de 1637. Mais on trouve aussi (sur une feuille détachée, il est vrai), en regard du feuillet 102, une note terminée par ces mots : Quo theoremate I. Pellius refutavit Cfclome triant Chr. Longomontani . Or nous avons vu, au t. IV, p. 348, de notre édition, que cette Refutatiuncula de Pell est de 1644. Schooten le père, auteur du MS., mourut lui-même le i i décembre 1645.
+
+Ces questions de date sont d'un grand intérêt, voici pourquoi : la copie du Compendium Miijtcce donne au bas du feuillet 83 [verso), après la phrase finale : Bredœ Brabantinorum ...amio MDCXVIIl compléta, une note précieuse sur le séjour de Descartes à Bréda, et sur une particularité qui rappelle ses études au Collège de La Flèche. Combien plus précieuse encore serait cette note, si on pouvait la dater du 5 décembre 16S2. qui figure en tête du feuillet i . Mais cela est impossible, comme on vient de le voir, et on ne sait même à quoi répond une date aussi ancienne : serait-ce par hasard (et je donne ceci comme une simple conjecture) la date de la pre- mière rencontre de Descartes et de Schooten père, rappelée par celui-si î Enfin la note en question, si elle est bien du père, ne vient-elle pas aussi en partie de Schooten fils? Elle donne un détail qui semble avoir été vérifié à La Flèche même, par un visiteur; et nous savons que le jeune Schooten fit un voyage en France, l'année 1641. (Voir t. III de notre édition, p. 433, 437, 450, et
+
+t. IV, p. 395.)
+
+Quoi qu il en soit, nous donnerons, d'après le MS. 108 de la Bibliothèque de l'Université de Groningue, d'abord quelques indi- cations relevées çà et là sur Descartes et certains passages de sa Géométrie ou de sa Dioptrique ; puis les variantes, d'ailleurs peu intéressantes (sauf trois ou quatre), que fournit la copie du Com- pendium Mujicœ, plus correcte que celles de Middelbourg et de Leyde ; enfin la note de Schooten, qui avait frappé déjà Bierens de Haan.
+
+�� �
+
+[p. 637] MS. DE SCHOOTEN. 6^7
+
+��GEOMETRIE.
+
+Fol. I. En tête : « Francifcus à Schooten. Anno i632, 5 Decem- » bris » (d'une autre encre, sinon d'une autre main, que ce qui suit). Puis ce titre : « Demonstratio Conjlruâionis 4 Ovalium... » Et au bas de la première page : « Pag. 357. On ne defcrit que de » lignes droites, les hyperboles, les Eliipfes » (voir t. VI de notre édition, p. 429, 1. 8-1 1, avec la figure de la p 429). Enfin au verso : « In teriiâ... » (fig. de la p. 427). « In fecundâ... » (fig. de la p. 426). << In quartà... » (fig. de la p. 427).
+
+Fol. 4, perso. Traduction latine d'un passage de la Géométrie, p. 371, 1. 29, à p. 372, 1. 2, sous cette indication « Folio -2, lineâ » 16 »; puis d'un autre passage, p. 372, 1. 22-24, sous l'indication « Folio 2, lineâ 28 »; enfin d'un troisième, p. 411, 1. 18-21, sous l'indication « Folio i3. In ea verba nempe : Me/me... semblables. » Ce troisième passage est ainsi commenté : « Sciendum enim est, » modum defcribendi per punda quaedam definita, ex quibus non » satis confiât tota fpiralis, quemadmodum etiam quadratricis, des- » criptio vel natura. In hoc autem génère defcribendi lineas curvas » (nempe quemadmodum ostendit D. Decartius) inveniuntur indif- » ferenter punfta infinita, ex quibus contra tota linearum curvarum » confiât proprietas & descriptio. »
+
+Fol. 3, recto. En tête, l'indication : « Ex. l. d. G. » (Lire : Ex ledionibus D. Golij). En tête du verso, même indication ; puis, au bas de la page, le problème suivant : « Si très circuli se invicem » contingant, atque horum centra redis iungantur lineis, fummâ » horum cuborum applicatà ad trianguli fuperfitiem, prodibit dia- » meter circuli quarti hosce très contingentis exterius. Sin autem » sumatur differentia, prodibit diameter circuli interius illos con- » tingentis. » (Voir t. I, p. 139, et t. IV, p. 26-27 et p. 38, etc.)
+
+Fol. 6, recto. En tête : Ex. l. d. G. Puis le problème : « Datis » duabus redis inaequalibus A & B, duas médias proportionales » invenire », sans renvoi; mais voir la Géométrie de Descartes, t. VI, p. 469, 1. 16. De même, Fol. 6 verso : « Ex. l. d. G. : Datum » angulum abc tripartito fecare », sans renvoi; voir t. VI, p. 470, 1. 2. Et au bas de la page : << Not. Omnia solida problemata folui
+
+�� �
+
+[p. 638] 6)8 Additions.
+
+.) possunt per conchoidem, nec non per Ellipfim, vel Hyperbolem, » atque etiam per foiam Parabolam, quae fimpliciffima solutio •) est, ut testatur D. liluftriflTimus Decheartes {sic) », toujours sans renvoi ; mais voir t. VI, p. 464, 1. 17-27.
+
+Fol. 9, verso. Au bas de la page, en marge : « A Dom° Decartio », et traduction latine, suivie du texte français, avec figures, du problème du galand (ou Jlofculum), tel qu’on le trouve, t. I de notre édition, p. 490-493, p. 496, et t. II, p. 274-275.
+
+Fol. i3, l’erso. « Ad quaestionem illam D. III. Decartij : Demon- » Jiratio pro dejcribendâ lineâ hyperbole. . . » Suit une figure ana- logue à celle de la Dioptriqiie, t. VI, p. 176 et p. 178. Puis : « Modus » defcribendi parabolam, ut D. I. Decartius. » Enfin : « Proellipjî », toujours avec les figures de Descartes.
+
+Fol. i3. Développement, en latin, d’un passage de la Géométrie de Descartes, avec l’indication « Ut folio 16, lineâ 2 », qui répond, dans notre édition, au t. VI, p. 417, 1. 2.
+
+Fol. 20. « Testimonio D. lU""* Decartij. — Petrus Rhoden {sic) » Noribergenfis edidit {surcharge : librum cuius titulus) Arithmeticam Philo/ophicam elegantem •. »
+
+« Zarlinus {récrit sur Salinus barré) & Salinas, ambo Itali, » fcripfere Muficam, alter latine, alter italice, à mendis veterum » expurgatam . »
+
+Double note, insérée au milieu de développements mathématiques, et d’ailleurs barrée. Au dessous :
+
+« Observationes ex leftionibus D. Golij. »
+
+Fol. 5i, perso. « Folio 1, lineâ 2. Tous les problefmes... » Suit un long développement en latin. C’est le commencement de la Géométrie, t. VI, p. 369, 1. 4-5.
+
+Foi. 52, verso. « Folio 2, lineâ 28, 29, 3o, 3 1 ... » Suit la traduction flamande d’un passage de la Géométrie, t. VI, p. 372, 1. 22-24, déjà cité d’ailleurs en latin, Fol. 4 verso (voir ci-avant). La traduction flamande continue jusqu’à la p. 373, 1. 2. « Priora verba alias
+
+a. Voir ci-avant, p. 242, 1. 7.
+
+b. Ibid., p. 134,1. 1, ex note.
+
+[p. 639] MS. DE SCHOOTEN. ÔjÇ
+
+» expHcui », ajoute Sfhooten, faisaftt allusion, en effet, au Fol. 4 verso. Vient ensuite ceci :
+
+« In queftione Pappi, non pcffumus ex duabus quantitatibus x » &_^ duas aequaliones ostendere ; ex quibus igitur patet pundum » C non esse unicum determinatum pundum. »
+
+« Quia igitur ex quantitate x non possum aequationem ostendere, » vel quia quantitati x non correfpondet aliqua aequatio, qujero » pro^ aequationem, & existimo quantitatem x tanquam cognitam » secundum difcretionem. »
+
+« Ad quod etiam faciunt hase verba in Epiftolâ. Nempe notan- » dum est etiam, licet hae duae quantitates ignotae x &^ necessario » rtquirantur ad determinandum pundum C quaesitum, tamen in » totâ propositione non esse materiam nlfi unius fequationis, qua; » habetur ex eo quod produftum ex multiplicatione reliquarum; » unde sequitur evidenter iniînita esse posse talia punfta C, & ad » fmgula ex illis invenienda, utramlibet ex quantitatibus ignotis x » &_>' ad arbitrium sumi posse (tamen intra certos terminos, sed qui » facile possunt inveniri), ut deinde per alteram solam ex datàœqua- » tione inveniendam determinetur unum pundum C. Et mutatà » deinde positione lineœ ad libitum affumptae, aliud pundum C » quasratur, atque ita in infinitum. >>
+
+Fol. 53. « Ex D. Decartio. Quot radiées in cubkis aequationibus » occurrunt, tôt plurimum problema admittit casus. »
+
+Fol. 55, perso. « Folio 22, in lineis 20, 21, 22, î3, 24, 25... » Suit la citation, en français, de trois passages de la Géométrie de Des- cartes, t. VI, p. 432, 1. 26-28; p. 432, 1. 28, à p. 433, 1. 7, et p. 374, I. 29, à p. 375, 1. i3.
+
+Fol. 56, recto. Remarque sur la figure 10' (du 2' livre), qui se trouve au t. VI, p. 414 : « Linea curua quae in figura 10 defcribitur, » eadem est quae prima oualis, quae folio 19 lineâ 12 defcribitur, » ut patet in prioribus lineis folio 22 & alijs in locis; quod facile » demonstratur per conftrudionem ipfîus. » Les deux autres indi- cations correspondent aux pages 424 et 43 1 de notre édition. A la même page, plus bas, se retrouvent les mêmes indications, sous la rubrique : Ex. 1. d. G.
+
+Fol. 56, verso. « Folio 22, linea 27... In eodem folio, lineû
+
+�� �
+
+[p. 640] 640 Additions.
+
+l'equenti vel penultimâ. » Toute cette page, en latin, correspond à la p. 433, 1. 7-14, et 1. 15-19, t. VI de notre édition.
+
+Fol. 57, recto. Citation, en français, (mais sans renvoi), d'un texte de la Géométrie de Descartes, t. VI, p. 453, 1. 14-22, suivie d'une courte explication en latin. Puis, sur la même page : « Folio 9 » lineâ 3. Ponuntur très conditiones in queftione Pappi ad deter- » minandum pundum C, quando fit in redà lineà. » Suit l'énoncé des trois conditions, en flamand.
+
+Fol. 57, verso : « Moyen de réduire des nombres fours en ratio- » naux, sans altérer le i" terme de l'équation. » Soit donné
+
+.v^- v'3*Ar -s g;c-^V3cx,o;
+
+» & l'on demande un autre en sa place, dont tous les termes s'ex- » priment par des nombres rationaux.
+
+« Il faut supposer_^ »? * V'i. Et ainsy sera ^ 00 x, son quarré » 00 ^, son cube sô 0j.
+
+» Ces quantités estant mises en la place de(s) données, nous » aurons
+
+Jl! \Û^ 4. JUL Ë_
+
+» Ce qu(i) estant réduit soubs une mesme dénomination de la » i" 3 v'3, il viendra
+
+y' 3 ry 1 9 ^ y_
+
+iWi 3 |/'3 ' FTI 3 k'3
+
+>, vel j^ — 3j^jr + |V — s • »
+
+(Voir la Géométrie de Descartes, p. 452. 1. 20, à p. 453, 1. 5, de notre édition.)
+
+« Réduire de mesme des nombres rompus aux entiers.
+
+» Soit derechef donné
+
+J^' - -iss + s ^' - I-
+
+» Pour en oller la fraction, posons i do "iy, ou bien ^ »> j'; & par » consequent^^^ sera efgal à ^,_^' so i-.
+
+» Et ainsy nous aurons, en la place de la donné(e), la somme sui-
+
+» vante
+
+is iîi4.2lî i.
+
+»: 9 ' î7 9
+
+�� �
+
+[p. 641] MS. DE SCHOOTEN. 64T
+
+» laquelle estant réduite soubs une mesme dénomination, le produit
+
+» fera
+
+î^ — 9 îï + 26 î — 24. «
+
+(Voir Descartes, Géométrie, p. 453, 1. 6-10, de notre édition.)
+
+Fol. 58, recto : « Réduire une Equation de 4 dimensions, dont le » fécond terme cest {sic) défia ofté, à une autre de 3 dimensions. » Au lieu de
+
++ s PU <ll '* ^o » efcrivez
+
++r' -^ps' \rj-7 — <i remettez ces deus
+
+n— JT + tJT tP "x +s-y + î sj- tP
+
+��2 y
+
+��— 30 o
+
+��» Pour les signes, le 4*"* terme '- p retient son signe, & le dernier >.' -^ prend celuy de son fécond ^^, lorsqu'il y a — ^ en la l'^^^Equa- » non. Et au contraire, quand il 3' a + q, il demande le contraire » signe de son fécond _^î. »
+
+(Voir Descartes, Géométrie, p. 437-8 de notre édition.) .(< Falffe radiées (/. VI de notre édition, p. 44S, l. 6), sunt ca;, qu;t » minus constituunt nihilo : ut si ab AB, redà lineà ad punClum A
+
+��» terminatâ & versus B infinité, velim aufferre radicem leu redam » CD minorem ipfàCA, aufferreretur ab A B ex casu minus nihilo : » utpote si aufferrem CA, remaneret nihil. Et quoniam tali sub-
+
+ŒUVRES. V. 81
+
+�� �
+
+[p. 642] 642 Additions.
+
+» dudione radicis CD ex AB, AB non minuitur, dicitur CD falsa » radix. Sed si CD excederet ipsam CA (ut CE), tum fieret vera. » « Imaginariœ autem radices, eae intelliguntur, ut in primo libro, » figura 4' (/. VJ de notre édition, p. Sjô), lineae QM & RM, cùm » circulus LQR redam MR non fecat nec tangit; quas eo casu » imaginariœ tantùm sunt, nuUae veras, nec falsa', & quœ ita expri- » mcrentur
+
+a: 30 2 -s- |/ — I, » vel
+
+X 00 2 — [/ — I
+
+» cum A\v 3o 4 .V — 5. » » Vide pag. 38o (/. VI de notre édition, p. 434), ubi œquatio
+
+.v^ — (") .v.v + 1 3 -v — 10 :» o,
+
+» diuifa per .v — 2, producit ^Equat. xx — 4x4- 5 =0 o, qufç am- » plias diuidi non potell. Inde confiât x valere tantùm 2. Nisi fado » XX 00 4 a: — 5, duaî aliae radices reliquœ impoflibiles (ut supra) » fingantur, 2 + [/ — i, & 2 — [/ — i, ut provenientes ex aequa- » tione impoITibili xx ^o 4x — 5. »
+
+Fol. 59 : « Nota. D. I. Decartius lemper curât ut habeat veras >i radices in iEquatione, vel ut signa + & — semper se sequantur : » quod fit quando verae radices totidem augentur, quantitate maiore » unà falfarum radicum, ut videre est fol. 3i linea 2 (t. VI de notre » édition, p. 450). Et hoc idcirco facit, ne necelie sit ostendere illi, » quot modis occurrere poflit asquatio, nec quot in utràque earum sint » verœ & falfse radices; quod infinitae elîet molestia;, nam in cubicis » œquationibus ad minimum i3 occurrunt modi, & in furfolidis » tantô plures. »
+
+« Copie.
+
+» Advertilfenient de Mons"" Dcchartes, en la page 400 (/. VI de » notre édition, p. 4'j3-4~4) sur ces mots » :
+
+Que la valeur des racines est autant ou plus aisée à concevoir, lors qu'elle est la fubtendue d'un arc dont le triple est donné, que lorsqu'elle est le costé d'un cube donné, sans y adioufter aucune façon de chiffre pour
+
+�� �
+
+[p. 643] MS. DE SCHOOTEN. 64 J
+
+exprimer ces fubtendues, à cause que, pouvant estre imaginée en mille façons qui sont auflî bonnes Tune que l'autre, i'ay mieux aymé laisser à un chascun la liberté d'en inventer à sa fantaisie. Mais, par exemple, 5 si en la fygurede la page 399 le rayon NO est 7, & que la fubtendue NP soit 8, on peut exprimer NQ,par ces chiffres (racine première fubtendue du cercle dont la fubtendue donnée est 8 & le rayon est 7)
+
+'o & NV par ceux-cy
+
+v/7pi7, & enfin NQ.+ NV par
+
+entendant par 1 5 la plus petite racine de l'équation, i5 par 2^ la féconde, & par j^ la troisiesme, qui est icy tousiours faufle.
+
+En la page 400, ligne 16, il doit y avoir
+
+comme il y a; car ie mets la ceste aequation, pour 20 monftrer que sa racine, qui est
+
+��ne s'exprime pas si ayfement que celle de
+
+�� �
+
+[p. 644] 644 Additions.
+
+que ie mets un peu après, ligne 2^, où le chiffre i en + qX elloblié(-y/c).
+
+Viennent enfin quatre renvois aux p. 297 et 298 de la Géométrie (édition de 1637), soit à la p. 370, t. VI de notre édition.
+
+COMPENDIUM MUSICiE.
+
+VARIANTES.
+
+Page 89, ligne 4-5 (ci-avant) : affedus] effedus. 1.6: diverfaï] diuersa. 1. 10 : differentiae] differentia. 1. i3 : agant sic. Page 90, 1.2: reddere omis.
+
+1. 6 : obmutefcere] demutefcere. Page 91, 1. 7 : fcloporum] écrit d'abord, puis corrigé, de la même main : fclopetorum . 1. 27 : fâtigetur] écrit d'abord, puis a récrit sur G : fatigatur. Page 93, 1. 2 : facillime omnium.
+
+1. 16-17 : " *" d'une blanche, une ronde {faute). Page 94, 1. i3 : illud] illum.
+
+1. 20 : concipit] concipere... (sic), avec addition postérieure : licet. Page 98, 1. 12 : confonantiarum] confonantiam. Page 99, 1. 4 : ad odavam immédiate.
+
+1. 23 : vlteriori] ulterioris. ,
+
+Page 100, 1.6: geminetur {sic).
+
+Page io\ .ijigure : Après Secunda figura] ajouté au crayon : confo- nantiarum iuxta ordinem perfedionis. 1.5: iam iam écrit d'abord, puis le premier iam barré. Page 102, 1. 3 : quod] qui meilleur.
+
+1. 24 : nec ulterius. Idcirco mauvaise ponctuation ; aussi note au crayon en marge du MS. : « puto hic vocem non esse omijfam, » Page 106, 1. 4-5 : quintae gênera.
+
+1. 8-9 : necessaria... deledationem {sic). Note en marge au crayon : « puto vocem omijfam esse pareret. » Et le mot pareret est récrit, en effet, au-dessus des points.
+
+�� �
+
+[p. 645] MS. DE SCHOOTEN. 64^'
+
+Page 106, 1. 27 : après palato]... esse {sic). Lacune aitisi comblée pat- conjecture : novimus delicatu.n. Page 107, 1. 7 : e(l quintae omis.
+
+1. 9 : Ad quod {sic) intelligenda. Puis quae récrit sur quod. Mieux vaut lire intelligendum.
+
+1. i3 : diflans à) diûeni'n faute. Page 108, 1. I : quôdl qu£e.
+
+Page 109, 1. 14 : au-dessus de iinaginetur] conjecture au crayon : repraefentetur. — fonum] sonus.
+
+1. 19 : erit in fine. Page 1 10, 1. 1-2 : après minor" oritur ajouté,
+
+1. 18-19 • ^^ '"^'"^^ <^u crayon : « Siquidem omnis variatio ad minimum inter duo consistit. » Page III, 1. 3 : monftrumi monftraui faute. D'oit conjecture au
+
+crayon pour tout concilier. Page 112, 1. 2 : après Gradibusj Harmonicis ajouté au crayon.
+
+1.8: pofiit] poli'et.
+
+1. 10 : dividaturl diuidant.
+
+1. 25 : vterque] utrumque. Page 1 17, 1. 26 : est exigua. Page 1 19, 1. 6 : poflit ita. Page 120, 1. 12 : patet igitur. Page 122, 1. 2 : quam] quem mieux.
+
+1. 21 : vtuntur] utantur id. Page 125, 1. 7 : fubijcio] obijcio. Page 127, 1. I : enim unquam.
+
+1. 10 : partes nerui.
+
+1. 17 : maxime videtur esse. Page 128, 1. 22 : quorum] quarum mieux. Page 129, 1. 14 : diffonantiarum] confonantiarum/<î«/e.
+
+1. 27 et 28 : ^ «/ ^ manquent. Page i3o, 1. 1-7 : manquent.
+
+1. 20 : habetur] habet.
+
+1. 24-28 : manquent. Page i3i, l. 8 : defedum] defedus. Page i32, 1. i5 : non] nos faute.
+
+1. 2s : prohibeatur] exhibeatur.
+
+1. 26 : varietatem] variatam. Page i34, l. 2 : idem] item. Page i35, 1. 17 : après enim] multa ajoute. Page i36, 1. 4 : motibusl modis.
+
+�� �
+
+[p. 646] 646
+
+��Additions.
+
+��Page i36, 1. h--j : tantum fit.
+
+1. 28 : vel] et. Page i38, 1. 22 : après inl illa ajoute. Page iSg, I. 1 1 : est] et.
+
+1. 18: diverfisdùntaxat modis. Page 140, 1. 10 : &, vel.
+
+1. 16 : afaut ditoni] at ajouté? Page 141, 1. 7 : diverterent] averterent.
+
+I. Il : cogitanti... agenti, — tuî] tua.
+
+Note de Frans van Schooten : « Scripsit hœc pro Domino Bec- » manno, Scholae Dordracenae moderatore {ajouté ensuite : cùm « ageret, ni fallor, annum ai""""") tune temporis cùm primùm in bas » regiones veniffet {idem : & ex Scholà Flechianà in Gallià ubi i^u- » duiffet fortitus eflet), ut rei militari se incumberet {corrigé sur : ut » rem militarem agere addifceret, écrit d'abord). Manfit autem Bredaî » per i5 menses, unde in Germaniam difcelfit, dum inteftina bella » ibi orirentur, ut mihi ipse narravit. »
+
+<< Habentur & libri in Bibliothecâ Flechianà suâ manu notati & » Collegio donati. Nam ibidem moris est, quemquam non egredi » fcholam, qui non {pro quin, écrit d'abord) donarit ipse {sic) Biblio- » thecae librum aliquem. » {Fol. 83, verso.)
+
+La couverture de ce MS. de Groningue fournit, collé à l'intérieur, un curieux document. C'est un placard, imprimé en assez gros carac- tères, sur une seule feuille & sur un seul côté de cette feuille, de façon à pouvoir être affiché. Entre le titre et le texte, une vignette représente, sur un fond de paysage, quatre personnages vêtus à la mode du temps, dont l'un offre aux autres une longue feuille (sans doute le placard), tandis qu'un autre tend la main pour le prendre. Voici ce document (cf. t. II, p. 582, et t. IV, p. 228-9 ^^ p. 232) :
+
+Problema Aftronomicum
+
+&
+
+Geometricum
+
+voor-geflelt
+
+Door loHAN Stampioen de Jonghe Mathematicus,
+
+Refiderende in 's Graven Haghe
+
+Aende
+
+A'ytgevers van het Antwerpfch
+
+Vraeg-Stuck.
+
+{Vignette)
+
+�� �
+
+[p. 647] Variantes. 647
+
+Synde in den Lenten tijt, een Slierman op een onbekende plaetfe in een essen Horizontael otte Water-pas velt, op eenen morgenrtont, als de Sonne Klaer was fchynende, heeft daer drie Itocken van onge- lijcke lengte op-gherecht in de Lootrije. Eerftelick, merckende de fchaduwe van den stock A bev(;adt die te eyndighen in B, alfoo dat A B lanck was 33 voeten. Een weinigh tijdts daer na de Sonne wat hoogher zijnde, heeft de Schaduwe van den rtock A bevonden te eindighen in C. {Ajouté à la main en note : ten derden die van B in C.) Ten vierden foo quam de fchaduwe van B te eyndighen in A. Ten laetften de Sonne wederom wat verloopçnde, foo quam de fcha- duwe vanden stock G te eyndighen in A. Den dach verloopen zynde heeft de uyterfte vande drie Koninghen itaende op het beelt van Orion in een rechte lynie water-pas bevonden : Ende van ftonden acn ghenierckt dat het binnenfle der vier Planeettjcns die om Jupiter loopen EcUpfeerde. Vraghe ? op wat Polus hoogte, op wat dagh van t'Iaer, op wat ure dat de Son elckmale geobferveert is, cnde oock hoe verre de llocken van den anderen ftonden. Midtfcha- ders oock de ware lenghte van de felvc plaetfe. Als de stock A lanck is 6 voet, B 18 voet, ende C 8 voeten.
+
+Antwoordt.
+
+��II.
+
+EXCERPTA MATHEMATICA.
+
+[Pages 285-324.)
+
+Comme nous l'avons dit, p. 281-284 ci-avant, nous avons pour ces Excerpta, deux textes : un imprimé, qui se trouve dans lnnOpu/- cula Pojîhumade Descartes (édition d'Amsterdam, 1701), et un MS. de la Bibliothèque de l'Université de Leyde. Dans les variantes ci- dessous, le premier est désigné par la lettre A, et le second par la lettre L.
+
+Page 285, 1. 2 : Titre manque A et L.
+
+1. 4 : circumferentias] arcûs L.
+
+Page 286, 1. 5 : >/. 2 — v/2. A] I/2 — \/2 L. Même différence de notation dans ce qui suit.
+
+�� �
+
+[p. 648] 648 Additions.
+
+Page 286, l. 7 : Item (AetL^. Tout ce qui suit est imprimé d'une seule teneur, sans que Item soit répété, ni que rien le rem- place [A.). De même dans le MS., sauf que Item est remplacé par les deux barres verticales \\ (L).
+
+Page 287, 1.7: Omis A.
+
+1. 19 : est A, remplacé par un trait vertical \ L. De même dans ce qui suit.
+
+22 : vel... ^'-, omis A. 23, à p. 288, 1. 2 :'^... y/3, omis A.
+
+Page 288, 1. 3 : enim L] etiam A. — quo L] vt A. 4-5 : Subtenfa... femicirculi A] \ L. (3 : y/^ second Lj {.faute A. Il : ^lL.\\'lfauteA. 12: -v/^L] + y/;/a«/« A. 16 : Le second Vi omis, et son signe — placé après y/-. A.
+
+23 : Le premier signe — manque A. Page 289, I. ,:^efty/.§]4eftSA.
+
+1.3:+^]-U- 4:+;]-:a.
+
+1.6: y/. 2] y/. 2 A. 7 : ^ ... 5 y/3 manque A. 9 : — î- manque A. — + 5] — l A. I. i5 : premier signe — ] ~\- faute L. 1 5 et 16 : Les deux fois : aq L] aa A. 21-21 : triangulum Lj Alum A. De même dans ce quisuit. 2 5 : fit omis A.
+
+Page 290, 1. 3 : Après inueniri.] velQtum bd + □cYc ooC]bc + pro-
+
+dudo ex L 1 bdc in lincain be, cùm ac icquatur vnitati A.
+
+Ajouté avec une figure que l'on retrouvera plus loin. Ceci
+
+parait, en effet, une note qui se rapporte à p. 2g i, l. lo-ig.
+
+1. lo-i I : < propofitionis > manque A et L.
+
+1. 14 : grad. sa- A et L.
+
+1. i5-i6 : reftangulum... comprehenfum L] redangulo... com-
+
+prehenfo A. I. 18 : graduum] grad. A, gradum L. 1. 19-20 : quia... vnitas. En marge devant Ita, /. i3, L. 1. 21 : graduum] grad. A, gradum L.
+
+�� �
+
+[p. 649] Variantes, 649
+
+Page 2()o, 1. 22 : minor A] minus L.
+
+1. 26: i33 grad. A] i33 gradum L.
+
+I. 27-28 : quia... •2. En marge devant Item, 1. 21, L. Page 2yi, 1. 1 : quantitate, omis L.
+
+1. 2 : illis L] ijs A.
+
+I. 4-3 : 4 quia... V'i- En marge devant Item, p. 2go, L 2g, L.
+
+1. 10 : BCD|*ccVL, bdc A..
+
+I. i5 : est après vna A.
+
+1. 19 : après ad EA] Hoc est : fiât vt ae ad be, sie l H um bdc ad quantitatem quœ vocetur A; dico Ota bd~\- de ^oQto bc + quantitate A. Ajouté A..
+
+i. 20 : E contra verô L] E contrario A. — Apres ambligonio] Alo, ajouté A.
+
+1. 23 : potest inveniri Lj inuenitur A. — Après inueniri] di- cendo ajouté A.
+
+I. 23-25 : Sit... dico omis A.
+
+1. 25 : après BD {second)] perpendicularis ajouté A.
+
+1. 27 : après diametrum.] NB. ac est basis : ab Si. bc latera. Ajouté A. Page 293, 1.10: anguli (second) omis A.
+
+\. 12 : quâ L] quam A.
+
+1. 22-24 • qui... illum omis L. Page 294, 1. 4, à p. 297, 1. 6 : Si... Germanorum. Omis A.
+
+I. 24 : numerorum] vtrorum L.
+
+1. 25 : 2 J] 2 '}^, faute L.
+
+1. 26 : idem. Page 295, 1. H : 3/3] 3i5. — 5/i6] 5n6.— 35/i3] 35i3.— i3/i2oJ r3i2oL.
+
+I. 9: 33] 33 L.
+
+1. 22 : 2 fecundi] 2' L.
+
+1. 24 : tertij] 3' L. Page 296, I. I : quarti] 4' L.
+
+1.4: primi] i' L.
+
+1. b : tertij] 3* L.
+
+1. 7 : quarti] 4'. — fecundi] 2' L.
+
+I. 17 : supponatur] fuppofcatur L. Page 297, 1. 9 : vel tribus, omis L.
+
+1. 10 : numeris, omis L. Page 298, 1. 5-7 : Quod... primis. Omis. A.
+
+1. 8 : minor est vnitate] plus vnitatc est A.
+
+1 9 : aliquo numéro quadrato] Qtum A.
+
+Œuvres. V. 8»
+
+�� �
+
+[p. 650] 6^0 Additions.
+
+Page 298,1. io-i5: triangulaiis...quadrato.) Alaris *"^^** , ergo 8plum «i + 8x» ç^^ ^x-\- ^xx ; cui (î addatur i, fiet i -\-4x-- 4xx, cuias radix \ -\- 2x. A. Page 299, I. 1-2: Omnis... pronicis. Omis A.
+
+I. 3, à p. 3oo, 1. 6-7 : Problema... circumfcriptae. Manque A. Page 3oo, 1. i : vt conjecture] aut L.
+
+1.4: distantia] diftantià [sic] L. Page 3o 1,1. 10 : < ax> ow/s A.
+
+I. i5 : a]-\-a. A.
+
+1. 16-17 ■ " + ''■^'■ + ■^'■•° - "■'" ~ ""'" + ' A.
+
+ac — a — c -\- n
+
+Page 3o(), 1. 4 : E.xemplum fit curvaî A.
+
+I. 6 : COMF {Fermât).
+
+1. 10 : ad] in {id.).
+
+1. i3 : esto specifica] specifica cst {id.). Page 307, I. 2 : Si] Ut {id.).
+
+1. 3-4 : supponatur] sumatur (ùY.).*
+
+1. 6 et 1. 8 : inueniendam {id.). — fiet [id.). Page 309, 1. 17 : cubum. A.
+
+1. 24 : 76 a*bcd. A.
+
+1. 25 : -[- 416 a'^G^cd. Et plus loin : 272 a^bbcc. A. Page 3 10, 1. 2 : fuerint] fuerit A.
+
+1. i5 : fintquej funtque A. Page 3 1 1 , 1. 6-7 : B E dudam per FG elle ad G E dudum per H F vt. A.
+
+1. i3 : — abl-^-ab. A.
+
+1. 14 : «< + 2 i^x > omis A.
+
+[. 20 : e 00 x". A.
+
+1. 22, et suiv. : lettres minuscules aux figures A.
+
+1. 22 : 1] « A. Page 3i2, i. 1 : affixo] at fixo A.
+
+1. 5:-s]=oA.
+
+'■ 9-" — 4^1 4rj- A. Page 3 1 3, 1. I : AD] c — a.A.
+
+1. 5: b-\- y] by. A.
+
+I. 9 : ccr\ xy. A.
+
+l. 21 : FB]/7. A.
+
+1. 21 : —y] +^. A. Page 3 14, 1. 1 : t] X. A.
+
+1. 3:c]*.A.
+
+1. \o'. a — y... b -j- cy {combinaison impossible). A. Page 3 I 5, 1. 10: cyy] ayy. A.
+
+i. 10 : 2bcy] lay. Le dénominateur est omis A.
+
+[p. 651] Moyennes Proportionnelles. 651
+
+Page3i6, 1. 4; 8*<^c/] 8^»*;/. A. 9 : abb] aabb. A. Il : bU] b\ A. i
+
+21 : AE [second)] a°. A. Page 3 18, 1. 10 : Après l'expression de DE, se trouve intercalée la parenthèse ci-après, l. i5-i6, A. 1 1 : primo] t. A. i5 : c — i] c — ;/. A.
+
+23 : /»] ^ A. — sit] fit. A. — ^ oo |£^ ^ A. A. 319, 1. 4 : Les signes -\- manquent à la 4' colonne A. i5 : [3' colonne [bbcc] ^bbc. A. — [ibid.) ^abc] ^bc. A. Le
+
+signe -j- magique devant Saabc (5« colonne). A. 21 : ccj'] ccd. A.
+
+320, 1. 6 : AE ^ a — dj^ & B, omis A. , 6 : — cy] — 1 c/. A. . -j : a-\- cy. A.
+
+9 : AE =» a 4- <^.r & B, omis A. 17:4 quadratum] ntum. A. 331, l. I )Le signe V- — manque A.. 2 : [dénominateur) ddy] bdj. A.
+
+18 : Après l'expression de ^F est ajoutée celle de PC, p. 322, l. 2, puis l'alinéa suivant, l. 3-g, A. , 18 : [dénominateur) ddf [rétabli par Leibni^)] ds. A. 322, 1. i : Le signe — manque devant xx. A. . I o : B, omis A. 323, 1. 9 : 3°] tertio A. .11: 6'»">, 7 & 8 A.
+
+. 17 : [dénominateur) — ac [corrigé par Leibm\)] — c. A. Page 324, 1. 4 : [dénominateur) — bd [id.)] ■\- bd. A.
+
+��Page
+
+��Page
+
+��Page
+
+��Page Page
+
+��III.
+
+MOYENNES PROPORTIONNELLES.
+
+[Pages 342-346.)
+
+Le géomètre de Paris, dont parle Beeckman, est sans doute Claude Mydorge. Du moins, à deux reprises, Descartes, dans sa
+
+�� �
+
+[p. 652] 6^2 Additions.
+
+correspondance, rappelle au P. Mersenne, à propos de la duplication du cube, que lui, Descartes, avait indiqué autrefois la construction de ce problème, et que Mj'dorge en fournit la démonstration. Voir les lettres du 4 nov. i63o, t. I, p. 17S, 1. 3-9, et de juin i632, ibid., p. 256, I. 3-10.
+
+S'il en est ainsi, peut-être devons-nous rectifier la double indica- tion donnée, t. I, p. 252, 1. 24-25, à la fin d'une lettre de Descartes, du 10 mai i632 : « duplication du cube de Messieurs M(ydorge) & H(ardy) ». Le P. Mersenne n'avait pas à envoyer à Descartes, en |C32, la démonstration de Mydorge, mais bien une autre démons- tration, que Descartes ne connaissait pas encore. Et cette autre démonstration paraît être celle de Robervai. En effet, le P. Mer- senne, dans ses deux publications, latine et française, des Harmo- nicorum libri XII et de Y Harmonie Vniuerfelle, en i636, donne, tout au long, une démonstration de Robervai pour le problème des moyennes proportionnelles (dont la duplication du cube n'est qu'un cas particulier). Voici cette démonstration, faite sur une construc- tion donnée par Descartes lui-même", comme le déclare aussi le P. Mersenne.
+
+Nous donnerons d'abord le texte français, tiré de Y Harmonie Vni- uerjelle, Livre VI : Des Orgues, p. 407-412. (Voir ci-avant, p. 564, note.)
+
+« ADVERTISSEMENT. »
+
+« Puisque ie me suis eftendu si fort sur toutes les difficultez de » l'Orgue, & que i'ay tracé son Diapafon en tant de manières, » dont celle qui dépend des onze | moyennes proportionnelles est » l'vne des principales, ie veux icy adioufter vn moyen de les » trouuer Géométriquement, puis qu'il dépend d'vne seule Para-
+
+a. Voir ci-avant, p. 591-592, et p. 519, note. — Relire, à ce propos, l'anec- dote ci-avant, p. 47-5 1 . Comme il y a presque toujours dans le récit le plus fantaisiste un fond de vérité, peut-être cette anecdote d'un problème si vite résolu par Descartes, au grand étonnement de Beeckman, se rapporterait, dépouillée de toutes les circonstances accessoires, et avec un changement de date ( 1 628, au lieu de 1 6 1 8), au problème de deux moyennes proportion- nelles ou de la duplication du cube, dont notre philosophe aurait donné à Beeckman la solution et la construction, tandis que la démonstration en aurait été ensuite envoyée de Paris. Mais ce n'est encore là qu'une conjecture.
+
+�� �
+
+[p. 653] Moyennes Proportionnelles. 6^j
+
+» bole, & qu'il a esté trouué par l'vn des plus excellens efprils du »> monde, dont la modestie est si grande, & si extraordinaire, qu'il ne » veut pas estre nommé. le n'eu(se icj' mis que la Conftrudion qu'il » m'en a donnée, n'eust esté que Monsieur de Roberval, tres-excel- » lent Géomètre, & Professeur des Mathématiques dans le Collège » Royal de France, en a fait promptement la demonstration : ce qui » m'a défia donné sujet de la mettre dans la féconde Proposition du » liure Latin des Cloches; mais elle sera mieux icy, à raison de la » figure dont ie me sers, laquelle respond plus ponduellement au » discours, que ne fait celle dudit liure, à laquelle il manque » quelques lignes. De sorte que l'on aura icy ce que ie n'auois pas » voulu donner dans la feptiefme Proposition du fécond liure des » Inftrumens», où i'explique diuerses manières Géométriques & » Mechaniques pour trouuer onze, 2 3, &c. moyennes proportion- » nelles entre deux données, pour diuifer l'Odaue en douze demi- » tons, & en vingt-quatre dieses, ou quarts de ton. »
+
+PROPOSITION XLV,
+
+Entre deux lignes droites inefgales données, trouuer deux moyennes continuellement proportionnelles, pour diuifer le Diapafon des Orgues en dou\e demitons ejgaux.
+
+« Cette conftrudion est, à mon auis, la plus simple de toutes celles » qui ont esté inuentées iusques à maintenant pour la solution de ce » Problème, duquel dépend la duplication du Cube si célèbre, & » qui a tant esté recherchée par les Géomètres Anciens & Modernes : » de sorte que, dans les Commentaires d'Eutocius sur Archimede, » il se trouue onze Auteurs des plus renommez entre les Anciens, " sans ceux de nostre temps, qui en ont donné la demonstration, les » vns par les lieux solides, comme Menechmus; d'autres par des » lieux linéaires, comme Nicomedes, Diodes, & nostre Viete ; & ). d'autres par des mouuemens impliquez, comme Platon, Architas,
+
+a. Livre II : Des Inftrumens à chordes, prog. VII : « Demonstrer que le » ton maieur, & mineur, l'Odaue, & tous les autres interualles peuuent » estre diuifez en deux, ou plusieurs parties efgales ; d'où il^s'ensuit que » l'on peut diuifer l'Oflaue en 12 demy-tons efgaux : où l'on verra la » manière de trouuer vue, & deux moyennes proportionnelles entre deux V lignes données, de doubler le cube, & de mettre les touches sur le » manche du Luth & des autres inftrumens. » (Harmonie VniuerfeUe, p. 65-70.)
+
+�� �
+
+[p. 654] 6^4 Additions.
+
+» Philon de Bifance, Pappus, & Sporus; ou par des descriptions de
+
+» cercles à taftons, comme Héron, & Apollonius : laiflant à part vn
+
+>) grand nombre d'autres, lesquels, au lieu de demonstrations, ne
+
+» nous ont donné que des Paraiogifmes. Or comme les Anciens, au
+
+» rapport de Pappus, ont estimé que c'estoit vne grande faute de
+
+» resoudre par les lieux solides, ou linéaires, vn Problème, qui de sa
+
+» nature pouuoit estre refolu par les seuls lieux plans : i'estime fem-
+
+» blablement que la faute n'est pas moindre, de resoudre par des
+
+» lieux linéaires, ou par des mouuemens impliquez, ou par des des-
+
+» criptions à taftons, vn Problème, qui de sa nature peut estre refolu
+
+M par les lieux solides. Car puis qu'entre les lieux l'ordre est tel, que
+
+» ceux que nous appelions phns, sont les plus simples, à sçauoir la
+
+» ligne droite, & la circonférence du cercle, la description desquelles
+
+» Buclide demande luy estre accordée au commencement de ses
+
+» Eléments : aprez lesquels fuiuent les lieux solides, qui prennent
+
+» leur origine de la fedion d'vne superficie Conique, engendrée
+
+» d'vne ligne droite & de la circonférence d'vn cercle, lesquels lieux
+
+)) solides sont la Parabole, l'Ellipse, & l'Hyperbole : qui sont suivis
+
+» des lieux que l'on appelle linéaires, engendrez le plus souuent par
+
+>> deux mouuemens impliquez, comme les Conchoïdes, les Spirales,
+
+» iQuadratrices, & vne infinité d'autres, dont la description est
+
+> pour l'ordinaire presque impoflible il semble raisonnable que » tout Problème qui peut estre refolu par les lieux plans, soit refolu
+
+» par les lieux plans : & que celuy qui, ne pouuant estre refolu par
+
+» les lieux plans seuls, le peut estre par les lieux solides seuls, ou
+
+» meflez auec les lieux plans, doit estre refolu par les lieux solides
+
+» seuls, ou meflez auec les lieux plans : enfin, quand vn Problème
+
+)) est de telle nature qu'il ne peut estre refolu par les lieux plans ou
+
+» solides, alors il est permis de le resoudre par les lieux linéaires
+
+» seuls, ou meflez auec les lieux plans, & solides : de sorte toutefois
+
+» que l'on se férue le plus que l'on pourra des lieux plans, & le
+
+» moins que l'on pourra des autres ; & qu'vne conftrudion soit plus
+
+» eftimée, en laquelle il n'entrera qu'vn lieu solide, le reste estant
+
+« plan, que celle en laquelle entreront deux lieux solides, puis qu'à
+
+" l'imitation de la natur^c, nous deuons tout faire par les moyens
+
+■rt les plus simples. »
+
+<i Pour cette consideration, en la solution du Problème qui se « presente, lequel n'a peu encore estre refolu par les lieux plans « seuls, ie ne puis approuuer d'autres conftruétions, de toutes les » anciennes, que celles de Menechmus, qui en donne deux : l'vne par n le moyen d'vne parabole, d'vne hyperbole, & de la ligne droite ;
+
+�� �
+
+[p. 655] Moyennes Proportionnelles. 6^^
+
+l'autre par le moyen de deux paraboles, & de la ligne droite. Mais i'estime encore dauantage celle qui fuit< laquelle le fait par le moyen d'vne seule parabole, du cercle, & de la ligne droite, & a esté inuentée depuis peu par vn homme de condition & de mérite, qui pour son rare esprit est l'vn des plus grands ornemens de nostre France. Il esl vray qu'il ne nous en a donné que la conftrudion; mais il n'a pas esté difficile d'en trouuer la demonstration, l'vne & l'autre desquelles est comme s'ensuit. »
+
+« Soient deux lignes droites inefgales données, in, u, delquelles m soit la moindre : & qu'entre les deux il faille trouuer deux
+
+��m
+
+��£
+
+�� � �\
+
+�'
+
+�" ^*>^ f
+
+�\
+
+�\ J
+
+�\
+
+�G
+
+�'\ y
+
+�"v
+
+�■^ f
+
+�\y
+
+� �J>\
+
+� � �%
+
+��H
+
+��» moyennes continuellement proportionnelles. Soient A E, EH, » deux lignes droites perpendiculaires l'vne à l'autre, desquelles AE >) soit efgale à w, & E H efgale à n : & soit coupée A E en deux » efgalement au point B, duquel sur A E soit efleuée la perpendi- » culaire BC, de mesme part que E H, & efgale à la moitié de la » mesme E H : soit âufli menée la ligne C A : & du centre C & de » l'interualle CA soit defcrit vn cercle, duquel la circonférence » pall'era par les points A, H, E : ce qui est facile à demonstrer. » Puis, estant prise la lighe AE donnée par position pour l'axe d'vne » parabole, & la longueur de la mesme AE pour costé droit ; soit » defcritte la parabole AGD, coupante la ligne E H au point G, & la » circonférence du cercle au point D. Or c'est vne chose claire, que « la parabole coupe la ligne EH, perpendiculaire à l'axe AE; » qu'elle coupe, il se prouue aufli, la circonférence du cercle entre » les points E, H, d'autant que la ligne EG, par la nature de la para-
+
+�� �
+
+[p. 656] 6^6 Additions.
+
+» bole, est efgale au costé droit AE, laquelle AE est moindre, par » supposition, que E H; partant EG est moindre que EH ; & le » point G, qui est à la parabole, est dans le cercle ; donc la parabole » pan"e dans le cercle entre les points E, H : & puis qu'elle s'eftend » infiniment, le cercle estant fini, elle sortira, & coupera la cir- » conférence au point D entre E & H. Soit donc, du point D •I sur l'axe AE prolongé, abbaiifée la perpendiculaire DI. le dis » que D I & A I font les deux moj'ennes proportionnelles que l'on » demande. »
+
+« Car, soit menée la ligne CD, & C F perpendiculaire sur ID, » laquelle CF tombera ou entre I, D, ou au point D, ou sur ID » prolongée au delà du point D. Qu'elle tombe donc entre I, D; car » ce cas estant demonftré, les deux | autres n'auront aucune diffi- » culte. Puis donc que DI est coupée en F, il s'ensuit, par la fep- » tiefme Proposition du fécond liure d'Euclide, que les deux quar- » rez D I, I F, ou DI, BC, font efgaux au quarré DF & à deux fois » le reClangle DIF: mais deux fois le reftangle DIF est efgal au " redangle soubs DI & m, pour ce que h est double de BC efgale » à IF : donc les deux quarrez DI, BC, font efgaux au quarré » DF & au redangle sous DI & n. Semblablement, par la mesme » feptiefme Proposition du fécond liure d'Euclide, les quarrez AI, » AB font efgaux au quarré BI ou CF, & à deux fois le reftangle » lAB, ou au reélangle seul lAE; c'est à dire que les quarrez AI, » AB, font efgaux au quarré CF& au redanglc lAE. Soient donc' » adiouftées choses efgales à choses efgales, sçauoir les deux quarrez » DI, BC, aux deux quarrez AI, AB; & le quarré DF auec son >i redangle soubs DI & «, au quarré CF & à son reélangle lAE : » alors les quatre quarrez DI, BC, AI, & AB, feront efgaux aux » deux quarrez DF, CF, & aux deux redangles, l'vn desquels est » soubs DI &M, & l'autre est I AE. Mais des quatre quarrez les deux » C B, A B, font efgaux au seul A C ; & de l'autre part, les deux D F, » CF, font efgaiix au seul CD; & AC est efgal à CD, à cause du » cercle : soient donc oftez ces quarrez efgaux, AC, CD, & refteront » les deux quarrez DI & AI, d'vne part, elgaux aux deux rectangles » soubs DI & H,' & soubs lAC, d'autre part. Mais le quarré DI est » efgal au redangle lAE, à cause de la parabole, de laquelle AE » est le costé droit; soient donc oftées ces parties efgales, & restera » le seul quarré A I, efgal au seul rectangle soubs D I & m. Partant, la » ligne »i est à A I, comme A I est à I D ; mais A I est à I D, comme I D » est au costé droit A E ou m, à cause de la parabole : donc les lignes » H, AI, I D, & »i font continuellement proportionnelles : & les
+
+�� �
+
+[p. 657] Moyennes Proportionnelles. 6^7
+
+» extrêmes h, m font données; & nous auons trouué les moyennes » AI, & ï D, qui est ce que l'on demande. »
+
+« Au fécond cas, quand la per | pendiculaire CF tombe au point » D, les lignes CF & CD font ensemble, & la ligne I D touche le » cercle, & est efgale à BC : ce qui arriue quand «, la plus grande » des extrêmes données, est oduple en puissance de la moindre •) extrême m : partant, le Problème au mesme cas est plan, & les >' lignes font continuellement doubles en puissance l'vne de l'autre, » c'est à dire comme le diamètre d'vn quarré à son costé ; comme il ' paroist par la demonstration fuiuante, laquelle est facile. Car, par » la feptiefme Proposition du fécond liure d'Euclide, les quarrez » AI, AB, font efgaux au quarre BI, ou C F, ou CI), & à deux fois » le redangle lAB, ou au seul redangle lAE, ou au quarré ID, ou » BC : & adiouftant de part & d'autre le quarré BC, nous aurons » les trois quarrez AI, AB, & BC, efgaux aux trois CD, I D, & » BC. Mais, des trois premiers, les deux, AB, BC, sont efgaux » au seul AC, efgal à CD. Soient donc oilez de part & d'autre les » quarrez AC, CD, restera le seul quarré AI, efgal aux deux I D, )' BC, lesquels en ce cas cftant efgaux, le quarré AI sera double >i du quarré I D, ou du quarré de BC : mais le double du quarré de )■ BC, ou I D, est efgal au redangle soubs l D & n. pour ce que n >) est double de BC, ou. ID : donc le quarré de AI est" efgal au » reclanglc soubs I D & » ; d'où il s'ensuit que les trois lignes n, AI, » & ID, sont proportionnelles : & les trois AI, I D & AE, ou m, » edant aufli proportionnelles, à cause de la parabole, les quatre h, » AI, ID & ni, seront continuellement proportionnelles: qui est » ce que l'on demande. Et puis qu'il a esté prouué que le quarré » de A I est double du quarré de I D, il paroist que les quatre lignes » sont continuellement doubles en puiifance l'vne de l'autre ; & » que H sera oiftuple en puiftance de tu. »
+
+.( Au troKicfme cas. quand la perpendiculaire CF tombe sur ID » prolongée au delà de D : ce qui arriue quand la plus grande i> extrême donnée est plus qu'oC^uple en puiftance de la moindre : " la demonstration est entièrement comme au premier cas, sans " changer \ ne seule lettre, ny vn seul mot : sinon qu'alors, des deux » points, où la ligne ID coupe la circonférence du cercle, le point » D est le plus proche du point I. veu qu'au premier cas il cil le » plus efloigné du mesme point I. "
+
+��Œuvres. V. 83
+
+�� �
+
+[p. 658] 6^8
+
+��Additions.
+
+��ADVERTISSEMENT.
+
+��« Il faut remarquer que, quand les deux extrêmes données sont » en longueur ou en puissance, comme nombre cube à nombre » cube : alors le Problème est pfan, pour ce que les lignes sont » entr'elles continuellement en longueur, ou en puissance, comme >> les costez des nombres cubes, lesquels nombres & costez estant » donnez, leur raison est donnée, & partant la raison continuelle » des lignes est auflî donnée ; & ainsi la première estant donnée, la » féconde le fera, & la troisiesme. Comme, si les extrêmes données Il sont entre elles comme 27 à 8 : la première sera à la féconde comme y 3 à 2, ou comme 27 à 18; & la féconde à la tierce encore comme ') 3 à 2, ou comme 18 à 12. De mesme, si les extrêmes sont entre » elles comme 8 à \/q. 27 : la première sera à la féconde comme 'I 2 à \/q. 3, ou comme 8 à y/q. 48; & la féconde sera à la tierce )i encores comme 2 à v^q. 3, ou comme v^q. 48 à 6. Et ainsi des » autres. »
+
+« Nous auons donc trouué, entre deux lignes droites données, )i deux autres lignes droites continuellement proportionnelles, par » le moyen d'vne seule parabole, du cercle, & de la ligne droite. » Nous auons aufli, par le mesme moyen, la trifeftion de l'angle; la » feftion de la sphere par vn plan en deux | portions qui ayent la )) raison donnée, qui est la quatriefme Proposition du fécond liure » de la Sphère & du Cylindre d'Archimede. Et en vn mot nous » auons, par le mesme moyen, la solution de tous les Problèmes qui » de leur nature sont solides, lesquels en l'Analyse fpecieufe, par des » préparations conuenables, se reduifent à l'vne de ces deux efgali- » tez, A cube efgal à B solide, ou B plan par A moins A cube efgal à » Z solide; dont nous pourrons quelque iour traiter amplement... »
+
+La même démonstration se retrouve, un peu différemment exposée, dans le livre latin de Mersenne, Harmonicorum libri XII, publié aussi en i636. Voir, à ce sujet, la seconde partie, Liber quartus. De Campants &c. :
+
+Prop. II : Diapafon Campaniftarum, quo tam magnitudines quàm pondéra Campanarum reguntiir atque dejiniuntur, expUcare, & modum inueniendarum duarum mediarum proportionalium afferre.
+
+K ...His autem placet addere modum, quo vir summus duas '» médias proportionales vnius ope Parabolœ inuenit... » (Edit. 1648, pars 2*, p. 146.) Suit la construction.
+
+��
+
+�
+
+[p. 659] 659
+ Calcul de Mons. Des Cartes.
+
+« Hanc autem constructionem cùm Ægidius de Roberval Mathe-
+
+» maticarum scientiarum in Collegio Regio Franciæ Professor
+
+» Rameus inspexisset, primùm quidem problematis ardui compo-
+
+» sitionem in suo genere sanè simplicem miratus est ; deinde cùm
+
+» ipsam tantisper attentè speculatus esset, demonstrationem illius
+
+» ex tempore adinuenit, quam ego, arreptà occasione huic paginæ
+
+» inserui. » (Ibid, p. 147.) Suit la démonstration.
+
+Mersenne termine ainsi :
+
+« Hæc ille de Roberval. Aliàs forte nouam Constructionem appo-
+
+» nemus, quà similiter guli trisectionem eàdem serè ratione idem
+
+» demonstrabit; nunc verò ad Campanistarum praxim redeamus. » {Ibid., p. 146, sic, pro 148.)
+
+IV.
+
+CALCUL
+
+DE
+
+MONS. DES CARTES.
+
+[INTRODUCTION À SA GÉOMÉTRIE.]
+
+[l638][30]
+
+Cette nouvelle Arithmétique consiste es lettres a, b, c, etc., aussi
+
+es chiffres 1, 2, 3, etc. S’il y a des chiffres devant les lettres, comme
+
+[p. 660] 660 Additions.
+ 2a, 3b, 14c, cela veut dire que la quantité a est double celle de b triple, et celle de c est un quart. Mais s’il s’en trouve après les
+
+est catalogué, n* 38 1, au t. IV du Catalogue imprimé par le regretté Bibliothécaire Eduard Bodemann. Ce n’est pas l’écriture de Descartes, et ce n’est pas non plus celle de Leibniz ; et il ne porte point de nom d’auteur, ni de date. Mais on y trouve plusieurs renvois à une Géométrie ; et vérification faite, les pages citées ainsi sont celles de la Géométrie de Descartes, dans la publication de 1637. Ce Calcul de Monsieur des Cartes est aussi en français. Ne serait-ce point le travail dont Descartes parle, à plusieurs reprises, dans sa correspondance de 1638, et qu'il envoya à Mersenne, en l’appelant « introduction à sa Géométrie ? Ce second titre n’est pas celui du MS., qui donne seulement : Calcul de Monsieur des Cartes. Mais les deux choses n’en font qu’une, comme le prouve la simple lecture des textes suivants :
+
+Lettres de Descartes à Mydorge : 24 février 1638, t. JI, p. 22, 1. 27, à p. 23, 1.4.
+
+À Mersenne, 31 mars 1638, t. II, p. 88, 1. 27, à p. 89, 1. 12 ; - 17 mai 1638. t. H, p. 146, 1. 25-28, et p. 152, 1. 10-22; — 13 juillet 1638, t. II, p. 246, 1. 8-15 ; — 27 juillet 1638, t. II, p. 276, 1. 4-0 ; — 23 août 1638, t. II, p. 332, 1. 14-21 ; — 11 octobre 1638, t. II, p. 392, 1. 24, à p. 393, 1. 1 1 ; — 15 novembre 1638, t. Il, p. 427, 1. 1-4 ; — déc. 1638, t. II, p. 467, 1. 17-22.
+
+Lettres de Digby à Mersenne: 14 février et 15 mars 1640, t. IV, p. 212, I. 24 et 1. 36-7.
+
+Dans tous ces textes, à vrai dire. Descartes ne parle que d’une Introduction à sa Géométrie. Mais déjà dans le premier, du 24 février 1638, il promet d’envoyer « quelques adresses particulières touchant le calcul ». Ce qui répond bien au contenu de ce Calcul de Mons. Des Cartes ; et l’on voit, par tous les textes qui suivent, que c’est bien la même chose que cette Introduction. Il y a plus : celle-ci se termine par « cinq ou six exemples », dit Descartes (13 juillet 1638) ; or le Calcul se termine aussi par des exemples, non pas cinq ou six, il est vrai, mais seulement quatre ; encore le quatrième reste-t-il inachevé : toute la fin de ce travail manque. Il y a plus encore : Descartes donne, dans ses lettres, deux de ces exemples. L’un, qui est le dernier, n’est autre que le problème d’une sphère tangente à quatre sphères ; on ne le trouve pas dans le Calcul, puisqu’il est le dernier et que justement le manuscrit est incomplet. Mais l’autre exemple est ce lieu plan dont M. Fermat a tant fait de bruit (13 juillet 1638) ; il se trouvait donc dans la dernière partie de V Introduction à la Géométrie ; or il se trouve aussi à la fin du Calcul : c’est le troisième exemple, tout à fait semblable, on s’en convaincra en le lisant, au contenu d’une lettre de Fermat à Roberval, de février 1637 (Œuvres de Fermat, édit. Tannery et Henry, t. II, p. 100).
+
+Cette preuve est décisive : le Calcul et l'introduction sont bien un seul et même opuscule, et l’on est en droit de l’intituler comme
+
+[p. 661] Calcul de Mons. Des Cartes. 661
+
+lettres, comme a3, b4, c5 cela veut dire que la quantité a est multipliée trois fois, celle de b quatre fois, et celle de c cinq fois[31].
+
+[Addition et Soustraction.]
+
+L’addition se fait par ce signe +. Comme, pour ajouter a et b, j’écris a + b. Idem, pour ajouter a + b et d + f j’écris + b + d + f; etc.
+
+La soustraction se fait par ce[32] signe — . Comme, pour soustraire a de b, j’écris b — a, etc. S’il y a plusieurs parties dans la somme à soustraire, elles y changent seulement de signes. Comme, voulant soustraire a — b + c de d, restera d — a + b — c. De même, ôtant a2 — b2 de c2 — d2 restera c2 - d2 —a2 + b2
+
+Mais s’il y a des chiffres adjoints et des termes de même espèce, il les faut écrire l’un sous l’autre, et en faire addition ou soustraction, comme en l’arithmétique vulgaire.
+
+Exemples.
+ L’on veut ajouter
+
+3 ab + 2 cd + 5 ac + 4d2 — ad
+
+avec
+
+4 ac + 13 ab - 2 ad + 4d2.
+
+Addition
+
+3 ab + 2 cd + 5 ac - ad + 4d2
+
+13 ab + 4 ac - 2 ad + 4d2.
+
+16 ab + 2 cd + 9 ac + ad+ 4d2
+
+De même, pour soustraire
+
+13 ad — 2 d2 + c2 + 4ac
+
+nous avons fait : Calcul de Monsieur des Cartes, ou Introduction à la Géométrie. Et c’est sans aucun doute la pièce qui figure à l’inventaire de Stockholm, sous la lettre P, p. 11 du présent volume. Quant à l’auteur, Descartes le qualifie de « gentilhomme de ce pays (Hollande), de très bon lieu » (t. II, p. 146, 1. 27-8, et p. 392, 1. 25-6), sans le désigner plus
+
+précisément. Et cette vague indication ne nous a pas permis jusqu’ici de l’identifier.
+
+[p. 662] 662 Additions.
+ de
+
+5d2 + 12 ad — 3 c2 + 2 a2 + 4 ac,
+
+je dispose les termes comme est dit[33], et fais un second examen, ayant changé les signes :
+
++ 5d2 + 12 ad — 3 c2 + 2 a2 + 4ac
+
++ 2d2 — 13 ad — c2 — 4 ac
+
+Reste
+
+7d2 - ad — 4 c2 + 2 a2 + 4ac
+
+De la Multiplication.
+
+S’il est question de multiplier des lettres l’une par l’autre, il les
+
+faut seulement joindre ensemble ; mais s’il y a des nombres adjoints,
+
+ils suivent les lois de l’aritmetique vulgaire. Et pour les signes, on
+
+fait que + par - donne produit +, & que — multiplié par —
+
+donne aussi produit + . Mais + par — , ou — multiplié par
+
+donne produit — . Et l’on doit mettre les quantités de même espèce
+
+l’une sous l’autre, pour les réduire plus aisement par addition ou
+
+soustraction. Comme, pour multiplier a par b, i’écris ab. Idem, pour multiplier 2a + 3b, par 3c — 2b, le produit sera 6 ac + 9bc — 4 ab — 6 b2.
+
+2a + 3b
+
+3c — 2b
+
+Produit : 6 ac + 9bc — 4 ab — 6 b2.
+
+Autre exemple :
+
+ab + cd — bc
+
+ab + bc — cd
+
+a2b2 + abcd + bc2d — ab2c + b2c2 — c2d2
+
+- abcd + ab2c + bc2d
+
+a2b2 + 2 bc2d — b2c2 — c2d2
+
+Nota, qu’il se faut donner de garde de multiplier en soi une somme qu’on sait être moindre que zéro, ou bien de laquelle les plus grands termes ont le signe de — ; car le produit en serait le même que s’ils avaient le signe de +. Comme a2 — 2 ab + b2 est aussi bien le carré de a — b, que de b — a ; si bien que, si l’on connait a être moindre que b, on ne doit pas multiplier a — b par soi, à cause qu’il produirait une vraie somme en la place d’une moindre que
+
+rien ce qui causerait erreur en l’équation.
+
+[p. 663] Calcul de Mons. Des Cartes. 663
+ De la Division.
+ Pour diviser ab par b, le quotient est a ; et ab + ac divisé par a, le quotient est b + c.
+
+Mais, pour diviser 2 ac + 2 bc + 3 c2 — 2 ad — 2 bd — 3 cd, par 2a + 2b + 3c, l’on disposera la somme à diviser à gauche et le diviseur à droite, comme ci-dessous :
+
+Puis je divise 2ac par 2 a; le quotient est c, par lequel je multiplie le diviseur ; le produit est 2ac + 2bc + 3 c2, que je soustrais du nombre proposé; le reste est
+
+— 2 ad — 2 bd — 3 cd,
+
+que je divise derechef par 2 a ; vient pour seconde figure du quotient — d, par lequel je multiplie le diviseur ; le produit est
+
+— 2 ad — 2 bd — 3 cd, que j’ôte du reste dudit nombre proposé, et il ne me reste rien.
+
+Il faut observer que, si les termes qui viennent de la multiplication, du quotient par le diviseur ne se trouvent dans la somme à diviser, qu’on les y doit joindre par + ou — , selon que lesdits termes à ôter se trouveront affectés, et poursuivre la division par tous les termes indifféremment.
+
+Il faut diviser c2 - d par c + d
+
+...
+
+Autre exemple. Comme, à diviser
+
+...
+
+Mais lorsqu’il reste quelques termes de la somme à diviser, qui ne peuvent être divisé par le diviseur, cela est une preuve que la division ne se peut faire ; et en ce cas, on se contente d’écrire le
+
+diviseur sous la somme à diviser, comme les exemples suivants :
+
+[p. 664] 664 Additions.
+
+Des Fractions.
+
+Aux quantités rompues, l’on suit les préceptes du vulgaire par (sic, pro pour) toutes les espèces. Il est besoin de les réduire aux plus simples termes, si on le peut. Et l’on le peut, quand la somme à diviser et le diviseur ont quelque commun diviseur.
+
+Comme, pour réduire …, je vois que c est leur commun diviseur,
+
+et avec celui-ci je divise les deux termes de la fraction, et j’ai … .
+
+Item, voulant réduire en moindres termes …, je divise les deux termes de la fraction par c - d ; les quotients sont a2 - ad et d, que j’écris ainsi … .
+
+Item, … étant abreuvé, viendra d.
+
+Réduction en même dénomination.
+
+J’ai à réduire … et … . Je multiplie a2- par a, et b2 par c, et derechef c par a. J’ai … et … .
+
+Item, voulant réduire sous une même dénomination … et …
+
+J’ai … et …
+
+Mais s’il y a des entiers avec les fractions, comme a + b + … l’on multipliera les entiers a + b par le diviseur f - c, et le produit sera ajouté avec cd — ab. Viendra … .
+
+Et si les fractions données avaient des diviseurs qui eussent un diviseur commun, la réduction serait plus courte. Comme en cet exemple … et … . Le comimun diviseur desdits diviseurs est a + b. Et divisant ax + bx par a + b le quotient est x, par lequel je multiplie a3 + d3 et le quotient de l’autre est c, par lequel je multiplie l’autre b2c + c2d puis ax + bx par c, et ac + bc par x. Et j’ai … et … . Et ainsi des autres.
+
+a. M S. : c2 (pro cd).
+
+b. Au-dessous de et entre les deux premières fractions, se trouve dans le MS. le signe X, qui indique la multiplication en croix. Nous le retrouverons plus loin. p. 665, note a.
+
+[p. 665] Calcul de Mons. Des Cartes. 665
+
+De l’Addition et Soustraction.
+
+Quand les fractions données sont réduites comme est dit[34], on les ajoute ensemble par le signe +, et on soustrait la moindre de la plus grande par le signe — , de même qu’aux entiers.
+
+Exemple. Je veux ajouter … avec … La somme est ...
+
+Mais pour soustraire … de …, le reste est … .
+
+De la Multiplication.
+ Pour multiplier … par … , il faut multiplier les sommes à diviser entre elles, et pareillement les diviseurs entre eux. Et le produit sera … .
+
+Mais avant que de commencer la multiplication, on doit regarder si la somme à diviser d’une partie et le diviseur de l’autre partie ne se peuvent diviser par un commun diviseur. Comme, en l’exemple ci-dessus, … par … , la somme ab d’une partie se peut diviser par b, et le diviseur de l’autre partie b se peut aussi diviser par b, de sorte que je n’ai plus à multiplier que … par … et le produit est … ou bien ad - … .
+
+Item, … Il n’est besoin de réduire les entiers en fraction, ainsi seulement multiplier les entiers par les entiers, et le produit sera
+
+ac + bc + ad + db - … .
+
+De la Division.
+ Pour diviser ... par c, je multiplie c par d : le quotient est ... . Item, je veux diviser ... par ..., je fais[35] comme aux fractions vulgaires … X …; le quotient est … .
+
+Mais, avant que venir à la multiplication, il faut réduire les sommes à diviser et les diviseurs en leurs plus simples termes.
+
+Comme ici … et … se divisent par … . C’est pourquoi j’ôte
+
+[p. 666] 666 Additions.
+
+a de dessus et c de dessous, il me reste …, ou bien b + a, qu’il faut diviser par … ; le quotient est … .
+
+Ce quotient se trouve en divisant, comme aux fractions vulgaires, … × … , quotient … ou … ;
+
+et … × … , quotient … ou …;
+
+… × … , quotient … .
+
+Extraction de la Racine Carrée.
+
+Pour tirer la Racine Carrée de 4a2, vient 2a. Mais pour tirer la racine du multinôme a2 + c2 + b2 + 2ac - 2bc - 2ab, on doit prendre, premièrement, la racine de l’un des carrés qu’on connaitra n’être pas l’un des moindres ; et celle-ci sera le premier terme de la racine requise, laquelle sera écrite sous le nombre proposé entre deux lignes. Comme, en l’exemple proposé, je choisis a2, et sa racine est a ; puis je soustrais a2 du nombre proposé, reste c2 + b2 + 2ac - 2bc - 2ab, que je divise par le double de la racine, qui est 2a; et vient, pour second terme, + c, que je multiplie en soy et par 2a; le produit est c2 + 2ac, que je soustrais, comme dessus, du nombre proposé. Restera + b2 - 2ab - 2bc, que je divise derechef par + 2a + 2c, double de toute la racine trouvée; et vient, pour troisième terme, - b, que je multiplie en soy et par 2a + 2c; le produit est + b2 - 2ab - 2bc, que j’ôte du nombre proposé, et il ne reste rien. Mais si b2 eût été plus grand que a2, b eut été premier terme de la racine, et toute la racine eut été + b — a — c etc. C’est à quoi l’on doit prendre garde, quand aux carré il y a des termes affectés du signe - , etc. Supp. : a2 est plus grand que b2 …
+
+a + c - b racine requise …
+
+Supp. : b2 est plus grand que a2 …
+
+b — a — c
+
+…
+
+[p. 667] Calcul de Mons. Des Cartes. 667
+
+Des Quantités Sourdes.
+
+Lors qu’on ne peut tirer la racine d’un carré, on le met dans le vinculum ., pour dénoter qu’on le doit traiter comme racine, et alors on la nomme quantité sourde.
+
+Comme, ne pouvant tirer la racine carrée de a2 + b2, je l’écris ainsi a2+b2. Et s’il faut tirer une racine cubique[36], on se sert de ce signe … .
+
+Mais s’il en faut tirer une d’un carré de carré, on l’écrit ainsi … . Et s’il est question de tirer la racine carrée de ab + c2 et de la racine de bc3 + a2 + b2, elle s’écrira ainsi … .
+
+Et s’il fallait tirer la racine carrée de a4 + b4 divisée par des quantités absolues, c - 2d, l’on l’écrira ainsi … . Item, je veux tirer la racine de ab3 + c4 divisée par b2 - d2 et de la racine de b3c + a3d divisée par a + b ; j’écris ainsi … .
+
+Item, pour tirer la racine de b2 + dc, multipliée par les quantités absolues a + b et divisée par c + d, je l’écris ainsi … .
+
+Réduction des Quantités Sourdes.
+
+Premièrement, toute quantité irrationnelle, qui se peut diviser par un carré, se réduit à de moindres termes, et le diviseur devient rationnel et se met hors le vinculum.
+
+Comme, … se divise par a2, dont la racine est a, et j’écris … qui est autant à dire que a multiplié par la racine de b2 + c2.
+
+Item, … se réduit à … ; car le carré de 2a est 4a2 ; multiplié par 3, fait … .
+
+Item, … se réduit à … .
+
+Item, ... .
+
+Item, … se divise par a2 + 2ab + b2 ; et le quotient est c2 + d2, et la racine de
+
+[p. 668] 668 Additions.
+
+a2 + 2ab + b2 est a + b. l’écris[37] donc … , qui est autant à dire que a + b est multiplié par la racine de c2 + d2.
+
+Item, l’on peut réduire … à cette somme … . Car pq2 - q3 + qr2 - pr2 se divise par p - q, et le quotient est q2 - r2 ; lequel étant derechef divisé par …, vient … et derechef étant multiplié par p - q, est (sic, pro et) divisé par r, vient … .
+
+Item, pour réduire …, ou bien … qui est égale, ou bien … je divise … par … ; le quotient est … , lequel étant multiplié par 1/2 a, viendra … .
+
+De l’Addition et Soustraction des Quantités Sourdes.
+
+Aux opérations de l’addition et soustraction, les termes compris dans le vinculum ne reçoivent point de changement aux signes + et - . Mais seulement on les ajoute et soustrait par lesdits signes, qu’on met au dehors devant le vinculum.
+
+Comme, pour ajouter … avec …, j’écris :
+
+… .
+
+Et de même, pour soustraire … de …, j’écris :
+
+…
+
+pour leur différence.
+
+Item[38], pour soustraire …, j’écris :
+
+Item, pour soustraire … de …, reste … ; ce qui se trouve en réduisant les deux sommes sous une même dénomination, en multipliant le diviseur … par … : le produit est 4 a2 - b2 et tout de même, multipliant le diviseur :
+
+[p. 669] Calcul de Mons. Des Cartes. 669
+
+par b2, le produit sera b2 ; et les deux sommes seront … et … .
+
+J’ôte maintenant b2 de 4a2 - b2, le reste est
+
+…
+
+et divisant le tout par 2, j’ai … .
+
+Item, pour soustraire une racine multipliée par des quantités absolues, de semblables quantités et racines, comme a + … de c + …, reste
+
+…
+
+Et ainsi de toutes les autres.
+
+Multiplication des Quantités Sourdes.
+
+Des quantités sourdes multipliées entre elles, la racine du produit de leurs puissances multipliées entre elles est le produit requis. Comme, pour multiplier … par …, le produit est … .
+
+De même, multipliant … par …, j’ai pour le produit … .
+
+Mais, lorsqu’on ne veut achever la multiplication, on met les termes ainsi …, qui est autant à dire que la racine de ab + c2 doit être multipliée par la racine de cd - ad.
+
+Item[39], le produit de … par … est
+
+…
+
+Item, pour avoir le carré de …, je quitte les deux vincula pour avoir leurs carrés, et multiplie les racines 2 fois l’une par l’autre : j’ai
+
+…
+
+pour le carré requis. L’on peut aussi mettre le vinculum ainsi … ; ou bien, si l’on veut achever la multiplication, on multipliera + 4b2 - 4ab par ab - bc - c2 : le produit sera
+
+… .
+
+[p. 670] 670 Additions.
+
+Item, le carré de a + c + … est
+
+a2 + 2 ac + c2 + bc + 2 a + 2 c … .
+
+Item, le carré de a + … est
+
+… .
+
+Et ainsi des autres.
+
+De la Division des Quantités Sourdes.
+
+Des quantités sourdes divisées l’une par l’autre, la racine du quotient est le quotient requis.
+
+Comme, pour diviser … par …, le quotient est … , ou bien … .
+
+Item, pour diviser … par … le quotient est … .
+
+Item, pour diviser … par d + c, vient …,
+
+Item, pour diviser a2 + bc + … par … vient … .
+
+Item, pour diviser a2 - b2 …, vient … .
+
+Item, pour diviser …. ou bien son égal … par… , vient pour quotient 1/2 a.
+
+Item, j’ai à diviser a2 + b2 par la racine de ac + c2 ; vient … , ou bien … .
+
+Mais lorsqu’un binôme est donné à diviser par un diviseur qui est aussi binôme, il y a plus de façon.
+
+Par exemple, je veux diviser le binôme a + … par le binôme a + … Il faut multiplier a2 + … par le résidu du diviseur a - … : le produit est
+
+… .
+
+a. MS. : …
+
+b. Ibid. : …
+
+c. Ibid : …
+
+[p. 671] Calcul de Mons. Des Cartes. 671
+ De même je multiplie le diviseur a+bc par le susdit résidu a−bc ; le produit est a2−bc, par lequel je divise le produit précédent : vient pour quotient requis
+
+...
+
+De la même façon, si le diviseur donné est multinomie, il le faut si souvent multiplier par son résidu, que son produit donne enfin une quantité absolue, par laquelle soit divisée la somme à diviser, après l’avoir, par les mêmes résidus, multipliée autant de fois comme le diviseur l’aura été. Et ce qui en viendra, sera le quotient requis.
+
+Extraction de la Racine des Binomes.
+
+Pour tirer la racine carrée de a−bc, je prends la demi- différence des deux carrés proposés ..., et je joins la < demi-racine > de cette différence à la demie-racine du plus grand carré par le signe + et la racine de toute cette quantité donnera ...
+
+pour un membre ..., et la joignant par le signe — , j’ai l’autre membre qui sera ..., & l’agrégat ..., <qui>
+
+sera la racine de a−bc. Mais celle de son résidu a... sera différente seulement du
+
+signe - : ....
+
+Autre exemple tiré de la Géométrie, page 328[40]. Pour tirer la racine de ce binôme, ... , la différence des deux carrés est ..., dont la demie-racine est ..., qui estant ajoutée à la demi-racine du plus grand carré, égale à ... ou bien m pour un membre ; et pour l’autre, je soustrais
+
+... de reste[41] ... ; lesquels membres j’ajoute, puisqu’il est binôme, et j’ai
+
+...
+
+[p. 672] 672 Additions.
+
+Item, pour tirer la racine de ce binôme[42]
+
+…
+
+la différence de leurs carrés est … , dont la racine est … , supposant que a soit plus grande que d. Puis, à cette demie racine … ayant ajouté la demie racine du plus grand carré … , j’ai …, dont la racine est … ou a … pour un membre. Et l’ayant ôté … , le reste est … , dont la racine …, ou bien …, pour l’autre membre ; lesquels étant joints par le signe +, la racine est
+
+… .
+
+Des équations.
+
+Quand on veut résoudre quelque problème, on pose pour les termes connus (soit ligne, nombre, superficie, ou corps) les premières lettres de l’alphabet, a, b, c ; et pour les inconnus, on se sert des dernières, x, y, z ; et faisant un registre, on se sert de ce signe =, pour dénoter l’égalité de deux choses : comme, pour dire la ligne AB est égale à b, j’écris AB = b ; observant toutefois, en ses[43] suppositions, à garder le nombre de dimensions : posant une lettre pour une ligne ou nombre, deux lettres pour une superficie, et trois pour un corps ; de sorte qu’il faut qu’il y ait autant de dimensions en un terme qu’en l’autre, sinon que l’unité soit déterminée en la question. Car, comme l’unité ne diminue le nombre des dimensions par la division, ni ne l’augmente aussi par la multiplication, il est loisible de porter des termes où elle se trouve, comme on voit en la Géométrie, page 299[44], en l’exemple allégué aussi à cet effet : a2b2 — b, où soit c l’unité. et — b multipliée deux fois par l’unité, et a2b2 divisée une fois par l’unité ; en la restituant, on aura en un terme autant de dimensions qu’en l’autre, … .
+
+Pareillement, page 395[45], en l’équation … l’on
+
+….
+
+[p. 673] Calcul de Mons. Des Cartes. 673 suppose a pour l’unité, et pz2 est une fois multipliée, - qz deux fois, et r trois fois : de sorte qu’en remettant l’unité, on aurait … . Et ainsi de plusieurs autres.
+
+Après avoir donné des noms aux quantités connues, l’on considère la chose comme déjà faite, et on examine si le problème se peut commodément résoudre, en supposant seulement une ligne inconnue = à x, savoir celle qui est requise, ou bien z2 = x multipliée par une autre grandeur connue, + ou - d’autres termes connus, etc. Et en tous ces cas, la Géométrie donne le moyen d’en tirer la racine et rendre la quantité inconnue x = à des termes qui sont connus. Et le problème est résolu.
+
+Mais lors que le problème proposé est tel, qu’une seule lettre inconnue n’a point assez de communication avec celles qui sont connues, en sorte qu’elles ne sauraient s’entraider pour faire trouver l’équation ; ou bien que, par la supposition d’une seule lettre, on s’embarrasse dans un trop gros calcul, on se doit servir de plusieurs lettres inconnues et chercher aussi autant d’équations qu’on a supposé de lettres, et par le moyen d’y celles équations réduire toutes ces lettres en une seule, qui porte la solution du problème.
+
+Et pour venir à bout de ces réductions, il est besoin de considérer si, par une équation, ou par la comparaison de deux ou plusieurs, en les ajoutant ou soustrayant l’une de l’autre, on ne pourra connaitre une lettre. Et si cela ne se peut, il faut venir à l’extraction de la racine pour en trouver une ; puis après, on doit ôter cette lettre de l’une des autres équations, et en son lieu mettre la valeur trouvée ; et ainsi on sera quitte d’une lettre inconnue.
+
+Puis, comparant cette équation avec une autre dont on aura aussi ôté cette même lettre, si elle y était, on se défera d’une seconde ; et ainsi des autres, jusqu’à ce qu’il n’en reste plus qu’une inconnue parmi toutes les connues, dont on mettra les termes par ordre. Et on connaitra, par extraction de racine, quelle est sa valeur, comme devant ; et ainsi le problème sera résolu.
+
+Que si l’on ne peut trouver autant d’équations qu’on a supposé de lettres inconnues, cela est un indice que le problème n’est pas entièrement déterminé. Et alors on peut prendre pour l’une des lettres inconnues telle quantité qu’on voudra ; et de sa variété naissent plusieurs points, qui tous satisfont à la question, et qui composent des
+
+a. p... {sic MS.), au lieu de p... .
+
+b. en] et MS
+
+c. qu’il] qui ibid.
+
+d. qu’on] on ibid.
+
+[p. 674] 674 Additions. lieux plans, solides, ou linéaires, s’il n’y a qu’une équation qui manque ; et des lieux de superficie, s’il y en avait deux de manque ; et ainsi des autres.
+
+Exemple Premier. L’un des côtés d’un triangle rectangle, et la différence des deux autres côtés étant donnée, trouver le reste du triangle.
+
+Supposition : BC = a, BD = b, AC = x ; la chose comme déjà faite. Les deux carrés <de> AC = x2, BC = a2 sont égaux au carré de AB. Mais AB = x + b, et son carré est x2 + 2 bx + b2.
+
+Donc ques il y a équation entre x2 + a2 et < = > x2 + 2 bx+ b2.
+
+J’ôte de part et d’autre x2 + a2, il me reste 2bx = a2 - b2, les- quelles quantités je divise par 2 b. Vient x = … . Ce qui montre que, la différence des deux carrés de BC et BD étant divisée par le double de BD, le quotient sera le côté AC. Ou bien, trouvant une ligne qui soit à la ligne a comme a est au double de b, puis en ôtant la moitié de cette ligne < b >, le reste est x ou AC, qui était cherché, etc.
+
+2. Exemple. Deux triangles rectangles étant donnés sur une même base, s’entrecoupant en un point, trouver les segments des côtés qui s’entrecoupent.
+
+a. de omis MS.
+
+b. MS. : et: écrit d’ abord, puis au-dessous, le signe =.
+
+[p. 675] Calcul de Mons. Des Cartes. 675 Hypotheses : BE = x AB = a, AC = b, DC = c, DB = d. La chose comme déjà faite. Si BE = x, DE = d — x. Et à cause que les triangles rectangles ABE et CDE sont semblables, AB = a
+
+est à BE = x, comme DC = c est à CE = …. Derechef, comme DC = c est à DE = d — x, ainsi AB = a est à AE = … . Et CE = … étant ôté de AC = b, restera AE = b — … ,
+
+en d’autres termes qui donnent l’équation suivante b — … = … , ou bien a2d — a2x = abc — c2x.
+
+Ôtant de part et d’autre — c2x + a2d, restera c2x — a2 = abc — a2d. Et divisant l’une et l’autre partie par c — a2 j’aurai
+
+x = …
+
+C’est-à-dire que, comme la différence des carrés de AB et DC (qui sont les côtés qui ne s’entrecoupent point) est à la différence des rectangles ACD et ABD, ainsi le côté AB est à la ligne BE = x. Ou bien l’analogie s’exprimera ainsi : comme ... même raison aussi DC à CE.
+
+3. Exemple Étant donné quatre points A, D, E, F, trouver le cinquième C,
+
+a. MS. : « comme C2 — a2 \\ bc — ad \\ ainsy a || x. ».
+
+b. Exemple tiré des Lieux plans d’Apollonius, L. II, Prop. V {Œuvres de Fermat, édit. Tannery et Henry, t. I, p. 37) :
+
+Si à quotcumque datis punâis ad punâum unum infleâantur reâce et Uni Jpecies quœ ab omnibus fiunt , dato spatio œquales, punâum continget positione datam circumferentiam.
+
+Dans une lettre de Fermat à Roberval, du 22 septembre 1636 (Ibid., t. II, p. 74), on lit : « J’avais omis le principal usage de ma méthode, qui est
+
+[p. 676] 676 Additions.
+
+duquel étant mené des lignes droites comme les quatre CA, CF, CD, CE, d’icelles[46] les carrés soient égaux à l’espace d2
+
+Hypothèses : AG = a, AK = f, AD = c, GF = b, KE = g, AB = x, BC = y. Je suppose la chose comme déjà faite, et le point
+
+requis C, duquel je mène des lignes aux quatre points donnez. Et le joins aussi deux de ces points par la ligne AD, sur laquelle des autres points je fais tomber les perpendiculaires EK, GF. CB ; et soit EK plus grande que FG. Puis je cherche les quatre carrés requis en cette sorte suivant les suppositions de mon registre. Et premièrement, le carré de AB = x2 et celui de BC = y2.
+
+Donc que le carré de AC = x2 + y2. Les deux carrés < de > BD = c - x et BC = y sont c2 — 2 cx + x2 et y2. Donc que le carré de CD = y2 + c2 - 2cx + x2.
+
+Et le carré de la ligne CB + GS = y2 + 2 by + b2 et le
+
+pour l’invention des lieux plans et solides ; elle m’a servi particulièrement à trouver ce lieu plan, que j’avais auparavant trouvé est difficile. » (Suit l’énoncé latin ci-dessus.)
+
+Roberval répond à Fermat, le 11 octobre 1636 : « J’élime vos proportions des nombres, et celle du lieu plan, fort difficiles. » (ibid., t. II, p. .82.)
+
+Fermat se décide à envoyer à Roberval la solution du lieu plan, lettre de février 1637 (t. II, p. 100). On peut la comparer avec celle de Descartes.
+
+« Je trouve assez de loisirs pour vous envoyer encore la construction du lieu plan : Si à quotcumque, etc., que je tiens une des plus belles propositions de la Géométrie, et je crois que vous serez de mon avis. »
+
+[p. 677] Calcul de Mons. Des Cartes. 677
+
+carré de GB = x - a est x2 - 2 ax + a2 ; et ces deux derniers carrés sont égaux au carré de
+
+CF =… .
+
+Les deux carrés <de> CH et BK = y – g et f - x, sont y2 - 2 gy + g2, et f2 -2 fx + x2 qui sont égaux au carré de CE =…
+
+Et la somme de ces quatre carrés étant égale à l’espace donné d2, j’ai, après l’addition faite, … .
+
+Et comme j’ai supposé deux quantités inconnues x et y, et que je ne vois point de moyen de trouver une seconde équation, je conclus que la question n’est pas assez déterminée, et que ce doit être un lieu, par la page 334 de la Géométrie[47]. Et lors, selon la page 300, ligne 22[48], j’en puis prendre une à discrétion, que je choisis ici pour AB = x, et je déterminerai par cette équation y, comme s’ensuit :
+
+y2 = … ,
+
+dont il faut tirer la racine, suivant les préceptes de la Géométrie, page 302,
+
+y = … .
+
+Et je vois d’abord, en la page 328[49], que c’est une ellipse ou un cercle, à cause qu’il y a - x2 et puisque l’angle est droit, il n’y a plus rien de requis pour la détermination du cercle, sinon que a2m soit égal à pz2. Pour le savoir, je regarde quelles sont ces quantités, et d’où elles sont venues ; et je vois, page 328, que a et z avec n servent à exprimer la proportion entre KI et IL[50], en la figure de la page 329, lesquelles sont ici égales, et par conséquent, a = z ou bien a2 = z2. Reste … , qui a été pris pour le terme multiplié par x2 qui est ici l’unité.
+
+Et ainsi ... = 1, ou bien p = m . Et de là je conclus
+
+[p. 678] 678 Additions.
+
+que c’est un cercle. Et parce que cette équation de la page 326, savoir
+
+y = …
+
+sert de règle générale pour construire toutes sortes de lieux, on la peut suivre en cette sorte : sur AD donnée, du point A soit effleurée la perpendiculaire AI égale à … ; et à cause que g est plus grande que b, le point I doit être pris de la part de E au-dessus de la ligne AD. Mais si b eut été plus grande que g, le point I aurait été pris au-dessous de la ligne AD, de la part de S. Puis dudit point I, soit menée IM parallèle à AD, en laquelle est le centre du cercle ; et pour le trouver, je me sers de la détermination de IM, page 330, = …, ou bien, à cause que am = pz, j’ai 1/2 O pour la ligne IM, et M est le centre du cercle. Et puisque O dénote le terme qui est dans le vinculum multiplié par x, savoir … , je reconnais que IM est …, et le côté droit ou le diamètre étant déterminé peu après, en la ligne 15 de la même page, être …, qui est autant que … , ou bien ..., à cause que m = p, je vois qu’il en faut prendre la moitié pour avoir le rayon, et qu’au carré < de > … qui est ici 1/4 O2 on doit joindre le nombre absolu dans le vinculum désigné par - m2 qui est en cette équation
+
+…
+
+Et l’agrégat < = >…
+
+fait le rayon requis de ce cercle, qu’on décrit du centre M.
+
+Or, considérant toutes ces quantités pour faire la construction, on voit de là fort aisément, en premier lieu, que la ligne AI est 1/4 (g - b), c’est-à-dire qu’elle est composée de l’agrégat ou différence des perpendiculaires tirées sur la ligne AD des autres points donnés, comme ici S et E, divisée par le nombre de tous les points
+
+a. y]x (là tort) MS.
+
+b. Voir t. VI, p. 399, 1. 17, et aussi t. II, p. 84, 1. 12.
+
+c. …
+
+d. Tome VI, p. 402. — Ligne suivante, le MS. donne SM, faute, pour IM.
+
+e. Deux fois le « vinculum » manque MS.
+
+f. 2 bg manque MS.
+
+g. Au lieu de voit] fait, faute, MS. Cf., p. 679,I. 11 et 16.
+
+h. … g—b MS.
+
+[p. 679] Calcul de Mons. Des Cartes. 679
+
+Donnés : à savoir, en cet exemple, à cause que GS est d’un côté de la ligne AD, et KE de l’autre, il faut prendre la différence qui est entre ces lignes, et la diviser par 4, à cause des quatre points donnés ; au lieu que, si GS et KE étaient d’un même côté de la ligne AD, il faudrait prendre leur agrégat, et diviser cette différence ou agrégat par 5, si la question était composée de cinq points ; et ainsi par 6, etc. Puis le quotient est la ligne AI, supposant le point I du côté de la ligne AD, où les perpendiculaires sont les plus grandes : comme ici, à cause que KE est plus grande que GS, je tire la ligne AI du côté où est le point E.
+
+L’on voit, en second lieu, que IM est a+c+f4 c’est-à-dire qu’elle doit être composée de l’agrégat de la ligne AD et de tous les segments de cette ligne qui sont entre le point A et ceux où tombent les perpendiculaires des autres points, divisé par le nombre des points donnés.
+
+Et enfin on voit que, pour trouver le rayon de ce cercle, il faut seulement soustraire de l’espace donné les carrés de toutes les lignes tirées de chacun point donné à tous les autres, car ils doivent être moindres que cet espace ; et diviser le résidu par le nombre des points donnés, puis tirer la racine du quotient, laquelle est le rayon demandé.
+
+Comme ici, par exemple, il faut ôter de d2 les carrés des six[51] lignes AD, AE, AS, ED, DS, SE ; et ayant divisé le résidu par 4, la racine du quotient est le rayon cherché. Ou bien, puisque M centre est déjà trouvé, l’on trouvera le rayon, en tirant, de tous les points donnés, des lignes droites vers M ; car si on soustrait les carrés d’icelles lignes de l’espace donné, et qu’on divise le reste par le nombre des points donnés, la racine carrée du quotient sera le rayon demandé.
+
+4. Exemple.
+
+De quelconque triangle rectiligne étant donné un angle, avec un des côtes qui le comprennent, et la somme des deux autres côtes, trouver le reste du triangle
+
+BC = a, BT = d, AB + AC = b, AC = x.
+
+D’autant que l’angle B est donné, la raison du rayon au sinus de son
+
+[p. 680] 680 Additions.
+
+complément est aussi donnée ; et BC étant donné, BD le sera aussi, que je nomme d. Ce fait, il faut trouver la quantité BD en d’autres termes, en
+
+cette façon : divisant AB = b – x donne AC = x + BC = a, que donnera x – a ?
+
+Viendra x2−a2b−x
+
+Pour la différence de AD et BD, laquelle étant soustraite de b - x, restera
+
+b – x - x2−a2b−x = 2d ou bien
+
+b2 - 2 bx + x2 - x2 + a2 = 2 bd - 2 dx,
+
+ou
+
+et ôtant de part et d’autre – 2 bx + 2 bd, restera
+
+b2 + a2 - 2 bd = 2 bx - 2 dx,
+
+et divisant les deux parties par 2b - 2d, j’aurai
+
+x=b2+a2−2bd2b−2d…
+
+[p. 681] TABLE DES NOMS PROPRES ��Adrianus Romanus : 48, 5o.
+
+Aechte Jacobsz : 616.
+
+iEMiLfus (Antonius) : 24.
+
+Agrippa (H.-C.) : ij, 63-5, 16B, 167,
+
+168, 232-3, 347. Ai.KHAYAMi (Omar) : i55. Alleaume : 24, 49. Amalia de Solms : 617. Analemmate : 29. Ancot (Charles) : 80. Apollonius : 481, 588, 654, 675. Appier (Jean) dit Hanzelet : 473, 546. Archimede:3, 270, 519, 562,(353, 658. Archytas : 232, 653. Argenterios : 23. Aristote : 387, 498, 554, 595. Arnauld. Voir Port-Royal. Augustin (S*) : 81. Aulu-Gellb : 232. AuNAY (Gilles DE L'). Voir Hoét. AusoNE : 18 3-4. AuzouT : 207.
+
+Bachet : 297-8.
+
+Baii.let : 1-3, 35, 47-3 1, 82, 85-8, 141, i58-9, 17 1-7. 179-204, 210, 2i3-8, 223, 279-280, 352, 354, 357- 359, 362, 377, 476-484,491-2, 528-9, 535-8, 659.
+
+Baii.leui, (Le): 574-t).
+
+��Balzac : 53i.
+
+Banningius : 617.
+
+Bannius : 579.
+
+Barillon (Jacques de) : 584.
+
+Barre (M'ie Dt La) : 58o.
+
+Beaugrand : SgS.
+
+Beaune(F1. de). Voir Debeaune.
+
+Bkeckman (Abraham) : 17, 33.
+
+Bkeckman (Isaac) : i5-39, 41 -65, 67, 82-3, 106-7, i34, i5i-2, 153, i54, 157-9, l«Oi ï«l. "62-3, 164, i65, 166, 167-9, '74-5, 191,210-1,219, 220-3, 223, 224-6, 228, 283, 329, 331-348, 488, 541, 545-6, 55i-4, 592, 6^6, 65 1-2.
+
+Benthuysen (Van) : 616.
+
+Bernouilli : 492, 355.
+
+Beverovicius : 554.
+
+Blaeu : 353, 357, 491.2.
+
+BoESSET ; 579.
+
+BoETius : 29.
+
+Borel (Pierre) : 4, 35, 164, 201, 2i3- 214, 35i, 491.
+
+Borgois (Johannes) : 33.
+
+Boulliaud (Ismaël) : 556-7.
+
+Bourges (Ms de) : 563.
+
+Bramer (Benjamin) : 242, 254.
+
+Brasset : 6o5.
+
+Brienne (M' de) : 606-9.
+
+BrISCIUS : 32.
+
+��a. Les chiffres gras indiquent les pages où les noms propres se trouvent dans le texte même de Descartes; les autres chiffres renvoient seulement aux notes, avertissements et éclaircissements.
+
+Œuvres. V. . 86
+
+�� �
+
+[p. 682] 682
+
+��Table des Noms propres.
+
+��Bringkrn : HJ4-5. Bross-eus : i83. Brosseau : 207. BuRRosius : 590.
+
+Cabala Germanorum : 297. Calandrini : 577-8, 600, 643-4. Cardano : 45, I 55, 245, 643-4. Cavai.meri : 588" 592. Cerisy (Abbé ne). Voir Habert. Chanut ; 1-3, [3-4, 82, 174, 180, i85,
+
+202-3, 207, 214, 351,477, 535, 537,
+
+6oi-6i3, 617-624, 63o. Charles !"•, roi d'Angleterre : 33-4. Charles-Quint : 232. Chorez : 591. Christink, reine de Suède : i, 174,
+
+604-5, 606-9, 61 1-3, 618-622, 63o. Clavius (Le P. Christophorus) : 29,
+
+i54, i56, 262. Clerselier : 1-2, 4, i3, 81-2, 173-.^,
+
+179, 202, 207-8, 257, 35i-3, 356-7,
+
+47O) 477. 49'> 493. 514, 529, 535. CoLvius (Andréas) : 39, 348, 578. C0MMAND1N : 29, 562, 567. CoPERNicus : 29. Crasso (Lorenzio) : 201. Cunjeus : 56o.
+
+Debeaune (Florimond) : 353, 590.
+
+Dematius : 10.
+
+Desargues : 590.
+
+Desbarreaux : 532.
+
+Pescartes (Joachim) père : 180.
+
+Dieu (Mr de) : 576.
+
+DiGBY : 660.
+
+Dioclès : 653.
+
+DioPHANTE : 297-8, 3o2, 376, 481,
+
+483. Drebbel (Cornélius) : 33-4. DouDE (François) : 2.
+
+Elisabeth, princesse de Bohême : 3, 18, 63i. » , reine de Bohême : 63i. Elzevier : 48, 537, 555. Erasme : 140.
+
+Estampes-Valençay (Marquis d'j : 583. Estrées (César d') : 626.
+
+��Ettkn (H. van) : 547. Euci.iDKS : 29, 549, r)34, 656-7. EuToc us : 653.
+
+Farert (Abraham) : 334. Fabry (Le P. Honoié) : 587. P'aui.haber (Johannes) : 176, 242, 232-
+
+255. Fkdé (René) : 35i. Ferdinand, empereur : i58, 1S6, 25:. Fkrmat : 281, 297-8, 3o5-9, 562, 5(14-
+
+566, 588, 592-4, 660, 675-6. Fludd (Robert) : 198, 200. Foreest (Johan van) : 61 3-4, 615,
+
+616-7. Foreest (Nanning van) : 616-7. Forestus (Petrus) : 617. Frédéric, roi de Bohême : i58, 252. Frédéric- Henri, prince d'Orange :
+
+617. Frenicle : 3oo.
+
+Gabriel (Morice) : 3o, 32.
+
+Galilée : ï3, 39, 347, 549-55i, 56i-2,
+
+567-573, 587-590, 593, 597. Garasse (Le P.) : 198. Garde (Connétable de la) : 6o5-6. Gassend (Pierre) : 20, 37, 39, 19S, 200,
+
+590, 599. Gellibrandus : 590. Gibikijf (Le P.) : 536, 541. Gilbertus : 431. Gillot : 562. Glareinus : 2<>. GoLnis : 637-9. Gorgias : ("14. Grégoire de Nysse : 559. Grégoire de Saint-Vincent (Le P.) :
+
+63 1. Gremonville (Ms de) : 6o5. Guillaume le Taciturne : 617.
+
+Habert (Germain), abbé de Cerisy :
+
+579. Hali.é (Jacques) : 583. Hardy : 652. Hautekivk (Mr de) : 354. Heinsius : 558, 56o, 617. Henrion (Denis) : 547-8.
+
+�� �
+
+[p. 683] Table des Noms propres.
+
+��683
+
+��Hérissé (Martin) : 563.
+
+Hermès : 29.
+
+Héron : 29, 654.
+
+Heurnios : 42.
+
+HoGELANDE (Com. ab) : 2.
+
+Horace : 364.
+
+Hortensius (Martinus) : 20, 'ig.
+
+HuET (Daniel) : i85.
+
+HuYGENs (Constantin) père : 2, 3, 82,
+
+207, 282-3, 541, 558, 577-580, 585,
+
+595, 600, 617, 63o-i. HuYGENS (Constantin) fils : 582, 628-
+
+63i. HuYGENs (Christian) : 3, 582, 629-631.
+
+Keckermannus : 225. Kepler : 29, 37. KiRCHER (Le P.) : 9. Kroneberg [Baron de) : 174.
+
+Laet (Ms de) : 576.
+
+Larenus (Jeremias) : 28-9.
+
+Launoius : 583, 626.
+
+Le Bon : 352.
+
+Lefèvre d'Etaples : 134.
+
+Legrand (Abbé J.-B.) : 21 5, 352, 354.
+
+Leibniz : 75, 154, 173-4, 2o5, 207-210,
+
+2i3, 216, 219, 220, 223, 227, 234,
+
+239, 257, 272, 275, 282, 32 1, 354-6,
+
+492-3, 495, 498, 535. Le Tenneur : 569. Leurechon ou Levrechon (Le P.
+
+Jean) : 473, 546-551. LiPSTORP (Daniel) : 47-8, 5o-i. iq2,
+
+252-3. LONGOMONTANUS : 3o4, 636.
+
+Luc Valère : 562, 567.
+
+LuLLius : 63-5, 157, 164-6, 167.
+
+Magni (Valerianus) : 628.
+
+Maire (Jan) : 555.
+
+Maître d'armes : 537.
+
+Malebranche ; 352, 526.
+
+Mansfeld (Comte de): i58.
+
+Mathias, empereur : i58.
+
+Maurice, prince d'Orange : 24, 47,
+
+49, 252. MAXiMii.iENjduc de Bavière: i58, 252. Mayer (Michel) : 195, 198.
+
+��Meeus Jacobsz : 61 5-6. Menechmus : 653, 654-5. Merck (Peter van der) : 166, 167. Mersenne (Le P. Marin' : 7, 20, 36,
+
+38-9, 90, 191, 198-200, 297, 3oo,
+
+3o5. 337, 474, 519, 561-574, 579,
+
+580-600, 625-8, 652-660. Messias (Petrus) : 45. Monhkmius (Franciscus) : 576-7. Montaigne : 5i5-6. Moreau : 577. Mydorce (Claude) : 191, 473, 488,
+
+547-8, 55o, 588, 65i-2, 660. Myerop (van) : 616.
+
+Naudé (Gabriel) : igS.
+
+N1CAISE (Abbé) : 207.
+
+NicÉRON (Le P. Jean-François) : 583.
+
+Nicole. Voir Port-Royal.
+
+NicoMEDEs : 653.
+
+Noue (Le P. François de la) : 563.
+
+Overbeeck : 542. Orontius ; 29.
+
+Pallierus {ou Le Pailleur) : 590. Pappus : 29, 376, 481, 483, 639, 640,
+
+654. Paracelse : 195-6. Paré (Ambroise) : 90. Pascal (Biaise) : 471, 590, 626-7. Pascal (Etienne) : 564, 590, 626-7. Pascal (Jacqueline) : 627. Pell (John): 636. Philon de Bysance : 654. Picot (Abbé) : 2, 532, 582, 600.
+
+PiCQUES : I.
+
+Platon : 367, 653.
+
+Poisson (Le P. Nicolas) : 80-1, 84-6,
+
+141, 196-8, 23i-2, 255-6, 352, 357,
+
+476,481, 529, 538. PoLLOT (Alphonse) : 582, 617. PoRÉE (Denys). Voir Vandes.
+
+PORLIER : 180, 537.
+
+Porphyre ; 516.
+
+Porta (J.-B.): 29, 37, 347. Port-Royal [Logique de) : 352, 357,
+
+433-4, 439, 470-5, 477. Ptolom^us : 29.
+
+�� �
+
+[p. 684] 684
+
+��Table des Noms propres.
+
+��PuY CM. DU) : 554-7, 559-561, 574,
+
+576-7. Pyrrhonici: 5i9-520. Pythagore : 184, 347, 375.
+
+Rabelais : 53i-a.
+
+RAEY(Jean de) : 2, 353.
+
+Ramus : 29, i56.
+
+Rechecourt (Mra« de) : 577.
+
+Rbgiomontanus : 29.
+
+Reneri : 541-2, 557.
+
+Richeome (Le P. Louis) : 187.
+
+RiGAULT : 56o.
+
+Roberval : 3o6, 572-4, 586, 588, 592-4,
+
+625-6, 652-9, 675-6. RosAY (M"» du) : 538. Rose-Croix : 175, 193-ïOo, 314. RoTH (Peter), ou Roten, ou Rhoden :
+
+214, 242,253, 638. RoucY (Abbé de) : 80. Ryer (M' du) : 618.
+
+Sainte-Croix : 297, 565. Salden : 191. Salinas : 638.
+
+Saumaise : 554-561, 574-7, 63o. ScALiGER : 617.
+
+Scheiner (LeP. Christophe) : 541 , 543. ScHENKELius (LaiTibertus] : 228, 25 1. Schluter (Henry) : 1, 4. ScHooTEN (Frans van) fils : 2, 353, 628-9, 636. )■ , père : 635-647. Schuller : 354, 356.
+
+SCHUYL : 23l.
+
+Servita (Paulus) ; 348. Snellius (Rudolf) : 29. SocRATEs: 421, 432. Sparre (Eric) : i. Spezzano (Laurentius à) : 583. Spinola : 47. Sporus : 654.
+
+��Stampioen : 3o2, C46.7. Stevin: 29, 228, 562, 374. Strada : 23î.
+
+Tacite : 607-S.
+
+Tali.emant des Réaux : 532.
+
+Thabit BEN Corrah : 3oo.
+
+Thevenot : 6Stj.
+
+Thibaiu.t (Girard) : 537.
+
+Thou (Auguste de) : 5o.
+
+Thuillerik (Ms de la) : 207, 6o5-6.
+
+Thuu.lerie (M'"" de la) : 61 i-a.
+
+Thurn (Comte de) : i58.
+
+Torrez (La : 232.
+
+ToRRicEi.Li : 588, 628.
+
+TORSTENSON : 60 5-6.
+
+Trichet (Pierre), 544. TscHiRNHAus : 208-9, 493-3, 495, 497, 5i 1-2, 514, 53o.
+
+Valois (Louis de), 627.
+
+Vandes (Denys Porée de) : 23, 3o-2.
+
+Vatier (Le P.) : 626-7.
+
+Verreyken (Lambert) : 546.
+
+Vespré (M' de) : 58o.
+
+ViÉTE : 48-50, i56, 374, 592, 653.
+
+Villebressieu : 543.
+
+VioGuÉ (Le P.) : 1.
+
+Virgile : 140, 182, 220.
+
+ViTELi.io : 8, 29.
+
+VoETius : 10-1.
+
+Voyette (Louis de la) : 2,
+
+Waessenaer : 3o2. Water (G. VAN de) : i85. Wii.HEM (Le Leu de) : 207.
+
+Xylander ; 298.
+
+Zarlino : 134, 638.
+
+Zyli. (Gisbert à) : 79. ZuRCK (van) : >.
+
+�� �
+
+[p. 685] •ERRATA
+
+��Page 32, note, 1. 4 : Beerfman {sic) lire : Beckman.
+
+l. 5 : praeftamiflîmus — peritiffimus.
+
+1. 9 : Brise — Brix.
+
+61, 1. 19 : après arithmetica, virgule à ajouter.
+
+76, var. : 4 hune hic] lire : hune] hic.
+
+97, note h : après textes, virgule à ajouter. 1 13, 1. 12 : contravijs lire .- contrarijt.
+
+118, 2' Fig., secteur B : eum — cum.
+
+125, tableau, colonne de droite : le signe du bécarre doit être sur la
+
+ligne 180, et non pas au-dessous. 161,1. 6 : hiftinc /«Ve ; iftine.
+
+221, 1. 2 [en remontant) : aeris — aeris.
+
+225, note, 1. i3 : après tunis, virgule à supprimer.
+
+235, nore b,l. 14: ae lire : ac^
+
+237, noteb, 1. 6 : V ^^ + '. >•« • K 26 + i.
+
+260, 1. 8 : Au paravant — Auparavant.
+
+^14, l. 23 : signe ^ à supprimer,
+
+321, 1. I : devant 2abdy, signe — {au lieu du signe +). 326, 1. 7 : italiques à tort, lire en caractères romains. 335, 1. 3 : addere 9» lire : addere^ 9.
+
+342, (X) 1. 7 : avant portione, rétablir un guillemet. 346, 1. 6 : linea lire : lineam.
+
+359, note a : B — P- 477-9-
+
+362, : C — P- 480-
+
+363, : D — P- 480.
+
+364, notcb:E — p. 480-1.
+
+365 et 368 : descendre d'une ligne les chiffres 5, 10, etc., à la marge. 372, note b: Voir ci-avant,. . . lire: p.365,1.6-9,etp.4o5-6.
+
+375, no/ea:P — p. 480-1.
+
+note b : às E<">(iÉTp7iT0< — kfito^itc-ri-^oi;.
+
+�� �
+
+[p. 686] 686 Errata.
+
+Page 3/7, note a : cipres Appendice ajouter : p. 483. 394, 1. i3 : après polie, virgule . ajouter. 396. var. ; 1. 21 lire : 1. 22.
+
+402. 1. 25 : après partes, virgule d supprimer. 428 et 433, note a : ajouter p. 471. 439, )io/e a : — p. 475.
+
+524, 1. 4 [en remontant) : après folvam, ôter le signe ). 565. note, 1.4:1. II lire : t. I.
+
+570, 1. lu : (ont — sont.
+
+��
+
+�
+
+[p. 687] TABLE DES MATIÈRES
+ ————
+
+Inventaire des Papiers de Descartes, 14 février 1650
+
+1
+
+BEECKMAN ET DESCARTES (1618-1619)
+
+15
+
+Avertissement
+
+17
+
+I. — Varia
+
+41
+
+I. Angulum nullum esse male probavit Des Cartes
+
+46
+
+II. Turbo puerorum, id est een worptop, cur erectus stet, cùm vertitur
+
+51
+
+III. Chordae majores intactas minores & consonantes movent
+
+52
+
+IV. Physico-mathematici paucissimi
+
+»
+
+V. Fistula fortius inflata cur in octavam abeat
+
+53
+
+VI. Testudinis (een lute) chordas disponere
+
+»
+
+VII. Quartâ à consonante chorda remota non tremit. — Quarta à quintâ dignoscere
+
+54
+
+VIII. Quadratum radici æquale datum
+
+»
+
+IX. Mr. Duperon
+
+56
+
+X. Bisectio in musicis facillima & gratissima
+
+»
+
+XI. Lapis cadens in vacuo cur semper celerius cadat
+
+58
+
+XI bis. Lapidis cadentis tempus supputatum
+
+»
+
+XII. Modi non dulces & ictus testimonio probati
+
+61
+
+XIII. Modi modorum argumento probati
+
+62
+
+XIV. Modi modorum ab objectione defenfi
+
+63
+
+XV. Ars Lullij cum Logicâ collata
+
+»
+
+II. — Physico-Mathematica
+
+67
+
+I. Aquae comprimentis in vase ratio reddita à D. Des Cartes.
+
+67
+
+II. Lapis in vacuo versus terræ centrum cadens quantum singulis momentis motu crescat, ratio Des Cartes
+
+75
+
+[p. 688] III. — Musicæ Compendium
+
+79
+
+Avertissement
+
+79
+
+I. Hujus objectum est Sonus
+
+89
+
+II. Praenotanda
+
+91
+
+III. De numero vel tempore in sonis observando
+
+92
+
+IV. De sonorum diversitate circa acutum & grave
+
+96
+
+V. De Consonantiis
+
+»
+
+VI. De Octavà
+
+98
+
+VII. De Quintà
+
+105
+
+VIII. De Quartâ
+
+107
+
+IX. De Ditono, Tertià minore, & Sextis
+
+108
+
+X. De Gradibus sive Tonis Musicis
+
+112
+
+XI. De Dissonantiis
+
+127
+
+XII. De ratione componendi & modis
+
+131
+
+XIII. De Modis
+
+139
+
+Variantes
+
+142
+
+LETTRES (1619).
+ Descartes à Beeckman, 24 janvier 1619
+
+151
+
+26 mars 1619
+
+154
+
+20 avril 1619
+
+161
+
+23 avril 1619
+
+162
+
+29 avril 1619
+
+164
+
+Beeckman à Descartes, 6 mai 1619
+
+167
+
+OPUSCULES (1619-1621).
+ Extraits de Baillet
+
+171
+
+Avertissement
+
+173
+
+Olympica
+
+179
+
+Experimenta
+
+189
+
+Studium Bonæ Mentis
+
+191
+
+Appendice
+
+204
+
+MS. de Leibniz
+
+205
+
+Avertissement
+
+207
+
+Cogitationes privatae
+
+213
+
+Appendice
+
+249
+
+De Solidorum Elementis
+
+258
+
+Avertissement
+
+258
+
+Texte
+
+265
+
+[p. 689] EXCERPTA EX MS. DES-CARTES. (Edit. 1701)
+
+277
+
+Avertissement
+
+279
+
+I. Polygonorum inscriptio
+
+285
+
+II. Horum Vsus Trigonometricus
+
+289
+
+III. Numeri Polygoni.
+
+297
+
+IV. De Partibus Aliquotis Numerorum
+
+300
+
+V. Radix Cubica Binomiorum
+
+302
+
+VI. Circuli Quadratio
+
+304
+
+VII. Tangens Cycloïdis
+
+305
+
+VIII. Tangens Quadratariae per Cycloïdem
+
+307
+
+IX. Æquationum Asymmetriae Remotio
+
+308
+
+X. Ovales Opticae Quatuor
+
+310
+
+XI. Earum Descriptio & Tactio
+
+313
+
+Eclaircissements
+
+325
+
+DESCARTES ET BEECKMAN (1628-1629)
+
+331
+
+I. Historia Des Cartes ejusque mecum necessitudo. — Docti cur pauci
+
+331
+
+II. Algebrae Des Cartes specimen quoddam
+
+333
+
+III. Angulus refractionis à Des Cartes exploratus
+
+335
+
+IV. Chordarum musicarum crassitiei ratio
+
+337
+
+V. Solis radijs comburere remotissima
+
+338
+
+VI. Ellipsis in quâ omnes radij paralleli concurrunt in puncto medij densioris
+
+»
+
+VII. Hyperbola per quam radij in unum punctum concurrunt
+
+340
+
+VIII. Ellipsis pars per quam radij in aere exacte concurrunt
+
+»
+
+IX. Hyperbola per quam omnes radij paralleli in unum punctum exacte incidant demonstrata
+
+341
+
+X. Parabolâ duo media proportionalia inveniri posse demonstratur
+
+342
+
+XI. Parabolâ æquationes Cossicas lineis exponere
+
+344
+
+XII. Lunae an litterae inscribi possint absentibus legendae
+
+347
+
+XIII. Consonantiæ omnes ex continuâ chordae bisectione
+
+348
+
+REGULÆ AD DIRECTIONEM INGENII
+
+349
+
+Avertissement
+
+351
+
+Regula I
+
+359
+
+II
+
+362
+
+III
+
+366
+
+IV
+
+371
+
+V
+
+379
+
+[p. 690] Regula VI
+
+381
+
+VII
+
+387
+
+VIII
+
+392
+
+IX
+
+400
+
+X
+
+403
+
+XI
+
+407
+
+XII
+
+410
+
+XIII
+
+430
+
+XIV
+
+438
+
+XV
+
+453
+
+XVI
+
+454
+
+XVII
+
+459
+
+XVIII
+
+461
+
+XIX
+
+468
+
+XX
+
+469
+
+XXI
+
+»
+
+Traduction française. — Port-Royal
+
+470
+
+Le P. Poisson
+
+476
+
+A. Baillet
+
+»
+
+Note sur le texte
+
+484
+
+Règle VIII
+
+485
+
+Date des « Regulæ »
+
+486
+
+LA RECHERCHE DE LA VÉRITÉ
+
+489
+
+Avertissement
+
+491
+
+Texte français
+
+495
+
+Traduction latine
+
+514
+
+Appendice
+
+528
+
+ART DE L’ESCRIME
+
+533
+
+Fragments
+
+535
+
+SUPPLÉMENT À LA CORRESPONDANCE
+
+539
+
+Lettre de Reneri, 28 mars 1629
+
+541
+
+Trompette marine. (Lettre XLV bis, été 1632)
+
+544
+
+Le vide et le plein. (Lettre XXXIV, 2 juin 1632)
+
+545
+
+Recreations Mathematiques. (Lettres LIII et LIV, avril et mai 1634)
+
+546
+
+Publication de 1637. (Lettre LXXIII, 27 avril 1637)
+
+554
+
+Livres de Boulliaud. (Lettre CVIII, 22 fév. 1638)
+
+556
+
+Saumaise à Descartes, 22 nov. 1639
+
+557
+
+[p. 691] Centres de Gravité. Parties aliquotes des nombres (Lettre CXXX, 13 juillet 1638)
+
+561
+
+Observations sur Galilée. (Lettre CXLVI, 11 oct. 1638)
+
+568
+
+Mécanique. Roberval et Galilée. (Lettres CXLVI et CXLIX, 11 oct. et 15 nov. 1638)
+
+572
+
+Sur trois Prodiges (Lettre CXCII, 11 juin 1640)
+
+574
+
+Sur les Orgues. (Lettre CCI, 14 août 1640)
+
+577
+
+Adresse et Date. (Lettre CCXIX, nov. 1640)
+
+578
+
+Huygens et Bannius. (Lettre CCXXII, déc. 1640)
+
+579
+
+Autographe. (Lettre CCXCVI, 23 fév. 1643)
+
+580
+
+Visites. (Lettre CCCXLV, 8 avril 1644)
+
+582
+
+Mersenne : Cogitata Phys.-Math. (Lettre CCCLX, 8 nov. 1644)
+
+»
+
+Voyage de Mersenne (Lettre CCCLX, id.)
+
+600
+
+Chanut à Descartes. (Lettre CDXLIII, 25 août 1646)
+
+601
+
+Fontaine de Hornhausen. (Lettres CDL, CDLII et CDLXI)
+
+604
+
+Portrait de la Reine Christine. (Lettre CDLIII, 1er nov. 1646)
+
+606
+
+Chanut à Descartes. (Lettre CDLXII, 1er déc. 1646)
+
+609
+
+Descartes à Jan van Foreest, 5 janvier 1647. (Autographe)
+
+613
+
+Chanut à Descartes. (Lettre CDLXXIX, 11 mai 1647)
+
+617
+
+Experiences du Vide. (Lettre D, 13 déc. 1647)
+
+624
+
+Lettre de Schooten à Constantin Huygens, 5 nov. 1648
+
+628
+
+Lettres des Huygens, père et fils
+
+629
+
+ADDITIONS
+
+633
+
+I. Sur la Géométrie et sur le Compendium Musicae (MS. de Groningue)
+
+635
+
+II. Excerpta Mathematica. (Variantes)
+
+647
+
+III. Moyennes proportionnelles. (Problème)
+
+651
+
+IV. Calcul de Descartes. (Introduction à la Geométrie)
+
+659
+
+TABLE DES NOMS PROPRES
+
+681
+
+ERRATA
+
+685
+
+———————
+
+[p. 693] I. F. M. R. P. PARIS 1946 Imprimé en France
+
+↑ Constantin Huygens à Elisabeth, 31 déc. 1653 : « …Pour longue qu’est desja ceste lettre, je ne puis m’empescher de l’estendre de quelques lignes, pour tres humblement supplier V. A. de me vouloir gratifier d’une copie du recit que Monsieur Chanut, presentement Ambassadeur icy, me dit auoir faict par lettre à V. A., des circonstances de la derniere maladie & trespas de M. Descartes. Ce qu’il m’en a dit de bouche, Madame, m’a faict juger qu’il importe, pour plusieurs considerations, que ces particularitez soyent cognues & à ses amis, & à ses enemis, la calomnie n’ayant cessé de persecuter jusqu’à l’ombre de ce grand personage, à l’honneur duquel je m’assure que V. A. prendra en bonne part la liberté que je me donne de l’importuner sur ce subject. Monsieur » Chanut, qui possede tous les papiers du defunft, & prétend d’en faire » imprimer quelques Lettres d’eflite, desire fueilleter le tout aueq mond’ » Archimede, pour veoir ce qu’il y a encor de Philosophique ou de » Mathématique, dont on pourroit faire part au publiq, rr’y ayant point » de brouillon de ceste merueilleufe main, à mon aduis, qui ne le » mérite. » (Ibidem, t. II, p. 521.) Ledit « Archimède » n’est autre que le fils cadet de Constantin Huygens, à savoir Christian, qui devint le grand Huygens. — Voir une lettre de Chanut, t. V, p. 471. ↑ « Attribué », sic pour « contribué ». ↑ Voir notre t. IV, p. 600. ↑ Ici, dans le MS., la place de plusieurs mots en blanc. ↑ Le premier volume de Lettres ayant été achevé d’imprimer le 30 janvier 1657, et les manuscrits n’étant parvenus à Clerselier qu’en 1653, la date de cette lettre est de 1655 environ. ↑ Ci-avant, p. 119, l. 31 à p. 120, l. 2. ↑ Ibid., p. 115, l. 7-15. ↑ « M. Chanut, Ambassadeur de France en Suéde, & le Baron de Kroneberg, commis par la Reine Christine pour assister à l’Inventaire de ce qu’il avoit laissé à sa mort, trouvérent, parmi les Ecrits de sa composition, un Registre relié & couvert de parchemin, contenant divers fragmens de Pieces différentes, ausquelles il paroit qu’il travailla pendant ce têms-là. C’étoit 1. Quelques considérations sur les sciences en général ; 2. Quelque chose de l’Algèbre ; 3. Quelques pensées écrites sous le litre Democritica ; 4. Un recueil d’Observations, sous le titre Expérimenta ; 5. Un Traitté commençant sous celui de Præambula : Initium sapientiæ timor Domini… » (A. Baillet. Vie de Monsieur Des-Cartes, 1691, t. I, p. 50.) Voir la suite de ce passage ci-après, p. 179 : « Un autre en forme de discours… »« Ces écrits postumes, à qui M. Clerselier & les autres Cartésiens ont fait voir le jour après la mort de leur Auteur, n’étoient pas les seuls qui se trouvassent à la revuë que M. Descartes fit de ses papiers. Il y avoit encore divers ouvrages, commencez dans plusieurs registres de différentes grandeurs, touchant la Science des Nombres, & sur diverses autres parties des Mathématiques & de la Physique. Outre les petits recueils qu’il avoit faits en sa jeunesse, & dont nous avons parlé sous les titres de Parnassus, d’Olympica, de Democritica, d’Expérimenta, de Præambula, ausquels nous aurions pû joindre celuy de Thaumantis Regia, qu’il avoit entrepris peu d’années après les autres, & long-têms avant le tiége de la Rochelle. » (Ibid., t. II, p. 403.)
+ ↑ Ce passage fait suite immédiatement à celui qui a été cité ci-avant, p. 174, note a. ↑ Allusion à une longue retraite de deux années (nov. ou déc. 1614 jusqu’à déc. 1616) que Descartes aurait faite, pour étudier loin de toute compagnie, dans une maison écartée du faubourg Saint-Germain à Paris. Baillet raconte la chose sur la foi d’une « Relation MS. de M. Porlier », qu’il cite à deux reprises, dans sa Vie de Monsieur Des-Cartes, t. I, p. 38 et p. 39. Mais Porlier, neveu de Chanut, ne pouvait savoir cela que par ouï-dire, n’étant pas encore né lui-même en 1616, et n’ayant connu Descartes qu’assez tard : ce fut seulement lorsqu’il accompagna son oncle en Suède en 1645, et passa par la Hollande au commencement d’octobre. La tradition n’est donc pas très sûre, d’autant plus que nous savons, par des documents d’archives (registres de baptêmes, et de grades universitaires) que Descartes se trouva à Poitiers au moins aux dates du 21 mai et des 9 et 10 novembre 1616. ↑ On a vu que Descartes quitta la Hollande le 29 avril 1619 (ci-avant p. 165, l. 24). Il était à Bréda, le 10 novembre 1618 (ibid., p. 46). Depuis combien de temps ? On ne saurait dire. Le 3 déc. 1617, il se trouvait encore chez son père, à Chavagne en Sucé, près de Nantes, comme en fait foi sa signature à un acte de baptême. Au reste, ce qu’on a vu de lui pendant son séjour à Bréda, ne le montre nullement en proie aux tourments intellectuels, dont parle Baillet. Tout ce premier paragraphe, qui ne se réfère d’ailleurs à aucun document, n’est qu’une entrée en matière du biographe, comme il le fait trop souvent, sous sa seule responsabilité. ↑ Cet ouvrage eut, en effet, deux éditions antérieures à l’année 1619 où nous sommes : l’une en 1603, l’autre en 1611. Voici le titre complet : Corpus | omnium veterium | poetarum latinorum | secundum seriem temporum, | & quinque libris | distinctum, | in quo | continentur omnia | ipso- ↑ Cette interprétation, pour le moins singulière, et dont on ne saurait dire sur quoi elle s’appuie (à moins qu’un melon n’éveille l’idée d’un jardin, et celle-ci l’idée d’une habitation à la campagne, ou à une petite distance d’une ville, comme Descartes les aimera plus tard), ne manqua pas de soulever, dès le xviie siècle, quelques railleries. Voir en particulier, un pamphlet, qui date, il est vrai, de 1693, et n’apporte d’ailleurs aucun document nouveau : Nouveaux Mémoires pour servir à l’Histoire du Cartesianisme. Par Mr. G. de l’A. (Gilles de l’Aunay, c’est-à-dire Huet, évêque d’Avranches.) A Utrecht, chez Guillaume van de Water, 1693. Petit in-12, 102 pp. : « Je ne vois pas bien, lui dit M. Chanut (que l’on suppose s’adresser à Descartes), comment vous pourrez découurir qu’un melon signifie la solitude. » (Pag. 66.) Et le même auteur fait demander à notre philosophe, toujours par M. Chanut : « Comment il avoit reconnu que toutes ces visions étoient des révélations du Ciel, & non pas des songes ordinaires, excitez peut-être par les fumées du tabac, ou de la biére, ou de la melancholie. « (Pag. 64.) Huet avait d’abord fait malignement remarquer que ces songes arrivèrent « pendant une nuit, qui suiuit une soirée du jour de Saint-Martin, après avoir un peu plus fumé qu’à l’ordinaire & ayant le cerveau tout en feu. » (Pag. 62.) Pourtant Descartes, et Baillet le remarque aussi, avait pris soin de répondre par avance à ces insinuations. Voir ci-après, p. 186, l. 12-22. ↑ Descartes avait eu sans doute entre les mains, pendant son séjour au Collège de La Flèche (1604-1612), le volume suivant : Le Pelerin de Lorette. Vœu à la glorieuse Vierge Marie Mere de Dieu pour Monseigneur le Daufin. Par Louys Richeome Prouençal, de la Compagnie de Iesus. (A Bordeaux, par S. Millanges, 1604, in-8o, pp. 983.) — Autres éditions : Le Pelerin de Lorete, accomplissant son vœu faict à la glorieuse Vierge Marie Mere de Dieu, etc. (Arras, imprimerie Guillaume de la Rivière. 1604 ; Lyon, 1607 ; Bordeaux, 1607; Arras, 1611). L’ouvrage fut traduit en latin : R. P. Ludovici Richeomi, Societatis Iesu Theologi, Peregrinus Lauretanus, votum Deiparæ Virgini nuncupatum exsoluens. Nunc recens à F. Ioanne Haickstein Carthusiæ Coloniensis Alumno, ex idiomate gallico in latinum conuersus. (Coloniæ, apud Ioannem Crithium, M.DC.XII.) — Louis Richeome, appelé de son temps le Cicéron français, était né à Digne en Provence, l’an 1544 ; il entra au noviciat des Jésuites à Paris, le 25 juillet 1565, enseigna deux ans la grammaire et les humanités, et neuf ans la rhétorique ; il fut six ans recteur de Dijon, deux fois provincial de Lyon, et une fois d’Aquitaine ; il fut aussi assistant de France, de 1608 à 1615. Il mourut à Bordeaux, le 15 septembre 1625. Les œuvres du P. Richeome comptent jusqu’à 41 numéros dans la Bibliothèque de la Compagnie de Jésus, nouv. édit. par Carlos Sommervogel, S. J., Strasbourgeois, t. VI, 1895, p. 1815-1831. ↑ Voir t. VI de la présente édition, p. 11, l. 4-12. ↑ Baillet s’appuie ici sur la date du 11 novembre 1619, rapportée dans le fragment (I), p. 179 ci-avant. ↑ Rien dans le Journal de Beeckman, tel qu’il nous est connu maintenant, ne justifie cette conjecture. ↑ Résumé de l’alinéa, p. 433 ci-avant, l. 1, à p. 434, l. 11. ↑ Développement des trois ou quatre lignes de Descartes, p. 434, l. 1-3, et p. 434, l. 5-6. On pourrait croire que ce long passage de la Logique de Port-Royal comble une lacune du texte de Descartes imprimé en 1701, et supplée à ce qui manque p. 434, l. 6. Mais ce ne sont que des exemples, apportés par Arnauld, pour illustrer et interpréter les quelques lignes du texte latin. Voir la note suivante. ↑ « On a trouve que non. » Rappelons que cette seconde édition de la Logique de Port-Royal est de 1664, et que, l’année précédente, venait de paraître un ouvrage posthume de Pascal (mort le 19 août 1662) : Traitez de l’equilibre des liqueurs & de la pesanteur de la masse de l’air, contenant l’explication des causes de divers effets de la nature qui n’avoient point esté bien connus jusques ici & particulierement de ceux que l’on avoit attribuez à l’horreur du vuide, par Monsieur Pascal. (Paris, Guillaume Desprez, 1663, in-12. Préface, 26 pages. Pp. 239, plus 2 pl.) En 1648 et 1647, Pascal avait publié lui-même ses expériences sur ce sujet (voir t. V de cette édition, p. 100-101). Ce seul fait suffit à prouver que la Logique de P. R. ne traduit pas ici un texte de Descartes, celui-ci n’ayant pu tenir ce langage à la date où vraisemblablement il écrivit les Regulæ, c’est-à-dire en 1628. ↑ MS. de Leibniz : Abteilung 35. Mathematica. Vol. xv, fol. 3, n° 2 à 5. ↑ En tête de la Copie MS. on lit : « Paris d. 16 Novembr. anno 1676. » — Tschirnhaus à Leibniz. » — Nous reproduisons en haut des pages, la pagination de la traduction latine ; Inquisitio Veritatis…, imprimée en 1701 dans les Opuscula posthuma de Descartes, p. 67-90. ↑ MS. : poure (sic), pour pure. ↑ Lire plutôt : « tres bon ». Traduction latine « bonâ indole indigeat ». (Page 67, l. 22.) ↑ La traduction latine ne donne pas cette seconde partie, l. 18-20 : « & qu’il… inutiles. » Lacune évidemment ; car on trouve ensuite les deux contre-parties : « quæ nobis possibiles apparent, quæque non tantùm honestæ & jucundæ sunt, sed præterea admodum utiles (sic) ad vitam nostram instituendam. » (Page 70, l. 9-11.) ↑ Trad. lat. : « rationes ». (Page 70, l. 12.) Lire sans doute : « raisons ». ↑ Le MS. donne « douter ». C’est pourquoi nous ajoutons « puisse ». Lire peut-être « doute ». Trad, lat. : « Reperiturne quispiam, qui dubitet… » (Page 75, l. 23.) ↑ Leibniz ajoute : « J’ay la suite ailleurs. » (Voir, en effet, ci-avant, p. 493.) — Ici finit l’extrait du fragment ; puis viennent quelques réflexions de Tschirnhaus, imprimées dans Gerhardt : Der Briefwechsel von Gottfried Wilhelm Leibniz mit Mathematikern (Berlin, 1899). Voicy ces reflexions : « Dieses hat mir nicht uneben gesallen, und vermeinet, wo M. Cartes alle seine wercke in solcher manier versertiget, es würde von mehren assequirt sein worden, habe es also selbigen gerne mittheilen » wollen, wiewohl etwas noch dran manquiret, welches der Hr. Clerselier vor mich abschreiben lasset, se den Hrn. Mohr übergeben werde, der solches verhosset. » (Page 327.) ↑ Le texte latin ne donne pas < methodo > (p. 89, l. 5), qui est nécessaire devant quæ et plus loin vestræ. ↑ Leibniz dit, dans ses Remarques sur l’Abrégé de la Vie de Mons. des Cartes : « J’ai vu le petit écrit qui devait servir d’introduction à la Géométrie de M. des Cartes. Feu Mons. Thevenot me le communiqua. Il est assez court, mais je n’y remarque rien de cette excellence que M. Baillet dit qu’on lui attribuait et qui faisait croire que M. des Cartes en était l’auteur lui même. » (Edit. Gerhardt, t. IV, p. 3 19.) 
+ Cette pièce, copiée à Hanovre au cours d’un voyage d’études en août-septembre 1894, fut publiée par Henri Adam, dans le Bulletin des Sciences Mathématiques, 2e série, t. XX, septembre 1896. 
+ La Bibliothèque Royale de Hanovre possède, en effet, parmi les papiers de Leibniz, un cahier MS. intitulé : Calcul de Monsieur des Cartes. Il ↑ Le MS. donne : a3, b4, c5, le chiffre étant écrit non pas un peu au-dessus de la lettre, mais sur la même ligne, comme lorsqu’il est placé avant : 3a, 4b, 5c. De même dans tous les cas semblables, jusqu’à la fin. ↑ MS. : se, corrigé en ce. ↑ dit est dans le texte ↑ dit est ↑ Même signe X de la multiplication en croix. Idem, p. 666, 1. 4-5. ↑ Voir t. III, p. 188, I. 14, et p. 196-197 ; et t. VI, p. 371. ↑ Il faudrait un vinculum sur a + b. ↑ Le MS. donne : … . ↑ MS : … ↑ Voir t. VI de cette édition, p. 400-401. ↑ MS. … ↑ ...]... ↑ MS : ses (sic). Lire peut-être ces ? ↑ Tome VI, p. 371-372. ↑ Ibid., p. 469. ↑ d’icelles correction] desquelles MS. ↑ Voir t. VI, p. 407 ↑ Ibid., p. 372-373. ↑ Ibid., p. 400. ↑ KI et IL correction K et I MS. ↑ AD, AE, AS, SE, ED, MS.

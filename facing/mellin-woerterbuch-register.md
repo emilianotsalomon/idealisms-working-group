@@ -1,0 +1,12790 @@
+---
+title: "Encyclopädisches Wörterbuch der kritischen Philosophie: Register"
+author: Georg Samuel Albert Mellin
+year: 1804
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: "Jena und Leipzig: Friedrich Frommann, 1804 (Bd. VI), Bd. VI, 369–606; Sonnet transcription from page images of a scan, in Seinsbyte's library; this file is the source, corrections go here"
+original_text: transcription of the print (Sonnet, from 200 dpi page images), corrected against the scan; printed paragraphs; one file per letter, from its first article to the first article of the next letter
+translation: none
+canonical: "Bd. VI, 369–606: [Bd, p] marks where page p of volume Bd begins, as Mellin's own Register cites his articles"
+genre: Kant and post-Kantian philosophy
+collection: Mellin, Encyclopädisches Wörterbuch der kritischen Philosophie
+public: true
+rights: The Wörterbuch was printed in 1804; author and edition are long past every protection, so it is free to publish.
+generated: 2026-10-25 by .scratch/idealisms-wg/circle_editions.py (library)
+---
+
+# G. S. A. Mellin, *Encyclopädisches Wörterbuch der kritischen Philosophie*: Register (Bd. VI, 369–606)
+
+Conventions: `[I, 465]` marks where page 465 of volume I begins, at the exact word; paragraphs are the printed ones, whole across page turns; `*…*` is emphasis as printed; `[^id]` is a note of the print, set under the paragraph it belongs to. Generated file — see the header for where corrections belong.
+
+[VI, 369]
+
+## I. Register
+
+der Artikel, nebst Berichtigung aller Hinweisungen auf andere Artikel.
+
+Im ersten Bande.
+
+### A
+
+- A posteriori, 1.
+- A priori, 4.
+- Aberglaube, 20.
+- Abgeleitet, 35.
+- Abhängigkeit, 37. S. *Dependenz*, II, 62. *Verbindlichkeit und Imperativ*, 3; III, 450.
+- Absich, 37. S. *Zweck*. VI. 328.
+- Absicht der Critik der reinen Vernunft S. *Critik der reinen Vernunft*, I, 850.
+- Absolut, 37.
+- Absondern, 39.
+- Absprung, 42.
+- Abstrahiren, 45. S. *Absondern*, I, 39.
+- Abziehen, 46. S. *Absondern*, I, 39.
+- Acceleration, 46. S. *Beschleunigung*, I, 552.
+- Accidenz, 46.
+- Achtung, 51.
+- Acroamatisch, 69.
+- Adelsgewalt, 75. S. *Aristokratie*, I, 355.
+- Aehnlichkeit, 75.
+- Aesthetik, 77.
+- Aesthetisch, 85.
+- Aeussere, 85. S. *Inneres*, 2; III, 485.
+- Affecten, 85. S. *Leidenschaft*, III, 875.
+- Affectionspreis. S. *Preis*, 2; IV, 702.
+- Affectlosigkeit, 86.
+- Afficirt, 88.
+- Affinität, 89.
+- Afterdienst, 107.
+- Aggregat, 120.
+- Aggregation, 123.
+- All der Realität, 124.
+- Allerpersönlichst, 125.
+- Allgemein, 126. S. *Totalität*, 2; V, 535
+- Allgemeingültig, 126.
+- Allgemeingültigkeit, 129. S. *Allgemeingültig*, I, 126.
+
+Mellins phil. Wörterbuch 6r Bd. Aa
+
+- [VI, 370] Allgemeinheit, 129 S. *Totalität*, V. 534.
+  - ästhetische. S *Allgemeingültig*, 3; I, 127.
+  - der Kirche. S. *Kirche*, 2, a; III, 612.
+- Allheit, 129. S. *Totalität*, V, 534.
+- Amphibolie, 129.
+- An sich, 131.
+- Analogie, 141.
+- Analogie der Erfahrung, 156.
+- Analogie der Substanzialität, 165.
+- Analogie der Ursache und Wirkung, 169.
+- Analogie der Wechselwirkung, 184.
+- Analogisch, 189. S. *Analogie*, 23; I, 154.
+- Analysis, 189. S. *Zergliederung*, VI. 286.
+- Analytik, 189. S. *Logik*, 5; IV, 25.
+- Analytisches Urtheil, 189.
+- Anarchie, 201. S. *Regel*, 3. mm; V. 81.
+- Anaxagoras, 201.
+- Anbetung, 203. S. *Gebet*, II, 717.
+- Andacht, 203.
+- Andächtelei, 205.
+- Anfang, 205.
+- Anfang der Welt, 223. S. *Anfangen*, I, 226.
+- Anfangen, 223.
+- Angebohren, 227. S. *Hang*, III, 222.
+- Angebohrne Vorstellungen, 227.
+- Angebot, 231.
+- Angebotene, 232.
+- Angenehm, 233.
+- Animalisch, 240. S. *Animalität*, I, 240.
+- Animalität, 240.
+- Anlage, 242.
+- Anlagen des Menschen zum Begehren, 242.
+- Anleihe, 246.
+- Anleiher, 247.
+- Anmassung des Geschmacksurtheils, 247. S *Geschmacksurtheil*, 2; II; 919.
+- Annehmen, 247. S. *Theismus*, 4; V. 503. *Postulat* 3, b, γ; IV, 673.
+- Annehmen, die göttliche Beihülfe im Guten, 247
+- Annehmlichkeit, 250.
+- Annehmung, 250.
+- Anrathungen, 254.
+- Anreize, 254.
+- Anschauung, 256.
+- Anschauungsarten, 273. S. *Anschauung*, 6 – 13, I, 262.
+- Anschiessen, 273.
+- Anspruch auf Jedermanns Wohlgefallen, 276. S. *Geschmacksurtheil*, 2, a; II, 920.
+- Anstiftung des Verraths, 276.
+- Antagonismus, 277. S. *Gegenwirkung*, II, 793.
+- Anthropologie, 277.
+- Anthropomorphismus, 283.
+- Anticipation, 287. S. *Mathematisch*, 4; IV. 163. *Empfindung*, 7; II, 288. *Vorläufige Urtheile*, V. 53.
+- Antinomie, 287.
+- Antithetik, 299.
+- Anwendung der Categorien auf Gegenstände der Sinne, 301. S. *Kategorie*, 25; III, 543.
+- Anziehung, 301. S. *Anziehungskraft*, 4; I, 304.
+- Anziehungskraft, 302.
+- Apathie, 316. S. *Affectlosigkeit*, I, 86.
+- Apodictisch, 317.
+- Apperception, 321.
+- Apprehendiren, 329.
+- Apprehension, 332.
+- Archäologie der Natur, 335.
+- Architectonik, 351.
+- Architectonisch, 354. S. *Architectonik*, 3; I, 353.
+- Aristokratie, 355.
+- [VI, 371] Aristoteles, 359.
+- Art, 367.
+- Articulation, 368.
+- Assertorischer Imperativ, 371. S. *Imperativ*, 11; III, 454.
+- Assertorisches Urtheil, 371, S. *Urtheil*, II, 17, V. 683.
+- Association, 371, S. *Bewusstseyn*, 6; I, 695.
+- Atomus, 371.
+  - als Klümpchen, 372.
+- Atomistik, 374.
+- Attraction, 380.
+- Attribute, 381. S. *Eigenschaft* II, 212.
+- Aufenthalt der Begriffe, 381.
+- Auffassung, 383. S. *Apprehension*, I, 332.
+- Aufgabe, allgemeine der reinen Vernunft, 383.
+- Aufklärung, 397.
+- Auflösung, 403.
+- Auflösungsmittel, 407.
+- Aufmunterung, 408.
+- Aufruhr, 408. S. *Rebellion*, IV, 870.
+- Aufstand, 409. S. *Rebellion*, IV, 870.
+- Augenblick, 409. S. *Zeit*, VI.
+- Ausdehnung, 409.
+- Ausdehnungskraft, 414. S. *Elasticität*, 2; II, 256.
+- Ausführlichkeit des Begriffs, 414.
+- Auslegung der Offenbarung, 417.
+- Ausrottungskrieg, 437.
+- Ausser mir, 438.
+- Autokratie, 439.
+- Autonomie des Willens, 440.
+  - des Geschmacks, 447. S. *Geschmack*, 6; II, 898.
+- Axiomen, 447.
+  - der Anschauung, 452.
+
+### B
+
+- Bastarderklärung, 465.
+- Baukunst, 466.
+- Baumgarten, 468.
+- Beamter einer Kirche, 471.
+- Beattie, 472. S. *Hume*, 7, b; III, 304.
+- Bebung, 472. S. *Bewegung*, VI; II, 596.
+- Bedeutung, 472.
+- Bedingung, 476. S. *Begreifen*, 1; II. 482. u. *Folge*, 8; II, 618.
+- Bedingte, 476. S. *Begreifen*, 1; II, 482. u. *Folge*, 8; II, 618.
+- Bedürfniss, 476.
+- Beerbung, 478. S. *Erwerbung*, 29; II, 428.
+- Befehlshaber, 478. S. *Staat* 12; V, 378 u. *Souverän*, V, 353.
+- Befugniss, 478.
+- Begebenheit, 481.
+- Begehrungsvermögen, 481. S. *Wille*, VI, 174.
+- Begierde, 482. S. *Angenehm*, 2; I, 233. u. *Interesse*, 6; III. 497.
+- Begnadigungsrecht, 482.
+- Begreifen, 484.
+- Begriff, 484.
+- Begriffsvermögen, 514. S. *Verstand*, 3; VI, 11.
+- Begüterung, 514. S. *Preis*, 3; IV, 702.
+- Beharrlich, 514. S. *Beharrlichkeit*, 2; II, 515.
+- Beharrlichkeit, 515.
+- Behaupten, 520.
+- Beherrschung der Glieder der Kirche, 521.
+- Bejahung, 521.
+- Beispiel, 522.
+- Beiwohnung, 523.
+- Bekannt werden, 523.
+- Belästigung, 524. S. *Recht*, 28; V, 34.
+- Beleuchtung, critische, 524.
+- Belieben, 525.
+- Beliebener, 526.
+- Belohnung, 532.
+
+Aa 2
+
+- [VI, 372] Bemächtigung, 532. S. *Besitznehmung*, II, 554.
+- Beredsamkeit, 532.
+- Berkeley, 533.
+- Bernoulli, 547. S. *Urtheil*, V, 662.
+- Berufung, 547.
+- Berathung, 549.
+- Beschenkter, 550.
+- Beschleunigung, 552.
+- Beschwerden, 554. S. *Regent*, 3; V, 86.
+- Besitz, 554. S. *Leistung*, III, 831.
+- Besitzer, 554. S. *Leistung*, III, 882.
+- Besitznehmung, 554.
+- Bestandstücke, 554. S. *Wesen*, VI, 171.
+- Bestimmbarkeit, 555. S. *Bestimmung*, 3, a; II, 557.
+- Bestimmt, 555. S. *Bestimmung*, II, 556.
+- Bestimmtheit, 555.
+- Bestimmung, 556.
+- Betrug, Täuschung der Sinne, 562.
+  - Satanslist, 567.
+- Beurtheilung, 568.
+- Beurtheilungsvermögen, 569.
+- Bevollmächtigungsvertrag, 569.
+- Beweglichkeit, 569.
+- Bewegung, als Bestimmung des Objects, 570. als Handlung des Subjects, 647. S. *Ausdehnung*, 2; I, 410. u. *Bewegungsvermögen*, II, 649.
+- Bewegungsgrund, 647.
+- Bewegungsvermögen, 649.
+- Beweis, 654.
+- Beweisgründe, 686.
+- Bewunderung, 687. S. *Verwunderung*, VI, 36.
+- Bewusstseyn, 687.
+- Beziehung, 700.
+- Bild, 706.
+- Bildhauerkunst, 709.
+- Bildungstrieb, 710.
+- Billigkeit, 719.
+- Böses, 723.
+  - radicales, 735. S. *Hang*, 7, 12; III, 225. 229.
+- Bornirt, 735.
+- Buch, 736.
+- Büchernachdruck, 738.
+- Burke, 743.
+
+### C
+
+- Canon, 752. S. *Kanon*, III, 505.
+- Carricatur, 752. S. *Karrikatur*, III, 511.
+- Cartesius, 752. S. *Descartes*, II, 70.
+- Casualität, 752.
+- Casuistik, 754.
+- Categorien, 753. S. *Kategorie*, III, 513.
+- Categorischer Imperativ, 753. S. *Imperativ*, 19; III, 459.
+- Catharcticon, 753. S. *Katharktikon*, III, 606.
+- Causalität, 754. S. *Dependenz*, II, 62.
+- Causalverknüpfung, 754. S. *Dependenz*, 2; II, 63.
+- Censur, 754. S. *Disciplin*, 14; III, 122.
+- Charakter, 754, S. *Mensch*, 5; IV, 217. *Sinnesart*, V, 303.
+- Charakterismen, 754. S. *Zeichen*, VI, 228.
+- Chemische Wirkung, 754.
+- Chimären, 755.
+- Christenthum, 756.
+- Cleriker, 772.
+- Coalition, 776.
+- Cörper, 779.
+- Cogito ergo sum, 784.
+- Cohäsion, 785. S. *Zusammenhang*, VI, 315.
+- Collision, 785.
+- Colonie, 786.
+- Colossaisch oder Ungeheuer, 786. S. *Urtheil*, 10; V, 693.
+- [VI, 373] Commercium, 786. S. *Gemeinschaft*, II, 839.
+- Communion, 787.
+- Complicen, 793. S. *Strafe*, 6; V, 399.
+- Composition, 793. S. *Zusammensetzung*, VI, 317.
+- Concret, 793.
+- Concupiscenz, 794. S. *Wille*, 4; VI, 177.
+- Concurrenz, 79. S. *Gemeinschaft*, II, 839.
+- Configurationen, 795.
+- Congress, 800. S. *Zusammentretung*, VI, 319.
+- Congruenz, 800. S. *Gleichheit*, III, 37.
+- Constitution, 800.
+- Constitution gesetze, 802.
+- Constitutiv, 802.
+- Construction, 814. S. *Construiren*, 814.
+- Construiren, 814.
+- Contemplativ, 836.
+- Continuität, 837.
+- Contract, 847. S. *Vertrag*, VI, 26.
+- Corpuscularphilosophie, 847. S. *Atomistik*, I, 371.
+- Correlatum, 847. S. *Beziehung*, 2; I, 706.
+- Cosmologie, 847. S. *Kosmologie*, III, 664.
+- Cosmologische Idee, 847. S. *Kosmologisch*, III, 666.
+- Cosmologischer Beweis, 847.
+- Cosmotheologie, 848.
+- Criticismus, 850. S. *Skepticismus*, 12, V, 343; *Kriticismus*, III, 722.
+- Critik der reinen Vernunft, 850.
+- Critischer Idealismus, 867. S. *Idealismus*, 2; III, 378.
+- Crusius, 867.
+- Crystallisiren, 874. S. *Anschiessen*, I, 273.
+- Cultur, 874. S. *Belehrung*, I, 524.
+
+Im zweiten Bande.
+
+### D
+
+- Dämonologie, 1.
+- Darstellung, 6.
+- Darstellungsvermögen, 12.
+- Daseyn, 16.
+- Dauer, 37. S. *Zeit*, VI, 249.
+- Dauern, 37. S. *Zeit*, VI, 249.
+- Declaration, 37. S. *Begriff*, 13; I, 499.
+- Decomposition, 37. S. *Raum*, 6; IV, 775.
+- Deduciren, 37. S. *Deduction*, 5; II, 42.
+- Deduction, 43.
+  - der Kategorien, 43. S. *Kategorie*, 25; III, 543.
+- Definiren, 43. S. *Begriff*, 11; I, 495.
+- Definition, 43, S. *Begriff*, 11, c; I, 497.
+- Deist, 43. S. *Theologie*, 4; V, 521.
+- Deistisch, 43. S. *Theologie*, 4; V, 522.
+- Demonstrabel, 43.
+- Demonstration, 48.
+- Demonstriren, 50.
+- Demüthigung, 51.
+- Denken, 52.
+- Denkungsart, 62. S. *Mensch*, 5; IV. 217.
+- Dependenz, 62.
+- Descartes, 70.
+- Determinismus, 79.
+- Deutlichkeit, 86.
+- Deutung, 88. S. *Erklärung*, II, 336.
+- Dialektik, 88.
+- Dicht, 95.
+- Dichtigkeit, 97.
+- [VI, 374] Dichten, 103. S. *Geschmacksurtheil*, 5; II, 939.
+- Dichtkunst, 103. S. *Poesie*, IV, 633.
+- Dictum de omni et nullo, 103. S. *Figur*, 16; II, 594.
+- Ding, 103.
+- Disciplin, 114.
+- Discursiv, 130.
+- Disputiren, 134.
+- Doctrin der Urtheilskraft, 140. S. *Logik*, 9; IV, 30.
+- Dogma, 140.
+- Dogmatisch, 143.
+- Dogmatismus, 151.
+- Domänen, 154.
+- Dreistigkeit, 155.
+- Druck, 155.
+- Dunkel, 156. S. *Vorstellung*, 3; VI, 61.
+- Dunkelheit in der Auflösung des ästhetischen Problems, 156.
+- Durchdringen, 175.
+- Durchdringende Kraft, 176.
+- Dynamik, 176.
+- Dynamisch, 182.
+
+### E
+
+- Edel, 184.
+- Educt, 185.
+- Ehe, 187.
+- Ehrbarkeit, 198.
+- Ehre Gottes, 200.
+- Ehrenwahn, 201.
+- Ehrlichkeit, 201.
+- Ehrliebe, 201.
+- Eid, 202.
+- Eigendünkel, 211.
+- Eigenliebe, 212.
+- Eigenschaft, 212.
+- Einbildungskraft, 215.
+- Einerleiheit, 226.
+- Einfache, 227.
+- Einfalt, 232.
+- Einfluss, 233.
+- Eingang, 234.
+- Einheimisch, 234.
+- Einheit, 240.
+- Einschränkung, 254.
+- Einstimmung, 255. S. *Widerstreit*, VI, 173.
+- Eintheilung, 255.
+- Elasticität, 256.
+- Elastisch, 261.
+- Elementarbegriff, 262.
+- Elementarlehre, 262.
+- Elementarlogik, 264.
+- Elementarsubstanz, 271.
+- Eltern, 271.
+- Empfangenes Gefühl, 277.
+- Empfindbar, 278.
+- Empfindelei, 282.
+- Empfindung, 283.
+- Empirisch, 290.
+- Empirismus, 293. S. *Rationalismus*, IV, 757.
+- Encyclopädie, 293.
+- Ende aller Dinge, 303.
+- Endursache, 306.
+- Endzweck, 312.
+- Enthusiasmus, 320.
+- Entstehen, 323.
+- Epikur, 328.
+- Epikureismus, 332.
+- Epigenesis, 333.
+- Episyllogismus, 334. S. *Prosyllogismus*, IV, 720.
+- Erdbeben, 334.
+- Erfahrung, 336.
+- Erfahrungsbegriff, 348. S. *Begriff*, 7; I, 490.
+- Erfahrungsurtheil, 348.
+- Erfüllung des Raums, 365.
+- Erhaben, 366. S. *Erhabenheit*, II, 366.
+- Erhabene, 366. S. *Erhabenheit*, 3; II, 367.
+- Erhabenheit, 366.
+- Erkennen, 374.
+- Erkenntniss, 377.
+- Erkenntnissvermögen, 384.
+- Erklären, 385. S. *Erklärung*, II, 385.
+- Erklärung, 385.
+- Erlaubt, 386.
+- [VI, 375] Erörterung, 397. S. *Exposition*, II, 470.
+- Erscheinen, 397.
+- Erscheinung, 398.
+- Ersitzung, 405 S *Erwerbung*, 24; II, 425.
+- Erweiterungsurtheil, 405.
+- Erwerbung, 407.
+- Erzeugung, 444.
+- Ethik, 445.
+- Ethikotheologie, 446.
+- Etwas, 448.
+- Euklides, 448.
+- Euler, 456.
+- Euthanasie der reinen Vernunft, 462 S. *Tod* 4; V, 532.
+- Evidenz, 462. S. *Gewissheit*, 3; III, 3.
+- Evolutionstheorie, 462.
+- Ewigkeit, 465. S. *Ende aller Dinge*, 4; II, 305.
+- Exemplarisch, 465.
+- Existenz, 466.
+- Expansive Kraft 468 S. *Elasticität*, 2; II, 256.
+- Explication, 468. S. *Begriff*, 11. d; I, 497.
+- Exponent, 469.
+- Exponiren, 470. S. *Exposition*, 2. 32; II. 471. 492.
+- Exposition, 470.
+
+### F
+
+- Factum, 513 S *Exposition*, 25; II, 488; *That*, V, 487; *Thatsache*, V, 489.
+- Fähigkeit, 513 S *Logik*, 1. a f; IV, 17; *Raum*, 8; IV, 792; *Sinnlichkeit*, V, 311.
+- Falsch, 513. S. *Wahrheit*, VI, 97.
+- Familie der Erkenntnissvermögen, 513.
+- Familienschlag, 516. S. *Menschenschlag*, IV, 234.
+- Fanaticismus, 516.
+- Farbe, 535.
+- Farbenkunst, 538.
+- Faseln, 544.
+- Fassen, 546.
+- Fatalismus, 547.
+- Fatalität, 554. S. *Fatalismus*, 3 II, 549; *Fatum*, 16; II, 560.
+- Fatum, 554.
+- Faule Vernunft, 562. S. *Vernunft*, V, 748.
+- Federkraft, 552. S. *Elasticität*, II, 256.
+- Fehler des Erschleichens, 562.
+- Fehltritte der Urtheilskraft, 574.
+- Feind, 575.
+- Feld der Begriffe, 576. S. *Gebiet*, II, 725.
+- Fertigkeit, 576.
+- Fest, 578.
+- Fetischdienst, 579.
+- Fetischglaube, 581. S. *Fetischdienst*, 3; II, 580.
+- Fetischmachen, 581. S. *Fetischdienst*, 2. II, 579.
+- Figur, 581.
+- Flächenkraft, 611. S. *Kraft*, 13; III, 681.
+- Fliessende Grössen, 611.
+- Flüssig, 612.
+- Flüssige, 613. S. *Flüssig*, II, 612.
+- Folge, 613.
+- Fontenelle, 619. S. *Wirbel*, VI, 199.
+- Form, 619. S. *Materie*, IV, 90.
+- Formale, 619. S. *Idealismus*, 2; III, 378; *Natur*, 2; IV, 393. *Regel*, 3. n; V, 73. *Zweckmässigkeit*, VI, 345.
+- Formel, 619.
+- Forscher der Begriffe, 621. S. *Philosophie*, 3; IV, 576.
+- Fratzen, 621.
+- Freigeisterei, 621.
+- Freiheit, 624.
+- Freiheitsbegriff, 658.
+- Freimüthigkeit, 658.
+- [VI, 376] Freude, 659. S. *Vergnügen*, V, 737.
+- Freundschaft, 659.
+- Friction, 664. S. *Reibung*, V, 95.
+- Friede, 665.
+- Frivolität, 675.
+- Frömmigkeit, 675.
+- Frohn- und Lohnglaube, 676.
+- Frohseyn, 677.
+- Fügung, 677.
+- Fürwahrhalten, 677.
+- Function, 687.
+- Furcht, 702.
+- Furchtbar, 704.
+
+### G
+
+- Gang, 706.
+- Ganzes, 709. S. *Totalität*, V, 534.
+- Garantie, 710.
+- Gastrecht, 710.
+- Geben, 711.
+- Gebet, 717.
+- Gebiet, 725.
+- Gebot, 730.
+- Gebrauch, 737.
+- Gebrechlichkeit, 749.
+- Geck, 750.
+- Gedankending, 750.
+- Gedankenform, 753.
+- Gedankenspiel, 753.
+- Gefühl, 758.
+- Gegeben, 778. S. *Geben*, II, 711.
+- Gegenstand, 778.
+- Gegenwirkung, 793.
+- Geheimniss in der Religion, 811.
+- Gehör, 826.
+- Gehorchen, 830.
+- Geist, böser, 831.
+- heiliger, 831, S. *Geheimniss*, 8 ff. II, 816.
+- in ästhetischer Bedeutung, 831.
+- Geld, 835.
+- Gelehrsamkeit, 839. S. *Theologie*, 2; V, 520.
+- Gemeingültigkeit, 839. S. *Allgemeingültig*, 4; I, 128.
+- Gemeinschaft, dynamische, 849.
+- der Gläubigen, 851.
+- der Seele mit dem Cörper, 853.
+- Gemeinsinn, 856.
+- Gemüth, 857.
+- gutes, 858. S. *Herz*, 4; III, 262.
+- Gemüthsart, 858.
+- Gemüthszustand, 862.
+- Genie, 863.
+- Geniessen, 871. S. *Angenehm*, 4; I, 236.
+- Genirt, 871.
+- Genugthuung, 872. S. *Geheimniss*, 16. II, 821; *Rechtfertigung*, V, 41.
+- Geometrie, 872.
+- Geruch, 873.
+- Geschehen, 875.
+- Geschicklichkeit, 879.
+- Geschmack, 886.
+- Geschmacksregel, 915.
+- Geschmacksurtheil, 915.
+- Geschwindigkeit, 955.
+- Geselligkeit, 956.
+- Gesellschaft, 957.
+- Gesetz, 960. S. *Regel*, 3; V, 66.
+- Gesetzgeber, 960. S. *Regel*, 3, n; V, 74.
+- Gesetzgebung, 960. S. *Regel*, 3, a; V, 67.
+- Gesetzkundig, 960. S. *Regel*, 3. ll; V, 80.
+- Gesetzlichgut, 961. S. *Legalität*, 2; III, 731.
+- Gesetzlosigkeit, 961. S. *Regel*, 3. m; V, 81.
+- Gesetzmässigkeit, 961. S. *Legalität*, III, 780.
+- Gesinnung, 961. S. *Sinnesart*, 2; V. 304.
+- Gesicht, 961.
+- Gestalt, 963. S. *Gott*, 39; III, 131.
+- [VI, 377] Gesunder Menschenverstand, 963. S. *Verstand*, 9. VI, 21.
+- Gesundheit, 963. S. *Vergnügen*, V, 737.
+- Gewalt, 963. S. *Macht*, IV, 47.
+- Gewissen, 963.
+
+Im dritten Bande.
+
+- Gewissheit, 1.
+- Glaube, 14.
+- Glaubensartikel, 19.
+- Glaubenssache, 19.
+- Gleichheit, 36.
+- Gleichartigkeit, 37.
+- Glied, 42, S. *Reich*, 2; V, 98.
+- Glücklich, 42.
+- Glückseligkeit, 46.
+- Glückseligkeitslehre, 72.
+- Glücksgaben, 74. S. *Glückseligkeit*, 5; III, 50.
+- Glücksspiele, 74. S. *Spiel*, 2. a; V, 362.
+- Gnadenmittel, 74.
+- Gnadenwirkung, 83.
+- Gnadenreich, 91. S. *Reich*, 3; V, 102.
+- Gott, Gottheit, 91.
+- als die schlechthin nothwendige Weltursache, 94.
+- als das allerhöchste oder allervollkommenste Wesen, 113.
+- der ontologische Beweis, 116.
+- der kosmologische Beweis, 121.
+- der physikotheologische Beweis, 131.
+- als der Welturheber, 137.
+- Gotteserkenntniss, 141. S. *Theologie*, V, 519.
+- Gottesgelehrter, 141. S. *Theologie*, 3; V, 520.
+- Gottheit, 141. S. *Gott*, III, 91 u. 137.
+- Gottseligkeit, 141.
+- Götzendienst, 143.
+- Grad, 146. S. *Empfindung*, 5. ff. II, 286. *Apperception*, 9; I, 329.
+- Gravitation, 146.
+- Grenze, 148, S. *Grösse*, 16; III, 161.
+- Grenzbegriff, 148.
+- Grenzbestimmung der reinen Vernunft, 149. S. *Vernunft*, V, 748.
+- Grösse, 149.
+- Grössenlehre, 163.
+- Grössenschätzung, 163.
+- Gross seyn, 165. S. *Grösse*, 10. 14; III, 158. 161.
+- schlechtweg. S. *Grösse*, 11. 15. III, 159. 161.
+- Grund, 165.
+- Grundgesetz, 166. S. *Exposition*, 25. ff. II, 487. *Anfang*, 10. f. I, 210.
+- Grundkraft, 166.
+- Grundlegung zur Metaphysik der Sitten, 171.
+- Grundsatz, 175.
+- Grundunterthäniger, 182.
+- Gültigkeit, 185.
+- Gunst, 187.
+- Gunstbewerbung, 188.
+- Gut, 188. S. *Gutes*, 2; III, 201.
+- Gut geschaffen, 188. S. *Gnadenwirkung*, 2; III, 83.
+- Gut, höchstes, 189.
+- Gut, moralisch, 200.
+- Gut, negativ, 200.
+- Gutes, 201.
+- Gutsunterthan, 213.
+- Gymnastik, 213. S. *Leibeskraft*, III, 790.
+
+### H
+
+- Habsucht, 214.
+- Handeln, 215.
+- Handlung, 216.
+- [VI, 378] Handwerk, 221.
+- Hang, 221.
+- Harmonie, 233.
+- Hart, 243.
+- Hass, 248.
+- Hausgenossenschaft, 248.
+- Hausherr, 250.
+- Hauswesen, 254.
+- Heautonomie, 255.
+- Heilige Pflicht, 257.
+- Heiliger Wille, 257. S. *Wille*, VI, 174.
+- Heiligkeit, 257.
+- Heiligung, 259.
+- Herr der Natur, 259. S *Natur*, IV, 293.
+- Herr über sich selbst, 259. S. *Gemüthsart*, II, 859.
+- Herrnlose Sache, 259.
+- Herrschaft über sich selbst, 260.
+- Hervorbringung, 261.
+- Herz, 261.
+- Heteronomie, 264.
+- Himmel, 271.
+- Himmelfahrt, 276.
+- Hinderniss, 279.
+- Hindostanische Menschenrace, 280. S. *Menschenschlag*, 3. a 4; IV, 236. 238. *Race*, 2. d; IV, 745.
+- Historische Erkenntniss, 280. S. *Erkenntniss*, 9, II, 380.
+- Hochmuth, 280.
+- Höchste, 283.
+- Höflichkeit, 284.
+- Hölle, 285.
+- Hoffnung, 286.
+- Homogeneität, 286.
+- Hospitalität, 290.
+- Hostilität, 290.
+- Humaniora, 290. S. *Humanität*, III, 291.
+- Humanität, 290.
+- Hume, 295.
+- Hutcheson, 319.
+- Hylozoismus, 326. S. *Trägheit*, 11; V, 546.
+- Hyperphysisch, 327. S. *Erkenntniss*, 18; II, 382.
+- Hypostasiren, 327.
+- Hypothese, 328.
+- Hypothetisch, 328.
+- Hypotypose, 333.
+
+### I
+
+- Ich, 334.
+- Ideal, 368.
+- transscendentales, 372.
+- des höchsten Guts, 374.
+- Idealismus, 376.
+- Idealität, 415.
+- Idee, 416. S. *Vernunftbegriff*, V, 786.
+- Identisch, 416. S. *Identität* III, 417.
+- Idololatrie, 418.
+- Immanent, 421. S. *Einheimisch*, II, 234.
+- Immaterialität, 421.
+- Immortalität, 422. S. *Unsterblichkeit*, V, 641.
+- Imperativ, 449.
+- Incorruptibilität, 479. S. *Unverweslichkeit*, V, 643.
+- Individuum, 479.
+- Inneres, 481.
+- Intelligibel, 491. S. *Sensitiv*, V, 290.
+- Interesse, 491.
+- Involutionstheorie, 504. S. *Evolutionstheorie*, II. 462.
+- Irrendes Gewissen, 504. S. *Gewissen*, 9. II, 975.
+
+### K
+
+- Kanon, 505.
+- Karrikatur, 511.
+- Kategorie, 513.
+- Transscendentale Deduction der Kategorien, 543.
+- Vom Gebrauch der Kategorien in praktischer Beziehung, 586.
+- Die Kategorien der Freiheit, 595.
+- [VI, 379] Kategorischer Imperativ, 606. S. *Imperativ*, 19; III, 459.
+- Katharktikon, 606.
+- Keines, 606. S. *Ding*, 4, 1. β; II, 107.
+- Kepler, 606.
+- Ketzer, 608.
+- Keuschheit, 609.
+- Kind, 610.
+- Kinderfrage, 611.
+- Kirche, 611.
+- Kirchendienst, 631.
+- Kirchengehen, 631.
+- Kirchenglaube, 635.
+- Kirchenwesen, 649.
+- Klarheit, 652.
+- Klebrigkeit, 654.
+- Klugheit, 654.
+- Klüglich, 660.
+- Klümpchen, 661.
+- Knauserei, 661.
+- Knickerei, 661. S. *Knauserei*, III, 661.
+- Können, 662.
+- Körper, 662. S. *Cörper*, I, 779.
+- Körperlehre, 662.
+- Kosmologie, 664.
+- Kosmologisch, 666.
+- Kosmotheologie, 666. S. *Cosmotheologie*, I, 848.
+- Kraft, 666.
+- Kriecherei, 710.
+- Krieg, 712.
+- Criticismus der Metaphysik, 722.
+- Kritik der reinen Vernunft, 723. S. *Critik der reinen Vernunft*, I, 850.
+- Kritik des Geschmacks, 723. S. *Critik der reinen Vernunft*, 8, b, α: I, 859.
+- Kunst, 723.
+- Kunstinstinct, 744, S. *Trieb*, 6; V, 565.
+- Kunstproduct, 745. S. *Product*, IV, 713.
+- Kunstschönheit, 745. S. *Genie*, 8; II, 867. *Kunst*, 22; III, 732.
+- Kunstverstand, 745. S. *Physikotheologie*, 2. c; IV, 610.
+- Kunstweisheit, 745.
+- Kunstwerk, 747. S. *Product*, IV, 713.
+
+### L
+
+- Lachen, 748. S. *Gedankenspiel*, 3. ff; II, 754.
+- Landesverweisung, 748.
+- Laster, 749.
+- Latitudinarier, 759.
+- Laune, 767.
+- Lauterkeit, 770.
+- Leben, 770.
+- Lebendige Kraft, 777. S. *Kraft*, 14; III, 681.
+- Lebensreiz, 777. S. *Leben*, 5, a; III, 774.
+- Lebensvermögen, 777. S. *Leben*, 5, b; III, 774.
+- Leblosigkeit, 777. S. *Trägheit*, 3; V, 542.
+- Leer, 777.
+- Leere, 780. S. *Raum*, 24; IV, 825.
+- Legal, 780. S. *Legalität*, 2; III, 781.
+- Lehrart, 783.
+- Lehrbegriff, 785. S. *Theorie*, VI.
+- Lehrsatz, 785.
+- Lehrspruch, 788. S. *Dogma*, II, 140.
+- Leibeigener, 788.
+- Leibeskräfte, 790.
+- Leibnitz, 790.
+- Leichtgläubigkeit, 867.
+- Leidenschaft, 870.
+- Leihvertrag, 879.
+- Leistung, 880.
+- Lernen, 883.
+
+[VI, 380] Im vierten Bande.
+
+- Liberalität, 1.
+- Liebe, 3.
+- Limitation, 6.
+- Locke, 12.
+- Logik, 15.
+- Logisch, 37.
+- Lücke, 37.
+- Lüge, 40. S. *Pflicht gegen sich selbst*, IV, 553.
+- Lust, 41.
+- Lustgärtnerei, 45.
+- Luxus, 46.
+
+### M
+
+- Macht, 47.
+- Mächtig seiner selbst, 50.
+- Majestätsrecht, 51.
+- Mahlerei, 52.
+- Mandat, 54. S. *Bevollmächtigungsvertrag*, I, 569.
+- Mangel, 54.
+- Manier, 54. S. *Lehrart*, 2; III, 784. *Geschmack*, 12; II, 906.
+- Manieriren, 55.
+- Mann, 56.
+- Mannigfaltiges, 57.
+- Mannigfaltigkeit, 58.
+- Marionisches Gesetz, 60.
+- Marktpreis, 70. S. *Werth*, VI, 166.
+- Maschine, 70.
+- Masse, 70.
+- Material, 72.
+- Materialismus, 78.
+- Materie, 90.
+- materiell, 129.
+- Mathema, 130. S. *Apodictisch*, 5; I, 320.
+- Mathemalik, 130.
+- Mathematisch, 162.
+- Maxime, 167.
+- Maximum, 175.
+- Mechanik, 177.
+- Mechanisch, 181.
+- Mechanismus der Natur, 182.
+- Mein, 185.
+- Meine, 201. S. *Mein*, IV, 196.
+- Meinen, 201.
+- Meinung, 204.
+- Meinungssache, 205.
+- Meister seiner selbst, 211. S. *Gemüthsart*, II, 858.
+- Mensch, 211.
+- Menschenfeind, 222. S. *Misanthropie*, IV, 309.
+- Menschenfreund, 222. S. *Philanthropie*, IV, 570.
+- Menschengeschichte, 222.
+- Menschenhass, 231. S. *Hass*, III, 248. *Misanthropie*, IV, 309.
+- Menschenliebe, 231. S. *Philanthropie*, IV, 570; *Liebe*, 2; IV, 6; *Nächstenliebe*, IV, 391.
+- Menschenscheu, 232. S. *Misanthropie*, IV, 309.
+- Menschenschlag, 232.
+- Menschenstamm, 243. S. *Menschenschlag*, IV, 232.
+- Menschenvernunft, 243.
+- Menschenverstand, 243.
+- Menschheit, 246. S. *Mensch*, 2. ff; IV, 212.
+- Menschlichkeit, 246. S. *Humanität*, III, 290.
+- Merkmahl, 247.
+- Messen, 260.
+- Metaphysik, 263.
+- Methode, 293.
+- Methodenlehre, 305.
+- Mikrologie, 306.
+- Milchstrasse, 307.
+- Minderjährigkeit, 308.
+- Misanthropie, 309.
+- Mythologie, 310. S. *Glückseligkeit*, 7; III, 51.
+- Missgeburt, 310.
+- Missgunst, 310.
+- [VI, 381] Missvergnügen, 311.
+- Mitfreude, 311.
+- Mitgefühl, 312.
+- Mitleid, 313.
+- Mittel, 313.
+- Mittelding, 314.
+- Mittheilbarkeit, 314.
+- Mittheilung der Bewegung, 315. S. *Bewegung*, VIII, 1; I, 625.
+- Modalität, 315.
+- Modi, 323. S. *Merkmahl*, 7. a; IV, 250.
+- Möglich, 323. S. *Möglichkeit*, 3; V, 325.
+- Möglichkeit, 323.
+- Moment, 349.
+- Monade, 350. S. *Leibnitz*, 4. V; III, 819.
+- Monadologie, 350. S. *Leibnitz*, 4. V; III, 820. *Zusammensetzung*, VI, 317.
+- Monarch, 350.
+- Monas, 351.
+- Monogramm, 352. S. *Ideal*, 4; III, 371.
+- Moral, 352.
+- Moralisch, 357.
+- Moralität, 358.
+- Moralphilosophie, 360. S. *Moral*, IV, 352.
+- Moraltheologie, 361.
+- Mord, 377. S. *Tod*, 3; V, 532.
+- Mündig, 378.
+- Münze, 378.
+- Musik, 379.
+- Muster, 383.
+- Musterhaft, 383. S. *Muster*, IV, 383.
+- Muth, 383.
+- Muthlosigkeit, 386. S. *Muth*, 386.
+- Mutterstaat, 387. S. *Colonie*, I, 786.
+- Mysticismus, 387. S. *Schwärmerei*, 2; V, 243.
+
+### N
+
+- Nacheinander, 383.
+- Nachäffung, 389. S. *Genie*, 14; II, 870. *Nachahmung*, 3; IV, 390.
+- Nachahmung, 389.
+- Nachdrucker, 390. S. *Buch*, 3; I, 707.
+- Nachfolge, 390. S. *Nachahmung*, 3; IV, 390; *Genie*, 14; II, 870; *Geschmack*, 6; II, 893.
+- Nachrede, 390.
+- Nächstenliebe, 391.
+- Naivetät, 392. S. *Gedankenspiel*, 8 ff; II, 756.
+- Name, guter, 392. S. *Erwerbung*, 32. ff. II, 430.
+- Narrheit, 393. S. *Hochmuth*, 3; III, 281.
+- Natur, 393.
+- Naturalität, 410.
+- Naturbedingung, 411.
+- Naturbegriff, 412.
+- Naturcausalität, 416. S. *Dependenz*, 4; II, 69.
+- Naturerkenntniss, 416.
+- Naturgeschichte, 417.
+- Naturgesetze, 420.
+- Naturkräfte, 421.
+- Naturlehre, 421. S. *Physik*, IV, 590.
+- Naturnothwendigkeit, 421. S. *Dependenz*, 4; II, 70; *Natur*, 8; IV, 402; *Wille*, VI, 174; *Freiheit*, 21. ff. 36. 41; II, 635. 647. 651.
+- absolute, 422. S. *Naturbegriff*, 7; IV, 416; *Fatum*, II, 554.
+- Naturphilosophie, 422. S. *Natur*, 6. a; IV, 401; *Begriff*, 14; I, 405.
+- Naturrecht, 422.
+- Naturschönheit, 423. S. *Darstellung*, 3; II, 7; *Genie*, 8; II, 867; *Zweckmässig-*
+- [VI, 382] keit, *objective*, VI, 349. 353.
+- Naturstand, 423. S. *Naturzustand*, IV, 426.
+- Naturvollkommenheit, 423. S. *Vollkommenheit*, 1; VI, 40.
+- Naturwissenschaft, 423.
+- Naturzustand, 426.
+- Naturzweck, 430. S. *Zweck*, VI, 328.
+- Negation, 430. S. *Verneinung*; V, 746.
+- Negativ, 431. S. *Verneinend*, V, 747.
+- Neigung, 431. S. *Angenehm*, 2; I, 233. *Hang*, 3; III, 222. *Interesse*, 6; III, 497. *Leidenschaft*, III, 870.
+- Neutralität, 431. S. *Friede*, 1, a. II, 663.
+- Nichtnatürlich, 431. S. *Natur*, 8; IV, 404.
+- Nichts, 431. S. *Ding*, 4; II, 107.
+- Nöthigung, 431. S. *Imperativ*, 3; III, 451.
+- Noogonie, 431.
+- Normalidee, 432.
+- Nothwendigkeit, 437.
+- Notion, 447. S. *Begriff*, 9; I, 494.
+- Noumen, 447.
+
+### O
+
+- Oberhaupt im Reiche der Zwecke, 449. S. *Reich*, 2; V, 98.
+- Oberstes Gut, 449. S. *Gut*, 4. a. III, 191.
+- Object, 449. S. *Gegenstand*, II, 778.
+- Objectiv, 449.
+- Occasionalismus, 453.
+- Offenbarung, 455.
+- Offenherzigkeit, 456.
+- Ohngefähr, 457.
+- Ontologie, 460. S. *Transscendental*, 19; V, 550.
+- Ontologischer Beweis für das Daseyn Gottes, 461. S. *Gott*, 31. ff; III, 116.
+- Ontotheologie, 460. S. *Theologie*, 6; V, 523.
+- Opposition, 460.
+- Ordnung, 483.
+- Organ, 487. S. *Organisirtes Wesen*, IV, 487.
+- Organisation, 487. S. *Organisirtes Wesen*, 4; IV, 489.
+- Organisirtes Wesen, 487.
+- Organon, 494. S. *Logik*, 1. B; IV, 19. *Critik der reinen Vernunft*, 3; I, 852.
+- Orientiren, 494.
+- Originalität, 499. S. *Genie*, 6. 13. 14. II, 866. 869. f.
+- Ort, 500.
+- Orthodox, 501.
+- Orthodoxie, 502.
+- Ostensiver Begriff, 503.
+
+### P
+
+- Pantheismus, 504.
+- Paralogismus, 505.
+- Pathologisch, 515.
+- Peinlichkeit, 516.
+- Perception, 517.
+- Person, 520. S. *Personalität*, IV, 520.
+- Personificiren, 527. S. *Hypostasiren*, III, 327.
+- Pfaffenthum, 527. S. *Afterdienst*, 14; I, 117. *Kirchenglaube*, 7. b; III, 639.
+- Pflicht, 527.
+- Pflichtgefühl, 564.
+- Pflichtgesetz, 567.
+- Phänomen, 568. S. *Erscheinung*, II, 398.
+- Phänomenologie, 568.
+- Phantastischtugendhaft, 569. S. *Rigorist*, V, 138.
+- Philanthrop, 570. S. *Philanthropie*, IV, 570.
+- Philanthropie, 570.
+- [VI, 383] Philosoph, 573. S. *Philosophie*, 2; IV, 575.
+- Philosophie, 573.
+- Philosophiren, 589. S. *Philosophie*, 16. I, A, 1; IV, 582.
+- Philosophisch, 589. S. *Philosophie*, IV, 573; *Discursiv*, II, 130; *Acroamatisch*, I, 69.
+- Philosophischmoralischer Beweis des Daseyns Gottes, 589 S. *Beweis*, I, 2; I, 659; *Gott*, III, 137; *Gut, höchstes*, 9; III, 198; *Philosophie*, 16, I. B; IV, 587.
+- Phoronomie, 589.
+- Physik, 590.
+- Phytotheologie, 598.
+- Physiogonie, 612. S. *Physik*, 2; IV, 591; *Naturgeschichte*, 3; IV, 420.
+- Physiographie, 612. S. *Physik*, 2; IV, 591; *Naturgeschichte*, IV, 417.
+- Physiokratie, transscendentale, 612. S. *Freiheit*, 14; II, 631.
+- Physiologie, 612. S. *Encyclopädie*, 13. f. 19. II, 299. 301; *Natur*, 6; IV, 401.
+- Physische Glückseligkeit, 613. S. *Glückseligkeit*, 14; III, 64.
+- Möglichkeit, 613. S. *Möglichkeit*, 6; IV, 329.
+- Nothwendigkeit, 613. S. *Nothwendigkeit*, 4; IV, 441.
+- Stärke, 613. S. *Seelenstärke*, V, 265.
+- Tod, 613. S. *Tod*, V, 530.
+- Pinsel, 613. S. *Genie*, II, 863.
+- Plastik, 613.
+- Plato, 615.
+- Platonische Republik, 629. S. *Plato*, 7; IV, 623.
+- Platonismus, 629.
+- Plündern, 632. S. *Krieg*, 6, β; III, 721.
+- Pneumatismus, 632. S. *Pneumatologie*, IV, 633; *Spiritualismus*, V, 364.
+- Pneumatologie, 632.
+- Poesie, 633.
+- Polemischer Gebrauch der reinen Vernunft, 634.
+- Politik, 638.
+- Politiker, 649.
+- Popularität, 656.
+- Positiv Böse, 657.
+- Postulat, 664.
+- Postuliren, 678. S. *Postulat*, IV, 667.
+- Practisch, 678. S. *Praktisch*, IV, 688.
+- Prädeterminismus, 678.
+- Prädicabilie, 680.
+- Präformation, 685. S. *Educt*, 2; II, 185; *Epigenesis*, II, 333; *Evolutionstheorie*, II, 462.
+- Präformationssystem, 686. S. *Educt*, 2; II, 185. *Epigenesis*, II, 333; *Evolutionstheorie*, II, 462.
+- Prästabilismus, 686.
+- Pragmatisch, 687.
+- Praktisch, 688.
+- Praxis, 692.
+- Preis, 701.
+- Priester, 702.
+- Priestley, 703. S. *Disciplin*, 10; II, 119. *Hume*, 7, d; III, 306.
+- Primat, 703. S. *Interesse*, 8. ff; III, 500.
+- Princip, 703.
+- Privatklugheit, 712. S. *Klugheit*, 3; III, 656
+- Probabilismus, 712. S. *Gewissen*, 2; II, 964.
+- Probirstein der Wahrheit der Regeln, 712. S. *Hypothetisch*, 5; II, 332
+- Problematisch, 712. S. *Function*, 14. 22; II, 697. 701; *Gemeinschaft*, 4; II, 843; *Geschicklichkeit*, 5. ff; [VI, 384] II, 881; *Gebot*, 3; II, 732. *Begriff*, 20, a; I, 507.
+- Product, 713.
+- Productive Einbildungskraft, 713. S *Einbildungskraft*, 3; II, 220.
+- Progressive Lehrart, 713. S. *Methode*, 25; IV, 303.
+- Synthesis, 713. S. *Synthesis*, 7; V, 428.
+- Progressus, 713.
+- Prolegomena, 716.
+- Prosyllogismus, 719.
+- Psychologie, 726.
+- Psychologisch, 731.
+
+### Q
+
+- Qualificirt, 732.
+- Qualität, 733.
+- Qualitative Vollkommenheit, 740. S. *Dunkelheit*, 2; II, 159. u. *Vollkommenheit*, 1; VI, 40.
+- Quantität, 740.
+- Quantitative Vollkommenheit, 740. S. *Dunkelheit*, 2; II, 159. u. *Vollkommenheit*, 2; V, 40.
+- Quantum, 740; S. *Grössen*, 9; III, 138; *Fliessende Grössen*, 2; II, 611.
+
+### R
+
+- Race, 741.
+- Rathschläge der Klugheit, 737.
+- Rationale Erkenntniss, 755. S. *Erkenntniss*, 6; II, 379.
+- Rationalismus, 757.
+- Raum, 769.
+- Reaction, 853. S. *Gegenwirkung*, II, 793.
+- Real, 853.
+- Realisiren, 854.
+- Realismus, 855.
+- Realität, 858.
+- Realwesen, 870. S. *Wesen*, VI, 171.
+- Rebellion, 870.
+- Receptivität, 873. S. *Logik*, 1. a. f; IV, 17. *Raum*, 8; IV, 793.
+
+Im fünften Bande.
+
+- Recht, 1.
+- Rechtfertigung, 41.
+- Rechtlich mein, 46. S. *Mein*, 8; IV, 190.
+- Rechtserfahren, 47.
+- Rechtsgelehrt, 47.
+- Rechtsklugheit, 47.
+- Rechtslehre, 47.
+- Rechtspflicht, 49.
+- Rechtsprincip, 49.
+- Rechtswissenschaft, 49. S. *Rechtslehre*, 3; V, 48.
+- Reden, 49.
+- Redende Kunst, 50. S. *Kunst*, 21; III, 732.
+- Redlichkeit, 50.
+- Redner, 50.
+- Rednerkunst, 51.
+- Reflectirende Urtheilskraft, 53. S. *Urtheilskraft*, V, 696.
+- Reflexion, 53.
+- Reflexionsbegriff, 64. S. *Reflexion*, 4. ff; V, 58.
+- Regel, 65.
+- Regent, 84.
+- Regierer, 87. S. *Regent*, V, 84.
+- Regierung, 87. S. *Regent*, V, 84.
+- Regressive Lehrart, 87. S. *Methode*, 5; IV, 297.
+- Synthesis, 87. S. *Synthesis*, 10; V, 431.
+- Regressus, 87.
+- Regulativ, 94.
+- Reibung, 95.
+- Reich, 97.
+- Reichthum, 106.
+- Reid, 106. S. *Hume*, 7, a; III, 302.
+- Reihe, 106.
+- [VI, 385] Rein, 107.
+- Reizen, 110. S. *Afficirt*, I, 88.
+- Relation, 111.
+- Religion, 114.
+- Reproduction, 132. S. *Apprehension*, 4; I, 334; *Einbildungskraft*, 3; II, 220.
+- Reproductive Einbildungskraft, 132. S. *Einbildungskraft*, 3; II, 220.
+- Republik, platonische, 133. S. *Plato*, 7; IV, 623.
+- Restringiren, 133.
+- Revolution, 135.
+- Rhetorik, 137. S. *Kunst*, 22, m; III, 742.
+- Richten, 137.
+- Rigorist, 138.
+- Rohigkeit, Laster derselben, 138. S. *Laster*, 8; III, 753.
+- Ruhe, 138.
+
+### S
+
+- Sache, 147. S. *Sachheit*, V, 152.
+- Sachenrecht, 147. S. *Recht*, 31; V, 36.
+- Sacherklärung, 147.
+- Sachheit, 152.
+- Sättigung, 154.
+- Sagacität, 154.
+- Sammlen, 156.
+- Sanction, 157.
+- Sanfte Duldsamkeit der Beleidigungen, 157.
+- Sanftmuth, 157.
+- Satz, 157.
+- Satz des Widerspruchs, 167. S. *Wahr*, 5 a; VI, 93. u. 7, a; 95. f. u. *Analytisches Urtheil*, 10. I, 195. ff.
+- Satzung, 167.
+- Scandiren, 168.
+- Schadenfreude, 169. S. *Qualificirt*, 4; IV, 733.
+- Schalkhaft, 169.
+- Scham, 169.
+- Scharfsinn, 170.
+- Schauspiel, 171.
+- Scheidung, 172.
+- Schein, 173.
+- Scheinbarkeit, 178.
+- Scheintod, 180.
+- Schema, 180.
+- Schematisiren, 191.
+- Schematismus, 193. S. *Schema*, 5. 7, 10; V, 184. 186. 189; *Schematisiren*, V, 192.
+- Schenkende, 193. S. *Schenkungsvertrag*, V, 193.
+- Schenkungsvertrag, 193.
+- Scherz, 194.
+- Schicksal, 194.
+- Schismatiker, 195.
+- Schlaf, 195.
+- Schlaftrunken, 201. S. *Schlaf*, 6; V, 199.
+- Schlauigkeit, 201.
+- Schlechthinböse, 202. S. *Böses*, I, 728.
+- Schlechthingut, 202. S. *Gutes*, III, 201.
+- Schluss, 203.
+- Schlusssatz, 216.
+- Schmeichler, 216.
+- Schmerz, 217. S. *Gefühl*, 2. ff; II, 760.
+- Schmuck, 217. S. *Geschmacksurtheil*, 3, d; II, 929.
+- Schön, 217. S. *Schönheit*, V, 218.
+- Schöne, 217. S. *Schönheit*, V, 218.
+- Schönheit, 217.
+- Schöpfung, 233. S. *Fatum*, 9. ff; II, 558; *Teleologie*, 9; V, 480.
+- Zweck der Schöpfung, s. *Zweck*, 11; VI, 334.
+- Scholastiker, 233.
+- Schranken, 236. S. *Grösse*, 16; III, 161; *Limitation*, 2, c; IV, 9.
+- Schreck, 236.
+- Schreiend, 239.
+- [VI, 386] Schrift, 239. S. *Buch*, I, 736.
+- Schritt, 239.
+- Schule, 241.
+- Schulwitz, 242.
+- Schwache, moralische, 242. S. *Tugend*, V, 582.
+- Schwärmerei, 242.
+- Schwelgerei, 250.
+- Schwere, 251. S. *Gravitation*, III, 147.
+- Schwerfällig, 251.
+- Schwindel, 255.
+- Schwärmer, 255. S. *Kirchenglaube*, 5, c; III, 638.
+- Seele, 256.
+- Seelengüte, 264.
+- Seelenkräfte, 264.
+- Seelenlehre, 265. S. *Psychologie*, IV, 726.
+- Seelenstärke, 265.
+- Seelenvermögen, 266.
+- Sehnsucht, 267.
+- Seichtigkeit, 268.
+- Sein, 268. S. *Mein*, IV, 185.
+- Seine, 268. S. *Mein*, IV, 186.
+- Selbst, 268. S. *Ich*, III, 334.
+- Selbstbewusstseyn, 269.
+- Selbstdenken, 274. S. *Aufklärung*, 5. I, 399.
+- Selbsterhaltung, 274. S. *Natur*, 10; IV, 406.
+- Selbsterkenntniss, 274.
+- Selbstgenügsamkeit, 277. S. *Glückseligkeit*, 18; III, 70.
+- Selbstliebe, 277.
+- Selbstmord, 282.
+- Selbstschätzung, 284. S. *Selbsterkenntniss*, 4, b; V, 276; *Pflichtgefühl*, 7; IV, 567.
+- Selbstständigkeit, 284. S. *Freiheit*, 47; II, 657.
+- Selbstsüchtiger, 284.
+- Selbstthätigkeit, 286. S. *Freiheit*, II, 624.
+- Lust derselben, 286. S. *Sinnengefühl*, 2; V, 299.
+- Selbstzufriedenheit, 286. S. *Zufriedenheit*, VI, 298.
+- Selbstzwang, 286. S. *Zwang*, VI, 328.
+- Seligkeit, 286. S. *Glücklich*, 2; III, 43. *Glückseligkeit*, 18; III, 70; *Christenthum*, 4; II, 761. *Zukunft*, VI, 303.
+- Sensation, 286.
+- Sensible That, 287. S. *Hang*, 5; III, 225; *Sensitiv*, V, 290.
+- Sensificiren, 287.
+- Sensitiv, 290.
+- Sentenz, 291.
+- Separatismus, 292. S. *Kirchenglaube*, 5, a; III, 638.
+- Separatist, 292.
+- Signaliren, 292.
+- Simultaneität, 293. S. *Zugleichseyn*, VI, 299.
+- Sinn, 293.
+- Sinnenempfindung, 298.
+- Sinnenfreie Neigung, 298. S. *Interesse*, 6; III, 498.
+- Sinnengefühl, 298.
+- Sinnenleben, 299.
+- Sinnenlehre, 300. S. *Aesthetik*, I, 7.
+- Sinnenlust, 300.
+- Sinnenschein, 301.
+- Sinnenwelt, 303. S. *Natur*, 11; IV, 408.
+- Sinnenwesen, 303. S. *Erscheinung*, 2; II, 399; *Mensch*, 4; IV, 214.
+- Sinnesart, 303.
+- Sinnleer, 310.
+- Sinnlicher Antrieb, 310. S. *Anreize*, I, 254.
+- Sinnlichkeit, 311.
+- Sinnreich, 320.
+- Sitten, 321.
+- Sittengesetz, 322. S. *Regel*, 9. m. f. z; V, 72. f. 77; *Sittenlehre*, 2; 323.
+- Sittenlehre, 322.
+- [VI, 387] Sittlich, 324.
+- Sittlichkeit, 325.
+- Sittsamkeit, 327.
+- Sitz, 328.
+- Skandal, 330. S. *Ehrbarkeit*, II, 198.
+- Skepticismus, 330.
+- Skrupel, 347. S. *Zweifel*, VI, 363.
+- Sokratische Methode, 347. S. *Methode*, 8; IV, 299.
+- Solidität, 347. S. *Undurchdringlichkeit*, V, 612.
+- Sollen, 347.
+- Sollicitation, 348.
+- Sonderling, 351.
+- Sophisma, 351. S. *Paralogismus*, IV, 506.
+- Sorites, 351.
+- Souverän, 353.
+- Sparsamkeit, 352. S. *Laster*, 11; III, 755.
+- Specificationsgesetz, 352.
+- Speculative Erkenntniss, 361. S. *Erkenntniss*, 18; II, 382.
+- Spiel, 361.
+- Spinozismus, 363.
+- Spiritualismus, 364.
+- Spitzfindigkeit, 374.
+- Spontaneität, 375. S. *Logik*, 1, b; IV, 17.
+- Spottsucht, 375. S. *Tadelsucht*, V, 455.
+- Sprichwort, 375. S. *Vorurtheil*, 3, a; VI, 78.
+- Spröde, 375.
+- Spruch, 376. S. *Vorurtheil*, 3, β; VI, 77.
+- Sprung, 376.
+- Staat, 376.
+- Stärke, 379. S. *Seelenstärke*, V, 265.
+- Statuiren, 379.
+- Statut, 379. S. *Satzung*, 167.
+- Stetigkeit, 379. S. *Continuität*, I, 837.
+- Stiftung, 380.
+- Stoff, 387.
+- Stoicismus, 391. S. *Glückseligkeit*, 16; III, 68; *Christenthum*, III; I, 767.
+- Stolz, 391.
+- Stoss, 392. S. *Berührung*, I, 550.
+- Strafe, 392.
+- Streiten, 406. *Disputiren*, 2, ff; II, 134.
+- Studirter, 406.
+- Stufenleiter, 408. S. *Affinität*, 9; I, 102.
+- Subject, 408. S. *Objectiv*, IV, 449. *Ich*, 9; III, 343. *Selbstbewusstseyn*, V, 269 *Substanz*, V, 409.
+- Subjectiv, 408. S. *Objectiv*, IV, 449; *Realität*, 2. 10. ff; IV, 860; *Kategorie*, 46; III, 573.
+- Zwecklehre, 408. S. *Zweck*, VI, 328.
+- Zweck, 408. S. *Zweck*, VI, 328.
+- Substanz, 409.
+- Substrat, 419.
+- Subtilität, 420.
+- Succession, 420.
+- Sünde, 422. S. *Hang*, 15; III, 231.
+- Supernaturalist, 422.
+- Superstition, 423. S. *Aberglaube*, I, 20; *Religion*, 4; V, 119. *Afterdienst*, I, 107.
+- Supponiren, 423. S. *Theismus*, 5; V, 504. *Postulat*, 3, b, γ; IV, 673.
+- Symbol, 423.
+- Symbolische Construction, 426. S. *Darstellung*, 5, b. ff; II, 9. *Construiren*, 9; I, 823.
+- Sympathie, 426.
+- Symptom, 426. S. *Leidenschaft*, 10; III, 878.
+- Syncretismus, 427. S. *Kirchenglaube*, 5, d; III, 638; *Latitudinarier*, 2; III, 761.
+- [VI, 388] Synthesis, 427.
+- Synthetisches Urtheil, 432.
+- System, 442.
+- Systematische Einheit, 444. S. *Vernunfteinheit*, V, 840.
+- Systematische Methode, 444. S. *Methode*, IV, 304.
+
+### T
+
+- Tadelsucht, 455.
+- Talent, 456.
+- Tanz, 458.
+- Täuschung der Sinne, 458. S. *Betrug*, I, 562. *Fanaticismus*, II, 516. *Sinn*, 2; V, 296. *Sinnlichkeit*, 12; V, 319.
+- Taufe, 459.
+- Technik, 464.
+- Teleologie, 465.
+- That, 487.
+- Thatsache, 489.
+- Theilbarkeit, 491.
+- Theilung, 499.
+- Theismus, 500.
+- Theodicee, 514.
+- Theologie, 519.
+- Theoretisch, 529.
+- Theosophie, 530. S. *Dämonologie*, 5; II, 6; *Teleologie*, 10; V, 484.
+- Thetik, 530.
+- Theurgie, 530.
+- Tod, 530.
+- Ton, 533.
+- Tonspiel, 533. S. *Musik*, 3; IV, 381. *Spiel*, 2; V, 362.
+- Topik, 533.
+- Totalität, 534.
+- Trägheit, 540.
+- Transscendent, 547.
+- Transscendental, 547.
+- Traum, 551.
+- Trieb, 560.
+- Triebfeder, 563.
+- Tugend, 582.
+- Tugendlehre, 589. S. *Moral*, 3. ff; IV, 353. *Pflicht*, 17; IV, 542.
+- Tugendmaxime, 589.
+- Tugendpflicht, 589. S. *Pflicht*, 17; IV, 542.
+- Tugendstolz, 589.
+- Tugendverpflichtung, 590.
+- Typus, 591.
+
+### U
+
+- Uebel, 599.
+- Ueberlegung, 602. S. *Reflexion*, V, 53.
+- Ueberredung, 602.
+- Ueberschwenglich, 603.
+- Uebersinnliches, 604.
+- Uebertretung, 605.
+- Ueberzeugung, 609.
+- Ueppigkeit, 610.
+- Unbedingtes, 611.
+- Undeutlichkeit, 611. S. *Deutlichkeit*, II, 87.
+- Undurchdringlichkeit, 612.
+- Unedle Gemüthsart, 616. S. *Gemüthsart*, II, 858.
+- Unendliches, 616.
+- Unglaube, 628.
+- Universum, 632.
+- Unlauterkeit, 632.
+- Unlust, 634. S. *Lust*, IV, 40.
+- Unmöglich, 634. S. *Unmöglichkeit*, V, 634.
+- Unsterblichkeit, 641.
+- Unverweslichkeit, 643.
+- Ursache, 644.
+- Ursprung, 657.
+- Urtheil, 662.
+- Urtheilskraft, 696.
+
+### V
+
+- Vacuum, 725. S. *Raum*, 25. f. IV, 825; *Realität*, 6, f. IV, 862. *Homogeneität*, 4; III, 288. *Affinität*, I, 89. *Specificationsgesetz*, 6, ff. V, 358;
+- Varietät, 725. S. *Menschenschlag*, IV, 233. *Race*, IV, 741. u. *Specificationsgesetz*, V, 352.
+- [VI, 389] Veränderung, 725.
+- Verbindlichkeit, 732.
+- Verbindung, 733.
+- Verfahren mit einem Begriffe, 734.
+- Vergehen, 737.
+- Vergnügen, 737.
+- Verhältniss, 743. S. *Analogie*, I, 141. u. *Relation*, V, 110.
+- Verknüpfung, 743.
+- Vermessen, 745.
+- Vermögen, 746. S. *Familie der Erkenntnissvermögen*, II, 513.
+- Verneinung, 746.
+- Verneinend, 747.
+- Vernünftig, 748.
+- Vernunft, 748.
+- Vernunftbegriff, 786.
+- Vernunfteinheit, 840.
+- Vernunfterkenntniss, 840.
+- Vernunftgebrauch, 842. S. *Construiren*, II. 15; I, 826. 828; und *Vernunft*, V, 748.
+- Vernunftglaube, 842.
+- Vernunftlehre, 850.
+- Vernunftschluss, 854.
+- Vernunfturtheil, 856.
+- Vernunftwahrheit, 856.
+- Vernunftwissenschaft, 857.
+
+Im sechsten Bande.
+
+- Verrückung, 1.
+- Verstand, 9.
+- Verstandesbegriff, 24.
+- Verstandesschluss, 25. S. *Schluss*, 2, f; V, 203.
+- Verstandeswelt, 26. S. *Welt*, VI, 120.
+- Verstehen, 26. S. *Vernunftbegriff*, 3; V, 786; *Geheimniss*, 18, f; II, 822.
+- Vertheidigen, 26. S. *Disciplin*, 21. ff; II, 128.
+- Vertrag, 26.
+- Verwandtschaft, 35.
+- Verwunderung, 36.
+- Verzweiflung, 39.
+- Vielheit, 39. S. *Kategorie*, 9; III, 525; *Erfahrungsurtheil*, II, B; II, 354.
+- Vitalsinn, 39.
+- Vollkommenheit, 40.
+- Volumen, 46. S. *Grösse*, 8; III, 157.
+- Voraussetzen, 47. S *Theismus*, 5; V, 504; *Postulat*, 3, b, γ; IV, 673.
+- Vorherbestimmte Harmonie, 47.
+- Vorherbestimmung, 51. S. *Mathematisch*, 4; IV, 163; *Empfindung*, 7; II, 288.
+- Vorhersehungsvermögen, 51.
+- Vorläufige Urtheile, 53.
+- Vorschrift, 54. S. *Imperativ*, 12; III, 455; *Gutes*, 7, b; III, 208; *Kategorie*, 70, ff; III, 599; *Praktisch*, 3, f; IV, 690.
+- Vorsehung, 55.
+- Vorstellung, 59.
+- Vorstellungsvermögen, 73.
+- Vorurtheil, 75.
+
+### W
+
+- Waare, 85. S. *Geld*, 2. b; II, 835.
+- Wachsen, 85. S. *System*, 2; V, 442.
+- Wachsthum der organischen Wesen, 85.
+- Wahn, 87.
+- Wahnsinn, 89.
+- Wahnwitz, 90.
+- Wahr, 90.
+- Wahrheit, 97.
+- Wahrnehmung, 98.
+- Wahrnehmungsurtheil, 101.
+- Wahrsagergabe, 101.
+- Wahrscheinlichkeit, 104.
+- Wandelbares, 106.
+- Warnendes Gewissen, 106. S. *Gewissen*, 10; II, 976.
+- [VI, 390] Wechsel, 106.
+- Wechselbegriffe, 107.
+- Wechselwirkung, 107. S. *Gemeinschaft, dynamische*, II, 889.
+- Weg in Behandlung der moralischen Anlagen unsrer Natur, 107.
+- Wegsehen, 112.
+- Weh, 114. S. *Böses*, 4. f. I, 732. f. *Uebel*, V, 599.
+- Weinen, 114.
+- Weiber, 116.
+- Weisheit, 117.
+- Weisheitslehre, 120. S. *Gut, höchstes*, 3; III, 191.
+- Welt, 120.
+- Weltanfang, 127.
+- Weltbaumeister, 128.
+- Weltbegriff, 128.
+- Weltbestes, 147. S. *Moraltheologie*, 2. c; IV, 372.
+- Weltbürgerliches Ganze, 147.
+- Weltbürgerrecht, 148.
+- Welterkenntniss, 151. S. *Encyclopädie* 13; II, 299; und 19; II, 301. u. *Kosmologie*, III, 664.
+- Weltgrenze, 151. S. *Weltbegriff*, 5. f. VI, 132. f.
+- Weltgrösse, 151.
+- Weltidee, 152. S. *Weltbegriff*, VI, 128.
+- Weltlauf, 152.
+- Weltschöpfer, 153. S. *Gott*, 42. III, 134. *Weltbaumeister*, VI, 128.
+- Welturheber, 153. S. *Theismus*, V, 500.
+- Weltursache, 153. S. *Cosmotheologie*, 2; I, 848. und *Theismus*, V, 500.
+- Weltweisheit, 153.
+- Werk, 166. S. *Kunst*, 2. b; III, 725.
+- Werkzeug, 166. S. *Organisirtes Wesen*, IV, 487.
+- Werth, 166.
+- Werth des Erdenlebens, 167.
+- Wesen, 171.
+- Wetten, 172. S. *Ueberzeugung*, 2; VI, 609.
+- Widerspruch, 173. S. *Wahr*, 5; VI, 92. u. 8; VI, 95. *Analytisches Urtheil*, 10. ff; I, 195. ff. u. *Ding*, 4. β; II, 111.
+- Widerstrebung, 173. S. *Latitudinarier*, 6; III, 762.
+- Widerstreit, 173.
+- Widerstreit der Pflichten, 174.
+- Wiedervergeltung, 174. S. *Krieg*, 5. b; III, 715.
+- Wiedervergeltungsrecht, 174. S. *Strafe*, 4. II. V, 395. ff.
+- Wille, 174.
+- Willkühr, 199. S. *Wille*, 5. f. VI, 178. *Freiheit*, 28. I, 641.
+- Willkührlicher Tod, 199. S. *Tod*, 2; V, 531.
+- Wirbel des Cartesius, 199.
+- Wirklich, 201. S. *Erfahrungsurtheil*, 12. C. 4, b; II, 358; *Geben*, 8. ff. II, 715; *Idealismus, critischer*, III, 378. u. *Physicotheologie*, 2. a. *Beispiele*; IV, 605.
+- Wirklichkeit, 201. S. *Daseyn*, II, 16. u. *Existenz*, II, 466.
+- Wirkung, 201. S. *Dependenz*, 2. f. II, 162; *Analogie der Ursache u. Wirkung*, I, 169; *Auflösung*, I, 403. u. *Anziehungskraft*, 5. ff. I, 305.
+- Wirthbarkeit, 201. S. *Hospitalität*, III, 290.
+- Wissen, 201. S. *Fürwahrhalten*, 1. c; II, 678. u. 8, II, 681; *Naturwissenschaft*, 2; IV, 423; *Gewissheit*, 2, III, 1; *Vernunftwissenschaft*, V, 857.
+- Wissenschaft, 201.
+- Witz, 203.
+- [VI, 391] Wohl, 206. S. *Gutes*, 3. a; II, 203.
+- Wohlbefinden, 206. S. *Burke*, 8; II, 748. u. *Teleologie*, 9; V, 480.
+- Wohlgefallen, 206.
+- Wohlhabenheit, moralische, 208. S. *Pflicht gegen sich selbst*, IV, 549.
+- Wohlthun, 208.
+- Wohlwollen, 211.
+- Wolf, 211.
+- Wolfische Philosophie, 214.
+- Wollust, 216.
+- Würde, 217.
+- Würden, 219. S. *Staat*, 12; V, 378.
+- Würdigkeit glückselig zu seyn, 219.
+- Wunder, 220.
+- Wunsch, 224. S. *Wille*, 5; VI, 178. *Wohlwollen des Wunsches*, 224. S. *Wohlwollen*, VI, 211.
+- Wurm, 224. S. *Hochmuth*, 2; III, 280.
+
+### Z
+
+- Zärtlichkeit des Wohlwollens, 225.
+- Zahl, 226.
+- Zaubern, 228. S. *Afterdienst*, 11; I, 116. u. *Fetischdienst*, 1; II, 579.
+- Zeichen, 228.
+- Zeit, 249.
+- Zeitbestimmung, 274.
+- Zeitfolge, 274. S. *Succession*, 3; V, 421. u. *Leibnitz*, VII; III, 842. b.
+- Zeitinbegriff, 274.
+- Zeitinhalt, 275.
+- Zeitordnung, 275.
+- Zeitpunct, 276. S. *Zeit*, 2, f. VI, 250.
+- Zeitreihe, 276.
+- Zeitursprung, 277. S. *Ursprung*, V, 657.
+- Zeitwissenschaft, 277.
+- Zeno, 279. S. *Skepticismus*, 3; V, 334.
+- Zergliedern, 279.
+- Zergliederung, 286. S. *Zergliedern*, VI, 279.
+- Zerstreuung, 286.
+- Zeugungsact, 289. S. *Eltern*, 8; II, 274.
+- Zierrathen, 289. S. *Geschmacksurtheil*, 3. c; II, 926.
+- Zueignung, 289. S. *Erwerbung*, 4. c; II, 410.
+- Zufällige Anlagen, 289.
+- Zufälligkeit, 291.
+- Zufriedenheit, 298.
+- Zugleichseyn, 299.
+- Zukunft, selige, 303.
+- Zuneigung, 305. S. *Zweck*, 18; VI, 344.
+- Zurechnung, 305.
+- Zureichender Grund, 306.
+- Zurückstossungskraft, 306.
+- Zusammenfassung, 314.
+- Zusammengesetzt, 314. S. *Einfache*, II, 227.
+- Zusammenhang, 315.
+- Zusammensetzung, 317.
+- Zusammentretung, 319.
+- Zusicherungsvertrag, 319.
+- Zustand, 320.
+- Zwang, 328.
+- Zweck, 328.
+- Zweckeinheit, 343. S. *Fatum*, 17. f. II, 561.
+- Zwecklehre, 343. S. *Teleologie*, V, 465. u. *Zweck*, 43; VI, 331.
+- Zweckmässigkeit, 345.
+- Zweckwidrig, 363. S. *Leibnitz*, XI; III, 853. *besonders die drei Arten desselben*, III, 861. u. *Theodicee*, V, 514.
+- Zweifel, 363.
+- Zweifelglaube, 364.
+- Zwischenräume der Cörper, 365.
+- Zwittergrundsatz, 366.
+
+[VI, 392]
+
+## II. Register
+
+welches dient, das Wörterbuch als Commentar über Kants Schriften zu gebrauchen.
+
+Die römischen Zahlen: I, II, III, IV, V, VI, bezeichnen die sechs Theile; die *arabischen* Zahlen verweisen auf die Seiten der Kantischen Schriften und des durch die römische Zahl angezeigten Theils des Wörterbuchs.
+
+### A
+
+- 3, IV, 520. 522. V, 153.
+- 4, V, 274. VI, 11. 100.
+- 5, V, 284.
+- 6, II, 679.
+- 7, f. II, 680. V, 285.
+- 8, V, 285.
+- 9, f. V, 286.
+- 10, f. VI, 72.
+- 11, VI, 112.
+- 12, II, 757. 871. f.
+- 13, II, 517.
+- 14, VI, 72.
+- 15, III, 367. f. V, 271.
+- 16, f. III, 368. 652. VI, 62.
+- 17, VI, 99.
+- 18, VI, 62.
+- 19, VI, 65.
+- 20, f. III, 653. f. VI, 68.
+- 21, V, 10.
+- 22, f. II, 856. V, 268.
+- 23, f. V, 242.
+- 24, V, 242.
+- 25, II, 513. f. V, 266. 317.
+- 26, f. V, 314.
+- 27, V, 269. 271.
+- 28, V, 295.
+- 29, VI, 13.
+- 30, f. VI, 317.
+- 31, f. VI, 318. f.
+- 32, f. VI, 318. f.
+- 33, f. V, 319.
+- 34, V, 320.
+- 35, f. II, 576. V, 251. ff.
+- 36, ff. II, 578. V, 252.
+- 37, V, 255.
+- 38, f. V, 354. f.
+- 39, f. V, 255. 301.
+- 40, V, 301.
+- 41, V, 301.
+- 42, ff. V, 303.
+- 44, III, 284. V, 328.
+- 45, III, 285. V, 315.
+
+[VI, 393]
+
+### A
+
+- 46, ff. II, 758. 774. 777. 827. V, 286. 293. f. 297. VI, 40.
+- 47, II, 829. 887. V, 293. f.
+- 48, II, 774. ff. 827.
+- 49, f. II, 827. f. 961. f.
+- 50, II, 774.
+- 51, II, 776. f. 828. 874. 888.
+- 52, II, 777. 829.
+- 53, II, 823. 874. 888. VI, 40.
+- 54, II, 874. 888.
+- 55, f. II, 878. 829. f.
+- 56, II, 875.
+- 57, ff. II, 875. V, 297.
+- 58, f. II, 516. f. 857.
+- 62, f. VI, 107.
+- 65, f. V, 195. 198. f. VI, 107.
+- 67, V, 199.
+- 69, V, 310.
+- 73, V, 292.
+- 75, V, 180. 255.
+- 76, V, 250.
+- 79, VI, 36.
+- 80, V, 552. VI, 35.
+- 82, III, 12. VI, 35. 36.
+- 83, VI, 36.
+- 84, VI, 35. 36.
+- 92, f. VI, 51.
+- 93, II, 546.
+- 95, V, 533.
+- 98, f. V, 169. VI, 52.
+- 99, VI, 52.
+- 100, f. VI, 53.
+- 101, ff. VI, 101. f.
+- 103, f. VI, 103.
+- 106, f. V, 292. 424. 425. VI, 228. f.
+- 107, V, 425.
+- 108, f. VI, 230.
+- 109, VI, 231.
+- 110, f. VI, 231.
+- 111, f. VI, 232.
+- 112, ff. VI, 232.
+- 115, II, 515. V, 749. 761. VI, 11.
+- 116, V, 696. VI, 21. 23.
+- 117, V, 697. 750. VI, 23.
+- 118, V, 696.
+- 119, V, 697.
+- 120, III, 745. V, 697. 762. 771. 786. 789. VI, 11.
+- 121, V, 750. \*) 751.
+- 122, IV, 245. f. 751.
+- 123, II, 545. V, 171. VI, 22. 203. 375. 420. 697.
+- 124, f. V, 250. 752. VI, 89. 90.
+- 125, III, 281.
+- 126, III, 281.
+- 127, II, 545. III, 656. V, 697.
+- 129, V, 202.
+- 130, VI, 286.
+- 131, f. VI, 287.
+- 132, VI, 287.
+- 133, f. V, 156. VI, 289.
+- 134, VI, 22.
+- 135, f. IV, 308. V, 752. 754.
+- 136, f. V, 755. 756.
+- 137, VI, 119.
+- 138, III, 657. V, 699.
+- 144, VI, 1. 2.
+- 145, VI, 5. 6.
+- 146, ff. V, 753.
+- 147, VI, 7.
+- 148, VI, 8.
+- 149, VI, 8.
+- 150, V, 753. VI, 9.
+- 151, f. VI, 9.
+- 153, ff. II, 833. VI, 8. 204.
+- 154, f. V, 320.
+
+[VI, 394]
+
+### A
+
+- 155, IV, 306. V, 320. VI, 205. f.
+- 156, f. VI, 78. 206.
+- 158, f. V, 154. ff.
+- 160, II, 863. 871. IV, 383.
+- 161, II, 831. 833. 870.
+- 162, II, 833.
+- 164, V, 761.
+- 165, V, 698.
+- 166, V, 750. \*) VI, 83.
+- 167, VI, 184.
+- 168, f. II, 761. V, 267.
+- 169, II, 761.
+- 170, II, 762.
+- 171, f. II, 763. f.
+- 172, II, 764.
+- 173, II, 764.
+- 174, II, 765.
+- 175, II, 765. f.
+- 176, II, 766.
+- 177, III, 769.
+- 178, II, 768.
+- 179, II, 769.
+- 180, II, 770. f.
+- 181, f. II, 771. f.
+- 182, f. II, 772. VI, 168.
+- 184, II, 887. 889.
+- 186, II, 901. 908.
+- 187, f. V, 229. VI, 11.
+- 188, f. II, 899. V, 264.
+- 190, ff. II, 910. V, 230. f.
+- 192, II, 914.
+- 193, V, 351.
+- 194, II, 831. 833. IV, 633.
+- 195, II, 833. IV, 634. V, 51.
+- 196, IV, 634.
+- 198, IV, 633.
+- 200, f. V, 251. 610.
+- 201, f. V, 611.
+- 203, II, 718. 859. III, 870. V, 267. f.
+- 204, ff. II, 959. III, 875. 877.
+- 205, III, 878.
+- 206, f. II, 862.
+- 207, f. II, 861.
+- 208, II, 761. IV, 311.
+- 209, f. III, 286. V, 170. 237.
+- 210, f. II, 702. f. III, 879. IV, 383. VI, 114. ff.
+- 211, f. II, 703. f. IV, 384. V, 241.
+- 212, IV, 384.
+- 213, f. IV, 385. 386.
+- 214, f. II, 704.
+- 215, f. V, 284.
+- 216, IV, 384. 386.
+- 217, f. V, 170. 237.
+- 218, II, 659. VI, 38. 39.
+- 220, VI, 116.
+- 221, f. VI, 114. f.
+- 222, VI, 115.
+- 224, VI, 115.
+- 226, III, 222. 870. 876. 878. V, 561.
+- 227, III, 871.
+- 228, III, 876. f.
+- 229, III, 872.
+- 230, III, 872.
+- 232, f. III, 871. 873.
+- 233, III, 874. V, 561. 762.
+- 234, III, 872. 875.
+- 235, f. III, 874.
+- 236, III, 214. f. 871.
+- 237, III, 250. ff. V, 217.
+- 239, III, 215.
+- 240, f. VI, 88.
+- 241, VI, 88.
+- 242, VI, 89.
+- 244, III, 291.
+- 245, III, 292.
+- 247, III, 294.
+- 248, III, 294.
+- 249, f. III, 294. V, 194.
+- 250, III, 295.
+- 252, III, 295.
+
+[VI, 395]
+
+### A
+
+- 255, ff. V, 303. ff. VI, 234.
+- 256, III, 263.
+- 257, V, 305.
+- 258, V, 305.
+- 259, V, 306.
+- 260, V, 306.
+- 261, V, 306.
+- 266, V, 306.
+- 267, V, 306.
+- 268, V, 307.
+- 269, V, 307.
+- 274, f. VI, 235.
+- 276, f. VI, 236.
+- 277, VI, 37.
+- 279, III, 512. VI, 236.
+- 280, VI, 237.
+- 281, VI, 236.
+- 283, VI, 237.
+- 284, V, 308. VI, 237.
+- 285, VI, 238.
+- 287, VI, 308.
+- 288, VI, 237.
+- 289, ff. V, 309.
+- 292, VI, 238.
+- 297, ff. V, 310. VI, 242.
+- 301, f. III, 285.
+- 313, f. V, 310.
+- 314, f. VI, 243.
+- 316, VI, 243.
+- 318, f. VI, 244.
+- 320, VI, 245.
+- 321, VI, 246.
+- 328, VI, 246.
+- 329, ff. VI, 247.
+- 331, ff. VI, 248.
+
+### B
+
+- 552, V, 702.
+- 553, V, 717.
+- 554, V, 714. 717. 718. ff.
+- 555, V, 707.
+- 558, f. V, 359.
+- 559, f. V, 360.
+- 562, V, 297.
+- 563, f. V, 688 \*) 690. \*)
+- 564, V, 691 \*)
+- 565, V, 685. 688.
+- 566, V, 687.
+- 567, III, 255. V, 724.
+- 568, V, 691.
+- 573, V, 690.
+- 574, V, 687.
+- 575, IV, 44.
+- 576, IV, 43.
+- 582, II, 294.
+- 583, II, 295.
+- 571, VI, 43.
+- 573, VI, 41.
+
+### C. Vorr.
+
+- 2, I. A. IV, 265. 267.
+- 12, I, 85.
+- 15, IV, 292.
+- III, 2. A. V, 534.
+- VIII, I, 359. II, 265.
+- IX, II, 265. 382. V, 529. 758.
+- X, II, 382.
+- XIV, f. IV, 263. 265.
+- XV, ff. IV, 267. ff.
+- XVIII, ff. IV, 271.
+- XXII, ff. IV, 274.
+- XXIV, ff. I, 861. IV, 277.
+- XXVI, II, 56. 336. 375. 399.
+- XXX, f. II, 152.
+- XXXII, V, 642.
+- XXXIV, IV, 277. V, 630.
+- XXXV, II, 143. 148. 150. 152. 153.
+- XXXVI, ff. II, 148. VI, 215.
+- XXXIX, III, 410. f.
+- XCI, V, 725.
+
+### C
+
+- 1, I, 2. 10. II, 336. 385. III, 800.
+- 2, I, 861. II, 378.
+- 3, f. I, 12. II, 381. IV, 287. V, 727.
+- 4, I, 14.
+- 5, I, 15.
+
+[VI, 396]
+
+### C
+
+- 6, I, 18. III, 92.
+- 7, ff. I, 18. II, 147. 148. 149. 624. III, 92. IV, 364. 405. V, 641.
+- 8, IV, 405.
+- 9, V, 603.
+- 10, I, 190. II, 405. 406. IV, 682. V, 433.
+- 11, I. A. V, 107.
+- 11, IV, 684. V, 159. VI, 279.
+- 12, II, 406. IV, 685.
+- 13, IV, 875.
+- 14, I. A. IV, 274.
+- 14, IV, 133.
+- 15, I, 200.
+- 16, II, 450. VI, 283.
+- 17, IV, 425. V, 80.
+- 18, IV, 266. VI, 284.
+- 19, I, 384. 385. 389.
+- 20, I, 391.
+- 21, I, 392. IV, 424.
+- 22, I, 392. 393. V, 332.
+- 23, I, 393. 394. II, 149. VI, 283.
+- 24, I, 851. 852. V, 757.
+- 25, II, 383. VI, 285.
+- 27, I, 354. 854. 855. III, 506. VI, 285.
+- 28, f. I, 856. V, 551. VI, 285.
+- 29, f. I, 254. f. II, 263. 264. V, 551.
+- 31, ff. I, 78. II, 262.
+- 32, I, 85.
+- 33, ff. I, 85. 487. 703. II, 383. 712. III, 378. V, 311. f. VI, 73.
+- 34, I, 89. 265. 703. II, 284. 290. 401. IV, 58. V, 107. 110. 313. f. VI, 71. 73.
+- 35, I, 78. 409. 469. II, 538. VI, 71.
+- 36, I, 39. 79. V, 549.
+- 37, II, 41. 471. III, 485. f. V, 295. f.
+- 38, II, 470. 471. 473. III, 486.
+- 39, II, 130. 267. 475. V, 619.
+- 40, I, 785. II, 472. 477. 872.
+- 41, I, 256. 317. II, 54. 478. 479.
+- 42, I, 132. 557. II, 108. III, 139. ff.
+- 43, I, 272. II, 111. 397.
+- 44, I, 80. 132. 134. II, 108. III, 416. IV, 771. 868.
+- 45, II, 737. IV, 772.
+- 46, II, 480. IV, 388. VI, 300.
+- 47, II, 481. 483. V, 620.
+- 48, f. II, 574. V, 728.
+- 49, III, 844. f. V, 296.
+- 50, I, 154. 269. III, 844.
+- 51, I, 40. 270. II, 111. 404.
+- 52, III, 216. 844. IV, 868.
+- 53, III, 846. IV, 867.
+- 54, III, 847.
+- 55, III, 848.
+- 58, I, 79. V, 665. 726.
+
+[VI, 397]
+
+### C
+
+- 59, I, 80. 132. 261.
+- 60, I, 20. 81. 85. II, 87. 279.
+- 61, I, 82. V, 311.
+- 62, I, 83. II, 398. 399. 400.
+- 63, I, 83.
+- 64, f. I, 85. III, 382. IV, 451. b.
+- 65, I, 409.
+- 66, f. III, 388.
+- 67, I, 259.
+- 68, I, 322. 329. 330. III, 804.
+- 69, ff. II, 398. 401. III, 393.
+- 71, f. I, 262. III, 94. 415.
+- 72, I, 270. 272.
+- 73, I, 271. V, 550.
+- 74, f. I, 262. 489. 491. II, 284. 290. IV, 18. 21. V, 107. 110. 748. VI, 71. 73.
+- 75, I, 272. 489. 490. 492. II, 515. III, 778. IV, 19. V, 287. VI, 11.
+- 76, I, 77. IV, 16. 19. V, 756.
+- 77, I, 40. II, 265. 267.
+- 78, f. II, 267. 268. III, 606.
+- 79, f. I, 282. II, 59. 268. IV, 20. 22. 353. f.
+- 80, II, 383. 748. V, 548.
+- 81, II, 738. IV, 22.
+- 82, IV, 251. 255.
+- 83, II, 268. IV, 106. 257. VI, 92.
+- 84, II, 269.
+- 85, f. II, 89. 269.
+- 86, II, 91. 270.
+- 87, f. IV, 25. 27.
+- 88, II, 94. 738. 741. 744. 749.
+- 89, I, 36. 122. II, 262. 742. 744. IV, 28. VI, 285.
+- 90, f. IV, 28. VI, 286.
+- 91, IV, 28.
+- 92, I, 76. 263. IV, 28. VI, 11.
+- 93, f. I, 263. II, 133. 687. f. V, 663. 665. VI, 11.
+- 94, ff. I. A. III, 555.
+- 94, II, 52. 54. 688. III, 482. V, 664.
+- 95, I. A. f. III, 557.
+- 95, I, 505. II, 354. 689. 698.
+- 96, I. A. f. III, 558.
+- 96, II, 698. f. V, 540.
+- 97, I. A. ff. III, 559.
+- 97, II, 694. 700. IV, 858.
+- 98, I. A. f. I, 333.
+- 98, II, 696. 701. 840. IV, 329.
+- 99, II, 842.
+- 100, f. II, 17. 697. 701. 843. IV, 324. 437. V, 605.
+- 101, I, 313. II, 19. 31. IV, 324. 349.
+- 102, II, 495. III, 515. 518. V, 387.
+- 103, II, 218. III, 520.
+- 104, I. A. II, 780.
+- 104, f. I, 139. 489. 494. II, 21. 241. 252. III, 513. 522. IV, 328. 441. 861.
+- 105, I. A. II, 783. 939.
+- [VI, 398] 224, ff. I, 46. 167. II, 356. V, 420. VI, 300.
+- 225, ff. 167. II, 214. 401. 407. 615. V, 409.
+- 226, II, 343. 614. III, 157. VI, 299.
+- 227, I, 168. 557. II, 616.
+- 228. 168. II, 149. 150.
+- 229, 46. II, 617. V, 409. 747.
+- 230, f. 49. II, 323. 617. V, 408. f. 731.
+- 231, 224. II, 324. 325. VI, 106.
+- 232, 226. II, 357. 876. IV, 458. V, 646.
+- 233, 171. II, 618.
+- 234, 171. II, 336. 778.
+- 235, 333.
+- 236, f. 173. II, 875. V, 62.
+- 237, 333. II, 876.
+- 238, V, 421.
+- 240, I, 182.
+- 241, V, 421. f.
+- 242, IV, 867. VI, 59. 69.
+- 243, I, 171. 481. VI, 69.
+- 244, 179. 183. VI, 69.
+- 245, 173.
+- 246, II, 618.
+- 247, I, 180.
+- 249, 181. III, 668. V, 422.
+- 250, III, 216. f.
+- 251, II, 323. 325. 326. V, 737.
+- 252, I, 178. II, 326.
+- 253, f. V, 727. 729.
+- 254, I, 44. 179.
+- 255, f. 178. 842. 844.
+- 256, 844.
+- 258, 184. 186. II, 357. 358. V, 647.
+- 259, 186. 188. VI, 300.
+- 260, 189.
+- 261, II, 839. 849.
+- 262, 839. 851.
+- 263, 183. 245. III, 157. V, 112.
+- 264, f. I, 677. II, 150. 469. 470. IV, 395. V, 66. 80.
+- 265, VI, 301.
+- 266, II, 358.
+- 267, f. 702. IV, 315. ff. 318. 422.
+- 268, f. I, 493. IV, 334.
+- 269, f. IV, 337. V, 639.
+- 271, 338. VI, 98.
+- 272, I, 819.
+- 273, II, 27. 29.
+- 274, f. 29.
+- 275, I, 543. II, 75. III, 398. 401. f. V, 636.
+- 276, f. II, 347. III, 408. ff.
+- 277, 347. III, 412.
+- 278, 336. 347.
+- 279, f. III, 413.
+- 280, II, 535. f. III, 412. IV, 457.
+- 281, 557. IV, 421.
+- 282, I, 44. 846. II, 557. IV, 11. 39. 458. 459.
+- 283, II, 558. IV, 341. 459.
+- 284, f. I, 173.
+- 285, f. IV, 342.
+- 286, f. IV, 329. 664.
+- II, 26. IV, 322.
+- [VI, 399] 287, II, 37. IV, 341. 664.
+- 288, f. 45. III, 587.
+- 289, ff. I, 482. VI, 296.
+- 290, f. III, 123. VI, 297.
+- 291, II, 45. III, 587.
+- 294, VI, 183.
+- 297, ff. II, 739. 748.
+- 298, I, 265. 513. II, 291. V, 288.
+- 299, V, 287.
+- 300, I, 474. 515. 516. II, 32. 739. ff. III, 156. IV, 739. 859. V, 148. 412. 747.
+- 301, f. II, 64. V, 649.
+- 302, 19. 849. IV, 326. 336. 439. VI, 297.
+- 303, 741. 748.
+- 304, ff. II, 57. 748. 787. III, 587.
+- 305, f. 60. III, 588.
+- 306, I, 134. II, 399.
+- 307, 131. 136. III, 148. IV, 448.
+- 308, f. IV, 449.
+- 309, II, 60.
+- 310, f. I, 140. 508. III, 148. f.
+- 311, 494. 503. IV, 451. V, 842. VI, 11.
+- 312, I, 263. IV, 451. V, 290.
+- 313, II, 748.
+- 314, f. III, 589.
+- 316, f. I, 130. 506. V, 54. f.
+- 317, IV, 91. V, 58.
+- 318, f. V, 60.
+- 319, II, 226.
+- 320, 227. 400. VI, 173. f.
+- 321, 149. III, 484. f.
+- 322, III, 822. IV, 90. 105. 107. 129.
+- 323, I, 263. III, 850.
+- 324, f. IV, 501. V, 534.
+- 325, V, 61. f.
+- 326, f. I, 130. IV, 15.
+- 327, f. III, 808. V, 288. f.
+- 328, ff. 818.
+- 329, V, 749. 807.
+- 330, f. III, 238. 822. V, 63.
+- 331, II, 233. III, 481. 851.
+- 332, III, 852.
+- 333, 488. V, 63.
+- 334, V, 63.
+- 335, 64.
+- 336, 64. 841.
+- 337, III, 810.
+- 338, 810. 818.
+- 342, IV, 450. 452.
+- 343, 450. 451.
+- 344, 450. f.
+- 345, 452.
+- 347, II, 108. 109. 750.
+- 348, I. A. III, 349. f.
+- 348, II, 105. 110. 112. 751. IV, 334.
+- 349, I. A. III, 350. 352.
+- 349, ff. II, 94. 402. 403. VI, 778. V, 176.
+- 350, I. A. III, 353.
+- 351, I. A. III, 353. f.
+- 351, ff. II, 232. V, 176. f. 737.
+- 352, f. 234. 236. V, 603.
+- 353, I. A. III, 356.
+- 453, f. V, 177. f.
+- 354, I. A. III, 357. ff.
+- 355, I. A. 359.
+- 355, V, 763.
+- 356, I. A. III, 360.
+- 356, I, 206. VI, 11.
+- 357, ff. I. A. III, 362.
+- 357, II, 380. V, 764.
+- 358, I, 210.
+- [VI, 400] 359, f. I, 562. V, 203. 765. 840. VI, 12.
+- 360, V, 209.
+- 361, f. I. A. III, 363.
+- 361, V, 767.
+- 362, I. A. III, 364.
+- 362, I, 210. V, 769.
+- 363, I. A. III, 365.
+- 363, V, 746. 769. 770.
+- 364, I. A. III, 365.
+- 364, V, 770. 856.
+- 365, I. A. f. III, 367. IV, 525.
+- 365, I, 215.
+- 366, I. A. III, 403.
+- 366, IV, 674. V, 795.
+- 367, I. A. III, 416.
+- 367, I, 483. V, 772. 790.
+- 368, I. A. III, 404.
+- 368, V, 791.
+- 369, I, A. III, 378. IV, 856.
+- 369, V, 791.
+- 370, f. I. A. III, 405.
+- 370, IV, 620.
+- 371, I. A. 857.
+- 371, 621. 623.
+- 372, I. A. 857.
+- 372, ff. 626.
+- 373, ff. I. A. III, 406.
+- 374, IV, 628.
+- 375, V, 793.
+- 376, I. A. III, 407.
+- 376, II, 283. 400. IV, 517. VI, 71.
+- 377, I, 273. 484. V, 794.
+- 378, 503. V, 795. 796.
+- 379, I. A. IV, 633.
+- 379, I, 215. V, 539. 797. 798.
+- 380, I. A. IV, 633.
+- 380, f. I, 38.
+- 381, I. A. f. IV, 443.
+- 382, V, 800.
+- 383, I. A. IV, 526.
+- 383, II, 237. V, 802.
+- 384, ff. I. A. 237. 854.
+- 385, V, 803. IV, 117. f.
+- 386, 216. 767.
+- 387, IV, 724.
+- 388, 726. IV, 106.
+- 390, V, 797. 805.
+- 391, III, 664. IV, 726. f. V, 520. 805. 806.
+- 392, I. A. II, 856.
+- 393, I. A. 61. 856.
+- 393, I, 101. V, 808. 809.
+- 394, II, 752. V, 813.
+- 395, 41. IV, 726. V, 521.
+- 396, V, 815.
+- 397, f. I, 508. IV, 506. V, 816. 817.
+- 398, I, 288. III, 370.
+- 399, f. III, 337. IV, 505. f.
+- 400, I. A. V, 269.
+- 400, f. II, 291. 58. III, 340. IV, 727. V, 261.
+- 401, I. A. f. V, 270.
+- 401, f. III, 328. 341. IV, 128.
+- 402, 342.
+- 403, I, 240. 241. III, 343. 345. V, 256.
+- 404, III, 346.
+- 405, I, 785. III, 344.
+- 406, III, 346. 349.
+- 407, f. 355. 362.
+- 408, f. 367.
+- 409, IV, 507.
+- 410, 509.
+- 412, 510.
+- 413, ff. V, 262.
+- 414, III, 653.
+- 415, 652. f.
+- 416, ff. IV, 510. V, 492. VI, 318.
+- 418, f. 511.
+- [VI, 401] 419, IV, 511.
+- 420, f. 512.
+- 421, 512. f.
+- 422, f. II, 32. 78. 336. 401.
+- 423, IV, 513.
+- 424, ff. 514.
+- 425, 493.
+- 426, f. V, 257. 262.
+- 427, f. 263.
+- 428, ff. 258.
+- 430, 263. 731.
+- 431, f. 264.
+- 432, VI, 144.
+- 433, f. 144. f.
+- 434, II, 627. V, 532. VI, 129.
+- 435, III, 370.
+- 436, V, 428.
+- 437, VI, 130.
+- 438, V, 429. 431.
+- 440, II, 228. V, 493.
+- 441, V, 418.
+- 442, 132.
+- 443, f. II, 625. III, 94. ff. IV, 416. VI, 132.
+- 444, 625. f. 628. III, 97.
+- 445, f. V, 611. 619.
+- 446, f. II, 227. 268. 625. III, 95. IV, 399. f. 416. VI, 122. 127.
+- 447, f. 69. 625. 628. III, 95. IV, 402. 443. V, 649. 651. VI, 123.
+- 448, I, 299. IV, 416. V, 530.
+- 449, III, 787.
+- 450, I, 300. III, 787.
+- 451, 301. IV, 289. V, 330.
+- 452, 301.
+- 454, I, 290. IV, 261.
+- 455, 290.
+- 456, 291.
+- 457, III, 849.
+- 458, f. IV, 849. V, 618.
+- 459, 775. 793. 848.
+- 460, V, 616. 618. 619.
+- 462, I, 291.
+- 463, 291.
+- 465, 98. VI, 318.
+- 466, IV, 773.
+- 467, f. III, 848. IV, 775.
+- 468, f. V, 498. VI, 250.
+- 470, I, 374. IV, 351.
+- 471, VI, 256.
+- 472, ff. I, 292. II, 628. 877.
+- 473, 292.
+- 474, f. II, 628.
+- 475, 630.
+- 476, 631.
+- 477, 631. V, 726.
+- 478, 631.
+- 479, 632.
+- 480, ff. I, 292. III, 97. f. V, 728.
+- 481, 292.
+- 482, 38. III, 98. f.
+- 484, III, 99. f.
+- 485, f. 100. 102.
+- 486, I, 43. III, 101.
+- 487, f. III, 102. f. VI, 297.
+- 488, V, 727.
+- 490, ff. VI, 134.
+- 492, f. 135.
+- 493, 136.
+- 494, II, 154. IV, 630. VI, 136.
+- 495, VI, 137.
+- 496, IV, 760.
+- 497, 761.
+- 498, 761.
+- 499, II, 333. IV, 630. 762.
+- 500, ff. 333. IV, 632. 763.
+- [VI, 402] 502, f. I, 354. IV, 763.
+- 503, f. 354. IV, 763.
+- 504, f. VI, 138.
+- 505, 138.
+- 506, 137.
+- 508, 138.
+- 509, f. 139.
+- 510, ff. 141.
+- 512, 141.
+- 513, f. 142.
+- 514, VI, 128. 142.
+- 515, f. II, 230. VI, 152.
+- 516, 633. III, 104.
+- 517, f. III, 105. VI, 143.
+- 518, I, 780. II, 402. VI, 143.
+- 519, III, 378. 400.
+- 520, f. 390.
+- 521, f. II, 346. 402. 467. 714. f. III, 381.
+- 522, f. 788. V, 890.
+- 523, 468. 716. f.
+- 525, I, 214.
+- 526, 214.
+- 527, ff. II, 482. VI, 146.
+- 529, IV, 146.
+- 530, IV, 461. 465. V, 335.
+- 531, ff. II, 229. IV, 462. 464. 467.
+- 532, IV, 407.
+- 533, 468.
+- 534, 469.
+- 535, 470.
+- 536, f. V, 94.
+- 537, I, 217. 810.
+- 538, IV, 714.
+- 539, 713. 715.
+- 540, f. II, 714. V, 87. f.
+- 542, f. V, 88.
+- 543, I, 217. V, 88.
+- 544, 218.
+- 545, f. V, 89.
+- 546, ff. 86.
+- 548, f. I, 292. IV, 850. V, 89.
+- 549, I, 293.
+- 550, f. 293. IV, 850. V, 89.
+- 551, f. 293. IV, 776.
+- 552, 293. IV, 785.
+- 553, f. 782. IV, 785. ff. V, 412.
+- 554, IV, 791. V, 90. 491.
+- 555, I, 478. III, 159.
+- 556, V, 90.
+- 557, 428. 835. 838.
+- 558, 836. 838.
+- 559, 91. 837. 886.
+- 560, II, 634.
+- 561, 634. 648.
+- 562, 641. IV, 214.
+- 563, ff. 634. f.
+- 565, 401. V, 72. 80.
+- 566, f. I, 503. IV, 216.
+- 567, IV, 217.
+- 568, 216.
+- 569, II, 636.
+- 570, III, 217. V, 91.
+- 571, II, 636. V, 91.
+- 572, IV, 412. V, 92.
+- 573, II, 637.
+- 574, IV, 216.
+- 575, f. V, 92. VI, 12.
+- 576, I, 233. III, 201. V, 92.
+- 577, IV, 216.
+- 578, 217. V, 92.
+- 579, II, 637. IV, 300. V, 93.
+- 580, f. 637. IV, 215. V, 93.
+- 581, f. I, 294. II, 638. IV, 217.
+- 582, f. II, 638. V, 94.
+- 583, f. V, 355.
+- 584, V, 355.
+- 585, f. II, 639 f. V, 356. f.
+- 586, f. V, 358.
+- [VI, 405] 587, f. III, 105. f. V, 358.
+- 588, f. I, 294. III, 106. V, 359.
+- 589, f. II, 625. 636. III, 95. 108.
+- 590, f. III, 109.
+- 591, 109.
+- 592, f. 111.
+- 593, 113.
+- 594, IV, 448.
+- 595, V, 798.
+- 596, III, 369. 480.
+- 597, 369. f.
+- 598, 370.
+- 599, ff. I, 558. III, 370.
+- 600, 559.
+- 601, 560.
+- 602, f. 522. 561. II, 104. 108. III, 372.
+- 603, III, 372. f.
+- 604, 373.
+- 605, 374.
+- 606, 374. IV, 58. f.
+- 607, I, 560. III, 114. IV, 59. 345.
+- 608, f. 115. IV, 60. 346.
+- 609, IV, 344.
+- 610, f. II, 244.
+- 611, 251. III, 327. IV, 444.
+- 612, IV, 445.
+- 613, f. 445.
+- 614, II, 607. IV, 446.
+- 615, III, 187. IV, 446.
+- 616, f. IV, 446.
+- 617, f. III, 16. IV, 447.
+- 618, f. 116.
+- 620, f. I, 503. III, 116. f.
+- 621, f. III, 117.
+- 622, 118.
+- 623, f. 118.
+- 624, ff. 119. IV, 334. V, 638.
+- 625, III, 119.
+- 626, f. II, 36.
+- 628, f. III, 120.
+- 629, f. II, 35. III, 121.
+- 630, III, 121.
+- 631, ff. 122. f.
+- 632, f. I, 849.
+- 633, 850.
+- 634, III, 124.
+- 636, 124.
+- 637, f. 125. f.
+- 638, ff. 126.
+- 640, 126.
+- 641, 127. f.
+- 642, 129.
+- 643, 129.
+- 644, 130.
+- 645, f. 131.
+- 647, 131.
+- 648, 131.
+- 649, 132.
+- 650, 133.
+- 651, 134.
+- 652, 134. 187.
+- 653, f. 135.
+- 654, 134.
+- 655, 135. VI, 128.
+- 656, I, 125. III, 135.
+- 657, III, 136.
+- 658, 136.
+- 659, I, 848. 849. V, 501. 519. 521.
+- 660, 849. III, 489. IV, 361. f. V, 502. 523.
+- 661, II, 381. 382. IV, 673. 676. V, 526. 529. 759.
+- 662, 382. V, 526.
+- 663, V, 527.
+- 664, II, 235.
+- 665, f. III, 187. IV, 598. f. V, 527.
+- 666, f. I, 848. III, 186. V, 528.
+- 667, II, 16.
+- 668, f. V, 528.
+- [VI, 406] 669, f. V, 528.
+- 670, 816.
+- 671, II, 235. 236. 237. V, 765. 803.
+- 672, I, 509. II, 237. V, 804. VI, 12.
+- 673, V, 788.
+- 674, f. I, 320. II, 737. III, 331. V, 762.
+- 675, II, 244. III, 332. f.
+- 676, III, 168. 667. V, 811.
+- 677, f. 168. 331.
+- 678, 169. V, 811.
+- 679, f. 170. 287.
+- 680, f. 287.
+- 681, 38.
+- 682, f. I, 556. III, 39. 40. 42. IV, 400.
+- 683, V, 355.
+- 684, 355.
+- 685, I, 90. III, 288.
+- 686, f. III, 288. f.
+- 687, I, 91. III, 288.
+- 688, 94. 95. III, 288.
+- 689, 96. III, 288.
+- 690, 99.
+- 691, II, 41. III, 186.
+- 692, I, 102. V, 771. 812.
+- 694, IV, 167. 170. f. 173.
+- 695, III, 279.
+- 696, I, 107.
+- 697, f. II, 42. 753. III, 186. V, 807. 808.
+- 698, f. 717.
+- 700, IV, 728. V, 261.
+- 701, III, 279. V, 814.
+- 702, V, 814.
+- 703, f. 522.
+- 704, f. 584.
+- 706, II, 244. III, 233.
+- 707, V, 504.
+- 708, I, 220. IV, 710. V, 840.
+- 709, V, 814.
+- 710, ff. 257. 261.
+- 711, f. IV, 402.
+- 712, III, 367.
+- 714, V, 505.
+- 717, 506.
+- 718, ff. IV, 602.
+- 720, f. V, 508.
+- 721, f. 509.
+- 722, f. 510.
+- 723, ff. 511.
+- 725, f. I, 282. V, 512.
+- 726, ff. V, 512.
+- 728, f. 513.
+- 729, 513.
+- 730, I, 860. V, 818.
+- 731, 861. 862.
+- 735, f. II, 484. V, 549.
+- 736, f. IV, 305. V, 670.
+- 737, f. II, 115. III, 780. V, 670.
+- 738, I, 862. II, 115. V, 780.
+- 739, 852. II, 129.
+- 740, II, 115. IV, 134.
+- 741, I, 817. 821. IV, 302. V, 841.
+- 742, f. 822. 823. IV, 131. 574. 736.
+- 743, III, 153.
+- 744, I, 823.
+- 745, 825. II, 11. IV, 139.
+- 746, 826.
+- 747, f. 826. 827. V, 427. 757.
+- 748, 827. 828. V, 164. 757.
+- 749, f. 828. II, 378. V, 166.
+- 750, V, 164.
+- 751, I, 829.
+- 752, IV, 151. V, 781.
+- [VI, 407] 754, II, 117.
+- 755, f. I, 414. 497. II, 11. III, 162.
+- 756, 499. II, 484.
+- 757, 500. II, 718.
+- 758, 831. II, 414. 485. 492.
+- 759, IV, 155.
+- 760, I, 101. 447.
+- 762, 75. 678. 834. II, 48. 49. 50. III, 3.
+- 763, 75. V, 781.
+- 764, ff. 321. 835. II, 117. 140. 141. 142. 143.
+- 765, ff. II, 116. 118. 151. III, 176. IV, 304.
+- 766, f. I, 856. II, 118. IV, 635.
+- 767, f. II, 118. IV, 635.
+- 768, I, 301. II, 118.
+- 769, f. II, 119. IV, 636.
+- 771, 119. V, 522.
+- 772, 119.
+- 773, 119.
+- 774, 120.
+- 775, f. 120. IV, 636. V, 633.
+- 776, 120.
+- 777, 120.
+- 778, f. 120.
+- 779, f. 120.
+- 780, 121.
+- 781, III, 286.
+- 782, IV, 636.
+- 783, 637.
+- 784, f. II, 121.
+- 786, I, 399. II, 116. 121. IV, 637.
+- 787, f. II, 121. III, 289.
+- 788, IV, 637.
+- 789, II, 122.
+- 790, f. 122. IV, 637.
+- 791, f. IV, 638.
+- 792, ff. II, 122. 123.
+- 795, II, 123.
+- 796, f. 124. 125.
+- 797, 125.
+- 798, 125. 126.
+- 799, f. 127. 230.
+- 800, f. 127. 194.
+- 801, 127.
+- 802, 127.
+- 803, 116. 128.
+- 804, f. 128.
+- 805, 128.
+- 806, 128.
+- 807, 128.
+- 808, 128.
+- 809, 116. 129.
+- 810, I, 680.
+- 812, 682. II, 231.
+- 814, 684. II, 116.
+- 815, 684. 686. II, 116.
+- 816, f. II, 295. 878. f.
+- 817, f. I, 670. 678. II, 116.
+- 818, 671.
+- 819, 673. IV, 451. b.
+- 820, 675.
+- 821, 676.
+- 823, ff. III, 506. V, 781. f.
+- 824, 505.
+- 825, 506.
+- 826, I, 794.
+- 827, II, 236. 237.
+- 828, III, 47. 655. IV, 687.
+- 829, f. IV, 251. V, 782.
+- 830, II, 641. f. III, 449. IV, 421. 515.
+- 831, 638. 640. 642. 644.
+- 832, V, 783.
+- 833, f. III, 47. 508.
+- 834, 46. 49. IV, 687.
+- 835, V, 783.
+- [VI, 408] 836, f. III, 508. IV, 357. 360. V, 783. VI, 125.
+- 837, 509.
+- 838, 370. 375.
+- 839, II, 972.
+- 840, IV, 174. V, 102.
+- 841, f. III, 56.
+- 842, 57. V, 784.
+- 843, 376. V, 1103.
+- 844, 509.
+- 845, V, 784.
+- 846, III, 509.
+- 847, 509.
+- 848, II, 678. f.
+- 849, I, 520. 521. II, 680. f.
+- 850, II, 673. III, 1. IV, 202. 204.
+- 851, f. 681. ff.
+- 852, V, 610.
+- 853, II, 683.
+- 854, f. 684.
+- 855, 684.
+- 856, III, 3. 25. 138.
+- 857, 510.
+- 858, 510.
+- 859, 511.
+- 860, I, 352. V, 442. f.
+- 861, f. 353. 369. II, 295. V, 191.
+- 862, f. 369. II, 297. V, 191. 444.
+- 863, 353. V. 191. 748.
+- 864, II, 380. 381. III, 883. V, 755. 841.
+- 865, IV, 572. V, 841.
+- 866, f. 573. 576.
+- 867, 576.
+- 868, II, 297. 298. IV, 352.
+- 869, I, 282. 850. II, 299. IV, 360.
+- 870, ff. IV, 263. f. 273.
+- 871, 275.
+- 872, IV, 264.
+- 873, II, 299. 300. 337. IV, 278. f. 401.
+- 874, 238. 300. III, 665. IV, 278. 402. 593. 718.
+- 875, f. III, 664. IV, 280. f.
+- 876, IV, 93. 282. 594.
+- 877, I, 278. IV, 283.
+- 878, f. IV, 284.
+- 880, 285.
+- 881, II, 328. III, 853. IV, 286, 617.
+- 882, 329. 330. IV, 15. 288.
+- 883, f. III, 783. IV, 289.
+- 884, III, 297. IV, 292.
+
+### E
+
+- 7, II, 384.
+- 10, f. I, 818. III, 185.
+- 12, 814. 815.
+- 13, 821. 835.
+- 15, ff. IV, 707.
+- 16, f. 708. V, 158.
+- 17, 867.
+- 19, II, 449.
+- 20, 456.
+- 24, IV, 854.
+- 26, ff. I, 42. 794. VI, 252.
+- 31, ff. IV, 792. VI, 252. f.
+- 32, 778.
+- 33, 703.
+- 34, VI, 253.
+- 35, V, 316.
+- 36, f. II, 278. 279. V, 163. 316.
+- 37, f. 280.
+- 38, I, 706.
+- 39, f. II, 281. VI, 253.
+- 40, VI, 253.
+- 41, ff. I, 141. V, 390. VI, 254.
+- 43, II, 282.
+- 44, ff. III, 824.
+- 45, f. 825.
+- 53, ff. V, 162. 166.
+- [VI, 409] 54, f. V, 390.
+- 57, f. 389. f.
+- 58, I, 184. V, 387.
+- 58, IV, 37.
+- 59, VI, 98.
+- 60, II, 88. VI, 11.
+- 65, V, 317.
+- 66, IV, 807.
+- 67, f. VI, 254.
+- 68, ff. I, 20. 231. VI, 255.
+- 70, f. III, 804.
+- 73, f. 667. 670. V, 416.
+- 74, f. V, 417.
+- 77, 437.
+- 78, f. II, 153. III, 723. V, 332.
+- 80, V, 437.
+- 81, 433.
+- 82, ff. II, 214. VI, 172.
+- 83, VI, 172.
+- 89, V, 160. 163.
+- 90, ff. 160. 163.
+- 94, f. 160. VI, 97.
+- 95, 730.
+- 97, 160. 728. 730.
+- 98, f. 732.
+- 99, VI, 172.
+- 101, f. V, 159.
+- 119, III, 796. f.
+- 120, f. 800.
+- 121, f. 435.
+- 122, ff. III, 242.
+
+### F
+
+- 5, V, 407.
+- 6, 407.
+- 14, VI, 41.
+- 25, V, 749.
+- 37, 291.
+- 42, II, 811.
+- 43, 811.
+- 44, III, 645.
+- 45, IV, 456.
+- 47, III, 646. IV, 456.
+- 48, 646.
+- 58, III, 647.
+- 59, IV, 406.
+- 64, III, 647.
+- 67, 647.
+- 70, V, 120.
+- 73, f. III, 635. ff.
+- 74, f. 637.
+- 75, II, 579.
+- 76, III, 638.
+- 77, f. 639.
+- 83, f. IV, 502.
+- 88, III, 661.
+- 89, \*) f. VI, 237.
+- 91, IV, 502.
+- 94, 502.
+- 95, ff. III, 639. f.
+- 99, 641.
+- 100, \*) f. VI, 233.
+- 103, 104.
+- 110, ff. III, 643. 709.
+- 112, 643.
+- 126, ff. 642.
+- 131, ff. IV, 228. f.
+- 135, 230.
+- 136, 230.
+- 137, 230.
+- 138, ff. 231.
+- 144, f. VI, 247.
+- 153, IV, 351.
+- 154, 350. f.
+- 164, 287.
+
+### G
+
+- Vorr. 1, II, 298. IV, 266. 577. 594. V, 842.
+- 2, f. 292. 301. 445. 642. f.
+- 3, ff. 293. 301. IV, 279. 359. 581.
+- 5, f. IV, 354.
+- 6, 357.
+- 7, 355. f.
+- 11, f. III, 172.
+- 12, f. 172.
+- 13, 171.
+- 14, 174. IV, 243.
+
+[VI, 410]
+
+### G
+
+- 1, III, 50. VI, 185.
+- 2, 49. f. 485. VI, 186.
+- 3, f. VI, 187.
+- 4, IV, 488. 493.
+- 5, II, 745. III, 51.
+- 6, ff. III, 54.
+- 8, IV, 527. f.
+- 9, 528.
+- 10, f. 529.
+- 11, III, 71.
+- 12, IV, 531.
+- 13, 4. 530.
+- 14, I, 69. IV, 4. 530.
+- 15, IV, 174. 530.
+- 16, I, 51. II, 278.
+- 17, 221. IV, 530.
+- 18, III, 660.
+- 19, f. 661. VI, 188.
+- 20, I, 56.
+- 21, 569.
+- 22, IV, 580.
+- 23, III, 46. IV, 243. 580.
+- 25, IV, 533.
+- 26, 533. V, 579.
+- 27, V, 323.
+- 28, 324.
+- 29, IV, 383.
+- 30, f. I, 408. IV, 580. 657.
+- 31, ff. 477. II, 234. III, 166. IV, 355. VI, 333.
+- 32, f. 282. IV, 356.
+- 34, IV, 356.
+- 35, 263. 562.
+- 36, III, 450. VI, 188.
+- 37, f. II, 730. III, 201. 449. 452.
+- 38, I, 60. 234. III, 166. 491. 493.
+- 39, III, 213. 452. f. 455. 460.
+- 40, 451. 454. 456. 460.
+- 41, f. II, 88. f.
+- 42, II, 331. 882. III, 656.
+- 43, f. 731. 882. III, 460. 479.
+- 44, f. 830. 881. III, 454. IV, 687.
+- 45, 886.
+- 47, I, 254. II, 732. III, 371.
+- 48, III, 462.
+- 49, f. 463.
+- 50, I, 222. II, 733. III, 464. IV, 452. b.
+- 51, f. III, 457. 464.
+- 52, 465. f.
+- 53, 467.
+- 54, 468.
+- 55, f. 469.
+- 56, 469.
+- 57, 470. V, 608.
+- 58, f. 471.
+- 59, 471.
+- 60, f. II, 733. VI, 188.
+- 61, VI, 189.
+- 62, f. 189.
+- 63, I, 254. 649. II, 309. IV, 313. VI, 175.
+- 64, III, 472. IV, 711. VI, 336.
+- 65, IV, 523. 524.
+- 66, II, 273. III, 251. 473.
+- 67, f. 189. IV, 560.
+- 68, VI, 41. 332.
+- 69, f. 330. 332.
+- 70, I, 442. 443.
+- 71, 444. III, 493. 496.
+- 72, 444.
+- 73, 444.
+- 74, III, 264.
+- 75, f. IV, 338.
+- 76, 582.
+- 77, f. 359. 701. f. VI, 217.
+
+[VI, 411]
+
+### G
+
+- 78, VI, 218.
+- 79, I, 445. VI, 219.
+- 80, V, 100.
+- 81, f. VI, 189. f.
+- 82, f. 191.
+- 84, IV, 174.
+- 85, II, 649. III, 218.
+- 86, 386. 387. III, 219. IV, 530.
+- 87, I, 440. 445. III, 453.
+- 88, III, 264.
+- 89, 265. f.
+- 90, f. II, 290. III, 267.
+- 91, f. III, 267. 269. 322. 326.
+- 92, f. 270.
+- 93, ff. I, 444. III, 270. VI, 191.
+- 95, f. VI, 192.
+- 96, III, 474.
+- 97, I, 446. II, 64. 70. 643. f.
+- 98, 440. II, 645. III, 474.
+- 99, ff. II, 646. III, 475.
+- 101, f. 646.
+- 102, f. III, 475. IV, 173.
+- 103, 476.
+- 104, II, 646. VI, 195.
+- 105, 405. 647.
+- 107, f. 403. V, 785. VI, 196.
+- 108, f. 647. III, 490. VI, 11. 12.
+- 109, 648.
+- 110, f. 650.
+- 111, I, 447. II, 650.
+- 112, II, 651.
+- 113, f. III, 491. VI, 193.
+- 114, V, 789. VI, 194.
+- 115, f. II, 649. VI, 194. f.
+- 116, VI, 195.
+- 117, II, 648. f. 651. III, 489. f. 61. VI, 196. f.
+- 118, ff. 61. VI, 196. f.
+- 120, 652. f.
+- 121, f. II, 653. III, 495.
+- 122, ff. III, 494. VI, 198.
+- 124, 476. IV, 689.
+- 125, f. IV, 688. VI, 199.
+- 126, f. III, 371. VI, 199.
+- 127, II, 70.
+- 128, I, 483. III, 477.
+
+### K
+
+- Vorr. I, II, 758. III, 772. IV, 40. VI, 177.
+- II, 759. V, 293. 297. 311. 314. VI, 11.
+- III, 891. III, 497. IV, 693. V, 1.
+- IV, f. III, 498. VI, 178.
+- V, I, 525. II, 80. 577. 645. III, 450. IV, 657.
+- VI, f. II, 644. 655. 731. III, 782. V, 72.
+- VII, f. 387. 404. III, 283. IV, 279. 426. 594.
+- VIII, f. V, 323.
+- IX, 321.
+- X, IV, 263.
+- XI, f. 356.
+- XII, VI, 159.
+- XIII, II, 42. III, 726. V, 568.
+- XIV, f. V, 73.
+- XV, III, 781. IV, 540.
+- XVII, III, 461. IV, 540. f. 544. 557. V, 31.
+- XVIII, f. II, 624. 641. 653. IV, 546. V, 822.
+- XIX, 389. III, 450. V, 79.
+- XX, III, 453. V, 79. 732.
+
+[VI, 412]
+
+### K
+
+- XXI, I, 473. II, 387. III, 218. f. 478. V, 2. 732.
+- XXII, II, 387. III, 788. IV, 521. 524. f. V, 487.
+- XXIII, f. I, 786. V, 2. 153. 606.
+- XXIV, V, 68.
+- XXV, f. III, 473. 478. IV, 174. V, 78.
+- XXVI, f. 782. IV, 174. 531. VI, 179.
+- XXVII, II, 655. f.
+- XXVIII, f. I, 466. II, 731. V, 74.
+- XXIX, 532. V, 138. 392. 488.
+- XXX, f. 532. V, 3. VI, 306.
+- XXXI, V, 36. 47. f.
+- XXXII, f. 4.
+- XXXIII, II, 417. IV, 201. V, 6.
+- XXXIV, V, 5.
+- XXXV, 7. 10.
+- XXXVI, 9.
+- XXXVII, f. 12.
+- XXXVIII, f. 8. 12.
+- XXXIX, I, 725.
+- XL, 726. 727.
+- XLI, f. V, 12. f.
+- XLII, 13.
+- XLIII, II, 199. V, 71.
+- XLIV, IV, 186, 422. V, 14. 30. 31. 35.
+- XLV, II, 277. IV, 187. f.
+- XLVI, IV, 188.
+- XLVII, II, 300. IV, 189. 543. 557.
+- XLVIII, III, 477. IV, 213.
+- XLIX, IV, 543. 557. 561.
+- L, III, 788. V, 19.
+- LI, IV, 556. 560.
+- LII, 190. V, 15. 32. VI, 326.
+- 55, IV, 191. f.
+- 56, II, 396. 409.
+- 57, 409. IV, 49.
+- 58, 396. IV, 192.
+- 59, IV, 193.
+- 60, f. 194.
+- 61, f. II, 408. IV, 185. 194.
+- 62, 410.
+- 65, V, 329.
+- 67, f. IV, 200.
+- 68, ff. 201.
+- 71, I, 296.
+- 74, IV, 422.
+- 76, II, 407. 408. 409.
+- 77, I, 335. II, 409. 410.
+- 78, 554. II, 411.
+- 79, ff. II, 412. V, 32. 36.
+- 80, 413.
+- 81, ff. V, 37. 193.
+- 82, II, 414.
+- 83, 415. 416.
+- 84, 416. V, 328. f.
+- 85, 417.
+- 86, 418.
+- 87, 419. 444.
+- 88, 419.
+- 89, I, 525. II, 419.
+- 90, II, 419. 420.
+- 91, 421.
+- 92, 422.
+- 93, 423.
+- 94, 423.
+- 95, 424.
+- 96, f. I, 741. V, 33.
+- 97, V, 33. VI, 27.
+- 98, I, 231. 232. VI, 26. 27. 28.
+- 99, VI, 29.
+- 100, 31.
+- 101, 31.
+- 102, I, 252. VI, 32.
+- 103, III, 881. V, 34.
+- 104, 883.
+- 105, f. II, 277. III, 854.
+
+[VI, 413]
+
+### K
+
+- 106, I, 125. III, 252.
+- 107, II, 187. 189. III, 758. f.
+- 108, 191.
+- 109, 192.
+- 110, I, 523.
+- 111, f. II, 273. 274. V, 24.
+- 112, f. 274.
+- 114, I, 125. II, 275. 277.
+- 115, II, 277. IV, 378.
+- 116, f. III, 248. f. 250. f.
+- 117, 251.
+- 118, II, 255. V, 26. VI, 32.
+- 119, VI, 32.
+- 120, I, 246. 247. II, 710. V, 193. VI, 34.
+- 121, f. I, 569. II, 835. VI, 320.
+- 122, f. II, 836.
+- 123, 836.
+- 124, 837.
+- 126, II, 838. IV, 378. 702.
+- 127, I, 737. II, 838.
+- 128, 738. 739. 742.
+- 129, V, 34.
+- 130, II, 425.
+- 131, 426. 430.
+- 132, 426. 427.
+- 133, 428.
+- 134, 429.
+- 135, I, 251. II, 209.
+- 136, II, 429. 430.
+- 138, 431. 432.
+- 139, 432.
+- 140, 432. V, 193.
+- 141, I, 552. II, 573. V, 193.
+- 142, ff. II, 879.
+- 143, I, 526.
+- 144, f. IV, 428.
+- 145, I, 247. 530.
+- 152, II, 206.
+- 153, f. II, 208. 210.
+- 154, f. VI, 321.
+- 155, f. II, 432. IV, 426. V, 71. VI, 322.
+- 156, IV, 427. VI, 322.
+- 157, VI, 322. f.
+- 158, IV, 428. VI, 325.
+- 161, f. I, 801. V, 32. 37. 376. f. VI, 323.
+- 162, f. VI, 325.
+- 163, f. V, 38. VI, 324. f.
+- 164, f. 377.
+- 165, I, 802.
+- 166, II, 656.
+- 167, 657.
+- 168, f. V, 378. VI, 171.
+- 169, f. 138.
+- 170, f. 84.
+- 171, f. 85. f. 291.
+- 172, 292. 379.
+- 173, 38.
+- 174, f. III, 749. V, 86. f.
+- 175, f. I, 802.
+- 176, f. IV, 871.
+- 177, 873.
+- 179, ff. V, 136.
+- 181, V, 80. 136.
+- 182, 137.
+- 183, f. II, 154. 155. III, 183.
+- 184, f. V, 386.
+- 186, f. 380.
+- 191, ff. 386.
+- 192, III, 184.
+- 194, 184.
+- 195, 185. V, 39.
+- 196, f. V, 393. ff.
+- 197, ff. 398.
+- 200, f. V, 399.
+- 201, f. 399.
+- 205, 532.
+- 208, f. III, 748. f. V, 353. f. 399.
+- 209, I, 358. 440.
+- 216, f. II, 665. III, 290.
+
+[VI, 414]
+
+### K
+
+- 216, f. III, 716. 718. V, 40.
+- 217, f. 719.
+- 219, 719. f.
+- 220, 715.
+- 221, f. 713. 716. 721.
+- 222, I, 438. f. III, 714.
+- 223, f. III, 721. f.
+- 224, I, 786. III, 722.
+- 225, II, 575. 665. 710.
+- 226, f. 666.
+- 228, VI, 319.
+- 232, IV, 411.
+- 233, f. II, 673.
+- 234, f. 674.
+
+### L
+
+- 1, IV, 15.
+- 2, 16.
+- 3, 16.
+- 4, f. 16. 19.
+- 5, 16. 36.
+- 6, IV, 32.
+- 7, V, 850. 851.
+- 8, IV, 19. V, 851.
+- 9, f. 19. f.
+- 10, V, 852.
+- 12, IV, 35.
+- 13, 36. V, 852.
+- 14, f. 32. f. V, 822.
+- 15, 34. f.
+- 16, III, 783. f.
+- 17, V, 853. 854.
+- 19, ff. VI, 153. 155.
+- 23, f. 156.
+- 24, f. 157.
+- 25, f. IV, 174. VI, 157.
+- 26, ff. VI, 159.
+- 29, ff. 161.
+- 32, f. 162.
+- 34, ff. 164.
+- 36, ff. 166.
+- 40, f. IV, 517. VI, 59. ff.
+- 41, f. III, 652. IV, 518.
+- 43, f. IV, 518. f.
+- 44, 519.
+- 45, ff. VI, 11. 45.
+- 51, V, 320.
+- 52, VI, 45.
+- 68, f. 45.
+- 69, f. 46. 90. f.
+- 70, f. 91.
+- 71, f. 92.
+- 72, f. 93.
+- 73, f. 94.
+- 74, f. 94.
+- 75, f. IV, 462. VI, 95.
+- 76, f. 438. VI, 96.
+- 77, V, 176.
+- 78, VI, 97.
+- 80, V, 375.
+- 81, VI, 81.
+- 84, 46.
+- 85, IV, 247. 249.
+- 86, 249. 252. 256.
+- 87, f. 250. 256. 258.
+- 88, f. 250. 254. 258.
+- 89, 250. f. 255. 259.
+- 90, 250. f. 255.
+- 91, f. 251. VI, 281.
+- 92, f. VI, 281.
+- 93, 46. 282.
+- 94, 282. f.
+- 95, 284.
+- 96, f. 101. 284.
+- 97, V, 789.
+- 98, 178. 845. \*) VI, 46.
+- 99, IV, 202.
+- 100, f. 203. f.
+- 102, V, 845. \*)
+- 104, \*) 845. \*) 846.
+- 105, 840. 857.
+- 106, f. 609. 629. 843. \*)
+- 107, III, 3. VI, 46.
+- 109, V, 857. VI, 202.
+- 110, \*) 609. 844. VI, 203.
+
+[VI, 415]
+
+### L
+
+- 111, III, 870. V, 602. f.
+- 112, V, 610.
+- 114, VI, 54.
+- 115, f. 54.
+- 116, 54. 75. f.
+- 117, ff. 77. f.
+- 118, 77.
+- 119, V, 191.
+- 120, ff. VI, 82.
+- 123, 37.
+- 125, 83.
+- 126, ff. V, 179. VI, 104. f.
+- 127, f. 179. f.
+- 129, f. VI, 363. f.
+- 130, V, 330. 333.
+- 131, 334.
+- 134, VI, 203.
+- 137, IV, 684.
+- 139, VI, 70.
+- 140, 71.
+- 141, V, 813. 818.
+- 142, f. 837. 838. 886. VI, 202.
+- 143, 893.
+- 144, IV, 101.
+- 145, 90.
+- 146, VI, 72, 113.
+- 147, 113. 280.
+- 152, 107.
+- 156, IV, 108. V, 662.
+- 157, f. 109. V, 535.
+- 158, V, 535. 667.
+- 159, 668. f.
+- 160, f. IV, 10. 736. 858. V, 746. 748.
+- 161, f. V, 669. f. 673.
+- 162, 673. 748.
+- 163, 675.
+- 164, f. 676. ff.
+- 169, IV, 324. V, 634.
+- 170, 325.
+- 171, V, 161. 163. f.
+- 172, 160. 162.
+- 173, IV, 31. 683. V, 695.
+- 174, f. V, 164. 695.
+- 175, f. III, 785. V, 162. 695.
+- 176, f. 786. VI, 101.
+- 178, f. V, 203. 694.
+- 179, f. 204.
+- 180, ff. 207.
+- 182, IV, 462.
+- 183, 482.
+- 184, 483.
+- 186, V, 207.
+- 187, ff. 207. 209.
+- 188, 767.
+- 189, IV, 109.
+- 190, ff. V, 214. 855.
+- 197, 211.
+- 203, f. IV, 469.
+- 205, f. V, 214. ff.
+- 209, f. IV, 720. 723. V, 106.
+- 210, 506. V, 352. f.
+- 211, 508. V, 376.
+- 215, 365.
+- 216, 306.
+- 217, VI, 46.
+- 219, f. IV, 155.
+- 221, V, 147.
+- 222, 149. ff.
+- 223, 152. VI, 107.
+- 225, 17. VI, 46.
+- 226, 17.
+- 227, 18.
+- 228, f. IV, 303. V, 18.
+- 229, f. 302. 305.
+- 230, 298. 303.
+- 231, 297. 300. f. 304.
+
+### M
+
+- I, 1, I, 2. 3. 10.
+- 2, 2. 5.
+- 3, 14. 16.
+- 4, 5.
+- 5, 14. 16.
+- 6, 12.
+- 7, 14.
+- 8, 18.
+- 9, 18.
+- [VI, 416] 10, IV, 264.
+- 11, I, 192.
+- 12, 192.
+- 13, IV, 685.
+- 14, 133.
+- 15, 134.
+- 16, I, 200.
+- 17, 200.
+- 18, II, 450.
+- 19, IV, 425.
+- 20, 266.
+- 21, I, 385.
+- 22, 389.
+- 23, 389.
+- 24, 392.
+- 25, 392.
+- 26, 393.
+- 27, 393.
+- 28, 394.
+- 29, 851.
+- 30, 854.
+- 31, 856.
+- 32, V, 551.
+- 33, 551.
+- 34, 312.
+- 35, 313.
+- 36, 314.
+- 37, 110.
+- 38, I, 78.
+- 39, 39. 79.
+- 40, II, 471.
+- 41, 472.
+- 42, 473.
+- 43, 475.
+- 44, 475.
+- 45, 472.
+- 46, 477.
+- 47, 478.
+- 48, 479.
+- 49, III, 839.
+- 50, 840.
+- 51, 841.
+- 52, IV, 770. f.
+- 53, 772.
+- 54, II, 480.
+- 55, 480.
+- 56, 483.
+- 57, II, 481.
+- 58, 481.
+- 59, 483.
+- 60, III, 842.
+- 61, 843.
+- 62, 844.
+- 63, I, 40.
+- 64, III, 844.
+- 65, 846.
+- 66, 847.
+- 67, 848.
+- 68, I, 79.
+- 69, 80.
+- 70, 80.
+- 71, 81.
+- 72, 82.
+- 73, 83.
+- 74, 83.
+- 75, III, 382.
+- 76, 388.
+- 77, 393.
+- 78, 415.
+- 79, I, 272.
+- 80, V, 546.
+- 81, IV, 18.
+- 82, 19. V, 287.
+- 83, 19.
+- 84, I, 40. II, 267.
+- 85, II, 267.
+- 86, 268.
+- 87, 268.
+- 88, 268.
+- 89, IV, 22.
+- 90, 22.
+- 91, 22.
+- 92, 251.
+- 93, 255.
+- 94, VI, 92.
+- 95, II, 268.
+- 96, 269.
+- 97, 88. 269.
+- 98, 270.
+- 99, IV, 25. 27. 28.
+- 100, 29.
+- 101, VI, 286.
+- 102, IV, 28.
+- 103, 28.
+- [VI, 417] 104, V, 665.
+- 105, II, 698.
+- 106, 698.
+- 107, 699.
+- 108, 700.
+- 109, 701.
+- 110, 701.
+- 111, III, 518.
+- 112, 520.
+- 113, II, 219.
+- 114, 21. 252. III, 522.
+- 115, 252.
+- 116, 254.
+- 117, III, 523.
+- 118, 526.
+- 119, 529.
+- 120, I, 37.
+- 121, 37.
+- 123, III, 530.
+- 124, 536.
+- 125, 536.
+- 126, 536.
+- 127, 538.
+- 128, II, 844.
+- 129, 845.
+- 130, 845.
+- 131, III, 543.
+- 132, II, 39.
+- 133, 41.
+- 134, III, 544.
+- 135, II, 41.
+- 136, III, 545.
+- 138, 547.
+- 139, 548.
+- 140, 549.
+- 141, 549.
+- 142, 552.
+- 143, 553.
+- 144, 555.
+- 145, 571.
+- 146, 571.
+- 147, 335.
+- 148, I, 325.
+- 149, 326.
+- 150, 692. IV, 770.
+- 151, 694.
+- 152, I, 327.
+- 153, 325.
+- 154, 327.
+- 155, 695. II, 248.
+- 156, III, 582. 573.
+- 157, 575.
+- 158, 575.
+- 159, 576.
+- 160, 577.
+- 161, 578.
+- 162, 579.
+- 163, 579.
+- 164, 580.
+- 165, II, 221.
+- 166, 221.
+- 167, III, 401.
+- 168, I, 690.
+- 169, II, 222.
+- 170, I, 700.
+- 171, III, 576.
+- 172, I, 332. 333.
+- 173, III, 576.
+- 174, 151.
+- 175, 149. 151.
+- 176, 301. 537. 580.
+- 177, 581.
+- 178, 582.
+- 179, II, 333. III, 583.
+- 180, III, 585.
+- 181, 586.
+- 182, V, 696. 700.
+- 183, II, 270.
+- 184, 270.
+- 185, IV, 29.
+- 186, 30.
+- 187, 30.
+- 188, V, 699.
+- 189, IV, 31.
+- 190, V, 700.
+- 191, 701.
+- 192, 181.
+- 193, 181.
+- 194, 182.
+- 195, 183.
+- 196, 184.
+- 197, 185.
+- 198, 187.
+- [VI, 418] 199, V, 187.
+- 200, III, 156.
+- 201, IV, 738. 862.
+- 202, V, 412.
+- 203, II, 64.
+- 204, 849.
+- 205, IV, 332.
+- 206, II, 25.
+- 207, IV, 441.
+- 208, V, 189.
+- 209, I, 473.
+- 210, VI, 98.
+- 211, V, 135.
+- 213, I, 451.
+- 215, 195.
+- 216, 196.
+- 217, 197.
+- 218, 197.
+- 219, I, 198.
+- 220, 199.
+- 221, IV, 31.
+- 222, V, 432.
+- 223, 439.
+- 224, I, 474. II, 712.
+- 225, V, 440.
+- 226, 440.
+- 227, 440.
+- 228, 441.
+- 229, 442.
+- 230, III, 177.
+- 231, 178.
+- 232, IV, 166.
+- 233, II, 182. IV, 162. 166.
+- 234, II, 358.
+- 235, IV, 163.
+- 236, I, 452. 453. II, 355.
+- 237, 453.
+- 238, 453.
+- 239, 453.
+- 240, V, 434.
+- 241, I, 454.
+- 242, II, 287.
+- 243, 288. 355.
+- 244, 289.
+- 245, 289.
+- 246, II, 287.
+- 247, III, 157.
+- 248, I, 837.
+- 249, II, 612.
+- 250, 612.
+- 251, IV, 862.
+- 252, 862.
+- 253, 865.
+- 254, 866.
+- 255, 866.
+- 256, I, 159. II, 356.
+- 257, 332. II, 356.
+- 258, 368. II, 342. f. IV, 388. V, 111.
+- 259, 163.
+- 260, 163.
+- 261, II, 557. V, 296.
+- 262, I, 164.
+- 264, 47. II, 356.
+- 265, 47. 165.
+- 266, II, 615.
+- 267, 616.
+- 268, 617.
+- 269, 617.
+- 270, I, 224.
+- 271, 224. II, 324. 325.
+- 272, 225.
+- 273, 226.
+- 274, II, 357. 876.
+- 275, I, 171.
+- 276, 171.
+- 277, 171.
+- 278, 173.
+- 279, 173. V, 421.
+- 280, V, 421.
+- 283, I, 182. 272.
+- 284, V, 421.
+- 285, I, 171. VI, 69.
+- 286, VI, 69.
+- 287, I, 179. VI, 69.
+- 288, 183.
+- 289, 173.
+- 290, II, 618.
+- 291, I, 180.
+- 292, 181. V, 421.
+- [VI, 419] 293, III, 668.
+- 294, I, 178. III, 217.
+- 295, 45. 178. II, 326.
+- 296, II, 326.
+- 297, I, 44. 179.
+- 298, 44. 179.
+- 299, I, 842.
+- 300, 844.
+- 301, 844.
+- 302, V, 647.
+- 303, I, 184. II, 357.
+- 304, 186.
+- 305, 186.
+- 306, 188.
+- 307, 189.
+- 308, II, 849.
+- 309, 851.
+- 310, V, 112.
+- 311, IV, 393.
+- 312, VI, 301.
+- 313, II, 358.
+- 314, 358.
+- 315, 358.
+- 316, IV, 317.
+- 317, 318.
+- 318, 334.
+- 319, 337.
+- 320, 338.
+- 322, I, 819.
+- 323, II, 27.
+- 324, 29.
+- 325, III, 480.
+- 326, 408. V, 814.
+- 327, 410.
+- 328, 412.
+- 329, 412.
+- 330, 413.
+- 331, II, 858. IV, 39.
+- 332, IV, 341.
+- 333, 342.
+- 334, 320.
+- 335, 322. 342.
+- 336, II, 45. III, 587.
+- 337, V, 730.
+- 339, VI, 183.
+- 342, II, 739. V, 288.
+- 343, II, 739.
+- 344, 740.
+- 345, 741.
+- 346, 741.
+- 347, III, 587.
+- 348, 588.
+- 349, 588.
+- 350, I, 134.
+- 351, IV, 448.
+- 352, I, 136.
+- 353, II, 61.
+- 354, I, 508.
+- 355, IV, 449.
+- 356, 451.
+- 358, III, 589.
+- 359, V, 53.
+- 360, 60.
+- 361, 59.
+- 362, III, 805.
+- 363, VI, 173.
+- 364, III, 484.
+- 365, 822.
+- 366, IV, 37. 501.
+- 367, V, 61. f.
+- 368, 62.
+- 369, III, 808.
+- 370, 818.
+- 371, 822.
+- 372, 238.
+- 373, 851.
+- 374, 852.
+- 375, V, 63.
+- 376, 63.
+- 377, 64.
+- 378, 64.
+- 379, III, 809.
+- 380, 810.
+- 381, 818.
+- 382, IV, 452.
+- 383, 451.
+- 384, 452.
+- 386, II, 108.
+- 387, 109.
+- 388, 109.
+- 389, 110.
+- 390, 106. V, 640.
+- 391, III, 778.
+- [VI, 420] 392, IV, 577. V, 176.
+- 393, V, 177.
+- 394, 178.
+- 395, II, 94.
+- 396, V, 763.
+- 397, 763.
+- 398, I, 208.
+- 399, 209.
+- 400, 209.
+- 401, 209. V, 764.
+- 402, 210.
+- 403, V, 765.
+- 404, 203.
+- 405, 209.
+- 406, 767.
+- 407, 769.
+- 408, 769.
+- 409, 770.
+- 410, I, 211.
+- 411, 212.
+- 412, 211.
+- 413, 214.
+- 414, V, 795.
+- 415, 618. 790.
+- 416, 618. 791.
+- 417, 791.
+- 418, IV, 619.
+- 419, 620.
+- 420, 623.
+- 421, 626.
+- 422, 628.
+- 423, V, 793. VI, 71.
+- 424, 794.
+- 425, 795.
+- 426, 796.
+- 427, I, 215. V, 797.
+- 428, 216. V, 798.
+- 429, 38.
+- 430, 39.
+- 431, V, 800.
+- 432, 802.
+- 433, 803.
+- 434, 767.
+- 435, 767.
+- 436, IV, 726.
+- 437, V, 797.
+- 438, 805.
+- 439, V, 805.
+- 440, 806.
+- 441, 807.
+- 442, 808.
+- 443, 809.
+- 444, 813.
+- 445, 815.
+- 446, 816.
+- 447, IV, 506. V, 817.
+- 448, 506.
+- 449, III, 337.
+- 450, 340.
+- 451, 341.
+- 452, 342.
+- 453, 343.
+- 454, 345.
+- 455, 346.
+- 456, 344.
+- 457, 346.
+- 458, 349.
+- 459, 353.
+- 460, 362.
+- 461, 367.
+- 462, IV, 507.
+- 463, 507.
+- 464, 507.
+- 465, 509.
+- 466, 510.
+- 467, V, 262.
+- 468, IV, 510.
+- 469, 511.
+- 470, 511.
+- 471, 512.
+- 472, 512.
+- 473, 513.
+- 474, 513.
+- 475, 514.
+- 476, V, 262.
+- 477, 263.
+- 478, 258.
+- 479, 258.
+- 481, 263.
+- 482, 264.
+- 483, VI, 144.
+- 484, 144.
+- 485, 144.
+- 486, 145.
+- [VI, 421] 487, VI, 129.
+- 488, 130.
+- 489, 130.
+- 490, V, 429. 431.
+- 491, 429. 431.
+- 492, 493.
+- 493, 418.
+- 494, VI, 132.
+- 495, IV, 416.
+- 496, VI, 132.
+- 497, V, 611.
+- 498, 611.
+- 499, VI, 122.
+- 500, IV, 416.
+- 501, I, 299.
+- 502, 299.
+- 503, 300. III, 787.
+- 504, III, 787.
+- 505, I, 300.
+- 506, 301.
+- 507, 290. IV, 630.
+- 508, 290.
+- 509, 290.
+- 510, 290. II, 327. 332.
+- 511, 291. II, 327.
+- 512, 291.
+- 513, IV, 849.
+- 514, V, 618.
+- 515, 618.
+- 516, 619.
+- 517, IV, 843.
+- 519, I, 291. IV, 630.
+- 520, 291.
+- 521, II, 271.
+- 522, I, 291. II, 332.
+- 523, 291.
+- 524, 291.
+- 525, VI, 318.
+- 526, IV, 773.
+- 527, V, 498.
+- 528, IV, 775.
+- 529, VI, 256.
+- 530, I, 291. II, 628. IV, 630.
+- 531, 291. II, 628.
+- 532, 291. II, 629.
+- 533, I, 291. II, 332. 628.
+- 534, II, 629.
+- 535, 630.
+- 536, 631.
+- 537, 631.
+- 538, 631.
+- 539, 632.
+- 540, I, 292. III, 97. IV, 631.
+- 541, 292. III, 98.
+- 542, 292. II, 332. III, 97.
+- 543, III, 99.
+- 544, 99.
+- 545, 100.
+- 550, 100.
+- 551, 101.
+- 552, 102.
+- 553, 102.
+- 554, 103.
+- 555, VI, 134.
+- 556, 134.
+- 557, 135.
+- 558, 136.
+- 559, IV, 630.
+- 560, VI, 136.
+- 561, 136.
+- 562, 136.
+- 563, 137.
+- 564, IV, 760.
+- 565, 760.
+- 566, 760.
+- 567, 761.
+- 568, 761.
+- 569, 762.
+- 570, 630.
+- 571, I, 333. IV, 632.
+- 572, IV, 763.
+- 573, 763.
+- 574, 764.
+- 575, VI, 138.
+- 576, 138.
+- 577, 137.
+- 578, 138.
+- 579, 139.
+- 580, 141.
+- [VI, 422] 581, VI, 141.
+- 582, 142.
+- 583, 142.
+- 584, VI, 128.
+- 585, 152.
+- 586, II, 230.
+- 587, 633.
+- 588, 633.
+- 589, III, 104.
+- 590, 105.
+- 591, VI, 143.
+- 592, 143.
+- 593, III, 378.
+- 594, 400.
+- 595, 390.
+- 600, II, 467. 716.
+- 601, III, 387.
+- 602, II, 783.
+- 603, 468.
+- 604, I, 214.
+- 605, 214.
+- 606, 214.
+- 607, VI, 146.
+- 608, 146.
+- 609, IV, 463.
+- 610, 404.
+- 611, 407.
+- 612, 467.
+- 613, 468.
+- 614, 469.
+- 615, 470.
+- 616, I, 217. V, 94.
+- 617, 217.
+- 618, IV, 714.
+- 619, 714.
+- 620, V, 88.
+- 621, I, 805. V, 88.
+- 622, V, 88.
+- 623, 88.
+- 624, I, 217.
+- 625, 218.
+- 626, 217.
+- 627, V, 89.
+- 628, 89.
+- 629, 89.
+- 630, 89.
+- 631, I, 292.
+- 632, I, 292.
+- 633, 293.
+- 634, II, 89.
+- 635, I, 293.
+- 636, V, 89.
+- 637, I, 293. IV, 776.
+- 638, 293. IV, 785.
+- 639, IV, 786.
+- 640, 787. V, 90.
+- 641, 785. V, 90.
+- 642, V, 90.
+- 643, 838.
+- 644, 838.
+- 645, 836. 838.
+- 646, 837.
+- 647, II, 634.
+- 648, 634.
+- 649, 641.
+- 650, IV, 214.
+- 651, II, 634.
+- 652, f. 635.
+- 653, IV, 216.
+- 654, 47.
+- 655, 216.
+- 656, II, 636.
+- 657, V, 91.
+- 658, 91.
+- 659, II, 636. V, 91.
+- 660, V, 91.
+- 661, 92.
+- 662, IV, 216.
+- 663, V, 92.
+- 664, 92.
+- 665, 92.
+- 666, IV, 216.
+- 667, 217.
+- 668, V, 93.
+- 669, 93.
+- 670, I, 294.
+- 671, II, 638.
+- 672, V, 94.
+- 673, II, 639.
+- 674, 640.
+- 675, III, 105.
+- 676, 106.
+- 677, 106.
+- 678, I, 294. III, 107.
+- [VI, 423] 679, III, 108.
+- 680, 109.
+- 681, 109.
+- 682, 111.
+- 683, 113.
+- 684, V, 798.
+- 685, III, 369.
+- 686, 369.
+- 687, 369.
+- 688, 371.
+- 689, 371.
+- 690, I, 557.
+- 691, 557.
+- 692, 560.
+- 693, 560.
+- 694, 561.
+- 695, III, 372.
+- 696, 373.
+- 697, 373.
+- 698, 373.
+- 699, 374.
+- 700, 374.
+- 701, 114.
+- 702, IV, 345.
+- 703, III, 115.
+- 704, IV, 346.
+- 705, 346.
+- 706, 344.
+- 707, II, 244.
+- 708, IV, 444.
+- 709, 445.
+- 710, 445.
+- 711, 445. 633.
+- 712, 446.
+- 713, II, 707.
+- 714, IV, 446.
+- 715, 446.
+- 716, 446.
+- 717, 447.
+- 718, III, 116. IV, 634.
+- 719, 116.
+- 720, 116.
+- 721, 117.
+- 722, 117.
+- 723, 117.
+- 724, 118.
+- 725, 118.
+- 726, III, 119.
+- 727, 119.
+- 729, II, 36.
+- 730, III, 120.
+- 731, II, 34.
+- 732, III, 121.
+- 733, 121.
+- 734, 122.
+- 735, f. 123. V, 550.
+- 736, I, 849.
+- 737, 850.
+- 738, III, 124.
+- 739, 124.
+- 740, 124.
+- 741, 125.
+- 742, 125.
+- 743, 125.
+- 744, 126.
+- 745, 126.
+- 746, 126.
+- 747, 127.
+- 748, 128.
+- 749, 129.
+- 750, 129.
+- 751, 130.
+- 752, 130.
+- 753, 131.
+- 754, 131.
+- 755, 131.
+- 756, 132.
+- 757, 132.
+- 758, 133.
+- 759, 133.
+- 760, 134.
+- 761, 134.
+- 762, 134.
+- 763, 134.
+- 764, 135.
+- 765, 135.
+- 766, 135.
+- 767, 136.
+- 768, 136.
+- 769, 136.
+- 770, 136.
+- 771, V, 522.
+- 772, I, 849. V, 523.
+- 773, V, 502.
+- [VI, 424] 774, V, 502.
+- 775, II, 381. f. IV, 673. 676. V, 526. 529. 759.
+- 776, V, 526.
+- 777, II, 382.
+- 778, V, 527.
+- 779, 527.
+- 780, III, 291. IV, 599.
+- 781, V, 527.
+- 782, 528.
+- 783, 528.
+- 784, 528.
+- 785, 528.
+- 786, 816.
+- 787, III, 291. V, 803.
+- 788, V, 765.
+- 789, 804.
+- 790, 768. 769.
+- 791, III, 331.
+- 792, 332.
+- 793, 333.
+- 794, V, 811.
+- 795, III, 168.
+- 798, 168.
+- 799, 169.
+- 800, V, 811.
+- 801, III, 287.
+- 802, 287.
+- 803, 38.
+- 804, 42.
+- 805, V, 355.
+- 806, 355.
+- 807, 356.
+- 808, 357.
+- 809, 358.
+- 810, 358.
+- 811, I, 93. 94. V, 359.
+- 812, 94. 95.
+- 813, 96.
+- 814, 99.
+- 815, 101.
+- 816, 102.
+- 817, V, 812.
+- 818, IV, 170.
+- 819, 171.
+- 820, 173.
+- 821, I, 107.
+- 822, V, 807.
+- 823, 808.
+- 824, II, 42.
+- 825, V, 261.
+- 826, III, 279. V, 824.
+- 827, V, 814.
+- 828, 522.
+- 829, 522.
+- 830, III, 210. V, 504.
+- 831, V, 504.
+- 832, I, 220.
+- 833, 220.
+- 834, III, 780. V, 815.
+- 835, V, 261.
+- 836, III, 367.
+- 838, V, 505.
+- 839, 506.
+- 840, 507.
+- 841, 508.
+- 842, 509.
+- 843, 510.
+- 844, 511.
+- 845, 511.
+- 846, 512.
+- 847, 512.
+- 848, 513.
+- 849, 513.
+- 850, 818.
+- 851, 549.
+- 852, 550.
+- 853, 670.
+- 854, 670.
+- 855, 670.
+- 856, 780.
+- 857, I, 862.
+- 858, II, 116.
+- 859, IV, 302.
+- 860, I, 819.
+- 861, 822.
+- 862, 823. IV, 132.
+- 863, 823.
+- 864, 825.
+- 865, IV, 139.
+- 866, V, 427. 757.
+- 867, 757.
+- 868, 165.
+- [VI, 425] 869, V, 166.
+- 870, I, 829.
+- 871, V, 781.
+- 872, II, 116.
+- 873, V, 781.
+- 874, I, 414. 497. II, 11. III, 162.
+- 875, II, 485.
+- 876, IV, 155.
+- 877, I, 452.
+- 878, II, 49.
+- 879, V, 781.
+- 880, II, 117.
+- 881, 117. 328.
+- 882, 118.
+- 883, IV, 635.
+- 884, II, 118.
+- 885, IV, 635.
+- 886, II, 118.
+- 887, 118.
+- 888, 119.
+- 889, IV, 636.
+- 890, II, 119.
+- 891, 119.
+- 892, 119.
+- 893, 119.
+- 894, 120.
+- 895, IV, 636.
+- 896, II, 120.
+- 897, 120.
+- 898, 120.
+- 899, 120.
+- 900, 120.
+- 901, 121.
+- 902, IV, 636.
+- 903, 636.
+- 904, 637.
+- 905, II, 121.
+- 906, 121.
+- 907, IV, 637.
+- 908, II, 121. III, 289.
+- 909, IV, 637.
+- 910, 637.
+- 911, II, 122.
+- 912, IV, 637.
+- 913, 638.
+- 914, II, 122.
+- 915, II, 123.
+- 916, 123.
+- 917, 124.
+- 918, 125.
+- 919, 125.
+- 920, 125.
+- 921, 125.
+- 922, 126.
+- 923, 127.
+- 924, 127.
+- 925, 127.
+- 926, 127.
+- 927, 128.
+- 928, 128.
+- 929, 128.
+- 930, 128.
+- 931, 128.
+- 932, 128.
+- 933, 129.
+- 934, I, 680.
+- 935, 682.
+- 936, 684.
+- 937, 684.
+- 938, 686.
+- 939, 670.
+- 940, 671.
+- 941, 671.
+- 942, 673.
+- 943, 675.
+- 944, 676.
+- 945, V, 781.
+- 946, 782.
+- 947, III, 505.
+- 948, ff. 506.
+- 949, 506.
+- 950, 506.
+- 951, ff. 507.
+- 953, IV, 251. V, 782.
+- 954, V, 782.
+- 955, 782.
+- 956, III, 507.
+- 957, V, 783.
+- 958, ff. III, 508.
+- 959, 508.
+- 960, 508.
+- 961, 47.
+- 962, 49.
+- [VI, 426] 963, V, 783.
+- 964, ff. III, 508.
+- 965, V, 783.
+- 966, III, 508.
+- 967, ff. 509.
+- 968, 509.
+- 969, 375.
+- 970, II, 972.
+- 971, IV, 174.
+- 972, 174.
+- 973, III, 509.
+- 974, 55.
+- 975, 57.
+- 976, V, 784.
+- 977, III, 376.
+- 978, 509.
+- 979, V, 784.
+- 980, III, 509.
+- 981, II, 678.
+- 982, 679.
+- 983, 680.
+- 984, 681.
+- 985, I, 521.
+- 986, II, 678.
+- 987, IV, 204.
+- 988, II, 681.
+- 989, 682.
+- 990, 683.
+- 991, V, 610.
+- 992, II, 683.
+- 993, 684.
+- 994, 684.
+- 995, 684.
+- 996, III, 138.
+- 997, 3.
+- 998, 510.
+- 999, 510.
+- 1000, 511.
+- 1001, I, 352.
+- 1002, V, 443.
+- 1003, 191.
+- 1004, 444.
+- 1005, 748.
+- 1006, ff. II, 297.
+- 1007, IV, 572. V, 841.
+- 1008, 573.
+- 1009, 576.
+- 1010, IV, 576.
+- 1011, 352.
+- 1012, II, 298.
+- 1013, 297.
+- 1014, 299.
+- 1015, 299.
+- 1016, IV, 263.
+- 1017, II, 299. IV, 279.
+- 1018, 300.
+- 1019, 300.
+- 1020, IV, 278.
+- 1021, 280.
+- 1022, 281.
+- 1023, 282.
+- 1024, 283.
+- 1025, 284.
+- 1026, 284.
+- 1027, 285.
+- 1028, 285.
+- 1029, 285.
+- 1030, 286.
+- 1031, 15. 288.
+- 1032, 289.
+- 1033, 292.
+
+M. II. W.
+
+- 1, IV, 577.
+- 2, II, 298.
+- 3, 292. 301.
+- 4, IV, 581.
+- 5, 279.
+- 6, 354.
+- 7, 354.
+- 8, 355.
+- 9, 356.
+- 11, III, 172.
+- 12, 172.
+- 13, 171. V, 321.
+- 14, 174.
+- 15, VI, 185.
+- 16, 186.
+- 17, III, 54. VI, 187.
+- 19, IV, 493.
+- 20, 354.
+- 21, III, 54.
+- 22, IV, 527.
+- 23, 528.
+- [VI, 427] 24, IV, 528.
+- 25, 529.
+- 26, III, 71. IV, 531.
+- 27, IV, 529.
+- 28, 530.
+- 29, I, 69. IV, 4. 530.
+- 30, IV, 531.
+- 31, I, 221. IV, 531.
+- 32, III, 661.
+- 33, VI, 188.
+- 34, IV, 530.
+- 35, 580.
+- 36, 580.
+- 37, 533.
+- 38, 533. V, 579.
+- 39, V, 323.
+- 40, 324.
+- 41, 324.
+- 42, IV, 580.
+- 43, 580.
+- 44, I, 221. IV, 355.
+- 45, IV, 356.
+- 46, 356.
+- 47, VI, 188.
+- 48, III, 450.
+- 49, 449.
+- 50, 452.
+- 51, 452.
+- 52, 455. 460.
+- 53, 455. 460.
+- 54, 451.
+- 55, 456. 460.
+- 56, II, 881.
+- 57, 882.
+- 58, III, 460.
+- 59, II, 882. III, 479.
+- 60, 882.
+- 61, 886.
+- 62, III, 462.
+- 63, 463.
+- 64, 464.
+- 65, 464. f.
+- 66, 457.
+- 67, 465.
+- 68, 468.
+- 69, 466.
+- 70, 466.
+- 71, III, 467.
+- 72, 468.
+- 73, 469.
+- 74, 469.
+- 75, 470.
+- 76, V, 608.
+- 77, III, 471.
+- 78, 471.
+- 79, VI, 188.
+- 80, 189.
+- 81, 189.
+- 82, 175.
+- 83, III, 472.
+- 84, IV, 524.
+- 85, III, 473.
+- 87, V, 282.
+- 88, VI, 332.
+- 89, 41.
+- 90, 332.
+- 91, I, 442. VI, 330.
+- 92, 443.
+- 93, 444.
+- 94, 444.
+- 95, 444.
+- 96, 443. 444.
+- 97, V, 97.
+- 98, 97.
+- 99, 98.
+- 100, 98.
+- 101, 98.
+- 102, IV, 532. V, 99.
+- 103, 582.
+- 104, V, 99.
+- 105, IV, 702.
+- 106, 359. V, 99.
+- 107, I, 445. V, 99.
+- 108, V, 100.
+- 109, 100.
+- 110, 100.
+- 111, 100.
+- 112, VI, 191.
+- 114, V, 102.
+- 116, I, 445.
+- 117, III, 265.
+- 118, 266.
+- 119, 266.
+- 120, 61. 267.
+- [VI, 428] 121, III, 269.
+- 122, 270.
+- 123, 270.
+- 124, VI, 191.
+- 125, 192.
+- 126, 192.
+- 127, II, 70.
+- 128, I, 446. II, 644.
+- 129, II, 645.
+- 130, 646.
+- 131, 646.
+- 132, III, 475.
+- 133, 476.
+- 134, 476.
+- 135, II, 646.
+- 136, 647.
+- 137, VI, 195.
+- 138, 196.
+- 139, V, 785.
+- 140, II, 647. III, 490.
+- 141, 648.
+- 142, 649.
+- 143, 650.
+- 144, I, 447. II, 650.
+- 145, II, 651.
+- 146, VI, 193.
+- 147, 194.
+- 148, 194.
+- 149, 195.
+- 150, 195.
+- 151, II, 649. III, 490.
+- 152, VI, 196.
+- 153, 197.
+- 154, II, 652.
+- 155, 653.
+- 156, 653.
+- 157, VI, 198.
+- 158, III, 476.
+- 159, VI, 199.
+- 160, III, 371. VI, 199.
+- 161, I, 483. II, 70. III, 477.
+- 162, 859. IV, 346.
+- 163, IV, 346.
+- 164, 347.
+- 165, 347.
+- 166, 347.
+- 167, III, 594.
+- 168, 594.
+- 170, II, 621. III, 175. 315.
+- 171, I, 850. III, 201.
+- 172, 354.
+- 174, III, 604.
+- 175, II, 379.
+- 176, III, 185.
+- 177, 302.
+- 179, II, 234. 238. 263. V, 760.
+- 181, 485.
+- 182, 486.
+- 183, III, 458.
+- 184, II, 487. III, 459.
+- 185, III, 459.
+- 186, 58.
+- 187, 58.
+- 188, V, 74.
+- 189, VI, 180.
+- 190, III, 45.
+- 191, ff. II, 647.
+- 192, 487.
+- 193, 487.
+- 194, VI, 21.
+- 195, 189.
+- 196, II, 624. 629.
+- 197, 638. 647.
+- 198, 80.
+- 199, V, 279.
+- 200, VI, 185.
+- 201, II, 486.
+- 202, 488.
+- 203, 488. 489.
+- 204, 489.
+- 205, 490. 647.
+- 206, 490. III, 60.
+- 207, III, 60.
+- 208, 61.
+- 209, II, 490.
+- 210, 490.
+- 211, 490.
+- 212, 490.
+- 213, 490.
+- 214, 491.
+- 215, 491.
+- [VI, 429] 216, II, 491.
+- 217, 491.
+- 218, VI, 184.
+- 219, IV, 449.
+- 220, VI, 182.
+- 221, IV, 408.
+- 222, 408.
+- 223, 409.
+- 224, 409.
+- 225, VI, 182.
+- 226, 183.
+- 227, 184.
+- 228, 184.
+- 229, II, 485.
+- 230, V, 650.
+- 231, 651.
+- 232, 651.
+- 233, 657.
+- 234, 654.
+- 235, III, 301.
+- 236, 302.
+- 237, 315.
+- 238, V, 640.
+- 239, III, 590.
+- 240, V, 650.
+- 242, IV, 869.
+- 243, III, 592.
+- 244, II, 791.
+- 245, ff. 792. IV, 227.
+- 246, III, 203.
+- 247, 203.
+- 248, 203. f.
+- 249, 205.
+- 250, I, 734.
+- 251, III, 206.
+- 252, 53.
+- 253, 208.
+- 254, 203. 210.
+- 255, 190.
+- 256, 597.
+- 257, 598.
+- 258, 600.
+- 259, 603.
+- 260, 605.
+- 261, V, 593.
+- 262, 594.
+- 263, 594.
+- 264, V, 595.
+- 265, 596.
+- 266, 598.
+- 267, III, 218.
+- 268, V, 567.
+- 269, 568.
+- 270, 570.
+- 271, 570.
+- 272, 572.
+- 273, 572.
+- 274, 573.
+- 275, 573.
+- 276, 575.
+- 277, 575.
+- 278, IV, 532.
+- 279, III, 782.
+- 280, V, 576.
+- 281, III, 258.
+- 282, V, 577.
+- 283, II, 736.
+- 284, 737. V, 243.
+- 285, V, 244.
+- 286, 244.
+- 287, 577.
+- 288, IV, 522.
+- 289, III, 259.
+- 290, IV, 524.
+- 291, V, 577.
+- 292, I, 525.
+- 295, II, 745. V, 760.
+- 296, III, 73.
+- 297, 70. 161.
+- 298, II, 39.
+- 299, 653.
+- 300, 636.
+- 301, 636. IV, 184.
+- 302, 635. 648.
+- 303, 974.
+- 305, 558.
+- 306, 560.
+- 307, VI, 270.
+- 308, 270.
+- 309, V, 823.
+- 310, 824.
+- 311, 810.
+- 312, III, 190.
+- 313, 191.
+- [VI, 430] 314, III, 190.
+- 315, 190.
+- 316, 191.
+- 317, 192.
+- 318, 193.
+- 319, 193.
+- 320, 193.
+- 321, 194.
+- 322, I, 819. III, 195.
+- 323, 295.
+- 324, 295.
+- 325, 295.
+- 326, 295.
+- 327, III, 68.
+- 328, 69.
+- 329, 68.
+- 330, 70.
+- 331, 196.
+- 332, 500.
+- 333, 501.
+- 334, 502.
+- 335, 503.
+- 336, 26.
+- 337, 26.
+- 339, IV, 670.
+- 340, II, 468. III, 137.
+- 341, 468. III, 23.
+- 342, I, 396. III, 138. 491.
+- 343, 772.
+- 344, 761.
+- 345, III, 138.
+- 346, 73.
+- 347, VI, 219.
+- 348, 335.
+- 349, 333.
+- 350, IV, 671.
+- 351, 671.
+- 352, 673.
+- 353, II, 239.
+- 354, IV, 675.
+- 355, III, 591.
+- 356, II, 6.
+- 357, III, 139.
+- 358, 139.
+- 359, 139.
+- 360, I, 202. III, 140.
+- 361, III, 595.
+- 362, I, 477. II, 685.
+- 363, II, 685.
+- 364, 686.
+- 365, 686.
+- 367, VI, 305.
+- 368, IV, 306.
+- 369, 294.
+- 370, 295.
+- 371, V, 579.
+- 372, 580.
+- 373, 327.
+- 374, 581.
+- 375, 581.
+- 376, III, 220.
+- 377, 220.
+- 378, II, 709.
+- 379, IV, 297.
+- 380, V, 582.
+- 381, VI, 39.
+- 382, 103.
+- 383, 17. 112.
+- 384, V, 760.
+- 385, IV, 688. f.
+- 386, V, 702.
+- 387, 702.
+- 388, 703.
+- 389, 705.
+- 390, 705.
+- 391, 706.
+- 392, 502. II, 658.
+- 393, I, 502.
+- 394, IV, 689.
+- 395, 690.
+- 396, 691.
+- 397, 691.
+- 398, 692.
+- 399, II, 736.
+- 400, 730.
+- 401, 725.
+- 402, 726.
+- 403, 726.
+- 404, 727.
+- 405, 728.
+- 406, 728.
+- 407, 729.
+- 408, V, 706.
+- [VI, 431] 409, V, 702.
+- 410, 707.
+- 411, 702.
+- 412, 707.
+- 413, 216.
+- 414, 708.
+- 415, 709.
+- 416, VI, 346.
+- 417, 353.
+- 418, IV, 709. VI, 354.
+- 419, V, 710.
+- 420, VI, 354.
+- 421, 355.
+- 422, 356.
+- 423, 356.
+- 424, VI, 357.
+- 425, 357.
+- 426, 357.
+- 427, 358.
+- 428, V, 712.
+- 429, IV, 739.
+- 430, V, 685.
+- 431, 688.
+- 432, 689.
+- 433, 690.
+- 434, 690.
+- 435, 693.
+- 436, II, 9.
+- 437, V, 705.
+- 438, 705. VI, 360.
+- 439, 713. VI, 360.
+- 440, VI, 361.
+- 441, V, 714.
+- 442, 267.
+- 443, II, 917.
+- 444, 918.
+- 445, 919.
+- 446, 919.
+- 447, I, 240.
+- 448, f. II, 284.
+- 449, I, 386.
+- 450, 237.
+- 451, 251.
+- 452, 237.
+- 453, 248.
+- 454, 238.
+- 455, III, 210.
+- 456, I, 237.
+- 457, 237.
+- 458, II, 893.
+- 459, V, 218.
+- 460, II, 920.
+- 461, I, 235.
+- 462, 235.
+- 463, 235.
+- 464, 85. II, 920.
+- 465, 239. II, 921.
+- 466, II, 921.
+- 467, 921.
+- 468, 921.
+- 469, V, 219.
+- 470, II, 922.
+- 471, 922.
+- 472, 922.
+- 473, 923.
+- 474, V, 219.
+- 475, II, 923.
+- 476, V, 220.
+- 477, II, 923.
+- 478, 924.
+- 479, 924.
+- 480, V, 220.
+- 481, VI, 357.
+- 482, 347.
+- 483, II, 925.
+- 484, 925.
+- 485, 925.
+- 486, 926.
+- 487, 927.
+- 488, V, 221.
+- 489, II, 927.
+- 490, 927.
+- 491, 927.
+- 492, 927.
+- 493, 457.
+- 494, 456. 928.
+- 495, 928.
+- 496, 928.
+- 497, 928.
+- 498, 929.
+- 499, 929.
+- 500, V, 222.
+- 501, II, 159.
+- 502, 161.
+
+[VI, 432]
+
+### M. II. W.
+
+- 503, II, 930.
+- 504, 930.
+- 505, 930.
+- 506, 931.
+- 507, 931.
+- 508, V, 222.
+- 509, II, 931.
+- 510, I, 85. II, 932.
+- 511, II, 932.
+- 512, 933.
+- 513, 466. 933.
+- 514, 933.
+- 515, IV, 433.
+- 516, 430.
+- 517, 437.
+- 518, V, 222.
+- 519, II, 935.
+- 520, 935.
+- 521, 936.
+- 522, 857.
+- 523, V, 224.
+- 524, II, 936.
+- 525, 937.
+- 526, V, 224.
+- 527, II, 223. 937.
+- 528, 937.
+- 529, 937.
+- 530, V, 225.
+- 531, II, 937.
+- 532, V, 225.
+- 533, II, 939.
+- 534, 368. V, 720.
+- 535, 369.
+- 536, 369.
+- 537, V, 826.
+- 538, 218.
+- 539, II, 369.
+- 540, 369.
+- 541, 366.
+- 542, III, 159.
+- 543, 159. 161.
+- 544, 160.
+- 545, 160.
+- 546, 161.
+- 547, 161.
+- 548, 159. V, 827.
+- 549, II, 370. V, 827.
+- 550, III, 164.
+- 551, 164.
+- 552, 165.
+- 553, V, 692.
+- 554, 693.
+- 555, VI, 315.
+- 556, 315.
+- 557, II, 373.
+- 558, 373.
+- 559, 224. 367.
+- 560, 224.
+- 561, 224. 366.
+- 562, 225. 370.
+- 563, 371.
+- 564, 372.
+- 565, 372.
+- 566, 374. VI, 303.
+- 567, 371.
+- 568, 374.
+- 569, IV, 48.
+- 570, V, 602.
+- 571, 828.
+- 572, 828.
+- 573, 828.
+- 574, 828.
+- 575, II, 370.
+- 576, V, 829.
+- 577, 830.
+- 578, II, 366.
+- 579, 374.
+- 580, V, 831.
+- 581, II, 374.
+- 582, V, 831.
+- 583, 831.
+- 584, 832.
+- 585, 832.
+- 586, 226.
+- 587, 226.
+- 588, II, 367.
+- 589, V, 226.
+- 590, 832.
+- 591, 604. 832.
+- 592, 604.
+- 593, 226. 604.
+- 594, 832.
+- 595, 227.
+- 596, 228.
+- [VI, 433] 597, V, 833.
+- 598, I, 188. II, 320. III, 870. 876.
+- 599, V, 833.
+- 600, 833.
+- 601, V, 834.
+- 602, 246.
+- 603, II, 233.
+- 604, V, 835.
+- 605, I, 749. V, 230.
+- 606, 750. V, 230.
+- 607, 751. II, 939.
+- 609, II, 940.
+- 610, 13.
+- 611, 13.
+- 612, 940.
+- 613, 940.
+- 614, 940.
+- 615, 898.
+- 616, 898.
+- 617, 941.
+- 618, 941.
+- 619, 941.
+- 620, 942.
+- 621, 898.
+- 622, 942.
+- 623, 942.
+- 624, 942.
+- 625, 999.
+- 626, 942.
+- 627, 900.
+- 628, 902.
+- 629, 167.
+- 630, 944.
+- 631, 944.
+- 632, 944.
+- 633, 945.
+- 634, 945.
+- 635, 167.
+- 636, 167.
+- 637, 168.
+- 638, 946.
+- 639, V, 298.
+- 640, 299.
+- 641, 299.
+- 642, II, 946.
+- 643, 895.
+- 644, II, 857. 895.
+- 645, IV, 244. V, 836.
+- 646, II, 857. 895.
+- 648, 895.
+- 649, 946.
+- 650, 947.
+- 651, 908.
+- 652, IV, 220.
+- 653, II, 910.
+- 654, 911.
+- 655, 911.
+- 656, 911.
+- 657, 911.
+- 658, 912.
+- 659, 912.
+- 660, 912.
+- 661, 913.
+- 662, 913.
+- 663, 914.
+- 664, III, 725.
+- 665, 726.
+- 666, 727.
+- 667, 728.
+- 668, 729.
+- 669, 734.
+- 670, 729.
+- 671, 730.
+- 672, 733.
+- 673, 733.
+- 674, 735.
+- 675, 735.
+- 676, 736.
+- 677, II, 863.
+- 678, V, 457.
+- 679, II, 866.
+- 680, 466. 867.
+- 681, 865.
+- 682, 865.
+- 683, 866.
+- 684, 867.
+- 685, 867. III, 369.
+- 686, 867. III, 369.
+- 687, 867. III, 369.
+- 688, 868.
+- 689, 868.
+- 690, 868.
+- 691, 869.
+- [VI, 434] 692, II, 831.
+- 693, 225.
+- 694, V, 795.
+- 695, 770.
+- 696, 771.
+- 697, II, 214.
+- 699, 832.
+- 700, 869.
+- 701, 870.
+- 702, 870.
+- 703, 870.
+- 704, III, 737.
+- 705, 738.
+- 706, 737.
+- 707, 738.
+- 708, 738.
+- 709, 739.
+- 710, 732.
+- 711, 731.
+- 712, V, 51.
+- 713, f., III, 730. IV, 45. 613.
+- 714, I, 709. 466. IV, 614.
+- 715, IV, 46. 54.
+- 716, II, 544.
+- 717, III, 740.
+- 718, 741.
+- 719, 744.
+- 720, IV, 381.
+- 721, III, 744. IV, 54.
+- 722, V, 739.
+- 723, 362.
+- 724, 362.
+- 725, IV, 382.
+- 726, II, 754.
+- 727, 754.
+- 728, 755.
+- 729, 755.
+- 730, 756.
+- 731, 756.
+- 732, 756.
+- 733, 947.
+- 734, V, 742.
+- 735, II, 136.
+- 736, 138.
+- 737, I, 296.
+- 738, I, 296. II, 138.
+- 739, 296. II, 139.
+- 740, 297. II, 948.
+- 741, II, 949.
+- 742, 949.
+- 743, 171. 950.
+- 744, 171. 951.
+- 745, 172. 952.
+- 746, 952.
+- 747, 173. 952.
+- 748, 953.
+- 749, I, 85. V, 825.
+- 750, V, 825.
+- 751, II, 492.
+- 752, 44.
+- 753, 46.
+- 754, 47.
+- 755, 492.
+- 756, 493.
+- 759, 954.
+- 760, V, 605.
+- 761, II, 903.
+- 762, 904.
+- 763, 904.
+- 764, 905.
+- 765, I, 273.
+- 766, 795.
+- 767, 796. 798.
+- 768, II, 613.
+- 769, 906.
+- 770, 906.
+- 771, 906.
+- 772, V, 808.
+- 773, II, 10.
+- 774, 11.
+- 775, 12.
+- 776, 955.
+- 777, V, 232.
+- 778, II, 955.
+- 779, 907.
+- 780, 956.
+- 781, IV, 383.
+- 782, II, 907.
+- 783, VI, 347.
+- 784, 347.
+- 785, 348.
+- 786, 349.
+- [VI, 435] 787, VI, 350.
+- 788, 352.
+- 789, 353.
+- 790, VI, 38.
+- 791, V, 225.
+- 792, 466.
+- 793, 467.
+- 794, 468.
+- 795, 468.
+- 796, 469.
+- 797, 469.
+- 798, VI, 328.
+- 799, II, 307.
+- 800, VI, 337.
+- 801, 337.
+- 802, VI, 102.
+- 803, 103.
+- 804, 337.
+- 805, 338.
+- 806, V, 470.
+- 807, VI, 338.
+- 808, 339.
+- 809, IV, 488.
+- 810, 488.
+- 811, 489.
+- 812, 490.
+- 813, 489.
+- 814, 490.
+- 815, 491.
+- 816, 491.
+- 817, 492.
+- 818, 493.
+- 819, V, 470.
+- 820, 471.
+- 821, IV, 169.
+- 822, V, 472.
+- 823, 473.
+- 824, 473.
+- 825, IV, 704.
+- 826, V, 473.
+- 827, 473.
+- 828, 474. f.
+- 829, 475.
+- 830, 476.
+- 831, 476.
+- 832, 715.
+- 833, 720.
+- 834, I, 297.
+- 835, 297.
+- 836, 297.
+- 837, V, 720.
+- 838, 721.
+- 839, 721.
+- 840, 721.
+- 841, I, 298.
+- 842, 298.
+- 843, V, 477.
+- 844, VI, 354.
+- 845, V, 477.
+- 846, 465.
+- 847, 465.
+- 848, I, 752. II, 309. 550. 561. III, 398. IV, 856.
+- 849, V, 478.
+- 850, 478.
+- 851, II, 561.
+- 852, IV, 181.
+- 853, II, 561.
+- 854, 561.
+- 855, 562.
+- 856, V, 501.
+- 857, 501.
+- 858, 474.
+- 859, 474.
+- 860, 737.
+- 861, 737.
+- 862, V, 478.
+- 863, IV, 602.
+- 864, 601.
+- 865, 602.
+- 866, 602.
+- 867, 603.
+- 868, 604.
+- 869, 604.
+- 870, 605.
+- 871, 606.
+- 872, 607.
+- 873, 608.
+- 874, VI, 339.
+- 875, V, 721.
+- 876, 709.
+- 877, 722.
+- 878, VI, 18.
+- [VI, 436] 879, V, 722.
+- 880, 722.
+- 881, VI, 15.
+- 882, 16.
+- 883, 17.
+- 884, 340.
+- 885, 340.
+- 886, 340.
+- 887, 341.
+- 888, 341.
+- 889, I, 298.
+- 890, VI, 342.
+- 892, II, 294.
+- 893, V, 479.
+- 894, 479.
+- 895, 479.
+- 896, 479.
+- 897, VI, 342.
+- 898, 342.
+- 899, 342.
+- 900, 342.
+- 902, I, 336.
+- 903, VI, 343.
+- 904, 343.
+- 905, 344.
+- 906, IV, 454.
+- 907, I, 335. II, 463.
+- 908, II, 464. 465.
+- 910, I, 719.
+- 911, VI, 359.
+- 912, 359.
+- 913, II, 316.
+- 914, 317.
+- 915, VI, 168.
+- 916, 168.
+- 917, 168.
+- 918, 169.
+- 919, 169.
+- 920, 169.
+- 921, 170.
+- 922, III, 63.
+- 923, 64.
+- 924, VI, 170.
+- 925, II, 880.
+- 926, VI, 171.
+- 927, II, 312.
+- 928, 318.
+- 929, II, 318.
+- 930, 318.
+- 931, 318.
+- 932, IV, 599.
+- 933, 599.
+- 934, 600.
+- 935, 608.
+- 936, 609.
+- 937, III, 135.
+- 938, IV, 609.
+- 939, 609.
+- 940, 610.
+- 941, 611.
+- 942, 611.
+- 943, II, 447.
+- 946, 447.
+- 947, 448.
+- 948, 448.
+- 949, 448.
+- 950, 448.
+- 951, V, 480.
+- 952, 480.
+- 953, II, 318. V, 480.
+- 954, II, 318.
+- 955, 319.
+- 956, 319.
+- 957, 319.
+- 958, IV, 370.
+- 959, 371.
+- 960, 371.
+- 961, 372.
+- 962, 373.
+- 963, 374.
+- 964, 373.
+- 965, 374.
+- 966, 375.
+- 967, 376.
+- 968, 376.
+- 969, 377.
+- 970, 377.
+- 971, 77.
+- 972, I, 659.
+- 973, 661.
+- 974, 661.
+- 975, 665.
+- 976, 666.
+- 977, 667.
+- [VI, 437] 978, I, 667.
+- 979, 668.
+- 980, V, 843.
+- 981, 844.
+- 982, IV, 211.
+- 983, V, 489. f.
+- 984, III, 32.
+- 985, 34.
+- 986, V, 847.
+- 987, 847.
+- 988, 849.
+- 989, 849.
+- 990, 824.
+- 992, 849.*)
+- 993, I, 843. V, 849.*)
+- 994, V, 848.
+- 995, IV, 414.
+- 996, V, 483.
+- 997, 483.
+- 998, 484. IV, 415.
+- 999, 485.
+- 1000, 486. IV, 632.
+- 1002, V, 117.
+- 1003, 848.
+- 1004, 848.
+
+### N
+
+- I, IV, 423.
+- III, 400. VI, 171.
+- IV, f., III, 662. IV, 400. 418. 424. 591.
+- V, IV, 157. 424.
+- VI, 157. 417. 424. f.
+- VII, f., II, 362. IV, 130. 425. 573.
+- VIII, IV, 93. 156.
+- IX, III, 662. f. IV, 157. f. 280. 336.
+- X, f., 662. IV, 158. 593.
+- XI, IV, 426. 727.
+- XII, III, 664.
+- XIII, IV, 93. 274.
+- XV, III, 531. IV, 159. VI, 25.
+- XVI, II, 336.
+- XVII, V, 665. f.
+- XVIII, III, 570. IV, 93.
+- XIX, II, 342. V, 662.
+- XX, III, 535. IV, 589.
+- XXI, II, 176. 260. IV, 176. 569.
+- XXII, VI, 365.
+- XXIII, IV, 855.
+- 1, ff., I, 569. III, 163. IV, 836.
+- 2, f., 572. II, 282. IV, 126. 837.
+- 3, 573.
+- 4, 570.
+- 5, 571. 573. IV, 501.
+- 6, 571. 597. 599. 600. 602.
+- 7, 586. 588. 596. 567.
+- 8, 495.
+- 9, 572. 590.
+- 10, ff., 519. 578. V, 139.
+- 13, I, 519. 591. 823. V, 139.
+- 14, 592. 593. III, 669.
+- 15, 596. 603.
+- 16, 596. 604.
+- 17, 592. 607.
+- 18, f., 610. III, 151. 163.
+- 20, 610. 611. II, 145.
+- 21, 612.
+- 22, 613.
+- 23, 614.
+- 24, 615.
+- 25, 616. 823. III, 37.
+- 28, I, 619. 620.
+- 29, 599. 620.
+- 30, III, 533.
+- 31, ff., 622. II, 177. V, 612.
+
+[VI, 438]
+
+### N. W.
+
+- 32, IV, 94. f. 177. V, 612.
+- 33, f., I, 302. 623. II, 144. 178. III, 670. V, 612. 613.
+- 34, III, 673.
+- 35, I, 623. III, 674. IV, 95. VI, 306.
+- 36, III, 674.
+- 37, II, 260.
+- 38, f., 175. III, 675. IV, 96. V, 614.
+- 39, IV, 96. f.
+- 40, II, 366. IV, 103. V, 615. f.
+- 41, I, 624. III, 676. V, 616.
+- 42, III, 771. V, 414. V, 500.
+- 43, I, 781.
+- 44, 781.
+- 45, f., IV, 788.
+- 46, II, 258.
+- 47, ff., IV, 789.
+- 49, ff., 790.
+- 51, III, 823.
+- 52, I, 302.
+- 53, 304.
+- 54, 305.
+- 56, IV, 130.
+- 57, II, 155. 156. IV, 130.
+- 58, VI, 172.
+- 59, I, 306. 550. 552.
+- 60, 306. 552.
+- 61, 308. III, 167. 170.
+- 63, 312.
+- 67, 312. II, 176.
+- 68, 312.
+- 69, f., VI, 307.
+- 70, I, 313.
+- 71, 313. 381. III, 147. VI, 316.
+- 72, I, 316. VI, 308.
+- 73, f., VI, 309.
+- 74, f., 311.
+- 75, f., 309.
+- 76, f., 311.
+- 77, ff., 313.
+- 80, II, 262. III, 534. VI, 313.
+- 81, 178.
+- 82, f., IV, 828.
+- 84, f., 831.
+- 85, I, 779. VI, 314.
+- 86, II, 96. 97. III, 157.
+- 87, f., III, 248. VI, 309. 316.
+- 88, f., II, 578. 612. V, 95. f.
+- 89, III, 654. V, 376.
+- 91, II, 612.
+- 92, V, 97.
+- 93, 97.
+- 94, II, 256. 257. 260. 261.
+- 95, ff., I, 403. 404. 625. 755. II, 176.
+- 96, 408.
+- 99, f., V, 615.
+- 100, I, 373.
+- 101, 374. 376. 373.
+- 103, II, 93. 100.
+- 104, f., I, 381. VI, 314.
+- 105, IV, 832.
+- 106, I, 625. 626. IV, 111. 177.
+- 108, 784. IV, 113.
+- 109, 627. IV, 114.
+- 112, f., IV, 72.
+- 113, f., 115.
+- 114, f., 116.
+- 116, I, 391.
+- 117, ff., 328. IV, 119.
+- 118, III, 368.
+- 119, I, 391. 627. III, 368. V, 541. 544.
+
+[VI, 439]
+
+### N. W.
+
+- 120, f., I, 628. III, 771. f. V, 542.
+- 121, 391. II, 793. V, 541. 544. 547.
+- 122, II, 799.
+- 128, f., 800.
+- 129, f., 802. III, 608. V, 541.
+- 130, f., 802.
+- 131, f., 793.
+- 132, f., 803. f. V, 542.
+- 133, f., III, 535. V, 540.
+- 134, I, 553. V, 348. f.
+- 135, V, 350.
+- 136, III, 243. 246.
+- 138, f., I, 633. IV, 126. 317.
+- 139, 633.
+- 140, f., 634.
+- 141, f., 635.
+- 142, 635. 637. 638.
+- 144, 639. 642.
+- 145, 633. 642. 643.
+- 146, ff., 637.
+- 148, 509. 512.
+- 149, f., 637. 639.
+- 150, 642.
+- 152, 639.
+- 153, 644. 645.
+- 154, ff., 647. IV, 833.
+- 156, ff., IV, 834.
+- 157, f., 834.
+
+### P
+
+- 3, I, 859. IV, 346.
+- 4, II, 640. IV, 346. f. 453. b. V, 640.
+- 5, f., IV, 347.
+- 6, I, 476. III, 197.
+- 7, IV, 347.
+- 8, II, 745. III, 594.
+- 9, III, 301.
+- 10, 594.
+- 13, ff., 315.
+- 14, II, 621. III, 175.
+- 15, I, 850. III, 201.
+- 16, III, 772. IV, 42. V, 267.
+- 17, IV, 44. VI, 177.
+- 18, I, 354.
+- 20, f., III, 604.
+- 21, IV, 534. VI, 118.
+- 22, I, 321. IV, 667. 674. 676.
+- 23, 321. II, 379. V, 758.
+- 24, II, 293. III, 14.
+- 25, III, 185.
+- 26, 301. V, 579.
+- 27, 302.
+- 29, f., V, 760.
+- 31, II, 234. 238. 263.
+- 35, 485. 486. IV, 452. V, 79.
+- 36, 381.
+- 37, 880. III, 455. f.
+- 38, 487. 789. III, 453. f.
+- 39, 790. IV, 715.
+- 40, f., III, 58.
+- 41, II, 790. V, 74.
+- 43, f., 331.
+- 45, f., III, 44. V, 278.
+- 46, II, 880. III, 45.
+- 47, f., V, 279.
+- 48, II, 457.
+- 49, VI, 21.
+- 50, 189.
+- 51, II, 624. 629. 638. 647.
+- 52, 80. 292. 792.
+- 54, II, 486. 621.
+- 55, ff., 488. VI, 185.
+- 56, f., 489. III, 451.
+- 57, V, 733.
+- 58, f., I, 445. II, 490. 647. III, 258. 263. V, 582. f.
+- 59, 446. III, 265.
+- 60, f., III, 60.
+- 61, f., 61.
+- 62, f., 62.
+- [VI, 440] 63, II, 490.
+- 64, 490. III, 655. 658.
+- 65, 490. 491. 734.
+- 67, f. 491. III, 66.
+- 68, 491. III, 67.
+- 69, III, 326.
+- 70, II, 491. 879. V, 456. VI, 41. 42. 43. 44.
+- 72, VI, 172.
+- 73, IV, 449.
+- 74, III, 268. IV, 408. VI, 182.
+- 75, f. 197 IV, 393. 408 f.
+- 77, f. II, 377. 639. IV, 409. VI, 182. f.
+- 78, f. I, 859. II, 189. IV, 9. VI, 184.
+- 80, II, 37. 485.
+- 81, 336. III, 170. V, 650.
+- 82, f. V, 651.
+- 83, I, 223. II, 239.
+- 84, II, 637.
+- 85, ff. IV, 453 b. V, 657.
+- 86, f. I, 476.
+- 87, f. 473. V, 654.
+- 88, ff. III, 301.
+- 89, f. 14.
+- 90, ff. 302.
+- 91, V, 760.
+- 92, III, 315.
+- 93, II, 40. 400. V, 640.
+- 94, f. 114. III, 590.
+- 95, f. III, 301. V, 650.
+- 97, I, 476. II, 745. III, 777.
+- 98, f. III, 301 IV, 451. b 869.
+- 99, 592.
+- 100, ff. I, 501. II, 791.
+- 101, ff. 728. II, 792. III, 201.
+- 102, II, 758.
+- 103, f. I, 732. II, 310. III, 203. V, 600.
+- 104, f. 732. III, 103. f. V, 601.
+- 105, f. 733. III, 205. V, 599.
+- 106, 734. III, 206.
+- 107, f. III, 53. V, 841.
+- 108, 54.
+- 109, f. 208.
+- 110, ff. 201. 210.
+- 111, IV, 174.
+- 112, III, 190.
+- 113, f. 189. f.
+- 114, f. II, 380. III, 597.
+- 115, f. III, 598.
+- 116, IV, 538.
+- 117, III, 600. V, 640.
+- 118, f. 605.
+- 119, f. II, 291. V, 716.
+- 120, f. 291. III, 213. V, 187. 717.
+- 121, f. 220. V, 594.
+- 122, V, 187. 591. 595. 723. VI, 304.
+- 123, IV, 174. V, 591.
+- 124, f. 768. V, 596. 598.
+- 125, 273.
+- 126, III, 218. V, 793.
+- 127, f. 218. V, 566. f. 794.
+- 128, f. V, 568.
+- 129, II, 211. 212. III, 46. V, 279. 284. VI, 207.
+- 130, ff. V, 280. 570.
+- 131, f. II, 212. IV, 515. V, 277.
+- 132, 51. V, 278.
+- 133, I, 57. 254. f. II, 51. IV, 516. V, 570. f.
+- 134, 58. 60.
+- [VI, 441] 135, I, 58. 60. IV, 3. V, 572. f.
+- 136, 58.
+- 137, 57. 58. V, 573.
+- 138, 54. 57.
+- 139, ff. 54. 57 V, 575.
+- 140, 254. f. II, 51. IV, 452. b.
+- 141, f. 54. III, 492. 496. V, 575.
+- 142, 54.
+- 143, f. 55. 733. IV, 532.
+- 144, 60. III, 495. 281. f.
+- 145, f. 61. V, 576.
+- 146, 61. III, 258. V, 577.
+- 147, f. 61. 63. II, 735. IV, 5.
+- 148, ff. 63. II, 736.
+- 149, 63. III, 258. 370. VI, 328.
+- 150, ff. 63. 64. II, 737. III, 258. V, 245.
+- 151, 64. III, 258. IV, 531.
+- 152, 64. II, 184.
+- 153, f. V, 243. f.
+- 154, 577.
+- 155, III, 259. IV, 521.
+- 156, f. IV, 522. 524.
+- 157, II, 67. IV, 528. V, 732.
+- 158, I, 58. V, 577.
+- 159, 525. V, 760.
+- 162, f. 745. V, 760.
+- 165, III, 73.
+- 166, f. 70. 161.
+- 167, II, 39.
+- 168, 652.
+- 169, f. 653.
+- 170, f. 636.
+- 171, ff. 636.
+- 172, IV, 182.
+- 173, IV, 182. 184.
+- 174, II, 635. 648.
+- 175, f. 974.
+- 176, I, 154.
+- 177, V, 300. 304.
+- 180, ff. II, 558. f.
+- 182, 559.
+- 183, f. 560.
+- 184, VI, 279.
+- 185, V, 823.
+- 186, 428.
+- 187, III, 662.
+- 189, V, 79.
+- 190, 824.
+- 192, II, 746.
+- 194, 746. III, 190. f.
+- 196, III, 192. IV, 695.
+- 197, 191.
+- 198, f. 192. VI, 44.
+- 199, f. II, 242. III, 55. f. 57. V, 744. 745.
+- 200, 331. III, 193.
+- 201, III, 193. f.
+- 202, 195.
+- 204, I, 295.
+- 205, f. 295.
+- 206, 295.
+- 207, IV, 453. b.
+- 208, III, 69.
+- 209, ff. II, 41. 574.
+- 210, f. I, 567. III, 70.
+- 211, III, 68.
+- 212, II, 631.
+- 213, f. III, 782. V, 583.
+- 214, 57. 70.
+- 215, f. 501.
+- 216, 501. IV, 675.
+- 217, f. II, 333. III, 502.
+- 218, f. III, 503.
+- 219, f. 26. IV, 669.
+- 220, ff. 259. IV, 668. 670. V, 641.
+- 221, IV, 716.
+- 222, III, 259.
+- 223, 137. 259.
+- 224, II, 469. III, 25.
+- [VI, 442] 225, I, 396. III, 491.
+- 226, f. 473-476. III, 34. 91. 138.
+- 227, 772.
+- 228, f. II, 331. VI, 117.
+- 229, I, 756. 761. 768. 769.
+- 230, 757. 764. 766. 767. II, 332. V, 789.
+- 231, 762. V, 632. VI, 43.
+- 232, 763.
+- 233, f. III, 91. 138. V, 115. 117. f. 157.
+- 234, f. 72. f. 74. IV, 695. VI, 219.
+- 235, ff. V, 117. f. VI, 119. 334.
+- 236, f. II, 201. 819.
+- 237, VI, 333.
+- 238, f. I, 704. II, 654. IV, 671.
+- 239, IV, 673.
+- 240, f. I, 476. II, 239. 654.
+- 241, IV, 675.
+- 243, II, 240. 654. 746.
+- 244, I, 382. V, 822.
+- 245, f. II, 746. III, 591.
+- 246, I, 282. II, 2. 753. V, 119.
+- 247, f. II, 3. 4. 6. 113. III, 157.
+- 248, f. III, 139. V, 520.
+- 249, 139.
+- 250, V, 163.
+- 252, II, 816. III, 139. f. IV, 594.
+- 253, I, 202. 477. III, 140.
+- 254, 228.
+- 255, ff. II, 685.
+- 256, I, 477. 478. III, 595.
+- 257, 477.
+- 258, II, 732. 830.
+- 259, 685.
+- 260, f. 685.
+- 261, 686.
+- 262, 686.
+- 264, ff. III, 46. VI, 305.
+- 269, II, 233. 234. III, 782. 784. f. IV, 293. f. 306.
+- 270, III, 781.
+- 271, f. IV, 295.
+- 272, V, 579.
+- 275, f. 580.
+- 276, II, 184.
+- 277, ff. V, 50.
+- 278, 50.
+- 280, f. 581.
+- 281, III, 196.
+- 282, 220.
+- 283, 220. 259.
+- 284, II, 709.
+- 285, ff. IV, 297.
+- 286, V, 228.
+- 287, II, 643.
+- 288, III, 272. V, 582. VI, 39.
+- 290, f. VI, 39. 108.
+- 291, f. 112.
+
+Pr. W.
+
+- 3, IV, 717.
+- 4, 274.
+- 6, 717.
+- 7, III, 300. V, 649.
+- 8, II, 68. III, 13.
+- 9, f. III, 302. IV, 719.
+- 10, f. 310.
+- 12, f. 312.
+- 13, 313.
+- 14, II, 41.
+- 15, f. III, 316. IV, 718.
+- 16, f. IV, 719.
+- 18, III, 297.
+- 20, ff. IV, 719.
+- 23, f. 264. VI, 202.
+- [VI, 443] 24, f. I, 190. II, 381. IV, 593. 727. VI, 205.
+- 25, 192. 201. II, 405. 382. V, 433.
+- 26, 192. II, 406.
+- 27, f. 352 IV, 133. 758. VI, 203.
+- 28, f. IV, 134. V, 434.
+- 29, V, 435.
+- 30, I, 190.
+- 31, 193. 470.
+- 33, 391. V, 160.
+- 34, ff. III, 302. V, 435.
+- 36, 297. IV, 266. V, 412.
+- 37, V, 412. 436.
+- 38, I, 863.
+- 39, f. V, 436.
+- 40, II, 337. V, 436.
+- 41, ff. I, 385. V, 446. VI, 180.
+- 42, 388. V, 437.
+- 43, 389.
+- 44, 394.
+- 46, V, 550.
+- 47, I, 392. II, 22.
+- 48, ff. 291.
+- 49, 319.
+- 50, ff. 266.
+- 52, ff. 83.
+- 53, f. IV, 792.
+- 54, ff. II, 404. IV, 793.
+- 55, IV, 800.
+- 56, ff. 807 809.
+- 58, 811. f.
+- 59, ff. 820.
+- 61, II, 402.
+- 62, f. I, 133. 780. II, 404. III, 389. 398. IV, 821.
+- 63, 780. 782. II, 403. III, 393. 397.
+- 64, f. 784. II, 402. III, 389. 395.
+
+Pr. W.
+
+- 65, I, 793. II, 402. V, 173.
+- 66, ff. V, 177. VI, 269.
+- 67, 175.
+- 69, 178.
+- 70, I, 543. 547.
+- 71, 782. III, 413. IV, 393.
+- 73, IV, 393.
+- 74, 393.
+- 75, III, 378. IV, 394.
+- 77, II, 348. 346. 350.
+- 78, 349.
+- 79, 351.
+- 80, 351. V, 534.
+- 81, 346. 360. 401.
+- 82, 352.
+- 85, 354. III, 179. V, 669.
+- 86, 337. 358. 698.
+- 87, 338. 347. 359.
+- 88, 55. 339. 361. 406.
+- 89, I, 17. II, 340. 342. 361. V, 65.
+- 90, II, 362. III, 177. V, 667.
+- 91, f. I, 453. II, 341. 363. III, 156. IV, 739.
+- 92, 481. II, 341. 364.
+- 93, II, 345.
+- 95, 287.
+- 96, I, 156.
+- 97, ff. V, 409. 653.
+- 98, II, 849.
+- 100, III, 313. V, 644.
+- 101, 179.
+- 102, 314.
+- 104, I, 141. II, 401. 402.
+- 105, 141.
+- 107, IV, 452.
+- 108, f. V, 248. VI, 11.
+- 109, III, 580 V, 249.
+- [VI, 444] 110, III, 586. IV, 394. V, 315. f.
+- 111, 536. IV, 395. 401. V, 316.
+- 112, I, 4. 871. IV, 395.
+- 113, III, 581. IV, 396.
+- 117, f. V, 789.
+- 118, I, 367.
+- 119, 367. IV, 350. VI, 270.
+- 120, II, 365. III, 573.
+- 122, 112. III, 536. IV, 510.
+- 123, I, 470. III, 540. IV, 91. 682. V, 61.
+- 125, IV, 412.
+- 126, II, 234. V, 603. 794. 795.
+- 127, V, 173. 603.
+- 128, 603.
+- 129, f. 794. 806.
+- 130, \*) 680. 801.
+- 131, II, 231.
+- 132, V, 799.
+- 133, IV, 448.
+- 134, f. V, 519. 603. 800. \*)
+- 136, f. I, 38. V, 261.
+- 137, 518. V, 260. 412.
+- 138, 518. V, 260. 416.
+- 140, 781.
+- 141, 780. II, 78.
+- 142, f. VI, 133. 145.
+- 143, 139.
+- 145, f. 140. 143.
+- 146, 144.
+- 147, f. 268.
+- 148, 152.
+- 149, V, 494.
+- 150, 428.
+- 151, II, 636. f.
+- 152, f. 637. f. V, 656.
+- 153, II, 639. 642. f. V, 348.
+- 154, f. 639. 642. f.
+- 155, 640.
+- 156, 638.
+- 159, V, 603.
+- 161, 810.
+- 162, 810. VI, 336.
+- 163, f. VI, 267. 269.
+- 164, V, 772.
+- 165, II, 231. V, 774.
+- 166, f. III, 162. V, 774.
+- 167, 483.
+- 168, f. V, 775.
+- 169, 801.
+- 170, f. 776.
+- 171, ff. 522.
+- 172, VI, 11.
+- 173, f. I, 282. III, 318. V, 502. 528.
+- 174, 282. V, 603.
+- 175, V, 505.
+- 176, f. 505.
+- 177, ff. III, 317. 778.
+- 180, ff. V, 779.
+- 182, 779.
+- 183, III, 162. V, 603. 780.
+- 184, ff. II, 549. V, 818.
+- 185, f. 548. IV, 76. V, 819.
+- 192, V, 810.
+- 196, f. VI, 21.
+- 197, ff. IV, 33. VI, 20. 21.
+- 198, f. VI, 20.
+- 204, II, 234. V, 603.
+- 205, I, 140. III, 395. 398. f.
+- 206, III, 396.
+- 207, f. I, 547. III, 397.
+
+R. W.
+
+- IV, III, 208.
+- V, ff. IV, 365.
+- VIII, f. III, 284.
+- IX, ff. IV, 370. V, 127.
+- [VI, 445] X, f. II, 314. V, 127.
+- XI, 315. 318. III, 200.
+- XIII, 319.
+- XIX, V, 127.
+- XX, ff. 129.
+- XXII, 129.
+- 3, IV, 228.
+- 4, f. 228. 230.
+- 5, f. 218. 228.
+- 6, ff. 403.
+- 7, 173. 192. 73.
+- 8, 403.
+- 9, f. III, 760. ff. IV, 659.
+- 10, I, 66. III, 765. IV, 660.
+- 11, 65. III, 764. IV, 661. 663.
+- 12, f. III, 200. IV, 218.
+- 13, I, 242. III, 229. 766.
+- 14, 243.
+- 15, 243. 244.
+- 16, f. 244. 245. III, 753. IV, 181.
+- 17, f. 246. III, 754.
+- 18, 242.
+- 19, III, 200 IV, 691. \*) f. VI, 289.
+- 20, f. 222.
+- 21, f. II, 749. 858. III, 223. 261. 263.
+- 22, 749. V, 633.
+- 23, f. III, 224. IV, 221. f.
+- 24, f. 225. V, 488.
+- 25, 225. 749. V, 489.
+- 26, f. IV, 219. V, 391.
+- 27, ff. III, 225. 227.
+- 31, f. 228.
+- 32, f. 228.
+- 33, f. 229.
+- 34, f. V, 606.
+- 35, III, 230. V, 633.
+- 36, 749. f.
+- 38, f. V, 659.
+- 39, V, 488. f. 657.
+- 40, ff. 657.
+- 41, \*) 660.
+- 42, III, 230.
+- 43, ff. 230. 232. V, 661.
+- 45, I, 247.
+- 46, ff. III, 232. f. VI, 290.
+- 47, f. I, 431. II, 831. V, 66.
+- 48, f. III, 84.
+- 49, ff. I, 247. ff. III, 85. VI, 290.
+- 50, V, 279.
+- 51, 280.
+- 52, 325. VI, 219.
+- 53, f. III, 86.
+- 54, f. 87.
+- 55, ff. 88.
+- 56, ff. 89.
+- 58, II, 79. 81. 651. IV, 678. 680.
+- 59, ff. III, 90. 881.
+- 60, 881.
+- 61, ff. 90. 188.
+- 63, f. 18.
+- 64, II, 811. III, 74. 83. 91.
+- 67, VI, 290.
+- 70, III, 660.
+- 73, IV, 212.
+- 79, III, 881.
+- 81, I, 285. V, 193.
+- 84, V, 50.
+- 86, III, 64.
+- 89, f. III, 611.
+- 94, ff. V, 42. ff.
+- 95, I, 125.
+- 101, ff. V, 46.
+- 103, ff. 46.
+- 106, I, 437.
+- 107, 437.
+- 115, 568.
+- 116, f. VI, 221.
+- 117, IV, 455.
+- 118, f. 502. VI, 221.
+- [VI, 446] 119, III, 17. VI, 153.
+- 120, f. IV, 411. VI, 222.
+- 121, f. VI, 222.
+- 122, V, 379.
+- 123, **) VI, 224.
+- 124, III, 18.
+- 127, IV, 424.
+- 128, 429. f.
+- 129, f. II, 958. f.
+- 130, V, 104.
+- 131, II, 959. IV, 428. VI, 325.
+- 132, f. 959.
+- 133, f. 960.
+- 134, f. IV, 430. VI, 327.
+- 135, VI, 321. 324.
+- 137, V, 5. 49.
+- 138, 167.
+- 139, 79.
+- 141, 104.
+- 142, ff. III, 611. 614.
+- 143, II, 245.
+- 145, ff. III, 615. 619.
+- 147, f. V, 76.
+- 148, f. 77.
+- 152, IV, 703.
+- 153, f. III, 42. f.
+- 154, 619. 635.
+- 155, 608. 620. 635.
+- 156, 609. 612. IV, 502.
+- 157, ff. I, 432. III, 620.
+- 161, f. 433.
+- 162, 419. 426.
+- 164, f. 435.
+- 167, f. III, 621.
+- 168, f. II, 676. f.
+- 171, III, 643.
+- 173, 641.
+- 174, 146. V, 632.
+- 179, f. 614.
+- 181, f. 648.
+- 182, f. 622. 649. 716.
+- 184, f. 623.
+- 185, 711. f.
+- 186, f. 624.
+- 188, f. 650.
+- 189, f. III, 650. f.
+- 190, 652.
+- 191, 272. 276.
+- 192, f. 272. V, 364. f.
+- 193, 272.
+- 197, ff. 625.
+- 200, I, 282.
+- 202, ff. III, 621. V, 105.
+- 204, 622.
+- 205, f. V, 105.
+- 206, ff. II, 825. V, 105.
+- 207, 812.
+- 208, I, 523. II, 813.
+- 209, II, 814. f.
+- 210, 815.
+- 211, 816. f.
+- 212, 818.
+- 213, 819.
+- 214, 820.
+- 215, I, 549.
+- 216, f. II, 821.
+- 217, ff. 822. f.
+- 218, 824.
+- 219, f. 824.
+- 220, 826.
+- 221, VI, 219.
+- 226, III, 614. 626.
+- 227, ff. I, 776. III, 627.
+- 229, 107. 108. III, 91. V, 115.
+- 231, IV, 763. V, 130. f.
+- 232, f. 768. V, 130. ff. 422.
+- 235, f. V, 130.
+- 237, I, 471. II, 851. f.
+- 238, f. II, 851. III, 628.
+- 239, III, 628.
+- 240, f. II, 209.
+- 247, IV, 455. V, 130.
+- 248, III, 629.
+- 249, I, 774.
+- 250, 110. 775. III, 629.
+- 251, 472. 521. III, 630.
+- 254, III, 630.
+- 255, f. V, 167.
+- [VI, 447] 256, II, 201. VI, 87.
+- 257, I, 286.
+- 259, 287.
+- 260, 111. 204. 287.
+- 262, 111.
+- 263, 111.
+- 264, 112.
+- 266, f. IV, 406. V, 246.
+- 267, ff. I, 31. V, 247.
+- 269, III, 637.
+- 270, I, 112. 115. III, 631.
+- 271, 116.
+- 273, 116. II, 579. f.
+- 275, 117. 399.
+- 276, 117. II, 579. III, 631.
+- 278, 118. III, 630.
+- 279, 248. V, 117.
+- 281, 118. II, 978. III, 143. IV, 410.
+- 282, ff. 116. III, 141. 143. 145.
+- 283, 119.
+- 284, 120.
+- 286, 120. 205.
+- 287, f. II, 964. 976 978.
+- 288, I, 472. 753. II, 964. 978. f.
+- 289, II, 979.
+- 290, f. 980.
+- 291, ff. 981.
+- 295, IV, 456. f.
+- 296, f. I, 115. III, 75. f.
+- 297, f. III, 76.
+- 298, f. 77. f.
+- 299, f. I, 787. 788. II, 720. III, 633.
+- 300, ff. 793. II, 580. V, 459. f.
+- 301, III, 17. 79.
+- 302, II, 719. f. III, 17. 83.
+- 303, 720. 721.
+- 304, 722.
+- 305, 722. f.
+- 306, f. II, 721. III, 635.
+- 307, I, 204. II, 725.
+- 308, 205. III, 631. 633.
+- 309, f. III, 634.
+- 310, I, 793. V, 459.
+- 311, f. III, 81.
+- 312, f. 82.
+- 313, f. II, 676. III, 82. 141.
+
+S. W.
+
+- 7, ff. V, 139.
+- 8, ff. 140. 142.
+- 14, ff. 143.
+- 17, ff. 195.
+- 21, ff. 146.
+- 47, f. 250.
+- 72, IV, 813.
+- 73, f. 816.
+- 74, ff. 818.
+- 76, f. 819.
+- 77, f. 809. ff.
+- 79, f. 812. 814.
+
+S. I. W.
+
+- 18, ff. III, 685.
+- 19, 671.
+- 20, 671.
+- 33, ff. 686.
+- 41, ff. 688.
+- 42, VI, 1.
+- 43, f. V, 753. VI, 4.
+- 47, ff. VI, 30.
+- 48, 5.
+- 49, 5. 6.
+- 50, V, 753. VI, 7. 8.
+- 52, 754.
+- 53, ff. VI, 8.
+- 57, ff. III, 690.
+- 58, 708.
+- 62, ff. 691.
+- 63, 709.
+- 68, ff. 692.
+- 83, ff. 693.
+- 94, ff. 696.
+- 100, ff. II, 262.
+- [VI, 448] 101, II, 257.
+- 109, ff. III, 697.
+- 114, ff. . . 698.
+- 120, ff. . . 699.
+- 127, ff. . . 700.
+- 134, ff. . . 701.
+- 149, ff. . . 702.
+- 152, ff. . . 703.
+- 168, ff. . . 704.
+- 175, ff. . . 705.
+- 180, ff. . . 706.
+- 263, f. . . 707.
+- 303, f. IV, 307.
+- 323, I, 629.
+- 324, ff. . . 629.
+- 327, . . 630. 631.
+- 331, . . 631.
+- 332, ff. . . 632.
+
+S. II.  W.
+
+- 1, ff. II, 334.
+- 62, ff. IV, 461. 472. 474. 476.
+- 67, ff. . . 478.
+- 69, f. . . 479.
+- 70, f. . . 479.
+- 71, f. . . 480.
+- 72, . . 55.
+- 74, f. I, 625.
+- 75, IV, 44.
+- 95, . . 481.
+- 96, . . 481.
+- 113, ff, II, 600. IV, 685.
+- 114, ff. . . 601. IV, 252. f. 257. 259.
+- 115, IV, 254.
+- 118, f. II, 602.
+- 119, . . 602.
+- 121, f. . . 603. ff.
+- 131, IV, 446.
+- 133, ff. II, 609.
+- 138, ff. . . 610.
+- 157, VI, 59.
+- 159, II, 28.
+- 162, . . 700.
+- 164, II, 33.
+- 165, V, 636.
+
+S. II.  W.
+
+- 167, f. IV, 50.
+- 168, f. . . 335.
+- 169, f. . . 336. V, 637.
+- 171, f. V, 638.
+- 175, IV, 443.
+- 176, f. V, 638.
+- 177, f. VI, 291.
+- 178, . . 292.
+- 183, IV, 463.
+- 196, f. VI, 348.
+- 198, f. . . 359.
+- 202, . . 296.
+- 208, II, 75.
+- 211, VI, 298.
+- 241, II, 75.
+- 289, ff. . . 374.
+- 291, V, 742.
+- 292, f. . . 743.
+- 293, VI, 208.
+- 294, ff. II, 184. V, 239.
+- 297, . . 184.
+- 298, VI, 205.
+- 303, II, 621.
+- 305, . . 622.
+- 306, ff. . . 622. V, 587.
+- 308, ff. III, 263. V, 588.
+- 309, f. V, 588.
+- 310, f. III, 262. V, 588.
+- 311, f. V, 589.
+- 313, . . 589.
+- 314, . . 743.
+- 317, II, 321. II, 622. V, 743.
+- 321, V, 239.
+- 327, II, 201.
+- 328, ff. VI, 238.
+- 331, . . 200.
+- 335, f. V, 392.
+- 337, . . 392.
+- 338, f. . . 328.
+- 339, II, 199. 200. V, 169.
+- 348, f. V, 328.
+- 355, VI, 219. ff.
+- 358, . . 240.
+- 359, . . 239.
+- 360, . . 239.
+- [VI, 449] 363, f. III, 285.
+- 368, f. V, 247.
+- 369, II, 322.
+- 370, VI, 242.
+- 371, II, 623.
+- 372, . . 580.
+- 376, ff. . . 623.
+- 387, IV, 129.
+- 392, II, 366.
+- 425, f. V, 554.
+- 426, f. . . 554.
+- 427, f. . . 555.
+- 428, f. . . 555.
+- 429, . . 556.
+- 430, f. . . 556.
+- 431, f. . . 557.
+- 432, ff. . . 557. f.
+- 434, ff. . . 559.
+- 435, f. . . 559.
+- 465, . . 554.
+- 467, . . 554.
+- 468, ff. IV, 2-3.
+- 471, ff. . . 275.
+- 479, ff. III, 4.
+- 486, f. II, 49. 50.
+- 487, . . 50.
+- 505, VI, 68.
+
+S. III.  W.
+
+- §. 1, II, 230. 231. IV, 151. V, 429. 618. 626. 640. VI, 120. 318.
+- 2, VI, 122.
+- 3, IV, 448. V, 311. VI, 12.
+- 4, V, 314.
+- 5, II, 742. f. V, 842.
+- 6, . . 746. V, 842.
+- 7, V, 291.
+- 8, IV, 272. 278. 280.
+- 9, V, 530. VI, 44.
+- 10, . . 424.
+- 11, VI, 266.
+- 12, V, 296. 314.
+- 13, V, 632.
+- 14, I, 840. VI, 245. \*)
+
+S. III.  W.
+
+- 250. 252. 258. 260. 266. ff
+- 15, V, 632. VI, 226. 245. \*) VI, 271.
+- 20, II, 746.
+- 21, VI, 123.
+- 22, III, 234. VI, 263.
+- 24, II, 563.
+- 25, . . 564.
+- 26, . . 564.
+- 27, . . 565. VI, 265. \*)
+- 28, . . 567. ff.
+- 29, . . 571.
+- 30, . . 573.
+- 65, ff. IV, 742.
+- 67, . . 232.
+- 68, . . 232. f.
+- 69, ff. . . 234. V, 201.
+- 71, ff. . . 745.
+- 75, ff. . . 747.
+- 76, . . 418.
+- 78, ff. . . 748.
+- 80, ff. . . 750.
+- 83, ff. . . 751.
+- 86, ff. . . 752. ff.
+- 88, f. . . 755.
+- 89, f. . . 755.
+- 114, I, 850. 866.
+- 133, f. IV, 223.
+- 135, f. . . 223.
+- 136, f. . . 224.
+- 137, . . 224.
+- 139, ff. II, 804. ff. 957.
+- 141, f. . . 807. 958.
+- 143, f. IV, 225.
+- 144, \*) VI, 244.
+- 145, ff. II, 809.
+- 147, ff. . . 810. V, 524.
+- 150, ff. IV, 226.
+- 153, ff. . . 227.
+- 155, V, 524.
+- 157, ff. IV, 247.
+- 161, f. . . 318.
+- 169, f. V, 524.
+- 170, . . 524.
+- [VI, 450] 171, V, 524.
+- 177, . . 524.
+- 181, . . 524.
+- 184, . . 524.
+- 187, . . 525.
+- 191, I, 743.
+- 192, . . 738. 743.
+- 193, . . 738. 739. 742.
+- 194, . . 737.
+- 195, . . 736. 739.
+- 196, . . 739.
+- 197, . . 740.
+- 198, . . 740.
+- 199, . . 740.
+- 200, . . 740. 741.
+- 201, . . 741.
+- 202, . . 741.
+- 203, ff. . . 742.
+- 206, . . 743.
+- 252, V, 610.
+- 253, f. . . 328.
+- 254, . . 327.
+- 261, III, 610.
+- 263, V, 15.
+- 274, VI, 245.
+- 278, IV, 494.
+- 280, f. . . 495.
+- 281, f. . . 497.
+- 282, ff. . . 498.
+- 284, . . 499.
+- 289, . . 847.
+- 290, IV, 490.
+- 291, V, 850.
+- 292, ff. III, 14. 16. V, 843. 844.
+- 293, . . 15.
+- 295, IV, 455. V, 629.
+- 300, ff. V, 82.
+- 301, . . 243. 630.
+- 302, II, 624. III, 198.
+- 339, IV, 279. 394.
+- 340, V, 479.
+- 345, ff. IV, 420.
+- 347, f. . . 756.
+- 348, f. . . 234.
+- 349, f. . . 235.
+- 350, . . 235. 756.
+
+S. III.  W.
+
+- 351, IV, 756.
+- 352, . . 236. 757.
+- 356, ff. . . 238.
+- 358, . . 492. \*)
+- 362, ff. . . 238.
+- 364, . . 239.
+- 368, f. . . 240.
+- 370, ff. . . 241.
+- 374, . . 242.
+- 375, f. . . 243. 742.
+- 378, ff. V, 471.
+- 383, . . 487.
+- 385, ff. III, 854. 860.
+- 386, . . 861. V, 514.
+- 387, . . 725. 745. 747.
+- 389, V, 602.
+- 391, \*) . . 602.
+- 402, . . 516.
+- 403, . . 515.
+- 405, . . 517.
+- 406, f. . . 517.
+- 408, f. II, 980. V, 518.
+- 409, f. . . 965.
+- 410, ff. . . 202. 980.
+- 411, . . 203. 210.
+- 412, . . 210.
+- 413, f. V, 519.
+- 415, . . 519.
+- 419, ff. IV, 693. f.
+- 425, ff. . . 694.
+- 427, III, 197.
+- 428, . . 35. 197.
+- 429, f. . . 36. 198.
+- 432, ff. IV, 697.
+- 433, III, 205.
+- 435, . . 67.
+- 446, ff. IV, 697.
+- 447, f. V, 32. 518. VI, 328.
+- 448, IV, 698.
+- 449, V, 85.
+- 460, ff. IV, 700.
+- 479, ff. . . 700.
+- 483, ff. . . 701.
+- 494, II, 303.
+- 500, ff. . . 305.
+- 504, f. . . 304. IV, 404.
+- [VI, 451] 505, ff. II, 305. VI, 274.
+- 509, ff. . . 306. VI, 119.
+- 546, f. IV, 242.
+- 548, . . 233. \*) 744.
+- 549, . . 233.
+- 551, . . 239. \*)
+- 552, f. . . 237.
+- 558, . . 239. \*)
+- 561, I, 649.
+- 563, II, 857. f.
+- 564, f. IV, 489.
+- 565, II, 612.
+- 566, IV, 494.
+
+S. IV.  W.
+
+- 3, IV, 582.
+- 4, III, 776.
+- 5, f. IV, 584.
+- 6, f. V, 599.
+- 7, f. IV, 585. V, 601. \*)
+- 9, ff. . . 585.
+- 11, f. . . 586.
+- 12, ff. . . 586. ff. V, 641. 643.
+- 13, \*) . . 677. V, 642.
+- 14, V, 643.
+- 15, ff. IV, 675.
+- 18, ff. . . 589.
+- 21, VI, 21.
+- 23, . . 112.
+
+T.  W.
+
+- III, IV, 263. 578.
+- IV, . . 578.
+- V, . . 356.
+- IX, f. II, 735.
+- 1, . . 445. V, 48.
+- 2, ff. IV, 532.
+- 3, f. . . 532. V, 584.
+- 4, ff. II, 310. 446. V, 4. VI, 329.
+- 5, . . 446.
+- 6, IV, 334.
+- 8, V, 2.
+- 9, . . 584. VI, 117.
+- 10, III, 750. V, 256. 265. f. 583.
+
+T.  W.
+
+- 11, f. II, 310. 311. VI, 329 f.
+- 12, VI, 331.
+- 13, III, 71. VI, 41. 42. 43.
+- 14, VI, 43.
+- 15, . . 11. 41.
+- 16, f. III, 58. 64. 66.
+- 17, f. . . 70. 72.
+- 19, VI, 332.
+- 20, f. II, 197. 396. 750. IV, 542. VI, 332.
+- 21, III, 751. V, 584. 605.
+- 23, f. VI, 41.
+- 24, f. . . 42.
+- 25, V, 584. VI, 42.
+- 26, f. IV, 562. VI, 332.
+- 28, ff. . . 545.
+- 31, f. V, 7. VI, 328.
+- 33, . . 585.
+- 35, ff. IV, 44. 564. f.
+- 36, . . 566.
+- 37, ff. II, 963. f. 975. V, 325. 531.
+- 39, IV, 5.
+- 40, III, 248.
+- 41, IV, 6. 567.
+- 43, f. III, 755.
+- 44, f. . . 756.
+- 45, . . 756. IV, 546.
+- 46, f. IV, 532. V, 585. VI, 119.
+- 47, V, 585.
+- 48, III, 753. IV, 542. V, 587.
+- 49, II, 576. f.
+- 50, f. . . 321. 859. III, 260. 877. 752.
+- 51, . . 860.
+- 52, f. . . 321. V, 138.
+- 54, IV, 568.
+- 55, . . 542.
+- 56, . . 301.
+- 57, . . 299. 302.
+- 63, f. . . 550.
+- [VI, 452] 64, IV, 541. 551.
+- 65, . . 212. f. 552.
+- 66, . . 555. 558.
+- 67, . . 406. 555.
+- 68, f. . . 555. f.
+- 69, II, 202.
+- 70, f. V, 532.
+- 71, ff. . . 283.
+- 72, IV, 562.
+- 73, . . 553.
+- 74, f. V, 283.
+- 76, ff. III, 610. 758. VI, 216. f.
+- 77, f. . . 759.
+- 78, II, 196. 396.
+- 79, . . 198. 891. IV, 45. V, 301.
+- 84, . . 201.
+- 85, IV, 213. 553.
+- 86, II, 981.
+- 87, III, 284.
+- 91, f. . . 314. IV, 542. 564.
+- 92, IV, 3.
+- 93, f. III, 327. 711.
+- 94, f. . . 710. V, 590.
+- 95, . . 280. 711. V, 217.
+- 96, IV, 566.
+- 99, II, 974. V, 487.
+- 100, . . 969. ff.
+- 101, . . 971.
+- 102, f. . . 971. 973. V, 115. 117. 119.
+- 103, . . 977. f.
+- 104, f. V, 275. ff.
+- 105, II, 717.
+- 106, f. IV, 559.
+- 107, V, 231.
+- 108, f. IV, 559.
+- 110, . . 421. VI, 42.
+- 111, V, 265.
+- 112, III, 790. VI, 42.
+- 113, . . 779. IV, 561.
+- 114, II, 275. 276. 750. IV, 561. VI, 42.
+
+T.  W.
+
+- 116, f. IV, 392. 547. 557. 560.
+- 117, f. . . 549.
+- 118, . . 3. f. 547.
+- 119, f. II, 660. IV, 329. 546. 557. 560. 570. V, 593.
+- 120, f. IV, 309. 571.
+- 122, . . 572.
+- 123, f. VI, 208. f. 211.
+- 124, f. V, 106. VI, 209. f.
+- 125, f. VI, 210.
+- 126, . . 211. 225.
+- 127, II, 275. III, 257.
+- 128, f. III, 257.
+- 129, f. IV, 312. f.
+- 130, III, 292. f.
+- 131, f. . . 293.
+- 133, f. IV, 311. 732.
+- 134, . . 733.
+- 137, f. III, 754. V, 157.
+- 139, II, 211. 212. V, 117.
+- 140, IV, 524.
+- 142, II, 198. 199. 202.
+- 143, III, 751.
+- 144, f. . . 280. ff.
+- 145, f. IV, 390.
+- 146, . . 391.
+- 147, V, 194. 456. f.
+- 152, f. II, 207. 659.
+- 153, . . 660.
+- 154, . . 660. f. III, 282.
+- 156, . . 662. f.
+- 157, . . 663.
+- 158, IV, 572.
+- 159, . . 247.
+- 164, f. . . 297. 300. f. 305.
+- 165, . . 203.
+- 166, . . 300. f.
+- 167, V, 589.
+- 171, IV, 531.
+- 180, V, 117.
+- 181, f. III, 142. IV, 559. V, 130.
+- [VI, 453] 182, V, 128.
+
+U.  W.
+
+- I, I, 853.
+- III, . . 856. V, 701. V, 756. 760. VI, 12.
+- IV, V, 803. VI, 12.
+- V, f. I, 859. IV, 688. V, 702. VI, 12.
+- VI, IV, 274. V, 702.
+- VII, ff. V, 703. 705. VI, 21.
+- VIII, I, 859. IV, 37.
+- IX, II, 156. 889.
+- X, V, 706.
+- XI, I, 502. II, 658. IV, 415. 577.
+- XII, IV, 333. 355. 441. 447. 689.
+- XIII, f. II, 879. IV, 690. f.
+- XIV, f. IV, 690.
+- XV, . . 692.
+- XVI, II, 725. 730. IV, 355.
+- XVII, f. I, 328. 812. II, 726.
+- XVIII, II, 727. f.
+- XIX, . . 728. f.
+- XX, I, 831. V, 706.
+- XXI, II, 515. 658. III, 219. IV, 415. V, 707.
+- XXII, VI, 177.
+- XXV, f. V, 707.
+- XXVI, . . 708. 723.
+- XXVII, f. . . 709.
+- XXVIII, I, 858. II, 232. 306. V, 710. VI, 323. 345. f. 353.
+- XXIX, IV, 709. VI, 354.
+- XXX, ff. V, 710.
+- XXXI, ff. VI, 354. f.
+- XXXIII, III, 256.
+- XXXIV, ff. VI, 356.
+
+U.  W.
+
+- XXXVI, ff. V, 711. VI, 356.
+- XXXVII, f. III, 257. VI, 357.
+- XXXVIII, VI, 357.
+- XXXIX, ff. . . 357. f.
+- XLI, V, 712.
+- XLII, f. III, 186. IV, 739.
+- XLIII, ff. IV, 40. V, 685. VI, 361.
+- XLIV, V, 688. VI, 11.
+- XLV, II, 638. 892. V, 689.
+- XLVI, V, 690.
+- XLVII, . . 690.
+- XLVIII, . . 693.
+- XLIX, II, 6. 7.
+- L, . . 8. 9. V, 705. VI, 360.
+- LI, ff. V, 713.
+- LIII, VI, 361.
+- LIV, V, 655.
+- LV, f. . . 714.
+- LVI, . . 714.
+- LVII, I, 810. III, 537. V, 709.
+- LVIII, V, 267.
+- 1, ff. . . 705.
+- 2, II, 917.
+- 3, . . 889.
+- 4, f. . . 918.
+- 5, ff. . . 468. 919. VI, 207.
+- 7, I, 233. II, 893. 919.
+- 8, V, 738.
+- 9, I, 306.
+- 10, . . 237. 485. II, 890. V, 738. VI, 207.
+- 11, . . 438.
+- 12, . . 238.
+- 13, III, 210. IV, 314.
+- 14, f. I, 254. f. 837. III, 187. 205. 207. VI, 207.
+- 15, . . 69. 237. II, 890. III, 187. V, 738.
+- [VI, 454] 16, I, 56. 57. II, 893.
+- 17, II, 920.
+- 18, I, 235. V, 684.
+- 19, . . 235.
+- 20, . . 235. II, 894.
+- 21, II, 920. f.
+- 23, I, 85. II, 367. 921.
+- 24, . . 128. II, 921.
+- 25, . . 64. 129. II, 922.
+- 27, II, 922. f.
+- 28, . . 863.
+- 29, I, 568. II, 863. 923.
+- 30, II, 924.
+- 32, VI, 343.
+- 33, . . 347. 357.
+- 34, II, 925.
+- 35, . . 925.
+- 36, f. . . 926.
+- 37, . . 927.
+- 38, . . 927.
+- 39, f. . . 927.
+- 40, . . 456. 928.
+- 41, . . 928.
+- 42, f. . . 928. f.
+- 43, . . 372. 929.
+- 44, . . 159.
+- 45, . . 161. VI, 328.
+- 46, . . 930.
+- 47, . . 930.
+- 48, . . 284. 930.
+- 49, . . 930.
+- 50, . . 931.
+- 51, . . 931. f.
+- 52, ff. . . 932. III, 497.
+- 53, ff. . . 466. 915. 933.
+- 54, . . 466. III, 369. V, 802.
+- 55, . . 219. 933. f.
+- 56, f. IV, 433.
+- 57, ff. II, 222. V, 436.
+- 59, ff. III, 511. IV, 437.
+- 61, II, 933.
+- 62, . . 935.
+- 63, . . 935.
+
+U.  W.
+
+- 64, II, 856. 936.
+- 65, . . 862.
+- 66, . . 936.
+- 67, f. . . 857. 937.
+- 68, f. . . 223. 937.
+- 69, . . 897.
+- 70, . . 938.
+- 71, f. . . 938.
+- 72, V, 225.
+- 73, II, 939.
+- 74, . . 367. 368.
+- 75, . . 369.
+- 76, . . 367. V, 826.
+- 77, V, 218.
+- 79, II, 369.
+- 80, f. . . 366. III, 159.
+- 81, f. III, 159. 161.
+- 82, II, 370. III, 160.
+- 83, III, 160. f.
+- 84, II, 266. 370. III, 161. V, 827.
+- 85, f. . . 370. III, 164. V, 827.
+- 86, f. III, 164.
+- 87, I, 334. III, 165.
+- 88, ff. V, 692.
+- 90, VI, 315.
+- 91, II, 373. VI, 228. 314.
+- 92, . . 373.
+- 93, . . 224. 367.
+- 94, f. . . 224. 546.
+- 95, I, 69. II, 224. 366. 225. 371.
+- 96, . . 67. II, 371.
+- 97, II, 372.
+- 98, . . 372. 373.
+- 99, f. . . 374. VI, 303.
+- 100, . . 371. 373. 374. IV, 389.
+- 102, ff. . . 370. 703. IV, 48. V, 602.
+- 103, . . 677. 705. V, 828.
+- 104, . . 703. 705. IV, 49. V, 828.
+- 105, . . 370.
+- [VI, 455] 106, V, 829.
+- 107, ff. . . 830.
+- 109, II, 366.
+- 110, . . 374. V, 831.
+- 111, . . 374.
+- 112, . . 374. V, 831.
+- 113, I, 240. III, 201. V, 832.
+- 114, f. III, 209. 211. V, 226.
+- 115, II, 367. V, 226. 604. 832.
+- 116, IV, 1. V, 604.
+- 117, V, 832. VI, 37.
+- 118, f. . . 227.
+- 119, f. . . 228.
+- 120, . . 833.
+- 121, I, 188. II, 320. III, 870. 876.
+- 122, II, 282. 283. III, 879. V, 833. VI, 37.
+- 123, V, 833.
+- 124, . . 834.
+- 125, f. . . 246.
+- 126, II, 232. 233. IV, 309. V, 835.
+- 127, IV, 310. V, 426.
+- 128, II, 704.
+- 129, I, 748. 749. V, 230.
+- 130, . . 750. 751. II, 939. V, 230.
+- 131, f. II, 42. 940.
+- 132, . . 13.
+- 133, f. . . 42. 940.
+- 134, . . 940.
+- 135, . . 898.
+- 136, . . 941.
+- 137, . . 898. 941. f. III, 270.
+- 138, f. . . 898. IV, 389.
+- 139, IV, 390.
+- 140, II, 942.
+- 141, . . 899. 942.
+- 142, . . 899. 942.
+- 143, . . 900. 943.
+
+U.  W.
+
+- 144, II, 902.
+- 145, . . 167. 944.
+- 146, . . 13. 944.
+- 147, . . 944.
+- 148, . . 945.
+- 149, . . 167. 945.
+- 150, . . 167. 168. 945.
+- 152, . . 946.
+- 153, . . 946. V, 298. f.
+- 154, V, 299.
+- 155, II, 946.
+- 156, . . 857. 895.
+- 157, . . 895. IV, 128.
+- 158, I, 20. IV, 244. f.
+- 159, IV, 245.
+- 160, II, 857. 895. IV, 246. VI, 19.
+- 161, . . 946. f. 825. 922.
+- 162, f. . . 908. 956.
+- 163, IV, 220.
+- 164, II, 908. 909. 910.
+- 165, . . 911.
+- 166, f. . . 911.
+- 167, . . 911.
+- 168, f. . . 912.
+- 169, . . 912.
+- 170, f. . . 913.
+- 171, ff. . . 913.
+- 173, f. III, 216. 725.
+- 174, II, 624. III, 726. f.
+- 175, f. . . 232. III, 221. 728. V, 361.
+- 176, f. III, 734.
+- 177, f. . . 729.
+- 178, ff. . . 730. 733. V, 135.
+- 179, . . 729. 733. f.
+- 180, . . 734. IV, 516.
+- 181, II, 863. 866. V, 457.
+- 182, . . 465. 466. 867.
+- 183, . . 865.
+- 185, . . 865. IV, 390.
+- 186, . . 866. III, 736.
+- 187, . . 867.
+- 188, . . 867. VI, 41.
+- [VI, 456] 189, I, 710. II, 868. 946.
+- 190, II, 868.
+- 191, 868.
+- 192, f. 225. 831. f. 869.
+- 193, V, 770. 795.
+- 194, 771.
+- 195, II, 214.
+- 197, 832.
+- 198, 833. 869.
+- 199, 870.
+- 200, f. 870. V, 241. f.
+- 201, I, 361. II, 870. III, 784. IV, 56.
+- 202, III, 737. IV, 56.
+- 203, 736. 738.
+- 204, f. 738. f.
+- 205, I, 532. III, 732. IV, 633.
+- 206, V, 51.
+- 207, f. I, 466. 710. III, 730. IV, 46. 52.
+- 208, ff. IV, 53.
+- 209, III, 731. IV, 46.
+- 210, IV, 54.
+- 211, II, 538. 544. III, 731. IV, 379.
+- 213, I, 533. III, 740. V, 458.
+- 214, III, 741.
+- 215, IV, 634.
+- 216, I, 533.
+- 217, f. V, 52.
+- 218, III, 744.
+- 219, V, 533.
+- 220, III, 744. IV, 381.
+- 222, IV, 54. V, 739.
+- 223, f. II, 753. V, 362.
+- 224, f. 754. IV, 382. V, 362. f.
+- 225, f. I, 241. II, 754. IV, 382.
+- 226, II, 754.
+- 227, f. 755.
+- 228, f. II, 756.
+- 229, 757.
+- 230, 758. III, 767. 770.
+- 231, 947. V, 856.
+- 232, 869. V, 742.
+- 233, 134. 135. 136. 137. 138.
+- 234, I, 206. II, 138. 139. 948. f.
+- 235, II, 171. 949. f.
+- 236, 177. 950.
+- 237, 173. 951.
+- 238, f. I, 250. II, 953.
+- 239, V, 825.
+- 240, f. II, 43. 44. 47. 51. V, 825.
+- 241, 44. 46. 47.
+- 242, 491. ff.
+- 244, 954.
+- 245, V, 605.
+- 246, II, 903. III, 416.
+- 247, 904.
+- 248, 905.
+- 249, I, 273.
+- 250, ff. 795. 796. 797. 798.
+- 251, II, 613.
+- 252, f. 906. III, 416.
+- 253, 906.
+- 254, I, 523. II, 906. III, 416. V, 808.
+- 255, ff. 758. II, 10.
+- 256, II, 12.
+- 257, 378. III, 166. V, 410.
+- 258, 955.
+- 259, f. V, 232.
+- 260, II, 955.
+- 261, 907. III, 785.
+- 262, 956.
+- 263, 907. IV, 383.
+- 265, ff. V, 705.
+- 267, f. IV, 400. V, 466. VI, 348.
+- 268, VI, 347. f.
+- [VI, 457] 269, I, 152.
+- 270, V, 218. 222. VI, 349.
+- 271, VI, 350.
+- 272, ff. 352.
+- 274, 37. 353.
+- 275, 38.
+- 277, ff. V, 225.
+- 278, f. I, 719.
+- 279, f. V, 466.
+- 280, ff. 467. f.
+- 282, f. 468. f.
+- 283, f. 469.
+- 284, ff. II, 307. VI, 328.
+- 285, 307.
+- 286, f. VI, 336. f.
+- 287, 86.
+- 288, 87.
+- 289, f. II, 308. VI, 338.
+- 290, IV, 713. V, 470. VI, 338.
+- 291, 488. VI, 339.
+- 292, f. 488.
+- 293, f. 489.
+- 294, 490.
+- 295, f. 489. 491. V, 465.
+- 296, 491.
+- 297, 492.
+- 298, 493. V, 470.
+- 299, f. II, 312. V, 471.
+- 300, IV, 169.
+- 301, ff. V, 472.
+- 303, 473.
+- 304, f. IV, 704. 706. V, 473.
+- 305, f. V, 473. ff.
+- 306, f. 475.
+- 307, ff. 476.
+- 308, IV, 401.
+- 309, f. V, 476. 745. 746.
+- 311, 715.
+- 312, 720.
+- 313, f. I, 297.
+- 314, V, 720. f.
+- 315, 721.
+- 317, f. I, 298.
+- 318, f. V, 477.
+- 319, f. 477. VI, 354.
+- 320, f. III, 724. V, 463.
+- 321, V, 465.
+- 322, I, 752. II, 309. 550. 561. III, 398. IV, 855. V, 478.
+- 323, V, 478. 500. 546. VI, 354.
+- 324, f. II, 561. IV, 181.
+- 325, 561.
+- 326, IV, 43.
+- 327, f. II, 562. V, 501. 547.
+- 328, f. V, 474.
+- 329, 734. 736. f.
+- 330, I, 509. II, 291. IV, 867.
+- 331, II, 292. V, 478.
+- 332, III, 724.
+- 333, f. IV, 602.
+- 334, 601.
+- 335, 602.
+- 336, 603.
+- 337, 604.
+- 339, II, 385. IV, 604. V, 756.
+- 340, ff. IV, 606.
+- 341, I, 486.
+- 342, f. II, 624. IV, 607.
+- 343, V, 311.
+- 344, VI, 339.
+- 345, V, 709. 721. VI, 339.
+- 346, f. IV, 184. V, 722. VI, 18.
+- 347, VI, 17.
+- 348, V, 722. VI, 13. 15.
+- 351, III, 261. VI, 13. 16.
+- 352, ff. VI, 17.
+- 354, II, 385. VI, 340.
+- 355, f. 385. 386. VI, 340.
+- 356, ff. 386. VI, 340.
+- [VI, 458] 359, f. VI, 341.
+- 360, f. 341.
+- 361, I, 298.
+- 362, VI, 342.
+- 364, II, 292. 294. 391. V, 479.
+- 365, V, 479.
+- 366, II, 264. V, 479.
+- 367, f. VI, 342.
+- 368, f. 342.
+- 369, I, 335. II, 312.
+- 371, 336.
+- 372, 440. VI, 343.
+- 373, IV, 504.
+- 374, f. V, 419. VI, 344.
+- 375, II, 445. IV, 454. 686.
+- 376, 185. 186. 333. 463. 464.
+- 377, 187. 465. IV, 310.
+- 378, 187. 333.
+- 379, I, 398. VI, 359.
+- 380, f. VI, 359.
+- 381, II, 306. 308. 316.
+- 382, f. 317. VI, 168.
+- 383, VI, 168.
+- 384, 168.
+- 385, f. I, 335. 336. IV, 418. VI, 168. f.
+- 386, f. VI, 169.
+- 388, III, 63. VI, 170.
+- 390, 64.
+- 391, f. 63. f.
+- 392, II, 880. VI, 170.
+- 393, 880. VI, 147.
+- 394, ff. VI, 147. 168. 171.
+- 395, 171.
+- 396, II, 318.
+- 397, 318. IV, 401.
+- 398, 318.
+- 399, VI, 336.
+- 400, f. IV, 599. f.
+- 401, f. 600.
+- 402, f. 609.
+- 403, III, 135.
+- 404, f. IV, 609.
+- 405, IV, 505.
+- 406, ff. 610.
+- 407, ff. 611. 613.
+- 409, 611. V, 563.
+- 410, II, 447. IV, 611.
+- 413, 312. 447. 448.
+- 414, 4. 448.
+- 416, 448.
+- 418, ff. 448. V, 480.
+- 420, f. IV, 365. V, 480.
+- 421, II, 318. V, 481. ff.
+- 423, 318.
+- 424, 319.
+- 425, IV, 370.
+- 426, f. 371.
+- 427, 371.
+- 429, ff. 372. 810.
+- 431, f. II, 320. IV, 373.
+- 432, IV, 373.
+- 433, f. 374.
+- 434, 375.
+- 435, 376.
+- 436, 868.
+- 437, I, 813.
+- 438, IV, 376.
+- 439, 377.
+- 440, ff. II, 2. 4. 6. III, 146. IV, 377. V, 530.
+- 441, V, 114.
+- 442, II, 492. IV, 77.
+- 443, I, 282. 659. IV, 672.
+- 446, 661.
+- 447, 661. 687. V, 117.
+- 448, ff. 150. 151. 665. 666.
+- 450, 152.
+- 451, 667.
+- 452, 667.
+- 453, 668.
+- 454, II, 378. III, 20. IV, 204. 211. V, 843. 844.
+- 455, IV, 205.
+- 456, V, 489. f.
+- [VI, 459] 457, f. III, 20. 22.
+- 458, 19. 24.
+- 459, 31. 32. V, 152.
+- 460, 32.
+- 461, 34.
+- 462, ff. 870. V, 844. 845.
+- 463, 867. IV, 205. V, 847.
+- 464, f. V, 847. VI, 364.
+- 465, IV, 270. V, 641. 849.
+- 466, V, 491. 849.
+- 467, 491. 641. 824.
+- 469, f. I, 848. V, 848. 849. \*)
+- 470, IV, 414. V, 483.
+- 472, ff. V, 483. f.
+- 473, IV, 415.
+- 474, f. V, 485.
+- 475, f. IV, 632. V, 486.
+- 477, f. III, 91. V, 115. 120.
+- 478, V, 120. 848.
+- 479, ff. II, 377. V, 848.
+- 482, IV, 611.
+
+### Z
+
+- 5, II, 667.
+- 6, 667.
+- 8, 667.
+- 9, 667. f.
+- 11, 668.
+- 12, I, 276. 437. f.
+- 13, 276. III, 713.
+- 14, 277.
+- 15, II, 388. 395. 396.
+- 17, V, 83. f.
+- 18, ff. II, 668. VI, 323. 325.
+- 19, V, 377.
+- 20, ff. I, 478. II, 668.
+- 21, 478.
+- 23, III, 720.
+- 25, I, 355. 440.
+- 30, ff. II, 669.
+- 31, f. III, 718.
+- 32, f. 717.
+- 35, 717.
+- 40, ff. II, 670. III, 290. VI, 148.
+- 41, f. VI, 149.
+- 42, 150.
+- 43, III, 712. VI, 150.
+- 46, VI, 151.
+- 47, ff. II, 671. 710. V, 193. VI, 55. f.
+- 48, 673. VI, 58. f.
+- 49, VI, 56. f.
+- 50, 57. f.
+- 71, II, 673. IV, 638.
+- 72, f. III, 656. 659.
+- 76, ff. IV, 357. 638. f. 650. f.
+- 79, f. 651.
+- 80, ff. 652.
+- 82, 652.
+- 83, f. 652.
+- 85, V, 240.
+- 87, ff. IV, 613.
+- 89, f. 654.
+- 90, ff. 655.
+- 94, 693.
+- 95, f. 656.
+- 96, f. 643.
+- 98, ff. 645.
+- 103, 645.
+- 104, f. 645.
+- 105, f. 646.
+- 106, f. 646.
+- 107, 647.
+- 108, ff. 638. 649.
+- 109, 541. 560. 641. \*)
+- 110, f. 649.
+- 111, II, 675.
+
+[VI, 460]
+
+## III. Register über das ganze Werk
+
+### A
+
+*A posteriori* I, 1. II, 290. ff. wovon der Ausdruck hergenommen ist, I, 1. in welchem Fall die Erkenntniss und die Erfahrung eine Erkenntnissquelle *a posteriori* ist, I, 1. f. alle Erkenntniss fängt mit der Erfahrung an. I, 3. was man vor Kant Erkenntniss a posteriori nannte, I, 3. was hingegen Kant so nennt, I, 3. f. nehmlich das, was *ursprünglich aus der Erfahrung her* ist, I, 4.
+
+*A priori* I, 4. wovon der Ausdruck hergenommen ist, I, 5. Unterschied zwischen *Baumgartens* und *Kants* Bedeutung, I, 5. Baumgartens Bedeutung ist logisch, Kants metaphysisch, I, 6. Meiers Bedeutung ist logisch I, 6. Cudworths Bedeutung ist metaphysisch, I, 7. Lamberts eine Bedeutung ist logisch I, 7. die andere metaphysisch I, 8. Kant nimmt das Wort *absolute* und in der strengsten Bedeutung, I, 8. Hume leugnet alle Erkenntniss a priori in Kants Bedeutung I, 9. Hume's Behauptung hierüber I, 9. Kant giebt Hume'n zu, dass alle Erkenntniss der Zeit nach mit der Erfahrung anfange I, 10. behauptet aber, dass darum doch nicht alle Erkenntniss ursprünglich aus der Erfahrung herrühre I, 10. Hume's Forderung eines Beispiels von einer Erkenntniss a priori wird ein Genüge gethan, I, 11. die beiden Kennzeichen der Erkenntniss a priori I, 12. die Erkenntniss a priori entspringt aus dem Erkenntnissvermögen I, 12. es lassen sich zwei Arten dieses Ursprungs denken I, 12. die Vorstellungen a priori sind nicht angebohren I, 13. Unterschied zwischen Erkenntniss a priori und reiner Erkenntniss I, 13. alle eigentlichen Sätze der Mathematik sind a priori I, 14. Beispiel eines Satzes a priori aus dem gemeinsten Verstandesgebrauche I, 14. Beweis, dass es Erkenntnisse a priori geben muss I, 16. es giebt sogar gewisse Erkenntnisse, die in gar keiner Erfahrung anzutreffen sind I, 18. welches
+
+- [VI, 461] diese Erkenntnisse sind I, 19. Classification der verschiedenen Erkenntnisse a priori I, 18. Wissenschaft, die sich mit allen diesen Erkenntnissen a priori beschäftigt I, 19.
+- Abartung V, 201.
+- Abderitismus IV, 230.
+- Abendmahl I, 787.
+- Aberglaube I, 20. 398. II, 206. *dreierlei in der Erklärung desselben zu erörtern* I, 20. 1. das eigene, wesentliche Gesetz des Verstandes I, 20. ff. — 2. die Regeln, die der Verstand durch dieses Gesetz der Natur zum Grunde legt I, 25. ff. — 3. das Vorurtheil, sich die Natur so vorzustellen, als sei sie diesen Regeln nicht unterworfen I, 28. ff. andere Erklärung des Aberglaubens I, 30. *Eintheilung desselben in theoretischen und praktischen* I, 31. religiöser Aberglaube I, 31. III, 145. 418. Vorstellungen der Alten vom Aberglauben I, 32. ff. Ueber das deutsche Wort I, 35.
+- Aberwitz VI, 6. f.
+- Abgeleitet I, 35. 700. *abgeleitete Verstandesbegriffe* I, 366. *nothwendig* Abgeleitetes I, 705.
+- Abgemessenheit VI, 23. 282.
+- Abgötterei I, 119. III, 145. 418.
+- Abhängigkeit II, 62.
+- Absehen VI, 71. f. 112. ff.
+- Abschliessen I, 251.
+- Absicht II, 309. f. V, 472. \*)
+- *Absolut* I, 37. *erste Bedeutung* I, 37. *zweite Bedeutung* I, 38.
+- Absolutes V, 611.
+- *Absondern* I, 39. *Merkmale von einem Object* I, 39. *einen Begriff* I, 40.
+- Absonderungsvermögen VI, 10.
+- Abspannung der Lebenskraft V, 304.
+- Absprung I, 42.
+- Abstraction VI, 71. f. 113. f.
+- Abstrahiren I, 39. 794. VI, 71. f. 112. ff.
+- *Abwesenheit* VI, 286.
+- Abziehen I, 39.
+- *Acceleration* I, 552.
+- Acceptant I, 251.
+- Acceptation I, 250. f.
+- Accidenz I, 46. 72. *Es giebt keine Substanz ohne Accidens* I, 47. der Begriff des Accidenz ist ein Stammbegriff des reinen Verstandes I, 47. an welchen Dingen Accidenzen nur realiter möglich sind I, 47. *Schema* desselben I, 48. sie sind nicht *Dinge* I, 49. warum es ein Verhältnissbegriff ist I, 49. Eintheilung der Accidenzen nach der zweifachen Form der Sinnlichkeit in innere und äussere I, 50. Eintheilung in wesentliche und ausserwesentliche I, 50. die Substanzen bekommen von den wesentlichen Accidenzen den Namen I,
+- [VI, 462] Allgegenwart in der Erscheinung II, 814.
+- Allgemein I, 12.
+- Allgemeinheit I, 559. II, 892. V, 534. ff. 608. *comparative* I, 239. *logische* I, 573. *physische* I, 573.
+- Allgemeingültig I, 126. allgemeingültige Urtheile I, 126. objectiv allgemeingültige Urtheile I, 127. subjectiv allgemeingültige Urtheile I, 127. sie sind einzelne I, 128. Urtheile des Geschmacks machen auf Allgemeingültigkeit Anspruch I, 128. dieser Anspruch ist das wesentliche Kennzeichen des Geschmacksurtheils I, 128.
+- Allgemeingültigkeit, nothwendige II, 350.
+- Allheit I, 559. V, 534. ff.
+- Ambiguität I, 130.
+- Amphibolie, *transscendentale* I, 129. Beispiel I, 134. eigentliche Bedeutung dieses griechischen Worts I, 130.
+- Amtsadel I, 356.
+- *An sich* I, 131. der Verstand denkt sich verschiedene Dinge *an sich* I, 131. 134. die Lehre von der Sinnlichkeit ist zugleich die Lehre von den Dingen an sich I, 136. ff. schon von den ältesten Zeiten her hat man sich Dinge an sich gedacht. I, 139. man stand ihnen allein Wirklichkeit zu I, 139. der Begriff dieser Dinge ist *problematisch* I, 140. wie der Verstand ihr Daseyn zugesteht I, 141.
+- Analogie I, 141. *Entwickelung des Verhältnisses* I, 141. *quantitative* Analogien I, 142. was von den Grössen gilt, das gilt auch von den Zahlen I, 142. Subtraction und Division I, 142. arithmetische Analogie I, 143. geometrische Analogie I, 143. die mathematischen Analogien sind *constitutiv* I, 144. *qualitative* Analogien I, 144. was von den Beschaffenheiten gilt, das gilt auch von den Begriffen I, 145. *logische Bestimmung der Begriffe durch einander* I, 145. ff. Verhältniss der *Vergleichung* und der *Verknüpfung* I, 145. Verhältniss der *Einstimmung* und des *Widerspruchs* I, 146. Verhältniss des *Grundes* und der *Folge* I, 147. *metaphysische Bestimmung der Begriffe durch einander* I, 147. Verhältnisse der *Erfahrung* und des *empirischen Denkens* I, 147. Verhältnisse der *Substanzialität, Causalität* und *Wechselwirkung* I, 148. Verhältnisse der *Möglichkeit, Wirklichkeit* u. *Nothwendigkeit* I, 148. *logische* Analogie I, 149. *metaphysische* Analogie I, 149. die philosophischen Analogien sind *regulativ* I, 149. Grund dieses Unterschiedes zwischen den philosophischen und mathematischen Analogien I, 150. andere Erklärung der qualitativen Analogie I, 151. *nach der Analogie denken und schliessen* I, 152. die gewöhnliche Erklärung ist falsch I, 153. Nutzen der Analogien I, 154. ff.
+- *Analogie der Erfahrung* I, 156. wie die Analogie die Er-
+- [VI, 465] fahrung möglich macht I, 156. ff. ohne sie kann es keine Gegenstände der Erfahrung geben I, 159. dazu nothwendige *Schema's* I, 160. f. durch sie werden die Gegenstände der Erfahrung erkannt I, 163. sie sind *regulativ* I, 163. wann sie nur Bedeutung und Gültigkeit haben I, 164. *empirische* Analogien I, 164. Princip derselben II, 356.
+- *Analogie der Substanzialität* I, 165. wie sie heisst I, 165. II, 356. Verbesserung der Kantischen Formel I, 165. Deduction derselben I, 166. f. es ist noch nie einem Philosophen eingefallen, diesen Grundsatz zu beweisen I, 167. *Folgesätze* aus dieser Analogie I, 168.
+- *Analogie der Ursache und Wirkung oder Causalität* I, 169. wie sie heisst I, 169. II, 356. Deduction derselben I, 169. ff. Unentbehrlichkeit dieser Analogie I, 173. Unterschied zwischen Kants Theorie und der gewöhnlichen I, 174. warum die letztere ungegründet ist I, 175. warum wir Ursachen und Wirkungen in der Erfahrung finden I, 176. Einwürfe gegen Kants Theorie I, 177. Folgesätze aus dieser Analogie I, 177. ff. Widerlegung des *Sextus* I, 179. ff. Widerlegung des *Hume* I, 181. ff. Kants Lehre von ihr ist keine Hypothese I, 184.
+- *Analogie der Wechselwirkung* I, 184. wie sie heisst I, 184. II, 357. Deduction derselben I, 185. Unentbehrlichkeit dieser Analogie I, 186. ff. Unterschied zwischen Kants Theorie und der gewöhnlichen I, 188.
+- Analogon I, 151. f.
+- Analysiren VI, 279. f.
+- Analysis III, 518.
+- Analytik der Grundsätze, *transscendentale* I, 857. des *Erhabenen* II, 367.
+- Analytik V, 851. der Begriffe, *transscendentale* I, 856. IV, 27. ff.
+- *Analytisches Urtheil* I, 189. *Entwickelung des Begriffs* I, 190. worauf die Richtigkeit dieses Urtheils beruhet I, 190. *Kant hat zuerst den Unterschied zwischen analytischen und synthetischen Urtheilen entdeckt* I, 192. es ist missverstanden worden I, 193. es ist angefochten worden I, 194. Vertheidigung dagegen I, 194. der ganze reine Theil der Logik besteht aus lauter analytischen Urtheilen I, 195. *Grundsatz* derselben I, 195. *Erläuterung dieses Grundsatzes* I, 195. f. er ist *negatives Kennzeichen der Wahrheit* I, 196. positiver Gebrauch desselben I, 197. er ist kein *positives Kennzeichen der Wahrheit für nichtanalytische Sätze* I, 197. fehlerhafte Formel desselben I, 198. man hält zuweilen synthetische Sätze für analytisch I, 199. analytische Behauptungen bringen den Verstand nicht weiter I, 200. analytische Definitionen oder Nominalerklärungen I, 201.
+- Anaxagoras II, 201. nahm zuerst ein verständiges Grundprincip [VI, 466] der Welt an I, 202. er wurde daher Verstand genannt I, 203.
+
+- Andacht I, 203. ist unterschieden von der Erbauung I, 204.
+- Andächtelei I, 205. III, 145. 418.
+- Andächtler I, 204.
+- Anerbieten I, 232. VI, 27.
+- Anfang I, 205. III, 178. wo er her seyn kann I, 206. aus der *Erfahrung* eigentlich nicht I, 206. aus der *Anschauung* oder *Axiom* I, 207. im *strengen Verstande* I, 208. des *reinen Verstandes* I, 208. *comparativer* I, 209. Anfänge schlechthin sucht man I, 209. sie müssen allgemeine Vernunftsätze seyn I, 210. — I. für das *theoretische Denken* I, 210. ff. das *oberste Princip aller Principien schlechthin* I, 211. ff. es ist mit allen Anfängen der speculativen Vernunft *regulativ* I, 216. es sagt: dass keine Erfahrungsgrenze *absolut* sei I, 217. man kann also nicht an eine *absolute* Grenze aller Erfahrung kommen I, 217. folglich ist ein *theoretisches* Vernunftprincip nur als Regel gültig, die Erfahrung möglichst weit fortzusetzen I, 217. drei theoretische Vernunftanfänge I, 215. f. 218. f. Vernunftanfänge sollen eigentlich alle Verstandeserkenntnisse in Eine Einheit *zusammenfassen* I, 219. — II. für das *praktische Handeln* I, 220. ff. das *oberste Princip aller praktischen Principien* I, 221. es ist mit allen Anfängen der praktischen Vernunft *constitutiv* I, 222.
+- Anfangen zu seyn, schlechthin I, 223. ff.
+- Angeblich II, 714.
+- Angebohrne Vorstellungen I, 227. nach *Plato, Descartes, Malebranche* und *Leibnitz* I, 229. *Locke, Epikur* und *Kant* verwerfen sie I, 230. f.
+- Angebot I, 231. VI, 27.
+- Angebotene I, 232.
+- Angemessenheit VI, 282.
+- Angenehm I, 233. II, 540. kann ein Gegenstand nicht Jedermann seyn I, 233. das Urtheil darüber ist also subjectiv I, 234. ist es der Gegenstand, so ist es auch sein Daseyn I, 236. Unterschied zwischen angenehm und nützlich I, 237. f. Merkmahle des Angenehmen I, 238. f. ist als Triebfeder der Begierden von einerlei Art I, 239.
+- Angewöhnung II, 577.
+- Angewohnheit V, 254.
+- Anghinme II, 204.
+- Animalität I, 240. sie besteht aus *zwei Stücken* I, 241. 279.
+- Anlage I, 242. VI, 289. *ursprüngliche* I, 242. VI, 289. des Menschen zum *Begehren* I, 242. ff. für die *Thierheit* I, 242. für die *Menschheit* I, 243. für die *Persönlichkeit* I, 243. Betrachtungen dieser drei Anlagen nach den Bedingungen [VI, 467] ihrer Möglichkeit I, 244. f. die Anlage zur Thierheit I, 244. für die Menschheit I, 245. für die Persönlichkeit I, 245. zufällige VI, 289. f. Beispiele VI, 289. f.
+
+- Anleihe I, 246. VI, 33.
+- Anleiher I, 247.
+- Annehmen *relativ* V, 503. *schlechthin* V, 503. ff. die *göttliche Beihülfe* im Guten I, 247. deus volentibus dat gratiam I, 248. die *Gnade* I, 248. zweierlei Art sich es vorzustellen I, 248. vollkommene Gnade I, 249. der Mensch muss thun, was in seinen Kräften steht I, 249. Erklärung des Ursprungs der Idee von übernatürlicher Beihülfe Gottes I, 249. *reflectirender* und *dogmatischer* Glaube daran I, 249. Die Herbeirufung der Gnadenwirkungen kann nicht in die Maxime der Vernunft aufgenommen werden I, 249.
+- Annehmlichkeit I, 250.
+- Annehmung I, 250. VI, 27. was erwerbe ich durch die Annehmung I, 251. nicht die Sache, sondern eine That I, 252. zur Sache muss noch die Uebergabe dazu kommen I, 252. Beispiel I, 252. ohne die Uebergabe fehlt der *physische* Besitz und also der Besitzact I, 253.
+- Anrathen I, 254.
+- Anrathungen I, 254.
+- Anreize I, 254. *praktische* I, 255.
+- Anschauen I, 72. 131.
+- Anschauung I, 23. 256. ff. 702. f. II, 52, 383. *andere Erklärung* I, 258. *dritte Erklärung* I, 258. durch sinnliche Anschauung wird der Gegenstand nur als Erscheinung gegeben I, 259. *formale* I, 695. sie ist ein Element unsrer Erkenntniss I, 262. die Fähigkeit anzuschauen I, 262. *intellectuelle, nichtsinnliche, rationale Anschauung* I, 263. ohne Sinnlichkeit hätten wir keine Anschauungen I, 263. sie ist entweder *empirisch* oder *rein* I, 264. 703. II, 106. V, 639. *nicht empirische* I, 265. mit allen *empirischen* ist eine *reine* verknüpft I, 266. Operation des Erkenntnissvermögens bei der Anschauung I, 266. ff. *äussere* und *innere* I, 269. *abgeleitete* und *ursprüngliche* I, 270. sie machen synthetische Urtheile möglich I, 270. *verständlich machen* I, 271. ob alle erkennende Wesen so, wie wir, anschauen I, 272. der *Phantasie* II, 215.
+- Anschauungsvermögen II, 12. ff.
+- Anschiessen I, 273. 795. *Theorie* desselben I, 273. ähnliche Wirkungsart in der Natur I, 274. es geschieht *plötzlich* I, 274. weitere Bedeutung des *Durande* I, 274. *Bergmanns* Beschreibung desselben I, 275. Bildung der Crystalle durch dasselbe I, 275. anderer Grund mancher Verschiedenheiten I, 275.
+- Anstiftung des Verraths I, 276. würde Verräther auch zu [VI, 468] Friedenszeiten machen I, 276. sie ist im Naturrecht verboten I, 276. und zwar auf strenge Art I, 277.
+
+- Antagonismus II, 793. ff.
+- Antecedens II, 18.
+- Anthropologie I, 277. IV, 355. *theoretische* I, 278. des *äussern Sinnes* I, 278. *medicinische* I, 279. *rationale* I, 279. in *engerer Bedeutung* I, 279. im *weitern Sinne des Worts* I, 279. des *innern Sinnes* I, 279. *praktische* I, 279. diese hat zwei Theile I, 280. *allgemeine praktische* I, 281. *besondere praktische* I, 281. *pragmatische* I, 281. II, 303. empirische Quellen derselben I, 281.
+- Anthropomorphismus I, 282. *dogmatischer* I, 282. *symbolischer* I, 282. er muss nicht auf Pflichtbegriffe einfliessen I, 285. Beispiel I, 286.
+- Anthropophobie IV, 309.
+- Anticipation II, 288. Princip derselben II, 355.
+- Antinomie der reinen Vernunft I, 287. *dreierlei Arten* derselben I, 288. der *speculativen Vernunft* I, 289. *mathematische* I, 289. f. *dynamische* I, 291. Auflösung dieser Widersprüche I, 292. f. der *praktischen Vernunft* I, 294. f. der *Urtheilskraft* I, 296. f. alter Gebrauch des Worts I, 298. des *Geschmacks* II, 138. f.
+- Antithetik I, 299. sie beschäftigt sich nicht mit einseitigen Behauptungen I, 299. *transscendentale* I, 299. *drei Fragen* bei derselben I, 299. Antwort darauf I, 300. f. sie ist scheinbar I, 301.
+- Anziehung, allgemeine I, 380. ff.
+- Anziehungskraft I, 302. II, 179. III, 674. die Möglichkeit der Materie erfordert sie als zweite wesentliche Grundkraft I, 302. f. Beweis I, 302. Merkwürdigkeit I, 304. Wirkung in die Ferne I, 305. sie wirkt *unmittelbar* durch den leeren Raum I, 306. Beweis I, 306. sie ist als *Grundkraft* unbegreiflich I, 307. sie wirkt *ausser der Berührung* I, 308. ff. ist eine *durchdringende Kraft* I, 312. durch sie nimmt die Materie einen Raum ein, ohne ihn zu erfüllen I, 312. erstreckt sich ins *Unendliche* I, 312. kommt jedem Theile der Materie zu I, 312. sie macht im Widerstreit mit der Zurückstossungskraft Materie möglich I, 313. Lehre der Alten über sie I, 313. *Gehlers* Einwürfe dagegen I, 314. ff.
+- Apathie I, 86. Pflicht derselben II, 860. f.
+- Apodiktisch I, 317. II, 48. apodiktische Sätze I, 317. im *strengsten Sinne* I, 318. apodiktischer Gebrauch der Vernunft I, 319. apodiktische Sätze sind entweder *Dogmata* oder *Mathemata* I, 320.
+- Apperception I, 321. 687. V, 269. ff. ist von zweierlei Art I, 322. *empirische* I, 322. V, 295. *reine* oder *ursprüngliche* I, 323. synthetische und analytische Einheit [VI, 469] der Apperception I, 324. der *Grundsatz* derselben I, 325. ist das erste reine Verstandeserkenntniss I, 326. wir bedürfen der *transscendentalen*, um Gegenstände zu erzeugen I, 327. zweite Bedeutung I, 328. *empirische* I, 328. *reine, ursprüngliche* oder *transscendentale* I, 328. *empirische* der Gegenstände und unsrer selbst I, 328. Grade derselben I, 329.
+
+- Apprehendiren I, 329. ist ein Actus des Apperceptionsvermögens I, 330. gehört dem Verstande an I, 331. und nicht der Sinnlichkeit I, 331.
+- Apprehension I, 332. Synthesis derselben I, 333. III, 576. *empirische* und *reine* I, 333. die mit ihr verbundene Reproduction I, 334. Bedeutung in der Rechtslehre I, 334. 409. ist jederzeit successiv II, 615.
+- Archäologie der Natur I, 335. leitet den ehemaligen Zustand der Erde aus den Ueberbleibseln der Urwelt ab I, 335. Beispiel I, 336. Denkmäler von alten mächtigen Verwüstungen auf der Erde I, 336. vornehmste Systeme darüber I, 336. ff.
+- Architectonik I, 351. hat Kant für alle Erkenntniss aus reiner Vernunft entworfen I, 352. *architectonisch* I, 353.
+- Architectonische I, 353.
+- Arges I, 728.
+- Argumente I, 686.
+- Aristokratie I, 355. ist zu einer rechtlichen Verfassung fähiger, als die *Demokratie* I, 355. *Hobbes* Lehre darüber I, 356. *Hume's* Lehre darüber I, 356. *Rousseau's* Lehre darüber I, 357. die aristokratische Staatsform ist aus zwei Verhältnissen zusammengesetzt I, 358.
+- Aristoteles I, 359. logische Schriften desselben I, 359. ff. enthalten die ganze Logik I, 365. sein Buch von den *Kategorien* I, 365. seine *Postprädicamente* I, 366.
+- Arithmetik IV, 136.
+- Art I, 367. III, 37. *Manier* und *Methode* I, 367. Arten der Zeit I, 368. Grundsatz derselben oder des *Scharfsinns* III, 40.
+- Articulation I, 368. hat die Critik der reinen Vernunft geliefert I, 369. was dazu gehört I, 369. Folge derselben I, 369. ff.
+- Arzneimittel IV, 583.
+- Aschini II, 206.
+- Asphyxie V, 130.
+- Assertion V, 157. ff.
+- Association I, 693.
+- Atheisten IV, 426.
+- Atomistik I, 374. sie heisst auch *mechanische Naturphilosophie* I, 374. das Wesentliche dieser Erklärungsart I, 375. *Gehler* behauptet sie I, 376. *Kant* widerlegt sie [VI, 470] I, 377. erste und vornehmste Beglaubigung derselben I, 377.
+
+- Atomus I, 371. Abstammung des Worts I, 372. ob es welche gebe I, 372.
+- Atomus als Klümpchen I, 372. ob es welche gebe I, 373. *Lamarck* behauptet sie wieder I, 373.
+- Attraction I, 380. Ursache dieses allgemeinen *Phänomens* I, 380. *allgemeine* I, 380. wie sich Kant hierüber von andern Physikern unterscheidet I, 381.
+- Attribut II, 212. ff.
+- Aufbewahrung VI, 33.
+- Aufeinanderfolge V, 420. ff.
+- Aufenthalt der Begriffe I, 381. Entstehung der Begriffe auf ihrem Boden in der Natur I, 382. Beispiel I, 382. f.
+- Auffassen I, 329.
+- Auffassung I, 332.
+- Auffassungs-Vermögen VI, 10.
+- Aufgabe I, 383. *allgemeine der reinen Vernunft* I, 383. in ihr können mehrere andere enthalten seyn I, 384. *allgemeine, besondere* I, 384. Formel der *allgemeinen Aufgabe der reinen Vernunft* I, 384. Auflösung derselben I, 385. andere Aufgabe, die damit nicht zu verwechseln ist I, 385. Nothwendigkeit jener Auflösung I, 386. *Hume* verwarf den Gegenstand dieser Aufgabe I, 388. und hielt ihn für ein Hirngespinst I, 389. mit der Auflösung derselben sind mehrere andere aufgelöset I, 389. ff. Beispiel I, 392. ff. Kant hat sie aufgelöset I, 393. *Praktische Aufgabe der reinen Vernunft* I, 394. wie sie entsteht I, 395. worin sie *besteht* I, 396. Anmerkung I, 396. *sittliche* IV, 653.
+- Aufhebung, transscendentale V, 746. f.
+- Aufklärung I, 397. ist in *Thesi* leicht und in *Hypothesi* schwer I, 397. der Name I, 398. ist gegen den *Aberglauben* I, 398. subjectiver Sinn des Worts I, 399. Probe, ob man über etwas *aufgeklärt* sey I, 399. f. in *einzelnen Subjecten* Aufklärung zu gründen ist leicht, ein *ganzes Zeitalter* aufzuklären ist schwer I, 401. Kants Abhandlung darüber I, 401. f.
+- Auftreten VI, 279. f.
+- Auflösung I, 383. 403. 754. die Cörper wirken nicht chemisch an einander, wenn sie nicht flüssig sind I, 404. *absolut vollkommene* oder *vollständige* I, 404. ist Wirkung der *Anziehung* I, 404. ob eine absolut vollkommene denkbar sei I, 404. f. Volumen der Auflösung I, 406. die *vollständige* Auflösung durch Kunst ist *problematisch* I, 407.
+- Auflösungsmittel I, 407. der Name *Menstruum* I, 408.
+- Aufmerken VI, 71.
+- Aufmunterung I, 408.
+- Aufrichtig II, 203.
+- [VI, 471] Aufrichtigkeit II, 201. V, 518.
+- Aufruhr IV, 870. ff.
+- Aufstand IV, 870. ff.
+- Aus der Erfahrung I, 1. II, 290. ff.
+- Ausbildungsvermögen II, 16.
+- Ausdehnung I, 409. man kann in ihr nichts als blosse Verhältnisse erkennen I, 409. f. Vorstellungen des *Descartes* davon I, 411. des *Locke* I, 412. *Wolfs* I, 413. des *Leibnitz* I, 413. *Kants* I, 414.
+- Ausdehnungskraft II, 179. III, 674.
+- Ausführlichkeit, logische des Begriffs I, 414. VI, 282. die gewöhnliche Art, einen Begriff *ausführlich* zu machen I, 415. nach *Lambert* I, 415. Name des Verfahrens, wodurch ein Begriff ausführlich gemacht wird I, 416. sie ist nothwendig I, 416.
+- Auslegung der Offenbarung I, 417. ff. *authentische* I, 421. f. *moralische* III, 642. Verhältniss derselben zur *doctrinalen* I, 423. die reine Vernunftreligion entscheidet über sie zu oberst I, 424. diese kann allein das dem Geiste nach verstehen, was die *Offenbarung* uns dem Buchstaben nach lehrt I, 425. Beispiel I, 426. Annahme, wenn diese Auslegung zu gezwungen seyn sollte I, 428. diese Behauptung Kants ist keine neue Maxime I, 429. Möglichkeit der jedesmaligen Vereinigung des *moralischen Sinnes* mit dem *buchstäblichen* des Volksglaubens I, 430. diese moralische Auslegung ist nicht unredlich I, 430. f. von welchem Grundsatz alle ausgehen muss I, 432. *schwärmerische* I, 433. ist falsch I, 434. *geistlich despotische* I, 435. *weltlich despotische* I, 436.
+- Auslegungskunst, biblische V, 124. ff.
+- Ausrottungskrieg I, 437. die Mittel dazu I, 438.
+- Ausschliessung II, 425.
+- Ausspähungssucht der Sitten Anderer IV, 391.
+- Aussprüche VI, 77. ff.
+- Ausser uns I, 438. *erste Bedeutung* I, 438. *zweite Bedeutung* I, 438.
+- Autokratie I, 439. *zweierlei* I, 439. *der Materie* I, 439. *des Staats* I, 440.
+- Autokrator I, 440. V, 353.
+- Autonomie des Willens oder der reinen praktischen Vernunft I, 440. 763. synthetische Verdeutlichung desselben I, 440. f. Idee eines *allgemein gesetzgebenden Willens* I, 442. f. sie schliesst alles Interesse bei der Gesetzgebung aus I, 443. ein solcher Wille kann von keinem Interesse abhängen I, 444. Unterschied zwischen Kants Theorie und jeder andern I, 444. sie ist der Grund der Würde jeder vernünftigen Natur I, 444. Beweis derselben I, 445. Warum ein *Sollen* in unserm Willen ist I, 446.
+- [VI, 472] Autor I, 736.
+- Axiom I, 207. 447. ist *a priori* I, 448. ist *synthetisch* I, 448. ist *unmittelbar gewiss* I, 449. in der Philosophie giebt es keines I, 449. ihre Grundsätze sind nicht unmittelbar gewiss I, 449. sind *discursiv* I, 450. müssen deducirt werden I, 450. des *Euklides* II, 449. ff.
+- Axiomen der Anschauung I, 452. sind wahre Axiomen I, 452. Unterschied zwischen Axiom und Grundsatz I, 452. Princip aller I, 452. II, 355. Deduction desselben I, 453. f. Axiomen der Arithmetik I, 454. Wichtigkeit jenes Princips I, 454.
+
+### B
+
+- Bagatelle II, 976.
+- Bastarderklärung I, 465.
+- Baukunst I, 466. Beispiel I, 466. man hat in der Baukunst einen Begriff von einem Dinge I, 466. das *nur durch Kunst möglich ist* I, 466. weil es durch einen *willkührlichen Zweck bestimmt ist* I, 466. zu dessen Absicht es gemacht werden soll I, 467. und so, dass der Begriff desselben *ästhetisch-zweckmässig* dadurch dargestellt werden soll I, 467. bei der Baukunst ist ein gewisser Gebrauch des künstlichen Gegenstandes die Hauptsache I, 467. Beispiele I, 467.
+- Baumgarten I, 468.
+- Bauwerk I, 468.
+- Beamter einer Kirche I, 471. III, 629.
+- Bebung I, 596.
+- Bedenklichkeit, äusserste II, 976.
+- Bedeutung I, 472. zweierlei Art I, 473. *theoretische* I, 473. *praktische* I, 474. f.
+- Bedingtes II, 618. V, 526.
+- Bedürfniss I, 234. *praktisches* I, 477. der *Neigung* I, 477. der *reinen speculativen Vernunft* I, 477.
+- Beerbung II, 428.
+- Befugniss I, 478. 526. im Naturrecht hat sich Kant nicht so deutlich darüber erklärt I, 478. aber wohl in der Schrift *zum ewigen Frieden* I, 479.
+- Begebenheit I, 481. *andere Erklärung* I, 481.
+- Begehrung VI, 177.
+- Begehrungsvermögen VI, 177. *oberes* VI, 174. ff. *nach Begriffen* VI, 178.
+- Begehungspflicht IV, 558.
+- Begreifen I, 482. zum vollständigen *Begreifen* dienen Vernunftbegriffe I, 482. das *Unbedingte* lässt sich nicht begreifen I, 483. schon *Leibnitz* macht einen Unterschied zwischen *Begreiten* und *Verstehen* I, 484.
+- [VI, 473] Begrenzung IV, 6.
+- Begriff I, 484. 703. II, 52. *angebohrner* III, 800. ff. *Aufenthalt* desselben I, 381. ff. *Gebiet* desselben II, 725. ff. *Entstehung* desselben auf seinem Boden in der Natur I, 382. *gemeinsamer* I, 690. ist die Vorstellung, die in mehrern Gegenständen zu finden ist I, 486. logische und metaphysische Betrachtung desselben I, 487. unter Begriffe und auf Begriffe bringen I, 487. f. ist eins der Elemente aller unsrer Erkenntniss I, 489. man muss ihn sinnlich machen I, 489. *angebohrner* I, 490. *empirischer* I, 490. 493. 495. ff. II, 548. *reiner* I, 490. f. *sensitiver* oder *sinnlicher* I, 492. f. 503. *erworbener* I, 492. *formaler* I, 492. *Grenzbegriff* I, 492. *leerer* I, 493. III, 777. leeres Datum zu Begriffen III, 777. *unendlicher* I, 493. *Verstandesbegriff* I, 493. f. 503. *reiner sinnlicher* oder *mathematischer* I, 494. *empirischer sinnlicher* I, 494. ff. *reiner Verstandesbegriff* I, 497. f. 504. f. *praktischer* und *theoretischer* I, 500. ff. *Naturbegriff* I, 501. *Freiheitsbegriff* I, 501. *transscendentaler* I, 502. *transscendenter* I, 502. *Vernunftbegriff* oder *Idee* I, 502. f. 505. *intellectueller* I, 503. *reiner sinnlicher Erfahrungsbegriff* I, 503. *gemischter sinnlicher* I, 504. f. *gemischter sinnlicher a priori* I, 504. f. *reiner sinnlicher a priori* I, 504. f. *empirische Verstandesbegriffe* I, 504. alle Verstandesbegriffe sind a priori I, 504. *gemischter Verstandesbegriff* I, 504. *reiner Vernunftbegriff* I, 505. *vermischter Vernunftbegriff* I, 505. *kosmologischer* VI, 128. f. *Reflexionsbegriff* oder *Vergleichungsbegriff* I, 505. f. *Stammbegriff* und *abgeleiteter* I, 506. logischer und metaphysischer Gebrauch der Kategorien I, 506. Umfang und logischer Inhalt eines Begriffs I, 506. f. *reale* und *logische Quantität* eines Begriffs I, 507. *logische* und *reale Qualität* desselben I, 507. *problematischer* I, 507. *usurpirter* I, 508. *vernünftelnder, dialektischer*, oder *unächter Vernunftbegriff* I, 508. von der Vernunft bestätigter, Erkenntniss gründender, oder *ächter Vernunftbegriff* I, 509. *disjunctive Bestimmung* desselben I, 509. *alternative Bestimmung* desselben I, 510. *distributive Bestimmung* desselben I, 511. *transscendentaler Gebrauch* desselben I, 512. *empirischer Gebrauch* desselben I, 513. *Stufenleiter* derselben I, 513. *Scheinbegriff* I, 514.
+- Begüterung II, 838.
+- Behalten II, 546.
+- Beharrliches I, 284. f. II, 213. V, 409. ff.
+- Beharrlichkeit I, 515. II, 213. *Begriff des Beharrlichen* I, 515. kann nur zum Behuf der Erfahrung bewiesen werden [VI, 474] I, 516. im *innern* Sinn ist nichts Beharrliches I, 517. f. *Grundsatz der Beharrlichkeit* I, 517. in *phoronomischer* Bedeutung I, 518. in einem *beharrlichen Zustande* seyn und in einem Zustande beharren I, 519.
+
+- Behaupten I, 520.
+- Beherrschung der Glieder der Kirche I, 521. III, 629.
+- Bejahung I, 521. *transscendentale* I, 521. f. II, 104. IV, 858 ff. *logische* I, 522. II, 104. die *transscendentale* ist ein reiner Verstandesbegriff I, 522.
+- Beischlaf, *unehlicher* II, 193. f.
+- Beispiel I, 522. 523.
+- Beitritt, *göttlicher* VI, 57.
+- Beiwohnung I, 523. *unehliche* II, 193. f.
+- Bekannt werden I, 523.
+- Bekehrung I, 568.
+- Belehrung I, 524.
+- Beleuchtung, *kritische* I, 524.
+- Belieben I, 525. Sache des *blossen* Beliebens I, 525. II, 419.
+- Beliehener I, 526. derjenige, welchen die *Römer* commodatarius nannten I, 526. der Schaden fällt *nicht auf ihn* I, 527. ff. Widerlegung der Einwürfe dagegen I, 530. es ist aber Pflicht für den Beliehenen, ihn zu tragen. I, 531.
+- Belohnung I, 532. II, 977.
+- Bemächtigung I, 335. 554. II, 410. 416.
+- Beobachtung I, 523. II, 292.
+- Beredtsamkeit I, 532. ist eine der beiden *redenden* Künste I, 532.
+- Berkley I, 533. von seiner Bekanntschaft mit *Malebranche* bis an seinen Tod I, 534. seine Schriften I, 534. Kants Urtheil über dessen *Idealismus* und dieser Idealismus selbst I, 535. ff. dieser Idealismus ist *dogmatisch* I, 542. *mystisch* und *schwärmerisch* I, 543. ff.
+- Berufung I, 547. jeder Mensch soll sich als zum Mitglied eines ethischen Staats *berufen* betrachten I, 548. von der *speculativen* Seite ist sie ein Geheimniss I, 548. II, 820.
+- Berührung I, 549. II, 155. Wirkung in die *Ferne* I, 550. in *mathematischer* Bedeutung I, 550. *physische* I, 551.
+- Beschaffenheit IV, 733. ff.
+- Beschaulich I, 836.
+- Beschenkter I, 552.
+- Beschleunigung I, 552. *gleichförmige* I, 553. *Moment* derselben I, 553. ist der *Zusatz* zur Geschwindigkeit in jedem *Augenblick* I, 553. der *Möglichkeit* derselben durch ein immer gleiches *Moment* beruht auf dem Gesetz der Trägheit I, 553.
+- Beschränkung IV, 6.
+- Besitz I, 554. *empirischer* II, 421. in der *Erscheinung* II, [VI, 475] 410. *intelligibeler* II, 421. *blossrechtlicher* II, 410. *zu Recht beständiger* II, 426.
+
+- Besitzact I, 253. II, 426.
+- Besitznehmung I, 554. II, 416. *erste, frühere* II, 416. *physische* II, 418.
+- Besitzergreifung I, 335. 554.
+- Besserung I, 578.
+- Bestimmend I, 802.
+- Bestimmtheit I, 555.
+- Bestimmung I, 556. *absolute oder unbedingte* I, 556. *relative oder bedingte* I, 556. eines *wirklichen* Dinges ist ein Accidenz I, 557. ein jedes Ding steht unter dem Grundsatz der durchgängigen Bestimmung I, 557. f.
+- Grundsatz der Bestimmbarkeit I, 559. Grundsatz der durchgängigen I, 559. ff.
+- Bestrafungskrieg III, 712.
+- Bestreben *nach wechselseitiger Annäherung* I, 309.
+- Besuchsrecht VI, 148.
+- Betastungssinn II, 773. V, 294.
+- Beten II, 719.
+- Betende II, 721.
+- Betrug I, 562. der *Sinne* I, 562. Betrug der Sinne ist eine falsche Benennung I, 562. f. Satanslist I, 567.
+- Beurtheilung I, 568. *ästhetische* I, 568. *falsche* II, 574.
+- Beurtheilungskraft V, 717. ff.
+- Beurtheilungsvermögen I, 569. *theoretisches* I, 569. praktisches I, 569.
+- Bevollmächtigungsvertrag I, 569. VI, 34.
+- Beweglichkeit I, 569.
+- Bewegbarkeit I, 569.
+- Bewegung I, 570. 631. III, 531. ff. Einwendung wider die Erklärung I, 571. *metaphysische* Begriffe davon I, 571. als Gegenstand der Erfahrung I, 572. *Ort* eines Cörpers I, 573. ihr *Begriff* ist nur durch und in der *Zeitvorstellung* möglich I, 574. *Ruhe* I, 575. ff. *Schwierigkeiten* bei der Bewegung I, 578. *Umstände*, die bei derselben in Betrachtung zu ziehen sind I, 585. *Ursache* derselben I, 585. 592. *Richtung* derselben I, 585. *Geschwindigkeit* derselben I, 588. *Grösse* derselben I, 590. *zusammengesetzte* I, 591. *Eintheilung* derselben I, 593. *absolute* I, 593. ff. *relative* I, 594. ff. *beschleunigte* I, 596. *cirkulirende* I, 597. *drehende* I, 597. *eigene* I, 597. *einfache* I, 598. *erweiternde, den Raum erweiternde* I, 599. *geradlinigte* I, 599. *krummlinigte* I, 599. *fortschreitende* I, 599. *fortschreitende den Raum erweiternde* I, 599. *fortschreitende auf einen gegebenen Raum eingeschränkte* I, 599. *fortschreitende circulirende* I, 600. *oscillirende* I, 600. 602. *gemeinschaftliche, [VI, 476] gemeine* I, 600. *tägliche, erste* I, 600. *geradlinigte* I, 600. *gleichförmige* I, 600. *gleichförmig-beschleunigte* I, 601. *gleichförmig-verminderte* I, 601. *krummlinigte* I, 601. *schwankende, reciprocirende* I, 602. *relative* I, 602. 604. *scheinbare* I, 604. *ungleichförmige* I, 605. *ungleichförmig-beschleunigte* I, 605. *ungleichförmig-verminderte* I, 605. *veränderte* I, 605. *verminderte* I, 606. *wirkliche, wahre* I, 606. *in sich zurückkehrende* I, 606. *zusammengesetzte* I, 607. ff. *Ursachen* derselben I, 620. *dynamische Ursache* I, 620. *mechanische Ursache* I, 625. ff. *Phänomenologie* I, 632. ff. Kants neuer Lehrbegriff derselben V, 139. ff. neue Begriffe derselben V, 140. ff.
+
+- Bewegungsgrund des Wollens I, 647. II, 309. ein durch sinnliche Triebe bewirktes Begehren hat keinen I, 647. *reiner* und *gemischter* I, 648. *guter* u. *böser, moralischer* u. *unmoralischer* I, 648. *vernünftiger, unvernünftiger, sinnlicher* I, 648.
+- Bewegungsvermögen der Seele I, 649. *drei Systeme* darüber I, 649. nach dem *kritischen Idealismus* I, 650. Gedanke und Cörper sind nicht so ungleichartig, als sie dem *ersten* Ansehen nach scheinen I, 650. die Seele I, 651. ist eine wesentliche Grundkraft I, 652. die aber nicht alle *objective* Vorstellungen wirkt I, 653.
+- Beweis I, 654. I. Theorie des Beweises I, 654. Beispiel I, 655. ff. Einwurf I, 659. κατ' ἀλήθειαν oder *absoluter* I, 659. κατ' ἄνθρωπον oder *relativer* I, 660. Arten der *theoretischen* Beweisgründe I, 661. *akroamatischer* I, 69. 668. *anschauender* I, 79. II, 48. ff. *discursiver* I, 69. *intuitiver oder mathematischer* I, 69. ff. 670. 678. II, 48. ff. *logisch-gerechter* I, 661. ff. *kosmologischer* I, 664. ff. *ontologischer* I, 664. Resultat I, 667. II. Arten der Beweise I, 668. *apagogischer* I, 668. *directer* I, 669. ff. 677. f. *apodiktischer* I, 676. II, 48. ff. *Deduction oder kritischer auch transscendentaler* I, 677. ff. II, 37. ff. *Demonstration* I, 677. f. II, 48. ff. *dogmatischer* I, 677. *Erfahrungsbeweis* I, 677. *empirisch-intuitiver* I, 678. II, 48. *ostensiver* I, 678. *philosophischer* I, 69. *transscendentaler* I, 678. ff. II, 37. ff.
+- Beweisgründe I, 686.
+- Bewunderung VI, 36. ff.
+- Bewusstseyn I, 321. 687. *dreierlei Identität* desselben I, 687. f. bei der Verknüpfung desselben kommt immer *zweierlei Einheit* vor I, 689. alles Mannigfaltige der Anschauung muss durch die *ursprünglich synthetische Einheit* des Bewusstseyns verbunden werden I, 691. *oberster Grundsatz* desselben I, 692. alle Vereinigung mehrerer Vorstellungen fordert Einheit desselben I, 692. *seiner selbst* V, 269. ff.
+
+[VI, 477] *transscendentale* Einheit desselben I, 693. *objective* I, 694. *subjective* I, 694. *empirisches* I, 322. 328. 696. *reines* I, 323. 328. 697. was es *auffasst* I, 699. *Lehrsatz* I, 699. *hypostasirtes* III, 327.
+
+- Bezauberung V, 301. f.
+- Bezeichnung II, 410. V, 292.
+- Beziehung I, 700. *logische* I, 700. *metaphysische* I, 701. *a priori* I, 701. *empirische* I, 701. *transscendentale* I, 701. ff. *wechselseitige* I, 706.
+- Bibelglaube III, 635.
+- Bigotterie III, 145. f. 418.
+- Bild I, 706. Beispiel I, 706. Unterschied zwischen *Bild* und *Schema* I, 707. ist ein *Product* des *empirischen Vermögens* der *productiven Einbildungskraft* I, 708. *reines* aller Grössen I, 708.
+- Bildbauerkunst I, 709. führt mit Recht den Namen einer *Kunst* I, 709. stellt Begriffe von Dingen cörperlich dar I, 709. so wie sie in der Natur existiren könnten I, 710. nimmt bei ihren Producten immer Rücksicht auf ästhetische Zweckmässigkeit I, 710.
+- Bildung, *freie* I, 795.
+- Bildungstrieb I, 710. ff. *Reproduction* I, 717.
+- Bildungsvermögen II, 12. ff.
+- Billigkeit I, 719. Beispiele I, 719. Vergleichung der *Kantischen* Vorstellung mit der *meinigen* I, 721. *Einwurf gegen meine Vorstellung* I, 722. die *Billigkeitsforderung* ist gleichsam die gemeinschaftliche *Grenze* zwischen dem Rechtsanspruch und der Bitte I, 723. f. *Gerichtshof* derselben I, 725. das grösste Recht ist oft das grösste Unrecht I, 727. *Schriftstellen* darüber I, 727.
+- Billigung VI, 27.
+- Bleiglanz I, 796.
+- Blödigkeit IV, 385.
+- Blutstein I, 798.
+- Bösartigkeit III, 224.
+- Böses I, 728. Beispiel I, 728. muss durch ein *praktisches* Princip bestimmt werden. I, 730. *physikalisches* I, 731. *moralisches* I, 731. nihil aversamur nisi sub ratione mali I, 731. malum I, 732. das *Weh* I, 732. *Uebel* I, 732. f. *Böses* I, 734. *positiv* IV, 657. ff.
+- Bornirt I, 735.
+- Buch I, 736. *geschriebenes* und *gedrucktes* I, 736. der *Schriftsteller* I, 736. der *Verleger* I, 736. f.
+- Büchernachdruck I, 738. 1. *Lehrsatz* I, 738. 2. *Lehrsatz* I, 740. Einwurf I, 741.
+- Burke I, 743. Auszug aus seinen *Untersuchungen* über das *Erhabene und Schöne* I, 744. ff. Vorrede I, 744. *Einleitung* I, 744. I. *Theil* I, 745. II. *Theil* I, 746. III. Theil I, [VI, 478] I, 746. IV. *Theil* I, 747. V. *Theil* I, 748. *Urtheil* darüber I, 748. f. *Widerlegung* I, 749. ff.
+
+### C
+
+- Cartesianische Wirbel VI, 199.
+- Casualität I, 752.
+- Casuistik I, 752.
+- Causaldefinition V, 150.
+- Causalität II, 63. V, 644. ff. *bedingte* u. *unbedingte* II, 69. 633. f.
+- Causalverknüpfung II, 63. ff. VI, 337. f.
+- Caution VI, 319. f.
+- Cautionsstellung VI, 319. f.
+- Caviren VI, 319. f.
+- Charakter V, 304. VI, 228. ff. *in der Erscheinung* V, 305. ff. *empirischer* V, 303. ff. *physischer* V, 303. ff. *intelligibeler* V, 304. einen *haben* V, 306. *ohne* Charakter seyn V, 306. man muss ihn erwerben V, 307. des *Geschlechts* V, 308. des *Volks* V, 309. der *Race* V, 310.
+- Charakterismen II, 11. f. II, 979.
+- Charakteristik, *anthropologische* VI, 233. ff. *physiognomische* VI, 234. f.
+- Charakteristisches VI, 235. ff.
+- Chemie II, 302.
+- Chemische Wirkung der *Cörper auf einander* I, 754.
+- Chimären I, 755. *logische* u. *transscendente* I, 755.
+- Christenthum I, 756. *Geist* desselben I, 756. f. *Reich Gottes* I, 757. f. warum es so heisst I, 759. die beiden *Elemente* des höchsten Guts desselben I, 760. *Resultat* I, 761. Vergleichung desselben mit dem *Cynismus* I, 763. f. Vergleichung desselben mit dem *Epikurismus* I, 765. f. Vergleichung desselben mit dem *Stoicismus* I, 767. ff. *Resultat* I, 770.
+- Christianismus I, 120. 756. ff.
+- Chronometrie VI, 277. ff.
+- Cirkel I, 70. 98.
+- Cleriker I, 772. das *Wort* I, 772. *Ableitung* des Worts I, 772. *Tindal* lehrte wie Kant I, 773. Kants *Behauptung* I, 774. *Storrs* Einwurf I, 774. der *Clerus* I, 775.
+- Clerus I, 775.
+- Coalition I, 776. *intensive* Grössen I, 776. *Beispiel* I, 776. *Synthesis* derselben I, 777. durch sie entsteht die *intensive Grösse* I, 777. *Beispiel* I, 778. *Resultat* I, 778.
+- Cörper I, 81. 374. 779. *transscendentale Erörterung* I, 779. *transscendentaler Realismus, Idealismus und Dualismus* I, 780. ist ein Gegenstand des *äussern Sinnes* [VI, 479] I, 781. *Anschauung* desselben I, 781. es giebt *ausser uns* Cörper I, 782. der *materielle Idealismus* leugnet diess I, 782. Behauptungen *vor Kant* I, 783. in *mechanischer* Bedeutung I, 784. *organischer oder organisirter* IV, 487.
+
+- Cörperlehre I, 277. II, 302.
+- Cörperlich I, 792. IV, 129. f.
+- Coexistenz VI, 299. f.
+- Cogito ergo sum I, 784. Kant behauptet, dass durch diesen Satz das Daseyn der Seele, als Dinges an sich, nicht bewiesen werde I, 785.
+- Cohäsion VI, 315.
+- Collision I, 785.
+- Colonie I, 786.
+- Commercium II, 839. ff.
+- Communion I, 787. III, 79. es ist dabei von der *Repräsentirung* des unsichtbaren *Dienstes Gottes* durch etwas sichtbares die Rede I, 787. *Pflichten* den Geist des wahren *Dienstes Gottes* betreffend I, 787. ihnen können gewisse Förmlichkeiten zum *Symbol* dienen I, 788. man hat daher in der christlichen Kirche *vier Symbole* I, 788. die Communion ist eine solche *symbolische* Handlung I, 788. die *Geschichte* derselben verdiente wohl eine eigene Untersuchung und Bearbeitung I, 789. was sie *versinnlichen* soll I, 789. sie ist *zufällig* I, 790. enthält etwas *Grosses* I, 791. ein Mittel, die sittliche Gesinnung der brüderlichen Liebe zu *befördern* I, 791. f. ist *bloss* eine *kirchliche* Handlung I, 793. kein Gnadenmittel I, 793.
+- Composition VI, 317. f.
+- Concilien I, 775.
+- Conclusion IV, 724.
+- Concret I, 793.
+- Concubinat II, 193. f.
+- Concupiscenz VI, 177. f.
+- Configurationen I, 795. *Ursache* derselben I, 795. *Beispiel* I, 796. innerlich zeigen alle eine bestimmte *Textur* I, 796. man hat dieses auch an einigen *Metallen* nach der Schmelzung beobachtet I, 797. *Beispiel* I, 797. f. das Flüssige ist älter als das Feste I, 798.
+- Congress VI, 319.
+- Consequenz II, 18. V, 203.
+- Constitution I, 800. *objective* Bedeutung I, 800. *subjective* Bedeutung I, 801. *andere* Bedeutung I, 801.
+- Constitutionsgesetze I, 802.
+- Constitutiv I, 101. 144. 216. 222. 802. *constitutiver Grundsatz* I, 803. f. *für die Erfahrung* I, 805. *constitutives Erkenntnissvermögen* I, 805. ff. der *Verstand* ist es für das *Erkenntnissvermögen* I, 811. die *Urtheilskraft* für das *Gefühlsvermögen* I, 811. die Vernunft [VI, 480] für das *Begehrungsvermögen* I, 811. ff. was zur Erkenntniss als *regulativ* dient, das dient oft zum Wollen als *constitutiv* I, 813.
+
+- Construction II, 6. *reine* I, 815. ff. 823. *empirische* I, 825.
+- Construiren I, 70. 801. 805. 814. kann nur durch die *blosse Einbildungskraft* geschehen I, 815. Beispiele einer *reinen Construction* I, 815. die Mathematik legt allen ihren *Demonstrationen* reine Constructionen zum Grunde I, 816. was zur Construction eines Begriffs a priori erfordert wird I, 819. Unterschied zwischen *mathematischer* und *philosophischer* Erkenntniss I, 821. bisherige Art, Mathematik von Philosophie zu unterscheiden I, 822. Beispiel I, 823. *zwei Arten* von reinen Constructionen I, 823. f. *empirische Construction* I, 825. Unterschied zwischen dem *discursiven* u. *intuitiven* Vernunftgebrauch I, 826. wenn man erkennt, ob ein Begriff a priori *construirt* werden kann oder nicht I, 826. welche Begriffe sich nur *construiren* lassen I, 827. *transscendentale* Sätze lassen sich nicht durch Construction geben I, 827. welche Erkenntniss sich durch Construction des Begriffs auf ihren Gegenstand bezieht I, 828. *doppelter* Vernunftgebrauch I, 828. warum die *Wolfische* Anwendung der *mathematischen Methode* in der Philosophie misslücken musste I, 829. f. die *Construction* macht nur in der Mathematik *Axiome* möglich I, 831. sie macht auch nur die Mathematik der *Demonstration* fähig I, 831. ff. was einen Satz zum *mathematischen* macht I, 835. *schematische* u. *technische* Construction I, 835. *geometrische* u. *mechanische* Construction I, 835. die *Geometrie* I, 835.
+- Contemplation II, 8.
+- Contemplativ I, 836.
+- Continuirliche Grössen II, 611. f.
+- Continuität I, 837. *Markus Herz* Erklärung I, 837. *metaphysisches* Gesetz derselben I, 838. *Kästners* Anwendung I, 838. Unmöglichkeit einer Vorstellung von *Newton*, wegen der Stetigkeit I, 839. *Euler* sahe den Widerspruch zwischen derselben und der Stetigkeit ein I, 839. *Kästner* vermisste einen Beweis für die strenge Allgemeinheit der Stetigkeit I, 839 und machte einen Einwurf dagegen I, 840. Kant demonstrirt es I, 840. *Erläuterung* dieses Begriffs I, 841. *Grund* derselben I, 842. zwischen zwei *Zuständen* giebt es immer einen mittleren I, 842. *Kästners Einwurf* I, 843. *Frage* I, 843. *Antwort* I, 844. sagt, wie unsre *Apprehensionen* beschaffen seyn müssen I, 844. *Kästner* will den Uebergang aus einem Zustand in den andern ohne Stetigkeit begreiflich machen I, 844. *Antwort* I, 845. *Kästner* will die Stetigkeit in der Geometrie mit dem Discreten in der Natur [VI, 481] vereinigen I, 845. *Antwort* I, 846. Was das Gesetz derselben verbietet I, 846. in der Stufenleiter der Geschöpfe III, 853.
+
+- Contract I, 801. VI, 26. ff.
+- Contrahirende I, 251.
+- Copei III, 373.
+- Corpuscularphilosophie I, 374. ff.
+- Cosmologischer Beweis I, 847. Kants *gegründete Bemerkung* darüber I, 848.
+- Cosmotheologie I, 848. *Theologie* I, 848. *transscendentale Theologie* I, 848. die *Cosmotheologie* ist ein Theil derselben I, 849. beweiset das Daseyn Gottes durch *zwei Schlüsse* I, 849.
+- Critik der Erkenntnissvermögen I, 9.
+- Critik der praktischen Vernunft I, 859.
+- Critik des Geschmacks I, 463.
+- Critik der reinen Vernunft I, 850. Kant hat sie aufgestellt I, 851. ist eine *Vorbereitung* zu einem *Organon der reinen Vernunft* I, 852. f. *Wissenschaft*, die daraus entspringt I, 854. wie sie von der *Transscendentalphilosophie* unterschieden ist I, 854. sie ist die *vollständige Idee* der *Transscendentalphilosophie* I, 855. sie zerfällt in *zwei Theile* I, 856. unter *reiner Vernunft* kann man *dreierlei* verstehen I, 856. ff. *Werth* derselben I, 859. ff. warum sie *Critik der reinen Vernunft* heisst I, 862. *Unterschied* zwischen derselben und den *Prolegomenen* I, 862. *Resultat* I, 863. *Kategorien der Modalität* I, 864. für uns giebt es *bloss* in der Erfahrung *Wirklichkeit* I, 865. *Resultat* I, 866.
+- Critiker I, 261. f.
+- Crusius I, 867. *Schriften* I, 867. ff.
+- Crystalle I, 275.
+- Crystallisiren I, 273.
+- Cultur I, 524. II, 115. 768.
+
+### D
+
+- Dämonen II, 1.
+- Dämonolatrie III, 145. f. 418.
+- Dämonologie II, 1. das *Wort* II, 2. wann wir nicht in sie verfallen werden II, 2. wann keine statt findet II, 3. wann unsere Gotteserkenntniss dazu wird II, 4.
+- Darlegen II, 50.
+- Darstellung II, 6. wie die eines Begriffs geschehen kann II, 6. Beispiel II, 7. f. ist *zweifach* II, 9. *schematische* II, 9. *symbolische* II, 9. *reale* II, 10. *wirkliche* II, 10. Baumgartens unrichtige Eintheilung der Erkenntniss II, 10.
+
+[VI, 482] Alle Anschauungen a priori sind entweder *Schemate oder Symbole* II, 11.
+
+- Darstellungsvermögen II, 12. Darstellungskraft II, 13. es gehört zum Theil zur Sinnlichkeit II, 13. Eintheilung desselben II, 14. f. Unterschied zwischen ihm und der *Einbildungskraft* II, 218.
+- Daseyn II, 16. ff. 466. ff. der Begriff desselben ist eine *Kategorie* II, 17. zeigt sich im *assertorischen Urtheil* II, 19. warum er eine Kategorie ist II, 20. *analytisches* oder *logisches* und *metaphysisches, reales* oder *synthetisches* II, 21. f. *transscendentales Schema* desselben II, 23. f. Kennzeichen desselben II, 25. Dreierlei gehört zu demselben II, 25. f. Unterschied zwischen *Kants* und *Anderer Theorie* II, 27. Resultat II, 28. vor der Wahrnehmung II, 29. Uebersicht II, 30. ff. Verhältniss desselben zu den *Dingen an sich* II, 32. ff. *Baumgartens unrichtige Erklärung* II, 35. f.
+- Dauer II, 24.
+- Declaration I, 499.
+- Deduction II, 37. f. 386. *empirische kann es nicht geben* II, 39. f. was derselben bedarf II, 41. f. Eintheilung derselben II, 41. *objective, subjective* II, 41.
+- Definiren I, 495. *real* II, 31.
+- Definition I, 499. 830. f. *analytische* I, 201. *mathematische* I, 500. 830. *philosophische* I, 499. 830.
+- Demonstrabel II, 43. f. was die Logiker gemeiniglich darunter verstehen II, 45. was nicht so heissen kann II, 46. was *indemonstrabel* ist II, 45. ff.
+- Demonstration II, 46. 48. ein philosophischer Beweis ist keine II, 48. die Gewissheit derselben II, 48. man hat sie verkannt II, 49. Kants vortreffliche Bemerkung II, 50.
+- Demonstriren I, 70. f. II, 43. f. 50.
+- Demüthigen I, 56.
+- Demüthigung II, 51. ist ein Gefühl II, 51. a priori II, 52.
+- Demuth, erlogene III, 710. ff.
+- Denkart, skeptische V, 330. ff.
+- Denken II, 52. geht durch Begriffe II, 53. f. ist nicht einerlei mit erkennen II, 55. *logisches* II, 56. *reales* II, 56. 374. ff. wann es Erkenntniss wird II, 56. f. *metaphysische Bedeutung* II, 57. f. *Form* desselben II, 58. *Resultat* II, 59. geschieht durch die Kategorien II, 61. in eine Verstandeswelt hinein II, 61.
+- Denkzeichen VI, 229.
+- Dependenz II, 62. *logische* II, 62. *metaphysische* II, 62. Hume's Gedankenfolge über die Causalverknüpfung II, 65. ff.
+- Descartes II, 70. ff. Schriften II, 73. Lehren II, 74. Idealismus II, 75. ff. Beweis für das Daseyn Gottes II, 78.
+- [VI, 483] Determinismus II, 79. unmögliches Bemühen, durch ihn die Freiheit begreiflich zu machen II, 80. *Schwierigkeit* bei der Lehre von der Freiheit II, 81. Beispiel II, 81. Home's Lehre darüber II, 81 ff. *Hauptmomente* dieser Lehre des Home II, 85. dieses System löset den Hauptknoten nicht II, 85.
+- Deutlich VI, 280.
+- Deutlichkeit II, 86. VI, 280. ff. durch sie kommen wir nie zur Erkenntniss der Dinge an sich selbst II, 87. *ästhetische* und *logische* II, 87. VI, 280. ff. *objective* und *subjective* VI, 281. durch Begriffe und durch Beispiele VI, 281. vollständige VI, 281. extensiv vollständige VI, 281. *analytische* u. *synthetische* VI, 284. f. der Begriffe und der Objecte VI, 284.
+- Diagonale VI, 317.
+- Dialektik I, 287. 299. 856. II, 88. V, 851. ist eine Logik II, 88. *formale* od. *logische* II, 89. der Stoiker Erklärung derselben II, 89. Stäudlins Untersuchung darüber II, 90. wann die allgemeine Logik dialektisch ist II, 90. *andere Bedeutung* II, 91. *materiale* oder *metaphysische* II, 92. dialektischer Gebrauch der reinen Verstandesbegriffe II, 92. *transscendentale* I, 858. II, 93. f. wann sie Logik des Scheins heisst II, 94. V, 852. *natürliche* und *unvermeidliche* II, 95. *zwiefache* IV, 519. *intellectuelle* IV, 519. *sinnliche* IV, 519.
+- Dialogisch IV, 299.
+- Dicht II, 95. in *absoluter Bedeutung* II, 96. an sich selbst II, 96. *schlechthin* II, 96. in aller Beziehung II, 96. *uneingeschränkt* II, 96. *vollkommen* II, 96. *dichter* II, 95. f. *weniger* II, 97. *vollkommen, in mathematischer Bedeutung* II, 97. in *dynamischer Bedeutung* II, 97.
+- Dichte II, 97. ff.
+- Dichtigkeit II, 377. f. II, 97. *grössere* II, 97. *geringere* II, 98. drückt einen *relativen* Begriff aus II, 98. *mathematische Bedeutung* II, 98. *dynamische Bedeutung* II, 99. ff.
+- Dichtkunst IV, 633. f.
+- Dichtungsgabe II, 15.
+- Dichtungskraft II, 15.
+- Dichtungsvermögen, *unbändiges* I, 756. *wohlgeordnetes* I, 756.
+- Diener III, 251. 629.
+- Dienst einer Kirche III, 629.
+- Dienstzeichen VI, 230.
+- Ding II, 103. an sich selbst I, 131. II, 108. IV, 447. ff. *logisches* II, 104. Unterschied vom Gegenstande II, 104. *vielerlei Arten* desselben II, 105. ff. eine andere Tafel derselben II, 112. *postulirte Dinge* II, 113. *einzelnes* III, 479. f. *allgemeines* III, 480.
+- [VI, 484] Disciplin I, 524. 862. II, 114. Unterscheidung von der Cultur II, 115. wer derselben bedarf II, 115. besondere Bedeutung II, 115. Disciplin der reinen Vernunft selbst II, 116. ff. der reinen Vernunft in Ansehung ihrer dogmatischen Methode II, 116. f. in Ansehung der skeptischen Methode und des Skepticismus II, 118. ff. in Ansehung der Hypothesen II, 125. in der Schulsprache II, 129.
+- Discursiv II, 130. Beispiel II, 130. Vermögen II, 131. Merkmahle II, 132. erkennen II, 133.
+- Disposition I, 242.
+- Disputiren II, 134. Gemeinort darüber II, 134. Entwickelung desselben II, 134. ist nicht einerlei mit Streiten II, 135. f. zweiter Gemeinort darüber II, 136. ff. Antinomie des Geschmacks II, 138. noch eine Erklärung II, 139.
+- Dissipation VI, 286.
+- Distraction VI, 286. ff.
+- Divinationsvermögen VI, 51. ff. 101. ff.
+- Division I, 142.
+- Dogma I, 320. 835. II, 117. 140. Unterscheidung desselben von andern Sätzen II, 140. die reine speculative Vernunft hat keins II, 141. f.
+- Dogmatiker I, 261. 387.
+- Dogmatisch, II, 130. ff. 143. erste Bedeutung II, 143. ff. Unterschied beim dogmatischen Verfahren der reinen Vernunft II, 147. zweite Bedeutung II, 148. dritte Bedeutung II, 149.
+- Dogmatismus I, 393. der Metaphysik II, 151. andere Erklärung II, 152. dritte Erklärung II, 153. vierte Erklärung II, 153. der reinen Vernunft II, 153.
+- Dogmatistisch II, 149.
+- Domänen II, 154.
+- Dreistigkeit II, 155. IV, 385.
+- Druck I, 305. II, 155.
+- Drusicht I, 795.
+- Dualismus, empirischer I, 783. transscendentaler I, 780.
+- Duldsamkeit, sanfte der Beleidigungen V, 157.
+- Dünn II, 95.
+- Dummdreistigkeit IV, 385.
+- Dummheit V, 697.
+- Dunkelheit in der Auflösung des ästhetischen Problems II, 156. das ästhetische Problem II, 156. Baumgartens, Batteux und Meiers Vorstellungen vom Schönen II, 156. ff. Princip zur Auflösung des ästhetischen Problems II, 163. ff. es ist der Idealismus der subjectiven Zweckmässigkeit der Natur II, 171. die Art der Ableitung davon II, 172. was in dieser Auflösung [VI, 485] noch dunkel ist II, 173. Grund dieser Dunkelheit II, 173. f.
+
+- Durchdringen II, 175.
+- Durchdringende Kraft II, 176.
+- Durchdringung, chemische I, 404.
+- Dynamik I, 585. 592. 621. 625. II, 176. mathematische II, 177. metaphysische II, 177. ff.
+- Dynamisch II, 182. dynamische Grundsätze II, 182. Verbindung II, 182. Verhältnisse, II, 182. f.
+
+### E
+
+- Edel II, 184. edle Thaten II, 184. andre Bedeutung II, 184.
+- Educt II, 185. Systeme der Zeugungen II, 185. ihm ist das Product entgegengesetzt II, 186. Kant hält die organischen Wesen nicht für Educte II, 186.
+- Egoist V, 284. ff. logischer II, 679.
+- Ehe II, 187. Geschlechtsgemeinschaft II, 187. die Ehe hat sie zum Zweck II, 188. wird zwischen Personen verschiedenen Geschlechts geschlossen II, 188. nach dem Gesetze II, 188. Beweis II, 189. Eherecht ist persönlich II, 190. wird zwischen zwei Personen geschlossen II, 191. auf Lebenslang II, 192. Vertrag zu einmaligem Genuss, Concubinat, Ehe an der linken Hand II, 193. Eheleute oder Ehegatten II, 192. Ehemann, Ehefrau II, 192. Herrschaft des Mannes in derselben II, 194. wodurch sie vollzogen wird II, 195. wie die Erwerbung zu derselben geschieht II, 195. casuistische Fragen II, 196. über die Beiwohnung zur Zeit der Schwangerschaft II, 196. nach dem Naturrecht und der Moral II, 196. f.
+- Ehrbarkeit II, 198. ethische II, 198. rechtliche II, 199. Ehrbarkeitspedantin II, 199.
+- Ehrbegierde II, 202. III, 280. ff.
+- Ehre I, 65. II, 200. Gottes II, 200.
+- Ehren I, 65.
+- Ehrenwahn II, 201.
+- Ehrenzeichen VI, 230.
+- Ehrfurcht I, 65.
+- Ehrlich II, 203.
+- Ehrlichkeit II, 201.
+- Ehrliebe II, 198, 201. andere Erklärung II, 202.
+- Eid II, 202. Kants Lehre davon II, 202. seinetwegen fordert der Staat Glauben an Gott II, 203. ist Aberglaube II, 206. ist unentbehrlich für die richtende Gewalt unter uncultivirten Nationen II, 206. zwei Fragen II, 207. Beantwortung derselben II, 207. f. Christus hat ihn verworfen II, 208. Amtseide II, 209. innerer Eid II, 210. Glaubenseid II, 211.
+- [VI, 486] Eigendünkel I, 56. II, 211. 977.
+- Eigenliebe II, 212. VI, 211.
+- Eigenschaft I, 50. II, 212. *logische* II, 212. ff. *ästhetische* II, 214.
+- Eigenthümer II, 824. III, 184.
+- Eigenthümlichkeit VI, 242. *zu wirken* V, 303. ff.
+- Eigenthum II, 424. III, 184.
+- Einbildung II, 215.
+- Einbildungskraft I, 331. II, 12. ff. 215. ff. *ungezähmte* II, 218. Unterschied zwischen derselben und dem Darstellungsvermögen II, 218. *transscendentale Synthesis* derselben II, 219. f. *transscendentale* II, 220. *productive, reproductive* I, 331. 708. II, 14. 220. f. Verhältniss des Verstandes zu derselben II, 221. *transscendentale Handlung* derselben II, 221. *drei merkwürdige Wirkungen* derselben II, 222. *Rolle* derselben in der Critik des Geschmacks II, 222. aus ihr entspringt das Gefühl des Erhabenen II, 223. ff. liefert ästhetische Ideen II, 225. erreicht mit ihren Anschauungen die Vernunft nicht II, 225.
+- Einerlei II, 226.
+- Einerleiheit II, 226. Leibnitzens Satz des *Nichtzuunterscheidenden* oder der *Einerleiheit* II, 226.
+- Einfache II, 227. *Antinomie* in Ansehung desselben II, 228. kann nicht aus der Erfahrung bewiesen werden II, 228. Auflösung der Antinomie II, 229. f. *Substanz* II, 230. Beweis dafür beweiset nichts II, 230. im *absoluten Verstande* II, 231.
+- Einfalt II, 232. ist der Stil der Natur im Erhabenen II, 232.
+- Einfluss II, 233. *physischer* II, 233. *reeller* II, 233. ist die älteste Erklärungsart der Gemeinschaft der Substanzen II, 233. f.
+- Eingang II, 234.
+- Einheimisch II, 234. *Grundsätze* II, 234. *Gebrauch* II, 234. *Beispiel* II, 235. *Vorstellung, anscheinender Widerspruch* II, 236. *Physiologie* II, 237. ist im Praktischen der Gebrauch der reinen Vernunft allein II, 238. der Grund ist das *moralische Gesetz* II, 238. aber nur in *praktischer Absicht* II, 239. obwohl es eine *Erweiterung der theoretischen Vernunft* ist II, 239.
+- Einheit I, 136. II, 240. *analytische* II, 240. ff. III, 522. *der Apperception* II, 241. *logische* II, 241. *synthetische* II, 242. 231. ff. III, 521. *collective* II, 243. *distributive* II, 243. f. *dynamische* II, 244. *mathematische* II, 245. f. *Kategorie* derselben II, 245. *numerische* II, 245. f. *quantitative* II, 246. 249. f. *objective* II, 246. *subjective* II, 246. f. *empirische* II, 248. *transscendentale* II, 248. *qualitative* II, 248. *qualitative analytische* II, 248. *ursprünglich synthetische* II, 250. *regulative* II, 250. *systematische* I, 219. *transscendentale des Bewusstseyns* I, 693. II, 246. [VI, 487] tische II, 248. ursprünglich synthetische II, 250. regulative II, 250. systematische I, 219. transscendentale des Bewusstseyns I, 693. II, 246.
+
+- Einhelligkeit I, 235. 239. III, 286. ff.
+- Einschachtelung I, 711.
+- Einschachtelungstheorie II, 185. 462. ff.
+- Einschränkung II, 254. IV, 6.
+- Einstimmung VI, 173. f.
+- Eintheilung II, 255. *dogmatische* II, 255. *empirische* II, 255. *logische* II, 255. *rationale* II, 255.
+- Einwurf VI, 363.
+- Eisenblüthe I, 798.
+- Elasticität II, 256. *attractive* II, 256. 260. *expansive* II, 256. 260. in der Mathematik II, 257. f. Newtons Lehre davon II, 257. ff. ist die expansive Kraft der Materie II, 260. *ursprüngliche* II, 260. *abgeleitete* II, 260. die expansive kann eine ursprüngliche, aber auch eine abgeleitete seyn II, 260. Beispiel II, 261.
+- Elastisch II, 261. sind eigentlich alle Cörper II, 261. heisst auch federhart II, 262.
+- Elementarbegriff II, 262.
+- Elementarlehre II, 262. *der reinen praktischen Vernunft* II, 263. Methodenlehre ist ihr entgegengesetzt II, 263. *transscendentale* II, 264.
+- Elementarlogik II, 264. Aristoteles hat sie zuerst aufgestellt II, 264. abstrahirt von allen Objecten II, 265. *angewandte* II, 265. 268. *reine* II, 265. Jakob und Kiesewetter haben zuerst sie nach Kant von einander abgesondert II, 267. *zwei Regeln* beim Vortrag der reinen II, 267. lehrt nur die negativen Kriterien der Wahrheit II, 268. ehemalige Eintheilung derselben II, 269. *Logik des Scheins* II, 269. ist wider die Würde des Philosophen II, 269. Eintheilung der reinen II, 270. befasst den Kanon für die Vernunft II, 270.
+- Elementarsubstanz II, 271. sind in der Erfahrung nicht zu finden II, 271. Beantwortung eines Einwurfs II, 271.
+- Ellipse I, 98.
+- Eltern II, 271. *uneheliche* II, 271. so heissen auch Voreltern II, 272. hier heissen so die unmittelbaren Erzeuger II, 272. welches sind die Pflichten der Eltern gegen die Kinder? II, 272. ff. *Pflicht der Erhaltung* II, 272. warum II, 273. f. welches sind die Rechte der Eltern gegen die Kinder II, 274. ff. so lange das Kind des Gebrauchs seines Verstandes noch nicht mächtig ist II, 274. wenn es sich selbst erhalten kann II, 275. nach vollendeter Erziehung II, 275. Kinder sind *nicht ihr Eigenthum* II, 275. *allerpersönlichstes Recht* II, 276. an ihren unmündigen Kindern II, 277.
+- [VI, 488] Empfänger des Geliehenen I, 526.
+- Empfangenes Gefühl II, 277.
+- Empfindbar II, 278. nicht-empfindbar II, 278. was Eberhard darunter versteht II, 278. ff. wie *Newton* sichs vorstellt II, 279. *zweierlei Bedeutung* II, 280. wie der Raum es ist und auch nicht II, 282.
+- Empfindelei II, 282.
+- Empfinden II, 25.
+- Empfindung I, 1. 4. 131. 265. 267. II, 283. *subjective* II, 283. weitere Verdeutlichung II, 284. ist die *Realität in der Erscheinung* II, 284. f. ihr Verhältniss zur Anschauung II, 286. jede hat einen Grad II, 286. Beweis II, 287. die Erkenntniss davon ist eine *Anticipation der Wahrnehmung* II, 288. hat keine *extensive Grösse* II, 289.
+- Empirisch I, 1. 225. II, 290. *des Denkens* II, 290. *Gebrauch eines Begriffs* II, 291. andere Erklärung II, 291. Theil der Wissenschaften II, 292. Philosophie II, 292. *zufälliges* V, 526.
+- Empörung IV, 870. ff.
+- Encyclopädie II, 293. das Wort II, 294. Quinctilians Gebrauch desselben II, 294. nach heutigem Sprachgebrauch II, 294. was sie voraussetzt II, 294. Unterschied zwischen ihr und System II, 295. *einer Philosophie* II, 295. ff. die *Metaphysik der Natur* II, 299. f. die *Metaphysik der Sitten* II, 300. f. die *empirische Philosophie der Natur* II, 301. f. die *empirische Philosophie der Sitten* II, 302. f.
+- Ende aller Dinge II, 303. Ende der Welt II, 303. Eintheilung II, 303. *natürliches* II, 303. f. *nichtnatürliches* II, 303. *mystisches* II, 304. f. *übernatürliches* II, 303. ff. *verkehrtes* II, 304. 306. *widernatürliches* II, 304. 306. *moralisches* II, 304.
+- Endursache II, 306. VI, 328. ff. Entwickelung II, 307. ist ein *Vernunftbegriff* II, 307. Wirkung durch sie II, 308. andere Erklärung II, 308. dritte Erklärung II, 309. vierte Erklärung II, 310. fünfte Erklärung II, 310. jede Handlung hat eine II, 310. wer die der Schöpfung ist II, 311.
+- Endzweck II, 311. 312. f. andere Erklärung II, 314. *objectiver* II, 314. ff. *subjectiver* II, 314. f. was wir uns dazu machen sollen II, 316. liegt in dem Vorhandenen selbst II, 316. ist in der ganzen Natur nicht II, 316. der Schöpfung ist der Mensch II, 317. das moralische Gesetz bestimmt uns einen II, 318. und führt dadurch zur *Religion* II, 319. objective Realität des Begriffs II, 319.
+- Entgegensetzung IV, 460 ff.
+- Entgegenstellung IV, 463.
+- Enthusiasmus II, 320. ohne ihn soll nichts Grosses ausgerichtet werden können II, 320. andere Erklärung II, 321. [VI, 489] muss vom Fanatismus unterschieden werden II, 322. 525. noch eine Erklärung II, 322.
+
+- Enthusiast II, 323. *ästhetischer, moralischer, speculativer* II, 323.
+- Entstehen I, 178. II, 323. anscheinender Widerspruch II, 323. kann nur an Substanzen wahrgenommen werden II, 324. Beweis II, 324. f. wie etwas entstehen kann, davon haben wir keinen Begriff II, 326. f.
+- Entstehung II, 326.
+- Entstehungsgrund II, 81.
+- Entwickeln VI, 279. f.
+- Entwickelung I, 416.
+- Epigenese I, 711. II, 333. III, 583.
+- Epikur II, 328. zwei merkwürdige Behauptungen desselben II, 328. lässt alle Erkenntniss aus der Empfindung entspringen II, 329. nahm keine andern als sinnliche Gegenstände an II, 329. Lucretius Darstellung dieses Systems II, 330. Fundament seiner praktischen Philosophie II, 330. Farbentheorie II, 536.
+- Epikuräer II, 331. Idee derselben II, 331. III, 193. f.
+- Epikureismus II, 332. was er enthält II, 332. es ist noch zweifelhaft, ob Epikur diese Grundsätze vorgetragen habe II, 333.
+- Erbauen I, 205.
+- Erbaulich I, 205.
+- Erbauung I, 205.
+- Erblasser II, 428.
+- Erbnehmer, II, 428.
+- Erbrecht V, 26. f.
+- Erdbeben II, 335. ff.
+- Erderschütterung II, 335. ff.
+- Erfahrung I, 4. 17. 481. II, 336. Gegenstand derselben II, 336. Stoff derselben II, 336. deutliche Vorstellung von derselben II, 337. f. besteht aus Anschauungen, Empfindungen und Urtheilen II, 339. wie sich dieses von der Erfahrung unterscheidet II, 340. f. Erfahrungserkenntniss II, 342. ff. Form und Materie derselben II, 345. *äussere* II, 346. *innere* II, 346. es ist gezeigt worden, wie sie entstehen muss II, 347. aus der Erfahrung I, 1. II, 290. ff.
+- Erfahrungsbegriff II, 348. *gemischter sinnlicher* I, 504. *reiner sinnlicher* I, 503.
+- Erfahrungsbeweis I, 677.
+- Erfahrungssatz V, 160.
+- Erfahrungsseelenlehre I, 273.
+- Erfahrungsurtheil II, 348. Unterschied zwischen demselben und dem empirischen Urtheil II, 349. *objective Gültigkeit* desselben II, 350. beruhet auf der Allgemeingültigkeit II, 350. Wahrnehmungsurtheil II, 351.
+- [VI, 490] ...wie aus demselben ein Erfahrungsurtheil wird II, 351. daraus wird sodann *Erfahrung* II, 352. f. ist jederzeit *synthetisch* II, 353. Bemerkung über die synthetischen Urtheile II, 353. Tafeln zur Möglichkeit der Erfahrungsurtheile II, 353. ff. Resultat II, 359. ff. Grundsätze a priori derselben II, 361. sind zugleich allgemeine Gesetze der Natur I, 361. Erklärung dieser Naturgesetze II, 362. ff. in diesem Artikel wird das Wesentliche im System der Kategorien gezeigt II, 364.
+- Erfüllen I, 620.
+- Erfüllung des Raums II, 365. *dynamische* II, 366. *mathematische* II, 366.
+- Erhaben I, 66. II, 223. ff. 232. 367. III, 161. *Analytik* desselben II, 367. *Eintheilung* desselben II, 369. *dynamisch* II, 369. *mathematisch* II, 369. *Wohlgefallen* daran II, 370. der *Quantität* nach II, 370. der *Qualität* nach II, 371. der *Relation* nach II, 372. f. der *Modalität* nach II, 374. *Beobachtungen* über das *Gefühl* desselben II, 374.
+- Erhabenheit II, 367.
+- Erkennen I, 864. II, 52. 58. 374. ist mit denken nicht einerlei II, 375. *Beispiel* II, 376. ob die *Vernunft* erkennt II, 377.
+- Erkenntniss I, 22. ff. II, 12. 57. 377. VI, 67. *Object* oder *Gegenstand* derselben II, 377. *verschiedene Arten* derselben II, 378. ff. a posteriori, *empirische* II, 336. 378. *mechanische* II, 378. a priori II, 378. V, 840. ff. leugnet Hume I, 9. aus der Erfahrung I, 6. aus der Vernunft I, 6. aus Principien II, 379. *rationale* I, 492. II, 379. V, 840. ff. *historische* II, 380. *intellectuelle* II, 379. *mathematische* I, 821. f. II, 381. *metaphysische* II, 381. *philosophische* I, 821. f. *praktische* II, 381. V, 526. *reine* II, 381. *hyperphysische* II, 382. *speculative* II, 382. *synthetische* II, 382. *theoretische* II, 382. V, 526. *transscendentale* II, 383. *unmittelbare* II, 383. *von hinten her* I, 6. *von vorne her* I, 6. *Anschauung* II, 383. *vollendete Vollkommenheit* derselben VI, 282.
+- Erkenntnissart, *anschauende* II, 130. *discursive* II, 130. *intuitive* II, 130.
+- Erkenntnissgrund II, 81. III, 165. f.
+- Erkenntnissvermögen I, 805. ff. II, 384. f. *constitutives* I, 808. *formales* I, 808. f. *logisches* I, 809. *oberes* II, 515. *regulatives* I, 808. f. *sinnliches* II, 384. II, 514. *unteres* II, 514. *vernünftiges* II, 384. *Möglichkeit* ihrer Wirksamkeit II, 384. *Familie* derselben II, 513. ff. *hat mehrere Zweige* II, 513. *Gebiet* desselben II, 725. f. *zwei Gebiete* desselben II, 725. ff.
+- Erklärung I, 830. f. II, 385.
+- [VI, 491] Erklärungsart II, 386. *mechanische* II, 386. *teleologische* II, 386.
+- Erläuterungsurtheil I, 191.
+- Erlaubniss I, 479. II, 393. *Kennzeichen* II, 395. *moralische* I, 525.
+- Erlaubnissgesetz I, 478. II, 388. 394. 421. V, 72.
+- Erlaubt II, 386. *andere Erklärung* II, 387. es giebt in Ansehung der erlaubten Handlung weder Gebot noch Verbot II, 387. sie ist aber darum doch nicht sittlich-gleichgültig II, 388. *andere Vorstellung* dieser Sache II, 389. Grotius und Pufendorfs Meinung II, 390. 394. Barbeyracs Meinung II, 391. ff.
+- Erörterung II, 470. ff.
+- Erregbarkeit III, 774. *der Lebenskraft* V, 304.
+- Erregung III, 774.
+- Erscheinen II, 397. *Unterschied* zwischen der gewöhnlichen und Kants Theorie von den Gegenständen der Sinnenwelt II, 397. f.
+- Erscheinung I, 72. 131. f. 261. 325. 331. 694. 780. II, 106. 398. ff. III, 393. *noch eine Erklärung* II, 399. f. *Beispiel* II, 401. *Unterschied* zwischen Erscheinung und Schein II, 402. III, 388. ff. Kant verwandelt nicht *alles* in blosse Erscheinung II, 403. *Form* und *Materie* derselben II, 404. ist alles, was wir erkennen II, 404.
+- Erscheinungswelt VI, 265.
+- Erschleichen, *Fehler* desselben II, 562. ff.
+- Erschleichung II, 562. ff. *Fehler* derselben II, 562. ff. *logische* II, 563. *metaphysische* II, 563.
+- Erschrockenheit II, 703.
+- Ersitzung II, 425.
+- Ersitzungsrecht V, 238. f.
+- Erwartung ähnlicher Fälle VI, 52.
+- Erweiterungsurtheil II, 405. V, 432. ff. a posteriori II, 405. worauf die Richtigkeit der Verknüpfung in demselben beruhet, II, 406.
+- Erwerb VI, 32. ff.
+- Erwerbung II, 407. Kants Lehre davon II, 408. ff. wie kann ich etwas erwerben? II, 408. f. *Princip* der äussern II, 409. *Momente* der ursprünglichen II, 409. f. *Eintheilung* II, 411. dem *Object* nach II, 411. der *Art* nach II, 412. dem *Rechtsanspruch* nach II, 412. Kants Lehre von der *ursprünglichen* II, 413. ff. die *erste* II, 413. f. *ein jeder Boden kann ursprünglich erworben werden* II, 415. *Beweis* II, 415. rechtliche Art dieser Erwerbung II, 416. Möglichkeit derselben lässt sich nicht einsehen II, 416. *peremtorische, provisorische* II, 417. wie weit ist man im Naturstande befugt, einen Boden in Besitz zu nehmen II, 418. Kants *Exposition* und *Deduction* des Begriffs einer ursprünglichen Erwer-
+- [VI, 492] ...bung des Bodens II, 420. ff. *Exposition* II, 420. f. *Deduction* II, 421. f. die *Formgebung* giebt keinen Titel der Erwerbung II, 422. mit dem Boden erwerbe ich alles, was darauf ist. II, 423. *Eigenthum* II, 424. Kants Lehre von der *idealen* Erwerbung eines äussern Gegenstandes der Willkühr II, 424. *ideale* II, 424. durch den *langen Besitz* II, 425. ff. *Beerbung* II, 428. Testamente sind nach dem Naturrecht gültig II, 429. f. des *guten Namens* nach dem Tode II, 430. f. beruhet nicht auf Verhältniss zu abgeschiedenen Seelen II, 430. das *Plagiat* II, 431. Kants Lehre von der *subjectiv-bedingten* durch den Ausspruch einer öffentlichen Gerichtsbarkeit II, 432. ff. Vergleichung meines Vortrags darüber mit Kants Behauptungen II, 434. ff. *Hypothesen* Anderer darüber II, 438. ff. der Alten II, 439. des Grotius II, 440. des Hobbes II, 441. des Pufendorf II, 442. Wolffs II, 442. des Rousseau II, 443.
+- Erzeugniss I, 708.
+- Erzeugung II, 444. III, 261. *teleologische* II, 444.
+- Ethik II, 445. *Bedeutung* in den alten Zeiten II, 445. IV, 352. ff. unterscheidet sich von der Rechtslehre II, 445. setzt uns einen Zweck II, 446. ist ein System der Zwecke II, 446.
+- Ethikotheologie II, 446. ff. IV, 361. ff. ohne Menschen würde die ganze Schöpfung ohne Endzweck seyn II, 447. der Mensch kann es aber nur durch seinen *moralisch guten Willen* seyn II, 447. hiermit stimmt das gemeinste Urtheil der gemeinen Menschenvernunft vollkommen zusammen II, 447. dadurch setzt aber der moralisch gute Wille des Menschen ein vernünftiges Wesen zum Urheber der Welt II, 447. f.
+- Etwas II, 103. ff. III, 28.
+- Eudämonismus IV, 230.
+- Eudämonisten III, 762.
+- Euklides II, 448. von seinen *Axiomen* II, 449. diese Axiomen selbst II, 449. sie sind zum Theil *philosophische*, zum Theil *mathematische* Sätze II, 450. Unterschied unter beiden II, 451. ff. über ein Axiom, von dem man meint, dass es eines Beweises bedürfe II, 454. dies ist falsch II, 455.
+- Euler II, 456. seine *Farbentheorie* II, 456. *Schall* II, 457. *Aether* II, 458. *Vergnügen an der Musik* II, 459. Kants *Zweifel* II, 461. *Grund* desselben II, 462.
+- Europa I, 417.
+- Evidenz III, 3. f.
+- Evolution I, 711.
+- Evolutionstheorie II, 185. 462. ff. III, 583. *Bonnet* war ein eifriger Vertheidiger derselben II, 463. *Occasionalismus* II, 463. erklärt nichts II, 464. *warum* II, 464.
+- Ewig II, 6.
+- Ewigkeit III, 126. ff.
+- [VI, 493] Excommuniciren I, 775.
+- Exemplar I, 736.
+- Exemplarisch II, 164. 465. *Beispiel* II, 465. *weitere Entwickelung* II, 465. *Beispiel* II, 466. *Muster des Geschmacks* müssen in einer *todten Sprache* abgefasst seyn II, 466.
+- Existenz I, 864. f. II, 16. 466. *weitere Entwickelung* II, 467. *Gottes* II, 468. das mit ihr verbundene Wohlgefallen II, 468. *reale* I, 192.
+- Existiren I, 864. II, 25.
+- Existirend I, 864.
+- Explication I, 830.
+- Expliciren I, 497.
+- Exponent II, 469. in der Philosophie II, 469. f.
+- Exposition I, 499. 830. f. II, 470. ff. *Beispiel* II, 470. *metaphysische* II, 471. *transscendentale* II, 471. *Beispiel der metaphysischen* II, 472. ff. *Beispiel der transscendentalen* II, 476. ff. noch ein Beispiel von beiden II, 479. ff. der *metaphysischen* II, 479. f. der *transscendentalen* II, 481. ff. sind in der Philosophie das, was die *Definitionen* in der Mathematik sind II, 484. der Philosophie hat keine Definitionen II, 484. Beispiel II, 485. ff. Resultat II, 492. Campanellas II, 493.
+- Extension I, 409. ff.
+
+### F
+
+- Falschheit, *transscendentale* V, 634. f.
+- Familie der Erkenntnissvermögen II, 513. f. *besteht aus Sinnlichkeit und Verstand* II, 515. was *Verwandtschaft* mit ihr heisst II, 515.
+- Fanaticismus II, 516. ff. V, 242. ff.
+- Fanatismus II, 322. 516. ff. man hält ihn gemeiniglich für heilsam II, 516. *Beispiel* II, 517. ff. *zweites Beispiel* II, 521. ff. ist so zu sagen eine *andächtige Vermessenheit* II, 524. ist am meisten in *Deutschland* und *England* anzutreffen gewesen II, 525. *Beispiel* II, 525. hat man auch wohl *Enthusiasmus* genannt II, 525. *Auszug* aus *Shaftesburys Schreiben über den Fanaticismus* II, 526. ff.
+- Farbe II, 535. *Theorie* der Alten II, 536. *Descartes* II, 536. *Bayle* II, 536. *Newton* II, 537. *Bestätigung* seiner Theorie II, 537. f. ob sie *angenehm* oder *schön* sey II, 541.
+- Farbenkunst II, 538. *ästhetische* II, 539. *Erklärung* hieher gehöriger Begriffe II, 540. ob *Töne* und *Farben* angenehm oder schön sind II, 541. ff.
+- Farbentheorie II, 456.
+- Faseln II, 544. wer *beständig faselt* II, 544. *Albernheit* II, 546.
+- [VI, 494] Fassen, ins Gedächtniss II, 546. *methodisch* II, 546. *ingeniöses Memoriren* II, 547. *judiciöses* II, 547.
+- Fatalismus II, 547. *andere Bedeutung* II, 548. *Beispiel* II, 549. war die Meinung der ältesten Griechen II, 550. Heraklit II, 551. Plato II, 551. Diodorus Kronus II, 551. Stoiker II, 552. Boethius II, 552. Hobbes II, 552. Spinoza II, 553.
+- Fatalität II, 560. f.
+- Fatum II, 554. ist *materiale Nothwendigkeit im Daseyn* II, 555. f. wir erkennen die Nothwendigkeit des Zustandes der Dinge II, 556. *Merkmahl* derselben II, 556. es giebt keins II, 557. dieser Grundsatz ist *dynamisch* II, 557. f. *Freiheit* unsrer Handlungen gerettet II, 558. f. *Spinozismus* II, 559. *Widerlegung* desselben II, 559. ff.
+- Federnd II, 262.
+- Federh... II, 262.
+- Federkraft II, 256.
+- Fehler des Erschleichens II, 562. *logischer* II, 563. *metaphysischer* II, 563. ff. *Beispiele* II, 564. ff.
+- Fehltritte der Urtheilskraft II, 574.
+- Feigheit II, 703.
+- Feind, *ungerechter* II, 575. f. *gerechter* II, 575.
+- Fertigkeit II, 576. in der Tugendlehre II, 576. ff. *natürliche, moralische, freie* II, 577.
+- Fest II, 578. wenn der Cörper es ist II, 578.
+- Fetisch II, 204. ff.
+- Fetischdienst II, 579. III, 79.
+- Fetischglaube II, 580. III, 79.
+- Fetischmachen I, 116. f. II, 579.
+- Fetu II, 206.
+- Figur, *logische* II, 581. *Vordersätze* II, 581. f. *Schlusssatz* II, 582. *Bezeichnung* II, 582. *Construction* II, 583. ff. 19 *Schlussarten* II, 584. ff. *vier Figuren* II, 581. ff. *Grundsätze für die erste* II, 592. *Lamberts Theorie* II, 593. ff. Kants falsche *Spitzfindigkeit der 4 syllogistischen Figuren* II, 600. ff.
+- Flächenkraft III, 681.
+- Fleischeslust VI, 216. f.
+- Fliessend I, 837. *fliessende Grössen* II, 611. f. alle *Erscheinungen* überhaupt sind es II, 611. alle *Veränderungen* sind es II, 612.
+- Flüssig II, 612.
+- Folge II, 613. kann allein in der Zeit vorgestellt werden II, 614. ist jederzeit in der *Apprehension* des Mannichfaltigen II, 615. selbst der gemeine Verstand hat sie jederzeit nur von den *Accidenzen* vorausgesetzt II, 615. bei ihr ist die *Identität des Substratums* unentbehrlich II, 616. man kann das, worin die im Daseyn einer Substanz ist, nur logisch absondern II, 617. ist
+- [VI, 495] ...nur im Zustande der Dinge II, 617. andere Bedeutung II, 618.
+- Fordern I, 722.
+- Forderung IV, 664. ff.
+- Form, *logische* I, 90. *metaphysische* V, 313.
+- Formal I, 808. f.
+- Formalphilosophie I, 808.
+- Formel I, 384. II, 619. ff. VI, 77. *neue* II, 620.
+- Fortschritt IV, 713. ff.
+- Frage V, 510. *transscendentale* V, 527.
+- Fratzen II, 621. *Beispiele* II, 621. die Werke des Verstandes und Scharfsinnes können es seyn II, 622. wenn ein Verstand darauf geräth II, 622.
+- Frei II, 223.
+- Freigeisterei II, 623.
+- Freiheit I, 445. 478. II, 624. ff. der *Willkühr* I, 465. II, 80. 655. *Schwierigkeit* II, 80. *Beispiel* II, 81. im *negativen Verstande* I, 445. im *positiven Verstande* I, 445. *dreierlei Arten* derselben II, 624. *transscendentale* II, 624. ff. *Beispiel* II, 626. f. *Beweis dafür* II, 628. *Beweis dagegen* II, 629. ist eine *blinde Causalität* II, 630. *Anmerkung zum Beweise dafür* II, 630. f. *Anmerkung zum Beweise dagegen* II, 631. f. *Merkwürdigkeit* II, 632. f. *Auflösung* dieses Widerstreits II, 633. *zweierlei Causalität* II, 633. f. *Causalität nach der Natur* II, 633. *Causalität aus Freiheit* II, 633. die Aufgabe darüber ist *transscendental* II, 634. f. *Möglichkeit* der Causalität durch Freiheit II, 635. *Erläuterung* der kosmologischen Idee derselben II, 636. was hier eigentlich die Frage ist II, 636. *Beispiel* II, 637. *Begriff* der transscendentalen II, 638. f. *Wirklichkeit* derselben II, 640. *praktische* oder *moralische* II, 641. ff. im *praktischen Verstande* II, 641. *Gesetze* derselben II, 642. *positiver Begriff* derselben II, 643. *Rechtfertigung* des Transscendentalen im Begriff der praktischen II, 644. ff. in Absicht auf *sinnliche Antriebe* II, 644. muss als *Eigenschaft des Willens* aller vernünftigen Wesen vorausgesetzt werden II, 645. wir können die *Realität* der transscendentalen nicht beweisen II, 646. und ihr doch *objective Realität* verschaffen V, 819. f. *Cirkel* II, 646. *Auskunft* II, 647. der Mensch kann die Causalität seines Willens nur unter der Idee der Freiheit denken II, 647. *Cirkel gehoben* II, 648. *Auflösung der ganzen Schwierigkeit* II, 649. die Idee derselben macht uns zu Gliedern einer *intelligibeln Welt* II, 650. *Richtigkeit dieser Deduction* II, 650. die *Möglichkeit* derselben lässt sich nicht erklären II, 651. ist eine *blosse Idee* II, 652. ist *problematisch* II, 653. die in *praktischer Bedeutung* kann in
+- [VI, 496] ...*zweierlei Rücksicht* betrachtet werden II, 654. als *Vermögen* des Menschen, in so fern er eine *Intelligenz* ist II, 655. *gesetzliche* II, 656. f. *juridische* II, 656. f. ist das einzige innere Mein IV, 187.
+- Freiheitsbegriff I, 501. II, 658.
+- Freiheitsidee II, 658.
+- Freiheitsursache II, 69.
+- Freimüthigkeit II, 658. IV, 385.
+- Freundschaft II, 659. *ästhetische* II, 659. 661. *in der Erscheinung* II, 659. *moralische* II, 659. 663. f. *in ihrer Reinigkeit* II, 660. *Pflicht* derselben II, 660. *in der Noth* II, 661. *zarte* II, 661. *Mangel* derselben II, 662.
+- Friction V, 95. ff.
+- Friede II, 665. *Friedenszustand* II, 665. f. *ewiger* II, 667. *Präliminarartikel* zu demselben II, 667. *Definitivartikel* zu demselben II, 668. f. von der *Garantie* desselben II, 670. *geheimer Artikel* zu demselben II, 671. *Ueber die Misshelligkeit zwischen der Moral und Politik* in Absicht auf denselben II, 672. ff.
+- Frömmigkeit II, 675.
+- Frohn- und Lohnglaube II, 676. *wähnt* II, 676.
+- Frohseyn II, 677.
+- Fügung, göttliche II, 677.
+- Fühlbarkeit I, 241.
+- Fühlen I, 806.
+- Fühllosigkeit I, 87.
+- Fürstengewalt I, 439.
+- Fürwahrhalten II, 677. *Ueberredung* II, 678. 680. *logischer Egoist* II, 679. *Paradoxie* II, 679. f. *trügliches* II, 680. vom *Meinen* II, 681. vom *Glauben* II, 681. ff. *subjective Gründe* desselben II, 681. *Hypothese* II, 684.
+- Function II, 687. f. *zu urtheilen* I, 121. II, 688. des *Verstandes* II, 688. des *Denkens* II, 690. ff. von dreierlei verschiedenen Erkenntnissvermögen II, 701. f.
+- Furcht I, 65. II, 702. ff. *herzhaft* II, 703. *Erschrockenheit* II, 703. *Selbstmord* II, 704.
+- Furchtbar II, 704. f.
+
+### G
+
+- Gang II, 706. der *Methode* II, 707. ff.
+- Ganzes V, 534. ff.
+- Garantie, das Recht derselben II, 710.
+- Gartenkunst, schöne IV, 45. f.
+- Gastrecht II, 710. war in alten Zeiten durchaus nothwendig II, 711.
+- Gattung III, 37. *logisches Gesetz* derselben III, 37. 40.
+- [VI, 497] ...*transscendentales Gesetz* derselben III, 38. *Grundsatz des Witzes* III, 40.
+- Geben II, 711. *einen Gegenstand* II, 712. *einen Begriff* II, 712. *in der Anschauung* II, 712. *dreierlei* II, 713. *in der Erfahrung* II, 714. *es giebt* II, 715. was uns *wirklich gegeben* ist II, 716. worin die wirklichen Dinge der *vergangenen Zeit* gegeben sind II, 716. was als ein Gegenstand in der Idee gegeben ist II, 717.
+- Gebet II, 717. *Absicht* desselben II, 718. das *Beten* II, 719. *Privatgebet* II, 719. 723. *Geist* desselben II, 720. f. der *Betende* II, 721. *des Herrn* II, 721. *im Glauben* II, 721. ff. *Erhörlichkeit* desselben II, 722. *öffentliches* II, 723.
+- Gebiet der Begriffe II, 725. *des Erkenntnissvermögens* II, 725. *zwei Gebiete* desselben II, 725. ff. *Unterschied von Feld und Boden* II, 728. ff.
+- Gebot der Sittlichkeit II, 730. III, 449. ff. *der Vernunft* II, 730. *der Pflicht* II, 730. *bejahendes* II, 730. *verneinendes* II, 731. *Zeichen* desselben II, 731. ist ein *kategorischer Imperativ* II, 731. *andere Imperativen* II, 731. sein Zeichen lautet allein als ein *praktisches Gesetz* II, 732. was keins abgeben kann II, 733. welches thöricht wäre II, 733. f. wir sind *nicht unabhängig* von demselben II, 735. *Möglichkeit des der Liebe* II, 735. f. wird auf *deutliche Begriffe* gebracht II, 736.
+- Gebrauch II, 737. *allgemeiner* II, 748. *apodiktischer, der Vernunft* II, 737. *dialektischer* II, 738. *empirischer* II, 738. *Beispiele* II, 739. *formaler* II, 741. *immanenter* II, 234. *logischer* II, 36. 742. *materialer* II, 743. *moralischer, praktischer* II, 745. *realer* II, 745. *speculativer* II, 746. *theoretischer* II, 746. *transscendentaler* II, 234. 747. *unbeschränkter* II, 748.
+- Gebrechlichkeit der menschlichen Natur, des menschlichen Herzens II, 749. ist selbst in der Klage eines *Apostels* ausgedrückt II, 749. *Pflicht* wegen derselben II, 749. f.
+- Geburtsadel I, 336.
+- Gedächtniss, in dasselbe *fassen* II, 546. ff.
+- Gedanke I, 650. II, 55. f. *leerer* III, 777. f.
+- Gedankending II, 106. f. 750. V, 639. ist ein *Unding* II, 751. darf nicht unter die Möglichkeiten gezählt werden II, 751. *Beispiel* II, 751. f.
+- Gedankenform II, 45. 753.
+- Gedankenspiel II, 753. V, 362. was das *Vergnügen* in demselben ausmacht II, 754. das *Lachen* II, 754. ff. die *Naivetät* II, 756. f. die *launigte Manier* II, 757.
+- Geduld IV, 384.
+- Gefallen I, 236.
+- [VI, 498] Gefühl der Lust und Unlust II, 758. f. V, 297. *in objectiver Bedeutung* II, 760. *müssen in dem Augenblick ihrer Heftigkeit wirken* V, 581. von der sinnlichen Lust und Unlust II, 761. andere Erklärung II, 761. *Vergnügen* II, 761. ff. *Langeweile und Kurzweil* II, 764. f. Zufriedenheit II, 766. Affecten II, 766. Wollustprincip des Epikur II, 766. der Schmerz II, 768. ff. Cultur II, 768. empfangenes II, 277. inneres I, 433. moralisches I, 51. III, 67. 324. f. IV, 564. ff. V, 572. ff. pathologisches I, 56. praktisches I, 57.
+- Gefühl, der Sinn der Betastung II, 773. V, 294. ist der *gröbste Sinn* II, 774. durch ihn werden uns vorzüglich die Empfindungen geliefert II, 774. *Werkzeug desselben* II, 775. die Empfindung desselben muss von der Vitalempfindung unterschieden werden II, 776. gehört zu den *drei obersten Sinnen* II, 777. kann *vicariren* II, 777.
+- Gegebenes II, 178. 714.
+- Gegenstand II, 57. 103. 377. 778. ff. VI, 177. der theoretischen Erkenntniss II, 778. ff. leerer, ohne Begriff III, 778. eingebildeter VI, 267. logische Bedeutung II, 778. metaphysische Bedeutung II, 778. f. der Anschauung II, 780. bestimmt, wie der Gedanke seyn muss II, 780. was er nur seyn kann II, 781. ff. transscendentaler I, 131. II, 57. 786. ff. der praktischen Erkenntniss II, 789. ff. der reinen praktischen Vernunft II, 790. f. einer Maxime II, 791. intelligibeler IV, 447. ff. übersinnlicher IV, 447. ff.
+- Gegenwart, beharrliche I, 577. dauernde I, 577.
+- Gegenwirkung II, 793. Kants Vorstellungsart, wie die Bewegung mitgetheilt wird II, 794. ff. Newton gegen Gehler gerechtfertigt II, 799. mechanisches Gesetz der Gleichheit der Wirkung und Gegenwirkung II, 797. ff. dynamisches Gesetz derselben II, 800. Construction derselben II, 800. f. System der Transfusion der Bewegung II, 801. f. Widerlegung desselben II, 802. Trägheitskraft II, 801. ff. Gesetz der Materien II, 804. in der Gesellschaft II, 804. f. durchgängige ihrer Glieder II, 806. grosser Gesellschaften und Staatscörper II, 807. Völkerbund II, 808. was herauskomme II, 809. andere Erklärung II, 810.
+- Gegliedert I, 369. wieder gegliedert I, 369.
+- Geheimniss in der Religion II, 811. findet sich in allen Glaubensarten II, 812. der Gegenstand, den wir so nennen II, 812. ob es dergleichen Geheimnisse gebe II, 813. heiliges II, 813. 815. der Natur II, 814. der Politik II, 814. Abgrund desselben II, 815. f. der Glaube an Gott enthält keins II, 816. in der heiligen Weissagungsgeschichte II, 817. der drei göttlichen Personen II, 817. sind zuerst in [VI, 499] der christlichen Glaubenslehre öffentlich gelehrt worden II, 818. 824. ff. Entwickelung dieser Lehre II, 819. Geheimniss in derselben II, 820. der Berufung II, 820. der Genugthuung II, 821. f. Glauben an dasselbe II, 823. der Freiheit II, 823. drei II, 824. f.
+- Gehör II, 826. V, 294. das Medium dazu II, 827. dadurch wird die Gestalt des Gegenstandes nicht gegeben II, 827. durch dasselbe wird der Vitalsinn gestärkt II, 827. ist so unentbehrlich als der des Gesichts II, 828. liefert uns seine Empfindungen durch mechanischen Einfluss II, 829. wird durch das Gesicht vicarirt II, 829. ob der Mangel des Gehörs oder des Gesichts wichtiger ist II, 829.
+- Gehorchen II, 830. der reine Vernunftwille gehorcht II, 831.
+- Geist, böser II, 831. verführender II, 831. in ästhetischer Bedeutung II, 831. ästhetische Idee II, 832. ist das Talent dazu II, 842. Resultat II, 833. giebt selbstgeschaffene Ideen II, 833. wie die Franzosen ihn nennen II, 833. eigenthümlicher II, 834. 863. ff.
+- Geisterseher V, 558. f.
+- Geisteskräfte IV, 421.
+- Geistlicher I, 773.
+- Geld II, 835. Achenwalls Namenerklärung II, 835. Beispiel II, 836. Realdefinition II, 836. was so heissen soll, muss Fleiss gekostet haben II, 837. wie wird Waare zu Geld? II, 837. intellectueller Begriff II, 838. A. Smiths Erklärung II, 838. ist die Losung III, 215.
+- Gelüsten II, 875. IV, 177. f.
+- Gemeine III, 612.
+- Gemeingültigkeit V, 608.
+- Gemeinort II, 134.
+- Gemeinplatz II, 547.
+- Gemeinschaft I, 788. II, 408. dynamische II, 839. reale II, 839. ist eine Kategorie II, 839. macht das disjunctive Urtheil möglich II, 840. ff. logische II, 842. ff. metaphysische II, 844. ff. analytische II, 846. synthetische II, 846. transscendentales Schema derselben II, 847. f. das Wort ist in unsrer Sprache zweideutig II, 849. Nothwendigkeit dieses reinen Verstandesbegriffs II, 850. der Gläubigen II, 851. ff. dazu zu gehören ist Pflicht II, 852. f. der Seele mit dem Cörper II, 853. gemeiner Begriff der Vernunft davon II, 854. Vorstellung des gemeinen Verstandes davon II, 854. Frage, auf die keine Antwort möglich ist II, 856. uranfängliche II, 408. ursprüngliche II, 408.
+- Gemeinsinn II, 164. 856. f. V, 297. VI, 19. ff. ästhetischer II, 857. 894. logischer II, 857. als Vermögen II, 857.
+- Gemüth, II, 857.
+- [VI, 500] Gemüthsart II, 858. edle II, 858. unedle II, 859. ff. Princip der Apathie II, 860. f.
+- Gemüthszustand II, 862.
+- Genie II, 863. ist dem Nachahmungsgeist entgegengesetzt II, 863. giebt der schönen Kunst die Regel II, 863. ff. mechanisches II, 865. ohne dasselbe ist schöne Kunst nicht möglich II, 866. Resultat II, 866. Verhältniss desselben zum Geschmack II, 867. f. Vermögen, die dasselbe ausmachen II, 868. f. Resultat II, 869. f. Kopf II, 869. ff. 870.
+- Geniessen I, 236.
+- Genirt II, 871. affectirt II, 871. das Aufmerken auf sich selbst II, 871. Naivetät II, 872.
+- Genugthuung II, 821. V, 41. ff.
+- Geometrie I, 70. 803. 835. f. 872. f.
+- Gerade I, 264.
+- Gerechtigkeit Gottes I, 758. austheilende VI, 321. beschützende VI, 321. öffentliche VI, 321. wechselseitig erwerbende VI, 321.
+- Gericht II, 432.
+- Gerichtshof II, 432.
+- Gerinnen I, 237.
+- Geruch II, 873. V, 295. ist mit dem Geschmack nahe verwandt II, 873. wird durch Salze afficirt II, 873. ist gleichsam ein Geschmack in der Ferne II, 874. ist der undankbarste Sinn II, 874. was noch dazu gehört II, 874.
+- Geruchssinn II, 873. ff.
+- Gesammtbesitz, uranfänglicher II, 416. ursprünglicher II, 415. V, 329.
+- Geschäft I, 740.
+- Geschäftsführung I, 569. VI, 34. mit Auftrag I, 569. VI, 34. ohne Auftrag I, 569. VI, 34.
+- Geschehen II, 875. alle Veränderungen geschehen nach dem Gesetz der Causalität I, 875. ff. wann es in der Erfahrung nur wahrgenommen werden kann II, 876. andere Erklärung II, 878.
+- Geschicklichkeit II, 879. wer sie haben muss II, 879. hat ihre Vorschriften II, 880. die Selbstliebe kann allgemeine Regeln derselben enthalten II, 880. Imperativen derselben II, 880. ff. wann man sie Klugheit nennen kann II, 881. wie sind diese Imperativen möglich? II, 882. wann sie mit denen der Klugheit ganz und gar übereinkommen würden II, 884. ff.
+- Geschlecht III, 37.
+- Geschlechtsgemeinschaft II, 187. f.
+- Geschmack II, 886. V, 295. was wir durch ihn empfinden II, 887. ist geselliger als der Geruch II, 888. eigenthümlicher Vorzug desselben II, 888. in weiterer Bedeutung I, 859.
+
+[VI, 501] 889. das Vermögen, das Schöne zu fühlen II, 890. was die Hauptsache bei demselben ist II, 891. ff. von ihm als einer Art von *Gemeinsinn* II, 894. ff. V, 297. Wesentliches desselben II, 897. macht auf Autonomie Anspruch II, 898. lässt sich nicht durch Beweisgründe bestimmen II, 898. ff. ist ein Vermögen der gesellschaftlichen Beurtheilung äusserer Gegenstände in der Einbildungskraft II, 900. f. das Princip desselben ist das subjective Princip der Urtheilskraft überhaupt II, 902. 915. vom Verhältniss desselben zum Genie II, 903. Systeme darüber II, 902. ff. Methodenlehre desselben II, 906. f. anthropologische Bemerkungen darüber II, 907. enthält eine Tendenz zur äussern Beförderung der Moralität II, 908. ff. ist die Moralität in der äussern Erscheinung II, 910. ff. negative Bedingung desselben II, 914.
+- Geschmackslehre I, 469.
+- Geschmacksregel II, 915.
+- Geschmacksurtheil II, 915. V, 691. f. Exposition oder Analyse desselben II, 915. ff. erstes Moment desselben II, 916. ff. zweites Moment desselben II, 919. ff. drittes Moment desselben II, 924. ff. viertes Moment desselben II, 934. ff. Deduction desselben II, 939. Methode derselben II, 940. erste Eigenthümlichkeit desselben II, 941. zweite Eigenthümlichkeit desselben II, 942. vergebliches Bemühen der Critiker desselben II, 942. wie es sich vom logischen Urtheil unterscheidet II, 943. von der Aufgabe einer Deduction desselben II, 944. was eigentlich in demselben behauptet wird II, 945. die Deduction selbst II, 167. sie ist leicht II, 945. hat kein Interesse zum Bestimmungsgrund II, 946. Dialektik desselben II, 947. ff.
+- Geschmacksvermögen II, 886. ff.
+- Geschroben II, 871.
+- Geschwindigkeit I, 588. II, 955. cirkulirende I, 590. räumliche I, 590.
+- Geselligkeit II, 956. gesetzliche II, 956. ungesellige II, 956.
+- Gesellschaft II, 957. bürgerliche II, 957. das grösste Problem für die Menschengattung II, 957. bloss auf Erhaltung der Moralität angelegte II, 958. Verbindung der Menschen unter blossen Tugendgesetzen II, 958. f. rechtlichbürgerliche II, 959. ethische II, 958. ff. zusammengesetzte III, 254. hausherrliche III, 254. eheliche III, 254. elterliche oder väterliche III, 254. weltbürgerliche VI, 247.
+- Gesetz VI, 179. der Sittlichkeit II, 730. ff. III, 655. äusseres V, 67. äusseres natürliches V, 68. bedingtes praktisches V, 69. der Gerechtigkeit V, 69. f. des Rechts V, 71. empirisches V, 72. ethisches morali-
+
+[VI, 502] sches V, 72. formales V, 73. unbedingtes V, 73. göttliches V, 75. f. praktisches I, 704. III, 655. V, 77. objectives III, 451. bedingtes, materiales pragmatisches III, 655. V, 77. als Triebfeder III, 762. moralisches V, 77. statutarisches V, 79. transscendentales V, 79. unnachlassliches V, 80.
+- Gesetzgebend I, 802.
+- Gesetzgebung, praktische I, 440. f. fremde III, 264. ff.
+- Gesetzkundig V, 80. ff.
+- Gesetzlichkeit III, 780. ff.
+- Gesetzlosigkeit, wilde I, 244.
+- Gesetzmässig II, 223.
+- Gesetzmässigkeit I, 60. III, 780. ff.
+- Gesicht II, 961. V, 294. ist der edelste Sinn II, 962.
+- Gesichtskreis III, 259.
+- Gesinde III, 249. Eigenthümer dess. III, 250.
+- Gestehen I, 273.
+- Gesundheit IV, 583.
+- Gewähr II, 710.
+- Gewalt, vollziehende V, 378. rechtsprechende V, 378.
+- Gewissen II, 963. deutscher Name desselben II, 964. es wirken im Act desselben drei logische Vermögen II, 965. ff. der Act desselben ist der eines Gerichtshofes II, 968. ff. im Innern des Menschen II, 971. leitet zur Idee von Gott II, 971. ff. ist nicht etwas Erwerbliches II, 973. f. irrendes II, 975. Gewissenssache II, 976. warnendes II, 976. weites II, 976. Ankläger in demselben II, 976. Spruch desselben II, 977. ist ein Bewusstseyn, das für sich selbst Pflicht ist II, 978. andere Erklärung II, 978. Gewissenlosigkeit II, 979. wider dasselbe II, 980. Verletzung desselben II, 981.
+- Gewissensfall I, 753.
+- Gewissenskunst I, 752.
+- Gewissheit I, 108. III, 1. logische III, 1. moralische III, 1. f. anschauende III, 3. intuitive III, 3. discursive III, 3. apodiktische III, 3. empirische III, 3. Kants Abhandlung über die Evidenz III, 3. ff.
+- Gewohnheit III, 12. VI, 76. D. Hume leitet die Causalität daraus ab III, 13. ist subjective Nothwendigkeit III, 13. f. Widerlegung des Hume III, 14.
+- Gewohntwerden V, 254.
+- Gigantomachie I, 139.
+- Glaskopf I, 798.
+- Glaube III, 14. V, 846. f. biblischer III, 635. ff. 640. evangelisch-messianischer III, 640. f. mosaisch-messianischer III, 640. kann zufällig seyn II, 682. f. III, 15. historischer III, 16. 27. f. Vernunftglaube III, 15. f. objective Bedeutung III, 16. subjective Bedeutung III, 16. an die Erfahrung der Gnadenwirkungen III, 80. an Ge-
+
+[VI, 503] heimnisse III, 17. 79. an Gnadenmittel III, 17. 79. an Wunder III, 17. 79. doctrinaler II, 683. Beispiele II, 683. dogmatischer I, 249. III, 18. gebotener II, 682. f. moralischer III, 25. 29. nothwendiger II, 682. pragmatischer II, 682. f. reflectirender I, 249. III, 18. reiner praktischer II, 686. V, 842. f. Statuten desselben I, 775.
+- Glauben II, 681. 687. ff. die Moralität nöthigt dazu II, 685.
+- Glaubensartikel III, 19.
+- Glaubenssache III, 19. V, 843. f. Beispiele III, 20. ff. die drei einzigen III, 20. ff. 26. ff. Unterschied zwischen ihr und Sache der Meinung II, 32. ff.
+- Gleichartigkeit III, 37. 288. worin sie vorausgesetzt wird III, 37. ff. die Vernunft zeigt aber hier ein doppeltes widerstreitendes Interesse III, 40. ff.
+- Gleichheit I, 142. III, 36.
+- Gleichseitig I, 70.
+- Gleichung I, 838.
+- Gleichzeitigkeit VI, 299. f.
+- Glied II, 581. V, 209. des Verhältnisses I, 141.
+- Gliederung I, 368.
+- Glücklich III, 42. es zu seyn, hat jeder Mensch und jedes endliche Wesen ein Verlangen III, 43. ob dieses den Bestimmungsgrund des Willens für alle vernünftige Wesen enthalte III, 44. ist objectiv ein gar sehr zufälliges praktisches Princip III, 44. f.
+- Glückselig III, 42. ff.
+- Glückseligkeit I, 255. 396. III, 20. 46. ff. auf sie geht alles Hoffen III, 47. ist der allgemeine Zweck III, 48. andere Erklärung III, 49. f. kann nicht der Zweck seyn, zu welchem die Natur ein Wesen hervorgebracht hat, das Vernunft u. Willen hat III, 50. aus dem Gebrauch der Vernunft bloss zur Beförderung derselben entspringt Misologie III, 51. es kommt sehr viel darauf an III, 52. der Wille kann nicht bloss Mittel zu derselben seyn III, 53. sie ist nicht allein das vollständige höchste Gut III, 52. ff. sie ist aber ein Stück desselben III, 56. macht im genauen Ebenmaasse mit der Sittlichkeit das höchste Gut aus III, 56. ein Princip des Handelns III, 57. f. anderer Wesen III, 58. f. eigene III, 60. 70. ff. Beispiele III, 61. ist nicht abstrahirt III, 62. auf Erden III, 63. moralische III, 64. ff. 69. III, 267. physische III, 64. ff. III, 267. haben einige schon in Proportion mit der Tugend im gegenwärtigen Leben finden wollen III, 68. Selbstzufriedenheit II, 69. man soll nicht alle Ansprüche darauf aufgeben III, 70.
+- Glückseligkeitslehre III, 72. Unterscheidung derselben von der Sittenlehre III, 72. als solche muss man die Moral nicht behandeln III, 73.
+
+- [VI, 504] Glücksspiel V, 362.
+- Gnade I, 245. III, 74. ff. vollkommene I, 249. der Mensch wendet sich gern an sie III, 80. Reich derselben III, 242.
+- Gnadenmittel, in der Religion III, 74. der Gegenstand, den wir so nennen III, 75. f. Begriff desselben III, 77. der Mensch hat sich in allen öffentlichen Glaubensarten dergleichen ausgedacht III, 79. f. an sich selbst III, 81. f.
+- Gnadenwirkung, in der Religion III, 82. ff. was der Mensch werden soll, muss eine Wirkung seiner freien Willkühr seyn III, 83. wie kann ein böser Baum gute Früchte bringen III, 84. ff. Gott kann den Menschen ohne dessen Zuthun nicht bessern III, 90. innere Erfahrungen von solchen III, 90.
+- Göttliches I, 431.
+- Götzendienst III, 418.
+- Gold I, 495. ff.
+- Gott II, 815. ff. III, 91. ff. ob dieser Begriff einen Gegenstand habe III, 92. drei Hauptbegriffe davon in der Metaphysik III, 94. als die schlechthin nothwendige Welturssache III, 94. ff. reiner kosmologischer Beweis seines Daseyns III, 97. ff. Absprung in demselben III, 100. Beweis seines Daseyns von der Zufälligkeit der Welt III, 101. ist widerrechtlich III, 101. Beweis des Gegentheils III, 98. f. 102. Contrast in dieser Antinomie III, 102. ff. Auflösung dieses Widerstreits III, 105. ff. das Intelligibele wird nicht für unmöglich erklärt III, 108. ff. Resultat III, 111. als das allerhöchste oder allervollkommenste Wesen III, 113. ff. existirt auch ein solches höchstes Wesen III, 115. drei Arten, das Daseyn desselben aus speculativer Vernunft zu beweisen III, 115. ff. der ontologische Beweis III, 116. ff. V, 523. ff. was ist die eigentliche Ursache der Schwierigkeit bei der Frage nach dem Daseyn eines allervollkommensten Wesens III, 119. f. dieser Beweis ist unmöglich III, 120. f. V, 526. ff. der kosmologische Beweis III, 121. ff. Leibnitz nannte ihn den von der Zufälligkeit der Welt III, 122. f. ist kein anderer, als der ontologische III, 123. f. vier dialektische Anmaassungen desselben III, 125. f. die unbedingte Nothwendigkeit macht hier die Schwierigkeit III, 126. ff. Entdeckung und Erklärung des dialektischen Scheins in allen transscendentalen Beweisen eines schlechthin nothwendigen Wesens III, 128. ff. der physicotheologische Beweis III, 131. ff. verdient Achtung III, 133. f. die Hauptmomente desselben III, 134. f. Gang des Schlusses in demselben III, 135. f. Absprung in demselben III, 136. als der Welturheber, oder der moralische Beweis für die Nothwendigkeit des Glaubens an Gott II, 24. III, 136. ff. IV, 36. ff. Glaube [VI, 505] an ihn II, 816. ob der Begriff von ihm zur Physik oder Moral gehöre III, 138. f. das Gewissen leitet zu ihm hin II, 971. drei Personen in ihm II, 817. ff.
+- Gottesdienst im eigentlichen Sinne des Worts III, 418. öffentlicher III, 631. ff.
+- Gotteserkenntniss V, 519. ff.
+- Gottheit III, 91. ff.
+- Gottseligkeit I, 118. III, 141. ff. 421.
+- Gottseligkeitslehre III, 143. ff.
+- Götzendienst, gottesdienstlicher III, 145. f.
+- Grad II, 286. f.
+- Gravitation I, 98. 313. 380. III, 146. f.
+- Grenzbegriff III, 148. f.
+- Grenze, relative I, 781.
+- Grösse III, 149. ff. 526. in concreto III, 152. ausgedehnte I, 453. f. ist eine Kategorie III, 153. kann nur eine reale Bestimmung des Wahrnehmbaren seyn III, 153. 156. logische III, 154. reale III, 154. Schema derselben III, 155. f. jeder sinnliche Gegenstand hat eine III, 156. extensive I, 453. III, 157. intensive I, 776. f. 804. II, 288. III, 157. protensive III, 157. continuirliche, fliessende, stetige I, 841. II, 611. f. III, 158. IV, 790. VI, 312. seyn und gross seyn ist ganz verschieden III, 158. ff. Verneinungen, die sie afficiren III, 161. f. furchtbare IV, 645.
+- Grössenlehre III, 163.
+- Grössenschätzung III, 163. ff. ästhetische III, 163. f. mathematische III, 163. f.
+- Grund I, 170. II, 12. 17. III, 165. f. logischer I, 655. übersinnlicher III, 475. zureichender VI, 306. Satz des zureichenden III, 797. ff.
+- Grundkraft I, 315. III, 166. ff. absolute III, 168. comparative III, 168. davon ableiten III, 169. Möglichkeit derselben III, 170.
+- Grundlegung zur Metaphysik der Sitten III, 171. Kants Grund sie abzusondern III, 171. f. drei Abschnitte derselben III, 172. f. die Crit. der prakt. Vern. setzt sie voraus III, 174.
+- Grundsatz I, 205. 208. III, 175. allgemeiner III, 175. erster III, 175. mathematischer IV, 163. ff. oberster III, 175. absoluter III, 177. comparativer III, 177. reiner a priori III, 177. aus dem reinen Verstande III, 178. besonderer des reinen Verstandes III, 178. a priori der Möglichkeit aller Erfahrung III, 178. dynamischer II, 557. empirischer III, 180. formaler III, 180. einheimischer oder immanenter II, 234. der Ausschliessung I, 559. oberster der prakt. Vern. II, 485. ff. vermengter VI, 366.
+- Grundtrieb V, 563.
+- Grundunterthänig II, 154.
+- [VI, 506] Grundunterthäniger III, 182. ff. *niemand kann sich dazu verbinden* III, 183. *kann kein Mensch dem Recht nach werden* III, 184.
+- Gültigkeit III, 185. *immanente* III, 186. *allgemeine* III, 185. *objective* I, 101. 472. II, 350. 375. III, 185. *transscendentale* III, 185. *logische* III, 186. *unbestimmte* III, 186.
+- Guineaschwarzen II, 204.
+- Gunst III, 187. *bedürfen die speculativen Beweise für das Daseyn Gottes* III, 187.
+- Gunstbewerbung III, 188.
+- Gut, *höchstes* III, 20. ff. 189. ff. *ist eine Idee* III, 191. *der Begriff des höchsten* III, 191. *oberstes* III, 20. 192. *Frage* III, 192. *Begriff der alten griechischen Schulen davon* III, 193. *was dazu gehört* III, 194. f. *Ideal desselben* III, 196. *Unterschiede zwischen demselben* III, 196. ff. *im Menschen* III, 196. *in einer Welt* III, 196. *in einem Urwesen* III, 197. *auf Erden* III, 198. *wobei die Lehre davon ganz übergangen werden kann* III, 198. ff. *moralisch* III, 200. *negativ* III, 200. *unterstes* III, 20.
+- Gutes III, 201. 761. *an sich* III, 201. 205. f. *schlechthin* III, 201. 210. f. *moralisch* III, 201. *sittlich* III, 201. 211. ff. *Begriff desselben* III, 201. f. *Formel* III, 203. *Unterscheidung desselben vom Wohl* III, 203. f. *Beziehung desselben auf das Begehrungsvermögen* III, 205. *beziehungsweise* III, 205. ff. *Anmerkung* III, 209. *Ableitung desselben von der Erfahrung* III, 210. *wozu* III, 210. *negativ* IV, 65.
+- Gutsagung VI, 34. 319.
+- Gutsunterthan III, 182.
+
+### H
+
+- Haben IV, 20.
+- Habsucht III, 214. *andere Erklärung* III, 214. *dritte Erklärung* III, 214. *Geld ist die Losung* III, 215.
+- Häfslich II, 540.
+- Häufelschluss V, 351. ff.
+- Handeln III, 215.
+- Handlung III, 215. ff. 667. VI, 177. *andere Erklärung* III, 216. *dritte Erklärung* III, 217. *erlaubte* III, 217. *gute* III, 218. *negative* III, 218. *moralisch- oder sittlich-gleichgültige* III, 219. 764. IV, 660. *unerlaubte* III, 219. *was noch darüber zu merken ist* III, 219.
+- Handwerk III, 221.
+- Hang III, 221. f. *zum eigentlichen Guten oder Bösen* III, 223. f. *die daraus entspringende Fähigkeit oder Unfähigkeit das* [VI, 507] moralische Gesetz in seine Maxime aufzunehmen III, 223. *zu Maximen, die Triebfeder aus dem moralischen Gesetz andern nachzusetzen* III, 223. *weitere Erläuterung* III, 224. *physischer* III, 225. *zum Bösen muss selbst als moralisch böse betrachtet werden* III, 225. 227. 229. *verderbter* III, 226. *sein Daseyn kann durch Erfahrung dargethan werden* III, 226. ff. *Entwicklung der Beschaffenheit desselben* III, 228. f. *zur gesetzwidrigen Handlung* III, 230. *wie ist er entstanden?* III, 230. *sehr richtiger Begriff der Schrift davon* III, 230. f. *angebohrner* III, 232. *Vernunftursprung desselben* III, 232. *Zeitanfang desselben* III, 232.
+
+- Harmonie III, 233. *im Allgemeinen bestimmte* III, 234. *im Einzelnen bestimmte* III, 234. *vorherbestimmte* III, 234. *nach Leibnitz* III, 236. f. *allgemeine* III, 238. *Kants Behauptung* III, 239. ff.
+- Hart III, 243. *absolut oder schlechthin* III, 243. ff. *relativ* III, 246. *J. Bernoulli hat schon absolut harte Materie geläugnet* III, 247. *Härte der zusammengesetzten Cörper* III, 247.
+- Hass III, 248.
+- Hausgenossenschaft III, 248. *das Gesinde* III, 249. f.
+- Hausherr III, 250. *ist nicht Eigenthümer von Personen* III, 250. *Diener desselben* III, 251. *was wider die Pflicht desselben ist* III, 251. *Sklaven giebt es nur durch Gewalt* III, 252. *in weiterm Sinne* III, 252. *seine Wissenschaft* III, 253.
+- Hauswesen III, 254. f.
+- Heautonomie der Urtheilskraft III, 255. *das Wort* III, 256. *es ist ein aus der Urtheilskraft selbst für sie entspringendes Princip* III, 256. f.
+- Heidenthum II, 579. f.
+- Heilige Pflicht III, 257.
+- Heiligkeit I, 760. III, 26. 257. ff.
+- Heiligung III, 259.
+- Heischesatz IV, 664. ff.
+- Herr III, 184.
+- Herrnlos II, 417. *herrnlose Sache* III, 259. f.
+- Herrschaft über sich selbst III, 260.
+- Herrscheradel I, 356.
+- Herrschergewalt V, 378.
+- Hervorbringung III, 261.
+- Herz III, 261. *böses* III, 223. 261. f. *edles* III, 262. *gutes* I, 60. 223. 262. f. *etwas zu Herzen nehmen* III, 264. *Unlauterkeit des menschlichen* III, 223.
+- Herzhaft II, 703.
+- Heteronomie I, 444. 763. III, 264. ff. *Entwickelung* III, 265. *Kants Aufzählung aller Willensprincipien* III, 265. *alle Principien derselben* III, 266. *empirische* III, 267. *moralische [VI, 508] Glückseligkeit* III, 267. *rationale Principien* III, 268. *Frage* III, 269. *Beweis derselben* III, 270. *der Urtheilskraft* III, 270.
+- Hierarchie I, 472.
+- Himmel III, 271. f. *Kants Naturgeschichte desselben* III, 272. f. *Gensichens Auszug derselben* III, 272. f. *Kants und Lamberts Vorstellung der Milchstrasse und des Saturnusringes* III, 273. ff.
+- Himmelfahrt III, 276. *Storrs Bemerkung gegen Kant* III, 278.
+- Himmelreich V, 104.
+- Hindernis III, 279. *positives* III, 279. *negatives* III, 279.
+- Hinduischer Glaube I, 120.
+- Hinterher I, 1.
+- Hirngespinst I, 755. VI, 177.
+- Hochachtung I, 65.
+- Hochmuth III, 280. *im Lateinischen ist superbia noch von ambitio unterschieden* III, 280. *ist ungerecht* III, 281. *ist niederträchtig* III, 282. *bei dem Spanier* III, 282.
+- Höchstes III, 191. 283. f. *Frage* III, 283.
+- Höflichkeit III, 284. *ist Scheidemünze* III, 284. *hat die französische Nation* III, 285.
+- Hölle III, 285. f.
+- Hoffnung III, 286.
+- Homogeneität III, 37. 286. ff. *es ist ein logisches Princip* III, 286. *auch ein transscendentales Princip* III, 287. f. *Gesetz derselben* I, 291. III, 88. *ist eine Idee* III, 288.
+- Horizont III, 289. *des Begriffs* III, 289. *allgemeiner* III, 289. *scheinbarer* III, 289. *Privathorizont* III, 289.
+- Hospitalität III, 290.
+- Hospitalitätsrecht VI, 149. f.
+- Hostilität III, 290.
+- Hülfssatz IV, 162.
+- Humanität III, 290. *Humaniora* III, 291. *andere Erklärung* III, 291. f. *ist Pflicht* III, 292. *sittliche* III, 292. *sinnliche* III, 292. f. *theilnehmende* III, 292. *mittheilende* III, 292. *thätige* III, 293.
+- Hume III, 295. *wird Bibliothekar* III, 295. *seine Schriften* III, 297. ff. *Kants Urtheil von ihm* III, 300. *Widerlegung desselben* III, 300. ff. *Gegner desselben* III, 302. ff. *haben ihn nicht verstanden* III, 310. f. *Erinnerung desselben* III, 312. f. *Kants Versuch, ihn zu widerlegen* III, 314. ff. *Kants Besorgniss* III, 316. *seine skeptischen Zweifel* III, 316. f. *Einwürfe wider den Theismus* III, 317. ff.
+- Humor III, 767. ff.
+- Hurerei II, 193. f.
+- [VI, 509] Hutcheson III, 319. *wird Professor* III, 320. *seine Schriften* III, 320. f. *Kants Urtheil von ihm* III, 322. ff.
+- Hyperbel I, 99.
+- Hypostasiren III, 327. *die ganze transscendentale Seelenlehre gründet sich darauf* III, 327.
+- Hypothese II, 125. ff. 684. *transscendentale* II, 127.
+- Hypothetisch III, 328. *hypothetische Urtheil* III, 329. *hypothetischer Gebrauch der Vernunft* III, 330. ff.
+- Hypotypose II, 6. ff.
+
+### I
+
+- Jangue Senese II, 206.
+- Ich III, 334. f. V, 269. ff. *ist immer dasselbe Ich* III, 335. *ich denke* III, 336. f. 571. f. *auf diesen einzigen Satz ist die rationale Seelenlehre erbauet* III, 337. ff. *als denkendes Wesen* III, 341. f. *giebt vier Paralogismen* III, 343. ff. *allgemeine Bemerkung* III, 346. ff. *ich denke ich* III, 348. *erster Paralogismus der Substantialität* III, 349. *Critik desselben* III, 349. ff. *zweiter Paralogismus der Simplicität* III, 353. *Critik desselben* III, 353. ff. *dritter Paralogismus der Personalität* III, 362. *Critik desselben* III, 363. ff. *vierter Paralogismus der Idealität des äussern Verhältnisses* III, 367. f. 402. *Critik desselben* III, 402. ff. *empirisches* III, 387.
+- Ideal III, 368. f. *der Einbildungskraft* III, 370. f. *der Schönheit* II, 932. *der Sinnlichkeit* III, 370. f. *der Vernunft* III, 370. f. *der praktischen* III, 370. *der speculativen* III, 370. *der reinen* III, 370. *des höchsten Guts* III, 370. 374. ff. *transscendentales* I, 124. III, 372. ff. *der höchsten ontologischen Vollkommenheit* III, 376.
+- Idealismus III, 376. f. *ästhetischer* III, 377. *kritischer oder transscendentaler* I, 780. 782. f. III, 378. ff. *dogmatischer* III, 393. ff. 398. *des Descartes* II, 75. III, 394. *der ästhetischen Zweckmässigkeit* II, 403. ff. *der Causalität* I, 752. *der Casualität* III, 398. *der Fatalität* III, 398. *eigentlicher* III, 398. *empirischer* I, 782. III, 399. ff. *materialer oder materieller* III, 398. ff. *mystischer* III, 398. *psychologischer* I, 782. III, 402. 410. *schwärmender oder schwärmerischer* III, 370. 398. f. *praktischer* III, 401. *problematischer* III, 402. ff. *skeptischer* III, 402. ff. *Lehrsatz* III, 408. *Beweis* III, 408. f. *Anmerkungen* III, 411. ff. *theoretischer* III, 413. *träumender* III, 413. ff.
+- [VI, 510] Idealität III, 415.
+- Idee I, 19. 502. III, 28. f. V, 786. ff. 801. f. *ästhetische* II, 214. 225. 832. III, 370. V, 825. ff. *intellectuelle* V, 786. ff. *regulative* II, 237. *transscendentale* II, 235. *Zusammenhang unter denselben* V, 809. ff. *auf sie laufen dreierlei Vernunftschlüsse aus* V, 816. f. *transscendente* II, 235. *Vernunftidee* III, 370. *es ist nichts vorhanden, was uns hinderte, die Vernunftideen als objectiv und hypostatisch anzunehmen* V, 813. ff. *mit ihnen endigt alle menschliche Erkenntniss* V, 817. f. *sie sind das wichtigste in der ganzen Metaphysik* V, 818. f. *dynamische* V, 835. ff. *mathematische* V, 837. *kosmologische* VI, 128. f.
+- Identisch II, 226. *welche Begriffe es sind* III, 417.
+- Identität I, 75. 144. II, 226. ff. III, 417. *Satz derselben* V, 158.
+- Idol III, 419. f.
+- Idololatrie I, 119. III, 145. f. 418. f. *das Wort* III, 420. *andere Erklärung* III, 421.
+- Illusion V, 173. ff. 301. ff.
+- Imagination II, 15. 215. ff.
+- Immanent I, 223. II, 234.
+- Immaterialität III, 421. *Erbfehler dieser Behauptung* III, 421.
+- Immortalität V, 641.
+- Impenetrabilität V, 612. ff.
+- Imperativ I, 443. III, 449. *ist Formel des Gebots* III, 449. *enthält ein Sollen* III, 450. f. *für einen göttlichen Willen gilt keins* III, 452. *in eigentlicher Bedeutung* III, 452. *ist Formel der Bestimmung eines guten Willens* III, 453. *noch zwei Erklärungen* III, 453. *es giebt mehrere Arten* III, 454. *apodiktischer* III, 454. *assertorischer* III, 454. *bedingter* III, 455. ff. *der Geschicklichkeit* II, 880. ff. III, 455. *hypothetischer* II, 882. ff. III, 455. ff. *kategorischer* I, 444. 730. ff. III, 459. ff. *allgemeiner der Pflicht* III, 460. *der Klugheit* III, 655. *der Sittlichkeit* III, 460. 655. *praktischer* III, 460. *unbedingter* III, 460. ff. *Vorstellung aller im Zusammenhange* III, 479.
+- In der Erfahrung I, 1.
+- Inbegriff aller Wissenschaften II, 293.
+- Incitabilität III, 774.
+- Incitation III, 774.
+- Indeterminismus II, 80. 83.
+- Individuum III, 479. f.
+- Induction I, 206.
+- Inhabung II, 416.
+- Inhärenz I, 49. V, 409.
+- [VI, 511] Inneres I, 269. III, 481. ff. *comparativ* III, 486. *schlechthin* III, 486.
+- Instinct I, 151. V, 560. ff.
+- Intellectualphilosoph II, 329.
+- Intellectuiren V, 289.
+- Intelligenz III, 488. *so betrachtet sich der Mensch* III, 489. *die Freiheit liegt nur in ihr* III, 490. *andere Erklärung* III, 491.
+- Interesse I, 236. II, 468. III, 491. ff. *moralisches* I, 51. III, 494. *pathologisches* III, 493. 501. *praktisches* III, 493. 501. f. *ist eigentlich ein Gefühl* III, 493. *empirisches* III, 494. *logisches* III, 494. *mittelbares* III, 494. *reines* III, 494. *nehmen* III, 492. ff. *woraus der Begriff entspringt* III, 495. *andere Erklärung* III, 496. *dritte Erklärung* III, 497. *Vernunftinteresse* III, 498. *man kann jedem Gemüthsvermögen eins beilegen* III, 498. f. *welches ist das oberste?* III, 500. *der Neigung* III, 501.
+- Interpunctionszeichen VI, 230.
+- Intuitiv II, 48.
+- Intussusception I, 405.
+- Involutionstheorie II, 185. 462. ff.
+- Irritabilität I, 241.
+- Isoliren I, 39.
+- Judaism I, 120.
+- Juridisch I, 721.
+
+### K
+
+- Kalkerde I, 90.
+- Kanon III, 505. VI, 78. *wie einer für unser Erkenntnissvermögen möglich seyn kann* III, 505. *auf welche Fragen das ganze Bestreben unsrer Vernunft gerichtet ist* III, 506. *der praktische Gebrauch der Vernunft erlaubt einen* III, 506. f. *noch drei Fragen der Vernunft* III, 508. *Beantwortung derselben* III, 508. *Vernunftglaube* III, 509. *Frage* III, 510. *Antwort* III, 511.
+- Kanonik V, 950. ff.
+- Kargheit IV, 3.
+- Karrikatur III, 511. *Beispiel* III, 511. *Hauptmerkmahl* III, 512. *andere Erklärung* III, 512.
+- Katechese IV, 301.
+- Kategorie II, 353. ff. III, 513. ff. *Kraftbergers richtige Vorstellung* III, 514. f. *metaphysische Deduction der Kategorien* III, 516. ff. *wie ergeben sie sich alle ganz vollständig* III, 516. *wie sie entspringen* III, 517. ff. *die reine Synthesis allgemein vorgestellt, giebt die Kategorie* III, 520. f. *andere Erklärung* III, 522. *Aristoteles Buch* [VI, 512] *davon* III, 522. *transscendentale Tafel derselben* III, 523. ff. *was sie enthält* III, 526. ff. *Schwabs Vorwurf* III, 529. *diese Tafel ist unentbehrlich* III, 530. *Probe ihres Gebrauchs* III, 531. ff. *merkwürdige Betrachtung über diese Tafel* III, 535. f. *dynamische* III, 536. *mathematische* III, 536. *vier Classen, die immer drei derselben enthalten* III, 536. *wie die dritte entspringt aus der zweiten und ersten* III, 537. *Schwabs Vorwurf* III, 538. *ein paar andere Bemerkungen über diese Tafel* III, 538. f. *Schwabs Frage* III, 540. *transscendentale Deduction der Kategorien* III, 543. ff. 1. *Vorbereitung* III, 543. ff. *man kann durch sie jeden Gegenstand denken* III, 544. f. *sie sind uns zum Denken unentbehrlich* III, 546. *aus der Erfahrung ist ihre Gültigkeit nicht zu erkennen* III, 547. 2. *Uebergang* III, 548. ff. *Frage* III, 549. *sie können nicht aus der Erfahrung entspringen* III, 549. ff. *Locke* III, 552. *andere Erklärung* III, 553. 3. *Deduction* III, 555. ff. a. *nach der ersten Ausgabe der Kritik* III, 555. ff. *dass ein Begriff eines bestimmten Gegenstandes völlig a priori erzeugt werde, ist unmöglich* III, 556. *wie unsern Begriffen von Gegenständen ein Inhalt gegeben werden kann* III, 557. *wie man durch Kategorien Gegenstände erkennen kann* III, 557. *dreifache Synthesis* III, 558. *Resultat* III, 559. f. *Uebersicht der ganzen Deduction* III, 561. ff. *Folgerung* III, 567. ff. b. *nach der zweiten und den folgenden Ausgaben der Kritik* III, 570. ff. *die Verbindung eines Mannigfaltigen kann niemals durch Sinne in uns kommen* III, 570. f. *das Urtheil* III, 572. ff. *die Verknüpfung bringt die Kategorie hinein* III, 575. *und machen so Gegenstände der Erfahrung* III, 576. *was also die Kategorien sind* III, 576. *lassen sich aber auch bloss zur Erkenntniss von Gegenständen der Erfahrung gebrauchen* III, 577. *was ihnen allein Bedeutung geben kann* III, 578. *was man nicht durch sie bestimmen kann* III, 579. *die Verknüpfung durch sie ist rein intellectual* III, 580. *sie machen die Natur möglich* III, 580. *Resultat* III, 581. *sie enthalten die Gründe der Möglichkeit aller Erfahrung* III, 582. *Vergleichung dieses Systems mit den Haupttheorien über die Erzeugung* III, 582. ff. *was diese Deduction beweiset* III, 585. f. *Vom Gebrauch der Kategorien in praktischer Bedeutung* III, 586. ff. *was die reine Kategorie ausdrückt* III, 586. f. *Aufforderung an die Gegner* III, 588. *durch sie lassen sich keine Gegenstände a priori erkennen* III, 589. *sie werden zu jedem Gebrauch der Vernunft in Ansehung eines Gegenstandes erfordert* III, 590. *können also auch objective Realität im Felde des Uebersinnlichen haben* III, 591. *hiermit ist das Räthsel über den Gebrauch der Kategorien* [VI, 513] *zur Erkenntniss des Uebersinnlichen aufgelöset* III, 593. f. *hieraus ersieht man die Nothwendigkeit obiger Deduction* III, 594. *die Kategorien der Freiheit* III, 595. ff. *es giebt welche* III, 595. ff. *Tafel derselben* III, 599. ff. *Bemerkungen darüber* III, 600. ff. *was man in derselben übersieht* III, 605.
+- Katharktikon III, 606.
+- Kauf VI, 33.
+- Kaufmannschaft I, 232.
+- Keines II, 750. ff.
+- Kenntniss IV, 131.
+- Kennzeichen *der Erkenntniss und der Sachen* IV, 247. ff.
+- Kepler III, 606. f.
+- Kettenschluss V, 351. f.
+- Ketzer III, 608.
+- Keuschheit III, 609.
+- Kind III, 610.
+- Kindesmord V, 403.
+- Kinderfrage III, 611.
+- Kinkhorn, linksgewundenes I, 586.
+- Kirche I, 417. 426. III, 611. *Gemeine* III, 612. *den Kategorien nach* III, 612. ff. *Constitution derselben* III, 615. *gottesdienstliche Religion* III, 615. ff. *es kann mancherlei geben* III, 619. *wichtigstes Merkmahl der Wahrheit derselben* III, 620. f. *kirchliche Glaubenseinheit* III, 662. *Geschichte derselben* III, 622. ff. *was zu ihrer Errichtung erfordert wird* III, 625. *unsichtbare* III, 626. *sichtbare* III, 626. f. *Jesu* III, 627. *der wahre Dienst derselben* III, 628. f. *wenn sie nicht eigentlich Diener hat* III, 629. *sondern Beamte* III, 629. *protestantische* III, 629. *Afterkirche* III, 629. *verwandelt den Dienst derselben in eine Beherrschung* III, 629. ff. *triumphirende* V, 105.
+- Kirchendienst III, 631.
+- Kirchengehen III, 78. 631. *die Absicht desselben* III, 632. *als ein Gnadenmittel* III, 633. *auch Erbauung wird dadurch beabsichtigt* III, 634.
+- Kirchenglaube I, 417. f. 421. *Allgemeinheit für einen* III, 635. f. *Grundsatz desselben* III, 637. *im objectiven Sinne* I, 426. *was mit ihm anhebt* III, 638. f. *wozu ihn die Regierung gebraucht* III, 639. ff. *Kraftgenies entsagen ihm ganz* III, 641. f. *kann die Bibel nicht entbehren* III, 643. *historischer* III, 642. *der Schriftgelehrte für ihn* III, 644. *Lehrmethode* III, 645. *der rationale Theolog sieht wenig auf ihn* III, 646. *wesentliche Erfordernisse zum Vortrag desselben* III, 646. *was dazu erfordert wird* III, 647. *was man einräumen kann* III, 647. *was man von ihm erwarten kann* III, 648.
+- [VI, 514] Kirchenwesen III, 649. *der Staat hat nicht das Recht, es nach seinem Sinne einzurichten* III, 650. *es ist unter der Würde der obrigkeitlichen Gewalt, diess zu thun* III, 650. *das Volk kann nicht beschliessen, dasselbe nie zu reformiren* III, 651. *Kosten der Erhaltung dessselben* III, 651.
+- Klar III, 652. f.
+- Klarheit III, 652. f.
+- Klebrigkeit III, 654.
+- Kluft IV, 37. ff.
+- Klug III, 656. f.
+- Klugheit II, 331. 881. III, 654. *Imperativen* derselben III, 655. *Vorschriften* derselben III, 655. *das Wort* III, 656. *wozu viel erfordert wird* III, 658. *andere Erklärung* III, 659. *Maxime* derselben III, 660.
+- Klugheitslehre III. 72. 655. 658.
+- Klugheitsregel III, 666. V, 69.
+- Kläglich III, 660.
+- Klümpchen I, 204. 372.
+- Knauserei III, 661.
+- Knecht III, 182.
+- Können III, 662.
+- Körperlehre III, 662. **wodurch sie allein** *Naturwissenschaft wird* III, 663.
+- Kopf II. 863. ff. 870.
+- Kosmologie, *rationale* III, 664. *Wolf hat eine geschrieben* III, 665.
+- Kosmologisch III, 666.
+- Kraft I, 36. III, 666. *andere Erklärung* III, 667. *was auf diesen Begriff führt* III, 667. *wie man das Wort nicht brauchen müsse* III, 668. *wie man diesen Begriff so erhält, wie er zur Erkenntniss der Naturgegenstände tauglich ist* III, 669. *Schema* derselben III, 670. *bewegende* I, 621. III, 670. ff. *dynamische bewegende* III, 671. 679. *wesentliche bewegende* III, 671. *thätige* III, 671. ff. *zwei bewegende* III, 674. *Zurückstossungskraft* III, 674. *Anziehungskraft* III, 674. ff. *Ausdehnungskraft* III, 674. *ausdehnende* III, 675. *absolute* III, 675. *mechanische bewegende* III, 679. *durchdringende* I, 312. *Flächenkraft* III, 681. *lebendige* III, 681. ff. *der Cörper überhaupt* III, 684. *ganze Grösse* derselben III, 693. *in schräger Richtung ausgeübte* III, 698. *todte* III, 709. *ursprüngliche* II, 177. *ziehende* I, 302. *repulsive* VI, 306. ff. *treibende* VI, 306. ff.
+- Kreis I, 70.
+- Kreisbewegung I, 597.
+- Kriecherei, *sittlich falsche* III, 710. *andere Erklärung* III, 710. *Beweise eines ausgebreiteten Hanges dazu* III, 711. *er soll nicht kriechen* III, 711. f.
+- [VI, 515] Krieg II, 811. III, 712. *Bestrafungskrieg* III, 712. *Strafkrieg* III, 712. *zwischen unabhängigen Staaten kann es keinen geben* III, 713. *Unterjochungskrieg* III, 713. *er ist ungerecht* III, 714. *Vertheidigungskrieg* III, 714. *zwei Arten dazu zu berechtigen* III. 715. *ein Staat befindet sich in einem Zustande des beständigen* III, 716. *Recht dazu* III, 716. *Recht in demselben* III, 716. 720. *Recht nach demselben* III, 716. 721. *die freien Staaten haben ein ursprüngliches Recht dazu* III, 718. f. *ihn zu beschliessen wird die Beistimmung der Staatsbürger erfordert* III, 720. *was in demselben erlaubt ist* III, 721.
+- Kriegsgesellenmord V, 403.
+- Kriegszustand VI, 325.
+- Kriticismus III, 722.
+- Kritisch I, 185. II, 149.
+- Kühn VI, 205.
+- Kunst III, 723. V, 464. f. *andere Erklärung* III, 724. *Unterscheidung derselben von der Natur* III, 724. *das Wort* III, 725. *Beispiel* III, 726. *Unterscheidung derselben von der Wissenschaft* III, 727. f. *Unterscheidung derselben vom Handwerk* III, 728. *ästhetische* III, 729. *angenehme* III, 729. *bildende* III, 730. 738. *des schönen Spiels der Empfindungen* III, 731. 738. *redende* III, 732. 738. *schöne* III, 732. ff. *göttliche* III, 748. ff.
+- Kunstaufgabe IV, 653.
+- Kunstproduct, *cörperliches* I, 742.
+- Kunsttrieb I, 151.
+- Kunstweisheit III, 745. f. *Unterscheidung derselben von der moralischen Weisheit* III, 746. f.
+- Kurzweil II, 764.
+- Kynosarges I, 763.
+
+### L
+
+- Lachen II, 754. ff. VI, 115. f.
+- Laie I, 772.
+- Landesverweisung, *Recht derselben* III, 748.
+- Langeweile II, 764.
+- Laster III, 749. *objectiv* III, 749. *subjectiv* III, 749. *Entwickelung* III, 750. f. *wahres* III, 752. *Mehrheit derselben* III, 752. *Princip desselben* III, 753. *auf welche Anlagen allerlei gepfropft werden können* III, 753. *alle sind inhuman* III, 754. *wie es von einer Tugend unterschieden ist* III, 754. f. *falsche Erklärung desselben* III, 756. f. *Tafel aller* III, 756. *unnatürliches* III, 757. *unnennbares* III, 758. *der Cultur* III, 225. *der Rohigkeit* [VI, 516] I, 244. *Beispiele* III, 226. *Grade desselben* III, 226. *teuflische* I, 245. *viehische* I, 244.
+- Latitudinarier *in der Moral* III, 759. *moralisches Mittelding* III, 760. f. *es giebt keine* III, 761. f. *rigoristische Entscheidungsart* III, 762. f. *moralisch gleichgültige Handlung* III, 764. *der Coalition* III, 760. 765. *der Neutralität* III, 760. *bei den Alten* III, 766.
+- Laugensalz I, 90.
+- Laune III, 767. *andere Bedeutung* III, 768.
+- Launigt III, 769. *launigte Manier* II, 757. III, 769.
+- Launisch III, 768. *launische Sinnesart* III, 768.
+- Lauterkeit III, 770.
+- Leben III, 771. *es ist unmöglich, dass es in der Materie liege* III, 771. *andere Erklärung* III, 772. *dritte Erklärung* III, 772. *diese ist die der Stahlischen Partei* III, 773.
+- Lebenskraft III, 773. f.
+- Lebensprincip I, 241.
+- Lebensreiz III, 774.
+- Lebensvermögen III, 774.
+- Leer III, 777. *leerer Begriff* III, 777. *leerer Gedanke* III, 777. *leeres Datum zu Begriffen* III, 777. f. *leerer Gegenstand ohne Begriff* III, 778. *leerer Satz* III, 779.
+- Legalität I, 60. III, 780. ff. *worin sie besteht* III, 781. *genügt den juridischen Gesetzen* III, 782.
+- Lehrvertrag VI, 34.
+- Lehnsatz V, 162.
+- Lehrart III, 783. *andere Erklärung* III, 783. *dritte Erklärung* III, 784. *ist vom Vortrage unterschieden* III, 784. *aber nicht von Methode im Theoretischen* III, 785.
+- Lehrgebäude, *philosophisches* I, 756.
+- Lehrmethode III, 645.
+- Lehrsatz III, 785. *dialektischer oder vernünftelnder* III, 786. f.
+- Lehrspruch II, 140.
+- Leib VI, 47.
+- Leibeigener III, 183. f. 788. ff.
+- Leibeskräfte III, 790. IV, 421.
+- Leibnitz III, 790. *reiset nach Rom* III, 791. *seine Werke* III, 792. ff. *seine Philosophie* III, 795. *der Satz des zureichenden Grundes* III, 797. ff. *die Lehre von den angebohrnen Begriffen* III, 800. ff. *der Satz des Nichtzuunterscheidenden* III, 804. ff. *der Satz vom Widerstreit der Realitäten* III, 812. ff. *die Lehre von den Monaden* III, 819. ff. *die Lehre von der vorherbestimmten Harmonie* III, 236. f. *die Lehre von Raum und Zeit* III, 826. ff. *die Lehre vom Unterschied zwischen dem Sinnlichen u. Intellectuellen* III, 852. *die Lehre von der Continuität in der* [VI, 517] *Stufenleiter der Geschöpfe* III, 853. *die Theodicee* III, 853. ff.
+- Leichtgläubigkeit III, 867. ff.
+- Leidenschaft III, 870. ff. *der angebohrnen oder natürlichen Neigung* III, 872. *der Cultur* III, 873. *sind von den Affecten zu unterscheiden* III, 875. ff.
+- Leihvertrag I, 679. III, 879. f.
+- Leistung III, 880. ff.
+- Leitfaden I, 679.
+- Lernen III, 883.
+- Liberalität IV, 1. *der Denkungsart* IV, 1. f. *ihr ist die Kargheit gerade entgegengesetzt* IV, 3.
+- Licht, *inneres* I, 433.
+- Liebe IV, 3. *des Nächsten* I, 61. *Gottes* I, 61. *des Wohlgefallens* IV, 4. *ästhetische* IV, 4. *pathologische* IV, 4. *im eigentlichen Sinne des Worts* IV, 4. *praktische* IV, 5. *des Wohlwollens* IV, 5. f.
+- Liebespflicht IV, 557.
+- Limitation II, 254. f. IV, 6. *Ableitung derselben vom unendlichen Urtheil* IV, 7. ff. *wann wir diesen Begriff nicht hätten* IV, 10. *in der Erscheinung* IV, 11. *logische* IV, 6. ff. 11. *metaphysische* IV, 10. f. *physische* IV, 11.
+- Links I, 495.
+- Linkshörnchen I, 586.
+- Litterat V, 406.
+- Locke IV, 12. ff. *Kants Urtheil über Lockes Ableitung der Kategorien* IV, 13. *ist in der Noogonie der Antipode von Leibnitz* IV, 13. *folgte dem Aristoteles* IV, 15.
+- Locker II, 95.
+- Logik I, 77. V, 850. ff. *Grundquellen der Erkenntniss im Gemüth* IV, 16. ff. *geht auf alles Denken überhaupt* IV, 19. f. *Kants Entdeckung* IV, 20. *allgemeine* II, 38. 88. 264. ff. IV, 21. *angewandte* II, 59. IV, 32. *Elementarlogik* IV, 21. 35. *transscendentale* II, 59. 91. f. IV, 21. ff. *diese muss zwei Theile haben* IV, 28. ff. *des gemeinen Verstandes oder der gemeinen Vernunft* IV, 33. *des speculativen Erkenntnisses, des speculativen Vernunftgebrauchs oder des speculativen Verstandes* IV, 34. *wann sie dialektisch ist* II, 90. *formale* IV, 35. *gemeine* IV, 35. *künstliche oder wissenschaftliche* IV, 35. *natürliche oder populäre* IV, 35. *praktische* IV, 36. *theoretische* IV, 36. *des Scheins* V, 175. f.
+- Logisch I, 506. IV, 37.
+- Lohnkunst III, 221.
+- Loos II, 578. V, 169.
+- Lücke IV, 37. *giebt es nicht in der Reihe der Erscheinungen* IV, 38. f.
+- Lüge IV, 553.
+- [VI, 518] Lust I, 806. II, 758. ff. IV, 40. ff. VI, 357. *was ist Lust* IV, 40. ff. *andere Erklärung* IV, 40. f. *Resultat* IV, 42. *diese Erklärungen sind ganz transscendental* IV, 43. *moralische* IV, 44. *negative* IV, 44. *Sinnenlust, aus dem Genusse oder pathologische* IV, 45.
+- Luftgärtnerei IV, 45.
+- Luxus IV, 46.
+
+### M
+
+- Machen II, 407.
+- Macht IV, 47. *der Natur* IV, 48. *je grösser, desto furchtbarer* IV, 48. *in meiner Macht* IV, 49. *auch ein Staat heisst so* IV, 49.
+- Mächtig *seiner selbst* IV, 50. *nicht* IV, 51. *was es hindert* IV, 50.
+- Magie I, 116. *schwarze* I, 116. *weisse* I, 116.
+- Mahlerei IV, 52. ff. *im weiten Sinne* IV, 53. *im engsten* IV, 54.
+- Mahlerkunst IV, 52. ff. *im weiten Sinne* IV, 53. *im engsten* IV, 54.
+- Majestätsrecht IV, 51. f.
+- Majoratsstiftung V, 387.
+- Mandat I, 569. VI, 34.
+- Mangel IV, 54. *Beispiel* IV, 55.
+- Manier I, 367.
+- Manieriren IV, 55. *Manierirender* IV, 56.
+- Mann IV, 56.
+- Mannigfaltiges IV, 57. f.
+- Mannigfaltigkeit IV, 58. ff. *Grund aller* IV, 59. f.
+- Mariottisches Gesetz IV, 60. ff. *E. Mariotte* IV, 60. *Versuch* IV, 60. ff. *anderer Versuch* IV, 64. *Gesetz* IV, 65. f. *Newtons* IV, 67. *Kants Behauptung* IV, 67. ff.
+- Marktpreis IV, 70.
+- Maschine IV, 70.
+- Maskopei I, 719.
+- Masse I, 626. IV, 70. ff. *Bewegung in Masse* IV, 71. *wirken in Masse* IV, 70. ff.
+- Material IV, 72. *Beispiel* IV, 72.
+- Materialismus IV, 73. *psychologischer* IV, 73. *kosmologischer* IV, 73. 89. f. *soll zweierlei leisten* IV, 74. f. *moralischer Beweis gegen den psychologischen* IV, 76. *Leucipp behauptete ihn zuerst* IV, 77. *Epikur war ebenfalls ein Materialist* IV, 78. ff. *Aristoxenus, Dicäarch leugneten die Seele* IV, 82. *Strato, der Physiker, desgleichen* IV, 82. *die Stoiker ebenfalls* IV, 82. ff. *Hobbes leugnete die Seele auch* IV, 84. *Gassendi hielt sie für materiell* IV, [VI, 519] 84. *la Mettrie war ein Materialist* IV, 85. *Helvetius lässt es unentschieden* IV, 86. ff.
+- Materialist IV, 88. ff. *der Persönlichkeit* IV, 88. *der Gegenwart* IV, 88.
+- Materie II, 178. ff. III, 531. ff. 678. f. IV, 90. ff. *Autokratie derselben* I, 439. *dynamische* IV, 92. ff. *Erklärung der Möglichkeit derselben* VI, 307. ff. *Schwierigkeit dieser Erklärung* VI, 311. f. *logische* IV, 104. ff. *mechanische* IV, 111. ff. *metaphysische* IV, 126. V, 313. f. *phänomenologische* IV, 126. *phoronomische* IV, 127. *praktische* IV, 127. *transscendentale* IV, 128.
+- Materiell IV, 129.
+- Mathema I, 321. 835.
+- Mathematik IV, 131. ff. *der griechische Name* IV, 131. *angewandte* IV, 131. 156. f. *reine* I, 390. III, 163. IV, 131. *die Urtheile derselben sind insgesamt synthetisch* IV, 132. *scheint ein neuentdeckter Satz zu seyn* IV, 133. *die eigentlichen Sätze der reinen sind alle a priori* IV, 134. *der Ausdehnung* I, 409. IV, 134. *Möglichkeit, ihre Sätze auf Erfahrung anzuwenden* IV, 135. *Arithmetik* IV, 136. *Elementar- oder gemeine Mathematik* IV, 136. *höhere* IV, 136. *ist von der Philosophie zu unterscheiden* IV, 137. ff. *Schwabs Einwurf* IV, 139. ff. *anderer Einwurf desselben* IV, 150. *die Vernunft hat vermittelst derselben grosses Glück gemacht* IV, 151. *Methode derselben* IV, 152. ff. *Anwendung derselben auf Naturlehre* IV, 156. ff. *bisherige Unfähigkeit der Chemie dazu* IV, 158. *warum das Feld der angewandten Mathematik so gross ist* IV, 158. *Grenzen zwischen ihr und der Naturlehre* IV, 159. *Geschichte derselben* IV, 160. ff.
+- Mathematisch I, 587. IV, 162. *mathematische Grundsätze* IV, 163. ff. *mathematische Verbindung oder Verknüpfung* IV, 166. *Verhältnisse* IV, 166.
+- Maxime IV, 167. VI, 179. *setzt Vernunft voraus* IV, 167. ff. *weitere Entwickelung* IV, 169. f. *regulative* IV, 170. *Beispiele* IV, 171. f. *der speculativen Vernunft* IV, 173. *der praktischen Vernunft* IV, 173. f.
+- Maximum IV, 175.
+- Mechanik I, 585. 592. 625. IV, 175. ff. *metaphysische* IV, 175. ff. *mathematische* IV, 175. f. *Uebersicht derselben* IV, 177. f. *Gesetze derselben* I, 627. IV, 178. f.
+- Mechanisch IV, 181.
+- Mechanismus *der Natur* IV, 182. f. IV, 638. *andere Erklärung* IV, 184.
+- Medium, *auflösendes* I, 407. f.
+- Mein II, 408. IV, 185. ff. *angebohrnes* IV, 186. *erworbenes* IV, 186. *äusseres* IV, 186. *inneres* IV, 185. *Freiheit ist das einzige innere* IV, 187. *Wolfs angebohrne [VI, 520] Mein* IV, 188. *es giebt nur ein einziges angebohrnes* IV, 188. *giebt eine richtige Eintheilung des Naturrechts* IV, 189. *das Privatrecht handelt vom* IV, 190. *worin besteht das äussere* IV, 191. ff. *man muss im Besitz desselben seyn* IV, 192. *Anwendung* IV, 192. f. *Richtigkeit der Erklärungen* IV, 194. f. *wie ist das äussere möglich* IV, 195. ff. *Haben* IV, 200.
+- Meinen II, 673. 681. IV, 201. ff. *ist ein problematisches Urtheilen* IV, 202. *Beispiel* IV, 201. *kann als ein vorläufiges Urtheilen angesehen werden* IV, 202. f. *wo findet es statt* IV, 203. *über Erfahrungsgegenstände* IV, 204.
+- Meinung IV, 204. f. *Sache derselben* III, 32. V, 844.
+- Meinungssache IV, 205. *Beispiel* IV, 206. f. *anderes Beispiel* IV, 208. *drittes Beispiel* IV, 209.
+- Memoriren II, 545. ff. *ingeniöses* II, 547. *judiciöses* II, 547.
+- Menge I, 800.
+- Mensch IV, 211. *als Vernunftwesen* II, 970. IV, 211. f. *als Sinnenwesen* II, 970. IV, 212. *rechtlicher* II, 199. *sinnlicher* II, 970. *für wen dieser Unterschied schwer zu fassen ist* IV, 213. *weitere Entwickelung* IV, 214. ff. *böser Mensch* IV, 218. *der Mensch ist von Natur böse* IV, 218. *feiner* IV, 219. *guter Mensch* IV, 220. *von guten Sitten* IV, 221.
+- Menschengattung V, 201.
+- Menschengeschichte IV, 222. *9 Sätze darüber* IV, 223. ff. *muthmasslicher Anfang derselben* IV, 227. *der künftigen Zeit* IV, 228. *vorhersagende* IV, 228. *wahrsagende* IV, 228. *prophetische oder weissagende* IV, 228. *drei verschiedene Vorstellungsarten der wahrsagenden* IV, 229. f.
+- Menschenhass III, 248. IV, 309.
+- Menschenkunde I, 277.
+- Menschenlehre I, 277. *im engern Sinn* I, 278.
+- Menschenliebe IV, 391. f. *praktische* IV, 570. ff.
+- Menschenscheu IV, 309.
+- Menschenschlag IV, 232. ff. V, 201. *eine Art der Menschengattung* IV, 234. ff. *Forster u. Kant waren über zwei Puncte uneinig* IV, 236. ff. *es ist nicht nöthig, mehr als Einen ursprünglichen Menschenstamm anzunehmen* IV, 239. ff. *dadurch wird aber noch nicht Ein Einzelnes ursprüngliches Paar angenommen* IV, 242. *Kants Ableitung aller Organisation* IV, 242.
+- Menschenvernunft, *gemeine* IV, 243.
+- Menschenverstand, *gemeiner* II, 895. IV, 243. ff. VI, 19. ff. *drei Maximen desselben* IV, 244. ff.
+- [VI, 521] Menschlichkeit III, 290. IV, 246. *ästhetische* IV, 247. *sinnliche* IV, 247.
+- Menstruum I, 407. f.
+- Merkmahl IV, 247. *ein jedes lässt sich von zwei Seiten betrachten* IV, 247. f. *alle sind von zwiefachem Gebrauche* IV, 248. *äusserer Gebrauch desselben* IV, 248. *innerer Gebrauch desselben* IV, 248. *äusseres* IV, 249. *analytisches* IV, 249. *aussenwesentliches, veränderliches, zufälliges* IV, 250. *inneres zufälliges* IV, 250. *äusseres zufälliges* IV, 250. *bejahendes* IV, 250. *constitutives, primitives, grundwesentliches, wesentliches in engerer Bedeutung* IV, 251. *coordinirtes* IV, 251. *entferntes, mittelbares* IV, 252. f. *fruchtbares, wichtiges* IV, 254. *inneres* IV, 255. *leeres, geringes, unwichtiges* IV, 255. *nothwendiges, unveränderliches, wesentliches* IV, 255. *subordinirtes* IV, 256. *synthetisches* IV, 256. *unmittelbares* IV, 257. *unzureichendes* IV, 258. *verneinendes* IV, 258. *zureichendes* IV, 259. *Zwischenmerkmahl* IV, 259.
+- Merkzeichen VI, 229.
+- Messen IV, 260. ff. *andere Erklärung* IV, 262.
+- Messung IV, 260. ff.
+- Messbarkeit II, 568.
+- Metaphysik I, 19. II, 298. f. IV, 263. ff. *andere Erklärung* IV, 263. ff. *warum hat in derselben bis auf Kant kein sicherer Weg gefunden werden können* IV, 266. *Revolution in derselben* IV, 267. f. *durch Kant* IV, 269. ff. *eigentlicher Zweck derselben* IV, 271. *worin besteht Kants Versuch* IV, 272. ff. *negativer Nutzen derselben* IV, 275. *positiver Nutzen derselben* IV, 275. ff. *durch Kants Critik werden alle Streitigkeiten in derselben geendigt* IV, 277. *vollständige Eintheilung derselben* IV, 277. ff. *Bedenklichkeiten* IV, 280. *allgemeine Idee derselben* IV, 282. *sie ist allein ächte Philosophie* IV, 283. *sie ist die Vollendung der Cultur aller menschlichen Vernunft* IV, 284. *sie ist die Tochter der Theologie* IV, 284. *Geschichte derselben* IV, 285. *in Ansehung des Gegenstandes* IV, 285. f. *in Ansehung des Ursprungs unsrer Vernunfterkenntnisse* IV, 287. *in Ansehung der Methode* IV, 288. ff. *als Naturanlage* IV, 292. *der Natur* II, 299. f. IV, 292. *der Sitten* II, 300. f. IV, 292. *des Schönen* I, 468. *Eintheilung* IV, 681. f. *des Rechts* V, 31.
+- Metaphysisch I, 506.
+- Methode I, 367. IV, 293. ff. *im Praktischen* IV, 293. ff. *der Gründung und Cultur ächter moralischer Gesinnungen* IV, 294. *erstes Stück derselben* IV, 295. *zweite Uebung* IV, 295. ff. *im Theoretischen* III, 783. ff. *verschiedene Arten derselben* IV, 297. ff. *akroamatische, dogmatische* IV, [VI, 522] 297. *analytische*, *regressive* IV, 297. *aphoristische* IV, 298. *critische* IV, 299. *dialogische* IV, 299. *sokratische* IV, 299. *dogmatische* IV, 300. *erotematische* IV, 300. *fragmentarische*, *rhapsodistische* IV, 301. *katechetische* IV, 301. *Manier* IV, 302. *mathematische* IV, 302 *methodische* IV, 302. *naturalistische* IV, 302. *populäre* IV, 303. *scientifische*, *scholastische*, *wissenschaftliche* IV, 303. *skeptische* IV, 303. *syllogistische* IV, 303. *synthetische*, *progressive* IV, 303. *systematische* IV, 304. *tabellarische* IV, 304. *tumultuarische* IV, 304.
+
+- Methodenlehre IV, 305.
+- Mikrologie IV, 306.
+- Milchstrasse IV, 307. *Demokrit hat sie schon richtig erklärt* IV, 307. *was Kant zuerst von ihr behauptet hat* IV, 307.
+- Minderjährigkeit IV, 308.
+- Minern I, 795.
+- Minorennität IV, 308.
+- Misanthropie IV, 309. *ästhetische* IV, 309. *separatistische* IV, 309.
+- Misologie III, 51.
+- Missgeburt IV, 310.
+- Missgunst IV, 310.
+- Missvergnügen IV, 311. V, 742.
+- Mitfreude IV, 311.
+- Mitgefühl IV, 312.
+- Mitleid IV, 313.
+- Mittel IV, 313. *auflösendes* I, 407.
+- Mittelding IV, 314. *moralisches* III, 760. *es giebt keins* III, 761.
+- Mittelglied II, 581.
+- Mittelpunkt I, 70.
+- Mittheilbarkeit IV, 314.
+- Mitwirkung, göttliche VI, 57.
+- Modalität I, 317. II, 17. IV, 315. ff. *giebt gewisse Grundsätze* IV, 317. *diese Grundsätze heissen Postulate* IV, 318. f. *diese Grundsätze sind nicht objectiv-synthetisch* IV, 320. *sie sagen die Handlung des Erkenntnissvermögens aus, dadurch ein Begriff erzeugt wird* IV, 321. *ist eine Kategorie* IV, 322. *alle wahrnehmbare Dinge müssen sie haben* IV, 322.
+- Modification I, 50.
+- Möglich I, 864. f. IV, 325. ff. *logisch* IV, 337. *real* IV, 337.
+- Mögliches II, 110.
+- Möglichkeit II, 36. IV, 323. ff. *wird von problematischen Urtheilen abgeleitet* IV, 322. f. *Beispiel* IV, 327. f. *analytische* IV, 329. *formale* IV, 329. *logische* II, 36. IV, 329. 334. ff. *reale* IV, 329. 342. ff. *synthetische* IV, 329. *transscendentale* [VI, 523] IV, 329. 334. f. *transscendentales Schema derselben* IV, 329. ff. *Kennzeichen der realen* IV, 332. ff. *Nutzen und Einfluss des Postulats derselben* IV, 336. *die mancher Dinge kann nur aus der Wirklichkeit abgenommen werden* IV, 338. ff. *absolute oder unbedingte* IV, 342. *gesammte* I, 558. *metaphysische* II, 36.
+
+- Moment II, 288. 409. IV, 349. *des Denkens überhaupt* IV, 349. *logische aller Urtheile* IV, 349.
+- Monade III, 819. ff. VI, 47. f. *Perceptionen derselben* VI, 48.
+- Monadologie III, 823.
+- Monarch I, 440. IV, 350. *absoluter*, *unbeschränkter*, *uneingeschränkter* IV, 350. *beschränkter*, *eingeschränkter* IV, 350.
+- Monarchie I, 441.
+- Monas IV, 351.
+- Monogamie II, 192.
+- Monotonie VI, 106.
+- Moral I, 279. IV, 352. ff. 695. f. *in dem weitesten Sinne* IV, 352. *im engern Sinne* IV, 353. f. *eigentliche* IV, 355. *ist ein nothwendiges Desiderat* IV, 355. ff. *allgemeine angewandte* I, 281. *Princip derselben* I, 757. *specielle angewandte* I, 281.
+- Moralgesetz III, 655.
+- Moralisch I, 729. IV, 357.
+- Moralist, politischer IV, 650. ff.
+- Moralität I, 60. IV, 358. ff. V, 325. ff.
+- Moraltheologe V, 501.
+- Moralphilosophie IV, 352. ff.
+- Moralprincip I, 222.
+- Moraltheologie II, 446. *moralisches Argument für das Daseyn Gottes* IV, 362. ff.
+- Mord, todeswürdiger V, 403. f.
+- Muhamedism I, 120.
+- Mündig IV, 378.
+- Münze IV, 378.
+- Musik IV, 379. *ist eine angenehme und eine schöne Kunst* IV, 380. *ist ein Tonspiel* IV, 381.
+- Muster IV, 383.
+- Muth II, 703. IV, 383. ff. *wer ihn hat* IV, 383. *ist nicht Geduld* IV, 384. *kann auch ein Affect seyn* IV, 384. *ist nicht Dreistigkeit* IV, 385. *ob Selbstmord ihn voraussetze* IV, 386. *des Kriegers* IV, 386.
+- Muthlosigkeit IV, 386.
+- Mutterstaat I, 786.
+- Mysticismus III, 640. V, 243. f.
+
+[VI, 524]
+
+### N
+
+- Nachahmung IV, 389.
+- Nachahmungsgeist II, 863.
+- Nachahmen IV, 389.
+- Nachahmung VI, 76.
+- Nachbildungsvermögen II, 15.
+- Nachdrucker I, 737.
+- Nacheinander IV, 388. *ist unser Zählen* IV, 388.
+- Nachfolge IV, 390.
+- Nachforschungsgabe V, 154. ff.
+- Nachrede, üble IV, 390.
+- Nächstenliebe IV, 391. f. 570. ff. *Entwickelung* IV, 392.
+- Naivetät II, 756. 872. IV, 392.
+- Name, guter II, 430. f.
+- Namenerklärung V, 148.
+- Natürlich I, 792.
+- Natur I, 25. III, 74. 466. 580. IV, 393. ff. *steht unter allgemeinen Gesetzen* IV, 393. f. *formaliter genommen* IV, 394. 402. ff. *wie ist sie möglich?* IV, 394. *eines besondern Dinges* IV, 395. 399. f. *überhaupt* IV, 395. 401. *Beispiel* IV, 396. ff. *materialiter genommen* IV, 400. f. V, 315. f. *als Inbegriff gegebener Gegenstände jeder Art von Anschauung* IV, 401. *im übersinnlichen Verstande* IV, 401. *insbesondere* IV, 401. *ausgedehnte*, *cörperliche*, *materielle* IV, 402. *denkende* IV, 402. *in praktischer Bedeutung* IV, 402. ff. 405. *lebe der Natur gemäss* IV, 406. *sinnliche* IV, 406. ff. *der Kunst entgegengesetzt* IV, 409.
+- Naturalismus III, 639.
+- Naturalist IV, 410. f. *der reinen Vernunft* IV, 410. *in Glaubenssachen* IV, 410. *spricht ab* IV, 411.
+- Naturbedingung IV, 411. f. *sensibele*, *sinnliche* IV, 411.
+- Naturbegriff I, 501. IV, 412. ff. *wie er seine Realität beweiset* IV, 412. *in dem eigentlichen ontologischen Beweise für das Daseyn Gottes wird einer zum Grunde gelegt* IV, 413. *auch der physikotheologische Beweis legt einen zum Grunde* IV, 414. f. *Resultat aus diesen Beispielen* IV, 415. f. *transscendenter* IV, 416.
+- Naturbeschreibung IV, 418.
+- Naturerkenntniss IV, 416.
+- Naturgabe V, 456. ff.
+- Naturgeschichte IV, 417. *eigentliche* IV, 418. *Unterschied zwischen ihr und Naturbeschreibung* IV, 418. f.
+- Naturgesetze IV, 420.
+- Naturkräfte des Menschen IV, 421.
+- Naturkunde IV, 590.
+- [VI, 525] Naturlehre IV, 591. *metaphysische* II, 176.
+- Naturnothwendigkeit II, 70. *absolute* III, 95. ff. *blinde* II, 554.
+- Naturphilosophie, mechanische I, 374.
+- Naturrecht IV, 422. V, 31.
+- Naturschönheit II, 7.
+- Naturstand IV, 426. ff.
+- Naturtrieb V, 560. ff. *erster* V, 564.
+- Naturursache II, 69.
+- Naturwissenschaft IV, 423. *rationale* I, 391. IV, 423. ff. *historische* IV, 423. f. *reine* I, 390. f. IV, 424. f. *enthält synthetische Sätze* *a priori* *als Principien in sich* IV, 425. *metaphysische* IV, 426.
+- Naturwunder VI, 221. f.
+- Naturzustand IV, 426. ff. *ist ein Zustand des Privatrechts* IV, 426. f. *in ihm ist kein Friedenszustand* IV, 427. *der, in dem sich die Wilden befinden* IV, 428. *juridischer* IV, 428. ff. *ethischer* IV, 428. ff.
+- Naturzweck II, 8. IV, 489. f. V, 469. f. 478. f. VI, 336. f.
+- Negation V, 746. f.
+- Negativ V, 747. f.
+- Neid IV, 732.
+- Neigung IV, 431. *sinnenfreie* III, 498.
+- Nichts II, 107. ff.
+- Nichtsinnliche I, 131. *Welt* II, 61.
+- Nichtzuunterscheidendes III, 804. ff.
+- Nie II, 33.
+- Niederträchtig I, 438.
+- Nirgends II, 33.
+- Nominaldefinition I, 201. V, 148.
+- Nominalerklärung I, 201. V, 148.
+- Noogonie IV, 431. *eigentlich* IV, 431. *uneigentlich* IV, 432.
+- Normalidee, ästhetische IV, 432. ff. *des Schönen* IV, 436.
+- Nothwendig I, 171. 864. f. IV, 439. f. *absolut* IV, 443. ff. *moralisch oder praktisch* IV, 447.
+- Nothwendigkeit I, 318. IV, 437. ff. *besteht aus zwei andern Kategorien* IV, 440. *transscendentales Schema derselben* IV, 441. *logische* IV, 441. *physische* IV, 441. *Kennzeichen der realen* IV, 442. *absolute oder unbedingte* IV, 442. *materiale* II, 555. *allgemeines Princip derselben* V, 208.
+- Notion I, 494.
+- Noumen II, 108. IV, 447. ff. VI, 181. *in negativer Bedeutung* IV, 448. *in positiver Bedeutung* IV, 447. ff. *Welt als solches* IV, 451. f. *ist Nichtphänomen* IV, 452. f.
+- Nützlichkeit II, 157. f.
+
+[VI, 526]
+
+### O
+
+- Oberbegriff V, 209.
+- Oberherrschaft I, 356.
+- Obersatz II, 582. V, 208.
+- Oberstes III, 191.
+- Object I, 693. II, 377. 778. ff.
+- Objectiv IV, 449. b. ff. *in der theoretischen Philosophie* IV, 449. b. ff. *in der praktischen Philosophie* IV, 451. b. f. *objective Realität* IV, 452. b.
+- Occasionalismus II, 463. III, 584. *der Erzeugung* IV, 453. b. f. *eine andere Bedeutung* IV, 454.
+- Offenbarung, *göttliche*, *übernatürliche*, *unmittelbare* IV, 454. ff. *ist ein Wunder* IV, 455. *was sie niemals beweisen kann*, IV, 455. *was der Philosoph von ihr nicht zulassen kann* IV, 456.
+- Offenbarungsglaube I, 109. III, 635. ff.
+- Offenherzigkeit IV, 456.
+- Ohngefähr IV, 457. ff. *nichts geschieht durch ein blindes* IV, 458. *dieser Satz gehört zu den Kategorien der Relation* IV, 459. *ist vom blinden Zufall zu unterscheiden* IV, 459.
+- Oligarchie I, 356.
+- Opposition IV, 460. *zwei sehr verschiedene* IV, 461. *analytische* IV, 461. *logische* IV, 461. 471. f. *contradictorische oder des Widerspruchs* IV, 461. *contrare oder des Widerstreits* IV, 461. f. *subcontrare* IV, 461. 481. f. *dialektische* IV, 463. ff. *reale* IV, 472. ff. *mögliche reale* IV, 480. *potentiale reale* IV, 480. *wirkliche reale* IV, 481. *ächte*, *reine oder strenge* IV, 481.
+- Oppugnanz VI, 173. f.
+- Ordnung IV, 483. *mathematische* IV, 484. *dynamische* IV, 484. *Wolfs Lehre davon* IV, 485. f. *Leibnitz nahm sie zuerst in die Ontologie auf* IV, 486. *Baumgartens Cirkel im Erklären* IV, 486.
+- Organe der Sinne V, 294.
+- Organisation IV, 489. *der Natur* IV, 489. *andere Bedeutung* IV, 490. *zweierlei Art derselben* IV, 493.
+- Organisirtes Wesen IV, 487. *ist nicht bloss Maschine* IV, 488. *die Natur wirkt in ihnen nicht als ein Analogon der Kunst* IV, 488. *können allein nur als Zwecke möglich gedacht werden* IV, 489. *Resultat* IV, 490. ff.
+- Organsinn V, 294.
+- Orientiren, sich IV, 494. ff. *in der eigentlichen Bedeutung* IV, 495. *geographisch* IV, 496. *logisch* IV, 497. f. *Beispiel* IV, 499.
+- [VI, 527] Ort I, 308. 573. IV, 500. *logischer* IV, 501. *transscendentaler* IV, 501. *absoluter* I, 595.
+- Orthodox IV, 501. f.
+- Orthodoxie IV, 502. *biblische* III, 639. *brutale* I, 436.
+- Orthodoxismus III, 640.
+- Orthodoxist IV, 502.
+- Ostensiver Begriff IV, 503.
+
+### P
+
+- Pacificenten I, 251. VI, 28.
+- Pantheismus IV, 504. *Parmenides behauptete ihn zuerst* IV, 504. f.
+- Parabel I, 98.
+- Paradoxie II, 679. f.
+- Paralogismus IV, 505. *logischer* IV, 505. *transscendentaler* IV, 506. *Beispiel* IV, 506. ff.
+- Panspermie I, 711.
+- Pathologisch IV, 515. *unser Selbst ist so bestimmbar* IV, 515. *die Wirkung des moralischen Gesetzes auf unser Gefühl ist so* IV, 515.
+- Peinlichkeit IV, 516. *es giebt in allen Dingen welche* IV, 516.
+- Perception IV, 517. VI, 67. 98. ff. *wird vom Bewusstseyn begleitet* IV, 517. *ist mit klarer Vorstellung gleichbedeutend* IV, 518. *falsche Vorstellung der Schüler Wolfs* IV, 518. ff.
+- Permissivgesetz V, 72.
+- Persönlichkeit IV, 520.
+- Person II, 274. III, 602.
+- Personalität IV, 520. *moralische* IV, 520. ff. *psychologische* IV, 525. *transscendentale* IV, 525. f.
+- Personenrecht V, 32. ff.
+- Petition I, 214. IV, 664. ff.
+- Pfaffenthum I, 117.
+- Pfandnehmung VI, 34. 319.
+- Pflicht, I, 63. 81. 785. IV, 527. *aus Pflicht* IV, 527. ff. *Resultat* IV, 530. ff. *ist kein Erfahrungsbegriff* IV, 532. *ist eine Kategorie der praktischen Vernunft* IV, 533. ff. *Irrthum eines Recensenten* IV, 538. ff. *äussere*, *äusserliche* IV, 540. *bedingte* IV, 541. *der äussern Freiheit* IV, 541. *enge*, *engere*, *strenge*, *von enger Verbindlichkeit* IV, 542. *ethische* IV, 542. ff. *direct-ethische* IV, 545. *indirect-ethische* IV, 546. *gegen Andere* IV, 546. ff. *gegen sich selbst* IV, 549. ff. *Eintheilung derselben* IV, 553. ff. *gemeine* IV, 556. *heilige* III, 257. IV, 556. *ausführbare*, *immanente* IV, [VI, 528] 556. *innerliche*, *innere* IV, 556. *juridische*, *rechtliche* IV, 556. *verdienstliche*, *zufällige* IV, 557. *einschränkende*, *negative* IV, 558. *erweiternde*, *positive* IV, 558. *gegen Gott* IV, 558. f. *nothwendige*, *schuldige* IV, 559. *unausführbare*, *transscendente* IV, 560. *unbedingte* IV, 560. *unvollkommene*, *weite*, *von weiter Verbindlichkeit* III, 468. IV, 536. ff. 561. ff. *vollkommene* III, 467. IV, 536. ff. 562. *Widerstreit*, *Collision derselben* IV, 564.
+
+- Pflichtenlehre II, 302. *allgemeine* I, 281. *specielle* I, 281.
+- Pflichtgefühl IV, 564. ff. *das moralische Gefühl* IV, 564. ff. *als Empfänglichkeit* IV, 565. f. *moralischer Sinn* IV, 566. *Achtung für sich selbst* IV, 566. *es kann keine Pflicht geben, sie zu bewirken* IV, 566. *das Gesetz zwingt sie uns ab* IV, 567. *Pflicht der Selbstschätzung* IV, 567.
+- Pflichtgesetz IV, 567. f.
+- Pflichtmässigkeit III, 780. ff.
+- Phänomen II, 398.
+- Phänomenologie I, 510. 585. 632. ff. IV, 568. f. *metaphysische* IV, 569.
+- Phantasie II, 15. 215. ff.
+- Phantast V, 558.
+- Philanthropie IV, 391. f. 570. ff.
+- Philautie V, 277. ff.
+- Philosoph IV, 578. *praktischer* IV, 578.
+- Philosophie II, 295. ff. IV, 573. ff. *der griechische Name* IV, 574. *Schulbegriff derselben* IV, 575. *Weltbegriff derselben* IV, 575. f. *Eintheilung der alten griechischen* IV, 577. f. *der reinen Vernunft* IV, 263. *der Sitten* I, 270. II, 302. f. *empirische, der Natur* II, 301. f. *formale* II, 264. *praktische* IV, 352. ff. 579. f. *populäre praktische* IV, 580. *reine* IV, 580. f. *reine materiale* IV, 263. *Tractat zum ewigen Frieden in derselben* IV, 581. *sie ist die höchste Stufe des Menschen* IV, 581. ff. *von den physischen Ursachen derselben* IV, 582. *von der physischen Wirkung derselben* IV, 583. *von dem Schein der Unvereinbarkeit derselben mit dem beharrlichen Friedenszustand* IV, 584. *von der wirklichen Vereinbarkeit der kritischen Philosophie mit einem beharrlichen Friedenszustande derselben* IV, 584. *kritische* IV, 585. *hyperphysische Grundlage des Lebens des Menschen zum Behuf einer* IV, 586. *was ist sie, als Lehre, die, unter allen Wissenschaften, das grösste Bedürfniss des Menschen ausmacht?* IV, 585. *als Weisheitsforschung und Weisheitslehre* IV, 586. ff.
+- Philosophiren IV, 582.
+- [VI, 529] Philosophisch I, 587. II, 130. ff.
+- Phlegma I, 86.
+- Phoronomie I, 583. 590. f. II, 178. III, 932. IV, 589. f. *mathematische* IV, 590. *metaphysische* IV, 590. *philosophische* IV, 590.
+- Physik IV, 590. *Eintheilung* IV, 591. *eigentliche* IV, 591. *historische* IV, 591. *in weiterer Bedeutung* IV, 594. *empirische* II, 302. IV, 594. *Geschichte derselben* IV, 594.
+- Physikotheologie I, 124. III, 375. f. IV, 598. ff. *kann uns nichts von einem Endzwecke der Schöpfung eröffnen* IV, 600. *wie sie den Begriff einer verständigen Welturssache rechtfertigen kann* IV, 600. ff. *Beispiele* IV, 605. ff. *Anwendung* IV, 607. *kann den Begriff einer verständigen Welturssache nicht bestimmen* IV, 608. f. *erreicht also ihre Absicht nicht* IV, 610. *ist eine missverstandene physische Teleologie* IV, 611.
+- Physikotheologe V, 501. f.
+- Physiologie I, 277. II, 301. *allgemeine* I, 279. *besondere* I, 279. *einheimische oder immanente* II, 237. 300. *empirische* II, 301. *rationale* II, 300. *transscendente* II, 300.
+- Pinsel II, 863.
+- Plagiat II, 431.
+- Plastik I, 709. IV, 613. *ist die eine der beiden schönen bildenden Künste* IV, 613.
+- Plato IV, 613. *seine Schriften* IV, 614. *Kants Urtheil über ihn* IV, 614. ff. *das Fundament seiner Philosophie sind die Ideen* IV, 618. ff. *er fand sie vorzüglich in allem, was praktisch war* IV, 621. ff. *sein Werk von der Republik* IV, 623. *seine Ideen im Theoretischen* IV, 626. ff. *er gieng in seinen Behauptungen zu weit* IV, 63.
+- Platonismus IV, 629. *was er für Sätze enthält* IV, 630.
+- Pneumatologie IV, 632. *muss von dem Pneumatismus und Spiritualismus unterschieden werden* IV, 633.
+- Poesie IV, 633. *ist eine der beiden redenden Künste* IV, 633.
+- Polemischer Gebrauch der reinen Vernunft IV, 634. ff. *ist einerlei mit Polemisiren* IV, 637.
+- Polemisiren IV, 637.
+- Politesse III, 284.
+- Politik III, 658. IV, 638. *mit derselben muss der Rechtsbegriff verbunden werden* IV, 639. *des Aristoteles* IV, 639. *vom Verhältniss derselben zur Moral* IV, 640. ff. *über die Misshelligkeit zwischen ihr und der Moral* IV, 641. f. *über die Einhelligkeit derselben mit der Moral* IV, 643. *Beispiele* IV, 644. ff. *Afterpolitik* IV, 647. *Zweizüngigkeit derselben in Ansehung der Moral* IV, 648.
+- Politiker IV, 649. *moralischer* IV, 649. ff. *moralisirender* IV, 651. f. *politischer Moralist* IV, 650. ff.
+- [VI, 530] Poltron, II, 703.
+- Polyandrie, II, 192.
+- Polygamie, II, 192.
+- Popularität, IV, 656. f.
+- Popularphilosoph, I, 387.
+- Poren, VI, 365.
+- Position, II, 36. transscendentale IV, 858. ff.
+- Positiv böse, IV, 657. ff. es giebt keine moralisch-gleichgültige Handlung IV, 660. Schiller missbilligt diese Vorstellungsart IV, 660. ff.
+- Postulat, I, 214. 660. 704. f. III, 31. IV, 664. ff. der Erfahrungserkenntniss überhaupt II, 357. der Nothwendigkeit II, 358. rechtliches IV, 677. der Möglichkeit II, 358. der Wirklichkeit II, 358. der reinen Mathematik IV, 664. ff. der reinen speculativen Vernunft IV, 667. der reinen praktischen Vernunft IV, 668. ff. 674. ff. des empirischen Denkens II, 25. Unterschied zwischen demselben u. Petition IV, 674.
+- Potenzen, erregende III, 773.
+- Prädeterminismus, II, 86. IV, 678. ff. bei ihm läuft die Freiheit Gefahr IV, 679.
+- Prädicabilie, I, 36. IV, 681. ff.
+- Prädicament, III, 513. ff.
+- Prädicat, IV, 682. das Verhältniss eines Subjects zu demselben IV, 682. Unterschied zwischen demselben und Bestimmung IV, 683. f. nur einige sind Bestimmungen IV, 683. f. Richtigkeit analytischer Urtheile IV, 684. synthetische Urtheile IV, 685.
+- Präformation, generische II, 333. individuelle II, 185. System derselben II, 462. ff.
+- Prämissen, IV, 724.
+- Prästabilismus in der Erzeugungstheorie, IV, 686. f.
+- Pragmatisch, IV, 687.
+- Praktisch, IV, 357. IV, 688. ff. praktische Natur IV, 689. Philosophie IV, 690. moralisch IV, 690. f. technisch IV, 690. f. objectiv IV, 692. subjectiv IV, 692.
+- Praxis, IV, 692. f. bei derselben müssen Vernunftmaximen angewendet werden IV, 693. über den Satz: dass das nicht immer für die Praxis tauge, was in der Theorie richtig ist IV, 693. f. ungültig für dieselbe IV, 694. von dem Verhältniss der Theorie zu derselben in der Moral überhaupt IV, 694. ff. von dem Verhältniss der Theorie zu derselben im Staatsrecht IV, 697. ff. vom Verhältniss der Theorie zu derselben im Völkerrecht IV, 700. f.
+- Prediger, I, 773.
+- Preis, II, 838. IV, 701. f. Marktpreis IV, 702. das Geld bestimmt den aller andern Dinge IV, 702.
+- [VI, 531] Priester, IV, 702.
+- Princip, I, 205. ff. III, 175. ff. aller Pflichten III, 460. f. apodiktisch-praktisches II, 730. ff. formales I, 221. IV, 706. objectives I, 219. regulatives I, 683. subjectives I, 219. auswärtiges IV, 704. logisches IV, 706. höheres IV, 707. materiales IV, 707. metaphysisches IV, 708. objectives IV, 708. formales-praktisches IV, 711. im weitern Verstande V, 306. f.
+- Privatgebet, II, 719. III, 78.
+- Privathorizont, III, 289.
+- Privatrecht, IV, 190.
+- Problematisch, II, 653.
+- Producirung, III, 261.
+- Product, I, 708. II, 186. f. IV, 713.
+- Progressus, IV, 713. ff. im Mathematischen IV, 713. f. im Moralischen IV, 715. f.
+- Prolegomena, I, 862. f. IV, 716. ff. Kant hat solche zur Metaphysik geschrieben IV, 716. f. wozu sie geschrieben sind IV, 717. Unterschied zwischen ihnen und der Critik der reinen Vernunft IV, 717. f. wozu sie die Leser der Critik verhelfen soll IV, 718. f. in denselben ist der Plan nach analytischer Methode angelegt IV, 719.
+- Promissar, I, 231. VI, 28.
+- Promittent, I, 231. VI, 28.
+- Propädeutik zur Philosophie, I, 850.
+- Proportion, arithmetische I, 143. geometrische I, 143.
+- Prosyllogismus, I, 211. IV, 719. f. Beispiel IV, 720. ff. Betrachtungen darüber IV, 724. Unterschied zwischen demselben und dem Episyllogismus IV, 724. ff.
+- Provinz, I, 786.
+- Psychologie, IV, 726. ff. des innern Sinnes IV, 726. ff. empirische I, 278. IV, 726. rationale III, 337. ff. IV, 508. ff. 726. reine IV, 726. es giebt keine als Doctrin IV, 512. ff. entspringt aus blossem Missverstande IV, 512. ff. transscendentale IV, 727. Geschichte derselben IV, 728. ff.
+- Psychologisch, IV, 731.
+- Pulshammer, IV, 71.
+- Purismus in der Moral, II, 197.
+- Pyramide, II, 220.
+
+### Q
+
+- Qualificirt, IV, 732. Beispiele IV, 732.
+- Qualität, IV, 733. ff. ist eigentlich das Reale in der Erscheinung IV, 735. ist eine Kategorie IV, 736. ist nur eine Bestimmung wahrnehmbarer Dinge IV, 736. ist nur durch Empfindung vorstellbar IV, 737. kann bloss von sinnlichen Gegenständen [VI, 532] gebraucht werden IV, 738. jeder sinnliche Gegenstand hat eine IV, 739. ästhetische IV, 739. des Geschmacksurtheils IV, 739. f.
+- Quantität, III, 149. ff.
+- Quantum, III, 153. zweierlei Art III, 154. continuum III, 158. discretum III, 158.
+
+### R
+
+- Race, IV, 741. von der Verschiedenheit derselben überhaupt IV, 741. Eintheilung der Menschengattung in ihre verschiedenen IV, 743. vier der Menschengattung IV, 744. der Weissen IV, 744. der Neger IV, 744. der Hunnen IV, 745. der Hindus IV, 745. von diesen leitet Kant alle übrigen erblichen Völkercharakter her IV, 745. Resultat IV, 746. von den unmittelbaren Ursachen des Ursprungs derselben IV, 747. ff. von den Gelegenheitsursachen der Gründung derselben IV, 754. f. der Name IV, 755.
+- Rathschläge der Klugheit, IV, 757.
+- Rationalismus, IV, 757. der Critik des Geschmacks II, 169. Kant hat ihn zuerst in seiner ganzen Vollkommenheit aufgestellt IV, 758. Eintheilung desselben IV, 759. der praktischen Vernunft IV, 767. in Glaubenssachen IV, 768.
+- Rationalität, allgemeines Princip derselben, V, 208.
+- Raum, I, 572. II, 132. 470. ff. III, 862. ff. IV, 769. ff. ist eine Anschauung IV, 769. ist die einzige subjective und auf etwas Aeusseres bezogene Vorstellung, die a priori objectiv heissen kann IV, 770. Idealität desselben IV, 771. man sollte ihn nicht ein Compositum nennen IV, 772. ist die formale Bedingung der Möglichkeit aller Materie IV, 773. ff. Theilung desselben IV, 776. f. ist ins Unendliche theilbar IV, 778. ff. wie die Philosophen den Beweisen der Mathematiker dafür auszuweichen suchen IV, 785. auf einen Cörper scheinen jene Beweise nicht zu passen IV, 786. f. aber für die Theilung des Raums ins Unendliche sind sie unumstösslich IV, 788. f. sie gilt aber nur von einer stetigen Grösse IV, 790. absoluter I, 573. 795. IV, 824. beweglicher I, 572. concreter, empirischer, erfüllter I, 572. IV, 791. die Geometrie legt ihn allen ihren Erkenntnissen zum Grunde IV, 792. er liegt jeder empirischen äussern Anschauung zum Grunde IV, 792. Erläuterung u. Bestätigung IV, 793. ff. cörperlicher VI, 308. vollständiger IV, 800. ff. 815-831. 836. hat drei Abmessungen IV, 806. diese Theorie wird durch Paradoxa bestätigt IV, 807. f. Beispiele aus dem gemeinen Leben IV, 809. völlig ähnliche u. gleiche u. doch incongruente IV, 811.
+
+[VI, 533] Vorstellung der Leibnitzischen Philosophen von demselben IV, 812. Folgerung IV, 814. ff. ist nicht ein für sich bestehendes Ding IV, 819. ist mit allen Cörpern blosse sinnliche Vorstellung IV, 820. diess ist nicht dogmatischer oder empirischer Idealismus IV, 821. Geschichte der Philosopheme von demselben IV, 821. ff. Anaximander IV, 823. leerer I, 646. in phoronomischer Rücksicht I, 646. IV, 824. in dynamischer Rücksicht I, 646. IV, 825. in der Welt I, 646. IV, 825. 831. zerstreueter I, 646. f. gehäufter I, 646. f. ausser der Welt I, 646. IV, 825. 834. 850. in der Welt IV, 833. materieller I, 572. IV, 835. relativer I, 572. 795. f. IV, 835. Unendlichkeit des leeren IV, 846. ff. man kann nicht sagen, demselben nach ist die Welt unendlich IV, 849. reiner I, 573. in mechanischer Rücksicht I, 647. unendlich kleiner II, 101.
+- Reaction, II, 793.
+- Real, IV, 853. realer Grund IV, 854.
+- Realdefinition, V, 147. ff.
+- Reales, IV, 862. Mangel desselben IV, 863. der äussern Erscheinung IV, 864. f. Bedeutung dessen, was der Empfindung überhaupt correspondirt IV, 866.
+- Realisiren, IV, 854.
+- Realismus, IV, 855. empirischer I, 783. transscendentaler I, 780. der ästhetischen Zweckmässigkeit II, 903. ff. der subjectiven Zweckmässigkeit II, 170.
+- Realität, I, 137. 521. 561. II, 104. IV, 858. ff. V, 152. ff. Ableitung dieses Begriffs IV, 858. ff. transscendentales Schema derselben IV, 861. f. alle hat in der Wahrnehmung einen Grad IV, 862. in der Erscheinung II, 282. f. objective I, 472. IV, 867. f. als Qualität IV, 868. praktische IV, 868. f. subjectiv-praktische IV, 870. Widerstreit derselben III, 812. ff.
+- Realopposition, IV, 473. ff.
+- Realrepugnanz, IV, 473. ff.
+- Rebellion, IV, 870. ff.
+- Recht, I, 81. 509. V, 1. correspondirt einer Pflicht V, 2. Begriff eines solchen Rechts V, 3. oberstes Princip alles Rechts V, 6. f. enges, strictes, in enger Bedeutung V, 8. f. 39. Construction des Begriffs desselben V, 10. zwei Rechte in der Rechtslehre, für die kein gesetzlicher Zwang bestimmt werden kann V, 11. ff. äusseres V, 14. äusserliches V, 14. angebohrnes V, 14. bürgerliches V, 14. f. dinglich-persönliches II, 412. dingliches V, 16. f. persönliches I, 740. f. II, 412. V, 16. f. 32. f. auf Dinge als Dinge V, 18. auf Personen als Personen V, 18. auf Dinge als Personen V, 18. auf Personen als Dinge V, 18. die reale Möglichkeit der letztern bedarf einer Untersuchung V, 19.
+
+[VI, 534] Rechtfertigung des Begriffs von einem auf dingliche Art persönlichen Recht V, 19. f. Beispiele V, 20. ff. Erbrecht V, 26. f. Ersitzungsrecht V, 28. f. erworbenes V, 30. inneres V, 31. Naturrecht, Metaphysik des Rechts, metaphysisches Recht V, 31. natürliches V, 31. öffentliches V, 32. positives, statutarisches V, 35. Sachenrecht, dingliches Recht, Recht in einer Sache V, 36. Staatsrecht V, 37. streitiges, zu bezweifelndes V, 38. Strafrecht V, 39. unveräusserliches I, 739. 742. Völkerrecht, Völkerstaatsrecht, Staatenrecht V, 39. weites V, 40. weltbürgerliches, Weltbürgerrecht V, 40. zweideutiges V, 41.
+- Rechtfertigung, V, 41. ff. Schwierigkeit V, 42. Auflösung V, 43. f. Gebrauch dieser Deduction derselben V, 45. f.
+- Rechts, I, 495.
+- Rechtserfahren, V, 47.
+- Rechtsgelehrt, V, 47.
+- Rechtsklugheit, V, 47.
+- Rechtslehre, II, 445. V, 47. f. ist der eine Theil der allgemeinen Pflichtenlehre V, 48. wann sie die Lehre des positiven Rechts ist V, 48. allgemeine I, 281. metaphysische II, 300. specielle I, 281.
+- Rechtspflicht, IV, 556. V, 49.
+- Rechtsprincip, V, 49. oberstes V, 6. f.
+- Rechtspostulat, IV, 677.
+- Rechtstitel, II, 421.
+- Redekunst, I, 532.
+- Redlich, II, 203.
+- Redlichkeit, II, 201.
+- Redner, V, 50.
+- Rednerkunst, V, 51. f.
+- Reelles, I, 262. II, 106.
+- Reflectiren, V, 54.
+- Reflexion, IV, 80. V, 53. ff. logische V, 55. ff. 60. 63. transscendentale V, 55. 58. f.
+- Reflexionsbegriff, I, 505. IV, 91. V, 55. ff. 60. ff.
+- Reflexionsgeschmack, I, 129.
+- Reflexionsurtheil, ästhetisches II, 915. ff. V, 691. f.
+- Reflexionsvermögen, VI, 10. f.
+- Reform, V, 135.
+- Regel, V, 65. VI, 179. a posteriori, empirische V, 65. a priori, nothwendige, objective, Gesetz V, 66. ff. generale, generelle, gemeingültige V, 83. universale, universelle V, 84. der Geschicklichkeit III, 455.
+- Regent, V, 84. ff. Unterschied zwischen demselben u. dem Beherrscher V, 84. f. was beide nicht können V, 85. ist das Organ des Beherrschers V, 86.
+
+- [VI, 535] Regierungsform, I, 801.
+- Regressus, I, 216. V, 87. ff. empirischer V, 88. f. ins Unendliche V, 90. ff.
+- Regulativ, I, 101. 216. 222. V, 94. regulative Grundsätze V, 94.
+- Rejangs, II, 204.
+- Reiben, V, 95.
+- Reibung, V, 95. ff.
+- Reich, V, 97. des Rechts II, 957. Gottes I, 757. V, 103. ff. VI, 124. f. der Zwecke V, 98. ff. der Gnaden V, 102. VI, 124. f.
+- Reichthum, V, 106.
+- Reihe, V, 106. steigt oder fällt V, 106.
+- Rein, V, 107. f. reine Anschauung V, 108. f.
+- Reiz, III, 774.
+- Reizbarkeit, I, 241.
+- Reizfähigkeit, III, 774.
+- Relation, V, 110. f. giebt gewisse Grundsätze V, 112. ist eine Kategorie V, 113. kann nur wahrnehmbare Dinge real bestimmen V, 113.
+- Religion, I, 31. 419. II, 319. V, 114. ff. objectiv V, 114. subjectiv V, 115. allgemeine V, 116. in der Erscheinung V, 117. was dazu führet V, 117. wie sie sich von Superstition unterscheidet V, 119. kann nur auf dem praktischen Wege gegründet werden V, 119. zu ihr allein ist Theologie nöthig V, 120. von Religionssecten V, 120. ff. von der biblischen Auslegungskunst V, 125. ff. Kants, innerhalb der Grenzen der blossen Vernunft V, 127. ff. gottesdienstliche III, 615. ff. gelehrte V, 130. geoffenbarte V, 130. moralische V, 130. natürliche V, 130. allgemeine Vernunftreligion V, 130.
+- Religionsglaube, gottesdienstlicher III, 635. reiner I, 420.
+- Religionslehre, I, 756.
+- Religionspflicht, IV, 558. f.
+- Religionsschwärmerei, V, 245. ff.
+- Religionssecte, V, 120. ff.
+- Religionswahn, I, 111.
+- Reproduciren, I, 268.
+- Reproduction, I, 334. 717. ff.
+- Reproductionsvermögen, II, 15.
+- Republik, VI, 247.
+- Repugnanz, VI, 173. f.
+- Restringiren, V, 133. durch das Schema V, 133. wird die Kategorie V, 134.
+- Revolution, V, 135. ist von Reform unterschieden V, 135. wenn sie einmal gelungen ist V, 136. Recht des Prätendenten V, 137.
+- [VI, 536] Rhapsodie, I, 120. Beispiel I, 121. f. anderes Beispiel I, 122.
+- Richten, V, 137.
+- Richter, äusserer I, 722. innerer I, 722.
+- Richtung, I, 585. 597.
+- Richterist, V, 138.
+- Ritterorden, V, 386.
+- Rothgüldenerz, I, 796.
+- Ruhe, I, 519. 575. ff. V, 138. ff. absolute oder vollkommene V, 139. relative V, 139. 146. wirkliche in der Erfahrung V, 139. Kants neuer Lehrbegriff der Bewegung in Ruhe V, 139. f. neue Begriffe der Bewegung in Ruhe V, 140. ff. Schlüssel zur Erläuterung der Gesetze des Stosses nach demselben V, 145. f.
+
+### S
+
+- Sacherklärung, V, 147. ff. Namenerklärung V, 148. ist in aller Rücksicht hinreichend V, 149. Leibnitz verwechselt sie mit der Namenerklärung V, 149. ist nie verneinend V, 150. ist genetisch V, 150. f. Regel, die nicht für sie gilt V, 152.
+- Sache, V, 152. f. der Meinung IV, 205. ff. wirkliche III, 28. f.
+- Sachenrecht, II, 412. V, 36.
+- Sachheit, I, 521. 561. IV, 858. ff. V, 152. ff. das Wort Sache V, 152. f.
+- Satanslist, I, 567.
+- Sättigung, V, 154.
+- Sagacität, V, 154. ff. ist eine Naturgabe V, 154. was für ein Talent sie ist V, 155. f. die Logik der Schulen lehrt uns nichts darüber V, 156.
+- Sammlen, seine Gedanken V, 156.
+- Sammlungspunct, V, 556. ff.
+- Sanction, V, 157.
+- Sanfte Duldsamkeit der Beleidigungen, V, 157.
+- Sanftmuth, V, 157.
+- Satz, V, 157. ff. falsche Vorstellung der Logiker von demselben V, 157. f. angenommener III, 323. apodiktischer I, 317. der Identität V, 158. VI, 95. des Grundes V, 159. a priori V, 159. analytischer V, 160. demonstrabler V, 160. empirischer V, 160. exponibler, undeutlich zusammengesetzter V, 161. indemonstrabler V, 161. Lehnsatz V, 162. logischer V, 162. logische Nothwendigkeit desselben I, 317. Modalität desselben I, 317. mathematischer I, 835. des Nichtzuunterscheidenden II, 226. III, 804. ff. des zureichenden [VI, 537] Grundes III, 796. ff. VI, 95. praktischer V, 162. synthetischer V, 163. tautologischer V, 164. theoretischer V, 164. transscendentaler V, 164. vom Widerstreit der Realitäten III, 812. ff. des Widerspruchs VI, 95. des ausschliessenden dritten VI, 95.
+- Satzung, V, 167. in der Religion V, 167. jedes Gesetzbuch muss welche haben V, 168. die Religion kann darauf nicht gegründet werden V, 168.
+- Scandiren, V, 168.
+- Schadenfreude, IV, 733.
+- Schädlich, I, 131.
+- Schalkhaft, V, 169.
+- Schall, II, 457.
+- Scham, V, 169. als Affect V, 169. als Leidenschaft V, 169.
+- Schaman, I, 113.
+- Schandzeichen, VI, 230.
+- Scharfsinn, V, 170. Grundsatz desselben III, 40.
+- Scharfsinnigkeit, V, 170. Grundsatz derselben III, 40.
+- Schauspiel, V, 171. f.
+- Scheidung, I, 754. V, 172.
+- Schein, III, 388. V, 173. ff. worin aller besteht V, 173. man muss damit nicht Erscheinung verwechseln V, 173. f. von der Logik des Scheins II, 88. ff. V, 175. f. empirischer V, 176. logischer V, 177. transscendentaler I, 674.
+- Scheinbarkeit, V, 179. ff.
+- Scheinbegriff, I, 514.
+- Scheinbeweis, I, 655.
+- Scheintod, V, 180.
+- Schema, I, 154. 283. ff. 453. 707. 788. V, 180. ff. ist ein Product der Einbildungskraft V, 184. f. liegt unserm reinen sinnlichen Begriff zum Grunde V, 185. Schemate nach der Ordnung der Kategorien V, 187. f. enthält eine gewisse Zeitbestimmung a priori nach einer Regel V, 188. architectonisches V, 190.
+- Schematisiren, V, 191. ff.
+- Schematismus der Analogie, I, 283. des reinen Verstandes V, 189.
+- Schenkungsvertrag, II, 433. V, 193. f.
+- Scherz, V, 194.
+- Schewüki, I, 113.
+- Schicksal, V, 194.
+- Schisma, III, 638.
+- Schismatiker, V, 195.
+- Schlaf, V, 195. verursacht Kälte V, 196. ist vom Schlummer unterschieden V, 196. Ursachen desselben V, 197. äussere Ursachen desselben V, 198. innere Ursachen desselben V, 199.
+- [VI, 538] Schlaftrunken V, 199.
+- Schlag V, 201. besonderer V, 201.
+- Schlauigkeit V, 201. f.
+- Schlechterdings I, 37.
+- Schlechtweg III, 159.
+- Schliessen I, 808.
+- Schluss V, 203. mittelbarer V, 203. unmittelbarer V, 203. Verstandesschlüsse V, 203. ff. Modi der Verstandesschlüsse V, 204. Verstandesschlüsse in Beziehung auf die Quantität der Urtheile V, 204. Verstandesschlüsse in Beziehung auf die Qualität der Urtheile V, 205. Verstandesschlüsse durch gleichgeltende Urtheile V, 205. Verstandesschlüsse in Beziehung auf die Relation der Urtheile V, 205. Verstandesschlüsse in Beziehung auf die Modalität der Urtheile V, 207. Vernunftschlüsse V, 207. Eintheilung der Vernunftschlüsse der Relation nach V, 209. kategorische Vernunftschlüsse V, 209. f. reine und vermischte kategorische Vernunftschlüsse V, 211. hypothetische Vernunftschlüsse V, 212. disjunctive Vernunftschlüsse V, 212. f. förmliche und versteckte Vernunftschlüsse V, 214. der Urtheilskraft V, 214. ff.
+- Schlussart II, 590. apagogische VI, 94.
+- Schlussfolge V, 203.
+- Schlusskette IV, 722.
+- Schlusssatz II. 582. V, 208. 216.
+- Schmeichler V, 216.
+- Schmerz II, 762. 768. ff. V, 599. ff.
+- Schnellkraft II, 256.
+- Schön I, 236. II, 157. ff. 540. 890. III, 735. V, 218.
+- Schönes II, 157. 169. V, 218. 222. 224. ff. Burke V, 229. Unterschied zwischen ihm und dem Erhabenen V, 230. Hang zum Zerstöhren desselben V, 231. Vergleichung desselben mit dem Sittlichguten V, 231.
+- Schönheit II, 157. ff. V, 217. ff. 220. intellectuelle V, 227. f.
+- Schöpfung I, 178.
+- Scholastiker V, 233. Anfang derselben V, 233. zweites Zeitalter derselben V, 234. drittes Zeitalter derselben V, 235.
+- Schranken III, 161.
+- Schreck V, 236. der Zorn V, 237.
+- Schreckhafterhabenes V, 238.
+- Schreiend V, 239.
+- Schrift, heilige I, 417.
+- Schriftgelehrsamkeit I, 423.
+- Schriftgelehrter I, 772. III, 644.
+- Schriftsteller I, 736.
+- [VI, 539] Schriftzeichen VI, 229.
+- Schritt zur Moralität V, 239.
+- Schüchternheit II, 703. V. 240. ist eine habituelle Beschaffenheit V, 240. andere Erklärung V, 240.
+- Schulbegriff IV, 575.
+- Schuldigkeit V, 241.
+- Schule V, 241.
+- Schulwitz V, 242.
+- Schwachheit der menschlichen Natur, des menschlichen Herzens II, 749.
+- Schwärmerei I, 249. II, 322. V, 242. ff. in der allgemeinsten Bedeutung V, 243. moralische V, 244. f. religiöse II, 516. ff. V, 245. ff. der Einbildungskraft V, 248 in der Metaphysik V, 249. hat eine grosse Aehnlichkeit mit dem Genie V, 249. in hohem Grade V, 250.
+- Schwelgerei, öffentliche V, 250.
+- Schwere I, 313.
+- Schwerfällig V, 251. f. Beispiele V, 252. ff.
+- Schwerspath I, 797.
+- Schwindel V, 255.
+- Scrupel VI, 363.
+- Sectirerei III. 638.
+- Seele I, 241. 320. II, 230. f. 631. III, 341. ff. V, 236. ff. giebt es eine? V, 256. hört sie mit dem Tode auf oder dauert sie fort? V, 256. ist das, was in uns denkt V, 257. die Vernunft begnügt sich nicht an der Erkenntniss dessen, was die Seele wirklich ist V, 258. ff. Vernunftvorstellung von derselben V, 258. ff. Mendelssohns Beweis von der Beharrlichkeit derselben V, 262. die Frage über die Gemeinschaft derselben mit dem Cörper V, 262. die Moralität allein bestimmt sie als etwas, was auch ausser dem Felde der Erfahrung Wirklichkeit hat V, 263.
+- Seelengüte V, 264.
+- Seelenkraft I, 241. IV, 421.
+- Seelenlehre IV, 726. ff. rationale I, 279. III, 337. ff.
+- Seelenstärke V, 265. f.
+- Seelenunsterblichkeit II, 25. f. V, 641. f.
+- Seelenvermögen V, 266. obere V, 267.
+- Sehnsucht V, 267. VI, 177.
+- Seichtigkeit V, 268.
+- Selbstbewusstseyn I, 323. V, 269. ff. ist selbst der Grund der Möglichkeit der Kategorien V, 269. f. erkennt die Kategorien durch sich selbst V, 270. f. reines V, 271. transscendentales I, 323. ursprüngliches V, 271. thätiges V, 273. f. eine Erfahrung V, 274. der Apprehension V, 293.
+- Selbstbilligung I, 57.
+- [VI, 540] Selbsterkenntniss, moralische V, 274. wie man darnach trachtet V, 275. Wirkung derselben V, 276.
+- Selbstherrschaft I, 439.
+- Selbstherrscher I, 440. V, 353. f.
+- Selbstliebe I, 51. V, 277. f. was in ihr angetroffen wird, gehört zur Neigung V, 277. Maxime derselben III, 655. V, 278. f. die des Wohlwollens V, 279. die des Wohlgefallens V, 279. vernünftige V, 279. f. Vernunftliebe seiner selbst V, 281.
+- Selbstmord II, 204. V, 282. ff. partialer V, 283. Beispiel V, 283. geschieht nicht immer durch nichtswürdige Seelen V, 283.
+- Selbstschätzung II, 51. IV, 566. f. moralische II, 51.
+- Selbstsucht II, 212. in ihr können dreierlei Anmassungen enthalten seyn V, 284. f. logische V, 284. ästhetische V, 284. praktische V, 284.
+- Selbstsüchtiger V, 284. ff. logischer II, 679. ästhetischer V, 285. praktischer V, 285. metaphysischer V, 285. moralischer V, 285. seine Sprache V, 285.
+- Selbstthätigkeit, absolute II, 624. ff.
+- Selbstzufriedenheit III, 69. f. VI, 298. f.
+- Selbstverschuldet I, 401.
+- Seligkeit I, 760.
+- Senat I, 356.
+- Sensation V, 286.
+- Sensibilität I, 241.
+- Sensificiren V, 287. ff. andere Bedeutung V, 288. das Gegentheil davon V, 289.
+- Sensitiv V, 290.
+- Sensualphilosoph II, 328.
+- Sentenz V, 291. andere Bedeutung V, 291.
+- Separatismus III, 638. V, 292.
+- Separatist V, 292.
+- Signaliren V, 292.
+- Simultaneität VI, 299.
+- Sinn, als Bedeutung I, 472. als Fähigkeit der Empfindung V, 293. äusserer V, 293. der Organempfindung V, 294. der Betastung V, 294. des Gesichts oder Sehens II, 961. f. V, 294. des Gehörs II, 826. V, 294. des Geschmacks II, 836. V, 295. des Geruchs oder Riechens II, 873. V, 295. der Vitalempfindung V, 295. innerer I, 328. 698. f. V, 295. f. inwendiger V, 297. Geschmack V, 297. moralischer IV, 566.
+- Sinnenempfindung II, 893. V, 298.
+- Sinnengefühl V, 298. welches Wohlgefallen es nicht ist V, 299. die Lust am Erhabenen ist es auch nicht V, 299. die Lust am Schönen ist es auch nicht V, 299.
+- Sinnengeschmack I, 129.
+- [VI, 541] Sinnenleben V, 299.
+- Sinnenlehre I, 77. reine I, 856.
+- Sinnenlust V, 300.
+- Sinnenschein V, 301. ff. ist vom Betrug durch die Sinne zu unterscheiden V, 301. f.
+- Sinnenverblendniss V, 301. f.
+- Sinnenwelt V, 103.
+- Sinnesart V, 303. ff. ist das Unterscheidungszeichen des Menschen als eines sinnlichen Wesens V, 303. f. sanguinische V, 305. zur Melancholie gestimmte V, 305. cholerische V, 305. affectlose V, 305. was bloss sie bezeichnet V, 306. ff.
+- Sinnleer V, 310.
+- Sinnlich II, 5. machen V, 287. ff.
+- Sinnlichkeit I, 81. 131. 262. f. 267. II, 12. f. 53. 384. 514. IV, 17. V, 311. ff. theoretische V, 311. ff. zu ihr gehört die Einbildungskraft V, 314. f. Natur in materieller Bedeutung V, 315. f. Leibnitzens Theorie derselben V, 316. f. Kants Theorie derselben I, 77. praktische V, 317. ff. das Passive in derselben V, 318. Rechtfertigung derselben V, 318. ff.
+- Sinnreich V, 320.
+- Sitten V, 321. Philosophie derselben I, 279.
+- Sittengesetz V, 72. ff. 77. f.
+- Sittenlehre II, 445. IV, 352. V, 322. ff.
+- Sittlich IV, 357. V, 324. f. Böses I, 128.
+- Sittlichkeit II, 233. IV, 358. ff. V, 325. ff. die alle verlachen V, 323. wenn man zugeben muss, wenn man den Begriff derselben annimmt V, 323. Gebot derselben II, 730. Lehren derselben II, 734. reine, V, 325.
+- Sittsamkeit V, 327. f. ist ein Selbstzwang V, 328. macht auch bejahrte Personen liebenswürdig V, 328.
+- Sitz V, 328. f. auf dem Erdboden V, 329. Gesammtbesitz V, 329.
+- Skandal II, 198.
+- Skepticismus I, 393. V, 330. ff. objectiver V, 331. f. subjectiver V, 331. f. absoluter V, 333. allgemeiner V, 333. Geschichte desselben V, 334. ff. Xenophanes legte den Grund dazu V, 334. f. Pyrrho, der erste Skeptiker, welcher Aufsehen machte V, 335. f. Timon, der grösste Verehrer des Pyrrho V, 337. Aenesidemus gab ihm neues Ansehen V, 337. f. Arcesilas stiftete einen neuen V, 338. f. Karneades brachte ihn wieder in Ansehen V, 339. Sextus brachte ihn in ein System V, 339. f. de la Mothe le Vayer brachte ihn in neuern Zeiten in Ansehen V, 342. f. des Hume V, 343. Kant schränkt ihn ein V, 343. der Verfasser des Aenesidemus meint, Kant habe Hume nicht widerlegt V, 344. ff.
+- [VI, 542] Sklave III, 252. 788. ff.
+- Sohnschaft I, 706.
+- Solide II, 578.
+- Solidität V, 612. ff.
+- Sollen V, 347. ist unbegreiflich V, 348. moralisches V, 348.
+- Sollicitation V, 348. der Materie V, 349.
+- Solution I, 403.
+- Sonderling V, 306. 351.
+- Sophist II, 88.
+- Sorites V, 351. hypothetischer V, 353. kategorischer V, 352. progressiver V, 352. regressiver V, 352.
+- Souverän V, 353. ist mit Monarch nicht einerlei V, 354.
+- Spannkraft II, 256.
+- Spatdrüse I, 797.
+- Specificationsgesetz I, 91. V, 354. ff. logisches V, 354. transscendentales V, 355. ist eins der drei Vernunftgesetze für den Verstand V, 356. ff. zwei logische Grundsätze V, 358. ff.
+- Specificiren V, 360.
+- Specifisch I, 150.
+- Spiel V, 361. freies V, 361. Glücksspiel V, 362. Tonspiel V, 362. Gedankenspiel V, 362.
+- Spinozismus II, 559. ff. V, 363. f. der Urheber dieses Lehrbegriffs V, 363.
+- Spiritualismus V, 364. ff. kosmologischer V, 364. psychologischer V, 364. ist der Vernunft günstiger als der Materialismus V, 365. Geschichte desselben V, 365. ff. Anaxagoras behauptete zuerst den kosmologischen V, 365. Platos Beweise für den psychologischen V, 366. ff. Justin stellt unter den Christen neue Gründe dafür auf V, 368. Plotin erfand die vornehmste Stütze desselben V, 368. ff. Augustin bedient sich ganz neuer Beweise V, 371. Claudian Mammertus Beweise V, 372. H. More Beweis V, 373. Descartes Lehre V, 373. Bayle's eigener Beweis V, 373. Leibnitzens Monaden V, 373. f. Wolfs Beweis V, 374.
+- Spiritualität III, 421.
+- Spitzfindigkeit, leere V, 374.
+- Spontaneität I, 332.
+- Spottsucht, bittere V, 455.
+- Sprichwort V, 741. VI, 78.
+- Springkraft II, 256.
+- Spröde V, 375.
+- Sprüche VI, 77. f.
+- Sprung I, 43.
+- Staat I, 417. V, 367. f. ethischer I, 548. rechtlicher II, 957.
+- Staatenrecht V, 39.
+- Staatsbürger I, 417.
+- Staatsbürgergehorsam I, 418.
+- [VI, 543] Staatsbürgerrecht V, 377.
+- Staatsklugheit IV, 638.
+- Staatsrecht V, 37. inneres IV, 644.
+- Staatsumwälzung V, 135. ff.
+- Staatsverfassung I, 801.
+- Staatswürden V, 378.
+- Stammbegriff I, 506. III, 513. ff.
+- Standeszeichen VI, 230.
+- Starre werden I, 237.
+- Statuiren V, 379.
+- Statut V, 167.
+- Stetig I, 837. stetige Grössen II, 611. f.
+- Stetigkeit I, 837. II, 42. IV, 130.
+- Stiftung V, 380. ewige V, 380. fromme V, 380. milde V, 380. für das Volk überhaupt V, 380. für einen nach gewissen Grundsätzen vereinigten Theil des Volks V, 380. für einen Stand V, 380. für eine Familie V, 380. Lehre davon V, 380. wann sie unablöslich ist V, 381. f. auf ewige Zeiten V, 383. für Arme V, 381. ff. für den Adel V, 384. ff.
+- Stoff der Sinnlichkeit V, 387. Ebersteins Schwierigkeit V, 389. f.
+- Stoiker III, 193. f.
+- Stolz V, 391.
+- Stoss I, 305. II, 155. IV, 130. Schlüssel zur Erläuterung der Gesetze desselben V, 145. f.
+- Strafe V, 392. ff. natürliche V, 392. richterliche V, 392. f. Unterschied zwischen ihr u. Züchtigung V, 394. nach welchem Princip soll die öffentliche Gerechtigkeit sie bestimmen V, 395. ff. Beispiele V, 396. ff. Beccaria V, 399. ff. Widerlegung desselben V, 402. ff. die keine Erwiederung zulässt V, 405.
+- Strafkrieg III, 712.
+- Strafrecht V, 39.
+- Studiren V, 407.
+- Studirter V, 406. das Amt eines solchen V, 407.
+- Subsistenz V, 408.
+- Substanz I, 46. 72. 137. II, 59. III, 771. V, 409. ff. ist eine Kategorie V, 410. müssen wahrnehmbar seyn V, 410. lässt sich bloss auf Erfahrungsstoff anwenden V, 411. Beispiel V, 412. f. Schwierigkeit der Lehre von derselben V, 414. materielle V, 414. in der Erscheinung V, 414. übersinnliche V, 415. in Beziehung auf praktische Grundsätze a priori V, 416. schickt sich nicht zu einer transsc. Idee V, 417. Entstehen u. Vergehen derselben I, 224. Frage nach dem Anfang derselben I, 226. logische III, 349. ff. reale III, 351. ff. zusammengesetzte III, 353. ff.
+- [VI, 544] Substrat V, 419. aussersinnliches der Erscheinungen I, 131. übersinnliches der Erscheinungen I, 131.
+- Subsumiren I, 320.
+- Subtilität V, 420.
+- Subtraction I, 142.
+- Succession II, 615. ff. V, 420. ff. wann wir sie dem Object beilegen V, 421. wann wir sie dem Subject beilegen V, 421. die Nothwendigkeit in derselben V, 421.
+- Successiv II, 615. IV, 388. f.
+- Supernaturalist V, 422.
+- Superstition I, 20. religiöse I, 107. III, 418.
+- Syllogismus V, 203. ff.
+- Symbol I, 154. II, 10. V, 423. ist von Charakteren zu unterscheiden V, 424.
+- Symbolisch V, 425.
+- Sympathie IV, 311. V, 426.
+- Syncretismus III, 638.
+- Synopsis I, 267.
+- Synthesis I, 777. III, 518. f. V, 427. ff. 733. ff. der Aggregation I, 777. der Apperception I, 268. der Apprehension I, 322. der Coalition I, 777. der Recognition I, 268. der Reproduction I, 325. figurliche II, 221. intellectuelle V, 427. mathematische V, 428. progressive V, 428. qualitative V, 429. quantitative V, 429. f. regressive V, 431. reine V, 431. sinnliche V, 432. transscendentale V, 432. wodurch alle a priori Wahrheit hat V, 439. f.
+- Synthetisch I, 270. 517. synthetisches Urtheil V, 432. f. Beispiele solcher Urtheile V, 433. f. Wolf und Baumgarten kannten diese Urtheile nicht V, 435. f. Möglichkeit dieser Urtheile V, 436. was dazu nöthig ist V, 437. f. was auf ihnen beruhet V, 439. wann synthetische Urtheile a priori möglich sind V, 441. f.
+- System V, 442. was dazu nicht statt findet V, 442. wie es entspringt V, 443. f. wie sie scheinen gebildet worden zu seyn V, 444.
+
+### T
+
+- Tadelsucht V, 455. bittere Spottsucht V, 455.
+- Täuschung der Sinne I, 562. V, 301. ff.
+- Tafel, logische der Formen oder logischen Momente aller Urtheile II, 354. reine physiologische der allgemeinen Grundsätze der Naturwissenschaft oder aller Erfahrungsurtheile II, 355. ff. transscendentale, der Stammbegriffe des reinen Verstandes [VI, 545] oder der Kategorien II, 354. der Kategorien der Freiheit III, 599. aller Laster III, 756.
+- Tage VI, 271.
+- Talent V, 456. ff. ist der eine Theil der Vollkommenheit des Menschen V, 456. Erklärung desselben als Ursache V, 457. unrichtige Vorstellung des Helvetius V, 457.
+- Tanz V, 458.
+- Taufe III, 78. V, 459. ff. es ist bei ihr nicht von einem Dienst der Herzen die Rede V, 459. ist ein Symbol V, 459. der Name V, 460. Einsetzung V, 460. was sie versinnlichen soll V, 461. der neugebohrnen Kinder V, 461. der Zweck derselben könnte auch durch ein anderes Symbol erreicht werden V, 462. Geschichte derselben V, 462. f. ist bloss eine kirchliche Handlung V, 464.
+- Tausch VI, 33.
+- Technik V, 464. der Natur V, 465. absichtliche V, 465. unabsichtliche V, 465.
+- Teleologie IV, 602. V, 465. ff. physische V, 473. ff. 480. ff. gehört sie zur Naturwissenschaft oder zur Theologie V, 479. moralische V, 480. ff. a priori V, 486. natürliche V, 487. der menschlichen Vernunft V, 487.
+- Teleologisch II, 954.
+- Temperament der Seele V, 303. ff.
+- Terrorismus, moralischer IV, 229.
+- That V, 487. f. wann eine Handlung so heisst V, 488. intelligibele III, 225. V, 488. a priori V, 488. empirische III, 225. V, 489. edle II, 154. a posteriori V, 489. sensibele III, 225. V, 489. moralische I, 658. physische I, 658. II, 5. böse I, 733.
+- Thatsache III, 27. f. 764. V, 489. 844. Entwickelung V, 489. Beispiel V, 490. alles Fürwahrhalten muss sich darauf gründen V, 491.
+- Theilbar II, 212.
+- Theilbarkeit II, 212. IV, 129. V, 491. setzt ein Zusammengesetztes voraus V, 492. wie dieser Begriff entsteht V, 492. ff. Gehlers richtige Vorstellung V, 496. ff.
+- Theilchen, kleinstes I, 372.
+- Theilung V, 499. mathematische V, 500. physische V, 500.
+- Theismus V, 500. ff.
+- Theist V, 501. f. ist der Bekenner einer höchsten Intelligenz V, 501. ff. physikotheologischer V, 506. ff.
+- Theodicee III, 853. ff. V, 514. f. was alle seyn soll V, 514. authentische V, 514. ff. Beispiel V, 515. ff. hat es mit einer Glaubenssache zu thun V, 518. de Lücs Resultat seiner Reise V, 519.
+- Theologie III, 848. IV, 602. V, 519. ff. aus blosser Vernunft V, 520. aus der Offenbarung oder geoffenbarte V, 520. transscendentale I, 848. V, 520. ff. natürliche III, [VI, 546] 414. V, 521. f. physische IV, 598. physischteleologische IV, 598.
+
+- Theorem III, 785.
+- Theoretisch I, 31. V, 529. f. theoretischer Gebrauch der Vernunft V, 529.
+- Theosophie II, 6.
+- Thetik V, 530.
+- Theurgie V, 530.
+- Thier, mit Vernunftfähigkeit begabtes VI, 242. vernünftiges VI, 242.
+- Thierkraft I, 241.
+- Tisch des Herrn I, 787.
+- Tochterstaat I, 786.
+- Tód V, 530. physischer V, 531. f. sittlicher V, 531. willkührlicher V, 531. einer gesunden Philosophie V, 532.
+- Tödtung V, 403.
+- Ton II, 540. ff. V, 533.
+- Tonkunst IV, 329. ff.
+- Tonspiel V, 362.
+- Tonzeichen VI, 230.
+- Topik II, 89. V, 533.
+- Totalität V, 534. ff. Ableitung dieses Begriffs V, 535. f. logische V, 536. ff. reale V, 538. f.
+- Tractiren I, 231.
+- Träges V, 545.
+- Trägheit I, 628. V, 540. ff. die Vorstellung davon ist der Satz des zureichenden Grundes V, 542. Gesetz derselben V, 544. ist nicht einerlei mit der Schwere V, 545. lebender Wesen V, 547.
+- Trägheitskraft II, 801. ff. V, 542. f. was Descartes davon lehrte V, 543. was Newton davon lehrte V, 544.
+- Träumen V, 199. f.
+- Transfusion II, 801. f.
+- Transscendent I, 222. II, 230. 234. V, 603.
+- Transscendental V, 547. ff. transscendentale Methodenlehre V, 549.
+- Transscendentalphilosophie I, 20. 78. II, 105. V, 550. f.
+- Traum V, 551. die Gestalten, welche man darin sieht V, 552. ist der Wahrheit der Erfahrung entgegengesetzt V, 552. f. Aristoteles darüber V, 553. im Schlaf V, 555. bei welchem Lehrbegriff Erfahrung von ihm nicht zu unterscheiden ist V, 559. f.
+- Träumer, der Vernunft V, 554. der Empfindung V, 554. wachender V, 555. willkührlicher V, 555. Descartes Annahme V, 556.
+- Triangel I, 70. 814.
+- Trieb V, 560. ff. willkührlicher V, 561. f. die Vorstellungen, [VI, 547] die mit ihnen verknüpft sind V, 562. natürlicher V, 562. abartender V, 563. allgemeiner V, 563. f. besonderer V, 563. f.
+
+- Triebfeder, I, 649. II, 309. III, 495. f. V, 565. ff. Beispiel V, 566. ff. praktische I, 255. V, 566. ff. sinnliche I, 254. V, 570. ff. moralische V, 573. des Willens V, 574. ächte der reinen praktischen Vernunft V, 575. ff. mächtigste zum Guten V, 578. ff. geheime V, 579.
+- Trugschluss IV, 505.
+- Tugend I, 396. 415. 761. II, 47. III, 20. 85. 145. 191. 750. IV, 542. V, 582. ff. andere Bedeutung V, 583. als Phänomenon V, 583. als Noumenon V, 583. f. Wolfs und Cochius unrichtige Vorstellungen von ihr V, 584. f. Entwickelung V, 585. Lehren der Anthropologie und Anthroponomie von ihr V, 585. sie besitzt den Menschen V, 586. subjective V, 582. ff. objective V, 586. f. wahre V, 587. ächte V, 589. adoptirte V, 589. empirischer Charakter derselben III, 85. intelligibeler Charakter derselben III, 85.
+- Tugendgesetz IV, 567. f. V, 72.
+- Tugendlehre, eigentliche I, 279.
+- Tugendmaxime V, 589.
+- Tugendpflicht IV, 542.
+- Tugendstolz V, 589. f.
+- Tugendverpflichtung V, 590.
+- Tungusen I, 112.
+- Typus V, 591. ff. des Sittengesetzes V, 591. ff. ist das Naturgesetz V, 591. ff. die Natur der Sinnenwelt ist der Typus einer intelligibeln Natur V, 595. f. man ist genöthigt, die reine Verstandesform der Natur zum Typus der Urtheilskraft zu gebrauchen V, 597.
+
+### U
+
+- Uebel I, 732. f. V, 599. ff. wird auf den Empfindungszustand einer Person bezogen V, 599. alte Formel der Schulen darüber V, 599. f. Entwickelung V, 601. andere Benennung V, 600.
+- Uebergabe I, 252.
+- Ueberlegung V, 53. ff.
+- Ueberlegungsvermögen VI, 10. f.
+- Ueberredung I, 520. 655. II, 678. 680. V, 602. f.
+- Ueberschwenglich II, 239. V, 603.
+- Uebersinnlich II, 5.
+- Uebersinnliches IV, 447. ff. V, 604. f. überhaupt V, 604. als Grund des Geschmacks V, 604. als Grund des freien Willens V, 605.
+- [VI, 548] Uebersprung I, 43.
+- Uebertragung II, 428. VI, 34.
+- Uebertretung V, 605. unvorsetzliche V, 606. angebohrne V, 606. f.
+- Ueberzeugung I, 520. 654. V, 609. subjective V, 609.
+- Ueppigkeit IV, 46. V, 610. f.
+- Umgänglichkeit III, 290.
+- Umgekehrtes V, 206.
+- Umkehrendes V, 206.
+- Umkehrung, reine V, 206. veränderte V, 206.
+- Umschweife, im I, 264.
+- Unangenehm I, 731. II, 540.
+- Unbedingtes V, 611.
+- Unbescheiden II, 212.
+- Unbescheidenheit VI, 205.
+- Uncörperlichkeit III, 421.
+- Undankbarkeit IV, 732.
+- Unding II, 106. III, 751. V, 639.
+- Undurchdringlichkeit V, 612. ff. ist nicht einerlei mit vollkommener Dichte V, 612. f. ist auch noch von Impenetrabilität zu unterscheiden V, 614. absolute II, 98. V, 615. f. relative V, 616.
+- Unendliches V, 616. ff. mathematisches V, 616. f. transscendentales V, 618. Beispiel V, 618. ff. Rechnung desselben IV, 136. Unterschied zwischen ihm und dem Unbestimmten V, 620.
+- Unendlichkeit V, 619. der Zeit V, 619. f.
+- Unendlichkleines V, 620. ff. was es heisst, es sei = o V, 626. ff.
+- Unerschrockenheit II, 703.
+- Ungeheuer V, 693.
+- Ungelehrter I, 772.
+- Ungezwungenheit II, 871.
+- Ungläubig V, 631.
+- Ungläubisch seyn V, 630.
+- Unglaube V, 628. ff. moralischer V, 630. historischer V, 630. Vernunftunglaube V, 630. naturalistischer V, 631.
+- Universum V, 632.
+- Unlauterkeit V, 632. ff. sittliche des menschlichen Herzens V, 632. ff. Entwickelung V, 633. eine gewisse V, 633.
+- Unlust I, 806. II, 758. ff. IV, 40. ff. VI, 357.
+- Unmöglich V, 635. nicht V, 640.
+- Unmögliches, logisches V, 636. zweierlei Arten desselben V, 637. f. analytisches V, 636. ff. reales, synthetisches oder transscendentales V, 638. f.
+- [VI, 549] Unmöglichkeit V, 634. f. ist ein einfacher Begriff V, 635. logische V, 637. transscendentale V, 638. ff.
+- Unmündigkeit I, 401. natürliche IV, 308.
+- Unsinnigkeit VI, 2 ff.
+- Unsterblichkeit II, 25. f. der Seele II, 25. f. V, 641. f. andere Betrachtung derselben V, 642. ist eine Idee des Uebersinnlichen V, 642. Resultat V, 643.
+- Unterjochungskrieg III, 713.
+- Unterlassungspflicht IV, 558.
+- Untersatz II, 582. V, 208.
+- Unterthan III, 183.
+- Unverweslichkeit V, 643.
+- Unzertrennlich I, 792.
+- Urbild III, 368. ff. 373.
+- Ursache I, 15. 170. II, 39. 63. V, 644. ff. Entwickelung V, 645. Schema derselben V, 645. lässt sich bloss auf den empirischen Erfahrungsstoff anwenden V, 646. f. lässt sich nicht real definiren V, 647. ff. alles, was geschieht, muss eine haben V, 649. ff. nach dem Freiheitsbegriffe V, 653. ff. gelegentliche I, 530. ideale II, 306. ff. intelligibele V, 655. unbedingte V, 655. übersinnliche V, 656. wirkende I, 530.
+- Ursachserklärung V, 150. f.
+- Urschrift I, 437.
+- Ursprung, erster V, 657. f. des moralischen Bösen V, 659. f. Schriftlehre davon V, 661.
+- Urtheil I, 145. II, 54. III, 482. 572. ff. V, 662. ff. Quantität desselben III, 525. V, 535. ff. 667. ff. allgemeines V, 535. 539. 667. f. besonderes V, 669. f. particulares V, 669. pluratives V, 669. Qualität desselben V, 669. f. identisches V, 669. bejahendes V, 669. negatives V, 670. Form desselben V, 670. unendliches V, 670. ff. Relation desselben V, 673. f. kategorisches V, 673. f. hypothetisches III, 329. V, 673. 675. ff. disjunctives I, 509. 511. V, 673. f. 678. ff. Modalität desselben V, 683. problematisches II, 18. V, 683. assertorisches II, 17. V, 683. ästhetisches oder des Geschmacks II, 173. 915. ff. V, 683. ff. 691. ff. empirisches, Erfahrungsurtheil II, 348. f. einzelnes Erfahrungsurtheil V, 689. f. theoretisches V, 691. 694. f. praktisches V, 691. 693. Reflexionsurtheil oder Geschmacksurtheil V, 691. f. logisches I, 191. V, 693. Bedingungen desselben II, 164. ff. allgemein gültiges I, 126. f. analytisches I, 19. 189. erläuterndes I, 189. erweiterndes II, 405. V, 432. ff. mit Worten ausgedrücktes V, 157. Functionen desselben II, 688. ff. alternatives I, 510. objectiv allgemeingültiges I, 127. subjectiv dogmatisches II, 140. synthetisches I, 19. 270. 385. II, 173. unmittelbar gewisses [VI, 550] a priori V, 694. ff. verknüpfendes V, 432. ff. vermittelndes V, 204. vorläufiges IV, 202. VI, 53. zergliederndes I, 189.
+
+- Urtheilen II, 55.
+- Urtheilskraft I, 320. V, 696. ff. VI, 12. wer sie berichtigen kann V, 699. transscendentale Doctrin derselben I, 857. V, 700. Critik derselben I, 858. V, 701. ff. dient statt der Theorie V, 706. ist ein Theil der Critik der Erkenntnissvermögen V, 707. teleologische I, 859. das Subsumiren derselben V, 707. Princip der Reflexion V, 708. ff. lässt den Fall der Anwendung ganz unbestimmt V, 712. f. giebt den vermittelnden Begriff zwischen den Naturbegriffen und dem Freiheitsbegriff V, 713. bestimmende oder subsumirende, schlechtweg V, 714. f. empirische V, 715. f. natürliche V, 716. praktische V, 716. f. reflectirende Beurtheilungskraft V, 717. ff. reine V, 723. technische V, 724. teleologische V, 724. theoretische V, 724.
+
+### V
+
+- Varietät, Princip derselben V, 354. ff.
+- Vaterschaft I, 106.
+- Verachtung, intellectuelle II, 51.
+- Veränderlich V, 729. logisch V, 729. realiter V, 729.
+- Veränderung I, 15. f. 178. f. 515. II, 323. V, 725. ff. Entwickelung V, 726. f. reale V, 730. gilt nicht von übersinnlichen Dingen V, 731.
+- Verausserungsvertrag V, 33.
+- Verbindung V, 733. ff. mathematische IV, 166. dynamische V, 743. ff.
+- Verborgenheit II, 814.
+- Verbot II, 731. III, 449.
+- Verbrechen V, 606.
+- Verbreitung, geflissentliche IV, 891.
+- Verbürgung, persönliche VI, 34. 319.
+- Verderbtheit III, 449.
+- Verdingung VI, 33.
+- Verdingungsvertrag VI, 33.
+- Vereidigung II, 733.
+- Verfahren mit einem Begriffe V, 734. dogmatisch V, 734. f. kritisch V, 736.
+- Verfasser I, 736.
+- Verfassung I, 801.
+- Vergehen V, 737.
+- Vergleichungsbegriff I, 505.
+- Vergnügen I, 236. II, 459. ff. 761. ff. III, 760. V, 737. ff. Entwickelung [VI, 551] V, 738. Unterschied zwischen dem, was vergnügt u. was gefällt V, 738. f. was keins ist V, 740. f. Verschiedenheit desselben u. des Missvergnügens V, 742. grosses V, 742. f.
+
+- Vergrösserung VI, 35. f.
+- Verhältniss I, 141. 706. V, 110. ff. arithmetisches I, 142. äusseres I, 571. geometrisches I, 143. qualitatives I, 142. quantitatives I, 142. Quelle desselben I, 700. 706.
+- Verhängniss, unbedingtes VI, 102.
+- Verjährung II, 425.
+- Verkauf VI, 33.
+- Verknüpfung V, 427. 743. ff. Entwickelung V, 744. analytische, logische V, 744. metaphysische V, 744. physische V, 744. reale V, 745. synthetische V, 745.
+- Verknüpfungsurtheil II, 405.
+- Verleger I, 736. II, 878. f.
+- Verleihen I, 247. VI, 33.
+- Verleiher I, 247.
+- Vermächtniss II, 428.
+- Vermessen V, 745.
+- Vermögen III, 771. discursives II, 131. nach Belieben zu thun oder zu lassen VI, 178.
+- Verneinung I, 262. 263. II, 106. V, 639. 746. f. transscendentale II, 108. V, 746. f. in der Erscheinung V, 747. ist eine Kategorie V, 747.
+- Verneinend V, 747. f.
+- Vernünftelei V, 374.
+- Vernünfteln I, 750. \*)
+- Vernunft I, 482. 851. V, 748. ff. allgemeinste Bedeutung V, 748. f. ist mit Verstand einerlei V, 748. f. Sinnlichkeit ohne sie V, 749. ist das ganze obere Erkenntnissvermögen V, 749. ff. das Zeitalter der Gelangung der Menschen zum vollständigen Gebrauch derselben V, 751. ff. fremde V, 755. logische V, 756. f. transscendentale V, 756. f. in dem besondern Gebrauch derselben V, 756. ff. Unterschied zwischen ihr u. Verstand V, 760. ff. 763. in engerer Bedeutung V, 762. ff. logischer Gebrauch derselben V, 765. ff. reiner Gebrauch derselben V, 767. f. an sich V, 769. formales und logisches Verfahren derselben V, 769. ff. Grenzbestimmung derselben V, 772. Erfahrung thut ihr niemals völlig Genüge V, 772. f. sieht gleichsam um sich einen Raum für die Erkenntniss der Dinge an sich selbst V, 774. Metaphysik führt uns in den dialektischen Versuchen derselben auf Grenzen V, 774. in der weitesten Bedeutung hat Schranken V, 775. ff. 779. wie wir den Gebrauch derselben nicht zu weit treiben V, 776. ff. Beispiel V, 779. was sie uns lehrt V, 780. Disciplin derselben V, 780. f. Kanon derselben V, 781. f. praktische [VI, 552] I, 55. 811. V, 782. ff. VI, 174. Gebot derselben II, 738. ff. gesetzgebende V, 510. reine I, 856. f. V, 798. ff. speculative I, 856. Function derselben bei ihren Schlüssen V, 795. f. Product der reinen V, 806. Absicht der reinen bei den reinen Vernunftbegriffen V, 808. ff.
+
+- Vernunftbegriff I, 502. f. 503. V, 786. ff. will sich nicht innerhalb der Erfahrung beschränken lassen V, 789. f. enthält die Vorstellung des unbedingten V, 790. ff. reiner I, 505. V, 793. ff. vielerlei reine V, 796. ff. transscendentaler V, 802. ff. reine theoretische V, 806. f. Modi derselben V, 806. f. Realität derselben V, 807. Absicht der reinen Vernunft bei denselben V, 807. ff. hat kein Schema in der Anschauung V, 812. kosmologischer der Freiheit V, 819. f. Kunstausdrücke zur vollkommenen Unterscheidung derselben von den Verstandesbegriffen V, 824. f. mathematischtranscendentaler V, 839. vermischter I, 505. ächter I, 509. unächter I, 509.
+- Vernunftbesitz I, 430.
+- Vernunfteinheit V, 840.
+- Vernunfterkenntniss V, 738. f. 840. ff.
+- Vernunftgebrauch I, 88. discursiver I, 826. intuitiver I, 826. praktischer III, 22. theoretischer III, 22.
+- Vernunftglaube I, 109. III, 15. f. 509. f. V, 842. ff. moralischer V, 842. ff. Entwickelung V, 844. f. ist ein Postulat der Vernunft V, 847. ff. ist nicht veränderlich V, 850. an Gott I, 420.
+- Vernunftidee V, 786. ff.
+- Vernunftinteresse III, 498.
+- Vernunftlehre IV, 15. ff. V, 850. ff. ist eine Vernunftwissenschaft V, 850. ist eine Doctrin V, 850. f. allgemeine II, 264. Eintheilung derselben V, 851. f. theoretische V, 852. praktische V, 852. transscendentale I, 853. Geschichte derselben V, 853. ff. jetzige V, 853. des Aristoteles V, 853. Lamberts V, 853. ist eine Critik der Erkenntniss V, 854.
+- Vernunftleiter V, 754. f.
+- Vernunftliebe seiner selbst V, 281.
+- Vernunftschluss II, 600. ff. V, 207. ff. 769. ff. 854. ff. reiner oder unvermischter II, 602. vermengter II, 604. Arten V, 797. bedingter II, 18. hypothetischer II, 18. kategorischer V, 209. f. disjunctiver V, 212. f. Platts Einwürfe gegen Kant V, 854. f. beantwortet V, 855. f.
+- Vernunftreligion I, 420. V, 130. ff.
+- Vernunftunglaube V, 630.
+- Vernunftursprung V, 657.
+- Vernunfturtheil V, 856.
+- Vernunftwahrheit V, 856. mathematische V, 856. philosophische V, 856.
+- [VI, 553] Vernunftwissenschaft V, 857. f. VI, 202. Beispiele V, 858. reine V, 858. wer untersucht, wie diese möglich sey? V, 858.
+- Vernunftwesen II, 970.
+- Verpfändung VI, 34. 319.
+- Verpflichtungsgrund I, 786.
+- Verrückung VI, 1. Eintheilung derselben VI, 1. tumultuarische oder der Sinnlichkeit VI, 2. ff. methodische oder des Verstandes VI, 5. f. fragmentarische oder der Urtheilskraft VI, 6. systematische oder der Vernunft VI, 6. f. das Wort VI, 7. wie sich der Keim dazu entwickelt VI, 8. einziges allgemeines Merkmahl derselben VI, 9.
+- Verschenkung VI, 33.
+- Verschiedenheit, Gesetz derselben I, 91. V, 354. ff.
+- Verschlagenheit V, 201.
+- Verschmitztheit V, 201.
+- Verschuldung V, 606.
+- Versinnlichen V, 287. ff.
+- Versinnlichung II, 6. ff.
+- Versprechen VI, 27.
+- Verstand I, 20. ff. 131. 152. 263. 328. 482. II, 53. 384. 514. f. IV, 17. ff. V, 762. ff. VI, 9. ff. als gleichbedeutend mit Vernunft VI, 9. f. als logisches Vermögen VI, 10. f. in besonderer Bedeutung VI, 11. f. in der engsten Bedeutung VI, 12. f. abgeleiteter VI, 13. ff. discursiver VI, 17. ff. gemeiner Menschenverstand, Gemeinsinn VI, 19. ff. gesunder VI, 21. f. reiner III, 527. VI, 23. \*) richtiger VI, 23. speculativer I, 857. Theorie IV, 15. ff.
+- Verstandesanschauung I, 263.
+- Verstandesbegriff I, 493. f. 502. VI, 24. f. reiner III, 515. VI, 24. f. abgeleiteter I, 36. empirischer I, 504. gemischter I, 504.
+- Verstandeslehre, reine I, 856.
+- Verstandesschluss II, 603. V, 203. ff.
+- Verstandesverbindung der Apperception V, 427.
+- Verstandesvorstellung I, 484.
+- Verstandeswelt II, 61.
+- Verstandeswesen I, 131. 139. II, 403. IV, 447. ff. reines VI, 181.
+- Verstehen I, 482.
+- Versuch I, 523. II, 292.
+- Vertrag VI, 26. ff. wie viel Acte in jedem sind VI, 27. wieviel Personen dazu gehören VI, 27. Erwerbung durch ihn VI, 29. Deduction derselben VI, 29. f. was das Aeussere ist, das ich durch ihn erwerbe VI, 31. f. die Uebertragung des Meinen durch ihn VI, 32. Eintheilung VI, 32. f. belästigter II, 835. wohlthätiger VI, 33.
+- [VI, 554] Verwandtschaft, I, 75. f. *analytische oder logische* I, 89.
+- Verwunderung, VI, 36. ff. *Entwickelung* VI, 38. *Beispiel* VI, 39.
+- Verzweiflung, VI, 39.
+- Virtualiter, I, 241.
+- Vitalempfindung, II, 776.
+- Vitalsinn, II, 827. f. V, 295. ff. VI, 39. f. *macht desto unglücklicher, je empfänglicher für Eindrücke er ist.*
+- Völkerbund, II, 803.
+- Völkerrecht, V, 39.
+- Völkerstaatsrecht, V, 39.
+- Völlerei, I, 244.
+- Vogelfrei, III, 748.
+- Volk, I, 800.
+- Volksglaube, I, 418.
+- Volkssprache, IV, 656.
+- Vollendetes, III, 191.
+- Vollkommenheit, II, 157. 159. f. V, 509. VI, 40. f. *qualitative* II, 159. VI, 40. f. *quantitative* II, 159. VI, 43. f. *höchste* VI, 44. *des Erkenntnisses* VI, 44. *logische* VI, 45. *der Quantität nach* VI, 45. *der Relation nach* VI, 45. *der Qualität nach* VI, 46. *der Modalität nach* VI, 46. *wodurch sie befördert wird* VI, 46.
+- Vollmacht, I, 741.
+- Vollständigkeit, VI, 282. *äussere* VI, 282. *innere* VI, 282.
+- Von hinten her, I, 1, II, 290.
+- Voraussetzen, VI, 47.
+- Voraussetzung, III, 328.
+- Vorbehalt in Gedanken, IV, 647.
+- Vorbildungsvermögen, II, 15.
+- Vorderglied, II, 582.
+- Vordersatz, II, 581.
+- Voreltern, II, 272.
+- Vorherbestimmte Harmonie, VI, 47. ff. *Monade* VI, 47. *Perceptionen der Monaden* VI, 48. *vollkommene Übereinstimmung zwischen der einfachen und zusammengesetzten Substanz* VI, 48. *Möglichkeit dieser Hypothese* VI, 49. *Vortheil, den sie bringt* VI, 50. *soll etwas mehr als Hypothese seyn* VI, 50. *Nutzen derselben in der Physik* VI, 50.
+- Vorhererwartung, VI, 53.
+- Vorhersehungsvermögen, VI, 51. ff. *es zu besitzen interessirt* VI, 51. *empirisches* VI, 52. *wann es trostlos macht* VI, 52. *in Ansehung unsers Schicksals* VI, 53.
+- Vorläufiges Urtheil, VI, 53. f. *ist sehr nöthig* VI, 54.
+- Vorschrift der Geschicklichkeit, III, 455.
+- Vorsehung, VI, 55. ff. *überhaupt* VI, 56. *Eintheilung derselben* VI, 56. *formaliter betrachtet* VI, 56. *materialiter betrachtet* VI, 56. *ausserordentliche* VI, 56. *götliche [VI, 555] Mitwirkung* VI, 56. f. *gründende* VI, 58. *leitende* VI, 58. *waltende* VI, 58. f.
+- Vorstellung, VI, 59. ff. *Entwickelung* VI, 59. f. *klare* IV, 518. VI, 61. f. *dunkele* VI, 61. ff. *Beispiele* VI, 62. ff. *wir spielen öfters damit* VI, 62. ff. *noch öfterer sind wir ein Spiel derselben* VI, 64. f. *erregen bisweilen die Affecten* VI, 65. *Beispiel* VI, 66. *sind oft wichtig* VI, 66. *Entwickelung derselben* VI, 67. *Bewusstseyn derselben* VI, 67. f. *deutliche* VI, 67. *verworrene* IV, 518. VI, 67. *undeutliche* IV, 518. VI, 67. *gehäufte* VI, 67. *vielhaltige* VI, 67. *obere* VI, 68. *untere* VI, 68. *wie wir dazu kommen, ihr einen Gegenstand zu setzen* VI, 68. *Bestreben, sich derselben bewusst zu werden* VI, 71. f. *abstracte* IV, 519. *discursive* I, 484. *einzelne* I, 691. *angebohrne* I, 227. *intuitive* I, 256. *mittelbare* I, 484. *sinnliche* I, 131. 256. *einfache* IV, 519. *zusammengesetzte* IV, 518. *leere* VI, 177. *reelle* VI, 177. *ideale* VI, 250.
+- Vorstellungsfähigkeit, VI, 72. ff.
+- Vorstellungskraft, I, 631. *die verschiedenen Acte derselben* VI, 72.
+- Vorstellungsvermögen, VI, 73. *wie die reinen Vorstellungen aus ihm entspringen müssen* VI, 73. f. *Reinholds Theorie desselben* VI, 74. f.
+- Vorübung zur Philosophie, I, 850.
+- Vorurtheil, I, 29. VI, 75. ff. *was sie zuweilen sind* VI, 76. *die Hauptquellen derselben* VI, 76. ff. *drei allgemeine Quellen derselben* VI, 76. ff. *des Ansehens* VI, 79. *des Ansehens der Person* VI, 79. *des Ansehens der Menge* VI, 80. *des Ansehens des Zeitalters* VI, 81. *des Alterthums* VI, 81. *der Neuheit* VI, 82. *aus Eigenliebe oder logischem Egoismus* V, 82. *ob es rathsam sei, sie stehen zu lassen* VI, 83. *ist die Quelle des Irrthums* VI, 83.
+- Vorzeigen, II, 50.
+
+### W
+
+- Wachsthum der organischen Wesen, VI, 85. *chemisches* VI, 86. *mechanisches* VI, 86. *wechselseitige Abhängigkeit dabei* VI, 86.
+- Wärmestoff, IV, 69.
+- Wahn, I, 31. VI, 87. ff. *was er auch seyn kann* VI, 87. *Neigungen desselben* VI, 88. *machen den Menschen abergläubisch* VI, 88. *abergläubischer* I, 32. *praktischer* VI, 89.
+- Wahnglaube, III, 79.
+- Wahnsinn, V, 557. VI, 5. f. 89. f.
+- Wahnwitz, VI, 6, 90.
+- [VI, 556] Wahr, I, 17. VI, 90. ff. *wenn das Erkenntniss als solches gelten kann* VI, 90. ff. *was es nur nach Gesetzen der Sinnlichkeit ist* VI, 97.
+- Wahrheit, I, 812. *Kennzeichen derselben* VI, 91. *giebt es ein solches?* VI, 92. *giebt es ein allgemeines formales?* VI, 92. *ein allgemeines materiales* VI, 92. *ein allgemeines formales* VI, 92. *der Folge* VI, 93. *des Grundes* VI, 93. f. *negativ u. indirect zureichendes* VI, 94. *formales logisches* VI, 95. *Gegentheil von derselben* VI, 96. *empirische* VI, 97. *ewige* VI, 96. *nothwendige* VI, 97. *transscendentale* IV, 323. ff. VI, 97.
+- Wahrnehmung, I, 322. VI, 98. ff. *äusserer Gegenstände* VI, 99. *innerer Gegenstände* VI, 99. *andere Bedeutung* VI, 99. *so erklärt sie auch Schulz* VI, 99. f. *wie Empfindungsvorstellungen dazu werden* VI, 100. *ist der zweite Grad der Erkenntniss* VI, 100. f.
+- Wahrnehmungsurtheil, II, 351. VI, 101.
+- Wahrsagen, VI, 101. f. *das Aeusserste der Ungereimtheit in demselben* VI, 103.
+- Wahrsagergabe, VI, 101. f.
+- Wahrsagern, VI, 102.
+- Wahrsagungswissenschaft, VI, 103.
+- Wahrscheinlichkeit, VI, 104. f.
+- Wandelbares, VI, 107.
+- Wasserhammer, IV, 71.
+- Wechsel, II, 613. ff. VI, 106. f.
+- Wechselbegriffe, VI, 107.
+- Wechselwirkung, I, 72. 74. II, 839. ff.
+- Weg in Behandlung der moralischen Anlagen unsrer Natur, VI, 107. ff. *Beispiele* VI, 108. f.
+- Wegleben, VI, 112. ff.
+- Weh, I, 732. V, 599. ff.
+- Weinen, VI, 114. ff. *ist ein schmerzlinderndes Mittel* VI, 114. *Beobachtungen* VI, 115.
+- Weiser, VI, 116. *Beschreibung desselben beim Lipsius* VI, 117.
+- Weisheit, III, 745. VI, 117. ff. *der Stoiker* VI, 118. *praktische* VI, 118. f. *theoretische* VI, 118. *die praktische ist die Tugend* VI, 119. *ist auf die Moralität gerichtet* VI, 120.
+- Weissagung, VI, 102.
+- Welt, I, 219. VI, 120. ff. 133. *Unterschied zwischen Welt u. Natur* VI, 122. *über die erste Ursache derselben* VI, 122. *ist eine Idee* VI, 123. *metaphysische Erklärung derselben* VI, 123. *im populären Sprachgebrauch* VI, 123. *Anfang derselben* II, 326. *Grund ihrer Ordnung* V, 510. *moralische* V, 103. VI, 124. f. *nichtsinnliche* II, 61. *intelligibele* IV, 451. ff. *sinnliche* VI, 125. f. *in der Erscheinung* VI, 268.
+- Weltanfang, II, 326. VI, 127. f. *ist ein Weltbegriff* VI, 127. f.
+- Weltbaumeister, VI, 128.
+- [VI, 557] Weltbegriff, IV, 575. VI, 128. ff. *System derselben* VI, 129. f. *Tafel derselben* VI, 130. f. *Beispiele* VI, 131. f. *er ist einheimisch* VI, 132. *verstatten aber keinen ihnen adäquaten Gegenstand in der Erfahrung* VI, 133. f. *die Philosophie zeigt im Hinaufschwingen zu ihnen eine hohe Würde* VI, 134. f. *widerstreitende Sätze, die durch sie entstehen* VI, 135. f. *welche der Dogmatismus der reinen Vernunft heissen* VI, 136. f. *Fragen über die Gegenstände derselben* VI, 137. f. *der kritischen Auflösung dieser Fragen kann man nicht ausweichen* VI, 138. f. *woher kommen sie uns* VI, 139. f. *wir müssen hier eine Amphibolie verhüten* VI, 141. *was man vor der Beantwortung in Erwegung ziehen sollte* VI, 142. *er ist für jeden Verstandesbegriff zu gross oder zu klein* VI, 142. f. *Verdacht, dass ihnen ein eingebildeter Begriff zum Grunde liege* VI, 143. *worauf die scheinbare Realität derselben beruhe* VI, 143. f. *natürliche Antithetik* VI, 144. f. *andere Bedeutung* VI, 146.
+- Weltbürgerliches Ganze, VI, 147.
+- Weltbürgerrecht, V, 40. VI, 148. ff. *ist keine phantastische Vorstellung* VI, 150. f.
+- Welterkenntniss a priori, VI, 145. f. *transscendentale* III, 664.
+- Weltgrösse, VI, 151. f. *dem Raume nach* VI, 151. f.
+- Weltidee, VI, 128. f.
+- Weltlauf, VI, 152. f.
+- Welturheber, V, 511. ff.
+- Weltweise, VI, 157. *zu ihm gehören zwei Dinge* VI, 158. f.
+- Weltweisheit, IV, 573. ff. VI, 153. f. *das eine Merkmahl in der Erklärung derselben* VI, 153. f. *das zweite Merkmahl* VI, 155. *Resultat* VI, 155. f. *nach dem Weltbegriff* VI, 157. f. *Geschichte derselben* VI, 159. ff. *Thales, Urheber der speculativen* VI, 160. *Pythagoras neue Schule* VI, 161. *Sokrates, mit ihm hebt die zweite Epoche der griechischen Philosophie an* VI, 162. ff. *bei den Römern* VI, 164. f. *sittliche* IV, 352. ff.
+- Werk, I, 740.
+- Werkzeug, I, 545.
+- Werth, I, 51. VI, 166. f. *äusserer, relativer, Preis* VI, 167. *innerer, absoluter, Würde* VI, 167. *des Erdenlebens* VI, 167. f. *was hat das Leben für einen Werth?* VI, 167. f. *Schätzung desselben nach dem Genuss* VI, 168. *nach dem, was man thut* VI, 168. ff. *der, den wir uns selbst geben* VI, 170. f.
+- Wesen, VI, 171. f. *aller Wesen* V, 520. *logisches* IV, 250. VI, 171. f. *politisches, gemeines* II, 957. *thierisch-vernünftiges* IV, 211. *vernünftiges* III, 488. ff.
+- Wesentliche Stücke, IV, 251.
+- Widerspruch, VI, 325. *Satz desselben* I, 195. ff.
+- [VI, 558] Widerstand, V, 608.
+- Widerstreit, VI, 173. f. *der Gesetze der reinen Vernunft* I, 257. *der Pflichten* I, 785.
+- Wiedererlangung, II, 433.
+- Wiedersammlen, VI, 287.
+- Wiedervergeltungsrecht, V, 396.
+- Wille, I, 811. II, 310. 577. IV, 689. f. VI, 174. ff. *Entwickelung* VI, 175. *Unterschied zwischen Begehrungsvermögen, Wille, Willkühr und freier Willkühr* VI, 175. ff. *wann man ihn mit Willkühr für gleichbedeutend nehmen kann* VI, 178. *wie man ihn auch nennen kann* VI, 179. f. *warum das Begehrungsvermögen so heisst* VI, 180. *gleichzeitiger* II, 428. *reiner* VI, 180. ff. *Aufgabe* VI, 182. *Auflösung* VI, 182. ff. *sittlichguter* VI, 185. f. *an sich guter* VI, 186. ff. *schlechterdings guter* VI, 188. ff. *Beispiele* VI, 189. *allgemeingesetzgebender* VI, 190. *wie sich demselben nach die Menschen denken* VI, 192. ff.
+- Willkühr, II, 641. VI, 178. *freie* II, 641. VI, 179. *sinnliche* II, 641. *thierische* II, 641. VI, 179.
+- Willkührlich, I, 171.
+- Wirbel des Cartesius, VI, 199. f.
+- Wirken, überhaupt, III, 215. f.
+- Wirklich, I, 864. f.
+- Wirklichkeit, I, 865. II, 9. 16. ff. 466. ff.
+- Wirkung, II, 63. III, 215. ff. 261. *durch Endursachen* II, 308. *in die Ferne* I, 305. 550. *unmittelbare in die Ferne* I, 306.
+- Wirthbarkeit, III, 290.
+- Wissen, II, 678.
+- Wissenschaft, IV, 131. VI, 201. f. *wovon das Wort herkommt* VI, 201. *wem sie entgegengesetzt wird* VI, 201. *historische* VI, 202. *Vernunftwissenschaft* VI, 202. *metaphysische* VI, 202. *wir wissen in derselben oft nur die Erkenntnisse* VI, 203. *es giebt welche, die keine Hypothesen erlauben* VI, 203. *rationale* V, 857. f. *schlechthin* V, 857. f.
+- Witz, *Grundsatz desselben* III, 40. *productiver* VI, 203. f. *scharfsinniger* VI, 204. *blühender* VI, 204. *vergleichender* VI, 204. *vernünftelnder* VI, 204. *hascht nach Einfällen* VI, 205. *mit Wortspielen* VI, 205. f. *launigter* VI, 205. *zentnerschwerer* VI, 206. *Gründlichkeit ist seine Sache nicht* VI, 206. *leichter* VI, 206.
+- Wogulen, Wogulitschi oder Wogulzen, I, 114. f.
+- Wohl, III, 204.
+- Wohlanständigkeit, II, 198. ff.
+- Wohlgefallen, VI, 206. ff. *drei specifische Arten desselben* [VI, 559] VI, 207. f. *sinnlich interessirtes* VI, 207. f. *reines uninteressirtes* VI, 207. f. *vernünftiges interessirtes oder praktisches* VI, 207. f. *das reine uninteressirte ist von zweierlei Art* VI, 208.
+- Wohlgeschmack, II, 899.
+- Wohlredenheit, I, 533.
+- Wohlthätigkeit, VI, 208. f. *ist Pflicht* VI, 209.
+- Wohlthun, VI, 208. f. *Pflicht desselben* VI, 208. *das Verhältniss des Reichen zu demselben* VI, 209. *wie weit man den Aufwand seines Vermögens in demselben treiben soll* VI, 210. *das Vermögen dazu* VI, 210. f.
+- Wohlwollen, VI, 211. *des Wunsches* VI, 211. *praktisches* VI, 211. *gegen uns selbst* VI, 211.
+- Wolf, VI, 211. ff. *ein dogmatischer Philosoph* VI, 211. *ein mathematischer u. philosophischer Kopf* VI, 211. f. *begiebt sich nach Cassel* VI, 212. *hat einer eigentlichen wissenschaftlichen Philosophie vorgearbeitet* VI, 213. *Bestimmtheit und grosse Deutlichkeit in seinen Begriffen kann man ihm nicht absprechen* VI, 214. *wollte ein System von metaphysischen Wahrheiten aufführen* VI, 214. f. *in seiner Architectonik lagen viele Fehler* VI, 215. *wie er hätte verfahren sollen* VI, 215. *wovon er zuerst das Beispiel gab* VI, 215. *materiellen Gewinn hat die Philosophie durch ihn nicht erhalten* VI, 215.
+- Wolfische Philosophie, VI, 214. ff. *vermeintlicher Vorzug derselben* VI, 216.
+- Wollust, I, 244. 216. f. *natürliche* VI, 217. *ist Naturzweck* VI, 217. *unnatürliche* VI, 217. *ist wider den Zweck der Natur* VI, 217.
+- Wollustprincip des Epikur, II, 767.
+- Würde, VI, 217. f. *was sie hat, kann durch nichts andres ersetzt werden* VI, 218. *Beispiel* VI, 219.
+- Würdigkeit glückselig zu seyn, VI, 219.
+- Wunder, VI, 220. ff. *vernünftige Menschen wollen den Glauben davon nicht praktisch aufkommen lassen* VI, 221. *theistische* VI, 221. *neue* VI, 221. *dämonische* VI, 221. f. *englische* VI, 221. *agathodämonische* VI, 221. *teuflische* VI, 221. *kakodämonische* VI, 221. *in Geschäften kann man unmöglich auf sie rechnen* VI, 222. *Naturwunder* VI, 222. *wahres* VI, 223.
+- Wunderzeichen, VI, 229. 231.
+- Wunsch, VI, 177. f.
+
+### Z
+
+- Zärtlichkeit des Wohlwollens, VI, 225.
+- Zahl, VI, 226. f.
+- [VI, 560] Zahlformeln, VI, 226. f.
+- Zaubern, I, 116.
+- Zeichen, VI, 228. ff. *wie man sie eintheilt* VI, 229. *andere Eintheilung* VI, 229. f. *willkührliche* VI, 229. *natürliche* VI, 229. ff. 236. *mimische* VI, 229. *Schriftzeichen* VI, 229. *Tonzeichen* VI, 230. *fürs Gesicht verabredete* VI, 230. *Dienstzeichen* VI, 230. *Ehrenzeichen* VI, 230. *Schandzeichen* VI, 230. *der Verweilung* VI, 230. *der Frage und des Affects* VI, 230. *Interpunctionszeichen* VI, 230. *Beispiel* VI, 230. *demonstrative* VI, 231. *rememorative* VI, 231. *prognostische* VI, 231. *wunderliches Spiel der Einbildungskraft in Ansehung derselben* VI, 232. f. *vier äussere der anthropologischen Charakteristik* VI, 233. ff.
+- Zeit, II, 479. ff. VI, 249. ff. *die Vorstellung derselben hebt nicht an* VI, 249. *alles Wirkliche ist in derselben gegeben* VI, 250. *besteht nicht aus einfachen Theilen* VI, 250. ff. *Eberhards Behauptung dagegen* VI, 252. ff. *anderer Einwurf* VI, 255. f. *Widerlegung* VI, 253. ff. *ist eine ausgedehnte Grösse* VI, 278. *ist eine stetige Grösse* VI, 256. f. 275. *ist ins Unendliche theilbar* VI, 256. f. *es giebt nur Eine und diese wird als eine unendlich gegebene Grösse vorgestellt* VI, 257. 278. *ist eine reine Anschauung* VI, 257. f. *jede ist sowohl etwas vorübergehendes als etwas stetiges* VI, 257. f. *hat nur eine Dimension* VI, 278. *die Theile derselben sind nicht zugleich* VI, 278. *ein jedes beliebiges Moment zum Anfang einer setzen* VI, 278. *sie durch eine Linie vorstellen* VI, 278. *gegenwärtige* VI, 258. *Harris über sie* VI, 258. *ist nichts transscendental Objectives und Reales* VI, 259. *Arten derselben* I, 308. *Geschichte dieser Vorstellung* VI, 260. ff. *Plato war der erste, der über sie nachgedacht hat* VI, 260. *Aristoteles ist in der Erörterung derselben am bewundernswürdigsten* VI, 260. f. *Chrysipp ging einige Schritte weiter* VI, 261. *die Scholastiker nahmen sie für bloss subjectiv an* VI, 261. f. *Hersey erklärte sich dagegen* VI, 262. *Occam hielt sie für reell einerlei mit der Bewegung* VI, 263. *Mortil leitet sie aus den verschiedenen Daseynsarten her* VI, 264. *Leibnitzens Lehre davon* III, 826. ff. VI, 264. *Uebera llheit derselben* VI, 265. *die Englischen Philosophen behaupten die objective Realität der Zeit* VI, 266. *die Dinge in derselben* VI, 266. f. *ist das absolut erste formale Princip der Sinnenwelt* VI, 267. f. *Verknüpfung der Anschauungen der Sinne in derselben* VI, 269. *Kant ist diese Entdeckung erst nach langem Nachdenken gelungen* VI, 269. f. *ist nicht angebohren* VI, 270. *ist durch eine Handlung des Gemüths erworben* VI, 271. *aus ihr in die Ewigkeit [VI, 561] gehen* VI, 271. f. *vertreiben* V, 302. *zwischen zwei gegebenen Zeitpunkten giebt es nur Eine* VI, 277.
+- Zeitbestimmung, VI, 274.
+- Zeitinbegriff, VI, 274.
+- Zeitinhalt, VI, 275.
+- Zeitordnung, VI, 275. f.
+- Zeitpunct, VI, 251.
+- Zeitraum, VI, 256.
+- Zeitreihe, VI, 276.
+- Zeitursprung, V, 657. f.
+- Zeitwissenschaft, VI, 277. f.
+- Zeitwort, I, 383.
+- Zergliedern, I, 195. VI, 279. f. *Zweck desselben* VI, 280. f. *ob durch das blosse vollendete Vollkommenheit eines Erkenntnisses zu erreichen sei?* VI, 282. *die Logiker aus der Wolfischen Schule setzten in sie alle Deutlichmachung der Erkenntnisse* VI, 282. f. *geschieht durch die Logik* VI, 284.
+- Zergliederung, VI, 284. *der Begriffe* VI, 285. *Vollständigkeit derselben* VI, 285. *Beispiel* VI, 285. f. *unsers gesammten Erkenntnisses a priori in die Elemente der reinen Verstandeserkenntnisse* VI, 285. *des Verstandesvermögens* VI, 285.
+- Zerlegung, V, 172.
+- Zersetzung, V, 172.
+- Zerstreut, VI, 288.
+- Zerstreuung, VI, 286. ff. *vorsätzliche* VI, 286. f. *unwillkührliche* VI, 286. f. *habituelle* VI, 288. *in sie bringen* VI, 289.
+- Zeugung, *Theorie derselben* II, 185.
+- Zitterung, I, 596.
+- Zorn, V, 237. VI, 114.
+- Zucht, II, 114.
+- Zueignung, II, 410. 416.
+- Zufällig, V, 291. 296.
+- Zufällige Anlage, VI, 289. f. *im logischen Verstande* VI, 291. f. *Baumgartens Erklärung* VI, 293. *alle sinnliche Dinge sind es in ihrem Daseyn* VI, 297.
+- Zufälligkeit, I, 46. VI, 291. ff. *formale oder logische* VI, 291. f. *objective* VI, 291. f. *der menschlichen Handlungen* VI, 292. *in dem Begriff derselben lassen sich weiter keine Merkmahle unterscheiden* VI, 293. *hat noch Niemand anders als durch Tautologie real erklären können* VI, 293. *dient zum Verbinden der Begriffe zu Urtheilen* VI, 293. *ist eine Kategorie* VI, 291. ff. *in der man zwei andere Kategorien unterscheiden kann* VI, 293. f. *ohne sie würden wir keine Erfahrung haben* VI, 294. *Fichte leugnet die Realität derselben* VI, 294. *durch diesen Begriff bekommen die sinnlichen* [VI, 562] Eindrücke eine ganz eigene transscendentale Einheit VI, 294. ohne ihn würden wir uns keine Zwecke denken können VI, 294. transscendentales Schema derselben VI, 295. f. empirische VI, 295. ff. Kants ehemalige Erklärung VI, 296. der Wechsel beweiset sie gar nicht VI, 296. Beispiel VI, 296. intelligibele VI, 297.
+
+- Zufall, Bestimmung einer Sache durch denselben I, 752.
+- Zufriedenheit II, 766. VI, 298. f. ist keine geheime Kunst VI, 299.
+- Zugleichseyn VI, 299. f. ist eins der beiden Verhältnisse in der Zeit, VI, 299. kann allein in der Zeit vorgestellt werden VI, 299.
+- Zugleichvorhandenseyn VI, 299. f. ist eine Art der Existenz des Beharrlichen VI, 300. Grundsatz desselben VI, 300. f. Eberhards Meinung darüber VI, 301. ff.
+- Zukunft, selige VI, 303. ff.
+- Zulänglichkeit VI, 23.
+- Zurechnung V, 487. f. VI, 305. f.
+- Zurechnungsfähigkeit VI, 305.
+- Zureichender Grund VI, 306.
+- Zurückstossungskraft I, 302. III, 614. VI, 306. ff. ist ursprünglich VI, 307. 315. f. ist unmittelbar VI, 308. ff.
+- Zusammenfassung VI, 314. f. ist von zweierlei Art VI, 314. ästhetische VI, 314. logische VI, 314.
+- Zusammengesetztes II, 850. in der Idee VI, 251. in der Wirklichkeit VI, 251. die Theilbarkeit setzt es voraus VI, 318.
+- Zusammenhang VI, 315. f. Entwickelung VI, 316. wird gemeinhin für eine ganz allgemeine Eigenschaft der Materie angenommen VI, 316.
+- Zusammensetzung VI, 317. f. zwei Arten derselben VI, 317.
+- Zusammentretung VI, 319. noch existirt keine unauflösliche von Staaten VI, 319.
+- Zusicherungsvertrag VI, 34, 319. f.
+- Zustand II, 323. 556. VI, 320. f. juridischer der Menschen VI, 320. bürgerlicher, bürgerlichgesetzlicher, rechtlicher VI, 321. ff. der Rechtlosigkeit VI, 324. Kriegszustand VI, 325. der Ungerechtigkeit VI, 325. ethischbürgerlicher VI, 325. gesellschaftlicher VI, 326. künstlicher VI, 326. natürlicher IV, 126. f. VI, 327. Naturzustand VI, 327. Nothwendigkeit desselben II, 556. wie er folgt auf einander II, 617. politischer II, 957.
+- Zwang VI, 328.
+- Zweck I, 439. II, 306. ff. VI, 328. ff. Entwickelung VI, 329. absoluter II, 312. ff. 317. äusserlich erzwungener VI, 328. f. eine jede Handlung hat ihren VI, 329. zu ihm giebt es keinen äussern Zwang VI, 329. innerlich [VI, 563] erzwungener VI, 329. an sich II, 312. ff. VI, 329. letzter II, 317. objectiver VI, 330. relativer II, 317. schlechterdings II, 317. selbstständiger VI, 190. subjectiver VI, 330. den der Mensch sich machen soll VI, 329. f. den der Mensch sich macht VI, 331. ein solcher, der zugleich Pflicht ist VI, 332. der Pflichtbegriff stellt sie auf VI, 333. empirischer VI, 333. formaler VI, 333. göttlicher, der Schöpfung VI, 334. ff. höchster der Vernunft VI, 336. bedingter hypothetischer VI, 336. materialer VI, 336. Naturzweck VI, 336. ff. objectiv-praktischer VI, 344.
+
+- Zwecklehre V, 465. ff. VI, 331. reine V, 486. reine praktische V, 487.
+- Zweckmässig VI, 346.
+- Zweckmässigkeit II, 232. V, 466. ff. VI, 345. ff. der Natur II, 7. VI, 346. 360. f. ohne Zwecke VI, 346. der Form nach VI, 346. objective II, 157. V, 466. 478. f. VI, 349. 353. subjective II, 163. VI, 349. intellectuelle VI, 352. formale II, 7. 163. VI, 353. reale II, 7. VI, 353. praktische VI, 353. theoretische VI, 353. Deduction der der Natur VI, 354. Richtigkeit dieser Deduction VI, 355. ff. äussere II, 157. V, 468. ff. VI, 358. f. innere II, 157, V, 466. VI, 358. f. ästhetische I, 710. Idealismus derselben II, 903. ff. V, 478. f. 546. f. Realismus derselben II, 903. ff. V, 478. f. 546. f. ideale II, 7. materiale II, 7. 163 V, 466. objective formale II, 8. subjective formale II, 8. kunstlose II, 232. relative V, 469. ff. Geschichte dieses Begriffs VI, 361. ff. Sokrates fand in der zweckmässigen Einrichtung des menschlichen Cörpers Gott VI, 361. welchen Grundsatz Aristoteles auf diesem Wege fand VI, 361. Erinnerungen des Theophrast dagegen VI, 361. ff. was die alten Philosophen über den Endzweck des Ganzen gedacht haben VI, 362. f.
+- Zweckursache II, 306. ff.
+- Zweifel VI, 363. f. subjectiv VI, 363. objectiv VI, 364.
+- Zweifelglaube VI, 364. f. was er anerkennt VI, 365.
+- Zweifellehre, allgemeine metaphysische V, 330. ff.
+- Zweifelsucht, allgemeine metaphysische V, 330. ff.
+- Zwischenmerkmahl IV, 259.
+- Zwischenräume der Cörper VI, 365. f. leere VI, 366.
+- Zwittergrundsatz VI, 366. Beispiel V, 366.
+
+[VI, 564]
+
+## IV. Alphabetisches Verzeichniss
+
+*der lateinischen Kunstwörter.*
+
+### A
+
+- A posteriori, I, 1.
+- A priori, I, 4.
+- Absentia, IV, 54. VI, 286.
+- Absolute, I, 37.
+- Absolutum, V, 611.
+- Abstractio, VI, 10. 286.
+- Abstrahere, I, 39.
+- Acceleratio, I, 552.
+- — aequabilis, I, 553.
+- — uniformis, I, 553.
+- Acceptatio, I, 250. VI, 27.
+- Accidens, I, 46.
+- Accolatus, V, 41.
+- Acervalis, V, 352.
+- Acquiescentia in se ipso, VI, 298.
+- Acquirere per usucapionem, V, 29.
+- Acquisitio, II, 407.
+- Acroamata, V, 694.
+- Actio, III, 216.
+- — in distans, I, 550.
+- — indifferens III, 219.
+- — moraliter bona III, 218.
+- — permissa, III, 218.
+- — prohibita, III, 219.
+- Acumen, V, 170.
+- Adiaphoron, III, 760. IV, 314.
+- — morale III, 764.
+- Aditus, II, 234.
+- Adhortatio, V, 393. \*).
+- Admiratio, VI, 36.
+- Admonitio, V, 393. \*).
+- Adulator, V, 216.
+- Aequanimitas, VI, 298.
+- Aequitas, I, 719.
+- Aequivocatio, V, 13.
+- Aesthetica, I, 77.
+- Aestimium, II, 201.
+- Affici, I, 88.
+- Affinitas, I, 89. VI, 35.
+- Affrictus, V, 95.
+- Agere, III, 215.
+- Aggregatio, I, 123.
+- Aggregatum, I, 120.
+- Alienare, I, 741.
+- Allotrio - episcopia IV, 391.
+- Ambiguitas transscendentalis, I, 129.
+- Ambitio, III, 280.
+- Amentia, VI, 2.
+- Amicitia, II, 659.
+- — noumenon, II, 659.
+- — phaenomenon, II, 659.
+- [VI, 565] Amicitiae teneritas, II, 661.
+- Amor, IV, 3. benevolentiae IV, 5. tener VI, 225.
+- — complacentiae IV, 3.
+- — proximi, IV, 391.
+- Amphibolia transscendentalis I, 129.
+- Analitica, V, 851.
+- Analogia, I, 141.
+- — causalitatis, I, 169.
+- — experientiae I, 156.
+- — mutuae dependentiae, I, 184.
+- — subsistentiae, I, 165.
+- Analysis, V, 172.
+- Anima, V, 256.
+- Animal rationale IV, 211. VI, 242. rationabile VI, 242.
+- Animalitas, I, 240.
+- Animositas, IV, 383.
+- Animus ingenuae indolis, IV, 456. strenuus, II, 859.
+- — sui compos, II, 858.
+- Animi praestantia, II, 858.
+- Antagonismus, II, 793. V, 608.
+- Anthropologia, I, 277.
+- Anthropomorphismus, I, 282.
+- Antinomia, I, 287.
+- Antithetica, I, 299.
+- Apparere II, 397.
+- Apperceptio, I, 321. 647.
+- Apperceptio substantiata, III, 327 V, 270.
+- Apprehendere, I, 329.
+- Apprehensio, I, 332. II, 409.
+- Approbatio, III, 491. VI, 27.
+- — a propensione profecta III, 501.
+- — intellectualis III, 498.
+- Appropriatio, II, 410.
+- Aqua pulsans in tubo ab aëre vacuo IV, 71.
+- Arbitrium brutum II, 641. liberum II, 641. sensitivum II, 641.
+- Arcanum, II, 814.
+- Archaeologia naturae, I, 335.
+- Architectonica, I, 351.
+- Architectura, I, 466.
+- Argumenta, I, 686.
+- Argumentatio, I, 654.
+- Argumentum cosmologicum, I, 847.
+- — ontologicum, V, 523.
+- Arithmetica IV, 136. universalis IV, 136.
+- Arrogantia, II, 211.
+- — moralis, II, 977. V, 589.
+- Ars III, 723.
+- — aesthetica, III, 729.
+- — casuistica, I, 752.
+- — disputatoria, V, 852.
+- — divina, III, 745.
+- — oratoria, I, 532. V, 51.
+- — pingendi, IV, 52.
+- — plastica, IV, 613.
+- — poetica, IV, 633.
+- — sapientiae, III, 745.
+- — sophistica, V, 852.
+- Articulatio, I, 368.
+- Articulus fidei, III, 19.
+- Asphyxia, V, 180.
+- Assertio, V, 157.
+- Assuetudo, II, 577. V, 254.
+- Astutia, V, 201.
+- Atomistica, I, 374.
+- Atomus, I, 371.
+- Attendenda, II, 409.
+- Attentio, VI, 10.
+- Attractio, I, 380.
+- Attributa corporum, IV, 740.
+- Attributum, II, 212.
+- Attritus, V, 95.
+- Auditus, II, 826. V, 295.
+- Autochiria, V, 531.
+- Autocratia, I, 439.
+- Autonomia, I, 440.
+- Autor, I, 436.
+- Aviditas, III, 214.
+- Axioma, I, 447. V, 694.
+- — hybridum, VI, 366.
+- — intuitionis, I, 452.
+- — subrepticium, II, 562.
+
+### B
+
+- Baptismus, V, 459.
+- — periculi causa, V, 464.
+- Beatitas, III, 46.
+- [VI, 566] Beatitudo, III, 46.
+- Beatus, III, 42.
+- Beccefelense, II, 621.
+- Bellum, III, 712.
+- Bellum defensivum, III, 714.
+- — internecinum, I, 437.
+- — punitivum, III, 712.
+- — subjugatorium, III, 713.
+- Beneficentia, VI, 208. f.
+- Benevolentia, VI, 211.
+- Bibliopola, I, 436.
+- Bibliopolae impensis, I, 742.
+- Bonum morale, III, 201. ff.
+
+### C
+
+- Cacodaemon, II, 831.
+- Cadere, II, 875.
+- Calculus infinitesimalis, IV, 136.
+- Caloricum, IV, 69.
+- Caloris materia, IV, 69.
+- Canon, III, 505.
+- Captio, IV, 505.
+- Caput obtusum, V, 698.
+- Castigatio, V, 393. \*).
+- Castitas, III, 609.
+- Casualitas, I, 752.
+- Casus, IV, 457.
+- — conscientiae, I, 753. II, 976. 979.
+- — non datur in mundo IV, 458.
+- Categoria, I, 506.
+- Causa, V, 644.
+- — conscientiam tangens, II, 976.
+- — finalis, II, 306. V, 486.
+- — instrumentalis, I, 545.
+- — noumenon, I, 475. III, 777. V, 650. VI, 181.
+- — occasionalis, I, 530.
+- Cautio, VI, 34. 319. f.
+- Celeritas, I, 588.
+- Certitudo, III, 1.
+- Character, VI, 228. ff.
+- — cognitionis et rei, IV, 247.
+- — empiricus, V, 303.
+- Christianismus, I, 756.
+- Chronometria, VI, 277. f.
+- Civitas, V, 84. 376.
+- Civitatis forma, I, 801.
+- Clara, III, 652.
+- Clericus, I, 772. IV, 702. V, 750.
+- Coactio, VI, 328.
+- Coalitus, I, 776.
+- Coelum, III, 271.
+- Coena domini, I, 787.
+- Cogitare, II, 52.
+- Cogito ergo sum, I, 784.
+- Cognitio, II, 377. IV, 131.
+- — clara, III, 652.
+- — distincta, II, 86.
+- — ex principiis, V, 840.
+- — intellectualis, V, 841.
+- — naturalis, IV, 416.
+- — quae rem adaequat, VI, 282.
+- — rationalis, V, 840.
+- — sensitiva, V, 841.
+- — specifica, V, 423.
+- — symbolica, V, 423.
+- Cognitionis perfectio consummata, VI, 282.
+- Cognoscere, II, 374.
+- Cohaerentia corporum, VI, 315. f.
+- Cohaesio, VI, 315. f.
+- Collectio animi, VI, 287.
+- Colligere animum, V, 156.
+- Collisio officiorum, I, 785.
+- Colonia, I, 786.
+- Colonus, I, 786.
+- Color, II, 535.
+- Commercium, II, 839.
+- Commercium animae et corporis, II, 853.
+- Commilitonicidium, V, 403.
+- Commiseratio, IV, 313.
+- Commodatarius, I, 526.
+- Commodator, I, 247.
+- Commodatum, II, 433. III, 879. VI, 33.
+- Communicabilitas, IV, 314.
+- Communio, I, 788. II, 408. 849.
+- — corporis et sanguinis Christi, I, 787.
+- Communio fidelium II, 851.
+- — mei et tui originaria, II, 408.
+- [VI, 567] Communio primaeva, II, 408.
+- — sentiendi liberalis, III, 292.
+- — sentiendi servilis s. illiberalis III, 292.
+- — temporis et spatii II, 849.
+- Commutatio late sic dicta II, 838.
+- Compassibilitas, V, 401.
+- Complacentia, VI, 206. ff.
+- Complementum, V, 678.
+- Complementum possibilitatis, IV, 340.
+- Completudo, VI, 282.
+- — externa, VI, 282.
+- — interna, VI, 282.
+- Compositio, VI, 317.
+- Compositum ideale, VI, 251.
+- — reale II, 850. VI, 251.
+- Comprehendere, I, 482. V, 789.
+- Comprehensio, VI, 314.
+- — aesthetica, VI, 314.
+- — logica, V, 314.
+- Concedere, I, 741.
+- Conceptus, I, 484.
+- — communis, I, 690.
+- — comparationis, I, 505. f.
+- — completus, I, 414.
+- — connati, I, 227. 490.
+- — cosmicus, VI, 128.
+- — cosmologicus, VI, 128.
+- — elementaris, II, 262.
+- — empiricus, I, 490.
+- — inanis, I, 493.
+- — infinitus, I, 493.
+- — intellectualis, I, 493.
+- — libertatis, II, 658.
+- — naturalis, IV, 412.
+- — ostensivus, IV, 503.
+- — practicus, I, 500.
+- — problematicus, I, 507.
+- — purus, I, 491.
+- — ratiocinans, I, 508. V, 790.
+- — ratiocinatus, I, 509. V, 790.
+- — rationis, I, 805.
+- — reciproci, VI, 107.
+- — reflectionis, I, 505. f.
+- — rem adaequans, VI, 23.
+- — sensitivus, I, 493.
+- — theoreticus, I, 500.
+- Conceptus usurpatus, I, 503.
+- Concilium multorum, I, 355.
+- Conclusio, V, 208. 216.
+- Conditio naturalis, IV, 411.
+- — sensibilis, IV, 411.
+- Conductio, VI, 33.
+- Conferva fontinalis, I, 716.
+- Configurationes, I, 795.
+- Congressus, VI, 319.
+- Conjunctio, V, 733.
+- Conscientia, I, 321. 687. II, 963.
+- — praemonens, II, 976.
+- Consequentia, V, 647.
+- — immediata, V, 203.
+- — mediata, V, 203.
+- Consilia, I, 254.
+- — prudentiae, IV, 757.
+- Constitutio, I, 800.
+- Constitutionis eversio, V, 135.
+- Construere, I, 814.
+- Consuetudo, III, 12. V, 254.
+- Consummatum, III, 191.
+- Contemplativum, I, 836.
+- Contentio, II, 256.
+- Contingens mere in mundo non datur, IV, 459.
+- Contingentia, VI, 291. ff.
+- — phaenomenon, VI, 295.
+- — noumenon, VI, 297.
+- Continui lex I, 838.
+- Continuitas, I, 837.
+- Continuitatis lex I, 838.
+- Contradictio in adjecto, VI, 325.
+- Contradictorium, II, 591.
+- Contrarie oppositum, III, 749.
+- Conversio per accidens, II, 591. V, 206.
+- — simplex s. simpliciter talis, II, 591. V, 206.
+- Conversum, V, 206.
+- Convertens, V, 206.
+- Convictio, V, 609.
+- Copula carnalis, I, 523.
+- Cor, III, 261.
+- Corporaliter, I, 792.
+- Corpus, I, 779.
+- Corpus atomum, I, 372.
+- — indivisibile, I, 372.
+- [VI, 568] Corpus insectile, I, 372.
+- — minimum, I, 372.
+- — organicum, IV, 487.
+- — organisatum, IV, 487.
+- Corpusculum, I, 372.
+- — individuum, I, 372.
+- Corruptio, III, 224.
+- Cosmologia, III, 664.
+- — rationalis, V, 806.
+- Cosmologicus, III, 666.
+- Cosmopoliticum totum, VI, 147.
+- Cosmopolitismus, VI, 247.
+- Credulitas, III, 867.
+- Critica rationis purae, I, 850.
+- Criticismus metaphysicus, III, 722.
+- Culpa, V, 606.
+- Cultus, III, 631.
+- — spurius, I, 107. III, 146. 419.
+- Curia multorum, I, 355.
+- Cyclopaedia, II, 293.
+
+### D
+
+- Dabile, II, 714.
+- Daemonologia, II, 1.
+- Dare, II, 711.
+- Datum, I, 383. II, 714.
+- Debere, V, 347.
+- Debitum, V, 241.
+- Debitum personalissimum, I, 125.
+- Declaratio, II, 410.
+- Deductio, II, 37.
+- — ad absurdum, I, 668.
+- Defectus, IV, 54.
+- Definitio hybrida, I, 465.
+- — nominalis, V, 148.
+- — nominis, V, 148.
+- — realis, V, 147.
+- — rei, V, 147.
+- Degeneratio, IV, 742.
+- Delirium, VI, 1.
+- Dementia, VI, 5.
+- Demeritum, V, 606.
+- Demonstrabilis, II, 43.
+- Demonstrare, II, 50.
+- Demonstratio, II, 48. V, 695.
+- — apagogica, I, 668.
+- Densitas, II, 97.
+- Densum, II, 95.
+- Dependens, II, 618.
+- Dependentia, II, 62.
+- Depositum, VI, 33.
+- Derelictio, V, 30.
+- Derelinquere, VI, 32.
+- Desiderium, V, 267.
+- Desperatio, VI, 39.
+- Destinatum, IV, 313.
+- Destructionis animus, V, 231.
+- Detentio, V, 20.
+- Determinatio, I, 556.
+- — absoluta, I, 556.
+- — assumtiva, I, 556.
+- Determinismus, II, 79.
+- Deus, III, 91.
+- Devotio, I, 203.
+- — spuria, I, 205. III, 146. 419.
+- Dialectica, II, 88. V, 851.
+- Dictum de omni et nullo, II, 103.
+- Difficile, V, 251.
+- Dignitas, VI, 217. f.
+- Directe, I, 264.
+- Directio, I, 585.
+- — extraordinaria, II, 677.
+- Discere, III, 883.
+- Disciplina, II, 114.
+- Discrimen, IV, 247.
+- Discursivum, II, 130.
+- Dispositio, I, 242.
+- — acquisita, VI, 289. f.
+- Disputare, II, 134.
+- Dissipatio, VI, 286. f.
+- Distractio, VI, 286. ff.
+- Ditio conceptuum, II, 725.
+- Divisibilitas, V, 491.
+- Divisio, V, 499.
+- Divisio dogmatica, II, 255.
+- Divitiae, V, 106.
+- Doctrina elementaris, II, 262.
+- Dogma, II, 140.
+- Dogmaticum, II, 143.
+- Dogmatismus, II, 151.
+- Dolus, V, 606.
+- — malus, V, 606.
+- Domesticus, II, 234.
+- Domicilium conceptuum, I, 381.
+- [VI, 569] Dominium, III, 184.
+- Dominus, III, 184.
+- Donatarius, I, 552.
+- Donatio, VI, 33.
+- Dormitus, V, 195.
+- Dubium, VI, 363. f.
+- Duratio noumenon, VI, 271.
+- Durum, III, 243.
+- Dynamica, II, 176.
+
+### E
+
+- Ecclesia, III, 611.
+- Ecclesiae ratio, III, 649.
+- Ectypon, III, 373.
+- Eductum, II, 185.
+- Effectus, III, 215. ff.
+- — gratiae, III, 83.
+- Efficio, II, 407.
+- Effigies, I, 706.
+- Elasticitas, II, 256.
+- Elasticum, II, 261.
+- Elater, II, 255.
+- — animi, III, 495. V, 565.
+- Elegantiae laudem adfectans, II, 871.
+- Elementum corporis individuum, I, 372.
+- Eloquentia, I, 532.
+- — oratoria, I, 532.
+- Empiricum, II, 290.
+- Emtio, VI, 33.
+- Encyclopaedia, II, 293.
+- Ens, II, 103.
+- — entium, III, 374.
+- — imaginarium, II, 106. V, 639. VI, 267.
+- — intelligens, III, 488.
+- — organicum, IV, 487.
+- — organisatum, IV, 487.
+- — originarium, III, 374. V, 520.
+- — per aggregationem, I, 120.
+- — phaenomenon, II, 106.
+- — possibile, II, 106.
+- — rationis, II, 106. 750. V, 639.
+- — rationis ratiocinatae, V, 814.
+- — reale, II, 106.
+- — realissimum, I, 561.
+- Ens, simplex simpliciter et rigorose dictum, II, 227.
+- — substantiale, II, 106.
+- — summum, III, 374.
+- — transscendentaliter imaginarium, VI, 250.
+- Enthusiasmus, II, 320.
+- Enunciatio, V, 157.
+- Epicureismus, II, 332.
+- Epicurus, II, 328.
+- Epigenesis, II, 333.
+- Essentia, VI, 171.
+- Essentialia, IV, 251.
+- Ethica, II, 445.
+- Ethicotheologia, II, 446. IV, 361.
+- Ethnicismus, V, 121.
+- — brutus, V, 121.
+- — speciosus, V, 121.
+- Eucharistia, I, 787.
+- Euclides, II, 448.
+- Everire, II, 875.
+- Eventus, I, 481.
+- Evolvere, VI, 279. f.
+- Excitatio, I, 408.
+- Exemplar, IV, 383.
+- Exemplaris, II, 465.
+- Exemplum, I, 522.
+- Ex experientia ortum, II, 290.
+- Exhibere, II, 50.
+- Exhibitio, II, 6.
+- Existentia, II, 16. 466.
+- Exlex, III, 748.
+- Experientia, II, 336.
+- Experimentum, I, 523.
+- Expletio spatii, II, 365.
+- Explicare, VI, 279. f.
+- Explicatio, II, 385.
+- Exponens, II, 469.
+- Expositio, II, 470.
+- Extensio, I, 409.
+- Extra nos, I, 438.
+- Extremum bonorum, III, 189.
+
+### F
+
+- Facetiae, V, 194.
+- Facile, V, 251.
+- Factum, I, 481. III, 764. V, 487.
+- [VI, 570] Factum derivativum, V, 489.
+- — imputabile, V, 488.
+- — intelligibile, V, 488.
+- — licitum, V, 1.
+- — noumenon, III, 225. V, 488.
+- — originarium, V, 488.
+- — phaenomenon, III, 225. V, 489.
+- — sensibile, V, 489.
+- Facultas, I, 525.
+- — abstrahendi, VI, 10.
+- — animae, V, 266.
+- — appetitiva superior, VI, 174.
+- — attendendi, VI, 10.
+- — cognoscendi, II, 384.
+- — consequentiarum immediatarum, V, 763.
+- — determinandi, V, 714.
+- — dijudicandi, V, 717.
+- — divinatrix, VI, 101.
+- — gustandi, II, 886.
+- — juridica, I, 478 V, 1.
+- — locomativa, I, 649.
+- — moralis, I, 479. V, 1.
+- — olfaciendi, II, 873.
+- — ratiocinandi, V, 763.
+- — reflectendi, VI, 10.
+- — res merae facultatis, I, 525.
+- Facultatum cognoscendi ditio II, 725.
+- Fallacia, IV, 505.
+- — sensuum, I, 562.
+- Falsitas, I, 562. 567.
+- — transscendentalis, V, 634.
+- Familia cognoscitivarum, II, 513.
+- — facultatum cognoscendi, II, 513.
+- Fanaticismus, II, 516. V, 242.
+- Fas, V, 1.
+- Fascinatio, V, 301.
+- Fatalismus, II, 547.
+- Fatum, II, 554. V, 194.
+- Favor, III, 187.
+- Felicitas aeterna, VI, 303, ff.
+- — summa, III, 46.
+- Felix, III, 42.
+- Fidejussio, VI, 34. 319.
+- Fides, III, 14. V, 843.
+- Fides, dubia, VI, 364. f.
+- Fieri, II, 875.
+- Figura, I, 706.
+- Figura logica, II, 581.
+- Finis, VI, 328. ff.
+- — bonorum, III, 184.
+- — creationis, VI, 334.
+- — divinus, VI, 334.
+- — materialis VI, 336. naturalis VI, 336. f. rationis summus VI, 336. objective practicus VI, 344.
+- Finitum, IV, 313.
+- Flere, VI, 114.
+- Fluidum, II, 612.
+- Focus imaginarius, V, 556.
+- Foedus Amphyctionum, II, 808. V, 40.
+- Formido, II, 702.
+- Forma, V, 313.
+- — finalis, VI, 345. ff.
+- — rationis, II, 753.
+- Formula, II, 619.
+- Fortitudo, V, 583.
+- — moralis, V, 582.
+- Fortunatus, III, 42.
+- Fractio panis, I, 787.
+- Fragile, V, 375.
+- Fragilitas, II, 749.
+- Friabilia, V, 376.
+- Frictio, V, 95.
+- Functio, II, 687.
+
+### G
+
+- Galaxia, IV, 307.
+- Galena, I, 596.
+- Generalitas, V, 608.
+- Generatio aequivoca, V, 444.
+- Generatio teleologica, II, 444.
+- Generis humani varietas nativa, IV, 232.
+- Genesis, V, 842.
+- Genius, II, 834. 863.
+- Genus, V, 309.
+- Geometria, II, 872.
+- Gestio negotii, VI, 34.
+- Glebae adscriptitius, III, 182.
+- — adscriptus, III, 182.
+- [VI, 571] Gravitatio, III, 146.
+- Gubernatio, V, 84.
+- Gustatus, II, 886.
+- Gustus, II, 886. V, 295.
+- Gustus significatu latiori, II, 889.
+
+### H
+
+- Habilitas, II, 879.
+- Habitus, II, 576.
+- — libertatis II, 577.
+- Haematites, I, 798.
+- Haereticus, III, 608.
+- Harmonia, III, 233.
+- — generaliter stabilita, III, 234.
+- — praestabilita, III, 234.
+- — singulariter stabilita, III, 234.
+- Heautonomia judicii, III, 255.
+- Hermeneutica sacra, V, 125.
+- Herus, III, 184. 250.
+- Heteronomia, III, 264.
+- Hiatus, IV, 37.
+- Hilaritas, II, 677.
+- Historia generis humani, IV, 222.
+- — naturalis, IV, 417.
+- Homicidium, V, 403.
+- — dolosum, V, 512.
+- — sui ipsius dolosum, V, 282.
+- Hominum stirps, IV, 232.
+- Homo, IV, 211.
+- — bene moratus, IV, 221. moraliter bonus, IV, 220. moraliter malus, IV, 220.
+- — noumenon, II, 970. IV, 212. V, 607. VI, 273.
+- — phaenomenon, II, 970. IV, 213. V, 606.
+- Homogeneitas, III, 37.
+- Honestas externa, II, 198.
+- — interna, II, 201. IV, 556.
+- Honestum, III, 201.
+- Horizon, III, 289.
+- Hospitalitas, III, 290.
+- Hostilitas, III, 290.
+- Hostis injustus, II, 575.
+- Humaniora, III, 291.
+- Humanitas, III, 290.
+- — aesthetica, III, 292.
+- Humanitas, practica, III, 292.
+- Humiliatio, II, 51.
+- Humilitas spuria, III, 710.
+- Humor, III, 767.
+- Hypothesis, III, 328.
+- Hypotheticus, III, 328.
+
+### I
+
+- Idea, V, 786.
+- Idea aesthetica, V, 825.
+- — aesthetica normalis, IV, 432.
+- — cosmologica, VI, 128.
+- — dynamica, V, 835.
+- — mathematica transscendentalis, V, 839.
+- Ideae innatae, I, 227.
+- Idealismus, III, 376.
+- Idealitas, III, 415.
+- Identitas, II, 226.
+- — numerica, III, 417.
+- Idololatria, III, 146. 419.
+- Illusio, V, 173. 301.
+- — empirica, V, 176.
+- — logica, V, 177.
+- — transscendentalis, V, 177.
+- Imaginatio, II, 215.
+- — associans, VI, 36.
+- — plastica, VI, 35.
+- Imago, I, 706.
+- Imitatio, IV, 389.
+- Immaterialitas, III, 421.
+- Immortalitas, V, 641.
+- Impedimentum, III, 279.
+- Imperativus, III, 449.
+- — apodicticus, III, 454.
+- — hypotheticus, III, 455.
+- Imperium in fideles, I, 521. III, 629.
+- — in semetipsum, II, 859. III, 260.
+- Impetus, V, 560.
+- Impossibilitas, V, 634.
+- Impressio fraudulosa, I, 738.
+- Improbitas, V, 682.
+- Impuritas moralis, V, 682.
+- Imputabilitas, VI, 305.
+- [VI, 572] Imputationis modus tollens, VI, 305. modus ponens VI, 305.
+- In concreto, I, 793.
+- Incitabilitas, III, 774.
+- Incitantia, III, 774.
+- Incitatio, III, 774.
+- Inclinatio vituperandi, V, 455.
+- Incorruptibilitas, V, 643.
+- Incredulitas, V, 628.
+- Incrementum, VI, 85.
+- Inculpabile, V, 13.
+- Indirecte, I, 264.
+- Individuum, I, 691. III, 479.
+- Indoles, II, 858. ff.
+- — abjecta, II, 859. erecta, II, 858.
+- — serva, II, 859.
+- Ineptus, II, 545.
+- Inertia, V, 540.
+- Inertiae lex, I, 628.
+- Infans, III, 610.
+- Infanticidium maternale, V, 403.
+- Infernus, III, 285.
+- Infinitum, V, 616.
+- Influxus, II, 233.
+- Ingenium strictius s. materialiter dictum, VI, 203.
+- Ingenuitas, II, 201.
+- Inpenetrabilitas, V, 612.
+- Inpunibile, V, 13.
+- Insania, VI, 6.
+- Inseparabiliter, I, 792.
+- Instinctus, V, 560.
+- Institutio Metaphysices morum, III, 171.
+- Insurrectio, IV, 870.
+- Intellectus, VI, 9.
+- — archetypus, V, 510.
+- — discursivus, VI, 17.
+- — ectypus, VI, 13.
+- — intuitivus, VI, 18.
+- — speculativus, VI, 19.
+- Intelligens, V, 748.
+- Intelligentia, VI, 9.
+- Intelligere, I, 482. V, 789.
+- Intelligibile, II, 403. V, 604.
+- Intentio, V, 304.
+- Interne, I, 37.
+- Internum, III, 481.
+- Interstitia corporum, VI, 365. f.
+- Intervalla, VI, 365. f. temporis, VI, 256.
+- Interpretatio revelationis, I, 417.
+- Intuitus, I, 256.
+- Invidentia, IV, 310.
+- Jucunditas, I, 250.
+- Jucundum, I, 233.
+- Judex, V, 137.
+- Judicare, V, 137.
+- Judicia aequipollentia, V, 205.
+- Judicii eclipses, II, 574.
+- Judicium, V, 662. 696.
+- — aequipollens, V, 205.
+- — aestheticum, I, 568. V, 683.
+- — analyticum, I, 189.
+- — discretivum, V, 699.
+- — disjunctivum, V, 678.
+- — empiricum, V, 715.
+- — hypotheticum, V, 675.
+- — naturale, V, 716.
+- Judicium perceptivum, VI, 101.
+- — pluralivum, V, 669.
+- — practicum, V, 693. 716.
+- — praevium, IV, 202.
+- — purum, V, 723.
+- — rationatum, V, 856.
+- — ratiocinans, V, 856.
+- — subalternatum, V, 205.
+- — syntheticum, II, 405. V, 432.
+- — technicum, V, 724.
+- — teleologicum, V, 724.
+- — theoreticum, V, 694. 724.
+- — transscendentale, V, 723.
+- — verbis expressum, V, 157.
+- Jurisconsultus, V, 47.
+- Jurisperitus, V, 47.
+- Jurisprudentia, V, 47.
+- Jus, II, 445. V, 1. 47.
+- — acquisitum, V, 30.
+- — aequivocum, V, 41.
+- — civile, V, 14.
+- — civile stricte sic dictum, V, 37.
+- — civitatis, IV, 644.
+- — connatum, V, 14.
+- — controversum, V, 38.
+- — cosmopoliticum, V, 40.
+- [VI, 573] Jus exilii, III, 748.
+- — externum, V, 14.
+- — fruendi, V, 21.
+- — gentium, V, 39.
+- — gladii, V, 38.
+- — hospitii, II, 710.
+- — incolatus, V, 34. 41.
+- — inculpatae tutelae, V, 12.
+- — internum, V, 31.
+- — latum, V, 8.
+- — laxiori sensu sumtum, V, 9.
+- — majestaticum, IV, 51.
+- — naturae, IV, 422.
+- — necessitatis, V, 12.
+- — personale, II, 412.
+- — personalissimum, I, 125. 739.
+- — positivum, V, 35.
+- — reale, II, 412. V, 36.
+- — realiter personale, V, 15.
+- — strictum, V, 8.
+- — utendi, V, 21.
+- Jusjurandum, II, 202.
+- Justificatio, V, 41.
+- Justum, V, 1.
+- Justum sui, II, 201.
+
+### L
+
+- Lacrymari, VI, 114.
+- Laicus, V, 750.
+- Lapis acerosus, I, 797.
+- Lapsus judicii, II, 574. V, 699.
+- Latio, I, 570.
+- Latitudinarii ethices, III, 759.
+- Legalitas, III, 780.
+- Leges naturae, IV, 420.
+- Legislator, V, 74.
+- Lemmata, V, 162.
+- Lex, V, 66.
+- — antagonismi, II, 804.
+- — ethica, IV, 567.
+- — continui, VI, 32.
+- — externa, V, 67.
+- — formalis, V, 73.
+- — inertiae, V, 544.
+- — justi, V, 71.
+- — justitiae, V, 69. 71.
+- — nova, V, 105.
+- Lex, permissiva, II, 388. V, 72.
+- — practica hypothetica, V, 69.
+- — praeceptiva, I, 730.
+- — prohibitiva, II, 731.
+- — specificationis, V, 354.
+- — varietatis, V, 354.
+- — vetus, V, 105.
+- — virtutis, IV, 567.
+- Liber, I, 736.
+- Liberalitas moralis, IV, 1.
+- Libertas, II, 624. indifferentiae II, 655. practica, II, 641. transscendentalis, II, 625.
+- Libido corporalis, VI, 216. naturalis VI, 217. praeternaturalis VI, 217.
+- Licitum, I, 478. II, 386. III, 217.
+- Limitatio, IV, 6.
+- — phaenomenon, IV, 11.
+- Litteratus, V, 406.
+- Livor, IV, 732.
+- Locatio, VI, 33.
+- — operae, VI, 34.
+- — rei, VI, 33.
+- Locupletior, VI, 31.
+- Locus, IV, 500.
+- Logica, IV, 15. V, 850.
+- Logica artificialis, IV, 35.
+- — communis, IV, 35.
+- — elementaris, II, 264. IV, 35.
+- — formalis, IV, 35.
+- — naturalis, IV, 35.
+- — practica utens, V, 852.
+- — scholastica, IV, 35.
+- — sensus communis, IV, 33.
+- — theoretica docens, V, 852.
+- — universalis, II, 264.
+- Logicus, IV, 37.
+- Lubitus, I, 525.
+- Lusus, V, 361.
+- Lusus ingenii, II, 753.
+- Luxuries, V, 250.
+- Luxus, V, 610.
+
+### M
+
+- Machina, IV, 70.
+- Magnitudo, III, 158. f.
+- [VI, 574] Magnum, III, 158. ff.
+- — absolute, III, 161.
+- — non comparative, III, 161.
+- Maiorennis, IV, 378.
+- Malum, I, 732. V, 600.
+- Malum morale, I, 728.
+- Mandatum, I, 569. 741.
+- Mandatum onerosum, VI, 34.
+- Mania, VI, 1.
+- Massa, IV, 70.
+- Materia, IV, 90. V, 313.
+- — medica, IV, 583.
+- Materialis, IV, 72. 129.
+- Materialismus, IV, 73.
+- Mathematicum, IV, 162.
+- Mathesis, III, 163. IV, 130.
+- — applicata, IV, 132.
+- — elementaris, IV, 136.
+- — extensorum, I, 409.
+- — pura, IV, 131.
+- — sublimior, IV, 136.
+- Matrimonium, II, 187.
+- Maxima, IV, 167.
+- Maxima virtutis, V, 589.
+- Maximum, IV, 175.
+- Mechanica metaphysica, IV, 175.
+- Mechanicus, IV, 181.
+- Mechanismus naturae, IV, 182.
+- Medium, IV, 313.
+- Memoria complecti, II, 546.
+- Memoriae mandare, II, 546.
+- Mens conscia recti, IV, 384.
+- — sana, VI, 21.
+- Mensa domini, I, 787.
+- Menstruum, I, 407.
+- Mensurabilitas, II, 568.
+- Mercenarius, VI, 34.
+- Merces, VI, 34.
+- Mere credibile III, 19. V, 843.
+- Metaphysica, IV, 263.
+- — morum, IV, 292.
+- — naturalis, IV, 292.
+- Metathesis, II, 591.
+- Methodologia, IV, 305.
+- Methodologia transscendentalis, V, 459.
+- Methodus, III, 783.
+- — acroamatica, IV, 297.
+- Methodus analytica, IV, 297.
+- — aphoristica, IV, 298.
+- — catechetica, IV, 301.
+- — dialogica, IV, 299.
+- — dogmatica, IV, 297. 300.
+- — erotematica, IV, 300.
+- — fragmentaria, IV, 301.
+- — mathematica, IV, 302.
+- — methodica, IV, 302.
+- — progressiva, IV, 303.
+- — regressiva, IV, 297.
+- — rhapsodistica, IV, 301.
+- — sceptica, IV, 303.
+- — scientifica, IV, 303.
+- — socratica, IV, 299.
+- — syllogistica, IV, 303.
+- — synthetica, IV, 303.
+- — systematica, IV, 304.
+- — tabellaris, IV, 304.
+- — tumultuaris, IV, 305.
+- Metiri, IV, 260.
+- Metropolis, I, 786.
+- Metus, II, 702.
+- Meum, IV, 185. ff.
+- — acquisitum, IV, 186.
+- — connatum, IV, 186. externum, IV, 186. internum, IV, 186.
+- Micrologia, IV, 306.
+- Minera, I, 795.
+- Millenium, III, 629.
+- Ministra, III, 629.
+- Minoritas, IV, 308.
+- Miraculum, VI, 220. ff.
+- Misanthropia, IV, 309.
+- Mitologia, IV, 310.
+- Mitis injuriarum patientia, V, 157.
+- Mobilitas, I, 569.
+- Modalitas, IV, 315.
+- Modus, I, 307. IV, 254.
+- Modus antecedens, V, 678.
+- — consequens, V, 678.
+- — logicus, III, 783.
+- — ponens, V, 678.
+- — tollens, V, 678.
+- Molecula, I, 372. 404.
+- Momentum, IV, 349.
+- — temporis, VI, 251.
+- [VI, 575] Monarcha absolutus, IV, 350.
+- — arctatus, IV, 350.
+- Monarchomachismus sub specie tyrannicidii, IV, 871.
+- Moneta, IV, 378.
+- Monstrum, IV, 310.
+- Moralis, IV, 357.
+- Moralitas, IV, 358. V, 325.
+- Mores, V, 321.
+- Morum magistra, IV, 353. ff.
+- Mors, V, 530.
+- Motivum, I, 647.
+- Motus, I, 570.
+- — acceleratus, I, 596.
+- — apparens, I, 604.
+- — circularis, I, 597.
+- — communis, I, 600.
+- — compositus, I, 607.
+- — curvilineus, I, 601.
+- — inaequabiliter acceleratus, I, 605.
+- — — — retardatus, I, 605.
+- — progrediens, I, 599.
+- — proprius, I, 597.
+- — quantitas, I, 590.
+- — rectilineus, I, 600.
+- — relativus, I, 602.
+- — retardatus, I, 606.
+- — retrogradus, I, 602.
+- — revertens, I, 606.
+- — simplex, I, 598.
+- — uniformis, I, 600.
+- — uniformiter retardatus, I, 601.
+- — variatus, I, 605.
+- — verus, I, 606.
+- Mundus, VI, 120. intelligibilis, IV, 451. phaenomenon, VI, 265. 268.
+- Mundi principium, VI, 127.
+- — architectus, VI, 128.
+- — quantitas, VI, 151.
+- Murcus, II, 703.
+- Murex perversus, I, 586.
+- Musica, IV, 379.
+- Mutuum, I, 246. VI, 33.
+- Mysterium, II, 811. ff.
+
+### N
+
+- Nasus, II, 889.
+- Natura, IV, 393.
+- — adjective, s. formaliter spectata, IV, 394.
+- Naturae cursus, VI, 152.
+- Natura naturans, IV, 401.
+- — naturata, IV, 401.
+- — substantive s. materialiter spectata, IV, 400.
+- Naturae convenienter vive, IV, 406.
+- Naturalista, IV, 410.
+- Naturaliter, I, 792.
+- Necessitas, IV, 437.
+- — logica, IV, 441.
+- — naturae absoluta, III, 95.
+- — non habet legem, V, 13.
+- — noumenon, IV, 442.
+- — phaenomenon, IV, 441.
+- Negatio, V, 746.
+- — phaenomenon, V, 747.
+- Negativum, V, 747.
+- Nicotiana I, 715. paniculata, I, 715. rustica, I, 715.
+- Nexus, V, 743.
+- — analyticus, V, 744.
+- — effectivus, VI, 337. 348.
+- — finalis, VI, 338. ff. 345. ff. 348.
+- — logicus, V, 744.
+- — metaphysicus, V, 744.
+- — physicus, V, 744.
+- — realis, V, 744.
+- — syntheticus, V, 744.
+- Nihil negativum, V, 639.
+- — privativum, V, 639. 746.
+- Nisus formativus, I, 710.
+- Nobile, II, 184.
+- Noogonia, IV, 431.
+- Nota, IV, 247. affirmativa, IV, 250. analytica, IV, 249. constitutiva, IV, 251. contingens, IV, 250. externa, IV, 249. extraessentialis, IV, 250. positiva, IV, 250. variabilis, IV, 250. essentialis in sensu strictissimo, IV, 251. notarum primitivarum [VI, 576] s. conceptum aliquem primitive constituentium complexus, IV, 251. coordinata, IV, 251. mediata, IV, 252. remota, IV, 252. foecunda, gravior, IV, 254. interna, IV, 254. infoecunda, levior, IV, 254. necessaria, invariabilis, essentialis, ad essentiam s. internam possibilitatem pertinens, IV, 254 subordinata, IV, 256, synthetica, IV, 256. immediata, proxima IV, 257. insufficiens, IV, 258. negativa, IV, 258. sufficiens, IV, 259. intermedia, IV, 259.
+
+- Notio, I, 493.
+- Noumena, I, 131.
+- Noumenon sensu positivo, IV, 448.
+
+### O
+
+- Obedire, II, 830.
+- Objectivum, IV, 449.
+- Oblatio, I, 231. VI, 27.
+- Oblatum, I, 232. VI, 27.
+- Obligandi ratio, I, 786.
+- Obligatio, V, 732.
+- — ethica, V, 590.
+- Observatio, I, 523.
+- Obsidis praestatio, VI, 319.
+- Obstaculum, III, 279.
+- Obtractio, IV, 390.
+- Occasionalismus, IV, 453.
+- Occupatio, I, 554. II, 410.
+- Odium, III, 248.
+- Odoratus, II, 873.
+- Oficialis, I, 471. III, 629.
+- Officium, IV, 527.
+- Officium absolutum, IV, 560.
+- — commissionis, IV, 558.
+- — contingens, IV, 557.
+- — erga alios, IV, 546.
+- — erga Deum, IV, 558.
+- — erga se ipsum, IV, 549.
+- — ethicum, IV, 542.
+- — externum, IV, 540.
+- Officium honestatis, IV, 542.
+- — hypotheticum, IV, 541.
+- — imperfectum, IV, 561.
+- — internum, IV, 556.
+- — juris, V, 49.
+- — latum, IV, 562.
+- — libertatis externae, IV, 541.
+- — necessarium, IV, 559.
+- — negativum, IV, 558.
+- — omissionis, IV, 558.
+- — oratoris, IV, 535.
+- — perfectum, IV, 561.
+- — positivum, IV, 558.
+- — sacrum, III, 257. IV, 556.
+- — transscendens, IV, 560.
+- — virtutis, IV, 542.
+- — vulgare, IV, 556.
+- Olfactus, II, 873. V, 295.
+- Omissio rei, V, 29.
+- Omnipraesentia phaenomenon, II, 814.
+- Omnitudo realitatis, I, 124.
+- Onerosum, V, 251.
+- Ontologia, V, 550.
+- Opera, I, 740. 742.
+- Operatio gratiae, III, 83.
+- Opificium, III, 221.
+- Opinabile, IV, 205. V, 844.
+- Opinari, IV, 201.
+- Opinio, IV, 204.
+- Oppositio, IV, 460.
+- — actualis realis, IV, 481.
+- — analytica, IV, 461.
+- — contradictoria, IV, 461.
+- — contraria, IV, 462.
+- — dialectica, IV, 463.
+- — logica, IV, 471.
+- — pura, IV, 482.
+- — stricta, IV, 482.
+- — subcontraria, IV, 481.
+- Opulentia, II, 838. IV, 702.
+- — moralis, IV, 554.
+- Opus, I, 740. 742. mechanicum, I, 742.
+- Orbis doctrinae, II, 293.
+- Orcus, III, 285.
+- Ordo, IV, 483.
+- Organa sensuum, V, 294.
+- [VI, 577] Organisatio naturae, IV, 489.
+- Origo, V, 657.
+- Oriri, I, 223. II, 323.
+- Orthodoxia, IV, 502.
+- Orthodoxus, IV, 501.
+- Ostendere II, 50.
+
+### P
+
+- Pactum, VI, 26.
+- — donationis, II, 433. V, 193.
+- — gratuitum, VI, 33.
+- — onerosum, II, 835. VI, 33.
+- — usurarium, VI, 33.
+- — turpe, V, 21.
+- Palatum, II, 889.
+- Palintonia, II, 256.
+- Pantheismus, IV, 504.
+- Paralogismus, IV, 505.
+- Parentes, II, 271.
+- Parricida, IV, 871.
+- Partes homogeneae, V, 500.
+- — integrantes, V, 500.
+- — similares, V, 500.
+- Passio animi, III, 870.
+- Paternitas, I, 706.
+- Pathologicus, IV, 515.
+- Pax, III, 665.
+- Peccatillum, II, 976. IV, 648.
+- Peccatum, V, 605.
+- — derivativum, III, 225. 749.
+- — in potentia, III, 230.
+- — originarium, III, 224.
+- — philosophicum, IV, 648.
+- Pecunia, II, 835.
+- Penetrare, II, 173.
+- Perceptio, IV, 517. VI, 98.
+- Perduellio, I, 276.
+- Perfectio, VI, 40.
+- — consummata cognitionis, VI, 46.
+- — noumenon, VI, 44.
+- — qualitativa, VI, 40.
+- — quantitativa, VI, 43.
+- — transscendentalis, VI, 43.
+- Permanere, II, 175.
+- Permittere, II, 391.
+- Permutatio publica, II, 838. IV, 702.
+- — late sic dicta, VI, 33.
+- — stricte sic dicta, VI, 33.
+- Personalitas, IV, 520.
+- — moralis, IV, 520.
+- — psychologica, IV, 525.
+- — transscendentalis, IV, 525.
+- Perspicax, V, 320.
+- Persuasio, V, 602.
+- Perturbatio animi, III, 870.
+- Perversus, I, 586.
+- Petitio, IV, 664.
+- Phaenomenologia, IV, 563.
+- — generalis, I, 850.
+- Phaenomenon, II, 398.
+- Phantasia, II, 215.
+- Philanthropia, IV, 391. 570.
+- Philautia, II, 212. V, 277.
+- — benevolentiae, V, 279. 568.
+- — complacentiae, V, 279. 568.
+- Philosophia, I, 374. IV, 572.
+- — instrumentalis, V, 851.
+- — moralis, II, 445. IV, 352.
+- — rationalis, V, 850 theoretica, IV, 292. practica, IV, 292.
+- — transscendentalis, V, 550.
+- Phlegma, I, 86.
+- Phoronomia, IV, 589.
+- Physica, III, 662. IV, 423. 590.
+- — pura, I, 391. IV, 424.
+- — rationalis, I, 391. IV, 424.
+- Physicotheologia, IV, 598.
+- Pica, II, 875.
+- Pictura, IV, 52.
+- Pietas, II, 675. III, 141.
+- Pignus, VI, 34. 319.
+- Platonismus, IV, 629.
+- Plorare, VI, 114.
+- Poena, V, 392.
+- — forensis, V, 392. f.
+- — naturalis, V, 391.
+- Poetica, IV, 633.
+- Poetice, IV, 633.
+- Politica, IV, 638.
+- Politicus moralis, IV, 649.
+- Popularitas, IV, 656.
+- [VI, 578] Populus, V, 309.
+- Pori, VI, 365. ff.
+- Positivum malum, IV, 657.
+- Posse, III, 662.
+- Possessio noumenon, II, 410. VI, 29.
+- — phaenomenon, II, 410.
+- Possibilitas, IV, 324.
+- Possibilitas mere logica, IV, 331.
+- — noumenon, IV, 331.
+- — phaenomenon, IV, 331.
+- Postulatum, IV, 664.
+- Potentia, IV, 47.
+- — activa, I, 525.
+- — tremenda, IV, 645.
+- Potestas executoria, V, 84.
+- — incitans, III, 774.
+- — judiciaria, V, 378.
+- — legislatoria, V, 378.
+- Practicus, IV, 688.
+- Praeceptum morale, II, 730.
+- Praecepti signum, II, 731.
+- Praecisio, VI, 23. 282.
+- Praedeterminismus, IV, 678.
+- Praedicabile, I, 506.
+- Praedicamentum, I, 506. III, 513.
+- Praedicatum, IV, 683.
+- Praemium, II, 977.
+- Praesentia perdurabilis, I, 519. 577.
+- Praestabilismus theoriae generationis, IV, 686.
+- Praestatio obsidis, VI, 34.
+- Praevisio, VI, 51.
+- Pragmaticus, IV, 687.
+- Pravitas, III, 224.
+- Praxis, IV, 692.
+- Praestatio, III, 880.
+- Pressio, II, 155.
+- Pretium, IV, 701.
+- Prima naturalia, V, 564.
+- Prima principia Metaphyseos morum, III, 171.
+- Princeps, V, 84.
+- Principiatum, I, 35.
+- Principium, III, 175.
+- Principium domesticum, IV, 706.
+- Principium exclusi tertii seu medii inter duo contradictoria, I, 559.
+- — formale, IV, 706.
+- — formale practicum, IV, 711.
+- — identitatis, III, 417. V, 158.
+- — materiale, IV, 707.
+- — metaphysicum, IV, 708.
+- — naturale, V, 564.
+- — necessitatis, V, 208.
+- — objectivum, IV, 709.
+- — peregrinum, IV, 704.
+- — rationalitatis, V, 208. 767.
+- — rationis, V, 159.
+- — vagum, IV, 709.
+- Probatio, I, 654.
+- Probabilismus, IV, 647.
+- Probabilitas, VI, 104.
+- Probitas, V, 50.
+- Problema, V, 695.
+- Problema morale, IV, 653.
+- — technicum, IV, 653.
+- Proditio eminens, IV, 871.
+- Productio, III, 261.
+- Progenies classivica, IV, 741. V, 201.
+- Progressus, IV, 713.
+- Prolegomena, IV, 716.
+- Promissum, VI, 27.
+- Promtitudo, II, 576.
+- Propalatio, IV, 391.
+- Propensio, III, 221.
+- — intellectualis, III, 498.
+- Propositio, V, 157.
+- — a priori, V, 159.
+- — analytica, V, 160.
+- — demonstrabilis, V, 160.
+- — empirica, V, 160.
+- — exponibilis, V, 161.
+- — indemonstrabilis, V, 161.
+- — logica, V, 162.
+- — major, II, 582. V, 208.
+- — minor, II, 582. V, 208.
+- — practica, V, 162.
+- — synthetica, V, 163.
+- — tautologica, V, 164.
+- — theoretica, V, 164.
+- — transcendentalis, V, 164.
+- Proprietas, VI, 242.
+- [VI, 579] Prosyllogismus, IV, 719.
+- Prototypon, III, 368. 373.
+- Providentia, VI, 55.
+- Prudenter, III, 660.
+- Prudentia, III, 654.
+- Psychologia, IV, 726.
+- Psychologia rationalis, IV, 727. V, 806.
+- Psychologicus, IV, 731.
+- Pudicitia, V, 327.
+- Pudor, V, 169.
+- Pulchritudo, V, 217.
+- Punctum physicum, I, 372.
+- Purgativum, III, 606.
+- Purgatorium, III, 606.
+- Puritas moralis, III, 770.
+- Purus, V, 107.
+
+### Q
+
+- Quaesitum, I, 383.
+- Qualificatus, IV, 732.
+- Qualitas, IV, 733.
+- Qualitas aesthetica, IV, 739.
+- Qualitates corporum universorum, IV, 740.
+- Quantum continuum, II, 611. IV, 790. VI, 312.
+- Quantitas, III, 149. ff. 158.
+- Quantum, III, 158. f.
+- Quid, II, 103.
+- Quies, V, 138.
+- Quies absoluta, V, 139.
+- — respectiva, V, 139.
+
+### R
+
+- Ratio, III, 165. V, 748.
+- — communis, IV, 243.
+- — perversa, V, 507.
+- — sana, V, 716.
+- — sufficiens, VI, 306.
+- Rationis ens, II, 750.
+- Ratiocinium, V, 263.
+- — crypticum, V, 214.
+- — formale, V, 214.
+- Rationalismus, IV, 757.
+- Rationalitas, VI, 9.
+- Reactio, II, 793.
+- Realis, IV, 853.
+- Realismus, IV, 855.
+- Realitas, III, 185. IV, 858. V, 152.
+- Realitas objectiva, I, 472.
+- Realiter oppositum, III, 749.
+- Reatus, V, 605. f.
+- Rebellio, IV, 870.
+- Rebellium, IV, 870.
+- Receptivitas repraesentandi, VI, 73.
+- Rectum, V, 1.
+- Reflexio, V, 53. VI, 10.
+- Regimen paternale, V, 84.
+- Regnum, V, 97.
+- — coelestе, V, 104.
+- — divinum pactitium, V, 105.
+- — gloriae, V, 105.
+- — morale gratiae, V, 102. f.
+- — naturae, V, 103.
+- Regressus, V, 87.
+- Regula, V, 65.
+- — a posteriori, V, 65.
+- — a priori, V, 66.
+- — empirica, V, 65.
+- — necessaria, V, 66.
+- — objectiva, V, 66.
+- Reipublicae forma, I, 801.
+- Relatio, I, 556. 706. IV, 239. V, 110.
+- — localis, I, 571.
+- Relationis subjectum, I, 700. necessarium, I, 705.
+- — terminus, I, 700. 706.
+- Religio, V, 114.
+- Remedium, IV, 313.
+- Remissio, V, 304.
+- Renunciare, VI, 32.
+- Repraesentandi facultas VI, 73.
+- Repraesentatio, VI, 59.
+- Repraesentativa vis VI, 73.
+- Repugnantia, VI, 173.
+- Rerum hujus seculi consummatio, II, 303.
+- Res, II, 103.
+- Res artificialis, V, 23.
+- [VI, 580] Res corporalis, V, 153.
+- — facti, V, 489.
+- — fidei, II, 19.
+- — fungibilis, V, 21.
+- — nullius, II, 396. III, 259.
+- — vacua, VI, 32.
+- Reservatio mentalis, IV, 647.
+- Respectus, I, 556. 700.
+- — logicus, I, 700.
+- Restringere, V, 133.
+- Retorsio jocosa, V, 456.
+- Revelatio divina, IV, 454.
+- — immediata, IV, 454.
+- — supernaturalis, IV, 454.
+- Rex, V, 84.
+- Rhetorice, I, 532.
+- Rigidum, II, 578.
+- Rigorista, V, 138.
+
+### S
+
+- Sacerdos, IV, 702.
+- Sacra coena, I, 787.
+- Sacramentum carnis et sanguinis Jesu Christi, I, 787.
+- — communicatae carnis et sanguinis Christi, I, 787.
+- Sagacitas, I, 154.
+- Saltus, I, 42. V, 376. 458.
+- Salubritatis flatus, IV, 583.
+- Sanctificatio, III, 259.
+- Sanctio, V, 157.
+- Sanctio testamentoria beneficii perpetui, V, 380.
+- Sanctitas, III, 257.
+- Sapiens, VI, 116.
+- Sapientia, VI, 117.
+- Sapor, II, 889. 899.
+- Satietas, V, 154.
+- Satisfactio, V, 41.
+- Saturatio, V, 154.
+- Scepticismus, V, 330.
+- Schema, V, 180.
+- Schematizare, V, 191.
+- Schismaticus, V, 195.
+- Schola, V, 241.
+- Scholastici, V, 233.
+- Scibile, V, 489. 844.
+- Scientia, IV, 131. VI, 201. f.
+- — rationalis, V, 857.
+- Scopus, II, 312. V, 471.
+- Scrupulositas, II, 976.
+- Sedes, V, 328.
+- Seditio, IV, 870.
+- Sensatio, II, 283. V, 286.
+- Sensibilis, II, 278.
+- Sensibilitas asthenica, VI, 40.
+- — sthenica, VI, 40.
+- Sensitivus, V, 290.
+- Sensualis, V, 290.
+- Sensualitas, V, 311.
+- Sensualitas appetitiva, V, 317.
+- — repraesentativa, V, 311.
+- Sensus, I, 472. II, 758. V, 293. 298.
+- — aestheticus, II, 889.
+- — communis, II, 856. 894. V, 297. VI, 9.
+- — — — logicus, VI, 19.
+- — externus, V, 293.
+- — interior, V, 297.
+- — internus, V, 295.
+- — moralis, I, 51.
+- — vagus, V, 295. VI, 39.
+- Sententia, V, 290.
+- Series, V, 106.
+- Servus in sensu stricto, III, 738.
+- Servi dominus, III, 250.
+- Signatio, V, 292.
+- Significatus, I, 472.
+- Signum, VI, 228. ff.
+- Similitas, I, 75.
+- Simplicitas, II, 232.
+- Simpliciter, III, 159. ff.
+- Simultanea, VI, 264.
+- Simulacrum, I, 706.
+- Singulare, III, 479.
+- Socialitas, II, 956.
+- Societas civilis, II, 957.
+- Solennia, VI, 28.
+- Soliditas, V, 612.
+- Solipsista, V, 284.
+- Solipsismus, V, 284. 568.
+- Sollicitatio, V, 348.
+- Solutio, I, 403. V, 695.
+- [VI, 581] Somnium, V, 551.
+- Somnium objective sumtum, V, 553.
+- — subjective sumtum, V, 553.
+- Sorites, V, 352.
+- Sparsim, VI, 288.
+- Spatium, IV, 769.
+- — absolutum, IV, 824. inane, IV, 825. solidum, VI, 308.
+- — vacuum, IV, 825.
+- Species naturales, IV, 741.
+- — visibiles, I, 706.
+- Specificatio jurata, V, 360.
+- Spectaculum theatrale, V, 171.
+- Spes, III, 287.
+- Spiritualismus, V, 364.
+- Spiritualitas, III, 421.
+- Spiritus causticus, V, 455.
+- — malus, II, 831.
+- Spontaneitas absoluta, II, 625.
+- Statuaria, I, 709.
+- Status, VI, 320. f. juridicus, VI, 320. civilis, VI, 321. justitia vacuus, VI, 324. injustus, VI, 325. civilis ethicus, VI, 325. artificialis, VI, 326. naturae, VI, 327.
+- — publici, I, 800.
+- — repraesentativus, VI, 270.
+- — socialis, VI, 326.
+- Statutum, V, 167.
+- Stimulus, I, 254. III, 774. V, 310. 565.
+- Stupiditas, V, 697.
+- Subjectio sub adspectum, II, 6.
+- Subjectus, III, 183.
+- Sublimitas, II, 366.
+- Subreptionis vitium, II, 562. logicum, II, 563. metaphysicum, II, 563.
+- Subsistentia, V, 408.
+- Substantia, V, 409.
+- — elementaris, II, 271.
+- Subtilitas, V, 420.
+- Successio, II, 613.
+- Successive, IV, 388.
+- Sufficientia, VI, 23.
+- Suicidium, V, 531.
+- Suicidium dolosum, V, 282.
+- Sui compos, IV, 50.
+- Summa intelligentia, V, 502.
+- Summum, III, 283.
+- Summum bonum, III, 189.
+- Summus imperans, V, 353.
+- Superbia, III, 280.
+- Supernaturalista, V, 422.
+- Superstitio, I, 20.
+- Supponere, VI, 47.
+- Suppositio, III, 328.
+- Suppositio absoluta, V, 503.
+- — relativa, V, 503.
+- Supremum, III, 191.
+- Syllogismus, V, 203.
+- Symbolum, V, 423.
+- Sympathia, IV, 312. V, 426.
+- Synthesis progressiva, V, 428.
+- — pura, V, 431.
+- — qualitativa, V, 429.
+- — regressiva, V, 431.
+- — speciosa, V, 427.
+- Systema, V, 442.
+
+### T
+
+- Tactus, II, 773. V, 294.
+- Taedium, IV, 311.
+- Technica, V, 464.
+- Tempus, VI, 240. ff. tempore contentum, VI, 275. temporis comprehensio, VI, 274.
+- Temporis determinatio, VI, 274.
+- Tempus fallere, V, 302. temporis ordo, VI, 275. f. series, VI, 76.
+- Temporis ubiquitas, VI, 265.
+- Terminus, II, 581. V, 209.
+- — major, II, 582. V, 209.
+- — medius, II, 581.
+- — minor, II, 582.
+- Terrae motus, II, 334.
+- Terror, V, 236.
+- Theismus, V, 502.
+- Theodicaea, V, 514.
+- — authentica, V, 514.
+- — doctrinalis, V, 515.
+- Theologia, V, 519.
+- [VI, 582] Theologia moralis, IV, 361.
+- — naturalis, V, 521.
+- — rationalis, V, 520.
+- — revelata, V, 520.
+- — transscendentalis, V, 520. 806.
+- Theorema, III, 785.
+- Theoria evolutionis, II, 463.
+- Theoreticus, V, 529.
+- Thetica, V, 530.
+- Theurgia, V, 530.
+- Timiditas, V, 240.
+- Timor, II, 702.
+- Titulus, II, 412. V, 14.
+- Tonus, V, 533.
+- Topiaria, IV, 45.
+- Topica, V, 533.
+- Tortura spiritualis, II, 202.
+- Tranquillitas animi, VI, 498.
+- Transgressio, V, 605.
+- Translatio, VI, 26.
+- Transscendens, V, 603.
+- Transscendentalis, V, 547.
+- Typus, V, 591. VI, 270.
+
+### U
+
+- Ultimum bonum, III, 189.
+- Unitas, II, 240.
+- Universale, III, 480.
+- Universalitas, I, 559. V, 534. 608. 796.
+- Universitas, I, 559. V, 534. 796.
+- Universitas phaenomenon, V, 538.
+- Universum, V, 632.
+- Usucapio, II, 425. 437. V, 28.
+- Usus, II, 737.
+- — dialecticus, II, 738. empiricus, II, 738. formalis, II, 741. illimitatus, II, 748. logicus, II, 742. materialis, II, 743. moralis s. practicus, II, 745.
+- — rationis apodicticus, II, 737.
+- — — — purae polemicus, IV, 634.
+- — realis, II, 745.
+- — speculativus, II, 746.
+- — theoreticus, II, 746.
+- — transscendentalis, II, 747.
+
+### V
+
+- Vacuum, IV, 824. disseminatum, VI, 366.
+- Valor, II, 838. IV, 702. VI, 166.
+- Vana argutatio, V, 374.
+- Variatio, V, 725.
+- Varietas nativa, V, 201.
+- Varium, IV, 57.
+- Velocitas, I, 588. II, 955.
+- Venditio, VI, 33.
+- Verbum, I, 383.
+- Verisimilitudo, V, 178.
+- Veritas, VI, 97. aeterna, VI, 97. empirica, VI, 97.
+- Veritas ex ratione orta, V, 856.
+- — necessaria, VI, 97.
+- — transscendentalis, IV, 324. VI, 97. f.
+- Versatio, V, 201.
+- Verum, VI, 90.
+- Vesania, VI, 6.
+- Via lactea, IV, 307.
+- Vindicatio, II, 433.
+- Vir, IV, 56.
+- Vires hominis naturales, IV, 421.
+- Virtus, III, 145. V, 582.
+- — noumenon, III, 86.
+- — phaenomenon, III, 85.
+- Vis, III, 666.
+- — activa, III, 671.
+- — attractiva, I, 302.
+- — inertiae, II, 801. ff. V, 542.
+- — mortua, III, 705.
+- — motrix, I, 621. III, 670.
+- — primitiva, III, 166.
+- — viva, III, 681.
+- Viscositas, III, 654.
+- Visus, II, 961. V, 294.
+- Vita, III, 770.
+- Vita sensualis, V, 299.
+- Vitiositas, III, 224.
+- Vitium subreptionis, II, 562.
+- Vituperium, V, 455.
+- Vocatio, I, 547.
+- Voluntas, VI, 174.
+- Voluptas, II, 46. IV, 40. V, 300. 737.
+- Vortices Cartesiani, VI, 300.
+
+[VI, 583]
+
+## V. Alphabetisches Verzeichniss der französischen Kunstwörter
+
+### A
+
+- Absence, IV, 54. VI, 286.
+- Absolu, I, 37. V, 611.
+- Abstraction, VI, 10. 286.
+- Abstraire, I, 39.
+- Accéleration, I, 552.
+- Acceptation, I, 250.
+- Accident, I, 46.
+- Acquisition, II, 407.
+- Action, III, 216.
+- Action et réaction, II, 839.
+- Adiaphores, IV, 314.
+- Admiration, VI, 36.
+- Adulateur, V, 216.
+- Affinité, VI, 35.
+- Agir, III, 215.
+- Agrégation, I, 123.
+- Agrégé, I, 120.
+- Agréable, I, 233.
+- Agrément, I, 250.
+- Air dégagé, II, 871.
+- Ambiguité transscendentale, I, 129.
+- Ambition, III, 280.
+- Ame, V, 256.
+- Amence, VI, 2.
+- Amitié, II, 659.
+- Amour, IV, 3.
+- Amour du prochain, IV, 391.
+- — propre, II, 212. V, 277.
+- Amphibologie transscendentale, I, 129.
+- Analogie, I, 141.
+- Analyse, V, 172.
+- Analyser, VI, 279. f.
+- Antagonisme, II, 793.
+- Anthropologie, I, 277.
+- Anthropomorphisme, I, 282.
+- Antinomie, I, 287.
+- Apathie, I, 86.
+- Apparoitre, II, 397.
+- Apperception, I, 687.
+- Apprendre, III, 883.
+- Architectonique, I, 351.
+- Architecture, I, 466.
+- Argent, II, 835.
+- — rouge, I, 796.
+- Argument, I, 686.
+- Argument cosmologique, I, 347.
+- — ontologique, V, 523.
+- Argumentation, I, 654.
+- Argutie vaine, V, 374.
+- [VI, 584] Aristote, I, 359.
+- Arrogance, II, 211.
+- Arrogance morale, V, 589.
+- Art, III, 723.
+- Art de l'orateur, V, 51.
+- — des casuistes, I, 752.
+- — divin, III, 745.
+- — oratoire, I, 532.
+- — poëtique, IV, 633.
+- Article de foi, III, 19.
+- Articulation, I, 368.
+- Asphyxie, V, 180.
+- Atome, I, 371.
+- Attention, VI, 10.
+- Attraction, I, 380.
+- Attribut, II, 212. IV, 682.
+- Autocratie, I, 439.
+- Autonomie, I, 440.
+- Avertissement, V, 393. \*)
+- Axiomes, I, 447.
+- Axiome d'intuition, I, 452.
+- — hybride, VI, 366.
+- Avidité, III, 214.
+
+### B
+
+- Badinage, V, 194.
+- Bagatelle, IV, 648.
+- Batême, V, 459.
+- Béatitude, III, 46.
+- Beauté, V, 217.
+- Bien moral, III, 201.
+- Bienfaisance, VI, 208. f.
+- Bienveillance, VI, 211.
+- Bigotterie, I, 107. 205. III, 146. 419.
+- Bonmots, VI, 205.
+- Bon sens, IV, 293. VI, 21.
+- Bonheur, III, 46.
+- Borné, I, 735.
+- But absolu, II, 312.
+
+### C
+
+- Cacodémon, II, 831.
+- Calorique, IV, 69.
+- Canon, III, 505.
+- Caractère, VI, 228.
+- — de la connoissance et de la chose, IV, 247.
+- — empirique, V, 305.
+- Caricature, III, 511.
+- Cassant, V, 375.
+- Casualité, I, 752.
+- Casuistique, I, 752.
+- Catégorie, III, 513.
+- Cause, V, 644.
+- — finale, II, 306.
+- Caution, VI, 34.
+- Cautionnement, VI, 34. 319. f.
+- Cène sainte, I, 787.
+- Certitude, III, 1.
+- Chasteté, III, 609.
+- Châtiment, V, 393.
+- Chimères, I, 755.
+- Chose de fait, V, 489.
+- Choses, qui dépendent de la simple faculté de les faire, I, 525.
+- — qui n'appartient à personne, III, 259.
+- Christianisme, I, 756.
+- Chronométrie, VI, 277. f.
+- Ciel, III, 271.
+- Claire, III, 652.
+- Clerc, I, 772. IV, 702.
+- Coalition, I, 776.
+- Coeur, III, 261.
+- Cohérence des corps, VI, 315.
+- Cohésion, VI, 315.
+- Collision des devoirs, I, 785. IV, 564.
+- Colonie, I, 786.
+- Commandement moral, II, 730.
+- Commencer, I, 223.
+- Commerce, II, 839.
+- Commerce de l'ame et du corps, II, 853.
+- Commisération, IV, 313.
+- Commission, I, 569. VI, 34.
+- Communicabilité, IV, 314.
+- Communion, I, 787.
+- Communion des fidèles, II, 851.
+- — des saints, II, 851.
+- Composition, VI, 317.
+- [VI, 585] Compréhension, VI, 314.
+- Comprendre, I, 482. V, 789.
+- Concept, I, 484.
+- Concept complet, I, 414.
+- — cosmologique, VI, 128.
+- — élémentaire, II, 262.
+- — naturel, IV, 412.
+- — ostensif, IV, 503.
+- — reciproque, VI, 107.
+- Conclusion, V, 208. 216.
+- Condition naturelle, IV, 411.
+- — sensible, IV, 411.
+- Configurations, I, 795.
+- Congrès, VI, 319.
+- Conionction, V, 733.
+- Connexion des espèces, I, 89.
+- Connoissance, II, 377.
+- — claire, III, 652.
+- — distincte, II, 86.
+- — naturelle, IV, 416.
+- Connoitre, II, 374.
+- Conscience, I, 321. II, 963.
+- Conseils, I, 254.
+- Conseils de la prudence, IV, 757.
+- Consequence, V, 675.
+- Consommation des siècles, II, 303.
+- Constitution, I, 800.
+- Construire, I, 814.
+- Contact, I, 549.
+- Contemplatif, I, 836.
+- Contingence, VI, 291. ff.
+- Continuité, I, 837.
+- Continuité, loi de la, III, 853.
+- Contract, VI, 26.
+- — bienfaisant, VI, 33.
+- — gratuit, VI, 33.
+- — d'interêt, VI, 33.
+- — d'usure, VI, 33.
+- — intéressé, VI, 33.
+- — onereux, VI, 33.
+- Contrainte, VI, 328.
+- Contrat, VI, 26.
+- Conviction, V, 609.
+- Corporel, IV, 129.
+- Corps, I, 779.
+- — organique, IV, 487.
+- — organisé, IV, 487.
+- Correction, V, 393. \*)
+- Cosmologie, III, 664.
+- Cosmologique, III, 666.
+- Cosmothéologie, I, 848.
+- Couleur, II, 535.
+- Courage, IV, 383.
+- Crainte, II, 702.
+- Crédulité, III, 867.
+- Criticisme de la Métaphysique, III, 722.
+- Critique de la raison pure, I, 850.
+- Croissance, VI, 85.
+- Culte, III, 631.
+
+### D
+
+- Débauche, V, 250.
+- Deduction, II, 37.
+- Definition causale, V, 151.
+- — des choses, V, 147.
+- — hybride, I, 465.
+- — nominale, V, 148.
+- — réelle, V, 147.
+- Degrés, de fort petits, I, 103.
+- Délire, VI, 1.
+- Demande, IV, 664.
+- Démence, VI, 5.
+- Démonologie, II, 1.
+- Démonstrable, II, 43.
+- Démonstration, II, 48.
+- Démontrable, II, 43.
+- Démontrer, II, 50.
+- Dense, II, 95.
+- Densité, II, 97. V, 613.
+- Dépendence, II, 62.
+- Derivé, I, 35.
+- Déplaisir, IV, 311.
+- Dépôt, VI, 33.
+- Descartes, II, 70.
+- Desir, V, 267.
+- Desperation, VI, 39.
+- Destin, V, 194.
+- Détail, I, 80.
+- Détermination, I, 556.
+- Déterminisme, II, 79.
+- Devoir, IV, 527. V, 241. 347.
+- [VI, 586] Devoir absolu, IV, 560.
+- — conditionel, IV, 541.
+- — de commission, IV, 558.
+- — de charité, IV, 557.
+- — de droit, IV, 556.
+- — de la liberté externe, IV, 541.
+- — de morale, IV, 542.
+- — de religion, IV, 558.
+- — du droit, V, 49.
+- — envers Dieu, IV, 558.
+- — envers les autres, IV, 546.
+- — envers soi-même, IV, 549.
+- — externe, IV, 540.
+- — hypothétique, IV, 541.
+- — immanent, IV, 556.
+- — imparfait, IV, 561.
+- — interne, IV, 556.
+- — nécessaire, IV, 559.
+- — non rigoureux, IV, 562.
+- — parfait, IV, 562.
+- — positif, IV, 558.
+- — rigoureux, IV, 542.
+- — sacré, IV, 556.
+- — transscendent, IV, 560.
+- — vulgaire, IV, 556.
+- Dévotion, I, 203.
+- Dialectique, II, 88.
+- Dieu, III, 91.
+- Dignité, VI, 217.
+- Direction, I, 585.
+- — extraordinaire, II, 677.
+- Discipline, II, 114.
+- Discursif, II, 130.
+- Disposition, I, 242.
+- — contingente, VI, 289. f.
+- Disputer, II, 134.
+- Dissipation, V, 286.
+- Dissolution, I, 403.
+- Distraction, VI, 286. ff.
+- Divisibilité, V, 491.
+- Division, V, 499.
+- — dogmatique, II, 255.
+- — logique, II, 255.
+- Doctrine élémentaire, II, 262.
+- Dogmatique, II, 143.
+- Dogmatisme de la Métaphysique, II, 151.
+- Dogme, II, 140.
+- Domestique, II, 234.
+- Don, V, 193.
+- Donataire, I, 552.
+- Donateur, V, 193.
+- Donation, V, 193. VI, 33.
+- Donner, II, 711.
+- Doute, VI, 363. f.
+- Droit, V, 1. 47.
+- — acquis, V, 30.
+- — civil, V, 14.
+- — civil en sens étroit, V, 37.
+- — cosmopolite, V, 40.
+- — de la nature, IV, 422. V, 31.
+- — de majesté, IV, 51.
+- — d'équité et de nécessité, V, 8. 40.
+- — de punir, V, 38.
+- — des gens, V, 39.
+- — d'hospitalité, II, 710.
+- — d'usucapion, V, 28.
+- — équivoque, V, 41.
+- — étroit, V, 8.
+- — extérieur, V, 14.
+- — héréditaire, V, 26.
+- — inné, V, 14.
+- — litigieux, V, 38.
+- — naturel, V, 31.
+- — personel, V, 32.
+- — positif, V, 35.
+- — public, V, 32.
+- — public des états, V, 39.
+- — réel, V, 36.
+- — réellement personel, V, 15.
+- — versé dans cette science, V, 47.
+- Dur, III, 243.
+- Dynamique, II, 176. 182.
+
+### E
+
+- Echange, VI, 33.
+- Ecole, V, 241.
+- Effet de la grace, III, 83.
+- Eglise, III, 611.
+- Egoisme, V, 284.
+- Egoiste, V, 284.
+- Elasticité, II, 256.
+- [VI, 587] Elastique, II, 261.
+- Eloquence, I, 533.
+- Empechement, III, 279.
+- Empirique, II, 290.
+- Emprunteur, I, 526.
+- Encouragement, I, 408.
+- Encyclopédie, II, 293.
+- Enfant, III, 610.
+- Enfer, III, 285.
+- Ennemi injuste, II, 575.
+- Enthousiasme, II, 320.
+- Entendement, VI, 9.
+- Entendre, V, 789.
+- Entrée, II, 234.
+- Envie, IV, 310.
+- Epicure, II, 728.
+- Epicuréisme, II, 332.
+- Epigenese, II, 333.
+- Equité, I, 719.
+- Esclave, III, 788.
+- Espace, IV, 769.
+- — absolu, IV, 824.
+- Esperance, III, 286.
+- Esprit, II, 831. ff. VI, 203. f.
+- — malin, II, 831.
+- Essence, VI, 171.
+- Etat, V, 376. VI, 320. f.
+- — civil, VI, 321. de la nature VI, 327.
+- — injuste, VI, 325.
+- — naturel, IV, 426.
+- — sans justice, VI, 324.
+- — social, V, 326.
+- Etendue, I, 409.
+- Ethique, II, 445.
+- Etourderie, IV, 386.
+- Etre chose, II, 103.
+- — dans l'opinion, IV, 201.
+- — intelligent, III, 488.
+- Euclide, II, 448.
+- Exemplaire, II, 465. IV, 383.
+- Exemple, I, 522.
+- Exhibition, II, 6.
+- Existence, II, 16. 466.
+- Expansion, I, 409.
+- Expérience, II, 336.
+- Explication, II, 385.
+- Exposant, II, 469.
+- Exposition, II, 470.
+- Expression, VI, 59.
+- Extension, I, 409.
+
+### F
+
+- Facétie, V, 194.
+- Faculté, I, 525. choses qui dépendent de la simple faculté de les faire, I, 525.
+- — de deviner, VI, 101.
+- — de l'ame, V, 266.
+- — de l'ame de mouvoir la matière, I, 649.
+- — de représentation, VI, 73.
+- — juridique, I, 478.
+- Fait, I, 481. V, 487.
+- — intelligible, V, 488.
+- — sensible, V, 489.
+- Famille, III, 254.
+- — des facultés de connoitre, II, 513.
+- Fanatisme, II, 516. V, 242.
+- Fantaisie, II, 215.
+- Fatalisme, II, 547.
+- Fatalité, V, 194.
+- Fatum, II, 554.
+- Fausseté, I, 567.
+- — transscendentale, V, 634.
+- Faveur, III, 187.
+- Félicité à venir, VI, 303. ff.
+- — suprême, III, 46.
+- Fidéjussion, VI, 319.
+- Figure de logique, II, 581.
+- Fin, VI, 328. ff.
+- — absolue, II, 312.
+- — de la création, VI, 334.
+- — divine, VI, 334. materielle, VI, 336. naturelle, VI, 336.
+- — suprême de la raison, VI, 336.
+- Flatteur, V, 216.
+- Fluide, II, 612.
+- Foi, III, 14. V, 843.
+- — douteuse, VI, 364.
+- — mercenaire, II, 676.
+- — servile, II, 676.
+- Folie, VI, 1.
+- [VI, 588] Fonction, II, 687.
+- Fondation, V, 380.
+- Force, III, 666.
+- — d'inertie, V, 542.
+- — morte, III, 709.
+- — motrice, III, 670. IV, 85.
+- — primitive, III, 166.
+- — vive, III, 681.
+- Formidable, II, 704.
+- Formule, II, 619.
+- Fragilité, II, 749.
+- — de la chair, II, 749.
+- — du coeur, II, 749.
+- Frasque, II, 621.
+- Friction, V, 95.
+- Frivolité, VI, 205.
+- Frottement, V, 95.
+
+### G
+
+- Gage, VI, 34. 319.
+- Gené, II, 871.
+- Génération téléologique, II, 444
+- Génie, II, 834. 863.
+- Géométrie, II, 872.
+- Goût, II, 886. 889.
+- Gravitation, III, 146.
+- Guerre, III, 712.
+- Guerre défensive, III, 714.
+- — d'extermination, I, 437.
+- — d'extirpation, I, 437.
+- — pour punir, III, 712.
+- — pour subjuguer, III, 713.
+
+### H
+
+- Habilité, II, 576.
+- Habileté, II, 879.
+- Habitude, II, 12.
+- Haine, III, 248.
+- Hardi, VI, 205.
+- Harmonie, III, 233.
+- Hazard, IV, 457.
+- Heautonomie du jugement, III, 255.
+- Hérétique, III, 608.
+- Heureux, III, 42.
+- Hiatus, IV, 37.
+- Hilarité, II, 677.
+- Histoire du genre humain, IV, 222.
+- — naturelle, IV, 417.
+- Homicide, V, 531.
+- — de soi-même coupable, V, 282.
+- — meurtre, V, 532.
+- — volontaire, V, 532.
+- Homme, IV, 211.
+- — de bien, IV, 220.
+- — de lettres, V, 406.
+- — d'étude, V, 406.
+- — fait, IV, 56.
+- Homogénéité, III, 37.
+- Honnête homme, IV, 221.
+- Honnêteté externe, II, 198.
+- — interne, II, 201.
+- — juridique, II, 199.
+- Horizon, III, 289.
+- Hors de nous, I, 438.
+- Hospitalité, III, 290.
+- Hostilité, III, 290.
+- Humanité, III, 290.
+- Humeur, III, 767.
+- Humiliation, II, 51.
+- Humilité fausse, III, 710.
+- Hypothèse, III, 328.
+- Hypothétique, III, 328.
+
+### I
+
+- Idéal, III, 368.
+- Idéalisme, III, 375.
+- Idéalité, III, 415.
+- Idée, V, 786.
+- — de la liberté, IV, 431.
+- — cosmologique, VI, 128.
+- — normale du beau, IV, 432.
+- Idées innées, I, 227.
+- — sensitives, I, 80.
+- Idolâtrie, III, 146. 419.
+- Jeu, V, 361.
+- — de théâtre, V, 171.
+- [VI, 589] Illusion, V, 173. 301.
+- — de logique, V, 177.
+- — des sens, I, 562.
+- — empirique, V, 176.
+- — transscendentale, V, 177.
+- Image, I, 706.
+- Imagination, II, 215.
+- Imaginative, II, 215.
+- Imitation, IV, 389.
+- Immanent, II, 234.
+- Immaterialité, II, 421.
+- Impénétrabilité, V, 612.
+- Impératif, III, 449.
+- Impossibilité, V, 634.
+- Impression frauduleuse, I, 738.
+- Impurité morale, V, 632.
+- Inclination, IV, 431.
+- Incorruptibilité, V, 643.
+- Incrédulité, V, 628.
+- Individu, III, 479.
+- Ineptie, II, 546.
+- Inertie, V, 540.
+- Infini, V, 616.
+- Influence, II, 233.
+- Ingénieux, V, 320.
+- Ingénuité, II, 201. IV, 456.
+- Instinct, V, 560.
+- — formatrice, I, 710.
+- Institution de la Métaphysique des moeurs, III, 171.
+- Insurrection, IV, 870.
+- Intelligence, III, 488.
+- Intelligent, V, 748.
+- Intelligible, V, 604.
+- Intérêt, III, 491.
+- — moral, I, 51.
+- Intérieur, III, 481.
+- Interprétation de la révelation, I, 417.
+- Interstices des corps, VI, 365. f.
+- Intuition, I, 256.
+- Jugement, V, 662. 696.
+- — conditionnel, V, 675.
+- — de goût, I, 568.
+- — de perception, VI, 101.
+- — empirique, V, 715.
+- Juger, V, 137.
+- Jurisconsulte, V, 47.
+- Jurisprudence, V, 47.
+- Jus, V, 1.
+- Justification, V, 41.
+
+### L
+
+- Laboureur attaché aux terres, III, 182.
+- Ladrerie, III, 661.
+- Légalité, III, 780.
+- Lemmes, V, 162.
+- Léfine, III, 661.
+- Lettré, V, 406.
+- Liberalité morale, IV, 1.
+- Liberté, II, 624.
+- — morale, II, 641.
+- Lieu, IV, 500.
+- Limitation, II, 254. IV, 6.
+- Livre, I, 736.
+- Logique, IV, 15. 37. V, 850.
+- — élémentaire, II, 264.
+- Loi, V, 66.
+- — de la justice, V, 69.
+- — de la nature, IV, 420.
+- — de la varieté, V, 354.
+- — de nature empirique, V, 72.
+- — d'inertie, V, 544.
+- — divine, V, 75.
+- — du juste, V, 72.
+- — extérieure, V, 67.
+- — extérieure naturelle, V, 68.
+- — formelle, V, 73.
+- — materielle, V, 77.
+- — morale, II, 730. IV, 567. V, 72. 77.
+- — pragmatique, V, 27.
+- — statutaire, V, 79.
+- — transscendentale, V, 80.
+- Louage, VI, 33.
+- — d'un bien, VI, 33.
+- — de la peine, VI, 34.
+- Lourd, V, 251.
+- Loyer, VI, 34.
+- Luxe, IV, 46. V, 610.
+
+### M
+
+- Machine, IV, 70.
+- Majeure, IV, 378. V, 208.
+- [VI, 590] Mal, V, 599.
+- — moral, I, 728.
+- — positif, IV, 657.
+- Mandement, I, 569. VI, 34.
+- Manie, VI, 1.
+- Maniéré, IV, 55.
+- Manque, IV, 54.
+- Manfuetude, V, 157.
+- Marche, II, 706.
+- Mariage, II, 187.
+- Marteau d'eau, IV, 71.
+- Masse, IV, 70.
+- Matérialisme, IV, 73.
+- Materiel, IV, 72. 129.
+- Mathématique, IV, 130. 162.
+- Matière, IV, 90.
+- Matière, plus basses et moins organisées parties d'elle, I, 103.
+- Maxime, IV, 167.
+- — de la vertu, V, 589.
+- Méchanique, IV, 181.
+- — métaphysique, IV, 175.
+- Méchanisme de la nature, IV, 182.
+- Médisance, IV, 390.
+- Menstrue, I, 407.
+- Mercenaire, VI, 34.
+- Mesquinerie, III, 661.
+- Mesurer, IV, 260.
+- Métaphysique, IV, 263.
+- Méthode, III, 783.
+- Métier, III, 221.
+- Mieu de droit, IV, 191.
+- Minceure, V, 208.
+- Minorité, IV, 308.
+- Miracle, VI, 220. ff.
+- Misanthropie, IV, 309.
+- Misère, II, 811.
+- Mobilité, I, 569.
+- Modalité, IV, 315.
+- Modestie, V, 327.
+- Moeurs, V, 321.
+- Moi, à, IV, 185.
+- Molécule, I, 372.
+- Moment, IV, 349.
+- Monarque absolu, IV, 350.
+- — tempéré, IV, 350.
+- Monde, VI, 120. commencement du monde, VI, 127. architecte du monde, VI, 128 quantité du monde, VI, 151. cours du monde, VI, 152.
+- Monnoye, IV, 378.
+- Monstre, IV, 310.
+- Morale, IV, 357.
+- Moralité, IV, 358. V, 325.
+- Mort, V, 530.
+- Motif, I, 647.
+- Mouvement, I, 570. quantité du mouvement, I, 590.
+- — absolu, I, 593.
+- — accéleré, I, 596.
+- — apparent, I, 604.
+- — circulaire, I, 597.
+- — commun, I, 600.
+- — composé, I, 607.
+- — curviligne, I, 601.
+- — de rotation, I, 597.
+- — également accéleré, I, 601.
+- — également retardé, I, 601.
+- — inégalement accéleré, I, 603.
+- — inégalement retardé, I, 603.
+- — progressiv, I, 599.
+- — propre, I, 597.
+- — quantité du, I, 590.
+- — qui étend l'espace, I, 599.
+- — rectiligne, I, 600.
+- — relatif, I, 602.
+- — retardé, I, 606.
+- — rétrograde, I, 602.
+- — revenant, I, 606.
+- — simple, I, 598.
+- — tremblant, I, 596.
+- — uniforme, I, 600.
+- — varié, I, 606.
+- Moyen, IV, 313.
+- — de la grace, III, 74.
+- Musique, IV, 379.
+
+### N
+
+- Naturalifte, IV, 410.
+- Nature, IV, 393.
+- Nécessité, IV, 437.
+- Négativ, V, 747.
+- [VI, 591] Négation, V, 746.
+- Nexe, V, 743.
+- — analytique, V, 744.
+- — final, VI, 345. ff.
+- — logical, V, 744.
+- — métaphysical, V, 744.
+- — physique, V, 744.
+- — réel, V, 745.
+- — synthétique, V, 745.
+- Noble, II, 184.
+- Note, IV, 247.
+
+### O
+
+- Obéir, II, 830.
+- Objectif, IV, 449.
+- Objet, II, 778.
+- — de foi, III, 19.
+- — d'opinion, IV, 205.
+- Obligation, V, 732.
+- — morale, V, 590.
+- Obstacle, III, 279.
+- Occasionalisme, IV, 453.
+- Occupation, I, 554.
+- Odorat, II, 873.
+- Offerte, I, 231.
+- Official, I, 471.
+- Onereux, V, 251.
+- Ontologie, V, 550.
+- Opération de la grace, III, 83.
+- Opinable, IV, 205.
+- Opinion, IV, 204.
+- Opposition, IV, 460.
+- — analytique, IV, 461.
+- — contradictoire, IV, 461.
+- — contraire, IV, 462.
+- — dialectique, IV, 463.
+- — logicale, IV, 471.
+- — pure, IV, 482.
+- — réale, IV, 472.
+- — stricte, IV, 482.
+- — subcontraire, IV, 481.
+- Orateur, V, 50.
+- Ordre, IV, 483.
+- Organisation de la nature, IV, 489.
+- Orienter, se, IV, 494.
+- Origine, V, 657.
+- Orthodoxe, IV, 501.
+- Orthodoxie, IV, 502.
+- Otage, VI, 34. VI, 319.
+- Ouie, II, 826.
+
+### P
+
+- Paix, II, 665.
+- Panthéisme, IV, 504.
+- Paralogisme, IV, 505.
+- Parents, II, 271.
+- Passion, III, 870.
+- Pathologique, IV, 515.
+- Patience, molle des injures, V, 157.
+- Peine, V, 392.
+- — humaine, V, 393. judiciaire, V, 393. f. naturelle, V, 392.
+- Peinture, IV, 52.
+- Penchant, III, 221.
+- — à blamer, V, 455.
+- Pénétrer, II, 175.
+- Penser, II, 52.
+- Perception, I, 321. IV, 517. VI, 98.
+- Père de famille, III, 250.
+- Perfection, VI, 40.
+- Permis, II, 386.
+- Permutation, VI, 33.
+- Personalité, IV, 520.
+- Personalité morale, IV, 520.
+- — psychologique, IV, 525.
+- — transscendentale, IV, 525.
+- Persuasion, V, 662.
+- Peur, II, 702.
+- Phaenoménologie, IV, 563.
+- Phénomène, II, 398.
+- Philanthropie, IV, 391. 570.
+- Philosophie, IV, 573.
+- Philosophie morale, IV, 352.
+- — sceptique, V, 330.
+- — transscendentale, V, 550.
+- Phoronomie, IV, 589.
+- Physique, III, 662. IV, 423. 590.
+- Piété, II, 675. III, 141.
+- Plaisanterie, V, 194.
+- [VI, 592] Plaisir, V, 737. VI, 206. ff.
+- — de la chair VI, 216. f. naturel, VI, 217. contre la nature, VI, 217.
+- Platon, IV, 615.
+- Platonisme, IV, 629.
+- Pleurer, VI, 114.
+- Pneumatologie, IV, 632.
+- Poësie, IV, 633.
+- Politique, IV, 638.
+- — morale, IV, 649.
+- Politesse, III, 284.
+- Popularité, IV, 656.
+- Pores, VI, 365. f.
+- Posséder, se, IV, 50.
+- Possibilité, IV, 324.
+- Postulat, IV, 664.
+- Pouvoir, III, 662.
+- Pragmatique, IV, 687.
+- Pratique, IV, 688. 692.
+- Précepte, III, 449.
+- Prédéterminisme, IV, 678.
+- Prédicament III, 513.
+- Premières impression de la nature, V, 564.
+- Premiers principes de la Métaphysique des moeurs, III, 171.
+- Prendre origine, II, 323.
+- Pression, II, 155.
+- Prestation, III, 880.
+- Prêt, I, 246.
+- — à usage, III, 879. VI, 33.
+- — à consomption, VI, 33.
+- Prêtre, IV, 702.
+- Prêteur, I, 247.
+- Prévision, VI, 51.
+- Prière, II, 717.
+- Prince régnant, V, 84.
+- Principe, I, 205. III, 175.
+- — domestique, IV, 706.
+- — de Métaphysique, IV, 708.
+- — formal, IV, 706.
+- — formel de pratique, IV, 711.
+- — matériel, IV, 707.
+- — objectif, IV, 709.
+- — péregrin, IV, 704.
+- — supérieur, IV, 707.
+- — vague, IV, 709.
+- Prix, IV, 701.
+- Probabilité, VI, 104.
+- Probation, I, 654.
+- Probité, V, 50.
+- Problème, V, 695.
+- Procuration, I, 569.
+- Production, III, 261.
+- Profession, III, 221.
+- Progrès, IV, 713.
+- Prolegomènes, IV, 716.
+- Proposition, V, 157.
+- — à priori, V, 159.
+- — analytique, V, 160.
+- — de logique, V, 162.
+- — démonstrable, V, 160.
+- — empirique, V, 160.
+- — explicable, V, 161.
+- — indémonstrable, V, 161.
+- — pratique, V, 162.
+- — synthétique, V, 163.
+- — transscendentale, V, 164.
+- — théorique, V, 164.
+- Prosyllogisme, IV, 719.
+- Providence, VI, 55.
+- Prudemment, III, 660.
+- Prudence, III, 654.
+- Psychologie, IV, 726.
+- Psychologique, IV, 731.
+- Pudeur, V, 169.
+- Puissance, IV, 47.
+- Pur, IV, 107.
+- Pureté morale, III, 770.
+- Purgatif, III, 606.
+
+### Q
+
+- Qualifié, IV, 732.
+- Qualité, IV, 733.
+- Qualité inherente, I, 315.
+- Quantité, III, 149.
+
+### R
+
+- Race, IV, 741.
+- Raison, III, 165. V, 748.
+- — suffisante, VI, 306.
+- [VI, 593] Rapport, I, 700.
+- Rassasiement, V, 154.
+- Réaction, II, 793.
+- Réalifer, IV, 854.
+- Réalifme, IV, 855.
+- Réalité, IV, 858. V, 152.
+- Réalité, le tout d'elle, I, 124.
+- Réalité, objective, IV, 324.
+- Rébellion, IV, 870.
+- Recueillir ses esprits, V, 156.
+- Réel, IV, 853.
+- Réflexion, V, 53. VI, 10.
+- Regent, V, 84.
+- Régle, V, 65.
+- — du goût, II, 915.
+- — empirique, V, 65.
+- — générale, V, 83.
+- — nécessaire, V, 66.
+- — universelle, V, 84.
+- Régne, V, 97. de la gloire, V, 105.
+- — de la grace, V, 102.
+- — du ciel, V, 104.
+- Regrès, V, 87.
+- Relation, V, 110.
+- Religion, V, 114.
+- — docte, V, 130.
+- — morale, V, 130.
+- — naturelle, V, 130.
+- — révelée, V, 130.
+- Repos, V, 138.
+- — absolu, V, 139.
+- — respectif, V, 139.
+- Rendre sensuel, V, 287.
+- Représentation, VI, 59.
+- Réprimande, V, 393.*)
+- Répugnance, VI, 173.
+- Ressemblance, I, 75.
+- Ressort, II, 256.
+- — de l'ame, V, 565.
+- — sensitif, I, 254.
+- Restreindre, V, 133.
+- Retenir dans la mémoire, II, 546.
+- Révélation divine, IV, 454.
+- — immediate, IV, 454.
+- — surnaturelle, IV, 454.
+- Révolution, V, 135.
+- Rhétorique, I, 532.
+- Richesse, V, 106.
+- Rigoriste, V, 138.
+- Royaume du ciel, V, 104.
+- Ruse, V, 201.
+
+### S
+
+- Sacré devoir, III, 257.
+- Sagacité, V, 154.
+- Sage, VI, 116.
+- Sagesse, VI, 117.
+- Sainteté, III, 257.
+- Sanctification, III, 259.
+- Sanction, V, 157.
+- Satisfaction, V, 41.
+- Saturation, V, 154.
+- Saut, I, 42.
+- Scepticisme, V, 330.
+- Schematiser, V, 191.
+- Schême, V, 180.
+- Schismatique, V, 195.
+- Scholastiqués, V, 233.
+- Science, VI, 201.
+- — de l'homme, I, 277.
+- Se faire, II, 875.
+- Sédition, IV, 870.
+- Sens, V, 293.
+- Sens commun, II, 856. V, 297. VI, 19.
+- — externe, V, 293.
+- — intérieur, V, 297.
+- — interne, V, 295.
+- — moral, I, 51.
+- — vague, V, 295. VI, 39.
+- Sensation, II, 283. V, 286. 298.
+- Sensible, II, 278.
+- Sensitiv, V, 290.
+- Sensualité, V, 311.
+- — représentative, V, 311.
+- — appétitive, V, 317.
+- Sensuel, V, 290.
+- Sentence, V, 291.
+- Sentiment, V, 298.
+- — intérieur, I, 322.
+- Séparatiste, V, 292.
+- Série, V, 106.
+- Serment, II, 202.
+- [VI, 594] Siège, V, 328.
+- Signalement, V, 292.
+- Signe, VI, 228.
+- Simple, II, 227.
+- Simplicité, II, 232.
+- Singulier, V, 351.
+- Sociabilité, II, 956.
+- Société civile, II, 957.
+- Solidité, V, 612.
+- Sollicitation, V, 348.
+- Sommeil, V, 195.
+- Songe, V, 551.
+- Soulevement, IV, 870.
+- Soutenir, V, 379.
+- Souverain, V, 353.
+- Souverain bien, III, 189.
+- Spiritualisme, V, 364.
+- Spiritualité, III, 421.
+- Statuaire, I, 709.
+- Statut, V, 167.
+- Subreption, II, 562.
+- Subsistance, V, 408.
+- Substance, V, 409.
+- — élémentaire, II, 271.
+- Subtilité, V, 420.
+- — de l'esprit, V, 170.
+- Succession, II, 613.
+- Successivement, IV, 388.
+- Suicide, V, 531.
+- Suicide coupable, V, 282.
+- Superficialité, 268.
+- Supernaturalisme, V, 422.
+- Superstition, I, 20.
+- Superstition religieuse, III, 419.
+- Suposer, VI, 47.
+- Supposition, III, 328.
+- Suprême, III, 283.
+- Surprise, VI, 36.
+- Syllogisme, V, 203.
+- Symbole, V, 423.
+- Sympathie, IV, 312. V, 426.
+- Synthèse intellectuelle, V, 427.
+- — mathématique, V, 428.
+- — progressive, V, 428.
+- — pure, V, 431.
+- — qualitative, V, 429.
+- — quantitative, V, 429.
+- — regressive, V, 431.
+- Synthèse sensuelle, V, 432.
+- — spécieuse, V, 427.
+- — transcendentale, V, 432.
+- Système, V, 442.
+
+### T
+
+- Tact, II, 773.
+- Talent, V, 456.
+- Technique, V, 464.
+- Téléologie, V, 465.
+- Temps, VI, 249. ff. compris du temps, VI, 274. contenu du temps, VI, 275. détermination du temps VI, 274. ordre du temps, VI, 274. f. série du temps, VI, 276.
+- Ténacité, III, 654.
+- Termes, V, 209.
+- Terme majeur, V, 209.
+- — mineur, V, 210.
+- — moien, V, 210.
+- Terreur, V, 236.
+- Théisme, V, 500.
+- Théodicée, V, 514.
+- — authentique, V, 514.
+- — doctrinale, V, 515.
+- Théologie, V, 519.
+- — morale, II, 446. IV, 361.
+- — physique, IV, 598.
+- Théorème, III, 785.
+- Théoretique, V, 529.
+- Théorique, V, 529.
+- Théurgie, V, 530.
+- Timidité, V, 240.
+- Ton, V, 533.
+- Topique, V, 533.
+- Totalité, V, 534. cosmopolitique, VI, 147.
+- Toucher, II, 773.
+- Tourbillons de Descartes, VI, 200.
+- Tranquillité de l'esprit, VI, 293.
+- Transcendant, V, 603.
+- Transcendental, V, 547.
+- Transgression, V, 605.
+- Tremblement de terre, II, 334.
+- Type, V, 591.
+
+[VI, 595]
+
+### U
+
+- Unicité, VI, 47.
+- Unité, II, 240.
+- Univers, V, 632.
+- Usage, II, 737.
+- Usage polémique de la raison pure, IV, 634.
+
+### V
+
+- Valeur, VI, 166.
+- Variation, V, 625.
+- Variété, IV, 58.
+- — native, V, 201.
+- — native du genre humain, IV, 232.
+- Verité, VI, 33. 97. f. éternelle, VI, 97. empirique, VI, 97.
+- Verité nécessaire, VI, 97.
+- — transcendentale, IV, 324. VI, 98. f.
+- Vertige, V, 253.
+- Vertu, V, 582.
+- Vertus naturelles de l'homme, IV, 421.
+- Vice, III, 749.
+- Vie, III, 770.
+- Vie animale, I, 240.
+- Vie sensuelle, V, 299.
+- Vitesse, I, 588. II, 955.
+- Vocation, I, 547.
+- Voie de lait, IV, 307.
+- — lactée, IV, 307.
+- Volonté, VI, 174.
+- Volupté, IV, 40. V, 300.
+- Vrai, VI, 90.
+- Vraisemblence, V, 178.
+- Vue, II, 961. V, 294.
+
+[VI, 596]
+
+## VI. Alphabetisches Verzeichniss
+
+*der Schriftsteller.*
+
+### A
+
+- Abicht, I, 874.
+- Achenwall, II, 835. IV, 699. f.
+- Aenesidemus, V, 337.
+- Alkmäon, IV, 729.
+- Al-Rasi, III, 864.
+- Anaxagoras, I, 201. ff. 313. 375. IV, 120. 729. V, 365.
+- Anaximander, IV, 823.
+- Anselm, II, 78.
+- Antisthenes, I, 763.
+- Apollonius, IV, 161. VI, 350.
+- Arcesilas, V, 338.
+- Archelaus, I, 375.
+- Archimedes, IV, 161.
+- d'Argens, VI, 22.
+- Aristoteles, I, 139. 168. 359. ff. 375. 545. 579. f. 583. 772. II. 90. 264. III, 253. ff. 522. 528. IV, 120. 160. 500. \*) 594. 639. 728. V, 553. 853. VI, 259. f. 270. 361.
+- Aristoxenus, IV, 88.
+- Arnold, V, 595.
+- Asklepiades, I, 375.
+- Athenaeus, I, 533.
+- Augustinus, I, 34. 48. \*)
+- Avicenna, IV, 121.
+
+### B
+
+- Bacon, I, 567. II, 663. f. V, 595.
+- Barbeyrac, I, 528. II, 391.
+- Barrow, IV, 162.
+- P. a St. Bartholomaeo, IV, 229.
+- Batteux, II, 157. 897. \*)
+- Baumgarten, I, 5. 85. 185. 198. 227. 352. f. 369. 468. ff. 559. 652. 756. II, 35. 110. 234. 617. 619. IV, 486. V, 851. VI, 214. 216. 293.
+- Bayle, I, 579. 583. II, 536. III, 793. V, 373.
+- Beattie, III, 302.
+- Beccaria, V, 399.
+- Beck, IV, 45.
+- Bendavid, V, 123.
+- Berengarius, I, 792.
+- Bergk, II, 277. 664. IV, 872.
+- Bergmann, I, 275. 796.
+- Berkley, I, 533. III, 391.
+- Bernoulli, III, 247. 683. IV, 162. 206.
+- Bibel, 1 Mos., 2-6. IV, 227.
+- 1 Mos., 2, 16. 17. III, 231.
+- — 3, 1. III, 231.
+- — 3, 5. III, 231.
+- — 3, 6. III, 231.
+- [VI, 597] 1 Mos. 3, 16. II, 194.
+- — 9, 6. V, 395. \*)
+- — 19, 18-21. V, 396.
+- — 47, 20. III, 183.
+- 2 Mos., 3, 6. V, 126.
+- — 21, 23-25. V, 396.
+- — 22, 10-13. I, 530.
+- — 24, 1. 10. 34, 6. V, 126.
+- 3 Mos., 24, 17. 21. V, 395. \*)
+- — 24, 18-20. V, 396.
+- 5 Mos., 32, 35. I, 429.
+- 1 König., 20, 3. III, 713. \*)
+- — 21, 19. V, 395. \*)
+- Esth., 7, 10. V, 395. \*)
+- Hiob, 13, 7. V, 517.
+- — 13, 7-10. II, 531. \*)
+- Psalm, 59, 11-16. I, 426.
+- Jesaia, 43, 13. 48, 16. 49, 1. V, 126.
+- Jerem., 43, 1. V, 126.
+- Dan., 6, 24. V, 395. \*)
+- Weish., 11, 16. 17. V, 396.
+- — 18, 5. V, 395. \*)
+- Matth., 3, 2. V, 104.
+- — 3, 13-17. V, 462.
+- — 4, 17. V, 104.
+- — 5, 3. I, 771.
+- — 5, 11. 12. I, 762.
+- — 5, 27. 43. 44. I, 427.
+- — 5, 34-37. II, 209.
+- — 5, 48. VI, 42.
+- — 6, 10. III, 647.
+- — 6, 33. I, 757. 762.
+- — 7, 2. V, 396.
+- — 11, 30. III, 630. V, 252.
+- — 17, 20. II, 723.
+- — 22, 37. ff. I, 762. II, 735. f.
+- — 25, 31. ff. II, 817.
+- — 26, 10. III, 205.
+- — 26, 26. I, 787.
+- — 26, 27. I, 787.
+- — 27, 23. I, 733.
+- — 28, 19. 20. V, 460.
+- Marc., 7, 3. 4. V, 460.
+- — 14, 6. III, 205.
+- — 15, 14. I, 733.
+- — 16, 15. 16. V, 460.
+- Luc., 8, 15. III, 205.
+- Luc., 9, 50. I, 432.
+- — 11, 2. I, 762.
+- — 11, 38. V, 460.
+- — 16, 25. I, 734.
+- — 17, 21. 22. I, 760. 762. III, 630.
+- — 23, 22. I, 733.
+- Joh., 3, 22. 26. 4, 1. 2. V, 462.
+- — 5, 39. I, 433.
+- — 8, 44. IV, 588.
+- — 10, 33. III, 205.
+- — 11, 50. V, 395.
+- — 14, 20. I, 792.
+- — 16, 13. I, 433.
+- Ap. Gesch., 11, 42. I, 787.
+- — 24, 4. I, 727. 25, 19. 17, 22. I, 32.
+- — 28, 5. I, 734.
+- Röm., 1, 30. I, 734.
+- — 2, 9. 3, 8. 7, 19. 21. 9, 11. 12, 17. 21. 13, 3. 4. 10. 14, 20. 16, 19. I, 733.
+- — 2, 15. II, 968. \*)
+- — 5, 12. III, 231.
+- — 7, 16. 18. 21. 12, 17. 14, 21. III, 205.
+- — 7, 18. II, 749.
+- — 12, 6. I, 432.
+- 1 Kor., 10, 6. I, 733.
+- — 10, 16. I, 787. f.
+- — 10, 17. I, 789. 792.
+- — 10, 21. I, 787.
+- — 11, 20. I, 787.
+- — 11, 26. I, 789.
+- — 13, 3. II, 529. \*)
+- — 13, 5. I, 734.
+- — 13, 11. III, 644.
+- — 15, 26. III, 621.
+- — 15, 28. III, 621. 644.
+- 2 Kor., 3, 6. IV, 221.
+- — 5, 10. 13, 7. I, 733.
+- — 8, 21. 13, 7. III, 205.
+- — 10, 1. I, 727.
+- Galat., 4, 18. III, 205.
+- Ephes. 4, 5. V, 459.
+- — 5, 26. V, 459.
+- Phil., 3, 20. VI, 273.
+- [VI, 598] Coloss., 2, 23. I, 32.
+- 1 Thess., 4, 1. VI, 41.
+- — 5, 15. I, 733.
+- 1 Tim., 1, 8. III, 205.
+- — 6, 10. I, 733.
+- 2 Tim., 2, 3. III, 205.
+- — 3, 16. I, 432.
+- Titum, 2, 7. III, 205.
+- — 3, 5. V, 459.
+- 1 Petr., 1, 16. I, 762.
+- — 2, 12. III, 205.
+- — 3, 9. I, 733.
+- — 3, 10-12. I, 734.
+- 1 Joh., 5, 3. V, 252.
+- 3 Joh., 11. I, 734.
+- Ebräer, 5, 14. I, 733. III, 205.
+- — 11, 1. V, 845.
+- — 12, 14. I, 762.
+- Jacobi, 1, 13. I, 733.
+- — 3, 8. I, 734.
+- — 3, 13. III, 205.
+- — 3, 17. I, 727.
+- Off. Joh., 2, 10. I, 762.
+- — 3, 21. I, 762.
+- — 5, 3. VI, 272.
+- — 10, 5. 6. VI, 272.
+- Bilfinger, III, 697. VI, 216.
+- Blair, I, 205.
+- Blühdorn, III, 742. \*) V, 834. \*)
+- Blumenbach, I, 587. 711. ff. 713. 798. IV, 236.
+- Boethius, II, 552.
+- Bombelli, IV, 161.
+- Bonaventura, IV, 122.
+- Bonnet, I, 103. II, 185. 463.
+- Boscowich, IV, 102.
+- Bosmann, II, 205. f.
+- Bourguet, I, 341.
+- Bourignon, II, 517. ff.
+- Brastberger, II, 472. III, 514. V, 183. \*) 190. \*)
+- Büffon, I, 346. 556. II, 538.
+- Buhle, I, 365. f.
+- Burke, I, 743. V, 229.
+- Burnet, I, 337.
+
+### C
+
+- Calvin, II, 85.
+- Camariota, II, 548.
+- Camerer, VI, 350.
+- Campanella, II, 493.
+- Canz, VI, 216.
+- Cardan, IV, 161.
+- Carnot, V, 621.
+- Carpov, VI, 216.
+- Cat, I, 341.
+- Cavalleri, IV, 161.
+- Cerdon, III, 608.
+- Charmander, VI, 350.
+- Charondas, III, 254.
+- Chatelet, III, 690.
+- Chemnitz, I, 586.
+- Chrysipp, IV, 83. 582. VI, 261.
+- Cicero, I, 33. 90. 202. 203. 375. 531. II, 439. 545.
+- Clarke, III, 797. 826. ff. IV, 596.
+- Clavius, IV, 800.
+- Clemens von Alexandrien, I, 33. 202. 203. III, 608.
+- Cochius, V, 584.
+- Condorcet, I, 712.
+- Cotes, I, 314.
+- Crusius, I, 867. II, 93. 265. 563. ff. III, 10. f. 528.
+- Cudworth, I, 7. 89.
+
+### D
+
+- De Lüc, IV, 102. V, 519.
+- Democrit, I, 139. 374. f. 752. IV, 78. 100. 307. 729.
+- Desaguliers, III, 684.
+- Descartes, I, 229. 230. 310. 342. 374. 411. 545. 784. II, 70. ff. 536. III, 118. 394. 692. 836. IV, 101. 122. 162. 595. 730. V, 543. 556. VI, 199. f.
+- Desguignes, IV, 748.
+- Diodorus Kronus, I, 375. 578. II, 551.
+- Diogenes Laertius, I, 168. 313. 375. II, 89.
+- — von Sinope, I, 729. 764.
+- Diophantus, IV, 161.
+- [VI, 599] Drelincourt, I, 711.
+- Durande, I, 274.
+
+### E
+
+- Eberhard, II, 278. ff. IV, 86. V, 389. VI, 252. f. 301. ff.
+- Eberstein, II, 78. V, 389. VI, 22.
+- Ekphantus, I, 375.
+- Empedocles, I, 375.
+- Engel, I, 340.
+- Engelhard, III, 751. \*)
+- Epikur, I, 375. 563. ff. 570. 753. 765. ff. II, 328. ff. 536. 767. V, 78.
+- Epiktet, I, 769.
+- Epimenides, III, 254.
+- Erxleben, I, 377. III, 275. IV, 597.
+- Euklides, II, 448. ff. IV, 161.
+- Euler, I, 3. 310. f. 839. II, 456. ff. 541. f. 565. 611. IV, 162. 597. V, 524. **) 310.
+
+### F
+
+- Fabricius, II, 548.
+- Feder, I, 153.
+- Fermat, I, 314.
+- Fichte, VI, 294.
+- Fischer, IV, 598.
+- Flatt, V, 662. 674. 682. 854. 855.
+- Fontenelle, V, 572. VI, 200.
+- Forster, IV, 236. ff. 418. f.
+- Friedrich, II, 214. VI, 213. 216.
+- Fülleborn, I, 367. IV, 86. VI, 363.
+
+### G
+
+- Galilei, IV, 307.
+- Garve, I, 357. III, 755. IV, 639. 695. f. V, 759. \*) 760. \*) 764. \*) 770. \*) 773. \*)
+- Gassendi, I, 375. II, 328. IV, 84. V, 495.
+- Gehler, I, 307. 309. 310. 314. 376. 404. 570. 595. 615. 628. II, 199. 543. 799. 830. III, 683. IV, 65. 307. 598. V, 466. ff. 473. 496. ff.
+- Gelenius, IV, 595.
+- Gensichen, III, 272.
+- Gerhard, I, 350.
+- Geulincs, III, 236.
+- Gleichen, I, 350.
+- Goethals, VI, 261. f.
+- Gratianus, I, 772.
+- Gravesand, I, 381. III, 684.
+- Gren, IV, 597.
+- Grotius, I, 525. II, 390. 439. III, 713. IV, 871.
+
+### H
+
+- Haller, I, 713. 843. III, 127. IV, 548.
+- Halley, I, 714.
+- Hamberger, III, 685.
+- Hammond, I, 727.
+- Harris, VI, 258.
+- Heinsius, III, 684.
+- Helvetius, IV, 87. 765. V, 457.
+- Heraklit, I, 375. II, 551. III, 365.
+- Herodot, IV, 748.
+- Herrmann, III, 683.
+- Herschel, III, 272. IV, 307.
+- Hervey, VI, 262.
+- Herz, I, 837. II, 292. IV, 597.
+- Heydenreich, I, 3.
+- Hilarius, I, 792. V, 463.
+- de la Hire, IV, 60.
+- Hissmann, I, 229.
+- Hobbes, I, 356. II, 441. 552. III, 717. \*) 826. IV, 84. VI, 322. 327.
+- Hollmann, I, 349.
+- Home, I, 58. II, 81.
+- Hook, I, 314. 344.
+- Horaz, II, 321. IV, 229. 563.
+- Hudibras, V, 559.
+- Hufeland, III, 774.
+- Hume, I, 9. 181. 193. 356. 388.
+
+[VI, 600] f. 450. II, 119. ff. III, 13. f. 295. ff. 551.
+- Hutcheson, III, 819. ff.
+- Huygens, IV, 206.
+- Hyppon, IV, 729.
+
+### I
+
+- Jacobs, I, 177.
+- Jakob, I, 358. II, 266. f. 543.
+- Johnson, VI, 206.
+- Josephus, I, 203.
+- Isidorus, I, 772.
+- Jurin, III, 684.
+- Justi, I, 346.
+
+### K
+
+- Kaestner, I, 144. 156. 838. ff. III, 683.
+- Karneadas, V, 339.
+- Keil, IV, 828 **)
+- Kepler, I, 314. III, 606. ff. IV, 223.
+- Kiesewetter, I, 123. 156. 268. 488. II, 266. f. 851.
+- Kleanth, IV, 83.
+- Klein, I, 480. IV, 189.
+- Kleuker, IV, 230.
+- Knapp, I, 426.
+- Köllner, III, 775.
+- Kölreuter, I, 715.
+- Krates, I, 768.
+- Kritias, IV, 729.
+- Krüger, I, 345.
+
+### L
+
+- Lange, I, 869.
+- La Hire, IV, 60.
+- La Mettrie, IV, 85.
+- Lactantius, I, 34. II, 2.
+- Lamark, I, 373.
+- Lambert, I, 7. 40. 51. 76. 352. f. 397. 415. f. 417. 452. 669. II, 593. III, 273. 528. V, 613. 617. ***) 723. V, 853.
+- Lange, VI, 212.
+- Lehmann, I, 351.
+- Leibnitz, I, 80. 102. 123. 229. 230. 413. f. 484. 838. 869. 871. II, 226. 233. 279. 400. III, 118. 122. 236. 681. 686. III, 790. ff. IV, 13. 89. 122. 486.
+- V, 62. 102. 149. 291. 316. f. 373. 600. 853. VI, 47. ff. 212. 249. ff. 264. ff. 279.
+- Leucipp, I, 375. II, 877. IV, 77. 100. 729. V, 651. \*)
+- Lichtenberg, III, 275. IV, 597.
+- Limborch, I, 34. II, 969. IV, 12.
+- Linné I, 341. 556. III, 41.
+- Lipsius, VI, 117.
+- Locke, I, 192. 230. 246. 329. 412. 414. 533. 773. II, 330. III, 394. 528. 550. 552. IV, 12. ff. V, 62. 435. 853.
+- Lohmann, V, 850.
+- Lorenz, IV, 159. 162. V, 628.
+- Loyer, II, 204.
+- de Lüc, I, 338. f. 342. 347. 348. 587. V, 519.
+- Lucrez, I, 168. 314. 375. 563. IV, 594. 842.
+- Luther, I, 430. 727. 734.
+
+### M
+
+- Maclaurin, III, 684.
+- Macrobius, II, 2.
+- Maillet, I, 342.
+- Maimonides, V, 126.
+- Mairan, III, 684.
+- Malebranche, I, 229. 534. 544. IV, 206. 730. V, 853.
+- Mamertus, V, 372.
+- Manilius, IV, 307.
+- Mariotte, IV, 60. ff. 596.
+- Marsil, VI, 264.
+- Marsden, II, 204.
+- Maupertuis, I, 307. 314.
+- Mayer, II, 543.
+- Meier, I, 452. 469. f. 567. II, 157.
+- Meineke, I, 564. ff. 594.
+- Mendelssohn, III, 613. \*) 619. \*) IV, 499. V, 262. VI, 29. 214.
+- Mengs, II, 929. \*)
+- Mercier, V, 596.
+- [VI, 601] Metrodorus Chius I, 375.
+- Meusel, I, 711.
+- Mitchel, IV, 102.
+- Mönnich, IV, 26.
+- Montaigne, IV, 50.
+- Moritz, II, 525.
+- Moro, I, 339. 345. V, 373.
+- Moschus, I, 374.
+- Mosheim, IV, 769.
+- Muschenbroek, III, 704.
+
+### N
+
+- Nemesius, IV, 83.
+- Neper, IV, 161.
+- Newton, I, 30. 311. 314. 375. 796. II, 257. 279. 537. 799. 814. 864. III, 6. f. 693. IV, 67. 124. 208. 826. 836. \*) IV, 223. 500. 596. V, 544.
+- Nicolai, I, 470.
+- Nieuwetyt, IV, 598.
+
+### O
+
+- Occam, VI, 263.
+- Oswald, III, 302.
+
+### P
+
+- Pallas, I, 347.
+- Pappus, IV, 161.
+- Parmenides, I, 168. IV, 464. 504. f. V, 851.
+- Pascal, II, 521.
+- Paschasius Radbert, I, 792.
+- Paul, II, 441.
+- Payley, I, 357.
+- Persius, I, 168.
+- Pictet, II, 85.
+- St. Pierre, II, 666. 808.
+- Plato, I, 13. 139. 228. 229. 772. II, 2. 536. 551. III, 766. \*) IV, 464. 615. ff. 631. 729. VI, 260.
+- Pletho, II, 548. 558.
+- Plinius, IV, 595.
+- Plotin, IV, 121. V, 368.
+- Plüche, I, 339.
+- Plutarch, I, 34. IV, 307. 465.
+- Pörschke, II, 189.
+- Poiret, II, 519.
+- Pope, V, 596. VI, 237.
+- Posidonius, II, 89. IV, 584. \*) VI, 258.
+- Priestley, II, 119. III, 302. IV, 103.
+- Prodikus, III, 608.
+- Protagoras, I, 139.
+- Ptolomäus, IV, 161.
+- Pufendorf, I, 527. II, 390. 442.
+- Purbach, IV, 161.
+- Pyrrho, V, 335.
+- Pythagoras I, 375. VI, 161.
+
+### Q
+
+- Quinctilian, II, 294. 439.
+
+### R
+
+- Raspe, I, 345.
+- Rathmann, III, 182.
+- Ratramn, I, 792.
+- Rautenberg, II, 81.
+- Ray, I, 344.
+- Reid, III, 302.
+- Reimarus, II, 548. V, 468. 482. 561.
+- Reinbeck, VI, 216.
+- Reinhold, I, 874. II, 123. VI, 74. f.
+- Reusch, VI, 216.
+- Rink, IV, 276. V, 139. VI, 214.
+- Roberval, I, 314.
+- Rousseau, I, 357. II, 216. 443. 667. 763. 808. IV, 382. \*)
+- Ruysch, I, 714.
+
+### S
+
+- Sampson, I, 587.
+- Scheuchzer, I, 339.
+- Schiller, I, 65. IV, 660 ff.
+- Schmid, I, 177. 513. II, 15. 320. 664. 702. IV, 275. f.
+- Schmukker, I, 713.
+- Schröter, I, 661.
+- Schultz, I, 192. f. 411. 454. IV, 149. 735. VI, 99. f. 277. f.
+- Schwab, I, 203. 871. f. 873. III, 528. 538. 550. IV, 7. 139. 147. 249. VI, 95. f. 214. ff.
+- [VI, 602] Schwedenborg, V, 425.
+- Scot, I, 792.
+- Segner, IV, 598.
+- Selle, IV, 764. V, 110.
+- Seneca, I, 34. II, 105. IV, 595.
+- Sextus Empiricus, I, 179. 375. 570. f. V, 339.
+- Shaftesbury, II, 320. 526. ff.
+- Sharrock, II, 441.
+- Sidonius Apollinaris, I, 375.
+- Silberschlag, I, 340.
+- Simson, VI, 350.
+- Smith, II, 838.
+- Sokrates, IV, 299. VI, 361.
+- Sömmering, II, 613.
+- Spallanzani, I, 713.
+- Spener, V, 123.
+- Spinoza, II, 549. 553. 561. f. 730. V, 363.
+- Sprengseysen, I, 346.
+- Ständlin, II, 90.
+- Stewart, III, 309.
+- Stobäus, VI, 258.
+- Storr, I, 774. III, 278.
+- Strabo, I, 375.
+- Strato, IV, 82.
+- Suarez, II, 617.
+- Swammerdam, I, 713.
+
+### T
+
+- Teller, I, 727.
+- Tennemann, II, 123. IV, 629. 821.
+- Tertullian, I, 567. 773.
+- Thales, IV, 729. VI, 160.
+- Theodor, II, 664.
+- Theophrast, I, 33. VI, 361.
+- Thomasius, V, 850.
+- Thophail, IV, 121.
+- Tiedemann, II, 105. 550. 617. 619. III, 118. 239. 394. V, 492.
+- Tindal, I, 773.
+- Turretin, II, 85.
+- Tyrius maximus, I, 34.
+
+### V
+
+- Varro, I, 33. II, 439.
+- Veltheim, I, 350.
+- Villault, II, 206.
+
+### W
+
+- Walch, II, 277. VI, 10. \*)
+- Wallerius, I, 342.
+- Wallis, I, 714.
+- Whiston, I, 339.
+- Wiedeburg, I, 346.
+- Winkler, V, 635, 694. \*) VI, 216.
+- Wolff, I, 75. 413. 416. 567. 871. II, 110. 277. 388. 442. 582. III, 250. ff. 665. 703. IV, 2. 123. 188. 485. 597. V, 157. 291. 374. 435. 584. 730. 854. VI, 211. ff. 214. ff.
+- Woodward, I, 338.
+- Wüstemann, I, 867.
+- Wyttenbach, I, 33.
+
+### X
+
+- Xenokrates, I, 375.
+- Xenophanes, I, 168. V, 334.
+
+### Z
+
+- Zeno, I, 168. 768.
+- — von Elea, I, 579. 581. IV, 464.
+- Zimmermann, V, 154. f.
+- Zwanziger, V, 182.
+- Zwingli, II, 792.
+
+[VI, 603]
+
+## VII. Alphabetisches Verzeichniss der griechischen Kunstwörter
+
+### A
+
+- Ἀγαθῷ, V, 393.
+- Ἀδιαίρετον σῶμα, I, 372.
+- Ἀθανασία, V, 641.
+- Ἆθλος, I, 532.
+- Αἱρετικός, III, 608.
+- Αἰσθητόν, I, 85. 139.
+- Αἰτία, V, 644.
+- Αἰών, VI, 260. 264.
+- Ἀλλοιοῦσθαι, I, 88.
+- Ἀναξαγόρας ὁ κλαζομένιος, I, 201.
+- Ἀξιώματα, I, 447.
+- Ἄπειρον, IV, 630. 824. V, 616.
+- Ἀπόδειξις, II, 48.
+- Ἀπόδωσις, II, 470.
+- Ἀπόστασις, IV, 870.
+- Ἀρετή, V, 582. 584.
+- Ἀριστερόν, IV, 815.
+- Ἀριστοτέλης, I, 359.
+- Ἄρω, V, 584.
+- Ἀσφυξία, V, 180.
+- Ἀταραξία, V, 340.
+- Ἄτομος, I, 371. 372.
+- Αὐτοκρατορία, I, 439.
+- Αὐτοκράτωρ, V, 353.
+
+### B
+
+- Βαπτισμός, V, 459. f.
+- Βιβλίον, I, 736.
+- Βίβλος, I, 736.
+
+### Γ
+
+- Γενέσθαι, II, 875.
+- Γεωμετρία, II, 872.
+- Γεῦσις, II, 886.
+- Γευστόν, II, 887.
+
+### Δ
+
+- Δαήμων, II, 2.
+- Δαίμων, II, 2.
+- Δῆσις, II, 717.
+- Δεισιδαιμονία, I, 220.
+- Δεκαδικός, VI, 228.
+- Δεξιόν, IV, 815.
+- Διαλεκτική, I, 88.
+- Διανοεῖσθαι, II, 52.
+- Δίκαια, V, 1.
+- Δίκαιον, V, 1.
+- Δικαίωσις, V, 41.
+- Δίκη, V, 393.
+- Δυαδικός, VI, 228.
+- Δύναμις, I, 525.
+
+### E
+
+- Ἐγκύκλια μαθήματα, II, 393.
+- Ἐγκύκλιος, II, 294.
+- Ἐγκύκλιος παιδεία, II, 293.
+- Ἐγκυκλοπαιδεία, II, 293. f.
+- Εἰδωλολατρεία, III, 419.
+- Εἴδωλον, I, 706.
+- Εἱμαρμένη, II, 554.
+- Εἶναι, II, 875.
+- Ἐμπειρικόν, II, 290.
+- Ἐνθουσιασμός, II, 320.
+- Ἐνύπνιον, V, 551.
+- Ἔξον, II, 386.
+- Ἔξωθεν, I, 438.
+- Ἐπανόρθωσις, V, 393.
+- Ἐπιείκεια, I, 719.
+- Ἐπίκουρος, II, 328.
+- Ἐπιχειρήματα, I, 686.
+- Ἐποχή, V, 340.
+- Εὐκλείδης, II, 448.
+
+### H
+
+- Ἡδονή, II, 330. III, 46. 68.
+
+### Θ
+
+- Θεός, III, 91.
+- Θραῦσμα ἐλάχιστον, I, 372.
+
+### I
+
+- Ἰατρεία τῆς ψυχῆς, V, 394.
+
+### K
+
+- Καθαρτικόν, III, 606.
+- Καθῆκον, IV, 527.
+- Κακόν, I, 728. 733. f. V, 399.
+- Καλόν, III, 201. 205.
+- Καταλαμβάνειν, I, 482.
+- Κατηγορία, III, 513.
+- Κενόν, IV, 825. 838.
+- [VI, 604] Κίνησις, I, 570.
+- Κληρικός, I, 772.
+- Κλῆρος, I, 772.
+- Κλῆσις, I, 547.
+- Κόλασις, V, 393. f.
+- Κόσμος, VI, 120.
+- Κύριαι δόξαι, II, 333.
+
+### Λ
+
+- Λαϊκός, I, 773.
+- Λεπτολογία, IV, 306.
+- Λεπτομερὲς σῶμα, I, 372.
+- Λεπτότατον ἀμερὲς σῶμα, I, 372.
+- Λογικός, IV, 37.
+- Λόγος, V, 748.
+- Λοῦτρον τοῦ ὕδατος, V, 459.
+- Λουτρὸν παλιγγενεσίας καὶ ἀνακαινώσεως πνεύματος ἁγίου, V, 459.
+
+### M
+
+- Ματαία θρησκεία, I, 107.
+- Μέγεθος ἀδιαίρετον, I, 372.
+- Μεῖζον, IV, 630.
+- Μέρας, VI, 252.
+- Μετάβασις εἰς ἄλλο γένος, I, 42. III, 13.
+- Μὴ ὄν, IV, 838.
+- Μικρολογία, IV, 306.
+- Μικρότερον, IV, 630.
+- Μοῖρα, II, 554.
+- Μονάς, I, 372.
+- Μόριον, VI, 252.
+
+### N
+
+- Νοητά, I, 131. 139.
+- Νουθεσία, V, 393.
+- Νοῦς, VI, 9.
+
+### Ξ
+
+- Ξενία, II, 710.
+
+### O
+
+- Ὄγκος, I, 372. IV, 630.
+- Ὅλον, IV, 627.
+- Ὁμόδρομος τῷ ἀγρῷ, III, 182.
+- Ὄν, I, 139. II, 103. IV, 138.
+- Ὂν καθ᾿ αὑτό, I, 131. IV, 447.
+- Ὄντως ὄν, I, 131. IV, 447.
+- Ὁρμή, V, 560.
+- Οὗ ἕνεκα, VI, 328.
+- Οὐσία, II, 16. V, 409.
+- Οὐσία κεχωρισμένη τῶν αἰσθητῶν, I, 139.
+
+### Π
+
+- Παιδεία, II, 294.
+- Παράδειγμα, I, 522. IV, 623. V, 393.
+- Παραίνεσις, V, 393.
+- Πεπρωμένη, II, 554.
+- Πλάτων, IV, 615.
+- Πλήρες, IV, 838.
+- Ποίησις, IV, 633.
+- Ποιητική, IV, 633.
+- Ποιότης, IV, 100. 733.
+- Πόλεμος, III, 712.
+- Ποσότης, III, 149.
+- Προβλήματα, IV, 594.
+- Προσευχή, II, 717.
+- Πρῶτα κατὰ φύσιν, V, 564.
+- Πρώτη οἰκεῖος, V, 564.
+- Πρώτη ὁρμή, V, 563.
+
+### Σ
+
+- Σοφός, IV, 574. VI, 116.
+- Στάσις, IV, 870.
+- Συμβεβηκός, I, 46.
+- Συνείδησις, II, 963.
+- Σφαιροειδής, IV, 630.
+- Σχέσις, I, 700.
+- Σχῆμα, V, 180.
+- Σῶμα σμικρόν, I, 372.
+- Σῶμα σμικρότατον, I, 372.
+
+### T
+
+- Τάξις, IV, 483.
+- Τέλος, III, 189.
+- Τετρακτύς, VI, 228.
+- Τέχνη, III, 723.
+- Τεχνία, V, 464.
+- Τί, II, 103.
+- Τιμωρία, V, 392. f.
+- Τύχος, I, 706. V, 591.
+
+### Υ
+
+- Ὑπόδειγμα, I, 522.
+- Ὑπόστασις, V, 409.
+
+### Φ
+
+- Φαινόμενον, II, 398.
+- Φιλία, II, 659.
+- Φιλοσοφία, IV, 573. f.
+- Φορά, I, 571.
+- Φρόνησις, II, 331.
+- Φύσις, IV, 393.
+
+### Χ
+
+- Χρόνος, VI, 249.
+
+### Ψ
+
+- Ψεῦδος, I, 567.
+- Ψευδὴς ταὐτὴ αἰσθήσεων, I, 562.
+- Ψῆγμα ἐλάχιστον, I, 372.
+
+[VI, 605]
+
+## Druckfehler und Schreibfehler
+
+*Im 1. Bande.*
+
+Seite 7 Zeile 13 von unten statt Fener lies Ferner.
+
+— 37 — 14 v. u. hinter S. fehlt Dependenz; statt Nöthigung, moralische l. Imperativ, 3.
+
+— 98 — 17 v. o. Ellipse muss unterstrichen seyn.
+
+— 126 — 5 v. o. st. Nothwendigkeit l. *A priori* 14. f. u. Totalität.
+
+— 199 — 6 v. o. hinter seyn fehlt (M. I. 220. C. 191. f.).
+
+— 201 — 5 v. u. st. Gesetzlosigkeit l. Regel, 3. mm.
+
+— 203 — 6 v. u. st. Beten l. Gebet.
+
+— 247 — 15 v. u. st. Voraussetzen l. Theismus, 4. u. Postulat, 3. b. γ.
+
+— 247 — 12 v. u. st. K l. R.
+
+— 365 — 17 v. u. hinter fondern fehlt materiale.
+
+— 266 — 8 v. u. hinter Zeit fehlt (Pr. 50. ff.).
+
+— 371 — 11 v. u. st. Vergesellschaftung l. Bewusstseyn, 6.
+
+— 394 — 10 v. o. hinter bleiben fehlt (Pr. 44. f.).
+
+— 416 — 19 v. o. st. Entwickelung l. Begriff, 11.
+
+— — — v. o. st. Definition l. Zergliedern, 4.
+
+— 454 — 5 v. u. hinter seyn fehlt (C. 206. M. I. 241.).
+
+— 514 — 3 v. u. st. Reichthum l. Preis, 3.
+
+— 627 — 6 v. o. hinter bewegt fehlt (N. 107.).
+
+— — — 7 v. o. sind die Worte nicht — sondern wegzustreichen und 9 v. o. hinter Geschwindigkeit die Worte (z. B. durch ihr Gewicht) zu setzen.
+
+— 687 — 7 v. u. st. Erstaunen l. Verwunderung.
+
+— 692 — 3 v. o. fehlt zu Anfang der Zeile die Zahl 4.
+
+— 706 — 8 v. u. st. ειδολον l. είδωλον.
+
+— 786 — 3 v. u. st. S. l. oder; hinter Ungeheuer fehlt S. Urtheil, 10.
+
+— 793 — 12 v. u. st. Mitschuldige l. Strafe, 6.
+
+— 794 — 1 v. u. st. Gelüsten l. Wille, 4.
+
+— 795 — 2 v. o. Wechselwirkung ist wegzustreichen.
+
+— 823 — 13 v. o. hinter st. fehlt M. I. 862.
+
+— — — 18 v. u. hinter 744 fehlt M. I. 863.
+
+— 838 — soll die erste Ziffer der Seitenzahl statt 3 heissen 8.
+
+— 847 Z. 14 v. u. st. Kosmologie l. Kosmologisch.
+
+— 849 — 14 v. o. st. Kosmologie l. Kosmotheologie.
+
+— 850 — 14 v. u. st. Dogmatismus l. Skepticismus, 12.
+
+*Im 2. Bande.*
+
+— 16 — 11 v. u. st. Empfindungen l. Bedingungen.
+
+— 43 — 13 v. o. st. Kategorien l. Kategorie.
+
+— 61 — 10 v. o. hinter 165 fehlt M. I, 353.
+
+— — — 13 v. u. st. Welt, intelligibele, l. Freiheit, 37. ff.
+
+— 62 — 8 v. o. st. Welt, intelligibele, l. Kategorie, 60. ff.
+
+— — — 14 v. u. st. Eigenthümlichkeit, intelligibele, l. Mensch, 5. und Sinnesart.
+
+— 103 — 5 v. o. st. Poesie l. Geschmacksurtheil, 5.
+
+— 139 — 10 v. u. hinter Zweck fehlt (Begriff)
+
+— 219 — 7 v. o. hinter 2 fehlt (M. I, 213.)
+
+— 221 — 12 v. o. hinter I fehlt 163.
+
+— 240 — 17 v. o. st. 244. l. 243.
+
+— 395 — 5 v. u. st. E. l. Z.
+
+— 396 — 17 v. o. st. E. l. Z.
+
+— 405 — 4 v. o. st. Verjährung l. Erwerbung, 24.
+
+— 410 — 4 v. o. st. noumenon l. phaenomenon.
+
+— 470 — 13 v. u. st. 31 l. 32.
+
+— 516 — 10 v. o. st. Schlag l. Menschenschlag.
+
+— 526 — 16 v. o. st. Shaftesburys l. Shaftesburys.
+
+— 621 — 17 v. o. st. Philosophie l. Philosophie, 3.
+
+— 693 — 4 v. u. st. Kuntzen l. Knutzen.
+
+— 774 — 10 v. o. st. Schweigung l. Schwingung.
+
+— 790 — 7 v. u. st. A. l. E.
+
+— 794 — 10 v. u. st. 174. l. 172. f.
+
+— 795 — 10 v. o. hinter bewirkt fehlt (A. 174.).
+
+— 804 — 13 v. u. st. 131. l. 132.
+
+[VI, 606] Seite 834 Zeile 7 v. o. st. genie l. génie.
+
+— 839 — 2 v. o. st. Gottesgelehrter l. Theologie, s.
+
+— — — 9 v. o. st. III l. 111.
+
+— 875 — 11 v. o. hinter wird fehlt (A. 56.).
+
+— 957 — 3 v. u. st. Erreichung l. Errichtung.
+
+— 970 — 17 v. o. st. Baggatelle l. Bagatelle.
+
+*Im 3. Bande.*
+
+— 3 — 2 v. u. hinter 762. fehlt L. 107.
+
+— 180 — 17 v. o. st. Formal l. Princip, formales.
+
+— 181 — 3 v. o. st. Logisch l. Princip, formales.
+
+— 183 — 17 v. o. st. *validitas, validité* l. *realitas, realité*.
+
+— 238 — 11 v. u. st. 331. l. 330. f. M. I. 812.
+
+— 280 — 2 v. o. st. Menschenrace, l. Race, 2. d.
+
+— 401 — 6 v. u. st. Sensibel l. Sensitiv.
+
+— 585 — 18 v. u. st. 168 l. 167.
+
+— 745 — 6 v. o. st. Verstand l. Physicotheologie, 2. a.
+
+— 843 — 20 v. u. st. Der Raum l. Die Zeit.
+
+*Im 4. Bande.*
+
+— 28 — 16 v. u. st. 100 l. 99.
+
+— — — 1 v. u. st. 101 l. 100.
+
+— 40 — 2 v. o. st. Unwahrheit. l. Pflicht gegen sich selbst.
+
+— 101 — 5 v. u. st. Tortolea, Cordan, Bambelli l. Tartalea, Cardan, Bombelli.
+
+— 306 — 14 v. u. st. 154 l. 155.
+
+— 318 — 15 v. o. hinter 1 fehlt 317.
+
+— 323 — 6 v. u. st. ausserordentliches l. ausserwesentliches.
+
+— 328 — 13 v. u. st. kennt l. kannt.
+
+— 387 — 2 v. o. st. Staat l. Colonie.
+
+— 422 — 2 v. o. st. 6 l. 7.
+
+— 433 — — v. o. st. Schönheit l. Zweckmässigkeit, objective.
+
+— 441 — 6 v. o. st. und auch nicht l. sondern auch.
+
+— — — 7 v. o. st. also l. zwar nicht.
+
+— 447 — 1 v. u. st. ὂν τως l. ὄντως.
+
+— 449 — 3 v. u. der Zwecke ist wegzustreichen.
+
+— 460 — 13 v. u. st. Transcendentalphilosophie l. Transscendental, 19.
+
+— 527 — 11 v. u. st. καδικον l. καθῆκον.
+
+— 583 — muss die Seitenzahl st. 633. heissen 583.
+
+— 589 Z. 15 v. u. fehlt hinter Beweis, I.
+
+— 613 — 7 v. o. st. Stärke l. Seelenstärke.
+
+— 623 — 15 v. u. st. μαραδειγματα l. παραδείγματα.
+
+— 630 Anm. 2. st. σφαιροειδες l. σφαιροειδής.
+
+— 703 Z. 13 v. u. st. 7 l. 8.
+
+— 814 — 10 v. o. fehlt das Zeichen der Parenthese (hinter Raum und — — — 13 v. o. hinter Theile).
+
+*Im 5. Bande.*
+
+— 278 — 6 v. o. st. 2 l. 3.
+
+— 330 — 3 v. o. st. Scandal l. Ehrbarkeit.
+
+— 334 — 17 v. o. st. III l. 111.
+
+— 627 — 7 v. u. hinter 1 ist.) wegzustreichen.
+
+— 710 — 5 v. u. hinter ff fehlt M. II, 419.
+
+— 712 — 2 v. o. hinter f. fehlt M. II, 428.

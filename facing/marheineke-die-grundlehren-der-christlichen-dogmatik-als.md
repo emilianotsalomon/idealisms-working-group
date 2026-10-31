@@ -1,0 +1,7588 @@
+---
+title: Die Grundlehren der christlichen Dogmatik als Wissenschaft
+author: Philipp Marheineke
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: a scan of an old print (library or Google Books digitization; the imprint is not recorded in the library); converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: the PDF text layer of a scan, not corrected against the scan; non-word rate 0.7% (wordfreq, the edition's own spellings kept); paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority
+translation: none
+canonical: "[p. N] marks where printed page N begins (a scan of an old print (library or Google Books digitization; the imprint is not recorded in the library)); read from the PDF folios where legible, the others by sequence"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: The Die Grundlehren der christlichen Dogmatik als Wissenschaft was written by an author who died in 1846, so before 1931; Philipp Marheineke (d. 1846) is long out of protection and the edition (a library or Google Books digitization of an old print, no copyright page) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 4236)
+---
+
+# P. Marheineke, *Die Grundlehren der christlichen Dogmatik als Wissenschaft*
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+Die Grundlehren christlichen
+
+Dogmatik
+
+PETRI
+
+Dr. Philipp
+
+Marheineke.
+
+Zweite, völlig neu ausgearbeitete Auflage.
+
+Berlin, verlegt bei Duncker und Humblot.
+
+1 8 2 7.
+
+Sr. Hochwürden dem Herrn
+
+Dr.
+
+R Karl
+
+Daub,
+
+Großherzoglich Badischem Geheimen Kirchenrath, und Professor der Theologie an der Universität zu Heidelberg zur öffentlichen Bezeugung der gerechtesten Verehrung und Liebe zur dankbaren Anerkennung seiner großen Verdienste um die speculative Theologie jugeeignet.
+
+Die Forderungen der Wiſſenſchaft an ihre Bears beiter und Pfleger. sind gegenwärtig so hoch gestellt, daß ich, im Bewußtseyn, wie wenig das hier Geleistete ihnen vollkommen entspricht, diese neue Bearbeitung der Dogmatik nur mit Mißtrauen und in der Hoffnung entlasse, es werde auch das schon als Thätigkeit für die Wissenschaft angesehen werden, wenigstens die Aufgabe derselben bemerklich gemacht zu haben, vermochte man selbst sie auch befriedigens der nicht zu lösen. ter,
+
+Um wieviel bequemer und leichals jetzt, konnte man sonst schon etwas für die Dogmatik geleistet zu haben scheinen.
+
+Der materielle Reichthum derselben von Seiten der Philologie und Historie her hatte sich seit Jahren so angehäuft, daß man nur eine veränderte Anordnung des schon fertigen Stoffes belieben, und ihn mit einigen besonderen, ſubjectiven Meinungen und Ansichten ausstatten durfte, um zu denken, es sey der Wissenschaft ſelbſt ſchon damit ein Dienſt gethan. Indeſſen konnte.
+
+[p. vi] sie doch mitten in dieser Fülle das Bewußtseyn einer unendlichen Armuth nicht in sich unterdrücken.
+
+eben dem Grade vielmehr, als die Masse jener äußerlichen Beziehungen zunahm, schrumpfte die reine Ausbeute an Erkenntnissen der göttlichen Wahrheit ims mer mehr zusammen und erreichte zuleht ihr Minimum.
+
+mußte erst dahin kommen, daß diese
+
+Disciplin zuleht den Glauben an sich selbst verlor und zur Ironie über sich selber wurde. solchen
+
+Erst nach
+
+Erfahrungen konnte der ernstere Geist
+
+Wissenschaftlichkeit sich zu regen beginnen und das Bedürfniß entstehen, die Dogmatik auch endlich einmal in ihr Element, in das Element der Wissenschaft verseht zu sehen.
+
+Wenn jeder Versuch der
+
+Art die bitterste Ungunst der Zeit erfuhr, so kann man das gar nicht unerwartet und unbillig finden, da die, welche bisher sich auf der breiten Heerstraße subjectiver Vorstellungen und Ansichten befanden, in ihrem reichen Besitz erschüttert, sich nun auf einmal in ein ihnen bisher ganz fremd gebliebenes Element verſeßt und sich genöthigt sahen, von vorn anzufangen.
+
+Diesen ist vielmehr zu gönnen, daß sie ferner noch, wie bisher, entweder auf der Seite des Rationalismus des Supernaturalismus fest und unerschütterlich stehen bleiben oder gar, der Sicherheit wegen, beide combiniren und also den Widerspruch, das Ungereimte bestens in ſich conserviren mögen.
+
+In den ebengenannten Denkarten ist die Theologie unserer Zeit mit sich selbst entzweit und zerfal [p. vii] len, und es ist als ein großer Fortschritt anzusehen, daß sie nicht nur über diese Entzweiung selbst, sondern auch darüber zum Bewußtseyn gekommen, daß sie in diesen Gegenfäßen keine Wahrheit hat.
+
+Inzwischen ist das Bewußtseyn ſelbſt jezt meist nur noch als dunkel gefühltes Bedürfniß vorhanden, aus dem leidigen Gegensahe herauszukommen, und die unvolls kommenste Weise, ihn zu überwinden, ist ohne Zweifel einerseits ihn zu ignoriren, andrerseits nur den vorhandenen Widerspruch darin zù negiren. Dadurch zunächst, daß ein Gegensatz ignorirt wird, ist er nicht überwunden, sondern vielmehr da durch erst kann er überwunden werden, daß er nicht mehr ignorirt, sondern vielmehr für das erkannt wird, was er ist, nämlich für einen Wink, in der Erkenntniß weiter zu gehen.
+
+Auf alle kraftlosen Gemüther hingegen hat der langjährige Streit beider Denks arten diesen niederschlagenden Eindruck gemacht und den Erfolg gehabt, daß in ihnen die Theologie sich selbst aufgegeben hat;
+
+sie sind auf diesem Wege bei dem traurigen Reſultat einer vollkommenen Verzweifelung an der Wissenschaft angelangt. An der Stelle des strengen, bestimmten Denkens, welches zunächst nur darin dieses ist, daß es gehörig unterscheidet, fodern sie eine alles ausgleichende Liebe und Frömmigkeit, und diese in ihrer Wahrheit und Herrlich keit verlange, meinen sie, vor allem das Opfer der Indessen fäet der Feind das Unkraut aller Irrthümer aus, und Niemand mehr weiß sie [p. viii] von der Wahrheit zu legen.
+
+unterscheiden oder zu wider-
+
+Sie haben gut reden, daß sie die Religion ihrer Wahrheit
+
+Unmittelbarkeit über
+
+Dogmatik erheben diese beständig alle gegen jene herabsehen, auf die Frage aber sich gar nicht einlaſſen, ob und wie denn die Religion in ihrer Wahr4 heit sich auch als solche wisse und auch zur Noth vor der Welt und dem Verstande sich zu rechtfertigen und zu behaupten wisse gegen dessen Zweifeln und Läugnen?
+
+Verdächtig muß doch schon dieses seyn, daß die Frommen und Unfrommen jest ganz dieselbige Sprache führen und denselbigen Abscheu vor der Wissenschaft declariren. migkeit so auffallend
+
+Diese mit der Unfrömharmonirende Frömmigkeit, welche das Wiſſen in der Religion nur als das Eitleweiß, und sich über die Eitelkeit solches Wissens ers haben weiß, zeigt sich vielmehr als die Eitelkeit nur des Nichtwissens selbst. solcher Verachtung
+
+Wenn fromme Layen zu der Wissenschaft noch gewissermaßen berechtiget sind, so ist sie dagegen für den Lehrer der Kirche und der Wissenschaft selbst sehr wenig ehrenvoll und seht ihn billig in den Augen der Welt herab. Diese Frömmigkeit, diese Liebe fängt mit einer Unredlichkeit, nämlich damit an, nicht mehr die Liebe der Wahrheit zu seyn, und zeigt sich darin deutlich genug in ihrer eigenen Unwahrheit; gegen solche Verschwommenheit, unbestimmte Nebelgestalten mehr nichts als der Wahrheit hat, müſſen der Wissenschaft kräftige Irrthümer, wie [p. ix] ſie der Apostel nennt, ungleich erwünschter und willkommener seyn: denn sie erkennen doch noch ein gemeinsames
+
+Gebiet an und machen
+
+Anspruch auf
+
+Wird aber nun zur Ueberwindung des Gegensatzes Anstalt gemacht, so kommt freilich Alles an auf die Art, wie es geschieht.
+
+Der falsche Weg ist, daß man den innern Widerspruch als an sich und wirklich vorhanden negirt.
+
+Die Voraussetzung ist,
+
+Widerspruch beruhe nur in der Vorstellung, sey nur ein gedachter, gehe die Sache selbst oder den Inhalt gar nicht an.
+
+Die Auflösung selbst aber wird so versucht, daß an beiden Gegenſäßen das negirt wird, was jedem von beiden gleich wesentlich ist, nämlich, daß er sein Gegentheil rein und vollkommen von sich ausschließt.
+
+So soll der Gegensatz durch die ab stracte Vorstellung, welche ihn selbst gemacht hat, wieder aufgehoben und überwunden werden.
+
+That aber ist dieses nur das veränderte Denken von ihm;
+
+er selbst bleibt stehen, bleibt, was er ist, und kommt in jeder 1 Amalgamation wieder zum Vorschein.
+
+Es kommt nur zu einer rung, zu einer Concordie. tige
+
+Ausschließung äußern Vereinba-
+
+Es ist nur die gegenseis ausgeschlossen, welches nur das ganz abſtracte, negative und willkührliche Verfahren des Denkens und Denkenwollens ist, Versöhnung und Ausgleichung.
+
+keine innere
+
+Hinter dieser ganz leeren Negativität sich versteckend zeigen die Verfechter der einen und andern Lehre sich liberal; sie fan [p. x] gen an zu dingen und zu markten; sie lassen sich handeln; sie beklagen sich auch über die falsche Vorstellung ihrer Lehre von Seiten ihrer Gegner; sie bez haupten, das Wahre der Gegenlehre gern anzuerkennen, es in sich zuzulassen und mit der ihrigen vereinigen zu können, nur, daß eines dem andern gehdrig untergeordnet sey. nation.
+
+So kommt es zur Subordi,
+
+Der Rationalismus enthält den Supernaturalismus und dieser jenen in der Subordination, oder sich untergeordnet.
+
+Dadurch ist nun in der
+
+Sache selbst gar nichts geändert und wie billig und bereit man sich auf beiden Seiten erweise, von dem vorhandenen Widerspruch abzusehen, und wie man die Gegenlehre auch ehre durch adjectivische Mitbezeichnung der eigenen, jene ist bleibt dieser doch äußerlich, die Einheit beider Gegensätze ist, nach einem Gleichniß der Concordienformel, keine bessere, als die zweier zusammengeleimter Bretter; es ist eine ganz mechanische, ger geistige.
+
+nicht einmal organische, vielweni-
+
+Das äußerste Ziel endlich, welches man, den innern Widerspruch nur sich verhehlend,
+
+Auflösung beider Gegensäße erreicht hat, ist, daß man ſie beide einander gleich stellte.
+
+Hiemit und an diesem Ende kehrt die Verkehrtheit wieder in ihren Anfang zurück.
+
+Es wird ein System in das andere hineingeschoben und nach den Umständen bald von dem einen, bald von dem andern Gebrauch gemacht. Die Coordination ist ihre bloße Verschiedenheit und darin, bleiben sie ganz gleichgültig gegen einander.
+
+Für eine wirkliche Auflösung
+
+XI des Widerspruchs ist damit nichts geschehen;
+
+die Gegensätze als an sich vorhanden, vorausgesetzt:
+
+sind selbst, denn um sie beide sich gleich zu ſehen, muß man sie selbst erst einander entgegenseßen, somit sich fortwährend in dem Widerspruch selbst behaupten. Solchen eitlen Versuchen gegenüber und um es zur wirklichen Aufhebung des Gegensages zu bringen, ist nun nichts nothwendiger, als jeden der beiden Gegensätze vorerst in seiner schärfsten Bestimmtheit zu fassen, und den innern Widerspruch darin aufzuzeigen, und da die Wiſſenſchaft als solche eine höhere Berechtigung hat, über diesen untergeordneten Gegensatz hinaus zu seyn, so scheint es zweckmäßig, ihn außerhalb des Systems hier in der Vorrede kurz abzuthun und sich also mit beiden Systemen, Supernaturalismus und Rationalismus für immer aus einander zu sehen. Abgesehen also von allen Milderungen,
+
+Verfälschungen und Mischungen beider Denkarten, wodurch der innere Widerspruch nur verdeckt, nicht weggeräumt wird, wäre das Characteristische beider kurz und bestimmt so zu fassen.
+
+Der Supernaturalismus steht im Glauben an eine unmittelbare göttliche Offenbarung, als eine einzelne, entstandene und vergangene Begebenheit, als an ein historisches Facs. tum, welches in Wundern und Weiſsagungen sich des glaubigt, und diese äußere Offenbarung findet er einzig und allein in der Bibel.
+
+Zur Auslegung derselben [p. xii] und somit zur Erkenntniß der christlichen Religion in 1 ihr bedarf es nächst der nöthigen Sprach = und Geschichtskunde nur der abstract - logischen oder formalen Vernunftthätigkeit zum regulativen Behuf. Da indeß der göttliche Inhalt der Bibel zunächst in menschlicher Form erscheint, so ist sich der Glaubwürdigkeit sichern, ihrer Berichte und hier vor allem1 fest zu vergeht das kritische Forschen über Authentie und Integrität an und auf den Beweis dieser menschlich bewährten Autorität (die Verfaſſer konnten und wollten die Wahrheit sagen u. f. f.) stüßt sich sodann der Beweis der Göttlichkeit des Inhalts, wie der Form desselben, welche der göttliche
+
+Ursprung oder die Eingebung ist.
+
+Daß die Bibel eine heilige Schrift, das Wort Gottes nicht nur ent halte, sondern selber sey, wird hier aus ihr selbst bewiesen: denn außer ihr giebt es für den Supernaturalismus keinen Standpunct.
+
+Nach dieser Lehre ist das Christenthum nicht- etwa die höchste und vollkommenste, sondern die einzige unmittelbare Offenbarung, und zwar in der Form der Bibel des Neuen Testaments, wozu das Alte als dessen Vorbereitung mitgehört.
+
+Der Rationalismus verwirft den Glauben an eine unmittelbare, göttliche Offenbarung, als der Kindheit des menschlichen Verstandes wohl angemessen, aber vor der Kritik nicht haltbar, welche wohl dieſelbe für ein denkbares und mögliches erklärt, aber die Realität derselben nicht nachweisen kann.
+
+An [p. xiii] die Stelle der Offenbarung tritt die Vernunft, nicht bloß in jener abſtract formalen Weise, sondern auch mit dem Inhalte der Religion, als Natur- und Vernunft-Religion. nennt,
+
+Was er daher noch Offenbarung ist nichts als Vernunftoffenbarung:
+
+in sie muß alle vorhandene und bloß so genannte göttliche Offenbarung sich auflösen; sie ist nur das Introductionsmittel gewisser Vernunftwahrheiten, und auch jetzt noch für den großen Haufen nur als Bindungsund Vereinigungsmittel zu brauchen.
+
+zur kirchlichen
+
+Gesellschaft
+
+Was er göttliche Einwirkung, z. B.
+
+auf Christum, die Apostel u. f. f. nennet, ist nur ein ganz äußerliches Verhältniß dieser Menschen zu Gott und ebenso auch nur ein ganz äußerliches Walten und Wirken Gottes (providente Deo).
+
+Was er endlich Vernunft nennet, ist der abstracte Verstand: denn er erklärt ausdrücklich, vom Seyn, vom Ding an sich, nichts zu wissen, hält sich nur an die Erz scheinung und seine eigene Form; übrigens accomodirt er sich und demjenigen, was er als Vernunftreligion festgesezt hat, mittelst seiner Hermeneutik den gegebenen Inhalt der Bibel. Es nicht zu läugnen, so in ihrem wahren Wesen gefaßt, stehen beide Systeme nicht nur einander gegenüber, sondern auch in einem innern, unvereinbaren Widerspruch.
+
+Es ist eine wahre und wirkliche
+
+Verschiedenheit beider.[^1]
+
+Das eine ist die Negation
+
+[^1]: Nicht die, welche beide Systeme combiniren und ihre Verschiedenheit läugnen, sondern welche sie anerkennen, arbeiten der [p. xiv] des andern.
+
+Je mehr sie nun in dieser gegenseitigen Negation beharren, je consequenter in sich, je
+
+S unabhängiger von einander und je gleichgültiger sie gegen einander werden, desto mehr zeigt sich das Unwahre und Falsche an beiden, wie es oft auch in den verschiedensten Formen als gegenseitiger Vorwurf hervorgetreten ist.
+
+Das Falsche am Supernaturalismus ist die Lehre von einer göttlichen Offenbarung, die der Vernunft fremd und äußerlich ist; das Falsche am Rationalismus ist die Lehre von einer Vernunft, die von der göttlichen Offenbarung nichts weiß.
+
+So sich négirend, gehen sie nothwendig in das Extrem, und erst da ist Hoffnung, daß es besser werde mit beiden.
+
+Dem Supernaturalismus ist die christliche Religion nur als geoffenbarte, nicht offenbare; für den Rationalismus giebt es weder eine geoffenbarte, noch eine offenbare, deren Urheber Vernunft;
+
+Gott wäre d. i. eine solche, nicht vielmehr nach ihm ist Gott vielmehr das absolut verborgene und dunkle, und dieses System in seiner völligen Consequenz ist als der eigentliche Obscurantismus zu bezeichnen:
+
+Finsterniß, das Leben es sucht das Licht bei der bei den Todten.
+
+Auf die
+
+Wissenschaft vor, und zu dieſen gehört vornehmlich Kleuker, besonders mit seiner Schrift: Ueber das Ja und Nein der biblischchristlichen und der reinen Vernunft- Theologie. 1819. 8. und Sartorius in seinen Beiträgen zur Vertheid. d. Rechtgläubigkeit. 1. u. 2. Lieferung. 1825. 26. 8.
+
+E
+
+Grundlehre sagen, des Christenthums
+
+XV bezogen, muß man der Supernaturalismus verkennet die Lehre vom Geist, der Rationalismus auch die von Vater und Sohn. Hielten nun wirklich beide Denkarten Stand gegen einander, so wären sie beide gleich unwahr.
+
+Die Theologie, in diesem Gegensatz beharrend, ein sich selbst Widersprechendes, Ungereimtes, Gedankenloses. ser
+
+Sie müßte sich selbst aufgeben, wenn die-
+
+Widerspruch unauflöslich wäre.
+
+unüberwindlich
+
+Die Entzweiung ist um so unseliger und erz schütternder für den Geist in allen seinen Tiefen, je mehr die Wissenschaft hier die Religion, die Versöhnung des Geistes selbst zu ihrem Inhalt hat. Wenn so die Wissenschaft, ihrer Form und Thätigkeit nach, mit dem Begriff und Inhalt selbst im Widerspruch steht, so zeigt sich wohl auch dem weniger nachden kenden, daß sie selbst als Wissenschaft keine Wahrheit hat und verdient von Gott und Rechtswegen, mit allen ihren Formen und Formeln zerbrochen zu Gleichwohl ist der Gegensaß von der Art, daß der Geist sich von den beiden Seiten desselben nicht wegwenden kann und seine heiligsten Interessen daran geknüpft sieht. fälliges,
+
+Er kann es auch nicht als ein Zunur in logischer Nothwendigkeit gegründetes betrachten, ſondern daß die Unmittelbarkeit des gereinigten evangelischen Glaubens und Lehrbegriffs.
+
+[p. xvi] an ib nicht für immer bestand, sondern sich zerschlug und ich bis Unt in dies härteste Zerwürfniß mit sich selber überging. Ohne dieſer feiner Negativität sich ganz und vollſtändig erst bewußt zu werden, welchem de konnte er es nicht in fiets genét Wäre der en ugleich
+
+Gegensatz nach beiden Seiten hin absolut falsch, so würde er auch den Geist gleichgültig gegen sich las der gegenfeit
+
+Dieses aber mit ein ist er sich nur in der Vorstellung, in der Verschie sich in si tinanter cu auch zum Begriff und Wissen bringen.
+
+sen und sich selber gleichgültig seyn.
+
+denheit und worin
+
+Selbständigkeit, er gar keine
+
+Der Inhalt, die Sache selbst, geht Wahrheit hat. vielmehr nothwendig auf die Auflösung des Widers spruchs aus, und ist ihre eigene innere Bewegung zu diesem Ziel.
+
+Nur in der gegenseitigen Beziehung auf einander können beide Seiten sich wahrhaft einander entgegengesetzt seyn.
+
+Aber so hat jede
+
+Sheriffoft auch ihr entgegegenseßtes an ihr selbst; sie muß, um sich selbst in sich zu halten und zu erhalten, sich zugleich an der andern halten.
+
+Jede der beiden Denks der Supernaturalismus den Rationalismus hervors
+
+1 neben anthrhei gerufen, so hat auch dieser jenen ebenso sehr zur ne m Ein arten hat die andere zu ihrer Voraussetzung.
+
+gativen Bedingung seines Lebens.
+
+Wie t,
+
+Soll jeder der
+
+Die S beiden Gegensätze in sich wahrhaft lebendig seyn, so B muß jedem daran gelegen seyn, daß sein Gegner zwar widerlegt, aber ja nicht niedergelegt oder vertilgt werde, sonst kommt er selbst um die Existenz; damit es also um ihn selbst nicht geschehen sey, muß er sein Ge-
+
+Ration alis Balt Be gentheil stets sich gegenüber und als seinen eigenen Schatz
+
+Schatten an ihm haben. deutlich t die Unwahrheit
+
+XVII
+
+Es zeigt sich hier recht abstracten Verstandes, welchem der Gegensatz ausgegangen, darin stets genöthiget ist, indem er mit allen seinen Behauptungen zugleich das Gegentheil dessen zu sehen, was er eigentlich meine und sagen will.
+
+gegenseitigen Negation ſelbſt ſich im Widerspruch mit &
+
+Je mehr sie nun einander befinden, beide sich in sich selbst auf, um so mehr lösen um so mehr heben sie sich einander auf, um so mehr gehen sie an einans
+
+St der zu Grunde.
+
+Das aber, worin ſie zu Grunde gehen, ist das, worin sie eins waren vor dieser Entzweiung, worin sie an sich eins sind, und wodurch sie nun auch aus der Entzweiung zurückkehren;
+
+es ist der Begriff, in die Einheit das Wissen, ist die erste, lebendige Wirkung der wissenschaftlichen Wahrheit, die noch in ihnen ist, daß an den Tag kommt, wie beide Systeme nur darin, daß sie ein abgesondertes Bestehen für sich und neben einander verlangen, ihr Unrecht und ihre Unwahrheit,
+
+ש ihre Wahrheit hingegen erst in einer höhern Einheit haben.
+
+Die Wissenschaft also, welche nicht mehr mit diesem Gegensahe behaftet, ist, die Wahrheit sondern darüber hinaus ar des Supernaturalismus und Rationalismus, sie selbst sind die beiden unwahren o at
+
+Gestalten derselben. des Begriffes
+
+An der richtigen Bestimmung der Offenbarung und Vernunft ha [p. xviii] den beide die Möglichkeit, zur innern Einheit und hiemit zur Wissenschaft zu gelangen. gleichsehr die Aufgabe und Es ist daher der Anfang der Wiſſenschaft, sich von beiden vorhandenen Gegensäßen, in welchen sie bisher auf eine unwahre, sich selbst widersprechende Weise existirte, zu befreien,
+
+Wahre und Vernünftige darin ebendadurch frei zu machen und in würdigerer Weise wieder herzustellen. Obgleich der Supernaturalismus so wenig, Rationalismus die Wissenschaft selbst als der vollbringen kann, so haben sie doch beide eine innere Beziehung darauf.
+
+Der Supernaturalismus konnte wohl in
+
+ſeiner bestimmten Gestalt der Träger und Bewahrer objectiven Inhalts
+
+Rationalismus
+
+Wissenschaft,
+
+Behauptung
+
+ſubjectiven Form seyn:
+
+aber in wie der der nothwendigen dieser Entzweiung des Inhalts und der Form hat die Wissenschaft keine Wahrheit, sondern wird nothwendig dort zum Dogmatismus, hier zum Nihilismus.
+
+Indem nämlich das dogmatische Erkennen die Offenbarung nicht nur als ein isolirtes, historisches Factum nimmt, sondern auch nur als unmittelbare
+
+Offenbarung, hält sich das
+
+Selbstbewußtseyn auch nicht nur an diese Unmittelbarkeit, sondern auch in dieser Unmittelbarkeit;
+
+es hat auch den Begriff der unmittelbaren Offenbarung nur als baren, starren, bewegungslosen, einen unmittelwelches der Natur des Begriffes widerstreitet, der nur in seiner eigenen [p. xix] unendlichen Vermittelung wirklich ist. heit der unmittelbaren
+
+Wahrheit, sinket auf keine Bewegung ist, herab, ist ein Die Wahr-
+
+Offenbarung oder sie, diesem
+
+Wege, auf welchem zu einer bloßen Behauptung
+
+Gegebenes, welches auch dieses nur bleibt; hiemit aber ist es in der That unbegriffen, bleibt nur in sich selbst und hat ohne den Begriff weder die nöthigen Mittel des Beweises,
+
+Vertheidigung.
+
+noch der
+
+Es ist eben nur Prinzip, das über sich oder seinen Anfang nicht hinausgeht;
+
+es ist ein
+
+Anfangen und Ansehen zur Wissenschaft, aber diese geht nicht auseinander, wird nicht System und bleibt Deshalb sinket ſomit unwirklich. leicht zu einem herab, leeren Wort, es denn auch zum Gedankenlosen weil es gar keine nähere Bestimmung und Bestimmtheit in sich zuläßt.
+
+In dieser todten Ruhe kommt das Ansichseyn nicht auch zu seinem Fürsich seyn, die Substanz nicht zum Wissen, und so hat die Wahrheit des Prinzips seine eigene Falschheit an ihm selbst darin, daß es nur Anfang, nicht Fortschritt und Entwickelung ist; ein Wissen, das nicht auch sich fortbewegt, angefangen.[^2] wirklich der hat in der That auch nicht
+
+Wird aber von diesem Prinzip aus
+
+Versuch der Wissenschaft gemacht, wird diese sofort etwas ganz anders, von dem Prinzip verschiedenes; dieses selbst wird verlaſſen und zu
+
+[^2]: S. Hegels Phänomenologie des Geistes. Vörr. S. 20. ff.
+
+[p. xx] einer bloßen Voraussetzung, um welche sich in der weitern Bewegung nicht mehr bekümmert wird; es zeigt sich die noch in unsern Tagen aber seltsame Erscheinung:
+
+telbaren Offenbarung verfahren in ihren Beweisen.
+
+nicht seltene, die Anhänger der unmitganz rationaliſtiſch
+
+Denn je größer nun in Beziehung auf das Prinzip selbst der innere Mangel des Begriffes ist, welches eben die Verschmähung der Negativität und Differenz ist, und je mehr das Bedürfniß des Beweises bleibt, um so mehr wird jenem Mangel und diesem Bedürfniß durch einen Reichthum äußerlicher Ausführungen abgeholfen, die meist nur eine entfernte Beziehung auf die Sache selbst haben; es werden Erfahrungen und Zeugniſſe für jene BeHauptung zusammengehäuft, und was Andere gehört gesehen, gesagt und geschrieben haben, wird zum Gepräge der Wahrheit gemacht; es werden alle mögliche Möglichkeiten und Wahrscheinlichkeiten moralischer, psychologischer Art in Rechnung gebracht: hiemit aber verliert sich das Wissen nicht nur in den Standpunct des Gegners, sondern auch auf ein der Sache selbst fremdes Gebiet und ist, selbst unter der größesten Masse historischer, biblischer und sonstiger gelehrter Forschungen doch in Beziehung auf die Sache selbst, welche die Hauptsache ist, und oberflächliches Wissen.
+
+ein armes
+
+Bei allen beliebten Formeln vom lebendigen, herzlichen, practischen Christenthum ist der Geist sich doch nur als ein entfernter, abgestorbener, nur der Erinnerung aufbewahrt, [p. xxi] nicht aber lebendig gegenwärtig in seinem Begriff; das Nichtwissen ist vielmehr das ihm aufgerichtete Monument mit seinem: hic jacet.
+
+Gegen eine solche dem Denken fremde Auctorität der unmittelbaren, substanziellen Offenbarung hat das Denken selbst sich nicht ohne Grund und Befugniß gekehrt und aufgemacht, auch nicht ohnie den guten Erfolg, vorerst den Gedanken aus seiner Erstarrung und Verknöcherung im Dogmatismus be freit und wieder flüssig gemacht zu haben.
+
+Allein
+
+ſtatt nun über das kritische, negative Verfahren selbst hinauszugehen und sich zu etwas Besserem aufzuheben, hat das Denken sich gegen den substanziellen Inhalt, gegen das Gehaltvolle des Supernaturalismus gekehrt, sich einzig und allein an ſeine abſtracte Form gehalten, und ist als Negation des Seyns in diesem seinen leeren Formalismus seinem verdienten Schicksal nicht entgangen und in den Nihilismus gefallen, welcher die geistlose Seele des Rationalismus ist. kens,
+
+Die leere Abstraction des formalen Dendes Vorstellens und Räsonnirens ist an die Tagesordnung gekommen mit dem Anspruch der Anmaßung der Wissenschaft, dieses Meinen und Discurriren (discursive Denken) hat sich zwar zugetraut, andere Weisen der Vorstellung zu widerlegen, aber sich jederzeit auch ebenso billig finden lassen und sich ebenso gern dazu hergegeben, sich widerlegen zu lassen, in der Ueberzeugung, daß jede
+
+[p. xxii] Ueberzeugung, falls sie nur dieses ist, die rechte sey, da ja alles nur Ansicht und Meinung, Wahrheit aber nirgends zu finden sey. keinem Inhalte ein Wie es diesem Denken mit rechter Ernst ist, kann es auch mit dem Gedanken einer Offenbarung spielen, und sogar den Schein erregen, es halte etwas darauf und also und verwirren.
+
+nur die Meinungen darüber vermehren In solcher Weise fällt das Denken in seiner eigenen, leeren Form herunter, und behält zuleht nichts als die Eigenthümlichkeit übrig, aus der es dann in der Totalität die Wahrheit ganz atomis stisch zusammenseßt.
+
+Wenn dem Denken aller obs jective Inhalt ausgegangen, so hält es zulezt noch an der Individualität, Originalität und Eigenthümlichkeit fest, und ein solches ganz Individuelles ist in der Religion das Gefühl:
+
+es kann in seiner Particularität am wenigsten auf Allgemeinheit und Anerkennung aller Vernünftigen Anspruch machen. Dies war daher die Seite, an welcher der Rationalismus, nachdem er die Religion im Denken verflüch tiget, sie noch wieder unterzubringen scheinen konnte, daß er sie nach der Zeit der Aufklärung in der Jaz cobischen Lehre zu einem solchen Gefühl, zu eis nem Glauben machte, der das Wissen ganz außer sich hat, dem dieses ein Fremdes und Aeußerliches ist. So dem Verstande fremd, konnte dieser entweder sie nur blind anerkennen oder sehend in nichts aufldsen; vor seiner Kritik vermochte sie doch nicht zu des stehen.
+
+Das Gefühl bejahte, was der Verstand vers [p. xxiii] neinte und umgekehrt.
+
+Im Gefühl hatte die Religion ihre Rechte, und dem Verftande waren die seiz nigen auch gesichert. um so mehr in Aber dafür blieben beide nun einem innern Widerspruch, wie ihn der abstracte Verstand überall stiften muß. Bei diesem Stande der Sache oder des Inhalts der Dogmatik ist nun wohl überflüssig, noch nach der wissenschaftlichen Methode in den bei den hergebrachten
+
+Systemen besonders umzusehen:
+
+jener Stand selbst ist eben nur Folge dieser Methode.
+
+Die gemeinsame des Supernaturalismus und Rationalismus iſt theils die abstracte, theils die historische.
+
+Wenn der Begriff der wissenschaftlichen Methode der ist, daß sie ein stetiges, eigenen, innern
+
+Bewegung dem Gange, der
+
+Sache Nachgehen (μεvodos) ist, so kann davon gar nicht die Rede mehr seyn da, nicht bewegt, wo entweder wie im der Inhalt sich gar
+
+Supernaturalismus oder die
+
+Religion ihren Inhalt eingebüßt hat, wie im Rationalismus. Und darin eben ist das Denken in beiden ein abstractes, daß es nicht sich einläßt auf die Sache selbst, sondern sich im Heterogenen herumtreibt, den rabulistisch die Sache in einen ihr frem
+
+Gesichtspunct hinüberdreht.
+
+objectiven Inhalt der Religion
+
+Den eigentlichen, entweder als unzugänglich oder nur als das eitle wiſſend, ist das Denken nur ein Vorstellen und Imaginiren, ein Denken des Möglichen, nicht ein Denken des Wahren [p. xxiv] oder ein Wiſſen.
+
+So von der Säche selbst als dem unmittelbar gegenwärtigen abstrahirend, sieht es sich dann um so mehr nach anderweitigem Inhalt um, und findet ihn desto heit.
+
+reichlicher in der Vergangens
+
+Ist also das Denken dort als abstractes nur in unwirklichen Gedanken, so ist es hier als historisches, in derselbigen Abstraction beharrend und das Wissen negirend, das gedankenlose Leben in der WirkEine Theologie aber, lichkeit, als Vergangenheit. nur als historische und nicht sich wohl für auch speculative, paßt die römisch-katholische Kirche, nicht für die protestantische; jene hat schon seit dem fünften Jahrhundert keine andere mehr gehabt; denn die abstract logische Methode der sogenannten Scholastiker hatte den Inhalt der kirchlichen Lehre außer sich, war nur äußerliche Anbequemung an denselben und somit unspeculativ.
+
+Mit der Glaubensverbefserung hingegen ist ein anderer Geist, unendlichen Bewegung der Geist der erwacht, der in der wahren
+
+Religion auch das Vergangene als das Gegenwärtige und Ewige weiß, und es daher auch in immer andern Gestalten frisch und neu aus sich hervorbringen kann, ohne sich und dem Geiste der christlichen Religion, mit welchem er eins ist, untreu zu werden. Diese Freiheit, dieses heilige Recht einer freien und selbständigen Erkenntniß ist uns durch jene große Geistesbewegung erworben, und es zu vertheidigen gegen jez den blinden Glauben an Auctoritäten, ist fortan das gleiche Bedürfniß aller Zeiten.
+
+kommt hiebei [p. xxv] aber auch noch der Unterschied und das verschiedene Bedürfniß der Zeiten in Betracht.
+
+Wenn dazumal die nächste und wichtigste Aufgabe war, das Christenthum selbst erst wieder herzustellen, und ebendamit die Wissenschaft selbst erst möglich zu machen, so kommt es jezt auf die Verwirklichung dieser selber Die große Aufgabe von dieser, und das wahre an. Bedürfniß unserer Zeit ist, den Glauben mit dem Wissen, das Wissen mit dem Glauben zu versöhnen: denn dies ist der verzehrende Zwiespalt der Gemůther, wovon man zur Zeit der Glaubensverbesserung Wenn also dazumal T kaum eine Ahndung hatte. und zu jenem Zweck noch genügte,
+
+Ueberlieferung gegen Ueberlieferung geltend zu machen, mündliche, falsche, gegen die die schriftliche, wahre hervorzuheben, so reicht das jetzt, wo alle Partheien mit ihrer Hermeneutik sich auf die Bibel berufen, mehr aus.
+
+auch nicht
+
+Wenn jezt sich eine falsche Lehre in der Kirche erhebt, dann genügt es nicht mehr, sie nur mit den Waffen der Tradition zu bekämpfen, und ihr etwa eine heilige Geschichte und was Andere gelehrt haben, oder ein heiliges Buch und was darin geschrieben steht, entgegenzuhalten, sondern es muß tiefer gegangen und eine neue, wickelung des Dogma versucht philosophische Ents werden, worin die Wahrheit nicht nur, wie sie war oder von Andern erkannt wurde, sondern wie sie an sich ist, zu Tage kommt.[^3]
+
+Es ist wohl endlich an der Zeit, einmal
+
+[^3]: S. Franz R. v. Baader, Proben religiöser Philosopheme [p. xxvi] bestimmt und einfach zu erkennen, worauf es eigentlich mit aller Dogmatik abgesehen ist, und daß sie ihre Aufgabe nicht lösen kann, ohne von der Philosophie mehr als äußerlich nur Notiz zu nehmen. In der Philosophie, besonders von Cartefius bis auf
+
+Hegel, zeigt sich der in der Wahrheit forschende Geiſt in seiner Bewegung durch alle seine wesentlichen Momente, und als das größeste Verdienst des zuleht ges nannten tiefen Denkers ist wohl eben dieses anzusehen, daß er die ganze Geschichte der Philosophie (und nicht bloß ihrer Vergangenheit nur) speculativ in sich aufgenommen und concentrirt hat.
+
+Nichts ist daher auch wohl einer Dogmatik unserer Zeit unwerther zu finden,
+
+T als diese Bewegung des Geistes zu ignoriren und sich nach solchen Fortschritten in der verwandteften Wissenschaft noch mit leeren Abstractionen und Constructionen oder mit jenem rohen Empirismus.
+
+zu begnügen, worauf man noch zur Zeit alle Theologie beschränken zu wollen scheint.
+
+Eben auf diesem Wege der bloß historischen Notiznehmung mir Kundschaft noch von unzähligen Dingen, und nicht mehr Wissenschaft, ist die Theologie unserer Zeit so sehr unter sich selbst heruntergekommen.
+
+daß man z. B., wie Herr Gen. Sup. Bretschneider, viele und dicke Bücher über Dogmatik und dogmatische Begriffe verfertiget haben kann, ohne auch nur eine älterer Zeit oder Fermenta cognitionis. 6. Heft. Leipzig. 1825. S. 83.
+
+[p. xxvii] Ahndung, oder gar einen Begriff von demjenigen zu haben,
+
+Dogmatik unserer Zeit seyn und was eine leisten soll.
+
+Denn eine solche Lehre, welche die ganze
+
+Theologie nur als eine historische kennt, geht von dem unprotestantischen Grundſaß aus, daß der Geiſt nur als der vergangene noch existire, seine productive Kraft gänzlich eingebüßt, und ebenso auch der Mensch alle anderen Geisteskräfte verloren, und nur das Gez Ist die Abstraction dächtniß übrig behalten habe.
+
+der Speculation von aller Geschichte ein großes Uebel; so ist es nicht minder die Abstraction der Historie von aller Speculation.[^4] Nachdem nun die Theologie als Dogmatik den Kreislauf dieser Erscheinungen vollendet und sich als Supernaturalismus und Rationalismus erschöpft und überlebt hat, ist allen Seiten das beste Resultat davon das erwachte Bedürfniß der Wissenschaft und der in mancherlei erfreulichen Zeichen sein
+
+M
+
+Erwachen und liche t
+
+Daseyn
+
+Geist selbst.
+
+verkündigende
+
+Er wird wissenschaftdas Wahre und Gute beider Systeme, obgleich er sie selbst hinter sich hat, n ዓ
+
+[^4]: „Die seit geraumer Zeit in der Theologie aufgekommene, Begrifflosigkeit in Behandlung und Studium der Geschichte, stimmt ganz mit jener Begrifflosigkeit überein, welche in der Naturkunde herrscht, indem die meisten Naturforscher sich zu simplen Registratoren der Natuṛacten herabgesetzt haben, denen man folglich die Unwissenheit über deren Inhalt nicht mehr zum Vorwurf machen kann." Fr. R. v. Baader Bemerkungen über einige antireligiöse Philosopheme unserer Zeit. Leipzig. 1824. S. 53.
+
+[p. xxviii] in sich erhalten und bewahren, und in ihm kann es am wenigsten untergehen: aber er wird sie auch nicht ferner mehr als Hemmungen der Wiſſenſchaft gelten laſſen, wie sie denn längst als dem protestantischen, freien und fortschreitenden
+
+Denken hinderlich sich erwiesen haben.
+
+ungünstig
+
+Wie in ihnen die
+
+Wissenschaft selbst in der That und Wahrheit sich aufgegeben, zeigt das gemeinsame Bekenntniß, ein Wissen von Gott im eigentlichen und strengen Sinn unmöglich sey.
+
+Hiemit hat sie naiver Weise selbst ausgesagt, was eigentlich an ihr sey, und daß sie nicht mehr darauf Anspruch mache, in wissenschaftlicher Art und Form vor der Vernunft zu erz scheinen.
+
+Durch sein Prinzip von der unmittelbaren Offenbarung gebunden, hat der Supernaturalismus keine Tendenz in sich, kommen zu lassen und es auch zum Begriff aus der Unmittelbarkeit in die unendliche Vermittelung einzugehen; der Rationalismus aber, obgleich er in den letzteren Decennien oben auf gekommen, ist in seiner unendlichen Inanität seit dreißig
+
+Jahren nicht mehr aus der
+
+Stelle gekommen.
+
+Das gehaltlose Denken, indem es die unendliche Unbestimmtheit und Leerheit zum Kreise seiner Bewegung hat, befindet sich hiemit zugleich in einem sehr engen, beschränkten Raum: es dreht sich auf dem Absage seiner Abstraction immer auf demselben
+
+Puncte herum.
+
+Gleichwohl hat es die Anmaßung, alles, was nicht sich in diesem luft(geist) leeren Raum halten kann, und einen wahr="
+
+[p. xxix] Haftigen Inhalt hat, alles wirklich Fortschreitende sor fort als ein Zurückschreitendes liebsten und Religion kürzesten zu bezeichnen, am aber jede Spur der wahren evangelischen Lehre in der Wissenschaft, in Vossens heilloser Weise, als katholisches zu verläumden, worin es sich einerseits als das richtige Bewußtseyn, daß man ja längst am Ende und an dem Ziel des Nichts angelangt sey, andrerseits als das Hemmende jeder wirklich fortschreitenden Bewegung zu erkennen giebt. testantische Forderung
+
+Ueberhaupt ist die prodes fortschreitenden und richtigen
+
+Denkens leichter gethan, wird beständig
+
+Denkglaubigen wiederholt von Herrn Dr. Paulus. bige ist ein Mann, im
+
+11. Heft.
+
+erfüllt.
+
+(Der Denkglaus der zu glauben denkt und zu denken glaubt; es ist aber mit beidem = 0.)
+
+Diefelbige Lehre, welche ſtets vom beſtändigen Fortschreiten in der Erkenntniß spricht, Protestantischen, dem wesentlich das Fortschreiten am meisten schuldig und hinter allen, auch den billigsten Erwartungen der Wissenschaft zurück geblieben, und eben dieselbige Lehre, welche so viele Lehren des Christenthums für obsolete erklärte und antiquiren wollte, ist selber nun schon obsolet geworden und antiquirt. Denn wo wäre wohl der Rationalismus im Wesentlichen über den Kantischen kategorischen Imperativ hinausgekommen; hätte wohl da eine welcher tiefere, dogmatische Begriff philosophische Begründung erfahren, und wäre wohl da in ein neues Licht [p. xxx] und nicht vielmehr unter Wasser gesetzt? nicht denken, eine Dogmatik,
+
+Wegscheider, sey
+
+Wer muß wie die von Herrn vor dreißig oder vierzig Jah- ' ren erschienen? Das Recht des fortschreitenden, freien Denkens nimmt dagegen die Wissenschaft in der Gestalt, wie sie hier erscheint, in Anspruch, und darin allein hat sie ihre Berechtigung.
+
+Mit welchen Mängeln sie auch in dieser Gestalt noch zu kämpfen hat oder verknüpft ist, so sollte sie billig in der Größe der Aufgabe auch für ihre Fehltritte Entschuldigung fins Allein darauf ist am wenigsten den bei dieser Zeit. zu rechnen.
+
+Im
+
+Gegentheil muß sie, keiner vorhandenen Partheien zugethan, dieser ihrer Natur nach alle gegen sich haben, und sie werden sich sogar dagegen auf ihre Weise vereinigen.
+
+Sie werden sich alles hier entwickelte in ihre beliebte Denk weise übersehen und nachweisen, wie ja doch auch diese Dogmatik wieder hier supernaturalistisch, rationalistisch geworden:
+
+denn über diesen dort
+
+Gegenfah, welcher das Grundariom ihres Denkens gewor kommen sie nicht hinaus.
+
+Sie werden dem
+
+Gange der Idee ein einzelnes, historisches Factum den, entgegenhalten und sie dadurch widerlegt zu haben denken: denn nichts ist leichter, als, ist die Willkühr des Vorstellens einmal zum Stelle der Wissenschaft
+
+Range erhoben, an die aus dem Festhalten einzelner Seiten und Aeußerlichkeiten, aus Abftractionen, die als Gründe erscheinen, das Concrete
+
+Substanzielle bringen.
+
+um seinen
+
+Gehalt zu wahren
+
+Es ist überhaupt viel " leichter,
+
+Massen aufzugreifen und worin man sie aufgegriffen, und aufzuthürmen, historische derselben Zufälligkeit, vor sich als die einfache, hinzustellen ruhige Bewegung eines Begriffes durch alle seine nothwendigen Der gemeinste und hartMomente zu verfolgen. näckigste Vorwurf aber wird sich auch hier wiederholen, man sehe die Wahrheit doch nur durch das getrübte Glas der Vorurtheile und Einbildung, sie sey ja doch nichts als unser subjectives Denken und Philosophiren, ebenso auch diese
+
+Dogmatit nichts als äußerliche Uebertragung einer Philosophie. auf das Christenthum.
+
+Indem nun vollends daran gedacht werden kann, daß dieses schon oft geschehen und oft mißlungen, ist die Eitelkeit vollkommen des friedigt und beruhigt.[^5] sich nur so behaupten, losophie,
+
+Die Unphilosophie kann daß sie alle und jede Phimithin die Philosophie an sich, nur als
+
+Afterphilosophie weiß, den einen und selbigen Geist aber, der durch alle zerbrechlichen Formen schreitet, nicht erblickt.
+
+Denn wie sie häufig die Geschichte der christlichen Kirche erzählen, ohne an die wirkliche Existenz einer Gemeinde der Gläubigen zu glauben,
+
+[^5]: Man sehe z. B. Bretschneiders Handbuch der Dogmatik. Zweite Aufl. 1. Band. Vorr. S. 8.
+
+[p. xxxii] so haben sie auch aus der Geschichte der Philosophie nur allerschlechteste gelernt, nämlich daß Diese Seichtigkeit die Philosophie selbst nicht sey.
+
+hat auch nicht einmal eine Vorstellung, viel wenis ger irgend eine Erfahrung den Freuden und Leiden des in seinem Begriff arbeitenden
+
+Geistes, und ist daher auch ganz unfähig, das Bestreben des Geistes zu ehren, sich als den seiner selbst bewußten in dem Gegebenen wiederzufinden, und es selbst zu einem Moment des Selbstbewußtseyns zu machen, ohne welches es auch in der That nicht Wahrheit für uns seyn kann: denn dieſes kann ſie nur ſeyn, indem sie es wird.
+
+Dieses ihr Werden für uns aber ist nichts anders, als das Werden des Geistes für sie in griffs, der unendlichen Vermittelung des Bedas Werden der wahrhaftigen, gehaltvollen
+
+Ueberzeugung, welche allein entsteht, indem der Geist nicht nur die Wahrheit in sich, sondern auch sich in ihr findet und weiß. Herr
+
+C. R.
+
+seiner Schrift über
+
+Planck zu Göttingen hat in die Haltbarkeit des historischen
+
+Beweises die Entdeckung gemacht, nicht supernaturalistisch, sondern daß diese Lehre rationalistisch sey.
+
+Auf die Ehre, das eine oder andere, oder das eine und andere zu seyn, hat diese Schrift nie Anspruch gemacht.
+
+Des ehrwürdigen Plancks große Verdienste um die historische Theologie werden in EHren bleiben, auch wenn es daneben zu einer speculativen
+
+Beide schließen an sich lativen Theologie kommt. einander so wenig aus, mehr die Tradition
+
+XXXIII daß die Speculation vielnothwendig ihr hat:
+
+nur diese will jene nicht anerkennen. Herr Gen.
+
+Sup. Bretschneider zu Gotha nennet diese Lehre idealistisch, pantheistisch, auch mystisch, ferner taschenspielerisch, ingleichen katholisch, Zu seiner Entschuldigung orthodoxbigott u. s. w. ift billig anzuführen, verschollenen daß der Mann einer bereits dogmatischen Bildung angehört, der er nicht mehr heraus kann, ferner, aus daß er den Sinn jener Worte ebenso wenig, als die Nothwendigkeit ihrer Anwendung gehörig begriffen hat, endlich, daß er ja erklärtermaßen nur nach seiner Individualität" urtheilt, folglich damit so viel wie nichts geſagt ist. Herr Gen.
+
+Sup. Röhr zu Weimar nennet einmal in seinem Journal diese Schrift in ihrer ers ſten Auflage: „eine von allen kritischen Richterstüh len Deutschlands verdammte Dogmatik."
+
+Er kann sich nun auch wieder auf seinen kritischen Armensünderstuhl ſehen und verdammen.
+
+Ihm, als dem sichtbaren Oberhaupt aller Rationalisten, steht das Verdammen besonders gut.
+
+Es zeigt, was die Welt der Herrschaft dieser Rationaliſten zu erwarten haben würde, geisterei und felbige ist.
+
+und daß der Fanatismus der Freider Bigotterei ganz der eine und [p. xxxiv] Den Freunden der speculativen Theologie hins gegen in dieser Zeit übergebe ich diese Schrift mit dem Wunsche, sie möge ihnen Veranlassung zum weitergehenden Nachdenken und zu dem Entschlusse seyn, bald etwas besseres, als das hier geleistete unvollkommene hervorzubringen.
+
+Berlin, am 30. Sept. 1826.
+
+Uebers
+
+[p. 2] Grundlehren der christlichen
+
+Dogmatik.
+
+A
+
+## Einleitung
+
+I.
+
+Begriff und Nothwendigkeit der Wissenschaft.
+
+§.
+
+Der Begriff einer Wiſſenſchaft ist von ihr ſelbſt nicht verschieden. Außer ihr selbst giebt es keinen Begriff von ihr. Ein solcher äußerlicher Begriff wäre nichts weiter, als eine Vorſtellung und vorläufige Notiz von ihr, welche zu geben und zu nehmen nur nüßlich ſeyn kann, nämlich dem, der von außen erst in die Wiſſenſchaft hinein will. Ebenso hat die Wissenschaft ihre Bestimmung nicht in einem andern, als ihr ſelbſt, und dieſe wäre äußerlich nur ihr Zweck, den Niemand begreift außer ihrem Begriff, und der innerlich nur nähere Bestimmung ihres Begriffes ist.
+
+Wer nur wissen will, wozu eine Wissenschaft gut und nüßlich sey, hat keinen Begriff von ihr. Aus der näheren Bestimmung ihres Begriffs ergiebt sich vielmehr ihre innere und äußere Nothwendigkeit. §. 1 2.
+
+Die innere Nothwendigkeit der Wissenschaft liegt darin, daß sie selbst das vollkommenste Leben des Geistes ist: nur in ihr ist und genügt er sich selbst wahrhaft; denn er ist und lebt nur im Denken, in dem beständigen Erzeugen der [p. 4] Aller Wahrheit Urquell aber ist Gott, und ihn in sich und sich in ihm erkennend und vernehmend ist der Geist Vernunft.
+
+Sie also ist und genügt sich selbst vollkommen nur in der vollkommensten Wissenschaft und nicht die Vernunft bezweifelt oder läugnet die Möglichkeit einer wissenschaftlichen Erkenntniß Gottes, sondern alle Zweifel an dieser Möglichkeit sind nur das Nichtanfangen ihrer Wirklichkeit, mithin nichtsſagend. §.
+
+Wie ein bloß möglicher, hypothetischer oder vorausge ſetzter Gott gar keiner ist, so ist auch die Wiſſenſchaft von Gott keine, der die Wirklichkeit ihrer selbst problematisch ist oder bleibt. Es wird aber selbst in dem abstractesten Denken wenigstens dem Gedanken an Gott Realität zuge-
+
+· schrieben, obgleich diese noch als eine dem Wiſſen jenſeitige gedacht. Somit handelt es sich schon weniger über die Möglichkeit an sich, als über die rechte Weise dieses Gedankens und Wissens von der Wirklichkeit Gottes. Es fehlt nur noch die Wahrheit dieſer Wirklichkeit, welche die wahre Form des Wissens ist; es wird dem wahren Wiſſen das schlechteste, unwahrste substituirt, hiermit zugleich auch der Gedanke an Gott, wie die Wirklichkeit Gottes unwahr. Wäre demnach das Wiſſen von Gott problematisch, so müßte es auch, wo nicht die Wirklichkeit Gottes doch die Wahrheit derselben seyn; welches die schlechteste Art ist, an Gott zu glauben. §.
+
+4.
+
+Der Skepticismus, der innerhalb des Zweifels stehen bleibt, beweiset die Unmöglichkeit eines Wissens von Gott so wenig, daß er vielmehr die Ungewißheit nur für gewiß ausgebend, sein Zweifeln und Nichtwiſſen ſelbſt nur mittelſt irgend eines Wiſſens von Gott geltend machen kann.
+
+[p. 5] Kriticismus, der den Skepticismus in sich hat, geht zwar zum Beweisen fort, läßt es aber nur bei der negativ dialectis schen Bewegung bewenden und zeigt, es müßte die Wissens schaft von Gott entweder empirische oder Vernunfterkennt niß, und als dieſe entweder theoretische oder practiſche ſeyn und da Gott weder ein Sinnliches, noch ein Nichtſinnliches, noch nur ein (abstraktlogiſcher) Gedanke iſt, ſo bleibt es zulezt in Ansehung des Wiſſens von Gott bei einem Poſtulat der praktiſchen Vernunft. Allein da Gott eben so wenig nur eine moraliſche Hypotheſe iſt, und alles Sittliche da nicht die Bestimmung des Seyns, sondern nur des Seynſollens hat, so bleibt auch die Kritik im Negativen stehen und ihr positives iſt nichts, als die sogenannte moraliſche Religion, welche, da sie über das Gesetz und dessen Herrschaft nicht hins auskommt, das Chriſtenthum nur von ferne berührt. §.
+
+5.
+
+Es liegt aber in dieser Behauptung selbst schon die Nothwendigkeit des Fortschreitens aus dem Negativen ins Poſitive, als worin jenes ſelbſt nur seine Wahrheit hat und welches zugleich die Negation des Negativen ist. An der Idee von Gott, die nichts Negatives ist, hat, wie die Religion, so auch die Theologie ihr Prinzip und somit auch ihren Anfang. Die Idee von Gott ist aber nicht blos ein Denken oder ein Gedanke, sondern zugleich ein Seyn oder die Wirklichkeit und es hat ſomit das ſubjektive Denken, als vernünftiges, zugleich das objective an ihm und darin erſt beſteht die Wahrheit desselben, deren Vermittelung der Begriff iſt. Die Idee Gottes ist das Wesen der Religion, eine objective Macht, welche das Leben beherrscht; der Begriff ist die wes sentliche und vollkommenste Form der Religion. Die Theologie ist Erkenntniß der Religion und ſomit Gottes in ihr. In der Theologie begreift die Religion sich selbst; jene ist der immanente Begriff von dieser.
+
+[p. 6] §.
+
+6.
+
+Inzwischen ist die Theologie nur ein in und aus der Religion sich erzeugendes Syſtem von Erkenntnissen, und daher unendlich weniger, als die Religion, welche das Leben mit in sich schließt und zugleich das Handeln im Glauben ist. Die Religion verhält sich zur Theologie, wie das Leben zu seinem Begriff. Die Theologen sind nur Die Vollkommenheit solches die Wissenden vom Glauben.
+
+Wiſſens aber ist die Wiſſenſchaft, die nicht ein Bedürfniß ist für jeden und nichts Populares, wie die Religion. §.
+
+7.
+
+Es ist die eine und selbige Idee von Gott, welche in der Theologie begriffen wird in den drei Grundideen des Glaubens oder der Religion, der Gemeinschaft der Glâubigen oder der Kirche, und des Wortes Gottes oder einer heiligen Schrift, die da ausgeht von beiden. In diesen Ideen sich entwickelnd wird die theoretische Theologie zur wiſſenſchaftlichen, hiſtoriſchen und exegetiſchen. Zu Wiſſenschaften und theologischen Disciplinen werden diese beiden anderen dadurch, daß sie in der erstern begründet und des griffen sind.
+
+Die wiſſenſchaftliche Theologie verhält sich zu ihnen, wie die Neligion zur Tradition, §,
+
+8.
+
+Die wissenschaftliche Theologie oder
+
+Religionswiſſenschaft begreift in sich die Dogmatik und Ethik, und sie selbst ist nicht außer diesen beiden.
+
+Ihre wesentliche
+
+Einheit und wiſſenſchaftliche Verschiedenheit ist auf gleiche Weise anzuerkennen. Das Wesen der Religion ist nicht allein ein Glauben und Wissen, sondern zugleich ein durch dasselbe bestimmtes Leben nd Handeln. Die Religion ist das Glauben im Leben und das Leben im Glauben.
+
+Glaube hat seine Wirklichkeit im Leben und Handeln, [p. 7] dieses aber hat seine Wahrheit im Glauben.
+
+Der Des
+
+I.
+
+griff hingegen vom Glauben im Leben und der Begriff vom Handeln im Glauben giebt in seiner vollständigen Entwickelung ein verschiedenes Wissen um beide.
+
+Und wie nur der
+
+Glaube der wirkliche ist, der nicht ist, ohne wirksam zu seyn oder ohne seine Werke, alle wahre Tugend nur aus dem Glauben kommt, so ist die Dogmatik negativ bedingt durch die theologische Moral, diese hingegen poſitiv bedingt durch jene.
+
+##### §. 9.
+
+Der Anfang einer wissenschaftlichen Erkenntniß der Religion fällt noch in das Gebiet von dieser, so fern es darin zum Bewußtseyn des Bedürfniſſes derselben kommt.
+
+Es iſt ursprünglich selber nur ein aus der Religion entspringendes Interesse, welches der denkende Geist nimmt an der Religion, woraus die Theologie entsteht.
+
+Durch das Interesse aber, welches, seiner Natur nach, nur ein äußeres Verhältniß ist, sieht er sich noch eben so sehr von ihr getrennt, als hingezogen zu ihr und es aufzuheben, es mittelst der Erkenntniß zur Einheit mit ihr zu bringen, ist sein Bedürfniß. Wo es daher z. B. in frommen Layen, zu solcher theologischen Erkenntniß kommt, da entsteht sie nur aus Religion als ein Forschen nach Wahrheit in den göttlichen Dingen. §.
+
+10.
+
+Die Religion, welche die Wahrheit an ſich ist, hat an und für sich an dem im Glauben mit enthaltenen Wiſſen genug und bedarf an sich der Theologie nicht, sondern diese bedarf jener, um auch nur anzufangen.
+
+Allein sie fängt nicht auch nur an, ohne weiter zu gehn, und den Glauben in sich, als dem Wiſſen, aufzuheben.
+
+Es ist dieses im Glaus den und dem Glauben selbst verborgene Wissen, welches in ihr sich entwickelt zu einem Wissen von ihm und welchem der Glaube selbst mit seinem ganzen, reichen Inhalt gegenftändlich wird.
+
+8.
+
+##### §. 11.
+
+Das Negative des Glaubens ist der Aberglaube und Unglaube. wird.
+
+Das Gemeinschaftliche ist, daß darin geglaubt
+
+Hier nun entdeckt sich dem Glauben das Bedürfniß des Wiſſens, als ein solches, worin er allein ſeine Wahrheit und seinen Unterschied hat vom Aberglauben und Unglauben.
+
+Diese beiden wären an und für sich gar nichts, auch keine Irrthümer und Unwahrheiten, wenn die Wahr-. heit nicht wäre, deren Entstellungen und Verdrehungen ſie } nur sind. So aber können sie selbst scheinende Wahrheiten und Wahrscheinlichkeiten seyn, daß ſie irgend ein einzelnes Moment der Wahrheit abstract und einseitig festhalten und sie entweder ganz nur zur Sache des dumpfen Gefühls oder des leeren Verstandes machen.
+
+Weil nun Gefühl und Verstand Bestimmtheiten der erkennenden Intelligenz selber sind, so kann die Wahrheit nirgends erſcheinen, ohne diese Verirrungen neben sich oder hinter sich haben; die Vernunft aber allein ist die Wahrheit des Gefühls und Verstandes.
+
+##### §. 12.
+
+Das Bedürfniß des vernünftigen Wiſſens, welches in seiner völligen Ausbildung das wissenschaftliche ist, hat der Glaube überall, wo er in das Selbstbewußtseyn getreten und zur Reflexion gekommen ist.
+
+Denn darin kann der Glaubende zugleich dem Bewußtseyn nicht entgehen, daß er den Zweifel und Irrthum nicht absolut außer sich, sondern auch in sich habe und somit zugleich die Störung und Erschütterung seines Glaubens.
+
+In diesem Bewußtseyn des mit sich selbst zerfallenen, durch Zweifel und Irrthum schon mehr oder weniger gestörten Lebens im Glauben wird der Glaubende über den Glauben hinausgetrieben und entsteht zwar nicht der Versuch, aber doch das Bedürfniß, mittelst des Wiſſens vom Glauben, sich ein beharrliches Leben im Glauben zu sichern.
+
+Das Bedürfniß aber ist ein anderes, als [p. 9] deffen Befriedigung; jenes fällt noch in die Sphäre des Glaubens; zu dieſer kommt es erst in der Theologie.
+
+##### §. 13.
+
+Wenn es auf diesem Wege bei dem Einzelnen in der Religion zur theologischen Erkenntniß kommen kann, welches nur die Möglichkeit derselben ist und stets kommen wird, welches die innere Nothwendigkeit derselben ist, so muß es auch dazu kommen in der Kirche, und dieses ist die äußere Nothwendigkeit der Theologie.
+
+In der Kirche ist die Nothwendigkeit der Theologie öffentlich anerkannt und objectiv.
+
+In der That ist darin eben das, was dem Ein- ´zelnen widerfährt, nur die Erfahrung der ganzen Gemeinde. Nur daß sie als die Gemeinde nichts weiter, als die Gemeinde der Gläubigen, nicht der Wissenden zu seyn berufen ist. Nicht, als ob sie dem Wissen feind und entgegen wäre, sondern weil ihr genügt, nicht nur in der Andacht und Frömmigkeit, sondern auch in dem Bewußtseyn und der Reflexion darüber zu seyn und zu leben.
+
+Aber andererseits kann sie auch dieses nicht, ohne darin zugleich auf den Gegensatz des Glaubens und Unglaubens, der Religioſität und Irreligiosität zu stoßen, also mit sich entzweit zu seyn, und das Bedürfniß des Wissens und der Versöhnung des Glaubens mit dem Wiſſen zu haben.
+
+§. 14. Dieses kündiget ſich darin an, daß sie stets Einzelne aus der Menge hervortreten läßt, welche die im Glauben Wissenden sind, und denen ſie dieſes Wiſſen ſogar zur Pflicht und zur Bedingung des kirchlichen Amites macht.
+
+Bringt die Religion schon Lehrer derselben mit sich, welche als solche Zeugniß geben vom Daseyn und Wesen der Religion, so bringt die Kirche im Staat auch einen Stand der Lehrer mit sich, in den Niemand aufgenommen wird, er habe ſich denn zuvor auch über seine theologiſchen Einsichten ausgewiesen. [p. 10] Es liegt dabei die Ueberzeugung zum Grunde, daß, obwohl nicht die Theologie, sondern das Wort Gottes unmittelbar zu verkündigen ist in der Gemeinde, dieſes doch unter den gegenwärtigen Umſtänden nicht geschehen kann, ohne zu einer gründlichen und beſtimmten Erkenntniß der Religion gelangt zu seyn.
+
+##### §. 15.
+
+Es ist der Geist der Gemeinde selbst, in der christlichen Religion erkannt als der heilige Geist Jesu Christi, der nicht, wie die Gemeinde, das Bedürfniß des Wiſſens hat, sondern vielmehr es befriedigt und die Versöhnung des Glaubens mit dem Wiſſen vollbringt, indem er immerdar Einzelne zu Wiſſenden und zu Werkzeugen der Wiſſenſchaft macht. In ihm und der Gemeinde, die ihn in ſich hat, ist die Beſorgniß nicht, es möchte das Wissen dem Glauben feindlich und hinderlich seyn, sondern vielmehr die Gewißheit, nothwendig vielmehr sei das Wiſſen dem Glauben, um diesen zu schützen und zu bewahren, in seiner Reinheit, Freiheit und Kraft. Andererseits wissen die im Glauben Wissenden und als solche über den Glauben hinausgehenden, sich vor allem als Glieder jener Gemeinde, welche sie ausgesendet hat in die Wiſſenſchaft, nicht, daß ſie darin des Glaubens verlustig gehen, oder dem Glauben und der Gemeinde der Gläubigen sich entgegenseßen oder entfremden, oder die Wissenschaft an die Stelle der Religion bringen und mit dem Wissen von dem Eitlen und Vergänglichen oder Vergangenen sich aufblähen, sondern als solche, in denen der Geiſt Jesu Christi sich als den absolut gegenwärtigen weiß und die also auch die Geschichte der Religion als die ewige Gegenwart wiſſen.
+
+Indem so der Geist der offenbaren Religion das Wissen nicht nur an ihm selbst hat, sondern es selber ist, ist durch die wirkliche Wiſſenſchaft erst die Religion vollendet.
+
+[p. 11] I.
+
+16.
+
+§.
+
+Zu allen Zeiten hat daher, nachdem die Unschuld des Glaubens verschwunden war, die Kirche eine Theologie, eine Dogmatik in sich gehabt und es giebt, wie nur Eine christliche Religion und nur Eine Vernunft, so auch nur Eine christliche Theologie.
+
+Aber wie der Geist jener sich selbst die verschiedensten Formen giebt, nach dem Bedürfniß der verschiedenen Zeiten, so erscheint auch die Theologie in ihrer Geschichte als eine mannigfaltige, welches die Seichtigkeit so versteht, als habe die Dogmatik selbst, als eine bestimmte, keine Wahrheit und Wirklichkeit, und der Eitelkeit ſogar die Einbildung giebt, über jede hinaus zu seyn, als ſei jede nur eine wechselnde Ansicht der Zeit und ein Spiel der Subjectivität.
+
+Aber sie erkennt nicht, daß die verschiedenen dogmatischen Denkarten und Systeme nothwendige Momente und Bestimmungen sind, welche der Eine Geist der christlichen Theologie sich selbst giebt und welche alle von ihm an ihren Ort gestellet, ihm selbst untergeordnet und in ihm aufgehoben sind.
+
+##### §. 17.
+
+Die Dogmatik kommt zu sich selbst in dem richtigen und bestimmten Begriffe von sich.
+
+Ihr bestimmter Begriff aber ist, ein bestimmter Begriff von der Religion und die dialectische Bewegung dieses Begriffs oder die Wissenschaft von der Religion zu seyn.
+
+An dieser hat sie ihren wesentlichen Inhalt, sie selbst aber ist die Theorie der Religion und die Wissenschaftlichkeit somit die wesentliche Form ihres Inhalts.
+
+Beide sind nicht auſſer einander; sie verhalten sich zu einander, wie das Wiſſen und die Wiſſenſchaft.
+
+[p. 12] The Gottes
+
+Inhalt der Dogmatik.
+
+da Seister
+
+18.
+
+Serrungen Bäglichkeit,
+
+Die Religion ist nicht außer dem denkenden Geiſte und jandigen
+
+§.
+
+in ihr denkend erweiset der menschliche Geiſt ſich in seiner wahrhaftigen Wesenheit.
+
+Ihr Element ist das Bewußtseyn und dieses ist nur in ihr, als dem Bewußtseyn Gottes, vollkommen. Sie, als das Licht, ist nur dem Auge Licht und nur im Lichte und vom Lichte aus sieht das Auge.
+
+ſeyende Religion nnd der denkende Geiſt werden eins allein durch den Begriff und dieses ihr Einswerden in dieser Mitte (medium) und Vermittelung ist die Wahrheit der Religion, wie die Wirklichkeit des Geiſtes.
+
+##### §. 19.
+
+Die Religion, indem sie die seyende ist, ist ein Denken, aber ein anderes, als das der Wissenschaft.
+
+Dieses besteht nicht darin, daß sich das erstere nur in diesem wiederholt, mu sondern zugleich die Erkenntniß mit enthält, wie sich die Religion und der Geist zu einander verhalten, und wird mit die Religion im Geiste zugleich Reflexion.
+
+hie
+
+Hiedurch
+
+Son treten beide zu einander in ein inneres und wesentliches Verhältniß.
+
+Dieses aber ist zunächst das unmittelbare gang noch abstracte Ansichſeyn der Religion, sodann der Unter schied und die Beziehung der Religion und des Geistes auf einander und endlich die Einheit beider.
+
+##### §. 20.
+
+Das Ansichseyn der Religion ist die ewige Idee Gottes, eine Macht, welche das Leben beherrscht.
+
+Thchei t ifthe driftlic he.
+
+Untert Folch i lachten Permitt el
+
+Darin ist die
+
+Religion nicht verſchieden von Gott selbst, deſſen Idee sie
+
+527De
+
+- ist, d. h. worin Gott sich denkt und gedacht wird.
+
+Idee Gottes ist Gott, als Geist, sich selber gleich und in allen Geistern und an ihr haben alle dieselbe Macht in sich und über sich, dieselbige Wahrheit, bei der sie unter allen Verirrungen sich wieder orientiren können, wie die einzige Möglichkeit, sich unter einander in Dingen der Religion zu verständigen und zu verstehen. §.
+
+21.
+
+Dieses geschieht aber wirklich nur so, daß der vorausgesetzte Inhalt der Idee nicht dem Begriffe, als derselben wesentlicher Form, äußerlich bleibt. Das nur an sich seyende iſt zugleich das verborgene und das Berufen auf die unbeſtimmte Idee noch keine Erkenntniß derselben. Nur in diese Idee aufgenommen und in ihr aufgehoben ist der menschliche Geist fähig, Gott zu erkennen.
+
+Sein wahres Sicherheben zu Gott durchs Denken ist aber stets zugleich ein Erhobenſeyn, das Eingerücktseyn des menschlichen Denkens Gottes in das göttliche Denken Gottes.
+
+Eine Einrückung, welche nur vom leeren, abstracten Denken stets für eine Verrückung gehalten werden muß.
+
+##### §. 22.
+
+Von dieser Seite her ist alle Realität, alles Seyn im Geiste, welches durch seinen Begriff zum Wahrseyn, zur Wahrheit wird.
+
+Die Religion ist aber schon an und für sich die Wahrheit, und als solche vollkommen offenbar als christliche.
+
+Sie, die auf dem Wege der christlichen Erziehung und Unterweisung ihrem Inhalte nach an ihn kommt, enthält zugleich die beſtimmte Aufforderung und Veranlassung, dem gedachten Inhalte selbstthätig nachzudenken mittelst oder in der Vermittelung des Verſtandes, der Wahrheit gewiß zu werden, es in der Wahrheit zur Gewißheit zu bringen. Der Verstand, der dieses thut oder er in dieſer concreten Einheit seines Thuns [p. 14] mit der Religion ist Vernunft; sie ist die Erkenntniß der Wahrheit, welche Gott selber ist und hiemit von der Religion nicht verſchieden.
+
+Nur in und mit ihr kommt der
+
+Mensch zur Vernunft.
+
+##### §. 23.
+
+Die Vernunft, in die Idee Gottes aufgenommen, ist ein göttliches Seyn des menschlichen Geistes, und darin allein liegt die Möglichkeit ihres göttlichen Denkens. Sie ist von der Religion oder der Idee Gottes nicht wesentlich verschieden;
+
+so ein
+
+Gedanke
+
+Gottes gedacht seyend von Gott vermag sie auch nicht nur an Gott zu denken (Andacht zu haben), sondern auch ihn zu denken und zu erkennen.
+
+##### §. 24.
+
+Alles Erkennen Gottes in der Vernunft beruhet von dieser Seite zunächst auf Mittheilung.
+
+Die Religion, in der
+
+Vorstellung als an sich seyend betrachtet, ist ein gegebenes. Das Erzeugen derselben im Geiſte. und durch das Denken ist nur ihre wesentliche Form, nicht ein Entstehen derselben selbst und an sich, sondern nur für uns und in unserm Geiste, also nur das Werden des Geistes und seiner Gedanken für sie. Dieses Werden des Geistes durchs Denken beruhet auf seinem ursprünglichen Seyn oder Geschaffenſeyn, nämlich zum Bilde Gottes, welches auch in seinem jeßigen Leben noch die Bedürftigkeit und Empfänglichkeit, und damit zugleich auch die Fähigkeit für die Wahrheit iſt. In diesem Bilde (tanquam in speculo) denkend, ist das Denken in der Religion ein speculatives.
+
+##### §. 25.
+
+Dieses Seyn des Geistes ist das Gleiche in allem Ungleichen, ist das Positive in der Vernunft, welcher Begriff [p. 15] des Positiven gänzlich verfälscht erscheint in der gemeinen Vorstellung, nach welcher es das Willkührliche und Subjective ist, da es vielmehr das Objective, sich selber gleiche ist. Der wahre Begriff des Positiven ist der von einem Sich. ſelbſtſeßen oder einer Poſition Gottes in der Vernunft, und hiermit alles alleinigen Seyns und Wahrſeyns derselben. Ohne dieses Positive, welches zugleich jenes Gegebene ist, kann sie nichts anfangen mit ihremDenken, mithin ſelber nicht wahrhaftig anfangen: es muß ihr das Erkennen Gottes zugleich angefangen seyn;
+
+ohne selber gesetzt zu seyn, kann
+
+ſie nichts setzen: die Vernunft führet zum Glauben an Gott nur, sofern sie dazu geführt ist.
+
+##### §. 26.
+
+Hierin beruhet die göttliche Nothwendigkeit aller Relis gionswahrheiten, welche sie haben in dem menschlichen Denken zunächst durch ihr göttliches Seyn, welches nicht nur ihr bloßes Ansichſeyn, sondern auch ihr göttliches Offenbarseyn ist, nämlich dem Geiste, der eben durch diese Offenbarung erst selber ist. Gott will erkannt seyn, d. h. er hat sich geoffenbaret und es ist das Wesen aller Religionswahrheiten, von Gott geoffenbarte, und an und von Menschen mitgetheilte zu seyn. Aber eben darum, weil Gott erkannt seyn will, muß der menschliche Geiſt ihn denken.
+
+Das diesem Offenbarſeyn und offenbaren Seyn entſprechende Denken führet eine innere Nöthigung und Nothwendigkeit, einen innern Zwang mit sich, wodurch sich das wahre Seyn im Denken verräth, und dieses zum Wahrseyn, zur Wahrheit wird (cogitare von cogere).
+
+##### §. 27.
+
+Die, dem Positiven in der Vernunft, welches das Seyn Gottes ist in ihr Kraft der Idee von sich, sich verſagende Erkenntniß muß zu ihrer Verdammniß im Negai tiven stehen bleiben, weiß nur zu sagen, was Gott nicht ist, hat aber, was sie auch auf diesem Wege noch von der Wahrheit begreift, nur daher, daß es das Negative vom Poſitiven ist, mithin nur das Voraus- Setzen von diesem ist, welches das unbegriffene, dahin gestellte, im dunkeln Jenseits der Erkenntniß gelaſſene Setzen Gottes iſt. §.
+
+28.
+
+Darin ermangelt das ſubjective Denken alles wahrhaftigen Inhalts, aller Objectivität, bringt es nicht zu wahren Erkenntnissen, sondern nur zu Annahmen, Meinungen und eigenen Gedanken.
+
+Alle Lehren der Religion, welche dieser ihrer Natur nach Zeugnisse sind, welche die Religion von sich, ihrem Seyn und Wesen ablegt in unserm Denken und womit sie uns überzeugt, sind nur so wahr, als Gott ist, d. h. aber auch, als er wahrhaft erkannt ist.
+
+Denn ist allerdings die Idee Gottes ihre höchste Sanction und alles Denken nur so wahr, als sie darin gegeben und nicht aufgegeben ist, welches letztere nur der Act des leeren menschlichen Denkens ist; so gehört doch zur begriffenen Idee eine Bewegung des Begriffes, wodurch die unbestimmte Idee erst zur bestimmten oder zur Wahrheit wird.
+
+##### §. 29.
+
+Aeußerlich entspringt hieraus die Forderung, in allen Gedanken an Gott würdig von Gott (εолоεлs) zu den ken, welches die Uebereinstimmung des menschlichen Denkens ist mit dem göttlichen Seyn, und die Wahrheit in aller Religion.
+
+Diese Wahrheit aber, welches nur die der Vorstellung ist, hat ihre Gewißheit lediglich im Begriff, welcher nicht bloß die Uebereinstimmung des Denkens mit dem Seyn ist, sondern die Einheit beider.
+
+Die Vernunft, nur ihr eigener Begriff und nicht zugleich begriffen in und von der Idee Gottes, die sich selbst überlassene Vernunft [p. 17] nunft, und hiemit das von Gott verlassene menschliche Denken, ist nur zu geneigt, alle seine eigenen Erfindungen,
+
+Armseligkeiten und Unwürdigkeiten auf das göttliche Seyn und Wesen zu übertragen und jene in dieſes hinein zu denken, d. h. so zu thun, als hätte es sie darin gefunden.
+
+§. 30. Weiter hat jene Forderung den Sinn, daß die Vernunft, um zu sich selbst zu kommen, zu Gott komme, feis ´nem Ansehen folge´und sich ihm, als Object ſubjicire. Diese ihre Hingebung ist ihr Gewinn, dieſer ihr Gehorsam ist ihre ganze Macht und Herrschaft. Die Vernunft, die an Gott ihren Ursprung und Urheber (auctorem) hat, macht alle Religion zu einem Glauben an diese Auctorität, zu einem Auctoritätsglauben. Dieser ist nicht mehr der Glaube des Unmündigen, sondern des Wissenden, schließt also das freie Forschen und Untersuchen ein. Jene wesentliche Bestimmung im Begriff der Religion ist so wenig beeinträchtigend für die Vernunft, daß sie vielmehr selbst nur darin anfangen, das ´Erkennen Gottes beginnen, fortseßen und vollenden kann. Nur eine Vernunft, die sich um das Seyn und Wahrseyn ihrer Gedanken nicht bekümmert, kann sich dieser Auctori tät entſchlagen und eine solche ist keine. §.
+
+31.
+
+Wie es mit dem Göttlichen an sich ist, als einer Macht über uns, im Glauben an welche die Vernunft ſelbſt erst beginnt und nur beſteht, und welches auch sonst den Sinn hat, daß alles Wiſſen von der Religion nur in ihr, als dem Glauben entstehen und beſtehen kann, ſo iſt es auch mit dem Göttlichen im Menschlichen und der dadurch begründeten menschlichen Auctorität.
+
+Nicht darum iſt das Göttliche als das Wahre zu verwerfen, weil es menschlich geworden oder der Glaube an menschliche Auctorität an und für sich und B [p. 18] als solcher oder unbedingt zu verschmähen. In diesem Sinn ist vielmehr die Protestation gegen den Glauben an die Auctorität eines Menschen unchristlich, weil sie den Glauben an Jesum Christum selbst von sich ausschließt. Es kann vielmehr vernünftigerweise damit nur ein solcher Glaube an fremde Auctorität, gemeint seyn, der alle eigene Einsicht, alle freie Prüfung und Untersuchung verſchmäht, und nur gegen eine solche Auctorität, die gar keine ist, hat die Protestation ihre Berechtigung und Wahrheit.
+
+##### §. 32.
+
+Ist die Religion in ihrem Anſichſeyn, wie allgemein zugegeben wird, eine Wahrheit, so kann auch nur von denen, welche überhaupt an keine Wahrheit, und somit auch nicht an Gott, der die Wahrheit selber ist, glauben, geläugnet werden, daß der Mensch sie nicht machen oder erfinden, sie durch sein Denken nicht erst zum Seyn an sich, bringen, sondern ihr, der ewigseyenden nur nachdenken und denkend sich aufsie einlassen kann.
+
+Erst in diesem Anerkenntniß kann und soll denn aber auch die Erkenntniß für sich entstehen und die an sich seyende Wahrheit auch für ihn, den menſchlichen Geist seyn und er derselben theilhaftig werden.
+
+Hiemit aber geht die Religion als göttliche Wahrheit zugleich aus ihrer concreten Unmittelbarkeit heraus, in der sie bloß ihrem abſoluten Inhalt nach vorgestellet ist, in der sie also auch noch die abstracte Identität oder das Abstractpoſitive und Bestimmungslose zu ihrer Bestimmung hat §.
+
+33.
+
+In dieser concreten Unmittelbarkeit kann die Religion nicht bleiben und es ist ihre innere Begriffsbestimmtheit selbst, welche sich darin fortbewegt.
+
+Ihre Verwirklichung selbst hebt erst darin an, daß jene Form des Ansichſeyns und der Unmittelbarkeit aufgehoben wird und sie sich in
+
+19, den Gegensatz des allgemeinen Ansichſeyns der Religion und des beſondern Fürſichſeyns, derselben begiebt, und hiedurch in ihrem unmittelbaren Seyn dem Denken gegenständlich wird.
+
+Als das Fürsichseyn aber ist sie die Religion in ihrer Subjectivität und Zuständlichkeit, in welcher sie sich erst zum ebenso objectiven, und hiemit erst wahrhaft concreten Daseyn bestimmt.
+
+Es ist demnach jezt die Aufgabe, was hier zunächst in der Vorstellung gegeben und an sich das
+
+\# Wahre ist, in seinem für sich, im Elemente des Geistes zu fassen und das Werden deſſelben im Denken, oder die Religion in ihrer Sub- und Objectivität zu erkennen.
+
+##### §. 34.
+
+Die erste und allgemeinſte Zuſtändlichkeit, in der die Religion erscheint, ist das Gefühl.
+
+Es ist an sich die vollkommenste Unbestimmtheit und fähig, das Verschiedenste und Entgegengeseßte als Inhalt in ſich aufzunehmen. ist die reine Receptivität.
+
+Bestimmt durch etwas, was an
+
+ſich nicht Gefühl, ist es zugleich die stärkste Bestimmtheit des Geistes und der Religion. Es iſt in ſeiner Ursprünglichkeit nichts weiter, als Gefühl des Ich, und hat daran ſeinen ganzen, bewußtlosen Inhalt.
+
+Aus der Natur stam Ein als Naturgefühl.
+
+mend ist es ursprünglich nichts Gefühl Gottes, oder ein religiöses Gefühl in dieſer Unmittelbarkeit kann nicht seyn: Gott kann so wenig gefühlt als erfahren werden.
+
+§. 35. ist vermittelt durch den religiöses, Das Gefühl, Gedanken und in dieser Form ein wesentliches Moment an dem Begriffe der Religion. Es ist in dieser Gestalt nicht nur die erste unmittelbare, concrete Erscheinung der Religion, in der sich noch nichts gesondert oder geschieden hat, und diese in solcher Form die Religion des Kindes, son: dern es liegt auch in der Bestimmung der Religion, den B2
+
+[p. 20] Gedanken mittelst des Gefühls zur Wirksamkeit auf die Welt, zur Gestaltung des innern und äußern Lebens, zur Beherrschung und Unterwerfung der Sinnlichkeit zu bringen. Nur im Gefühl wird die Religion individuell, zur Religion des Einzelnen.
+
+Hiezu gehört, daß sie mittelst des unendlichen Gedankens im Gefühl das Endliche und Sinnliche bestimme.
+
+##### §. 36.
+
+Ob aber wohl selbst der abstracteste Gedanke sich nie ganz aller Zuständlichkeit entschlagen kann, und das Gefühl selbst in der dumpfesten, sinnlichen Rohheit noch wenigstens den Schein und Schatten des Gedankens an ihm hat, also in allen Gestalten von der untersten Stufe der rohesten
+
+Superstition bis zur höchsten Verfeinerung und Verklärung hinauf der Sit, d. h. die Erscheinung, das Daseyn der Religion und derselben Subjectivität iſt, ſo iſt es doch, als Gefühl, nicht die Quelle und das Prinzip derselben, sondern vielmehr ist es das Gemeinsame aller Gefühle, daß darin auf allen Stufen der Geist und in und mit ihm die Religion und Vernunft nicht mehr in und bei sich selbst, sondern to麵 außer sich ist.
+
+##### §. 37.
+
+Ob daher das Gefühl der Religion reiner oder unreiner ſei, hängt durchaus ab von dem Maaß, in welchem das Sinnliche und Ueberfinnliche darin beiſammen ist und eins das andere bestimmt und überwiegt.
+
+Weil darin die übersinnliche, sich selber gleiche Idee mit dem Sinnlichen und Zufälligen beiſammen, und das Gefühl ein unwillkührlich
+
+Bestimmtseyn ist und eine bloße Form, so läßt sich ein rechtes Maaß nie angeben im Begriff, ſondern der Fühlende oder der Gefühlsmensch hat sich darin ganz particulariſirt und isolirt. Es ist dieser seiner Natur nach, wenn der Fühlende nicht über sein
+
+Gefühl hinausgeht und in die
+
+[p. 21] Welt des Gedankens zurückkehrt, die Auflösung aller Gez meinschaft und gegenseitigen, vernünftigen Verständigung.
+
+##### §. 38.
+
+Muß nun die Religion, um in der Welt zu seyn und zu wirken, auch das Gefühl afficiren und bestimmen, so ist. es doch nicht ebenso wesentlich, d. h. ihrem Begriff gemäß, sich durch das Sinnliche und Endliche bestimmen und afficiren zu laſſen, ſondern dieses ist nur ihre Bedingung und Beschränkung, und es widerspricht ihrem Begriff, diese Bedingtheit und Beschränktheit mit allen natürlichen Beschaffenheiten und Endlichkeiten des Menschen zu ihrem Mitelement zu machen, ja sie nur in dieser innern Concrescenz mit dies sen, als ihrer wesentlich andern Seite anzuerkennen.
+
+##### §. 39.
+
+Das Gefühl hat in seiner reinen Natürlichkeit seinen Ausgangspunkt am Sinn, welcher als äußerer Sinn die Sinnlichkeit, als innerer Sinn die Gemüthlichkeit ist.
+
+der erstern Seite zieht das Gefühl die ganze Sinnenwelt in sich hinein, von dieser ist es auch der Vernunft zugänglich und die Möglichkeit der Vernunft. Im Gemüth ist das Sinnliche, welches der Mensch mit dem Thier gemein hat, aufgehoben.
+
+Diese Aufhebung macht alle Gefühle als Gemüthsbewegungen zu sinnlichen, und im Vergleich mit der Religion und der Vernunft, als dem Licht und Leuchtenden, zu dunklen und trüben Gefühlen. Das Hineinspielen jenes Lichtes in diese Finsterniß und das Zuſammenſeyn beider im Gefühl, ist das Mystische.
+
+Das Gefühl kann seine Abkunft aus dem Natürlichen und Sinnlichen nicht verläugnen, und es ist wahres Abhängigkeitsgefühl, nämlich Gefühl der Abhängigkeit von der Natur und Sinnlichkeit, und deshalb unfrei, den Geist beschränkend und niederdrückend, 1d so wenig das Prinzip der Religion, daß vielmehr, wo [p. 22] diese ist, die Abhängigkeit aufgehoben, das Gefühl befreit und erhoben, sie das befreiende und erhebende ist.
+
+##### §. 40.
+
+Ist der Mensch mit seinen Gefühlen oder als Gefühlswesen noch in der drückenden Abhängigkeit von der Natur und Sinnlichkeit und somit der natürliche, fleischlich gesinnte Mensch, sein Gefühl also in Beziehung auf die Religion noch ein unwahres und unlauteres, so werden sie hingegen zu wahren und lautern Gefühlen erst, wenn er über diese Stufe hinausgekommen, ein verſtändiges und vernünftiges Wesen geworden: denn nur vom Verstande und Gedanken aus giebt es auch dem Inhalt nach wahre Gefühle, religiöse und ſittliche, und auf allen Stufen des finnlichen und gemüthlichen Lebens ist die Wahrheit des Gedankens allein die Wahrheit und Rechtmäßigkeit der Gefühle; was über dem Denken und Verstande hinaus noch mehr im Gefühl ſeyn soll, ist das rein Subjective, Eitle und Willkührliche.
+
+§. 41. Ebendarum sind auch beide, Sinnlichkeit und Gemüth lichkeit in der Religion, als Zustand des Menschen, nur aufgehobene Momente; in dem Menschen, so wie er zu Verstande kommt, geht das Sinnliche und Gemüthliche in das Verſtändige über und dieſes iſt das Denken, das eigentliche Element der Religion, die, als die wahre, nicht die Religion des Gefühls oder Gemüths, ſondern die Religion des Geistes und der Wahrheit ist. Es kann demnach der Geist nur sich und die mit ihm identische Idee aufsuchen in allen Gefühlen, um wieder zu sich selbst zu kommen und das nach allein, ob er mehr oder weniger frei gelaſſen oder gebunden war durch das Sinnliche oder Vernunftlofe,
+
+Dignität aller Gefühle bestimmen. Statt, wie häufig ge wähnt worden, durch diesen Uebergang in den Gedanken oder des Gedankens in das Gefühl an Inhalt, Werth und
+
+[p. 23] II. Inhalt der Dogmatik.
+
+Vortrefflichkeit zu verlieren (l'homme en commencant à penser, cesse de sentir.
+
+Rousseau. Jacobi.) hat das
+
+Gefühl ebendarin nur seine Wahrheit.
+
+##### §. 42.
+
+Das endliche, begrifflose Denken, indem es der Religion an dem Gefühl ihren ganzen Inhalt giebt, kommt nothwendig dahin, daß ihm das Endliche, Zeitliche und Subjective, und somit das Eitle und Willkührliche darin, mit dem Unendlichen, an sich Seyenden und objectiv Wahren ganz gleichgültig wird, und es den Unterschied beider nur so aufheben kann, macht.
+
+daß es beide gleichgültig gegen einander
+
+Daher in solchen Vorstellungen das Endliche und Subjective ganz als das Unendliche und Objective und dieses als jenes erscheint, welches auch wohl ganz offen zu Tage kommt in der vorausgesetzten oder ausgesprochenen Ueberzeugung, daß das Ewige und Göttliche nicht an sich sei oder, was dasselbige, nicht zu erkennen sei, ſondern nur im Gefühl und als solches erscheine und dieses die alleinige Form der Wahrheit von jenem ſei, da es vielmehr, in Abficht auf die Erkenntr.iß der Wahrheit, die untergeordneteste und schlechteste Form derselben ist.
+
+§. 43. Wenn, zumal nach eingerissener Leerheit des Denkens in der Religion und nach geschehener Ausplünderung seines Gebietes, dem Geiste natürlich nichts übrig bleibt, als das Sehnen, und seine Wahrheit ihm nun ein leeres Jenseits geworden ist, dem kein Inhalt entspricht, er aber in dieser Leerheit nicht bleiben und es dem Leben im Glauben Bedürfniß werden konnte, sich in trübe Gefühle zu flüchten und zu verſenken und den Glauben, aus dem Reiche des Gedankens verstoßen, wenigstens im Gefühl noch unterzubringen, dann aber die sinnlich dunkele Maſſenhaftigkeit desselben zum Mitinhalt der Religion selbst gemacht wird, [p. 24] so mußte man allerdings das gegen die unendliche Verarmung des Geiſtes für einen wirklichen Fortschritt halten, daß man nun wieder doch ganz von vorn und bei dem Kindischen anfangen und sich in eine trübe Mystik verſenfen konnte. Aber es ging hieraus zunächst die merkwürdige Erscheinung hervor, daß diese Frommen (Mystiker, Pietisten) mit jenen Unfrommen (Rationalisten, Nihilisten) dieselbige Verzweifelung an der Wahrheit der Religion an sich und im Elemente des Denkens und Wissens theilten, und beide gemeinschaftlich ihre Sache auf Nichts stellten: denn kann wohl die Wahrheit, die an sich nichts ist, d. h. unerkennbar´ist, noch etwas für uns ſeyn?
+
+##### §. 44.
+
+Die andere, dem Gefühl höhere und dem Begriff der Religion entsprechende Zuständlichkeit hat die Religion im Denken. Es ist Bewußtseyn, wenn es die wesentliche Form des Ich hat, und wird ſomit ein sich seiner ſelbſt bewußtes Seyn.
+
+Diese Reflexion in sich macht das Denken zum Selbstbewußtseyn.
+
+Was nun bereits im Sinn,
+
+Sinnlichkeit und Gemüthlichkeit war, das Denken, aber als ein ganz abstract unmittelbares, von Gefühl und Gemüth noch nicht verſchieden, also nur der Möglichkeit nach und noch nicht wirklich gesetzt, das ist das Denken wirklich als Verstand.
+
+Anhebend im Sinn und Gemüth.hebt er sich selbständig daraus hervor; in ihm ist der Geist in seinem eigenen Elemente und er erhebt auch die Religion aus der Natur- und Nebel-Welt trüber Gefühle in die lichtvolle und heitere Region des Gedankens.
+
+##### §. 45.
+
+Es ist der wesentliche Begriff der Religion, ein Ges.
+
+danke und nur im Denken zu seyn. Nur im Verstande wird das ihm niedere und höhere, die Natur sowohl als die Re-.
+
+I ligion, ihm klar und offenbar.
+
+Wie alle Ausschweifungen des Gefühls dadurch verhindert und die Religion nur mittelst des Verstandes zu einem wahren und würdigen Gefühl werden, und die Subjectivität recht bestimmen kann, so kann sie auch in sich selbst nur als Gedanke Wahrheit ha den und der Form des Verstandes sich nicht entschlagen. Nur eine Herzens- oder Gefühls - Sache ist sie die in die Sinnlichkeit versenkte, dumpfe Wahrheit, und kann ebensowohl auch Lüge, Aberglaube, Heuchelei und dergl. ſeyn. Als reine Negation des Denkens und als das unbestimmte nimmt das Gefühl das Unwahre und Schlechte eben so sehr für das Wahre und Gute, als das Wahre und Gute für 9 das unwahre und Schlechte.
+
+##### §. 46.
+
+Die Wahrheit des religiösen Gefühls ist also nicht dieſes, ſondern der Gedanke, und dieser in seiner Unmittelbarkeit ein betrachtendes Thun, das an dem in der Religion gegebenen 'seinen Gegenstand hat.
+
+Als Betrachtung aber hat sie die Bestimmtheit des Denkens an ihr, es wird dar in an Gott gedacht, sie ist Andacht.
+
+In ihr zeigt sich die
+
+Religion in der concreten Unmittelbarkeit des Seyns und Denkens, welche erst im Bewußtseyn, in der Reflexion auss einander treten.
+
+Der Erscheinung nach kommt das Denken aus dem Gefühl her, und dieses verknüpft sich dann selber auch, in dem Gedanken, der Andacht; in Wahrheit aber ist der Gedanke der Grund des religiösen Gefühls, daher er wohl, um sich wirksam zu erweisen, aber nicht an sich, um Wahrheit und Gewißheit oder gewußt zu seyn, des Gefühls bedarf, dieses hingegen ohne ihn nichts ist.
+
+##### §. 47.
+
+Allein es kann der Verstand auf der Stufe des Denkens an und für sich stehen bleiben, von allem Seyn ab
+
+[p. 26] ſtrahiren und sich auch in der Religion auf die Erkenntniß der Erscheinungen, und auf das Denken des Denkens oder seine eigene abstracte Form beschränken.
+
+Er kann auf die ihm wesentliche Form der Reflexion in sich beschränkt, das Ich und dessen Bewußtseyn nicht blos zu einer wesentlichen Bedingung aller Wahrheitserkenntniß und Religion, ſondern auch an und für sich zum Prinzip der Religion selbst machen, und Grunde und diese ufurpirte Selbständigkeit ſchlägt ſodann nothwendig nicht nur zur Verkennung der Religion, sondern auch zur Verfälschung des ganzen Gebietes der Erkenntniß des Geistes um. §.
+
+48.
+
+Solchem abstracten Denken bleibt das Seyn oder das Gedachte ganz äußerlich, Begriff und Gegenstand erreichen einander nicht; der Begriff stimmt wohl überein mit dem Gegenstande, aber sie bleiben im Unterschiede gegen einander stehen und in der Beziehung auf einander. Ueber dieses Relative, Bedingte, Endliche hinaus bringt es der abstracte Verstand nicht.
+
+Die Wahrheit der Religion aber ist nicht eine relative, sondern abſolute Wahrheit: denn Gott, dessen Erkenntniß sie ist, ist nicht ein Relatives oder Bedingtes. Auf sichy also, als abstracten Verstand beschränkt, bleibt dem Verstande die Religion äußerlich, fremd und fern.
+
+##### §. 49.
+
+Wenn so der Begriff und die Vernunft nur die eine Seite von sich, das Denken, geltend macht, und die Subjectivität des Denkens, das hin- und her - fahrende räſonirende Denken zur Herrschaft kommt, dabei aber auf allen objectiven Gehalt verzichtet und alle Wahrheit nur in das Denken und Gedachtwerden, in die Möglichkeit und Abſtraction oder Gedankenbildung gesetzt wird, so verwandelt sich der unendliche Inhalt der Religion in endliche, menschliche
+
+[p. 27] II. Inhalt der Dogmatik.
+
+Gedanken und Saßungen, und es entſteht jene niedere Dialectik des abstracten Verstandes, welche die Auflöſung des Gegensatzes in die Gleichgültigkeit, und von der Sophistes rei nicht verschieden, nämlich nur die Kunst ist, der Wahrheit Herr und Meister zu werden, ohne ihr irgend eine Herrschaft über sich zu vergönnen. §.
+
+50.
+
+Beschränkt mit seiner Erkenntniß auf das Sinnliche oder Empirische und auf das Nichtsinnliche oder abstract Logische, verhält sich der Verstand gegen das Ueberfinnliche rein negativ und formal, und es entsteht auf diesem Standpunkte nothwendig die Lehre, daß das Seyn, das Ding an sich, das Absolute schlechthin unerforschlich sei.
+
+In dieser
+
+Negation kann er aber nicht stehen bleiben und so geschieht, daß er nicht mur seine Endlichkeiten, Abstractionen und Räsonnements, die er selbst für ein Nichtwiſſen von Gott ausgiebt, und somit Unwahrheiten sind, an die Stelle der göttlichen Wahrheit seßt, sondern auch, daß er der überfinnlichen Wahrheit sich entziehend, sich zugleich gegen dieselbe kehrt, sie, zu der er Kraft der Vernunft nicht aus allem und jedem Verhältniß herauskommt, verläugnend zugleich läugnet an und für sich, und um sie doch noch zu haben und zu behalten, sie selber zu etwas ganz Endlichen, zu etwas Sinnlichen und Nichtsinnlichen macht.
+
+##### §. 51.
+
+Das ganze Gepräge der Wahrheit der Religion ist dem abstracten Verstande sein Fürwahrhalten. An diese Die unterste rein formelle Bestimmung hält er sich. Stufe dieses Fürwahrhaltens aber ist der Wahn, das vollkommene Gegentheil der Wahrheit:
+
+das leere · Denken nimmt ohne alle Beziehung auf das Seyn die Stelle deffelben ein, meist sich beschränkend und berufend nur auf das unmittelbare, [p. 28] dumpfe Gefühl. Ohne Verſtand wird der Wahn zum Wahnsinn; darin hat der Geist seinen Verstand und somit sich selbst verloren. verbunden,
+
+Mit der Affection des Willens wird der Wahn zur Lüge;
+
+beides wird zum
+
+Läugnen der Wahrheit, wenn es an dieser einen Widerspruch und Widerstand findet. Da besonders in der Lüge das Bewußtseyn der Wahrheit in irgend einem Grade vorhanden und auch im Wahn die Negation selbst nicht ganz ohne die Affirmation möglich ist, so ist das Abläugnen immer zugleich ein Anlügen. §.
+
+52.
+
+Die zweite Stufe des Fürwahrhaltens ist die Meinung, welche als solche weder wahr noch falsch iſt, ſondern zufällig auch das Wahre und Rechte treffen kann. Sie begnügt sich mit der unbestimmten Möglichkeit und dem Wahrscheinen oder dem Schein, den das Denken des Seyns von sich wirft.
+
+Das Meinen, als nur in der Subjectivität wurzelnd, will nur das Mein des Ich durchsetzen, und. bekümmert sich um die Objectivität und Wahrheit nicht. Die Willkühr und das Belieben ist ihre ganze Wahrheit. Es wird daher in der Verstandesreligion, wie in der Gefühlsreligion, jede Widerlegung als unsanfte Berührung des Individuums empfunden, und der Kampf für die Wahrheit bald nichts als Kampf der Parthehen.
+
+Die Meinung kennt die Wahrheit gar nicht anders, denn als Partheysache. Wer die Religion für eine Meinung hält oder für eine Sammlung von Lehrmeinungen, hält sie für nicht viel mehr oder besser, als für einen Wahn.
+
+Was dieser ist im dunkeln Gefühl, ist jene im hellen, abstracten Verstande. Der große Trost der Flachheit ist, es sei doch alles nur Anſicht und Annahme (das Angenehme, Wahrnehmbare) ; zur Einsicht gelangt sie nicht. Es ist aber dieses auch das Gebiet des scharfsichtigen Zweifelns und Kritiſirens, wodurch [p. 29] das Feld der Religion mit dem wuchernden Unkraut des endlichen Denkens überzogen, und das Ich auf den Thron erhoben wird. Scharfsinnig genannte Gedanken, Muthmafungen, werden so wohlfeil, daß der beschränkteste Verstand dergleichen erfinden kann, und Niemand zuleßt mehr fremde, sondern nur seine eigenen haben will.
+
+##### §. 53.
+
+Die dritte Stufe des Fürwahrhaltens ist das Ueberzeugtseyn, an und für sich, d. h. seinem wahren Begriff nach die nothwendige Form alles Wissens und aller Erkenntniß der Wahrheit, allein wesentliche Form lediglich durch ihre Einheit mit dem Wesen, d. i. init dem Begriff. Ohne diesen und dessen Gehalt wird die Ueberzeugung zu einer leeren Form und zur Hülle aller Wahngedanken und bloßer Meinungen herabgesetzt.
+
+Abgesehen vom Inhalt und deſſen Wahrheit durch den Begriff, ist die Ueberzeugung eine bloße Gaukelei, Selbstverblendung und Vorspiegelung, wie denn (im Intellectuellen) kein Thor, und (im Moraliſchen) kein Verbrecher ohne seine Ueberzeugung ist. Tiefer ist daher der Protestantismus von ſeinen angeblichen Verfechtern nicht herabgewürdigt worden, als durch das Vorgeben, er ſei nichts weiter, als das Ueberzeugtſeyn, die Ueberzeugungstreue, wobei also das subjective Maaß der Geisteskraft und Geistesthätigkeit, und ſey es auch das schwächste und schlechteste, zum Gepräge seiner innern Wahrheit erhoben wird.
+
+##### §. 54.
+
+In dieser Sphäre des bloßen Fürwahrhaltens, der Negation, der Skepsis und Kritik sich erweisend, kann der Verstand wohl verhindern, daß die Superstition als Religion erscheine, aber nicht so, wie dem Aberglauben, auch dem Unglauben steuern und entgegenwirken.
+
+Auf sich selbst vielmehr und ſein endliches Denken sich beziehend, ist er, nach der ihm höhern Region, der Seite der Religion hin, der Unglaube selbst.
+
+Wie in der Gefühlsreligion, so ist auch in der Verstandesreligion das Anſichſeyn der Religion nichts; es ist für die bloße Vorstellung, wie für das Gefühl, ein Jenseits, schlechthin unbegreiflich und unerforschlich. Verstand hat so wenig als das Gefühl einen wahrhaftigen Begriff von dem unendlichen Inhalt der Religion, ſondern er nimmt dieſen nur als das Aeußerliche des Glaubens, als eine todte Geschichte, an der er sich hin und her bewegt. Nicht in ihrem Seyn in sich selbst, sondern nur in ihrem Seyn in einem andern, d. i. in ihrem Daſeyn und Wirken, in ihrer geschichtlichen Erscheinung in Gefühlen, Definitionen und Formeln wird sie noch anerkannt, die Theologie aber in eine Registratur wandelt.
+
+und Beschreibung derselben ver-
+
+Der Verstand, statt fortzuſchreiten zur Vernunft, kehrt sich um, seht das trübe Gefühl den Inhalt der Religion, um in ihm nach Belieben und Willkühr sich zu ergehen.
+
+##### §. 55.
+
+Wie nun aber auch diese Denkweise noch auf ihre Art mit dem objectiven Wesen der Religion in Berührung komme, sei es im Gefühl oder in der Lehrmeinung, in der Sittlichkeit oder sonstiger Wirkung, so wird sie in allen Gestalten für etwas dem Geiste ursprünglich Fremdes gehalten, indem das Ich nur im Unterschiede von ihr, nur im Gegensaße zu ihr sich zu behaupten weiß, welches der Eitelkeit sogar ein vornehmes Ansehen giebt, als über dergleichen längst hinweg, indem sie, die Religion als etwas ihr ganz äußerliches betrachtend, derselben gewissermaßen ganz los geworden ist. Die Religion an und für sich wird nicht nur insofern nur für einen Geist gehalten, als dieser ein Gespenst ist, welches in menschlichen Gefühlen und allerlei heiligen Büchern und seltsamen Erscheinungen herumgeht, sondern [p. 31] auch für ein Todtes, für einen Kadaver, deffen einzelne Bestandtheile im Spiritus eines Gedankens aufbewahret und vorgezeigt werden, und dessen Anatomie und Sectionsbericht die Dogmatik ist.
+
+##### §. 56.
+
+Wenn nach einer that- und lebensreichen Zeit in der evangeliſchen Kirche bald jenes dürre, geistlose Formelweſen einbrach, dessen Prinzip eben der leere Verstand und das endliche Denken war, das ſich nur darin gefiel und genügte, die freie, göttliche Wahrheit in eine Menge kleinlicher Gedanken und beschränkter Formeln einzuzwängen, ja dieſen ganz den Gehalt und die Bedeutung von jener zu geben und sie in eine innere und wesentliche Verbindung damit zu setzen: so war es allerdings eine Wohlthat und ein wohl begründet Recht, welches der freie Geist sich in der Aufklärung nahm, daß er in ihr das Prinzip der freien Bewegung des Geiſtes und einer geistigen Religion geltend machte, und jene endlichen Bestimmungen und spißfindigen Definitionen und Formeln als unwürdige Fesseln des Geistes und als unbegründete Auctoritäten zerbrach, wodurch die Wahrheit mehr verfinstert, als erkannt wurde.
+
+##### §. 57.
+
+Allein es hat sich zur Genüge gezeigt, daß dieses aufklärende und in sich selbst aufgeklärte Denken dem Prinzip und Ursprung nach ganz dasselbige war, als welches es des ſtritt, daß es dieſes nur that mit den Waffen des leeren Verstandes und des endlichen Denkens, und sich in jener polemischen Richtung und als abſtracter Verstand nur gegen alle und jede Bestimmtheit kehrte, auch gegen die, welche nicht endlichen Ursprungs, sondern die Bestimmung und Bestimmtheit der göttlichen Wahrheit selber ist. Auf diesem Wege hat es denn selber die Kluft zwischen dem Denken
+
+Einleitun und Seyn immer weiter aufgerissen, und zuletzt nichts als feine eigene ' inhaltsleere und hohle Form des Fürwahrhal. tens und der Vorstellung übrig behalten, und ist es selber ganz negativ, schaal und kahl geworden, bis es endlich, in sich selbst ganz verkommen und an sich selbst verzweifelnd, in den neuesten Zeiten wieder am Sinn und Gefühl festes Land, und ein nothdürftiges Unterkommen fand, und auf die Erkenntniß des Wesens Gottes verzichtend, sich fortan nur mit den endlichen Thatsachen, an denen der Saum der Religion hingestreift, oder mit der Historie zu beschäftigen beschloß.
+
+##### §. 58.
+
+Es ist nun endlich noch die Einheit der beiden Seiten des Begriffes der Religion, ihres Seyns an und für sich und für uns zu erkennen. Es ist der wesentliche Anfang des Wiſſens in und von der Religion, beide Seiten als gleich wesentlich in derselben zu betrachten, und das vom Erkennen geschiedene Seyn, wie das vom Seyn geschiedene Erkennen als Abgründe der Nichtigkeit und Unwahrheit einzusehn. Die Unmittelbarkeit der Religion an und für sich und ihre Wahrheit für uns ist aber allein vermittelt durch den Begriff, und er ist diese Vermittelung selber. In ihm ist zus nächst die abstracte Unmittelbarkeit und Einheit der Neligion und des Geistes oder ihres Seyns und Denkens aufgehoben und der Unterschied derselben aufgezeigt, aber auch dieser aufzuheben und in die Einheit zurückzuführen, welche nicht mehr jene abſtracte und unmittelbare, ſondern die vermittelte und gewußte ist. Es sind demnach alle Momente des Seyns der Religion nur Bestimmungen ihres wahren Denkens, wie alle Bestimmungen ihres wahren Denkens nur Bestimmtheiten ihres wahrhaftigen Seyns. Die christliche Religion lehrt dieſes in der Vorstellung, daß nur durch die Einigung und Einheit des menſchlichen Geistes mit dem göttgöttlichen jener aller Erkenntniß Gottes und der göttlichen Wahrheit fähig sey, und nur darin ist der menschliche Geist der vernünftige.
+
+##### §. 59.
+
+Die Vernunft ist ihrem wesentlichen Begriff nach Des wußtseyn.
+
+In diesem iſt zunächst begriffen die Möglichkeit Die Aufgabe desselben aber ist, daß die Vers der Vernunft.
+
+nunft sich darin verwirkliche.
+
+Aus der Möglichkeit bewegt sie sich im Bewußtſeyn in die Wirklichkeit durch die Mo, mente des sinnlichen und abstracten Bewußtseyns.
+
+In jes
+
+- nem ist das Object ein anderes, als das Bewußtseyn selbst, ein gegen dieses Negatives, Bewußtloses: beide, Gegenstand und Bewußtseyn sind andere gegen einander.
+
+In der Form des sinnlichen Bewußtseyns als Gefühl und Wahrnehmen durch die Sinne beginnt die Vernunft ihre äußerste Bewegung Dem Wahrnehmen aber ist noch und Entwickelung. vieles gewiß, was doch nicht wahr ist, sondern nur für das Wahre genommen wird.
+
+##### §. 60.
+
+Das zweite Moment im Bewußtſeyn ist Beziehung des Bewußtseyns und Gegenstandes auf einander, wodurch sich das Subject im Bewußtseyn das Object aneignet und es versteht.
+
+In dem Verstande wird nicht nur der Gegenstand wahrgenommen und erfahren, und dieses Erfahren ist auch nicht mehr bloß ein äußerliches Notiznehmen und Kennen, sondern zugleich ein • innerliches Erkennen.
+
+Der Verſtand bringt das Object an sich, indem er es in seiner Natürlich keit, Gesetzmäßigkeit, Brauchbarkeit beobachtet und versteht. Aber auch auf dieser Stufe ist die Vernunft, obwohl gegen das sinnliche Bewußtseyn fortgeschritten, noch nicht über ihre bloße Möglichkeit hinaus, noch nicht die wirkliche Vernunft.
+
+Als Verstand weiß die Vernunft wohl, daß etwas C [p. 34] ist und wie es ist, aber daß es auch nothwendig sey, und ſo und nicht anders seyn müſſe, ist ihm verborgen.
+
+Erkennen des abstracten Verstandes ist noch nicht das der Wahrheit, und somit ſelbſt noch nicht das wahre. §.
+
+61.
+
+Das Bewußtseyn als wirkliche, und hiemit erſt ſich vollkommen verwirklichende Vernunft hat nicht nur den Gegenstand in sich, sondern auch sich in ihm und in dieser Unmittelbarkeit ist der Gegenstand selbst erst ein vernünftiger, hat die Bestimmung des vernünftigen Seyns oder Vernünftigseyns.
+
+Indem aber das Bewußtseyn in seinem Gegenstande ist, ist auch das Bewußtſeyn nicht mehr das leere, A abstracte Denken, sondern in seiner Wirklichkeit, das vernünftige Bewußtseyn, in seinem Gegenstande und zugleich von ihm erfüllt.
+
+In einander übergehend gehen sie beide, Bewußtseyn und Object in einander ein, und diese Einheit beis der ist das Wissen.
+
+In ihm erſt iſt das Wahre das Ges wiſſe und somit auch das Gewiſſe als das Wahre nie ohne ein Wiſſen.
+
+§.
+
+62. th
+
+In diesem Wiſſen, welches das ſpeculative iſt, ſind die ersten beiden Arten des Wissens, im Gefühl und im Verstande, zu Grunde gegangen, d. h. in ihren wahren Grund zurückgegangen und es allein ist die Wahrheit jener beiden Wiffensarten. In ihm erst kommt das Denken über das Endliche hinaus und hört auf, selber ein endliches Denken' zu seyn.
+
+Je mehr daher der Geist aus seinem Außersichſeyn (im Endlichen, in der Natur, im Gefühl) erwacht wie aus einem dumpfen Traum (denn alle Religion des Gefühls ist die Religion des Traumes) und im Selbstgefühl (im Bewußtseyn und Vorstellen) zu sich selbst kommt (denn das Element der Vorstellung und des Bewußtseyns ist schon
+
+[p. 35] II. Inhalt der Dogmatik.
+
+eine wesentliche Bedingung der reineren und wahrhaftigen Existenz des Geistes), um so mehr ist er endlich in und bei sich selbst nur im Element des Wissens, als seinem wahrhaftigen, d. i. allein Wahrheit habenden Elemente, von wo aus auch alle, wenn noch so dürftige und entstellte, aber auch alle wahrhaftige Wahrheit im Gefühl und der Vorstellung ist.
+
+Die wahre Religion ist allein die des Geistes: in ihm allein gewinnt sie eine ihrem wahren Wesen adäquate Zuständlichkeit. §.
+
+63.
+
+Das, was in allem Wissen positiv gewußt wird, ist die Wahrheit. Sie, das an und für sich Seyende wird von der Vorstellung und dem gemeinen Bewußtseyn als ein ganz jenseitiges gedacht. So wird auch Gott wohl als die Wahrheit gedacht und die Wahrheit iſt ſomit › in dieser Vorstellung Gott selbst.
+
+Allein schon diese Anerkenntniß, wozu es der Anfang des Denkens im Vorstellen bringt nach dem wesentlichen Inhalt der Religion selbst, welche lehrt, daß Gott die Wahrheit sey, hat in sich die Nothwendigkeit der Erkenntniß, daß das Wahre nur ſey im Wiſſen, und als solches, und somit nicht mehr ein jenseitiges. Das Wissen aber hat zu ſeiner Vermittelung den Begriff.
+
+Entweder also ist die
+
+Wahrheit nicht und Gott, von ihr nicht verschieden, gar nicht, oder sie kann gewußt und begriffen werden. Denn die Anerkenntniß Gottes, welche sich nur abſtract und ſcheinbar allein auf das Daseyn beziehen soll, wobei man es gern bewenden laffen möchte, macht nothwendig zugleich die Ers kenntniß Gottes, als des alleinigen Wesens, weil Daseyn Gottes zugleich Offenbarung des Wesens, also Daseyn und Wesen in Gott nicht außer einander und in keiner Beziehung verschieden sind.
+
+Die Einheit der Anerkenntniß und
+
+Erkenntniß aber ist der wissende Geist, wie. Gott in der Einheit des Denkens und Seyns der allwiſſende Geiſt. € 2
+
+[p. 36] 64.
+
+§.
+
+Wer, sey es eine absolute oder relative Unbegreiflichkeit der christlichen Wahrheiten behauptet, thut hiemit auf sie, als Wahrheiten, zugleich Verzicht: denn sie fallen hiemit aus dem Diesseits in den bodenlosen Abgrund des Jenseits hinab.
+
+Schon aber die relative Unbegreiflichkeit, welche zugleich die relative Begreiflichkeit ist, sagt aus, daß nicht in ihnen, den Wahrheiten der Religion an sich die Schwierigkeit der Erkenntniß liege, und so hätte Gott wenigstens sich den Menschen nicht unbegreiflich gemacht, sondern es wäre nur der Mensch, der ihn unbegreiflich gemacht, oder Daß diese schlechte Vorstellung, diese so vorgestellt hat. Schuld des Menschen zu überwinden sey, zeigt nicht nur die Wesenheit der göttlichen Wahrheit selbst, welche durchaus erkannt seyn will, und ohne dieß selbst aufhören würde,
+
+Wahrheit zu seyn, sondern auch die Thatsache der Stiftung der wahren Religion, welche zu einer unendlichen Wahrheitsforschung Schwung und Veranlassung gegeben und das Beispiel aller weisen und erleuchteten Kirchenlehrer, welche sich über jene schimpfliche Unwissenheit und vorgebliche Unmöglichkeit wahrer Gotteserkenntniß erhoben haben.
+
+##### §. 65.
+
+Aber andrerseits hat diese Behauptung ihre volle Wahrheit und Geltung in der Beziehung auf jene beiden, schlechten Wissensarten, ein unmittelbaren Gefühl und abstracten Verstande.
+
+In ihnen an ſich ist allerdings kein Wiſſen, ſondern in jenem nur ein Ahnden, Sehnen 2c., in dieſem nur ein Vorstellen, Meinen 2c. Dieses sogenannte Wissen, als Phantasiren und Kritiſiren, ist nur, so fern es nichts begreift, also nur sein eigener Inhalt ist, und muß daher die Religion für unbegreiflich erklären. Der kritisirende Verstand insonderheit, wenn er sich mit der Religion abgiebt, muß in seiner Selbständigkeit zu dem Resultat kommen, [p. 37] allen Inhalt derselben nur als einen endlichen zu wissen und jede Bestimmtheit des Göttlichen aus demſelben ſelbſt hervorgehend, zu vernichten. Es ist der Wiſſenſchaft vollkommen unwerth, ſolchen Denkweiſen das Wiſſen zuzusprechen, wie sehr die Pfleger derselben selbst auch sich dieses Namens bedienen, um nicht, selbst bei der größesten Vielwisserei, als die Unwissenden zu erscheinen. In der Dunkelheit des bodenlosen Gefühls und der Oberflächlichkeit des scharfsinnigen Verstandes ist das Wiſſen nur erst noch in seiner Möglichkeit, nicht in ſeiner Wahrheit und Wirklichkeit.
+
+##### §. 66.
+
+Denn nur was der vernünftige Geist in seinem Elemente des freien Denkens hat und erkennt, und worin er sich hat und wiederfindet, ist ein Wissen.
+
+Nur wo die Vernunft das Wesen kann der Idee gleich und identiſch setzen, ist sie die wissende. Sie ist das Denken, das alles Seyn an ihm selber hat, und als solches Denken eins mit allem wirklichseyenden; für sie ist nichts wahr und gewiß, was nicht die Bestimmung des Selbstbewußtseyns an ihm hat, und in allen ihren Bewegungen geht sie nur darauf aus, das Göttliche und ewig Seyende als ihr innerstes Wesen selbst zu wissen.
+
+Für sie also hat das im Gefühl unmittelbar Gegebene und Vorgefundene darin, daß es diese Bestimmung des Gegeben- und Vorgefundenseyns hat, keinen Werth und am wenigsten kann es vor ihr darin sich als in einem unantastbaren Heiligthum abschließen und behaupten wollen. Für sie ist das leere und formale Antitheſenspiel des abstract dialektischen Verstandes gehaltlos und nichtig.
+
+Zur herrschenden Lügenhaftigkeit aber gehört es, nicht nur das in diesen schlechten Formen des Denkens Ausgeprägte gleichfalls mit dem edlen Namen des Wissens zu stempeln und so in Curs zu sehen, sondern auch dem wahren [p. 38] Begriff des Wissens gegenüber selbst in der Wissenschaft sich in den Glauben zu flüchten.
+
+##### §. 67.
+
+Die Unmöglichkeit des Wiſſens von Gott wird nämlich oft auch so ausgesprochen: nur zum Glauben vermöge der Mensch es zu bringen und nicht zum Wiſſen. Dieß ist der Gegensatz von Glauben und Wiſſen, in welchem die falsche Theologie, z. B. von Steffens, ſich begründet. Er ist ein wahrer; es ist eine wirkliche Verschiedenheit beider. Nicht, daß man den Gegensatz macht, ist unrichtig, ſondern nur, daß man ihn festmacht und darin beharrt. In dieſem Gegenſatz verbleibend und sich gegenseitig einander ausschließend, ist der Glaube so unwahr, als das Wiſſen; in dieser Richtung lösen beide sich nothwendig ganz in nichts auf.
+
+Der Glaube aber, das Wissen von sich ausschließend, muß wenigstens die Unmöglichkeit dieses Wiſſens wiſſen, und noch dazu aus näherer Erkenntniß Gottes selbst, und so hat er es selbst in sich. Das Wissen kann nur darauf ausgehen, den Glauben in ſich aufzuheben, aber so hat es den Glauben in sich. In dem Elemente des Glaubens beginnt und vollendet sich das Wissen, so sind sie beide eins, ohne doch einerlei zu seyn. §.
+
+68,
+
+So lange daher Glauben und Wissen sich in der Verschiedenheit behaupten, scheinen sie gleichgültig gegen einander zu seyn.
+
+Diese starre Verschiedenheit ist aber in der That nur Unterschied, und hiemit sind sie schon in einem Verhältniß zu einander und in der Beziehung auf einander. Es reflectirt sich nur das Glauben in sich selbst nach der Seite des Wissens und ebenso das Wissen nach der Seite des Glaubens. Hiemit aber beziehen sich beide ſchon selbst auf eins ander, jedes nur auf sein Anderes nur das eine des andern, und das andere das andere des eis
+
+C [p. 39] nen ist, stehen sie in der nothwendigen Beziehung auf einander, in dieser Beziehung ſind ſie eins.
+
+Die gegenseitige Ausschließung ist also vollkommen unwahr, der Unterschied ist nicht die starre Verschiedenheit mehr, sondern ein flüssiger. Es giebt einen Uebergang vom Glauben zum Wiſſen, und der Glaube hat diese Bewegung in ihm selbst und ist nur so der wahre.
+
+Als christlicher hat der Glaube die Wahrheit an sich zu ſeinem Inhalt, die Gewißheit aber zu seiner Form: in der innern Beziehung auf einander ist nicht nur die Wahrheit auch die Gewißheit, sondern eben damit zugleich der Glaube als Inhalt die Form oder das Wiſſen, und das Wissen als Form der Inhalt oder der Glaube. §.
+
+69.
+
+Der Ausgangspunct für das Wissen ist der Glaube; dieſer ſezet die Entzweiung des menschlichen und göttlichen Geistes voraus, und ist die Aufhebung desselben, doch mit dem Bewußtseyn des Unterſchieds, welcher statt findet zwiſchen dem Geſchöpf und dem Schöpfer. Es hat aber im Christenthum Gott selbst die Natur des Geschöpfs angenommen. und hiedurch das abſolute Wiſſen ſelbſt menſchlich, die ewige Wahrheit ſich ſelbſt offenbar gemacht. Der Geist der chriſtlichen Religion ist das ewige Wissen und hiemit der an und für sich vernünftige Geiſt.
+
+In ihr wird Gott menſchlich gewußt, wie er sich selber weiß. und für sich.
+
+§.
+
+Sie ist die Wahrheit an
+
+70.
+
+Als die Wahrheit an und für ſich ist nur in ihr, der christlichen Religion, ein Wiſſen möglich von Gott. Soll nun diese Wahrheit an und für sich auch Wahrheit für uns oder dafür und als solche erkannt werden, so ist sie als das alleinige mögliche Wiſſen noch das nur bestimmte, nicht sich selbst bestimmende Wissen, als solches aber das noch [p. 40] in sich selbst verborgene, noch das für uns nicht wirklich gewordene.
+
+Als dieses erst nur noch mögliche, ist es aber zugleich das noch mit keinem Mangel behaftete Wiffen. Dieses sich selbst verborgene Wissen ist der Glaube. Aber diese Verborgenheit ist zugleich der allem Glauben einwoh, nende Mangel des Wissens selbst und Trieb zum Wissen. Ganz schlecht und unwahr wird daher der Glaube gedacht, wenn er im Sinn des gemeinen Lebens genommen und dem Wiſſen entgegengesetzt, in jener niedern Bedeutung und Beziehung auf die Sinnenwelt auch auf die überſinnlichen Dinge übertragen wird.
+
+Vielmehr ist der Glaube in der
+
+Beziehung auf Gott und im Sinne der Religion, dem Ins halt nach, gerade das beste und vollkommenste Wissen: denn etwas wiſſen von Gott, dem allervollkommenſten Wehy fen, heißt glauben.
+
+##### §. 71.
+
+Diesem Inhalt nach ist für den Glauben das Wissen der Ausgangspunct, der Glaube in seiner Subjectivität hat feinen Grund im objectiven, absoluten Wiffen.
+
+Die christ lichen Lehren enthalten an sich die Wahrheit, und ebendamit zugleich die Gewißheit derselben.
+
+Allein diese Gewißheit ist in ihnen zunächst nur als Glaube und in der Form der Vorstellung, Begriffs.
+
+nicht als Wiſſen und in der Form des
+
+Als Inhalt der Religion ist die Wahrheit ihrer Gewißheit noch nicht gleich.
+
+Wird die Wahrheit als diese
+
+Gewißheit gewußt, so geht die Gewißheit im Glauben über in das Wissen, und es kommt das ursprüngliche Wiſſen, aus welchem er selber war, wieder an ihm hervor: denn das göttliche Wiſſen und als solches das an und für sich vernünftige ist von der offenbaren Religion nicht verſchieden, und nur in ihr wissend, hat tige Wiſſen.
+
+der Mensch das vernünf-
+
+[p. 41] §.
+
+72.
+
+Das vernünftige Wissen hat zu seiner Vermittelung das Begreifen oder den Begriff, als den einigen Vermittler der gewußten Wahrheit.
+
+Der wahre Begriff ist von der des griffenen Wahrheit nicht verſchieden: die Wahrheit selbst ist nichts anders, als die Einheit des Begriffes mit ihm selbst. Hierin hat logisch das Denken sich selbst zum Gegenstand und sich also zugleich von sich selbst unterschieden: das Denken, von welchem es unterſchieden ist, hat die Bestimmung des ſubjectiven, das Denken, welches von ihm unterschieden ist, hat die Bestimmung des objectiven Denkens.
+
+aber das subjective Denken sich selbst zum Object hat, ist es nicht nur aus dem Unterschiede in die Einheit zurückgekehrt, sondern auch nichts weniger, als das inhaltslose und gehaltlose Denken der alten abstracten Logik, sondern das reichſte, alles enthaltende, und die Vernunft allein das Bewußtseyn aller Gewißheit und Realität. §.
+
+73.
+
+Das Wissen hebt an im Glauben, schon ehe es zur Wissenschaft kommt, diese aber ist die Vollendung des im Glauben anhebenden und darin noch sich selbst verborgenen Eins mit dem Geiste der wahren Religion und dem Wiſſen in ihr ist die Wiſſenſchaft nur das den Glau-
+
+Wissens.
+
+den begreifende Wiſſen, oder der in ihr sich selbst begreis fende Glaube. Wird die Wahrheit, der Glaubens - Inhalt, als die Gewißheit gewußt, so ist sie über den Glauben hinaus im Wiſſen.
+
+Wie aber das Wissen allen
+
+ſeinen Bewegungen sich nicht von dem Inhalte des Glaubens trennen kann, der ihm die Wahrheit ebenso sehr verbürgt, als noch verbirgt, so zieht er sich auch der Form nach mehr oder weniger stets noch in das Wissen hinein und es ist somit eben das, was den wiffenden Geist vereinigt mit dem allwissenden, eben das, was ihn, obwohl nicht trennt, [p. 42] doch unterscheidet von ihm: denn dem Glauben ist das Bewußtseyn dieses Unterſchiedes immanent; daher der Glaube so wenig als ein im Glauben anhebendes und sich darin vollendendes Wissen von Gott und dem Menschen, der vollkommen eins ist mit Gott, ausgesagt werden kann.
+
+##### §. 74.
+
+Im Glauben hat die Wahrheit der Religion ihre Ruhe, im Wissen ihre beständige Bewegung, welche nicht mehr die Unruhe des Zweifels und der Noth, sondern die ruhige Bewegung und Vermittelung ihrer selbst ist durch den Begriff.
+
+Wo dieses stets sich bewegende und so nur lebendige
+
+Wissen dem Glauben nicht beständig zur Seite ist, geht er gar leicht in die todte Ruhe über oder ins Grab und ver gräbt sich selbst entweder in dem überlieferten Wort und Buchstaben, oder in leeren Formeln und Abstractionen.
+
+mag daher die Mahnung zum schönen Frieden und zur holden Ruhe des Glaubens so oft ertönen, als sie will, oder von wem sie will, sey es von den Frommen oder Unfrommen, die gleich feindlich dem Wiſſen es bei dem Glauben wollen bewenden lassen; es ist der Glaube ohne Wiſſen ein leicht zerstörlicher, wenig gesicherter Besitz, indeß der wahre Geist des Glaubens sich nur in seiner ewigen Bewegung, d. i. als Wiſſen genügt.
+
+##### §. 75.
+
+Die Scheu vor dem Wissen, welche sich lieber mit je der andern schlechten Form des Denkens behilft, z. B. mit dem lockern und losen Interesse, oder mit dem dumpfen Gefühl und dem Sinn für die Wahrheit, der doch nichts als Eigensinn, etwas ganz Subjectives ist, ist nur die Scheu, sich über die Objectivität des Denkens auszuweisen, den Durchgang durch den Begriff, als den alleinigen Vermittler der Wahrheit, zu nehmen und sich an die Wahrheit aufzugeben, [p. 43] `um mit ihr erfüllt, neu und wahrhaft,
+
+Wahrheit habend) erst zu sich selbst zu kommen.
+
+(die
+
+Es ist der.
+
+Geist des Stolzes und der Hoffart, der nur sich selber feßt, und ſich nur darin durch- und fortsett; der Geist der Vernunft hingegen, sich in Gott aufzuheben und sich in ihm wiederzufinden.
+
+In der Schey vor dem Wissen ist in der
+
+That und Wahrheit auch der Glaube an die Erlösung erloschen, welche überall zunächst die Vernunft angeht und Erleuchtung des menſchlichen Geistes ist durch den göttlichen. Dieser aber ist nur als der wiſſende und das Wiſſen ſelbst.
+
+##### §. 76.
+
+Der Mangel des Wissens wirft die wahre Religion wieder zurück an jene zwei unwahren Geſtalten der Religion, an die natürliche und, äſthetiſche, oder an die Natur- und Kunft-Religion.
+
+In jener ist der Geist der Wahrheit noch ganz unmittelbar eins und concret mit dem Objectiven der Welt und Natur, 1 und nicht zum Bewußtseyn seiner selbst erwacht, daher aller möglichen Mißgriffe des Wahnes und Aberglaubens fähig, und der finnlichen Maſſe dunkler Gefühle unterworfen.
+
+In der ästhetischen oder Kunst-
+
+Religion hat die Natur- Religion wohl die Gestalt
+
+Selbstbewußtseyns erreicht, aber sie geht in das Ideale zus rück und wieder hervor als Anschauung ihrer Gedanken in bestimmten Gestalten der Schönheit und Kunst.
+
+Das Ansich ist hier zum Fürsich geworden, und als solches in die Abstraction gefallen. Seyn.
+
+Das Denken abstrahirt darin vom
+
+In diesen beiden Formen der Religion giebt es ab solute Geheimnisse.
+
+Dort sind sie Gespenster in der Nacht des blinden Gefühls, hier am Tage des leeren Gedankens. In beiden wird von Gott nichts gewußt, sondern dort Gott nur geahndet, hier errathen, mit der Ueberzeugung, daß der Geist Gott an sich nicht zu erkennen vermöge, ſondern nur für sich.
+
+[p. 44] §.
+
+77.
+
+R
+
+In der offenbaren Religion hingegen, welches die chriftliche ist, hat der für sich seyende oder ſubjective Geift an dem an sich´seyenden oder abſoluten Geiſt ſein Prinzip. Dieser aber ist das absolute Wiſſen und in ihm kommt es zum Wiſſen des An- und Fürsich.
+
+Das Christenthum hat alle Geheimnisse offenbar gemacht, und enthält daher selbst keine mehr; keins seiner Dogmen ist ein Mysterium; denn sein Offenbarſeyn ist eben dies, daß gewußt werden kann, was es ist.
+
+Für den Glauben zwar treten allerdings selbst im Christenthum deſſen Grundlehren zunächst wiederum hervor als Mysterien:
+
+aber theils haben sie den mysterioſen
+
+Character nur in Beziehung auf den natürlichen Menschen, der noch zu ihnen ein blos äußerliches Verhältniß hat, theils werden sie doch im Glauben selbst nicht mehr für abſolute, sondern nur für relative Mysterien ausgegeben.
+
+An sich offenbare Wahrheiten sind sie nur in der Relation auf das Subject Mysterien.
+
+##### §. 78.
+
+Als solche subjective Mysterien treten sie dem entgegen, welcher es noch nicht zum Glauben gebracht hat, sondern es erst dazu bringen soll, dem Kinde, und dem, der sich um seinen Glauben selbst gebracht hat, dem Theologen, um dessen Glauben es so schlecht bestellt ist, zu sagen, von Gott könne man nichts wiſſen. Ihm fehlt der Glaube an den Geist der Wahrheit, der alles Wissens Quelle ist, und er ist noch mit ihm entzweit. Das Christenthum aber, indem es die Versöhnung des mit sich entzweiten menschlichen Geistes ist, ist die Aufhebung, und hiemit zugleich die Offenbarung aller Geheimniſſe.
+
+Es ist selbst das sich Offenbaren des göttlichen Geistes in der Einheit mit dem menschlichen, in dieser Einheit aber das Wissen. Diesen Inhalt haben Religion und Wissenschaft mit einander gemein [p. 45] und dieſem wesentlichen Inhalte nach ist die Wissenschaft von der Religion unzertrennlich.
+
+Wie der Glaube das Wissen schon in sich hat, so läßt er es auch frei hervortreten aus sich und sich vollenden zur Wiſſenſchaft. Sie steht mit der offenbaren Religion und dem Glaubens- und Wissens-Inhalte derselben nicht etwa nur im äußerlichen Bunde, welches nur der Mangel des Widerspruchs wäre, sondern in der inund wesentlichen Einheit mit ihr. Die Religion nern macht sich zum Inhalt der Wiſſenſchaft, und hiemit dieſe zu ihrer Form.
+
+Von der Form der Dogmatik.
+
+##### §. 79.
+
+Die Religion geht über in die Dogmatik, das Wiſſen im Glauben wird zur Wissenschaft, indem jenes zum Inhalt von dieser, diese zur Form von jenem wird.
+
+Nicht nothwendig aber muß das Wiſſen, um Religion zu seyn, die Form der Wissenschaft haben, nothwendig aber die Wissens ſchaft, um Dogmatik zu seyn, das Wissen der Religion zu ihrem Inhalte haben. Und ist die Religion, als Glauben und Wissen, die Wahrheit an und für sich, so ist das Wifſen von ihr oder das sie Begreifen, welches zugleich `ihr Sich selbstbegreifen ist, die wahre Wissenschaft oder die wissenschaftliche Wahrheit.
+
+##### §. 80.
+
+Die wahre Aufgabe der Wissenschaft von der Religion ist aber, daß beide vollkommen eins seyen, der Wiſſenſchaft i [p. 46] die Religion nicht äußerlich sey, die Religion, falls es zu einer Wiſſenſchaft kommt habe.
+
+von ihr, diese nicht außer sich
+
+In dem ersten Falle ist die Wiſſenſchaft leer und gehaltlos, oder hat zu ihrem Inhalt nur das endliche Denken; in dem andern verhalten sich beide, Wissenschaft, und Religion, nicht nur negativ und gleichgültig gegen einander, sondern schreiten auch zum Widerspruch fort, so daß der Religionsbekenner oder der Gläubige die Wissenschaft, als den Unglauben, fliehet und fürchtet, diese aber jenen als den
+
+Abergläubigen ansieht. §.
+
+81.
+
+Gleich verkehrt und fehlerhaft, weil dem Begriff der Wissenschaft widersprechend, wäre es demnach auch, es in der Wissenschaft bei der abstracten Unmittelbarkeit des religiösen Wiſſens zu belaſſen, als es auch in der Wissenschaft nicht zum Begriff des Wesens der Religion kommen zu laſſen, ſondern die Bestimmung derselben nur in die Erkenntniß der Aeußerlichkeiten der Religion zu sehen. In dem ersteren Falle würde die Religion nur als solche auch wieder in der Wifsenschaft auftretend, wohl Inhalt der Wissenschaft zu seyn ſcheinen, aber die wissenschaftliche Form gänzlich an sich verläugnen.
+
+Die Frömmigkeit aber ist als solche noch nicht die Wissenschaft, sondern dazu gelangt sie nur durch den Begriff ihrer selbst.
+
+In der Wissenschaft hat die Religion wesentlich den Character der Reflexion und geht über das - blos vorstellende Denken hinaus. Um nichts anders, als die Religion zu seyn, braucht sie nicht in die Wiſſenſchaft einzugehen und es ist weit besser, die Theologie ganz aufzugeben, als sie in etwas zu setzen, was sie nicht ist.
+
+##### §. 82.
+
+Noch größer ist andrerseits die Gefahr, daß der Wifsenschaft an der Religion in solcher Art ein Inhalt gegeben
+
+** [p. 47] wird, daß es eben so wenig mit ihr zür Wiſſenſchaft kom men kann.
+
+Dieß geschieht, indem der Begriff der Religion von vorn herein verfälscht und sie in ihrem Wesen mit der Erscheinung desselben verwechselt wird.
+
+Es ist die Verzweiflung an der Wiſſenſchaft, welche in dieser selbst vom Wefen der Religion ganz abstrahirt und sich damit begnügt, die Wissenschaft selbst nur darein zu ſehen, daß ſie ſich mit dem Daseyn und Wirken der Religion auf eine beliebige Weise beschäftige. So aber kommt es wohl zur unbestimmten Anerkenntniß der Religion, welche jedoch von dem Dahingestelltseynlassen und einer bloßen Voraussetzung nicht verschieden ist.
+
+§. 83. Die Aufgabe der Wissenschaft aber ist vielmehr, daß ihr die Religion nicht mehr eine Voraussetzung, das wiſſenschaftliche Wissen mit dem religiösen eins und alle Differenz zwiſchen beiden gehoben sey. 1 Daß die Religion auch in der Erscheinung, d. i. im Daseyn und Wirken ist, hat sie nicht von ihr, als Erscheinung, sondern von ihrem Wesen, wie denn auch Niemand sie in der Erscheinung wahrhaft wiedererkennen kann, der nicht weiß, was ihr ewiges Wesen mit sich bringt. Ihr Wesen aber ist ihr Begriff und wie der Inhalt desselben, so ist auch die Form des Inhals ein Wissen. Hierin liegt, wie die Möglichkeit, so die innere Nothwendigkeit eines Wiſſens ſowohl in ihr, als von ihr. Beides mit einander innerlich eins geworden, giebt uns den Begriff der Wiſſenſchaft, als der Vollendung des Wiſſens in der Religion. In Ansehung des Wiſſens ist die Wiſſenſchaft die vollkommenste Religion, und so dann auch die Religion die vollkommenſte Wiſſenſchaft.
+
+##### §. 84.
+
+Dieses ist sie, indem sie das, was in der Religion die offenbare Wahrheit, oder die Wahrheit an sich ist, zur Ges [p. 48] wißheit für uns erhebt.
+
+Dieses aber geschieht so, daß in der absoluten Idee, in der die Wissenschaft ihren Standpunct nimmt, das Subject nicht ein anderes, als das Object, sondern, wie sie die Idee des Absoluten ist, als des Objects, es so auch in ihr, als der absoluten Idee, Subject und also Wie die absolute Idee nicht von Gott selbst verschieden ist.
+
+Gott in der Erkenntniß seiner selbst sich nicht außer sich hat, noch als der sich erkennende ein anderes ist, als der erkannte, der Geist vielmehr beider Einheit und Wesen, so ist die Idee des Absoluten selber die absolute, und als solche der Standpunct des Wiſſens und der Wiſſenſchaft.
+
+##### §. 85.
+
+In der absoluten Idee hebt sich daher der Unterschied zwischen der Religion und Wissenschaft völlig auf.
+
+Die des stimmte Form, welche die Religion mitbringt zur Einheit der Wiſſenſchaft mit ihr, ist das Glauben im Wiſſen, die bestimmte Form, welche die Dogmatik, als Wiſſenſchaft mitbringt oder verlangt zur Einheit der Religion mit ihr, ist das Wissen im Glauben. In dem Glauben, · weil er nur das Glauben im Wissen, sind alle Keime der Wiſſenſchaft mitenthalten; in dem Wiſſen, weil es nur Wiſſen im Glauben, ist das Wesen der Religion in ihrem Gesammtinhalte mitbegriffen. Der Uebergang der Religion in die Wiſſenschaft und die Einheit beider, kann daher auch als das sich offenbar gewordene Wiſſen, welches im Glauben nur noch sich selbst verborgen war, begriffen werden.
+
+##### §. 86.
+
+Die Einheit der Religion und Wissenschaft ist aber zu Als Glauben im Wissen hat die gleich ihr Unterschied.
+
+Religion die Form des unmittelbaren Erkennens Gottes und aller göttlichen Wahrheiten, und die Offenbarung und Währ heit an 1 sich oder die Idee hat in ihr die Form der Vorstellung.
+
+[p. 49] In der Wissenschaft hingegen ist die Idee nicht bloß die unmittelbare, abstracte, von der wohl ausgegangen, stellung.
+
+innerhalb deren aber nicht geblieben werden kann, sondern sie hat von da oder von der Vorstellung aus die Bewegung in sich zum Begriff, ist ihre eigene unendliche Vermittelung und nur so die unmittelbar seyende, daß sie, durch den Unterschied hindurch gegangen, in die einfache Unmittelbarkeit zurückkehrt. In seiner Unschuld und Heiligkeit, in dem unmittelbaren Bewußtseyn der Wahrheit oder dem Inhalte nach hat also wohl der Glaube den Vorzug vor dem Wif sen und der Wiſſenſchaft, und der Uebergang in die Wifsenschaft ist als Fall desselben anzusehn: so fern dieser aber ein nothwendiger ist, und der Glaube in seiner kindlichen Unschuld nicht beharren kann, oder der Form nach, hat das Wissen und die Wissenschaft eine höhere Dignität„wie überhaupt der Befreite und Erlösete höher steht, als der noch nicht Gefallene.
+
+##### §. 87.
+
+Die wesentliche Form der Dogmatik ist der wiſſenſchaftliche Begriff der Religion. Es ist demnach der Begriff des Wiſſenſchaftlichen näher zu bestimmen, als worin die Wahrheit der Religion ihre Vermittelung hat, oder mittelst dessen sie zur Gewißheit wird.
+
+Es hat aber in der Wiſſenſchaft zunächst der Begriff sich selbst zu seinem Elemente und geht so nur in das Wesen der Religion ein, welches ihr Seyn ist in sich selbst. Dieses ist die philosophische Seite der Dogmatik.
+
+Das Seyn der Religion in sich selbst kraft ih? res Begriffs ist aber zugleich ihr Seyn in einem andern und dieses Andere, des Wesens und Begriffs ist die Erscheinung. Von dieser Seite ist die Theologie traditionell, Als das Andere des Wesens aber ist die Religion in ihrer Erscheinung nicht wesentlich verschieden von sich selbst.
+
+ist demnach zuerst die philoſophiſche, ſodann die traditionelle
+
+[p. 50] Seite der Dogmatik, und endlich die Einheit beider näher zu bestimmen.
+
+##### §. 88.
+
+Das Philosophische in der Dogmatik ist das Logische: wenn dieses die Religion oder die absolute Idee, welche die Idee Gottes ist, zu seinem Inhalt hat, wird es zum Theo - logischen. Wie das Theologische das Edelſte und Höchste ist in der Philosophie, obwohl nicht ihren ganzen Umkreis erfüllet, so ist auch das Philoſophiſche das Edelste und Höchste in der Theologie, obgleich ſie nächſtdem noch mehr befaßt.
+
+Eine schon oft, z. B. von Töllner, verſuchte Ausscheidung des Philoſophiſchen und Theologiſchen von einander, eine Befreiung der Theologie von der Philosophie, würde das oberflächliche, abſtracte, räſonnirende Denken zur Herrschaft bringen, das Entstehen der Wissenſchaft aber in der Wiſſenſchaft selbst verhindern und unmöglich machen.
+
+Die wahrhaft fördernden Momente und Epochen der Theologie sind bestimmt durch die Macht der Philosophie in der Theologie und ohne jene in dieser hätte diese gar keine Geschichte, was aber keine Geschichte hat, hat in der That auch noch nicht angefangen.
+
+89.
+
+§.
+
+Die logische Methode der Dogmatik zeigt sich sowohl in ihrem innern Anfang oder Ausgang, als in ihrer innern Bewegung und Fortschreitung.
+
+Jener ist das Prinzip der
+
+Wiſſenſchaft, dieſe ihre systematische Form.
+
+Das Prinzip der Wissenschaft ist die Mitte, kraft deren das Denken ebenso sehr ein unmittelbares, als vermitteltes, aber durch diese Vermittelung in die Unmittelbarkeit zurückkehrendes iſt. Das abſtract unmittelbare, noch in der Einheit mit ſich, nicht ſich von sich unterscheidende iſt das repräſentirende, vorstellende Denken. Das sich von sich unterscheidende, und darin zugleich sich auf sich selbst beziehende Denken, ist das [p. 51] abstracte, negativ-vernünftige oder dialectische Denken. Das in dem Unterschiede seiner von sich mit sich identische und in der Identität seiner sich von sich unterscheidende Denken ist das positiv-vernünftige oder speculative Denken.
+
+Es ist die Einheit des Inhalts und der Form, ein Inhalt, der Wiſſen oder Begriff, ein Wiſſen, das gehaltvoll ist. Das Logische nun ist die Einheit des negativ - vernünftigen (dialectiſchen) und poſitiv - vernünftigen (ſpeculativen). Es hat diese Reflerionsbestimmungen an ihm selber und darin besteht es und ist darin allein das vernünftige oder logische.
+
+##### §. 90.
+
+Die Vernunft an ihrer negativen Seite ist der Vers stand, dessen wesentliche Form die Reflexion und Kritik. An sich und in seiner innern Einheit mit der Vernunft die nothwendige dialectische Bewegung derselben ist er in seiner Selbständigkeit nichts als die leere Abstraction, eine end liche, der Erkenntniß des Unendlichen ganz unangemessene Denkart, die abstract formale Fassung des Dogma, welche das Heraustreten aus der Einheit mit der Wahrheit voraussezt und beides, das Unendliche und Endliche gleichgültig gegen einander und in suspenso läßt. Dieses abstract-logische Denken bleibt bei demjenigen stehen, was sich denken läßt, oder bei dem Möglichen, gelangt aber nicht zum WahAls das Denken des Wahren an sich aber ist es der in die Unendlichkeit möglicher und wirklicher Vorstellungen ren.
+
+davon auseinander gefallene Begriff, nicht der Begriff ſelbſt. Mit seinem Denkgesetz, wie das Willensgesetz der verkehrten Willensbewegung, so nur der verkehrten Gedankenbewegung entgegengesetzt, erleidet es darin den Fluch des Gesetzes, daß es ohne die höhere Befreiung und Erlösung unter dem Gesetz stehen bleibt. Das Speculative, indem es von der Mitte der Einheit oder dem Begriff in den dialecti schen Verlauf ausgeht, ist zugleich das gehaltvolle Vernünftige. D2
+
+[p. 52] §.
+
+91.
+
+Das Prinzip der Wissenschaft ist aber auch das Centrum, wie alles wahrhaftige Anfangen ein Bewegen und Fortschreiten. Als Centrum ist es nicht ohne seine Peripherie, sondern wirklich eben nur in dieser.
+
+In diesem seinen sich von sich Unterscheiden und Ausbreiten ist es die reine Negativität.
+
+Dieß negative Verhalten gegen das Prinzip ist erst deſſelben poſitive Ausführung.
+
+Die Wiſſenſchaft ist ein Hervorgehen aus ihrem Anfang in ihr Ende, und hiemit wieder in den Anfang zurück. Es geht aber in der Wissenschaft Alles nicht aus einem andern, sondern aus sich selbst hervor, sie ist ein in allen ihren Theilen sich auf sich selbst beziehendes Wiſſen.
+
+Hierin erst ist sie ein organiſches
+
+Ganzes, ein Rythmus oder Syſtem.
+
+Was daher in der
+
+Wissenschaft von der Religion nicht durch diese selbst begründet ist, sondern allein in dem Subject des Denkenden, ist nichts weiter, als eine Meinung und nach Gelegenheit ein Wahn und das stoßt sie als Heterogenes von sich aus.
+
+##### §. 92.
+
+Im Widerspruch mit dem soweit bestimmten Begriff der Wiſſenſchaft befindet sich die Dogmatik in allen den Formen, in denen sie nur als die populare erscheint und sich somit selbst aufgegeben und aufgelöset hat.
+
+Das Populare und Scientifische ist eine nicht bloß dem Grade, sondern der Art nach verschiedene Form des Wissens. lare,
+
+Das Popurede es die Sprache des Volks oder der Gelehrten (des gelehrten Volks), ist nicht das Wissenschaftliche; jenes beschränkt sich nur auf die Vor- und Darstellung; dieſes ist das begreifende Wiſſen.
+
+Jenes hat an der Rücksicht auf das Subject, auf eine gegebene Klasse von Menschen und an dem bei derselben vorauszusetzenden Grade der Bildung und Erkenntnißfähigkeit seinen Maaßstab und richtet sich danach.
+
+Von solcher äußern Nücksicht ist die Wiſſenſchaft [p. 53] gänzlich frei; sie entwickelt, was ihr Object mit sich bringt und nur vor solchen, die aus der Menge hervorgetreten ein höheres Wissen begehren und ist somit im Gegensaß zu allem Popularen wesentlich akroamatisch und scholastisch, d. h. hat ihre Bestimmung lediglich für die Schule. Weil aber das Wissen in der Religion und Dogmatik dem Inhalte nach dasselbige ist, so entsteht leicht der falsche Versuch, die Religion in der Dogmatik ihrer vollkommenſten Form, welches die Wissenschaft ist, zu entkleiden, diese zu populariſiren, ein Unternehmen, welches weder als Religion noch als Dogmatik genügt und beide verfälscht.
+
+##### §. 93.
+
+Solche Popularität giebt an, dadurch wolle sie den sonst theoretischen Inhalt der Wiſſenſchaft erst recht practisch machen. Es wird aber in der That die vollkommenste Erkenntniß der Wahrheit dadurch, daß sie dieſes iſt, nicht unpractiſch, wie die Erkenntniß auch dadurch, daß ſie unvollkommen und unwahr wird, keinesweges erst practiſch wird. Nur das höchst Speculative iſt das wahrhaft Practiſche. Vorgefundene Lehrſäße, Formeln und Definitionen geben nur zu erkennen, was schon erkannt ist, ohne diese Erkenntniß selbst zu vollziehen.
+
+Die populare und practiſche Dogmatik erinnert in allen ihren Bewegungen an den Katechismus und führet darüber nicht hinaus. Kann die Dogmatik, ihrem wesentlichen Begriff nach, nicht in irgend einem Grade von Vollkommenheit Theorie des Dogma seyn, so ist ungleich besser, ihr und somit der. Theologie überhaupt, zu ents ſagen, und sich dann bloß in der Sphäre des Glaubens und seiner Lehre zu halten.
+
+Des Theologen Bestimmung kann nicht seyn, statt für den Aufbau, vielmehr nur für die Auflösung der Theologie thätig zu seyn.
+
+[p. 54] §.
+
+94.
+
+In der andern Hinsicht, nämlich auf das System, begnügt sich die populare und hiemit begriffloſe Dogmatik damit, eine bloß äußerliche Regelmäßigkeit, die ihre Wahrheit nicht in dem Begriffe der Wahrheit, sondern nur ihr Maaß an der Vorstellung eines der tiefern Erkenntniß abgeneigten oder unfähigen Publicums hat, eine leer verſtändige und mechanische Anordnung an die Stelle der innern Ordnung und Gliederung des Systems zu setzen. Wissenschaft ist da kein Organismus, sondern ein Mechanismus, den der Geist tief unter sich hat. äußerlichen Rücksicht kommt dann
+
+Bei solcher bloß auf die Nothwendigkeit des objectiven Inhalts und beſtimmten Begriffs der Religion gar nichts mehr an;
+
+es wird nur der logische
+
+Schein, die Consequenz, gesucht, die doch an sich und außer der Einheit mit der Wahrheit, etwas ganz negatives ist, nämlich der widerspruchslose Zusammenhang, da es hingegen der Dogmatik wahre Bestimmung ist, Widersprüche gleich sehr aufzuzeigen, als aufzulösen, insonderheit die Nothwendigkeit des Widerspruchs darzuthun, der durch die abstracte Verstandesbestimmung an allem Vernünftigen gesetzt ist.
+
+##### §. 95.
+
+Die andere Seite der Dogmatik ist die traditionelle. Als solche läßt sie sich auch auf die schriftliche und kirchliche Ueberlieferung ein.
+
+Die Nothwendigkeit, daß die Dogmatik sich nicht bloß als speculative, sondern auch als traditionelle vollbringe, liegt wesentlich, d. h. dem Begriff der Religion nach, darin, daß diese nicht nur ist, sondern auch erscheint, und weil sie ist, auch erscheinen muß. Die Wahrheit ist nicht bloß in sich oder an und für sich, ſondern auch Entwickelung ihrer Wirklichkeit in der Welt, und hat ſomit auch eine Geschichte.
+
+In dieser Beziehung auf Zeit und
+
+Raum hat die Religion an ihr selbst die Bestimmung des [p. 55] Geschehenen und in Beziehung darauf wird das Wiſſen zugleich ein dem Gedächtniß Anvertrautes und ein Erinnern, ein historisches Wissen. Am vollkommensten aber ist die Religion in der Welt erschienen als christliche §.
+
+96.
+
+Als christliche ist die Religion in der Welt gestiftet worden, d. h. hat einen bestimmten Anfang genommen in der Zeit.
+
+Als solche ist sie auch erhalten in allen folgenden Zeiten, hat auch das Leben der Menschen durchdrungen und große Veränderungen in der Welt hervorgebracht. Ihr Entstanden- oder Daseyn und ihr Wirken in der Welt macht das geschichtliche Leben der christlichen Religion aus.
+
+Nur an diese ununterbrochene Kette der Ueberlieferung sich anschließend und den christlichen Glauben, in solcher
+
+Objectivität und Tradition enthalten, sich aneignend, d. h. nur als christliche kann die Dogmatik die wahre seyn und: zur vollkommensten Wissenschaft sich entwickeln.
+
+$ Die geschichtliche Kunde von dem gestifteten wahren Glauben giebt uns die Bibel, die geſchichtliche Kunde von dem in allen folgenden Zeiten vorhanden und wirksam gewesenen wahren Glauben giebt uns die Kirche. Sofern die Theologie sich auf den Bibel- und Kirchen - Glauben einläßt, ist sie auf gleiche Weise historisch.
+
+Und es muß eine christliche Dogmatik, welche zunächſt ſpeculativ und ſyſtematisch ist, gleicherweise auch biblisch und kirchlich seyn, weil sie nur so sich als wissenschaftliche Erkenntniß der christlichen Religion vollenden kann.
+
+##### §. 98.
+
+Ihren biblischen Character entwickelt die wiſſenschaftliche Dogmatik so, daß sie zeigt, wie die ewigen Ideen der Religion, welche durch den göttlichen Geist in dem menschlichen sind, sich in ihrer höchsten Wahrheit und Wirklichkeit in der heiligen Schrift der Bibel nachweisen und mit derselben übereinstimmen.
+
+Nur auf dem rein dogmatiſchen Wege aber gewinnt sie überhaupt erst den Begriff einer heiligen Schrift in der Bibel und hebt auf diesem Wege die Bibel über ein bloß historisches Notizenbuch hinaus, welches die unwissenschaftliche Dogmatik an ihr hat. Wäre der wahre Glaube nicht in ihr, als der vorhandenen Stiftungsurkunde der wahren Religion zu finden, so könnte er ſich auch nicht zu allen Zeiten in der Kirche erhalten und bis auf uns fortgepflanzt haben.
+
+##### §. 99.
+
+Ihren kirchlichen Character hat die wissenschaftliche Dogmatik darin, daß sie erkennt, wie die christliche Lehre nicht nur in einer gewiffen Zeit göttlich gestiftet und ´in eine heilige Schrift eingegangen, sondern auch in der Gemeinde der Gläubigen zu allen Zeiten behauptet und gegen den häretiſchen Widerspruch vertheidigt und näher beſtimmt worden ist. 8 In den verschiedenen Streitigkeiten über den Glauben, und deſſen öffentlichen Bekenntniſſen findet er sich zum Theil bereits über die Vorstellung hinaus auf den Be griff zurückgeführt und sie stehen daher der wiſſenſchaftlichen Dogmatik besonders nahe. Wäre der wahre christliche Glaube nicht in der Kirche zu allen Zeiten gewesen, so könnte er auch nicht göttlich gestiftet und in der Bibel enthalten seyn.
+
+##### §. 100.
+
+Zur richtigen Erkenntniß des wahren chriſtlichen Glaubens in der schriftlichen und kirchlichen Ueberlieferung be ſtimmen und illuſtriren sich beide gegenseitig, so wie ſie andererseits durch iſolirtes Festhalten der einen und der andern dunkel und unverständlich werden. Wie der Christ nur
+
+[p. 57] III. Form der Dogmatik.
+
+im Glauben der Kirche erzogen und unterrichtet, eine heis lige Schrift in der Bibel finden und richtig verstehen kann, so ist es andrerseits auch die Bibel, durch die der wahre Glaube in der Kirche sich rein und lauter erhalten kann.
+
+Gleich groß ist daher das Verderben von allen Seiten, ob die Kirche ihre heilige Schrift in der Bibel verläugnet und den lebendigen Zuſammenhang mit ihr unterbricht, durch den sie allein frisch und gesund erhalten werden kann (wie dieſes in der römischen Kirche geschehen), oder ob man die Bibel´ohne alle Objectivität des Glaubens in der Gemeinde, an deren allein sie ihr wahres Verständniß hat, besigen und auslegen will (welches die proteſtantiſche Lehre der neuern
+
+Geist
+
+Zeit geworden).
+
+Und so hat nun auch die wissenschaftliche Dogmatik an dem Glaubensinhalte der Schrift und Kirche die Norm oder Richtschnur aller ihrer Erkenntnisse: sie muß darin sich richten nach beiden, und übereinstimmen mit beiden. §.
+
+101.
+
+Das Normale in Schrift und Kirche ist das Kanonische in beiden, welches darum so heißt, weil es bestimmend und leitend ist für alle Erkenntniß der Wahrheit.
+
+Was der
+
+Kanon der heiligen Schrift ist in der einen Beziehung, das ist in der andern das allgemeine Glaubensbekenntniß der Kirche (canon ecclesiasticus), welches auch gleichzeitig mit jenem im vierten Jahrhundert zu Stande kam, und an welches die spätern Bestimmungen der Kirche in den Glaubensbekenntnissen, als Denkmale einer großen historischen und dogmatischen Entwickelung sich anschließen.
+
+Allein an und für sich sind beide, die kanonischen Lehren der Schrift und Kirche äußerliche Bestimmungen und haben, gls Normen, das Prinzip, als ihr inneres, zu ihrer Voraussetzung: wie man denn überall, um dicta probantia in der Bibel und Auctoritäten in der Kirche zu finden, das, was sie be weisen sollen, schon erkannt haben muß.
+
+[p. 58] §.
+
+102.
+
+Für Prinzip und Quelle der christlichen Religionserkenntniß in der Wiſſenſchaft konnten Schrift und Kirche nur ausgegeben werden, nachdem man bereits den wahren Begriff des Prinzips und der Norm verloren und den Unterschied beider gänzlich verkannt hatte.
+
+In keinem Glaubensbekenntniß der evangelischen Kirche ist Schrift oder Kirche für das Prinzip der christlichen Erkenntniß ausgegeben worden, sondern nur für die Norm.
+
+Die Norm ist nur die äußere Seite des Prinzips und nichts für sich, ohne dieses, welches ein durchaus Innerliches iſt.
+
+Man kann von außen, auf dem Wege der Tradition, wohl Göttliches vernehmen und annehmen, allein daß es dafür auch von uns erkannt und für uns Wahrheit werde, dazu gehört durch aus ein innerlicher Prozeß.
+
+Außer dem Daseyn der Wahrheit in Schrift und Kirche iſt alſo, ſoll es zur Wiſſenſchaft kommen, noch die vernünftige Erkenntniß der Wahrheit vonnöthen.
+
+##### §. 103.
+
+Die Nothwendigkeit der Vernunft zur Erkenntniß der göttlichen Wahrheit in Schrift und Kirche wird wohl allgemein leicht zugegeben, und wäre es auch nur, zu dem negativen und kritischen Zweck, nämlich sie in den Vorstellungen der Menschen von Wahn und Irrthum gehörig zu scheiden. Aber nicht nur bleibt sie bei Vielen verborgen im Sinn und Gefühl stecken, und hat darin nur die des ſchränkte Bestimmung, die Erscheinungen der 哦 Wahrheit in der Schrift und Kirche mit allerlei frommen Empfindungen pietistisch zu ſalben, sondern auch, wenns hoch kommt, âußert sie sich als abstracter Verstand. und gelangt darin zu Dort einer bloß formalen, abſtract-logischen Thätigkeit. bleibt es auch in der Wissenschaft bei dem vorstellenden, materiellen Denken, welches in seinen Stoff versenkt und vers [p. 59] loren ist, hier kommt es zum eitlen Denken und Räſonniren, welches in unwirklichen Gedanken mit dem Bewußtſeyn der Eitelkeit alles Inhalts sich an diesem hin und her bewegt.
+
+##### §. 104.
+
+Auf beiden Wegen kommt die Vernunft soweit, als man auf dem Wege des buchstäblichen und geschichtlichen Verſtändnisses überhaupt in der Erkenntniß der göttlichen Wahrheit kommen kann, nämlich zur Erkenntniß des Aeußerlichen und Zufälligen, des Localen und Temporellen, der Umgebung und Hülle der göttlichen Wahrheit, aber nicht zur Er kenntniß ihrer selbst, die an sich von dem allen unabhängig und frei es nur zur Aeußerung und Entäußerung ihres Weſens macht, und welches also in Beziehung auf sie nur das Außerwesentliche ist.
+
+Denn nicht das Geschehenſeyn und
+
+Geschichtliche als solches oder die thatsächliche Wahrheit an ſich ist die Wahrheit, welche der Geist sucht in der Neligion, sondern jene ist nur die Form und Erscheinung von dieſer, und nicht in sich selbst hat das Vorhandene und Factische in der Religion die Bestimmung seiner Nothwendig, keit, sondern allein in der göttlichen Wahrheit. Als Factum an und für sich iſt es vielmehr ein zufälliges, endliches, entstandenes und vergangenes und nicht auf dieses ist die göttliche Wahrheit gegründet, ſondern vielmehr umgekehrt, aus dieser geht jenes hervor. Nur für das oberflächliche, nicht in die Aufgabe selbst sich einlassende Denken ist die Theologie oder Dogmatik nur als hiſtoriſche.
+
+§:
+
+105.
+
+Daß nun die göttliche Wahrheit in der Schrift und Kirche an sich enthalten, nicht nur als daseyend, sondern auch 'als wahr und gewiß erkannt werde, dazu gehört ein Wissen, welches dem bloß historischen Denken fremd ist. Als die geschichtliche sagt die Erkenntniß nur aus, daß dies [p. 60] ſes oder jenes Wahrheit gewesen sey, und zwar für andere. Als die dogmatische sagt sie zugleich aus, daß sie auch jezt noch Wahrheit sey und für uns, objectiv und absolut. Das gegen das dogmatische Wissen sich sehende und dieses von sich ausschließende blos historische Sicherinnern sagt aus, es hätten Andere wohl die göttliche Wahrheit erkannt, uns aber ſey das nicht mehr vergönnt oder erlaubt, ſondern wir dürften ſie nur mit ihren Augen sehen. Der ausschließlich historische Glaube ist zugleich strenger Auctoritätsglaube und zwar nicht bloß in Ansehung des Inhalts, worin dieser Glaube seine Wahrheit hat, sondern auch in Ansehung der Form, wodurch er das eigene, freie Denken beschränkt und selber
+
+**MH unwahr wird.
+
+In den Lehren der Schrift und Kirche ist uns die christliche Wahrheit gegeben und vorgestellt, und der vernünftige Glaube hat auch an solcher Vorstellung der Wahrheit genug und die Wahrheit selbst. Allein an und für sich liegen diese Glaubenswahrheiten der Schrift und Kirche tiefer, als die Vorstellung geht, sie sind speculativ, und haben ihren Ursprung im abſoluten Wiſſen.
+
+Die Aufs gabe der Wissenschaft ist demnach auf speculativen Wege die Quellen zu entdecken, aus denen die Wahrheit in jener Vorstellung und diese somit die Vorstellung der Wahrheit, und hiedurch selbst erst die wahre Vorstellung ist.
+
+##### §. 106.
+
+Dieses zeigt sich in Beziehung auf die heilige Schrift zunächſt darin, daß die Religion, auch als christliche, oder eintretend und wirkend, in Zeit und Raum, sich entäußernd zur Endlichkeit und an allen Seiten1 die ſittliche und sinnliche Welt bestimmend und perändernd darum doch nicht aufgehört hat, zu seyn, was sie ist ihrem Wesen nach, die übersinnliche und ewige. Sie hat an die Gestalt nicht den Gehalt verloren.
+
+Der Vorzug und wesentliche Character der christlichen Religion iſt vielmehr, daß in ihr die Religion an [p. 61] sich, die ewige Religion auch in der Zeit und Sinnenwelt diesen ihren wahren,
+
+#### d. i. überfinnlichen und göttlichen
+
+Character nicht verloren, sondern vielmehr behalten und des hauptet hat.
+
+##### §. 107.
+
+Ferner ist nicht zu verkennen, daß in ihrer heiligen Schrift die christliche Wahrheit noch mit mancherlei der Idee fremden Zuthaten, Bildern, Gleichnissen, orientaliſchen Redeformen und Uneigentlichkeiten, worin ſich die göttliche Wahrheit zur menschlichen Schwachheit und Fassungskraft herabläßt, umgeben ist, welche von der Wahrheit an sich zu unterscheiden, die Erkenntniß der Wahrheit an sich vorausseßen, wozu Philologie und Historie aber nicht ausreichen.
+
+Denn hier wäre vollends das Dogma, deſſen Inhalt eine ewige und göttliche Wahrheit ist, den willkührlichen Bestimmungen der Interpreten preisgegeben, welche sich gegenseitig negiren und aufheben.
+
+Mit der Auslegung einer heiligen Schrift hat es die besondere Bewandniß, daß man auf einem andern Wege gewißermaßen schon da seyn muß, wo man erst hin will und man die göttliche Wahrheit nie absolut nur aus derselben entnehmen kann: das Göttliche der Schrift kann nur durch dasselbe selbst erkannt und darin gefunden werden. Eine von dem Wissen in der Idee verlassene bloß grammatische und historische Untersuchung, als solche durchaus nur auf das endliche Erkennen beschränkt, wird und muß auch das Göttlichwahre in den biblischen Vorstellungen nicht nur ignori ren und auf alle Weise umgehen, sondern es auch diluiren und in ein eben so endliches Erkennen, als sie selber ist, verwandeln und schon der einzige eben berührte hermeneutiſche Grundſaß von der Accommodation iſt, ohne das dogmatiſche Wissen, welches das Wissen der Wahrheit an sich ist, hins reichend, den Character der Schrift, kraft deſſen ſie eine heilige iſt, vollkommen zu zerstören, und den göttlichen Glaubensinhalt derselben in das Profanste und Trivialſte zu übersetzen [p. 62] und zu verwandeln. Grammatik und Hiſtorie, die erſten und äußerlichsten Bedingungen zum Verständniß der Schrift, sind in und aus sich absolut unvermögend, irgend eine ewige und. übersinnliche Glaubenswahrheit in der Bibel zu finden oder gar eine heilige Schrift in ihr anzuerkennen. Ist also die Auslegung mit ihren Mitteln auf sie beschränkt, so enthält die Bibel keine heilige Schrift, kein Wort Gottes, ſondern nur endliche und vergängliche Gedanken und Thatsachen.
+
+##### §. 108.
+
+Wie mit der schriftlichen, so verhält es sich auch mit der kirchlichen Ueberlieferung.
+
+Gewiß, wir würden, abſolut einsam, von unserer Erlösung durch Christum und dem uns durch ihn geoffenbarten Gott nichts wiſſen, wäre dieſe Erkenntniß zunächst und zugleich nicht in Anderen und von ihnen an uns gekommen, und es mag in dieser Beziehung wohl mit Recht gesagt werden, nichts könne gewußt werden, was nicht in der Erfahrung ist, es müsse das Ewige und Göttliche sich uns zunächst äußerlich offenbaren, auf dem Wege der Tradition an uns kommen.
+
+Diese Priorität hat der geschichtliche Weg, aber hat er deshalb auch den Primat, wenn es zur Wiſſenſchaft kommt und auch nur der Anfang dazu gemacht wird, und giebt es keinen Unterschied mehr zwischen dem Christen und Theologen, oder dem katechetischen und akroamatiſchen Wiſſen?
+
+##### §. 109.
+
+Der wahre Glaube bietet sich uns auch in der Kirche nicht nur zunächſt in menschlichen Vorstellungen dar, ſondern auch in der Vermischung mit leerer Meinung, mit leidenschaftlicher Erbitterung, und nicht selten macht schon die äußerliche Auctorität für sich Anspruch, geltend zu seyn. Wo ist nun hier der Unterſchied zwiſchen Göttlichem und Menſchlichem, zwischen Superstition und Religion?
+
+Vielmehr läßt [p. 63] man sich ebendarum in die Wiſſenſchaft ein, um das, was als Christen zunächst geschichtlich überliefert worden und was wir zunächst glauben und auswendig wiſſen, auch uns inwendig und als Wahrheit und Gewißheit zu wiſſen und das Göttliche außer uns in bestimmter Erkenntniß auf das Es ist damit, wie mit Göttliche in uns zurückzuführen. der sinnlichen Wahrnehmung, womit die Bildung des Menschen anfängt, aber sich nicht vollendet. Wer daher auch in der Wiſſenſchaft nur auf dem hiſtoriſchen Wege stehen bleibt, aus, weßhalb die Wissenschaft zu suchen läßt eben das nothwendig ist.
+
+##### §. 110.
+
+Was auf dem Wege der Erfahrung und als Erfahrung Göttliches uns überliefert wird, ist selbst nichts andres, als der Gedanke, der Geist an sich, der substanzielle Gegenstand des Bewußtseyns.
+
+Jenes Ansich des Geistes ist aber noch in sein Fürsich zu verwandeln und diese Bewegung ist eben das Werden des Geistes zn demjenigen, was er an sich ist, das sich in sich Reflectiren, die Verwandlung des Substanziellen ins Subjective, in welchem also die Substanz und ihr Ansichſeyn aufgehoben, d. H. zum Begriff geworden Hierin erst hat das wahrhaft wissenschaftliche Wiſſen also nur darin, daß es über das Historische hinausgegangen. Die hingegen sich nur an die endliche und angefangen, erscheinende Seite des Lebens Christi oder der Religion halten, haben keinen wahrhaftigen Begriff von der Auferstehung des Herrn, welche nothwendig sein früheres Leben für ein verhülltes, zu seiner Wahrheit noch nicht verklärtes Leben erklärt. Sie hat das ganze vorhergegangene Leben Christi zu ihrer nothwendigen Voraussetzung: aber erst in ihr ist das wahrhaftige Leben Christi mit allen seinen frühern Momenten ganz zu sich selbst gelangt und im Geiste seiner Gemeinde aufgehoben.
+
+[p. 64] §.
+
+111.
+
+Hingegen in allem bloß philologischen, antiquarischen, historischen, welches freilich die Theologie sich aneignet, iſt an und für sich noch nichts, was nicht jeder wiſſen könnte, der auch kein Theolog ist. Ein solcher bleibt auf die Untersuchung der thatsächlichen Wahrheit oder der Wahrheit_der Thatsache beschränkt, und die Fülle und Breite von diesem soll sodann die Tiefe und Wahrheit des Wiſſens von der göttlichen Wahrheit ersehen.
+
+Die Erfahrung aber, als endliche Bestimmung des Unendlichen, ſteht hiedurch zugleich nothwendig im Widerspruch mit dem Wesen der Religion. In dieser Beschränktheit auf die Erfahrung kann auch die Erscheinung der göttlichen Wahrheit, oder die heilige Geschichte, den Character der heiligen, den sie hat, nicht mehr behaupten:
+
+denn solche Ablösung von ihrem heiligen Ursprung und das Nichtwiſſen und Ignoriren von dieſem ist ebenso sehr Auflösung der göttlichen Wahrheit, und Verwandlung derselben in die endliche Thatsache und des Heiligen in das Profane, zu dessen Unterscheidung durchaus kein Criterium oder Prinzip in der historischen Untersuchung als solcher, vorhanden iſt. §.
+
+112.
+
+Dieses alles weiſet genugsam hin auf das Prinzip der göttlichen Wahrheit außer der Schrift und Kirche, welches allein ein innerliches, die Vernunft und das vernünftige Wissen ist. In Ansehung der Bibel iſt dieſes ſelbſt von denen anerkannt oder stillschweigend vorausgesetzt worden, welche sonst streng nur in ihr ihren Standpunct nahmen. Denn was war der Augustinische Grundſaß der Theoprepie, nach welcher alles in der Schrift zu verstehen sey, andres, als die Anerkennung eines solchen Prinzips, aus welchem, was Gottes würdig sey oder nicht, allein gewußt werden kann? Was war der hermeneutiſche Sah, die Schrift lege [p. 65] sich selbst aus, oder die Schrift sey nur durch die Schrift zu verstehen, anders, als dieselbe Voraussetzung? Welches ist das Prinzip, worin die scheinbaren Widersprüche der Schrift aufgehoben sind? Was endlich ist die Analogia fidei in der Schrifterklärung und zu dogmatischem Zweck anders, als die Hinweiſung auf die durch alle einzelnen Bestandtheile des Glaubens in ihr sich verbreitende Seele, welche nicht, hie oder da, ſondern der gemeinsame Ursprung des Wahren und Heiligen ist aus dem Geiste der Wahrheit und Heiligkeit, wie er zunächst sich in der Vernunft zu erkennen giebt, und aus welchem das Heilige in der Schrift und die Heiligkeit An dem Geiste des Evangeliums hat derselben selber ist.
+
+alles Einzelne in der Schrift seine Auslegung; der Buchstabe aber ist nicht der Geist, sondern die Vernunft. §.
+
+113.
+
+Aber auch die Vernunft ist nicht dieses Prinzip, fo fern sie nur in sich selbst und ihr eigner Begriff oder abstracter Verstand ist.
+
+Als solcher ist sie nur das Organon und die formale Vermittelung aller Wahrheit, und das nur ist sie gemeiniglich und in den gewöhnlichen Erforderniſſen • der Vernunft zur Auslegung des Glaubensinhalts der Schrift und zur Erkenntniß desselben in der Kirche.
+
+Sie ist darin wesentlich immer noch jenes ſubjective endliche Erkennen, die leere Abstraction, die fleischliche Vernunft, welche wohl sehend in allen irdischen und endlichen Dingen, aber zugleich blind in dem Ewigen und Göttlichen ist. diesem Wege
+
+Sie kommt auf nicht über das traditionelle Wiſſen hinaus, sie wehrt das Philosophische von sich ab, um ganz nur in ſich, der unphiloſophiſchen Vernunft zu bleiben, d. h. entweder im Reinhistorischen oder im Reinabstracten. Nicht an dem Inhalt des Dogma, sondern nur an der Aeußerlichkeit, Erscheinung und Umgebung desselben nimmt sie ihr Interesse; die Lehre selbst und an sich, noch dazu auch wohl € [p. 66] göttlich genannt, d. i. soviel als dem Erkennen unzugänglich, ist ihr gleichgültig; nur an jener Außenseite derselben bewegt sie sich herum, und so bleibt sie bei allem
+
+Schein des Gegentheils doch nur auf der Oberfläche und ſelbſt nur oberflächliches Wiſſen.
+
+Sie steht in dem Wahn, es werde sich aus dem Endlichen, Zeitlichen und Räumlichen und der Notiznehmung davon, oder dem Hiſtoriſchen, werde es nur tüchtig durchforscht mit Kritik, die unendliche Aus exegetischen entwickeln.
+
+Wahrheit schon von selbst und historischen Materialien, denkt man, habe sich mittelſt der Vernunft, die Dogmatik ganz mechanisch zusammenzusetzen.
+
+Die Wahrheit aber ist, daß das Prinzip der christlichen Dogmatik weder die Schrift, noch die Kirche, noch auch die Vernunft ist, sondern allein der Geist, in welchem Schrift, Kirche und Vernunft eins und in ihrem Fürfichseyn aufgehoben sind.
+
+##### §. 114.
+
+Es ist demnach die Einheit des spéculativen und traditionellen Wissens noch in Betracht zu ziehen.
+
+Diese ist nicht eine äußere nur, sondern zugleich und zunächst eine innere. Es ist der eine und selbige göttliche Geist, welcher in Schrift, Kirche und Vernunft thätig und wirksam ist, und somit selbst ihr wahrstes, göttliches Prinzip, nicht nur negativ die Entfernung alles innern Widerspruchs, sondern auch positiv die Wahrheit der Schrift, der Vernunft.
+
+der Kirche und
+
+Er, nicht bloß in seiner abstracten Identität, sondern in der concrèten Einheit mit dem menschlichen Geiste, hat nicht nur sein Leben in sich selbst, sondern auch seine Geschichte, und so besonders als der Geist der wahren und offenbaren Religion; für die Geschichte ist er und ſein Leben in sich die Voraussetzung, wie die Geschichte sein Reſultat.
+
+In der Geschichte erst hat der Geist der göttlichen
+
+Wahrheit seine Wirklichkeit, sie aber hat in ihm ihre Wahrheit.
+
+Nur mittelst der Geschichte vermittelt die Wahrheit [p. 67] ihre Wirklichkeit, wird zum Glauben der Welt und nur in ihr ist sie die wirklich wahre. Aber als Geschichte hat sie zugleich die Bestimmtheit der Wahrheit, nämlich das Denken, und ſehet voraus das Wissen des Wahren, ohne welches Wissen sie auch nicht für das Wirkliche kann erkannt wer den: denn nur das Vernünftige ist das Wirkliche, wie nur das Wirkliche das Vernünftige ist. §. 115. Das vernünftige Wissen der Wahrheit ist zunächst als ein Wissen von Gott das Wiſſen durch Gott, das Wiſſen Von dem endlichen, relas in seinem Geiste und durch ihn.
+
+tiven Denken kann Gott, der nichts endliches und relatives ist, nicht gedacht und gewußt werden.
+
+In diesem Wissen hingegen ist das Ich über sich und die Subjectivität des isolirten Bewußtseyns seiner selbst hinaus, es ist in Gott und Gott in ihm. In dem menschlichen Geiste ist Gott sich nicht durch diesen, sondern durch sich selbst offenbar, und so auch dem menschlichen Geiste offenbar. Dieser als Vernunft ist in ihm aufgehoben.
+
+Dies ist das Schwerste, was die Wiſſenſchaft jedem zumuthet, der sich auf sie eins läßt, daß die reine Substanz ſelbſt ſich als Subject zeige, er mit seinem Geiſte ſich dem göttlichen ſubjicire und ihm geLassen sei. Sein wahres Wissen vom Absoluten ist selber ` · ein absolutes. §. 116. Aber dies abſolute Wissen ist weder ein transscendens tes und myſtiſches sich in Gott Verlieren, noch auch ein me taphysisches Abstrahiren von aller Geschichte, sondern die wer dende Unmittelbarkeit, es ist Reflexion.
+
+Allerdings ist die göttliche Offenbarung der christlichen Wahrheit in der Bibel und Kirche für die Wiſſenſchaft zunächst eine Voraussetzung und die Wissenschaft nur die Reflexion auf das in ihnen gegebene. Aber indem sie so nicht in dem Buchstaben, sondern in dem Geiste der Bibel, nicht in der Auctorität der € 2 Kirche, sondern in dem Geiste derselben ihren Standpunct nimmt, und diese Reflexion keine bloß äußerliche, und so nur Wiederhohlung des Glaubensinhalts ist, hat sie an dem göttlichen Geiste, aus welchem Bibel und Kirche selber, und welcher der Geist beider ist, ihr Prinzip, nimmt in ihm ihren Anfang und vollendet sich darin, ist nicht nur somit in ihrem Resultat mit der Offenbarung identisch, sondern wesentlich selber Analyſis des in ihr uns auf jenen beiden Wegen überlieferten.
+
+Nur in der Theorie also gewinnt die Empirie wahrhafte Bedeutung und der Begriff hebt den Gegensatz beider völlig auf.
+
+In der unendlichen und absoluten Idee ist für die Vernunft der vorausgesetzte Geist keine Voraussetzung mehr oder gar ein Widerspruch, und sie, in ihrer innern Einheit mit dem Geiste der Schrift und Kirche, hiemit die an und für ſich christliche.
+
+##### §. 117.
+
+Dieser freie, göttliche Geist, in der Einheit mit dem menschlichen der christliche Geist, ist es, der nur sich aufsucht und wiederfindet in der Bibel und Kirche, die Bibel immer mehr von bloßen Menschengedanken und Saßungen, und der Auslegung danach, die Kirche immer mehr vom todten
+
+Buchstaben der Bibel befreit, um sie nur seiner, des Geiſtes in beiden theilhaftig zu machen. Denn wohl will er nicht bloß unmittelbar durch sich auf uns, sondern auch durch andere auf uns wirken: hierin haben Bibel und Kirche den gemeinſamen Grund ihrer Nothwendigkeit.
+
+Aber damit hat er sich nicht etwa aufgegeben an beide, sondern in ihm, der nur in der Gemeinde lebendig ist, hat der Glaubensinhalt der Bibel, in ihrem Buchstaben todt, sein Leben und seine Wahrheit, ſein wahres Verständniß und seine sichere, authentische Auslegung; in ihm, der der göttliche Urheber einer heiligen Schrift ist in ihren menschlichen Urhebern, hat die Lehre der Kirche ihre wahrhafte Nahrung und Quelle, ihre Bewährung und Bekräftigung.
+
+Nicht also sind die
+
+Lehren der Schrift und Kirche darum Wahrheiten, weil sie in der Bibel und Kirche vorkommen oder beide, Bibel und Kirche, heilige Anstalten sind, sondern sie kommen darum in beiden vor und beide sind deshalb heilige Anstalten, weil jene Lehren an sich Wahrheiten sind und als solche in der Beide Wiſſenſchaft erkannt und gewußt werden können. also, Bibel und Kirche, sind in dem Geiste der Wissenschaft aufgehoben.
+
+Der Geist der Wissenschaft aber und der Geist des Christenthums ist der eine und selbige.
+
+##### §. 118.
+
+Ebenso und ebendeshalb hat die traditionelle Dogmatik, als biblische und kirchliche, keine Selbständigkeit und ihre Wahrheit nicht in sich, sondern in der wissenschaftlichen; sie sind Momente an ihr und in ihr aufgehoben, und das abstracte Festhalten der Bibel außerhalb der Gemeinde und ihres Glaubens oder eine biblische Dogmatik für sich entbehret ebenso sehr der Wahrheit, als das abſtracte Festhalten der Kirchenlehre ohne die Bibel in einer kirchlichen Dogmatik für sich oder das abstracte Festhalten der Vernunft ohne Bibel und Kirche in einer sogenannten Vernunfttheologie.
+
+An dem göttlichen Geiste in der Einheit mit dem menschlichen hat das wiſſenſchaftliche Wiſſen den Geist, aus welchem Bibel, Kirche und Vernunft selber ist, und der sich daher auch in ihnen so wenig verläugnen, als widersprechen kann.
+
+##### §. 119.
+
+Hiemit ist denn zugleich auch das Confeſſionsverhältniß der Dogmatik bestimmt. Als die im Geiſt ihren Standpunct nehmende ist sie die evangelische, als diese aber der römischen Kirche entgegengesetzt, ist sie die protestantische. So wie die römischkatholische sich der protestantischen streng gegenüber behauptet, steht sie unter der Herrschaft des noch [p. 70] unmittelbaren, unfreien und unklaren Gefühls, und sie kann unter den Aposteln füglich den Petrus für sich anführen als ihren Stifter.
+
+So wie die proteſtantiſche der römiſchkatholischen Kirche entgegensteht, steht sie unter der Herrschaft des Gedankens und des Verstandes, der sich das Recht der Prüfung, der freiesten Forschung und Untersuchung nicht nehmen läßt.
+
+Sie kann füglich den geistreichsten und freies ſten aller Apostel, den Paulus, als ihren Stifter ansehen. Der aber der Stifter und Erhalter der christlichen Kirche in ihrer ungetrennten Einheit und Wahrheit ist, ist der Geist Jesu Christi, der von dem göttlichen Geiſte nicht verschieden ist.
+
+##### §. 120.
+
+Die Erscheinung und zeitliche Darstellung_des Chriſtenthums in jenen beiden Formen ist die Geſchichte des Geistes selbst, und wie sie im Ganzen und Großen den geschichtlichen Verlauf des Christenthums in der Welt darstellt, so erneuert sie sich auch im Einzelnen und Besondern, beides auf gleich nothwendige Weiſe. Die Unmittelbarkeit der Gefühlseinheit, womit der christliche Geist seine Erscheinung begann, mußte sich nothwendig aufheben in der Macht des Gedankens, und es mußte somit zu diesem Unterschiede einer proteſtantiſchen und römischen Kirche kommen. Es ist der Geist des Chriſtenthums selbst, der sich zu dieſem Unterschiede bestimmte, welcher sodann zu solcher Trennung wurde.
+
+Jener Unterschied aber enthält an ihm selbst zus gleich die Möglichkeit der Aufhebung dieser Trennung, welche jedoch, so wenig der Mann wieder zum Kinde oder Jüngling werden, ebensowenig durch einen Rückschritt der protestantischen Kirche in die römischkatholische, sondern eins zig und allein durch einen Fortschritt beider geschehen kann. Dieser Fortschritt aber, das Prinzip einer wahren Vereinigung, ist die Wissenschaft; nur erst, wenn sie, als die wahre Versöhnung in dem Geiste, der das Wahre und Gute [p. 71] von beiden in ſich aufhebt, ſich in beiden Kirchen ganz durchgebildet hat, wird die Vereinigung nicht mehr ferne und die Zeit der höchsten Verklärung des Christenthums in der Wissenschaft, und der Wissenschaft im Christenthum, oder die vollkommene Versöhnung des Glaubens und Wiſſens gekommen seyn.
+
+##### §. 121.
+
+Das Wissen von Gott ist allerdings in der Wissenschaft zunächſt ein Wiſſen in der absoluten Idee und somit selber absolutes Wiſſen.
+
+Allein dieses ist es nur seinem wesentlichen Inhalt nach und ſofern es in der Wahrheit an sich, in der offenbaren Religion, welche diese Wahrheit ist an sich, seinen 'Standpunct nimmt.
+
+Es selbst ist, seiner we-
+
+ſentlichen Form nach, ein Begreifen jenes Inhalts und der Begriff somit die unendliche Vermittelung der Wahrheit; er macht den Inhalt zur Form, die Form zum Inhalt: er ist die Ausgleichung beider. Vorwärts schreitend in der Idee ist das wiſſenſchaftliche Wiſſen zugleich ein Zurückgehen auf den Begriff und es selbst also das begreifende Wiſſen.
+
+Ein Begreifen aber ist es, weil es äußerlich ein Hinübergreifen ist über Gefühl und Abstraction, innerlich aber die Identität und Differenz in ſich vermittelnd in eins zuſammenfaßt.
+
+##### §. 122.
+
+Auf dem Standpuncte des Begriffs und der unendlichen Vermittelung ist die Wiſſenſchaft, als Dogmatik, weder zu hoch, noch zu niedrig gestellt und ist ebenso weit entfernt von der Theosophie, als einer bloßen Piſteologie; jene ist über die Wissenschaft hinaus und bedarf des Begriffs und der Vermittelung nicht, diese ist nur der entfernte Anfang der In der Mitte beider steht die Reflexion, als Vermittelung der Idee oder des absoluten Wissens und des Glaubens oder des traditionellen Wissens. Hätte jene Reflexion die absolute Idee außer sich, so wäre sie selbst nur
+
+[p. 72] Einleitung. III. Form der Dogmatik.
+
+eine äußerliche, und ihr Wissen vom Glauben ein traditionelles.
+
+Hätte sie ausschließlich ihren Standpunct im abſoluten Wissen, abgesehen vom Glauben und aller Geschichte, ſo müßte sie die göttliche Offenbarung selber ſeyn und die Stiftung der wahren Religion. Ihr Element aber ist der reine Begriff, welcher zugleich der Inbegriff der Idee und Geschichte ist und worin auch alle Vorstellung und Tradition ihre Wahrheit hat.
+
+In diesem Begriff hat sie ihren Ausgangspunct und Anfang, ihre Bewegung und Fortschreitung, ihre Gliederung und Eintheilung.
+
+##### §. 123.
+
+Es ist aber vorerst der reine Gedanke Gottes in der Bestimmungslosigkeit seines Ansichſeyns, was den ersten Theil der Dogmatik ausmacht.
+
+In dieser Unbeſtimmtheit Gottes in dem reinen Gedanken von sich ist Gott noch der unendlich sich selbst gleiche, in welchem noch kein Unterschied. ſeiner von sich gesetzt ist, in der christlichen Religion vorgestellt als Vater. In diesem ihren Anfang hat sie aber zugleich die Nothwendigkeit ihres Fortganges, welches die Unterscheidung ist. Inhalt des zweiten Theils der Dogmatik_iſt daher Gott in dem reinen Gedanken von sich, hervorgehend aus der Unterschiedslosigkeit in den Unterschied ſeiner von sich, in der christlichen Religion vorgestellt
+
+Sohn.
+
+Daß aber dieser Unterschied kein Unterschied, noch weniger der Untergang jener zunächst als unmittelbar und abſtract sich zeigenden Sichselbstgleichheit sey, muß sich im dritten Theil der Dogmatik zeigen.
+
+Denn in der unendlichen Vermittelung seiner mit sich selbst ist Gott der aus dem Unterſchiede seiner von sich in die unendliche Einheit mit ſich zurückgegangene, in der christlichen Religion vorgestellt als Geiſt.
+
+Dogmatik
+
+##### §. 124.
+
+Der reine Gedanke Gottes enthält zunächst das Seyn als ein Denken und dieses ist die Lehre vom Wesen Gottes; ſodann das Denken als ein Seyn, und dieſes iſt die Lehre vom Daseyn Gottes. Das unmittelbare reine Denken ist hier in seinem Unterschiede von sich.
+
+Dieser aber, als Wesenheit und Wirklichkeit, geht in die Einheit zurück, in der sie beide aufgehoben sind, und dieses ist die Lehre von den göttlichen Eigenschaften.,
+
+Ohne diese
+
+Bewegung und Vermittelung ist der an sich wahre Sah A= A` oder Gott = Gott, ein langweiliger Saß.
+
+##### §. 125.
+
+In der Vorstellung, welche den Namen: Gott aussagt, ist Gott noch das durchaus Unbeſtimmte und sie an sich hat kaum mehr, als diesen Klang und Namen. Sie ist [p. 76] und verfährt hierin meist ganz gedankenlos. bestimmtheit ist Gott das Gedankenlose,
+
+In dieser Un die noch in sich selbst beharrende, unmittelbare` Einheit des Seyns und Nichtseyns und kann Alles, was von Gott bejaht wird, ebenso sehr verneint werden. In diesem Sinne ist das Wesen eben so sehr das Nichts, das Seyn, durch Nichts vermits telt, das Unbestimmte; es ist das Verschiedenste und Entgengesetzte noch in ihm verborgen.
+
+Denn der Unterschied ist noch nicht gesetzt und das Denken am Seyn noch nicht hervorgekommen.
+
+##### §. 126.
+
+Das Denken, welches nur im Bewußtſeyn iſt, erweiset sich an der Vorstellung zunächst dadurch, daß es ihr ei nen Inhalt giebt, welcher die nähere Bestimmtheit derselben iſt. · Dieſe nähere Bestimmtheit zeigt sich in der Reflexion als Unterscheidung Gottes von allem, was er nicht ist, welches schon in der vagen Vorstellung von Gott, höchsten Wesen geschieht.
+
+als dem
+
+Wenn sie hiemit aber noch vorzüglich auf das, was Gott nicht ist, oder auf das Unwesentliche ausgeht und somit nur negativ verfährt, so erreicht sich erst im Begriff das Eeyn als Wesen: denn im Begriff ist das Seyn Denken, in diesem bezieht sich das Seyn auf sich selbst als das Wesen. So das Wesen geworden ist das Seyn das Seyn gewesen. Der Begriff aber erreicht sich in der Idee.´.
+
+##### §. 127.
+
+Die Idee des Wesens Gottes nicht nur zu haben, sondern zu seyn, ist das Wesen und die Bestimmtheit des Geiftes.
+
+Er soll aber, was er ist, welches die göttliche Bestimmtheit oder der göttliche Gedanke des Geistes ist, auch werden, und dieses ist seine Bestimmung, die er erreicht zunächst durch das sich in sich bewegende Thun des Den-
+
+[p. 77] Die Wahrheit ist nur im Denken, und das wahre kens.
+
+Wesen Gottes im Denken erreichen, heißt es erkennen. Die Aufgabe in der Erkenntniß des wahren Wesens Gottes. ist demnach, die concrete Einheit des Geistes mit der Idee des göttlichen Wesens durch die vermittelnde Bewegung des Begriffs oder durch die Entwickelung aller darin enthaltenen Momente hindurch zu führen.
+
+##### §. 128.
+
+Wenn Gott in seinem Wesen der gemeinen Vorstellung nur im Jenseits erscheint und von dem Geiste geschieden und getrennt, so kann dies Jenseits in der denkenden Erkenntniß aufzuheben, nicht minder für die Aufgabe des Wifsens und der Wissenschaft angesehen werden.
+
+Hiemit hat sie in der offenbaren Religion selbst ihren festen und sichern Standpunct, indem, nach ihr, Gott dem Geiste nur insofern wahrhaft und wesenhaft ist, als er ihm nicht mehr insofern oder in solcher Ferne ist, sondern vielmehr selbst sich ihm zu erkennen gegeben hat. 4, 11.
+
+1. Cor. 2, 10.
+
+AG. 17, 28.
+
+Marc.
+
+Dieses Gegebenſeyn ist das Gegebenſeyn in der Idee von ihm und die Bewegung oder das Denken in dieser Idee somit an und für sich das Thun Gottes selbst.
+
+##### §. 129.
+
+Das Nichtseyn, welches das Wesen abstracterweise an ihm selbst hat, ist das Denken und dieses, als solches, eben ſo abſtract genommen, kein Seyn: das Denken ist die Negation des Seyns.
+
+Aber als solches ist es doch zugleich eine Poſition und keine Negation, ein Seyn und kein Nichts; denn es ist und so als Denken das Seyn. Des Seyns inne werdend ist das Denken ein sich bewußtes Seyn, Bewußtseyn.
+
+Mittelst des Bewußtseyns offenbaret Gott ſein Wesen poſitiv.
+
+Pf. 145, 18.
+
+Nächst den Wirkungen
+
+Jes. 55, 6.
+
+Jac. 4, 8.
+
+dieses Bewußtseyns im Willen,
+
+[p. 78] Gewiffen 2c. soll es vor allem auch zum Begriff deſſelben ſelbſt kommen, und es zeigt sich als unwahr die Lehre, daß nur der Wille oder das moralische Wesen Gottes, nicht aber dieſes an ſich zu erkennen sey, da auch schon der Wille Gottes selbst nur insofern der wahre ist, als er der wesentliche Wille Gottes ist.
+
+##### §. 130.
+
+Das Denken, als solches, ist noch das sich selbst gleiche; das Denkende ist, wie das Gedachte, ein Denken. Allein in dieser Beziehung auf einander liegt zugleich ein Unterſchied; das Denken, welches Sich- Denken und hiemit sich gegenständlich, oder Bewußtseyn, und welches nur das Gedachte ist.
+
+Dieses ist die Natur.
+
+ſeyn und kein Selbstdenken.
+
+Sie ist das Gedacht-
+
+Indem aber in der
+
+Natur jene Offenbarung Gottes, das Denken, aufgehoben iſt, iſt ſie das, was das Denken und dessen Inhalt zu seinem Inhalt hat, und sie die andere Seite derselbigen Offenbarung Gote tes. Matth. 6, 26―30.
+
+##### §. 131.
+
+In ihrer Verschiedenheit von einander gegenseitig die Negation des andern sind Natur und Bewußtseyn keines weges gleichgültig gegen einander; es ist kein in sich beharrender Unterschied, ſondern weiſet über sich hinaus auf ein höheres Drittes, in welchem sie eins. und aufgehoben sind.
+
+Dieses ist die Vernunft als Wissen, der Geist.
+
+ihm vereiniget sich das Bewußtlose und Bewußtseyende und ſeine Expanſion iſt die Geſchichte.
+
+Sie hat das Bewußtſeyn und die Natur zu ihrem Inhalt und wie die Natur das Ansich, das Bewußtseyn das Fürsich, so ist der Geist das An- und für sich.
+
+##### §. 132.
+
+Der ſubjective, und als solcher theoretische_und_prac, tische Geist ist sich selbst nur in seiner Objectivität oder als [p. 79] objectiver Geist offenbar.
+
+Als solcher ist er im Einzelnen der Geist eines Volkes, im Besondern und in Beziehung auf andere Völker der Völkergeist, im Allgemeinen, worin das Einzelne und Besondere aufgehoben ist, der Geist der Welt und Menschheit. Alle diese Begriffsbestimmungen des Geistes aber heben sich auf in dem absoluten Geist, als worin der Geist auf allen Stufen erst seine Wahrheit hat.
+
+Geist, in seiner Sub- und Objectivität, iſt ſelbſt der wahre Begriff der Natur und des Bewußtseyns nur in Gott; in ihm begründet und begriffen ist der Geist erst wahrhaft dieser Begriff und hat er selbst somit seine Wesenheit in dem göttlichen Wesen.
+
+Ein göttlicher Gedanke seyend ist er allein die Möglichkeit, Gottes Wesen in der Natur und im Bewußtseyn zu denken und ihn in seinem wahrhaftigen Wesen zu erkennen.
+
+Und nur in diesem Elemente erzeugt
+
+ſich der Wirklichkeit nach die Erkenntniß des göttlichen Wesens.
+
+##### §. 133.
+
+In Ansehung der Wirklichkeit der Erkenntniß des göttlichen Wesens ist der Vorstellung und dem Bewußtseyn zunächst gegeben der Raum, die Zeit und die Materie. Das Wesen Gottes aber ist weder eine bloße abstract logische Denkform und Denkbedingung, wie Raum und Zeit, noch die gedachte Einheit beider, wie die Materie. Als das bloße Außer- und Nach - einander sind Raum und Zeit vielmehr das Wesenlose; Gott ist weder das durch Raum und Zeit bedingte, noch das bedingende derselben: in ihm sind beide vielmehr, wie an sich, so in ihrer Einheit aufgehoben: er ist die alle Zeit und allen Raum und somit die weltbewäl tigende Macht.
+
+Es hat aber allerdings die Idee von Gott eine Beziehung auf Raum, Zeit und Materie, und in dieser Reflexion bestimmt sich die Idee des göttlichen Wesens in dem Begriff als das Seyn Gottes in ſich, aus sich und für sich.
+
+In der ersteren Beziehung ist die Idee des götts [p. 80] lichen Wesens in der Beziehung auf den Raum, andern auf die Zeit, in der dritten auf die Materie.
+
+##### §. 134.
+
+Gott ist in sich selbst und nicht in einem andern, wie alles Daseyende, in der Natur, im Raum existirende, welches in einem andern sein Werden hat und so das Gewordene ist. selber.
+
+Gott ist in sich, ohne Grund, der Ungrund
+
+In dem Seyn Gottes in sich selbst wird für die Vorstellung und das Bewußtseyn Gott, der in Gott ist, als ein anderer gedacht und unterschieden von dem, in dem er ist, und der Satz ist insofern mit der Relation behaftet.
+
+Indem aber Gott, in welchem Gott ist, zugleich als Gott, der in Gott ist, gedacht ist, wird der Gegensatz wieder aufgehoben, aber durch den Begriff vermittelt und Gott als der Wahre erkannt, das ist, als die unmittelbarste Einheit des Seyns und Denkens.
+
+2. Mos. 3, 14. 15.
+
+Joh. 17, 3.
+
+Gott ist die Wahrheit; die Wahrheit aber ihrem Begriff nach das Seyn, welches das Denken selber ist. Gott allein ist wahrhaft, denn er ist die reinste Bejahung seiner selbst.
+
+Hebr. 10, 23. 2. Cor. 1, 20. 2. Tim. 2, 13. Dies ist die Substanzialität Gottes, welche sich selbst zu ihrem Bestehen hat, oder die Selbständigkeit Gottes (Autouſie).
+
+§.
+
+Dies Insichselberſeyn Gottes ist das vollkommenſte
+
+Aussichselberseyn. Grund.
+
+135.
+
+Das Wesen bestimmt sich hier als
+
+Gott, der in sich selbst, oder Grund seiner selbst ist, wird unterschieden von dem, der aus dem Grunde ist; Gott aber, als Grund und aus dem Grunde, ist derselbige und somit Grund und Wesen vollkommen eins. Als Grund seiner selbst ist Gott zugleich Wirkung und Ursach seiner selbst, hiemit aber ebenso sehr begründet, als grundlos.
+
+Diese Begriffe heben sich nothwendig auf in dem Begriff [p. 81] der Freiheit.
+
+Frei aus sich selber seyend wird Gott begriffen als hervorgehend aus sich, sich mittheilend und offens barend, zwar aus sich hervor. aber darum doch nicht aus sich herausgehend oder 'irgend deshalb weniger in sich selbst. Gott wird hiemit erkannt als der Ewige; die Ewigkeit aber ist die Zeit in der Negation aller Unterschiede ihrer Dimensionen oder die unendliche, absolute Gegenwart. 102, 25. ff.
+
+Jef. 44, 6.
+
+Hebr. 1, 11. 12.
+
+§.
+
+Pf.
+
+Jac. 1, 17.
+
+136.
+
+In seinem In- und Aussichselberseyn ist Gott der für sich Seyende.
+
+Dieser Begriff fügt nichts wesentlich anderes hinzu zu jenen beiden und ist nur als die Einheit beider von dem einen und andern unterschieden, aber der Unterschied aufgehoben.
+
+Das Fürsichseyn Gottes ist das gehaltvolle, mit dem In- und Aussichselberseyn oder mit dem Unterschiede identische göttliche Wesen.
+
+Hierin ist Gott, als Geist, die Negation der Materie, wie des Menschen, der nicht der Geist, sondern ein Geist, das Vernunftwesen ist, welches zugleich sich als Sinnen- und Verstandeswesen, und hiemit in seiner Endlichkeit weiß.
+
+Gott ist der ewig ſubstanzielle Geist, die Substanz als Seyn, welches nicht das Denken außer ihm hat, sondern selber ist; das Denken, welches die Substanz, das Seyn nicht außer ihr hat, sondern selber ist. ſame.
+
+Als solches ist Gott der Selige, der Allgenug-
+
+In der göttlichen Allgenugsamkeit hat die göttliche
+
+Subſtanzialität und Aeternität ihre Wahrheit. Apſtgſch. 17, 25. 1. Tim. 1, 11. 6, 15 und 16.
+
+##### §. 137.
+
+Nach dem Begriffe des Wesens Gottes bestimmt sich nun auch der Begriff der Religion, sowohl ſubjectiv, als objectiv. Alle Religion ist nur so wahr, als Gott in ihr wahrhaft erkannt wird; wahrhaft erkannt aber wird er nur, F [p. 82] wenn die Form der Erkenntniß dem wahren Wesen Gottes entspricht, Wahrheit hat sie allein durch den wahren Begriff der Idee des göttlichen Wesens.
+
+Wie also das Weź sen Gottes gedacht ist, danach bestimmt sich denn auch das Wesen der Religion.
+
+Das Unwesen aller gröbern oder feinern Superstition ist die Denkart, nach welcher Gott nicht in Gott, ſondern außer Gott erblickt wird.
+
+Alle Gottlosigkeit wird nur so des wahren Gottes los, daß sie sein göttlich Wesen überträgt auf das, was nicht Gott ist.
+
+Nur aber in der Religion hat der ſubjective Geist sein Leben; außer ihr lebend, welches absolut unmöglich, würde er ein unwahres, bloß zeitliches, in beiden aber ein unſeliges Leben führen: in und mit der wahren Religion gelangt er zum wahren, ewigen und seligen Leben.
+
+##### §. 138.
+
+Nur in dem Maaß, als der Geist kraft der wahren Religion sich in der lebendigen Communication erhält mit dem wahren Prinzip des Lebens, hat er daran zugleich das Prinzip des wahren Lebens.
+
+Es ist daher der erste Schritt zur wahren Religion, daß er von sich selbst loslasse und dem göttlichen Geist gelassen sey.
+
+Die Religion hebt ihn nothwendig über sich selbst und bringt ihn in diesem wirklichen Verhältniß zu Gott dann weiter ins wahre. die Nichtigkeit aller räumlichen und Erft endlichen Dinge und seiner selbst außer Gott erkennend, beginnt die Religion in ihrer Wahrheit oder die wahre Religion in ihm aufzugehn, sieht er sich in das wahre Licht und Leben gehoben und der Finsterniß dieser Welt entnommen.
+
+Diese ist ohne das Licht der Religion völlig dunkel, ja die Finsterniß selbst. Joh. 1, 5. Je mehr daher der Geist sich mit ihr identificirt, macht sie ihn selbst finster und löschet alle Lichter des Lebens in ihm aus.
+
+Mit jedem Streben nach demjenigen, was doch nicht
+
+Gott ist, büßet die vernünftige Seele sich selber ein. Matth.
+
+[p. 83] 16, 26. Die wahre Religion befreiet den Menschen von allem Niedern und von ihm selbst, von dem Festhalten an der Ichheit und Subjectivität, verhilft ihm zum Leben in Gott, als der Wahrheit und hiemit zum wahren Leben. Joh. 8, 47.
+
+1. Cor. 2, 7. 8.
+
+§.
+
+Cap. 3, 18. 19.
+
+139.
+
+Die Religion ist ferner als Prinzip zugleich Centrum und Erfüllung des in der Zeit expandirten Lebens mit dem ewigen.
+
+Die formale Existenz in Zeit und Raum und alles bloß zeitlichen Lebens ermangelt der innern Lebensfülle. an und für sich gänzlich.
+
+Daher kann das Zeitliche an und für sich den Geist, der sich ihm hingiebt, nicht wahrhaft und innerlich nähren. Die Zeitwelt füllet ihn nur mit ihrer eignen Leerheit, und läßt ihn gesättigt mit den zeitlichen und irdischen Dingen mitten Ueberfluß darben.
+
+in solchem Reichthum? und
+
+Die Religion erweitert das besondere
+
+Leben zum allgemeinen und erfüllet es mit sich und dem ewigen Leben, indem sie sowohl die Zeit in ihr nichts auflöset, als auch den Geiſt darüber hinaushebt. 2. Cor. 4, 4. 21. Matth. 6, 19
+
+##### §. 140.
+
+Die Religion ist, wie Gott selbst, für sich und sich selbst genug, bedarf eben deshalb keines andern und ist rein allein um ihrer selbst willen.
+
+Sie ist, wie Gott, unbrauchbar, kann zu nichts dienen, ſondern alles ist nur um ihretwillen und soll ihr dienen.
+
+Der Mensch kann ihr daher auch keine
+
+Ehre erweisen, selbst mit seiner größesten Macht, sondern ſie vielmehr macht ihn, in ſie aufgenommen, erst aller Ehre werth und theilt ihm ihre innere Macht und Seligkeit mit. Die Religion ist wesentlich Erhebung in eine höhere Region oder Aufnahme der menschlichen Natur in die göttliche und derselben Seligkeit.
+
+Es ist auf allen Stufen des Das
+
+F2 [p. 84] seyns jeder niedern Natur Bedürfniß, sich in einer höheren gehalten zu befinden, in ihr zu ruhen und aufgehoben zu ſeyn, und eben daher das Reducirtseyn der Seele auf sich, ihre Selbstheit und Ichheit, die eine Exclusion nach der Seite des göttlichen Lebens ist, der Anfangspunct ihrer Unseligkeit, ihres Falls und Untergangs.
+
+Wie aller Tod nur außer dem wahren und einzigen Seyn, alles Elend nur im Zeitlichen und Irdischen ist, sofern es für das Wahre `und Ewige genommen wird, so ist hingegen das wahre und ewige Leben an und für sich und nothwendig zugleich ein ſeliges.
+
+Col. 3, 3. 4.
+
+Apftg. 4, 12.
+
+##### §. 141.
+
+Es bewegt sich aber der objective Geist in seiner Geschichte und Religion über verschiedene Stufen, die als die des Aberglaubens, des Glaubens und' Wiſſens zu unterscheiden sind. Auch im Aberglauben ist der Glaube, nur in der Verschrobenheit und Verrenkung aller seiner Glieder (Artikel).
+
+Es weiß das Ich oder Volk sich in seiner End, lichkeit und Vergänglichkeit, wie das Daseyn der Opfer beDamit ist es in seinem menschlichen Wesen gehalten in und von dem göttlichen, als der unendlichen Macht- über zeugt.
+
+ihm.
+
+Aber diese Religion ist zugleich die Versenktheit der Idee des absoluten Geistes in die Endlichkeit und zwar zu`nächſt in die äußerliche Realität der materiellen Natur, in welcher der Fetisch erscheint und in die concrete Idealität des Geistes, in der Gott als das Ideal der Kunst erscheint. Apftg. 17, 29.
+
+Es ist die Religion des Traumes und der
+
+Ahndung, in welcher das göttliche Wesen mit dem sinnlich und geistig gegenwärtigen noch unmittelbar eins und darin verborgen ist.
+
+Aber der Einzelne, wie das Volk hat sein
+
+Daseyn und Leben, wie alle Wahrheit, in dieser seiner Religion.
+
+[p. 85] §.
+
+142.
+
+Der Aberglaube hat am Selbstbewußtſeyn ſeinen Grund und eben daran geht er zu Grunde in der Reflexion, als der andern Seite des im Selbstbewußtseyn enthaltenen Gegenſages.
+
+Mit dieser seiner Reflexion, welche zugleich Skepsis ist und Kritik, setzt sich das Ich, die Subjectivität, dem öffentlichen Volksleben und der objectiven Religion entgegen, und die ſelbſtgeſchaffenen Götter fangen an, lächerlich zu erſcheinen und alle Ehrfurcht zu verlieren. Solch einen Gott kann das Ich selbst vorstellen und es macht sich dazu, wie in den leßten Zeiten des römischen Kaiserthums geschah.
+
+Der Untergang des Aberglaubens aber ist der Aufgang des Glaubens und der offenbaren Religion.
+
+##### §. 143.
+
+Nach der Seite des heidnischen Gößendienstes kehrt sich der wahre Glaube zunächst in seiner Abstraction heraus, als der reine Gedanke Gottes, als die Negation alles Materiellen, Bildlichen und Aeußerlichen.
+
+Die einzige Erscheinung Gottes ist das abstracte Geſetz; wer ihn selbst sähe, müßte vergehen. Die Wahrheit der Religion auf dieſer Stufe und des Volkes, welches mit ihr eins ist, ist der Vorzug, den Ein Volk darin hat vor allen andern Völkern/ das erwählte Volk und gleichsam das horchende Ohr der göttlichen Offenbarung zu seyn.
+
+Aber dieser Vorzug, dieſe
+
+Wahrheit ist zugleich ſeine Unwahrheit und ſein Untergang, indem, wie auf der Stufe des Aberglaubens das Ich sich dem öffentlichen Glauben, so hier Ein Volk sich allen anDas einzig dern Völkern, der Menschheit, entgegensetzt. welthistorische und universale Volk sezzet sich dadurch zum particularen herab und ſein Particularismus iſt ſein Untergang, dieser aber der Aufgang der wahren und erst vollkommen offenbaren Religion, ſucht und Weiſſagung ist.
+
+die in jener nur als Schn-
+
+[p. 86] Vom Wesen Gottes. abiclute
+
+##### §. 144.
+
+rwah Die Unwahrheit Gottes auf diesen Stufen ist das unjenem wahre Denken, dieses aber ein solches, dem kein Seyn ent spricht.
+
+Die beiden untersten Stufen der Religion ſind die, auf denen Gott, als das Wesen, das Denken nur außer sich hat, entweder ein Wesen, dem das Denken fremd ist oder ein Wesen, welches nur gedacht wird.
+
+Es ist im eis gentlichsten Sinne die Natur der Götter des Heidenthums, daß sie das Denken absolut außer sich und als Fatum über sich haben;
+
+es ist die abstracte Vorstellung Gottes im Judenthum, daß er nur gedacht, ein Gedankenwesen, der höchste Gedanke ist.
+
+Wie ihn denn auch M. Mendelssohn, hierin ein ganzer Jude, nicht anders faſſet, in seinem ontologischen Beweise.
+
+Und auf demselbigen Standpuncte außerhalb des Christenthums und noch im Judenthum steht der abstracte Spinozische Pantheismus, nach welchem Gott die Substanz, welche das Denken an ihr hat, die nicht thatoffe Minbar hrnicht tom des
+
+Denkendes, sondern deren Attribut nur das Denken ist.
+
+i in d
+
+##### §. 145.
+
+Das Wesen Gottes, im Moſaismus noch im abstracten Jenseits erkannt, wird zum Dieffeits im Christenthum, hiedurch aber zugleich zur höchsten Verklärung der Mensch-
+
+Di heit. Der Geist, das allgemeine Bewußtseyn der Menschheit in der Einheit mit dem absoluten Geist, ist der Geist
+
+Ge dr n
+
+Jesu Christi.
+
+In ihm hat Gott sich menschlich ſubſtanziirt und die Wesenheit Gottes giebt auch der Menschheit erst Col. 3, 4. Die Religion, als vollkommene Wesenheit. chriftliche, ist die Wahrheit an sich, die abſolute Wahrheit und hiemit die Wahrheit der israelitischen und mittelft dieser die Wahrheit der heidnischen.
+
+Joh. 14, 5. 6.
+
+Hebr.
+
+1 10, 20.
+
+In der christlichen Religion iſt das göttliche Wesen so erkannt, wie es sich selbst erkennt. Der Geist der wahren, offenbaren Religion ist in Jesu Christo als das
+
+Babr6
+
+Fen, if nimli
+
+Borfo in ih [p. 87] abſolute Wiſſen, in allen andern, die an ihn glauben, als der wahre Glaube: dieser aber hat seinen wahren Inhalt an jenem und ist in der Wissenschaft das begreifende Wiſſen.
+
+Seyn
+
+##### §. 146.
+
+Das Seyn, vorerst als an sich gedacht, ist nicht sich selbst offenbar als Seyn, sondern als Wesen: dieſes ist die Offenbarung des Seyns.
+
+Das Wesen aber wird sich offenbar nicht an sich, ſondern als Begriff: in ihm, der Negation des Wesens, ist es aufgehoben.
+
+Wie aber das Seyn im Wesen, das Wesen im Begriff, so erreicht der Begriff ſich in der Idee: in ihr erst hat das Seyn sich vollkommen erreicht.
+
+##### §. 147.
+
+Die Lehre vom Seyn Gottes ist nichts anders, als die von der Offenbarung seiner selbst in der Idee von ihm oder der Gewißheit, daß er nicht nur in sich selbst, sondern auch aus sich sey, die Bestimmtheit und Wirklichkeit oder die Realität der Idee.
+
+Indem nun die Wiſſenſchaft sich eins läßt auf die Lehre von der Existenz Gottes, geht sie auf die Wahrheit der Vorstellung aus, welche sagt: Gott ist; welche Vorstellung aber, als das bloß unmittelbare Denken, ihre Wahrheit ganz anderswo hat, als in sich selbst, nämlich in dem vermittelnden Denken, welches die beiden Vorstellungen:
+
+Gott und Seyn mittelst des Unterſchiedes in ihrer Identität begreift.
+
+Auf eine andere Weise also, als [p. 88] in der Vorstellung, ist im Begriff der Wissenschaft diese Wahrheit die gewiſſe, nämlich als die gewußte.
+
+##### §. 148.
+
+Das Seyn in seiner reinen Unmittelbarkeit ist ebenso sehr das Nichtseyn; Wesen.
+
+es hat seine Wahrheit erst in dem Bleibt daher das abstracte Denken auf das Seyn an und für sich beschränkt, so ist damit, daß es von Gott das Seyn aussagt, soviel wie Nichts gesagt. Aber auch das Wesen, aus welchem das Seyn herkommt, hat seine Wahrheit nicht ' in sich selbst, sondern im Begriff und der Ausdruck: Gott ist das Wesen, ist nur die reine Reflexion Die Wahrheit in sich und die abstracte Unmittelbarkeit. aber des Wesens, wie des Seyns, ist die Idee. In der Lehre nun vom Daseyn Gottes bestimmt sich die Idee des göttlichen Wesens als Begriff und Inbegriff aller wahrhaftigen Wirklichkeit.
+
+§. 149. Es ist das Denken des Wesens Gottes, welches sich als das Seyn Gottes bestimmt: denn das Wesen Gottes, als des Objects dieses Denkens ist ebenso sehr Subject oder Denken und als solches das Seyn des göttlichen Geistes selbst, in der Einheit mit dem menschlichen.
+
+Es ist dem nach Gott, welcher in diesem Denken sich die. Bestimmung des Seyns selber giebt. Daher denn auch nur der Begriff vom Wesen Gottes sich zum Begriff des Daseyns Gottes fortbewegt und Niemand nach dem Daseyn Gottes fragen kann, als einzig in der Idee des Wesens, nach dessen Da In der Frömmigkeit oder dem Glauben ist diese Vorstellung von Gott, dem Seyenden, ohne noch beseyn er fragt.
+
+sonders danach zu fragen, als einem Ungewiſſen, ſchon in der Idee des Wesens selber wesentlich, obgleich nur unmittelbar, mitenthalten und ebenso unmittelbar gewiß und unbezweifelt.
+
+Pf. 14, 2.
+
+Seyn
+
+##### §. 150.
+
+Das Wissen aber von Gottes Daseyn ist kein so unmittelbares, ſondern ein vermitteltes.
+
+Es hebt im Zweifel an und läßt ihn in sich zu; denn nur der im Glauben zur Reflexion gekommene wirft sich die Frage auf: sey, und hiemit steht er im Zweifel.
+
+ob Gott
+
+Dieser ist das zwis schen dem Glauben und Wissen in der Mitte schwebende und als der nothwendige Durchgang vom Glauben zum Wissen ehrenwerth und unverwerflich.
+
+In dieser negativvernünftigen, dialectischen Schwebe beharrend ist er selbst nicht nur ohne alle Wahrheit, sondern auch Sünde. solchen Zweifel reimt nur der Teufel. führet zum Atheismus und Auf
+
+Dieser Skepticismus der Verstand gehorcht darin nur dem Willen; der practische Atheist nur wird zum theoretischen, und der eine wie der andere ist nicht blos ein
+
+Läugner, sondern ein Lügner.
+
+Der Atheist hat sein größtes
+
+Intereſſe dabei, daß es beim Zweifel bleibe und nicht zum Wiſſen komme von Gottes Existenz; lügend läugnet er selbst die Möglichkeit eines solchen Wiſſens, und nicht ohne Urſache: denn nur als der Unwissende kann er der Atheist ſeyn, nicht als der Wiſſende. §.
+
+Ps. 14, 1. 151.
+
+Wo es zu der Frage kommt, ob Gott sey, ist also die Idee noch ebenso sehr ohne den Begriff, als nicht ohne den Zweifel. Kommt es nun in der Wiſſenſchaft zum Begriff, so hebt darin die Vermittelung an und dieses durch den Begriff vermitteln ist das Beweisen; der Beweis ſomit von dem Begriff an und für sich nicht verschieden, die Vernunft desselben Möglichkeit, das Wissen der Vernunft aber die Wirklichkeit desselben.
+
+Es bewegt sich aber die Idee von
+
+Gott in dem Bewußtseyn zunächst zur Vorstellung der Möglichkeit seiner Existenz. nur eine Voraussetzung.
+
+Dieser Vorstellung ist der Begriff Er selbst giebt sich darin noch [p. 90] keine nähere Bestimmung, auch nicht die der wahrhaftigen Existenz des Wesens, sondern es bleibt bei der Annahme und dem abstracten Denken oder der bloßen Denkbarkeit. Es ist damit noch nichts weiter ausgesagt, als die negative Bestimmung, daß dem Seyn Gottes nichts im Wege stehe: so aber steht ihm in der That noch eben dieses Nichts oder Nichtseyn entgegen.
+
+Die bloße Möglichkeit der Existenz
+
+Gottes ist ebenso sehr die Unmöglichkeit eines wahren Beweiſes der Existenz, und für die theoretische Erkenntniß und den Begriff ist die Kantische Philosophie auf diesem Puncte stehen geblieben, und steht darin tief unter dem ontologiſchen Beweise in der frühern Philoſophie.
+
+##### §. 152.
+
+Weiter schreitet das Denken fort in der Vernunft, indem es zur Anerkenntniß der Nothwendigkeit des göttlichen Wesens kommt.
+
+Der Begriff des Wesens Gottes bestimmt sich zu den Begriff des höchsten Wesens und die Existenz des Unendlichen ist nun wenigstens ebenso gewiß, als die des Endlichen, über welches hinaus Gott zu den ken ist, als das höchste. Ohne dieses würde auch jenes nicht seyn, und der Begriff der Welt, ihrer Schöpfung, Erhaltung u. f. f. gar keine Realität haben.
+
+Hiebei aber kann das Bewußtseyn zugleich sich nicht verhehlen, daß diese Nothwendigkeit nur dem Bewußtseyn angehört, nur die Nothwendigkeit des Gedankens der Existenz Gottes_ist, aus welchem blos fubjectiven Gedanken die Wahrheit und Gewißheit seines Inhalts oder die Realität noch gar nicht folgt. Es ist das Seyn dem Begriff selbst noch fremd und in denselben hineingelegt, um es hernach aus demselben herauszuklauben.
+
+Es ist in der That nur der Mensch, welcher der Gottheit die Existenz verleiht.
+
+##### §. 153.
+
+In diesem bloß ſubjectiven Wiſſen der Nothwendigkeit des Begriffs ist keine Gewißheit der Wahrheit; es enthält nicht die Nothwendigkeit des sich zu seiner Existenz nothwendig selbst bestimmenden Wesens Gottes, kein objectives, absolutes Wissen.
+
+Noch wird der Begriff des Wesens Gottes als etwas anderes gedacht, denn als Gottes Realität, von jenem auf diese geschlossen.
+
+Das Seyn Gottes also ist selbst noch etwas anders, als deffen Bestimmtheit selber oder das Wissen.
+
+Es ist aber Gott selbst nur als Wifſen, in diesem Wiſſen und als solches weiß er von sich, und eben dieſes Wiſſen ist seine Existenz.
+
+Das Wissen aber ist der Begriff: doch nicht, weil der Begriff iſt, iſt Gott, sondern weil Gott ist, so auch der Begriff. Von dem Seyn und der Realität des Begriffs also muß ausgegangen werden in dem Beweise, der Inhalt des Beweises selbst ist seine Form, und diese hat die Identität des Begriffs und der Realität, das mit der Wahrheit identische Wiſſen zu ihrem Inhalt.
+
+##### §. 154.
+
+Dies einzig wahre und alle anderen Argumente für die Existenz Gottes erst wahr machende Argument wird mit Recht das theologische genannt und nur die andere, äußerliche und geschichtliche Seite dieses Beweises ist das Argument, von der Uebereinstimmung der Völker im Glauben an Gottes Daseyn (a consensu gentium) hergenommen.
+
+Was jenes speculativ enthält, entwickelt dieses nur empirisch oder hiſtoriſch, und weiſet die innere Nothwendigkeit nur als äußere Allgemeinheit, als die Idee im Leben des gesammten Menschengeschlechts nach.
+
+Wie jenes, um sich äußerlich auch zu vollenden, in dieſes übergehen muß, so hat dieses in der Einheit mit jenem auch seine hohe Kraft und Gültigkeit; von dieser seiner innern oder [p. 92] speculativen Seite abgelöſet iſt es die falsche Meinung, der Erfahrung, als solcher, verdanke der Mensch, was er in ihr nur Gott verdankt.
+
+##### §. 155.
+
+In der Einheit des menschlichen Geistes als Vernunft mit der göttlichen Idee vom Wesen Gottes in der Vermittelung derselben durch den Begriff, verbürgt und beweiset sich demnach selbst das Daseyn Gottes auf eine Weise, welche alle anderen sogenannten Beweise nur zu einzelnen nothwendigen Momenten derselben macht, von denen aber keiner in sich selbständig, sondern jeder nur als abstracte Verstandesbestimmung seine Wahrheit nur in jener Einheit hat, welche, als der complexe Begriff vom Daseyn Gottes alle jene besonderen Bestimmungen nur an ihm hat, und sie erst wahr machen muß. Es hat daher die Wahrheit an ihnen eben soviele Stufen über die sie nothwendig geht,. doch mehr nur geahndet, als erkannt.
+
+§.
+
+1. Cor. 3, 16.
+
+156.
+
+Die verschiedenen Reflexionsargumente für das Daseyn welche fäämmtlich vom unmittelbaren Bewußtſeyn ausgehen und somit noch mit dem Gegensaße behaftet ſind, Gottes, haben sich von jeher vornämlich nach drei Seiten hin entwickelt und sich theils auf die Welt und das Univerſum, theils auf den Geist und die Intelligenz, theils auf den Willen und die Moralität oder auf das Physische, Mes In allen drei taphysische und Practische bezogen. Richtungen hat sich die Vernunft von einer andern Seite entwickelt, theils als finnlicher, theils als theoretischer, theils als practiſcher Verstand. Nur in allen pantheiſtiſchen Systemen, in welchen das Wesen und Seyn Gottes nicht aus der concreten Unmittelbarkeit herausgeht, und abstract nur als die Substanz bestimmt ist, wird die wiſſenſchaftliche
+
+[p. 93] Frage nach Argumenten für Gottes Existenz schlechthin abgewiesen.
+
+Die Wissenschaft der Wahrheit aber kann es bei jener starren Unmittelbarkeit nicht bewenden lassen, sondern in ihr muß das vernünftige Wissen sich auch diese Wahrheit durch den Begriff vermitteln, d. h. sie beweisen.
+
+##### §. 157.
+
+Unter den Argumenten der erstern Art tritt das kosmologische zuerst hervor, welches a contingentia mundi auf eine nothwendige Ursache der Welt schließt. In dem Begriff der Zufälligkeit und Nothwendigkeit, der Ursach und Wirkung hat dieses Argument ſeine Berechtigung. Allein ohne die Idee des göttlichen Wesens, welche in der Vernunft sich wirksam erweiset, würde weder der sinnliche Verstand oder die sinnliche Wahrnehmung, noch der vom Sinnlichen und Endlichen abftrahirende, und auf das Nichtsinnliche und Unendliche ſchließende Verstand solcher Erfahrung, geschweige der überfinnlichen Gewißheit der Existenz Gottes fähig seyn.
+
+Nicht die einzelnen zufälligen
+
+Dinge in der Welt führen auf diese Wahrheit, ſondern umgekehrt, Gottes uns bewußt in der Vernunft sehen wir, daß alles außer ihm bedingt und zufällig sey. 1. Joh. 2, 17.
+
+##### §. 158.
+
+Auf den kosmologiſchen Beweis stüßt sich der physikotheologische, welcher Ordnung, Schönheit und Harmonie wahrnimmt an der Welt und Natur, den Geist in der Schöpfung, die Form an der Materie aufsucht.
+
+Die Wahrheit dieses Arguments ist aber nicht der Schluß an sich, ſondern die Idee Gottes im Geiſte.
+
+Das Ansichſeyn ist das
+
+Abstracte an der Natur, die existirende Wirklichkeit derselben aber hat keine Wahrheit, sondern hat diese ihre Wahrheit allein im Geiste. Die Natur ist der stumm gewordene Geist und aus jedem verſtändigen Wort ist Gott besser zu erkennen und mehr zu bewundern, als aus ihr.
+
+Den Geist in der Natur findet nur der Geist in uns; die Form und das Gesetz, worauf dies- Argument eingeht, ist nicht Naturstoff selber wieder, sondern zunächst des Geistes. Er kann durch alle Ordnung, Pracht und Größe der Natur erinnert, aber doch nur erinnert werden an Gott, und ihn findet der Mensch in der Natur, weil er ihn zuvor in seinem Bewußtseyn gefunden: so wird denn auch Welt und Natur reich an Zeugniſſen und Spuren göttlicher Macht Matth. 6, 26. Apstgsch. 14, 15. 17, 24.
+
+§.
+
+und Größe.
+
+159.
+
+Im teleologischen Argument ſchreitet die Beweisart fort zum Begriff, als Zweck.
+
+Es geht auf die weisen
+
+Zwecke und Absichten Gottes aus in der Welt, und hat seine Wahrheit nicht darin, daß es durch die kleinlichen, höchft des schränkten und endlichen Zwecke, die es Gott unterlegt und durch ebenso kleinlichen Nußen, den es aufzeigt, ins Leere und Spielende verfällt, sondern darin, daß es eine, nur von der unrechten Seite her Vernunftidee ist.
+
+eintretende Wiederhohlung einer
+
+Die Zweckmäßigkeit, als eine äußere gedacht und dem Begriff gegenüber, ist nur eine endliche, und gehört dem ebenso ganz äußerlichen Verstande an.
+
+Darin ist der Begriff, als Naturzweck, noch außer sich selbst, und er als Natur, ein anderes, als er selbst.
+
+##### §. 160.
+
+Die innere Zweckmäßigkeit der Welt hingegen ist nur vom Begriff aus zu finden, in ihm ist der Zweck realisirt und deſſelben Endlichkeit aufgehoben. Gottes Idee und Absicht in der Welt und Natur zu finden, dazu gehört schon ein stark entwickeltes, und von der Idee geleitetes Bewußt seyn Gottes.
+
+Jef. 55, 8. 9. Rom. 11, 33.
+
+Auf die bloße
+
+Erfahrung sich stüßend stehen ihm andere, entgegengesetzte
+
+[p. 95] Erfahrungen gegenüber, die an sich keinesweges geeignet sind, den Glauben an Gottes Daseyn hervorzubringen und zu befestigen. a Hingegen in der Fassung des Begriffes der Welt, als absoluten Zwecks, welcher selbst kein anderer, als die Offenbarung und Verherrlichung Gottes ist, hat dieses Argument ſeine Wahrheit und Kraft.
+
+§.
+
+Apoc. 15, 3.
+
+161.
+
+Das metaphysische Argument ist das ontologische.
+
+Es hängt mit der ganzen Geschichte der Philo.
+
+sophie zusammen und hatte, auf mehr als eine Weise behandelt, bis auf die Kantische Philosophie das meiſte Gewicht. Es sucht von dem Gedachten den Uebergang zu finden zu dem Seyenden.
+
+Es geht von der Vorstellung des allervollkommenſten Wesens aus und sieht die Existenz als eine vollkommene Eigenschaft desselben an. Es bejaht von dem nothwendigen Wesen alle Realitäten, als nothwendig, unter denen die Existenz nicht ohne Widerspruch wegzudenken ist.
+
+Es muß daher von der Vorstellung des Unendlichen und Vollkommenen die Existenz unzertrennlich seyn, die Nichtexistenz würde uns auch um die Vorstellung von dem allervollkommensten Wesen bringen.
+
+##### §. 162.
+
+• In dieser auf dem Ich, als der Form der Reflexion des Verstandes ruhenden Argumentation wird das Seyn zu einer bloßen Eigenschaft, zu einem Prädicat und Complement der Vollkommenheit herabgesetzt. Durch das Vorstellen eines Gegenstandes ist zunächst nur die Möglichkeit ges ſetzt, und entsteht noch keine Nothwendigkeit des Seyns, sondern höchstens eines nothwendigen Gedachtseyns. Ueber die Wahrheit und Wirklichkeit ist damit noch nichts be stimmt, da auch unwahres und Unwirkliches gedacht wer den kann.
+
+Alle Reflexionssysteme kommen über den Gegens [p. 96] ſatz des Denkens und Seyns nicht hinaus.
+
+Die Idee Gottes aber, des Seyenden, ist nicht durch die Vorstellung in uns, ſondern weil sie in uns ist, kommt es damit auch zur Vorstellung; sie hat alſo ihre Realität ganz anderswo, als in der bloßen Vorstellung.
+
+##### §. 163.
+
+In dieser Form des Beweises ist zwar Verstand, aber keine Vernunft, somit nur der abstracte, endliche Verſtand thätig, welcher eine Idee, wie die des allervollkommensten Wesens, welche er selbst nur der Vernunft verdankt, aus dem bloßen Vorstellen der Idee zu haben meint, und nachdem ihm bereits diese Idee Gottes zugekommen, doch erst noch nach der Existenz Gottes fragt.
+
+Durch die Form des
+
+Schlusses wird an sich stets nur der Begriff erreicht als ein Denken, aber nicht auch das Daseyn und die Wirklichkeit. Bleibt daher das objectiv zu faſſende' Seyn Gottes im ſubjectiven Denken stehen, so erlischt alles Beweisende in dem Satz.
+
+Dies ist das Falsche und Verkehrte daran.
+
+Es soll, nach M. Mendelssohn, keine Anmaaßung seyn von dem Erdensohn, wenn er von seiner Endlichkeit auf das Daſeyn des Unendlichen, von seiner Eingeschränktheit auf die Wirklichkeit des Allervollkommenſten ſchließt.
+
+In der That aber kann das endliche Denken das unendliche Seyn nicht wahr machen.
+
+##### §. 164.
+
+Die wahre Kraft dieses Beweises liegt in der Vernunft, als einem göttlichen Denken. Begriffen in und von der Idee Gottes und somit seyend in Gott, vermag sie Gott auch zu denken und ihn als den Seyenden zu erkennen. Ihn denkend nicht mit ihrer endlichen, sondern unendlichen Kraft ist ihr auch sein Seyn wahr und gewiß. Somit be weiset er sich und sein Daseyn nur in ihrem Denken, als Allerdings also ist, daß der Mensch Gott denken kann,
+
+Wissen.
+
+[p. 97] kann, ein Beweis, daß Gott ist, und dieſes iſt die wahre Seite des ontologischen Arguments; nur, daß dieses Denken des feyenden Gottes selber nicht ein eitles und endliches, ſondern ein wesentlich göttliches ist: also weil Gott kraft seines Geistes ist und wirkt in der Vernunft, so kann sie nicht umhin, ſein Daseyn zu erkennen und zu bekennen.
+
+##### §. 165.
+
+Die practischen Argumente beziehen sich auf das sinnliche, geistige und ſittliche Gefühl, und ſind nur abstracte Bestimmungen daran. In die erste Reihe gehören die argumenta ab utili und a tuto, denen das Verlangen nach Glückseligkeit zu Grunde liegt.
+
+Sie sind, als Argumente, ganz äußerlicher Art, Gottes und des Menschen gleich unwerth: denn sie wollen es selbst nur zur Vorausſeßung eines Gottes bringen, von dem nichts näheres zu wißsen ist, und brauchen nur einer Gott oder Gößen, möchten aber an und für sich auch gern ohne ihn fertig werden. Aehnlicher Art ist das zweite, auf den natürlichen Schauder des Geistes vor der Vernichtung gegründete Argument. Darin vergeistiget sich nur das sinnliche Gefühl und Verlangen nach Glückseligkeit, um dessetwillen das Daseyn Gottes nur angenommen, eine Annahme (angenehm) iſt, aber keinesweges als wahr und gewiß, oder in sich selbst nothwendig gewußt wird.
+
+##### §. 166.
+
+Die dritte Gestalt des practiſchen Arguments iſt die, welche das unmittelbare sittliche Gefühl und Gewiſſen, das Bewußtseyn der Freiheit und des Sittengesetzes zum Inhalte hat.
+
+Zunächst wird schon das Daseyn desselben im Menschen zum Grunde des Daseyns Gottes gemacht.
+
+diesem Argument erneuert sich wesentlich nur die Schwierigkeit des ontologischen Arguments, indem doch nur aus dem [p. 98] abstracten Denken des vollkommensten oder höchsten Guten das Seyn desselben erst folgen soll.
+
+Diese Schwierigkeit suchte Fichte zu heben dadurch, daß er Gott und die moralische Weltordnung identificirte.
+
+Das Argument entwikkelt sich aber umgekehrt ganz richtig.
+
+Es ist der Glaube an Go:tes Daseyn, der sich im Glauben an das Sittengesetz oder in dem Gewissen beweiset, als Gottes Stimme. Hebr. 11, 6.
+
+1. Theff. 4, 6.
+
+##### §. 167.
+
+Vornämlich aber wurde in der Kantischen Philosophie der Glaube an das Daseyn Gottes gedacht als Postulat der practiſchen Vernunft. Diese Philosophie war, als Kritik, wohl im Stande, die Schwächen aller andern Beweise aufzuzeigen, aber nicht auch das Wahre daran nachzuweisen, weil ihr selbst die Wahrheit fremd und verborgen war. Sie läugnete, daß ein Beweis für die Existenz Gottes a priori möglich sey, was nur auf ihrem untergeordneten Standpuncte richtig ist. Was die Philoſophie, als theoretiſche nicht vermochte, sollte sie als practiſche leisten.
+
+Tugend hat einen innern Anspruch auf die ihr entsprechende Glückseligkeit; da diese aber in diesem Leben nicht immer und nothwendig erfolgt, vielmehr das Verhältniß sich oft umkehrt, der Tugendhafte, wie der Lasterhafte der Naturnothwendigkeit unterworfen ist, so muß, damit die nöthige Harmonie zwischen Würdigkeit und Glückseligkeit herauskomme, nicht nur ein anderes Leben, sondern auch ein Gott seyn, wodurch beide ausgeglichen werden.
+
+##### §. 168.
+
+Dies Argument verläugnet seinen Ursprung aus dem abstracten Verstande nicht: es trennet zuerst ganz unbefugt Tugend und Glückseligkeit und sucht ganz äußerlich in einem Dritten, in Gott, das Band zwischen beiden.
+
+Beide [p. 99] bestehen also zunächst durch ſich und ohne Gott, die Tugend in der Autonomie oder im Jch, die Glückseligkeit in der Naturnothwendigkeit. Auf das Cauſalitätsgesetz, alſo auf eine Kraft des endlichen Denkens, ist dieses Argument gebaut. Die darin vorausgesetzte Disharmonie zwischen Tugend und Glückseligkeit hat gar keine Nothwendigkeit, ſondern ſtüzt ſich nur auf die empirische Wahrnehmung eines häufigen und zufälligen Mißverhältnisses.
+
+Darauf soll unser Glaube an
+
+Gottes Daseyn beruhen. Der in diesem System ſtreng verworfene Eudamonismus tritt ganz lohnsüchtig und pharisäisch darin wieder auf; zur Beschwichtigung der Sinnlich keit wird hier an das Daseyn Gottes geglaubt.
+
+##### §. 169.
+
+Die Kantische Lehre widerspricht dem Christenthum, indem sie den Glauben an Gott, nicht um seines eigenen Inhalts willen, sondern um eines andern willen, als welches hier das Gesetz und die Freiheit, die Natur und Sinns lichkeit gesetzt sind, nothwendig macht und an die Stelle des Dogma ein Postulat seßt, welches nicht, wie jenes, ein nothwendiges Wiſſen ist, dieses vielmehr ausdrücklich von ſich ausschließt. Das theoretische, für unzureichend ausgegebene Wissen, ist ebendasselbe auch im practiſchen, und dieses hat für die Vernunft, wie ihr Unterschied in theoretische und practische, in der That gar keinen Werth, weil es nur ein hypothetiſches ist und bleibt, und somit zur leeren Meinung und Annahme herabſinkt, als solche aber keinen vernünftigen Glauben begründen kann.
+
+##### §. 170.
+
+Gleichwie die Frage nach dem Wesen und Inhalte der Religion eins ist mit der, ob das wahre Wesen Gottes erkannt worden, so ist auch die Frage: wie kommt der Mensch zum Glauben an Gottes Daseyn, eins mit der & 2
+
+[p. 100] Frage nach dem Ursprung aller Religion.
+
+Sie hat aber allein an der Erkenntniß des ewigen Daseyns Gottes das Prinzip ihres beständigen Daseyns.
+
+Die äußerliche Betrachtung hält sich in der Beantwortung jener Frage allein an die Erscheinung, und wird hiedurch unwahr. Sie lehrt dem gemäß, auf dem Wege des sinnlichen Gefühls oder des abstracten Verstandes sey sie entstanden und entstehe sie noch.
+
+##### §. 171.
+
+Wohl kann die Religion seyn im Gefühl und sich als Bewegung des Lebens darin erweisen, als der sinnlichen und dunklen Seite des Geistes, aber sie entspringt nicht daraus. Wahr ist der Spruch: timor Deos fecit, nicht, als ob auf dem Wege der Natur und äußerlichen Erfahrung die Religion selbst, als ein solches äußerliches, an den Menschen gekommen wäre; ſondern weil die Religion, die schon in ihm war, hier zur Natur kam und ihn an Gottes Daſeyn und Macht erinnerte: denn für Furcht und Schrecken ist auch das Thier empfänglich und doch unfähig der Gottesfurcht. In dem Menschen ist die Religion nur auf der untersten Stufe Gefühl der Abhängigkeit und Schwäche, auf jeder höhern vielmehr Gefühl der Macht und Freiheit des Geistes, Gefühl des Erhoben und Aufgehobenseyns
+
+Aber auch so ist sie, obgleich im Gefühl, selbst nicht ein solches, sondern ein Gedanke; ihr wahrer Begriff schließt alle Zufälligkeit ihres Ursprungs aus.
+
+Sie ist ursprünglich nicht das Unbestimmte und Ungleiche des Fühlens, sondern ein in sich bestimmtes Denken des Geistes.
+
+##### §. 172.
+
+Das wahre Element der Religion ist das Denken; nur in dieſem ſie bedingenden Element ist sie ein freies, geistiges und lebendiges; aber hat sie ihr Daseyn nur im Denken, so ist doch das Denken an und für sich auch ihr Urſprung [p. 101] nicht: denn sie ist das Denken der Wahrheit, nicht ein bloß gedachtes, wie auch die Unwahrheit ist, oder erdachtes, wie der Wahn und die Lüge.
+
+Daß die Religion am Denken allein oder am abstracten Verstande das Prinzip ihres Daseyns habe, ist auch die Meinung derer, welche ſie für etwas absichtlich gemachtes, nur für etwas Conventionelles, für Priestererfindung und Priesterbetrug halten oder für ein passend Mittel, die Völker im Zaum zu halten.
+
+Hiemit ist sie denn für etwas ganz mechanisches angesehen und unter das Organische der Natur selbst, das sich wenigstens mit innerer Nothwendigkeit erzeugt, herabgesetzt.
+
+Allein nur den Wahn, die Lüge und Superstition, nicht die Religion, welche die Wahrheit ist, kann der Mensch machen.
+
+Ihr wahrer Begriff schließt ebenso sehr alle Willkührlichkeit ihres Ursprungs aus; ſie ist nicht nur ein Verſtändiges, ſondern auch ein Vernünftiges.
+
+##### §. 173.
+
+Als ein vernünftiges rückt das menschliche Denfen ein in das göttliche Denken und als dieses ist die Religion überhaupt nichts entstandenes; das Göttliche an ihr ist über jede Zeit und jeden Raum hinaus, ist das Ewige. Der Ursprung der Religion liegt über alles individuelle Bewußtseyn hinaus; in die Religion wächst der Mensch hinein, und der ewigen Macht und Gnade verdankt er das,. von und in Gott gehalten, ihn als den Seyenden zu denken und hiemit selbst erst wahrhaft zu seyn. Das Entstehende und Vergehende an der Religion iſt allein das Menschliche in seinem Unterschiede vom Göttlichen, es iſt die zeitDie unendliche Macht des göttlichen liche Vorstellung. Denkens oder der Idee ist der nothwendige Ursprung der Religion in ihrer Identität mit der Vernunft, das göttliche Denken aber zugleich das göttliche Seyn.
+
+[p. 102] §.
+
+174.
+
+Das Wesen Gottes, in welchem das abstracte Seyn aufgehoben, ist die Idee in ihrer unendlichen Vermittelung durch den Begriff.
+
+Es ist das Seyn Gottes selbst, welches sich in ihr manifeftirt als Denken.
+
+Dieses speculativ - theologiſchen Arguments wesentlicher Inhalt ist der Ursprung aller Religion; ihre Geschichte oder das Ungleiche ihrer Erſcheinung und Vorstellung ist die Geschichte des Selbstbewußtseyns, das verschiedene Feststehen auf irgend einer Stufe. In dem theologischen Argument hat das ontologische seine Wahrheit; jenes aber seinen Unterschied von dieſem darin, daß es nicht, wie dieses, den willkührlichen Uebergang macht aus dem Denken ins Seyn, ſondern jenes Denken in der Idee eben aus dem Wesen und Seyn selber hergekommen ist. Deshalb kann man mit Recht sagen: die Idee von Gott, als die Wahrheit des Wesens und Seyns, ist von ihm ſelbſt nicht verſchieden und er ist diese Idee félber: Gott exiſtirt als die Idee.
+
+Doch wird wohl Niemand mit gleichem
+
+Recht sagen können: Gott sey nur die Idee.
+
+Als abstracte
+
+Idee gefaßt ist sie mehr die Offenbarung des Seyns, als das Seyn Gottes selbst, und so ist sie zunächst Offenbarung Gottes in der Welt.
+
+##### §. 175.
+
+Sich selbst offenbart an ihrer realen, objectiven Seite die Idee der Welt als Natur.
+
+Sie ist das Ansich der
+
+Idee. In der Natur ist die Idee außer sich, hat sich entäußert und nur an ihr, nicht an sich hat die Natur ihre In dem Begriff der Zweckmäßigkeit, wovon das teleologische Argument ausgeht, ist dieses ausgesagt;
+
+der Zweck ist Begriff, und nur in dieser Erkenntniß hat jenes Argument ſeine Richtigkeit. Ebenso ist es an dieser Seite mit dem kosmologischen Beweise, der nur so zu den Vorstellungen von Ursach und Wirkung, von Zufälligkeit [p. 103] daß er dieses aus der Idee und Nothwendigkeit kommt, entnimmt, welche sich in der Natur realiſirt. In dem Endlichen und Eitlen der Natur und Erscheinungswelt ist das Wesen nur ein verborgenes und gedachtes, aber als solches doch nicht ohne seine Beziehung auf das Wissen; die Zufälligkeit selbst weiſet auf die Nothwendigkeit, und diese auf Wird aber von aller Mannigfaltigkeit und die Freiheit hin.
+
+Endlichkeit in der Natur abstrahirt und auf die abſolute Ursache und reine Substanz zurückgegangen, so entsteht die pantheistische Lehre: Gott existirt als die Welt der Natur oder als die natürliche Welt.
+
+##### §. 176.
+
+Allein die Falschheit dieses Satzes kommt sofort zu Tage, wenn er nur umgekehrt und gesagt wird:
+
+nur als die Welt der Natur existirt Gott: denn so weiset er selbst über sich hinaus auf das, was die Natur selbst erst wahr macht.
+
+Dieses ist allein das Ideelle, der Geist, als Seele der Natur in ihrer Aeußerlichkeit und Leiblichkeit.
+
+In die ser Lebendigkeit, Schönheit und Pracht, in dieser Einheit mit dem ihr inwohnenden Geiste ist die Natur der Welt als Welt der Natur aufgefaßt in dem phyſikotheologischen Argument, und auf dieser Stufe ist die Idee pantheiſtiſch vorgestellt als die Weltseele oder als der Naturgeist.
+
+Im Indischen Pantheismus liegt dieser Geist der Idee noch in der concreten Unmittelbarkeit und Einheit mit dem Aeußerlichen und Leiblichen der Natur. Ansich der Idee,
+
+Nicht aber die Natur, als das ist die Wahrheit der Weltseele oder des
+
+Naturgeistes, sondern die Idee in ihrer Geistigkeit, welche aus der Welt der Natur zurückkehrend in sich selbst die Welt des Bewußtseyns iſt.
+
+##### §. 177.
+
+In seinem Ursprunge aus der Natur, als der realiſirten Wahrheit der Idee, hat das Bewußtseyn am Ich seinen Inhalt, ist Selbstbewußtseyn, und in dieser Beziehung könnte es heißen:
+
+Gott existirt als das Ich und dieser
+
+Gedanke liegt dem Ich nahe, sofern es auf das, was geringer ist, als es selbst, reflectirt. Der Mensch in seinem unendlichen Wissen und Wollen, in seiner Autonomie und Independenz wird auch wohl sonst als der Gott der Erde vorgestellt.
+
+In der Kantischen Philosophie und Religion innerhalb der Gränze der bloßen Vernunft ist es eben dieſes Ich, welches sich dergestalt aufſpreizet, daß Gott für das Ich nur ein Jenseits, und ohne Wissen von ihm dahingestellet, der Gott des Diſſeits aber das Ich ist.
+
+Ueber diese Subjectivität kommt das Bewußtseyn nicht hinaus, wenn es sich auch als die Mehrheit, Vielheit und Totalität objectivirt, und sich spinozisch in der Substanz oder im Universum und Weltall spiegelt.
+
+Es ist und bleibt das Ich der natürliche Mensch, der fleischlich und irdisch gesinnte, und hiemit der unwahre: denn seine Wahrheit hat das Bewußtseyn nicht in der Ichheit, sondern darin erst, daß es wahrhaft über sich selbst und seine Endlichkeit hinauskommt.
+
+§. -178. Seine Wahrheit hat das einzelne Selbstbewußtseyn zunächst in der Besonderheit des Selbstbewußtseyns eines Volks: in dem Volksgeist findet der einzelne Geist seine Des währung.
+
+In dieser seiner Besonderung geht der Geiſt, als Volksgeist, zugleich über sich selbst hinaus; als Geiſt besonderer Völker ist er der Geist aller, der Geist der Menschheit.
+
+Als dieser allgemeine Geist weiß er sich`aber, indem er den absoluten Geiſt in ſich und sich in ihm weiß.
+
+Wahrheit des sich als Geist der Menschheit objectiven Geistes ist der absolute Geist.
+
+In ihm erlangen jene Begriffsbeſtimmungen des einzelnen, besonderen und allgemeinen, als Bestimmungen des Begriffs noch Endlichkeiten, ihre Wahrheit.
+
+selbst
+
+Diese ist nicht ihr An- und fürſichſeyn,
+
+Eigenschaften Gottes. 105 sondern ihr Aufgehobenseyn in dem absoluten unendlichen Geist. Diese Bewegung der Idee ist nicht der Sprung vom Endlichen zum Unendlichen, sondern die Wahrheit alles End lichen selbst vom ersten, unbeſtimmten Seyn an, durch alle Hier also heißt
+
+Momente bis zur Objectivität des Geistes.
+
+es: weil Gott ist, bin ich und ist die Welt als Natur und Ich oder als Daseyn und Bewußtseyn. Was auf allen Stufen das Wahre ist, ist es nur aus dem, der als Gott der Geist, als Geist der Geist der Wahrheit und der wahre Gott iſt, in ſeinem abſoluten Seyn nicht verſchieden vom absoluten Wissen, sondern dieses selbst, in seinem absoluten Wissen nicht verschieden von seiner Existenz, sondern diese selbst, daher auch nur existirend für das Wissen oder gegenständlich dem Geist. Das Wiffen von dem absoluten Geist ist nicht verſchieden vom Wiſſen der Existenz desselben.
+
+##### §. 179.
+
+Die Nothwendigkeit der Unterscheidung einzelner Eigenschaften in Gott ist die Nothwendigkeit einer bestimmteren Es wird Erkenntniß des göttlichen Wesens und Seyns. fremdes Wesen somit nichts anders, oder dem göttlichen dasselbe gesetzt, sondern nur die Einheit des Wesens und Seyns in Gott erkannt.
+
+Wesenheit und Wirklichkeit Gottes sind die in der göttlichen Eigenschaft aufgehobenen Momente.
+
+Die Eigenschaft Gottes ist nichts anders als das wesentliche Prädicat Gottes, welches in der Erkenntniß sowohl [p. 106] die abstracte Identität zu seiner Voraussetzung hat, als der Uebergang des Einen ins Andere, und die Zurückführung des Andern in das Eine ist.
+
+##### §. 180.
+
+Wenn man die göttlichen Eigenschaften auch Namen und Attribute Gottes nannte, ſo iſt dabei nur das Mißverſtändniß zu entfernen, als könnte, daß Gott so oder anders genannt, oder ihm dieſe oder jene Eigenschaft beigelegt und zugeschrieben würde, alſo das Vorstellen gewiffer Eigenschaften uns an und für sich die Realität derselben verbürgen.
+
+Denn dann wäre die sogenannte Existenz der Eigenſchaften Gottes nicht eine Existenz in ihm, ſondern nur in der Vorstellung und die Eigenſchaft selbst ein bloßes Gedankending, also eine göttliche Eigenſchaft zugleich in Wahrheit keine göttliche Eigenschaft.
+
+Das räsonnirende Denken hätte also hier ein gar weites Feld, worin es sich nach Belieben ergehen könnte.
+
+Es könnte dabei immer noch fortfahren zu sagen, vom Wesen Gottes wisse man nichts und doch sich die Gottheit ganz nach seinen Gedanken bilden und in dieser Weise bis zum argumentum ab utili selbst herabsinken. §.
+
+181.
+
+In der That geschieht dieß von der Meinung, welche sagt, es hätte die Nothwendigkeit, Gott gewisse Eigenschaften zuzuſchreiben, nur in dem Bedürfniß, sie zu denken, und ſomit bloß in dieſem ſubjectiven Denken ihren Grund. Wäre aber lediglich in dem Bedürfniß des Menschen die Nothwendigkeit gegründet, Gott in bestimmten Eigenschaften zu denken, so wäre er eigentlich ohne dieses unser Bedürfniß nicht nur ein ganz unbeſtimmter Gedanke, ein vacuum, ohne alle Des ſtimmungen und Prädicate, ſondern auch dieses unser Bedürfniß zugleich das Bedürfniß Gottes selbst, bestimmter von uns gedacht zu werden.
+
+In Gott aber ist das Bedürfniß [p. 107] nicht.
+
+Vielmehr wenn die Frage entſtünde, worin denn das menschliche Bedürfniß begründet wäre, würde zu antworten seyn: in dem göttlichen Wesen selbst.
+
+Es ist seine Wahrheit und Macht, nur in diesen bestimmten Eigenschaften zu ſeyn, und somit auch gedacht zu werden.
+
+##### §. 182.
+
+Der Ausdruck Eigenſchaft ist allerdings ein uneigentlicher, und, so fern er nur an die Qualität der Materie und der Erscheinung erinnert, der Idee unangemessen.
+
+Gott, als
+
+Geist, ist nichts Materielles oder Erscheinendes.
+
+Bestimmter also nennt man ſte Beſtimmtheiten des göttlichen Wesens, welcher Ausdruck schon mitenthält, daß sie als solche zugleich Bestimmungen unseres Denkens Gottes sind, diese ihr Prinzip nicht an dem Denken des Menschen, sondern am Wesen und Seyn Gottes selber haben, es also auch in der Lehre von den Eigenschaften nicht bei endlichen Begriffsbestimmungen bleiben soll, sondern zur Erkenntniß deſſen kommt, wie das göttliche Wesen in der Idee von sich sich ſelbſt beſtimmt oder in der unendlichen Bestimmtheit ſeiner selbst aus der Unbestimmtheit des Gedankens und Namens herausgeht.
+
+Nicht also auch in die Erkenntniß der göttlichen Eigenschaften sich einlassen, heißt es in Ansehung Gottes und seiner Eigenschaften bei dem unbestimmten, ja ganz leeren Gedanken und Meinen bewenden laſſen.
+
+##### §. 183.
+
+Wenn die christliche Vorstellung der Idee den Geist als das Bild und den Spiegel Gottes betrachtet, so ist hiemit der menschliche Geiſt in seiner Einheit mit dem göttlichen gedacht, eben damit aber zugleich der Weg zur Erkenntniß, wie des Wesens und Seyns, so auch der einzelnen Eigenschaften Gottes bezeichnet.
+
+Sowohl dem Seyn als Denken des menschlichen Geistes sind die göttlichen Eigenschaf [p. 108] ten nichts fremdes mehr oder absolut jenſeitiges und in dem Dogma von den göttlichen Eigenſchaften wird 1nicht, was in dem Denken dem Menschen oder der Natur angehört, etwas Endliches in Gott gesetzt oder auf Gott übertragen, sondern es setzt sich, was in Gott ist, auch in das menschliche Denken, und nur so kann menschliches Denken bestimmte Eigenschaften von Gott prädiciren.
+
+##### §. 184.
+
+Das göttliche Denken ist zugleich ein menschliches, sofern es überhaupt ein christliches ist.
+
+Werden alſo in der christlichen Religion göttliche Eigenschaften auf menschliche Weise vorgestellt, so geschieht es, weil Gott selbst in ihr die Trennung zwischen sich und dem Menschen aufgehoben, und jenes ist an und für sich so wenig eine Unvollkommenheit der christlichen Religion, als dieſes, ſondern vielmehr ist ebendieß der Unterschied des N. B. vom A., wodiese Einheit Gottes mit dem Menschen noch unerkannt, und Gott oft nur auf menschliche Weise vorgestellt war. Aber auch im N. B. und dessen heiliger Schrift offenbaret Gott seine Eigenschaften, obwohl auf eine viel geistigere
+
+Weise, doch zunächst nur dem Vorstellen und die wahre Religion, obgleich selbst aus dem absoluten Wissen, hat an und für sich das Bedürfniß nicht, auf den Begriff zurückzugehen und mittelst desselben die unmittelbar vorhandene
+
+Wahrheit und Richtigkeit der Vorstellung einzusehen.
+
+##### §. 185.
+
+Durch die wissenschaftliche Bestimmung wird zwar die concrete Einheit der Idee Gottes und seiner Eigenschaften. aufgehoben, indem sie mittelst jener in innere Unterschiede auseinandergeht;
+
+aber auch diese abstracten Reflexionsbestimmungen haben ihre Wahrheit nur in der Aufhebung derselben (mittelst des Begriffs, durch deſſen Vermittelung [p. 109] die Idee aus ihrer Unmittelbarkeit in sich selbst zurückkehrt. Auf diesem Wege wird das Wesen Gottes in einzelnen Eigenschaften erkannt, ohne daß jede dieser Eigenschaften aufhörte, die andere und alle übrigen und alle und jede das göttliche Wesen zu seyn, oder eine größer oder vorzüglicher oder eine, wie die Heiligkeit, mehr wäre, als die Allmacht oder Allwissenheit.
+
+Jes. Sir. 2, 23.
+
+##### §. 186.
+
+In Ansehung der Methode unterschied man sonst die via negationis, causalitatis und eminentiae. In Wahrheit hat die letztere jene beiden als abstracte Verſtandeswege zu ihrer Voraussetzung oder an ihr selbst. Von dem Göttlichen aus in der menschlichen Natur kann allerdings mit Recht der Weg zur Erkenntniß der` göttlichen Eigenschaften genommen werden, und dieses ist das wahre an der via eminentiae; das unwahre darin ist nur, daß das Endliche, nur in Gedanken gesteigert, der rechte Weg zur Erkenntniß der göttlichen Eigenschaften seyn könnte.
+
+Jener richtige Weg hat sodann die beiden andern in ſich, als negatives und poſitives, welche jedoch, als abſtracte Bestimmungen, bei jedem Schritt durch die Idee rectificirt werden müſſen.
+
+##### §. 187.
+
+Es sind in der Lehre von den göttlichen Eigenschaften die drei Bestimmtheiten des Wesens, dessen Existenz das absolute Wissen ist, woraus sich alle Eigenschaften Gottes erund welche sich somit selbst eintheiken in solche, welche Gottes, als des wahren, ewigen und feligen geben, wesentlich existirende Eigenschaften sind.
+
+Jene drei Ideen gehen hier in die Form des Begriffs zurück, um in der Einwelches Verfahren, als heit den Unterschied zu entdecken, solches, durchaus analytisch ist.
+
+[p. 110] §.
+
+188.
+
+Als der wahre ist Gott 1. der allwissende, der an und für sich Alles alleinwissende, so, daß auch alles Wissen vom Seyn, alle Wahrheit, in Wesen, die nicht Gott selber sind, nur durch ihn in ihnen ist.
+
+Die Allwissenheit selbst ist nur der, der Gott ist, und Gott ist, d. h. der, in welchem das absolute Wesen und Seyn eins ist.
+
+Be schränkt und endlich ist alles Wissen, worin das Denken und Séyn auseinandergeht oder das Denken nur übereinstimmt mit dem Seyn.
+
+Gottes Verstand ist auch nicht nur ein intuitiver (nach Kant), ſondern der abſolute, der als solcher zugleich erschaffende. Gott weiß Alles, weil er alles geschaffen hat, denkend schafft und schaffend denkt, kein Daseyn ihm eine Gränze ist, weil es selber nur durch ihn ist. 56, 9.
+
+Matth. 10, 29. 30.
+
+§.
+
+Ps.
+
+1. Joh. 3, 19. 20.
+
+189.
+
+In seiner Wahrheit wird Gott zugleich als der allweise vorgestellt, sofern sein Wesen selbst als Grund gedacht wird, aus welchem sein Wissen ist.
+
+Das aus sich selber seyende Wissen erscheint in der Reflexion auf anderes als das zweckmäßige, und wird hiemit der Zweck als etwas vom Wesen und Wissen selbst verschiedenes gesetzt. So aber ist kaum der Geist, der nicht Gott ist, weise: er ist dies, sofern er die besten Mittel wählt zu den besten Zwecken. So aber ist er nur der Kluge.
+
+Der Zweck aber ist selbst
+
+Begriff; in Gott ist kein Zweck außer ihm; in ihm ist nichts Mittelbares oder Mittel: in und mit seinem vollkommensten Seyn und Wesen sind auch alle vollkommene Zwecke auf eine ewige Weise erreicht; seine Gedanken sind das auch zugleich unmittelbar und einzig und allein wahrhaft Wirkliche.
+
+Nôm. 11, 33. ff. 16, 27.
+
+1. Tim. 1, 17.
+
+[p. 111] §.
+
+190.
+
+3. In der Einheit seiner Allwissenheit und Allweisheit ist der wahre Gott der absolut reale, und in dieser seiner Realität sowohl für sich, als für anderes. Die Realität Gottes ist das in das Seyn übergegangene Denken.
+
+Geist, welcher Gott ist, ist der einzig und wahrhaft ſe yende, und hiemit ebenso sehr der wahrhaft seyende oder der Wahrhaftige als der, durch deſſen Seyn in einem andern auch dieses zu seyn vermag. So ist Gott die Realität der Natur und des Bewußtseyns, und der Inbegriff aller Realitäten. Der Geist, welcher nicht Gott ist, hat individuellen Bestand nur in der Bewegung des Denkens (Werden), und in der Einheit mit einem Leibe (als Seele) ; in dem Geiste hingegen, welcher Gott ist, ist das Wesen und Seyn absolut eins.
+
+Diese absolute Spiritualität Gottes ist negativ seine Immaterialität, Independenz und Immutabilität, deren Identität die Einheit ist, keine numerische, sondern absolute Einheit.
+
+1. Tim. 6, 16.
+
+§.
+
+Joh. 4, 24.
+
+191.
+
+Als der ewige ist Gott 1. der allgegenwärtige. Die Vorstellung davon enthält Zeit und Raum als eine Voraussetzung, deren Aufhebung aber im Begriff die Ewigkeit Gottes ist. Als der Allgegenwärtige ist Gott nicht nur erhaben über Zeit und Raum, sondern auch in jeder Zeit und in jedem Raum, jedoch nur in solcher Zeit und solchem Raum, welche beide die Ewigkeit Gottes als Bestimmungen an ihr hat oder derselben Momente sind. Die Allgegenwart Gottes ist näher bestimmt, die Eigenschaft Gottes, kraft deren ihm alle Dinge in Zeit und Raum gegenwärtig, Vergangenheit und Zukunft, ſammt deren nur auf beide bezüglichen Gegenwart aufgehoben sind.
+
+Von der begriffenen
+
+Wahrheit liegen daher am fernsten sowohl der sinnliche und materielle oder concrete. Pantheismus, der das beständig
+
+[p. 112] Werdende und Vergehende, und somit das Eitle und Nichtige als das ewige und allgenwärtige Seyn Gottes setzt, wie auch der abstracte oder spinozische Pantheismus, neben dem Denken die Ausdehnung als Attribut Gottes und alle Dinge als Modificationen der göttlichen Substanz ſeßt, ſomit das Endliche dem Unendlichen, das Zeitliche dem Ewigen gleich setzt, d. h. beide gleichgültig gegen einander macht.
+
+Matth. 6, 4.
+
+Pf. 139, 7-12. §. .192.
+
+2. Als das freieste Wesen wird Gott in seiner Ewigkeit gedacht, zunächst, indem im Ewigen alle Gränze seiner Bewegung aus sich, durch den Begriff der absoluten Idee negirt ist. Die Freiheit Gottes ist positiv die reinste Selbstnegativ die Unabhängigkeit von allem außer denn dieses alles ist selbst nur wahrhaft, sofern es bestimmung, ihm:
+
+von ihm abhängig ist.
+
+Gott ist nicht, wie alle Dinge, des dingt, noch auch, wie der Mensch, beſtimmbar in seinem Selbstbestimmen. Die Nothwendigkeit seiner Freiheit ist zus gleich die Freiheit seiner Nothwendigkeit: beide Begriffe gehen in der Idee Gottes in eins zuſammen. Die Unzertrennlichkeit der Freiheit von Gott ist Gottes und seiner Freiheit Nothwendigkeit.
+
+Die freie Bewegung Gottes aus sich ist das reinste Handeln, dieſes aber ohne Unterschied von ſeinem Seyn, und somit absolut und nothwendig. Sein Handeln ist eins mit ſeinem Willen, dieſer aber mit seiner Freiz heit, und diese mit ſeinem Seyn und Wesen.
+
+In der göttlichen Nothwendigkeit ist die physische und moralische oder das Gesetz begriffen als Natur- und Sitten- Gesetz. Gottes freier Wille und Rathschluß ist Gesetz für den Geist nur, der nicht Gott ist; selbst aber unter dem Gesetz stehend, müßte nicht nur die Möglichkeit der Veränderung in Gott gesetzt seyn, sondern er auch dieses Gesetz zu seinem Gott haben. Rôm. 9, 11. Ps. 135, 6.
+
+##### §. 193.
+
+##### §. 193.
+
+Der in seiner Freiheit allgegenwärtige und in ſeiner Allgegenwart freie Gott ist hiemit der Heilige.
+
+Heiligkeit ist die Einheit jener beiden Eigenſchaften, und hat eine Beziehung auf die Einheit der Zeitlichkeit und Räumlichkeit, welches die Materialität ist.
+
+Das Unheilige ist das
+
+Unfreie, bloß in Zeit und Raum lebend, das bloß zeitliche und irdische.
+
+Gott hingegen, als Geist, allgegenwärtig und dennoch frei, Gott, als Geist, frei und dennoch allgegenwärtig ist hiemit der Heilige.
+
+In dem Gewissen giebt sich im
+
+Menschen mitten in Zeit und Raum, und beide als Fesseln fühlend, die bestimmteste Mahnung an Gottes Heiligkeit und die Nothwendigkeit, ihm darin nachzuahmen, kund.
+
+Wird in der göttlichen Allgegenwart dem Seyn das Denken gleich gesetzt, in der Freiheit dem Handeln das Wollen, so ist die Heiligkeit die Einheit des Denkens und Wollens, der Güte und der Gerechtigkeit.
+
+Da der Mensch von Natur weder gerecht noch gut ist, sondern beides nur werden kann, so beruhet beides in ihm nicht auf einem Seyn, sondern auf einem Sollen, und hat den Character der Pflicht für ihn, er aber darin sich selbst zu besiegen. 3. Mos. 11, 45.
+
+Apoc. 15, 4.
+
+§.
+
+Luc. 1, 49.
+
+Marc. 10, 17.
+
+194.
+
+Als der Selige wird Gott 1. erkannt in seiner absoluten Persönlichkeit.
+
+Der Geist, welcher Gott ist, hat nicht nur dies Seyn, ſondern ist es selbst, und diese Einheit des Denkens und Seyns, des Verstandes und Willens iſt der Begriff der Persönlichkeit.
+
+Sie ist in Gott die Einheit
+
+ſeiner Allwiſſenheit und Freiheit.
+
+Persönlich ist Gott, nicht so, wie der Mensch, sofern in deſſen Bewußtseyn das Wifsen dem Seyn, das Eeyn dem Wissen nicht vollkommen entſpricht und deſſen Persönlichkeit zugleich an der Individualität eine Schranke hat.
+
+Dem Zweifel an Gottes Per-
+
+& [p. 114] sönlichkeit liegt in allen pantheiſtiſchen Systemen die falsche Voraussetzung eines menschlichen Bewußtseyns und Gegenfahes von Seyn und Wiſſen in Gott, zu Grunde.
+
+Vielmehr kann der Mensch seine Persönlichkeit nicht anders betrachten, denn als das Medium der sich in der Endlichkeit offenbarenden Urpersönlichkeit Gottes, in welcher allein jene ihre Wahrheit hat, und an welche ſein niederes Leben verlierend, er ſein wahres, persönliches Leben erst gewinnt. 94, 9.
+
+§.
+
+Pr
+
+Marc. 8, 35.
+
+195.
+
+Der in seiner Weisheit heilige und in seiner Heis ligkeit allweise Gott ist hiemit der allmächtige.
+
+Die Allmacht ist die Einheit der Weisheit und Heiligkeit. Je mehr das menschliche Seyn ohne Fehl und Sünde ist oder je heiliger, das Denken aber ohne Irrthum und Finsterniß oder je weiser, desto mehr steigt die Macht eines Menschen, wie sie auch abnimmt und verschwindet im entgegengesetzten Fall. In der Uebereinstimmung mit sich selbst ist der Mensch als vernünftiges und freies Wesen auch das Mächtige, im Widerspruch mit sich selbst das Schwache und Ohnmächtige. Alle wahre Macht der Menschen aber hat ihr Prinzip an der göttlichen Allmacht, in der sich Gottes Weisheit (und Heiligkeit ihnen offenbart und mittheilt.
+
+Die Allmacht Gottes besteht nicht darin, daß ihm Alles möglich ist: denn in Gott ist kein Unterschied der Möglichkeit und Wirklichkeit, und die bloß abstracte Trennung beider hat keine Wahrheit in ihm. Deshalb auch ebenso gut gesagt werden kann, dem Allmächtigen sey vieles ganz unmöglich, z. B. sterben, fündigen. Sondern die Allmacht ist sein Denken und Wollen, und der ewig wirkliche Inhalt seiner Allmacht ist seine Weisheit und Heiligkeit. 2. Cor. 6, 17. 18. Apoc. 1, 8. Ps. 8. Pf. 33, 6 — 9.
+
+[p. 115] Von den Eigenschaften Gottes.
+
+##### §. 196.
+
+3. Die Majestät und Größe oder Herrlichkeit Gottes ist die Einheit aller seiner Vollkommenheiten. Die Idee der unendlichen Größe und Majeſtät Gottes iſt als die des Unermeßlichen vielmehr das Maaß und die Wahrheit aller Größe im Endlichen, und ohne jene Idee würde nichts von dieſem uns groß erscheinen, weder das endlich Große, noch das unendlich Kleine, welches lettere uns ebenso sehr an Gottes Majestät erinnert, als der gestirnte Himmel.
+
+Jm
+
+Endlichen nimmt die Bewunderung ab in dem Maaß, als die nähere Erkenntniß entsteht und diese zunimmt: in Gott. eröffnet sich dem Geiste eine Wiſſensquelle, aus der in und mit der steigenden Erkenntniß zugleich die immer weiter steigende Bewunderung entsteht.
+
+Nichts bewundern soll der
+
+Weise nur, damit er Eins allein bewundere. Ps. 19, 23. Apoc. 17, 12.
+
+##### §. 197.
+
+Wie aus der Erkenntniß des wahren Wesens Gottes auch die Religion in ihrer Sub- und Objectivität ihre Wahrheit und Wesenheit, an der Erkenntniß des ewigen Daseyns Gottes das Prinzip ihres beständigen Daſeyns und Wirklichſeyns hat, so bestimmt die Erkenntniß der göttlichen Eigenschaften die Form der Religion und der Unterschied jener ist in dieser Hinsicht die Mannigfaltigkeit der Gestalten der Religion, deren wesentliche Form jes doch die Einheit ihres beſtändigen Daſeyns mit ihrem wahren Inhalte ist.
+
+##### §. 198.
+
+Es zeigt sich zunächst die Religion in der Kindheit des Menschengeschlechts vom Gefühl ausgehend und selber als ein Gefühl.
+
+In ihm hat das Sinnliche und Dunkle, welches an sich das Thierische ist, zugleich einen menschlichen $ 2
+
+[p. 116] Charakter durch die Beziehung über sich hinaus, Göttliche.
+
+Es ist aber wesentlich auf das ein in sich selbst noch dumpfes, unmittelbares Gefühl, äußerlich nur Gefühl der unendlichen Entfernung und Ueberlegenheit, der Macht und Heiligkeit Gottes und darin Gefühl der Furcht.
+
+Das ursprüngliche Naturleben ist darin noch concret mit dem Göttlichen als das Patriarchaliſche, welches allmählich übergeht in das Geregelte und Gesetzliche, in die sittliche Strenge.
+
+##### §. 199.
+
+Aus der Strenge und Gerechtigkeit Gottes tritt das Gesetz hervor und macht die Religion der Furcht zur Religion des Gesetzes.
+
+In diesen Eigenſchaften offenbaret sich Gott den Menschen und danach bestimmt sich ihre Religion. Gott ist ihnen ein furchtbarer, erschrecklicher Gedanke, er selbst, seinem Wesen nach, erhaben über den menschlichen Geist und so entfernt von ihm, daß ihn kaum der Gedanke, kaum die Sprache erreicht. Gott zeigt sich darin nur gemäß der Empfänglichkeit und Fassungskraft, und der abstracte Monotheismus ist die nothwendige Form der Religion, womit das Menschengeschlecht angefangen.
+
+##### §. 200.
+
+Er hat eine bestimmte Beziehung im Politischen auf die Monokratie oder absolute Monarchie, welche von der Gewalt eines Einzigen ausgehend, seinen Willen zum allgemeinen Gesetze macht.
+
+Jene Beziehung dès abstracten Monotheismus auf die abstracte Monokratie ist die Theokratie, und diese die unmittelbare Einheit von Staat und Kirche.
+
+Der unmittelbare Gottesstaat hat den Unterschied von Staat und Kirche noch nicht aus sich hervorgebracht, um ihn durch dieſen Unterſchied in die wahre Einheit zurückzuführen. In der Unmittelbarkeit des Gefühls stellt sich die objective, abstracte Einheit Gottes subjectiv auch nur als ein einziges
+
+[p. 117] Volk, und dieſes im Verhältniß zu ſeinem Gott als das erwählte dar. Aber der knechtische Geist desselben zeigt, daß ihm zwar nicht die Einheit für sich, so wie seinem Gott die Einheit für sich fehlt, aber desto mehr die wahre, innere, lebendige Einheit beider, und die freie Bewegung darin. Die unendliche Macht und Auctorität auf der einen, und die unendliche Furcht auf der andern Seite, hält beide, obwohl im Verhältniß zu einander, doch zugleich aus einander. Wie die erstere dort in der eigenen innern Gesetzlosigkeit und Willkühr zur härtesten Despotie wird, so diese hier zum knechtischen Gehorsam mit dem Vorbehalt der innern Nenitenz. So wie das Gefühl in ſich, öder vielmehr der Geiſt in ihm erwacht, tritt er aus dieser concreten Unmittelbarkeit heraus, aus dem Gefühl geht er über in den Verstand und hiemit zugleich in die Reflexion und den Unterschied: die Religion des Gefühls und der Furcht verwandelt sich in die Religion der Freiheit.
+
+##### §. 201.
+
+In der Religion der Freiheit erscheint Gott reicher und mannigfaltiger; ja seine Eigenschaften fallen ganz auseinander in eine Menge von Göttern, und der abstracte Monotheismus geht über in den Polytheismus. Der Würde und Wahrheit nach kann der abstracte Monotheismus über dem Polytheismus stehen; aber dieser ist eine geschichtlich nothwendige Stufe und Bestimmung von jenem.
+
+Das innere
+
+Verhältniß beider zu einander zeigt sich auch äußerlich in den mannigfaltigsten Verwickelungen in einander, und der schroffe Gegensatz des Judenthums gegen das Heidenthum beweiset, daß jenes dieses als eine wesentliche Bestimmung an ihm hat, indem es sich selbst nur diesem gegenüber hat und faſſet.
+
+Der Polytheismus ist die Negation des abſtracten Monotheismus, und an die Stelle der numerischen Einheit tritt die numeriſche Vielheit, das dumpfe, in ſich verschlossene [p. 118] Gefühl erhebt sich zur äußern Anschauung, welche die Gottheit ganz objectiv, aber innerhalb dieser Sphäre der finnlichen Erscheinung, vor sich hat.
+
+Das Sinnlichwahrnehmbare aber ist zugleich das Mannigfaltige und als ein Erscheinen das Scheinen, der Schein aber mit der Idee vers eint das Schöne. Die Einheit Gottes ist auf diese Weise zerſplittert an die Mehrheit und die Einheit der ursprünglichen Religion und eines darin lebenden Volks in eine Menge von Religionen und Völkern auseinandergefahren.
+
+##### §. 202.
+
+In der Gestalt des Polytheismus hat politisch die Religion eine bestimmte Beziehung auf die Polykratie oder Republik. In ihr ist die Herrschaft ebenfalls an die Individuen gefallen, und jene negative Freiheit das Höchſte, welche die bloße Unabhängigkeit ist.
+
+Aber in dieser aufgelöseten
+
+Einheit ist die Macht sich selbst entgegengesetzt und wird so zur Schwäche.
+
+Indem alle die Herrschaft begehren und üben, wird aus der Republik eine umgekehrte Despotie. Die negativ vernünftige Dialectik, welche die des abstracten Verstandes ist mit seiner ganzen schneidenden Schärfe und Her´bigkeit, ist diese Form der Religion und des Staats.
+
+ist die Bewegung der Abstraction, worin der Verstand sich diese Unterschiede giebt.
+
+Ist die Bewegung aus dem abstracten Monotheismus in den Polytheismus, wie die der der Monokratie in die Polykratie, wie die des Gefühls in die Freiheit, eine nothwendige, so kann doch auch die Religion, wie die Freiheit, auf dieser Stufe nicht stehen bleiben. Der negative abstracte Verstand hat die Nothwendigkeit des weitern Fortschrittes in das positiv Vernünftige, und die Religion des Gefühls und Verstandes oder der Furcht und der Freiheit wird zur Religion des Geißtes und der Liebe.
+
+[p. 119] Von den Eigenschaften Gottes.
+
+##### §. 203.
+
+In der Religion auf dieser höchsten Stufe ist zunächst der Polytheismus und mittelſt deſſen der abstracte Monotheismus negirt und aufgehoben; aber indem der Polytheis. mus die Negation des abstracten Monotheismus ist, ist in ihr selbst, der wahren Religion, als der Negation jener · Negation, der Monotheismus wiederhergestellt, jedoch nicht in der Form der abstracten Unmittelbarkeit, sondern nur, wie er erst durch die Negation und Vermittelung hindurchgegangen, und also erst zu seiner Wahrheit gelangt. Dieser Monotheismus hat, eben damit zugleich die Furcht, welche nicht in der Liebe ist, und die negative Freiheit, die nicht die Freiheit der Liebe, ſondern des abstracten Verstandes und Egoismus ist, und ebenso auch Gefühl und Verstand in sich, als der Vernunft aufgehoben. In dieser Form ist die Religion des Geiſtes und der Liebe die offenbare und die an sich wahre, und die Wahrheit aller Religion überhaupt. §.
+
+204.
+
+Die Religion der Liebe oder der vernünftige Monotheismus hat eine bestimmte Beziehung auf die Monarchie.
+
+ihr ist die Monokratie mittelst der Polykratie und diese selbst aufgehoben, sie aber Wiederherstellung der Monokratie, wie sie den Unterschied an ihr hat, also an ihr das Harte der Despotie, imgleichen Wiederherstellung der Polykratie, ` wie an ihr das Komische der Republik verschwunden ist.
+
+der Monarchie tritt die Majeſtät persönlich hervor und ein Gegenstand der Liebe des Volks, wie es als ein Gegenstand der Liebe für den Regenten, und ist der Staat, als die Einheit des Volks mit dem Regenten in der Wirklichkeit seinem Begriffe conform.
+
+Alle Vorzüge der Monokratie und Polykratie sind in der Monarchie vereinigt,
+
+So nun zwar hat die Religion auf dieser Stufe ebenso wenig die Bestimmung einer solchen Einheit Gottes mehr, die eine Eigenschaften Gottes.
+
+gewisse Mehrheit ausschließt, als die Bestimmung einer ſolchen Mehrheit, in welcher die innere und wesentliche Einheit verloren gegangen.
+
+Aber beide, die Einheit und die Mehrheit, indem sie ganz die Bedeutung, die sie bisher gehabt, verlieren, treten nur erst in ihrer Wahrheit hervor, indem sie älles Numeriſche hinter sich laſſen.
+
+##### §. 205.
+
+Dieses zeigt sich so, daß in der wahren Religion die Mehrheit nicht mehr die Negation der Einheit, sondern die Differenz, die Einheit nicht mehr die Negation der Mehrheit, sondern die Identität des Unterschiedenen ist. In der christlichen Religion iſt Gott in seiner abſtracten Unterſchiedslosigkeit und grundlosen Unmittelbarkeit vorgestellt als Vater: er ist in der Unterſcheidung seiner von ſich unendlich mit sich identisch, Gott in Gott. Gott aber, in seiner Identität mit sich, sich von sich ewig unterscheidend, ist vorgestellt als Sohn:
+
+er ist der unendliche Unterſchied in der unendlichen Identität, Gott aus Gott. Gott aber die Identität der Identität und Differenz ist vorgestellt als Geiſt: er ist der in und aus Gott seÿende, und so für sich. In der wahren Religion, welches die christliche ist, offenbaret sich Gott als der Dreieinige.
+
+v mat if
+
+## Von Gott, dem Sohn.
+
+Von Gott,
+
+§.
+
+Sohn.
+
+206.
+
+Die Lehre vom Sohn Gottes iſt, auf den Begriff zurückgeführt, die Lehre von der göttlichen Offenbarung.
+
+Diese ist zunächst ein Verhältniß in Gott, und es ist demnach zuerst zu handeln von der innern Offenbarung Gottes.
+
+Als innere weiſet ſie aber zugleich selbst hin auf ein Verhältniß Gottes zur Welt, in welcher Beziehung die Lehren von der Schöpfung, Erhaltung und Vorsehung ihre Stelle finden. Dieser Unterschied der innern und äußern Offenbarung endlich ist aufgehoben in der Einheit des offenbaren Gottes mit der Welt in der Person eines Menschen, und dieſes iſt die Lehre vom Gottmenschen.
+
+##### §. 207.
+
+Die Vorstellung von Gott, als Sohn, sagt ein Verhältniß Gottes aus zu sich selbst und eine innere Beziehung; es beſtimmt sich darin das Wesen_in_ſeinem Unterſchiede von [p. 124] sich als Grund.
+
+Wie das Wesen, als solches, die Einheit des Seyns und Nichtſeyns ist ohne allen Unterſchied, ſo ift die Offenbarung die Einheit des Seyns und Nichtseyns in dem Unterschiede beider von einander: beide, obwohl in Einem, sind doch als andere gegen einander bestimmt. Das Seyn als das Nichtseyn, ist das Scheinen, das Nichtseyn aber als das Seyn ist die Erscheinung. Als solche aus dem Wesen, als Grunde hervorgehend, ist sie das sich selbst Erscheinen, Erscheinen zunächst in und für sich selbst, und nicht für anderes. Gott aber, als Geist, kann nicht erscheinen, ist nicht die Erscheinung, sondern die Offenbarung ſeiner selbst.
+
+Aber als nicht Offenbarung an ein anderes ist sie zunächst Offenbarung an sich selbst, innere Selbst.
+
+offenbarung.
+
+§. Das Nichtseyn
+
+208.
+
+der göttlichen Selbstoffenbarung, welches an ihm selbst das Seyn ist, ist das göttliche Denken: es ist nicht ohne das Seyn, aber als Denken nicht das Seyn, es ist die Negation von diesem, aber als Negation die Bestimmtheit des Seyns selber, eine wesentliche
+
+Seite aller und hiemit die göttlichen Selbstoffenbarung.
+
+Indem aber das göttliche Denken das Nichtſeyn ist, ist es zugleich das Seyn, hat, als Negation beſtimmt, von dieſem sich nicht getrennt, es zieht das Seyn sich in das Denken wesentlich hinein, obwohl es als solches nicht ist das Denken. Diese Seite der göttlichen Selbstoffenbarung ist die Substanz, in der christlichen Religion vorgestellt als Va: ter.
+
+Indem aber Gott in seiner innern Offenbarung betrachtet wird als Denken, rein für sich, nur sich darin vernimmt, ist er Vernunft (20yos) , vorgestellt als Sohn, und dieses erkennend auch das menschliche Denken das vernünftige, logische, theologische.
+
+Von der Offenbarung
+
+##### §. 209.
+
+Wenn Gott erkannt wird von dem Geiste, der nicht Gott ist, so ist Wahrheit in diesem Denken nur, sofern dieſem Denken das Seyn des Geistes, welcher Gott ist, Dieses Seyn Gottes aber ist zugleich nicht äußerlich ist. ſein Denken, welches eben an dem Wesen Gottes ſeinen ganzen Inhalt hat. In dem Bewußtseyn zeigt sich nun das Wesen Gottes als Inhalt des Denkens von dieſem ſelbſt oder dem Gedanken verschieden. Es ist der Unterschied des Gedachtseyns oder des gedachten Seyns vom Denken: ein Seyn, nicht ohne das Denken, ein Denken, welches nicht fruchtlos ist; wir sind vielmehr gezwungen, den erkennenden von dem erkannten zu unterscheiden, obgleich das Wesen des einen und andern eins und dasselbe ist.
+
+##### §. 210.
+
+Die ewige Existenz Gottes kann daher nur als ewiger Exitus gedacht werden, welches das Seyn des Sohnes aus dem Vater ist. Als das einfache, abstracte Wesen hat dieses die Negativität an ihm selbst, nämlich des Denkens, und schon der Ausdruck Vater weiſet darauf hin, daß er so wenig sey ohne den Sohn, als der Sohn. Die einfache Substanz ist also der abſolute Unterſchied von sich selbst, dieser aber sein reines Seyn als ein anderer. Als einfaches Wesen nur an sich seyend ist es die Abstraction und Negativität, als solches aber dem Denken gegenständlich und hiemit, nach dem Inhalt der Vorstellung, Erzeugung seines andern. 1. Joh. 5, 1. Pf. 2, 7. Joh. 3, 18. Hebr. 1, 5.
+
+In diesem seinen Andern ist es das Wesen selbst, welches sich darin anschaut und als das Wissen seis nes Wesens in sich ebenso unmittelbar zurückgeht, und in der Bewegung zu seinem andern Seyn zugleich sich selbst gleich macht.
+
+[p. 126] §.
+
+211.
+
+Ebendarin ist der Sohn die Offenbarung des Vaters. Der Vater also, wie die Lehre und Vorstellung, daß Gott Vater sey, wird sich erst offenbar in dem Sohn und in der Lehre und Vorstellung vom Sohn: denn er ist die Offenbarung und hiemit erst die Wahrheit des Vaters und die haben daher gar kein Recht, wie keinen wahren Weg, Gott ihren oder unsern Vater zu nennen, die nicht ebenso an ihn glauben als Sohn. Joh. 14, 6. Matth. 11, 27. Joh. 1, 8. Die Offenbarung Gottes ist seine innere Selbstbeleuchtung, die ewige Ausgleichung seiner Subjectivität und Objectivität.
+
+Gott ist sich selbst nicht verborgen und dunkel, sondern klar und durchsichtig. Er ist das Licht und in ihm ist die Finsterniß nicht. Joh. 1, 4. 5. Jac. 1, 17. Die innere Selbstoffenbarung Gottes ist eben dies, daß er ewig sich sich (semet sibi) offenbaret.
+
+##### §. 212.
+
+Als Offenbarung und Bestimmtheit setzet ſie die Dunkelheit und Unbestimmtheit voraus, und dieses ist das Seyn Gottes als Substanz, ohne die Bestimmung des Vaterſeyns, welche ihre Wahrheit und Erkenntniß erst in dem Sohn und dessen Erkenntniß hat.
+
+In dieser ihrer Verborgenheit ist die absolute Substanz die blinde Nothwendigkeit.
+
+Es ist die Wahrheit oder Falschheit des Deismus und Pantheismus, daß er über die Erkenntniß Gottes in jener abstracten Unmittelbarkeit und Subſtanzialität nicht hinauskommt und eben hiemit, das Daseyn des Christenthums in der Welt ignorirt und eludirt.
+
+Denn eben durch diese Lehre von
+
+Gott, als Vater und Sohn, ist das Christenthum die Auflösung der ihm vorhergegangenen Vorstellungen von Gott als blindes Fatum (im Heidenthum) und dunkle Macht (im Judenthum). Apstg. 17, 23. Col. 1, 26. Ròm. 16, 25. Ephef. 3, 9.
+
+Von der Offenbarung
+
+##### §. 213.
+
+Es ist der Begriff des absoluten In sich selber Seyns und in keinem andern Begründetseyns, welcher die christliche Vorstellung von Gott, als Vater, zu seinem Inhalte hat. Es ist demnach eine positive Idee, welche in der kirchlichen Lehre nur negativ bezeichnet wird durch die Proprietät des Vaters, welche die Agennesie ist. Sie hat aber zugleich ihre innere Beziehung auf die Proprietät des Sohnes, welche die Genesis ist. Bestimmt also durch den Begriff wird in der Proprietät des Vaters, kraft deren er ayevvηtos ist, nur ausgesagt, er sey nicht der Sohn, aber zugleich er sey nicht ohne den Sohn. Nicht ein Unterschied des göttlichen Wesens ist hiemit statuirt, aber doch ein Unterschied im göttlichen Wesen; es ist damit die Identität des In- und Aussichselberſeyns von Gott ausgesagt: damit man aber nicht ſagen dürfte, Gott habe sich selbst gezeugt, welches sich selbst widerspricht, ist die Vorstellung von Gett als Vater und Sohn aufgestellt.
+
+##### §. 214.
+
+Von menschlichen Verhältnissen hergenommen ist allerz dings die Vorstellung, wie die Darstellung in menschlichen Worten: aber der im Begriff sich als Wahrheit erweisende Inhalt der Vor- und Darstellung geht auf ein inneres, abſolutes Verhältniß des göttlichen Wesens, und ist überhaupt wahr und vollkommen nur in Gott. ter
+
+Das menschliche Vaund Sohns - Verhältniß ist gegen jenes göttliche das unwahre und uneigentliche.
+
+Von Gott vielmehr allein, nicht aber von irgend einem Menschen kann gesagt werden: er ſey absolut in sich selbst und aus keinem andern oder unges zeugt oder Vater in dem Sinne, wie Gott es ist und doch nichts desto weniger absolut auch aus sich selbst oder der Sohn: denn unter Menschen ist Niemand Vater, der nicht [p. 128] vorher Sohn geweſen und es kann da auch der Sohn wiederum Vater seyn.
+
+##### §. 215.
+
+Nur also in Gott besteht dieses einzige Verhältniß, daß der Vater immer und ewig Vater, der Sohn immer und ewig Sohn ist: denn nicht von einem gezeugten Vater ist der Sohn gezeugt, nicht dazu wird er gezeugt vom Vater, daß er die Zeugung in Gott fortseße oder wiederum Vater Dieses zeigt wohl, daß alle im Verhältniß zum göttlichen Wesen nur uneigentlichen Verhältnisse dieser Art unter Menschen nur unwesentliche und entfernte Abbilder der sen.
+
+ewigen Idee und des einzig wahrhaftigen Seyns Gottes ſind, und daß nur darum veränderlich und uneigentlich unter Menschen ein solches Verhältniß seyn kann, wie das zwischen Vater und Sohn, weil es unveränderlich und eiDen Vater und Sohnsgentlich nur besteht in Gott. Namen hat demnach Gott nicht von uns, sondern wir has den ihn vielmehr von ihm.
+
+##### §. 216.
+
+Eben darauf beruhet, daß jede Vor- und Darstellung dieſes innern Verhältnisses in Gott, welche darin, daß sie nur dieses ist, Menschliches überträgt auf Gott, unwahr und unangemessen ist und stets noch einzelne, in den Begriff nicht mitgehörende Momente enthält, welche dogmatiſch_davon zu entfernen sind. Es kann z. B. das Wesen des einzelnen Menschen seyn, ohne Vater zu seyn. Der Begriff der Idee Gottes hingegen giebt nicht' ' zu, daß Gott allein sen die unendliche Substanz oder in ſich, ohne auch Grund seiner selbst oder aus sich, und hiemit Vater des Sohnes zu ſeyn.
+
+Ebenso ist nun auch das Verhältniß von Vater und Sohn unter Menschen ein Fürsichbestehen eines jeden von beiden: der Vater ist dem Sohn und dieser jenem ein anderer, selbständiger Mensch; in Gott hingegen ist dieses Verhältniß [p. 129] hältniß kein individuelles, numeriſches, der Vater ist nicht dem Sohn und dieſer jenem ein anderer Gott, sondern ihr Verhältniß zu einander das der abſoluten Identität.
+
+##### §. 217.
+
+Die absolute Identität des göttlichen Wesens ist aber nicht mehr jene abstracte, grundlose Unmittelbarkeit der Sub, ſtanz, sondern die vermittelte und durch den Unterſchied hins durch gegangene, und ist in der christlichen Kirche erkannt als Homousie.
+
+Der Sohn ist dem Vater consubstanziell, d. i. gleichen Wesens mit ihm.
+
+In diesem Begriff und
+
+Ausdruck der Conſubſtanzialität ist ebenso sehr die Differenz, als die Identität bezeichnet: denn nicht das Nichtunterſchiedene, das abſtracte Eins, sondern nur das Unterschiedene kann sich selbst gleich seyn; sich selbst aber gleich ist es wiederum nicht unterſchieden.
+
+Das Hervorbringen und Hervorgebrachtseyn, bezeichnet durch die Vorstellungen Zeugen und Gezeugtſeyn, ist in Gott, dem Ewigen, selber ein ewiges.
+
+Es geht daher weit eher an, Gott Schöpfer zu nennen, ohne gerade an das Werk der Schöpfung zu denken, als ihn Vater zu nennen, ohne hiemit zugleich an den Sohn zu denken. Denn ein Schöpfer, Bildner, Künſtler kann auch gedacht werden bloß der Kraft oder dem Vermögen nach, jene Vorstellungen zeigen zunächst nur auf die duva-puv hin und nicht auch zugleich nothwendig auf die εvegyaav; unter Menschen werden diese Benennungen auch von denen gebraucht, die vor ihren Productionen und nach dens ſelben Künstler und Baumeiſter ſind.
+
+##### §. 218.
+
+Der menschlich sich bezeichnenden Vorstellung von Gott, als dem Zeugenden und Gezeugten liegt die ursprüngliche Einheit des Begriffes von Zeugen und Erkennen zum Grunde: Gott erkennet sich nur als sein anderer; dieser ist als I [p. 130] die Vernunft (loyos) die Offenbarung seines Wesens. Eben so weiset die menschlich sich bezeichnende Vorstellung von Gott als dem Geist und Wort auf die Analogie des menschlichen Sprechens oder sich Aussprechens hin, welches als solches ein Offenbaren des Gedankens oder des Geistes ist. Das Wort an sich, ohne den Gedanken und Geist, ist ein leerer, ' sinnlich organischer Laut, die Sprache an sich eine leere Form, ohne das, was gesprochen wird.
+
+Aber ebenso wäre der Geist in sich nur ein abstractes Denken ohne das Wort, er muß, um sich mitzutheilen und verstanden zu werden, von sich ausgehen in das Wort und dieses zu seiner Offenbarung haben.
+
+Das Wort Gottes ist die Offenbarung des göttlichen Wesens und als solches nicht verſchieden von dem, dessen Wort es ist; aber indem das Wort die Offenbarung des Wesens iſt, tritt zugleich die Differenz hervor zwischen dem Wort und der Substanz. Joh. 14, 10.
+
+Hebr. 1, 3.
+
+1, 1.
+
+##### §. 219.
+
+Die Erklärungen des A. und N. Testaments über die Einheit Gottes beziehen sich allein auf die falschen Götter des Polytheismus. Joh. 10, 30. 14, 9. 10. Exod. 3, 14. Deut. 32, 39. Jef. 44, 6. Gottes Wort und ewige Weis heit selber war es, welche dort über alle falsche Götter das Urtheil sprach: denn dieses sein ewiges Wort war es, das in den Propheten und allen Frommen des A. B. lebendig war, und wirkte. Die Wahrheit aber, daß die göttliche Offenbarung als Sohn die Subsistenz in der göttlichen Substanz, und als solche von dieser zu unterscheiden sey, ift dort noch eine verborgene: das Christenthum erst ist diese Erkenntniß des nicht nur in ſich, ſondern auch aus sich seyenden Gottes, und hierin die offenbare Religion.
+
+[p. 131] §.
+
+220.
+
+Wer den, welchen die Schrift und Kirche den Sohn, das Wort nennt, nur eine Kraft Gottes nennen wollte, hätte hiemit nicht ihn, sondern das dem Vater und Sohn gemeinschaftliche bezeichnet. Noch weniger ist der Sohn als eine von den Kräften des Vaters zu denken:
+
+denn so würde man in dem Einen, göttlichen Wesen eine Pluralität von Söhnen annehmen müſſen.
+
+Wer aber mit Umgehung und Vermeidung der Vorstellungen von Vater und Sohn lieber sagen wollte: Gott existire mit Gott (cum Deo) würde den Begriff der Wesenseinheit Gottes zerstören, nur eine äußere Verbindung zweier Weſen ſtatuiren.
+
+##### §. 221.
+
+Der Begriff des Sohnes Gottes ist auch nicht zu verDenn in wechseln mit dem eines göttlichen Lehrers.
+
+folcher Einheit des Sohnes mit dem Vater wäre ' nur von der Aehnlichkeit oder Gleichheit des Denkens die Rede, nicht Der Begriff des Sohnes Gottes und aber des Seyns. ſeiner Einheit mit dem Vater will offenbar ein inneres Wesensverhältniß aussagen, von welchem die Lehre nur das Zeugniß ist oder die Declaration. Das Lehren an sich ist eine 1 bloße Form; die Lehre des Sohnes hat ihren ſubſtanziellen Inhalt an dem Wesen des Vaters. Das Wesen Gottes aber kann nur offenbaren, der Gott selber ist und der, dem er es offenbart durch seinen Geiſt. Matth. 11, 27. 1. Cor. 2, 10.
+
+##### §. 222.
+
+Die Einheit des Sohnes Gottes mit dem Vater wird ferner in Beziehung auf den Menschen, welcher zugleich der Sohn Gottes ist, abstract gedacht als bloße Uebereinſtimmung des Willens und als Gehorsam, wie die geschaffenen Dinge dem Zweck der Schöpfung folgen oder wie Menſchen, welche Gott ähnlich und mit seinem Willen übereinJ 2 [p. 132] stimmend handeln, Söhne oder Kinder Gottes heißen. Allein so ist der Sohn Gottes nur in seiner menschlichen Wesensgleichheit oder als Kreatur gedacht; Menschen aber heißen ſo nicht im eigentlichen, ſondern im uneigentlichen Sinn, nicht urbildlich, sondern nachbildlich.
+
+Existirte nicht der wahre
+
+Sohn Gottes, der es ist im eigentlichen und einzigen Sinn (uovoyevys) so könnten auch Menschen nicht Kinder Gottes heißen.
+
+Nur den wahren und einzigen Sohn nachahmend werden auch sie zu Söhnen Gottes, aber aus Gnaden und nur an Kindesstatt angenommen, aðoptirt (vodeσiα). In dem einen und einzigen Sohne Gottes und durch ihn und seinen Geist können wir Gott auch unsern Vater nennen. Ephef. 3, 1. Joh. 1, 14. 18. 5, 18. 2. Cor. . 11, 7. Hebr. 1, 5. 12, 7.
+
+##### §. 223.
+
+Die Lehre von Gott, als Vater und Sohn, war, in der Substanz des Glaubens, von Anbeginn an in der chriſtlichen Kirche geweſen, als die letztere im Anfang des vierten Jahrhunderts von zwei entgegengesetzten Seiten her Veranlassung erhielt, jenen Inhalt des Glaubens auf die Form des Wiſſens zurückzuführen, mittelſt des Begriffs die Wahrheit desselben zu erkennen und jene beiden Irrlehren auf eine bestimmte Weise von sich ausschließen.
+
+Der kirchlichen oder vernünftigen Lehre aber liegt die Declination in den beiderſeitigen Irrthum ſehr nahe und dieſer ſelbſt iſt nichts anders, als nur das abstracte Festhalten des einen und andern Moments an ihr, welches aus der Einheit mit dem andern herausgelassen, sofort in das Unwahre übergeht.
+
+Sofern jedoch diese Irrthümer in der Geſchichte des Selbstbewußtfeyns ihre Stelle haben, sind sie nothwendig in ihrer Art, und erneuern sich daher auch zu allen Zeiten.
+
+[p. 133] §.
+
+224.
+
+Sobald man nämlich ausschließlich die wesentliche Einheit Gottes festhielt, ohne zugleich das hypostatische Existiren oder die Subſiſtenz in der Substanz anzuerkennen, so mußte die Meinung entstehen, der Unterschied sey nur nominell, nicht reell, der Vater sey auch der Sohn, der Sohn der Vater und müßte was des einen ist, auch des andern ſeyn. Dies ist die Lehre, welche man in allen ihren verschiedenen Richtungen mit dem Namen des Sabellianis, mus bezeichnet. klärten Gefühls,
+
+Es ist die Lehre des dunklen, unaufges allein auf spinozische Weise sich haltend an die offenbarungslose Substanz und der Rückfall in den abstracten Monotheismus des Judenthums; welcher Vorwurf dieſer Lehre auch ausdrücklich von den Kirchenvätern gemacht wird.
+
+##### §. 225.
+
+Wenn man andrerseits ebenso abstract die hypoſtatiſche Differenz des Vaters und Sohnes festhielt, ohne die Einheit des Wesens anzuerkennen, so mußte die Lehre entstehen von einer wesentlichen Verschiedenheit des Vaters und Sohnes; der Unterschied in Gott wurde zum Unterschiede Gottes und der Welt und der erscheinende Gott als Sohn für ein Ges schöpf des Vaters erklärt.
+
+Dies ist die Lehre, welche in ihren mannigfaltigen Geſtalten und Abstufungen mit dem Ausdruck des Arianismus bezeichnet wird. Es ist die Lehre des abstracten Verstandes, einzig sich haltend an die individuelle Erscheinung, und war in der christlichen Kirche der offenbare Rückfall ins Heidenthum, welches den Arianern auch ausdrücklich von den Vertheidigern der wahren Lehre vorgeworfen wird.
+
+##### §. 226.
+
+Im Anfang des vierten Jahrhunderts, da die Wahrheit aus der Ruhe des Glaubens in den Unfrieden des [p. 134] Streits getreten, und die Unmittelbarkeit des wahren Glaubens zur Reflexion gekommen war, kam es nun darauf an, zu bestimmen, ob die christliche Kirche den Sabellianiſchen oder Arianischen Glauben annehmen sollte, und in der ſchriftlichen und kirchlichen Ueberlieferung die Nothwendigkeit dazu enthalten sey.
+
+Konnte sie aber sich weder für die eine, noch für die andere Lehre erklären, noch auch die erwachte Reflexion unterdrücken, ſo zeigt es wenig Kenntniß der wahren Geschichte und Lage der Dinge, wenn man meint, ſie hätte gar nichts thun, am wenigsten ihre Lehre so bestimmt und normirt erklären sollen: denn dieses wäre auch eine Erklärung gewesen.
+
+Daß aber diese beiden Irrthümer möglich sind, kommt bloß daher, daß die Wahrheit von der wesentlichen Einheit und dem hypoſtatiſchen Unterſchied hdher liegt, als beide und derselben Aufhebung ist; und nur die erste, speculative Entwickelung deffen, was die christliche Lehre als Wahrheit an sich enthält, ist des Athanasius großes Verdienst.
+
+##### §. 227.
+
+Ein Gott, der nicht aus sich ist, ist ebenso wenig Gott, als, aus dem nichts ist. Das erstere, die Lehre von Gott, der ewig aus sich selbst hervorgeht, ist die von der innern Selbstoffenbarung Gottes; das andere, die Lehre von Gott, aus welchem die Welt ist, ist die von der Offenbarung Gottes an eine Welt.
+
+Von der Offenbarung Gottes an die Welt.
+
+##### §. 228.
+
+Wie Gott sich selbst aufschließt und offenbar ist durch das Wort, so ist daffelbe nun auch Grund einer Welt. Aus
+
+[p. 135] Hauptſtück 1.
+
+feiner ewigen Offenbarung ist sie hervorgegangen; an ihr hat sie ihr Bestehen: in der Einheit des Entstehens und Bestehens der Welt durch göttliche Offenbarung ist diese die Vorsehung.
+
+! Von der Schip fung.
+
+##### §. 229.
+
+Die innere Offenbarung ist als die erste Erscheinung Gottes erkannt worden, als das sich selbst erscheinende, sich selber gleiche Denken.
+
+Wird aber nu die Erscheinung rein als solche oder Gott nicht sich selbst erscheinend betrachtet, so ist das Denken daran aufgehoben; in ihr, der Erscheinung, als solcher, ist das Denken sich selbst entfremdet; aber als ihm, dem Denken, nur entfremdet, ist sie das Andere von ihm, die Natur, die Welt der Erscheinung, Erscheinungswelt (Phaenomenon). Jene Negation oder Aufhebung ist eine Bestimmung, welche das Denken selbst an ihm hat; das göttliche Denken ist also nach wie vor, bei sich, nur nicht mehr bloß Reflexion in sich, sondern auch in Anderes: das ist die Welt, zunächst als Natur; sie ist nicht das Denken, sondern nur das gedachte und hierin die seyende.
+
+##### §. 230.
+
+Ift Gott, als Vater und Sohn, sich ein Anderer, so wird er sich auch ein Anderes und hiemit die Welt erschaffen.
+
+Die Welt ist, als Erscheinung Gottes außer sich oder als des Schöpfers, Entäußerung seines Wesens: sie ist das Aeußere, aber nicht in seinem abstracten Daseyn, sondern im innern und wesentlichen Verhältniß zu Gott; jenes ist das [p. 136] Seyn der Welt in sich, dieses das Seyn der Welt in Gott oder Gottes in ihr; jenes ist die Schöpfung der Welt durch sich, dieses die Schöpfung der Welt durch Gott; der Begriff oder die Einheit von beiden aber ist der göttliche Endzweck der erschaffenen Welt.
+
+##### §. 231.
+
+Das Erscheinen, dem Denken und Seyn entfremdet, ist das Werden: es ist Bewegung aus dem Nichtseyn in das Seyn (Entstehen), Bewegung aus dem Seyn ins Nichtseyn (Vergehen).
+
+Das Werden ist nicht das reine Seyn, sondern ein solches, welches sein Gegentheil an ihm hat, Daſeyn, zeitliches und räumliches Seyn. Gott ist das Negative alles Werdens und Gewordenſeyns oder Daſeyns. Der Raum, das reine Außereinanderſeyn, ist nicht Bedingung des göttlichen Seyns. Aber auch als Bedingung des Denkens alles Gewordenen oder als reine Ausdehnung ist der Raum nicht eine Bedingung des göttlichen Denkens. Gott ist nicht der Raum, als die reine Ausdehnung und er ist nicht in Gott oder Gottes Attribut, wie der Pantheismus oder Spinozismus lehrt.
+
+##### §. 232.
+
+Wie Gott über den Raum hinaus und hiemit die Macht ist über jeden Raum, so ist auch sein Wesen, weder in der Zeit oder Zeitliches, noch die Zeit selbst zu seyn und ſie in ſich zu haben. Die Zeit, das Nacheinanderſeyn, äußerlich die Bedingung alles Werdens, ist als die beständige Bewegung aus dem Seyn ins Nichtſeyn und aus dem Nichtseyn ins Seyn, unvermögend, zum Seyn zu gelangen, und somit die, Unruhe, das Nichtseyn und Nichtige selber. Aber auch innerlich als Form des Denkens und der Anschauung alles Werdens und Gewordenseyns ist die Zeit nicht in Gott.
+
+##### §. 233.
+
+Das Seyn der Welt in Raum und Zeit ist ihr Seyn in sich selbst.
+
+Als solche ist sie da, hat Daseyn.
+
+Sie ist die Thätigkeit und beständige Bewegung im Entstehen und Vergehen, und die sich selbst zur Ursache habende Wirkung. In dieser Thätigkeit und beſtändigen Veränderung bleibt ſich die Welt gleich, und dieses ist die Einheit der Welt.
+
+ihr produzirt ſich alles einzelne aus dem andern und formirt sich oder giebt sich auch selbst die Gestalt. In beiden ist die Welt die sich selbst erschaffende.
+
+Nicht aber ist beides außer einander, keine Form vor der Materie, keine Materie vor der Form. Die chaotische Vorstellung von einem Chaos, das der Form oder gestaltgebenden Thätigkeit vorhergegangen, ist ebenso unwahr, wie die von einer Form oder dem Existiren der Welt als göttlicher Gedanke, ehe es zur wirklichen Erschaffung kam.
+
+##### §. 234.
+
+Allein in diesem ihren sich selbst Erschaffen hat die Welt keine Wahrheit; sie ist vielmehr darin die nichtseyende, daß ſie nur die werdende und als solche nur die räumlich und zeitlichfeyende, die entstehende und vergehende ist. Dem Sinn und Verstande, dem die Welt nur in dieser ihrer Räumlichkeit und Zeitlichkeit erscheinet, ist die Welt mit Recht nicht ein Werk Gottes, sondern nur ihrer selbst, nur ein Product (der Welt), nicht eine Kreatur (Gottes) .
+
+Eitel und vergänglich, wie eine solche Vorstellung von der Welt, ift alsdann nothwendig alles in und an dieser.
+
+Denn ihr wahres Seyn hat sie nicht in diesem ihrem Insichselberſeyn, ſondern allein in ihrem Seyn in Gott, welches das Seyn Gottes ist in ihr.
+
+Daß also die Welt die sich selbst erschaffende ist, hat sie nicht von sich, sondern von dem, der ihr Schöpfer, und in welchem alles Werdende und Erschaf fene enthalten ist: der Grund der Selbstschöpfung der Welt ist ihre Schöpfung durch Gott.
+
+[p. 138] §.
+
+235.
+
+Diese aber ist nicht ein äußerliches Verhältniß Gottes zur Welt oder ein einzelner Act in einer bestimmten Zeit, nichts geschichtliches: denn alle Zeit oder Zeitbestimmung ist erst mit der erschaffenen Welt wirklich.
+
+Jene Lehre, ob wohl sie die Welt aus Gott entspringen läßt, trennt doch zugleich den Schöpfer von dem Geschöpf, indem sie dieſes sofort auf seine eignen Füße stellt und ſelbſtändig in sich be stehen läßt, wie der mechanische Künstler sein Werk, sobald es fertig geworden, sich selbst überläßt.
+
+Dieses ist die Pe lagianische Irrlehre. Aber auch in der Welt seiend und wir kend und aller erschaffenen Dinge Prinzip ist Gott doch nicht die Welt, sondern sie das Andere gegen ihn und er ewig über ihr, somit ewig das supramundane Wesen.
+
+Alles Pantheismus eigentlichste Natur ist, den Schöpfer und das Geschöpf zu confundiren, beide mit einander zu verwechseln.
+
+##### §. 236.
+
+Die Wahrheit, daß Gott Schöpfer sey, und die Welt von ihm geschaffen, wird begriffen mittelst der Reflexion auf das in ihr Offenbarſeyn Gottes, welches zugleich ihr Seyn in ſich und in Gott ist.
+
+Gott ist die einzige Substanz, der einzig Ewige und einzig Allgenugsame, die Welt aber das rein allein sich auf sich selbst beziehende Ganze, die sich selbst produzirende und als solche productive Thätigkeit. Als solche ist sie bewußtlos und das Negative der Vernunft.
+
+Sich rein allein auf sich selbst beziehend ist die Welt durch sich produzirt und reproduzirt sich immerdar aus sich, und ist in beiden sich selbst genug und für sich.
+
+##### §. 237.
+
+Sich so nur auf sich selbst beziehend ist die Welt ein Relatives, kein Absolutes, und hat in diesem ihrem Daseyn Sie ist vielmehr weder Wahrheit, noch Nothwendigkeit, [p. 139] darin nur ein ganz Zufälliges und Unselbständiges. erscheint als ein Selbständiges nur der finnlichen Gewißheit und Wahrnehmung;
+
+in dieser Einzelheit der Dinge steht sie ganz außer einem allgemeinen Zuſammenhange, nur in der Vorstellung.
+
+In dieser atomistischen Materialität ist die Welt nur die sich selbst schaffende und die nicht von Gott geschaffene (Materialismus).
+
+##### §. 238.
+
+In dieser ihrer Bewußt- und Vernunftlosigkeit, nur in der Möglichkeit die vernünftige zu seyn, kann die Welt nicht bleiben, hat kein Bleiben darin, ſondern die Bewegung und den Trieb aus dem Daseyn in das Bewußtseyn und hiemit erst wahrhaft zu sich selbst zu kommen.
+
+Die Vernunft, von der Idee Gottes geleitet, und die Sinne und den Verstand durchdringend erkennt, daß Sinne und Verstand, in ſich selbst zu seyn und sich zu genügen ſtrebend und darin fälschlich seyend, solch falsches Seyn auf die Welt übertragen müſſen und annehmen, daß auch sie bloß in und aus sich selber seyend wirklich sey. In der Vernunft erst kommt die Welt zum Bewußtseyn: aber selber nicht seyend, wenn das Bewußtlose als Daſeyn nicht wäre, hat für das Bewußtſeyn die Welt Nothwendigkeit.
+
+Nicht also die Erscheinungswelt,
+
+ſondern nur das Bewußtseyn von ihr hat Selbſtändigkeit. In dem Bewußtseyn der Vernunft und Freiheit erst wahrhaft zu sich selbst gekommen, erkennt die Welt sich als nothwendige Schöpfung Gottes (Idealismus).
+
+##### §. 239.
+
+Allein das Bewußtseyn hat in sich selbst nicht die Nothwendigkeit seiner selbst, welche hiebei vorausgesetzt iſt. Auch die Wirklichkeit der Welt und ihres Daseyns, wie ſie wahrgenommen, erfahren und Gegenstand des Bewußtseyns wird, hat darin noch keine Nothwendigkeit und ist kaum
+
+[p. 140] Zweiter Theil. • mehr, als die Möglichkeit.
+
+Die Welt in ihrer Wirklichkeit und das Bewußtſeyn beziehen sich nur auf einander und das eine ist die Voraussetzung des andern. Auch in dieser Relation können sie nicht bleiben und weisen sie selbst schon über sich hinaus.
+
+Indem der Materialismus und Idealismus sich gegenseitig ausschließen, und der eine die Negation des andern ist, heben sie sich gegenseitig auf. Für ihre Wahrheit und Wirklichkeit kann die Welt, als Natur und Bewußtseyn, nur in dem an und für sich nothwendigen und A absoluten Wesen, welches die Einheit und das Prinzip der Natur und des Bewußtseyns ist, Gewähr und Bürgschaft finden: denn nur in der Welt, als Natur und Bewußtseyn, kann die unendliche Vernunft und Freiheit sich verwirklichen und erst in dieſem göttlichen Zweck ist die Welt in ihrem wahren Begriff, oder wahrhaft begriffen. Der Geist der offenbaren Religion, welcher das Wissen ist in der offenbaren Religion, ist die Aufhebung des Materialismus und Idealismus und die Wahrheit beider.
+
+##### §. 240.
+
+Daß also die Welt kann in 1 sich seyn und aus sich ↑ selbst seyn oder werden, das hat sie nicht von sich, sondern Sofern die Welt nur sinnlich wahrgenommen wird in dem Werden und Gewordenſeyn aller Dinge, scheint von Gott.
+
+sie nur sich selbst ihren Ursprung zu verdanken. Ebendieses ihr bloßes Scheinen aber ist nicht ihr Seyn, ist ihr Nichtseyn oder Nichts.
+
+Aus diesem Ungrunde, Nichtgrunde, oder diesem Nichts, welches in allem Werden und die negative Bestimmung des Seyns selbst im Werden ist, geht die Welt nur dem Bewußtseyn auf und hervor, und dieses ist der nothwendige Gedanke einer Schöpfung der Welt aus Nichts.
+
+Hebr. 11, 3.
+
+2. Macc. 7, 28.
+
+Rom. 4, 17.
+
+Die wahre Gott folgende Betrachtung der Welt ruft daher diese stets hervor aus dieſem ihrem Nichts, 2. Cor. 4, 7.
+
+[p. 141] welches immerdar das Eitle und Nichtige ist an ihr, wie an dem sie also betrachtenden Sinn und Verstande. Die göttliche, wahrhaft seyende Welt, welche nur von der Religion gewußt wird in ihrer Wahrheit und Realität, liegt aller erscheinenden nur zu Grunde; als Grund der Erscheinung aber des 1 allein wahrhaft ſeyenden kann sie nicht erscheinen. Die Wahrheit dieser Welt ist nicht sie, ſondern die andere Welt, nicht das Reich dieser Welt, sondern das Reich Gottes. Joh. 18, 36. 1. Cor. 7, 31. 1. Joh. 2, 15. Luc. 17, 20. 21.
+
+##### §. 241.
+
+In diesem seinem Reich ist Gottes Gedanke die Macht aller Dinge.
+
+Er selbst bedürfnißlos und sich selbst genug, und also auch keiner Welt bedürftig läßt sie hervorgehen aus seiner freien Liebe und thut sich darin selbst genug, weil er nur darin sich selbst genug ist. ist der Welt Nothwendigkeit.
+
+Gottes freie Liebe
+
+Diese göttliche Liebe, als das
+
+Prinzip der Welt oder der Einheit der Natur und des Bez wußtseyns, iſt das Göttliche der Natur und des Bewußtſeyns und die beide erschaffende Macht, die Welt als Natur und Sinnenwelt also nicht mehr das bloß abstracte, atomistische Seyn, ſondern das als Denken sich in sich reflectirende Seyn, ſomit nicht ohne das Denken, welches vielmehr darin nur aufgehoben ist und in seinem Uebergang aus dem Daseyn in die Lebendigkeit und den Organismus und von da mittelst der Begierde und des Willens in das Bewußtseyn, den Proceß des Denkens im Seyn nachweiset, in welchem das Bewußtseyn die Welt sich gegenständlich macht.
+
+Aber auch das Bewußtseyn iſt nicht mehr das abstracte, idealiſtiſche Denken, ſondern nur ein aufgehobenes Moment in dem göttlichen Geiste, welcher wie die Wahrheit der Welt und des Bewußtseyns, so auch derselben Wirklichkeit ist, und ihr Realität giebt.
+
+[p. 142] §.
+
+242.
+
+Der Begriff der Welt, als Gottes Schöpfung, ist auch der Endzweck der Weltschöpfung: denn der Zweck ist Begriff.
+
+Die Antwort auf die Frage:
+
+wozu die Welt oder welches der Zweck der Welt ſey, ist nicht zu finden im Das ſeyn der Welt an sich, noch im Bewußtseyn an sich.
+
+beiden ist der Zweck noch ein´relatives, bezieht sich auf das Mittel, und dieses ist selber wieder Zweck.
+
+Nichts ist da
+
+Zweck an sich oder Endzweck. Sondern der Zweck der Weltschöpfung ist allein zu finden in dem Seyn und Offenbarſeyn Gottes in der Welt und der Welt in ihm, welches die die unendliche Verwirklichung seines weisen und heiligen Rathschlusses ist. Die Welt ist nicht geschaffen um ihretwillen, sondern um Gottes willen.
+
+##### §. 243.
+
+Der göttliche Endzweck der Welt ist absolut und ewig, wie Gott selbst. Nicht also geht der Gedanke der Welt in Gott, als Begriff oder Zweck der Welt, ihr vorher; sondern sein Seyn ist ihr Daseyn und ihre Nothwendigkeit. Ebenso ist der göttliche Endzweck, als der ewige Rathſchluß, nicht nur der erreichbare, ſondern auch ewig erreicht. Weil die Welt aus der ewigen Liebe Gottes zur Welt hervorgegangen, und ſie an ihr das Prinzip- ihres Daseyns hat, geht ewig die Liebe Gottes auch aus der Welt hervor. Die Welt ist geschaffen zu Gottes Verherrlichung, zu Gottes Ruhm und Ehre. Sie ist geschaffen um der Religion willen, damit Erkenntniß und Verehrung Gottes sey.
+
+Sie ist geschaffen von Gott, um sich zu offenbaren, zu zeigen, daß er sey und so ist es nun auch der Welt Bestimmung, in dieser Offenbarung Gottes zu leben, immerdar auf ihn, als ihren weisen und heiligen Urheber hinzuweisen, dem göttlichen Wort, das alles Werdende und Gewordene ins Daseyn ruft, gelassen zu bleiben, damit es sich und seine göttliche
+
+[p. 143] Macht und Herrlichkeit darin aussprechen kann. Röm. 1, 20. Apoc. 4, 11. Pf. 8, 2 -- 10. 1. Cor. 3, 22.
+
+##### §. 244.
+
+Kann die gedankenlose Natur weder ihrer selbst, noch Gottes sich bewußt werden, so hat sie im Bewußtſeyn und mithin auch dieses die Bestimmung, daß es auch ihrer als eines Werkes Gottes inne werde, ihn in ihr wahrnehme, verherrliche und preiſe.
+
+Aus sich dem Bilde Gottes erkennt die menschliche Seele auch in der Natur die Spuren Gottes. Die Werke der Schöpfung eröffnen und erseßen dem Menschen, der die Züge des Geistes noch nicht versteht und auf der untersten Stufe des menschlichen Daſeyns steht, eine heilige Schrift. In Vergleich mit demjenigen, was geringer ist, als der Mensch, kann man mit Recht sagen: um des Menschen willen sey die Welt und Natur geſchaffen und ihn den Herrn der Schöpfung nennen. Dieses aber ist er nicht um ſeinetwillen, sondern sofern er sich Gottes, als ſeines und des Weltalls Schöpfers, bewußt geworden.
+
+##### §. 245.
+
+Denn der Endzweck der göttlichen Schöpfung der Welt ist nicht, Gott zur Welt oder die Welt zu Gott zu machen, ſondern als Schöpfer ist er ewig der Unerschaffene und als Geschöpf die Welt nicht der Schöpfer.
+
+Theilnehmend als
+
+Kreatur an dem göttlichen Wesen und desselben theilhaftig 2. Petri 1, 4. ist sie nicht ein Theil von ihm und hätte schon nur dieses seyend nicht die Selbständigkeit Gottes, der nicht ist durch Theilhaftigkeit an, oder gar Theilſeyn von` einem andern.
+
+Ist, nach Spinoza selbst, nur Eine absolute
+
+Substanz, so ist das nur Theilnehmende und Theilſeyende (modus) nicht die absolute Substanz, weder in seiner Einzelheit, noch in seiner Totalität, in der es doch über die Subjectivitât und das atomiſtiſche Daseyn nicht hinauskommt:
+
+[p. 144] und auch die Allheit der unſelbſtändigen giebt uns nicht den Begriff der Selbständigkeit oder absoluten Substanz. Dieser Pantheismus bleibt vielmehr in dem Irrthum ſtehen, es sey das Verhältniß Gottes zur Welt jenes der Homouſie oder der Gleichheit und Identität Gottes, des Vaters und Sohnes und ist ebendadurch unvereinbar mit der christlichen Religion.
+
+##### §. 246.
+
+Das Hervorgehen aus einem andern zwar ist dem Sohn Gottes und der Welt gemein: aber es ist in Beziehung auf beide ein anderes und ungleiches. Jenes ist das Hervorgehen des Sohnes aus der Substanz des Vaters, und wird daher im Unterschied von der Schöpfung als Zeugung vorgestellt, deren Begriff die Mittheilung des Wesens oder der gleichen Substanz ist: die göttliche Substanzialität ist im Vater und Sohn dieselbige. Die Vorstellung hingegen von der Schöpfung aus Nichts ist zwar zunächst nur Reflexion auf das Seyn im Werden, welches das Nichtſeyn zu seiner nothwendigen Voraussetzung hat; aber auch sie hat ihre Wahrheit in dem Begriff, daß die Welt nicht so, wie der Sohn, hervorgegangen aus dem allerrealsten, nicht selbst der Sohn, nicht der von Ewigkeit her gezeugte sey, und somit wesentlich verschieden von Gott.
+
+Gott ist als Sohn darin verſchieden von der Welt, daß er nicht ist eine Kreatur, nicht eins von den geschaffenen Dingen, sondern der Schöpfer selbst.
+
+##### §. 247.
+
+Daß Gott, als Sohn, der Weltſchöpfer iſt, nach chriſtlicher Vorstellung, hat seine Wahrheit in dem Begriff der göttlichen Weltschöpfung selbst.
+
+Darin, daß Gott ſich offenbart und diese Offenbarung selber ist oder der Sohn, ist er der Weltschöpfer. Joh. 1, 3. 10. Heb. 1, 2. 10. Ephes. 3, 9. Gott
+
+[p. 145] Gott nicht in seinem abstracten Ansichseyn, als Vater, sondern in seinem Offenbarſeyn oder als Sohn (loyos) ist der Schöpfer der Welt.
+
+Die Thätigkeit also der Welt, welche das Erschaffen ist, hat ihr Prinzip an dem göttlichen Wesen, welches nicht erschaffen, nicht aus einem wesentlich 'andern, sondern aus sich selber ist. Gott aber, nicht aus einem andern, ſondern aus Gott, ist der Sohn.
+
+Somit hat der Vater durch den Sohn die Welt geschaffen, Joh. 8, 58. 17, 5.
+
+Col. 1, 16.
+
+Aber als Logos ist er zugleich die absolute Geistigkeit und die denkende Macht und diese Lehre schließt somit auch den Geiſt nicht aus. Wie auch Anaxagoras schon den Nus, den Gedanken, als das Prinzip der Welt, die Welt als hervorgegangen aus dem Gedanken, bestimmte. Die Liebe, aus der in Gott die Welt hervorgegangen, ist der Antheil des Geistes an der Weltschöpfung, und diese somit die ewig geistige Thätigkeit Gottes.
+
+##### §. 248.
+
+Die Welt in dem Menschen zum Bewußtseyn gekommen erkennt sich in ihrer Ursprünglichkeit ebenso sehr aus Nichts, als aus Gott, und dieser zwiefache Ursprung, an sich der einfache, ist die Einheit der Welt mit Gott. Diese Einheit ist aber in dem Menschen in ihrer Wahrheit, nach der Vorstellung der christlichen Religion, Ebenbildlichkeit.
+
+nichts anderes, als die
+
+Verschieden von allem, was im Unterschiede von dem Menschen Welt heißt, ist der Mensch darin, daß von ihm allein die Religion die Vorstellung enthält, als dem von Gott nach seinem Bilde geschaffenen.
+
+Der bestimmteste Ausdruck der wahren, ursprünglichen Ein heit des Menschen mit Gott ist diese Vorstellung von dem Menschen, als dem göttlichen Ebenbild. Das Jrdidische oder von der Erde stammende mit dem Geiste ver knüpft, ist der lebendige, beseelte Leib des Menschen. Das Göttliche, von Gott unmittelbar ausgehende und dem Leibe K [p. 146] verknüpft, ist der Geist.
+
+Die Einheit des Leibes und Geistes aber ist die Seele; in ihr ist das Sinnliche und Geistige eins, und in dieser Einheit besteht die Wirklichkeit des Menschen.
+
+##### §. 249.
+
+Das Verhältniß des Menschen zu Gott ist zunächſt an sich noch das concret unmittelbare, und dieses ein solches, von welchem auch die Gottähnlichkeit nicht ausgesagt wer den kann: denn diese seßt voraus, daß das, welches ähnlich ist, und das, welchem es ähnlich ist, als bereits auseinander getreten erscheinen.
+
+Es liegt aber ebenhierin die Nothwendigkeit des Fortgangs zur Unterscheidung Gottes und des Menschen, und dieses ist zunächst die Lehre von Gott, als Schöpfer und von dem Menschen, als dem geschaffenen, sodann die Lehre von ihm, als dem göttlichen Ebenbild. Hierin wird Gott gedacht als das Urbild, der Mensch als das Nach- oder Ebenbild, und beide beziehen sich nothwendig auf einander.
+
+Die Beziehung selbst aber, als Reflexion in anderes, ist zunächst Reflexion in sich und das Nichtunterſchiedene, das Gleiche, welches sich selbst in die Vergleichung hineinzieht und ohne welches auch diese nicht seyn könnte.
+
+##### §. 250.
+
+Hat aber die Vergleichung das Gleiche, die Aehnlich keit die Identität zu ihrem Ausgangspunct, so führet dieses zunächst und in seiner Unmittelbarkeit über die Vergleichung des Geschöpfs mit dem Schöpfer hinaus, und ſehet die Gleichheit in Gott und ist nichts anderes, als das Verhältniß des Sohnes zum Vater.
+
+Der Vater ist im göttlichen Wesen das Urbild, der Sohn das Ebenbild, und so ist in dieser Beziehung Gottes auf Gott nicht zunächſt der Mensch, sondern Gott sich selber gleich oder der gottgleiche Gott, d. i. der Sohn das wahre göttliche Ebenbild, in dieser Des ziehung also der Menſch nicht die imago Dei, sondern nur der Schöpfung.
+
+Jenes mit Gott vollkommen identische ad imaginem. Ebenbild ist die Offenbarung Gottes und sie ist wie das so auch der Ebenbildlichkeit des Prinzip der Schöpfung,
+
+§.
+
+Das erste Moment
+
+251.
+
+des Unterschiedes zwischen Gott und dem Menschen, welches zugleich das wesentliche Verhältniß beider ist, ist nun das Auseinandertreten des ges schaffenen Ebenbildes und des unerschaffenen, welches der Schöpfer ist, und dieses erst ist die Gottähnlichkeit des Menschen.
+
+In ihr ist das göttliche Ebenbild nun auch das menschliche und der Mensch bestimmt, die ewige Offenbarung, das Wort Gottes, zu vermenschlichen oder menschlicherweise in sich darzustellen. Die Seele des Menschen sollte der Spiegel Gottes seyn, in welchem das göttliche. Ebenbild menschlich sich zeigte, indem es nur auf dasselbe, als seinen Ursprung, hinzeigte, und nun auch in solcher Reflexion in anderes aus ihr zurückſtrahlte in der Welt. Der schriftlichen Tradition zufolge nahm Gott den Geist des Menschen von seinem Geist, und der Geist ist eben die wesentliche Form des göttlichen, menschlich gewordenen Ebenbildes. Aber der wesentliche Inhalt des Ebenbildes ist in und mit dem Geiste, als dessen Form, die göttliche Weisheit und Heiligkeit.
+
+Daß beide göttliche Eigenschaften nun in mensch licher Weise existirten, ist das Wesen oder der Begriff des göttlichen Ebenbildes. 1. Mos. 27. 5, 1. 2. 9, 6. Col. 1, 15.
+
+Jac. 3, 9. §.
+
+252.
+
+Als Geist des Vaters und Sohnes im Menschen seyend ist Gott der Schöpfer des Menschen nach seinem Bilde und' der Mensch, in diesem innern und immanenten Verhältniß selber seyend in Gott, das göttliche Ebenbild. R2
+
+Der we [p. 148] fentliche, gehaltvolle Grund des Menschen (ratio, horos) stellet die göttlichen Eigenschaften der Weisheit und Heilig keit in ihm menschlich dar und so ist er, durch diesen Grund begründet, das vernünftige und freie Wesen.
+
+Die Einheit aber des vernünftigen Denkens und freien Wollens ist die Unschuld, diese aber des Menschen ursprünglicher Zustand nur, sofern er ebenso sehr der Nichtheilige als der - . Nichtschuldige ist. Rom. 5, 12 — 21.
+
+##### §. 253.
+
+Der Begriff der Unſchuld enthält vorerst nur die Möglichkeit der Vernunft und Freiheit und der primitive Zustand des Menschen ist somit ein nur der Anlage nach wirklicher.
+
+Zur wirklichen Unschuld gelangt der Mensch erst, wenn sie selbst sich wirksam erwiesen und er aus der Schuld zur Unschuld zurückgekehrt oder der erlösete ist.
+
+Der Be griff von dem Menschen, als dem göttlichen Ebenbilde enthält zunächst und in dem ersten Momente des Unterschiedes zwischen Gott und dem Menschen, was Gott in ihm angelegt und aus ihm gemacht hat, ehe er irgend etwas noch aus sich selber gemacht hat.
+
+Das göttliche Ebenbild ist somit die göttliche Fähigkeit zu allem Göttlichen, oder die Empfänglichkeit dafür: allein dieſe Empfänglichkeit ist selber nur durch Gott und von Gott: empfänglich für das Göttliche kann nur seyn, was in dem Grunde und Ursprung seines Wesens selber göttlich ist.
+
+In jedem Zustande ihres
+
+Wesens weiset und strebt daher die Seele zurück zu dem Bilde, durch dessen Daseyn in ihr sie selbst erst geworden und geschaffen ist, dahingegen ein Spiegel auch ist, ohne daß irgend etwas in ihm sich darstellt, weil er nicht erst durch das in ihm enthaltene Bild zu demjenigen geworden ist, was er ist.
+
+Dies ist die angeborne Sehnsucht aller Seelen nach dem Sohne Gottes, der ihrer aller Grund und Leben ist.
+
+##### §. 254.
+
+Die sich ihrer selbst nicht bewußte Natur enthält nur Spuren Gottes in dem göttlichen Ebenbilde, welches dem Menschen anerschaffen ist: denn der Geist liegt in ihr noch gebunden und gedrückt durch die Materie und sie ist daher an sich selbst gedankenlos, stumm und dunkel.
+
+Das Geis
+
+ſtigſte in der Natur ist das Licht und es steht daher auch der Religion am nächsten.
+
+Aber zu einer Offenbarung des
+
+Geistes, zum Wort, kommt es nicht im ganzen Umkreise der Natur, weil der Geist allein nach dem Ebenbilde Gottes geschaffen worden, als welches an sich die Offenbarung des Geistes, das Wort (loyos) ist.
+
+Dem Geiste des Menschen allein ist daher die Gabe der Sprache verliehen, als Folge und Ausdruck eines Geistes, der von dem unendlichen Geiste stammt, der nur in seiner ewigen Offenbarung iſt. Er ist das Verständniß der Natur und der Bestimmung aller Dinge außer sich, was die schriftliche Tradition durch das Sprechen des Urmenſchen andeutet, der auch den Thieren Namen gab.
+
+##### §. 255.
+
+Mit diesem Verstand und Verſtändniß der Natur iſt aber der Mensch selbst nicht mehr ein bloß Natürliches, ſondern aus dem Daseyn in das Bewußtseyn übergegangen und dieſes ist das zweite, ebenso nothwendige Moment des Unterschiedes Gottes und des Menschen in dem innern Verhältniß beider zu einander. Es ist das zu Grunde gehen der Unschuld, welches zugleich auf den Grund hinweiſet, aus welchem die Schuld hervorgeht.
+
+Der Ursprung des
+
+Bösen kann weder in Gott, noch in der Welt, sondern allein in jener Einheit Gottes und der Welt gefunden werden, in der, wie sie das in der Reflexion an und für sich Gute ' ist, auch das Böse der Möglichkeit nach enthalten ist.
+
+ses besagt auch schon die Vorstellung, welcher zufolge das
+
+150 /
+
+Zweiter Abschnitt.
+
+Böse in dem von Gott geschaffenen, also im innern Verhältniß zu Gott stehenden entstand.
+
+Joh. 8, 44. Daß es aber die Einheit Gottes und der Welt ist, welche nothwendig fortgeht in den Gegensatz, ist der Grund der christlichen Vorstellung, daß Gott das Böse zugelassen und sich die Entstehung des Bösen gefallen laſſen.
+
+Matth. 5, 45.
+
+Nicht als ob jene Einheit durch das in ihr mögliche Böse selbst schon ein Böses gewesen oder geworden wäre: denn es ist vor seinem Hervorgehen aus ihr nichts wirkliches, und in diesem seinem Hervorgehen das von ihr selbst ausgestoßene, die Einheit selbst nicht die Einheit mehr, sondern die Entzweiung. Jene Einheit ist vielmehr noch die concret unmittelbare, in der noch gar kein Unterschied zwischen Gutem und Böſem gesetzt, beides nur der Möglichkeit nach enthalten iſt.
+
+##### §. 256.
+
+In dieser unterschiedslosen Einheit ist Gott noch ganz abstract gedacht, nicht der wirkliche, sondern so unwahr gedacht, daß er selbst gleichsam der nur erst mögliche ist. Er ist noch nicht einmal, was ſein Name besagt, der Gute: Nur so fern diese Eindenn dieser Gedanke ist noch nicht.
+
+heit den nothwendigen Unterſchied an ihr hat, ist das Böse allerdings auch in jenem göttlichen Wesen enthalten, aber Der wahre und wirkliche Gott hat die als aufgehoben. Entzweiung nicht in sich, sondern er führet vielmehr die Welt aus der Entzweiung mit sich zu sich, und in die Einheit mit sich zurück: der wahre und wirkliche Gott ist er erst als der die Welt mit sich versöhnende. Jener Saß ist nur der andere, daß Gott die Welt nicht mit Gewalt an sich gefesselt hält, sondern von jener Nothwendigkeit, womit ursprünglich die Einheit der Welt mit Gott ist, die Freiheit noch nicht verschieden, sondern noch unmittelbar eins mit ihr sey.
+
+In dieser Einheit ist die Welt das Daseyn an und für sich und die unschuldige Welt.
+
+Von der Schöpfung. §.
+
+257.
+
+Sowie nun aber das Daseyn im Menschen zum Des wußtseyn kommt, unterscheidet sich die Welt von Gott und es entsteht der sich selbst entgegengesetzte Gedanke des Guten und Bösen.
+
+Der Geist, zum Bewußtseyn gelangt, muß durch dieses sein Anderswerden hindurch, um sich wirklich ſich selbst gleich zu machen, gleichwie Gott selbst nur durch die Bewegung in seinem Andersseyn oder durch die Schdpfung der Welt sich selbst gleich ist.
+
+Diese Bewegung des natürlichen oder finnlichen Daseyns durch das Bewußtseyn oder das Insichgehen des Geistes ist jedoch nichts anders, als der Gedanke, der sein Andersseyn an ihm hat; als Gegensatz vorerst nur ein gedachter, abſtracter und das Böse selbst hiemit noch nicht wirklich. Er ist vielmehr zunächſt als ein ganz gleichgültiger die bloße Verschiedenheit Gottes und der Welt.
+
+Der Verlust der kindlichen Unschuld bis an diesem Punct ist als Unterscheidung des Guten und Bösen info fern ein wahrer Fortschritt und Gewinn, als er noch nicht zugleich die Entstehung der Schuld ist, sondern nur das Zugrundegegangenſeyn der Unterschiedslosigkeit.
+
+§. 258. Der Gedanke oder das Denken des dem Guten entgegengesetzten Bösen wird daher ohne Bedenken selbst von der heiligsten Religion in Gott selbst und den Erlöser der Welt gesetzt. Es ist das Wissen von dem Bösen, welches an sich im Daseyn ist. Dieser abstracte Gedanke des Böſen ist an und für sich nichts Böses, ist nicht der böse GeJener ist vielmehr der sich dem Bösen entgegendanke. setzende und es von sich ausschließende Gedanke, und als solcher das erste Moment der Versöhnung selbst. il h böse nthe auc Gut geg Gege, hin Gedanke ist, wobei zugleich noch abstrahirt ist von allem wahrhaftigen Seyn, von welchem aus aber der Fortgang
+
+152.
+
+ist zu allem möglichen Bösen, ist der Ursprung des Gedankens an einen lediglich in seinen bösen Gedanken und Intentionen existirende Geist. Dies abstract böse Wesen, die Quelle alles wirklichen Bösen, wird als das daſeyende, dem Menschen äußerliche, aber doch auf ihn einwirkende und ihn verführende vorgestellt.
+
+1. Mos. 3, 1 — 6.
+
+Joh. 8, 44.
+
+Als Gedanke, als Zweifel an Gottes Verbot, steigt zuerst das Böse aus seinem Abgrunde hervor und in dem Menschen auf.
+
+Nicht der Gedanke an den Teufel ist das Böse, sondern das teuflische Denken;
+
+es wird daher bei jenem von der menschlichen Natur ganz abstrahirt, dieſes hingegen in den Menschen gesetzt als Verführung durch jenen und als das nothwendige zweite Moment in der Entstehung des Bösen.
+
+Es ist zuerst als abstract böser Geist, als das böse Denken die Negation des Seyns, das also als solches kein Seyn hat, sondern nur das gedachte ist, aber auch der böse Gedanke selbst und darin zur Wirklichkeit gelangt, daß er die Negation des Guten und somit ein positives selbst ist, welches das Gute mit sich inficirt. 2. Cor. 11, 14, Ohne alles wahrhaftige Seyn hat der böse Geist, als der aus der menschlichen Natur hinausgehaltene Gedanke des böſen Gedankens, in der Verführung Daseyn, und in diefem Fortbrennen und Fortwüthen die einzige Continuität ſeines Daseyns.
+
+##### §. 259.
+
+Durch das in das Wollen übergehende böse Denken, welches das Denken der Unwahrheit ist, wird der Wille bestimmt und hierin erst, als in seinem dritten Moment, verwirklicht sich das Böse. ' So aber wird nur der Wille beſtimmt, der als solcher nicht sich selbst bestimmend, nicht der freie, sondern nur in der Möglichkeit der Freiheit ist. Die wirkliche Freiheit nämlich ist das nothwendige ſich ſelbſt Bestimmen und diese Nothwendigkeit ſelbſt, und iſt als solche
+
+[p. 153] Hauptstück 1.
+
+die nothwendige Uebereinstimmung des menschlichen Willens mit dem göttlichen.
+
+Von dieser Nothwendigkeit sich emancipirend und sich dagegen setzend, ist er der verführte, die nothwendige Selbstbestimmung unterlassend, wird die 1 Freiheit zum Widerspruch, zur Opposition.
+
+Das Böse nun ist ent
+
+ſtanden darin, daß Freiheit und Nothwendigkeit sich einander entgegensetzten, es ist dieser innere Widerspruch, nicht als das Denken des Guten und Bösen in seinem Gegensatz oder das Bewußtwerden des Unterschiedes, sondern als die Entzweiung, in die der Mensch sich durch die gewollte That mit Gott und sich selber seßt. In dem Bösen, als der positiven Negation des Guten, ist der Mensch der Gott und sich selbst Widersprechende und Widerstrebende, und darin ist keine Vernunft und Freiheit mehr, welche beide als Unschuld in ihm waren.
+
+Dieser Verlust der Unschuld ist ein
+
+Positives, ist Feindschaft zwischen Gott und dem Menschen, der Verlust des göttlichen Ebenbildes.
+
+Der Mensch, noch ebenso sehr der Nichtheilige als Nichtſchuldige, ist nun der Unheilige und Schuldige geworden.
+
+##### §. 260.
+
+Das Entstehen der ersten Sünde begreift sich somit leicht aus der Schwachheit der kindlichen Unſchuld: in dieser Ununterſchiedenheit seiner von sich ist weder Gutes noch Bôſes in ihm, als seine eigne That; das Unschuldigſeyn ist zugleich noch das Nichtsthun.
+
+Diese Unschuld aber selbst als eine solche zu wissen, welche die Schuld an ihr hat, ist einer der stärksten Fortschritte der neuern Philoſophie. Um sich aus dieser einfachen Unmittelbarkeit zu erheben und es zur That des Guten zu bringen, muß das Selbstbewußtseyn erst den Unterschied setzen, der in der aus der Natur herkommenden Begierde und im Willen sodann zu dieser Entzweiung wird. Erst jenes Bewußtseyn des Unterschiedes zwischen gut und bös ist der Anfang der Selbständigkeit;
+
+das ebendamit zugleich [p. 154] entstehende Böse aber die Bewegung aus der Selb, ſtändigkeit in die abſolute Unabhängigkeit, und hiemit Verlust der wahren Selbständigkeit oder Freiheit.
+
+In und zu der Selbständigkeit geschaffen, welche die Abhängigkeit des Geschöpfs von seinem Schöpfer ist, konnte die Welt keine Maschine ſeyn oder als solche von Gott dem allerfreieſten behandelt werden, und es konnte somit auch das Hineingerathen in jenen Gegensatz und Widerspruch von Gott nicht mit Gewalt verhütet, oder verhindert werden.
+
+##### §. 261.
+
+Das natürliche Verderben ist somit eine Des
+
+ſtimmtheit und Zuſtändlichkeit, womit der aus dem natürlichen Daseyn in das Ichseyn übergegangenen Geist, als mit einer Krankheit behaftet ist.
+
+Es ist die Sündhaftigkeit. Allein weder das natürliche Daseyn an sich, noch das Ichseyn an sich, also weder die Natur an und für sich, noch das Ich an und für sich, ist das wirkliche Böse.
+
+Jenes An-und-für sichseyn ist es vielmehr nur als das mögliche Böse, die Labilität der Kreatur. Für das Bewußtseyn ist vielmehr das natürliche Daſeyn die nothwendige Voraussetzung und nicht durch das Natürliche an sich, sondern allein durch das Natürliche seines Bewußtseyns kommt der Mensch zu Fall. Nicht also das Endliche oder Endlichseyn an sich, welches das Verschiedenſeyn ist von Gott, sondern das sich Verendlichen, dies, daß das Endliche dem Unendlichen widerstrebt und widerstreitet, und nicht auch die Verschiedenheit des Endlichen und Unendlichen, sondern der Widerspruch und die Perverſität ist zu tilgen. Nicht also auch das Ich ist von sich selbst, ſondern nur von diesem Widerspruch und insofern zu befreien, als das Ichseyn in die Ichsucht, das Selbſtſeyn in die Selbſtſucht umgeschlagen, es also von dem ausschließlichen Festhalten an sich zu erlösen, damit es, nicht durch Gott, sondern durch ſich böse geworden, nun durch Gott und sich zugleich gut werde. *
+
+##### §. 262.
+
+Als das Ich aber, hergekommen aus dem natürlichen Daseyn und dieses beständig an sich habend, ist der Mensch der natürliche, sich rein allein auf sich selbst beziehende,_der fleischlich und irdisch gesinnte;
+
+in diesen seinem Zustande aber das Böse in allen Gestalten ein Act seines Bewußtſeyns, seines Denkens und Wollens. 1. Cor. 2, 14, Rôm. 7, 14. 8, 5. 6.
+
+Sein Denken ermangelt der Wahrheit, sein Wollen der Freiheit.
+
+Das Denken, in seiner abstracten Form, erkennt nicht das Vernünftige allein für das wahrhaft wirkliche, ſondern das Sinnliche und Materielle, und ist in dieser Form ein Wahrnehmen, d. i. ein das Sinnliche für das Wahre und Wirkliche nehmen.
+
+So den Schein des Wirklichen für das Wirkliche selber nehmend, an der einzig wahrhaftigen Realität des Göttlichen aber zweifelnd, ist dem Menschen das Sinnliche nur das Wahre, das Ueberfinnliche, Göttliche, Heilige hingegen das Unwahre und Unwirkliche: er lebt mit seinem Gedanken in der Sinnenwelt und ist darin der Unvernünftige.
+
+Mit dieſem ſeinen Denken oder dem in sich Reflectiren des Daseyns als Bewußtseyn ist ſein Wollen identisch.
+
+Das Sinnliche und als das Wahre und Wirkliche denkend,
+
+Irdische nur ist es ihm auch seine einzige Liebe, sein einzig Verlangen, es entzündet sich in ihm die Gier danach, es entsteht das Gelüsten, und so wird er aus dem Freien ein Sclav der Luft.
+
+Der Sündenfall ist das in der Natur des Geschöpfs entstandene Verlangen, ganz nur mit seinem Bewußtſeyn in und von sich, wie Gott, nicht aber in und von seinem Schöpfer zu seyn und zu bestehen, das Streben, nicht Gott ähnlich, sondern Gott selbst zu seyn. 1. Mos. 3, 5. Hierin geht die Einheit des Menschen mit Gott verloren und ist das Böse als das mit Gott entzweite Bewußtseyn demnach das Nurmenſchliche.
+
+Matth. 16, 23.
+
+[p. 156] §.
+
+263.
+
+Die Unschuld in der Schuld ist das Verführtseyn, die Schuld in der Unschuld ist das Eich-verführen-laffen.
+
+mit der Unschuld identische Schuld kann also mit Recht als ein der eignen That fremdes und äußerliches, dem Menschen feindseliges, nachstellendes und ihm Gewalt anthuendes vorgestellt werden.
+
+Allein auch so fällt sie doch nicht über sein Bewußtseyn hinaus, wie sich besonders in dem Bewußtseyn der Möglichkeit des Fund giebt.
+
+Gegentheils, der Reue u. f. f.
+
+In der That ist es das äußerlich - innerlich
+
+Wahrgenommene und ihn Gelüftende, was ihn verführt, er wird verführt, indem er zugleich sich verführen läßt und indem er gereizt und gelockt wird, ist er es doch selbst, der die That beschließt und sich entschließt, statt der ihm anerschaffnen Vernunft und Freiheit nur das gehaltlose Denken und Wollen zur Wirklichkeit zu bringen und jene beiden der Wahrnehmung und der Luft unterzuordnen.
+
+##### §. 264.
+
+Dieses aber, daß selbst die entschiedene Schuld nicht ganz ohne die Unschuld oder Nichtschuld ist, wie schon die allgemeine Erinnerung an diese mitten in jener zeigt, macht nun auch andrerseits, daß nicht absolut das göttliche Ebenbild, Vernunft und Freiheit verloren gegangen, sondern, ob gleich des wahren Inhalts verlustig, derselben wesentliche
+
+Form doch geblieben, welches Verstand und Wille, die Elemente der Persönlichkeit sind.
+
+Diese deutlichen Spuren der kindlichen Unschuld und des göttlichen Ebenbildes zeigen ſich jezt noch als Empfänglichkeit für das Wahre_und Gute, und als Sehnsucht nach dem Verlorenen.
+
+Und eben diese Unschuld in der Schuld enthält die Möglichkeit, von dieser wieder befreit und erlößt zu werden, indem nur an Verstand und Willen die göttliche Gnade anknüpfen kann, um die Entzweiung des Menschen mit Gott und sich selbst aufzuheben.
+
+##### §. 265.
+
+Die biblische Tradition stellet den Sündenfall als ein Geschehenes dar zu einer gewiſſen Zeit, an einem gewiſſen Individuum und unter beſtimmten Umſtänden. In der That und Wahrheit aber ist die Individualität hiebei nur das formale Moment des Thuns und nicht der Einzelne iſt es, der da handelt und fällt, sondern die Gattung. Jener ist hier nichts anders, als das allgemeine Selbst, der Repräſentant der Menschheit oder der die Menschheit vorstellende. Ihre Wahrheit aber hat die Vorstellung in dem Begriff der allgemeinen Sünde und Sündhaftigkeit des aus dem natürlichen Daseyn herkommenden Bewußtseyns. Es findet sich in allen Nachkommen Adams bei dem Erwachen des Selbstbewußtseyns dieſes mit dem Widerspruche behaftet, welcher nicht bloß die Negation des Guten, sondern auch die positive Renitenz, der Hang zum Bösen ist. · In
+
+Beziehung auf jenen einen und ersten Sünder wird diese Allgemeinheit als Zurechnung seiner Sünde vorgestellt, und in dieser Lehre geht die schriftliche und kirchliche Tradition selbst schon über die Vorstellung hinaus.
+
+§.
+
+Röm. 5, 12. 19.
+
+266.
+
+Es ist nicht nur die Labilität der menschlichen Natur, sondern auch die Wahrheit, daß es die schon vor dem Einzelnen, der geboren wird, wirklich gefallene Natur ist, die sich auf ihn fortgepflanzt hatte, woraus einem jeden das ähnliche Loos geweiſſagt wird.
+
+Es iſt mit der menschlichen
+
+Natur, als solcher, nicht mehr res integra; in und mit ihr ſeßt sich das notürliche und moralische Verderben fort.
+
+ist nicht nur gut, sondern auch bös; sie ist beides zugleich. Das Daseyn der Welt im Menschen als Natur, welches als Negation des Bewußtseyns zugleich poſitive Beſtimmtheit des Geistes und dessen unmittelbares und unvermitteltes Insichgegangenseyn ist, ist der Begriff dessen, was als Erbsünde [p. 158] vorgestellt wird. Sie ist die an der menschlichen Natur haftende Disposition zu allen wirklichen Sünden, und in ihrer Negation zugleich poſitiv: als das erste ist sie der gänzliche Mangel aller geistlichen Kräfte (totalis carentia virium spiritualium), als das andere ist sie der Hang zum Bdfen (concupiscentia).
+
+##### §. 267.
+
+Der Begriff der Erbsünde, als der allgemeinen menschlichen Sünde, muß immer, als seinen Widerspruch, die ab stracte Verstandesbestimmung erleiden, nach welcher die angeerbte Sünde von den einzelnen Sünden des eigenen Willens nicht bloß unterſchieden, ſondern denselben auch entgegengeseßt, von denselben getrennet und auf diese Weise geleugnet wird, da sie vielmehr doch und eben nur sie, als der abstracte Inbegriff alles Bösen in der einzelnen wirklichen Sünde, als deren Erscheinung, ſich realiſirt_und zum Vorschein kommt.
+
+Sofern sie nun noch nicht in dieser sich ſubſtanziirt und individualiſirt hat, kann ſie abstract als eine (dem Individuum) fremde Sünde und Schuld betrachtet werden, aber eben die fremde ist zugleich nicht ihm fremd, weil sie sonst auch nicht die fremde seyn würde, und also die allgemein menschliche und die Möglichkeit aller eigenen und der mit dem Bewußtseyn zugleich erwachende Hang zu allem möglichen Bösen.
+
+Dieselbige, welche die fremde war, wird somit seine eigene: der Uebergang aber ist der Begriff der Zurechnung. Denn kraft dieser der menschlichen Natur inhärirenden Vitiosität ist das Böse mit dem Guten in ihr in solche Connexion gekommen, daß sie sich nur darf gehen laſſen, um es sofort an sich zu entwickeln.
+
+##### §. 268.
+
+In und mit allem Bösen geht die Welt zu Grunde, nämlich zurück in daſſelbige Nichts, woraus sie geschaffen ist.
+
+[p. 159] Gott aber ist das wahre Prinzip ihres Entstehens und Daseyns, der Schöpfer, der sie dem Nichts entrissen und ſie auch vor dem Untergange darin ſchüßt und bewahrt. Hierin ist er, als ihr Schöpfer, zugleich ihr Erhalter.
+
+§.
+
+Erhaltung.
+
+269.
+
+Die Welt wäre nicht die von Gott erschaffene, wäre ihr hiemit nicht auch eine gewisse Selbständigkeit increirt, kraft deren sie auch im Daseyn bestehen, sich selbst behaupten und vor dem Untergang ſchüßen könnte.
+
+Dies ist die
+
+Bewegung im Daseyn, kraft deren sie fortan sich aus selbst producirt und im Daseyn erhält. Indem die Welt die ſich beständig selbst erschaffende ist, ist sie auch die sich selbst erhaltende.
+
+Ihr Sich-selbst-erhalten ist ihr beständiges Sichproduciren.
+
+##### §. 270.
+
+Als Masse ist Alles in der Welt rein das vom andern geschaffene, nicht sich selbst schaffend, so auch nicht sich selbst erhaltend, ſondern vom andern erhaltene. Als unorganische Natur hat sie ihre erhaltende Macht rein außer sich, als Organismus hingegen zugleich in sich selbst.
+
+Im Weltorganismus selbst aber ist alles nur Theil oder Glied, und in dieser Reflexion ist das Urtheil vielmehr das entgegengesetzte. Das bloß Daseyende, Unorganische bringt nur sich selbst hera vor und erhält auch nur sich. Im Organischen hingegen erhält jedes Glied das andere zugleich, indem es sich selbst erhält und wie die Selbsterhaltung durch die Erhaltung des [p. 160] andern, so ist die Erhaltung des andern durch die Selbsterhaltung bedingt.
+
+##### §. 271.
+
+Allein dieses beständig neue Entstehen aller Dinge ist Indem eins zugleich das beständige. Vergehen derselben. nur durch das andere erhalten wird und die Welt somit sich selbst erhält, geht eins auch durch das andere zu Grunde, und diese Erhaltung selbst ist nicht verschieden von der Zerstörung, sowie nur aus dieser wieder neues Daseyn und Leben hervorgeht.
+
+In der Welt, als Natur, geht Alles auf und unter, und ist nichts beständig, als die Unbeständigkeit selbst, und dieser beständige Kreislauf aller Dinge ist ebenso sehr der Gedanke an die Nichtigkeit und Eitelkeit aller Dinge, als der von der beständigen Erhaltung derselben. Was wir · darin allein für bleibend erkennen und als den Grund jener Nothwendigkeit selbst, wonach das Entstehende das Vergehende, das Lebende das Sterbende ist, ist das Gesetz, und hiemit erst geht der Gedanke` als Vorstellung in den Des griff zurück.
+
+##### §. 272.
+
+In der Welt, wie sie in sich selbst, d. i. in Zeit und Raum und somit veränderlich ist, ist das Gesetz das allein unveränderliche.
+
+Obgleich an sich ebenso sehr Gesetz des
+
+Vergehens und Entstehens aller Dinge, ist es doch selbst. nicht eins von den entſtehenden und vergehenden Dingen der Welt, sondern eine Macht über die Welt, eine Bestimmtheit der Welt, die Bestimmung der Weise der Wirksamkeit aller Welt? und Naturkräfte. des Geistes,
+
+Es ist somit eine Bestimmtheit wie er denn in aller Naturforschung darauf ausgeht, dieses sein Geſetz, und somit sich selbst in der Natur zu entdecken.
+
+So nun erhält die Welt sich selbst nicht sowohl durch das Gesetz, als sie vielmehr durch dasselbe, in ihr wirksam, erhalten wird.
+
+##### §. 273.
+
+##### §. 273.
+
+Das die Welt erhaltende Gesetz hat zu seiner Voraussetzung eine feindselige, die Welt bedrohende und gefährdende Gewalt, welches der Widerspruch mit sich selbst ist im Da seyn und Leben, in der Vernunft und Freiheit. Im Daseyn oder in der Natur ist dieser Widerspruch noch unmittelbar und wird zum Widerstreit der sich einander bekämpfenden Elemente.
+
+Das Negative des Elements ist der Organismus oder das Lebendige, und hier kommt der Widerspruch zum Vorſchein als selbstsüchtige Erboßung des Organs gegen den Organismus, als Entzündung
+
+Krankheit.
+
+Kommt es nun mit dem Daseyn und Leben zum Bewußtseyn, so ist der Widerspruch da im Denken, wie im Wollen oder als das intellectuelle (Irrthum) und moralische Uebel (Sünde). Des Gesetzes große Bestimmung aber ist, in allen diesen Beziehungen den Widerspruch zu verhüten sowohl als zu lösen, und es beginnt schon die Erlösung vom Widerspruch darin, daß das Gesetz sowohl als Naturgesetz, wie als Denk- und Sittengesetz sich wirksam erweiset. 14. 15.
+
+Rôm. 2,
+
+Jof. 1, 8.
+
+##### §. 274.
+
+Nicht aber nur das Gesetz als solches ist, sondern auch das Bewußtseyn davon und mittelst dessen geschieht es noth wendig, daß Gott als der Grund des Gesetzes und der Erhaltung der Welt mittelst des Gesetzes, erkannt wird.
+
+Selbsterhaltung der Welt durchs Gesetz ist ihr bedingt durch ihr Erhaltenseyn von Gott, als dem Gesetzgeber.
+
+Wird daher bei dem Gesetz, als solchem, sey es Natur- oder Sittengesetz stillegestanden, als dem höchsten und erhaltenden Wesen selbst, so bleibt die Frage nach dem Ursprung des Gesetzes selbst unbeantwortet.
+
+Mit dieser Frage kommt die daſeyende und bewußtseyende und im Daseyn und Bewußtſeyn erhaltene Welt erst wahrhaft zu sich selbst. L
+
+Nur die
+
+[p. 162] Zweiter Theil. Zweiter Abschnitt.
+
+Natur hat in ihrer Bewußtlosigkeit an dem Gesetz ihren Das Gesetz der Natur und ihrer Nothwendigkeit, wie das Gesetz der Freiheit oder die Autonomie des Willens hat seine Wahrheit in diesem gegen dasselbe höherem, wor aus es selber ist, und des Gesetzes höchste Bestimmung ist, über sich selbst hinauszuweisen auf den, aus welchem es selber ist und sich in ihm aufzuheben. Hebr. 10, 1. Matth. 5, 17. 18.
+
+##### §. 275.
+
+In der unmittelbaren Einheit mit Gott hat die Welt und der Mensch kein Bedürfniß und Bewußtseyn eines GeAber sowie er aus jener heraustritt, ſtellt dieses sich dar und faßt ihn, um die mit der aufgehobenen Einheit entstandene Renitenz zu zügeln. Und so ist es auch die sezes.
+
+wahre Freiheit, welche das Freigewordenſeyn vom Bösen ist und die wahre Virtuoſität des erlöseten und mit Gott versöhnten, gleich einem Künſtler in der Ausübung seiner Kunst, erledigt zu seyn und sich des Bewußtseyns eines Gesetzes doch in allen Bewegungen so zu verhalten, als ob ihn nur das Gesetz leitete: ein zweiter Zustand der Ermangelung eines Bewußtseyns vom Geſeß, der unendlich mehr ist, als der erste.
+
+##### §. 276.
+
+Das wahre Enthaltenseyn der Welt ist ihr Erhaltenseyn
+
+Pf. 37, 17.
+
+Col. 1, 17.
+
+54, 6.
+
+Jef. 41, 10. Sir. 50, 24.
+
+Das von Gott geschaffene steht in der innern und nothwendigen Abhängigkeit von ihm, kann ſein Daſeyn nicht getrennt von ihm behaupten, und ebendieſe Immanenz der Welt in Gott ist der Begriff ihrer Erhaltung durch Wie kein endliches Wesen sein Daseyn und Leben von sich selber hat, so kann es auch nicht so durch sich in sich selber seyn, wie Gott.
+
+Wie alle vielmehr ins Daseyn gerufen worden sind durch etwas außer ihnen, so bestehen ſie auch dauernd nur fort durch etwas außer und über ihnen.
+
+Wie sie ihr Leben empfangen haben, so muß es ihnen auch fortgesetzt werden.
+
+Gleichwie des Leibes Gesundheit und Lebensdauer bedingt ist durch die Einathmung der Luft, so sind auch alle Seelen abhängig von einer geistigen Ordnung Gottes, indem sie des immerwährenden Zufluſſes ſeiner ers haltenden, beschützenden, reinigenden und stärkenden Liebe nicht entbehren können, um am wahrhaftigen Leben erhalten zu seyn.
+
+##### §. 277.
+
+Weit eher aber entsteht dem Menschen die sinnliche Wahrnehmung, daß sein äußerliches oder Thierleben ohne Aufmerksamkeit auf die äußern Elemente und derselben Einwirkung sich nicht erhalten laſſe und daß, von ihnen abhängig, sein creaturliches Leben nur in der beständigen Abhängigkeit davon fortdauern könne, als die überſinnliche Ueber: zeugung, daß er in Hinſicht auf ſein inneres, geistiges und übersinnliches Leben nicht absolut allein, in ſich und von sich sey.
+
+Vielmehr sucht er weit öfter dies hdhere Leben gänzlich läugnend, den Menschen überhaupt entweder nur zu einem Des standtheil der Natur zu machen (Materialismus), oder jenes innere von Gott abhängige Leben sich unter den leeren und hohlen Worten von Autonomie, Selbstzweck und Selbständigkeit der menschlichen Natúr, welche doch nur nach der Seite der niedern Natur hin Wahrheit haben, wegzuräſonniren.
+
+##### §. 278.
+
+Es hat aber die Welt nur in Gott aufgehoben wahr haften Bestand.
+
+Nur also vorgestellt, wie ſie ſinnlich wahrgenommen oder wie sie gedacht wird im Bewußtseyn, ist sie nur die durch sich selbst, nicht die durch Gott erhaltene. Als solche hat die Welt vielmehr nicht Bestand; als diese Welt ist sie vielmehr nur die beständig entstehende und vergehende. 1. Cor. 7, 31.
+
+Nicht sie in ihrer abstracten Weltlichkeit,
+
+£2 [p. 164] sondern in ihrer concreten Geiftigkeit, nicht, wie wenn sie der Leib des Geistes, er die Seele desselben wäre, ſondern wie sie als Moment in ihm aufgehoben ist, ist sie die von Gott erhaltene. Als die andere Welt also, als das Reich Gottes ist sie die wahrhaft von Gott erhaltene und nur in dieser andern Welt, dem Reich Gottes, seyend ist von dem menschlichen Geiste Gott als der wahre Erhalter der Welt erkannt.
+
+Hebr. 16, 5.
+
+Joh. 18, 36.
+
+1. Cor. 11, 32.
+
+Pf. 145, 13.
+
+1. Cor. 15, 50.
+
+##### §. 279.
+
+Nur in dem Wissen von der göttlichen Weltschöpfung ist auch das Wiſſen von der göttlichen Welterhaltung. Wo hingegen, wie im Spinozischen Pantheismus, der Schöpfer nicht ist, da ist auch kein Erhalter, oder das Prinzip der Fortdauer und des Bestehens der Schöpfung, sondern nur jenes Daseyn und dieses Bestehen selbst. Dieses Bestehende aber, als das Substanzielle, ist das nicht von seinem Bestehen wissende, sondern das Bewußtseyn des Subjects ist nur das von seinem Untergang wissende: denn als Modus der göttlichen Substanz ist es nicht dieſe ſelbst, sondern nur Accidenz, und in dieser Beſtandlosigkeit weder wahrhaft feyend, noch im Seyn Bestand habend.
+
+Dieses seiner Bestandlosigkeit gewisse Bewußtseyn, gegen welches nur die Welt, als Substanz, Bestand hat, ist die Stufe, auf welcher der negative, abstracte Verstand als solcher steht, und über welche auch die Vernunft hinüber muß: aber die Unwahrheit jener Denkart ist, daß sie darauf stehen bleibt.
+
+##### §. 280.
+
+Denn indem das Bewußtseyn des Subjects sich als Verstand zugleich in seinem Unterschiede weiß von der abſoluten und •bewußtlosen Substanz, ist jener Schein des Heroismus, der seinen Untergang leicht erträgt, doch nur die Furcht und Angst, die Sehnsucht und der Widerspruch, - und es hat der abstracte Verstand überhaupt nichts besseres gegen diese bewußtloſe Subſtanz nun um so mehr zu behaupten als die Individualität. Die Substanz fällt den Individualitäten anheim und wie sie in ihnen, so zerfließt jedes Individuum in dem bewußtlosen Universum. Hierin hat sich sodann das bestandlose Bewußtseyn und die allein be standhabende aber bewußtlose Substanz der Welt in die Selbständigkeit und Gleichgültigkeit gegen einander gestellt und vernichtet sich gegenseitig.
+
+Es ist dies jener dialektische
+
+Dualismus, der um es zum Hin und Her zwiſchen beiden Gegenfäßen zu bringen, diese haben muß, aber beide darin gleichgültig gegen einander läßt.
+
+In dieser Abstraction fallen sie beide in die Endlichkeit, und in dieser gegenseitigen Negation des Denkens, als Denken, und des Seyns, als der Ausdehnung, sind sie beide gleich bestandlos und nichtig.
+
+##### §. 281.
+
+Dieſe Lehre bezeichnet, als die des abſtracten Verstandes, zugleich den Standpunct ihres Erfinders im abstracten Moſaismus, dem die vollkommene Offenbarung der Religion, als christliche, fremd, Gott und das Wissen, als ein Jenseits und Diesseits, außer einander ist, die Aufhebung beider aber, nicht vermittelt in dem Geiſte der Wahrheit, zur Vernichtung beider selber wird. Ihm blieb verborgen der Geist, der als solcher die wissende Substanz und das substanzielle Wissen, somit in der Beziehung auf einander eben so sehr im Unterschiede, als nicht im Unterschiede ist, und erst durch diesen in die Einheit zurückgeht.
+
+Diese Einheit aber ist der Begriff. In ihm ist die an sich seyende Substanz und die für sich seyende Welt zwar unterschieden, aber durch folchen Unterschied nur in die Einheit zurückgegangen, die Welt nicht Gott, Gott nicht die Welt, aber die Welt in Gott und Gott in der Welt.
+
+Ihr Bestehen hat die Welt [p. 166] weder in sich, noch dem göttlichen Wesen gegenüber, sondern allein in ihm.
+
+Apstg. 17, 28.
+
+##### §. 282.
+
+Er aber ist nicht bloß der an sich und in ſich seyende Gott oder der Vater, sondern auch der aus sich seyende und als folcher_der offenbare oder der Sohn und wie vom Vater, so wird auch von dem Sohn die Welterhaltung ausges sagt in der Schrift und er auch in diesem Sinne der servator (owτno Tov xooμov) genannt. Luc. 9, 56. Als das Wort selbst (loyos) trägt er alle Dinge, und im Sinne diefer Erhaltung und als der Welterhalter gedacht, wird ſeine Präeristenz behauptet. Hebr. 1, 3. Joh. 8, 58. 17, 5. Das Wort aber ist nicht das leere, formale Wort, sondern geist und gedankenvolle, und der Geist somit von dieſem erhaltenden Wort nicht verschieden.
+
+Als der Geist aber ist
+
+Gott in der Einheit der Weltschöpfung und Welterhaltung die Vorsehung.
+
+## Drittes Hauptstück. Von der Vorsehung.
+
+##### §. 283.
+
+and. Die Lehre von der Vorsehung hat ihre Wahrheit nicht in dem an und für sich seyenden Begriff. Als der an sich sehende ist er vielmehr selbst noch die Natur, und der Geiſt in ihr an das Mannigfaltige und Einzelne verstreut.
+
+dieser Weise ist er noch selbst dem blinden Zufall und Ohngefähr preisgegeben, und erkennt auch die göttliche Vorsehung nur für eine solche. Wie die Natur und das Natürliche ihn selbst noch beherrscht, so hat er daran auch [p. 167] seine ganze Vorsehung.
+
+Der Mensch ist selbst noch unendlich wenig, der Gott zu ſo Geringem, zum Eitlen und Nichtigen selber macht.
+
+Als der für sich seyende Begriff geht das Daseyn in das Bewußtseyn hinüber, und hier gewinnt die Weltbetrachtung den Gedanken eines Zwecks der Welt in den Reflexionsbeſtimmungen des Allgemeinen, Beſondern und Einzelnen (providentia generalis, specialis, specialissima). Der Zweck aber ist selbst Begriff und geht` hervor aus dem Verstande. Gott ist erkannt als die denkende Macht, welche nicht planlos und gedankenlos verfährt und die Betrachtung ist die teleologische, auf die Absichten Gottes eingehende.
+
+Allein sie bleibt in der Trennung des Denkens und Seyns stehen, und hat somit an ihr selbst auch die Trennung des Denkens und Wollens, des Wollens und Thuns, des Vorhersehens oder des Rathſchluſſes und deſſen Ausführung.
+
+##### §. 284.
+
+In dieser Abstraction kann wohl die Welt von der reinen, blinden Zufälligkeit der Dinge, aber nicht von einer solchen Nothwendigkeit befreit werden, welche die Nothwendigkeit des Zufälligen ist, und es wird die göttliche Vorsehung selbst als jene herbe Nothwendigkeit gesetzt. Als solche aber ist sie das Schicksal, Fatum (&quaquern).
+
+Somit ist in allem Vernünftigen und Freien, wie in allem Dafeyenden und Natürlichen, und in der Geschichte des Geistes und der Natur ein Vernunftloses und Unfreies, als deffen Prinzip und leitende Macht gesetzt; als solches war das Fatum bei den Griechen die Alles, und die Götter selbst beherrschende Macht, und die knechtische Furcht vor einer jenſeitigen, tiefverhüllten Macht in Iſrael deutet gleichfalls darauf hin.
+
+##### §. 285.
+
+Der an und für sich seyende Begriff ist in seiner Wahrheit nur als der wissende, ſich ſelbſt begreifende Begriff, als [p. 168] solcher aber der Geist selbst.
+
+Die Natur hat den Begriff nur in begriffloſer Weise, er kommt erst im Bewußtseyn zu sich selbst, und ist im Geiste erst der sich begreifende und gewisse.
+
+Von dem gewiſſen Geiste der offenbaren Religion ist daher ebenso sehr der Zufall, als das Schicksal ausgeschlossen, soweit in beiden die blinde Macht regiert.
+
+Wenn dem Bewußtſeyn das Reich des Geistes sich erschließt, tritt er als Regent in diesem Reich hervor, er giebt sich ihm kund in den Geſetzen, sowohl der Natur, als des Bewußtſeyns, und es wird in beiden die göttliche Weltregierung offenbar.
+
+Die Lehre von Gott, als Geist, schließt daher wesentlich die von einer allwaltenden Vorsehung in ſich ein, und diese ist in ihrer Wahrheit und Reinheit mit jener erst offenbar geworden.
+
+Matth. 6, 25.
+
+Ephes. 1, 11. 12.
+
+Ròm. 8, 28.
+
+§.
+
+Apstg. 17, 26-31.
+
+286.
+
+Die göttliche Vorsehung ist in dem menschlichen Bewußtseyn anerkannt, indem dieses ein göttliches, und der göttliche Geist ihm nicht ein fremdes ist.
+
+So selber ein göttliches Bewußtseyn geworden, bestimmt sich der Begriff der göttlichen Vorsehung, als der Einheit und Wirklichkeit der göttlichen Offenbarung im Erschaffen und Erhalten der Welt, aus den göttlichen Eigenschaften der Weisheit und Heiligkeit, als die die Welt leitende und regierende Macht. Anerkannt aber ist die göttliche Vorsehung nur in dem Reich und Bereich dieses Geistes selbst, von den zu Mitgliedern dieses Reichs erschaffenen und darin erhaltenen.
+
+Aus dieser göttlichen Welt gewichen, ist dem Bewußtseyn die Vorsehung in Wahrheit nicht da, oder der Gedanke daran tritt wies der nur als Wahnglaube an blindes Ohngefähr und Schicksal hervor.
+
+[p. 169] §.
+
+287.
+
+Es können aber immer nur zeitliche, wenn gleich zeitlichwahre Erfahrungen seyn, welche auch den Glaubenden, wenn er sich ihnen hingiebt und an sie glaubt, als seyen es ewige Wahrheiten, so überwältigen, daß er zuletzt an Gottes Vorsehung zweifelt oder verzweifelt. Allein zeitliche Wahrheiten haben die nothwendige Bestimmung, daß ihr Gegentheil ebenso wahr ist, sie negiren und widerlegen sich gegenseitig und können am wenigsten eine ewige Wahrheit um stoßen: alle jene Erfahrungen, sofern man von Gott etwas darin erfahren haben will, was seine leitende und regierende Gegenwart in Zweifel seßt, sind unwahrheiten; denn sie sind nicht aus Gott, der die Wahrheit ist, sondern nur aus des Menschen endlichem Verstande, sofern er darin vielmehr sich von Gott abgewendet hat.
+
+Buch Hiob.
+
+Der Glaube an die göttliche Vorsehung hat seine Wahrheit in dem Geiste, als dem göttlichen Wissen selbst, daran nicht dieses selber ist:
+
+obgleich er als Glaube denn weder das menschliche
+
+Glauben an die göttliche Vorsehung, noch das menschliche Wissen von ihr ist die göttliche Vorsehung selbst: aber das menschliche Glauben an dieselbe, und das menschliche Wissen von ihr ist selber nur, sofern es in ihr und von ihr ist. §.
+
+288.
+
+Es ist in ihr und von ihr, indem die Allmacht Gottes, als die Einheit der Weisheit und Heiligkeit oder des vollkommensten Wissens und Wollens erkannt wird. Das Wollen als das Negative des Wiſſens, hat seine Wahrheit im Wiſſen, und ist als göttliches Wollen das absolute, das unbedingte und unbeschränkte.
+
+Das Wissen aber hat seine
+
+Wirklichkeit im Wollen, und ist das Negative von dieſem, d. h. es enthält dieses in sich. Das Wissen ist selbst ein Wollen, das Wollen ein Wissen. So ist die göttliche Vorsehung beides in einem, und weder ein blind wirkendes, noch
+
+[p. 170] Zweiter Theil. • unwirksames, sondern das allmächtig wirkende Wiſſen und die unendlich wiffende Macht.
+
+##### §. 289.
+
+Als diese absolut wissende Macht ist die göttliche Vorsehung die, unendliche Gegenwart, und hiedurch ebensowohl die Schöpfung, als Erhaltung der Welt.
+
+Darin also ist
+
+Gott Schöpfer und Erhalter der Welt, daß er in seiner unendlichen Offenbarung oder als Sohn (loyos) ihr gegens wärtig ist und bleibt.
+
+Gegenwärtig aber ist er ihr nur in der Welt des Bewußtseyns und mittelst dessen auch in der Natur.
+
+Beide aber, Natur und Bewußtseyn, sind eins in dem Menschen, und darin alſo besteht die Allgegenwart der Vorsehung Gottes, daß er der in seiner Menschheit absolut gegenwärtige ist.
+
+Nicht aber so ist er gegenwärtig in ihr, als der unendlich wiſſende und unendlich wirksame, daß sie gegen ihn sich passiv und thatenlos verhielte, sondern so nur, daß ſie in ihm sich enthalten und begriffen weiß. §.
+
+290.
+
+Enthalten und begriffen in dem göttlichen Geiste als Vorsehung ist der Geist als Vernunft oder der vernünftige Geist, der in dem Bilde Gottes in sich auch die Spuren der göttlichen Vorsehung außer sich in der Welt und Natur, im Leben des Einzelnen, wie in der Geschichte, in dem Aufgang und Untergang der Völker und Staaten erblickt.
+
+Dem Glauben, streng in sich abgeschlossen und sich dem Wiffen entgegenseßend, oder ihm als der Negation des Wiſſens ist die göttliche Vorsehung eine verborgene (occulta Dei providentia) und dieſes ist der reine Ausdruck der Substanzialität der Vorsehung;
+
+es ist ein unbestimmter
+
+Glaube, da durch ihn noch keine Bestimmung gefeßt iſt in der göttlichen Vorsehung, der deshalb auch mit Unrecht sich doch als ein Wissen, wenn gleich nur als negatives, gebehr-
+
+[p. 171] Von der Vorsehung.
+
+det, wenn er in theologischen Erörterungen sich auf das ihm selbst verborgene in Gott beruft. §.
+
+291.
+
+Enthalten und begriffen in dem göttlichen Geiſte, als der Vorsehung ist andrerseits der Geist als Freiheit oder als freier Geist, der, wie in Gott das Wollen uud Thun mit dem Bestimmen und Denken identisch ist, so auch in dieser Identität die Macht zu allem Guten ist, wie über alles Böse. In der wahren Freiheit, die an der göttlichen Macht und Gnade ihren Ursprung hat und selber die Abhängigkeit ist von Gott, ist das Gute und Böse nicht gleichgültig gegen einander, sondern wie das Gute (Gott), das mit sich selbst einige, das Böse, das mit sich selbst und mit Gott entzweite ist, so ist auch jenes die Macht über dieses und die Möglichkeit der Aufhebung des Widerspruchs und der Zurückführung in die verlorne Einheit mit Gott.
+
+Alle Kraft des
+
+Bösen in der Welt, sofern diese das Reich Gottes ist, kann daher nur scheinbar seyn; es hat keine Macht in ſich, iſt Ohnmacht und ungesegnet, auch von Gott nicht bekämpft, sondern auf ewige Weise besiegt und überwunden. An ihm findet daher auch die göttliche Vorsehung keine Hemmung oder Schranke, sondern dieſes iſt es nur für die Kreatur, 'so fern sie selbst noch darein verwickelt und verflochten ist.
+
+kann daher auch durch das Böse keine wahre Störung in Gottes Absichten an der Welt erfolgen, da die Absicht in Gott von der That, der Wille von der Macht nicht verschieden ist. Es muß vielmehr ihm, dem weisen Lenker aller Dinge, auch das Böse dienen.
+
+##### §. 292.
+
+In der Vernunft und Freiheit des menſchlichen Geiſtes also geschieht es, daß Gott der Welt als Vorsehung gegens wärtig und in ihr wirksam ist.
+
+Die Substanzialität der [p. 172] göttlichen Providenz begiebt sich selbst in diese Differenz, um in ihr und durch sie sich zu offenbaren und ihre sonst der Welt verborgenen Rathschlüsse auszuführen. Sich offenbar aber macht sie, damit auch die Gewißheit ihrer Wahrheit fen, und sie als solche von den Menschen gewußt werden möge.
+
+Wie sehr wir also, soweit der Gang der göttlichen
+
+Vorsehung uns verborgen ist, uns zunächst an die Nothwendigkeit der Natur, und die Freiheit des Willens zu halten und in beiden Sphären selbst zu wirken angewiesen sind, so a ist doch auch die Natur in ihrer Nothwendigkeit und die Freiheit des Willens in der göttlichen Vorsehung aufgehoben, und hat daran das Prinzip ihres Seyns und Erhaltenseyns.
+
+##### §. 293.
+
+Als Glaube an den göttlichen Einfluß auf die Welt, derselben Schöpfung und Erhaltung oder als Glaube an die Wirksamkeit Gottes in dem Menschen, in welchem die Welt zum Bewußtseyn kommt, ist dieser Glaube die Religion selbst und diese in keiner Beziehung verschieden von dem Glauben an die göttliche Vorsehung. Sie ist die Offenbarung der göttlichen Vorsehung.
+
+Die innere Seite dieſer Manifestation iſt das Bewußtſeyn Gottes selbst, als eins mit ihr und durch sie. Dieser Inhalt der göttlichen Vorfehung oder sie in dem ganzen Reichthum ihrer Gedanken und Thaten ist nicht verſchieden von der Form ihrer Macht und Wirksamkeit, und wie sie selbst entdeckt werden kann in der Welt nur durch die Religion, so geht sie auch in allen ihren Evolutionen in der Welt nur darauf aus, daß Religion in ihr sey. Die äußere Seite der sich offenbarenden Vorsehung aber ist die Geschichte, welche aber auch wiederum zugleich nur Geschichte des sich offenbarwerdenden Bewußtseyns der göttlichen Vorsehung ist und dieses zu ihrem Inhalte hat.
+
+§
+
+Von der Vorsehung.
+
+294.
+
+Ist die geistige Gegenwart Gottes in seiner Menschheit die Vorsehung selbst, so ist die beste Theodicee und die vollkommenste Vorsehungslehre wohl das Christenthum, nicht bloß in seinen Lehren von Gott und göttlicher Vorsehung, sondern auch in seiner ganzen Erscheinung und Geschichte. Die Sendung des Sohnes Gottes in die Welt ist der höchste Act und Beweis von dem Daſeyn, der Macht und Obhut einer über dem menschlichen Geſchlecht waltenden Vorsehung, ja sie ist der Inbegriff und die Wahrheit aller möglichen. Beweise und zugleich die handgreifliche, mit den Augen des Leibes selbst zu schauende Erweiſung derselben. Wenn daher Clemens von Alexandrien mit Recht sagt: ohne dieſen providenziellen `Nexus, d.
+
+i. für den, der hierin ein blindes
+
+Spiel des Zufalls und Ohngefährs erblickt, oder für den unfrommen. Menschen müſſe die Erscheinung des Soters auf Erden zu einem bloßen Mythus, zu einer leeren Fabel werden, so kann man mit Recht auch sagen: ohne die Menschwerdung Gottes könne keine wahre, reine, gediegene und feste Ueberzeugung von Gottes Vorsehung statt finden, wie ſehr auch viele meinen, daß die leeren Abstractionen des Deismus dazu ausreichen, welche Gedanken nur die eitlen Versuche sind, das menschliche Geschlecht auf den Zeitpunct vor der Erscheinung des Christenthums in der Welt festzu, halten und es um die eigentliche Wohlthat deffelben zu bringen.
+
+Denn eben die wirkliche Vorsehung als Weltſchöpfung und Welterhaltung ist die Welterlösung.
+
+[p. 174] Gottmenschen.
+
+##### §. 295.
+
+Die Aufhebung der ersten, unmittelbaren Einheit der Welt mit Gott ist eine nothwendige, ist durch die Unterscheidung der Welt von Gott geschehen, der Unterschied aber in die Spannung und Entzweiung übergegangen.
+
+Das Festhalten dieses ersten Moments oder das Festgebannetſeyn in diesen innern Widerspruch ist das Verderben der Kreatur. Die Welt, in ihrem absoluten Infichselberſeyn - wollen, welches zugleich ihr Widerspruch ist mit Gott und sich selbst, ist hiemit ihr eigenes Verderben.
+
+Durch dieses Verderben in ihr kann sie so wenig, als durch sich selbst, oder dadurch, daß sie die verdorbene ist, von dem Verderben befreit oder erlöset werden.
+
+Vielmehr ist das Böse nicht nur als Widerspruch, sondern auch als Widerstreben vorhanden gegen die Aufhebung des Widerspruchs in einem zweiten Moment, der doch davon unzertrennlich ist.
+
+Leicht könnte es scheinen, diese Nothwendigkeit einer Befreiung sey eine durch die Entstehung des Bösen selber erst veranlaßte und entstandene Bestimmtheit des göttlichen Wesens. Allein sie ist in Wahrheit keine äußerliche, ſondern im göttlichen Wesen selber wes fentliche. Als eine äußere wäre der Gegenſaß in Gott ſelbſt gesezt: er ist aber der ewig mit sich und der Welt einige, und es ist somit seine Subſtanzialität selbst, das Böse von sich ausschließend, voraus- und hinauszusetzen, seine ewige, absolute Einheit durchzusetzen und das erlösende Wesen zu seyn.
+
+##### §. 296.
+
+Aber auch nicht das Verderben selbst ist die Welt, ſonſt wäre sie der Vernichtung anheim gefallen, ſondern nur die Hauptst. I. Einheit der göttl. u. menschl. Natur. 175 davon ergriffene und verdorbene.
+
+Hat nun im Bewußtſeyn des Menschen sich das Verderben concentrirt, so kann die Erlösung allein von dem in der menschlichen Natur nicht verdorbenen oder dem Guten in ihr ausgehen, die Rehabilitation der an die Endlichkeit gebannten Seele nur durch die Wiederverknüpfung der exentrisch gewordenen Seele mit ih rem wahren Prinzip und Centrum, durch die Erhebung in eine höhere Region oder durch das Aufgenommenſeyn der menschlichen Natur in die göttliche geschehen, welches in Gott die Annahme der menschlichen Natur ist und das Gegentheil ihrer Verstoßsung.
+
+Denn frei von dem Verderben der Welt ist allein der in ihr offenbare Gott; in ihm ist der Widerspruch nicht nur vollkommen aufgehoben, sondern er auch die Aufhebung desselben, die restitutio in integrum, Wiederherstellung der verlorenen Einheit und Integrität, nicht mehr in der ersten Unmittelbarkeit, sondern durch die Vermittelung oder als Mittler: Gott allein als Mensch oder der Gottmensch ist ihr Erlöser.
+
+In Beziehung auf ihn ist daher zuerst von der Person des Gottmenschen oder von der Einheit beider Naturen an sich, sodann von der Erscheinung und Zuständlichkeit derselben, und endlich von den Verdiensten des Gottmenschen oder dem Erlösungswerk selbst zu handeln.
+
+Von der Einheit der göttlichen und menschlichen Natur.
+
+##### §. 297.
+
+Es ist in dieser Lehre der Mensch zunächst in seiner concreten Unmittelbarkeit, sodann im Verhältniß zu Gott, welches ebenso sehr der Unterschied ist, und endlich in der Einheit mit Gott zu begreifen.
+
+Die Lehre vom Verhältniß [p. 176] der menschlichen und göttlichen Natur zu einander ist dem Begriff dadurch sehr erschwert, daß darin Gott selbst als Natur vorgestellt wird.
+
+Gott ist nicht die Natur, nicht Na• Der Mensch tur (natura von nasci), nichts Gewordenes.
+
+hingegen ist Natur, hat Natur darin, daß in ihm die Natur selbst menschlich geworden.
+
+Vorhanden aber ist die Natur auch als nicht menschliche, und diese somit die Negation der menschlichen Natur.
+
+Als diese negative menschliche Natur ist sie der Begriff in seinem Ansichseyn oder das Seyn in der Negation des Denkens.
+
+Aber als diese Negation hat das Denken sie als eine Bestimmtheit an ihm selbst, und ist die Natur nichts anders, als der in der Materie noch gefesselte menschliche Geist, nicht als Denken, sondern als Seyn. Indem die Natur sich von dem Menschen unterscheidet, ist es in Wahrheit der Mensch, der sich von ihr unterscheidet, als der materiellen.
+
+§.
+
+í
+
+298.
+
+Die materielle Natur ist die Welt als Zeit und Raum in ihrem Substanziirungsproceß.
+
+Die rohe Masse zur Formation gelangt, ist die Körperwelt, im Schein des Gedankens das Schöne, in der Wahrheit des Gedankens das Zweck, mäßige.
+
+In dem Zweck, welcher Begriff ist, geht das Materielle in das Organische über, theils wie es noch in der Erde wurzelnd und unlebendig oder das Vegetabilische, theils aus der Erde heraus und auf ihr das Lebendige oder AniIndem nun die Natur menschlich oder die. maliſche iſt. menschliche wird und alle die genannten Bestimmungen des Materiellen und Organischen, und dieses besonders als das blos Daseyende oder als das Vegetabilische und Lebendige oder als das Animalische an ihr hat und ein vegeti rendes Leben führt, ist sie das Irdische noch, zwar nicht mehr in der Erde und wohl auf der Erde, aber das Ueberirdische ist ihr fremd. §. 299.
+
+Hauptst. I. Einheit der göttl. u. menſchl. Natur. 177
+
+##### §. 299.
+
+In dieser Bestimmung der menschlichen Natur,
+
+Individuum oder als Organismus und Animalität kann系 geſagt werden, die Menschheit habe mit der Thierheit ange fangen, wie denn dieſes thierähnliche Daseyn in dem Menschen so, wie er der geborene ist, nicht zu verkennen ist.
+
+dieser Verwandtschaft mit dem Thier ist er das nur empfin dende Wesen, durch den in der Sinnlichkeit gegründeten Sinn in Berührung stehend mit einer Welt um ihn her und diese in ſich aufnehmend.
+
+Allein die Natur, menſchlich geworden, ist darin zugleich die Negation des Negativen oder Nichtmenschlichen, des Thieriſchen, daß ſie, obgleich dieſes an ihr habend und aus der Natur, als solcher, herkommend, dennoch darüber hinauskommt.
+
+Diese Möglichkeit des Fortschritts aus dem thierischen Zustande ist zugleich die Negation von diesem selbst. Der Mensch ist nicht ein Thier, das Thier kein Mensch, kann es auch nimmer werden.
+
+##### §. 300.
+
+Der wesentliche Unterschied der menschlichen Natur von der thierischen ist das Bewußtseyn.
+
+In dem Bewußt, seyn kommt der Mensch aus der Natur zu sich, die Natur geht und schließt sich ihm als Ich auf und wird ihm ge, genständlich. Noch in seiner Unmittelbarkeit ist das Des wußtseyn zunächst Gefühl, als die in sich selbst zurückges hende Natur, Bewegung der Empfindung durch die Erinnerung; der Mensch wird sich darin feiner Empfindungen des wußt. Das Gefühl, aus dem Sinn und der Natur stam mend, ist allerdings dieser seiner Natur nach ein sinnliches, Naturgefühl, aber im Bewußtseyn zugleich über die Natur Hinauskommend, ein geistiges.
+
+Nur Sinnen- und Gefühls-
+
+Wesen, ist der Mensch nichts weiter, als beseelter Leib oder beleibte Seele, und nur in der Möglichkeit, das denkende und verständige zu seyn.
+
+Zum wirklichen Denken kommt M [p. 178] der Mensch erst, indem er sich auf das Allgemeine besinnt, welches nicht kann empfunden werden.
+
+Der Mensch ist we noch Gefühls- Wesen, sondern beide, Sinnlichkeit und Gefühl, sind nur Momente an ihm und als der ein Sinnen folche in ihm aufgehoben.
+
+301.
+
+§.
+
+Das Bewußtseyn, als die reine Reflexion in ſich, iſt ebenso sehr Verstand als Willen, die wesentlichen Formen und Bedingungen der Persönlichkeit. Die Identität des Verstandes und Willens ist das Ich.
+
+Obgleich im
+
+Daseyn, wie die Pflanze und im Leben, wie das Thier, vermag der Mensch sich doch als der Verständige von bei den zu unterscheiden, sich als das Höhere und Beſſere zu wissen und so soll, nach dieser niedern Seite hin, sein Denken, obgleich kein sinnloses, doch ein ſinnfreies ſeyn.
+
+Wahrheit seines Denkens, als das Innere im Verhältniß zum Aeußern ist das Uebereinstimmen deſſelben mit dem Gegenstande außer ihm, die empirische Wahrheit; im Verhältniß zu sich selbst, worin das Denken sich selbst zum Gegens stande hat, die Uebereinstimmung mit sich selbst, die abſtractLogische Wahrheit.
+
+##### §. 302.
+
+Ohne das Denken ist das Seyn, der Sinn und die Empfindung ein blindes und dumpfes Brüten des Geiſtes, ohne das Seyn, den Sinn und die Empfindung ist das Denken ein leeres und nichtiges.
+
+Aber so nur auf den Inhalt des Sinnes und Gefühls und auf sich selbst, als seinen eignenen Inhalt beschränkt ist der Verstand nur das Endliche, Bedingte und Relative zum Gegenstand habende Denken, die Wahrheit, die der Verstand zu erreichen vermag, die endliche, relative Wahrheit.
+
+Als solche aber weiset sie selbst schon über sich hinaus, hat die Negation der Wahrheit
+
+Hauptst. I. Einheit der göttl. u. menschl. Natur. 179 an ihr selbst, und ist das Unwahre selbst.
+
+Zum Raiſonniren aus Gründen, Rücksichten, Beziehungen und Abstractio´nen fehlt es dem Verstande niemals an Stoff, und er kann beliebig aus Allem Alles machen. Der wahre Mensch ist nicht ein bloßes Verstandeswesen. Die Wahrheit des Vers standes ist die Vernunft.
+
+In ihr ist Sinn und Verstand aufgehoben, und der Mensch über das Sinnliche und Nichtsinnliche hinaus im Uebersinnlichen.
+
+##### §. 303.
+
+Das Bewußtseyn iſt andrerseits ein Wollen,
+
+Denken ein Thun, und der Inhalt dieser Form ist das Gute und Böse.
+
+Der Mensch kann sich in seinem Begriff Zwecke.
+
+geben, die er in seiner. That realiſirt.
+
+Als unbestimmt wollendes Wesen ist ihm das Gute und Böse gleichgültig, und somit auch das wahrhafte und höchste Gut, welches Gott selber ist, fremd. So, wie der Mensch aus der Natur ſtammt und das Natürliche, in seinem Bewußtseyn wollend und handelnd vollbringt, ist er mit seinem Willen nur auf das Sichtbare, das Zeitliche und Räumliche, das Endliche und Vergängliche` gerichtet. Wie er mit seinem Denken darüber nicht hinauskommt, so auch mit seinem Willen.
+
+Er ist hiedurch noch der mit seinem Willen an das Natürliche ges feffelte und ein Sclav der Luft.
+
+Die Wahrheit aber des menschlichen Willens ist die sittliche Freiheit.
+
+##### §. 304.
+
+Als die Wahrheit des Sinnes und Verstandes ist die Vernunft, als die Wahrheit des Wollens und Handelns die Freiheit, beide in ihrer Unmittelbarkeit, das Prinzip der menschgewordenen Natur. Denn an dem erzeugten und gebornen Menschen kann sich auf keiner der folgenden Stufen entwickeln, was nicht bereits potentià und im Keim gege, den und in diesem, als der embryonischen Mitte enthalten M2
+
+[p. 180] Somit ist die Bewegung durch Sinn und Verstand in Wahrheit die der noch darin verborgenen Vernunft selbst, war.
+
+wie die Bewegung im Wollen und Handeln die der noch in ſich selbst verschlossenen Freiheit: durch beide aber in ihrer Einheit ist der Mensch mit dem Thier auseinandergeseßt und ein wesentlicher Unterschied zwischen beiden.
+
+Als unwahr erscheint auf dieser Stufe der Saß, daß die Menschheit mit der Thierheit angefangen, welches nur von der äußerlichen Erscheinung und Individualität, nicht von dem menschlichen Wesen, als solchem, gelten kann.
+
+##### §. 305.
+
+So, wie bisher, rein allein in sich selbst und der Welt seyend der Mensch betrachtet worden, zuletzt zur Vernunft und Freiheit gelangt, ist er gleichsam nur der äußerliche Anfang des Menschen, nicht der wahre Mensch. Rein allein in diesem Verhältniß zu sich und der Welt sich haltend, iſt er vielmehr der natürliche, fleischliche Mensch, und was er seine Vernunft nennt, ganz von derselbigen Art und Natur, nur in dem Jrdischen und Endlichen scharfsichtig und hellsehend, die fleischliche Vernunft.
+
+Ebenso ist er auch in An-
+
+ſehung seines Handelns frei nur in allen äußerlichen und endlichen Beziehungen, der äußerlich erscheinenden bürgerlichen Tugend und Rechtschaffenheit fähig, aber unfrei in allen Beziehungen auf das wahrhaft Gute. So nur in sich sel der seyend, hat die menschliche Natur keine wahrhaftige Realität und Hypoſtaſe: die wahre Substanz des Menschen ist erst der Geist, die Einheit der Vernunft und Freiheit.
+
+##### §. 306.
+
+Es ist die begriffsmäßige Lehre der`chriſtlichen Kirchenväter, daß die menschliche Natur außer allem Verhältniß zur göttlichen nicht hypoſtatiſch ſey und aller wahrhaftigen Existenz für sich ermangele.
+
+Diese Lehre, daß die
+
+Hauptst. I. Einheit der göttl. u. menschl. Natur. 181 menschliche' Natur an und für sich avvπooτatos sen, ist zus gleich die poſitive Seite der Wahrheit, daß die Menschheit nicht mit der Thierheit angefangen, es ist die Wahrheit, daß die von Gott geschaffene menschliche Natur erst mit dem Leben in der göttlichen Offenbarung, mit der vollkommenſten Religion angefangen habe.
+
+Was im gemeinen Leben Humanität heißt, ist nur die Negation der Immanität oder Inhumanität, nur keine Bestialität und nichts Positives in sich ohne die Religion. Die Wahrheit und Realität der´ menschlichen Natur ist nicht ihr In-sich-selber-Seyn, sondern ihr Ueber-sich-Hinausgehen, ihr An- und Aufgenommenſeyn in einer andern und höhern. Zu Gott alsó kommend kommt der Mensch wahrhaft erst zu sich selbst.
+
+Von der Urpersönlichkeit Gottes gehalten, wird der Mensch erst wahrhaft persönlich.
+
+Durch die Religion erst wird der Mensch zum Die Wahrheit der menschlichen Natur ist die göttliche.
+
+Das wahrhaft Menschliche ist das Göttliche.
+
+Gegen dieses ist das Nurmenschliche vielmehr das Unwahre und Böse.
+
+8.
+
+307.
+
+Es ist nun, zum andern, der Mensch im Verhältniß zu Gott zu erkennen.
+
+Als Verhältniß zu Gott noch zugleich der Unterschied ist es nur die Möglichkeit der Menschwerdung Gottes; diese also ist jetzt zu begreifen. Aus der Des wußtlosigkeit in ihm zum Bewußtseyn gekommen, deutet die Natur schon an und für sich auf die Möglichkeit der Menschwerdung Gottes hin, als des Prinzips der Natur. Noch mehr, wenn Gott gedacht wird als Geist, das Wesen der menschlichen Natur als Geist, erhellet die Möglichkeit einer Einheit beider.
+
+Die Möglichkeit der Menschwerdung Gottes ist das Menschlichwerden Gottes und das Göttlichwerden oder Göttlichgesinnetſeyn des Menschen. Da aber, wie sich bereits ergeben, die menschliche Natur an und für sich ohne Hypostase und außer allem Verhältniß zur göttlichen weder [p. 182] wahr noch wirklich ist, so kann die Initiative der Einheit einzig und allein von Seiten der göttlichen kommen, aber anderseits vom ersten Momente an nicht ohne Theilnahme der menschlichen seyn.
+
+§. 308. Es ist die Religion, als das Bewußtseyn des Göttlichen, zunächst in Andern, in der Gemeinde vorhanden, und so von Außen kommend, was in dem Bewußtseyn seiner selbst und der Welt das wahrhaft Menschliche in dem Menschen hervorruft und ihn über sich selbst erhebt.
+
+Sie stiftet überhaupt erst das Verhältniß des Menschen zu Gott und macht den natürlicherweise entstandenen zu dem von Gott ges schaffenen und erhaltenen.
+
+Wahrheit aber hat dieses Verhältniß ebendarin, daß es ein Verhältniß zu Gott, dem Wahren, ist, der die Wahrheit selber ist, und so den Menschen auch der göttlichen Wahrheit theilhaftig macht.
+
+In sich seyend ist er mittelst der göttlichen` Wahrheit zugleich in Gott und Gott in ihm.
+
+##### §. 309.
+
+Diese Theilhaftigkeit ist aber zunächst nur als Eme pfänglichkeit für die Wahrheit in allen Menschen und so der erste, schwache, trübe Blick über die Endlichkeit hinaus. Es dämmert das Göttliche, als das wahrhaft Menschliche, in dunkeln Gefühlen und Ahndungen, in unbestimmter Sehnsucht hervor. Es muß aber der Mensch das, wonach er sich sehnt, einerseits schon in irgend einem Grad in sich haben, andrerseits dadurch gereizt worden seyn.
+
+Es kann ihm das Göttliche weder absolut nur von Außen, noch absolut nur von Innen kommen.
+
+In der Empfänglichkeit feßen sich Empfangen und Geben gegenseitig, und beide sind eins im Glauben; er ist so sehr Gottes, als des Menschen Werk.
+
+Hauptst. I. Einheit der göttl. u. menschl. Natür. 183
+
+##### §. 310.
+
+Allein ebendas, was den Menschen im Glauben mit Gott vereinigt, trennt ihn auch noch zugleich von ihm; an« gewiesen auf die Wahrheit und nicht ohne ein inneres und wesentliches Verhältniß zu ihr, iſt er doch noch von ihr entfernt.
+
+In der Idee Gottes ist Gott in ihm, aber noch nicht für ihn, d. i. obwohl ein Denken, doch noch kein Wiß sen.
+
+Noch kann der Irrthum, der Zweifel, ihn stören und erschüttern in seinem Glauben.
+
+Es fehlt die zweifelsfreie
+
+Gewißheit, die nur im Wiſſen ist.
+
+Dieser Mangel ist der unendliche Schmerz, wie er dem noch sich selbst verborgenen Wissen im Glauben anklebt.
+
+Hier nun mit dem abstracten
+
+Denken der Wahrheit oder mit ihr allein nur von ihm gedacht, ferner mit ihr nur als Sinn und Gefühl für die Wahrheit sich begnügend, sinkt er mit seinem Glauben selbst in die Endlichkeit zurück, und in das unbestimmteste, und unwahrste Verhältniß zu Gott und sich selbst. heit des Glaubens, als solchen,
+
+Die Wahre ist der Glaube an die
+
+Wahrheit als Wissen an und für sich, welches von Gott nicht verschieden ist.
+
+##### §. 311.
+
+Die Wahrheit an und für sich, welche Gott ist, hat das Denken an ihr selbst, und als denkende also hat die göttliche Natur die menschliche an ihr.
+
+Als solche ist sie wirklich ein Wiſſen, zunächst schon im Glauben, in der Gemeinschaft der Gläubigen und derselben Geschichte.
+
+Bewegung durch die Vernunft in das verſtändige Denken, in das Gemüth und Gefühl geht die göttliche Wahrheit in alle endliche Beziehungen des irdischen Lebens ein, und diese werden durch sie nur erst wahrhaft wahr. Wie diese an und für sich an ihr, der Religion, sterben, so gehen sie auch in ihr verklärt wieder auf, sie ist die Auferstehung und das Leben derselben, Joh. 11, 25., und indem sie den Menschen [p. 184] über sich selbst erhebt, die Bildung zur wahren Humanität, die wahre Bildung für die Welt und den Staat: durch sie also, als Glauben und Wiſſen, nimmt die menschliche Natur Theil an der göttlichen, wird derselben als des göttlichen Geistes theilhaftig. 2. Petri 1, 4. Hebr. 6, 4. Dieser Sah aber ist nur wahr, weil er umgekehrt ganz derselbige ist in der Form, Gott nimmt Theil an der menschlichen Natur, er vereiniget sie mit sich, soweit als sie mit Gott ſich vereinigen läßt.
+
+Als ein Aeußerliches wird dieses wohl auch von dem abstracten Verstande gedacht und zugegeben, als ein Antheilnehmen Gottes an den Menschen, thren Schicksalen u. s. f. in seiner Vorsehung.
+
+Aber so ist es nur ein vom Verstande gedachtes und denkbares, kein wahres und wirkliches, kein innerliches und immanentes Verhältniß Gottes zu dem Menschen und des Menschen zu Gott.
+
+##### §. 312.
+
+Das Wesen Gottes aber ist das dem Wesen ganz iden tische Denken und somit die Wahrheit an und für sich. Das Absolute, als Denken, ist aber ein anderes, als das Absolute, als Wesen;
+
+ist aber jedes von beiden nur das eine des andern, so sind sie hiemit im absoluten Verhältniß zu einander.
+
+Die Einheit in diesem Verhältniß ist nun darin zu erkennen, daß Gott nicht nur von uns gedacht wird, sondern auch das ihn in uns Denkende selber ist.
+
+Gott nämlich, als Geist, ist nicht die nur ewige, absolute Substanz, wie bei Spinoza, sondern diese Substanz ist der Geist, welcher als Object zugleich Subject ist oder Begriff, und ist demnach unser Denken nur so das wahre, und als ſubjectives. in der Einheit stehend mit dem objectiven, oder das Denken der Wahrheit, als es an sich sein Denken ist.
+
+So ist die
+
+Wahrheit nicht nur an und für sich, sondern auch in und für uns, der Geist als denkende Substanz die menschliche, und hiedurch also zunächst die menschliche Natur auch wahrs
+
+Hauptst. I. Einheit der göttl. u. menschl. Natur. 185. Die Menschwerdung Gottes, begriffen in ihrer Möglichkeit, iſt zunächst die wirkliche Menschlichwerdung der göttlichen Wahrheit, welche nicht nur das Denken haft substanziell.
+
+Gottes, sondern zugleich sein Wesen ist, und Göttliches und Menschliches, obwohl noch 1 unterschieden, doch nicht mehr von einander getrennt.
+
+##### §. 313.
+
+In dem andern Verhältniß des Menschen zu Gott er ſcheint der Mensch nicht nur als denkendes, ſondern auch als wollendes, thuendes Wesen, und hat darin die beiden gleich wesentlichen Beziehungen auf sich selbst, als Sinnen. und Verstandes - Wesen: er soll das Wahre nicht nur dens ken, sondern auch thun, mitten in seiner Sinnlichkeit und Verständigkeit.
+
+In ſich seyend, als wollend und handelnd, ist der Mensch zugleich in Gott, indem er das Gewisse in sich hat und sich somit im Gewissen hat.
+
+In dem Gewiſſen hat er das Wahre als das Gewisse, nicht mehr als ein nur gedachtes, abstractes, sondern zugleich als ein seyendes.
+
+Diese Einheit des Denkens und Seyns ist ein Bewegen, ein Thun, welches den Menschen nicht läßt ruhig und müßig seyn.
+
+##### §. 314.
+
+Durch das Gewissen ist der Mensch über sich selbst hinauszugehen gedrungen; er vernimmt darin nicht bloß sich, sondern zugleich einen andern; es ist nicht der leere Wiederhall des Ich;
+
+es enthält den Unterschied zwischen gut und bôs in der Form des göttlichen Gesetzes.
+
+Wird der Mensch auch im Bewußtseyn des Gesetzes, ſeines Ursprungs und Inhalts, nur als autonomiſch gedacht oder als seiner selbst nur darin sich bewußt und wird gemeint, weil er´es in sich hat, habe er es auch von sich und sey es auch aus ihm, oder es wären, nach Kant, die göttlichen
+
+[p. 186] Gebote nur gleichsam göttlich (tanquam divina), also nur so zu sagen oder zu denken, nur sö anzusehen und vorzustellen, so ist dieses nur die unwahrste Vorstellung des Ges seges, wie der Autonomie. ¿¡-
+
+##### §. 315.
+
+In seinem gegenwärtigen Zustande ist der Mensch nur vom Gesetz des Gewiſſens aus, wie zur Wahrheit, so zur Tugend zu führen, welches jedoch nur so geschieht, daß er vom Gewissen aus Gott als den Heiligen anerkennt und darin seine Frömmigkeit beginnt.
+
+Er kann vorerst den Gedanken an die göttliche Heiligkeit haben im Gegensatz zu ſeiner Sinnlichkeit, und so ist sie nur die abstracte, nur die gedachte Heiligkeit, wie im Ethnicismus und Kantianismus, wo sie nur eine sogenannte Idee ist ohne Wirklichkeit, ein Ideal, Hat die göttliche Heiligkeit die Beein rein nur Gedachtes.
+
+stimmung des Seyns, so´tritt sie auch so noch nicht über die Abſtraction hinaus, ſtellt vielmehr noch das Gesetz zwischen sich und den Menschen, sie selbst aber ist ein Jenseits, das unerreichbar ist, und noch getrennt vom Denken. So im Mosaismus.
+
+##### §. 316.
+
+Das Leben im Glauben an die seyende Heiligkeit Gottes ist die Sittlichkeit.
+
+Wie die Einheit des göttlichen
+
+Denkens und Wollens die Heiligkeit Gottes ist, so ist die Einheit des menschlichen Denkens und Wollens die Sittlich keit.
+
+Ihren wahren Inhalt aber hat die Sittlichkeit in dieser ihrer Form darin, daß sie zu Gott, dem Heiligen, als dem Grunde sich verhält als das Begründete, welches durch den Glauben ausgesagt ist, in welchem gelebt das Leben ein wahres ist. Diese wahrhafte Sittlichkeit enthält in sich objectiv, wie das Gefeß, so die Möglichkeit heilig zu werden, und mit dieser Forderung redet, nach der Vorstellung der Hauptst. I. Einheit der göttl. u. menschl. Natur. 187 Religion, Gott selber den Menschen an.
+
+3. Mos. 44, 45.
+
+1. Petri 1, 16. §.
+
+317.
+
+In der Nachahmung göttlicher Heiligkeit ist der Mensch, wie in der Erkenntniß der göttlichen Wahrheit, weder rein paſſiv, noch rein activ, weder Alles, noch Nichts.
+
+Sie ist die ungetheilte, einfache Thätigkeit Gottes und des Menschen, und hierin die Bewegung beider zu einander;
+
+Mensch ist ihrer fähig, Gott macht ihn derselben theilhaftig: beides aber weiſet wesentlich auf einander hin.
+
+Der abs stracte Verstand bleibt in dem Gegensatz stehen, zwischen einer gedachten Heiligkeit und einer ins Unendliche werden den Sittlichkeit; jene soll sich der Mensch denken, als ein von ihm gedachtes Ideal, diese soll er sich selbst geben, er soll sich selbst bessern durch sich allein.
+
+Die sittliche Vollkommenheit hat aber da so wenig, als die göttliche Heilig keit, die Bestimmung des Seyns, sondern diese nur die des Gedachtſeyns, und jene die des Seynsollens, somit keine Wahrheit und noch weniger Wirklichkeit: die Tugend wird als ein unerreichbares gedacht.
+
+Die chriftliche Lehre zeigt die Bewegung der Heiligkeit aus der Abstraction in die Wirklichkeit; in der menschlichen Sittlichkeit hat mittelst des Glaubens an die göttliche Heiligkeit sich diese verwirklicht. In ihr hat die göttliche Natur die menschliche an ihr, und die Menschwerdung Gottes ist also, ihrer Möglichkeit nach, auch die Menschlichwerdung der göttlichen Heiligkeit, diese aber wirklich in der Gemeinde; sie wird als der Leib Christi vorgestellt. Ihr angehörend ist man nicht mehr der natürliche Mensch, der nur aus sich selber ist, sondern eine neue Kreatur, der geheiligte und in Gott seyende. Gal. 5, 6. 3, 26.
+
+§.
+
+2. Cor. 5, 17.
+
+318.
+
+Es hat sich in dem Bisherigen wenigstens die Möglich keit der Menschwerdung Gottes aus der wirklichen Menschlichwerdung [p. 188] der göttlichen Wahrheit und Heiligkeit ergeben, und sie zu läugnen kann man nur noch auf die Auskunft verfallen, entweder das Göttliche in der Wahrheit und Sitt, lichkeit, oder diese als wirklich in der Welt zu läugnen. In der Vernunft und Freiheit des Menschen ist Gott zu allen Zeiten der Welt gegenwärtig, und in ihr gewesen und sie in ihm, nicht bloß in der concreten Unmittelbarkeit, ſondern auch vermittelt durch Verstand und Willen, sich selber in ihr klar und offenbar.
+
+In seiner Wirklichkeit ist dieſes innere immanente Verhältniß der Begriff des Reiches Gottes.
+
+Dieses, wie es verschieden ist von jedem irdischen, menschlichen Reich, ſo iſt es auch vereinbar mit jedem und kein absolutes Jenseits. Es ist das Reich des Wahren und Guten und zu allen Zeiten, allen Menschen und Völkern zugänglich gewesen; in und mit demſelben aber war Gott in seiner Menschheit offenbar und wirklich.
+
+##### §. 319.
+
+Es ist nun endlich noch auf diese wirkliche Einheit der göttlichen und menschlichen Natur zu reflectiren, deshalb noch die bisherige abstracte Verstandesbestimmung als Endlichkeit aufzuheben.
+
+Die Möglichkeit der Menschwerdung Gottes zeigt schon an ihr selbst dieses, daß göttliche und menschliche Natur an sich nicht getrennt sind. Das Wahre bestimmt sich in Gott als das Gute, das Gute als das Wahre: beides in seiner Einheit ist das Göttliche. Wahrheit und Heiligkeit ſtehen in Gott in einem absoluten Verhältniß; jene ist das seyende Denken, diese das denkende Seyn, beide somit absolut eins.
+
+Gott ist der im absoluten
+
+Wiſſen absolut Wollende, der in der Wahrheit Heilige; er ist der im absoluten Wollen absolut Wissende, der in der Heiligkeit Wahre. sende, heilige Geist.
+
+Das heißt: er ist der Geist, der allwif
+
+· Hauptst. I. Einheit der göttl. u. menschl. Natur. 189 §.
+
+320.
+
+Aber auch der Mensch ist der Geist, in seinem Verhältniß zu Gott das Wahre wissende, und das Gute wol lende. Der menschliche Geist, die Einheit der Vernunft und Freiheit, ist der an Gott glaubende und in ihm lebende; der göttliche Geist, der seine Weisheit und Heiligkeit mittheilende. In diesem Glauben und Mittheilen ist Gott und der Mensch sich einander nicht mehr äußerlich, nicht mehr außer einander, sondern in der Bewegung zur Einheit;
+
+diese Des wegung selbst aber menschlicher Seits das vollkommenste Wiſſen und Thun, göttlicher Seits das vollkommenſte Mittheilen und Offenbarfeyn.
+
+In der gegenseitigen Unterſcheidung und Negativität des Göttlichen und Menschlichen hat jedes von beiden das andere an ihm, und wie der wahre Mensch nicht ist außer Gott, sondern nur im innern Verhältniß zu Gött, so ist auch Gott wirklich nur in seiner menschlichen Natur. Wie die Wahrheit der menschlichen Natur die göttliche ist, so ist die Wirklichkeit der göttlichen Natur die menschliche. Aber steht nicht noch der menschliche als der endliche Geist dem göttlichen, als dem unendlichen, gegenüber? §.
+
+321.
+
+Die abstract-historische Erkenntniß hält sich an diese Verſchiedenheit und bleibt dabei ſtehen, das Endliche sey nicht das Unendliche, und das Unendliche nicht das Endliche, obgleich schon dem Wort nach das eine auf das andere, das Endliche auf das Unendliche hinweiſet, das Unendliche das Endliche in ihm hat. In jener Erkenntniß aber ist der Gegensaß unüberwindlich.
+
+Es ist darin auch die Möglichkeit der Menschwerdung Gottes, und vielmehr noch die Wirklichkeit dersel1 den geläugnet. In dieser Verschiedenheit als endliche und unendliche Natur einander gegenüber gestellt sind beide, die göttliche und menschliche Natur entweder ganz gleichgültig [p. 190] gegen einander oder, sich einander negirend, auch entgegen. gesetzt und widersprechend und sie können dann, wie im Socinianismus geschieht, als so, wie Feuer und Wasser, ges gen einander erscheinen.
+
+Dieses ist allerdings der Zustand der Feindschaft und Entzweiung der Welt mit Gott, welches das Böse ist, und darüber kommt die lediglich historische Erkenntniß, die als solche nur oberflächlich an der Erſcheiz nung klebt, nicht hinaus; sie hat, wie sehr sie die mangelnde Erkenntniß nebenher durch Glauben und allerlei fromme
+
+Gefühle ergänze, die Wahrheit nicht im Wiſſen, und ist somit unwahr.
+
+##### §. 322.
+
+Weiter geht die abstract- oder negativ-vernünftige Dialectik; in ihr wird die Verſchiedenheit zum Unterschied, und jedes der beiden Glieder ist nicht mehr firirt, sondern mobil; sie gehen wenigstens auf einander ein, und der menschliche Geist kann, als Modus der göttlichen Substanz als der im Endlichen unendliche, der göttliche als der im Unendlilichen unendliche betrachtet werden.
+
+Hier sind sich sodann wenigstens das Unendliche im Endlichen, und das Unendliche in sich selbst, einander gleich. Allein so bloß in der Sphäre des abstracten Verstandes im beharrlichen Gegensaße gehalten, wird die Einheit des Endlichen und Unendlichen nur so herausgebracht, daß das Endliche bleibt, was es ist, und das Unendliche zum Endlichen selbst herunter gesetzt wird. Es ist da nicht der Geist, sondern die durch den Leib des dingte Seele oder die Individualität, welche in dieser Relativität erkannt wird, und der im Unendlichen unendliche nur als das Negative jener beleibten Seele oder jenes beseelten Leibes genommen worden, somit die Erkenntniß in Wahrheit nicht über die Endlichkeit hinausgekommen, der Geist noch der in der Individualität verborgene, und Gott nur als nicht ein Individuum erkannt.
+
+Hauptst. I. Einheit der göttl. u. menschl. Natur. 191 §.
+
+323.
+
+Aber das Individuelle, womit der Geiſt behaftet ist, ist nicht das wahre Wesen des Menschen, sondern das Intelligente, der Geist, welcher, als Herr der Natur, das Individuelle, Leib und Seele, nur als Momente an ihm hat, und in sich aufgehoben hat und zunächst Bewußtseyn ist. Kommt er in dieſem über deffen leere Form und endlichen Inhalt, die Natur und Geschichte hinaus, so wird es zum Bewußtseyn Gottes, zunächst in der Natur und Geschichte, als der Welt des Geistes, aber auch zum Bewußtseyn Gottes in Gott, oder des in der Unendlichkeit unendlichen. Darin erst gelangt der Geist zur wahrhaftigen Freiheit, geht über die Einzelheit und Ichheit hinaus, wird der Volksgeist, und so über sich hinausgehend, der Geist aller Völker, der Menschheit. Der Mensch in dieser Allgemeinheit oder der allgemeine Geist hat die Subjectivität der Ichheit und die Ob. jectivität der Nationalität in sich aufgehoben. §.
+
+324.
+
+Dieses Insich- Aufheben ist aber schon auf allen Stufen nicht das Thun des Geistes, welcher Mensch, sondern des Geistes, welcher Gott ist; es ist ein Auf- und Hinaufgehobenseyn der Menschheit in die Gottheit durch diese, und ebendarin zugleich die Herablaſſung Gottes zu ſeiner menschlichen Natur, die That der ewigen Liebe. Es ist die der Entzweiung und dem Widerspruch entgegengeseßte Bewegung 1 des Geistes aus dem Jenseits und Dieſſeits in die Einheit; jede der beiden Naturen hebt darin das ihr in der andern Widersprechende auf, und so ist die Einheit die in der Vermittelung aus dem aufgehobenen Widerspruch hervorgegan gene, und als Widerspruch gegen den Widerspruch die Wiederherstellung der Einheit an sich. Was nun kann wohl nothwendiger seyn von den beiden, jener nicht aufgehobene Widerspruch oder diese Einheit, wodurch er aufgehoben ist, [p. 192] und was ist in der nothwendigen Bewegung, welche der Inhalt der Wissenschaft selbst an ihr hat, unstatthafter und ungegründeter, als im Denken dieſer Wahrheit bei jener Entgegensetzung zu beharren, ohne dem ebendarin vorhandenen Zuge zu folgen, der gleichnothwendig die Bewegung zur Ausgleichung und Einheit ist? Nicht aber, wie in jener Entgegensetzung ist diese Bewegung der Naturen in die Eins heit der Verlust und die Vernichtung ihrer selbst; der Mensch, über ſich ſelbſt hinauskommend, Gott, sich herablaſſend zur menschlichen Natur, verlieret ſich dadurch nicht selbst, giebt sich nicht auf: sondern im Gegentheil nur in dieser Bewegung ist Gott wirklich und, nur in ihr wird erst wahrhaftig die menschliche Natur: an sich und abstract ohne Substanz ist diese wahrhaft ſubſtanziell nur in der göttlichen, kommt eben in ihr erst zur wahrhaftigen Wesenheit, zu sich selbst, ist die vollkommene Menschheit nur in der Einheit mit der Gottheit.
+
+##### §. 325.
+
+Nur also darin, daß Gott Mensch geworden, ist die menschliche Natur die vollendete und vollkommene. Nicht aber so, wie man sagen kann, Gott ist Mensch geworden, Nicht kann man sagen, der Mensch ist Gott geworden. darum etwa nicht, weil man die Identität nicht absolut se Den könnte, oder weil diese die Differenz noch an ihr hat, ſondern weil jene Redensart die Subſtanzialität der mensch lichen Natur vor und außer der Einheit mit der göttlichen vorausseßen und den Irrthum veranlaſſen würde, als sey in dieser Bewegung zur Einheit beider die menschliche Natur soviel als die göttliche.
+
+Die menschliche Natur kann
+
+S an und für sich nicht die göttliche annehmen, denn ſie existirt gar nicht persönlich außer der göttlichen (ist nicht idioσυστατος, sondern nut ενὑποστατος) . Die 21ttraction und Susception oder Aſſumtion geht allein von der göttlichen Natur
+
+Hauptst. I. Einheit der göttl. u. menschl. Natur. 193 Natur aus, sie ist das die menschliche Natur follicitirende Prinzip; als solches aber der Geist, der allein wahrhaft seyende, in welchem Gott und der Mensch als unterschiedene aufgehoben sind, und der in der Bewegung der göttlichen und menschlichen Natur zu einander nicht zunichte oder vernichtet wird, sondern ebendarin nur als menschlicher Geist wahrhaft, als göttlicher wirklich ist.
+
+Denn als Geist sich der Ichheit entäußernd, ist der Mensch wahrhaft über sich hinausgekommen, ohne die menschliche Natur aufgegeben zu haben, als Geist sich der Absolutheit entäußernd, hat Gott ſich zur menschlichen Natur herabgelaſſen, ohne sich als göttlicher Geist aufgegeben zu haben.
+
+Die Einheit der göttlic chen und menschlichen Natur ist rein allein die Einheit im Geiste, dessen Existenz das Wiſſen des Wahren, mit welchem das Thun des Guten identisch ist. Dieser als Gott in der menschlichen Natur und als Mensch in der göttlichen Natur ist der Gottmensch.
+
+Der in der göttlichen Heiligkeit weise, und in der göttlichen Weisheit heilige Mensch ist der Gottmensch.
+
+##### §. 326.
+
+Als ein Geschehenſeyn oder geſchichtlich ist diese Einheit Gottes mit dem Menschen offenbar und wirklich in der Person Jesu Christi; in ihm ist die göttliche Offenbarung vollkommen menschlich geworden.
+
+Der Begriff des Gottmenſchen in der historischen Person Jesu Chriſti enthält in ſich die beiden Momente in eins: das eine, nur durch den Menschen ist Gott offenbar, und in dieser Beziehung ist Christus noch allen andern Menschen gleich gestellt; er ist der Menschensohn, und darin nur erst die Möglichkeit der Menschwerdung Gottes; das andere: in diesem Menschen, Jesus Christus, ist Gott offenbar, wie in keinem andern; offenbare Mensch ist der offenbare Gott;
+
+dieser der offenbare
+
+Gott aber ist der Sohn Gottes, und in dieser Beziehung iſt Christus der Gottessohn, und dieses ist die factische Erfül N [p. 194] lung der Möglichkeit oder Verheißung, ſie ist die Wirklichkeit der Menschwerdung Gottes.
+
+Aber in beiden Beziehungen ist er nur noch der mit allen andern verglichene, und in dieser Vergleichung nur als der Unvergleichliche anerkannt. Hiemit steht das Urtheil noch immer auf dem Boden der Erfahrung, die keinen Abschluß der Vergleichung gestattet und wo es keine Erfahrung giebt, der nicht möglicherweise eine andere mit gleicher Wahrheit gegenüber treten könnte. Dies ist das Jüdische in aller bloß historischen Theologie, daß nach ihr eben so gut noch ein anderer kommen kann, der sich für den Messias ausgiebt. gleichung,
+
+Das Dritte der Verdie Wahrheit derselben ist sich oder zunächst nichts Empirisches sondern die Idee. §.
+
+an und für Hiſtoriſches,
+
+327.
+
+Als die Idee der göttlichen Menschwerdung hat sie die nothwendige Form des Gedankens, und von der Seite dies ser Form kann sie leicht nur als die gedachte Größe und Vollkommenheit Jesu Christi vorgestellt, die Idee zum Ideal heruntergefeßt werden, deſſen Grund nur das ſubjective Denken ist, dem nichts Objectives entſpricht.
+
+Das Subject thut unserm Herrn Chriftus die Ehre an, ihn so zu denken und vorzustellen, daß er aber so vorgestellt wird, verdankt er lediglich jenem denkenden Subject. stellung
+
+Somit enthält dieſe Voran ihr selbst das Bewußtseyn ihrer Unwahrheit, selbst nach der gemeinen Lehre, wonach Wahrheit nur die Uebereinstimmung ist mit ihrem Gegenstande.
+
+Mit diesem gang abstracten Vorſtellen treibt die Unredlichkeit vielfältig ihr Spiel, nicht nur in der Wiſſenſchaft, sondern auch in der Gemeinde. Cie erkennt nicht die Idee als Wahrheit an und für sich an, die in Chriſto geſchichtlich offenbar geworden, ohne welche Idee aber weder die Möglichkeit, noch die Nothwendigkeit, noch die geschichtliche Wirklichkeit der göttlichen Incarnation, einzusehen oder nur anzuerkennen wäre.
+
+Haupst. I. Einheit der göttl. u. menschl. Natur. 195 ist die Idee der (in seiner Perſon) menschlich sich offenba renden göttlichen Weisheit und Heiligkeit, ohne welche an sich wahre Idee des Sohnes Gottes er auch in keinem menschlichen Wesen anerkannt werden kann. §.
+
+328.
+
+Es ist vielmehr die wesentlich göttliche Weisheit und Gnade, welche in dem Menschen Jesus Christus, mit welchem Gott aufs vollkommenste eins ist, offenbar ist und von. ihm und durch ihn weiter auf alle sich fortsetzt, denen diese Wahrheit offenbar und gewiß wird.
+
+Joh. 1, 12.
+
+Er ist die Erscheinung der Gnade Gottes ſelbſt; durch diesen menſchgewordenen Sohn Gottes können und sollen alle Menschen zu Söhnen und Kindern Gottes werden. Ephes. 1, 5. Gal. 4,5. Diese Vorstellung von der göttlichen Kindschaft durch den Glauben an Jesum Christum zeigt wohl, daß die mensch liche Natur Gott nicht fremd, sondern Gottes, des offenba ren, Natur selber, und, durch ihn, die Natur des Vaters auch die Natur der Kinder ist.
+
+Ist sie aber, diese göttliche Kindſchaft, die an alle andere Menschen durch Unterricht und Erziehung, also zunächst von Andern und von Außen kommende Wahrheit und Gnade Gottes in Jesu Christo, so ist sie doch nicht eine von Außen und durch Andere an ihn, den Gottmenschen, gekommene, sondern seine Wesenheit selber, und er bedarf deffen nicht, daß er durch die göttliche Wahrheit erst erleuchtet, durch die göttliche Heiligkeit erst geheiligt, und durch beide begnadigt werde, sondern er ist diese Wahrheit, Heiligkeit und Gnade Gottes ſelber, und von ihm erst geht alle Erleuchtung, Heiligung und Begnadigung aus. Die in Jesu Chriſto unmittelbare göttliche Kindſchaft seßet sich mittelbar oder vermittelt durch den Glauben an ihn fort auf alle Menschen, die ihn in solchem Glauben in sich aufnehmen, und können sie also nur auf dem Grunde seis ner Einheit mit Gott gleichfalls mit Gott vereinigt, ihm
+
+N 2 [p. 196] nachfolgend ihm äähnlich, nicht gleich werden.
+
+Die Wahrheit aber in der Vorstellung von der Identität und Differenz seiner absoluten göttlichen Kindſchaft und der unſrigen durch die seinige, hat ihre Gewißheit nicht in dieser Vorstellung an und für sich, so wenig als in heiligen Aussprüchen und Schriften, in denen sie enthalten ist, sondern in dem Begriff der Idee Gottes und des Menschen, oder im Wiffen, von wo aus sie denn auch in den mannigfaltigſten Formen in allen Traditionen iſt.
+
+##### §. 329.
+
+Die Religionsbücher aller Völker haben von dem Geheimniß der Incarnation dunkler oder deutlicher, wahrer oder unwahrer geredet. Ist darum die Incarnation des Vischnu von gleicher Wahrheit, als die des wahren und einigen Sohnes Gottes?
+
+Von den heiligen Schriften der Christen, welche vorzugsweise heilige Schriften heißen, läßt sich mit Recht erwarten, daß sie die Lehre von dem menschgewordenen Sohn Gottes in höchster Klarheit enthalten: denn ohne diese könnten sie wenigstens den Character heiliger Schriften nicht haben, und Offenbarungen des wahren und heiligen Gottes nicht enthalten; ja nur in ebendem Grad, als sie dieses Geheimniß deutlicher und unverkennbarer enthielten, als alle anderen Schriften in der Welt, und es als Mittelpunct des Ganzen in ihnen hervorträte, würden sie vergleichungsweise heiliger zu nennen seyn, so wie ihre Heiligkeit nothwendig abnehmen und ganz verschwinden müßte,
+
+• und sie zuleht zu ganz gemeinen Historienbüchern herabſinken würden, wenn man jemals wirklich allgemein diese Lehre immer weniger, und zuleht gar nicht mehr darin erblickte.
+
+##### §. 330.
+
+Diese Erscheinung wäre alsdann der sicherste Beweis, nicht dafür, daß sie nicht dennoch darin könnte enthalten
+
+Hauptst. I. Einheit der göttl. u. menschl. Natur. 197 seyn, sondern nur dafür, daß die Augen der Lesenden des sonders schwach und dunkel geworden: denn in ebendem Grade, als Gott aus dem Glauben und Wissen der Menschen gewichen ist und sie selber ihre Verbindung mit dem wahren Gott aufgegeben haben, also in die Leerheit und Nichtigkeit versunken sind, schauen dann auch ihre Augen nur Leeres und Nichtiges in die Welt hinein, und nichts iſt hinter dem heiligen Vorhange, der das Innere verdeckt, zu sehen, wenn wir nicht selbst dahintergehen, sowohl, damit gesehen werde, als daß etwas dahinter sey, das gesehen werden kann: denn wie sollten selbst heilige Bücher zeugen und reden können von dem, was nicht zugleich in uns ist und in unserm Selbstbewußtseyn gar keinen Berührungspunct findet?
+
+Dieses ist zum mindesten eine Lehre der Religion, und als solche in dem Bewußtseyn Gottes, nicht im Bewußtseyn der Welt und Natur oder zeitlicher Dinge, nicht im Bewußtseyn der bloßen, von Gott entblößten Menschheit, sondern Gottes und des in ihm lebenden und denkenden Geistes begründet.
+
+Wo also an die Stelle der Theologie eine leere Anthropologie getreten ist, da fällt der Glaube an den Gottmenschen von selber weg.
+
+##### §. 331.
+
+Die Einheit beider Naturen in der Person Jesu Chriſti ist eine mit dem Begriff des wahren Menschen und des wirklichen Gottes identische.
+
+Beide in ein Dieffeits und Jenseits gestellt lösen sich vollkommen in nichts auf.
+
+Eine Gottheit, die von der Menschheit, eine Menschheit, die von der Gottheit nichts weiß, ist nichts.
+
+So in die Negativität gegen einander gestellt, schreiten sie aus der Gleichgültigkeit und Verschiedenheit auch nothwendig fort zur Zwietracht und Feindschaft, stehen im Hader und Widerspruch, Gott ist ein Menschenfeind, der Mensch ist ein Gottesfeind, ein Verhältniß, wie es nur die Menschwerdung Gottes tilgen kann.
+
+[p. 198] Denn eben in dieser zeigt sich Gott erst dem Menschen, wie er wirklich ist, wird wahrhaft erkannt von ihm, und ist er erst für ihn; solange Gott das nicht ist, nicht erkannt ist in dieser Herablaſſung zu dem Menschen, ist er ihm der verborgene Gott.
+
+Diese Verborgenheit Gottes in dem Menschen ist zugleich die Verborgenheit des Menschen in Gott, und nur erst die Möglichkeit der Menschwerdung Gottes; als der ihm offenbare Gott oder als Sohn Gottes für ihn ist er erst der wahrhaft wirkliche.
+
+Die Offenbarung Gottes hat demnach hier die Bedeutung, die Einheit Gottes mit dem Menschen, die Menschwerdung Gottes ſelbſt zu seyn.
+
+##### §. 332.
+
+Der Begriff der Menschwerdung Gottes ist mit dem Begriff der wahren Religion identisch; sie hat in ihrer Subjectivität diese nothwendige Bestimmung an ihr, das Göttlichwerden des Menschen zu seyn, und das nämliche, was als möglich und wirklich eingesehen werden soll, muß demnach mehr oder weniger selbst in und mit dem Einsehen auch geschehen, nicht bloß gedacht, sondern auch vollbracht seyn.
+
+Jeder wahrhaft im Glauben an Gott lebende Mensch, ſey er ein Jude oder ein Heide, ist ein Zeugniß für die ewige Wahrheit, daß Gott Menſch geworden. Und ebenhierin zeigt sich die ursprüngliche Anlage und Bestimmung aller Menschen und Völker zum Christenthum, und der allen angeborne Zug und Trieb dahin.
+
+Aller Atheismus iſt nur Achriſtianismus; er läugnet nur den menschgewordenen Sohn Gottes, indem er selbst sich innerlich von Gott geschieden hat, ohne doch damit schon ganz Gott - los geworden zu seyn; er hält sich nur desto fester an jene alte Kluft und Scheidemand, welche der Gottmensch zu zerstören gekommen ist.
+
+Hauptst. I. Einheit der göttl. u. menschl. Natur. 199
+
+##### §. 333.
+
+Alle vorchristlichen Religionen sprechen wenigstens das Bedürfniß der Offenbarung Gottes in seiner Menschheit aus (loquere, ut te videam) und haben darin zugleich mehr oder weniger von der Wahrheit selbst erkannt. Sie sind in dieser Beziehung Vorbereitungen und Hinweisungen auf die vollkommene Einheit Gottes mit dem Menschen in Christo, welche als Wahrheit allen früheren Zeiten nicht fremd ist, und worin zugleich die Erlösung selbst mehr oder weniger anhebt und das Geglaubte selbst auch schon mehr oder weniger wirklich und gegenwärtig ist. Durch die Erkenntniß, daß Gott sich der menschlichen Natur erbarme und annehme, hebt die Religion, wie in den Menschen an, so auch ihn selbst über sich selbst hinaus und bringt ihn in ein Verhältniß zu Gott.
+
+Es ist der göttliche Geist selbst in ſeiner menschlichen Natur zu allen Zeiten, wie wohl ihr selbst noch verborgen und unbekannt, doch als solcher wirklich und wirkſam gewesen in diesem Glauben.
+
+##### §. 334.
+
+Aber als noch nicht Glaube an die Wirklichkeit ist er nur Glaube an die Möglichkeit, welche beide zugleich ihre Wahrheit haben in der Nothwendigkeit.
+
+Diese ist die Verheißung, welche mit ihrer Erfüllung nicht absolut außer einander ist. Die ihre Wahrheit und Wirklichkeit weiſſagende Idee ist das Grundelement aller Religion, und das Verſtändniß und der Begriff und die Vorstellung der Idee macht allein den geschichtlichen Unterschied. Im Heidenthum iſt sie noch in ihrer Unmittelbarkeit 1 und Concretion, die Wirke ſamkeit Gottes in der Welt wird als die unmittelbar gegenwärtige gedacht im Reich der Natur.
+
+Wo die Gottheit so im Diesseits und in der Endlichkeit erscheint, daß sie als Gottheit zugleich sich selbst, d. i. den Geist aufgiebt, und nichts als das vom Object losgeriffene Subject, der Leib [p. 200] und das Leibliche übrig bleibt, da kann wohl in der concreten Sinnlichkeit und Endlichkeit derselben die Lust und der Genuß des Lebens Höchſtes ſeyn, aber die Heiligkeit Gottes ist theils nicht anerkannt, theils in den Schmuz des Irdischen versenkt. Das Heidenthum ist die Vermiſchung Gottes und der Natur.
+
+##### §. 335.
+
+Wo hingegen, wie im Judenthum, die Gottheit im Jenseits abstract von dem Menschen im Diesseits geschieden und in ihr nur das absolute Object gefürchtet ist, da ist zwar das göttliche Wesen aus der concreten Unmittelbarkeit in den Unterschied, aber zugleich in die Entfernung und Trennung von dem Menschen übergegangen, und da kann wohl die unendliche Macht und Heiligkeit Gottes erkannt, aber der Schmerz und die Sehnsucht nur der Grundton des menschlichen Lebens seyn.
+
+Dort in der abstracten Sinnlichkeit und Endlichkeit geht über der Erscheinung das Wesen, hier in der abſtracten Ueberfinnlichkeit und Unendlichkeit geht über dem Wesen die Erscheinung verloren.
+
+Das Christenthum, indem es die Wahrheit aller Religion ist, hebt jenen aufgezeigten Widerspruch, jenen verzehrenden Zwiespalt auf; durch Christum ist das Diesseits und Jenseits, aber durch den Unterschied in die Einheit zurückgegangen,
+
+Wesen und die Erscheinung eins, in ihm das absolute Object als abſolutes Subject erkannt.
+
+##### §. 336.
+
+Der Unterschied ist also ebensowohl vorhanden, als er nicht vorhanden ist, er zeigt sich auch in der Einheit als Menn die Einzelnheit des menschlichen Daſeyns Chriſti. die Vorstellung besagt, Gott sey Fleisch geworden, so wird zu gleicher Zeit die Herkunft Christi aus der Natur und natürlichen Zeugung negirt, und ist demnach unter jenem
+
+Hauptst. I. Einheit der göttl. u. menschl. Natur. 201 Ausdruck nicht die fleischliche Natur des Gottmenschen an sich zu verstehen, sondern nur, wie sie das Annerum des geistigen Wesens ist, die vernünftige Menschenseele, das Bewußtseyn, der Geist, welcher Sinnlichkeit als Leib und Seele, Als dieser nur als aufgehobene Momente an ihm hat. Einzelne, dieses Individuum, ist er nicht der Sohn Gottes, sondern der Menschensohn, als solcher empfindet er Hunger und Durst, betet und thut den Willen Gottes, leidet und stirbt er.
+
+##### §. 337.
+
+Aber als die Individualität deffen, der zugleich der Sohn Gottes ist, kann und muß auch an ihr das größeste Interesse genommen werden.
+
+Sie ist die Erscheinung und das allmähliche Offenbarwerden seiner göttlichen Sohnſchaft, welche allein in dem Gebiete des Bewußtseyns und der Perſönlichkeit liegt, die wechselnde und ungleiche Manifestation ſeiner unendlichen Weisheit und Heiligkeit. An und für sich aber ist die Betrachtung der Individualität Chrifti der Standpunct für die finnliche Wahrnehmung und Gewißheit, für die Erfahrung und Geschichte und darauf sich beschränkend der Standpunct der Beschränktheit selbst. Die auf diesem arianischen Standpunct stehen, haben nicht darin Unrecht, daß sie die Individualität Chriſti behaupten, sondern darin, daß sie darauf stehen bleiben und nicht darüber hinauskommen.
+
+##### §. 338.
+
+Sohn Gottes ist Jesus Christus als der in seiner Einzelnheit allgemeine und in seiner Allgemeiaheit einzelne Mensch. Er ist die von Gott geschaffene, menschliche Natur in ihrer Integrität und Illabilität, und ebendarin zugleich als der zweite Adam die Wiederherstellung des göttlichen Ebenbildes in der Menschheit, welches in der Uebertretung des ersten verloren gegangen.
+
+Als dieser Repräsentant der menschlis [p. 202] chen Natur ist er, der zweite, die Wahrheit des ersten.
+
+der Person Jesu Chriſti ſchafft der offenbare Gott das´ Individuum, mit welchem er aufs vollkommſte eins seyn kann; der Schöpfer selbst nimmt in dieser Person die Natur des Geschöpfes an, weil er sie von der Welt Anbeginn an in sich hat.
+
+Dieses hat den Grund seiner Nothwendigkeit in seinem der Welt Offenbarſeyn oder in der Liebe des Vaters; diese ist die Sendung des Sohnes in die Welt. Joh. 3, 16. 1. Joh. 3, 1.
+
+4, 9. 10.
+
+Als Intelligenz oder Vernunft (λoyos) iſt in ihm das Individuelle und Universelle, beides als Endlichkeit und Beschränktheit aufgehoben.
+
+Aber das abstracte Festhalten des einen oder andern Moments iſt das Häretische, welches als unausbleibliches Annexum der Wahrheit und Kirchenlehre, als die abstracte Verstandesbestimmung, sich wider alles Vernünftige ſeßt, und als solches nicht etwa nur einmal da gewesen, sondern in jeder Zeit vorhanden ist.
+
+##### §. 339.
+
+Die eine abstracte Bestimmung des Verhältniſſes zweier Naturen in Christo, nach welcher beide gleich persönlich und statt zweier Naturen zwei Personen angenommen sind, Gott sich mit der in sich selbständigen menschlichen Natur hintennach vereinigt hat, die Einheit des Bewußtseyns aber zerstört ist, kann die Einheit beider Naturen nicht als eine nothwendige, sondern nur als eine zufällige und hiſtoriſche ansehen, sie ist da nur die ganz äußerliche Vereinigung und Concordie, die Uebereinstimmung des Menschen mit Gott im Denken und Handeln, worin noch gar kein Unterschied Christi ist von allen andern Menschen.
+
+Sie ist kaum nur die Möglichkeit der Menschwerdung Gottes.
+
+Dies ist die
+
+Lehre des abstracten Verstandes, welche die Kirche an Nestorius verdammte.
+
+Ihr hat sie die Lehre entgegengesetzt, daß beide Naturen unzertrennlich und unauflöslich (adiaı-
+
+ρετως μηδ αχωρίστως) bereiniget fenet, unb das ift bet
+
+Begriff der Wahrheit selbst.
+
+##### §. 340.
+
+Der Widerspruch gegen Nestorius aber konnte sich anderseits leicht so weit versteigen, die Einheit der Unterſchiedenen als absolute Einerleiheit zu sehen, den Unterschied selbst in der Einheit nicht aufzuheben, sondern vielmehr zu vernichten, die eine Natur mit der andern zu vermischen und ſie darin aufzulösen.
+
+Dieses ist die ebenso abstracte Lehre des blinden Gefühls, die monophysitische Confuſionslehre des Eutyches.
+
+In diesem Monophysitismus hat einerseits, inBeziehung auf die Seele Christi, der Apollinarismus, andrerseits in Beziehung auf den Leib Chrifti, der Doketismus seine Stelle.
+
+Der Eutychianischen hat die Kirche die Lehre entgegengeseßt, daß beide Naturen unvermiſcht und unverwandelt (ɑovyɣitws und ɑtqeńtws) in der Einheit des ſtehen. Die geschichtliche Bewegung dieser Einheit aber nach der einen oder der andern Seite hin ist die Lehre von der Zuständlichkeit Christi.
+
+Von den Ständen Christi.
+
+##### §. 341.
+
+Der Begriff des Gottmenschen hat sich zunächst als die Union der göttlichen und menschlichen Natur in Chriſto ergeben. Diese Union iſt die innere Seite des Begriffs und die Wahrheit an sich in ihrer concreten Unmittelbarkeit und Allgemeinheit.
+
+Als solche ist sie aber auch die äußere Seite des Begriffs, geht in die Besonderung des Allgemeinen und in den Unterschied ein, die Union ist auch die Communion [p. 204] der Naturen, als solche aber derselben Erscheinung und Geſchichte.
+
+Aus dieser Beſonderung in der Communion geht der Begriff der Union endlich auch in die Einzelheit der Eigenschaften beider Naturen ein, und ist die aus dieser lebendigen Bewegung und Communion ſich ergebende Communication der Idiome oder die gegenseitige Mittheilung der Eigenschaften der einen Natur an die andere: beide aber, die Communion und Communication ſind in der Union, ihrer Wahrheit, enthalten und aufgehoben.
+
+##### §. 342.
+
+Die Wahrheit der Union beider Naturen hat an der Communion und Communication der Idiome ihre Wirklichkeit, und dieses ist die Zuständlichkeit des Gottmenschen. Gegen diese ist jene nur Abstracte:
+
+erst durch den
+
+Unterschied beider Naturen hindurch geführt hat die Union wahrhaft concretes Daseyn.
+
+In dieser Bewegung und Entfaltung ihres ganzen Reichthums ist der Wechsel und die Veränderung enthalten, und das überwiegende Hervortreten der einen Natur vor der andern vorgestellt in den verſchiedenen geschichtlichen Momenten ihrer Erscheinung, ohne daß ſie deshalb irgend jemals ſich innerlich, oder im Geiſte einander loslassen könnten: denn diese Einheit ist ihr Ansichſeyn, der Unterschied aber nur die dialectische Bewegung dieses Ansich-seyns.
+
+##### §. 343.
+
+Das wechselnde und geschichtlich auseinandertretende Leben des Gottmenschen wird in der Lehre von einem zwiefachen Stande desselben vorgestellt, einem Stande der Erniedrigung und Erhöhung: (status exinanitionis et exaltationis) Phil. 2, 5- 11; als Entäußerung beider Naturen aber sind beide einander gleich, und somit im Begriff wesentlich eins. Die Entäußerung der göttlichen Natur in [p. 205] der Erniedrigung zur menschlichen ist eben dieſe, daß die menschliche Natur dadurch sich ihrer Ichheit entäußert und die erhöhte ist, so wie umgekehrt die Entäußerung der menschlichen Natur in ihrer Erhöhung zur göttlichen eben diese ist, daß die göttliche sich ihrer selbst entäußert und sich zu ihr erniedrigt.
+
+Das Zeitliche oder Nacheinander beider Stände ist nur das Erscheinende und Geſchichtliche: in Wahrheit ist in der Erniedrigung Gottes zur menschlichen Natur diese zu gleich in ihrer Erhöhung, und in der Erhöhung der menschlichen Natur Gott in seiner Erniedrigung. Denn außer dem innern Verhältniß Gottes und des Menschen zu einander hat das Hohe und Niedere, und ebenso das Erniedern und Erhöhen gar keine Bedeutung und Wahrheit; dieses nur in der Beziehung auf einander.
+
+sie haben
+
+In dieser Beziehung aber hat jedes das andere an ihm selbst, und so ſind ſie in ihrem Fürsichseyn aufgehoben und in dem Unterschiede von einander doch zugleich eins mit einander. Der mit dem göttlichen Geiste identische menschliche Geist ist in der Negativität beider Stände der mit sich identische und die zwiefache Entäußerung an sich die einfache.
+
+##### §. 344.
+
+Die Einheit und Einfachheit beider Stände zeigt sich selbst an dem Unterschiede, dem Gegenſaß und Widerspruch, in welchen der Gottmensch sich begiebt. endliche Wesen die endliche Natur
+
+Indem das unannimmt und sich zu ihr herabläßt, ist diese für sich im Widerspruch mit dem Unendlichen und gegen Gott in seiner Unendlichkeit das Niedrige.
+
+Dieses seiner an sich unwerthe, ja gegen ihn entrüs stete und mit ihm entzweite Leben, und somit den Widerspruch läßt Gott soweit in sich zu, daß er die Form der an sich wesenlosen Endlichkeit und Menschlichkeit nicht verſchmäht und darin erniedrigt er sich.
+
+Die Macht der Identität ſeiner mit sich in jenem Widerspruch oder das Sicherhalten [p. 206] und Behaupten in seiner Wahrheit und Heiligkeit mitten in jenem Widerspruch ist das Hohe, und darin ist die menſchliche Natur die erhöhte und erst zur wahrhaftigen Weſenheit gelangt.
+
+Beides aber, die Herablaffung in den Widerspruch und die Identität des göttlichen Geistes mit ſich darin, iſt die Voraussetzung oder Bedingung der Aufhebung und Vernichtung des Widerspruchs oder der Versöhnung.
+
+##### §. 345.
+
+In dieser Einfachheit und Einheit kann der Gegensatz eines Standes der Erniedrigung und Erhöhung auch als das Zurück- und Hervortreten der Gottheit in der Menschheit (als xovyns und garegwols) gedacht werden, welches aber ebenso sehr das Zurück- und Hervortreten der Menschheit in der Gottheit ist, und hiemit das allmähliche Offenbarwerden und wechselnde Offenbar und Nichtoffenbarſeyn
+
+Gottes in der Menschheit ist, oder die Individualität Chriſti. Luc. 2, 52.
+
+Der Mensch als Individuum an und für sich ist nicht der Sohn Gottes, aber die Individualität des Gottmenschen ist jene Einheit des Menschen mit Gott im Geiſte, welche Leib und Seele als aufgehobene Momente an ihr hat und sich zu allen Schwachheiten und Bedürfnissen des Einzelnen herabläßt. sehr offenbar,
+
+Die göttliche Natur ist zugleich ebenso als verdeckt durch ihre Erscheinung in der menschlichen Natur und derselben Einzelheit; diese ist derselben unangemessen und jene somit in der Verborgenheit, ohne dieſes doch absolut zu seyn und sich aller und jeder Wirksamkeit, oder gar ihres Seyns an sich in ihr zu begeben: denn diese Verborgenheit der göttlichen Natur in der menschlichen ist ebenso sehr die Verborgenheit der menschlichen Natur in Gott und die ungetrennte Einheit beider an sich.
+
+##### §. 346.
+
+Nicht also darf die Verborgenheit der göttlichen Natur in der menschlichen, welche nur ihr allmähliches Offenbarwerden [p. 207] ist, als. Privation, als Abwesenheit oder Ermangelung des Besitzes der göttlichen Eigenschaften der Menschheit gedacht werden.
+
+Auch durch die Erniedrigung der mit der göttlichen vereinigten menschlichen Natur hat diese keinesweges den Besitz der göttlichen Eigenschaften oder das Recht, den Besitz geltend zu machen, verloren, sondern ebenso sehr behalten, als ihr dieser Besitz und dieses Recht durch die persönliche Union zu Theil geworden.
+
+Nur in feiner Individualität hat Chriſtus angefangen, zu seyn, zu einer gewiſſen Zeit, unter gewiſſen Umſtänden, und er iſt allmählich dem Leib und der Seele nach geworden, was er war; dieses Allmählichwerden aber ist nur das Andersseyn des Geistes selbst; ist das allmähliche Offenbarwerden Gottes in ihm und der Stand der Erniedrigung.
+
+##### §. 347.
+
+Die Einheit des Selbst- und Gottes Bewußtseyns in Christo, das Ineinanderſeyn der Stände und die gegenseitige Mittheilung der Eigenschaften der einen an die andere macht, daß er selbst da, wo er sich des Gebrauchs und Rechts seiner der menschlichen Natur mitgetheilten göttlichen Eigenschaften freiwillig begiebt, ebenso frei auch und wo es ihm gefiel, den Glanz seiner göttlichen Natur hervortreten läßt. Wie also der Schleier der menschlichen Individualität die göttliche Majestät verhüllt, so schimmert selbst mittenf in der Schwachheit der menschlichen Natur die göttliche Macht und Herrlichkeit des Sohnes Gottes durch. Denn in dieser. freien Herablaffung des Gottmenschen ist seine Schwäche selbst zugleich seine Stärke.
+
+Es ist jene nur die freie Netraction der göttlichen Eigenschaften, wobei er condescendirend zur Menschheit auf den ihm immer gegenwärtigen und zustehenden Besitz und das Recht, von seinen göttlichen Eigenſchaften Gebrauch zu machen, freiwillig verzichtet hat.
+
+[p. 208] §.
+
+348.
+
+Wie der Stand der Erniedrigung der Zustand des abfolut allgemeinen Menschen in der Einzelheit ist, so ist der Stand der Erhöhung der Zustand des einzelnen Menschen in seiner absolut menschlichen Allgemeinheit. Als jener ist er das menschliche Individuum, als dieser der menschliche Geist der seine Wahrheit in der Einheit mit dem göttlichen hat. Dort ist der Geist in seiner Entäußerung, hat äußerliches Daseyn, sinnliche Gegenwart und unmittelbare Wirklichkeit, und in dieſem ſeinen erscheinenden Leben kann Hunger und Durst, Leiden und Sterben statt finden. Dieses ſein Andersseyn wird durch das zweite Anderswerden negirt und zurückgenommen und so als Allgemeines gesetzt. Denn dort steht der Geist noch im unangemessenen, ihm selbst nicht entsprechenden Verhältniß zu sich, ist sich selbst ungleich, das unmittelbare Daseyn der Wirklichkeit ist ihm ein fremdes und äußerliches und hört auf, dieses zu seyn, indem es in sich selbst zurückgeht.
+
+##### §. 349.
+
+In jener seiner Einzelheit hat der allgemeine mit dem göttlichen identische menschliche Geist das äußerliche, vergängliche Leben an ihm durchzumachen, und fein Erscheinen in Knechtsgestalt, sein Leiden und Sterben und seine Höllenfahrt an dem ihm andern zu erfahren.
+
+Diese Zustände, weil sie auch eine Seite haben, die der finnlichen Erfahrung und Wahrnehmung angehört, fallen hiemit in die Vorstellung und können auf eine im Endlichen unendliche Weise vorgestellt werden. Ihre Wahrheit aber haben diese Vorstellungen, und ihren wahren Werth haben diese Zuſtände lediglich darin, daß es dieser göttliche Geist selbst ist, der sich dies alles begegnen und gefallen läßt.
+
+Es fällt auf diese Zustände des Gottmenschen ein Licht, welches uns fehlt bei allen andern Menschen, und er entäußert und erniedrigt
+
+Von den Ständen Chriſti. 209
+
+ſich darin soweit, als die menschliche Natur in ihrer Individualität sich irgend mit Gott vereinigen läßt.
+
+##### §. 350.
+
+Die durch den Tod aufgehobene, der Welt noch unmittelbare Gegenwart des mit dem göttlichen identischen menschlichen Geistes in seiner Erscheinung und Individualität ist seine Befreiung von dieser und sein Auferstehen als Geist. Für die Vorstellung hat die Tradition dieses als die vergeistigte Leiblichkeit des Gottmenschen, als die Verklärung der Individualität des göttlichen Geistes dargestellt und die Wahrheit derselben oder der Begriff ist dieses, es nicht der göttliche Geist an sich oder in seiner Abstraction, sondern er in seiner menschlichen Natur ist, der befreit als der allgemeine Mensch, in von ihrer Individualität, dem Selbstbewußtseyn der Gemeinde aufersteht.
+
+Auferstehung Jesu Christi hat die christliche Religion nicht nur den Schmerz über die Eitelkeit und Vergänglichkeit alles Daſeyns, ſondern auch den Trost dafür und die ErheDie Auferstehung Christi ist die Lösung des bung darüber.
+
+Widerspruchs zwiſchen Tod und Leben, dem Zeitlichen und Ewigen, dem Vergänglichen und Unvergänglichen; diese Ldsung besteht ebendarin, daß der Sohn Gottes sich in beides begiebt, der Gestorbene auch der Auferstandene, der Ueber. wundene auch der Sieger ist.
+
+Gegen jenes unwahre Da seyn des Geistes in seiner Individualität iſt er nun erst in seiner Reinheit und Wahrheit, gegen jenes leidende und sterbende ist er nun in seinen Himmel zurückgegangen und feine, der Bewegung in den Unterschied entnommene Nückkehr aus der Differenz in die Identität ist sein Sigen zur rechten Hand Gottes.
+
+##### §. 351.
+
+Aber nun als Geist in seiner Gemeinde lebend durchlebt er in ihr fortwährend sein ganzes Daseyn durch alle
+
+[p. 210] Momente und fein individuelles und dienendes, leidendes und sterbendes, in der Hölle der Bösen selbst verweilendes Daseyn ist in ihr eine unmittelbar geistige Gegenwart. Nur in dieser beständigen Bewegung durch alle diese Momente ist er der wirkliche in ihr, und diese Bewegung selbst ist sein beständiges Wiederkommen.
+
+Sein Seyn oder Existiren in ihr als Geiſt iſt das Wiſſen; ſein natürliches, einzelnes Daseyn ist mittelst der Erinnerung in das Selbstbewußtſeyn, verſeßt, und dieſes ist das sich in seinem natürlichen, individuellen Daseyn erhaltende Wissen des Geistes.
+
+Hiemit erst ist es in seinen wahren Begriff zurückgegangen, und das besondere und einzelne Fürsichseyn des Gottmenschen dem allgemeinen Selbstbewußtseyn aufgehoben, dieses selbst geworden.
+
+Sich selbst aber in diesem Selbstbewußtseyn objectiv geworden, und das Ansichseyn desselben zum Fürsichseyn oder sich aus der Vorstellung in den Begriff erhebend ist das Wiſſen der Gemeinde die Wiſſenſchaft.
+
+##### §. 352.
+
+Für den Glauben hingegen, der sich weniger in dem Bewußtseyn der Einheit Gottes mit dem Menschen, als in dem Bewußtseyn des Unterschiedes Gottes und des Menschen oder des Schöpfers und des Geschöpfs behauptet, ist nicht etwa nur Einzelnes aus dem Leben Christi, sondern die ganze Erscheinung des Gottmenschen, deſſen ganze Geschichte, alles sein Thun und Leiden, nothwendig ein Wunder, und dieses somit die wesentliche Form der ganzen Zu ſtändlichkeit Christi, der beiden Stände der Erniedrigung und Erhöhung. Das noch sich selbst verborgene Wiſſen hat als Glauben darin vollkommen Recht, und ist der Glaube an das Wahre und hierin selber der wahre Glaube. Die Nothwendigkeit und Heiligkeit dieses Glaubens hat der Gottmensch selber anerkannt, indem er ihn fodert für alle ſeine Wunder, Matth. 13, 58., so sehr ihm auch andrerſeits
+
+Von den Ständen Christi. 211 daran gelegen ist, daß das Wunder nicht nöthig und man über den Glauben daran hinaus seyn möchte. Joh. 4, 48. Diese beiden Momente gleich sehr anzuerkennen, aber sie auch von ihrem Widerspruch, worin die biblische Tradition ſie ſtehen läßt, zu befreien, kann als die Hauptaufgabe für jede Theorie von den Wundern Chriſti angesehen werden.
+
+§. Was das Wissen, erreicht, ist nur dies,
+
+353.
+
+über den
+
+Glauben hinausgehend, daß der Glaube an Wunder darin aufgehoben ist; wo aber der wahre Glaube selbst nicht ist, da kann er auch nicht zu seiner Vollkommenheit und Wahrheit erhoben werden.
+
+Aus dem Wiſſen ist daher ebenso sehr die Rückkehr zum Glauben an die Wunder Christi offen und frei, als in dem Wissen darüber hinausgegangen worden.
+
+Die unwahre Gestalt des Wissens hingegen ist die reine Negation des Glaubens an Wunder, welche als solche zugleich zum Widerspruch und zur Erboßung dagegen fortschreitet, und welche ohne ein wahrhaftiges Wiſſen nur die leere und eitle Anmaßung des nichts wiſſenden abstracten Verstandes ist.
+
+Denn obgleich das Wiſſen im Glauben an
+
+Wunder nicht die Macht ist, das Wunder selbst zu wiſſen oder aufzuheben, welches die Macht wäre, selbst Wunder zu thun, so vermag es doch, den Glauben daran in der Gemeinde ebenso sehr als das Thun derselben von Seiten Chriſti als ein würdiges und vernunftgemäßes zu wiſſen.
+
+##### §. 354.
+
+Der vorhin aufgezeigte Widerspruch in der biblischen Tradition ist nur in der Vorstellung, die Auflösung deſſel den ist die Erhebung der Vorstellung in den Begriff, in welchem sich dann zeigen muß, daß der Widerspruch ebenso sehr an sich gar nicht vorhanden, als in der Vorstellung nothwendig war.
+
+Die Bewegung aus dem Unterſchied in [p. 212] die Einheit der göttlichen und menschlichen Natur setzet noth wendig den Wunderglauben; die Bewegung der Einheit beis der in den Unterschied seßet nothwendig das Wunderthun; in der Einheit der göttlichen und menschlichen Natur selbst. und an sich, welche der Gottmensch ist, ist das Wunder, als Glauben und Thun aufgehoben: er an sich ist in seinem absoluten Wiſſen und Thun zugleich alle Macht, und eben so sehr die Macht, Wunder zu verrichten, als darüber hinaus zu seyn.
+
+##### §. 355.
+
+Zuerst erhellet leicht, daß für Gott, abſtract gedacht, das Wunder nicht ist, da für ihn die Natur nicht selbständig ist oder eine solche, deren Urheber und Herr er nicht wäre, sondern die Natur, welche Gott in ſich hat und hält, ist ebendie, welche ihn in sich hat und die in allen Bewegungen nur seinem Gesetz und Willen folgt. Das also ist gar kein Wunder, daß es für Gott keine Wunder giebt.
+
+der Natur, dem göttlichen Gesetz folgend, ist alles natürlich und vernünftig, ſie hat Vernunft, obwohl nur auf bewußtlose, vernunftlose Weise.
+
+Wird die Natur nun menschlich,
+
+`hat sie in dem Menschen das Bewußtseyn erreicht, und bleibt sie da stehen auf der Stufe dieses Bewußtseyns an und für sich selbst, so ist das Wunder ebenso wenig für diesen Menschen da in solcher Concretion mit der Natur selbst. Dieser natürliche Mensch hat noch keine Ahndung von dem Geiste Gottes, als dem Urheber und Herrn der Natur, sein Leben ist mehr ein thieriſches noch, als ein menſchliches.
+
+##### §. 356.
+
+Laffen wir ihn hingegen allmählig hervorgehen aus dieser seiner Thierheit und Unwirklichkeit in den eigentlich menschlichen Zustand, ſo iſt die Wahrheit dieſes ſeines menſchichen Denkens und Seyns das göttliche Denken und Seyn,
+
+Von den Ständen Christi. 213 und kann ihm nun wohl noch die Natur, sowohl die phy fische, als die moraliſche als die gott- und geistlose entgegentreten, als jenes non - ens, da er es selbst nicht mehr ist? In Kindern dämmert der Glaube an Wunder mit den ersten Regungen des Bewußtſeyns Gottes auf. Die Wahrheit dieses Glaubens ist das Bewußtseyn, daß die Natur, außer und in uns, nicht absolut in ſich selbst oder selbständig und in dieſem absoluten Insichſeyn ohne Wahrheit, daß Gott vielmehr ihr Schöpfer und Erhalter, und er die Macht sey über die Natur.
+
+Aber die kindische Form, welche da noch dieser in sich wahre Glaube annimmt, ist ihm selbst noch unangemessen; er hat in dieser Form durchaus keine Sicherheit in sich gegen jeden Aberglauben; er weiß das falsche Wunder oder Scheinwunder von dem wahren noch nicht zu unterscheiden. Das Kindische zeigt sich ebenso sehr als dunkles Gefühl, in welchem Gott und die Natur identi ficirt und mit einander verwechselt sind, wie als abstracter Gedanke, in welchem Gott und die Natur als absolut außer einander und sich gegenüber, Gott als von Außen gleichſam in die Natur hineinwirkend gedacht ist.
+
+##### §. 357.
+
+Auf die falschen oder Scheinwunder allein sich beziehend, wird der Wunderglaube falsch und nur scheinbarer, kein wahrer Glaube, und dieser Aberglaube macht Gaukler und Betrüger zu Wunderthätern, oder staunt Naturbegebenheiten als Wunder an.
+
+Die menschliche und göttliche Natur, oder Gott und der Mensch sind darin zwar im Verhältniß zu einander, aber im unwahren und falschen.
+
+wahre Wunderglaube setzet die Einheit Gottes mit dem Menschen voraus: aber noch nur eine Voraussetzung und Unwirklichkeit läßt sie noch keine wirklichen Wunder zu, sondern nur den Glauben an die möglichen und zukünftigen. Und dieser Glaube ist der Anfang des wahren Glaubens [p. 214] an Wunder.
+
+Denn wenn es freilich weder für Gott, wie er ewig in sich selber ist, ein Wunder geben kann, noch für den Menschen, wie er ohne Gott nur in ſich ſelber ist, so hebt hingegen in der Menschheit, wie sie für Gott erwacht, nothwendig der Glaube an Wunder an: denn hiemit iſt das Wunder, woran geglaubt wird, mit dem Glauben daran identisch, und beides zum Bestandtheil des Selbstbewußtseyns geworden. Der wahre Glaube an Wunder ist die Bewunderung Gottes. Diesem Glauben ist Gott nur, ſofern er nur Wunder thut.
+
+Sein Name ist Wunderbar.
+
+§.
+
+Jef. 9, 6.
+
+358.
+
+Dieser Zusammenfluß der göttlichen und menschlichen dieser Anfang der Aufhebung der Natur oder vielmehr menschlichen Natur in der göttlichen ist aber ebenso sehr noch mit der Voraussetzung der Einheit, als mit dem wesentlichen Unterschiede behaftet.
+
+Gott thut nur Wunder vor denen, die an ihn glauben, aber ebenso sehr noch von ihm entfernt sind.
+
+Ist jener Glaube die Wahrheit der menschlichen Natur, so ist diese Entfernung noch zugleich ihre Unwahrheit.
+
+Um jenes Glaubens willen kann der Wunderglaube geschont und geachtet, um dieser Entfernung willen, die ein ebenso wesentliches Element ist in dem Begriff def ſelben, nur beklagt und weggeräumt werden.
+
+Diese Wegräumung aber ist nicht ein Hinabseßen in die leere Negaion, sondern die Fortsetzung und Erhebung deſſelben in eine höhere Region.
+
+##### §. 359.
+
+Es giebt, so lange die Welt steht, nur Ein Wunder, und dieses ist der einzig gerechte Gegenstand aller Bewunderung und aller Glaube an Wunder hat nur darauf hingezielt und wendet sich nach der Erscheinung deſſelben nur dieſem Einen zu. Denn größer ist nicht das Wunder der Welt-
+
+Hauptstück 11.
+
+Von den Ständen Christi. 215 schöpfung durch Gott, als dieses, daß er selbst die menſchliche Natur angenommen und Mensch geworden ist.
+
+Ist nun in diesem Menschen die vorausgesetzte Einheit Gottes mit dem Menschen keine Voraussetzung oder Ahndung mehr, ſondern die Wirklichkeit, ſo iſt einerseits in ihm das Prinzip aller Wunder und alles Wunderglaubens offenbar geworden, anderseits der Gegensatz zwiſchen ihm und denen, die sich im Unterschiede befinden gegen ihn, vorhanden.
+
+Sich nicht im
+
+Unterschiede wissend von Gott ist er nur sich selbst kein Wunder, so wenig als Gott sich ein Wunder ist.
+
+Und so thut er auch Wunder vor andern ganz nur mit der Leichtigkeit und Sicherheit der Natur und erklärt, in der vollkommenen Einheit mit ihm durch den Glauben würden sie diese Werke auch, ja größere thun, denn dieſe, vor ſolchen nämlich, welche derselbigen Einheit ermangeln.
+
+§.
+
+Joh. 14, 12.
+
+360.
+
+Wenn in der Bewegung aus dem Unterschiede zur Einheit Gottes und des Menschen der Glaube an Wunder und leicht mit ihm jeder kindische Wahn und Aberglaube entsteht, der das Natürliche und Göttliche nur mit einander verwechselt, so bringt hingegen die Erscheinung der Einheit Gottes mit dem Menschen, sowohl im Stande der Erniedrigung, als der Erhöhung, für alle, die sich im Unterschiede wissen von ihm, das wahre, ja einzige Wunder zum Vorſchein; ſie nimmt nothwendig für die von ihm noch Entfernten, die Gestalt des Wunders an, und läßt sich in einzelnen Wundern zu ihrer Schwachheit herab.
+
+Die Wahrheit der
+
+Wunder Chriſti iſt die in seiner göttlichen Weisheit und Heis ligkeit mit enthaltene Macht über die Natur. In ihm, dem einzelnen Menſchen, ist, als dem allgemeinen, zugleich die allgemeine Macht der Menschheit concentrirt. Die in dem Centrum der Menschheit verborgene divinatorische und thaumaturgische Kraft wird in ihm allen Einzelnen in der Periphes [p. 216] rie als Wunder offenbar.
+
+Dieser Macht, als des Prinzips alles Wunderthuns, ist er sich bewußt und ſein Schmerz ist nur, daß er mittelst einzelner Wunder die sonst nicht an ihn und seine unendliche Macht Glaubenden erst überzeugen soll.
+
+Marc. 8, 12.
+
+$.
+
+361.
+
+Der Gottmensch also, dem in seinem absoluten Wiſſen und Thun nichts ein Wunder iſt, verrichtet sie vor denen, welche derselben zum Glauben an ihn bedürfen, und der Glaube an die wahren von ihm verrichteten Wunder ſeßt sich fort in der Gemeinde in dem Glauben an die Berichte davon.
+
+Aber an und für sich sind sie nicht für abſolute
+
+Bedingungen und Bestandtheile der Religion zu halten: der Glaube daran ist in dem Wissen von seiner mit der Weiss heit und Heiligkeit identischen Macht aufgehoben.
+
+Wer möchte daher wohl sagen: ohne Wunder zu thun, könne der Gottmensch an und für sich nicht seyn, oder die Absicht seiner Sendung an die Welt sey gewesen, Wunder zu thun? Nennt er doch selbst diejenigen selig, welche nicht sehen und doch glauben. Joh. 20, 29. So unwahr und unvereinbar mit dem Christenthum die Lehre derer ist, welche die wirklichen Wunder Chriſti läugnen oder sie, so zu sagen, natürlich erklären und das Leben suchen bei den Todten, ſo thun doch auch die der Religion so wenig, als der Wiſſenſchaft einen Dienst, welche lehren, daß man dem Sohne Gottes, welcher Mensch geworden, darum zu glauben habe, weil er Wunder gethan und feine Wunder als Beweise der Wahrheit und Göttlichkeit seiner Sendung und Lehre aufſtellen, anstatt zu lehren, daß man ihm, als Wunderthäter selbst erst blos darum`zu glauben habe, weil er der Gottmenſch ist, und der Welt Erlöser.
+
+[p. 217] Drittes Hauptſtück. Erlösung.
+
+##### §. 362.
+
+Das Bedürfniß der Welt in ihrem Insichseyn und AnsichFesthalten ist kein anderes, als das negative zunächst, von sich selbst los zu kommen oder erlöst zu wer den, als dem unwahren Daseyn ihrer selbst.
+
+Ihre Unwahrheit aber ist eben diese, auf sich selbst beschlossen und beſchränkt zu seyn in ihrer Natürlichkeit und Endlichkeit, gegen das unendliche Seyn aber, welches das Seyn des Geistes ist, sich absolut negativ zu verhalten. gegangen und verlorenseyn.
+
+Dieses ist ihr Insich
+
+Der absolute Geist hingegen, indem er die Negation jener Negation ist, wird hiemit die positive Befreiung und Wiederherstellung der Welt zu ihrer Wahrheit und Wirklichkeit.
+
+Er ist, als das erlösende Prinzip, die Erlösung selbst, und in ihm ist sie auf eine ewige Weise gestiftet und vollbracht.
+
+Dieses Prinzip, als das mit sich selbst einige, ist hiemit die negative, über das Böse, als das mit Gott und mit sich selbst im Widerspruch stehende ewig siegende, nicht aus der Welt ſtammende, sondern die Welt aus ihrem Verderben errettende Macht, das Thun deß sen, in welchem Gott und der Mensch vollkommen eins iſt.
+
+##### §. 363.
+
+In ihrer Selbstfucht ist die Welt die unwahre und verdorbene: ' in beiden die verlorene und unſelige.
+
+Ihr Bedürfniß ist das der Wahrheit und Heiligkeit theilhaftig, durch beides aber beseliget zu werden. Das Thun oder Verdienst des Gottmenschen nun ist ebenso sehr ein Wissen, als Handeln, in beiden aber die unendliche Macht Gottes selbst, in der Einheit mit dem Menschen.
+
+In seinem Wissen und
+
+[p. 218] Offenbaren der Wahrheit wird er vorgestellt als Prophet oder in seinem prophetiſchen Amt;
+
+in seinem Handeln als der die Welt mit Gott versöhnende oder als Priester; in seiner unendlichen Macht, in der beiderlei Thätigkeit eins und aufgehoben ist, als der Regent oder König.
+
+a.
+
+Von dem prophetischen Amt Christi.
+
+##### §. 364.
+
+Die Erlösung hebt an in dem Bewußtseyn und zwar indem es, als an sich das Bewußtseyn des menschlichen Geistes in seiner Einheit mit dem göttlichen, dieses für das Bewußtseyn selber ist.
+
+Die Existenz des Geiſtes an sich in jener Einheit ist das absolute Wissen, in seiner Subjectivität der Glaube des Einzelnen, in seiner Objectivität der öffentliche Glaube des Volks.
+
+Das abſolute Wiſſen zeigt sich somit als Glaube an daſſelbe, in welchem Glauben der ganze Reichthum desselben an dasselbe, obwohl zunächst nur in die Vorstellung übergeht.
+
+In diesem seinem Uebergange ist das abſolute Wiſſen ein Sichoffenbaren und somit Offenbarung an und für sich, deren Inhalt die Einheit Gottes mit dem Menschen oder der Gottmensch selber (er fodert den Glauben an seine Person, Matth.
+
+4,
+
+17. 23.
+
+9, 35.
+
+Marc. 1, 14. 15.), deren Form aber die Lehre ist.
+
+##### §. 365.
+
+Wie die Sprache ohne den Geist und Gedanken, so ist auch die Lehre ohne den Inhalt nichts Reelles: sie ist an sich nur das Zeugniß des Daseyns.
+
+In der äußerlichen
+
+Form der Lehre iſt Chriſtus jedem andern menschlichen Lehrer gleich.
+
+Nach Art der Propheten seines Volks tritt er auf und fügt sich in alle menschliche Mittel, welche jedem andern Lehrer zu Gebote stehen.
+
+Gegen diese Aeußerlichkeit der Form ist ihr Inhalt die Wahrheit der Lehre, dieser aber [p. 219] der Erlösung.
+
+als absoluter Inhalt nicht ohne seine absolute Form, und nur in der Einheit mit dieser die Wahrheit selbst. Wie die Wahrheit des Gottmenschen die Einheit des Wesens und der Form oder der göttlichen und menschlichen Natur, so ist er in dieser seiner Einheit ebenso sehr der wesentliche Inhalt. als die wesentliche Form seiner Lehre.
+
+##### §. 366.
+
+In seiner tiefsten Demuth und Erniedrigung kann er daher nicht unterlaſſen, ſich als mit der Religion an ſich identisch zu offenbaren, und als nichts im Wesentlichen von ihrem Inhalt verschiedenes seine Lehre darzustellen und keiner andern Mittel, ſie geltend zu machen, bedient er sich, als nur dieser ihrer unmittelbaren Manifestation. Der göttliche Geist existirt in ihr als der menschliche nur im abſoluten Wiſſen, in welchem an sich das Wesen und die Form absolut gleich sind.
+
+Ihre Ungleichheit nur ist ihre Geschichte.
+
+In ihrem
+
+Wesen ist die christliche Religion nicht entstanden, sondern nur ihre Form an sich ist das Werden für sie.
+
+Der Sohn
+
+Gottes ist die ewige Offenbarung des Vaters.
+
+Das Anfangen und Entstandenſeyn der chriftlichen Religion ist nur das Anfangen und Entstehen der Menschheit für sie.
+
+##### §. 367.
+
+Für das Wesen der Religion entstanden ist aber die Form durch das Wesen derselben selbst, und hat ſomit kein äußerliches und gleichgültiges Verhältniß zu ihm, sondern ein inneres und nothwendiges. In der christlichen Religion, als dem Wesen aller Religion, ist die Form die wesentliche; in der christlichen Religion, als der absolut göttlichen, ist die Form die absolut menschliche.
+
+Nicht Gott in der Abstraction von der menschlichen Natur, nicht der Mensch in der Abstraction von der göttlichen Natur, sondern der Gottmensch ist der Stifter der wahren Religion:
+
+nur er kann [p. 220] ihr einen solchen Anfang geben in der Zeit, daß sie auch in dieser ihrer zeitlichen Form und Erscheinung nichts verliert von ihrem Wesen, sondern derselben absolut gleich bleibt. In allen vorchristlichen Religionen war die Form dem Wesen ungleich und unangemeſſen, und ebendarin sind sie die unwahren Formen der Religion.
+
+##### §. 368.
+
+Im Verhältniß zu den vorhandenen, unwahren Formen der Religion ist Christus als Reformator anzusehen, und dieses ist die äußerlichste, historische Erkenntniß seines Vers dienstes.
+
+In und mit ihm war ein Gericht aufgegangen über jede vorhandene Religionsform, und es fiel die Moſisdecke und die heidnische Blindheit von den Augen. Aber hier verhält sich die Betrachtung nur noch ganz negativ, indem ihr das Christenthum noch nichts anders ist, als ein reformirtes Juden- und Heidenthum.
+
+Reformator in die fem Sinne ist jeder, der eine vorhandene, unangemeſſene
+
+Form zerbrechend zu der bereits vorhandenen wahren Form Aber diese war vor Chriſto gefchichtlich noch nicht vorhanden. Vielmehr ist er also darin Reformator zu nennen, daß er der an sich und ewig seyenden Religion eine zurückführt.
+
+ganz neue Form gab; als solcher aber ist er der Religionsstifter.
+
+##### §. 369.
+
+Als die gestiftete, wahre Religion ist das Christenthum Zurückführung derselben 1auf die Urform derselben selbst, und dadurch unterscheidet sich der Stifter des Christenthums zugleich von jedem andern Religionsstifter, dergleichen auch Moses und Muhammed sind. Die Neuheit und Verschiedenheit der Religionsform, als christliche, von jeder vorhandenen ist nicht der einzige Character des Christenthums, ſondern hierin ist die Betrachtung noch ganz formal und abstract. Die wahre Religion ist das Christenthum durch die [p. 221] abfolute Einheit des Wesens aller Religion mit der wesentlichen Form; darin also, daß es selbst die reinste und vollkommenste Erscheinung des Wesens der Religion an ſich iſt, iſt es die von ihrer Form befreite jüdische und heidnische Religion.
+
+§. 370. Als diese aber ist das Christenthum auch die Wahrheit aller vorchriftlichen Religion, und diese nur in allen Geſtalten das noch ihr selbst verborgene Christenthum.
+
+In dies sem Sinne ist wahrhaft das Christenthum ſo alt, als die Welt, und falsch ist hier die lediglich hiſtoriſche Betrachtungsweise, welche das Vorhergehende als Grundlage des Folgenden betrachtet und lehret, auf dem Alten Testament beruhe das Neue.
+
+Das Wahre ist vielmehr das Umgekehrte.
+
+wahre Religion ist, als der wahre Anfang der Menschheit, die Grundlage aller fpätern Unwahrheit und derselben Möglichkeit; ohne den Glauben kann es auch nicht zum Aberglauben, als déſſen Entstellung kommen.
+
+Der an und für sich dunkle Mond des Alten Testaments hat ſein Licht allein von der Gnadenſonne des Evangeliums, und ebenso ist dieſes allein die Wahrheit jener sternbeſäeten Nachtſeite der Religion, welche das Heidenthum ist.
+
+In dieser Form ist alle vorchristliche Religion nur das negative Christenthum, noch der in der individuellen und nationalen Beschränktheit gefangen gehaltene Geist des Christenthums, dieses selbst aber, als Negation jener Negation, Abstreifung der unwahren Hülle und Wiederherstellung der Urreligion.
+
+##### §. 371.
+
+Aber als die Negation der christlichen ist jede frühere Religion eine positive Bestimmung, welche die chriftliche an ihr selbst enthält. In allen ihren mannigfaltigen Gestaltungen hat die vorchriftliche Religion eine beſtimmte Beziehung auf die christliche. Es allein ist das Wahre und Gute, d. i.
+
+[p. 222] Dritter Abschnitt.
+
+das Göttliche in ihnen, ohne welches absolut gedacht der heidnische Glaube auch nicht einmal Aberglaube zu seyn vermöchte.
+
+Selbst über sie alle unendlich hinaus durchlebt der Geist Jesu Christi die Menschheit auf allen Stufen, und befindet sich darin im Stande feiner Erniedrigung; das Bewußtseyn Gottes in jeder Form ist als das negative Moment ſeiner Allgegenwart auch nicht ohne ihn.
+
+Dieſem nach ist, was von wahrer Religion vor dem Christenthum vorhanden ist, wesentlich christlich und muß nicht nur, was der Judaismus an wahren Offenbarungen Gottes enthält, gleichsam als einzelne, kühne, meiſt prophetiſche Anticipation des Christenthums, sondern auch jede einzelne Wahrheit in der heidnischen Religion und derselben Myſterien als Spolie der einen und ewigen Offenbarung Gottes betrachtet werden. Seinem Wesen nach ist das Christenthum vollkommen eins mit demjenigen, was im Heiden- und Judenthum als Religion anzusehen ist.
+
+Ihrem Wesen nach ist überhaupt die
+
+Religion nur Eine; jede falsche ist nicht Religion, ſondern Superstition.
+
+##### §. 372.
+
+Auf seiner tiefsten Stufe steht der Geist Jesu Christi in seiner Menschheit oder der christliche Geist in der Concre tion mit der Natur oder in der Naturanſchauung. Er selbst ist da noch in seiner reinen natürlichen Innerlichkeit, die Seele der Natur oder als Naturgeist, in ſich verſenkt und verloren.
+
+Der Mensch auf dieser Stufe hat das Endliche selbst und als solches zu ſeinem Gott oder Fetisch.
+
+dieſem ſeinen träumeriſchen Daſeyn ist er noch auf der Stufe des bloßen Empfindens; das Unmittelbare und Sinnlichgegenwärtige, das Materielle und Geiſtloſe iſt ihm seines Gottes Erscheinung.
+
+Wie da der Geist sich naturaliſirt hat, so ist die Natur da auch ebenso spiritualiſirt und die Religion [p. 223] jener Pantheismus, der die Natur vergeistigt und Alles in ihr zum unmittelbaren Ausdruck der Gottheit macht.
+
+§. Aus dieser Unendlichkeit
+
+373. des Endlichen ist der Geist wesentlich auch nicht heraus auf der Stufe der Kunſtreligion, in welcher die Natur in ihrer erscheinenden Realität nur in den Geist eingegangen, um als Idealität sich wieder Es bleibt auch da bei der finnlichen Anheraus zu kehren.
+
+schauung, und der Ausdruck derselben ist das Symbol, das Bild des Gottes entweder von ihm selbst nicht verschieden, wie in der Naturreligion, oder als deſſen Ideal, Darstellung der Vorstellung; so in der Kunstreligion. Ohne Beziehung noch auf das Wiſſen ſeyend, hat diese Religion kein Dogma, ſondern den Mythus zu ihrem Lehrinhalt. Die wissenschaftliche Erforschung des Zusammenhangs dieser unwahren Religion mit der wahren ist die Symbolik und Mythológie.
+
+##### §. 374.
+
+Die Religion auf dieser Stufe ist nicht sowohl Religion, als Superſtition, nicht Glaube, sondern Aberglaube.
+
+Mit der Erlösung identisch hat die Religion hier mehr noch das Moment der Entzweiung, als der Versöhnung in sich, und die Nothwendigkeit der Erlösung in ihr ist nur die ihrer Aufhebung auf einer höhern Stufe.
+
+Die Erlösung selbst verräth ſich nur in dem äußerlichen Opfer und deſſen Vervielfältigung und im Eidschwur: beides ist nicht ohne das Bewußtseyn der Endlichkeit und Vergänglichkeit aller Dinge und dieses ist das Wahre daran. Aber indem der Geist hier noch in dem Materiellen und Geistlosen, wie im Jrdiſchen und Unſittlichen außer sich ist, bedarf er der wahren Religion, als der Negation dieser seiner Religion und als der Erlösung selbst von dieser feiner Religion.
+
+An der Lehre
+
+Jefu Chrifti verstummen die alten Orakel, als Stimmen des Gottes.
+
+[p. 224] §.
+
+375.
+
+Von dieser Stufe der Naturanschauung kehrt der Geiſt zu sich zurück und erhebt sich auf die Stufe der Reflexion und Abstraction von aller Anschauung, allem sinnlich Gegenwärtigen, Natürlichen, in das reine, bildlose Element des Gedankens.
+
+Mit dieſem abstracten Denken ist er dem Glayben und Wissen näher und seine Religion hat die Form der nur im Wort und Geſeß Gottes offenbaren und zu ihren Organen nicht bloß Priester, sondern auch Lehrer und von Gott gesandte und beglaubigte Propheten.
+
+Aus der
+
+Isolirtheit der Vorstellung des Individuums iſt die Religion schon in ein wahrhaft objectives Daseyn übergegangen, in eine Gemeinschaft der Gläubigen, dergleichen bei aller
+
+Objectivität seiner Religion dem Heidenthum fremd war. Der absolute Geist in der Einheit mit dem menschlichen oder der christliche Geist verknüpft mit sich das Andenken an diese seine Stiftung, die Geschichte der Väter und eines ganzen Volkes, daß an diesen seinen Erinnerungen und Geſchichten zugleich die Geschichte der göttlichen Leitung und Erlösung hat. Diese selbst aber zerfällt in die Dimensionen der Zeit, in der nur die Vergangenheit und Zukunft unendlich reich, die Gegenwart aber zugleich unendlich arm erscheint.
+
+An der Ueberlieferung und Weissagung oder an der Erinnerung und Hoffnung hat Iſrael die wesentlichen Momente seiner Erlösung.
+
+##### §. 376.
+
+Der mit der Menschheit einige absolute Geist hat sich in der Form der Nationalität substanziirt.
+
+Ein Volk hat er sich erwählt vor allen andern und wie jenes das Volk des Geistes ist, so sind diese zum Fleisch herabgesetzt. Die Weltgeschichte hat außer diesem Volk keine Bedeutung mehr; es selber ist das welthistorische, und das Heil aller Völker iſt geknüpft an dieſes eine.
+
+So ſich auf die Menschheit unter [p. 225] ter ihm, und auf den Nationalgott über ihm beziehend, ist es in dieser bloßen Relation zwar im Verhältniß zu beiden, aber zugleich noch getrennt von beiden.
+
+Diese Abstraction ist der unendliche Schmerz Ifraels, ſein Unglück und Untergang.
+
+Es selbst ist zwar die bewußtlose Vermittelung zwiſchen beiden, aber zugleich das Opfer, welches fallen muß, soll die Erlösung vollendet werden.
+
+Denn in dieser
+
+ſeiner Vermittelung der Uebergang in die Versöhnung Gottes und der Menschheit, iſt es zugleich die Hemmung derſelben, indem es nur darin ist und feine Bestimmung hat, einerseits die Beziehung der Form auf das Wesen, des menschlichen Gedankens auf Gott, als den wesentlichſten und höchsten Gedanken zu seyn, aber darin zugleich über die Form der Nationalität nicht hinauszugehn.
+
+##### §. 377.
+
+In diesem Verhältniß des Geistes Gottes und des Geistes der Menschheit zu einander, sind sie beide doch noch von einander verschieden.
+
+Der allgemeine Geist der Menschheit hat sich in Israel besondert, dieses aber in solcher Besonderung dem allgemeinen Geiste der Menschheit sich entgegengesetzt, ihn in sich aufgehoben. Der wahre Geist seines Volkes und aller Völker oder der gesammten Menschheit, ist der Geist eines Individuums dieses Volkes, in welchem er sich zwar einerseits vereinzelt, aber zugleich als Geist der Menschheit in seiner höchsten Allgemeinheit zeigt, somit jene Aufhebung geschehen ist. Seinem Volk gehöret er nicht so an, daß er der ganzen Menschheit fremd wäre.
+
+In dieser feiner abfoluten Allgemeinheit ist der Unterschied zwischen dem absoluten Geist und ihm ebenso sehr vorhanden, als nicht.
+
+Wer ihn nur als dieses Individuum ansieht, hat an ihm nur den Menschensohn;
+
+wer darüber hinauszugehen weiß, erkennt in ihm den Sohn Gottes.
+
+Für diesen welthistorischen Menschen und in ihm existirt der abfolute Geist
+
+P [p. 226] als das absolute Wiſſen, und dieses sein Wiſſen von ihm ist die Erlösung der ganzen Welt: diese Existenz des Geistes, welche an und für ſich ſelbſt Wiſſen iſt, iſt die Offenbarung in ihrer Abfolutheit selbst. }
+
+§.
+
+378.
+
+Als dieser einzelne mit dem allgemeinen, als dieſer allgemeine mit dem abfoluten Geist identische menschliche Geist ist der Geist Jesu Christi in seiner Gemeinde der abfolut gegenwärtige, und hiedurch der erlösende. Er ist das lösende Wort zu jenen stummen Gedanken, welche die Welt und Menschheit dunkel und bewußtlos bewegen, bis sie in ihm ihre Wahrheit und Ruhe finden.
+
+Das Wissen Jesu Chrifti von Gott ist das Daseyn des göttlichen Geistes selbst, und somit das Offenbarfeyn desselben oder die Religion selbst als die offenbare, diese somit vom Daseyn und Leben Jesu Christi wesentlich nicht verſchieden. Er ist die Religion ſelbſt und die Erlösung, Joh. 14, 5. 6., und alle Befreiung und Freiheit ist nur in ihm und von ihm.
+
+Joh. 8, 32. 36.
+
+Wie er selbst, als dieses einzelne Bewußtseyn das Selbstbewußtseyn der ganzen Menschheit ist, so kommt auch jedes, wie es erwacht und zu sich kommt, zugleich zu ihm.
+
+##### §. 379.
+
+Die von ihm ausgehende Erlösung hat zu ihrem Inhalt oder Zweck, welcher von ihrem Begriff nicht verſchieden ist, die Befreiung der Welt zunächst von sich, als Natur oder als Negation des Bewußtseyns: denn darin ist ſie zuerst in dem unmittelbarſten und unvermitteltſten Inſichfeyn, in der Erbsünde, und hiemit die unwahre, in ſich verlorene Welt. Zu sich aber gekommen in dem Bewußtseyn als Ich ist die Welt, als Natur, in dem Bewußtseyn zwar aufgehoben in ihrer Unwahrheit und zum bloßen Moment geworden, aber in der Beziehung auf das Ich stehen bleibend [p. 227] in die natürliche Gier und Sucht des Ich, in die Ichsucht und Selbstsucht umgeschlagen, und sie hierin die factiſch in sich gegangene und verlorene Welt. Aus diesem isolirten Ichſeyn oder der Subjectivität des Bewußtseyns in das allgemeine Bewußtseyn hinaufgehoben, ist es Selbstbewußtſeyn, hat wahrhaftige Objectivität, und ist als das Ich nur aufgehobenes Moment des allgemeinen Geistes der Menschheit. Der aber diese Bewegung und Aufhebung der Natur und des Ich in ihrer Selbſtändigkeit vollbringt, ist der abfolute Geist in der Einheit mit dem menschlichen, der Geiſt Jesu Christi. Er, durch die Natur und das Ich sich bewegend, ist das reinigende und befreiende, die Welt von sich erlösende Prinzip. 1. Cor. 1,30. Joh. 8, 12. 17,3. 1. Cor. 3, 11.
+
+b.
+
+Von dem priesterlichen Amt Christi.
+
+##### §. 380.
+
+Die Erlösung hat zunächst an ihr selbst die Bestimmung jener negativen Macht, welche die Frei- und Losmachung der Welt vou ihr selber ist.
+
+An dieser Seite ist sie die Aufzeigung des Widerspruchs und die Offenbarung der Wahrheit, die Stiftung der wahren Religion. Hiemit aber ist sie zugleich als positive Macht die Vertilgung des Widerspruchs und die versöhnende Macht.
+
+Die Nothwendigkeit der Versöhnung ist bereits in der vorausgegangenen Entzweiung enthalten, welche lettere schon in der uns
+
+E mittelbaren Einheit Gottes und der Welt enthalten war, die als solche nothwendig sich in den Gegensatz fortbewegte. Die unmittelbare Einheit hat, wie die Entzweiung, in ſich keinen Bestand und kein Verbleiben: sondern die Versöhnung erst ist ihr Zweck: in ihr erst hat der Begriff der wahren Einheit sich selbst erreicht. nur,
+
+Aber auch die Versöhnung ist indem Gott der mit sich und der Welt einige, die Welt, die mit Gott und sich selbst entzweite ist.
+
+P 2 [p. 228] nun, daß das mit sich und der Welt einige göttliche Wesen selbst sich durch das Verderben der Welt, es vertilgend, hindurch bewegt, ist die Versöhnung der Welt mit Gott durch Gott.
+
+##### §. 381.
+
+Aber nicht kann dieses. durch Gott geschehen in seinem abstracten, der menschlichen Natur entfremdeten Wesen, welche Entfremdung vielmehr ſelbſt nur die menschliche Entzweiung ist mit Gott. Aber ebenso wenig kann der Mensch an und für sich der Versöhner seyn.
+
+In allen Menschen und Völkern ist nur das Bedürfniß der Versöhnung, nicht ſie an und für sich selbst.
+
+Wäre sie als solche da und mehr als dieses Bedürfniß, so wäre, sie überhaupt nicht nöthig, und auch das Bedürfniß nicht vorhanden.
+
+Das Bedürfniß der
+
+Versöhnung aber ist vorhanden als Glaube an ihr göttliches Gestiftet- und Geschehenſeyn, und dies Geschehenſeyn, dieſe Handlung ist der Gegenstand einer dem Glauben sich gebenden Lehre, das Dogma von der Versöhnung oder dem priesterlichen Amt Chriſti. Als dieſes, oder als Befriedigung des Bedürfnisses kann sie ebenso sehr, als dieses Bedürfniß selbst, nur von Gott, dem Bedürfnißlosen und sich selbst Genugsamen ausgehen.
+
+Er allein bewirkt dieses Bedürfniß, deffen Befriedigung nur der Gottmensch ist. §.
+
+382.
+
+Sich selbst`ewig genugseyend ist Gott auch der sich selbst genugthuende, und hierin der sich offenbarende, und was in ihm ewig ist, auch der Welt in zeitlicher Weise mittheilende. Als der offenbare Gott_aber ist er der Sohn, in seiner Einheit mit der Welt der Mensch, Jesus Christus. Darin allein, daß in ihm die menschliche Natur nicht im Unterschiede steht von der göttlichen, ist die Möglichkeit einer Versöhnung durch ihn enthalten.
+
+In der Liebe, womit
+
+[p. 229] Hauptstück III. Von der Erlösung der Vater ihn sendet in die Welt, thut sich der Vater selbst genug. In der Liebe, womit er des Vaters Auftrag vollbringt, thut der Sohn wie dem Vater, so sich selbst genug: denn diese Liebe ist das göttliche Wesen, der Geist des Vaters und Sohnes selbst. Wie dieses ganze Verhältniß Gottes zur Welt in Jesu Chriſto das Verhältniß der Liebe ist, so ist auch die Liebe Gottes in Jesu Christo die ebenso freie, als nothwendige Macht, welche nicht etwa mit sich selbst entzweit durch Zorn, Haß, Rache und dergl. allein die Entzweiung der Welt mit Gott aufheben, und die Versöhnung der Welt mit Gott stiften kann. Joh. 3, 18. 1. Joh. 4, 8. ff. Rom. 5, 8.
+
+##### §. 383.
+
+Die eine Seite der Versöhnung ist also die sich selbst genugthuende Liebe Gottes.
+
+Die Versöhnung ist Genugthuung (Satisfactio).
+
+Wird sie in ihrer Nothwendigkeit in Beziehung auf das Verderben der Welt abstract genommen, so ist sie die unwirkliche, und es entstehen die Neugierden und Fragen, ob nicht auch andere Weisen der Vers föhnung zu denken seyen, als die, in welcher sie wirklich ist. Die gottgenugthuende Liebe aber ist sie wirklich erst als die menschliche Liebe Gottes zur Welt: denn hiemit erst wird sie die gottgenugtbuende göttliche Liebe der Welt zu Gott; sie zeigt sich in der Person Eines Menschen, als des Stellvertreters der Welt, und wirklich also ist die Versöhnung der Welt in der Genugthuung nur als stellvertretende Genugthuung (Satisfactio vicaria).
+
+##### §. 384.
+
+Als stellvertretende enthält sie einerseits in ihrem Begriff die Bestimmung, daß es nicht die Welt an und für sich oder gar sie in ihrem Verderben ist, welche Gott genugthun kann; als solche ist sie vielmehr die von Gott verstoßene, in [p. 230] sich verlorene und unselige Welt, sondern vielmehr das wahre und heilige Prinzip der Welt, die erschaffende und erhaltende Macht selber sey, welche auch die vom Verderben er, rettende und versöhnende, oder das an und für sich versöhnende Prinzip ist. Als solche ist die stellvertretende Genugthuung eine der Welt fremde, sie von sich selbst als Welt befreiende, und zum Reiche Gottes erhebende Macht.
+
+ist die negative Macht gegen diese negative Seite der Welt, und só als jene Negation dieſer Negation die Wiederherstellung der wahren Welt.
+
+##### §. 385.
+
+Als stellvertretende enthält die Genugthuung aber andrerseits in ihrem Begriff die Bestimmung, es die Welt, in ihrer Wahrheit und Wirklichkeit als menschliche Natur, ist, welche durch die Person des Einen Menschen vertreten ist. Hat die Genugthuung, als stellvertretende, ihre Wahrheit darin, daß es Gott ſelbſt iſt, der sie leistet, so hat sie ihre Wirklichkeit darin, daß es der Mensch ist, der sie leistet.
+
+Als solche nun ist sie nicht ein der Welt fremdes, sondern ihr eigenes Thun, in dem Thun Jesu Christi, der dieser ihr Stellvertreter ist, am vollkommensten offenbar geworden und vollbracht.
+
+Die Stellvertretung ist also eine zwiefache: das Prinzip der Welt tritt an die Stelle der Welt, und der Eine Mensch ist der Stellvertreter aller.
+
+##### §. 386.
+
+In der Person des Gottmenschen aber sind Prinzip der Welt und Welt selbst nicht mehr andere gegen einander, und ist die Stellvertretung ſomit nur die einfache: denn er ist die Einheit der göttlichen und menschlichen Natur. In dieser Einheit geht die göttliche Natur ebenso sehr in den Unterschied oder die menschliche Natur ein, als diese aus dem Unterschiede in die Einheit zurückkehrt.
+
+Somit hat die [p. 231] menschliche Natur das göttliche Prinzip als stellvertretende Genugthuung nicht mehr absolut außer sich.
+
+Ebenso aber ist es Jeſus Chriſtus nicht als der Einzelne nur, der die Versöhnung mittelst geleisteter Genugthuung vollbringt und darin der Stellvertretende Aller ist, sondern er ist dieses als der in seiner Einzelheit allgemeine Mensch, als der Repräsentant der gesammten Menschheit und somit nur, so fern sie selbst dabei gewesen ist.
+
+Dieses Dabeigeweſenſeyn ist ihr
+
+Glauben an Jefum Christum und an die durch ihn vollbrachte Versöhnung, in welchem Glauben die Versöhnung selbst erst an sie kommt, sich fortseßt auf alle Zeiten, und das Verdienſt Chriſti einem jeden, der diesen Glauben hat, als' ſein eigenes zugerechnet wird.
+
+##### §. 387.
+
+Indem nämlich nun die nämliche Liebe Gottes zu den Menschen die Liebe. eines Menschen ist zu Gott, und als solche offenbar wird in Jesu Christo und in allen andern zum Bewußtseyn kommt, ist der Haß getilgt in der Welt gegen Gott und alle Menschen, und die Entzweiung der Welt mit Gott und mit ihr selbst gehoben. Durch das Medium des Glaubens ist die Versöhnung in das Element des' Bewußtseyns versetzt; ſie ist aber auch schon an sich als Handlung des Gottmenschen darin. Mittelst des Glaubens an die Versöhnung ist sie die Ueberzeugung, daß Gott in seiner Menschheit auf eine ewige Weise ihr Versöhner sey, daß die Versöhnung nichts Endliches,
+
+Entstandenes und
+
+Vergangenes, sondern das wahre und wirkliche Wesen Gottes nur als versöhnendes, und die Versöhnung in dieser ihrer göttlichen Wahrheit in Jesu Christo erst vollkommen offenbar und gewiß geworden sey. Das allgemeine Selbstbewußtseyn aber als Glauben hat nicht in dieser Unmittelbarkeit und Abstraction ſeine Wirklichkeit, sondern concret in Einem Menschen, also in deffen Handlung, Vermittelung [p. 232] und Geschichte.
+
+Er ist, als zweiter Adam, auch darin das Gegenbild des ersten, und so der Erretter der in dem ersten gefallenen menschlichen Natur.
+
+##### §. 388.
+
+In der Bewegung zur Versöhnung begriffen in ihrem wahrhaftigen Elemente, welches das Bewußtseyn ist, steht die menschliche und göttliche Natur zunächst einander gegenüber, doch in der Bewegung zur Versöhnung nicht mehr abstract, sondern im concreten Verhältniß, so, daß die mensch liche Natur das Göttliche, wenigstens als Bedürfniß, die göttliche Natur das Menschliche bereits an ihr hat.
+
+Auf jener Seite zeigt sich der Mensch in seinem natürlich - moralischen Verderben, und dieses als Sünde, als Schuld und worin beide aufgehoben sind, als Strafe.
+
+Auf der andern
+
+Gott sich genugthuend in feiner Menschheit oder Jesus Christus in seinem Thun, in ſeinem Leiden, und worin beide aufgehoben sind, in seinem Gehorsam.
+
+Außer allem Verhältniß zur göttlichen Natur ist Sünde, Schuld und Strafe ebenso undenkbar, als außer allem Verhältniß zur mensch
+
+股 lichen Natur die Versöhnung, der Welt mit Gott durch Gott.
+
+##### §. 389.
+
+Die Sünde kann nicht als identisch mit der menschlichen Natur, sondern diese nur als behaftet damit, und als ein an und für sich ihr Aeußerliches, aber zugleich doch ihr Inhärirendes und Innerliches begriffen werden. Als ein Aewßerliches ist sie ein Zufälliges, als ein Innerliches und ihr Inhärirendes ein Zuständliches; als jenes ist sie ihr Fremdes (die menschliche Natur ist gut), als dieses ihr Eigenes, eine Bestimmtheit derselben (die menschliche Natur ist mit dem Bösen behaftet), obwohl in dieser Eigenheit `nicht Eigenschaft, oder Qualität, doch in der Natürlichkeit Gegründetes und in ſofern Nothwendiges.
+
+In ihrer Aeußerlich-
+
+233' keit, Fremdheit und Natürlichkeit ist sie die angeerbte; in ihrer Innerlichkeit, Eigenheit und Zuständlichkeit die Einwilligung darin, oder die bestimmte That des persönlichen Individuums.
+
+Jene Möglichkeit aller wirklichen Sünden, welches die Erbsünde ist oder die Sündhaftigkeit, iſt zugleich, obgleich nicht die Befreiung von dieser Möglichkeit, doch die Möglichkeit der Befreiung von den wirklichen Sünden oder die Möglichkeit der Entsündigung.
+
+##### §. 390.
+
+Frei von jener Natürlichkeit und dieser Zuständlichkeit der Sünde ist allein der Gottmensch; sie kann unter keinem Gesichtspuncte, weder als Minimum der Sündhaftigkeit vom Anfang ań, noch als mit der Zeit erst überwundene Bestimmtheit seines Daseyns, als an oder aus ihm hervorgekommen, gesetzt, sondern nur von dem Argwohn und Mistrauen, oder von dem Bösen außer ihm in ihn hineinges dacht werden. Matth. 12, 24. 27.
+
+Er allein offenbart vielmehr in sich die menschliche Natur in ihrer Integrität und Vollkommenheit, welches ihre Einheit mit der göttlichen ist und zeigt, daß die Sünde nicht eine absolute Nothwendigkeit der menschlichen Natur oder diese selber sey. sen Bewußtseyn nicht aus der Natur, Geiste
+
+Ihm, defsondern aus dem hergekommen, ist die Natur, als menschliche, nur das Medium der Offenbarung seiner göttlichen, und frei läßt er von ihren Nothwendigkeiten sich bedingen und beschränken.
+
+Er ist auch nicht etwa nur der Sündenlose oder
+
+Unsündliche, sondern, daß er dieses negative ist, hat seinen Grund im Positiven, darin, daß er der Heilige, seine Des stimmtheit die an und für sich göttliche Heiligkeit ist. Joh. 8, 46.
+
+2. Petri 2, 22.
+
+Hebr. 4, 15.
+
+Und nur als dieser
+
+Heilige kann er der Versöhner der Welt seyn mit Gott. 2. Cor. 5, 21.
+
+[p. 234] §.
+
+391
+
+Die Sünde ist an sich die Schuld, aber nicht ist die Schuld Sünde. In jenem ersten Moment ist die Schuld mit der Sünde unmittelbar eins, und diese in jener als Ungenügenheit und Verwerflichkeit vor dem Geſch objectiv. Hiemit aber ist die Schuld zugleich in ihrem Fürſichſeyn oder im Unterschiede von der Sünde, als das Bewußtseyn der Sünde, und in diesem ihrem zweiten Moment ein gutes, die Schuld keine Sünde. Das eine ist so das negative des andern, und in dieser Beziehung auf einander die Schuld Bewußtseyn des Mangels der Unschuld.
+
+Dieses, daß die Sünde eine Schuld ist oder Sündenſchuld, ist darin, daß die Schuld keine Sünde, die Möglichkeit und der Anfang der Entschuldigung.
+
+Die Erkenntniß der Sünde ist vielmehr aus dem Guten, und die Befreiung hebt an in dem Bewußtseyn, daß die Schuld, obgleich nicht mehr Unſchuld, doch auch nicht Alleinschuld, sondern nur Mitschuld, obgleich die eigene, doch zugleich die fremde und allgemeinmenſchliche ist, und auf diesem Wege dem persönlichen Individuum wieder fremd werden kann
+
+##### §. 392.
+
+In Beziehung auf die menschliche Sündenſchuld ist der Gottmensch der Unschuldige.
+
+Wie die Sünde der Menschen an ſich nicht die ſeinige ist, so ist auch ihre Schuld an sich nicht die ſeinige. Aber mittelst des Bewußtseyns ist auch ihm der Unterschied zwischen Guten und Bösen da, oder an ſich im Daseyn, und kann er die ihm fremde Sünde und Schuld zu der seinigen machen; sie ist für ihn vorhanden, als ein ihm äußerliches, und nur als der Gedanke daran, und als der Schmerz darüber in seiner heiligen Seele. Mittelst des Fürsichseyns der Schuld in ihrem Unterschiede von der Sünde, welches die Erkenntniß derselben ist, kann die Sündenschuld der Welt auch für ihn seyn, und der Gottmensch, [p. 235] nicht theilhaftig der Sünde und sie wohl auf sich nehmend, aber nicht an sich in ſich aufnehmend, die Sündenschuld der Menschheit tragen, und sie nur dadurch auch wegtragen, daß er sie wirklich aufsich nimmt. Joh. 1, 29. 36. Jes. 53, 4. Matth. 8, 17. 1. Petri 2, 24. Unversehrt und unverleßt durch das Verderben der Welt, begiebt er sich in dasselbe und bewegt er sich durch dasselbe, und so nahe kommt es ihm, daß der Glanz seiner Gottheit darin zu erlöschen scheinen kann und doch nicht erlischt. §.
+
+393.
+
+Die Identität der Sünde und Schuld ist die Strafe, und als solche die Aufhebung beider.
+
+Mittelst der Strafe fällt die Sündenschuld hinweg und hinaus aus dem Leben, wird als That des Lebens getilgt, und ist in dem Bewußtseyn nur als Abstraction wiederhergestellt, oder als Erinnerung aufbewahrt.
+
+Jene Identität an sich aber ist nicht eine menschliche, sondern göttliche; die Nothwendigkeit, daß in der Schuld die Sünde sich bestrafe, hat ihr Prinzip ebenso sehr in der göttlichen Gerechtigkeit, als in der göttlichen Liebe und Gnade; sie ist göttliche Strafe.
+
+Die göttliche Gerechtigkeit ist die innere Nothwendigkeit, nach der einem jes den werden muß, was ihm gebührt; die göttliche Gnade und Liebe ist die Erklärung des Schuldigen für einen Strafwürdigen: diese in der Sünde und Schuld selbst noch übrig bleibende Würdigkeit ist der Anfang der Aufhebung beider; ohne diese Würdigkeit der Strafe ist Sünde und Schuld die absolute Verdammniß.
+
+Die innere und ewige Nothwendigkeit jener Identität der Sünde und Schuld in der Strafe ist die Veranlassung zu der Vorstellung von der Ewigkeit der Höllenstrafen.
+
+Allein da die Strafe andrerseits zugleich Tilgung der Schuld und Sünde, so ist die Vorstellung dem Begriff unangemessen.
+
+[p. 236] §.
+
+394.
+
+Wird nun der Heilige und Unschuldige, als der Unheilige und Schuldige behandelt und bestraft, so hat zwar der Begriff einer Strafe, deren Voraussetzung nicht Sünde und Schuld, und die nicht mit beiden identiſch ist, einerseits hier nur eine uneigentliche Bedeutung; sofern er sie nicht verdient, ist sie so wenig gerecht, als Strafe.
+
+Andrerfeits aber ist sie doch von den Strafenden nicht anders gemeint, denn als wirkliche und eigentliche Strafe, und das in der Form des Rechts über ihn gesprochene Urtheil, und wäre es auch an sich das größeste Unrecht, bezweckt nur Strafe, und ist hiernach in der Ausführung auch eine Strafe mit Recht zu nennen.
+
+Einseitig sich stellend in den ersten
+
+Gesichtspunct muß man läugnen, daß der Gottmensch den Schmerz und Tod als eine Strafe erlitten; andrerseits aber zugebend, daß sein Leiden und Sterben die Form der Strafe habe, muß man in seiner bestraften Unschuld selbst die Hinweisung erkennen auf fremde Schuld, aus der ein solches Strafurtheil selbst hervorgehen konnte, und dieses unwahre und ungerechte Urtheil ist das allgemeine der Welt in ihrem Verhältniß zur Wahrheit und Gerechtigkeit; es ist die Verfündigung der Welt an der in seiner Menschheit offenbaren Wahrheit und Heiligkeit Gottes, und nicht nur um dieser Versündigung und Verschuldung willen leidet und stirbt er, sondern er trägt und büßet auch darin, was sie verdienet: wer so, wie er, absolut unschuldig leidet und stirbt, der leidet und stirbt auch nur für andere. Ephes. 5, 2. Rom. 8, 32.
+
+1. Tim. 2, 6.
+
+§.
+
+Hebr. 2, 9.
+
+395.
+
+Nächstdem, daß und wie Christus die Strafe der Welt habe tragen können, ist nun in dieser Lehre weiter zu erken nen, wie Sünde und Schuld des Menschengeschlechts durch / die von ihm übernommene 'Strafe getilgt, und die Versöhnung [p. 237] der Welt mit Gott dadurch gestiftet worden: welches die andere Seite dieser Untersuchung ist. Das Bedürfniß dieser Versöhnung mit Gott hat die Welt in dem Bewußt ſeyn, in ihrem Thun dem göttlichen Gesetz nicht zu genügen, sondern vielmehr sich im Widerspruch mit demselben zu befinden, in ihren Leiden aber die Folgen der menschlichen Unvollkommenheit und Sünde zu tragen, dafür zu büßen oder ges ſtraft zu seyn, in beiden aber, in ihrem Thun sowohl, als in ihrem Leiden die mit Gott nicht versöhnte zu seyn. Dies Bewußtseyn des Unversöhntseyns des Menschen mit Gott durch ihn, den Menschen selbst in seinem Widerspruch mit dem Gesetz, und in dem Widerspruch mit sich selbst oder in seinem Schmerz, ist aber selbst schon und an sich der Glaube an die gestiftete Verföhnung des Menschen mit Gott durch Gott selbst oder die Gewißheit, daß die Versöhnung der Welt mit Gott durch Gott in feiner Menschheit vollbracht, die Befreiung der Welt von jenem Widerspruch, und diesem Schmerz, oder von aller Ungerechtigkeit und allem Unheil an sich, und auf eine ewige Weise geschehen sey. 2, 2, 4, 40.
+
+§.
+
+1. Joh.
+
+396.
+
+Als diese Wahrheit war die Versöhnung vorhanden, ehe sie in Jesu Christo ihre Vollendung und Wirklichkeit erreichte, und der Glaube an diese Wahrheit ist der Grund der Weiſsagung, daß sie auch ihre Zeit finden werde, in der sie vollendet werden würde; und als solche Wahrheit ist ſie auch jetzt und für alle Zukunft vorhanden, nachdem sie einmal für immer vollbracht und vollendet worden. Voll bracht, vollendet worden aber ist die Versöhnung als Hand lung des Gottmenschen durch die unendliche Liebe in seinem Thun und Leiden, wodurch einerseits in seinem Thun und Erfüllen des Gesetzes der Widerspruch der Welt mit dem Gesetz negirt und aufgehoben, und statt desselben das Thun [p. 238] der Welt zu seiner Wahrheit erhoben, und ein heiliges geworden, andrerseits in seinem durch die Sünde der Welt bewirkten Leiden und Sterben die von ihr verschuldete Strafe für ihre Schuld und Sünde, aber ohne eigne Schuld und Sünde von ihm übernommen und getragen worden. Durch diese lettere Bestimmung des unschuldigen Leidens und Ster bens Christi hat Leiden und Sterben überhaupt seine ursprüngliche Bedeutung verloren, ist als Strafe der Sünde, von der Unschuld selbst erduldet, in der ganzen
+
+Menschheit aufgehoben.
+
+##### §. 397.
+
+Die Versöhnung, durch Christum gestiftet, ist demnach das Bewußtseyn, daß dem durch den Glauben an ihn, ſeine Gerechtigkeit und Geduld entſündigten, weder die begangene Sünde, noch das erduldete Leiden und Sterben ein Hinderniß seiner Seligkeit sey.
+
+Das Thun und Leiden Christi aber, als
+
+Offenbarung dieser Wahrheit, ist das versöhnende und die Versöhnung an sich.
+
+Bei diesem Begriff von der Versöhnung ist zunächst klar, daß die Vorstellung von der Unmöglichkeit, daß Christus die Strafe der Welt getilgt, einerseits auf der fehlerhaften und abstracten Trennung seines versöhnenden Thuns und seines versöhnenden Leidens, andrerseits auf der ebenso fehlerhaften und abstracten Trennung seiner Person oder Individualität von der Menschheit, und endlich auch auf der abstracten Trennung der menschlichen und göttlichen Natur beruhe.
+
+In der ersteren Beziehung wird sich leicht vorgestellt, das Leiden und Sterben Christi an sich sey das verföhnende, da es vielmehr nur das Leiden und Sterben dessen ist, dessen Leben die Unschuld, defsen Thun die Gerechtigkeit ist; in der andern Beziehung wird leicht gemeint, auch dem nicht durch wahren Glauben an Christum entfündigten und gerechtfertigten könne die Versöhnung, durch Christum gestiftet, helfen, zu welcher doch [p. 239] ebendiese Entsündigung im Glauben an seine Gerechtigkeit zunächst und vor Allem gehört.
+
+Hiemit fällt auch zugleich der Einwurf weg, der auf der Trennung der menschlichen Natur in Christo von der göttlichen beruht, daß Gott einen Unschuldigen statt der Schuldigen leiden laſſe, ſeße in Gott Grausamkeit, Rache, Zorn und dergl. voraus. Es ist vielmehr die reinste und vollkommenste Liebe Gottes selbst, womit er in seiner Menschheit sich Genüge leistet, indem der Mensch in seiner göttlichen Natur aus Liebe im Namen Aller durch seine Gerechtigkeit ihre Ungerechtigkeit, durch seine Unschuld ihre Schuld vertilgt.
+
+##### §. 398.
+
+Hierin liegt ebenso sehr, daß die Genugthuung Chriſti ebenso sehr eine ihnen fremde (sonst wären sie nicht die durch ihn, und somit durch Gott versöhnten) , als ihre eigne ist (ſonſt wären sie nicht durch ihn versöhnt), welche Aneignung im Glauben geschieht, dem das Verdienst Christi zugerechnet wird.
+
+Wenn also hier Einer für Alle leidet und stirbt, so geschieht es nicht, damit sie, die Uebrigen, das Gegentheil erfahren von dem, was der Eine, oder damit sie nun gar nicht mehr leiden und sterben, sondern damit sich in ihm das Leiden und Sterben Aller concentrire, und sie nur so wie er leiden und sterben lernen. Denn Stellvertreter der Menschheit ist er nicht, sofern er außer ihr, sondern sofern er sie selbst ist, und das in allen Individuen Gleiche in sich vereinigt darstellt.
+
+Ist also Einer gestorben für Alle, so sind sie in ihm Alle gestorben; . sie bringt er in sich Gott zum Opfer dar, d. h. leidend und sterbend weihet er sie Gott.
+
+1. Cor. 5, 14. 15.
+
+§.
+
+15, 31.
+
+399.
+
+Daß aber die Welt solche Gerechtigkeit und Genugthuung, als die Jesu Chrifti, ſowohl in ihrem Thun, als [p. 240] Leiden, zu leisten nicht vermag, ist ihr Ungenügendes, welches der Genugthuung bedarf, und welche ebendarin stellvertres tend ist, daß sie dieselbe nicht zu leisten vermag, also für sie geschehen muß, welches ebenso sehr heißt: ihr zum Besten, und an ihrer Statt, als auch nicht ohne sie.
+
+Jenes
+
+Ungenügende aber hat in dieser seiner Negativität zum poſitiven Inhalt den Widerspruch der Welt mit Gott und mit sich selbst, welches auf Seiten der Welt ein Thun und Leiden ist.
+
+Denn dieses ist der Begriff der Selbstheit, daß ſie die Identität des Thuns und Leidens ist; in ihr ist das ر Thun das gehemmte (negative) Leiden, das Leiden das gehemmte (negative) Thun.
+
+Das Thun ist ein bestimmendes, das Leiden ein Bestimmtwerden;
+
+das Thun, sich rein allein durch sich selbst bestimmend, ist das Freie; das Leiden, als das die Selbstbestimmung und Freiheit negirende, das Nothwendige.
+
+Beides, das Freie und Nothwendige, ist in seiner Identität auch wiederum in jedem von beiden, dem Thun, wie dem Leiden. Der Widerspruch selbst aber ist bereits oben begriffen als ein solcher Zustand, in welchem Freiheit und Nothwendigkeit gegen einander sind. Hier kann daher die Vertilgung des Widerspruchs von Seiten
+
+Versöhners oder die Versöhnung selbst als die wiederhergestellte Einheit der Freiheit und Nothwendigkeit begriffen werden.
+
+##### §. 400.
+
+In dem Thun der Welt ist die Erfüllung des Gesetzes das Nothwendige; es kündiget sich an als ein Müſſen, und ihm soll das Wollen entsprechen und gleich seyn: diese Einheit der Freiheit mit der Nothwendigkeit ist die Sittlich keit. Sie aber ist als die menschliche die endliche, und kann in entgegengesetzter Richtung bis zum Widerspruch gehen, in welchem Freiheit und Nothwendigkeit ganz aus einander fallen und gegen einander sind.
+
+In dem unendlichen Thun des Gottmenschen als des Versöhners hingegen, haben Freiheit [p. 241] heit und Nothwendigkeit keine Selbſtändigkeit gegen einander.
+
+Ihm, dem Sohne Gottes, kündiget vielmehr die Nothwendigkeit sich nur an als Willen feines Vaters im Himmel, welcher nicht noch in diesem Verhältniß die Form des Gesetzes hat, geschweige irgend eine Renitenz in ihm findet. Der Wille des Vaters ist vielmehr auch der Wille des Sohnes: denn seinem Wesen nach ist der Sohn nicht verschieden vom Vater, mithin auch der Eine Wille Gottes für beide derselbige;
+
+es ist mithin auch für den Gottmenschen das Nothwendige an und für sich selbst das Freie, das Freie an und für sich selbst das Nothwendige: beide gehen in ihm nicht nur nicht aus einander, ſondern die Nothwendigkeit wird zur Freiheit erhoben und erhält darin erst ihre Wahrheit. Matth. 5, 17. 18. 26, 42. Joh. 4, 34. 6, 38. 5, 30. Rom. 13, 10. 8. In dieser Einheit also sind sie beide in ihrem Fürsichſeyn aufgehoben.
+
+##### §. 401.
+
+Das gehemmte Thun ist das Leiden; darin aber, daß es diese Hemmung des Thuns ist, zieht sich das Thun in das Leiden hinein, wie umgekehrt auch in das Thun sich das Leiden hineinzieht, da es nur das, gehemmte Leiden ist.
+
+Ursach der Hemmung des Thuns, oder die Ursach des Leidens Chriſti iſt ihm nur nicht, wie der Welt, eine innerliche, mit ihrer Wirkung, dem Leiden, identische, sondern eine äuBerliche, es ist durch die Sünde der Welt bewirkt, sie macht ihm Leiden, giebt ihm gewaltsam den Tod;
+
+das Leiden ist für ihn eine ihn überwältigende- Nothwendigkeit: sein Leiden ist die Sünde der Welt, diese erfährt er darin, ſie rechnet ſich ihm zu, als wäre er der Verbrecher und Miſſethäter. Gal.3,13. Aber indem sein freies Thun, welches die Negation der Sünde, ſeine Unschuld und Heiligkeit ist, selbst noch in seinem Leiden ist, ist dieses nicht, wie das der Welt, ein Leiden um der eigenen Sünde, sondern um der eigenen Gerechtigkeit und der fremden
+
+[p. 242] Ungerechtigkeit willen, nicht eine solche Nothwendigkeit, in der keine Freiheit ist, sondern er erhebt auch diese Nothwendigkeit, indem er den Willen und Rathschluß seines Vaters darin erblickt, zur Freiheit und hiemit zu ihrer Wahrheit: obwohl sich der Macht bewußt, sein Leiden von sich abzuwälzen, Joh. 10, 18., erduldet er das Leid und deſſen Aeußerstes, den Tod, frei in der Nothwendigkeit. Leiden und Sterben,
+
+Und dieses dessen Ursach nicht die eigne Sünde und Schuld ist, sondern die fremde der Welt, und vielmehr in der vollkommensten Unschuld, Geduld und Ergebung ge tragen, rechnet sich, aus Liebe, der Welt, die daran glaubt, zu und wird die Versöhnung der Welt mit Gott.
+
+##### §. 402.
+
+Allein noch ist die Freiheit und Nothwendigkeit, wie noch allgemeiner das Thun und Leiden Christi in der ab stracten Verstandesbestimmung stehen geblieben, zwar in ih rem gegenseitigen Uebergang in einander aufgezeigt, und in der Aufhebung begriffen, aber noch hat sich nicht das Dritte erwiesen, wodurch und worin sie beide aufgehoben sind.
+
+Dieses aber ist der unendliche Gehorsam.
+
+So wenig in
+
+Ansehung des Thuns dieſes an ſich formale Thun, oder dieſe und jene einzelne und beſtimmte Handlung, sondern die Erfüllung des Gesetzes, welche die Liebe ist, das Versöhnende ist, ebenso wenig ist das leßte Leiden Chriſti und deſſen Ende, der Tod an sich das Versöhnende, sondern die Liebe, in und aus der es getragen und erduldet wird.
+
+Diese sich göttliche Liebe ist als die menschliche der Gehorsam; er ist, als Gehörsam, nicht verſchieden von jener göttlichen Liebe, welche sich im Thun und Leiden als die versöhnende Macht bewährt, und in dieser Form nicht nur Gehorsam, sondern auch der wahrhaft unendliche.
+
+Jene Liebe und dieſer Gehorsam in ihrer Einheit ist die Einheit Gottes und des Menschen, und in und mit dieſem Gehorsam also [p. 243] das Thun, wie das Leiden Christi, erst in dem wahren Elemente der Versöhnung, welches das Bewußtseyn, der Geist ist.
+
+##### §. 403.
+
+Bleibt hingegen die Reflexion auf den Gehorsam Jesu Christi in seinem Leiden und Thun im Aeußerlichen stehen, so bleiben auch diese als selbständige stehen, und der Begriff ist in die Vorstellung und in seine einzelnen Momente auseinander gefallen. Als die erscheinende That aber an und für sich oder als das erscheinende Leiden und Sterben an und für sich hat es noch gar keine Beziehung auf die Verföhnung, wäre noch ein ganz endliches nur, und es könnte die finnliche Betrachtung dann wohl allein sich an das körperliche Leiden Chriſti halten. In diesem aber ist es nicht das versöhnende, sondern als Seelenleiden. Als solches kann es wenigstens Mittel der Versöhnung seyn, ist aber auch als solches noch nicht die Versöhnung selbst, nicht ihr Denn es kann das Seelenleiden selbst
+
+Zweck oder Begriff.
+
+vielleicht nur als der geistige Reflex des körperlichen, vor. handenen oder bevorstehenden, Leidens genommen werden, und der fo Leidende ist so wenig der Versöhner, daß er darin vielmehr selbst noch sich der Versöhnung bedürftig zeigt.
+
+##### §. 404.
+
+In solcher äußerlichen Ansicht wäre ferner wohl zuläſſig, einerseits in der neologischen Vorstellung von einer bloß moralischen und psychologischen Nothwendigkeit des Todes Christi stehen zu bleiben: jene wäre die, kraft deren er, um seiner Pflicht sich treu zu erweisen und davon ein recht ermunterndes Beispiel zu geben, den Tod nicht geflohen; diese, kraft deren er unter den damaligen Umſtänden, durch das Volk, gedrängt dessen Priester und Vorsteher, und ver D2 [p. 244] laſſen von seinen Jüngern, auf einmal ſeinen Plan geändert, und den Tod, als das Beste und Heilsamste für seine Sache gewählt.
+
+In beiden Beziehungen ist der Gehorsam
+
+Christi noch der endliche aller andern Menschen, der Verſdhner nur der rechtſchaffene, moralische Mensch, wie jeder andere: die Versöhnung selbst ist darin noch gar nicht anerkannt. Andrerseits aber könnte man sich auch wohl in der palãologischen Lehre fixiren, nach welcher die Versöhnung im Thun ſowohl, als im Leiden und Sterben an und für sich ihren Inhalt hat, der Versöhner die gerechten Strafgerichte Gottes erfährt an der Stelle der Welt, folut freiwilliges Leiden war.
+
+und dieſes ein ab-
+
+So aber ist die Gerechtigkeit
+
+Haß und jechliche Willkühr ver-
+
+Gottes in Zorn, Rache, wandelt, die Thatsache des Todes Chriſti als eine nur unter Gottes Leitung so gewendete, an sich zufällige und endliche genommen, es erlischt im Leiden und Sterben Christi alle innere Nothwendigkeit, und es bleibt nur die äußerliche übrig, welche die Nüßlichkeit, Brauchbarkeit u. s. f. iſt.
+
+##### §. 405.
+
+Die innere Nothwendigkeit des unendlichen Gehorsams Christi hingegen, einerseits als thätiger (obedientia activa) und andrerseits als leidender (obedientia passiva) ist die des Begriffes der Versöhnung selbst, und durch diese Nothwendigkeit sind jene Bestimmungen des Gehorsams als thuender und leidender nicht als äußerliche, sondern als innerliche und wesentliche in ihm selbst gesett; sie gehen vielmehr ebenso nothwendig aus ihm hervor, als sie in ihm aufgehoben sind. Nichts also an und für sich, ist es vielmehr der darin sich erweisende unendliche Gehorsam des Gottmenschen, der sie beide erst wahr macht, und zu Momenten der Versöhnung macht. In ihm haben sie ihre Aber nicht auch hat der unendliche Gehorsam, [p. 245] als dieſer abſtracte Gedanke, ſondern erst in dem Concreten des Thuns und Leidens Christi seine Wirklichkeit.
+
+Als ein
+
+Gehorchen hat es eine innere Beziehung auf das Müſſen oder auf das nothwendige Wollen; indem aber dieses Müßsen oder nothwendige Wollen zugleich das Freie ist, ist die Nothwendigkeit zu ihrer Freiheit, und ebendamit der Gehorsam als freiwilliger (obedientia voluntaria) erst zu seiner Wahrheit gekommen.
+
+##### §. 406.
+
+In dem Tode Christi insonderheit ist das Thun und Leiden des Versöhners in seiner innersten Bewegung, und der Zweck des Todes Christi kann daher auch als der Des griff der Versöhnung selbst gefaßt werden. Daß dieser Tod mehr als nur des Thuns und Leidens Ende und mehr, als das natürliche Nichtſeyn ist, zeigt sich besonders daß ihm die Auferstehung nothwendig folgt.
+
+darin,
+
+Das höhere, verklärte Leben also hat ihn zu seiner Voraussetzung. Seine natürliche Bedeutung verliert, er darin, daß er nicht nur das Sterben des natürlichen Menschen oder des besondern Fürsichseyns ist, sondern des Menschen in der Einheit mit Nicht zwar ist es Gott in seinem Ansichſeyn, der in der menschlichen Natur leidet und stirbt, sondern der Aber um die TrenMensch in seiner göttlichen Natur. nung zwischen Gott und dem Menschen zu tilgen, oder den Menschen mit Gott zu versöhnen, tritt hier der Unterschied Gottes und des Menschen in der Einheit selbst am ſtärkften hervor, und im Tode des Versöhners in seine äußerste Spize. Die Unendlichkeit selbst erlischt in der Endlichkeit, und der harte Ausdruck: Gott selbst ist todt, ſpricht diese Seite der göttlichen Erniedrigung am stärksten aus.
+
+[p. 246] §.
+
+407.
+
+Aber indem der Tod des. Gottmenschen nicht etwa nur das Thun und Leiden des Einzelnen in seiner Einzelheit, ſondern in seiner unendlichen Allgemeinheit ist, ist sein Gehorsam bis zum Tode selbst ein unendlicher, und alle Endlichkeit darin aufgehoben.
+
+Er opfert nicht seiner Ichheit und Einzelheit die Welt, sondern sich der Welt auf, und indem er sie in seiner Person Gott weihet und darbringt, ist er in dieser seiner Aufopferung aus reiner, göttlicher Liebe nicht nur selber schon im Anfang eines neuen Lebens, sondern auch der Anfang eines neuen Lebens in ihr. Die unendliche Liebe Gottes also, welche hier der unendliche Gehorsam des Gottmenschen ist, ist das eigentliche und wahre Verdienst Jesu Chrifti.
+
+So begriffen, ist die christliche Lehre von der Versöhnung auf ihrem wahren, d. i. rein geistigen und sittlichen Gebiet, und über die traditionellen Vorstellungen vom Opfer hinaus, in denen sie noch ihre beſtimmten Beziehungen auf das Juden- und Heidenthum hat. Gleich wie vielmehr an der Lehre Jesu Christi das alte Orakel und deſſen Weisheit verstummte, ſo fiel auch an der Aufopferung Christi der alte Opferdienst, und dies einzig wahre Opfer trit nun an die Stelle aller andern, vielen und mannichfaltigen und hiemit unwahren; in jenem vielmehr hat sich die Idee der Versöhnung vollkommen erreicht.
+
+##### §. 408.
+
+Erworben ist der Welt in der Versöhnung durch Christum in ihrer Objectivität, als Tilgung der Sündenſchuld in der Strafe, die Vergebung der Sünde, 14. 20.
+
+Col. 1,
+
+Hebr. 1, 3., diese Vergebung aber in ihrer Negativität nur das Negative des Positiven, d. i. das ewige Leben oder die Seligkeit. Joh. 3, 15. 1. Theff. 5, 9.
+
+17, 3.
+
+Rom. 6, 23.
+
+Für die Welt ist sie dieses aber nicht allein [p. 247] durch ihr Seyn an sich, und ihre Objectivität oder durch das Vollbrachtſeyn derselben durch Christum, sondern ebenso sehr durch das Aufgenommenseyn derselben in das Bewußtseyn und Leben. Dieses geschieht zunächst durch den Glauben an die geschehene Versöhnung oder den unendlichen Gehorsam Jesu Christi, d. i. an die wirkliche, von ihm an unserer statt geleistete Genugthuung in der Erfüllung des Gesetzes und in seinem unschuldigen Leiden und Sterben, welcher Glaube nicht seyn kann ohne das Bewußtseyn `und die Anerkenntniß der Sünde, ohne Reue und Buße, und so erst wirklich Glaube an die erworbene Vergebung der Sünde ist.
+
+2. Cor. 5, 17-20.
+
+1. Cor. 1, 30.
+
+Sodann aber auch durch ein neues Leben oder den neuen Gehors fam selbst, welcher die Nachahmung Chriſti in dem ſeinigen ist, und woraus alle heiligen Gesinnungen und Werke hervorgehen. Gal. 2, 21. Matth. 16, 24. Marc. 8, 34. Der Glaube aber und der Gehorsam der Welt haben nicht ihr Prinzip an ihr, der Welt selbst, sondern an dem Geiſte deſſen, der auf eine ewige Weise in seiner Gemeinde, und das beide, den Glauben und Gehorsam, bewirkende, und so der ewige Versöhner ist. c.
+
+Von dem königlichen Amt Christi.
+
+##### §. 409.
+
+Die Wahrheit der Vorstellung von Christo, als dem Propheten und Priester, erweiſet ſich erst in der Vorstellung von ihm als König; das königliche Amt Christi ist die Einheit seines Propheten- und Priester - Amts: in dieser Einheit geht die Vorstellung selbst über in den Begriff.
+
+diesem Begriff zeigt sich, daß die Vorstellung von Christo, als Propheten und Priester, ihren wahren Inhalt und ihre wahre Bedeutung nicht an jenen äußerlichen hiſtoriſchen Beziehungen [p. 248] und Analogien hat, wovon die Bezeichnung hergenommen ist, und welche zugleich der Unähnlichkeiten viele enthalten, aus denen man dann gegen die Wahrheit und Nothwendigkeit der Vorstellung argumentiren kann; sondern erst in seinem königlichen Amt: denn über dieses giebt Jeſus Chriſtus ſelbſt den genügenden Aufschluß, daß ſein Reich nicht sey von dieser Welt, sondern ein durchaus geistiges, und hiemit also ist die ganze Lehre von der Erlösung erst in ihrem eigentlichen und wahren Element, welches das des Geistes ist.
+
+##### §. 410.
+
+Die Erlösung in ihrer´Objectivität ist Stiftung der wahren Religion ebenso sehr, als Stiftung der Versöhnung der Welt mit Gott. Beides ist nicht das Werk eines Menschen an und für sich. Als solches wäre es vielmehr ein Subjectives, Entstandenes und Vergangenes.
+
+Nicht der Mensch an und für sich kann die wahre Religion und die Versöhnung der Welt mit Gott stiften, sondern eine göttliche Stiftung ist beides.
+
+Aber ebenso wenig ist die Erlösung in ihrer Objectivität ausschließlich das Werk Gottes in seiner Abstraction von der menschlichen Natur;
+
+als solches wäre
+
+ſie nur ein unwirklicher Gedanke, ohne alle Realität; sondern, wie die Erlösung in Gott nur und von ihm, ` oder göttlich gestiftet, ihre Wahrheit hat, so hat sie nur in dem Menschen und von ihm vollbracht ihre Wirklichkeit.
+
+Stifter der wahren Religion und Versöhnung mit Gott oder der Erlöser ist der Gottmensch, er, in welchem Gott und der Mensch eins iſt: diese Einheit aber ist die Einheit des Geistes.
+
+In der Lehre vom Geist also ist die Lehre von seinem königlichen Amt enthalten, und in dieser Lehre vom Geist sein Propheten aufgehoben.
+
+Priester - Amt eins und
+
+##### §. 411.
+
+der Erlösung.
+
+Zeitlich nun oder geschichtlich fällt diese Einheit auseinander, und stellt sich so dar, daß er sein Propheten- und Priester Amt während seines individuellen Lebens und im Stande seiner Erniedrigung geführt und ausgeübt, sein königliches Amt aber erst nach seiner Auferstehung und Himmelfahrt angetreten.
+
+In Wahrheit aber ist in seinem königlichen Amt sein Propheten- und Priester- Amt enthalten, nur jenes in diesen Aemtern während seiner Knechtsgestalt noch ein verborgenes, aber schon je näher zu seinem Tode, um so mehr hervorbrechend, Matth. 27, 11. Luc. 23, 2., und endlich nach seinem Tode vollkommen offenbar werdend. 1. Tim. 6, 15.
+
+Apoſtg. 17, 14. , 19, 16.
+
+Seine Befugniß und Macht zum Propheten und Priester ist daher eine von aller ähnlichen anderer Menschen verschieden; es ist die Aber als die Macht Gottes selbst in seiner Menschheit. 巍 Macht Gottes selbst in dem Menschen ist sie nicht die Macht eines Einzelnen, als solchen, sondern in seiner unendlichen Allgemeinheit, deren nothwendiges Prädicat die Geistigkeit und Ewigkeit ist. In keiner Zeit also hat Christus sein königlich Amt angetreten, sondern eben darin, und als dieser Regent ist er über alle Zeit hinaus, die durch ihn gestiftete Erlösung ist eine ewige, Jes. 45, 17. Hebr. 9, 12., und wie der Sohn Gottes schon vor seiner Ankunft im Fleisch in der Fülle der Zeiten, verborgen in seiner Menschheit alles Wahre und Gute, dessen sie fähig war, wirkte, so ist sein königlich Amt eben dieses, daß er auf eine ewige Weise der Welt Prophet und Priester ist.
+
+##### §. 412.
+
+Die Welt, deren Regent in Ewigkeit Jesus Christus iſt, iſt die christliche Welt, diese aber die chriftliche Kirche, die Gemeinschaft derer, die an ihn glauben und in dieſem
+
+[p. 250] Glauben ihm ergeben und untergeben, seine Unterthanen sind, wie er ihr Haupt, ihr Herr und König.
+
+Daß er in dieſer ſeiner Gemeinde nun sein Propheten- und Priester-Amt in ebenso geistiger als ewiger Weise fortseßt, ist sein königlich Amt.
+
+Dieses geschieht aber nicht anders, als so, daß Gott in seiner verklärten Menschheit, oder Jesus Christus es seiner Gemeinde nie fehlen läßt an Propheten und Priestern, d. i. an solchen, welche die Wahrheit erkennen und lehren, und sich Gott weihen und aufopfern.
+
+Daß dieses ohne
+
+Unterlaß in der Welt geschehen kann, und in der christlichen Kirche wirklich geschieht, deſſen Prinzip iſt Jefus Chriſtus in seinem königlichen Amt, er, der auf ewige Weise als Geiſt in seiner Gemeinde ist, und sie regiert.
+
+Dogmatif
+
+Gott,
+
+Geiſt.
+
+-
+
+Von Gott,
+
+§.
+
+Geist.
+
+413.
+
+Die Lehre von Gott als Geist hat ihren wesentlichen Inhalt an den Lehren von Gott, als Vater und Sohn; sie selbst ist die wesentliche Form' beider Lehren, und daher der einzig wahre Standpunct für die Erkenntniß Gottes.
+
+Dem
+
+Begriff gemäß kann dieses so bezeichnet werden, daß gesagt wird, Gott ist nicht nur das absolute, ſubſtanzielle Seyn, noch auch nur das absolute Denken, und hiedurch Prinzip aller werdenden und gewordenen Dinge, sondern die denkende Substanz, das substanzielle Denken, und als solches erst Object, welches zugleich Subject ist oder der Geist. Als Geist erst ist Gott das wahrhaft wirkliche Wesen, hiemit aber zugleich das wirksame: beides als der concrete Geist.
+
+Das Wirklichſeyn Gottes als Geiſt an ſich ist die Einheit des Geiſtes ´mit Vater und Sohn, und Gott hierin der Dreieinige; ſein Wirksamfeyn als Geist für sich ist sein Seyn für anderes, und er darin das Prinzip allér Kraft und Bewegung in der Welt oder der Geist der Gnade; ſein Wirklich- und Wirksam- seyn aber oder ſein An- und Für -sich- seyn in der menschlichen Natur ist die Stiftung der Geistesgemeinschaft oder der Gemeinde Gottes in ihr.
+
+Die Lehre vom Geist entwickelt sich demnach zu den drei Dogmen von der Trinität, von den Gnadenwirkungen und von dem Reich Gottes.
+
+[p. 254] Abschnitt. ,
+
+##### §. 414.
+
+Der Geist in seinem Begriff oder Wesen ist die Gewißheit aller Wahrheit und Wesenheit, und wie die Vernunft an sich alle Wahrheit und Realität, so wird ſie dies auch für sich als Geist; er ist das Wissen aller Wahrheit und Realität, und hat ſomit kein Daseyn, als Eigenſchaft oder Bestimmtheit an ihm, sondern er ist es selbst: die Existenz ist nichts von ihm selbst verschiedenes.
+
+Die Offenbarung des Daseyns aber ist das Wirken und ſeine Wirklichkeit das Leben; in diesem hat sich sein Daſeyn erst als wirkliches erreicht.
+
+Als der lebendige Geist hat er so wenig Leben, als Daseyn, sondern er ist das Leben selbst, Kraft und Bewegung.
+
+und somit alle
+
+Der abstracte Geist, nur daseyend und lebend, ist aber nicht der Begriff des Geistes, sondern ` der Natur; in dieſem ſeinem Anſichſeyn ist er vielmehr die Negation des Denkens, der materielle Geist, der Naturgeiſt. Die Natur ist die Erscheinung des Geiſtes nur im Daseyn. und Leben.
+
+##### §. 415.
+
+Der menschliche Geist hat die Natur an ihm; in der Natur daseyend und lebend ist er durch Daseyn und Leben in der Natur bedingt und bestimmt. Wie er aber als Denken unmittelbar das Seyn selber ist, so ist das eine auch das Negative des andern, es unterscheidet das Denken ſich von dem Seyn, das Seyn vom Denken, und hiemit ist das Daseyn des Geiſtes Bewußtseyn. Auch das Bewußtseyn hat der menschliche Geist so wenig, als Daseyn und [p. 255] Leben, sondern er ist es selbst, und nur in der Lebendigkeit des Bewußtseyns, wie des Daseyns, hat er seine Wirklichkeit.
+
+Die Erscheinung des Geistes im Denken oder als Bewußtseyn ist die Welt, in dem Unterschiede von ihr als Natur, die Geſchichte und wie der subjective Geist sein Leben führet in der Natur, so auch in der Geschichte. Dort ist der Geist in seiner Ansichheit, hier in seiner Ichheit, dort iſt ſein Leben im Raum, hier zugleich in der Zeit, in beiden aber sein Leben ein endliches, bedingtes, beschränktes. Der aufgehobene Unterſchied des Seyns und Bewußtſeyns iſt die Identität des endlichen Geistes.
+
+##### §. 416.
+
+So in seinem Denken sich der Natur und des aus ihr hergekommenen Ichs sich bewußt geworden, und sich mit der Natur und Geschichte erfüllend und fättigend, und mit mancherlei Inhalt herumtreibend ist der Mensch, als Geist, der natürliche Mensch. In ihm lebet und herrschet die Welt oder der Geist dieser Welt. Darin hat er wohl Wirklichkeit, aber keine Wahrheit, ſeine Wirklichkeit ist somit ſelbſt noch die unwahre.
+
+Erst als das Selbstbewußtseyn, welches sich auch als das an und für sich seyende Wesen weiß, ist der Geist darüber hinaus, nur der endliche zu seyn; er ist vielmehr der im Endlichen unendliche, das vernünftige Wesen, und alle früheren Gestalten des Geistes sind nur abſtracte Momente, in seinem unendlichen An- und Fürsichseyn aufgehoben. Sie haben in ihrem abstracten Fürsich seyn, und isolirt nur den Schein des Seyns und der Wirklichkeit; er selbst ist es, der sich diese Bestimmungen giebt, ihn haben sie selbst zur Voraussetzung und zum Bestand, und in ihm gehen sie zu Grunde oder in ihren Grund zurück.
+
+Dieses sein Unendlichseyn im Endlichen ist nicht sondern sein wahres mehr das Unendliche des Endlichen,
+
+Ansichseyn oder sein unmittelbares Seyn.
+
+Die Wahrheit [p. 256] seines endlichen Seyns ist das Unendlichſeyn, die Wahrheit von diesen aber das Göttlichſeyn des Geistes.
+
+##### §. 417.
+
+Enthält nun die Religion die Lehre von Gott, als Geist, so ist damit allerdings zunächst das Gedachtwerden Gottes als Geist von dem menschlichen Geiste, ausgesagt, nicht aber, daß jenes Geistseyn Gottes seinen Grund habe an diesem menschlichen Denken. Es kommt vielmehr dieſes Denken her aus dem Seyn Gottes selbst, und ist so das Sichselbst-Beziehen Gottes auf sich als Geist, Gottes Wesenheit selbst. Das Denken in der Identität mit dem Seyn, ist die Wahrheit, das Seyn in der Identität mit dem Denken die Heiligkeit: die Identität der Wahrheit und Heiligkeit ist das Geistseyn Gottes selber oder Gott, als die abſolute Intelligenz.
+
+Seine Wesenheit ist es somit, der Geist Wahrheit und Heiligkeit, der wahre und heilige Geist, in beiden aber der allmächtige zu seyn und einzig und allein aus dieser göttlichen Allmacht ist die menschliche Macht,
+
+Gott als den wahren und heiligen Geiſt zu wiſſen.
+
+##### §. 418.
+
+Denn obgleich nur der im Endlichen unendliche ist der menschliche Geist, als diefer vernünftige, des im Unendlichen unendlichen Geistes fähig, welcher nicht, wie er, zugleich eine Beziehung hat auf Leib und Seele, sondern über alles Verschieden also, Relative hinaus der absolute Geist ist. aber auch nicht verschieden von dem göttlichen Geist ist der menschliche.
+
+Der Mensch ist ein Geist, nicht der Geist.
+
+Sein Unendlichseyn ist zugleich ein Bedingtſeyn durch die Endlichkeit, er ist ein geistiges Wesen, das am Somatiſchen und Psychischen oder an der Beleibtheit und Beseeltheit seine Voraussetzung hat und auch Vernunftwesen nur, `sofern er zugleich Sinnen- und Verstandes- Wesen ist.
+
+Sein Geist
+
+[p. 257] Geistseyn ist ein Werden zu dem, was er an sich ist; sein Fürsichseyn ist die werdende Unmittelbarkeit, und ein mittelst des Verstandes sich zu demjenigen machen, was er an seine Identität aber ebendiese, sich ist;
+
+sich auch bedingt durch Sinn und Verstand, als das vernünftige Wesen zu erhalten.
+
+##### §. 419.
+
+Das Nichtverschiedenſeyn des menschlichen Geistes aber vom göttlichen ist das Offenbarſeyn Gottes in ihm, das Bewußtseyn des menſchlichen Geiſtes nicht nur in und von sich, sondern auch in und von Gott, und somit das Be, wußtseyn des göttlichen Geiſtes in ihm.
+
+In und von dies sem absoluten Geist aufgehoben, ist er über sich selbst erhoben, und seine Verschiedenheit von dem göttlichen Geist gez hoben.
+
+Das Göttliche des menschlichen Geistes ist die Religion, in dieser Unmittelbarkeit die Möglichkeit, in der Vermittelung die Wirklichkeit
+
+1. Cor. 3, 16. 17.
+
+des Wissens
+
+2. Cor. 6, 16.
+
+von Gott.
+
+Die Möglichkeit aber, wie die Wirklichkeit zeigt sich eine solche nicht durch Sinn und Verstand, sondern allein durch den Geiſt zu seyn, der als der durch die Endlichkeit bedingte, der menschliche, als der im Unendlichen unendliche und abſolute der göttliche ist. Der göttliche Geist aber in der Einheit mit dem menſchlichen ist der Geiſt Jesu Christi, und nur durch diesen Geiſt vermag der menschliche Geist Gott als den Geist in ihm und sich als Geist in Gott zu wiſſen.
+
+Nur mittelst oder in der Vermittelung dieses Geistes kann dem menschlichen Geiste das Seyn, Wiſſen und Thun Jesu Chriſti an sich Seyn, Wissen und Thun für ihn werden.
+
+Hiedurch erst gewinnt sein Leben in der Natur und Geschichte den wahrhaftigen Inhalt, indem er in der Natur und Geschichte, in ſeinem Wiſſen und ſeiner Wiſſenſchaft von beiden das Leben und Leiten des ewigen Geistes findet, und in allen wahren R
+
+[p. 258] Geistesbewegungen und Fortschritten der Einzelnen, der Völker und der gesammten Menschheit die Offenbarung und Wirkung dieses ewigen Geistes erkennt.
+
+##### §. 420.
+
+Die Religion ist demnach gar nichts anders, als das Daseyn des göttlichen Geistes im menschlichen, aber ein
+
+Dafeyn, welches Leben, ein Leben, welches Bewußtseyn, ein Bewußtseyn, welches in seiner Wahrheit das Wiſſen ist.
+
+Als dieses erst ist die Religion die offenbare, das ist, ein solches Daseyn, welches zugleich Wiſſen ist. des Menschen ist wesentlich göttlich;
+
+Dieses Wiſſen denn es ist zunächſt das Wiſſen des göttlichen Geistes selbst, und die Religion Sie selbst, in dieser ihrer Absolutheit, ist an und für sich.
+
+das Wiffen des göttlichen Wesens von sich selbst, Geist zu seyn. Dieses sein geistiges Wesen hat Gott nur dem geistigen Wesen des Menschen oder dem Menschen, Geist, geoffenbart. an dem Geist,
+
+Aber wie sie Offenbarung Gottes, nur so ist sie auch Offenbarung Gottes nur durch den Geist.
+
+Daß Gott der Geist sey, das ist dem
+
+Menschen nicht durch sich, ſondern durch ihn offenbar.
+
+Dieses ist an sich zunächst nur die Möglichkeit der Erkenntniß Ohne die Offenbarung Gottes oder seine Erkennbarkeit. seiner selbst ist Gott dem menschlichen Geiſt absolut verborAber dieses sein Offenbarseyn ist sein gen und dunkel. Seyn an sich selber, ein Seyn, welches Wiſſen, und als Des menschlichen Geiſtes solches das Sich-offenbaren ist. Thun ist es nur, dieses Ansich des göttlichen Geistes, welches das ewige Seyn und Offenbarfeyn Gottes iſt, ſich durch die denkende Erkenntniß zu vermitteln, d. i., es zu begreifen, damit es, wie es an1 sich das Offenbare, so auch das ihm Offenbare, wie es an sich kein Geheimniß ist, es auch für ihn nicht mehr ein solches sey.
+
+[p. 259] §.
+
+421.
+
+Es liegt aber schon in dem Wissen jenes Anſich die Nothwendigkeit der Bewegung zu dem Fürsich und wer erkennt, daß Gott der an sich offenbare sey, nach der Vorstellung der Schrift das Licht, in welchem keine Finsterniß, noch Wechsel des Lichts, Jac. 1, 17. 1. Joh. 1, 5., der hat hiemit schon angefangen, Gott als den auch ihm offenbaren zu wissen.
+
+Denn ohne dieses zweite Wissen wäre ihm das erste, wie ohne das erste das zweite, unmöglich. des aber ist nicht Reflexion
+
+Beides menschlichen Geistes auf sich, sondern die Thätigkeit des göttlichen Geistes in ihm, nicht ein nur von dem Menschen gedachtes oder durch die Vorstellung nur gemachtes„sondern das Wissen Gottes von sich selbst in ihm, Geiſt zu seyn. Es ist das Sichſelbſt unterscheiden Gottes als Substanz von dem Selbst, indem er als Substanz das Selbst durch das Wissen aus sich hervorbringt.
+
+Dadurch, daß die Substanz sich als
+
+Selbstbewußtseyn weiß, ist der Geist.
+
+In ihm ist die Form der Substanz und die Form des Selbstbewußtseyns aufgehoben; aber diese Aufhebung selbst, diese Bewegung und Nothwendigkeit ist der Geist selbst; die Form der Substanz verlassend und sich zum Selbstbewußtseyn bewegend, ist er in dieser Bewegung durch sie, als seine beiden Momente, deren Einheit er ist, hindurchgegangen der Geist.
+
+In dem unmittelbaren Bewußtseyn uoch abstract sich selbst verborgen, oder ſubſtanziell offenbaret er sich als das Bewußtſeyn des an sich sehenden Gegenstandes;
+
+in dieser Bewegung aber zu sich und seiner einfachen Unmittelbarkeit zurückkehrend, ist er sich selbst als Substanz und Subject wissender Geist oder wahrhaft concretes Selbstbewußtseyn. Er ist als dieser wissende Geist erst der gewiſſe Geist, in seinem ersten Momente das noch selbstlose Seyn, in seinem andern die Wahrheit, er selbst die im Wiſſen gleich sehr ruhende als R2 [p. 260] thätige Gewißheit der seyenden Wahrheit,
+
+Gott darin der Dreieinige.
+
+##### §. 422.
+
+Diesen Begriff Gottes als des Dreieinigen hat die christliche Religion in der Vorstellung von Gott, als Vater, Sohn und Geist.
+
+Das reine Ansichseyn Gottes in seiner Substanzialität ist nicht zu denken, denn als ein Verhältniß Gottes zu sich selbst, und hiemit in dem Unterschiede seiner von sich.
+
+Der, welcher sich zu Gott verhält, ist ein anderer, als der, zu welchem er sich verhält.
+
+Verhältniß ist die gegenseitige Negation. Gott ist in seinem In- und Aussichselberseyn ein anderer; als Vater nicht der Sohn, als Sohn nicht der Vater, einer die Negation des andern: beide sind andere gegen einander.
+
+Durch diese negative Macht der Differenz vermittelt Gott selbst auf eine ewige Weise sich mit sich. Unmittelbar und abstract ist Gott nur die reine Identität, das Seyn, welches Nichtdenken ist, wie im Spinozischen Pantheismus, der ebenEg des darin Fetischismus ist oder höchster Deismus. stimmt sich dies Seyn noch nicht selbst als Denken, und unterscheidet ſomit sich noch nicht von sich.
+
+Hierin aber erst ist es Vernunft (λoros), hat die Bestimmung des vernünftigen Seyns oder Vernünftigseyns, und ist ebendarin auch erst das vernehmbare oder erkennbare. §.
+
+423.
+
+Jenes Ansichseyn Gottes in seinem In- und Aus - sichIn dieser unendlichen selberſeyn ist aber auch das Fürsich.
+
+Vermittelung des An - ſich durch das Für - ſichseyn Gottes ist er der Geist. An sich der Geist ist er es wirklich erst, indem er sich von sich unterscheidend oder durch den Unterſchied hindurchgehend, ſich mit sich ausgleicht, und jene gegenseitige Negation des In -ſich oder Vater - seyns und des [p. 261] Aus-sich oder Sohn-ſeyns Gottes die Negation dieſer Negation, d. i. ihre Poſition erreicht.
+
+Dieſe iſt das Fürſich defsen, was Gott Ansich ist in jener unmittelbaren Identität, und dieser Differenz oder Negation. Gott ist also weder die nur mit sich identische absolute, und noch selbstlose Substanz oder die ſubſtanzielle Identität, noch auch nur das absolute Selbst oder Subject in seiner Negativität und Differenz von dem Wesen und der Substanz. Dieses vielmehr, daß Gott in dem Wiſſen von ihm oder als Geiſt ſich als die Identität der Identität und Differenz bestimmt, iſt Gott, als solcher die Dreieinigkeit, und diese zunächst die Wirklichkeit des Geistes, in welchem, als solchem, das Vaterund Sohn-seyn Gottes enthalten und aufgehoben ist.
+
+##### §. 424.
+
+Es erweiset sich demnach das Fürfich oder Geißtseyn Gottes an seinem In- und Aussichselberſeyn, als das Dritte hervor, worin sie eins sind.
+
+und tritt
+
+Das Fürsich des Insichselberſeyns ist das Geiſtſeyn Gottes, des Vaters; das Fürsich des Aussichselberſeyns ist das Geiſtseyn des Sohnes. Geist;
+
+Es sind aber nicht zwei Geister, sondern Ein er ist im Vater und Sohn der eine und selbige;
+
+was beide gemeinſam ſind, ist er eigenthümlich, oder das ist seine Proprietät.
+
+Diese ist sein Ausgehen vom Vater und Sohn, worin nicht nur ſein inneres Verhältniß zu Vater und Sohn, sondern auch sein Verhältniß zur Welt mit beſtimmt ist.
+
+§. Als das Seyn für
+
+425.
+
+sich ist der göttliche Geiſt das
+
+Wissen; als dieses Fürsichseyn aber zugleich Seyn für den Andern. Hierin sind beide in der Differenz; aber indem der Sohn für den Vater, der Vater für den Sohn ist, ist jeder nur in ſeinem Andern für sich.
+
+Als dieses Fürsichſeyn [p. 262] des Einen in dem Andern ist der Geist die Liebe. Gott ist, Amy wie die Wahrheit, so auch die Liebe, zunächſt die ewige Liebé des Vaters zu dem Sohn, des Sohnes ewige Liebe zum Vater: was beide gemeinschaftlich sind, ist der Geist eigenthümlich. Aber als Seyn für sich zugleich feyend für den Anderen ist des Geistes Wesen zugleich Seyn für Anderes, und hiemit die unendliche Liebe Gottes, des Vaters und Sohnes, zur Welt: er ist die Liebe des Vaters zur Welt, nicht nur in der Schöpfung, Erhaltung und Vorsehung, sondern auch in der Sendung des Sohnes ſelbſt ſich der Welt offenbarend; er ist die Liebe des Sohnes zur Welt in seinem Thun und Leiden, in seinem Gehorsam bis zum Tode. Und wie durch ihn ausgehend von Vater und Sohn, und als der Geist beider in der Welt sehend, das göttliche Wiſſen auch menschliches Glauben und Wiſſen iſt, ſo iſt auch durch ihn alle Liebe zu Gott in der Welt, und seine Liebe zu allen Menschen die aller Menschen zu ihm und der Menschen unter einander, er also das Prinzip, wie des menschlichen Glaubens und Wissens, so auch der menschlichen Liebe. Das Wissen und Thun, Glaube und Liebe ist die Religion; Gott also, als Geist, das Prinzip aller Religion.
+
+##### §. 426.
+
+Die wahre Religion, deren Inhalt die Einheit Gottes, als Vaters, Sohnes und Geiſtes, den Glauben daran und das Wissen in solchem Glauben, welches die Wissenschaft ist, hervorzubringen, ist die Arbeit des Geistes gewesen in seiner Offenbarung an die Welt von Anfang an. Ihr Nichtglauben und Nichtwissen ist nicht durch ihn und ist nicht ihr Nichtkönnen: denn er ist das ewige, sich selber gleiche Leuchten und Offenbarſeyn Gottes in ihr; sondern ihr Nichtwollen.
+
+Hiedurch allein bestimmt sich der geschichtliche Unterschied der Zeiten und des Lebens in der offenba ren: Religion. Seine Bewegung begann der Geist damit, [p. 263] die Einheit des Insich selber seyenden Gottes oder die ab stracte Einheit und Unmittelbarkeit Gottes, der Welt zum Bewußtseyn zu bringen, und er ist darin der Geist des Alten Testaments. So lange die wahre Religion noch die Vielgötterei zu bekämpfen hatte, konnte der innere Unterſchied in Gott nicht ohne Gefahr hervortreten; diefer Unterschied des ebenso sehr Aussich als Insich selber seyenden Gottes ist daher ein im Alten Testament verborgener.
+
+Er trat um so mehr hervor im Neuen Testament als Unterschied des Vaters und Sohnes, und die Lehre von der Gnade Gottes, des Vaters, in Christo Jesu, dem Sohne Gottes erschienen, ist der offenbare Geist des Neuen Testaments. Die Rückkehr aus diesem Unterschiede in die einfache, aber concrete Unmittelbarkeit ist das Leben des Geistes selbst, dieses aber sein Wiſſen erst in der Gemeinde, und daß er der Geist Gottes, des Vaters und Sohnes, und Gott somit der Dreieinige sex, erst in der Kirche zum des stimmten Bewußtseyn gekommen. Daß die christliche Lehre von Gott, als Vater, Schn und Geist, nicht die Lehre von drei Göttern, ſondern von der Einheit Gottes in drei Personen sey, zu bestimmen, war die Aufgabe der Kirche, vor auf und nach der Synode zu Nicäa. Wer diese Wahrheit, zu der ein jeder in der christlichen Kirche Geborne eingeweiht oder auf die er getauft wird, nicht zunächst aus dem Unterricht, dem Glauben und Wiſſen der Kirche hat, den kann die heilige Schrift an und für sich sie nicht lehren, obgleich sie ihr nichts weniger ist, als fremd. Matth. 28, 19. 2. Cor. 13, 13.
+
+Joh. 15, 26. Denn der Geiſt iſt es, der Gott als den Dreieinigen schon im Alten Bund, obgleich noch verborgen, erkennen gelehrt, im Neuen Bund aber viel klarer und unverkennbarer geoffenbaret, in der Kirche aber erst diese Lehre auf eine zwar nie der abstracten Vorstellung, aber dem Begriff vollkommen genügende Weise, die Form des Wiffens erhoben hat.
+
+[p. 264] §.
+
+427.
+
+Was aber stets, selbst in der christlichen Kirche, dies absolute Verhältniß Gottes zu sich, als Vater, Sohn und Geist anzuerkennen verhindert oder zu fassen erschwert, ist die Einmischung der Zahl in die unendliche Idee, und somit der Eindrang eines Heterogenen und Vernunftloſen in ein Gebiet, wohin es nicht gehört, und wo es ganz und gar keine Bedeutung hat.
+
+Es ist die unendliche Macht und
+
+Wahrheit des Christenthums in dieser seiner Grundlehre, daß es darin über die Eins (die Zahl, die Monas, den Monotheismus), wie über die drei (die Anzahl, die Trias, den Polytheismus) hinaus ist.
+
+Ein solcher Monotheismus, der seinen einigen Gott nur als das höchste Wesen kennt, oder ihn nur mehreren Göttern entgegenzuſeßen hat, und an ihm selbst nur den Gott der Götter hat, ist dem Christenthum eben so fremd, als der Polytheismus, der sich als solcher der Einheit Gottes widersetzt and entgegensetzt.
+
+Fremd ist ihm überhaupt ein solcher einiger Gott, in welchem nichts zu unterscheiden ist, dem diese negative Macht nicht zu Gebote ſteht, und der hiemit der unerkennbare und unerkannte, der ganz abstracte Gedanke und der unwirkliche Gott ist.
+
+Nur die, welche die Dreieinigkeit Gottes nicht bekennen, haben nichts zu´wiſſen von Gott, und wissen mit Recht nichts von ihm, und können alsdann nichts, als ihre abstracten, unwirklichen Gedanken an die Stelle des mangelnden Wissens sehen.
+
+Das Hinausseyn des Chriſtenthums über das Juden- und Heidenthum durch die einzige Lehre von der Dreieinigkeit hat ebendeshalb auch den Sinn des Rückfalls ins Juden- oder Heidenthum in Allen, denen der Glaube an diese Lehre fehlt.
+
+##### §. 428.
+
+Es kann nun auch in der Kirche diese Lehre sich halten im Glauben, und da der Inhalt des christlichen Bekenntnisses [p. 265] der Wahrheit seyn.
+
+Da ist sie an sich, in ihrer
+
+Wahrheit an sich, d. i. dem Inhalte nach, jedoch nur in der Vorstellung. Es wird an Gott, als Vater, Sohn und Geist geglaubt, und diese an ſich wahre Lehre auch für wahr gehalten.
+
+Als die so nur für wahr gehaltene kann sie weiter ein Gegenstand der Reflexion werden, und diese zunächst zurückgehen in das Fühlen, und vorwärts in das Erkennen. In beiden Beziehungen kommt es zur Wahrheit der vorgestellten Lehre.
+
+Anerkennung der
+
+Im Gefühl ist sie in die.
+
+Unbestimmtheit versenkt und hiemit jede Bestimmtheit, wor in die Anerkenntniß (des Seyns) nun auch zur Erkenntniß (des Wesens, zum Begriff) wird, negirt; die Dunkelheit wird vielmehr als zu ihr nothwendig mitgehörend, als ein Mitelement von ihr gefeßt, und dieser Mysticismus will die Lehre nur als ein Geheimniß, als eine geheimnißvolle Hiſtorie gelten laſſen; es ist der Gegenstand dem Bewußtſeyn noch ein Anderes und Fremdes, es weiß sich selbst noch nicht in ihm, ist sich in ihm noch nicht offenbar.
+
+Da ist der Glaube noch ein solcher, der das Element der Erkenntniß von sich ausschließt und annimmt, dieſe fey nur das ſubjective Denken derer, damit beschäftigen.
+
+Kommt hingegen die Reflexion zu Verstande, so geht darin zwar die Anerkenntniß in die Erkenntniß über, und sie kann streiten gegen das Halten dieser Lehre in der Unbestimmtheit des Gefühls: aber die Reflexion beschränkt sich wieder nur auf die Abstraction, auf das Denken des dreieinigen
+
+Gottes, sein Seyn bleibt dahin gestellt, und so fällt denn im Rationalismus die Lehre aus der Unbestimmtheit des Gefühls in die Leerheit des Meinens und Räſonnirens.
+
+##### §. 429.
+
+In beiden Beziehungen geht die Lehre von der Dreieinigkeit nicht über die Vorstellung hinaus, und sie kann.
+
+darin wenigstens noch den Inhalt des Glaubens, als ein [p. 266] gefühltes und gedachtes, beſißen und die gegenseitige Negation des Gefühls und Erkenntniſſes ſich auch vielleicht nur in dieser Gegenseitigkeit halten, das Gefühl die Erkenntniß, die Erkenntniß das Gefühl von sich ausschließen. Aber zum Begriff, welcher nur Begriff der Wahrheit und dieses selber ist, kommt es nicht.
+
+Jene beiden Einseitigkeiten machen nur gemeinsame Sache gegen das Wiſſen und die Wifsenschaft.
+
+Aber indem beide nun gar selbst in die Wiſſenſchaft übergehen und sich auch da noch vereinigen, das Begreifen und Wissen von dieser Lehre auszuschließen, zeigt sich auch der Inhalt des Glaubens und das Glauben als solches nicht mehr in dieser Vorstellung, sondern vielmehr als geheimer und offenbarer Zweifel an der Wahrheit des Inhalts der Vorstellung, als Zweifel an der göttlichen Offenbarung, als Verwerfung und Vernichtung der Lehre ſelbſt. Indem durch angebliches Wissen selbst das Wissen von ihr vernichtet wird, ist auch sie selbst, als Lehre der Wahrheit, vernichtet, und da die Lehre von dem Dreieinigen die Lehre von Gott selber ist, so zeigt sich hier erst, was an allem übrigen vorgeblichen Wiſſen von Gott wirklich_iſt.
+
+##### §. 430.
+
+Ist aber einmal im Glauben überhaupt oder in einer bestimmten Lehre desselben die Reflexion erwacht, dann ist es vergeblich, dem freien Denken einen Punct zu fixiren, an welchem es stille stehen soll oder eine Lehre, wie diese, der nachdenkenden und prüfenden Vernunft wieder zu entziehen. Es ist wesentlich die Schuld einer sogenannten Rechtgläubigkeit, welche dem Reflectiren und Speculiren zu wehren und zu steuern ſucht, und eine Lehre, wie die von der Dreieinigkeit, lediglich im Glauben behalten und abſchließen will, und sie für unbegreiflich erklärt, daß ihr gegenüber die Unrechtgläubigkeit ſich erhebt mit dem Vorgeben, nichts sey leichter zu begreifen, als das, wie Gott der Dreieinige [p. 267] ſey, nämlich natürlich nur dem Namen nach, und höchstens in menschlichen Gedanken und Vorstellungen.
+
+Je eh-
+
+- renwerther nun dieses ist, daß wenigstens hier das Recht der Vernunft, zu erkennen und zu wissen, gerettet ist, um.
+
+mehr hat zugleich der
+
+Gegenstand hier seine Rechte verloren, um so tiefer ist hier der göttliche Inhalt heruntergesunken.
+
+##### §. 431.
+
+Worauf hingegen die Wiſſenſchaft mit aller Macht bestehen muß, ist ebendies, daß alles wahre Wissen von Gott in dem Geiste der Wahrheit enthalten, er dieses Wissen selbst, er selbst davon gar nicht verschieden, und so auch die Religion an sich von ihm nicht verschieden, das wahre Wiſſen in ihr nicht ein menschliches nur, ein willkührliches, selbstgemachtes, sondern das dem göttlichen Geiste ` ursprünglich eigene, aber dann auch dem menschlichen Geiste offenbare, weil durch ihn ihm geoffenbarte, und also auch dieses menschliche Wiſſen in seinem Begriff das wesentlich göttliche sey.
+
+Matth. 10, 20. 蒙 Joh. 16, 13. ff.
+
+14, 26.
+
+Es ist Gott selbst, der sich in der wahren Religion weiß, aber als Geist dem menschlichen Geiste nicht fremd, sondern offenbar, sich auch in ihm weiß; es ist der Mensch, der in der Religion nicht nur den göttlichen Geist, sondern auch sich in ihm weiß, und dieses Wiſſen, dieser Begriff erſt iſt die wahre Gestalt des Geistes, sein Wesen und seine Substanz.
+
+Keine Lehre hat daher die christliche Dogmatik mehr zu verfechten, als die, daß dem Erkennen, dem geistigen Bewußtseyn, das, was an sich iſt, nur in sofern ist, als es nicht nur Seyn für das Selbst, sondern auch Seyn des Selbstes selbst oder Begriff iſt.
+
+##### §. 432.
+
+Denn wohl mag nichts in der Religion gewüßt werden können, was nicht an ſich ist und als gegebenes, erfahrenes, [p. 268] gefühltes und geglaubtes vorhanden ist: darin Geist an sich.
+
+es ist
+
+Aber dieses sein Daseyn und Vorhandenſeyn, als Gegenstand des Bewußtseyns, ist noch nicht die wahre Gestalt desselben: denn es ist noch ein anderes, als das Wiſſen und hierin ein zufälliges, kein nothwendiges, es ist ein bloß empirisches, hiſtoriſches Wiffen oder Notiznehmen. Das Object ist noch nicht selbst das wiſſende Subject, ist noch rein allein in und bei sich, noch nicht offenbar.
+
+Zu seiner wahren Gestalt gelangt das Substanzielle erst durch die Entzweiung des Begriffs in Subſtanz und Subject, durch das Werden des Gegenstandes des Bewußtseyns oder des Geistes an sich zum Gegenstande des Selbstbewußtseyns oder des Ansich zum Fürsich, und´endlich durch die Bewegung zurück in die einfache Substanz oder durch die Macht des Geistes, als des An- und Für -sich seyenden, das Fürsichseyn ebenso sehr, wie das Ansichſeyn als Moment zu setzen und in sich aufzuheben.
+
+In dieser rein logiſchen, speculativen Bewegung ist der menschliche Geist das immanente Bild Gottes, und der wesentliche Inhalt desselben, welcher als die rein geistige Bewegung in Gott die unendlich einfache Bewegung ist, wird vorgestellt als die Dreieinigkeit Gottes.
+
+Die Vorstellung aber, die als solche noch auch andere Vorstellungen zuläßt, hat ihre Wahrheit erst in dem Begriff, in dem Wiſſen, und es kann gewußt werden, daß Gott nur darum als der Dreieinige vorgestellt wird, weil er es ist an und für sich, und darin erst ist das göttliche Wissen selbst das menschliche, menschliche göttlich.
+
+wie das
+
+Dieses verdankt also der menschliche
+
+Geist nicht sich, sondern dem sich selbst Offenbarſseyn Gottes als Geist auch in ihm als dem menschlichen Geist. dem Inhalte der Religion ist daher wohl früher, als in der Wissenschaft, ausgesprochen, was der Geist ist, fein Wesen oder seine Substanz;
+
+aber erst das Wissen in der Wiss
+
+[p. 269] ſenſchaft ist sein wahres Wiſſen von ihm selbst oder die Gewißheit der Wahrheit an sich.
+
+##### §. 433.
+
+Es wird wohl sonst als der Vorzug und der unterscheidende Character der christlichen Religion angegeben, daß sie die Religion des Geistes sey; ist sie aber dieses, so muß sich das nicht nur in ihrem Inhalt, welcher die Wahrheit ist an sich, sondern auch an ihrer Form zeigen, welche das Wiſſen der Wahrheit und die Wiſſenſchaft ist: denn darin erst ist der Geist in seinem wahrhaftigen Elemente; nicht genug ist ihm, daß eine Religion Wahrheit sey oder enthalte: sie muß auch ihm Wahrheit seyn, er muß sie auch als solche in sich und sich in ihr wissen. Und dieses erst ist die wahre Bedeutung und der wesentliche Character der offenbaren Religion, daß sie sich selbst die Wahrheit ist; erst in solchem Wissen hat sie die Gewißheit ihrer selbst erreicht. Religion, diese Form, das Wissen in der Wenn sie als Wissenschaft, an ihr negirt oder von sich ausschließt, so hat sie ebendamit aufgehört, die Religion des Geistes und der Wahrheit zu seyn: denn was in allen früheren, unvollkom menen und zufälligen Formen der Religion Wahrheit ist, das ist der Geist und seine Offenbarung darin, und ſie ſind darin über einander als die geistlofe, als die negativ-geistige und positiv-geistige Religion.
+
+##### §. 434.
+
+Auf jener untersten Stufe, in der Geistlosigkeit hat die Religion des Geistes allein ihr Leben in der Natur, ist Naturalismus und Fetischismus und der Einzelne oder das Volk, noch im thierischen Bedürfniß befangen, und obwohl nicht ohne Sinn für jeden Mechanismus des Lebens und deſſen Geschäfte, doch ohne Wahrheit in Beziehung auf seine Religion.
+
+Der Stein, die Blume, das Thier, der Himmelskörper [p. 270] kann ihm da noch sein Gott seyn.
+
+Dem Indifchen Pantheismus ist das Geistlose selbst Gott, und Gott somit das Geistlose.
+
+Seine Selbständigkeit, wenigstens der
+
+Natur gegenüber hat der Geist errungen in der ungeistigen Religion oder in der negativ-geistigen.
+
+Er hat in sich die
+
+Natur zur Kunst, das Natürliche zum Kunstwerk gesteigert, und die Naturreligion zur Kunstreligion erhoben;
+
+die vollkommenste Ausbildung des Geistes ist die Bildsäule,
+
+Menschwerdung des göttlichen Wesens; die Einbildung aber ist der Wahn ihrer Verehrung als eines Gottes.
+
+Die innere, geistige Seite dieses Cultus ist der Mythus und defsen Erscheinung das Symbol, die Bestimmtheit des Idealen in der finnlichen Anschauung.
+
+Diese Religion ist nicht ohne Geist, nicht die geistlose mehr, aber nicht auch Offenbarung des Geistes oder offenbare Religion. Sie ist auch nicht, ohne Glauben zu seyn, wenigstens Aber-Glaube. Aber ganz ohne Wiſſen ist sie und ohne Wiſſenſchaft von ihr.
+
+##### §. 435.
+
+Die offenbare Religion ist das Sich-offenbaren des abſoluten Geistes in dem menschlichen Geiſte, und das Sichoffenbarwerden des menschlichen Geistes in dem absoluten Geiste: beides in seiner Einheit das Daseyn des Geistes als Wissen.
+
+Als solches erst ist die Religion die poſitiv-geistige.
+
+Ueber den Polytheismus der Kunſtreligion hinausgehend und die Einheit Gottes behauptend, ist die Religion im Reich des Geistes, wenigstens des Gedankens mit der beſtimmten Negation aller Aeußerlichkeit, Natürlichkeit und Bildlichkeit. Diese Religion, die iſraelitiſche, ist, obwohl noch nicht Wifsen, doch wahrer Glaube, den Aberglauben von sich ausschließend; es ist in ihr gestiftet, die Gemeinde der Gläubigen, die allein in den göttlichen Offenbarungen lebt,
+
+Wissen in ihr nur verborgen, also der Möglichkeit nach in ihr enthalten und vorhanden,
+
+Es ist die eine Seite der [p. 271] wahren Religion darin hervorgetreten, die Offenbarung des absoluten Geistes; aber das Leben darin beschränkt sich darauf, das Gläubige und Gefeßmäßige zu seyn, und `es mangelt ſomit noch die andere Seite, das sich Offenbarwerden des menschlichen Geistes in dem absoluten Geiste.
+
+Dieser Mangel ist positiv die Behauptung des Monotheismus bis zur Negation alles Unterschiedes in Gott: wer in Gott `nichts unterscheidet, hat kein Wissen von ihm;
+
+und bis zur
+
+Negation aller Geſtaltung und Menschheit Gottes: es bleibt beim abstracten Denken Gottes, und Gott somit ein Jenſeits für die Erkenntniß.
+
+##### §. 436.
+
+Die Offenbarung des Geistes im Concreten ist die christliche Religion, und hiemit sie selbst ebenso sehr ein Wiſſen, wie ein Glauben.
+
+Als dieses ist sie das Anſich oder die Wahrheit der Religion überhaupt; als jenes auch das Fürsich oder die Gewißheit der Wahrheit: ſie ſelbſt ſomit die an und für sich seyende, die sich offenbare Wahrheit, die Religion des Geistes. Und diesem ihrem Geiste nach ist die christliche Religion mit der Wissenschaft identisch. Die Articulation dieſer Religion besteht nicht in einem Mythen- und Sinnbilderkreis, sondern ihre Artikel sind in Ansehung der Religion Glaubensartikel, sind Wahrheiten an sich, und in Ansehung der Wissenschaft Dogmen, d. h. sie können als solche auch gewußt werden.
+
+Wird an ihr, sogar in der Wiſſenſchaft selbst, das Wiſſen negirt, so fällt sie in sich herunter, auf eine jener niedern Stufen, fey es in das blinde Gefühl oder die leere Vorstellung. nähert sich wieder der vorchristlichen Religion.
+
+Alle vor christliche Religion aber ist die Unwahrheit der christlichen, wegen dieses in ihnen mangelnden Wissens; obwohl nicht ohne den Geist der christlichen Religion ſind ſie deshalb die unwahren Erscheinungen deſſelben;
+
+aber als Erscheinungen [p. 272] desselben hat der Geist der chriſtlichen Religion ſie an ihm und ist er selbst erst in dem Wiſſen die Wahrheit aller vor: christlichen Religion.
+
+Von den Gnadenwirkungen des Geistes.
+
+##### §. 437.
+
+Der Geist Gottes, in der Einheit mit dem Menschen, der Geist Jesu Chriſti, und so durch ihn der Geist der chriſtlichen Religion ist nicht nur der Geist der Wahrheit, und als solcher ein Glauben und Wiſſen, und so der wahre Geist, sondern auch der Geist der Heiligkeit, als solcher ein Wirken und Thun des Wahren, und so der heilige Geist. Beides an und für sich seyend ist er dasselbe auch für Anderes oder die Welt, und der sich offenbare, somit auch der sich offenbarende und sich der Welt mittheilende, seine Wahrheit und Heiligkeit auch an ſie und in ihr verbreitende. Der an und für sich wirkliche Geist ist auch der wirksame; als dieses auch in die Differenz eingegangen und die Welt hiedurch Erscheinung seiner Wirksamkeit in einzelnen Gaben, Kräften und Wirkungen. Sie sind die mannigfaltigen, aber es ist nur ein Geiſt.
+
+Epheſ. 4, 4.
+
+§.
+
+1. Cor. 12, 4.
+
+438.
+
+In dem gegenseitigen Unterschiede steht zunächst der wirkende Geist von demjenigen, auf den er wirkt, und dieses ist der allgemeine Unterſchied des göttlichen und menschlichen Geistes.
+
+In diesem Unterschiede ist der Geist der Wahrheit und Heiligkeit der alleinwirkende; der menschliche
+
+[p. 273] Indem aber der göttliche, der zum Wirken Berufene. als der alleinwirkende Geist nur auf den Geist, als den menschlichen, wirkt, sind sie beide im innern und wesentlichen Verhältniß zu einander, der göttliche Geist, der sich und sein Wirken dem Menschen mittheilende, und ihn zum Mitwirken bestimmende.
+
+In diesem Bewirken des Wire kens nun hebt sich der Unterschied, ist der eine mit dem andern wirkend, sind beide mitwirkend oder zusammenwir kend, und ſo in der Einheit. Die Lehre von den Gnadenwirkungen des Geistes bewegt sich daher in den drei Lehren von der Berufung, von der Bekehrung und von der Freiheit.
+
+§.
+
+Berufung.
+
+439.
+
+Als Berufung ist die Gnade des Geistes gedacht noch als die nur abſtracte, mit ihrer Wirkung nicht identische, und somit als die wohl an sich wirksame, aber in dieser Wirksamkeit noch nicht wirkliche.
+
+Als der berufende ist vielmehr der göttliche Geist nur der als Denken und Wollen, nicht der als Thun und Wirken thätige. Es geht darin das Denken, als Wollen, und das Seyn, als Wirken, noch auseinander. Die Berufung ist der göttliche Rathschluß · und Wille, die göttliche Bestimmung über den Menschen und dessen Seligkeit.
+
+Indem aber diese Bestimmung Got-
+
+´tes (als Act) zugleich die Bestimmung des Menschen (als Zustand) ist, wird in Wahrheit nur von demjenigen abſtra hirt, wozu der Mensch sich selbst bestimmt, die göttliche
+
+Bestimmung, als nicht nur an sich die erreichbare, sondern auch erreichte, nur als die von den Menschen noch nicht S [p. 274] erreichte und für ihn wirklich gewordene, er also nur gedacht, wie er noch nicht wirklich ist, was er seyn soll, somit, obgleich Gott im Verhältniß zu ihm, er selbst hingegen noch in keinem zu Gott gedacht. Das Ansichſeyn des menschlichen Geistes, welches ſein Verhältniß ist zum göttlichen, ist vielmehr das unmittelbare und unvermittelte.
+
+##### §. 440.
+
+Noch nicht für Gott geworden ist der menschliche Geist nur im Werden für sich und hiemit in seinem reinen Naturleben.
+
+Er hat die Natur nicht nur an ihm, sondern ist selbst noch nicht im Unterschiede von ihr, er ist sie selbst, ſie ist das Ansich des Geistes.
+
+In dieser Concretion der
+
+Natur und des Geistes ist er der natürliche Geist oder Naturgeist, der nur empfindende, er findet das Aeußere als Inneres und beides ist in der Empfindung zusammenge schlossen, und concret durch das sich in sich bewegende Thun des Geistes.
+
+Nicht aber als sich selbst findet der Geist sich in seinem Empfinden, sondern als ein anderes, als ein Natürliches, und dieses ist seine Macht, und er somit eigentlich nur in dessen Macht.
+
+So unwillkührlich bestimmt durch die Dinge außer ihm ist es zwar der Geist, der sich selbst bestimmt, aber nicht als Geiſt, ſondern als Natur, und dieses natürliche Sich-selbst-bestimmen somit ein Bestimmtwer• den. Das vernehmende Prinzip oder der Geist als Vernunft ist dieses noch nicht für sich, sondern nur Vernehmen durch die Sinne, und als solches die Sinnlichkeit.
+
+##### §. 441.
+
+In seiner Sinnlichkeit ist der Geist, obgleich noch nicht der menschliche, sondern dieses nur der Möglichkeit nach, doch schon über das Thier hinaus, dessen Sinnlichkeit nicht aus der Identität des Leibes und der Seele heraus kann. Des Menschen äußerer Sinn hingegen ist nur der äußere [p. 275] des innern, und in diesem das Aeußere inne werdend nimmt der Geist das Aeußere wahr, und in diesem Wahrnehmen nimmt er sich selbst aus der Natür zurück, unter scheidet als Seele sich von dem Leibe, und kann in allen Affectionen und Senſationen auf sich, als das Ich, wie von dem Einzelnen auf das Allgemeine zurückgehen.
+
+Ueber das bloße Daseyn hinaus zum Bewußtseyn gekommen, über das nur Lebendige hinaus zum Denkenden geworden, kann er ſich in seinen an sich finnlichen Empfindungen ſelbſt verſtehen und in dieser Reflexion des Geistes aus der Natur in sich oder das Ich, ist der Mensch über sich selbst sowohl als sinnliches Wesen, wie über die Sinnenwelt außer ihm zu Verstande gekommen, die Sinnlichkeit in die Verſtändigkeit übergegangen.
+
+##### §. 442.
+
+In beiden, der Sinnlichkeit und Verständigkeit, ist der Wie die Natur, von welcher Geist der noch endliche.
+
+der Geist sich unterscheidend ausgegangen, die endliche, das Entstehende und Vergehende ist, so hat auch sein Sich-vonihr-Unterscheiden und Sich-in-sich-Reflectiren, seinen wesentlichen Inhalt an ihr, und ist somit sein Denken, wie das, worauf es gerichtet ist, ein endliches und bedingtes.
+
+Für ihn, als Sinnen- und Verstandes Wesen hat nur das Endliche und Bedingte Sinn und Verstand.
+
+Das Endliche und
+
+Bedingte aber ist zugleich das Beschränkte, und innerhalb dieser Schranken bewegt sich der Geist als gemeiner Menschenverstand, und ist in dieser Bewegung von der Natürlichkeit herauf in die Ichheit allerdings zu sich selbst gekommen und für sich geworden.
+
+An sich aber ist sein Werden für sich zugleich ein Werden für Gott, und wie dieſes jenes zu seiner Voraussetzung hat, so ist dieses erst die Wahrheit Jenes Ansich aber ist seine Berufung durch Gott, doch in der Abstraction von allem Werden des Menvon jenem.
+
+S 2 [p. 276] schen für Gott durch sich.
+
+Jene Berufung des Menschen für Gott durch Gott ist die reine Negativität, der bestimmte, aber nichts weniger als gleichgültige Unterschied Gottes und des Menschen. §.
+
+443.
+
+In diesem Werden des Menschen für Gott zeigt sich ihm in seinem Werden für sich zunächst als ſinnliches Weſen Gott als das nicht sinnliche Wesen, nicht in der Concretion mit der Natur, oder bestimmt durch irgend etwas · außer ihm, nicht als das empfindende oder Gefühlswesen oder irgend einem Affect zugänglich.
+
+Diese Negation des
+
+Sinnlichen tritt aber in dem göttlichen Wesen als Geiſte selbst nur hervor als die negative Seite des Positiven selbst in ihm, ſomit als poſitive Bestimmtheit des göttlichen Geistes selbst, als reine Identität des Seyns und Denkens, und darin ist Gott der Heilige.
+
+Die Heiligkeit als Bestimmtheit Gottes des Geistes ist der Welt erst im Chriſtenthum offenbar geworden. In den heidnischen Religionen ist sie noch in der Concretion mit der Natur gehalten, und darin die unreine und kaum geahndete.
+
+In der mosaischen Religion hat sie zu ihrer Erscheinung das Gesetz und darin schon eine nähere Beziehung auf die Sittlichkeit.
+
+In der christlichen
+
+Religion hingegen ist Gott in seinem Wesen als Geist an und für sich selbst als der Heilige erkannt.
+
+Der Heiligkeit
+
+Gottes gegenüber zeigt sich in dem Werden des Menschen für Gott das Sinnliche als das Nichtheilige, und poſitiv als das Unheilige.
+
+Sofern der Mensch aus der Natur herkommt und noch nicht durch den Geist wiedergeboren ist, ist er der Unreine, der irdische und fleischliche Mensch (oɑo̟nıxos) Gal. 4, 23. 29.
+
+Joh. 3, 6.
+
+Rom. 8, 1. 4.
+
+Durch die erste Berührung, in welche der Mensch mit der Religion kommt, wird er als der Sinnliche für den Unheiligen erklärt. 1. Theff. 4, 7.
+
+##### §. 444.
+
+Von der Natur und Sinnlichkeit aus zu Verstand ge kommen, steht des Menschen Denken in der Uebereinſtimmung mit der Sinnenwelt, und dieſe Uebereinstimmung und Wahrnehmung ist ihm die Wahrheit, wie er an der Wirklichkeit der Welt und aller Dinge in ihr nicht zweifelt, so hat sie auch Wahrheit und Gewißheit für ihn.
+
+In diesem
+
+Werden des Geistes für sich zugleich werdend für den göttlichen Geist, dessen Denken nicht ein Uebereinstimmen mit der Sinnenwelt, sondern das Seyn selber und der somit auch der Geist der Wahrheit selber ist, kann er des Zweifels sich nicht erwehren an der wirklichen T Wahrheit und Gewißheit der Erscheinungswelt, und kommt er an die Welt des Geistes, als die wahre, an das Reich Gottes, welches das Reich der Wahrheit ist, heran, oder vielmehr das Reich Gottes an ihn. Luc. 10, 9. 11.
+
+21, 31.
+
+Marc. 12, 34.
+
+Hiedurch wird zugleich sein durch Sinnlichkeit bedingter Verstand oder der gemeine Menschenverstand, und was er ſeineVernunft nennt, für blind in allen göttlichen und ewigen Dingen, sein Denken für ein wahrheitsloses und unwahres erklärt. Seine Weisheit ist die der Welt, Weltweisheit, Jac. 3, 15.
+
+Keinen andern Inhalt der Erkenntniß und Wahrheit kennend, als das Irdische und Vergängliche, ist der Geist nur Seele und der Mensch der seelische nur (yvxxos), 1. Cor. 2, 14.
+
+Jac. 3.
+
+§.
+
+Jud. v. 19,
+
+445.
+
+So von der Natur, von sich, vom Ich aus kann der Mensch weder das Göttlichwahre erkennen und wissen, noch das Göttlichgute wollen und thun.
+
+In feiner Sinnlichkeit und Verſtändigkeit auf sich, auf das Ich beschränkt, als die Form und Identität von Sinn und Verſtand, und somit nur in der Endlichkeit werdend für sich, zeigt sich ihm werdend für Gott der göttliche Geist als der unendliche, nicht, [p. 278] wie er, im Endlichen, sondern im Unendlichen selbst und somit als den in seiner Wahrheit Heiligen, und in seiner Heiligkeit Wahren, d. i., als den Allgenugsamen und Seligen.
+
+Er hingegen in der Beschränktheit auf sich, in der Ichsucht sich immer mehr verendlichend, findet die Welt, als dem Verderben anheimgefallen und sich in ihr als den Verlorenen und Unseligen. Matth. 18, 11. 14. Luc. 9, 25. Joh. 3, 15. 17, 25. 1. Joh. 5, 19. 2, 15. Auf dem Wege des Verderbens, Matth. 7, 13., als den Sohn des Verderbens (vios tŋs, anwheιas), Joh. 17, 12. 2. Theſſ. 2, 3.
+
+##### §. 446.
+
+Der göttliche Gnadenruf nun, oder der göttliche Geist als der berufende, ist die Offenbarung seiner selbst an den Menschen, welche die Heiligkeit, Wahrheit und Seligkeit zu ihrem Inhalt hat. Es ist die innere und ewige Nothwendigkeit der göttlichen Liebe, welche zugleich die absolute Freiheit ist, sich in diesem ihrem Wesen der Menschheit zu erkennen zu geben und mitzutheilen.
+
+Berufung aber nur ist diese Offenbarung, so lange sie nur als Ursach gedacht wird, 1 welche nicht zugleich ihre eigene Wirkung ist, und die Differenz des Grundes und des Begründeten festgehalten wird. Hierin ist der göttliche Geist noch ebenso abstract gedacht, als der menschliche. Ihre Wahrheit ist die Bewegung zu einander, welche in der Berufung begriffen ist; in ihr an sich sind der göttliche und menschliche Geist nicht absolut außer einander; aber noch nicht wirklich eins ist der menschliche vorerst nur die Möglichkeit, zur Wahrheit, Heiligkeit und Seligkeit zu gelangen, dieser Möglichkeit.
+
+der göttliche nur das Prinzip
+
+Die göttliche Berufung ist auf Seiten des Menschen die Fähigkeit.
+
+##### §. 447.
+
+Die Fähigkeit, als das nur mögliche Wissen des Göttfichwahren und als das nur mögliche Wollen des Göttlichguten, [p. 279] beides noch als Ahnden, Glauben, Sehnen u. f. f. geht nicht hervor weder aus dem Werden und Seyn des Menschen für sich, noch auch aus dem Werden und Seyn des Menschen für Gott, welches noch gar nicht ist, sondern ſchon, daß dieſes ihm möglich ist, hat nicht er, der Mensch, gemacht, ist nicht sein Werk oder Verdienst, geht vielmehr allen Werken und Verdiensten des Menschen vorher, und er hat es weder von Ewigkeit her alſo geordnet, noch in der Zeit durch sich angefangen: es ist die Berufung des Menschen durch Gott von Ewigkeit her, die Vorher = Bestimmung aller Menschen zur Kindschaft in Christo.
+
+Diese Beziehung des göttlichen Geistes auf den menschlichen und eben darin die Beziehung des menschlichen Geiſtes auf den göttlichen ist an sich nicht das Thun des Geistes, welcher Mensch, sondern des Geistes, welcher Gott ist, und hat als nur mögliches Thun des Menschen zu seinem Ausgangspunct nicht schon dieses sein Thun selbst. Die Möglichkeit oder das Vermögen, Gott zu erkennen und zu lieben, und durch beides beseligt zu werden, ist nicht menschlichen, 1 sondern göttlichen Ursprungs, nicht menschliches Verdienst, sondern freie Gnade Gottes in Jesu Christo.
+
+Die göttliche Berufung bestimmt sich als Gnadenwahl. 1. Petri 5, 10.
+
+2. Tim. 1, 9.
+
+§.
+
+Röm. 9, 12.
+
+1. Cor. 1, 9.
+
+448.
+
+Die Fähigkeit, welche an der göttlichen Berufung, als Gnadenwahl, ihr Prinzip hat, ist eben hiemit als menschliche zugleich eine göttliche, und als solche die Befähigung und sagt auch in dieser Form das Anſichſeyn des menschlichen Wesens aus.
+
+Hiemit ist ebenso sehr darin enthalten, daß Gott an und für sich unter allen Menschen durchaus keinen Unterschied mache, sondern ihre Bestimmung zur Seligkeit der Begriff des menschlichen Wesens selber sey.
+
+Fähigkeit selbst und an sich aber hat eine bestimmte Beziehung [p. 280] einerseits auf die göttliche Wahrheit und Heiligkeit, und ist selbst nichts anderes, als die Möglichkeit, dazu zu gelangen, in welcher Beziehung Gott selbst die unendliche Vernunft und Freiheit ist, und andrerseits auf das, was in dem Menschen, als Sinnen- und Verstandes- Wesen bereits dem Wesen nach enthalten und angelegt, was nicht zwar actu, aber potentia in ihm ist. Dieses nun ist Vernunft und Freiheit, nicht in ihrer Wahrheit und Wirklichkeit, sondern sofern sie in Sinn und Verſtand noch verborgen ist.
+
+##### §. 449.
+
+Aber als verborgen in dem Menschen Vernunft und Freiheit enthaltend haben Sinn und Verstand in ihm eine große und wesentliche Bedeutung.
+
+Obgleich in der Sinnlichkeit zunächst nur als Begierde hat die Freiheit doch als menschliche darin wenigstens ſchon die Form des denkenden Wollens;
+
+obgleich im Verstande zunächst nur als Denken hat die Vernunft darin wenigstens zugleich schon die Form des wollenden Denkens, und diese Form des Denkens und Wollens in der Einheit mit ihrem Gegenstande Wissen und Handeln, ist das Element der Persönlichkeit selbst.
+
+Was daher immer auch auf irgend einer höhern Stufe aus dem Menschen werde, durch diese Bestimmtheit ist es des dingt und vermittelt. Nicht bis soweit also ist der Sündenfall gegangen, daß er Vernunft und Freiheit bis auf die Möglichkeit vernichtet und also auch die Erlösung unmöglich gemacht hätte.
+
+Unmittelbar und abſtract zeigt ſich vielmehr die Fähigkeit des Werdens für Gott oder des Gelangens zu Gott und seiner Bestimmung darin, daß der Mensch ein denkendes und wollendes, in beiden ein geistiges oder persönliches Wesen ist.
+
+[p. 281] §.
+
+450.
+
+Es kann und muß daher die göttliche Berufung als die Bestimmung des Menschen begriffen werden, das Wahre und Gute selbst zu denken und selbst zu wollen, durch beis des aber sich seine Seligkeit selbst zu beschaffen und zu ers werben.
+
+Daß hiezu der Geist der Gnade sich an sich Keinem entzieht, sondern Allen verleiht, ist der Begriff der Allgemeinheit der Gnade, und es hat demnach hier der Begriff der Gnadenwahl die ebenso nothwendige Bestimmung ihrer Allgemeinheit erlangt.
+
+Luc. 24, 46. 47.
+
+1. Tim. 2, 4. 2. Petri 3, 9.
+
+Apostg. 17, 27.
+
+Daß diese Bestimmung nicht bloß etwa von manchen Menschen nicht erreicht, sondern ſogar in Gott unerreicht gedacht wird, die Gnade nicht die an sich universelle, sondern in dieser ihrer Ansichheit schon eine particulare fey, ist das Vorurtheil von einer in Gott vorhandenen Eintheilung der Menschen in Gute und Böse, und der Erwählung der einen, und der Verwerfung der andern.
+
+Damit nämlich die Abänderung des an sich in feiner ewigen, unabänderlichen Wahrheit bestehenden Rathschlusses über die Seligkeit Aller, und somit Veränderlichkeit in Gott selbst nicht gesetzt werde, wird dieser bloß zeitliche und geschichtliche Unterschied des Guten und Bösen schon als ein ewiger in Gott selbst gesetzt und darin festgehalten, da der Unterschied doch in Wahrheit erst ist, so fern das Ansichseyn darin aufgehoben ist: dieses ist die in allen spinozisch gesinnten Vorstellungen von Gott, als der offenbarungslosen Substanz und das in ihr und somit auch ihnen selbst Verborgene doch schon als wirklich setzenden Lehren nothwendig verkannte Wahrheit.
+
+Als der noch in Gott verborgene Unterschied aber ist er der nur der Möglichkeit nach, nicht aber der Wirklichkeit nach darin enthaltene, und somit er selbst noch ebenso unwahr, Gedanke daran.
+
+als der ganz nur abstracte
+
+[p. 282] §.
+
+451.
+
+Die göttliche Berufung aller Menschen zur Vernunft und Freiheit und durch beides zur Seligkeit ist also als Bestimmung, diese ihre Seligkeit sich selbst zu schaffen, nicht mehr bloß die reine Receptivität und als solche Paſſivität, welches sie allerdings in diesem ihren ersten Momente ist, sondern ebenso sehr und ebendamit zugleich Spontaneität und Activität, und dieses der Begriff der kirchlichen Formel, daß die Gnade nicht in der unbeſtimmten Befähigung und Möglichkeit beharre, sondern auch Stiftung geistlicher und fittlicher Kräfte sey, die der Mensch von der Natur herkommend, nicht bereits hat oder besißt.
+
+Auch darin zeigt sich die göttliche Gnadenwahl als die allgemeine, daß der göttliche Geist als die Kraft zum Wahren und Guten in Allen ist, und eben hierin erst der Unterschied des menschlichen Geistes als Bewußtseyn, von Allem, was bloß Natur
+
+Auf dieses kann unmittelbar der göttliche Geist nicht wirken, und eben deshalb kann es auch in diesem Gebiete nicht zu Vernunft und Freiheit, der Geist nicht zu Worte kommen. In allen Menschen aber stiftet die Gnade nicht bloß die unbestimmte Fähigkeit, ſondern ebendarin zugleich die Empfänglichkeit, welche jedoch noch ebenso sehr das Wollen als Nichtwollen seyn kann.
+
+##### §. 452.
+
+In der Empfänglichkeit nämlich erst kann das Göttliche und Menschliche auseinander gehen, welches in der Fähigkeit, welche rein die göttliche Befähigung und Beſtimmung ist, nicht angeht. Ob der Mensch des Göttlichen folle fähig seyn, das ist nicht in seinen Willen und seine Macht gelegt, ſondern das ist rein allein Gottes Gnade. Diese zieht sich auch in die Empfänglichkeit mit hinein, sofern sie das Wollen des Wahren und Guten ist; aber heraus tritt der Mensch aus der Gemeinschaft mit Gott, sofern die Fähig [p. 283] keit die Nichtempfänglichkeit oder das Nichtwollen ist.
+
+Dieses Nichtwollen ist das Nichtwerdenwollen zu demjenigen, was er an ſich ist.
+
+An sich oder durch Gott und göttliche
+
+Bestimmung ein Geist, d. i. ein vernünftiges, freies Wesen, ist des Menschen Bestimmung, sich auch zu demjenigen zu machen, was er an sich ist.
+
+Auf dem Wege nun oder in der Bewegung durch Sinn und Verstand kann Vernunft und Freiheit abſtract ſich auf dem einen oder andern Puncte halten und stehen bleiben, und der Mensch also auch nicht werden zu demjenigen, was er an sich ist.
+
+In jener gehemmten Bewegung, welche ebendarin zugleich die rückgängige ist, nähert er sich wiederum dem bloß Daſeyenden und Lebendigen, dem bloß Vegetirenden und Animaliſchen, ja er kommt in diesem Widerspruch mit seiner höhern Bestimmung zugleich unter dasselbe herab. Dieses ist der Begriff der in den kirchlichen Glaubensbekenntnissen vorkommenden Vorstellung von dem der Gnade widerstrebenden Menschen, daß er darin sich ärger, denn Thier und Klotz verhalte. Die Wahrheit dieser Vorstellung ist, daß beide weder solcher Bestimmung gewürdigt, noch auch des Widerstrebens gegen die göttliche Gnade fähig sind.
+
+##### §. 453.
+
+Dieses Widerstreben aber, obgleich dieses selbst Rückfall an die Natur, aus der der Mensch hergekommen, ist jedoch weder ein Werk der Natur und ihrer Nothwendigkeit, noch einer ähnlichen in Gott, als Fatum und herbe göttliche Verfügung und Nothwendigkeit, ſondern des Willens; es ist das Nichtwerden wollen zu demjenigen, wozu ihn Gott bestimmt und mit Kräften versehen hat.
+
+Ohne diesen seinen Willen kann der Mensch weder selig, noch unfelig werden, und in diesem Verhältniß ſeines Willens zum göttlichen sind begründet die Begriffe von Verdienst und Schuld (bona et mala merita), welche beide eins sind in [p. 284] dem Begriff der Zurechnung.
+
+Im Widerspruche mit einander sind hier die beiden Vorstellungen von der Gnadenwahl, als einer unbedingten und bedingten, die Lösung des Widerspruchs ist der Begriff der Berufung selbst.
+
+##### §. 454.
+
+An sich ist die Gnadenwahl die unbedingte und abſolute.
+
+Der ewige Rathschluß Gottes ist, als der des absoluten Geistes, selber abſolut, von keiner Zeitlichkeit oder Endlichkeit abhängig oder bedingt. Er ist auch nur darin Gnade, daß er der absolut freie und unbedingte ist. Durch irgend eine Rücksicht auf menschliche Werke und Verdienste beſtimmt, wäre die Gnade in diesem ihren Moment als Rathschluß, nicht Gnade.
+
+Die Wahrheit dieser Lehre zeigt sich aber erst in der andern, daß diese Gnade die allgemeine sey.
+
+Es ist ſomit durchaus noch keine andere Verschiedenheit gesetzt, durch welche der göttliche Rathschluß sich könnte bestimmen laffen, als die allgemeine Gottes und des Menschen, nicht die der Menschen unter einander, der Guten und Bösen. Denn das Wählen, welches von der Gnade ausgesagt wird in der Vorstellung der Gnaden wahl, ist nicht ein Eintheis len und Absondern der Menschen unter einander, welches ein Erwählen wäre, und als solches schon ſelbſt ſein Gegentheil, das Verwerfen an ihm hätte, sondern der reine Begriff der mit dem Wollen identiſchen Gnade ſelbſt.
+
+##### §. 455.
+
+Durch die Verdrehung und Beziehung dieſes. Begriffs auf etwas anders, als den reinen Willen Gottes, so wenig Schuld als Verdienst der Menschen zu seiner Voraussetzung hat, ist sie mit der Willkühr verwechselt, und der absolute Rathschluß zu einem ganz arbiträren gemacht worden, fer abzuhelfen und dem Irrthum hat man nicht bess gewußt, als so, man ihn nun zu no [p. 285] einem dependenten machte.
+
+Als der ewige Rathschluß und noch mehr als Rathschluß über die Seligkeit Aller aber ist er unendlich darüber hinaus, sich durch Schuld oder Verdienst der Menschen beſtimmen zu laſſen, und somit die Auguſtinisch - Kalvinische Lehre ebenso falsch, wie die entgegengesetzte. Jene verkennt die Allgemeinheit der Gnade an dem absoluten Rathschluß Gottes, dieſe verkennt die Unbedingtheit und Abſolutheit der allgemeinen Gnade.
+
+Beide haben den wesentlichen Mangel, daß sie das Ansich Gottes verkennen.
+
+göttliche Rathschluß, als die Einheit des göttlichen Wollens und Wissens in ihm absolut ein und zusammengeschloßsen, hat in dieser seiner Absolutheit allein die reine Beziehung auf den Menschen, als solchen. 1
+
+##### §. 456.
+
+Es kann und soll aber auch die ebenso absolute, als allgemeine Gnade, welche der göttliche Rathschluß zur Seligkeit Aller ist, zum Verdienst des Menschen werden, und dieses ist die wesentliche andere Seite des Begriffs der Berufung.
+
+Ohne den Geist der Gnade ist es allerdings un, möglich, daß der Mensch zu Vernunft und Freiheit gelange: aber eben in ihnen verwirklichet sich erst die Gnade selbst. Sie sind ebenso sehr Bestimmtheiten Gottes als des Menschen, von jener Seite her göttliche Gnadengaben, von diefer menschliche Eigenschaften. Sie begründen sich durch sich selbst in dem Menschen: ihr Selbst aber ist ebenſo ſehr göttlich, als menschlich. Ihr Sich-selbst-Erzeugen ist ihre göttliche Macht: ihr Erzeugtwerden ist die menschliche Thätigkeit; indem sie sich göttlich hervorbringen, werden sie auch zugleich hervorgebracht, und indem sie wirklich in und durch den Menschen entstehen, entstehen sie zugleich durch Gott. Ihre Wirklichkeit ist ebenso sehr Gottes Gnade, Menschen Verdienst.
+
+als des
+
+[p. 288] §.
+
+460.
+
+Mit dem Unterschiede des Guten und Bösen oder des rer, welche den göttlichen Willen zu ihrem eignen machen oder nicht, ist nun allerdings der göttliche Rathschluß erst in seiner ewigen Wirklichkeit, und ist darin ebenso sehr Rathschluß der Erwählung, als Verwerfung, oder über die SeDieses, daß Gott dem Menschen ſeinen Willen läßt in der Selbstbestimmung, ist in der Wahl ligkeit und Unseligkeit.
+
+des Guten seine göttliche Bestimmtheit zur Seligkeit, in der Wahl des Bösen seine göttliche Bestimmtheit zur Unseligkeit. Das eine und andere ist Bestimmtheit zugleich durch sich und Gott.
+
+Das eine wird als menschliches Verdienst und göttliche Belohnung, das andere als menschliche Schuld und göttliche Bestrafung vorgestellt. Denn die allgemeine göttliche Bestimmung zur Seligkeit ist es, welche dem Menschen selbst in sein Verderben nachhängt, wodurch dieses erst dazu wird, und nur in diesem Sinne kann gesagt wer den, die göttliche Bestimmung sey des Menschen Verderben, doch nur, wie sie ebenso sehr auch des Menschen Bekehrung iſt.
+
+§.
+
+Bekehrung.
+
+461.
+
+In der Berufung ist der göttliche und menſchliche Geiſt noch im abstracten Unterschiede; sie ist die noch einseitige, göttliche Thätigkeit im Unterschiede von der menschlichen, und diese ist darin so gut, wie noch gar nicht gesezt. Der Begriff und die Nothwendigkeit des Begriffs der Berufung ist die Wahrheit, daß die Initiative zu allen folgenden
+
+Schritten und Wirkungen der Gnade diese selbst, oder Gott [p. 289] als Geist das bewirkende Prinzip selber sey, der Mensch dazu von seiner Seite durchaus nichts beitragen könne. Aber indem diese Gnade selber nicht wäre, was sie ist, wenn sie ganz erfolg und wirkungslos wäre, so hat sie in dieser ihrer innern Selbstbestimmung zugleich die nothwendige Bewegung aus der Abstraction in die Wirklichkeit, und ist nicht nur Berufung, sondern auch Bewirkung dessen, wozu sie beruft, und als solche die göttliche Bekehrung des
+
+Ezech. 18, 23. 28.
+
+33, 11. 14.
+
+Mal. 3, 7.
+
+1. Petri 2, 25.
+
+##### §. 462.
+
+Denn das sich Zeigen und Offenbaren Gottes in ſeiz ner Weisheit, Heiligkeit und Gnade ist als Berufung wohl das Prinzip der Bekehrung und somit die Möglichkeit der leßtern; aber erst in dem Innewerden, welches das innere (bekehrt) Werden des Menschen ist für Gott, in dem Anerkennen und Auffassen des Gnadenrufs, hat sie ihren Erfolg und ihre Wirklichkeit. Was daher in der Religion als das Rufen und Sprechen von Seiten Gottes vorgestellt ist, dem entspricht (correspondirt) ebenso nothwendig auf Seiten des Menschen das Hören und Faſſen der Gnadenerweisung, und die Religion enthält daher an ihr selbst die objective Nothwendigkeit, daß Gottes Wort und Ruf nicht fruchtlos erschalle, sondern in allen Zeiten auch solche seyen, welche die durch dasselbe Bekehrten sind.
+
+Es ist diese an
+
+ſich ewige Nothwendigkeit, welche sich in der Zeit vollbringt und wirklich macht.
+
+Jef. 55, 11.
+
+##### §. 463.
+
+Die Bekehrung vollbringt sich in der Zeit oder an dem Einzelnen, indem mittelst der Empfänglichkeit die Fähigkeit in das Bedürfniß übergeht; dieses aber ist das Bewußtfeyn des eigenen Mangels und der Unmöglichkeit einer Be T
+
+##### §. 457.
+
+Die Einheit des Grundes und des Begründeten nun ist die Vereinigung des Menschen mit Gott oder der göttlichen und menschlichen Thätigkeit; die Hemmung der Einheit aber liegt allein auf Seiten des Menschen.
+
+Gehen jene beide Thätigkeiten auseinander, macht der Mensch den göttlichen Willen nicht zu ſeinem eigenen, so hat er nur, was er ſeinen Willen oder ſeine Vernunft und Freiheit nennt und diefes Sich-Isoliren des menſchlichen Geiſtes iſt ſein Sich-Opponiren gegen den göttlichen Geist.
+
+Er macht nicht selbst aus sich und in der Zeit, was Gott von Ewigkeit her aus ihm machen will, Vernunft und Freiheit gelangen nicht zu ihrer wahren Wirklichkeit.
+
+Die Vernunft wird ein solches Denken, welches das wahre Seyn nicht an ihm hat, die Freiz heit ein solches Handeln, entblößt ist.
+
+welches seines wahren Inhalts
+
+Beides ist des Menschen Unseligkeit.
+
+Er will nicht durch Gott, sondern allein durch sich begründet ſeyn. Dieses Nichtswissenwollen von Gott in seinem Denken und Handeln ist aber in der Berufung des Menschen durch Gott nicht die gleichgültige Verschiedenheit des Menschen von Gott, sondern zugleich seine Schuld, sein Verderben, und dazu hat Gott ihn nicht eher beſtimmt, als bis er sich selbst dazu bestimmte.
+
+##### §. 458.
+
+Von Seiten Gottes die unbedingte und absolute Gnadenwahl ist sie von Seiten des Menschen die bedingte. Der Widerspruch ist allein im abstracten Verſtande, und da ist er auch nicht zu lösen.
+
+Er ist ebenso sehr noch vorhanden in diesem sich noch nicht bewegenden Gegensatz, als in der Lösung, welche nur einen unbedingten oder nur einen bedingten Rathschluß statuirt. Der Rathschluß Gottes, bedingt durch das Verhalten des Menschen, hat keine Wahrheit; der unbedingte Rathschluß, dem das Verhalten des
+
+Hauptstück 1.
+
+Menschen gleichgültig ist, ist der ganz unwirkliche und abstracte Gedanke. Als der bedingte gedacht in Gott weiset der göttliche Rathschluß zugleich über die Bedingung und Bedingtheit hinaus auf das Unbedingtſeyn, welches die Idee Gottes selber ist, und ist in der reinen Trennung von seiner Unbedingtheit nicht zu halten, ohne die Idee Gottes selbst zu verleßen. Als der unbedingte in seiner Trennung von aller Bedingtheit, verliert er ganz alle Beziehung auf das Handeln und Seyn des Menschen und geht nur sein Denken an, ist nur der sclavische Gedanke an einen Tyrannen, der nicht einmal Willen und Wiſſen, ſondern nur Macht offenbart, die ohne jenes beides weder wirkliche Macht, noch wirkliche Offenbarung, ſondern die leere, blinde Willkühr ist. §.
+
+459.
+
+Indem nun aber doch von beiden Partheien die des dingte Gnadenwahl in das unbedingte Wesen gesetzt, und bei der unbedingten doch auch zugleich irgend ein Verhältniß zu menschlicher Thätigkeit, und diese wenigstens als minimum, als Nichtwiderstreben und Stillehalten, und deren Gegentheil vorausgesetzt ist, geht die unbedingte und bedingte Gnadenwahl in Gott zugleich aus ihrem Unterschiede her aus: sie ist an und für sich dieselbe, gleich sehr das eine und andere, und somit die von Seiten Gottes unbedingte Gnadenwahl die von Seiten des Menschen bedingte, jedoch nur so, daß diese bedingte nichts desto weniger unbedingt Dieses nämlich selbst, daß sie die bedingte ist, hat sei nen Grund in ihr, als der unbedingten, und dieses ist der Begriff jener schon angeführten, richtigen Vorstellung, nicht ohne seinen Willen kann der Mensch durch Gott beseligt
+
+Daß nämlich dem so ist, ist selbst in jenem ewigen, unbedingten Rathschluß Gottes über die Seligkeit der Menschen enthalten, ist selber der ewige, unbedingte Wille [p. 290] kehrung durch sich allein;
+
+es ist vielmehr Bedürfniß der
+
+Bekehrung durch Gott. Diese Bestimmung in dem Begriff der Bekehrung, eine göttliche zu seyn, ist darin eine so noth wendige, daß sie ohne dieselbe nur Bekehrung wäre durch den Menschen allein, ` als solche aber weder möglich, noch nothwendig wäre: denn sie ist eben nur Bekehrung des Menschen zu Gott.
+
+Ohne Bekehrung durch Gott zu Gott zu seyn, ist ihr Begriff nicht zu denken; in dem Bewußtſeyn vielmehr, daß er sie nicht mit eigner Kraft bewirken kann, daß er vielmehr der göttlichen Kraft dazu ebenso sehr ermangle, als bedürfe, hebt die Bekehrung des Menschen, als solche, erst wirklich an. Joh. 16, 8.
+
+Joh. 6, 44.
+
+Luc. 15, 24. 32.
+
+§.
+
+Matth. 23, 37.
+
+1. Tim. 5, 6. Phil. 2, 13.
+
+464.
+
+Wes Ursprungs aber ist das Bedürfniß ſelbſt? Es iſt nicht absolut ohne seine Befriedigung. Daß es entsteht, ist zunächst das Werk der allen eigenen guten Werken zuvorkommenden göttlichen Gnade, welche den Menschen entweder plößlich und in einem heiligen Augenblicke erweckt, oder unvermerkt erst durch so viele Verwickelungen und Schickſale des Lebens hindurch führt, daß das Bedürfniß der Gnade und Bekehrung in ihm entsteht. In und mit diesem entstehenden Bedürfniß aber ist der Mensch nun auch seiner Seits in der lebendigen Beziehung auf Gott, und so1 mit der Gegensatz Gottes und des Menschen zur Beziehung beider auf einander geworden. Dieses Beziehen ist nicht ein bloß gedachtes, ſondern ein Thun, ist die Bewegung beider zu einander, Gottes zu dem Menschen in seinem SichOffenbaren und Mittheilen, des Menschen zu Gott in seinem Anerkennen und Erfassen der. göttlichen Offenbarung und Mittheilung.
+
+Das Bedürfniß ist also gleichsehr des Menschen eigene erste, göttliche That, und sein bestimmter Antheil daran ist, daß er seinen bisherigen Widerstand gegen Hauptstück II.
+
+die bekehrende Gnade aufgiebt und unterläßt.
+
+Dieses nicht mehr Entgegenwirken ist in ihrem ersten Momente der eigene Beitrag des Menschen zu seiner Bekehrung; ohne diese negative That des Menschen selbst kann sie nicht wahrhaft`. und wirklich beginnen. Jes. 55, 7. Ephef. 5, 14.
+
+##### §. 465.
+
+Dieses nun, daß wie in diesem ersten Momente, so auch in allen folgenden, die Bekehrung die einfache, unge, theilte Thätigkeit des göttlichen und menſchlichen Geiſtes iſt, kann als das eigentlich und eigenthümlich Christliche aller Bekehrung betrachtet werden, ist die Nachahmung Chriſti darin, in welcher der göttliche und menschliche Geiſt absolut eins ist.
+
+Es ist der Geiſt Jesu Chriſti, in welchem der Unterschied des Menschlichen und Göttlichen auf eine ewige
+
+Weise aufgehoben ist, der auch in der Zeit nur darauf ausgeht, diesen Unterschied aufzuheben.
+
+1. Cor. 6, 17.
+
+Schon die Sprache ist hierin der reine Wiederschein der Idee und Wahrheit an sich, indem sie durch den Ausdruck: Bekehrung ebenso sehr die Thätigkeit Gottes, als des Menschen, oder die Bekehrung ebenso sehr als Gottes Macht, wie als des Menschen Zustand bezeichnet.
+
+Der Mensch also wird bekehrt, indem er sich bekehren läßt; der Mensch bekehrt sich selbst, indem er durch Gott bekehrt wird. Bekehrung ist ebenso sehr göttlich, als menschlich. Joel 2, 13. Apoftg. 3, 19.
+
+14, 15.
+
+Phil. 2, 13.
+
+1, 6.
+
+2. Cor. 3, 5.
+
+Joh. 3, 6.
+
+##### §. 466.
+
+Als Geist aber sich wendend nur an den Geiſt ist die Wirksamkeit Gottes zunächst die auf Sinn und Gefühl, und hat dieses wohl in der Bekehrung auf Seiten des Menschen die Priorität, indem sie in ihm das Gefühl afficirt, und Bewegung des Lebens ist, so ist sie doch an sich und® von £ 2
+
+[p. 292] Seiten Gottes reingeistige Bewegung des menschlichen Geistes und deren erſte noch unvollständige Erscheinung nur das Gefühl. Es ist daher für nichts als Schwärmerei zu achten, wenn in der Wirklichkeit der Bekehrung oder in ihr, als der concreten, welche als solche gerade die Aufhebung des Unterschiedes ist, der göttliche und menschliche Antheil noch unterſchieden, und jeder für sich gewußt, oder gar gefühlt werden soll: denn ist der Unterschied der nur gefühlte, so ist er entweder noch gar kein Unterschied, oder nicht mehr in der Indiscretion des Gefühls, in welchem nichts abge: Ist aber die Bekehrung in der Discretion sondert existirt.
+
+des menschlichen und göttlichen Geistes, so ist sie nur die abstracte, die gedachte und nur geträumte, nicht wirkliche, welches sie eben nur in der Concretion oder Einheit des Göttlichen und Menschlichen ist.
+
+##### §. 467.
+
+Nicht also als ein unmittelbares und so nur Gefühl ist die Bekehrung in ihrer Wirklichkeit und Vollständigkeit, sondern nur durch Vermittelung, und hiedurch sich anschlie Bend an die unumgänglichen Formen der Persönlichkeit. So lange daher der menschliche Geist, wie in der ersten Kindheit, nur Gefühl, und er selbst noch darin verborgen und unentwickelt ist, kann der göttliche Geist nichts aus ihm Sein Seyn an ſich oder Geiſtseyn an sich in der Einheit mit dem menschlichen an sichB im Gefühl, ist wohl die Möglichkeit der Bekehrung, aber nicht derselben Wirk machen.
+
+lichkeit.
+
+Dieses ist sie erst, indem das den Geist in sich verschließende Gefühl sich aufschließt zu Verstand und Willen, und der Geiſt ſich durch diese fortbewegt. Diese Bewegung, und dadurch erst reine und würdige Bestimmung des innersten Lebens und Gefühls ist der Gang, den seiner Natur nach der göttliche Geist nimmt in der Bekehrung des Mehschen. Denn nur in der Einheit des Denkens und Wollens [p. 293] der göttliche Geist, an und für sich durch keine Sinnlichkeit oder Dunkelheit bedingt, tritt er nur ein in diese, das Denken und Wollen des Menschen bestimmend. Dieſes iſt alſo das Ansichſeyn der Bekehrung, ihr Wesen und Begriff, welcher zunächst zu betrachten ist.
+
+##### §. 468.
+
+Dem gemäß enthält die christliche Religion zunächst die Lehre von Gott, als dem, der die Wahrheit selbst und indem er ebenso sehr die Liebe, zugleich die Offenbarung und Mittheilung der Wahrheit ist.
+
+Als das Licht wird er vorgestellt, und so auch der Sohn sowohl an sich, als in seiner Menschheit, als das Licht, welches in die Welt ges kommen, beider Liebe aber in Gott sowohl, als in der Welt ist der Geist und er in seinem Mittheilen des Lichts, welches er selber ist, in der Welt ein beständiges Leuchten, sie aber ohne ihn das Finstre, und sein Leuchten als VertreiAbsolut bung der Finsterniß ein Erleuchten derselben. dunkel und also der Erleuchtung nicht fähig könnte in dem menschlichen Geiste der göttliche gar nicht seyn und wirken, und die Erleuchtung schließt sich demnach mittelst des Innewerdens derselben, nicht nur an die Fähigkeit, sondern auch an die Bedürftigkeit an.
+
+Jene ist begriffen in der göttlichen Berufung des Menschen. An sich im innern Verhältniß zu ihm kann die göttliche Wahrheit auch für ihn seyn, und nur sofern er hat, wird ihm gegeben.
+
+Matth. 13, 12.
+
+Das göttliche Licht in ſich aufnehmend„wird er selber Licht und als solches auch in der heiligen Schrift vorgestellt. Das an sich Wahre wird dieses dem menschlichen Geiste nur durch das Denken und Wiſſen.
+
+In und bei dem Lichte, welches der göttliche Geist in ihm angezündet, kann er auch alle göttliche Dinge wohl erkennen; nur der unbekehrte Mensch oder Theolog weiß nichts von Gott.
+
+Die Befeh rung hat nicht nur die Wahrheit, welche als solche göttlich [p. 294] ist, sondern auch das Verstehen und Erkennen derselben, welches die menschliche Thätigkeit ist, zu ihrem ersten, wesentlichen Bestandtheil: in ihr wird das Wirken des göttlichen Geistes, welches die Erleuchtung ist, zum dadurch bewirkten Zustande des Menschen. ,
+
+##### §. 469.
+
+Die christliche Religion enthält andrerseits die Lehre, daß, wie Gott die Heiligkeit selbst, so auch der Mensch, der als Sohn Gottes von Gott nicht verschieden ist, der Heilige, der Geist von Vater und Sohn, aber der heilige Geist sey.
+
+Diese seine Heiligkeit verbreitend ist er der Hei ligende und die Heiligung selbst.
+
+Mittelst des Innewerdens derselben ist aber auch diese unendliche Wirksamkeit des göttlichen Geistes die Bewegung in ſein Anderes und die Heiligung hiemit auch Zustand des Menschen, worin er zu nehmen und abnehmen kann.
+
+An ſich und seinem Wesen, d. i. seiner Bestimmung nach nicht nur ein vernünftiges, sondern auch freies Wesen, kann der Mensch es werden mittelst der Heiligung durch Gott. der Lichtfunken der Wahrheit,
+
+Wie kraft jener Berufung so ist auch der Keim des Guten in dem Geiste des Menschen verborgen, wird dort erweckt durch die Erleuchtung, so hier durch die Heiligung. Das An-sich-Heilige ist es wirklich erst, indem es ſo ſich wirksam erweiſet im Wollen und Thun des Menschen und so desselben Tugend und Sittlichkeit ist.
+
+Jenes Innewerden des heiligen und heiligenden Geistes ist wesentlich das Wifsen des Heiligen als Gesetz, das Gewißwerden des an sich Gewiſſen; in diesem Gewiſſen offenbaret sich Gott_als Geist, und als der Geheiligste erst des Gewissens gewiß geworden, ist der Mensch auch der Gewissenhafte.
+
+§. 470. In dieser Bewegung Gottes als Geist nicht nur einerseits die Erleuchtung und Heiligung an sich oder in Gott, [p. 295] ſondern auch in dem Menschen sind sie als bewirkendes Prinzip und bewirkter Zustand noch im Unterschiede gegen einander.
+
+Nicht weniger ist der Unterschied zwischen der Erleuchtung und Heiligung selbst noch wie in Gott, ſo in dem Menschen vorhanden.
+
+Es kommt hinzu, daß die Religion den Menschen von Natur als den weder das göttlich Wahre erkennenden, noch das göttlich Gute liebenden be trachtet und er, nach ihr, durch beides der verlorne und unselige, in beiden aber auch der göttlichen Erleuchtung und Heiligung fähig und bedürftig ist.
+
+Gleichwie nun aber in
+
+Gott, als Intelligenz oder Geist, die Erleuchtung und Heiligung eins und aufgehoben, und er ebendarin dem Menschen von Natur gegenüber, der Geist der Gnade ist, daß er der ihn erleuchtende und heiligende ist, so ist auch der Mensch in beiden des Geistes der Gnade theilhaftig, und der geistige oder geistliche Mensch (лveνμaτixos) geworden, und sind auch in ihm die beiden Zustände der Erleuchtung Als diese und Heiligung eins in der Begnadigung. also erst ist die Bekehrung an sich vollendet.
+
+471.
+
+Ihrem wesentlichen Inhalte nach ist die Begnadigung Vergebung der Sünde und Erneuerung, in beiden die Wiedergeburt.
+
+Die Vergebung der Sünde ist ihrem Begriff nach Aufhebung der Strafe, in welcher leßtern die Sünde und Schuld aufgehoben war.
+
+Die Vergebung setzt also die in der Sünde und Schuld bereits vorhandene und erlittene Strafe voraus; aber wie die Strafe an sich als Aufhebung der Sündenschuld Wiederherstellung der ursprünglichen Sündhaftigkeit oder des Zustandes nur vor der Sünde ist, so ist die Aufhebung dieser Wiederherstellung Befreiung von der Sünde selbst, deren Herrschaft und Macht, die Erhebung des Guten zur Herrschaft und die restitutio in integrum.
+
+Dieses also, die Begnadigung ist aller göttlichen [p. 296] Strafen Ziel, und nnr zu diesem Zweck wird sie über jede Sünde verhängt.
+
+Die göttliche Gerechtigkeit, welche sich selbst genug thut im Verhängen der Strafen über die Sünde, ist somit nichts weniger als Rache, welche nur Schmerzen beabsichtigt in der Strafe, sondern sie ist die reine göttliche Güte selbst.
+
+Diese aber in der Begnadigung ist auch nicht die weichliche und willkührliche Vergebung ohne
+
+Genugthuung und Gerechtigkeit, sondern sie führet nothwendig durch das Läuterungsfeuer der Reue und Buße, und könnte ohne dieses auch nicht Begnadigung seyn.
+
+##### §. 472.
+
+Mittelst der Vergebung ist die Begnadigung dann zugleich Stiftung eines neuen Lebens.
+
+Dieses kann nur beginnen, nachdem das alte Leben der Sünde in der Strafe gebüßt und in der Aufhebung der Strafe erloschen, alſo die Vergebung der Sünde vorher gegangen ist. Das neue Leben ist nicht mehr das natürliche, sondern geistliche, nicht mehr das Leben im Fleisch, sondern im Geist.
+
+Als diese
+
+Aufhebung des menschlichen Geistes in dem göttlichen begriffen ist sie Nachahmung Christi, wie die Wirkung seines Geistes. Sich, der die Einheit Gottes mit dem Menschen ist, theilet Jesus Christus kraft ſeines Geistes dem Menschen darin mit: er ist so sehr aller Bekehrung Ziel, als Grund. In ihm allein ist die Aufhebung des menschlichen Geistes in dem göttlichen keine Vereinigung, welche die Nichteinheit vorausseßt, sondern die Einheit selbst. Nur er, der Erstgeborene und Eingeborene ist nicht der Wiedergeborene. Aber ebenso wenig wäre ohne die Einheit an sich die Vereinigung möglich.
+
+In allen andern Menschen ist die Bekehrung ein in der Zeit Beginnendes, mit der Zeit Fortschreitendes und ebendarum nie Vollendetes. In allen Menschen läßt sie die Erinnerung an das vorhergegangene unbekehrte Leben zu rück, wie auch einen, nie in sich selbst aufgehenden Rest der [p. 297] Selbstheit, als bleibenden Stachel der Unruhe und als Zeugen der stets noch gehemmten und des Fortschrittes bedürftigen Union, welches zugleich die Möglichkeit des Rückfalls in die Sünde ist. Aber dennoch ist nichts Verdammliches mehr in den wahrhaft Bekehrten: denn nicht das Endlichſeyn war das zu tilgende, ſondern nur das Sich-Verendlichen, dieſes, daß das Endliche nicht wollte in allen Bewegungen Werkzeug der Manifeſtation des Unendlichen seyn.
+
+##### §. 473.
+
+Was so sich rein im Verhältniß des Geistes zum Geiſte dem Wesen. nach vollbringt und der Begriff der Bekehrung felber ist, das stellt sich als solches dann auch in der Erscheinung dar, ſub- und objectiv, und auf dieſe andere Seite des Wesens oder Begriffs der Bekehrung, welche nicht in sich, sondern nur als Erscheinung des Wesens Wahrheit hat, von der daher auch in der Wiſſenſchaft nicht auszugehen, sondern auf die nur überzugehen ist, ist jetzt allein noch zu reflectiren.
+
+Diese Erscheinung der Bekehrung als Wiedergeburt ist ihre Zuständlichkeit, ihr wirkliches, geschichtliches Daseyn, welches, als solches, wohl in der Natur, als menſchlicher, nicht aber als Natur selbst sich zeigt, vielmehr als Negation des natürlichen Daseyns und Lebens sich allein in der Welt des Geistes vollbringt. Aber als jenes Negative des Natürlichen hat das geistlich wiedergeborne Leben in seiner Geschichte oder Erscheinung dieses Natürliche noch an ihm, und als solches die Bestimmtheit des Gefühls.
+
+Hier aber in der Wiedergeburt hat jenes natürliche Leben zugleich ſeine ursprüngliche Bedeutung verloren, und ist das in ſich unbestimmte Gefühl ein durch den Geist bestimmtes, und hiedurch zu seiner Wahrheit verklärt. 1. Joh. 3, 9. Es ist das Gefühl des Wahren ,. welches den lebendigen Uebergang in sich hat in das Wifsen; es ist das Gefühl des Guten, welches als sittliches
+
+[p. 298] Gefühl sich bestimmt.
+
+Es ist die Frömmigkeit, in welcher beides in seinem Fürſichſeyn aufgehoben und eins iſt. Durch das Wahre und Heilige also erst werden alle in sich natürlichen und unbeſtimmten Gefühle des Menschen zu wahren und heiligen Gefühlen.
+
+##### §. 474.
+
+Es ist demnach die göttliche Wahrheit selbst, welche, an sich von Gott selbst nicht verſchieden, in der Bekehrung als Wiedergeburt an dem Gefühl des Wahren ihre Erscheinung hat, indem sie, kraft der von ihr ausgehenden Macht mittelst der Erkenntniß Gottes den Menschen zur Selbsterkenntniß bringt, zur Einsicht in seinen natürlichen Zustand, zu Reue und Leid über die Sünde, zur Anerkenntniß der Eitelkeit aller Dinge außer Gott und zur Reſignation auf Alles, was bisher Hemmung feines geistlichen Lebens war. Sein Bewußtseyn hat nun erst an der Religion, als der göttlichen Wahrheit, den wahren Inhalt, ist somit selbst wesenhaft göttliches Bewußtseyn geworden.
+
+Hier ist das
+
+Gefühl wohl nicht ohne alle finnliche Beimischung, welches es, als Gefühl, nicht seyn kann, aber es selbst ist in dieser ſeiner Wahrheit nicht hervorgegangen aus der Sinnlichkeit oder Gemüthsbewegung, sondern aus dem Denken an Gott, es ist Andacht, das Gemüth hat seine Bewegung aus dem Gedanken, und dieses zeigt sich besonders darin, daß es nun auch nicht mehr sich auf sich als Gefühl beschränken kann, ſondern die Sehnsucht nach dem Wiſſen, den Wiſſenstrieb, in ſich hat. Als göttliche Erweckung beginnend im dunklen Gefühl hat die Wiedergeburt in ihr selbst diese nothwendige Bewegung; ihre Unwahrheit und Unlauterkeit hingegen zeigt sich in der Scheu vor dem Licht, in der Flucht vor der klaren Erkenntniß, in der Liebe des Dunklen und Mystischen. Sein Geistesleben führt der Wiedergeborne nicht mehr ausſchließlich in der Natur, noch im Bewußtseyn seiner selbst;
+
+[p. 299] es ist ein Leben in Gott, als der Wahrheit, ein Leben im Glauben. Col. 2, 12. 2. Cor. 5, 7. Hebr. 11, 1.
+
+##### §. 475.
+
+Als Bekehrung hat die Wiedergeburt nur ihren Anfang genommen, sofern sie die erste oder einzelne göttlich-menschliche That ist: sie ist als solche die Umkehr vom Wege des ſittlichen Verderbens; aber nicht auch wahrhaft angefangen hat sie, ohne in dieser Bewegung fortzuschreiten, und ist als solche die Besserung, in welcher die Bekehrung sich we fentlich fortsett, gleichwie auch andrerseits ohne Bekehrung keine Besserung möglich ist.
+
+Die Anerkennung des Heiligen ist in der Bekehrung und deren Zuständlichkeit das Gefühl des Guten oder sittliches Gefühl, welches als Gesinnung der Hintergrund ist, oder das Innere des Aeußern, welches das Thun, welche beide, die sittliche Gesinnung und That durch die Entschließung zusammengeschlossen werden.
+
+der sittlichen That erst hat die ſittliche Gesinnung und Abficht ihre Wirklichkeit, und diese ist an sich gegen jene das Abstracte und Unwirkliche; in der sittlichen Gesinnung und Absicht hat die That ihre Wahrheit und Göttlichkeit: beide sind Offenbarungen des absolut Guten, welches ebendarin erscheint und sich verwirklicht. Die objective Erscheinung des Guten ist das Sittengeſetz, die ſubjective, die Liebe, welche des Gesetzes Erfüllung ist.
+
+§.
+
+Rom. 13, 10.
+
+476.
+
+Das wiedergeborne Leben ist demnach ein Leben im Glauben und in der Liebe, und in der Einheit dieser beiden Zustände die Frömmigkeit oder ſubjective Religion.
+
+Frömmigkeit ist an und für sich nichts von dem Glauben und der Liebe verschiedenes, sondern ebenso sehr das eine und andere.
+
+Als Glaube hat die Frömmigkeit eine innere und nothwendige Beziehung auf das Wiſſen, und dieses ist [p. 300] selbst schon darin wenigstens als Mangel, als Bedürfniß und Sehnsucht. Als die Liebe hat die Frömmigkeit eine noth 'wendige Beziehung, auf das Thun, ſie ist kein rein leidender Zuſtand, ſondern in der Paſſivität activ, in der Activität nicht ohne Paſſivität. Als die Religion des einzelnen Subjects oder als die ſubjective ist sie der Form nach objectiv in der öffentlichen Religion, in der kirchlichen Gemeinschaft, ihrem Inhalte nach in ihr objectiv in der Lehre, im Lehrbegriff und in der Wissenschaft. §.
+
+477.
+
+Aus dieser innern Einheit und Aufhebung des Glaubens und der Liebe in der Frömmigkeit, bestimmt sich endlich auch die christliche Lehre von der Rechtfertigung des Menschen vor Gott.
+
+In ihr nämlich wird gefragt:
+
+was denn des Menschen Rechtfertigung sey vor Gott, ob der Glaube oder die Werke, und in welcher Ordnung das ihm von Gott in Jefu Christo bestimmte Heil von ihm selbst erworben oder zu seinem wirklichen Zustand werde. Nöm. 3, 22, 28. 4,3. 5, 1. Ephef. 2, 9. Gal. 2, 20. Ròm. 4, 5. 2. Cor. 5, 21 Die Frage selbst liegt noch im Gebiet der bloßen Vorstellung und Abstraction; es wird bei dem Glauben von den Werken, bei den Werken vom Glauben abstrahirt, jedes von beiden in dem Gegensatz zu dem andern gehalten; darin aber haben beide, Glauben und Werke, weder Wahrheit, noch Wirklichkeit; sondern so in der gegenseitigen Negation, welches die Unterſcheidung ist, hat jedes vielmehr das andere, als sein anderes an ihm und zeigt sich wohl, daß die Frage nicht auf dem Gebiet der abstracten Vorstellung, sondern nur in dem concreten Begriff ihre richtige Antwort und Entscheidung hat.
+
+§. 478. Wird nämlich die Rechtfertigung einerseits, nach dem Lehrbegriff der evangelischen Kirche, nur als Gerechtspre [p. 301] chung oder Vergebung der Sünden und Nichtzurechnung der Schuld gedacht, so kann es auch nur der Glaube seyn, der, indem er sich in die Einheit seht mit seinem Gegenstande, den an sich göttlichen Act in einem menschlichen Zustand verwandelt und somit selbst der allein rechtfertigende ist (fides sola justificans).
+
+Wird hingegen die Rechtfertigung andrerseits, nach der römisch-katholischen Lehre, schon als
+
+Gerechtmachung selbst, als Einflößung der Liebe gedacht, so sind es freilich die Werke der Liebe, in deren Daseyn selbst sich die göttliche Rechtfertigung manifestirt, und ohne welche die Rechtfertigung selbst nicht zu denken ist.
+
+In der gegenſeitigen Negation nun dieser beiderseitigen Vorstellungen ist der Widerspruch in der Lehre von der Rechtfertigung an sich ebenso sehr vorhanden, überhaupt in der Lehre vom Verhältniß des Glaubens und der guten Werke zu ihr und zu einander, oder in der Lehre von ihnen als rechtfertigend. §.
+
+479.
+
+Der Begriff der Rechtfertigung aber bestimmt sich in dem Geiste der christlichen Religion selbst als die Einheit der Vergebung der Sünden und der Einflößung der Liebe; er kann die Negativität und Unterscheidung beider nicht als eine Trennung in Gott selber setzen. In ihm ist beides vielmehr die eine und selbige Thätigkeit und Gott somit selbst als der an sich Heilige und seine Heiligkeit auch verbreitende Geist die Einheit beider. Aber diese Einheit in Gott kommt nun auch in dem Gerechtfertigten zur Erscheinung.
+
+Wie der Geist nicht die Sünden vergiebt, ohne daß damit zugleich die Liebe ausgegoffen ist in unser Herz durch den Geist, der uns gegeben ist, so wird auch im evangelischen Lehrbegriff der allein rechtfertigende Glaube nicht als einſam oder als ein solcher gedacht, der nicht zugleich die Lust und Liebe zu allen guten Werken wesentlich an ihm selbst hätte.
+
+Und wie er andrerseits der Seele nicht diese Lust [p. 302] und Liebe einflößen kann, ohne sie selbst erst zu reinigen von allen bösen Werken und dem Bewußtseyn der Sünden oder der Schuld, also sie durch den Glauben erst überhaupt in ein Verhältniß zu sich gesetzt und sie zur Anerkennung der göttlichen Gnade darin gebracht haben, welches der Glaube selber ist und allein durch ihn geschieht, so muß in der ròmisch-katholischen Lehre von den Werken als rechtfertigend dieses Verhältniß des menschlichen Geistes zu dem göttlichen Kann also der Mensch wenigstens vorausgesetzt werden. wohl sich in solchen Werken gefallen, welche nicht aus dem Glauben und dem innern Grundverhältniß der Seele zu Gott hervorgegangen, welche nur seine Werke und von Werth nur im Verhältniß zu andern Menschen, aber ohne allen vor Gott sind oder er einen solchen Glauben bekennen, der nicht als der wirkliche und wirksame in guten
+
+Werken sich erweiset, und hiemit der falsche und nichtige ist, so ist er doch in dem einen und andern Fall nicht der von Gott Gerechtfertigte, der, als Geist, zugleich das Prinzip des Glaubens und der Liebe in ungetrennter Einheit iſt.
+
+Drittes Hauptstück.
+
+##### §. 480.
+
+In der Lehre von der Berufung, obgleich sie nur an den Menschen ergeht, ist vorzugsweise die Gnade Gottes erkannt worden, der, als Geist, in Christo Jesu alle Menschen zur Seligkeit bestimmt hat. Bekehrung,
+
+In der Lehre von der obgleich sie allein von dem Geist der Gnade ausgeht, ist die eigene Thätigkeit des Menschen in Betracht gekommen, und das durch den göttlichen Geiſt in ihm bewirkte Wirken erkannt worden. jene Gnade,
+
+Ein ganz unwirkliches wäre wenn sie nicht eben an diese Thätigkeit sich
+
+`wendete, sie selbst erzeugte und in Bewegung setzte, sich, selbst darin nicht verwirklichte; und eine ganz unwahre und gehaltlose Thätigkeit wäre diese menschliche, wenn sie nicht an der göttlichen Gnade ihr Prinzip, und ihre beständige Bewegung hätte.
+
+Joh. 15, 5.
+
+Rom. 3, 24.
+
+In dieser Negativität zeigen sich beide, die göttliche und die menschliche Thätig.
+
+keit zugleich sich wesentlich immanent, und ist die eine nicht ohne die andere; indem aber jedes von beiden das andere ſelbſt an ihm hat, sind sie an sich in der Einheit.
+
+##### §. 481.
+
+Daß diese an sich seyende Einheit werde, das ist es, worauf es mit aller Berufung, Bekehrung und Besserung abgesehen ist. Aber nicht so an sich eins könnten sie es auch nimmermehr werden.
+
+Denn daß die göttliche Gnade an sich nicht leer und fruchtlos sey, ist schon durch den Be griff des Geistes ausgesagt, welcher als solcher Leben, Kraft, Bewegung und Thätigkeit ist. 2. Cor. 3, 17. Sie wäre dieses aber auch nicht, wenn in der moralischen Welt kein wirklicher Zustand dem göttlichen Gnadenruf entſpräche, und diese nicht selbst sich zu demjenigen machte, was sie an sich
+
+An sich aber ist die Einheit der göttlichen Gnade und menschlichen Thätigkeit, und ist Verhältniß nur in der gegenseitigen Negation und dem Auseinandertreten beider, somit in der Aufhebung der Einheit an sich; aber dieses ist nicht ein innerliches Sichtrennen und Loslassen, sondern nur ein Werden des Geistes zu demjenigen, was er an sich ist, ein Hervorgehen wiederum aus dem Verhältniß in die Einheit und ein Aufheben von jenem in dieser, und so die Rückkehr in die vermittelte, wahrhaft concrete Einheit. Diese Einheit der göttlichen und menschlichen Thätigkeit ist die [p. 304] Freiheit, in Gott die freie Gnade, in dem Menschen die freie Thätigkeit.
+
+§. Für die
+
+482.
+
+dogmatische Bestimmung des Begriffs der
+
+Freiheit kommt zunächst einerseits jenes Ansichseyn oder die unmittelbare Einheit der göttlichen Gnade und menschlichen Thätigkeit und andrerseits dieses Fürsichseyn einer jeden von beiden oder der Unterschied in Erwägung. Die abstracte
+
+Lehre von jenem ist in der Spinozisch - pantheiſtiſchen, die abstracte Lehre von diesem in der Kantischrationalistischen Theorie enthalten; beide halten sich in der gegenseitigen Abstraction: die erste hat ihre ganze Wahrheit darin, daß sie das wesentliche Moment des substanziellen Seyns festhält und die göttliche Macht und menschliche Thätigkeit unge. trennt erhält, ja diese nur zu einem Modus von jener macht; die andere aber hat ihre ganze Wahrheit darin, daß sie das ebenso wesentliche Moment des Unterschiedes des göttlichen und menschlichen Thuns behauptet und lehrt, die göttliche Gnade und die menschliche Thätigkeit seyen gar sehr verschieden.
+
+##### §. 483.
+
+Hiemit sind sie beide im innern Widerspruch. Dort ist das Werden mit dem Seyn, die natura naturata mit der natura naturans gleich ewig und unendlich.
+
+Im Spinozismus, indem er die menschliche Thätigkeit zu einem Modus des Einen und Allen, welches die göttliche Substantz ist, macht, iſt jener Modus als Erscheinung nur das Endliche und Nichtige an und für sich; die Substanz selbst bleibt von ihr unberührt Gleichwie das und verhält sich ganz gleichgültig dagegen.
+
+einzelne Materielle und Körperliche in Beziehung auf die Ausdehnung, als Attribut der göttlichen Substanz, ſo iſt auch jeder einzelne Gedanke und jedes einzelne Ich in Beziehung [p. 305] ziehung auf das Denken, als Attribut der Subſtanz, etwas rein Zufälliges und in sich selbst Bestandloses und Nichtiges. Denn nicht von sich aus geht die geistloſe Subſtanz; sie kommt nicht zur Offenbarung ihrer selbst;
+
+nicht Geist, nicht Leben und Thätigkeit ist sie, sie weiß nichts von sich selbst, sondern alles in ihr ist noch unmittelbar eins, und sie selbst das Eine in Allem, und Alles in Einem.
+
+Hiemit ist in Wahrheit das menschlich-göttliche Thun, wie das menschlich-göttliche Denken vernichtet, menschliches das Nichtige selber ist.
+
+indem beides als
+
+Denn die nicht selbst denkende und wollende Substanz ist hiemit ebenso sehr die vernunftlose, als unfreie; sie ist die herbe, fatalistische Nothwendigkeit, und weil in diesem Gott weder Gnade, noch Freiheit, so ist auch Freiheit so wenig als Gnade in der sittlichen Kreatur, sondern ihre Thaten fallen in die Natur herab, sie sind Begebenheiten.
+
+##### §. 484.
+
+Wenn die Spinozische Lehre sich abſtract und unmittelbar an jene Einheit der Gnade und Freiheit hält in Gott, in der sie in der That nicht für sich sind, nicht zu sich selbst kommen können und so gut, wie geläugnet sind, weil sie noch in gar keinen Unterschied eingehen, worin allein der Begriff der einen und andern erst werden oder sie begriffen werden könnten, so wird dagegen in der Kantiſchen Philosophie die Freiheit in einem solchen Unterschiede von der Gnade gehalten, daß der Unterschied zur Verschiedenheit wird, und eine gegen die andere ganz gleichgültig, die Freiheit die abfolute Selbständigkeit selber, ja von aller göttlichen Gnade frei und los, und diese selbst so gut, wie gar nicht anerkannt ist.
+
+Die Freiheit ist da eine solche Autonomie, in der sich der Mensch an Gottes Stelle feßt, von welcher aus er wenigstens selbst erst auf den Gedanken an einen Gott kommt, dessen Daseyn nur eine in ihr begründete Fordeu [p. 306] rung und moraliſche Hypothese ist. Die Freiheit ist da woh eine nothwendige Idee, die aber nur nothwendig gedacht wird, deren Realität aber dahin gestellet ist, d. h. nicht ges wußt werden kann. Somit hat diese sogenannte Idee der Freiheit das Bewußtseyn ihrer Unwahrheit selbst an ihr, welches das Wissen des Mangels an allem Wiſſen derselben ist, und so fällt nun die sogenannte Freiheit, alles göttlichen Prinzips ermangelnd, in ſich ſelbſt herunter zur leeren Willkühr oder zum bloßen Vermögen der Wahl zwiſchen gut und bôs.
+
+##### §. 485.
+
+In der christlichen Kirche hat dieser Gegensatz ſich zwar nicht so wie hier, nämlich einerseits als absolute Beschloffenheit auf das Ansich und andrerseits auf das Fürsich gezeigt, welches beides zugleich die völlige Zerstörung des Begriffes der Freiheit und Gnade ist: wohl aber als Mangelhaftigkeit und Einseitigkeit in der Bestimmung des wahren Verhältnisses, d. i. des Unterſchiedes und der Einheit beider zu einander. Es kann nämlich übersehen werden, daß es das substanzielle Ansichseyn der Einheit von Gnade und Freiheit ist, welches das lebendige Prinzip alles Fürſichſeyns derselben ist, und sodann gesagt werden einerseits, ganz ohne sein Zuthun und ohne alle eigene Mitwirkung des Menschen mache die Gnade aus ihm nur, was sie wolle und nicht, " was er wolle, und andrerseits, was der Mensch thue und vollbringe im Guten, wie im Bösen, sey rein allein sein eigen Werk, die Freiheit sey das Vermögen, sich selbst zu bestimmen, die Gnade nur das Geschenk dieses Vermögens.
+
+Jene Lehre wird gewöhnlich dem Augustinus, diese dem Pelagius und Côlestius zugeschrieben.
+
+##### §. 486.
+
+Der Mangel dieser beiderseitigen Lehre ist die abstracte Verstandesbestimmung des Unterschiedes, als eine [p. 307] ganz endliche hier an das unendliche Verhältniß der Gnade und Freiheit gesetzt ist, in der That aber nicht daran reicht, ſondern derselben unangemeſſen bleibt. Diese Verstandesoperation ist eine ganz mechanische, und macht ebenso auch einerseits das menschliche Thun, andrerseits das göttliche zu etwas ganz mechaniſchen; sie reicht in beiden Bewegungen nicht an den Geist, der über allen Organismus, und noch mehr, über allen Mechanismus unendlich hinaus ist.
+
+Dort in der Augustinischen Lehre ist der Mensch die Maschine, das Gefäß, welches ganz leidend mit sich machen laſſen muß, was die Kraft außer ihr aus ihr machen will; sie ist die reine Receptivität, welche der einwirkenden Kraft nicht einmal Widerstand leisten kann, welches doch dem Begriff des Leidens selbst widerspricht, welches ohne solchen Widerſtand die Vernichtung selber wäre.
+
+Die Receptivität oder
+
+Empfänglichkeit, als solche, ist vielmehr zugleich eine Thätigkeit und das Empfangen der Gnade ebenso sehr auch ein 1 Nehmen und Aufnehmen, als es das Geben vorausseßt. Nicht anders also hat, nach der Lehre der Schrift, jemand gefunden, als so, daß er gesucht hat, nicht anders ist ihm gegeben, als so, daß er darum gebeten, nicht anders ist ihm aufgethan, als so, daß er angeklopft hat. Diese Spontaneität fällt demnach noch mit in jene Receptivität selbst, und abſolut ohne jene ist diese selbst vernichtet. Ist der Mensch im Empfangen der Gnade der allerdings leidend sich verhaltende, so ist er doch zugleich activ, indem er sie vernimmt, annimmt und sie zu einem Bestandtheil seines Selbstbewußtseyns macht.
+
+Ohne das Ansichseyn der Einheit der Gnade und Freiheit könnten sie auch gar nicht so, wie jene Lehre will, äußerlich oder innerlich zuſammenkommen.
+
+Dieses ist das darin völlig übersehene, und es hat daher diese Lehre das Dogma von der Erbsünde in ſolcher Art zur Voraussetzung, daß sie nicht etwa nur ein inneres Mißverhältniß der menschlichen Natur zu Gott, ſondern gar •12 [p. 308] kein Verhältniß derselben zu Gott aussagt, welches doch, nicht an sich seyend, nimmermehr werden und also auch zu keinem Fürſichſeyn der Gnade und Freiheit, welches zugleich ihr Für einander seyn ist, werden könnte.
+
+§. 487. Es wird aber doch selbst in dieser Lehre, wenigstens nachdem durch die Gnade ein Verhältniß gestiftet worden, nicht nur die Fähigkeit, sondern auch das Bedürfniß der Gnade in den Menschen gesetzt, ja selbst die Möglichkeit und Wirklichkeit des Werdens der Einheit von Gnade und Freiheit zugegeben, welches das Theilhaftigwerden der Gnade im Menschen ist.
+
+Wäre das Selbstbewußtseyn nicht durch sich selbst getrieben, in ein Verhältniß zu göttlicher Gnade zu kommen, so könnte ihm auch die zuvorkommendste Gnade nichts seyn; vielmehr ist diese Bewegung die allgemeine der Gnade selbst, und eben hiedurch Stiftung der Freiheit selbst, welche in der Sehnsucht nach dem an und für sich Freien oder in der Sehnsucht nach Gott beginnt. In dieser Sehnsucht nach dem an und für sich Freien oder Göttlichen ist das Ansich selber zum Fürsich geworden, und somit die eigene That des Menschen, wie das Prinzip derselben, göttMittelst der Receptivität in ihrer innern Einheit mit lich.
+
+der Spontaneität rückt die menschliche Thätigkeit, als unbestimmtes Wollen, in die göttliche Gnade ein, und wird hiedurch das bestimmte, Wollen des Guten, oder die Freiheit. Die wahrhaft freie That zeigt die Gegenwart des Befreiers.
+
+##### §. 488.
+
+daß das Verhältniß des Menschen zu Gott und Gottes zu dem Menschen an sich ist, welches Dieses also, nicht das Werk des Menschen, sondern Gottes iſt, iſt die reine, freie Gnade; Ephes. 2, 5., dieses hingegen daß das Ansich auch zum Fürsich wird, welches das Werden des [p. 309] Menschen ist für Gott durch Gott, ist der Ursprung der Freiheit aus göttlicher Gnade. Es zieht also die an sich freie Gnade Gottes sich in alle wahre Freiheit des Menſchen wesentlich hinein: denn ſie zieht die menschliche Thẳtigkeit in sich hinein und macht sie ebendadurch zur freien Die höchste Gnade Gottes ist, daß er die Thätigkeit. fittliche Kreatur frei aus sich entläßt, und sie auch nun in sich selbst frei läßt oder gewähren läßt. Die Befreiung von Allem außer Gott ist der Freiheit Stiftung im Men, schen, die Freilassung beständige Fortdauer dieser Gnade. Im Augustinischen System hingegen hat die göttliche Gnade die menschliche Freiheit ganz außer sich, läßt diese nicht werden und zu sich selbst kommen.
+
+Dieses, daß die Gnade nothwendig, d. i. an ſich ſchon Prinzip der Freiheit, und diese dadurch zum Fürsich, geworden, oder die Gnade selbst schon der göttliche Wille ist, daß der menschliche Wille sey, ist das in dieser Lehre gänzlich verkannte.
+
+§. Dieser Ursprung
+
+489.
+
+menschlicher Freiheit aus göttlicher
+
+Gnade und das Fürsichfeyn beider ist dagegen im Pelagianis schen System wohl anerkannt, aber die ganze Lehre von der Freiheit und Gnade beschränkt sich darauf; in der weitern Bewegung der Freiheit aus der Gnade lassen sie beide sich innerlich los; das innere, und wesentliche Verhältniß beider zu einander verſchwindet; die Gnade ist und bleibt ein Jenseitiges, Aeußerliches, die Freiheit ein Dieſſeitiges, Abſolutſelb, ſtändiges, nur jenes ihres Ursprungs wegen göttlich genannt, an und für sich lediglich menschlich. Und dieses ist das Mechanische im Pelagianismus, Gott ist gedacht, wie ein Künstler, der, nachdem er sein Werk produzirt und mit den nöthigen Qualitäten versehen hat, sich von demselben zurückzieht, und es nun ganz sich selbst überläßt.
+
+Die Freiheit ist da eine Kette von Gliedern, deren erstes nur an einer wesentlich [p. 310] andern Causalität, der Gnade, befestiget ist, diese aber, in allen Gliedern wirkend, wird als Hemmung der felben gedacht.
+
+Die Freiheit ist da nur so,
+
+Gnade absolut außer sich hat.
+
+daß sie die
+
+Ist daher`in dem erſtern
+
+System der Begriff der Freiheit seiner Form nach verletzt, indem es vor der Alles in Allem seyenden Gnade nicht recht dazu kommen kann, so fehlt dem Begriff hier noch dazu der Inhalt des wahrhaft und wesenhaft Guten, welches das Göttliche ist; dieses, durch die freie Thätigkeit des Menschen hervorgebracht, ist nur so menschlich, daß es aufhört, göttlich zu seyn.
+
+Diese Freiheit ist die eitle Freiheit, weil sie die Eitelkeit selbst zu ihrem Inhalte hat, und wird, da in ihr das sie Begründende als das sie Hemmende betrachtet ist, hiedurch zur Opposition und Revolution. 2. Petri 2, 19Gal. 5, 13. Daher der gerechte Vorwurf gegen diese Lehre, daß, nach ihr, die Freiheit selbst mit allem, was sie produzirt, keinen Werth habe vor Gott: denn ihm gefallen kann in dem Menschen nur, was von ihm ist, und daß eben nur dieses und nichts anderes der Mensch durch seine Freiheit zu seinem Eigenen macht.
+
+##### §. 490.
+
+In jenen entgegengesetzten Richtungen sich bewegend zeigt sich an der Vorstellung von der Freiheit ein innerer Widerspruch, nämlich, daß das Wahre und Gute nicht Gottes, sondern des Menschen Werk, und daß es nicht sein, ſondern allein Gottes Werk sey. Der Widerspruch ist auch nicht etwa nur der abstracte, gedachte, sondern er ist die eigene, innere Bewegung der Wahrheit selbst nach der einen oder anderen Seite.
+
+Er bestimmt sich auf der einen als die Lehre von einer unbedingten Gnadenwahl, welche nicht zugleich die bedingte ist, auf der andern als die reine Negation und die Bedingung derselben.
+
+Aber ebenso sehr und gewiß enthält der Widerspruch in sich selbst die Bewegung, [p. 311] über sich hinauszukommen, und ebenso gewiß ist die christliche Lehre an sich nicht in dieſem Widerspruch, und deshalb auch keine Nothwendigkeit vorhanden, nur auf die eine oder andere Seite zu treten oder in dem Widerspruch zu verharren.
+
+Höher und allgemeiner genommen, ist es der Widerspruch zwischen Gott und dem Menschen, und deshalb des rühret der Streit überall die innersten Fundamente des christlichen Glaubens und Lebens; wenn aber irgendwo, so muß in der christlichen Religion, in welcher Gott selbst Mensch geworden, nicht nur der Widerspruch nicht enthalten, - ſondern vielmehr auch die Auflösung deffelben zu finden seyn.
+
+##### §. 491.
+
+Diese aber ist allein darin zu finden, daß es das innere und wesentliche Ansichſeyn der Einheit Gottes und des Menschen oder der Gnade und Freiheit ist, welches zunächſt_in dem Fürsichseyn beider aufgehoben, aber nur so in seiner Wahrheit aufgehoben ist, daß die an sich feyende Einheit in dem Fürsichseyn beider nicht aufgelöset oder vernichtet ist, sondern sich durch den Unterschied selbst hindurch bewegt, und sich auch in diesem erhält und behauptet, welche Er, haltung und Behauptung erst die Wirklichkeit der Freiheit und Gnade ist gegen jenes erste, unmittelbare Ansichſeyn, worin die Wahrheit der Idee noch nicht ihre Wirklichkeit erreicht hatte.
+
+Substanziell eins wie im Gefühl, gehen sie einander auf in der Vorstellung und treten darin auseinander und sich einander gegenüber, und können erst in dieſem Unterschiede als wesentlich eins begriffen werden.
+
+Aus jener ersten Mitte oder Unmittelbarkeit, welches die Unſchuld ist, sich herausbewegend, kommt die Freiheit erst zu sich selbst, setzet den Unterschied zwischen Gutem und Bösem, und kann in dieser ihrer Form einerseits sich darauf beschränken, bloß Willkühr und Wahlvermögen seyn, sich in die Gleichgültigkeit des Guten und Bösen stellen, wie zur Oppoſition [p. 312] gegen das Gute und zur Wahl des Bösen werden: hierin hat sie dann wohl Wirklichkeit, aber keine Wahrheit. Aber ebenso sehr kann ſie andrerseits in ihrer Form an dem Göttlichguten, wodurch sie geworden, ihren wesentlichen Inhalt behalten und zur wahren Freiheit werden, welches ihre beständige Einheit mit der göttlichen Gnade selbst in dem Unterschiede beider von einander ist.
+
+##### §. 492.
+
+Dieſe Bewegung der Freiheit aus ihrer unmittelbaren Einheit mit der Gnade in den Unterschied, worin die Unschuld verloren geht, aber wiedergewonnen durch das gegenſeitige vermittelnde Thun der Gnade und Freiheit erst zur Wahrheit und Wirklichkeit gelangt, ist die Bewegung der Idee in die Reflexion, und so das Werden erst des Begriffes selbst und die allgemeine Geschichte des Selbstbewußtſeyns.
+
+Die unmittelbare, an sich seyende Einheit des Menschen mit Gott, welches die Einheit der Gnade und Freiheit ist, als göttliche Berufung und Bestimmung des Menschen, ist aufgehoben durch das Werden des menschlichen Geistes für sich und sein Leben in ſich und in der Welt.
+
+An ſich für Gott seyend und für sein Reich geboren seyend, wird er nun auch für sich und das Reich dieser Welt. Wie sie ihn in sich aufnimmt, so nimmt er sie auch in sich auf. In dieser seiner Erscheinung hat der Geist natürliches Daseyn und Leben. Das Leben des Geistes aber ist nicht, wie das thierische, nur Leben als Daseyn, sondern vielmehr als Des wußtseyn: in ihm ist die natürliche Begierde Willen geworden, das unbestimmte, leere Wollen, welches sich an der Natur und Geschichte seinen ganzen Inhalt giebt.
+
+sein Leben mit Bewußtseyn in der Welt ist als Leben zugleich ein Thun, ein Wirken, und wie bedingt durch die Welt und von ihr bewegt, so auch sie in sich und sich in ihr bewes
+
+[p. 313] Die Einheit des Lebens und Bewußtseyns ist die Freiheit im Werden des Geistes für sich.
+
+gende Thätigkeit.
+
+##### §. 493.
+
+In der Freiheit erst hat der Geist sich selbst erreicht und sein wahrgewordenes oder wahrhaftiges Leben, welches es nicht blos an sich ist, sondern erst für sich oder als Des wußtseyn; in der Freiheit erst hat sich das menſchliche Les den aus dem thierischen völlig herausgearbeitet. Sie also ist nicht das Seyn bloß als lebendiges oder wirkendes an sich, noch auch nur das Wissen davon oder bewußtes Seyn, Seyn für sich, sondern das Leben und Wirken an und für sich, als dieses aber Selbstbestimmung, Thun aus sich und durch sich, nicht mehr ein nur Bestimmtes und Bestimmt werdendes, wie das Lebendige, aber Bewußtlose, sondern das sich selbst Bestimmen.
+
+Woraus diese Freiheit aber allein sich erbaut und wodurch sie ebenso sehr bedingt ist, ist einerseits das Daseyn und Leben, andrerseits das Ich und Bewußtseyn: die Natur und Geschichte ist das Element, worin ſie allein sich bewegt; sie selbst sind Erscheinungen und Wirkungen des Geistes; in der Natur, als der Erscheinung des Geistes, ist er noch der unter der Nothwendigkeit stehende und gefeſſelte, in der Geschichte, als der That und Wirkung des Geistes, ist er der Freie und Selbſtändige: in diesem Verhältniß weisen Nothwendigkeit und Freiheit wie auf einander, so auch auf ihn, als derselben Einheit hin.
+
+##### §. 494.
+
+Die Identität des ſubjectiven Geistes und der Freiheit, kraft deren wir sagen: nur als der Freie ist der Geist und außer seiner Freiheit ist er selber nicht, ist die persönliche Freiheit. Sie ist sich objectiv in dem Volk, in der bürgerlichen Gesellschaft als bürgerliche Freiheit, welche als die [p. 314] des Staats die politische ist.
+
+Der Volksgeist ist der einzelne Geist in der Bestimmung der Besonderheit, und je nachdem das Natürlichgegenwärtige in der Sprache, Vers faſſung und Sitte, und das geſchichtliche Leben in der Vergangenheit reicher und ausgebildeter ist, desto freier ist ein Volk, desto bestimmter und gesicherter seine Freiheit.
+
+Unbe
+
+ſchränkter zwar als die persönliche ist die bürgerliche Freiheit doch noch auf Ein Volk beschränkt: das Volksthümliche ist das noch beschränkte.
+
+Auf den natürlichen Grund und Boden, wie auf seine bestimmte Zeit und Volksge, schichte ist der Geist da noch eingeengt, und diese Schranken durchbricht der Volksgeist, über sich selbst hinausgehend als der allgemeine Geist, als der Geist der Menschheit; in der weltbürgerlichen Freiheit, welche die Freiheit aller Völker ist, ist er sich erst selbst genug. Der freie Geist der Menschheit eignet sich nicht bloß Einem Menschen oder Volke, sondern Allen;
+
+in ihm sind alle persönlichen und volksthümlichen, wie alle klimatischen und historischen Unterschiede aufgehoben.
+
+##### §. 495.
+
+In diesem Werden des Geistes für sich zeigt sich das Leben des Geistes, wie als Wissen, so auch als Thun des Menschen als sein eigenes, das Wahre und Gute, auf wel ´ches er sich denkend und wollend bezieht, als sein eigenes Werk, und so ist die Freiheit allerdings auch nun für sich oder für ihn geworden, ihr Begriff der Form nach vorhanden.
+
+Aber in dieser ganzen Bewegung und Ausbildung ist ihr Inhalt der noch endliche nur, der bedingte, das Wahre und Gute selbst, das nur relativ-wahre und gute: ihre Form ist das Ich, und in diesem ausschließlichen Festhalten am Ich geht der im Endlichen unendliche Geist nicht über sich selbst hinaus; er bezieht sich nur auf sich selbst, sowohl in sich, als in seines Gleichen.
+
+Wie groß auch die ſubjective [p. 315] und objective Kraft und Freiheit des Geistes sey, er selbst ist darin noch der natürliche und fleischlich gesinnte, ſein Wollen und Thun, wie das, worauf es geht, das Eitle und Diese Freiheit ist nichts als der Eigenfinn und Eigenwille, der sich auch wohl objectivirt als Gemeinwille, oder als Weltall. Sie ist der Egoismus, dem die Freiheit
+
+Nichtige.
+
+selbst nicht an und für sich, sondern nur um seinetwillen das Höchste ist.
+
+Der menschliche Geist ist darin allerdings für sich geworden, aber dem göttlichen gegenüber und ſein Gewordenſeyn oder seine Wirklichkeit, wie ſeine Wirksamkeit und Freiheit ermangelt ebendamit zugleich noch der Wahrheit. Joh. 8, 36. 2. Cor. 3, 4. Phil. 2, 13. Ephef. 1. 5. §.
+
+496.
+
+Könnte der freigewordene Geist nun in dieser Verschiedenheit
+
+Geschiedenheit von Gott oder dem
+
+Wahren und Guten, absolut welches das Göttliche ist, beharren, ſo wäre allerdings der aufgezeigte Widerspruch in ſofern gehoben, als der Geist sich in seinem Werden für sich ges nügte, von seinem Werden für Gott aber ganz abftrahirte, ja die Nothwendigkeit desselben selbst negirte. Dies ist die schlechte Auflösung des Widerspruchs, wie sie im Pelas gianismus und Kantianismus vorkommt. Seine Freiheit hätte sodann zunächst die Bedeutung, Freiheit und Unabhängigkeit von Gott zu seyn, und des Menschen eigner Wille wäre sein Himmelreich.
+
+Allein so bliebe er auch dabei nicht stehen, sondern es wäre die Negation selbst zugleich Oppoſition und es zeigt sich somit, daß jene Negation, wie eine Lehre der Art, selbst nur aus dem Bösen ist. Jene Negation ist in dem Menschen keinesweges gleichgültige Verſchiedenheit des Menschen von Gott, sondern das positive Widerstreben des Menschen gegen Gott. Deßwegen eben läßt die Religion keinen geboren werden in der christlichen Kirche, ohne daß er durch sie wiedergeboren werde.
+
+Denn auch in Gott
+
+[p. 316] Zweiter Abschnitt.
+
+ist das Verhältniß an sich nicht die gleichgültige Verschiedenheit Gottes und des Menschen oder der Gnade und Freiheit, nicht in der Art negativ, daß sie an sich und abſolut oder wahrhaft außer einander wären, die göttliche Gnade für sich, die menschliche Freiheit für sich; sondern ihr Werden für sich, da es aus der Einheit an sich hervorgeht, ist wesentlich nur ein Werden für einander; wie also die Gnade ihre Wirklichkeit und Wirksamkeit nur in der Einheit mit der menschlichen Freiheit hat, so hat diese in ihr erst ihre Der Unterschied hat an der Einheit, die Form des Fürsichseyns hat an dem Ansichſeyn erst ihren wahren Inhalt, und in diesem An- und Für - Sich. hat die Freiheit ihren wahren Begriff; als solcher aber ist sie die moralische Freiheit.
+
+##### §. 497.
+
+Wird nun auch die sittliche Freiheit andrerseits wieder nur als die an sich leere, widerspenstige Form gefaßt, als der natürliche Wille, der nur auf sein Fürſichſeyn ausgeht, so müßte man allerdings sagen, er vermöge nichts Gutes durch sich zu wollen und zu vollbringen, alles Gute im Menschen fey lediglich Gottes Werk, und so wäre in umgekehrter Weise der Widerspruch aufgehoben, wie im Auguſtinismus geschehen. Auch hier ist das Verhältniß der Gnade und Freiheit als die gleichgültige Verschiedenheit gedacht und das Ansichseyn der Einheit von Gnade und Freiheit, welches in dem Fürsichſeyn beider aufgehoben, durch die Vermittelung des Begriffes, welches ihr gegenseitiges Thun und Ineinanderseyn ist, nicht wieder hergestellt, sondern der Unterschied als unbeweglich fixirt. terschiede für sich seyend,
+
+In solchem fixirten Ungehen Gnade und Freiheit auf gleiche Weise an einander zu Grunde; das aber, worin ſie' zu Grund gehen, ist die Einheit, aus der sie zu ihrem Fürsichseyn hervorgegangen sind, und diese ist der Geist, in welchem [p. 317] Gnade und Freiheit eins, beide in ihrem Fürſichſeyn aufgehoben sind.
+
+##### §. 498.
+
+In diesem Geiste ist nicht die Gnade ein solches Thun, daß es ein nur göttliches wäre, noch die Freiheit ein solches Thun, daß es ein nur menschliches wäre: so wäre es dort nur ein abstractes, nicht wesentlich wirksames, hier ein endliches und beschränktes, wahrhaft Gute und Göttliche.
+
+ohne alle Beziehung auf das Es ist vielmehr dieser Geist der göttlich-menschliche, in welchem die Differenz des Göttlichen und Menschlichen aufgehoben ist, der Geist Jesu Christi. In ihm und der Berufung zu ihm ist also der Widerspruch vollkommen gelöst.
+
+Was Gott in seiner Gnade von Ewigkeit her beschlossen, das hat er nicht nur in seiner göttlichen, ſondern auch in seiner menschlichen Natur beſchloffen und ausgeführt, und dieses also ist der Begriff der Vorstellung, daß in Christo die Menscheit erwählet sey von Gott zur Seligkeit.
+
+Denn wie in Christo Jesu der Wille Gottes, des Vaters, zugleich der Wille des menschgewordenen Sohnes, so sind auch Alle berufen, den göttlichen Willen zu ihrem menschlichen Willen zu machen, d. h. das, was an sich ist und in Jesu Christo am vollkommensten offenbar, zum Fürſich zu machen, oder ihm nachzuahmen.
+
+##### §. 499.
+
+In der christlichen Religion, welche die Vereinigung des Menschen mit Gott ist auf dem Grunde der Einheit Gottes und des Menschen in der Person Jesu Christi, er kennt der Mensch, daß nicht er, sondern Gott der absolut freie und selbständige, die Wahrheit und Güte selbst und alles Wahre und Gute, wie alles Wissen und Thun von Beiden, auch in dem Menschen wesentlich göttlich sey.
+
+ſittliche Freiheit ist nicht nur das Bewußtseyn des menschlichen [p. 318] Geistes von sich, sondern zugleich das Bewußtseyn von dem göttlichen Geiste, es ist als menſchliches zugleich göttliches Bewußtseyn, Bewußtseyn Gottes in dem Men, schen, die menschliche Freiheit somit in der Religion an und für sich göttlich; die Freiheit der Kinder Gottes.
+
+Sie hat nicht das Ich, nicht die Welt, sondern Gott zu ihrem Prin, zip, nicht die Natur, sondern den Geist zu ihrem Ausgangspunct, nicht das Jrdische, Zeitliche und Vergängliche an sich, sondern das Göttliche zu ihrem Inhalt.
+
+In und mit ſei, nem Werden für sich wird der Mensch für Gott, indem er ihn als die Wahrheit der Natur und Geschichte erkennt, und ſein Leben in beiden ein wahrhaft göttliches wird.
+
+dieses Verhältniß zu Gott hat nicht der Mensch sich, sondern Gott ihn gesetzt und und er erhält ihn auch darin; dies ist sein Bedürfniß der göttlichen Gnade zu allem wahren Guten.
+
+Nicht also auch ` zu etwas wesentlich anderm, zu dem allein eigenen geht der Mensch in der Verwirklichung des göttlichen Gnadengeſchenks der Freiheit über, wie wenn die Gnade in dem Geschenk der Freiheit selbst eine Hemmung wäre, sondern die Erhaltung des Freigeworde`nen ist wesentlich das sich Erhalten der Gnade in der Freiheit, das sich Fortseßen in allen Bewegungen von dieſer. Die Gnade des göttlichen Geistes, menschlichen in allen wahren wie die Würde des und guten Bewegungen des letztern ist ebendieſe, daß Gott ihn theilnehmen läßt an seiner Freiheit, ihn derselben theilhaftig macht: dies iſt die unendliche und beständige Herablaſſung Gottes, wie die Erhebung des Menschen über sich selbst, daß, so wie der menſchliche Geiſt in dem göttlichen aufgehoben ist, dieſer ſich in ihm ſeßt und so der menschliche durch den göttlichen alles Wahren und Guten, wie bedürftig und fähig, so auch theilhaftig, und also das Gute gleichſehr Gottes Werk ist und des Menschen. 2. Cor. 12, 9. Rom. 4, 16.
+
+8, 14. Diese christlich-moralische Freiheit ist die wesentliche Wahrheit und [p. 319] das Gehaltvolle aller persönlichen, politiſchen und kosmopolitischen.
+
+Ohne dieses Verhältniß, worin der menschliche
+
+Geist an sich zu dem göttlichen, seine Freiheit zur Gnade steht, würde das Verhältniß, worin er nur zu sich, zu ſeinem Volk, zur Welt und Menschheit steht, ein ganz leeres, gehaltloses und nichtiges seyn, und nur, daß die Gnade und ſittliche Freiheit sich in allen jenen Beziehungen verwirkliche, ist sein Bedürfniß und Streben. sich also ist die persönliche,
+
+Phil. 4, 13.
+
+Nicht an politiſche und kosmopolitische
+
+Freiheit das Höchſte, sondern sie sind es nur um Gottes und der Sittlichkeit willen.
+
+In der Religion erst zeigt sich die Freiheit in ihrer Göttlichkeit.
+
+##### §. 500.
+
+Das Medium aber oder die unendliche Vermittelung der Einheit des menschlichen und göttlichen Geistes,
+
+Freiheit und Gnade, iſt einerseits oder ſubjectiv das Wollen des Menschen, welches mit seinem Denken identisch, andrerseits oder objectiv die Erziehung und Unterweiſung in der Religion, die ihn in sich und die er in ſich aufnimmt, in beiden Beziehungen also die göttliche Wirksamkeit des menschlichen Geistes, wie die menschliche Wirksamkeit des göttlichen Geistes nichts Miraculoſes oder Geheimnißvolles.
+
+Erkenntniß der Einheit dieser zwiefachen Thätigkeit und hiemit die Erkenntniß des göttlichen Geistes als des concreten ist die Lehre vom Reiche Gottes.
+
+[p. 320] Vóm
+
+Reiche
+
+##### §. 501.
+
+Das Reich Gottes oder das Himmelreich ist nicht ein abstractes, sondern in der Menschheit concretes und als solches das Reich Jesu Chriſti.
+
+Er ist der Stifter und Erhalter desselben auf Erden.
+
+Es ist das Reich feines Geistes, das Reich der Gnade, im Unterschiede vom Reich der Natur oder dem Reich dieser Welt. Die durch ihn Erleuchteten, Geheiligten und Begnadigten stellen seine Gemeinde dar, und der Begriff ihrer Stiftung ist zunächst zu beſtimmen.
+
+Sie ist dieses aber nur in der beständigen Vermittelung oder mittelst der Gnadenmittel, kraft deren die Gemeinde sich auch beständig erhält. Der Zweck ihrer Stiftung und Erhaltung aber ist die ewige Seligkeit.
+
+ist daher in ihrem Anfang, Mittel und Ende, welches ihr Endzweck und als solcher wieder der Anfang ist, zu betrachten.
+
+§.
+
+Gemeinde.
+
+502.
+
+Der menschliche Geiſt als Bewußtseyn, welches aus der Natur herkommt, ist das einzelne Ich, der subjective Geist.
+
+Er ist durch Leib und Seele bestimmt individuell, das Individuum, ' welches als fubjectives Bewußtseyn dafselbe auch außer sich findet.
+
+Individuell von dem andern
+
+Bewußtseyn getrennt, ist es mit dieſem dennoch identisch.
+
+[p. 321] Hauptstück 1.
+
+Das Bewußtseyn an ſich ist in Wahrheit kein anderes, ob es ein Ich oder Du ist. In der Mannigfaltigkeit die Identität behauptend ist es erst die Möglichkeit der vernünftigen Mittheilung und Verständigung, in der Wirklichkeit der vernünftige Geist.
+
+Er ist das Ich, welches Wir ist, das Wir,
+
+Es hat an ihm selbst die Begriffsbestimmungen der Einzelheit, Vielheit und Allheit. Sich der Idenwelches Ich ist.
+
+tität widerſeßend, ist das Ich das egoistische, die Identität in dem Unterschiede anerkennend ist der Geist Liebe. So zeigt sich der menschliche Geist zuerst in seiner Identität in der Familie; als der Familiengeist erbaut er sich zuerst seine sittliche Welt. §.
+
+503.
+
+Als Familiengeist vermittelt der Geist sich durch das andere Bewußtseyn mittelst der Natur selbst und behauptet sich in dem individuellen Unterschiede identisch. Das Wir des Familiengeistes ist der unmittelbarste Ausdruck einer Liebe, welche zwar die an sich geistige, aber zugleich natürliche ist, sofern sie von Fleisch und Blut herkommt. In dies fer substanziellen Unmittelbarkeit ist sie zugleich inneres, gegenseitiges Finden oder Empfinden.
+
+In der Familie existirt wohl jedes Glied nur als einzelnes, aber als Glied einem Ganzen angehörend und von demselben Geiste durchlebt. In dieser Einzelheit hat das Ich in der Familie schon die Bestimmung des Beſondern und Allgemeinen, die es erreicht in der Auflösung und dem Uebergang derselben in das Gemeinwesen oder Volk.
+
+##### §. 504.
+
+Für das Volk sind die Familien die Elemente, aus de nen es sich beständig regenerirt.
+
+In ihm ist sich der subjective Geist objectiv als des Volksgeist; nur in der Einheit mit seinem Volk hat der Einzelne wahrhaftiges Leben * [p. 322] und Wirklichkeit.
+
+Im Unterschiede von Regierung und Volk oder im Staat gliedert sich der Geist zu verschiedenen Ständen und wird darin der Standesgeist, in welchem als sol chem die Einzelnen aufgehen. Das äußere Band aller Familien, Stände, Corporationen u. f. w. in einem Volk ist die Sprache, und sie der reinste Spiegel des Volksgeiſtes, gleichsam die organische Seite desselben.
+
+Das Wir des Regenten ist der unmittelbare Ausdruck des Nationalgeiſtes.
+
+aber zugleich die einzelnen Völker sich gegenseitig anerkennen, ist der Geist nicht mehr beschränkt auf Ein Volk, ſondern der Geist aller Völker, als solcher aber der Geist der Menschheit.
+
+##### §. 505.
+
+In dem Begriff der Menschheit hat sich der Geist als allgemeines Ich erreicht, als welches er schon in seiner Unmittelbarkeit und Natürlichkeit begann: denn in seiner cons cret-ſinnlichen Erscheinung schon hat der Geist die Möglichkeit der Menschheit 1; er hat auch da schon die Bestimmtheit der Allgemeinheit und Unendlichkeit.
+
+Verwirklicht aber hat sich der subjective Geist, indem er in den Völkern alle Familien, so in der Menschheit alle Völker aufgehoben und géeiniget hat.
+
+Völker, Familien und Individuen können vergehen, in ihnen allen aber erhält sich die Menschheit in der Welt. Auf diese seine formal - menschliche Erscheinung und seinen unendlich endlichen Inhalt ſich beschränkend, hat er wohl seine Wirklichkeit und Geschichte, aber keine
+
+Vielmehr auf sich, als den Geist der Menschheit sich beschränkend so, daß er zugleich ſich negativ verhält gegen den absoluten Geist, ist er zugleich diesem sich entgegensetzend, und als solcher der Weltgeist im Sinne der Schrift, der profane und unheilige Geiſt. 1. Cor. 2, 12.
+
+1. Joh. 4, 1.
+
+##### §. 506.
+
+In der Vorstellung nun steht diesem Reich der Welt gegenüber das Reich Gottes. 1. Joh. 2, 17. Luc. 10, 9. 11. Aber es ist in Wahrheit ein inneres und immanentes Verhältniß, welches die beiden Reiche zu einander haben, und darin stehen sie zugleich in wesentlicher Beziehung auf eine ander.
+
+Die Welt ist ursprünglich aus Gottes Allmacht her vorgegangen und er ist beständig in ihr kraft seines Geistes. So sind sie keinesweges außer einander; aber das Reich der Welt vom Reich Gottes verschieden ist diesem untergeordnet, und dieses somit das Ziel von jenem, wie es selbst nur in der Welt sich verwirklicht. Es ist daher nicht genug, daß der Mensch geboren, er muß auch wiedergeboren werden, nicht genug, daß er Daseyn, Leben, Bewußte seyn hat, sondern er hat dies alles nur um des Reiches Gottes willen.
+
+Er wird dem Reich der Welt eingeboren, um zum Reich Gottes zu gelangen.
+
+##### §. 507.
+
+Die äußerlichste Vorstellung von diesem, in seiner concreten Einheit mit der Welt, ist die von einer Gesellschaft.
+
+In der Gesellschaft gehen die Einzelnen aus dem isolirten Leben heraus, folgen dem natürlichen Triebe der Geselligkeit und schließen sich an einander an.
+
+Die Gesellschaft ist die bloß äußerliche Vereinigung, in welcher selbst die Einzelnen dennoch für sich bleiben, und sie hat in allen Gestalten die Bestimmung der Zufälligkeit. Als Gesellschaft nur seiner Bekenner gedacht hätte das Reich Gottes gar keine Nothwendigkeit, und diese Vorstellung von demselben als einer Gesellschaft, die entstehen kann und auch nicht, wie ein Institut, wie eine Wittwen-Kaffe und dergleichen, hat in Beziehung auf die Kirche gar keine Wahrheit.
+
+Prinzip der Gesellschaft ist der abstracte Verstand. Schon die Familie ist darüber hinaus, nur eine Gesellschaft zu * 2 [p. 324] seyn; in ihr spiegelt sich besonders in der Ehe das geheimnißvolle Verhältniß Chriſti zu ſeiner Kirche nachbildlich ab. Ephes. 5, 32.; das Volk hingegen wird wohl auch als die bürgerliche Gesellschaft vorgestellt: aber als dieſe iſt es auch ein leeres Abstractum, ohne wahrhaftigen Zweck und Ins halt, die es nur hat im Staat.
+
+Der Staat Gottes aber bildet nicht sowohl eine Gesellschaft, als vielmehr eine Gemeinschaft.
+
+##### §. 508.
+
+In ihr sind die einzelnen Glieder nicht bloß äußerlich, sondern auch innerlich vereinigt. Die Gemeinschaft ist über den Mechanismus der Gesellschaft hinaus; sie ist ein Organisches, das sein gemeinsames Leben nur in allen einzelnen Gliedern, wie jedes einzelné Glied dasselbe nur in dem Ganzen hat.
+
+Das Prinzip der Gemeinschaft ist die Vernunft und ihre wesentliche Form ist die Liebe.
+
+In der Gemeinschaft ist die Nothwendigkeit einer Vernunftidee mit der Freiheit innerlich eins.
+
+Eine solche ist der Staat, die objective Sphäre des Rechts und der Gerechtigkeit.
+
+Der nas türlichen und geschichtlichen Basis nach ist die Macht und Hoheit des Staats, in dem Regenten erscheinend, eine weltliche und irdische:
+
+denn der Welt, der Erde gehört das
+
+Volk an mit seinen Bedürfniſſen, Gewerben, Künsten und Wissenschaften; der Staat hingegen, die Form des Volkes, in ihm das Recht und die Gerechtigkeit zur Herrschaft bringend und es darin allein erhaltend, hat seinen Ursprung aus der Vernunft, ist die Vernunft des Volkes.
+
+Deffelbigen Ursprungs nun ist auch die Kirche und darin eine Gemeinschaft, wie der Staat und mit ihm eins; aber sie geht zugleich über die Sphäre des Staats hinaus, oder vielmehr in ihr geht Volk und Staat, als lebendige Gemeinschaft, über sich selbst hinaus; sie ist darin vom Staat verschieden,
+
+[p. 325] Von der Gemeinde.
+
+daß sie nicht sowohl, wie er, eine Gemeinſchaft ist, als vielmehr die Gemeinde.
+
+##### §. 509.
+
+Sie ist die Beziehung aller Staaten auf den absoluten Geist, in der Einheit mit dem Menschen, den Geist Jesu Christi, und wie der einzelne Menſch nur in dieser Beziehung auf den absoluten Geist oder in der Nachfolge Jesu Christi zur wahren Menschheit (Humanität) gelangen kann, so sind auch Staaten nur in dem Maaß vollkommner, als sie christliche sind. Die christliche Gemeinde, nicht die Kirche Eines Volkes, sondern aller wahren Völker, steht aber in ihnen der Welt, der Geist dieser Gemeinde dem Geist der Welt gegenüber.
+
+Geworden ist dieses der Geist nur, indem er die ursprüngliche sittliche Welt, welche die Einheit mit Gott ist, zerstörte und aus der Einheit in die Entzweiung ging, um' aus der Entzweiung und Entfremdung in die Einheit zurückzukehren und diese in vollkommenerer Gestalt, denn zuvor, wiederherzustellen. Es hat der Geist sich mit sich selbst entzweit, aber darin zugleich die Bestimmung, die Entzweiung in der Einheit aufzuheben; diese Bestimmung ist ſeine Berufung durch Gott, das Bedürfniß der Versöhnung mit Gott, und ist das auch im Weltgeist gebliebene Göttliche, an welches der Geist Gottes in der Gemeinde allein anknüpfen kann. Das Göttliche in ihm ist selbst der Geist der Gemeinde und er in dieser der mit sich versöhnte und seiner selbst erst gewiſſe Geist, die Welt nicht Welt mehr, sondern die Gemeinde. Gal. 4, 6. Rom. 8, 16.
+
+##### §. 510.
+
+Als solche ist sie die Grundlage und der Anfang des Menschengeschlechts sowohl an sich, als in jeder Erneuerung oder Familie, in der die Gemeinde, keinen geboren werden läßt, ohne ihn zu ihrem Mitgliede zu machen. Die Menschheit [p. 326] ist nur so wahrhaft wirklich, daß sie die an und für sich christliche ist und in allen Ländern und Völkern der Erde zum Christenthum gelangen kann und soll, auch wo es noch nicht wirklich geschehen ist. Indem alle Menſchen die göttliche Bestimmung haben, Glieder der Gemeinde Jesu Christi zu werden, ist ihr der Gemeinde Angehören nur ein noch in allen verborgenes, welches nur in dem wirklichen Eintritt sich feierlich offenbar macht.
+
+Der Gemeinde, als christlicher an sich, so alt als die Welt, gehört die ganze Welt; sie ist an keine Zeit und keinen Naum gebunden; denn ihr Geist ist der ewige, der Geist Gottes selbst, der von Anbeginn in seiner Menschheit war und wirkte.
+
+##### §. 511.
+
+Als dieser Geist ist er aber am vollkommensten unter allen Menschen in dem Menschen Jesus Christus der Welt offenbar geworden, ' und er hiemit erst der Stifter der wahren Gemeinde. Durch diese Stiftung erst ist die Berufung aller zur Gemeinde Gottes anerkannt worden.
+
+Stifter der wahren Gemeinde ist Jeſus Chriſtus, indem durch ihn die ewige Idee derselben, als die Idee vom Reich Gottes auf Erden, offenbar wurde und hiemit zugleich die Gemeinde selbst einen solchen wirklichen Anfang nahm in der Zeit, daß sie von da an zum Leben und Zustand aller Menschen und Völker werden konnte. Denn dieses nur war sie bis dahin nicht gewesen; nur isolirt und zerstreut gehörten eins zelne unter den Heiden ihr an; in Israel hatte sie noch die Beschränktheit der Nationalität: befreit von allen Schranken der Sub- und Objectivität trat die Idee der Gemeinde Gottes zuerst in Jesu Christo hervor und hiemit nicht bloß ins Denken, sondern auch ins Leben und Thun der Welt und veränderte Alles in ihr von Grund aus: gegen diesen zweiten, wahren und vollkommenen Bund Gottes mit den [p. 327] Menschen, hatte der erste nun die Bedeutung des alten und vergangenen.
+
+Ephef. 1, 22.
+
+##### §. 512.
+
+Die Nothwendigkeit der wahren Religion ist auch die der Kirche, und jene hat die Bewegung zu dieser schon in ihr selbst.
+
+Die Religion als Bewußtseyn Gottes ist, wie Gott selbst, zunächst an sich zu betrachten.
+
+In diesem Ansich-ſeyn derselben ist alles einzelne, obgleich in ihr enthalten, doch noch in ihr verborgen; als die an sich seyende ist sie noch nicht die bestimmte und offenbare. in ihrem Fürsichfeyn.
+
+Dieses ist sie erst
+
+Indem sie für anderes und dieses andere für sie ist, ist sie selbst erst für sich. In dieser Liebe erst ist sie die göttliche Offenbarung, die Menschwerdung Gottes und die Versöhnung der Welt mit Gott; in dieser Liebe wird sie erst menschlich; ihren Inhalt sich aneignend macht der Mensch sie zu seiner eignen und ist sie die subs jective.
+
+Indem es aber wesentlich jenes An-sich der Religion ist, was zum Für-ſich geworden, ist sie die an und für sich seyende, als solche die wahrhaft concrete, objective und öffentliche, die Kirche. Sie ist die unmittelbare Gewißheit, daß Gott, obgleich an sich unerforschlich und unendlich erhaben über den Menschen, dennoch in seiner Menschheit, d. i. der Gottmensch und in und mit deſſen Geist ihr unmittelbar nahe und gegenwärtig sey.
+
+##### §. 513.
+
+Die Lehre von der Gemeinde Christi bewegt sich nun im Beſondern weiter durch die vom prophetiſchen und priesterlichen Amt, und hat an demjenigen, was er zur Belehrung und Versöhnung der Welt gethan, ihren wesentlichen Inhalt.
+
+Die Lehre vom königlichen Amt Chriſti aber ist die Lehre von der Gemeinde selbst, deren Haupt und Seele er ist.
+
+Er, in ihr kraft seines Geistes seyend und wirkend, [p. 328] ist, wie das Prinzip ihrer Erleuchtung, so auch ihrer Heiligung, wie ihres Glaubens, so auch ihrer Liebe: durch Glauben und Liebe aber mit ihm vereint sind sie auch unter einander eins.
+
+Er ist die alle einzelne Persönlichkeiten in ſich befassende grund- und ur - menschliche Persönlichkeit, welche in allen ein gemeinſames Leben führt, an welche sie alle ihr besonderes Leben verlieren und aufgeben, um es in ihm erst wahrhaft zu gewinnen und wiederzufinden. Col. 1, 18. Ephef. 5, 23.
+
+Matth. 10, 39.
+
+##### §. 514.
+
+Somit hat die Gemeinde Christi, ihrem Begriff nach, zwei Seiten, die göttliche und die menschliche, deren Einheit er selber ist, als ihr ewiges Oberhaupt, die aber in allen ihren Mitgliedern nur die Vereinigung ist. Obgleich an keiner Seite das Göttliche und Menschliche an ihr abſolut so ist doch zu unterscheiden, was sie durch Gott in dem Menschen und was sie durch den Mens außer einander ist, schen ist, sofern er in Gott ist.
+
+Jenes ist, was sie in ſich ist, ihre Stiftung, ihre unmittelbare Wahrheit und Göttlichkeit, ihr Geist und reiner Begriff, der auch alle wahrhaftige Wirklichkeit án ihm hat; dieses ist ihre menschliche Form und Erscheinung, in der sie in keinem Momente und zeitlichen Zustande ihren unendlichen Begriff völlig erreicht:
+
+die Einheit aber ihrer zeitlichen Form mit ihrem reinen Begriff ist ihre wahrhaftige Wirklichkeit, welche nicht ihre historische Erscheinung an sich, die erste, beste Aeußerlichkeit ihrer Darstellung, sondern ihre geschichtliche Uebereinstimmung ist mit dem Geist und Begriff.
+
+Sie ist daher zuerst in ihrer Unsichtbarkeit, sodann in ihre Sichtbarkeit und endlich in ihrer wahrhaftigen Wirklichkeit zu begreifen.
+
+##### §. 515.
+
+Kraft des unsichtbaren Geistes Jesu Chriſti, welchem die Gemeinde ihr Daseyn und Leben hat, ist ihr [p. 329] ebenso unsichtbares Leben im Glauben und in der Liebe, 1. das eine und selbige in allen, die ihm angehören und die Gemeinde Christi die eine und allgemeine, in sich ungetheilt und unabhängig von aller Aeußerlichkeit, fähig, ſich über alle Zeiten und Völker hin zu verbreiten.
+
+In allen hat er sich seine Gläubigen ausgesondert, welche selbst in Zeiten des tiefsten und herrschenden Verderbens ihre Kniee vor Baal nicht gebeuget.
+
+Ihm gehören selbst die an, die ihn noch nicht hören oder denen er noch nicht angehört: denn er ist die Versöhnung nicht Eines Menschen oder Volkes, sondern Aller mit Gott.
+
+So gewiß sie Alle an dem einen Gott den ewigen Vater, an dem einen Sohn den einigen Erretter, an dem einigen Geist des Vaters und Sohnes das Prinzip Eines Glaubens haben, ist die Gemeinde auch an sich die Eine und Allgemeine.
+
+§.
+
+Ephef. 5, 23.
+
+516.
+
+Kraft dieses seines unsichtbaren Lebens in ihr ist die Gemeinde: 2. die vollkommne und heilige. In seis nem heiligen Geiste hat sie ihren heiligen Anfang, wie ihr heiliges Ziel; durch diesen Geist werden nur, welche im wahren Glauben und in der wahren Liebe leben, für Glieder seiner Gemeinde erklärt: alle Andern sind nur scheinbare, todte Glieder der Kirche.
+
+Denn wahrhaft lebendig an einem Leibe ist das Glied nur, sofern es Theil hat an dem Kraft dieses belebenden und beseelenden Geiste desselben. in ihr herrschenden Geistes ist sie weder des Irrthums theilhaftig, noch der Verbesserung fähig, sondern nur durch sie und die ihr wahrhaft angehören, ist alle Befreiung vom Irrthum und von der Sünde. Dieser ihrer innern Heiligkeit wegen, welches das Leben Jesu Chriſti in ihr ist, kann sie nicht der Welt oder irgend einer Anstalt in ihr untergeordnet seyn, sondern ist selbständig in sich, wie durch sich, d. i, durch den Geist des Glaubens und der Liebe in ihr.
+
+[p. 330] Die Form der Nothwendigkeit aber, womit der Geist in seiner Gemeinde und ſie die Gemeinde im Geist und in der Wahrheit ist, ist die Freiheit des Geistes und der Gemeinde. Pf. 89, 6.
+
+149, 2.
+
+Ephes. 2, 27.
+
+##### §. 517.
+
+Durch den unsichtbaren Geist Jesu Christi, der in ihr waltet, ist sie endlich 3. die ewig siegende.
+
+Das Uns wahre und Falsche, so oft es sich auch in der Kirche erneuert, hat keinen Bestand in ihr und sie kann dadurch nicht überwältigt werden.
+
+Weil in ihr das Wahre und Gute, als das Göttliche, den Sieg an ihm selbst hat und be hält, so muß es denselben auch in der Zeit und unter allem Widerstande immer mehr gewinnen.
+
+Denn Gott ist der das Unwahre und Böse nicht bekämpfende oder besiegende, sondern der ewig über dasselbe siegende und in der Erhaltung der Kirche durch Christi Geist hat die Kirche auch diese Sicherheit.
+
+Matth. 16, 18.
+
+##### §. 518.
+
+Es ist nun aber dieselbige Gemeinde, welche durch den unsichtbaren Geist Jesu Chriſti die unsichtbare ist, auch die sichtbare, sofern sie unter Menschen erscheint, und die menschliche ist.
+
+Hier beginnet nun der Widerspruch im ab-
+
+ſtracten Verstande.
+
+Ihrer Erscheinung nach ist die Kirche nicht die eine und allgemeine, sondern 1. die mannigfal tige, in sich getheilte, in einzelne Confessionen und zahllose Secten zerfallen. Sie nimmt von der Seite der Welt her, in welcher sie ist und wirksam seyn will, einen individuellén und nationellen Character an, und Haß und Leidenschaft führet Spaltung und Trennung in ihr herbei. Allen Ungleichheiten der Welt preisgegeben läßt sie die verſchiedensten Gestalten in ſich zu und ist dazu selbst durch das Bedürfniß, durch Zeit und Umstände genöthigt. Auch ihre [p. 331] äußere Allgemeinheit in der Welt ist noch zur Zeit sehr beschränkt.
+
+Noch hat die christliche Kirche der Zahl nach erst den geringeren Theil der Erdbewohner für sich gewonnen.
+
+##### §. 519.
+
+In dieser ihrer menschlichen Erscheinung und sichtbaren Aeußerlichkeit ist die Gemeinde Christi auch 2. die un vollkommne und beschränkte. Wie der Einzelne nur langs ſam und mühsam in dieselbe einwächst und dem Jrrthum und Zweifel, der Ungerechtigkeit und Sünde ausgesetzt sich nur allmählich davon immer mehr reinigen kann, um immer mehr ein Mitglied der Gemeinde Gottes zu werden, so existirt die christliche Kirche auch öffentlich überall nur unter zeitlichen und drtlichen Bedingungen und Beschränkungen aller Art. In dieser äußern Gemeinschaft leben vermischt mit den Frommen und Gläubigen auch Gottlose und Heuchler. Alle aber haben den Glauben und die Liebe nur in irgend einem Maaß, keiner ist vollkommen, keiner Christo gleich, sondern jeder kann ihm nur mehr oder weniger ähnlich werden.
+
+##### §. 520.
+
+In der Welt erscheinend und wirksam ist die Gemeinde Christi 3. auch die streitende, die leidende und gedrückte. Das Leben im Glauben und in der Liebe hat seinen feinds lichen Gegensatz am Aberglauben und Unglauben, an der Bosheit und Lieblosigkeit. Der Streit der Kirche mit der Welt ist der der Wahrheit mit der Lüge, der Heiligkeit mit der Unheiligkeit und von dieser Seite können vorübergehend Verfolgungen und Plagen aller Art über die Kirche ko:nmen und sie in Betrübniß und Noth verseßen. Die Waffen aber der Kirche gegen ihre Widersacher sind allein die Lehren der Wahrheit und die Entwickelungen der Liebe selbst im Streit und Kampf.
+
+Durch Scheiterhaufen und Mord hat die
+
+[p. 332] ส い wahre Kirche noch nie die Wahrheit und Liebe vertheidigt, ebenso wenig kann es geschehen durch ſtarres Hinweiſen auf das Ueberlieferte, sey es das Mündliche oder Schriftliche, sondern allein durch das freie Denken und lebendige Wif ert tel sen, welches die Wiſſenſchaft ist, welche die Kirche daher unausbleiblich in ihre Dienste stellt, und in der jeder wahre Fortschritt zugleich ein nothwendiger Fortschritt der Kirche ſelber ist. Die Meinung hingegen, daß das Wiſſen der göttlichen Glaubenswahrheit dieser verderblich und schädlich sey, indem es ja nur ein Suchen und Machen des als noch nicht vorhanden vorausgefeßten Glaubens wäre, ist der allmähliche und gerechte Untergang der Kirche; in dieser Meis nung aber ist sie schon selbst nicht die wahre Kirche.
+
+##### §. 521.
+
+ใน Der Widerspruch ist also vorhanden, daß die unsichtbare Kirche der sichtbaren gegenüber steht. In dieser gleich
+
+ור gültigen Verschiedenheit wird der Gegensatz von dem abſtracten Verstande gehalten bei allen denen in der römiſchen und protestantischen Kirche, welche gerade in der Behauptung dieses Gegensatzes den Geist dieser beiden Kirchen finden, wonach also die römische für die sichtbare, die evangelische für die unsichtbare gehalten wird. Inzwischen wird doch auf beiden Seiten der Widerspruch so gestellt, daß jes der Gegensatz den andern an ihm hat, und also die eine Seite nur gegen die andere überwiegt. Obgleich daher nach den Grundsäßen auch der römischen Kirche der an sich unsichtbare Geist Jesu Christi Stifter und Erhalter der Kirche ist, so wird doch auf die Aeußerlichkeit der Kirche, ihre Erscheinung und Leiblichkeit das meiste Gewicht gelegt, ja ohne Bedenken der ganze unendliche Reichthum der Idee tel fon an diese Weise der Wirklichkeit übertragen und gar kein Unterschied mehr zwischen beiden ſtatuirt, beides meist mit einander verwechselt, die Verfassung der Kirche für die bat
+
+Kirche selbst erklärt.
+
+Aber auch die protestantische Kirche, obgleich für die unsichtbare gehalten, kann sich nicht deſſen erwehren, sich auch in der Welt auszubreiten und zu gestalten, und mehr oder weniger ihren Geist sowohl in ihrer iz! Form und Verfassung, als im Staat erscheinen zu lassen. In der That wäre die Kirche als nur die unsichtbare und göttliche nur die in ihrer Wahrheit gedachte, aber nicht auch wirklich gewordene und gestiftete, als nur die sichtbare und menschliche und erhaltene.
+
+die geistlose, nicht die göttlich gestiftete
+
+$.
+
+522.
+
+Hielte nun der Widerspruch Stand, so wäre die christliche Kirche mit sich selbst zerfallen und dieses ist sie allerdings in der Erscheinung, wahren Begriff.
+
+aber nicht an sich und in ihrem
+
+In und mit ihr ist dieser Widerspruch nicht gestiftet, vielmehr ist der göttliche Geist, in seiner Einવા heit mit dem menschlichen der christliche überall die Auflösung dieses Widerspruchs.
+
+Ephes. 4, 3. 5. Es ist nicht das
+
+Göttliche, welches trennt, sondern allein das Menschliche, welches in der Kirche das Sectirerische und Egoistische ist, und seinen Gegensatz selbst hervorruft und nothwendig macht. * Aber nicht gleichgültig auch ist die Art, wie der Widerspruch und Gegensatz aufgehoben wird, der an sich schon seine eigene Bewegung ist.
+
+In der römischen Kirche ge
+
+* schieht es auf eine ganz äußerliche, lediglich historische Weise \#und diese Auflösung ist die falsche.
+
+##### §. 523.
+
+Es kann vielmehr allein vom Begriff aus geschehen, welcher als solcher nicht etwa nur ein abstractes Denken, sondern ein solches ist, welches die Wahrheit und Wirklich keit an ihm hat.
+
+Die unsichtbare Kirche hat in der sichtbaren ihre Wirklichkeit, die sichtbare an der unsichtbaren ihre [p. 334] Die Einheit beider Seiten der christlichen Kirche ist ihre wirkliche Wahrheit oder ihre wahrhaftige Wirklichkeit. Es ist demnach die unsichtbare, welche sich auch sichtbar gemacht hat zu allen Zeiten, indem die eine und allgemeine nicht eine abstracte, todte Einheit ist, sondern die mannigfaltigste Form und Individualiſation nicht verſchmäht, die an sich vollkommene und heilige auch die untergeordneten Anfänge und Stufen im Glauben und in der Liebe in sich zuläßt, nicht die Anders- und Bessergesinnten verdammt und der ewigen Seligkeit beraubt, die an sich ewig siegende aber alle Streiter für Licht und Wahrheit, für das Gute und Rechte von sich ausgesendet hat.
+
+In solcher Weise hat die christliche Kirche sich verwirklicht ebenso gut in der evan geliſchen, als römischen Kirche und sonstigen Secten, und es ist nichts, als Partheihaß und Sectengeist, dies zu ver kennen oder den heiligen Geist und die christliche Wahrheit ausschließlich an die Mauern einer alten Stadt binden zu wollen.
+
+##### §. 524.
+
+Denn indem nun zugleich die christliche Kirche in ihrer Erscheinung und Sichtbarkeit ihre Wahrheit an der unſichtbaren hat, ist sie nicht auf jene rohe und unwahre Wirklichkeit angewiefen oder beschränkt, in der gar kein Unterschied zwischen Wahrem und Falschem ist: denn auch dieses, an sich das Nichtige, hat in der Welt eine falsche und unwirkliche Wirklichkeit.
+
+Das einzig wahrhaftige Oberhaupt der christlichen Kirche ist das unsichtbare, ist Jesus Chriſtus in seiner verklärten Menschheit, Col. 3, 11. Ephes 1, 22., und diese Weise der Erhaltung derselben durch ihn zeigt wohl, wie er sie gestiftet hat, nämlich nicht in seiner Endlichkeit und Sichtbarkeit, ſondern als der im Sichtbaren unsichtbare Geist, und so ist die Kirche auch in der Welt nur in sofern wahrhaft wirklich, als das Verhältniß der Welt zu Chriſto [p. 335] ein wirklich wahres, und er nicht nur ihr gegenwärtig und in ihr lebendig und wirksam, ſondern auch sie ihm wirklich zugethan und gehorsam ist. 1. Cor. 12, 12.
+
+10, 17.
+
+Matth. 18, 20.
+
+Rom. 12, 5.
+
+28, 20.
+
+In Wahrheit ist nur das Göttliche und Vernünftige in der Welt das Wirkliche, mithin alles wahrhaft Wirkliche vernünftig und göttlich.
+
+Nicht also in der bloß formalen, geſchichtlichen Wirklichkeit, sondern in der Uebereinstimmung dieser Wirklichkeit mit dem Geist und Begriff der christlichen Kirche liegt die Wahrheit derselben, und will man den Geist und Unterschied der protestantischen Kirche von der römischen bezeichnen, so ist es dieser, daß jene an dieser die wahrhaftige Wirklichkeit läugnet, und überhaupt keine Geist und Wort Gottes, Wahrheit hat.
+
+§.
+
+anerkennt, welche nicht im im Glauben und Wissen ihre
+
+525.
+
+Solche wahrhaftige Wirklichkeit hat die christliche Kirche einerseits in ihrer Aeußerlichkeit, welches ihr Daſeyn und Leben im Staat ist, und andrerseits in ihrer Innerlichkeit, welches ihr Leben, in sich selbst und in Gott ist, wie es ihr durch Christum gestiftet worden.
+
+Beide Seiten sind wesentlich eins in ihrem wahren Begriff.
+
+Es ist nicht die wahre
+
+Kirche, welche den Staat ignorirt oder nicht anerkennt und nur das Volk in ihm sieht oder die Welt, als das irreligiöse Prinzip, wie der Staat in ſeinem wahren Begriff auch nicht als das der Kirche sich widerſeßende und feindselige Prinzip zu denken ist.
+
+Staat und Kirche sind darin gleich, daß sie göttliche Ordnungen sind, welche beide auch äußerlich und geschichtlich, in Zeit und Raum in einander exiſtiren.
+
+Diese innere Einheit ist äußerlich vorgestellt (repräſentirt) in der Einheit des Regenten. Ihre Wirklichkeit und Wirksamkeit, wie ihr äußerliches Bestehen hat die Kirche am Staat, wie dieser seine Wahrheit und ſein innerliches-
+
+[p. 336] Bestehen an der Kirche hat.
+
+So sind sie beide in einander und in dem Unterschiede eins.
+
+Diese durch den Unterschied hindurchgehende und werdende Einheit ist die wahre, ist wesentlich ihre Einheit an sich, doch nicht mehr diese abstracte Identität (wie die Theokratie), ſondern die durch die Differenz vermittelte und so erst wahrhaft concrete.
+
+##### §. 526.
+
+So nur aber äußerlich bestehend im Staat und an ihm ihren Halt findend, nichts aber in und für sich selbst seyend, wäre die Kirche nur eine Anstalt, ein Inſtitut, ein Mechanismus und kein Organismus, welcher wohl sich bedingen und beſtimmen läßt von Außen, aber sein Leben und Bestehen nicht in einem Andern, sondern in sich selbst hat und sich von innen heraus bewegt.
+
+Dieses als Seele der Kirche, als ihres Leibes, sich bewegende Prinzip ist der Geist, den sie von ihrer Stiftung her hat, der Geist Jesu Christi, als ihres einzigen und ewigen Oberhauptes, sich ohne Unterlaß innerlich ihr überliefert und in welchem sie ihre beständige Erhaltung hat.
+
+Einer besondern menschlichen Stellvertretung dieses unsichtbaren Oberhauptes bedarf die Kirche nicht. Die äußerliche Ueberlieferung. des Geistes, auf welche die römische Kirche vorzugsweise hält, iſt nichts, wenn die Ueberlieferung innerlich, wie an manchen Päpsten zu sehen, unterbrochen ist: diese innerliche Ueberlieferung ist die Wahrheit der äußern und die zürnende und zerschmetternde Geistesbewegung in der Glaubensverbefferung zeigt wohl, daß es der evangeliſchen Kirche an der wahren Ueberlieferung nicht gefehlt, welches die Ueberlieferung des wahren christlichen Geistes ist.
+
+##### §. 527.
+
+Kraft dieses ihr sich immerdar überliefernden Geistes Jesu Chriſti organisirt sie sich selbst frei nach Zeit und Umständen, [p. 337] ſtänden, und adminiſtrirt sie sich selbst nach ihrem innern Bedürfniß durch ihre Beamten, die Geistlichen, deren wichtigster Beruf das Lehramt, und in denen das Bewußtſeyn der Gemeinde concentrirt und repräsentirt ist. In dieser so freien, als nothwendigen Einrichtung theilt sie nicht die arme Vorstellung, daß die Aeußerlichkeit und Verfaſſung der Kirche die Kirche selber sey, uud daß man nur solcher Aeußerlichkeit theilhaftig selig werden könne, oder die Gemeinde vor Gott ihren Werth habe nur durch die Maſſe, gleichviel, durch welchen Geist bewegt.
+
+Das Häuflein der
+
+Gläubigen ist zu allen Zeiten die kleinere Anzahl gewesen, indeß der große Haufen bei der Unwahrheit stehen geblieben. Die wahre christliche Kirche ist vielmehr überall nur da, wo das Sacrament und Wort Gottes recht und nach göttlicher Vorschrift behandelt wird.
+
+Dieses sind die Kennzeichen der wahren christlichen Kirche, Ephef. 4, 4--6. Apstg. 2, 42. Joh. 15, 3., und die Mittel der Gnade, wodurch die Gez meinde sich immerdar vermittelt und worin allein sie auch erst wahrhaft lebendig ist.
+
+den
+
+Gnadenmitteln.
+
+##### §. 528.
+
+Die Vermittelung der Gemeinde mit sich selbst setzt den Unterschied zwischen solchen, welche bereits Glieder der. gestifteten Gemeinde sind und solchen, die es noch nicht sind, es aber werden sollen. In dieser Vermittelung erhält sich die Gemeinde selbst.
+
+Aus dem Zwecke der Vermittelung gewinnt diese selbst an sich formal erst ihren reellen Inhalt. Der Zweck ist nicht irgend ein sinnlicher, irdischer und weltlicher, sondern die Vereinigung des Menschen mit Gott, die [p. 338] Erreichung der ewigen Seligkeit. Joh. 18, 36. 3, 3. 5. 1. Cor. 15, 50. Sie selbst, die Gemeinde, das Reich Gottes auf Erden, ist daher von dem Zweck nicht wesentlich und der Zweck der Vermittelung sowohl von verschieden,
+
+Seiten derer, die der Gemeinde bereits angehören, als in Beziehung auf die, welche ihr noch nicht angehören, ist demnach, daß der Menſch ſowohl überhaupt, als immer mehr und gewiſſer ein Mitglied des Reiches oder der Gemeinde Gottes auf Erden werde. 2. Theff. 1, 5.
+
+§.
+
+Luc. 22, 29. 30.
+
+529.
+
+Die Mittel selbst aber zu dieſem an sich geistigen und heiligen Zweck sind eben deshalb geistige und heilige Mittel, durch die Gnade des heiligen Geistes verordnet, und als solche Gnadenmittel genannt, oder auch, weil sie Mittel und Wege sind, der Gnade Gottes in Jesu Chriſto_theilhaftig zu werden. Die unendliche Vermittelung der Gemeinde kann daher ebenso sehr als die von Gott ausgehende betrachtet werden und als eine solche, wodurch Gott die Vereinigung stiftet zwischen sich und den Menschen.
+
+Alle diese
+
+Mittel und Wege aber sind begriffen_darin, daß Gott als Geist in der Gemeinde den Menschen sich weihet und ihn sich erzieht.
+
+Die Weihung ist das Sacrament, die Erziehung das Wort Gottes.
+
+Jenes ist eine Handlung der
+
+Religion in der Gemeinde und hat als solche auch eine äußerliche, finnlich erscheinende Seite, das Wort Gottes hingegen, als Lehre, ist die reine Wirkung des Geiſtes auf den Geist, und somit reingeistige Wirkung. a.
+
+Vom Sacrament.
+
+##### §. 530.
+
+Es ist nicht die erscheinende Handlung an sich, welche ent zu einem Mittel der göttlichen Gnade macht, Sacram ſondern die ewige Idee, aus der es hervorgeht und die sich darin realiſirt.
+
+Die Einheit derselben mit jener Handlung und derselben sinnlichem Element macht dieses zum Sacrament.
+
+Als solches ist es ein myſtiſches, und giebt ſich in dieſem ſeinen unmittelbaren Ansichſeyn dem Glauben, und dieser läßt es auch in der Handlung oder dem sacramentlichen Genuß mit Recht bei dem myſtiſchen Ansichſeyn der Einheit des Wortes Gottes oder der Idee mit der Handlung bewenden, und ist so das Vertrauen auf die göttliche Indem er Wahrheit und Wirksamkeit des Sacraments. der Glaube an die mystische Handlung ist, ist er selber mys stisch.
+
+Der administrirende Geistliche hingegen, der als der glaubende auch der lehrende ist, kann es bei dem Mysterium nicht bewenden lassen, 1. Cor. 4, 1 .; in ihm hat der Glaube es auch zum Wiſſen gebracht;
+
+als Wiſſen der
+
+Wahrheit aber ist es das Wissen in der Idee, außer welcher kein Wissen der Wahrheit ist.
+
+##### §. 531.
+
+Die ewige Idee, aus welcher`das Sacrament hervorgeht, ist die Einheit Gottes mit dem Menschen, in Christo Jesu offenbar geworden, und deshalb durch ihn erst das Sacrament gestiftet, was kein Mensch an und für sich vermag.
+
+Das Sacrament ist eine göttlich-menschliche Stiftung, in und mit der Erscheinung des Gottmenschen gestiftet. Kraft seines Geistes aber zu allen Zeiten in seiner Menschheit thätig und wirksam, iſt es dieſer ſeiner nothwendigen Idee nach keiner Zeit und keinem Volk gänzlich fremd gewesen, obgleich es im Christenthum erſt,ſeine vollkommne Wirklichkeit erreichte.
+
+Die Einheit Gottes mit dem Menschen, in Jesu Christo offenbar und wirklich, ist die Bedingung und Möglichkeit einer Vereinigung aller Menschen mit Gott, und dieses der Grund der Lehre, daß alle Menschen in Christo erwählet und zum Glauben an ihn oder zur Seligkeit durch ihn berufen, von Ewigkeit her Gott geweihet seyen.
+
+[p. 340] §.
+
+Dritter Abschnitt.
+
+532.
+
+Die Wahrheit des Sacraments nun ist die Idee, auf der es beruht, daß der Mensch durch Gott selbst Gott geweihet und diese Weihung an sich die ewige That Gottes ſey. Ohne dieses Ansichſeyn, welches die Identität mit der Idee Gottes in seiner Einheit mit dem Menschen ist, könnte sie es auch nicht für den Menschen seyn: aber weil sie an sich das göttliche Denken und Thun, ist dieses auch das menschliche und dem Menschen so nothwendig, als die Idee Gottes selbst.
+
+Die an sich ewige Weihung des Menschen durch Gott ist aber nicht nur die Berufung Aller zu Chriſto, sondern auch die Bekehrung, und feßet somit den geschehenen Sündenfall voraus und ist so die Wahrheit, daß der Mensch, so wie er von der Natur herkommt und nur ein Mitglied dieser Welt ist, Gott nicht genüge, ſondern der Versöhnung durch Christum bedürftig sey. In diese verlorene Einheit mit Gott zurückkehren kann er aber nicht mit der angebornen Sündhaftigkeit, nicht mit oder aus eigner Kraft allein, nicht mit der höchſten, menschlichen Kunst und Wifſenſchaft an und für sich, sondern nur mit demjenigen, was in seiner Natur noch wahr und heilig ist, und dieses ist das Ansichſeyn derselben oder ihr Seyn durch Gott.
+
+dieses nun auch für ihn wird oder geschieht, ist er Gott geweiht.
+
+Es geschieht aber, indem Gott, als die Wahrheit und Heiligkeit, oder in der Einheit mit der menschlichen Natur, Christus kraft ſeines Geiſtes ihn erleuchtet und heiligt.
+
+##### §. 533.
+
+Diefe in Gott ewige Handlung der Weihung des Menschengeschlechts mittelst der Erleuchtung und Heiligung ist es, welche menschlich nachgeahmt wird in der Gemeinde durch die Handlung des Sacraments. Ihre Objectivität ist diese, daß sie durch den Geist Jesu Chriſti des Stifters, in ſeiner Gemeinde immerdar vollzogen wird, also eine Handlung [p. 341] ist, die von der Religion selbst und an sich ausgeht; ihre Subjectivität ist die Adminiſtration und Suſception derselben, welche von dem Einzelnen geschieht und den Einzelnen angeht.
+
+In der Einheit der Ob- und Subjectivität der Handlung kann mit Recht gesagt werden, daß es die Kirche sey, von welcher die Weihung mittelst der Erleuchtung und Heiligung ausgeht und ihr Zweck sey, einen je den dadurch zum wahren Mitgliede der Kirche zu machen. Aber der nothwendige Grund oder der Grund der Nothwendigkeit ist dieser, weil Gott sich die Menschheit auf eine ewige Weise geweihet und dieses am vollkommenſten in Christi Person erklärt bat, so kann die Kirche bei Keinem es unterlaſſen, ihn Gott zu weihen: denn sie ist und besteht selbst nur als die Gemeinde also Geweihter. 1. Petri 2, 9.
+
+##### §. 534.
+
+Indem nun die Idee des Sacraments nicht unmittel ´bar als Lehre, sondern zunächst als Handlung existirt, iſt diese eine symbolische oder mystische. Ohne die Idee und derselben Anerkennung wäre die Handlung ein leerer Gebrauch und Mechanismus, eine Gebehrde und Ceremonie: ohne die Handlung in der Idee wäre diese nur die abstracte, ſomit das Sacrament und mit ihr die Kirche nicht, Unterlaffung der Handlung also zugleich Auflösung der Kirche. Die Handlung selbst ist die erscheinende Idee, 1 und dieses ist die finnliche Seite des Sacraments; sie ist vollkommner, je mehr sie geeignet ist, die Idee anschaulich zu machen: denn eben nur hierin beweiset das Sacrament seine fortdauernde Kraft und Wirksamkeit, die es von seiner göttlichen Einsetzung her hat.
+
+Das Sinnliche und Verständige des Sacraments muß so beschaffen seyn, daß es den Geiſt von sich weg auf das Ueberfinnliche lenkt, auf das, was über alle Sinne und allen Verstand erhaben ist. Und diese ſymboliſche oder mystische Natur des finnlichen Eiements [p. 342] im Sacrament wird leicht daraus verstanden, daß es zu diesem Gebrauch abgesondert ist und in dieſer Geſtalt nicht dem gemeinen Bedürfniß dient.
+
+##### §. 535.
+
+Von dieser seiner finnlichen Seite her spricht das Sacrament zunächst den sinnlichen Menschen an, im Unterschied von der Lehre, welche den Geist angeht, und es zeigt sich in der Einsetzung des Sacraments eben von dieser Seite *als Zweck desselben, daß mittelſt deſſelben auch der finnliche Mensch mit seinen Gefühlen durch die heiligen Dinge und Handlungen berührt und also der ganze Mensch, nach Leib und Seele, geweihet und in die Gemeinſchaft mit Gott hineingezogen werde. Zu seiner vollen Wirksamkeit gehört mithin wesentlich diese sinnliche Seite des Sacraments. Der unverschuldete Mangel des Sacraments in dieser Gestalt hebt aber nicht die ewige Idee oder dessen übersinnlichen Hieraus folgt die relative Entbehrlichkeit des Sacraments für einzelne, welche deſſelben nicht theilhaftig
+
+Inhalt auf.
+
+werden können, aber zugleich die absolute Nothwendigkeit desselben in der Gemeinſchaft der Gläubigen.
+
+##### §. 536.
+
+Diese Nothwendigkeit zeigt sich in der absoluten Idee der Kirche darin, daß der Gnade der Erleuchtung und Heis ligung von Seiten Gottes, welches die Weihung ist, das Bedürfniß entspricht von Seiten des Menschen, indem das Verhältniß aller Menschen zur Kirche ein zwiefaches iſt, ein absolutes und relatives. Jenes ist ihr Eintritt in die Kirche, dieses ihr Austritt aus ihr.
+
+Absolut außer der Kirche giebt es für den Menschen keine Wahrheit, Sittlichkeit und Seligkeit, und · ist also seine wahre Menschheit bedingt durch den Eintritt in die Gemeinde.
+
+Andrerseits lebt keiner absolut in ihr, ſondern immer nur mehr oder weniger, und' muß [p. 343] demnach der zerriſſene Zuſammenhang mit der Kirche oft wieder angeknüpft werden. Es muß ein jeder in seinem natürlichen Leben ein Mitglied der Kirche ſeyn und es immer mehr werden.
+
+Er muß einmal für immer Gott geweiht seyn und verseßt, wie eine natürliche Pflanze, aus dem schlechten Boden der Erde in den göttlichen Grund und Boden des Himmelreichs, und sodann immer von neuem geweihet werden, um zu wachsen in Chriſto, d. i. im Glauben und in der Liebe. Hierauf gründet sich nicht nur die Erscheinung gewiffer heiliger Gebräuche bei allen Völkern, welche daher auch mit den christlichen Sacramenten mehr oder weniger Aehnlichkeit haben, sondern auch die innere Nothwendigkeit von nicht mehr oder weniger, als zweier das ganze Leben umfassenden Sacramente der christlichen Kirche, derselben Sufficienz, wie auch die Unwiederholbarkeit des einen, und die nothwendige Wiederholbarkeit des andern.
+
+Diese Sacramente der christlichen Kirche sind
+
+Taufe und Abendmahl.
+
+##### §. 537.
+
+Der Begriff der Taufe bewegt sich durch den Gedanken der Nothwendigkeit, des Wesens und der Form die ſer Handlung. Jene Nothwendigkeit iſt zunächſt eine äußere oder die Voraussetzung.
+
+Das, was die Taufe voraussett, ist einerseits ebenso sehr, daß der Mensch der natürlich erzeugte und geborene, als daß er in dieſem ſeinen natürlichen Leben an und für sich auch nur der natürliche. Mensch, in der allgemeinen Sündhaftigkeit befangen, aller möglichen Sünden fähig und mit dem Hange dazu behaftet fey. Die Taufe nimmt ihn als einen solchen, deffen Bewußtseyn, wenn es erwacht, aus der Natur herkommt und daran die Möglichkeit aller Sünden hat. Aber als die bloße Möglichkeit oder die Erbsünde ist sie noch nicht die Wirklichkeit oder wirkliche Sünde; ſie ist nur die allgemeine der [p. 344] menschlichen Natur, nicht die besondere seines eigenen Wils Der eben Geborene ist noch nicht der durch das Les lens.
+
+den in der Welt Verdorbene und in sofern noch der Uns schuldige, und nur daran kann andrerseits die Taufe anknüpfen.
+
+Die Unschuld ist in ihm noch mit der Schuld identisch, beides in ihm der Möglichkeit nach vorhanden oder in ihm verborgen.
+
+Hat so der Mensch zwar noch nichts aus sich selbst gemacht mit seinem eigenen Willen, so fist doch die Möglichkeit alles Guten und Bösen nicht nichts, sondern der Mensch darin ſchon vom Thier unendlich verſchieden.
+
+##### §. 538.
+
+In der Beziehung auf diese beiderseitige Möglichkeit nun ist die Taufe die Erklärung, daß die Sündhaftigkeit des Menschen von seiner Geburt her kein Hinderniß seiner Se
+
+Ligkeit seyn solle unter der Bedingung der Wiedergeburt, und daß er nicht nur der von der Natur, ſondern auch von Gott geschaffene, nicht nur der in Sünden empfangene und geborene, ſondern auch der Gott geweihte, zum Leben in Chriſto beſtimmte und für das Reich Gottes berufene sey. Auf den Artikel von der Berufung weiset wesentlich der von der Taufe zurück; sie hat, wie jener, ein abſtractes Verhältniß des Menschen zu Gott zu ihrem Inhalt.
+
+Reißt die Taufe nicht zwar die Wurzel aller seiner künftigen Sünden aus, welche mit seiner ganzen Natur innig verwachsen ist, so ist ſie doch das nothwendige Gegengewicht gegen die Möglichkeit alles Bösen, welche sich im Erwachen des Bewußtseyns in die Wirklichkeit verwandelt und es erfolgt die Wieders geburt durch Initiation in die Gemeinde des Herrn und den Glauben derselben, es müſſe der Mensch nächstdem, daß er ein Kind und Mitbürger der Welt geworden, auch ein Kind Gottes und Mitglied im Reiche Gottes ſeyn. Tit. 3, 5. Joh. 3, 3.
+
+1. Petri 3, 21.
+
+Apftg. 2, 37. 38.
+
+§. Dadurch nun,
+
+539.
+
+daß dieses der wirkliche Glaube der
+
+Gemeinde ist, zeigt sie sich im Unterschiede von der Welt, und dieser Glaube ist das Nothwendigste bei der Taufe: denn in Beziehung auf das noch nicht erwachte Bewußtseyn des Menschen ist die Taufe an sich nur eine Begebenheit, keine innere Handlung des Getauften selbst.
+
+Nur in dem Maaß, als die Erwachsenen selbst schon auf eine les bendige Weise der Kirche Christi angehören, werden sie die Taufe für nothwendig halten, so wie, wo in ihnen selbst die, ses Band mit der Kirche durch Unglauben zerrissen ist, oder sie die Gemeinde Gottes für gär in nichts von der Welt verschieden halten, sie auch die Taufe nur für einen leeren, finnlosen Gebrauch von 1 höchstens historischem Werth erklären müſſen.
+
+Der wahre Glaube aber, beruhend auf ' einer Glaubenswahrheit, hat erst im Wissen auch den nöthigen Unterschied vom Aberglauben, dergleichen z. B. die Meinung ist, der Mensch werde getauft, damit er Gott geweiht werde, da er vielmehr getauft werden muß, weil er von Gott selbst Gott geweiht und in sein Reich berufen ist.
+
+##### §. 540.
+
+In ihrem Wesen wird weiter die Taufe begriffen, wenn auf Ursprung, Mittel und Zweck derselben reflectirt wird. Ihren Ursprung hat die Taufe in göttlicher Einſehung, welches der Gedanke der göttlichen Liebe ist, woraus ſie in irgend einer Gestalt hervorgeht.
+
+Die unendliche Liebe
+
+Gottes will den Menschen mit sich vereinigt wiſſen; eine Institution der göttlichen Liebe ist die Taufe. Der Ursprung der Taufe ist nicht in der Natur an sich, noch im Bewußtseyn des Menschen von sich, noch in dem Leben in der Welt zu suchen: sie ist vielmehr dieſem allen, welches an und für sich das ungeweihte, profane Leben ist, entgegengesetzt, ſie ist Erhebung des Menschen über dies alles, ſie ist aus dem [p. 346] Geiste der Wahrheit und Liebe, und in Beziehung auf jenes Natürliche, Selbstische, Weltliche eine feierliche, eine heilige Handlung.
+
+Matth. 28, 19.
+
+##### §. 541.
+
+In dieser Beziehung auf die göttliche That der Liebe, welches die Taufe in ihrem Ursprung ist, ist sie die göttliche Erklärung, daß der Mensch so, wie er nur der Geborene, Mitglied der Familie, des Volkes, der Welt ist, Gott nicht genüge, ſondern daß er ihm, ſeinem himmliſchen Vater in Christo, weit mehr als dieſem allen angehöre.
+
+aber diese Handlung aus ihrer abstracten Idee herausgeht, von Chriſto eingesetzt und der Gemeinde verordnet iſt, iſt ſie zugleich eine menschliche, nicht wunderbare und übernatürliche, sondern es ist das wahrhaft menschliche Leben, welches das christliche, das Leben in der Gemeinde Chriſti iſt, wozu sie die Einweihung ist, und welches mittelst derselben sich fortseßen soll.
+
+In dieser Beziehung iſt ſie die Erklärung Gottes, daß einer erst ihm geweiht ein wahres Mitglied seiner Familie, seines Volkes und der Welt zu seyn vermöge, und nur so kann die Gemeinde Gottes ſich stets regeneriren und conſerviren, daß sie keinen geboren werden läßt, ohne ihn ſich zu aſſimiliren und zu conſecriren. Matth. 19, 14.
+
+Als diese menschliche Handlung der Gemeinde ist sie die öffentliche, dergleichen selbst die Privattaufe mittelst des öffentlich berufenen Geistlichen iſt.
+
+##### §. 542.
+
+Aus dem heiligen Ursprung bestimmt sich der heilige Zweck der Taufe, welcher als Endzweck die Seligkeit, näher aber die Wiedergeburt ist. Joh. 3, 4. Apstg. 2, 38. Gal. 3, 27. 1. Cor. 12, 13.
+
+Marc. 16, 16.
+
+Rom. 8, 17.
+
+Sie des zieht sich auf das ganze der Taufe folgende Leben; indem sie die Hemmung deſſelben wegräumt, ist sie die Befreiung [p. 347] von der Gewalt der Natur über den Geist.
+
+Ein neues, geistliches Leben soll beginnen in dem alten, natürlichen
+
+Dieser heilige Act der Initiation (initium) ſoll zugleich der Anfang einer vernünftigen, christlichen Erziehung ſeyn. Diesen Willen Gottes erklärt die Gemeinde für den ihrigen und erklärt ſomit, daß es nicht genug sey, zu leben, sondern darauf ankomme, fromm und rechtſchaffen zu leben. Der nächste Zweck der Taufe ist demnach die Erziehung des Menschen nicht nur für das Leben in der Natur und Welt, sondern vorzüglich für das Leben in Gott und nach seinem Heiligen Willen.
+
+##### §. 543.
+
+Das Mittel aber zu diesem Zweck ist die Versetzung aus dem Reiche der Natur in das Reich des Geistes, welches das Reich des Lichts und der Wahrheit ist, gleichwie jenes als das fleischliche im Gegensatz gegen das geistige, das Reich der Unwahrheit und Finsterniß ist.
+
+Mittelst der
+
+Erleuchtung durch den göttlichen Geist wird die angeborene Finsterniß und Unwiſſenheit in dem menschlichen Geiste vers trieben, und der Wahn verscheucht, daß diese Welt die wahre sey oder der eigene Wille des Menschen sein Himmelreich, und es wird daher die Taufe selbst als die Erleuchtung vorgestellt.
+
+Durch dieses Mittel wird der heilige Zweck der Wiedergeburt erreicht, und der Mensch in seiner eignen Theilnahme und Thätigkeit dann auch wirklich bekehrt, nämlich von dem Wege der Natur und Welt, der er zunächſt eine geboren ist, zu Gott bekehrt.
+
+Die Taufe zeigt daher, besonders als Untertauchung, an, daß er nach jener Seite hin sterben müſſe, um nach dieser wieder aufzuerstehn und zu leben, nämlich im Geist und in der Wahrheit.
+
+§. 544. Indem die Taufe so ihrem Wesen nach ihren Ursprung aus Gott hat, ist auch ihr Zweck und Mittel gleich göttlich [p. 348] und absolut. Sie ist in allen diesen Beziehungen eine ewige Handlung Gottes, und daher auch allen menschlichen Religionen in irgend einer Art wesentlich.
+
+Nur aus dieser
+
+Erkenntniß des Wesens der Taufe läßt sich endlich auch bestimmen, ob die Form, welche sie in der chriſtlichen Kirche hat, die dem Wesen angemessene, und somit selber eine wesentliche sey.
+
+Von dieser Seite fällt sie in die Sinne, wird von Menschen an Menschen äußerlich verrichtet, hat ein ſinnliches Element und wird dadurch ſymboliſch, daß in ihr der göttliche Gedanke finnlich bezeichnet erſcheint und darin zur Vorstellung gelangt.
+
+Eine rein finnliche Handlung wäre sie vielmehr eine sinnlose.
+
+##### §. 545.
+
+Das Element der Taufe ist das Wasser, als reinigende, fleckentilgende und belebende Kraft und hat seine bestimmte Beziehung auf die vorhandene Unreinheit des unwiedergebornen Menschen. Tit. 3, 5. 6. Joh. 3, 5. Ephes. 5, 26. 27.
+
+In dieser seiner symbolischen Form ist der Act die vollkommenste Bezeichnung deſſen, was dadurch bezeichnet werden soll, und würde kein menschlicher Verstand einen passenderen Ausdruck der Idee zu erfinden vermögen.
+
+Ein alter, schon vor der Zeit des Christenthums üblicher Gebrauch war die Luſtration und Ablution, als Symbol der nothwendigen innern Reinigung.
+
+In diesem Sinne galt die
+
+Abwaschung in der Proselytentaufe und in der von Johannes verrichteten, der auch der Erlöser sich frei unterwarf, nicht als bedürfte er derselben für sich, wie dieses auch Johannes wohl erkannte, nicht, um die nöthige Reinigung, sondern um die vorhandene Reinheit anzuzeigen, wie dieses dabei auch ausdrücklich noch zur Erklärung kam. Matth. 3, 13 Anknüpfend an die vorhandene Sitte machte er aber auch zugleich die Taufe zu etwas unendlich höherem, indem er
+
+[p. 349] Von den Gnadenmitteln.
+
+ſie mit der Grundlehre seiner Religion in die wesentliche Verbindung setzte.
+
+##### §. 546.
+
+Denn nicht in jener Zeichensprache bleibt die christliche Taufe stehen; sie ist keine Handlung als bloße Gebehrde, sondern näher noch, als durch jenes äußere Zeichen, drückt sich der heilige Sinn der Taufe durch das Wort aus, von welchem die Handlung begleitet ist. • Zur christlichen Taufform gehört auch die Taufformel. Durch die von der göttlichen Einsetzung dieses Sacraments herkommende Einweihung auf den Namen des Vaters, Sohnes und Geiſtes zeigt die Taufe an, daß der Mensch, wie fähig, so auch ſchuldig und verbunden ſey, Gott in ſeiner Dreieinigkeit anzuerkennen und anzubeten, und daß er ohne die Anerkenntniß dieser Grundwahrheit auf den Namen eines Christen, wie auf die Wohlthat des Christenthums keinen Anspruch Mit dieser Wahrheit und dem Glauben daran, zu habe.
+
+welchem die Taufe die Einweihung ist, versetzet sie den Menschen in den Mittelpunct, in den Geist des Evangeliums, und ſondert ihn hiedurch erst rein vom Juden- und Heidenthum ab. Der Gebrauch dieser Formel hat, wie der des Waſſers, bei der Taufe eine unbedingte Nothwendigkeit und die Verstärkung derselben nur ist das Apostolische Symbolum, welches dieselbige Formel zugleich mit allen ihren wesentlichen Momenten als Bekenntniß enthält.
+
+diesem Sinne ist die Taufe das Bad der Wiedergeburt, indem ſie nämlich als eine zeitliche Handlung jene ewige Handlung Gottes nachbildet und nachahmt, nach welcher Gott (der Sohn) sich (dem Vater) alle Menschen weihet, indem er sie durch die Liebe (den Geist) erleuchtet und von allem Nichtigen, Eitlen und Unwahren befreiet und reiniget, da durch, daß sie (bei der Immerſion) der Welt absterben, oder [p. 350] (bei der Aspersion) in dem blutigen Tode des Welterlösers ihr wahres und ewiges Leben finden.
+
+##### §. 547.
+
+Gegen jenen göttlichen Gedanken, welcher die Abzweckung der Taufe ist und diese überfinnliche Wahrheit, wozu sie die Einweihung ist, tritt allerdings das Sinnliche an ihr zurück, und obgleich an sich das der Sache angemessenste Zeichen und somit ebenso wesentlich, als die Sache selbst, hat es doch nicht, wie diese, unbedingte Nothwendigkeit an ſich und konnte unstreitig auch vor dem Christenthum der göttliche Inhalt der Taufe ohne diese der Welt zu Theil Verschmähung der Taufe hingegen im Christenthum ist Verschmähung zugleich des göttlichen Inhalts der Taufe, ist der Wahn, man könne auch ohne Gott geweihet und von ihm erleuchtet zu seyn, seine Seligkeit doch erreichen.
+
+##### §. 548.
+
+Zur Form der christlichen Taufe gehört endlich, daß sie auch nur Kindertaufe sey. Matth. 19, 13. Marc. 10, 16. Als Gegenwirkung gegen das nur mögliche Böse knüpft die Taufe nur an die Unschuld des Kindes oder daran an, daß es noch nichts wirklich Böses gethan. Diese Bestimmung ist eine so wesentliche in dem Begriff der Taufe, daß die Kirche selbst da, als sie noch Erwachsene taufte, einen eignen Ritus mit der Taufe verband, um anzuzeigen, ſie ſeyen in dem Zustand der unschuldsvollen Kindheit zurückgekehrt und so ist auch die Taufe noch jezt an Proselyten vollzogen gar nichts anders, als Kindertaufe. Sie werden durch das Christenthum übersinnlich gezeugt und geboren, sie werden betrachtet als quasi modo geniti.
+
+Einwurf, daß doch durch die Taufe unmittelbar in dem Kinde nichts geändert werde, ist durch die Confirmation gehoben, welche ebendieſe andere Seite der chriftlichen Taufe [p. 351] ist, und innerlich mit ihr zusammenhängt als die eigene, freie, selbständige Bestätigung des Taufbundes; ſie liefert den noch fehlenden Bestandtheil zur vollkommnen Wirkung der Taufe von Seiten des Kindes, nämlich den eignen Glauben.
+
+Dieser aber soll nicht ein anderer seyn, als der allgemeine, christliche Glaube, und Kindern da, wo sie gerade aus der Subjectivität des Denkens und Meinens in die Objectivität des christlichen Glaubens versezt werden sollen, eigene, unter einander verschiedene Glaubensbekenntniſſe abfodern, ist zum mindeſten unſchicklich und ungeſchickt, zeigt Mangel an Kirchenregiment.
+
+##### §. 549.
+
+Die Taufe hat ihre Wirkung erst in der eigenen künftigen freien Lebensentwickelung. Wird nun aber durch den Tod des Kindes vor der Taufe diesen Zweck zu erreichen unmöglich, so giebt es auch kein gerechtes Urtheil über defsen Unseligkeit und Verdammniß; denn die der menschlichen Natur angeborene Sündhaftigkeit ist in Kindern noch von keiner persönlichen Schuld begleitet.
+
+Es ist daher auch keine absolute Verpflichtung zur Nothtaufe zu behaupten, sondern nur schuldige Rücksicht zu nehmen auf die, welche das, worin sie selbst ihr Heil und ihre Seligkeit finden, auch ihren Kindern nicht misgönnen oder entziehen möchten.
+
+##### §. 550.
+
+In der Lehre vom heiligen Abendmahl ist gleichfalls zuerst auf die Nothwendigkeit, sodann auf das Wesen und endlich auf die Form desselben zu reflectiren. Ueber die verschiedenen Stufen des Unterrichts in der christlichen Lehre, der Prüfung und Bestätigung in der erlangten Erkenntniß und Ueberzeugung, des eigenen, freien Bekenntnisſes ſehet die in der Taufe begonnene Erleuchtung sich fort in der Gemeinde.
+
+In sie wird der Mensch aufgenommen, [p. 352] ehe er irgend etwas noch aus sich selbst machen kann; er erfährt vorzugsweise die Wirkung derselben auf sich, lange er selbst noch nicht wirken und sich als lebendiges Elied am Leibe Chriſti bewegen kann. Aber daß er zu Verstand und Willen gekommen selbstthätig sich zeige, darauf ist es schon mit der Erleuchtung abgesehen; daß der Glaube auch die Liebe in sich entwickle, ist in der innern Einheit beider an sich gegründet, und erst, indem diese Einheit an sich auch für ihn und in ihm geworden und sich seines Lebens bemächtiget hat, ist er ein freies, lebendiges Mitglied der Gemeinde.
+
+##### §. 551.
+
+Allein schon in und mit dem Uebergang aus der Bewußtlosigkeit in das Bewußtseyn ist das Böse da, und die Möglichkeit desselben in die Wirklichkeit übergegangen, hiemit aber das in der Taufe geknüpfte Band mit der Kirche mehr oder weniger auch wieder gelöst.
+
+Denn nicht der reine
+
+Geist ist die Seele, ſondern die Einheit des Geiſtes mit einem Leibe, mittelst deſſen ſinnliche Triebe und Begierden in ihm walten, das Fleiſch gelüftet wider den Geiſt, dieſer verunreiniget wird und das Böse will. So an das unreine Leben des irdischen Fleisches und Blutes in ihr gebunden, ringet die Seele nach Erlösung und Freiheit und bedarf an dieſer Seite vornämlich, von welcher her ihr der Schaden gekommen, der göttlichen Heiligung und Hülfe, einer Veranſtaltung der Gnade, durch die eine höhere Lebenskraft in sie kommt und der Mensch nach Leib und Seele' geheiliget wird. Joh. 3, 6. 1. Cor. 15, 50. Joh. 6, 53 - 56.
+
+##### §. 552.
+
+Durch die Taufe hatte die Kirche erklärt, es sey der Mensch nicht nur der von seinen Eltern, sondern auch von Gott geschaffene, nicht bloß aus der Natur her, ſondern auch [p. 353] aus dem Geiste geboren und sie selbst, die Taufe, bezeichnet den Anfangspunct dieſes höhern Lebens, als Verſetzung in das Reich der göttlichen Gnade und des kelebenden Lichts. – Wie er aber leiblich, irdisch und ſinnlich durch Nahrung und Speise erhalten werden muß, um sein physisches Leben fort feßen zu können, so bedarf auch die Seele der höhern Ernährung und Stärkung, um in jenem in ihm begonnenen höhern Leben erhalten zu werden gegen das in allen Geſtalten auf seinen Untergang ausgehende Böse. Und es ist die mit der göttlichen Heiligkeit identische Güte Gottes allein, die ihn ernährend und ſtärkend an dieſem geistigen Leben erhalten kann und will. §.
+
+553.
+
+In der Heiligung und Erhaltung der Welt ist Gott der die Welt mit sich versöhnende: der Begriff der göttlichen Güte und Liebe ist aber diese ihm eigene Bewegung und Beziehung auf die ohne das verlorene Welt.
+
+Begriff des heiligen Abendmahls nimmt alle diese Lehren concret und concentrisch in sich auf: es selbst ist der Ausdruck jener ewigen Wahrheit, daß wie an sich oder von Ewigkeit her die Welt mit Gott durch ihn selbst versöhnet und diese Versöhnung in Christo der Welt offenbar geworden und gestiftet ist, so auch der Mensch diesen Glauben nicht haben könne und dürfe, ohne sich auch als den mit Gott und der Welt, wie mit sich selbst versöhnten zu wiſſen und zu erweisen: Liebe.
+
+es ist das Mahl der Versöhnung und
+
+Jenes, obgleich noch nicht die Nothwendigkeit des Abendmahls in dieſer bestimmten Gestalt ist aber zunächſt nur die Nothwendigkeit der Idee, auf der es ruht, aber doch auch zugleich eine That, in der sich die Idee realiſirt und objectiv macht.
+
+Dieser That kann sich der Mensch entziehen, so, daß sie für ihn so gut, wie nicht da ist: aber der Idee des der Welt gegenwärtigen und sie mit ſich ver3 [p. 354] söhnenden Gottes, welche die Grundidee des heiligen Abendmahls ist, kann er, überhaupt noch in der Gemeinde Christi lebend, sich nicht entschlagen: denn sie ist eine in und mit der Idee Gottes und des Menschen nothwendige und mit aller Religion identische.
+
+##### §. 554.
+
+Das Wesen des heiligen Abendmahls iſt zunächst def felben göttliche Einſeßung, dieſe aber der Ursprung desselben aus göttlicher Liebe. Nicht ein Mensch, ſondern Gott, nicht Gott in abstracto, sondern als Mensch, oder der Gottmensch Jesus Christus hat das heilige Abendmahl eingesetzt als eine Handlung, welche als solche die Erscheinung der Idee von der Versöhnung der Welt mit Gott ist. Gott in Christo oder als Mensch der Welt gegenwärtig hat das heilige Abendmahl gestiftet, und so ist nun auch ihrem Bewußtseyn in der Feier des Abendmahls Christus. gegenwärtig als Stifter der ewigen Versöhnung der Welt mit Gott, und eben hiedurch die an sich 'heilige Handlung eine feierliche für sie. Es ist das Gedächtnißmahl des versöhnenden Thuns, Leidens und Sterbens Jesu Chriſti: als solches aber nicht bloß historischer Art oder Erinnerung an Vergangenes, ſondern an das, was auch vergangen ebenso sehr der Welt gegenwärtig, und somit nicht vergangen ist. Matth. 26,26. Marc. 14, 22. Luc. 22, 19. 1. Cor. 11, 13. 10, 16. Dieser wesentliche Gehalt des heiligen Abendmahls deutet ebendeshalb, weil er auch das vergangene als unmittelbar gegenwärtiges darstellt, darauf hin, daß auch vor dieſer ſeiner bestimmten Gestalt der wesentliche Inhalt desselben in irgend einer Form vorhanden, auch als das zukünftige gegenwärtig seyn konnte und die Religion zu allen Zeiten einen ähnlichen Akt, wie das Abendmahl, aus sich hervorbrachte. Diese werden daher mit Recht als Präfigurationen deffelben betrachtet.
+
+##### §. 555.
+
+Eine innere und wesentliche Beziehung auf das heilige Abendmahl der christlichen Kirche hat das Opfer in allen heidnischen Religionen.
+
+Ihm liegt die Idee der Versöhnung zum Grunde oder das Bewußtseyn, daß ohne irgend eine Gemeinschaft mit den Göttern der Mensch nicht seyn könne, ihr Wohlgefallen sich zu erwerben, ihren Zorn zu sänftigen habe und daß der Mensch alles Zeitliche dem Ewigen, auch das Liebste und `Theuerste Gott weihen müsse. Die Gegen, wart Gottes ist aber im Opfer noch die natürliche, leibliche und hierin die wesentliche Idee des heiligen Abendmahls erst in ihrem äußerlichsten Beginnen und unvollkommenſten Ausdruck. Das Symboliſche ist noch durch das Mythologische verunreinigt. Durch das einzig wahre Opfer Chriſti, welches die Aufopferung des Gottmenschen aus Gehorsam und Liebe ist, wurden vielmehr alle äußerlichen Opfer für falsche erklärt und abgeschafft und die Lehre vom Abendmahl, als einem, wenn gleich unblutigen, aber doch versöh nenden Opfer und von einer solchen leiblichen Gegenwart Gottes, welche die Verwandelung des Natürlichen ins Ulebernatürliche und ein Wunder seyn soll, ist dem Christenthum fremd.
+
+##### §. 556.
+
+Bevor sich aber in ihrer weiteren Bewegung die wesentliche Idee des Abendmahls zu ihrer reinsten Gestalt verklärte, ging sie erst noch aus der concreten Sinnlichkeit und Leiblichkeit ganz ins Uebersinnliche und Abstracte zurück, ohne jedoch die Form eines Aktes oder Symbols zu verlieren. Im Alten Bund war das Paſſalamm ein solches Bundeszeichen, es wurde geschlachtet und genoffen zur Erinnerung an den Gott der Väter, der sein Volk aus Egypten gerufen und erlöset hatte. Die wesentliche Idee ist wohl darin nicht zu verkennen, hat aber im Geiste des Mosais32
+
+[p. 356] Dritter Abschnitt.
+
+mus außer andern Momenten, welche der wahren Religion nicht entsprechen, die Bestimmung nur der Erinnerung an das entfernte und abwesende; der Versöhnende ist dem Geiste nahe und gegenwärtig nur in Gedanken, nicht in der Unmittelbarkeit, That und Wahrheit. Und so stellen sich, wo sich die Lehre vom Gedächtniß Christi im Abendmahl auf die Erinnerung an ein geschehenes, geweſenes, vergangenes und entferntes beschränkt, die an sich nichtigen Momente der Zeit und des Raumes zwischen den Geist und seinen Gegenstand und halten beide aus einander.
+
+Das Abendmahl aber hat eben darin erst seine Wahrheit und Wirklichkeit, daß mittelst desselben die Entfernung der Seele von ihrem Erlöser gehoben wird.
+
+§.
+
+1. Cor. 10, 16.
+
+18, 20.
+
+557.
+
+Im Christenthum endlich hat die Idee, wie der Versöhnung an sich, so auch eines dieselbe bezeichnenden Akts oder des heiligen Abendmahls ihre absolute Gestalt und Wirklichkeit erreicht. In dieser Religion ist Gott der menschlichen Natur so unmittelbar nahe und gegenwärtig, daß sie in Jesu Christo mit der göttlichen selber eins, ſein Geiſt aber der Geist seiner Gemeinde, sie selbst sein Leib und er von seiner Menschheit ewig ungetrennt und mit ihr vereiDie leibliche und geistliche Gegenwart hat nicht an sich oder für sich und in dieser Trennung, sondern in nigt ist.
+
+ihrer wesentlichen Einheit ihre Wahrheit.
+
+Es ist nicht Gott in der Abstraction, noch der Mensch Jesus Christus im Unterschiede von Gott im Abendmahl seiner Gemeinde gegenwärtig und ebenso wenig vom Gottmenschen nur Leib und Blut ohne den Geist oder der Geist ohne Fleiſch und Bluf. Dieses alles sind abſtracte Bestimmungen, in der concreten Idee aufgehoben.
+
+Durch den Genuß aber macht die Gemeinde nur, was concret und an sich iſt, für sich und er [p. 357] ist weder als der leibliche allein, noch als der geistliche allein, sondern in der Einheit beider allein der wahre Genuß.
+
+558.
+
+§.
+
+Der wesentlichen Idee gemäß hat sich denn auch die wesentliche Form des heiligen Abendmahls gebildet. Das Abendmahl hat nicht die Bestimmung, die Versöhnung an sich und objectiv zu stiften, welche vielmehr an sich geſchehen ist, sondern durch einen bestimmten Akt und gewisse Zeichen die an sich gestiftete Versöhnung zu bezeichnen, und ist als - diese Bezeichnung symbolisch. Aber indem es zugleich Aneignung derselben ist im Glauben daran, stiftet es aller dings ſubjectiv die Versöhnung des Menschen mit Gott und ist Verleihung und Gewährung der in der Versöhnung uns Ebenso sehr als die Versöherworbenen Güter des Heils.
+
+nung und Vereinigung des Menschen mit Gott bezeichnend und bewirkend, feiert im Abendmahle der Christ seine Versöhnung und Vereinigung mit allen andern Menschen und es hat darin die bestimmte Form der Oeffentlichkeit und Communion. 1. Cor. 10, 17. Rom. 12, 5.
+
+##### §. 559.
+
+In beiden Beziehungen ist das Material des Brodts und Weins der Idee vollkommen entsprechend und angemesAls Nahrungs- und Stärkungsmittel an sich ist es sen.
+
+mit ihnen im Abendmahl in der erstern Beziehung nicht auf Erhaltung und Stärkung des natürlichen Lebens durch sie abgesehen, sondern damit vielmehr ausgesagt, es könne der Mensch ohne die beſtändige Ernährung seines innern Lebens durch Christum, der die einzig wahre Speise und die Quelle alles geistlichen Lebens ist, sich nicht wahrhaft erhalten, ſondern nur so erhalten und geheiliget werden, daß Chriſti heiliges Fleisch und Blut an die Stelle unseres unreinen Fleisches und Blutes kommt.
+
+In der andern Beziehung [p. 358] aber auf die christliche Gemeinschaft ist das Brodt eine aus einzelnen Körnern, der Wein aus einzelnen Trauben und Beeren congulirte Maffe. Daß aber die Idee oder Wahrheit sich hier nicht in ihrem Elemente abschließt oder nur als Lehre hervortritt, das Abendmahl also nicht im Geiſte nur oder geistlich genossen wird, wie bei den Quäkern, sondern auch diese bestimmte finnliche Seite hat, macht es erſt zum Sacrament.
+
+##### §. 560.
+
+Zum würdigen Genuß des heiligen Abendmahls gehört endlich auch die Vorbereitung durch Reue und Buße, das Bekenntniß der Sünden und die empfangene Absolution. 1. Cor. 11, 27. 28.
+
+Dieses ist die negative Seite des heiligen
+
+Abendmahls selbst, und es hat als die positive Heiligung dieselbe wesentlich an ihm selbst. In diese Gemeinschaft mit dem heiligen Erlöser der Welt soll nicht das unreine und unwürdige eingehen.
+
+Ob die Beichte eine allgemeine oder Privatbeichte sey, ist keine wesentliche Bestimmung: von der Ohrenbeichte unterscheidet die lettere sich genugsam dadurch, daß sie nicht die Beichte aller einzelnen Sünden, sondern nur Beichte aller einzelnen Sünder ist.
+
+Wie die heilige Taufe die Confirmation hinter sich hat, so hat das heilige Abendmahl die Beichtvorbereitung zu seiner Vorausfeßung. Ihre Wahrheit aber haben beide, Taufe und Abendmahl im Worte Gottes. b.
+
+Vom Worte Gottes.
+
+##### §. 561.
+
+Daß die objective Religion das Sacrament enthält als einen wesentlichen Bestandtheil ihrer selbst, darin zeigt sich vorzugsweise das priesterliche Amt Chriſti; aber indem dieses besonders im heiligen Abendmahl als die Heiligung und
+
+[p. 359] Von den Gradenmitteln.
+
+Versöhnung hervortritt, hat es doch auch die heilige Taufe als die Erleuchtung, und hiemit das prophetiſche Amt Chriſti zu seiner Voraussetzung. Das menschliche Leben für Gott beginnt in der Weihung durch Gott, und in dieser Allgemeinheit des Begriffes erweiset sich Chriſtus als Prieſter. Nur auf diesem geweihten Grund und Boden kann alle Erziehung beginnen und fortſchreiten, und auch darin ist der Mensch nicht sich selbst oder der Welt überlassen; sie ist Erziehung des Menschen durch Gott für Gott und ſein Reich. In der Beziehung auf den Menschen, ſeinen Verſtand und Willen, ist es das prophetische Amt Christi, welches sich in der göttlichen Erziehung des Menschen vorzugsweise erweiſet.
+
+##### §. 562.
+
+Die göttliche Erziehung ist zugleich die menschliche und darin ist sie die christliche oder kirchliche.
+
+Sie hat zu ihrer Voraussetzung die natürliche, die den Menschen als daseyendes und lebendiges Wesen nimmt, ihn für das Leben und die Welt erzieht, ihn leiblich und geistig ausbildet: sie geht darauf aus, daß der Mensch zum Menschen werde und zum klaren Bewußtseyn seiner selbst gelange.
+
+Bewußtseyn des Menschen von sich aber hat zu ſeiner Wahrheit das Bewußtſeyn von Gott, und daß es also auch dazu komme und der Mensch nicht nur für sich und die Welt, sondern auch für Gott und ſein Reich erzogen werde, dazu bedarf er ebenso sehr der Erziehung. 16, 26.
+
+Matth. 4, 4.
+
+6, 33.
+
+Als das an und für sich vernünftige Wesen hat der Mensch schon als daseyendes und lebendiges diese Beziehung über sich selbst hinaus, deren Vollendung die göttliche Erziehung ist. Diese geschieht in der Gemeinde durch das Wort Gottes und es ist hier zunächſt, wie es dieſes thut, sodann was es enthält oder der Inhalt deſſelben, und endlich deſſelben Form zu betrachten.
+
+[p. 360] §.
+
+563.
+
+So, wie der Mensch im Reich der Natur auflebt und beharret, und er nur der finnliche und verſtändige ist, ist ihm das Reich Gottes fremd und äußerlich. An ſich ihm nahe, ist es für ihn noch nicht. Der Gewalt der Natur und Sinnlichkeit unterworfen hört er wohl Gottes Wort, aber er stoßt es von sich; der Wille Gottes ist ihm zuwider als eine Macht, die seinem Eigenſinn und Eigenwillen entgegen ist. Hierin aber zeigt sich das Wort Gottes oder die göttliche Erziehung als züchtigend und strafend und läßt ihn fühlen, was er nicht erkennen will.
+
+Dem Gefühl gegenüber zeigt sich die Erziehung durch Gott als Zucht und faffet hiemit den Menschen an seiner empfindlichsten Seite, nämlich an der Seite der Empfindung selbst und der Erfahrung.
+
+Hebr. 12, 6.
+
+Tit. 2, 12.
+
+§.
+
+2. Tim. 3, 16.
+
+564.
+
+Wie in der natürlichen Erziehung schon der fremde Verstand und gute Wille den Mangel beider in dem Kinde ersetzen, die Erziehung als Zucht anfangen und sich fortwährend geltend machen muß, so ist es auch in der göttlichen: in der Geschichte der Offenbarungen zeigt sich der wilden Jugend des Menschengeschlechts gegenüber das Wort Gottes als den Zuchtmeister und Bändiger derselben.
+
+Allein
+
+ſo oft im Leben des Wiedergebornen selbst Rückfälle in solche´ Widerspenstigkeit, in den Eigenfinn und Eigenwillen vorkommen, Verachtung des Wortes Gottes und Murren gegen Gott, Selbstsucht und Sinnenliebe ihn von Gott abwenden, nimmt die göttliche Güte die Bestimmtheit der Zucht an, um durch Kreuz und Leiden, durch große Schicksale und Prüfungen das Herz des Menschen abzuldsen von dieser Welt und ihm im Gefühl zu verstehen zu geben, was er auf keine andere Weise verstehen will, und 1 ihn so zu sich zu rufen.
+
+##### §. 565.
+
+Diese andere Weise ist die vernünftige Einsicht und Anerkennung, welcher gegenüber das Wort Gottes die' Bestimmtheit der Lehre hat. Die Zucht hat die wesentliche Bestimmung der Vorbereitung auf die Lehre, wie diese selbst schon als Zucht sich nur noch an das Erfahren und Empfinden wendet, so in ihrem reinen Begriff als Lehre der Wahrheit an den Verstand und die Vernunft. Das Wort Gottes aber, in der Gemeinde verkündigt als Lehre, geht wesentlich darauf aus, sowohl mittelst der geistlichen Erfahrung in der Zucht, als auch mittelst der Erkenntniß und Einsicht den Glauben zu stiften, den Menschen in die wahre und wirkliche Gemeinschaft mit Gott zu bringen, und ſo ſein Leben zu machen.
+
+einem wahrhaftigen Gottesdienst zu
+
+Wie dieser sich subjectiv zeigt als Gebet und Betrachtung, so macht er sich auch objectiv in der Gemeinde der Gläubigen, in welcher das Lehramt ebenso sehr göttliche Institution, als menschliche Verwaltung beider ist, des Gebets und der Betrachtung, wie auch der Sacramente, die ebendeshalb nie ohne das mitgetheilte Wort Gottes gehandhabt werden können. Joh. 8, 47.
+
+17, 3.
+
+Gal. 6, 6.
+
+Ròm. 2, 18.
+
+Matth. 28, 19. 20.
+
+2. Tim. 2, 2.
+
+1. Cor. 12, 28. §.
+
+566.
+
+Es geschieht aber durch die göttliche Macht des Geistes, daß das Wort Gottes sich als Lehre immerðar überliefert in der Gemeinde, und von einer Zeit auf die andere übergeht, und auch in den Gedanken und Vorstellungen der Menschen nicht untergeht, sondern sich als rechte und reine Lehre im Gegensatz zur unrechten und unreinen Lehre erhält, welche mit jener jederzeit vorhanden ist.
+
+Ist für beide nur die nöthige Freiheit vorhanden, dann ist es der Wahrheit und wahren Lehre göttliche Macht zu siegen, und erst in [p. 362] folchem Sieg kann sie ihre göttlichen Kräfte entwickeln. Dies fen Sieg über die Unwahrheit hat die vertheidigte
+
+Wahrheit nicht in bloßen Gefühlen und Vorstellungen, im Glauben oder Berufen auf äußerliche Autoritäten, sondern allein im Begriff und Wiſſen, und es hat deshalb die kirchliche Lehre nothwendig auch di: Wiſſenſchaft sich zur Seite. Diese, oder was sich so nennt, würde ihre Bestimmung sehr verkennen und die beste und heiligste Sache verloren geben, wenn sie dem Gegner auch wieder nur Autoritäten, Vorstellungen oder Gefühle präfentiren wollte.
+
+##### §. 567.
+
+In Ansehung seines Inhalts ist das Wort Gottes Gesez und Evangelium.
+
+Diese Eintheilung beruhet nicht bloß auf der geschichtlichen Entwickelung der göttlichen Offenbarung und des Menschengeschlechts im Alten und Neuen Bunde, sondern ist im Begriff des göttlichen Wortes selbst enthalten, sofern es einerseits Zucht, andrerseits Lehre ist, und es hat vielmehr die geschichtliche Erscheinung des Wortes Gottes daran ihren Grund. , Matth. 5, 17. 18. Luc. 16, 17, Rom. 3, 20. 1. Tim. 1, 8. An ſich zwar dem Geiste der Wahrheit und Heiligkeit angehörend wird der Mensch für denselben nur, sofern er erst von der Natur her mit ihm entzweit und unter das Gesetz gestellt ist, das mit es die natürliche Renitenz zügle und den Lauf des Bdfen in der Welt Gränze und Schranken setze. Weil in allen mittelst der Imagination, als der finnlichsten Seite des Geistes, das Sinnliche und Natürliche sich dem Bewußtseyn zum Denken und Wollen bringt und so das Böse entsteht, muß der Mensch, wenn die patriarchaliſche Unmittelbarkeit und kindliche Unschuld verschwunden und er nun auch durch Gott erzogen werden soll, vom Gesetz anheben, es muß die Liebe in ihm mit der Pflicht anfangen, ehe er für die höheren Wahrheiten und Lehren des Glaubens empfänglich [p. 363] geworden, zur völligen Liebe gelangen kann. Hebr. 10, 1. 1. Cor. 9, 20. Rom. 3, 31. 7, 1.
+
+##### §. 568.
+
+Des Gefeßes wesentliche Beſtimmung ist, den Menschen zur Erkenntniß seiner selbst, seiner natürlichen Sündhaftigkeit und Unvollkommenheit zu bringen, ihm die Gnade Gottes in Jesu Christo zum Bedürfniß zu machen und ihn so auf das Evangelium vorzubereiten.
+
+Es ist eine nothwendige Stufe in der Entwickelung des Menschengeschlechts. Es ist in seinen einzelnen Geboten das objective Gewissen.
+
+liegt aber schon im Gesetz der Keim des Evangeliums, wie Gott in beiden sich offenbarend der eine und selbige ist.
+
+Das Evangelium ist in und mit der Verheißung schon von Anfang an auch zur Zeit der Gesetzesherrschaft, doch nur noch als Geheimniß vorhanden, im Alten Testamente verborgen.
+
+So ist das Gesetz im Wesentlichen auch in der Zeit der Gnade nicht aufgehoben und erneuert sich immerdar.
+
+An sich aber ist die Religion des Gesetzes die der Furcht und Knechtschaft (Moses ein Knecht Gottes), die Religion der Liebe ist die der Freiheit und Kindſchaft (Chriſtus der Sohn Gottes).
+
+Die Liebe des Gesetzes ist in dem
+
+Gesetz der Liebe aufgehoben. 13, 10.
+
+Röm. 3, 20.
+
+Gal. 3, 13. 23. 24.
+
+§.
+
+4, 4.
+
+8, 3.
+
+10, 4.
+
+5, 4.
+
+569.
+
+Die wesentliche Form des göttlichen Wortes endlich ist in allen Gestalten der Geist und ebendamit es Wort des Dreieinigen.
+
+An sich` ist das Wort Gottes identisch mit Gott, dessen Wort es ist: Gott ist das Wort. Joh. 1, 1.
+
+Dieses aber ist er als der offenbare oder als Sohn: er ist das ewige Wort Gottes, die Offenbarung des Vaters, seines Wesens und Willens. Joh. 1, 2. 14. Als die ewige Liebe des Vaters und Sohnes endlich ist der Geist [p. 364] nicht nur ſelbſt das Wort, sondern auch die Mittheilung und Offenbarung desselben an die Welt. 2. Petri 1, 19. Hebr. 4, 12. Das Dogma von einem Wort Gottes oder einer heiligen Schrift ist an und für sich keine historische Lehre, sondern eine in der Idee Gottes nothwendige und mit ihr identische Glaubenswahrheit, welche sich dann auch Die Vorstellung ist hergenommen geschichtlich entwickelt. von der Art, wie Menschen zu reden, zu schreiben pflegen und hat ihre Wahrheit allein im Begriff. Apoftg. 11, 1.
+
+Röm. 9, 9.
+
+12, 24.
+
+##### §. 570.
+
+Darin, daß der Geist ohne Unterlaß ausgeht vom Vater und Sohn, ist das Wort Gottes auch in der Welt.
+
+Zu dem finnlichen Menschen spricht es nur im dunkeln Gefühl, zu dem verständigen im klaren Bewußtseyn;
+
+das wahre
+
+Wort Gottes ist es für beide nur als das vernünftige, und nur als solches kann es wahr im Gefühl und Bewußtseyn seyn.
+
+Das Wort Gottes in ſich als das vernünftige wifsend und sich in ihm wiſſend, ist der menschliche Geiſt ſelbſt erst der vernünftige, und hat die Fremdheit und Aeußerlichkeit desselben überwunden, die es noch auf jenen untern Stufen des Gefühls und Bewußtseyns hat. Und dieses Wissen sich selbst noch verborgen im Glauben, ist seinem wesentlichen Inhalte nach das chriftliche darin, daß die ewige Vernunft (hoyos), das ewige Wort Gottes selbst, in Jesu Christo nicht mehr im Unterschiede von der menſchlichen Vernunft und dem menschlichen Wort, sondern viel mehr in Christo der göttliche Geist mit dem menschlichen Ein Geist ist.
+
+In der christlichen Religion, an sich nicht verschieden von ihrem Stifter, ist das göttliche Wort vollkömmen menschlich geworden, und ist ein Mensch dem andern ein Brief Gottes an ihn. 2. Cor. 3, 3. Joh. 14, 26.
+
+Von den Gnadenmitteln. , 365 §.
+
+571.
+
+Nicht also mehr der abstracte Geist ist er in seiner Gottheit, sondern auch in seiner Menschheit, und so der concrete Geist.
+
+Und als dieser Geist Jesu Christi ist er der Geist seiner Gemeinde, und ihr hat er zu erkennen gegeben Gott als Vater und Sohn und so auch sich selbst als Geist. Nicht aber äußerlich nur, ſondern auch innerlich ihr sich zu erkennen gebend, hat er sich selbst ihr eingegeben: denn nur durch ihn selbst ist er in ihr zu erkennen und die Spiration, welche des Geistes Begriff selber ist, Inspiration, wo sie einen ihr ganz gleichen menschlichen Zustand gefunden oder vielmehr hervorgebracht hat. 2. Petri 1, 21. Matth. 10, 19. Und dieses ist nicht die Erscheinung der Religion an sich, ſondern vielmehr nur ihre Stiftung in der Welt und indem sie auch ist für die Welt.
+
+Nicht der Stifter dieser Religion ist der inspirirte, ſondern ſein Geist ist der sich auf seine Apostel überliefernde und sie mit sich erfüllende oder inspirirende.
+
+Der Zweifel an solcher Inspiration ist nur der an der Spiration, der Zweifel daran, daß der Geist sey und Gott der Geist sey, oder mehr als ein abstracter Gedanke, die Meinung,
+
+Gottes Offenbarung und derselben ewiger Inhalt hätte, in Wesen seyend außer ihm, ihren Urgrund und Ursprung nicht mehr an ihm, ſondern an ihnen.
+
+Wie aber die Institution (Einsetzung) des Sacraments deſſelben göttlicher Ursprung in seinem Daſeyn in der Gemeinde, so ist die Inspiration (Eingebung) des göttlichen Wortes nicht nur desselben göttlicher Ursprung in der Gemeinde, sondern auch der göttliche Ursprung, die Stiftung erst der Gemeinde selbst.
+
+##### §. 572.
+
+Die Lehre von der Eingebung, die als solche ge dacht allerdings nur eine Vorstellung ist, hat ihre Wahrheit in dem Begriff der Stiftung der wahren Religion und [p. 366] ſagt ſomit aus, es sey die ewige und an sich wahre und göttliche Religion dadurch, daß sie die menschliche, d. i. die christliche wurde, nicht eine andere, in dieſer ihrer Form als christliche jenem ihrem Wesen nicht untreu geworden, sondern auch in dieser ihrer ersten Erscheinung in der Gemeinde sich und ihrem göttlichen Inhalt abſolut gleich geblieben. Dieses ist daher gleichſehr der Begriff der Stiftung der wahren Religion, wie der Inſpiration ihrer ersten Boten und Zeugen, daß der göttliche Offenbarungsinhalt ihrer Reden und Schriften dadurch, daß er in dieser menschlichen Form existirte, nicht ein wesentlich anderer geworden, die Existenz dieser Religion von ihrem Ursprung nicht verschieden sey. Auch als menschliche also hätte ihr göttlicher Inhalt seine göttliche Form nicht verläugnet, welche der Geist Gottes ist und die gestiftete Religion darin allein ihre Wahrheit und Göttlichkeit, daß sie durch den göttlichen Geiſt an den menschlichen kam.
+
+Die Wahrheit also der christlichen Religion ist ihre Inspiration. - Wer die Inſpiration der Apostel läugnet, glaubt nicht, daß die wahre Religion gestiftet, oder die christliche göttlich gestiftet sey.
+
+##### §. 573.
+
+Der menschliche Geist aber, ohne den göttlichen, nichts, als das Denken ſeiner selbst, der Welt in ihm und außer ihm, und hiemit ein Denken des Nichtigen und ſelAuch die Apostel waren Menschen, der nichtiges Denken.
+
+als solche dem Irrthum und der Täuschung unterworfen, mannigfaltig auch noch in weltlichen Gedanken und irdischen Hoffnungen befangen.
+
+Und wie sie sich auch davon reinigen mochten, so waren und blieben sie doch Menschen. Sie aber, als Menschen, konnten weder mündlich noch schriftlich Gott offenbaren, sondern Gott nur kann Gott offenbaren. Ephes., 1, 17. 2. Petri 1, 21. 1. Tim. 6, 11. 2. Tim. 3, 17. Dieses nun, daß ihr menschlicher Geist durch
+
+Luc. 18, 34.
+
+[p. 367] den göttlichen über sich selbst erhoben, durch ihn erleuchtet worden und zum klarſten und reinſten Bewußtseyn der göttlichen Wahrheit gelangt sen, ist der Begriff ihrer Inspiration. 1. Cor. 2, 6 - 13. Was mehr oder weniger ist in aller Religion, daß sie die Vereinigung des menschlichen
+
+Geistes ist mit dem göttlichen, die Begeisterung des menschlichen Geistes durch den göttlichen, das wird als absolut gesezt in der Inspiration, unterscheidet sich aber hiemit zugleich gleichsehr einerseits von der absoluten Einheit des menschlichen und göttlichen Geistes in Christo, als andrerseits von allen bloß frommen Gedanken und Empfindungen oder Affecten.
+
+##### §. 1574.
+
+Nach der erstern Seite hin zeigt sich der göttliche Geiſt der wahren Religion sich selber gleich in der Individualität und Mannigfaltigkeit, welche durch dieselbe nicht ausgelöscht worden.
+
+Dadurch, daß die Spiration in die Differenz eingeht und sich selbst in solchem Unterschiede in ihrer Identität behauptet, wird sie zur Inſpiration, und dieſes ist der Begriff der nothwendigen Einheit der gestifteten wahren Religion an sich. Es ist durch die Stiftung der christlichen Religion in der verschiedenen Individualität kein innerer Widerspruch in ihr selbst, der christlichen Religion, mitge ſtiftet worden; oder: es ist der göttliche Geist, dadurch daß er den menschlichen Geist oder mehr als Ein menschliches Bewußtseyn mit sich einigt, nicht mit sich selbst im Widerspruch; es sind mannigfaltige Gaben und Kräfte, aber es ist Ein Geist.
+
+Nach dieser Seite hin ist das Läugnen der Theopneustie der Apostel die Meinung, ſte hätten in ihrer übrigens unläugbaren Individualität doch der in ihnen geż stifteten christlichen Religion gar nicht so Raum gegeben, ſondern ihr vielmehr gleich von Anfang an einen solchen
+
+Widerstand geleistet und sie im Wesentlichen gleich so alterirt, [p. 368] daß nun durchaus nicht nur kein Verlaß auf ihre Berichte und Lehren, sondern so ziemlich Alles aus individuellen, localen und temporellen Ursachen zu erklären sey.
+
+##### §. 575.
+
+Nach der andern Seite hin bezieht sich der Begriff der göttlichen Eingebung auf die Propheten und Apostel ganz anders, als auf alle andere Menschen, er bezieht sich nicht auf jeden frømmen oder exaltirten Zustand, auf irgend einen Zustand des Glaubens und Wissens, sondern nur auf die Stiftung der wahren Religion. Dem obgleich ohne alles Verhältniß des menschlichen Geistes zum göttlichen nirgends die Religion in der Welt wahrhaft ist oder Wahrheit hat, so hat doch keiner, in welchem die wahre Religion nicht zuerst objectiv und gestiftet wird, sondern der nur subjectiv in die gestiftete aufgenommen wird oder darin zunimmt, irgend etwas durch Inſpiration, sondern nur durch Tradition, Instruction, Information und wie auch der göttliche Geist sich in ihm oder ihn bewege im Glauben und Wifsen, so hat es doch an der Uebereinstimmung mit dem gegebenen Inhalte der Religion allein seine Wahrheit.
+
+Denn nicht das Daseyn, sondern nur der Ursprung und Uebergang der göttlichen Wahrheit in die Objectivität ist bedingt durch göttliche Eingebung; je mehr ſie hingegen ins fromme Gefühl eingeht, wird sie zwar lebendige Aneignung, auch desto individueller und fällt zuletzt ganz nur der Subjectivität anheim.
+
+Nicht also alle und jede Spiration · des götttlichen Geistes ist Inspiration, nicht alles durch den -göttlichen Geist gegebene ist darum schon eingegeben: jede vorgebliche Inspiration in der christlichen Kirche ist die Anmaßung, als sey nicht in und mit der christlichen Religion an sich, sondern erst später, erst jetzt die wahre Religion in der Welt gestiftet worden.
+
+##### §. 576.
+
+[p. 369] §.
+
+576.
+
+Die Inspiration ist also nach der einen Seite hin we der das absolute} Wiſſen Chriſti, ſondern das durch die Individualität und Mannigfaltigkeit noch bedingte und nur in dieser absolut und sich selber gleich, noch auch nach der andern Seite hin nur ein frommer Affect und exaltirtes Gefühl. Die Einheit und Wahrheit beider Seiten ist in der Inſpiration der Apostel das menschlich vollkommenste Bewußtseyn der in ihnen gestifteten göttlichen Wahrheit. Nicht also auch bloße Maschinen und seelenlose Organe waren die heiligen Männer, welche des Geistes Gottes in so ganz außerordentlichem Maaße gewürdiget wurden; nicht dem Göttlichen in sich mußten sie entsagen, um das Göttliche über sich zu erringen.
+
+Die Inspiration ist nicht ohne Adspiration zu denken, vielmehr in der freiesten und lebendigsten Selbstthätigkeit gegründet; sie ist kein Raptus, keine tolle Ekstase, nie und nimmermehr war sie mit dem Verlust des Verstandes und der Vernunft, der Besonnenheit oder des Bewußt seyns verbunden. Vielmehr kann der göttliche Geiſt in dem menschlichen gar nicht anders seyn, denn in und als Vernunft und nur in ihm ersteigt sie den höchsten Gipfel ihrer Kraft und Wahrheit. Es ist demnach auch vollkommen eins, ob man sagt: das Bewußtseyn Gottes und der göttlichen Wahrheit war in den Aposteln als Inspiration, oder ob man sagt: es war in ihnen auf die´allervernünftigste Weise, und nur dadurch unterscheidet sich das Bewußt seyn Gottes, wie es in allen andern Menschen ist, von der Inspiration der Apostel, daß es in keinem von jenen je ſo vernünftig war oder ist, als in diesen.
+
+§.
+
+Marc. 12, 34.
+
+577.
+
+Es hat sich nun in dem Bisherigen die Nothwendigkeit, Wahrheit und Wirklichkeit der göttlichen Eingebung aus dem Begriff der wahren Religion, welches der wahre Aa
+
+[p. 370] Begriff der Religion ist, ergeben.
+
+Sie ist an dem Worte
+
+Gottes die nothwendige göttliche Form seines göttlichen Inhalts, deren Identität der göttliche Geist ist.
+
+Sie ist der
+
+Ursprung des göttlichen Wortes in der Gemeinde und identisch mit der Stiftung derselben.
+
+Von dieser Seite her hat es, nun auch das Wort der Gemeinde oder das göttliche Wort in ihr zugleich menschlich, ſeine Heiligkeit; als dieſe heilige Schrift war es bereits im Geist der Gemeinde, in ihrem Glauben und Lehren, auch ehe es in die Bibel des Neuen Testaments einging und schriftlich verfaſſet `wurde. Ja daß dieses geschehen konnte, und es die Heiligkeit, die es vor der Bibel und ohne dieselbe hatte, auch in ihr behielt, hat ebendarin ſeinen Grund, daß die Apostel des unmittelbaren Beistandes des heiligen Geistes, dessen sie zur Stiftung der Kirche in ihnen und zur mündlichen Verkündigung des Evangeliums sich erfreuten, auch zu jeder anderweitig nöthig gewordenen Mittheilung des göttlichen Wortes, und ſomit auch zur Aufzeichnung der Lehre und Geschichte Jesu Christi gewürdiget wurden.
+
+§.
+
+2. Tim. 3, 16.
+
+578.
+
+Hierin liegt aber nun zugleich 1. die Unabhängigkeit des göttlichen Geistes und Wortes an sich oder der Stiftung der christlichen Religion und Kirche von der geschriebenen Lehre derselben; sodann 2. der Ursprung der Bibel aus dem Bedürfniß der Menschen oder aus kirchlicher Ueberlieferung; und 3. die Einheit der Bibel und Kirche in dem einen und selbigen göttlichen Geiste. Indem der Begriff des Wortes Gottes sich nun auch noch durch die Bibel hindurch bewegt, hat er diese drei nothwendigen Bestimmungen an ihm selbst, und ist darin erst der concrete Begriff oder auch biblisch bestimmt.
+
+##### §. 579.
+
+1. Die Offenbarung, das Wort Gottes, die Geschichte
+
+[p. 371] Von den Gnadenmitteln.
+
+und Lehre Jesu Christi, die apostolische Predigt und Verkündigung der christlichen Lehre war, noch ehe irgend etwas davon aufgezeichnet war. Zur Stiftung der christlichen Religion gehörte nur, daß das Wort Gottes von dem, der es felber war, sich mittheilte und ſeine göttliche Form, den ursprünglichen Geist nicht verläugnete in denen, in welchen die Kirche gestiftet ward. Die Bibel, als eine von Menschen geschriebene Schrift und Sammlung solcher Schriften, ſeyen sie auch noch so göttlichen Inhalts, kann in dieser Form kein unmittelbares und ´nothwendiges Verhältniß haben zur Religion, weder eine poſitive, noch eine negative Bedingung seyn von der Göttlichkeit der Religion selbst. Denn dadurch, daß die göttliche Lehre auch fixirt wurde in der Sprache und dem Buchstaben der Schrift, wurde sie nicht erst göttlich; sonst wären die Verfasser der Schrift eigentlich die Stifter der Religion gewesen. Gehörte die Existenz des Wortes Gottes in der Bibel so wesentlich mit zum Wesen der Religion, als das Wort Gottes selbst, so hätte Chriſtus auch die Bibel stiften müssen: sonst hätte er die Stiftung der Religion unvollendet gelaſſen. Joh. 14, 16. 26, 15. 26. 17, 7. Luc. 12, 11. 12. Matth. 10, 19. 20.
+
+##### §. 580.
+
+Wäre die Bibel an sich einerlei mit, dem Wort Gottes, welches in ihr ist, so wäre sie Gott: denn das Wort Gottes ist nicht verschieden von Gott.
+
+Sie ist aber als Bibel nur die entstandene Urkunde von der Stiftung der wahren Religion.
+
+In dieser ihrer Entstehung verläugnet ſie nicht die Zufälligkeit alles dessen, was den Grund seines Daseyns in äußerlichen Veranlaſſungen hat, das Gelegentliche der Abfaffung ihrer einzelnen Bestandtheile, denn Niemand kann behaupten, sie hätte gerade nur aus soviel, und nicht aus mehr oder weniger Schriften bestehen müſſen. Niemand kann läugnen, daß eine kürzere oder längere Zeit Aa 2 [p. 372] verfloß zwischen der mündlichen Lehre und der schriftlichen Aufzeichnung derselben, wie auch, daß in ſich abgeſchloſſen der Kanon erst im vierten Jahrhundert erscheint. Deswegen, weil die Schriften des Neuen Bundes noch nicht vorhanden oder gesammelt waren, war die christliche Religion in ihrer Stiftung nicht unvollkommen oder unzulänglich, noch auch die Verbreitung des Chriſtenthums in der Welt unmöglich.
+
+Denn hatte man wahres Christenthum in den erſten drei Jahrhunderten nur, wo man heilige Schriften hatte, so war es fürwahr sehr selten. Ja billig müſſen wir uns mit Frendus fragen, woran wir uns wohl zu halten haben würden, falls die Apostel nichts geschrieben. Denn war es auch eine weise und heilige Fügung Gottes, daß es geschah, so war es doch keine solche Nothwendigkeit, daß ohne die schriftliche Lehre die Stiftung der christlichen Religion unmöglich gewesen wäre. Auch noch jezt wird das Leben im Glauben in dem Einzelnen nicht durch das Leſen der Bibel gestiftet, sondern durch das Sacrament und die mündliche Lehre.
+
+Es läßt sich nicht beweisen, daß man in den ersten Zeiten der christlichen Kirche dèn Glauben derselben aus der Bibel geschöpft oder auch nur nach ihr bestimmt und normirt hätte, sondern nach der kirchlichen Glaubensregel geschah es, welche als der ursprüngliche Inbegriff und Ausdruck des christlichen Glaubens in lebendiger, münd licher Ueberlieferung existirte. Joh. 10, 35. 1. Petri 1, 24.
+
+1. Joh. 1.
+
+§.
+
+Marc, 13, 31.
+
+1. Theſſ. 2, 13. 2. Theff. 2, 15.
+
+581.
+
+Nicht also ein Bedürfniß des göttlichen Geistes Jesu Christi oder des göttlichen Wortes an sich und zu deſſen Daseyn ist die Bibel, noch auch einerlei mit der Stiftung der Gemeinde war die Stiftung der Bibel, sondern lediglich ein Bedürfniß der Gemeinde, der Menschen in ihrem Verhältniß zu einander.
+
+Als dieses war es aber nicht bloß ein [p. 373] äußerliches, menschliches, sondern auch ein inneres und heiliges.
+
+Es ist also 2. der Ursprung der Bibel in beiden Beziehungen zu erkennen. An ihrer menschlichen Seite zeigt sich die Bibel als aus dem kirchlichen Bedürfniß entstanden und nicht gleichzeitig mit der Kirche selbst, wie überhaupt alle schriftliche Tradition später ist, als die mündliche. Erst nachdem durch die christliche Religion sich das Leben in der Gemeinde erweiterte und entwickelte, war es ein unumgänglich Bedürfniß derselben, wie bisher mündlich, so auch ſchriftlich auf einander zu wirken. Die Art, wie die durch Christum in seinen Aposteln gestiftete und von ihnen in der Glaubensregel zufammengefaßte Lehre allein verkündiget werden konnte, brachte es nothwendig mit sich, daß sie mit den Geschichten des Herrn und seiner Apostel bald auch ſchriftlich verzeichnet wurde: denn weder zureichend, noch sicher genug war der Weg der mündlichen Ueberlieferung.
+
+##### §. 582.
+
+Nicht zureichend, weil die mündliche Rede durch persönliche Gegenwart bedingt, durch Zeit und Raum beschränkt und gehemmt ist.
+
+Die Schrift hingegen fixirt die Rede auf eine bleibende Weise und gelangt in die entferntesten Gegenden und Zeiten.
+
+So wie sich nun der Kreis der Gläubigen erweiterte, mußte sich auch das Bedürfniß, auf diese Weise Verbindungen zu knüpfen und zu unterhalten, selbst aufdringen.
+
+Nicht sicher, weil Menschen mit und ohne Absicht der göttlichen Wahrheit nur zu leicht ihre menschlichen Gedanken beimischen und sie mit diesen verwechseln und sie also als Eigenthum ihnen mehr oder weniger wieder verloren gehen konnte. Nicht ohne Nachdruck ſpricht daher Lucas von der Sicherheit, die er durch sein Evangelium bewirken wollte. Luc. 1, 15. Phil. 3, 1. 2. Petri 1, 15.
+
+2. Joh. 12.
+
+3. Joh. 13.
+
+[p. 374] §.
+
+583.
+
+So menschlich als das Bedürfniß, ist auch die Erscheinung der Bibel. Das Wort Gottes in ihr hat zu seiner Bedingung und Umgebung das Wort der Menschen;
+
+sie hat nicht nur den göttlichen Inhalt in menschlicher Form, sondern auch menschlichen Inhalt im Unterschiede vom göttlichen. Dieses bei aller Inſpiration der heiligen Autoren übrig bleibende Subjective, Locale und Temporelle, welches nicht rein aufgeht in dem göttlichen Inhalt, iſt das nicht eingegebene. 11, 17.
+
+Apoftg. 20, 25. Joh.
+
+1. Cor. 16, 5. 7.
+
+16, 12. 13.
+
+2. Cor. 1, 15.
+
+Die menschliche Form des göttlichen sowohl, als menſchlichen Inhalts iſt die des Buchſtabens, des ſinnlichen und zeitlichen Worts, ſammt dem durch den menschlichen Geist, durch ein bloßes Bewußtseyn seiner selbst, der Welt und Natur erreichbaren Verſtändniß desselben.
+
+In dieser Hinsicht ist die Bibel offenbar zu behandeln, wie jedes andere menschliche Buch, es findet ein grammatiſches, philologiſches, antiquarisches Forschen statt, und wie man bei allem äußerlichen nur durch dieses zum Innern gelangen kann, so muß auch diese Seite der - heiligen Schrift vor allem aufs ſorgfältigste behandelt werden. Es gehört dahin, was die Art und Zeit ihrer Entstehung, das Verhältniß der einzelnen Schriften zu einander und zum Ganzen, die Gestalt des Textes, der Uebersetzungen, Beschädigungen desselben betrifft, kurz alles, worauf sich ein kritisches Forschen über Authentie und Integrität beziehen kann. An dieser Seite hat der Geist der Menschen, wie der Geist der Zeit und des Volkes ſeinen Eingang in die Bibel, wie in jedes andere menschliche Buch, gefunden und hiedurch steht sie in einem ausgebreiteten Zuſammenhange mit der Weltgeſchichte, und macht ein ebenso ausgebreitetes historisches Wissen unentbehrlich.
+
+[p. 375] §.
+
+584.
+
+Das Bedürfniß zu schreiben war aber auch ein heiliges; es hatte zum Inhalt und Zweck, den wahren Glaus den an Christum, dessen Geschichte und Lehre, wie auch die Geschichte der ersten Gemeinde selbst, allen Zeiten und Völkern zu überliefern und alſo ein bleibendes Denkmal, eine schriftliche Urkunde von der Stiftung der wahren Religion und Kirche selber zu stiften.
+
+In dieser Hinsicht war es eine unaussprechliche Wohlthat Gottes und unverkennbare Bewegung seines Geistes, wenn er, der sich den Menschen durch Christum vor der Bibel und ohne die Bibel offenbarte und durch welche nicht erst die Kirche gestiftet, sondern welche selbst erst durch die Kirche gestiftet wurde, nun auch in ihr und durch sie sich offenbarte und so gleichsam der erste und heiligste Moment aus der Geschichte der Kirche, da die authentische Lehre derselben noch in ihrer ursprünglichen Reinheit und Lauterkeit war, sich für alle Zeiten fixirte.
+
+Wenn also auch nicht auf die Stiftung, so hat sie doch auf die Erhaltung der Kirche, wenn auch nicht auf das Daseyn, so hat sie doch auf die Reinheit und Aechtheit der christlichen Lehre eine unverkennbare Beziehung und zu allen Zeiten den segensreichsten Einfluß gehabt.
+
+##### §. 585.
+
+Wie nun die christliche Religion, um überhaupt zu seyn oder wahr und göttlich zu seyn, an und für sich keiner
+
+Schrift bedurfte, so bedurfte zwar eine Schrift und Samınlung von Schriften, um von Gott und göttlichen Dingen zu handeln, der Religion oder eines göttlichen Inhalts, aber hiezu noch keinesweges göttlicher Eingebung: denn wieviele Religionsschriften sind, die darum noch nicht auf Inſpiration Anspruch machen. Sondern nur, wenn die, in de nen die Religion gestiftet war und welche auch ohne Schriftsteller zu seyn, göttlicher Inspiration gewürdiget waren,
+
+[p. 376] Schriften verfaßten, mußten auch diese an ſich menschlichen Schriften diesen göttlichen Character in Form und Inhalt gewinnen. Jene Nothwendigkeit aber ist bereits als eine mit der Stiftung der Kirche selbst identische erkannt worden, und sie erstreckt sich durch diese nun auch auf die Abfassung heiliger Schriften.
+
+Diesen Character der Heiligkeit also hat die Bibel in ihrem göttlich-menschlichen Inhalt dadurch, daß sie von denen stammt, in denen die wahre Religion zuerst göttlich gestiftet und an die ſie vor ihrem Schreiben schon nicht ohne göttliche Eingebung gekommen war. Denn hierin allein liegt die Nothwendigkeit der göttlichen Eingebung, welcher ſie auch als Verfaſſer der Schrift nicht ermangelten. Apftg. 15, 23. Ephef. 3, 3.4.5. 1. Cor. 2, 9. 10.
+
+##### §. 586.
+
+Und worin bestand diese Theopneustie der Verfaſſer der Schrift? darin, daß sie auch bei dieſem Geſchäft der nämlichen Klarheit, Sicherheit und Lebendigkeit im Bewußtſeyn der wahren Geschichte und Lehre Jesu Christi sich zu ers freuen hatten, daß also ihr menschlicher Geiſt in allem wesentlich göttlichen dieser Geschichte und Lehre von dem göttlichen Geiste nicht verlassen war, der in ihnen den wahren Glauben gestiftet hatte, darin, daß ihr zeitliches, äußerliches, menſchliches Wort der reinste Spiegel und Wiederhall des Bewußtseyns und Wortes Gottes in ihnen, und der vollkommenste Ausdruck des durch den göttlichen Geist auf sie gemachten Eindruckes war.
+
+Nicht also sie sind es, die da reden, sondern der Geist Gottes selbst, aber durch sie. Ihre Schriften haben nicht sie allein, sondern Gott zugleich zum Urheber und wer bekennt, die heiligen Autoren hätten die reinste, klarste, vollkommenste Erkenntniß der von Gott ges offenbarten Wahrheiten, wer findet, hie oder da spreche in der Schrift das menschlich vollkommenste Bewußtseyn Gottes und der göttlichen Wahrheit an, der behauptet zugleich [p. 377] ihre Inspiration: denn glaubend an Gott den Geist und die göttliche Stiftung der wahren Religion in ihnen kann er nicht anders, er muß die Schrift in jenen Beziehungen eine heilige nennen, ganz in dem Sinne, in welchem Gott der heilige ist.
+
+##### §. 587.
+
+So hervorgegangen aus dem Geiſte, welcher nicht so der göttliche ist, daß er nicht auch der menschliche wäre und nicht so der menschliche, daß er nicht zugleich der göttliche wäre, mithin so hervorgegangen aus der ersten Gemeinde
+
+Christi, wie sie selbst aus seinem göttlichen Geist, ist die heilige Schrift die lebendige Analogie der Menschwerdung Gottes, und wird die Kirche betrachtet als der Leib Chriſti, in welchem ſein Geist wohnt, ſo läßt sich auch von der Bibel ſagen, ihr Buchstabe sey der Leib seines Geistes: nur, daß er, der an sich todte und bewußtlose Buchstabe, den Geist außer sich hat. Daß daher das Wort Gottes in der Bibel eine heilige Schrift sey, das kann nicht aus ihr oder daher allein gewußt werden, weil sie es sagt, sondern weil der Geist es sagt, welcher die Einheit des innern und äußern Wortes ist. Nur von daher wissen wir, welch ein Unterschied sey, und worin er bestehe zwischen der Bibel der Christen und dem Koran oder Zend - Avesta, dem Vedam und Upnekhat, und daß Muhammed ein falscher Prophet, wenn er sich göttlicher Eingebung rühmt.
+
+Wenn in der heiðnischen Welt das ewige Wort Gottes in den Seelen der Menschen wirksam eines äußeren, ihm ganz entsprechenden geschriebenen_Wortes, einer heiligen Schrift entbehrte, so entstand hingegen dieſe, da ſich die wahre Religion ſtiftete, wie durch den ewigen Sohn Gottes schon in Mose und den Propheten, am vollkommenſten aber in der Fülle der Zeiten, da das Wort Gottes selbst Fleiſch ward.
+
+[p. 378] §.
+
+588.
+
+So aber hervorgegangen aus dem heiligen Geiste der Kirche steht die Bibel auch im innern und wesentlichen Verhältniß zu ihm und ihr, und ist demnach jetzt noch
+
+3. die Einheit beider zu betrachten.
+
+Die Kirche enthält auch, nachdem die Bibel entstanden ist, den wesentlichen göttlichen Inhalt derselben in ihrem Glauben und Lehren in mündlicher, ungeschriebener Weiſe, und diese můndliche Ueberlieferung des Wortes Gottes ist durch die ſchriftliche nicht abgeschaft worden, sondern ebendazu vornämlich das christliche Lehramt eingeseßt, den lebendigen Geiſt und Sinn der Schrift von einer Zeit auf die andere fortzupflanzen. An diesem Geiſte, der in der Gemeinde lebendig ist, hat die Schrift ihre glaubensgemäße Auslegung; die kirchliche Glaubensnorm enthält den Schriftverſtand in allen wesentlichen Wahrheiten des Heils.
+
+Andrerseits muß die menschliche, mündliche Ueberlieferung • des christlichen Glaubens sich stets im Einklang erhalten mit dem göttlichen Inhalte der Schrift, und hat diese daher die Dignität der schriftlichen Glaubensnorm für alles, was in der Kirche gelehrt oder geglaubt werden mag. So bewähren und be wahrheiten Kirche und Schrift sich gegenseitig.
+
+Die Einheit des geschriebenen und ungeschriebenen Wortes an sich ist der göttliche Geist: in diesem Geiſte der Wahrheit und Heiligkeit, der sich mündlich und schriftlich überliefert, haben beide ihre Wahrheit und Heiligkeit.
+
+##### §. 589.
+
+Für den Glauben und einen Jeden in der Gemeinde der Gläubigen ist die“ ungeſchriebene und geschriebene Lehre des Wortes Gottes die nächste Quelle aller seiner chriſtlichen Erkenntniß:
+
+es muß zunächst der Geiſt Gottes von außen, auf dem Wege der Erfahrung und des Unterrichts sich ihm überliefern und die Lehren und Geschichten des Chri-
+
+[p. 379] ſtenthums in traditioneller Weiſe an ihn bringen. Der Glaube hat an Kirche und Schrift zwei äußere Autoritäten und er ist selbst der Glaube an diese Autorität, und hiemit Glaube an die Wahrheit an sich und wahrer Glaube.
+
+Für die ka techetische und homiletische Unterweisung im Worte Gottes reicht dieses vollkommen aus.
+
+Entsteht hingegen im Glauben das Bedürfniß, ſich in beſtimmter Erkenntniß zu unterscheiden vom Aberglauben und Unglauben, hat jener angefangen, zu lehren, mit dem Abschluß des Kanons habe der göttliche Geist die Endschaft seiner Thätigkeit erreicht und aus der Schrift allein sey der Beweis ihrer göttlichen Eingebung und jeder andern Glaubenswahrheit zu führen (in welchem Falle auch wohl eine Milbe, die an dem ursprünglichen Papier ein dictum probans zernagte, eine göttliche Wahrheit zerstören konnte) und wird andrerseits die heilige Schrift jeder profanen gleich gestellt, ja eine heilige Schrift in der Bibel gar nicht mehr anerkannt, sondern sie selbst zu Menschenwort und Menschensaßung herabgefeßt — dann reicht das Prinzip der kirchlichen oder schriftlichen Autorität nicht mehr aus, und es genügt dem denkenden Geiſte nicht, ihm zu sagen, die Wahrheit sey ja schon von andern geſagt, ja ſogar aufgeschrieben.
+
+##### §. 590.
+
+Eben dasselbe zeigt sich in der durchgreifenden Entzweiung der christlichen Kirche, als römisch-katholische und evangelische.
+
+In diesem Gegensatz wird dort in der mündlichen, hier in der schriftlichen Ueberlieferung vorzugsweise der Standpunct der Erkenntniß und Lehre genommen, dort die Schrift gegen die kirchliche Ueberlieferung, hier die Ob jectivität des Glaubens in der Gemeinde in Vergleich mit den subjectiv verstandenen Aussagen und Berichten der Schrift in Schatten gestellt.
+
+Geht der Gegensatz in die ſectirerische
+
+Beschränktheit und Spannung über, so heißt es dort: nur [p. 380] auf einen beſtimmten und geſchloſſenen äußerlichen Zuſammenhang und auf ein besonderes äußerliches Bekenntniß be schränke der Geist Jesu Chriſti ſich selbst mit seiner Ueberlieferung.
+
+Es kommt zu mehr als jüdiſchem Particularismus, der die Beschränktheit des eigenen Geiſtes ſelbſt in den unbeschränkten göttlichen Geiſt ſeßt und seine ewig freie Gnade und Wirksamkeit an allerlei Aeußerlichkeiten und Armseligkeiten bindet: wer die nur mitmache, heißt es da, könne des göttlichen Geistes und Wortes und der Theilnahme daran und seiner Seligkeit gewiß und sicher seyn.
+
+Auf der andern Seite zeigt sich dieselbe Beſchränktheit darin, daß der Geist an den Buchstaben des Wortes gebunden,
+
+Buchstabe über den Geiſt erhoben, die göttliche Offenbarung auf die Bibel beschränkt und das Siegel der Wahrheit darin allein gefunden wird, daß ſie geſchrieben ist.
+
+Es wird nicht anerkannt, was der göttliche Geiſt in seiner Gemeinde lebendig in unendlich wechselnden Formen außer der Schrift und neben der Schrift an göttlichen Erkenntnissen érzeugt und ebenso wahr und heilig ist, als das Wahre und Heilige in der Schrift, indem es nur nicht gegen dieselbe ist, sondern mit ihr übereinstimmt.
+
+##### §. 591.
+
+Das Vorhandenseyn solcher Gegensäße treibt nun nothwendig über sie selbst hinaus und läßt den forschenden Geist in ihnen selbst kein Heil und keine Ruhe finden. Indem beide im Widerspruch mit einander stehen, weiſet dieſer ſelbſt hin auf ein höheres, worin er aufgehoben ist. Durch die Reflexion ist der Widerspruch auf beiden Seiten entſtanden, und durch sie allein kann er auch wieder gehoben und beseitiget
+
+Dieses geschieht allein so, daß auf den Ursprung der Kirche und Schrift aus dem gemeinſamen, göttlichen Geiste zurückgegangen und die Einheit des innern und außern Wortes, in ihren Vorstellungen auseinander gefallen, im Begriff wieder hergestellt wird.
+
+Hiemit hat der Glaube
+
+ſich nicht getrennt von seinem wesentlichen Inhalte, aber er ist über seine bestimmte Form hinausgegangen und so im Wiſſen. In ihm erst hat der Geiſt ſeinen Frieden und ſeine Befriedigung, und so die Wahrheit auch ihre Gewißheit erreicht in der Wiſſenſchaft.
+
+## Drittes Hauptstück. Von der ewigen Seligkeit.
+
+##### §. 592.
+
+Der Endzweck aller Religion ist die ewige Seligkeit: aber als Zweck ist sie der Begriff der Religion selbst und von ihr selbst in keinem ihrer Momente verschieden.
+
+ewige und selige Leben ist das Leben Gottes selbst, in der Religion dem Menschen offenbar und erreichbar gemacht: sie als Bewußtseyn Gottes von Gott nicht getrennt oder trennend, ſondern mit ihm vereinigend, ist die Theilnahme an göttlicher Seligkeit. Joh. 3, 15. 17, 3. 4, 15. 6, 54. 1. Joh. 5, 11. Rom. 8, 6. Wahrhaft wirklich und ob jectiv in der Kirche ist außer. ihr keine Seligkeit; das Leben außerhalb alles Bewußtseyns Gottes in seiner Gemeinde ist das unſelige Leben.
+
+Das Leben in Gott und seiner Gemeinde ist aber nicht das Leben in irgend einer geographischen und statistischen Aeußerlichkeit, sondern das Leben im Geist, d. i. in der Wahrheit und Liebe.
+
+##### §. 593.
+
+Selig zu seyn vermag zunächst nicht das natürliche Da seyn oder Naturseyn an sich: denn dieses ist nur Erscheinen, nicht Seyn: das reine Seyn, noch ebenso sehr das [p. 382] Nichtseyn, ist eben sosehr die mit der Unseligkeit identische Seligkeit.
+
+Die Natur in ihrem Daseyn des Bewußtſeyns ermangelnd, ist die seufzende Kreatur, und hat in dieſem ihrem Mangel nur Traurigkeit. Rom. 8, 1922. Auf der Stufe des gedankenlofen Seyns bricht wohl das Leben hervor: aber es ist als solches noch weder selig, noch unselig. An sich zwar ist Leben, Gefühl des Seyns, Seligkeit und Seligkeit Leben. Noch aber nicht für sich, oder zu sich gekommen, ist es das noch selbstloſe Seyn, der Begriff in feinem Uebergange aus dem Organiſchen ins Animaliſche oder empfindende Daseyn und darin entweder freigelaſſen oder gehemmt; `jenes ist das Angenehme, die Luſt, dieses das Unangenchme, die Unluſt.
+
+Das Wahrnehmen ist zugleich das Annehmen und das Angenehme ſomit Bewahrheitung des Lebens.
+
+##### §. 594.
+
+Das Selbstseyn kommt zu sich erst im Bewußtſeyn, im Ichseyn, und ist als dieses denkendes und wollendes Selbst.
+
+In dieser Gestalt persönlich, von sich wissend und freithätig ist es erst der Seligkeit fähig.
+
+Aber als endliches
+
+Selbst nur sich im Bewußtseyn beziehend auf das Endliche und dieſes außer ſich in ſich ziehend mittelst des Gefühls, ist die erreichte Seligkeit nur Glückseligkeit. Glückliche ist durch Gefühl und Bewußtseyn über die bloße
+
+Empfindung des Angenehmen hinaus.
+
+Das Glück und die
+
+Glückseligkeit ist aber zugleich das Endliche und Beschränkte, und hiedurch das glückliche Bewußtseyn zugleich noch das unglückliche. Diese Identität des Besitzes und Mangels, des Glückes und Unglückes ist im Glück der Mangel der Seligkeit. Nur das Ewige iſt das Selige, beides nur als das Wahre: das wahre und ewige Leben allein ist das selige: als dieſes aber ist es die wesentliche Bestimmung des Geistes.
+
+##### §. 595.
+
+Diese Bestimmung ist aber, sofern der Geist noch die Natur an ihm hat, durch sie bedingt und beschränkt iſt, zunächst nur deſſelben Berufung und Unmittelbarkeit oder die Möglichkeit der Seligkeit, in der Vernunft und Freiheit enthalten, aber im Sinn und Verstand noch verborgen, und so im Unterschiede von der göttlichen Seligkeit. 2. Theff. 2, 13.
+
+2. Tim. 1, 9.
+
+Dieser Unterschied geht in den Widerspruch und die Entzweiung und ist so die Unseligkeit.
+
+Die Seligkeit des Geistes, welcher Mensch ist, ist die Aufhebung des Widerspruchs, der Zwietracht mit Gott und mit sich selbst, die Versöhnung und der Frieden mit Gott und mit sich selbst. Tit. 3, 5. Matth. 18, 11. 1. Tim. 1, 15. Es hat somit die Seligkeit des Christen zu ihrer negativen Bestimmung die Unseligkeit, ist wesentlich das Herauskommen aus dieser, Erlösung, Befreiung und Befriedigung und hiemit erst in ihrer Wirklichkeit, so auch in dieser Vermittelung oder durch den Mittler ihm geworden, mehr als die unmittelbare.
+
+2. Cor. 7, 10.
+
+Diese Vermittelung ist die Reli ligion und sie für ihn die Quelle aller Seligkeit. Sie stif tet in ihm Glauben und Liebe, und nur in Glauben und Liebe ist Seligkeit.
+
+Col. 3, 4.
+
+§.
+
+Phil. 1, 21.
+
+596.
+
+Der Glaube, als das Erkennen des Wahren und die Liebe, als das Thun alles Guten, ist die Verwirklichung der Vernunft und Freiheit, deren Einheit der Geiſt ist; nur als der vernünftige, freie Geist ist er der selige.
+
+Es ist aber die Vernunft, welche Gott als die Wahrheit erkennt und die Freiheit, welche an Gott, als der ewigen Liebe, ihren Gegenstand hat, worin sich das Göttliche, als das Wahre und Gute verwirklicht, woran der Geist seine Seligkeit hat Sich, in der und Theil nimmt an göttlicher Seligkeit. Identität der Wahrheit und Heiligkeit, als den seligen Geist [p. 384] ihm mittheilend fließt dem menschlichen Geist alle Seligkeit Wie sie aber in Gott nichts von der Wahrheit und zu.
+
+Güte verschiedenes, sondern eben nur die Einheit beider ist, ſo iſt Seligkeit zu erringen dem endlichen Geiſte nur vergönnet durch das Leben im Wahren und Guten. In der Abſonderung von beiden finket die Seligkeit zur Glückseligkeit, ja zur Unseligkeit selbst herab. In und mit dem Leben im Wahren und Guten befindet der Geist sich im Reich
+
+Gottes, welches das Reich der Seligen iſt. 1. Joh. 3, 2.
+
+Matth. 18, 11.
+
+§.
+
+1. Cor. 13, 12.
+
+Apstg. 4, 12.
+
+Luc. 6, 20.
+
+597.
+
+Wenn die christliche Religion dies Himmelreich, dies
+
+Reich der Seligkeit, als ein Jenseits vorzuſtellen ſcheint, ſo hat diese Vorstellung ihre Wahrheit an der Menschwerdung Gottes, durch die das Jenseits zum Dieſſeits geworden und das Himmelreich auf die Erde gekommen und an der Versöhnung, wodurch die Welt in den Himmel erhoben worden und ist sonach nichts anders, als der reine Ausdruck der innern Unendlichkeit des Lebens im Glauben und Liebe und der nur allmählichen Vollendung und ſubjectiven Aneignung der Versöhnung und Genugthuung, welche objectiv in Christo Jesu geschehen ist.
+
+Von seiner Seite, oder gött, lich vollendet, ist das Versöhnungswerk menschlich oder in seiner Beziehung auf alle andere Menschen noch unvollendet: die Versöhnung geht fort durch alle Zeiten und hat ihr Ziel erst am Ende der Tage.
+
+Dieses Ende ist aber dem Anfang gleich und wie die Versöhnung nicht so gestiftet worden, daß sie an sich noch gar nicht gewesen wäre, so hat sie auch ihr Ziel nicht so, daß sie aufhören könnte, zu seyn, was ſie ist. Als die ewige Erlösung aber ist in ihr zugleich enthalten die Ewigkeit des Geistes.
+
+##### §. 598.
+
+Den nächsten und stärksten, im eigentlichen Sinne natürlich- türlichsten Widerspruch hat die Ewigkeit des Geistes an dem Sterben des Menschen und in der Beziehung darauf bestimmt sie selbst sich als Unsterblichkeit. Die Lehre von der Unsterblichkeit kann sich zunächst auf der Stufe des sinnlichen Bewußtſeyns halten, und ist darin der Unendlichkeit menschlicher Meinungen und Vorstellungen preisgegeben. Sie fällt auf diesem Wege ganz der Subjectivität anheim und ihr objectiver Gehalt oder Begriff löset sich darin auf. Es ist nicht der Geist, welcher göttlichen Urstandes, der da der Unsterblichkeit werth geachtet wird und somit nicht das Göttliche des Geistes, welches ihm seine Ewigkeit verbürgt, ſondern es ist die Seele nur, deren Unsterblichkeit da für wahr gehalten wird, obgleich die Einheit oder das Band des Geistes und Leibes, welches sie selber ist, im Tode sich löset.
+
+Es wird sich im sinnlichen Bewußtseyn, in Bildern und poetischen Schilderungen eine Unsterblichkeit vorgestellt, welche der Geist verſchmäht und höchstens zu dem negativen Resultat gebracht, daß die Seele nicht untergehe, weil sie keine Materie.
+
+Hiemit aber ist weder ihr wirkliches, ewiges Seyn, noch auch ihr Selig oder Unseligseyn dargethan. §.
+
+599.
+
+Im abstracten Bewußtseyn ist die Idee der Unsterblichkeit zwar aus der finnlichen Vorstellung heraus, in das reine Element des Denkens gelangt; aber sie ist nur eine sogenannte Idee, von der nichts näheres zu wissen und somit auch als Idee nur die vorgestellte, nicht die begriffene, nicht die Idee der gewußten Wahrheit und somit auch keine wahre Idee.
+
+In dieser Bewegung fällt sie vielmehr in sich
+
+Herunter zu einem bloßen Ideal, zu einem Wunsch oder einer Forderung, welche nicht in sich selbst, sondern um eines andern willen Nothwendigkeit, aber selbst so doch keine andere, als nur die des Denkens hat.
+
+Als ein solches Postulat der practischen Vernunft erscheint sie in der Bb
+
+[p. 386] Kantischen Philosophie, hat aber da mit dem Postulat der Freiheit und des Daſeyns Gottes daſſelbige Schicksal, daß es nur das Denken angeht und nicht das Seyn, die Einheit beider, das Wahrſeyn und die Wahrheit ausbleibt und es selbst somit beim bloßen Vorstellen bleibt.
+
+##### §. 600.
+
+In der christlichen Religion, durch welche die Einheit des göttlichen und menschlichen Geiſtes in der Person Jeſu Christi offenbar und wirklich geworden, ist ebenso sehr über das finnliche, wie über das abstracte Denken hinausgegangen.
+
+Durch Jefum Chriſtum erst ist Leben und Unsterblichkeit ans Licht gebracht. Joh. 8, 12. 1. Joh. 5, 12. 20.
+
+1,4.
+
+14,6.
+
+10, 28.
+
+Offenbar und wirklich aber ist nur, was an sich ist und dieſes iſt die Unsterblichkeit des menſchlichen Geistes in seinem innern und nothwendigen Verhältniß zum göttlichen; dieses ist das Anſichſeyn der Unsterblichkeit des menschlichen Geistes.
+
+Joh. 18, 9.
+
+1. Cor. 15, 53.
+
+Für ihn aber seyend ist sie das Bewußtseyn derselben, und dieſes ihm einerseits vermittelt durch die Wahrheit und Wirklichkeit des subjectiven Geistes, andrerseits des objectiven
+
+Geistes oder durch Jesum Chriſtum.
+
+Außer der christlichen
+
+Religion ist keine wahrhaftige und wirkliche Ueberzeugung von der Unsterblichkeit des Geistes möglich und nur, wie Jesus Christus unsterblich zu seyn und ihm auch darin nachzufolgen, kann das Ziel und die Bestimmung aller Geiſter seyn. Rom. 6, 4. 8, 6. 10, 11. 14, 7. 8. 2. Cor. 4, 10. Col. 3, 4.
+
+Phil. 1, 21.
+
+Apostg. 9, 6.
+
+##### §. 601.
+
+Alle Lehren der christlichen Religion über diesen Gegenstand schließen sich unmittelbar an das Bewußtseyn an, und die mannigfaltigen Vorstellungen derselben in der biblischen Tradition haben allein darin ihre Wahrheit, daß sie als Elemente des Selbstbewußtseyns im Begriff nachzuweisen sind. Hiemit geht die Wahrheit über die Vorstellung hinaus, welches leicht so erscheint, als sey die Wahrheit der Vorstellung nicht nur aufgehoben, sondern auch aufgeopfert, indeß sie selbst sich doch nur in ihr wahres Element erhoben hat. Es ist allgemein anerkannt, daß die Vorstellungen der schrifts lichen Ueberlieferung der Auslegung bedürfen, dieſe aber haben sie, wenigstens in den Glaubenslehren, nicht wieder an bloßen Vorstellungen, sondern an dem Begriff, als worin nicht nur die factische Wahrheit, daß nämlich in der Schrift diese bestimmten Vorstellungen vorhanden sind, sondern auch die dogmatische Wahrheit der Vorstellung selbst sich zeigen kann. Diese Lehre aber entwickelt sich dort in den drei Vorstellungen von der Auferstehung, vom jüngsten Tag und Gericht.
+
+##### §. 602.
+
+Die Lehre der heiligen Schrift von der Auferstehung der Todten kann nun zunächst wieder in der finnlichen Auffassung und Vorstellung stehen bleiben, welche sie selbst dort noch zum Theil an ihr hat, wo es nicht um den Begriff, sondern allein um die Wahrheit an sich zu thun ist, der die Form gleichgültig ist und die sich nur mit der Dars Das sinnliche Bewußtstellung der Vorstellung begnügt. seyn, unfähig, die Vorstellung von der Wahrheit àn sich zu unterscheiden, nimmt nun jene für diese und hält sich daran und denkt, der Lehre selbst sey es, wie dem sinnlichen Menſchen, nur darum zu thun, daß er nach seinem Tode nicht nur überhaupt einen Leib, sondern auch ebendiesen wieder haben solle. Wo die Idee der Seligkeit selbst noch nur die Vorstellung einer finnlichen, leiblichen, irdisch genießenden ist, kann wohl dem Geiste an nichts so sehr gelegen seyn, als eben diesen Leib, ohne den er solches Genuſſes nicht fähig wäre, wieder zu haben und ewig zu behalten. Dieses BeB62 [p. 388] dürfniß eines Leibes ist ein ganz sinnliches, sey auch der verlangte Leib noch so verklärt und vergeistigt.
+
+Ist die Seligkeit selbst noch so in das Irdische, Räumliche, Zeitliche und Vergängliche versenkt, so ist sie auch in das System aller endlichen Bedürfnisse verflochten, die bedürftige, entbehrende und somit die Unseligkeit selbst.
+
+Diesen Widerspruch bringt sich das ſinnliche Denken nicht zum Bewußtſeyn.
+
+##### §. 603.
+
+In der abstracten Erkenntniß, welche meiſtens die ſinnliche zu ihrer stillschweigenden Voraussetzung hat, als sen sie die Wahrheit der Auferstehungslehre, kommt das Denken noch nicht über das Vorstellen hinaus, sondern hält sich nicht weniger im ſubjectiven Fürwahrhalten, ist aber zugleich das Wiſſen unendlich vieler Meinungen darüber und bleibt von ihrem Gegenstande selbst noch entfernt und getrennt. In dieser Entfernung von ihm ist sie die historische Erkenntniß; als solche hält sie sich an die Dimenſionen der Zeit. So ist ihr die Auferstehung theils ein Vergangenes, wie die Auferstehung Jesu Chriſti, theils ein Zukünftiges, wie die allgemeine Auferstehung der Todten; die Gegenwart ist das kahle und leere, die bloße Vorstellung beider, Erinnerung und Hoffnung.
+
+So nur gewesen und künftig, aber an nichts, was iſt, ſich anschließend, ist die Auferstehung vom Tode ein dem Geist Fremdes und selber ein Todtes.
+
+##### §. 604.
+
+Der Begriff nun, indem er die Vorstellung in ſich aufhebt, hat seine Wahrheit allein an demjenigen, was sowohl in der geschehenen Auferstehung Christi, als in der zukünftigen Auferstehung der Todten das absolut gegenwärtige ist, und diesen Zusammenhang berührt der Apostel ausdrücklich. Luc. 24, 34.
+
+1. Cor. 15, 13. 14.
+
+Der an sich noch ganz negative Gedanke der Unsterblichkeit gewinnt Inhalt und hat seine poſitive Wahrheit in der Lehre von der Auferstehung.
+
+Hiemit aber tritt die Auferstehung der Todten aus ihrer scheinbaren Zukunft mit der Unsterblichkeit in die Gegenwart ein: denn was nicht an ſich ist, kann nimmermehr werden: sondern es ist allein das Werden dessen, was an sich ist, was sich als Zukunft heraushebt aus der Gegenwart, indem das Werden nothwendig das Nochnichtſeyn.
+
+ebenso sehr, als das Seyn an ihm hat.
+
+Sind also die
+
+Todten noch nicht auferstanden, so können sie auch nimmer auferstehn; nur, weil sie an ſich die Auferstandenen sind, werden sie auch auferstehen. Matth. 8, 22. Apoc. 20, 6. Ephef. 2, 1.
+
+##### §. 605.
+
+Die Auferstehung an sich ist die Identität des Lebens und Sterbens.
+
+Diese zeigt sich darin, daß nur das Lebende ſterben kann, das Sterbende dieses nur ist, sofern es das Lebende ist, das Leben selbst aber nur darauf ausgeht, daß es zum Sterben komme: denn die höchste Stufe der Reife des Lebens ist desselben nothwendiger Untergang. Ansichseyn der Auferstehung, welche nicht ist ohne den Untergang, ist aber nur die allgemeine, natürliche, noch nicht die Auferstehung des Geistes, sondern nur derselben Möglichkeit, aber in der Unwirklichkeit noch verborgen.
+
+In seinem
+
+Ansichſeyn ist der Geiſt selbst noch das nur Daſeyende und Werdende, das Lebendige und Natürliche, nicht der sich selbst erfassende, wissende Geist.
+
+Indem der Geiſt ſich zunächſt naturaliſirt und individualiſirt, hat er die Natur an ihm und geht erst so in die Existenz und Wirklichkeit ein.
+
+Daſeyende ist nur in dieser Vereinigung mit dem Geiſte das wirklich lebendige, an sich das Todte hat es Leben nur so, daß der Geist es an ihm hat; der Geist aber ist der wirkliche Geist nur so, daß er das Natürliche und an sich Todte, Beides vereinigt ist das als seinen Leib, an ihm hat. menschliche Leben in seiner Wirklichkeit.
+
+[p. 390] §.
+
+606.
+
+In seinem Ansichseyn noch ganz in der Form und Erscheinung verloren oder die Natur ist der Geist nur die nas türliche Möglichkeit der freien Bewegung und Auferstehung, die er erst zu sich kommend im Ich erreicht, im welchem die Saat des Geistes aufgeht als verwesliches, als das Einzelne in allen feinen natürlichen Beschaffenheiten und Vers änderungen, wie in allen ſeinen Gedanken, Entschließungen und Werken.
+
+Nicht zu sich zwar oder zum Ich kann der Geist kommen, ohne durch die Natur hindurchzugehen; aber das Natürliche, als das ohne den Geist todte, belebt durch den Geist und jenes selbst, als das Ansichſeyn des Geistes nun für ihn seyend, und es als sein negatives Selbſt ſelbſt an ihm haltend, also das an sich Bewußtlose zum Bewußtseyn erhebend, ist er der sich von allem, was nur Natur und ohne den Geist todt ist, sich unterscheidende, jenes als das Schwache und Niedrige, als seine Unehre und Verweslichkeit, und sich dagegen als die Macht über die Natur und die Wandelbarkeit ihrer Erscheinungen wissende.
+
+Als dieser ist er das einzelne, in seiner unendlichen Allgemeinheit und Herrlichkeit sich gegenwärtige Ich oder Bewußtseyn, aus dem ihn umfließenden und an seinem andern Selbſt haftenden Tode erstanden. 1. Cor. 15, 12-20. 42-44. Phil. 3, 21.
+
+##### §. 607.
+
+Wie aber der menschliche Geist seine Wahrheit erst in dem göttlichen hat, so hat auch diese Auferstehung vom Tode ihre Wahrheit nicht darin, daß der Geist nur vermag über die Natur hinauszukommen und diese Macht selber ist, sondern darin, daß er wahrhaft in dem göttlichen Geiste aufgehoben und hiemit der Wahrheit und Liebe, als des Göttlichen theilhaftig geworden ist.
+
+Denn die Auferstehung des
+
+Geistes soll nicht nur Aufgang in ſich, ſondern auch Uebergang seyn in die Seligkeit, und nur die in dem Herrn ſterbenden sind die wahrhaft auferstandenen.
+
+Apooc. 14, 13.
+
+Indem die Schrift dem Tode als Hintritt und Hinfall das Auferstehen gegenüberstellt, ist anf das in aller Vernichtung Bleibende, auf das Unverwüstliche in der Menschheit hingedeutet, welches der Apostel auch das Unverwesliche nennt; dieſes ist nicht das Menschliche an und für sich, sondern das Göttliche der Menschheit, das Gediegene und wahrhaft Wirkliche in ihr.
+
+Unverwüstlich und wirklich aber ist es nur, sofern es in seinen wechselnden Formen sich verwirklicht, sich durch die endlose Gestaltung hindurch bewegt, und in allem Untergange der Gestalten und Formen sich behaups tend und gleichbleibend in dieſem ſtets neu wieder aufgeht. Jener Untergang ist die Verweslichkeit, in die das Unverwesliche, Bleibende, Ewige eingeſäet ist als Verwesliches: es selbst aber ist das in allem Wechsel durch seine göttliche Macht sich erhaltende und mitten im Tode auferstehende.
+
+##### §. 608.
+
+Hat die Lehre von der Unsterblichkeit den wesentlichen Inhalt der Wahrheit an der von der Auferstehung der Todten, so hat diese wieder ihren weiteren Inhalt an der vom jüngsten Tag. Für die äußerliche Betrachtungsweise hat die Lehre vom jüngsten Tag nur das Verhältniß der Erde zur Sonne, und somit ein irdisches Verhältniß zum Inhalt, und so nur eine entfernte Beziehung auf die Religion. Schon indem es aber doch erkannt und sich vorgestellt wird, ist es ins Bewußtseyn gehoben und geht hierin die Lehre über das tellurisch-solarische Verhältniß hinaus.
+
+Es ist nicht die Absicht der heiligen Schrift, uns in der Lehre vom jüngsten Tag nur physikalische Aufschlüsse zu geben. Ohne die Des ziehung auf die Menschheit und das Bewußtseyn würden jene Veränderungen in der bewußtlosen Natur an sich kaum einiges Interesse haben.
+
+Das finnliche Denken, indem es sich an die Schilderung und Einkleidung des Begriffes und [p. 392] der Wahrheit hängt, verhehlt sich jene Beziehung und bleibt somit im Aeußerlichen und Nichtigen stehen.
+
+##### §. 609.
+
+Näher tritt der Idee die abstracte Vorstellung von dem jüngsten Tage, als dem Ende der Zeit.
+
+Die Zeit, in ihre drei Momente auseinander gespannt und in dieser Spannung gegen sich selbst sich verzehrend und immer neugebährend, enthält in sich ebenso sehr alle Thätigkeit als Unſtetigkeit, die Unruhe in der Thätigkeit, die Thätigkeit in der Unruhe.
+
+Der jüngste oder lezte Tag wäre somit ins Des wußtseyn verseßt, das Ende aller Unruhe in der Thätigkeit. Es wäre der Tag des Bewußtseyns, der am Ende ist.
+
+dieser negativen Bestimmung findet aber das Bewußtseyn nicht sowohl Ruhe, als Tod, dieſes Ende des Bewußtſeyns wäre nur die Bewußtlosigkeit.
+
+Der jüngste Tag hingegen ist von Handlungen begleitet, die das Bewußtseyn angehen. Er ist vielmehr Aufhebung der Zeit; die aufgehobene Zeit aber ist die Ewigkeit; in ihren drei Momenten die unendliche Zeit ist sie in sich zurückgegangen und verwandelt in die absolute Gegenwart.
+
+##### §. 610.
+
+} Indem nun, nach der Lehre der Schrift, am jüngsten Tage die Todten auferstehen, erhält die Auferstehung erst ihre wahre, inhaltsvolle Bedeutung dadurch, daß sie zugleich die Versetzung des alles Todte an ihm besiegenden Geiſtes in die Ewigkeit ist, der Sieg des Geiſtes nicht nur über die Natur, sondern auch über die Zeit und alles Zeitliche, und hiemit erst Gelangung zur Einheit und Ruhe, zum Frieden und zur Befriedigung in der Thätigkeit, zum wahren und ewigen Leben im Bewußtseyn Gottes.
+
+Indem in dieſem
+
+Bewußtseyn die Zeit untergeht, als das an sich Nichtige, geht die Ewigkeit darin auf als das allein Reale, und so zeigt sich der letzte Moment des zeitlichen Bewußtseyns als E
+
+Anfang zugleich des ewigen Lebens. Wie in allen ihren Bewegungen die Religion den Geist über die Zeit erhebt, und ihr wahrer Aufgang im Bewußtseyn der Untergang der Zeit ſelber ist, so ist Aufgang und Untergang, Anfang und Ende durch sie in der Ewigkeit aufgehoben, in und mit ihr der Geist zum ewigen Leben gelangt. Matth. 7, 22. 1. Cor. 1, 8. 5,5. 2. Cor. 1,14. Phil. 1,6.10. 2,16. Matth. 24, 36. 25,13.
+
+##### §. 611.
+
+In der Zeit, als solcher, dem Prinzip der unruhigen Thätigkeit und der thatenvollen Unruhe, ist für den Geist keine Versöhnung und Genugthuung; darin, daß die von Christo in die Zeit hineingestiftete die ewige Erlösung ist, ist sie der Grund der Seligkeit; das Ewige ist als solches das Selige.
+
+Aber der jüngste Tag ist als solcher nur die Aufhebung, das Ende der Zeit, nicht, das Ende des Thuns, des Denkens und Wollens, sondern nur des Prinzips und der Bedingung desselben, Aufhebung alles dessen, was darin irdisch und zeitlich ist.
+
+Der Inhalt der Zeit ist das mit der
+
+Unruhe behaftete Thun, als Denken und Wollen;
+
+dieſes
+
+Thun an ſich ist die Welt und auch sie soll und muß vergehen, von ihr das Wahre und Gute nur bleiben, und das felige seyn, somit das Unwahre und Vergängliche von ihr ausgeschieden werden. Die Lehre vom jüngsten Tag hat ihre Vollendung erst in der vom Untergange der Welt, welcher zugleich das Gericht ist über die Welt.
+
+##### §. 612.
+
+Für das Wissen nun ist es gleich ungenügend, an der materiellen Einkleidung, der Beschreibung des Glanzes, der äußerlichen Pracht und Feierlichkeit des Weltgerichtes in der biblischen Tradition stehen zu bleiben (wovon auch die Strengsten mehr oder weniger abgehen und nachlaffen) und die Wahrheit der Idee in den Farben der Darstellung zu [p. 394] ſuchen, und sie als eine zeitliche, und somit selber vergängliche Bestimmung anzusehen, als andrerseits die darin anschaulich gemachte Idee und Wahrheit negativ nur zu be trachten und sie dahingestellt seyn und auf sich beruhen zu laffen, welches das abstracte, beliebige Denken der Sache ist. Beiderlei Vorurtheile sind aber dermahlen so eingewurzelt, daß von beiden Seiten jeder Versuch, Sinn und Verstand oder gar Vernunft in jenen biblischen Lehren zu fin den, abgewiefen und nur als das eitle Hineintragen der eigenen Gedanken in eine an sich geist- und gedankenlose Vorstellung angesehen wird. Und doch kann das Interesse, welches der denkende Geist immer von neuem an dieser Vorstellung nimmt, weder ein sinnliches, noch auch nur negatives, ſondern eben nur die eigene Bewegung der Sache und die innere Beziehung auf das Vernünftige und Sittliche seyn, welches der Vorstellung zum Grunde liegt.
+
+##### §. 613.
+
+Hiemit nun ist zunächst das Weltgericht aus dem Lärm der äußern Welt in die Welt des Bewußtseyns verfeßt; es ist das reine Verhältniß des Geistes zu Gott, welches darin zur Beurtheilung kommt; es ist das sittliche Leben in allen seinen Gesinnungen und Thaten, welches dem Urtheil des ewigen Richters sich unterworfen weiß.
+
+Als dieser Richter offenbaret sich Gott selbst, näher der Gottmensch, am nächsten der Geist des Vaters nnd Sohnes, als das Wort Gottes oder Gewissen: in allen diesen Bewegungen ist es die eine und selbige göttliche Richtermacht, welche zu allen Zeiten Gericht hält über die Thaten der Menschen im Guten und Bösen, und ebenhierin eine kritische Macht ist, daß sie den Unterschied des Guten und Bösen aus der Unmittelbar keit und Unbestimmtheit der Gefühlseinheit in die Klarheit des Gedankens und Bewußtseyns erhebt.
+
+Diese Gegenwart des absoluten Geistes im Gewiſſen der Menschen und das rging
+
+Enthaltenseyn desselben in ihm ist das beständige Gottesgericht und darin allen Menschen, wie der Himmel, so die Hölle aufgethan. G
+
+Ohne dieses durch alle Zeiten hindurchgehende Weltgericht kann auch kein letztes oder jüngstes seyn. Tob. 3, 5. Marc. 3, 29. Joh. 5, 24. Röm. 11, 33. Hebr. 10, 27. Apoc. 16, 7.
+
+19, 2.
+
+1. Cor. 4, 5.
+
+614.
+
+§.
+
+Als das letzte oder jüngste Gericht ist das beſtändige Weltgericht objectiv und fällt so mit dem jüngsten Tage zuſammen, indem es in die aufgehobene Zeit, in die Ewigkeit übers geht, in welcher ebenso sehr alle Zukunft, als alle Vergangenheit aufgehoben ist. In diesem Uebergange ist der objec tive Geist, der Geiſt eines Volkes, aller Völker, des Menschengeschlechts der vollendeten Versöhnung entgegengereift, diese Vollendung und Reife aber auch ebenso sehr der Untergang der Welt, indem der Geist darin die Macht und Herrschaft über die Welt erreicht: darin, daß sie als Macht für ihn vergangen, ist sie untergegangen. Der aber jene Versöhnung und diesen Untergang vollbringende oder Gericht haltende ist der absolute Geist, der Geist Jesu Chriſti, der den Sieg hat über die Welt. Als diese kritische Macht oder Krisis hat sich das Christenthum insonderheit von Anfang an bewährt: es ist als ein großes Gericht aufgegangen über die Völker und die ganze Geschichte ist, auch schon vor seiner geschichtlichen Erscheinung, nur sein Gericht über die Welt. Joh. 5, 29.
+
+16, 8. 11.
+
+2. Cor. 5, 10.
+
+Apstog. 24, 15.
+
+Matth. 25, 31-46.
+
+##### §. 615.
+
+Die Geschichte aber ist des Menschengeschlechts That und Bewußtseyn und die Rechenschaft, die der Geist, als der in seiner Geschichte thätige und lebendige, dem absoluten Geist abzulegen hat, ist zugleich dieses göttlichen Geistes Urtheil und Richterspruch über die Welt.
+
+Hinschreitend über [p. 396] alle Völker zerbricht der Geist des Herrn ein Volk durchs andere, und giebt sich in ihnen immer neue Gestalten. Daß jedes ihm, er allen gegenwärtig ist, ist sein ewiges Kommen zum Weltgericht. 1. Cor. 4, 5. 2. Theff. 1, 10. Joh. 14, 3. In diesem letzten oder ewigen Weltgericht wird offenbar, was denn von allen wirklich scheinenden Thaten des Menschengeschlechts wahrhaft wirklich, bleibend und ewig ist: dieſes aber ist allein das Wahre und Gute oder das Göttliche, menschlich geworden, der Geist, der sich frei auf den ewigen Geiſt bezieht, und ſich durch ihn mit ihm versöhnen und einigen läßt: eben damit aber ist auch zugleich das entgegengesetzte, das Unwahre und Falsche, wie das Unheilige und Unredliche, nur sich auf sich selbst beziehend und selbstsüchtig, als das in ſich Nichtige, ausgestoßen und in den Weltuntergang mit versenkt. 2. Theſſ. 2, 3. Diese Ausscheidung des Wahren und Guten von dem Unwahren und Bösen ist ebenso sehr die Beseligung des einen und die Verdammniß des andern.
+
+Joh. 5, 24.
+
+§.
+
+6, 40.
+
+12, 31.
+
+616.
+
+Das Leben des endlichen, menſchlichen Geistes in seinem Verhältniß zum unendlichen, göttlichen oder die Religion, ſchließt sich demnach in jenen drei Begriffsbestimmungen des wahren, ewigen und seligen Lebens ab, welche in den drei Vorstellungen enthalten-sind von der Auferstehung der Todten, worin der Geiſt zum wahren, von dem jüngsten Tag, worin er zum ewigen, und dem Weltgericht, worin er zum seligen Leben gelangt.
+
+Mit diesem Ende kehrt die Neligion in ihren Anfang zurück (§. 137. und 592.) und die Wiederbringung aller Dinge ist eben dieſes, daß das Ende der Religion ebenso sehr auch ihr Anfang sey.
+
+Gedruckt bei Johann Friedrich Starcke.

@@ -1,0 +1,4740 @@
+---
+title: Tratado de sociología
+title_en: Treatise on Sociology
+author: Eugenio María de Hostos
+year: 1904
+original_language: es
+translation_language: en
+edition_layout: photocopy (scan beside the English)
+source: recovered from the PDF ‘Hostos_Tratado_de_Sociologia_parallel_EN.pdf’ (the page files were not kept)
+original_text: OCR of the scan in the facing PDF (tesseract spa), uncorrected: one page per page mark of the English, the paragraphs as the OCR found them, running heads dropped, headings copied from the English; the scan in the PDF edition is the authority
+translation: machine-made (Claude), reviewed against the original by Claude; no human review
+pages: 273
+genre: Latin American philosophy
+generated: 2026-10-24 by corpus.py; original.md added 2026-10-25 (#14)
+public: true
+---
+
+# Eugenio María de Hostos, *Tratado de sociología* (1904) — *Treatise on Sociology*
+
+Conventions: `[p. N]` marks where a printed page begins (its folio as printed); `[PDF N]` a page of the source PDF with no printed number; original and English are paired paragraph by paragraph within each page (in the facing text: original in quoted blocks, English in plain paragraphs); the original is uncorrected OCR; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml.
+
+[PDF 3]
+
+> SOCIOLOGÍA
+
+ON
+
+> POR
+
+SOCIOLOGY
+
+> EUGENIO M. DE HOSTOS
+
+BY
+
+> Profesor de Historia Universal en el Liceo «Miguel Luis Amunátegui»; Profesor de Sociología en la Escuela Normal de Maestros; Catedrático de Derecho Constitucional,
+
+EUGENIO M. DE HOSTOS
+
+> Internacional y Penal y Economía Politica cu el Instituto Profesional de la República Dominicana;
+
+Professor of Universal History at the “Miguel Luis Amunátegui” Lyceum;
+
+> Profesor de Derecho Constitucional cn la Universidad de Chile;
+
+Professor of Sociology at the Normal School for Teachers;
+
+> €tc., cto.
+
+Holder of the Chair of Constitutional, International and Penal Law and of Political Economy at the Professional Institute
+
+> MADRID IMPRENTA DE BAILLY-BAILLIERE É HIJOS Calle de la Cava alta, núm. 5, 1904
+
+of the Dominican Republic;
+
+Professor of Constitutional Law at the University of Chile; etc., etc.
+
+MADRID
+
+PRINTING HOUSE OF BAILLY-BAILLIÈRE AND SONS
+
+Calle de la Cava Alta, No. 5.
+
+1904
+
+[PDF 5]
+
+## Contents
+
+> AL LECTOR. +... .ooooorcsarconoo.. eroocarons.s .... INTRODUCCIÓN METODOLÓGICA PARA ESTABLECER EL MÉTODO Á LA VEZ CIENTÍFICO E HISTÓRICO QUE HA DE SEGUIRSE EN ESTE FsTUDIO.—1-2, Método y procedimientos.—3. Qué es método.—4-19. Cuáles son esos procedimientos.—20. J:0 que reclama la exposición de una ciencia.—21, El método natural de una ciencia. —22. El método efectivo. — 23. Cómo se dcbe estudiar una ciencia.—24. Cómo estudiaremos la Sociología.—25. Plan....»..»....
+
+- To the Reader · 5
+- Methodological Introduction · 9
+  To establish the method at once scientific and historical which is to be followed in this study. — 1–2. Method and procedures. — 3. What method is. — 4–19. What those procedures are. — 20. What the exposition of a science demands. — 21. The natural method of a science. — 22. The effective method. — 23. How a science ought to be studied. — 24. How we shall study Sociology. — 25. Plan.
+- Book I. Theoretical Sociology
+  - Chapter I. Intuitive Sociology · 21
+    1–4. Life in society. Social facts. — 5–11. What social facts are like. — 12–19. How they present themselves in History. — 20. Intuitive concept or judgment.
+  - Chapter II. Inductive Sociology · 28
+    1. Object of this chapter. — 2. Formula of the intuitive judgment on Society. — 3 and 4. Examination of this judgment. — 5–7. Functions of social life. — 8 and 9. The social order. — 10–22. Classification of the social functions. Justification of such a classification. — 23. Inductive judgment on Society.
+  - Chapter III. Deductive Sociology · 40
+    1. Formula of the inductive judgment on Society. — 2. Natural laws of Society. — 3. How many are the natural laws of Society. — 4. Which are the natural laws of Society. — 5 and 6. Classification of the natural laws of Society. — 7–12. Study of the Law of Sociability. — 13 and 14. Statement of the universal Law of Sociability. — 15. Study and statement of the universal Law of Labour. — 16. Universal Law of Liberty. Study and statement. — 17. Study and statement of the universal Law of Progress. — 18. Study and statement of the Law of the Ideal. — 19. Law of Conservation. Its study and statement. — 20. Law of Media. Examination and statement of it.
+  - Chapter IV. Systematic Sociology · 54
+    - Section 1. Materials of Sociology · 54
+      1. Themes to be linked together in order to constitute Social Science. — 2. What those themes are. — 3 and 4. Relation of social phenomena among themselves. — 5 and 6. Relation between sociotic facts and cosmic facts. — 7. Society. — 8. Labour. — 9 and 10. Government. — 11 and 12. Progress. — 13. The Ideal of the Good. — 14. Social Conservation. — 15. Sociability and the Media.
+    - Section 2. Work of systematization · 62
+      16. The bases for the scientific organization of Sociology. — 17. What would have to be done.
+- Book II. Expository Sociology
+  - Chapter I. Object of this Book. Definition and Division of Sociology · 65
+    1. Object of Expository Sociology. — 2. Definition of Sociology. — 3. Divisions of Sociology.
+  - Chapter II. Socionomy · 65
+    1. What is called Socionomy. — 2. Character of human Society.
+    - Section 1. Universal Laws of Society · 66
+      3. How many those laws are. — 4. Which they are. — 5. Classification of them. — 6. Constitutive law. — 7. Organic laws. — 8. First organic law. — 9. Second organic law. — 10. Third organic law. — 11. Fourth organic law. — 12. Fifth organic law. — 13. Law of procedure.
+    - Section 2. Statement of the Social Laws · 73
+      14. Why the social laws ought to be stated. — 15. Statement of the Law of Sociability. — 16. Statement of the Law of Labour. — 17. Statement of the Law of Liberty. — 18. Statement of the Law of Progress. — 19. Statement of the Law of the Ideal. — 20. Statement of the Law of Conservation. — 21. Statement of the Law of Media.
+    - Section 3. Social Order · 83
+      22. In what that order consists. — 23. Function of labour, with reference to the Law of Labour. — 24. Function of government, with reference to the Law of Liberty. — 25. Function of public education, in so far as governed by the Law of Progress. — 26. Function of religion and morals, with reference to the Law of the Ideal. — 27. Conserving function, or function of the force of societies, with reference to the Law of Conservation. — 28. The social media, with reference to the Law of Media.
+  - Chapter III. Sociography · 94
+    1. What Sociography is.
+    - Section 1. General Sociography · 95
+      2. Object of General Sociography.
+      - § 1. Social states · 96
+        3 and 4. First social state. — 5 and 6. Second social state. — 7 and 8. Semi-barbarism. — 9–11. State of semi-civilization. — 12–16. Labour, Government, Education, Religion and Morals, and Public Force in semi-civilization. — 17. Civilization. — 18. The signs of Civilization. — 19. The civilization of the Aryan family: that of the ancient Greeks. — 20. That of the Italic branch. — 21. Germanic civilization.
+      - § 2. Description of Labour · 115
+        22. What Labour is. Historical study. — 22 bis. The basis of Labour. Application and adaptation of scientific, artistic and literary knowledge. — 22 ter. Organic force of Labour.
+      - § 3. Description of Government · 118
+        23. What Government is. How it presents itself in the various social states. — 24. The regime of law. Incomplete organization of its four elements.
+      - § 4. Description of Education · 124
+        25. Process of Education. — 26 and 27. Characteristics of Education. The organization of Instruction is one of the characteristics of our epoch.
+      - § 5. Description of Religion and Morals · 126
+        28. Religious beliefs. — 29. Religious and moral ideas evolve with Society.
+      - § 6. Description of the Social Force · 127
+        30. What is the Social Force. How it presents itself to us. What the purpose of its organization ought to be.
+    - Section 2. Description of Society as particular life · 129
+      31. The parts of the social organism.
+      - § 1. The Individual · 129
+        32. What the Individual is. — 32 bis. Tendency of the Individual to complete himself with another being. The Vedas and Genesis. The social cell: man-woman-child. — 32 ter. Evolution of the Individual in the Tribe.
+      - § 2. Description of the Family · 131
+        33. What the Family is. — 34. When the Family appears among the Aryans and the Indo-Europeans. — 35. The Family among the Mongols, Semites and Cainites. — 36. First evolution. — 37. Historical characteristics of some human families. — 38. The Family is at the beginning of its evolution. — 39 and 40. Part which the Family plays in the social organism. Ideal description of the group.
+      - § 3. Description of the Tribe · 138
+        41. The Tribe, considered physiologically. — 42. The Tribe in History. — 43. The case of Athens, of Rome and of the Italian Republics of the Middle Ages.
+      - § 4. Life of the Family, of the Tribe and of the Gens · 140
+        44. What “the Gens” is. — 45. Historical evolution. — 46. Attica, Argolis, Peloponnesus, Messenia and Macedonia.
+    - Section 3. Description of Society as potential force · 141
+      47. The two forces of Society. Capacities latent in every Society. — 48. What Society can accomplish.
+      - § 1. Economic potency · 142
+        49. The economic order. — 50 and 51. In what the economic potency of Society consists.
+      - § 2. Juridical potency · 144
+        52. The public order. — 53. What the potency of law is.
+      - § 3. Pedagogical potency · 146
+        54. Society and common Education. — 55. Human progress.
+      - § 4. Religious or moral potency · 148
+        56. Relative good. — 57. Religions. — 58. Evolution of religious ideas. — 59. End of Religion. Potency of religious beliefs and of moral ideas.
+      - § 5. Conserving potency · 152
+        60. In what this social force consists. How and towards what it is to be directed.
+  - Chapter IV. Sociorganology. Study of the organs of Society · 154
+    - Section 1. Vital organs · 154
+      - § 1. The Individual · 154
+        1. Part of the Individual in the social body. — 2 and 3. What the Individual would be in a scientific organization of Society.
+      - § 2. The Family · 156
+        4 and 5. What it is. The Family in History. — 6. Its true flowering.
+      - § 3. The Municipality · 158
+        7. It is the second social organ. Historical facts.
+      - § 4. The Region · 159
+        8. How it is constituted. — 9. The Region in modern nations.
+      - § 5. The Nation · 161
+        10. How nations are formed. — 11. Occupation and possession. — 12. The American nations. — 13. Fundamental reason of a nation, according to the type of the American ones. — 14. Occupation and possession in the Old World. — 15. History and the constitution of nations.
+    - Section 2. Institutional organs · 163
+      16. The action of Law in the social organism.
+      - § 1. Domestic Council · 164
+        17. What the Family Council is.
+      - § 2. Municipal Council and government of the Municipality · 164
+        18. What the Municipal Corporation is, and what it ought to be.
+      - § 3. Regional Council and regional Government · 165
+        19. The Region ought to have its own government. — 20. The Region in the social economy.
+      - § 4. National Council and national Government · 166
+        21. The State. — 22. The national Government in its beginnings. — 23. Evolution of the national Government. — 24. Forms of the national Government.
+    - Section 3. Applied Sociorganology · 169
+      - § 1. The domestic State · 169
+        25. How it ought to be organized. — 26. Consultative organ of the Family. — 27. Domestic justice.
+      - § 2. The municipal State · 170
+        28. How it ought to be organized.
+      - § 3. Regional or provincial State · 171
+        29. Want of reason in the disregard of this institution. — 30. Sociorganology and the government of the Province.
+      - § 4. National State · 172
+        31. What it ought to be. — 32. How “the State” ought to be organized. — 33. The representative democratic State.
+      - § 5. The international State · 175
+        34. It has not existed, nor does it yet exist. — 35. “Christendom.” — 36. The international State in the 19th century. — 37. Two conceptions of the international State. — 38. What it will have to be and how it ought to be organized. — 39. How it may be attained. — 40. Aspect of the problem.
+  - Chapter V. Sociopathy · 182
+    - Section 1. Social diseases · 182
+      1. Why Society can suffer diseases. — 2. Classification of social diseases. — 3. Whence social diseases come. — 4. What those diseases are.
+      - § 1. Diseases of an economic character · 184
+        5. Which they are. — 6. Physiological misery. — 7. The intertropical countries. — 8. Cause of their state. — 9. Social anaemia. — 10. The case of some intertropical countries of Spanish origin. — 11. Excess of population in some countries and cities. Pauperism.
+      - § 2. Diseases of a juridical character · 188
+        12–14. What the diseases of Law are. — 15. The Latin-American Republics. — 16. Which are the three political diseases. — 16 bis–18. Petty politics.
+      - § 3. Diseases of an intellectual character · 194
+        19. Which they are. — 20. Physical influences. — 21. Climate. — 22. Topography. — 23. The scenic perspective. — 24. Gymnosophist contemplation. — 25. Satyriac sensualism.
+      - § 4. Diseases of a moral character · 196
+        26. What determines them. — 27. Exacerbations of religious sentiment. — 28. Nervous overexcitements of political passions. — 29. Anarchism. — 30. Social neurosis.
+      - § 5. Diseases of a mesological character · 198
+        31. Origins. — 32. Withdrawal of the United States of North America within the American continent. — 33. Influence which Sociology ought to exert upon the conservative tendencies of the American peoples.
+    - Section 2. Manner of preventing social diseases. Social hygiene · 201
+      34. What it is. — 35. How it ought to act. Precepts. Prevention of economic diseases. — 36. Preventive precept for economic diseases. — 37. The same for juridical ones. — 38. Disturbances of progress. — 39. Religious and moral disturbances. — 40. Disturbances in the social force. — 41. Influence which social Hygiene will have to have upon the development of societies.
+    - Section 3. Cure of social diseases. Social therapeutics · 205
+      42. How social diseases may be cured. — 43. Cure of economic diseases. — 44. Moral diseases. — 45. Intellectual diseases.
+- Book III. Notions of Sociology (Summary)
+  - Section 1. Name of the Science · 209
+    Place which it occupies in the classification of the sciences. — What science it is and why.
+  - Section 2. Twofold classification of knowledge · 211
+    To which group Sociology belongs in each of these classifications.
+  - Section 3. Concrete sciences of the third group · 213
+    Which study ought to come first: that of the abstract sciences or that of the concrete?
+  - Section 4. Newness and antiquity of Sociology · 213
+    Why, being an ancient science, it has not been organized until these days. — Relations of Polity with Sociology. — Relations between Sociology and History. — Evolutions of History. In which of them Sociology appears.
+  - Section 5. Method of Sociology · 217
+  - Section 6. What is seen in philosophical History · 218
+    Whom one sees. — Data furnished to us by the life of the being that presents itself in History. Result of those data.
+  - Section 7. Induced truths. Natural laws of Society · 220
+  - Section 8. Definition of the natural laws of Society · 222
+    Law of Sociability. — Law of Labour. — Law of Liberty. — Law of Progress. — Law of Conservation. — Law of Civilization or of the Ideal.
+  - Section 9. What order is · 230
+    Order derived from the natural laws of Society. — Correspondence between laws and order.
+  - Section 10. In what the natural order of Society consists · 236
+    Whether Society ought to submit to it.
+  - Section 11. Division of Sociology into Theoretical and Practical · 238
+  - Section 12. Notions of theoretical Sociology · 239
+    The social being. — Organs that constitute it. — The most important of those organs.
+  - Section 13. Part which the Individual plays as a constituent of Society · 241
+    Share which the particular end of every individual has in the general end of Society. — Individualist theory. — Socialist theory. — Sociocratic theory. — Organic theory. — What is to be thought of such theories.
+  - Section 14. Notions of practical Sociology · 245
+  - Section 15. Application of Sociology to Politics, to Art, to Science, to Religion and to Economy · 246
+- Contents · 251
+- Works by the same author
+  Some opinions of important newspapers. Opinions of some notable persons.
+
+> LIBRO 1 Sociología teórica,
+
+> CAPITULO I.—SocioLoGÍa INTUITIVA. —1-4. La vida en sociedad. Hechos sociales.—5$-11. Cómo son los hechos sociales.—12-19. Cómo se presentan en la Historia. —20. Concepto ó juicio intuitivo.
+
+> CAPITULO 11. —SoctoLoGíA INDUCTIVA.—1, Objeto de este capítulo.—2, Fórmula del juicio intuitivo sobre la Sociedad. —3 y 4. Examen de este juicio. 5-7. Funciones de la vida social.—8 y 9. El orden social. —10-22. Clasificación de las funciones sociales. Justificación de tal clasificación.—23. Juicio inductivo sobre la Sociedad. ....... Lo ooono”.
+
+> CAPITULO 111.—SocroLoGÍA DEDUCTIVA.—l. Fórmula del juicio inductivo sobre la Sociedad.— 2. Leyes naturales de la Sociedad.—3. Cuántas son las leyes naturales de la Sociedad.—4. Cuáles son las leyes naturales de la Sociedad.—5 y 6. Clasificación de las leyes naturales de la Sociedad.
+
+[PDF 13]
+
+> Esta obra se publica tal como la recogieron de labios del Sr. Hostos sus discipulos de 1901, cn sus improvisaciones orales cn los ratos que podía distracr á su fatigosa labor «de la Inspección (reneral de Instrucción pública; pues él no tuvo tiempo para revisar el manuscrito que se le presentó con ese ohjeto. Parece que un día intentó comenzar la revisión solicitada escribiendo el prólogo; pero algo interrumpió su labor, pues sólo alcanzó á escribir: «Cuando yo, Conversando con mis discípulos, les dictaba de viva voz estas.....»
+
+This work is published just as it was taken down from the lips of Señor Hostos by his disciples of 1901, in the oral improvisations he gave in the hours he could spare from his wearisome labour in the General Inspectorate of Public Instruction; for he had no time to revise the manuscript that was presented to him for that purpose. It appears that one day he attempted to begin the requested revision by writing the preface; but something interrupted his work, for he got no further than writing: “When I, conversing with my disciples, dictated to them by word of mouth these.....”
+
+> Empero, el Tratado que sigue cs el fruto de la observación personal de las sociedades euro peas y americanas durante más de cuarcnta años, y sintetiza un profundo estudio de la Humanidad, á la vez que un hondo pensar en los complejos problemas de la vida del hombre social.
+
+Nevertheless, the Treatise which follows is the fruit of personal observation of European and American societies during more than forty years, and it sums up a profound study of Humanity, as well as a deep meditation upon the complex problems of the life of social man.
+
+> Es preciso, sin embargo, llamar la atención de la crítica hacia las circunstancias en que el señor Hostos desarrolló el original plan sistemático de esta sorprendente tentativa de constitución de la Ciencia de la Sociologia, pues cs indudable que las circunstancias de medio ambiente, modo y [PDF 14] —6-— momento desfavorables avaloran más el mérito de la obra producida.
+
+It is necessary, however, to call the attention of criticism to the circumstances in which Señor Hostos developed the original systematic plan of this surprising attempt at the constitution of the Science of Sociology, for there is no doubt that circumstances of surroundings, manner and [PDF 14] —6— moment so unfavourable enhance all the more the merit of the work produced.
+
+> El curso de Sociología de 1901, «que la Historia de las Ciencias en Santo Domingo y la particular de cse ramo del sabor humano recordarán como el primer ensayo de constitución de la Ciencia de la Sociología», es el «esfuerzo colosal de un cerebro abrumado por el trabajo, y solicitado al más vario ejercicio de sus funciones» (*).
+
+The course of Sociology of 1901, “which the History of the Sciences in Santo Domingo, and the particular history of that branch of human knowledge, will remember as the first essay at the constitution of the Science of Sociology,” is the “colossal effort of a brain overwhelmed by work, and solicited to the most varied exercise of its functions” (*).
+
+> Como en todos sus cursos, el Sr. Hostos dictó á los asistentes al de Sociología un indice, plan ú programa del estudio, que desarrolló después; de ahi que, en el curso de la improvisación, omiticra involuntariamente algunos puntos. Esa omisión se notará, por ejemplo, en el libro IT, capitulo Y, sección 1.*, 82.*, núm. 18, A7 politiqueo.
+
+As in all his courses, Señor Hostos dictated to those attending the course of Sociology an index, plan or programme of the study, which he developed afterwards; hence it happened that, in the course of the improvisation, he involuntarily omitted some points. That omission will be noticed, for example, in Book II, chapter V, section 1, § 2, no. 18, Petty politics.
+
+> Creoyéndolas útiles como resumen, se han agregado las Vociones de Sociología que el autor dictó á sus alumnos de Ja Escuela Normal de Maestros, hace veintiún años, las cuales servirán también al observador para formarse una idea de cómo pensaba el Sr. Hostos desde tan antiguo.
+
+Believing them useful as a summary, we have added the Notions of Sociology which the author dictated to his pupils of the Normal School for Teachers twenty-one years ago, and which will also serve the observer to form an idea of how Señor Hostos thought from so long ago.
+
+> No habiendo podido seguir puntualmente el autor la división en párrafos y en números, por
+
+The author not having been able to follow punctually the division into paragraphs and numbers, owing to
+
+> (*) Eucenio M. Hostos, Ofrendas ú su memoria. — Tipogr. «Oiga.....»>, Santo Domingo, 1904. Un vol., 16 x24 centímetros, 350 págs. Primera parte, Noticia biográfica, pág. 25.
+
+(*) Eugenio M. Hostos, Ofrendas á su memoria.—Tipogr. “Oiga.....,” Santo Domingo, 1904. One vol., 16 × 24 centimetres, 350 pp. First part, Noticia biográfica, p. 25.
+
+[PDF 15]
+
+> el modo improvisado como exponía, uno de sus discípulos lo ha completado.
+
+—7— the improvised manner in which he lectured, one of his disciples has completed it.
+
+> Acuerdo de la «Sociedad de Enseñanza» de Santo Domingo:
+
+Resolution of the “Sociedad de Enseñanza” of Santo Domingo:
+
+> «2.2 Wavorecer la publicacion de las obras del Sr. Hostos, metódica y sucesivamente, como la más digna ofrenda del Pais reconocido. Para ello, constitúyese una Comision compuesta de los señores Lic. D. Fed. Henriquez 1 Carvajal, Lic. D. Fco. I. Peynado, Dr. D. Fco. Henriquez i Carvajal, Lic. D. Eugenio C. de Hostos y 1). Enrique Deschamps.>»
+
+“2nd. To further the publication of the works of Señor Hostos, methodically and successively, as the worthiest offering of the grateful Country. To that end, a Commission is constituted, composed of Messrs. Lic. D. Fed. Henríquez i Carvajal, Lic. D. Fco. J. Peynado, Dr. D. Fco. Henríquez i Carvajal, Lic. D. Eugenio C. de Hostos and D. Enrique Deschamps.”
+
+[PDF 17]
+
+## TO ESTABLISH THE METHOD AT ONCE SCIENTIFIC AND HISTORICAL WHICH IS TO BE FOLLOWED IN THIS STUDY
+
+> PARA ESTABLECER EL MÉTODO Á LA VBZ CIENTÍFICO É HISTÓRICO QUE MA DE SEGUIRSE EN ESTE ESTUDIO ly 2. Método y procedimientos.—3. Qué es método.— 4-19. Cnáles son esos procedimientos.—20. To que reclama la exposición de una ciencia.—21. El método natural de una ciencia. —22. El método efectivo. 23. Cómo debe estudiarse una ciencia.—24. Cómo estudiaremos la Sociología.—25. Plan.
+
+1 and 2. Method and procedures.—3. What method is.—4-19. What those procedures are.—20. What the exposition of a science demands.—21. The natural method of a science.—22. The effective method.—23. How a science ought to be studied.—24. How we shall study Sociology.—25. Plan.
+
+> 1. Miropo Y PROCEDIMIENTOS. —Lo primero, en todo estudio, es conocer el método que se ha de seguir en él; lo segundo, conocer los procedimientos que han de aplicarse al método.
+
+1. Method and procedures.—The first thing, in every study, is to know the method that is to be followed in it; the second, to know the procedures that are to be applied to the method.
+
+> 2. El método por seguir no se puede conocer sino después de saber qué cosa es método. Los procedimientos por aplicar no pueden aplicarse sino Cuando se sabe puntualmente cómo y por qué corresponden al método que se aplica.
+
+2. The method to be followed cannot be known until after one knows what method is. The procedures to be applied cannot be applied until one knows exactly how and why they correspond to the method that is being applied.
+
+> 3. (Qué Es méroDO.—Método es el conjunto de procedimientos que se emplean para llegar al conocimiento de verdades generales ó particulares.
+
+3. What method is.—Method is the sum of the procedures that are employed to arrive at the knowledge of general or particular truths.
+
+> 4. CUÁLES SON ESOS PROCEDIMIENTOS. —Si SO tiene en cuenta que esos procedimientos son, en realidad, y no pueden ser otros que los mismos »rocederes de la razón en sus funciones, se ven- Má en cuenta de que esos procedimientos son llanamente las operaciones naturales de la razón.
+
+4. What those procedures are.—If it be borne in mind that those procedures are in reality, and can be nothing other than, the very proceedings of reason in its functions, it will be perceived that those procedures are simply the natural operations of reason.
+
+> ». Como las operaciones naturales de la razón, exactamente lo mismo que las de cualquier otro [PDF 18] organismo, son medios necesarios para que él funcione, es claro que los procedimientos todos de la razón se refieren á las funciones de ella. Por tanto, todo método ó cualquier método de cualquiera ciencia y de todo estudio, corresponderá á una ó á algunas de las funciones de la razón; y-—en roalidad—no será otra cosa que el mismo funcionar de la razón, expresamente aplicado, encaminado y dirigido á producir conocimientos.
+
+5. As the natural operations of reason, exactly like those of any other [PDF 18] — 10 — organism, are means necessary for it to function, it is clear that all the procedures of reason refer to its functions. Therefore every method, or any method of any science and of every study, will correspond to one or to several of the functions of reason; and—in reality—it will be nothing else than the very functioning of reason, expressly applied, guided and directed to the production of knowledge.
+
+> 6. Siendo las funciones de la razón las actividades intelectuales, por cuya eficiencia ó actuación se llega al conocimiento, y habiendo cn todo conocimiento tres cosas que sólo el análisis puede separar, pero que no podemos conocer sino expresándolas, parece e priori que debe haber alguna relación entre lo cognoscible y los medios de conocerlo, puesto que no podemos llegar á un conocimiento sin preyia descomposición de lo por conocer. 7. Asi es, en efecto: todo lo cognoscible es una realidad, sujeta á un orden que obedece á leyos, y nuestros medios de conocer corresponden exactamente á la percepción de la realidad y á la afirmación 6 enunciación de leyes que producen ese orden.
+
+6. The functions of reason being the intellectual activities through whose efficiency or operation knowledge is reached, and there being in all knowledge three things which analysis alone can separate, but which we cannot know except by expressing them, it seems a priori that there must be some relation between the knowable and the means of knowing it, since we cannot arrive at any knowledge without a previous decomposition of what is to be known.
+
+> 8. El mero hecho de poner en actividad nuestros medios de conocer, producirá el conocimiento progresivo: primero, el de la realidad, por la actividad intelectual que puede percibirla; segundo, el conocimiento del orden real, percibido por los órganos de la razón que pueden percibirlo; tercero, el conocimiento de las leyes naturales que producen ese orden real, leyes reconocidas, ormuladas y enunciadas por los órganos de la razón que están en capacidad de descubrir, afirmar y enunciar leyes universales,
+
+7. So it is, in effect: everything knowable is a reality, subject to an order which obeys laws, and our means of knowing correspond exactly to the perception of reality and to the affirmation or statement of the laws that produce that order.
+
+8. The mere fact of setting our means of knowing in activity will produce progressive knowledge: first, that of reality, through the intellectual activity which can perceive it; second, the knowledge of the real order, perceived by the organs of reason which can perceive it; third, the knowledge of the natural laws which produce that real order, laws recognized, formulated and stated by the organs of reason which are capable of discovering, affirming and stating universal laws.
+
+[p. 11]
+
+> 9. Elarte no podría hacer lo que no ha hecho la Naturaleza: de modo que ningún medio artificial de conocer puede mejorar ni substituir los medios naturales de la razón. Y pues ésta tiene que conocer por intuición la realidad, para por ella inducir al orden y de ella deducir la ley, no puedo haber más métodos que el intuitivo, el inuctivo y el deductivo, ni se puede adquirir conocimiento exacto de objeto cualquiera de conocimiento, sino paso por paso, es decir, procadimiento por procedimiento y función por función, 0—lo que es lo mismo—sin ir de la realidad al orden y del orden á las leyes naturales. Eso así, á4 pesar de que en la naturaleza no hay ni puede haber esa separación, ella nos muestra en un todo intimo y conexo lo que la razón separa, analiza y descompone. Pero como la razón no puede haer visto ni puede ver de una vez los hechos, y la razón de los hechos, y la invariable ley de los hechos, y como las operaciones que hace para percibir cada uno de los elementos de la realidad son precisamente las operaciones que reclama el conocimiento particular de cada uno de esos elementos, y precisamente en el orden mismo en que se presentan á la razón el objeto ó la realidad, la relación entre el objeto y su causa, la relación entre la causa y el objeto, es imposible llegar á ninán conocimiento sin seguir los métodos naturaes de la razón; y sin el natural funcionamiento de la razón uno se puede seguir método alguno.
+
+9. Art could not do what Nature has not done: so that no artificial means of knowing can improve upon or take the place of the natural means of reason. And since reason has to know reality by intuition, in order through it to induce the order and from it to deduce the law, there can be no other methods than the intuitive, the inductive and the deductive, nor can exact knowledge of any object of knowledge whatever be acquired except step by step, that is to say, procedure by procedure and function by function, or—what is the same thing—only by going from reality to order and from order to the natural laws. This is so, although in nature there is not and cannot be such a separation, for nature shows us in an intimate and connected whole what reason separates, analyses and decomposes. But as reason cannot have seen, nor can see, at one time the facts, and the reason of the facts, and the invariable law of the facts, and as the operations which it performs in order to perceive each one of the elements of reality are precisely the operations which the particular knowledge of each of those elements demands, and precisely in the very order in which the object or reality, the relation between the object and its cause, the relation between the cause and the object, present themselves to reason, it is impossible to arrive at any knowledge without following the natural methods of reason; and without the natural functioning of reason no method whatever can be followed.
+
+> 10. ¿Cómo se podría patentizar objetivamente este natural y ordenado funcionar de la razón para ir de la realidad al orden y del orden á la ey?
+
+10. How could one make objectively manifest this natural and orderly functioning of reason in going from reality to order and from order to law?
+
+> “11, Utilizando la vieja objetivación de que se valen la lógica antigna y la moderna para hacer comprender la relación que hay entre la induc[PDF 20] ción y la deducción. El simil de la escalera de dos hojas.
+
+11. By making use of the old objectification which ancient and modern logic employ to make understood the relation there is between induc- [PDF 20] — 12 — tion and deduction: the simile of the double ladder.
+
+> 12. La escalera sirve para algo más que para objetivar las dos funciones intermedias de la razón. Á nosotros nos servirá para hacer entender la intima relación que hay entre las tres funciones fundamentales del entendimiento.
+
+12. The ladder serves for something more than to objectify the two intermediate functions of reason. To us it will serve to make understood the intimate relation there is among the three fundamental functions of the understanding.
+
+> 13. Una escalera, principalmente como la que necesitamos para la objetivación—una escalera de tijera, —necosita estar parada cn un suelo, ya natural, ya artificial.
+
+13. A ladder, especially such a one as we need for the objectification—a step-ladder,—needs to stand upon a floor, whether natural or artificial.
+
+> El hecho es: que, para trepar en la escalera, hay forzosa necesidad de estar en el suelo que la sustenta, y de conocer lo mejor posible las circuustancias de ese suclo, para el caso posible de una caida.
+
+The fact is that, in order to climb the ladder, there is an unavoidable necessity of being on the floor that supports it, and of knowing as well as possible the circumstances of that floor, in view of the possible case of a fall.
+
+> 14. El conocimiento de ese Ingar en que descansa la escalera, y que va hemos visto que es indispensable para empezar á subir por ella, es exactamente la representación de la realidad que á toda costa necesita la razón conocer para poder empezar á ascender por la inducción.
+
+14. The knowledge of that place on which the ladder rests, and which we have already seen to be indispensable in order to begin to climb it, is exactly the representation of the reality which reason at all costs needs to know in order to be able to begin to ascend by induction.
+
+> 15. Cuando ya se conoce el suelo, se puede afirmar seguro el pie en el primer escalón de la escalera. Cuando ya se conoce la realidad de donde intentamos sacar conocimientos, ya puede afirmarse la razól.
+
+15. When the floor is once known, one can set one’s foot securely on the first step of the ladder. When the reality from which we are attempting to draw knowledge is once known, reason can now take a firm stand.
+
+> 16. Si el piso se derrumba, la escalera se derumba. Asimismo, sin intuición no hay inducción; sin previo conocimiento de la realidad, no habrá conocimiento de las series de relaciones en que se funda el orden de las cosas reales,
+
+16. If the floor gives way, the ladder gives way. Likewise, without intuition there is no induction; without previous knowledge of reality there will be no knowledge of the series of relations on which the order of real things is founded.
+
+> 17. En cambio, cuando la inducción está basada cn la intuición, e] conocimiento de las relaciones de efecto 4 causa es tan natural, que se puede segmnir la serio de las relaciones, al modo que se puede ir subiendo escalón tras escalón.
+
+17. On the other hand, when induction is based upon intuition, the knowledge of the relations of effect to cause is so natural that the series of relations may be followed, just as one may go on climbing step after step.
+
+[p. 13]
+
+> 18. Cuando se llega al último. se tiene el conocimiento del conjunto: el suelo, con todos sus accidentes. allá abajo; la relación entre todas las realidades vistas y las Causas de esas realidades; el modo de enlazarse unas y otras; el aspecto que ofrecen, la realidad que constituyen.
+
+18. When one reaches the last, one has the knowledge of the whole: the floor, with all its accidents, down below; the relation between all the realities seen and the causes of those realities; the manner in which the one and the other are linked together; the aspect they present, the reality they constitute.
+
+> Entonces llega á ser posible para la razón cl formar un juicio que abarque á la vez la noción de realidad y la noción de relación entre los objetos de la realidad. Así es como se forma el juicio inductivo. que necesariamente tiene que corresponder á la noción de orden estable, natural, connatural.
+
+Then it becomes possible for reason to form a judgment which embraces at once the notion of reality and the notion of relation between the objects of reality. That is how the inductive judgment is formed, which must necessarily correspond to the notion of a stable, natural, connatural order.
+
+> 19. Así como ya, llegados al último peldaño, podemos bajar con seguridad una escalera. porque entonces. para bajar. estamos seguros de que hay una relación firme y estable entre el punto del cual descendemos y el punto al cual descendemos, del mismo modo, en el funcionar del entendimiento, cuando hemos llegado á la cima de la inducción, ya podemos, apoyándonos en el juicio inductivo que hemos formado, descender de relación en relación, estableciendo las dependencias que vayamos encontrando entre las causas de las cuales partimos y los efectos hacia los cuales descendemos.
+
+19. Just as, having reached the topmost rung, we can safely come down a ladder, because then, in order to come down, we are sure that there is a firm and stable relation between the point from which we descend and the point to which we descend, in the same way, in the functioning of the understanding, when we have reached the summit of induction, we can now, resting upon the inductive judgment which we have formed, descend from relation to relation, establishing the dependences which we go on finding between the causes from which we start and the effects towards which we descend.
+
+> Esc funcionamiento es lo que constituye la deducción, que—cn definitiva—no €s más que el trabajo de indagación de las leyes naturales cn que se funda un orden cualquiera.
+
+That functioning is what constitutes deduction, which—in the last resort—is nothing more than the work of inquiry into the natural laws on which any order whatever is founded.
+
+> 20. Lo QuE RECLAMA LA EXPOSICIÓN DE UNA CIENCIA.—Con esta obra del entendimiento habríamos consegnido conocer la realidad del objeto de conocimiento que nos habíamos propuesto, el orden de que forma parte y las leyes naturales á que está sujeto. Pero todavía no podriamos darnos satisfactoria cuenta de los conocimientos [PDF 22] que habríamos adquirido, si no pudiéramos presentárnoslos tan satisfactoriamente organizados, que pudiéramos contemplarlos en la razón como una organización efectiva de verdades demostradas. Como esta organización de verdades demostradas—que es lo que constituye da ciencia—reclama que la realidad que hemos conocido forme una parte efectiva del orden que por ella descubrimos, y que realidad y orden aparezcan como resultado orgánico de leyes reconocidas como tales, cs indispensable para consumar el trabajo de la razón en su empeñio de constituir ciencia, €s necesario que, además del juicio intuitivo, Ó primer concepto que fabricamos por medio de la intuición, y del juicio inductivo, ú raciocinio que fabricamos por medio de la inducción, y del juicio deductivo, 6 verdad general que fabricamos por medio de la deducción, cs necesario ponerse á fabricar una organización ó sistematización de las intuiciones, las inducciones y las deducciones adquiridas. Sólo entonces tendremos ciencia, porque sólo entonces tendremos una organización de Jas verdades descubiertas. Lo que reclama, pues, la exposición de una ciencia es la presentación de todos y cada uno de esos esfuerzos del entendimiento.
+
+20. What the exposition of a science demands.—With this work of the understanding we should have succeeded in knowing the reality of the object of knowledge which we had proposed to ourselves, the order of which it forms part and the natural laws to which it is subject. But we could not yet give ourselves a satisfactory account of the knowledge [PDF 22] — 14 — we should have acquired, if we could not present it to ourselves so satisfactorily organized that we might contemplate it in our reason as an effective organization of demonstrated truths. As this organization of demonstrated truths—which is what constitutes science—demands that the reality we have known form an effective part of the order which by means of it we discover, and that reality and order appear as the organic result of laws recognized as such, it is indispensable, in order to consummate the work of reason in its endeavour to constitute science, it is necessary that, besides the intuitive judgment, or first concept which we fashion by means of intuition, and the inductive judgment, or reasoning which we fashion by means of induction, and the deductive judgment, or general truth which we fashion by means of deduction, it is necessary to set about fashioning an organization or systematization of the intuitions, inductions and deductions acquired. Only then shall we have science, because only then shall we have an organization of the truths discovered. What the exposition of a science demands, then, is the presentation of each and every one of those efforts of the understanding.
+
+> 21. Er MÉTODO NATURAL DE UNA CIENCIA.— Para manifostar 6 presentar esos trabajos de la razón, hay que seguir el mismo método que ha seguido cn sus trabajos la razón. Por lo tanto, en ninguna exposición de ciencia se debería excluir ninguno de los actos y momentos del proceso ú movimientos de la razón en busca de verdades y en su esfuerzo de organización de esas verdades. Pero como los constructores y expositores de sistemas cientificos se encuentran en la cumbre á donde llega le razón en sus indagaciones, esos ex[PDF 23] positores parten siempre del más alto de los conocimientos que han adquirido. De aquí resulta ue el método normal de casi todas las ciencias e razonamientos es el deductivo. Y como en las ciencias experimentales los hechos acompañan siempre á la noción á modo de comprobación experimental de esa noción, el método que usan 6stas ciencias cs el inductivo. Mas como Ja inducción y la deducción son dos trabajos intelectuales que en realidad no pueden separarse, porque están de continuo comprobándose el uno por el otro, el método inductivo-deductivo es en realidad el modo común de exponer las ciencias secundarias. Y como en la exposición de las ciencias primarias hay que hacer uso continuo de los procedimientos inductivos y deductivos, también en ellas se puede establecer como métudo eficaz el inductivo-deductivo.
+
+21. The natural method of a science.—In order to manifest or present those labours of reason, one must follow the same method which reason has followed in its labours. Therefore, no exposition of a science ought to exclude any of the acts and moments of the process or movements of reason in search of truths and in its effort to organize those truths. But as the builders and expositors of scientific systems find themselves at the summit which reason reaches in its inquiries, those ex- [PDF 23] — 15 — positors always start from the highest of the knowledge they have acquired. Hence it results that the normal method of almost all the sciences of reasoning is the deductive. And as in the experimental sciences the facts always accompany the notion by way of experimental verification of that notion, the method which these sciences use is the inductive. But as induction and deduction are two intellectual labours which in reality cannot be separated, because they are continually verifying one another, the inductive-deductive method is in reality the common mode of expounding the secondary sciences. And as in the exposition of the primary sciences continual use must be made of inductive and deductive procedures, in them also the inductive-deductive may be established as an efficacious method.
+
+> 22. EL MÉTODI EFECTIVO.—Si se tiene cn cuenta que la razón humana procede nccesariamento de to visible á lo menos visible, de lo más conocido á lo menos conocido, de los efectos á las causas, de las intuiciones á las inducciones, de éstas á las deducciones y del deducir a] sistematizar, se comprenderá que el modo más efectivo de exponer una ciencia cualquiera, será el de seguir, cn la exposición, el mismo método que la razón humana ha seguido cn la elaboración de sus sistemas científicos. Si se siguiera este método— que sería mucho más efectivo y eficaz que el inductivo el deductivo aisladamente empleados ó que el inductivo-deductivo combinados,-—este roceder, del mismo modo en que lo hace la razón rumana, daría por resultado una visión mucho más exacta de las partes y del todo constitutivos de una ciencia.
+
+22. The effective method.—If it be borne in mind that human reason necessarily proceeds from the visible to the less visible, from the better known to the less known, from effects to causes, from intuitions to inductions, from these to deductions, and from deducing to systematizing, it will be understood that the most effective mode of expounding any science whatever will be that of following, in the exposition, the same method which human reason has followed in the elaboration of its scientific systems. If this method were followed—which would be much more effective and efficacious than the inductive and the deductive employed separately, or than the inductive-deductive combined,—this proceeding, in the same manner in which human reason does it, would result in a much more exact view of the parts and of the whole which constitute a science.
+
+> 23. CÓMO DEBE ESTUDIARSE UNA CIENCIA.—Las
+
+23. How a science ought to be studied.—The
+
+[PDF 24]
+
+> ciencias deben estudiarse como se: forman en su desarrollo histórico.
+
+— 16 — sciences ought to be studied as they are formed in their historical development.
+
+> Se forman, partiendo de intuiciones, hasta llegar á organizar las verdades descubiertas, de inducción en inducción, de deducción en deducción, y de sistematización cn sistematización. Primero, los hechos que constituyen la realidad que se quicre conocer: para esto hay que poner en función la intuición; segundo, el orden constituído por la realidad: para esto hay que hacer funcionar la inducción; tercero, las leyes naturales que han establecido el orden reconocido: para esto hay que poner en actividad la deducción; cuarto, los temas ó el enlace de las verdades primordiales: para esto hay que poncr en ejercicio da sistematización; quinto, la exposición: para csto hay que presentar con la mayor congruencia y orden la serie de verdades descubiertas que constituyen la ciencia general ú especial de que se trata.
+
+They are formed by starting from intuitions until they come to organize the truths discovered, from induction to induction, from deduction to deduction, and from systematization to systematization. First, the facts that constitute the reality one wishes to know: for this, intuition must be set to work; second, the order constituted by the reality: for this, induction must be made to function; third, the natural laws which have established the order recognized: for this, deduction must be set in activity; fourth, the themes, or the linking together of the primordial truths: for this, systematization must be brought into exercise; fifth, the exposition: for this, the series of discovered truths which constitute the general or special science in question must be presented with the greatest congruity and order.
+
+> 24. Cómo ESTUDIAREMOS LA SOCIOLOGÍA. — Ási, en este estudio empezaremos por el conocimiento de los hechos sociales; continuaremos por el conocimiento del orden social; seguiremos por el conocimiento de las leyes naturales de la Sociedad; proseguiremos por la sistematización de los principios en doctrina, y acabaremos por la exposición de la ciencia tal cual la hayamos constituido.
+
+24. How we shall study Sociology.—Thus, in this study we shall begin with the knowledge of social facts; we shall continue with the knowledge of the social order; we shall go on to the knowledge of the natural laws of Society; we shall proceed to the systematization of the principles into doctrine, and we shall end with the exposition of the science such as we shall have constituted it.
+
+> 25. Prax.—En cumplimiento de este propósito, seguiremos cste plan:
+
+25. Plan.—In fulfilment of this purpose, we shall follow this plan:
+
+## INTUITIVE SOCIOLOGY
+
+> SOCIOLOGÍA INTUITIVA
+
+Enumeration of social facts.
+
+> Enumeración de hechos sociales. Atención á cada hecho social. Percepción de cada hecho social.
+
+Attention to each social fact.
+
+Perception of each social fact.
+
+[p. 17]
+
+> Rememoración de los hechos en sí mismos y en sus circunstancias.
+
+Recollection of the facts in themselves and in their circumstances.
+
+> Representación imaginativa de los hechos sociales.
+
+Imaginative representation of the social facts.
+
+> Comparación de los hechos, según sus semejanzas y según sus diferencias.
+
+Comparison of the facts, according to their resemblances and according to their differences.
+
+> Formación del concepto ó juicio intuitivo sobre la realidad, término extremo de la intuición.
+
+Formation of the intuitive concept or judgment upon reality, the extreme term of intuition.
+
+## INDUCTIVE SOCIOLOGY
+
+> SOCIOLOGÍA INDUCTIVA
+
+From each fact, to the whole of the facts.
+
+> De cada hecho, al conjunto de los hechos.
+
+From the facts, to the doer.
+
+> De los hechos, al hechor.
+
+Observation of a relation between each fact and its whole; observation of a relation between the fact and the doer.
+
+> Observación de una relación entre cada hecho y su conjunto; observación de una relación entre el hecho y el hechor.
+
+Distinction of two elements in social reality: first, element of the reality of the facts; second, analysis of the reality of the social facts.
+
+> Distinción de dos clementos en la realidad social: primero, elemento de la realidad de los hechos; segundo, análisis de la realidad de los hechos sociales.
+
+Classification of the social facts.
+
+> Clasificación de los hechos sociales.
+
+Formation of the inductive judgment, basing it upon the capital relation that may have been discovered.
+
+## DEDUCTIVE SOCIOLOGY
+
+> Formación del juicio inductivo, basándolo en la relación capital que se haya descubierto.
+
+Natural laws of Society.
+
+> SOCIOLOGÍA DEDUCTIYA
+
+Law of Sociability: its statement.
+
+> Leyes naturales de la Sociedad.
+
+Law of Labour: its statement.
+
+> Ley de Sociabilidad: su enunciado. Ley de Trabajo: su enunciado.
+
+Law of Liberty: its statement.
+
+> Ley de Libertad: su enunciado. Ley de Educación: su enunciado. Ley de Progreso: su enunciado.
+
+Law of Education: its statement.
+
+> Ley del Ideal del Bien: su enunciado. Ley de Conservación: su enunciado. Ley de los Medios: su enunciado.
+
+Law of Progress: its statement.
+
+Law of the Ideal of the Good: its statement.
+
+Law of Conservation: its statement.
+
+Law of Media: its statement.
+
+[p. 18]
+
+> Clasificación de las leyes naturales de la Sociedad.
+
+Classification of the natural laws of Society.
+
+## SYSTEMATIC SOCIOLOGY
+
+> SOCIOLOGÍA SISTEMÁTICA
+
+Fundamental truths of Sociology.
+
+> Verdades fundamentales de la Sociología.
+
+Association of ideas serving to relate the study of Social Science to that of Anthropology.
+
+> Asociación de idcas que sirvan para relacionar el estudio de la Ciencia Social con el de la Antropologia.
+
+Association of ideas relating Sociology to Cosmology.
+
+## EXPOSITION OF SOCIAL SCIENCE
+
+> Asociación de ideas que relacionen la Sociologia con la Cosmologia.
+
+Etymological definition.
+
+> EXPOSICIÓN DE LA CIENCIA SOCIAL
+
+Scientific definition.
+
+> Definición etimológica.
+
+Methodological definition.
+
+> Definición científica.
+
+Divisions of Sociology.
+
+> Definición metodológica.
+
+Demonstration of the first sociological truths.
+
+> Divisiones de la Sociología.
+
+Establishment of the principles of organization of Social Science, as a development of those which constitute the anthropological and cosmological sciences.
+
+> Demostración de las primeras verdades sociológicas.
+
+The natural laws of Society demonstrated a priori and compared a posteriori in the life of human Society.
+
+> Establecimiento de los principios de organización de la Ciencia Social, como desarrollo de los que constituyen las ciencias antropológicas y Cosmológicas.
+
+Study of the social order, as the logical result of the natural laws of social organization.
+
+> Las leyes naturales de la Sociedad demostradas a privri y comparadas a posteriori en la vida de la Sociedad humana.
+
+Study of the same order, such as it appears in the historical disorder of human societies.
+
+> Estudio del orden social, como resultado lógico de las leyes naturales de la organización social.
+
+Exposition of the facts which prove, in the course of History, the existence of an order superior to the traditional disorder of human Society.
+
+> Estudio del mismo orden, tal como aparece cn el desorden histórico de las socicdades humanas.
+
+Enumeration of the social facts which make manifest
+
+> Exposición de los hechos que prucban, en el transcurso de la Historia, la existencia de un orden superior al desorden tradicional de la Sociedad humana.
+
+> Enumeración de los hechos sociales que paten-
+
+[PDF 27]
+
+> tizan una vida coherente y normal en cada existencia colectiva.
+
+— 19 — a coherent and normal life in every collective existence.
+
+> Hechos comprobatorios de la existencia de la Sociedad humana que patentizan desde cl principio de los tiempos la existencia de dos factores invariables, igualmente resistentes á toda violación de su naturaleza, en todo el transcurso de la Historia. Determinación de esos factores: el Individuo y
+
+Facts verifying the existence of human Society which make manifest, from the beginning of time, the existence of two invariable factors, equally resistant to every violation of their nature, throughout the whole course of History.
+
+Determination of those factors: the Individual and Society.
+
+[PDF 29]
+
+## BOOK I
+
+## THEORETICAL SOCIOLOGY
+
+## CHAPTER I
+
+> LIBRO I SOCIOLOGÍA TEÓRICA
+
+Intuitive Sociology
+
+> CAPÍTULO 1 SOCIOLOGÍA INTUITIVA
+
+1-4. Life in society. Social facts.—5-11. What social facts are like.—12-19. How they present themselves in History.—20. Intuitive judgment.
+
+> 1-4. La vida en sociedad. Hechos sociales.—5-11. Cómo son los hechos sociales.-—12-19, Cómo se presentan en la Historia. —20. Juicio intuitivo.
+
+1. Life in society. Social facts.—We all have before our eyes, according to the place in which we live, the spectacle of a life distinct from that of each one of us, which is—nevertheless —so intimately related to our own life, that we are certain that if that life were wanting to us, we could not go on living. We are as sure of this as we are that, if the Sun stops, the Earth ceases to turn.
+
+> 1. La vIDA EN SOCIEDAD. HECHOS SOCIALES.— Todos tenemos ú la vista, según el lugar en que vivimos, el espectáculo de una vida distinta de la de cada uno de nosotros, que está—sin embargo— tan intimamente relacionada con la vida nuestra.
+
+2. That dependence of the Individual, represented by each one of us, upon Society, represented by the whole of all of us, is a fact which is known to all of us by immediate evidence and by the traditional knowledge we have that in all nations this same thing happens and has always happened.
+
+> ue tenemos la seguridad de que si esa vida nos altara, nosotros no podriamos seguir viviendo. Tan seguros estamos de eso, como de que si el Sol se para, cesa de girar la Tierra.
+
+> Esa dependencia del Individuo, representado por cada uno de nosotros, €n la Sociedad. representada por el conjunto de todos nosotros, es un hecho que á todos nos consta por evidencia inmediata y por el conocimiento tradicional que tenemos de que en todas las naciones sucede y ha sucedido siempre eso mismo.
+
+> 3. Hay, pues, hechos que nos constan y que se refieren á la existencia del Individuo y de la Sociedad, á la cocxistencia del Individuo y [PDF 30] de la Sociedad, á la dependencia mutua de Individuo y Sociedad, á la repetición de esos hechos en todas partes y en todo tiempo como una Cosa normal y natural.
+
+3. There are, then, facts which are known to us and which refer to the existence of the Individual and of Society, to the coexistence of the Individual and [PDF 30] — 22 — of Society, to the mutual dependence of Individual and Society, to the repetition of those facts everywhere and at all times as a normal and natural thing.
+
+> 4. Esos cuatro hechos se aumentan indefinidamente en cuanto nos ponemos 4 examinar esa repetición normal de hechos.
+
+4. Those four facts increase indefinitely as soon as we set about examining that normal repetition of facts.
+
+> Efectivamente, si tratamos de indagar quién es el Individuo humano, inmediatamente vemos que, siendo como és un todo, de tal modo es una parte del todo social en que aparece funcionando, que no se concibe que él pueda vivir sin el todo, como no se concibe que el todo pueda subsistir sin él.
+
+In effect, if we try to inquire who the human Individual is, we immediately see that, being as he is a whole, he is in such wise a part of the social whole in which he appears functioning, that it is not conceivable that he could live without the whole, as it is not conceivable that the whole could subsist without him.
+
+> En la vida de este todo, como en la vida de esta, parto, vemos exactamente las mismas necesidades vitales, relacionadas con las mismas satisfacciotes necesarias: la misma alegría cuando hay satisfacción de necesidades; la misma tristeza cnuando las necesidades no han sido satisfechas; los mismos esfuerzos, la misma angustia, la misma desolación, cuando no pueden satisfacerse las naturales necesidades.
+
+In the life of this whole, as in the life of this part, we see exactly the same vital needs, related to the same necessary satisfactions: the same joy when there is satisfaction of needs; the same sadness when the needs have not been satisfied; the same efforts, the same anguish, the same desolation, when the natural needs cannot be satisfied.
+
+> 9. CÓMO SON LOS HECHOS SOCIALES. —$S1 ftomamos las necesidades de la vida como medio de 11dagación, pronto vemos que en el Individuo como en la Sociedad, y en la Sociedad como en el Individuo, la vida no está limitada 4 necesidades de carácter exclusivamente material.
+
+5. What social facts are like.—If we take the needs of life as a means of inquiry, we soon see that in the Individual as in Society, and in Society as in the Individual, life is not limited to needs of an exclusively material character.
+
+> 6. Al contrario, lo mismo que en el Individuo sentimos y observamos necesidades no fisicas, asi observamos on todas las sociedades y grupos socialos una porción de hechos distintos de los que producen la vida fisica.
+
+6. On the contrary, just as in the Individual we feel and observe needs that are not physical, so we observe in all societies and social groups a number of facts distinct from those which produce physical life.
+
+> 7. Asi, Jos esfuerzos para establecer el orden, fundándolo en la promulgación y cumplimiento de la ley, hacen de ésta un agente de carácter [PDF 31] moral, que todos los dias se vigoriza, 4 medida que las costumbres fundadas en derecho se arraigan en la Sociedad.
+
+7. Thus, the efforts to establish order, founding it upon the promulgation and fulfilment of the law, make of the law an agent of a [PDF 31] — 23 — moral character, which grows stronger every day, in proportion as customs founded upon right take root in Society.
+
+> 8. Asimismo, las costumbres que resultan de nuestro conocimiento y acatamiento de deberes domésticos, políticos y sociales, son obra también de un agente moral, que actúa tan poderosamente sobre nuestra voluntad, como actúa sobre nuestro estómago la necesidad de satisfacer nuestra hambre.
+
+8. Likewise, the customs which result from our knowledge of and submission to domestic, political and social duties, are also the work of a moral agent, which acts as powerfully upon our will as the need to satisfy our hunger acts upon our stomach.
+
+> 9. De igual modo, sin que al principio nos demos cuenta de la fuerza á que obedecemos, todo nuestro empeño de individuos en sociedad es aprender artes y ciencias, reglas y verdades que nos pongan en expectativa de los otros asociados; todo el empeño de la Sociedad está en proveerse de auxiliares y conservadores de sus conocimientos adquiridos, que los transmitan por medio de la enseñanza.
+
+9. In the same way, without our being aware at first of the force we obey, our whole endeavour as individuals in society is to learn arts and sciences, rules and truths which may place us on an equal expectation with the other associates; the whole endeavour of Society lies in providing itself with auxiliaries and conservers of its acquired knowledge, who may transmit it by means of instruction.
+
+> 10. Por más que sea un acto de sensibilidad individual el que empieza por fecundar en el entendimiento las ideas religiosas, la religiosidad no tarda en ser un hecho social, cuyos divorsos caracteres se atemperan de tal modo al estado social, que es manifiesta la relación entre la religión y la sociabilidad actual.
+
+10. However much it may be an act of individual sensibility that first fecundates religious ideas in the understanding, religiosity is not slow to become a social fact, whose various characters are so tempered to the social state, that the relation between religion and actual sociability is manifest.
+
+> 11. Desde cuando abrimos los ojos en una sociedad de las que tienen el barniz de la civilización, nos encontramos con que nuestro único obstáculo al indeliberado uso de nuestra voluntad, no es sólo la ley escrita. sino una fuerza coactiva, que nos obliga á obedecer la ley. Esta coacción, en forma de multa, de cárcel, de penitenciaria, de asilo de vagos, de manicomio, de policía rural, de policía urbana, vemos también que se le opone á los estados vecinos ú distantes, por medio de fuerzas organizadas en mar y tierra, siempre que [PDF 32] se atenta contra algún derecho ó interés de nuestro estado.
+
+11. From the moment we open our eyes in one of those societies that have the varnish of civilization, we find that our only obstacle to the undeliberated use of our will is not only the written law, but a coercive force which obliges us to obey the law. This coercion, in the form of the fine, the gaol, the penitentiary, the vagrants’ asylum, the madhouse, the rural police, the urban police, we see also opposed to neighbouring or distant states, by means of forces organized on sea and land, whenever [PDF 32] — 24 — any right or interest of our state is attacked.
+
+> 12. Cómo SE PRESENTAN EN LA HISTORIA LOS HECHOS SOCIALES. —lósta, que es una verdadera serie de hechos, se puede completar por otra y más series, con sólo consultar la actividad cuot1diana de cualquiera grupo social; pero como el estudio más completo de la vida de los hombres corresponde á la Historia, y como del estudio mismo de la Historia es de donde efectivamente surgió en la mente de los pensadores la idea de una Ciencia Social, completernos esta busca de hechos llamados á patentizarnos la realidad de la vida de las sociedades, con el examen del movimiento de la Historia en la evolución general de los conocimientos humanos. De ese mode, al par ue veremos consagrada en ja Historia la inudable existencia del sér uno y vario que llamamos Sociedad, veremos también los cambios de método en la Historia que han servido para sugerir la realidad de la Ciencia Social.
+
+12. How social facts present themselves in History.— This, which is a veritable series of facts, may be completed by another and further series, merely by consulting the daily activity of any social group whatever; but as the most complete study of the life of men belongs to History, and as it is from the very study of History that the idea of a Social Science actually arose in the mind of thinkers, let us complete this search for facts destined to make manifest to us the reality of the life of societies, with an examination of the movement of History in the general evolution of human knowledge. In that way, at the same time as we shall see consecrated in History the indubitable existence of the being, one and manifold, which we call Society, we shall see also the changes of method in History which have served to suggest the reality of Social Science.
+
+> 13. La vida humana, tanto la individual cuanto la colectiva, se nos presenta primero en la Historia narrativa. Historia ésta que se contenta con narrar lo que se cuenta, sin más averiguación de exactitud y autenticidad de hechos, está plagada de errores, inexactitudes, mentiras, prejuicios ú juicios a priori, leyendas, consejas y supersticiones, que desorientan á la razón y que la hacen incapaz de resolverse por la verdad 0 la mentira de las narraciones que se jactan de históricas. No obstante, es imposible desconocer la realidad que aparece vivicndo en esa confusa variedad de hechos incongruentes, de acciones sin causa, de sucesos sin efectos: de modo que, aun del fondo de esa historia que parece que sale de labios y de plumas infantiles, se obticne siempre [PDF 33] como resultado la visión, así seca obscura, de un sér que existe efectivamente y de quien son los hechos que nos cuentan.
+
+13. Human life, the individual as much as the collective, presents itself to us first in narrative History. This History, which contents itself with narrating what is told, without further ascertainment of the exactitude and authenticity of facts, is infested with errors, inexactitudes, lies, prejudices or a priori judgments, legends, old wives’ tales and superstitions, which disorient reason and render it incapable of deciding for the truth or the falsehood of narratives that boast of being historical. Nevertheless, it is impossible not to recognize the reality that appears living in that confused variety of incongruous facts, of actions without cause, of events without effects: so that, even from the depths of that history which seems to issue from the lips and pens of children, there is always obtained [PDF 33] — 25 — as a result the vision, be it obscure, of a being that really exists and to whom the facts they tell us belong.
+
+> 14. Cuando los pensadoros se ponen ú pensar en la incongruencia de los hechos narrados por la Historia meramente narrativa, conciben y realizan el propósito de revisarla, poniendo los hechos que ella cuenta en una relación más lógica.
+
+14. When thinkers set themselves to think upon the incongruity of the facts narrated by merely narrative History, they conceive and carry out the purpose of revising it, placing the facts it tells in a more logical relation, and increasing, with facts which narrative History at times tells us, the quantity of actions performed by man. And then there at once appears a subject in History, which is: the human being.
+
+> aumentando con hechos que nos cuenta á veces a Historia narrativa, la cantidad de acciones realizadas por el hombre. Y ya entonces aparece un sujeto en la Historia, que es: el sér humano. como el sér humano vive conforme á las necesidades normales de su vida, ¿pso facto encuentra el crítico en los hechos de la Historia la base del juicio y el criterio que aplica á la ordenación y justificación de los hechos de la Historia narrativa. El criterio que entonces aplica la Historia cs la misma naturaleza humana que, subordinada á relaciones constantes de causa y efecto, de medio y fin, de necesidades y satisfacciones, va guiando al critico de la Historia, haciéndolo descubrir la falsedad de algunos hechos, la mediarealidad de otros, la inconsistencia lógica de éstos, las causas tradicionales y locales de aquéllos; , entonces, cuando en virtud de esc criterio de os hechos humanos, referidos á la naturaleza hnmana del hechor, se va poco 4 poco escrutando las.causas y concausas que concurren en la determinación de los hechos humanos, la misma critica histórica que vino á derrumbar el edificio de la historia tradicional, se encuentra pasmada ante el hecho de que son verdades efectivas muchas de las más grandes falsedades que la decidicron á rehacer la Historia.
+
+And as the human being lives in conformity with the normal needs of his life, ipso facto the critic finds in the facts of History the basis of the judgment and the criterion which he applies to the ordering and justification of the facts of narrative History. The criterion which History then applies is human nature itself, which, subordinated to constant relations of cause and effect, of means and end, of needs and satisfactions, goes on guiding the critic of History, making him discover the falsity of some facts, the half-reality of others, the logical inconsistency of these, the traditional and local causes of those; and then, when by virtue of that criterion of human facts, referred to the human nature of the doer, the causes and concurrent causes which combine in the determination of human facts are little by little scrutinized, the very historical criticism which came to pull down the edifice of traditional history finds itself astounded before the fact that many of the greatest falsehoods which decided it to remake History are effective truths.
+
+> Este hecho de la rehabilitación de muchas mentiras históricas, es de suyo una tan importante [PDF 34] comprobación de la realidad social, que es indisensable detenerse ante él, y meditar en él, antes de seguir á la Historia en su última evolución.
+
+This fact of the rehabilitation of many historical lies is in itself so important a [PDF 34] — 26 — confirmation of social reality, that it is indispensable to pause before it, and meditate upon it, before following History in its latest evolution.
+
+> 15. Tomando como motivo lo más cercano y conocido, tenemos en la historia de la conquista de América por los españoles, un hecho constante que se repite desde el mar de las Antillas hasta el estrecho de Magallanes, y es: la aparición de Santlago—patrón de España,—ó de la Virgen de las Mercedes—patrona de su ejército, —como generales en jefe de las grandes batallas de los españoles contra los indigenas.
+
+15. Taking as our occasion what is nearest and best known, we have in the history of the conquest of America by the Spaniards a constant fact which is repeated from the Caribbean Sea to the Strait of Magellan, and it is: the apparition of Santiago—patron of Spain,—or of Our Lady of Mercy—patroness of its army,—as generals-in-chief in the great battles of the Spaniards against the natives.
+
+> Manifiestamente, cso no es verdad ni puede serlo, Y sin embargo de ser una mentira histórica, es de tal manera una verdad sociótica, que se puede asegurar que los españoles no hubieran triunfado en Otumba, ni en la Maguana, ni en el Maule, si no hubieran creído ver en el aire, guiándolos y azuzándolos, á sus santos favoritos.
+
+Manifestly, that is not true nor can it be. And yet, though it is a historical lie, it is in such a manner a sociotic truth, that it may be affirmed that the Spaniards would not have triumphed at Otumba, nor in the Maguana, nor on the Maule, had they not believed they saw in the air, guiding them and urging them on, their favourite saints.
+
+> En nuestros pueblos de todo el continente, se encuentran huellas de la idolatría más ó menos antropofórmica de los habitantes ya un poco avezados á la vida civil. lisos idolos desempeñaban tan positivo y eficaz papel en la vida doméstica y pública de los aborígenes, que, sin la destrucción de los idolos del Cuzco por los Pizarro, es casi imposible que los conquistadores españoles hubieran podido llevar á cabo sus empresas. Es patente que aquellos pedruscos tosca 6 pulidamente configurados no podian realizar en favor de los indigenas hazañas más decisivas que las de sus émulos los santos de palo. Y sin embargo, es completamente exacto que la destrucción de los idolos fué la destrucción de la confianza de los pueblos aborigenes de América.
+
+Among our peoples of the whole continent are found traces of the more or less anthropomorphic idolatry of inhabitants already somewhat accustomed to civil life. Those idols played so positive and efficacious a part in the domestic and public life of the aborigines, that, without the destruction of the idols of Cuzco by the Pizarros, it is almost impossible that the Spanish conquerors could have carried out their enterprises. It is patent that those great stones, roughly or smoothly shaped, could not perform in favour of the natives exploits more decisive than those of their rivals the wooden saints. And yet, it is entirely exact that the destruction of the idols was the destruction of the confidence of the aboriginal peoples of America.
+
+> 16. Cuando la Historia narrativa cuenta, pues, en América, en Europa, en Asia, en Africa y en [PDF 35] Oceanía, como hechos cfectivos, la intervención directa y personal de dioses, ú de sus agentes, en las luchas particulares y en la vida general de los pueblos, no hace más que decir. concretándose á la actividad religiosa de los pueblos, lo que de cualquiera otra actividad podria decir.
+
+16. When narrative History, then, relates in America, in Europe, in Asia, in Africa and in [PDF 35] — 27 — Oceania, as effective facts, the direct and personal intervention of gods, or of their agents, in the particular struggles and in the general life of peoples, it does no more than say, confining itself to the religious activity of peoples, what it could say of any other activity.
+
+> 17. En cierto modo, por tanto, una de las más difíciles tareas de la Historia critica ha sido el restaurar como hechos efectivos de la vida de los pueblos, actos, cultos, modas, costumbres, que á primera vista aparecen como imposibilidades materiales, y que, á segunda inspección, manifiestan la realidad de influencias del medio social. Así es como, por ejemplo, todas las que en los libros de Herodoto pasaban por mentiras, han ido poco á poco apareciendo ante los criticos de la Historia como verdades de hecho. Así es como los cuentos deslumbradores y absurdos que Marco Polo contó en el siglo xiv á los pueblos meridionales de Europa, se van presentando como cosas naturales cu el seno de las sociedades bárbaras, semibárbaras y semicivilizadas de quienos él las referia.
+
+17. In a certain manner, therefore, one of the most difficult tasks of critical History has been that of restoring, as effective facts of the life of peoples, acts, cults, fashions, customs, which at first sight appear as material impossibilities, and which, on second inspection, manifest the reality of influences of the social medium. Thus it is that, for example, all the things which in the books of Herodotus passed for lies have little by little been appearing before the critics of History as truths of fact. Thus it is that the dazzling and absurd tales which Marco Polo told in the fourteenth century to the southern peoples of Europe are coming to present themselves as natural things in the bosom of the barbarous, semi-barbarous and semi-civilized societies of which he reported them.
+
+> 18. Esta obra de restauración, que todos los días nos presenta ya una costumbre, ya un hecho, ya un hombre de la Historia, puestos ¿ luz distinta de la en que los contemplábamos, ha servido y seguirá sirviendo para hacer manifiesta la existencia de dos hechos paralelos en la historia de todas las existencias sociales: en primer lugar. la actividad biológica del grupo social de que se trata; en segundo lugar, la actividad psicológica del mismo grupo.
+
+18. This work of restoration, which every day presents to us now a custom, now a fact, now a man of History, placed in a light different from that in which we used to contemplate them, has served and will go on serving to make manifest the existence of two parallel facts in the history of all social existences: in the first place, the biological activity of the social group in question; in the second place, the psychological activity of the same group.
+
+> 19. Asi es como, fundándose en esta última realidad y contrastándola con la otra, y viendo aparecer ambas realidades, en todos los tiempos y lugares, y actuar la misma naturaleza humana [PDF 36] entre todos los llombres del Planeta, y repetirse los mismos fenómenos históricos, asi es como ha podido nacer la Ciencia Nueva—que es como Vico, el fundador de la Filosofía de la Historia, concibió y llamó á esta última evolución de la Historia misma.—Y así es como la Ciencia Nueva, fundada en la realidad de su objeto, demuestra de una manera concluyente la realidad del sér que ella tiene que empezar por demostrar que existe, pues que no hay ciencia en donde no se patentice la realidad del sujeto y del objeto de la ciencia.
+
+19. Thus it is that, founding themselves upon this latter reality and contrasting it with the other, and seeing both realities appear, in all times and places, and the same human nature acting [PDF 36] — 28 — among all the men of the Planet, and the same historical phenomena repeated, thus it is that the New Science has been able to be born—which is how Vico, the founder of the Philosophy of History, conceived and named this latest evolution of History itself.—And thus it is that the New Science, founded upon the reality of its object, demonstrates in a conclusive manner the reality of the being which it must begin by demonstrating to exist, since there is no science where the reality of the subject and of the object of the science is not made patent.
+
+> 20. CONCEPTO Ó JUICIO INTUITIVO SOBRE LA So- CIEDAD.— Así es también como llegamos, por el enlace de todas esas intuiciones, á la concepción inmediata y á la formación espontánca del concepto ó juicio intuitivo de que la Sociedad es una realidad viva, un sér viviente.
+
+20. Concept or intuitive judgment concerning Society. —Thus it is also that we arrive, through the linking of all those intuitions, at the immediate conception and the spontaneous formation of the concept or intuitive judgment that Society is a living reality, a living being.
+
+## CHAPTER II
+
+> CAPÍTULO Il SOCIOLOGÍA INDUCTIVA
+
+Inductive Sociology
+
+> 1. Objeto de este capítulo.—2. Mórmula del juicio intuitivo sobre la Sociedad.—3 y 4. Examen de ésta.—5-7. Funciones de la vida social.—8 y 9. El orden social.—10-22, Clasificación de las funciones sociales. Justificación de tal clasificación.- 23. Juicio inductivo sobre la Sociedad.
+
+1. Object of this chapter.—2. Formula of the intuitive judgment concerning Society.—3 and 4. Examination of it.—5-7. Functions of social life.—8 and 9. The social order.—10-22. Classification of the social functions. Justification of such classification.—23. Inductive judgment concerning Society.
+
+> 1. OBJETO DE ESTE CAPÍTUJ.O.—En esta parto de nuestro estudio, nos toca establecer demostrativamente la existencia de un orden natural de la Sociedad. Naturalmente, para demostrar que ese orden normal existe, tenemos que fundarnos en la realidad de los hechos sociales, porque el trabajo de nuestro entendimiento en esta indagación tiene que ser principalmente trabajo de inducción, para el cual tenemos que tomar como ma[PDF 37] teria elemental las intuiciones que formamos, y principalmente el juicio intuitivo á que llegamos.
+
+1. Object of this chapter.—In this part of our study, it falls to us to establish demonstratively the existence of a natural order of Society. Naturally, in order to demonstrate that this normal order exists, we must found ourselves upon the reality of social facts, because the labour of our understanding in this inquiry must be principally a labour of induction, for which we must take as elementary ma- [PDF 37] — 29 — terial the intuitions we form, and principally the intuitive judgment at which we arrive.
+
+> 2. FÓRMULA DEL JUICIO INTUITIVO SOBRE TA S0cIÉDAD.—El juicio intuitivo que formamos sobre la Sociedad, puede ser formulado de cualquier modo, con tal que afirme la existencia de la realidad social. Cualquiera fórmula de él es, pues, indiferente, y cualquiera es buena. Sea ésta: la Sociedad es una realidad viva y activa.
+
+2. Formula of the intuitive judgment concerning Society.—The intuitive judgment we form concerning Society may be formulated in any manner, provided it affirms the existence of the social reality. Any formula of it is, then, indifferent, and any one is good. Let it be this: Society is a living and active reality.
+
+> 3. EXAMEN DE ESTE JUICIO: LA SOCIEDAD ES UNA REALIDAD VIVA.—Es decir, que afirmámos una realidad viviente. Por tanto, afirmamos una realidad biológica. Por tanto, afirmamos una realidad orgánica. Por tanto, afirmamos una existencia organizada según la necesaria é infalible relación de parte á todo y de todo á parte.
+
+3. Examination of this judgment: Society is a living reality.—That is to say, we affirm a living reality. Therefore, we affirm a biological reality. Therefore, we affirm an organic reality. Therefore, we affirm an existence organized according to the necessary and infallible relation of part to whole and of whole to part.
+
+> 4. LA SOCIEDAD ES UNA REALIDAD ACTIVA.—Con esto afirmamos que el sér social vive como todos los seres de la escala zoológica, en virtud de funciones de su vida, y para fines y propósitos de vida.
+
+4. Society is an active reality.—With this we affirm that the social being lives, like all the beings of the zoological scale, by virtue of functions of its life, and for ends and purposes of life.
+
+> 5. FUNCIONES DE La VIDA SOCIAL. —Las funciones de la vida de la Sociedad corresponden a las necesidades por satisfacer; de ahí que en ciudades y aldeas, en grupos municipales, nacionales é internacionales, todos los dias tengamos á la vista una porción de hechos iguales á sí mismos, que se repiten tan periódicamente como los actos de los individuos en la satisfacción de sus necesidades.
+
+5. Functions of social life.—The functions of the life of Society correspond to the needs to be satisfied; hence it is that in cities and villages, in municipal, national and international groups, we have every day before our eyes a number of facts equal to themselves, which repeat themselves as periodically as the acts of individuals in the satisfaction of their needs.
+
+> 6. Así, en la Ciudad, desde el alborear del día hasta la retirada definitiva á sus hogares por la noche en las horas de reposo, todos los habitantes, simultáneamente, realizan una porción de fines de la vida colectiva, que son á la par fines de la vida individual, y que muestran por sí mismos la naturalidad de las funciones á que esos actos [PDF 38] corresponden. Mientras los unos abren sus talleres, y comienzan los otros las labores en sus campos, y las mujeres inician la hacienda de sus casas, y los pastores de greyes religiosas entonan sus salmodias, y las escuelas reunen su población escolar, y los tribunales de justicia se preparan ú su obra, y las oficinas del gobierno á la solicitud de postulantes, y el Congreso renucva sus hechos or el derecho, y el periodismo vigilante del bien, ó estimulante del mal, prepara sus armas defensivas, ú ofensivas, de la Moral Social, y por las calles y plazas discurren los atureados y los ociosos, los maldicientes y difamadores, y en librerías y bibliotecas se mueve una porción de Sociedad que busca las últimas noticias de la Ciencia y las últimas verdades del saber contemporéáneo, una y varia á la vez, unidad y múltiplo, individuo y género, parte y todo, consuma la sociedad urbana la labor de cada día.
+
+6. Thus, in the City, from the dawning of the day until the final retirement to their homes at night in the hours of repose, all the inhabitants, simultaneously, accomplish a number of ends of the collective life, which are at the same time ends of the individual life, and which show of themselves the naturalness of the functions to which those acts [PDF 38] — 30 — correspond. While some open their workshops, and others begin the labours in their fields, and the women commence the management of their houses, and the shepherds of religious flocks intone their psalmody, and the schools gather their scholastic population, and the courts of justice make ready for their work, and the offices of government for the solicitations of petitioners, and Congress renews its deeds for right, and journalism, watchful for good, or stimulating to evil, prepares its defensive, or offensive, arms of Social Morality, and through the streets and squares pass the busy and the idle, the slanderers and defamers, and in bookshops and libraries there moves a portion of Society which seeks the latest news of Science and the latest truths of contemporary knowledge, one and manifold at once, unity and multiple, individual and genus, part and whole, urban society consummates the labour of each day.
+
+> 7. Un día de trabajo ó un día de fiesta en la Ciudad, son el mismo día de fiesta ó de trabajo en cualquier otra ciudad, y, lo que es más, en cualquier otro lugar de la Pierra; lo que cs más aún, en cualquier tiempo de da Historia. Es, porque, salvas las diferencias de tiempo, de lugar y medio-ambiente; es, porque, salvas esas diferencias, todo día, en todo lugar, es una expresión de vida individual y colectiva que obligatoriamente manifiesta la misma actividad orgánica del sér que vive.
+
+7. A working day or a holiday in the City is the same holiday or working day in any other city, and, what is more, in any other place on the Earth; what is more still, in any time of History. It is, because, saving the differences of time, of place and environment; it is, because, saving those differences, every day, in every place, is an expression of individual and collective life which obligatorily manifests the same organic activity of the being that lives.
+
+> 8. EL ORDEN so0ciaL.—El sér social, como el sér individual, ni más ni menos, vive de su trabajo; vive para fundar un orden colectivo que dé paz y seguridad á los bienes, á las personas y á a sociedad general; vive tratando de adicstrarse en el manejo de todos los instrumentos materiales, intelectuales y morales (que tiene á su dispo[PDF 39] sición el sér humano para mejorarse y progresar; vive de su afán de orden moral, y con propósito de consagrar con actos, ritos y cultos regulados, la doctrina en que resume sus creencias; vivc— por último—de su necesidad de asegurar el respeto material y la ayuda de la fuerza de conservación á todas las instituciones de orden civil y á la grande institución de la propia nacionalidad.
+
+8. The social order.—The social being, like the individual being, neither more nor less, lives by its labour; lives to found a collective order which may give peace and security to property, to persons and to society in general; lives seeking to train itself in the handling of all the material, intellectual and moral instruments which the human being has at his dispo- [PDF 39] — 31 — sal to better himself and progress; lives by its eagerness for moral order, and with the purpose of consecrating with regulated acts, rites and cults the doctrine in which it sums up its beliefs; lives—lastly—by its need to secure material respect and the aid of the conserving force for all the institutions of civil order and for the great institution of its own nationality.
+
+> 9. El conjunto de todos estos actos de vida sempiterna del asociado humano, se reune en una suma que llamamos civilización, porque la experiencia universal y continua de los hombres les ha probado que la realización de la vida individual y colectiva es más conforme á las necesidades de su naturaleza cuando la efectúa en la Ciudad (Civitas) que cuando tratan de efectuarla en las soledades de los campos.
+
+9. The whole of all these acts of the everlasting life of the human associate is gathered into a sum which we call civilization, because the universal and continuous experience of men has proved to them that the realization of individual and collective life is more conformable to the needs of their nature when they effect it in the City (Civitas) than when they try to effect it in the solitudes of the fields.
+
+> 10. CLASIFICACIÓN DE LAS FUNCIONES SOCIALES Y JUSTIFICACIÓN DE ESTA CLASIFICACIÓN. —NoO parece, á primera vista, que la actividad vital del sér social esté reducida á sólo cinco hechos; pero si se piensa que los hechos enumerados son genéricos, que esa reducción de hechos á género resulta de la similitud completa de multitud de actos, se convendrá en que esos cinco géneros de hechos son efectivamente los únicos que constituyen la actividad funcional del sér social, y que lo que llamamos civilización no es más que el conjunto de funciones de la vida social, en donde naturalmente aparecen disgregados, desordenados, inclasificados, los hechos que por clasificación hemos reducido á cinco géneros. Tal vez convenga justificar esta clasificación.
+
+10. Classification of the social functions and justification of this classification.—It does not seem, at first sight, that the vital activity of the social being is reduced to only five facts; but if it is considered that the facts enumerated are generic, that this reduction of facts to genus results from the complete similarity of a multitude of acts, it will be agreed that those five genera of facts are in effect the only ones that constitute the functional activity of the social being, and that what we call civilization is nothing more than the whole of the functions of social life, wherein naturally appear disaggregated, disordered, unclassified, the facts which by classification we have reduced to five genera. Perhaps it may be well to justify this classification.
+
+> 11. Hemos empezado por los hechos del trabajo, y efectivamente, no hay ninguno de los cien mil actos de carácter individual y colectivo, de carácter biótico é histórico que diariamente rea[PDF 40] liza cl hombre congregado con el hombre, que no sea un acto de trabajo. En la menor aldea y en la mayor ciudad, los mil actos-industriales, en el hogar, en el taller, en la labranza, en el movimiento de mercaderías, en la locomoción de individuos, en los cambios de moneda, en las operaciones de crédito, en las especulaciones azarosas de las Bolsas, en las combinaciones del ahorro, en los cálculos de la cooperación, en los esfuerzos del colectivismo, en las esperanzas del socialismo, en los tranquilos pasos del productivismo, en las guerras de tarifas, en la amplia libertad del eomercio, en la calculada guerra á los productos exteriores hecha por el proteccionismo nacional, en todos los fenómenos de la producción de la riqueza, en todos los fenómenos de su distribución, cambio y consumo; lo que se ve cada día en mayor ó6 menor escenario y en estado de mayor 6 menor excitación, es la función del trabajo social, función primaria de la Sociedad, equivalente en su vida colectiva á la función de la nutrición en la vida individual.
+
+11. We have begun with the facts of labour, and in effect, there is not one of the hundred thousand acts of individual and collective character, of biotic and historical character, which man congregated with man daily per- [PDF 40] — 32 — forms, that is not an act of labour. In the least village and in the greatest city, the thousand industrial acts, in the home, in the workshop, in tillage, in the movement of merchandise, in the locomotion of individuals, in the exchanges of money, in the operations of credit, in the hazardous speculations of the Exchanges, in the combinations of saving, in the calculations of co-operation, in the efforts of collectivism, in the hopes of socialism, in the tranquil steps of productivism, in the wars of tariffs, in the ample liberty of commerce, in the calculated war upon foreign products waged by national protectionism, in all the phenomena of the production of wealth, in all the phenomena of its distribution, exchange and consumption; what is seen each day upon a greater or lesser stage and in a state of greater or lesser excitement, is the function of social labour, the primary function of Society, equivalent in its collective life to the function of nutrition in the individual life.
+
+> 12. La Sociedad en masa, empezando por el Individuo, continuando por los grupos y concluyendo por la especie, á cada paso nos da muestra evidente de la necesidad de un gobierno de los hombres que establezca la seguridad, la libertad y el orden. A partir del Individuo, que se somete á una norma de conducta—que es como su norma de gobierno, —todas son, cn la vida humana, tentativas de orden, que se trata de establecer por medio de gobiernos, ya personales, ya doctrinales, que sirvan de instrumento á ese propósito.
+
+12. Society in the mass, beginning with the Individual, continuing with the groups and concluding with the species, at every step gives us evident proof of the need of a government of men which may establish security, liberty and order. Starting from the Individual, who submits himself to a norm of conduct —which is as it were his norm of government,—all things in human life are attempts at order, which it is sought to establish by means of governments, now personal, now doctrinal, which may serve as instruments to that purpose.
+
+> Para llevarlo á cabo. centenares de miles son los actos que en las efemérides, en los anales, en las crónicas, en la historia gencral del hombre realizan el Individuo y la Especie. Desde el hogar [PDF 41] más desordenado hasta el más ordenado; en los municipios peor administrados y en los que tienen mejor ayuntamiento; en las más autónomas rovincias de los paises que han logrado distribuir de un modo efectivo el poder público, y en las provincias de países en donde un jefezuelo tiene derecho de vidas y haciendas sobre sus administrados; en las naciones que más han luchado por el derecho público y privado, asi como en las ue menos luchas de esa especie se han sustentao, todos los días hay multitud de actos de gobierno propiamente tal, de administración pa blica y privada, de tribunales de justicia y solicitadores de justicia, de política buena y mala, de partidos políticos mal y bien organizados, de instituciones encargadas de la defensa del Derecho, de instituciones que sostienen todavía la tradición del Derecho antiguo, de hombres que pugnan por la reforma del Derccho en lo civil, en lo <riminal, en lo político, en lo internacional; para acabar, en la vida entera de las sociedades humanas, se muestra como una necesidad urgente la organización del gobierno sobre la base del erecho.
+
+To carry it out, hundreds of thousands are the acts which, in the ephemerides, in the annals, in the chronicles, in the general history of man, the Individual and the Species perform. From the [PDF 41] — 33 — most disordered home to the most orderly; in the worst administered municipalities and in those that have the best town councils; in the most autonomous provinces of the countries that have succeeded in distributing public power in an effective manner, and in the provinces of countries where a petty chieftain has the right of life and property over those he administers; in the nations that have struggled most for public and private right, as in those that have sustained fewest struggles of that kind, every day there is a multitude of acts of government properly so called, of public and private administration, of courts of justice and seekers of justice, of good and bad politics, of political parties ill and well organized, of institutions charged with the defence of Law, of institutions which still sustain the tradition of ancient Law, of men who strive for the reform of Law in civil, in criminal, in political, in international matters: in short, in the entire life of human societies, the organization of government upon the basis of Law shows itself as an urgent necessity.
+
+> 13. Los grupos de hechos anteriores, palpablemente manifiestan que cada uno de calos corresponde á un hecho genérico, ó lo que es lo mismo, á una actividad connatural del sér humano.
+
+13. The foregoing groups of facts palpably manifest that each one of them corresponds to a generic fact, or, what is the same, to an activity connatural to the human being.
+
+> Eso mismo vamos ahora á ver con la abundantísima serie de hechos diarios que juntos constituyen da actividad funcional del hombre en la busca de satisfacción para sus necesidades intelectuales. Toda esa serie de hechos resultante de esa función del alma humana—asi el alma individual como el alma social—es lo que constituye el afán de educación.
+
+This same thing we are now going to see with the most abundant series of daily facts which together constitute the functional activity of man in the search for satisfaction of his intellectual needs. All that series of facts resulting from that function of the human soul—the individual soul as well as the social soul—is what constitutes the eagerness for education.
+
+> En todos los estados sociales. desde el salvajis-
+
+In all social states, from savagery
+
+[PDF 42]
+
+> mo hasta el mayor florecimiento de civilización, el hombre se afana por transmitir al hombre, el padre al hijo, la madre á la hija, el pastor á su grey, el cura á su feligrosía, el maestro á sus discipulos, el instructor á sus reclutas, el contramaestre á sus grumetes, las instituciones culturales á la Sociedad entera, las nociones de verdad, de bien, de belleza, que constituyen el saber humano. De tai modo es exigente en el hombre realmente racional esta necesidad de educación, que aquellas sociedades cn las cuales clla es el motivo de las luchas sociales, religiosas y políticas, son las sociedades más activas, más progresivas, más capaces de ser civilizadas y que más pronto concluyen por civilizarse. Asi fué que cuando un grupo de abominadores de la infamia tomó el vecindario de una gratisima ciudad dominicana como espectador y teatro de una revolución hecha en nombre de la necesidad de educarse y mejorarse, el mundo entero creyó que esta sociedad sec habia salvado.
+
+— 34 — to the greatest flowering of civilization, man strives to transmit to man, the father to the son, the mother to the daughter, the pastor to his flock, the priest to his parishioners, the master to his disciples, the instructor to his recruits, the boatswain to his ship’s boys, cultural institutions to the whole of Society, the notions of truth, of good, of beauty, which constitute human knowledge. So exacting in the truly rational man is this need of education, that those societies in which it is the motive of social, religious and political struggles are the most active, the most progressive societies, the most capable of being civilized and those that soonest end by civilizing themselves. Thus it was that when a group of abhorrers of infamy took the inhabitants of a most delightful Dominican city as the spectator and theatre of a revolution made in the name of the need to educate and better itself, the whole world believed that this society had been saved.
+
+> 14. La inmumerable multitud de hechos que componen la actividad religiosa de los pueblos, cn todos ellos empieza desde por la mañana en cada día, y frecuentemente no acaba hasta mu adelantada la noche en muchos días. Es una actlvidad de individnos, de grupos, de sociedades articulares, de instituciones ad hoc, de iglesias, de cofradias, de hermandades, de monasterios, de conventos, que tienen sus cultivadores en los más obscuros bosques del Africa ecuatorial y en las más claras avenidas de las más bellas ciudades del mundo americano.
+
+14. The innumerable multitude of facts which compose the religious activity of peoples begins in all of them from the morning of each day, and frequently does not end until far into the night on many days. It is an activity of individuals, of groups, of particular societies, of institutions ad hoc, of churches, of confraternities, of brotherhoods, of monasteries, of convents, which have their votaries in the darkest forests of equatorial Africa and in the brightest avenues of the most beautiful cities of the American world.
+
+> 15. No hay ningún individuo que se considere seguro en los campos de un pais desorganizado, y es cosa experimentada, que en esos países no hay tampoco seguridad individual ni domés[PDF 43] tica en las mismas capitales de provincia y aun en la misma capital de la nación.
+
+15. There is no individual who considers himself safe in the countryside of a disorganized country, and it is a matter of experience that in those countries there is neither individual nor domes- [PDF 43] — 35 — tic security in the very capitals of provinces and even in the very capital of the nation.
+
+> En cambio, hay otros paísos en los cuales, á excepción de los delitos y los crimenes que se cometen contra las personas y los bienes, la seguridad individual y doméstica es completa.
+
+On the other hand, there are other countries in which, with the exception of the offences and crimes committed against persons and property, individual and domestic security is complete.
+
+> ¿De dónde resulta esta diferencia que basta por sl sola para caracterizar dos estados sociales muy distintos? Nace de que en el primero de esos casos las leyes no tienen el apoyo de la fuerza pública, al paso que cn el otro caso, toda la legislación civil, administrativa y politica, descansan en la fuerza organizada.
+
+Whence results this difference, which suffices by itself alone to characterize two very distinct social states? It arises from this, that in the first of those cases the laws have not the support of the public force, whereas in the other case the whole of the civil, administrative and political legislation rests upon organized force.
+
+> Los varios institutos militares que componen esa fuerza, en cuanto se refiere 4 un Estado en sus relaciones con los otros, y todas las instituciones policiales que atienden ú la guarda del orden y la seguridad pública cn los campos, en los suburbios y en las ciudades, se resumen en dos instituciones genéricas, que abarcan todos los hechos de la fuerza pública en todas las naciones que han llegado al quinto estado social, en casi todas las que han llegado 21 cuarto, en muchas de las que han alcanzado el tercero; csas dos instituciones son: el ejército y la policía, que ya empiezan á organizarse en el tercer estado, que medio se organizan en el cuarto, y que se presentan suficientemento organizadas en el quinto.
+
+The various military institutions which compose that force, in so far as it refers to a State in its relations with others, and all the police institutions which attend to the guarding of order and public security in the country, in the suburbs and in the cities, are summed up in two generic institutions, which embrace all the facts of the public force in all the nations that have reached the fifth social state, in almost all of those that have reached the fourth, in many of those that have attained the third; those two institutions are: the army and the police, which already begin to be organized in the third state, which are half organized in the fourth, and which present themselves sufficiently organized in the fifth.
+
+> 16. La suma de todos los esfuerzos y actividades hechos y desplegados por la sociedad humana en el desarrollo de su vida, es lo que constituye la realización de la civilización social. El fenómeno que la especie humana manifiesta al observador de sociedades, es muy claro en sí mismo aunque ha parecido y todavía parece á muchos muy confuso. Si se considera asi, como fenómeno, es decir, como conjunto de hechos coordinados [PDF 44] por relaciones naturales, toda la actividad de nuestra especie es resultado natura] de las condiciones bióticas á que nace reducida y de los fines necesarios de su vida 4 que nace sujeta á realizar.
+
+16. The sum of all the efforts and activities made and displayed by human society in the development of its life is what constitutes the realization of social civilization. The phenomenon which the human species manifests to the observer of societies is very clear in itself, although it has seemed and still seems to many very confused. If it is considered thus, as a phenomenon, that is to say, as a whole of facts co-ordinated [PDF 44] — 36 — by natural relations, the whole activity of our species is the natural result of the biotic conditions to which it is born reduced and of the necessary ends of its life which it is born subject to realize.
+
+> 17. Esa correlación de los hechos, que constituyo la fenomenalidad de la vida humana, tiene que ser escrupulosamente estudiada para que pueda llegar á ser comprendido que el orden es una fatalidad de las sociedades humanas; cs decir, es una necesidad que resulta forzosamente del carácter mismo de la vida del sér social.
+
+17. That correlation of facts, which constitutes the phenomenality of human life, must be scrupulously studied in order that it may come to be understood that order is a fatality of human societies; that is to say, a necessity which results perforce from the very character of the life of the social being.
+
+> Nosotros no podemos dar un paso fucra de nosotros mismos sin que nos encontremos en la vida de relación. Asi se llama la actividad que nos vemos forzados á desplegar tan pronto como, saliendo de nosotros, entramos en contacto con otros hombres.
+
+We cannot take a step outside ourselves without finding ourselves in the life of relation. Thus is called the activity which we see ourselves forced to display as soon as, going out of ourselves, we enter into contact with other men.
+
+> El mero hecho de esta necesidad de relaciones con los otros, es ya un indicio de que el orden sosial reclama ese contacto de los individuos con los grupos, y establece la primera condición del orden social. Del mismo modo que el Individuo con los grupos, viven relacionadas, por la necesidad de las cosas, todas las actividades que el enemigo desplega en la busca de satisfacciones para sus necesidades físicas y psiquicas.
+
+The mere fact of this need of relations with others is already an indication that the social order demands that contact of individuals with groups, and it establishes the first condition of social order. In the same manner as the Individual with the groups, all the activities which the individual displays in the search for satisfactions for his physical and psychic needs live related, by the necessity of things.
+
+> ista singular producción de actividades de Carácter colectivo por el simple despliegue de actividades individuales, es una caracteristica tan inseparable de la vida humana, que basta contemplarla y examinarla para sentirse y entenderse ante un orden infalible. Con efecto: si no fuera orden natural, la actividad de los individuos nacería y se consumiria en ellos, y lejos de haber un orden que consistiera. como actualmente consiste, en que la actividad individual es la causa y la actividad social es el efecto, el orden consistiria [PDF 45] en que la vida del Individuo se produjera y se agotara exclusivamente en él.
+
+This singular production of activities of collective character by the simple display of individual activities is a characteristic so inseparable from human life, that it suffices to contemplate and examine it to feel and understand oneself in the presence of an infallible order. In effect: if it were not a natural order, the activity of individuals would be born and consumed in them, and far from there being an order consisting, as it actually consists, in this, that individual activity is the cause and social activity the effect, the order would consist [PDF 45] — 37 — in this, that the life of the Individual should be produced and exhausted exclusively in him.
+
+> 18. Aunque ya tendriamos prueba suficiente de la existencia de un orden social y de que ese orden nace de la relación constante entre fenómenos de la vida individual y los de la vida colectiva, VAmos á seguir puntualmente el desarrollo de esas relaciones, en la manifestación constante de la vida social.
+
+18. Although we should already have sufficient proof of the existence of a social order and that this order arises from the constant relation between phenomena of the individual life and those of the collective life, we are going to follow punctually the development of those relations, in the constant manifestation of social life.
+
+> 19. Ya hemos visto que la primera manifestación de vida social corresponde exactamente á la primera de la vida individual: el trabajar de la Sociedad no es ni más ni menos que el trabajar del Individuo; el del Individuo, como el de la Sociedad, es para fines inmediatos de existencia, porque ni Sociedad mi Individuo viven sin medios de subsistencia.
+
+19. We have already seen that the first manifestation of social life corresponds exactly to the first of individual life: the labouring of Society is neither more nor less than the labouring of the Individual; that of the Individual, like that of Society, is for immediate ends of existence, because neither Society nor Individual lives without means of subsistence.
+
+> El modo de desarrollarse el trabajo, conforme al modo de desarrollarse las necesidades en la vida social, es una relación tan constante y tan continua, que nos basta analizar los cstados sociales para descubrir da relación entre ellos y el desarrollo de la industria humana: asi como las industrias elementales, exclusivamente encaminadas á la consecución de subsistencias, corresponden al primer estado social, que está exclusivamente encerrado en el estrecho circulo de las necesidades materiales de la vida; así, en el segundo estado social, la industria pecuaria, con todas sus consecuencias económicas, con la grande, benéfica y gloriosa industria de la domesticación de los animales, está relacionada á4 un desarrollo de vida y de cultura muy superior ya al salvajismo; así, en el tercer estado, comienza la industria agricola ¿ patentizar la superioridad de la semibarbarie sobre los dos estados anterioros, puesto que la industria de la producción de la riqueza, di[PDF 46] recta, metódica y normal, abarca una extensión de ideas, nociones y fines de existencia que apenas se logra comprender que sean del mismo sér iudividual y colectivo de los dos estados anteriores; así, cuando el estado de semicivilización generaliza á la superficie y al fondo de la tierra, á la superficie y al fondo de los mares, á la superficie y al fondo del cerebro humano, la aplicación de satisfacciones á necesidades, es palpable la relación que hay entre las necesidades del Individuo y de la Sociedad con los nuevos modos de satisfacerlas que la industria ha agregado á los antiguos mocos; asi, cuando la civilización llega al estado industrial por excelencia, en el que toda la actividad se despliega á merced de indefinidos crecimientos de necesidades, la correspondencia cntre este estado económico y el estado general del sér humano es tan patente. que ni siquiera se concibe da posibilidad de vivir fuera de la civilización, por ser el estado en que se pueden realizar mayor número de satisfacciones para la vida.
+
+The mode in which labour develops, in conformity with the mode in which needs develop in social life, is a relation so constant and so continuous, that it suffices us to analyse the social states in order to discover the relation between them and the development of human industry: just as the elementary industries, exclusively directed to the procuring of subsistence, correspond to the first social state, which is exclusively shut up in the narrow circle of the material needs of life; so, in the second social state, the pastoral industry, with all its economic consequences, with the great, beneficent and glorious industry of the domestication of animals, is related to a development of life and of culture already very superior to savagery; so, in the third state, the agricultural industry begins to make patent the superiority of semi-barbarism over the two previous states, since the industry of the production of wealth, di- [PDF 46] — 38 — rect, methodical and normal, embraces an extent of ideas, notions and ends of existence which one can scarcely succeed in understanding to be of the same individual and collective being of the two previous states; so, when the state of semi-civilization generalizes to the surface and the depths of the earth, to the surface and the depths of the seas, to the surface and the depths of the human brain, the application of satisfactions to needs, the relation is palpable which exists between the needs of the Individual and of Society and the new modes of satisfying them which industry has added to the old modes; so, when civilization arrives at the industrial state par excellence, in which all activity is displayed at the mercy of indefinite increases of needs, the correspondence between this economic state and the general state of the human being is so patent, that the possibility of living outside civilization is not even conceived, since it is the state in which the greatest number of satisfactions for life can be realized.
+
+> 20. En la segunda manifestación de la vida social, la relación entre la actividad individual y la colectiva es tan estrecha, que no se concibe la posibilidad de llegar al objeto final del gobierno que es la práctica omnimoda de la libertad, — sin que los erupos todos de la Sociedad estén disciplinados por la conducta de todos los individuos en la práctica de los derechos y en el cum plimiento de los deberes constitucionales y juridicos.
+
+20. In the second manifestation of social life, the relation between individual and collective activity is so close, that the possibility is not conceived of arriving at the final object of government—which is the all-embracing practice of liberty,—without all the groups of Society being disciplined by the conduct of all the individuals in the practice of rights and in the fulfilment of constitutional and juridical duties.
+
+> 21. Tal vez es más palpable todavía la relación que existe entre la actividad educacional del Individuo y los esfuerzos colectivos en la organización de la educación común. porque dos grandos florecimientos de las ciencias, las artes y las [PDF 47] letras, resultan casi inmediatamente de la fuerza con que se mueven en el ánimo individual esos agentes de propulsión sensitiva, volitiva é intelectiva que constituye el anhelo de perfeccionamiento.
+
+21. Perhaps still more palpable is the relation which exists between the educational activity of the Individual and the collective efforts in the organization of common education, because the great flowerings of the sciences, the arts and [PDF 47] — 39 — letters result almost immediately from the force with which those agents of sensitive, volitive and intellective propulsion which constitute the longing for perfection move in the individual mind.
+
+> 22. La relación que existe entre la organización de la fuerza pública y el dominio creciente que el Individno adquiere del medio en que actúa, suando tiene confianza en que su derecho está amparado por la Ley y salvaguardado por la fuerza, es una relación tan manifiesta que se ve con los ojos de la cara. Con efecto: basta ver la actitud del Individuo humano en los campos y ciudades «dle los países en que ya está organizada en sus diversos institutos la fuerza representativa de la voluntad social, para comprender que allí está cada hombre bajo la custodia de la Ley armada. Basta, al contrario, ir descendiendo de estado social en estado social, para ir viendo á los otros y sintiéndose á sí mismo más desamparado y más débil á medida que se desciende. Así como en los estados de civilización y semicivilización, la fuerza organizada hace innecesario que el Individuo se arme y se abroquele contra la fuerza bruta inorganizada, asi en los otros estados sociales la fuerza bruta circunstante y dominante obliga 4 cada Individuo á armarse y á precaverse contra ella,
+
+22. The relation which exists between the organization of the public force and the growing dominion which the Individual acquires over the medium in which he acts, when he has confidence that his right is protected by the Law and safeguarded by force, is a relation so manifest that it is seen with the eyes of one’s face. In effect: it suffices to see the attitude of the human Individual in the country and cities of the countries in which the force representative of the social will is already organized in its various institutions, to understand that there each man is under the custody of the armed Law. It suffices, on the contrary, to go descending from social state to social state, to go on seeing others, and feeling oneself, more defenceless and weaker in proportion as one descends. Just as in the states of civilization and semi-civilization organized force makes it unnecessary for the Individual to arm and shield himself against unorganized brute force, so in the other social states the surrounding and dominant brute force obliges each Individual to arm himself and take precautions against it.
+
+> 23. JurciO INDUCTIVO SOBRE LA SoCIEDAD.—Al llegar aquí, ya podemos resumir todo el trabajo de esta segunda parte del estudio, en un juicio inductivo que será cl enunciado de una verdad demostrablc. La verdad descubierta por la inducción, es: que hay un orden social, fundado en el conjunto de relaciones que establece el orden parcial que se manifiesta en cada una de las actividades lmmanas. Naturalmente. en el descubrimiento de este orden social tenemos la base de una [PDF 48] inducción general que nos da este juicio inductivo:
+
+23. Inductive judgment concerning Society.—Arrived here, we can now sum up the whole labour of this second part of the study in an inductive judgment which will be the statement of a demonstrable truth. The truth discovered by induction is: that there is a social order, founded upon the whole of relations which the partial order manifested in each one of the human activities establishes. Naturally, in the discovery of this social order we have the basis of a [PDF 48] — 40 — general induction which gives us this inductive judgment:
+
+> Hay leyes naturales de la Sociedad, porque hay un orden social que es necesario.
+
+There are natural laws of Society, because there is a social order which is necessary.
+
+## CHAPTER III
+
+> CAPÍTULO 1H SOCIOLOGÍA DEDUCTIVA
+
+Deductive Sociology
+
+> 1. Fórmula del juicio inductivo sobre la Sociedad.— 2. Leyes naturales de la Sociedad. — 3. Cuántas son.— 4. Cuáles son.—5 y 6. Clasificación de ellas. —7-12. Estudio de la Ley natural de Sociabilidad.—13 y 14. Enunciado de tal ley.—-15. Estudio y enunciado de la Ley universal de Trahajo.—16, Ley universal de Libertad. Estudio y enunciado de ella.—17. Estudio y enunciado de la Ley universal de Progreso.—18. Estudio y enunciado de la Ley del Ideal.—19. Ley de Conservación. Estudio y enunciado de ella.—20. Ley de los Medios. Examen y enunciado de ella.
+
+1. Formula of the inductive judgment concerning Society.— 2. Natural laws of Society.—3. How many they are.—4. Which they are.—5 and 6. Classification of them.—7-12. Study of the natural Law of Sociability.—13 and 14. Statement of such law. —15. Study and statement of the universal Law of Labour.— 16. Universal Law of Liberty. Study and statement of it.—17. Study and statement of the universal Law of Progress.—18. Study and statement of the Law of the Ideal.—19. Law of Conservation. Study and statement of it.—20. Law of Media. Examination and statement of it.
+
+> 1. FÓRMULA DEL JUICIO INDUCTIVO SOBRE LA SocieDa».—El juicio inductivo á que nos condujo la Sociología inductiva cn la investigación de un orden social, necesario, anterior á la Sociedad, superior á los desórdenes de la misma Sociedad, tiene esta fórmula, que es la misma con que concluímos el trabajo de la segunda parte: hay leyes naturales de la Sociedad, porque hay un orden (ue es necesario.
+
+1. Formula of the inductive judgment concerning Society.—The inductive judgment to which Inductive Sociology led us in the investigation of a social order, necessary, anterior to Society, and superior to the disorders of Society itself, has this formula, which is the same with which we concluded the labour of the second part: there are natural laws of Society, because there is an order which is necessary.
+
+> 2. LEYES NATURALES DE La SOCIEDAD.—Según se ve en la fórmula 0 proposición del juicio inductivo, el orden natural que descubrimos en la, Sociedad es el resultado de leyes naturales de la Sociedad. Para nosotros no puede ya ser dudoso ——por extraordinario que aparezca ante el juicio vulgar—que existen leyes 4 que está sujeto el orden que observamos y que hemos descubierto en todo nuestro trabajo anterior. Y la razón de la existencia de esas leyes es-—para nosotros—
+
+2. Natural laws of Society.—As is seen in the formula or proposition of the inductive judgment, the natural order which we discover in Society is the result of natural laws of Society. For us it can no longer be doubtful—however extraordinary it may appear to vulgar judgment—that there exist laws to which the order is subject which we observe and which we have discovered in all our previous labour. And the reason for the existence of those laws is—for us—
+
+[PDF 49]
+
+> concluyente, pues es claro que si existe el orden que hemos inducido de los fenómenos generales de la vida social, claro es también que hay leyes fundadoras de ese orden.
+
+— 41 — conclusive, for it is clear that if the order exists which we have induced from the general phenomena of social life, it is clear also that there are laws founding that order.
+
+> Cuántas y cuáles son, vamos ¿ verlo.
+
+How many and which they are, we are going to see.
+
+> 3. CUANTAS SON LAS LEYES NATURALES DE LA SOoCcIEDAD.-—Son tantas, tienen que ser tantas, cuantas son las funciones. Las funciones son Cinco; cinco han de ser y cinco son las leyes á que ellas obedecen.
+
+3. How many are the natural laws of Society.—They are as many, they must be as many, as are the functions. The functions are five; five must be and five are the laws which they obey.
+
+> 4. CUÁLES SON ESAS LEYES.—Son: la Ley de Trabajo, la Ley de Libertad, la Ley de Progreso, la Ley de Ideal y la Ley de Conservación.
+
+4. Which are those laws.—They are: the Law of Labour, the Law of Liberty, the Law of Progress, the Law of the Ideal and the Law of Conservation.
+
+> 5. CLASIFICACIÓN DE ESTAS LEYES.—Estas leyes están una por una y todas juntas subordinadas á una todavía más general, que es como las leyes constitutivas con relación á las leyes orgánicas, en un Estado nacional.
+
+5. Classification of these laws.—These laws are one by one and all together subordinated to one still more general, which is as the constitutive laws are in relation to the organic laws in a national State.
+
+> Hay también una ley natural en las sociedades humanas, de tan continua aplicación, que el mismo sentido vulgar de las muchedumbres más ó menos letradas, la toma en cuenta. Esa ley es en la vida general de las sociedades, lo que en el juego 6 mecanismo de las legislaciones nacionaes es una ley de procedimiento.
+
+There is also a natural law in human societies, of such continual application that the very common sense of the more or less lettered multitudes takes it into account. That law is in the general life of societies what a law of procedure is in the working or mechanism of national legislations.
+
+6. The first of these two laws is the Law of Sociability, the second is the Law of Media.
+
+> 6. La primera de estas dos leyes es la Ley de Sociabilidad, la segunda es la Ley de los Medios. 7. ESTUDIO DE LA LEY DE SOCIABILIDAD.—Vamos á empezar el estudio de las leyes naturales de la Sociedad. La primera de todas es la Ley de Sociabilidad. Esta Ley es tan patente como el fenómeno que gobierna y normaliza. Es patente que existen sociedades espontáncamente constituídas, y es patente que el fenómeno de la vida de estas sociedades es tan natural como ellas mismas. La asociación de las fuerzas naturales y de las debilidades naturales del individuo humano. [PDF 50] es una forma tan natural de su existencia, que sin asociación no hay existencia individual. Con efecto: en primer lugar, todo individuo humano procede de la asociación carnal de otros dos individuos humanos; y en segundo lugar está constituido en modo que él no puede valerse por si MISMO, Y nace, y crece, v hasta cierto momento vive, relacionado y asociado, con toda la fuerza de la naturaleza, ya á su madre, ya á su criandera, ya á un valedor cualquiera; y, en tercer lugar, él solo nada puede en la infancia. en la adolescencia, en la juventud. en la virilidad, en la vejez, cn la decrepitud. Niño, vive de y con otros niños, y si no, se amortigua y debilita. Adolescente, necesita para su mismo desarrollo fisico la compañia, la actividad de otros adolescentes. Joven, en tal modo está necesitado de la sociedad de otros jóvenes, que esta espontánea asociación tiene el nombre de juventud en todos los tiempos y lugares de la Historia. Varón formado, el Individuo no puede dar un solo paso fuera de la Sociedad, porque uno solo que dé lo lleva al vacio 6 lo precipita en el abismo de la impotencia. Vie- Jo ya, el Individuo no puede substracrse 4 la vida del Hogar, ó, por lo menos, á la vida de esc segundo hogar, que es la Ciudad. Decrépito, cl Inividuo vuelve al estado de infanciá, en el que necesita valerse expresamente de alguien.
+
+7. Study of the Law of Sociability.—We are going to begin the study of the natural laws of Society. The first of all is the Law of Sociability. This Law is as patent as the phenomenon which it governs and normalizes. It is patent that there exist spontaneously constituted societies, and it is patent that the phenomenon of the life of these societies is as natural as they themselves. The association of the natural forces and of the natural weaknesses of the human individual, [PDF 50] — 42 — is so natural a form of his existence, that without association there is no individual existence. In effect: in the first place, every human individual proceeds from the carnal association of two other human individuals; and in the second place he is so constituted that he cannot help himself, and is born, and grows, and up to a certain moment lives, related and associated, with all the force of nature, now to his mother, now to his nurse, now to some protector or other; and, in the third place, he alone can do nothing in infancy, in adolescence, in youth, in manhood, in old age, in decrepitude. As a child, he lives on and with other children, and if not, he languishes and grows weak. As an adolescent, he needs for his very physical development the company, the activity of other adolescents. As a youth, he is in such wise in need of the society of other young men, that this spontaneous association bears the name of youth in all the times and places of History. As a grown man, the Individual cannot take a single step outside Society, because a single one that he takes carries him into the void or hurls him into the abyss of impotence. Old now, the Individual cannot withdraw himself from the life of the Home, or, at least, from the life of that second home, which is the City. Decrepit, the Individual returns to the state of infancy, in which he needs expressly to rely upon someone.
+
+> 8. Esta fuerza natural que liga á cada hombre con todos los hombres que lo rodean, es una fuerza tan activa y tan imperiosa en la vida de los grupos como en la de los individuos.
+
+8. This natural force which binds each man to all the men who surround him is a force as active and as imperious in the life of groups as in that of individuals.
+
+> El primer grupo social que resulta de la asociación de necesidades y debilidades individuales. es: la Familia. En tal modo lo es, que hasta en el estado anorgánico en que se nos presenta la Familia en el primer estado social, la Familia es un [PDF 51] grupo. Con más razón lo es. cuando, cn razón de mejoramiento de estado social, se va mejorando también la constitución de la Familia. Entonces, á medida que los vínculos de asociación van estrochándosc, se van también fortaleciendo, y á medida que van haciéndose más fuertes. van haciendo más uno, más compacto, más sólido, más resistente y más vivo el grupo familiar.
+
+The first social group which results from the association of individual needs and weaknesses is: the Family. So much is it so, that even in the anorganic state in which the Family presents itself to us in the first social state, the Family is a [PDF 51] — 43 — group. With more reason is it one when, by reason of the improvement of the social state, the constitution of the Family is also improving. Then, in proportion as the bonds of association grow closer, they also grow stronger, and in proportion as they become stronger, they make the family group more one, more compact, more solid, more resistant and more living.
+
+> 9. En cl grupo inmediatamente superior, es una ley tan natural la Asociación, que apenas se ha constituido la Familia en una mancra regular y legal en el tercer estado de sociabilidad, cuando yaaparece eltercer grupo social—el Municipio: — con cualquier nombre con que aparezca—ya el de demos, ya el de clan, ya el de común, ya el de comunidad —siempre es la misma expresión de la Ley de Sociabilidad, que, en su tercer esfuerzo de organización, constituye en el modo más sencillo y natural el tercer grupo de sociedad. En realidad, ha habido momento de la Historia en que este tercer grupo ha tenido tal fuerza de asociación. que ha sido la forma única de] Estado nacional. No ya sólo en Roma—en donde llegó 4 su más sorprendente fuerza de concreción cl Municipio, — ni en Atenas y en Esparta—en donde la vida municipal, omnimodamonte representada por el Estado municipal, realizó por sí misma todos los fines de la vida nacional—=sc puede estudiar con fruto la eficiencia de la Ley de Sociabilidad, en cuanto creadora natural del tercer grupo de asociación; también en la historia de los pueblos de las civilizaciones orientales, y en la de nuestros pueblos ingleses y españoles de América, podemos prosentar cl Municipio como el verdadero tipo del tercer grupo de sociabilidad.
+
+9. In the group immediately superior, Association is so natural a law, that scarcely has the Family been constituted in a regular and legal manner in the third state of sociability, when the third social group already appears—the Municipality:—under whatever name it appears—now that of demos, now that of clan, now that of commune, now that of community—it is always the same expression of the Law of Sociability, which, in its third effort of organization, constitutes in the simplest and most natural manner the third group of society. In reality, there has been a moment in History in which this third group has had such force of association that it has been the sole form of the national State. Not only in Rome—where the Municipality reached its most surprising force of concretion,—nor in Athens and in Sparta—where the municipal life, represented in every respect by the municipal State, of itself realized all the ends of the national life—can the efficiency of the Law of Sociability be studied with profit, in so far as it is the natural creator of the third group of association; in the history of the peoples of the oriental civilizations also, and in that of our English and Spanish peoples of America, we can present the Municipality as the true type of the third group of sociability.
+
+> 10. En cuantoal cuarto grupo. basta mencionarlo para explicarlo como la resultante natural [PDF 52] de una ley que no está cn manos de los hombres promulgar, sancionar, modificar ni enmendar. Con efecto: la Regrión—yque usualmente se Jlama la Provincia, ú el Distrito, ú la Comarca—es una manifestación tan espontánea de la Ley de Sociabilidad, que no maravilla el verla adaptar dosde muy temprano al modo particular de algunas sociedades. Aquí — invirtiendo el procedimiento histórico, y empezando por lo último, en vez de tomar como punto de partida lo primero—podemos estudiar en nuestro mismo Continente la adaptación histórica de la Ley de Sociabilidad á la constitución de las regiones.
+
+10. As to the fourth group, it suffices to mention it to explain it as the natural resultant [PDF 52] — 44 — of a law which it is not in the hands of men to promulgate, sanction, modify or amend. In effect: the Region—which is usually called the Province, or the District, or the Shire—is so spontaneous a manifestation of the Law of Sociability that it is no marvel to see it adapted from very early to the particular mode of some societies. Here—inverting the historical procedure, and beginning with the last, instead of taking the first as point of departure—we can study on our own Continent the historical adaptation of the Law of Sociability to the constitution of the regions.
+
+> A excepción—que sepamos—de los dos Tmperios nacionales, en nuestro Continente todo cra regional. De Este á Ocste, y del Atlántico al Pacifico, toda nuestra vida social, en donde quiera que habia pasado ya del primer estado, toda nuestra vida era regional. Lira la Región lo que hacia la Sociedad; elfa era Jo que constitula el núcleo de sociabilidad; ella era lo que determinaba la fuerza de asociación. Tomando tan sólo dos ejemplos, sean los pueblos vucayos de las Antillas y el pueblo araucano de la extremidad occidental del Continente. En las Antillas— predominantemente en Haiti-Quisqueya—la usociación de los grupos se adaptaba estrictamente ad las regiones orográficas 0 geográficas del territorio, em modo que en él subsistian, hermanados por lazos de origen y de vecindad, pero completamente deslindados en autoridad territorial y en poder social, cinco cacicatos independientes. En Arauco, los ulmenados 0 gobiernos de los ulmenes eran— como los cacicatos antillanos— Estados regionales. en los cuales independientemente funcionaban grupos parciales de la misma sociedad nacional.
+
+With the exception—so far as we know—of the two national Empires, on our Continent everything was regional. From East to West, and from the Atlantic to the Pacific, all our social life, wherever it had already passed beyond the first state, all our life was regional. It was the Region that made Society; it was the Region that constituted the nucleus of sociability; it was the Region that determined the force of association. Taking only two examples, let them be the Lucayan peoples of the Antilles and the Araucanian people of the western extremity of the Continent. In the Antilles—predominantly in Haiti-Quisqueya —the association of the groups adapted itself strictly to the orographic or geographical regions of the territory, in such wise that there subsisted in it, made brothers by bonds of origin and of neighbourhood, but completely separated in territorial authority and in social power, five independent cacicazgos. In Arauco, the ulmenados or governments of the ulmenes were— like the Antillean cacicazgos—regional States, in which partial groups of the same national society functioned independently.
+
+[p. 45]
+
+> 11. En tratándose del último grupo de la primera serie, no hay para qué recordar ni para qué hacer ver hoy mismo, cn el Africa intertropical. que, en realidad, el primer grupo social realmente histórico, efectivamente roal. es el yue nosotros-—por razón de orden—colocamos en el último lugar. Efectivamente, y según se desprende de nuestro reciente análisis de los estados sociales, cuando todavía no existe realmente la Familia, ya vive en un modo completamente natural la Tribu. Pues bien: la Tribu no es más que la Nación informe, sin organización, sin instituciones, sin articulaciones, sin personalidad jurídica. Pero, anorgánica y todo, aparece desde el primer momento de las socicdades humanas, y la Tribu es la Nación en rudimento, en embrión, en comienzo de existencia.
+
+11. When it is a question of the last group of the first series, there is no need to recall, nor any need to show even today, in intertropical Africa, that, in reality, the first social group truly historical, effectively real, is the one which we—for reasons of order—place in the last place. In effect, and as follows from our recent analysis of the social states, when the Family does not yet really exist, the Tribe already lives in a completely natural manner. Well then: the Tribe is nothing more than the Nation unformed, without organization, without institutions, without articulations, without juridical personality. But, anorganic though it be, it appears from the first moment of human societies, and the Tribe is the Nation in rudiment, in embryo, in the commencement of existence.
+
+> Si aparece como el primero de todos los grupos históricos, no es porque fisiológicamente lo sea. pues que no puede ser suma general sin adición e sumandos, y nose ha podido llegar á sumar la gente que constituye la Tribu, sino sobre los grupos anteriores, que son de absoluta necesidad. Sumando familia, más familia, es como se ha llegado á constituir la Tribu, que sin esto no podia verse constituida; mas como su constitución es puramente biológica y fisiológica, la Tribu no ha legado ni podido llegar á ser Nación, sino cuando los grupos inferiores se han constituido en el modo más regular y legal, haciéndose fundamentos naturales de la sociedad natural ó nacional.
+
+If it appears as the first of all historical groups, it is not because physiologically it is so, since there can be no general sum without addition of summands, and it has not been possible to arrive at summing up the people that constitutes the Tribe, save upon the previous groups, which are of absolute necessity. By adding family plus family is how the Tribe has come to be constituted, which without this could not have seen itself constituted; but as its constitution is purely biological and physiological, the Tribe has not come nor been able to come to be a Nation, save when the inferior groups have constituted themselves in the most regular and legal manner, becoming natural foundations of the natural or national society.
+
+> Sin más insistir en el hecho de la tempramia y aun prioridad de la Tribu sobre toda otra formación social, basta el hecho para corroborar definitivamente la afirmación de que la Sociabilidad es una ley natural á que obedecen todos los seres de razón.
+
+Without insisting further on the fact of the earliness and even priority of the Tribe over every other social formation, the fact suffices to corroborate definitively the affirmation that Sociability is a natural law which all beings of reason obey.
+
+[p. 46]
+
+> 12, En realidad, la Ley de Sociabilidad no cs exclusivamente de seres racionales, pues que también obedecen á ella los vegetales y Jos animales. Y como es una tendencia natural de la inducción el buscar sus fundamentos en los hechos primeros, primitivos, anteriores á todo otro, la Ley de Sociabilidad puede llegar á encontrarse, y efectivamente se encuentra, relacionada con hechos de carácter cosmológico. Asi, en las pequeñas masas, actúa la cohesión; en las masas minimas, la afinidad; en las masas máximas, la atracción.
+
+12. In reality, the Law of Sociability is not exclusively of rational beings, since vegetables and animals also obey it. And as it is a natural tendency of induction to seek its foundations in the first facts, primitive, anterior to every other, the Law of Sociability may come to be found, and in effect is found, related to facts of a cosmological character. Thus, in small masses, cohesion acts; in minimal masses, affinity; in maximal masses, attraction.
+
+> 13. ENUNCIADO DE La LEY DE SOCIABILIDAD.— Asi como una ley subordina los hechos todos de la atracción, en razón directa de las masas y en razón inversa del cuadrado de la distancia, así la Ley de Sociabilidad debe tener su enunciado correspondiente.
+
+13. Statement of the Law of Sociability.—Just as a law subordinates all the facts of attraction, in direct ratio of the masses and in inverse ratio of the square of the distance, so the Law of Sociability must have its corresponding statement.
+
+> Esto del enunciado de una ley social es tan nuevo en la Ciencia, que parece uu empeño temerario. En realidad, alguna violencia se hace al mismo carácter inductivo-deductivo de las ciencias sociales al intentar convertirlas en ciencias experimentales, ciencias en Jas cuales la coumeración de las leyes cosmológicas es indispensable resultado de la misma observación y experimentación de Jos hechos sociales, porque cn ellos no actúa ninguna voluntad extraña á cllos que sea capaz dle alterar, ni por un solo instante, la infalible relación de causa á cfecto.
+
+This matter of the statement of a social law is so new in Science that it seems a rash undertaking. In reality, some violence is done to the very inductive-deductive character of the social sciences in attempting to convert them into experimental sciences, sciences in which the enumeration of the cosmological laws is the indispensable result of the very observation and experimentation of the facts, because in them no will foreign to them acts which is capable of altering, even for a single instant, the infallible relation of cause to effect.
+
+> Como, al contrario, en la actuación de los seres tacionales y conscientes hay ya un principio de alteración en las relaciones fundamentales del orden social, la simple existencia de un factor natural de alteración es ya, de suyo, una razón para hacer Casi imposible cl enunciado de una ley social.
+
+As, on the contrary, in the action of rational and conscious beings there is already a principle of alteration in the fundamental relations of the social order, the simple existence of a natural factor of alteration is already, of itself, a reason for making the statement of a social law almost impossible.
+
+> Porque, en efecto, para que el enunciado de
+
+Because, in effect, in order that the statement of
+
+[PDF 55]
+
+> corn 4Y — una ley sea tal enunciado, se necesita que sea la descripción puntual de una relación inalterable. Y si se conviene en que hay un factor natural de alteración en todas las relaciones de carácter social, cs evidente que el enunciado de una ley social no puede ser preciso. Pero si no puede ser preciso, porque está sujeto á los diversos puntos de vista desde donde se contemple la, relación que constituye la ley, puede ser suficientemente exacto. Pura esto, basta con que se refiera al fenómeno más general de entre los que abarca la relación que constituye la ley. Para que lo entendamos bien, antes de enunciar la Ley de Sociabilidad, veamos cuál es el fenómeno más general que abarca la relación de donde indujimos la existencia de una Ley de Sociabilidad. Ya hemos visto que en virtud de la necesidad de asociación, el elemento y los grupos sociales viven reunidos para el trabajo, para la constitución dle un orden social, para la organización de escuelas religiosas, cientificas, artísticas, etc., y vimos también que cada una de esas actividades son fenómenos do sociabilidad. Pero ninguno de esos fenómenos nos pareció explicación bastante de la universalidad del fenómeno mismo de la asociación, y tuvimos—para explicárnoslo—quc apelar al principio general de constitución del mundo fisico, en el cual encontramos en la ley de la atracción el rototipo 0 primer tipo, ú primera idea, de la Ley de Sociabilidad.
+
+— 47 — a law may be such a statement, it is necessary that it be the punctual description of an unalterable relation. And if it is agreed that there is a natural factor of alteration in all relations of a social character, it is evident that the statement of a social law cannot be precise. But if it cannot be precise, because it is subject to the various points of view from which the relation constituting the law may be contemplated, it can be sufficiently exact. For this, it suffices that it refer to the most general phenomenon among those which the relation constituting the law embraces. That we may understand it well, before stating the Law of Sociability, let us see which is the most general phenomenon embraced by the relation from which we induced the existence of a Law of Sociability. We have already seen that by virtue of the need of association, the element and the social groups live united for labour, for the constitution of a social order, for the organization of religious, scientific, artistic schools, etc., and we saw also that each one of those activities are phenomena of sociability. But none of those phenomena seemed to us a sufficient explanation of the universality of the very phenomenon of association, and we had—in order to explain it to ourselves—to appeal to the general principle of constitution of the physical world, in which we find in the law of attraction the prototype or first type, or first idea, of the Law of Sociability.
+
+> Ahora bien: como la ley de atracción universal ostablece una relación tan fija, que constituye la causa, la explicación y la realidad de la conservación cósmica, es evidente que el fenómeno más extenso, el primero, el primitivo, el anterior á todo otro, cs el fenómeno de la conservación universal,
+
+Now then: as the law of universal attraction establishes a relation so fixed that it constitutes the cause, the explanation and the reality of cosmic conservation, it is evident that the most extensive phenomenon, the first, the primitive, the one anterior to every other, is the phenomenon of universal conservation.
+
+[p. 48]
+
+> Pues bien: si para el enunciado de la Ley de Sociabilidad necesitamos tener como punto de vista el fenómeno más general de asociación, tendremos que ese fenómeno es también la conservación de la Sociedad, puesto que cl hecho de conservarse las sociedades es el continuo resultado de la precxistencia de la ley de Asociación. Por tanto, ya tenemos uno de los términos precisos del enunciado, que es la conservación social. Mas como se trata de seres movedizos y mudables, que
+
+Well then: if for the statement of the Law of Sociability we need to have as our point of view the most general phenomenon of association, we shall find that this phenomenon is also the conservation of Society, since the fact that societies conserve themselves is the continuous result of the pre-existence of the law of Association. Therefore, we have already one of the precise terms of the statement, which is social conservation. But as we are dealing with mobile and mutable beings, who can contribute, and in effect do contribute, to the alteration of the order of societies, we shall seek in their very nature a continuous fact which may manifest the necessity, the fatality, of individual and collective conservation, and we shall meet with the instinct of conservation. In that manner, we shall already have the positive face of the Law of Sociability, and it will only remain for us to seek the negative face. If positively the instinct of conservation concurs to the social order, negatively the lesser social development of that instinct common to all social beings will hinder that order.
+
+> Jueden contribuir, y efectivamente contribuyen, a la alteración del orden de las sociedades, buscaremos en su misma naturaleza un hecho continuo que manifieste la necesidad, la fatalidad, de la conservación individual y colectiva, y nos encontraremos con el instinto de conservación. En ese modo, tendremos ya la faz positiva de la Ley de Sociabilidad, y sólo nos faltará buscar la faz negativa. Si positivamente el instinto de conservación concurre al orden social, negativamente ubstará á ese orden el menor desarrollo social de ese instinto comun á todos los seres sociales.
+
+14. And then, the Law of Sociability may be stated by saying: Sociability is in positive ratio to the force of the instinct of conservation and in negative ratio to collective needs.
+
+> 14. Y entonces, la Ley de Sociabilidad se pue- «le enunciar diciendo: La Sociabilidad está en razón positiva de la fuerza del instinto de conservación y en razón negativa de las necesidades colectivas.
+
+15. Study and statement of the universal Law of Labour.—The statement of this law—like that of the preceding and like that of all the others—obliges us to seek and find— if this is possible—the two extreme terms of the relation which determines the order. Once they are found, the statement can no longer be vague or indeterminate, although it may continue to be objectionable, since, as we have seen, there always subsists the agent of alteration in the human bosom, free in its acts as individual and free in its acts as group.
+
+> 16. ESTUDIO Y ENUNCIADO DE LA LEY UNIVERSAL DE TraBAJo.—El enunciado de esta le y —como el de la anterior y como el de todas las demás—obligaá buscar y encontrar—si esto es posible—los dos términos extremos de la relación que determina el orden. Una vez encontrados, ya no puede ser vago ni indeterminado cl enunciado, aunque podrá seguir siendo objetable, pues que, según emos visto, subsiste siempre el agente de altera- «ción en el seno humano, libre en sus actos como individno y libre en sus actos como grupo.
+
+[p. 49]
+
+> Los términos extremos de la relación que constituye el orden natural de la Sociedad en su actividad económica, sou: la producción y el consumo; la producción, porque es el efecto inmediato del trabajo, de todo trabajo, de cualquier trabajo; el consumo, porque es el objeto mismo del trabajo.
+
+The extreme terms of the relation which constitutes the natural order of Society in its economic activity are: production and consumption; production, because it is the immediate effect of labour, of all labour, of any labour whatever; consumption, because it is the very object of labour.
+
+> ados estos dos términos extremos, el enunciado ha de abarcarlos descriptivamente, es decir, describiendo el modo de estar relacionados. Por lo tanto, podemos enunciar la Ley universal de Trabajo, diciendo: El consumo es proporcional a la producción.
+
+These two extreme terms being given, the statement must embrace them descriptively, that is to say, by describing the manner in which they are related. Therefore we may state the universal Law of Labour by saying: Consumption is proportional to production.
+
+> Pero esto no sería más que una parto de la Ley, que relacionatía los dos términos extremos describiendo como un resultado proporcional de la producción de las riquezas el consumo de ellas. Sería necesario, además de eso, yue el enunciado dijera de qué manera negativa se presenta esa relación entre la, producción y el consumo. La manera negativa consiste en la eficacia ó en la ineficacia de los tres coeficientes del trabajo, que son: la tierra, el obrero y el capital. Cuando estos CocÉicientes son eficaces, la relación, es decir, el orden económico, queda intacto; cuando son ineficaces. la relación es alterada. Eso podría expresarlo el enunciado, diciendo que la producción es proporcional á la eficacia 6 á la ineficacia de los coeficientes del trabajo. Ya. en este caso, podría enunciarse en estos términos la Ley universal de Trabajo:
+
+But this would be no more than a part of the Law, which would relate the two extreme terms by describing the consumption of wealth as a proportional result of its production. It would be necessary, besides that, for the statement to say in what negative manner that relation between production and consumption presents itself. The negative manner consists in the efficacy or in the inefficacy of the three coefficients of labour, which are: the land, the labourer and capital. When these coefficients are efficacious, the relation, that is to say, the economic order, remains intact; when they are inefficacious, the relation is altered. This the statement might express by saying that production is proportional to the efficacy or to the inefficacy of the coefficients of labour. In this case, then, the universal Law of Labour might be stated in these terms:
+
+> E! consumo es proporcional á la producción, y la producción es proporcional á la eficacia de los coeficientes del trabajo.
+
+Consumption is proportional to production, and production is proportional to the efficacy of the coefficients of labour.
+
+> 16. LEY UNIVERSAL DE LIBERTAD. ESTUDIO Y ENUNCIADO. —Fl enunciado de esta ley —como el de todas las demás—+trata de contener la expresión afirmativa y la expresión negativa de la re[PDF 58] lación normal que ella establece. Por eso, cn su primera parte, el enunciado se refiere á la parte afirmativa de la relación. Por eso también, dice: La Libertad está en relación de armonia con el Derecho y el Dever.
+
+16. Universal Law of Liberty. Study and statement.— The statement of this law—like that of all the others—seeks to contain the affirmative expression and the negative expression of the re- [PDF 58] — 50 — lation which it establishes as normal. For that reason, in its first part, the statement refers to the affirmative part of the relation. For that reason also, it says: Liberty is in a relation of harmony with Right and Duty.
+
+> La parte negativa está expresada en términos de negación: ..... y en relación de contraste con la Fuerza y el Poder. Reunidos los extremos del enunciado, todo él se expresa asi: La Libertad esta en relación de armonía con el Derecho y el Deber, y en relación de contraste con la Fuerza y el Poder.
+
+The negative part is expressed in terms of negation: ..... and in a relation of contrast with Force and Power. The extremes of the statement being brought together, the whole of it is expressed thus: Liberty is in a relation of harmony with Right and Duty, and in a relation of contrast with Force and Power.
+
+> 17. EstrunIO Y ENUNCIADO DE LA LEY UNIVERSAL DÉ ProGrrso.—De todos los que pueden considerarsc como leyes universales de la Sociedad, ninuno ha sido tan considerado como tal, desde ace ya más de dos siglos, que el fenómeno del desenvolvimiento individual y colectivo que se llama Progreso. Por lo mismo que es de consentimiento común que el Progreso cs una ley natural de la Sociedad. importa enunciarla en los términos más precisos que sca posible. Y como ya sabemos que—para esto—hay que fundarse en los términos extremos de la relación que constituye el orden particular que se examina, hay que recordar que en nuestro estudio inductivo reconocimos que los dos extremos de Ja relación de Progreso son: la educación y el perfeccionamiento. Ahora, como la educación es un término voluntario, preciso y positivo, el enunciado expresa por medio de él la parte positiva de la relación de Progreso. Asi, dice que el Progreso está en razón positiva de la educación. Y como el perfeccionamiento es el término 4 que se Jlega, y es contingente, incierto, ó—por lo menos—fHuctuante, expresamos por medio de él la faz ó parte negativa de la relación. Asi, decimos: ..... y en relación negativa del perfeccionamiento.
+
+17. Study and statement of the universal Law of Progress.—Of all those which may be considered universal laws of Society, none has been so much considered such, for now more than two centuries, as the phenomenon of individual and collective development which is called Progress. Precisely because it is a matter of common consent that Progress is a natural law of Society, it is important to state it in the most precise terms possible. And since we already know that—for this—we must base ourselves upon the extreme terms of the relation which constitutes the particular order under examination, we must recall that in our inductive study we recognized that the two extremes of the relation of Progress are: education and perfection. Now, as education is a voluntary, precise and positive term, the statement expresses by means of it the positive part of the relation of Progress. Thus it says that Progress is in positive ratio to education. And as perfection is the term at which one arrives, and is contingent, uncertain, or—at the least—fluctuating, we express by means of it the negative face or part of the relation. Thus we say: ..... and in negative relation to perfection.
+
+[p. 51]
+
+> Se ha de entender que esa parte del enunciado quiere decir perfectamente que: cuando el perfeccionamiento es muy poco activo, es porque la educación es muy pasiva.
+
+It is to be understood that this part of the statement means precisely that: when perfection is very little active, it is because education is very passive.
+
+> El enunciado completo de la Ley de Progre- SO €s:
+
+The complete statement of the Law of Progress is:
+
+> El Progreso está en relación positiva de la educación y en relación negativa del perfeccionamiento.
+
+Progress is in positive relation to education and in negative relation to perfection.
+
+> 18. EstubrIo Y ENUNCIADO DE LA LEY DE IDEAL. El Ideal está en razón directa del desarrollo de la Moral, y en razón inversa de la capacidad colectiva para conocer los fines religiosos ó morales.
+
+18. Study and statement of the Law of the Ideal. The Ideal is in direct ratio to the development of Morals, and in inverse ratio to the collective capacity for knowing religious or moral ends.
+
+> De las dos partes de este enunciado, la positiva nos da cuenta de la parte que toca á la Moral en la producción del Bicn; al paso que el segnndo extremo del enunciado nos muestra la influencia que en el retardo de la ejecución del bien social tiene la incapacidad de las muchedumbres para el conocimiento de que los fines religiosos 6 morales son fines de bien social, y que, por tanto, son dependientes, estrictamente dependientes, de la Moral y de los fines morales de la vida humana.
+
+Of the two parts of this statement, the positive one gives us an account of the part which belongs to Morals in the production of the Good; whereas the second extreme of the statement shows us the influence which, in retarding the execution of the social good, is exerted by the incapacity of the multitudes to know that religious or moral ends are ends of social good, and that, therefore, they are dependent, strictly dependent, upon Morals and upon the moral ends of human life.
+
+> 19. Ley pe CONSERVACIÓN. SU ESTUDIO Y ENUNcIaDo.—El enunciado de la Ley de Conservación dice: La Conservación corresponde á la fuerza vital, y la fuerza vital, a la energía con que se adaptan los medios funcionales á todos y 4 cada fin de una función
+
+19. Law of Conservation. Its study and statement.—The statement of the Law of Conservation says: Conservation corresponds to vital force, and vital force, to the energy with which the functional means are adapted to each and every end of a function.
+
+> Es manifiesto que los dos extremos de la relación cn que se afirma el enunciado, son: la fuerza, como signo de la vida, y la adaptación, como exponente de la fuerza de conservación; pues que cs claro que cuanto más fuertemente se aplica un medio 4 un fin, tanto más enérgico es la producción de ese fin.
+
+It is manifest that the two extremes of the relation upon which the statement rests are: force, as the sign of life, and adaptation, as the exponent of the force of conservation; for it is clear that the more strongly a means is applied to an end, the more energetic is the production of that end.
+
+> omo que de todos los enunciados, éste de la Ley de Conservación es el llamado á producir [PDF 60] más asombro y extrañeza, porque el cúmulo de errores vulgares conduce á la creencia de que la fuerza es de suyo destructora, importa dilucidar brevemente el enunciado, á fin de que palpablemente se deduzca de él que la fuerza cs efectivamente la base de la conservación individual y social.
+
+Since of all the statements this one of the Law of Conservation is the one destined to produce [PDF 60] — 52 — the most astonishment and surprise, because the mass of vulgar errors leads to the belief that force is of itself destructive, it is important to elucidate the statement briefly, in order that it may be palpably deduced from it that force is in fact the basis of individual and social conservation.
+
+> La fuerza, en las sociedades—lo mismo que en la naturaleza, —es un simple agente que está continuamente llamado á producir el resultado que reclama su misma aplicación. Así, por ejemplo, cuando se aplica el calor—que es una fuerza, cósmica, —lo que se busca como resultado es una dilatación. Es evidente que si tenemos la certidumbre de producir una dilatación cuando empleamos el calor, hacemos el empleo de esta fuerza siempre con confianza, porque estamos seguros deque su objeto es conservar da relación perpetua entre ella, como causa, y la expansión, como efecto. Pues bien: en las sociedades humanas el ejercicio de la fuerza es también ejercicio de una convicción de que hay una relación necesaria entre ella, como causa, y el orden ó conservación social, como efecto.
+
+Force, in societies—just as in nature,—is a simple agent which is continually called upon to produce the result which its very application demands. Thus, for example, when heat is applied—which is a cosmic force,—what is sought as a result is a dilatation. It is evident that if we have the certainty of producing a dilatation when we employ heat, we always make use of this force with confidence, because we are sure that its object is to preserve the perpetual relation between it, as cause, and expansion, as effect. Well then: in human societies the exercise of force is likewise the exercise of a conviction that there is a necessary relation between it, as cause, and social order or conservation, as effect.
+
+> 20. Ley De 1.08 Menos. MxAMEN Y ENUNCIADO DE ELLA.—El enunciado de la Ley de los Medios se reduce á esto:
+
+20. Law of Media. Examination and statement of it.— The statement of the Law of Media comes down to this:
+
+> Toda fuerza social, al pasar de un medio dá otro, se quebranta.
+
+Every social force, in passing from one medium to another, is broken.
+
+> Este quebrantamiento ú% refracción de fuerza social, se produce en sentido de más y en sentido de menos.
+
+This breaking or refraction of social force is produced in the sense of more and in the sense of less.
+
+> En sentido de más, cuando el traspaso 0 traslación de la fuerza se efectúa en condiciones tales, que la fuerza vaya con los mismos elementos ú grupos sociales que la determinan, en cuyo caso a influencia del medio cs absolutamente favora[PDF 61] ble, hasta el extremo de que la fuerza se desarrolla como no habia podido hacerlo en el medio del cual partió. Así se desarrolló la Libertad, porque la llevaban ellos mismos, entre Jos ingleses de las colonias americanas, australianas y neerlandesas.
+
+In the sense of more, when the transfer or translation of the force is effected under such conditions that the force goes with the very elements or social groups which determine it, in which case the influence of the medium is absolutely favour- [PDF 61] — 53 — able, to the point that the force develops as it had not been able to do in the medium from which it set out. Thus Liberty developed, because they carried it with them, among the English of the American, Australian and Netherlandish colonies.
+
+> Al contrario, la fuerza se desarrolla en sentido de menos, cuando el medio social ticne ya adelantada una porción de su actividad vital, en cuyo caso resiste tenazmente á toda influencia de fuerza que no convenga estrictamente con los intereses ya establecidos, ya arralgados, ya desnaturalizados por el abuso ú por la falta de administración pública 6 por la facilidad con que los malos elementos personales obstam en las sociedades poco organizadas ó en estado anorgánico, á la inducción de las fuerzas vitales, orgánicas y efectivas de la Sociedad.
+
+On the contrary, force develops in the sense of less when the social medium already has a portion of its vital activity well advanced, in which case it tenaciously resists every influence of force which does not strictly agree with the interests already established, already rooted, already denatured by abuse or by the want of public administration, or by the ease with which bad personal elements stand in the way, in little-organized societies or in those in an anorganic state, of the induction of the vital, organic and effective forces of Society.
+
+> Ejemplo eternamente doloroso de este quebranto de la fuerza vital en sentido de menos, lo dan todos Jos pueblos de origen español en América.
+
+An eternally painful example of this breaking of vital force in the sense of less is given by all the peoples of Spanish origin in America.
+
+> A consecuencia del pésimo desarrollo de todas esas sociedades, cuando la independencia las puso en posibilidad de adaptar 4 su medio social las fuerzas naturales de la civilización, lo hicieron tan deficientemente, que no hay una sola de esas fuerzas que actúe normalmente en una sola de esas sociedades.
+
+In consequence of the wretched development of all those societies, when independence put them in a position to adapt the natural forces of civilization to their social medium, they did it so deficiently that there is not a single one of those forces which acts normally in a single one of those societies.
+
+[p. 54]
+
+## CHAPTER IV
+
+## SYSTEMATIC SOCIOLOGY
+
+## SECTION 1
+
+## MATERIALS OF SOCIOLOGY
+
+> SECCIÓN 1.* MATERIALES DE LA SOCIOLOGÍA
+
+1. Themes to be linked in order to constitute Social Science. —2. Which they are.—3 and 4. Relation among the phenomena.—5 and 6. Relation between sociotic and cosmic facts.—7. Society.—8. Labour.—9 and 10. Government.—11 and 12. Progress.—13. The Ideal of the Good.—14. Social Conservation.—15. Sociability and Media.
+
+> 1. Temas que enlazar para constituir la Ciencia Social. 2, Cuáles son. —3 y 4. Relación entre los fenómenos.— 5 y 6. Relación entre los hechos socióticos z los cósmicos. 7. La Sociedad.—8. El Trabajo.—9 y 10. El Gobierno.— 11 y 12. El Progreso.—13. El Ideal de Bien.—14. La Conservación Social.—15. La Sociabilidad y los Medios.
+
+1. Themes to be linked in order to constitute Social Science.—The themes to be brought together in order to know the form and substance of Social Science are three: the first is the general result of the study of social reality; the second is the inductive judgment which embraces the whole matter relating to the social order; the third is the affirmation, followed by demonstration, that the real life of societies is subject to a certain and pre-established order, founded upon completely effective laws.
+
+> 1. TEMAS QUE ENLAZAR PARA CONSTITUIR LA Ciescia SocraL.—Los temas por reunir á fin de conocer la forma y foudo de la Ciencia Social, son tres: el primero, es el resultado general del estudio de la realidad social; el segundo, es el juicio inductivo que abarca toda la materia relativa al ordon social; el tercero, es la afirmación, subseguida de demostración, de que la vida real de das sociedades está sometida á un orden cierto y preestablecido, fundado cn leyes completamente efectivas.
+
+2. Which those themes are.—In order to link those themes, they must be restated:
+
+> 2. CUALES SON ESOS TEMAS.—Pura enlazar esos tomas, lay que restablecerlos:
+
+The first contains textually this intuitive principle: human Society is a life subject—like any other—to the conditions, activity and functioning of any other organism;
+
+> El primero, contiene textualmente este principio intuitivo: la Sociedad lnmana es una vida sometida—como cualquier otra—á Jas condiciones, actividad y funcionar de cualquiera otro orgauismo;
+
+The second theme is expressed by the following proposition: there is a social order as certain and evident as the general order of Nature;
+
+> El segundo tema se expresa con la siguiente proposición: hay un orden social tan cierto y ridente como el orden gencral de la Naturaleza;
+
+> El tercer tema se expresa por medio de esta otra proposición: las leyes naturales de la Socie[PDF 63] dad son tan efectivas como cualquiera otra ley universal.
+
+The third theme is expressed by means of this other proposition: the natural laws of So- [PDF 63] — 55 — ciety are as effective as any other universal law.
+
+> 3. RELACIÓN DE LOS FENÓMENOS SOCIALES ENTRE sí. —Es manifiesto que si todos los fenómenos que hemos observado en las sociedades humanas son una manifestación de vida real, esta vida de la Sociedad estará subordinada ú una relación constante de causas y efectos que constituirán un orden al cual vivirá sometida la especie humana, tanto más cuanto menos pueda substraerse á leyes tan coercitivas de su voluntad como son las que rigen el desarrollo social.
+
+3. Relation of social phenomena among themselves.—It is manifest that if all the phenomena which we have observed in human societies are a manifestation of real life, this life of Society will be subordinate to a constant relation of causes and effects which will constitute an order to which the human species will live subject, all the more as it is the less able to withdraw itself from laws so coercive of its will as are those which govern social development.
+
+> Penetrando en el fondo de las manifestaciones individuales y colectivas de la vida humana, dos hechos se patentizan, que parecen secuela ó consecuencia el uno del otro, y que muestran la relación inmediata, y aun podria decirse la dependencia entre los hechos socióticos y los cósmicos.
+
+On penetrating to the depths of the individual and collective manifestations of human life, two facts become patent, which seem to be sequel or consequence the one of the other, and which show the immediate relation, and one might even say the dependence, between sociotic and cosmic facts.
+
+> El primero de los hechos que se debe anotar, al tratar de la sistematización de los conocimientos sociunómicos y sociográficos, es:
+
+The first of the facts which should be noted, in treating of the systematization of socionomic and sociographic knowledge, is:
+
+> (Jue toda actividad de las sociedades humanas consta en un hecho general 6 genérico, que es: la civilización;
+
+That all the activity of human societies consists in one general or generic fact, which is: civilization;
+
+> Que todo el orden ú juego de relaciones á que está sometida la Sociedad, corresponde exactamente á las relaciones que entre si tienen los fenómenos de la civilización;
+
+That the whole order or play of relations to which Society is subject corresponds exactly to the relations which the phenomena of civilization have among themselves;
+
+> Que toda la eficacia de las leyes naturales de la Sociedad estriba en la fuerza con que actúan las funciones de la vida social, que no son ninguna otra cosa que manifestaciones de una ley de vida.
+
+That the whole efficacy of the natural laws of Society rests upon the force with which the functions of social life act, which are nothing else than manifestations of a law of life.
+
+> 4. En otros términos, importa decir esto:
+
+4. In other terms, it is important to say this:
+
+> La vida social se manifiesta en el orden de la civilización, y la fuerza de la civilización, cu la mayor dependencia, en la mayor subordinación con [PDF 64] ue las sociedades obedecen á las leyes naturales de su vida.
+
+Social life manifests itself in the order of civilization, and the force of civilization, in the greatest dependence, in the greatest subordination to [PDF 64] — 56 — which societies obey the natural laws of their life.
+
+> 5. RELACIÓN ENTRE LOS HECHOS SOCIÓTICOS Y 1.08 cósmiCOS.—1l segundo de los lechos es el de la relación entre Jos fenómenos socióticos y los cósmicos. Esta es una relación tan estrecha que no hay posibilidad—en realidad—deexplicarse los hechos: de la vida colectiva humana sino en cuanto se relacionan con los fenómenos generales de la Naturaleza, Mientras nos atenemos á las manifestaciones generales, parciales ó individuales del Individuo, los grupos y la Sociedad gencral, algo— indudablemente—concluiremos por percibir, que nos indique cierto desarrollo regulado y sometido á regla y norma; pero, mientras no descubrimos la relación de los hechos entre si, y no vemos que esa relación resulta de leyes invariables, nada sabemos ni nada podemos demostrar. Y para llegar á demostrar que la Sociedad es una vida, que esa vida se realiza según un orden, que ese orden es manifestación de leyes invariables, para poder demostrar esto, necesitamos mostrar patentemente la relación que hay entre los fenómenos particulares de la Sociedad y los fenómenos generales de lu Naturaleza.
+
+5. Relation between sociotic and cosmic facts.—The second of the facts is that of the relation between sociotic and cosmic phenomena. This is a relation so close that there is no possibility—in reality—of explaining the facts of human collective life except in so far as they are related to the general phenomena of Nature. So long as we confine ourselves to the general, partial or individual manifestations of the Individual, of groups and of general Society, we shall—undoubtedly—end by perceiving something which indicates to us a certain development, regulated and subject to rule and norm; but, so long as we do not discover the relation of the facts among themselves, and do not see that this relation results from invariable laws, we know nothing and can demonstrate nothing. And in order to come to demonstrate that Society is a life, that this life is realized according to an order, that this order is the manifestation of invariable laws, in order to be able to demonstrate this, we need to show patently the relation which exists between the particular phenomena of Society and the general phenomena of Nature.
+
+> 6. Esa demostración ha sido ya intentada tanto en la parte inductiva cuanto en la deductiva de este estudio; pero no ha sido hecha on una manera rigorosa, porque el momento de hacerla no había llegado; ahora ha llegado, y vamos á hacer esa demostración.
+
+6. That demonstration has already been attempted, in the inductive as well as in the deductive part of this study; but it has not been made in a rigorous manner, because the moment for making it had not arrived; now it has arrived, and we are going to make that demonstration.
+
+> Como acabamos de ver, el hecho de la manifestación es 4 la vez un dato de la realidad social, un dato del orden social y un dato de las leyes naturales de la Sociedad. Tomando esc dato, y gulándonos por él, llegamos infaliblemente 4 la relación de dependencia que existe entre los he[PDF 65] chos particulares de la Sociedad y los hechos generales de la Naturaleza.
+
+As we have just seen, the fact of manifestation is at once a datum of social reality, a datum of the social order and a datum of the natural laws of Society. Taking that datum, and guiding ourselves by it, we arrive infallibly at the relation of dependence which exists between the [PDF 65] — 57 — particular facts of Society and the general facts of Nature.
+
+> 7. La SoctebaD.—Con efecto: la Sociedad por sí misma es un hecho del orden natural, que se muestra en la cocxistencia de los miembros del Sistema Planetario, en la coexistencia de los astros que componen las constelaciones, en el común movimiento de todos los astros de un sistema, de los astros todos del otro sistema estelar con quien esté en inmediata relación: en tal modo y á tal punto, que el Universo no se explica inteligiblemente sino en cuanto nos lo representamos como una asociación de asociaciones, es decir, como una serie de sociedades de astros establecidas para un fin común.
+
+7. Society.—In effect: Society in itself is a fact of the natural order, which shows itself in the coexistence of the members of the Planetary System, in the coexistence of the heavenly bodies which compose the constellations, in the common movement of all the heavenly bodies of one system, and of all the heavenly bodies of the other stellar system with which it may be in immediate relation: in such a manner and to such a point that the Universe cannot be explained intelligibly except in so far as we represent it to ourselves as an association of associations, that is to say, as a series of societies of heavenly bodies established for a common end.
+
+> 8. EL TraBaJo.—El segundo fenómeno social, factor de la civilización, factor de orden, factor de ley universal de las Sociedades, es el Trabajo. Y el Trabajo es un hecho cósmico. La Naturaleza trabaja de continuo; la Naturaleza es el trabajo naturando; la Naturaleza es el resultado del trabajo invisible y visible, minimo y máximo, latente y aparente: astros de todo el Universo, planetas de todos los sistemas, elementos compositivos de todos los planetas, fuerzas cósmicas, materia cósmica, células vivas, seres determinados por la célula, cadena de seres, ya en la elaboración embrionaria y fatal, ya en la cadena constituida de los seres vivos, todo es obra del Trabajo: el Universo no tiene un momento de reposo. Siendo la Sociedad una de las resultantes necesarias de la actividad del Cosmos, sería absurdosuponerlasubstraída á las leyes generales de la Naturaleza, y nos es forzoso considerarla como dentro de la Naturaleza, como uno de los resultados de la Naturaleza, como una de las manifestaciones de la actividad de la Naturaleza, Resultado de la Natura[PDF 66] leza, la Sociedad tiene que estar sometida al mismo procedimiento que la produce y determina. Es—por tanto—del orden universal de la Naturaleza el fenómeno del Trabajo, que hcmos visto produciendo la enorme cantidad de hechos de actividad espontánea y reflexiva que constituyen la obra del Trabajo humano.
+
+8. Labour.—The second social phenomenon, factor of civilization, factor of order, factor of universal law of Societies, is Labour. And Labour is a cosmic fact. Nature labours continually; Nature is labour naturing; Nature is the result of labour invisible and visible, minimal and maximal, latent and apparent: the heavenly bodies of the whole Universe, the planets of all the systems, the component elements of all the planets, cosmic forces, cosmic matter, living cells, beings determined by the cell, the chain of beings, whether in the embryonic and fatal elaboration or in the constituted chain of living beings, all is the work of Labour: the Universe has not a moment of repose. Society being one of the necessary resultants of the activity of the Cosmos, it would be absurd to suppose it withdrawn from the general laws of Nature, and we are bound to consider it as within Nature, as one of the results of Nature, as one of the manifestations of the activity of Nature. A result of Na- [PDF 66] — 58 — ture, Society must be subject to the same procedure which produces and determines it. The phenomenon of Labour, which we have seen producing the enormous quantity of facts of spontaneous and reflective activity which constitute the work of human Labour, belongs—therefore—to the universal order of Nature.
+
+> 9. Er GobrErRN0.—Cuando se habla de Gobierño, parece que este hecho es de un carácter tan exclusivamente humano, que en vano se trataría de buscar hechos semejantes en los fenómenos 2nteriores, ó precedentes ó preparatorios de los fenómenos sociales. Sin embargo, si comenzáramos sor lo más próximo á la Sociedad, ya en cl mismo ladividuo humano encontraremos hechos de gobierno. Con efecto: la dirección de las actividades cerebrales por la que tiene más fuerza directiva, os un hecho cn tal manera manifiesto, que cuando queremos apreciar la responsabilidad de una acción, lo primero que inquirimos es el estado de salud intelectual en que está el Individuo que la ha llevado á cabo.
+
+9. Government.—When Government is spoken of, it seems that this fact is of a character so exclusively human that it would be vain to seek similar facts among the phenomena anterior, or antecedent or preparatory, to social phenomena. Nevertheless, if we were to begin with what is nearest to Society, already in the human Individual himself we shall find facts of government. In effect: the direction of the cerebral activities by that one which has the most directive force is a fact so manifest that, when we wish to appraise the responsibility for an action, the first thing we inquire into is the state of intellectual health in which the Individual who carried it out finds himself.
+
+> Inmedixtamente debajo del Individuo humano, están individuos cualesquiera de las familias antropoides. Lo que más nos pasma, cn las variedados de monos próximos al hombre, es cl dominio que ellos muestran de sí mismos y de las cosas relacionadas con ellos mismos. Y si inquirimos cuál es la cansa de este predominio reflexivo, y, por tanto, inteligente, y, por tanto. resultante de una adaptación voluntaria de medio á fin, encontraremos cn esas aptitudes intelectuales que establecen el Gobierno regular de las cosas cn las tribus antropoides, la explicación de la regrularidad y la uniformidad de la vida individual y Colectiva de esos animales.
+
+Immediately below the human Individual are individuals of any of the anthropoid families. What most astonishes us, in the varieties of apes nearest to man, is the mastery which they show over themselves and over the things related to themselves. And if we inquire what is the cause of this predominance, which is reflective, and, therefore, intelligent, and, therefore, the result of a voluntary adaptation of means to end, we shall find in those intellectual aptitudes which establish the regular Government of things in the anthropoid tribes the explanation of the regularity and uniformity of the individual and collective life of those animals.
+
+> 10, Quien vea al elefante cautivo en una de
+
+10. Whoever sees the elephant captive in one of
+
+[PDF 67]
+
+> las jaulas del Jardin de Plantas de Paris negarse á recibir un día el obsequio que diariamente le llevaba un amigo suyo, simple y exclusivamente porque aquel día se le habia ocurrido á esc amigo el elefante pasar antes por la jaula del oso, con quien estaba enemistado el elefante, afirmará que éste guía sus actos por su razón, y afirmará que es efectivamente fuerza de razón lo que gobierna á ese animal en su conducta.
+
+— 59 — the cages of the Jardin des Plantes in Paris refuse one day to receive the gift which a friend of his brought him daily, simply and solely because on that day that friend of the elephant had taken it into his head to pass first by the cage of the bear, with whom the elephant was at enmity, will affirm that the elephant guides his acts by his reason, and will affirm that it is in fact the force of reason which governs that animal in his conduct.
+
+> Después del elefante, no hay ningún animal tan inteligente como el caballo, ni hay tampoco animal de quien se pueda decir que tiene más gobierno de si mismo. Al servicio del hombre. como en estado de libertad completa, el caballo obierna sus acciones con arreglo á una pauta ja, que es lo que llamamos su instinto, nombre ne nuestro orgullo emplea para disminuir la uerza intelectual que gobierna la vida individual y colectiva del caballo.
+
+After the elephant, there is no animal so intelligent as the horse, nor is there any animal of which it can be said that it has more government of itself. In the service of man, as in a state of complete liberty, the horse governs its actions according to a fixed pattern, which is what we call its instinct, a name which our pride employs to diminish the intellectual force which governs the individual and collective life of the horse.
+
+> La afectividad del perro es tan activa, que podemos creerla el motivo universal de sus acciones;
+
+The affectivity of the dog is so active that we may believe it the universal motive of its actions; but—in reality—the dog, like all the beings of the zoological series, is governed by the force of reason which we call instinct. And in the dog, as in the animals of superior instinct or intelligence, the government of itself and that of its tribe or society is a fact intimately related by Nature to the very life of the animal.
+
+> ro—en realidad—el perro, como todos los seres de la serie zoológica, está gobernado por la fuerza de razón que llamamos instinto. Y cnel perro, como €n los animales de instinto ú de inteligencia superior, el gobierno de si mismo y el de su tribu ó sociedad es un hecho relacionado intimamente por la Naturaleza con la vida misma del animal.
+
+From which it is easy to infer that the phenomenon of Government is a general law of the Universe before it is a natural law of human societies.
+
+> De lo cual es fácil inferir que el fenómeno del Gobierno es una ley general del Universo antes de ser una ley natural de las sociedades humanas.
+
+11. Progress.—No less general to Nature does the Law of Progress appear.
+
+> 11. EL Proareso. —No menos general de la Naturaleza, aparece la Ley de Progreso.
+
+> Si partimos del hombre, no hacemos más que descender desde los vertebrados á los articulados, de los moluscos á los radiados, de las organizaciones sólidas á las organizaciones blandas, de las [PDF 68] células múltiples al simple plasma; en suma, de las organizaciones complicadas á la organización rudimentaria. Este ir de lo más alto 4 lo más bajo, de lo más complejo á lo más simple, del hombre al foraminifero, es un progreso en sentido de descenso. Si queremos progreso en sentido de ascenso. no tenemos más que proceder el sentido opuesto, partiendo del infusorio para llegar al lombre.
+
+If we set out from man, we do no more than descend from the vertebrates to the articulates, from the molluscs to the radiates, from solid organizations to soft organizations, from [PDF 68] — 60 — multiple cells to simple plasma; in sum, from complicated organizations to rudimentary organization. This going from the highest to the lowest, from the most complex to the most simple, from man to the foraminifer, is a progress in the sense of descent. If we wish progress in the sense of ascent, we have only to proceed in the opposite sense, setting out from the infusorium to arrive at man.
+
+> 12, En la misma correlación de funciones del cerebro, vemos un progreso desde cl sentir hasta el pensar. En el desarrollo del pensamiento colectivo, la lev comteana de los tres estados: el teológico, cl metafísico y el cientifico, es una manifestación del progreso. En el desenvolvimiento social de la noción del Bien, la Religión y la Moral pasan de la cosmolatría 4 la antropolatría, y de la autropolatría á la sociolatria, estados, los tres, que indican un progreso de uno á otro. Y asi en todo, analitica 6 sintébicamente estudiada la vida de los seres humanos, va unidad, ya pluralidad, ya universalidad, es inovitable el encuentro de la Ley de Progreso, que facilmente puede demostrarse por medio del absurdo, mostrando la absoluta imposibilidad de que el sér social viviera sin desarrollarse.
+
+12. In the very correlation of the functions of the brain, we see a progress from feeling to thinking. In the development of collective thought, the Comtean law of the three states, the theological, the metaphysical and the scientific, is a manifestation of progress. In the social unfolding of the notion of the Good, Religion and Morals pass from cosmolatry to anthropolatry, and from anthropolatry to sociolatry, states, all three, which indicate a progress from one to another. And so in everything, the life of human beings being studied analytically or synthetically, whether as unity, as plurality or as universality, it is inevitable to encounter the Law of Progress, which can easily be demonstrated by means of the absurd, by showing the absolute impossibility that the social being should live without developing.
+
+> 13. Er ImraL be Bun.—La Ley de Ideal es cn tal modo congruente con el destino de los hombres cn la Tierra, que procede de las primeras bases 0 fundamentos de la misma vida social.
+
+13. The Ideal of the Good.—The Law of the Ideal is in such wise congruent with the destiny of men on the Earth that it proceeds from the first bases or foundations of social life itself.
+
+> Si esta vida, inmediatamente relacionada con la individual humana, necesita algún antecedente primordial, lo encontraremos en la coexistencia de los mundos; puesto que es evidente que si esos mundos existen relacionados entre sí hasta lo que llamamos infinito. no pueden estar faltos de seres capaces de tomar como ejemplo de su vida [PDF 69] individual y colectiva el supremo bien que resulta de la armonía de los mundos. Aun cuando la lógica espontánea de las cosas no estableciera una relación de medio á fin entre cada habitante de un mundo y ese mundo, bastaría la benéfica influencia de la armonía de todas las cosas entre si, para que en el alma de los seres surgiera, como producto natural del medio ambiente, el Ideal de Bien, la secreta aspiración de las grandes almas, la armonía de las cosas.
+
+If this life, immediately related to individual human life, needs some primordial antecedent, we shall find it in the coexistence of the worlds; since it is evident that if those worlds exist related to one another as far as what we call the infinite, they cannot be wanting in beings capable of taking as an example for their [PDF 69] — 61 — individual and collective life the supreme good which results from the harmony of the worlds. Even though the spontaneous logic of things should not establish a relation of means to end between each inhabitant of a world and that world, the beneficent influence of the harmony of all things among themselves would suffice for there to arise in the soul of beings, as a natural product of the surrounding medium, the Ideal of the Good, the secret aspiration of great souls, the harmony of things.
+
+> 14. La Coxservación socraL.—Lu Ley de Conservación social se presenta en tal modo conexa con la de conservación cósmica. que, asi como en la más débil nacioncita no puede prescindirse de relacionar cl orden público con la fuerza pública, ási no puede prescindirse del conocimiento de las fuerzas cósmicas cn la indagación del orden cósmico.
+
+14. Social Conservation.—The Law of                          social Conservation presents itself so connected with that of cosmic conservation that, just as in the feeblest little nation it is impossible to dispense with relating public order to the public force, so it is impossible to dispense with the knowledge of cosmic forces in the investigation of the cosmic order.
+
+> Y aun cuando el uso arbitrario de la palabra fuerza haya dado á ésta una significación vulgar que la aleja del valor propio y efectivo que ella expresa, no se tarda en descubrir que, asi como en cl mundo físico la fuerza no es más que la causa natural de cambio en la composición de la substancia, así en el mundo social la fuerza no es más que la causa de modificaciones indispensables para coordinar el libre albedrío de los hombres con la regularidad de la vida de las sociedades.
+
+And even though the arbitrary use of the word force may have given it a vulgar signification which removes it from the proper and effective value which it expresses, one is not long in discovering that, just as in the physical world force is nothing more than the natural cause of change in the composition of substance, so in the social world force is nothing more than the cause of modifications indispensable for co-ordinating the free will of men with the regularity of the life of societies.
+
+> 15. La SocraBILIDAD Y Los MeDi0s.—En cuanto á la Loy de los Medios, basta mencionarla para encontrar su origon en el orden cósmico. Efectivamente, en tal modo se relacionan, que en el mundo físico produce la diversidad de medios cósmicos. con las modificaciones que cn el mundo social producen también las diferencias de los Medios, que el mismo enunciado de la ley física puede servir para la social. Aun cuando así no [PDF 70] fuera, la evidencia que todos tenemos de que hay una influencia modificadora de los hechos sociales, según las circustancias en que se realizan, ha llevado á todos los entendimientos la noción vulgar de los Medios, exactamente lo mismo que la intuición de los cambios fisicos ha llevado á todos los entendimientos la idea de la influencia de los Ingares, los tiempos, los estados atmosféricos, las zonas, las estaciones; en suma, la influencia de los Medios físicos.
+
+15. Sociability and Media.—As regards the Law of Media, it suffices to mention it in order to find its origin in the cosmic order. In effect, that which the diversity of cosmic media produces in the physical world is so related to the modifications which the differences of Media likewise produce in the social world, that the very statement of the physical law may serve for the social one. Even were it [PDF 70] — 62 — not so, the evidence which we all have that there is a modifying influence upon social facts, according to the circumstances in which they are realized, has brought to all understandings the vulgar notion of Media, exactly as the intuition of physical changes has brought to all understandings the idea of the influence of places, times, atmospheric states, zones, seasons; in sum, the influence of physical Media.
+
+## SECTION 2
+
+## WORK OF SYSTEMATIZATION
+
+> SECCIÓN 2.* TRABAJO DE SISTEMATIZACIÓN
+
+16. The bases for the scientific organization of Sociology.— 17. What would have to be done.
+
+> 16. Las bases p.ra la organización científica de la Sociología.—17. Lo que habría que hacer.
+
+16. The bases for the scientific organization of Sociology.—The positive knowledge which we already have of social life, that Society is an organic life in which one part of the organization corresponds to Nature and another part to Society itself, is a basis for the systematization of the knowledge which we are endeavouring to reduce to science.
+
+> 16. Las BASES PARA YA ORGANIZACIÓN CIENTÍ- FICA DK LA SocioLoGÍía.—El conocimiento positivo que tenemos va de la vida social, de que la Sociedad es una vida orgánica en la quo una parte de la organización corresponde ú la Naturaleza y otra parte á la misma Sociedad, es una base de sistematización de los conocimientos que estamos tratando de reducir á ciencia.
+
+The knowledge, likewise positive, which we have acquired of the unalterable and natural character of the social order is another basis of scientific organization.
+
+> El conocimiento, también positivo, que hemos adquirido de lo inalterable y natural del orden social, cs otra base de organización científica.
+
+The determination and the statement of the natural laws of Society is—lastly—so certain a basis of organization that we may now be completely sure that, taking as our point of departure the laws which we have discovered, the natural term of our investigation will be Science.
+
+> La determinación y el enunciado de las leyes naturales de la Sociedad es—por último—una tan cierta base de organización. que ya podemos estar completamente seguros de que, tomando como punto de partida las leyes que hemos descubierto, el término natural de nuestra indagación será la Ciencia.
+
+> 17. Lo QUE HABRÍA QUE HACFR.—Para eso bastará con reunir los datos principales que hemos [PDF 71] obtenido, y, á merced de generalizaciones «uxdlecuadas, ligrarlos entre si en modo que desde el primero hasta el último se muestre en la continuidad de las ideas el fondo de verdad que nos proponíamos descubrir en el examen de la realidad social. Pero como cste trabajo se puede obviar en una manera más fructuosa para los que quieren hacer efectivamente didáctica la materia sociológica, vamos á suspender aqui, contentándonos con haber mostrado en qué modo se ha de hacer ese trabajo, el de sistematización con que terminábamos la obra de metodización de estos conocimientos.
+
+17. What would have to be done.—For that it will suffice to bring together the principal data which we have [PDF 71] — 63 — obtained, and, by means of adequate generalizations, to link them together in such a way that from the first to the last the substance of truth which we proposed to discover in the examination of social reality may show itself in the continuity of the ideas. But as this work can be dispensed with in a manner more fruitful for those who wish to make the sociological matter effectively didactic, we are going to stop here, contenting ourselves with having shown in what manner that work is to be done, the work of systematization with which we were concluding the task of methodizing this knowledge.
+
+[PDF 73]
+
+## BOOK II
+
+## EXPOSITORY SOCIOLOGY
+
+> LIBRO Il SOCIOLOGÍA EXPOSITIVA
+
+## CHAPTER I OBJECT OF THIS BOOK.—DEFINITION AND DIVISIONS OF SOCIOLOGY
+
+> CAPÍTULO 1
+
+1. Object of Expository Sociology.—2. Definition of Sociology.—3. Divisions.
+
+> OBJETO DE ESTE LIBRO. -— DEFINICIÓN Y DIVISIONES DE LA SOCIOLOGÍA
+
+1. Object of Expository Sociology.—In order to show in a practical manner how the fruit of the mental efforts which have been made is to be presented systematically, we are going to set forth in a completely methodical manner the general matter of our study.
+
+> 1. Objeto de la Sociología expositiva.—2. Definición de la Sociología.—3. Divisiones.
+
+2. Definition of Sociology.—Sociology is the primary, abstract, intuitive-inductive-deductive science which studies the natural laws upon which the order of social reality is founded.
+
+> 1. OBJETO DE LA SOCIOLOGÍA EXPOSITIVA.-—Para mostrar en un modo práctico cómo se ha de presentar sistemáticamente el fruto de los esfuerzos mentales que se han hecho, vamos á exponer en un modo completamente metódico la materia general de nuestro estudio.
+
+3. Division of Sociology.—Sociology is divided into: Sociology properly so called or Socionomy, Sociography, Sociorganology and Sociopathy. Socionomy, or Sociology properly speaking, is a general science: the other parts of the study are sciences of application.
+
+## CHAPTER II
+
+## SOCIONOMY
+
+> 2. DEFINICIÓN DE LA SocioLoGÍa.—Sociología es la ciencia primaria, abstracta, intuitivo-inductivo-deductiva, que estudia las leyes naturales en que se funda el orden de la realidad social.
+
+1. What is called Socionomy.—2. Character of human Society.
+
+> 3. DrvisióN DE La Socionocía.—La Sociología se divide en: Sociología propiamente tal ó Socionomía, Sociografía, Sociorganología y Sociopatía. La Socionomía ú Sociología propiamente di- Cha, es ciencia gencral: las demás partes del cstudio, son ciencias de aplicación.
+
+> CAPÍTULO Il SOCIONOMÍA
+
+> 1. Qué se llama Socionomía.—2, Carácter de la Sociedad humana, l. QUÉ ske LLama Socionomia.—La Sociología como ciencia general, que hace el examen de las [PDF 74] leyes naturales de la Sociedad, del orden que producen y de la realidad en que se manifiesta ese orden, se llama Socionomía.
+
+1. What is called Socionomy.—Sociology as a general science, which makes the examination of the [PDF 74] — 66 — natural laws of Society, of the order which they produce and of the reality in which that order is manifested, is called Socionomy.
+
+> 2. CARÁCTER Dx Ta SociebaD.—La Sociedad humana es un todo natural, de carácter universal, sujeto á leyes también universales.
+
+2. Character of Society.—Human Society is a natural whole, of universal character, subject to laws likewise universal.
+
+## SECTION 1
+
+## UNIVERSAL LAWS OF SOCIETY
+
+> SECCIÓN 1.* LEYES UNIVERSALES DE LA SOCIEDAD
+
+3. How many those laws are.—4. Which they are.—5. Classification of them.—6. Constitutive law.—7. Organic laws. —8. First organic law.—9. Second.—10. Third.—11. Fourth.— 12. Fifth.—13. Law of procedure.
+
+> 3. Cuántas son esas leyes. —4. Cuáles son.—5. Clasificación de ellas.—6. Loy constitutiva.—7. Leyes orgánicas. $. Primera ley orgánica.—9. Segunda.—10. Tercera.— 11. Cuarta.—12. Quinta. 13. Ley de procedimiento. *
+
+3. How many those laws of Society are.—They are seven laws, which correspond to the seven operations indispensable for producing order in Society.
+
+> 3. CUÁNTAS SON ESAS LEYES DE LA SOCIEDAD.— Son siete leyes, yue corresponden «¿ las siete actuaciones indispensables para producir orden en la Sociedad.
+
+4. Which they are.—The seven laws are:
+
+> 4. Cuánes son.—Las sicte leyes son:
+
+The first, the Law of Sociability.
+
+> La primera, la Ley de Sociabilidad.
+
+The second, the Law of Labour.
+
+> La segunda, la Ley de Trabajo.
+
+The third, the Law of Liberty.
+
+> La tercera, la Ley de Libertad.
+
+The fourth, the Law of Progress.
+
+> La cuarta, la Ley de Progreso.
+
+The fifth, the Law of the Ideal of the Good.
+
+> La quinta, la Lev de Ideal de Bien.
+
+The sixth, the Law of Conservation.
+
+> La sexta, la Ley de Conservación.
+
+And the seventh, the Law of Media.
+
+> Y la séptima, la Ley de los Medios.
+
+5. Classification of the social laws.—These laws, according to the relations which they establish between general ends and social purposes, are grouped in three sections: that of the constitutive law, that of the organic laws and that of the law of procedure.
+
+> 9. CLASIFICACIÓN DE LAS LEYES SOCIALES.—Estas leyes, segun las relaciones que establecen entre los fines generales y los propósitos sociales, se agrupan cn tres secciones: la de la ley constitutiva, la de las leyes orgánicas y la de la ley de procedimiento.
+
+> 6. Ley coxsriruriva.—La Ley de Sociabilidad es la constitución natural de las sociedades Ixumanas. Todo es por ella, y fucra de ella no hay vada. Si la Sociedad no estuviera constituida por naturaleza, en modo que todo lo que á ella se re[PDF 75] fiera depende exclusivamente de su constitución particular, ningún hecho de carácter colectivo seria posible, y mucho menos las series normales de hechos que llamamos fenómenos.
+
+6. Constitutive law.—The Law of Sociability is the natural constitution of human societies. Everything is by it, and outside it there is nothing. If Society were not constituted by nature, in such a way that everything relating to it [PDF 75] — 67 — depends exclusively upon its particular constitution, no fact of a collective character would be possible, and much less the normal series of facts which we call phenomena.
+
+> 7. LEYES ORGÁNICAS.—Asi como sin Loy de Sociabilidad no habría Sociedad, así no habria funciones sociales sin leyes sociales que preestablecieran el orden á la finalidad de las funciones y que compelieran á los hombres á efectuarlas. ya de grado, ya por la fuerza de las cosas.
+
+7. Organic laws.—Just as without the Law of Sociability there would be no Society, so there would be no social functions without social laws which pre-established the order for the purpose of the functions and which compelled men to carry them out, whether willingly or by the force of things.
+
+> 8. PrimeRA LuY ORGÁNICA.—La primera ley orgánica cs la de Trabajo. Esta ley sirve tan eficazmente para el funcionar de la vida humana, que ella seria imposible si esa ley no actuara.
+
+8. First organic law.—The first organic law is that of Labour. This law serves so efficaciously for the functioning of human life that the latter would be impossible if this law did not act.
+
+> Según hemos visto ya en todas las partes preparatorias de este estudio, el Trabajo es tan reular y tan normal, que no hace más que extener á las asociaciones humanas los beneficios de sustentación que opera continuamente en todas las actividades generales de la Naturaleza.
+
+As we have already seen in all the preparatory parts of this study, Labour is so regular and so normal that it does no more than extend to human associations the benefits of sustenance which it continually operates in all the general activities of Nature.
+
+> El conjunto de todos los esfuerzos del hombre individual y colectivo, que es lo que llamamos industria, es una continua prueba histórica de que la actividad industrial cs una función natural necesaria de la vida humana. Es obvio que tal naturalidad y necesidad de esa función social no habria constituido cl orden permanente que ha constituido, si no estuviera basada sobre relaciones invariables que, constituyendo ley, hicieran lo que han hecho, es decir, hicieran que cl hombre individual y colectivo tuviera, para vivir, que trabajar.
+
+The aggregate of all the efforts of man, individual and collective, which is what we call industry, is a continual historical proof that industrial activity is a natural and necessary function of human life. It is obvious that such naturalness and necessity of that social function would not have constituted the permanent order which it has constituted, were it not based upon invariable relations which, constituting law, did what they have done, that is to say, brought it about that man, individual and collective, had to labour in order to live.
+
+> 9. SEGUNDA IEY ORGÁNICA DE LA SOCIEDAD. — Todos los fenómenos del mundo social, absolutamente todos, están caracterizados por una propiedad que no caracteriza igualmente los fenómenos de la vida cósmica, aun inchiyendo en ella [PDF 76] la vida de los seres interiores al humano; esa propiedad es lo que llamamos Libcrtad. y esa propiedad, que aplicamos á todo. en nuestra vida individual y colectiva. es el modo natural de hacer las cosas. Este modo natural de hacer las. cosas, que empieza en la infancia y cesa solamente en la hora de la muerte, se refiere tan puntualmente á los caracteres de nuestra sensibilidad. de nuestra voluntad y de nuestra razón, que cuanto más conciencia tenemos de las funciones físicas y psiquicas de nuestro sér, tanto más vigorosamente nos apegamos al modo natural de hacer las cosas. De aquí que, desde la cuna hasta la tumba. todas las acciones de los hombres están caracterizadas por esta tendencia 4 imponer nuestro propio modo de ser á nuestro modo de proceder.
+
+9. Second organic law of Society.—All the phenomena of the social world, absolutely all, are characterized by a property which does not equally characterize the phenomena of cosmic life, even including in it [PDF 76] — 68 — the life of beings inferior to the human; that property is what we call Liberty, and that property, which we apply to everything in our individual and collective life, is the natural manner of doing things. This natural manner of doing things, which begins in infancy and ceases only at the hour of death, relates so punctually to the characters of our sensibility, of our will and of our reason, that the more consciousness we have of the physical and psychical functions of our being, the more vigorously do we cling to the natural manner of doing things. Hence it is that, from the cradle to the grave, all the actions of men are characterized by this tendency to impose our own manner of being upon our manner of proceeding.
+
+> A medida que se medite en esta intima correlación de nuestros actos humanos con nuestra constitución psíquica, iremos viendo la naturalidad, necesidad y propiedad de este proceder:
+
+In proportion as one meditates upon this intimate correlation of our human acts with our psychical constitution, we shall come to see the naturalness, necessity and propriety of this proceeding: we proceed thus because thus it is in the nature of our being, and thus it is in the nature of our being because, if it were not so, it would not be possible to realize the conditions imposed by Nature upon our life, conditions among which one is to concur in the social order, by relating our natural activities to the natural activity of the collective being of which we form part.
+
+> rocedemos asi porque así está en la naturaleza e nuestro sér, y así está en la naturaleza de nuestro sér porque, si así no fuera. no sería posible realizar las condiciones impuestas por la Naturaleza á nuestra vida. condiciones entre las cuales una es concwrrir al orden social. relacionando nuestras actividades naturales con la actividad natural del sér colectivo del cual formamos parte.
+
+This Law of Liberty acts manifestly in the social order, as it acts in the individual: in such wise that in the free exercise of our activity lies a part of the good to which we aspire, and in the depression of our Liberty lies a part of the evil which it is in our nature to combat.
+
+> Esta Ley de Libertad actúa manifiestamente en el orden social, como acttta en el individual: en modo que en el ejercicio libre de nuestra actividad está una parte del hien 4 que aspiramos, y en la depresión de nuestra Libertad está una parte del mal que es de nuestra naturaleza comnatlr.
+
+[p. 69]
+
+> 10. TERCERA LEY ORGÁNICA DE LA SOCIEDAD.— Progreso es el nombre que toma, en el desenvolvimiento de los grupos sociales, de las sociedades generales y de la Humanidad, el crecimiento y desarrollo que son condiciones necesarias de todo lo que vive.
+
+10. Third organic law of Society.—Progress is the name which is taken, in the unfolding of social groups, of general societies and of Humanity, by the growth and development which are necessary conditions of all that lives.
+
+> Esa necesidad de la condición subordinante, que es lo que se llama ley, existe, desde cl comicnzo de las cosas, en las Cosas mismas, y es ley del Universo entero, á cuya eficiencia no puede negarse nada de lo que existe. Todo nace, ercco, se desarrolla, declina y muere; ú, tomando los términos extremos y cl intermedio: todo nace, crece y muere.
+
+That necessity of the subordinating condition, which is what is called law, exists, from the beginning of things, in things themselves, and is a law of the entire Universe, to whose efficiency nothing of what exists can refuse itself. Everything is born, grows, develops, declines and dies; or, taking the extreme terms and the intermediate one: everything is born, grows and dies.
+
+> Esa es la ley del desarrollo, que lo mismo subordina á los seres inferiores que á los superiores, y que, en éstos, así se aplica á la individualidad como á Ja Sociedad, á la fenomenalidad material como 4 la inmaterial, 4 la vida física como a la vida psíquica. Esta Ley de Progreso es absolutamente tal ley. Desde el comienzo mismo de las sociedades humanas que nosotros alcanzamos por medio de uno de los estudios auxiliares de la Sociología, la Prehistoria, vemos en función la Ley de Progreso, como costáncamente vemos, en el desarrollo de nuestra corteza terrestre, pasar nuestro planeta del periodo eoceno al mioceno y de éste al plioceno.
+
+This is the law of development, which subordinates inferior beings just as it does superior ones, and which, in the latter, applies to individuality as to Society, to material as to immaterial phenomenality, to physical life as to psychical life. This Law of Progress is absolutely such a law. From the very beginning of the human societies which we reach by means of one of the auxiliary studies of Sociology, Prehistory, we see the Law of Progress in function, as contemporaneously we see, in the development of our terrestrial crust, our planet pass from the Eocene period to the Miocene and from the latter to the Pliocene.
+
+> 11. CuaArTa LEY ORGÁNICA DE LA SOCIEDAD.— Hay estados sociales y situaciones transitorias en las sociedades, que, lejos de hacernos creer en la posibilidad de un Tileal para dos hombres, nos dejan dolorosamente convencidos de que el hombre es un animal de presa que no vive más que para apoderarse de ella 4 las buenas, 6 4 las malas: á las buenas, por la mentira y por la astucia; 4 las malas, por la fuerza bruta y la traición. Pero si, [PDF 78] considerando cl desarrollo histórico del hombre en el planeta que habitamos, nos ponemos á meditar en los resultados sociales de ese desarrollo, y 1legamos á convencernos de que el crecimiento de las aptitudes humanas para el Bien corresponde en definitiva al crecimiento de sus aptitudes para la Verdad, y que es obra de educación, de encaminamiento, de dirección de la razón y la conciencia de los hombres, la obra de mejoramiento, de perfeccionamiento, de moralización, de religamiento de los hombres en el mismo propósito de perfección y Bien, ya no dudaremos de la capacidad del hombre para alentar un Ideal.
+
+11. Fourth organic law of Society.—There are social states and transitory situations in societies which, far from making us believe in the possibility of an Ideal for men, leave us painfully convinced that man is a beast of prey which lives only to seize upon its prey by fair means or by foul: by fair means, through falsehood and cunning; by foul, through brute force and treachery. But if, [PDF 78] — 70 — considering the historical development of man upon the planet which we inhabit, we set ourselves to meditate upon the social results of that development, and come to convince ourselves that the growth of human aptitudes for the Good corresponds in the end to the growth of their aptitudes for Truth, and that the work of the betterment, of the perfecting, of the moralization, of the rebinding of men in the same purpose of perfection and Good is a work of education, of guidance, of direction of the reason and the conscience of men, we shall no longer doubt the capacity of man to cherish an Ideal.
+
+> Si entonces, penctrando en el fondo del alma individual, descubrimos en ella esc recóndito fomento del Ideal, y afirmamos que no es fábrica del alma individual ni del alma social, sino angustiosa necesidad del alma humana, cl Idcal de Bien aparecerá á nuestros ojos como la estrella polar de nuestra vida.
+
+If then, penetrating to the depths of the individual soul, we discover in it that recondite nurture of the Ideal, and affirm that it is not a fabrication of the individual soul nor of the social soul, but an anguished necessity of the human soul, the Ideal of the Good will appear to our eyes as the pole star of our life.
+
+> Y así como pasan humanidades y vienen humanidades que tienen siempre ante la vista la luz de la estrella que, por más que cambien las evoluciones constelares, ocupa siempre la misma situación 4 nuestra vista, así el Ideal de Bien brilla erpetuamente á los ojos de todas las humanidaes. á pesar de los cambios que en ellas se efectúan, y á pesar de las mutaciones que ellas mismas efectrian, con sus cambios de ideas, en la constitución del Ideal.
+
+And just as humanities pass and humanities come which have always before their sight the light of the star which, however much the constellar evolutions may change, always occupies the same position to our sight, so the Ideal of the Good shines perpetually before the eyes of all humanities, in spite of the changes which are effected in them, and in spite of the mutations which they themselves effect, with their changes of ideas, in the constitution of the Ideal.
+
+> Esta inmutabilidad y perpetuidad de un mismo propósito del alma social; la coexistencia del mismo ideal en el alma individual y en el alma co- Jectiva de los hombres; la primacia del Ideal sobre todas las contingencias de la vida humana; la demostración histórica de que en relación de la civilización está la dilatación del Ideal, y la prueba [PDF 79] palpable de que, individuo y sociedades, 4 media que nos educamos nos mejoramos, toda esta red de relaciones da carácter de ley al Ideal de Bien.
+
+This immutability and perpetuity of one and the same purpose of the social soul; the coexistence of the same ideal in the individual soul and in the collective soul of men; the primacy of the Ideal over all the contingencies of human life; the historical demonstration that the expansion of the Ideal stands in relation to civilization, and the [PDF 79] — 71 — palpable proof that, individual and societies, in proportion as we educate ourselves we better ourselves, all this network of relations gives the character of law to the Ideal of the Good.
+
+> 12. QuINTA LEY ORGÁNICA DE LA SOCIEDAD.— Un hombre, contemplando el mal circunstante, puede tener por muy dolorosa la existencia entre otros hombres, acostumbrados, ó indiferentes, ¿ ese mal. Tendra razón: porque, en efecto, las sociedades en las cuales la fuerza bruta predomina y en las cuales la última razón á quo se llega inevitablemente es la fuerza bruta, son centros sociales muy difíciles de soportar para quien descubra en ellos la explicación de su régimen de fuerza.
+
+12. Fifth organic law of Society.—A man, contemplating the surrounding evil, may hold existence very painful among other men, accustomed, or indifferent, to that evil. He will be right: for, in effect, societies in which brute force predominates and in which the last reason at which one inevitably arrives is brute force, are social centres very difficult to endure for one who discovers in them the explanation of their regime of force.
+
+> Si, en vez de encaminar la fuerza bruta al dominio de las fuerzas inteligentes de la Sociedad, sucediera que éstas trabajaran para organizarse y dirigirse, no tardaría el momento cn que las uerzas inteligentes dominaran la fuerza bruta.
+
+If, instead of directing brute force to the domination of the intelligent forces of Society, it should happen that these laboured to organize and direct themselves, the moment would not be long in coming when the intelligent forces would dominate brute force.
+
+> Con eso bastaría para que se estableciera un orden social, que en vano se pedirá 4 una sociedad gobernada por una fuerza ciega. El resultado seuro del establecimiento del orden natural de la ciedad, seria la Conservación de la Sociedad sobre sus bases de sustentación. A esta consecuencia del enfrenamiento de las fuerzas brutas por las fuerzas inteligentes de la Sociedad, lo mismo se ve llegar á los pueblos pequeños que ú los grandes; á los pequeños como a los grandes Estados; á las Naciones de larga vida como 4 las quo no han tenido ticmpo más que para organizar el orden público.
+
+That would suffice for there to be established a social order which will be asked in vain of a society governed by a blind force. The sure result of the establishment of the natural order of Society would be the Conservation of Society upon its bases of sustenance. This consequence of the curbing of the brute forces by the intelligent forces of Society is seen to be reached by small peoples as well as by great; by small as by great States; by Nations of long life as by those which have had time for nothing more than to organize public order.
+
+> De donde la posibilidad de esta organización del orden público, según históricamente se demuestra por las evoluciones sociales que conocemos con el nombre de periodo revolucionario, indica la exis[PDF 80] tencia de una norma fija € invariable 4 que han de atenerse las sociedades humanas en su tarea de conservar los medios y los fines de su vida.
+
+Whence the possibility of this organization of public order, as is historically demonstrated by the social evolutions which we know by the name of revolutionary period, indicates the exis- [PDF 80] — 72 — tence of a fixed and invariable norm to which human societies must hold in their task of preserving the means and the ends of their life.
+
+> Esa norma que, seguida, da el orden, y que olvidada da cl desorden social, es lo que constituye la Ley de Conservación, que es la obra de la fuerza del bien, en oposición á la fuerza del mal; la obra de las fuerzas inteligentes de la Sociedad contra la fuerza bruta.
+
+That norm which, followed, gives order, and which, forgotten, gives social disorder, is what constitutes the Law of Conservation, which is the work of the force of good, in opposition to the force of evil; the work of the intelligent forces of Society against brute force.
+
+> 13. Lky DE PROCEDIMIENTO. —Para proceder en manera que las sociedades humanas caminaran en dirección de las leyes naturales que las guían, era, necesario que la Naturaleza misma proveyera con firmes obstáculos opuestos contra la indocilidad é indisciplina de la voluntad humana á la eficacia de todas las leyes naturales de la Sociedad. Á eso proveyó la Ley de los Medios, sencillamente derivada de la misma ley cósmica en cuya virtud el cambio de los Medios modifica la efectividad de los agentes.
+
+13. Law of procedure.—In order to proceed in such a manner that human societies should travel in the direction of the natural laws which guide them, it was necessary that Nature herself should provide firm obstacles, set against the indocility and indiscipline of the human will, in favour of the efficacy of all the natural laws of Society. For this the Law of Media provided, simply derived from the same cosmic law by virtue of which the change of Media modifies the effectiveness of agents.
+
+> En las sociedades humanas se ejerce la misma influencia de los Medios sobre las fuerzas Ó agentes sociales. Xl ticmpo, cl lugar, las circunstancias actuales, los usos y costumbres, las tradiciones históricas, religiosas, sociales, cconómicas, todo es capaz de modificar, y á veces dificultar extraordinariamente, la aplicación de una ventaja, una reforma ó0 una transformación saludable de la Sociedad. De aqui, la fuerza de la Ley de los podios y la necesidad de conocerla y aplicarla.
+
+In human societies the same influence of Media is exerted upon the social forces or agents. Time, place, present circumstances, usages and customs, historical, religious, social, economic traditions, all are capable of modifying, and at times of hindering extraordinarily, the application of an advantage, a reform or a salutary transformation of Society. Hence the force of the Law of Media and the necessity of knowing it and applying it.
+
+[p. 73]
+
+## SECTION 2
+
+## STATEMENT OF THE SOCIAL LAWS
+
+> SECCIÓN 2.2 ENUNCIADO DE LAS LEYES SOCIALES
+
+14. Why the social laws should be stated.—15. Statement of the Law of Sociability.—16. Statement of the Law of Labour. —17. Statement of the Law of Liberty.—18. Statement of the Law of Progress.—19. Statement of the Law of the Ideal.—20. Statement of the Law of Conservation.—21. Statement of the Law of Media.
+
+> 14. Par qué se debe enunciar las leyes sociales.—15. Enunciado de la Ley de Sociabilidad.—16. Enunciado de la Ley de Trabajo.—17. Enunciado de la Ley de Libertad —18. Enunciado de la Ley de Progreso.—19. Enunciado de la Ley de Ideal.—20. Enunciado de la Ley de Conservación.—21. Enunciado de la Ley de los Medios.
+
+14. Why the social laws should be stated.—The natural or unwritten laws of Society are not, and cannot be, so immediate a cause of order as the natural laws of the Universe. There no will acts but that of the causes, and here the will of man acts. This will of man, so active of itself and so resolute in the direction of the satisfaction of needs, or of what it considers needs, is a veritable agent of perturbation, which makes the regular fulfilment of the natural laws impossible.
+
+> 14. Por QUÉ SE DEBE ENUNCIAR LAS LEYES SO- CIALES.—Las leyes naturales ú no-escritas de la Sociedad, no son ni pueden ser una causa tan inmediata de orden como las leyes naturales del Universo. Aqui no actúa más voluntad que la de las causas, y allí actúa la voluntad del hombre. Esta voluntad del hombre, tan activa de suyo y tan resuelta en el sentido de la satisfacción de las necesidades ú de lo que considera necesidades, es un verdadero agente de perturbación, que hace imposible el cumplimiento regular de las leyes naturales.
+
+This notwithstanding, there is a possibility of reducing the human will to the fulfilment of those laws, and that is one of the general results of civilization, as it is one of the particular results of education and will be one of the best results of the diffusion of sociological knowledge; but so long as those results are not obtained, the will continues to be a cause of the inefficacy of the natural laws of Society. Hence the almost universal ignorance of those laws, and hence, with greater reason, the difficulty of stating them.
+
+> Eso no obstante, hay posibilidad de reducir á la voluntad humana al cumplimiento de esas loes, y ese es uno de los resultados generales de a civilización, como es uno de los resultados particulares de la educación y será uno de los mejores resultados de la difusión de los conocimientos sociológicos; pero mientras esos resultados no se obtienen, la voluntad sigue siendo causa de la ineficacia de las leyes naturales de la Sociedad. De ahi el desconocimiento casi universal de esas leyes, y de ahí, con más razón, la dificultad del enunciado de ellas.
+
+> Como enunciar una ley universal es: describir con precisión su modo de actuar, y la actuación de las leyes naturales de la Sociedad tiene siempre [PDF 82] que tener en cuenta un elemento movedizo, que es la voluntad humana, el enunciado de una ley social no puede ser tan perfecto que obligue á hacer, ó enseñar ú hacer, 6 haga ver, la relación precisa entre la causa y el efecto á que la ley se refiere.
+
+As to state a universal law is to describe with precision its manner of acting, and as the action of the natural laws of Society has always [PDF 82] — 74 — to take into account a shifting element, which is the human will, the statement of a social law cannot be so perfect as to oblige one to do, or teach one to do, or make one see, the precise relation between the cause and the effect to which the law refers.
+
+> Por eso se ha desistido generalmente del empeño de reducir á fórmulas la exposición del modo de proceder de la Naturaleza en el establecimiento de relaciones entre una causa y un efecto social.
+
+For that reason the endeavour to reduce to formulas the exposition of Nature's manner of proceeding in the establishment of relations between a social cause and effect has generally been abandoned.
+
+> Indudablemente, es acto de prudencia cientifica el proceder así; pero tal vez no conviene abstenerse de la indagación que reclama el conocimiento de las causas que determinan el orden social, á pesar del hombre y de su movil voluntad. Esa es la razón por la cual conviene intentar que la Sociología, aun reconociendo que no es ciencia de demostración, proceda, en la exposición de los principios fijos que llamamos leyes científicas, como si fuera una entre las ciencias naturales.
+
+Undoubtedly, it is an act of scientific prudence to proceed thus; but perhaps it is not well to abstain from the investigation which the knowledge of the causes that determine the social order demands, in spite of man and his changeable will. That is the reason why it is well to attempt that Sociology, even while recognizing that it is not a science of demonstration, should proceed, in the exposition of the fixed principles which we call scientific laws, as though it were one among the natural sciences.
+
+> 15. FENUNCIADO DE LA LEY DE SOCIABILIDAD.— La Sociabilidad está en razón positiva de la fuerza del instinto, y en proporción negativa del desarrollo de las necesidades colectivas.
+
+15. Statement of the Law of Sociability.—Sociability is in positive ratio to the force of instinct, and in negative proportion to the development of collective needs.
+
+> A más fuerte instinto de conservación, mayor tendencia á la asociación; á menor desarrollo de las necesidades colectivas, menor espiritu de asociación.
+
+The stronger the instinct of conservation, the greater the tendency to association; the less the development of collective needs, the less the spirit of association.
+
+> Siempre—por tanto—se verá que, mientras más fuerte sea el instinto de conservación, más fuerte será la asociación, y que cuanto menos se hayan desarrollado las necesidades colectivas, menos imperioso será cl espiritu de asociación.
+
+It will always—therefore—be seen that, the stronger the instinct of conservation, the stronger will association be, and that the less collective needs have developed, the less imperious will the spirit of association be.
+
+> 16. ENUNCIADO DE LA LEY DE TraBaJo.— El consumo es proporcional á la producción, y la producción es proporcional ú los coeficientes del trabajo.
+
+16. Statement of the Law of Labour.—Consumption is proportional to production, and production is proportional to the coefficients of labour.
+
+[p. 75]
+
+> Esto quiere decir que la producción, que es el objeto mediato del trabajo, y el consumo, que es su objeto inmediato, están relacionados como una causa ¿4 su efecto: en modo que la actuación de la causa se observe aritméticamente en el efecto. En sí misma, esta relación es tan sencilla, que habria bastado el darse cuenta de ella para que desde antiguo, prevaleciendo en los fenómenos econúmicos de la Sociedad, se hubiera ya establecido el orden económico y se hubiera desistido del continuo idear y concretar que forma casi toda. la actividad económica de las sociedades antiguas, medias y modernas. ,
+
+This means that production, which is the mediate object of labour, and consumption, which is its immediate object, are related as a cause to its effect: in such a manner that the action of the cause may be observed arithmetically in the effect. In itself, this relation is so simple that it would have sufficed to take account of it for the economic order to have been established long since, through its prevailing in the economic phenomena of Society, and for men to have desisted from the continual devising and contriving which forms almost the whole economic activity of ancient, mediaeval and modern societies.
+
+> Todos los cambios de fortuna material que se han observado en las sociedades humanas, desde los tiempos primitivos, han dependido muy principalmente de la actividad de la producción de riqueza individual y colectiva, de la mayor adaptación del trabajo libre á la producción pecuaria, agricola y fabrii, y de la correspondencia entre la producción y el consumo, y entre el consumo y la prosperidad social. Este relacionamiento de tausas y efectos, que es lo que en definitiva enuncia la Ley de Trabajo, habria evitado á los hombres casi todas las organizaciones artificiales del trabajo, asi las basadas en la clasificación de castas como las fundadas en la esclavitud, en la servidumbre ó en el vasallaje, y como las que artificialmente ha soñiado el socialismo de todos los tiempos, lo mismo el de los Santos Padres que el de los santisimos varones que en nuestros dias, desde Owen hasta Henri George, y desde Saint- Simon hasta Louis Blanc, y desde Dechouze Delisle hasta Tolstor, han intentado someter la producción y el consumo, la distribución y el cambio, de las riquezas, el bienestar y la prosperidad de las naciones, al establecimiento de organiza[PDF 84] ciones incapaces de producir la relación normal que constituye la Loy de Trabajo.
+
+All the changes of material fortune which have been observed in human societies, since primitive times, have depended very principally upon the activity of the production of individual and collective wealth, upon the greater adaptation of free labour to pastoral, agricultural and manufacturing production, and upon the correspondence between production and consumption, and between consumption and social prosperity. This relating of causes and effects, which is what in the end the Law of Labour states, would have spared men almost all the artificial organizations of labour, those based upon the classification of castes as well as those founded upon slavery, upon serfdom or upon vassalage, and also those which the socialism of all times has artificially dreamed, that of the Holy Fathers as well as that of the most holy men who in our days, from Owen to Henry George, and from Saint-Simon to Louis Blanc, and from Dechouze Delisle to Tolstoy, have attempted to subject the production and consumption, the distribution and exchange, of wealth, the well-being and prosperity of nations, to the establishment of organiza- [PDF 84] — 76 — tions incapable of producing the normal relation which constitutes the Law of Labour.
+
+> Sujctas á ella, las sociedades humanas no habrian tenido, ni en la actualidad tendrian, que hacer obra Cosa más que seguirla y acatarla. Mas como el desarrollo irregular de las sociedades humañas ha afectado á la producción y al consumo de las riquezas colectivas, en modo que la lucha establecida desde los primeros dias entre productores y consumidores no ha cesado todavía en nuestros tiempos ni cesará Jamás mientras no se restablezca la relación normal que da la Ley, la desigualdad de las fortunas y las prosperidades, el hambre para el trabajador y la saciedad para. el capitalista, las desventajas comerciales para las naciones débiles y las ventajas abrumadoras para las naciones fuertes, han sido el espectáculo del sufrimiento que ha dado hasta ahora el trabajo humano.
+
+Subject to it, human societies would not have had, nor would they at present have, to do anything more than follow it and obey it. But as the irregular development of human societies has affected the production and consumption of collective wealth in such a manner that the struggle established from the first days between producers and consumers has not yet ceased in our times, nor will ever cease so long as the normal relation which the Law gives is not restored, the inequality of fortunes and prosperities, hunger for the labourer and satiety for the capitalist, commercial disadvantages for weak nations and overwhelming advantages for strong nations, have been the spectacle of suffering which human labour has presented until now.
+
+> oro que mientras más veces se repita, mejor se llegará á entender que es del orden económico de lo que depende el bienestar social, y que el orden económico no puede ser establecido sino previa sujeción á la Ley de Trabajo, conviene inculcar esta simplisima conclusión en el cerebro de las muchedumbres, para que por lo menos en los paises nuevos se adopten procederes económicos más ajustados á la Ley universal de Trabajo.
+
+Since the oftener it is repeated, the better it will come to be understood that it is upon the economic order that social well-being depends, and that the economic order cannot be established except upon previous subjection to the Law of Labour, it is well to inculcate this most simple conclusion in the brain of the multitudes, in order that at least in the new countries economic procedures more in accordance with the universal Law of Labour may be adopted.
+
+> 17. ENUNCIADO DE La LeY De LibertaD.—La Libertad está en relación de armonía con el Derecho y el Deber, y en relación de contraste con la Fuerza y el Poder.
+
+17. Statement of the Law of Liberty.—Liberty is in a relation of harmony with Right and Duty, and in a relation of contrast with Force and Power.
+
+> Como en todas las demás leyes que determinan el orden universal, en esta Ley de Libertad el enunciado corresponde á un estado positivo y á un estado negativo de la relación que da el orden. Por eso los enunciados ofrecen 6 pueden ofrecer [PDF 85] siempre estos dos momentos diferentes: el primero, en el cual se describe, ó más bien se presenta, el modo de actuar afirmativamente la relación, y un segundo momento, en el cual se describe el modo de actuar negativamente la relación. Si no en todos los enunciados se manifiesta claramente esta diferencia, no es porque no exista, sino para evitar enunciados muy extensos. Como en éste de la Ley de Libertad es compatible con la extensión la presentación del doble aspecto, por eso se dice, en la primera parte del enunciado, que la Libertad está en relación de armonía, y por eso se afirma, en la segunda parte del enunciado, que: la Libertad está en relación de contraste.
+
+As in all the other laws which determine the universal order, in this Law of Liberty the statement corresponds to a positive state and to a negative state of the relation which gives order. For that reason the statements offer or may offer [PDF 85] — 77 — always these two different moments: the first, in which the manner in which the relation acts affirmatively is described, or rather presented, and a second moment, in which the manner in which the relation acts negatively is described. If this difference is not clearly manifested in all the statements, it is not because it does not exist, but in order to avoid very lengthy statements. As in this one of the Law of Liberty the presentation of the double aspect is compatible with its length, for that reason it is said, in the first part of the statement, that Liberty is in a relation of harmony, and for that reason it is affirmed, in the second part of the statement, that Liberty is in a relation of contrast.
+
+> Está en relación de armonía con el Derecho el Deber, porque estas dos fuerzas psíquicas coadyuvan al movimiento jurídico. Está en relación de contraste con la Fuerza y el Poder, porque estos dos agentes de carácter fisico obstan al movimiento jurídico.
+
+It is in a relation of harmony with Right and Duty, because these two psychical forces contribute to the juridical movement. It is in a relation of contrast with Force and Power, because these two agents of a physical character stand in the way of the juridical movement.
+
+> 18. ENuNcIaDO DE La Lrex DE PROGRESO. — Mi Progreso está en relación positiva de la educación, y en relación negativa del perfeccionamiento.
+
+18. Statement of the Law of Progress.—Progress is in positive relation to education, and in negative relation to perfection.
+
+> Este enunciado se puede descomponer en estas dos proposiciones aclaratorias: A mejor educación, más Progreso. Á menor perfeccionamiento, menos Progreso.
+
+This statement may be resolved into these two clarifying propositions: The better the education, the more Progress. The less the perfection, the less Progress.
+
+> Progreso, en la Sociedad como en la Naturaleza, es la expresión continua de tres términos ineludibles: nacimiento, crecimiento y muerte. La manifestación del Progreso cs fatal, incontenible é incontrastable. Es fatal, porque es del destino de las cosas, que son, empiezan á no ser y conclujon por dejar de ser. Es incontenible, porque no lay ninguna fuerza que pueda oponerse á un desarrollo dinámico, biológico y fisiológico, como [PDF 86] no sea la fuerza del no ser, es decir, del término, del desarrollo. Es incontrastable, porque no hay posibilidad de que haya estacionamiento de un impulso mecánico, fisiológico 6 sociológico, en tanto que dura la causa del impulso.
+
+Progress, in Society as in Nature, is the continuous expression of three inescapable terms: birth, growth and death. The manifestation of Progress is fatal, irrepressible and irresistible. It is fatal, because it belongs to the destiny of things, which are, begin not to be, and end by ceasing to be. It is irrepressible, because there is no force which can oppose itself to a dynamic, biological and physiological development, unless [PDF 86] — 78 — it be the force of not-being, that is to say, of the term of development. It is irresistible, because there is no possibility of a standstill of a mechanical, physiological or sociological impulse, so long as the cause of the impulse endures.
+
+> El Progreso está en proporción de la correlación de sus tres términos, y procede á manera de línea ondulosa, no de linea recta, é incluye— por tanto—Ja enfermedad y la convalecencia, el eclipse y el recobro de la fuerza.
+
+Progress is in proportion to the correlation of its three terms, and proceeds after the manner of an undulating line, not of a straight line, and includes—therefore—disease and convalescence, the eclipse and the recovery of force.
+
+> 19. Exuscravo DE La Ley ve loraL.—Z1 Ideal de Bien está en razon directa del desarrollo de le Moral, y en razón inversa de la capacidad individual y colectiva para conocer los fines religiosos ó morales.
+
+19. Statement of the Law of the Ideal.—The Ideal of the Good is in direct ratio to the development of Morals, and in inverse ratio to the individual and collective capacity for knowing religious or moral ends.
+
+> Este enunciado se explica, diciendo que cuanto mayor es cl desarrollo moral de los individuos y de la Sociedad, mayor es también su amor al Bien, y que cuanto menos capaz es la razón (tanto la individual como la colectiva) de conocer que el objeto ó fin de las religiones es la Moral, tanto menos se contempla el Bien como un Ideal.
+
+This statement is explained by saying that the greater the moral development of individuals and of Society, the greater also is their love of the Good, and that the less capable reason (individual as well as collective) is of knowing that the object or end of religions is Morals, the less is the Good contemplated as an Ideal.
+
+> Ya, en el estudio inductivo de la realidad social, descubrimos que la relación en que se funda el Idcal de Bicn tiene por términos extremos la Religión y la Moral, y de esto podemos deducir que la Moral no es ninguna otra cosa sino el objetivo de toda y cualquiera religión, v podemos deducir que religión sin moral como objetivo no es tal religión, ni debe llamarse religión, ni puede producir el religamiento de almas y conciencias que es propósito y procedimiento de la Religión.
+
+Already, in the inductive study of social reality, we discovered that the relation upon which the Ideal of the Good is founded has for its extreme terms Religion and Morals, and from this we can deduce that Morals is nothing else than the objective of each and every religion, and we can deduce that religion without morals as its objective is no such religion, nor ought to be called religion, nor can produce that rebinding of souls and consciences which is the purpose and procedure of Religion.
+
+> No hay—por tanto—en el enunciado de esta Ley ninguna expresión que no sea de carácter positivo, ni hay en la Ley misma ninguna relación de carácter cxclusivamente imaginal. A la verdad, si la ley está bien expuesta, no puede referirse más que á una sola relación, puesto que una [PDF 87] ley natural no es otra cosa más que la expresión del juego de una serie de causas y una serie de efectos dominados por la causa más general y por el efecto más particular. Asi, en esta Ley de Ideal de Bien, lo que ella expresa os: la existencia de un orden moral establecido por el espiritu de indaión religiosa, como causa, y por la práctica de la Moral, como efecto.
+
+There is not—therefore—in the statement of this Law any expression which is not of a positive character, nor is there in the Law itself any relation of an exclusively imaginary character. In truth, if the law is well set forth, it can refer to no more than a single relation, since a [PDF 87] — 79 — natural law is nothing other than the expression of the play of a series of causes and a series of effects dominated by the most general cause and by the most particular effect. Thus, in this Law of the Ideal of the Good, what it expresses is: the existence of a moral order established by the spirit of religious inquiry, as cause, and by the practice of Morals, as effect.
+
+> 20. ENUNCIADO DE LA LEY DE CONSERVACIÓN .— La Conservación corresponde á la fuerza vital, y esta a la energía con que se adaptan los medios funcionales á todo y cada fin de una función.
+
+20. Statement of the Law of Conservation.—Conservation corresponds to vital force, and the latter to the energy with which the functional means are adapted to each and every end of a function.
+
+> Este enunciado contiene, como todos los demás, dos proposiciones, complementaria la segunda de la primera. Dice, en primer lugar, que la Conservación corresponde 4 la fuerza vital; es decir, que hay una correspondencia necesaria entre cl desarrollo de la vida y la fuerza de Conservación: en otros términos, expresa que la vida se conserva en cuanto es fuerza, 0 en cuanto desarrolla fuerza. Pero, naturalmente, como la fuerza es de suyo impulsiva y tiende necesariamente á moverse y á promover el cambio ó daño que está llamada ú producir, es indispensable manteneria en sus lmites, dentro de sus órganos naturales, es necesario organizarla.
+
+This statement contains, like all the others, two propositions, the second complementary to the first. It says, in the first place, that Conservation corresponds to vital force; that is to say, that there is a necessary correspondence between the development of life and the force of Conservation: in other terms, it expresses that life preserves itself in so far as it is force, or in so far as it develops force. But, naturally, as force is of itself impulsive and tends necessarily to move and to bring about the change or harm which it is called upon to produce, it is indispensable to keep it within its limits, within its natural organs; it is necessary to organize it.
+
+> Eso es lo que explica la segunda parte, ó la proposición complementaria del enunciado, cuando ice cómo ha de ser organizada la fuerza bruta impulsiva ó meramente orgánica y vital. Dice, que se ha de organizar: haciendo que la fuerza vital corresponda en tal modo á la fuerza de conservación, que aparezca entre ambas la misma correspondencia que hay entre los medios funcionales y el fin de cada función.
+
+That is what the second part, or complementary proposition, of the statement explains, when it says how brute force, impulsive or merely organic and vital, is to be organized. It says that it is to be organized by making vital force correspond to the force of conservation in such a manner that there appears between the two the same correspondence that exists between the functional means and the end of each function.
+
+> En realidad, lo que describe el enunciado de la Ley de Conservación no es más que lo que en Fi[PDF 88] siología describe la enunciación-——en un modo cualquicra—de las funciones. Es, como si dijéramos que las vidas se conservan tanto mejor cuanto mejor funcionan sus órganos. Este sencillísimo enunciado del modo común de proceder los órganos de la existencia, así en el reino animal como en el organismo lumano, es la puntual descripción de lo que acontece en la relación de las causas sociales que producen la conservación de las sociedades. Es, como si dijéramos que las socie-. dades no pueden conservarse sino a medida que sus funciones naturales correspondan al objeto propio de ellas. Es, como si dijéramos que, por ejemplo, ninguna sociedad que haya dejado en suspenso una cualquiera de las actividades de la civilización, puede contar con conservarse, ni sana ni por mucho tiempo; y esto es asi, porque la civilización, según hemos visto, en definitiva no es más que la actividad funcional de las sociedades humanas, y es evidente que, si para que haya conservación han de corresponder los medios funcionales al fin de cada función, ninguna sociedad puede conservarse sana ni por mucho tiempo cuando descuida una cualquiera de las funciones naturales de su vida.
+
+In reality, what the statement of the Law of Conservation describes is no more than what in Phy- [PDF 88] — 80 — siology is described by the enunciation—in any manner whatever—of the functions. It is as if we were to say that lives are preserved the better, the better their organs function. This most simple statement of the common manner in which the organs of existence proceed, in the animal kingdom as in the human organism, is the punctual description of what takes place in the relation of the social causes which produce the conservation of societies. It is as if we were to say that societies cannot preserve themselves except in so far as their natural functions correspond to the object proper to them. It is as if we were to say that, for example, no society which has left in suspense any one of the activities of civilization can count upon preserving itself, either sound or for long; and this is so because civilization, as we have seen, is in the end nothing more than the functional activity of human societies, and it is evident that, if in order that there be conservation the functional means must correspond to the end of each function, no society can preserve itself sound or for long when it neglects any one of the natural functions of its life.
+
+> El conocimiento de este enunciado de la Ley de Conservación es importantísimo, porque contiene una fuerza y extensión y aplicación extraordinarias. Con efecto: quien sepa con certidumbre la infalible correlación —por la naturaleza misma de las cosas—entre la fuerza de la vida y la de conservación, en ningún momento podrá dudar de la verdad de la Lev de Conservación, y continuamente—asi sea de piedra el entendimiento ó la conciencia de la Sociedad—insistirá en aplicar la verdad del enunciado á la vida particular de ama sociedad cualquiera.
+
+The knowledge of this statement of the Law of Conservation is most important, because it contains an extraordinary force and extension and application. In effect: whoever knows with certainty the infallible correlation—by the very nature of things—between the force of life and that of conservation will at no moment be able to doubt the truth of the Law of Conservation, and continually—though the understanding or the conscience of Society be of stone—will insist upon applying the truth of the statement to the particular life of any society whatever.
+
+[p. 81]
+
+> Naturalmente, como en virtud del desigual desarrollo que impide el florecimiento perfecto de cualquier civilización, no se ha conseguido todavia que ninguna de ellas presente igualmente activas todas sus manifestaciones, no se pretenderá que cada una de ellas sea igual en fuerza, salud ó esplendor á la que más brilla, pero si se pretendera que la Sociedad tenga en tal manera organizadas todas sus funciones, que todas ellas —cuál más, cuál menos—denoten la actividad normal que hemos visto que se necesita para producirse normalmente la conservación social.
+
+Naturally, since, by virtue of the unequal development which hinders the perfect flowering of any civilization, it has not yet been achieved that any one of them should present all its manifestations equally active, it will not be claimed that each one of them should be equal in force, health or splendour to the one which shines most; but it will be claimed that Society should have all its functions so organized that all of them—some more, some less—should denote the normal activity which we have seen to be needed for social conservation to be produced normally.
+
+> Si nosotros tomamos como guía este enuncia- «lo, concluiremos por estar tan seguros de que la vida social depende de que en ella corresponda su fuerza vital á su fuerza de conservación, (que nos desviviremos, en el modo más espontáneo y desinteresado, por conseguir que la sociedad en que vivimos realice, en el modo más efectivo, sus funciones sociales, y efectúe, en el modo más normal, las actividades constitutivas de la civilización.
+
+If we take this statement as our guide, we shall end by being so sure that social life depends upon its vital force corresponding in it to its force of conservation, that we shall strive with all our being, in the most spontaneous and disinterested manner, to bring it about that the society in which we live should realize its social functions in the most effective manner, and should carry out in the most normal manner the activities constitutive of civilization.
+
+> 21. ExXUNCIADO DE La LEY DE LOs MEDIOS.— Toda fuerza social, al pasar de un medio sociótico á otro medio sociótico, se quebranta en sentido de más í en sentido de menos: en sentido de más, cuando pasa de un medio enfermo d otro sano; en sentido de menos, cuando pasa de un medio fuerte á un medio debil.
+
+21. Statement of the Law of Media.—Every social force, in passing from one sociotic medium to another sociotic medium, is broken in the sense of more or in the sense of less: in the sense of more, when it passes from a diseased medium to a healthy one; in the sense of less, when it passes from a strong medium to a weak medium.
+
+> De quebrantamientos de fuerzas socióticas en sentido de más, tenemos dos ejemplos históricos superiores á inil más. El primero se refiere á la fuerza de libertad, y el segundo á la fuerza de conservación. La fuerza de libertad se quebrantó en sentido de más, al pasar de Inglaterra al territorio americano del Norte, con los presbiterianos, cuáqueros, puritanos. anglicanos y católicos que [PDF 90] buscaban un asilo contra la persecución, un recurso de derecho para sus creencias y un medio de vida para cllos. La fucrza de conservación se ha quebrantado en sentido de más, al pasar de Inglaterra á Nueva Zelanda los inmigrantes ingleses que alli han proveido con leyes de cooperación cconómica y social y con reformas de Derecho Civil y Criminal, al orden conservador de Jas sociedades.
+
+Of breakings of sociotic forces in the sense of more we have two historical examples superior to a thousand more. The first refers to the force of liberty, and the second to the force of conservation. The force of liberty was broken in the sense of more on passing from England to the North American territory, with the Presbyterians, Quakers, Puritans, Anglicans and Catholics who [PDF 90] — 82 — were seeking an asylum against persecution, a resource of right for their beliefs and a means of livelihood for themselves. The force of conservation has been refracted in the sense of more, when the English immigrants passed from England to New Zealand, who there have provided the conserving order of those societies with laws of economic and social co-operation and with reforms of Civil and Criminal Law.
+
+> Las fuerzas sociales se han quebrantado en sentido de menos, cuando han pasado de un medio fuerte á otro débil. Asi, al pasar la fuerza de progreso desde las sociedades europcas, ya organi-. zadas por siglos de luchas, y relativamente ordenadas ¿ merced de la concurrencia de todos los elementos de desarrollo, á sociedades embrionarias apenas constituidas y casi todavía no-organizadas, se ha quebrantado en un modo tan violento, que á veces no puede reconocerse un determinado adelanto de Jas artes, las letras, las ciencias, las costumbres ó la opinión pública europeas, en reproducciones de ese mismo adelanto que se hacen á cada paso en las sociedades latinoamericanas.
+
+The social forces have been refracted in the sense of less when they have passed from a strong medium to a weak one. Thus, the force of progress, in passing from the European societies, already organized by centuries of struggle, and relatively ordered thanks to the concurrence of all the elements of development, to embryonic societies scarcely constituted and still almost unorganized, has been refracted in so violent a manner that at times a given advance of the European arts, letters, sciences, customs or public opinion cannot be recognized in the reproductions of that same advance which are made at every step in the Latin-American societies.
+
+> El fundamento de la Ley de los Medios cstá en la Naturaleza, ni más ni menos que el de cualquiera ley social.
+
+The foundation of the Law of Media is in Nature, neither more nor less than that of any other social law.
+
+> Esta Ley de Procedimiento tiene dos Medios ó Recursos igualmente indispensables: el recurso de aplicación y el de adaptación.
+
+This Law of Procedure has two Means or Resources, equally indispensable: the resource of application and that of adaptation.
+
+> El recurso de aplicación se emplea siempre que se trata de condiciones necesarias de la naturaleza humana. El de adaptación, siempre que se trata de condiciones transitorias ó circunstanciales.
+
+The resource of application is employed whenever it is a question of necessary conditions of human nature. That of adaptation, whenever it is a question of transitory or circumstantial conditions.
+
+> Cuando se trata de afectos humanos, de actos. humanos, de juicios humanos, que, independientemente de las circunstancias, son losmismos com[PDF 91] ponentes del alma, la aplicación puede ser inmediata é inquebrantable. En igualdad de circunstancias, se piensa y se procede lo mismo en Europa que en América.
+
+When it is a question of human affections, of human acts, of human judgments, which, independently of circumstances, are the same com- [PDF 91] — 83 — ponents of the soul, application may be immediate and unbreakable. Under equal circumstances, men think and act the same in Europe as in America.
+
+> Cuando se trata de instituciones, entonces hay que apelar al recurso de adaptación, porque de seguro actúan en contra una porción de circunstancias que á veces son capaces, no sólo de quebrar, de desviar la fuerza social, sino de quebrantarla.
+
+When it is a question of institutions, then one must appeal to the resource of adaptation, because a number of circumstances surely act against it which at times are capable not only of refracting, of deflecting the social force, but of breaking it.
+
+> La Ley de los Medios ofrece peligros, tanto á los que la olvidan cuanto á los que la recuerdan demasiado. Cuando olvidada, porque expone á errores, injusticias, violencias, tenacidades é imposiciones. Cuando respetada, porque ó debilita la acción impulsiva del progreso natural, ó favorece los peores vicios sociales; entre ellos, la pereza, la inercia, el pesimismo, el fatalismo.
+
+The Law of Media offers dangers, as much to those who forget it as to those who remember it too much. When forgotten, because it exposes to errors, injustices, violences, obstinacies and impositions. When respected, because it either weakens the impulsive action of natural progress or favours the worst social vices; among them, sloth, inertia, pessimism, fatalism.
+
+## SECTION 3
+
+## SOCIAL ORDER
+
+> SECCIÓN 3.* ORDEN SOCIAL
+
+22. In what social order consists.—23. Function of labour, with reference to the Law of Labour.—24. Function of government, with reference to the Law of Liberty.—25. Function of public education, in so far as it is governed by the Law of Progress.—26. Function of religion and morals, with reference to the Law of the Ideal.—27. Conserving function, or function of the force of societies, with reference to the Law of Conservation.—28. The social media, with reference to the Law of Media.
+
+> 22, En qué consiste el orden social.—23. Función del trabajo, con referencia á la Ley de Trabajo. —24, Función del gobierno, con referencia á la Ley de Libertad.— 25. Función de la educación pública, en cuanto regida por la Ley de Progreso.—26. Función de la religión y la moral, con referencia á la Ley de Ideal.—27. Función conservatriz Ó de la fuerza de las sociedades, con referencia á la Ley de Conservación.— 28. Los medios sociales, con referencia á la Ley de los Medios.
+
+> 22. ENQUÉ CONSISTE El, ORDEN SOCIAL.—Durante el estudio inductivo de los fenómenos sociales, estuvimos viendo que la relación normal de los efectos y las causas produce una estabilidad en tal modo regular, que la consideramos como el orden de las cosas sociales. Ahora vamos á ver cómo [PDF 92] se produce esa misma estabilidad. y cómo ese mismo orden resulta de la eficacia de las leyes universales de la Sociedad.
+
+22. In what social order consists.—During the inductive study of social phenomena we were seeing that the normal relation of effects and causes produces a stability so regular that we regarded it as the order of social things. Now we are going to see how [PDF 92] — 84 — that same stability is produced, and how that same order results from the efficacy of the universal laws of Society.
+
+> El estudio que ahora hemos de hacer es comprobatorio del que ya hicimos, en tal modo, que si son verdad las inducciones á que llegamos en el anterior estudio del orden social, vamos ahora á verlos derivarse naturalmente del cumplimiento de las leyes no-escritas de la Sociedad.
+
+The study which we have now to make is a verification of the one we have already made, in such a manner that, if the inductions at which we arrived in the former study of social order are true, we are now going to see them derived naturally from the fulfilment of the unwritten laws of Society.
+
+> En dos modos podemos llegar á esta comprobación: en primer Jugar, considerando en su completa totalidad y cn la unidad de sus funciones gencrales, la vida de la Sociedad; ó tomando cada una de las funciones sociales y examinándolas una á una con referencia á la ley á que ella se refiere. Esto equivale á decir que podemos examinar el fenómeno general de la civilización con referencia al conjunto de las leyes naturales de la Sociedad, ó podemos también estudiar—por ejemplo—la función del trabajo, con relación á da ley que lo establece; la función del gobierno, eon referencia á la Ley de Libertad; la función de educación, con relación á la Loy de Progreso; la función de la religión y la moral, con relación á la Ley de Ideal; la función de las fuerzas, con referencia 4 la Ley de Conservación.
+
+In two ways can we arrive at this verification: in the first place, by considering the life of Society in its complete totality and in the unity of its general functions; or by taking each one of the social functions and examining them one by one with reference to the law to which it refers. This is equivalent to saying that we may examine the general phenomenon of civilization with reference to the whole of the natural laws of Society, or we may also study—for example—the function of labour, in relation to the law which establishes it; the function of government, with reference to the Law of Liberty; the function of education, in relation to the Law of Progress; the function of religion and morals, in relation to the Law of the Ideal; the function of the forces, with reference to the Law of Conservation.
+
+> Adoptaremos este segundo modo. porque él favorcce un segundo ejercicio del análisis.
+
+We shall adopt this second way, because it favours a second exercise of analysis.
+
+> 23. FUNCIÓN DET. TRABAJO, CON REFERENCIA Á LA Ley pr Trapaso.—De la existencia de una ley universal de trabajo, se deduce necesariamente la existencia de un orden de trabajo. Este orden de trabajo se deduce necesariamente de la ley, porque es condición irremisible de las cosas que contribuyan á una estabilidad cualquiera siempre que una causa opere en el sentido de la estabilidad. En consecuencia, si existe una Ley de Tra[PDF 93] bajo que lo impone á todos los seres sociales como condición de su naturaleza, es consecuente que tudos los seres sociales coadyuven, queriendo, ó no queriendo, al orden ó estabilidad que ha de resultar de la Ley de Trabajo que los somete al modo en que las causas subordinan á sus efectos.
+
+23. Function of labour, with reference to the Law of Labour.—From the existence of a universal law of labour there is necessarily deduced the existence of an order of labour. This order of labour is necessarily deduced from the law, because it is an unremitting condition of things that they contribute to some stability or other whenever a cause operates in the direction of stability. In consequence, if there exists a Law of La- [PDF 93] — 85 — bour which imposes it upon all social beings as a condition of their nature, it is consequent that all social beings co-operate, willingly or unwillingly, in the order or stability which must result from the Law of Labour, which subjects them in the manner in which causes subordinate their effects.
+
+> En la parte inductiva de este trabajo, hemos visto ya que el orden relativo á las funciones económicas é industriales de la Sociedad existe y ha existido siempre, á pesar de los obstáculos que el mismo desarrollo de la vida humana oponía y opone á que se campla tan puntualmente la Ley de Trabajo, que la realidad económica corresponda puntualmente al enunciado de la ley. De esta diferencia entre el enunciado de la ley y el modo de cumplirse en la Sociedad humana, se deduce que para el establecimiento del orden económico hay obstáculos históricos Ó perpetuos. Y como hemos visto que el desarrollo de la Sociedad crea por sí mismo uno de esos obstáculos, si no es por si mismo todo el obstáculo, habrá también que deducir que para que corresponda el orden económico de las sociedades á la estricta relación establecida por la Ley de Trabajo, se requiere que la Sociedad general ú otra cualquiera sociedad particular haya legado en su crecimiento ú4 aquel junto de progreso en donde se encuentren equidorados la producción y el consumo, hasta el punto de que el uno corresponda exactamente á todas las necesidades y la otra á todas las satisfacciones. Y si efectivamente es cierto, como al ar lo manifiestan la inducción y la deducción, la una por el camino de los hechos y la otra por cl de los razonamientos; si efectivamente cs clerto que el equilibrio económico prescrito por la Ley de Trabajo, sólo se alcanza en un momento dado de la vida social, deduciremos que el orden [PDF 94] económico es imposible antes y después de ese momento.
+
+In the inductive part of this work we have already seen that the order relating to the economic and industrial functions of Society exists and has always existed, in spite of the obstacles which the very development of human life opposed and opposes to the Law of Labour being fulfilled so punctually that the economic reality should correspond punctually to the statement of the law. From this difference between the statement of the law and the manner of its fulfilment in human Society, it is deduced that there are historical or perpetual obstacles to the establishment of the economic order. And as we have seen that the development of Society by itself creates one of those obstacles, if it is not by itself the whole obstacle, it will also have to be deduced that, in order that the economic order of societies may correspond to the strict relation established by the Law of Labour, it is required that general Society, or any other particular society, shall have reached in its growth that point of progress where production and consumption are found balanced, to the point that the one corresponds exactly to all the needs and the other to all the satisfactions. And if it is indeed true, as induction and deduction alike make manifest, the one by the road of facts and the other by that of reasonings; if it is indeed true that the economic equilibrium prescribed by the Law of Labour is reached only at a given moment of social life, we shall deduce that the [PDF 94] — 86 — economic order is impossible before and after that moment.
+
+> Siendo imposible que en ningún momento de su desarrollo pudiera ninguna sociedad resistir á un desequilibrio absoluto entre su producción y su consumo, se deduce la fatalidad de esta relación entre la producción y el consumo, y, por lo tanto, la fatalidad del orden económico antes y después del momento del desarrollo social en que se llega al equilibrio establo.
+
+It being impossible that at any moment of its development any society could withstand an absolute disequilibrium between its production and its consumption, there is deduced the fatality of this relation between production and consumption, and, therefore, the fatality of the economic order before and after the moment of social development at which stable equilibrium is reached.
+
+> Siendo, pues, un hecho social de toda sociedad en todo tiempo que no se puede llegar á tal grado de desorden económico, que de algún modo no se compensen los consumos por la producción, resulta en tal modo patentizada la inmanencia de la ley natural de Trabajo, que la consideraremos como actuante continuo en la historia de los pueblos, y aprenderemos á atribuir á ella el medio-orden, el medio-cquilibrio, la media-ponderación de consumos y producciones que bastan para mantener el orden económico en el sucesivo evolucionar de la Sociedad.
+
+It being, then, a social fact of every society at every time that it cannot come to such a degree of economic disorder that consumption is not in some manner compensated by production, the immanence of the natural law of Labour is made so patent that we shall consider it as a continuous agent in the history of peoples, and we shall learn to attribute to it the half-order, the half-equilibrium, the half-balancing of consumptions and productions which suffice to maintain the economic order in the successive evolution of Society.
+
+> Asi demostrada la perpetua eficiencia de la Le de Trabajo en un perpetuo medio-orden económico de la Sociedad, se patentiza á los ojos de la razón la importancia de este doble conocimiento: el de una Ley universal de Trabajo, v el de un orden que resulta como consecuencia.
+
+The perpetual efficiency of the Law of Labour in a perpetual economic half-order of Society being thus demonstrated, the importance of this double knowledge becomes patent to the eyes of reason: that of a universal Law of Labour, and that of an order which results as its consequence.
+
+> Con efecto: si el desarrollo de la educación común llegara en cualquiera sociedad á ser tan uniforme que todos los asociados, recibiendo las nociones indispensables para la práctica de la vida. aprendieran con tiempo que el orden social está fundado en leyes no-cscritas por los hombres, llegaria un momento en que una generación formada en ese convencimiento consagraría todo su esfuerzo á favorecer el desarrollo social en modo [PDF 95] que fuera aproximándose cada día al panto y momento de equilibrio en que se coordinan por si mismos los elementos sociales de quienes depende el equilibrio.
+
+In effect: if the development of common education should come in any society to be so uniform that all the associates, receiving the notions indispensable for the practice of life, should learn in good time that the social order is founded on laws not written by men, a moment would come in which a generation formed in that conviction would consecrate all its effort to favouring social development in such a manner [PDF 95] — 87 — that it should be approaching each day the point and moment of equilibrium in which the social elements upon which equilibrium depends co-ordinate themselves of their own accord.
+
+> 24. FuxcióN DEL GOBIERNO, CON RELACIÓM Á LA. Ley pe LiberTAaD.—La Ley de Libertad es en tal manera la determinante de las funciones del grobierno, que esta noción de gobierno no es más que uno de los términos de la relación que constituye el orden juridico de la Sociedad.
+
+24. Function of government, in relation to the Law of Liberty.—The Law of Liberty is in such manner the determinant of the functions of government that this notion of government is no more than one of the terms of the relation which constitutes the juridical order of Society.
+
+> El enunciado de la ley es tan claro, que no puede desconocerse que en donde quiera que se realice el orden político con relación á ese enunciado no se dé el gobierno tal cual ci gobierno debe ser.
+
+The statement of the law is so clear that it cannot be denied that wherever the political order is realized in relation to that statement, there government is found such as government ought to be.
+
+> Veamos lo que se deduce estrictamente del enunciado. De que la Libertad esté en relación armónica con el Derecho y el Deber, se deduce inmediatamente la necesidad de que en las instituciones de gobierno funcionen siempre el Derecho y cl Deber como los términos de una relación primordial, que es necesaria para cl orden. Del segundo extremo del enunciado, es decir, de que la Libertad esté en relación de contraste con la Fuerza y el Poder, se deduce que el Poder y la Fuerza son por sí mismos una relación secundaria. que coadyuva al orden jurídico, aunque lo hace en un modo secundario. Y de csc mismo segundo término del enunciado, se deduce una relación general entre el Derecho y el Deber, por una parte, como primer término, y la Fuerza y cl Poder, como segundo término. De csta relación general entre estos dos términos es de donde resulta el orden juridico, y por medio de ella se ve que el orden jurídico no es otra cosa más que el funcionar del gobierno con sujeción á la Ley de Libertad. Es decir, en otros términos, que la Ley de [PDF 96] Libertad es tan esencial á la función del gobierno, que éste no puede ser ni llegar á sor lo que en esencia cs, lo que de él pide la naturaleza de las cosas, sino cn tanto que esté subordinado á la Ley de Libertad.
+
+Let us see what is strictly deduced from the statement. From Liberty being in harmonious relation with Right and Duty, there is immediately deduced the necessity that in the institutions of government Right and Duty should always function as the terms of a primordial relation, which is necessary for order. From the second extreme of the statement, that is to say, from Liberty being in a relation of contrast with Force and Power, it is deduced that Power and Force are of themselves a secondary relation which aids the juridical order, although it does so in a secondary manner. And from that same second term of the statement there is deduced a general relation between Right and Duty, on the one part, as first term, and Force and Power, as second term. It is from this general relation between these two terms that the juridical order results, and by means of it one sees that the juridical order is nothing other than the functioning of government in subjection to the Law of Liberty. That is to say, in other terms, that the Law of [PDF 96] — 88 — Liberty is so essential to the function of government that the latter cannot be, nor come to be, what in essence it is, what the nature of things asks of it, except in so far as it is subordinated to the Law of Liberty.
+
+> Esta noción positiva, 4 que no puedo llegarse sino después del esfuerzo de observación y de experimentación que reclama el conocimiento positivo de una ley no-cscrita; esta noción positiva, es indispensable para constituir el conocimiento de la idca de gobicrno, y es, por lo tanto, una noción que debe preceder, tomándola directamente de esta parte de la Sociología, á todo estudio general, ó particular, de cualquiera rama del Derecho, y principalmente del Derecho público nacional y del Derecho público internacional.
+
+This positive notion, which cannot be reached except after the effort of observation and experimentation that the positive knowledge of an unwritten law demands; this positive notion is indispensable for constituting the knowledge of the idea of government, and is, therefore, a notion which ought to precede, being taken directly from this part of Sociology, every general or particular study of any branch of Law, and principally of national public Law and of international public Law.
+
+> 259. FUNCIÓN DE LA EDUCACIÓN PÚBLICA EN CUANTO REGIDA POR La Ley DE PROGRESO.—Veamos, en primer lugar, qué es lo que se deduce de la Ley de Progreso. Del primer extremo de esa ley se leduce que el Progreso está en razón positiva de la educación. Por tanto, no es posible concebir un estado social en situación de efectivo desarrollo sino en tanto que el cultivo de la razón pública y privada sea tan fundamental, que sirva de sustento al desarrollo mismo de la Sociedad. En otros términos: del primer extremo del enunciado de la Ley de Progreso, se deduce que uno de los cocficientes necesarios del progreso social es la educación, puesto que de ella depende el desarrollo de la razón individual y colectiva. Del sezundo extremo, se deduce la firtima relación que ay entre el Progreso y el perfeccionamiento material, moral € intelectual: en modo que podamos negativamente juzgar del estado de una sociedad por el grado de perfeccionamiento 4 que ha lle-
+
+25. Function of public education in so far as it is governed by the Law of Progress.—Let us see, in the first place, what is deduced from the Law of Progress. From the first extreme of that law it is deduced that Progress is in direct ratio to education. Therefore it is not possible to conceive a social state in a situation of effective development except in so far as the cultivation of public and private reason is so fundamental that it serves as the support of the very development of Society. In other terms: from the first extreme of the statement of the Law of Progress it is deduced that one of the necessary coefficients of social progress is education, since upon it depends the development of individual and collective reason. From the second extreme is deduced the intimate relation that exists between Progress and material, moral or intellectual perfecting: in such a manner that we may negatively judge of the state of a society by the degree of perfection which it has reached.
+
+[p. 89]
+
+> importa mucho entender en una manera positiva, sin vagucdades de ninguna especie, sin generalidades que lo digan todo y no digan nada, Jo que es la educación. Es una función natural de la vida colectiva é individual, que resulta de la necesidad de desarrollo que tienen la razón y la conciencia del hombre. Cuando esa necesidad se satisface, el desenvolvimiento de las aptitudes características de la especie humana (la razón y la conciencia do la racionalidad) hace patente la necesidad de educar, es decir, de dirigir conforme á la naturaleza, las aptitudes todas del sér individual y colectivo: de ahi que la educación abarque á la par las aptitudes físicas y las aptitudes psíquicas del hombre, las individuales y las colectivas del sér social, las teóricas y las prácticas del sér racional.
+
+It matters much to understand in a positive manner, without vaguenesses of any kind, without generalities which say everything and say nothing, what education is. It is a natural function of collective and individual life, which results from the need of development that the reason and the conscience of man possess. When that need is satisfied, the unfolding of the characteristic aptitudes of the human species (reason and the conscience of rationality) makes patent the necessity of educating, that is to say, of directing in conformity with nature all the aptitudes of the individual and collective being: hence it is that education embraces alike the physical aptitudes and the psychical aptitudes of man, the individual and the collective aptitudes of the social being, the theoretical and the practical aptitudes of the rational being.
+
+> La educación asi entendida cn su significación esencial es, por naturaleza, no ya sólo un coefisiente del Progreso, sino el factor principal del desarrollo, crecimiento, evolución y cambio del sér social.
+
+Education, thus understood in its essential signification, is by nature not merely a coefficient of Progress, but the principal factor of the development, growth, evolution and change of the social being.
+
+> 26. FUNCIÓN DE LA RELIGIÓN Y LA MORAL, CON REFERENCIA Á LA LEY DE IbrEaL.—En ésta, como en todas las funciones de la vida social, el objetivo de la razón, es decir, lo que la razón descubre en la función como supremo objeto, está on tal modo relacionado con la ley á que se refiero la función, que el único modo de embeberse por completo en la verdad y de utilizarla, aplicándola inmediatamente al beneficio del hombre individual y colectivo, es ponerse 4 ver, y de continuo ver, cómo cada función de la vida social se subordina naturalmente, inevitablemente, á la ley universal que la explica, y de qué modo todas y cada una de las operaciones de la función se explican también por la misma ley.
+
+26. Function of religion and morals, with reference to the Law of the Ideal.—In this, as in all the functions of social life, the objective of reason, that is to say, what reason discovers in the function as its supreme object, is in such manner related to the law to which the function refers, that the only way of becoming wholly imbued with the truth and of making use of it, applying it immediately to the benefit of individual and collective man, is to set oneself to see, and continually to see, how each function of social life is subordinated naturally, inevitably, to the universal law which explains it, and in what manner each and every one of the operations of the function are likewise explained by the same law.
+
+[p. 90]
+
+> Cuando decimos, enunciando la Ley de Ideal, ue la religión está en razón directa del desarro- No de la moral, claramente hacemos entender, por vía deductiva, lo que ya por la vía inductiva llegamos á descubrir: esto es, que hay una relación tan intima entre la religión y la moral, que sin moral no hay religión, de donde, en la práctica, tanto para la crítica de los hechos corrientes como para nuestra propia norma de conducta, sacamos en consccuencia que ninguna religión que esté fuera del camino de la moral es religión efectiva, ni cs bucna religión la que expresamente se pone. fuera de ese camino, ó intente independizarse de la moral, ó lleva su osadía hasta el extremo de pretender que la moral le está subordinada, y su insolencia hasta el punto de condenar como ineficaz la moral que, siendo como debe, expresamente se aleja de todo prejuicio ó juicio anticipado de cualquiera religión.
+
+When we say, in stating the Law of the Ideal, that religion is in direct ratio to the development of morals, we clearly make understood, by the deductive way, what we had already come to discover by the inductive way: that is, that there is so intimate a relation between religion and morals that without morals there is no religion; whence, in practice, as much for the criticism of current facts as for our own rule of conduct, we draw in consequence that no religion which stands outside the road of morals is effective religion; nor is that a good religion which expressly places itself outside that road, or attempts to make itself independent of morals, or carries its audacity to the extreme of pretending that morals are subordinate to it, and its insolence to the point of condemning as ineffectual the morality which, being as it ought to be, expressly holds itself aloof from every prejudice or anticipated judgment of any religion whatever.
+
+> Cuando, en cl seeundo extremo del enunciado, afirmamos que el ideal de bien está cn razón inversa de la capacidad colectiva para apreciar los fines religiosos, ó morales, tanto afirmamos como si dijéramos que nuestra capacidad de bicn se aumentará mecánica, 6 maquinal, ó biológica, 6 fisiológicamente, á medida, ó según que aumente nuestra capacidad de relacionar la religión con la moral, de pedir á las religiones que den moralidad, de conocer en un modo completamente racional que los fincs religiosos están subordinados á los de la moral.
+
+When, in the second extreme of the statement, we affirm that the ideal of the good is in inverse ratio to the collective capacity for appreciating religious or moral ends, we affirm as much as if we should say that our capacity for good will increase mechanically, or automatically, or biologically, or physiologically, in measure as, or according as, there increases our capacity for relating religion to morals, for asking of religions that they yield morality, for knowing in a completely rational manner that religious ends are subordinate to those of morals.
+
+> Cuando, siguiendo puntualmente la Ley de Ideal de Bien, queramos juzgar 4 una ó varias religiones, á uno ó varios períodos religiosos, 4 uno ó varios estados sociales de religiosidad, la relación que establece cl enunciado nos hará por si misma ver en los dogmas, en la conducta y en [PDF 99] el resultado social de una religión, si se ha subordinado ó no y si obedece ó no á la ley natural de que depende la función religiosa de las sociedades.
+
+When, following punctually the Law of the Ideal of the Good, we wish to judge one or several religions, one or several religious periods, one or several social states of religiosity, the relation which the statement establishes will of itself make us see in the dogmas, in the conduct and in [PDF 99] — 91 — the social result of a religion, whether it has or has not subordinated itself to, and whether it does or does not obey, the natural law on which the religious function of societies depends.
+
+> 27. FUNCIÓN CONSERVATRIZ Ó DE LA FUERZA DE LAS SOCIEDADES, CON REFERENCIA Á La LEY DE Con- SERVACIÓN.—La fuerza vital aparece, en el enunciado de la Ley de Conservación, de tal modo en relación con ella, que la conservación de las sociedades aparece como el resultado del desarrollo de la vitalidad social.
+
+27. Conserving function, or function of the force of societies, with reference to the Law of Conservation.— Vital force appears, in the statement of the Law of Conservation, in such manner related to it that the conservation of societies appears as the result of the development of social vitality.
+
+> Si tomamos como guía esa primera parte del enunciado, nunca, ó pocas veces, se extraviará nuestro juicio, ya cuando lo apliquemos al estado de organización de una sociedad, ya cuando lo apliquemos á descubrir medios de organización. Cuando encaminemos nuestro juicio juzgar de una sociedad por el estado de organización cn que presente su fuerza pública, veremos que cuanto más corresponda ésta ú fines de sociabilidad, como la seguridad individual, vecinal y nacional; como la paz doméstica, urbana, nacional é internacionah como el Derccho Privado y el Público, y el Civil, y el Criminal, externo é interno, tanto más visible y apreciable será ei desarrollo de la vitalidad social; y cuando veamos esta relación entre la vitalidad y la conservación como resultante de la organización de la fuerza, patentemente veremos que ésta es simplemente una operación del instinto de conservación ó de la fuerza conservatriz de las sociedades. Entonces aparecerá esta fuerza vital, que cs fuerza conservatriz, como resultado necesario de la correspondencia entre cada fin y cada medio funcional.
+
+If we take that first part of the statement as our guide, never, or seldom, will our judgment go astray, whether when we apply it to the state of organization of a society, or when we apply it to discovering means of organization. When we direct our judgment to judging of a society by the state of organization in which it presents its public force, we shall see that the more this corresponds to ends of sociability, such as individual, neighbourly and national security; such as domestic, urban, national and international peace; such as Private and Public Law, and Civil, and Criminal, external and internal, the more visible and appreciable will the development of social vitality be; and when we see this relation between vitality and conservation as the resultant of the organization of force, we shall patently see that this is simply an operation of the instinct of conservation, or of the conserving force of societies. Then will this vital force, which is conserving force, appear as the necessary result of the correspondence between each end and each functional means.
+
+> Esto es, ni más ni menos, lo que sucede en los organismos individuales: la fuerza es mayor cuanto mejor dirigido el instinto de conservación, y el instinto, más conservador cuanto más intimo [PDF 100] hace da salud el enlace entre cada fin y cada medio funcional.
+
+This is, neither more nor less, what happens in individual organisms: the force is greater the better directed the instinct of conservation, and the instinct more conservative the more intimate [PDF 100] — 92 — health makes the link between each end and each functional means.
+
+> 28. Los MEDIOS SOCIALES, CON REPERENCIA Á LA Ley bx 10s Mentos.—La Naturaleza es un ejemplo continuo de que ninguna relación produce orden, ningún agente físico produce cambio, ninún hecho cósmico altera ó6 modifica la estabilidad 6 el equilibrio del Cosmos, cuando la relación, el agente físico, el hecho cósmico, no se manifiesta en su propio medio de acción natural. Si tomamos dos imanes y artificialmente producimos un remedo del juego de fuerzas contripetas y centrifugas que constituyen la atracción universal, la relación de estas dos fuerzas no podrá mantenerse tal como actualmente es en el Universo, si logramos modificar el medio en que las dos fuerzas han de actuar.
+
+28. The social media, with reference to the Law of Media.—Nature is a continual example that no relation produces order, no physical agent produces change, no cosmic fact alters or modifies the stability or the equilibrium of the Cosmos, when the relation, the physical agent, the cosmic fact, is not manifested in its own natural medium of action. If we take two magnets and artificially produce an imitation of the play of centripetal and centrifugal forces which constitute universal attraction, the relation of these two forces cannot be maintained such as it actually is in the Universe if we succeed in modifying the medium in which the two forces have to act.
+
+> El calor es un agente físico cuya continua operación es dilatar los cuerpos: si sometemos bajo el agua á la acción del calor un cuerpo muy conductor del calórico, de antemano sabemos que bajo cl agua se mostrará mucho menos conductor.
+
+Heat is a physical agent whose continual operation is to dilate bodies: if under water we subject to the action of heat a body that is a very good conductor of caloric, we know beforehand that under water it will show itself much less of a conductor.
+
+> Es un hecho de la Naturaleza la producción del agma por las vesienlas de vapor suspeusas en el altre: basta que una ráfaga elevo esas vesiculas, y ellas, en virtud de su levedad, se sitúen en las regiones superiores de la atmósfera, para que el hecho de la producción del agua por las vesiculas de vapor se cambie en producción de granizo, ó de cristales de hielo.
+
+It is a fact of Nature, the production of water by the vesicles of vapour suspended in the air: it suffices that a gust raise those vesicles, and that they, by virtue of their lightness, settle in the upper regions of the atmosphere, for the fact of the production of water by the vesicles of vapour to change into the production of hail, or of crystals of ice.
+
+> De aquí el principio general de que las fuerzas actúan según el medio circanstante; de que la relación entre las causas y los efectos se produce, ó se altera, según el medio ambiente; de que los hechos naturales se manjficstan en un modo que nos parece normal, ó, en otro modo, que: siendo también normal, nos parece anormal, según el [PDF 101] medio utmosférico, cósmico, ó fisico, en que el hecho se produce.
+
+Hence the general principle that forces act according to the surrounding medium; that the relation between causes and effects is produced, or is altered, according to the ambient medium; that natural facts are manifested in a manner which seems to us normal, or in another manner which, being also normal, seems to us abnormal, according to the [PDF 101] — 93 — atmospheric, cosmic or physical medium in which the fact is produced.
+
+> Como que la actividad y vida de los seres sociales no cs más, según hemos visto repetidamente, que la manifestación de actividades físicas Ú cósmicas, sin más modificación que la de circunstancias de carácter social, lo que sucede en el Cosmos sucede cn el mundo social. Y de aquí se deduce, como ya lo hicimos. que el mundo social estará también sujeto á la Ley de los Medios. Pero esta deducción en que homos fundado ya la noción y el enunciado de csa ley, no es suficiente prucba de que los hechos sociales se modifican según el medio en que se manifiestan: la prueba suficiente sólo viene de suyo cuando referimos hechos de cambio, transmutación ó trausformación social, con referencia á la Ley de los Medios. Esta se enuncia:
+
+Inasmuch as the activity and life of social beings is no more, as we have repeatedly seen, than the manifestation of physical or cosmic activities, with no other modification than that of circumstances of a social character, what happens in the Cosmos happens in the social world. And hence it is deduced, as we have already done, that the social world will also be subject to the Law of Media. But this deduction, upon which we have already founded the notion and the statement of that law, is not sufficient proof that social facts are modified according to the medium in which they are manifested: the sufficient proof comes of itself only when we refer facts of social change, transmutation or transformation to the Law of Media. This is stated:
+
+> Las fuerzas sociales, al pasar de un medio social á otro medio social, se quebrantan. No podemos, por tanto, esperar que un hecho social sea exactamente el mismo, en dos distintas latitudes, ni aun en dos distintas longitudes; en dos tiempos distintos de la Historia, ni eu dos estados distintos de la Sociedad; ni aun en el mismo tiempo en distinto estado, ni aun en el mismo estado en distinto tiempo.
+
+The social forces, in passing from one social medium to another social medium, are refracted. We cannot, therefore, expect a social fact to be exactly the same in two different latitudes, nor even in two different longitudes; in two different times of History, nor in two different states of Society; nor even at the same time in a different state, nor even in the same state at a different time.
+
+> Sabiendo de antemano que la modificación ha de sobrevenir, todo empeño en cvitarla ha de ser inútil ó insensato. Pues bien: si al proceder á la aplicación de recursos y arbitrios sociales, ó á la aclimatación de un beneficio social, 6 4la implantación de un bien social, sabemos que hay una ley de la Naturaleza que se opone fatalmente (es decir, en virtud de necesidad incontrastable) á que el hecho, ó el adelanto. 6 el beneficio, se reproduzca exactamente, es claro que no nos empeña[PDF 102] remos inútilmente en hacer la adaptación, ó la aclimatación, ú la aplicación.
+
+Knowing beforehand that the modification must supervene, every endeavour to avoid it must be useless or senseless. Well, then: if, in proceeding to the application of social resources and expedients, or to the acclimatization of a social benefit, or to the implantation of a social good, we know that there is a law of Nature which fatally opposes itself (that is to say, by virtue of an irresistible necessity) to the fact, or the advance, or the benefit being reproduced exactly, it is clear that we shall not obstinately [PDF 102] — 94 — persist to no purpose in making the adaptation, or the acclimatization, or the application.
+
+> Si substraemos de nuestra actividad social todos los empeños encaminados á ese esfuerzo de adaptación inútil, es indudable que ganaremos, en tiempo, en Cantidad de trabajo y en calidad de beneficios sociales, todo el tiempo y todo el trabajo que hayamos ahorrado en una adaptación productiva.
+
+If we withdraw from our social activity all the endeavours directed to that effort of useless adaptation, it is beyond doubt that we shall gain, in time, in quantity of labour and in quality of social benefits, all the time and all the labour that we shall have saved for a productive adaptation.
+
+> Si, pues, en un estudio completamente científico de las leyes naturales de la Sociedad, aprendemos á acatar la Ley de los Medios sociales, coino nos vemos forzados á acatar la ley de los medios físicos 4 cósmicos, es indudable la utilidad inmediata que se derivará de ese conocimiento y ese estudio.
+
+If, then, in a completely scientific study of the natural laws of Society, we learn to respect the Law of social Media, as we find ourselves forced to respect the law of physical or cosmic media, the immediate utility that will be derived from that knowledge and that study is beyond doubt.
+
+## CHAPTER III
+
+## SOCIOGRAPHY
+
+> CAPÍTULO 11!
+
+1. What Sociography is.—Sociography, or descriptive Sociology, is: that part of this science which has for its object the reproduction, by means of analysis, of all the characteristic circumstances of a social medium. Defining Sociography as Social Science would need this part of the Science to be, we might say that Sociography has for its object the photographic reproduction of social states, whether in the generality of human life or in the particularity of any mode of living of social man.
+
+> SOCIOGRAFÍA l. (Qué rs La SociosrarFia.—La Sociografía ó Sociología descriptiva, es: la parte de esta ciencia que tiene por objeto la reproducción, por medio del análisis, de todas las circunstancias características de un medio social. Definiendo la Sociografía como la Ciencia Social necesitaria que fuera esa parte de la Ciencia, podriamos decir que la Sociografía ticne por objeto la reproducción fotoeráfica de los estados sociales, ya en la generalidad de la vida humana, ya en Ja particularidad de cualquier modo de vivir el hombre social.
+
+> Si la Sociografía ha de ser una fotografía general, y puede ser una fotografía particular de los estados sociales, es ubvia la división de este estudio en dos secciones: la primera, se llamará Sociografía General y ostudiará los estados sociales; la [PDF 103] segunda, Sociografía Particular, y describirá los modos peculiares de ser y actuar que tienen cua- Jesquiera grupos sociales.
+
+If Sociography is to be a general photograph, and may be a particular photograph, of social states, the division of this study into two sections is obvious: the first will be called General Sociography and will study social states; the [PDF 103] — 95 — second, Particular Sociography, and it will describe the peculiar modes of being and acting which any social groups whatever possess.
+
+## SECTION 1
+
+## GENERAL SOCIOGRAPHY
+
+> SECCIÓN 1.2
+
+2.    Object      of    General       Sociography.—General Sociography studies social states in all the times of History and in all the places of the Earth.
+
+> SOCIOGRAFÍA GENERAL
+
+Social states are the natural modes of living which the social being has, according to the conditions of its biotic development, which is equivalent to saying: the development of its life.
+
+> 2. OBJETO DE LA SOCIOGRAFÍA GENERAL. —La, Sociografía General estudia los estados sociales en todos los tiempos de la Historia y en todos los lugares de la Ticrra.
+
+The social being, the same as the individual being, does not begin to live with old age, but with infancy; and in the same manner that there is an individual infancy there is a social infancy. Therefore, just as there is for the Individual the state of individual infancy, so there are for Society states of social infancy. There is, then, a first character in social states, exactly the same as in individual states, which is imposed by the very nature of the social being. It is a being: therefore it has to live in conformity with the natural conditions of beings. As the first condition of the life of beings is development, and development begins from birth, as soon as an association is born it must either die immediately or remain subject to the law of development. This is successive and progressive; that is to say, of every moment, and from less to more. There is, therefore, no possibility that any social state can begin otherwise than with the infancy of the social group.
+
+> tados sociales, son los modos naturales de vivir que tienc el sér social, según las condiciones. de su desarrollo biótico, lo que equivale 4 decir: desarrollo de su vida.
+
+> El sér social, lo mismo que el sér individual, no empieza á vivir por la vejez, sino por la infancia, y en el mismo modo que hay una infancia individual hay una infancia social. Por tanto, asi como hay para el Individuo el estado de infancia individual, así hay para la Sociedad estados de infancia social. Hay, pues, un carácter primero en los estados sociales, exactamente lo mismo. que en los estados individuales, que se impone por la naturaleza misma del sér social. Es un sér: Juego tiene que vivir conforme á las condiciones naturales de los seres. Como la primera condición de la vida de los seres es el desarrollo, y el desarrollo comienza desde el nacimiento, en cuanto nace una asociación tiene ó que morir inmediatamente, ó que quedar sometida á la ley del desarrollo. Este es sucesivo y progresivo: es decir, de todos los momentos, y de menos ¿ más. No hay, por tanto, posibilidad de que ningún estado social pueda empezar sino por la infancia del grupo social.
+
+[p. 96]
+
+> g1.2 Brtados sociales.
+
+§ 1.
+
+> 3, PRIMER ESTADO SOCIAL.—La infancia de las sociedades es lo que constituye cl primer estado de sociabilidad que ya nosotros.conocemos y que hemos llamado satoajismo.
+
+Social states.
+
+> Como el mismo vocablo lo dice, la designación de este primer estado social se hace por una circunstancia que casi siempre se ha impucsto á los hombres en todos los tiempos y lugares. Esa circunstancia es la selva virgen que, necesariamente, ha tenido que rodear y hasta podriamos decir que encarcelar al hombre primitivo de los tiempos prehistóricos, como encarcela hoy á los homros primitivos de todas aquellas comarcas de la Tierra, principalmente comarcas tropicales, en donde cireunstancias históricas han prolongado la vida primitiva de los hombres que ocupan esos medios geográficos.
+
+3. First social state.—The infancy of societies is what constitutes the first state of sociability, which we already know and which we have called savagery.
+
+> 4. Para entender completamente bien que los estados sociales son modos necesarios de ir adaptándose y de haberse adaptado 4 los medios circunstantes, importa mucho que insistamos en hacer comprender la identidad de la vida que llevaban los hombres prehistóricos de todos los lugares en donde se ha encontrado la huella de ellos y la vida de los salvajes de hoy en día.
+
+As the word itself says, the designation of this first social state is made from a circumstance which has almost always imposed itself upon men in all times and places. That circumstance is the virgin forest which necessarily has had to surround, and we might even say to imprison, the primitive man of prehistoric times, as it imprisons to-day the primitive men of all those regions of the Earth, principally tropical regions, where historical circumstances have prolonged the primitive life of the men who occupy those geographical media.
+
+4. In order to understand quite thoroughly that social states are necessary modes of going on adapting oneself and of having adapted oneself to the surrounding media, it matters much that we insist on making understood the identity between the life which the prehistoric men led in all the places where their trace has been found and the life of the savages of the present day.
+
+> Estos, ya habiten cn las islas oceánicas, ya en los trópicos de Africa (6 América. va en la Zona Templada que alcanza hasta la Tierra del Fuego 0 hasta el interior de Australia, viven cxactamente como vivían los hombres de las cavernas que en Europa fueron compañeros del reno y del oso. La única diferencia entre el un modo de vivir y el otro, resulta del medio geográfico, pues que el [PDF 105] hombre de los Trópicos podrá vivir bajo los árboles, ó en las mismas copas de los árboles, teniendo por compañeros á los lcones y los tigres, ó los monos, mientras que la caverna ó la gruta 0 la bayranca de los rios era el Zabitat del hombre prehistórico de las zonas templadas de Europa y Asia y probablemente de la América del Norte.
+
+These, whether they dwell in the oceanic islands, or in the tropics of Africa or America, or in the Temperate Zone which reaches as far as Tierra del Fuego or into the interior of Australia, live exactly as lived the men of the caves who in Europe were the companions of the reindeer and the bear. The only difference between the one mode of living and the other results from the geographical medium, since the [PDF 105] — 97 — man of the Tropics may live beneath the trees, or in the very tops of the trees, having for companions the lions and the tigers, or the monkeys, whereas the cavern or the grotto or the ravine of the rivers was the habitat of prehistoric man in the temperate zones of Europe and Asia, and probably of North America.
+
+> Si tomamos en cuenta que los países intertropicales son aquellos en que las fuerzas físicas actúan cn un modo más activo, se inducirá fácilmente el hecho que efectivamente ha acontecido en la prehistoria y en la historia primitiva y que todavía se observa en la misma historia contemporánea: es decir, el hecho de que en la región ó zona intertropical hayan aparecido (y se conserven aún) los primeros tipos de asociaciones humanas. Como esa misma forma de asociación primitiva subsiste actualmente en la zona intertropical del Africa, los relatos, descripciones y demografías de los viajeros y exploradores pueden servirnos para comprender exactamente en qué modo pudo efectuarse el tránsito del primer estado social al segundo.
+
+If we take into account that the intertropical countries are those in which the physical forces act in a more active manner, there will easily be induced the fact which has actually come to pass in prehistory and in primitive history, and which is still observed in contemporary history itself: that is to say, the fact that in the intertropical region or zone the first types of human associations appeared (and are still preserved). As that same form of primitive association subsists at present in the intertropical zone of Africa, the narratives, descriptions and demographies of travellers and explorers may serve us for understanding exactly in what manner the transition from the first social state to the second could have been effected.
+
+> 5. SEGUNDO ESTADO SOCIA1..—FEl segundo estado social sabemos ya que €s la darbarie. No puede negarse que este segundo estado resulta generalmente del movimiento de las tribus peímitivas desde el lugar en que empezaron á formarse hasta un lugar en donde se les presentaron reunidas todas 0 la mayor parte do las condiciones que Jmpone á los hombres su existencia. sto equivale á decir que cl tránsito del salvajismo á la barbarie incluye por necesidad el movimiento desde un medio á otro medio geográfico. Por tanto, si efectivamente se puede comprobar con la Historia y con la Etnografía. que las primeras asociaciones de hombres proceden de las regiones intertropica[PDF 106] les, porque es natural que, por la producción troical, que da subsistencias que no reclaman del ombre el trabajo dle producción, fueran las primeras regiones habitadas; de la misma Historia, resulta la necesidad del movimiento de las primeras tribus congregadas. Este movimiento, que fué motivado ó por la disminución de subsistencias, 0 por el abandono forzado del territorio, ó por la exprisión violenta, produjo por necesidad un camlo en el modo de querer, pensar y actuar de los emigrantes: el cambio de paisajes, de temperatura, de mansión, de atmósfera, de género de vida y de costumbres, hubicron de modificar necesariamente, no ya sólo las actividades psiquicas, sino las actividados fisicas de los nómades. A estos cambios de medio geográfico y actividados físicas y morales, hubo necesariamente de acompañar un cambio en el modo de estar que equivale al cambio en el modo de ser.
+
+5. Second social state.—The second social state, we already know, is barbarism. It cannot be denied that this second state results generally from the movement of the primitive tribes from the place in which they began to form themselves to a place where there were presented to them, united, all or the greater part of the conditions which their existence imposes upon men. This is equivalent to saying that the transition from savagery to barbarism includes of necessity the movement from one geographical medium to another. Therefore, if it can in effect be verified by History and by Ethnography that the first associations of men proceed from the intertropical [PDF 106] — 98 — regions, because it is natural that, on account of tropical production, which yields subsistence that does not demand from man the labour of production, these should have been the first regions inhabited, from that same History there results the necessity of the movement of the first congregated tribes. This movement, which was occasioned either by the diminution of subsistence, or by the forced abandonment of the territory, or by violent expulsion, produced of necessity a change in the mode of willing, thinking and acting of the emigrants: the change of landscapes, of temperature, of dwelling, of atmosphere, of kind of life and of customs, must necessarily have modified not only the psychical activities but the physical activities of the nomads. These changes of geographical medium and of physical and moral activities must necessarily have been accompanied by a change in the mode of standing, which is equivalent to the change in the mode of being.
+
+> 6. El modo de estar, es decir, el estado social que subsiguió entonces en un modo absolntamente natural y necesario al primer modo de estar, ó estado de salvajismo, fué el estado de barbarie, en el cual los hombres tuvieron necesidad de buscarse Compañeros entre los animales, ya para su transporte, ya para su alimentación, ya para sus luchas, ya para sus migraciones. Hoy mismo, se puedo comprobar en la vida positiva de las socieades 4 medio organizar que pululan en cl Africa ecuatorial. Jos hechos con que acabamos de caracterizar el estado de barbarie: especialmente los relatos de Livingstone y principalmente los de Stanley, nos presentan esas migraciones de los ueblos ecuatoriales del Africa como la muestra de los cambios y mejoras, efectuados á consecuencia de los cambios de lugar. A medida que las tribus trashumantes se alejan del punto de partida, [PDF 107] los efectos fisicos y morales que se producen cn ellas van constituyendo estados. Así es que, cuando esas tribus errantes se detienen y se ponen á arreglar su vida conforme á sus recursos, y se deciden á establecerse y á arraigar en el suelo 4 que casualmente han llegado ó que premeditadamente escogieron para su mansión, ya han producido una riqueza que no tenian; ya han organizado una forma de gobierno que no hubieran podido tener en el estado salvaje; ya han establecido en un modo rutinario y empírico los primeros fundamentos de una educación común; ya han probablemente descubierto en la marcha de los astros la razón de algún culto religioso; ya han aprendido prácticamente á utilizar su fuerza bruta, no para tratar de matar, sino para tratar de defenderse en su derecho.
+
+6. The mode of standing, that is to say, the social state which then followed in an absolutely natural and necessary manner upon the first mode of standing, or state of savagery, was the state of barbarism, in which men had need to seek themselves companions among the animals, whether for their transport, or for their nourishment, or for their struggles, or for their migrations. Even to-day one can verify, in the positive life of the half-organized societies which swarm in equatorial Africa, the facts with which we have just characterized the state of barbarism: especially the narratives of Livingstone, and principally those of Stanley, present to us those migrations of the equatorial peoples of Africa as the sample of the changes and improvements effected in consequence of the changes of place. In measure as the wandering tribes move away from the point of departure, [PDF 107] — 99 — the physical and moral effects which are produced in them go on constituting states. Thus it is that, when those errant tribes halt and set about arranging their life in conformity with their resources, and decide to establish themselves and to take root in the soil at which they have arrived by chance or which they chose with premeditation for their dwelling, they have already produced a wealth which they did not possess; they have already organized a form of government which they could not have had in the savage state; they have already established, in a routine and empirical manner, the first foundations of a common education; they have already probably discovered in the course of the stars the reason for some religious worship; they have already learned practically to use their brute force, not in order to try to kill, but in order to try to defend themselves in their right.
+
+> Así es como, repitiendo los actos de este género de vida, concluyen Jas poblaciones bárbaras por constituir un modo de ser más elevado, que 2pso facto constituye también un estado social más elevado.
+
+Thus it is that, by repeating the acts of this kind of life, the barbarous populations end by constituting a more elevated mode of being, which ipso facto constitutes also a more elevated social state.
+
+> 7. SEMIBARBARIE.—El estado de semibarbaric se deriva espontáneamente de las condiciones que constituyen el estado anterior, puesto que ese princi pio de organización, que es lo que en el fono caracteriza el estado de barbarie, da á las poblaciones bárbaras el tiempo, el Jugar, el solaz, la paz, la unión, la riqueza; cn suma, los motivos de actividad ordenada que muestra ya la vida semibárbara.
+
+7. Semi-barbarism.—The state of semi-barbarism derives spontaneously from the conditions which constitute the preceding state, since that principle of organization, which is what at bottom characterizes the state of barbarism, gives the barbarous populations time, place, leisure, peace, union, wealth; in sum, the motives of ordered activity which semi-barbarous life already displays.
+
+> En ésta, la cantidad de recursos económicos que da un trabajo más y mejor regulado; el orden político que resulta de un orden administrativo amparado en la Ley y en la costumbre; el aumento de conocimientos prácticos y los esfuerzos hechos para convertirlos en fuente de conocimien[PDF 108] tos más extensos; el reconocimiento de que las creencias en lo transcendental ticnen un medio común de hacerse feuctuosas en la vida de los ueblos, v el reconocimiento de que ese medio es la Moral; el aumento de seguridad personal y colectiva y de confianza en el derccho personal y público, que da á todos la cada vez mejor organización de la fuerza pública: todos son caracteres de una vida superior á la bárbara, de un modo de ser superior al de los bárbaros, de un estado social muy superior al de la barbarie.
+
+In this, the quantity of economic resources which a labour more and better regulated yields; the political order which results from an administrative order sheltered by Law and by custom; the increase of practical knowledge and the efforts made to convert it into a source of more exten- [PDF 108] — 100 — sive knowledge; the recognition that beliefs in the transcendental have a common means of becoming fruitful in the life of peoples, and the recognition that that means is Morals; the increase of personal and collective security and of confidence in personal and public right, which the ever better organization of the public force gives to all: all are characters of a life superior to the barbarous, of a mode of being superior to that of the barbarians, of a social state very superior to that of barbarism.
+
+> Ya. en realidad, el estado de semibarbarie es una situación de carácter tan perfectamente difundido, que no sólo se comprende que ú veces havan pasado en clla siglos enteros algunas porciones de la estirpe humana, sino que hasta puede llegar á apetecerse como el más grato de los estados sociales, porque indudablemente es el en que mejor se equilibran las disposiciones naturales del Índividno y las imposiciones, también naturales, de la Sociedad.
+
+In reality, the state of semi-barbarism is already a situation of a character so perfectly diffused that not only is it understood that some portions of the human stock have at times passed whole centuries in it, but that it may even come to be desired as the most agreeable of social states, because it is undoubtedly that in which the natural dispositions of the Individual and the impositions, likewise natural, of Society are best balanced.
+
+> 8. Cuando se dice disposiciones, se dice aptitudes fisico-psiquicas del sér lumano; cuando se dice ¿mpostciones, se sobrentiende lucha entre el sér individual y colectivo en cada uno de los estados sociales y como continua patentización de la lucha por la vida: el Individuo, en el sentido de su egoísmo individual; la Sociedad, en el sentido de su conservación social.
+
+8. When one says dispositions, one says the physico-psychical aptitudes of the human being; when one says impositions, there is understood a struggle between the individual and the collective being in each one of the social states, and as a continual manifestation of the struggle for life: the Individual, in the direction of his individual egoism; Society, in the direction of its social conservation.
+
+> Ese estado de equilibrio, que parece efectivo en la. semibarbarie, no se prolonga un momento más allá: al contrario, tan pronto como el hombre entra en el estado de semicivilización, el predominio alternativo del Individuo sobre la Sociedad, % de la Sociedad sobre el Individuo, determina los periodos revolucionarios ó de inestabilidad orgánica de las sociedades, que es quizá la caracte[PDF 109] rística del estado que vamos ahora á ver aparecer.
+
+That state of equilibrium, which seems effective in semi-barbarism, is not prolonged a moment beyond it: on the contrary, as soon as man enters into the state of semi-civilization, the alternate predominance of the Individual over Society, or of Society over the Individual, determines the revolutionary periods, or periods of organic instability, of societies, which is perhaps the character- [PDF 109] — 101 — istic of the state which we are now going to see appear.
+
+> 9. ESTADO DE SEMICEVILIZACIÓN.—En el estado de semicivilización, hay razones varias de inestabilidad, entre las cuales no es la menor ni la menos importante la actitud de los individuos. ó, más bien, del alma individual, contra la Sociedad, 6, mejor, contra el alma social. Esto eyuivale ¿ decir que en el estado de semicivilización hay razones orgánicas de antagonismo entre las tendencias psiquicas del Individuo y las necesidades socióticas de la Especie.
+
+9. State of semi-civilization.—In the state of semi-civilization there are various reasons of instability, among which not the least nor the least important is the attitude of individuals, or rather of the individual soul, against Society, or, better, against the social soul. This is equivalent to saying that in the state of semi-civilization there are organic reasons of antagonism between the psychical tendencies of the Individual and the sociotic necessities of the Species.
+
+> Es muy probable que esas que acabamos de entender razones orgánicas de antagonismo, nazcan del desarrollo tumultuoso, ó6, por lo menos, del desarrollo concurrente é igualmente imperioso de todos y cada uno, y, á un mismo tiempo, de todos los coeficientes de la civilización.
+
+It is very probable that these organic reasons of antagonism, which we have just come to understand, arise from the tumultuous development, or at least from the concurrent and equally imperious development, of each and all, and at one and the same time, of all the coefficients of civilization.
+
+> 10. Veamos este desarrollo concurrente, para entender esto, que cs interesantisimo entender.
+
+10. Let us look at this concurrent development, in order to understand this, which it is most interesting to understand, because it matters much to Science to decide whether there is a fatal moment in the development of civilization in which all the elements of sociability, and especially the prime element, the Individual, and the supreme element, Society, are set in spontaneous conflict, in the manner in which it happens in fermentations with fermentable substances.
+
+> orque interesa mucho á la Ciencia el decidir si ay un momento fatal del desarrollo de la civilización cn que se ponen en pugna espontánea, al modo como sucede en las fermentaciones con las substancias fermentables, todos los clementos de sociabilidad, y especialmente el elemento primo, el Individuo, y el elemento sumo, la Sociedad.
+
+> Pues bien: cuando se pasa de la barbarie á la semicivilización se operan hechos económicos. jurídicos, pedagógicos. religioso-morales y de Carácter militar, que ponen en un estado de irritabilidad continua á los dos órganos de la actividad mental, el cerebro, y de la actividad ncurosanguinea, el corazón. En este estado de irritación, los individuos que viven en los centros urbanos, pendientes por las necesidades de su vida fisico-psiquica de los cambios contintos que se [PDF 110] operan á su alrededor en la zona del trabajo, en las luchas del derecho, en los descubrimientos de la ciencia, en el combate entre la Religión y la Moral y en los conflictos nacionales, concluyen los individuos por perder la ecuanimidad ó igualdad de ánimo que requiere la conducta normal de nuestra vida, y atribuyen á la Sociedad los males necesariamente resultantes del mismo desarrollo tumultuoso de la vida general.
+
+Well, then: when there is a passing from barbarism to semi-civilization, economic, juridical, pedagogical, religious-moral facts and facts of a military character take place which put into a state of continual irritability the two organs of mental activity, the brain, and of neuro-sanguineous activity, the heart. In this state of irritation the individuals who live in the urban centres, dependent through the necessities of their physico-psychical life on the continual changes which [PDF 110] — 102 — take place around them in the zone of labour, in the struggles of right, in the discoveries of science, in the combat between Religion and Morals and in national conflicts, the individuals end by losing the equanimity or evenness of mind which the normal conduct of our life requires, and they attribute to Society the evils necessarily resulting from the very tumultuous development of the general life.
+
+> Este periodo de transición entre los primeros ensayos de organización general, que se hacen en la barbarie, y la tentativa de organización definitiva, que se hace en la semicivilización, es de suyo tan doloroso, que lo vemos caracterizado en la literatura y en elarte por vivas expresiones de dolor.
+
+This period of transition between the first essays of general organization, which are made in barbarism, and the attempt at definitive organization, which is made in semi-civilization, is of itself so painful that we see it characterized in literature and in art by vivid expressions of pain.
+
+> 11. Comenzando por lo más próximo á nosotros, presentes están á nuestros ojos los esfuerzos de dos ú tres de las sociedades latinoamericanas que pueden considerarse ya en ese período.
+
+11. Beginning with what is nearest to us, there are present to our eyes the efforts of two or three of the Latin-American societies which may already be considered as in that period.
+
+> A pesar de que ellas, merced al préstamo de civilización que en el siglo x1tx hicieron los Estados Unidos y Europa á los pueblos de nuestro origen, en América; á pesar de eso, y de que eso les facilitaba la tarca, los pueblos semicivilizados de la América latina han tenido una vida tan conturbada como, en el mismo tiempo, los pueblos europeos que estaban en estado de desarrollo semejanto.
+
+Notwithstanding that they, thanks to the loan of civilization which in the nineteenth century the United States and Europe made to the peoples of our origin in America: notwithstanding that, and that this facilitated their task, the semi-civilized peoples of Latin America have had a life as troubled as, at the same time, the European peoples which were in a state of similar development.
+
+> 12. En TRABAJO EN LA SEMICIVILIZACIÓN. — Ya dijimos antes que, para esto, hay razones orgánicas, que lie aqui:
+
+12. Labour in semi-civilization.—We said before that for this there are organic reasons, which are these:
+
+> En el orden económico, cl tránsito de la barbarie á la semicivilización, es el tránsito de las industrias campestres á las urbanas; es decir, de las industrias primitivas a las secundarias; de las 1ndustrias de extracción á las de transformación;
+
+In the economic order, the transition from barbarism to semi-civilization is the transition from rural industries to urban ones; that is to say, from primitive industries to secondary ones; from industries of extraction to those of transformation;
+
+[PDF 111]
+
+> en una palabra, de las industrias principalmente fundadas en los esfuerzos musculares á las industrias principalmente fundadas en la inventiva del ingenio humano, en esfuerzos de razón, en aplicación de los conocimientos positivos á la satisfacción de necesidades físico-psiquicas del sér humano. Naturalmente, esta transformación del trabajo va acompañada de crueles desequilibrios entre la producción y el consumo general, entre el obrero y el capitalista, entre el valor de la tierra y la fuerza productiva. de ella, entre las aspiraciones individualos y las dificultades para realizarlas, entre el objetivo de la vida individual y la implacable trayectoria que le señala el desarrollo social.
+
+— 103 — in a word, from industries principally founded on muscular efforts to industries principally founded on the inventiveness of human ingenuity, on efforts of reason, on the application of positive knowledge to the satisfaction of the physico-psychical needs of the human being. Naturally, this transformation of labour is accompanied by cruel disequilibriums between production and general consumption, between the workman and the capitalist, between the value of the land and its productive force, between individual aspirations and the difficulties of realizing them, between the objective of individual life and the implacable trajectory which social development marks out for it.
+
+> 13. EL GOBIERNO EN LA SEMICIVILIZACIÓN. — Lo que sucede con el trabajo, sucede con el gobierno. En el período de la semicivilización, las luchas de organización jurídica son tanto más agudas cuanto que, por una parte, la ignorancia ó la inexperiencia de las funciones efectivas del Estado pone á éste en frecuente ludición con la Sociedad que representa, y cuanto que, por otra parte, el aumento de solicitadores de funciones políticas nace diariamente de las dificultades para la vida material, que produce el nuevo estado económico, y el aumento de ciudadanos que reclaman su intervención en los negocios públicos.
+
+13. Government in semi-civilization.—What happens with labour happens with government. In the period of semi-civilization the struggles of juridical organization are the more acute in that, on the one hand, ignorance or inexperience of the effective functions of the State puts it in frequent contention with the Society which it represents, and in that, on the other hand, the increase of solicitors of political functions arises daily from the difficulties of material life which the new economic state produces, together with the increase of citizens who claim their intervention in public affairs.
+
+> 14. LA rEDUucacióN EN LA SEMICIVELIZACIÓN.— La semicivilización es también un estado de desequilibrio en materia de cducación pública y tivada, de escuelas maternas y de escuelas del stado, de órganos generales y particulares de aprendizaje y enseñanza, de instituciones de artes, letras y ciencias; de desarrollo de literatura, artes intelectuales, y de ciencias generales y aplicadas.
+
+14. Education in semi-civilization.—Semi-civilization is also a state of disequilibrium in the matter of public and private education, of maternal schools and of schools of the State, of general and particular organs of apprenticeship and instruction, of institutions of arts, letters and sciences; of the development of literature, of the intellectual arts, and of the general and applied sciences.
+
+[p. 104]
+
+> Como Ja semicivilización es todavia un estado de sociedad que corresponde al segundo estado histórico del pensamiento, es decir, al estado metafísico, momento intelectual en que la razón toma como punto de partida de su razonamiento, discurso y general actividad las nociones a priori, 6 lo que tanto vale, las nociones exclusivamente especulativas que resultan de entregarse el pensamiento « si mismo sin consulta alguna de la, realidad, sucede lo que os natural que suceda. Lo natural, en el estado metafísico del pensamiento histórico, es la producción abundante de ¿deas- Fantasmas, es decir, de ideas representativas de la realidad en el modo confuso en que en la semiobscuridad de las noches estelares ó en la claridad confusa de la Luna se representan los objetos: confundidos en la luminosidad tenchrosa, vagos, indistintos. Mientras dura esta producción de fantasmas intelectuales de la realidad, no hay verdad científica, porque el entendimiento no la busca en donde únicamente puede encontrarla: no la busca en la realidad, sino en sí mismo, y no es el entendimiento el seno de la verdad, sino la realidad; la Naturaleza no se da en los entendimientos. que son simples instrumentos de indagación, de busca, de registro de la realidad; ésta es lo que contiene la verdad, porque es en la Naturaleza lo que es en el pensamiento humano la palabra, la proposición, la clánsula y cl periodo; es decir, modo de manifestarse, modo de expresarse. Pues bien: en el período de semicivilización, la producción intelectual va cargada de todas las dolencias metafísicas, por el mero hecho de que en ese estado social no se ha formado todavia lo suficiente la razón humana para poder funcionar inductivamente. De aquí que las inducciones malelaboradas, anticipándose al perívdo normal de la [PDF 113] función, precipitándose sobre intuiciones malformadas, operando sobre bosquejos de lo realidad físico-psiquica de la Naturaleza, no tiene la fuerza que corresponde al segundo estado de razón, y fabrica aproximaciones fantásticas, materia metafísica, que en realidad no sirve para nada; no sirve, á lo sumo, sino como de documento psicológico de la dureza con que los períodos de semicivilización maltratan á los más grandes entendimientos.
+
+As semi-civilization is still a state of society which corresponds to the second historical state of thought, that is to say, to the metaphysical state, an intellectual moment in which reason takes as the point of departure of its reasoning, discourse and general activity the notions a priori, or, what amounts to the same, the exclusively speculative notions which result from thought abandoning itself to itself without any consultation of reality, there happens what it is natural should happen. What is natural, in the metaphysical state of historical thought, is the abundant production of phantom-ideas, that is to say, of ideas representative of reality in the confused manner in which, in the half-darkness of starlit nights or in the confused brightness of the Moon, objects are represented: blended in the gloomy luminosity, vague, indistinct. While this production of intellectual phantoms of reality lasts, there is no scientific truth, because the understanding does not seek it where alone it can find it: it does not seek it in reality, but in itself; and the understanding is not the bosom of truth, but reality is; Nature is not given in the understandings, which are simple instruments of inquiry, of search, of registry of reality; this is what contains the truth, because it is in Nature what the word, the proposition, the clause and the period are in human thought; that is to say, a mode of manifesting itself, a mode of expressing itself. Well, then: in the period of semi-civilization intellectual production goes laden with all the metaphysical ailments, by the mere fact that in that social state human reason has not yet been formed sufficiently to be able to function inductively. Hence it is that ill-elaborated inductions, anticipating the normal period of the [PDF 113] — 105 — function, rushing headlong upon ill-formed intuitions, operating upon sketches of the physico-psychical reality of Nature, have not the force which corresponds to the second state of reason, and fabricate fantastic approximations, metaphysical matter, which in reality serves for nothing; it serves, at the most, only as a psychological document of the harshness with which the periods of semi-civilization maltreat the greatest understandings.
+
+> Lo que es producción metafísica en la filosofía de la civilización, es literatura artificial en las letras y poesias de eso tiempo, es pintura, estatuaria, arquitectura, arte industrial rebuscado, churTrigueresco, barocco.
+
+What is metaphysical production in the philosophy of civilization is artificial literature in the letters and poetry of that time; it is far-fetched painting, statuary, architecture, industrial art, churrigueresque, barocco.
+
+> O. LA RELIGIÓN Y LA MORAL, EN LA SEMICIVI- LIZACIÓN.—Fn la religión y la moral de ese periodo, se efectúa el mismo lastimoso resultado. Más lastimoso todavía, porano aqui se trata, no ya de lo que se piensa, sino de lo que se vive,
+
+15. Religion and morals in semi-civilization.—In the religion and the morals of that period the same lamentable result is brought about. More lamentable still, because here it is a question not of what is thought, but of what is lived.
+
+> Del vivir conforme á ritos absurdos de una religión torturada y de una moral enflaquecida por la falta de realidad en las ideas generales y por la falta de claridad y de sinceridad en las ideas religiosas, no puede ser peor vivir.
+
+Than living in conformity with the absurd rites of a tortured religion and of a morality enfeebled by the lack of reality in general ideas and by the lack of clearness and of sincerity in religious ideas, there can be no worse living.
+
+> 16. La FUERZA PÚBLICA, EN LA SEMICIVILIZAcióN.—Por último, en los periodos de semicivilización, la organización de la fuerza pública no se reficre á su o Jeto orgánico, que es la producción del orden resultante de la Ley, sino que se refiere al mantenimiento brutal del orden público. que nada tienc que ver, generalmente, con la conservación social y el equilibrio natural que resulta de ella.
+
+16. The public force in semi-civilization.—Lastly, in the periods of semi-civilization the organization of the public force does not refer to its organic object, which is the production of the order resulting from the Law, but refers to the brutal maintenance of public order, which has nothing to do, generally, with social conservation and the natural equilibrium which results from it.
+
+> 17. La crviLizacióN.—En realidad, y por dos razones, la civilización no es positivamente un estado social: primera razón, porque nunca llega á [PDF 114] ser un estado definido; segunda razón, porque todo el proceso de la vida de las sociedades humanas desde el punto de partida hasta el punto de término, es un proceso ascensional en que se elevan desde el bajo nivel del salvajismo, hasta el alto nivel del industrialismo, del intelectualismo y del moralismo que debían caracterizar los periodos de civilización completa.
+
+17. Civilization.—In reality, and for two reasons, civilization is not positively a social state: the first reason, because it never comes to [PDF 114] — 106 — be a defined state; the second reason, because the whole process of the life of human societies from the point of departure to the point of termination is an ascensional process in which they rise from the low level of savagery to the high level of the industrialism, the intellectualism and the moralism which should characterize the periods of complete civilization.
+
+> Mas, aun en el caso en que efectivamente la civilización sea más un objetivo que un cstado social, es indudable que en el periodo de la vida de la humanidad que designamos con ese nombre, se presenta como carácter definido de él uno de los tres signos que acabamos de considerar como propios de una civilización completa. Como hasta ahora ésta no se ha dado en la Historia, nunca hemos visto ninguna sociedad en donde al mismo tiempo se manifiesten con igual actividad el industriálismo, el intelectualismo y el moralismo, "lodo lo que hasta ahora podemos señalar como signo de alguno de los grandes florecimientos históricos de la civilización, es uno de esos tres caracteres.
+
+But even in case civilization is in effect more an objective than a social state, it is beyond doubt that in the period of the life of humanity which we designate by that name there is presented as its defined character one of the three signs which we have just considered as proper to a complete civilization. As up to now this has not been given in History, we have never seen any society in which industrialism, intellectualism and moralism manifest themselves at the same time with equal activity. All that up to now we can point out as the sign of any one of the great historical flowerings of civilization is one of those three characters.
+
+> Asi, en la China, el moralismo dominó en todos los esfuerzos de su civilización; asi, en la India, el intelectualismo fué carácter dominante; asi, en el Egipto, el industrialismo fué la caracteristica del Período Tebáico, que es el culmen de la civilización egipcia.
+
+Thus, in China, moralism dominated in all the efforts of its civilization; thus, in India, intellectualism was the dominant character; thus, in Egypt, industrialism was the characteristic of the Theban Period, which is the culmen of Egyptian civilization.
+
+> 18. De Los SIGNOS DE LA CLVILIZACIÓN.— Esos tres signos de organización completa de todas las actividades sociales, son signos: el industrialismo, de un desarrollo muy considerable de la sociedad en que preside el desenvolvimiento casi completo de la industria en todas sus formas. Hoy, por ejemplo, se puede asegurar que ese es el carácter prevalente de la civilización contemporá[PDF 115] nea, no obstante la fuerza que en ella tiene el intelectualismo, y no obstante también la tendencia moralista de esta civilización.
+
+18. Of the signs of civilization.—Those three signs of complete organization of all the social activities are signs: industrialism, of a very considerable development of the society in which there presides the almost complete unfolding of industry in all its forms. To-day, for example, it may be affirmed that this is the prevailing character of contempo- [PDF 115] — 107 — rary civilization, notwithstanding the force which intellectualism has in it, and notwithstanding also the moralist tendency of this civilization.
+
+> El desarrollo ommnilateral, simultáneo y concurrente de los órganos y funciones de una sociedad cualquiera, seria lo único capaz de producir 4 un mismo tiempo, como expresión, como signo de ese desarrollo, los tres caracteres que acabamos de analizar someramente. Probablemente, esa concurrencia de todos los órganos y de todas las funciones cn cl desenvolvimiento social, será imposible. á menos que en el transcurso de los tiempos, en el aumento de razón común, en el aumento de la voluntad por la moral, en el predominio universal! de la conciencia, llegne á poder suceder que el hombre colectivo sea á la vez un trabajador completo, un discurridor correcto y un realizador puntual de las virtudes del trabajo y de la razón.
+
+The omnilateral, simultaneous and concurrent development of the organs and functions of any society whatever would be the only thing capable of producing at one and the same time, as the expression, as the sign of that development, the three characters which we have just superficially analysed. Probably that concurrence of all the organs and of all the functions in social development will be impossible, unless in the course of the ages, in the increase of common reason, in the increase of the will for morality, in the universal predominance of conscience, it should come to be possible that collective man be at once a complete worker, a correct reasoner and a punctual realizer of the virtues of labour and of reason.
+
+> Eso, que es á la vez el ideal y el martirio de los grandes individuos, está todavia muy lejos de ser un propósito social. Por eso es por lo que, desde el punto de vista de la Sociologia, todavía no ha habido una civilización efectiva en la historia de Ja especie humana.
+
+That, which is at once the ideal and the martyrdom of great individuals, is still very far from being a social purpose. That is why, from the point of view of Sociology, there has not yet been an effective civilization in the history of the human species.
+
+> Pero como ha habido civilizaciones aparentes, es decir, desarrollos suficientes de algún órgano y de aleruna función social que haya dado por resultado lo que hemos visto en China, India y Egipto, la Ciencia tiene que tomar en cuenta esas resultantes parciales de desarrollo social que estamos acostumbrados á llamar civilizaciones.
+
+But as there have been apparent civilizations, that is to say, sufficient developments of some organ and of some social function which have given as their result what we have seen in China, India and Egypt, Science has to take into account those partial resultants of social development which we are accustomed to call civilizations.
+
+> Á pesar, pues, de que positivamente se sabe que ninguna de las sociedades antiguas Ó modernas se ha desarrollado por igual ni ha llegado á tal grado de desarrollo concurrente que haya sido igualmente industriosa, culta y moral, consideramos, Con respecto á cada sociedad y con [PDF 116] relación al conjunto de las sociedades humanas, como periodos de civilización aquellos momentos de la Historia de un pueblo, ó general, de la humanidad, en que ha florecido, ya la industria, va las letras, las artes y Jas ciencias, ó ya la religión y la moral, en modo que el desenvolvimiento de una de esas actividades haya animado á las otras lo bastante para determinar una actividad suficientemente general de todas Jas funciones de la Sociedad.
+
+Notwithstanding, then, that it is positively known that none of the ancient or modern societies has developed equally, nor has reached such a degree of concurrent development as to have been equally industrious, cultured and moral, we consider, with respect to each society and in [PDF 116] — 108 — relation to the whole of human societies, as periods of civilization those moments of the History of a people, or of the general History of humanity, in which there has flourished either industry, or letters, the arts and the sciences, or religion and morals, in such manner that the unfolding of one of those activities has animated the others sufficiently to determine a sufficiently general activity of all the functions of Society.
+
+> 19. La CIVILIZACIÓN DE LA FAMUJTA ARIA: LA DE 10S ANTIGUOS GRIEGOS.—lín los tres primeros ciclos recorridos en Europa por la familia ariana. ó indo-curopca, el primero, el griego, está en tal mancra caracterizado por el intelectualismo, que en toda la Historia posterior no sc ha manifestado nunca cn las artos, las letras y las ciencias especulativas, un tal desarrollo del entendimicnto. Aun hoy, á pesar de la cantidad de los conocimientos positivos, que, aplicándose á la actividad industrial, ha dado por fruto este industrialismo sin precedentes y sin paralelos en la Historia de la humanidad; a pesar de que ese progreso de las ciencias de aplicación está fundado en el progreso de las ciencias de abstracción, y éste está fundado cn el desarrollo mayor de razón que ha alcanzado hasta ahora nuestra especie; á pesar de eso, el intelectualismo de nuestro tiempo no es comparable al de laantigua Grecia. En aquel rápido florecimiento de la familia helénica, el desarrollo de la actividad mental fué tan vivo y tan fecundo, que todavía es la admiración de los historiadores, motivo de indagación de los pensadores y fuente de vivas complacencias para los contempladores desinteresados de la vida del hombre en el planeta. A pesar de que coetáneamente con este desarrollo tuvo por razón necesa[PDF 117] ria que florecer también la industria que acompaña al entendimiento ca su obra social, el carácter intelectual predomina en tal modo en la historia de la antigua (recia sobre el carácter industrial, que para nada tenemos éste en cuenta, mientras que el otro cs cl signo distintivo de aquella civilización. En cuanto al desarrollo moral, siendo también de scr tomado cn cuenta. porque también acompaña al entendimiento en su obra social, no aparece como signo distintivo de civilización sino Cuando aparece concretamente relacionado con motivos ó movimientos «de la intelectualidad helénica. Así, mientras es efectivamente enternecedora la beatitud moral que se desprende de las costumbres educacionales de los antignos griegos, principalmente de los atenienses, no podemos resistir la repugnancia que nos causan las costumbres privadas de esos mismos griegos; asi, mientras que en los juegos olímpicos, délficos é ístmicos, nos conmueve la tendencia á la mutua tolerancia y á la unión de los diversos miembros de la familia helénica. en las continuas luchas de aquellos pueblos entre sí. tenemos que maldecir la falta de moral nacional.
+
+19. The civilization of the Aryan family: that of the ancient Greeks.—Of the first three cycles run through in Europe by the Aryan or Indo-European family, the first, the Greek, is so characterized by intellectualism that in all subsequent History there has never been manifested, in the arts, letters and speculative sciences, such a development of the understanding. Even to-day, notwithstanding the quantity of positive knowledge which, applying itself to industrial activity, has yielded as its fruit this industrialism without precedent and without parallel in the History of humanity; notwithstanding that this progress of the sciences of application is founded on the progress of the sciences of abstraction, and this is founded on the greatest development of reason which our species has hitherto attained; notwithstanding that, the intellectualism of our time is not comparable to that of ancient Greece. In that rapid flowering of the Hellenic family the development of mental activity was so lively and so fruitful that it is still the admiration of historians, the motive of inquiry for thinkers, and a source of lively delight for the disinterested contemplators of the life of man on the planet. Although contemporaneously with this development there had, by necessary reason, [PDF 117] — 109 — to flourish also the industry which accompanies the understanding in its social work, the intellectual character so predominates in the history of ancient Greece over the industrial character that we take no account whatever of the latter, while the other is the distinctive sign of that civilization. As for moral development, though it too must be taken into account, because it also accompanies the understanding in its social work, it does not appear as a distinctive sign of civilization except when it appears concretely related to motives or movements of Hellenic intellectuality. Thus, while the moral beatitude which emanates from the educational customs of the ancient Greeks, principally of the Athenians, is truly touching, we cannot resist the repugnance which the private customs of those same Greeks cause us; thus, while in the Olympic, Delphic and Isthmian games we are moved by the tendency to mutual tolerance and to the union of the diverse members of the Hellenic family, in the continual struggles of those peoples among themselves we have to curse the lack of national morality.
+
+> 20. La CIVILIZACIÓN DE LA RAMA ITÁLICA DE LA FAMILIA ARIA.—La segunda rama de la familia ariana en quien se realizan mayor número de actividades de la civilización, es la itálica.
+
+20. The civilization of the Italic branch of the Aryan family.—The second branch of the Aryan family in which a greater number of the activities of civilization are realized is the Italic.
+
+> A consecuencia del exclusivismo del recinto de Roma, que después llegó á ser por antonomasia «la ciudad de Roma», fué paso tras paso. lucha tras lucha, invasión tras invasión, usurpación tras usurpación, constituyéndose cu la peniusula itálica el Estado Romano, que. dominando primero la peninsula, y después algumos territorios circunvecinos, llegó un día á extenderse por ambas orillas del Adriático y á dominar en toda la ex[PDF 118] tensión marginal del Mediterráneo, es decir, por una margen, desde España hasta la peninsula de rimea, y, por otra margen, desde la tierra de los marroquíes actuales hasta el mismo cabo Guardafui, en la extremidad del mar Rojo, salvando asi los limites del Mediterráneo.
+
+In consequence of the exclusivism of the precinct of Rome, which afterwards came to be by antonomasia “the city of Rome,” there was constituted in the Italic peninsula, step by step, struggle by struggle, invasion by invasion, usurpation by usurpation, the Roman State, which, dominating first the peninsula, and afterwards some neighbouring territories, came one day to extend itself along both shores of the Adriatic and to dominate in the whole ex- [PDF 118] — 110 — tension of the Mediterranean, that is to say, along one margin, from Spain to the peninsula of the Crimea, and, along the other margin, from the land of the present-day Moroccans to Cape Guardafui itself, at the extremity of the Red Sea, thus overstepping the limits of the Mediterranean.
+
+> Sucle decirse, al ver el cuidado con que Roma iba concediendo lentamente el derecho de ciudadanía romana, que daba acceso á todo poder. y después el jus latinum, que sirvió para habilitar ante los representantes judiciales de la antigua Roma, 6 ante los tribunales mismos de la ciudad metrópoli, el derecho de los habitantes del Lacio; suele decirse, que Roma representa la mayor actividad del derecho entre los pueblos de la antigtiedad. Esto no es asÍ: pues sl asi fuera, ya habría la humanidad visto una civilización cn que predominara la función del derecho y en que prevaleciera la ley de la libertad. Lejos de eso, Roma, como sucintamente acaba de verse, por su modocgoista de extenderel derecho restringiéndolo, y de extender su dominio violando con sus invasiones el derecho externo; Roma no representa, en realidad, otra eosa que la fuerza organizada. En modo, que, si hubiera de caracterizarse la civilización romana por aquel de sus exponentes más continuo y más eficaz en lo que parece fué el propósito de los romanos, podria decirse que es, de todas las civilizaciones conocidas, la que mejor ha servido para ilustrar la Ley de Conservación Social. Ni aun esto es puntualmente exacto, porque Roma no organizó su fuerza pública para extender el derecho, ni para favorecer el progreso universal, ni para hacer bien á los demás hombres de la tierra. ni con ningún fin que no fuera tan egoísta como do fué en cfecto el del Estado y el pueblo romano.
+
+It is commonly said, on seeing the care with which Rome went on slowly conceding the right of Roman citizenship, which gave access to all power, and afterwards the jus latinum, which served to qualify the inhabitants of Latium to plead their right before the judicial representatives of ancient Rome, or before the very tribunals of the metropolitan city; it is commonly said that Rome represents the greatest activity of Law among the peoples of antiquity. This is not so: for if it were so, humanity would already have seen a civilization in which the function of Law predominated and in which the law of liberty prevailed. Far from it, Rome, as has just been briefly seen, by its selfish manner of extending Law while restricting it, and of extending its dominion while violating with its invasions external law; Rome represents, in reality, nothing other than organized force. So that, if Roman civilization were to be characterized by that one of its exponents which was most continuous and most effective in what appears to have been the purpose of the Romans, it might be said that it is, of all known civilizations, the one which has best served to illustrate the Law of Social Conservation. Not even this is strictly exact, because Rome did not organize its public force in order to extend Law, nor to favour universal progress, nor to do good to the other men of the earth, nor for any end that was not as selfish as was in fact that of the Roman State and people.
+
+[p. 111]
+
+> Como prueba fehaciente de que esa fué la realidad de las cosas, se ve patentemente que, en vez de dar aquella continua organización militar el resultado que se obtiene de la verdadera organización de la fuerza, es decir, en vez de resultar la conservación, resultó la destrucción; porque también es una realidad histórica que el predominio militar de Roma acabó con Roma.
+
+As irrefutable proof that such was the reality of things, it is plainly seen that, instead of that continual military organization yielding the result which is obtained from the true organization of force, that is to say, instead of conservation resulting, destruction resulted; for it is also a historical reality that the military predominance of Rome put an end to Rome.
+
+> A pesar de que la civilización romana está muy mal caracterizada cuando se le atribuye una predominante inclinación hacia la realización del derecho, y á pesar de que también es un error atribuir propósito ninguno de bien á su expansión r medio de las armas, son, sin embargo, esos os caracteros por los cuales se puede desde. uego distinguir á Roma. En realidad, sólo esos dos, y no como efectuados por igual en todo el proceso de la vida romana, puesto que en la época de la República, que es real y totalmente la verdadera época romana, la vida del pueblo romano fué principalmente caracterizada por la fabricación de medios jurídicos para asegurar, unas veces, el predominio de la, casta privilegiada, ó para conquistar, otras veces, derechos individuales, municipales y políticos en favor de la plebe ó la clase proscripta. Durante el periodo del Imperio, que ya no es, propiamente, romano, prevalecen en tal modo las armas sobre el derecho, que lo que pomposamente se llama difusión del derecho por las tropas romanas, ho es ninguna otra cosa que la traslación del derecho privilegiado de las clases directivas, y la trasplantación del derecho romano y el latino á climas y sociedades que, por el mero hecho de la sujeción militar, quedaban y siguieron sojuzgadas hasta su muerte, sin que nunca gozaran de los beneficios de los derechos romanos ni aun del latino, 4 menos que no fuera [PDF 120] como gozaron de la lengua latina; es decir, ya corrompidos, modelados según el molde de la soldadesca de las legiones, legiones que tampoco eran la representación del pueblo romano, sino la patentización de que ya no había pueblo romano que defendiera á Roma, pues que, en su lugar, hárbaros del Norte llevaban, en las conquistas del Imperio, cl águila romana.
+
+Although Roman civilization is very ill characterized when there is attributed to it a predominant inclination towards the realization of Law, and although it is likewise an error to attribute any purpose whatever of good to its expansion by means of arms, these are, nevertheless, the two characters by which Rome may at once be distinguished. In reality, only those two, and not as carried out equally throughout the whole process of Roman life, since in the epoch of the Republic, which is really and wholly the true Roman epoch, the life of the Roman people was chiefly characterized by the fabrication of juridical means to secure, at times, the predominance of the privileged caste, or to conquer, at other times, individual, municipal and political rights in favour of the plebs or proscribed class. During the period of the Empire, which is no longer, properly speaking, Roman, arms prevail over Law to such a degree that what is pompously called the diffusion of Law by the Roman troops is nothing other than the transfer of the privileged law of the directing classes, and the transplanting of Roman and Latin law to climates and societies which, by the mere fact of military subjection, remained and continued subjugated until their death, without ever enjoying the benefits of Roman rights, nor even of the Latin, unless it were [PDF 120] — 112 — as they enjoyed the Latin tongue; that is to say, already corrupted, shaped in the mould of the soldiery of the legions, legions which were no longer the representation of the Roman people either, but the manifest proof that there was no longer a Roman people to defend Rome, since, in its stead, barbarians of the North bore, in the conquests of the Empire, the Roman eagle.
+
+> En todos modos, la civilización romana Corresponde al que desde el principio de Roma hubo forzosamente ser propósito de los romanos.
+
+At all events, Roman civilization corresponds to what from the beginning of Rome had of necessity to be the purpose of the Romans.
+
+> Cuando Roma se fundó como una mera federación de pescadores que iban expresamente á usufructuar la posición excelentemente comercial del recodo del Tíber que escogieron como excelente unto céntrico entre las pesquerías de Nápoles y las de Wlorencia, los pescadores federados sabian «que tenían que sucumbir si no se resolvian á imponer, desde el primer momento, su voluntad de quedarse allí y de usufructuar exclusivamente los beneficios del comercio de pesca. Este propósito de hacer prevalecer la voluntad arbitraria de unos cuantos desesperados sobre poblaciones tran- <guilas que ya de antiguo habian establecido el orden pcrmanente de su vida, fué el propósito social de Roma, durante todo el periodo romano, propiamente dicho, hasta César exclusive; y des- «dle César hasta Augústulo, fué el propósito tradicional del Giobicrno romano. En modo que, si en la civilización de Roma queremos encontrar una circunstancia característica. mejor la encontraremos en esta inflexible realización de su propósito, por medio de las armas, que en la supuesta misión de la propaganda del derecho con que se la homra en demasía.
+
+When Rome was founded as a mere federation of fishermen who went expressly to enjoy the use of the excellently commercial position of the bend of the Tiber which they chose as an excellent central point between the fisheries of Naples and those of Florence, the federated fishermen knew that they must succumb if they did not resolve to impose, from the very first moment, their will to remain there and to enjoy exclusively the benefits of the fishing trade. This purpose of making the arbitrary will of a handful of desperate men prevail over peaceful populations which had long since established the permanent order of their life, was the social purpose of Rome throughout the whole Roman period, properly so called, up to Caesar exclusive; and from Caesar to Augustulus, it was the traditional purpose of the Roman Government. So that, if in the civilization of Rome we wish to find a characteristic circumstance, we shall find it better in this inflexible realization of its purpose by means of arms than in the supposed mission of propagating Law with which it is too much honoured.
+
+> 21. La CIVILIZACIÓN GERMÁNICA.—La Civilización germánica, que ha sido hasta hoy, con ex[PDF 121] cepción de la china, la más larga y duradera, ha sido también la más variada, la más extensa en su dominación y en su influencia, y la única, hasta ahora, que, en algunas de sus manifestaciones nacionales, se ha aproximado á lo que efectivamente debería ser la civilización; es decir, se ha aproximado á un funcionar paralelo, simultáneo y concurrente de las cinco funciones de la civilización.
+
+21. Germanic civilization.—Germanic civilization, which has been until today, with ex- [PDF 121] — 113 — ception of the Chinese, the longest and most lasting, has also been the most varied, the most extensive in its dominion and in its influence, and the only one, until now, which, in some of its national manifestations, has approached what civilization ought in effect to be; that is to say, has approached a parallel, simultaneous and concurrent functioning of the five functions of civilization.
+
+> Durante el desarrollo nacional de esta nueva familia ariana se han verificado hechos tan favorables á la civilización, que no tiene nada de extraordinario la fuerza de expansión que ella ha adquirido.
+
+During the national development of this new Aryan family, facts so favourable to civilization have come to pass that there is nothing extraordinary in the force of expansion which it has acquired.
+
+> En primer lugar, ha sido un continente entero, toda Europa, el asiento de la nueva civilización; en segundo lugar, ramas diversas de la familia germánica se han establecido en pedazos del Continente que antes eran abrigos de las fieras, ú han ocupado territorios antiguamente ocupados por las familias helénica ó itálica, con las cuales concluyeron al fin por formar un todo nacional; en tercer lugar, cada una de las ramas asi separadas del primitivo tronco germánico, formó entidad nacional, y cada una de ellas de por si se puso, por necesidad y por instinto de conservación, á vivir de sí misma, de sus propios recursos, fabricando instintivamentesu propia civilización. De aqui la variedad de aspecto que la civilización general ha tomado, en Europa. durante el predominio de la familia germánica. Unas veces han sido los germanos que se fundicron con los latinos; otras, los que se fundieron con los latinos y los galos; otras, los que, ocupando el territorio de los antiguos iberos y celtiberos, se reunieron con ellos, en la obra de la civilización; ahora, son los austriacos los que se ponen al frente del movi[PDF 122] miento civilizador; ahora, los polacos; ya, los anglosajones de las islás; ya, los escandinavos de las penínsulas y las islas; ya, los holandeses; ya, los prusianos.
+
+In the first place, a whole continent, all Europe, has been the seat of the new civilization; in the second place, diverse branches of the Germanic family have established themselves in portions of the Continent which were formerly the lairs of wild beasts, or have occupied territories anciently occupied by the Hellenic or Italic families, with which they at last ended by forming a national whole; in the third place, each one of the branches thus separated from the primitive Germanic trunk formed a national entity, and each one of them by itself set about, from necessity and from the instinct of conservation, living of itself, of its own resources, instinctively fabricating its own civilization. Hence the variety of aspect which general civilization has taken in Europe during the predominance of the Germanic family. At times it has been the Germans who fused with the Latins; at others, those who fused with the Latins and the Gauls; at others, those who, occupying the territory of the ancient Iberians and Celtiberians, joined with them in the work of civilization; now it is the Austrians who place themselves at the head of the civilizing move- [PDF 122] — 114 — ment; now, the Poles; now, the Anglo-Saxons of the islands; now, the Scandinavians of the peninsulas and the islands; now, the Dutch; now, the Prussians.
+
+> Así es como, durante veinte siglos, esta nueva familia ha podido ir utilizando sus diversos miembros á la vez, particularizando y generalizando la civilización, que, indudablemente, por esa circunstancia ha logrado tener la fuerza de conservación que tiene. Junto con este procedimiento de civilización germánica, que ha ido pasando de mano en mano, favoreciendo asi el florecimiento de las aptitudes y carácter peculiares de cada uno de los miembros de la familia; independientemente de ese procedimiento de la civilización germánica, ha habido en ella otras dos causas de conservación: una, la traida por un nuevo concepto religioso, que estaba llamado por la pureza de su moral á producir indirectamente la unidad intelectual y moral de Europa, que efectivamente se llamo le Cristiandad, para expresar la unidad de los pueblos europeos contra ú opuestos á la multitud de los otros pueblos africanos y asiáticos. Junto con ésta, operó otra causa de conservación, y fué: el descubrimiento de América, hecho sin segundo en toda la Historia de la especie humana, (ue por si sólo bastara, como cn efecto ha bastado, para multiplicar la extensión, la población, la variedad, la fuerza y la conservación de la cultura humana.
+
+It is thus that, during twenty centuries, this new family has been able to go on employing its diverse members at once, particularizing and generalizing civilization, which, undoubtedly, by that circumstance has succeeded in having the force of conservation that it has. Together with this procedure of Germanic civilization, which has gone on passing from hand to hand, thus favouring the flowering of the peculiar aptitudes and character of each one of the members of the family; independently of that procedure of Germanic civilization, there have been in it two other causes of conservation: one, that brought by a new religious conception, which was called by the purity of its morals to produce indirectly the intellectual and moral unity of Europe, which was in fact called Christendom, to express the unity of the European peoples against, or as opposed to, the multitude of the other African and Asiatic peoples. Together with this, there operated another cause of conservation, and it was: the discovery of America, an event without a second in the whole History of the human species, which by itself alone would suffice, as in fact it has sufficed, to multiply the extension, the population, the variety, the force and the conservation of human culture.
+
+> Dados los cuatro hechos característicos de la civilización germánica, es decir, el hecho de su variedad de carácter, el de su fuerza de individualidad; el hecho del cristianismo y el del advenimiento de un nuevo continente, era forzoso que la civilización tomara una vida, una fuerza vital, una variedad de desarrollo que en ninguna ma[PDF 123] nera hubiera podido tomar ninguna de las civilizaciones anteriores.
+
+Given the four characteristic facts of Germanic civilization, that is to say, the fact of its variety of character, that of its force of individuality; the fact of Christianity and that of the advent of a new continent, it was inevitable that civilization should take on a life, a vital force, a variety of development which in no man- [PDF 123] — 115 — ner could any of the previous civilizations have taken on.
+
+> Por eso se ha podido llegar ú los florecimientos de civilización que últimamente fueron casi generales en Europa y en la parte de América que tenía una población capaz de vivir robustamente.
+
+That is why it has been possible to arrive at the flowerings of civilization which lately were almost general in Europe and in that part of America which had a population capable of living robustly.
+
+> A pesar de todo esto, todavía no se ha formado en el mundo una civilización completa. La más completa entre todas, aunque naciente, como la sociedad que ha empezado a fabricarla, es, indudablemente, la civilización norteamericana, en la cual al par se muestran florecientes el industrialismo, el moralismo y cuanto intelectualismo cabe en una sociedad que empieza á vivir. Hasta, para ser superior á las demás, la civilización umeyicana, no padece del militarismo ni del autocratismo que malea, en Europa, la mayor parte de aquella sociedad. Sin embargo, ni el funcionamiento de la vida americana es tan completo que presente una sociedad en efectivo desarrollo normal, ni tan sano que su industrialismo, que es la característica predominante, no haya afectado ya, en la vida interior y en la exterior ¡en la interior, r medio de los partidos; en la exterior, por meio de la expansión), el florccimiento de la libertad, por donde empezó esa loy detenida civilización. 52, Descripción del Prabajo.
+
+In spite of all this, a complete civilization has not yet been formed in the world. The most complete among all, though nascent, like the society which has begun to fabricate it, is undoubtedly North American civilization, in which industrialism, moralism, and as much intellectualism as finds room in a society that is beginning to live, show themselves flourishing side by side. Even, to be superior to the rest, American civilization does not suffer from the militarism or the autocratism which corrupt, in Europe, the greater part of that society. Nevertheless, the functioning of American life is neither so complete as to present a society in effective normal development, nor so healthy that its industrialism, which is the predominant characteristic, has not already affected, in the interior life and in the exterior (in the interior, by means of the parties; in the exterior, by means of expansion), the flowering of liberty, by which that civilization, today arrested, began.
+
+> 22. QUE Es EL TRABAJO. ESTUDIO HISTÓRICO. — El trabajo de las sociedades humanas, que empieza y acaba por el trabajo de nutrición y sustentación, aparece, desde las edades prehistóricas, ya n forma de caza, 6 pesca, ó rapiña, ó lucha brazo 4 razo con lax fieras, ó pecho á pecho con las olas.
+
+§ 2.
+
+Description of Labour.
+
+22. What Labour is. Historical study.—The labour of human societies, which begins and ends with the labour of nutrition and sustenance, appears from prehistoric ages, now in the form of hunting, or fishing, or plunder, or hand-to-hand struggle with wild beasts, or breast-to-breast struggle with the waves.
+
+[p. 116]
+
+> Lo primero, es alimentarse, y de ahi el trabajo continuo del hombre primitivo, quetenía que disvutar á las alimañas de las selvas, 6 4 las fieras de os llanos y las breñas. ú á los monstruos de las aguas, el alimento que no encontraba graciosamente en parte alguna.
+
+The first thing is to feed oneself, and hence the continual labour of primitive man, who had to dispute with the vermin of the forests, or with the wild beasts of the plains and the thickets, or with the monsters of the waters, the food which he found freely given nowhere.
+
+> Esta lucha por el alimento cuotidiano. que en la zona tropical era muy dura, se fué haciendo cada vez mas dura, para el hombre primitivo, á medida que esa misma necesidad de sustentarse lo obligaba á cambiar dé latitudes. Como es natural, á medida que se alejaba del Ecuador y de los Trópicos, mansión de la abundancia, se aumentaba la dificultad de subsistir. Y entonces, el subsistir no era solamente alimentarse: era también abrigarse, y el abrigarse exigía trabajo para hacerse albergue y para hucerse vestidos. El albergue había que tomarlo á viva fuerza contra el oso de las cavernas, contra el hipopótamo de las barrancas, contra las mil alimañas venenosas de las grutas y de las copas de los árboles; el vestido había que quitárselo, con la vida. á los animales de pelaje, ó que tomarlo, á costa de la vida propia. de los más esposos fondos de las selvas y de las más altas copas de los árboles.
+
+This struggle for daily food, which in the tropical zone was very hard, grew ever harder for primitive man, as that same necessity of sustaining himself obliged him to change latitudes. As is natural, as he withdrew from the Equator and the Tropics, the abode of abundance, the difficulty of subsisting increased. And then, to subsist was not merely to feed oneself: it was also to shelter oneself, and sheltering oneself demanded labour to make oneself a dwelling and to make oneself clothing. The dwelling had to be taken by main force from the cave bear, from the hippopotamus of the ravines, from the thousand venomous creatures of the grottoes and of the crowns of the trees; the clothing had to be stripped, together with their life, from the furred animals, or taken, at the cost of one's own life, from the densest depths of the forests and from the highest crowns of the trees.
+
+> No bastaban ni el albergue ni el vestido: había que proveerse de fuego contra las terribles intemperies invernales y contra las espantosas asechanzas de las fieras. Y liabía que robarle cl fuego al sielo, porque el hombre no conocía ningún medio para proveerse de él, que no fuera las tremendas tacudidas eléctricas. las pavorosas conflagraciones de los volcanes, las combustiones espontáneas de los bosques. Y tuvo entonces que ponerse hacer un trabajo en que nunca habia pensado, que fué: el trabajo de pensar. Tuvo que pensar de qué modo podia él producir por arte propia aque[PDF 125] lla ignición de las nubes, de las montañas, de los bosques, y no para destruir, sino para Conservar. Entonces fue cuando, observando en qué manera se producía la chispa al contacto de piedras contra piedras, ó de pedazos secos de madera contra otros pedazos de madera seca, asi fué como, trabajando con la observación, con la voluntad, con el brazo, imitó el fuego, lo hizo suyo. Y esto fué, acto continuo, el nacimiento de un nuevo estado social, de una nueva creencia religiosa, y del primero de todos los grandes cultos, en la obra de consagración y adoración de las fuerzas naturales por el hombre.
+
+Neither dwelling nor clothing sufficed: man had to provide himself with fire against the terrible inclemencies of winter and against the frightful ambushes of the wild beasts. And he had to steal fire from heaven, because man knew no means of providing himself with it other than the tremendous electric shocks, the fearful conflagrations of volcanoes, the spontaneous combustions of the forests. And he then had to set himself to do a labour of which he had never thought, which was: the labour of thinking. He had to think how he could produce by his own art that [PDF 125] — 117 — ignition of the clouds, of the mountains, of the forests, and not to destroy, but to conserve. It was then that, observing in what manner the spark was produced by the contact of stones against stones, or of dry pieces of wood against other pieces of dry wood, it was thus that, labouring with observation, with the will, with the arm, he imitated fire, made it his own. And this was, forthwith, the birth of a new social state, of a new religious belief, and of the first of all the great cults, in the work of consecration and adoration of natural forces by man.
+
+> Asi, más ó menos distintos ante el análisis, aparecen-en la Historia del hombre primitivo todas las formas fisico-psiquicas del trabajo: el del brazo, el de la voluntad, el de la sensibilidad, el del entendimiento, el trabajo individual del egoismo, el trabajo social del altruismo, y algunas de las formas de la industria: primero, la pesca y la caza; la construcción de útiles para esas industrias; la traslación de los productos de su industria, por medio de aparatos de acarreo, ú con el concurso de animales domesticados á esc fin.
+
+Thus, more or less distinct before analysis, there appear in the History of primitive man all the physico-psychic forms of labour: that of the arm, that of the will, that of sensibility, that of the understanding, the individual labour of egoism, the social labour of altruism, and some of the forms of industry: first, fishing and hunting; the construction of implements for those industries; the transport of the products of his industry by means of carrying appliances, or with the aid of animals domesticated to that end.
+
+> 22 bis. La BASE DEL TRABAJO. APLICACIÓN Y ADAPTACIÓN DE LOS CONOCIMIENTOS CIENTÍFICOS, AR- TÍSTICOS Y LITERARIOS. —En esta primera fase de la vida humana, que necesariamente ha tenido que ser una lucha con la Naturaleza, bien la haya emezado con la benigna de los 'Própicos, bien con a sorda naturaleza de los climas invernales; en csta primera fase de su vida, el hombre social ha sentado las bases económicas sobre las cuales descansa el enorme edificio de esfuerzos musculares y mentales que ha hecho y hace y seguirá haciendo el 'Irabajo. En su obra continua, hija de la necesidad y del ingenio, el trabajo ha empezado [PDF 126] siempre por la misma base: por la que da asiento á las necesidades fundamentales de la vida material del hombre. Ha seguido por toda la serie de esfuerzos intelectuales que se necesitaba hacer para ir ensanchando cl círculo de las satisfacciones, 4 medida que se ensanchaba el de las necesidades: durante todo este periodo, que no acaba nunca, los esfuerzos de aplicación y adaptación de conocimientos teóricos 4 conocimientos prácticos, y de conocimientos prácticos á industriales y aparatos industriales, el trabajo no ha cesado de apropiarse los resultados positivos de las ciencias. las artos y las letras, dándoles múltiples aplicaciones útiles á la vida individual y colectiva de los hombres.
+
+22 bis. The basis of Labour. Application and adaptation of scientific, artistic and literary knowledge.—In this first phase of human life, which has necessarily had to be a struggle with Nature, whether man began it with the benign nature of the Tropics, or with the deaf nature of wintry climates; in this first phase of his life, social man has laid the economic foundations on which rests the enormous edifice of muscular and mental efforts which Labour has made and makes and will go on making. In its continuous work, daughter of necessity and of ingenuity, labour has begun [PDF 126] — 118 — always from the same basis: from that which gives a seat to the fundamental necessities of the material life of man. It has proceeded through the whole series of intellectual efforts which it was necessary to make in order to go on widening the circle of satisfactions as the circle of necessities widened: during all this period, which never ends, the efforts of application and adaptation of theoretical knowledge to practical knowledge, and of practical knowledge to industries and industrial appliances, labour has not ceased to appropriate the positive results of the sciences, the arts and letters, giving them manifold useful applications to the individual and collective life of men.
+
+> 22 fer. FUERZA ORGÁNICA DEN. TRABAJO.—El Trabajo, desde el punto de vista de sn fuerza orgábica, es un agente tan poderoso de composición social, que no ha habido en la Historia, ni puede fantascar la fantasía, una sociedad en desarrollo. en crecimiento, en organización, ni siquiera en vida, mientras el trabajo no contribuva, Con la suya propia, á la organización social. Ño ya sólo porque le están por Naturaleza encaminadas las dos grandes funciones de la producción y el consumo. sino porque toma parte directa, fehaciente y efectiva en todos los actos mecánicos y psiquicos, en el movimiento de las masas yenci de Jas mentes, en Ja producción de lo real y en la de do idcal, en el calor de los órganos encargados de la industria mecánica y en el del órgano encargado de la industria racional pura.
+
+22 ter. Organic force of Labour.—Labour, from the point of view of its organic force, is so powerful an agent of social composition that there has not been in History, nor can fancy fancy, a society in development, in growth, in organization, nor even alive, so long as labour does not contribute, with its own, to social organization. Not only because the two great functions of production and consumption are by Nature directed towards it, but because it takes a direct, manifest and effective part in all mechanical and psychic acts, in the movement of masses and in that of minds, in the production of the real and in that of the ideal, in the heat of the organs charged with mechanical industry and in that of the organ charged with pure rational industry.
+
+> $ 3.0 Descripción del Gobierno.
+
+§ 3.
+
+Description of Government.
+
+> 23. Qué rs EL GOBIERNO. CÓMO SE PRESENTA EN LOS DIVERSOS ESTADOS SOCIALES. — Hemos visto un [PDF 127] momento de las sociedades humanas, que se Conoce con cl nombre de estado de salvajismo, en que no hay otros vinculos sociales que los ahso- Jutamente necesarios para cumplir fines de vida fisiológica. En ese estado, completamente anorgánico, en que todavía no se ha organizado la familia, es imposible que se haya organizado un régimen. Á juzgar por el estado efectivo de algrunas sociedades primitivas, observadas en Australia, en Africa, cn América y en algunas islas océanicas, la voluntad de los individuos es tan soberano, que su soberania no tiene más límite que la fuerza mecánica del brazo que la secunda y que la impone. En ese estado de soberania de todos y de cada uno, es mecánicamente imposible la soberanía de uno, ó de varios, sobre todos. No hay, pues, régimen posible. La vida de todos y de cada uno, entonces gobernada por el instinto de conservación, no sufre dirección de nadie, porque no sufre privación de nada: el único valladar de la satisfacción de las necesidades, de los deseos y de las concupiscencias, es: la fuerza que oponga la Naturaleza á la que desplicgue el hombre. Sólo limitada por las fuerzas naturales, Ó por otras fuerzas humanas, la vida individual y la colectiva son, en cse estado primitivo, en ese primer Comienzo de la vida de los hombres, completamente ingobernables, á no ser que las gobierne el instinto de conservación y la eficacia de la fuerza bruta. Pero como este gobierno es transitorio, y sólo actúa en el momento de la satisfacción de la necesidad, ú de la represión del abuso, no constituye un régimen efectivo. Y, sin embargo, á pesa? de que la familia no está constituida y falta el pater familias; á pesar de que la voluntad colectiva no está sometida á pauta alguna. y ejerce funciones soberanas la voluntad individual; á pe[PDF 128] sar de que, mientras todos encuentran qué comer y no ocurre la necesidad de averiguar unos de otros en dónde y cuándo se podrá comer, tan pronto como hay que preguntarse en dónde, cuándo y cómo se habrá de comer majíana, surge inmediatamente la necesidad de gobierno, de réimen, de subordinación, de guía, que ó pudo no aborse hasta entonces presentado, ó que sólo en casos iguales se presentó á la tribu.
+
+23. What Government is. How it presents itself in the various social states.—We have seen a [PDF 127] — 119 — moment of human societies, known by the name of the state of savagery, in which there are no social bonds other than those absolutely necessary to fulfil the ends of physiological life. In that state, completely inorganic, in which the family has not yet been organized, it is impossible that a regime should have been organized. To judge by the actual state of some primitive societies, observed in Australia, in Africa, in America and in some oceanic islands, the will of individuals is so sovereign that its sovereignty has no other limit than the mechanical force of the arm which seconds it and imposes it. In that state of sovereignty of all and of each one, the sovereignty of one, or of several, over all is mechanically impossible. There is, then, no possible regime. The life of all and of each one, then governed by the instinct of conservation, suffers direction from no one, because it suffers privation of nothing: the only barrier to the satisfaction of necessities, of desires and of concupiscences, is: the force which Nature opposes to that which man displays. Limited only by natural forces, or by other human forces, individual and collective life are, in that primitive state, in that first beginning of the life of men, completely ungovernable, unless they be governed by the instinct of conservation and the efficacy of brute force. But as this government is transitory, and acts only at the moment of the satisfaction of necessity, or of the repression of abuse, it does not constitute an effective regime. And yet, in spite of the fact that the family is not constituted and the pater familias is lacking; in spite of the fact that the collective will is subjected to no rule whatever, and the individual will exercises sovereign functions; in [PDF 128] — 120 — spite of the fact that, while all find something to eat and the necessity does not arise of ascertaining from one another where and when one will be able to eat, as soon as one must ask oneself where, when and how one is to eat tomorrow, there arises immediately the necessity of government, of regime, of subordination, of guidance, which either may not have presented itself until then, or presented itself to the tribe only in like cases.
+
+> Ello es: que la idea de gobierno se efectúa, ó presenta, como efecto, cn las sociedades primitivas, tan pronto como hay necesidad de deliberación, de acuerdo, de unanimidad, de cumplimiento de resolución. Las resoluciones sociales no se cumplen por la caprichosa voluntad de cada uno, sino por el cumplimiento convenido. Este cumlimiento corre siempre á cargo de unos pocos, 6 e uno solo. Por eso, es usual, asi entre los tratadistas de Derecho Positivo como entre los filósofos del Derecho, asi para antropólogos como para. sociólogos, el considerar como sobrevenido el caudillaje, en el instante del desplazamiento de una tribu; es decir, que cl caudillaje, primera forma efectiva de gobierno, aparece, en e! estado primitivo de las sociedades salvajes, em el momento mismo en que éstas, compelidas por el hambre, necesitan cambiar de lugar, y, para cambiar de lugar, necesitan de guía.
+
+The fact is: that the idea of government is realized, or presents itself as an effect, in primitive societies, as soon as there is necessity of deliberation, of agreement, of unanimity, of the carrying out of a resolution. Social resolutions are not carried out by the capricious will of each one, but by agreed execution. This execution always falls to the charge of a few, or of one alone. That is why it is usual, as much among writers on Positive Law as among the philosophers of Law, as much for anthropologists as for sociologists, to regard chieftainship as having arisen at the instant of the displacement of a tribe; that is to say, that chieftainship, the first effective form of government, appears, in the primitive state of savage societies, at the very moment in which these, compelled by hunger, need to change place, and, in order to change place, need a guide.
+
+> Es muy probable que las primeras sociedades humanas se hayan producido naturalmente en latitudes intertropicales; y que la abundancia de recursos en ellas haya hecho un poco menos nómadas á csas tribus establecidas entre los trópicos. Es posible también, cn ese caso, que la $edentariedad de los hábitos haya producido temranamente la institución de la familia y el goierno del patriarca. Mientras la Prehistoria no [PDF 129] llegue á ser tan clara, que nos presente á esta familia tropical más feliz y menos en luchas con las inclemencias invernales que las tristes familias prehistóricas que hasta ahora conocemos, no se puede probar que cl gobierno del patriarcado tal como los Vedas, el Zend-Avesta, la Biblia, el Korán,, el Chu-King:, y otros libros sagrados, lo presentan, sea una forma primitiva, y, mucho menos, la primitiva forma de gobierno. Experimentalmente, sabemos, por lo que en la Edad Moderna se ha observado cntre los pueblos primitivos de América, que cl Gobierno del patriarcado coincide con una forma de vida general mucho más definitiva y organizada que la vida de las sociedades en estado salvaje: asi, entre los yucayos de las Antillas, entre los muiscas de Bogotá, entre los araucanos de Arauco, los cacicazgos que gobernaban á los primeros y los ulmenados que gobernaban á los segundos, eran ya patriarcados en estado orgánico, es decir, en estado definitivo de institución y de influencia.
+
+It is very probable that the first human societies arose naturally in intertropical latitudes; and that the abundance of resources in them made those tribes established between the tropics somewhat less nomadic. It is possible also, in that case, that the sedentariness of their habits produced early the institution of the family and the government of the patriarch. So long as Prehistory does not [PDF 129] — 121 — become so clear as to present to us this tropical family happier and less at strife with the inclemencies of winter than the sad prehistoric families which we have known until now, it cannot be proved that the government of the patriarchate, such as the Vedas, the Zend-Avesta, the Bible, the Koran, the Shu-King, and other sacred books present it, is a primitive form, and, much less, the primitive form of government. Experimentally, we know, from what has been observed in the Modern Age among the primitive peoples of America, that the Government of the patriarchate coincides with a form of general life much more definite and organized than the life of societies in the savage state: thus, among the Lucayans of the Antilles, among the Muiscas of Bogotá, among the Araucanians of Arauco, the cacicazgos which governed the first and the ulmenates which governed the second were already patriarchates in an organic state, that is to say, in a definite state of institution and of influence.
+
+> Bicn fuera una ú otra, caudillaje, ó patriarcado, la forma exclusiva de gobierno de las primeras sociedades, ú bien coincidicran una y otra, ú bien existicra, desde el primer momento, desde la primera deliberación, de un grupo de salvajes, la asamóblea-del-pueblo, es un hecho histórico el gobierno de todos, por asamblea, por caudillo, ó por atriarca, como una necesidad mecánica que ha ía que satisfacer para poner en movimiento una masa social que había que mover, 0 para reducir al sosiego una masa social que cra necesario contener.
+
+Whether the one or the other, chieftainship or patriarchate, was the exclusive form of government of the first societies, or whether the one and the other coincided, or whether there existed, from the first moment, from the first deliberation of a group of savages, the assembly-of-the-people, the government of all, by assembly, by chieftain, or by patriarch, is a historical fact, as a mechanical necessity which had to be satisfied in order to set in motion a social mass that had to be moved, or to reduce to quiet a social mass that it was necessary to restrain.
+
+> Después. á medida que iban desarrollándose los rupos sociales, y diversificándose sus necesidaes y multiplicándose sus relaciones, fué haciéndose mús imprescindible la dirección común, y [PDF 130] fué conjuntamente aclarándose la noción de gobierno, y ejecutándose prácticamente en instituciones inspiradas, la mayor parte de esas veces, por el mismo medio ambiente, 6 modificadas y reformadas por la experiencia y el sentido común de la mayor parte de la Sociedad.
+
+Afterwards, as social groups went on developing, and their necessities diversifying and their relations multiplying, common direction became ever more indispensable, and [PDF 130] — 122 — the notion of government went on at the same time becoming clearer, and being carried out practically in institutions inspired, for the most part, by the surrounding medium itself, or modified and reformed by the experience and common sense of the greater part of Society.
+
+> 24, EL REGIMEN DEL DERECHO. INCOMPLETA OR- GANIZACIÓN DE SUS CUATRO ELEMENTOS.—Toda la vida institucional del Derecho, desde la asambleadel-pueblo hasta los Consejos-de-ancianos, los Anfictionados, los Senados, las Cámaras legislativas, los Parlamentos y los Congresos, está patentizando la continua elaboración de un régimen común por medio del Derecho.
+
+24. The regime of Law. Incomplete organization of its four elements.—The whole institutional life of Law, from the assembly-of-the-people to the Councils-of-elders, the Amphictyonies, the Senates, the legislative Chambers, the Parliaments and the Congresses, is making manifest the continuous elaboration of a common regime by means of Law.
+
+> Cuando entre una tribu salvaje reconoce el viajero la institución del caudillaje, no tiene más que ponerse á recordar lo que haya visto en el estado social más avanzado de donde él procede, para ver en cl caudillaje el núcleo ú órgano primitivo de cuantas formas de Gobierno existen, fundadas €n la autocracia.
+
+When the traveller recognizes the institution of chieftainship among a savage tribe, he has only to set about recalling what he may have seen in the more advanced social state from which he comes, to see in chieftainship the nucleus or primitive organ of all the forms of Government which exist founded on autocracy.
+
+> Parece que, á juzgar por lo que han visto entre las tribus oceánicas los grandes navegantes, y entre las tribus australianas y africanas los erandos exploradores, la idca de justicia no es tan vaga entre los hombres primitivos que no haya tomado entre ellos un cuerpo, con sus órganos Correspondientes. Cuando hasta parece que hay entre los clefantes, y aun entre los cuervos, una cierta aplicación de la justicia distributiva, lo asombroso seria que hubiera una sola reunión de hombres que de algún modo no hubiera tratado de organizar la distribución y la administración de justicia.
+
+It appears, to judge by what the great navigators have seen among the oceanic tribes, and the great explorers among the Australian and African tribes, that the idea of justice is not so vague among primitive men that it has not taken a body among them, with its corresponding organs. When it even appears that there is among elephants, and even among crows, a certain application of distributive justice, the astonishing thing would be that there should be a single gathering of men which had not in some way tried to organize the distribution and administration of justice.
+
+> Pues bien: todo lo que en esa dirección han hecho los hombres, desde esos primeros conatos de la, vida salvaje hasta las altas concepciones ju[PDF 131] diciales y las minuciosas prescripciones legales que honran tanto á la familia anglosajona de ambos mundos, todo ha sido hecho en solicitud ya instintiva, ya reflexiva, de la organización particular de aquel órgano de gobierno que se suele llamar poder judicial.
+
+Well then: all that men have done in that direction, from those first attempts of savage life to the lofty ju- [PDF 131] — 123 — dicial conceptions and the minute legal prescriptions which so honour the Anglo-Saxon family of both worlds, all has been done in the quest, now instinctive, now reflective, of the particular organization of that organ of government which is commonly called judicial power.
+
+> A veces, en la misma incapacidad que los hombres han mostrado para realizar civilizaciones completas, se denota la necesidad de alguna función no satisfecha, ó que se hu tratado de satisfacer en una mancra irregular, ó por tanteos, ó Con excesivos escrúpulos para con el medio ambiente.
+
+At times, in the very incapacity which men have shown to realize complete civilizations, there is betokened the necessity of some function unsatisfied, or which men have tried to satisfy in an irregular manner, or by gropings, or with excessive scruples towards the surrounding medium.
+
+> Eso se ve cuando se analiza cualquiera de nuestras civilizaciones occidentales.
+
+That is seen when any one of our western civilizations is analysed.
+
+> Ninguna de ellas ha logrado todavía presentarnos integro el organismo del Gobierno. A todas ellas falta una organización efectiva de la función electoral. Bien sea por la persistencia en el error cientifico de considerar poderes á las que sólo son funciones de poder, bien por insistir en las peligrosas rutinas que unas tras otras se han ido transmitiendo las sociedades civilizadas en sus leyes y organizaciones clectorales, bien sea por no haberle dado toda la importancia que tenia en la tradición primitiva de las asambleasdel-pueblo, que, distintamente, aparecen funcionando entre todas las tribus arianas, especialmente cn la índica y en la germánica, el hecho es: que ni aun en la civilización norteamericana, Cuyo más alto mérito ha sido su altísima organización jurídica, ni aun en ella aparece racionalmente organizada la función electoral. Y como es imposible no echar de ver esta falta y no dejar de ver que es constitutiva de la idea de gobierno la idea de organización de la función electoral, podemos estar seguros de que nuestra crí[PDF 132] tica de la idea de gobierno como una necesidad funcional de las sociedades humanas, aparccerá tanto más exacta cuanto más declaremos que todas las leyes que han tratado y tratan de regularizar la acción electoral de los pueblos que tienen ya organizadas sus otras instituciones de gobierno, es una prueba palpable de que el Gobierno, compuesto de cuatro elementos necesarios, es un compuesto tanto más palpablemente necesario cuanto más lo vemos desarrollarse, sin llegar hasta ahora á la organización completa, puesto que se puede decir que le falta uno de sus elementos más indispensables, ya que cs ó tan primitiva, ó tan viciosa la organización electoral.
+
+None of them has yet succeeded in presenting to us the organism of Government entire. All of them lack an effective organization of the electoral function. Whether it be through persistence in the scientific error of considering as powers what are only functions of power, or through insisting on the dangerous routines which civilized societies have gone on transmitting one after another in their electoral laws and organizations, or through not having given it all the importance it had in the primitive tradition of the assemblies-of-the-people, which distinctly appear functioning among all the Aryan tribes, especially in the Indian and in the Germanic, the fact is: that not even in North American civilization, whose highest merit has been its very lofty juridical organization, not even in it does the electoral function appear rationally organized. And as it is impossible not to notice this lack and not to see that the idea of the organization of the electoral function is constitutive of the idea of government, we may be sure that our cri- [PDF 132] — 124 — ticism of the idea of government as a functional necessity of human societies will appear all the more exact the more we declare that all the laws which have tried and are trying to regularize the electoral action of the peoples that already have their other institutions of government organized, are a palpable proof that Government, composed of four necessary elements, is a compound all the more palpably necessary the more we see it develop without arriving as yet at complete organization, since it may be said that it lacks one of its most indispensable elements, inasmuch as electoral organization is either so primitive or so vicious.
+
+> $ 42 Descripción de la Educación.
+
+§ 4.
+
+> 25. Proceso DE La Enucación.—El hecho que relatan Jos viajeros antiguos y modernos (y esto en un modo tan unánime que desvanece toda duda) es: que en las tribus salvajes insulares 6 continentales, los mnchachitos de ambos sexos aprenden las facnas de sus padres. Hay lugares en que las aprenden por si solos, como ¿4 fuerza del deber de obedecer. Hay otros lugares en que expresamente los enseñan á hacer lo que se necesita de ellos.
+
+Description of Education.
+
+> En cuanto las poblaciones nómades se asien— tan y aposentan en la comarca que su ganado recorre, ya la mayor complicación de las necesidades sociales obliga á los padres de familia á tomar un cuidado directo cn la enseñanza de sus hijos.
+
+25. Process of Education.—The fact which ancient and modern travellers relate (and this in so unanimous a manner that it dispels all doubt) is: that in savage tribes, insular or continental, the little children of both sexes learn the tasks of their parents. There are places in which they learn them by themselves, as by force of the duty to obey. There are other places in which they are expressly taught to do what is needed of them.
+
+As soon as nomad populations settle and take up their abode in the district over which their cattle range, the greater complication of social necessities at once obliges the fathers of families to take a direct care in the instruction of their children.
+
+> Los historiadores más antiguos y los exploradores más modernos coinciden con el arte del trabajo y del dibujo en presentarnos el cuadro ri[PDF 133] sueño de las trashumaciones estacionales, en que la familia bárbara, ancianos, padres, hijos, peueñuelos, toman parte activa en la guia y conucta de sus greyes.
+
+The most ancient historians and the most modern explorers coincide with the art of labour and of drawing in presenting to us the cheer- [PDF 133] — 125 — ful picture of the seasonal transhumances, in which the barbarian family, old men, parents, children, little ones, take an active part in the guidance and conduct of their flocks.
+
+> Entre los deduénos, así como entre los tártaros; entre los araucanos, lo mismo que entre los natcher, la educación de la infancia y la de la adolescencia de ambos sexos cs ya patentemente un hecho social. A medida del desarrollo de la Sociedad, la educación toma caracteres más determinados de hecho público y social. Hasta tal punto, que uno de los indicios más seguros del desarrollo de una civilización cstá en el carácter de preocupación general como del interés gencral que se muestre por la educación de la infancia, de la adolescencia y de la juventud.
+
+Among the Bedouins, as among the Tartars; among the Araucanians, just as among the Natchez, the education of childhood and that of adolescence of both sexes is already manifestly a social fact. In the measure of the development of Society, education takes on more determinate characters of a public and social fact. So much so, that one of the surest indications of the development of a civilization lies in the character of general preoccupation as of general interest which is shown for the education of childhood, of adolescence and of youth.
+
+> En la historia de la Pedagogia se puede ir señalando este proceso ascensional de la educación común, y puede hacerse la indicación exacta de esta ascensión social, no ya sólo por el mejoramiento particular de los niños, adolescentes y jóvenes de ambos sexos, sino por el aumento general de la cultura colectiva. Aún más: en la cultura colectiva de cualquier pueblo, es posible, y á veces fácil, discernir el carácter natural del pueblo y su propósito ideal de vida, En estado social semejante, en el límite que separa la semicivilización de la civilización que tenemos por completa, los persas, los atenienses y, los espartanos muestran las particularidades de su educación común, las de su carácter nacional y la fijeza de su propósito social.
+
+In the history of Pedagogy this ascending process of common education may be traced, and the exact indication of this social ascent may be made, not only by the particular improvement of the children, adolescents and youths of both sexes, but by the general increase of collective culture. Still more: in the collective culture of any people it is possible, and at times easy, to discern the natural character of the people and its ideal purpose of life. In a like social state, on the boundary which separates semi-civilization from the civilization that we hold to be complete, the Persians, the Athenians and the Spartans show the particularities of their common education, those of their national character and the fixity of their social purpose.
+
+> 26. CARACTERES DE LA EDUCACIÓN.—LoS persas, educan para la guerra internacional y para la paz doméstica. Los atenienses, cdáncan para el predominio intelectual y para el desarrollo colectivo de las aptitudes artísticas y filosóficas. Los esparta[PDF 134] nos, educan para el predominio militar y politico de Esparta.
+
+26. Characters of Education.—The Persians educate for international war and for domestic peace. The Athenians educate for intellectual predominance and for the collective development of artistic and philosophical aptitudes. The Spartans [PDF 134] — 126 — educate for the military and political predominance of Sparta.
+
+> Y así, de cuantos pucblos antiguos, de la Edad Media y de la Moderna, que han llegado á un desarrollo de vida social suficiente para comprender, 6 más bien, para sentir, la exigencia de la Educación pública, ó lo que tanto vale, la fuerza funcional de la Educación.
+
+And so with all the peoples, ancient, of the Middle Ages and of the Modern Age, which have arrived at a development of social life sufficient to understand, or rather, to feel, the exigency of public Education, or, what amounts to the same, the functional force of Education.
+
+> 27. LA ORGANIZACIÓN DE LA ENSEÑANZA ES UNO DE LOS CARACTERES DE NUESTRA EPOCA.—Este preocuparse en la organización de la enseñanza, de la instrucción y de la educación común, es cosa exclusiva de nuestros días, puesto que es necesidad aguda de las sociedades todas, que cuanto más sanas están, tanto más la experimentan.
+
+27. The organization of instruction is one of the characters of our epoch.—This concern with the organization of teaching, of instruction and of common education, is a thing peculiar to our own days, since it is an acute necessity of all societies, which, the healthier they are, the more they feel it.
+
+> $ 5.2 Descripción de la Religión y la Moral,
+
+§ 5.
+
+> 28. LAS CREENCIAS RELIGIOSAS. —Tan pronto como la Sociedad está un poco organizada, aun en el mismo periodo del salvajismo, hasta en la misma época de la piedra bruta, comienza la organización de las creencias religiosas y de las reglas de moralidad común. Con efecto: ya en la época primera de los utensilios de piedra sin pulimentar, hay alguno que otro indicio de idolos de iedra. Relatos de viajeros antiguos v modernos, imducen 4 creer que, en el estado social del salvajismo, hay algunas nociones, que son comunes á todos los habitantes de las tribus salvajes, que indican la existencia, en ellas, de ideas de bien, de responsabilidad, de recompensa y de castigo.
+
+Description of Religion and Morals.
+
+> 29. LAS IDEAS RELIGIOSAS Y MORALES EVOLUCIO- NAN CON LA SOCIEDAD.—El culto religioso y de las ideas morales van naturalmente desarrollándose en el mismo sentido cn que la Sociedad se desarrolla.
+
+28. Religious beliefs.—As soon as Society is somewhat organized, even in the very period of savagery, even in the very epoch of rough stone, the organization of religious beliefs and of the rules of common morality begins. In effect: already in the first epoch of unpolished stone utensils, there is some indication or other of stone idols. Accounts of ancient and modern travellers lead us to believe that, in the social state of savagery, there are some notions, common to all the inhabitants of savage tribes, which indicate the existence among them of ideas of good, of responsibility, of reward and of punishment.
+
+29. Religious and moral ideas evolve with Society.— Religious worship and that of moral ideas go on naturally developing in the same direction in which Society develops.
+
+[p. 127]
+
+> Asi es: que cn razón del aumento de medios y recursos materiales é intelectuales, van las sociedades humanas dando á sus ideas religiosas y morales la extensión, aplicaciones y carácter social que conviene á los fines generales de su vida.
+
+So it is: that by reason of the increase of material and intellectual means and resources, human societies go on giving to their religious and moral ideas the extension, applications and social character which befit the general ends of their life.
+
+> $ 6.2 Descripción de da Fuerza Social.
+
+§ 6.
+
+> 30. QuE Es La FUERZA SOCIAL. CÓMO SE NOS PRE- SENTA. CUÁL DEBE SER EL PROPÓSITO DE SU ORGANIzacIÓN.—Una tribu salvaje que ha hecho mansión provisional en un pedazo de tierra que le ofrece medios de subsistencia por algún tiempo, es una masa incongruente, en donde el ejercicio de Jos derechos que cada uno se atribuye, va casi siempre acompañado por la explosión de la fuerza bruta, porque no está regulado, y á vadie toca el cumplimiento del deber correspondiente á ese derecho ejercitado. Para que el derecho se ejercitara, y, en vez de ser sancionado por la fuerza bruta, actuara como un deber de todos el compromiso de respetar ese derecho, sería necesario que una fuerza social muy distinta de la fuerza bruta correspondiente á cada un individuo se manifestara en un modo regular.
+
+Description of Social Force.
+
+30. What Social Force is. How it presents itself to us. What the purpose of its organization ought to be.—A savage tribe which has made a provisional abode on a piece of land that offers it means of subsistence for some time, is an incongruous mass, in which the exercise of the rights which each one attributes to himself is almost always accompanied by the explosion of brute force, because it is not regulated, and to no one falls the fulfilment of the duty corresponding to that right exercised. In order that right should be exercised, and that, instead of being sanctioned by brute force, the engagement to respect that right should act as a duty of all, it would be necessary that a social force very different from the brute force corresponding to each individual should manifest itself in a regular manner.
+
+> Esta regularidad de la fuerza social, conteniendo y gobernando á la fuerza bruta, reclama la organización de donde proceden los ejércitos, las armadas, las policías, los resguardos. Naturalmente, esta organización de fuerza, manifestada en instituciones Como Jas que acabamos de nombrar, no es, ni puede ser, obra de un solo momento de la Historia: es, por el contrario, la obra lenta de todas las anteriores organizaciones. En realidad, la organización de las fuerzas materiales de la Sociedad, con el fin de asegurar el respeto del Derecho, dentro y fuera de los límites de cada nación, [PDF 136] y conforme al propósito único de defender el derecho exterior y el interior, es obra que muy pocas veces se ha realizado, en la historia de la civilización. A decir verdad, esta organización de la fuerza pública, conforme á su destino de conservación social, y como exponente de ese propósito de conservación, no se ha dado hasta ahora más que en el pueblo suizo y en el federal de Norte América. En toda otra organización histórica de la fuerza pública, siempre se ha visto algún designio contrario al carácter mismo de la fuerza social; pues ya, unas veces, se organiza con el fin particular de hacer preponderante el poder sobre el derecho, en cada límite geográfico de una nación, ya, otras veces, la organización de la fuerza pública no tiene más objeto que la amenaza del derecho en el exterior, y el designio manifiesto de imponerse una nación á otra nación. A la verdad, para que la organización de la fuerza pública correspondiera puntualmente al estado de la fuerza vital de cada sociedad, seria necesario que se divulgaran los conocimientos de Sociología hasta el punto de que fuera vulgar el conocimiento de las leyes naturales de la Sociedad. Sólo entonces, sabiéndose que la fuerza social es un resultado del desarrollo armónico de la vida de las comunidades humanas, se trataria de producir ese desarrollo biótico, en vez de tratar de establecer instituciones exclusivamente militares y policiales. En otros términos: cuando se establezca el servicio militar y parcial fundándolo en necesidades activas de derecho. seguridad, moralidad y deber públicos, se procederá educacionalmente; es decir, se subordinará á las necesidades deberes de la educación, esta organización de ha fuerza militar.
+
+This regularity of social force, restraining and governing brute force, calls for the organization from which armies, navies, police forces, and revenue guards proceed. Naturally, this organization of force, manifested in institutions such as those we have just named, is not, nor can it be, the work of a single moment of History: it is, on the contrary, the slow work of all the previous organizations. In reality, the organization of the material forces of Society, with the end of securing respect for Law, within and without the limits of each nation, [PDF 136] — 128 — and in conformity with the sole purpose of defending external and internal right, is a work which has very seldom been realized in the history of civilization. To tell the truth, this organization of public force, in conformity with its destiny of social conservation, and as exponent of that purpose of conservation, has until now been found only in the Swiss people and in the federal people of North America. In every other historical organization of public force, some design contrary to the very character of social force has always been seen; for now, at times, it is organized with the particular end of making power preponderant over right, within each geographical limit of a nation; now, at other times, the organization of public force has no other object than the menacing of right abroad, and the manifest design of one nation imposing itself upon another nation. In truth, in order that the organization of public force should correspond precisely to the state of the vital force of each society, it would be necessary that the knowledge of Sociology should be spread abroad to the point that the knowledge of the natural laws of Society should be common. Only then, it being known that social force is a result of the harmonious development of the life of human communities, would men try to produce that biotic development, instead of trying to establish exclusively military and police institutions. In other terms: when military service, and partial service, is established on the basis of active necessities of public right, security, morality and duty, men will proceed educationally; that is to say, this organization of military force will be subordinated to the necessities and duties of education.
+
+> Lejos se está todavía de esto, y apenas se vislum[PDF 137] bra este propósito, en algunas instituciones escolares del Nuevo Mundo y del Viejo, instituciones que tienen por objeto fortalecer y disciplinar á la infancia. Pero de estos ensayos, que hasta ahora no dicen relación sino á la educación física, hay que recorrer un gran espacio, para llegar á las organizaciones militares quo exclusivamente no sirvan más que para atestiguar la fuerza vital de cada Sociedad.
+
+We are still far from this, and this purpose is scarcely glim- [PDF 137] — 129 — psed, in some school institutions of the New World and of the Old, institutions which have for their object to strengthen and discipline childhood. But from these essays, which until now bear relation only to physical education, a great distance must be travelled to arrive at military organizations which shall serve exclusively for nothing more than to attest the vital force of each Society.
+
+## SECTION 2
+
+## DESCRIPTION OF SOCIETY AS PARTICULAR LIFE
+
+> SECCIÓN 2,2 DESCRIPCIÓN DE LA SOCIEDAD EN CUANTO VIDA PARTICULAR
+
+31. The parts of the social organism.—The description which we have just made of the functions of human Society and of the operations which constitute each one of those functions, presents Society to us as a living whole, whose activity extends to every place and to every time.
+
+> 31. LAS PARTES DEL ORGANISMO SOCIAL. — La, descripción que acabamos de hacer de las funciones de la Sociedad humana y de las operaciones que constituyen cada una de esas funciones, nos presenta la Sociedad como un tudo viviente, cuya actividad se extiende á todo lugar y á todo tiempo.
+
+Now we are going to describe each one of the organs which compose that organism, each one of the operations which, united, form those vital functions.
+
+> Ahora vamos á describir cada uno de los órganos que componen ese organismo, cada una de las operaciones que, reunidas, forman esas funciones vitales.
+
+The organs of the particular life of Society, or better said, the organs which present the life of Society in peculiar activity, are: the Individual, the Family, the Tribe and the Gens.
+
+> Los órganos de la vida particular de la Sociedad, 4 mejor dicho, dos órganos que presentan en actividad peculiar la vida de la Sociedad, son: el Individuo, la Familia, la Tribu y la Gente.
+
+§ 1.
+
+> $1. El Individuo.
+
+The Individual.
+
+> 32. Que e£s er, Ispivinco.—El Individuo es el elemento natural de organización; €s como la célula social, de cuya vida personal depende la vida del todo social.
+
+32. What the Individual is.—The Individual is the natural element of organization; he is as it were the social cell, on whose personal life the life of the social whole depends.
+
+> 32 bis. TENDENCIA DEL INDIVIDUO Á COMPLETAR- SE CON OTRO SER. Los Venas Y EL Génvesis. La CÉ- LULA SOCIAL: HOMBRE-MUJER-NIÑO.—El Individuo. [PDF 138] r naturales condiciones de su propio sér, tiende a completarse con, en y por medio de otro sér. Todas las explicaciones teológicas, principalmente los Vedas y el Génesis, dan idea de esta dualidad ó tendencia dual del Individuo humano: el mito de Adán y Eva, asi el originario de la isla de Ceylán como el de la altiplanicic del Senaar, expresan la necesidad de esta asociación fundamental. Cuando el Individuo, en virtud de su evolución natural, se ha desdoblado en dos, y constituido en primer factor de sociabilidad. se desdobla de nuevo y constituye la trinidad hombremujer-niño. Ya cfectuada esta evolución, merced á la cual y dentro de la cual la célula social se ha completado, el Individuo se ha desenvuelto. En su primera evolución, llega á Vamilia; en su se— gunda evolución (2 +2 +02). constituye la Tribu, en el mismo modo como en la primera (14-142) constituyo la Familia.
+
+32 bis. Tendency of the Individual to complete himself with another being. The Vedas and Genesis. The social cell: man-woman-child.—The Individual, [PDF 138] — 130 — by natural conditions of his own being, tends to complete himself with, in and by means of another being. All theological explanations, principally the Vedas and Genesis, give an idea of this duality or dual tendency of the human Individual: the myth of Adam and Eve, the one originating in the island of Ceylon as well as that of the plateau of Shinar, express the necessity of this fundamental association. When the Individual, by virtue of his natural evolution, has unfolded into two, and constituted himself the first factor of sociability, he unfolds anew and constitutes the trinity man-woman-child. This evolution once effected, thanks to which and within which the social cell has been completed, the Individual has developed. In his first evolution, he arrives at the Family; in his second evolution (n + n + x), he constitutes the Tribe, in the same manner as in the first (1 + 1 + n) he constitutes the Family.
+
+> 32 ter. TEVOLUCIÓN DEL INDIVIDUO, EN LA TRIBU. En el mismo modo como cn la Wamilia, cl Individuo evoluciona Ca la Tribu, y de clla pasa á constituir la Gente, que si. ubreviadamente, es un conjunto de tribus, fisiológicamente es el resultado, ó la suma, de los individuos de la Familia y de la Tribu.
+
+32 ter. Evolution of the Individual in the Tribe.—In the same manner as in the Family, the Individual evolves in the Tribe, and from it passes on to constitute the Gens, which, if, briefly, it is an aggregate of tribes, physiologically is the result, or the sum, of the individuals of the Family and of the Tribe.
+
+> En suma, cualquiera que sean las diferencias de tiempo y de lugar y las condiciones mediales ó mesológ'icas á que tenga el Individuo que atenerse, siempre cs él, necesariamente es él quien, evolucionando individualmente, determina la. evolución social.
+
+In sum, whatever may be the differences of time and of place and the medial or mesological conditions to which the Individual has to conform, it is always he, it is necessarily he who, evolving individually, determines social evolution.
+
+> La consagración de esta realidad, fisiológica y sociótica al mismo tiempo, tiene una importancia de primera fuerza, porque constituye un principio cientifico del cual no podrá prescindir la Historia en sus bendiciones, 6 maldiciones, de los. [PDF 139] hechos y de los hombres históricos; así como tampoco podrá prescindir de él la Política Positiva, que en esa evolución del Individuo aprenderá á ver la necesidad de tomarlo en cuenta, así en las organizaciones de Derecho como en las del Trabajo, y en éstas como en todas las que promueva la necesidad de civilización.
+
+The consecration of this reality, physiological and sociotic at the same time, has an importance of the first force, because it constitutes a scientific principle which History will not be able to dispense with in its blessings, or curses, of the [PDF 139] — 131 — facts and of the men of history; just as neither will Positive Politics be able to dispense with it, which in that evolution of the Individual will learn to see the necessity of taking him into account, in the organizations of Law as in those of Labour, and in these as in all those which the necessity of civilization may promote.
+
+> Descripción de la Pamilia,
+
+§ 2.
+
+> 33. LO QUE Es La FaAmiLIa. — La Familia es una trinidad, perfectamente representada por los arias primitivos, cuando decían: hombre-mujermio.
+
+Description of the Family.
+
+> Hombre-mujer-niño, es tan sólida base de la Sociedad general, que da ¿ ella tres distintas columnas en un solo triple punto de apoyo. El principio de la descripción de la Familia, es: la consideración de ese carácter suyo, propio de ser á la vez uno y triple punto de apoyo.
+
+33. What the Family is.—The Family is a trinity, perfectly represented by the primitive Aryans when they said: man-woman-child.
+
+> No ha de esperarse que ese basamento de la Sociedad general haya sido siempre como es hoy, ni sea hoy Como será mañana. Siendo órgano que forma parte de un conjunto, está sujeto al desarro- Mo del conjunto, y asi ha sido y será él cada vez más complicado, cuanto más complicada también la actividad del organismo á cuya vida contribuye.
+
+Man-woman-child is so solid a base of general Society that it gives it three distinct columns in a single triple point of support. The beginning of the description of the Family is: the consideration of that character of its own, proper to it, of being at once one and a triple point of support.
+
+It is not to be expected that this foundation of general Society should always have been as it is today, nor that it should be today as it will be tomorrow. Being an organ which forms part of a whole, it is subject to the development of the whole, and so it has been and will be ever more complicated, the more complicated also is the activity of the organism to whose life it contributes.
+
+> CÓMO APARECIÓ LA FAMILIA ENTRE LOS ARIOS Y 1.05 INDO-EUROPEOS.—En los tiempos primeros de la Historia, ya lemos visto que la Familia cra la simple unión de sus tres factores: el hombre, la mujer y cl niño. Ántes que eso, todavía hubo, cn el comienzo del órgano, un estado en que, existiendo los tres factores, todavia no había Familia, mejor dicho, ha habido, y necesariamente hay, [PDF 140] un tiempo, en la formación de las sociedades humanas, en que la obra sociótica no acompaña á la fisiológica: en ese tiempo existen los tres miembros de la Familia, en cuanto obra fisiológica; pero no existe la unidad de la Familia, no existe el grupo social de la Familia; porque todavía no ha habido esfuerzo bastante, del principio de sociabilidad, pura producir la organización de la Familia. Tan prouto como este principio orgánico de asociación, actuando por medio de la Ley de Soctabilidad, se aplica á producir la unión de los tres elementos, se produce cl hombre-mujer-niño. Ási es como aparece en la rama ariana de la familia humana. y así es como aparece en las ramas helénica, itálica, germánica y eslávica, de la familia indo-curopea. la porción de la familia ariana que. procedente de la India, se estableció en Europa.
+
+34. How the Family appeared among the Aryans and the Indo-Europeans.—In the first times of History, we have already seen that the Family was the simple union of its three factors: the man, the woman and the child. Before that, there was still, at the beginning of the organ, a state in which, the three factors existing, there was not yet a Family; better said, there has been, and necessarily there is, [PDF 140] — 132 — a time, in the formation of human societies, in which the sociotic work does not accompany the physiological: in that time the three members of the Family exist, as a physiological work; but the unity of the Family does not exist, the social group of the Family does not exist; because there has not yet been sufficient effort, on the part of the principle of sociability, to produce the organization of the Family. As soon as this organic principle of association, acting by means of the Law of Sociability, applies itself to producing the union of the three elements, the man-woman-child is produced. Thus it is that it appears in the Aryan branch of the human family, and thus it is that there appears in the Hellenic, Italic, Germanic and Slavic branches of the Indo- European family, the portion of the Aryan family which, proceeding from India, established itself in Europe.
+
+> 35. La FAMILIA, ENTRE LOS MONGOLES, LOS SE- MITAS Y LOS CAMITAS. — Mucho antes, probablemente, de que el principio de sociabilidad virtualizara el germen de la Familia, en las antiplanicies del Tibet. primitiva mansión del tronco aria, va la Familia existía en la rama mongólica (China), en la rama semítica (Caldea y Arabia) y en la rama Camitica (Egipto y Abisinia), lugares en los cuales el germen general de la vida social es, cenando menos. coctánco de la familia ariana.
+
+35. The Family among the Mongols, the Semites and the Hamites.—Long before, probably, the principle of sociability brought into potency the germ of the Family on the plateaus of Tibet, the primitive abode of the Aryan stock, the Family already existed in the Mongolian branch (China), in the Semitic branch (Chaldea and Arabia) and in the Hamitic branch (Egypt and Abyssinia), places in which the general germ of social life is, at the least, coeval with the Aryan family.
+
+> Hoy mismo. si se compulsan atentamente las relaciones de los navegantes y de los exploradores de las islas y contimentes en estado de explovación, se puede comprohar la existencia del germen primitivo de la Familia en los tres elementos exclusivamente fisiológicos (el hombre. la mujer v el niño). y el primer embrión de la Familia en la trinidad sociótica hombre-mujer-niño.
+
+Even today, if the accounts of the navigators and of the explorers of islands and continents in a state of exploration are carefully compared, the existence of the primitive germ of the Family may be verified in the three exclusively physiological elements (the man, the woman and the child), and the first embryo of the Family in the sociotic trinity man-woman-child.
+
+> 36. PRIMERA EVOLUCIÓN DE La FamMiLta.—En
+
+36. First evolution of the Family.—In
+
+[PDF 141]
+
+> los primeros momentos de su organización, la Familia es 2 + 1 (dos más no), mada más; poro á medida que la fuerza de organización va actuando en el germen sociótico, el órgano se va también dilatando: ya, en el segundo estado social, cuando la barbarie está sedimentada y observa el equilibrio que ha de bastarle para proceder á estado superior de desarrollo, la Familia cs 2 +2 [dos más ene); es decir, que ya entonces, la Famiia es el resultado de una ugregación indefinida. Á medida que á la trinidad primitiva se van agregando los elementos afines, los padres del hombre, los de la mujer, los afines inmediatos de uno y otra, la Familia se va extendiendo y completando, en el modo, y hasta el punto, de que ella, por si sola constituye á veces el segundo órgano social, y da base siempre á la primera forma de gobierno civil: el patriarcado.
+
+— 133 — the first moments of its organization, the Family is 2 + 1 (two plus one), nothing more; but as the force of organization goes on acting in the sociotic germ, the organ also goes on expanding: already, in the second social state, when barbarism is settled and observes the equilibrium which must suffice it to proceed to a higher state of development, the Family is 2 + n (two plus en); that is to say, that already then the Family is the result of an indefinite aggregation. As the kindred elements go on being added to the primitive trinity, the parents of the man, those of the woman, the immediate kin of the one and the other, the Family goes on extending and completing itself, in such a manner, and to such a point, that it by itself alone at times constitutes the second social organ, and always gives the basis to the first form of civil government: the patriarchate.
+
+> Asi, se nos presenta, en las antiplanicies del Tibet, en los llanos del Senaar y en las angosturas de la peninsula helónica.
+
+Thus it presents itself to us on the plateaus of Tibet, on the plains of Shinar and in the narrows of the Hellenic peninsula.
+
+> La Familia, como todos los demás grupos sociales, está necesariamente sujeto á la Ley de los Medios, que unas veces la favorece y otras veces dificnlta su desenvolvimiento. Frecuentemente, la misma irregularidad en el funcionamiento general de la Sociedad, produce obstáculo en el desarrollo de la Familia. Por eso se nota muchas vecos en la historia general de da especie humana un estancamiento repentino en el desarrollo de la Familia, ó un anormal prevalecimiento, en él, de una tendencia, á expensas de otra tendencia natural del grupo. Asi se ve que, cuando la rama ariana que se establece cn la India empieza ¿ sufrir las consecuencias de la Jucha por la divinidad por cl poder, que se entabló desde el principio de su constitución, entre la casta sacerdotal ú [PDF 142] bramiúnica y la casta guerrcra ú Asatriya, la familia ario-gangósica, que había traido uno de los más bellos y atractivos ejemplares del patriarcado que se conocen en la Historia, vió sucesivamente modificado aquel noble ejemplar en Familia y constituida, pasar por todas las vicisitudes de la casta, alterándose el ideal de familia que había comenzado á realizarse según el prevalecimiento de una ú otra de las dos castas directivas, y según, cuando sobrevino la casta de los vaici- ¿las, y últimamente, cuando la de los sudras, corapletó la división social.
+
+The Family, like all the other social groups, is necessarily subject to the Law of Media, which at times favours and at other times hinders its unfolding. Frequently, the very irregularity in the general functioning of Society produces an obstacle to the development of the Family. That is why there is often noted in the general history of the human species a sudden stagnation in the development of the Family, or an abnormal prevalence in it of one tendency at the expense of another natural tendency of the group. Thus it is seen that, when the Aryan branch which establishes itself in India begins to suffer the consequences of the struggle for divinity and for power which was engaged from the beginning of its constitution between the sacerdotal or [PDF 142] — 134 — Brahmanic caste and the warrior or Kshatriya caste, the Aryo- Gangetic family, which had brought one of the most beautiful and attractive examples of the patriarchate known in History, saw that noble example in the Family already constituted successively modified, passing through all the vicissitudes of caste, the ideal of the family which had begun to be realized being altered according to the prevalence of one or the other of the two directing castes, and according as, when the caste of the Vaisyas supervened, and lastly, when that of the Sudras completed the social division.
+
+> 37. CARACTERES HISTÓRICOS DE ALGUNAS FAMI- LIAS HUMANAS.—En la organización de la familia semitica, que los libros sagrados del judaismo y de su derivado el cristianismo nos han presentado tempranamente como modelo de vida virtuosa, no 0s tanto, en realidad, la virtud lo que en ese ejemplar de familia nos seduce, cuanto la unidad de acción que, en lo bueno y en lo malo, manifiesta aquella organización, á la vez paternal y despótica, del primer grupo social. Sujeto también á las vicisitudes de los medios, ya religrosos, ya cducacionales, este grupo sufrió también, entre los semitas de la Caldea y de la Arabia, las influencias de los cambios operados en la constitución del grupo gencral de la Sociedad.
+
+37. Historical characters of some human families.—In the organization of the Semitic family, which the sacred books of Judaism and of its derivative Christianity have early presented to us as a model of virtuous life, it is not so much, in reality, the virtue that charms us in that example of the family, as the unity of action which, in good and in evil, that organization of the first social group, at once paternal and despotic, manifests. Subject also to the vicissitudes of media, now religious, now educational, this group also suffered, among the Semites of Chaldea and of Arabia, the influences of the changes wrought in the constitution of the general group of Society.
+
+> La familia helénica, que todavía se presenta al principio con un más dulce aspecto, va modificándose hasta el punto de que en los grupos helénicos deascendencia jónica, se hace cada vez más claustral, al paso que en el grupo dórico, por excelencia Esparta, concluye casi por disolverse, en la excesiva varonilidad de educación, atribuciones y objetivos que se dió alli á la mujer.
+
+The Hellenic family, which still presents itself at the beginning with a sweeter aspect, goes on being modified to the point that in the Hellenic groups of Ionian descent it becomes ever more cloistered, whilst in the Dorian group, Sparta par excellence, it ends almost by dissolving, in the excessive manliness of education, attributions and objects which was given there to woman.
+
+> 38. La FAMILIA ESTÁ EN El. PRINCIPIO DE SU EVOLUCIÓN.—]óstos tres tipos de familia han ido [PDF 143] apareciendo más 6 menos distintos, y con mayor ó menor atingencia al tipo del cual parten, se han manifestado en las ramas arianas que han sobrevenido, según la tendencia predominante de cada una de las sociedades: de aquí, en la familia itálica. 6 más bien, en la romana, el carácter jurídico de la familia; en la germánica, el carácter ético ó moral; en la familia eslava, el carácter afectivo.
+
+38. The Family is at the beginning of its evolution.— These three types of family have gone on [PDF 143] — 135 — appearing more or less distinct, and with greater or less connexion with the type from which they start, have manifested themselves in the Aryan branches which have supervened, according to the predominant tendency of each one of the societies: hence, in the Italic family, or rather, in the Roman, the juridical character of the family; in the Germanic, the ethical or moral character; in the Slavic family, the affective character.
+
+> En todo su decurso histórico, la Familia ha conservado siempre, merced á su fuerza institucional, una importancia tan decisiva en la organización general de la Sociedad, que, cuando se relaciona lo realizado por este grupo con el fin natural por realizar, no se puede menos que sentir tristeza al ver lo ilógicamente que procede el hombre.
+
+In the whole of its historical course, the Family has always preserved, thanks to its institutional force, so decisive an importance in the general organization of Society that, when what has been realized by this group is related to the natural end yet to be realized, one cannot but feel sadness at seeing how illogically man proceeds.
+
+> Todavía, dentro del florecimiento más completo á que han llegado las sociedades humanas, el grupo fundamental de todas ellas está, casi puede asegurarse, en el principio de su evolución: tan lenta é irregular ha sido ella.
+
+Even now, within the most complete flowering at which human societies have arrived, the fundamental group of them all is, it may almost be asserted, at the beginning of its evolution: so slow and irregular has that evolution been.
+
+> Para que hubiera sido regular, habría sido preciso que algo de lo realizado por ella diera siquiera el esbozo ú primer trazado contuso de lo que debe ser la orgunización de la Familia. Lejos de eso, las varias organizaciones de Familia que tenemos en la Historia, ni juntas ni separadas dan jamás el desarrollo lógico del grupo. A veces, como hemos visto en España, como se vió con tristeza en Atenas, como se vió con horror en Roma, y como hoy mismo se puede ver con repugnancia en casi todos los pueblos de la Tierra, la Familia ha muerto antos de llegar á madurez, buscando, á veces, como sucede hoy, un idcal de Familia.
+
+For it to have been regular, it would have been necessary that something of what was realized by it should give at least the sketch or first confused outline of what the organization of the Family ought to be. Far from that, the various organizations of the Family which we have in History, neither together nor separately, ever give the logical development of the group. At times, as we have seen in Spain, as was seen with sadness in Athens, as was seen with horror in Rome, and as can be seen with repugnance even today among almost all the peoples of the Earth, the Family has died before reaching maturity, seeking at times, as happens today, an ideal of the Family.
+
+> ¿Por eso. y para que la noción que hemos adquirido de este grupo, se muestre en una descripción [PDF 144] puntual de lo que él ha de scr cn su desarrollo normal, hagamos la descripción ideal del grupo.
+
+Therefore, and in order that the notion which we have acquired of this group may be shown in a precise description [PDF 144] — 136 — of what it is to be in its normal development, let us make the ideal description of the group.
+
+> 39. PAPEL QUE DESEMPEÑA JA FAMILIA EN EL ORGANISMO SOCIAL. DESCRIPCIÓN IDEAL DEL GRUPO. La familia, primer fundamento social, es decir, corporativo, por ese carácter corporativo, es el cimiento más fuerte, puesto que es el primero, pues to que está exclusivamente compuesto de elementos, de individuos, de la verdadera célula social. Siendo, por naturaleza, el cimiento social, la Familia ha propendido, desde el primer momento de su institución, á ser en todas partes un abreviado de la Sociedad general. En prucba de que este instinto suyo ha sido universal, es decir, se ha manifostado en un modo universal, en los diferentes especimenes de Familia que la Historia ha conocido, ahí están los datos que la Prehistoria y la Historia positiva suministran, para darnos idea de lo que la Familia ha tendido stcmpre 4 ser, pues que, reuniendo y relacionando esos datos, se podia dar una constitución general de la Familia, en que aparecieran como derechos, deberes y poderes de ella, los que, ya acá, ya allá, ya bien ayer, bien hoy, en tal florecimiento de civilización, ha tenido parcialmente.
+
+39. Part which the Family plays in the social organism. Ideal description of the group. The family, the first social, that is to say, corporative, foundation, is by that corporative character the strongest foundation, since it is the first, since it is composed exclusively of elements, of individuals, of the true social cell. Being by nature the social foundation, the Family has tended, from the first moment of its institution, to be everywhere an abridgement of general Society. In proof that this instinct of it has been universal, that is to say, has manifested itself in a universal manner, in the different specimens of the Family which History has known, there are the data which Prehistory and positive History furnish, to give us an idea of what the Family has always tended to be, since, by gathering and relating those data, a general constitution of the Family could be given, in which there would appear as its rights, duties and powers those which, now here, now there, now yesterday, now today, in this or that flowering of civilization, it has partially had.
+
+> Si nos desentendemos de la Historia, podremos trazar una constitución de la Familia, tan lógicamente fundada en el yue suponemos propósito ideal de esa institución, que para sicmpre le sirviera efectivamente de ideal; pero esto no sería ya una descripción de la Familia, sino una tentativa de abstracta organización. Por eso lo que hemos de hacer es reunir los datos lógicos á los históricos.
+
+If we disregard History, we shall be able to trace a constitution of the Family so logically founded on what we suppose to be the ideal purpose of that institution that it would serve it effectively as an ideal for ever; but this would no longer be a description of the Family, but an attempt at abstract organization. That is why what we have to do is to join the logical data to the historical.
+
+> Uniéndolos, he aqui lo que puede llegar y dehe llegar á ser la Familia.
+
+Uniting them, behold what the Family may come and ought to come to be.
+
+> Será un grupo, compuesto primordialmente del
+
+It will be a group, composed primordially of the
+
+[PDF 145]
+
+> hombre-mujer-niño, con cuantos elementos vivos, dos, cuatro, seis, puedan llegar á ser número de hijos.
+
+— 137 — man-woman-child, with as many living elements, two, four, six, as the number of children may come to be.
+
+> 40. Al lado, como institución complementaria, funcionará el Consejo de Familia, en el cual entrarán Jos padres de los esposos, y aquel nimero de deudos de urmbos cónyuges que los padres hubieren escogido y que los esposos no hubicren recusado.
+
+40. Beside it, as a complementary institution, there will function the Council of the Family, into which will enter the parents of the spouses, and that number of kinsfolk of both consorts whom the parents shall have chosen and whom the spouses shall not have rejected.
+
+> Allado del Consejo de Familia, el Consejo de Dirección, compuesto, en primer lugar, de aquellas personas de ambos sexos que hubieren ejercido, 0 actualmente ejerzan, actos de dirección, ó jurisdicción moral, sobre la Familia: tales, los maestros; los ministros de la, ú de las religiones de la casa; el, 4 los médicos de iguala; cl, ó los abogados consultores.
+
+Beside the Council of the Family, the Council of Direction, composed, in the first place, of those persons of both sexes who shall have exercised, or at present exercise, acts of direction, or moral jurisdiction, over the Family: such as the teachers; the minister or ministers of the religion or religions of the house; the physician or physicians engaged by the year; the consulting lawyer or lawyers.
+
+> La Familia, constituida de este modo, que es como resultaría constituida, si se tomaran en cuenta todos los datos que su historia suministra, sería á la vez dueña completa de su libertad y prosperidad: en el hogar, sería asesorada por sus propios intereses y por las decisiones del Consejo de Familia, y seria responsable de sus actos colectivos, como grupo (independientemente de su rosponsabilidad individual ante los tribunales comunes de justicia), por cuantos hechos contrarios al objeto concreto de su vida y al fin general de la Familia hubiera realizado. En otros términos: la Familia seria una sociedad de pocos en que todos los que directa ú indirectamente interesados en su subsistencia, prosperidad y dignidad, actuaran como entidades jurídicas, reunidas legalmente en tres consejos: el ejecutivo del hogar, desde antiguo constituido por el patriarcado, ariano, semítico y helénico; el consejo legislativo, constituido por el Consejo de Familia, según el embrión [PDF 146] que ofrecieran las tribus germánicas del Báltico, y con más atribuciones que las que actualmente le reconocen algunas legislaciones americanas y europeas; y, por último, el consejo de responsabidad, que estaría llamado á ejercer una especie de justicia del hogar, no para los casos individuales, que seguirían bajo la potestad de los padres de familia, y de los tribunales de justicia, según los casos, sino para aquellos casos de grupo ó de todo social en que la Familia, para evitar el riesgo de una apelación ú la justicia común. sometiera sus diferencias á un jurado legítimo y continuo.
+
+The Family, constituted in this manner, which is how it would be constituted if all the data which its history furnishes were taken into account, would be at once complete mistress of its liberty and prosperity: in the home, it would be counselled by its own interests and by the decisions of the Council of the Family, and it would be responsible for its collective acts, as a group (independently of its individual responsibility before the ordinary courts of justice), for whatever facts contrary to the concrete object of its life and to the general end of the Family it might have committed. In other terms: the Family would be a society of a few in which all those directly or indirectly interested in its subsistence, prosperity and dignity would act as juridical entities, legally united in three councils: the executive of the home, constituted from of old by the patriarchate, Aryan, Semitic and Hellenic; the legislative council, constituted by the Council of the Family, according to the embryo [PDF 146] — 138 — than those which the Germanic tribes of the Baltic offered, and with more attributions than certain American and European legislations at present allow it; and, lastly, the council of responsibility, which would be called to exercise a kind of justice of the hearth, not for individual cases, which would remain under the authority of the fathers of families and of the courts of justice, as the case might be, but for those cases of the group or of the social whole in which the Family, to avoid the risk of an appeal to the common justice, should submit its differences to a legitimate and continuous jury.
+
+> Aun asi, la Familia no llegaria nunca á ser lo que por su destino parece llamada á tratar de ser, sino cuando pueda reunir en su auxilio tantos cuantos elementos é instituciones complementarios de su vida puedan concurrir á hacer de ella una institución tan perfectible que sea un ejemplar de civilización.
+
+Even so, the Family would never come to be what by its destiny it seems called to try to be, save when it can gather to its aid as many elements and institutions complementary to its life as may concur to make of it an institution so perfectible that it shall be an exemplar of civilization.
+
+> $30 Descripción de la Tribu.
+
+§ 3.
+
+> 41. La TRIBU, CONSIDERADA FISIOLÓGICAMEN-TE.—Acabamos de ver que la Tribu es una de las evoluciones del Individuo social, y si sólo se tratara de patentizar la obra del Individuo en cada uno de los grupos de la Sociedad, nos bastaría con eso; pero como necesitamos también conocer en sí mismos cada uno de los grupos sociales, y no conoceríamos la Tribu propiamente tal, genéricamente tal. si sólo conociéramos en ella la influencia del Individuo que en ella actúa como elemento, debemos hacer una descripción más minuciosa de la Tribu.
+
+Description of the Tribe.
+
+41. The Tribe, considered physiologically.—We have just seen that the Tribe is one of the evolutions of the social Individual; and if it were only a question of making manifest the work of the Individual in each one of the groups of Society, that would suffice us; but since we need also to know each one of the social groups in itself, and since we should not know the Tribe properly as such, generically as such, if we knew in it only the influence of the Individual who acts in it as an element, we must make a more minute description of the Tribe.
+
+> 42. La Terbu, EN La HISTORIA .— ASÍ. como fisiológicamente es uno de los momentos de la [PDF 147] evolución del Individuo, asi, considerada históricamente, la Tribu es la primera evolución de la Familia: es la familia de familias; es la primera reunión permanente de hogares, nómados, cuando la Tribu es nómade, en el estado de salvajismo; de hogares trashumantes, cuando la Tribu es trashumante, en el cstado de barbaric; de hogares sedentarios, cuando la Tribu empieza á asentarse, en el estado de semibarbarie; de hogares recintados 0 reunidos dentro de un recinto, distinto del campo ilimitado, cuando la Tribu empieza á urbanizarse; de hogares inunicipales, cuando la Tribu es urós, cévitas, ciudad, villa, recinto completamente urbano.
+
+42. The Tribe in History.—Just as physiologically it is one of the moments of the [PDF 147] — 139 — evolution of the Individual, so, considered historically, the Tribe is the first evolution of the Family: it is the family of families; it is the first permanent union of hearths, nomadic, when the Tribe is nomadic, in the state of savagery; of migratory hearths, when the Tribe is migratory, in the state of barbarism; of sedentary hearths, when the Tribe begins to settle, in the state of semi-barbarism; of enclosed hearths, or hearths gathered within an enclosure distinct from the unbounded field, when the Tribe begins to become urban; of municipal hearths, when the Tribe is urbs, civitas, city, town, a completely urban enclosure.
+
+> 43. EL Caso DE ATENAS, ETC.—Hay un momento en el desarrollo de la Tribu, que es dificilísimo discernir en la Historia, y que ya tros veces ha ofrecido caracteres singularmente distintivos. Esc momento, que no se prolonga para la mayor parte de las tribus, en tal modo se prolongó en Atenas, en Roma y en las republiquitas italianas de la Edad Media, que la Tribu se constituyó en gente, la gonte en ciudad única y la ciudad única cn Estado.
+
+43. The case of Athens, etc.—There is a moment in the development of the Tribe which is most difficult to discern in History, and which three times already has offered singularly distinctive characters. That moment, which for the greater part of tribes is not prolonged, was so prolonged in Athens, in Rome, and in the little Italian republics of the Middle Ages, that the Tribe constituted itself into a gens, the gens into a single city, and the single city into a State.
+
+> Esta anómala cristalización de la Tribu, es un hecho tan fuera del orden natural del desarrollo fisiológico é histórico, que es una de las más randes dificultades que ofrecer pueda la critica istórica el discernir lo que hay de peculiarmente propio de la tribu-estado, en la historia de la civilización, en que ciudades como Atenas, como Roma, como Venecia ó Génova, han monopolizado la actividad civilizatriz de una familia nacional ó por lo menos étnica.
+
+This anomalous crystallization of the Tribe is a fact so far outside the natural order of physiological and historical development, that it is one of the greatest difficulties historical criticism can offer, to discern what is peculiarly proper to the tribe-state in the history of civilization, in which cities such as Athens, such as Rome, such as Venice or Genoa, have monopolized the civilizing activity of a national, or at least of an ethnic, family.
+
+[p. 140]
+
+> $ 4.2 Vida de la Familia, de la Tribu y de la Gente.
+
+§ 4.
+
+> 44. QUE ES «LA GENTE».—Asi como el Individuo, en su desarrollo, pasa 4 Familia, y de Familia 4 Tribu, y de Tribu á Gente. y de Gente á Familia de Naciones, y de Familia de Naciones al conjunto convergente de seres racionales que, con el nombre de Humanidad, á la vez concentra y títunde todas las fuerzas vitales de la especie; así la Gente fué, primero, una reunión de tribus ó una tribu saucionada por las divisiones naturales del trabajo y por la parcelación irremediable del crecimiento económico.
+
+Life of the Family, of the Tribe, and of the Gens.
+
+> 45. EVOLUCIÓN HISTÓRICA DE-LA 'P'riBU.—Para que veamos bien los cambios y evoluciones de la Gente, empecemos por verla bosquejarse en la Historia,
+
+44. What “the Gens” is.—Just as the Individual, in his development, passes into the Family, and from the Family into the Tribe, and from the Tribe into the Gens, and from the Gens into the Family of Nations, and from the Family of Nations into the convergent whole of rational beings which, under the name of Humanity, at once concentrates and diffuses all the vital forces of the species; so the Gens was, at first, a union of tribes, or a tribe sanctioned by the natural divisions of labour and by the unavoidable parcelling of economic growth.
+
+> La Tribu histórica, es decir, la Tribu, según se ha formado en los casos generales de la Historia, concluyó por constituir un todo homogénco, que residía en un recinto urbano.
+
+45. Historical evolution of the Tribe.—That we may see well the changes and evolutions of the Gens, let us begin by watching it take outline in History.
+
+> Cuando de este recinto urbano cmpezaron á salír familias que no podian resistir ¿ las dificultades de la vida urbana, y que se establecieron en los campos, para mejor vivir, este primer seccionamiento de la Tribu, producido por la división del trabajo, se fué haciendo cada vez mayor, á medida que se iba complicando la vida de los individuos y de las familias urbanas. Entonces, separándose unas de otras las tribus, que juntas componían la Gente, cada una de ellas fué formando un centro de población que fué á la vez, por tanto, un centro de necesidades económicas, jurídicas, pedagógicas, morales y militares, y así se fud formando la región.
+
+The historical Tribe, that is to say, the Tribe as it has been formed in the general cases of History, ended by constituting a homogeneous whole, which dwelt within an urban enclosure.
+
+When from this urban enclosure there began to go forth families which could not withstand the difficulties of urban life, and which settled in the fields, the better to live, this first sectioning of the Tribe, produced by the division of labour, went on growing ever greater, in measure as the life of the urban individuals and families grew more complicated. Then, the tribes which together composed the Gens separating one from another, each one of them went on forming a centre of population which was at the same time, therefore, a centre of economic, juridical, pedagogical, moral, and military necessities; and thus the region was gradually formed.
+
+[p. 141]
+
+> 46. EL ÁrICA, La ARGÓLIDA, El. PELOPONESO. MESENIA, MACEDONIA.—Á veces esta región, formada por el desprendimiento de una gente, constituia por sí misma un cstado nacional, según se ve en la historia de la familia helénica; pues el Atica, la Argólida, cl Peloponeso, Mesenia y Macedonia, ete., no son otra cosa más que el desprendimiento de la familia helénica, aprovinciados, arregionados por los limites más ó menos naturales de la región en que se pusieron á vivir.
+
+46. Attica, Argolis, the Peloponnese, Messenia, Macedonia.—At times this region, formed by the detaching of a gens, constituted of itself a national state, as is seen in the history of the Hellenic family; for Attica, Argolis, the Peloponnese, Messenia, and Macedonia, etc., are nothing other than the detachment of the Hellenic family, made into provinces, made into regions, by the more or less natural limits of the region in which they set themselves to live.
+
+> Cuando, á pesar del arregionamiento, prevaleció la unidad étnica, y el estado nacional se constituyó unitariamente, en modo que las partes obedecian espontáneamente al todo, y las extremidades se subordinaban por si mismas á un centro directivo, la gente lleguba á su más alto grado de desarrollo histórico y se producía la Nación, que, en realidad, sólo en estos últimos tiempos se ha presentado en la Historia como una entidad viva y verdadera.
+
+When, in spite of the division into regions, ethnic unity prevailed, and the national state was constituted unitarily, in such manner that the parts spontaneously obeyed the whole, and the extremities subordinated themselves of their own accord to a directing centre, the gens reached its highest degree of historical development, and the Nation was produced, which, in reality, only in these latter times has presented itself in History as a living and veritable entity.
+
+## SECTION 3
+
+## DESCRIPTION OF SOCIETY AS A POTENTIAL FORCE
+
+> SECCION 3,* DESCRIPCIÓN DÉ LA SOCIEDAD EN CUANTO FUERZA POTENCIAL
+
+47. The two forces of Society. Capacities latent in every Society.—Human Society, in the course of its activity, shows two active forces: the one actual, that is to say, which acts, which belongs to every day and to every moment of Society; the other potential, as one might say, a latent force, intimate, organic, resulting from the very existence of the social being, which, therefore, is the real companion of the being itself, but which does not always manifest itself as it can, and which, at times, cannot present itself as it is.
+
+> 47. LAS DOS FUERZAS DE LA SOCI“DAD. CAPACI- DADES LATENTES EN TODA SocieDaD.—La Sociedad humana, en el transcurso de sn actividad, muestra dos fuerzas activas: la una, actual, es decir. que actúa, que es de todos los días y de todos los momentos de la Sociedad; la otra, potencial, como si dijéramos, una fuerza latente, intima, orgánica, resultante de la misma existencia del sér social, que, por tanto, es efectiva compañera del sér mismo, pero que no siempre se manifiesta como puede, y que, algunas veces, no puede presentarse como cs.
+
+This potential force of Society in general
+
+> Esta fuerza potencial de la Sociedad general,
+
+[PDF 150]
+
+> corresponde á todo lo que puede realizar la Sociedad, ya lo haya realizado, ya esté en vías de realizarlo, ya el realizarlo sea su propósito ideal. 48. Lo QUE PUEDE REALIZAR LA SOCIEDAD.—Lo que la Sociedad puedo realizar, es: _La prosperidad relativa, por medio de su potencla económica; La libertad relativa, por medio de su potencia jurídica; La perfección relativa, por medio de su potencia pedagógica; El bien relativo, por medio de su potencia religiosa ó moral; Y la armonia relativa, por medio de su potencia conservadora.
+
+— 142 — corresponds to all that Society can realize, whether it have already realized it, whether it be on the way to realizing it, or whether the realizing of it be its ideal purpose.
+
+> Potencia económica,
+
+48. What Society can realize.—What Society can realize is:
+
+> 49. EL ORDEN ECONÓMICO.—Á prior?, se ve, Con la razón, que no puede haber ningún inconveniente racional ni real para que la Sociedad humana llegue al máximum de prosperidad económica. A posteriori, no puede tampoco haber inconveniente, puesto que, no obstante el imperfecto desenvolvimiento de las fuerzas económicas de las socicdades lrumanas, cada vez aparece más visible en ellas la fuerza que las compele á someterse á un orden económico, por lejos de cse orden que se presenten las relaciones entre cl trabajo y el capital, o, en términos inás gencrales y más exactos, entre la producción y cl consumo.
+
+Relative prosperity, by means of its economic potency;
+
+Relative liberty, by means of its juridical potency;
+
+Relative perfection, by means of its pedagogical potency;
+
+Relative good, by means of its religious or moral potency;
+
+And relative harmony, by means of its conserving potency.
+
+§ 1.
+
+Economic Potency.
+
+49. The economic order.—A priori, one sees, with the reason, that there can be no rational or real obstacle to human Society’s reaching the maximum of economic prosperity. A posteriori, neither can there be any obstacle, since, notwithstanding the imperfect unfolding of the economic forces of human societies, there appears ever more visibly in them the force which compels them to submit to an economic order, however far from that order the relations between labour and capital may present themselves, or, in more general and more exact terms, between production and consumption.
+
+> Si, pues, a posteriori no hay inconveniente en llegar al orden económico, puesto que la misma indisciplina económica de los hombres se resigna al orden, y si a priori no hay tampoco inconveniente cn prever como necesidad racional el estahlecimiento del orden cconómico, es indudable [PDF 151] que la Sociedad tiene la potencia de cese orden, y ue puede lleg:ar racionalmente á él; es decir, puéde, está en su potencia orgánica, en su potestad biológica, el encaminar sus esfuerzos hacia ese orden. 50, EN QUE CONSISTE J.A POTENCIA ECONÓMICA DE LA SociIEDAD.—Mas, como el hombre es hijo de lo relativo y él no puede fabricar nada que sea absoluto, la potencia económica de las sociedades está reducida, por la misma naturaleza, á una posibilidad parcial y relativa.
+
+If, then, a posteriori there is no obstacle to reaching the economic order, since the very economic indiscipline of men resigns itself to order, and if a priori there is no obstacle either to foreseeing as a rational necessity the establishment of the economic order, it is beyond doubt [PDF 151] — 143 — that Society has the potency of that order, and that it can rationally attain to it; that is to say, it can; it is within its organic potency, within its biological power, to direct its efforts towards that order.
+
+> Esa posibilidad parcial y relativa es la de llerá una prosperidad que también ha de ser reabiva, cs dectr, que ha de estar sujeta ¿ relación entre dos factores necesarios. Por tanto, si esos dos factores necesarios son: la producción por una parte y el consumo por la otra, y si la relación constante entre csos dos factores es lo que llamamos Ley Económica de la Sociedad, es evidente que la potencia económica de la Sociedad se refiere á la posibilidad de cumplir la ley natural en tal modo, que dé por resultado la prosperidad relativa.
+
+50. Wherein the economic potency of Society consists. —But, as man is the child of the relative, and can fabricate nothing that is absolute, the economic potency of societies is reduced, by nature itself, to a partial and relative possibility.
+
+> De aqui se deduce que la fuerza potencial de la Sociedad , en cuanto se refiere 4 su prosperidad material, corresponde en un modo tan intimo ú la necesidad en que está de cumplir la ley económica, que, mientras ésta no se cumpla, no puede darse la prosperidad relativa á que puede aspirar la Sociedad humana.
+
+That partial and relative possibility is that of attaining to a prosperity which also must be relative, that is to say, which must be subject to a relation between two necessary factors. Therefore, if those two necessary factors are production on the one hand and consumption on the other, and if the constant relation between those two factors is what we call the Economic Law of Society, it is evident that the economic potency of Society refers to the possibility of fulfilling the natural law in such manner that it shall give relative prosperity as its result.
+
+> 51. Digámoslo en términos que ayuden á pensar en la necesidad de contribuir á la fuerza potencial del trabajo humano; digamos que, para llegar á producir el bienestar material de las sociedades, es necesario saber trabajar en modo que la producción esté en razón directa del consumo y que el consumo esté en relación de armonia con os tros factores del Trabajo.
+
+Hence it is deduced that the potential force of Society, in so far as it refers to its material prosperity, corresponds in so intimate a manner to the necessity in which it stands of fulfilling the economic law, that, so long as this is not fulfilled, the relative prosperity to which human Society can aspire cannot come to pass.
+
+51. Let us say it in terms that may help us to think of the necessity of contributing to the potential force of human labour; let us say that, in order to come to produce the material well-being of societies, it is necessary to know how to labour in such manner that production shall be in direct ratio to consumption, and that consumption shall be in a relation of harmony with the three factors of Labour.
+
+[p. 144]
+
+> $ 2 o Potencia jurídica.
+
+§ 2.
+
+> 52, EL ORDEN PúBt.ico.—El espectáculo que otrecen los pueblos de origen anglosajón, en América, en Africa, en Asia y en Oceanta, es el mejor que se puede aducir en prucba de que hay cn las sociedades humanas una potencia de Derecho que las hace capaces de establecer relaciones tan firmes entre derechos y poderes, gobernantes y gobernados, que nada las altere.
+
+Juridical Potency.
+
+> Con csa inalterabilidad de relaciones entre la Sociedad y el Estado, hasta para producir el orden relativo que llamamos orden público.
+
+52. Public order.—The spectacle offered by the peoples of Anglo-Saxon origin, in America, in Africa, in Asia, and in Oceania, is the best that can be adduced in proof that there is in human societies a potency of Law which makes them capable of establishing relations so firm between rights and powers, governors and governed, that nothing alters them.
+
+> Si de las que fueron, ó son, colonias inglosas, pasamos á las que fucron colonias españolas en América, vemos también en cllas, aunque en sentido inverso, la potencia jurídica de la Sociedad. La vemos en sentido inverso, porque ninguno de los pueblos de ese origen ha logrado todavía asegrurar su orden público en modo que no pueda, «e un momento á otro. sobrevenit, como sucedió cn la Argentina en 1890 y en Chile en 1891, un disturbio de carácter grave, promovido por lachas de pasiones personales.
+
+That unalterableness of relations between Society and the State suffices to produce the relative order which we call public order.
+
+> Es indudable que si en estos países de origen español, como cn la misma España, no actuara secretamente la potencia juridica que da fuerza al Derecho y derecho á la fuerza organizada, ni España ni sus antiguas colonias podrian resistir el fermento de pasiones, de ignorancias y de vicios, que las amenaza día tras día.
+
+If from those which were, or are, English colonies we pass to those which were Spanish colonies in America, we see in them also, though in an inverse sense, the juridical potency of Society. We see it in an inverse sense, because none of the peoples of that origin has yet succeeded in securing its public order in such manner that there may not, from one moment to another, supervene, as happened in the Argentine in 1890 and in Chile in 1891, a disturbance of grave character, provoked by struggles of personal passions.
+
+It is beyond doubt that if in these countries of Spanish origin, as in Spain herself, there did not secretly act the juridical potency which gives force to Law and right to organized force, neither Spain nor her former colonies could withstand the ferment of passions, of ignorances, and of vices, which threatens them day after day.
+
+> Ese doble ejemplo de estabilidad é inestabilidad que presenta el máximum v el minimum de potencia juridica, da los dos extremos del camino llasta ahora recorrido por el Derecho, en su obra [PDF 153] de organización y ordenación. Efectivamente, desde el principio de las organizaciones sociales comenzó esta actuación del Derecho que, á través de evoluciones incesantes, ha legado 4 producir sociedades de tipo jurídico, como las que hemos mencionado. Ese no es todavía el exponente definitivo de la potencia juridica de la. Sociedad, porque todavía hay mucho más que hacer para asegurar y normalizar el Derecho activo, ó práctico, y el Derecho institucional, ó teórico.
+
+That double example of stability and instability which the maximum and the minimum of juridical potency present gives the two extremes of the road hitherto travelled by Law, in its work [PDF 153] — 145 — of organization and ordering. In effect, from the beginning of social organizations there commenced this action of Law which, through incessant evolutions, has come to produce societies of juridical type, such as those we have mentioned. That is not yet the definitive exponent of the juridical potency of Society, because there is still much more to be done in order to secure and to normalize active, or practical, Law, and institutional, or theoretical, Law.
+
+> 53. Lo QUE ES LA POTENCIA DEL DERECHO.—AsÍ como en el orden económico hemos visto que la otencia económica es la capacidad que la Sociedad tiene de llegar al cumplimiento de la Ley del Trabajo, asi, en el orden jurídico, la potencia jurídica está en la capacidad que la Sociedad tiene de llegar á una ponderación ó equilibrio tan estable de los derechos y los poderes, que este equilibrio abarque la serie entera de las funciones sociales y sea orden económico, orden jurídico, orden pedagógico, orden religioso ó moral y orden mecánico. En otros términos: la Sociedad está en posibilidad (potencia) de cumplir en tal modo todas y cada una de las leyes naturales de ella misma, que se establezca por sí mismo el equilibrio general.
+
+53. What the potency of Law is.—Just as in the economic order we have seen that economic potency is the capacity which Society has of attaining to the fulfilment of the Law of Labour, so, in the juridical order, juridical potency lies in the capacity which Society has of attaining to a balance or equilibrium of rights and powers so stable that this equilibrium shall embrace the entire series of social functions, and be economic order, juridical order, pedagogical order, religious or moral order, and mechanical order. In other terms: Society is in possibility (potency) of fulfilling each and every one of its own natural laws in such manner that the general equilibrium shall establish itself of itself.
+
+> Si se atribuye á la potencia jurídica la capacidad de contribuir 4 hacer efectivas las otras capacidades sociales, se hace asi en virtud del conocimiento que se tiene de lo universal y omnimoda. que es la libertad; como que la libertad relativa es el resultado á que puede llegar la potencia jurídica, cuando ésta ha dado su fruto, basta aplicarlo á las demás actividades para estimularlas.
+
+If to juridical potency there is attributed the capacity of contributing to make the other social capacities effective, it is so done by virtue of the knowledge we have of how universal and all-embracing liberty is; since relative liberty is the result to which juridical potency can attain, when this has borne its fruit it suffices to apply it to the other activities in order to stimulate them.
+
+[p. 146]
+
+> Potencia pedagógica.
+
+§ 3.
+
+> 54. La SOCIEDAD Y LA EDUCACIÓN COMUN.—La Sociedad puede realizar la perfección relativa por medio de su potencia pedagógica. Cuando ha organizado su educación comun en modo que realice todas sus funciones por medio de cuantos órganos sea necesario, el mejoramiento del sér humano, en lo fisico y en lo psiquico, como fuerza bruta y como fuerza inteligente, como individuo humano y como elemento social, es consecuencia tan natural, que impensada 6 insensiblemente se va produciendo el perfeccionamiento social.
+
+Pedagogical Potency.
+
+> Es claro que ese perfeccionamiento será siempre relativo, porque tendrá que estar en relación con la naturaleza relativa del sér humano. En modo que el aumento de aptitudes para hacer cada vez mejor las cosas que se hacen, y para mejor pensar las cosas que se piensan, y para mejor sentir las cosas que se sicnten, eso, y sólo eso, es lo que entendemos por perfeccionamiento relativo; pues nada humano, ni en la vida humana ni cn el planeta de los humanos, puede salir de los límites á que todas las cosas humanas están sujetas; porque, por una parte, el planeta es extensión limitada, fuera de la cual no puede el hombre distinguir otra cosa que aquellas de que es capaz por el ejercicio de su limitado entendimiento, y, pos otra parte, este limitado entendimicnto del hombre establece por sí solo una relación que hace imposible todo lo que se salga fucra de los límites de nuestra capacidad intelectual.
+
+54. Society and common education.—Society can realize relative perfection by means of its pedagogical potency. When it has organized its common education in such manner that it performs all its functions by means of as many organs as may be necessary, the improvement of the human being, in the physical and in the psychic, as brute force and as intelligent force, as human individual and as social element, is so natural a consequence that social perfecting goes on producing itself unthought of, or insensibly.
+
+It is clear that that perfecting will always be relative, because it will have to stand in relation to the relative nature of the human being. So that the increase of aptitudes for doing ever better the things that are done, and for better thinking the things that are thought, and for better feeling the things that are felt, that, and that alone, is what we understand by relative perfecting; for nothing human, neither in human life nor on the planet of human beings, can go beyond the limits to which all human things are subject; because, on the one hand, the planet is a limited extension, outside of which man can distinguish nothing other than those things of which he is capable by the exercise of his limited understanding; and, on the other hand, this limited understanding of man establishes of itself alone a relation which makes impossible all that goes outside the limits of our intellectual capacity.
+
+> Es verdad que esta misma capacidad intelectual es perfectible; pero lo cs relativamente, con [PDF 155] relación á sus medios y fines naturaJes. Los fines de la razón humana son: ci conocimiento de la verdad tal y como es contenida en la realidad que afecta á nuestros sentidos, y el conocimiento de la realidad que afecta á nuestra conciencia, en cuanto nuestra conciencia corresponde normalmentc 4 las actividades de nuestra mento.
+
+It is true that this same intellectual capacity is perfectible; but it is so relatively, with [PDF 155] — 147 — relation to its natural means and ends. The ends of human reason are: the knowledge of truth such as it is contained in the reality which affects our senses, and the knowledge of the reality which affects our consciousness, in so far as our consciousness normally corresponds to the activities of our mind.
+
+> 55. LL PROGRESO HUMANO.—Los perfeccionamientos de una época pueden ser superiores á los de otra época histórica, ya anterior, ya posterior, al modo como nuestros perfeccionamientos individuales pueden ser en un tiempo mayores que cn otro. En general, se puedo decir que nosotros nos perfeccionamos en razón y á medida del crecimiento de nuestras capacidades fisicopsiquicas. En general, también, las sociedades se perfeccionan según el crecimiento de sus facultades fisico-psiquicas: de lo cual resulta que el límite del perfeccionamiento individual y social es: la capacidad de desarrollo físico-psiquico del hombre.
+
+55. Human progress.—The perfectings of one epoch may be superior to those of another historical epoch, whether earlier or later, in the same way as our individual perfectings may be greater at one time than at another. In general, it may be said that we perfect ourselves in ratio to, and in measure with, the growth of our physico-psychic capacities. In general, also, societies perfect themselves according to the growth of their physico-psychic faculties: whence it results that the limit of individual and social perfecting is the capacity of physico-psychic development of man.
+
+> Siendo, pues, perfeccionamiento relativo el á que podemos aspirar, y sabiendo que eu ningún modo puede ser indefinido, sino relativo, la potencia pedagógica de la Sociedad no puede pasar de los límites y relaciones á que la naturaleza ha subordinado nuestras fuerzas físico-psiquicas. Esa es la razón por la cual es relativo, y en ningún modo puede ser indefinido el progreso humano: en modo que no siendo nuestra potencia pedagógica más que nuestra capacidad de llegar al perfeccionamiento relativo, y no siendo este perfeccionamiento otra cosa más que el progreso 0 desarrollo natural de las cosas, es claro que si el progreso es relativo, tendrá que ser relativo el perfeccionamiento.
+
+Since, then, it is relative perfecting to which we can aspire, and since we know that it can in no wise be indefinite, but relative, the pedagogical potency of Society cannot pass beyond the limits and relations to which nature has subordinated our physico-psychic forces. That is the reason why human progress is relative and can in no wise be indefinite: so that, our pedagogical potency being nothing more than our capacity of attaining to relative perfecting, and this perfecting being nothing other than the progress or natural development of things, it is clear that, if progress is relative, perfecting will have to be relative.
+
+[p. 148]
+
+> 5 4, Potencia religiosa, 6 moral.
+
+§ 4.
+
+> 56. Er BIEN RELATIVO.—Lo que puede realizar la Sociedad como potencia religiosa, ó moral, es cl Bien relativo. Veamos cómo:
+
+Religious, or Moral, Potency.
+
+> Independientemente de la fuerza de asociación, gobernada, dirigida por la Ley de Sociabilidad, y probablemente como uno de los medios naturales para hacer mús precisa esa ley, haciendo más natural la fuerza, cl hombre social se siente, se conoce y se quiere atraido á la unión más íntima posible con el hombre. Obedeciendo inconscicntemente á esta triple atracción á que lo oblia su naturaleza, en todas partes y de todos modos. el hombre busca la manera de realizar esta unión intima con todos sus congéneres. Así es somo en todas las actividades de la vida humana se ve á los hombres proceder en una manera tan wniforme y tan unánime, que parecen, y efectivamente son. como ya hemos dicho, las células, los órganos celulares, primordiales, fundamentales, del cuerpo social. Asi es, también, como, en virtud de esta concurrencia de órganos elementales. puede la Sociedad realizar efectivamente. en un modo efectivamente fisiológico, todas y cada una de las funciones de su vida colectiva. desde la del Prabajo hasta la de la Conservación. Asi es. en cousecuencia, como el sér social puede efectuar las funciones de la civilización. Así es, concretándonos á nuestro tema, como puede realizarse la función del Bien.
+
+56. Relative Good.—What Society can realize as religious, or moral, potency is relative Good. Let us see how:
+
+Independently of the force of association, governed and directed by the Law of Sociability, and probably as one of the natural means of making that law more precise by making the force more natural, social man feels, knows, and wills himself drawn to the most intimate union possible with man. Unconsciously obeying this threefold attraction to which his nature constrains him, everywhere and in every manner man seeks the way of realizing this intimate union with all his fellows. Thus it is that in all the activities of human life men are seen to proceed in a manner so uniform and so unanimous that they seem to be, and in effect are, as we have already said, the cells, the cellular organs, primordial, fundamental, of the social body. Thus it is, also, that, by virtue of this concurrence of elementary organs, Society can effectively realize, in an effectively physiological manner, each and every one of the functions of its collective life, from that of Labour to that of Conservation. Thus it is, in consequence, that the social being can perform the functions of civilization. Thus it is, to confine ourselves to our theme, that the function of the Good can be realized.
+
+> 57. LAS RELIGIONES.—Con efecto: la unión reñexiva de los hombres, con el fin de mejorar su 'onducta, su corazón y sus afectos. su conciencia y sus reglas de conciencia. se efectúa paula[PDF 157] tinamente, sin previa deliberación ni determinación, siempre que esa operación del Bien se intente, ó se efectúe, cn nombre de un interés universal, y perfectamente común á todos los seres de razón y de conciencia, pero con la condición de un interés extramundano. Es decir; esta reasociación de los hombres para fines ulteriores á la vida humana; esta religación de voluntades y de conciencias para realizar un fin que sólo en esa, manera puede realizarse, eso es lo que constituye las religiones positivas.
+
+57. Religions.—In effect: the reflective union of men, with the end of bettering their conduct, their heart and their affections, their conscience and their rules of conscience, is effected gradu- [PDF 157] — 149 — ally, without previous deliberation or determination, whenever that operation of the Good is attempted, or effected, in the name of a universal interest, perfectly common to all beings of reason and of conscience, but with the condition of an extramundane interest. That is to say: this re-association of men for ends beyond human life; this re-binding of wills and of consciences in order to realize an end which can be realized only in that manner, that is what constitutes the positive religions.
+
+> Estas religiones positivas, son necesariamente progresivas, porque son naturalmente evolutivas.
+
+These positive religions are necessarily progressive, because they are naturally evolutive. They progress, because they evolve. It is neither more nor less than what happens with the other functions of civilization. This much is true: the end is more elevated, since it gives a higher objective to sociability.
+
+> rogrcsan , porque evolucionan. No es más ni es menos de lo que acontece con las demás funciones do la civilización. Eso sí, el fin es más elevado, pucsto que da un objetivo más alto á la sociabilidad.
+
+That higher objective, which religion gives to sociability, by no means begins by being the highest of objectives, nor does it in effect become the highest, save in the extraordinary cases in which the struggle for religion assumes the representative character of the entire civilization.
+
+> Ese objetivo más alto, que la religión da á la sociabilidad, no empieza en modo alguno por ser el más alto de los objetivos, ni efectivamente se convierte en el más alto, sino en los casos extraordinarios en que la lucha por la religión asume el carácter representativo de la civilización entera.
+
+> 58. EVOLUCIÓN DE LAS IDEAS RELIGIOSAS.—Decimos que en un principio la potencia religiosa de la Sociedad no cs el fin más alto de ella, porque—á Juzgar por el desenvolvimiento de las sociedades humanas, no por hipótesis geológicas, 0 prehistóricas, ni por inducciones más ó menos rígidas y exactas, sino por la experimentación directa que en nuestros tiempos han favorecido las exploraciones de nuestros continentes ignorados, como el de Australia, como el de Africa, como cl de América, en la parte aún ocupada por tribus primitivas—la religión empieza siempre [PDF 158] por un movimiento de ánimo determinado, por un acto de sensibilidad fisico-psiquica, más física que psiquica, en que para nada entra el problema de las causas finales. Este problema, de la primera y última causa, de la causa de las causas, del origen de la realidad y de la verdad, no se plantea exactamente, sino en estados avanzadisimos de cultura, y, nunca, por las muchedumbres, y, nunca, por grupos sociales, y, nunca, por los sacerdocios, sino por algunos que otros sacerdotes efectivos, por alguno que otro pensador desinteresado, por alguno que otro contemplador perplejo de la realidad, y por todos aquellos constructores de sistemas filosóficos que, obedeciendo inconscientemente á la ley de los tres estados intelectuales, fabrican: primero, la teología O la filosofía teológica ; luego, la metafísica 6 la filosofía alternativamente politeísta. monoteista, vanteista, pesimista y ecléctica; y, por último, la filosofía positiva, fundada en las verdades de las ciencias positivas, ó en las verdades de las ciencias demostradas, que. hasta ahora, ó no pasa de la línea de lo incogmnoscible. ú fabrica religiones e posteriori, fundadas en el conocimiento de que la Historia suministra invariablemente como uno de los datos de la actividad humana la fabrivación de religiones.
+
+58. Evolution of religious ideas.—We say that in the beginning the religious potency of Society is not its highest end, because—to judge by the unfolding of human societies, not by geological or prehistoric hypotheses, nor by more or less rigid and exact inductions, but by the direct experiment which in our times the explorations of our unknown continents have favoured, such as that of Australia, such as that of Africa, such as that of America, in the part still occupied by primitive tribes—religion always begins [PDF 158] — 150 — with a determinate movement of the mind, with an act of physico-psychic sensibility, more physical than psychic, into which the problem of final causes enters not at all. This problem, of the first and last cause, of the cause of causes, of the origin of reality and of truth, is not exactly posed save in most advanced states of culture; and never by the multitudes, and never by social groups, and never by the priesthoods, but by some few genuine priests, by some few disinterested thinkers, by some few perplexed contemplators of reality, and by all those builders of philosophical systems who, unconsciously obeying the law of the three intellectual states, fabricate: first, theology or theological philosophy; then, metaphysics, or a philosophy alternately polytheistic, monotheistic, pantheistic, pessimistic, and eclectic; and, lastly, positive philosophy, founded on the truths of the positive sciences, or on the truths of the demonstrated sciences, which, hitherto, either does not pass beyond the line of the unknowable, or fabricates religions a posteriori, founded on the knowledge that History invariably furnishes the fabrication of religions as one of the data of human activity.
+
+> 59. FIN DE LA RELIGIÓN. POTENCIA DE LAS CREENCIAS RELIGIOSAS Y DE LAS IDEAS MORALES.— Prescindiendo de la descripción que ya, por otra yarte, se ha dado, en la Sociología induetiva, nos asta el conocimiento de los dos hechos extremos que acabamos de afirmar, para poder descubrir la fuerza potencial de las re igiones.
+
+59. End of religion. Potency of religious beliefs and of moral ideas.—Setting aside the description which, moreover, has already been given in Inductive Sociology, the knowledge of the two extreme facts which we have just affirmed suffices us for discovering the potential force of religions.
+
+> Esos dos hechos: que la religión no es en un principio el fin más alto, y que no llega 4 ser el in más alto, sino en desarrollos extraordinarios [PDF 159] de la cultura moral é intelectual; esos dos hechos patentizan cl carácter evolutivo que la religión, como Cualquier otro fin de vida humana, tiene en el proceso de la Historia. Este carácter evolutivo de la religión, indica un principio muy bajo y un fin muy alto: de lo cual, necesariamente ha de resultar del camino de lo más bajo 4 lo más alto, una seric de adelantos de la idea religiosa, que, como todo otro adelanto, llevará la huella de luchas violentas con la realidad, de caidas dolorosas, de cxaltaciones imprudentes, de transacciones con el medio, de imposiciones violentas contra el medio, de acomodamientos con la ignorancia circunstante, de acerbas luchas contra la cultura creciente, de atentados contra la verdad, de sobrehumanos esfuerzos para hacer de la verdad suma, de la belleza suma, del sumo bien, el alimento espiritual de las sociedades.
+
+Those two facts—that religion is not in the beginning the highest end, and that it does not come to be the highest end save in extraordinary developments [PDF 159] — 151 — of moral and intellectual culture—those two facts make manifest the evolutive character which religion, like any other end of human life, has in the process of History. This evolutive character of religion indicates a very low beginning and a very high end: whence, necessarily, there must result from the road from the lowest to the highest a series of advances of the religious idea which, like every other advance, will bear the trace of violent struggles with reality, of painful falls, of imprudent exaltations, of compromises with the medium, of violent impositions against the medium, of accommodations with the surrounding ignorance, of bitter struggles against growing culture, of outrages against truth, of superhuman efforts to make of the supreme truth, of the supreme beauty, of the supreme good, the spiritual nourishment of societies.
+
+> Esta capacidad de llegar á concebir el ideal religioso, que, en resumidas cuentas, no es más que la ley natural del bien puesta á la vista de la conciencia humana, por la misma naturaleza de las cosas, para que la conciencia humana la tome pur guía, no puede llegar á ser eficaz cooperador de civilización, sino en estados de sociabilidad extraordinariamente adelantados, que se han presentado en la Historia.
+
+This capacity of coming to conceive the religious ideal, which, when all is said, is nothing more than the natural law of the good set before the sight of human conscience by the very nature of things, that human conscience may take it for guide, cannot become an efficacious co-operator of civilization save in extraordinarily advanced states of sociability, such as have presented themselves in History.
+
+> Lo que en ella se ha presentado ya, es: la clara visión del problema por resolver, que no es ya el «le afirmar, ni imponer la afirmación de un absoluto é infinito y eterno y omnipotente y omnisciente, que siempre está detrás de la primera Causa, por más que como primera se presente; la solución que se está viendo venir es la de un régimen de absoluta tolerancia, nacional, internacional y universal, de todas las religiones entre sí, y la fábrica común de un culto en que aparezcan [PDF 160] reunidas las tres evoluciones religiosas: la cosmológica, con el culto de las fuerzas fisicas y psiquicas; la antropológica, con el culto de la divinidad una y multiple; y la sociótica, con el culto de las fuerzas sociales.
+
+What has already presented itself therein is: the clear vision of the problem to be solved, which is no longer that of affirming, nor of imposing the affirmation of, an absolute and infinite and eternal and omnipotent and omniscient being, who always stands behind the first cause, however much it may present itself as first; the solution which is seen to be coming is that of a regime of absolute tolerance, national, international, and universal, of all religions among themselves, and the common fabric of a worship in which there shall appear [PDF 160] — 152 — united the three religious evolutions: the cosmological, with the worship of the physical and psychic forces; the anthropological, with the worship of the divinity one and manifold; and the sociotic, with the worship of the social forces.
+
+> El pensador más efectivo que tuvo el siglo x1x, porque intentó una reforma religiosa que probablemente será en este siglo el ensayo de las almas cultas, dió á los hombres de su ticmpo á medio realizar la parte de idca] religioso que es realizable en nuestro tiempo. Es indudable que si se realizara, tiempos llegarían en que el orden religioso volvería á perturbarse; pero, en primer lugar, las perturbaciones serían puramente de carácter intelectual, y, en segundo lugar, acaccerian en un tiempo suficientemente lejano para que se hubiera efectuado un cambio, más bicn un desarrollo, tan normal, de la razón común, que entonces serían perturbaciones del alma, ansiosa de bien, las que hasta ahora han sido perturbaciones viciosas de los egoismos sacerdotales, ganosos de predominio.
+
+The most effective thinker the nineteenth century had, because he attempted a religious reform which will probably be in this century the endeavour of cultivated souls, gave to the men of his time, half realized, that part of the religious ideal which is realizable in our time. It is beyond doubt that, were it realized, times would come in which the religious order would again be disturbed; but, in the first place, the disturbances would be purely of an intellectual character, and, in the second place, they would befall at a time sufficiently distant for there to have been effected a change, rather a development, of the common reason so normal, that those would then be disturbances of the soul, eager for good, which until now have been the vicious disturbances of sacerdotal egoisms, greedy of predominance.
+
+> $5. Potencia coxservadora.
+
+§ 5.
+
+> 60. En QUÉ CONSISTE ESTA FUERZA SOCIAL. CÓMO Y Á QUÉ HA DE ENCAMINARSE.—Lo que puede la Sociedad realizar por medio de su potencia conservadora, es la armonia relativa.
+
+Conserving Potency.
+
+> Véase cómo:
+
+60. Wherein this social force consists. How and to what it must be directed.—What Society can realize by means of its conserving potency is relative harmony.
+
+Let it be seen how:
+
+> La infancia se educará desde la escuela materna en el hogar, bajo da disciplina de esta idea: «que la fuerza invisible que determina el orden, en el mundo físico, podemos los hombres imitarla. en modo que le demos el encargo de producir el orden doméstico; la infancia de ambos sexos aprenderá que esa fuerza Cs la obediencia. Y no [PDF 161] lo aprenderá teóricamente, sino en el modo más activo y efectivo, en los actos continuos del hogar doméstico, y en los movimientos colectivos de la escuela, ya para practicar, ya para aprender, ya para excursionar.
+
+Childhood will be educated, from the mother’s school in the home, under the discipline of this idea: that the invisible force which determines order in the physical world we men can imitate, in such manner that we give it the charge of producing domestic order; the childhood of both sexes will learn that that force is obedience. And it will not [PDF 161] — 153 — learn it theoretically, but in the most active and effective manner, in the continuous acts of the domestic hearth, and in the collective movements of the school, whether for practising, or for learning, or for making excursions.
+
+> La adolescencia y la juventud de ambos sexos, aprenderán en sus escuclas normales, técnicas y profesionales, 4 ver producirse el orden económico y social, como resultante de una serie de fuerzas fisicas y psiquicas, individuales y colectivas que actúan de continuo en las instituciones. academias é institutos de educación pública; en los obradores, talleres y fábricas; en la industria mecánica y fabril; cn los juegos atléticos y gimnásticos de la juventud; en las ejecuciones y simulacros de la. milicia civil de las escuelas; en los despliegues de fuerza policiales, militares y navales.
+
+Adolescence and youth of both sexes will learn in their normal, technical, and professional schools to see the economic and social order produce itself as the resultant of a series of physical and psychic forces, individual and collective, which act continually in the institutions, academies, and institutes of public education; in the workrooms, workshops, and factories; in mechanical and manufacturing industry; in the athletic and gymnastic games of youth; in the exercises and mock manœuvres of the civil militia of the schools; in the displays of police, military, and naval force.
+
+> Cuando la organización de la fuerza obedece, como la Naturaleza quiere que obedezca, ú este propósito de orden, armonía y conservación, no cs sólo un problema de administración pública, sino también de educación común que el Estado y la Sociedad, el uno con sus instituciones, la otra con su actividad, contribuyen á resolver,
+
+When the organization of force obeys, as Nature wills that it obey, this purpose of order, harmony, and conservation, it is not only a problem of public administration, but also one of common education, which the State and Society, the one with its institutions, the other with its activity, contribute to solve.
+
+[p. 154]
+
+## CHAPTER IV
+
+## SOCIORGANOLOGY
+
+> Estudio de los órganos de la Sociedad.
+
+Study of the organs of Society.
+
+## SECTION 1
+
+## VITAL ORGANS
+
+> SECCIÓN 1.*
+
+§ 1.
+
+> ÓRGANOS VITALES g12 El Individuo.
+
+The Individual.
+
+> l. PAPEL DEL INDIVIDUO, EN EL CUERPO SOCIAL. El Individuo humano cs el órgano fundamental, en la vida de las sociedades. En realidad, cs, al cuerpo social, lo que la célula á cualquiera cuerpo organizado: sin él no habría Sociedad, ni sería posible que la hubiera. Pero cl Individuo no habría podido tampoco corresponder, en la existenla de la Sociedad, á su carácter de célula primordial, si no formara parte integrante de él un sér de idéntica naturaleza, pero de diferentes aptitudes, que conjuntamente constituyen el elemento social. Es decir, que el individuo humano se comprendería, aun sin su complemento sexual, como una mera anormalidad de la Naturaleza; pero el individuo social no se concibe, ni existe, sino en su carácter sexual.
+
+1. Part of the Individual in the social body.—The human Individual is the fundamental organ in the life of societies. In reality, he is to the social body what the cell is to any organized body: without him there would be no Society, nor would it be possible that there should be one. But neither could the Individual have corresponded, in the existence of Society, to his character of primordial cell, if there did not form an integral part of him a being of identical nature, but of different aptitudes, which jointly constitute the social element. That is to say, the human individual might be comprehended, even without his sexual complement, as a mere abnormality of Nature; but the social individual is not conceived, nor does he exist, save in his sexual character.
+
+> 2. QuÉ sería RL INDIVIDUO EN UNA ORGANIZA- CIÓN CIENTÍFICA DE La SociEDaD.—Masculino y femenino, el individuo social es el origen continuo de la sociedad humana. Merced á las actividades fisico-psiquicas de sn vida individual, interviene directamente en los fenómenos generales de la Sociedad en cada uno de sus hechos particulares, [PDF 163] cualesquiera que ellos sean. De aquí la importancia que tiene, en da organización de la Sociedad. el tomar cn cuenta esta función omnimoda del Individuo en la Sociedad, no ya sólo, según acabamos de indicar, ensu carácter de entidad bisexual, sino en todos los períodos de su vida, la infancia, la adolescencia, la juventud, la virilidad, la vejez, la decrepitud.
+
+2. What the Individual would be in a scientific organization of Society.—Masculine and feminine, the social individual is the continuous origin of human society. Thanks to the physico-psychic activities of his individual life, he intervenes directly in the general phenomena of Society, in each one of its particular facts, [PDF 163] — 155 — whatsoever they may be. Hence the importance there is, in the organization of Society, of taking into account this all-embracing function of the Individual in Society, not only, as we have just indicated, in his character of a bisexual entity, but in all the periods of his life: childhood, adolescence, youth, manhood, old age, decrepitude.
+
+> 3. Una organización completamente cientifica de la Sociedad tendría también que tomar cn cuenta lo que ha sido, lo que es, lo que debe y lo que puede ser el Individuo social. Necesariamente, Como las sociedades no se han organizado cientificamente, sino fisiológicamente, 4 merced de fuerzas vitales que han ido actuando á medida de la necesidad, el individuo social no ha tenido, en la organización reflexiva á que poco á poco se han ido sometiendo las fuerzas espontáneas de la Sociedad, más reconocimiento de su existencia, de su carácter y de su importancia, que el impuesto por la fuerza natural de las cosas. Por eso ha habido que ir resolviendo, 4 veces por la fuerza bruta, una porción de problemas de organización que ni siquiera se habrian presentado si ella hubiera sido vracional y consecuente: el estado civil, el derecho civil, la ciudadanía, el derecho político, el estatuto personal, el derecho internacional. La cuota proporcional del salario, en la economía política de la Sociedad; los derechos y deberes de la educación comun; todo eso que ha llenado una parte considerable de la historia de los pueblos, no habria tenido que ser historia de ninguno de ellos: habría bastado con dar al Individuo, desde el primer momento de la organización social, los deberes, derechos y poderes que en ella, por naturaleza, le correspondían y corresponden.
+
+3. A completely scientific organization of Society would also have to take into account what the social Individual has been, what he is, what he ought to be, and what he can be. Necessarily, as societies have not been organized scientifically, but physiologically, at the mercy of vital forces which have gone on acting according to necessity, the social individual has not had, in the reflective organization to which the spontaneous forces of Society have little by little been submitting themselves, more recognition of his existence, of his character, and of his importance, than that imposed by the natural force of things. For that reason it has been necessary to go on solving, at times by brute force, a number of problems of organization which would not even have presented themselves had that organization been rational and consistent: civil status, civil law, citizenship, political right, personal statute, international law. The proportional quota of wages, in the political economy of Society; the rights and duties of common education; all that, which has filled a considerable part of the history of peoples, would not have had to be the history of any one of them: it would have sufficed to give the Individual, from the first moment of social organization, the duties, rights, and powers which by nature belonged and belong to him therein.
+
+[p. 156]
+
+> $ 20 La Familia.
+
+§ 2.
+
+> 4. Lo qus es na Faminta.—La Familia, según hemos visto, ha nacido de necesidades fisiológicas que han formado el cuerpo de ese primer grupo social, y de necesidades psicológicas y sociaes que lan formado cl alma del grupo. Á consecuencia de sus necesidades, y á medida que ellas se van aumentando, la Familia va creciendo, vigorizándose y organizándose, así cn su carácter c hogar como en su carácter de institución.
+
+The Family.
+
+> En ambos conceptos, la historia del desarrollo de la Familia se puede compendiar brevemente, aunque no hay ninguna institución que tenga una historia más complicada ni más variada.
+
+4. What the Family is.—The Family, as we have seen, was born of physiological necessities which formed the body of that first social group, and of psychological and social necessities which formed the soul of the group. In consequence of its necessities, and in measure as they go on increasing, the Family goes on growing, gaining vigour, and organizing itself, as well in its character of hearth as in its character of institution.
+
+> En los primeros tiempos, cualquiera que sea el medio social en donde aparezca, la Familia lucha con todas las dificultades del medio físico que se le opone durante largo tiempo, mientras el grupo no vence al medio. Asi es como, durante los dos rimeros estados sociales, la Familia no ofrece todaviía la fuerza de cohesión que, en lo fisico y en lo social, caracteriza siempre los cuerpos bien constituidos. Mientras duran las luchas incesantes que ocasiona la falta de esfuerzos, la Familia no es, en realidad, más que una añadidura de la madre al padre, más los hijos: sin más diferencia que la del fin racional de la vida, la Familia es, entonces, lo mismo entre los hombres que entre Jos perros y los gatos.
+
+In both aspects, the history of the development of the Family can be briefly epitomized, although there is no institution which has a more complicated or a more varied history.
+
+> 5. La Famibia EN La Historta.—Cuando empieza á constituirse la segunda forma del trabajo social, y, junto con la agricultura, la vida se hace sedontaria, la Familia adquiere una base de sustentación que la hace inconmovible.
+
+In the first times, whatever be the social medium in which it appears, the Family struggles with all the difficulties of the physical medium which opposes it for a long time, while the group does not overcome the medium. Thus it is that, during the first two social states, the Family does not yet offer the force of cohesion which, in the physical and in the social, always characterizes well-constituted bodies. While the incessant struggles last which the want of efforts occasions, the Family is in reality no more than an addition of the mother to the father, plus the children: with no other difference than that of the rational end of life, the Family is then the same among men as among dogs and cats.
+
+5. The Family in History.—When the second form of social labour begins to be constituted, and, together with agriculture, life becomes sedentary, the Family acquires a basis of sustenance which makes it immovable.
+
+[p. 157]
+
+> Después, cuando progresivamente se van aplicando á ese primer grupo las nociones de Derecho que se han 1do gencralizando, va aumentándose la cohesión del grupo y haciéndose al mismo tiempo más resistente el hogar y más potente la institución de la Familia.
+
+Afterwards, when the notions of Law which have gone on becoming general are progressively applied to that first group, the cohesion of the group goes on increasing, and at the same time the hearth goes on becoming more resistant and the institution of the Family more potent.
+
+> Esta empieza á entrar en su pleno florecimiento como grupo, en el momento en que parten de ella misma las iniciativas que tienen por objeto hacer más fuerte, interior y exteriormente, á la Familia.
+
+This begins to enter into its full flowering as a group at the moment in which there proceed from within itself the initiatives which have for their object to make the Family stronger, inwardly and outwardly.
+
+> Cuando ésta, por medio de su jefe natural, emieza á intervenir en las funciones del gobierno el Estado, ya como muníicipe, ya como miembro del Consejo de los Ancianos, ya como parte de la representación nacional, ya como individuo del Consejo de Gobierno; en suma, cuando la Familia empieza á influir en la vida de la Sociedad general, su organización se va completando con la fuerza social que va adquiriendo.
+
+When it begins, through its natural head, to intervene in the functions of the government of the State, whether as burgess, or as member of the Council of Elders, or as part of the national representation, or as member of the Council of Government; in sum, when the Family begins to influence the life of Society in general, its organization goes on completing itself with the social force which it goes on acquiring.
+
+> Asi es como llega un momento en que tiene poder bastante para constituir elementos permanentes de gobierno, como sucedió con las familias ducales de Florencia y Génova, en la Edad Media; como sucede con las Émilias dinásticas, 0 dinastias, que todavía disponen, en gran parte, de la dirección política de las monarquías europeas; como sucede todavía en nuestra misma América española con algunas familias de abolengo colonial, ó con las de los próceres que consumaron la independencia.
+
+Thus it is that a moment arrives in which it has power enough to constitute permanent elements of government, as happened with the ducal families of Florence and Genoa in the Middle Ages; as happens with the dynastic families, or dynasties, which still dispose, in great part, of the political direction of the European monarchies; as still happens in our own Spanish America with some families of colonial lineage, or with those of the patriots who consummated independence.
+
+> 6. VERDADERO FLORECIMIENTO DE LA FAMILIA .— Mucho mejor que ese falso forecimiento de la Familia, es el verdadero, y efectivo y bueno, que ha ido tomando, á medida del desarrollo del progreso politico ó del progreso moral, en algunos paises, como Inglaterra, Suecia Noruega, [PDF 166] Alemania, y, principalmente, Suiza. En algunos Estados del Oeste americanos y en la mayor parte de los del Este, se nota la influencia ejercida por el florecimiento omnilateral de la civilización amcricana cn el desarrollo y bicnestar de la Familia. Como esta institución cstá intimamente relacionada con el desarrollo gencral de la civilización, lo más notable que cn su historia se nos muestra son su punto de partida y su pasmosa flexibilidad para ir modificándose y mejorándose á medida de los cambios generales de la Sociedad.
+
+6. True flowering of the Family.—Much better than that false flowering of the Family is the true one, effective and good, which it has been taking on, in measure with the development of political progress or of moral progress, in some countries, such as England, Sweden, Norway, [PDF 166] — 158 — Germany, and, principally, Switzerland. In some of the American States of the West, and in the greater part of those of the East, there is to be noted the influence exercised by the all-sided flowering of American civilization upon the development and well-being of the Family. As this institution is intimately related to the general development of civilization, what is most notable that shows itself to us in its history is its starting-point and its astonishing flexibility in going on modifying and bettering itself according to the general changes of Society.
+
+> $ 3 19 El Municipio.
+
+§ 3.
+
+The Municipality.
+
+> 7. ES El SEGUNDO ÓRGANO SOCIAL. HECHOS HIS- Tóricos.—El Municipio es el segundo órgano de la, vida de las socicdades humanas. Es un órgano tan natural, tan del orden natural, como la Familia. En tal mancra es asi, que las sociedades no podrian vivir si ese órgano les faltara. Es más: el Municipio, en un momento de su evolución, resume en tal modo la vida gencral de la Sociedad, que es, por sí solo, la Sociedad entera. Asi sucede, cuando la tribu errante se convierte en tribu estante; cuando la gente ó nación se subdivide en tribus urbanas y rurales, que el Municipio urbano concluye, como en Atenas, en Esparta, en Roma, por ser cl Estado entero. Asi sucede, también, en casos contrarios, cuando se disuelve la Nación por actos de invasión y de conquista, que el Municipio resume toda la fuerza orgánica de la Sociedad gencral, y la Nación reaparece dividida en una porción de estaditos municipales. A principio del siglo xrx se dió buen ejemplo de esto, que es como la supervivencia de las partes, en los anélidos, que siguen viviendo parcialmen[PDF 167] te cuando ya cl aneloide ha perdido su vitalidad general. En los pueblos americanos de origen español se efectuó también á¿ principio del siglo xtx, un hecho de reviviscencia del organismo general por medio de los órganos municipales, cuando, en la hora de la independencia, Buenos Aires, Quito, Caracas, Bogotá, Santiago de Chile, y, en general, casi todas las capitales de las colonias españolas, asumieron la representación y la responsabilidad de la vida general de la Colonia.
+
+7. It is the second social organ. Historical facts.—The Municipality is the second organ of the life of human societies. It is an organ as natural, as much of the natural order, as the Family. So much is this so, that societies could not live if that organ were wanting to them. More: the Municipality, at one moment of its evolution, so sums up the general life of Society that it is, by itself alone, the entire Society. So it happens, when the wandering tribe becomes a settled tribe, when the gens or nation subdivides into urban and rural tribes, that the urban Municipality ends, as in Athens, in Sparta, in Rome, by being the entire State. So it happens, also, in contrary cases, when the Nation is dissolved by acts of invasion and of conquest, that the Municipality sums up all the organic force of Society in general, and the Nation reappears divided into a number of little municipal states. At the beginning of the nineteenth century a good example was given of this, which is like the survival of the parts in the annelids, which go on living partial- [PDF 167] — 159 — ly when the annelid has already lost its general vitality. In the American peoples of Spanish origin there was also effected, at the beginning of the nineteenth century, a fact of revivification of the general organism by means of the municipal organs, when, in the hour of independence, Buenos Aires, Quito, Caracas, Bogotá, Santiago de Chile, and, in general, almost all the capitals of the Spanish colonies, assumed the representation and the responsibility of the general life of the Colony.
+
+> $ 4,9 La Región.
+
+§ 4.
+
+The Region.
+
+> 8. CÓMO SE CONSTITUYE.—Unas veces, por haberse diseminado una tribu en los intrincamicntos y marañas de una cordillera ó de una selva; otras veces, por haber ido extendiéndose fuera de los límites urbanos la población de una ciudad ó de un recinto amurallado; otras veces, como la Historia lo ha visto, en el comienzo de la dominación de Europa por los germanos, á consecuencia de haber ocupado cada tribu un lugar de su. gusto en el territorio que se iba dominando, la vblación general del mundo se lia ido dividieno y encerrándose dentro de limites. Cuando estos limites han correspondido á una misma familia nacional, las divisiones interiores, dentro de: los limites generales, han ido constituyendo las regiones. Cuando dentro de estas divisiones se ha. consolidado una nación, inmediatamente se ha visto aparecer una porción de diferencias caracteristicas de cada una de las regiones que se habían formado, y una porción de tendencias paralelas 6 correspondientes á esas diferencias. Grecia es, á esc propósito, uno de los lugares de la Historia que mejor sirven para explicar cómo se for[PDF 168] ma, cómo se desarrolla y cómo influye la región. Formando tres de las divisiones de la Grecia que desde el principio hasta el fin se señalaron y distinguieron por caracteres más sobresalientes, veremos que la Beocia, el Atica y el Peloponeso, que son esas tres divisiones más notables, se formaron por la ocupación de lugares escogidos á propósito, y manifiestamente distintos los unos de los otros: en tal modo, que los habitantes del Atica, los del Peloponeso y los de la Beocia no podían tener de común sino lo que efectivamente era común en la población. de aquellos lugares: es decir, el carácter nacional.
+
+8. How it is constituted.—At times through a tribe’s having scattered itself among the intricacies and thickets of a mountain range or of a forest; at other times through the population of a city or of a walled enclosure having gone on spreading beyond the urban limits; at other times, as History has seen it at the beginning of the domination of Europe by the Germans, in consequence of each tribe’s having occupied a place to its liking in the territory which was being brought under dominion, the general population of the world has gone on dividing itself and enclosing itself within limits. When these limits have corresponded to one and the same national family, the interior divisions, within the general limits, have gone on constituting the regions. When within these divisions a nation has been consolidated, there has immediately been seen to appear a number of differences characteristic of each one of the regions which had been formed, and a number of tendencies parallel or corresponding to those differences. Greece is, in this respect, one of the places of History which best serve to explain how the region is formed, [PDF 168] — 160 — how it develops, and how it exerts its influence. Taking three of the divisions of Greece which from the beginning to the end were marked out and distinguished by the most salient characters, we shall see that Bœotia, Attica, and the Peloponnese, which are those three most notable divisions, were formed by the occupation of places chosen of purpose, and manifestly distinct one from another; in such manner that the inhabitants of Attica, those of the Peloponnese, and those of Bœotia could have nothing in common save what was in effect common to the population of those places: that is to say, the national character.
+
+> 9. La REGIÓN, EN LAS NACIONES MODERNAS. — Pues bien: en las naciones modernas se ha manifestado y manifiesta esa tendencia á la diferenciación, en la parte de la población que ocupa territorio que sirve, por su disposición topográfica, para determinar ó para asentar las diferencias.
+
+9. The Region in modern nations.—Well, then: in modern nations that tendency to differentiation has manifested itself, and manifests itself, in that part of the population which occupies territory that serves, by its topographical disposition, to determine or to settle the differences.
+
+> No ya en los países de antiguo origen, sino en los novísimos, que muy recientemente han tomado en América el carácter de estado soberano, se nota la tendencia á esa subdivisión de la población general de cada estado, que constituye la región. Así, por ejemplo, en la misma República Dominicana, y 4 pesar de su desordenado desarrollo, se observa va esta tendencia en las diversas provincias que constituyen la nación. Especialmente cuando entre porciones de una misma población general median las rigideces de una cordillera, ó los intrincamientos de las montañas, ( la extensión de una selva, es seguro que Jos pobladores de aquende ó de allende la cordillera, ó las montañas. 6 la selva, empiezan la obra de diferenciación con los menesteres más urgentes de la vida y la concluyen por las aspiraciones más exigentes del espiritu. Aqui mismo se ve que [PDF 169] la mayor diferencia que existe entre la población dominicana se manifiesta en las dos porciones que ocupan toda la vertiente meridional de la hilera de montañas que constituye la cordillera del Centro y la parte de la población que ocupa la vertiente septentrional. En el territorio de esta última vertiente, está el Cibao, y ya con eso basta, en la República, para dar á entender una diferencia que constituye historia. entre la población de aquende y la población de allende a Hilera Central.
+
+Not only in the countries of ancient origin, but in the newest, which very recently have taken on in America the character of sovereign states, there is to be noted the tendency to that subdivision of the general population of each state which constitutes the region. Thus, for example, in the Dominican Republic itself, and in spite of its disordered development, this tendency is already observed in the divers provinces which constitute the nation. Especially when between portions of one and the same general population there intervene the rigidities of a mountain range, or the intricacies of the mountains, or the extent of a forest, it is certain that the settlers on this side or on that side of the range, or of the mountains, or of the forest, begin the work of differentiation with the most urgent needs of life and end it with the most exacting aspirations of the spirit. Here itself it is seen that [PDF 169] — 161 — the greatest difference which exists within the Dominican population manifests itself in the two portions which occupy the whole southern slope of the chain of mountains that constitutes the Central range, and the part of the population which occupies the northern slope. In the territory of this latter slope lies the Cibao, and in the Republic that alone suffices to make understood a difference which constitutes history, between the population on this side and the population on that side of the Central Chain.
+
+> 55.2 La Nación.
+
+§ 5.
+
+> 10. Cómo SE FORMAN LAS NACIONES.—El origen de todas las naciones ha sido el resultado de estos dos hechos: por una parte, la ocupación; por otra parte, la posesión.
+
+The Nation.
+
+> 11. La OCUPACIÓN Y LA POSESIÓN.—La ocupación continua ha concluido por convertirse en derecho de propiedad, y la posesión, ya disputada, ya indisputada, ha confirmado ese derecho. En el mismo modo que en virtud del mismo procedimiento de ocupación y posesión se ha ido conservando cl derecho de propiedad individual, en el transcurso de los tiempos, asi se ha ido normalizando el derecho de propiedad nacional.
+
+10. How nations are formed.—The origin of all nations has been the result of these two facts: on the one hand, occupation; on the other hand, possession.
+
+> 12. Las NACIONES AMERICANAS.-——-Si, refiriéndonos 4 lo más inmediato. queremos tomar en nuestra América ejemplos de cómo se forma una nación, veremos. en la reciente historia de todas las del Continente, y especialmente en las del Norte, los tipos más naturales y perfectos, en cuanto á derccho, que han aparecido hasta ahora.
+
+11. Occupation and possession.—Continuous occupation has ended by converting itself into a right of property, and possession, whether disputed or undisputed, has confirmed that right. In the same manner as, by virtue of the same procedure of occupation and possession, the right of individual property has gone on being preserved in the course of time, so the right of national property has gone on being normalized.
+
+12. The American nations.—If, referring ourselves to what is nearest, we would take in our America examples of how a nation is formed, we shall see, in the recent history of all those of the Continent, and especially in those of the North, the most natural and perfect types, as regards right, that have appeared until now.
+
+> 13. Razón FUNDAMENTAL DE UNA NACIÓN, SEGÚN EL TIPO DE LAS AMERICANAS.—S€gún esos nuevos tipos, la razón fundamental de una nación es el [PDF 170] derecho de asociación, en virtud del cual todos Pl cada uno de los asociados, mediante un pacto de constitución, han convenido cn constituir un todo social y territorial. En virtud de ese punto de par tida eminentemente jurídico, la nación ha podido empezar á realizar funciones de vida colectiva, tan congruentes con los propósitos de su existen— :la, cuanto haya sido capaz de hacerlo. Y en ese modo, ajustando sus actos á los principios de derecho en que ha fundado su existencia, ha podido ir desarrollando su actividad, sin temor á disputa de su derecho, á menos que se le haya hecho en virtud de otro derecho. Tn virtud de otro derecho opucsto al del desarrollo interior de la nación, Méjico ha visto considerablemente disminuida su propiedad territorial; Perú y Bolivia han visto también mermar su extensión territorial. Pero ese derecho de la guerra, que siempre es la negación del derecho, por más que á cada paso de la civilización se intente hacerlo más legitimo y más legal, no es sino un caso fortuito que en modo alguno se puede considerar como uno de los opuestos naturales del desarrollo de una nación en nuestro Continente y en nuestros tiempos.
+
+13. Fundamental reason of a nation, according to the type of the American nations.—According to those new types, the fundamental reason of a nation is the [PDF 170] — 162 — right of association, by virtue of which each and every one of the associates, by means of a pact of constitution, have agreed to constitute a social and territorial whole. By virtue of that eminently juridical starting-point, the nation has been able to begin to perform functions of collective life as congruent with the purposes of its existence as it has been capable of making them. And in that manner, adjusting its acts to the principles of right upon which it has founded its existence, it has been able to go on developing its activity without fear of dispute of its right, unless such dispute have been made by virtue of another right. By virtue of another right opposed to that of the interior development of the nation, Mexico has seen its territorial property considerably diminished; Peru and Bolivia have also seen their territorial extent curtailed. But that right of war, which is always the negation of right, however much at each step of civilization it be attempted to make it more legitimate and more legal, is nothing but a fortuitous case which can in no wise be considered as one of the natural opposites of the development of a nation on our Continent and in our times.
+
+> 14. La OCUPACIÓN Y LA POSESIÓN EN EL VIEJO MunDo.—ln otros Continentes y en otros tiempos, la ocupación y la posesión no han sido tan respetadas, pues la mayor parte de las guerras han sido de conquista y han tenido por objeto principal la captación de un territorio ajeno.
+
+14. Occupation and possession in the Old World.—In other Continents and in other times, occupation and possession have not been so respected, for the greater part of wars have been wars of conquest, and have had for their principal object the seizure of a foreign territory.
+
+> Asi, de ocupación en ocupación de territorio, y de disputa en disputa, bélica, del territorio ajeno, han ido formándose y desapareciendo entidades nacionales.
+
+Thus, from occupation to occupation of territory, and from dispute to warlike dispute over foreign territory, national entities have gone on forming themselves and disappearing.
+
+> 15. La HISTORIA Y LA CONSTITUCIÓN DE LAS NA- CIONES.—Pero, desde el principio de los tiempos históricos, siempre se ha atribuido á la ocupación [PDF 171] y posesión del territorio la fuerza de derecho suficiente para autorizar ú un grupo de familias y á una reunión de tribus, en el goce de una extensión territorial. La Historia no puede afirmar, con datos fehacientes, cómo, 6 en qué momentos, una reunión de tribus constituyó una gente, ni cómo, ni en qué momento, esa gente, posesionada de un territorio, empezó á funcionar como un todo legal: la Historia pusitiva empieza precisamente con las naciones ya formadas.
+
+15. History and the constitution of nations.—But, from the beginning of historical times, there has always been attributed to the occupation [PDF 171] — 163 — and possession of territory the force of right sufficient to authorize a group of families and a union of tribes in the enjoyment of a territorial extension. History cannot affirm, with trustworthy data, how, or at what moments, a union of tribes constituted a gens, nor how, nor at what moment, that gens, possessed of a territory, began to function as a legal whole: positive History begins precisely with nations already formed.
+
+## SECTION 2
+
+## INSTITUTIONAL ORGANS
+
+> SECCIÓN 2.* ÓRGANOS INSTITUCIONALES
+
+16. The action of Law in the social organism.—Many centuries and many evolutions have been necessary in order that the knowledge of the organic character of Law should come to make human nature inviolable, in each and every one of the beings that represent it, within a constituted nation.
+
+> 16. La acción DEL DERECHO EN EL ORGANISMO socIaL. — Muchos siglos y muchas cvoluciones han sido necesarios para que el conocimiento del carácter orgánico del Derecho haya venido 4 hacer inviolable la naturaleza humana, en todos y cada uno de los seres que la representan, dentro de una nación constituida.
+
+But, at last, experience and reason have ended by demonstrating that that aspiration of the human soul to justice is a necessity, and that the best manner of satisfying it is to make use of the rights of man as an institution of public law.
+
+> Pero, al fin, la experiencia y la razón han concluido por demostrar que es una necesidad esa aspiración del alma humana á la justicia, Y que el mejor modo de satisfacerla es: utilizar los derechos del hombre como una institución de derecho público.
+
+The result of this sensible institution was so patent, in the life of the American Union, that, little by little, almost all civilized peoples ended by adopting a declaration of the rights of man as the frontispiece of their constitutional charter.
+
+> El resultado de esta sensata institución fué tan patente, en la vida de la Unión Americana, que, poco á poco, casi todos los pueblos civilizados concluyeron por adoptar una declaración de derechos del hombre, como frontispicio de su carta constitucional.
+
+More or less explicit, that declaration has been so efficacious for the establishment of political order that it has come to be considered as a veritable institution annexed and complementary to the substantive law.
+
+> Más ú menos explicita, esa declaración ha sido tan eficaz al establecimiento del orden político, que se ha concluido por considerarla como una verdadera institución anexa y complementaria de la ley sustantiva.
+
+[p. 164]
+
+> Consejo doméstico,
+
+§ 1.
+
+> 17. QUE Es EL ConseJo DE FamILIa.—La institución que no siempre completa á la Familia, pero que debe, en todas partes, completarla, es cl Consejo de Familia. Esta institución complementaria y fautora del orden del hogar, deberá, en todas partes, tener su fundamento, como cn algunas lo tiene, en el Derecho positivo. Hasta ahora, las prescripciones relativas á esc Consejo no han salido del Derecho civil, y, aparentemente, no necesitam salir de él, porque, en apariencia, la Familia no es una institución de Derecho público. Quizás se haya estado en un error; quizá convenga dar al grupo fundamental de la Sociedad, en el Derecho político, la misma base de sustentación que le corresponde en las relaciones de Derecho civil. En todas maneras, objeto de legislación civil 6 institución de Derecho político, el Consejo de Familia deberá ir tomando, en todas partes, el carácter de verdadero gobierno de Familia; principalmente para la vida de relación de la Familia; es decir, principalmente en lo que se refiere á las relaciones de familias con familias, con el Municipio y con cualesquiera otras instituciones politicas.
+
+Domestic Council.
+
+> g20 Cousejo Municipal y gobierno del Municipio.
+
+17. What the Family Council is.—The institution which does not always complete the Family, but which ought everywhere to complete it, is the Family Council. This institution, complementary to and promoter of the order of the hearth, ought everywhere to have its foundation, as in some places it has, in positive Law. Until now, the prescriptions relating to that Council have not gone outside civil Law, and, apparently, they need not go outside it, because, in appearance, the Family is not an institution of public Law. Perhaps there has been an error; perhaps it may be fitting to give to the fundamental group of Society, in political Law, the same basis of sustenance which belongs to it in the relations of civil Law. In any case, whether as object of civil legislation or as institution of political Law, the Family Council ought everywhere to go on taking the character of a veritable government of the Family; principally for the life of relation of the Family; that is to say, principally in what refers to the relations of families with families, with the Municipality, and with any other political institutions whatsoever.
+
+§ 2. Municipal Council and government of the Municipality.
+
+> 18. Lo QUE ES Y LO QUE DEBE SER JA MUNICE PALIPAD.—El Consejo Municipal, que es hoy, de hecho. el gobierno más 6 menos regular de las cireunseripciones comunales, en todos los países de directa ó indirecta civilización occidental, está todavía muy lejos de haber entrado en la organi[PDF 173] zación jurídica de las sociedades, como en si es. Mientras no entre como uno de los coeficientes del orden jurídico, con todos sus poderes, con todos sus derechos, con todos sus deberes, no se tendrá el derecho de considerar racional la organización política de la Sociedad. El gobierno del Municipio, exactamente lo mismo que cl de la Sociedad general, es el delegado de un poder social tan efectivo, tan natural, y, por tanto, tan normal como el de la Sociedad total. No puede, por tanto, ser desconocido ni mermado cn sus atribuciones, sin que se altere una ley completamente natural y sin que, al alterarse esa ley, se quebrante el orden particular del Municipio y el general de la Sociedad. $ 3.” Consejo regional y gobierno regional,
+
+18. What the Municipal Corporation is and what it ought to be.—The Municipal Council, which is to-day in fact the more or less regular government of the communal districts in all countries of direct or indirect Western civilization, is still very far from having entered into the juridical organi- [PDF 173] — 165 — zation of societies as what in itself it is. So long as it does not enter as one of the coefficients of the juridical order, with all its powers, with all its rights, with all its duties, there will be no right to consider the political organization of Society rational. The government of the Municipality, exactly the same as that of Society in general, is the delegate of a social power as effective, as natural, and, therefore, as normal, as that of the total Society. It cannot, therefore, be disregarded or curtailed in its attributions without the alteration of a completely natural law, and without the breaking, upon the alteration of that law, of the particular order of the Municipality and of the general order of Society.
+
+> 19. La REGIÓN DEBE TENER SU GOBIERNO PROPIO, La Región, como una subdivisión natural que es del territorio, de la población y de la sociedad nacional, por dos razones tiene derecho á gobierno propio: primera razón, que cs económica, por necesidad de división del trabajo social; segunda razón, que es política, porque la sociedad regional es un poder tan natural, tan legitimo y tan necesario como el poder familiar, ó el municipal, 9 cl nacional.
+
+§ 3.
+
+> 20. La REGIÓN, EN LA ECONOMÍA s0CraL.—Tal vez conviene describir el mecanismo industrial ( económico de la vida regional, para que se comprenda claramente cómo y por qué es un poder político la Región.
+
+Regional Council and regional government.
+
+19. The Region ought to have its own government.— The Region, as the natural subdivision which it is of the territory, of the population, and of the national society, has a right to its own government for two reasons: the first reason, which is economic, by necessity of the division of social labour; the second reason, which is political, because regional society is a power as natural, as legitimate, and as necessary as the family power, or the municipal, or the national.
+
+20. The Region in the social economy.—Perhaps it is fitting to describe the industrial or economic mechanism of regional life, in order that it may be clearly understood how and why the Region is a political power.
+
+> Económicamente considerada, la Región es una do tantas subdivisiones como la misma necesidad del trabajo social ha producido naturalmente. Es decir, que la Región cs una resultante, como cual[PDF 174] quiera otra, de la división del trabajo social. Resultando de esta necesidad de división económica, la Región es. en la economía de una nación, lo que un grupo, ó círculo industrial, ya una colonia agricola, ya una colonia fabril, en el conjunto de las instituciones nacionales del trabajo. En el mismo modo en que la distribución de los trabajos sosiales, la condición natural de su prosperidad es la libertad de acción de todo centro industrial, pequeño 6 grande, así en la distribución de los poderes sociales. la primera condición del orden social es la independencia y autonomía de cada un poder social. Nundando asi, teóricamente, el poder regional en el carácter autonómico de la Sociedad regional, de la misma economia ú orden natural se deduco la necesidad de la independencia y autonomía del gobierno regional.
+
+Economically considered, the Region is one of the many subdivisions which the very necessity of social labour has naturally produced. That is to say, the Region is a resultant, like any [PDF 174] — 166 — other, of the division of social labour. Resulting from this necessity of economic division, the Region is, in the economy of a nation, what a group or industrial circle, be it an agricultural colony, be it a manufacturing colony, is in the aggregate of the national institutions of labour. In the same way in which, in the distribution of social labours, the natural condition of their prosperity is the liberty of action of every industrial centre, small or great, so in the distribution of social powers the first condition of social order is the independence and autonomy of each social power. The regional power being thus grounded, theoretically, in the autonomous character of regional Society, from the same economy or natural order is deduced the necessity of the independence and autonomy of the regional government.
+
+> Consejo nacional y gobierno nacional,
+
+§ 4.
+
+> 21. IeL Esrano.—El gobierno de la nación, que con frecuencia (tan atrasados estamos todavia) absorbe todos los poderes y todas las atribuciones de la Sociedad, se efectúa por medio de una institución que se llama el Estado. Esta institución, que existe simplemente con el objeto de representar por medio de individuos el poder de la Sociedad para guiarse y gobernarse. ha estado sujeta y sigue sujeta á los vaivenes del desarrollo y pro-
+
+National Council and national government.
+
+> “reso de la Sociedad. De aquí resulta, que, deiendo ser una institución perfectamente definida, es tan indefinida todavía, que apenas hay un Estado semejante á otro stado. En unas partes, es el representante activo de una sociedad pasiva que no conoce su poder, ni reclama sus derechos, ni cumple con sus deberes colectivos. En otras [PDF 175] partos, el Estado es el representanto pasivo de una sociedad activa que no deja á su gerente más acción que aquella de carácter absolutamente colectivo que en ninguna manera podría hacer efectiva por sí misma la Sociedad nacional.
+
+21. The State.—The government of the nation, which frequently (so backward are we still) absorbs all the powers and all the attributions of Society, is effected by means of an institution which is called the State. This institution, which exists simply for the purpose of representing by means of individuals the power of Society to guide and govern itself, has been subject, and remains subject, to the vicissitudes of the development and progress of Society. Hence it results that, though it ought to be a perfectly defined institution, it is still so undefined that there is scarcely one State like another State. In some places it is the active representative of a passive society that knows not its power, nor claims its rights, nor fulfils its collective duties. In other [PDF 175] — 167 — places, the State is the passive representative of an active society which leaves to its manager no more action than that of an absolutely collective character which the national Society could in no manner make effective by itself.
+
+> En el primer caso, el Estado activo usurpa pouderes, derechos y deberos, y constituye lo que se llama un gobierno de autocracia absoluta. En el segundo caso, el Estado se concreta á representar en un modo efectivo á la Sociedad que la ha delegado sus poderes de sociedad nacional (de sociedad nacional: entiéndase bien; no de sociedad regional, ni municipal), y en este caso funciona como un Estado democrático reprosentativo.
+
+In the first case, the active State usurps powers, rights and duties, and constitutes what is called a government of absolute autocracy. In the second case, the State confines itself to representing in an effective manner the Society that has delegated to it its powers of national society (of national society, be it well understood; not of regional society, nor of municipal), and in this case it functions as a representative democratic State.
+
+> Estos. que son los dos polos del gobierno nacional, según se nos ha ido presentando en la Historía, sirven de punto de partida y de término para el conocimiento de los modos como se ha ido efectuando en la práctica la idea de gobierno.
+
+These, which are the two poles of national government, as it has gradually presented itself to us in History, serve as point of departure and as terminus for the knowledge of the modes in which the idea of government has been carried into effect in practice.
+
+> 22. Er GOBIERNO NACIONAL, EN BUS COMIENZOS. La organización de los poderes de la Sociedad, tuvo, en un principio, que ser tan autocrática como correspondía al poco desarrollo de las ideas sociales. Vréndose como cosa necesaria la sumisión de todos á una misma ley y la misma voz de mando, el Consejo Nacional no podía constituirse sin» como da representación personal de una sociedad meuesterosa de un guía arbitrario que condujera 4 su arbitrio, por su propia apreciación, de los necesidades comunes. á la comunidad entera.
+
+22. National government in its beginnings. The organization of the powers of Society had, in the beginning, to be as autocratic as corresponded to the scant development of social ideas. The submission of all to one same law and to the same word of command being seen as a necessary thing, the National Council could not be constituted except as the personal representation of a society in need of an arbitrary guide who should lead the entire community at his own discretion, by his own appreciation of the common necessities.
+
+> 23, EVOLUCIÓN DET. GORIERNO NACIONAL.—Unas veces, por aparecar tempranamente la necesidad de consejo colectivo. ese Cousejo Nacional se formaba de individuos queá la vez dictaban la Ley, la ejecutaban y la administraban; otras veces, so color de satisfacer las necesidades colectivas, que pedían una directa satisfacción y se buscaba. como [PDF 176] sucedió en Atenas y en Roma, cu declaraciones colectivas de asentimiento á proyectos de ley, la dirección comune] por la misma comunidad, la dirección del pucblo por el mismo pueblo. Este ejercicio de la democracia pura, que en realidad fué sienpre mentira, porque siempre hubo quien ejecutara la voluntad de las asambleas del pucblo, y ese ejecutor de la voluntad pública cra por si solo el Consejo Nacional, ese ejercicio de la democracia pura no ha tenido periodos tan largos, en la Historia, como los que han gozado los consejos nacionales on que, lejos de reconocer al pueblo su dere- Cho de delegacion, se le ha desconocido cn absoluto. 24. FORMAS DE GOBIERNO NACIONAL.—Estas foymas de gobierno, desconocedoras del poder social en que todo gobierno debía fundarse, han sido tantas, en sus denominaciones, que parece, á primera vista, que las formas atribuidas al ejersicio del gobierno nacional han sido innumcrables. Sin cmbargo, son bien numcrables: en realidad, no se cuentan, fuera de los gobiernos del caudillaje, ó del patriarcado absoluto, del gobierno cjorcico por asambleas del pucblo y del gobicrno Jlamado democrático puro, ejercido por un arconte, ó por un cónsul, otras formas de gobierno ue las oligarq uias, como las de las republiquitas e la Edad Media, principalmente Venccia, en que un corto número dominaba a) gran número, ó gobiernos dinásticos, en que la autoridad ejecutiva, para prescindir mejor del poder social, se llamaba antoridad de derecho divino, ó la forma mixta de gobierno en que el poder dinástico se veía obligado á transigir con representantes legislativos del pueblo, o la forma de gobierno en que el pueblo se ha hecho representante del poder social y ha escogido por si mismo cl personal que habia de componer el Consejo Nacional.
+
+23. Evolution of national government.—At times, because the necessity of collective counsel appeared early, that National Council was formed of individuals who at once dictated the Law, executed it and administered it; at other times, under colour of satisfying the collective necessities, which demanded a direct satisfaction, there was sought, as [PDF 176] — 168 — happened in Athens and in Rome, in collective declarations of assent to projects of law, the direction of the commune by the community itself, the direction of the people by the people itself. This exercise of pure democracy, which in reality was always a lie, because there was always someone who executed the will of the assemblies of the people, and that executor of the public will was by himself alone the National Council,—this exercise of pure democracy has not had periods in History so long as those enjoyed by the national councils in which, far from acknowledging in the people its right of delegation, that right has been disowned absolutely.
+
+24. Forms of national government.—These forms of government, which disregard the social power on which all government ought to be founded, have been so many in their denominations that it seems, at first sight, that the forms attributed to the exercise of national government have been innumerable. Nevertheless, they are readily numbered: in reality there are counted, apart from the governments of chieftainship or of absolute patriarchate, from government exercised by assemblies of the people, and from the government called pure democratic, exercised by an archon or by a consul, no other forms of government than the oligarchies, such as those of the petty republics of the Middle Ages, principally Venice, in which a small number dominated the great number; or dynastic governments, in which the executive authority, the better to dispense with social power, was called authority by divine right; or the mixed form of government, in which the dynastic power saw itself obliged to compromise with legislative representatives of the people; or the form of government in which the people has made itself representative of the social power and has chosen by itself the personnel that was to compose the National Council.
+
+[p. 169]
+
+## SECTION 3
+
+## APPLIED SOCIORGANOLOGY
+
+> glo El Estado doméstico.
+
+§ 1.
+
+> 25. CÓMO DEBE ORGANIZARSE.—Para que la Familia, que es una Sociedad en su más minima expresión, goce de todos los beneficios naturales de una asociación, y realice en pequeño los fines generales de la Sociedad, es necesario que el órgano por cuyo medio efectúe sus funciones, tenga capacidad para dirigir autonómicamente la Sociedad familiar. 4 ese propósito, se hu de organizar cl Estado doméstico en modo que tenga en ueño, y para los fines exclusivos de la vida, familiar, todos los medios y recursos de organización que requiere toda Sociedad, en grande, 0 en pequeño. Asi, ha de haber un órgano directivo, que ha de ser el Padre de Familia, con todas las atribuciones y ejercicios de poder que competirían al jefe de un ejecutivo regional ú nacional.
+
+The domestic State.
+
+> 26. ÓRGANO CONSULTIVO DE La Famtiia.—Ha de haber un órgano consultivo, capaz de designar momentos, ocasiones y preceptos, en la conducta eencral de la Familia, en los casos de conflictos domésticos por causas interiores, ó exteriores, del hogar.
+
+25. How it ought to be organized.—In order that the Family, which is a Society in its most minimal expression, may enjoy all the natural benefits of an association, and realize on a small scale the general ends of Society, it is necessary that the organ by means of which it effects its functions should have capacity to direct the family Society autonomously. To that purpose, the domestic State must be organized in such a manner that it shall have, on a small scale and for the exclusive ends of family life, all the means and resources of organization which every Society, great or small, requires. Thus there must be a directive organ, which is to be the Father of the Family, with all the attributions and exercises of power that would belong to the head of a regional or national executive.
+
+26. Consultative organ of the Family.—There must be a consultative organ, capable of designating moments, occasions and precepts in the general conduct of the Family, in cases of domestic conflicts from causes interior, or exterior, to the home.
+
+> 27. La JUSTICIA DOMESTICA.—Se ha de organizar, también, una especie de justicia doméstica que, en todo lo exclusivamente relativo á la vida del hogar, y sin ocupar ninguna de las atribuciones de la justicia general, coadyuve eficazmente al restablecimientó del orden doméstico, declarando, en los momentos necesarios, la signi[PDF 178] ficación efectiva de las leyes y de los principios de Moral, asi como las penas que pudieren hacerse necesarias.
+
+27. Domestic justice.—There must be organized, also, a sort of domestic justice which, in all that relates exclusively to the life of the home, and without occupying any of the attributions of general justice, may contribute efficaciously to the re-establishment of domestic order, declaring, at the necessary moments, the sig- [PDF 178] — 170 — nification in effect of the laws and of the principles of Morals, as well as the penalties that might become necessary.
+
+> $ 2. Bl Estado municipal,
+
+§ 2.
+
+> 28. CÓMO DEBE ORGANIZARSE. — Los Ayuntamientos ó Municipalidades, que constituyen actualmente, en los pueblos de nuestro origen, el gobierno de los Municipios ó Comunidades, son el Estado natural de las sociedades Municipales. No hay ninguna necesidad de alterar la tradición que desde antiguo lia hecho de esc órgano el ejecutor de la actividad gencral del Municipio. Lo que se necesita es: entregar al listado Municipal, libre y completa en sus atribuciones, la sociedad que ha de gobernar. Lo primero, por tanto, 08: declarar y hacer efectiva en la vida práctica la completa autonomía de la sociedad municipal en todo y exclusivamente lo que se refiere á la vida municipal. Una vez declarado el pyder municipal, el Estado, 6 Ayuntamicnto. 6 Gobierno, Comunal ha de ser el órgano de exc poder social del Municipio.
+
+The municipal State.
+
+28. How it ought to be organized.—The Ayuntamientos or Municipal Corporations, which at present constitute, among the peoples of our origin, the government of the Municipalities or Communes, are the natural State of municipal societies. There is no necessity whatever of altering the tradition which from of old has made of that organ the executor of the general activity of the Municipality. What is needed is to deliver to the Municipal State, free and complete in its attributions, the society which it is to govern. The first thing, therefore, is to declare, and make effective in practical life, the complete autonomy of municipal society in all and exclusively that which refers to municipal life. The municipal power once declared, the State, or Ayuntamiento, or Communal Government, must be the organ of that social power of the Municipality.
+
+> La sociedad municipal, como la regional, como la nacional, como la internacional, tiene necesariamente. por la fuerza misma de su vida, los mismos cuatro poderes, electoral, legislativo, ejecutivo y judicial. No hay ningún inconveniente, y, al contrario, es de gran importancia para el orden normal. que la Común, 6 Municipio, Ó Sociedad comunal ó municipal. goce del libre uso de esos poderes suyos. En consecuencia, debe usarlos, para la organización de su Estado particular. Por tanto, los Ayuntamientos 6 Municipalidades se organizarán en virtud del poder electoral del Municipio, representarán la capacidad legislativa [PDF 179] de la socicdad municipal. y su capacidad ejecutiva y la judicial. En suma: el Estado Municipal ha de ser órgano de todos los poderes de que necesite hacer uso para los fines de su vida la Sociedad municipal, y se organizará cn el modo más conforme al Estado nacional.
+
+Municipal society, like the regional, like the national, like the international, has necessarily, by the very force of its life, the same four powers, electoral, legislative, executive and judicial. There is no objection whatever, and, on the contrary, it is of great importance for normal order, that the Commune, or Municipality, or communal or municipal Society, should enjoy the free use of those powers of its own. Consequently, it ought to use them for the organization of its particular State. Therefore the Ayuntamientos or Municipal Corporations shall be organized by virtue of the electoral power of the Municipality, and shall represent the legislative capacity [PDF 179] — 171 — of municipal society, and its executive capacity, and the judicial. In sum: the Municipal State must be the organ of all the powers of which municipal Society may need to make use for the ends of its life, and it shall be organized in the manner most conformable to the national State.
+
+> El Estado regional 6 provincial,
+
+§ 3.
+
+> 29. FALTA DE RAZÓN DEL DESCONOCIMIENTO DE ESTA INSTITUCIÓN.—Hay pucblos tan satánicamente dirigidos por su propia ignorancia y por la de aquellos de sus miembros que se han crigido en sus guías, que ni siquiera noticias tienen de que la población de una provincia compone una sociedad tan real y efectiva como la sociedad nacional, como la sociedad municipal, ó como la sociedad familiar. Ignorantes de este hecho, Jos rovincianos, en la mayor parte de los pueblos e origen latino, si no en todos, consienten, en el modo más natural, en que ya el Cuerpo Legislativo Nacional, ya. más hecuentemente. el Cuerpo Ejecutivo, se entremetan cn la vida y dirección de la Provincia, y la constituyan y organicen á su modo; y, cuando el constituyente y organizador es el Ejecutivo, á su gusto y conveniencia.
+
+The regional or provincial State.
+
+> Mientras esto esté sucediendo, se estará violando la ley natural de existencia de una de las sociedades que componen, según lo hemos demostrado diferentes veces, en Capitulos anteriores. uno de los elementos naturales y necesarios de la sociedad nacional. Mientras asi suceda. ni el todo ni la parte, ni el órgano ni el organismo, ni la Región ni la Nación, podrán tener orden normal.
+
+29. Want of reason for the disregard of this institution.—There are peoples so satanically directed by their own ignorance, and by that of those of their members who have set themselves up as their guides, that they have not even notice that the population of a province composes a society as real and effective as national society, as municipal society, or as family society. Ignorant of this fact, the provincials, in the greater part of the peoples of Latin origin, if not in all, consent, in the most natural manner, that now the National Legislative Body, now, more frequently, the Executive Body, should meddle in the life and direction of the Province, and constitute and organize it after their own fashion; and, when the constituent and organizer is the Executive, after its own pleasure and convenience.
+
+> Para que el orden sea normal, es necesario que
+
+So long as this is happening, there will be violated the natural law of existence of one of the societies which compose, as we have demonstrated several times in previous chapters, one of the natural and necessary elements of national society. So long as it so happens, neither the whole nor the part, neither the organ nor the organism, neither the Region nor the Nation, can have normal order.
+
+In order that the order be normal, it is necessary that
+
+[PDF 180]
+
+> «ca orden juridico, y para que sea asi, ha de nacer de la correlación de los derechos y deberes de cada uno de los órgiunos naturales de la Sociedad. Establecida esta correlación, la sociedad nacional no puede tener interés en disputar á ninguno de los órganos sociales inferiores el goce legal de sus podercs; y, entonces, de la ejecución de los actos que cada órgano estime necesarios á su salud, resultará la salud de la Socicdad. Y como la salud no es más que el orden regular de las funciones de vna vida, resultará necesariamente cl orden.
+
+— 172 — it be juridical order, and in order that it be so, it must arise from the correlation of the rights and duties of each one of the natural organs of Society. This correlation established, national society can have no interest in disputing with any of the inferior social organs the legal enjoyment of their powers; and then, from the execution of the acts that each organ deems necessary to its health, will result the health of Society. And as health is no more than the regular order of the functions of a life, order will necessarily result.
+
+> 30. La SociORGANOLOGÍA Y EL GOBIERNO DE LA PROVINCIA.—La parte de la Sociologia que está Jlamada á divulgar estas nociones, y á hacer de la Sociedad y del Estado regional lo que deben ser todas las sociedades y todos los Estados compositivos de la Sociedad nacional, es un estudio que debe propinarse desde temprano, en la forma requerida, á todos y cada uno de los individuos á que ésta pueda alcanzar la divulgación de nociones de la verdad y del Derecho.
+
+30. Sociorganology and the government of the Province.—The part of Sociology which is called to spread these notions, and to make of regional Society and of the regional State what all the societies and all the States composing national Society ought to be, is a study which ought to be administered from an early age, in the form required, to each and every one of the individuals whom the spreading of notions of truth and of Law can reach.
+
+> Sólo así se podrá ir constituyendo órganos efectivos de la sociedad genoral; sólo asi se podrá constituir un Estado regional que, como el nacional, el municipal y el familiar. represente la capacidad de cada una sociedad para cfectuar por si misma las actividades todas de su vida.
+
+Only thus will it be possible to go on constituting effective organs of the general society; only thus will it be possible to constitute a regional State which, like the national, the municipal and the family State, shall represent the capacity of each society to effect by itself all the activities of its life.
+
+> $ 4, El Estado nacional.
+
+§ 4.
+
+The national State.
+
+> 31. (QuE DEBE sEr.—Aqui. conviene saber en un modo positivo que el Estado no es más ni es menos que un conjunto de instituciones que sirven expresamente, y en un modo exclusivo, para hacer posible la administración y dirección que la Sociedad no podría ejercer por sí misma, sién[PDF 181] do, como es, una entidad compuesta de millares y millones de entes. Para que estos millares y millones de entes tengan un régimen idéntico, necesitan de una misma ley; para que esos millares y millones de entes vean cumplida la Ley, es necesario quo haya un grupo representativo, en la Sociedad. que ponga en ejecución esa ley; para que esos millares y millones de entes vean cumlidos por todos esos preceptos legales de que pene el orden de ley, es necesario que otro grupo de personas represente la capacidad de declarar que a Ley es, ó no es, bien aplicada; para que esos millares y millones de entes puedan tener representantes de ellos mismos que dicten la Ley, la ojecuten y la declaren bien, 0 mal, aplicada, es necesario que haya quienes elijan esos representantes de la Sociedad. Sólo así, cuando ella ejerce sus poderes eloctoral, legislativo, ejecutivo y judicial, delegando temporalmente, y taxativamente, el ejercicio de ellos en individuos que reunidos formen cuatro instituciones diferentes: la institución del Cuerpo Electoral, la institución del Cuerpo Legislativo, la institución del Cuerpo Ejecutivo y la institución del Cuerpo J udicial. sólo entonces se podrá considerar organizado el Estado verdadero, es decir, cl Estado de derecho.
+
+31. What it ought to be.—Here it is fitting to know in a positive manner that the State is neither more nor less than an aggregate of institutions which serve expressly, and in an exclusive manner, to make possible the administration and direction which Society could not exercise by itself, be- [PDF 181] — 173 — ing, as it is, an entity composed of thousands and millions of beings. In order that these thousands and millions of beings may have an identical regime, they need one same law; in order that those thousands and millions of beings may see the Law fulfilled, it is necessary that there be a representative group in Society which shall put that law into execution; in order that those thousands and millions of beings may see fulfilled by all those legal precepts on which the order of law depends, it is necessary that another group of persons represent the capacity of declaring that the Law is, or is not, well applied; in order that those thousands and millions of beings may have representatives of their own who shall dictate the Law, execute it, and declare it well, or ill, applied, it is necessary that there be those who elect those representatives of Society. Only thus, when Society exercises its electoral, legislative, executive and judicial powers, delegating temporarily, and within strict limits, the exercise of them to individuals who, united, form four different institutions: the institution of the Electoral Body, the institution of the Legislative Body, the institution of the Executive Body and the institution of the Judicial Body,—only then will it be possible to consider the true State organized, that is to say, the State of right.
+
+> Esc Estado de derecho, simple conjunto de instituciones encaminadas á un solo propósito, cada una de ellas, no puede degcnerar nunca, mientras funcione con arreglo á su origen y á su destino, ni en Estado autocrático, ni en Estado oligárquico, ni en Estado demagógico.
+
+That State of right, a simple aggregate of institutions each of which is directed to a single purpose, can never degenerate, so long as it functions in accordance with its origin and its destination, either into an autocratic State, or into an oligarchic State, or into a demagogic State.
+
+> Pero, desgraciadamente, las nociones de Sociología entran por tan poca cosa en la formación de las ideas de Derecho Público, que la mayor parte de los pueblos de la Tierra ignoran lo que ellos mismos son, y lo que debe ser el Estado que ha de [PDF 182] representar la actividad normal de la administración pública.
+
+But, unfortunately, the notions of Sociology enter for so little in the formation of the ideas of Public Law that the greater part of the peoples of the Earth are ignorant of what they themselves are, and of what the State ought to be which is to [PDF 182] — 174 — represent the normal activity of the public administration.
+
+> 32. CÓMO DEBE ORGANIZARSE EL JUSTADO NACIOvar..—Ahora que sabemos lo que el Estado debe ser y por qué es tan grande la diferencia entre él tal cual debe scr y tal cual es, veamos cómo debe organizarse. Pero entiéndase, antes de seguir adelante, que ninguna organización del Estado es ni puede ser definitiva, porque po: encima de su organización está la vida social de que él depende, y cuando llegue la hora en que la Sociedad esté en capacidad de un gobierno mejor que cl á que hoy ha llegado por observación y experiencia, el Estado tendrá que organizarsc con arreglo á esa nueva capacidad. Por el momento, cl máximum de desarrollo 4 que ha llegudo la Sociedad contemporánca, es el que permite organizar el Estado democrático representativo; es decir, el Estado que corresponde áuna democracia representativa.
+
+32. How the national State ought to be organized.— Now that we know what the State ought to be, and why the difference is so great between it such as it ought to be and such as it is, let us see how it ought to be organized. But let it be understood, before going further, that no organization of the State is or can be definitive, because above its organization stands the social life on which it depends; and when the hour arrives in which Society shall be capable of a better government than that to which it has today attained by observation and experience, the State will have to be organized in accordance with that new capacity. For the moment, the maximum of development to which contemporary Society has attained is that which permits the organization of the representative democratic State; that is to say, the State which corresponds to a representative democracy.
+
+> 33. EL ESTADO DEMOCRÁTICO REPRESENTATIVO.
+
+33. The representative democratic State. In these representative democracies, whose fundamental principle is the distribution of the social powers among each of the societies, or of the social organs, that compose the Nation, the State, be it national, regional or municipal, enjoys complete autonomy, and represents partially the life of each of the particular societies, and, totally, the life of the general Society.
+
+> ¿n estas democracias representativas, cuyo principio fundamental es: la distribución de los poderes sociales entre cada una de las sociedades, ó de los órganos sociales que componen la Nación, el Estado es nacional, regional, municipal, goza de completa autorización, y representa parcialwente la vida de cada una de las sociedades particulares, y, totalmente, la vida de la Sociedad general.
+
+In this representative democratic State the electoral institution has not yet been established in a loyal and rational manner; but, with more or less irregularity, it functions in such a way that the other institutions or delegations of the social power function with some regularity.
+
+> En este Estado democrático representativo, todavía no se ha establecido en una manera leal y racional la institución electoral; pero, con más 6 menos irregularidad, funciona en modo que las otras instituciones ó delegaciones del poder social funcionen con alguna regularidad.
+
+> Esta regularidad de las funciones del Estado depende principalmente de la independencia de [PDF 183] que goce cada una de das instituciones, con respecto á las demás. Siempre que la ley constitutiva del Estado establezca con precisiór las atribuciones, en cada una de esas funciones del poder socia], el resultado será cl orden, porque cada una de las funciones de poder coadyuvará á la vida general de la Sociedad.
+
+This regularity of the functions of the State depends principally on the independence [PDF 183] — 175 — which each of the institutions enjoys with respect to the others. Whenever the constitutive law of the State establishes with precision the attributions in each of those functions of the social power, the result will be order, because each of the functions of power will contribute to the general life of Society.
+
+> $ 5,0 El Estado internacional.
+
+§ 5.
+
+> YM. No HA EXISTIDO NI EXISTE TODAVÍA.—El Estado internacional, que probablemente llegará. á ser una de las evoluciones naturales de la civilización jurídica, no ha existido nunca ni existe todavia. En realidad, á excepción del Anfictionado gricgo, que intentaba convertir en fuerza internacional las relaciones de los diversos Estados griegos entre sí, la antigúedad greco-romana no conoció nada que se pareciera al Estado internacional.
+
+The international State.
+
+34. It has not existed nor does it yet exist.—The international State, which will probably come to be one of the natural evolutions of juridical civilization, has never existed nor does it yet exist. In reality, with the exception of the Greek Amphictyony, which attempted to convert into an international force the relations of the various Greek States among themselves, Graeco-Roman antiquity knew nothing that resembled the international State.
+
+> 35. La CrISTIANDAD.—Dos Ó tres siglos después de la predicación del Cristianismo, cuando todavía subsistía como doctrina, creencia y culto ocular el Paganismo, se comenzó, ya instintivamente, ya por reflexión de los primeros orga.nizadores del Cristianismo como religión de Estado, á denominar «la Cristiandad» al conjunto de Jos pucblos que seguian la religión de Cristo como religión de Estado, en contraposición á los judíos y mahometanos, á quienes llamó «infieles». Es indudable que si la obra de los verdaderos fundadores del cristianismo del Estado hubieran tenido representantes humanitarios y no sectarios, en el pontificado católico, la Cristiandad habria concluido por ser efectivamente un hecho de la realidad internacional de Europa, [PDF 184] y que este hecho habria concluido por ser expresado juridicamente por un Estado internacional, Pero como, dospraciadamente, los jefes de la Iglesia, desde Hildebrando hasta Sixto Y, no pensaron en otra cosa que en organizar una Íglesia prepotente como entidad espiritual y temporal, se malogró la ocasión que, desde el siglo tv hasta el xvr, hubo de reunir á todos los Estados cristianos bajo un Estado común.
+
+35. Christendom.—Two or three centuries after the preaching of Christianity, when Paganism still subsisted as doctrine, belief and visible worship, there began, now instinctively, now through the reflection of the first organizers of Christianity as a religion of State, the custom of calling “Christendom” the aggregate of the peoples that followed the religion of Christ as religion of State, in contraposition to the Jews and Mohammedans, whom it called “infidels.” It is beyond doubt that if the work of the true founders of the Christianity of the State had had humanitarian and not sectarian representatives in the Catholic pontificate, Christendom would have ended by being effectively a fact of the international reality of Europe, [PDF 184] — 176 — and that this fact would have ended by being expressed juridically by an international State. But as, unfortunately, the heads of the Church, from Hildebrand to Sixtus V, thought of nothing else than of organizing a Church predominant as a spiritual and temporal entity, there was lost the occasion which, from the fourth century to the sixteenth, there was to unite all the Christian States under a common State.
+
+> 36. Ex EL si6Lo xIx.—El siglo xrx, que ha sido un siglo de encrucijada, y que, como todas las encrucijadas, ha sido medio geométrico de cuantos encuentros de opinión, reaparición de soncepciones vagas, restablecimiento de propósitos indecisos, pueden afluir 4 un mismo punto de afluencia, el siglo xix tuvo la vaga concepción de un Estado internacional, que de varios modos intentó establecer y que prácticamente estableció en dos ó tres casos. Tal vez lo más fructuoso que hizo aquel siglo, en cuanto al desarrollo de la vida internacional, fué el dar, por medio de las Conferencias de la Paz, y del acto colectivo de las Potencias europeas en la cuestión de Creta, una prueba de la posibilidad de establecer un recurso superior á los de cada Estado particular, a y para los conflictos internacionales.
+
+36. In the nineteenth century.—The nineteenth century, which has been a century of crossroads, and which, like all crossroads, has been the geometrical mean of as many encounters of opinion, reappearances of vague conceptions, re-establishments of undecided purposes, as can flow towards one same point of confluence,—the nineteenth century had the vague conception of an international State, which in various ways it attempted to establish, and which practically it established in two or three cases. Perhaps the most fruitful thing that century did, as regards the development of international life, was to give, by means of the Peace Conferences, and of the collective act of the European Powers in the question of Crete, a proof of the possibility of establishing a recourse superior to those of each particular State, in and for international conflicts.
+
+> El siglo xx ha tenido la desgracia de empezar, ú este respecto, con un acto de internacionalidad muy poco honroso para Europa, más bien ignominioso, como ha sido, y Cada dia lo será más, ante la Historia, la expedición 4 China.
+
+The twentieth century has had the misfortune to begin, in this respect, with an act of internationality very little honourable to Europe, rather ignominious, as the expedition to China has been, and every day will be more so, before History.
+
+> 37. Dos CONCEPTOS DEL ESTADO INTERNACIONAL. Como se ve, han aparecido últimamente dos tendencias: una, jurídica, filosófica, filantrópica; y otra, práctica, política, de mera oportunidad y zonveniencia. La primera, personificada por algunos de los mejores filántropos y pensadores de [PDF 185] Europa y América, ha trabajado por Crear, ya que no el Estado internacional, por lo menos vinculos de leyes internacionales que sometieran á todos los Estados de la civilización al principio de arbitraje. La otra tendencia, que involuntaria. mente ha propendido al mismo ó á semejante fin, ha estado representada precisamente por los Estados más ambiciosos, por los que más habían intentado contra la paz internacional, y por los que más habían escandalizado el sentido común del siglo xIX.
+
+37. Two conceptions of the international State. As is seen, two tendencies have lately appeared: one juridical, philosophical, philanthropic; and the other practical, political, of mere opportunity and convenience. The first, personified by some of the best philanthropists and thinkers of [PDF 185] — 177 — Europe and America, has laboured to create, if not the international State, at least bonds of international laws which should submit all the States of civilization to the principle of arbitration. The other tendency, which involuntarily has tended towards the same or a similar end, has been represented precisely by the most ambitious States, by those which had most attempted against international peace, and by those which had most scandalized the common sense of the nineteenth century.
+
+> De la. obra de los pensadores y de los soberanos europeos, lo único que será utilizable, en este propósito de reunir todos los Estados de la civilización en un Estado general, serán los antecedentes jurídicos establecidos por los Congresos de la Paz, y por la acción colectiva de las Potencias, en la lucha de Creta contra Turquía.
+
+Of the work of the thinkers and of the sovereigns of Europe, the only thing that will be utilizable, in this purpose of uniting all the States of civilization in a general State, will be the juridical precedents established by the Peace Congresses, and by the collective action of the Powers in the struggle of Crete against Turkey.
+
+> Pero háyase 6 no se haya hecho lo que al desarrollo de la idea de Estado convenía, es manifiesto que, dentro de la idea de Estados particulares ó nacionales, germina la idea de un Estado general ó internacional.
+
+But whether or not that has been done which suited the development of the idea of the State, it is manifest that, within the idea of particular or national States, there is germinating the idea of a general or international State.
+
+> 38. Lo QUE HABRÁ DE SER, Y CÓMO DEBE ORGA- NIZARSE.— Veamos lo que habrá de ser y cómo habrá de organizarse. Hasta ahora no se ha concebido, en realidad. la constitución de un Estado internacional, propiamente tal. Los que hablan de Estados unidos de Europa, no tienen idea ni propósito de la unidad jurídica que llamamos Estado, y á la cual referimos la representación, la vida, de un todo nacional, sin detrimento de sus partes. Lo que se ha entendido é intentado, or medio de propagandas hasta ahora ineficaces, ha sido la reunión de los Estados europeos en una confederación que tuviera por objeto asegurar la paz de Europa, aunque fuera á expensas de la paz [PDF 186] del Mundo. No se puede hacer á las Asociaciones de la Paz la injusticia de creerlas imbuídas cn ese innoble cerwjsmo; pero cuando se ve que los resultados de los continuos esfuerzos por asegurar la, paz en Europa, dan resultados como la guerra en China, no se puede tener confianza cn la eficacia, y mucho menos en la fecundidad de propósitos parciales como los de la Liga de la Paz, 6 los del Czar Nicolás II, ó los que acariciaba Napoleón MI.
+
+38. What it will have to be, and how it ought to be organized.—Let us see what it will have to be and how it will have to be organized. Until now there has not been conceived, in reality, the constitution of an international State, properly so called. Those who speak of United States of Europe have neither idea nor purpose of the juridical unity which we call the State, and to which we refer the representation, the life, of a national whole, without detriment to its parts. What has been understood and attempted, by means of propagandas hitherto ineffectual, has been the union of the European States in a confederation which should have for its object to secure the peace of Europe, even though it were at the expense of the peace [PDF 186] — 178 — of the World. One cannot do the Peace Associations the injustice of believing them imbued with that ignoble egoism; but when it is seen that the continual efforts to secure peace in Europe give results such as the war in China, one cannot have confidence in the efficacy, and much less in the fecundity, of partial purposes such as those of the League of Peace, or those of the Czar Nicholas II, or those which Napoleon III cherished.
+
+> Y sin embargo, si de alguna manera se ha de: llegar á establecer el Estado internacional en Eu- TOpa, po esos pasos lentos ha de ser. Más bien:
+
+And yet, if in any manner the international State is to be established in Europe, it must be by those slow steps. Rather: if the idea of the common representation of Europe by a single organ, or State, is to come to fruition, very delicate steps and essays must be made, because for each step the dynastic regime of the greater part of Europe is an obstacle. As precisely one of the steps yet to be taken, in order to arrive at the constitution of an international State in Europe, is the overthrowing of the dynastic families, which at present obstruct the development of the equality and the fraternity of the European nations, this task, which is most difficult, is nevertheless a probably necessary precedent; for so long as the Republic has not effected the confraternity of the peoples, it is almost impossible that any doctrinal interest can make effective the confederation of the States.
+
+> i ha de llegar á fructificar la idea de la común representación de Europa por un solo órgano, ó Estado, pasos y tanteos muy delicados han de. darse, porque para cada paso es un obstáculo el régimen dinástico de la mayor parte de Europa. Como precisamente uno de los pasos por dar, para. Jlegar á la constitución de un listado internacional en Europa, es el echar por tierra las familias dinásticas, que entorpecen actualmente el desarrollo de la igualdad y la fraternidad de las naciones curopeas, esta tarea, que es dificilísima, es, sin embargo, un precedente probablemente necesario, pues mientras la República no haya efec— tuado la confraternidad de los pueblos, es casi 1mposible que ningún interés doctrinal pueda hacer efectiva la confederación de los Estados.
+
+> Pero la necesidad es tan grande, que alguna. satisfacción ha de buscársele, y probablemente la. primera tentativa de unión europea bajo un Estado común, será una confederación parcial de algunas Potencias de primer orden, y de algunas de segundo, 6 de tercero. Esta transición de Jas alianzas cfímeras á las uniones efectivas, dará por resultado una paz más segura y duradera que todas las artificiosamente conseguidas en el si[PDF 187] — 179 — glo xix á fuerza de sacrificios de amor propio nacional.
+
+But the necessity is so great that some satisfaction must be sought for it, and probably the first attempt at European union under a common State will be a partial confederation of some Powers of the first order, and of some of the second, or of the third. This transition from ephemeral alliances to effective unions will give as its result a peace more secure and lasting than all those artificially obtained in the nine- [PDF 187] — 179 — teenth century at the cost of sacrifices of national self-esteem.
+
+> Es probable que si la unión parcial sc efectúa entro Estados republicanos, como Francia y Suiza, y otros próximos á la república, como Dinamarca, Holanda y Bélgica, el segundo paso práctico, en la busca de un estado internacional, será: una revolución antidinústica, que, convirtiendo en Estado op cano alguna de las viejas monarquías, habrá de inducirla por fucrza á buscar en la unión con otro ú otros Estados la fuerza de conservación que ya estará mostrando la primera confederación parcial que se haya establecido.
+
+It is probable that, if the partial union is effected among republican States, such as France and Switzerland, and others close to the republic, such as Denmark, Holland and Belgium, the second practical step, in the search for an international State, will be an antidynastic revolution which, converting some one of the old monarchies into a republican State, will needs induce it to seek in union with another or other States the force of conservation which the first partial confederation that shall have been established will already be showing.
+
+> 39. CómMO PODRÁ LLEGARSE AL ESTADO INTER- NACIONAL EUROPEO.—Cuando ya cxistan tres ú cuatro repúblicas que sirvan de núcleo á otras tantas confederaciones parciales, por dos caminos se podrá llegar á la confederación general, y ambos habrán de ser caminos de guerra: ú las pequefñías confederaciones se ligan para resistir ú la confabulación de los Estados que vean en cllas un peligro 4 su prepotencia, ó el hecho de constituirse en una unión de pequeñas confederaciones rovoca una declaración de guerra, por parte de as Potencias que se consideren en peligro. En cualquiera de estos casos, y cualquiera que sea el resultado militar de esas luchas, el resultado político será: el convencimiento de la utilidad de esas alianzas definitivas, en forma de poderes confederados.
+
+39. How the European international State may be reached.—When there already exist three or four republics serving as nucleus to as many partial confederations, the general confederation may be reached by two roads, and both will have to be roads of war: either the small confederations will league themselves to resist the conspiracy of the States that see in them a danger to their predominance, or the fact of constituting themselves into a union of small confederations will provoke a declaration of war on the part of the Powers that consider themselves in danger. In either of these cases, and whatever be the military result of those struggles, the political result will be the conviction of the utility of those definitive alliances, in the form of confederated powers.
+
+> 40. ASPECTO DEL PROBLEMA .—Tras «dle esas confederaciones de poderes internacionales, vendrán, probablemente, las confederaciones de intereses comerciales, en que á veces piensan ya los europeos, cuando piensan en el modo de contener la invasión de productos norteamericanos.
+
+40. Aspect of the problem.—After those confederations of international powers will come, probably, the confederations of commercial interests, of which the Europeans at times already think, when they think of the manner of containing the invasion of North American products.
+
+> El día en que los intereses políticos se concilien,
+
+The day on which political interests are reconciled,
+
+[PDF 188]
+
+> completamente, con los comerciales, y además de los Estados se hayan contederado las aduanas, la confederación europca habrá facilitado el paso á los Estados unidos de Europa, que podrán algún día llegar á formar el Estado internacional europeo, si junto con la confederación de los intereses olíticos y los comerciales se efectúa la concordia e los intereses económicos cuando ya la civilización esté suficientemente desarrollada para fundar en su funcionamiento natural un Estado completamente jurídico, una serie de iglesias completamente independientes, y una policía, un ejército y una armada cuya organización se funde en intereses de carácter internacional.
+
+— 180 — completely, with the commercial, and when, besides the States, the custom-houses have been confederated, the European confederation will have facilitated the passage to the United States of Europe, which may some day come to form the European international State, if, together with the confederation of political and commercial interests, there is effected the concord of economic interests at a time when civilization is already sufficiently developed to found upon its natural functioning a completely juridical State, a series of completely independent churches, and a police, an army and a navy whose organization is founded upon interests of an international character.
+
+> Europa está en aptitud de construir ese Estado internacional, copia de la Familia, de la primera tentativa de agrupación social; pero los países realmente llamados á dar el ejemplo del Estado intervacional son: los del Nuevo Continente.
+
+Europe is in a fit condition to construct that international State, a copy of the Family, of the first attempt at social grouping; but the countries really called to give the example of the international State are those of the New Continent.
+
+> Si los Estados americanos de origen anglosajón no hubieran reducido á tan poco su política internacional. ni hubieran rehuído sistemáticamente el papel de democracia propagandista, es indudable que la situación de este momento sería mucho más lógica y sencilla: los Estados Unidos serían, á estas horas, simple y normalmente, los directores de la vida internacional del continente americano. Mas, por una parte, se acostumbraron insensatamente á menospreciar á los pueblos de origen ibérico en América, y, por otra parte, se negaron con obstinación á secundar las expansiones naturales de la democracia joven y fuerte en que ellos mismos se cimentan. De esos errores, este resultado: hoy, cuando por la fuerza ciega de las osas, se ha dado el primer paso en la vía del Estado internacional, la Unión Americana no está en aptitud mental de dirigirlo: no sabe lo que [PDF 189] conviene hacer, ni cómo ha de hacer lo que conviene.
+
+If the American States of Anglo-Saxon origin had not reduced their international policy to so little, nor systematically shunned the part of a propagandist democracy, it is beyond doubt that the situation at this moment would be much more logical and simple: the United States would be, at this hour, simply and normally, the directors of the international life of the American continent. But, on the one hand, they grew senselessly accustomed to despise the peoples of Iberian origin in America; and, on the other hand, they obstinately refused to second the natural expansions of the young and strong democracy on which they themselves are founded. Of those errors, this result: today, when by the blind force of things the first step has been taken on the road of the international State, the American Union is not in a mental condition to direct it: it knows not what [PDF 189] — 181 — it is fitting to do, nor how it is to do what is fitting.
+
+> Convenia demostrar, en un modo experimental, que, dentro del Continente, caben dos federaciones y una confederación. El modo de demostrarlo consistia en hacerse cargo de preparar por sí mismo el Gobierno Americano á las Grandes Antillas, para ser una confederación. El mero hecho de constituir ellas en el Continente la fuerza de ponderación que había querido formar con ellas el único propagandista que tenía y seguía un plan, habría bastado, junto con el espiritu de cuerpo y €l instinto de familia, para habituar á los Estados del Sur, desde Venezuela y Colombia en adelante, á la idea de una unión orgánica. Lo demás, con el resto del Continente dei Norte, está llamado á unirse á la gran federación de los Estados Unidos.
+
+It was fitting to demonstrate, in an experimental manner, that within the Continent there is room for two federations and a confederation. The manner of demonstrating it consisted in the American Government's taking upon itself to prepare the Greater Antilles to be a confederation. The mere fact of their constituting in the Continent the force of equipoise which the only propagandist who had and followed a plan had wished to form with them, would have sufficed, together with the corporate spirit and the instinct of family, to accustom the States of the South, from Venezuela and Colombia onward, to the idea of an organic union. The rest, with the remainder of the Continent of the North, is called to join the great federation of the United States.
+
+> Pero ya se ve cómo, lejos de utilizar su posición social, su situación económica y su fuerza juridica, los Estados Unidos no han sabido más que equivocarse, siguiendo la antigua trayectoria histórica r el camino de la fucrza bruta, al imperio y dominio de los débiles, —y así malograno la poderosa fuerza de sus instituciones, y poniendo en crisis los principios fundamentales de su constitución política y social.
+
+But it is already seen how, far from utilizing their social position, their economic situation and their juridical force, the United States have known only how to err, following the ancient historical trajectory—by the road of brute force, to the empire and dominion of the weak,—and thus frustrating the powerful force of their institutions, and putting in crisis the fundamental principles of their political and social constitution.
+
+> Por su parte, los Estados de origen español siguen siendo casos de Sociopatía. Al cabo de los años mil, todavía no se han constituido como socicdades sanas. Las dos únicas en Cuyo desarrollo concurren naturaleza y experiencia en la obra de un funcionamiento menos anormal, están á distancia tan grande de la, idea de unión, que ni siquiera para ayudar á Cuba, cuando era oportuno, ni para contribuir en Venezuela á salvar el derecho de los débiles, han sabido, ó querido, ú podi[PDF 190] do, asumir la capacidad de una personalidad internacional.
+
+For their part, the States of Spanish origin continue to be cases of Sociopathy. After a thousand years, they have not yet constituted themselves as healthy societies. The only two in whose development nature and experience concur in the work of a less abnormal functioning are at so great a distance from the idea of union that neither to help Cuba, when it was opportune, nor to contribute in Venezuela to saving the right of the weak, have they known how, or wished, or been [PDF 190] — 182 — able, to assume the capacity of an international personality.
+
+> Como esos dos, todos los Estados de origen latino 6 ibérico. En vez de manifestarse dispuestos á la obra á que indudablemente están llamados por el destino manifiesto de los pueblos de Occidente y por eficacia virtual del principio federativo, rehuyendo cuanto puede, no ya sólo la unión, no ya sólo la idea de la unión, sino hasta las previsiones de una alianza.
+
+Like those two, all the States of Latin or Iberian origin. Instead of showing themselves disposed for the work to which they are undoubtedly called by the manifest destiny of the peoples of the West and by the virtual efficacy of the federative principle, they shun as much as they can, not merely union, not merely the idea of union, but even the provisions of an alliance.
+
+> Eso no obstante, el siglo xx será tiempo bastante para la organización del Estado internacional americano, que probablemente se constituirá antes que el Estado internacional europeo. Tanto más probablemente, cuanto que aquí se trata simplemente de poner á prueba la ductilidad del fecundísimo principio de federación. Bien sca fabricando la confederación antillana, y, tras ella, la federación sudamericana, cuyo resultado sería la unión federal del Continente entero; bien sea procediendo por vía diplomática á establecer relaciones politico-económico-sociales entre los Estados de una y otra familia continental. Es patente, desde ahora, que una de las tarcas de este siglo ha de ser la construcción de cse Estado internacional americano.
+
+That notwithstanding, the twentieth century will be time enough for the organization of the American international State, which will probably be constituted before the European international State. All the more probably, inasmuch as here it is simply a question of putting to the proof the ductility of the most fruitful principle of federation: whether it be by fashioning the Antillean confederation and, after it, the South American federation, the result of which would be the federal union of the entire Continent; or whether it be by proceeding by diplomatic means to establish political-economic-social relations between the States of the one and the other continental family. It is patent, from this moment, that one of the tasks of this century must be the construction of that American international State.
+
+## CHAPTER V
+
+## SOCIOPATHY
+
+## SECTION 1
+
+## SOCIAL DISEASES
+
+> CAPÍTULO V SOCIOPATÍA
+
+> SECCIÓN 1.* ENFERMEDADES SOCIALES 1. Por QUÉ PUEDE SUFRIR ENFERMEDADES LA
+
+> SocirDan.—Las sociedades, como los individuos, están sujetas 4 enfermedad. Esto, por una parte, [PDF 191] está dentro de la Ley del Progress, y. por otra parte, es resultado de la Ley de los Medios. En virtud de la Ley de Progreso, todo cuanto es capaz de crecimiento, es susceptible de decrecimiento. De aqui, enfermedad. En virtud de la Ley de los Medios, toda fuerza debilita su acción, según el medio. De aqui, también, enfermedad.
+
+1. Why Society can suffer diseases.—Societies, like individuals, are subject to disease. This, on the one hand, [PDF 191] — 183 — is within the Law of Progress, and, on the other hand, is a result of the Law of Media. By virtue of the Law of Progress, all that is capable of growth is susceptible of decrease. Hence, disease. By virtue of the Law of Media, every force weakens its action according to the medium. Hence, also, disease.
+
+> 2. CLASIFICACIÓN DE LAS ENFERMEDADES SOCIA- LES.—Las enfermedades de la Sociedad, podrían, a priori, tundándose en las dos leyes citadas, dividirse en enfermedades de crecimiento y enfermedades de ambiente. Pero como esta tentativa para orgapizar el estudio de la Sociopatía presenta más conveniente el procedimiento de inducción que el de deducción, mejor será tomar como base del desarrollo de este estudio, las cosas tales como ellas son en las realidades de la vida social.
+
+2. Classification of social diseases.—The diseases of Society might, a priori, on the ground of the two laws cited, be divided into diseases of growth and diseases of environment. But as this attempt to organize the study of Sociopathy shows the procedure of induction to be more suitable than that of deduction, it will be better to take as the basis for the development of this study things such as they are in the realities of social life.
+
+> 3. DE DÓNDE VIENEN LAS ENFERMEDADES SOCIA- Les.—lón la realidad social, á poco que se reflexione en la causa del desorden, parcial, ó total, que enferma á las sociedades humanas, se observará que algunas faltas de salud social proceden de la herencia; otras, de un consecuente fenómeno de atavismo; otras, de malestares procedentes del desconcierto económico; otras, de falta de libertad, hija del desorden jurídico; otras, son falta de salud mtelectual, falta de salud moral, que provienen de dosórdenos educacionales ó religosos.
+
+3. Whence social diseases come.—In social reality, if one reflects but a little on the cause of the disorder, partial or total, that sickens human societies, it will be observed that some defects of social health proceed from heredity; others, from a consequent phenomenon of atavism; others, from ailments proceeding from economic disarrangement; others, from want of liberty, the offspring of juridical disorder; others are want of intellectual health, want of moral health, which arise from educational or religious disorders.
+
+> Muchas de estas faltas de salud, independientemente de la causa inmediata que los.determina, proceden de falta de atención al Medio ambiente; otras, al contrario, proceden de excesos de atención al ambiente social en que se vive.
+
+Many of these defects of health, independently of the immediate cause that determines them, proceed from want of attention to the surrounding Medium; others, on the contrary, proceed from excesses of attention to the social environment in which one lives.
+
+> 4. QUE SON ESAS ENFERMEDADES.—Si se quiere tener una idea unitaria de todas las enfermedades que aquejan al cuerpo social, bastará refle[PDF 192] xionar que, en la Sociedad como en el Individuo, la enfermedad tiene, por fuerza, que ser, y necesariamente es, una alteración de una, ó de todas las funciones de la vida.
+
+4. What those diseases are.—If one wishes to have a unitary idea of all the diseases that afflict the social body, it will suffice to re- [PDF 192] — 184 — flect that, in Society as in the Individual, disease must perforce be, and necessarily is, an alteration of one, or of all, of the functions of life.
+
+> Esta idea unitaria ó principio general, á que inductivamente se llega por cl examen de los hechos morbosos de la Sociedad, probablemente será fecundísima en la obra de la curación de las enfermedades sociales. Como en materia de Sociologia casi todo está por hacer, y en materia de ¡Sociopatía lo está todo, ya es presentar en estado de adelanto suficiente la parte de la Ciencia Social encargada del conocimiento de las enfermedades colectivas, el tomar como punto de partida el rincipio de que las enfermedades sociales, como as individuales, no son más que desarreglos de funciones vitales.
+
+This unitary idea or general principle, at which one arrives inductively by the examination of the morbid facts of Society, will probably be most fruitful in the work of the cure of social diseases. As in the matter of Sociology almost everything remains to be done, and in the matter of Sociopathy everything does, it is already to present in a sufficiently advanced state the part of Social Science charged with the knowledge of collective diseases, to take as point of departure the principle that social diseases, like individual ones, are no more than derangements of vital functions.
+
+> Al proceder, por tanto, al análisis de esas alteraciones, lo mejor será descartar en el primer momento las enfermedades de herencia y las de atavismo, para proceder al conocimiento de las enfermedades que inmediatamente aparecen causadas por alteraciones más 6 menos profundas de todas, ó algunas, ó una función, de la vida de la Sociedad. Para seguir este orden, comenzaremos por las enfermedades de carácter económico.
+
+In proceeding, therefore, to the analysis of those alterations, the best course will be to set aside at the first moment the diseases of heredity and those of atavism, in order to proceed to the knowledge of the diseases which immediately appear caused by more or less profound alterations of all, or some, or one function, of the life of Society. To follow this order, we shall begin with the diseases of an economic character.
+
+> Enfermedades de carácter económico.
+
+§ 1.
+
+Diseases of an economic character.
+
+5. Which they are.—The social body, the same as the individual body, can suffer the consequences of hunger, among which physiological misery, social anaemia and pauperism are those of most notable character.
+
+> 9. Cuárnes soN.—El cuerpo social, lo mismo ue el individual, puede sufrir las consecuencias del hambre, entre las cuales, lu miseria fisiológica, la anemia social y el pauperismo, son las de carácter más notable. 6. La MISERIA FISIOLÓGICA.—La miseria fisiológica, es el estado de debilidad social que resulta. [PDF 193] de la falta de fuerza fisica, en la generalidad de los individuos que componen un todo social. Esta enfermedad puede ser resultado de las hambres eriódicas, 0 de un estado continuo de necesidaes físicas mal satisfechas, cn los países que, como la India y la Irlanda, están sujetos á los periódicos destrozos ocasionados por falta de subsistencia; la población va perdiendo poco á poco su fuerza física hasta que llega, en su debilidad, 4 un grado de inanición muy próximo á la muerte. Esos son los periodos en que se ha visto entablada en un modo más patente lo que el transformismo inglés ha llamado «lucha por la vida», que, unas veces, se manifiesta por la desaparición, en masa, de millares de componentes de la población, como en la India, y que, otras veces, se patentiza en las emigraciones sistemáticas, como en Irlanda.
+
+6. Physiological misery.—Physiological misery is the state of social debility which results [PDF 193] — 185 — from the want of physical force in the generality of the individuals that compose a social whole. This disease may be the result of periodical famines, or of a continuous state of ill-satisfied physical necessities, in the countries which, like India and Ireland, are subject to the periodical havoc occasioned by want of subsistence; the population goes on losing little by little its physical force until it arrives, in its debility, at a degree of inanition very close to death. Those are the periods in which there has been seen engaged, in a more patent manner, what English transformism has called the “struggle for life,” which at times manifests itself by the disappearance, in mass, of thousands of the components of the population, as in India, and which at other times becomes patent in systematic emigrations, as in Ireland.
+
+> 7. EN LOS PAÍSES INTERTROPICALES.—Hay paises en donde el resultado de esta enfermedad social no Cs ni la muerte ni la emigración, en masa, sino un estado de decadencia fisica que se prolonga indefinidamente sin aparente daño de a población, pero en efectiva perversión de sus fuerzas naturales. Así, en los paises intertropicales, como nuestras Antillas, principalmente en Borinquen y en Quisqueya, la miseria fisiológica no se manifiesta por disminuciones de población ocasionadas por muertes, ó por emigraciones, en globo, sino por un debilitamiento tan considerable de la fuerza física, que, ó los niños nacen valetudinarios, ó mueren en la edad del desarrollo, ó crecen anémicos.
+
+7. In the intertropical countries.—There are countries in which the result of this social disease is neither death nor emigration in mass, but a state of physical decadence which is prolonged indefinitely without apparent harm to the population, but in effective perversion of its natural forces. Thus, in the intertropical countries, such as our Antilles, principally in Borinquen and in Quisqueya, physiological misery does not manifest itself by diminutions of population occasioned by deaths, or by emigrations in the gross, but by so considerable a weakening of physical force that either the children are born valetudinarian, or they die at the age of development, or they grow up anaemic.
+
+> 8. CAUSA DE SU ESTADO.—La causa indudable de este estado de salud tan deficiente, es la falta de subsistencias adecuadas y la incapacidad social para mejorar las condiciones físicas del terri[PDF 194] torio, para el dominio de las aguas, para la desecación de los pantanos, para irrigación de los terrenos, para la caualización de los rios, para la dotación de aguas potables é higiénicas en los poblados; en suma, para la apropiación de las fuerzas naturales. al mantenimiento de las fuerzas fisicas de la Sociedad.
+
+8. Cause of its condition.—The undoubted cause of this so deficient state of health is the want of adequate means of subsistence and the social incapacity to improve the physical conditions of the terri- [PDF 194] — 186 — tory, for the mastery of the waters, for the draining of the marshes, for the irrigation of the lands, for the canalization of the rivers, for the provision of drinking and hygienic waters in the settlements; in sum, for the appropriation of the natural forces to the maintenance of the physical forces of Society.
+
+> 9. ANEMIA SOCIAL.—La anemia social, como la fisica, es una enfermedad resultante de la falta de sangre, que es tan efectiva en las anemias de la Sociedad como en las anemias de los individuos. A primera vista, esto parece incomprensible, pero á segunda vista no. Con efecto: si todos ó la mayoria de los individuos que componen una sociedad se alimentan mal, 4 sufren de paludismo constitucional, ó están sujetos á la peste de los pantanos, es natural que la suma de todos los anémicos produzca grupos sociales de anémicos. Si en una familia sufren todos de las enfermelades que roducen falta de sangre, el ernpo social de esa amilta se nos presentará como la suma de todos los anémicos de la casa. Pues eso mismo sucede en todos los grupos sociales.
+
+9. Social anaemia.—Social anaemia, like physical anaemia, is a disease resulting from the want of blood, which is as effective in the anaemias of Society as in the anaemias of individuals. At first sight this seems incomprehensible, but at second sight not. Indeed: if all or the majority of the individuals that compose a society are ill nourished, or suffer from constitutional malaria, or are subject to the pestilence of the marshes, it is natural that the sum of all the anaemic should produce social groups of anaemic persons. If in a family all suffer from the diseases that produce want of blood, the social group of that family will present itself to us as the sum of all the anaemic of the house. Well, that same thing happens in all social groups.
+
+> Hay un pais, isla encantadora, que la Naturaleza se ha empeñado cn dotar de todas sus bellezas, que el hombre ha malogrado, por su falta de razón y de voluntad. En esa isla venturosa por naturaleza, como pocas, desventurada por dirección, como ninguna, el pésimo régimen de alimentación, y la falta completa de todos los medios de que la civilización dispone para el saneamiento de los territorios, han producido un estado c'eneral de anemia, que se manifiesta á la vista de todo el que llega á aquel pais.
+
+There is a country, an enchanting island, which Nature has been bent on endowing with all her beauties, and which man has spoiled by his want of reason and of will. In that island, fortunate by nature as few are, unfortunate in its direction as none, the wretched regime of alimentation, and the complete want of all the means which civilization has at its disposal for the sanitation of territories, have produced a general state of anaemia which manifests itself to the sight of every one who arrives in that country.
+
+> 10. ELCASO DE ALGUNOS PAÍSES INTERTROPICA- LES DE ORIGEN ESPAÑOT.—Circunstancias iguales, aunque no tan agravantes, producen en la Repú[PDF 195] blica Dominicana, y en la mayor parte de los paises intertropicales de origen español, el mismo malestar social.
+
+10. The case of some intertropical countries of Spanish origin.—Like circumstances, though not so aggravating, produce in the Repub- [PDF 195] — 187 — lic of Santo Domingo, and in the greater part of the intertropical countries of Spanish origin, the same social malaise.
+
+> En todos estos paises, la población se desarrolla en una mancra en extremo irregular, no ya sólo con lo que dice relación á los vínculos de afecto y de derecho que produce el crecimiento, sino por lo que se refiere á los elementos y recursos materiales de que hacen uso al constituir una familia, ya legítima, ya ilegitima. La mayor parte de los hijos de esas uniones ilícitas, ó antieconómicas, nacen para pulular, no para vivir; es decir, nacen para aumentar el número de seres, como sucede en los pantanos, ó en los lugares de fermentación; nacen fuera de las condiciones de la vida normal; nacen para aumentar la familia de los indigentes y de los miserables; nacen para formar inconscientemente obstáculos materiales y morales 4 los órganos de la Sociedad cucargada de las funciones de su vida.
+
+In all these countries the population develops in an extremely irregular manner, not only in what bears relation to the bonds of affection and of right which growth produces, but in what refers to the material elements and resources of which they make use in constituting a family, be it legitimate, be it illegitimate. The greater part of the children of those illicit, or anti-economic, unions are born to swarm, not to live; that is to say, they are born to increase the number of beings, as happens in the marshes, or in the places of fermentation; they are born outside the conditions of normal life; they are born to increase the family of the indigent and the wretched; they are born to form unconsciously material and moral obstacles to the organs of Society charged with the functions of its life.
+
+> Eso, que sucede en las Antillas como resultado de la anemia y de la debilidad que un pésimo régimen social ha producido en estas poblaciones, es en ellas un síntoma de descomposición, pero no todavía un estado fisiológico.
+
+That, which happens in the Antilles as a result of the anaemia and of the debility which a wretched social regime has produced in these populations, is in them a symptom of decomposition, but not yet a physiological state.
+
+> 11. EL EXCESO DE POBLACIÓN, EN ALGUNOS PAÍ- SES Y CIUDADES. EL PAUPERISMO.— En donde ya si es un estado fisiológico, que por su continuidad tradicional ofrece todos los caracteres de un mal crónico, es en los paises en que el exceso de población crea estados antieconómicos, y en las ciudades extraordinariamente populosas, en donde diariamente van cayendo en la sima de la miseria todos los restos de población urbana que no logran relacionar sus productos con sus con- SUMOS.
+
+11. Excess of population in some countries and cities. Pauperism.—Where it is indeed a physiological state, which by its traditional continuity offers all the characters of a chronic ill, is in the countries in which the excess of population creates anti-economic states, and in the extraordinarily populous cities, in which there go on falling daily into the abyss of misery all the remnants of urban population that do not succeed in bringing their products into relation with their consumption.
+
+> En tales ciudades (New-York, Chicago, San
+
+In such cities (New York, Chicago, San
+
+[PDF 196]
+
+> Francisco de California, en Norte-América; Cantón, Nankín, Pekin, en China; Yedo, en el Japón; Londres, Paris, Vicna, Berlín, en Europa) y en tales paises (como China, la India, Irlanda, Inglaterra; algunas porciones montañosas de Francia; algunas porciones de Alemania), la condenación de una parte de la población á la miseria completa y á la completa falta de recursos constituye un estado definido: esc estado de la Sociedad general, ó de Jas sociedades urbanas, en que continuamente van abismándose en la pobreza. irremediable una porción creciente de elementos de la población, es lo que constituye la cnfermedad del paruperismo: es como una especie de elefancia, que va arrojando los humores malsanos, sin fuerza el organismo para desprenderse de ellos, y los exhihe en hinchazones y lepromas repugnantes.
+
+— 188 — Francisco of California, in North America; Canton, Nanking, Peking, in China; Yedo, in Japan; London, Paris, Vienna, Berlin, in Europe) and in such countries (as China, India, Ireland, England; some mountainous portions of France; some portions of Germany), the condemnation of a part of the population to complete misery and to the complete want of resources constitutes a definite state: that state of the general Society, or of the urban societies, in which a growing portion of the elements of the population go on continually sinking into irremediable poverty, is what constitutes the disease of pauperism: it is like a species of elephantiasis, which goes on casting out the unwholesome humours, the organism being without force to rid itself of them, and exhibits them in swellings and repugnant lepromas.
+
+> $20 Enfermedades de carácter jurídico.
+
+§ 2.
+
+> 12. LoQUuE SON LAS ENFERMEDADES DEL DEREcuo.—Empecemos por esta pobre república á saber lo que son las enfermedades del Derecho: primero, una partida de aventureros fabrica acá y allá unos cuantos villorrios, á cuyo frente pone unos concejos ó ayuntamientos que ni siquiera supieron nunca que hay un Derecho, de necesidad; después, el vaivén de Jos descubrimientos y conquistas en el Continente, va disminuyendo la población de la ciudad y Jos villorrios hasta el punto de que llega un día en que los recintos vacios de las villas y ciudades son como un reflejo de territorio desierto en que unas cuantas greyes forman hatos, y esos cuantos hatos forman centros de población tan separados los unos de los otros, que ni se comunican.
+
+Diseases of a juridical character.
+
+12. What the diseases of Law are.—Let us begin with this poor republic in order to know what the diseases of Law are: first, a band of adventurers builds here and there a few hamlets, at whose head it places some councils or ayuntamientos which never even knew that there is a Law of necessity; afterwards, the ebb and flow of the discoveries and conquests on the Continent goes on diminishing the population of the city and the hamlets to the point that a day arrives on which the empty precincts of the towns and cities are as a reflection of a desert territory in which a few flocks form cattle-ranges, and those few ranges form centres of population so separated the one from the other that they do not even communicate.
+
+[p. 189]
+
+> En un tal grupo social, exclusivamente existente como propiedad de la Corona de España, el agente militar, ya un general, ya un coronel, ya un simple capitán, es siempre un todopoderoso á cuyos pies yacen los derechos de los pocos que resien con él en el recinto urbano. Este grupo de población, que no conoce, que no practica tampoco ninguno de los recursos, ninguna de las iniciativas, que el derecho de vivir da á los individuos y á los grupos sociales.
+
+In such a social group, existing exclusively as property of the Crown of Spain, the military agent, be he a general, be he a colonel, be he a simple captain, is always an all-powerful one at whose feet lie the rights of the few who reside with him within the urban precinct. This group of population, which knows not, which practises not either, any of the resources, any of the initiatives, which the right to live gives to individuals and to social groups.
+
+> 13. Fuera de los recintos urbanos, los criadores, que son dueños absolutos de sus hatos, lo son también de sus peones, y en la extensión casi desierta del territorio, los grupos de población aislados de todo centro y desherodados de todo derecho, no tienen más recurso que sufrir la omnitencia de los hateros. En modo que, en realiad, durante todo el periodo colonial, aquí no ha habido ninguna autoridad jurídica, y el ejercicio de las funciones de gobierno ha estado encargado, por necesidad, á los directores económicos del único trabajo á que la población podía entregarse.
+
+13. Outside the urban precincts, the stock-breeders, who are absolute masters of their ranges, are so also of their peons; and in the almost desert extent of the territory, the groups of population, isolated from every centre and disinherited of every right, have no other recourse than to suffer the omnipotence of the ranchers. So that, in reality, during the whole colonial period, there has been here no juridical authority whatever, and the exercise of the functions of government has been entrusted, by necessity, to the economic directors of the only labour to which the population could devote itself.
+
+> Abandonados á sí mismos, esos grupos aislados de Sociedad se buscaban por sí mismos la satisfacción de sus necesidades, en transacciones comerciales, de carácter irregular, con las naves holandesas, inglesas y francesas que expresamente venían á hacer el contrabando, en trueques de mercaderias crudas, y de viveres de toda especie, por ganado vacuno, mular y caballar.
+
+Abandoned to themselves, those isolated groups of Society sought by themselves the satisfaction of their necessities in commercial transactions of an irregular character with the Dutch, English and French ships that came expressly to carry on contraband, in exchanges of raw merchandise, and of provisions of every kind, for cattle, mules and horses.
+
+> 14. En realidad, esta burla de las leyes comerciales de la metrópoli, lejos de ser delito común, era el verdadero ejercicio de un derecho de necesidad. Si la metrópoli abandonaba sus colonias, era natural que las colonias se desentendieran de las leyes prohibitivas del comercio metropolitano.
+
+14. In reality, this evasion of the commercial laws of the mother country, far from being a common crime, was the true exercise of a right of necessity. If the mother country abandoned its colonies, it was natural that the colonies should disregard the prohibitive laws of metropolitan commerce.
+
+[p. 190]
+
+> Pero, en todos modos, como aquellas gentes no procedían en nombre de un derecho, sino en efugio de una ley, lo que hubiera tenido de viril protesta jurídica el contrabandcar como protesta contra el abandono, eso tenía de antijuridico y de delictuoso el burlar las leyes de la autoridad metropolitana. En modo que, en vez de aparecer en la Historia como colonos movidos por sentimiento del Derecho, aparccen: simplemente como súbditos en perpetua rebeldía contra las leyes que burlaban. Y como sólo burlaban las leyes comerciales, y eso á hurtadillas, mientras estaban acostumbrados á temblar ante el Código Civil y el Código Penal de su metrópoli, fué tan continuo y tan sistemático el debilitamiento del Derecho en el alma de aquellos grupos sociales, que ninguno de ellos tuvo jamás conciencia del daño que su metrópoli les hacia, al privarlos del régimen normal de la Ley.
+
+But, at all events, as those people did not proceed in the name of a right, but in evasion of a law, whatever of virile juridical protest there would have been in smuggling as a protest against abandonment, that much of anti-juridical and of criminal there was in evading the laws of the metropolitan authority. So that, instead of appearing in History as colonists moved by a sentiment of Law, they appear simply as subjects in perpetual rebellion against the laws which they evaded. And as they evaded only the commercial laws, and that by stealth, while they were accustomed to tremble before the Civil Code and the Penal Code of their mother country, the weakening of Law in the soul of those social groups was so continuous and so systematic that none of them was ever conscious of the harm which their mother country did them in depriving them of the normal regime of the Law.
+
+> 15. Las REPÚBLICAS LATINO-AMERICANAS.—Como esto que aqui sucedía era aproximadamente lo que sucedía en todas las colonias españolas, todas ellas vivían afectadas de la dolencia que enferma á las sociedades privadas de Derecho. Padecian de un odio sordo contra la injusticia. Ese fué el odio que en la hora de la independencia dió por fruto el advenimiento de quince pueblos enfermizos, en ninguno de los cuales entró la noción del Derccho, como elemento de vida ni de organización efectiva de las sociedades. Es un baldón, es una ignominia, es una desesperación, que, entre tantas sociedades infantiles, ni una sola naciera con salud.
+
+15. The Latin-American republics.—As this which happened here was approximately what happened in all the Spanish colonies, all of them lived affected by the ailment that sickens societies deprived of Law. They suffered from a sullen hatred against injustice. That was the hatred which in the hour of independence gave as its fruit the advent of fifteen sickly peoples, into none of which entered the notion of Law as an element of life or of effective organization of societies. It is a reproach, it is an ignominy, it is a despair, that among so many infant societies not a single one should have been born in health.
+
+> Totalmento desposeidas de las nociones y del hábito de la organización, no pidieron á sus prolas necesidades, sino á su espiritu de imitación, as leyes que demandaba su debilidad, y se pu[PDF 199] sieron á imitar la organización politica cuyos fundamentos desconocian los mismos que ansiaban verlas establecidas cntre ellos. Mientras que se constituían de prestado con leyes constitucionales que no tenían fuerza ni aun para resistir las protestas del caudillaje amotinado, se acomodaban buenamente á las leyes civiles y penales de la sociedad metropolitana de donde procedían, ó se ponian de prestado, integros, 4 mal recortados, los códigos belgas, ó los franceses. Prueba ha habido de esta falta de conciencia jurídica, tan fehaciente de la enfermedad del Derecho, en estos pueblos, que uno de ellos se puso todo entero, ni siquiera recortado, el Código Napoleón con letra. y todo, porque no ha venido á traducirlo sino años después de habérselo encasquetado!
+
+Totally dispossessed of the notions and of the habit of organization, they asked not of their own necessities, but of their spirit of imitation, the laws which their weakness demanded, and they set [PDF 199] — 191 — themselves to imitate the political organization whose foundations were unknown to the very men who longed to see it established among them. While they constituted themselves with borrowed constitutional laws, which had no force even to resist the protests of mutinous chieftainship, they accommodated themselves complacently to the civil and penal laws of the metropolitan society from which they proceeded, or they put on, as borrowed garments, whole or ill trimmed, the Belgian codes, or the French. Proof there has been of this want of juridical conscience, so attesting the disease of Law in these peoples, that one of them put on entire, not even trimmed, the Napoleonic Code, letter and all, for it did not come to translate it until years after having clapped it on its head!
+
+> 16. CUÁLES SON TAS TRES ENFERMEDADES POLÍTIcas.—Naturalmente, de esta falta de espíritu juridico tenian que nacer por fuerza las tres enfermedades políticas que devoran todavía á todas estas pobres sociedades. Esas enfermedades son: el politigueo, el militareo, y cl revolucionismo.
+
+16. Which are the three political diseases.—Naturally, from this want of juridical spirit there had perforce to spring the three political diseases that still devour all these poor societies. Those diseases are politicking, militarism, and revolutionism.
+
+> Veamos brevemente los caracteres de estas tres enfermedades,
+
+Let us see briefly the characters of these three diseases.
+
+> 16 dis, Er roLIiTiquE0.—El politiqueo, que, en en el fondo, no es más que una especie de reivindicación infantil, que la Sociedad hace, de un derecho que se le ha estado denegando tradicionalmente, ha degenerado en enfermedad, porque la reivindicación no ha sido hecha en Derecho, sino fuera de derecho. Es evidente que si estas sociedades querian hacer efectivo su poder de realizar por si mismas la organización general de sus fúnciones, habrian desde el primer momento asumi.do la responsabilidad de los derechos, poderes deberes que su misma naturaleza les reconoció. Pero, como era imposible que esos pueblos forma[PDF 200] dos al acaso, sin ninguna consideración á su Derecho ni á su poder ni á su deber, supieran de pronto lo que no habian aprendido en los años de su existencia colonial, sucedió que, en vez de relvindicar como hombres sus poderes, derechos deberes, los reivindicaron como niños. De ahi, que, en vez de fundar y seguir una política, establecieron la costumbre del politiqueo.
+
+16 bis. Politicking.—Politicking, which, at bottom, is no more than a species of infantile vindication which Society makes of a right that has been traditionally denied to it, has degenerated into disease because the vindication has not been made in Law, but outside of law. It is evident that if these societies wished to make effective their power to realize by themselves the general organization of their functions, they would from the first moment have assumed the responsibility of the rights, powers and duties which their very nature acknowledged in them. But, as it was impossible that those peoples, formed [PDF 200] — 192 — at haphazard, without any consideration for their Law, or for their power, or for their duty, should know all at once what they had not learned in the years of their colonial existence, it came about that, instead of vindicating as men their powers, rights and duties, they vindicated them as children. Hence it is that, instead of founding and following a policy, they established the custom of politicking.
+
+> El politiqueo, cs simple y sencillamente la costumbre de chismear llevada á los asuntos de carácter público. Para arraigar esa mala costumbre, en los negocios del Estade , No tenían que hacer ningún esfuerzo de voluntad ni de razón, y, de la noche á la mañana, aparecieron las gentes políticas de estos paises como maestros consumados en cl arte de la falsia, del embrollo y de la intriga. A la verdad, si no fuera tanta la mengua, y tan profunda la indignación que ella produce en hombres de verdad, hasta sería de admirar la sutileza serpentil con que estos abominables intrigantes se deslizan años y años por entre las dificultades de una vida social tan dificultosa como es la de estos pueblos. Ello es, que la ignorancia de todos sirve perfectamente al encumbramiento de los pocos que se dedican 4 embrollarlo todo con el objeto de ser ellos los árbitros de la vida general,
+
+Politicking is simply and plainly the custom of gossiping carried into affairs of a public character. To root that bad custom in the business of the State they had to make no effort whatever of will or of reason; and, between night and morning, the political folk of these countries appeared as consummate masters in the art of falsity, of embroilment and of intrigue. In truth, were not the disgrace so great, and the indignation it produces in true men so profound, the serpentine subtlety would even be admirable with which these abominable intriguers glide, for years and years, among the difficulties of a social life as difficult as is that of these peoples. The fact is that the ignorance of all serves perfectly the elevation of the few who devote themselves to embroiling everything, to the end that they themselves may be the arbiters of the general life.
+
+> 17. Así puesta en manos de una minoría inescrupulosa que abusa desvergonzadamente de su «uperioridad en el mal, de su osadía para el mal, de su insolentísimo egoísmo y de su satánica resolución de no perder el pan, el privilegio y el puesto que usurparon, la Sociedad no puede materlalmente salir de su triste situación de menor engañada, sino á merced de las invasiones de productos, ideas y progresos que el comercio del mundo introduce á la fuerza en el seno y en el [PDF 201] alma de estos paises. Pero como esta obra, aunque alguna veces rápida, es siempre muy irregular y muy contingente, todavía pasara algún tiempo, antes de que los adelantos de la Moral la razón puedan contener á los usufructuarios de la ignorancia y la maldad. Al contrario: casos la habido y se repiten en el Continente Hispano- Americano, en que la misma necesidad de continuar predominando ha hecho que esa minoría, aliándose con Jos peores representantes de la fuerza bruta, havan prolongado el régimen del politiqueo.
+
+17. Thus placed in the hands of an unscrupulous minority which shamelessly abuses its superiority in evil, its daring for evil, its most insolent egoism, and its satanic resolution not to lose the bread, the privilege and the post which it usurped, Society cannot materially emerge from its sad situation of a deceived minor except by grace of the invasions of products, ideas and progress which the commerce of the world introduces by force into the bosom and into the [PDF 201] — 193 — soul of these countries. But as this work, though at times rapid, is always very irregular and very contingent, some time will yet pass before the advances of Morals and of reason can restrain the usufructuaries of ignorance and wickedness. On the contrary: cases there have been, and they are repeated on the Hispano-American Continent, in which the very necessity of continuing to predominate has caused that minority, allying itself with the worst representatives of brute force, to prolong the regime of politicking.
+
+> 18. En vano será, sin embargo, que este abominable régimen logre coincidir con algunos adelantos materiales, porque el juicio de la Historia no podrá atribuir al polítigueo los pocos bienes físicos y algunos adelantos intelectuales que se deben simplemente ¿ la fuerza de expansión de las necesidades comunes que el comercio internacional se encarga de servir y tiene interés en servir.
+
+18. In vain will it be, nevertheless, that this abominable regime should succeed in coinciding with some material advances, because the judgment of History will not be able to attribute to politicking the few physical goods and some intellectual advances which are due simply to the force of expansion of the common necessities which international commerce undertakes to serve and has an interest in serving.
+
+> A primera vista, el juicio de los sanos de conciencia se complace en atribuir á la acción de ese régimen malvado una reacción equivalente, que restablece los uscendientes sociales del Derecho. Ese, como todos los juicios a priori, resulta falso, en la realidad: no hay tal reacción del Derecho, simple y sencillamente, porque no puede haberla; lógica y naturalmente, porque no puede haber reacción en donde no ha habido acción. Y ¿qué acción del Derecho puede haberse restablecido, en sociedades en que el Derecho Natural ha sido sistemáticamente sofocado por la brutalidad y por la astucia, por la fuerza y por la intriga? ¿Qué reacción del Derecho Civil se puede esperar, en sociedades en donde la Ley es universalmente ignorada y, todavía más universalmente, burla[PDF 202] da, no ya sólo por la comunidad, sino por los representantes oficiales de la Ley? ¿Qué reacción puede esperarse, del Derecho Penal, en sociedaes que están acostumbradas al ejercicio arbitrario de todas las autoridades; á la prisión por voluntad de un cualquiera erigido en poder; á la irresponsabilidad de las autoridades judiciales y administrativas; á la irredención de la inocencia, cuando ha sido condenada? ¿Qué reacción puede esperarse de un Derecho Público que se contenta con estar escrito en una Constitución que nadie sabe y de que sólo, 4 veces, hablan Y disputan entre silos intrigantes y los usurpadoros? ¿Qué reacción puede esperarse, del Derecho Común, del Derccho de todos y de cada uno, en sociedades en que el reconocimiento de los derechos del hombre como ciudadano y como hombre no sirve, generalmente, cuando se ha establecido constitucionalmente, más que para abusar de todos? En suma: no existiendo acción continua del Derecho, no pueden efectuarse sus reacciones.
+
+At first sight, the judgment of those sound of conscience is pleased to attribute to the action of that wicked regime an equivalent reaction which re-establishes the social ascendancy of Law. That, like all judgments a priori, turns out false in reality: there is no such reaction of Law, simply and plainly, because there cannot be; logically and naturally, because there cannot be reaction where there has been no action. And what action of Law can have been re-established in societies in which Natural Law has been systematically stifled by brutality and by cunning, by force and by intrigue? What reaction of Civil Law can be hoped for in societies in which the Law is universally ignored and, still more universally, evad- [PDF 202] — 194 — not merely by the community, but by the official representatives of the Law? What reaction can be expected from Penal Law, in societies that are accustomed to the arbitrary exercise of every authority; to imprisonment at the will of any chance person set up as a power; to the irresponsibility of the judicial and administrative authorities; to the irredeemability of innocence, once it has been condemned? What reaction can be expected from a Public Law that is content to stand written in a Constitution which nobody knows, and of which only, at times, the intriguers and the usurpers speak and dispute among themselves? What reaction can be expected from Common Law, from the Law of each and all, in societies in which the recognition of the rights of man as citizen and as man serves, generally, when it has been constitutionally established, for nothing but to abuse everyone? In sum: there being no continuous action of Law, its reactions cannot take effect.
+
+> A falta de cllas, la función del Derecho no puede en ninguna mancra ser regular, Esta irregularidad, constituye la más peligrosa de las entermedades jurídicas que pueden sufrir las socieda— des humanas.
+
+In default of them, the function of Law can in no manner be regular. This irregularity constitutes the most dangerous of the juridical diseases that human societies can suffer.
+
+> $30 Enfermedades de caráctzr intelectual.
+
+§ 3.
+
+Diseases of an intellectual character.
+
+> 19. CuáLes sox.—Entrc las auscultaciones que han de hacerse para averiguar las causas y concausas de las enfermedades intelectuales que afectan endémica ó epidémicamente á las sociedades humanas, una de las más reveladoras es siempre la del clima y la zona; pero no pueden, ú veces, ser más sugestivas las que dan cuenta de la in[PDF 203] fluencia de las tradiciones, ya históricas, ya sociales, ya morales, ya políticas.
+
+19. What they are.—Among the auscultations that must be made in order to ascertain the causes and concauses of the intellectual diseases that affect human societies endemically or epidemically, one of the most revealing is always that of climate and zone; but at times those that give account of the in- [PDF 203] — 195 — fluence of traditions, whether historical, social, moral, or political, may be no less suggestive.
+
+> Estas influencias, que, en resumidas cuentas, son mesológicas ú de medio social, se pueden aun deben distribuir en dos grupos, á fin de guiarse por ellas al conocimiento de las enfermedades intelectuales de la Sociedad.
+
+These influences, which, when all is said, are mesological, or of the social medium, can and indeed ought to be distributed into two groups, so that we may be guided by them to the knowledge of the intellectual diseases of Society.
+
+> Los dos grupos de influencias mesológicas, son: el de las infuencias físicas, y el de las influencias psíquicas.
+
+The two groups of mesological influences are: that of physical influences, and that of psychical influences.
+
+> 20. INFLUENCIAS FísICas.—Las influencias fisicas que principalmente cooperan 4 los desarrollos intelectuales de la Sociedad, son: el clima, la topografía y la perspectiva escénica de los territorios.
+
+20. Physical influences.—The physical influences that chiefly co-operate in the intellectual developments of Society are: the climate, the topography and the scenic perspective of the territories.
+
+> 21. EL cuima.—El clima produce, generalmente, debilitamientos intelectuales por exceso de imaginación, en los paises cálidos; fuerza exclusiva de la atención y de la observación, á expensas de casi todas las operaciones intelectuales, en los países de temperaturas bajas.
+
+21. The climate.—Climate produces, generally, intellectual enfeeblements through excess of imagination, in hot countries; an exclusive strength of attention and of observation, at the expense of almost all the intellectual operations, in countries of low temperatures.
+
+> 22. La toroGraFia.—La topografía produce, en ciertas elevaciones de terreno, el cretinismo, que empieza en la papera y acaba en la idiotez.
+
+22. The topography.—Topography produces, at certain elevations of the ground, cretinism, which begins in goitre and ends in idiocy. In the lowlands it commonly produces certain diseases of a cutaneous character, which afflict the lowland populations as if they were curses weighing upon them, and which commonly degenerate into dementias of almost every type.
+
+> n las bajuras suele producir algunas cnfermedades de carácter cutáneo, que afectan á las poblaciones de bajura, como si fueran maldiciones que pesaran sobre ellas, y que suelen degencrar en demencias de casi todos los tipos.
+
+23. The scenic perspective.—The scenic perspective of territories gives rise to two extreme states of intellectuality, which are: gymnosophist contemplation and satyriac sensualism.
+
+> 23. La PERSPECTIVA ESCÉNICA.—La perspectiva escénica de los territorios, origina dos estados extremos de intelectualidad, que son: la cortemplación gimnosofista y el sensualismo saliriaco.
+
+> 24. La CONTEMPLACIÓN GIMNOSOFISTA.—Los territorios muy bellos, de extensos panoramas de montañas. ó de atractivas marinas, pueden ocasionar modificaciones intelectuales, que afectan á la generalidad de la población, dándole un carácter [PDF 204] intelectual muy definido, en que la pasividad y la pereza intelectual sobreabundan. Hemos llamado contemplación gimnosofista á cse estado de intelectualidad, producido por las perspect ivas de montañas, porque caracterizó en la Ístoria antigua de la India á los pueblos que ocupaban las vecindades del Tibet, entre los cuales surgieron, como última expresión de aquel estado, aquellos semifilósofos que se llamaron gimnosofistas.
+
+24. Gymnosophist contemplation.—Very beautiful territories, with wide panoramas of mountains, or with attractive seascapes, can occasion intellectual modifications which affect the generality of the population, giving it a [PDF 204] — 196 — very definite intellectual character, in which passivity and intellectual sloth superabound. We have called gymnosophist contemplation that state of intellectuality produced by the perspectives of mountains, because in the ancient history of India it characterized the peoples who occupied the neighbourhood of Tibet, among whom there arose, as the last expression of that state, those semi-philosophers who were called gymnosophists.
+
+> 25. EL SENSUALISMO SATIRIACO.—I£n las orillas de golfos, 6 de mares, extraordinariamente bellos, como el de Nápoles, ó el de Mármara, las poblaciones adquieren hábitos intelectuales muy irregulares, en que precisamente la irregularidad y
+
+25. Satyriac sensualism.—On the shores of gulfs or of seas extraordinarily beautiful, such as that of Naples, or that of Marmara, the populations acquire very irregular intellectual habits, in which precisely irregularity and the want of intellectual firmness constitute the characteristic. Hence the sensualist tendency, in the intellectual as in the moral order, which the riverside populations of those gulfs or seas display. Hence the reactions of the intelligence upon the will; the fickleness and the enfeeblement of the one and of the other, and the precipitation of intellectual sensualism into bodily sensualism, until it reaches the disease, of a physico-psychical character, which, one may almost say, characterizes in our days all the intertropical peoples of Spanish origin on our continent (satyriac sensualism).
+
+> 3 falta de firmeza intelectual constituyen la caracteristica. De aqui, la tendencia sensualista, asi cn lo intelectnal como en lo moral, que manifiestan las poblaciones ribereñas de esos golfos, 6 mares. De aqui, las reacciones de la inteligencia sobre la voluntad; la voltariedad y el debilitamiento de la una y de la otra, y dl precipitarse del sensualismo intelectual en el sensnalismo corporal, hasta llegar áú la enfermedad, de carácter isico-psiquico, que Casi se puede decir caracteriza en nuestros días á tudos los pueblos intertropicales, de origen expañol, en nuestro continente (el sensualismo satiriaco).
+
+§ 4.
+
+> Enfermedades de carácter moral.
+
+Diseases of a moral character.
+
+> 26. QUÉ Las DETERMISA.—Hay una porción de acontecimientos históricos, que parecen la obra de estupendas fuerzas anormales de una ó varias sociedades, y que. en realidad, no son más que denotaciones de un estado pravísimo de la salud social.
+
+26. What determines them.—There are a number of historical events which seem the work of stupendous abnormal forces of one or several societies, and which, in reality, are nothing but denotations of a most grave state of social health.
+
+[p. 197]
+
+> — 197 — Por lo mismo que éste es uno de los asuntos más intactos todavía, ofrece tanto horizonte al pensamiento, que nos expondriamos á extendernos desconsideradamentc. Y como Jo que conviene, exclusivamente, es indicar, para que se pueda seguir el surco recién abierto, indiquemos alunos hechos históricos que patentizan la realiad y efectividad de enfermedades de la voluntad y el sentimiento sociales, que cualquier médico atento puede comparar con desarreglos similares de la voluntad y el sentimiento cn los individuos humanos.
+
+For the very reason that this is one of the subjects still most untouched, it offers so wide a horizon to thought that we should run the risk of extending ourselves inconsiderately. And as what is fitting, exclusively, is to point the way, so that the furrow newly opened may be followed, let us point to some historical facts that make manifest the reality and effectiveness of diseases of the social will and feeling, which any attentive physician can compare with similar disorders of the will and feeling in human individuals.
+
+> 27. EXACERBACIONES DEL SENTIMIENTO RELIGIOso.—Empezando por las grandes emigraciones arianas de la India, casi todas ellas resultantes de exacerbaciones del sentimiento religioso, encon-. tramos cste mismo estado de enfermedad del sentimiento, y por los mismos motivos religiosos, en dos grandes hechos de la historia occidental, que estamos acostumbrados á considerar como dos grandes muestras de fuerza, cuando no son más que dos grandes muestras de debilidad social, y esos dos hechos son: las Cruzadas y la Reforma. En realidad, son dos casos de locura social; locura erfectamente caracterizada por todos y cada uno e los antecedentes, de los coeficientes y de los consecuentes de esos hechos.
+
+27. Exacerbations of religious feeling.—Beginning with the great Aryan emigrations from India, almost all of them the result of exacerbations of religious feeling, we find this same state of disease of the feeling, and from the same religious motives, in two great facts of Western history, which we are accustomed to consider as two great displays of strength, when they are nothing but two great displays of social weakness; and these two facts are: the Crusades and the Reformation. In reality, they are two cases of social madness; a madness perfectly characterized by each and every one of the antecedents, the coefficients and the consequents of those facts.
+
+> 28. SOBREXCITACIONES NERVIOSAS DE LAS PASIO- NES POLÍTICAS. —Entre los sucesos que han hecho época en la historia de la civilización occidental, uno de los más estruendosos es la Revolución Francesa de á fines del siglo xvi. La Revolución Francesa, en todo lo que tiene de trágica y de horrenda, es una simple demencia colectiva, producida por la sobrexcitación nerviosa de las multitudos.
+
+28. Nervous overexcitements of the political passions.— Among the events that have made an epoch in the history of Western civilization, one of the most resounding is the French Revolution at the end of the eighteenth century. The French Revolution, in all that it has of the tragic and the horrible, is a simple collective dementia, produced by the nervous overexcitement of the multitudes.
+
+> 29. Er Anarquismo.—La obra anormal de los
+
+29. Anarchism.—The abnormal work of the
+
+[PDF 206]
+
+> obreros y proletarios del Viejo Mundo, empeñándose en transformar, por medios que sólo á la demencia se le ocurren, el estado social-económico de las sociedades modernas, es manifiestamente la obra de enfermos delirantes; estado casi idéntico al de las multiformes epilepsias que conoce la medicina individual.
+
+— 198 — workmen and proletarians of the Old World, bent upon transforming, by means that would occur only to dementia, the social-economic state of modern societies, is manifestly the work of delirious patients; a state almost identical with that of the multiform epilepsies known to individual medicine.
+
+> 30. Neuxosismo sociaL.—La retirada eminentemente sugestiva, instructiva y ejemplar del Continente Americano á que España se vió obligada a fines del siglo xrx, no es más que la crisis de una. larguísima enfermedad mental de un pueblo entero. Se puede decir más: se puede decir, señalando las comprobaciones en la Historia, que la mayor parte de los hechos anormales de ella, son resultado de neurosismo social.
+
+30. Social neurosism.—The eminently suggestive, instructive and exemplary withdrawal from the American Continent to which Spain saw herself compelled at the end of the nineteenth century, is nothing but the crisis of a very long mental disease of an entire people. One may say more: one may say, pointing to the proofs in History, that the greater part of its abnormal facts are the result of social neurosism.
+
+> Francia, lanzándose á guerra con Alemania, en el año setenta del siglo xrx; Inglaterra y los Estados Unidos lanzándose en la torcida senda del imperialismo, en los últimos días del mismo siglo, proceden de una manera tan contraria á la razón común y á los mismos antecedentes históricos de cada uno de esos dos pucblos, que no se puede atribuir la incongruencia de sus actos sino al estado muy grave del espiritu social.
+
+France, flinging herself into war with Germany in the year seventy of the nineteenth century; England and the United States, flinging themselves upon the crooked path of imperialism in the last days of the same century, proceed in a manner so contrary to common reason and to the very historical antecedents of each of those two peoples, that the incongruity of their acts can be attributed to nothing but the very grave state of the social spirit.
+
+> Enfermedades de carácter mesológico.
+
+§ 5.
+
+> 31. OricExES. — Estas enfermedades sociales pueden tener origones completamente diferentes: as unas pueden originarse en un exceso de atención á las circunstancias ó influencias Y medios que modifican la determinación, acto intelectual, y la resolución, acto de la voluntad, en la conducta de los grupos sociales.
+
+Diseases of a mesological character.
+
+31. Origins.—These social diseases may have completely different origins: some may originate in an excess of attention to the circumstances or influences or media that modify determination, an act of the intellect, and resolution, an act of the will, in the conduct of social groups.
+
+[p. 199]
+
+> 32. RETRAIMIENTO DE LOS EsTaDOS UNIDOS DE NORTE ÁMÉRICA, EN EL CONTINENTE ÁMERICANO.— Para andar de prisa, no demos más que una idea, de esta influencia malsana del exceso de atención al medio. Por excesiva consideración del interés particular de la naciente Unión Americana, los estadistas fundadores de la que después ha sido política tradicional de los Estados Unidos, se desexrtendieron por completo de su posición geográfica, en el Continente, de su posicion histórica, y de su posición política y de su posición económica, hasta el punto de considerar deber del Gobierno Americano, no tan sólo el abstenerse de intervenciones que hubieran podido parecer caprichosas, ó egoístas, sino de las mismas intervenciones á que era solicitado por los pueblos más débiles del Continente. Asi, cuando, en 1824, un interés realmente continental impulsó á Bolivar á reunir un Congreso en Panamá, a fin de dar á todos los pueblos allí representados una intervención directa en los negocios internacionales de América y en el definitivo arreglo de asuntos del Continente, sucedió: que los Estados Unidos, en vez de aprovechar esa útil coyuntura para influir, en una manera ordenadora, en los negocios comunes á todos los americanos de Norte, Centro y Sur, desaprovecharon esa oportunidad, por atender con exceso al interés exclusivo de su medio nacional.
+
+32. Withdrawal of the United States of North America within the American Continent.—To make haste, let us give no more than one idea of this unwholesome influence of excessive attention to the medium. Through excessive regard for the particular interest of the nascent American Union, the founding statesmen of what has since been the traditional policy of the United States disregarded completely its geographical position on the Continent, its historical position, and its political position and its economic position, to the point of holding it the duty of the American Government to abstain not only from interventions that might have seemed capricious or selfish, but from the very interventions to which it was solicited by the weaker peoples of the Continent. Thus, when, in 1824, a truly continental interest impelled Bolívar to assemble a Congress at Panama, in order to give all the peoples there represented a direct intervention in the international affairs of America and in the definitive settlement of the affairs of the Continent, it came to pass that the United States, instead of profiting by that useful juncture to exert an ordering influence upon the affairs common to all the Americans of North, Centre and South, let that opportunity slip, through attending in excess to the exclusive interest of their national medium.
+
+> 33. INFLUENCIA QUE DEBE EJERCER LA SOCIOLO- GÍA EN LAS TENDENCIAS CONSERVADORAS DE LOS PUE- BLOS AMERICANOS.-—Por lo mismo que, sobre todo á fines del siglo xIx, se hizo tendencia de la crítica histórica y sociótica el aceptar como actos de sanidad todos los fundados en interés de medio ambiente, importa muchisimo buscar en la Historia, y demostrar, los casos frecuentes de equivocaciones fatales cometidas en los gobiernos y [PDF 208] los pueblos, al encerrarse con exceso en el medio que motiva sus accionos. Importa, porque este exceso constituye por sí solo una enfermedad que es la que generalmente padecen todos los pueblos. de altas latitudes, indudablemente por influencia de ellas mismas. Pueblos circunspectos, como los hace el medio fisico, conciuyen, por la repetición de las ideas conservadoras y de los actos fundados en las ideas de medio ambiente, por atribuir obstinadamente á las circunstancias y al medio una influencia excesiva, que en ninguna manera. ueden tener, so pena de climinar de los actos. umanos el ascendiente natural de la razón.
+
+33. Influence that Sociology ought to exert upon the conservative tendencies of the American peoples.—For the very reason that, above all at the end of the nineteenth century, it became a tendency of historical and sociotic criticism to accept as acts of soundness all those founded on the interest of the ambient medium, it matters greatly to seek in History, and to demonstrate, the frequent cases of fatal mistakes committed by governments and [PDF 208] — 200 — peoples in shutting themselves up to excess within the medium that motivates their actions. It matters, because this excess constitutes of itself a disease, which is the one generally suffered by all the peoples of high latitudes, doubtless through the influence of those latitudes themselves. Circumspect peoples, such as the physical medium makes them, end, through the repetition of conservative ideas and of acts founded on the ideas of the ambient medium, by obstinately attributing to circumstances and to the medium an excessive influence, which they can in no manner possess, on pain of eliminating from human acts the natural ascendancy of reason.
+
+> Es de esperar que, en cuanto se divulguen las ideas de la Sociología metódica, es decir, de la Sociología que no improvise á cualquier hora la. osadia, es de esperar que la difusión de estas ideas ositivas de Ciencia Social, modificará esa tenencia excesivamente conservadora, que caracteriza, como un mal, el pensamiento de esos pueblos.
+
+It is to be hoped that, as soon as the ideas of methodical Sociology are spread abroad, that is to say, of the Sociology that does not improvise its daring at any hour, it is to be hoped that the diffusion of these positive ideas of Social Science will modify that excessively conservative tendency which characterizes, as an ill, the thought of those peoples.
+
+> Al contrario, el pensamiento social de los pueblos de latitudes meridionales, 4, más exactamente, de los pueblos intertropicales, suele ser el resultado de una completa desatención al medio circunstante. Así es como, desentendiéndose por completo de las circunstancias, y atendiendo exclusivamente á los deseos de progreso y de prosperidad social, se produce un malestar que concluye por hacerse crónico y que frecuentemente se manifiesta, no ya sólo en los perpetuos disturbios, sino hasta en la incapacidad de salir del periodo revolucionario.
+
+On the contrary, the social thought of the peoples of southern latitudes, or, more exactly, of the intertropical peoples, is commonly the result of a complete inattention to the surrounding medium. Thus it is that, disregarding the circumstances completely, and attending exclusively to the desires of progress and of social prosperity, a malaise is produced which ends by becoming chronic, and which frequently manifests itself, not merely in perpetual disturbances, but even in the incapacity to emerge from the revolutionary period.
+
+[p. 201]
+
+## SECTION 2
+
+## MODE OF PREVENTING SOCIAL DISEASES
+
+## SOCIAL HYGIENE
+
+> MODO DE PREVENIR LAS ENFERMEDADES SOCIALES, HIGIENE SOCIAL
+
+34. What Social Hygiene is.—Since Nature is nothing but a Logic made Reality, everyone sees that wherever there are functions, there may be perturbation of those functions. Normal functioning is health; the perturbation of any function whatever is a disease. Necessarily, if the mode in which a function is effected is known, the perturbations it may suffer are known also, and therefore, with a little thought, the means of avoiding those perturbations can be known. That knowledge is what constitutes Hygiene, and when that knowledge is applied to Society, it constitutes Social Hygiene.
+
+> 34. Lo QUE ES LA HIGIENE SOCIAL.—Como que la Naturaleza no es más que una Lógica hecha Realidad, todo el mundo ve ¿ue en donde quiera que hay funciones, puede haber perturbación de esas funciones. El funcionar normal, es la salud; la perturbación de cualquiera función, es una enfermedad. Necesariamente, si se conoce el modo de efectuarse una función, se conocen también las perturbaciones que puede sufrir, y, por tanto, ú poco pensar, se pueden conocer los medios de evitar esas perturbaciones. Ese conocimiento, €s lo que constituye la Higiene, y cuando ese conocimiento se aplica á la Sociedad, constituye la Higiene social.
+
+35. How it ought to proceed. Precepts. Prevention of economic diseases.—Hygiene may consider in its totality the organism whose functions it seeks to preserve in correct activity. But this general study is less clear than that of each one of the organs, or each one of the functions, that have been perturbed. Therefore we shall follow step by step the social diseases we have enumerated, in order to ascertain how they are to be prevented.
+
+> 3). CÓMO DEBE OBRAR. PRECEPTOS, PREVENCIÓN DE LAS ENFERMEDADES ECONÓMICAS.—La Higiene puede considerar en su totalidad cl organismo cuyas funciones trata de conservar en correcta actividad. Pero este estudio general es menos claro que el de cada uno de los órganos, ó cada una de las funciones que se han perturbado. Por eso, vamos á seguir paso á paso las enfermedades sociales que hemos enumerado, para averiguar cómo han de prevenirse.
+
+> Las enfermedades sociales de carácter económi.- Co, se previenen, infaliblemente, ateniéndose 4 la Ley de Trabajo. En modo que, en general, las sociedades que producen en razón de su consumo que consumen en proporción á los agentes de Trabajo, necesariamente gozan de salud económica. Por tanto, la Higiene social ha de trabajar [PDF 210] continuamente por mantener en continua actividad de producción á la masa social.
+
+Social diseases of an economic character are prevented, infallibly, by holding to the Law of Labour. So that, in general, societies that produce in ratio to their consumption, and that consume in proportion to the agents of Labour, necessarily enjoy economic health. Therefore Social Hygiene must labour [PDF 210] — 202 — continually to keep the social mass in continual activity of production.
+
+> No es posible que, en el estado de desorden á que han llegado las relaciones entre la producción y sus agentes, se puedan dar reglas de Higiene tan precisas y tan concretas, que se vayan refiriendo una por una á cada una de las perturbaciones. Por esto, lo más pertinente es: analizar las causas generales de las perturbaciones que sufren las funciones de la Sociedad, y prevenir con preceptos adecuados, aunque sean de carácter muy general, las perturbaciones, ó la persistencia en la perturbación que se trata de corregir.
+
+It is not possible, in the state of disorder at which the relations between production and its agents have arrived, to give rules of Hygiene so precise and so concrete that they should refer one by one to each one of the perturbations. Therefore, the most pertinent course is: to analyse the general causes of the perturbations that the functions of Society suffer, and to prevent, with suitable precepts, even though they be of a very general character, the perturbations, or the persistence in the perturbation that is to be corrected.
+
+> Eso se puede hacer en una manera muy eficaz, fundando el precepto higiénico en la verdad y realidad de cada una de las leyes sociales. Preceptos asi fundados, tienen que ser fundamentalmente exactos, y por fuerza han de coadyuvar al propósito preventivo de la Higiene. Más 6 menos tarde, si se toman por guía esos preceptos, concluirán por corregirse, ó por lo menos, moderarse, las perturbaciones.
+
+This can be done in a very efficacious manner, by founding the hygienic precept upon the truth and reality of each one of the social laws. Precepts so founded must be fundamentally exact, and must perforce contribute to the preventive purpose of Hygiene. Sooner or later, if those precepts are taken as a guide, the perturbations will end by being corrected, or at least moderated.
+
+> 36. PRECEPTO PREVENTIVO DE LAS ENFERMEDA- DES ECONÓMICAS. —Las perturbaciones en el orden económico, cualesquiera que sean sus causas concretas, por necesidad han de referirse á la relación en que se funda el orden económico. Por tanto, el precepto de Higiene social para prevenir las enfermedades sociales de carácter económico, ha de referirse también á ella (4 esa relación), diciendo:
+
+36. Preventive precept of economic diseases.— Perturbations in the economic order, whatever their concrete causes may be, must of necessity refer to the relation on which the economic order is founded. Therefore the precept of Social Hygiene for preventing social diseases of an economic character must refer to it also (to that relation), saying:
+
+> En toda situación cconómica de todas las sociedades, se tratará de mantener á toda costa la proporción entre la producción y el consumo.
+
+In every economic situation of every society, the proportion between production and consumption shall be maintained at all costs.
+
+> 3/7. PRECEPTO PREVENTIVO DE LAS ENFERMEDA- DES JURÍDICAS.—Las perturbaciones de carácter jurídico, resultan, necesariamente, de la infrac[PDF 211] ción de la Ley de Libertad. El precepto higiénico para prevenirlas, recomendará que:
+
+37. Preventive precept of juridical diseases.— Perturbations of a juridical character result, necessarily, from the infrac- [PDF 211] — 203 — tion of the Law of Liberty. The hygienic precept for preventing them will recommend that:
+
+> Nunca se viole, por la Autoridad personal, ó legal, que esté encargada de convertir el Derecho en Ley, y la Ley en conducta colectiva, la relación entre el Orden y el Derecho, que es tan recisa, que en caso alguno deja de ser motivo e desorden el desconocimiento del Derecho.
+
+The relation between Order and Law shall never be violated by the Authority, personal or legal, that is charged with converting Law into statute, and statute into collective conduct; a relation so exact that in no case does disregard of Law fail to be a cause of disorder.
+
+> 38. PERTURBACIONES DEL PrROGRESO.—Las perturbaciones del Progreso, resultan, infaliblemente, del desconocimiento de la relación entre la Educación y el perfeccionamiento individual y colectivo. La Higiene social debe recomendar continuamente que:
+
+38. Perturbations of Progress.—The perturbations of Progress result, infallibly, from disregard of the relation between Education and individual and collective perfecting. Social Hygiene must continually recommend that:
+
+> Conságrese en todos los esfuerzos de organización á dotar de órganos docentes á la Sociedad municipal, provincial y nacional, en modo que la Sociedad tenga conciencia del progreso, de sus causas, de sus medios y de sus fines.
+
+In all efforts of organization, let there be devotion to endowing municipal, provincial and national Society with teaching organs, in such a manner that Society may be conscious of progress, of its causes, of its means and of its ends.
+
+> 39. PERTURBACIONES RELIGIOSAS Y MORALES.— Las perturbaciones religiosas y las morales, resultan, indispensablemente, de infracción del lazo que une á la Religión con la Moral. Lu Higiene social tiene el deber de mantener alerta la atención colectiva, á fin de que nada altere esa relación, y deberá recomendar que:
+
+39. Religious and moral perturbations.—Religious and moral perturbations result, unavoidably, from infraction of the bond that unites Religion with Morals. Social Hygiene has the duty of keeping the collective attention alert, so that nothing may alter that relation, and it must recommend that:
+
+> Tengan todos presente que no hay religión sin moral; que tan pronto como la religión se convierte en un cuerpo de doctrinas que no tienen relación con la vida activa de la Sociedad, y que, en consecuencia, son doctrinas indiferentes á la moral, ya la religión no es religión.
+
+All shall bear in mind that there is no religion without morals; that as soon as religion is converted into a body of doctrines that have no relation to the active life of Society, and which, in consequence, are doctrines indifferent to morals, religion is no longer religion.
+
+> 40. PrerrURBACIONES EN LA FUERZA SOCIAL.—Las »erturbaciones frecuentes, que se operan en la unción de la fuerza social, resultan del desconocimiento, 6 del desvío, de la última relación que hay entre el desarrollo de fuerza vital y la fuer[PDF 212] za de conservación. La Higiene social está obligada á preceptuar que:
+
+40. Perturbations in the Social Force.—The frequent perturbations that take place in the function of the social force result from disregard of, or deviation from, the last relation that exists between the development of vital force and the force [PDF 212] — 204 — of conservation. Social Hygiene is bound to lay down the precept that:
+
+> Nunca se olvide que, para dar fuerza á una Sociedad, es indispensable favorecer su vitalidad; que á medida que se aumenta la conciencia de vitalidad social, se aumenta, necesariamente, su fucrza de conservación, simplemente porque se aumenta, también, el conocimiento de las causas que determinan la conservación social.
+
+It must never be forgotten that, in order to give strength to a Society, it is indispensable to favour its vitality; that in measure as the consciousness of social vitality increases, its force of conservation necessarily increases, simply because the knowledge of the causes that determine social conservation increases also.
+
+> 41. INYLUENCIA QUE HABRÁ DE TENER La HIGIE- NE SOCIAL, EN EL DESARROLLO DX LAS SOCIEDADES.— Cualquicra tentativa metódica que se pueda hacer de los medios preventivos de las enfermedades sociales, tiene, por fuerza, que referirse á lo que los anteriores preceptos generales se han referido. Por tanto, toda Higiene social ha de tomar como punto de partida los principios generales en que se fundan las leyes de la Sociedad.
+
+41. Influence that Social Hygiene will have upon the development of societies.—Any methodical attempt that may be made at the preventive means of social diseases must perforce refer to that to which the foregoing general precepts have referred. Therefore every Social Hygiene must take as its point of departure the general principles on which the laws of Society are founded.
+
+> Desde ahora se puede predecir que cl día en que las gentes se hayan familiarizado con estas ideas, y los pensadores las hayan fortalecido en ellas, dándoles nociones sistematicas de los preceptos de la Higiene de las sociedades, innumerable cantidad de daños que todos los dias aparecen en el cuerpo social, se evitarán; porque es necesario pensar y volver de continuo á pensar que hay una. causa general de nuestros males individuales y colectivos, que es: Ja ignorancia; que la ignorancia original de esos males, consiste en el desconocimiento de que los males de nuestra especie, como los de toda otra especie organizada, son: simples perturbaciones de funciones; y que, por tanto, cl mejor modo de evitar las perturbaciones es prevenirlas, y el modo más eficaz de prevenirlas es conocerlas.
+
+It may be predicted from now that, on the day when people have become familiar with these ideas, and thinkers have strengthened them in them, giving them systematic notions of the precepts of the Hygiene of societies, an innumerable quantity of the harms that appear every day in the social body will be avoided; for it is necessary to think, and to return continually to thinking, that there is one general cause of our individual and collective ills, which is: ignorance; that the original ignorance of those ills consists in not knowing that the ills of our species, like those of every other organized species, are simple perturbations of functions; and that, therefore, the best way of avoiding perturbations is to prevent them, and the most efficacious way of preventing them is to know them.
+
+[p. 205]
+
+## SECTION 3
+
+## CURE OF SOCIAL DISEASES
+
+## SOCIAL THERAPEUTICS
+
+> CURACIÓN DE LAS ENFERMEDADES SOCIALES. TERAPÉUTICA SOCIAL
+
+42. How social diseases can be cured.—It is difficult to cure the diseases of a society if the hygienic resources charged with preventing them have not been applied to it. On the other hand, the very ignorance that there are, in effect, diseases of Society makes it still more difficult to apply to it the corresponding cure. Moreover, the very novelty of the purpose, which, until now, figures neither in books nor in any plan of government, makes the difficulties become almost invincible. Nevertheless, it being certain that human societies are subject to ailments, and that those ailments, like those of any other organism, proceed from functional perturbations in some one, or some, of the functions of social life, it is not impossible to establish at least the possibility of knowing those diseases and curing them.
+
+> 42. Cómo PUEDEN CURARSE LAS ENFERMEDADES socia LEs.—Dificil es curar las enfermedades de una sociedad si no se les ha aplicado los recursos higiénicos que están encargados de prevenirlas. Por otra parte, la misma ignorancia de que hay, efectivamente, enfermedades de la Sociedad, hace todavía más difícil el apropiarle la curación correspondiente. Además, la novedad misma del propósito, que, hasta ahora, no figura ni en libros ni en plan ninguno de gobierno, hace que las dificultades se hagan casi invencibles. Sin embargo. siendo efectivo que las sociedades humanas están sujetas á dolencias, y que esas dolencias, lo mismo que las de cualquier otro organismo, proceden de perturbaciones funcionales, ó en alguna, ó algunas, de las funciones de la vida social, no es imposible establecer siquiera la posibilidad de cono- Cer esas enfermedades y curatlas.
+
+> 43. CURACIÓN DE LAS ENFERMEDADES ECONÓMIcas.—Las funciones económicas de la Sociedad, que suelen perturbarse en aúna manera muy grave, en algunos momentos de la historia particular de alewuna nación, suelen no ser normales en ninguna época de la Historia. Unas veces, hay hambres; otras veces, hay exceso de indigentes; algunas veces, el exceso de capital es un daño; otras veces, la aplicación del capital á un monopolio. es un daño aún mayor. Y, así, por esta ú por otra perturbación, resulta de continuo un malestar económico que siempre se ha manifestado en emigraciones considerables, en asociaciones [PDF 214] tumultuarias y en doctrinaciones y propagandas extraordinariamente desordenadoras.
+
+43. Cure of economic diseases.—The economic functions of Society, which are apt to be perturbed in a very grave manner at certain moments of the particular history of some nation, are apt to be normal in no epoch of History. At times there are famines; at other times there is an excess of indigent persons; sometimes the excess of capital is a harm; at other times the application of capital to a monopoly is a still greater harm. And thus, through this or that perturbation, there results continually an economic malaise, which has always manifested itself in considerable emigrations, in [PDF 214] — 206 — tumultuous associations, and in extraordinarily disordering indoctrinations and propagandas.
+
+> En general, el remedio de esos males, cualesquiera que sean las complicaciones de carácter medial, 0 local, se pueden curar, 6 mitigar, modificando las operaciones de la producción y del consumo de las riquezas,
+
+In general, the remedy of those ills, whatever the complications of a medial or a local character may be,—they can be cured, or mitigated, by modifying the operations of the production and of the consumption of wealth.
+
+> La mayor parte de las veces, toda enfermedad de carácter económico resulta de una mala distribución de los consumos que determina dificultades, más ó menos invencibles, en la alimentación y sustentación del pueblo. En estos casos, el remedio está en cl restablecimiento de las condiciones normales de los agcntes de la producción.
+
+Most often, every disease of an economic character results from a bad distribution of consumption, which gives rise to difficulties, more or less invincible, in the feeding and sustenance of the people. In these cases the remedy lies in the re-establishment of the normal conditions of the agents of production.
+
+> A veces, los males económicos resultan simple y sencillamente de un mal régimen alimenticio, en las poblaciones. Entonces, hay que curar los males que con esto se producen, modificando los modos de subsistir social.
+
+At times, economic ills result purely and simply from a bad dietary regime in the populations. Then the ills that are produced thereby must be cured by modifying the modes of social subsistence.
+
+> Alounas veces, también, las dolencias económicas de la Sociedad resultan de excesos, ó defectos, de población, en cuyos casos cs indispensable provcer, respectivamente, á la eliminación de sobras, ó á la compensación de faltas.
+
+Sometimes, also, the economic ailments of Society result from excesses, or deficiencies, of population, in which cases it is indispensable to provide, respectively, for the elimination of surpluses or for the compensation of shortages.
+
+> Frecuentemente, las poblaciones están enfermas de afecciones de carácter infeccioso, que exclusiva, ó principalmente, resultan de la falta de recursos que debieron aplicarse desde temprano ú producir una situación superior de los medios sociales. En tales casos, los remedios consisten en el saneamiento gencral del medio geográfico y topográfico, ejecutaudo obras públicas como las de que dan ejemplo la formación de oasis artificiales, reservas de agua, construcción de canales de riego y de navegación, la desecación de lagunales, e] encauzamicnto de rios, la rearbo[PDF 215] lación de páramos y eriales, la constitución de selvas por sembrios; en suma, la realización del dominio efectivo de las aguas, las'tierras y los accidentes físicos, por los moradores de un territorio.
+
+Frequently, populations are sick with affections of an infectious character, which result exclusively, or chiefly, from the want of resources that ought to have been applied early to producing a superior condition of the social media. In such cases the remedies consist in the general sanitation of the geographical and topographical medium, by executing public works such as those of which examples are given by the formation of artificial oases, reservoirs of water, the construction of canals for irrigation and navigation, the draining of marshes, the canalizing of rivers, the refor- [PDF 215] — 207 — estation of moors and wastelands, the making of forests by sowing; in sum, the realization of the effective dominion of the waters, the lands and the physical accidents by the dwellers of a territory.
+
+> 44. ENFERMEDADES MORALES. SU CURACIÓN. La mayor parte de las veces, las enfermedades crónicas de carácter moral que afectan á las sociedades humanas, suelen no ser otra cosa más que la continuidad de la acción fisica, del medio ambiente, sobre el alma social. Asi, casi todos los pueblos que habitan latitudes intertropicales padecen de las consecuencias éticas y afectivas de esas latitudes. La pereza, persistente microbio que acaricia el calor, suele ser la explicación de una multitud de negligcncias, abandonos, debilitamientos de alma, que la costumbre concluye por hacer vicios mortales. Para estas enfermedades, no hay, en realidad, cuando comienzan á manifestarsc sus efectos, más que una organización enérgica é higiénica de la educación pública, cuando ya los efectos de la enfermedad son muy notorios, una enérgica guerra del Estado contra la Sociedad: es decir, del núcleo de los representantes de la razón y de la conciencia públicas, contra esa misma razón y conciencia, hasta cuando el Estado imponga el uso de su remedio ¿ la Sociedad.
+
+44. Moral diseases. Their cure.—Most often, the chronic diseases of a moral character that affect human societies are commonly nothing else than the continuance of the physical action of the ambient medium upon the social soul. Thus almost all the peoples that inhabit intertropical latitudes suffer from the ethical and affective consequences of those latitudes. Sloth, a persistent microbe that the heat caresses, is commonly the explanation of a multitude of negligences, abandonments, enfeeblements of soul, which custom ends by making mortal vices. For these diseases there is in reality nothing, when their effects begin to manifest themselves, but an energetic and hygienic organization of public education; when the effects of the disease are already very notorious, an energetic war of the State against Society: that is to say, of the nucleus of the representatives of the public reason and conscience against that same reason and conscience, until the State imposes the use of its remedy upon Society.
+
+> 45. ENFERMEDADES INTELECTUALES. SU CURAción. —Habria un modo muy sencillo de curar siempre las enfermedades intelectuales de la Sociedad, si sólo se tratara de simples desvios: el remedio consistiría, casi siempre, en un restablecimiento de las operaciones y funciones de la razón, mediante una práctica de la lógica normal de la razón, impuesta desde la enseñanza de la infancia. Mas como, en la mayor parte de los casos, [PDF 216] esas desviaciones van complicadas con extraordinarias exacerbaciones de los nervios y de la masa cerebral, los verdaderos casos de demencia colectiva á que da lugar, no se pueden remediar en ningún modo.
+
+45. Intellectual diseases. Their cure.—There would be a very simple way of always curing the intellectual diseases of Society, if it were only a question of simple deviations: the remedy would consist, almost always, in a re-establishment of the operations and functions of reason, by means of a practice of the normal logic of reason, imposed from the instruction of infancy onward. But as, in the greater part of the cases, [PDF 216] — 208 — those deviations are complicated with extraordinary exacerbations of the nerves and of the cerebral mass, the true cases of collective dementia to which they give rise cannot be remedied in any manner.
+
+[PDF 217]
+
+## SUMMARY OF SOCIOLOGY
+
+## SECTION 1
+
+> LIBRO Il RESUMEN DE LA SOCIOLOGÍA
+
+Name of the Science.—For a long time it was called Social Science; but, since Auguste Comte, the name that he gave it has been adopted—that of Sociology—which is as much as to say: Science of Society.
+
+> SECCIÓN 1.2
+
+Place it occupies in the classification of the sciences.— The place that Sociology occupies in the classification of the sciences is the last, although Comte himself strove, after having given it that place, to demonstrate that the highest and last place belongs to Morals.
+
+> NOMBRE DE LA CieENCra.—Durante mucho tiempo se ha llamado Ciencia Social; pero, desde Augusto Comte, se ha adoptado el nombre que él le puso— el de Sociología—que es como decir: Ciencia de la Sociedad.
+
+The reason for Sociology’s having been placed in the last place has depended on the time at which the possibility and the necessity were conceived of ordering a body of doctrine out of the scattered knowledge that was possessed of Society.
+
+> LuGAR QUE OCUPA EN LA CLASIFICACIÓN DE LAS cIÉNcIas.—El lugar que ocupa la Sociología, en la clasificación de las ciencias, es el último, por más que el mismo Comte se esforzara, después de haberle dado ese lugar, en demostrar que el más alto y último lugar corresponde á la Moral.
+
+As he who did this was the very namer of the science, and he did not do it until almost the middle of this century, it is natural that he should consider Sociology as the last science.
+
+> La razón de haberse colocado en el último lugar á la Sociologia, ha dependido del tiempo en que se concibió la posibilidad y la necesidad de ordenar un cuerpo de doctrina con los conocimicutos dispersos que se tenian de la Sociedad.
+
+> Como que quien eso hizo fué el mismo denominador de la ciencia, y eso no lo hizo hasta casi mediados de este siglo, es natural que considere á la Sociología como la última ciencia.
+
+> Pero hay otra razón más lógica, y os ésta: según sabemos, todo lo cognoscible está reducido á la Naturaleza física, á la Naturaleza moral y á la Naturaleza social. Y como la Naturaleza social es un derivado ó un compuesto de la fisica y de la individual, claro es que no se ha podido llegar [PDF 218] al reconocimiento de la Sociedad como parte efec— tiva del conjunto que constituye la Naturaleza, sino cuando se hizo de la Naturaleza el estudio experimental quo se está haciendo.
+
+But there is another, more logical reason, and it is this: as we know, everything knowable is reduced to physical Nature, moral Nature and social Nature. And as social Nature is a derivative or a compound of the physical and of the individual, it is clear that it was not possible to arrive [PDF 218] — 210 — at the recognition of Society as an effective part of the whole that constitutes Nature, until the experimental study of Nature which is now being made was undertaken.
+
+> UÉ CIENCIA ES, Y POR QUÉ.—La Sociología es la, ciencia de la Sociedad, ó en otros términos, es la ciencia que ticne por objeto el estudio de las leyes de la Sociedad, con el fin de facilitar el conocimiento de las bases naturales de la organiza— ción social, en primer término, y en segundo término, con el fin de obtener así la mayor felicidad social que sea posible.
+
+What science it is, and why.—Sociology is the science of Society, or in other terms, it is the science that has for its object the study of the laws of Society, with the end of facilitating the knowledge of the natural bases of social organization, in the first place, and in the second place, with the end of thus obtaining the greatest social happiness that may be possible.
+
+> La Sociología es una ciencia, por más que muchos lo nieguen, y por más que todavía no esté constituida; porque se funda cn la interpretación de un orden real de la Naturaleza, mediante el conocimiento de las leyes naturales que producen ese orden.
+
+Sociology is a science, however many may deny it, and although it is not yet constituted; because it is founded on the interpretation of a real order of Nature, by means of the knowledge of the natural laws that produce that order.
+
+> A primera vista no es may fácil, por cierto, el reconocer que hay ó puede haber una ciencia de la Sociedad, siendo asi que la Sociedad aparece á los irreflexivos como una masa incohcrente de seres que no se ocupan más quo de sí mismos, 2 cuyo egoísmo disociador y disolvente no puede dar por resultado ningún orden; mucho menos, cuando cada egoísmo individual tiene por auxiliar una libertad incontrastable.
+
+At first sight it is not very easy, indeed, to recognize that there is or can be a science of Society, seeing that Society appears to the unreflecting as an incoherent mass of beings who are occupied with nothing but themselves, and whose dissociating and dissolving egoism can yield as its result no order whatever; much less, when each individual egoism has for its auxiliary an irresistible liberty.
+
+> Pero, reflexionando, se ve que esc conjunto de: egolstas (según se demuestra cn la Moral Social) se ven compelidos á vivir en estrecha asociación y á hacer que csa asociación sea cada vez más poderosa y más viva, porque, cuanto más lo sea, mayor será el beneficio para los individuos.
+
+But, on reflection, it is seen that that aggregate of egoists (as is demonstrated in Social Morals) find themselves compelled to live in close association and to make that association ever more powerful and more living, because, the more it is so, the greater will be the benefit for the individuals.
+
+> bservando atentamente que la Socicdad es un resultado vivicnte de la vida de todos los individuos que la componen, y observando que esa vida colectiva tiene los mismos caracteres y fines que [PDF 219] la vida individual, nos explicamos cómo y por qué—aun en las sociedades más desorganizadas— siempre se nos presenta un. sér colectivo más fuerte que todos los seres individuales que lo compolen.
+
+Observing attentively that Society is a living result of the life of all the individuals that compose it, and observing that this collective life has the same characters and ends as [PDF 219] — 211 — individual life, we explain to ourselves how and why—even in the most disorganized societies—there always presents itself to us a collective being stronger than all the individual beings that compose it.
+
+> Dado este hecho innegable, no es difícil inducir por él que esta coherencia, que resulta de tantas incoherencias, es, á su vez, el resultado de una ley general de la Naturaleza á que, sabiéndolo o sin saberlo, están sometidas las sociedades todas.
+
+This undeniable fact being given, it is not difficult to induce from it that this coherence, which results from so many incoherences, is, in its turn, the result of a general law of Nature to which, knowingly or unknowingly, all societies are subject.
+
+> Descubicrta una ley natural, ya se explica que el todo á que la ley obedece ha de ofrecer por fuerza un orden real, y cs más fácil ver la Naturaleza, ó aspecto de la Naturaleza, en que se manifiesta esc orden.
+
+A natural law once discovered, it is at once explained that the whole which obeys the law must perforce offer a real order, and it is easier to see the Nature, or aspect of Nature, in which that order is manifested.
+
+> Ahora bien: si la Sociedad es ese todo congruente que resulta de partes incongruentes, y sl la Sociedad ofrece un orden, y ese orden depende de una ley, y esa ley es eficaz, en todas las manifestaciones de la Naturaleza social, es evidente que puede haber una ciencia de la Sociedad.
+
+Now then: if Society is that congruent whole which results from incongruent parts, and if Society offers an order, and that order depends on a law, and that law is efficacious in all the manifestations of social Nature, it is evident that there can be a science of Society.
+
+## SECTION 2
+
+> SECCIÓN 2,2
+
+> DOBLE CIASIFICACIÓN DE LOS CONOCIMIENTOS.— Para establecer la clasificación á que corresponde un orden de conocimientos dado, hay que hacer dos clasificaciones: la una, metodológica; la otra, ideológica. La metodológica se ha de hacer con el objeto de averiguar si la ciencia que se trata de clasificar abarca un orden de fenómenos tan extenso, que corresponda á un aspecto cómpleto de la Naturaleza, ó si, por el contrario, se reficre al estudio de fenómenos tan concretos, que puedan estudiarse en el modo más analítico, con Casi exclusiva privación de todo otro procedimiento in[PDF 220] telectual. En el primer caso, la ciencia será abstracta, y ocupará su puesto en el grupo de las ciencias abstractas. En el segundo caso, será concreta, y ocupará su puesto en el grupo de las ciencias de su objeto y nombre. Pero, además de esta previa clasificación, reclamada por el método, hay que hacer otra, si se quicre situar en su verdadero puesto á una ciencia dada. Esta otra clasificación es la ideológica, que se refiere á la idea ú objeto de la ciencia. Como ya sabemos que, eu definitiva, las ciencias no ticnen, ni pueden tener, más idea ú objeto de conocimiento que el orden fisico, el orden moral y el orden social, las ciencias todas se agrupan en tres grupos (ciencias cosmológicas, ciencias biológicas, ó antropológi- Cas, y ciencias sociológicas), que son los que corresponden á Jos tres objetos de conocimiento. Cuando haya que clasificar una ciencia, por su objeto de conocimiento, no hay más que colocarla en uno de esos tres grupos.
+
+Twofold classification of knowledge.—In order to establish the classification to which a given order of knowledge belongs, two classifications must be made: the one methodological; the other ideological. The methodological must be made with the object of ascertaining whether the science that is to be classified embraces an order of phenomena so extensive that it corresponds to a complete aspect of Nature, or whether, on the contrary, it refers to the study of phenomena so concrete that they can be studied in the most analytical manner, with almost exclusive privation of every other in- [PDF 220] — 212 — tellectual procedure. In the first case, the science will be abstract, and will occupy its post in the group of the abstract sciences. In the second case, it will be concrete, and will occupy its post in the group of the sciences of its object and name. But, besides this preliminary classification, demanded by method, another must be made, if a given science is to be set in its true post. This other classification is the ideological, which refers to the idea or object of the science. As we already know that, in the last resort, the sciences have not, nor can have, any other idea or object of knowledge than the physical order, the moral order and the social order, all the sciences are gathered into three groups (cosmological sciences, biological or anthropological sciences, and sociological sciences), which are those that correspond to the three objects of knowledge. When a science is to be classified by its object of knowledge, one has only to place it in one of those three groups.
+
+> Á QUÉ GRUPO CORRESPONDE LA SOCIOLOGÍA, EN CADA UNA DE KSAS DOS CIASIFICACIONES.—Como conviene deducir de la clasificación metodológica el orden en que hayamos de hacer los estudios sociológicos. esto es. los estudios correspondientes al tercer grupo de conocimientos, veamos qué ciencia es la Sociología, desde este punto de vista de la clasificación.
+
+To what group Sociology belongs in each of those two classifications.—As it is fitting to deduce from the methodological classification the order in which we are to make sociological studies, that is, the studies corresponding to the third group of knowledge, let us see what science Sociology is, from this point of view of classification.
+
+> La Sociología es una ciencia abstracta, porque abarca todo un orden de la Naturaleza, y porque su objeto es tanto conocer individualmente los fenómenos que su estudio abarca, cuanto un conjunto, el conjunto mismo de esos fenómenos, en el orden en que se manifiestan, y las leyes naturales de las cuales resulta ese orden. Como toda. ciencia abstracta es también fundamental de otra, la Sociologia es una ciencia primaria, con la [PDF 221] cual están en relación de subordinación directa, otras muchas ciencias secundarias y concretas.
+
+Sociology is an abstract science, because it embraces a whole order of Nature, and because its object is as much to know individually the phenomena which its study embraces, as to know a whole, the very whole of those phenomena, in the order in which they are manifested, and the natural laws from which that order results. As every abstract science is also fundamental to another, Sociology is a primary science, with [PDF 221] — 213 — which many other secondary and concrete sciences stand in a relation of direct subordination.
+
+> Desde el punto de vista de la clasificación ideológica, la Sociologia es todo cl tercer grupo de conocimientos, puesto que es el conocimiento de la Sociedad como aspecto integrante de la Naturaleza universal.
+
+From the point of view of the ideological classification, Sociology is the whole third group of knowledge, since it is the knowledge of Society as an integral aspect of universal Nature.
+
+## SECTION 3
+
+> SECCIÓN 3.*
+
+Concrete sciences of the third group.—The concrete sciences of the third group are all those that are derived from the activity of social Nature. Thus, for example, Social or Political Economy, Jurisprudence, Ethics, Aesthetics, History, Technology; in sum, as many studies as have for their object the examination of particular phenomena of sociability, so many are the concrete, or secondary, sciences that are derived from Sociology, and that only by means of Sociology can come to be completely and exactly appreciated in their object.
+
+> CIENCIAS CONCRETAS DEL TERCER GRUPO. — Las ciencias concretas del tercer grupo, son todas aquellas que se derivan de la actividad de la Naturaleza social. Así, por ejemplo, la Economia Social ó Política, la Jurisprudencia, la. Etica, la Estética, la Historia, la Tecnologia; en suma, cuantos estudios tengan por objeto el examen de fenómenos particulares de sociabilidad, tantas son las ciencias concretas, ó secundarias, que se derivan de la Sociología, y que sólo por medio de la Sociología pueden llegar á ser completa y cabalmente apreciadas en su objeto.
+
+Which study ought to come first: that of the abstract sciences, or that of the concrete?—Given the intimate connection that exists between Sociology—the mother science— and the economic, historical, moral and political sciences— which are concrete, or secondary, sciences,—there is no need to bring out the necessity that the study of Sociology should precede that of the sciences founded upon it. Therefore the study of Sociology ought to precede that of all the concrete sciences of the third group.
+
+## SECTION 4
+
+> QUÉ ESTUDIO DEBE PRECEDER: ¿EL DE LAS CIEN- CFAS ABSTRACTAS, Ó EL DE LAS CONCRETAS?—Dada la intima concxión que hay entre la Sociologia— ciencia madre—y las ciencias económicas, históricas, morales y politicas—que son ciencias concretas, ó secundarias, —no hay para qué hacer resaltar la necesidad de que preceda el estudio de la Sociología al de las ciencias fundadas en ella. Por tanto, el estudio de la Sociología debe preceder al de todas las ciencias concretas del tercer grupo. SECCIÓN 42 NOVEDAD Y ANTIGUEDAD DE LA SocioLoGÍA.—La Sociología, es, á la vez, una ciencia vieja y nueva. Es vieja, porque, desde muy antiguo, los le[PDF 222] gisladores y organizadores de las sociedades que primero se han organizado, fueron verdaderos sociólogos. Confucio, Licurgo y Solón, fueron verdaderos peritos en ciencias sociales, por más que no supieron si era una ciencia cl conjunto de ideas ordenadas, cl sistema y el plan que seguian. Entre los filósofos y pensadores de la Antigúedad, hay dos, principalmente, griegos ambos, Aristóteles y Phtón—más Aristóteles que Platón, —á quicnes se debe el descubrimiento de ideas generales de organización, á que de seguro no se hubieran elevado si no hubieran tenido una idea muy clara de lo que es el sér social. Pero 4 pesar de estos antecedentes, y de otros muchos, entre los cuales se presentan los fundadores de los municipios civiles, los fundadores de las colonias angloamericanas, los constituyentes de los Estados Unidos, y algunos pensadores politicos tan perspicaces como Montesquien; á pesar de todo esto, la Sociología es una ciencia nueva, tan nueva, que os de ayer, y todavía no está bien organizada ni bien admitida como ciencia.
+
+Novelty and antiquity of Sociology.—Sociology is at once an old and a new science. It is old because, from very ancient times, the [PDF 222] — 214 — legislators and organizers of the societies that were first organized were true sociologists. Confucius, Lycurgus and Solon were true experts in the social sciences, although they did not know whether the aggregate of ordered ideas, the system and the plan that they followed, was a science. Among the philosophers and thinkers of Antiquity there are two principally, both of them Greeks, Aristotle and Plato—Aristotle more than Plato, —to whom is owed the discovery of general ideas of organization to which they assuredly would not have risen had they not had a very clear idea of what the social being is. But in spite of these antecedents, and of many others, among which there present themselves the founders of the civil municipalities, the founders of the Anglo-American colonies, the framers of the Constitution of the United States, and some political thinkers as perspicacious as Montesquieu; in spite of all this, Sociology is a new science, so new that it is of yesterday, and is not yet well organized nor well admitted as a science.
+
+> Por QUÍ, SIENDO UNA CIENCIA: TAN ANTIGUA, NO SE HA ORGANIZADO HASTA RSTOS DÍAS.—El por qué de este estado incierto de la Ciencia Social, se debe á dos causas generales: la primera, que, como en toda otra ciencia, ha precedido el arte á la ciencia de la Sociologia; y la segunda, que era necesario que las manifestaciones de esc arte, sus aciertos y sus yerros, se hicieran patentes, en una vasta serie le experimentos, y, como esto no podía presentarlos más que la Historia, había que apelar á la Historia.
+
+Why, being so ancient a science, it has not been organized until these days.—The wherefore of this uncertain state of Social Science is due to two general causes: the first, that, as in every other science, the art has preceded the science of Sociology; and the second, that it was necessary for the manifestations of that art, its successes and its errors, to become patent in a vast series of experiments, and, as these could be presented by nothing but History, it was necessary to appeal to History.
+
+> Para explicarlo cón más claridad, diremos que las dos causas de no haberse organizado ya las ciencias sociales, son: que la Política, verdadero arto sociológico, ha estado, y aún está, en manos [PDF 223] de hombres poco conocedores de la naturaleza de la Sociedad, y, además, que la Historia no ha podido, mientras fué exclusivamente narrativa, suministrar la razón de los hechos que narra.
+
+To explain it more clearly, we shall say that the two causes of the social sciences’ not having been organized already are: that Politics, the true sociological art, has been, and still is, in the hands [PDF 223] — 215 — of men little acquainted with the nature of Society, and, moreover, that History has not been able, so long as it was exclusively narrative, to furnish the reason of the facts it narrates.
+
+> Analizaremos separadamente estas dos causas:
+
+We shall analyse these two causes separately:
+
+> RELACIÓN DE LA POLÍTICA CON LA SOCIOLOGÍA.— La Política, como arte fundado en la naturaleza de la Sociedad, en las condiciones de su desarrollo, en el propósito de su vida, nunca ha podido florecer sino cuando los politicos y estadistas se han guiado más ó menos puntualmente por 0sa naturaleza, condiciones y fin de la Sociedad. En el fondo, la Política no es más que arte sociológico, ó lo que cs lo mismo, un arte cuyas reglas no han podido tomarse sino en las formas y fondo mismo de la. Sociedad. Por tanto, son evidentes las relaciones entre cl arte sociológico de la Política y la Sociología, puesto que el arte no hace otra cosa más que aplicar, empíricamente y al tanteo, las leyes invariables que más ó menos confusamente entrevé y obedece.
+
+Relation of Politics to Sociology.—Politics, as an art founded on the nature of Society, on the conditions of its development, on the purpose of its life, has never been able to flourish except when politicians and statesmen have been guided more or less punctually by that nature, those conditions and that end of Society. At bottom, Politics is nothing but a sociological art, or, what is the same, an art whose rules could not have been taken except from the very forms and substance of Society. Therefore the relations between the sociological art of Politics and Sociology are evident, since the art does nothing else than apply, empirically and by groping, the invariable laws which it more or less confusedly glimpses and obeys.
+
+> Claro está que, como primero fué la necesidad de establecer un orden social, que la de conocer las leyes de ese orden, primero vino la Política que la Sociología.
+
+It is clear that, as the necessity of establishing a social order came before that of knowing the laws of that order, Politics came before Sociology.
+
+> RELACIÓN ENTRE LA SOCIOLOGÍA Y LA HISTORIA.— La relación entre la Sociología y la Historia, no es menos manifiesta, puesto que la Historia no es más que la manifestación de la vida de la Sociedad, y toda ciencia que tenga por objeto el conocimiento del orden natural de las sociedades, había de contar, por fuerza, con la Historia, para observar y experimentar la realidad de los fenómenos, las propiedades de los hechos, la relación de las causas y los efectos que producen.
+
+Relation between Sociology and History.—The relation between Sociology and History is no less manifest, since History is nothing but the manifestation of the life of Society, and every science that has for its object the knowledge of the natural order of societies had perforce to reckon with History, in order to observe and test by experiment the reality of the phenomena, the properties of the facts, the relation of the causes and the effects they produce.
+
+> EvVOLUCIONES DE LA HIsTORIA. EN CUÁL APARECIÓ LA SocioLoGÍa.—Ahora bien: puesto que la Histo[PDF 224] ria ha tenido que pasar, y efectivamente ha pasado, por tres estados diferentes, que han sido: el de mera narración, poco eserapulosa; el de narración critica de hechos mejor establecidos, y el de exposición sistemática de la razón filosófica de los hechos, era natural que la ciencia que había de fundarse cn ella no apareciera suficientemente distinta de la Historia, hasta que ésta hubiera empezado su tercera evolución.
+
+Evolutions of History. In which of them Sociology appeared.—Now then: since His- [PDF 224] — 216 — tory has had to pass, and in effect has passed, through three different states, which have been: that of mere narration, little scrupulous; that of critical narration of better established facts; and that of the systematic exposition of the philosophical reason of the facts, it was natural that the science that was to be founded upon it should not appear sufficiently distinct from History until the latter had begun its third evolution.
+
+> Con efecto: mientras la Historia no pasó de narrativa, pudo haber, y hubo, grandes pensadores politicos y verdaderos sociólogos — sin saberlo, —pero no hubo Sociología.
+
+In effect: so long as History went no further than narrative, there could be, and there were, great political thinkers and true sociologists—without knowing it,—but there was no Sociology.
+
+> Ya, cuando la Historia empezó á ser y á hacerse crítica, los observadores de las sociedades se hicieron más atentos á la relación de las causas con los efectos, en la Historia, y hubo sociólogos conscientes, como Montesquien, como Herder, como Hegel, como el desconocido autor de la Mecánica Social; pero no hubo Sociología.
+
+Later, when History began to be and to become critical, the observers of societies grew more attentive to the relation of causes with effects in History, and there were conscious sociologists, such as Montesquieu, such as Herder, such as Hegel, such as the unknown author of the Mecánica Social; but there was no Sociology.
+
+> Esta no pudo empezar, niempezó, hasta cuando la Historia filosófica, ó Filosofía de la Historia, empezó á presentarnos hechos de la Humanidad como clara, patente y congruente manifestación de la vida de un sér colectivo, activo productor de un orden invariable y natural, en cuanto sometido ú leyes invariables de la Naturaleza.
+
+This could not begin, nor did it begin, until philosophical History, or the Philosophy of History, began to present to us the facts of Humanity as the clear, patent and congruent manifestation of the life of a collective being, the active producer of an invariable and natural order, inasmuch as it is subject to invariable laws of Nature.
+
+> Cuando esto se hubo hecho, es decir, cuando la Filosofía de la Historia mostró una Humanidad viva, consciente y progresiva, que vivía y sentía y progresaba en el tiempo y en el espacio, la Historia habia legado 4 su última evolución, y era, entonces, posible reunir todo el conjunto de causas y efectos de que dan cuenta los hechos de la Humanidad, y era, también, posible descubrir la razón del orden, á primera vista inaccesible, que se manifiesta á través de todos los desórdenes, [PDF 225] de todos los trastornos, de todas las vicisitudes de la vida de la Humanidad.
+
+When this had been done, that is to say, when the Philosophy of History showed a living, conscious and progressive Humanity, which lived and felt and progressed in time and in space, History had arrived at its last evolution, and it was then possible to gather together the whole aggregate of causes and effects of which the facts of Humanity give account, and it was also possible to discover the reason of the order, at first sight inaccessible, which is manifested through all the disorders, [PDF 225] — 217 — through all the upheavals, through all the vicissitudes of the life of Humanity.
+
+> Pudiéndose ya ver en la Historia un sér social, integro y vivo; una naturaleza social, característica y propia; un orden manifiesto aun en los más patentes desórdenes de la Humanidad, era natura) que se pensase en la posibilidad de descubrir las leyes invariables en que se funda ese orden. Tan pronto como eso se intentó, hubo una nueva ciencia, y esa ciencia fué la Sociologia. Asi fué como, de la última evolución de la Historia, surgió cspontáncamente la necesidad de un nuevo estudio, que habia de constituir una nueva ciencia, para presentar distintamente un nuevo orden natural, esto es, el orden de la Sociedad.
+
+As it was now possible to see in History a social being, entire and living; a social nature, characteristic and proper to it; an order manifest even in the most patent disorders of Humanity, it was natural that men should think of the possibility of discovering the invariable laws on which that order is founded. As soon as this was attempted, there was a new science, and that science was Sociology. Thus it was that, out of the last evolution of History, there sprang up spontaneously the necessity of a new study, which was to constitute a new science, in order to present distinctly a new natural order, that is, the order of Society.
+
+## SECTION 5
+
+> SECCIÓN 5.*
+
+Method of Sociology.—Sociology is like every other science: it needs a procedure of its own, founded on the real conditions of the knowledge it is to furnish and on the effective functions of the reason that is to acquire that knowledge. In order to know, then, what the method of Sociology must be, we must bear in mind, in the first place, that it is an abstract science, or one of general knowledge, or one that has for its exclusive object the investigation of laws of Nature; and, in the second place, that the knowledge it is to furnish must present itself to reason in the form of a whole, a collection or a system, as much by reason of the character of the science itself as inasmuch as the phenomena studied present themselves in series.
+
+> METODO DE La SocioLoGia.—La Sociología es como toda otra ciencia: necesita de un procedimiento propio, fundado en las condiciones reales de los conocimientos que ha de suministrar y en Jas funciones efectivas de la razón que ha de adquirir esos conocimientos. Para saber, pues, cuál ha de ser el método de la Sociología, debemos tener en cuenta, en primer lugar, que es una ciencia abstractaó deconocimientos generales, 6 que tiene por objeto exclusivo la indagación de leyes de la Naturaleza, Y en segundo lugar, que los conocimientos que ha de suministrar tienen que presentarse ¿ú la razón en forma de conjunto, colección ó sistema, tanto por el carácter de la ciencia misma, como cn cuanto á que los fenómenos que se estudian se preseutan seriados.
+
+> En cuanto á ciencia abstracta, el método que corresponde á la Sociología es el inductivo-deductivo. En cuanto á conocimiento de fenómenos se[PDF 226] riados, el método que le corresponde es el de sistematizar; y como que el sistema de hechos, de inducciones y de deducciones, que origina el estudio de las sociedades, en la Historia y en si mismas, se resuelve, al fin y al cabo, en un sistema de coordinación, por eso dijo Comte que había rocedido por analogía, en el establecimiento de as bases de esta ciencia.
+
+As an abstract science, the method that belongs to Sociology is the inductive-deductive. As knowledge of phenomena in se- [PDF 226] — 218 — ries, the method that belongs to it is that of systematizing; and since the system of facts, of inductions and of deductions, to which the study of societies, in History and in themselves, gives rise, resolves itself, when all is said and done, into a system of co-ordination, therefore Comte said that he had proceeded by analogy in establishing the bases of this science.
+
+> Nosotros, por nuestra parte, podríamos decir que el método verdadero de la Sociologia es el inductivo-deductivo, porque su verdadero procedimiento es el experimental.
+
+We, for our part, could say that the true method of Sociology is the inductive-deductive, because its true procedure is the experimental.
+
+> Así, pues, el método propio de la Ciencia Social nos obliga á sistematizar las inducciones que nos suministra la vida de los hombres, en la Historia, las deducciones que nos ofrezcan los principios á que inductivamente hayamos podido elevarnos.
+
+Thus, then, the method proper to Social Science obliges us to systematize the inductions that the life of men in History furnishes us, and the deductions offered us by the principles to which we may inductively have been able to rise.
+
+> Como el examen de los hechos de la Historia, para ser fiel, ha de estar constantemente contrastado con la naturaleza de] sér que lo reuliza—lo ue equivale á decir contrastado con la Sociedad, —ol procedimiento de la Sociología la de ser de observación, analogía y experimento: de observación, en cuanto á los hechos mismos; de analogía, en cuanto ¿4 que los hechos se refieren á un sér de naturaleza propia, y de experimento, en cuanto á que sólo en la repetición lógica y coneruente de los hechos podemos fundarnos, para declarar que hay un orden dado, en la naturaleza de la Humanidad.
+
+As the examination of the facts of History, in order to be faithful, must be constantly checked against the nature of the being that realizes them—which is equivalent to saying checked against Society,—the procedure of Sociology must be one of observation, analogy and experiment: of observation, as regards the facts themselves; of analogy, inasmuch as the facts refer to a being of a nature of its own; and of experiment, inasmuch as only upon the logical and congruent repetition of the facts can we found ourselves in order to declare that there is a given order in the nature of Humanity.
+
+## SECTION 6
+
+> SECCIÓN 6.*
+
+> QUÉ ES LO QUE SK VE EN La HistTorIa.—Para que la Sociología pudiera organizarse, pudiera encontrar y darse por régimen el método que acabamos de encontrar, era necesario que la Historia pudiera presentarnos en una manera efectiva y [PDF 227] erceptible el espectáculo de las causas y efectos ke los hechos, de las relaciones entre las ideas y los hechos, y de las consecuencias continuas de los mismos hechos. Ein suma: era necesario que la Historia nos presentara un conjunto de fenómenos naturales, manifestándose como aspecto real de la Naturaleza, como un orden cfectivo, como la expresión de leyes invariables.
+
+What is seen in History.—In order that Sociology might be organized, might find and give itself as its regime the method that we have just found, it was necessary that History should be able to present to us in an effective and [PDF 227] — 219 — perceptible manner the spectacle of the causes and effects of facts, of the relations between ideas and facts, and of the continuous consequences of those same facts. In sum: it was necessary that History should present to us an aggregate of natural phenomena, manifesting itself as a real aspect of Nature, as an effective order, as the expression of invariable laws.
+
+> A esto, no podía llegar la Historia narrativa, que no se ocupa más que en los sucesos, sin más relación con la lógica causa de los hechos que la que puede haber con cl tiempo y el lugar.
+
+To this narrative History could not attain, since it is occupied with nothing but events, with no further relation to the logical cause of the facts than that which there may be with time and place.
+
+> La Historia crítica—que trata, principalmente, de establecer la verdad de los hechos, contrastándolos con tiempos, lugares, circunstancias y naturaleza racional y pasional del hombre—serviría para declarar que en el fondo de esos hechos había una vida, y que el sér que vivia y vive en la Historia es la Humanidad. Pero la Historia crítica no podía, por sí sola, presentarnos reconstruida esa vida de la Humanidad, en tal modo, que viéramos —como, después, nos hizo ver la Historia filosófica—la existencia normal y regular de un sér idéntico á sí mismo, en todos los tiempos y lugares de la Historia.
+
+Critical History—which seeks, principally, to establish the truth of facts, checking them against times, places, circumstances, and the rational and passional nature of man—would serve to declare that at the bottom of those facts there was a life, and that the being which lived and lives in History is Humanity. But critical History could not, by itself alone, present to us that life of Humanity reconstructed in such a manner that we should see—as philosophical History afterwards made us see—the normal and regular existence of a being identical with itself in all the times and places of History.
+
+> Esa existencia regular y normal de la Sociedad humana, es lo que se ve, en un modo real y patente, en la Historia.
+
+That regular and normal existence of human Society is what is seen, in a real and patent manner, in History.
+
+> Á QUIÉN sk VE.—El sér cuya existencia nos patentiza en un modo evidente la Historia filosófica, es la Humanidad, y, como la Humanidad es el conjunto congruente que constituye la Sociedad gencral, en todos los tiempos y lugares, la Sociedad es 4 quien vemos en la Historia, puesto que por medio de la Sociabilidad ó Ley universal de Asociación es como se nos manifiesta el hombre, en el tiempo y en cl espacio.
+
+Whom we see.—The being whose existence philosophical History makes patent to us in an evident manner is Humanity; and, as Humanity is the congruent whole that constitutes general Society, in all times and places, Society is whom we see in History, since it is by means of Sociability, or the universal Law of Association, that man is manifested to us in time and in space.
+
+[p. 220]
+
+> DATOS QUE NOS SUMINISTRA LA VIDA DEL SER QUE EN LA HISTORIA SE PRESENTA.—El primer dato que nos suministra la Historia filosófica, es: la realidad de esa vida colectiva del sér humano. Il segundo dato que la Historia suministra á la Sociologia, es cl de la igualdad de la naturaleza del ser colectivo, en todos los tiempos y lugares. El tercer dato suministrado á la Sociología, por la Historia, es el de la ¿igual conducta del sér colectivo, en iguales circunstancias, y en todo lo esencial 4 su naturaleza.
+
+Data furnished us by the life of the being that presents itself in History.—The first datum that philosophical History furnishes us is: the reality of that collective life of the human being. The second datum that History furnishes to Sociology is that of the sameness of the nature of the collective being in all times and places. The third datum furnished to Sociology by History is that of the like conduct of the collective being in like circumstances, and in all that is essential to its nature.
+
+> RESULTADO DE ESTOS DATOS. —De los datos que acabamos de enumerar, se deducen los varios resultados que importa mencionar y considerar:
+
+Result of these data.—From the data we have just enumerated are deduced the several results which it is important to mention and consider:
+
+> Primer resultado: ¿igualdad de necesidades del sér colectivo, en todos los tiempos y lugares, independientemente del lugar en que haya vivido, viva, $ viviere.
+
+First result: sameness of the needs of the collective being in all times and places, independently of the place in which it may have lived, lives, or shall live.
+
+> Segundo resultado: empleo de los mismos medios, cualesquiera que hayan sido, sean, 6 fueren, las circunstancias que los diferencien.
+
+Second result: employment of the same means, whatever may have been, may be, or shall be, the circumstances that differentiate them.
+
+> Tercer resultado: una misma experiencia, y la misma capacidad de fundar en ella un desarrollo, cada vez más racional y concienzudo, de la especie humana, en general, y de la Sociedad, en particular.
+
+Third result: one same experience, and the same capacity to found upon it a development, ever more rational and conscientious, of the human species in general, and of Society in particular.
+
+## SECTION 7
+
+> SECCIÓN 7.2
+
+Induced truths.—From the correspondence we have just noted between the data that History furnishes to Sociology and the results of those data, six absolute truths are inferred.
+
+> VERDADES INDUCIDAS.—VDe la correspondencia que acabamos de notar entre los datos que la Historia suministra 4 la Sociología y los resultados de esos datos, se infieren scis verdades absolutas.
+
+Here are those truths:
+
+> He aquí dichas verdades:
+
+First truth, derived from the correlation of data and results: The association of men, for individual and collective ends, is a necessary condition of the existence of the individual and collective being.
+
+> Primera verdad derivada de la correlación de datos y resultados: La asociación de los hombres, para fines individuales y colectivos. es una condición necesaria á la existencia del ser individual y colectivo.
+
+[p. 221]
+
+> unda verdad: La conservación de esa asociación, d, lo que tanto vale, la conservación de las sociedades humanas, ast particulares como generales, es una condición necesaria, para la vida del sér colectivo, así como para la del sér individual, de cuya agregación resulta aquélla.
+
+Second truth: The conservation of that association, or, what amounts to the same, the conservation of human societies, particular as well as general, is a necessary condition for the life of the collective being, as well as for that of the individual being, from whose aggregation the former results.
+
+> Tercera verdad: El Trabajo, en sus tres fases, Fisico, moral e intelectual, es una condición necesaria para la subsistencia y la conservación del ser humano.
+
+Third truth: Labour, in its three phases, physical, moral and intellectual, is a necessary condition for the subsistence and the conservation of the human being.
+
+> Cuarta verdad: La libertad del sér colectivo y de los seres individuales que lo constituyen, es una condición necesaria de la vida, de la conservación y del trabajo de la Sociedad.
+
+Fourth truth: The liberty of the collective being and of the individual beings that constitute it is a necessary condition of the life, of the conservation and of the labour of Society.
+
+> Quinta verdad: £2 desarrollo, 6 progreso, de las sociedades humanas, es una condición necesaria, que resulta, lógica e ideológicamente, de las condiciones anteriores.
+
+Fifth truth: The development, or progress, of human societies is a necessary condition which results, logically and ideologically, from the foregoing conditions.
+
+> Sexta verdad: La civilización ó desarrollo máximo de la racionalidad del sér colectivo, en todos los tiempos y lugares, es una condición ideal de la vida, que resulta de su progía natwraleza racional y consciente, y del conjunto de las condiciones anteriores.
+
+Sixth truth: Civilization, or the maximum development of the rationality of the collective being in all times and places, is an ideal condition of life, which results from its own rational and conscious nature, and from the aggregate of the foregoing conditions.
+
+> Ahora bien: como que cada una de estas verdades absolutas afirma la existencia de una ley necesaria, y como lo que llamamos ley universal de la Naturaleza no es más que un conjunto de condiciones necesarias que resultan de la infalible correlación de una serie de causas con una serie de efectos, ¿podrían existir esas condiciones necesarias de la naturaleza humana, si no estuvieran sometidas á un orden, y si esc orden no se derivara de leyes infalibles?
+
+Now then: since each one of these absolute truths affirms the existence of a necessary law, and since what we call a universal law of Nature is nothing but an aggregate of necessary conditions resulting from the infallible correlation of a series of causes with a series of effects, could those necessary conditions of human nature exist if they were not subject to an order, and if that order were not derived from infallible laws?
+
+> No pudiendo eso ser, y estudiando la Sociología lo que estudia, ¿qué es la Sociología? ¿Un simple estudio de hechos inconexos? No. ¿Una ciencia? Si; podemos decir ya que es una ciencia, [PDF 230] puesto que existe un orden social invariable, y puesto que ese orden depende de leyes naturales.
+
+That being impossible, and Sociology studying what it studies, what is Sociology? A simple study of unconnected facts? No. A science? Yes; we can now say that it is a science, [PDF 230] — 222 — since there exists an invariable social order, and since that order depends upon natural laws.
+
+> Claro es que la ciencia así fundada en la existencia del orden que trata de conocer nos llevará á la indagación y al conocimiento de las leyes en que se funda el orden descubierto. Por esto, lo primero por que ha de empezar la Sociología, una vez reconocida una Naturaleza social y descubierto un orden natural de la Sociedad, es: conocer las leyes de ese orden.
+
+It is plain that the science thus founded upon the existence of the order which it seeks to know will lead us to the investigation and to the knowledge of the laws upon which the order discovered is founded. For this reason, the first thing with which Sociology must begin, once a social Nature has been recognized and a natural order of Society discovered, is: to know the laws of that order.
+
+> LEYES NATURALES DE LA SOCIEDAD.—Las leyes naturales en que se funda la Sociedad, son: primera, la Ley de Sociabilidad; segunda, la Ley de Trabajo; tercera, la Ley de Libertad; cuarta, la Ley de Progreso; quinta, la Ley de Conservación; y, sexta, la Ley de Civilización ó Ley de Ideal.
+
+Natural laws of Society.—The natural laws upon which Society is founded are: first, the Law of Sociability; second, the Law of Labour; third, the Law of Liberty; fourth, the Law of Progress; fifth, the Law of Conservation; and, sixth, the Law of Civilization or Law of the Ideal.
+
+## SECTION 8
+
+> SECCIÓN 8.*
+
+Definition of the natural laws of Society. Law of Sociability.—Sociability is: the property of being sociable, which man possesses.
+
+> DEFINICIÓN DE LAS LEYES NATURALES DE LA S0- CIEDAD. LEY DE SocIABILIDAD.-—Sociabilidad, es: la propiedad de ser sociable, que tiene el hombre.
+
+By virtue of that property, he seeks, and must seek, his fellows, with the end of increasing his capacity for living.
+
+> n virtud de esa propicdad, busca, y debe buscar, 4 sus congéneres con el fin de aumentar su capacidad de vivir.
+
+But, since, by virtue of his free will, man can dispose of his person, even to the point of failing in the duties and propensities of his nature, it was necessary to bind him in such a manner to the other beings of his species that he could do nothing outside the Society of his fellows.
+
+> Mas, como, en virtud de su libre albedrío, el hombre puede disponer de su persona, hasta el punto de faltar á los deberes y propensiones de su naturaleza, fué necesario ligarlo en tal modo á los otros seres de su especie, que nada pudiera, fuera de la Sociedad de sus congéneres.
+
+That natural subjection of the Individual to Society is what is called the Law of Sociability.
+
+> Esa sujeción natural del Individuo á la Sociedad, es lo que se llama Ley de Sociabilidad.
+
+> Es una ley universal de la Naturaleza, porque tiene por objeto el orden de toda una porción de la Naturaleza, ó sea cl orden de la Sociedad. Es una ley natural, porque manifiesta constante[PDF 231] mente una correlación entre una causa y un efecto, ó, en otros términos, porque si el Individuo se sustrajera al orden que la ley ha establecido. no podría subsistir, y concluiría por no vivir.
+
+It is a universal law of Nature, because it has for its object the order of an entire portion of Nature, that is, the order of Society. It is a natural law, because it constant- [PDF 231] — 223 — ly manifests a correlation between a cause and an effect, or, in other terms, because, if the Individual withdrew himself from the order which the law has established, he could not subsist, and would end by not living.
+
+> La Ley de Sociabilidad nos presenta constantemente cl principio de asociación como la Causa de los beneficios que obtiene el hombre en la Sociedad, y nos presenta esos beneficios como efectos necesarios de aquella causa. Y, con efecto, tanto en el cumplimiento del destino individual cuanto en el cumplimiento colectivo del destino humano, éste y aquél son efectos ó resultados del ejercicio de la Sociabilidad.
+
+The Law of Sociability constantly presents to us the principle of association as the cause of the benefits which man obtains in Society, and presents those benefits to us as necessary effects of that cause. And, in effect, as much in the fulfilment of the individual destiny as in the collective fulfilment of the human destiny, the latter and the former are effects or results of the exercise of Sociability.
+
+> Sin esta ley, la especie humana no podría subsistir; la existencia económica de los individuos sería imposible; la educación sería inconcebible; el mejoramiento moral sería una utopia; Libertad, Progreso, Civilización, Ideal humano....., todo, sería imposible.
+
+Without this law, the human species could not subsist; the economic existence of individuals would be impossible; education would be inconceivable; moral betterment would be a utopia; Liberty, Progress, Civilization, the human Ideal….., all would be impossible.
+
+> SEGUNDA LEY SOCIAL: LEY DR TrabaJo.—Hasta cierto punto, ya sabemos que el trabajo es una ley social, puesto que acabamos de verlo dependicnte de la ley anterior (de la Ley de Sociabilidad).
+
+Second social law: Law of Labour.—Up to a certain point, we already know that labour is a social law, since we have just seen it dependent upon the preceding law (upon the Law of Sociability).
+
+> Trabajo, es el esfuerzo, individual ó colectivo, para obtener un producto de que subsistir, ya directamente, ya por cambio.
+
+Labour is the effort, individual or collective, to obtain a product on which to subsist, whether directly, or by exchange.
+
+> La correlación eutre el trabajo y la subsistencia es en tal modo manifiesta, que si se deja de trabajar se deja de subsistir. Hay, pues, en esta perentoria correlación del trabajo, como Causa, y el hambre, como efecto, toda la fuérza de una ley universal. Y, con efecto, nadie se substrae de olla; nadie puede substraerse de ella; nadie ha podido substraerse de clla, y nadie se substracrá jamás de ella. El trabajo, por consiguiente, ex una ley. Así como lo es, para el Individuo aislado, [PDF 232] asi lo cs para los hombres congregados; en tal modo que, en proporción del trabajo material, mental y moral, que realiza una Sociedad cualquiera, está el aumento de productos materiales, mentales y morales, y el aumento de beneficios que se debe á esos trabajos.
+
+The correlation between labour and subsistence is so manifest that if one ceases to labour one ceases to subsist. There is, then, in this peremptory correlation of labour, as cause, and of hunger, as effect, all the force of a universal law. And, in effect, no one withdraws himself from it; no one can withdraw himself from it; no one has been able to withdraw himself from it, and no one will ever withdraw himself from it. Labour, consequently, is a law. Just as it is so for the isolated Individual, [PDF 232] — 224 — so is it for men gathered together; in such manner that, in proportion to the material, mental and moral labour which any Society whatever performs, is the increase of material, mental and moral products, and the increase of benefits that is due to those labours.
+
+> TERCERA LEY SOCIAL: LEY DE LIBERTAD.—Con decir que la Lihertad es el modo universal de realizar la vida, decimos que la Libertad es una ley, puesto que la Naturaleza nos la ha dado como causa impulsiva de todos nuestros actos; pero esto no basta para hacer comprender toda la efectiva importancia de esta ley. Por eso vamos á tratar de hacerla comprender más extensamente.
+
+Third social law: Law of Liberty.—In saying that Liberty is the universal mode of realizing life, we say that Liberty is a law, since Nature has given it to us as the impelling cause of all our acts; but this does not suffice to make the whole effective importance of this law understood. Therefore we shall try to make it understood more extensively.
+
+> La Libertad—medio universal de acción como es, en el plan de la Naturaleza—se aplica á cuanto pueda abarcar la actividad del hombre, en cuantos grupos sociales puede funcionar; en modo que, si nos concretamos al hombre individual, tiene él una esfera de actividad que le es propia, y dentro de la cual actúa necesariamente con cel mismo medio de acción: esa esfera de actividad, es la que abarca los fines individuales de su vida, y el medio general y natural de acción que tiene, para realizar sus fines, es su propia libertad individual. Así, en todos los grupos de la sociabilidad, en cada uno de los cuales la Sociedad, constituida por el grupo, tiene, como medio necesario para realizar los fines de su vida, la Libertad, que corresponde ¿ese fin.
+
+Liberty—universal means of action as it is, in the plan of Nature—applies to whatever the activity of man may embrace, in as many social groups as it can function in; in such manner that, if we confine ourselves to the individual man, he has a sphere of activity which is proper to him, and within which he necessarily acts with the same means of action: that sphere of activity is the one that embraces the individual ends of his life, and the general and natural means of action which he has for realizing his ends is his own individual liberty. So, too, in all the groups of sociability, in each of which Society, constituted by the group, has, as the necessary means for realizing the ends of its life, the Liberty which corresponds to that end.
+
+> Eso es lo porque la Libertad se nos presenta, en la vida total y parcial del sér humano, en tantos aspectos diferentes cuantas son las diferencias de extensión é intensidad que median entre la actividad de los individuos y la de los grupos sociales. Asi es como, no siendo la Libertad más que un mismo medio universal de acción de que [PDF 233] nos ha provisto la Naturaleza, para realizar nuestros fines, conocemos, sin embargo, lo que llamamos Libertad individual—que es necesaria para ue el Individuo viva en la Comunidad; —lo que llamamos Libertad municipal—unecesaria para que el Municipio realice sus fines, y favorezca los fines de los grupos superiores y los del Individuo;—lo que llamamos Libertad provincial —necesaria para que la Provincia realice los fines de su vida particular, —y lo que llamamos Libertad nacional— necesaria para que la Nación llegue al grado múximo de fucrzas económicas, intelectuales y mo- Tales.
+
+That is the reason why Liberty presents itself to us, in the total and partial life of the human being, in as many different aspects as there are differences of extension and intensity between the activity of individuals and that of social groups. Thus it is that, Liberty being no more than one and the same universal means of action with which [PDF 233] — 225 — Nature has provided us for realizing our ends, we nevertheless know what we call individual Liberty—which is necessary in order that the Individual may live in the community;—what we call municipal Liberty—necessary in order that the Municipality may realize its ends, and favour the ends of the higher groups and those of the Individual;—what we call provincial Liberty—necessary in order that the Province may realize the ends of its particular life,—and what we call national Liberty—necessary in order that the Nation may attain the maximum degree of economic, intellectual and moral forces.
+
+> Asi aplicable, como la hemos visto, á la relación de todos los que son objetos naturales de la vida, tanto individual como social, así es aplicable la Libertad á todo lo que puede ser propósito parcial 0 circunstancial de cualquier actividad, en cualquier momento de su desarrollo. Por consiguiente, la Libertad es un verdadero medio, de que la Naturaleza ha provisto al hombre, para que haga cuanto ella misma le ha dado por fin de su existencia. Siendo esto asi, y correspondiendo este medio (la Libertad) á todo fundamento, como corresponde una causa á un efecto, no podemos dejar de ver que todo cuanto un hombre ejecuta, en bien y mal, es efecto en el cual obra, como causa constante, su libre albedrío, su libertad de acción, su libertad.
+
+Applicable as we have seen it to be to the relation of all that are natural objects of life, individual as well as social, so is Liberty applicable to all that may be the partial or circumstantial purpose of any activity whatever, at any moment of its development. Consequently, Liberty is a true means, with which Nature has provided man, in order that he may do whatever she herself has given him as the end of his existence. This being so, and this means (Liberty) corresponding to every foundation, as a cause corresponds to an effect, we cannot fail to see that everything a man performs, for good and ill, is an effect in which there acts, as constant cause, his free will, his liberty of action, his liberty.
+
+> Demostrada esta correlación entre Ja vida del hombre, que se nos presenta como efecto de una causa activa, y la Libertad—que es una causa activa—tenemos que reconocer la correspondencia entre esa causa y ese efecto, y esto es lo que en las ciencias físicas y naturales conocemos Con el nombre de ley eniversal, Por consiguiente, la, la Libertad es una ley universal de la Sociedad.
+
+This correlation once demonstrated between the life of man, which presents itself to us as the effect of an active cause, and Liberty—which is an active cause—we must recognize the correspondence between that cause and that effect, and this is what in the physical and natural sciences we know by the name of universal law. Consequently, Liberty is a universal law of Society.
+
+[p. 226]
+
+> CUARTA LEY SOCIAL. La Ley DE PROGRESO.—Para robar que cl Progreso es una ley de la Naturaeza humana, como lo es de la universal, no hay más que definirlo. Sabiendo, con efecto, que lo que vulgarmente sc ha llamado Progreso no incluye otra idea que la de desarrollo, veremos que todo, en la Naturaleza física, en la moral y en la intelectual; en la conciencia, en el Individuo, en la Sociedad, todo progresa, porque todo está sometido á la ley de desarrollo. Esta ley actúa en el mineral, el cual crece y se desarrolla, no de dentro para fuera, sino por yuxtaposición; actúa. en los vegetales, que crecen de dentro para fuera, de abajo para arriba, del centro hacia los lados; en los animales, que crecen, se desarrollan: progresan; en el hombre y en las sociedades humanas, que crecen, se desarrollan y progresan, incluyendo todas las formas del desarrollo, ya el mecánico y geométrico de los minerales, ya el mecánico y el biológico de los vegetales, ya el biológico y sistemático de Jos animales, ya el omnimodamente funcional del sér humano; como organismo material y corporal; como organismo moral; como organismo intelectual, ete.
+
+Fourth social law. The Law of Progress.—To prove that Progress is a law of human Nature, as it is of universal Nature, one has only to define it. Knowing, in effect, that what has commonly been called Progress includes no other idea than that of development, we shall see that everything, in physical Nature, in the moral and in the intellectual; in conscience, in the Individual, in Society, everything progresses, because everything is subject to the law of development. This law acts in the mineral, which grows and develops, not from within outwards, but by juxtaposition; it acts in vegetables, which grow from within outwards, from below upwards, from the centre towards the sides; in animals, which grow, develop and progress; in man and in human societies, which grow, develop and progress, including all the forms of development, whether the mechanical and geometrical development of minerals, or the mechanical and the biological of vegetables, or the biological and systematic of animals, or the all-embracingly functional development of the human being; as a material and corporeal organism; as a moral organism; as an intellectual organism, etc.
+
+> El desarrollo es una ley de la Naturaleza, que consta en todo cuanto existe, y especialmente en todo cuanto vive: todo lo que vive, nace, primero; crece, después, 0 progresa hacia adelante; declina, más tarde, ó regresa hacia atrás, y, luego, muere. Lo que llamamos progreso, no es más. que nacer, Crecer y declinar. En todo progreso, biológico ó fisiológico, psicológico ó lógico, individual ó social, constitucional ó institucional, sociológico ó histórico, están comprendidos necesariamente los tres términos de todo desarrollo natural: nacer, crecer y morir.
+
+Development is a law of Nature, which is evident in all that exists, and especially in all that lives: all that lives is born, first; grows, afterwards, or progresses forwards; declines, later, or regresses backwards, and, then, dies. What we call progress is nothing more than being born, growing and declining. In every progress, biological or physiological, psychological or logical, individual or social, constitutional or institutional, sociological or historical, there are necessarily comprised the three terms of all natural development: to be born, to grow and to die.
+
+> La diferencia que la lengua vulgar y la cien-
+
+The difference which common speech and scien-
+
+[PDF 235]
+
+> tífica han establecido, entre estas dos palabras desarrollo y progreso, procede sencillamente de ue á la idea de desarrollo ó crecimiento se ha e agregar la idea de progreso ó desarrollo reflexivo, estimulado y favorecido expresamente. En otros términos: entre cl crecimiento, que es ley de la Naturaleza, y lo que llamamos progreso, no hay ninguna otra diferencia que la de una propiedad supuesta á la idea de desarrollo. Por proreso, entendemos: desarrollo mediante esfuerzos eliberados, especialmente esfuerzos de orden moral y de orden intelectual, y progresar, en ese sentido, es: el acto, ú serie de actos, efectuados por algo que de otro modo permanecería estacionario.
+
+— 227 — tific speech have established between these two words development and progress proceeds simply from this: that to the idea of development or growth there has to be added the idea of progress or reflective development, expressly stimulated and favoured. In other terms: between growth, which is a law of Nature, and what we call progress, there is no other difference than that of a property supposed in the idea of development. By progress we understand: development by means of deliberate efforts, especially efforts of the moral and of the intellectual order; and to progress, in that sense, is: the act, or series of acts, effected by something that would otherwise remain stationary.
+
+> Pero si se piensa que ningún sér nacido, ó cosa formada, puede permanecer estacionario, ó dejar de crecer y decrecer, se verá que progreso y desarrollo son términos idénticos. Verdad es que, á primera vista, las palabras progreso y progresar indican, por su etimología (pro, adelante; gradior, -eris, -essus, -une, andar), un movimiento hacia adelante, y, nunca, uno hacia atrás; pero como cn todo desarrollo hay siempre un movimiento hacia adelante (el nacer y el crecer), se evidencia que desarrollar y progresar, desarrollo y progreso, son la misma cosa. Y tanto más, cuanto que cl mismo movimiento ascendente del progreso indica, por fuerza, un punto de término, 0 de estación, porque ni mecánica, ni lógica, ni biológicamente, se mueve nada que no llegue á un punto, y que al llegar no se detenga, y que al detenerse no regrese, 6 decline, ó vuelva hacia atrás. En modo, que, por la misma etimología de la palabra, el progreso incluye los tres términos (Macer, Crecer y morir) que incluye la ley del desarrollo natural. Si, pues, como acabamos de [PDF 236] ver. el desarrollo es una 5 de la Naturaleza, ley, también, de la Naturaleza es el progreso. Bien podemos decir, pues, con las ciencias naturales en la mano (y tanto más, cuanto que la Sociología es una ciencia natural), bien podemos decir que la Ley de Progreso es natural, efectiva y positiva.
+
+But if one considers that no being once born, or thing once formed, can remain stationary, or cease to grow and to decrease, it will be seen that progress and development are identical terms. True it is that, at first sight, the words progress and to progress indicate, by their etymology (pro, forward; gradior, -eris, -essus, -um, to walk), a movement forwards, and never one backwards; but since in all development there is always a movement forwards (being born and growing), it becomes evident that to develop and to progress, development and progress, are the same thing. And all the more so, inasmuch as the very ascending movement of progress necessarily indicates a point of termination, or of halt, because neither mechanically, nor logically, nor biologically does anything move that does not reach a point, and that on reaching it does not stop, and that on stopping does not regress, or decline, or turn backwards. So that, by the very etymology of the word, progress includes the three terms (to be born, to grow and to die) which the law of natural development includes. If, then, as we have just [PDF 236] — 228 — seen, development is a law of Nature, a law of Nature, likewise, is progress. We may well say, then, with the natural sciences in hand (and all the more so, inasmuch as Sociology is a natural science), we may well say that the Law of Progress is natural, effective and positive.
+
+> QUINTA LEY SOCIAL: LEY DE CONSERVACIÓN. —El mismo instinto de conservación que tiene cada individuo humano. lo tiene la especie entera. Sila humanidad no tuvicra ese instinto de conservación, no prevalecería sobre los continuos obstáculos que se oponen á su vida. Luego: si prevalece, si á pesar de esos obstáculos subsiste, es: porque trata de conservarse y aplica todo su instinto á conservarse. Podemos, pues, decir que la conservación de la vida es resultado ú efecto de una causa continua que está en ella, y que csa causa es el instinto de conservación que le dió la Naturaleza.
+
+Fifth social law: Law of Conservation.—The same instinct of conservation which each human individual has, the entire species has. If humanity did not have that instinct of conservation, it would not prevail over the continual obstacles that oppose its life. Hence: if it prevails, if in spite of those obstacles it subsists, it is: because it seeks to conserve itself and applies all its instinct to conserving itself. We may, then, say that the conservation of life is the result or effect of a continual cause which is in it, and that that cause is the instinct of conservation which Nature gave it.
+
+> En la infalible correlación de esa causa y de ese efecto, hay lo que llamamos una ley universal de la Naturaleza. Por consiguiente, si csa correlación cs una ley en cuanto se reficre al Individuo, por la misma razón será una ley en cuanto se refiere á Ja Sociedad general ó Humanidad.
+
+In the infallible correlation of that cause and of that effect, there is what we call a universal law of Nature. Consequently, if that correlation is a law in so far as it refers to the Individual, for the same reason it will be a law in so far as it refers to general Society or Humanity.
+
+> Ahora bien: como las manifestaciones de la vida colectiva no son simplemente materiales, sino que se refieren también á la naturaleza moral y á la intelectual de nuestra especie, ella no trata simplemente «de conservar su vida material, sino que aplica todos los instintos de conservación á la subsistencia dle los bienes que una vez ha adquirido. De aquí los esfuerzos que hacen las sociedades todas para conservar su progreso, su libertad, sus ventajas económicas, su Cohesión social y cuanto consideren como elementos materiales é [PDF 237] inmateriales de subsistencia. De ahi, como consecuencia, que si la Ley de Conservación se refiere en el Individuo exclusivamente á la integridad de su vida material, en la Sociedad se refiere á la integridad de la vida material, volitiva y afectiva de la Humanidad.
+
+Now then: since the manifestations of collective life are not simply material, but refer also to the moral and to the intellectual nature of our species, it does not seek simply to conserve its material life, but applies all the instincts of conservation to the subsistence of the goods which it has once acquired. Hence the efforts which all societies make to conserve their progress, their liberty, their economic advantages, their social cohesion and whatever they consider as material and [PDF 237] — 229 — immaterial elements of subsistence. Hence, as a consequence, if the Law of Conservation refers in the Individual exclusively to the integrity of his material life, in Society it refers to the integrity of the material, volitional and affective life of Humanity.
+
+> SEXTA LEY SOCIAL: LEY DE CIVILIZACIÓN Ó DE IoraL.—Por ¿deal, se entiende: el continuo laborar de propúsitos que motivan, en una vida individual 6 colectiva, todos los esfuerzos mentales que hace un hombre, ú una sociedad, para vivir con arreglo al objeto de vida que se ha propuesto realizar.
+
+Sixth social law: Law of Civilization or of the Ideal.— By ideal is understood: the continual working out of purposes which motivate, in an individual or collective life, all the mental efforts which a man, or a society, makes in order to live in accordance with the object of life which it has proposed to itself to realize.
+
+> Como que cualesquiera que sean los propósitos individuales, 0 colectivos, de un individuo ó de una sociedad determinados, ningún hombre, ninguna sociedad, puede hacer más de lo que la Naturaleza ha impuesto para fines propios del sér humano, ya individuales, ya colectivos, los propósitos más vastos se reducen á llegar al último grado posible de racionalidad y de conciencia, como este tratar de llegar al último grado de racionalidad, es lo gue se llama civilización, esto y lo que se llama el Ideal, son, en definitiva, el mismo propósito final que la Naturaleza ha dado á la vida individual y colectiva de los hombres. Por tanto, si se demuestra que hay una ley de civilización, queda demostrado que hay una Ley de Idcal.
+
+Since, whatever may be the individual, or collective, purposes of a given individual or society, no man, no society, can do more than what Nature has imposed for the ends proper to the human being, whether individual or collective, the vastest purposes reduce themselves to reaching the last possible degree of rationality and of conscience; and since this striving to reach the last degree of rationality is what is called civilization, this and what is called the Ideal are, in the end, the same final purpose which Nature has given to the individual and collective life of men. Therefore, if it is demonstrated that there is a law of civilization, it is demonstrated that there is a Law of the Ideal.
+
+> Que la civilización es destino del sér humano, lo patentiza toda la historia de Jos hombres: todavía no ha existido una sociedad, ó conjunto organizado de hombres, que no haya aumentado su racionalidad á medida que ha desarrollado su vida; en tal modo, que puede establecerse una correlación invariable entre el desarrollo de la vida colectiva y el aumento de racionalidad humana; en lo cual se podria, sin violencia de la, [PDF 238] Lógica, establecer que la civilización ó desarrollo de la racionalidad social es una consecuencia ó efecto del desarrollo de la vida colectiva, y que este desarrollo es la causa de aquel efecto. Siendo continua é invariable esta agencia de esa causa y ese efecto, podemos afirmar que hay una ley natural cn esta succsión de causas y efectos. Esta ley es la civilización, y la civilización es el continuo ideal del hombre colectivo.
+
+That civilization is the destiny of the human being, the whole history of men makes patent: there has not yet existed a society, or organized aggregate of men, that has not increased its rationality in measure as it has developed its life; in such manner that an invariable correlation can be established between the development of collective life and the increase of human rationality; from which one could, without violence to [PDF 238] — 230 — Logic, establish that civilization or the development of social rationality is a consequence or effect of the development of collective life, and that this development is the cause of that effect. This agency of that cause and that effect being continual and invariable, we may affirm that there is a natural law in this succession of causes and effects. This law is civilization, and civilization is the continual ideal of collective man.
+
+## SECTION 9
+
+> SECCIÓN 9.*
+
+What order is.—In reality, instead of ascertaining what the order is, or what kind of order it is that derives from the unwritten laws of Society, what it in fact falls to us to ascertain is whether there is an order that derives exactly from those laws; because, once this is ascertained, we shall know, in consequence, that this is the natural order of societies, or, in other terms, that there is a natural order of societies, which is completely independent of the artificial efforts that men may make to give stability and regularity to the societies they establish.
+
+> QUE Es orDEN.—En realidad. en vez de averiguar cuál es el orden, ó qué clase de orden es el que se deriva de las leyes no-cscritas de la Sociedad, lo que efectivamente nos toca averiguar es si hay un orden que se deriva puntualmente de osas leyes, porque, una vez averiguado esto, sahremos, por consecuencia, que ese es el orden natural de las sociedades, ú, en otros términos, que hay un orden natural de las sociedades, que es completamente independiente de los esfuerzos artificiales que los hombres puedan lacer para dar estabilidad y regularidad á las sociedades que establecen.
+
+With the object of inquiring whether a given order does in fact derive from the natural laws of Society, let us see, first, what it is that is called order.
+
+> Con objeto de indagar si efectivamente se deriva de las leyos naturales de la Sociedad un orden dado, veamos, primero, qué es lo 4 que se llama orden.
+
+> Orden, cn la Naturaleza, no es más que la regularidad infalible con que se manifiestan los efectos, como resultado de sus causas naturales. Basta suponer la alteración de esa regularidad, para cstablecer el desorden. Con efecto: si suponemos que el Sol desaparece, afirmamos que inmediatamente desaparccerían con él casi todas las condiciones dle vida del planeta en que habitamos. Ese sumo [PDF 239] desorden, no seria más que lo opuesto al sumo orden natural en cuya virtud la continua agencia de los fenómenos fisicos que determina la presencia del Sol, da por efecto las continuas consecuencias de nuestra vida planctaria.
+
+Order, in Nature, is nothing more than the infallible regularity with which effects manifest themselves, as the result of their natural causes. It suffices to suppose the alteration of that regularity in order to establish disorder. In effect: if we suppose that the Sun disappears, we affirm that there would immediately disappear with it almost all the conditions of life of the planet we inhabit. That supreme [PDF 239] — 231 — disorder would be nothing more than the opposite of the supreme natural order by virtue of which the continual agency of the physical phenomena which the presence of the Sun determines gives as its effect the continual consequences of our planetary life.
+
+> ORDEN QUE SE DERIVA DE LAS LEYES NATURALES DE LA SociEDAD.—Pues bien: en la Sociedad, el orden no es ni más ni menos que lo que es en la Naturaleza, porque, no siendo la Sociedad más que un aspecto de la Naturaleza universal, el oren social no es más que una parte del orden natural, y no puede ser, el orden social, más que la exacta correspondencia entre efectos ligados á causas que los han originado.
+
+Order which derives from the natural laws of Society. —Well then: in Society, order is neither more nor less than what it is in Nature; because, Society being no more than an aspect of universal Nature, the social order is no more than a part of the natural order, and the social order can be no more than the exact correspondence between effects bound to the causes that have originated them.
+
+> Asi, tanto mejor comprenderomas el orden, en la Naturaleza y en la Sociedad, cuanto mejor conozcamos las leyes en que se funda ese orden. O, en otros términos, más exactos: cuanto mejor conozcamos que no hay orden si no hay ley de que se derive, tanto mejor comprenderemos que el orden social tiene que resultar de leyes naturales de la Sociedad.
+
+Thus, we shall understand order, in Nature and in Society, all the better the better we know the laws upon which that order is founded. Or, in other and more exact terms: the better we know that there is no order if there is no law from which it derives, the better we shall understand that the social order must result from natural laws of Society.
+
+> CORRESPONDENCIA ENTRE LEYES Y ÓRDENES.—Si ahora aplicamos cada una de las leyes sociales que hemos reconocido, 4 producir un orden social independiente del arbitrio del hombre, y en el cual el hombre no sea más que un instrumento consciente y concienzudo que se aplique también á la producción del orden, tendremos: que la Ley de Sociabilidad tiene una correspondencia invariable con la cterna asociación de los hombres para conseguir los fines de su vida. O, en otros términos, y procediendo á la inversa: si vemos que todos los hombres se han asociado para vivir, y que esa asociación se emplea con invariable regularidad, veremos que este orden invariable corresponde á la Ley natural de Asociación.
+
+Correspondence between laws and orders.—If we now apply each one of the social laws which we have recognized to producing a social order independent of the will of man, and in which man is no more than a conscious and conscientious instrument that applies itself also to the production of order, we shall have: that the Law of Sociability has an invariable correspondence with the eternal association of men for attaining the ends of their life. Or, in other terms, and proceeding inversely: if we see that all men have associated themselves in order to live, and that that association is employed with invariable regularity, we shall see that this invariable order corresponds to the natural Law of Association.
+
+[p. 232]
+
+> La Ley de Trabajo tiene una relación tan manifiesta con lo que llamamos orden económeco, que nos basta ver una sociedad en que se ha establecido esc orden económico, para que afirmemos sin vacilar, y sin errar, que ese orden nace de la. Ley de Trabajo.
+
+The Law of Labour has so manifest a relation with what we call economic order, that it suffices us to see a society in which that economic order has been established for us to affirm without hesitating, and without erring, that that order is born of the Law of Labour.
+
+> 1 queremos producir en una sociedad el orden Juridico, es decir, el orden que resulta de la práctica omnimoda del Derecho, tendremos que aplicar la Ley de Libertad, lo que se conseguirá con sólo dejar en libertad de ejercer sus derechos al Individuo y á los grupos sociales que constituyen una sociedad determinada. Sólo así, podremos obtener como resultado el orden del Derecho. Y viceversa: si encontramos una sociedad en la cual es inalterable el orden juridico, inmediatamente nos aseguraremos de que ese orden corresponde á la actuación ó agencia constante de la Libertad.
+
+If we wish to produce in a society the juridical order, that is to say, the order which results from the all-embracing practice of Law, we shall have to apply the Law of Liberty, which will be attained merely by leaving the Individual and the social groups that constitute a given society at liberty to exercise their rights. Only thus shall we be able to obtain as a result the order of Law. And vice versa: if we find a society in which the juridical order is unalterable, we shall immediately assure ourselves that that order corresponds to the constant action or agency of Liberty.
+
+> Si comparamos entre si dos sociedades que se hayan desarrollado en distinto modo, favorecida, la una, por cuantos medios de desarrollo existen, perturbada, la otra, cn cada momento de su desarrollo, ningún trabajo nos costará inducir que la primera es una sociedad sujeta 4 un orden natural, y que la Otra está cohibida en su orden y Organización natural. Si buscamos la causa del orden, en la primera, y la causa del desorden, en la segunda, de esas sociedades comparadas, veremos que el feliz desarrollo de la primera se debe á la aplicación espontánea y reflexiva de la Ley del Desarrollo biológico, y que el desgraciado estacionamiento de la segunda, se debe á la ignorancia, ó mala aplicación, de la Ley biológica de Desarrollo natural. Es, para entendernos, como si comparamos entre sí dos niños que, pudiendo tener el mismo desarrollo. no lo tienen: no tardaremos en descubrir que el desarrollo ha sido fa.[PDF 241] vorecido, en uno, por ciega, ó previsora, aplicación de la Ley de Desarrollo individual, y que, en el otro, el desarrollo ha sido cohibido por la igrnorancia, ú descuido, de esa ley. Lo mismo sucederá si comparamos entre si familias, municipios Ó cualesquiera otros grupos sociales: siempre, á la aplicación de la Ley de Progreso, corresponderá un orden, y á la no-aplicación de ella, corresponderá un desorden.
+
+If we compare with each other two societies which have developed in different ways, the one favoured by every means of development that exists, and the other disturbed at every moment of its development, it will cost us no labour to induce that the first is a society subject to a natural order, and that the other is constrained in its natural order and organization. If we seek the cause of the order in the first, and the cause of the disorder in the second, of those compared societies, we shall see that the happy development of the first is due to the spontaneous and reflective application of the Law of biological Development, and that the unfortunate stagnation of the second is due to ignorance, or bad application, of the biological Law of natural Development. It is, to make ourselves understood, as if we compared with each other two children who, being able to have the same development, do not have it: we shall not be slow to discover that development has been fa- [PDF 241] — 233 — voured, in the one, by blind, or provident, application of the Law of individual Development, and that, in the other, development has been constrained by ignorance, or neglect, of that law. The same will happen if we compare with one another families, municipalities or any other social groups whatever: always, to the application of the Law of Progress there will correspond an order, and to the non-application of it there will correspond a disorder.
+
+> Lo mismo sucede en las sociedades, cuando se atiende, ó se desatiende, la Ley de Conservación social. La sociedad conservadora de sus medios de existencia física, de sus derechos y libertades, do los grados de desarrollo que haya alcanzado, de los elementos y grupos que constituyen su sociabilidad, será, en todo tiempo, más vigorosa, más fuerte, más sana, más potente, que cualesquiera otras sociedades en las cuales se haya descuidado el cumplimiento de la Ley de Conscrvación social.
+
+The same happens in societies when the Law of social Conservation is heeded, or disregarded. The society that conserves its means of physical existence, its rights and liberties, the degrees of development it may have attained, the elements and groups that constitute its sociability, will be, at all times, more vigorous, stronger, healthier, more potent, than any other societies whatever in which the fulfilment of the Law of social Conservation has been neglected.
+
+> No otra cosa sucede con la Ley de Ideal. En la historia de todas las sociedades, es patente que aquellas que se lan propuesto (aunque lo hayan concebido mal) llevar á cabo un alto propósito civilizador y humanitario, que hayan alimentado, durante siglos enteros, la actividad mental de todos sus componentes, de todos sus grupos, de todas sus instituciones, se elevarán á una altura intelectual y ¿4 una prepotencia moral que las honrará en la Historia, mucho más que lo que pueda honrar a otras su predominio militar, como prevalecimiento de fuerzas fisicas. Así, entre las sociedades más antiguas, no hay ninguna que domine cu la Historia, con el vigor (ue da á China el constante y singular propósito de fundar la gobernación del Estado en el gobierno de los principios morales de la Familia. Asi, ninguna [PDF 242] sociedad antigua de Europa se ha elevado á la cumbre, desde donde todavía resplandece Grecia, cuyo antropomorfismo (*) fué un propósito ideal perseverante, que trató de realizar en el Individuo, en la Familia, en el Estado, en la filosofía, en las letras y en las artes. Asi, en la Euro de la Edad Media, ninguna sociedad ejerció la influencia prevaleciente que á Italia le dió el ideal de unidad política y militar á que de continuo concurrieron la república, el papado, la universidad, la academia, las letras y las artes. Así, en la Europa moderna, ninguna sociedad ha tenido el enérgico ascendiente y la fuerza difusiva que ha demostrado Francia. y que debe al expansivo carácter con que convierte en ideal ropio, nacional, cuantos son fecundos propósitos e la sociedad europea, en un momento dado. Así, para acabar de ofrecer pruebas, en el mundo contemporáneo no hay ninguna sociedad que en universalidad de miras, en fecundidad de recursos, en cantidad de vida y en eficacia de derecho y libertad, pueda compararse ú la sociedad norteamericana (los Estados Unidos), cuyo Ideal, aunque confuso, es el más extenso que hasta ahora se haya propuesto pueblo alguno: el de comunicar la civilización de Occidente á las sociedades hermanas del Oricnte.
+
+Nothing other happens with the Law of the Ideal. In the history of all societies it is patent that those which have proposed to themselves (even though they may have conceived it ill) to carry out a high civilizing and humanitarian purpose, which has nourished, during entire centuries, the mental activity of all their members, of all their groups, of all their institutions, will rise to an intellectual height and a moral pre-eminence which will honour them in History far more than their military predominance, as the prevailing of physical forces, can honour others. Thus, among the most ancient societies, there is none that dominates in History with the vigour which China derives from the constant and singular purpose of founding the government of the State upon the governance of the moral principles of the Family. Thus, no [PDF 242] — 234 — ancient society of Europe has risen to the summit from which Greece still shines resplendent, whose anthropomorphism (*) was a persevering ideal purpose, which it sought to realize in the Individual, in the Family, in the State, in philosophy, in letters and in the arts. Thus, in the Europe of the Middle Ages, no society exercised the prevailing influence which was given to Italy by the ideal of political and military unity to which the republic, the papacy, the university, the academy, letters and the arts continually concurred. Thus, in modern Europe, no society has had the energetic ascendancy and the diffusive force which France has shown, and which it owes to the expansive character with which it converts into its own, national, ideal whatever are the fruitful purposes of European society at a given moment. Thus, to finish offering proofs, in the contemporary world there is no society which in universality of views, in fecundity of resources, in quantity of life and in efficacy of right and liberty, can be compared to North American society (the United States), whose Ideal, though confused, is the most extensive that any people has as yet proposed to itself: that of communicating the civilization of the West to the sister societies of the East.
+
+> Si se consulta la Historia, para ver si esta persecución de un Ideal por una sociedad determinada, ha producido también un orden fijo en esa sociedad, la Historia hará ver que, efectivamente, ha correspondido á la aplicación de la Ley de Idcai, el establecimiento espontáneo de un orden,
+
+If History is consulted, to see whether this pursuit of an Ideal by a given society has also produced a fixed order in that society, History will show that, in effect, there has corresponded to the application of the Law of the Ideal the spontaneous establishment of an order,
+
+> (*) De antropos, hombre, y morphos, forma, agregándole la terminación de secta ó partido (¿3m0), secta ó partido, ó adoradores, ó adoración de la forma humana.
+
+(*) From antropos, man, and morphos, form, adding to it the termination of sect or party (ismo, -ism), sect or party, or worshippers, or worship of the human form.
+
+[PDF 243]
+
+> ue ha durado cuanto ha durado la persistencia e esa sociedad en su Ideal.
+
+— 235 — which has lasted as long as the persistence of that society in its Ideal has lasted.
+
+> Ahora bien: esta correspondencia que acabamos de ver, entre cada una de las leyes naturales de la Sociedad y un orden particular y característico de la Sociedad en donde más peculiarmente se haya aplicado cada una de esas leyes, nos da una idea de un orden no total, sino parcial. Lo que necesitamos probar es que en la naturaleza de la Sociedad, la eficacia de sus leyes no-escritas es tan constante, que siempre resulta de ellas el orden social, y, efectivamente, aun en las sociedades menos consecuentes en la aplicación de estas leyes naturales, se nota que, 4 veces, basta la simple normalidad de una vida nacional un poco larga, para producir un orden general que no se altera sino cuando se altera la noción de la vida misma de la sociedad y los medios de encaminarla. Al contrario de esto, se ve que, en las sociedades recién nacidas ó muy jóvenes, basta la falta de desarrollo, para producir un desorden transitorio, pero á veces funesto, no obstante el empeño que por otra parte se ponga en producir artificialmente el orden social.
+
+Now then: this correspondence which we have just seen, between each one of the natural laws of Society and a particular and characteristic order of the Society in which each of those laws has been most peculiarly applied, gives us an idea of an order not total, but partial. What we need to prove is that in the nature of Society the efficacy of its unwritten laws is so constant that the social order always results from them; and, in effect, even in the societies least consistent in the application of these natural laws, it is noticed that, at times, the simple normality of a somewhat long national life suffices to produce a general order which is not altered except when the notion of the very life of the society and of the means of directing it is altered. Contrary to this, it is seen that, in newly born or very young societies, the lack of development suffices to produce a disorder, transitory, but at times disastrous, notwithstanding the earnestness that may on the other hand be put into producing the social order artificially.
+
+> Por esta simple diferencia se verá que, si cada una de las leyes sociales tiene, como correspondencia inmediata de ella misma, una parte del orden general de la Sociedad, todas ellas se corresponden entre si, en tal modo, que cuando una de ellas no puede aplicarse continua y eficazmente, las otras se paralizan. también, en sus efectos; y, al contrario, cuando una sola de las leyes naturales de la Sociedad puede cumplirse consecuentemente, las otras concurren al orden natural que ellas producen. Eso es lo por lo que las sociedades viejas tienen también un elemento natural de orden en su misma vejez, ó lo que [PDF 244] tanto vale, en las fuerzas acumuladas de su sociabilidad; porque sólo esta ley natural es la que se cumple reflexivamente; y eso también es por lo que las sociedades juveniles encuentran en su juventud algún obstáculo al orden á que aspiran.
+
+By this simple difference it will be seen that, if each one of the social laws has, as the immediate correspondence of itself, a part of the general order of Society, they all correspond with one another, in such manner that, when one of them cannot be applied continually and efficaciously, the others are paralysed, also, in their effects; and, on the contrary, when a single one of the natural laws of Society can be fulfilled consistently, the others concur in the natural order which they produce. That is the reason why old societies also have a natural element of order in their very old age, or what [PDF 244] — 236 — amounts to the same, in the accumulated forces of their sociability; because this natural law alone is the one which is fulfilled reflectively; and that, too, is why young societies find in their youth some obstacle to the order to which they aspire.
+
+> De este examen de correspondencia entre todas las leyes naturales de la Sociedad y el orden social, resulta que este orden está en la naturaleza misma de las sociedades; que les es connatural; que se desarrolla cn razón de la continuidad é influencia con que se aplican las leyes naturales, ó que se puede promover ú favorecer, en un modo fecundo y eficaz, valiéndose de esas mismas leyes naturales y aplicándolas con reflexión, constancia conciencia, á su objeto natural, que es: la proucción del orden social.
+
+From this examination of the correspondence between all the natural laws of Society and the social order, it results that this order is in the very nature of societies; that it is connatural to them; that it develops in proportion to the continuity and influence with which the natural laws are applied, or that it can be promoted or favoured, in a fruitful and efficacious manner, by making use of those same natural laws and applying them with reflection, constancy and conscience to their natural object, which is: the production of the social order.
+
+## SECTION 10
+
+> SECCIÓN J0,*
+
+In what the natural order of Society consists.—We have just seen that there is a natural order of Society; that that order is immanent and pre-established, or established beforehand in natural laws; we have also seen what order that is and how it results from the exact application of the natural laws of Society; but we are going to make it still more perceptible, by trying to ascertain in what it consists.
+
+> EN QUÉ CONSISTE EL ORDEN NATURAL DE LA SOCIE- DAD.—Acabamos de ver que hay un orden natural de la Sociedad; que ese orden es inmanente y preestablecido, ó establecido de antemano en leyes naturales; también hemos visto qué orden es ese y cómo resulta de la puntual aplicación de las leyes naturales de la Sociedad; pero vamos á hacerlo todavía más perceptible, tratando de averiguar cn qué consiste,
+
+Before all, let us not forget that Society is no more than a part or aspect of general Nature; let us not forget it.
+
+> Ante todo, no olvidemos que la Sociedad no es más que una parte ú aspecto de la Naturaleza gencral; no lo olvidemos.
+
+> Por deducción, sabcinos ya que, puesto que hay un orden de la Naturaleza, tiene que haber un orden de la Sociedad, que no es más que una parte ú aspecto de la Naturaleza gencral, Hasta podría afirmarse que el orden de la Sociedad es el mismo de la Naturaleza general, y que, así como [PDF 245] este orden no es más que el resultado de la infalible correlación de causas y efectos, el orden de la Sociedad no es más que el resultado de esa misma correlación. Mas, para ponerlo todo al alcance de esta idea del orden natural de las sociedades, tratemos de saber qué se entiende generalmente por orden social.
+
+By deduction, we already know that, since there is an order of Nature, there must be an order of Society, which is no more than a part or aspect of general Nature. It might even be affirmed that the order of Society is the same as that of general Nature, and that, just as [PDF 245] — 237 — this order is no more than the result of the infallible correlation of causes and effects, the order of Society is no more than the result of that same correlation. But, in order to bring everything within reach of this idea of the natural order of societies, let us try to learn what is generally understood by social order.
+
+> En el lenguaje vulgar, decimos que hay orden en una Sociedad, cuando vemos en ella tan dominante y tan efectiva la serie de leyes á que ella se ha sometido voluntariamente, y todo cuanto en ella sucede parece efecto mecánico y maquinal de la práctica y cumplimiento de sus leyes. Cuando no vemos esta correlación entre la ley y la vida social, decimos que hay desorden. En modo que cn el lenguaje vulgar, lo mismo que en el científico, el orden cs, en definitiva, la armonía entre causas que actúan siempre y efectos que siempre resultan de una causa. Y como la causa actual es una ley, y el efecto resultante es la armonía, para el vulgo y para la Ciencia el orden es el mismo resultado de la aplicación de leyes de la vida al desarrollo de la Sociedad. Mas. como hay una diferencia entre la causa del orden natural y la del orden artificial de las sociedades. porque para producir el primero actúan leyes naturales, y para producir el segundo no actúan más leyes que las dictadas por poderes sociales, es necesario distinguir entre el orden natural y el orden artificial.
+
+In common speech, we say that there is order in a Society when we see in it so dominant and so effective the series of laws to which it has voluntarily submitted itself, that everything which happens in it seems the mechanical and machine-like effect of the practice and fulfilment of its laws. When we do not see this correlation between the law and social life, we say that there is disorder. So that in common speech, the same as in scientific, order is, in the end, the harmony between causes which always act and effects which always result from a cause. And since the acting cause is a law, and the resulting effect is harmony, for the vulgar and for Science order is the same result of the application of laws of life to the development of Society. But, since there is a difference between the cause of the natural order and that of the artificial order of societies, because to produce the first natural laws act, and to produce the second no other laws act than those dictated by social powers, it is necessary to distinguish between the natural order and the artificial order.
+
+> El orden natural de la Sociedad no se puede obtener en ningún modo sino cuando la Sociedad se somete á las seis leyes naturales, en modo que todas y cada una de las leyes positivas y escritas que dicte y obedezca, estén calcadas escrupulosamente en el principio de la ley natural. Esto, es decir que ninguna sociedad conseguirá el verda[PDF 246] dero orden natural, si no ajusta su legislación ú conjunto de leyes á favorecer con la mayor eficacia su Sociabilidad, su Libertad, su Trabajo, su Progreso, la Conservación de sus bienes materiales y morales, y el Ideal que resulte de sus propósitos particulares en la vida general de la Humanidad.
+
+The natural order of Society cannot be obtained in any way except when Society submits itself to the six natural laws, in such manner that each and every one of the positive and written laws which it dictates and obeys be scrupulously modelled upon the principle of the natural law. This is to say that no society will attain the true [PDF 246] — 238 — natural order if it does not adjust its legislation or body of laws to favouring with the greatest efficacy its Sociability, its Liberty, its Labour, its Progress, the Conservation of its material and moral goods, and the Ideal which may result from its particular purposes in the general life of Humanity.
+
+> Decir eso, es decir, también, que en ninguna manera es orden el mero equilibrio á que algunas sociedades han llegado, ó llegan aún, á pesar de violar con su legislación escrita las leyes no-escritas de la Sociedad. En consecuencia, volviendo á la misma idea vulgar de orden y á la científica, podemos decir que el orden social consiste en la correlación de las leyes naturales con las leyes positivas de la Sociedad.
+
+To say that is to say, also, that in no manner is the mere equilibrium order to which some societies have attained, or still attain, in spite of violating with their written legislation the unwritten laws of Society. In consequence, returning to the very same common idea of order and to the scientific one, we may say that the social order consists in the correlation of the natural laws with the positive laws of Society.
+
+> SI DEBE LA SOCIEDAD SOMETERSE AL ORDEN SOCIAL, Claro y evidente es que la Sociedad debe someterse á ese orden natural, puesto que es el único en el cual le sería dado desarrollar todas las fuerzas naturales y cumplir todos los fines efectivos de la vida social. A no dudarlo, ninguna sociedad dejaría de someterse al orden natural, si el conocimiento de la causa de ese orden fuera tan familiar, que todas las Sociedades la conocieran. Mas, como no la conocen, no pueden imponerla ni á sus instituciones, ni á sus leyes, ni á sus partidos y funciones, ni á sus publicistas, ni á sus hombres de Estado. De ali, que hasta las Sociedades organizadas vacilan fácilmente en sus cimientos, cada vez que por la continua infracción de las leyes naturales se presenta una catástrofe imprevista.
+
+Whether Society ought to submit itself to the social order. Clear and evident it is that Society ought to submit itself to that natural order, since it is the only one in which it would be granted to it to develop all its natural forces and to fulfil all the effective ends of social life. Without a doubt, no society would fail to submit itself to the natural order, if the knowledge of the cause of that order were so familiar that all Societies knew it. But, since they do not know it, they cannot impose it either upon their institutions, or upon their laws, or upon their parties and functions, or upon their publicists, or upon their statesmen. Hence it is that even organized Societies easily waver upon their foundations, each time that, through the continual infraction of the natural laws, an unforeseen catastrophe presents itself.
+
+## SECTION 11
+
+> SECCIÓN 11.*
+
+> DivisióN DE La SocroLoGia.—El estudio de la Sociología, abarca, en realidad, una ciencia abs[PDF 247] tracta y una ciencia concreta: la ciencia abstracta, es: la Sociología propiamente dicha; la ciencia concreta, es: la que vulgarmente se llama Politica. Nosotros, llamaremos Sociología teórica, á la primera, y Sociología práctica, á la segunda.
+
+Division of Sociology.—The study of Sociology embraces, in reality, an abs- [PDF 247] — 239 — tract science and a concrete science: the abstract science is: Sociology properly so called; the concrete science is: that which is commonly called Politics. We shall call the first Theoretical Sociology, and the second Practical Sociology.
+
+> SOCIOLOGÍA TEÓRICA.—Ocupémonos en la primera. En resumidas cuentas, la Sociología teórica no es más que: el estudio de las condiciones naturales en que se ha de colocar á una sociedad, para que quede sometida al orden necesario y natural.
+
+Theoretical Sociology.—Let us occupy ourselves with the first. In short, Theoretical Sociology is no more than: the study of the natural conditions in which a society has to be placed in order that it may remain subject to the necessary and natural order.
+
+> SocioLoGia PrRÁcTICA.—La Sociologia práctica, no es más que: el estudio de los medios y modo de poner á la Sociedad en esas condiciones, para. adecuar una vida social cualquiera ú las condiciones del orden natural.
+
+Practical Sociology.—Practical Sociology is no more than: the study of the means and manner of placing Society in those conditions, in order to adapt any social life whatever to the conditions of the natural order.
+
+## SECTION 12
+
+> SECCIÓN 12.*
+
+Notions of Theoretical Sociology.—The notions of Theoretical Sociology confine themselves to setting forth the characters and the nature of Society, and the body of natural conditions which by themselves alone suffice to produce the natural order of Society, if the free activity of the Individual and of the social groups did not continually hinder the fulfilment of the unwritten laws upon which Nature has founded the real order of human association.
+
+> NOCIONES DE SOCIOLOGÍA TEÓRICA.—Las nociones de Sociologia teórica se ciñen á oxponer los caracteres y la naturaleza de la Sociedad, y el conjunto de condiciones naturales que por si solas bastan para producir el orden natural de la Sociedad, si la libre actividad del Individuo y de los grupos sociales no obstara de continuo al cumplimiento de las leyes no-escritas en que la Naturaleza ha fundado el orden real de la asociación humana.
+
+> Las nociones de Sociología teórica, siempre que sean exactas, han de tener una importancia caital en el porvenir de las sociedades; porque han e enseñarlas á conocerse á si mismas, Ú gularse r el conocimiento de su naturaleza, á reconocer la existencia de leyes y orden superiores á las ue arbitrariamente suelen darse é imponerse, y á trabajar concienzudamente por fundar toda su [PDF 248] legislación escrita en las leyes no-escritas de la Sociedad, y todo su orden social, en el orden natural.
+
+The notions of Theoretical Sociology, provided they be exact, must have a capital importance in the future of societies; because they must teach them to know themselves, to guide themselves by the knowledge of their nature, to recognize the existence of laws and order superior to those which they are wont arbitrarily to give and impose upon themselves, and to labour conscientiously to found all their [PDF 248] — 240 — written legislation upon the unwritten laws of Society, and all their social order upon the natural order.
+
+> EL sÉr sociaL.—La Sociedad es un sér. Vale tanto como decir: la Sociedad es un organismo viviente.
+
+The social being.—Society is a being. That is as much as to say: Society is a living organism.
+
+> A pesar de lo evidente que es este principio de Sociología, tal vez no haya ninguno que parezca más obscuro.
+
+Evident as this principle of Sociology is, there is perhaps none that seems more obscure.
+
+> Es porque estamos acostumbrados á considerar la Sociedad como un conjunto desarticulado de individuos, de quienes la Sociedad no es más que un medio de acción. Pero si nos ponemos á considerar la unidad de procedimientos y de vida, que resultan de la asociación de los indrviduos, ya cn la sociedad universal que llamamos Humanidad, ya en las asociaciones comprendidas en un límite geográfico, veremos que la Sociedad, además de ser un medio indispensable para que el individuo viva, es también una vida que se caracteriza con todos los caracteres de la vida, como son: la organización, los órganos, las operaciones y las funciones.
+
+It is because we are accustomed to consider Society as a disjointed aggregate of individuals, for whom Society is no more than a means of action. But if we set ourselves to consider the unity of procedures and of life which result from the association of individuals, whether in the universal society which we call Humanity, or in the associations comprised within a geographical boundary, we shall see that Society, besides being an indispensable means in order that the individual may live, is also a life which is characterized by all the characters of life, such as: organization, organs, operations and functions.
+
+> La diferencia que hay entre el individuo humano y la Sociedad, está en que la Sociedad es una vida colectiva, al paso que cada hombre es una vida individual. Pero, si sumamos todas las vidas individuales y vemos que dan un estado homogéneo, y que todas ellas contribuyen á formar órganos colectivos y 4 hacer operaciones y funciones que nada tienen que ver con las operaciones y funciones del organismo individual, y que son indispensables, entonces comprenderemos que la vida colectiva de la Sociedad es tan real y efectiva como la. vida individual de cada hombre. Por tanto, podemos afirmar que la Soyledad es una vida, y que esa vida resulta de la [PDF 249] — YUl — agregación de las vidas individuales; ó en otros términos: la Sociedad es un conjunto que da por resultado una vida colectiva.
+
+The difference there is between the human individual and Society lies in this: that Society is a collective life, whereas each man is an individual life. But, if we add together all the individual lives and see that they give a homogeneous state, and that all of them contribute to forming collective organs and to performing operations and functions which have nothing to do with the operations and functions of the individual organism, and which are indispensable, then we shall understand that the collective life of Society is as real and effective as the individual life of each man. Therefore, we may affirm that Society is a life, and that that life results from the [PDF 249] — 241 — aggregation of individual lives; or in other terms: Society is an aggregate which gives as its result a collective life.
+
+> ORGANOS QUE CONSTITUYEN EL SER SOCIAL.—Los órganos que componen el organismo social, son: primero, el Individuo; segundo, la Familia; tercero, el Municipio; cuarto, la Provincia, Comarca 6 Región; quinto, la Sociedad nacional, y, sexto, la Humanidad.
+
+Organs which constitute the social being.—The organs which compose the social organism are: first, the Individual; second, the Family; third, the Municipality; fourth, the Province, District or Region; fifth, national Society, and, sixth, Humanity.
+
+> En más ¡mMPORTANTE.—El más importante de todos los órganos del organismo social, es el Individuo. El Individuo es la base absoluta de la Sociedad. Sin Individuo no hay Sociedad, porque sin él no hay especie humana. Es verdad que, para que el Individuo sea el conservador de la especie humana, se necosita que haya una asociación ó sociedad de dos individuos, que se unan para ese fin; poro no es menor verdad que entre el Individuo necesario para la Sociedad y para la conservación de la especie, y la Sociedad necesaria para que el Individuo realice su vida individual y la de su especie, hay la diferencia que separa un principio de un medio: principio, el Individuo; medio, la asociación.
+
+The most important.—The most important of all the organs of the social organism is the Individual. The Individual is the absolute basis of Society. Without the Individual there is no Society, because without him there is no human species. It is true that, in order that the Individual may be the conserver of the human species, there must be an association or society of two individuals, who unite for that end; but it is no less true that between the Individual necessary for Society and for the conservation of the species, and the Society necessary in order that the Individual may realize his individual life and that of his species, there is the difference that separates a principle from a means: the principle, the Individual; the means, association.
+
+> En modo, que, sicndo ignalmente importantes el principio y el medio, y no habiendo Sociedad sin individuos, ni individuos sin Sociedad, ninguno de los grupos intermediarios (Familia, Municipio, etc.) existirian. sino existiera el Individuo; por tanto, el órgano más importante de todos los del organismo social, es el Individuo.
+
+So that, the principle and the means being equally important, and there being no Society without individuals, nor individuals without Society, none of the intermediate groups (Family, Municipality, etc.) would exist if the Individual did not exist; therefore, the most important organ of all those of the social organism is the Individual.
+
+## SECTION 13
+
+> SECCIÓN 13.*
+
+> PAPEL QUE HACE EL ÍNDIVIDUO, COMO INTEGRAN- TE DE LA SocieDAD.—El Individuo, como elemento, que es, de todo grupo social, en toda so[PDF 250] ciedad desempeña un papel tan importante como el que el elemento desempeña en toda organiza ción. Asi como en la de los minerales, el elemen-— to, asi actúa el Individuo en la organización de la Sociedad; 4 manera de causa determinante, como en la de los seres el átomo invisible, en el cual se generan todas las divisiones y todos los. compuestos. Por consiguiente, es imposible prescindir del Individuo, en cualquiera asociación, Ó arreglo, de la Sociedad; como seria imposible prescindir del átomo, en cualquicra combinación química, ó de la célula, en una organización biológica. Siendo cl Individuo á la Sociedad como ex el átomo á un cuerpo, el mismo papel de fundador, de necesario iniciador de órganos y vida, que tiene el átomo, en la materia inerte, ó en la materia viva, desempeña el Individuo en la asociación humana.
+
+Part which the Individual plays as an integrant of Society.—The Individual, being, as he is, the element of every social group, in every so- [PDF 250] — 242 — ciety plays a part as important as that which the element plays in every organization. As in that of minerals the element acts, so the Individual acts in the organization of Society; after the manner of a determining cause, as, in that of beings, the invisible atom, in which all divisions and all compounds are generated. Consequently, it is impossible to dispense with the Individual in any association, or arrangement, of Society whatever; as it would be impossible to dispense with the atom in any chemical combination, or with the cell in a biological organization. The Individual being to Society as the atom is to a body, the same part of founder, of necessary initiator of organs and life, which the atom has in inert matter, or in living matter, the Individual plays in human association.
+
+> PARTE QUE EN EL FIN GENERAL DE LA SOCIEDAD: TIENE EL FIN PARTICULAR DE TODO INDIVIDUO.—Mas., como cl individuo humano no €s un átomo inconsciente, sino que está expresamente caracterizado r la Naturaleza como 61 único sér de racionaliad consciente, cn este mundo, la parte que el Individuo toma en la realización de los fines sovlales, es tanto más activa y eficaz que la tomada por el ¿tomo en relaciones mferiores, cuanto más clara es la conciencia de sus propios fines individuales. lin otros términos mas obvios: el Individuo toma una parte muy influyente en la realización de los fines sociales, porque, contribuyendo: á realizar esos fines generales ú sociales, cs Como puede realizar, y como sabe que es el único modo de realizar, eus fines propios y particulares ó individuales. En modo, que, viviendo él con la mayor intensidad de vida que puede alcanzar, con-tribuye á la mayor intensidad de vida social.
+
+Part which the particular end of every individual has in the general end of Society.—But, since the human individual is not an unconscious atom, but is expressly characterized by Nature as the only being of conscious rationality in this world, the part which the Individual takes in the realization of social ends is so much the more active and efficacious than that taken by the atom in lower relations, as the consciousness of his own individual ends is the clearer. In other and more obvious terms: the Individual takes a very influential part in the realization of social ends, because it is by contributing to realize those general or social ends that he can realize, and knows that it is the only way of realizing, his own and particular or individual ends. So that, by living with the greatest intensity of life he can attain, he contributes to the greatest intensity of social life.
+
+[p. 243]
+
+> TEORÍA INDIVIDUALISTA. —Por no haberse penetrado bastante bien del fondo de la realidad social, se da al Individuo una importancia más ó menos excesiva, y, otras veces, se le niega la suficiente. Todos aquellos que dan al Individuo una importancia superior á la natural, 4 la importancia efectiva que la Naturaleza le ha dado, para hacerlo gencrador de sociedades, han formado la teoría individualista, que aparece en todas las ciencias sociales, ya en la Economía, ya en la Política, ya en la Jurisprudencia, ya en la Moral, induciendo á creer que el Individuo es todo en la Sociedad, y que la Sociedad no es nada; que la Sociedad es para el Individno, y no el Individuo para la Sociedad; que la Sociedad debe proveer de todo bicn al Individuo, y que el Individuo no debe nada ¿ la Sociedad.
+
+Individualist theory.—Through not having penetrated well enough into the depth of social reality, the Individual is given an importance more or less excessive, and, at other times, is denied a sufficient one. All those who give the Individual an importance superior to the natural one, to the effective importance which Nature has given him, so as to make him the generator of societies, have formed the individualist theory, which appears in all the social sciences, whether in Economics, or in Politics, or in Jurisprudence, or in Morals, inducing the belief that the Individual is everything in Society, and that Society is nothing; that Society is for the Individual, and not the Individual for Society; that Society ought to provide every good for the Individual, and that the Individual owes nothing to Society.
+
+> TEORÍA SOCIALISTA.—La teoria individualista, no es considerada históricamente más que como una reacción contra la teoria socialista, ó, más bien, contra la práctica de la teoria socialista, que se ha estado haciendo por todas las sociedades políticas, desde que el mundo es mundo, con la sola excepción de los Estados Unidos, y de alguna que otra república antigua ó moderna. La teoría socielista, como diametralmente opuesta á la individualista, sostiene y afirma lo contrario que ésta. Para ella, la Sociedad es todo, y el Individuo es nada; la Sociedad es el derecho, y el Individuo, el deber; la Sociedad es la fuerza, y el Individuo, el instrumento. ,
+
+Socialist theory.—The individualist theory is not considered historically as more than a reaction against the socialist theory, or, rather, against the practice of the socialist theory, which has been carried on by all political societies since the world has been the world, with the sole exception of the United States, and of one or another ancient or modern republic. The socialist theory, as diametrically opposed to the individualist, maintains and affirms the contrary of the latter. For it, Society is everything, and the Individual is nothing; Society is the right, and the Individual the duty; Society is the force, and the Individual the instrument.
+
+> Troría soctocráTtICA.—Al lado de estas teorias exclusivistas se presenta la más juiciosa, la de Augusto Comte, cuya teoría sociocrática consiste en reconocer á la Sociedad por la doble influencia del Individuo sobre la Sociedad. y de la Sociedad sobre el Individuo, pero concediendo a la Sociedad [PDF 252] facultades absorbentes que no se le deben conceder, y negando al Individuo lo que por su misma naturaleza tiene y no puede perder ni se debe consentir que pierda.
+
+Sociocratic theory.—Beside these exclusivist theories there presents itself the most judicious, that of Auguste Comte, whose sociocratic theory consists in recognizing Society by the double influence of the Individual upon Society, and of Society upon the Individual, but conceding to Society [PDF 252] — 244 — absorbing faculties which ought not to be conceded to it, and denying to the Individual what by his very nature he has and cannot lose, nor ought he to be allowed to lose.
+
+> TEORÍA ORGANICA.—Hay otra teoria que nosotros proponemos, y es la orgánica. Consiste en afirmar que la Sociedad es una ley á que el hombre nace sometido por la Naturaleza, á cuyos preceptos está obligado á vivir sometido; en tal modo, que, mejorando á cada paso su existencia, contribuye ú desarrollar y mejorar la de la Sociedad. En esta teoría, el Individuo no pasa por más de lo que es, ni la Sociedad por más de lo que debe ser; en modo que, relacionados uno y otra con el mismo fin, que es el mejoramiento de la especie humana, cada uno de ellos contribuye más v mejor á ese fin, cuanto más y mejor cumple los suyos propios.
+
+Organic theory.—There is another theory which we propose, and it is the organic. It consists in affirming that Society is a law to which man is born subject by Nature, to whose precepts he is obliged to live subject: in such manner that, by bettering his existence at each step, he contributes to developing and bettering that of Society. In this theory, the Individual does not pass for more than he is, nor Society for more than it ought to be; so that, the one and the other being related to the same end, which is the betterment of the human species, each of them contributes the more and the better to that end, the more and the better it fulfils its own.
+
+> QUÉ HAY QUE PENSAR DE TALES TEORÍAS.—De estas teorías hay que pensar que las dos primeras son muy exclusivistas. para que sean exactas, y que la tercera ostá fundada en un prejuicio, ó julcio a priori, 0 juicio anterior á la teoría, en vez de resultar el juicio de dicha teoría.
+
+What is to be thought of such theories.—Of these theories it is to be thought that the first two are too exclusivist to be exact, and that the third is founded upon a prejudice, or a priori judgment, or judgment prior to the theory, instead of the judgment resulting from the said theory.
+
+> No se puede, sin embargo, negar que la teoría sociocrática es muy superior á la socialista y á la individualista, porque trata de armonizar la parte de verdad que tienen ambas.
+
+It cannot, however, be denied that the sociocratic theory is much superior to the socialist and to the individualist, because it seeks to harmonize the part of truth which both possess.
+
+> No se nicga, tampoco, que esa teoría comtista haya sido precedente, ó necesaria, 6 conveniente, á la teoría orgánica.
+
+Nor is it denied that that Comtist theory may have been a precedent, either necessary or convenient, to the organic theory.
+
+> Esta última—dicho sea con todas las reservas— parece ser probablemente la más exacta de esas teorías. Con efecto, incluye las demás; lo cual quiere decir que incluye la parte de verdad que todas tienen; hnve de todo exclusivismo, y Cs superior, por esto, á4 las dos primeras. y rcune [PDF 253] todo a posteriori, y por csto cs superior á la tercera.
+
+This last—be it said with all reserve—seems probably to be the most exact of those theories. In effect, it includes the others; which means that it includes the part of truth that all of them have; it shuns all exclusivism, and is superior, on that account, to the first two; and it brings together [PDF 253] — 245 — everything a posteriori, and on that account is superior to the third.
+
+> Este, sobre todo, es su mérito: está fundada en una observación exacta de la naturaleza de la Sociedad, y en un análisis positivo del fin de cada uno de los integrantes de ella misma.
+
+This, above all, is its merit: it is founded upon an exact observation of the nature of Society, and upon a positive analysis of the end of each one of the integrants of Society itself.
+
+## SECTION 14
+
+> SECCIÓN 14.2
+
+Notions of Practical Sociology.—The order which derives from the natural laws of Society is: first, natural; second, universal. Natural, because it has its foundations in the very nature of Society, and can in no way be established outside its natural foundations. Universal, because it embraces all societies, and all the states of societies.
+
+> NOCIONES DE Socior.oGía PRÁCTICA.—El orden que se deriva de las leyes naturales de la Sociedad, es: primero, natural; segundo, universal. Natural, porque tiene sus fundamentos cn la naturaleza misma de la Sociedad, y en ningún modo puede establecerse fuera de sus fundamentos naturales. Universal, porque abarca todas las sociedades, y todos los estados de las sociedades.
+
+So that it can be affirmed, on the ground of the pre-existence of the laws of Society, that there is a necessary order, and that that order is immanent, stable and pre-established. Immanent, because it is born of the very conditions of Society; stable, because, not being subject to the variations of time, place and circumstances, it is the same in all times, places and circumstances, even to the point of manifesting itself such as it is, even in the most far-reaching disorders of societies; and pre-established, because, corresponding to the general order of Nature, it had to exist before Society had to submit itself to it.
+
+> En modo que se puede afirmar, fundándose en la preexistencia de las leyes de la Sociedad, que hay un orden necesario, y que ese orden es inmanente, estable y preestablecido. Inmanente, porque nace de las condiciones mismas de la Sociedad, estable, porque no estando sujeto á las variaciones de tiempo, lugar y circunstancias, es el mismo, en todos los tiempos, lugares y circunstancias, hasta el punto de manifestarse tal sual es, aun en los desórdenes más transcendentales de las sociedades; y preestablecido, porque, correspondiendo al orden genoral de la Naturaleza, tuvo que existir antes de que la Sociedad tuviera que someterse á él.
+
+> Ahora bien: dado ese orden, ¿debo la Sociedad someterse á él? En tal modo debe someterse, que todos los esfuerzos instintivos de la Sociedad tienden á establecerse en un orden invariable; pero como la influencia perturbadora de los erroros, pasiones y extravios 0 desviaciones del orden [PDF 254] natural impide encontrar las bases de la estabilidad social, todo lo que se hace en ese sentido, está sujeto á los trastornos que se notan en la vida ó historia de los hombres.
+
+Now then: that order being given, ought Society to submit itself to it? It ought to submit in such manner that all the instinctive efforts of Society tend to establish themselves in an invariable order; but, since the disturbing influence of the errors, passions and aberrations or deviations from the [PDF 254] — 246 — natural order prevents the bases of social stability from being found, all that is done in that direction is subject to the upheavals which are noticed in the life or history of men.
+
+> La Sociologia—cuyo objeto es el conocimiento de ese orden necesario, ó fatal, de la Sociedad, tiene dos caminos para llegar á él: uno, el razonamiento é indagación abstracta de la naturaleza, leyes, condiciones, vida y procedimientos de la Sociedad; el otro, la aplicación de esa indagación al modo ó al estado efectivo de las sociedades.
+
+Sociology—whose object is the knowledge of that necessary, or fatal, order of Society—has two roads for arriving at it: one, abstract reasoning and inquiry into the nature, laws, conditions, life and procedures of Society; the other, the application of that inquiry to the actual mode or state of societies.
+
+> La Sociología que sigue el primer camino, se llama teórica, y es la ciencia abstracta. La que sigue el otro camino, se llama práctica, y es la ciencia concreta, ó aplicada.
+
+The Sociology which follows the first road is called theoretical, and is the abstract science. That which follows the other road is called practical, and is the concrete, or applied, science.
+
+## SECTION 15
+
+> SECCIÓN 15.*
+
+Application of Sociology to “Politics”. Although Sociology always draws its inspiration from History, as much to discover the nature of Society as to link together the data which it receives from it, it may nevertheless be said that Practical Sociology is the one which truly takes from History the facts and the reason of the facts, which it afterwards relates to determinate manifestations of social reality, thus giving them a practical and positive end, as well as a scientific one.
+
+> APLICACIÓN DE LA SOCIOLOGÍA Á La « POLÍTICA ». Aunque la Sociología se inspira siempre en la Historia, tanto para descubrir la naturaleza de Ja Sociedad, cuanto para enlazar los datos que de ella recibe, se puede, sin embargo, decir que la Sociologia práctica es la que verdaderamente toma de la Historia los hechos y la razón de los hechos, que después relaciona 4 manifestaciones determinadas de la realidad social dándoles asi un fin práctico y positivo, á la par que científico.
+
+Thus, verbi gratia: considering as the simple expression of the life of societies the efforts which all of them have made and make to constitute themselves, Sociology takes from History the general facts which refer to this, induces from them some principles and truths, establishes these as the basis of reasonings and of systems, and afterwards supplies them to Politics.
+
+> Asi, verbi gratia: considerando como simple expresión de la vida de las sociedades los esfuerzos ue por constituirse han hecho y hacen todas ellas, la Sociologia toma de la Ristoria los hechos generales que ú ésta se refieren, induce por ellos algunos principios y verdades, las establece como base de razonamientos y de sistemas, y después se los suministra á la Política.
+
+[p. 247]
+
+> Cuánto ganaría la Ciencia de la Politica, saliendo del empirismo y del sumo tanteo á que generalmente la han condenado, para entrar en esta, nueva senda, no hay más que decirlo.
+
+How much the Science of Politics would gain by emerging from the empiricism and the utter groping to which it has generally been condemned, in order to enter upon this new path, one need only say.
+
+> APLICACIÓN DE LA SOCIOLOGÍA AL ÁRTE.—El Arto, en cualquiera de sus expresiones, es una manifestación de la actividad aíectiva de la especie humana, que tiene en la Historia tantas páginas cuantas son las florescencias sociales, en determinadas épocas del desarrollo de una sociedad particular.
+
+Application of Sociology to Art.—Art, in any of its expressions, is a manifestation of the affective activity of the human species, which has in History as many pages as there are social flowerings in determinate epochs of the development of a particular society.
+
+> Mientras el Arte no se entienda como una denotación de aptitudes individuales, queda sin explicación, no hay posibilidad de explicar, por qué la Sociedad humana, que en otro tiempo careció de artistas, empieza á tenerlos, hasta el anto de invadir todas las regiones del Arte; ni ay, tampoco, posibilidad de explicar por qué una sociedad en donde se despierta desde temprano el sentimiento artístico, em muchos individuos, Carece, no obstante, de artistas, hasta un momento crítico de su desarrollo.
+
+So long as Art is not understood as a denotation of individual aptitudes, it remains without explanation; there is no possibility of explaining why human Society, which at another time lacked artists, begins to have them, even to the point of invading all the regions of Art; nor is there, either, any possibility of explaining why a society in which the artistic sentiment awakens early, in many individuals, lacks artists nevertheless, until a critical moment of its development.
+
+> El estudio del Arte, desde este punto de vista, no puede hacerse sino al ocuparse en la Sociología práctica.
+
+The study of Art, from this point of view, cannot be made except in occupying oneself with Practical Sociology.
+
+> APLICACIÓN DE LA SOCIOLOGÍA Á La CIENCIA.—La Ciencia ha existido, desde cl momento en que el primer encargado de llevar la cuenta de algo, aprendió á contar; ó desde el momento en que el primer pastor del gran valle de la China, ó de las altiplanicies del Tibet, ó de los llanos de Caldea, aprendió por si mismo á interpretar el orden inconmovible de los astros.
+
+Application of Sociology to Science.—Science has existed from the moment in which the first person charged with keeping the count of anything learned to count; or from the moment in which the first shepherd of the great valley of China, or of the high plateaus of Tibet, or of the plains of Chaldea, learned by himself to interpret the immovable order of the stars.
+
+> Y, sin embargo, mi la Ciencia ha empezado á ser completamente ciencia, hasta el momento en que la Sociología, siguiendo en su marcha á la Historia, ha definido sus limites, señalando su obje[PDF 256] tivo, y ofrecido su avuda, para aprovechar el conjunto de esfuerzos heclos por el hombre de todos los tiempos, con el mismo propósito de verdad y la misma csperanza de bien y perfección.
+
+And, nevertheless, Science did not begin to be completely science until the moment in which Sociology, following History in its march, defined its limits, pointing out its ob- [PDF 256] — 248 — ject, and offered its aid for turning to account the sum of efforts made by man of all times, with the same purpose of truth and the same hope of good and perfection.
+
+> APLICACIÓN DE LA SOCIOLOGÍA Á LA RELIGIÓN.— En cuanto á la Religión, ni siquiera fué un conocimiento, hasta cuando la Sociología se encargó: de explicarla: privilegio, para unos; imposición,
+
+Application of Sociology to Religion.—As for Religion, it was not even a knowledge until Sociology took upon itself the task of explaining it: a privilege, for some; an imposition, for others, it was an embryo of truth under a thousand erroneous forms, ever the causes of social disorders; but as soon as Sociology sounded the human conscience in History, and saw in it the same perpetual vocation, the same longing, the very hunger, to explain to itself the mystery of the causes of this world, Sociology saw in this perpetuation of the same activity an end of individual life and of collective life; it studied the manner of realizing this end, in the diverse epochs and countries in which it has presented itself as the supreme activity of life; it related the purpose of the great founders of religions to the absurdity of all the cults; it established a few simple truths; it saw them confirmed in the history of all the positive religions; it entrusted to Philosophy, one of its sciences, the task of relating the history of Religion to the evolution of the human word, and it left established the Science of religions, which is no more than an effort of Practical Sociology, which, making use of the history of myths and of words, has ended by giving a scientific motive to what would otherwise lack one completely.
+
+> Jara otros, fué un embrión de verdad bajo mil formas crróneas, siempre causantes de desórdenes sociales; pero tan pronto como la Sociología sondeó en la Historia la conciencia humana, y vió en ella la misma perpetua vocación, el mismo anhelo, el hambre misma, de explicarse el misterio de las causas de este mundo, la Sociologia vió en esta perpetuación de la misma actividad, un fin de la. vida individual y de la vida colectiva; estudió el modo de realizar este fin, en las diversas épocas y paises en que él se ha prosentado como la actividad suprema de la vida; relacionó el propósito de los grandes religionarios con el despropósito de todos los cultos; estableció unas cuantas verdades sencillas; las vió comprobadas en la historia de todas las religiones positivas; encomendó á la Filosofía, una de sus ciencias, que relacionara la historia de la Religión con la evolución de la palabra humana, y dejó establecida la Ciencia de las religiones, lo cual no es más que un esfuerzo de la Sociología práctica, que, utilizando la historia de los mitos y de las palabras, ha concluido por dar un motivo científico 4 lo que carecería, por cormpleto, de él.
+
+> APLICACIÓN DB LA SocioroGía Á La EcoNoMÍA.— Por lo que hace ¡4 la Economía, basta hacer un estudio de los fenómenos económicos como hechos aislados, y considerar ese estudio como expresión de la actividad del sér humano, por explicarse el [PDF 257] por qué de las acciones y el por qué del Trabajo, para expresar la influencia de la Sociologia practica en los hechos económicos.
+
+Application of Sociology to Economics.—As regards Economics, it suffices to make a study of economic phenomena as isolated facts, and to consider that study as an expression of the activity of the human being in explaining to itself the [PDF 257] — 249 — wherefore of actions and the wherefore of Labour, in order to express the influence of Practical Sociology upon economic facts.
+
+> Efectivamente, en el primer caso, la actividad económica nos parece tan confusa y tan incxplicable, quo apenas podemos comprenderla.
+
+In effect, in the first case, economic activity seems to us so confused and so inexplicable that we can scarcely understand it.
+
+> En el segundo caso, tan pronto como referimos los hechos que no entendemos á la Sociedad de que son manifestación, inmediatamente nos parecen claros, congruentes y lógicos.
+
+In the second case, as soon as we refer the facts which we do not understand to the Society of which they are a manifestation, they immediately seem to us clear, congruous and logical.
+
+> Lo que se dice de las ciencias y actividades enumeradas, se dice, también, de cualesquiera otras; porque á todas puede referirse la Sociología, práctica, y á todas ilumina con viva luz.
+
+What is said of the sciences and activities enumerated is said, also, of any others whatever; because Practical Sociology can be referred to all of them, and it illuminates all of them with a vivid light.
+
+## THE END
+
+[p. 251]
+
+*The contents (pp. 251–258) are given at the beginning of this edition.*
+
+[PDF 267]
+
+> 1. Lecciones de Derecho Constitucional, gr. 8.”, 261 páginas: Santo Domingo, 1887; premiadas en la Exposición Centro-Americana de 1897, recomendadas en el Congreso Jurídico Internacional de Lisboa en 1888, de texto en varias Repúblicas Americanas, reputadas en Europa y en América como «una de las obras más científicas y filosóficas» que se han escrito sobre la materia; agotadas.
+
+1. Lecciones de Derecho Constitucional, large 8vo, 261 pages: Santo Domingo, 1887; awarded a prize at the Central American Exposition of 1897, recommended at the International Juridical Congress of Lisbon in 1888, adopted as a textbook in several American Republics, reputed in Europe and in America as “one of the most scientific and philosophical works” that have been written on the subject; out of print.
+
+> 2. La Peregrinación de Bayoan, 8.%, 472 páginas: Madrid, 1863; Santiago de Chile, 1872; novela politica; agotada,
+
+2. La Peregrinación de Bayoan, 8vo, 472 pages: Madrid, 1863; Santiago de Chile, 1872; political novel; out of print.
+
+> 3. Biografía crítica de Plácido: Santiago de Chile, 1872; agotada.
+
+3. Biografía crítica de Plácido: Santiago de Chile, 1872; out of print.
+
+> 4. Reseña histórica de Puerto Rico: Santiago de Chilo, 1872; agotada.
+
+4. Reseña histórica de Puerto Rico: Santiago de Chile, 1872; out of print.
+
+> 5. La enseñanza científica de la mujer: Santiago de Chile, 1872; agotada.
+
+5. La enseñanza científica de la mujer: Santiago de Chile, 1872; out of print.
+
+> 6. Chile en su Exposición de Septiembre: Santiago de Chile, 1873; agotada, gr. 8.?, 100 páginas; Memoria premiada por el Gran Jurado de la Exposición; edición oficial.
+
+6. Chile en su Exposición de Septiembre: Santiago de Chile, 1873; out of print, large 8vo, 100 pages; Memoir awarded a prize by the Grand Jury of the Exposition; official edition.
+
+> 7. Juicio crítico de Hamlet: Santiago de Chile, 1873; obra reputada en América y en Europa: «uno de los mejores trabajos que se han escrito en el mundo sobre Shakespeare»; agotada.
+
+7. Juicio crítico de Hamlet: Santiago de Chile, 1873; a work esteemed in America and in Europe: “one of the best studies that have been written in the world on Shakespeare”; out of print.
+
+> 8. Tres Presidentes ytres Repúblicas: New-York, 1874; agotada.
+
+8. Tres Presidentes y tres Repúblicas: New York, 1874; out of print.
+
+> 9. Retrato de Francisco V. Aguilera: Caracas, 1876;
+
+9. Retrato de Francisco V. Aguilera: Caracas, 1876; out of print.
+
+> agotada. 10. Los frutos de la Normal (Exposición de Pedago[PDF 268] gía práctica, escrita por encargo del Gobierno): Santo Domingo, 1881; edición oficial; agotada.
+
+10. Los frutos de la Normal (Exposition of Practical Pedago- [PDF 268] — 260 — gy, written by commission of the Government): Santo Domingo, 1881; official edition; out of print.
+
+> 11. La reforma de la enseñanza del Derecho: Santiago de Chile, 1889; en colaboración con D. V. Setelier y D. J. Bañados Espinosa, eminentes Catedráticos y Tratadistas de Derecho; agotada.
+
+11. La reforma de la enseñanza del Derecho: Santiago de Chile, 1889; in collaboration with D. V. Letelier and D. J. Bañados Espinosa, eminent Professors and Writers on Law; out of print.
+
+> 12. Descentralización administrativa: Santiago de Chile, 1890; premiada en el «Certamen Varela»; agotada.
+
+12. Descentralización administrativa: Santiago de Chile, 1890; awarded a prize in the “Certamen Varela”; out of print.
+
+> 13. Programas de Castellano: Santiago de Chile, 1893; premiados en Concurso universitario por el Consejo Superior de Instrucción Pública; agotada.
+
+13. Programas de Castellano: Santiago de Chile, 1893; awarded a prize in a University Competition by the Superior Council of Public Instruction; out of print.
+
+> 14. Programas de Historia y Geografía: Santiago de Chile, 18393; premiados en Concurso universitario por el Consejo Superior de Instrucción Pública; edición oficial; agotada.
+
+14. Programas de Historia y Geografía: Santiago de Chile, 1893; awarded a prize in a University Competition by the Superior Council of Public Instruction; official edition; out of print.
+
+> 15. Gengrafía Evolutiva (1.* y 2.* partes): Santiago de Chile, 1895; obra comprada por el Gobierno de Chile; agotada.
+
+15. Geografía Evolutiva (1st and 2nd parts): Santiago de Chile, 1895; work purchased by the Government of Chile; out of print.
+
+> 16. Cartas públicas acerca de Cuba: Santiago de Chile (50) y Santo Domingo (25), 1897; agotada.
+
+16. Cartas públicas acerca de Cuba: Santiago de Chile (50) and Santo Domingo (25), 1897; out of print.
+
+> 17. Proyecto de Ley General de Enseñanza Pública, 8.”, 100 páginas: Santo Domingo, 1901; agotada.
+
+17. Proyecto de Ley General de Enseñanza Pública, 8vo, 100 pages: Santo Domingo, 1901; out of print.
+
+> 18. Aforal Social, 8.*, 224 páginas: Santo Domingo, 1888; obra que goza de gran reputación en España y en América; agotada.
+
+18. Moral Social, 8vo, 224 pages: Santo Domingo, 1888; a work which enjoys a great reputation in Spain and in America; out of print.
+
+> Inéditas.
+
+Unpublished.
+
+> 19. Manejo de globos y mapas (Preliminares del estudio metódico de la Tierra).
+
+19. Manejo de globos y mapas (Preliminaries to the methodical study of the Earth).
+
+> 20. Lecciones de Derecho Penal.
+
+20. Lecciones de Derecho Penal.
+
+> 21. Comentarios de Derecho Constitucional.
+
+21. Comentarios de Derecho Constitucional.
+
+> 22. Tratado de Moral (Prolegómenos, Moral Natural, Individual y Social). Publicada esta última parte.
+
+22. Tratado de Moral (Prolegomena, Natural, Individual and Social Morals). This last part published.
+
+> 23. Prolegómenos de Sociología.
+
+23. Prolegómenos de Sociología.
+
+> 24. Ejemplos de Moral (Moral objetiva ó ilustrada).
+
+24. Ejemplos de Moral (Objective or illustrated Morals).
+
+> 25. Crítica Literaria.
+
+25. Crítica Literaria.
+
+> 26. Comedias,
+
+26. Comedias.
+
+> 27. Tratado de Lógica.
+
+27. Tratado de Lógica.
+
+> 23. Ciencia de la Pedagogia.
+
+28. Ciencia de la Pedagogía.
+
+[p. 261]
+
+> 29. Historia de la Pedagogía.
+
+29. Historia de la Pedagogía.
+
+> 380. Geografía Universal, política é histórica.
+
+30. Geografía Universal, political and historical.
+
+> 31. Lecciones de Astronomía.
+
+31. Lecciones de Astronomía.
+
+> 32. Nueve años en Quisqueya (recopilación de estudios).
+
+32. Nueve años en Quisqueya (a collection of studies).
+
+> Er La Crisis constitucional de Chile (en preparación).
+
+33. La Crisis constitucional de Chile (in preparation).
+
+> 34. Colón (colección de estudios para conmemorar el IV Centenario de América).
+
+34. Colón (a collection of studies to commemorate the Fourth Centenary of America).
+
+> 35. Lecciones de Geografía física.
+
+35. Lecciones de Geografía física.
+
+> 36. Prolegómenos de Ciencia de la Historia.
+
+36. Prolegómenos de Ciencia de la Historia.
+
+> 37. Gramática General.
+
+37. Gramática General.
+
+> 38. Prolegómenos de Psicología.
+
+38. Prolegómenos de Psicología.
+
+> 39. Historia de la Civilización Antigua.
+
+39. Historia de la Civilización Antigua.
+
+> 40. Geografía Evolutiva (3.* y 4.* partes).
+
+40. Geografía Evolutiva (3rd and 4th parts).
+
+> 41. Historia de la Lengua Castellana.
+
+41. Historia de la Lengua Castellana.
+
+> 42. LEiteralura.
+
+42. Literatura.
+
+> 43. Gramática castellana.
+
+43. Gramática castellana.
+
+> 44. Lecciones de Historia de la Literatura.
+
+44. Lecciones de Historia de la Literatura.
+
+> 45. Discursos (colección de discursos políticos, académicos y patrióticos).
+
+45. Discursos (a collection of political, academic and patriotic speeches).
+
+> 46. Memorias del Rector del Liceo «M. L. Amunátegui».
+
+46. Memorias del Rector del Liceo “M. L. Amunátegui.”
+
+> 47. El Plebiscito (estudio de Derecho Politico é Internacional).
+
+47. El Plebiscito (a study in Political and International Law).
+
+> 48. Conferencias sobre Derecho Público Americano.
+
+48. Conferencias sobre Derecho Público Americano.
+
+> 49. El Hindergarien (metodología de la escuela froebeliana; en preparación).
+
+49. El Kindergarten (methodology of the Froebelian school; in preparation).
+
+> 50. Tratado de Sociología (estudio sistemático de la ciencia).
+
+50. Tratado de Sociología (a systematic study of the science).
+
+> 51. Polémicas pedagógicas.
+
+51. Polémicas pedagógicas.
+
+> 52. Nociones de Derecho Constitucional.
+
+52. Nociones de Derecho Constitucional.
+
+> 53. Programas para las Escuelas Normales.
+
+53. Programas para las Escuelas Normales.
+
+> 54. Artículos (colección de estudios políticos, literarios, cientificos y filosóficos), muchos tomos.
+
+54. Artículos (a collection of political, literary, scientific and philosophical studies), many volumes.
+
+> 55. Diarios (colección de Memorias), varios tomog.
+
+55. Diarios (a collection of Memoirs), several volumes.
+
+> 56. Cuadros de Historia de la Edad Media.
+
+56. Cuadros de Historia de la Edad Media.
+
+[PDF 271]
+
+## NEWSPAPERS
+
+> «Hostos deja escritos y publicados una porción de libros de gran substancia é interés para el sociólogo, el moralista y el jurisconsulto. Sus Lecciones de Derecho Constitucional, su Moral Social, su Juicio crítico de Hamlet, su Reseña histórica de Puerto Rico, su Reforma de la enseñanza del Derecho, su Descentralización administrativa, su Proyecto de Ley general de Enseñanza pública, su Enseñanza cientifica de la mujer, sus Cartas públicas acerca de Cuba, le acreditan de un gran pensador, de un gran filósofo y de un gran pedagogo. »
+
+“Hostos leaves written and published a number of books of great substance and interest for the sociologist, the moralist and the jurisconsult. His Lecciones de Derecho Constitucional, his Moral Social, his Juicio crítico de Hamlet, his Reseña histórica de Puerto Rico, his Reforma de la enseñanza del Derecho, his Descentralización administrativa, his Proyecto de Ley general de Enseñanza pública, his Enseñanza científica de la mujer, his Cartas públicas acerca de Cuba, accredit him as a great thinker, a great philosopher and a great pedagogue.”
+
+> Heraldo, Madrid.
+
+Heraldo, Madrid.
+
+> «El Derecho Constitucional es una obra muy afamada, que fué recomendada en el Congreso Jurídico Internacional de Lisboa y premiada en la Exposición de Centro América.»
+
+“The Derecho Constitucional is a very celebrated work, which was recommended at the International Juridical Congress of Lisbon and awarded a prize at the Exposition of Central America.”
+
+> La Presse Associée, París.
+
+La Presse Associée, Paris.
+
+> «Cuando son tan escasas las traducciones de las obras maestras de la literatura extranjera, y mucho más escasos los buenos estudios críticos sobre sus autores, adquiere un doble valor el Hamlet, ensayo crítico, precioso trabajo literario. No creemos exista en español un estudio tan completo sobre el genio de Ahakespeare, ni sobre su inmortal Hamiet.»
+
+“When translations of the masterpieces of foreign literature are so scarce, and good critical studies of their authors much scarcer still, the Hamlet, a critical essay, a precious literary work, acquires a double value. We do not believe there exists in Spanish so complete a study of the genius of Shakespeare, or of his immortal Hamlet.”
+
+> La América Ilusirada, New-York.
+
+La América Ilustrada, New York.
+
+[p. 264]
+
+> «El mérito de la Biografia de Plácido (G. de la. Concepción Valdés, el célebre pocta cubano), es indiscutible. »
+
+“The merit of the Biografía de Plácido (G. de la Concepción Valdés, the celebrated Cuban poet) is indisputable.”
+
+> La República, Santiago de Chile.
+
+La República, Santiago de Chile.
+
+> «Las Lecciones de Derecho Constitucional, reunidas y ordenadas con admirable método cn un cuerpo de doctrina, de gran maguitud, constituyen un libro de los buenos y ese han publicado sobre Ciencia Constitucional, y acaso el mejor uc ha producido hasta hoy la Ciencia del Derecho en hispano-américa.
+
+“The Lecciones de Derecho Constitucional, brought together and arranged with admirable method into a body of doctrine of great magnitude, constitute one of the good books that have been published on Constitutional Science, and perhaps the best that the Science of Law has produced to this day in Spanish America.
+
+> El Sr. Hostos no es un mero expositor de este importante ramo de la ciencia social. Además de las ideas generales y las reglas precstablecidas, que el autor eligo y aplica con exquisito discernimiento, contiene este libro teoría y doctrinas originales de mucha importancia, tales como las referentes al ejercicio y distribución de la soberanía, á los funcionarios del poder, á la organización del sufragio y otros muchos puntos principales; ideas que ponen de manifiesto la competencia del autor y el amplio y lucido criterio con que plantea y resuelve estas importantísimas cuestiones. El magnifico estudio referente á la. autonomia (self-government) es de lo más cientifico, juicioso y racional que se ha escrito sobre el mismo punto. »
+
+“Señor Hostos is not a mere expositor of this important branch of social science. Besides the general ideas and the pre-established rules, which the author chooses and applies with exquisite discernment, this book contains original theory and doctrines of much importance, such as those relating to the exercise and distribution of sovereignty, to the functionaries of power, to the organization of the suffrage, and many other principal points; ideas which make manifest the competence of the author and the broad and lucid judgment with which he poses and resolves these most important questions. The magnificent study relating to autonomy (self-government) is among the most scientific, judicious and rational things that have been written on the same point.”
+
+> El Buscapit, San Juan, Puerto Rico.
+
+El Buscapié, San Juan, Puerto Rico.
+
+> «Moral Social vienc á llenar un vacio, á hacer vbra de bien y áenaltecer la República, como obra de fondo, forma literaria y útil. »
+
+“Moral Social comes to fill a void, to do a good work and to exalt the Republic, as a work of substance, of literary form, and useful.”
+
+> El Eco de la Opinión, Santo Domingo.
+
+El Eco de la Opinión, Santo Domingo.
+
+[p. 265]
+
+> «Las Lecciones de Derecho Constitucional comprueban que el autor es un especialista aventa— Jado, y escritor digno de que sus lecciones sean recibidas por la juventud hispanoamericana con el aplauso y el reconocimiento que merecen los esfuerzos de la inteligencia embellecida por el saber y ennoblecida por los propósitos del bien.»
+
+“The Lecciones de Derecho Constitucional prove that the author is an outstanding specialist, and a writer worthy that his lessons should be received by the youth of Spanish America with the applause and the recognition which are deserved by the efforts of an intelligence embellished by knowledge and ennobled by purposes of good.”
+
+> Boletín de la Librería, Curacao, W. 3.
+
+Boletín de la Librería, Curaçao, W. I.
+
+> «El Juicio crítico de Hamlet fué comentado con elogios por los órganos más autorizados de la Prensa. »
+
+“The Juicio crítico de Hamlet was commented upon with praise by the most authoritative organs of the Press.”
+
+> La Epoca, Santiago, Chile.
+
+La Época, Santiago, Chile.
+
+> «Las Lecciones de Derecho Constitucional son un importantisimo y notable libro. Es una brillante muestra de vastos conocimientos y madura refiexión. Su autor no es un mero expositor, un divulgador de la ciencia constituida: es un pensador.»,—A .
+
+“The Lecciones de Derecho Constitucional are a most important and notable book. It is a brilliant specimen of vast knowledge and mature reflection. Its author is not a mere expositor, a populariser of constituted science: he is a thinker.”—A.
+
+> El Progreso, Madrid.
+
+El Progreso, Madrid.
+
+> «Nos ha agradado sobremanera la obra La Enseñanza cientifica de la mujer, porque, además de ser recomendable la dicción, encierra caudal va- "liosísimo de erudición. »
+
+“We have been exceedingly pleased with the work La Enseñanza científica de la mujer, because, besides the diction being commendable, it contains a most valuable store of erudition.”
+
+> La América Ilustrada, New-York.
+
+La América Ilustrada, New York.
+
+> «Las Lecciones de Derecho Constitucional y la Moral Social son dos libros notabilísimos que han sido encomiados por distinguidos escritores de América y Europa. »
+
+“The Lecciones de Derecho Constitucional and the Moral Social are two most notable books which have been praised by distinguished writers of America and Europe.”
+
+> La Epoca, Santiago, Chile,
+
+La Época, Santiago, Chile.
+
+[p. 266]
+
+> «El luminoso Proyecto de Ley general de Ensefianza pública es la obra que más pone de relieve el patriotismo z los conocimientos profundos que en materia de Enseñanza poseía el ilustre educacionista. »
+
+“The luminous Proyecto de Ley general de Enseñanza pública is the work which most brings into relief the patriotism and the profound knowledge in matters of Instruction which the illustrious educationist possessed.”
+
+> El Civismo, Santiago, R. D.
+
+El Civismo, Santiago, D. R.
+
+> «Las Lecciones de Derecho Constitucional encierran todo lo que en la ciencia politica se ha enseñado hasta la fecha para el bicn y adelanto de las sociedades, y más do lo que hasta aqui se ha enseñado en el camino de la libertad.»
+
+“The Lecciones de Derecho Constitucional contain all that has been taught in political science up to the present for the good and advancement of societies, and more than has hitherto been taught on the road of liberty.”
+
+> El Eco de la Opinión, Santo Domingo.
+
+El Eco de la Opinión, Santo Domingo.
+
+> «La Geografía Evolutiva es una obra original por su doctrina y por su método, que representa ol progreso más considerable que en la enseñanza agógica de la geografía se haya hecho en las etras hispano-latinas, pues no tenemos noticias de ningún texto de geografía general que se amolde tanto á las condiciones de la moderna pedagogía. »
+
+“The Geografía Evolutiva is a work original in its doctrine and in its method, which represents the most considerable progress that has been made in the pedagogical teaching of geography in Hispano-Latin letters, for we have no knowledge of any text of general geography which conforms so closely to the conditions of modern pedagogy.”
+
+> Revista de Instrucción Primaria, Chile,
+
+Revista de Instrucción Primaria, Chile.
+
+> «La Moral Social es un libro que hace honor á la América por el profundo saber que encierra, y forma un glorioso pedestal junto con las demás obras que la literatura debe 4 su ilustre autor. »
+
+“The Moral Social is a book which does honour to America by the profound learning it contains, and forms a glorious pedestal together with the other works which literature owes to its illustrious author.”
+
+> Revista Militar de Chile, Santiago.
+
+Revista Militar de Chile, Santiago.
+
+> «Las notabilisimas Carias públicas acerca de Cuba debian estar impresas en letras de oro. »
+
+“The most notable Cartas públicas acerca de Cuba ought to be printed in letters of gold.”
+
+El Porvenir, New York.
+
+[PDF 275]
+
+> G. de Azcárate, Diputado á Cortes, Catedrático de Derecho en la Universidad Central de Madrid, autor de muchos libros de Derecho,
+
+G. de Azcárate,
+
+> «Sin lisonja ni alabanza de cumplido, el Derecho Constitucional me parece un libro muy importante, muy bien pensado y profundo. He encontrado en él cosas y puntos de vista nuevos, uno de ellos el de la Antecámara, que merece mucha meditación.»
+
+Deputy to the Cortes, Professor of Law in the Central University of
+
+> «He leído con detención la Moral Social. Los primeros capitulos y los últimos me han gustado extraordinariamente; y la obra toda tiene un olor Y, un sabor tan puros y tan delicados, que se goza eyéndola.»
+
+Madrid, author of many books on Law.
+
+> F. Giner de los Ríos, Tratadista de Derecho, Profesor de Filosofia del Derecho en la Universidad Central de Madrid,
+
+“Without flattery or the praise of mere compliment, the Derecho Constitucional seems to me a very important book, very well thought out and profound. I have found in it new things and points of view, one of them that of the Antechamber, which deserves much meditation.”
+
+> «El Derecho Constitucional es un libro interesantísimo. La impresión que ha causado aquí (España), ha sido excelente. Añado mi parabién al que todo el mundo le envía» (al autor).
+
+“I have read the Moral Social with care. The first chapters and the last have pleased me extraordinarily; and the whole work has a fragrance and a savour so pure and so delicate that one enjoys reading it.”
+
+> Adolfo Posada, Catedrático de Derecho Político en la Universidad de Oviedo, autor de obras de Derecho,
+
+F. Giner de los Ríos,
+
+Writer on Law, Professor of the Philosophy of Law in the Central
+
+University of Madrid.
+
+“The Derecho Constitucional is a most interesting book. The impression it has made here (Spain) has been excellent. I add my congratulations to those which everyone sends him” (the author).
+
+Adolfo Posada, Professor of Political Law in the University of Oviedo, author of works on Law.
+
+> «De las Lecciones de Derecho Constitucional puede afirmarse que hay pocos libros escritos en Europa, en estos tiempos, en que se exponga de una manera más ordenada y sistemática del Go[PDF 276] bierno constitucional representativo. Es, como libro didáctico, de calidad superior, infinitamente superior á muchisimos que andan en manos de nuestros estudiantes de Universidad.»
+
+“Of the Lecciones de Derecho Constitucional it may be affirmed that there are few books written in Europe, in these times, in which representative constitutional Gov- [PDF 276] — 268 — ernment is expounded in a more orderly and systematic manner. As a didactic book it is of superior quality, infinitely superior to a great many that are in the hands of our University students.”
+
+> M. Ruiz Zorrilla, sefe del Partido Republicano español.
+
+M. Ruiz Zorrilla,
+
+> «Me complazco en la lectura de las Lecciones de Derecho Constitucional y me felicito por ello.»
+
+Leader of the Spanish Republican Party.
+
+> General B. Mitre, Literato é historiador argentino. Considera que el Juicio crítico de Hamlet es lo mejor que se ha escrito en castellano sobre Shalespeare, y lo estima superior al estudio de Gaethe.
+
+“I take pleasure in reading the Lecciones de Derecho Constitucional and I congratulate myself upon it.”
+
+> Valentín Letelier,
+
+General B. Mitre,
+
+> Profesor de Derecio Administrativo, Miembro Académico de la Universidad de Chile y del Consejo Superior de Instrucción.
+
+Argentine man of letters and historian.
+
+> «Helcido el extenso Programa de Geografia, y no puedo menos de tributar á su autor mis aplausos por la ejecución de una obra que á la vez lo es de un pensador y de un pedagogo.
+
+He considers that the Juicio crítico de Hamlet is the best that has been written in Castilian on Shakespeare, and he esteems it superior to the study of Goethe.
+
+> »Alabo principalmente en ella el espiritu sistemitico, las líneas generales, la armonía, la simetría y el perfecto desarrollo de las tres partes fundamentales de que consta.»
+
+Valentín Letelier, Professor of Administrative Law, Academic Member of the University of
+
+> Dr. F. A. Berra,
+
+Chile and of the Superior Council of Instruction.
+
+> Director Generul de Escuelas en La Plata y en Montevideo, autor de muchas obras didácticas,
+
+“I have read the extensive Programa de Geografía, and I cannot but pay to its author my applause for the execution of a work which is at once that of a thinker and of a pedagogue.
+
+“I praise in it chiefly the systematic spirit, the general lines, the harmony, the symmetry and the perfect development of the three fundamental parts of which it consists.”
+
+Dr. F. A. Berra, Director General of Schools in La Plata and in Montevideo, author of many didactic works.
+
+> «El Programa de Historia está concebido con un eriterio que no es el más general, pero si digno de elogio, en cuanto al contenido, como que se ocupa más del desenvolvimiento de las instituciones, conocimientos y costumbres de los pueblos, que de las intrigas de palacio, de las rivalidades di[PDF 277] násticas y de los episodios de cuantas guerras han tenido los hombres. Este programa da altura al pensamiento: educa bien, por tanto.»
+
+“The Programa de Historia is conceived with a criterion which is not the most general, but which is worthy of praise as to its content, inasmuch as it is concerned more with the development of the institutions, knowledge and customs of peoples than with palace intrigues, dy- [PDF 277] — 269 — nastic rivalries and the episodes of all the wars men have had. This programme gives elevation to thought: it therefore educates well.”
+
+> «Se ve 4 primera vista que en el Programa de Castellano se ha trabajado con particular esmero. El autor lo ha desenvuelto prolijamente, como quien se complace en exhibir todas las particularidades de un objeto á que tiene cariño. Más aún: temeroso de que vaya á manos torpes que lo estropeen al manejarlo, se detiene á cada paso á receptuar cómo se debe proceder. En este traba- Jo hay mucho programa y mucha didáctica, que aprisiona al maestro, más que la gencralidad de profesores lo consiente. Pienso que hay en él demasiado celo. A ello se debe que el autor haya señalado demasiado tiempo ¿ preliminares que no requieren en los liceos tanto detenimiento como en las escuelas primarias ó en las preparatorias, y que se haya ocupado de cuestiones, ilustrativas, si, pero no quizás necesarias en un curso de esta clase. Esto no impide que el concepto del plan general y de algunas de sus partes aventaje en mucho los usos didácticos generalizados en aises cuyas escuelas gozan de buen nombre. iste Programa merece que se le conozca, porque enseña aun á los que saben.»
+
+“It is seen at first sight that particular care has been bestowed upon the Programa de Castellano. The author has developed it minutely, like one who takes pleasure in displaying all the particulars of an object of which he is fond. More still: fearful lest it fall into clumsy hands which might spoil it in handling, he stops at every step to prescribe how one ought to proceed. In this work there is much programme and much didactics, which imprisons the teacher more than the generality of teachers will consent to. I think there is too much zeal in it. To this it is due that the author has assigned too much time to preliminaries which do not require in the lyceums so much dwelling upon as in the primary or the preparatory schools, and that he has occupied himself with questions which are illustrative, it is true, but perhaps not necessary in a course of this kind. This does not prevent the conception of the general plan, and of some of its parts, from greatly surpassing the didactic usages generally prevailing in countries whose schools enjoy a good name. This Programa deserves to be known, because it teaches even those who know.”
+
+> José L. Castillo, ex-Director del Instítuto de Quezaltenango, C. A. ¿Las levantadas ideas pedagógicas que contiene el Proyecto de Ley general de Enseñanza pública, no son conocidas cn la América Central.»
+
+José L. Castillo, ex-Director of the Institute of Quezaltenango, C. A.
+
+“The lofty pedagogical ideas which the Proyecto de Ley general de Enseñanza pública contains are not known in Central America.”
+
+José Maluquer y Salvador, of the Academy of Jurisprudence of Madrid:
+
+> José Maluquer y Salvador, de la Academia de Jurisprudencia de Medrid: «Las Lecciones de Derecho Constitucional pueden someterse sin recelo al fallo del critico más des[PDF 278] apasionado y exigente, ó de aquel que, como el modesto que en esta Revista le ha caido en suer— te, no participe de muchas de sus teorías filosóficas el jurídicas.
+
+“The Lecciones de Derecho Constitucional may be submitted without misgiving to the judgment of the most dis- [PDF 278] — 270 — passionate and exacting critic, or of one who, like the modest critic to whose lot it has fallen in this Review, does not share many of its philosophical and juridical theories.
+
+> »Es una obra de importancia absoluta, que tiene además la relativa que supone un trabajo escrito cn medio de múltiples y variadas tareas profe— sionales y en un centro cientifico que, si mereció ser llamado Atenas del Nuevo Mundo, ha tenido que dedicarse durante largo tiempo, con preferencia, á la pacificación del pais.»
+
+“It is a work of absolute importance, which has besides the relative importance implied by a work written in the midst of multiple and varied professional tasks, and in a scientific centre which, if it deserved to be called the Athens of the New World, has had for a long time to devote itself, by preference, to the pacification of the country.”
+
+> Prof. J. Zacarías Salinas, Rector del Liceo de San José de Costa Rica, ex-Profesor del Instituto Internacional de Santiago de Chile,
+
+Prof. J. Zacarías Salinas,
+
+> «La idea, el método, el plan y disposición de las materias, el fondo instructivo y educador de la Geografía Evolutiva, todo es allí nuevo, atrayente y originalísimo, no sabiendo qué admirar más en su autor, si al pedagogo de la mejor escuela, ó al filósofo de sana y original doctrina.
+
+Rector of the Lyceum of San José de Costa Rica, ex-Professor of the
+
+> »Digo esto con tanta mayor satisfacción, cuanto en la época de vaguedades, de debilitamiento in— telectual y moral, de parcialidades estrechas en que vivimos, y, sobre todo, en medio del moder— nismo pedagógico exagerado que nos domina y lleva á la imitación servil y á la superficialidad. una obra como la Geografía Evolutiva es una esperanza, más que una esperanza, un consuelo para quien de veras anhcle el progreso y mejo— ramiento de la enseñanza de la juventud chilena. sobre bases nacionales y con tendencias también nacionales, á la vez que un verdadero aconteci— miento en el mundo de la pedagogía, y no en el estrecho y mezquino de este pais, sino en el dilatado y grato de la pedagogía universal.
+
+International Institute of Santiago de Chile.
+
+> »La Geografía Evolutiva tiene, además del indis-
+
+“The idea, the method, the plan and arrangement of the matters, the instructive and educative substance of the Geografía Evolutiva,—all is new there, attractive and most original, so that one does not know what to admire more in its author, the pedagogue of the best school or the philosopher of sound and original doctrine.
+
+“I say this with all the greater satisfaction inasmuch as, in the epoch of vagueness, of intellectual and moral enfeeblement, of narrow partisanships in which we live, and above all in the midst of the exaggerated pedagogical modernism which dominates us and leads us to servile imitation and to superficiality, a work like the Geografía Evolutiva is a hope, more than a hope, a consolation for whoever truly longs for the progress and improvement of the teaching of the Chilean youth upon national bases and with tendencies likewise national, as well as a veritable event in the world of pedagogy,—and not in the narrow and paltry world of this country, but in the broad and pleasant one of universal pedagogy.
+
+“The Geografía Evolutiva has, besides its indis-
+
+[PDF 279]
+
+> cutible mérito cientifico, pedagógico-didáctico, el mucho mayor de ser el producto intrínseco del pensamiento propio, que crea, inventa y construye con fuerzas también propias, y no podrá, por consiguiente, confundirse jamás con el fruto velado de la asimilación de concepciones ajenas.
+
+— 271 — putable scientific and pedagogical-didactic merit, the much greater one of being the intrinsic product of original thought, which creates, invents and constructs with forces likewise its own, and it can never, consequently, be confounded with the veiled fruit of the assimilation of other men’s conceptions.
+
+> »Con su precioso libro agrega el autor un esclarecido servicio más á los muchos que lleva prestados á la causa de la educación en mi patria (Chile), y enriquece, notablemente, la literatura pedagógica, relativamente pobre, de la lengua castellana. »
+
+“With his precious book the author adds one more illustrious service to the many he has rendered to the cause of education in my country (Chile), and he notably enriches the relatively poor pedagogical literature of the Castilian tongue.”
+
+> Julio Bañados Espinosa, ex- Ministro de Instrucción Pública, Senador, Diputado, Profesor de Derecho Constitucional en la Universidad de Chile, Tratadista de Derecho, «Las Lecciones de Derecho Constitucional son un trabajo de lo más completo y filosófico que se haya hecho sobre la materia.»
+
+Julio Bañados Espinosa, ex-Minister of Public Instruction, Senator, Deputy, Professor of
+
+> Dr. A. Angulo Guridi, ex-Ministro de Instrucción Pública, Diputado, Rector de Liceo, Profesor de Derecho, Tratadista de Derecho y de Pedagogía,
+
+Constitutional Law in the University of Chile, Writer on Law.
+
+> «Si el autor hubiese presentado en Chile un proyecto como el de Ley general de Enseñanza pública, en un certamen, habría merecido un remio, y el aplauso unisono de la prensa perió- 1CA.>
+
+“The Lecciones de Derecho Constitucional are among the most complete and philosophical work that has been done on the subject.”
+
+> «Las excelentes Lecciones de Derecho Constitucional son el mejor tratado de la materia que conozco en español, inglés é Italiano.»
+
+Dr. A. Angulo Guridi, ex-Minister of Public Instruction, Deputy, Rector of a Lyceum,
+
+> General A. Ros de Ojano, Literato y Escritor español.
+
+Professor of Law, Writer on Law and on Pedagogy.
+
+> «La Peregrinación de Bayoán ha sido para mi como algo que cae del cielo.»
+
+“If the author had presented in Chile, in a competition, a project such as that of the Ley general de Enseñanza pública, it would have deserved a prize and the unanimous applause of the periodical press.”
+
+“The excellent Lecciones de Derecho Constitucional are the best treatise on the subject that I know in Spanish, English or Italian.”
+
+General A. Ros de Olano,
+
+Spanish man of letters and writer.
+
+“La Peregrinación de Bayoán has been to me like something fallen from heaven.”
+
+[p. 272]
+
+> Guillermo Matta, ex-Mínistro diplomático, Senador, Miembro Académico de la Universidad de Chile. «La lectura de la Moral Social enseña y fortalece. »
+
+Guillermo Matta, ex-Diplomatic Minister, Senator, Academic Member of the University of
+
+> J. J. Tavares de Medeiros, Abogado, Tratadista de Derecho
+
+Chile.
+
+> Presidente del Congreso Jurídico Internacional de Lisboa. «Los excelentes libros Lecciones de Derecho Constitucional y Moral Social, óptimos cursos de Derecho público y de Sociología moral, son dos magníficos trabajos por los cuales felicito al autor, porque me regocija ver desarrollar la cultura de a Ciencia del Derecho de una manera tan elevada y distinguida. »
+
+“The reading of the Moral Social teaches and strengthens.”
+
+> Pedro Antonio de Alarcon, Novelista español.
+
+J. J. Tavares de Medeiros,
+
+> «Hay en La Peregrinación de Bayoán páginas que yo nunca olvidaré. »
+
+Advocate, Writer on Law, President of the International Juridical
+
+> Alejandro Carrasco Albano, Abogado, Literato y Tratadista chileno.
+
+Congress of Lisbon.
+
+> «No sé cómo expresar el placer con que he recibido las Lecciones de Derecho Constitucional. La causa Cs la de tener á mi alcance, á todas horas, á ese altisimo representante de la inteligencia del Sr. Hostos, que será por mucho tiempo alimento para mi espiritu y para mi corazón. Reconozco en ellas la pluma del crítico del Zemlet, que es la averiguación más asombrosa y la interpretación más fiel que jamás se haya hecho de los problemas y elucubraciones de esc intensísimo drama.»
+
+“The excellent books Lecciones de Derecho Constitucional and Moral Social, admirable courses of public Law and of moral Sociology, are two magnificent works upon which I congratulate the author, because it rejoices me to see the culture of the Science of Law developed in so elevated and distinguished a manner.”
+
+Pedro Antonio de Alarcón,
+
+Spanish novelist.
+
+“There are pages in La Peregrinación de Bayoán which I shall never forget.”
+
+Alejandro Carrasco Albano,
+
+Chilean advocate, man of letters and writer on Law.
+
+“I do not know how to express the pleasure with which I have received the Lecciones de Derecho Constitucional. The cause of it is to have within my reach, at all hours, that most lofty representative of the intelligence of Señor Hostos, which will for a long time be nourishment for my spirit and for my heart. I recognize in them the pen of the critic of Hamlet, which is the most astonishing inquiry and the most faithful interpretation that has ever been made of the problems and lucubrations of that most intense drama.”
+
+[PDF 281]
+
+> LIBRO 1
+
+BOOK I P. 50. No. 17. Read: “..... and in negative relation to the lesser degree of perfecting.” P. 51. No. 18. Read: “..... and in inverse ratio to the collective incapacity to know religious or moral ends.”
+
+> Pag. 50. Núm. 17. Debe leerse: «..... y en relación neyatina del menor yrado de perfeecionamiento.»
+
+BOOK II P. 77. No. 18. Statement of the Law of Progress.—It is as follows: “Progress is in positive relation to Education, and in negative relation to the lesser degree of perfecting.” P. 78. No. 19. Statement of the Law of the Ideal.—It reads thus: “The Ideal of the Good is in direct ratio to the development of Morals, and in inverse ratio to the individual and collective incapacity to know religious or moral ends.”
+
+## BOOK III
+
+> Pág. 5L. Núm. 18. Dehe legrse: «..... y en rasón énversa de la incapacidad colectioa para conocer los fines relígiosos ó morales. »
+
+Instead of Section, from the 1st to the 15th, as the book has it, the heading of each one of them should be Lesson.
+
+> LIBRO IJ
+
+> Pág. 77. Núm. 18. ENUNCIADO DE LA LEY DE PROGRHEso.—Es como sigue: «El Progreso estí en relación positiva de la Educación, y en relación negativa del menor grado de perfeccionamiento. »
+
+> Pág. 78, Núm. 19. ENUNCIADO DE LA LEY DE TDEALr.— Es así: «El Ideal de Bien está en razón directa del desarrollo de ta Moral, y en razón inversa de la ineapacidad individual y eolectina para conocer los fines religiosos 6 morales.»
+
+> LIBRO II
+
+> En vez de Sección, de la. 1.* á la 15,*, que dice el libra, dehe ser Lección el epigrafe de esta una de aquéllas,

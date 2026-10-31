@@ -1,0 +1,179 @@
+---
+title: Rede am Grabe des Herrn Professor Dr. Gans, den 8. Mai 1839
+author: Philipp Marheineke
+year: 1839
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: the 1839 edition; converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: the PDF text layer of a scan, corrected by Haiku from the text alone, without the scan (2026-10-27); word error rate 5.5% against a Sonnet reading of 5 sampled scan pages; non-word rate 0.4% (wordfreq, the edition's own spellings kept); paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority
+translation: none
+canonical: "[p. N] marks where printed page N begins (the 1839 edition); read from the PDF folios where legible, the others by sequence"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: The Rede am Grabe des Herrn Professor Dr was written by an author who died in 1846, so before 1931; Philipp Marheineke (d. 1846) is long out of protection and the edition (1839, from the title page of the scan) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 479)
+---
+
+# P. Marheineke, *Rede am Grabe des Herrn Professor Dr* (1839)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+Rede am Grabe des Herrn Prof. Dr. Gans. Von
+
+Dr. Marheineke.
+
+e
+
+*Rede* am Grabe des
+
+Herrn Professor Dr. Gans, den 8. Mai 1839. Von
+
+Dr.
+
+Marheineke,
+
+Königl. Ober - Consistorialrath und Senior der theolog. Facultät.
+
+Der Ertrag ist dem allgemeinen Krankenverein der Studirenden an der Universität bestimmt.
+
+Berlin. *Veit und*
+
+1839.
+
+*Comp.*
+
+In dem Herrn geliebte Freunde!
+
+A. diesen Schmerz am Grabe unseres theuren Amtsgenossen und Freundes den würdigen, genügenden Ausdruck zu finden, wer unter uns könnte sich das wohl zutrauen?
+
+noch zu frisch ist die Wunde, noch zu wenig sind wir vertraut mit diesem Schmerz, um uns darüber verständigen zu können.
+
+Müssen wir daher die Tiefe dieser Trauer zu erschöpfen dem einsamen, schweigsamen
+
+Gefühl überlassen, können wir sie nicht mit Worten erreichen, so möge um so mehr unsere Empfindung, so weit sie der Rede mächtig werden kann, aus den weiten Umkreis, den dieser Schmerz berührt, auf die vielseitige Theilnahme, die dieser Todesfall findet, auf die theuren Erinnerungen, womit die Klage um diesen frühen Tod verbunden ist, gerichtet seyn.
+
+Noch ist es nicht ein Jahr, daß er selbst, der nun uns schon Entrissene, seinen so früh entschlafenen nächsten Amtsgenoffen hieher zum Grabe geleitete.
+
+Würdig und edel reiht er selbst, ein neues Todesopfer, sich den vielen und großen Verlusten an, welche die hiesige Hochschule in der kurzen Zeit ihres Bestehens bereits erlitten hat und nicht mit schwächstem
+
+Licht, als der ihrige, leuchtet sein Ruhm weit hinaus-.
+
+Es gehört zu den noch nicht genug erkannten Verdiensten des großen Staatsmannes, dem durch die Gnade des Königs die
+
+Sorge für anvertraut ist, das wissenschaftliche Lebens deS daß er ihn zu einer Zeit, wo
+
+Staats es leicht war, ihn zu verkennen, mit sicherem Scharfblick erkannte und ihm den Posten anwies, voll ausgefüllt hat.
+
+Groß dm er seitdem so ehren und ausgedehnt war sein
+
+Wirkungskreis an unserer Lehranstalt, voll Geist und Leben seine Vortragsweise, glänzend und gedankenvoll seine Beredsamkeit, tief sein Eindruck auf die Gemüther und seine vielseitige, unermüdliche Thätigkeit auch von Seiten einer ungewöhnlich zahlreichen Zuhörerschaft durch die innigste Anerkennung und Anhänglichkeit belohnt.
+
+Diese
+
+Jünglinge, deren so viele allein um seinetwillen uns zugeströmt waren, die so begierig ihn hörten, so sicher zu schätzen wußten, was sie an ihm besäßen, sie wissen es nun auch gewiß zu ermessen, was sie an ihm verloren haben.
+
+Doch nicht als das Lehramt allein beschränkte sich seine Thätigkeit, sondern auch einem noch viel größeren Kreise hat er durch seine ^zahlreichen, als geistreichen Schriften genutzt; nicht eng und begränzt war auch da das Feld, auf welchem er seine Kräfte Zertheilt und Anerkanntes geleistet hat; für das Trockene der ernsteren Wissenschaft und den darauf verwandten Fleiß belohnte er sich selbst durch den lebhaften Umgang mit der heitern Kunst und war auch nach dieser Seite hin eines gründlichen, gebildeten Urtheils [p. 8] mächtig, wie er überhaupt, was er unternahm, mit Geist und Kraft erfaßte, rasch und glücklich in allen Dingen den Kern ergriff und ihn leicht und kühn in das Licht seines Geistes erhob.
+
+In der Schule eines Mannes gebildet, dessen
+
+Name, trotz aller Verunglimpfungen, in der Geschichte der Wissenschaft unerlöschlich strahlt, hatte er gelernt, das Vereinzelte über seine Dürftigkeit hinaus einen geistigen
+
+Zusammenhang zu erheben, das Erfahrungsmäßige auf den Gedanken zurückzuführen und das Vernünftige überhaupt als das allein wahrhaft Wirkliche zu betrachten, und in dem er auch dem erscheinend Wirklichen Gerechtigkeit widerfahren ließ, war sein Unterschied von denen, die auf das Letztere allein und ausschließlich alles Gewicht legen, nur der, daß er nicht einseitig war.
+
+Für ihn war der Geist nicht erst, wenn er abwesend und. abgestorben war; er vermochte Geistesgegenwart zu fassen und auszuhalten und den Gedanken selbst in den befremdendsten Erscheinungen und Zuständen der Völker zu entdecken und in der anmuthigsten.
+
+[p. 9] geschmackvollsten Weise darzustellen.
+
+Dabei hat er sich nie der Selbständigkeit seines Geistes begeben; er hat der Wahrheit, wie er sie erkannte, stets die Ehre gegeben, auch nur bei ihr sich erkundigt, wie sie zu fassen und auszusprechen sei, nicht erst aufgehorcht, was Andere, besonders Höherstehende meinten und sagten, um danach alsdann das eigene Urtheil einzurichten; verschmäht hat er jederzeit solche Weise, welche für so Viele heutiges Tages der Weg ist, es zu etwas zu bringen, aber auch, sich lmi.die Achtung Anderer, die auch etwas ist, zu bringen.
+
+Er war überhaupt eins jener unbequemen, die Wahrheit reinigenden, befreienden Elemente, wie sie jeder Wissenschaft und Kunst in jeder
+
+Zeit zu wünschen sind, und ohne welche die kluge Mittelmäßigkeit in allen Fächern bald auf den grünen Zweig kommen würde.
+
+Ist es nun schon so sehr viel, was die wissenschaftliche Anstalt, an der er lehrte, und die Wissenschaft überhaupt, der er diente, an ihm hatte, wie unendlich viel ist es [p. 10] vollends, was er in allen menschlichen, geselligen Beziehungen war und was wir, die wir seine näheren Freunde waren, an ihm verloren haben.
+
+Ja, hier kommen wir schon wieder an die ganze Tiefe des Schmerzes, welche zu erschöpfen wir schon im Anfang verzweifelten.
+
+Der Grundzug seines
+
+Charakters war die gränzenlose Aufrichtigkeit und Gutmüthigkeit; auf diesem edlen Grunde waren in ihm alle seine Tugenden und Vorzüge, wie seine Fehler und Schwächen erwachsen.
+
+Für ihn war der Unterschied zwischen Seyn und Schein, zwischen dem Innern und Aeußern eines Menschen nicht; er gab sich stets ganz so, wie er war, stets vorauSsetzend, man werde für diese edle Gabe eines ganz klaren, durchsichtigen Charakters auch das Geringe und Fehlerhafte, was er darbot, nicht verschmähen oder allzusehr tadeln.
+
+Sein Irrthum war nur, daß er diesen seinen Charakter auch in die Welt hineinschaute und alle Menschen nach sich beurtheilte; so hat er in unendlich Vielen sich betrogen gesehen, doch auch dieses in seiner Weise leicht verschmerzt und [p. 11] sich durch keinen Haß oder Undank jemals ermüden oder umändern lassen. In dem reichen Maaß seiner wahrhaftigen, alles vergütenden, stets versöhnlichen Menschenliebe hat er es nie begreifen können, wie man jemanden anhaltend hassen oder jahrelang einen tiefen Groll im Herzen tragen könne;
+
+aufmerksam gemacht auf mögliche Verletzung hat er sofort seinen Gegnern die Hand zum Frieden geboten und nach der Lehre des Evangeliums ihnen die feurigen Kohlen auf'S
+
+Haupt gelegt.
+
+Seine Aufrichtigkeit gränzte besonders früherer Zeit an Kühnheit,
+
+Unbesonnenheit,
+
+Unvorsichtigkeit und nur mit Mühe ist er dahin zu bringen gewesen, zu der schönen Mäßigung der späteren Jahre überzugehen, wo ihm dann selbst die stets wachsame Feindschaft nichts mehr anhaben konnte.
+
+Ein solcher Character, von solcher Liebe erfüllt, konnte nicht anders als für die Freiheit fehl, für die Freiheit im Gewissen und Glauben, für die Freiheit in der Wissenschaft, für die Freiheit im Leben der Völker: denn Liebe ist Freiheit und Freiheit ist Liebe, und [p. 12] nicht minder auch
+
+Gesetzlichkeit.
+
+strenge
+
+Diese
+
+Innigkeit seiner Liebe, die sich nicht weniger aus seinen treuen, langjährigen als Diener, auf den weiten seiner Kreis
+
+Freunde erstreckte, sie zeigte sich auch in der nie erschütterten Heiterkeit seines Wesens, worin er keine Trübsinnigkeit an sich kommen ließ, der Unbefangenheit, womit er, obwohl selbst von großer, geselliger Bildung, sich doch so oft über die kleinen, gedankenlosen Formen des geselligen Lebens hinwegsetzte, der Lauterkeit seiner Gesinnung/ die nur Einen Haß, nämlich den der Falschheit und Treulosigkeit hegte.
+
+der
+
+So
+
+Gesellschaft frei und bewegt, ist liebenswürdig hat er sich allen seinen Freun bei den gern und immer willkommen gesehen gewesen, und hat in allen Kreisen, die sein immer reicher Geist und Witz belebte, und aus denen er nun geschieden, die schmerzlichste Lücke, die innigste Sehnsucht nach sich zurückgelassen.
+
+O!
+
+wie oft wird er uns, ob wir zwar viel schon zu entbehren gelernt haben, noch fehlen;
+
+wie sehr wird er selbst denen [p. 13] fehlen, die seiner wissenschaftlichen Ueberzeugung fern standen;
+
+wie schwer wird es vollends sein, einen Mann von solchem Geist und Reichthum an Gedanken und Kenntnissen, wie er war, zu ersetzen! — Doch, wo stehen wir?
+
+zunächst allerdings an einer offenen Gruft, die ein uns allen theures, nun erloschenes
+
+Leben umschließen soll;
+
+Keiner auf
+
+Erden doch auch im Reiche Gottes, dem unentbehrlich, das an Werkzeugen unerschöpflich ist; doch auch in Kräften und der Gemeinde des Herrn, die er sich durch sein Blut erworben und in der er seinen Geist auch über diesen seinen Diener so reichlich ergossen hatte,
+
+Und wofür leben wir?
+
+wahrlich nicht für die kurze Strecke unseres irdischen Daseyns, wo wir kaum Zeit haben, denen, die wir lieben, im raschen Vorübergehen die Hand zur ewigen Freundschaft zu drücken; sondern leben wir, so leben wir dem Herrn; sterben wir, so sterben wir dem Herrn; darin, wir leben oder sterben, so sind wir des Herrn.
+
+Möge von dieser Ueberzeugung [p. 14] vor allem in das weinende Herz der nächsten Verwandten, der Mutter, des Bruders, der
+
+Entschlafenen kräftiger Trost ausfließen allmähliche
+
+Sänftigung
+
+Mögen sie eine höhere, ihres beiden gerechten
+
+Schwestern dieses
+
+Und dieser Trost
+
+Schmerzes göttliche Fügung sein.
+
+anerkennen in diesem herben Verhängniß und unter diesen Umständen es besonders als eine große Gnade Gottes verehren, daß er ihm die Schmerzen einer langwierigen Krankheit abgekürzt hat und auf diese, wenn sie so tief gegangen war, den Tod so bald folgen ließ; denn was wäre für ihn ein Leben gewesen ohne Geist, ohne Denken! Wir aber alle, so lange oder so kurz wir noch leben, wollen in der Hoffnung einer seligen
+
+Auferstehung den theuren, von uns geschiedenen
+
+Amtsgenoffen und Freund im treuen Gedächtniß aufbewahren, sein Andenken in Ehren halten, und alles des Guten uns dankbar freuen, was er auf seiner kurzen Wallfahrt gestiftet und hinterlassen hat.
+
+Hier in der feierlichen Nähe jener Gräber, denen wir schon so viele unsrer unvergeßlichen [p. 15] Lehrer und Freunde anvertraut haben, ruhet er würdig; hier wird kein Neid und Haß ihn mehr erreichen oder ihm den engen Raum, den er nun einnimmt, streitig machen; hier wird man neben den Namen, die der Welt und dem Reiche Gottes zur wahren Zierde und Ehre gereichen, den künftigen Geschlechtern auch den (einigen nennen, um sie zu ähnlichen Gesinnungen und Thaten anzufeuern: denn das Gedächtniß der Gerechten bleibet in Segen. Amen.
+
+Gedruckt bei Julius Sittenfeld in Berlin,
+
+Burg-Straße Nr. 25.

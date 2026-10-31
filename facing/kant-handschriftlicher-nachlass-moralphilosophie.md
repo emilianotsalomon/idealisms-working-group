@@ -1,0 +1,6618 @@
+---
+title: Handschriftlicher Nachlaß Moralphilosophie, Rechtsphilosophie und Religionsphilosophie
+author: Immanuel Kant
+year: 1934
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: Bonner Kant-Korpus (korpora.org/Kant, Universität Duisburg-Essen), transcription of the Akademie-Ausgabe, vol. 19; this file is the source, corrections go here
+original_text: transcription of the Akademie-Ausgabe (Kants gesammelte Schriften, vol. 19) by the Bonner Kant-Korpus (korpora.org, Universität Duisburg-Essen); printed paragraphs, page breaks as [AA 19:p]
+translation: none
+canonical: "Akademie-Ausgabe 19:5-654: [AA 19:p] marks the start of each Akademie page"
+pages: 650
+genre: Kant and post-Kantian philosophy
+public: true
+rights: Akademie-Ausgabe vol. 19 was first published in 1934; the 25-year protection of scholarly editions (German copyright act, UrhG §§70–71) ended on 31 December 1959. Kant's text, the editors' notes included, is free to publish.
+generated: 2026-10-25 by .scratch/idealisms-wg/kant_editions.py (library)
+---
+
+# Immanuel Kant, *Handschriftlicher Nachlaß Moralphilosophie, Rechtsphilosophie und Religionsphilosophie* (Akademie-Ausgabe 19, 1934)
+
+Conventions: `[AA N:p]` marks where page p of volume N of the Akademie-Ausgabe begins, at the exact word; paragraphs are the printed ones, whole across page turns; `*…*` is emphasis as printed; `[^id]` is a note of the Akademie edition (in the Nachlass volumes mostly the editors' textual notes), set under the paragraph it belongs to. Generated file — see the header for where corrections belong.
+
+[AA 19:5]
+
+[AA 19:9] **6456.**   ε.   Pr 1.   Zu § 1: *Scientia practica est vel Artis vel Prudentiae vel Moralitatis.*
+
+[AA 19:10] **6457.**   ζ.   Pr 3.   Zu § 6: *principia sensu objectivo,*
+
+*subjectivo.*
+
+*Philosophia practica:*
+
+*1. prudentiae,*
+
+*2. obligationis.*
+
+*prior vel privatae*
+
+*vel socialis.*
+
+*haec vel oeconomica vel politica.*
+
+*obligationis sive moralis*
+
+*vel imperfectae: Ethica,*
+
+*vel perfectae: Jus naturale.*
+
+*Jus sociale in statu*
+
+## [AA 19:11] Vorwort V-VII
+
+## Inhaltsübersicht
+
+### Praefatio 7
+
+### Caput I Obligatio
+
+*1. domestico,*
+
+*2. vel civili*
+
+*in statu privato.*
+
+*a. Jus civile:* Staatsrecht.
+
+*b. Jus publicum.* Völkerrecht.
+
+**6458.**   ε.   Pr 4.   Zu § 10 Anfang: *Moraliter necessarium est vel objective: cujus oppositum legi* *morali objective spectatae repugnat, vel subjective *etc.**
+
+[AA 19:12] Neben § 10 "personam -- quae": *necessitas immediata. bonitas immediata.*
+
+Zu § 10 Schluss: *Necessitatio est mutatio in se contingentis in necessarium.*
+
+**6459.**   ζ.   Pr 4.   Zu § 11 Anfang: *Causa motivi moralis (g potioris) obligat, motivi pragmatici impellit.*
+
+ζ. Unter und zu § 11: *Syllogismus practicus: Optimum per te possibile fiat. Atqvi hoc* *est optimum. Ergo... qvatenus haec minor est vera, conclusio practica* *est moraliter necessaria; qvatenus cogitatur vt vera, non est, posita* *minore falsa: conclusio est subjective necessaria, potissimum si sit* *qvaedam necessitas erronea minoris propositionis. Hujus ultimae necessitatis* *harmonia cum libertate conciliatur.*
+
+**6460.**   ε.   Pr 5.   Zu § 11 Schluss: *non semper secundum qvid, qvia obligamur ad ea, qvae indirecte* *libertati nostrae subsunt.*
+
+**6461.**   ε.   Pr 5.   Zu § 12, Satz 3: *actuandae sunt majores rationes lubitus veri.*
+
+[AA 19:13] **6462.**   ε.   Pr 6.   Zu § 13: *Causas impulsivas actuans subjective necessitantes, non ideo obligat,* *nec semper objective necessitantes.*
+
+**6463.**   ε.   Pr 6.   Neben § 14--16: *1. Obligatio est necessitatio, ergo oppositum actionis potest esse* *subjective moraliter possibile.*
+
+*2. Necessitatio objectiva est vel categorica vel conditionalis.*
+
+*3. Obligatio est vel primitiva vel derivativa; prior non habet* *causas impulsivas.*
+
+[AA 19:14] **6464.**   ζ.   Pr 8.   Zu § 21 „interit“: *satisfaciendo obligationi vel interit obligatio ut in debitis vel superstes* *manet ut in benefactis.*
+
+[AA 19:15] **6465.**   ζ.   Pr 8.   Zwischen § 21 und 22: *Motiva actuans pragmatica (auctoramenta vel minas) impellit, moralia* *obligat.*
+
+**6466.**   ζ? η?   Pr 8.   Zu § 22: *Oritur obligatio etiam, cum oritur libertas (g facultas vel receptivitas* *obligandi).*
+
+*Actus qvo semet ipsum obligat pater, est generatio.*
+
+*Obligatur erga liberos, non a liberis, obligat, dum obligationi* *satisfacit.*
+
+Ferner in § 22, η--φ: *qvi obligat, actum obligatorium exercet.*
+
+**6467.**   ζ.   Pr 8.   Unter § 22: *Motiva pragmatica necessitant secundum leges arbitrii privati,* *moralia: communis.*
+
+*priora faciunt, aliqvid mea interesse; posteriora, aliqvid* bricht ab.
+
+**6468.**   ζ.   Pr 9.   Neben § 23, Satz 2: *rationum obligandi opposita sunt vel moralia vel pragmatica.*
+
+[AA 19:16] **6469.**   ζ? η? (κ--ξ?)   Pr 10.   Neben § 25--27: Der *actus obligatorius* besteht blos in der eingewilligten übere Zusammenstimmung der freyen Handlung des andern mit dem Daseyn des *motivi*, welches dadurch moralisch neceßitirt. Einen *actum obligatorium* exercirt keiner als durch einen guten Willen, einem andern etwas gut zu thun; denn dieses ist ein *motivum actionum liberarum secundum regulas* *communes cum ipsis conjungbile*. *e. g.* ein jeder Mensch will, daß es möglich sey d gutes unter der condition seiner freyen Handlungen dargebothen werde. *Die Drohungen könen nicht einen* **actum obligatorium** *ausmachen.*
+
+[AA 19:17] *Je mehr Gutes* jemand in *seiner Gewalt* halt, welches nach dem Willen andrer ein Grund ihrer Handlungen seyn kan, *desto mehr* *actus* *obligatorios* kan einer exerciren.
+
+Ja, jemehr jemand Guten Willen hat....
+
+Der Arme kan wenig *actus obligatorios* exerciren.
+
+(g Der Wille eines andern, in so fern er so fern er einstimig mit dem Willen des andern ist, obligirt. )
+
+Wer keinen *actum obligatorium* exercirt, der obligirt nicht. Das Elend der Armen obligirt nicht, sondern das *Pactum*. Ich kan obligirt seyn gegen einen andern, ohne von ihm obligirt zu seyn. *obligatus ab* *aliqvo est in relatione passiva (moraliter) erga obligantem, et obligans* *exercet actum obligatorium, qvi semper est relatio arbitrii ad arbitrium*.
+
+**6470.**   ζ--η.   Pr 11.   Zu § 27 „obligatio falsa“: *obligatio vel materialiter vel formaliter falsa.*
+
+[AA 19:18] **6471.**   υ--ψ.   Pr 13.   Zu § 29 „et agentis“: nicht aus dessen Natur.
+
+η--φ1. Zu § 29 "naturalis": *legalis.*
+
+η--φ1. Zu § 29 "positiva": alte Gesetze scheinen als Gebothe.
+
+Ferner η--φ1: solte eigentlich der negativen entgegengesetzt seyn. Göttliche Frömmigkeit und Sünden.
+
+Ferner η--φ1: *Statutaria.*
+
+Ferner η--φ1. Pr 12: da ist die obligation nicht in Ansehung des Gesetzes unmittelbar, sondern vermittelst der obligation gegen den Gesetzgeber.
+
+**6472.**   ε.   Pr 13.   Zu § 29 Schluss: *si lex obligatoria est rationatum arbitrii alterius, oritur obligatio* *positiva.*
+
+*motivum, qvod ab arbitrio alterius est depromtum, potest esse* *ratio obligationis naturalis.*
+
+**6473.**   ζ? η? κ?   Pr 13.   Zu § 29 Schluss: Der allgemeine Grund der moralischen Verknüpfung der freyen Willkühr mit ihrem Gegenstande ist das Gesetz. Wenn dieses Gesetz selbst im Grund willkührlich ist, so heißt es positiv.
+
+[AA 19:19] **6474.**   ζ? η? κ?   Pr 13.   Zu § 29 Schluss: Der Grund der Verbindlichkeit zu einer Handlung ist *praeceptum:* Geboth;
+
+ein allgemeiner Grund der Verbindlichkeit zu einer Art Handlungen ist *lex:* Gesetz.
+
+Wenn der Grund der Moralität der Handlung die Willkühr ist, so ists *lex positiva.*
+
+**6475.**   ζ--η.   Pr 13.   Zu § 31: *omissiones in sensu practico sunt commissiones in morali.*
+
+Ferner ζ--η: *Omissiones non sunt ideo semper defectus tantum morales.*
+
+*Omissio (physice talis) spectari potest ut actio in sensu morali.*
+
+Ferner ρ--φ1: *omissiones contra leges rectitudinis sunt commissiones.*
+
+Ferner υ--ψ. In § 31, zum Schlusssatz: *merita - peccata - adiaphora.*
+
+*rectitudo - pravitas - adiaphoron.*
+
+[AA 19:20] **6476.**   η--φ1.   Pr 14.   Zu § 33, Satz 1: *consectaria a lege determinata sunt effectus; omnes leges morales* *habent effectus.*
+
+η--φ1. Zu § 33, Satz 2 "naturalia" *etc.*: *physica* oder *moralia; haec vel arbitraria vel naturalia.*
+
+**6477.**   η--φ1.   Pr 15.   In § 34, zu Satz 3, über „consectaria quarundam“: *obligationes vel*
+
+[AA 19:21] **6478.**   ε--σ.   Pr 15.   Zu § 36 Anfang: *Bonitas est vel moralis vel physica; prior.....*
+
+κ--φ. Zu § 36, Satz 1 "abstrahendo -- volente": *et ab omni utilitate.*
+
+Ferner ψ? (χ?): Nicht allein das, sondern auch *abstrahendo ab omnibus consectariis* *respectu felicitatis.*
+
+**6479.**   η--φ1.   Pr 16. 17.   Zu § 36, Satz 4 „moralitas“. Pr 16: *respectus ad vim legis obligantem, cui opponitur legalitas: respectus* *ad facultatem agendi;* Pr. 17: der richter hat nur auf die legalitaet, nicht moralitaet zu sehen, wiewohl bey der legalitaet auch der dolus oder das Vorsetzliche ein moment der Beurtheilung ist.
+
+**6480.**   κ--φ1.   Pr 16.   Zu § 36, Satz 4, 5: innere moralität aus der Natur der Handlung (äußere aus Pflicht gegen Befehle).
+
+κ--φ1. Zu § 36 Schlusssatz: *obligatio est vel naturalis vel arbitraria.*
+
+Ferner κ--φ1: Ohne Voraussetzung einer obiectiven moralität läßt sich keine subiective denken.
+
+κ--φ1. Zu § 36 Schlusssatz „arbitrium -- liberum“: *Legalitas.*
+
+[AA 19:22] ζ--φ1. Zu § 36 Schluss "subiectiva": Wenn die *motiva moralia in arbitrio alieno* seyn.
+
+Eigentlich ist *moralitas obiectiva* die *pura* und *subiective* die *affecta.*
+
+**6481.**   ζ.   Pr 16.   Zu § 37, 3: *Dei voluntas non habet vim obligatoriam, nisi propterea qvod* *proficiscitur ab ente, cui inest perfectio moralis.*
+
+ζ--κ. Neben § 37, 3.4: *Leges morales vel subiectivae vel obiectivae.*
+
+[AA 19:23] **6482.**   κ--φ.   Pr 17.   Zu § 39, Satz 4, 5: An Gott ist das moralisch Gute subiectiv nothwendig, und er ist frey. Die Menschen sind in Ansehung desselben gebunden. *obligatio.*
+
+**6483.**   ε--ζ.   Pr 17.   Zu § 39, Satz 6: *Regula. Fac bonam in se actionem, est propositio identica. Omitte* *malam in se actionem, in praedicato continetur sub principio contradictionis.*
+
+**6484.**   ε--ζ.   Pr 17.   Zu § 39, Satz 6: *Cum bonum vel sit Physicum: propter consectaria, vel morale:* *actionis tanqvam liberae immediata bonitas, regula illa tanqvam vaga* *non est obligatoria. Nam 1mo: si sit bonum consectarium externum,* *ideo nulla resultat causa impulsiva illud appetendi; 2do: si sit bonum* *illud internum, causa qvidem impulsiva adest, sed bonitas actionis propterea* *est mediata adeoqve non obligatio. Actionis bonitas locum habet,* *dummodo intendatur bonum, etiamsi frustretur suo exitu.*
+
+**6485.**   η--φ1.   Pr 17.   Zu § 39, Satz 6: Geschickten, vernünftigen, guten Gebrauch von allem Machen.
+
+[AA 19:24] **6486.**   ζ--η.   Pr 19.   Zu § 41 Anfang: *non est moraliter mali.*
+
+ρ--φ. Zu § 41 "Abnegatio": überwindung (g der innern Hindernisse: pathologisch oder moralisch), wenn sie in ansehung einer Pflicht schwer wird, zeigt viel moralisch gute Gesinung.
+
+**6487.**   ρ--φ1.   Pr 19.   Zu § 43 „quaerit perfectionem“: nicht blos *felicitatem.*
+
+[AA 19:25] ζ. Zu § 43 "quaere perfectionem": *est obligatio imperfecti.*
+
+Ferner ρ--φ1: *imperativus tavtologicus.* Haben doch den Nutzen, daß sie die pragmatische imperative und die *stimulos* ausschließen. Sey gut, und würdig glüklich zu seyn.
+
+Ich kan nicht sagen: sey Gesund, sondern: sey Gut, weil dieses blos den Willen betrift.
+
+**6488.**   δ--η.   Pr 21.   Neben § 46--48: suche die Vollkommenheit um des Gefühls der Lust an der Handlung halber.
+
+[AA 19:26] ungewisheit, ohne Moralisch Gefühl auszumachen, wo die Größeste Vollkommenheit sey, oder bey Handlungen der Dankbarkeit.
+
+**6489.**   ζ--η.   Pr 22.   Zu § 50: *Coactio est vel practica vel physica*
+
+*vel*
+
+*per stimulos* Erzwingung
+
+subiectiv
+
+[AA 19:27] Ferner η--μ: *Coactio est vel practica vel physica;* zur *coactio* wird auch erfodert, daß *actio invita* sey.
+
+**6490.**   ε--λ.   Pr 22.   Zu § 50: *Nemo cogi potest practice pathologice* zu einer willkührlichen Handlung *propter arbitrium liberum.*
+
+*secundum leges arbitrii bruti (s pathologice) qvilibet comparative* *cogitur, i. e. libertas imminuitur.*
+
+**6491.**   ζ--ξ.   Pr 22.   Zu § 50: Es ist besonders, daß ein moralischer Zwang durch regeln der Klugheit nöthig ist; der antrieb gründet sich auf das Gefühl im Gegenwärtigen Zustande, die Klugheit auf das Vergnügen des ganzen Zustandes.
+
+**6492.**   ε--λ.   Pr 23.   Neben dem Schlussatz von § 51. Zu § 51. 52: *externe moraliter cogor per motiva iuris, interne per motiva Ethica.*
+
+[AA 19:28] *vera coactio Moralis est externa secundum motiva iuris. Coactio interna* *est imperium in semet et subiectiva.*
+
+**6493.**   ζ--λ.   Pr 23.   Zu § 52 Anfang: Der moralische Zwang ist nur möglich durch die moralische bonitaet des Menschen und der Handlung.
+
+ζ--λ. Durch einen leeren Zwischenraum von etwa 1 cm von dem vorhergehenden Satz getrennt stehen neben § 52 "actionem metu coactam" die Worte: blos durch Liebe.
+
+ε--λ. Neben § 52 "per violentiam -- cujus oppositum": Die *motiva* *pragmatice cogentia a placentibus depromta* stimmen mehr mit *motivis moralibus* als die *a displicentibus.*
+
+**6494.**   ζ--λ.   Pr 24.   Neben § 52 Schluss und § 53: *Coactio pragmatica vel moralis.*
+
+*necessitatio actionis pragmatice vel moraliter invitae.*
+
+*cogi non potest moraliter, nisi per motiva moralia qvatenus potest* *sensu morali. *e. g.* Cogo aliqvem moraliter, si sub conditione vel Ethica*
+
+[AA 19:29] *vel iuris, *e. g.* miseriam aliorum alicui sub oculos ponendo vel datam* *fidem in animum revocando, impello.*
+
+**6495.**   ζ--λ.   Pr 24.   Über und neben § 52 Schluss: *motiva se ipsum stricte obligandi possunt esse Ethica, i. e. possum* *aliqvid promittere, ad qvod iure non obligatus sum.*
+
+*Qvo minus qvis pragmatice potest cogi, qvo magis moraliter: hoc* *est liberior.*
+
+*qvo min paucioribus rationibus moraliter cogentibus secundum* *regulas iuris aliqvis subiectus: eo magis patet motivis Ethice cogentibus,* *h. e. qvibus se ipsum potest cogere.* (s Ie weniger er des Selbstzwanges nothig hat, ie mehr er sich selbst zwingen kan: desto freyer ist er. )
+
+**6496.**   ζ--λ.   Pr 25.   Neben und in § 56: *coactio moralis (g alterius) semper est licita; coactio pragmatica*
+
+[AA 19:30] *non est licita sub conditione a privata utilitate depromta nec ab utilitate* *alterius, sed tantum sub conditione morali; conditio haec moralis* *non esse potest nisi consensus cum voluntate alterius.*
+
+*coactio moralis est vel interna vel externa, posterior est motivum;* *obligatio debiti moraliter cogens est ius.*
+
+**(s** *coactio moralis distingvitur ab officiis beneplaciti.*
+
+*necessitatio moralis per arbitrium alterius.*
+
+*Vis moraliter cogens arbitrii alterius est ius.*
+
+*Coactio interna arbitrii sensitivi per motiva moralia arbitrii* *intellectualis.* **)**
+
+**6497.**   δ? (η?) κ??   Pr 26.   Zwischen § 56 und 57: In den Regeln des Rechts stimmt die privatwilkühr eines jeden, wenn sie durchgängig angenommen wird, nur mit sich selbst, in denen der Ethic stimmt die Willkühr dem obiecte nach.
+
+**6498.**   ζ? ξ?   Pr 28.   Zwischen „Obligantia“ und § 60: Alle Pflichten sind entweder schuldige oder verdienstliche Pflichten
+
+— *officia* — *debiti* — *meriti*
+
+Die relation bey den ersten ist schuldigkeit — Recht, zweyten: Gütigkeit — Bedürfnis.
+
+[AA 19:31] *Complexus legum debiti: Jus, meriti: Ethica respectu officiorum* *erga alios.*
+
+*vis necessitans prioris est perfecta, qvoniam est absoluta.*
+
+*vis necessitans posterioris est imperfecta, qvoniam est hypothetica* *sub conditione praestati officii debiti.*
+
+*sed actionum bonitas moralis in priori casu est negativa, h. e. minimum* *morale,*
+
+*in posteriori casu est affirmativa, plerophoria* *moralis.*
+
+**6499.**   ζ--κ.   Pr 28.   Neben § 60 Anfang: Gesetze entweder dessen, was ist, oder Gesetze einer moglichen Vollkommenheit.
+
+### [AA 19:32] Caput II Obligantia
+
+#### Sectio I Lex
+
+Die erste sind subiectiv und physiologisch. Die zweyten obiectiv und practisch.
+
+[AA 19:35] ζ. Pr 35. Neben und zu § 71 (2. Hälfte): Die *potestas obligatoria divina* gründet sich aufs rechte.
+
+Wenn er seinen nächsten nicht liebet, den er siehet, wie will er Gott lieben *etc.* *etc.*
+
+Wenn man Gott vor der moralitaet erkenen will, so legt man ihm nicht moralische Vollkommenheiten bey. Daher kan religion böse sitten hervorbringen oder sie gesetzlich indetermtnirt lassen; die rohe Völker glauben, daß Gott an die Sitten nicht gebunden sey, woran sie sind. sie empfinden ungern den Sittlichen Zwang und glauben, daß Gott davon frey sey.
+
+Nicht alle gute Sittlichkeit ist frömmigkeit. Eine frömmigkeit, die vor der Sittlichkeit anfängt, ist ihr oft entgegen.
+
+**6500.**   ε? η?   Pr 35.   Unter und zu § 71: Der Wille Gottes enthält wohl die größesten *motiva obligantia,* aber nicht den Grund der form moralischer Gesetze.
+
+[AA 19:37] **6501.**   φ.   Pr 39.   Zu § 76 „leguleius“: *Litteram Legis Doctus.*
+
+**6502.**   υ?   Pr 39.   Neben § 77 Satz 1 „internis -- dictis“: *Lex principalis et subsidiaria.*
+
+[AA 19:39] **6503.**   υ? ψ?   Pr 44.   Zu § 82 „Moralitas“: Moralitaet und legalitaet *qvoad motiva.*
+
+[AA 19:40] **6504.**   υ.   Pr 44.   Zu § 83 Anfang: *obligatio continet formam, officium etiam materiam.*
+
+**6505.**   υ.   Pr 45.   Zu § 83, Satz 5: *laesio personae violentia | offensio laesio juris.*
+
+**6506.**   ψ? υ?   Pr 45.   § 84 Anfang: *obligatio vel primitiva ex lege morali vel derivativa per arbitrium* *alterius.*
+
+**6507.**   υ.   Pr 46.   Zu § 85 Anfang: *Nulla est antinomia nisi legum obligandi non obligantium. Leges* *obligandi enuntiant obligationem, sed obligantes officium.*
+
+[AA 19:41] **6508.**   ε.   Pr 46.   Neben § 85, Satz 2: *legis iuris naturalis saepe vetant, qvod iuris positivi permittunt.*
+
+Ferner ε. Zu § 85, Satz 3: *qvod est per ius positivum officium bene placiti, saepe per ius* *naturae est officium debiti.*
+
+**6509.**   ε? ξ?   Pr 47.   Neben § 86 „praeferenda -- fortiores et“: *reluctantia contra motiva mor obligantia est vel ipsa moralis vel* *pragmatica.*
+
+Ferner υ? Neben § 86, Schlussatz: *Leges sunt vel stricte vel late obligantes.*
+
+[AA 19:42] **6510.**   υ?   Pr 48.   Zu § 87, Satz 2 „peregrina“: Klugheit.
+
+Zu § 87, Satz 4 "propaedeutica": theologie.
+
+[AA 19:44] **6511.**   ε? κ?   Pr 54.   Zum Anfang des Schlusssatzes von § 92: *Lex iuris prohibitiva.*
+
+Ferner: Man kan einen andern laediren, d. i. seinen Rechten Abbruch thun, *materialiter,* ohne *formaliter* ungerecht zu seyn.
+
+Die Strafe geht nur auf das materiale Unrecht.
+
+[AA 19:45] **6512.**   ε.   Pr 55.   Zu § 93: *Suum est vel logice vel pragmatice vel practice tale; posterius est* *vel pragmatice vel moraliter tale. prius est utile per arbitrium liberum* *alicuius modificabile, posterius secundum leges arbitrii communis.*
+
+*utile per arbitrium*
+
+*res nullius pragmatice - -*
+
+*res alicuius pragmatice non potest esse res nullius moraliter.*
+
+Zum Anfang des Schlussatzes von § 93: *Lex iuris praeceptiva.*
+
+#### [AA 19:48] Sectio IV Legislator
+
+**6513.**   δ? κ?   Pr 61.   Unter und zu § 100: *Necessitans universaliter secundum legem aliqvam hanc legem* *fert. Edictum.*
+
+*Sancit legem, non creat obligationem, sed imponit.*
+
+#### [AA 19:50] Sectio V Praemia
+
+**6514.**   δ?   Pr 67.   Zu § 106, Satz 1: *praemium est vel physicum vel morale.*
+
+[AA 19:51] **6515.**   ε? ζ? ξ?   Pr 67.   Neben § 106, Satz 1: *praemium gratuitum est, qvod non respondet merito, ergo etiam* *actioni rectae tantum.*
+
+**6516.**   ε? ζ? ξ?   Pr 67.   Neben § 106, Satz 2: *Praemium propositum ad actiones debiti est praemium benevolentiae,* *ad actiones beneplaciti est praemium prudentiae.*
+
+**6517.**   ε? ζ? ξ?   Pr 67.   Neben § 106, Satz 3: *Meritum est vel meritum Ethicum vel meritum juris. Actio obligati* *conformiter praemio merito Ethico est gratitudo, juris, est merces.*
+
+*Meritum Ethicum est actio debiti, qvatenus in eam cadunt prae qvatenus* *alterum non obligat ad remunerandum.*
+
+*Meritum Juris est, qvae alterum ad remunerandum obligat.*
+
+**6518.**   ζ? ξ?   Pr 67.   Neben § 106, Satz 2, über Rfl. 6517: *Meritum* ist eigentlich eine Handlung, wodurch ich mehr Gutes thue, als ich schuldig bin. In den Augen Gottes sind vieles *merita* unvollendet
+
+**6519.**   δ? κ?   Pr 67.   Neben § 107 Anfang: Eine handlung ist ein *meritum,* wodurch ich mehr thue, als ich verbindlich war; denn wenn ich gerade nur so viel thue, so war die handlung schon ohne dem *praemio* nothwendig.
+
+[AA 19:52] Daher kan ich gegen Gott kein *meritum,* auch nicht einmal *pragmaticum* haben, weil die *praemia* bey ihm *gratuita* seyn und ich ohne das schon so zu handeln schuldig bin.
+
+**6520.**   δ? κ?   Pr 68.   Zu § 107, vorletzter Satz: *Merces* ist *praemium, qvatenus est motivum actionis, ad qvam* *alias obligatus non eram.*
+
+**6521.**   ζ.   Pr 68.   Neben § 107 Schluss, § 108 Anfang: *praemium actionis pragmaticae ante illam promulgatur. actionis* *moralis potest post illam conferri. actiones moraliter indifferentes non* *necessitantur nisi pragmatice, actiones moralit pragmatice indifferentes* *vel malae non necessitantur nisi moraliter.*
+
+*Actio moraliter pura motivis moralibus non habet admista pragmatica.* *Sed tales in hominem non cadunt; ideo Deus praemiis gratuitis* *motivis moralibus complementum dedit ad sufficientiam.*
+
+[AA 19:53] **6522.**   δ? κ?   Pr 69.   Neben dem vorletzten und letzten Satz von § 109: Ob alle gute handlungen willkührlicher Weise belohnt werden?
+
+Ob nichts gutes in der Zukunft zu erfahren stehe, als was wie eine belohnung statt findet?
+
+[AA 19:54] **6523.**   ψ?   Pr 71.   Im vorletzten Satz von § 111 will Kant das Wort „spondet“ ersetzt wissen durch: meretur.
+
+**6524.**   ζ--ξ.   Pr 74. *Omnes poenae sunt vel morales vel pragmaticae; morales sunt* *vindicativae, pragmaticae sunt vel correctivae vel exemplares.*
+
+*Poena vindicativa* wird zugefügt, indem man entweder das Unrecht überhaupt oder seine eigene erlittene Beleidigung rächt; zu dem letzten gehört Zorn.
+
+[AA 19:56] **6525.**   ζ--ξ.   Pr 75.   Neben § 116 Schluss und § 117 Anfang: *Poenae sunt vel pragmaticae: ne peccetur, vel morales: qvoniam* *peccatum est. ita et praemia. praemia pragmatica cum motivis moralibus* *magis consentiunt qvam poenae, qvia, qvatenus sunt gratuita,* *augent obligationem.*
+
+**6526.**   ζ--ξ.   Pr 75.   Zu § 116 „animadversio“: *vel exemplaris.* Ferner: Alle Strafen sind entweder warnende Strafen oder rächende; *poenae exemplares,* wenn sie nicht diesen gemäs seyn, sind politisch.
+
+**6527.**   η--φ.   Pr 75.   In § 116: Warnende oder rächende Strafen. (s *deterrentes vel vindicativae* ). Die erste bricht ab.
+
+*poena est vel exemplaris vel animadversio vel vindicativa.*
+
+**6528.**   ζ--ξ.   Pr 75.   Zwischen § 116 und § 117: *animadversio* (Züchtigung.) oder exemplarische Strafen.
+
+Alle Androhung der Strafe beschimpft, und manche beleidigt, weil sie voraussetzt, daß der *subjectus* ein Gegenstand des Abscheus seyn könne.
+
+**6529.**   η? υ? κ?   Pr 75.   In § 116: Entweder *ne peccetur* oder *qvoniam peccatum est vel ne peccetur* *ab ipso delinqvente (animadversio) vel ab aliis (poena exemplaris).*
+
+[AA 19:57] **6530.**   ζ--ξ.   Pr 75.   Zu § 117 „timor servilis“: *timor filialis* (s fürchtet den, den er liebt), der sich schämet, den Unwillen des strafenden sich zuzuziehen.
+
+Ferner: υ--φ? *Animus mercenarius, indoles servilis.*
+
+**6531.**   ζ?ξ?   Pr 75.   Neben § 117: Die moralität bey den Strafen ist zweyerley: 1. in wie weit ihm das *factum* imputirt werden könne als mit fleis geschehen. 2. Welches Moralische Gesetz ihm könne imputirt werden. d. i. die Bosheit des Herzens.
+
+**6532.**   ζ?ξ?   Pr 75.   Neben § 118: Strafen, um der Gerechtigkeit ein Gnüge zu thun, bessern nicht die Gesinnungen, weil sie keine Liebe zum Richter erweken. Wie etwa väterliche Strafen.
+
+[AA 19:58] **6533.**   δ?υ?   Pr 77.   Neben § 120 Satz 1: Ob man jemand so spät moralisch strafen kan, wenn er schon eine andere moralische Gesinnung angenommen?
+
+**6534.**   ζ?ξ?   Pr 77.   Neben § 120 Satz 1, über Rfl. 6533: *de exsecutione poenarum.*
+
+**6535.**   ζ?ξ?   Pr 77.   Zu § 120 „sanctio poenalis“: *sanctio poenalis estne pragmatica an moralis? si moralis, non* *extern restringitur tantum ad officia debiti, non beneplaciti, nisi hic* *poenas damni sumas.*
+
+Ferner: ζ? *Sanctio est lex archetypa.*
+
+[AA 19:59] **6536.**   ξ?   Pr 77. Die Strafgesetze könen keinen moralischen Abscheu **directe** wirken. Man hasset das Gesetz, nicht dte Sünde; sie sind *supplementum* der moralität.
+
+**6537.**   ζ? κ?   Pr 81. Eine Handlung, die mit einem nothwendigen Zweke nur zufällig bricht ab.
+
+**6538.**   ζ? κ?   Pr 81. Alle imputation ist eine practische appropriation, dessen Gegentheil nach Regeln der freyheit möglich ist. pragmatisch.
+
+[AA 19:60] **6539.**   ζ? κ?   Pr 81. Weil die obere Willkühr über die Neigung gewalt hat, doch nicht so, daß es möglich sey, gänzlich unglüklich seyn zu wollen, weil ferner selbst der Gebrauch der freyheit seine Gründe hat, die nicht mehr von der freyheit herrühren: so weis man nicht immer zu beurtheilen, ob eine Handlung könne imputirt werden.
+
+[AA 19:61] **6540.**   ζ? κ?   Pr 81.   Neben § 125, Satz 4, 5: appropriirt werden Handlungen, z. E. Verlust im spiel, wenn das Gegentheil practisch möglich war nach regeln der Klugheit.
+
+**6541.**   ζ? κ?   Pr 81. Alle imputation ist eine moralische appropriation oder Zueignung. Eine (g zufällig) gute Handlung wird zugerechnet, wenn das gegentheil moralisch möglich war, daher keine schuldigkeit zugerechnet wird. Eine böse Handlung wird zugerechnet, wenn das Gegentheil moralisch möglich war nothwendig war. *Daher nur Verdienst und Schuld.* (s Belohnens- oder bestrafenswerth. )
+
+(s Man kan sich nicht die Vortheile zurechnen, die ein anderer aus der ihm bezahlten Schuld zieht. )
+
+**6542.**   υ? ψ?   Pr 82.   Zu § 126: Hier wird nur von der moralischen, nicht juridischen imputation gehandelt.
+
+[AA 19:63] **6543.**   δ? (υ??)   Pr 86.   Zu den 3 letzten Sätzen von § 131: (s Die Gute folgen des Verdienstes, die wir auch nicht vorhersehn, und der Schuld können imputirt werden. )
+
+Die guten folgen einer handlung, die er gar nicht, auch nicht *mediate,* intendirt hat, könen ihm nicht imputirt werden; die böse folgen, deren Gegentheil er nicht, so viel er schuldig war, intendirt hat, könen ihm imputirt werden. Die aber nicht, deren Gegentheil er gnugsam intendirt hat.
+
+Wenn das Gemüth voll Wuth oder Schmertz ist, so imputirt man einem andern leichtlich seine übel oder auch sich selbst.
+
+[AA 19:66] **6544.**   ξ? φ?   Pr 93.   Zum vorletzten Satz von § 141: Man kan gute oder böse Entschließungen nicht gleich als *facta* imputiren.
+
+[AA 19:67] **6545.**   ψ.   Pr 93.   Zum Schlussatz von § 141 „merae appetitiones“: *conatus num imputari qveant ehtice?*
+
+**6546.**   ψ.   Pr 94.   Neben dem vorletzten Satz von § 142: Zweifelhafte Befugnis
+
+Statt der Worte „Ergo -- sequens“ im letzten Satz will K. gesetzt wissen: *Jus dubium exigens.*
+
+**6547.**   ψ.   Pr 94.   In § 143, Satz 2 will K. statt „dubiam -- licet“ gesetzt wissen: *dubio iure uti non licet, sed dubiam obligationem seqvi licet, et* *non licet solum, sed etiam necesse est.*
+
+[AA 19:68] **6548.**   ζ?   Pr 94.   Zu § 143, Satz 5 „Moraliter certum“: *Certitudo est vel logica vel practica, haec vel pragmatica vel* *moralis.*
+
+**6549.**   ξ? φ?   Pr 94.   Zu § 143, Satz 5, 6: Etwas auf eine bloße probabilität vor erlaubt halten, ist *probabilismus* *moralis;* ist die Vermessenheit, etwas auf die übertretung des Gesetzes zu wagen. Man muß wegen der Befugnis völlig gewiß seyn; aber die bloße warscheinlichkeit, daß etwas (dessen Befugnis gewiß ist) auch meine Schuldigkeit sey, d. i. die warscheinlichkeit, daß die Unterlassung wovon unerlaubt sey ist eben so d. i. die bloße warscheinlichkeit möglich, d. i. die bloße Möglichkeit, daß die Unterlassung unrecht sey, ist schon obligirend. D. i. überhaupt von der rechtmäßigkeit seiner Handlungen muß man gewiß seyn.
+
+**6550.**   ξ? φ?   Pr 94.   Zu § 143, Satz 5: Wovon ich nicht weiß, daß ichs bezahlt habe, und der andre fodert: daß ist moralisch gewiß, daß es bezahlt werden müsse.
+
+**6551.**   ξ? φ?   Pr 94.   Zu § 143, Satz 5: Moralisch gewiß ist, wobey keine Gefahr ist*, unrecht zu thun. Wer sich gewiß zu seyn affectirt und es nicht ist, handelt wieder Moralität.
+
+ist. Das Urtheil selber muß praktisch seyn. *e. g.* eines Artzts über eine gefährliche medicin. )
+
+**6552.**   ψ.   Pr 95.   Im Schlusssatz von § 143 will K. statt „obligari“ gesetzt haben: *ius habere.*
+
+#### [AA 19:70] Sectio VI Poenae 55
+
+#### Sectio VIII Auctor
+
+**6553.**   ζ--η?   Pr 99.   Zu § 149, Satz 2: Der thäter, der Urheber und Anstifter, der Helfer.
+
+[AA 19:71] **6554.**   ξ--φ?   Pr 101.   Zu § 152 Schlussatz: ein Bedienter auf Befehl des Herren einen Brief abbringt *etc.* *etc.*
+
+[AA 19:72] **6555.**   κ? ρ? φ??   Pr 105.   Neben der Überschrift: Die Bestimmung oder ausmachung des *facti* ist von der Zurechnung unterschieden.
+
+[AA 19:73] **6556.**   ε--ξ.   Pr 105.   Über § 159: *Qvatenus analoga moral actiones prudentiae ut morales sunt imputabiles* bricht ab.
+
+[AA 19:75] **6557.**   η--ρ.   Pr 108.   Zu § 162, no 1: Je boshafter das Herz natürlich ist desto mehr *imputabilitas.*
+
+[AA 19:76] **6558.**   η--ρ.   Pr 110.   Zu „Merita -- Conatus“ im vorletzten Satz von § 165: *Merita propositi.*
+
+Ferner δ? κ? *Conatui opponitur vel impedimentum per motiva practicum vel* *physicum;* eigentlich ist es einerley, ob jemand durch furcht der Strafen oder die Unmöglichkeit zurükgehalten wird.
+
+**6559.**   δ? κ?   Pr 111.   Zu § 166 Schlussatz: Dem, der aus Gewohnheit was Gutes thut, ist die Gewohnheit, nicht die Handlung zu imputiren, eben so beym bösen. Wenn er also wieder die Gewonheit kämpft, so ist ihm die Handlung weniger zu imputiren.
+
+[AA 19:77] **6560.**   δ? κ?   Pr 112.   Zu § 168 Anfang: Die schwäche der menschlichen Natur besteht in der schwäche des moralischen Gefühls verheltnisweise gegen andre Neigungen. Daher die Vorsehung sie mit hülfleistenden trieben als *analogis instinctorum moralium* vergrößert hat. *e. g.* Ehre *Storge*, Mitleiden, sympatie oder auch mit Belohnungen und Strafen. Wenn diese die Bewegungsgründe zum theil sind, so ist die moralität nicht rein. Die moral ist chimaerisch, welche alle diese *motiva auxiliaria* ausschließt.
+
+**6561.**   φ?   Pr 112.   Zu § 168 Anfang „Infirmitas humana“: Unlauterkeit und Gebrechlichkeit.
+
+Ferner φ: negativ.
+
+Ferner φ: Unvollkommenheit der Menschlichen Natur und Unlauterkeit der Tugend.
+
+[AA 19:78] **6562.**   φ.   Pr 113.   Zu § 169 Anfang “Fragilitas -- humanae“: positiv.
+
+**6563.**   δ? κ?   Pr 113.   Zu § 169 Anfang: Die allgemeine Gebrechlichkeit besteht nicht in bösen Neigungen, sondern in der großen Möglichkeit derselben, böse zu werden. Das ist der *Hang der Neigungen* zu bösem, ehe die Neigungen böse seyn. Würde bey der Vergrößerung aller Neigungen die moralität auch wachsen, so bliebe alles gut.
+
+[AA 19:80] **6564.**   φ.   Pr 118.   Zu § 177 Anfang: *interpretatio avthentica* oder *doctrinalis.*
+
+#### [AA 19:81] Sectio XI Forum
+
+**6565.**   δ? κ?   Pr 120.   Zu § 180: Derjenige, dem ein Recht willkührlicher Weise aufgetragen ist, in [AA 19:82] einer besonderen strittigen frage von den Rechten zweyer zu urtheilen, ist *arbiter.* Der überhaupt in ansehung gewisser Anderen das Recht hat zu richten, ist *iudex. Iudex* setzt allemal *leges communiter obligantes* voraus.
+
+**6566.**   ξ? υ?   Pr 120.   Zu § 180: Zur obiectiven Nöhtigung ist gnug das gesetz, nemlich zur Erkentnis dessen, was man thun soll; aber zur subiectiven, nemlich daß, wenn die *motiva moralia* unzureichend wären, er doch genöthigt werden könne, es zu thun, wird erfodert *potestas exsecutoria.*
+
+Die Regel des rechts bringt es schon so mit sich, daß man *nolens* *volens* die Handlung thue.
+
+**6567.**   ξ? ρ?   Pr 120.   Zu § 180: Das *forum* muß richtig urtheilen, 2. Macht haben.
+
+Das *forum* ist das Mittel der Verknüpfung der *potestatis legislatoriae* und *exsecutoriae.*
+
+**6568.**   ξ? υ?   Pr 120.   Zu § 180, Satz 3: Zu den *internis factis* gehöret die Meinung, die man nicht declarirt hat.
+
+**6569.**   η?   Pr 121.   Zu § 180, Satz 4: *Coram foro externo (g rationes imputandi) (causae imputationis)* *internae non sufficunt, ergo nec ex aeqvitate.*
+
+**6570.**   ξ?   Pr 121.   Zu § 180,182: *Forum humanum externum: vel justitiae vel aequitatis;*
+
+*internum: conscientiae vel naturale vel statutarium.*
+
+[AA 19:83] **6571.**   η?   Pr 121.   Zu § 182, Satz 1: *valida imputatio* bedeutet auch die, so zu Handlungen nöthigt.
+
+[AA 19:84] **6572.**   υ.   Pr 123.   Zu § 184: Die Beobachtung beliebiger Pflichten, und zwar äußerer, hat etwas verdienstliches an sich, welches dadurch bricht ab.
+
+**6573.**   η? (φ?)   Pr 123.   Zu § 185 Anfang: *Subtilitas in imputatione factorum coram foro divino.*
+
+[AA 19:88] **6574.**   φ?   Pr 134.   Zu § 198 „Exculpatio“: rechtfertigung.
+
+[AA 19:90] **6575.**   υ? χ--ψ??   Pr 139.   Zu § 205: Wir sollen durchs Gewissen bedroht werden; das Gewissen als Richter muß nicht bedroht werden. Es muß frey seyn.
+
+[AA 19:91] **6576.**   υ? χ--ψ??   Pr 139.   Zu § 205: Sclavisch ist ein Gewissen, daß sich im Urtheilen selbst schrecken läßt.
+
+Wenn des Gewissens urtheil sich auf glauben gründet, dieser aber auf Schrecken.
+
+### [AA 19:92] Phase η.
+
+#### Allgemeines.
+
+**6577.**   η.   Pr I. *Iuvenalis: Orandum est, ut sit mens sana in corpore sano.*
+
+Zum ersten gehört ein Gesunder Verstand und ein Gut Herz.
+
+Der Verstand wird durch Erfahrung und unterweisung abgerichtet als ein Mittel.
+
+Das Herz bestimmt den Zweck.
+
+Die Wissenschaft der Mittel ist Klugheit oder Geschicklichkeit.
+
+Die Wissenschaft der Zweke ist Weisheit.
+
+Praktische Weltweisheit
+
+Von den freyen handlungen und ihrer bonitaet. Subjectiv: beobachtend und erklärend.
+
+objectiv.
+
+(s Das Ideal der Einfalt, der Klugheit und Weisheit).
+
+**(s** Alle Betrachtung ist entweder physiologisch oder teleologisch.
+
+*teleologia* ist entweder empirisch oder rational: wenn der Zwek durch äußere Erfahrung oder innere Neigung gegeben ist.
+
+teleologie ist entweder *externa* oder *interna.* **)**
+
+**6578.**   η? κ--ξ?   Pr I. *obiective* und *subiective:* was geschehen soll, und was geschieht, *phaenomenon.*
+
+[AA 19:93] *moralis: finium, et pragmatica: mediorum ad felicitatem.*
+
+*philosophia moralis pura* oder *applicata.*
+
+ideal
+
+*theoretica et practica.* Letztere: Erziehung, Gesetzgebung.
+
+**(s** *contemplativa* von der *practica* unterschieden.
+
+Wir bemerken zuerst an dem Menschen Willkühr, dann aber auch an seinen gemeinsten Handlungen freye Willkühr, vornemlich an dem, was daß er der Vorstellung fähig ist von etwas, was er thun soll, ob er es gleich nicht thut. **)**
+
+**6579.**   η.   Pr I. 1. Fehler Verabsäumung der subiecten philosophie über den natürlichen Menschen und den gesitteten.
+
+2. Was geschehen sol: Verwechselung der pragmatischen mit der Moralischen.
+
+3. Die Moralische überhaupt, ohne die besondere des Menschen und des Standes zu erwegen. (s pura. )
+
+(s 4. applicata. )
+
+Die Alten verwechselten das Recht das Naturrecht mit Ethic.
+
+**6580.**   η? (κ--ξ)?   Pr I. *Obligans efficit, ut arbitrium arterius suo non consentiens sibimet* *ipsi universaliter sumto repugnet; ideoque non obligat nisi per consensum* *alterius.*
+
+**6581.**   η.   Pr I. Vom *sensu morali.* Die Regeln der Klugheit setzen keine besondere Neigung und Gefühl voraus, sondern nur ein besonder Verhältnis des Verstandes auf dieselbe. Die Regeln der Sittlichkeit gehen auf ein besonderes gleichnamiges Gefühl, worauf der Verstand so wie bey iener gerichtet ist.
+
+Die thätige Liebe hat nach den Stoikern ihr Maximum, wenn sie den Kräften gleich ist. Es ist kein inneres Maas im Raum, sondern arbiträr; aber ein Cirkel ist ein absolutes Maas.
+
+[AA 19:94] Die Lehre der Mitteleren ist eigentlich, daß es ein größestes Gute bricht ab.
+
+**6582.**   η? κ?   Pr II. *Obligantis vel voluntas inefficax necessitat vel arbitrium.*
+
+Alle Schuldigkeit ist zwiefacher Art: 1. diejenige, wozu man kan gezwungen werden; 2. die, wozu man nicht kan gezwungen werden. Bey der ersten bricht ab.
+
+**6583.**   η.   Pr II. Der beste Zustand der Menschen nach der Regel des Rechts ist die Gesellschaft, und der beste Zustand des Gesellschaftlichen Menschen in Ansehung seiner Sicherheit ist die Gewalt unwiederstehliche Gewalt, die ihn nöthigt, nach dieser Regel des Rechts zu verfahren. Die Wissenschaften und Künste machen, daß er weniger wiederstehe. Er wird dadurch nicht Besser, sondern Zahmer. Man kan ihn leicht durch einigen kleinen Eintrag in seinem Vergnügen oder durch Ehre ziehen. Er wird eigentlich schwächer, weil eine iede Bedürfnis ein Band ist, daß ihn an die Gesetze bindet, wenn sie gleich willkührlich wären.
+
+Das Ideal des Diogenes **de summo bono** war negativ, nemlich: kein Schmertz und kein Laster, das *minimum* der Mittel. Das des Epicurs negativ in Ansehung der Tugend und das *summum bonum* des Zeno in Ansehung der Glükseeligkeit.
+
+**6584.**   η.   Pr II. Daß man sich wohl befinde und wohl verhalte.
+
+Mittel zum ersteren: sinnliche Vergnügen; zum Zweyten: Tugend.
+
+[AA 19:95] (s *Natürliches* oder *mystisches ideal*; das letztere: wo die Mittel nicht in der Natur liegen. )
+
+Die Glükseeligkeit und das gute, Sittlichkeit, machen zusammen *summum bonum* aus.
+
+*Diogenes*: Glükseeligkeit in dem Mangel des Schmertzens ohne alles entbehrliche und Sittlichkeit im Mangel des Lasters.
+
+*Epicur*: Glükseeligkeit im Genuß des Größten Vergnügens ohne Sittliche Bestrebung.
+
+*Zeno*: Glükseeligkeit in der Größten Tugend ohne physische Vergnügen. *rectitudo.*
+
+*Summum bonum. Maximum* der Glükseeligkeit in dem *minimo* der Bedürfnisse und Einfalt. (g *minimum* der Tugend. )
+
+*Epicur*: *Maximum* der Glükseeligkeit in dem *maximo* der Bedürfnisse und deren Befriedigung.
+
+*Zeno*: *Maximum* der Glükseeligkeit allein durch die Tugend.
+
+Platonische moralphilosophie mystisch. *(g supernaturalis. ) terminus* *ad qvem* ist mit dem **a qvo* (g naturalis)* verwechselt.
+
+Cynische Secte: *minimum* der moralischen Bestrebung, um moralisch gut zu seyn, indem die Begierden auch in ihrem *minimum* seyn. Der Mensch der rohen Natur, System der Einfalt.
+
+Das *maximum* des Wohlbefindens und wohlverhaltens ist entweder durch das *Maximum* beyder besonders oder zusammen zu erhalten; das letztere ist das *maximum* derer Zenonen.
+
+Das Epikurische System ist ein system Ideal der Wohllust, das Stoische ein Ideal der Tugend und das Cynische ein Ideal der Einfalt.
+
+Nach dem ersten hieß es: man kan sich nur das Wohlverhalten besteht bloß in der Bestrebung de Abzwekung der Handlungen zu Wohlbefinden; nach dem Zweyten: das Wohlbefinden ist eine zusamenstimung unserer Begierde zum wohlverhalten. In ienem ist die (g ^g physische) Wollust in ihrem *maximo,* im zweyten in ihrem *minimo.*
+
+Das Wohlbefinden besteht aus der Verhältnis des Genusses zu den Begierden; wenn iener diesen gleich ist, so heißt es zufriedenheit. Die
+
+[AA 19:96] Zufriedenheit macht Gerade ein ganzes aus, und es ist einerley, ob viel Genuß in solchem Verhältnis zu viel Begierden oder wenig Genuß zu wenig Begierden stehen. Das übel besteht darin, daß der Zähler kleiner ist, und das Gute, daß er größer ist. Das gute ist in seinem *Minimum,* wenn die Begierden die kleinsten und der Genuß ihnen gleich ist.
+
+Das Wohlverhalten besteht in dem Verhältnis des Verhaltens zu unsern moralischen Vorschriften. d. i. zum Gewissen.
+
+Bey allen idealen ist das Maas der übrigen Verhältnisse in dem Verhältniße aus deren Gleichheit zu suchen.
+
+Die Alten hatten alle den fehler, daß sie aus ihren idealen Chimären machten. Die Stoiker aus ihrem Weisen, der als ein ideal richtig war, aber als eine wirkliche Vorschrift des Menschlichen Verhaltens thörigt.
+
+**6585.**   η.   Pr III. Das 1 ste Merkmal der Handlungen der Gütigkeit ist dieses, daß sie der Grund einer Verbindlichkeit in andern werden; und das der Schuldigkeit ist dieses, daß sie eine Verbindlichkeit, die da war, ungeschehen machen und also keine aufheben.
+
+Das 2te ist, daß die *omissiones morales* im zweyten fall negative Größen seyn und daß wirkliche handlungen dazu gehören, damit (g sie) wiederum = 0 werden. Die Ethische Unterlassungen sind = 0 und vermindern nicht den moralischen *valorem,* der schon da ist. Die Ethische pflichten sind daher unbestimt. Dagegen die *officia iuris* sind bestimt. Daß Verdienst einer *actionis iuris* ist = 0, denn -- a + a = 0; aber das Verdienst einer *actionis Ethicae* ist etwas: a + 0 = a.
+
+**6586.**   η? δ??   Pr III. Es sind verschiedene Grade der Bestimung unserer Willkühr:
+
+1. Nach allgemeinen Gesetzen der Willkühr überhaupt, das Recht.
+
+2. Nach allgemeinen Regeln des Guten überhaupt, die Gütigkeit.
+
+3. Nach allgemeinen Regeln des Privatguten, die (g vernünftige) Selbstliebe.
+
+4. Nach den besonderen Regeln einer Privatneigung, der sinnliche trieb.
+
+[AA 19:97] Die *motiva Moralia* sind von verschiedenen Graden:
+
+1. Das Recht eines Andern.
+
+2. Mein eigen Recht.
+
+3. Andrer Bedürfnis.
+
+4. Mein Bedürfnis.
+
+Der eigne Nutz ist kein Grund eines Rechts.
+
+Der Nutz vieler giebt ihnen kein Recht gegen einen.
+
+Das Recht gründet sich auf keine Bewegungsgründe der Gütigkeit.
+
+Wir sehen in moralischen Dingen (g durch das *sentiment* ) sehr scharf, aber nicht klar; z. E. ein Angeber wegen eines *criminis publici* wird verachtet, weil man die prvatpflichten nicht gantz und gar der publiqven aufopfern will. Man hat mitleiden mit einem Missethäter.
+
+**6587.**   η? δ??   Pr III. Ich kan unrecht thun gegen einen andern, ob ich ihm gleich nicht unrecht thue; *e. g.* der ein blind Pferd mit falschem Wechsel bezahlt. Dies ist Beweis, daß nicht allemal *obligatio erga aliqvem obligantem* voraussetzt.
+
+**6588.**   η? δ??   Pr III. Nächst den Pflichten der Schuldigkeit ist keine größer als die der Gegenliebe gegen die Liebe anderer und besonders der Erwiederung der uns gefalligen Handlungen, die wir von andern angenommen haben, mithin der Dankbarkeit.
+
+Die Pflicht der Eltern gegen Kinder ist eine strenge Pflicht der Schuldigkeit.
+
+**6589.**   η? κ?   Pr XV'. Gut ist etwas, so fern es mit dem Willen zusammenstimmt; angenehm: so fern es mit der Empfindung zusammenstimmt; nun kan ich einen Willen denken, indem ich von der Anmuth des Wollenden oder auch von dem subiect, dem diese Anmuth wiederfährt, abstrahire, also etwas Gutes, ohne auf die Anmuth zu sehen. Doch ist ohne alle Anmuth nichts Gut; aber die bonität besteht in der Beziehung auf den Willen. bis endlich die absolute bonität in der übereinstimmung der Glükseeligkeit mit dem Willen besteht.
+
+[AA 19:98] Die schönheit betrift immer das accidentale bey der bonität, nemlich die Verhältnis auf den Geschmak.
+
+**6590.**   η? κ?   Pr XVI'. Was zur Vollkommenheit Glükseeligkeit des Menschen beyträgt, gehört darum nicht zu seiner Vollkommenheit. Wen der rechtschaffene Man unglüklich und der lasterhafte glüklich ist, so ist der Mensch nicht unvollkomen, sondern die Ordnung der Natur.
+
+Bey den Pflichten gegen sich selbst muß der Werth der Person und nicht des Zustandes den Bewegungsgrund enthalten. Zu seiner Persohn gehört Seele und Körper und deren Vollkomenheit. Die Vollkomenheit besteht nicht im accidentellen Guten, z. E. Wissenschaft, Zierlichkeit *etc.*, sondern im wesentlichen. Allen Vergnügen müssen die Vollkomenheiten seines Körpers vorgezogen werden. allein in Ansehung der großen Verbindlichkeiten, *e. g.* seine Keuschheit zu erhalten, das recht anderer zu erfüllen, wird der Körper nicht mehr zur Persohn gerechnet; daher ist der tod selbst, obgleich kein willkührlicher, mit dem Werthe seiner Persohn verbunden.
+
+**6591.**   η? κ?   Pr XVI'. Wir haben eine Grundthätigkeit der Vernunft, nach welcher wir nicht umhin könen, unsere thätigkeiten einstimig mit der Vernunft auszuüben, und also ein Misfallen haben, so bald sie dadurch wiederlegt werden. Ich kan zum Exempel das Goldmachen, so bald ich es unmöglich finde, nicht anders als verwerfen. Nun sind alle Urtheile durch Vernunft nothwendig allgemein gültig; folglich, wenn sie nicht allgemein gültig seyn, sehe ich mich genöthigt sie zu verwerfen. D. i. ich kan wohl zwey entgegengesetzte Empfindungen in mir statt finden lassen, aber nicht zwey entgegengesetzte Erkenntnisse.
+
+**6592.**   η? κ?   Pr XVI'. Man sagt schlechthin, es ist nothwendig, dem triangel 3 Winkel beyzulegen. Eben so: es ist nothwendig, ein Versprechen zu halten.
+
+**6593.**   η.   Pr XVII'. Die Ordnung der Betrachtung über den Menschen ist folgende:
+
+1. Die Unbesti natürliche Unbestimtheit in der Art und proportion
+
+[AA 19:99] seiner Vermögen und Neigungen und seine zu allerley Gestalten fähige Natur.
+
+2. Die Bestimmung des Menschen. Der eigentliche Stand des Menschen: ob er in der Einfalt oder in der höchsten cultur seiner Vermögen und dem größten Genuß seiner Begierden bestehe. Ob aus dem Grade der fähigkeit auch ein natürlicher Endzwek erhelle, sei so hoch zu excoliren. Ob Wissenschaften nothwendig dazu gehören.
+
+(4. Der Wilde oder der (g rohe) Mensch der Natur. Ob dieser Zustand ein Stand des Rechts und der Zufriedenheit sey. Unterschied der persöhnlichen Vollkomenheit des rohen Menschen und derienigen, so er in Ansehung anderer hat. Ob der Mensch in diesem Zustand bleiben kan.)
+
+3. Der Mensch der Natur bloß nach seinen Persöhnlichen Eigenschaften erwogen, ohne auf seinen Zustand zu sehen. Es ist hier blos die frage: was ist natürlich, und was ist von äußerlichen und zufalligen Ursachen? Der Stand der Natur ist ein ideal der äußeren Verheltnisse des blos natürlichen, d. i. des Rohen Menschen. Der Gesellige Zustand kan auch aus Persohnen von blos natürlichen Eigenschaften bestehen.
+
+4. Aemil oder der Gesittete Mensch. Die Kunst oder cultur der Kräfte und Neigungen, welche am meisten mit der Natur übereinstimt. Hiedurch wird die natürliche Vollkommenheit Gebessert.
+
+5. Im äußeren Zustande.* Der Social contract (g Bürgerbund) oder das ideal des Staatsrechts (nach der Regel der Gleichheit) *in abstracto* Erwogen, ohne auf die besondere Natur des Menschen zu sehen.
+
+6. Leviathan: der Zustand der Gesellschaft, der der Natur des Menschen gemäß ist. Nach der Regel der Sicherheit. (g Ich kan entweder im Stande der Gleichheit seyn und freyheit haben, selbst ungerecht zu seyn und es zu leiden, oder im Stande der Unterwerfung ohne diese freyheit. )
+
+7. Der Völkerbund: das ideal des Völkerrechts, als die Vollendung der Gesellschaften in ansehung äußerer Verhältnisse.
+
+Der social contract. oder das öffentliche Recht als ein Grund der öffentlichen obersten Gewalt. Leviathan oder die oberste gewalt als ein Grund des öffentlichen Rechts.
+
+Pr XVIII': **(g** * der Stand der Natur: ein Ideal des *hobbes*. Es wird hier [AA 19:100] das recht im Stande der Natur und nicht das *factum* erwogen. Es wird bewiesen, daß es nicht willkührlich sey, aus dem Stande der Natur herauszugehen, sondern nothwendig nach Regeln des Rechts.
+
+Bey dem Rechte des Krieges einzelner personen gehet alles materiale des Rechts verlohren; aber bey Völkern, weil ieder einzelne als im frieden mit iedem einzelnen angesehen werden kan, so hat man nur ein Recht, das Ganze anzugreifen und die Güter, die ihm zugehören. **)**
+
+**6594.**   η.   Pr XVII'. Der Nutze bestimt nicht das Recht, sondern eines ieden einzelnen Willen. dieweil aber nach der Regel der freyheit ein ieder den Nutzen nach seinen eignen Gedanken bestimen muß, so hat der andere keine befugnis, über den Nutzen, sondern den Willen des andern zu urtheilen.
+
+Die Menge kan einen politischen Körper formiren nach regeln der Klugheit, obzwar er gar nicht nach Regeln des Rechts entsprungen ist.
+
+Niemand kan einem andern alle Gewalt abtreten, seine eignen Urtheile des rechts zu exseqviren, denn alsdenn wür ohne sich selbst eine gleiche Gewalt vorzubehalten, ihn zu seiner Verbindlichkeit zu nöthigen; denn alsdenn würde er einem andern ein recht geben, zu thun, was er will (*licentiam*); wenn der andere aber durch seine handlung nicht unrecht thun kan, so beruhen seine Handlungen nur auf seiner Gewalt und nicht auf seinem Recht.
+
+**6595.**   η.   Pr XVIII'. Man muß erstlich wissen: was da recht wäre, wenn ein jeder rechtmäßige Wille unwiederstehlich wäre; zweytens: durch welche Mittel eine unwiederstehliche gewalt mit einem Rechte verbunden wird, und was nur unter dieser condition zu thun erlaubt ist. Das Recht *in abstracto* läßt sich auch ohne das Mittel denken, wodurch es actuirt werden kan. Aber *in concreto* ist auf die sicherheit zu sehen, wodurch die conditionen des Rechts actuirt werden können.
+
+Was *in abstracto* wahr ist, ist auch *in concreto* wahr. Denn wenn etwas von einzelnen fällen abstrahirt ist --- ---
+
+Was aber *in universali* und abstracten notionen möglich ist, ist nicht immer *in concreto* möglich, weil das *universale* in ansehung vieler praedicate [AA 19:101] nicht bestimmt ist, deren Bestimmung *in concreto* angetroffen wird; daher, was dem *universali* nicht contradicirt, kan dem *individuo* oder der *speciei* wiederstreiten.
+
+Das *maximum in abstracto* ist durchgängig determinirt, aber es ist nicht immer *in concreto* möglich. Alle Eigenschaften eines *maximi in* *abstracto qva talis* sind nicht allein in ihm möglich, sondern auch wahr; aber *in concreto* könen sie unmöglich seyn, weil die Bestimungen des *maximi qva talis* den determinationen der *speciei* wiederstreiten.
+
+**6596.**   η.   Pr XVIII'. Alle handlung des Rechts ist ein *maximum* der freyen Willkühr, wenn sie gegenseitig genommen wird.
+
+Der Mensch ist geneigt, in jeder Größe das extrem zu sehen, das *maximum* und *minimum,* theils weil er nicht aufhört ohne diesen *terminum* in der addition und subtraction, theils weil er ein maß bedarf: Das Größeste wird entweder unbestimmt gedacht, in so fern man die bloße hinziehung gedenkt, als (Zahl) Raum, Zeit (g alles); oder bestimmt: wenn das großeste auf bestimmte Verhältnisse ankommt. Das größeste aller Wesen kan auf vielerley Weise bestimt gedacht werden nach den Verhältnissen, welche die mancherley realitäten der Dinge gegen einander haben könen, um die Größe zu vermindern oder zu vermehren.
+
+Dieses Großeste wird entweder Gedacht durch gewisse bestimungen eines Dinges, die gegen einander in veränderlichen Verhältnissen seyn, selbst gegeben, oder es besteht blos in der willkührlichen vergrößerung. Das letztere ist ein ideal der Erdichtung, das erste ein ideal der Vernunft, welches sich ins blos mathematische und philosophische ideal unterscheidet. Das Kleineste (g der Kraft beweglich) kan ein moment heißen.
+
+Es giebt kein eigentlich *maximum* und *minimum* in absolutem Verstande bey qvantitativen *continuis,* aber wohl bey *discretis.*
+
+#### [AA 19:102] Coactio moralis
+
+**6597.**   η? κ--λ? ξ--ρ?   Pr 26.27.   Neben den drei letzten Sätzen von § 56. Pr 26: (g *Coactio moralis per arbitrium alterius includit debitam passionem* *omnium sensitive displicentium, qvatenus* Pr 27: *necessitantur* *per arbitrium alterius.* )
+
+Pr 26: Wenn ich einer *obligationi iuris* ein Gnüge thue, so verbinde ich mir dadurch keinen andern.
+
+Wenn ich einer *obligationi Ethicae* ein Gnüge thue, so obligire ich einen andern; da es keine *necessitas moralis* ist, andere zu obligiren: so sieht man, daß die *obligatio Ethica* eine *affluentia moralis* sey. *Necessitatio* *moralis per statum alterius est Ethica.*
+
+*obligatio Ethica* eine *affluentia moralis* sey. *Regula iuris est: neminem impedire in usu arbitrii sui liberi contenti* *sub lege arbitrii communis.*
+
+*obligatio Ethica* eine *affluentia moralis* sey. *Regula Ethica est: voluntati etiam inefficaci aliorum addere complementum* *ad sufficientiam secundum regulas voluntatis communis.*
+
+*obligatio Ethica* eine *affluentia moralis* sey. *Qvoniam cogendo alterum ad conformitatem actionis suae cum regulis* *arbitrii universalibus facio consentire arbitrium meum cum regulis* *generalibus, coactio est licita.*
+
+*obligatio Ethica* eine *affluentia moralis* sey. *Sed si aliqvem cogo ad obli debitum alii praestandum, actus arbitrii* *mei mei non conte impedit est illicitus.*
+
+Meine obere Willkühr ist bey aller andern moralitaet nur den *motivis,* aber nicht eines andern Willkühr unterworfen, ausser beym Recht.
+
+### [AA 19:103] Phase κ.
+
+#### Allgemeines.
+
+**6598.**   κ--λ? (η?)   Pr IV. Die Mittel sind nur die Form der intention oder die Methode der Ausführung, der Zwek ist die Materie. Handlungen sind den Mitteln nach oder dem Zwek nach Vernünftig; im ersteren falle determinirt die Vernunft die Form, im Zweiten auch die Materie der Absicht.
+
+Verstand ist nur mittelbar Gut, als ein Mittel zu anderm Guten oder zur Glükseeligkeit. Das unmittelbare Gute kan nur bey der Freyheit angetroffen werden. Denn weil die freyheit ein Vermögen ist zu handeln, ob es gleich uns nicht vergnügt: so hat es ist sie nicht an die Bedingung eines Privatgefühls gebunden; da sie aber gleichwohl immer nur auf das geht, was da beliebt, so hat es ein Verhältnis aufs Gefühl und kan ein allgemein gültiges Verhältnis haben auf das Gefühl überhaupt. Daher nichts einen absoluten Werth hat als Persohnen, und dieser besteht in der bonitaet ihrer freyen Willkühr. Gleich wie die freyheit den ersten Grund von allem enthält, was anfängt, so ist sie auch, was die Selbstandige bonitaet allein enthält.
+
+*Das moralische Gefühl ist kein ursprünglich Gefühl.* Es beruhet auf einem nothwendigen inneren Gesetze, sich selber aus einem äußerlichen Standpunkt zu betrachten und zu empfinden. Gleichsam in der Persöhnlichkeit der Vernunft: da man sich im allgemeinen fühlt und sein *individuum* als ein Zufellig subiect wie ein *accidens* des allgemeinen ansieht.
+
+**6599.**   κ--λ? (η?)   Pr IV. Es giebt zweyerley Gefühl: nemlich entweder des Abscheues oder der Schwierigkeit sich wozu gewöhnen zu können. Das Unrecht ist gleichsam [AA 19:104] etwas linksches vor den, der die Umkehrung der Befugnis iederzeit in Gedanken hat.
+
+Das moralische *sentiment* wird nur zur Neigung, indem andere, z. E. Ehrliebe (was andere denken), dazu kommt.
+
+**6600.**   κ--λ? (η?)   Pr V. Das Wohlwollen findet nur statt, wenn man sich selbst wohl befindet.
+
+**6601.**   κ--λ? (η?)   Pr V. Von dem Sittlichen ideal der alten, dem höchsten Gut. Es ist entweder negativ oder positiv. d. i. Mangel des Lasters und schmertzens, Unschuld und Gnugsamkeit, oder tugend und Glükseeligkeit Die letztere sind entweder so subordinirt, daß die Glükseeligkeit eine Nothwendige Folge der Tugend oder die Tugend eine Nothwendige Form der Mittel zur Glükseeligkeit ist. Das erste ist der stoicism, das Zweyte der epicureism. Endlich so ist entweder der Grund des höchsten Gutes in der Natur oder in der Gemeinschaft mit dem höchsten wesen. ienes *principium* ist natürlich, das Zweyte mystisch. Diese ist die platonische theorie.
+
+Alles, was an sich selbst gut ist, achten wir hoch;, was *respective* auf uns gut ist, lieben wir. Beydes sind Empfindungen. Iene ist vorzüglich in der idee diese in der der Billigung, diese ist mehr ein Grund der Neigung. Was wir hochachtungs würdig finden, achten wir wirklich hoch; was wir liebenswürdig finden, lieben wir nicht immer, wenn es nemlich nicht besonders mit uns in Verknüpfung ist.
+
+Beyde Empfindungen sind einander etwas entgegen. Die Partheylichkeit gegen uns macht, daß wir den lieben, aber nicht hochschätzen.
+
+Wir haben einen größeren trieb, geachtet als geliebt zu werden, --- aber einen größeren zur Liebe gegen andere als zur Achtung. Denn in der Liebe gegen andere empfindet er seinen eignen Vorzug, in der Achtung vor andere schränkt er diesen ein.
+
+Alle wirkliche Bewegungsgründeursachen der Handlungen sind entweder pathologisch (oder subiectiv) und heißen Antriebe, oder sie sind... (obiectiv) und heißen *motiva*. Diese sind pragmatisch oder moralisch. Die [AA 19:105] allgemeine pragmatische *imperativi* sind auch categorisch; aber als denn sind sie mehr solche Sätze, welche sagen, was iederman will, als was er wollen soll.
+
+**6602.**   κ--λ? (η?)   Pr V. Lieben mit der Liebe der Wohlgefallens Dankbarkeit kan nur der, so sich wohlbefindet.
+
+**6603.**   κ--λ? (η?)   Pr V. VI. Pr V: Was nur unter der Bedingung einer bestimten Neigung oder Gefühls gefällt, ist angenehm; was unter der Bedingung einer bestimten Natur der Erkentniskraft, wodurch alle Gegenstände des Gefühls erkant werden müssen, gefällt, ist schön; was ohne Beziehung auf ein besonderes Gefühl oder eine besondere Erkentnisfähigkeit eine allgemeine und nothwendige Beziehung auf Glükseeligkeit überhaupt hat, ist gut. Z. E. Nichtseyn misfällt nothwendig, wenngleich dieses misfallen durch besonderen Abscheu überwogen wird; Krankheit, Verstümmelung der Persohn bedürfen keines besonderen Gefühls zum Misfallen. Alles Recht hat eine allgemeine Beziehung auf Glükseeligkeit, Pr VI: so fern sie ieder durch sich selbst hervorbringt, so doch, daß die Regeln der Privatabsicht einander nicht wiederstreiten nach allgemeinen Gesetzen. Alle Liebespflicht besteht in der begierde, allgemeine (nicht blos eigne) Glükseeligkeit durch eigene Handlungen zu befördern.
+
+Eine willkührliche Fingirte Absicht ohne Bewegungsgründe bricht ab?
+
+**6604.**   κ--λ? (η?)   Pr VI. In dem Character eines Fürsten ist die Gerechtigkeit mit der Gütigkeit völlig einerley, obzwar im Privatcharakter beyde sehr von einander unterschieden seyn können. Daher in dem Unrecht gegen seine eigne Persohn die Gütigkeit noch der Gerechtigkeit entgegen gesetzt ist.
+
+**6605.**   κ--λ? (η?)   Pr VI. Es giebt eine freye Willkühr, welche keine eigne Glükseeligkeit zur Absicht hat, sondern sie voraussetzt. Die wesentliche Vollkommenheit eines [AA 19:106] frey handelnden Wesens beruhet darauf, daß diese freyheit der Willkühr Neigung nicht unterworfen werde oder überhaupt gar keiner Fremden Ursache unterworfen sey. Die Hauptregel äußerlich guter Handlungen ist nicht die, so mit anderer Glükseeligkeit, sondern mit ihrer Willkühr zusammenstimt, und gleichwie die *Vollkomenheit* eines subiects nicht darauf beruht, daß es glükselig sey, sondern daß sein *Zustand der freyheit* *subordinirt* sey: so auch die allgemein gültige Vollkommenheit, daß die Handlungen unter allgemeinen Gesetzen der Freyheit stehen.
+
+**6606.**   κ? λ? ο?   Pr IV. Das System des feinsten Eigennutzes ist darin von dem Lehrbegrif der sich selbst gnugsamen Tugend unterschieden, daß diese die Tugend an sich selbst liebt und darum nicht umhin kan, einen allsehenden Richter ihrer Reinigkeit und ihre Belohnung zu hoffen. Die Tugendliebe ist der Hofnung glüklich zu seyn, und diese giebt ihr stärke, dem Unangenehmen, was mit ihr verbunden ist, zu wiederstehen. Dagegen im ersteren System ist die Hofnung der Glükseeligkeit womöglich ein Grund der tugend, eigentlich ein Grund kluger Handlungen, die eben dieselbe Wirkung, aber nicht aus denselben *principiis* leisten.
+
+**6607.**   κ? λ? ο?   Pr VI. Die Alten coordinirten nicht Glükseeligkeit und Sittlichkeit, sondern subordinirten sie; weil, wenn beyde zwey unterschiedene Stüke ausmachen, deren Mittel verschieden seyn, sie ofters im Streite sind. Die stoische Lehre ist die warhafteste der reinen moral, aber am wenigsten der Natur des Menschen angemessen. es ist auch das leichteste einzusehen. Das epicureische ist weniger wahr, aber mehr den Neigungen der Menschen vollkommen angemessen. Das cynische ist der menschlichen Natur am gemäßesten in der idee, aber in der execution am wenigsten Natürlich und ist das ideal der künstlichsten Erziehung so wohl als der bürgerlichen Gesellschaft.
+
+Das stoische ideal ist das richtigste reine ideal der sitten, aber in *concreto* auf die Menschliche Natur unrichtig; es ist richtig, daß man so verfahren soll, aber falsch, daß man iemals so verfahren wird. Das ideal [AA 19:107] des Epicurs ist nach der reinen regel der sitten und also in der theorie des sittlichen *principii* falsch, obzwar in den sittlichen Lehren wahr; allein es stimmt am meisten mit dem Menschlichen Willen. Das cynische betrift *blos* die *Mittel* und ist in der theorie richtig, in der *praxi* aber sehr schweer, obzwar die *norma.* Die vorige ideale waren blos theorien der moralischen Erklä Philosophie, das cynische blos eine Lehre der Mittel.
+
+**6608.**   κ--λ? η??   Pr VII. Eine Lehre ist practisch, wenn sie nicht blos müssige Erkenntnisse enthält, sondern auch ein Mittel der execution derselben ist. Auf solche Weise wird die moral selbst vornemlich logic zumeist practisch vorgetragen vornemlich. Die practische philosophie ist eine philosophie über die *praxis,* scheint ofters *otiosa,* und ein Mittel der diiudication, nicht der execution.
+
+**6609.**   κ--λ? η??   Pr VII. *liberatur vel res vel persona; si prius: res est vacua sive vacans.*
+
+**6610.**   κ--λ? η??   Pr VII. Die Sittlichkeit ist eine obiective Abhängigkeit Unterordnung des Willens unter die Bewegungsgründe der Vernunft. Die Sinnlichkeit (*practice*) eine *subordinatio* des Willens unter die Neigung.
+
+Neigungen werden vereinigt, vereinigt durch die Vernunft, stimen zur Glükseeligkeit, d. i. zum Wohlbefinden aus der dauerhaften Befriedigung aller unserer Neigungen. Neigungen einzeln, wenn sie (g auf) die Befriedigung der übrigen verhindern die Aufmerksamkeit verhindern, wiederstreiten der Glükseeligkeit. Affecten Leidenschaften also wiederstreiten natürlicher Weise so wohl der Glükseeligkeit als der Sittlichkeit. Die Glükseeligkeit stimt aber nur zufelliger Weise mit der Sittlichkeit (*actualiter* *sive subiective*); allein *obiective* stimt sie damit Nothwendiger Weise, d. i. die Würdigkeit glüklich zu seyn.
+
+[AA 19:108] **6611.**   κ--λ? η??   Pr VII. VIII. 139. Pr 139: **(s** Der Begrif, die Idee, das Ideal. Der Begrif ist ein allgemeiner Unterscheidungsgrund (Merkmal). Der Begrif *a priori* hat allein wahre allgemeinheit und ist das *principium* der Regeln. Von der tugend ist nur eine Beurtheilung nach Begriffen, mithin *a priori,* moglich. Die empirische nach Anschauungen in Bildern oder nach Erfahrung giebt keine Gesetze, sondern blos Beyspiele, welche einen Begrif *a priori* zur Beurtheilung fodern. Viele sind nicht fehig, aus Begriffen ihre principien abzuleiten.
+
+Idee ist die Erkentnis des reinen *a priori* (g des Verstandes), wodurch der Gegenstand möglich wird. Sie bezieht sich auf das obiectiv practische als ein *principium.* Enthält die größte Vollkommenheit in gewisser absicht. Ein Gewachs ist nur nach einer idee möglich. Die ist blos im Verstande und beym Menschen in Begriffen. Das sinnliche ist nur das Bild. *e. g.* beym Hause enthält die idee alle Zweke. Der Abris ist nur das sinnliche, was der idee Conform ist. Alle moralitaet beruht auf ideen, und ihr Bild am Menschen ist iederzeit unvollkommen. Im göttlichen Verstande sind es Anschauungen seiner Selbst, mithin Urbilder.
+
+Ideal ist die Vorstellung eines Gegenstandes der Sinne conform einer idee und der intellectuellen Vollkommenheit in Ihr. Ideale gehen nur auf Gegenstände des Verstandes und sind nur bey Menschen und an denselben *fictiones.* Es ist eine Erdichtung, um eine idee in der Anschauung *in concreto* zu setzen.
+
+Die drey ideale der moralität aus Begriffen. Das mystische ideal der intellectuellen Anschauung des *Plato*. Heiligkeit ist Ideal des übernatürlichen Einflusses.
+
+(g Begrif von Pflanze, aber nicht idee. ) **)**
+
+[AA 19:109] Pr VII: Das Ideal der Unschuld. Der Klugheit. Der Weisheit. Tugend Der Weisheit und der heiligkeit*. (s ideale *etc.* *etc.* ) (s Das cynische ideal war negativ. )
+
+Im 1sten Einfalt in Sitten und Gnugsamkeit im Wohlbefinden.
+
+2. Sittlichkeit wird dem Zweke den als die nothwendige Folge der klugen Absicht auf glükseeligkeit angesehen, daher in Sitten das Wohlbefinden in Ergötzlichkeiten und die Tugend in der thätigen Erkentnis der Mittel.
+
+3. Die Weisheit hat nur zum Zweke das Gute, die vollkommenheit; und das Wohlbefinden hängt nicht von den Sachen und der Empfindung ab, sondern der weise ist in seiner Tugend glüklich. Dem epicuraeer waren besondere Gesetze der Sittlichkeit, dem Stoicker besondere gesetze der Klugheit entbehrlich.
+
+4. Die heiligkeit hat zum Wohlbefinden seeligkeit. Entspringt aus der Gemeinschaft mit Gott.
+
+Mittel. philosophie oder fantasie. Enthusiastisch, fanatisch, mystisch. )
+
+Pr VIII: Das epicureische ideal bestand in der *Befriedigung* der gesamten vereinigten Neigungen, das stoische in der Gewalt und Herrschaft über alle. Das der heiligkeit in dem Moralischen Frieden mit allen, d. i. ihrer harmonie, oder auch der Befreyung, das cynische in der mittelmaas Vertilgung von allen.
+
+Pr VII: (s Die Cyrenaische philosophie. *de la Mettrie* macht die Sittlichkeit zur bloßen Geschiklichkeit in Befriedigung unserer Begierden. Helvetius. )
+
+[AA 19:110] (s 1. Der Mensch der Natur (g nicht der rohen und thierischen, sondern des weisen nach den Absichten der Natur eingerichteten Menschen). 2. Der Weltmann. 3. Der Weise. 4. Der Christ und Platonicker. )
+
+(s Das höchste Gut. Pr VIII: Die Gründe des Höchsten Guts liegen entweder in der Natur, und die Vorschriften sind nur negativ als Gnugsamkeit und Unschuld, nemlich die Natur nicht zu verderben, oder der Kunst, angewandt auf Glükseeligkeit (Klugheit), oder auf Sittlichkeit (Tugend, Weisheit), oder in einem Wesen über die Natur: Heiligkeit und Seeligkeit. )
+
+Pr VII: (s Sittlichkeit, Würdigkeit Glücklich zu seyn Pr VIII: liegt im Verhalten. Alle Würdigkeit liegt im Gebrauch der freyheit. )
+
+**6612.**   κ--λ? η??   Pr VIII. Alle philosophie ist entweder theoretisch (g von obiecten): enthält (g den Gebrauch oder auch die) regeln des Verstandes (die Allgemeine Logic), oder practisch* (g von der freyen Handlung, sie wirklich zu machen): enthält regeln des freyen Willens.
+
+was keinen Gebrauch hat, ist unütz. sie sind in der intention die ersten, die Zweke gehen vor den Mitteln vorher, aber in der execution sind die theoretische die erste. )
+
+Alle practische philosophie entweder 1. *obiectiv* oder 2. *subiectiv*. 1. des moglichen guten Verhaltens: die Bedingungen der Vollkomenheit; 2. des Wirklichen verhaltens. Die obiective ist entweder: 1. welche die Mittel vorschreibt zum allgemeinen Zweke, nemlich Glükseeligkeit; 2. Welche den Zwek vorschreibt, der da würdig macht glüklich zu werden.
+
+**6613.**   κ--λ? η??   Pr VIII. Die Lehre der Klugheit ist eine Lehre des Praktischen Verstandes.
+
+Die der Sittlichkeit enthält eigentlich Gesetze des Willens.
+
+[AA 19:111] (s Practisch: in so fern sie der speculation contradistinguirt wird oder der theoretischen. )
+
+(s Die Moral kan eine bloße Beurtheilung und theorie seyn, und es ist noch eine practische Lehre der Sitten nöthig. )
+
+**6614.**   κ--λ? η??   Pr VIII. Der Zwek der Erkentnis ist entweder das unmittelbare Vergnügen oder der Gebrauch zu einem andern oder der Gebrauch zu dem Nutzen.
+
+**6615.**   κ--λ? η??   Pr VIII. Man muß die moralische Bewegungsgründe aus dem Gemische der übrigen (imgleichen des Wohlgefallen an der Geschicklichkeit der Ausführung) herausziehen; es ist von reinen und himmlischen Ursprüngen; man findet sich dadurch, wenn man es in seinem Verhalten bemerkt, gleich veredelt und sieht alle Glükseeligkeit nur als das Gefolge davon an.
+
+**6616.**   κ--λ? η??   Pr VIII. Die (g Zufriedenheit aus der) Befreyung von Schmerz ist die Wohlfarth.
+
+Die Zufriedenheit aus der Befriedigung der Neigungen Glükseeligkeit.
+
+Die Zufriedenheit aus der Selbstgnugsamkeit zum Vergnügen ist die Seeligkeit aus einem Besitze des Wohlbefindens, der von äußeren Dingen unabhängig ist, ist Selbstzufriedenheit. Die Selbstzufriedenheit, zu der die Welt keinen äußeren Zusatz enthält, seeligkeit.
+
+(g *Aristipp*: bloße Lehre der Geschiklichkeit. *Epicur*: der Klugheit, worin Glükseeligkeit bestehe und wie man zu ihr gelange: das fröhliche Hertz. Nicht sich alles überflüßige zu versagen, sondern was nicht beständig gefällt. *Zeno*: die Regeln, wie man würdig werden soll glüklich zu seyn. )
+
+[AA 19:112] **6617.**   κ--ρ.   Pr VIII. Der Hauptfehler des epicurs ist, daß er die principien der Ausübung unter die der Beurtheilung setzt, des *Zeno* aber Umgekehrt.
+
+**6618.**   κ--ρ.   Pr VIII. (s Die Geschiklichkeit, die lauter Gute Zweke hat, ist Weisheit. )
+
+Praktische Wissenschaften:
+
+1. der Geschiklichkeit (s Der zwek ist beliebig) (s imperirt problematisch);
+
+2. der Klugheit (s imperirt categorisch);
+
+3. der Sittlichkeit (s imperirt apodictisch);
+
+4. Weisheit. (g Weisheit ist eine Sittlichkeit, die durch Klugheit (administrirt) unterstützt wird. )
+
+Moralphilosophie:
+
+1. *Pura,*
+
+2. *Applicata* (g besondere Umstände),
+
+*a. theoretica,*
+
+*b. practica.*
+
+(s Zwek des Menschen: Persöhnlicher Werth: moralisch. Natur hat keinen eigenthümlichen Werth. )
+
+(s diiudication der Glükseeligkeit ist durch die allgemeine Neigung gegeben, die der Verstand erkennt. Vernunft sucht Mittel. )
+
+**6619.**   κ--λ? (η?)   Pr IX. *Epikur* nahm die subiective Gründe der exsecution, die uns zum Handeln bewegen, vor obiective Gründe der *diiudication*. *Zeno* umgekehrt. Daß epicur alles auf korperliche Reitze aussetzt, scheint mehr eine Meinung, die Entschließungen der Menschen zu erklären, als eine Vorschrift zu seyn. Selbst die *größesten geistige* Freuden finden Zwar den Grund ihrer approbation im intellectualen Begrtf, ihre *elateres* aber im Sinnlichen.
+
+Es ist besonders, daß der vorgestellte Nutzen und Ehre nicht die so starke entschließung der Tugend nachzuahmen hervorbringen können, als das reine Bild der Tugend an sich selbst; und selbst, wenn man im Geheim [AA 19:113] durch Aussicht auf Ehre getrieben wird, thut man es doch nicht um dieser Ehre willen allein, sondern nur so ferne wir uns durch eine geheime überredung einbilden können, die Grundsätze der Tugend hätten es hervorgebracht. Wir müssen uns vor unsern eignen Augen die mechanic unserer eigennützigen Antriebe verbergen.
+
+Das kräftigste Mittel, die Menschen zum moralisch guten anzutreiben, ist also die Vorstellung der reinen Tugend, um sie hochzuschätzen und deutlich zu sehen, daß man sich selbst nur schätzen kan, in so fern man ihr gemäß ist, daß man aber auch zeige, dieses sey das einzige Mittel, von andern Geschätzt und geliebt zu werden, hiedurch die größeste Sicherheit und Gemächlichkeit, lauter folgen, um derer willen man zwar nicht das Gute thut, die es aber begleiten. Man muß die Neigungen, die mit der moralitaet nahe zusammen stimen, excitiren: Ehrliebe, Geselligkeit, freyheit.
+
+Es besteht also die *praxis* der Sittlichkeit in derienigen formirung der Neigungen und des Geschmaks, der uns fähig macht, unser Be die handlungen, die auf unser Vergnügen hinaus laufen, auch als sol mit den moralischen principien zu vereinigen. Dieses ist der tugendhafte, folglich der, welcher seine Neigungen den moralischen Grundsätzen zu conformiren weiß.
+
+(s Der gegenwärtig verheissene Nutzen kan auch wohl ohne alle moralitaet zu derselben handlung antreiben, die die Sittlichkeit befehlen würde. Allein niemals wird iemand aus blossen selbstliebigen Bewegungsgründen sich allgemein und nach einer allgemeinen Regel solchen handlungen unterziehen ohne allen moralischen Bewegungsgrund oder dessen überredung. )
+
+**6620.**   κ--λ? (η?)   Pr X. Daß *epicur* aus der corperlichen sinnlichkeit alle Triebe der Natur herleitete, kan ihm nicht zur Beschuldigung gereichen, als wolle er, man soll diese cörperliche Vergnügen sich iederzeit zu seinem Zweke vorsetzen. Man er Die Natur hat sie in uns gelegt, um uns zu treiben; wir sollen aber ofters gantz andere und edlere Absichten uns vorsetzen, und denn wird die Befriedigung dieser triebe uns noch schmakhafter werden. So [AA 19:114] ist bey dem rechten und dauerhaften Vergnügen der Geschlechterneigung das liebenswürdige Gemüth die Absicht, die wir uns vorsetzen sollen. Wir würden aber dadurch wenig getrieben werden, wenn nicht der reitz des Geschlechts iene Vorstellungen begleitete, und wir machen unser Vergnügen schmakhafter, wenn wir es unter edleren Absichten verdecken. Die Ehre treibt uns in tugendhaften Handlungen; allein man muß sie zu fliehen scheinen, um sie zu erhalten.
+
+**6621.**   κ--λ? (η?)   Pr X. Die Lehre der Tugend schränket nicht so sehr die Vergnügen der Sinnlichkeit ein, als daß sie vielmehr lehrt, unter den verschiedenen Arten derselben dieienige wählen, welche am meisten Zusammenstimung mit den Regeln des allgemeinen Beyfalls haben, welches doch immer die beste allgemeine Regel der Klugheit ist. Denn sich darauf zu verlassen, daß man ohne Regel sich in iedem Zustand Falle nach dem größesten Gewinn richte, ist zu ängstlich und läßt das Gemüth iederzeit in Unruhe. (überdem muß das Betragen, was man allgemein Vorschreibt, auch so angenommen werden, als wenn die Absicht desselben allgemein bekannt und gebilligt werde.) Es giebt aber verschiedene Qvellen der Zufriedenheit, worunter wir wahlen können. Kan ich nicht durch allgemein gebilligte Mittel Reichtum erwerben, so werde ich das Zutrauen meiner freunde haben; ich werde eingeschränkt, aber ohne Bangigkeit der Verantwortung oder frey leben können. (s Wissenschaft, Geschiklichkeit, Klugheit, Weisheit, Kentnis, Geschiklichkeit *etc.* *etc.* Denn Kentnis kan ohne Geschiklichkeit seyn. )
+
+überhaupt scheint uns die Natur wegen aller unsrer handlungen den sinnlichen Bedürfnissen zuletzt unterworfen zu haben. Allein es war nöthig, daß unser Verstand zugleich allgemeine Regeln entwarf, wie wir nach denen wir die Bestrebungen zu unserer Glükseeligkeit zu ordnen, einzuschränken und übereinstimig zu machen hätten, damit unsere blinde triebe uns nicht auf blosses Glük bald hie, bald dahin trieben. Es ist aber Da diese sich gewohnlicher Maassen wiederstreiten, so war ein Urtheil nöthig, welches in Ansehung ihrer aller unpartheiisch und also abgesondert von aller Neigung blos durch den reinen Willen die Regeln entwarf, die, vor alle Handlungen und vor alle Menschen gültig, die grösseste Harmonie [AA 19:115] eines Menschen mit sich selbst und mit andern hervorbrächten. Man mußte in diese Regeln die wesentliche Bedingungen setzen, unter welchen man seinen trieben gehör geben konnte, und als wenn die Beobachtung derselben an sich selbst ein gegenstand unseres Willens seyn könte, welchen wir selbst mit Aufopferung unsrer Glükseeligkeit verfolgen musten, ob sie zwar nur die beständige und zuverlässige Form war.
+
+*Epikur* setzte die Zweke aller tugendhaften Handlungen blos in dem Verhältnisse der obiecten zur Sinnlichkeit, d. i. zur befriedigung der Neigungen, eben so wohl als in den lasterhaften, und unterschied die tugend nur durch die form der Vernunft in Ansehung der Mittel.
+
+*Zeno* setzte alle Zweke tugendhafter handlungen blos in dem intellectualen und der Besiegung der ganzen Sinnlichkeit.
+
+Nach ihm war die Selbstbilligung die gantze wahre Glückseeligkeit. Die Zufälligkeiten des Zustandes waren doch der Persohn nicht eigen. Der nur innere Werth der Persohn.
+
+**6622.**   κ--ρ.   Pr X. In vielen fällen scheint der Zusatz des Vortheils das moralische Vergnügen zu verringern. Ich möchte zu der Zeit, da ich iemandem aus Dankbarkeit einen großen Dienst thue, nicht gerne eine Belohnung davor annehmen, damit meine Zufriedenheit rein sey.
+
+**6623.**   κ--λ? (η?)   Pr XI. Wenn ein besonder Gefühl die Ursache der moralischen Unterscheidung wäre, so würde die höchste Misbilligung des Lasters eigentlich aus dem größesten Abscheu oder der Unangenehmsten Empfindung, welche die Vorstellung desselben begleitete, entspringen, und es würde daher der Moralische Bewegungsgrund natürlicher Weise andere überwiegen. Nun urtheilen wir nur, daß er billig alle andre überwiegen solte. Das, was wir des Abscheues würdig erkenen, verabscheuen wir wirklich an andern. Wir hassen aber doch mehr an andern die uns nachtheilige Eigenschaften als sein moralisch Böses, doch so, daß wir um des letzteren Willen die Persohn mehr verachten und tadeln.
+
+[AA 19:116] **6624.**   κ--λ? (η?)   Pr XI. Die theorien der alten scheinen darauf abzuzielen, die beyde Elemente oder wesentliche Bedingungen des höchsten Gutes: Glükseeligkeit und Sittlichkeit auf eines zu bringen. *Diogenes* auf ein negatives, nemlich Einfalt der natur. *Epicur* die Sittlichkeit auf die selbstbewirkte Glükseeligkeit als. *Zeno* die Glükseeligkeit auf die selbstgnugsame Sittlichkeit. *Epicur* sagte die Die systeme der Neueren dienen, das *principium* der moralischen Beurtheilung zu finden. Ausser denen, die es aus empirischem Ursprunge herleiten (Gewonheit oder Obrigkeit), sind theilen sie sich in die moralisten der reinen Vernunft und die der sittlichen Empfindung. Von ienen hat - - - die Regel der Warheit als die Richtschnur der Sitten, Wolf den Begrif der Vollkommenheit davor angenommen. Allein der allgemeine Begrif der Vollkomenheit ist nicht durch sich selbst begreiflich, und von ihm wird keine practische Beurtheilung abgeleitet, sondern er ist vielmehr selbst ein abgeleiteter Begrif, indem das, was in besonderen Fallen gefallt, mit dem allgemeinen Nahmen vollkommen belegt wird. Aus diesem Begriffe (aus dem man gewiß nicht urtheilen würde, was Schmertz oder Vergnügen ist) werden alle practische (obgleich tavtologische Regeln, nemlich daß man das Gute thun soll) Vorschriften so wohl in Ansehung der Sittlichkeit als glükseligkeit hergeleitet und dieser Unterschied nicht gewiesen.
+
+**6625.**   κ--λ? (η?)   Pr XI. Alle systeme sind entweder die, so aus Vernunft, oder Gefühl die moralitaet herleiten (aus dem Zwange der Obrigkeit, und aus Gewonheit).
+
+Die Aus Vernunft: entweder der Warheit oder der Vollkomenheit (g Mittelstraße der Neigungen: *Aristoteles* ). *Wolf* machte den allgemeinen Nahmen der Vollkomenheit zum Grunde sie zu bestimen und nante nicht dasienige oder die Zweke d die Bedingungen, unter welchen Handlungen und Zweke Gut sind und den Nahmen vollkomenheit verdienen.
+
+**6626.**   κ--λ? (η?)   Pr XI. Die Lehre des Moralischen Gefühls ist mehr eine Hypothese, das *phaenomenon* des beyfals, den wir einigen Arten von handlungen geben, [AA 19:117] zu erklären, als daß sie maximen und erste Grundsatze fest setzen solte, die obiectiv gelten, wie man etwas billigen oder verwerfen, thun oder lassen soll.
+
+**6627.**   κ--λ? (η?)   Pr 1. Die Bedingungen, ohne welche die *Billigung** einer Handlung nicht *allgemein* seyn (g nicht unter einem allgemeinen Grundsatz der Vernunft stehn) kann, sind *moralisch*. Die Moralische Bedingungen der Handlungen machen die Handlungen, die mit ihnen stimen, erlaubt und schränken die pathologische ein. Die Billigung einer Handlung kan nicht allgemein seyn, wenn sie nicht ohne Beziehung auf die sinnliche Antriebe des Handelnden gründe der Billigung enthält. Demnach gehet die allgemeine Billigung auf den obiectiven Zwek der Sache oder eines Vermögens, (*e. g.*) der freyheit der Sprache, und dieser schränkt alle subiectiven Zweke ein. Daher die Zweke, die der Mensch aus Neigung hat, sind von dem Zweke, wozu der Mensch diese oder iene Eigenschaften, Gliedmaaßen und Neigungen hat, zu unterscheiden. Dieser ist der ursprüngliche oder originale, iener der (g billig) untergeordnete Zwek.
+
+Willens)
+
+**6628.**   κ--λ? (η?)   Pr 1. Die erste Untersuchung ist: Welches sind die *principia prima diiudicationis* *moralis* (s theoretische regeln der diiudication), d. i. welches sind die oberste maximen der sittlichkeit, und welches ist ihr oberstes Gesetz.
+
+2. Welches ist die Regel der Anwendung (s practische der diiudicirenden apllication) auf ein obiect der diiudication. (sympathie andrer und ein unpartheyischer Zuschauer.) 3. Wodurch werden die sittliche Bedingungen *motiva,* d. i. worauf beruhet ihre *vis movens* und also ihre Anwendung aufs subiect? Die letztere sind erstlich das mit der moralitaet wesentlich verbundene *motivum,* nemlich die Würdigkeit glüklich zu seyn.
+
+**6629.**   κ--λ? (η?) (ν--ξ?)   Pr 1. Wenn alle gute handlungen gewis keinen vortheil fänden und das [AA 19:118] Glük blos ein Preis der Arglist oder ein Loos des blinden zufalls wäre, so würde ein gut denkender Mensch doch der moralischen Regel aus Sentiment folgen, so fern es nur nicht seinen größten Schaden zu wege brächte, wegen der größeren schönheit. Wenn die Glükseeligkeit unmittelbar dadurch könte gewonnen werden, so würde die moralische Schönheit ganz in dem Eigennutz verschlungen seyn und niemals die Ehre des Verdiensts erwerben. Nun es einen Natürlichen Vortheil nach allgemeinen Gesetzen bringt tugendhaft zu seyn, obgleich das Laster durch ausnahmen auch ein Mittel zum Vergnügen seyn kan; Nun es die Tugend aber keinen sichern Vortheil bey sich führt: so muß man ihre Bewegungsgründe mit dem Nutzen, den sie schaft, vereinigen.
+
+**6630.**   κ--λ? (η?) (ν--ξ?)   Pr 1. Die stoische Sätze: "Gesundheit ist kein Gut und Schmerz kein übel (g Böses), sondern Verdienst und Verschulden" sind so fern wahr, daß sie den Mann, an dem sie angetroffen werden, nicht gut, auch nicht böse machen. Der Schmerz am Lasterhaften gut ist, d. i. Billigung der Vernunft verdient; denn sonst sind beyde nicht gegenstände der Beurtheilung der Vernunft, sondern der Sinne, aber die Würdigkeit beyder ist ein Gegenstand der Vernunft. Und eine Regirung der Welt würde böse seyn, darin nicht alles nach dieser Würdigkeit angeordnet wäre.
+
+(g Nach epicureischen Sätzen ist der Schmertz kein Unglük; wir brauchen uns darüber nicht zu betrüben, so wenig als über die Luft zu erfreuen. ) (s Alles Vergnügen ist cörperlich. )
+
+**6631.**   κ--λ? (ν--ξ?)   Pr 1. XI. Pr 1: Lehrbegrif. Aus (s empirischen und zufälligen) subiectiven Gründen: a. innern (s physischen): 1. Gefühl, moralisch (s sinnliche Form) (s physisch); 2. Selbstliebe (s unmoralisch Gefühl) (s *Mandeville* ).
+
+b. äussern. Gewonheit und Beyspiel oder Obrigkeit (beyde zufallig).
+
+[AA 19:119] Pr XI: (s wie Sinne organisirt sind oder gebildet werden. )
+
+Pr 1: Zweytens obiectiven (s nothwendigen) der Vernunft (s als Beschaffenheiten der Handlungen an sich selbst oder Verhältnisweise): 1. der wesentlichen Regeln Gesetze der Freyheit innern* : a. Warheit (s Schein), b. Vollkomenheit.
+
+2. der äußern: des Göttlichen Willens.
+
+(g Aus der bonitaet der Vernunft oder der Willkühr. )
+
+**(g** Unser System ist der Lehrbegrif der den wesentlichen Gesetzen des reinen Willens untergeordneten Freyheit Willkühr.
+
+Es ist die Einstimmung aller Handlungen mit dem persohnlichen Werthe seiner selbst.
+
+*principium formale identitatis in moralibus. materiale: felicitas* *publica.* **)**
+
+(g Man muß die moralität rein ohne *motiva sensualia* betrachten. )
+
+oder der eintzelnen idee derselben. )
+
+(s Aus der idee eines allgemeingültigen Willens, nicht durch Macht, sondern durch den Grund der Einstimmung. Ursprünglicher, abgeleiteter Wille. )
+
+(s Aus Gründen der Sinnlichkeit oder des Verstandes und der Vernunft. Das oberste *principium* der moral nicht aus Begriffen, sondern aus der idee des höchsten und ursprünglichen Guts eines allregirenden Willens oder dem alles vereinigenden Willen, Pr XI: worinn der unsrige mit enthalten. )
+
+Pr 1: (s 1. Die Idee, d. i. das princip der Beurtheilung der sittlichkeit. 2. Die triebfeder. )
+
+(s Verneinung aller Moral. Bloße pathologische Bewegursachen. )
+
+[AA 19:120] **6632.**   κ--λ? (ν--ξ?)   Pr XI. 1. Pr XI: Man kan die Zufriedenheit mit sich selbst von der Zufriedenheit mit seinem Zustande (ienes wohlverhalten, dieses wohlbefinden) unterscheiden. Der Stoicker sagte: man kan mit seinem Zustande iederzeit zufrieden seyn, wenn man mit sich selbst zufrieden ist; der Epikureer: man kan mit sich selbst zufrieden seyn, wenn man mit seinem Pr 1: selbst gewirkten Zustande zufrieden ist.
+
+**6633.**   κ--λ? (ν--ξ?)   Pr 1. Obgleich das Die oberste principien *diiudicationis moralis* sind zwar rational, aber nur *principia formalia.* Sie determiniren keinen Zwek, sondern nur die moralische form iedes Zweks; daher nach dieser form in *concreto principia prima materialia* vorkommen.
+
+**6634.**   κ--λ? (η?)   Pr 2. Das princip des *Hutcheson* ist unphilosophisch, weil es ein neu Gefühl als einen Erklärungsgrund anführet, zweytens in den Gesetzen der Sinnlichkeit obiective Gründe sieht.
+
+Das princip des *Wolf* ist unphilosophisch, weil es leere sätze zu Grundsätzen macht und das *abstractum* von allen *qvaesitis* vor den Erkentnisgrund des *qvaesiti* ausgiebt. Eben so als wenn man den Grund des hungers in der Begierde nach Glükseeligkeit suchen möchte.
+
+Das ideal des Christen hat dieses Besondere, daß es nicht allein die Idee der sittlichen Reinigkeit zum Grunde *Principio* der diiudication macht, sondern auch zur unnachlaßlichen Richtschnur der Handlungen und daß er darnach solle *gerichtet* werden. Das Unvermögen, welches wir vorschützen möchten, ist nicht klar, und daher muß aus dem ideal der Heiligkeit die Größeste Bangigkeit entspringen. Die christliche Religion hebt sie, indem sie sagt, daß Gott diesen Mangel der heiligkeit ergänze (g damit nicht das innere Unvermögen von der Befolgung der Regel frey spreche). Der (g so) nun Glaubt, daß man sich dieser Ergentzung durch alle natürliche Bestrebung müsse würdig und fähig machen, ist der practische Christ. Der aber davor hält, daß selbst all in Ansehung aller dieser Handlungen [AA 19:121] man nur passiv seyn müsse, sie durch die Bearbeitung seines Herzens und seiner Gesinnungen hervorzubringen, sondern an deren statt gewisse religiöse Bestrebungen die Gottheit bewegen könen, die Heiligkeit darin zu ergießen -- bricht ab.
+
+**6635.**   κ--λ? (η?)   Pr 2. Alle Systeme der Moral suchen zuerst den obersten (g theoretischen) Grund der sittlichen Beurtheilung, zweytens die oberste Sit wirklich moralische Regel, daraus die übrige fließen, zu finden. Was das erste betrift, so leiten sie 1. solche nicht aus allgemeinen Grundsätzen der Vernunft ab sondern und unters suchen mehr grund von dem, was geschieht und geurtheilt wird, als was geurtheilt werden soll, sehen also das *principium* *morale* als *subrepticium* an und als *legem phaenomenorum.* Diese machen a. Moden und Beyspiele. b. die Ehrliebe und Eigennutz zum qvell aller unserer tugendhaft scheinenden Handlungen. Sie sehen dann ieden moralischen imperativ als bedingt an *sub conditione subiectiva.* 2. suchen ein *principium obiectivum empiricum* 1. was durch in zufalligen Menschlichen Gesetzen: *hobbes*; 2. In einem besonderen triebe der Menschlichen Natur und Gefühl, oder, 3. rationale.
+
+**6636.**   κ--λ? (η?)   Pr 3. Das subiective *principium* der Moral ist die Unterordnung aller zweke unter das Urtheil (g Billigung) der reinen Vernunft; das obiective *principium* bricht ab.
+
+Daß die bonitaet der freyen Willkühr nicht blos auf Zweke, sondern auch Mittel gehe.
+
+Das ideal des obersten Willens als eines Urbildes eines ieden freyen Willens.
+
+**6637.**   κ--λ? (η?)   Pr 3. Alle systeme der moral:
+
+1. Die aus Zufalligen und Willkührlichen principien ableiten: Gewohnheit und bürgerlich Gesetz.
+
+[AA 19:122] 2. Aus nothwendigen und natürlichen Gründen, aber der blos eigenliebigen Neigungen: *Mandeville*. *Helvetius*.
+
+3. Aus der Vernunft moralischem Gefühl: 1. der Erkentnis Gottes durch die Vernunft: theologisch; 2. der Natur und Beschaffenheit der Handlung selbst: a. Warheit, b. Vollkommenheit.
+
+**6638.**   κ--λ? (η?)   Pr 4. Die necessitation einer handlung *per motiva* ist überhaupt practisch, *per motiva moralia* ist obligation.
+
+**(g** *Motiva vel subiective necessitant vel obiective.* Ich kan iemand *subiective* necessitiren, indem ich ihn zwinge. **)**
+
+Es ist ein fehler, alles practisch nothwendige moralisch nothwendig zu nennen.
+
+**6639.**   κ--λ? (η?)   Pr 4. Die cathegorische (obiective) *necessitas* freyer Handlungen ist die nothwendigkeit nach gesetzen des reinen Willens, die hypothetische conditionale: nach Gesetzen des afficirten Willens (durch Neigungen).
+
+**6640.**   κ--λ? (η?)   Pr 4. Die *imperativi* gehen niemals auf physisch nothwendige Dinge, weil das obiective und subiective hier einerley ist, aber nur auf freye und zufällige Wesen.
+
+**6641.**   κ?   Pr VIII'. Die Methode der Moral muß nicht so geführt werden, daß sie von dem ersten *principio* der freyheit anfängt und von den einfachsten Begriffen, auch nicht von einzelnen Erfahrungen, sondern aus einer gewissen Mitte von den allgemeinen Gesetzen, die wir *in concreto* beobachten.
+
+**6642.**   κ?   Pr VIII'. Unter den intellectual philosophen der Moral ist das *principium* der Warheit als ein Mittel der subsumtion der beurtheilung gut. Denn dasienige, dessen maxime offentlich kan gestanden werden, ist Gut. Daher ist [AA 19:123] alles moralisch böse wieder die Warheit, weil er *tacite* eine andre maxime annimt, als er bekennt. (g Moralisches System der Wissenschaft. Laster ist Unwissenheit. *Chrysipp*. )
+
+**6643.**   κ?   Pr VIII'. Alle Ermahnungen sind langweilig, aber die Empfehlungen sind unterhaltend; bey ienen will man darthun, daß die tugenden beyfallswürdig sind, und daran hat niemand gezweifelt; bey diesen: daß das tugendhafte verhalten auch vorzüge habe, und zwar mehr als das laster, und das lockt an.
+
+#### Obligatio in genere.
+
+**6644.**   κ--λ?   Pr 6. Was in einer Erscheinung liegt, betrift darum nicht die Beschaffenheit der Sache, aber was allen Erscheinungen gemein ist (dieses ist ein Begrif a posteriori bestimt (der Ort der Dinge, der in allen *lineis visionis* liegt); daher *stationes morales*. Alle Erscheinung ist nur die Art, wie das subiect von den obiecten afficirt wird.
+
+**6645.**   κ--ρ.   Pr 13.   Zu § 29: Alle *obligationes activae* geschehen durch einen *actum obligatorium*, und alle *actus obligatorii* sind willkührlich; aber die *vis obligatoria* beruht auf einem Gesetze (welches den Grund der form der obligation enthält). Nun ist diese *vis obligatoria* der handlungen selber willkührlich oder an sich selbst nothwendig; im ersten falle ist *obligatio positiva*.
+
+Wie kan aber die Willkühr ein Grund eines Gesetzes werden. Was der Grund einer nothwendigen Einstimung eines willens mit dem willen eines andern ist, bringt ein Gesetz hervor. Denn niemand ist obligirt ausser durch seine Einstimmung. Diese ist nun entweder nothwendig oder zufellig.
+
+[AA 19:124] **6646.**   κ--ρ.   Pr 13.   Neben und unter § 30: Das ich einem Befehl meiner Eltern gehorche, ist eine hypothetische Verbindlichkeit; aber der Grund der moralischen Verknüpfung des Befehls mit meinem Willen ist Natürlich, dagegen bey einem Herrn gegen Knecht willkührlich.
+
+*ratio facultatis obligandi (g si) est arbitraria, obligatio est positiva*.
+
+**6647.**   κ--ρ.   Pr 13.   Zu § 31: Moralische Unterlassungen sind thätigkeiten, die den regungen zu gewißen Handlungen realiter entgegengesetzt seyn.
+
+**6648.**   κ--ρ.   Pr 15.   Zu § 36: Eine Handlung, die an und vor sich selbst gut ist, muß nothwendig vor jederman gut seyn, also nicht verhältnisweise aufs Gefühl.
+
+**6649.**   κ--ρ.   Pr 15.   Zu § 36: Eine blos pragmatisch gute (g oder böse) Handlung ist moralisch indifferent.
+
+**6650.**   κ--ρ.   Pr 15. Frey zu seyn ist ein Vorrang der *species*, aber eine Gefährliche Unabhängigkeit eines Geschoopfs. Denn da ist es ohne Leitung und Vorherbestimmung. Dem subiecte nach ohne Regel und dem Zufall ganz überlassen.
+
+**6651.**   κ--ρ.   Pr 16. *Moralitas* besteht *in respectu* entweder des *nexus* oder der opposition mit *motivis moralibus*. Die *motiva moralia* sind die bestehen in der übereinstimung mit dem moralischen Gesetze. Dieses aber besteht in dem *consensu arbitrii* mit der *regula omnibus communi*. Also stimen die Handlungen mit dem, was allgemein als ein obiect des Willens kan angesehen werden und was als ein Gegenstand von dem Willen andern noch als gut gilt.
+
+**6652.**   κ--ρ.   Pr 16. *obligatio respectu aliorum;*
+
+*obligatio erga alios;*
+
+[AA 19:125] wenn ich bey der Schuldigkeit noch vernünfteln kan, so ist es eine unvolkomene schuldigkeit.
+
+**6653.**   κ--ρ.   Pr 16. Pflicht, Schuldigkeit, Gehorsam.
+
+1. Wenn die bedürfnisse des andren obligirende Gründe seyn.
+
+2. Wenn der Wille *etc.* *etc.*
+
+3. Wenn der Wille *etc.* *etc.* nach einer allgemeinen Regel.
+
+Unvolkommene Pflichten könen nur statt finden bey einem wesen, daß weit über seine Schuldigkeit vermögen hat.
+
+**6654.**   κ--ρ.   Pr 16.   Neben § 37 Anfang: Die *moralitas subjectiva* gründet sich auf objective. weil es gut ist zu gehorchen, so gehorche ich, und 2tens: weil das *arbitrium* des andern gut ist, so gehorche ich.
+
+**6655.**   κ? (η?)   Pr 19.   Zu § 43: Suche die Vollkomenheit (bonitaet), nicht die annehmlichkeit. Die Vollkomenheit (*in sensu absoluto*) wird durch den Verstand erkant, und zwar nicht blos die mittelbare, wo der Zwek durch Sinnlichkeit gegeben wird, sondern die unmittelbare.
+
+**6656.**   κ? (η?)   Pr 19.   Zu § 43: Die Vollkommenheit des Menschen und die vollkommenheit des Zustandes ist zu unterscheiden.
+
+(s Die Vollkomenheit wird hier vom wohlbefinden unterschieden. )
+
+**6657.**   κ? η? ρ? υ?   Pr 19.   Zu § 43: Man kan auch nicht sagen, daß die oberste moralische Regel eine Beziehung auf die Vollkommenheit anderer habe. Denn nicht ihre Vollkommenheit, sondern ihr Wille necessitirt mich.
+
+**6658.**   κ? η? (ρ? υ?)   Pr 20.   Zu § 45 ff.: Der Natur gemäß leben heißt: nicht den trieben der Natur, sondern der idee, welche der Natur zum Grunde liegt, gemäß leben. Natur und freyheit sind einander entgegengesetzt; das moralische Gesetz ist kein Gesetz [AA 19:126] der Natur. Die thiere leben ihrer Natur gemäß pathologisch, der Mensch muß nicht seiner -- -- s bricht ab.
+
+**6659.**   κ? η? (ρ? υ?)   Pr 20. *Lex moralis est vel absoluta* (s unbedingt) *vel hypothetica*. (s Die erste obligirt ohne Bedingung, die zweyte ist durch Bedingungen ihrer nothwendigkeit restringirt. )
+
+**6660.**   κ? ν? (ξ? ρ? φ?)   Pr 20.   Neben § 43, 44: Der Ausdruk: *es ist gut* drükt eine relation aufs Begehren aus, so wie der ausdruk: *es ist wahr* eine relation aufs vor wahr halten.
+
+Die obligation besteht in dem *nexu* der Handlungen mit den *causis* *impulsivis*; der moralische Sinn macht die *causas impulsivas* aus, *e. g.* warum bewegst du dich? Der Verstand zeigt, daß solche *causae impulsivae* anzutreffen sind und die Mittel, seinen Zwek zu erreichen. Die *ratio* *subjectiva obligandi*, von gott hergenommen, setzt dieses Wesen voraus. Gott wird entweder als Herr und Vater oder als Richter angesehen.
+
+Wenn eine Spinne Verstand hätte.
+
+#### Coactio moralis.
+
+**6661.**   κ--λ? (η?)   Pr 22.   Über und zu § 50: Die moralische Gesetze zwingen und sie sind die Gründe eines möglichen Zwanges bey einem fehlbaren Geschöpf. sie schränken seine freyheit ein, böses zu thun.
+
+**6662.**   κ--λ? (ο?) η??   Pr 23.   Zu § 50--52: Weil die Handlungen nur categorisch gut seyn, so fern sie moralisch gut sind, und die Glükseeligkeit selber nur dadurch gut ist, daß sie damit zusammenstimt: so ist eigentlich keine *necessitatio obiectiva* *stricta* als nur durch *motiva moralia*.
+
+[AA 19:127] also aller obiective Zwang ist moralisch; einem andern kan ich also nur moralisch oder subiectiv pathologisch zwingen.
+
+**6663.**   κ--λ? (ο?) η??   Pr 23.   Zu § 50--52: Durch Bewegungsgründe der Sittlichkeit kan man nur den tugendhaften, durch die der Klugheit den Klugen, durch die pathologischen der Antriebe den Empfindsamen zwingen. Ie mehr einer frey von pragmatischen oder pathologischen Zwange ist, desto freyer ist er.
+
+**6664.**   κ--λ? (ο?) η??   Pr 23.   Zu § 50--52: Ob ein Mensch in dem Maaße, als er Vernunft hat, durch moralische Gründe könne bewogen werden, und was das herz bedeutet? ob ein einfältiger könne sittlich gut sein?
+
+**(s** Das gute herz besteht nicht in dem Vermögen der moralischen diiudication, sondern in der Kraft ihrer Bewegungsgründe. Weil diese nun bloß durch den Verstand erkannt werden, so hat der Verstand bey einem einfeltigen und Guten zwar nicht eine große Ausbreitung, noch tiefe, noch schnelligkeit*: abe alles bestimmungen, die auch dem leeren volumen zukommen, aber doch mehr Kraft, substantz, Masse.
+
+* (g ein ausgebreiteter, tiefer und behender Verstand. ) **)**
+
+**6665.**   κ--λ? (η?)   Pr 23. Der Mensch muß moralisch gezwungen werden und thut das Gute ungern, nicht weil er böse Neigungen, sondern weil er überhaupt Neigungen hat, die nicht vollig unter seiner Gewalt stehen.; würde man in sich nach Belieben Neigungen und also auch Gründe der Wohlfarth hervorbringen könen, so würde ieder Mensch heilig seyn.
+
+**6666.**   κ--λ? ξ?   Pr 25. Wie man durch *iniuriam alterius* ein Recht erwerben könne, muß so erklärt werden. Iede freye Handlung ist recht, ausser so ferne der Wille anderer wiedersteht und die Handlung nach der Regel des Gemeinschaftlichen
+
+[AA 19:128] Willens unmöglich macht. Ich habe also natürlicher Weise kein Recht, des andern Zustand zu verändern, ausser mit seiner Einstimung, *pacto*, oder *facto injusto praevio*; denn im letzteren falle macht er sich seines rechts verlustig, der Wiederstand hört auf, und der andere bestimt ihn durch seinen Willen ohne einen positiven Grund des Rechts.
+
+**6667.**   κ--λ? ξ?   Pr 25, 24. Pr 25: Recht ist (g zwischen zweyen), was durch ihren gemeinschaftlichen Willen möglich ist.* (Was durch denselben nothwendig ist, heißt Schuldigkeit.) Ein Recht hat der einer in ansehung des Andern (*affirmative*), in so fern wenn sein privatwille als einerley mit dem gemeinschaftlichen angesehen werden kan. Die Nothwendigkeit einer Handlung um der allg Regel des Rechts willen heißt formale Schuldigkeit, um des Rechts der andern willen aber materiale Schuldigkeit. Die Regel, die dem gemeinschaftlichen Willen überhaupt nothwendiger weise anhängt, wird gefunden, indem die condition des Willens gesucht wird, welche nothwendig ist, damit sie er allgemein gültig sey. Man kan die Verhältnisse des Rechts mit denen der Körper vergleichen. Ein ieder Körper ist gegen alle andere in Ruhe, ausser so fern er durch andere bewegt wird, und eben so hat iederman gegen andere Pflichten der Unterlassung, ausser so fern andere entweder mit ihm einen Einstimigen Willen machen oder seinen Zustand wieder seinen Willen verändern. *Actio est aequalis reactione.* So viel ein großer Körper auf den kleinen wirkt, so viel dieser auf den groosen zurük. Der gemeinschaftliche Schwerpunkt, d. i. der gemeinschaftliche Wille, ist vor und nach der Handlung einerley.
+
+Pr 24: (g Diejenige Handlung, welche den wirklichen Ursachen durch den gemeinschaftlichen Willen welche unter der einer Rechtmäßigen Bedingung möglich ist, ist bedingter Weise recht. z. E. einen zu strafen unter der Bedingung, daß seine Handlungen dem Gesetze des Gemeinschaftlichen Willens wiedersprechen. )
+
+[AA 19:129] **6668.**   κ--λ? (η?)   Pr 27. Alle obligation ist zwiefach: Wir sind entweder iemandem oder von iemandem obligirt. In letzterem falle entweder *iuridice* oder *Ethice*.
+
+**6669.**   κ--λ? (η?)   Pr 27.   Zu den beiden letzten Sätzen von § 56: es ist ein Unterschied zwischen: Unrecht thun und: ein Unrecht thun; in ansehung des ersteren kan niemand gezwungen werden zu thun, was recht ist. Zweytens: es ist ein Unterschied zwischen der schuldigkeit nach strengem Rechte und der Billigkeit; zu der letzteren kan niemand gezwungen werden.
+
+**6670.**   κ--λ? (μ?) (η?)   Pr 26. Die ethische Regel lautet so: thue das, was dir dounket einem andern gut zu seyn; die des Rechts lautet so: thue daos, was mit der allgemeinen Regel der Handlungen zusammenstimmt, in so fern ieder thut, was ihm selbst gut dünkt.
+
+**6671.**   κ--λ? (μ?) (η?)   Pr 26. Es ist merkwürdig, daß die Menschen sich mehr erhitzen mit der ethischen schönheit der Handlungen als mit der der Schuldigkeit. Welches entweder daher komt, weil sie die letzten als nothwendig vorausetzen oder weil die Menschen kei bald befinden, daß es unmöglich vor sie sey, die Regeln des Rechts in ihrem Gantzen Umfange zu befolgen.
+
+**6672.**   κ--λ? (η?)   Pr 27. Was nach der Regel des all reinen Willens allgemein genomen moglich ist, ist recht; was nach der Regel der Neigung allgemein genomen möglich ist bricht ab. (s Die Regel der privat Neigung ist eigenützig und nicht moralisch. )
+
+Die Allgemein Gültige Regel der Neigungen ist eine Regel der Glükseeligkeit; denn daß allgemeine aller neigungen ist Annehmlichkeit und deren *abstractum* Gloukseeligkeit. Wer Unrecht thut, verdient aller Menschen feindschaft; wer ungütig ist, kan so glükseelig seyn, als er sich selbst machen kan, aber ist keines Menschen Liebe fähig würdig.
+
+Wenn alle Menschen und Regierungen nach regeln des Rechts geschähen, so würden die Pflichten der Gütigkeit unnothig seyn.
+
+Die Urtheile über Recht und Schuldigkeit betrachten die Regeln der [AA 19:130] voluntatis purae, sind also die leichtesten; die der Gütigkeit gehen auf Neigungen, Verhältnisse des Wohlbefindens und sind schweer. schlecht und recht ist die *praecisio iustitiae*.
+
+Mit den *motivis iuris* könen gar keine andere als auch *motiva iuris*, niemals aber die der Gütigkeit verglichen werden. Diese aber könen mit pragmatischen verglichen und durch sie superponderirt werden.
+
+**6673.**   κ? (η?) (ζ?)   Pr 27.   Neben § 58 Schlussatz „est obligatio -- obligationes internas“: bey dem Rechte ist die *ratio obligans* blos die Willkühr eines andern.
+
+#### Lex.
+
+**6674.**   κ? η? υ??   Pr 36.   Neben § 72: Die moralische Gesetze sind gründe des Göttlichen Willens. Dieser ist ein Grund des Unsrigen vermittelst seiner Gütigkeit und gerechtigkeit, darnach er die Glükseeligkeit mit dem Wohlverhalten verbindet.
+
+Wäre kein Gott, so würden alle unsere Pflichten schwinden, weil eine Ungereimtheit im Gantzen wäre, nach welcher das Wohlbefinden nicht mit dem Wohlverhalten stimmete, und diese Ungereimtheit würde die andere entschuldigen.
+
+Ich soll gerecht gegen andere seyn; aber wer sichert mir mein Recht?
+
+**6675.**   κ? η? υ??   Pr 36.   Neben § 73: *ius*, als ein Befugnis betrachtet, ist nur bey Gott allgemein und ohne restriction, d. i. er kan (g darf) thun, was er will, denn er kan niemals was Böses wollen. Bey menschen ist das *ius limitatum*; die *impedimenta* der Handlungen sind entweder physisch oder pragmatisch oder moralisch; die letztere pragmatische limitiren mein Recht, wenn das Gegentheil mir schädlich ware; die moralische: wenn es andern schädlich wäre. Glüklich, wer keine anderen Hindernisse als moralische kennet oder durch diese doch am meisten Zurükgehalten wird.
+
+**6676.**   κ? η? υ?   Pr 38.   Zu § 75 „anima legis“: *Anima legis physicae* giebt die *leges morales* zu erkennen. *Anima* *legis pragmaticae est tantum litera legis moralis.*
+
+[AA 19:131] (s Wenn z. E. die Unterlassung nicht aus moralischen Bewegungsgründen geschieht, sondern aus physischen Ursachen, *e. g.* mangel der Kräfte, sondern oder aus pragmatischen: um des Schadens willen. )
+
+#### Principia iuris
+
+#### Legislator
+
+**6677.**   κ? η?   Pr 60.   Neben und zu § 99 Anfang: Man muß das sittliche Gefühl nicht zur Beurtheilung bringen, sondern nach derselben, blos um die neigung hervorzurufen; wenn das Gefühl, *e. g.* Mitleiden, vor der maxime vorläuft, so entspringt ein falsch urtheil.
+
+**6678.**   κ? υ?   Pr 61.   Neben § 99 Satz 1 „ea in -- connubium rationis“: moralischer instict: sich selbst handlungen zu imputiren. *storge*.
+
+**6679.**   κ? υ?   Pr 61.   Über und neben § 100: Nur Gott, dessen wille selbst der Grund ist von dem Göttlichen Menschlichen Willen, ist die Ursache der übereinstimmung des Menschlichen willens mit ihm und ist **legislator originarius**, das ist: dessen *potestas* sich nicht auf eine Zufellige und Beliebige Einstimmung des menschlichen Willens gründet; alle andern Persohnen haben nur *potestatem legislatoriam* *pacto concessam*.
+
+**6680.**   κ? υ?   Pr 61. Es giebt willkührliche,
+
+Es giebt natürliche Gesetze. Die ersten haben einen *autor*, die Zweyte einen *legislator*.
+
+#### [AA 19:132] Poenae.
+
+**6681.**   η? κ?   Pr 74. *pragmatische Strafen* sind warnend und gehen auf das äußere der handlung,
+
+*moralische* auf böse Gesinnung.
+
+Obrigkeiten strafen pragmatisch.
+
+**6682.**   η? κ?   Pr 74. *Omnes poenae sunt vel correct vindicativae vel correctivae, posteriores* *vel animadversiones vel exemplares.*
+
+**6683.**   η? κ?   Pr 74. Die *potestas legislatoria* beruhet blos auf der Neigung des Gesetzgebers zur Glükseeligkeit, folglich nicht auf dem Vermögen und willen zu strafen. Demnach sind die Strafen nicht so gut wie die Belohnungen in harmonie mit der moralitaet.
+
+**6684.**   κ? υ?   Pr 75. Die *poenae pragmaticae* haben bey weitem nicht die moralische Nothwendigkeit als die *morales*, weil die Handlungen auch ohne Strafen nothwendig sind. Und die moralische Strafen sind so gar die Regeln der pragmatischen, und *sanctiones poenales* sind ohne moralische Gründe unerlaubt.
+
+**6685.**   κ? υ--ψ??   Pr 75. die strafen so wohl als belohnungen um der moralischen gesinnung willen sind unendlich. strafen bessern die gesinung nicht direct.
+
+**6686.**   η? κ? υ?   Pr 75. die pragmatische strafen und belohnungen sind gerade dem verdienstlichen der handlung angemessen, die moralische unendlich. weil nur unsre unwürdigkeit die göttliche güte einschränkt, die an sich unendlich ist.
+
+### [AA 19:133] Phase μ.
+
+#### Allgemeines.
+
+**6687.**   μ? ο? (ρ?)   Pr 2. Die moralische methode ist entweder aesthetisch oder intellectual philosophisch.
+
+Die *principia* sind entweder empirisch oder intellectual;
+
+in der Anwendung aber entweder ideal oder real. Das erstere geschieht, wenn man ideale in der Menschheit wirklich zu machen gedenkt.
+
+**6688.**   μ? (ρ?) κ?? η?   Pr 4. 5. Pr 4: (s Die übereinstimung des Willens mit der form der Vernunft, kan *a priori* bestimt werden, ist allgemeingültig Wohlgefallen. )
+
+Wenn die erste Gründe der sittlichkeit auf der Vernunft beruhen, so frägt sich, ob die abweichung von den Lehren der Sitten dem Irrthum oder der Bosheit des Willens beyzumessen sey.
+
+(s *Responsio*: Das falsche sittliche Urtheil ist der schwäche der Vernunft (wieder Vorurtheile der Eigenliebe), die Handlung wieder diese Urtheile der Ohnmacht der Vernunft über die Neigungen beyzumessen. Die Vernunft bewegt nur reine Geister, und das Mittel den Menschen zu bewegen ist, daß sie das allgemeine sich appropriirt durch Ehrliebe, Antheil an anderer Neigung oder Ruhe wegen Verantwortung. Die schwäche der Vorstellung dieser fremden Richter läßt das Vernunfturtheil unwirksam. Alle diese Pr 5: hülfleistende Empfindungen gehen auf das, was aus dem Urtheil der Vernunft und nicht aus dem Zufall oder physischer Nothwendigkeit mit den Handlungen verbunden ist. Es [AA 19:134] ist die Folge einer Handlung, wenn sie allgemein bekannt wäre, folglich übereinstimmung mit der allgemein gültigen Regel. )
+
+**6689.**   μ--ρ.   Pr 4. eine Handlung ist moralisch gut, in so fern sie in Verhaltnis auf ieden Willen und auf iede Neigung möglich ist.
+
+**6690.**   μ? (ρ?) κ??   Pr 4. Wie die Vernunft sich verhält zu den Sinnen, so der reine Wille zu den Neigungen. Das Urtheil aus Neigung ist eine Erscheinung und gilt nur vor das subiect; das aus Vernunft ein Begrif und gilt vors obiect. solche Neigungen, die mit aller andern zusammen stimen, sind moralische Neigungen und entspringen aus gefühl.
+
+**6691.**   μ? (ρ?) κ?? υ??   Pr 5. es ist die frage, ob die moralische beurtheilungen dadurch geschehen, daß die handlungen als gut oder als angenehm angesehen werden. ist das erste, so ist es die beschaffenheit der handlungen, die vor ieden verstand dieselbe ist, welche den grund des urtheils enthält, und dieses geschieht durch vernunft; ist das zweyte, so urtheilt man aus gefühl, und dieses ist nicht nothwendiger weise vor jeden gültig.
+
+**6692.**   μ? (ο?) (ρ?)   Pr 5. es ist die frage, ob der Begrif des guten und bösen ein empirischer oder Vernunftbegrif sey.
+
+**6693.**   μ? (ρ?) κ?? υ??   Pr 5. das moralische Gefühl ist entweder ein Grundgefühl oder ein abgeleitetes; das letztere ist ein moralischer instinct.
+
+**6694.**   μ? (ρ?) κ?? υ??   Pr 5. Alle Urtheile in Verhältnis aufs Gefühl *in abstracto* sind Vernunfturtheile, in Verhaltnis auf ein Gefühl *in concreto* sind sinnliche.
+
+[AA 19:135] **6695.**   μ? (ρ?) υ??   Pr 5. Der moralische Sinn ist der Grund der sittlichen Neigung und der unmittelbaren ... am sittlich guten.
+
+**6696.**   μ? (ο?) (ρ?)   Pr 5. es giebt ein moralisch Gefühl; dieses aber ist nicht ein Grund des Urtheils, sondern der Neigung.
+
+#### Obligatio in genere.
+
+**6697.**   μ? (ο? ρ?) κ??   Pr 5.   Neben und zu § 12, Satz 3 Schluss, Satz 4 Anfang: Die reine Willkühr ist die Freyheit.
+
+**6698.**   μ? (ο? ρ?) (κ?)   Pr 5. Die moralische Vorschriften gelten vor iedes vernünftige und freye Wesen, die Neigungen desselben mögen seyn, wie sie wollen.
+
+Die obligation ist auch einerley bey allen Graden der Neigung zum Gegentheil; nur die imputation ist verschieden, denn die letztere komt darauf an, wie weit die Handlung dem subiect selbst, d. i. seiner freyheit, könne beygemessen werden.
+
+**6699.**   μ? (ρ--υ?)   Pr 6.   Zu § 12 Schluss: *motiva moralia sunt potiora ceteris omnibus, qvoniam depromta* *sunt ab absoluta bonitate; absolute autem mala hypothetice etiam sunt.*
+
+**6700.**   μ? (ρ--υ?)   Pr 6. Alles, was allgemein genomen gut ist, ist an sich selbst gut; mithin nur die moralische bonitaet ist ein Gut an sich selbst.
+
+**6701.**   μ? (ρ--υ?)   Pr 6. 7. Pr 6: *distiguuntur motiva obligandi et obligantia; haec sunt potiora motivis*
+
+[AA 19:136] *aliis moralibus. Motivo morali (g inter obligationes) non derogat* *nisi morale.* Der Liebespflicht nur eine Pflicht gegen sich selbst. (s Pr 7: es kan nicht vor eine Befugnis angesehen werden, um der Erhaltung seines Lebens willen einen andern zu verrathen, es sey denn, daß diese Erhaltung eine Verbindlichkeit sey. )
+
+**6702.**   μ? (ρ--υ?)   Pr 7.   Über § 17: Weil es bey den pflichten der Gütigkeit nicht auf dem Verhaltnis meines Willens zum willen anderer, sondern zu ihrer Bedürfnis ankomt, so kan dieses *motivum* mit denen meines eigenen Nutzens verglichen werden. daher bricht ab.
+
+**6703.**   μ? (ρ--υ?)   Pr 7.   Neben § 17: die verdienstliche handlungen sind nur unter der bedingung der bedürfnis anderer, die schuldige aber auch ohne diese nöthig.
+
+**6704.**   μ? (ρ--υ?)   Pr 7.   Neben § 18: die größe der obligation wird nicht nach der große des guten, was geschehen soll, sondern nach der größe der moralischen regel gemessen; also ist die größe der obligation eine größe der form und nicht der materie der handlungen.
+
+**6705.**   μ? (ρ--υ?)   Pr 7. Man hatte bemerkt, daß der Verstand nichts als allg das besondre unter das allgemeine ordnete und auf blosse allgemeine Verhältnisse ginge; da aber dieses das absolute, nemlich das Wohlgefallen, nicht giebt, so war das die Ursache, daß, da das moralische Wohlgefallen nicht aufs verheltnis geht, man ein besonderes princip davon erfand, nemlich das Moralische Gefühl.
+
+### [AA 19:137] Phase ξ.
+
+#### Allgemeines.
+
+**6706.**   ξ--ρ? (λ?)   Pr II. Die Wissenschaft ist entweder der form nach practisch oder hat zum obiect die *praxis*. Die subiectiv practische philosophie ist anthropologie und mit der moral verschwistert.
+
+(g Die schlechthin so genannte practische philosophie ist in aller Absicht und unbedingt practisch. )
+
+**6707.**   ξ--ρ? (ν?)   Pr III. Es ist die frage, ob man in Ansehung der moralität den Verstand und seine Macht vergroßern soll oder das Gefühl vor demselben durch besondre Mittel befördern kan. Der, so gelenkt werden soll, muß Gefühl haben, und darauf bezieht sich allein dieser Ausdruk.
+
+Pr IV: Der rohe Mensch hat nur gefühl vor Sinne, der gesittete vor Begriffe und Regeln. Daher müssen wir das Gefühlvolle in schriften auf Begriffe lenken. Das moralische Gefühl kan durch nichts besser gebildet werden, als durch alle Zeichen des unmittelbaren Abscheus vor das Laster in der Erziehung; Ehre.
+
+**6708.**   ξ--ρ? (ν?)   Pr III. Das system der Alten war entweder 1. der Einfalt oder 2. der Weisheit. jenes *a.* der Gnugsamkeit, *b.* der Unschuld. Das der Weisheit entweder der Klugheit oder sittlichkeit. Also *A.* der Natürliche Mensch; *B.* der Weise; *C.* der Heilige Christ. Der Weise ist entweder aus *Neigung* oder aus *Grundsätzen*.
+
+[AA 19:138] **6709.**   ξ--ρ? (ν?)   Pr III. Weil es dreyerley *respectus* giebt: 1. der substanz zum *accidens*, 2. der Theile in einem Ganzen, 3. der Wirkung und Ursache, so giebt es auch drey Haupttheile in der moral: 1. Pflichten gegen sich selbst, 2. gegen andre Menschen (*a.* daß sie sich nicht wiederstreiten, *b.* daß sie sich verbinden durch gemeinschaftlichen Grund. Recht und Liebe). Eben so moralische Möglichkeit, Daseyn, Nothwendigkeit. In der Natur des Menschen ist etwas, was er sich von sich selbst nicht variiren kan. Das sind die Grundeigenschaften der Seele. Diesen ist selbst der Mensch als ein Thier unterworfen.
+
+**6710.**   ξ--ρ? (ν?)   Pr IV. wir halten alles hoch, was dem guten sicherheit und bestimmte gewisheit verschaft, daher alles, was einer regel des guten gemäß ist. das gute, welches aber die regel unsicher macht, misfällt. dies ist der qvell der moralitaet. man ist des guten nur werth, so fern man den regeln folgt.
+
+**6711.**   ξ--ρ? (ν?)   Pr IV. der werth der handlung oder persohn wird immer durch das verhaltnis zum ganzen ausgemacht. dieses ist aber nur durch übereinstimung mit den bedingungen einer allgemeinen regel moglich.
+
+**6712.**   ξ--ρ? (ν?)   Pr IV. Das All bestimt den werth *absolute*, aller andre ist blos relativ und bedingt. Es muß etwas einen Werth haben in Verhaltnis aufs Gefühl, aber die Allgemeinheit dieses Werths bestimt ihn *absolute*. Alle restriction dessen, was gut ist, misfällt; daher müssen wir die Allgemeinheit zum Maaße nehmen. Der erste Grund der Schätzung ist das absolut gute. Die restriction läßt sich nur aus dem absoluten erkennen.
+
+**6713.**   ξ--ρ? (ν?)   Pr VI. alles, was nothwendiger weise gefällt ohne beziehung auf das subiect, gefällt obiectiv. was aus gründen der vernunft gefällt, gefällt nothwendiger
+
+[AA 19:139] Weise, also obiectiv; es ist also so etwas obiectiv nothwendig;i mithin sind gute handlungen obiectiv nothwendig.
+
+Die Persohnlichkeit ist die unabhängigkeit des Willens von Neigungen. Also ist die moralitaet die übereinstimung mit der Persohnlichkeit.
+
+Der Wille Glüklich zu seyn ist nothwendig, aber nach bestimten Neigungen zufellig.
+
+#### Obligatio in genere.
+
+**6714.**   ξ? (ν?)   Pr 3. Die moralitaet hat das an sich, daß sie zum allgemeinen und wesentlichen Nutzen zusamenstimmt und daher nothwendig beyfall findet. Diese scheint auch die wahre Ursache ihrer Vorzüglichen bonitaet zu seyn.
+
+**6715.**   ξ? (ν?)   Pr 3. die moralische gesetze, weil sie vor den freyen willen überhaupt gelten, so sind sie auch gültig vor den menschlichen; allein die reine regeln der Pflicht, applicirt auf die Schwäche der Menschlichen Natur, erleiden zwar keine Ausnahmen oder milderung (diese würde auch zum Schaden der Menschlichen Natur und anderer Menschen gereichen), aber sie dienen durch das Bewustseyn der eignen Ungerechtigkeit, nicht blos aus Gütigkeit, sondern aus Gründen des Rechts nicht alle Ansprüche zu machen, welche sonst nach den strengen Befugnissen der Gerechtigkeit von einer Persohn, die selbst gerecht wäre, zu machen seyn würden. *e. g.* Staatsverfassung. Denn es ist nicht zu verlangen, daß alles gerecht sey gegen uns, wenn wir es nicht mit gewisheit gegen andre seyn. Zweytens: die religion zu den Pflichten hinzuzuthun.
+
+**6716.**   ξ? (ν?)   Pr 3. Der wesentliche Nutzen ist der Nutze *a priori* aus den nothwendigen und allgemeinen Qvellen derjenigen Willkühr und also aus dem, was der Persohn bricht ab.
+
+**6717.**   ξ? (ν?)   Pr 3. Die moralische Gesetze sind *principia diiudicandi et imputandi*, zugleich zu beurtheilen und zu richten.
+
+[AA 19:140] **6718.**   ξ? (ρ--φ?)   Pr 6. Die *motiva moralia* müßen rein und unvermengt mit *stimulis*, mit *motivis* der Klugheit vorgetragen werden.
+
+Die Allgemeingültigkeit des Willens ist entweder moglich, daß der privatwille eines jeden der Grund sey von dem Willen aller, oder daß der Wille aller der Grund sey von iedes privatwille.
+
+Das erstere ist nur möglich, wenn iedes Privatwille gut ist; aber aus der übereinstimung mit jedes privatwille ist keine übereinstimung möglich, also keine regel, ausser so fern sie durch die zweyte restringirt wird. also ist das erste das gesetz, das zweyte die liebe.
+
+**6719.**   ξ? (ρ?)   Pr 6. 7. Pr 6: Wir sind zu einer Handlung verbunden gegen *einen*, oder auch *einem* Verbunden. Das letzte ist *obligatio passiva*.
+
+(s *obligatio obligati erga obligantem est passiva*: gegen *Creditor* und Wohlthäter; Pr 7: *erga obligandum est activa*: gegen Arme. Es giebt noch eine dritte obligatio *erga non erga aliqvem* (*obligatio formalis*: Warheit.) )
+
+(s *officium debiti* (g in Ansehung seiner selbst und anderer) *et* *meriti*. )
+
+Pr 6: (s Es giebt also einen *obligatum absqve obligante*. )
+
+(s Die obligation zu bezahlen ist passiv, wohlzuthun aber ist activ. Bey der ersten ist ein *respectus erga obligantem*, beym zweyten nur *erga obligandum*. )
+
+**6720.**   ξ? (ρ--φ?)   Pr 7.   Neben § 17 Anfang: *Motiva moralia formae sunt per se obligantia, materiae sunt hypothetice* *obligantia, h. e. obligandi.*
+
+**6721.**   ξ? (ρ--φ?)   Pr 7.   Zwischen § 17 und § 18: Die *motiva moralia* betreffen entweder die form der Handlung oder [AA 19:141] die materie. die erstere sind iederzeit *motiva obligantia*, die andere *obligandi*.
+
+**6722.**   ξ--ο? (ρ--υ?)   Pr 7. die treibende kraft der moralischen bewegungsgründe ist die schwächste; stärker ist die der pragmatischen, noch stärker die der pathologischen. also alles umgekehrt nach der regel der diiudication. man muß aber auch, anstatt die triebfeder der sittlichkeit zu verstärken und die der sinnlichkeit zu schwächen, die letztere nicht mit der ersten aliiren, weil man dadurch wohl die handlungen des menschen, aber nicht den menschen bessert. nicht vortheil, nicht ehre, nicht ruhm.
+
+**6723.**   ξ--ο? (ρ--υ?)   Pr 7. die freyheit eines vollkommenen wesens ist obiectiv uneingeschränkt, eines unvollkommenen ist eingeschränkt, gebunden. die ungebundenheit ist gesetzlosigkeit.
+
+**6724.**   ξ.   Pr 8. Ist nicht in iedem moralischen *imperativus* eine Verbindlichkeit? d. i. eine Nöthigung durch einen andern Willen, welcher der beständige und originale Wille ist, nemlich entweder unmittelbar durch den obern intellectualen Willen oder durch ihn vermittelst des Willens andrer.
+
+Wer einen bloß intellectualen Willen hat, ist nicht verbindlich. Der Verstand imperirt.
+
+Groß, Gut, glüklich. Ein Großer fürst macht seinen staat groß, aber nicht glüklich, viel weniger gut.
+
+**6725.**   ξ.   Pr 9. Die Gantze Schwierigkeit bey dem Streit über das *principium* der moral ist: wie ein apodictischer categorischer *imperativus* möglich sey, der nicht conditional ist, weder *sub conditione problematica* noch *apodictica* (der Geschiklichkeit. Klugheit). Ein Solcher *imperativus* sagt, was ursprünglich, *primitive* gut ist. Es ist zu bewundern, daß das primitive Gut: die condition von allem, was gefällt, nur einem Willen zukome. Die Ursache ist, weil alle Vollkomenheit eine idee und die Wirklichkeit derselben [AA 19:142] einen Willen voraus setzt, und weil alles Zufallige und aller Ursprung sich auf Freyheit gründet. Alle Nothwendigkeit der Urtheile gründet sich auf die Allgemeinheit oder diese auf jene. Mithin ist der Grund der nothwendigkeit, welche moralische Sätze enunciiren, in der allgemeingültigkeit der Gründe des Wollens zu setzen (schlechthin nothwendig, *absolute*, bedeutet nicht innerlich, sondern überhaupt nothwendig).
+
+**6726.**   ξ   Pr 8.   Neben § 20, Anfang von 21: Moralisch frey im obiectiven Verstande ist der, welcher unter keiner moralischen Nothigung ist; im subiectiven: dessen Vernunft unabhängig von den Leidenschaften bestimen kan. Die erstere freyheit wird eingeschränkt durch zufallige moralische *motiva*. Nothwendige moralische *motiva* (die dem subiect innerlich seyn) bringen keine obligation hervor.
+
+*Si tollitur obligatio, persona liberatur. Satisfaciens obligationi* *strictae liberatur.* (s nicht *latae*. wenn die condition, unter der die obligation gegen jemand statt findet, zufallig ist; es ist rathsam, keine obligation entstehen zu lassen. )
+
+Neben § 21 erste Hälfte unter „Satisfaciens“ (Z. 13): (s obligationen, von denen man sich nicht liberirt halten muß. Wohlthaten. )
+
+Ferner in § 21: (s *non possumus obligationi erga merita satisfacere.* )
+
+**6727.**   ξ--ρ.   Pr 9.   Zu § 22 „actus obligatorius“: Die obligation wird extinguirt *per remissionem alterius* oder *per* *satisfactionem*; sich selbst kan man von keinen Pflichten dispensiren, als auch *per remissionem* von den Pflichten gegen sich selbst frey werden. Gott kan keinen von der *obligatione essentiali*, *e. g.* Warheit zu reden, liberiren. aber wohl von den Zufälligen Pflichten gegen ihn.
+
+[AA 19:143] **6728.**   ξ--ρ.   Pr 9.   Zwischen § 23 und 24: Bey den permutationen kan ich frey werden *praestando* und bin auch. Bey den Geschenken, *actibus gratuitis*, verliehre ich etwas von der Freyheit, bey den Wohlthaten mehr.
+
+**6729.**   ξ--ρ.   Pr 9.   Neben § 24: Ob man sich selbst die Verbindlichkeit frey zu seyn remittiren könne und also einem andern sich zum sclaven obligiren könne. Die *obligationes* *erga se ipsum* sind irremissibel.
+
+**6730.**   ξ--ρ.   Pr 9.   Zwischen § 24 und 25, neben § 25: *obligationi vel aliqvid praestatur vel satisfit. posterius est, si omnia* *in morali motivo praestantur.* Daher kan wohl einer Schuldigkeit gnug gethan werden und die obligation extingviren, aber nicht einer freyen Grosmuth eines andern, weil, da man als *obligatus* handelt, man niemals der moralischen bonität der handlung des andern, der *liber* handelte, gleichkommen kan. Weil also diese obligation nicht verlöschen kan, so muß man sie nicht annehmen. Je mehr iemand moralisch frey ist im obiectiven Verstande, desto mehr Gutes kan er.
+
+#### Coactio moralis.
+
+**6731.**   ξ.   Pr 24. Wir könen eine gute Handlung nicht an die stelle einer andern von andrer Art setzen. Keine Gütigkeit gegen andre an die stelle der Schuldigkeit. Keine andächtige Bußen an die stelle der Wohlthätigkeit, noch weniger der Beleidigungen.
+
+**6732.**   ξ--ο? ρ? φ?   Pr 26. 27. Pr 26: Bey dem rechte des andern komt weder meine eigene Bedürfnis (so wie bey Gütigkeit) noch anderer Bedürfnis noch anderer Würdigkeit in Anschlag; ja, auch nicht einmal der Gewisse Vortheil des andern gibt mir darauf ein Recht, sondern blos seyn Wille.*
+
+[AA 19:144] *Materialiter* Unrecht ist, was der Materie (dem obiecte des Willens andrer), *formaliter*, was den Bedingungen des reciproqven Willens überhaupt wiederstreitet. Daher bey dem letzten die handlung nicht allein kein Gegenstand des Willens aller seyn kan, sondern auch allgemein unter einer allgemeinen Regel genommen unmoglich ist.
+
+Pr 27: * (g Die *motiva* des Rechts sind limitiren alle andre Pflichten außer gegen sich selbst. Handlungen des Rechts müssen nicht in der form der Gütigkeit ertheilt werden. Diese Gesetze sind bestimt. Durch praestation der Schuldigkeit hört Verbindlichkeit auf. Vom *casu necessitatis.* *Iuri opponitur Ius.* )
+
+**6733.**   ξ--ο? ρ? φ?   Pr 27. Was unmöglich ein Gegenstand einer gemeinschaftlichen Willkühr seyn kan, ist ungerecht; was, wenn es auch ein Gegenstand derselben wäre, doch nach Gesetzen der Willkühr unmöglich ist auszuführen, ist Unrecht.
+
+**6734.**   ξ--ο? ρ? φ?   Pr 26. 27. Pr 26: Eine Handlung ist unrecht, in so ferne sie, wenn andere diese Grundsätze in uns voraussetzen, unmoglich ist. *e. g.* lüge. Es ist unmoglich, einen zu betrügen, der da weis, daß man betriegen will, oder treulosigkeit im Vertrage. Es ist auch unmoglich, solche Handlung als eine allgemeine Befugnis zu wollen und zu billigen. Ungesellig ist der, der solche maximen hat, daß, wenn andere eben dergleichen haben, er mit ihnen nicht umgehen könte. Dazu gehört Geld. Pr 27: Der gefällige Mensch wünscht, daß alle Menschen eben so wären wie er; der Ungesellige das Gegentheil. Der Gerechte fodert es. Die Gerechtigkeit ist ein Grund der Moglichkeit der Gesellschaft, obzwar ohne Wunsch. Die Gütigkeit ist ein antrieb zur Gesellschaft. fodere das von andern, was du willst, daß andere von dir fodern sollen.
+
+**6735.**   ξ--ο? ρ? φ?   Pr 26. Man kan keine Regeln geben, wie unsere Bedürfnis die Gütigkeit einschränkt.
+
+[AA 19:145] Was recht ist, das muß unter einer offentlich bekannten Regel stehen, daher die Nothlüge unerlaubt ist.
+
+#### Lex.
+
+**6736.**   ξ.   Pr 28. Viele Menschen haben wohl lust, gute Handlungen zu thun, wollen aber desfals unter keiner schuldigkeit gegen andere stehen; wenn man ihnen nur mit Unterwerfung komt, so thun sie alles; sie wollen sich nicht den rechtsamen der Menschen unterwerfen, sondern solche nur als Gegenstände ihrer Grosmuth ansehn. Es ist nicht einerley, unter welchem titel ich etwas bekomme. Das, was zu dem meinigen gehört, muß man nicht blos meiner bitte gewähren.
+
+Daher vor aller Anpreisung der regeln der Gütigkeit zuerst der Nacken unter das joch der schuldigen Pflichten muß gebeugt werden. der ist immer ein Rebell gegen das Göttliche regiment, der es sich ausnimt, als ein freygeist nach bloßem eigenen Gutdünken zu thun, was menschen von ihm fodern könen.
+
+**6737.**   ξ? φ??   Pr 30.   Neben und in §63 Mitte: Das oberste *principium formale* der moralitaet muß die Warhaftigkeit seyn. Denn von allen andern Verbindlichkeiten werden wir dadurch liberirt, daß andere sie gegen uns übertreten, von dieser aber niemals.
+
+**6738.**   ξ? φ??   Pr 30.   Neben, in und unter §63 Schluss: Recht überhaupt ist eine handlung, so fern man in Ansehung derselben frey ist. Ein Recht aber ist die Freyheit, wodurch die freyheit anderer eingeschränkt wird: *jus quaesitum. A natura* sind alle frey, und nur die Handlungen sind recht, die keines Freyheit einschränken.
+
+**6739.**   ξ?   Pr 32.   Neben §66 Mitte: Der *respectus moralis* ist entweder bloß negativ, da es bricht ab.
+
+[AA 19:146] **6740.**   ξ?   Pr 32.   Neben und unter §66: Aller *consensus* der freyen Handlungen mit ihren objektiven Gründen ist zwiefach. 1. negativ: da es nicht wiederstreitet, oder positiv: da es dadurch determinirt wird.
+
+**6741.**   ξ?   Pr 32.   Neben §67 (2. Hälfte) und 68 Anfang: Dasjenige, was als allgemeine Regel angenommen nicht einmal physiologisch möglich ist, ist *formaliter* unrecht (g *illicitum* ), *e. g.* Lügen und treulosigkeit.
+
+Was allgemein genommen und gegenseitig zu wollen unmöglich ist, ist *materialiter* Unrecht. Als das niederhauen der Gefangenen *materialiter* unrecht, d. i. ungerecht (*injustum*). Zustand der Wilden. Hiebey bleibt doch immer die Errichtung eines Zustandes des Rechts möglich.
+
+**6742.**   ξ?   Pr 32. Es ist unbillig, der des Gesetzes unwissend ist, zu bestrafen.
+
+**6743.**   ξ?   Pr 32. Was unter einem durch allgemeinen expressen Gesetze nicht verboten *seyn kan*, ob es zwar unter dem durch das stillschweigenden nothwendiger Weise enthalten ist ist verboten wird, ist unbillig.
+
+**6744.**   ξ?   Pr 32.   Zwischen §67 und 68: Gesetze sind: wodurch etwas zur Verbindlichkeit wird. Gebothe: wodurch eine natürliche Verbindlichkeit gelehrt wird. Göttliche Gebothe sind an sich moralisch.
+
+**6745.**   ξ.   Pr 33.   Über und neben §68: Was zu den stillschweigenden Bedingungen eines positiven Gesetzes gehöret, aber nothwendiger weise den Ausdrüklichen fehlt, ist die Billigkeit des positiven Gesetzes. Was nach dem Naturgesetze strenges Recht ist, ist [AA 19:147] blos nach dem positiven blos Billigkeit. (s *e. g.* Wenn ich einen zu einer gewissen arbeit gedungen habe, er macht aber mehr: so hat er kein Recht, was zu fodern.
+
+Was einer nicht bedungen hat, kan er nicht *stricte* fodern.)
+
+**6746.**   ξ.   Pr 33.   Neben §68 Schluss und zwischen §68 und 69: Wer die Billigkeit auf seiner Seite hat, kan den andern, der das Recht vor sich hat, nicht zwingen, auch nicht dem Rechtszwange des andern sich entziehen.
+
+Ein Recht, dem die nothwendigen Bedingungen eines ausdrüklichen Gesetzes fehlen, ist ein Recht der Billigkeit.
+
+Was durch den ausdrüklichen den stillschweigenden allgemeinen Willen nicht möglich ist, aber ob es zwar durch die nothwendigen Bedingungen eines ausdrüklicher Gesetze nicht wird verbo erlaubt ist, ist unbillig.
+
+**6747.**   ξ.   Pr 33.   Unter Rand. Zu §68: Handlungen Was unter durch keinen allgemeinen ausdrüklichen Gesetze stehen kan necessitirt wird werden kan, ob es zwar durch das stillschweigende nothwendig ist, ist billig. Also ist die Billigkeit eigentlich die Einschränkung des äußerlich gültigen rechts (wodurch wovon äußere und ausdrükliche Gesetze möglich sind) durch die nur innerlich gültige Gesetze. Also giebt die Billigkeit kein Recht und befreyt auch von keiner Schuldigkeit.
+
+**6748.**   ξ? κ?   Pr 34. Es giebt moralische Ges Instincte, die nicht so wohl durch das Vergnügen, was Gute Handlungen Verschaffen, als vielmehr durch den Abscheu, den ihre unterlassung uns erweken würde, bewegen.
+
+**6749.**   ξ? κ?   Pr 34. Wir haben nicht an moralisch Guten Handlungen das größeste Vergnügen, aber wir halten es am höchsten, d. i. wir urtheilen, daß dieses Vergnügen selbst die größte Billigung verdiene.
+
+Die moralische maximen bringen zuletzt durch Gewonheit ein Gefühl vor sittlichkeit zuwege.
+
+[AA 19:148] Wir halten den Verstand höher als die Rechtschaffenheit (eine Ehrlichkeit aus Grundsätzen); aber wir glauben, daß diese hoher müsse geschätzt werden.
+
+Alle unsere Vergnügen werden dadurch vermindert, daß wir einsehen, ihre Gegenstände sind nicht achtungswürdig.
+
+Wir erkenen, daos der tod nicht zu fürchten sey, und fürchten ihn doch.
+
+Wir erkenen, daß die gute Handlungen aus Neigung nicht so viel moralischen Werth haben als die aus bloßen Maximen. aber wir halten doch mehr auf denjenigen, der aus Neigung gut ist.
+
+**6750.**   ξ?   Pr 34. Wir können das durch Vernunft nur das relativische formale Erkenen, daher auch nur, was im Verhältnisse gut ist, oder die Form des Guten; aber die erste *constitutiva* des Guten erkennet nur der, dessen Vernunft anschauend ist; wir aber haben keine erste *data* des Wohlgefallens als die Sinne. So auch im theoretischen fehlt das absolute z. E. subiecte oder prädicate.
+
+**6751.**   ξ?   Pr 34. Der moralische Geschmak gehet auf harmonie und den Geist des systems.
+
+**6752.**   ξ?   Pr 34.   Zwischen §69 und 70: Die Gründe der Vernunft sind zwiefach. 1. theoretische, etwas zu setzen; 2. etwas zu wählen. Daher die ersten Gründe: a. die Oberste Ursache, b. die oberste Vollkommenheit.
+
+**6753.**   ξ?   Pr 34.   Unter und in §70: Es ist nöthig, die Sittlichkeit vor der Religion zu schiken, daß wir eine tugendhafte Seele Gott darbringen; wenn die Religion vor den Sitten vorhergeht, so ist die Religion ohne *sentiment* eine kalte Einschmeicheley und die Sitten eine observantz aus Noth ohne Gesinnung. Alles muß rein und unvermengt eingesogen und dann verknüpft werden, einander zu begleiten, nicht zu vermengen.
+
+[AA 19:149] **6754.**   ξ?   Pr 34.   In §69 und 70: *I.* Das *principium* der Moral ist nicht sensual, weder *directe* oder pathologisch, weder liegts im physischen (lehre der Geschiklichkeit) noch moralischen Sinn (der letztere ist unmoglich*, weil in ansehung des intellectualen kein Sinn statt findet); noch *indirecte* sensual oder pragmatisch (Lehre der Klugheit): trachte nach deiner größten wahren Glükseeligkeit (*epicureism*). Da die Vernunft nur zum Mittel dient, die Art zu bestimmen, wie die Größte summe der Neigungen befriedigt wird, und die mittel dazu. Es ist also intellectuel (*pure*), **aber nicht tavtologisch (*perfice te, medium tene*). *II.* Es ist nicht äußerlich, außer der Natur der Handlung, in einem andern Willen gelegen.
+
+* (g wenn auch ein solches möglich würde, so könten doch nothwendige categorische und allgemeine Gesetze darauf nicht gegründet seyn. )
+
+** (g Sie enthalten die übereinstimung der Handlungen mit ihren schon gegebenen Zweken und die form dieser Übereinstimung überhaupt: 1. Richtigkeit (Wahrheit), 2. Vollkommenheit, 3. nicht mehr, nicht weniger; sind also tavtologische Regeln und gehen auf die Beziehung der Handlungen auf Zweke, nicht die Zweke selbst. )
+
+**6755.**   ξ.   Pr 35.   Neben und in §71: Das Gefühl ist der Grund des angenehmen und unangenehmen, der fähigkeit Glüklich oder Unglüklich zu seyn. Wenn ein Moralisch gefühl wäre, so würden wir darauf als ein Mittel uns zu vergnügen rechnen, es wäre ein Sinn mehr sich zu vergnügen. Allein in dieser Art von Schätzung würde die tugend mit ihren idealischen Reitzen gegen das Laster mit seinen physischen sehr verlieren. Allein es ist etwas in der moralitaet vor den Geschmak zur Beurtheilung. Allein weil der Geschmak etwas sich auf die Gesellschaft Beziehendes ist und auch darauf, daß man der Gesellschaft bekannt sey: so ist hierin nichts beständiges. Indessen wenn der Mensch zuerst gelernt hat, das Laster als etwas der Verachtung und des Hasses würdiges anzusehen, so wird er jederzeit besorgen, ein rechtmäßiger Gegenstand des ekels zu werden, und dieses wird bricht ab
+
+[AA 19:150] **6756.**   ξ.   Pr 35.   In §71 Schluss: Aus dem Bewegungsgrunde der Göttlichen Heiligkeit kan kein Grund der sittlichen Regel (der Beurtheilung) genommen werden, weil die heiligkeit die moralität voraussetzt. Aus den Bewegungsgründen der Güte auch nicht; denn aus Dankbarkeit können wir einem viel zu Gefallen thun, wovon wir doch die natürliche Billigkeit nicht einsehen.
+
+**6757.**   ξ?   Pr 35.   In §71: Das moralische Gefühl folgt auf den moralischen Begrif, bringt ihn aber nicht hervor; noch viel weniger kan es ihn ersetzen, es setzt ihn voraus.
+
+**6758.**   ξ.   Pr 35.   Unterer Rand: Ohne die Erkenntnis des Göttlichen willens ist kein allgemein gültiger und mächtiger Richter. *non forum competens generale.* Gott siehet in sich das moralische Gesetz (der Mensch auch) und sich selbst als das Wesentliche Urbild dieses Gesetzes (der Mensch sieht an sich die möglichkeit des Gegentheils). Nicht als den Urheber; hieraus folgt, daß der Mensch sich den Moralischen Gesetzen unterworfen, Gott aber zwar nicht über sie erhoben, aber als das objectiv so wohl als subjectiv nothwendige Gesetz ansieht; dem intellectualen nach ist das moralische Gesetz auch subjectiv, aber dem sensitiven nach obiectiv. Der oberste Wille gehet auf den an sich nothwendigen Zweck, die Bedingung aller zufälligen Zwecke. Dieser ist der Zweck des Geistes und das Gesetz des Menschen. Der Mensch hat noch einen andern Zweck über sich. Der Geist aber völlig in sich. Auf diese Weise ist der Mensch sich selbst verantwortlich.
+
+**6759.**   ξ?   Pr 35.   Neben und zu §71: Die Religion ist nicht ein Grund der Moral, sondern umgekehrt.
+
+1. Wenn die Moralität sich auf die Erkentnis des göttlichen Daseyns gründete, so würde das Bewußtseyn der sittlichkeit mit dem vom göttlichen daseyn verbunden seyn.
+
+2. Wir würden nicht die moralische bonitaet des Göttlichen Willens erkenen könen.
+
+3. Die *vis obligatoria* ist in dem moralischen Verhältnis des göttlichen Willens zu unserm (s nicht der Macht).
+
+[AA 19:151] **6760.**   ξ.   Pr 35.   Über §71: Das *principium* der moralischen dijudication ist
+
+—————
+
+—————
+
+—————
+
+—————
+
+(g *judicia moralitatis sunt rationalia.* )
+
+(g Das *sentiment* gehöret blos vor den Verstand und ist eigentlich die gesunde Vernunft im Moralischen. )
+
+* (g das Bewußtseyn der Würdigkeit der Glükseeligkeit wird als ein Besitz derselben angesehen, daher das moralische Vergnügen. der moralische Geschmak aber der Unterscheidung beruhet auf einer unterordnung der untern Erkentnis unter die obere, da man eine jede Handlung nur unter einem allgemeinen Gesichtspunkte sich vorstellt. )
+
+[AA 19:152] Reinlichkeit und Ordnung in der Erscheinung. )
+
+Zwischen den letzten beiden Zusätzen (Zeile 27--32 und 1--2) steht ein *Verte* mit einem Verweisungszeichen, dem auf Pr 36 ein zweites Zeichen entspricht, das folgende Reflexion (Phase ξ? φ??) einführt: Pr 36: Das Moralische Urtheil der Billigung und Misbilligung geschieht durch den Verstand, die Moralische Empfindung des Vergnügens und Abscheus durchs moralische Gefühl, doch so, daß nicht das moralische Urtheil aus dem Gefühl, sondern dieses aus jenem entspringt. Alles moralische Gefühl setzt ein sittliches Urtheil durch den Verstand voraus.
+
+Wir könen so gar ohne merkliches Gefühl billigen oder misbilligen und die Handlungen des Abscheus würdig finden. Der Abscheu selber wird endlich erzeugt durch übung. *sentiment.* Moralischer instinct.
+
+(g Die Ethische Pflichten haben in der Ausübung mehr ihren Ursprung im Gefühl als in Moralischen Begriffen, die des Rechts blos mehr in Begriffen als im Gefühl; daher nur die letztere bestimte Regeln haben, bey den ersteren aber die Vergleichung meines Gefühls. Es kan indessen eine gute Handlung blos aus moralischen Begriffen oder Grundsätzen geschehen ohne alles Gefühl: begnadigung ohne Mitleiden, eheliche treue ohne Liebe. Und ofters aus Gefühl ohne Grundsätze: instinct. Alle Liebe ist eben so wohl als die Hochachtung eine art von Gefühl. Man kan sich solche nicht geben, und in ansehung Gottes ist nur die letztere möglich. Wir schätzen immer die bonität aus Gefühl höher als aus Grundsätzen (doch müssen jene nach diesen eingerichtet seyn), weil sie sonst veränderlich und oft falsch sind. Die Grundsätze sind zu schwach und können durch sophisterey überwogen werden. Pr 37: Man glaubt immer sicherer zu seyn, wenn die Sinnlichkeit der Vernunft zur Seite geht und ihr die Weihe giebt, den flatterhaften Menschen zu fesseln. Das Gute Gemüth ist eigentlich dieses Gute Gefühl und, weil es an sich selbst ohne Grundsätze ist, schwach und mehr gütig als edel. Das Böse gemüth kan eben [AA 19:153] so richtig seyn im Urtheilen; aber das böse herz besteht entweder eigentlich darin, daß es nicht einmal zu Guten Grundsätzen fähig ist oder sich nur. Denn der Mann, der jederzeit Gute Grundsätze hat, aber seine Begierden nicht zwingen kan, hat ein gutes Herz, aber böses temperament. Das moralische Gefühl ist gut, aber die Begierden sind unbezwinglich. --- Es giebt aber auch ein böses Herz, welches man vom bösen Gemüth unterscheiden könte, wo die Grundsätze gut, die Neigungen aber nicht blos zu stark sind, sondern auch unmittelbar böse zweke haben. Neid. Menschenhaß. Rache. (s Unvertragsamkeit. Eigendünkel. Grobheit. falschheit. ) Gleichwie, deren Natürliche Neigungen schon auf etwas moralisch gutes gehen, auf Glükseeligkeit und Liebe andrer, ein gut Herz haben und, die so nicht geartet sind, doch ein Gut Gemüth haben können. Die Unterweisung kan zum guten *Verstande* viel, zum guten *Gemüth* weniger, zum guten *Herzen* gar nichts beytragen. )
+
+**6761.**   ξ?   Pr 36.   In §73 Anfang: *libertas moralis*: Befugnis; *oppositum eius est obligatio. Contrarie* *oppositum est illicitum.*
+
+**6762.**   ξ.   Pr 36. Was nicht unter einer allgemeinen Regel des reinen Willens stehen kan, ist moralisch unrichtig. Die Übereinstimung der freyen willkühr Handlung mit der allgemeinheit des reinen Willens ist Moralitaet.
+
+**6763.**   ξ.   Pr 37. Was die subjective bewegende Gründe der Sittlichkeit oder die triebfedern betrift, so hat der Verstand wohl eine Kraft, den Wunsch eines so guten Willens zu wege zu bringen; allein die hebel gewichte, welche den sinnlichen Menschen bewegen sollen, müssen aus der thierischen aus dem Vorrath der Sinnlichkeit entlehnt seyn, ob sie zwar durch den Verstand auf ihre Hebel zwekmäßig sollen vertheilt werden. Dennoch glaube ich, daß, damit die tugend, vornemlich die von der nachgebenden, duldenden Art, die entsagung nicht blos der Gemächlichkeiten, sondern der Eigenliebe (ausschließende Liebe seiner Persohn, nicht ausschließende Neigung zum Wohlleben) statt finde, der Mensch etwas entnervt, schwach und des Zutrauens [AA 19:154] zu sich selbst etwas beraubt seyn müsse. Der, welcher von der schwachen und entkräftenden Aufwallung des Errothens und der Verlegenen Bescheidenheit frey wäre; der von andern die wahre und lebendige Vorstellung hätte, ihr Urtheil in Ansehung seiner nicht von so großem Gewichte zu finden; der keine Weichliche Unruhe fühlete, wenn er vermuthet, daß andere ihm Ungeneigt wären, oder durch mangel an selbgnugsamkeit zu den Gesetzen der Gesellschaft geschmeidig gemacht würde, der durch Beschwerlichkeiten nur neue Kräfte bekomt und den feindschaft und Drohen nur warm und muthig machen; der abgehärtet, zum Wohlleben und zum Mangel gleich entschlossen, kein Spiel seiner Einbildungen und sympathien, sondern von starker, sich selbst besitzender Gesundheit wäre. Dieser würde sich in großer Versuchung sehen, das zu wagen, wovon andere sich dadurch abhalten lassen, daß sie bey dem tadelnden Auge anderer nicht *contenance* halten könen, die von andern viel hoffen und fürchten und die glauben, in Einöde versetzt zu werden, wenn sie anderer Neigung gegen sich erkalten sähen. Er würde darum vielleicht nicht so fort ein Bösewicht, aber ein wenig nachgebend seyn *etc.* *etc.*
+
+Die tugend gegen sich selbst komt auf Stärke an, imgleichen die grosmüthige tugenden gegen andere, aber die milden und sanften, die nachgebenden auf schwächen. Das Roß muß entnervt werden, damit es der menschliche centaur regiren kan.
+
+**6764.**   ξ? φ?   Pr 36.   In §73: Wir könen an den Handlungen die moralitaet und legalitaet derselben betrachten. wenn diese statt findet, ist jene noch nicht entweder dem object nach (Gütigkeit) oder blos dem Bewegungsgrunde nach (Gesinnung oder furcht). Die Legalität ist entweder juridisch oder ethisch.
+
+**6765.**   ξ? φ?   Pr 37.   In §74: Die Handlung, deren intention, als allgemeine Regel betrachtet, sich selbst und andrer ihrer nothwendig wiederstreiten würde, ist moralisch unmöglich.
+
+Die Gesinnung, sich in seinen Handlungen dem allgemeinen *principio* der regeln gemäß zu verhalten, ist moralisch. Wenn der Wille der form des Verstandes überhaupt unterworfen ist.
+
+[AA 19:155] Die treibende Kraft des Verstandes beruht darauf, daß er sich an sich selbst allen *principiis* der Handlungen wiedersetzt, den Gebrauch der regeln unmoglich machen.
+
+#### Iuris peritia.
+
+#### Principia iuris
+
+**6766.**   ξ? κ-λ?   Pr 38.   Über §76: Ob das moralisch (g practisch) gute oder böse im Verstande oder Willen liege?
+
+Es giebt einen bösen und einen trägen oder faulen Willen. Selbst unkluge Handlungen, z. E. einer thorigten Liebe, haben ihren Ursprung nicht in der schwäche der Vernunft, sondern der Unlenksamkeit des Willens.
+
+**6767.**   ξ? κ? η?   Pr 49. Moralitaet (g objectiv) ist die freyheit nach (g unter) Gesetzen. Die Freyheit unter inneren —————— äußeren
+
+Gesetz ist die Einschränkung der Freyheit durch allgemeine Bedingungen der Einstimmung derselben mit sich selbst.
+
+Freyheit, die ohne Gesetz gut ist, ist ursprünglich.
+
+(g Die Übereinstimung beruht entweder auf der Einheit des Zweks oder Einheit der bricht ab. )
+
+1. handle Gesetzmäßig ohne Zwang. 2. Übe Zwang aus, aber nach Gesetzen. 3. Unterwirf die freyheit dem Zwang der Gesetze.
+
+a. Schaffe iederman in Ansehung Deiner Sicherheit (durch Unterwerfung unter Zwang).
+
+b. Schaffe iederman Sicherheit gegen iedermann (durch Ausübung des Gesetzmäßigen Zwanges).
+
+**6768.**   ξ? η?   Pr 54.   Zu §93 Anfang: *pertinens ad modificationem alterius est suum physicum.*
+
+[AA 19:156] *modificabile per arbitrum alterius*
+
+*--- ---    ---    ---    ---*
+
+#### Legislator.
+
+**6769.**   ξ? φ?   Pr 61. 62. Pr 61: Der Urheber eines äußeren Zwanges nach dem Gesetze ist der Gesetzgeber. Er ist nicht immer der Urheber des Gesetzes und, wo er es ist, da ist das Gesetz an sich zufallig verbindend. Pr 62: nun ist das moralische Gesetz der Vernunft heilig, folglich d. i. ohne Fehl oder Mängel, das Urbild der Vollkommenheit und das Richtmas der Beurtheilung alles werths und unwerths der handlungen. Also ist das Göttliche Gesetz heilig und unnachsichtig.
+
+**6770.**   ξ? ρ? φ?   Pr 61. *Legislator pragmaticus (g est auctor), qvi non intendit moralitatem.* *moralis* (g Der Gesinnungen. Gott ists allein. )
+
+**6771.**   ξ? φ?   Pr 61.   Über und in §100: *Auctor legis obligantis est legislator. Auctor obligationis conformiter* *legi non est legislator. Utrum deus possit auctor legum moralium* *primitivarum dici? Est principium, non auctor.*
+
+Zu §100 "legem ferre": *non est auctorem legis esse.* *connectens obligationem arbitrii cum lege legem fert.* *legem tanqvam pro secundum arbitrium suum obligantem declarans* *legem fert.*
+
+**6772.**   ξ? φ?   Pr 60. *Autor nexus coactionis cum obligatione lege obligante est legislator.* Gott ist nicht blos *legislator pragmaticus*, sondern auch *moralis*.
+
+Der, so das göttliche Gesetz pragmatisch (g um Belohnung und Bestrafung) befolgt, ist ein Guter Bürger (g oder Unterthan) im göttlichen
+
+[AA 19:157] Staat, aber noch nicht sein Kind und Liebling und von seinem heiligen Geist bewohnt.
+
+**6773.**   ξ? υ?   Pr 61. Der Göttliche Wille ist das Ideal (g Urbild, Muster, Richtschnur) des Vollkommensten Willens; folglich, zu sagen: er sey der Urheber aller Verbindlichkeit, bedeutet, daß die größeste Vollkomenheit den Grund der Sittlichkeit enthalte.
+
+#### Imputatio facti.
+
+**6774.**   ξ?   Pr 80. Weil die Gesetze der Schuldigkeit nur mit Strafen und die der Verdienstlichen Pflicht nur mit Belohnungen verbunden seyn könen, so können *valide* auch nur unterlassungen der Schuldigkeit und Begehungen der liebe imputirt werden.
+
+*Actio potest alicui attribui* (zugeschrieben werden), *si videtur profecta* *a libertate.*
+
+**6775.**   ξ? κ?   Pr 81. * wir legen jemandem etwas bey, wie ein praedicat einem jeden subjecte; wir eignen oder schreiben ihm zu, wenn es als etwas zu seiner Persohn gehöriges angesehen wird, *e. g.* Erfindung dem *genie*; wir rechnen es zu, wenn es *simpliciter* zugeeignet, d. i. als aus freyheit entsprungen vorgestelt wird.
+
+**6776.**   ξ?   Pr 81. Ob die ethische *omissiones *actiones omissivae** seyn, also könen imputirt werden? Ia, die Handlun Unterlassungen aus Gütigkeit, aber nicht die Unterlassungen aus mangel der Gütigkeit; denn die letzte werden darum unterlassen, weil sie kein motiv haben.
+
+**6777.**   ξ?   Pr 81. imputirt wird die handlung, in ansehung deren jemand frey ist, d. i. weder objectiv noch subjectiv gezwungen ist.
+
+[AA 19:158] **6778.**   ξ?   Pr 81. Pragmatisch imputire ich nicht die Begehungen, die pathologisch nothwendig seyn, und nicht solche unterlassungen, sondern nur die, deren gegentheil nach Regeln der neigung möglich ist.
+
+**6779.**   ξ?   Pr 81. imputirt wird einem nicht, wozu zu dessen Gegentheil kein zwingend Gesetz ist.
+
+**6780.**   ξ? ζ?   Pr 81. Das Gute gefällt den Menschen am meisten durch die appropiation, z. E. daß ein berühmter Mann unser Landesmann sey. Noch mehr durch die imputation auf uns selbst.
+
+**6781.**   ξ? ζ?   Pr 81. Was der Persohn eigen ist, wird mehr appropriirt, als was dem Zustande; und was der freyheit zuzuschreiben, noch mehr; was der moralität, am meisten.
+
+Imputirt wird eine jede Handlung, deren Gegentheil moralisch möglich ist. Folglich keine Gute Handlung der Schuldigkeit, eine jede Handlung der Gütigkeit *etc*: *folglich* wird *das imputirt, dessen Gegentheil* *keine Schuldigkeit ist*, folglich nicht die Armuth um des Mangels der Wohlthat.
+
+**6782.**   ξ?   Pr 83.   Über und neben §127, 2. Hälfte, neben §128: Selbst bey mechanischen Wirkungen ist die Begehung einer Wirkung, zu der ein Ding getrieben wird, nicht seiner thätigkeit beyzumessen, und die unterlassung, zu der er nicht getrieben wird, auch. Denn das erstere ist keine selbstthätige, das zweyte gar keine Handlung. Dagegen ist die Unterlassung einer Wirkung, zu der das subject doch getrieben wird (Reitz), und die Begehung einer Handlung, zu der es nicht genöthigt ist, nicht beyzumessen; denn im ersten Falle ist es wiederstand oder auch Mangel der Selbstthätigkeit, im zweyten ist es gänzliche selbstthätigkeit. Die entgegengesetzte Handlungen, welche nicht allein nicht einem Gesetze gemäß [AA 19:159] wirken, sondern sein Wirken und da sondern ihm entgegen handeln, sind erstlich unterlassungen nach des Gesetzes und in so fern doch wiederstrebungen, also von den handlungen, welche beraubend sind, nur dem Grade nach unterschieden. Gebe ich jemandem das gelehnte nicht wieder, so ists eben so viel, als wenn ich etwas anderen nehme; denn ich beraube den andern des seinigen. Ertheile ich jemandem keine Wohlthat, so ists eben so viel, als nehme ich ihm etwas aus dem Grunde des rechts, was ich ihm hätte erlassen können.
+
+**6783.**   ξ? η?   Pr 83.   Zwischen §127 und 128: Wenn etwas als eine freye Handlung, die nach moralischen Gesetzen nicht necessitirt ist, angesehen werden kan, so ist es ein *factum*.
+
+**6784.**   ξ?   Pr 84.   Neben §128 Schluss: Die folgen einer that, die moralisch indifferent ist, werden nicht zugerechnet; also hat alle Zurechnung eine beziehung auf moralische Gesetze, und eine Handlung, die unter einem moralischen (g gebot --- oder Verbot --- ) Gesetze steht, heißt eine that. Ein jedes *factum* ist entweder *meritum* oder *demeritum*, keines ist *adiaphoron*
+
+**6785.**   ξ?   Pr 86.   Zu §132: Wie wenig gutes uns imputirt werden könne, wenn man alle *merita* *fortunae* abzieht: Verstand, so gar Erziehung, Beyspiel,Gesundheit, mangel an Verleitung *etc.*
+
+**6786.**   ξ?   Pr 88.   Neben §133, 134: Die folgen einer Handlung können einem Zugerechnet werden, wenn er 2. die Handlung selbst (nicht er in Ansehung derselben) frey war (*physice* und *legaliter*);
+
+1. wenn es eine Handlung und nicht eine bloße Zulassung war.
+
+Nun sind erstlich alle iuridische unterlassungen (z. E. Schuld nicht bezahlen) handlungen, weil sie einem Gesetze entgegen geschehen, welchem [AA 19:160] dessen treibender Kraft man sich wiedersetzte. Zweytens sind sie frey, weil sie gar dem Gesetze entgegen geschehen und also auf keinerley Art erzwungen sind. Also können die folgen der iuridischen Unterlassung imputirt werden.
+
+Dagegen können die folgen der iuridischen Begehungen nicht imputirt werden, weil die Handlung nicht frey war. Dagegen sind die folgen aller der ethischen Unterlassungen nicht zuzurechnen; denn sie sind gar nicht Handlungen (*facta)* und keinem Gesetze (aus dem Willen eines andern) zuwieder oder vielmehr keinem andern zuwieder handelnd. Daher können ihre folgen nicht als *facta* angesehen werden. Dagegen können iuridische Begehungen in ihren folgen nicht imputirt werden, weil die Handlung nicht frey war. Die Handlung selbst ist zu *imputiren* als Recht (g weder *in meritum* noch *demeritum* ) *in *licitum** (so wie die ethische Unterlassung). Aber ethische *Begehungen* und iuridische unterlassungen *in* *meritum* oder *demeritum*.
+
+*Summa*: 1. Das iuridisch gesetzmäßige (g ist nicht frey) und ethisch gesetzwiedrige (g ist eine bloße zulassung) kan nicht in seinen folgen imputirt werden; 2. das iuridisch gesetzwiedrige und ethisch gesetzmäßige muß in Ansehung aller seiner folgen imputirt werden.
+
+p. 89, Rand unten:
+
+**(g** Beobachtungen iuridischer und übertretungen ethischer Gesetze können nicht *in meritum* oder *demeritum* imputirt werden.
+
+Übertretungen iuridischer und Beobachtungen ethischer Gesetze müssen *in demeritum* und *meritum* imputirt werden.
+
+Also iuridische allein:
+
+Ihre Beobachtung wird in deren folgen weder *in meritum* noch *demeritum* imputirt.
+
+Ihre Übertretung wird in deren guten folgen niemals *in meritum*, in bösen jederzeit *in demeritum* imputirt.
+
+Die iuridischen Gesetze sprechen frey oder schuldig, die ethische frey oder unschuldig oder verdienstlich. **)**
+
+**6787.**   ξ?   Pr 88. Als freye Handlung (im psychologischen Verstande) bricht ab.
+
+**6788.**   ξ?   Pr 89. Was nach einem iuridischen Gesetz nothwendig ist geschieht, kan weder [AA 19:161] in seinen Guten noch Bösen folgen imputirt werden. Was ihm entgegen ist, kan in ansehung aller bösen, aber nicht guten Folgen imputirt werden.
+
+**6789.**   ξ? η?   Pr 89.   Neben § 134 Schluss und § 135 Anfang: Alle ethische Handlungen gegen sich selbst können imputirt werden, sie mögen gut oder böse seyn. Man kan sich seine Gesundheit oder Krankheit selbst zuschreiben.
+
+**6790.**   ξ?   Pr 89.   Neben § 135: Die böse folgen von dem, was ich nothwendiger weise that, könen mir nicht imputirt werden.
+
+### [AA 19:162] Phase ρ.
+
+#### Allgemeines.
+
+**6791.**   ρ? ξ?   Pr III'. ein geschikter Gebrauch seines Vermögens zu beliebigem Zwek;
+
+ein vernünftiger Gebrauch oder Zwek zu seiner Glükseeligkeit; ein guter Zwek zu dem, was in aller Absicht gut ist.
+
+**6792.**   ρ? ξ?   Pr III'. (s Man nennt tugend ein jedes gutes Verhalten (g Eigenschaft von gutem Gebrauch). Ein Getränk, speise, Zeug, Metall, Gefäß hat tugend und untugend; ein Pferd. Tugend am Menschen ist seine Eigenschaft des guten Verhaltens; tugendhaft aber: der einen allgemeinen Grund des guten Verhaltens überhaupt enthält; alles moralische ist tugend κατ εξοχην. )
+
+Tugend besteht in rechtschaffenheit und Wohlwollen*, in so fern beyde thätig sind.
+
+Die Rechtschaffenheit in der Achtung vor die Rechte der Menschen und der Menschheit in seiner eigenen Persohn.
+
+* (g ich würde an die Stelle desselben) bricht ab.
+
+(s moralische, pragmatische, physische tugend. )
+
+(s Tugend ist die tauglichkeit zum guten Gebrauch. )
+
+(s Die Willige fertigkeit, sich aller seiner Kräfte zu (g allgemein) guter Absicht zu gebrauchen, ist moralische tugend. Tugend ist also die moralitaet in der Neigung Fertigkeit. )
+
+[AA 19:163] **6793.**   ρ? ξ?   Pr III'. Das Empfindungs- und Anschauungsvermögen des Sehens. Iens Auf Licht und farben überhaupt, dieses auf das Verheltnis lichter gegenstände im Raum, d. i. Gestalt. Eben so Urtheil und Gefühl im Guten.
+
+**6794.**   ρ--σ? ξ?   Pr IV'. Es ist unstrittig, daß die tugend *glüklich* mache, wenn sie *iedermann* ausübt; aber *epicur* behauptete: auch denn, wenn man sie *allein* ausübt.
+
+Ob wir nicht, wie *Chrysipp* sagte, böses thun blos aus *Unwissenheit* (s daher das moralische system der Warheit). Also nur *eine tugend*, nemlich die Wissenschaft (g und fertigkeit) des Guten. (g *aristoteles*. ) (g Die practic der Sinne ist dialectisch und gründet sich auf den Schein. ) Die *adiaphora* Reich oder arm: darüber kan man beschließen, wie man will, aber nicht über *honestum* und *turpe*. Gesundheit ist zu wünschen. aber nicht zu billigen, Krankheit zu verabscheuen (g fliehen), aber nicht zu tadeln.
+
+**6795.**   ρ? ξ??   Pr V'. Die Wesentliche gesetze sind die, ohne welche die freyheit ein gefährliches Ungeheuer seyn würde; nemlich die freyheit muß nicht so gebraucht werden, daß sie der Menschheit an sich selbst, 2. nicht der freyheit anderer zu wieder ist. Es sind also Rechte der Menschheit und rechte der Menschen: Rechte der Menschheit in seiner eignen Persohn und eben solche Rechte in Ansehung andrer.
+
+**6796.**   ρ? ξ?   Pr V'. Die Sittlichkeit beruht auf der Regel der Handlungen aus dem Gesichtspunkte (station) des allgemeinen theilnehmers oder Stellvertreters:
+
+1. des theilnehmers der Natur in ansehung seiner selbst,
+
+[AA 19:164] 2. des theilnehmers der freyheit in Ansehung andrer. Im letzteren falle entweder des Stellvertreters der Willkühr anderer oder der Wohlfarth derselben.
+
+Die allgemeinheit ist entweder der Eigenschaft oder der Dinge, welche eine Gewisse Eigenschaft haben. *Universalitas interna* oder *externa*. Moralisches Gefühl ist das, wodurch die (g allgemeinen obiectiven) *principia* der Beurtheilung zu subiectiven der Entschließung werden, also die absolute Regeln zu maximen.
+
+Die freyheit ist unabhängigkeit von triebfedern, mithin auch von Gefühlen. Daher kan nie ein Gefühl seyn, was nothwendig durch die Vernunft, in so fern sie durch die allgemeinheit der Regeln die Willkühr bestimt. Logisch ist die Vernunft der Grund der Regel. Was im allgemeinen gilt, gilt auch im besonderen, was darunter enthalten ist. und practisch überhaupt: Nur dasjenige, was in der Allgemeinheit (g im All) gefällt, kan in dem besondern Gefallen, was unter iener enthalten ist. Nur die Allgemeingültigkeit vor die Willkühr in ansehung aller Handlungen ist das, was die freyheit restringirt. Die Lust daran beruht auf der Zusammenstimmung aller Handlungen der Willkühr unter einander durch die Einstimmung mit dem, was das allgemeingültige derselben ist.
+
+**6797.**   ρ? ξ?   Pr V'. 1. Wie man
+
+2. --  --
+
+**6798.**   ρ? ξ??   Pr V'. Wenn das Gefühl der Vernunft die Kraft der triebfeder giebt, so ist alles gut. Wenn sie aber das Urtheil bestimmen soll, so ist alles eine willkührliche Einrichtung gottes, und man weiß nicht, ob es gut sey.
+
+**6799.**   ρ? ξ?   Pr V'. Des Menschen Sittlichkeit ist Pflicht, denn seine freyheit ist nicht Ursprünglich aus dem Verstande bestimmt. Sie ist also nur eine bedingte spontaneität, und zwar daß er die bricht ab.
+
+**6800.**   ρ? ξ?   Pr V'. Mit dem leeren Begrif der Vollkommenheit ist es nicht ausgemacht.
+
+[AA 19:165] Wenn allererst bekant ist, was gut sey, so ist Vollkommenheit die fülle des Guten, d. i. wenn das Gute von gewisser Art vollständig ist. Sonst heißen Vollkommenheiten Eigenschaften, die an einem Dinge als Mittel zu allerley zweken desselben dienen.
+
+**6801.**   ρ? ξ?   Pr VI'. Es ist von der größesten Nothwendigkeit vor der Vernunft, gewisse praktische Regeln als Grundsätze anzunehmen, die absolut necessitiren (categorisch), ohne auf den Bedingungen von Nutzen zu beruhen, z. E. keine Absicht wieder sein eigen Leben zu haben oder seine eigne Persohn nicht andern Absichten aufzuopfern. Denn weil in Bestimmung des Nutzens alles Zufällig ist (die allgemeine Bedingung aber aller Absichten seyn muß daß die Persohn nicht den wesentlichen freyen Handlungen und der Vorzug der freyheit selbst, der den Menschen eines moralischen und inneren Werths fähig macht, dieses ist, daß er durch die thierische triebfedern niemals überwältigt werde, dasienige zu wollen, was ein principium der Handlung wieder sich selbst verräth *etc.* *etc.*), so muß diejenige Handlung die unangesehen ihres Nutzens und Schadens das, was eine vorhergehende Handlung Bedingung ist, sich seiner freyheit zu bedienen, die freyheit nothwendig einschränken, folglich die wesentliche Bestimmungen seiner eignen Persohn und das Leben selbst. Wieder diese kan keine Absicht statt finden, ob sie zwar selbst nicht eben die Absicht selber seyn dürfen. Wesentliche Bestimungen sind die, ohne die er entweder kein Mensch oder gar kein freyes wesen seyn würde.
+
+Er soll nicht Absicht haben, die Unwarheit zu reden, weil er als einer, der seinen Sinn bezeichnen kann, die Bedeutung derselben nicht vernichtigen muß. Er soll nicht sich selbst tödten, weil er, wenn er mit sich selbst schaltet, sich *als eine Sache betrachtet* und die Würde eines Menschen verliert. Er beleidigt andre, wenn er das, was *nicht seine* Sache ist, als die seinige behandelt. Der Selbstmörder zeigt auch die freyheit in dem Größten wiederstreit wieder sich selbst, mithin in der größten Zerrütung des Eignen Wahnes. Die Menschheit *ist heilig* und unverletzlich. (g so wohl in seiner eignen Persohn als in der anderer. Seine eigne Einwilligung ist hier [AA 19:166] nichtig, weil man keinen Willen hat um aufzuhören gar etwas zu seyn. ) Alle Pflichten bestehen darin daß, nemlich die nothwendigen, bestehen nicht darin, daß wir der Menschen wohlfarth, sondern der Menschheit vorzüge und Würde ehren. Also ist das Recht der Menschheit dasienige, was alle freyheit durch nothwendige Bedingungen einschränkt. Der Mensch kan große Handlungen selbst im Unglüke ausüben aber die Abs und da, wo er das Leben aufopfert, nicht weil er dasselbe haßt, da ist er doch des Lebens werth. Der so sein Leben selbst kleiner schätzt als die Gemächlichkeit des Glüks, der ist des lebens nicht werth.
+
+Alle solche pflichten müssen unabhängig von Pflichten gegen Gott erwogen werden, weil wir diese nur aus der pflichtmäßigkeit der Handlungen an sich selbst urtheilen könen und unsern eignen Gutachten dieses Leben übergeben ist.
+
+Der Selbstmord ist vielleicht nicht so schädlich bey der Erwartung einer Voraussetzung, es gebe keine andre Welt; aber er ist alsdenn noch scheuslicher. Wie würdet ihr einen freund ansehen, von dem ihr nie sicher wäret, ob er nicht mit dem Selbstmorde umginge? (s Wieder den Selbstmord. So lange der Mensch lebt, hat er immer gelegenheit, gute und selbst heroische tugend auszuüben. Er muß das Leben in dem größten Elende als die Auffoderung des Schiksals an seine Standhaftigkeit ansehen. )
+
+**6802.**   ρ? ξ?   Pr VII'. Das allgemeine und oberste praktische Gesetz der Vernunft ist: daß die Vernunft die freye Handlungen bestimmen müsse. Wir könen nur ein Wohlgefallen daran haben, so bald wir sie damit zusammen stimmen sehen. Es ist einem vernünftigen Wesen nothwendig, zuvor die freyheit unter das allgemeine Vernunftgesetz zu bringen. Dieses besteht darin, daß die Gesinung der Handlung allgemein genommen mit der freyen willkühr (mit sich selbst) stimme und daß die freyheit zuerst aufhört, eine Ungebundenheit und Gesetzlosigkeit zu seyn. appetite geben keine allgemein stimige Gesetze; entweder Natur oder Willkühr überhaupt geben den Beziehungsgrund überhaupt an die Hand, in Verhältnis auf welchen eine allgemeine übereinstimung der handlungen seyn muß. Worauf beruht also das wohlgefallen mit an der Übereinstimung der handlung mit dem, was allgemein [AA 19:167] genommen nothwendig gefallen würde? und warum gefällt uns diese Allgemeingültigkeit? Woher sind wir bestimmt, das Besondere aus dem allgemeinen abzuleiten? Darum weil wir eben so wohl im Urteil über practischen Urtheil als dem theoretischen die Vernunft als die nothwendige Bedingung derselben ansehn.
+
+Die Handlungen sind nicht richtig, die freyheit ist regellos, wenn sie nicht unter solcher Einschränkung aus der idee des ganzen steht. Sie misfällt uns selbst. Dieses ist die nothwendige Bedingung der practischen form, so wie der raum der intuition.
+
+**6803.**   ρ? ξ?   Pr VII'. Ich besorge sehr, daß man nur darum so gefühlvoll ist, weil man so gedankenlos ist.
+
+Dieser Wahn nimt der Vernunft ihr Ansehen und dem Sittlichen Gesetz seine Kraft. (s Würde. Denn Es ist alsdenn das Gesetz eines an sich zufällig ertheilten Geschmaks. Denn daß dieser Geschmak aufs warhafte Gute gehe, kan nicht gesagt werden, ohne das moralische Gefühl vorauszusetzen. )
+
+**6804.**   ρ-σ.   Pr VII'. Bösewichter haben moralisch Urtheil so vollkommen wie wir, aber nicht moralisch Gefühl. Die Regel beruht auf Begriffe, die Ausübung auf Gefühl, was diesen Begriffen, nicht aber den Eindrüken gemäß ist.
+
+#### Obligatio in genere.
+
+**6805.**   ρ.   Pr 3. Wir fühlen uns wirklich durch den obersten Willen *intellectualiter* genöthigt; aber die Übertragung dieses oberen Willens auf die Sinnlichkeit komt auf uns selbst an, und die ists, die wir tadeln.
+
+*Die* Unter *conformitaet einer Handlung mit einer nothwendigen* *und allgemeingültigen Regel des Wohlgefallens* *ist die moralitaet.*
+
+[AA 19:168] Regeln, unter welchen etwas nur allgemein gefallen kan, sind praecepta.
+
+Es giebt Gesetze, (g die) etwas categorisch gebieten (materie), etwas zu thun, und andre, die hypothetisch gebieten, wenn man etwas thun will (das ist beliebig), es auf eine gewisse besondere Art zu thun, die unter dieser Regel steht (form); die letzten sind *regulae juris*.
+
+Man verlangt, daß die freye Handlungen sich unter Regeln bringen laßen, vornemlich unter solche, ohne die die Unregelmäßigkeit nothwendig wäre. Diese Form ist moralisch.
+
+(g Handlungen aus principien oder aus antrieben oder Gelegentlichen Ursachen. )
+
+#### Imputatio facti.
+
+**6806.**   ρ? ξ?   Pr 82. Schuldigkeiten sind nicht imputabel (*nec in praemium nec poenam*), aber wohl ihre Gegentheile: Verbrechen. Verdienste sind imputabel, aber nicht ihre Gegentheile: unedle Handlungen. Die imputation geschieht nach dem Grade der subjectiven fre imputabilität der Handlung und der subjectiven freyheit.
+
+**6807.**   ρ? ξ?   Pr 82. *Imputatio est relationis* (Handlung beymessen) *vel facti* (That zurechnen); *posterius est effectus actionis (g voluntariae). Effectus actionis* *necessitatae vel physice vel moraliter non imputantur, sed imputari possunt* *in posteriori casu actiones. Officia debiti non imputantur, sed* *omissiones. Sed omissiones meriti cum suis consectariis non imputantur,* *commissiones imputantur.*
+
+**6808.**   ρ? ξ?   Pr 83. *Facta interna imput (delicta conatus, vel propositi) imputantur* *interne. h. e. Ethice coram foro conscientiae.*
+
+**6809.**   ρ-φ   Pr 82.   Zu § 127 Eine Handlung wird imputirt, in so fern es sie frey ist. Ein *factum*, in sofern es sie durch kein Gesetz genöthigt ist. Ein Gesetz, in so ferne [AA 19:169] das Gesetz bestimt wird. Ungerechtigkeit wird am stärksten imputirt, und diese imputation kan nicht durch ethisches Verdienst compensirt werden.
+
+p. 83: Die effectus einer *formaliter* bösen Handlung, *e. g.* Lüge, können nicht*iuridice* imputirt werden (nur *interne*).
+
+**6810.**   ρ? ξ?   Pr 87.   Neben § 133 Satz 3-5: Die imputabilität der Handlungen *obiective* d. i. oder *subiective* nach der freyheit des subiects.
+
+**6811.**   ρ? κ?   Pr 89.   Zwischen § 135 und 136 *imputatio* ist entweder nur practisch überhaupt oder auch moralisch: *in meritum et demeritum aestumatio*.
+
+**6812.**   ρ? ξ? τ   Pr 105.   Zu der überschrift und § 159: Ie weniger die Natur, ie mehr der Mensch (aus Freyheit) in Beziehung auf seine Pflicht (es sey durch Übertretung oder zu Befolgung derselben) thut, desto stärker kann ihm das imputirt werden. Die größe der imputabilität kann *objectiv* nach dem Grad der *Verbindlichkeit* oder *subjectiv* der *Schwierigkeit* beurtheilt werden. Doch muß die Schwierigkeit unverschuldet seyn.
+
+**6813.**   ρ? κ? τ?   Pr 105.   Zu § 159 Satz 1 „nisi morale“: *facta lege iuridica necessaria non imputantur, sed eorum opposita.*
+
+*item opposita iuri humanae naturae (hypostatico) --- quia vtraque* *nititur libertate et vel personalitate, circa qvas arbitrium nihil statuere* *potest. Sed robur propositi moralis invincibile ab omnibus causis oppositis* *est analogon Meriti.*
+
+*Omnis actio autem *non* proprie a *lege*, sed a fine *morali* profecta,* *h. e. ethica, est simul meritoria, quia respondet qvidem obligationi,* *sed non debiti, adeoque voluntaria est, non moraliter coacta, et eo magis* *imputatur, quo majora impedimenta superare potuit.*
+
+#### [AA 19:170] Forum externum.
+
+#### Conscientia
+
+**6814.**   ρ? τ? φ?   Pr 129. Die Ethische Pflichten haben zur Regel: *utere eo qvod est libertate* *respectu eius, qvod est *tuum* nec conformiter convenienter conditionibus* *finibus universalibus vel humanitatis vel hominum.*
+
+*(g Materiale est tuum. Formale est moralitas, h. e. necessitatio* *per motiva moralia obligantia. )*
+
+*Tuum est vel essentiale vel accidentale. Circa tuum essentiale* *nulla licet tibi dispositio. circa tuum accidentale in usum felicitatis* *publicae. Ergo tuum essentiale necessario est privatum, tuum accidentale* *est publici usus.*
+
+Die juridische Pflicht.
+
+*(g Materiale est suum alterius. Formale est legalitas, h. e. congruentia* *cum lege externa (actionis, non motivi et intentionis). )*
+
+*Justitia* ist die Verwaltung des Rechts.
+
+*Status naturalis.*
+
+*Justitia privata*, Privatgerechtigkeit.
+
+*Justitia publica*.
+
+**6815.**   ρ? τ? φ?   Pr 134. *Gewissen* ist das Bewustseyn der Pflicht, in der Zurechnung seiner eigenen That aufrichtig zu seyn. *Aufrichtig* ist, der das Bekentnis seines Urtheils jederzeit dem Bewustseyn desselben gemäs fällt. --- Das Gewissen ist also ein Gerichtshof, in dem der Verstand der Gesetzgeber, die Urtheilskraft der Ankläger und Sachwalter, die Vernunft aber der Richter ist. In der zweyten Instanz wird aufrichtigkeit verlangt.
+
+### [AA 19:171] Phase υ -- φ
+
+#### Allgemeines.
+
+**6816.**   φ? (ξ?)   Pr I. Der richtige Gebrauch des Verstandes und Vernunft: Logic.
+
+Der richtige Gebrauch des reinen Verstandes und Vernunft: Metaphysic.
+
+Der gute Gebrauch des reinen Verstandes und Vernunft: Moral.
+
+**6817.**   υ? (μ? ο?)   Pr I. Alle Vernunftwissenschaft ist entweder von der Möglichkeit der Dinge an sich selbst oder durch die freye Willkühr. Die erste sind theoretische, die zweyte practische Wissenschaften. Die practische philosophie handelt entweder von der Möglichkeit der Dinge durch freye Willkühr und heißt pragmatisch, oder von der Möglichkeit dieser Willkühr selber und ist in strictem Verstande practisch. Es ist die philosophie über die praxis überhaupt, d. i. über die Gründe des Wollens, nicht die Mittel, deren sich der Wille zu Dingen bedient.
+
+**6818.**   υ? (μ? ο?)   Pr I. In einiger Erkentnis betrachtet man nur, was die Dinge seyn; in andern, was sie seyn sollen. Das letztere ist das Zwekmäßige, und der Grund ihrer Möglichkeit liegt in der idee. Daher organische Wesen. Zur Wirklichkeit dessen, was auf gewisse weise seyn soll, gehören Wesen, die Erkentnisse haben und nicht gleichgültig stnd, welche den Zwek, und Handlungen, welche die Mittel enthalten.
+
+[AA 19:172] **6819.**   υ? (μ? ο?)   Pr I. Die praktische philosophie der Alten war *materialiter* verschieden.
+
+Die Neuere differiren *in formali*: welches das *principium* der moralität. Ob Verstand oder Nutze oder Gefühl?
+
+**(s** Die neuere principia:
+
+welche die Mittel zum höchsten Gut Exsecutiren. Neuere --- --- --- --- diiudication. ) **)**
+
+**6820.**   υ? (χ-ψ?)   Pr I. moralphilosophie ist die Wissenschaft der Zweke, so fern sie durch reine Vernunft bestimt seyn. Oder von der Einheit aller Zweke (da sie sich selbst nicht wiederstreiten) vernünftiger Wesen. Die materie des Guten ist empirisch, die Form *a priori* gegeben. moralitaet ist das gute aus principien der spontaneitaet. mithin der universalitaet des Guten.
+
+**6821.**   υ? (χ-ψ?)   Pr I. Weil unsere Handlungen nur so viel werth haben als darin moralitaet ist: so müssen wir das pragmatische der Klugheit sehr, imgleichen das pathologische der Neigung sehr genau vom moralischen scheiden und in den Gesetzen nicht die Bewegungsgründe vermischen, weil s0nst vielleicht gar keine moralitaet, sondern nur ihr Schein bliebe; bey Müntzen der Silbergehalt.
+
+**6822.**   υ.   Pr IV. In der metaphysic der Sitten müssen wir von allen Menschlichen Eigenschaften, der Anwendung und ihren hindernissen *in concreto* abstrahiren und suchen nur den canon, welcheS eine reine und allgemeingültige idee ist.
+
+**6823.**   υ-ψ   Pr V. Practisch ist alles, was Geschikt macht; Pragmatisch, was klug macht;
+
+[AA 19:173] Moralisch, was weise macht. Ienes betrift blos die Form der Handlung, Das zweyte den allgemeinen Zwek derselben: Glükseeligkeit, das dritte die idee der Einheit all derallgem Einstimung dieser Zweke mit sich selbst.
+
+**6824.**   φ.   Pr VI. Die *imperativi* der Geschiklichkeit sind Erfod Regeln, enunciiren Erfodernisse (g postulate) und postuliren. Die der Klugheit Vorschriften, enthalten *edicta* und Vorschriften und dictiren uns. endlich die der Sittlichkeit Gesetze oder vielmehr Gebote.
+
+Man ärgert sich über seine Ungeschiklichkeit; man schämt sich seiner Unklugheit; man verabscheut sich wegen seiner Unsittlichkeit.
+
+**6825.**   φ.   Pr VII. Die Alten leiten die zwey Artikel des *summi boni* entweder von einem dritten her. (Natur oder Gott). oder von einander her.
+
+Ein iedes Ding muß 1. *absolute* und nachher *respective* betrachtet werden. Ist die Sittlichkeit eine innere bonitaet des Menschen, so erweget sie zuerst *absolute*. fraget nicht: was ist sie in Ansehung Gottes? in Ansehung des Nutzens oder schadens?, sondern betrachtet sie an sich selbst. Man schätzt die tugend nicht, denn man hat sie niemals allein gesehen. oder man preiset sie blos.
+
+**6826.**   φ.   Pr VII. Der fleißig ist, verdient es zu geniessen, aber ist darum der günstigen Umstande und selbst seiner talente nicht würdig.
+
+Würdigkeit, glüklich zu seyn. Guter wille, sich der Natur und aller seiner Vermögen wohl zu bedienen. Worin besteht diese bonitaet der Willkühr. Dieses ist eine andere Frage als: was ist das *summum bonum*. Es ist die Frage über dessen ersten Theil, der den Zweyten nach sich zieht.
+
+**6827.**   φ.   Pr VII. Vom Preis, Werth, Würdigkeit des Menschen, Naturgaben (talente. Glücksgüter. Verdienste. *Late*). Die Würdigkeit, Glüklich zu seyn, ist das erste. *Summum bonum* ist das ideal der Vollkommenheit der Welt.
+
+Ob, wenn man würdig ist glüklich zu seyn, man hoffen kann es zu werden. Vernünftige Regirung.
+
+[AA 19:174] Der Wunsch glüklich zu seyn ist aus der Selbstliebe, das Urtheil von der Würdigkeit aus Vernunft.
+
+*Summum bonum* *Zeno* sie erklären.
+
+Der oberste Zwek (Glükseeligkeit) und die obiective Bedingung dieses zweks.
+
+**6828.**   φ.   Pr VII. Daß tugend nicht gelernt werde.
+
+**6829.**   φ.   Pr VII. Das ideal der Einfalt (Unschuld ohne Tugend); das ideal der Tugend; das Ideal der Klugheit; das der heiligkeit; der Weise des *anthistenes* ist der Mensch der Natur, des *Zeno* der tugendhafte, des *Epicurs* der Weltman, des *evangelium* der Christ.
+
+Wenn man sagt: der Tugendhafte *verfährt* so, und der Mensch *soll* so verfahren.
+
+**6830.**   φ.   Pr VIII. Wir haben nur zwey Krafte, die der Regeln *a priori* fähig seyn: Verstand und Willen.
+
+**6831.**   φ.   Pr VIII. Man kan fragen, ob Glükseeligkeit und Sittlichkeit eine Sache der Natur oder Belehrung und disciplin sey. Im ersten falle ist es so wie mit der Gesundheit, die keine sache der Unterweisung und Kunst ist, sondern wo alle unterweisung nur darin besteht, die Natur nicht zu stöhren. Von Natur fey der Mensch gnugsam und zufrieden, imgleichen ehrlich und gut. Das negative der Sittlichkeit sey unschuld *etc.* *etc.*
+
+Kunst entweder auf die Glükseeligkeit oder Sittlichkeit verwandt.
+
+Oder weder Natur noch Kunst, sondern das höchste Wesen.
+
+*epicur*: das stets fröhliche Herz nur durch tugend.
+
+**6832.**   φ-χ (ψ?)   Pr VIII. Das Christenthum hat dieses Besondere an sich, daß, da alle andre vorgeben, der Mensch könne aus eignen Kräften dahin gelangen, dasselbe [AA 19:175] die schwäche der Menschlichen Natur nicht vorschützt, sondern zur Schärfe der selbstprüfung braucht und von Gott Hülfe.
+
+**6833.**   φ.   Pr VIII. Es ist ein großer Lobspruch vor eine Wissenschaft oder Erkentnis, wenn sie praktisch ist. Sie kan es nun in einer oder anderen absicht oder in aller Absicht seyn, und denn ist die Lehre derselben Weisheit. Wir haben verschiedene Gegenstände. Allgemein aber ist Glükseeligkeit, deren Bedingung Moral. Weisheit gehort vor den Gesetzgeber, Klugheit bricht ab.
+
+**6834.**   φ.   Pr VIII. Die moralische handlungen müssen ihre eigene Empfehlung haben, denn sonst würden sie nicht die Würdigkeit zur Glükseeligkeit enthalten; daher Zeno in ihnen die Zweke endigt.
+
+Viel practische Erkentnisse, aber nur eine philosophie.
+
+**6835.**   φ.   Pr IX. Da alles Glük und alle Güter der Welt sich auf das Wohlverhalten und den guten Willen der Vernünftigen wesen bezieht, so ist daraus zu sehen, daß dieses die idee sey, unter der die Welt allein mogl und ihre Glükseeligkeit moglich ist. Also muß die Selbstliebe zur durch die condition der Einstimmung mit den Allgemeinen Zweken der Welt eingeschränkt seyn.
+
+**6836.**   φ.   Pr IX. Die *qvaestio de summo bono* frägt: wie sollen wir würdig werden Glüklich zu seyn? durch Natur oder durch eine eigene Gattung Handlung oder durch Klugheit. Die christliche Religion sagt: wir können niemals hoffen, durch eigen Verdienst die Würdigkeit zu erlangen. Sie fodert die größte Reinigkeit des Herzens.
+
+Man kan die moralität entweder auf instincte oder Begriffe zurükführen (*e. g.* Geschlechtsneigung). Die letztere geben allein allgemeine obiective Gesetze und also verbindlichkeit. Endlich kan man sie auch auf ideen bringen, weiche den Grad der moralitaet bestimmen, indem sie ein *maximum* [AA 19:176] enthalten, mithin eine norm oder Urb. *in concreto* heißt dieses Urbild.
+
+**6837.**   υ.   Pr IX. Epikur sahe blos auf den Werth des Zustandes, er wuste nichts vom inneren Werthe der Persohn. Zeno gestand nicht den Werth des Zustandes, sondern erkante als das wahre Gut blos den Werth der Persohn.
+
+Dieses Philosophie stieg über die Natur des Menschen, iene unter dieselbe.
+
+**6838.**   φ.   Pr X. Epicur wolte der tugend die triebfeder geben und nahm ihr den inneren Werth.
+
+Zeno wolte der tugend einen innern Werth geben und nahm ihr die triebfeder. Nur Christus giebt ihr den innern Werth und auch die triebfeder. Der innere Werth ist bey ihm Begrif von ihr ist nicht mystisch, sondern natürlich. Die triebfeder ist von allen Hindernissen der Natur frey. Die triebfeder aus der andern Welt ist auch schon an sich selbst der Entsagung auf allen Vortheil gleich. Sie sind allein nicht zufallig oder ungewis und dienen zur Regel. Die andere (intellectuale) Welt ist eigentlich die, wo die Glükseeligkeit genau mit der sittlichkeit zusammenstimt: Himmel und Hölle, davon der eine auf das größeste Glük, diese auf Elend abzielt. Die andere Welt ist ein nothwendig moralisches ideal. Ohne dieses ist die moralische Gesetzgebung ohne Regirung. Sie allein geht auf den innern Werth der Handlungen. Durch die gehofte Belohnung der andern Welt, wird die tugend uneigennützig und hat doch eine Stütze oder Zuflucht. Die triebfeder ist den Sinnen so weit als moglich entzogen.
+
+**6839.**   φ? (ξ-ρ?)   Pr X. Die tugend wird angetrieben: 1. durch Leidenschaft (Roemer.); 2. durch den Nutzen: pragmatisch; 3. durch Aberglauben der Religion oder durch reine Sittlichkeit.
+
+**6840.**   φ.   Pr XI. Weil die alten kein ander Vermögen der Sittlichkeit als das natürliche erkanten, so machten sie das Gesetz nachsichtlich. Dagegen das evangelium [AA 19:177] rein. Daher vollkommenere moral Lehre. Die triebfeder in dieser Welt ist auch nicht den Gesinnungen angemessen.
+
+(g Natur oder Gottheit. )
+
+**6841.**   φ.   Pr XI Das system des moralischen Gefühls hat das verdienstliche an sich, daß es alle pragmatische abschaft.
+
+**6842.**   φ.   Pr XI. Plato: Moral aus der idee, nicht den Neigungen oder den Erfahrungen gemäß, auch nicht aus reflexionsbegriffen. Nur er suchte seine idee in Gott, Oder er machte den Begrif von Gott aus diesen ideen.
+
+**6843.**   φ   Pr 2. Das *principium* der nothwendigen Einheit unserer Handlungen. Aus selbneigung entspringen Handlungen, die nicht nothwendig Einheit unter sich und andern haben.
+
+Das princip der Selbstliebe ist zwar das allgemeine subiective der triebfedern, aber nicht der beurtheilung der Handlungen und ihres obiectiven Werths.
+
+**6844.**   υ.   Pr 3. Der Gebrauch der freyheit, der ein Grund der Glükseeligkeit nach einer allgemeinen Regel ist, ist die würdigkeit glüklich zu seyn. Uns liegt es ob, die Glükseeligkeit einer Regel zu unterwerfen.
+
+**6845.**   υ.   Pr 3. Was mit dem privatwillen übereinstimmt, ist angenehm; ein allgemein gültiger Wille ist Gut. Was die Bedingungen enthält, durch die es möglich wird, daß ein wille mit den andern einstimen kan, ist recht; wodurch er wirklich stimmt, ist Gut.
+
+**6846.**   υ.   Pr 3. Moralitaet ist die reine Willkühr aus Grundsätzen.
+
+[AA 19:178] **6847.**   υ.   Pr 131. Die Regeln gehören so nothwendig zur Natur unseres Verstandes, sie hängen der freyheit unter dem Nahmen des Sollen so unabtrennlich an, vornemlich wen Freyheit gegen freye Wesen gebraucht wird, daß wir den Grund aller unserer Urtheile und das Bewustseyn unserer Natur unmkehren. wenn wir die freyheyt einer restringirenden Regel in der Ausübung gegen sich selbst entziehen. Auch die Vorstellung des höchsten wesens ist nothwendig, weil sie ein principium der Regeln ist.
+
+Die nothwendige Bedingungen der Allgemeinen Einstimung gehören eben so wohl zur Gültigen practis Regel der practischen als der spekulativen Vernunft.
+
+**6848.**   υ? ψ?   Pr 131. Ich billige einen Schmerz des Mittleids, aber fodere einen Schmerz der Reue.
+
+**6849.**   υ.   Pr 132. Das erste Sollen (g ursprünglich === absolute oder die allgemeine idee der Pflicht) ist nicht zu begreifen. Alle Glükseeligkeit soll ein Produkt der freyheit seyn, oder die freyheit muß sich selbst zur allgemeinen Einstimmung auf Glükseeligkeit *a priori* einschränken. Der Grund ist: weil man sich selbst sonst tadelhaft finden wird. Dieses ist die nothwendige Bedingung des *principii* der Glükseeligkeit aus der Vernunft und also eines an sich nothwendigen und nicht zufelligen wie das des Zufalls.
+
+**6850.**   υ.   Pr 132.   Über Rfl. 6861: Das erste Sollen ist eine Bedingung, unter der allein die freyheit ein Vermögen nach beständigen Regeln wird, die *a priori* bestimmen, Diese Regelmäßigkeit ist aber eine nothwendige Bedürfnis der Vernunft in ansehung eines Vermögens, welches *a priori* dynamisch bestimmt.
+
+Der auf kein objekt eingeschränkte, mithin reine wille muß zuerst sich selbst nicht wiederstreiten, und die freyheit als die dynamische Bedingung der intellectuellen welt und ihres *commercii* muß Einheit haben.
+
+Die Unabhängigkeit der freyheit von der Sinnlichkeit setzt eine abhängigkeit derselben von der allgemeinen Bedingung, mit sich selbst zu stimmen, voraus.
+
+[AA 19:179] **6851.**   υ.   Pr 133. Wenn dein wille durch allgemeingültige Bedingungen mit allen deinen Neigungen zusammenstimmen soll, so muß er mit dem, worauf sie sich alle beziehen, nemlich deinem selbst, d. i. der Persöhnlichkeit, zusammenstimmen. Pflichten gegen sich.
+
+Deine Handlungen sollen mit deiner freyheit und (g dem allgemeinen) deinen Neigungen, mit anderer freyheit und (g dem allgemeinen) ihren Neigungen zusammenstimmen.
+
+(g Mit deiner Neigung und andrer Neigung, mit deiner freyheit und andrer freyheit. )
+
+(g Der gemeingültiger Wille ist ein reiner wille, der keine Ge nicht durch Antrieb und Neigung afficirt ist, und sein Gegenstand ist das Gute. )
+
+**6852.**   υ.   Pr 133. Zu dem Guten außer sich, worauf die Ehrliebe gerichtet ist, gehört nicht blos die Beförderung der Glükseeligkeit, sondern auch der Sittlichkeit anderer.
+
+**6853.**   υ? χ?   Pr 134.   Über Rfl. 6862: Die Unterwerfung der freyheit unter die Gesetzgebung der reinen Vernunft. (g Aus den allgemeinen Bedingungen der Zweke überhaupt zu den besonderen zu gehen. ) Die reine, d. i. von allen (g sinnlichen) *triebfedern* abgesonderte Vernunft hat in Ansehung der freyheit überhaupt *gesetzgebende* Gewalt, die iedes vernünftige wesen erkennen muß, weil ohne Bedingungen der allgemeinen Einstimmung mit sich selbst in ansehung seiner selbst und anderer *gar kein Gebrauch der Vernunft* in ansehung ihrer statt finden würde. Nun ist das ein natürlicher und nothwendiger *Gegenstand des Abscheues*, wodurch eine die oberste Kraft *sich selbst wiederstreitet*, eben so wie im logischen, wenn sie sich selbst wiederspricht.
+
+[AA 19:180] **6854.**   υ? φ? ψ??   Pr 128. *Metaphysischer Begrif der Moralitaet.**A.**Innere Willkühr.* Form des inneren Moralischen Sinnes.
+
+1. Wir abstrahiren den Begrif der freyheit nicht von Erfahrung, Wenn wir handeln wollen, so sehen wir die künftige Handlung als völlig problematisch an in ansehung des Gegenwärtigen Augenbliks, und das sollen ist eine Bedingung der Einstimung der künftigen Handlung mit der Vernunft, welche also mit Erscheinungen, d. i. der Natur, gar nicht in vorbestimtem Zusammenhange ist.
+
+2. Die Freye willkühr ist einzeln. Es ist immer die frage, was ich unter gewissen Bedingungen überhaupt wolle; das allgemeine aber wird durch Erfahrung nicht gegeben.
+
+3. Sie ist einzeln. Ich habe nur eine Willkühr in Beziehung auf alle meine Zweke.
+
+4. Es lassen sich unangesehen der materie des wollens *a priori* Regeln der Einheit der innern willkühr geben. welche eine categorische Nothwendigkeit enthalten. (g analogon der Natur. )
+
+*B.* *Willkühr in Gemeinschaft*.
+
+1. Die freyheit in Gemeinschaft hat Bedingungen, die auch nicht von Erfahrung abgezogen werden.
+
+2. Es ist Einheit der äußeren Willkühr vor der Vernunft. Ein anderer Begrif der freyheit ist an sich vernunftwiedrig.
+
+3. Es lassen sich categorische Regeln *a priori* Davon geben.
+
+*Summa*: die freyheit nach Gesetzen, so fern sie sich selbst ein Gesetz ist, macht die form des moralischen Sinnes aus. Die materie ist das moralische Gefühl, welches nichts zum Gegenstande hat als Einstimung mit dem Zwek der Menschheit und der Menschen überhaupt.
+
+1. Categorien der moralitaet. (g -- Funktionen der selben freyheit sind in allem Practischen. )
+
+2. Principien: theils *constitutiva*, iuridisch moralisch, theils *regulativa*, iuridisch.
+
+**6855.**   φ? ψ?   Pr 128. Staatsklugheit ist blos (g auf) empirische principien gegründet
+
+[AA 19:181] Staatsrecht auf rationale. Man vermengt die Bedingungen der ersten bey dem Begrife einer Staatverfassung überhaupt mit dem letzteren.
+
+**6856.**   υ? φ? ψ??   Pr 129. Die würde der Menschlichen Natur liegt blos in der freyheit; durch die könen wir allein irgend einiges Guten würdig werden. Aber die würde eines Menschen (würdigkeit) beruht auf dem Gebrauch der freyheit, da er sich alles Guten würdig macht. Er macht sich aber dessen würdig, wenn er sich, so viel in seinem naturtalent liegt und als äußere Einstimung anderer freyheit erlaubt, auch theilhaftig macht.
+
+**6857.**   υ? φ? ψ?   Pr 129. Die würdigkeit glüklich zu seyn besteht im Verdienst, welches die Handlungen um die Glükseeligkeit haben, die, so viel an der freyheit liegt, auch wirklich, wenn sie allgemein wären, sich so wohl als andre glüklich machen würden. Man sagt: ein Mensch verdient zu essen, der sich sein Brod selber bauet oder auch der vor anderer Brod sorgt.
+
+**6858.**   υ? φ?   Pr 130. Es isi wahr: ohne Religion würde die Religion moral keine triebfedern haben, die alle von der Glükseeligkeit müssen hergenommen seyn. Die moralischen Gebothe müssen eine Verheißung oder Drohung bey sich führen. Die Glükseeligkeit ist in diesem Leben nicht ihre Aufmunterung; überdem giebt es ist die reine Gesinnung des Herzens das, was den eigentlichen moralischen werth ausmacht; diese aber wird niemals von andern recht erkannt, oftmals gar verkannt. Es hat sicherlich keinen Menschen gegeben, der mit gänzlicher Gewissenhaftigkeit über die reinigkeit seiner Sitten wachte und der nicht zugleich hoffete, daß einmal diese Sorgfalt von Großer wichtigkeit seyn werde und daß von einer die Welt regirenden höchsten Weisheit erwartete, es werde nicht umsonst seyn, dieser genauen Beobachtung sich gewidmet zu haben. Allein das urtheil über den werth der Handlungen, so fern sie beyfalls und der Glükseeligkeit würdig sind, muß doch von aller Erkentnis von Gott unabhängig seyn.
+
+[AA 19:182] **6859.**   φ? ψ?   Pr 130. In der Moral bedürfen wir keinen andern Begrif von freyheit, als daß unsere Handlungen der Erfahrung gemäß nicht am faden des Instinkts fortlaufen, sondern Reflexionen des Verstandes sich unter die triebfedern einmischen. Dadurch wird ein Mangel des Zusammenhanges, weil der Instinkt, wo er allein herrscht, Regeln (g Eben so auch der Verstand, wenn er allein herrscht) hat, der Verstand aber, der sich selbst nicht regeln vorschreibt, wenn er den Mangel des instinkts ausfüllt, alles unregelmäßig macht. freyheit also vom Instinkt erfodert Regelmäßigkeit im praktischen Gebrauch des Verstandes. Wir stellen uns also die Regelmäßigkeit und Einheit im Gebrauch unserer willkühr blos dadurch als möglich vor, daß unser Verstand solche an Bedingungen knüpfe, welche sie mit sich selbst einstimmig machen. Woher aber dieser Gebrauch des Verstandes wirklich werde, ob er selbst seine in der Reihe der Erscheinungen vorbestimte Ursache habe oder nicht: ist keine praktische Frage.* Gnug: Gesetze der Einstimmung der Willkühr mit sich selbst, welche nicht von Antrieben zu erwarten ist, sondern nur aus der Vernunft kommen können, haben allein diese wirkung und sind also unserm obern Willen (in Ansehung der summe der Zweke) gemäß und gut.
+
+Pr 131: **(g** * Es kan kein streit seyn, ob wir diesen Gesetzen der Einstimmung folgen sollen oder nicht, und ob Handlungen ihnen gemäß oder zuwieder, gut oder böse sind. Darüber aber mag sich allerdings ein wichtiger Streit erheben, ob nicht auch diese Gesetze oder ihr Gegenteil jemals mit Gewisheit bestimmende Ursachen des Menschlichen Verhaltens werden oder ob ander oder ob nicht vielmehr alles beym Menschen seinen Lauf habe nach diesen Gesetzen oder wieder sie, der, so wie die Bewegung der Maschinen, keine Möglichkeit des Gegenteils zuläßt. Daß der Verstand durch obiektive Gesetze den Einflus einer wirkenden Ursache auf Erscheinungen habe, ist das *paradoxon*, welches Natur (summe der Erscheinungen) und freyheit unterschieden Macht, indem unsere Handlungen nicht durch Naturursachen (als bloße Erscheinungen) bestimt sind. Die selbstthätigkeit des Verstandes Ist eine andere Gattung von Ursachen. Der Ve Sonst bringt der Verstand nichts hervor als Ideen.
+
+[AA 19:183] Wie er Ursache der Erscheinungen werde, ist *paradox*. Instinkte könen es wohl seyn.
+
+Die Nothwendigkeit der Handlungen aus Verstande, so fern man sich dessen bedient, ist gewiß, und auch, daß man sich seiner bedienen müsse. **)**
+
+**6860.**   φ? ψ?   Pr 131. Wir können uns keinen Begrif davon machen, wie eine bloße form der Handlungen könne die Kraft einer triebfeder haben. Indessen muß dieses doch seyn, wenn moralität statt finden soll, und Erfahrung bestätigt es. Diese Formale causalität als wirkend ist nicht unter Erscheinungen bestimmt. Sie ist also jederzeit neu, ungeachtet alles dessen, was geschehen seyn mag. Es ist blos unser Selbst und keine fremde Anlage, keine Kette der Erscheinungen, die empirisch bestimt ist, welche die Handlung bestimt. Die apperception seiner selbst als eines intellectuellen wesens, was thätig ist, ist freyheit.
+
+**6861.**   φ? ψ?   Pr 132.   Unter Rfl. 6850 Die apperception der Empfindung ist die Substanz, die der selbstthätigkeit ist die Persohn. Der werth der Persohn beruht auf der mit sich selbst nach ursprünglichen Regeln einstimigen freyheit.
+
+**6862.**   φ? ψ?   Pr 134.   Unter Rfl. 6853 Es komt doch alles zuletzt aufs Leben an; was belebt, (g oder das Gefühl von der Beförderung des Lebens) ist angenehm. Das Leben ist Einheit; daher aller Geschmak zum principio hat die Einheit der belebenden Empfindungen.
+
+freyheit ist das ursprüngliche Leben und in ihrem Zusammenhang die Bedingung der Übereinstimung alles Lebens; daher das, was das Gefühl allgemeinen Lebens vergrößert begördert, oder das Gefühl von der Beförderunq des allgemeinen Lebens eine Lust verursacht. Fühlen wir uns aber wohl im allgemeinen Leben? Die Allgemeinheit macht, daß alle unsere Gefühle zusammenstimmen, obzwar vor diese Allgemeinheit keine besondere Art von Empfindung ist. Es ist die form des *consensus*.
+
+[AA 19:184] **6863.**   υ.   Pr 136. Die *Hypothesis* des Gefühls (ist kein system) ist die der Blinden leitung der Freyheit nach einem moralischen Instinkt.
+
+**6864.**   υ.   Pr 136. 1, Das **principium** des *moralischen urtheils* ist (g Das *principium* der Vernunftmäßigkeit der freyheit überhaupt, d. i. der Gesetzmäßigkeit nach allgemeinen Bedingungen der Einstimmung): die Regel der Unterordnung der freyheit unter das *principium** der allgemeinen Einstimung derselben mit sich selbst (so wohl in ansehung seiner als anderer Persohnen).
+
+2, Der *Grund* des *moralischen Gefühls***,worauf das *wohlgefallen* an dieser Einstimmung nach principien beruht, ist die nothwendigkeit des wohlgefallens an der form der Handlungen, wodurch wir mit uns selbst im Gebrauche unsrer Willkühr zusammen stimmen***. Der Mangel des *moralischen Gefühls* (g Wir haben nothwendig wohlgefallen an Regeln. ) beruht darauf, daß man an der *form nicht so viel* *Antheil* nimmt als an der *Materie* und einen Gegenstand nicht aus dem Gesichtspunkte der *allgemeinheit* betrachtet oder auf sein Gefühl applicirt. Dieses ist kein besonderes Gefühl, sondern eine Art überhaupt, etwas aus dem allgemeinen Gesichtspunkte zu betrachten.
+
+3, Die *triebfeder***** des moralischen *Verhaltens* ist wiederum davon unterschieden und beruht auf der Entschlossenheit, einem einmal genommenen Vorsatz (g einer allgemeinen *maxime* ) gemäß zu handeln. Also auf der Macht der Vernunft in Ansehung der freyheit.
+
+**(s** * Das *Principium* der (g allgemeinen practischen) Gesetzgebung der reinen Vernunft in ansehung der freyheit überhaupt.
+
+Das System der Moral aus den *principiis (g legibus) arbitrii* *puri.* d. i. das *systema* der Zusa bricht ab.
+
+[AA 19:185] Ferner p. 137: Nur allein im praktischen giebt die reine Vernunft objective Grundsätze. **)**
+
+** (s wie kan moralität, da sie ein Gegenstand der Vernunft ist, gefühlt werden? Sie bezieht sich auf alle unsere Handlungen unserer Lust oder Unlust gemäß und enthält die Bedingung der Einstimmung derselben im allgemeinen; dadurch bezieht sie sich aufs Gefühl der Lust der form nach. )
+
+**(s** *** die Epigenesis der Glükseeligkeit (g Selbstgeschöpf) aus der freyheit, die durch die Bedingungen der allgemeingültigkeit eingeschränkt wird, ist der Grund des moralischen Gefühls.
+
+In *Smiths* system: warum nimmt der Unpartheyische richter (der nicht einer von den participanten ist) sich dessen, was allgemein gut ist, an? und warum hat er daran irgend ein wohlgefallen? **)**
+
+**(s** **** Wie kan Vernunft eine Triebfeder abgeben, da sie sonst iederzeit nur eine Richtschnur ist und die Neigung treibt, der Verstand nur die Mittel vorschreibt? Zusammenstimmung mit sich selbst. Selbstbilligung und Zutrauen. Die triebfeder, die mit der *Pflicht verbunden* werden kan, aber *niemals an deren Stelle* gesetzt werden muß, ist Neigung oder Zwang. Die erste darum, weil die Neigung (selbst die wohlwollende) durch Pflicht muß regirt werden. Die zweyte darum, weil die Zwangsbedürftigkeit an sich selbst schon eine Schwächung der Macht der Pflicht ist. **)**
+
+**6865.**   υ.   Pr 136. Was das Gefühl betrift (s Es kan auch blos zur Beurtheilung verwandt werden) so fühlen wir zwar nur durch die Sinne; aber den Standpunkt, worinn wir uns gegen den Gegenstand setzen, können wir nehmen, wie wir wollen. Hier nehmen wir ihn in der Vernunft und empfinden im allgemeinen Standpunkte. (s p. 137: Selbstschöpfer der allgemeinen Glükseeligkeit. )
+
+**6866.**   υ.   Pr 136. Die treibende Kraft komt auf das Gefühl des wohlgefallens an, so fern es auf sich selbst und die Selbstschätzung angewandt wird, und zwar [AA 19:186] nach seinem allgemeingültigen Preis, d. i. dem inneren werth. Erhebung der Menschheit.
+
+**6867.**   υ.   Pr 137. Das *principium* der Moral ist autocratie der freyheit in Ansehung aller Glükseeligkeit oder die Epigenesis der Glükseeligkeit nach allgemeinen Gesetzen der freyheit. Die Glükseeligkeit hat keinen selbständigen werth, so fern sie Natur- oder Glüks Gabe ist. Der Ursprung derselben aus der freyheit ist, was ihre Selbständigkeit und Zusammenstimmung ausmacht. Das Wohlverhalten also, d. i. der Gebrauch der freyheit nach solchen Gesetzen, nach denen die Glükseeligkeit das Selbstgeschöpf der guten oder regelmäßigen willkühr ist, hat einen absoluten Bestand, und die würdigkeit Glüklich Zu seyn ist die Zus übereinstimung zum höchsten Gute durch nichts anders als die Ergäntzung des Vermögens der freyen willkühr, so fern sie nach allgemeinen Regeln zur Glükseeligkeit im ganzen zusammen stimmt. Das moralische Gefühl geht hier auf die Einheit des Grundes und den Selbstbesitz der Quellen der Glükseeligkeit in Vernünftigen Geschöpfen, als auf die alles Urtheil des Werths sich beziehen muß. Der gute Gebrauch der freyheit ist mehr werth als die zufällige Glükseligkeit. Sie hat einen nothwendigen innern werth. Daher besitzt der tugendhafte in sich selbst die Glükseeligkeit *(in receptivitate),* so schlimm auch die Umstände seyn mögen. Er hat in sich (g so viel an ihm ist) das *principium* der *epigenesis* der Glükseligkeit. Hiebey muß vorausgesetzt werden, das Ursprünglich der ein freyer Wille, der allgemeingültig ist, die Ursache der Ordnung der Natur und aller Schiksale sey. Als denn ist die anordnung der Handlungen nach allgemeinen Gesetzen der Einstimung der freyheit zugleich ein *principium* der form aller Glükseeligkeit.
+
+**6868.**   φ? υ??   Pr 137. Daß alle Zweke in einer Einheit liegen oder alle freyheit durch Beziehung auf Zweke überhaupt nothwendige Einheit habe.
+
+**6869.**   υ? φ?   Pr 137. Die Sittlichkeit ist übereinstimmung bestimmung der freyheit mit der Allgemeinheit den Bedingungen durch die wesentliche Bedingungen einer allgemeinen Willkühr.
+
+[AA 19:187] **6870.**   υ? φ?   Pr 137. Gefühl ist die Empfindung des Lebens. Das Der vollständige Gebrauch des Lebens ist freyheit. Die formale Bedingung der freyheit als eines mit dem Leben durchgängig einstimmigen gebrauchs ist Regelmäßigkeit.
+
+**6871.**   υ? φ?   Pr 137. Wir haben gar *nicht besondere Gefühle,* obzwar verschiedene Sinne und Empfindungsfähigkeit. Es ist nur ein princip des Lebens und also nur ein *principium* des Gefühls von Lust und Unlust*, dieses kan nun auch durch die Vernunft (durch Regelmäßigkeit oder Regellosigkeit der Freyheit) rege gemacht werden. Und ob es zwar dadurch nur wenig bewegt, ia! gar nur dagegen gehalten wird: so macht es doch das Gefühl in Ansehung unseres ganzen Daseyns und aller unserer Kräfte Rege zur Einstimung und wiederstreit, weil freyer Gebrauch der Kräfte und Freyheit überhaupt das wichtigste und Edelste ist, was, wenn es regellos und mit sich selbst unvereinbar ist, jedem Vernünftigen Wesen misfallen muß, als dessen Vernunft Regeln *a priori* bedarf, um dadurch alles Manigfaltige unter principien zu seinem sicheren Gebrauch zu ordnen.
+
+* (g Daher wir zwar die Gegenstände des Gefühls, die Empfindungen, nicht als Gleichartig ansehn, aber die Gefühle der Lust und Unlust vergleichen und einem moralisch Guten ein Vergnügen der Sinne vorziehen können. )
+
+**6872.**   υ.   Pr 138. Das *summum bonum* der philosophischen secten konte nur statt finden, wenn man annahm, der Mensch könne dem moralischen Gesetze adaeqvat seyn. Zu dem Ende muste man entweder seine Handlungen mit moralischem Eigendünkel vortheilhaft auslegen oder das moralische Gesetz sehr nachsichtlich machen. Der Christ kan die Gebrechlichkeit seines Persöhnlichen werths erkennen und doch hoffen, des höchsten Gutes selbst unter Bedingung des heiligsten Gesetzes theilhaftig zu werden.
+
+**6873.**   υ.   Pr 138. Wenn es heißt:„Der Weise, der Christ handelt so, fühlt sich so *etc.* *etc.*", [AA 19:188] so geht dieses auf das ideal und nicht auf die Persohnen, die sich zu solchem Nahmen bekennen.
+
+**6874.**   υ.   Pr 138. *(g principium vel pragmaticum vel morale summi boni. )*
+
+Der Unterschied der epicureischen und stoischen philosophie betrift den Begrif des höchsten Guts: ob tugend nichts als Klugheit in Ansehung des zweks der wahren Glükseeligkeit oder Glükseeligkeit nichts als Bewustseyn seiner tugend sey, mithin die Einheit in dem Begriffe des höchsten Guts.
+
+Der Unterschied der cynischen und platonischen den Ursprung des höchsten Guts: ob er physisch oder hyperphysisch sey; die epicureische und stoische nahmen den Ursprung als künstlich an und die wirkung von erworbenen und durch Nachdenken gefundenen Grundsätzen an.
+
+**6875.**   υ? κ?   Pr 139. Der Zwek, der nothwendig allgemein ist, ist: daß alle ihre Zweke Erreicht werden, d. i. Glükseeligkeit.
+
+**6876.**   υ.   Pr 138.   Über und in § 203: Der *fehler der philosophischen secten* war der, daß sie die *moral von der religion unabhängig machen* wolten (s daß sie die Glükseeligkeit in Verbindung mit Moral von der Natur erwarteten und auch nur so viel Sittlichkeit Pr 139: verlangten, als nöthig war, sich dieser naturglükseeligkeit würdig zu machen); die *Natur* der Dinge aber *enthält* *keine nothwendige Verbindung* zwischen wohlverhalten und wohlbefinden, und also ist das *höchste Gut ein bloßes Gedankenwesen.*
+
+Aber ohne Religion muß man doch einen Begrif davon haben, obgleich sie allein die realität dieses *summi boni* in Ansehung des Menschen beweisen kan. Wenn der Lauf der Welt alle folgen der guten und bösen Handlungen bestimt, so ist Weltklugheit das Wohlverhalten, was zum höchsten Gut führt. Hiezu aber wird erfodert, daß man moralität als die Regel ansieht mit Vorbehalt aller Ausnahmen, welche die Umstände zu [AA 19:189] unserm Vortheil rathsam machen. Denn es wäre pedanterie peinliche Befolgung der Regeln, weil die Regeln nicht schlechthin gebieten, deren Zwek nicht nothwendige folge derselben ist.
+
+Glükseeligkeit ist nur bedingt gut.
+
+Das höchste Gut enthält ein pathologisches (g unmittelbar angenehm, aber nicht immer gut) und ein practisch gut. Wohlverhalten und Wohlergehen.
+
+Der gute Wille, sich aller *Natur*= und *Glüksgaben* (inneres und äußeres Gut) wohl zu bedienen, macht, das wir derselben insgesamt würdig seyn, Denn die würdigkeit ist die übereinstimung mit dem allgemeinen Zweke.
+
+Die Glükseeligkeit ist kein wahres Gut; die Würdigkeit ist zwar ein wahres und das *oberste Gut*, aber nicht das *vollständige.*
+
+(g Natur, Kunst, Über die Natur. )
+
+**6877.**   υ.   Pr 138. Durch Regeln wird man geschikt, durch Gesetze gescheut, durch maximen weise.
+
+**6878.**   υ? κ?   Pr 138. Das höchste Gut dieser Welt allein ist Weltklugheit (und Weltweisheit).
+
+Das höchste Gut dieser und einer andern Welt ist Heiligkeit.
+
+Die ideale der Natureinfalt, Klugheit, tugend, Heiligkeit.
+
+Mensch der Natur, Weltmann, weiser, Christ.
+
+**6879.**   υ? κ?   Pr 139. Die Alten frugen nicht nach der Einheit Einerleyheit der folgen in [AA 19:190] der idee des höchsten Gutes (Wohlfarth und tugend), sondern der Einheit Einerleyheit des Begrifs. Denn der stoicker gab die Einerleyheit der folgen zu in Vergleichung mit dem epicureischen system.
+
+Der Sitz Ursprung des höchsten Guts: 1. physisch. 2. pragmatisch. 3. moralisch. 4. mystisch.
+
+1. Ideal der Natur. 2. der Klugheit. 3. der Tugend (s Weisheit). 4. (s der heiligkeit. ) (s Reinigkeit des Willens selbst in Gedanken. )
+
+**6880.**   υ.   Pr 139. Die alten frugen nicht, (wie wir) wodurch: ob durch Verstand oder Gefühl wir die moralität beurtheilen, sondern: worin wir *sie setzen*, entweder im *intellectuellen der tugend* oder dem *sensitiven der* *Wohlfarth* oder der Einfalt.
+
+**(s** imgleichen: welchen Ursprungs: natürlich, künstlich oder mystisch.
+
+Zwey stücke: Wohlverhalten und Wohlergehen; daher zuerst Würdigkeit Glüklich zu seyn und denn Erlang Gelangung zur Glükseeligkeit. Sie sagten nicht Ei Der weg, zum höchsten Gut zu gelangen, war 1. die Natur, 2. sorge vor seine Glükseeligkeit, 3. vor die Tugend, 4. Beschäftigung mit dem intellectuellen.
+
+*Epicur* erniedrigte die würde der tugend zu sehr, *Zeno* erhob sie zu sehr. Iener machte die principien der tugend sensitiv, dieser die der Glükseeligkeit intellectuel. Mensch der Natur, der Weltman, der Weise, der reine Geist (intelligentz). system der rohen Natur, der Kunst und des schwärmerischen Geistes. **)**
+
+**6881.**   φ?   Pr 139. Man muß niemals sagen, daß man seinen Zwek im Vergnügen setzt; sondern das, was uns unmittelbar vergnügt, ist unser Zwek. weil das Vergnügen nur das Verheltnis eines Zweks zu unserm Gefühl ist. Das wohlgefallen an der regelmäßigkeit der freyheit ist intellectuel. Daher ist der Zwek jederzeit ausser uns nicht selbstsüchtig, wenn der Zwek nicht unser eigner veränderter Zustand der Sinne ist.
+
+[AA 19:191] Mein Vergnügen ist also entweder eigenliebig oder allgemein und geistig. Wenn mir etwas gefällt, aber nicht so fern es meine sinne afficirt, so ist das Vergnügen intellectuel und ein freyes Vergnügen.
+
+**6882.**   φ.   Pr 138. *Epicur*: die Sittlichkeit in guter Laune; *Zeno* --- in aller Gravitätischer Würde. *Diogenes*: in natürlicher Einfalt. *Plato*: transscendent.
+
+höchste Gut. 1. Worin es besteht; zweytens: wie es erworben wird.
+
+*diogenes*: daß er methodisch sey durch Wissenschaft. Der erste: natürlich; der zweyte: erworben; der dritte: eingegeben.
+
+Wenn die hofnung der Glükseeligkeit unserer sittlichen würdigkeit soll gemäß seyn, so ist der weise des evangelii das wahre sittliche ideal. Der nämlich die Natürliche tugend und das natürliche Glük nicht v0r hinreichend hält, sondern beydes als ergänzungbedürftig so wohl zur würdigkeit als auch den Besitz der Glükseeligkeit.
+
+**6883.**   υ? (κ?)   Pr I'. Von der blos moralischen Glükseeligkeit oder der Seeligkeit verstehen wir nichts. Wenn alle Materialien, die die sinne unserem Willen liefern, aufgehoben werden: so wo bleiben da Rechtschaffenheit, Gütigkeit, Selbstbeherschung, welche nur formen sind, um alle diese materialien in sich zu ordnen? Da wir also alle Glükseeligkeit und das wahre Gut nur in dieser Welt einsehen könen, so müssen wir glauben, wir übertreten die Grentzen unserer Vernunft, wenn er uns neue und auch höhere Art Vollkommenheit vormahlen will.
+
+Die ernsthafte Ergötzung und gleichsam majestätisch oder gravitätisch gerührtes Gemüth ist in der Empfindung gantz von der schertzhaften fröhligkeit unterschieden. Es ist die frage: welche schikt sich v0r Menschen? Iene kommt dem Schmerz nahe und zieht aus ihm einen gewissen angenehmen extract, dessen Bitterkeit die leichte Freude vor Schaalwerden bewahrt.
+
+**6884.**   υ? ξ?   Pr I'. Es ist nur der Gelehrte, der ein ins allgemeine gehendes Verdienst haben kan, theils durch seine Unterweisung, theils durch überlieferung der [AA 19:192] thaten der Menschen. Vermittelst seiner allein könen die gute Handlungen als beyspiele von allgemeinem Einflusse seyn. Aber diese allgemeine brauchbarkeit (g vor Raum und Zeit) macht sie hochachtungs=, aber nicht verehrungswürdig. Es ist kein moralisch größeres Verdienst, sondern pragmatisch. Die gelehrsamkeit ist das vortreflichste werkzeug; aber die reinigkeit der Absicht, der lautere und gute Wille sind an sich selbst gut.
+
+**6885.**   υ.   Pr I'. Leichtigkeit läßt sich nicht lernen, sondern nur das Gebundene verhüten und den Zwang.
+
+**6886.**   υ? (κ?)   Pr I'. Alles, was zur Natur gehöret, ist Gut; was zur freyheit gehört, ist mehr böse als gut. Das macht, daß wir in der Natur kein anderes Richtmas der Beurtheilung haben als die Natur selbst, *e. g.* bey thieren ihre Raubsucht *etc.* *etc.*, bey der freyheit aber die idee, welche nicht von der Natur abgesondert ist. Die idee ist die Regel, unsre eigne Handlungen, aber nicht den Werth der Welt zu beurtheilen. Dadurch allein kan die Natur ihr Gutes in uns hervorbringen, selbst indem sie bricht ab.
+
+**6887.**   υ.   Pr II'. Der im Privatleben die Staatsklugheit nachahmt, ist politisch. Dieses ist ein Ausdruk des Spottes. Kleine Staatsmänner. Ein sich aufwerfender Gesetzgeber der manieren ist ein petitmaitre. Stutzer sind Affen der *petit-* *maitres*.
+
+**6888.**   υ? φ?   Pr II'. Glükseligkeit (g der form nach) --
+
+1. Die Anticipationen der sinnlichen Willkühr.
+
+1. Äußerlich: Form der Annehmlichkeit.
+
+2. Innerlich: der Zufriedenheit. materie. *stimuli*: 1. Selbstliebe.
+
+[AA 19:193] 2. Geselligkeit oder vielmehr.
+
+1. Selbstliebiges,
+
+2. theilnehmendes Gefühl
+
+(s Iens: analogon der Glükseeligkeit, dieses: der Sittlichkeit. empirische principia der practischen Gesetzen. )
+
+* (g was *formaliter* gut ist (warheit wesentlich) )
+
+**(s** primitive oder directe Neigungen -- freyheit, Genuß und Einflus oder Vermögen an sich selbst (Reichtum, Macht, Ehre). **)**
+
+[AA 19:194] **6889.**   υ? χ?   Pr III'. **(g** 1. †Allgemeinheit der Absicht auf alle gerichtet: Sittlichkeit. (g collectiv. ) (s 1, intellectuelle Allgemeinheit. ) 2. Aller Absicht auf jeden besonders gerichtet. Privatabsicht aller: Glükseeligkeit. (g distributiv. ) (s 2, empirische Allgemeinheit. ) 3. ††Allgemeinheit, disiunctive, die einer oder der andere (g Intellectuelle Einzelnheit. Das Ganze)††† haben kan, unbestimte allgemeinheit problematischer Absicht: Geschiklichkeit. (g disjunctiv. ) (s 3, empirische Einzelnheit. ) Daher dreyerley practische Regeln:
+
+1. Allgemeinheit und Einheit der Absicht;
+
+2. Allgemeinheit der Persohn und verschiedenheit (Entgegensetzung) der Absicht;
+
+3. Allgemeinheit der Mittel und Unbestimtheit der Absicht.
+
+Die freyheit steht nicht allein unter *Regeln* (geschiklichkeit) und unter *Gesetzen* (Klugheit), sondern auch unter *principien* (Sittlichkeit). **)**
+
+†(g Die Allgemeinheit des Wollens *abstrahendo* von aller Absicht, die allgemeingültige form der Willkühr. )
+
+Pr IV': ††(s 3. Allgemeine Einstimung mit seiner eignen Absicht, nemlich der seiner Natur. )
+
+Pr III': †††(g Glükseeligkeit ist mit der Sittlichkeit als einem *principio* connex in der idee und mit der Geschiklichkeit in der Erfahrung. Iene ist ein *principium rationale intellectuale*, diese ein *empiricum* derselben. Der wirkliche Zwek ist: Glüklich zu seyn. Bedingungen sind Sittlichkeit und Geschiklichkeit. )
+
+**6890.**   υ.   Pr III'. Es kan überall nichts an sich selbst schlechthin Gutes seyn als ein Guter Wille. Entweder Das übrige ist entweder mittelbar gut oder nur unter einer restringirenden Bedingung. Allgemeine glükseeligkeit ist vor [AA 19:195] die sehr gut oder angenehm, die sie genießen, aber schlechthin gut ist sie nicht, d. i. vor jedermanns augen, d. i. in dem allgemeinen Urtheil der Vernunft, wenn die, so solche genießen, keine Würdigkeit derselben in ihrem Verhalten haben. Talente sind sehr gut als Mittel; aber es komt doch zuletzt darauf an, welchen willen das subiect habe, sich ihrer zu bedienen. alle Art von Vollkommenheit im höchsten Wesen: ewigkeit, Allmacht, Allgegenwart ist an sich selbst erhaben und schreklich, so lange noch ein Guter wille fehlt, solche wohl zu gebrauchen. Bey Der freye Wille und dessen Beschaffenheit macht selbst ist allein einer inneren Bonität fähig. Daher nicht die Glükseeligkeit, sondern die Würdigkeit glüklich zu seyn ist das, was die oberste Bedingung alles Guten ausmacht.
+
+**6891.**   υ--φ.   Pr V'. Eine praktische maxime ist: keine Einrichtung ist gut, bey der es unmöglich wird, besser zu werden. Mithin ist die erbliche Unterthänigkeit, da es unmöglich ist, seinen Zustand zu verbessern, guten Zweken zuwieder. Wenn sie eine strafe seyn soll, so fehlt ihr die Beziehung aller Strafen auf Vollkommenheit und Verbesserung.
+
+Es ist auch lächerlich, daß man über die Unfähigkeit solcher Persohnen spottet, sich selbst zu regiren, da sie doch nur durch diesen Zustand in der Unfähigkeit seyn.
+
+Die legalität ist:
+
+Die reinigkeit des Bewegungsgrundes oder der Zweke (Absicht).
+
+**6892.**   υ.   Pr VIII'. Der Begrif der sittlichkeit besteht in der Würdigkeit glüklich zu seyn (der Befriedigung seines Willens überhaupt). Diese Würdigkeit beruht auf der übereinstimmung mit den Gesetzen, unter denen, wenn sie allgemein beobachtet würden, iederman der Glükseligkeit im höchsten Grade, als es nur durch freyheit geschehen kan, theilhaftig seyn würde. (g Warum muß man sich aber der Glükseeligkeit würdig verhalten? )
+
+1. --- Diese Übereinstimmung mit allgemeingültigen gesetzen der Willkühr [AA 19:196] ist nach der Vernunft ein nothwendiger Grund unserer Selbstbilligung und Zufriedenheit mit uns selbst, was auch andre thun mögen.
+
+Können wir nun glüklich seyn ohne viel Vergnügen der Sinne oder Stillungen ihrer Bedürfnisse, so ist iener innere Beyfall ein hinreichender Bewegungsgrund, uns zu necessitiren.
+
+Weil aber die Selbstzufriedenheit die Seele erhebt und sie wegen vieler sinnlichen Belustigungen, die in ihren augen rechtmäßiger Weise gring seyn, weil man sie durch stärke überwinden kan, schadlos hält: so ist es ein Großer und der Größte Bewegungsgrund der Vernunft, Unabhängig von Sinnen die Glükseeligkeit zu einem product der spontaneität zu machen*. Also nur in ansehung der Unzulänglichkeit, ohne Einstimung des Schiksal glüklich zu werden, giebt die idee von der Möglichkeit eines heiligen und gütigen Wesens und nur blos von der möglichkeit desselben, das complement.
+
+**6893.**   υ.   Pr VII'.
+
+**(g** * Wer sich mit dieser Zufriedenheit begnügen kan, ist in seinen und andern Augen aum meisten Schätzungswerth, und also ist die Regel der Vernunft: man soll so verfahren, und man misbilligt iederzeit ein entgegengesetztes, ob man es zwar entschuldigt.
+
+Man billigt nur das, woran man ein allgemeingültiges Wohlgefallen haben kan. Nämlich die Handlung der freyheit ist alsdenn durch die Vernunft betrachtet, d. i. als entsprungen aus einer vor Natur und freyheit überhaupt gültigen willkühr mit sich selbst übereinstimmig.
+
+Von synthetischen Grundsätzen der willkühr oder den principien der reinen Willkühr. **)**
+
+**6894.**   υ?   Pr IX'.   Rand oben: *Epicur* und *Zeno* waren (g in ansehung der Einheit) im Begriffe des höchsten Gutes verschieden.
+
+*Diogenes* (*Epicur*, *Zeno*) und *Plato* in den Mitteln, dazu zu gelangen.
+
+[AA 19:197] Der 1ste sagte, es sey
+
+2--- --- --- ---
+
+3--- --- --- ---
+
+(s Alle vier lehren Weisheit. ) (s Die Sittlichkeit, die zugleich Klugheit ist, heißt Weisheit. 1. Würdigkeit, 2. Glükseeligkeit. )
+
+Columne links: *Epicur* lehrte die *Glükseeligkeit* suchen (s ohne) besondere *Würdigkeit* es zu seyn.
+
+*Zeno* die *Würdigkeit*, ohne die *Glükseligkeit* dabey zur *absicht* zu haben. (s nemlich daß diese nicht mit iener in Streit kam oder ins Gemenge. *Aristipp* (cyrenäische secte) sagt, die Wollust sey das *Summum* *bonum* als genossen. *Epicur*: die philosophie, wodurch wir sie erwerben. ) (s Iene war grobe Sinnlichkeit, diese Weisheit. )
+
+Christus die Glükseeligkeit durch die Würdigkeit es zu seyn.*
+
+Das ideal des ersten ist der Mensch der Natur, des Zweyten: der Weltmann, des dritten: der Weise, des Christentums: der Christ**. Alle diese ideale sind die Muster: Einfalt, Klugheit, Tugend und moralischer Glaube.
+
+**(g** * oder sich erstlich würdig machen und denn die Glükseeligkeit als deren folge hoffen. Trachtet nach dem reich Gottes. Glauben. Also das Wohlverhalten im Glauben so wohl in ansehung weltlicher Sorgen als auch in ansehung der geistlichen Sorgen unserer Gebrechlichkeit wegen.
+
+Christus sagt auch, daß in der Gemeinschaft mit Gott das höchste Gut bestehe; aber sein Weg ist durch das wohlverhalten im Glauben, [AA 19:198] nicht durch Anschauen oder Andächteley. Er ist hierin von Plato unterschieden.
+
+**)**
+
+** (s das moralische Gesetz der form (Reinigkeit) nach als ein Göttlich Gesetz, d. i. als ein Gesetz des vollkommensten Willens. Die höchste Glükseeligkeit findet nur Statt bey einem göttlichen Vergelter; aber dabey ist alsdenn auch ein göttlicher, d. i. strenger Richter nicht blos der Handlungen, sondern der Gesinnungen; der reine Mensch, der aus Gott gebohren ist. )
+
+Columne rechts: Die Beweg Ursache ist entweder pathologisch: seinen Neigungen folgen und Lüsten; oder pragmatisch: die Glükseeligkeit nach ihrer wahren Beschaffenheit: Mittel; oder moralisch: aus dem Werth der Handlung an sich selbst. (s Wenn ich blos auf einen Vortheil in dieser Welt gehe, kan das sittliche Gesetz nicht rein seyn. Ist es rein, so hat es nicht Giükseelichkeit zur Folge. )
+
+Sittlichkeit, Klugheit und Religion. Christus hat allein wirkliche Religion gelehrt, nemlich das moralische in dem Verhalten gegen Gott.
+
+Das system des *epicurs* ist das *principium* der Selbstliebe. Welches wort wir darum brauchen, damit es so wohl den Eigennutz Nutzen als die Ehre begreife. Aber wir bedienen uns auch desselben zum unterschied von der Eigenliebe, weil diese eine Ausschließende selbstliebe ist, nach dem *epicur* aber die selbstliebe auch ein Grund der Liebe anderer ist und nicht ausschließend ist, sondern unsere Freude vermehrt.
+
+Das Moralische Gefühl ist das an dem, was im Allgemeinen Gut oder Böse ist. Das ist etwas wahres, aber das Gefühl des Wohlgefallens oder Misfallens folgt auf das Urtheil, daß es Gut oder Böse sey, und ist nicht die Bedingung des Urtheils, sondern der Begierde oder Neigung zu demselben. Welche, wenn sie (g Pr X': auf das praktische Geht) praktisch ist, Rechtschaffenheit heißt; ist sie aber nur theilnehmend, so heißt sie Gutherzigkeit.
+
+**6895.**   υ.   Pr IX'.   Rand unten: Das practische Wohlgefallen am Allgemeinen Gut ist das an einer moralischen Handlung, die darauf abzielt, an einem guten willen, als dem einzigen Grunde, wodurch das Gute nach einer Regel ausgetheilt wird.
+
+[AA 19:199] Denn dasselbe komt auf eine idee an und kan nicht aus der bloßen Natur entspringen. freyheit ist die Bedingung des Guten.
+
+**6896.**   υ? χ?   Pr X'. Der Nothfall ist der, da ich selbst genöthigt bin, mich meiner (s eignen) Gewalt selbst zu Behauptung meines Rechts zu bedienen. Sonst bedeutet die Befugnis, Zufolge meinem Rechte zwang auszuüben: daß es gewisse Criterien der Beurteilung gebe, wornach ein Dritter, der competenter Richter ist, urtheilen und allgemein zwingen kan. Diese Regeln bestimmen die Bedingungen eines rechtmäßigen Zwanges. Aber diese Befugnis kommt dem nicht zu, dessen *ius controversum* ist. Die Regeln des Rechts gegen einen andern sind reciproc. Ich muß auch dem andern sein Recht erzeugen. Daher ich mich selbst dem Zwange unterwerfen muß, nach welchem des andern Recht gesichert ist. Daß ich mich gegen den andern auch rechtmäßig betragen werde, ist die Bedingung der Verbindlichkeit gegen den andern. Ich mache erstlich aus, was recht ist. Dann ist noch die frage, ob ich verdunden bin, mich in Ansehung des andern durch sein blos Recht einschränken zu lassen. Dieses gilt nur, wenn reciproc ebendasselbe Recht mich auch vor dem andern Sichert, da ich also gar nicht nöthig habe, mich auf meine eigne Gewalt zu verlassen.
+
+Der (g hinreichende) Zwang ist rechtmäßig, dieweil, da er mir von der andern seite mein Recht sichert, so macht er es möglich, daß alle Handlungen durch die bloße Regel des rechts allgemeingiltig dirigirt werden.
+
+Der Nothfall ist, da ich mir mein Recht selber verschaffe und mein eigner Richter bin.
+
+An die Stelle des Rechts, wenn keine gültige Rechtspflege da ist, tritt die Natur, z. E. Erhaltung seines Lebens.
+
+Es giebt keinen Nothfall zu lügen, sondern aber wohl wo es recht ist, die Unwarheit zu reden.
+
+**6897.**   υ? χ?   Pr X'. Es ist sehr schädlich, in der Methode die Mittel der Ausführung mit den Bestimungen der Idee zu vermengen. Ob ein gewisser Religionsvortrag leicht zu lehren sey, sich leicht eindrüken läßt, ob wir viel oder wenig vermögen haben, ob eine Regel des Rechts sehr gemisbraucht werden [AA 19:200] könne. Ob fürsten werden Neigung haben, sich demjenigen zu bequemen, was das Recht der Staaten ausmacht: davon ist hernach Die frage, wenn nur erst die Regel errichtet ist. Diese zu vereiteln ist der Hochverrath gegen die Menschliche Vernunft.
+
+**6898.**   φ.   Pr X'. Die bewegende Kraft des sittlichen Begrifs liegt in dessen reinigkeit und unterscheidung von allen anderen antrieben. Das Ursprünglich *intellectuale* fällt dadurch nur auf, daß es mit anderen analogischen Bewegungsgründen der Ehre, der Glükseeligkeit, der Wechselliebe, der Ruhe des Gemüths verglichen wird und sich in der Vergleichung über alle erhebt. Anpreisungen der Tugend und Ermahnungen können von keinen werthe seyn, sondern blos die Entwikelung seines ihres Begrifs. Beyspiele, aus denen die Reinigkeit des tugendbegrifs hervorleuchtet, und ein unmittelbar moralischer Abscheu bey Erziehung sind besser.
+
+**6899.**   υ? κ? η?   Pr XI'. Wir könen sagen, daß in einer Welt alle Zweke vom allgemeinen (Gantzen) zum besonderen herabgehn und also der Zwek des Gantzen die Bedingung der Zweke der theile in sich enthalte, d. i. daß jedermann sich den Gesetzen als unterworfen ansehn muß, dadurch er in jeden Zustand entweder der Natur oder der freyheit nach allgemeinen Gesetzen paßt. Weil, wenn die Welt im Gantzen zwekmäßig ist, wir mit ihr und also in ansehung der Glükseeligkeit alsdenn zusammen treffen werden.
+
+**6900.**   υ.   Pr XI'. Die subiective Ursachen der moralität sind: 1. Verstand. 2. das Herz. Das schlechte Herz ist eine Ursach der Dumheit. *e. g.* Eine bittere und hochmüthige Gemüthsart verursacht, daß man in einer strittigen frage alles falsch nimt, spöttisch urtheilt und offenbar einen Narren vorstellt. Es gehört ein Gut Herz dazu, um die Warheit zu finden, vornemlich bey dem Wiederstreit der Eitelkeit der Menschen unter einander.
+
+Von den kleinen Merkmalen eines bösen Herzens. Als eine Neigung, sich über das, was andern unangenehm ist, obzwar nur in Kleinigkeiten, zu erfreun. und darüber zu lachen.
+
+[AA 19:201] **6901.**   υ.   Pr XI'. Man kan sich in Ansehung der Begriffe communiciren, aber nicht in Ansehung der Empfindungen. Wenn wir eine Ungerechtigkeit einem andern verständlich gemacht haben, so finden wir, daß er sie Zwar erkennt und misbilligt, aber nicht verabscheuet. Dieses letztere suchen wir ihm durch Heftigkeit oder Bitterkeit mitzutheilen. Es hat aber oft in Unterredungen etwas unangenehmes, da die *politesse* erfodert, daß ich mit meinen Empfindungen eines andern Rat temperament nicht stöhre, sondern einen jeden etwas aufnehmen lasse, wie er will.
+
+**6902.**   υ.   Pr XI'. Man muß nicht allein das moralische Gefühl nicht als ein *principium* citiren, sondern auch keine moralischen Gründe gleichsam der Entscheidung des Gefühls überlassen, *e. g.* Selbstmord. auch so gar nicht die Bewegungsgründe aufs Gefühl Gründen, *e. g.* Mitleiden, Abscheu. Denn das Gefühl hat keine Regel, ist auch wandelbar und wetterwendisch.
+
+**6903.**   υ.   Pr XI'. Unter allen Abweichungen von der natürlichen Beurtheilung und bewegenden Kraft der sitten ist die schädlichste, da man die lehre der sitten in eine lehre der religion verwandelt oder auf religion gründet. Denn da verläßt der Mensch die wahre moralische Gesinnungen, sucht die Göttliche Gunst zu gewinnen, abzudienen oder zu erschleichen und läßt allen Keim des Guten unter den maximen der furcht ersterben.
+
+**6904.**   υ.   Pr XI'. Das Reich Gottes auf Erden ist ein ideal, welches in dem Verstande desienigen eine bewegende Kraft hat, der sittlich gut seyn will.
+
+**6905.**   υ? κ?   Pr XII'. Der souverain hat keinen credit wegen der Macht. Er stellt daher jederzeit einen Gewahrsman, den man belangen und zwingen kan, und da er selbst richter ist, so werden die Sachen von dazu vereideten collegien entschieden. Ein aufgehoben *privilegium* muß die provintz bezahlen. Eine
+
+[AA 19:202] Auflage interessirt die Bürger gegen einander. Der souverain kan thun, was er will, aber in der execution müssen die rechte der Bürger gegen einander von ihnen selbst ausgemacht werden.
+
+**6906.**   υ? κ?   Pr XII'. Daß die Menschen von Natur böse seyn, erhellet daraus*, daß sie von selbst niemals mit ihrer idee des Guten zusammen stimmen und daß sie müssen gezwungen werden, imgleichen daß sie sich wechselsweise durch einander von Einem zwingen lassen. Imgleichen Muß der Mensch disciplinirt werden und die Wildheit weggenomnmen werden. Das Wohlverhalten der Menschen ist also was erzwungenes, und die Natur desselben ist demselben nicht gemäß. Es ist ein Grundsatz der bürgerlichen so wohl als Staatsklugheit: jederman ist von Natur böse, und nur so fern gut, als er unter einer Gewalt steht, die ihn nöthigt, gut zu seyn. Er hat aber das Vermögen, nach und nach auch ohne Zwang gut zu werden. wenn die triebfedern des guten, die in ihm liegen, nach und nach entwikelt werden. Das Kind erwächst böse ohne disciplin. Das macht: das thierische geht blos auf seine Neigung und die Pflicht auf die idee des Guten. Wenn er gleich moralisch böse ist, so ist er doch physisch gut.
+
+* (g auch daraus, daß sie, in einem Staatskörper vereinigt, iederzeit gewaltthätig, eigenützig und unvertragsam sind. )
+
+**6907.**   υ.   Pr XIII'. Die Glükseeligkeit ist zwiefach: entweder die, so eine Wirkung der freyen Willkühr vernünftiger Wesen an sich selbst ist, oder die nur eine Zufellige und äußerlich von der Natur abhängende Wirkung davon ist. Vernünftige Wesen könen sich durch handlungen, welche auf sich und auf einander wechselseitig gerichtet sind, die Wahre Glükseeligkeit machen, die von allem in der Natur unabhängig ist. und die Natur kan ohne diese auch nicht die eigentliche Glükseeligkeit liefern. Dieses ist die Glükseeligkeit der Verstandeswelt. Daher macht die Vorstellung der moralischen Vollkommenheit auch weichmüthig. Man sieht nemlich in so große Glükseeligkeit hinaus, die blos auf dem Willen beruht. Ich kan nicht sagen, ich wolte so gut seyn, wenn andre es auch seyn wolten; denn alsdenn ist den Zwek Zu erreichen nicht möglich. Ich muß das Muster der Vollkomenheit [AA 19:203] in einer möglichen Guten Welt an meinem theile zu erreichen suchen.
+
+Das ist an sich selbst gut, was nicht von blos zufelligen Bedingungen Abhängt, sondern von meiner Willkühr.
+
+**6908.**   υ.   Pr XIII'. Die Welt ist von keinem Werth, wo nicht vernünftige Wesen sind, von denen sie gebraucht wird (nicht blos angeschaut wird); der blos beliebige Gebrauch der Welt Gehet auf das Vergnügen des Lebens. Also war dieses als aller Vernünftiger Geschöpfe natürlicher Zwek auch die einzige Absicht, wozu eine Welt Gut ist, nicht blos zum Genuß, sondern auch zum Gebrauch. Allein die oberste Bedingung dieser Absicht ist der Gute Gebrauch, den sie von sich selbst und den Dingen der Welt machen.
+
+**6909.**   υ.   Pr XIII'. Alles in der Natur ist nur Gut, in so fern es zwekmäßig ist, und alles ist dennoch der Willkühr subordinirt. Die Natur stimmt mit der freyheit zusammen, wenn die Zweke der ersten die letzte unter sich fassen.
+
+**6910.**   υ.   Pr XIII'. Die Nothwendigen Gesetze (die *a priori* feststehen) der allgemeinen glükseeligkeit sind moralische Gesetze. Sie sind gesetze der freyen Willkühr überhaupt, und die Regeln derselben necessitiren *intellectualiter*; mithin, weil sie einzig und allein die Glükseeligkeit auf die Ursache der freyheit bringen und also die Würdigkeit Glüklich zu seyn bey sich führen, so sind alle sinnliche *stimuli* und *motiva felicitatis a posteriori* unter ihnen.
+
+Die Gr0eßte Natürliche Zweke eines Vernünftigen Wesens gehen so gar nur auf vernünftige Wesen, und daher ist der Genuß der Sinne bey weitem kein ächtes Stük der Glükseeligkeit.
+
+**6911.**   υ.   Pr XIII'. Die Glükseeligkeit *a priori* hat kan in keinem andern Grunde gesetzt werden als in der Regel der Einstimmung der freyen Willkühr. Dieses [AA 19:204] ist ein Grund der Glükseeligkeit vor allen Kenntnissen der Mittel durch Erfahrung und eine Bedingung ihrer Möglichkeit in allen fällen. Dadurch Gefällt die Welt dem Verstande; sie sind Schöpfer der Glükseeligkeit und nicht*usurpateurs* derselben.
+
+**6912.**   υ? κ?   Pr XIV'. Natur, Zufall, freyheit (eigne Schuld) und Schikung.
+
+**6913.**   υ? κ?   Pr XIV'. Der Mensch ist so vielen Guten würdig, nicht als er guts empfangen hat, sondern als er gutes thut. Gutes in Ansehung seiner selbst, gutes der bloßen einstimung (der form nach) oder der Hinzuthuung (der Materie nach). Warum geben Handlungen allein die Würdigkeit? warum ist blos die freyheit und deren qvalität der oberste Grund des Guten? Ich glaube: darum heissen die Handlungen selber auch gut, weil sie allein die condition der Vernunft enthalten, nach allgemeinen Gesetzen glüklich zu machen. Denn die Natur giebt keine andern als auf einzelne fälle bestimte und also gekünstelte Austheilungen, nemlich die vom höchsten wesen modificirte Natur. Die blinde natur aber hat keine sichere Übereinstimung. Überdem ist die Natur der freyheit ihrem Wesen nach unterworfen, und dieses ist als selbstthätig her über alles.
+
+**6914.**   υ? κ?   Pr XIV'. Iedermann bescheidet sich, daß, um Gelehrt in einer Kunst, geschikt oder auch zur Arbeit geübt zu werden, Zeit gehöre, nicht allein die Regeln zu fassen, sondern sie auch leicht in Ausübung zu bringen. Allein Gut zu werden: das, glaubt man, komme blos auf unser Wollen an. (Nemlich auf unsern guten Willen, welches identisch ist; aber nicht nemlich das Gut seyn ist eigentlich nur ein guter Wille.) Es ist auch in der That ein bloßer Wille: das, was gänzlich selbstthätig ist und auch auf einer maxime beruht. Aber die Ausübung erfodert Handlungen *in concreto*, wodurch diese Grundsätze triebfedern werden.
+
+[AA 19:205] **6915.**   υ.   Pr XV'. Nach der Theorie vom höchsten Gut die moralische bonitaet besonders erwogen:
+
+1. worin sie bestehe die Gründe der diiudication, worin sie bestehe, wie *in concreto* das Urtheil anzustellen sey. 2. der execution oder der Ausübung (wir müssen die macht der Moralität durch die herbeyziehung des interesse (nicht blos nutzens) zu verstärken suchen, aber sie nicht damit vermischen; sondern jene soll nur das *vehiculum* seyn). *a.* Handlungen haben etwas wohlgefallendes oder Misfallendes entweder wegen der Geschiklichkeit (Räuberanschlag, wie er misfällt, wenn er durch Dummheit seinen Zwek verfehlt.) (wir sind indessen nur bis zu dem Augenblik zufrieden, da er complet ist; nachher sind wir über das Gantze Unzufrieden, also nur bis zum Ausgang, nicht über den Ausgang). Die Geschiklichkeit läßt sich an werken warnehmen, obgleich nicht einsehn, und gefällt an sich selbst an einer Uhr.
+
+*b.* Wegen der Klugheit, wo der Zwek selbst überlegung und wohlverstandene selbstliebe anzeigt. Die Unklugheit misfällt bey der Größten Geschiklichkeit: Christine. *c.* Endlich an sich selbst. Die Handlung ist an sich selbst gut nicht darum. Was nur eine bedingte bonität hat, gefällt aus einem Gesichtspunkte und misfällt aus anderen und in anderen Verhältnissen. *e. g.* Ein Amt erwerben, eine gute heyrath treffen. Aber die redlichkeit gefält nothwendig jederman. Es ist diese bonität auch größer als alle andere und die Bedingung der Befugnis, andere Absichten zuzulassen. Ein richter, der in ansehung eines schlechten Kerls, wie er ihn nennt, und eine hübsche familie nicht zu ruiniren, das Recht beugt, ist in den Augen eines jedes abscheulich, so groß der Nutze ist, der auch daraus erwachse (ob dieses Urtheil gelernet werden müsse?). Es ist auch diese Art der Handlungen ein Grund der Selbstzufriedenheit, nemlich seiner eignen Pers0hn, aber nicht mit seinem Zustande. Es ist ein *a part ingrediens* unsrer Bewegungsgründe. Diese Wollust ist vom Himmel genommen und das *ambrosia* der Götter. Ob die tugend aus Begriffen oder aus einer idee abgeleitet werden könne? (s Die idee muß rein seyn; wehe dem, der [AA 19:206] sie dem laster zu gefallen verdirbt oder auch nur durch fremde Zusätze unkentlich macht. Selbst die Übertretung ist nicht so sträflich. )
+
+**6916.**   υ.   Pr XV'. Wer das moralische Gefühl behauptet, sieht es entweder wie etwas praeformirtes an oder wie das innere Licht der Schwärmer. Der aus bloßen reflexionsbegriffen die Sittlichkeit ableiten will, der bringt *formas* *substantiales* hervor und verwandelt eine bloße form und macht aus dem allgemeinen der Zusammenstimung die realität des zweks. (s Die tugend Gefällt dem Zuschauer noch besser, wenn sie ohne Vortheil als mit Vortheil ist, am meisten: wenn sie mit einem vorhergesehenen Schaden verbunden ist; denn alsdenn erscheinet sie in vollem Glanze ihrer Reinigkeit. )
+
+**6917.**   υ-φ.   Pr XVI' Man hat lange gesagt: daß, wenn die tugend in ihrer eigenthümlichen Gestalt den Menschen erschiene, sie von jedermann würde hochgeschätzt und umarmt werden. Man darf desfals nicht auf erscheinungen der Begeisterung warten. Es ist gnug, sie von allem fremden, womit sie in gemeinen Augen verstellt wird, zu entkleiden: so zeigt sie ihre Natürliche Schönheit und thut auch ihre Wirkung, wenn sie so zeitig vorgestellt wird. Man kan die moralische Eindrüke durch entgegengesetzte Beyspiele (welches das ärgste ist) oder durch die beschwerliche aufopferungen oder durch den Vortheil auf der Gegenseite schwächen, man kan sie auch verstärken, aber dadurch nicht wiederlegen oder ihren Mangel ersetzen.
+
+#### Obligatio in genere.
+
+**6918.**   υ? (μ? ρ?)   Pr 4. Die Gründe der obiectiven Nothwendigkeit: *motiva*, der subiectiven necessitation: *stimuli*. jene *intellectualiter*, diese *pathologice*.
+
+[AA 19:207] **6919.**   φ.   Pr 4.   In § 10: (s *stimuli necessitant pathologice*. ) *pathologice* oder *practice* necessitiren *per stimulos* oder *motiva*. Die obiective Nothwendgkeit zu handeln. Es ist gut. (g was überhaupt geschehen soll, nicht: was das subiect thun soll. ) Die subiective -- -- : es ist angenehm. Die *necessitatio obiectiva* ist das Sollen. (s *Obligari et ab aliqvo obligari*. )
+
+**6920.**   φ.   Pr 4. 5. Pr 4: *Causae sensitive moventes* sind *stimuli*. (g Pr 5: der Mensch ist nicht necessitirt durch *stimulos* und also frey, auch nicht durch*motiva*. ) Pr 4: *Causae subiective moventes* sind *elateres*. Auch der Verstand hat *elateres*, die den *motivis intellectualibus* recht angemessen seyn; die *stimuli* sind falsch und zweyzüngig, sie lassen sich zum bösen so wohl als guten brauchen. Auch der bewegungsgrund muß edel seyn.
+
+**6921.**   υ? (ρ?)   Pr 5. Die moralische maxime ist der Grund der Verbindlichkeit, das Gefühl: der Neigung zum Guten.
+
+**6922.**   υ? (ρ?) μ??   Pr 5. Es ist klar, daß nur dasienige, was allgemein genommen gut ist, schlechthin geschehen solle unangesehen der Neigung; 2. das die Glükseeligkeit nur gut sey, die damit zusammen stimmt.
+
+**6923.**   φ.   Pr 5. Die practische necessitation (s pathologisch) betrift entweder die *motiva* oder die *media*. Das product der Handlung ist *finis*. *imperativi* [AA 19:208] der Geschiklichkeit imperiren nur *media cum* belibigem Zwek. Der Klugheit auch *motiva*.
+
+**6924.**   φ.   Pr 5. Die moralitaet besteht in der Unterordnung eines ieden willens unter die Regel allgemein gültiger Zweke. (g Die Regel muß seyn, daß die Handlung den allgemein gültigen Zwek zur Bedingung habe. )
+
+**6925.**   φ.   Pr 5. Die Geschiklichkeit hat Regeln, die Klugheit maximen, die Sittlichkeit Gesetze.
+
+**6926.**   υ? ξ??   Pr 4. *bonitas actionis est necessitas obiectiva.*
+
+*bonitas actionis contingentis est necessitatio obiectiva.*
+
+*necessitatio est imperativus. Moralis est cathegoricus.*
+
+**6927.**   υ.   Pr 4. *necessitatio (g obiectiva) practica fit per imperativos problematicos,* *pragmaticos, morales.* Was gut ist zu einer beliebigen oder wirklichen Absicht oder an sich selbst.
+
+**6928.**   υ.   Pr 4. *causae impulsivae subiective necessitantes sunt elateres vel stimuli* *vel---*bricht ab.
+
+**6929.**   υ? ξ??   Pr 4. 5. Pr 4: *Causa impulsiva vel obiective necessitat vel subiective. Prior est* *motivum et consistit in cognitione (g vel absolute vel hypothetice) boni* (g Pr 5: *vel tanqvam finitum immediati vel tanqvam mediati ad felicitatem*. ) Pr 4: *Posterior stimulus et consistit in nexu cum mentis inclinationibus.* *Motiva vel* Pr 5: *necessitant pragmatice vel moraliter.* *necessitatio actionis per motiva moralia est obligatio, et actio* *ipsa est officium.*
+
+[AA 19:209] **6930.**   υ.   Pr 5. *Motiva vel concernunt med sunt a felicitate, vel bonitate depromta.*
+
+**6931.**   φ.   Pr 4. Die Freyheit ist 1. eine unabhängigkeit von äußeren Ursachen. 2. Von Neigungen: also das Vermögen der vernünftigen Willkühr, entweder bedingten oder Unbedingten Vorstellungen der Vernunft.
+
+Was durch die freyheit möglich ist, ist practisch möglich, i. e. moralisch. (s oder pathologisch. Die erste entweder pragmatisch oder moralisch. ) Die Handlungen aus Neigung, wobey es möglich war, durch freyheit zu handeln, sind auch frey.
+
+**6932.**   φ.   Pr 4. Die problematische Regeln zu Befriedigung einer zufalligen Neigung sind die der Geschiklichkeit, die pragmatische zur Glükseligkeit sind Regeln der Klugheit.
+
+**6933.**   φ.   Pr 5. *Obligatio est necessitatio; practica, non pathologica; moralis, non* *pragmatica;* nicht *per stimulos --- pathologica per extorsionem.* (g auch so gar die, so Belohnungen versprechen, drohen den Verlust uns an. ) *(s necessitatio vel pathologica vel practica vel pragmatica vel moralis. )*
+
+*pathologica necessitatio non enunciatur imperativis.*
+
+**6934.**   φ.   Pr 5. *Obligatio est necessitatio practica, non physica, ideo per causas* *impulsivas* nach regeln der Willkühr.
+
+*necessitatio arbitrii puri est obligatio.*
+
+*obiective impellentia sunt motiva, subiective elateres.*
+
+**6935.**   φ.   Pr 5. Die Glükseeligkeit ist selbst nur bedingter Weise gut. Also sind solche Handlungen, die um der Glükseeligkeit willen gesehen, nur mittelbar gut.
+
+[AA 19:210] Allein die condition gilt vor iedermann, und die Nothwendigkeit ist obiectiv; allein die besondere Annehmlichkeiten sind subiectiv und haben nur privatgültigkeit.
+
+**6936.**   φ.   Pr 5. *imperativi* sind Regeln (obiective) der Handlungen.
+
+**6937.**   φ.   Pr 4.   Unter § 10: Ich bin im Besitz einer obligation.
+
+**6938.**   υ.   Pr 6. Die pathologische necessitation findet nicht statt, weil der Mensch frey ist; die pragmatische ist bedingt und die imperativen hypothetisch; blos die moralische ist unter categorischen imperativen.
+
+**6939.**   φ.   Pr 6.   In § 13: Die bonitaet des Gebrauchs der freyheit überhaupt nach Grundsätzen.
+
+**6940.**   φ.   Pr 6.   Neben § 13: Ungleichartigkeit der Motive der Glükseeligkeit und der Sittlichkeit; subiective Gleichartigkeit.
+
+**6941.**   φ.   Pr 6.   Unter § 13: Zur Klugheit gehört guter Verstand, zur Sittlichkeit guter wille, nemlich als *elater*.
+
+**6942.**   φ? (ξ?)   Pr 6.   Zu § 12 Schluss: *Obligatio est necessaria per causas impulsivas obiective potiores* *(non per stimulos), ideo per motiva, et qvidem categorice moventia,* *non hypothetice sub conditione voluptatis futurae.*
+
+**6943.**   φ.   Pr 6.   In § 12: Die Gutartigkeit der reinen Willkühr. Moral. Die reine Gutartigkeit ist nicht mittelbar, indirect problematisch oder pragmatisch.
+
+[AA 19:211] **6944.**   φ? (ξ?)   Pr 6. Es gehöret zur sittlichen Beurtheilung nur Verstand; zum sittlich guten Willen: daß man wirklich das Gute mehr als das angenehme liebe; zur ausübung: daß man die Stärke des oberen Willens über die Sinnlichkeit besitze.
+
+**6945.**   φ.   Pr 6.   In § 13: *necessitans per motiva, non per stimulos obligat.*
+
+**6946.**   φ   Pr 6. 7. Pr 6. In § 14: Das Gesetz sagt die obligation zu Handlungen aus, muß aber auch einen effect derselben gemäß der obligation determiniren, also zugleich pragmatisch seyn. Die obligation ist blos moralisch; aber das pragmatische dient nicht zum Bewegungsgrunde, sondern zum Gleichgewicht gegen die Sinnliche Bewegungsursache, Pr 7: das pragmatische fließt hier aus der moralitaet.
+
+**6947.**   φ? (ξ? ρ?)   Pr 7. Die freyheit eines ieden *obligati* ist eingeschränkt, des *entis summi* nicht.
+
+Die obligation geschieht immer durch die idee des vollkommensten Willens, der subjective mag seyn, wie er wolle.
+
+moralische *motiva* sind *potiora qvam stimuli*, *motiva moralia* nicht allemal *potiora qvam pragmatica*.
+
+**6948.**   φ.   Pr 7.   In § 17: Die reine Wilkühr liegt ieder andern zur Bedingung (*conditio sine* *qva non*); denn sie ist die Bedingung der Zusam Moglichkeit der Handlungen aus allgemeingültigen principien. folglich des Gebrauchs der Vernunft in ansehung der freyheit und der Bestimung dieses an sich Gesetzlosen Vermögens nach Regeln.
+
+In Ansehung der Zweke kan nichts allgemeine Regeln des Gebrauchs der freyheit geben als die reine Vernunft.
+
+Categorien der reinen Willkühr.
+
+[AA 19:212] **6949.**   φ.   Pr 7.   In §. 18: Darin daß freyheit ohne moralität eine isolirung des Menschen und abtrennung von der göttlichen leitung und bestimung durch Naturursachen ist, liegt der Grund des hohen Werths der principien, wodurch diese freyheit an Bedingungen restringirt wird, mit sich selbst und der Natur zu passen. Wer diese nicht hat, ist nicht werth irgend eines guten und das gefährlichste und nichtswürdigste Geschopf.
+
+**6950.**   φ.   Pr 8. Die Sittlichkeit besteht in dem Verhältnis freyer Handlungen mit den Gesetzen (g Bedingungen) des allgemeinen Willens, entweder der Menschheit oder der Menschen. Der allgemeine Wille der Menschheit geht auf die Erhaltung dessen, was (g zu) der Menschlichen Natur wesentlichen Zweken gehört. Der allgemeine Wille der Menschen besteht in dem Gegenstande oder der Form der Handlungen, dadurch er unabhängig von jeder besonderen Neigung wird. Er bedeutet theils den Willen eines jeden Theils, den Willen, der auf einen jeden gerichtet seyn kan.
+
+**6951.**   υ.   Pr 8. *obligatio erga obligantem est passiva, obligatio erga obligandum* *est activa.*
+
+**6952.**   υ.   Pr 8. Der Menschen freyheit ist nicht illimitirt; sie sind verbunden.
+
+**6953.**   υ? (μ? ρ?)   Pr 8.   Unter § 22: ab ali*quo obligari* setzt iederzeit einen *actum obligatorium* eines andern voraus; denn wenn einer passiv ist, so muß der andere activ seyn, folglich ist alle *obligatio passiva hypothetica* (diese *hypothesis* kan ideal seyn *in statu naturali*, aber den ist die *passi obligatio* auch *idealiter* passiv). Der andere ist nicht *causa*, sondern *objectum obligationis*.
+
+**6954.**   υ? (μ? ρ?)   Pr 10. Es kan niemand den andern obligiren, als durch eine nothwendige Verknüpfung einstimung des Willens anderer mit dem seinen nach allgemeinen
+
+[AA 19:213] Regeln der Freyheit. Also kan er niemals den andern obligiren, als vermittelst desselben eignen Willen.
+
+**6955.**   υ? (μ? ρ?)   Pr 11.   Zu § 28 Anfang: Alle moralische Gesetze müssen gewis seyn. Die *subsumtiones* könen warscheinlich seyn.
+
+Der probabilism in ansehung des erlaubten ist böse.
+
+**6956.**   υ? (μ? ρ?)   Pr 12. Der Ausdruk: wir sollen dies thun oder unterlassen, bedeutet einen Bewegungsgrund, den wir uns eindrüken und der wirklich die Handlungen befördert. Daher was wir uns oft vor Übereilungen und versehen verweisen, das bedeutet nicht immer, daß wir sie hätten vermeiden könen, sondern einen Bewegungsgrund, der uns eingedrükt ist und, wenn er allgemein genomen wird, gut dazu dient, den fehler zu vermeiden.
+
+**6957.**   υ? (μ? ρ?)   Pr 12. In allem praktischen ist eine idee, die man nicht erreicht, und wenn man ihr nahe komt, so heißt das: man thut sich selbst gnug.
+
+Es ist schlimm, sich selbst leicht zu satisfaciren oder wohl gar seine idee nach seiner Gemachlichkeit zu machen, indem man sie corrumpirt; Denn die idee machen wir uns nicht selbst, sie liegt in uns gegeben.
+
+**6958.**   υ? (μ? ρ?)   Pr 14. Unsre Handlungen müssen darum nicht den triebfedern und Anlockungen oder Abschreckungen der sinnlichkeit unterworfen seyn, weil diese immer ein privatverhaltnis auf das nützliche haben. Die Regel der Handlungen, wodurch, wenn jeder darnach handelt Natur und Willkühr unter den Menschen allgemein einstimig ist zur Glükseeligkeit, ist ein Gesetz der Vernunft und bedeutet als denn moralitaet.
+
+Wir sind durch die Vernunft, wenn sie blos den Dienst der Sinne versieht, nemlich ihre Forderungen auszuführen, in einen größeren Wiederspruch mit uns selbst und mit anderen gesetzt als selbst die thiere, die durch instinct regirt werden, der mit den Bedürfnissen derselben einstimig ist, anstatt daß Vernunft sich gewiße obiecte wählt und nicht nach der Summe [AA 19:214] der Empfindungen, sondern nach dem durch willkührliche phantasie erhöheten Wahne. Da nun die Sittlichkeit sich auf die idee der allgemeinen Glükseeligkeit aus freyem Verhalten Gründet, so werden wir genothigt, selbst die Ursache und Regirung der Welt nach einer idee, nemlich demjenigen, was alles Einstimig macht oder durch einstimige Bestrebung zur Glükseeligkeit auch diese selbst besorgt, zu gedenken; denn sonst hätte die moralische idee keine realität in der Erwartung und wäre ein blos vernünftelnder Begrif.
+
+Die Natur muß wie eine idee angesehen werden, welche im Schöpfer das Urbild, bei uns aber die Norm ist. Es kan nichts beständiger und gegründeter zur Vorschrift unsrer Handlungen seyn, als die idee zum Grunde zu legen, nach welcher wir selbst da sind, so uns nicht anders durch die Natur bestimt sind und diese unsre Willkühr frey machen, damit sie blos nach dieser idee handele, da wir gleichsam ans eignem Belieben so beschaffen sind.
+
+**6959.**   υ? (μ? ρ?)   Pr 14.   In § 32, Satz 3, 4: Die reale opposition im practischen ist, wenn ich entweder den Zweken oder blos der Gesetzgebenden Vernunft entgegen handle, folglich den effect, den sie als Bestimmungsgrund leisten würde, verhindere, d. i. ihr entgegen wirke.
+
+**6960.**   υ? (μ? ρ?)   Pr 15.   Über und neben § 34: Die freyheit ist eine subiective Gesetzlosigkeit. Man weiß nicht, nach welcher Regel man seine eigenen oder anderer Menschen Handlungen beurtheilen soll. Einfälle, seltsamer Geschmak, böse oder leere Grillen könen wirkungen hervorbringen, auf die Man nicht vorbereitet war. Sie verwirret also. Die gantze Natur, wenn sie sich nicht selbst obiectiven Regeln unterwirft, die aber nichts anderes seyn können als die Allgemeinen Bedingungen der Einstimung mit der Natur überhaupt, wird dadurch in Verwirrung gebracht. Daher ohne moralische Gesetze der Mensch selbst unter das thier verächtlich und mehr als dasselbe hassenswürdig wird. Wer nach obiectiven Gesetzen nicht verfährt, muß nach physischen gezwungen werden.
+
+[AA 19:215] **6961.**   υ? (μ? ρ?)   Pr 15   Neben § 34, Satz 2--4: Ausser der Zusammenstimmung mit der Natur muß der freye Wille mit sich selbst in Ansehung der innern und äußern Unabhängigkeit von Antrieben zusammen stimmen. Ohne moralitaet herrschen thorheit und Zufall über das Glük der Menschen.
+
+**6962.**   υ? (μ? ρ?)   Pr 15.   Neben § 34 Schluss und § 35: Die practische Bedingung der Vernunft ist: daß alle Handlung unter allgemeingültige Regeln stehe. Die freyheit ist nach der Natur eine Gesetzlosigkeit, also wie eine physiologische Beschaffenheit, und als ein bloßes Spiel der Neigungen; soll sie aber obiectiv seyn, d. i. nach der Vernunft, so muß sie allgemeingültige Regeln haben.
+
+**6963.**   φ? (ρ--σ?)   Pr 15.   Über und in § 35: Dasienige, was die nothwendige Bedingung der Einstimmung unsrer Begierden (immanenter und transienter) unter einander ist, das gefallt nothwendiger Weise und ist das *principium formale* aller unsrer Handlungen.
+
+**6964.**   υ? (μ? ρ?)   Pr 16. Die moralische freude kan großer seyn als die selbstsüchtige, ob wir zwar die letztere mehr wählen. Diese hat mehr in sich; jene ist von der Art, die mehr unter sich haben. Die physische hat mehr im Gehalt, die moralische in der Vielgültigkeit und ausbreitung. Ich kan mit warheit sagen, daß ich mich mehr freue, wenn ein würdiger und bedürftiger Man das große Loos in der Lotterie gewonnen hat, als ob es mir selbst begegnet wäre. Denn jenes entspringt aus einer liebe und theilnehmung, die ich höher schätze, weil sie einen allgemeineren Werth hat.
+
+**6965.**   υ? (μ? ρ?)   Pr 16. Das Wohlgefallen an der Glükseeligkeit des Ganzen ist eigentlich ein Verlangen nach den Bedingungen der Vernunft nach eigener Glükseeligkeit. Denn ich kan nicht hoffen glüklich zu seyn, wenn ich etwas Besonderes haben soll und das schiksal eine besondere beziehung auf mich haben soll.
+
+[AA 19:216] **6966.**   υ? (μ ρ?)   Pr 16. Alle Pflichten gegen sich selbst gehen auf die innere Würde.
+
+**6967.**   φ? (λ--ρ?)   Pr 16.   In § 37: *Moralitas iudicanda est e consectariis universalibus, non privatis* *et contingentibus*, *e. g.* lügen, also *consectariis essentialibus*. Das, wodurch allgemein genommen die freye Willkühr sich selbst wiederstreitet, ist *pravitas essentialis*, und *consectarium: infelicitas necessaria*. Nun fehlt noch die *necessitatio per hunc universalitatem*.
+
+**6968.**   φ? (λ--ρ?)   Pr 16.   In § 37: Nicht die physische folgen der Handlungen, die auf das subiect redundiren, machen die moralitaet aus, sondern die innere Beschaffenheit; das Wohlverhalten glänzt mehr auf dem schwarzen Grunde des Unglüks.
+
+**6969.**   υ? (μ? ρ?)   Pr 17. Die erste frage ist: warum eine gewisse regelmäßigkeit der Handlungen der Glükseeligkeit würdig macht?
+
+Die zweyte frage ist: warum wir so handeln *sollen*, daß wir dieser Glükseeligkeit würdig werden, wenn kein Wesen vorausgesetzt wird, welches solche nach Würdigkeit austheilt?
+
+Weil unsre Glükseeligkeit nur moglich ist durch die Einstimung des gantzen mit unserm gantzen natürlichen allgemeinen Willen und wir das ganze nicht regiren könen, so werden wir das gantze als untergeordnet einem allgemeingültigen willen, der alle unter sich begreift, ansehen und die Einstimung unseres Willens mit bricht ab.
+
+**6970.**   υ? (μ? ρ?)   Pr 17.   Neben § 38 „Quumque -- probabiliter“: Die Voraussetzung eines Willens kan uns nur Glükseeligkeit versprechen.
+
+**6971.**   υ? (μ? ρ?)   Pr 17. Die Glükseeligkeit, die aus der Beziehung von allem in der Welt auf den Privatwillen der Persohn nur moglich ist, ist auch nur moglich (g in einem Gantzen) nach einer idee. Darin aber muß doch auch jedermanns [AA 19:217] privatwille enthalten seyn, folglich wird ein allgemeingültiger wille nur den Grund der Versicherung der Glükseeligkeit abgeben könen; also könen wir entweder gar nicht hoffen glüklich zu seyn, oder wir müssen unsere Handlungen zur Einstimung mit dem allgemeingültigen Willen bringen. Denn alsdenn sind wir nach der Idee, d. i. der Vorstellung des Gantzen, allein der Glükseeligkeit fähig, und weil diese fähigkeit eine folge unsres freyen Willens ist, derselben Würdig. Der Umfang unsrer Glükseeligkeit beruhet auf dem Gantzen, und unser Wille als wird dem *originario* substituirt werden müssen.
+
+**6972.**   φ? (ρ--σ?)   Pr 17.   In § 39: Nur was vor dem allgemeinen Urtheil bedingter oder unbedingter weise gefällt, ist gut.
+
+tautologische imperativen.
+
+1. *qvaestio diiudicationis: qvid est bonum?* 2. *executionis: cur* *hoc bonum a me faciendum?*
+
+Nicht thue, was angenehm oder was dir nützlich, sondern was Gut ist, d. i. in allgemeiner Beziehung gefält.
+
+**6973.**   υ? (μ? ρ?)   Pr 18. Warum ist die natürliche allgemeine Begierde (zur Glükseeligkeit) der idee nach unter dem obersten ursprünglichen Willen so wohl der Natur als der freyheit und an ihn als dessen condition gebunden? Wir stellen uns nemlich vor, das dasjenige geschehen müsse, was wir nach unsrer unpartheyischen Willkühr verlangen würden, wenn andere unsrem Willen unterworfen wären. Ihr wille müste unter einander und mit unserm obersten willen zusammenstimmen. Wir würden verlangen, daß sie der idee von ihrem Daseyn sich gemäs verhielten, aller Wille Einheit hätte.
+
+Die Glükseeligkeit kan nur in Verständigen Wesen angetroffen werden. Freyheit ist das erste principium des Zufälligen. Die art glüklich zu seyn dependirt von der freyen Wahl. Also
+
+[AA 19:218] **6974.**   υ? (μ? ρ?)   Pr 18. In Ansehung unsrer Selbst haben wir eine sinnliche Lust in ansehung dessen, was wir leiden, und eine intellectuelle in ansehung dessen, was wir (aber nicht um einer Neigung willen) thun, also was wir nach einer idee thun entweder des ursprünglichen oder allgemeinen Menschlichen Beliebens.
+
+**6975.**   υ? (μ? ρ?)   Pr 18. Der Mensch als ein Wesen, daß Verstand hat, muß in seinen eignen augen sehr misfallig seyn, wenn sein Zweke Verstand den Neigungen unterworfen ist und nicht in ansehung seines Zweks unter einer Regel steht. Diese Regel muß eine Regel der Vernunft, d. i. *a priori*, seyn und auf die ihn dem Allgemeingültigen Zweke unterwerfen, weil nur unter dieser Bedingung seine Glükseeligkeit eine Regel haben kan.
+
+**6976.**   υ? (μ? ρ?)   Pr 18. Wenn ich jeden Vortheil, jede Absicht auf sich selbst abgezogen habe und der Zuhörer sieht alsdenn doch, und in noch größerer Stärke die bewegende Kraft der moralität: denn wird er dadurch gerührt. Es ist eine Bewunderung, welche hochachtung gegen so überschwenglich edle Gesetze enthält.
+
+**6977.**   υ? (μ? ρ?)   Pr 19. Der moralische Grund ist der Bewegungsgrund der Handlungen aus den ursprünglichen Zweken vernünftiger Wesen, d. i. denen Zwecken, durch die allein ihr Daseyn möglich ist. Alles, was dem Wiederstreitet, widerstreitet ihnen selbst, weil es dem *principio essendi* derselben entgegen ist. Wenn die Glükseeligkeit nur ein Werk vernüenftiger Wesen gegen einander seyn kan, so ist es ihre Pflicht oder eigenthümliche function, solche zu ertheilen. Sie sind zu dem Ende da, um das Glük anderer zugleich mit ihre Sorgfalt seyn zu lassen. Die selbstthätige Zweke machen einen noch größeren Bewegungsgrund. Denn die Einstimung der Willen ist eine nothwendige Bedingung der Einigkeit der Willen, welches die Wesentliche form der intelligiblen Welt ist.
+
+[AA 19:219] **6978.**   υ? (μ? ρ?)   Pr 19. Es liegt allem, was da ist, eine idee zum Grunde. Den menschlichen Handlungen muß ich eine eigne idee zum Grunde legen.
+
+**6979.**   υ? (μ? ρ?)   Pr 19.   Neben und zwischen § 41 und 42: Die moral sagt nicht, daß ich das Leben erhalten soll, sondern dasjenige, wobey ich allein werth bin zu leben. Aber ich bin auch des Lebens nicht werth, wenn ich es selbst wegwerfe und den werth des Lebens der Annehmlichkeit zu leben nachsetze.
+
+(g Nicht das Leben zu erhalten, sondern dasjenige selbst mit Aufopferung des Lebens, wodurch man des Lebens würdig ist. Z. E. in der tortur von sich ein schändlich Verbrechen zu bekennen. )
+
+Über das Leben hat man nur ein negatives Recht: nemlich seine das Mittel seiner Erhaltung, was *unerlaubt* ist, fahren zu lassen, aber kein positives: den Verlust desselben als ein Mittel zu brauchen.
+
+**6980.**   υ? (μ? ρ?)   Pr 19.   Zu § 43: *Perfice te* heißt: mache alle deine Vermögen und Kräfte, aber proportionirlich, Größer. Vornemlich die dirigirende Kraft ihres Gebrauchs: die freye und vernünftige Willkühr.
+
+**6981.**   φ.   Pr 19.   In § 43, Satz 1 und 2: Es giebt viel Vollkommenheiten als Mittel, aber nur eine Vollkommenheit als ganzer Zwek.
+
+**6982.**   φ? (ρ--σ?)   Pr 20.   Zwischen § 43 und 44: Moralische punctlichkeit ist: wenn man sich der moralischen Erlaubnisse nicht bedient. Strenge: wenn man sie sich nicht erlaubt.
+
+**6983.**   φ? (ρ--σ?)   Pr 20.   In § 44: Sey vor das Gute, nicht blos vom Guten afficirt, d. i. als thäter, nicht blos als zuschauer.
+
+**6984.**   υ? (μ? ρ?)   Pr 21.   Zu § 45 „naturae convenienter vivit“: Zeigt an die regel der *philosophiae moralis applicatae* und was zur [AA 19:220] Vollkommenheit eines subiects gehöre; alle principia, die von der Natur entlehnt sind, sind empirisch und gehören also nicht zur *philosophia pura*.
+
+(g Die wesentliche Vollkomenheit der Dinge kan nur aus ihrer Natur erkant werden. )
+
+**6985.**   φ.   Pr 21.   Zu § 45 „naturae convenienter vivit“: Diese Regel gilt sehr von den Pflichten gegen sich selbst und überhaupt, wo die allgemeinen Begriffe der Vernunft nicht belehrend gnug seyn. *e. g.* Monogamie.
+
+**6986.**   φ.   Pr 21.   Zu § 46 „Vive convenienter naturae“: der Einheit der Natur. Stimme mit der Natur, so wird Natur mit dir stimmen.
+
+**6987.**   υ? (κ? μ? ρ?)   Pr 22.   Zu § 48 Schluss „Ama -- potes“: Dieses ist eine allgemeine regel der *philosophiae practicae applicatae*. Die moralische Regel ist eine Regel des reinen Willens; sie geht also auf Handlungen, man mag eine Neigung dazu haben oder nicht; ja, sie geht so gar auf ein Verlangen, eine Neigung hervorzubringen; also heißt es hier: suche auch eine Neigung zum Guten hervorzubringen. (s Nur Gründe der diiudication, nicht der exsecution. )
+
+**6988.**   φ? (κ--ρ?)   Pr 22.   Neben § 49: Man verlangt vom Moralphilosophen:
+
+1. Lehren der Moralischen Beurtheilung, zu erkenen, was gut und böse sey, was verabscheuens würdig sey, und also gründe der Billigung und Misbilligung;
+
+2. Gründe der Ausübung, *caussas subiective moventes*, damit man das, was man billigt, wirklich liebe und, was man verabscheuungswürdig findet, wirklich verabscheue;
+
+3. Vorschriften, wie die Neigung mit den Grundsätzen einstimmig gemacht oder ihnen unterworfen werden könne.
+
+(s Des privaten Nutzens muß in der sittlichen Unterweisung niemals in Verbindung mit der moralischen Regel Erwehnung geschehen; denn das Gemüth wird dadurch erniedrigt, anstatt daß, wenn es aus [AA 19:221] den obersten Gründen des wesentlichen und allgemein Guten seine Pflichten folgert, es sich erhebt, begeistert und veredelt. Die bloße Mine des Abscheues vor eine lüge macht weit mehr Eindruk, als aller vorgestelte Schaden der andrer Verachtung, wovor man sich verbergen, aber seinen eignen Augen nicht entrinnen kan. )
+
+**6989.**   φ.   Pr 22.   Zwischen § 48 und 49, in § 49. Wohl zu § 48 Schluss: thue das gute gern. Suche deine Glükseeligkeit durch freyheit unter allgemeingültigen Bedingungen der Freyheit derselben, d. i.*, die vor jedermanns Glükseeligkeit und vor jedermans freyheit gültig seyn, sie sich selbst zu verschaffen, und auch vor die wesentliche Zweke der Natur gültig seyn.
+
+* (g die Handlung mit dir selbst und deinen wesentlichen Zweken stimme. )
+
+Suche Deine glükseeligkeit unter der Bedingung eines allgemeingültigen Willens (so wohl vor dich selbst als vor andre, und dieses so wohl vor anderer Neigung als ihrer Willkühr). Diese Regel zeigt nicht den weg zur Glükseeligkeit, sondern schrenkt die Bemühung dazu auf Bedingungen ein, ihrer würdig zu werden, indem sie solche mit dem allgemeinen system einstimig macht.
+
+**6990.**   φ.   Pr 22.   Zu § 49 „obligatio universalis“ entweder eine Regel, die alle, oder einen jeden gegen alle obligirt.
+
+#### Coactio moralis.
+
+**6991.**   φ? (ο--ρ?)   Pr 22. Bey einem natürlich guten Willen sind die moralische motive Gründe der Nothwendigkeit, bey zufallig gutem Willen Gründe der Nöthigung, bey mit Neigungen afficirtem Gründe des Zwanges.
+
+[AA 19:222] **6992.**   φ? (ρ?)   Pr 22. Wir sollen wohl gerne das gute thun, aber wir müssen oft gezwungen werden.
+
+**6993.**   υ.   Pr 23. Die *stimuli* sind die Ursachen der *actionum invitarum moralium*. Demnach ist Gott allein heilig, endliche Wesen tugendhaft und der *coactione* *interna* benöthigt.
+
+**6994.**   υ.   Pr 23. Wenn penes *me est iudicium de vi motrice motivi moralis* , so ist die coacti*o moralis interna*.
+
+Wenn im arbit*rio alterius*, so ist sie *externa*.
+
+**6995.**   υ.   Pr 23. Die vis su*biective movens* des moralischen *motivi* ist nur nach der proportion der gutartigkeit der Seele.
+
+Der Bösewicht ist *exlex* subiectiv.
+
+**6996.**   υ.   Pr 24. Man muß das Recht anderer auch erkennen, sie mögen sonst so schuldig seyn, als sie wollen; ja, so gar ihre Unschuld in dem falle, da sie es sind, über sich nehmen.
+
+**6997.**   υ.   Pr 24. Die Pflicht, mit andern wegen ihrer Unterdrückung gemeinschaftliche Sache zu machen, ist mehr als blos gütige Pflicht.
+
+**6998.**   υ.   Pr 24. 25. Pr 24: Man muß sich selbst zu klugen und sittlich guten Handlungen zwingen. Daher *imperativi* . Die Ursache ist, weil seine Wilkühr auch sinnlich ist, und die erste Bewegung ist von daher. Ie mehr man sich selbst zwingen kan, selbst durch pragmatischen Zwang, desto freyer ist man. Dieser Zwang geschieht dennoch *per stimulos*, aber *indirecte*, nemlich man verfährt nach [AA 19:223] Überlegung. Der moralische Zwang ist äusserlich durch fremde Willkühr; und wenn Pr 25: wir von diesem frey seyn, so bleibt noch der innere Zwang; frey von aller Schuldigkeit kan noch verbindlich seyn; wer nichts gutes thut, ist des freywilligen Guten von andern nicht werth. Wer Böses thut, ist nicht werth, daß er geduldet oder geschonet werde.
+
+**6999.**   φ.   Pr 23.   Zu § 50--52: necessitirt wird der, so nicht in sich ein hinreichend moralisch *principium* hat; gezwungen: der einen antrieb zum Gegentheil hat.
+
+**7000.**   φ.   Pr 23.   Zu § 50--52: necessitation ist zu einer Handlung, wozu wir von selbst keine triebfedern in uns haben; coaction: wozu triebfedern zum Gegentheil seyn.
+
+Der Rechtszwang ist ein pathologischer, aber der obligation conformer Zwang.
+
+**7001.**   φ.   Pr 23.   Zu § 51--52: Der menschliche Wille ist pathologisch, aber nicht moralisch gänzlich frey.
+
+**7002.**   φ.   Pr 23.   Zu §51-52: Moralisch nothwendige, aber gern geschehende Handlungen sind moralisch frey.
+
+*obligatus non est liber*.
+
+*sed* Aber so fern er nicht *passive*, sondern *active* obligirt ist, ist er frey *externe*. *Interne* ist er frey, wenn er nicht *absolute* necessitirt ist, sondern nur *per gradum bonitatis*.
+
+Wenn die obligation *interit*, so *obligatus liberatur*. Der pragmatische Selbstzwang hat zwar keinen moralischen Werth, aber er exercirt immer eine disciplin der Sinnlichkeit und ist in Ansehung der moralitaet propaedevtisch, indem er die Macht der obern Willkühr über sinliche Antriebe vergrößert.
+
+**7003.**   φ.   Pr 25.   In §55: *coactio sui ipsius est vel pragmatica vel moralis. Semper stimulis* *occurunt motiva intellectus*.
+
+[AA 19:224] **7004.**   φ.   Pr 26. 27.   In §56 (zweite Hälfte). Pr 26:
+
+Verbindlichkeit aus Pflicht oder aus Zwang.
+
+necess*itatio moralis per arbitrium alterius*.
+
+*obligatio est vel spontanea vel coacta*. (s Pr 27: Wer nicht moralisch kan gezwungen werden, der muß pathologisch. Recht ist nicht, dessen Bewegungsgrund die extorsion ist. )
+
+Pr 26:
+
+Wir sind necessitirt durch den gemeinschaftlichen Willen. Wir sind gehindert durch den (g nothwendigen) mangel des gemeinschaftlichen Willens: Wiederstreit.
+
+Was durch die form des gemeinschaftlichen Willens moglich ist, ist recht; was durch die materie der --- --- Glükseeligkeit ist bricht ab (g Das erste stimt mit der form, das 2te mit der Materie von iedermans willen. )
+
+Die Schuldigkeit ist die Pflicht, zu der wir von andern moralisch gezwungen werden; daher ist auch der pathologische Zwang erlaubt.
+
+Zur *obligatio externa* kan einer nicht allein gezwungen, sondern auch, wenn er sie übertritt, gestraft werden; das letzte folgt aus dem ersten.
+
+**7005.**   φ.   Pr 26.   In §57: Anderer Bedürfnis schränkt mein Recht nicht ein. Es kan mich niemand von meiner Schuldigkeit los sprechen, als blos der andre. Der flek des Unrechts ist unauslöschlich. Etwas erniedrigendes; dagegen nicht die hartherzigkeit.
+
+Ein ieder suche sein Glük, wie er kan, aber nur so, daß eine willkühr mit allgemeingültigen Bedingungen stimme.
+
+**7006.**   φ.   Pr 27.   In §58 Anfang: Der ein Recht wieder jemand hat, kan ihn in allen Freuden stöhren, ihn vom Altar wegholen. Alle Macht des Himmels steht auf der Seite des Rechts.
+
+[AA 19:225] **7007.**   φ.   Pr 27. Der äußere practische Zwang ist determ*inatio per arbitrium alterius*. Der moralische nach allgemeinen Gesetzen.
+
+**7008.**   φ.   Pr 27.   In §58 (zweite Hälfte): Man muß keinen Menschen um Recht bitten lassen, nicht *Clementia*, sondern Schuldigkeit. Achtung vors Recht des Andern.
+
+Man kan es in Rechtschaffenheit hoch bringen. ethisch gute Handlungen sind verdienste. Das Vermögen zu zwingen ist die gewalt. ein Gutartiger Mann ist darum nicht ein guter Mann, z. E. der wohlthätig, aber schlechter Zahler ist.
+
+**7009.**   φ-ψ.   Pr 27-29.   In §59-61. Pr 27: *Obligatio est vel activa (g meriti) vel * passiva (g debiti). Posterior* *vel per statum vel arbitrarium alterius. (g Prior per statum, posterior per* *arbitrium alterius. )* Die letztere entweder *secunde iuris externe tantum* oder auch *externe validum (arbitrium)*. Ienes Billigkeit, dieses strenges recht. Die äußerlich geltende Willkühr ist die, von deren gemeinschaftlicher Einstimmung man äußerlich gewiß seyn kan; *e. g.* ein *negotii gestor*, der ungeheissen mit seinem Schaden etwas zu meinem Besten thut. Bedienter, der aus Versehn etwas zerbricht, oder Künstler, der meine *porcellain* dose zerbricht. Die Billigkeit hat kein bestimend Gesetz. Das strenge Recht hat die Befugnis zu zwingen.
+
+Pr 28. In §60: **(g** * *Obligatio passiva ** per arbitrium alterius nititur respicit* *ius alterius; et obligatio activa* (g Pr 29: *obligantis per arbitrium* *suum mot voluntas necessitans vocatur ius* ) Pr 28: *per arbitrium*
+
+[AA 19:226] *suum est ius, passiva per arbitrium alterius est debitum. Ius est vel* *strictum vel late dictum (externum vel internum). Prius est obligatio* *determinata per arbitrium alterius. Posterius est obligatio vaga per* *arbitrium alterius. Prius est (g externe) cogens, posterius interne,* *h. e. coram conscientia, necessitans.*
+
+*Obligatio passiva, per sed non per arbitrium alterius, est gratitudo;* *obligatio activa est benevolentia.* **)**
+
+Pr 29. ** (g *est vel definita vel indefinita. Prior per arbitrium* *alterius refertur obligantis est debitum, et necessitatio per arbitrium* *obligantis alterius a parte obligantis est ius, a parte obligati est debitum.* *Jus externe validum est strictum sive cogens, interne tantum* *validum est aeqvitas*. )
+
+**7010.**   φ.   Pr 28. Bey aller Verbindlichkeit aus beliebiger Pflicht kan ich meinen eigenen Nachtheil in Rechnung bringen, bey der der Schuldigkeit nicht.
+
+**7011.**   φ-ψ.   Pr 28. *Obligatio per arbitrium alterius stricte (externe) definita est stricta,* *cui respondet Ius cogens*.
+
+*si externe est indefinita, est Ius latum: aeqvitas.*
+
+**7012.**   φ-ψ.   Pr 29. *Omnis obligatio (g erga alium) est vel indefinita* (g in ansehung der Persohn oder der Handlung) *vel definita, prior moralis, posterior iuridica;* *haec vel stricta vel lata, prior externe, posterior interne tantum valida.*
+
+**7013.**   φ-ψ.   Pr 29. *obligatio tam activa quam passiva indefinita est moralis ethica (per* *arbitrium proprium).*
+
+**7014.**   φ.   Pr 29. *obligatio Ethica passiva est infinita, tamen minor obligationi definitae.* Alle obligation aus dem Rechte eines andern ist passiv. Die *obligatio*
+
+[AA 19:227] *Ethica* ist comparativ iederzeit activ, d. i. verdienstlich. An sich selbst aber entweder activ oder passiv.
+
+Das *ius strictum* sagt nur, was Recht ist, d. i. geschehen soll in Beziehung auf das *arbitrium commune* (g problematisch). Die *necessitatio* *subiectiva* ist hier pathologisch. Die Ethic sagt, es sey Gut, d. i. aus *motivis internis* nothwendig, recht zu handeln. Daher gehört das Recht mit unter die Sittlichkeit.
+
+#### Lex.
+
+**7015.**   φ? (ρ?)   Pr 28.   Über §60: Von den practischen obiectiven Gesetzen. Von der Verbindlichkeit, ihnen gemäß zu handeln. Nemlich der innern.
+
+**7016.**   υ? μ? (κ?) (ρ?)   Pr 28. *Qvaedam pertinent ad rectitudinem liberi arbitrii, qvae non ad perfectionem*: daß die Handlungen recht, daß sie der Vollkomenheit gemäß seyn. Daher die reine idee des rechts und das *ideal* der Vollkommenheit.
+
+Ehrlich, Redlich, rechtschaffen, Zuverläßig.
+
+**7017.**   υ? μ? (κ?) (ρ?)   Pr 28. Wer in der Wahl zwischen Recht und Nutzen noch unschlüßig ist, ist wer sich eine Handlung der Ehrlichkeit zum Verdienste anrechnet, ist kein rechtschaffener Mann. Wer zwischen recht und Gutherzigkeit unschlüßig ist, ist ein schwacher guter Mann. hat er schon solche Grundsätze, so ist er kein gesetzter Mann.
+
+**7018.**   υ? μ? (κ?) (ρ?)   Pr 29. Alle Gesetze sind entweder der Natur oder der freyheit;
+
+[AA 19:228] jene physisch oder pathologisch oder mora practisch. (g *physico* mechanisch oder *physico* pnevmatisch)
+
+Der Mensch ist vom pathologischen Zwange frey.
+
+(g practische Regeln sind entweder: 1. *consilia*, Pragmatisch; 2. *monita*, Ethisch; 3. *leges*, Iuridisch. )
+
+**7019.**   υ? μ? (κ?) (ρ?)   Pr 30.   Über und neben §63 Anfang. Pr 30: Wenn ich frage: soll ich lügen oder nicht?, so ist nicht die Rede von einem Bewegungsgrunde, sondern von der Regel. Frage ich aber: soll ich essen oder nicht?, so ist nicht die rede von der Regel, sondern Bewegungsgrunde. *vid. p. 29.:*Pr 29: *vid. p. 30.* Bey sinnlichen Bewegungsgründen habe ich niemals die Regel nöthig, um zu handeln, sondern den Antrieb. Die Regel kan davon entlehnt werden. Bey moralischen aber habe ich die regel nöthig.
+
+**7020.**   υ? μ-ρ?   Pr 29. Wenn der Bewegungsgrund die Regel nicht afficirt, so ist diese eine Unbedingte Regel. Die Unbedingte Regel der Willkühr ist eine moralische Regel. Die *imperativi* sind categorisch.
+
+Wenn der Bewegungsgrund die Regel afficirt, so ist diese entweder eine Allgemeine Regel der Selbstliebe (pragmatisch) oder eine Regel der besonderen Neigungen derselben (problematisch), welche nicht vor alle gilt, sondern restringirt ist. Die Beweg Ursache, welche macht, daß wir ohne Regel handeln, ist *stimulus*.
+
+**7021.**   υ? μ-ρ?   Pr 30. Überhaupt verstattet alle Neigung nur Regeln der Geschicklichkeit, sie zu befriedigen. Wenn die Neigungen den Grund angeben, so sind gar keine Gesetze. Unsere freyheit muß unter Gesetzen stehen, folglich keiner Neigung zu irgend einem Vergnügen untergeordnet seyn; denn ohne Gesetz [AA 19:229] ist durch bloße Neigung gar keine Harmonie und Einheit in unseren Handlungen möglich.
+
+**7022.**   υ? μ-ρ? φ??   Pr 29. Unter allem, was da gefällt, muß dasjenige das höchste Wohlgefallen haben, wodurch alles Wohlgefallen unter eine Regel komt. Die Regel der complacentz Gefällt selbst am meisten, weil sie die Lust dem Gebrauch der Freyheit am meisten unterwirft. Die Regel ist hier nicht eine besondere, sondern die Regel der freyen Willkühr überhaupt nach den Bedingungen der Größten Zusammenstimung mit der freyheit.
+
+**7023.**   υ-φ.   Pr 29.   Zu §62 Anfang: bedingte und unbedingte Regel. Mittelbare und unmittelbare.
+
+**7024.**   υ? μ? (κ?) (ρ?)   Pr 30.   Neben §64: Die Befugnis macht adiaph*ora moralia iuris*, das recht *necessaria*. 1. Da mein wille nur nicht durch den anderer necessitirt wird. 2. Da er gar den Willen eines andern necessitirt. Möglichkeit nach Regel des Rechts. Unmöglichkeit und Nothwendigkeit.
+
+**7025.**   υ? κ? (η?) (ρ?)   Pr 30. Das Recht ist zwiefacher Art: entweder negativ, so fern ich worin nicht unrecht gegen jemand handle, (g 2. ) positiv, so fern ein anderer Unrecht handlen würde, wenn er etwas nicht thäte.
+
+Das erste ist: so fern mich ein anderer nicht hindern darf, etwas zu thun; die zweyte: in so fern ein anderer schuldig ist, etwas zu thun.
+
+**7026.**   υ? μ? ρ?   Pr 31. Das Recht besteht in dem Grunde der Einschränkung der freyheit eines jeden durch die Bedingungen der allgemeingültigkeit vor eines jeden Willkühr.
+
+Das recht ist entweder *permissivum* oder *obligans*.
+
+[AA 19:230] **7027.**   υ? μ? ρ?   Pr 31. Die empirische Gründe unserer Wahl haben keine Gewisheit, weil sie keine allgemeine Richtschnur haben und also unter einander Wiedersprüche geben können. Die Regel ihrer Zusammenstimung Einheit in einem Ganzen ist die oberste. Das äußerste Misfallen ist das, wenn alles blos den Sinnen überlassen ist und man keine Regirung der Vernunft antrift.
+
+**7028.**   υ? μ? ρ?   Pr 31.   Neben §65: Mein Wille wiederstreitet entweder nicht den *regulis juris* oder ist dadurch nothwendig oder nöthigt andere dadurch.
+
+Man kan unrecht handeln, ohne einem Andern Unrecht zu thun. Man kan einem andern Unrecht thun, ohne ihn zu beleidigen, d. i. ohne daß der andere zwingen kan.
+
+**7029.**   υ? μ? ρ?   Pr 31. Die Vernunft allein kan keinen Zwek geben, auch keine triebfeder; sie ist es aber, die alle Zweke ohne Unterschied so einschränkt, daß sie unter einer einzigen gemeinschaftlichen Regel stehen. Sie allein bestimmt die Bedingungen, unter denen sie freye willkühr unter einer selbstständigen Regel steht. Denn die triebe, der Geschmak, die Neigungen haben keine Einstimmungen und bedürfen einer Regel.
+
+Die Vernunft schaffet hier ein Wohlgefallen *a priori*, d. i. ein solches, welches statt hat, wenn der Gegenstand auch noch nicht mit meiner Neigung oder Befriedigung meiner triebe verglichen wird, indem alsdenn meine Neigungen überhaupt doch unter den allgemeinen enthalten sind. Daß diese Betrachtung des Wohlgefallens *a priori* oder im allgemeinen den Vorzug hat, beruhet darauf, weil das *principium* der Ordnung und form wesentlich nothwendig ist und vorhergeht, ohne Welches unter meinen privat Vergnügen, imgleichen denen mit anderer ihren, kein Zusammenhang ist. Das regulativ geht vorher, und nichts muß ihm wiederstreiten;, sonst ist unter dem Manigfaltigen kein Zusammenhang, keine Sicherheit. Es ist alles tumultuarisch. Das Wohlgefallen *a priori* besteht mit demjenigen, [AA 19:231] was in allem, was nur immer gefallen mag, eine Ordnung bringt, dadurch es ein Gantzes macht.
+
+**7030.**   υ? μ? ρ?   Pr 32. Absolute Gesetze (*a priori*) sind Sanktionen; also giebt die moral nicht Regeln, sondern sanctionen. Die Klugheitslehre einige Gesetze, worin man nemlich die Glükseeligkeit zu setzen habe; hernach regeln, sie zu erlangen.
+
+**7031.**   υ? μ? ρ?   Pr 33.   Neben §68 Mitte: Durch *legem praeceptivam* wird eine Handlung *nothwendig*, durch *prohibitivam* *unmöglich*, durch *permissivam* möglich, d. i. ein *adiaphoron* *morale*.
+
+**7032.**   φ.   Pr 28. Regel geht auf mögliche Verstandeshandlungen. Mittel. Gesetz auf das, was geschehen soll. Normen sind Regeln, die da bestimmen. Klugheit hat regeln. Sittlichkeit apodictische gesetze.
+
+**7033.**   φ? ψ?   Pr 29.   In §61: Moralische imperative können allein Gesetze heißen, und unter diesen die Strenge bricht ab.
+
+**7034.**   φ? ψ?   Pr 30.   Zwischen §62 und 63: Wenn jemand etwas, das er gestohlen, verkauft, so tritt er dem ansern sein relatives Recht ab. Von dem absoluten gegen andere ist nicht die Rede.
+
+**7035.**   φ.   Pr 30.   In §64 Anfang: *actionum est vel rectitudo vel iustitia*.
+
+**7036.**   φ?   Pr 30.   In §64: Was einer Regel gemäß ist, ist recht. Die Regel ist, daß die Handlung durch gemein bestimmbar sey durch gemeinschaftliche Willkühr, oder daß sie gemein allgemein und wechselweise genommen zur Regel dienen könne der necessitation der Willkühr durch einander.
+
+Was mit einer Regel der Beurtheilung (theoretischen) zusammenstimt, ist richtig. So ist die auflösung eines problems richtig. Es frägt [AA 19:232] sich, unter welchen Bedingungen (g allgemeinen) sich die Willkühr wechselsweise necessitiren könne. Beym Recht muß alles bestimmt und gewiß sein. Eine gute Handlung könte besser Pr 31: seyn, aber eine Rechte nicht rechter.
+
+**7037.**   φ? υ?   Pr 31. Vortheil und Eigenliebe sind an sich selbst keine Richtschnur, sondern nur in so fern sie Vergnügen bringen; darüber muß auch ein *principium* des Urtheils seyn.
+
+Eine empirische Regel ist die, deren Bedingung empirisch ist und also nur auf dem Urtheile der Sinne ankommt. *e. g.* Was dir das meiste Vergnügen macht, den größten Vortheil bringt.
+
+Empirische Regeln sind keine Gesetze, weil sie keine wahre nothwendigkeit und Allgemeinheit haben.
+
+**7038.**   φ? ψ?   Pr 31.   In §65 und 66 (1. Hälfte): *Eintheilung*. Alle Pflichten sind entweder *äußerlich*: gegen andere Menschen, oder *innerlich*: nemlich nicht gegen andere Menschen (welche also von anderen Menschen nicht können gefodert oder verlangt werden). Beyde sind entweder passiv oder activ. Passive äußere Pflichten sind die durch die Willkühr eines andern. Active: Ohne sie als durch die Willkühr eines andern bestimmt anzusehen. Activ äußere Pflichten sind freye Pflichten, passiv sind zwangspflichten gegen Menschen. Activ innere Pflicht ist Pflicht gegen sich selbst. passiv innere Pflicht ist pflicht gegen den allgemeinen Gesetzgeber. In ansehung Gottes sind alle unsre Pflichten passiv. Sondere ich also diese ab, so bleiben übrig Pflichten der Schuldigkeit, des Verdienstes und der Anständigkeit. Moralisch anständig ist, was der Würde eines Vernünftigen Wesens gemäs ist. Gegen Gott haben wir keine andere als passive Pflichten, nicht blos moralisch, sondern auch physisch (wir könen auf Gott nicht wirken). Unsere active Verbindlichkeiten gegen andre Menschen sind verdienstlich. gegen uns selbst aber schuldige, obzwar nicht zwangspflichten. Also sind diese schuldige Pflichten gegen andre.
+
+**7039.**   φ?   Pr 32.   Über und in §67: Worinn recht haben (g res merae facultatis), es zu thun; oder:
+
+[AA 19:233] *ein* Recht haben, wo mir das thun und lassen, d. i. der Gebrauch eines objects meiner Willkühr erlaubt ist.
+
+**7040.**   φ? (ξ?)   Pr 33.   Neben und in §69 Anfang: *Der allgemeine Wille giebt darum das Gesetz, weil ohne ihn die Freyheit im gantzen genommen eine Gesetzlosigkeit und also ohne Regel ist, mithin die Vernunft im Handlen nichts bestimen kan.
+
+Wir haben auch in Ansehung unserer einen allgemeinen willen und obersten nöthig, weil sonst das Manigfaltige der Neigungen keine Regel *a priori* haben würde. Der wille aber ist der bricht ab.
+
+* (g Aber diese allgemeine Regel ist die allgemeine *Hypothesis*, unter der der wille des Menschen nur gut seyn kan. )
+
+**7041.**   υ.   Pr 35.   In und zu §71: Wir müssen die absolute bonität der Göttlichen Gesetze einsehen, damit wir seinen Willen *a priori* erkennen und ihn auch gerne thun.
+
+**7042.**   υ.   Pr 37.   Über und neben §74: Es muß vom Moralischen Gefühl niemals die rede seyn beym Urtheil (es ist kein Sinn, sondern Wahl), sondern lediglich bey Handlungen oder Theilnehmungen.
+
+Anschauung, Sinn und Gefühl machen die gantze Sinnlichkeit aus.
+
+**7043.**   υ.   Pr 38.   Zu §75: Die *littera legis* ist die Handlung selbst (*materia*), die *anima* ist die Form oder die Übereinstimung mit dem Bewegungsgrunde. Die *Anima* *legis moralis* ist der moralische Bewegungsgrund. Wer blos aus furcht der Strafen Handlungen unterläßt, der satisfacirt dem Gesetze *pragmatice*, nicht *moraliter*.
+
+**7044.**   υ.   Pr 38.   Zu §75: Die pragmatische Gesetze haben wohl einen Sinn, aber keinen Geist; denn sie gehen nicht auf die Gesinnung.
+
+[AA 19:234] **7045.**   υ.   Pr 38.   Zu §75: *litera legis moralis* ist die Handlung selbst, *anima* das *motivum* *morale*.
+
+Es befiehlt die moralitaet der Handlungen an. Das, was die Handlung befiehlt, ist civilgesetz.
+
+**7046.**   φ.   Pr 38.   Zu §75 „Omnis lex--materialia“ *lex ipsa est praemissarum prima, actio subsumta altera.*
+
+**7047.**   φ.   Pr 38.   Zu §75: Die *littera legis moralis* besteht in dem *effectu* der Willkühr *e. g.* Das Glük, welches menschen einander machen (welches Gott gewis nicht zur Endabsicht diesem Mittel vorgesetzt hat, weil er sonst in Ermangelung desselben es hätte suppliren könen). Die *anima legis moralis* besteht in der Gesinnung, d. i. dem *motivo morali*. Diese ist das Vornehmste. Es ist mehr daran gelegen, daß man Gütig gesinnet sey, als an dem wohlbefinden andrer, und die Wohltat ist mehr werth als das Glük. Wer blos die *litteram* des Religionsgesetzes, nemlich die unterlassung der Göttlichen Verbote, *e. g.* Stehlen, einschärft und zum *motivo* die Strafe macht, lehrt nicht religion, sondern policey. Die Religionsgesetze, welche die mittel vorschreiben, sind nur dem pragmatischen *motivo* derselben conform und nicht dem moralischen, und die mittel sind nur die *littera legis divinae*. *anima* ist die Gott geweihete Gesinung.
+
+#### Iuris peritia
+
+**7048.**   υ.   Pr 39.   Zu §77 Anfang: *Regula* (g Vorschrift)*. *Lex. Norma. Maxima*.
+
+* (g Die Art der Ausübung *in concreto*, so fern sie nicht *a priori* durch Vernunft, sondern empirisch erkant wird und nicht wahre allgemeinheit hat. )
+
+*Leges vel Iuris vel Morales*.
+
+[AA 19:235] **7049.**   υ.   Pr 39. Es sind zwey gründe des Wohlgefallens der Handlungen: 1. Die Übereinstimung mit dem objecte der Begierde; 2. Die Übereinstimung der freyen Handlungen mit einer Regel des Wohlgefallens überhaupt, d. i. mit einem allgemeingültigen Grunde, folglich auch aller freyen Handlungen unter einander. Dieses ist das *principium regulativum*, jenes *constitutivum* alles gebrauchs der freyheit. Die *principia* der ersten sind empirisch, und der Gerbrauch der freyheit stimt nicht unter einander. Das Wohlgefallen an der Regelmäßigkeit in allen unsern Handlungen ist das größeste.
+
+Die Würdigkeit, Glüklich zu seyn, ist die Möglichkeit, nach allgemeinem Gesetze der glükseeligkeit theilhaftig zu werden.
+
+**7050.**   υ.   Pr 40. Von den Pflichten der Menschen in ansehung der Handlungen: *Jus*. In ansehung der Gesinungen, d. i. der Bewegungsgründe, jene Pflichten zu leisten: *Ethica*. Der Bewegungsgrund ist hier innerlich, dort der Zwang. *Officia anim actionum secundum literam vel secundum animam* (Gesinnungen), *haec in Ethica*. Die Pflicht der Gesinnungen ist moralisch. Alle moralitaet beruht auf Gesinungen. Wenn ich auch eine Handlung der Schuldigkeit thue, aber nicht aus dem Antriebe des Zwanges, sondern aus Gesinungen, also *actionem volu spontaneam*, so ist ethisch Gut.
+
+Gesinungen beruhen auf der innern bonitaet (g Nothwendigkeit) der Handlung, Zwangspflichten auf der äußern Nothwendigkeit. Iene: daß man verdient dazu gezwungen zu werden; diese: daß ein zwang dazu besorglich und rechtmäßig ist.
+
+**7051.**   υ?   Pr 41. Eine handlung, welche durch allgemeine Willkühr nothwendig ist, ist juridisch nothwendig und der allgemeinen Willkühr, mithin dem Zwange unterworfen.
+
+**7052.**   υ.   Pr 41. Alles ist erlaubt, was allgemein genommen der Willkühr nicht wiederstreitet, folglich der allgemeinheit der Willkühr nicht entgegen ist.
+
+[AA 19:236] Was nach der Idee der gemeinschaftlichen Willkühr nothwendig ist, d. i. *a priori* nothwendig und also auch erlaubt. Nun ist der Zwang desjenigen, was durch die allgemeine willkühr nothwendig ist, keiner Willkühr entgegen und also erlaubt. Die besondere Befugnis zu zwingen ist durch die idee der Gemeinschaftlichen Willkühr ertheilt. Denn ein besonderer Wille giebt keine Befugnis, weil er anderer Willen wiederstreiten kan.
+
+**7053.**   υ.   Pr 42. Alle Verbindlichkeit (g gegen uns selbst und gegen andere) ist innerlich oder äußerlich; beyde ist vollkommen oder unvollkomen (so fern sie den wesentlichen oder außerwesentlichen moralischen Gesetzen gemäß ist). Die vollkomen äußeren sind juridisch, alle unvollkommenen Ethisch.
+
+**7054.**   υ.   Pr 42. Die practische Gesetze aus der bloßen Idee der freyheit sind moralisch.
+
+Die aus der Idee der innern freyheit gehen auf alle Handlungen und sind ethisch; die blos aus der Idee der äußeren freyheit sind moralisch juridisch und gehen blos auf äußere Handlungen.
+
+**7055.**   υ.   Pr 42. Das Princip der moral kan weder aus dem unmittelbaren Vergnügen an der Handlung, so fern dasselbe auch zu meiner Glükseeligkeit Gehört, noch aus dem Vergnügen an den Wirkungen (g aufs Subject), wovon die Handlungen die Ursache sind, abgeleitet werden.
+
+**7056.**   υ.   Pr 43. Alle Verbindlichkeiten sind entweder äußerlich oder innerlich. Iene necessitiren *per arbitrium alterius*, diese *independenter ab arbitrio alterius*.
+
+Der Bewegungsgrund zu, der Verbindlichkeit zu satisfaciren (*subjective* *necessitans*), ist entweder äußerlich (Zwang) oder innerlich (Pflicht). Die erstere iuridisch, die zweyte ethisch; also geht die ethic auf alle Verbindlichkeit, aber nur aus dem Bewegungsgrunde der Pflicht. Das Recht aber auf äßere Zwangsverbindlichkeit. Moralische Gesetze sind die, welche Verbindlichkeiten aus Pflicht enthalten.
+
+[AA 19:237] **7057.**   φ.   Pr 38.   In und zu §76: Wie kann man sich *Rechtserfahrenheit* denken, da alles Recht blos auf Vernunftprincipien beruhen muß, selbst das *statutarische*, dessen Gesetze den Rechtsprincipien auch gemäs seyn müssen? Rechterfahrenheit geht auf die Erforschung der Bestimmtheit und nähere Bestimmung, die dem Gesetze in der Anwendung noch fehlen möchten. Dazu gehört Erfahrung vieler Fälle.
+
+**7058.**   φ.   Pr 41. Es ist keine bestimmte Regel der Zweke als die allgemeingültigkeit der Zweke der Natur und der Zweke der Menschen. d. i. aus dem Ganzen der Natur und der Zweke der Menschen. Auch wird dadurch auch die Beziehung auf Glükseeligkeit aus den eignen Handlungen der Menschen so wohl in Ansehung der Natur als in Ansehung einander auf bestimte Grundsätze gebracht. Der ist würdig der Glükseeligkeit, dessen freye Handlungen auf die Einstimung mit dem allgemeinen Grunde derselben darin sie allein gerichtet sind, der also derselben aus seiner eignen Handlung fähig ist. Aus der idee des Ganzen wird hier die glükseligkeit jedes theiles bestimt.
+
+Der allgemeine Zwek der Menschen ist Glükseeligkeit; was sie practisch dazu Vorbereitet, ist Geschiklichkeit; was die Geschiklichkeit dirigirt, ist Klugheit; was endlich die Klugheit restringirt und dirigirt, ist Sittlichkeit.
+
+#### Principia iuris
+
+**7059.**   υ.   Pr 48. Man nennt Vorliebe (praedilection) den Wunsch, sich selbst oder (g einen) andern glüklich zu sehen vor ohne Beziehung auf das Urtheil, ob man dieser Glükseeligkeit würdig sey. Wer ohne Vorliebe (ohne dabey interessirt zu seyn) urtheilt, urtheilt unpartheyisch. Unser wunsch ist jederzeit in Ansehung unsrer selbst partheyisch (g eigenliebig). Deswegen denken wir uns einen dritten als richter, der mit uns und andern nichts zu schaffen habe. Aber ohnerachtet alles eigenliebigen und unabläßigen Wunsches könen wir doch das Vernunfturtheil nicht unterdrücken, daß zwar die Begierde zur Glükseeligkeit natürlich vor dem Wunsche es zu [AA 19:238] seyn vorher gehe, gleichwohl das letztere vor dem ersteren in dem Urtheil der Vernunft vorher gehen müsse: daß die erste frage seyn muß, ob die Persohn gut sey, und die zweyte nur: ob ihr Zustand gut und glüklich sey. Wir würden eine Welt verachten und eine Regirung der Welt, worin es anders geordnet wäre. Die Würdigkeit glüklich zu seyn ist zwar nicht unser unmittelbarer Wunsch, aber die erste und unnachlaßliche condition, unter welcher die Vernunft ihn billigt.
+
+Es scheint aber auch, als wenn die Vernunft uns in diesem Geboth auch etwas verspreche. Nämlich daß man hoffen könne glüklich zu seyn, wenn man sich nur so verhält, daß man derselben nicht unwürdig ist. Denn da der ohne zweifel ein Thor (g phantast, Grillenhaft. ) seyn würde, welcher sich eigensinig einer Regel unterwürfe, ob er gleich wüste, daß er seinen Zwek viel besser erreichen würde, wenn er gelegentlich Ausnahmen davon machte: so würde folgen, daß man auch wohl ein *dupe* (g Gek) der Tugend seyn könne: ein unausstehlicher und ungereimter Gedanke. Es komt daher manigmal auch wohl denkenden Persohnen in den Sinn, daß sich so zu entrüsten, vornemlich über menschen, daß sie der tugend abtrünnig werden wolten, und, weil diese gleichsam ihnen nicht wort hält, sondern sie hintergeht, ihre Anmahnungen nicht zu hören.
+
+**7060.**   υ.   Pr 48. Der Lehrer des *evangelii* nahm setzte mit recht zum Grunde, daß die zwey *principia* des Verhaltens, tugend und Glükseeligkeit, verschieden und ursprünglich wären. Er bewies, daß die Verknüpfung davon nicht in der Natur (dieser Welt) liege. Er sagte, man köne sie jedoch getrost glauben. Aber er setzte die Bedingung hoch an und nach dem heiligsten Gesetz. Zeigte die Menschliche Gebrechlichkeit und bösartigkeit und machte dadurch nahm den moralischen Eigendünkel weg (Demuth) und, indem er das urtheil dadurch geschärft hatte, so ließ er nichts übrig als Himmel und Hölle, das sind Pr 49: Richtersprüche nach Der strengsten Beurtheilung. Er nahm noch alle unmoralische Hülfsmittel der religionsobservanzen weg und machte dagegen die Gütigkeit Gottes in allem dem, was nicht in unseren Kräften ist, zum Gegenstande des Glaubens, so wohl was wenn wir mit so viel als in unsern Kräften mit aufrichtigkeit zu leisten bestrebt sind. Er reinigte die moral also von allen nachsichtlichen und eigenliebigen Einschränkungen.
+
+[AA 19:239] Das Herz von eigen moralischem Eigendünkel. Die Hofnung der Glükseeligkeit von phantastischen Aussichten. Den Begrif der Gottheit von den schwachen Begriffen Nachsichtlicher Gütigkeit, imgleichen dem Dienstbedürftigen Willen observantzen zu verlangen, von leicht kindischem Leichtsinn leerer Hofnung und von knechtischer furcht kriechender Andächteley und gab ihm Heiligkeit des Willens als die norm der Gütigkeit seiner Absichten. Folglich wurde die moral mit einer Stütze versehen, worauf sich alle Hebel fest, die das Hertz bewegen sollen, fest stützen, aber zugleich rein, ohne Beymengung der eigennützigen Absichten oder fremdartiger Ersetzungsmittel.
+
+**7061.**   φ.   Pr 48.   In §87: Die Willkühr wird entweder durch die moralitaet eingeschränkt oder nicht. Im ersten fall ist sie heiligkeit eine sinnliche und regellose, im Zweyten eine intellektuelle und vollkommene willkühr: Heiligkeit und tugend.
+
+**7062.**   φ.   Pr 48.   In §87: Das *principium* der moralitaet bestehtbricht ab.
+
+Alle Handlung, deren Bedingungen zum allgemeinen Gesetz der willkühr (inneren, äußeren) dienen können, ist moralisch gut. Eine empirische Bedingung (Glükseeligkeit) kan dazu nicht dienen, mithin nicht die Übereinstimung (g mit) der Neigung, sondern die form der freyheit.
+
+Moralitaet - Legalitaet; diese natürlich oder bürgerlich.
+
+Die *aptitudo* der Handlungen zu äußeren Gesetzen ist *legalitas, vel* *naturalis vel civilis*.
+
+Freyheit überhaupt unter Gesetzen ist moralitaet.
+
+Natur unter Gesetzen ist ein tautologischer Begrif. Man darf also nicht dazu setzen, daß sie unter Gesetzen stehen müsse. Der Begrif der freyheit, so fern er der Natur entgegengesetzt wird, wird hier so angenommen, wie ihn jeder voraussetzt, der praktische qvaestionen thut, da man etwas thun soll; die schwierigkeiten können nur im Munde dessen gelten, der dieses praktisch läugnet.
+
+[AA 19:240] **7063.**   φ.   Pr 49.   In §87: In pragmatischen Lehren ist die freyheit zwar unter Lehren Regeln, aber nicht Gesetzen. Denn die Regel schreibt die Bedingungen vor, unter denen ein beliebiger Zwek erreicht werden kan. Das Gesetz aber bestimt unbedingt die freyheit.
+
+Gesetze der *freyheit überhaupt* sind die, welche die Bedingungen enthalten, unter denen es allein moglich ist, daß sie mit sich selbst zusammenstimmen: Bedingungen der Einheit des im Gebrauche der freyheit überhaupt. Sie sind also Vernunftgesetze und nicht empirisch oder willkührlich, sondern enthalten absolute praktische Nothwendigkeit. Gesetze sind Regeln der Freyheit überhaupt sind Gesetze der Zufälligen Gebothe. Der freye Wille, der mit sich selbst nach allgemeinen Gesetzen der freyheit Zusammenstimt, ist ein schlechthin Guter Wille.
+
+**7064.**   φ? ξ?   Pr 49.   Über und in §88: Das *principium* der Moralitaet ist innerlich, und die Gesetzmäßigkeit triebfeder der Handlungen ist ethisch eben oder dasselbe *principium*, alsdenn sind Handlungen ehtisch; oder die triebfeder ist nicht dem *principio* innerlich, sondern im Zwange, und alsdenn ist die Handlung iuridisch Gut. Man kan also aus principien gesetzmäßig Handeln oder aus Zwang: weil man will oder muß.
+
+**7065.**   φ.   Pr 49.   In §88: Gesetzmäßigkeit aus principien. Gesetzmäßigkeit aus mit Zwang beym Mangel der principien. Gesetzmäßigkeit der Unterwerfung unter allgemeinen Zwang. 1. Die innere freyheit unter inneren Gesetzen. 2. Die äußere freiheit unter inneren Gesetzen. 3. Die äußere freyheit unter äußeren Gesetzen.
+
+Die freyheit unter naturgesetzen ist unmöglich Denn freyheit und Natur sind einander entgegengesetzt; daher sind die gesetze nicht physisch, sondern practisch (g nicht: was geschieht, sondern: geschehen soll). Zweytens nicht die bedingte freyheit, sondern die freyheit überhaupt ohne Bedingung, [AA 19:241] blos als freyheit im gegentheil der problematisch oder pragmatisch bedingten freyen handlungen.
+
+**7066.**   υ? κ?   Pr 54. Die Ehrlichkeit hat eigentlich keine Grade. Aber wohl die Gütigkeit. Darum weil jener ihre Gesetze in praecision gebieten. Die Pünktlichkeit komt hiebey doch sehr auf das temperament an. Man kan daher immer sagen: "Dieser oder jener hat eine disposition zur Ehrlichkeit". Sie erfodert übung und Kentnis der Regel.
+
+**7067.**   υ? κ?   Pr 54.   Neben und zu §93: Man kan unrecht gegen jemand handeln blos *materialiter (damnum)* oder blos *formaliter* (*e. g.* unschädliche Lüge) oder beydes zugleich: *laesio* .
+
+"Du solst dein Versprechen halten" ist eine regel der materie des Rechts. "du solst kein Versprechen thun in der Absicht es zu brechen" ist eine regel der form. Diese ist viel größer.
+
+Daher ist das Giftmischen im Kriege *formaliter* Unrecht, ob es zwar nicht dem Recht der feinde wiederstreitet.
+
+**7068.**   υ? κ??   Pr 55.   Zu §94: Unterschied der Ehrlichkeit und Ehrbarkeit. Zucht. Ehrliebe.
+
+Redlichkeit. rechtschaffenheit. Ehrbarkeit. Anständigkeit. Diese gute Meinung betrift die Persohn.
+
+**7069.**   υ? κ?   Pr 55.   Zu §94: Lebe so, daß deine Handlungen auch aus dem Gesichtspunkte anderer gut scheinen.
+
+**7070.**   υ? ξ? κ?   Pr 55.   Zu §93: *practice modificabile per arbitrium hominis ad suum practice* *tale. *e. g.* terra, aqva*.
+
+*moraliter modificabile cujus modificatio arbitrio alicujus est* *subjecta, h. e. necessitata* bricht ab.
+
+[AA 19:242] **7071.**   υ.   Pr 55.   Zu §94: Thue das, was dich der Achtung würdig, ehrenwerth macht. Das ist: handlungen, die aller Billigung erwarten würden, wenn sie allgemein bekant werden. Die Ehrlichkeit ist der negativen Ehre werth. Das Verdienst der positiven. Das allgemeine Urtheil sey dein richter, aber nicht das wirkliche, sondern nothwendige. "Thue das, was dir Ehre erwirbt" ist ein pragmatischer Satz. Ehrliebend seyn ist etwas moralisches.
+
+**7072.**   υ? κ??   Pr 56.   Zu §94: Ehrlich ist derjenige, der nichts wieder das Recht des andern thut. Redlich, der nichts unwahres redet. Ehrbar, der den (g bösen) Schein hasset.
+
+**7073.**   υ? κ??   Pr 56.   Zu §94: Die Übertretung der Pflichten gegen sich selbst zieht Verachtung nach sich, der ehtischen gegen andre: Haß der Menschen überhaupt, der juridischen: Gewalt.
+
+**7074.**   υ.   Pr 56.   Zu §94: Entehre nicht den Werth der Menschheit in deiner eignen Persohn (pflicht Gegen sich selbst); thue das, was der Ehre Werth ist, in ansehung andrer (verdienstliche Pflicht).
+
+Die Regel des Rechts ist: *suum cuiqve tribue*; weil nun das *suum* unter dem *arbitrio* des andern steht, so heißt es: thue das, wozu ein andrer dich zu zwingen Recht hat. Dieses ist keiner Ehre würdig, sondern nur der Billigung anderer.
+
+Es liegt andern daran, es zu wissen, ob wir ihnen unrecht thun, aber nicht, ob wir gegen uns selbst sündigen. Daher sind wir nothwendiger Weise im falle der Übertretung des ersteren unter dem hasse anderer; im Zweyten kan es andern indifferent seyn.
+
+**7075.**   φ.   Pr 54.   In und zu §92: Mache Schaffe, daß ein jeder vor das Seine in ansehung deiner in Sicherheit sey. Pr 55: (g dieses ist die Pflicht zur Bürgerlichen Gesellschaft, die allgemeine Bedingung aller Rechte und Eigenthums der Menschen. )
+
+[AA 19:243] Pr 54: Stelle einen jeden wegen seines rechts von deiner Seite in Sicherheit (*suum cuiqve*); denn nur alsdenn kan er sagen, daß etwas sein ist, und zwar *facto*, nicht blos *jure*, wenn er wegen dessen Besitzes gesichert ist. Dieses ist die eintzige affirmative äussere natürliche Pflicht: *exeundum* *e statu naturali*.
+
+**7076.**   φ.   Pr 55.   In §93: Gewisse Regeln gehören zur ethic schon *materialiter*, als die Liebespflichten (g Pflichten Gegen sich selbst), andere nur *formaliter*, als die Pflicht, dem Recht anderer aus Gesinnung ein Gnüge zu thun.
+
+**7077.**   φ.   Pr 55.   Zu §93 Schlussatz: Die formel *suum cuiqve* *etc.* gehört zwar eigentlich vor die Obrigkeit, aber vor jeden Menschen: sich ihr zu beqvemen.
+
+**7078.**   φ.   Pr 55.   Neben §94. 93; in §93: Es kan kein Mensch ohne Recht, mithin gegenseitig nicht ohne Pflicht, und also auch nicht ohne Zwang seyn.
+
+Unterwirf dich den Bedingungen, dadurch jedem das Seine bestimmt werden kan. Dies ist der Zwang. Der Grundsatz "*honeste vive*" ist das ethische *principium* und verlangt *rectitudinem actionum internam*, die Rechtschaffenheit (der Gesinnung). Der Grundsatz=Satz "*neminem laede*" die *rectitudinem externam* und *justitiam negativam*. Der Grund=Satz "*suum cuique tribue*" die *justitiam positivam*, d. i. "schaffe jedem Sicherheit vor sein Recht" (*iustitia distributiva*): *principium status civilis*: "trete in den Zustand eines Bürgers oder unterwirf dich den Bedingungen der bürgerlichen Verfassung". *Suum cuiqve* kan nur verschaffet werden, so fern positive äußere Gesetze da sind, denen sich jeder unterwirft.* Unterwirf dich der Gewalt nach Gesetzen.
+
+[AA 19:244] **(g** Pr 54. In § 92: * *naturaliter* habe ich niemandem etwas zu erzeigen und zu tribuiren; denn das Seine eines jeden muß er von sich selbst erwarten. Aber ich bin doch verbunden, demjenigen *Zustande* die Hand zu bieten, worin ein jeder das seine mit Sicherheit erlangen kan. Dieses ist das *principium iuris publici*, so wie "*neminem laede" iuris* *privati*. Ich soll also einem jeden Sicherheit vor das seinige in Ansehung meiner verschaffen. Ob die *iustitia distributiva* könne partheylich seyn, d. i. einen pardonniren, andere strafen?
+
+Es kommt bey der Ethik nicht auf die Handlungen, die ich thun soll, sondern das *principium* an, woraus ich sie thun soll. maxime. **)**
+
+Über den Silben „-- *nem laedas (vel in*--“ im Schlussatz von §92 stehen die (wohl ziemlich gleichzeitig mit dem g-Zusatz zu Rfl. 7078 geschriebenen) Worte: *neglige*. *Ethica Regula*.
+
+**7079.**   φ? ψ?   Pr 55. Beqveme dich dem, was einem ieden das Seine bestimmt. *Vlpians* *"honeste vive"* *etc.* *etc.*
+
+**7080.**   φ.   Pr 54. Daß die Menschheit in unsrer eignen Persohn gewisse rechte habe, die unverletzlich und unveräußerlich seyn, und die unsere freyheit über uns selbst zu disponiren einschränken, imgleichen anderer ihre.
+
+**7081.**   φ.   Pr 55. Die Handlungen, die (oder deren Grundsätze), wenn sie allgemein bekant wären, mich würden verachtet oder nicht geliebt oder nicht geduldet machen, sind unerlaubt. Die Ursache ist, weil hier ein von Leidenschaft und partheylichkeit freyer richter ist.
+
+Achte das Recht hoch, selbst wo es kein Zwangsrecht ist. Ethic. Unterwirf dich den bürgerlichen Gesetzen oder meide menschliche Gesellschaft.
+
+**7082.**   φ.   Pr 54.   In §93: Sey rechtschaffen.* Entehre dich selbst nicht**; sey theilnehmend gegen iederman und leist iedem das Seine. Handle so, daß, wenn du öffentlich gesehen würdest, du geachtet, geduldet und geliebt würdest.
+
+[AA 19:245] Pr 55. In § 94: * (g Lebe so, daß du deine Handlung öffentlich kanst wissen lassen und die maxime deiner äußern nicht verbergen darfst. )
+
+**(g** Pr 54. In § 93: ** sey nicht Gleichgültig gegen iemandes Glük und schmälere niemandem das Seine.
+
+Der Diebstahl beleidigt andre und entehrt sich selbst. Lüge entehrt sich selbst, weil es seine Menschheit in ansehung der Sprache unnütz macht. **)**
+
+**7083.**   φ.   Pr 55.   In §94: *Publice age*: weil nur, was allgemein gefällt, gut ist.
+
+Der Satz: *honeste vive, neminem neglige, suum cuiqve tribue* geht auf Achtung, Liebe und Friede mit andern. Pflicht gegen sich, gegen andrer Glük (sey nicht gleichgültig) und gegen andrer freye Willkühr.bricht ab.
+
+(s Tugendpflicht. Zwangspflicht. Unterwerfungspflicht (dadurch ein Zwang möglich ist). Die letzte ist einig und allgemein. )
+
+(s Sey ehrenwerth. In deinen eignen Augen Achtungswürdig. )
+
+(s Verdiene Achtung und Liebe (nicht: erwirb). )
+
+**7084.**   φ.   Pr 56.   In §94: Das Gantze Recht der Natur ist ohne bürgerliche Ordnung eine bloße Tugendlehre und hat den Nahmen eines Rechts blos als ein Plan zu äußeren moglichen Zwangsgesetzen, mithin der bürgerlichen Ordnung.
+
+Da einmal das wort "natürlich recht" so zweydeutig gebraucht ist, so müssen wir uns einer subtilitaet bedienen, um dieser zweydeutigkeit auszuweichen. Wir unterscheiden das Naturrecht vom natürlichen Recht. Ienes wird dem bürgerlichen ist beyden dem allgemeinen dieses ist entweder und dem willkührlichen entgegengesetzt; dieses gründet sich auch auf die Natur, aber ist entweder das natürliche privatrecht oder öffentliche Recht.
+
+**7085.**   υ.   Pr 60.   Neben §98: *Jus est vel *interne*: est validum coram foro conscientiae, ut alteri* *resistere possim mihi meum ablaturo: vel etiam *externe*: ut alteri illicitum*
+
+[AA 19:246] *sit meum arbitrium alterum necessitet. Nam ius, cuius exactioni* *alteri licet resistentiam opponere, non est externe cogens. Atqvi in statu* *naturali, cum, qvantumvis iusta sit causa mea, tamen, cum de propria* *non sim judex competens, cuilibet licita est resistentia adversus vim a* *me adhibitam. Ergo alterum non necessitat. Primus igitur actus juridicus* *in statu naturali est constitutio iustitiae externae, h. e. formae,* *secundum qvam et ius et modus suum cuiqve tribuendi valide respectu* *omnium constituatur.*
+
+**7086.**   υ.   Pr 60.   Neben §98 Schluss: Die *principia iuris in statu naturali* sind nur das Muster und die Norm, nach der die form der äußeren Gerechtigkeit errichtet werden soll.
+
+**7087.**   υ.   Pr 60.   In §98: Es kan sich der andre mir wiedersetzen, nicht weil ich Unrecht habe, sondern weil ich mir anmaße, über ihn zwangsmäßig zu urtheilen. Ich kan also nur von seiner Billigkeit etwas erwarten, und der andre thut Unrecht, aber nur *coram foro conscientiae*.
+
+(s Zum strengen recht wird erfodert, daß der schuldige durch äußere Beweise seiner Verbindlichkeit überführt werden könne. )
+
+**7088.**   φ? ξ?   Pr 60.   Zwischen §98 und 99. Zu §99: Das *principium* der moralitaet ist jederzeit die Vernunft. Darnach muß ich auch die vom *principio subsidiario*, *e. g.* revelation, beurtheilen. Instinct bringt *analoga moralia* hervor.
+
+#### Legislator
+
+**7089.**   υ? κ?   Pr 61. Gott macht nicht (g er giebt sie) die moralische Gesetze oder verbindlichkeit, sondern sagt nur, daß sie die Bedingungen seines gütigen Willens seyn. In so fern ist dieser heilig und in der Ausübung gerecht.
+
+[AA 19:247] **7090.**   υ?   Pr 61. Nur der *legislator* willkührlicher Gesetze ist *auctor*.
+
+**7091.**   υ?   Pr 61. Gott ist *legislator* durch die Heiligkeit, Gütigkeit und Allvermögenheit dieses Willens.
+
+Die letztere erfodert alle physische Eigenschaften desselben, nemlich Ewigkeit, allwissenheit, allmacht.
+
+**7092.**   υ? ξ? φ?   Pr 62. Gott ist nicht durch seinen Willen der Auctor des moralischen Gesetzes, sondern der (g göttliche) Wille ist das moralische Gesetz, nemlich das Urbild des vollkommensten Willens und auch das *principium* aller Bedingungen, unseren Willen diesem Gesetz gemäß zu determiniren nemlich der Glükseelig einstimig und mit dem seinigen zu determiniren, folglich alle Bedingungen einer nothwendigen Einwilligung; folglich ist eine nothwendige Einheit der subordination unsres unter den Göttlichen Willen, aber unter Creaturen eine nur zufellige Einheit von Zwey Willen.
+
+Er hat auch *potestatem exsecutivam*.
+
+Ein *legislator, cujus tantum vis executoria obligat*, ist *despotes*.
+
+**7093.**   υ? κ?   Pr 62. Der Mensch kan nicht hoffen glüklich zu werden, wo er nicht ein besserer Mensch wird. Der Wunsch zur Glükseeligkeit und der Vergebung ist ein eigennütziger, der zur Besserung ist ein moralischer Wunsch. Nur der Moralische Wunsch ist Erhörlich. Es ist unverschämt, um Glük oder nur um straflosigkeit zu bitten, wenn man nicht ein besserer Mensch ist. Der göttliche Wille wird alsdenn nicht als ein heiliger, sondern eigenliebiger und despotischer Wille betrachtet, der alles keine Gesetze der innern Anständigkeit Achtet und blos den Einschmeichelungen Gehor Giebt. Wir können aber den Gütigen Beystand in Ansehung der Besserung unseres Willens erwarten, wenn wir, so viel als in unseren Kräften steht, thun und mit Demuth uns gegen das heilige Gesetz halten, von dem wir noch so weit abstehn. Der so Lobeserhebungen sagt, ist darum kein besserer
+
+[AA 19:248] Mensch. Ein Mörder, der einen Menschen aus Mitleiden hält, der in Ohnmacht fiel, war in diesem Augenblike gut.
+
+**7094.**   υ?   Pr 63. Die Lehre des *evangelii* will auch, daß man nicht anders als durch Wohlverhalten und Heiligkeit soll hoffen seelig zu werden, daß man aber diese Heiligkeit hoffen soll, so fern man mit allem ernste sich befleißigt, nach seinen verliehenen Kräften so gut zu seyn, als man kann.
+
+**7095.**   υ?   Pr 63. Es giebt pragmatische Ursachen der Gesetze, um den Misbrauch zu verhüten, und moralische oder iuridische, deren Grund blos das recht ist. Weil ein jeder, der sein recht sucht, auch solche Mittel desselben haben will, dadurch er gesichert ist, so unterwirft er sich pragmatischen Gesetzen. Daher giebt es transscendentale Gesetze, z. E. Niemals unwarheit zu reden, und pragmatische practische und pragmatische.
+
+**7096.**   υ?   Pr 63. Daß die moralität auch einen Gesetzgeber habe, bedeutet: daß wir in ansehung dessen, was moralisch ist, mit sammt dessen folgen einem mächtigen Willen unterworfen sind.
+
+**7097.**   υ?   Pr 63. Die moralischen Gesetze haben an sich selbst keine *vim obligatoriam*, sondern enthalten nur die norm. Sie enthalten die objectiven Bedingungen der Beurtheilung, aber nicht die subjectiven der Ausübung. Die letzte bestehen in der Übereinstimmung mit unserem Verlangen zur Glükseeligkeit. Die moralischen Gesetze bedürfen einem Gesetzgeber, dessen Willen ein Guter Wille (g ein heiliger), aber auch ein allvermögender Wille sey. Das erste: daß er die absicht auf das glük der Menschen habe, das zweyte: daß die Condition sie zu ertheilen die moralische Vollkommenheit sey, das Dritte: daß er die Macht dazu habe. Darauf beruhet die *potestas legislatoria*.
+
+[AA 19:249] **7098.**   υ?   Pr 63. Wenn Gott der Urheber der Moral Gesetze ist, so sind wir eigentlich keinem Menschen schuldig, sondern Gott und können ihm abbitten.
+
+**7099.**   υ.   Pr 66. Wir könen Gott ansehen als einen moralischen oder pragmatischen Gesetzgeber. Im ersten Fall gehorchen wir ihm als Kinder aus moralischer Gesinnung, im Zweyten als Unterthanen aus pragmatischer Absicht.
+
+**7100.**   υ.   Pr 66.   Neben §105, Satz 3, 4: *Custodia legis* ist der moralische Gehorsam.
+
+#### Praemia
+
+**7101.**   υ.   Pr 66. moralische Belohnungen sind die größeste.
+
+**7102.**   υ? κ?   Pr 66. Das *praemium* (g ist ein Guts), was mit einer freyen handlung verbunden ist entweder als der Grund oder die folge.
+
+**7103.**   υ? κ?   Pr 66. Das physische Gute, was man zu ertheilen schuldig ist, heißt *merces*. Das was *praemium gratuitum* ist zugleich ein *meritum. praemium vel* *gratuitum vel debitum*.
+
+**7104.**   υ? ξ? κ?   Pr 66. *Praestatio debiti nihil meretur praemii, sed dignitatem parit munificentiae* *gratuitae.*
+
+**7105.**   υ? κ?   Pr 67. Alle handlungen, die einem andern Gut seyn, sind verdienstlich, so fern ich keine schuldigkeit dazu habe, und ihnen kommt nothwendig (nach regeln der Gerechtigkeit) eine Belohnung zu. Daher Gott *supplimentum* [AA 19:250] desjenigen, was Menschen dem Verdienste nicht leisten könen, selbst ergäntzt.
+
+**7106.**   υ? κ?   Pr 67. *Auctoramentum* ist der Preis. Einen Preis worauf aussetzen. *praemium* *propositum*. *remuneratio* ist das *praemium* (g in) *conseqventiam veniens*.
+
+**7107.**   υ? κ?   Pr 68. Der Lohn ist abgemessen. Die Belohnung ist willkührlich.
+
+**7108.**   υ? φ?   Pr 66. Ob die Naturgesetze *vim obligatoriam* haben würden, wenn sie nicht auch natürlicher weise eine Verheißung bey sich führen würden. Die Drohung kann nicht *vim obligandi* haben. Die Verheißung obligirt nicht, sie benimmt nur die Ausrede der selbstliebe, welche ein recht hat, alles mit seiner glükseeligkeit als einstimig zu fodern.
+
+**7109.**   φ? ξ??   Pr 67.   In §106: *Meritum* im negativen Verstande, da man nur nicht der Glükseeligkeit unwürdig ist, findet nur in verhaltnis auf ein gütiges und vermögendes, aber nicht blos gerechtes wesen statt. Unsere handlungen sind nicht in ansehung Gottes meritorisch im positiven Verstande; wir können ihn nicht obligiren.
+
+**7110.**   φ? ξ??   Pr 67.   In §106:
+
+*respensio* *debitum*
+
+Der Preis ist der, der Bewegungsgrund war. *praemium pragmaticum*.
+
+Die Belohnung ist nicht der Bewegungsgrund. *praemium morale*.
+
+[AA 19:251] **7111.**   φ? ξ??   Pr 67.   Über und in §107: *Praemia vel invitantia vel brabevtica.*
+
+*Benefactum respectu alterius (g vel stricte vel late) obligatorium* *est meritum.*
+
+*prius est meritum iuris.*
+
+*merito respondet praemium.*
+
+*Praemium est vel ethicum vel iuridicum: merces.*
+
+*Praemium, cuius qvod motivum actionis in se continet, est pragmaticum*.
+
+**7112.**   φ.   Pr 68.   Zum vorletzten Satz von §107 („meritique--praemium“) setzt Kant hinzu: *est promissum tanqvam solum motivum ad actionis alterius. Promittens* *hic est obligatus*. Weil wir auch ohne diese Versprechungen blos wegen des Guten, was wir genießen, zu Gott gefälligen Handlungen verbunden sind, so können wir die Belohnung nicht als lohn erwarten. Doch sagt Gott, daß er von allen, die uns in der welt vor unsere Wohlthat nicht belohnen, die assignation auf sich acceptire und also ein *analogon* anderer Schuld auf sich Ziehe. In absicht auf diese *mercedem* allein gutes zu thun ist *animus mercenarius*; dem ungeachtet hat er doch Lohn zu gewarten, aber nur von der Gerechtigkeit und nicht nach unendlichkeit der güte, die einem moralischen motiv correspondirt.
+
+**7113.**   φ? υ? ψ?   Pr 68. *Praemia sunt vel auctorantia vel remunerantia*. Antreibende       vergeltende
+
+#### Poenae
+
+**7114.**   υ? φ?   Pr 75.   In §117: Das Wohlverhalten ist unter Bedingung der Güte der Belohnung würdig und das Laster unter der Bedingung der Gerechtigkeit. Der Unterschied [AA 19:252] ist, daß das erste nicht die Belohnung nothwendig macht das, sondern nur receptivität dazu enthält, das zweyte aber wohl die Strafe.
+
+#### Imputatio facti
+
+**7115.**   υ? κ?   Pr 80. Gutes thun und Böses unterlassen (jenes ohne eigenliebige, dieses unter eigenliebigen Bewegursachen) ist beydes moralisch gut, also in der moralität Ganz einerley; wir könen uns also die unterlassungen des Gegentheils wie Handlungen ansehn.
+
+**7116.**   υ? κ?   Pr 80. Nur Handlungen, welche das Gegentheil der Schuldigkeit sind: entweder *eminentia* in ansehung des Guten (*disparata*) oder *contrarie opposita*, können imputirt werden.
+
+Nur der Verbrecher ist*auctor*.
+
+1. Was imputirt werden kan;
+
+2. (g allgemeine practische Bedingungen) Bedingungen der form der imputation.
+
+**7117.**   υ? κ?   Pr 80. Handlungen, deren subsumtion unter dem Gesetze der Schuldigkeit idealisch ist, könen nicht imputirt werden, sie könen nun negativ seyn und unter auch negativ subsumirt werden oder positiv und auch positiv subsumirt werden.
+
+**7118.**   υ? κ?   Pr 80. Eine Handlung, so fern sie durch kein Gesetz der Schuldigkeit nec bricht ab
+
+**7119.**   υ? κ?   Pr 80. Was man nicht thut, kan nicht imputirt werden.
+
+**7120.**   υ? κ?   Pr 80. Moralisch idealische Handlungen involviren keine imputation.
+
+[AA 19:253] Was man nicht thut, aber auch nicht schuldig ist.
+
+Was man thut, aber auch schuldig ist.
+
+Beydes sind keine *facta propria*, sondern *consectaria legum cogentium*.
+
+Das Gesetz thut dieses und der äußere Zwang.
+
+**(g** Was ich Gutes thue, obgleich nicht zu thun schuldig war (mehr Gutes als schuldig).
+
+Was ich nicht gutes thue ob ich gl
+
+Wenn ich meine Schuldigkeit thue, gehn mich gute und böse folgen nichts an. **)**
+
+**7121.**   υ? κ?   Pr 80. Die ethische Unterlassungen sind nicht Handlungen.
+
+Die juridische aber sind es.
+
+**7122.**   υ? κ?   Pr 80. Die (g Der) moralische Ursache (g Urheber) wovon ist der Autor. Das *judicium qvo aliqvis*bricht ab.
+
+Was man (gutes) mehr oder weniger thut, als man schuldig ist, kan allein imputirt werden.
+
+**7123.**   υ? κ?   Pr 80. *adiudicatio actionis non est imputatio facti.*
+
+**7124.**   υ? κ?   Pr. 82.   Neben § 125. 126: 1. Was ich gutes thue, ob ich gleich nicht schuldig bin es zu thun, das kan mir imputirt werden.
+
+2. Was ich gutes nicht thue, ob ich zwar schuldig bin es zu thun, das kan mir imputirt werden. (s positive *modi*. )
+
+Die negative *modi* sind:
+
+1, Was ich gutes nicht thue und auch nicht schuldig bin es zu thun, das kan mir nicht *imputirt* werden.
+
+[AA 19:254] 2. Was ich gutes thue und auch schuldig bin es zu thun, daß kan mir (g nicht) imputirt werden.
+
+**7125.**   υ? κ?   Pr 82.   Zwischen § 125 und 126: Die imputation geht nur auf Verdienst und Schuld. | Die Schuldigkeit, eine Handlung nicht zu thun oder das Gegentheil einer Handlung zu thun, ist bey mir einerley.
+
+**7126.**   υ? κ?   Pr 84.   Neben und zwischen § 128 und 129: Die identität der freyen Handlung mit der Schuldigkeit giebt keine imputation.
+
+Die contrarietät der Handlung und der Schuldigkeit giebt imputation.
+
+**7127.**   υ? κ??   Pr 84.   Neben § 129 Anfang: Es giebt keine imputation als *in meritum* und *demeritum*.
+
+**7128.**   υ.   Pr 84.   Neben § 129, Satz 2: Die subjective Gründe und schätzungen der imputation sind: die absicht. das Wissen. das Vermögen. die fertigkeit. die Gelegenheit.
+
+**7129.**   υ.   Pr 84.   Neben § 129 und Rand unten: Die practische Bedingungen der imputation sind diejenige, wodurch eine handlung nach Gesetzen der freyheit möglich ist. Vorherwissen könen. Gar Bewegungsgründe des Vorherbekantmachens. Vermögen des Verstandes und der Kräfte.
+
+Die moralische Bedingungen der imputation setzen jene voraus, bestehen aber in der *cong discongruentia* mit den Gesetzen der Schuldigkeit. Denn solche solchen Handlungen allein binden wir uns nicht an die Gesetze der Schuldigkeit und sind üben Handlungen der freyheit aus.
+
+[AA 19:255] **7130.**   υ? ψ?   Pr 85.   Rand oben: Die Bedingungen der imputabilität sind *Freyheit* subjectiv und *Gesetz* objectiv moralisch. Die Bedingungen der ersten sind Wissen und können (g wozu ich keine Bewegungsgründe und wozu ich kein Vermögen habe. ). Der Zweyten bricht ab.
+
+**7131.**   υ.   Pr 85.   Neben § 129 Schluss und § 130: Eine Handlung, so fern sie die Wirk als aus freyer Willkühr entsprungen angesehen werden kan, wird (g zusamt der Wirkung) zugeschrieben. Die Gründe der attribution einer Handlung müssen besonders betrachtet werden. Eine freye Handlung Die Wirkung einer Die freye Handlung, so fern sie unter einem moralischen Gesetze subsumirt werden kan, ist ein *factum*. Die subsumtion eines *facti* unter dem moralischen Gesetze ist die Zurechnung, welche niemals die Handlung, sondern deren Wirkung betrift.
+
+**7132.**   υ.   Pr 85.   Neben 130 Schluss: Die practische folgen einer Handlung sind die, welche in die freye Handlung haben als momenten einfließen könen. Die übrige Folgen sind Zufällige.
+
+**7133.**   υ.   Pr 85.   Zwischen § 130 und 131: Handlung hat entweder einen praecisen oder eminenten Werth; im ersteren falle könen sie nicht, im zweyten aber wohl imputirt werden.
+
+**7134.**   υ.   Pr 85. Die subsumtion einer Handlung unter die allgemeine Gesetze der freyheit ist einer freyen Willkühr ist *imputatio facti*.
+
+Die subsumtion einer Handlung unter die moralische Gesetze einer freyen Willkühr ist *imputatio legis*.
+
+[AA 19:256] **7135.**   υ.   Pr 86. *imputatio practica*: Zuschreiben nach regeln der freyheit. --- --- (*pragmatica*: beymessen unter den Bedingungen der Klugheit.)
+
+--- --- *moralis*: Zurechnen nach Gesetzen der Sittlichkeit. (s 1. Die practische, 2. die moralische Bedingungen der imputation. )
+
+**7136.**   φ.   Pr 80. Die Unterlassung einer Handlung, die nicht geboten oder verboten ist, *e. g.* Einer gütigen, kan nicht imputirt werden, weil sie unter keinem Gesetze steht. Denn alle Zurechnung betrift handlungen, die unter Gesetzen stehen.
+
+**7137.**   φ.   Pr 80. Alle practische imputation betrift blos die Wirkung und deren Ursache, die moralische: Verdienst und Schuld. Die Handlung ist nur That, so fern darüber Geboth oder Verboth sind.
+
+**7138.**   φ.   Pr 80. Iuridisch könen moralische Begehungen keinem imputirt werden, und juridische Begehungen müssen imputirt werden.
+
+**7139.**   φ? ψ?   Pr 80. Wobey ich blos leidend bin (*e. g.* wenn ich genothigt etwas thue), das kan mir nicht beygemessen werden, und wo ich moralisch leidend bin, kan mir nicht zugerechnet werden; daher, wo ich blos leidend bin, ist keine that.
+
+**7140.**   φ? ψ?   Pr 81. Alles, in Ansehung dessen das Gemüth frey ist, kan imputirt werden, aber das Gegentheil nicht.*
+
+Alles, in Ansehung dessen das Gemüth moralisch nicht frey ist, dessen Gegentheil kan imputirt werden, aber die Handlung nicht.**
+
+* (g denn die Unterlassung desjenigen, in Ansehung dessen ich frey bin, ist kein *factum*. Aber wohl die, in Ansehung dessen ich gezwungen bin. Die Begehung einer Handlung, dazu ich gezwungen bin, ist keine That, wohl aber die, dazu ich nicht gezwungen bin. )
+
+[AA 19:257] Pr 80: ** (g Was der Nothwendigkeit gemäß ist, dabey hat der Mensch nichts gethan, *e. g.* Schuldigkeit. Was ihr entgegen ist, dabey hat er gethan, ist ein Urheber. Was der zufälligen Regel gemäß ist, dabey hat er gethan. Was der zufälligen Regel nicht gemäß ist, dabey hat er nichts gethan. )
+
+**7141.**   φ? ψ?   Pr 81.   In § 125: Die imputation findet nur in Ansehung dessen statt, was als *meritum* *vel demeritum*kan angesehen werden. Das andere ist die *attribu* bricht ab.
+
+**7142.**   φ? ψ?   Pr 81.   In § 125, Satz 2: Wenn eine Handlung als*casus possibilis alicuius legis* betrachtet wird, so wird sie wie*factum* untersucht.
+
+**7143.**   φ? ψ?   Pr 81.   In § 125, Satz 2-4: Im Iuridischen Verstande sind nur*facta*, die wieder die Gesetze sind, und im moralischen oder ethischen nur die, so den Gesetzen gemäß sind. *meritum und demeritum*. Von diesen unterscheiden sich, was recht ist und was gleichgültig gegen andre ist.
+
+**7144.**   φ? ψ?   Pr 81.   Zu § 125 „imputabilitas“: Die Zurechnung beruht auf der legalität.
+
+**7145.**   φ? ψ?   Pr 81.   In § 125, Satz 5, 6: *imputatio vel actionis vel facti*. (s *vel practica vel legalis* )
+
+**7146.**   φ? ψ?   Pr 81. Practische *imputatio* ist von der moralischen zu unterscheiden, jene *facti*, diese *legis*, bey der letzten *autor*.
+
+[AA 19:258] **7147.**   φ? ψ?   Pr 82.   In § 125: Was ich einem Gesetze (g vorschrift, Regel, norm) gemäs thue, in Ansehung dessen ich frey bin, das ist Verdienst und kan imputirt werden. Was ich nicht --- thue, kan nicht imputirt werden. Was ich einem Gesetze zuwieder thue, in Ansehung dessen ich nicht frey bin, ist Schuld, was gemäs --- ist recht.
+
+**7148.**   φ? ψ?   Pr 82.   In § 126, Satz 2, 3: Das recht spricht schuldig oder unschuldig.
+
+Die moral überhaupt: Schuldig oder Unschuldig oder Verdienstlich.
+
+**7149.**   φ? ψ?   Pr 83.   In § 128, Satz 1: Nur die Glükseeligkeit, die uns zugerechnet werden kan, hat einen moralischen werth.
+
+**7150.**   φ.   Pr 86.   Zwischen § 132 und 132, in § 132: Iemand ist frey in Ansehung einer Handlung, wenn die Handlung und ihr Gegentheil nach gewissen Gesetzen möglich ist. Entweder practisch frey oder iuridisch oder moralisch. Zur moralischen freyheit wird das meiste erfodert. Wo ich zwar praktisch frey bin, bin ich doch moralisch verbunden.
+
+**7151.**   φ.   Pr 87. Nur was ich mehr oder weniger (g gutes) thue, als ich schuldig bin, (*meritum, demeritum*,) kan mir zugerechnet werden, das eine ethisch, das andre iuridisch. Was ich nicht mehr, auch nicht weniger thue gutes thue, als ich schuldig bin, kan mir nicht zugerechnet werden.
+
+Eine Handlung, so fern sie unter einem Gesetze betrachtet wird: entweder *praeceptive* oder *prohibitive* oder *permissive*, ist ein *factum practice* *tale*.
+
+**7152.**   φ.   Pr 87.   Neben § 133, Satz 2-5: Iemandem ein *factum* imputiren heißt nicht: es ihm Zurechnen, sondern: zuschreiben, beymessen; wenn das factum ausgemacht ist, einem [AA 19:259] die legale folgen davon beymessen, heißt zurechnen. d. i. es als eine Handlung der freyheit in Verhaltnis auf Gesetze ansehen.
+
+**7153.**   φ? y?     Pr 87. Eine Handlung wird zugeschrieben, die Wirkung zugerechnet.
+
+**7154.**   φ? y?    Pr 87. *iuridice* kan nur etwas *in demeritum* (Schuld) imputirt werden. *ethice* allein *in meritum*.
+
+**7155.**   φ? υ?   Pr 87. Wenn nach dem Gesetze jemand frey gesprochen wird, so ist ihm eigentlich nichts zugerechnet. Es ist also *imputatio negativa*.
+
+**7156.**   φ? υ?   Pr 87.   Unter § 133: Iuridische Gesetze obligiren nicht durch die innere Beschaffenheit der Handlung, sondern dieser zwar gemäß, aber durch Zwang. Wenn nun ein Größerer Zwang zum Gegentheil ist und zwar billiger, so kan ich vom Gesetz nicht mehr necessitirt werden. *Iuridice* kan man gezwungen werden, und zwar zum Bösen, was wieder das Gesetz ist, so daß er vom Gesetz frey ist. Aber eben dieser Zwang reicht ethisch nicht zu.
+
+**7157.**   φ? υ?   Pr 87.   In § 133: Wenn ich mehr thue, als Schuldigkeit ist, so wird vorausgesetzt, daß die Handlung der Schuldigkeit nicht entgegen ist.
+
+**7158.**   φ? υ?   Pr 87.   In § 133: 1. Ob eine gewisse freye Handlung geschehen: *practica imputatio*.
+
+2. Das *factum* und seine folgen: ob sie als *casus datae legis* (g eines strafgesetzes) anzusehen sind: *iuridica imputatio*.
+
+3. *imputatio moralis generatim*.
+
+**7159.**   υ.   Pr 90.   Neben § 136 Schluss und § 137: Der etwas auch nur mit gefahr schlimmer folgem wagte (*e. g.* trunk, Lustbarkeit, Unzucht), muß sie alle Verantworten oder Rechenschaft geben.
+
+[AA 19:260] Er muß das Gesetz wissen unmittelbar oder *indirecte* (daß es solche Gesetze gebe); wenn er es nicht weiß, ob es zwar physisch möglich war es zu wissen, wenn er zwar nicht durch Schuldigkeit bewegt, sondern aus neugier es Gesucht hätte, so kan es ihm imputirt werden.
+
+Die *ignorantia legis* excusirt nur als die der *consectaria. facti*.
+
+Wir sind frey in ansehung aller Ethischen verbindlichkeit; nemlich es sind *motiva*, welche nicht nothwendig antreiben. Also thun wir die handlung aus freyem *Belieben*: wir ertheilen den andern von dem *Unsrigen* und können uns (ohne Nachtheil Eintrag der Demuth) mit den guten Folgen derselben, so weit wir wollen, erfreuen.
+
+In Ansehung der Pflichten gegen sich selbst giebt es auch schuldigkeiten, da man sich nicht die Guten folgen imputiren kan, aber auch Verdienste, *e. g.* Besserung des Verstandes.
+
+**7160.**   υ.   Pr 91.   Über und neben § 138: In Ansehung der ethischen Handlungen kan man nur ein Verdienst haben, aber keine Schuld.
+
+In ansehung derer iuridischen nur eine Schuld, aber kein Verdienst. Daher werden nur in ienem falle nur die Guten, in diesem Nur die Bösen mit ihren folgen imputirt. Die *imputatio practica* ist die subsumtion unter die Gesetze der freyheit überhaupt. Daher Handlungen, die durch Gesetze nothwendig seyn, nicht imputirt werden, auch nicht die erlaubt seyn, zusammt ihrem Gegentheil (weil sie gar keine iuridische folgen haben), sondern nur die verboten seyn, darum weil er darin einen actum seiner eignen Willkühr exercirt.
+
+Die Ausmittelung des facti (g *imputatio facti historica* ) ist keine imputation, denn die letzte muß positive iuridische folgen haben.
+
+Die *imputatio facti historica* hat keine iuridische folgen.
+
+**7161.**   υ.   Pr 91.   In § 138; über, neben und unter § 139: Das ethi Eine ethisch böse Handlung hat keine legale folgen, nemlich Strafen. Eine iuridisch gute auch nicht, nemlich keine Belohnung. Was von den Gesetzen keine bestimte folgen hat, kan nicht imputirt werden, also weder ethisch böse noch iuridisch gute Handlungen. Ihr werth ist = 0.
+
+[AA 19:261] Wenn ich keinem was gebe (von dem Meinigen) und keinem was nehme (vom Seinigen), so bleibt alles so, als wenn ein jeder vor sich selbst sorgt, und mein Verheltniswerth ist = 0. Dagegen ist ethisch Gut = + und iuridisch Böse = --, und jene haben (g zu) gesetzmäßigen Folgen Belohnung, diese Bestrafung.
+
+Die *imputatio facti historica* ist von der *practica* (unwissenheit, Verirrung, Unvermögen) und diese von der moralischen Unterschieden.
+
+**7162.**   υ.   Pr 91.   Unter § 139: Ein Gesetz der Schuldigkeit verspricht keine Belohnungen und ein Gesetz der Liebespflicht droht keine Strafen.
+
+In Ansehung seiner Selbst. Vom vergrabenen Pfunde.
+
+**7163.**   φ? υ?   Pr 91.   In § 139: Eine Handlung, die das *suum alterius* vermehrt oder vermindert (g *meritum* und *demeritum* ), hat gesetzmäßige folgen; die keines thut, hat keine gesetzmäßigen folgen. Daher was den ethischen Gesetzen gemäß und den iuridischen zuwieder geschieht, kan in *meritum* oder *demeritum* imputirt werden.
+
+**7164.**   υ.   Pr 91.   In § 138 In ethischen ist die böse Handlung und im iuridischen die gute beydes nichts positives und also keine that, sondern im ersteren fall eine Unterlassung der Wohlthat, im zweyten der Ungerechtigket; daher kan der *agens* nicht als *auctor* der folgen angesehen werden.
+
+**7165.**   φ? υ?   Pr 91.   In § 138: Die ethisch böse Handlung = 0.
+
+Die iuridisch böse Handlung = -- 2.
+
+Das ethisch gute = + 2.
+
+Das iuridisch Gute = 0, weil ich nur nicht einem andern das seine nehme, also nichts positiv böses thue.
+
+[AA 19:262] Also ist iuridische rechtschaffenheit zwar ohne positiven Werth, aber von der größten Wichtigkeit als Bedingung zu irgend einem Werth.
+
+**7166.**   υ.   Pr 92. Gegen Gott haben wir kein Verdienst, sondern lauter Schuldigkeit. Dieses ist die Ursache der Demuth, aber nicht eine Absprechung der hofnung, weil dazu nur die Würdigkeit gehöret (nicht Unwürdig), um aus Gnaden Glükseeligkeit, die man nicht verdient, zu erlangen.
+
+**7167.**   υ? ψ?   Pr 92. Wir haben die Eigenschaft in uns, daß, wenn eine handlung wieder unsere Absicht der Klugheit geschehen ist, wir sie uns wenigstens nicht selbst imputiren können und dadurch beruhigen können, daß wir wenigstens nicht schuld haben. Die selbstvorwürfe der Klugheit sind sehr bitter, eben so wie die des Gewissens.
+
+**7168.**   υ.   Pr 93.   Über und neben § 141: Die Unwissenheit vermindert mehr die imputation als die Unbesonnenheit.
+
+Ob man es natürlichem Hange beymessen köne und sich entschuldigen?
+
+Ob man jemandem etwas, wovon keine folgen existiren, nach seiner besserung oder Verschlimmerung zurechnen könne?
+
+Ob dem Sch Wie fern die Laster, die man würde gethan haben, wenn die Verleitung gewesen wäre, könen zugerechnet werden?
+
+**7169.**   υ? κ?   Pr 112.   Zu § 168 Anfang: Man muß sich auf die Schwäche der menschlichen Natur niemals bey den Vergehungen wieder die Redlichkeit berufen; denn hierin kan man vollkomen seyn.
+
+**7170.**   υ.   Pr 112.   Zu § 168: Moralisches Unvermögen. Wir sind unvermögend, durch uns selbst [AA 19:263] gut zu werden*; denn zu dem Ende müsten wir schon gut seyn. Aber wir sind vermögend, jedes einzelne Gute zu thun; denn dazu ist nicht nöthig, daß man Gut sey, sondern daß man sich Zwang thue. Es ist möglich, daß ich einen jeden schritt in der Geraden Linie von dem Punkte aus, da ich bin, zum Ziele thue (denn habe ich aber immer neue visirpuncte). Es ist aber nicht möglich, daß ich alle schritte so thue. Es ist möglich in jedem Wurf, daß ich sechs werfe, und eben so möglich als jeder andere fall; aber es ist nicht möglich, daß ich immer sechs werfe, denn dazu würde ein Grund der Nothwendigkeit erfordert. Also um Gut zu seyn, wird ein Grund der Nothwendigkeit und nicht der bloßen Möglichkeit erfodert. Die bloße Möglichkeit zugleich mit der Möglichkeit des Gegentheils macht es unmöglich, daß es sich immer zutrage (das wäre nicht zufälligkeit).
+
+Pr 113: * (g Die bonität des Willens hat so wohl in der Natur ihr Maas als die Vollkommenheit des talents. )
+
+**7171.**   υ.   Pr 112.   Zu § 168: Im Spiel kan ich jeden Wurf (g wenn die drey Seiten 1 Auge hätten) so ansehn, als wäre er der erste Wurf. Aber daß ich immer dasselbe werfen werde, wenn in den Würfeln nicht der Grund liegt, ist unmöglich. Dieses zeigt an, daß ich zwar die Handlungen durch freyheit, aber die freyheit selbst nicht in meiner Gewalt habe. Wenn diese nicht gantz gut oder böse ist, so sind ihre Handlungen als *phaenomena* vermengt als functionen aber Vermögen zwar auf eben derselben seite möglich, aber nicht als Kräfte.
+
+**7172.**   υ?   Pr 113.   Zu § 168. 169: *Coram foro humano* hat die moralität nicht so großen effect als der Nutzen. Weil nun *in casu necessitatis* die Erlaubnis sich selbst zu versorgen jedem Vortheilhafter zu seyn schien, so sieht man einander in der Regel nach. Bey Gott ist die moralität viel bedeutender als aller nutzen.
+
+**7173.**   υ?   Pr 113.   Zu § 168. 169: *Coram foro humano inculpabile. Casus necessitatis favor. Non* *coram foro divino*.
+
+[AA 19:264] es ist besonders, daß, ob man gleich erkennt, man sey zum reinen Guten unvermögend, man sich doch die Ermanglung dessen reprochirt. Das macht: man zieht dieses Unvermögen nicht aus unmittelbarem Bewustseyn; denn da findet man das Gegentheil, daß alles dieses blos auf unser Belieben ankomme; sondern man schließt aus unsrer Erfahrung an uns selbst; daraus sieht man also nur, daß unser wille so böse sey, daß er auch nicht recht gut werden könne. Aber eben darum ist er desto sträflicher. Die Entschuldigung wegen der triebe müssen wir uns nicht erlauben, wir sind frey. Gott hat uns nicht entdekt, wie er die Menschliche Natur richte, und wir dörfen nicht so frevelhaft seyn, seinem Urtheile vorzugreifen.
+
+**7174.**   υ?   Pr 113. Ein Gütiger Richter ist *contradictio in adiecto*.
+
+Das heilige Gesetz. Die Gütige Vorsorge. Das gerechte Gericht.
+
+**7175.**   υ?   Pr 112.   Zu § 168, 169: Ein Gut Gemüth, ein gut Herz, ein guter Charakter (g Denkungsart).
+
+Gemüth und Herz kommen blos auf die Triebe an, die moralisch seyn. Gemüth besteht blos darin, wie man gute Eindrüke aufnimmt: Niederträchtig, Undankbar, ungefällig. Herz auf die thätige Bewegungen des Gemüths: Gastfrey, mildthätig. Character besteht in Grundsätzen: schlechter, ohne, Character. Das Gemüth ist boshaft, das Herz böse, der Character schlimm oder schlecht.
+
+**7176.**   φ.   Pr 112.   In § 168: Wir müssen die Gesetze nicht nach der *infirmitate humana* denken. und den Verbrecher nicht nach der *fragilitate* beurtheilen. Wohl aber nach der ersteren von Menschen was erwarten und nach der letzteren richten. Das Gesetz muß heilig und das Urtheil Gerecht seyn vor dem Gewissen.
+
+[AA 19:265] **7177.**   φ.   Pr 112.   In § 168: *casus necessitatis sunt *indulgentiae* praestitae infirmitati humanae.* *Leges divinae non sunt indulgentes. Excusatio conniventia* *propter lubricitatem virtutis humanae casus impunitatis peccatilli*.
+
+**7178.**   υ.   Pr 113. Alles, wozu Gründe der Möglichkeit des Gegentheils wirklich anzutreffen seyn, kan sich nicht immer zutragen. Es ist zufällig. Eben darum daß unsre freyheit nicht unter einem ihr eigenthümlichen Gesetze steht, ist ihr Einflus unsicher. Die freyheit ist bey uns blos ein Vermögen, keine nach beständigen Gesetzen wirkende Kraft. Daher ist auf die maximen unsrer freyheit nicht sicher zu rechnen. Das Vermögen zum Gegentheil ist immer da, aber der *actus* fehlt.
+
+**7179.**   υ.   Pr 113   In § 169: Es giebt keine unmittelbar böse angebohrne Gesinnung, aber wohl Neigung, die aber noch nicht moralisch böse ist.
+
+**7180.**   υ.   Pr 113.   In § 169: Die Vorsetzliche Unlauterkeit der menschlichen Natur: daher *probabilismus,* *peccatum philosophicum* und *reservatio mentalis*.
+
+#### Forum.
+
+**7181.**   υ?   Pr 122. Eigentlich ist der Mensch in Ansehung seiner eignen Handlungen kein competenter Richter, weil der Richter die zwingende Gewalt haben muß, und dieses muß ein anderer seyn.
+
+Also kan der Mensch zwar sich selbst beurtheilen, aber nicht verurtheilen, rechtskräftig urtheilen oder richten; denn er kan auch seine Handlungen sich vor diesen Gerichtshof citiren oder nicht, erscheinen oder nicht, vertheidigen oder anklagen, imgleichen die Vortheilhafte Seite, wie er will, nehmen.
+
+Durch den Verstand hat er das Vermögen zu urtheilen (Gesetz), durch das Herz hat er die receptivität, die blos moralische folgen des Gesetzes:
+
+[AA 19:266] Zufriedenheit (Lossprechung) oder Reue, Vorwurf (Verurtheilung) zu empfinden. Dieses vor der Handlung heißt Gefühl, nach der Handlung Gewissen.
+
+Das Gewissen aber muß ein instinct seyn und also seinen *actus* nicht der willkühr negativ unterwerfen, weil es sonst keinen Zwang über uns ausüben könte. Es ist dte Vorrükung des tadels, welche wir nicht vermeiden können. Gewissenhaft ist der, welcher diese innere Verantwortung und das innere gericht scheuet. Ungewissenhafte, Gewissenlose können dieses forum Gantz feriieren lassen.
+
+Dieses forum bekomt seine Gewalt* nicht bricht ab.
+
+kommt auf die Empfindsamkeit an. )
+
+**7182.**   υ.   Pr 123   Zu § 183, Schlussatz: Es ist eigentlich kein *forum* als *externum*, weil kein Zwang ist, wo einer über sich selbst urtheilt; aber die bricht ab.
+
+**7183.**   φ? ψ?   Pr 121.   Zu § 182: Ob das gewissen in ansehung der handlungen der Schuldigkeit blos rechtfertigt, in Ansehung der Verdienstlichen aber belohnt. Ob es blos in Ansehung der übertretung der Schuldigkeit bestraft, in Ansehung der der Liebespflicht sich unnütz erklärt. Es scheint, das Gewissen belohne alles Gute und bestrafe alles Böse, aber in verschiedenem Grade.
+
+**7184.**   φ? ψ?   Pr 122.   Zu § 183: Es scheint, das gewissen könne nicht gnug bestrafen, weil es von unserm willen abhängt, ob wir uns desselben Bissen unterwerfen wollen oder nicht. Also ist es nur ein *forum vicarium*. Es besteht also mehr in furcht der verdienten Strafe, als der Strafe selbst.
+
+**7185.**   φ.   Pr 124.   Neben § 185: Ob tugend könne gelernt werden? Kan in zwiefacher Bedeutung genommen werden. 1. ob ohne alles moralische Gefühl, d. i. Bestimbarkeit des willens durch practische Vernunftregel, jemand, was tugend sey, verstehen [AA 19:267] würde? Antwort: --- Nein. Zweytens: ob die fertigkeit, welche sie ausmacht, könne durch Vorschriften und Nachahmung erworben werden? Ia, durch öftere Übung, aber nicht blos nach Vorschriften, sondern eigenem Antrieb.
+
+#### Forum externum
+
+**7186.**   υ.   Pr 126. Es giebt gleichsam einen magistrat in uns, der uns die fehler Vergehungen oder Verdienste der Klugheit imputirt; dessen Verweise werden oft vor sententzen des Gewissens gehalten.
+
+**7187.**   υ.   Pr 126. 1. Der innere Richter; 2. der äußere ethische *Richter (das *publicum*, welches verachtet, verabscheuet oder hochachtet und liebet); 3. der bürgerliche und eingesetzte Richter.
+
+Der ethische Richter ist zugleich ein Natürlicher; denn wir versuchen in der idee an seinem Urtheil, ob unsere Handlungen gut oder böse ist sind. Urtheile nach dem tode. Wer nach dem tode der Leiche folgt. *Noscitur* *ex socio*.
+
+* (g ein von Gott berufener, aber gewaltloser. Er kan auch nicht verurtheilen, sondern blos das positiv gute, welches er willkührlich ertheilt, als Umgang, freundschaft *etc.* *etc.* weigern. )
+
+**7188.**   υ? φ?   Pr 126. Warum entrüsten wir uns mehr darüber, wenn der Betrug das scandal, die Gewaltthätigkeit, die treulosigkeit ohne Scheu auftreten? Darum, weil sie sich mit dem Gesetze schützt; darum, weil es ein scandal ist, und zwar weil das Gesetz selber dadurch in Verachtung gebracht wird, über welches kein anderes Mittel ist, das Laster zurükzuhalten.
+
+**7189.**   υ?   Pr 129.   Neben §191, Satz 3: Project von der Errichtung eines Moralischen fori, Iuridischen.
+
+[AA 19:268] **7190.**   φ? χ?   Pr 135.   Zu §198? 200? Alle *necessitatio moralis* ist *stricta* oder *lata*. Die erste ist *per arbitrium* *alterius* (und *passiva*), die andre *per statum alterius (memet* *ipsum cogo)*. Der ersteren kan kein *motivum pragmaticum* entgegenstehen, der zweyten aber wohl. Denn ich bin zur Erhaltung eines Armen nicht *per arbitrium alterius* moralisch gezwungen; also bin ich äußerlich frey, aber innerlich bin ich verbunden. Aber die Glükseeligkeit ist auch eine innere Verbindlichkeit.
+
+**7191.**   φ? χ?   Pr 135.   Zu §198? Ie mehr iemand obiectiv necessitirt und gezwungen werden kan, desto mehr ist er subiectiv frey.
+
+Pragmatische Bewegungsgründe kommen in Gar keinen Anschlag gegen moralische. Wenn ich nicht länger als ein ehrlicher Mann leben kann, so kann ich nicht länger leben. *Casus necessitatis* (eigentlich gilt er nur von der selbsthülfe des Rechts in *statu naturali*). Das Leben ist an sich nicht ein Gut, sondern so fern man dessen würdig ist.
+
+**7192.**   φ? χ?   Pr 135.   Zu §198? Die iuristen haben recht, wenn sie behaupten, man könne einen andern umbringen, um sein leben zu erhalten. Nemlich man kan nicht gezwungen werden, dies zu unterlassen, weil die Strafe, vor die man sich scheuen soll, nicht größer sein kan als das, was zu entfliehen er die handlung thut, und das letztere nahe ist. Auch ist nur die Erhaltung des Lebens die Bedingung vom *Casu necessitatis*, weil die große Kraft des Strafgesetzes in der Lebensstrafe besteht. Doch solte ein solcher Mensch, weil er ein Leben erhält, dessen er nicht werth ist, als ein solcher durch aller Verachtung behandelt werden.
+
+**7193.**   υ?   Pr 134. Man hat aber doch ein recht, andere zu zwingen, daß sie mit Erhaltung ihres Lebens zugleich das unsrige nothdürftigst erhalten, Weil Eigenthum nur ein Antheil an der gemeinschaftlichen Ausstattung der Natur ist.
+
+[AA 19:269] **7194.**   φ? χ?   Pr 135.   Zu §198? Das Recht, weil es wechselseitig ist, erlaubt Wiedervergeltung und Zuvorkommen. Nach diesem würde der, so einen anderen zur selbsterhaltung ums Leben zu bringen trachtet, mit recht vom andern vorher umgebracht werden. Und dieses, als eine maxime voraus angenommen, macht die Einstimigkeit unmöglich.
+
+**7195.**   φ? χ?   Pr 135.   Zu §198? Die *Nothwehr* ist der einzige *Casus necessitatis* gegen den Beleidiger. Obrigkeiten, welche die selbstvertheidigung mit großer Beschädigung des andern verbieten, müssen wissen, daß sie dem Menschen sein heiligstes Recht nehmen, um dasselbe zu verwalten und als *depositairs* desselben bricht ab.
+
+### [AA 19:270] Phase ψ.
+
+**7196.**   ψ? ρ-φ?   L Bl. M 8.   S. II: Die Tugend würde glücklich machen, wenn sie allgemein ausgeübt würde; aber diese Glückseeligkeit ist nicht so viel werth als die Tugend, und diese hat ohne iene ihren innern Werth.
+
+Die Freyheit ist ein schöpferisches Vermögen. Das gute aus Freyheit ist daher ursprünglich.
+
+Die Gesetzmäßigkeit der freyheit aber ist die höchste Bedingung des Guten und die Gesetzlosigkeit das wahre und absolute Böse, was die Schöpfung des Übels. Die letztere also muß auch schlechthin und ohne Einschränkung schon der Vernunft misfallen, und dieses Misfallen muß größer seyn als das an übeln oder versehen.
+
+Die Legalitaet besteht in der Übereinstimmung mit der allgemeingültigen willkühr, so fern wir bestimmend oder bestimmbar sind.
+
+**7197.**   ψ? ρ-σ? φ-χ? (ω??)   L Bl. E 62.   S. I und II.   R II 225-226. Die Moralitaet ist die Ubereinst innere Gesetzmäßigkeit der Freyheit, so fern sie nämlich sich selbst ein Gesetz ist. Wenn wir von aller Neigung abstrahiren, so sind doch Bedingungen übrig, unter denen allein die Freyheit mit sich selbst stimmen kan. 1. daß der Gebrauch derselben mit der Bestimmung seiner eigenen Natur 2. mit andrer Zwecken, so fern sie im Ganzen harmoniren 3. Mit anderer Willkühr Freyheit überhaupt nach unter einer allgemein gültigen Bedingung zusammenstimme. Diese Vollkommenheit der Freyheit ist die Bedingung, unter der alles andre Gute [AA 19:271] vollkommenheit und Glückseeligkeit eines vernünftigen wesens allgemein wohlgefallen muß (Würdigkeit) und bleibt allein übrig, wenn alles andere kein die Gegenstände unsrer ietzigen Neigung uns alle gleichgültig werden geworden seyn.
+
+Die Bedingungen der Sinnenwelt (g als Erscheinung) sind nicht zugleich Bedingungen der intell Verstandeswelt, obgleich die Sinnenwelt ohne Grenzen ist, und also kein die Totalität derselben nicht bestimbar, so ist es doch nicht die Verstandeswelt *etc.* Obgleich aller wechsel der Erscheinungen in andern bestimmt ist, so sind doch nicht die Verstandeshandlungen durch Erscheinungen bestimmt und gehören nicht in die Kette.
+
+Pflicht gegen Menschen: 1. als Glied der Natur, 2. als Eigenthümer (*proprietarius*) der Natur *dominus potentialis*, 3. als Bürger. Das Glück anderer ist uns wichtig und schätzbar, aber das Eigenthum derselben ist heilig. Die proprietaet in Ansehung alles dessen, was zur zur substanz gehört, ist *dominium*. Also ist der Mensch *dominus a natura designatus*.
+
+S.11: Leidenschaft bringt in affect, ist aber nicht wie dieser ein Zustand sondern Gemüthsdisposition. Leidenschaft ist schädlicher als affect.
+
+*Impressio sensus mentis imperium (g qvoad intellectum) tollens* *est affectus*.
+
+*Stimulus mentis (voluntatis) imp: toll. est passio*.
+
+Es gehöret zum *imperio mentis (fac: sup:)* zuerst das *aeqvilibrium* *animi*.
+
+Was das *aeqvil*: unmöglich macht, d. i. das Vermögen, einen Theil der Sinnlichkeit mit dem Ganzen proportionirlich zu vergleichen, hebt das *imperium mentis* auf.
+
+**7198.**   ψ? υ-φ?   L Bl. Ha 30. Eine Vorschrift, unabhängig zu seyn, ist die, daß man sich gewöhne, das zu entbehren, was man nur von der Willfährigkeit der Menschen erwarten kann, *e. g.* zu Gaste gebeten zu werden (g man muß zu hause glücklich seyn) und allenfalls nur des die Dienste bedürfe, was die man blos vom Eigennutz anderer (g ihren eigenen Bedürfnissen) hoffet. Dazu aber [AA 19:272] gehört Vermögen, es sey eine Macht oder Ehre oder Reichthum in *summa*, einen Einflus zu haben.
+
+Der zweyte grad ist also, daß man auch anderer Mitwirkung überhaupt entbehren könne. (g Denn es ist nicht sicher, daß sie uns bedürfen möchten; sie können sich eben so wie wir davon losmachen. )
+
+Der dritte, daß man auch alles entbehren könne, was vom Glück abhängt und darin seine Zufriedenheit und Werth setze, daß man sich selbst niemals verringert sehen kann.
+
+**7199.**   ψ? υ-χ??   L Bl. E 61.   S. I und II.   R II 223-225. S. I: *Zur practischen philosophie*.
+
+Die erste und wichtigste Bemerkung, die der Mensch an sich selbst macht, ist, daß er durch die Natur bestimt sey selbst der Urheber seiner Glückseeligkeit und sogar seiner eigenen Neigungen und Fertigkeiten zu seyn, welche diese Glückseeligkeit möglich machen. Hieraus folgert er, daß er seine Handlungen nicht nach instincten sondern nach Begriffen, die er sich von seiner Glückseeligkeit macht, anzuordnen habe, daß die größte Besorgnis dieienige sey, welche er vor sich selbst hat: entweder seinen Begrif falsch zu machen oder sich von demselben durch thierische Sinnlichkeit ableiten zu lassen, vornämlich vor einem Hange dazu, (g diesem) seinem Begriffe zuwieder habitualiter zu handeln. Er wird sich also als ein frey handelndes Wesen und zwar dieser independentz und Selbstherrschaft nach zum vornehmsten Gegenstande haben, damit die Begierden unter einander mit seinem Begrif von Glückseeligkeit und nicht mit Instincten zusammen stimmen, und in dieser Form besteht das wohl geziemende der Freyheit eines vernünftigen Wesens geziemende Verhalten. Zuerst wird seine Handlung dem allgemeinen Zwek der Menschheit in seiner eignen Persohn gemäß eingerichtet werden müssen und also nach Begriffen und nicht instincten, damit diese unter einander zusammen stimmen, weil sie mit dem Allgemeinen, nämlich der N der Natur, zusammenstimmen. Es ist also nicht die empirische Selbstliebe, welche der Bewegungsgrund eines vernünftigen Wesens seyn soll, denn diese geht von einzelnen zu allen, sondern die rationelle, welche vom Allgemeinen und durch dasselbe die Regel vor das [AA 19:273] einzelne hernimmt. Eben so wird er gewahr, daß die seine Glückseeligkeit (g von) anderer vernünftiger wesen Freyheit abhängt, II: und wenn ein ieder sich selbst blos zum Gegenstande hat, dieses mit der Selbstliebe nicht stimmen will, daß er seine eigene Glückseeligkeit aus Begriffen und auch restringirt durch die Bedingungen so fern er Urheber der allgemeinen Glückseeligkeit ist oder wenigstens andern als Urhebern der ihrigen nicht wiederstreitet sehen müsse.
+
+Die wahre Moralitat besteht in den Gesetzen der Erzeugung der (g wahren) Glückseeligkeit aus Freyheit überhaupt. Im Anfange also, da nur blos auf Befriedigung der instincte und Wohlbefinden der Wille gerichtet wird, entsteht alles Böse eben aus der Freyheit, da der Mensch nicht durch instinct, der sonst einen weisen Urheber hat, regirt werden soll. Freyheit kan nur nach Regeln eines allgemein gültigen Willens bestimmt werden, weil sie sonst ohne alle Regel seyn würde.
+
+I: (g Causalitaet. Die Beschaffenheit der (reinen) Freyheit, dadurch sie sich selbst die Ursache der Glückseeligkeit ist; sie ist aber die Ursache der Glückseeligkeit durch die Uebereinstimmung allgemeiner Willkühr. Die innere Gutartigkeit des Willens. An sich selbst ist der Wille gut, der mit dem allgemeinen Willen zusammen stimmt. )
+
+S. II:
+
+Christus lehrte nicht die langen Psalmen Davids auch nicht die Rache gegen Feinde beten wie die Pharisäer.
+
+Eine gewisse politische Wohlfarth konte allerdings wohl daher daraus erfolgen, wenn sie durch die treue Befolgung der ihnen auferlegten Observanzen in einer gewissen beständigen Disciplin standen und unter einem priesterlichen Regiment, welches so viel über Gemüther vermag, fester als ihre Nachbarn unter sich vereinigt waren. (g Die Priester schoben alle öffentliche Uebel und Plagen auf die Uebertretung der Gottesdienstlichen Pflichten, d. i. der Ermangelung des schuldigen Gehorsams gegen sie. Hat diese Religion auch iemals gute Menschen gemacht? ) Allein die häusliche Wohlfarth wird ohne Zweifel damals so wie iederzeit nicht eben der Andacht den Gottesdienstlichen Handlungen und Begehung heiliger Gebräuche belohnt haben sondern ist mehrentheils so wie ietzt dem Fleiße der Geschicklichkeit, [AA 19:274] dem bloßen Glückswurfe, gemäß gewesen. Hieraus folgte natürlicher Weise, daß die Iuden, die nun schon angewiesen waren, ihren Gottesdienst blos vor baare Bezahlung in diesem Leben zu betreiben, wenn sie ihre Hofnungen nicht erfüllet sahen, es mit fremden Göttern versuchten.
+
+**7200.**   ψ?   L Bl. E 64.   S. I.   R II 228. Würdigkeit glücklich zu seyn.
+
+Principien der Sittlichkeit aus der Einstimmung der freyheit mit den nothwendigen Bedingungen der Glückseeligkeit üeberhaupt, d. i. aus dem allgemeinen selbstthätigen *principio* der Glückseeligkeit.
+
+Wenn die freyheit unangesehen des Zustandes, darin das freye Wesen sich befindet, mithin unabhängig von empirischen Bedingungen (der Antriebe) soll eine nothwendige Ursache der Glückseeligkeit seyn, so muß sie 1. Aus principien die Willkühr bestimmen. 2. Aus principien der Einheit so wohl mit seiner eigenen Persohn und zugleich in ansehung der Gemeinschaft mit andern, weil freyheit, die nicht äußerlich nach allgemeinen Gesetzen zusammenstimend ist, sich selbst in der Glückseeligkeit hindert in der Zusammenstimmung aber sie durchaus befördert.
+
+Principien der Einheit aller Zwecke überhaupt (vorhergehend vor allen empirischen Bedingungen der Zwecke). Mithin principien der reinen Vernunft.
+
+Die *imperativi* der Sittlichkeit enthalten die einschränkenden Bedingungen aller imperativen der Klugheit. Man muß darf nur die Glückseeligkeit unter den Bedingungen suchen, unter welchen man allein derselben würdig seyn kan, d. i. ihrer aller nothwendig theilhaftig werden würde, weil die Glückseeligkeit etwas allgemeines in der Befriedigung der Zwecke ist. sonst ist es das bloße Vergnügen. Daher pathologisch oder practisch nothwendig.
+
+**7201.**   ψ.   L Bl. G 9. S. I.   R III 30--31. Es ist wohl eine an sich selbst der Bemühung würdige Untersuchung: ob das, [AA 19:275] was man zu wissen vorgiebt, vornehmlich *a priori* zu wissen, der Gegenstand einer Wissenschaft überhaupt nur seyn könne oder nicht; den es wäre ungereimt, in solchem Falle von Warscheinlichkeiten und sogar übergroßen so gut wie gewissen Warscheinlichkeiten reden zu wollen, wo man das Erfahrungsgesetz verläßt und sich mit Ideen in unendliche Feld bloßer Möglichkeiten wagt, die nichts mit Erfahrungsgegenständen gemein haben, und davon die Urtheile sich also nicht den Erfahrungsgesetzen mehr oder weniger nähern können.
+
+Das Begehrungsvermögen, so fern es unter der Vorstellung einer Regel bestimmbar ist, heißt der Wille. Wenn die Regel als der unmittelbare Bestimmungsgrund des Willens betrachtet wird, so ist Bestimmung des Willens durch dieselbe, obiectiv, d. i. durch Vernunft betrachtet, Verbindlichkeit, ist enthält sie nur das das (g Allgemeine der) Verknüpfung eines andern Bestimmungsgrundes mit dem Willen, so heißt ist die Bestimmung des Willens nach dieser Regel (g obiectiv) durch die Vernunft pragmatische Nöthigung. Beyde sind Imperativen. Ist keiner der Bestimmungs der von der Regel unterschiedene Bestimmungsgrund blos als möglicher Gegenstand des Begehrungsvermögens anzusehen, so ist er gar kein Bestimmungsgrund des Willens sondern blos der Handlung als Mittels durch die Vernunft, und die Begierde bestimmt den Willen. Dieses ist alsdann die formale practische Nöthigung.
+
+Die Critik der practischen Vernunft legt die Unterscheidung der empirisch=bedingten practischen Vernunft von der reinen und gleichwohl doch practischen Vernunft zum Grunde und frägt: ob es eine solche, als die letzte ist, gebe. Die Möglichkeit davon kan sie *a priori* nicht einsehen, weil es das Verhaltnis eines Realgrundes zur Folge betrift, also muß etwas gegeben seyn, was lediglich aus ihr entspringen kan; und aus der Wirklichkeit kan auf die Moglichkeit geschlossen werden. Die moralische Gesetze sind von der Art, und dieses muß so bewiesen werden, wie wir die Vorstellungen von Raum und Zeit als Vorstellungen *a priori* bewiesen, nur mit dem Unterschiede, daß diese Anschauungen jene aber bloße Vernunftbegriffe betrift. Es ist hier nur der Unterschied, daß da im theoretischen Erkentnis die Begriffe keine Bedeutung und die Grundsätze keinen Gebrauch als nur in Ansehung der Gegenstände der Erfahrung haben, im practischen dagegen viel weiter, nämlich auf alle vernünftige Wesen überhaupt gehen und von allen empirischen Bestimmungsgründen unabhängig, [AA 19:276] ja, wenn ihnen auch kein Gegenstand der Erfahrung correspondirte, die bloße Denkungsart und Gesinnung nach Principien schon gnug ist.
+
+**7202.**   ψ.   L Bl. Duisburg 6.   S. I--IV.   R I 9--16. S. I: Wir haben ein wohlgefallen an Dingen, die unsere Sinne rühren, der weil sie unser Subiect harmonisch afficiren und uns unser ungehindertes Leben oder die Belebung fühlen lassen. Wir sehen aber, daß die Ursache dieses Wohlgefallens nicht im Obiecte sey, sondern in der individuellen oder auch specifischen Beschaffenheit unseres Subiects liege, mithin nicht nothwendig und allgemein=gültig sey: die Gesetze, welche die Freyheit der Wahl in Ansehung alles dessen, was gefällt, mit sich selbst in Einstimmung bringen, enthalten dagegen vor iedes Vernünftige Wesen, das ein Begehrungsvermögen hat, den Grund eines nothwendigen Wohlgefallens; darum kan uns das Gute nach diesen Gesetzen auch nicht gleichgültig seyn, so wie etwa die Schönheit; wir müssen auch Wohlgefallen an seinem Daseyn haben, denn es stimmt allgemein mit Glückseeligkeit mithin auch mit meinem Interesse.
+
+Die Materie der Glückseeligkeit ist sinnlich, die Form derselben aber ist intellectuel: diese ist nun nicht anders möglich als Freyheit unter Gesetzen *a priori,* ihrer Einstimmung mit sich selbst, und dieses zwar nicht um Glückseeligkeit wirklich zu machen, sondern zur Möglichkeit und Idee derselben. Denn die Glückseeligkeit besteht eben im Wohlbefinden, sofern es nicht äußerlich zufällig ist, sondern auch nicht empirisch abhängend, sondern auf unsrer eignen Wahl beruht. Diese muß bestimmen und nicht von der Naturbestimmung abhängen. Das ist aber nichts anders als die wohlgeordnete Freyheit.
+
+Nur der ist fähig glücklich zu seyn, dessen Gebrauch seiner Willkühr nicht deren *datis* zur Glückseeligkeit, die ihm Natur giebt, zuwieder ist. Diese Eigenschaft der freyen Willkühr ist die *conditio sine qva non* der Glückseeligkeit. Glückseeligkeit ist eigentlich nicht die (g größte) Summe des Vergnügens, sondern die Lust aus dem Bewustseyn seiner Selbstmacht zufrieden zu seyn, wenigstens ist dieses die wesentliche formale Bedingung [AA 19:277] der Glückseeligkeit, obgleich noch andere materiell (wie bey der Erfahrung) erforderlich sind.
+
+Die Function der Einheit *a priori* aller Elemente der Glückseeligkeit ist die nothwendige Bedingung der Moglichkeit desselben daß und das Wesen derselben. Die Einheit *a priori* aber ist die freyheit unter allgemeinen Gesetzen der Willkühr, d. i. Moralitaet. Das macht die Glückseeligkeit als solche moglich und hangt nicht von ihr als dem Zwecke ab und ist selbst die ursprüngliche form der Glückseeligkeit, bey welcher man der Annehmlichkeiten gar wohl entbehren und dagegen viel Uebel des Lebens ohne Verminderung der Zufriedenheit, ia selbst zur Erhebung derselben, übernehmen kann.
+
+Seinen Zustand angenehm zu finden, beruht auf dem Glück, aber sich über die Annehmlichkeiten dieses Zustandes als Glückseeligkeit zu erfreuen, ist dem Werth derselben nicht angemessen; sondern Glückseeligkeit muß von einem Grunde *a priori,* den die Vernunft billigt, herkommen. Elend zu seyn, ist nicht die nothwendige Folge von Übeln des Lebens.
+
+Vor die Sinne kan keine völlige Befriedigung ausgefunden werden, nicht einmal läßt sich mit gewisheit und allgemein bestimmen, was den Bedürfnissen derselben gemas sey; sie steigen immer in der Forderung und sind unzufrieden ohne bestimmen sagen zu können, was ihnen denn gnug thue. Noch weniger ist der Besitz dieser Vergnügen wegen der Veranderlichkeit des Glücks und der Zufalligkeit günstiger Umstande und der Kürze des Lebens gesichert. Aber die durch die Vernunft belehrte Gesinnung, sich aller der Materialien zum Wohlbefinden wohl zu und einstimmig zu bedienen, sind *a priori* gewis, lassen sich vollständig erkennen und gehören uns selbst an, so daß selbst der Tod als passiver Zustand ihren Werth nicht vermindert.
+
+S. II: Es ist wahr, die Tugend hat den Vorzug, daß sie aus dem, was Natur darbietet, die größte Glückseeligkeit Wohlfahrt zuwege bringen würde. Aber darin besteht nicht ihr hoher Werth, daß sie gleichsam zum Mittel dient. Daß wir es selbst sind, die als Urheber sie unangesehen der empirischen Bedingungen (welche nur particuläre Lebensregeln geben können) hervorbringen, daß sie *Selbstzufriedenheit* bey sich führe, das ist ihr innerer Werth.
+
+[AA 19:278] Es ist ein gewisser Hauptstuhl (Fonds, Grundstück) von Zufriedenheit nothig, daran es niemand fehlen muß, und ohne welchen keine Glückseeligkeit moglich ist, das übrige sind accidentien (*reditus fortuiti*). Dieser Hauptstuhl ist die Selbstzufriedenheit (gleichsam *apperceptio iucunda* *primitiva*). Da er weder von Naturgeschenk noch von Glück und Zufall abhängen muß, weil diese zu unsern wesentlichen und höchsten Zwecken nicht von selbst zusammenstimmen müssen. Da die Zufriedenheit damit nothwendig, mithin *a priori* und nicht blos nach empirischen Gesetzen, die niemals apodictisch gewis, und allgemein zusammenhangen muß, so muß iener 1. auf der freyen Willkühr beruhen, damit wir uns ihn selbst nach der Idee des höchsten Guts machen können. 2. diese Freyheit muß zwar unabhängigkeit von sinnlicher Nothigung seyn, aber doch nicht ohne alles Gesetz. Also, muß da keine noch höhere Bewegungsgründe und ein höheres Gut gegeben worden, so muß es in der Freyheit bestehen nach Gesetzen, einer durchgängigen Zusammenstimmung mit sich selbst, welche alsdenn den Werth und die Würde der Person ausmachen wird.
+
+In dem Bewußtsein hat der Mensch ursach, mit sich selbst zufrieden zu seyn. Er hat die Empfänglichkeit aller Glückseeligkeit, das Vermögen auch ohne Lebens=annehmlichkeiten zufrieden zu seyn und glücklich zu machen. Dieses ist das intellectuelle der Glückseeligkeit.
+
+In diesem Hauptstuhl ist nichts reales, kein Vergnügen als die Materie der Glückseeligkeit, aber gleichwohl die formale Bedingung der Einheit, welche jener Wesentlich ist, und ohne die die Selbstverachtung uns das Wesentliche vom Werthe des Lebens, nämlich den Werth der Person, wegnimmt. Sie ist als eine Spontaneität des Wohlbefindens.
+
+Das Gute des Lebens oder die Glückseeligkeit: entweder wie sie erscheint, oder wie sie ist. Das letztere wird durch moralische categorien vorgestellt, die aber nicht auf besondere Gegenstände sondern die des Lebens und der Welt gehen, aber um die Einheit derselben in einer einzigen moglichen empirischen Glückseeligkeit festzusetzen. An sich selbst stellen sie nicht etwas Gutes vor sondern blos die Form der Freyheit, die empirische *data* zum wahren und selbständigen Guten zu nützen.
+
+**(g** Die Glückseeligkeit ist nicht etwas empfundenes sondern Gedachtes. Es ist auch kein Gedanke, der aus der Erfahrung genommen [AA 19:279] werden kann, sondern der sie allererst moglich macht. Nicht zwar als ob man die Glückseeligkeit nach allen ihren Elementen kennen müsse, sondern die Bedingung unter *a priori,* unter der man allein der Glückseeligkeit fähig seyn kan.
+
+Alle unsere Handlungen, die auf empirische Glückseeligkeit gehen, müssen diesen Regeln gemäß seyn, sonst ist nicht die Einheit darin anzutreffen, welche bricht ab. **)**
+
+S. III: Ein Mensch von solchen moralischen Gesinnungen ist würdig glücklich zu sein, d. i. in den Besitz aller Mittel zu kommen, dadurch er seine und anderer Glückseeligkeit bewirken könne.
+
+Damit aber die Moralität über alles und zwar schlechthin gefalle, ist nöthig, daß sie nicht aus dem Gesichtspuncte der einzelnen und eigenen Zuträglichkeit, sondern aus dem einem allgemeinen Gesichtspuncte *a priori,* d. i. vor der reinen Vernunft, gefalle und zwar, weil sie allgemein zur Glückseeligkeit nothwendig und derselben auch würdig ist. Gleichwohl vergnügt sie darum doch nicht, weil sie das Empirische der Glückseeligkeit nicht verspricht; sie enthält also an sich keine Triebfedern; dazu werden immer empirische Bedingungen, nämlich Befriedigung der Bedürfnisse, erfordert.
+
+Moralität ist die Idee der freyheit als eines Princips der Glückseeligkeit (regulatives Princip der freyheit Glückseeligkeit *a priori*). Daher müssen die Gesetze der Freyheit unabhängig von der Absicht auf eigene Glückseeligkeit gleichwohl die formale Bedingung derselben *a priori* enthalten.
+
+Ich höre ein Verbot: Durch Du solst nicht lügen! und warum nicht? Darum, weil es dir selbst schädlich ist, d. i. deiner eignen Glückseeligkeit wiederstreitet (*Epicur*). Allein ich bin klug gnug, um in allen fällen, wo es mein Vortheil mit sich bringt, bey der Warheit zu bleiben, aber auch in allen, wo mir die Lüge nützlich seyn kann, Ausnahmen von der Regel zu machen. Allein deine Lüge ist der allgemeinen Glückseeligkeit zuwieder! Was geht die mich an, antworte ich, mag ein ieder vor die seinige sorgen. - Aber diese Glückseeligkeit liegt dir selbst am Herzen, oder auch diese Lüge findet in dir selbst einen Abscheu (*Stoiker*). Darüber, antworte ich, kann ich allein urtheilen. Es mögen andere so zärtlichen Geschmacks seyn, daß [AA 19:280] eine Lüge auszustoßen ihr innerstes umkehrt, bey mir ist es anders; ich lache, wenn ich iemanden habe überlisten können und zwar mit solcher Überlegung, daß es nicht entdeckt wird. Euer Gefühl mag vor euch entscheiden, ihr könnt es aber mir nicht zum Gesetz machen. Allein, spricht ein dritter, du magst nun die Lüge weder als dir schädlich noch als an sich selbst abscheulich fliehen oder belieben, so bist du nicht frey zu thun, was du wilst. - Siehe über dir das Höchste Gut, was in seinen Ideen die deine Vernunft anschauen kan, sie mit der Person selbst, die ihr ergeben ist, ausstößt und sie von der Glückseeligkeit ausschließt. *Platoniker*. Woher wißt ihr die Ideen dieses höchsten Wesens? Ich besinne mich nicht, iemals mit einer solchen in Bekantschaft gelanget zu seyn. Sind diese Ideen nicht vielleicht zufällige Producte der Erziehung des eingeführten Gebrauchs? Und wozu woher wißt ihr, daß ein solches Höchste Wesen, daß ihr nur durch Vernunft kennt, sie verabscheue als darum, weil sie an sich verabscheuungswürdig ist, das ist es aber eben, woran ich zweifle und wovon ihr mir den Zweifel nicht habt benehmen können.
+
+**(g** Der Lehrbegrif der Moralitaet aus dem princip der reinen Willkühr.
+
+Dieses ist das princip der Selbstzufriedenheit *a priori* als der formalen Bedingung aller Glückseeligkeit (parallel mit der apperception).
+
+Das erste, was der Mensch thun muß, ist, daß er die Freyheit unter Gesetze der Einheit bringt; denn ohne dieses ist sein Thun und Lassen lauter Verwirrung.
+
+Gebet einem Menschen von viel Verstand alle Mittel zur Glückseeligkeit in Händen, die Neigungen werden doch mit ihm ihr Spiel treiben und den Verstand in ihre Gemeinschaft ziehen -- **)**
+
+S. IV: Nachdem ich auf solche Weise alle fremde Überredungen abgewiesen habe, so kehre ich mich selbst zurük und finde, ungeachtet es mir frey stand, es andern zu verheelen und niemand mir überzeugende Beweise davon geben konte, in mir ein Princip der Misbilligung und eines unauslöschlichen innern Abscheu, der zwar bisweilen von entgegenstehenden Anreitzen mag überwogen werden niemals aber vertilgt werden kan. Worauf beruht diese Misbilligung? ist es unmittelbar Gefühl der Schandlichkeit, [AA 19:281] ist es verstekte Reflexion über die Schädlichkeit, ist es Furcht vor einem unsichtbaren Richter? denn Gewonheit kan es nicht seyn, weil sie sonst nicht allgemein und unbezwinglich seyn würde.
+
+Da die Frage ist, ob meine Freyheit in diesem Puncte durch nichts eingeschränkt sey, so finde vermuthe ich einen Grund der Auflösung derselben, der nicht blos auf diesen fall, sondern überhaupt auf freyheit geht. Freyheit ist an sich selbst ein Vermögen, unabhängig von empirischen Gründen zu thun und zu lassen. Also kan es keine Gründe geben, welche uns in allen dergleichen Fällen empirisch zu bestimmen das Gewicht hätten. Die Frage ist also: wie darf ich mich meiner freyheit überhaupt bedienen? Ich bin frey aber nur vom Zwange der Sinnlichkeit und nicht, kan aber nicht zugleich von einschränkenden Gesetzen der Vernunft frey seyn; denn eben darum, weil ich von ienem frey bin, muß ich unter diesen stehen, weil ich sonst von meinem eigenen Willen nicht sagen kan. Nun muß mir dieienige Ungebundenheit, dadurch ich wollen kan, was meinem Willen selbst zuwieder ist, und ich keinen sicheren Grund habe, auf mich selbst zu rechnen, im höchsten Grade misfällig seyn, und es wird *a priori* ein Gesetz als nothwendig erkannt werden müssen, nach welchem die freyheit auf die Bedingungen restringirt wird, unter denen sie (g der Wille) mit sich selbst zusammen stimmt. Diesem Gesetze kan ich nicht entsagen, ohne meiner Vernunft zu wiederstreiten, welche allein practische Einheit des Willens nach principien festsetzen kan. Diese Gesetze bestimmen einen Willen, den man den reinen Willen nennen kan, der vor allem empirischen vorausgeht, und bestimmen ein reines practisches Gut, welches das höchste obgleich nur formale Gut ist, weil es von uns selbst geschaffen mithin in unserer Gewalt ist und auch alles empirische, so fern es in unserer Gewalt ist, der Einheit nach in Ansehung des vollständigen Guts, nämlich einer reinen Glückseeligkeit, moglich macht. Wieder diese Regel muß keine Handlung streiten; denn alsdenn streitet sie mit dem Princip der Selbstzufriedenheit, welche die Bedingung aller Glückseeligkeit ist, sie mag nun *a posteriori* verschaft werden oder auch *a priori* in unserer Denkungsart beruhen, auf andere oder auf uns selbst gehen. Diese Beschaffenheit der freyen Willkühr bestimmt des Menschen persönlichen und absoluten Werth. Das übrige, was ihm innerlich ist, nur seinen bedingten, sofern er nämlich sich seiner Talente wohl bedient. Auch ist er nur sofern der Mittel zur Glückseeligkeit [AA 19:282] würdig (denn Glückseeligkeit ist ein Product der eignen Menschenvernunft), weil er nur nach diesen Gesetzen mit dem Vernunftbegriffe derselben zusammen stimmen kan. Am Rande: Worinn besteht aber dieses moralische Gesetz? 1. In der Übereinstimmung der natürlichen Begierden mit der Natur seiner selbst.
+
+2. in der Übereinstimmung der beliebigen und zufälligen Begierden mit der Natur und unter einander; folgich in der Idee eines allgemeinen Willens und den Bedingungen, unter denen ein solcher, der ieden besondern unter sich enthält und einschränkt, möglich ist.
+
+Ohne diese Einheit muß die Freyheit in unseren eigenen Augen das größte Übel seyn, und wir hätten Ursache aus Instinct mithin vernunftlose Thiere zu seyn. Mit dieser Einheit ist sie das größte und eigentlich absolute Gut in iedem Verhältnisse.
+
+Die Idee des allgemeinen Willens hypostasirt, ist das höchste selbständige Gut, das zugleich der zureichende Quell aller Glückseeligkeit ist: das Ideal von Gott.
+
+Practische Gesetze entweder aus Begriffen oder aus Erfahrungen. Iene sind entweder reine Begriffe oder empirische. Die reine practische Gesetze sind entweder analytisch oder synthetisch. Wie sind die letzern möglich?
+
+**7203.**   ψ.   Pr VII. VIII. Pr VII: philosophie: 1. theoretisch: Erkentnislehre und Geschmakslehre; 2. practisch: *a posteriori* Glükseeligkeitslehre; *a priori* Sittenlehre.
+
+Philsophie 1. als Wissenschaft, 2. als Weisheit zum Ganzen aller Zwecke.
+
+Logic, Aesthetic und practische Philosophie (so fern sie *principia* *a priori*). (g von obiecten): Metaphysik und Moral.
+
+Erkentnis, Gefühl, Begierde. Verstand, Geschmak und Wille haben Erkentnisse *a priori.* Logic, aestehtic, Moral.
+
+[AA 19:283] Pr VIII: Natur und freyheit. Die obiective Bedingungen des Verhaltens lehrt moral, die subiectiven anthropologie.
+
+Sittenlehre vom höchsten Gut.
+
+**7204.**   ψ? υ? φ?   Pr 127. 126. Pr 127: Das Vornehmste problem der moral ist dieses: Die Vernunft zeigt, daß die allgemeine durchgängige Einheit aller Zweke eines Vernünftigen Wesens so wohl in ansehung seiner selbst als andrer, mithin die formale Einheit im Gebrauche unserer freyheit, d. i. die moralität, wenn sie von jedermann ausgeübt würde, die Glükseeligkeit durch freyheit hervorbringen und vom allgemeinen zum besondern ableiten würde und daß umgekehrt, wenn die allgemeine Willkühr jede besondere bestimmen solte, sie nach keinen andern als moralischen principien verfahren könte. Es ist aber zugleich klar, daß, wenn nur einer sich diesen Regeln unterwerfen wolte, ohne sicher zu seyn, daß es andere auch thun würden, seine Glükseeligkeit auf diesem wege nicht zu erhalten sey. Nun frägt sich, was noch übrig bleibe, um gleichwohl den Willen eines jeden (gutdenkenden) zu bestimmen, sich dieser Regel als einer unverletzlichen zu unterwerfen*: ob die glükseeligkeit nach der Ordnung der ewigen Vorsehung oder die bloße würdigkeit Glüklich zu seyn (nach aller Urtheil, da er, so viel an ihm ist, zu aller Glükseeligkeit beyträgt) oder die bloße Idee der Einheit im Geb der Vernunft im Gebrauch der freyheit. Dieser letzte Grund ist nicht gring zu schätzen. Denn die Selbstbestimung aus principien giebt allein einen Grund der Einheit der praecognition aller Handlungen her, und, da die Vernunft als eine bestimmende Ursache von aller Zeit und Bedingung der Sinnlichkeit unabhängig auf alles Daseyn des vernünftigen Wesens geht, so ist dieses ein *principium* der freyen Handlungen in Beziehung auf ewige Dauer. Wenn aber Menschen ewig leben solten, so würde das Wohlverhalten auch glüklich machen. Die Selbstzufriedenheit der Vernunft vergilt auch die Verluste der Sinne.
+
+Pr 126: Gleichwie die identität der apperception ein (g *principium* der) *synthesis*
+
+[AA 19:284] *a priori* vor alle mögliche Erfahrung ist, so ist die identität meines wollens der form nach ein *principium* der glükseeligkeit aus mich selbst, wodurch alle Selbstzufriedenheit *a priori* bestimt wird.
+
+Ich kan nur, wenn ich nach principien *a priori* handle, immer eben derselbe in der Art meiner Zweke seyn, innerlich und äußerlich. Empirische Bedingungen machen verschiedenheiten.
+
+(g transscendentale Einheit im Gebrauch der freyheit. )
+
+Pr 127: * (g was kan mich dieses *principium (g a priori)* der allgemeinen Einstimung der freyheit mit sich selbst interessiren? Die freyheit nach principien empirischer Zweke hat keine durchgängige Einstimmung mit sich selbst; ich kan mir daraus nichts zuverläßiges in ansehung meiner selbst vorstellen. Es ist keine Einheit meines willens. Daher sind restringirende Bedingungen des Gebrauchs derselben absolut nothwendig. Moralitaet aus dem *principio* der Einheit. Aus dem princip der warheit. Daß man sein *principium,* was man öffentlich bekennen darf, befolgt, also vor jedermann gilt. Vollkommenheit der form nach: die allgemeine Zusammenstimung der freyheit mit den wesentlichen Bedingungen aller Zweke, d. i. Zwekmäßigkeit *a priori*. )
+
+**7205.**   ψ? φ?   Pr 133. *moral* ist die Wissenschaft, welche die principien der Einheit aller möglichen Zweke vernünftiger Wesen *a priori* enthält. 1. Bedingungen dieser Einheit. 2. Praktische nothwendigkeit dieser Einheit. Pragmatisch (empirisch) bestimt ist die Einheit aus den Begriffen von Glükseeligkeit. Rational aus dieser Glükseeligkeit, so fern sie blos eine wirkung der freyheit ist.
+
+**7206.**   ψ? φ? χ?   Pr II'. Die Glükseeligkeit ist nur unter der restriction gut, daß man derselben würdig sey, und die Bedingung der würdigkeit ist der gute Wille. (s Dieser ist schlechthin gut, in aller absicht ohne restriction. )
+
+Talente und glüksgaben sind nur so fern gut, als man einen willen hat, sich derselben wohl zu bedienen. also ist der Gute Wille als die Bedingung, [AA 19:285] ohne welche nichts gut seyn würde, ohne restriction, d. i. absolut Gut.
+
+**7207.**   ψ? υ? φ?   Pr II'. Der problematische *imperativus* hat keine *causas impulsivas*, weil der Zwek problematisch ist. Daher sind die *imperativi* dieser Art auch nur hypothetisch. Die pragmatische sind categorisch, aber mit restriction, so fern diese Handlung an sich selbst gut ist. Der moralische *imperativus* imperirt absolut.
+
+**7208.**   ψ? φ?   Pr I'. Gewissenhaftigkeit ist die Maxime, seine Handlungen sich selbst nach der moralischen Beschaffenheit der Gesinnungen (die zum Grunde der Handlungen liegen) zu richten. Gute Handlungen können wohl auch aus Eigenutz geschehen, oder ob man gleich keinen Gott annimmt; aber gewissenhaft kan niemand ohne Religion seyn.
+
+**7209.**   ψ? φ?   Pr IV'. *Principien der Verbindlichkeit*.
+
+Außer den subiectiven Gesetzen, wodurch Handlungen geschehen, giebt es obiective Gesetze der freyheit und Vernunft, welche Bedingungen möglicher guter Handlungen enthalten und also sagen, was geschehen soll. Diese sind imperativen. Die imperativen nöthigen die freyheit durch Gründe des Vernünftigen Beliebens, also durch sich selbst. Es ist aber eine Handlung auf zwiefache weise nothwendig: entweder weil ich etwas anderes will als ein Mittel meines eigenen Willens oder nach allgem aus der Natur der Willkühr selbst. Das erstere entweder als ein Mittel zu einem blos möglichen (g und Zufälligen), das zweyte als ein Mittel zu einem subiectiv nothwendigen Zweke. Die erstere imperativen sind problematisch, die zweyte pragmatisch (jene: der Geschiklichkeit aus der Beziehung auf Aufgaben, die zweyte: der Klugheit, welche sich auf iedes eigene glückseligkeit beziehen.) Es giebt aber noch obiective Gesetze, welche die freyheit aus sich selbst, folglich unmittelbar bestimmen oder restringiren. Diese necessitationen heißen Verbindlichkeiten. Sie könen auf nichts anderem beruhen als auf der freyheit, so fern sie mit sich selbst in Ansehung aller Zweke überhaupt zusammenstimt. 1. Der freyheit als einem *principio* in Ansehung [AA 19:286] seiner eignen Persohn, welche durch die Bedingungen der Persöhnlichkeit restringirt wird, damit sie nicht der Menschheit in seiner eignen Persohn wiederstreite. (pflichten gegen sich.) 2. Der freyheit als einem *principio* der allgemeinen Glükseeligkeit, d. i. der Zusammenstimung mit allen Privatneigungen nach einer Regel. (gütigkeit gegen andere.)
+
+**7210.**   ψ? φ? ω?   Pr IV'. Die größte Vollkomenheit ist die freye Willkühr, und daraus kan auch das größte Gut entspringen und aus der Regellosigkeit das größte Böse. Daher die wesentliche Bedingung die Unterwerfung der freyen Willkühr unter Regeln ihres *wechselseitigen* Gebrauchs ist, nemlich so wie sie sich wieder auf freyheit bezieht. (g Zweytens die restriction der freyheit durch die Natur, drittens die Erwirkung derselben zu den Zweken beyder. )
+
+Ich lasse den Zwek anderer unbestimmt. Nur ich hindere keinen, sich nach seinem Willen so glüklich zu machen, als er kan, so fern er nur nicht meiner Willkühr wiederstreitet. negatives (restringirend) Gesetz der freyheit ist die wesentliche *conditio sine qva non* in ansehung andrer. negative Bedingungen sind wesentliche.
+
+**7211.**   ψ? φ? ω?   Pr IV'. Die Sittlichkeit ist die practische allgemeine Bedingung der Glükseeligkeit, und sie ist ein System derselben aus freyheit sich der Glükseeligkeit würdig zu machen; dreyfache Einheit der Willkühr aus dreyfacher allgemeinheit:
+
+1, Unbedingte Allgemeinheit gegen iedermann und allezeit.
+
+2. Bedingte nach dem Maas des Vermögens und eignen Glüks gegen einen oder andern.
+
+3. Collective Allgemeinheit gegen die *universalitatem* (diese ist etwas Einzelnes).
+
+[AA 19:287] **7212.**   ψ? φ?   Pr IV'. Es muß Regeln des Gebrauchs der freyheit überhaupt geben, die vor den sinnlichen Antrieben vorhergehen. Diese gehen auf eine Regelmäßige freyheit, welche also den Bedingungen Gemäß ist, unter denen die freyheit allein ein Gut seyn kan. Die Verletzung derselben kan durch kein Gut ersetzt werden; die herrschafft der Vernunft hört auf, und der Gebrauch derselben nach sinnlicher Anlockung ist unzuverlässig. Zudem ist das keine wahre freyheit, wobey das principium nicht von Sinnen unabhängig ihnen allen ein Gesetz giebt.
+
+**7213.**   ψ? φ?   Pr IV'. Die moralitaet ist die *legalitas arbitrii puri*, folglich die Gesetzmäßigkeit der freyheit unabhängig von allen sinnlichen Antrieben. Sie hat also gar keine empirische principien. Aber alle empirische principien sind nur legal, so fern sie den Gesetzen des *arbitrii puri* nicht wiederstreiten.
+
+Die *Nomothetic* der reinen Willkühr hat *vim motricem* in dem Werthe, den derienige auf sich selbst setzen kan. Der an sich selbst keine Ursache des Bösen bricht ab.
+
+**7214.**   ψ? φ?   Pr VII'. Es giebt regeln, von denen man zwar Ausnahmen machen müste, um seinen Zwek in gewissen Fällen zu erreichen; weil aber diese Ausnahmen empirisch, also durch Neigung bestimt seyn, so ist keine gewißheit eines im Ganzen Guten Ausganges. Daher müssen solche Regeln unverletzlich seyn, weil sie in Ansehung des Wesentlichen Sicherheit geben.
+
+**7215.**   ψ? φ?   Pr VIII'. Die Ehre ist die einzige Neigung, die auf Grundsätze gebaut werden kan, weil der unpartheische Beyfall anderer nur auf Grundsätze beruht, daher Ehrliebe mit der tugend verwandt ist.
+
+**7216.**   ψ? φ?   Pr VIII'. Im Anfang der moral muß zuerst gehandelt werden: vom an sich guten oder bösen. Nichts ist (g schlechthin) an sich Gut als ein Guter Wille. Darnach Urtheilt man auch, ob ein Mensch Gut sey. Selbst das höchste [AA 19:288] wesen ist nur dadurch Gut. Unglük ist ein Übel, aber in manchen fällen ein Gegenstand der Billigung; das Gute im physischen ist immer relativ.
+
+**7217.**   ψ? φ?   Pr VIII'. VII'. Pr VIII': # Der *empirism* der sittlichkeit beweiset nur, daß niemand eine lüge billigt; aber der *rationalism*: daß er es nicht billigen kan*, und zwar vor sich allein; daher sind blos im letzten fall die moralische imperativen apodictisch. Die Ursache ist: weil eine freyheit ohne regel als allgemeine Befugnis genommen sich selbst wiederstreitet. Das System ist also ein rationales System der mit sich selbst allgemein einstimigen freyheit.
+
+Pr VII': # weil der Gute Wille die Würdigkeit enthält glüklich zu seyn, so kan er nicht darum gut seyn, weil er auf eigne Glükseeligkeit geht, auch nicht schlechthin auf anderer, weil deren Glük nicht immer Gut ist.
+
+\# Die freyheit ist das größte Gut und das größte Übel. Die Regeln der freyheit müssen daher die Wichtigsten seyn. Dies bestätigt sich dadurch: daß blos ein Guter Wille an sich gut ist. Der gute Wille ist selbst beym höchsten Wesen die Bedingung, um deren willen wir die übrigen Eigenschaften hinzuwünschen.
+
+Pr VIII': * (g Diese Misbilligung ist keine Unruhe, sondern tadel und geschieht vermittelst des Urtheils aus allgemeiner Willkühr. Sie geschieht ohne Beziehung auf einen privat Endzwek, also blos durch Vernunft. Hier ist also die Vernunft das *principium* constitutiver oder obiectiver Grundsätze. Und was nicht mit den Vernunftgrundsätzen der freyheit zusammenstimt, ist obiectiv (practisch) unmöglich. Sonst haben vernunftgrundsätze nur subiective Gültigkeit. Ursache: weil freyheit ein Vermögen *a priori* ist zu handeln. )
+
+**7218.**   ψ? φ?   Pr VII'. entehre erniedrige die Menschheit nicht in deiner eignen Persohn.
+
+[AA 19:289] **7219.**   ψ? φ?   Pr VIII'. Übel ist, was wir zwar sinnlich, d. i. der Empfindung nach iederzeit verabscheuen, was aber der Vernunft nach oft beyfall findet. Böses aber ist, was nothwendiger Weise misbilligt wird. Also machen die Übel des Lebens nicht etwas Böses aus, sondern einen Prüf=Stein des guten.
+
+#### Obligatio in genere.
+
+**7220.**   ψ? (υ-χ?)   Pr 11.   Zu Cap. I Überschrift: Man stelle sich die Freyheit, d. i. eine Willkühr vor, die von Instinkten oder überhaupt der Leitung der Natur unabhängig ist. so ist sie an sich selbst eine Regellosigkeit und der Ursprung alles Übels und aller Unordnung, wo sie nicht sich selbst eine Regel ist. Es muß demnach die freyheit unter der Bedingung der allgemeinen Regelmäßigkeit stehen und eine Verständige freyheit seyn, sonst ist sie blind oder wild.
+
+Was das *principium* der Regeln im Gebrauch der Freyheit überhaupt ist, ist moralisch.
+
+Das *principium* der Regeln der Empfindung, es sey der Sinne oder der apperception, oder vielmehr das Wohlgefallen aus der Regelmäßigkeit der Empfindung der Gegenstände oder der apperception ist der Geschmak. Die Regel kan die Einsiimung der Vorstellungen unter einander oder dieser blos mit dem subiect betreffen; im letzten falle ists Gefühl.
+
+**7221.**   ψ.   Pr 6.   In §15: *motiva moralia* unterscheiden sich nicht den Graden nach, sondern der Art nach von allen andern.
+
+**7222.**   ψ.   Pr 7.   In §19: Man muß die *stimulos* und *motiva* weder in der Regel noch in der *praxis* unter einander mengen.
+
+**7223.**   ψ.   Pr 8.   Unter §22: *obligatus erga non obligantem*, z. E. in Ansehung der Pflicht gegen sich selbst; also *obligatio nec activa nec passiva, qvoniam non est relatio*.
+
+[AA 19:290] **7224.**   ψ.   Pr 9.   In §23: Der unmoralische Zusatz zu moralischen Bewegungsgründen verbessert und vermehrt den Werth der ersten nicht, sondern verschlechtert ihn so gar. Es entspringt daraus eine zweydeutige Schätzung aus dem innern Werth und der Nachfrage, ob Gott oder der böse Geist mehr bezahle. Dieser zwar promt in dieser Welt, iener spat, aber die Ewigkeit durch. Ie mehr eigennütziger Bewegungsgrund, desto weniger moralitaet. Die Reinigkeit macht hier den Werth aus.
+
+**7225.**   ψ.   Pr 11. Die *rationes obligandi* sind der *species* nach von allen *Caussis impulsivis*, die von einem obiect der Willkühr hergenommen sind, unterschieden. Sie bestehen blos in der Form des Willens, welche an sich legal seyn muß.
+
+**7226.**   ψ.   Pr 11.   Zu §28 Anfang: Moralische Gesetze müssen nicht empirisch, sondern apodictisch gelten.
+
+**7227.**   ψ? (υ-χ?)   Pr 12.   Zu §31: physische Begehungen sind oft nur moralische Unterlassungen, *e. g.* einen Armen, der mir schuldig ist, auspfänden. Eine Handlung, die dem Rechte wiederstreitet, ist positiv böse; ist sie diesem gemäs, so ist sie negativ gut. Eine Handlung, die der Gütigkeit wiederstreitet, ist negativ böse; ist sie aus ihr entsprungen, so ist sie positiv gut.
+
+**7228.**   ψ? (υ-χ?)   Pr 13. Alle subiective Verbindlichkeit gründet sich doch zuletzt in der obiectiven. Denn woher bin ich Verbunden, einem andern Willen zu gehorchen?
+
+**7229.**   ψ.   Pr 12. Alle obligation beruht auf der Form der maxime; die materie derselben kan sie nicht zur allgemeinen Regel machen, denn die ist willkührlich. Selbst der Begrif der Vollkommenheit, wenn diese eine Realität bedeuten soll setzt oder blos *consensus* des Manigfaltigen zu einem, setzt ein Zufälliges Gefühl des Wohlgefallens voraus. Der Wille aber als frey muß determinirt seyn, folglich nur so fern er allem Wollen zur Regel dienen kan.
+
+[AA 19:291] **7230.**   ψ.   Pr 13.   Am Rand oben über §29: *Regulae (practicae absqve necessitate absoluta, sed tantum ab obiecto* *depromta consilia).*
+
+*Leges --- Praecepta (Statuta).*
+
+**7231.**   ψ? (φ-χ?)   Pr 13.   In §29: Wenn wir darum die moralische Gesetze befolgen müssen, weil sie gott gebothen hat, so ists *obligatio positiva*. Ists umgekehrt, so ist sie *naturalis*.
+
+**7232.**   ψ? (υ-χ?)   Pr 13.   Zu §31: Die Unterlassung einer nothwendigen Regel ist *peccatum*.
+
+Die Unterlassung einer willkührlichen und Zufalligen: *defectus ad* *esse* oder *ad melius esse*. In äußeren Pflichten werde ich entweder blos durch meine oder auch anderer Wilkühr moralisch genöthigt; in Ansehung des andern Menschen ist meine Unterlassung im ersten Falle reaction, im zweyten bloße omission.
+
+**7233.**   ψ? (υ-χ?)   Pr 15.   In §36: Wo eine bewegende Kraft der Vernunft ist (*motivum morale*) und doch die Wirkung nicht geschieht, da muß eine reaction seyn. Also ist alle physische Unterlassung alsdenn moralische Begehung:
+
+**7234.**   ψ? (υ-χ?)   Pr 15.   In §36: In Ansehung der moralität ist a die Gute, --- a die Böse und 0 die indifferente Handlung. In Ansehung der folgen aber a Verdienst, --- a Schuld und 0 das, was Recht ist.
+
+**7235.**   ψ.   Pr 16.   In §36: *Moralitas a legalitate actionis distingvenda*.
+
+**7236.**   ψ? (υ-χ?)   Pr 20. Zum Herzen muß kein anderer Zugang seyn als durch den Verstand.
+
+[AA 19:292] Das Herz urtheilt nicht, es hat blos eine bewegende Kraft. In ihm liegt das Gefühl, aber die Urtheilskraft muß unterscheiden, was ihm rechtmäßig zugehöre. Die, so beständig auf das Gute Herz gehen, die Romanschreiber, die es in Bewegung setzen, bringen es in phantastische oder blos leere Aufwalung und machen es weich und schwach. Das redliche Gemüth ist ruhmwürdiger als das beste Herz.
+
+**7237.**   ψ? (υ-χ?)   Pr 20. Ob nur ein laster und eine Tugend sey.
+
+Daß der Schmerz nichts Böses (Übel),
+
+daß das Vergnügen nichts Gutes sey (Annehmlichkeit).
+
+Daß *honeste vivere* und *beate vivere* einerley sey.
+
+Worinn das Moralische der Selbstzufriedenheit bestehe und die Macht desselben als triebfeder, die sehr Groß werden kan.
+
+**7238.**   ψ.   Pr 21.   Über §45: Der Begrif der Vollkomenheit, der vor dem der Zwekmaßigkeit vorhergeht, ist theoretisch und bedeutet den der Vollstandigkeit in der Verbindung des Manigfaltigen zu Einem. Allein der Begrif der Vollkommenheit, der practisch seyn soll, muß den Begrif eines Zweks voraussetzen, folglich den Begrif eines Guten, weil der imperativ, daß etwas gethan werden soll, sagt, daß eine durch mich mogliche Handlung gut seyn würde.
+
+**7239.**   ψ.   Pr 21.   In §46: *seqvere naturam, h. e. fine ad fines naturae totius contende*.
+
+**7240.**   ψ.   Pr 21.   In §47 über „sensu-convenienter“: Des sinnlich bedingten       oder reinen Willens
+
+Autonomie oder heteronomie.
+
+**7241.**   ψ.   Pr 21. Sittlichkeit ist doch nicht allein das ganze höchste Gut, sondern die höchste Bedingung.
+
+[AA 19:293] **7242.**   ψ.   Pr 21.   Über, in und unter §48: Alle principien der Sittlichkeit sind entweder die des dem Natureinflusse gehorchenden und Gesetz verwaltenden oder des selbstgesetzgebenden willens. Ienes ist das princip der Glükseeligkeit. Dieses der würdigkeit glüklich zu seyn. Ienes der Selbstliebe (Wohlwollens gegen sich selbst). Dieses der Selbstschätzung (d. i. des Wohlgefallens an sich selbst). Ienes des Werths des Zustandes in den Augen der Person. Dieses des Werths der Person selbst und selbst ihres Daseyns in dem Urtheile der practischen Vernunft überhaupt. Ienes nach dem Urtheile einer sich um glükseeligkeit bewerbenden, dieses im Urtheile einer die Glükseeligkeit allgemein austheilenden Vernunft. Ienes setzt die oberste Bedingung des höchsten Guts in dem, was sehr vom Zufall abhängt. Dieses in dem, was jederzeit in unserer Gewalt ist. Ienes erfodert in der Anwendung viel Erfahrung und Klugheit. Dieses nichts mehr, als seinen willen allgemein zu machen und zu sehen, ob er mit sich selbst stimmt.
+
+#### Coactio moralis.
+
+**7243.**   ψ.   Pr 22. *Necessitatio actionis non arbitrariae esset coactio physica.*
+
+**7244.**   ψ.   Pr 22. *Obligatio est necessitatio non semper ad actionem invitam, sed* *tamen non voluntariam. Habitus obligationi satisfacere est virtus, si* *obstent stimuli.*
+
+*Arbitrium humanum non est brutum, sed liberum.*
+
+**7245.**   ψ.   Pr 22. Wenn ein wesen auch vermittelst seines willens wozu bestimmt würde, der Wille selbst aber würde bestimmt, so würde er gerne thun und doch physisch genöthigt seyn; practische Nothigung, die nicht physisch ist, ist nur durch freyheit moglich.
+
+**7246.**   ψ? (υ-χ?)   Pr 24. Den ich moralisch zwingen kan, den kan ich auch pathologisch zwingen, [AA 19:294] aber nicht weiter. Die heilige des Himmels stehen unter keinem pathologischen Zwange.
+
+**7247.**   ψ? (υ-χ?)   Pr 25.   In §56: *obligamur vel ab aliis vel erga illos. in priori casu vel* *stricte vel late.* *necessitatio per arbitrium* --- *per voluntatem immanentem.*
+
+**7248.**   ψ.   Pr 25.   In § 55 Schluss: Die freyheit hat würde wegen ihrer Unabhängigkeit; sie hat auch einen hohen Preis, weil wir dadurch Urheber des Guten nach unsern Begriffen werden können, die wir weit über die Naturinstincte der Thiere ausdehnen und vervielfältigen können.
+
+**7249.**   ψ.   Pr 25.   In § 56: obligation ist Einschränkung der Freyheit, entweder negative: um den wiederstreit zu Verhindern, und denn positive: um durch Einschränkung der selbstliebe Menschenliebe zu fördern.
+
+**7250.**   ψ.   Pr 26.   In § 58: Alle obligation ist die Einschränkung der freyheit auf die allg Bedingungen der allgemeinen zusammenstimung mit sich selbst. Daher ist alles, was die allgemeinheit der freyheit hindert, unter rechtmäßigem zwang; denn erlaubt ist, was der allgemeinheit der Freyheit gemäs ist.
+
+**7251.**   ψ.   Pr 27. Das regulative princip der freyheit: daß sie sich nur nicht wiederstreite; das constitutive: daß sie sich wechselseitig befordere, nemlich den Zwek: die Glükseeligkeit.
+
+**7252.**   ψ.   Pr 27. Nur äußere Handlungen können Ungerecht seyn, und zwar nur so fern sie der freyheit anderer, die nach allgemeinen Gesetzen möglich ist, wiederstreiten.
+
+#### [AA 19:295] Lex.
+
+**7253.**   ψ.   Pr 33.   Über und in § 68: Wir sollen nur einen objectiven Grund angeben von unserm Urtheil, daß etwas geschehen soll, und dieses ist die Zusammenstimung mit einem Princip der Vernunft. Der subjective Grund des moralischen Gefühls, wenn er über alles stark gedacht würde, würde erklären, wie etwas vorzüglich geschieht. Nur Vernunft kan das Sollen vorschreiben. Die Einschränkung des besonderen willens durch die Bedingungen der allgemeingültigkeit ist ein Princip der Vernunft des Practischen. Weil sonst unter Handlungen keine unbedingte Einheit seyn würde.
+
+Vernunft hat Regeln eines bedingten Gebrauchs unserer Kräfte und principien des unbedingten Gebrauchs der freyheit überhaupt. Die letztere sind nothwendig und geben dem Zufalligen die Bestimung *a priori*.
+
+**7254.**   ψ.   Pr 33.   In § 69: Der Satz: "*perfice te*" ist tavtologisch. Man will wissen, worin die Vollkommenheit bestehe, die das object des categorischen imperativs ist. Die moralische Vollkommenheit ist die Bedingung, unter der alle andere allein Vollkomenheit heißen kan. Nun will ich wissen, worin die besteht. Sie ist eine Vollkomenheit des Willens; aber worin? Der keinen Guten Willen hat, ist des verstandes nicht werth.
+
+**7255.**   ψ.   Pr 34.   In § 69: Wir haben ein reines und unbedingtes Vergnügen, welches wir von dem allgemeinen ableiten. Denn dies ist nothwendig in aller Beziehung gültig; also ist der moralische Sinn eigentlich die allgemein gemachte sinnliche Lust, die von Einschränkung frey wird.
+
+**7256.**   ψ.   Pr 33.   In und zu § 68 Schluss: Es kan nur *lex arbitraria lex permissiva* seyn. Denn vom *adiaphoro* giebts kein Gesetz. Es kan auch nicht gesagt werden, daß jemandem seine Handlung imputirt werde, wenn sie als blos erlaubt angesehen wird. Aber [AA 19:296] die *exceptio a lege* durch ein ander Gesetz ist eigentlich ein Gesetz, das vorige aufzuheben.
+
+**7257.**   ψ.   Pr 35.   In und zu § 71: Daß die Moralischen Gesetze göttliche Gebothe (*praecepta*) sind, aber nicht *statua*: Satzungen. *Principia non materialia, sed formalia* nicht heteronomisch.
+
+Ob die Moral nur als Religion möglich sey?
+
+maximen, die zugleich allgemeine principien sind als *leges, praecepta,* *sanctiones*.
+
+Die bloße Form der maxime muß der Bestimungsgrund seyn.
+
+**7258.**   ψ.   Pr 37.   In und zu § 74: Der Grund der Verbindlichkeit ist doch im Göttlichen willen, weil nur das verbindlich seyn kan, was mit unserer Glükseeligkeit zusammenstimt, dieses aber nur Gott thun kann. Also ist die moralität als Regel aus der Natur, als Gesetz aus dem göttlichen willen. Idee, welche in der theologie realisirt wird.
+
+#### Iuris peritia.
+
+**7259.**   ψ.   Pr 38.   Neben und zu § 76: Ein Gesetz muß nichts der willkühr überlassen, sondern genau bestimmen.
+
+*Regula late determinans non est lex*. Als die der Gütigkeit in Ansehung der Ethic.
+
+*Latitudinarius*. Daher heißt auch legalitaet die Übereinstimung mit den Regeln des Rechts, aber moralitaet mit den Regeln der Liebespflicht.
+
+**7260.**   ψ? υ? φ?   Pr 39. Das Principium der Einheit der freyheit unter Gesetzen stiftet ein *analogon* mit dem, was wir Natur nennen, und auch einen innern Qvell der Glükseeligkeit, den Natur nicht geben kan und wovon wir selbst Urheber seyn. Wir befinden uns alsdenn in einer Verstandeswelt nach besonderen Gesetzen, die moralisch sind, verbunden. und darin gefallen wir uns.
+
+[AA 19:297] Die Einheit der intelligibeln Welt nach practischen Principien, so wie der Sinnenwelt nach physischen Gesetzen.
+
+**7261.**   ψ.   Pr 47. Die äußere rechtmäßigkeit der Handlungen geht nur auf die That und heißt legalitaet, die innere auf die Gesinung, aus welcher sie entsprungen, und auf das princip und heißt moralitaet. Das *ius naturae* betrachtet die Handlungen nur nach ihrer legalitaet, folglich wie sie seyn würden, wenn sie auch alle durch den Zwang erpreßt werden müßten. Die Ethik: wie *sie seyn müßten*, wenn sie *ohne allen Zwang* blos aus moralischen Gesinnungen entspringen solten.
+
+#### Principia iuris.
+
+**7262.**   ψ.   Pr 48.   Zu §87 Anfang: Das subiective princip der Moral ist Vernunft als Gesetzgebung der freyheit, muß von empirischen Bedingungen nicht abhängen.
+
+**7263.**   ψ?   Pr 50. Es kan keine Pflicht zum Genießen geben, folglich keine Pflicht aus dem Princip der Glükseeligkeit. Alle Pflicht ist zum thun, nicht zum Genießen.
+
+**7264.**   ψ? υ?   Pr 51. Vollkommene Pflicht ist diejenige, welche nicht auf die Bedingung eingeschränkt ist, eine andere Pflicht nicht zu übertreten. Ist also so viel als Unbedingte Pflicht gegen sich selbst und gegen andere. Sie ist das Recht der Menschheit oder der Menschen. Die Unvollkomene geht auf die Zweke der Menschheit in unserer Person und die Zweke der Menschen.
+
+Die erste setzen Achtung für die Menschen, die Zweyte Liebe voraus. Wohlwollen ohne Wohlgefallen, und umgekehrt das Recht erfodert Wohlgefallen am Gesetz ohne Wohlwollen.
+
+Das recht der Menschheit in unserer eignen Person kan das Recht der Menschen nicht zur einschränkenden Bedingung haben. aber auch nicht [AA 19:298] umgekehrt. Denn ein anderer kan kein Recht auf mich haben, als so fern ich Person bin; also gründet sich die Moglichkeit des ersten auf die Persönlichkeit und hat sie sammt dem daraus fließenden Rechte der Menschheit nicht Zur Einschränkenden Bedingung.
+
+Der Zwek der Menschheit in meiner eigenen Pers0n ist die Beförderung der Natürlichen Anlagen, d. i. die Vollkommenheit. Diese kan ich nicht an andern zum Zwek haben; denn jeder beurtheilt seine cultur billig nach seiner besonderen Lage, Convenientz.
+
+**7265.**   ψ? φ-χ?   Pr 52. Die Ursache, weswegen man das *principium* der moralischen Beurtheilung im Gefühl setzt, ist, weil lust oder unlust nicht erkentnisse seyn und, wenn etwas vorgestellt wird als angenehm, dieses keine Beschaffenheit am gegenstande, sondern relation auf unsere innere Empfindung bedeutet. Allein unser Urtheil über das moralisch gefallende gute ist auch nicht, daß es angenehm sey (denn es ist die bloße gesinnung), sondern daß es Gut sey; und hier ist freylich ein Verheltnis aufs Gefühl der Lust, aber nicht unmittelbar, sondern das Verhaltnis auf die Lust überhaupt nach regeln, deren Beurtheilung nicht den Sinnen, sondern dem Verstande Zukommt.
+
+**7266.**   ψ?   Pr 52. Wir müssen unterscheiden ethische Pflichten von dem ethischen Grunde aller Pflichten oder der ethischen Pflichtmaßigkeit.
+
+**7267.**   ψ.   Pr 53. Das pathologische, das ästhetische, das ontologische und theologische *principium* der Glükseeligkeit sind insgesamt nur mittelbar practisch. Das moralische ist unmittelbar practisch.
+
+**7268.**   ψ.   Pr 53.   Zu §91: Der Satz: "*perficte te*", wenn er so viel sagen soll als: "sey gut, mache dich der Glükseeligkeit würdig, sey ein Guter Mensch, nicht ein blos glüklicher", kan als das *principium* der Ethic angesehen werden.
+
+**7269.**   ψ? υ?   Pr 53. **Principium objectivum*: Die Übereinstimmung der freyheit mit der [AA 19:299] allgemeinen Gesetzmäßigkeit der Natur. 1. Muß diese Einstimung freywillig seyn; 2. nicht mit den Naturgesetzen, sondern bloß der allgemeinen Gesetzmäßigkeit der Natur, so daß die Maxime unserer Handlungen mit *unserm Willen* ein allgemeines Naturgesetz seyn könne.
+
+Pr 52:
+
+Pr 52: Denn was die Vernunft gebietet, gebietet sie nicht partheyisch. Wenn mein wille also durch Vernunft bestimt wird, so muß er zugleich von mir als ein allgemeines Gesetz vor jedermann gemeynet seyn.
+
+Pr 53: * (g moralitaet aus dem Princip der freyheit, so fern sie zugleich (in allem ihren Wollen) Gesetzgebend ist. Nomothe *Principium libertatis* *nomotheticae*: ich muß nach einem willen handeln, der zugleich Gesetzgebend seyn kan. Also bin ich unter einem Gesetz, um selbst in Handlungen gesetz zu seyn. )
+
+**7270.**   ψ.   Pr 56.   Unter §94: Alle *obligatio* ist *stricta*, d. i. wovon keine *exceptio* gilt, aber nicht alle *leges obligandi* sind *strictae*, sondern einige auch *latae*, weil sie nicht die Handlung bestimmen, sondern den Bewegungsgrund, aber unter Einschränkungen enthalten. Pflichten, nicht Schuldigkeiten.
+
+**7271.**   ψ? υ??   Pr 57. Zum äußeren Gebote ist der Bewegungsgrund nicht die Pflicht. Das Sollen ist hier der Zwang. Wir werden nicht aufgefodert, dasjenige aus inneren motiven zu thun, was uns zwangsmäßig befohlen wird. Der *imperativus iuridicus* ist *externe tantum obligans* und gar nicht moralisch. Es ist der *imperativus* der Gewalt, welche mit dem Rechte ver Rechtmäßig ist, und seine necessitirende Kraft ist auch nur in proportion mit dieser Gewalt. Doch ist das Urtheil dieses Gesetzgebers auf die *vim obligatoriam* seines Willens gegründet.
+
+Iuridisch *principium* heißt: thue frey, was Gesetzmäßige Gewalt fordert (oder fordern kan).
+
+*Ethisch*: Handle nach Bewegungsgründen eines innern allgemeingültigen Willens, *i. e.* so daß du zu dulden, zu lieben und zu achten seyst.
+
+#### [AA 19:300] Legislator.
+
+**7272.**   ψ.   Pr 60.   In §98: Gesetzgeber ist, der mit einem Gesetz den Zwang zu verbinden befugt ist.
+
+**7273.**   ψ.   Pr 61. Die Regel der handlungen muß allenthalben moralisch seyn, d. i. so daß mein wille zugleich allgemein zum Gesetz dienen könne; aber der Bewegungsgrund ist nicht immer diese Gesetzmäßigkeit, sondern mag seyn, welcher er wolle, kan auch als triebfeder der Zwang seyn.
+
+**7274.**   ψ.   Pr 62. *vel Leges vel Sanctiones --- hae vel pragmaticae (secundum literam)* *vel morales (animam). lex divina vel arbitraria vel naturalis*.
+
+**7275.**   ψ.   Pr 63. Die obligation gegen einen menschlichen Gesetzgeber ist, weil wir sonst anderer Rechte unsicher machen würden, und also die Gewalt giebt ihm gegen ungerechte ein Recht, und er kan nur in Verhaltnis auf einen andern Gesetzgeber unrecht haben.
+
+**7276.**   ψ.   Pr 65.   Neben §104, 2 b, c: Gesetze des schlechterdings nothwendigen Göttlichen Willen oder gesetze des heiligen Willens sind die moralischen.
+
+Gesetze des nur bedingt=nothwendigen göttlichen Willens oder Gesetze des Weisen willens sind die regirenden.
+
+**7277.**   ψ? (φ?)   Pr 66. Von dem moralischen Wohlgefallen in Vergleichung mit dem pathologischen. Ich kan aufrichtig sagen: es erfreuet mich mehr, daß ein anderer einen Gewissen Gewinn gemacht hat, als wenn ich ihn gemacht hätte, obgleich, wenn das letztere wäre, ich ihn ihm doch nicht abgegeben haben würde. Denn im ersteren falle beurtheile ich es aus dem Standpuncte [AA 19:301] eines unpartheyischen Zuschauers moralisch, im zweyten aus meinem physischen, und moralisch kan ich auch meine letztere Denkungsart rechtfertigen, weil es nicht nothwendig ist, daß andern mit seinem Verlust wohl zu thun.
+
+#### Praemia.
+
+**7278.**   ψ.   Pr 67. *meritum relative tale* ist, wodurch wir einen andern zur Belohnung obligiren, entweder *honor* oder *merces*.
+
+**7279.**   ψ? (φ?)   Pr 66. Die moralische Gesetze haben wohl das *principium obligandi* in sich, aber obligiren nicht ohne religion, weil sie nicht durch ihre Natur Verheißung der Glükseeligkeit bey sich führen.
+
+**7280.**   ψ? φ?   Pr 71.   Zum vorletzten Satz von §111: princip des Eigennutzes. *analogon* *meriti* ist eine gute Pflichtmäßige handlung unter hindernissen der entgegen strebenden Natur. Wie kan die Hofnung auf göttliche Güte mit der Uneigennützigkeit Verbunden werden? Wenn sie nicht als praemium betrachtet wird, sondern nur als Beyfall, der unsere Wahl bestätigt.
+
+**7281.**   ψ? φ?   Pr 72.   Neben §112: Die Erwartung der Belohnungen vermindert nur dann den moralischen Werth, wenn diese den Bewegungsgrund enthalten, nicht aber, Wenn sie nur dazu dienen, die hindernis der moralität in der furcht vor dem Verlust aller Glükseeligkeit aufzuheben.
+
+*Praemia* als *gratuita* angesehen obligiren starker.
+
+Aber als *merces* vermindern sie die moralität.
+
+**7282.**   ψ4-ω1.   Pr 73. Grade des practischen Werths der Handlungen:
+
+1. Aus objectiver moralität.
+
+[AA 19:302] 2. Aus subjektiver in ansehung des heiligen Göttlichen willens, von welchem wir zugleich alles Gute haben. Dankbarkeit.
+
+3. Aus pragmatischen Bewegursachen der Belohnenden Verheißung. Liebe gegen Gott, obzwar eigenützige.
+
+4. Aus Antriebe der furcht vor Strafen. Scheu vor Gott, knechtisch mit Haß verbunden. Nur in subsidium zu gebrauchen.
+
+#### Poenae.
+
+**7283.**   ψ4-ω1.   Pr 74. Die pragmatische Strafen haben blos die äußere Wirkung, nämlich jedem das Seine zu erhalten, zur Absicht, obzwar sie zuvor als moralisch berechtigt seyn müssen, nämlich als *poenae vindicativae* da jedem das Gewissen das Urtheil spricht.
+
+Aber moralische Strafen haben entweder die eigene Besserung oder was vorhergeht: die expiation, die Letztere auch darum zur Absicht, *qvia* *peccatum est*, damit er allererst rein von Schuld sey, ehe er eine Besserung verspricht oder gar dazu beyhilfe hoffen darf, und sind also nicht blos *vindicativae*, ausgenommen vor dem menschlichen *foro* um, daß Gerechtigkeit sey, zu erkennen, denn diese Frägt nicht nach der Besserung. *Coram foro* *divino* aber sind expiationen nöthig, weil Pr 75 die Besserung, da sie aus eigenen Kräften nicht kommen kan, vorher eine Reinigung von Schuld erfordert, um dieser Besserung würdig zu seyn.
+
+**7284.**   ψ? υ?   Pr 78.   Neben §121, Satz 3: Es giebt *facta*, die keinen moralischen (g innern) Werth haben, *moraliter* *indifferentia* oder*facta moralia*.
+
+**7285.**   ψ? υ?   Pr 78. In ansehung des Rechts anderer (iuridische Pflichten) kan ich nur *demerita* haben, niemals aber ein *meritum*; in ansehung der Liebespflicht nur *meritum*, niemals *demeritum*.
+
+[AA 19:303] **7286.**   ψ? υ?   Pr 78. In *poenis pragmaticis* ist nicht *iustitia,* sondern *prudentia punitiva.*
+
+**7287.**   ψ? χ?   Pr 78.   Rand unten: Wenn ich jemand schuldig bin, so ist das = - im praktischen Verstande; bezahle ich ihm, so ists = +, d. i. mit ienem zusammen = 0. Wenn ich mich aber an jemand verschuldet habe, so ists nicht gnug, ihm das Ver den Schaden zu ersetzen; das Unrecht muß noch vergütet werden, und dann ist das iuridische - mit dem ethischen + = 0, d. i. Schuldfrey.
+
+**7288.**   ψ? χ?   Pr 79.   Rand unten: Alle *facta* haben + oder --- zu ihrem Zeichen und sind niemals bloße unterlassungen. Entweder es entsteht dadurch ein Gutes oder Böses. Die unterlassung ist = zero, wodurch nichts geschieht. Nur ethische *facta* können + haben, iuristische -. Alles übrige ist = 0.
+
+**7289.**   ψ.   Pr 78. Das *principium* der rächenden Strafen (in Ansehung der Verbrechen gegen andere) beruht darauf, daß ein jeder sich jederzeit bewust ist, daß, was er gegen einen andern thut, daß füge er nach der Regel der Gerechtigkeit sich selbst zu. Aber es ist eine Liebespflicht. kan auch eine schuldige Pflicht gegen das Gantze in *statu civili* seyn, daß die offentliche Gerechtigkeit kein die Strafen alle correctiv oder exemplarisch (s pragmatisch) macht. Allein wären sie nicht schon als rächende Strafen gemacht, so würden sie nicht zur Warnung anderer gebraucht werden können. Man kann niemandem übels thun, der es nicht selbst verschuldet hat, um andern Vortheil zu schaffen.
+
+**7290.**   ψ.   Pr 78. Wer der Menschheit in seiner eigenen Person abbruch thut und sich also von ihr trennt oder mit ihr bricht, den verläßt die Menschheit wiederum. d. i. er kan in seinen eignen Augen nicht die Würde eines Menschen haben. Verachtung ist auch seine äußere, aber nicht bürgerliche Strafe.
+
+[AA 19:304] **7291.**   ψ? φ?   Pr 78.   In § 121: Strafen können nur gerecht seyn, so fern sie von einem gütigen Wesen ausgeübt sind, aber nicht sie müssen nicht von der Gütigkeit abgeleitet werden.
+
+**7292.**   ψ? φ?   Pr 78.   In § 121: *adiaphora* sind weder *merita* noch *demerita,* weder belohnungswerth noch bestrafungs=, weder unter geboten noch verbothen als unter *legibus* *permissivis;* sie sind gar nicht*facta,* weil sie nicht unter moralischen Gesetzen stehen.
+
+**7293.**   ψ? φ?   Pr 79.   Über und in § 123: Wenn man sagt: Gott straft aus Gütigkeit, so würde man, da wir durch Verbrechen strafen verdienen, sagen müssen, wir verdienten dadurch die Gütigkeit Gottes. Auch der Vater, welcher straft, muß zuerst voraussetzen, daß das Kind Sie verdiene; nachher kan er auch sie auf die Gütigkeit richten.
+
+**7294.**   ψ.   Pr 80.   In § 124, Satz 3: Ob natürliche folgen der laster strafen heißen können?
+
+#### Imputatio facti.
+
+**7295.**   ψ.   Pr 79. Eine Handlung kan nur Zugerechnet werden, in ansehung deren das subiect physisch, practisch und moralisch frey ist. Daher kan nur die Unterlassung seiner Schuldigkeit, nicht aber die Leistung derselben zugerechnet werden. und zwar darum. Die Unterlassung muß ein *factum* seyn, wodurch *suum alterius* laedirt wird, und dergleichen ist die *omissio debiti.* Dagegen wo die Unterlassung kein *factum* ist, als bey handlungen der Gütigkeit, da kan sie nicht zugerechnet werden. In ansehung der leistung seines *debiti* ist es nicht ein *factum;* denn er unterläßt nur, den andern Zu laediren.
+
+[AA 19:305] Alle juridische Pflichten sind moralisch negativ: man unterläßt blos das *Suum alterius* nicht zu schmälern, man giebt ihm nichts, was ihm nicht schon dem Rechte nach gehörete, sondern man nimmt ihm nur nichts. Aber die ethische sind positiv: wir geben von dem Unsrigen.
+
+**7296.**   ψ.   Pr 82.   In § 126: *Factum tribuens* ist nicht *imputans.*
+
+Zuschreiben --- und zurechnen.
+
+Dadurch daß ich etwas als todschlag ansehe, schreibe ich zu.
+
+Dadurch daß ich etwas als Mord *(sub lege)* ansehe, imputire ich zugleich das Gesetz.
+
+**7297.**   ψ.   Pr 83.   In § 127: **Imputatio** ist die Bestimung der Caussalität der freyheit in Ansehung einer Handlung unter allgemeinen practischen Gesetzen. Wenn die Gesetze die Handlung bestimmen, so liegt die caussalität conform dem Gesetze nicht in der freyheit, die folgen mögen Gut oder böse seyn. Ist der Wille in Ansehung des Gesetzes frey, so bestimmen die folgen die Caussalität. Eine Mordthat konte ich unterlassen, auch nach dem Gesetze. Also ist das Begehen davon imputabel. Aber meine Gegenwehr durfte ich nicht unterlassen; also kan mir der tod des Angreifers nicht imputirt werden.
+
+**7298.**   ψ.   Pr 83.   In § 128: Die *quaestio facti* kan niemals etwas anderes als den Grad der freyheit in einer handlung betreffen; denn alles übrige ist nicht *factum,* sondern entweder physische Caussalität oder gehort zur *quaestione iuris.* Wenn die frage ist von einem todschlage, so muß ich ihn nicht als Mord betrachten.
+
+*Die Zurechnung betrift immer die wirkung, welche eine legale* *Folge hat.* Man kan dem Menschen den Tod eines andern Zuschreiben, ohne ihn ihm zuzurechnen. Wenn es ein Ochs und kein Mensch [AA 19:306] wäre, so würde keine Zurechnung statt finden. Weil aber die physische folge hier zugleich eine legale folge hat, so wird ihm diese mit zugerechnet.
+
+Also wird ein *factum* zuerst zugeschrieben und nachher zugerechnet.
+
+**7299.**   ψ.   Pr 83.   Neben § 128, Satz 3--5: Das, in Ansehung dessen ich nach dem Gesetze frey bin, kan mir die That, nicht aber die Unterlassung imputirt werden.
+
+Wo ich gebunden bin, kan mir die unterlassung, nicht aber die That imputirt werden.
+
+**7300.**   ψ? χ?   Pr 86. In Ansehung welcher Handlung ich practisch überhaupt nicht frey bin, die kan mir nicht imputirt werden. In Ansehung deren ich zwar moralisch frey bin bricht ab.
+
+**7301.**   ψ.   Pr 89.   Neben § 135, 136: *Summa*:* Es kan jederman nur die handlung den Gesetzen gemäß als That, nicht als Unterlassung imputirt werden. Nun sind die ethische wohlthaten blos that, die lieblosigkeit Unterlassung. Iuridische Thaten sind blos die Übertretungen, *laesiones alterius;* die iuridisch rechte Handlungen sind blos Unterlassungen, dem andern das Seine zu nehmen.
+
+* (g In jedem *Syllogism* muß *minor affirmans* seyn, also im *imputatorio* muß er *factum,* aber nicht *non factum* enthalten. )
+
+**7302.**   ψ.   Pr 89.   Über und in § 136: Das ist die äußere Zurechnung, aber innerlich rechne ich mir auch den Bewegungsgrund der *actionis iustae* zu, allenfals *in demeritum,* und auch der Unterlassung der Wohlthaten als ein *factum.* Beydes ist ein *factum* der Gesinnung nach. Überdem aber imputire ich mir *facta* *interna* als Schuldigkeiten oder auch als Verdienste, *e. g.* Wollustsünden oder Unterlassene Cultur der talente.
+
+[AA 19:307] **7303.**   ψ.   Pr 94. 95.   Zu § 143, Satz 5. Pr 94: Der Richter kan sein Urtheil nicht aussetzen; er muß entweder sagen: er ist schuldig oder unschuldig; die Verantwortung nimmt die Gesetzgebung über sich. Mithin ist er moralisch gewiß, wenn er etwas von beydem sagt. Die moralische Gewisheit ist unter aller Pr 95: practischen die Größte. 1. Was wir bey aller moralität voraussetzen müssen als triebfedern (Gott und künftig Leben): davon ist jeder moralisch gewiß, aber darum nicht apodictisch und dogmatisch. Ich kan nicht schwören, daß ein Gott sey, aber muß jederzeit so handeln, als ob einer sey; denn er dient blos, *moralitatem* zu roburiren. 2. was überhaupt zu meiner Befugnis hinreicht.
+
+**7304.**   ψ.   Pr. 95.   Neben § 144, Satz 2--5: Die Sätze (es ist ein Gott und ein ander Leben) sind subiectiv moralisch gewiß dem, der principien der Moralität zu seinen maximen macht.
+
+*legaliter (secundum legem statutariam) potest esse aliqvid certum,* wenn es beschworen ist *etc.* *etc.*
+
+**7305.**   ψ.   Pr 110.   Über § 165: Die Würde der Menschheit in seiner eignen Persohn ist die Persönlichkeit selbst, d. i. die freyheit; denn er ist nur Zwek an sich selbst, so fern er ein wesen ist, daß sich selbst Zweke setzen kan. Die Vernunftlose, die daß nicht könen, haben nur den Werth der Mittel.
+
+**7306.**   ψ.   Pr 113. Von der *litera* und *anima legis moralis*. Die *lex iuridica* befiehlt nur die gesetzmäßige Handlung *secundum litteram*.
+
+**7307.**   ψ.   Pr 112.   In § 168, zu § 168, 169: Die Unlauterkeit aller Menschlichen tugend und die Schwäche Gebrechlichkeit derselben; es kan für jede ein Grad versuchung gefunden werden, die sie stürtzen.
+
+#### [AA 19:308] Imputatio Legis.
+
+**7308.**   ψ.   Pr 119.   Zu § 177 „Sacra“? Heilig ist nichts auf der Welt als die Rechte der Menschheit in unserer Person und das Recht der Menschen. Die Heiligkeit besteht darin, daß wir sie niemals blos als Mittel brauchen, und das Verbot eines solchen Gebrauchs liegt in der freyheit und Persönlichkeit.
+
+Wo sich jene zwey Pflichten wiederstreiten, da behält die erstere die Oberhand.
+
+Diese Pflichten sind *officia necessitatis*.
+
+Die officia humanitatis sind die, da beyde Gegenstände (nicht blos nicht als Mittel,) sondern auch als Zweke für uns gelten, und da ist eigene Vollkommenheit und andrer Glükseeligkeit der Zwek.
+
+Die Zwey letztere: Das Interesse der Menschheit in unserer Person und das Interesse der Menschen.
+
+**7309.**   ψ.   Pr 119. 118.   Zu § 178: Die Rechtslehre (g als Recht der Menschen) ist der Inbegrif der gesetze, ohne die freyheit nicht äußerlich mit der freyheit von jedermann zusammen bestehen kan. Die Tugendlehre ist der Inbegrif aller Pflichten oder Gesetze, so fern die Idee derselben für sich allein die hinreichende Bestimung zur Handlung enthält. Iene ist die Pflicht der Handlungen, diese der Gesinnungen.Pr 118: Beyde können auch unter der Eintheilung der vollkommenen und unvollkommenen Pflichten begriffen werden. Iene beruhen blos auf der form der handlungen, nemlich der freyheit, die in ihrer äußern und innern allgemeinheit betrachtet mit sich selbst bestehen kan. Diese bestehen in der Beziehung der freyheit auf Zweke: 1. Zweke an sich selbst, 2. Zweke der Menschen.
+
+**7310.**   ψ? τ?   Pr 119. Der Zwek der Menschen ist Glükseeligkeit, und die Pflicht, sie in anderen zu befördern, schließt die ihres objectiven Zweks, nämlich die Glükseligkeit Sittlichkeit in sich, damit sie ihrer würdig und dadurch theilhaftig [AA 19:309] werden; nicht für sich allein, sondern um ihrer Glükseeligkeit willen, weil es unvollkommene Pflicht ist, der wir keine vollkommene nachsetzen können.
+
+#### Forum.
+
+**7311.**   ψ? φ? τ?   Pr 124.   Neben § 185: Glükseeligkeit ist das Bewustseyn einer immer währenden Zufriedenheit mit seinem Zustande. Nun kan man durch die Tugend an sich glükseelig seyn, wenn man das physische seines Zustandes für gleichgültig hält und im Bewustseyn seines Zustand moralischen Zustandes, so fern er ein immerwährender Fortschritt zum bessern ist, den ganzen Werth seines Daseyns setzt.
+
+**7312.**   ψ.   Pr 125.   Zu § 185? Das christliche Ideal ist das Ideal der heiligkeit, d. i. der reinigkeit der Sitten, die für den Augen Gottes bestehen kan, welches ein Probirstein ist, daran die Vernunft die Reinigkeit der Gesinnung allein Prüfen kan und danach unser Gewissen als Stellvertreter eines höchsten (inneren) Richters als Herzenskündigers die Handlungen beurtheilt; denn im Standpuncte eines Menschen bringen wir, selbst wenn wir uns das Gesetz denken wollen, die menschliche Schwachheit und in Anschlag, um die foderung desselben herabzustimmen, obzwar eben diese schwachheit und Unlauterkeit durch die Heiligkeit des Gesetzes nach und nach gehoben und gereinigt werden soll. Das christliche Gesetz kan auf diese Art freylich nur einen unaufhörlichen fortschritt vom guten zum bessern fodern, verspricht die Versicherung desselben aber doch durch den *guten* Geist, der, wenn wir herzlich wollen, in uns wohnen wird.
+
+Hierin ist es vom Stoischen Ideal der weisheit unterschieden, welches keine solche Reinigkeit der Gesinnungen, sondern nur Zutrauen zu seiner Stärke in ansehung aller Versuchungen fodert und Eigendünkel erregt, der sehr schädlich ist und den fortschritt verhindert.
+
+### [AA 19:310] Phase ω.
+
+**7313.**   ω1-ω2.   L Bl. Scheffners Nachlaß. A. M. Bd. XXXVII 327. Vom höchsten Gut in der Sinnenwelt.
+
+Das Absolut=Gute kan und muß als Princip zu dem, was darinn ge durch Freyheit geschieht, gedacht werden, aber dadurch, daß es selbst unbedingt ist, ist es noch nicht das Ganze, was zum höchsten Gut erforderlich ist. Zweytens: seine D die Darstellung desselben in der Sinnenwelt ist nur die an sich nicht möglich, denn da besteht es jenes absolute Gut in der Gesetzmäßigkeit unseres Verhaltens, so fern wir im Streit mit dem subjectiven Princip des Absolut bösen sind: Denn das ist Tugend (nicht Heiligkeit). Die Sünde muß hier vorgestellt werden, als ob sie nicht auf bloßen Schranken beruhe sondern selbst ein wirksames Princip zum Grunde habe, welches doch nur äußerlich verleitend sey.
+
+**7314.**   ω2.   L Bl. Opus postumum, IV. Convolut, Nr 44. *Einwurf*: der Mensch kan nicht glüklich seyn, ohne wenn er sich selbst wegen seines Charakters Beyfall geben kan. Er kan dieses aber nur alsdann nicht, wenn er in der Moralität einen absoluten Werth sieht.
+
+[AA 19:311] Wenn er hierauf nicht rücksicht nimmt, wenn ihm das Wohlbefinden aus physischer Empfindung genug ist, so kan er glücklich seyn, ohne sich im mindesten um die Übereinstimung seines Verhaltens mit der Moral zu bekümmern, davon er nur den äußeren Schein oder die Beobachtung nach dem Buchstaben, aber ohne den als eine von den Regeln der Klugheit, benutzt aber ohne die Gesinung, für derselben irgend einen inneren Werth zuzugestehen.
+
+**7315.**   ω2.   L Bl. Reicke Xa.   S. III, IV. S. III:
+
+*Catechism*.
+
+1.) Was ist wohl der Größte Wunsch, der alle andre Wünsche in sich enthält? -- -- daß alles, was ich Verlange, mir zu Theil werde und alles, was ich Will, mir gelinge; mit einem Wort, daß alle meine Neigungen befriedigt werden.
+
+2) Du wünschest also wohl, daß, wenn du jemand was vorlügen willst, er jederzeit so blind sey dir zu glauben und zugleich, daß diese Unwarheit niemals an den Tag komme, oder daß, wenn du einen, dem es wohlergeht, beneidest, du ihn nach Belieben unter die Füsse bringen oder sein Eigenthum an dir mit durch Gewalt an dich bringen könnest, wenn Du willst, ob er es gleich an dir nicht verschuldet hat? --- -- Nein das Wohl nicht. (g Das ist häslich so zu denken. )
+
+3) Das ist häslich so zu denken Was häßlich: es ist doch klug gedacht, bist du nicht zufrieden, wenn dir (g dieser) Dein Wunsch gelingt? --- --- Nicht so ganz.
+
+4) Ich will dich darauf bringen. Du bist wohl mit dem, was du erlangt hast, zufrieden, weil du es wünschtest, aber nicht mit dem, was du gethan hast, um es zu erlangen, d. i. nicht mit dir selbst. Denn wenn du dir bey 5) Also dir selbst Rechenschaft abfordertest, würdest du dir doch selbst gestehen müssen, daß du als ein Lügner niedertrachtig und verachtungswerth, [AA 19:312] als ein Betrüger nichtswürdig oder als ein Dieb hängenswerth seyest, ob du gleich, weil es keiner gewahr wird, nicht verachtet, nicht von Menschen gemieden und nicht gehangen wurdest, so sehr du es auch verdientest.
+
+5) Wie nennt man den Zustand, da alle Wünsche eines Menschen (g auch allenfalls ohne sein Zuthun) befriedigt werden? -- --- Ich weiß nicht --- --- Glükseelichkeit; weil alles solches von Glück herrührt.
+
+6) Also könntest du im höchsten Grade glücklich aber doch mit dir Selbst im höchsten Grad unzufrieden seyn und warum das? Weil du dir bewust bist und selbst sagest, daß du dieser Glückseeligkeit nicht würdig.
+
+7) Kan wohl ein Anderer, der nämlich dich glücklich macht, dich auch der Glückseeligkeit würdig machen, oder mußt du es selbst seyn, der sich so verhält, daß er ihrer würdig wird? --- --- Ich muß es selbst seyn.
+
+8) Was würde also wohl der erste aller deiner Wünsche seyn müßen, glücklich oder der Glückseeligkeit würdig zu seyn? Das Letztere Würdig zu seyn, d. i. so zu handeln, daß ich wenigstens ihrer nicht unwürdig sey. --- --- Weil du es selbst thun mußt, so bist du frey.
+
+9) Also ist es ein Gesetz in dir und deiner Vernunft, welches alle deine Wünsche an die Forderung bindet, so zu handeln, daß *etc.* und das, was du dazu thun mußt, heißt Pflicht, S. V: welches Wort bedeutet, daß du, was dieses Gesetz sagt, thun mußt ohne vorher nach dem Vortheil zu fragen, den du davon haben mögtest, und selbst wenn du dabey deine größte Vortheile aufopfern solltest, überhaupt auch die Handlung höchst beschwerlich und unangenehm wäre; --- --- denn nach einem solchen Gesetz heißt es: du sollst nicht lügen! -- --- Kanst du nun noch wohl fragen, was würde es mir für Schaden bringen, wenn man löge, oder ist nicht bisweilen durch einen Mund voll lügen ein Ansehnlicher Gewinn zu machen? Denn wenn du nicht sofort, als du deine Absicht nur durch Lügen erreichen kannst, so diese ohne Bedenken lieber aufgiebst, sondern nur noch bey dir berathschlagst, ob du dich nicht zur Lüge entschließen sollst, bist du ein Nichtswürdiger.
+
+Von nun an siehe höre mein Kind nicht mehr nach der Syrenenstimme der Glückseeligkeit, wenn sich die Stimme der Pflicht hören läßet. Diese ist ein Heiligthum.
+
+[AA 19:313] 10) Wenn du nun alle Glückseeligkeit in deiner Hand hättest, um sie auszutheilen, würdest du sie jedermann in vollem Maaße geben,so viel er davon nur immer wünschen kann? --- --- Ia.
+
+11) Das zeigt an, daß du ein gut Herz hast. Laßt uns aber doch sehen, ob du dabey auch einen guten Verstand beweisen würdest! Du wirst also dem Faulen alles, was er wünscht, geben, ohne daß er sich worum bemühen darf, dem Lügner viel Beredtheit andere zu hintergehen, dem Neidischen und Geitzigen, der alles an sich reißt, um womöglich jeden Anderen darben zu lassen, dem Verschwender unerschöpflichen Schatz, der immer von selbst neuen Zuflus hat, dem Lieblosen Vermögen um zu schaden *etc.*? Nein das wohl nicht.
+
+12) Warum denn nicht, da du doch aller Menschen Wünsche zu befriedigen (und jedermann Gesundheit) suchst? Ich will dir (g nur) sagen, was das ist, was du verlangst, daß der, dem du alle diese Wohlthaten beweisen willst, selbst haben müsse, damit er würdig sey, sie zu empfangen. Es ist die Würdigkeit nemlich der gute Wille, dieses alles Gut zu gebrauchen.
+
+13. Aber dieser gute Wille ist doch auch unter dem mit enthalten, was jener wünscht, daß er ihm mit zugleich enthält ertheilt werde. Da du nun alle Glückseeligkeit in deiner Hand hast, so war warum solltest du ihm nicht auch den guten Willen ertheilen, damit er nicht blos mit seinem Zustande sondern auch mit sich selbst zufrieden sey? --- --- Hast du nicht gesagt: er müsse vorher ein Guter Mensch seyn, damit er dir würdig sey, wieder glücklich gemacht zu werden? Ia.
+
+14. Also muß er den guten Willen aus sich selbst herausbringen; es kan ihm kein Andrer ihn geben, weil du sonst immer einen guten Willen voraussetzen mußt, damit er würdig sey, die Erfüllung seines Wunsches zu erlangen. Der gute Wille ist also das erste Gut, welches (g dir) nicht von einem Andern gegeben werden kann, weil du auch nicht einmal ernstlich wünschen kannst ihn zu haben, wenn du ihn nicht schon wenigstens einem großen Theile nach schon hast.
+
+**7316.**   ω4.   L Bl. G 10.   S. II, I.   R II 34-36. S. II:
+
+[AA 19:314] Wir haben Erkentnisse *a priori* von Objecten. Die Es sind Begriffe (oder Anschauungen): Die Begriffe *a priori*, welchen keine Anschauungen untergelegt sind, sind die categorien, welche für sich gar keinen Sinn und kein Object haben sondern nur Denkformen sind. z. B. das vieles zusammen Eines ausmacht; wie das möglich sey, kan man ohne Beyspiel in der Anschauung nicht einsehen.
+
+Wir können aber *a priori* nichts anschaulich erkennen, als nur so fern wir die Objecte blos in der Erscheinung warnehmen. Denn wie die Objecte uns erscheinen werden, können wir noch vor der Erfahrung inne werden, wenn wir uns der subjectiven Form unserer Sinnlichkeit bewust werden, und diese Formen sind Raum und Zeit. Dies ist das Erkennen (unserer selbst und der Dinge ausser uns (*a priori*)).
+
+Wir haben aber auch noch ein Sollen *a priori* (das absolute) in uns vermöge der Idee der Freyheit, welches ohne einen in unserem Willen vorhandenen categorischen Imperativ nicht möglich wäre. --- Ohne die zum Grunde gelegte Idealität des Raumes und der Zeit, mithin der Gegenstände als Erscheinungen, würden wir die Realität der Freyheit uns gar nicht practisch denken können, weil sonst das Sollen immer empirisch bedingt seyn würde.
+
+Synthetische Sätze *a priori*, zum theoretischen Erkentnis gehörig, sind nur durch Anschauung in Raum und Zeit als Naturobject, mithin von Dingen als Erscheinungen, möglich. Synthetische Sätze *a priori*, zum practischen Erkentnis gehörig, sind nur durch die Idee der Freyheit möglich.
+
+S. I: Wir können keinen Imperativ der Pflicht haben (categorie, dynamische, der causalitaet) als nur unter der Voraussetzung der Freyheit, d. i. einem Vermögen, das von Naturbedingungen in seinem Thun und Lassen unabhängig ist, also nur so fern wir ein Wesen oder eine Eigenschaft (der Caussalität) desselben unabhängig ist annehmen.
+
+[AA 19:315] *B.* Wir können im Practischen zur Erkentnis des höchsten Zwecks *a priori*, d. i. ohne diesen in der Erfahrung (g von Glückseligkeit) aufzusuchen, gelangen durch den categorischen Imperativ, der uns die Freyheit entdeckt, aber auch indem er den Pflichtbegrif unerschütterlich Gründet für jenen Endzwek, der zugleich Pflicht ist, die Ideen von Gott und Unsterblichkeit in practischer Rücksicht (g hinreichend) begründet.
+
+--- Wir können zur Erkentnis der Dinge an sich selbst (des Uebersinnlichen), Gott und Unsterblichkeit, nur durch die Realität des Begrifs der Freyheit und also in practischer Absicht gelangen, und der categorische Imperativ ist ein synthetischer Satz a priori, ohne welchen wir nichts für unsere Zwecke überhaupt *a priori* erkennen würden. Denn wir müßen auch solche Zwecke uns vorsetzen, die wir *a priori* erkennen (nicht empirische), weil sie das Übersinnliche betreffen, und diese Begriffe *a priori* müssen aller 0ffenbarung des Übersinnlichen vorgehen und ihnen zum Grunde liegen.
+
+**7317.**   ω4.   B. K. B. 14 II.   R.-Sch. XI, 2. Abt. 163. Daß wir Pflichten auf uns liegen haben (Obliegenheiten), zeigt der categorische Imperativ bey jedem Falle des Gebrauchs unsrer Freyheit.
+
+**7318.**   ω5.   B. K. B. 13. Es ist etwas an sich verabscheuungswürdiges, sich einen militärischen Enthusiasmus zu dencken, einen Trieb und Würde, die Menschheit durch Menschen verabscheuungswürdig zu machen. Man muß das Abstractum des Muths, sich für das Wohl eines Staats überhaupt aufzuopfern, also nur unter der Bedingung der Verderbnis der Menschlichen Natur, aber nicht als Sache an sich selbst darin Ehre und Billigung finden. Indessen liegt darin doch etwas, was den Krieg für sich selbst zum Ehrenstand macht, wenn er auch ein Krieg der Söldener ist, und er ist immer ein Ehrenstand.
+
+**7319.**   ω5.   L Bl. L 1.   S. I: Der categorische Imperativ ist irgend von Iemand ausgesprochen, [AA 19:316] der Gewalt hat: nicht über sich selbst, denn da kann das Subject nachlassen oder vergeben, sondern von einem Gebieter in mir selbst.
+
+**7320.**   ω5 (1800).   L Bl. G 20.   S. I. Geht in Bestimmung der Willkühr die Lust vor dem Gesetz voraus, so ist die Lust *pathologisch* ---. Geht aber in dieser Bestimmung das Gesetz vor der freyheit Lust voraus und ein Bestimmungsgrund der letzteren, so ist die Lust moralisch. Also sind die objectiv bestimmende Triebfeder.
+
+**7321.**   ω5 (1800)   L Bl. L 20.   S. II. Der Begriff der freyheit und die Realität derselben kann auf keinerley Art bewiesen werden als durch den categorischen Imperativ. Der Begriff von Gott auch nicht theoretisch und unbedingt, sondern nur bedingt in practischer Absicht, nämlich der Moralisch=practischen. In technisch=practischer bey Gott Gunst und von ihm Glückseeligkeit zu erwerben, ist er contradictorisch, weil der Wille Gottes, um sie zu ertheilen, stimmt zu diesem Zwecke nicht zusammen.
+
+Der lohnsüchtige Glaube: Bibel.
+
+**7322.**   ω5 (wohl 1801).   L Bl. Völkerschlacht-Museum zu Leipzig-Thonberg.   S. I.   R.-Sch. XI. 2. Abt. 164. Man kann nicht besondere *Gewissenspflicht* annehmen; den Gewissen ist die Lauterkeit und Vestigkeit der sich selbst gethanen Zusagen und Erklärungen. Hier wird nicht nach dem Object der Zusage, die ich [AA 19:317] mir selbst thue, ob es gut oder böse sey, gefragt, sondern nur nach der Zuverlässigkeit der Declaration sich selbst Wort zu halten, gleich als ob eine höhere Macht zur Guarantie aufgerufen wäre ---; *conscientia absoluta* ist hier der *hypothetica contra* = distinguirt. Die Bedingung ist logisch; gehört nicht zur Moral oder Ästhetik. Vestigkeit des Vorsatzes ist Worthalten.
+
+[AA 19:319]
+
+[AA 19:321]
+
+[AA 19:323]
+
+[AA 19:333] **7323.**   ψ.   J 3.   Zu § 3 „societatis salus“: *formaliter non nisi in unionis perfectione, qvisqvis sit finis*.
+
+**7324.**   ψ.   J 4.   Ferner zu „progressu ad finem suum socialem“: *ex arbitrio ipsorum constituendum.*
+
+**7325.**   ψ.   J 4.   Zu „tanquam una persona“ *non semper sed quoad negotia socialia.*
+
+**7326.**   ρ? σ?   J 4.   Zu dem Schlussatz von §3: Im Staat mögen einzelne Glieder als Verschwender verarmen, wenn nur der Staat blüht, eben so societät der handlungsleute.
+
+[AA 19:334] **7327.**   ι.   J 6.   Zu § 6 „nexus iuridicus, nexus socialis“ *Societas vel Ethica vel iuridica.*
+
+**7328.**   ρ?   J 6.   Zu § 7, später durchstrichen: *non in omni societate est communitas bonorum aliqvorum.*
+
+[AA 19:335] **7329.**   ρ?   J 7.   Ferner zu „bonum commune--tenetur“, ebenfalls später durchstrichen: *dubito*
+
+**7330.**   ψ?   J 7.   Ferner nach „salus societatis suprema societatis“: *non sociorum singularium.*
+
+**7331.**   υ--φ? ψ?   J 7.   Zu § 9 „quae citra pactum coalescit“ *quae fieri debet.*
+
+**7332.**   υ--φ? ψ?   J 7.   Zu „necessaria (legalis)“: *naturalis (qvoad obligationem),* *e. g.* Eltern und Kinder.
+
+**7334.**   ι.   J 7.   Ferner: *Nulla societas necessaria nec familiae.*
+
+**7335.**   ι? υ??   J 8.   Zum Schluss: *Forma societatis est essentiale, ipsius materia iuridice spectatum* *materia est essentiale pragmatice.*
+
+[AA 19:336] **7336.**   κ? ρ--σ?   J 8. Nicht alle societät auch zum Guten Zweke ist erlaubt, und die an sich erlaubte ist nicht immer durch Gesetze bevestigt.
+
+**7337.**   ρ?? φ??   J 8.   Zu § 10 „ex pacto et fine societatis“: *non sociorum*
+
+**7338.**   ρ?? φ??   J 9.   Zu § 10 Schluss „finis vero socialis“: *sociorum*
+
+**7339.**   σ.   J 9.   Ferner zu „in subsidium dumtaxat“: *ad explicandas leges societatis.*
+
+**7340.**   ι--κ.   J 9.   Zu § 11 „libertas naturalis sociorum restringitur“: *libertas (g moralis externa) vel est Ethica, qvatenus aliqvis nemini* *ethice obligatur, qvatenus vero nemini iure tenetur, est libertas iuris.*
+
+[AA 19:337] *Nemo libertatem suam iactare praesumitur, h. e. alteri gratis ius in* *persona sua constituere. Ad rem suam iactare aliqvis potest ita, ut* *ipsi aliis ius constituat ab usu alicuius rei arcendi. *e. g.* Donans non* *praestat erictionem qvin pacto donatorio.*
+
+**7341.**   ι--κ.   J 9.   Ferner: er schränkt die verliert von der natürlichen und erwirbt die conventionelle freyheit.
+
+**7342.**   υ--φ.   J 9.   Zu „superest libertas et status naturalis“: *residuum libertatis naturalis.*
+
+**7343.**   σ--φ.   J 10.   Zu § 12 „consocium laedit“: *qvoad iura socialia.*
+
+**7344.**   ψ.   J 10.   Zu § 13 „laeso ius est postulandi ab universis“: *et universis ius laesi contra laedentem (delictum publicum).*
+
+[AA 19:339] **7345.**   ρ--σ.   J 15.   Zu § 23 „nemini competit praerogativa, nemini“ *singulo sed universis.*
+
+**7346.**   ι? κ--λ?   J 15.   Ferner zu „attamen societas esse potest aequalis“: *si tantum voluntas sit aeqvalis, etiamsi commoda non sint aeqvalia.*
+
+[AA 19:340] Desgleichen zu dieser Stelle: so lange sie sich wechselseitig zwingen können.
+
+**7347.**   ι?   J 16.   Zu § 24 „consensu est determinandum“: *per leges vel decreta.*
+
+**7348.**   ι.   J 16.   Zu § 25 „semper eodem modo“: *Mutatis legibus conventionalibus societas mutatur.*
+
+**7349.**   ι.   J 16.   Unter der letzten Zeile des ersten Absatzes stehen, wahrscheinlich der Anfang eines nicht vollendeten Satzes, die Worte: *Lex societate*
+
+[AA 19:341] **7350.**   ι? κ?   J 19.   Zu § 28 „maiora (plurima)“: *meliora*
+
+*vota non ponderanda sed numeranda.*
+
+*Per plurima nihil concluditur circa leges conventionales.*
+
+**7351.**   κ--λ? ρ--σ?   J 19.   Ferner zu „ut vota maiora concludant“: *non constituant. Omnium consensus reqviritur ad pactum fundamentale* *et originarium.*
+
+**7352.**   κ--λ?   J 19.   Ferner zu „minor pars obligetur“: *iudicetur.*
+
+[AA 19:342] **7353.**   ι--λ.   J 20.   Zu „omnes dissentire intelliguntur“: *liberum veto.*
+
+**7354.**   κ--λ?   J 21.   Zu § 29 „sine legibus subsistere“: *nec oriri.*
+
+**7355.**   ι.   J 22.   Neben § 31, Satz 2: *Societas ad*
+
+[AA 19:343] **7356.**   ι? κ?   J 22.   Zu § 31: Die societät wird dissolvirt, wenn die *obligatio ex pacto* exstingvirt wird; dieses kann nicht *delicto* geschehen. Also Kehret die Persohn durch ihr *delictum* nicht in ihren natürlichen Zustand zurük (welches eben so ist als bey *rebus, qvatenus fiunt res nullius).* Nur die societät kann *pactum* zerreissen. Aber bricht ab.
+
+**7357.**   ι.   J 22.   Auf dem unteren Blattrand: *Pag. 189 Nota sup:* **7358.**   ι.   J 23.   Zu § 32 „ius praescribendi -- potestas“: *potestas et potentia*. **7359.**   υ--φ? ψ?   J 23.   Ferner: *suum*. **7360.**   ρ? σ?   J 23.   § 32 Schluss: *legislatoria*.
+
+[AA 19:344] **7361.**   ι.   J 24.   Zu § 34 „ius leges ferendi“: *an etiam valide imputandi? Potestas legislatoria non executoria.*
+
+**7362.**   ι.   J 25.   Zu § 35 „imperans obligatur ad finem“: *sed si finis societatis non sit, nisi ut sit summus imperans nullo* *modo obligatus.*
+
+Es kann jemandem das Recht aufgetragen seyn, nach seinem Willen über das Recht der andern zu Urtheilen, damit nur nicht einer der Willkühr der andern unterworfen sey.
+
+**7364.**   ι.   J 24.   Über § 34: *Summus imperans non est regens vel Rector.*
+
+[AA 19:345] **7365.**   ι? κ?   J 26.   Zu § 37 „temperatum“: *restrictum limitatum*
+
+**7366.**   ι.   J 26.   Zu § 37 Anfang „Imperium perpetuum“: *unius hominis personae*
+
+**7367.**   κ-λ? ρ-σ?   J 26.   Ferner: *illimitatum, qvod origo est iniustitiae, est despoticum. Imperium* *totius societatis in semet ipsam est illimitatum sed non despoticum.*
+
+**7368.**   χ? ψ?   J 26.   Zu „despoticum“: ohne Gesetze
+
+**7369.**   ι?   J 26.   Zu § 38 Anfang „sine potissimum discretae“: *abs despotici non nisi unicus est modus.*
+
+[AA 19:346] **7370.**   σ.   J 27.   Zu § 38 Schluss: *Subditi respectu erga se invicem habito sunt aeqvales.*
+
+**7371.**   υ? ψ?   J 26.   Über und neben § 38: *Nexus (harmonia) hominum iurid est vel per subordinationem* *(superior, inferior) vel consociationem obligatus perdurabiliter ad certum* *genus actionum specifice per arbitrium alterius determinandarum* *est subditus.*
+
+**7372.**   υ? ψ?   J 27.   Zu § 39 „imperium hominis non extendi“: *non in actiones (g externas), in quibus internum. externo dissentire* *nefas est, *e. g.* ad religionem*.
+
+**7373.**   σ.   J 29.   In § 40: Alle Gesetze des *summi imperantis* müssen entspringen *qvasi ex consensu* *communi*, nemlich demselben nicht*nothwendig* wiederstreiten. Dieses macht das *imperium* zum *patriotico*. Wenn sie nur *ex arbitrio* *privato* möglich seyn (*unus adversum omnes*), so sind sie gewaltthätig, mithin despotisch.
+
+[AA 19:347] **7374.**   υ? ψ?   J 28.   Zu § 39 Schluss: *Imperium ideo est restrictum per conditiones liciti; principatus* *non est limitatum.*
+
+**7375.**   κ-λ? σ??   J 28.   Zu § 39 Schlussatz: *non differt, si penes subditum non sit ius externe voluntas arbitrium* *imperantis limitans.*
+
+[AA 19:348] **7376.**   υ-φ.   J 31.   Zu § 42 Anfang „Societas“: *perpetua ad commercium sexuale inita.*
+
+*ius partim personale partim reale.*
+
+[AA 19:349] **7377.**   κ? ρ??   J 34.   Zu § 46 „arctissimam simul unionem“: Sie machen eine Person aus.
+
+[AA 19:351] **7378.**   κ? υ-φ?   J 40.   Zu § 53 „adquirit“: *num adquier possum personam, tum mihi foret dominium.*
+
+**7379.**   υ-φ? ψ?   J 40.   Zu § 53 „illud fit meum“: *ius vitae et necis.*
+
+**7380.**   υ-φ? ψ?   J 40.   Nach § 53 „fit meum“: *procreatio sobolis est eiusdem acqvisitio*.
+
+*Non acqvirit ut rem sed ius alios ab eius possessione excludendi.*
+
+**7381.**   υ-φ? χ?   J 40.   Zu § 53 „facto parentum“ *Non disponere possunt.*
+
+Das Recht gegen die Kinder gründet sich auf Verbindlichkeit.
+
+[AA 19:352] **7382.**   υ-φ? χ?   J 41.   Zu § 54: Der Eltern Recht kann nur auf ihrer Verbindlichkeit gegründet werden, welche sie sich durch ein *factum iuridicum* zugezogen haben. procreation.
+
+**7383.**   υ-φ? χ?   J 41.   Zu § 54 Schluss: Die Ausnahme gilt nicht bey jenem angenommenen Grunde.
+
+**7384.**   υ-φ.   J 41.   Zu § 56 „parentibus ius competit“: *ad omnes actiones qvatenus sunt media.*
+
+Die Eltern haben nur in so weit *iura*, als sie nothwendige Mittel sind, ihre obligation zu erfüllen; diese obligation gründet sich auf das Unvermögen.
+
+**7385.**   υ-φ?   J 42.   § 56 Schluss: *liberi sunt sub imperio parentum, donec sibimet ipsis per naturam* *prospicere possunt.*
+
+[AA 19:353] **7386.**   υ-φ.   J 43.   Zu § 57 „ipsis erga se - incumbit“: *qvoniam qvilibet in culpa est et alteri tenetur ad explendas obligationes* *sociale.*
+
+**7387.**   κ? ρ?   J 43.   Zu § 57: „cum patris in matrem“ etc. *cui neuter renunciare potest.*
+
+**7388.**   κ? ρ?   J 43.   Zu § 57 „non potest ius prolis“ etc.: Hier ist ein exempel einer Schuldigkeit, welche nicht aus dem Rechte eines andern entspringt wie bey der donation.
+
+**7389.**   υ-φ.   J 43.   Zu § 57 „perfecte non debentur“: *proles nihil extorqvere potest, qvoniam nihil acqvisivit nisi gratis.*
+
+**7390.**   ξ? ρ-σ?   J 43.   Zu § 57 „merum parentum beneficium“: Die Eltern sind dem kinde nicht verbunden sondern der Menschheit Überhaupt in Ansehung des Kindes.
+
+[AA 19:354] **7391.**   υ-φ?   J 45.   Zu § 59 Anfang: *non tenetur parens ex pacto ideo ex facto.*
+
+**7392.**   υ-φ?   J 45.   Zu § 59 Anfang: *non pactitio.*
+
+Ferner: *lege non pacto obligantur proles, non acqvirit ius.*
+
+[AA 19:355] **7393.**   υ-φ?   J 46.   Zu § 61 „emancipatio“: *utrum proles opus habeat consensu parentum ad emancipationem.*
+
+**7394.**   υ-φ?   J 47.   Zu „consensus parentum“:: *utrum reqviratur ad matrimonium.*
+
+**7395.**   υ-φ?   J 47.   Zu § 62 „parentalis potestas est ius personlaissimum“ Er kann ihn nicht fremder Oberherrschaft unterwerfen.
+
+[AA 19:356] **7396.**   υ-φ?   J 48.   Zu § 63 „tutelae“: *ius parentale vicarium.*
+
+**7397.**   υ-φ?   J 49.   Zu § 65 „Subiectus quid pro alimentis“ etc.: *distinguitur a locatore operae, qvoniam hic certas operas certo* *tempore pro certa pecuniae summa praestare tenetur.*
+
+**7398.**   κ? ρ?   J 50. *Locator operae* giebt einem andern nur das Recht zu den producten seiner Handlungen und freyheit und bleibt also in ansehung seines Zustandes frey, seine Verbindlichkeit ist kein Gehorsam und des andern foderung kein Befehl. *Locator status sui* giebt dem andern ein Recht auf seine Kräfte in Ansehung einer Art Handlungen überhaupt. *Famulus et* *servus* sind beyde*subiecti* der letzte aber *absqve facultate de obligatione* *sua valide iudicandi*.
+
+[AA 19:357] **7399.**      J 50.   Zu § 65 „Famuli - Hera“: (Gesinde.) Brodtherr.
+
+**7400.**   ρ? υ-φ?   J 52.   Zu § 70 „servus domesticus“: Es wiederspricht sich für ein subiect *sui iuris* zu seyn und doch einem andern ein recht in sich zu constituiren in den völlig unbestimmten *usum*
+
+[AA 19:358] *virium suarum*. Er ist alsdenn blos Werkzeug und nicht Person. Ein solches *pactum* ist null und nichtig. Doch schlossen die Römer aus der Idee des *servi consequent*.
+
+**7401.**   ξ-ο.   J 52.   Ferner: *subditus mere passivus.*
+
+**7402.**   ξ-ο.   J 52.   Zu „herus servi despota“: absoluter Herr.
+
+**7403.**   ξ-ο.   J 52.   Zu „dominus servi“: Eigenthumsherr.
+
+**7404.**   υ-φ? ρ??   J 55.   Aussenrand. Zu § 72: Wenn der Zwang auch ungerecht wäre, so würde der *coactus* doch durch sein *pactum* obligirt seyn, und der *cogens* hätte doch kein recht.
+
+[AA 19:359] **7405.**   υ-φ? ρ??   J 55.   Zu § 72 Anm. „supponunt pactum victoris“ etc: *pactum leoninum ex tali *cogens* consensu extorto nullum ius acqvirit,* *sed coactus iuri resistendi renunciat.*
+
+**7406.**   υ-φ? ρ??   J 55.   Ferner zu „bellum et victoria per se consideratae“ etc: *etenim consensus coacti non est consensus arbitrii, ergo est superfluus.*
+
+[AA 19:361] **7407.**   ρ.   J 62.   Oberer Rand. Zu § 79: Die Glieder (aliirten) und Angehörige der Familie.
+
+Aus einem Kinde wird ein Angehö Glied oder der Familie.
+
+[AA 19:362] **7408.**   ρ.   J 63.   Zu § 82 „imperans familiae“: *Superior*. Er gebietet nicht und regirt sondern dirigirt *voluntatem* *communem*.
+
+**7409.**   ρ.   J 63.   Zu § 82 „deficiente patrefamilias“ etc.: Äußerlich ist der älteste Sohn *caput familiae*.
+
+[AA 19:363] **7410.**   ρ-σ.   J 64.   Zu § 84 Anfang: Fortdauer der Familien.
+
+[AA 19:364] **7411.**   ρ? κ?   J 68.   Neben „Ius Civitatis - Ius Gentium Universale“, § 87: *Ius gentium est etiam ius in statu naturali.*
+
+[AA 19:366] **7412.**   ι? κ??   J 74.   Zu § 89, 2 Anfang: *Non reqviritur, ut felicitas universitatis sit finis omnium, nam ad* *hoc reqvireretur communio quaedam bonorum.*
+
+**7413.**   ι? κ?   J 74.   Zu § 89, 2: „salus publica“: *iustitia publica.*
+
+[AA 19:367] **7414.**   ψ.   J 74.   Zu §89, 3 „Requiritur imperium“: *illimitatum*
+
+**7415.**   ψ? υ-χ?   J 75.   Zu § 91 „Civitas naturaliter constituitur pacto“: *fit populus.*
+
+[AA 19:368] **7416.**   ι-κ.   J 77.   Zu § 94 „imperium constituitur“: *constitutio, quo constituitur universitas civilis sive populus, deinde* *regulativum, quo instituitur respublica qvoad formam.*
+
+Zu „ex pacto repetendum“:
+
+*non ex pacto reali sed ideali*, weil der Zwang voran geht.
+
+**7417.**   ι-κ.   J 78.   Zu § 95: *Voluntas summi imperantis est anima fori externi, ergo iudicia de* *actionibus imperantis valida cum illis semper consentiunt, ergo delinqvere* *non potest.*
+
+**7418.**   ι-κ.   J 78.   Zu § 95 „imperium summum“: Oberherr, Beherrscher, souverain.
+
+Ferner: *non ideo illimitatum, erga adversus summum imperantem* *nemini sunt iura. Voluntas ipsius est lex et reciproce ideo summus* *imperans semper est ipsa civitas.*
+
+[AA 19:369] **7419.**   ρ-σ? ο??   J 80.   Zu § 98 Satz 3 „vocatur“: *est quasicontractus.*
+
+Zu „pactum subjectionis“:
+
+*alienati imperii.*
+
+Ferner:
+
+*Pactum subiectionis absolutae* unter den souverain und *restrictae* unter *principem repraesentat ipse populum ex pacto unitum.*
+
+Es kann kein *pactum* mit*summo suo imperante* stattfinden, weil ein Theil seine Bedingungen nicht zu erzwingen, ja gar nicht einmal darüber zu urtheilen, befugt ist.
+
+**7420.**   ρ-σ? ο?   J 80. Beym *pacto subiectionis* kann sich das Volk keine rechte vorbehalten, weil es sonst sich auch eine Gewalt vorbehalten müste, den *imperantem* zu zwingen.
+
+[AA 19:370] **7421.**   ρ-σ? ο?   J 80. *Contractus socialis* nicht *principium* der Staatserrichtung sondern Staatsrechts.
+
+**7422.**   ρ-σ? ο?   J 80.   Zu § 98 „maiestatem habeat“: *quasi*
+
+Zu „populo“:
+
+*deo tantum respondere tenetur* (s kann nur von Gott gerichtet werden).
+
+**7423.**   ρ-σ? ξ-ο?   J 80.   Zu § 98, 3 „usurpator imperii“: *Usurpator summi imperii aut illius haeres caret titulo aut titulo* *externo necessario caret, qvi est fons et principium iustitiae externae*,* *ideoque non laedit, sed interne iniustus est.*
+
+* (g *iustitia autem externa est status, in qvo ius externum praeditum* *est effectu.* )
+
+[AA 19:371] **7424.**   ρ-σ.   J 80.   Ferner: *respectu alius imperium praetendentis.*
+
+**7425.**   σ? φ??   J 82.   Zu § 100. „peculiares obligationes adhaerent“: *reqvirit adhuc superiorem imperantem.*
+
+**7426.**   υ-φ? ρ-σ?   J 83.   Zu § 101 „quo perficitur translatio“: *translatio imperii secundum *Hobbes*.*
+
+[AA 19:372] Zu „ut curam salutis publicae agat“:
+
+schreiben sie ihm auch vor wie, und behalten sich die Gewalt vor, ihn zu zwingen.
+
+**7427.**   σ.   J 84.   Zu § 101 Schluss: ob diese *obligatio stricta* sey und *ius civium cogens*?
+
+**7428.**   υ? ρ-σ? ο??   J 84.   Zu § 102 „curam felicitatis - administratio rei publicae“: *applicatio ad singulos per ministrum.*
+
+**7429.**   υ? ρ-σ? ο.   Zu „singulos et omnes protegere“: *Regimen et administratio sunt diversa.*
+
+**7430.**   σ? ρ??   Ferner J 85: Das Heil des Staats ist ganz was anderes als des Volks. Ienes geht auf das Gantze in Ansehung ihrer subordination unter Gesetze und der Verwaltung der Gerechtigkeit, dieses auf die privatglükseeligkeit eines jeden; das letztere zu besorgen gehört zu den Verdiensten eines Fürsten.
+
+**7431.**   ρ? ο? κ??   J 84.   Zu „Felicitas publica intrinsece“: zur Regirung gehöret, daß er nicht blos feldherrn setze, sondern es selbst sey, weil er die oberste Gewalt selbst führen muß. Ihm kommt also [AA 19:373] zu: Gesetzgebung, Schutz und Regirung, inspection. Aber nicht administration. Der König erniedrigt sich durch administration und macht alles ungewiß durch eigne *decreta*. Im letzten falle ist seine regirung despotisch, wenn er sich mit sachen der administration befaßt. Er inspicirt das ministerium, das gouvernement und die Landesgerechtigkeit. Er ist also Gesetzgeber, Regent und Feldherr.
+
+**7432.**   ρ? ο?   J 85.   Ferner: Durch die administration kan jemandem Unrecht geschehen. Es muß Nämlich der Unterthan muß nach einer gewissen Regel wissen, was ihm obliege. Diese ist das Gesetz. Wer das Gesetz anwendet, kan also Unrecht thun. Daher muß ein höherer seyn, bey dem er sein recht suche.
+
+**7433.**   ρ? ο?   J 85.   Zu § 102 „Tranquillitas“: *Securitas.*Es kan tranqvil aber doch sehr ungerecht zugehen.
+
+Ferner:
+
+*ab iniqvitate iudicis e laesione civis et vi exterorum.*
+
+Zu „status a metu“:
+
+*seditione*
+
+**7434.**   ρ? υ-χ?   J 84.   Zwischen § 101 und 102: Dem Souverain kommt die Bestellung und Erhaltung derjenigen Macht zu, die zur Sicherung der bürgerlichen Verfassung erforderlich ist, d. i. die Regirung; ob er zwar Regent seyn kann, ohne Souverain zu seyn.
+
+**7435.**   ρ? ο?   J 85.   Zu § 103 „subditorum civilium“: *non exterorum*
+
+[AA 19:374] Ferner:
+
+Er hat keine obligation, denn er hat keinen Willen*übel zu thun*; der so über den Gesetzen ist, kann nicht unrecht thun.
+
+**7436.**   ρ? υ-φ?   J 87.   Zu § 104 Schluss „imperanti civili - ius competit“: Das *imperium* erstreckt sich so weit, als ein Volk über sich selbst beschließen kann. Denn *imperans* ist immer repraesentant des Volks.
+
+[AA 19:375] **7437.**   ρ-σ.   J 87.   Zu § 106, 1 „in omnes actiones singulorum“: *non singulorum sed omnium sive universorum.*
+
+Zu § 106 Anfang:
+
+Er hat ein recht auf alles, was zur öffentlichen sicherheit und Wohlfarth gehört.
+
+**7438.**   ρ? ο? κ??   J 89.   Zu § 107 „actiones civiliter indifferentes - naturalis libertas“: **e. g.* Matrimonium, religio.* Die Wahl der Lebensart.
+
+Ferner:
+
+Die natürliche Freyheit wird durch den *statum civilem* gar nicht vermindert sondern *restringirt*. Ieder wird sich selbst verbunden. Alles *commercium* restringirt auch im *statu naturali* die Freyheit aber nur
+
+[AA 19:376] *potentialiter*. (s Der souverain hat ein recht in *actiones civiles*, sie zur *harmonia civili* zu restringiren).
+
+**7439.**   ρ? ο? κ??   J 89.   Zu § 107 „libertas civilis“: Die bürgerliche Freyheit besteht in der Gleichheit des Beystandes der öffentlichen Gerechtigkeit.
+
+Die privatfreyheit in der Befugnis der freyen disposition über alles, was nicht das *publicum* angehet.
+
+Ferner:
+
+Die Freyheit zu thun, was man will, ohne durch einen andern als den allgemeinen Zwang des Gesetzes eingeschränkt zu seyn.
+
+**7440.**   ρ? ο? κ??   J 89.   Zu § 107, 2 „imperium civile ab imperium despotico“: *imperium in omnes actiones.*
+
+[AA 19:377] **7441.**   ρ? ο? ψ??   J 92.   Zu § 109 „imperium plenum vel minus plenum“: *Imperanti civili semper competit imperium plenum sed non principi* *vel magistratui.*
+
+**7442.**   ι-κ? ν-ξ? 92.   J 92.     Zu § 110 „Democratia“: *subiectus est simul civis.*
+
+[AA 19:379] **7443.**   ι-λ.   J 98.   Zu § 113 „Potestas executoria“: *Exsecutio legis ut vel immediata vel per decretam iudicatoria.*
+
+Errichtung der Magistraete und der Macht.
+
+**7444.**   ι-λ.   J 98.   Zu „Potestas inspectoria“: Aufsicht nicht *allotriaepiscopia*.
+
+[AA 19:380] **7445.**   κ?   J 97.   Über § 113: Die positive Gesetze sind es allein, welche den Unterthan äußerlich obligiren, in Ansehung der natürlichen gilt keine äußerliche Gerechtigkeit.
+
+**7446.**   κ?   J 100.   Zu § 115 „Dispensatio“: *utrum impunitas in delicto publico vel privato.*
+
+[AA 19:381] **7447.**   κ?   J 100.   Zu „immunitatis concessio“: *non in casibus onerum ferendorum.*
+
+**7448.**   κ? ξ?   J 101.   Zu „Privilegium“: *potest esse exlusivum.*
+
+Ferner:
+
+*pertinent ad administra horatiana et possunt esse iniustae.*
+
+**7449.**   κ?   J 101.   Zu „ad iura maiestatica“: *ad iura non summi imperantis sed principis.*
+
+[AA 19:382] **7450.**   κ?   J 103.   Zu § 117 „ius competit, vi compellendi subditos“: *est propositio identica.*
+
+**7451.**   κ?   J 103.   Zu § 118, nach „Imperantis“: *maiestas magistratuum.*
+
+**7452.**   κ?   J 103.   Zu § 118 „Legis auctoritas“: Die auctorität wird dadurch infringirt, daß man dagegen disputirt, daher muß er keine Gründe anführen.
+
+**7453.**   κ? μ-ν?   J 104. Der souverain hat ein Recht, *negative* zu obligiren, das ist, daß niemand die Schranken des Rechts eines andern Übertrete; frägt sich, ob er auch *ad praestandum* obligire, oder ob dieses dem Fürsten zukomme.
+
+[AA 19:383] **7454.**   κ? ξ?   J 104.   Zu § 118 Schluss: *sunt pragmaticae non morales leges, enim ipsae sunt civiles non* *morales quemadmodum prosaicae.*
+
+**7455.**   κ? ξ?   J 105.   Zu § 119 „nemo--inquirenti possit“: *num semper inquirere deceat.*
+
+Ferner: *Si ante imputationem Praeviam fiat, necesse est, ut fiat subdito* *reparatio famae et satisfactio de infractione libertatis.*
+
+**7456.**   κ?   J 106.   Zu § 120 „negotium maiestaticum“: *sunt, quae fiunt vel respectu totius civitatis, sunt vel civilia respectu* *subditorum* a principe profecta vel majestatica.
+
+[AA 19:384] Ferner: *Negotia, qvatenus sunt species regiminis, sunt publica.*
+
+*Persona publica est, qvae qvando violatur, publicum violatur. Non* *repraesentat rempublicam.*
+
+**7457.**   ρ? υ-φ?   J 107.   Zu § 121,2 „nomine imperantis civilis“: *nomine regentis agit magistratus. Nihil fit nomine imperantis nisi* *promulgatio, nam omnis executio pertinet ad Regimen.*
+
+**7458.**   ρ?υ-φ?   J 107 ferner: *imperans non obligatur.*
+
+[AA 19:385] **7459.**   μ-ρ?   J 109.   Zu § 122 „imperium parit dignitatem“: *inviolabiliter*
+
+Zu „summa in republica dignitas“: *maiestas* Zu „dignitatem civiliter validam“: *perpetua observantia*
+
+**7460.**   μ-ρ?   J 110.   Zu „insignia gentilicia“: Wapen
+
+Zu „insignia ordinis equestris“: Ordenszeichen
+
+[AA 19:386] **7461.**   μ-ρ?   J 111.   Zu § 123 „ius per bona civitatis salutem publicam promovendi“: *bona*
+
+[AA 19:387] **7462.**   ρ? υ-φ?   J 114.   Zu § 126, 1 „ius suum violenter ipse persequatur“: Ob nicht im Fall der Ehre?
+
+**7463.**   ρ? λ?   J 115.   Zu § 128 „ius constituendi iudices“: *non abrogandi nisi coram iudico comitiali.*
+
+[AA 19:388] **7464.**   υ-ψ?   J 117.   Zu Titulus IV. „De iure circa felicitatem publicam“: *officium imprimes. Regiminis*
+
+**7465.**   υ-φ? λ?   J 117.   Zu § 130 „ius perficiendi civitatem“: *qvoad media, qvibus suam qvisque felicitatem curare possit.*
+
+[AA 19:389] **7466.**   υ-φ?   J 118.   Zu § 130, Anm.: *populo non nisi negotia privata et cum privata solo imperanti publica* *licita sunt.*
+
+[AA 19:390] **7467.**   ψ3-4?   J 120.   Zu § 132 „Dogmata religionis“: fides
+
+Zu „actus religiosi“: cultus
+
+[AA 19:394] **7468.**   κ?ι?   J 134.   Zu § 144 „ius, milites conscribendi“: *generaliter non potestas singulos denominandi sed vel per sortem* *iactam vel* bricht ab.
+
+[AA 19:395] **7469.**   ξ-ο? ι-λ??   J 136.   Zu § 145, statt „neglegendi bonum privatum“: *non curare ad tempus, postmodum refarciendi.*
+
+ψ. Zu „obtineri nequit bonum publicum“: *bonum generale non Partis potioris.*
+
+*replique* der Schutz. Aber nichts nehmen ohne Ersetzung, daher nicht das Leben, weil es nicht ersetzt werden kan.
+
+**7470.**   ξ-ο? ι-κ??   J 136.   Zu § 145. Der Oberherr ist eine *Macht* *respectu externo* und *Regent* *respectu* *interno*.
+
+[AA 19:396] Das Volk wird entweder betrachtet als eine Macht oder als ein Volk (Bürger); die Güter, die zur Macht gehören, sind *publica bona universitatis*, die dem Volk angehören sind *privata bona universitatis* und gehören zu ihrem Eigenthum. Dieses ist vor den Regenten heilig. Offentliche Güter des Staats oder des Volks.
+
+**7471.**   ξ? λ-ν??   J 137.   Zu § 146 „ius eminens - necessitatis“: *favor necessitatis*
+
+Ferner: *cessante iure incipit vis.*
+
+**7472.**   ξ? χ-ψ??   J 138.   Zu § 146 „ratio status“: *droit de convenance.* Das recht der Zuträglichkeit.
+
+**7473.**   ξ-ο? κ?   J 138.   Zu § 146, 1-2: Die souverainetät ist das oberste *principium* der öffentlichen gerechtigkeit; alles daher ist äußerlich Recht, ohne welches das erste *principium* der öffentlichen Gerechtigkeit nicht kann erlangt werden. Daher [AA 19:397] alles privatrecht, weil es ohnedem ohne jenes nicht kann ausgeführt werden, nur unter jener Hypothesi möglich ist und ihm weichen muß.
+
+Der *Casus necessitatis* ist kein Recht sondern eine physische (g subjectiv practische) *Unmöglichkeit* nach der *regel des Rechts* zu verfahren, weil man dadurch gantz unglüklich werden würde.
+
+Es ist aber unmöglich anzuzeigen, worin daß gäntzliche Unglük bestehen könne. Der tod ist es nicht.
+
+**7474.**   υ-ψ.   J 138.   Zu § 146, 2 „ius disponiendi de ipsis personis“: Das kan selbst niemand von sich.
+
+Zu „potestas eminens“: Ob man einen unschuldigen zum Beyspiel strafen oder jemanden das seine Nehmen könne?
+
+[AA 19:399] **7475.**   ψ? χ?   J 143.   Zu § 151 „Monarchia libera“: In dieser ist es auch unerlaubt, dem monarchen den Gehorsam zu verweigern, weil die Gesetze es verbieten.
+
+**7476.**   ψ? υ-χ?   J 144.   Zu § 151 „tantum potest unus“ etc.: Er ist der einzige, welcher vom Gesetze ausgenommen ist aber darum nicht über das Gesetz und nicht souverain.
+
+Der Despotismus besteht darin, wenn der Unterthan aber auch der Minister nicht einmal Erlaubnis hat, vorstellungen zu thun, sondern alles blos passiv ist und kein automaton.
+
+**7477.**   κ-ρ.   J 145.   Zu § 152, 2 „imperium est limitatum“: *restrictum*
+
+[AA 19:400] **7478.**   κ-ρ.   J 146.   In § 152 setzt Kant „Corregimine“ hinzu ein: *non* ---
+
+Am Rande links: Das Volk regirt nicht mit. Aber es giebt mit Gesetze.
+
+**7479.**   υ-ψ.   J 146.   Zu § 153 „ordines (status) monarchiae“: Stände
+
+[AA 19:401] **7480.**   ψ.   J 147.   Zu § 155 „nec princeps - abdicare“: *potest ut Monarcha.*
+
+**7481.**   ρ? κ?   J 148.   Zu § 157 „imperium publicum - non extenditur“: Ob er in Ansehung der Schulden unter obrigkeit stehe.
+
+Er übt niemals *actus privatos* selbst aus sondern jederzeit durch einen andern, der davor antworten muß.
+
+**7482.**   ρ.   J 149.   Zu § 157 Schluss: Die, durch die er handelt, müssen es verantworten.
+
+[AA 19:402] **7483.**   ρ? κ-λ?   J 152.   Zu § 160 „modus habendi imperium“: Die Art, wie er zum reiche gelangt.
+
+[AA 19:404] **7484.**   ρ? χ?   J 158.   Zu § 168 „successio - patrimonialis“: Rusland
+
+[AA 19:405] **7485.**   ρ.   J 159.   Zu § 169 „perfecte talis“: Die Spanische nicht.
+
+**7486.**   ρ? υ-χ? ψ?   J 159.   Zu § 169 Schluss „omne imperium - indivisibile“: auch nicht, daß es als ein Ganzes vor sich der theil eines andern werde.
+
+Die Erben können wohl in die Rechte der Oberherrschaft succediren aber nicht das Land, welches sie sonst besassen, dieses als accession acqviriren. Das geerbte Land muß seine besondere Regirung haben und ist von dem Interesse des andern Landes gänzlich independent.
+
+[AA 19:406] **7487.**   ι-κ.   J 169.   Zu § 171 Schluss „populus sui iterum“ etc.: *necesse itaque est, ut semper fuerit populus, h. e. totum subditorum* *ideoque duraverit civitas.*
+
+[AA 19:407] **7488.**   ρ? ο?? κ???   J 165.   Zu § 175 „singuli quique - est liber“: sind nur repraesentanten nicht *mandatarii*.
+
+[AA 19:409] **7489.**   ρ--σ.   J 171.   Zu § 183 „senatus supremus“: Der Senat regirt. Der Magistrat administrirt.
+
+[AA 19:410] **7490.**   ρ--σ.   J 173.   Zu § 186 „respublica mixta“: bey einer Monarchie ist mehr gleichheit der übrigen, bey einer democratie ist mehr Ruhe vor seines gleichen, also mehr subordination. bey einer aristocratie sind partheyen, also Unruhen und doch keine Gleichheit.
+
+[AA 19:413] **7491.**   ξ-ο? σ??   J 182.   Zu § 198: Keine bloßen Exempelstrafen.
+
+Ferner: Es kan niemand gestraft werden als nach bewiesenem Verbrechen. Also kann er nicht torqvirt werden. Aber *territio* findet statt.
+
+**7492.**   ξ? ι-κ??   J 182.   Zu § 198 Schluss „inauditus“: *utrum nec accusatus* (s öffentlich). Man muß gegen seinen Ankläger Recht haben, zu agiren. Daher muß ein solcher sich selbst Zur Verantwortung darbieten. Wer auf mich einen Verdacht bringt, laedirt meinen guten Nahmen.
+
+**7493.**   ξ?   J 182.   Ferner: Ob er ohngehört könne in Verhaft genommen werden und ohne daß der Kläger davor responsabel ist.
+
+[AA 19:414] **7494.**   ρ-σ.   J 184.   Zu § 200 Schluss: gegen den *summum imperantem* giebts keinen Richter und keine Gewalt, mithin kann er niemals als *laedens* angesehen werden.
+
+**7495.**   ρ-σ.   J 185.   Zu § 202 „rectius egreditur e civitate“: aber wie wenn dieses nicht erlaubt ist.
+
+[AA 19:415] **7496.**   λ? ι?    J 186.     Zu § 203 Schlussatz: *Qvis iudicabit?*
+
+**7497.**   λ-μ? ι?   J 186.   Zu § 204 „vocatur Tyrannus“: Wüterich.
+
+Zu § 204 Schluss: *subditi non possunt aliud facere, nisi se subducere* *imperio tyranni, ne ipsi inserviant instrumenta.*
+
+**7498.**   λ? ι?   J 187.   Zu § 205 Schluss: *Utrum tyrannus sit puniendus.*
+
+(Phase μ-ν?): *nullum bellum est punitivum.*
+
+[AA 19:416] **7499.**   μ? ρ? υ-χ?   J 187.   Zu § 206, 1 „obedientia mere passiva“: Hobbesianismus
+
+**7500.**   ρ?   J 189.   Zu § 207, Absatz 1: Die obere Gewalt einer Parthey, es sey unter den Großen oder dem Volk, die da usurpirt ist.
+
+[AA 19:417] (Phase υ-χ? ψ3-4?): Despotismus ist der Privatwille des Souverains als Monarchen, so fern er dem allgemeinen eines Volks überhaupt abbruch thut.
+
+Die Oligarchie ist der Privatwille im senat, der dem Allgemeinen des Senats Abbruch thut. Ochlocratie ist eben das beym Volk.
+
+Ferner: *Imperium summum illimitatum est despoticum.* (g Souverain). *Qvod non curat pactum originarium, est Tyrannis. Summus* *imperans amens qvomodo tractandus.*
+
+[AA 19:419] **7501.**   ψ.   J 195.   Zu „Iuris naturalis liber IV. Ius gentium universale“: 1, Das Staatsrecht. *(ius publicum civile) internum civitatis.*
+
+2, Das Recht der Staaten *(ius gentium) externum civitatum*.
+
+**7502.**   ψ-ω? σ? ξ??   J 197.   Zu 3 210: Ob ein Volk den Krieg continuiren könne, wenn sein Souverain gefangen ist?
+
+[AA 19:426] **7503.**   ψ? υ-φ?   J 217.   Zu § 234 Schluss: *non in bonis civium.*
+
+[AA 19:427] **7504.**   ψ? ξ?   J 220.   Zu § 238 „Sponsio“: Anheischigmachung
+
+[AA 19:428] **7505.**   ω? υ-χ?   J 221.   Zu § 239 „pacta publica sancta sunt“: weil kein richter ist als der innere.
+
+Wenn der andre sich nur auf mein Gewissen verläßt, so ist die Anheischigmachung heilig.
+
+[AA 19:429] **7506.**   ψ? χ? ρ?   J 223.   Zu § 242 „Foedus inaequlae“: Bund und Bündnis.
+
+[AA 19:430] **7507.**   ψ? υ-φ?   J 226.   Zu § 246, 1 „mandaturius“: *mandatarius in iure personalissimo.*
+
+Ferner: Also wegen Krieg und Frieden Grentzen, Alliantzen. Denn dieses recht kann kein souverain einem andern cediren, aber nicht wegen des rechts auf irgend einen Theil der Handlung *etc.*
+
+[AA 19:431] **7508.**   ψ? υ-χ?   J 228.   Zu § 248 „legatum admittere“: *item qvo titulo et charactere vestitum velit admittere.*
+
+**7509.**   ψ?   J 230.   Zu 3 251 „Ius commeatus“: *Passeport*
+
+[AA 19:432] **7510.**   ψ?   J 231.   Zu § 253, Absatz 2 „una cum comitatu“: *Suite*
+
+[AA 19:433] **7511.**   ψ-ω?   J 233.   Zu § 256 „a iurisdictione - est immunis“: *non contra in praeiudicium legum gentis ubi commoratur.*
+
+[AA 19:434] **7512.**   κ-λ?   J 235.   Zu § 260 „repressaliae“: *propria non sunt hostilitates, si maneant intra limites damni refarciendi.*
+
+**7513.**   κ-μ?   J 236.   Zu § 261 „eodem et ego erga illum utor“: *perdurabiliter*
+
+**7514.**   κ-μ?   J 237.   Zu § 261 „retorsio iuris iniqui“: Zölle detracten.
+
+[AA 19:435] Zu § 261 „retorsio iuris iniusti“: z. E. Das Strandrecht
+
+Ferner: *par pari referre* *omnis actio iniusta est, quae est fit per maximam necessario* *dissimulandam. Maximae debent esse (g publice) profitendae (propatulae* *apertae, retectae).*
+
+**7515.**   κ-λ.   J 238.   Zu § 262 „Privatum“: *civile*
+
+Zum Anfang von Absatz 2: *Si sit commercium inter duas gentes* *dissolutum, non ideo est bellum.*
+
+[AA 19:436] **7516.**   κ-λ? ρ?   J 240.   Zu § 266 Schluss: „fieri tamen talis potest“ etc. Dieses will anzeigen, daß der, so andre unterdrüken will, nur durch seine Unbehutsamkeit unrecht hat, seinen bösen Willen früher zu entdeken, als er zur Reife gekommen.
+
+[AA 19:437] **7517.**   κ-μ?   J 243.   Zu § 270 „ad solvendas impensas“: *poena*
+
+[AA 19:438] **7518.**   κ? ρ?   J 246.   Zu § 273 „direptio“: Plünderung
+
+[AA 19:439] **7519.**   κ-λ? υ-φ?   J 247.   Zu § 274 Schluss: er muß versprechen, sich nicht zu empören.
+
+**7520.**   κ? ρ??   J 247.   Zu § 275 „quae fert auxilium“: Wenn die Hülfe etwas allgemeines und bestimmtes ist, so kan sie nicht als feindseeligkeit angesehen werden.
+
+[AA 19:443]
+
+### [AA 19:445] Conspectus 325
+
+### Phase ι.
+
+#### Allgemeines.
+
+**7521.**   ι.   J I. *Iudicium de iure cuiusdam alteri obligatorium est competens iudicium,* *competens ad effectum (g iuris) sufficiens est validum.*
+
+*Qvoniam in re sua propria iudicium neminis adversum alterum* *sit est competens neqve verum iudicium ad praestandum iuris effectum* *sit necessario sufficiat, omnia iudi omne ius in statu naturali est effectu* *vacuum. Caret enim iudicium qvodlibet effectu iuris, etiamsi* *comitatum sit vi sufficienti at non obligatoria. Ergo iudicia omnia in* *hoc statu sunt idealia.*
+
+*Omnis obligatio valida nititur subiectione, nempe sub legibus cogentibus;* *ergo summus imperans valide non obligatur neqve delinqvere* *potest in subditum nec hic liberatur ullo modo delicto imperantis.*
+
+*Pactum unionis civilis est pactum subiectionis, qvo actuatur status* *civilis, ideoque civis hoc pacto non acqvirit* bricht ab.
+
+**7522.**   ι.   J 2. *Qvidam statum socialem a statu societatis distingunt, priorem a* *statu solitudinis distingvendo et eum in relatione ad alios homines qvacumque* *ponendo.*
+
+*Personae, qvatenus sunt concausae unius eiusdemque finis, sunt* *vel sibi sub qvoad causalitatem subordinatae vel coordinatae. Si prius* *una est causa principalis altera instrumentalis. Si posterius una est* *alterius causa socia sive Socius. Sociorum qva talium totum est Societas* *(materialiter spectata), nexus societas formaliter spectata.*
+
+[AA 19:446] Aus der definition der Gesellschaft erhellet schon, daß die Glieder der Gesellschaft müssen gleiche Rechte gegen einander haben, d. i. eines jeden Urtheil muß eben so viel Rechtskraft haben als das andere, imgleichen daß sie gleiche Gewalt haben müssen, einander zu zwingen.J 3. Zur Gleichheit gehöret eine gleichheit der Mittel, sein Recht zu perseqviren.
+
+**7523.**   ι.   J 3. *Status naturalis parum congrue opponitur sociali. Status enim* *naturalis potest esse vel solitudinis vel societatis, dummodo omnium* *actiones non habeant iudicem competentem nisi iudicium privatum.*
+
+**7524.**   ι.   J 3. *Societas est totum personarum, qvarum actiones iura reciproca qvatenus* *se obligarunt obligatae sunt ad agendum secundum voluntatem* *communem.*
+
+*Est itaque voluntas societas persona moralis. cuius voluntas complectitur* *voluntates omnium unitas et cuius vis omnium vires iunctas.*
+
+**7525.**   ι.   J 2. *Consociatio est coniunctio plurium ad perseqvendum finem communem* *et perdurabilem. Unio inde profecta est societas.*
+
+**7526.**   ι.   J 3.   Zu § 2: 1. *voluntas sola communis iure valida et cuiuslibet ius in omnes* *socios aeqvale per voluntatem communem et iudicium tantum competens* *societati.*
+
+2. *vis omnium unita ad securitatem cuiusque juris Praestandam.*
+
+**7527.**   ι.   J 7.   Zu § 8: *Auctor putat in trium societate ius et obligationem respectu societatis* *referri ad caeteros duos, qvod falsum, sed ad omnes tres. Ergo* *etiam in societate duorum diversa est relatio singuli adversus societatem,* *qvam qvae respicit socium. Qvanqvam in applicatione iuris in*
+
+[AA 19:447] *societate duorum absit,* qvod aeqvilibrium et voluntatis iudicii et virium* *tollere possit. Hoc autem valet de omni numero pari*
+
+* es ist die Frage, ob, wenn von den Pflichten des Mitglieds gegen die Gesellschaft die Rede ist, das *iudicium* desjenigen, dessen Recht gestritten wird, mit zu dem*iudicio communi* gehöre.
+
+**7528.**   ι-κ.   J 7. *Constitutiva societatis sunt socii.*
+
+*Societas vel denotat totum sociorum vel modum ratione communi* *iunctorum qvae est finis, vel formam coniunctionis. Forma societatis* *constat in subiectione voluntatum sub voluntate communi; igitur coordinantur* *subordinatio et consensus merus non est societas. essentiale,* *hic est, est cuiuslibet voluntas alium determinet non nisi per voluntatem* *communem et aeqvaliter.*
+
+#### De societate aequali.
+
+**7529.**   ι? κ?   J 17.   Zu § 26: Die societät kann vermittelst der Mehrheit der Stimmen nicht nur über allgemeine objecte beschließen; sie können nur aufs allgemeine gehen, daher sind es Gesetze.
+
+(Das Gantze beschließt über das Gantze; allein das Gantze weniger ein theil ist nicht das Gantze).
+
+Ein jeder muß eben dasselbe über alle beschließen, was alle über ihn, d. i. es ist ein Gesetz.
+
+Beym votiren wird die societaet als eine Persohn und die Glieder als besondere Willen und Neigungen derselben Person angesehen.
+
+Man kan in der societaet entweder den *socium* als das *accidens* ansehen, was *intro* subsistirt, oder die societaet und einen *socium*, was nur im *socio* subsistirt.
+
+**7530.**   ι? κ-λ?   J 18.   Zu § 26 Schluss: *Utrum aliqvis nonnisi voto proprio ad legem sed caeterorum omnium* *ad faciendum vel potiendum.*
+
+[AA 19:448] **7531.**   ι? υ-φ??   J 19.   Zu § 28: Ob die Freyheit mehr eingeschränkt ist, wenn nur die *unanimitas* decidirt oder *pluralitas*; ienes sichert die Unabhängigkeit, d. i. negative Freyheit, dieses die Macht, positive freye Macht.
+
+**7532.**   ι? υ-φ??   J 19.   Ferner: Ob ein Gesetz, wodurch man sich selbst die Freyheit der deliberation über die Freyheit raubt, nicht der Freyheit entgegen sey?
+
+**7533.**   ι? κ??   J 75.   Zu § 90 Anfang: *et qvilibet cives subditus est in libertate non licentia naturali*.
+
+**7534.**   ι? κ??   J 75.   Zu § 91: *Hominum in commercio positorum primaria obligatio est, ut sint* *in statu civili, hinc si nondum hic ortus sit, ut secundum regulas iuris* *actuent, si iam actu reperiatur, ne illam disrumpant. Si nondum sit aliqvis* *status nulla obligatio Ergo obligatio civilis et publica non est pactitia sed* *quomodocumque civitas sit orta et imperium necessario est indissolubilis,* *qvamqvam si fieri potest in melius mutabilis.*
+
+*Vtrum itaque civitas orta sit pacto an vi quaestionem iuris nihil* *attinet. Neque cadit pactum licet subiectis obligationes suas conditionibus* *sancti adstringere, qvoniam iura omnia pendent a iudicio alterius.*
+
+**7535.**   ι? κ??   J 75.   Ferner: *pactum contractus originarius utrum sit realis an idealis et utrum* *vi acqviratur ius imperandi.*
+
+**7536.**   ι-κ.   J 77.   Zu § 94. Die öffentliche Person, die aus dem*pacto civili* entspringt, heißt der politische Körper, Republic. In demselben werden alle Glieder zusammengenommen [AA 19:449] betrachtet als bekleidet mit der obersten Gewalt, genannt Souverain, als regirt durch dessen Willen, der Staat. Ein iedes Glied des Staats der republic, als ein theil des Souverains, heißt Bürger, als ein theil des Staats, Unterthan. Die Glieder des Staats im Verhältnis gegen einander, so ferne sie das subiect der association sind, heißen das Volk.
+
+**7537.**   ι-κ.   J 77. Keiner unterwirft sich dem Andern sondern ein ieder dem Gantzen, d. i. er gehöret mit zur Einheit desselben.
+
+**7538.**   ι-κ.   J 78.   Zu § 96: *summum imperium transferri non potest sed, si occupetur, obligat.*
+
+J 79. Zu § 97:
+
+J 79. Zu § 97: *Summus iudex*
+
+*Imperans est, qvi leges fert; regens, qvi exseqvitur et penes priorem* *est voluntas irreprehensibilis, penes posteriorem vis irresistibilis.*
+
+*lex, decrete, edicte.*
+
+Der Regent hat nicht die höchste Gewalt sondern den Theil derselben, den ihm der souverain verwilligt.
+
+Die Gesetzgebung, Regirung und Gerichtshof.
+
+Gesetzgeber, Regent* und richter; *potestas legislatoria, rectoria et* *iudiciaria.*
+
+* (s als *princeps*ist er keines gewalt unterworfen und kann nicht unrecht thun, obzwar andre, die ihm gehorchen, unrecht thun können. )
+
+Zu § 97 „populus est imperans civilis“: *non populus ut multitudo.*
+
+*Rector, subordinatus est magistratus.*
+
+**7539.**   ι? λ?   J 84: *Administratio est vel rectoria vel iudicatoria, prioris causae instrumentales* *immediatae dicuntur ministri, status mediata magistratus.*
+
+[AA 19:450] **7540.**   ι--κ.   J 88. *bona* gehören allen, *disiunctive* zusammen genommen, und sind *Privata*, nicht allen *collective* (g *copulative* ) zusammengenommen, und sind nicht *publica*. Der souverain ist eine idealische Person und hat kein Eigenthum. Die Gesetze der republic sind *iuris non Ethicae* nicht die größeste gemeinschaftliche Glückseeligkeit, sondern iedes besonderes recht gegen iede andern soll unterstützt werden.
+
+#### Ius belli gentium.
+
+**7541.**   ι? κ-λ?   J 249.   Zu § 278: Die *violatio iuris in genere distingvenda ab ea, qvae fit violando* *ius alterius. Causa (iuridice) est ius controversum. Quaedam tangunt* *causam generis humani. Qvaecumqve media iuris humani in genere* *irrita faciunt, pertinent ad causam generis humani ab universitate punienda;* **E. G.* Promissio, fallax. Fit in praeiudicio generis humani. Ingratitudo* *qvaedam merentur animadversionem. Cuilibet incumbit omnem* *nexum arbitrarium cum tali tollere*.
+
+### [AA 19:451] Phase π.
+
+#### De societate aequali
+
+**7542.**   κ.   J 7. Der Landesherr ist nicht befugt die Bürger zu Handlungen zu nöthigen, die dem *bono communi* gemäß seyn, sondern die gemeinschaftliche Gewalt dazu anzuwenden, daß der *finis privatus* eines jeden nicht gehindert werde.
+
+**7543.**   κ? ρ-σ?   J 7. Wenn die societät nur um des rechts willen errichtet ist, so geht ihr das privatwohl nichts an.
+
+**7544.**   κ-λ? ι?   J 14. *Auctoritas est praerogativa* (facultatis alios obligandi), arbitrii* *in obligandis aliis*. (s Ie allgemeiner die Befugnis ist andre zu obligiren, je weniger bestimmt und restringirt diese Freyheit der Willkühr ist, desto größer ist die autoritaet. arbeiten, gehorchen, dienen, unterthan seyn. )
+
+* (g *obligantis, non obligandi per arbitrium alterius*. )
+
+**7545.**   κ-λ? υ-φ??   J 14   Zu § 22 „imperium“: *Oberherschaft. Befehlshaber.* Würde.
+
+[AA 19:452] **7546.**   κ-λ? ρ? ω??   J 14.   Ferner: dessen bloßer Wille einen andern *stricte* obligirt, ist *imperans*.
+
+**7547.**   κ-λ? ι?   J 14. *Superior est genus, inferior species*
+
+*Superior, cui est potestas leges ferendi, est imperans. Imperans* *non est socius; hic enim consocio perfecte est obligatus, qvoniam autem* *imperanti competit potestas legislatoria. omnis obligatio socialis pendet* *ab imperante, ergo hic sibimet ipsi esset iure obstrictus.*
+
+*Potestas legislatoria societatis non potest residere nisi in voluntate* *communi.*
+
+*Imperans itaque non est nisi societas.*
+
+*Ius imputandi sibi valide leges, qvi alteri constituit, est subditus.*
+
+*Societati non competit ius valide imputandi.*
+
+*Si est societas duorum: utrique hoc ius competit.*
+
+*Imputatio valida est decretum.*
+
+**7548.**   κ-λ? ρ?   J 15. *Societas aeqvalis est, in qva non sunt obligationes (g affirmativae)* *nisi arbitrio contractae et media iuris utrinque aeqvalia*.
+
+Alle *societas* ist *aeqvalis*. Denn alle theile eines Gantzen sind einander coordinirt (das ist *reciproce actio*). Zu der *unione voluntatum* wird erfodert, daß ein jeder Wille ein Theil vom gesamten Willen sey und also ein jeder durch den Gantzen willen nur regirt wird, so fern er seinen eignen Willen mit der anderen ihrem Verbunden hat. Zwischen *imperante* und *subdito* ist keine societät.
+
+**7549.**   κ-λ? ρ?   J 15. *omnis societas qvoad potestatem est aeqvalis non qvoad usum*.
+
+**7550.**   κ-λ? ρ?   J 15. *Societas aeqvalis est, qvae non tantum oritur ex arbitrio communi,* *sed cuius omnes actus non procedunt nisi secundum arbitrium commune*.
+
+[AA 19:453] **7551.**   κ-λ? ρ?   J 16.   Zu § 25. *Pacta conventa leges oonstitutivae proficiscuntur ex unanimi consensu,* *qvoniam iis societas oritur. His Positis societas sancit leges deliberativas* *e consensu plurium et constituit iudicem competentem,* *cuius iudicia feriunt singulos et dicuntur decreta*.
+
+**7552.**   κ-λ? ρ?   J 17. *Vnanimi consensu* muß beschlossen werden welcher, ob und was *consensu* *plurium* könne beschlossen werden; d. i. *leges constitutivae* können nur *unanimiter* beschlossen werden, die *leges executivae per maiora*.
+
+**7553.**   κ-λ? ρ?   J 17. **Voluntas societatis* est vel *publica* vel *privata*; prior in* *socium indeterminate (in genere) posterior in socium determinate, h. e.* *in (specie) tendit. voluntas publica est legislatoria privata decretoria.* *In priori societas immediate, in posteriori casu non nisi mediate concludit.* *Persona, cui a societate demandatum est voluntatem generalem* *applicandi, in individuo habet potestatem executoriam*.
+
+**7554.**   κ-λ? ι?   J 23. *Praestationem operae facti alicuius petit, qvi actionem alicuius* *erga se non nisi titulo Ethico expectat, qui titulo iuris exigit, qui actionem* *ab aliqvo exigit, qvatenus ipsi hanc non determinate sed ut contentam* *sub genere actionem pro arbitrio ipsi determinare ius est imperat*.
+
+**7555.**   κ-λ? ψ??   J 26.   Auf dem unteren Blattrand: *Cuius obligationes singulares (g sub certo genere contentae specifice)* *per arbitrium alicuius solum determinantur, est alteri subiectus,* *cui ius competit, alterum ad actiones (g sub certo genere contentas) pro* *arbitrio specifice obligare, est superior. Superior iubet. Superior, cuius*
+
+[AA 19:454] *iussui in certo genere actionum statu ius suum opponere nefas est imperans,* *alter subditus*.
+
+**7556.**   κ-λ? ψ??   J 27. *Imperans, cuius *arbitrium omnimode obligat* , est *absolute** **imperans* et ipsi subditus est: Unterthan, subiectus. Qvi ipse *nullam** **sui obligationem agnoscit, est Despota et subditus despotae*,* *cui nullum adversus imperantem ius, est *servus*.*
+
+**7557.**   κ-λ? σ??   J 26.   Zu § 37. *Arb *Imperium* ad qvod refertur, cui respondet obedienti a subditi* *mere passiva, est despoticum. Qvatenus potestas imperantis arbitrio* *subditi limitatur, est temperatum*.
+
+**7558.**   κ-λ? ρ-σ?   J 26.   Zu § 37. *Utrum omnimode *subiectus* imperanti sit servus domini?*
+
+*Nempe subditus imperans, qvatenus ipsius imperium legibus qvibusdam* *est adstrictum, quae conditionem obedientiae subditi constituunt,* *est Rector, non Dominus, et subditus parens proprie legibus,* *qvibus nititur potestas legislatoris, non dicitur servus*.
+
+**7559.**   κ? ρ?   J 26.   Auf dem oberen Blattrand: Gebieter --- *princeps* *subjectus est civis* Oberhaupt des Staats oder Das Staatsoberhaupt
+
+Er kann Beherrscher heissen, ohne Eigenthumsherr zu seyn, indem er der Schutzgeist des Eigenthums aller ist.
+
+**7560.**   κ? ρ?   J 26. *Imperans, qvatenus est *dominus**, est despota.* Der Eigenthumsherr, der Unterthan.
+
+[AA 19:455] * *(g qvatenus non nisi pro arbitrio communi est princeps. Dominatrix* *potestas vel principatus. )*
+
+**7561.**   κ--λ? ι??   J 26. *Qvatenus status subditorum pendet a lubitu imperantis imperans de* *statu subditorum pro arbitrio suo disponere potest, hic est dominus.*
+
+**7562.**   κ--λ? ρ??   J 26.   In § 37: *Imperium absqve consensu subditorum per se sufficiens sive imperium* *ex arbitrio privato est despoticum ex communi patrioticum.* Da er den Staat beherrscht als eine familie. Alsdenn sind die *subditi* ist der Staat in ansehung der unterthanen ein Vaterland des *imperantis;* auctorität ist blos auf die Erhaltung aller Rechte eingeschränkt. Er schränkt seine Handlungen so ein, daß das *imperium* eben so *perpetuum* sey wie der Staat, d. i. so, daß die Regeln, welche die Staatverfassung (nicht Einrichtung) beständig machen, seinen Willen restringiren.
+
+**7563.**   κ--λ? ο? υ??   J 27.   Auf dem oberen Blattrand: Die durch die condition der Dauerhaftigkeit des Staats und der Beständigkeit in den Regeln der Regirung restringirte Gewalt ist nicht limitirt, denn sie wird dadurch allererst rechtmäßig. (Die Ausnahmen von dem, was an sich selbst unrecht, d. i. moralisch Unding, seyn würde, ist keine Einschränkung sondern nur die festsetzung einer Regel.)
+
+#### De matrimonio.
+
+**7564.**   κ--λ? ι??   J 30.   Auf dem oberen Rand: Eine Societät ist *legitima,* wenn sie keines Rechte wiederstreitet;
+
+sie ist legal, wenn sie der Grund eines gegenseitigen Rechts der *sociorum* ist.
+
+[AA 19:456] Ob die *scortatio* oder *concubinatus* legitim sind *iure naturae,* darauf dient zur Antwort: ia, aber *negative,* d. i., sie sind möglich ohne das dadurch iemand unrecht gechieht, aber sie sind keine *nexus legales.*
+
+*pactum sexuale semper est bilaterale, non temporarium sed perpetuum.*
+
+**7565.**   κ--λ? ι??   J 31.   Auf dem unteren Rand: Die *Nominaldefinition* des *matrimonii* ist: *est societas legitima* *maris et feminae, per qvam ipsis licet mutuo uti facultatibus et viribus* *sexualibus.*
+
+Die *Realdefinition* ist diejenige, welche die *conditiones* anzeigt, unter welchen diese *societas iure valida* sey.
+
+*Si ius utendi facultatibus et viribus sexualibus non est mutuum,* *societas illa est concubinatus. Si plane non adest societas, perdurabilis* *est scortatio.*
+
+(s Würde das Recht der Menschheit nicht die freyheit über seine Persohn zu disponiren einschränken, so müßte man einer Kuplerin zugestehen, die Persohn, die ihre Keuschheit verkauft hat, zu zwingen, contract zu halten. )
+
+**7566.**   κ--λ? ι??   J 31.   Auf dem oberen Rand: *Jus nemini constitui potest in statum actiones, legibus Ethicis contrarie* *oppositas, sed in tales qvae illis privative oppositae sunt. Non* *consentire ad finem naturae est defectus moralis. Repugnare effectibus,* *qui constituunt finem naturalem actionum liberarum, est Vitium. Status,* *qvi cum vitio morali necessario iunctus, est illegitimus, qvi cum* *defectu morali non item.*
+
+**(g** Er handelt nach dem Gesetz der Natur *intellectualiter* obzwar nicht *rationaliter.*
+
+*Qvaeritur quidnam, hic sit iuris naturalis non Civilis nec Ethicae.*
+
+*Reqviritur, ut liberi procreandi sit certi patris absque legibus.* **)**
+
+[AA 19:457] **7567.**   κ--λ? ι??   J 31.   Auf dem Aussenrand: *Considerandus venit primo status consociationis maris et feminae,* *cuius finis est usus mutuus facultatum et virium sexualium, qvo non* *intenditur propagatio sobolis. Hic est licitus dummodo non impediat* *consectaria, quae finis naturae cum tali commercio coniunxit. Si esset* *illicitus, foret etiam* der ledige *coelibatus.*
+
+*(Secundo utrum licitus sit status talis natura non excludat alios* *ab eodem commercio). Secundo utrum societas illa necessario sit perpetua?* *Tertio utrum necessario excludat omnes alios extra societatem* *perpetuam commercio illo usuris, h. e. utrum ius hoc sit alienabile sine* *status extinctione? Item utrum alieni concedi possit facultas moralis* *utendi commercio sexuali absque societate perpetua?*
+
+*Qvarto utrum sit locatio, conductio absque, an etiam pactum* *gratuitum de usu huius commercii concedendo possibile sit? Responsio:* *concubitus naturalis dat ius societatis perpetuae et simul obligationem.*
+
+**7568.**   κ--λ.   J 31. Man kann kein Recht aus dem Verwilligten Gebrauch seiner Zeugungsglieder an eine Person anderes Geschlechts erwerben als dadurch, daß man sich ein Recht constituiren läßt, den andern in Ansehung dieses Gebrauchs sich beständig eigenthümlich zu haben. J 30: Hier deriviren sich die *iura* *utendi a iure in re propria (societatis).* Denn weil nach dem ersten Zwek der Natur die *functiones sexuales* auf die propagation und education abzielen, so haben sie es zum Vornemsten Gesetz, daß der Vater gewiß sey; daher kan eben dasselbe Weib nicht einigen gemein seyn; also ist das Recht des Beyschlafs ein eigenthümlich Recht des Mannes.
+
+**7569.**   κ--λ.   J 30. Es kan etwas *factum iniustum* seyn *respectu iuris naturalis in genere* oder *iniustum respectu iuris alicuius in specie, h. e. non delinqvitur* *in aliqvem in specie.* Die Ursache ist, daß im ersten falle das mögliche Recht der Menschen laedirt wird, d. i. gehindert wird, daß sie die *iura* *naturalia* erwerben können. Lügen.
+
+[AA 19:458] **7570.**   κ--λ.   J 31. Es frägt sich nicht, ob die Hurerey und das concubinat moralisch möglich sey, sondern ob es auch rechtskräftig werden kann. Nemlich ob iemand *locatione conductione* ein recht auf den *concubitum* oder eine *deflorata* durch den *pactum ius alimentationis* erwerben könne, oder *pactum* *concubinatus iure validum* sey. *Responsio:* Ich kan nicht sagen, *uti partes de corpore suo disponunt ita ius est.*
+
+**7571.**   κ? μ--ο?? υ??   J 30. In ansehung der Geschlechtseigenschaften haben weder *mas* noch *femina* *ius utendi re sua* sondern nur *ius alteri usum fructum concedendi.* Die Ursache ist, weil die wesentliche (g Bedingung) der Gliedmaßen auf der Erhaltung der Art beruht, und er nicht dawieder handeln muß. Sie können nur *in communione* sich derselben bedienen. Man laedirt die Menschheit, wenn man wieder die Mittel ihrer Wesentlichen Zweke handelt aber nicht, wenn man solche nicht befördert. Denn diese hat sie aufs Belieben ankommen lassen und sich blos des instincts und nicht der Pflcht bedient. Man kan über sich selbst nicht *per vagam libidinem* disponiren.
+
+**(s** Dieses ist die einzige disposition über der Persohn eines andern, sonsten ist nur ein *ius reale* in Sachen. Das *dominium reciprocum* *personae* ist möglich, so daß niemand anderes über dem einen disponiren kann ohne *consensu alterius. Unio perfecta.* **)**
+
+**7572.**   κ--λ? ρ?   J 30. Von den *Pactis,* da jemand über seine Persohn zum Gebrauch des andern disponirt. Sie sind alle null und nichtig ausser das *matrimonium;* denn niemand ist sein eigen Eigenthum, weil er sonst, indem er über sich muß disponiren lassen, eine Sache und, indem er disponirt, eine Persohn. Wenn über ihm aber kann disponirt werden, so hat er keine *iura.* J 31: Weil wenn er über sich selbst disponirt (nicht blos über das seinige *pertinens* *non adhaerens*), so hat er auf seine Persöhnlichkeit renunciirt. Die renunciation aber kann kein *actus iuridicus* seyn, weil dazu eine person [AA 19:459] gehöret, also *etc.* *etc.* Über das, worüber jemand disponiren kann, kann auch ein anderer *ad satisfaciendum iuri suo* disponiren, folglich eine persohn in Zahlung nehmen.
+
+Das *commercium sexuale* ist unter keiner andern condition als des *matrimonii* erlaubt. Wer von beyden theilen dem andern dieses ausschlägt, hat so zu sagen der *conditioni tacitae* des *actus* entgegengehandelt, oder vielmehr der dadurch leidet, kann den andern zur Ehe zwingen, weil aus einer natürlich unerlaubten Handlung man alle entspringende Schaden repariren und alles wieder der Natur gemäs einrichten muß.
+
+**7573.**   κ? μ--ο? υ??   J 31. *Pactum necessarium ex facto obligatorio* ist das *matrimonium.*
+
+**7574.**   κ? μ--ο? υ??   J 31. *Est pactum naturalibus legibus restrictum, *i. e.* usus facultatum* *sexualium non est iuridice arbitrarium.*
+
+**7575.**   κ--λ? ρ?   J 30.   Innenrand neben § 41: *Pactum fornications, concubinatus* sind null und nicht.
+
+Doch muß die Gemeinschaft der Geschlechter *pacto* geschehen, *vel* *gratuito vel oneroso.* Das letztere ist nur erlaubt und zwar *reciprocae* *dominii pleni,* welches sich also auf die Gleichheit restringirt und kein anderes recht übrig läßt als in *usum sexus.*
+
+**7576.**   κ--λ? ρ?   J 30.   Ferner: Alles *pactum,* Welches der Menschheit wiederstreitet, ist *a natura* null und nichtig. Ich kann aber mich oder meine Gliedmaßen nicht veräußern.
+
+**7577.**   κ--λ? ρ?   J 30.   In § 41: Ich kann nicht *consensu alterius* ein recht *ad naturaliter illicita* bekommen; *non possum alicui ius constituere in naturaliter turpia.*
+
+[AA 19:460] **7578.**   κ--λ? υ--φ? ψ?   J 30.   In § 41: *Contractus commercii sexualis.*
+
+**7579.**   κ--λ? υ? φ?   J 30. 31.   Am oberen Rand. 30: Man muß beweisen, daß ein Weib, wenn sie sich auch Willkührlich dem Manne zum Gebrauch überlassen hat, J 31: dennoch *facto* ein recht bekommen hat, ihn zu einer Ehe zu zwingen (*factum obligatorium*), und dieses entweder um der Pflicht der Menschheit willen oder um des Kindes willen. Ienes ist natürlich.
+
+**7580.**   κ--λ? ρ??   J 32. 33. 32: Alle theile des Menschen haben ihrer Natureinrichtung gemäß einen absoluten Gebrauch vor die Persohn selbst, der sie angehören, die Geschlechter=Gliedmaßen und Kräfte ausgenommen. Sie gehören als theile des Körpers der Persohn selbst an, so ferne sie aber gebraucht werden sollen, muß einem andern ein Recht dazu constituirt werden. Nun ist durchaus *dominus utilis* nöthig,* wenn iemandem *usus* soll *licitus* seyn. Die Person selbst ist nicht *dominus utilis,* also muß einem einzigen andern das *dominium utile* constituirt werden. Nun kann dieser *usus* keinem concedirt werden, ohne daß der andere *vicissim* den *usum* concedire, und dieser kann auch nicht ohne das *dominium utile* concedirt werden. Also hat der Mann und das Weib *wechselseitig* in Ansehung der Geschlechtstheile *dominium utile* doch so, daß es dem *dominio directo* nicht wiederstreite, d. i. der Gesundheit und Gemächlichkeit des andern, worüber der andere theil nur urtheilen kann. Dieses *dominium utile* kann vom *iure utendi* nicht getrennet werden. Es ist nicht *divisibel* auch nicht *alienabel*. Es ist **ius in re.** Denn es ist *ius in membra non praestationem operae.* Es giebt sonst kein *ius in re ad alterius personam pertinente.* (s Wäre es ein *ius personale ad praestandam operam,* so könte dieses Recht andere nicht ausschließen *ab eadem opera praestanda.* )
+
+Hieraus folgt von selber: 1. daß die Hurerey *iure naturae* unerlaubt sey, nicht weil man dadurch einen andern laedirt, sondern weil nach der Regel des Rechts der andere den *usum* der *sexual* Eigenschaften nur *sub* *conditione dominii* erlangen kann; dieses also *tacite* tradiret ist, und es [AA 19:461] eine contradiction des Rechts ist, daß keiner Weiter an den andern gebunden sein soll.
+
+2. daß dieses *dominium utile* indivisibel sey; also die polygamie und polyandrie unerlaubt sey.
+
+3. daß der *dominus utilis* sein recht auch nicht zum theil alieniren könne.
+
+4. daß dieses *pactum* nicht anders als *delicto partis alterius* könne dissolvirt werden.
+
+5. daß der coelibat erlaubt sey, folglich das *connubium* auch als *sterile* könne angetreten werden.
+
+6. daß weil niemand anders ein Recht hat, von dem Gebrauch der sexual Eigenschaften des andern zu urtheilen, als die *paciscentem;* daß *spadones* und *evnuchi* heyrathen könen, ob es gleich *civiliter vetitum* ist.
+
+7. daß die validität des *pacti matrimonialis* nicht auf der *spe propagandae* *sobolis* beruhe, weil es sonsten auch nur so 33: lange würde gültig seyn, als diese Hofnung währet, und weil wir keinen instinct haben, der unmittelbar auf die propagation gehet, aber wohl einen, der unmittelbar aufs Geschlecht gehet, und daraus die Natur auch ohne Absicht der Menschen Kinder ziehet. Wer aber dem Natürlichen Instinkte nach dessen Gesetzen folgt, handelt nicht dem Gesetz der Natur entgegen, ob er gleich nicht den entferneten Zweck intendirt und auch weiß, daß er nicht erreichet wird. Dieses ist *malum defectum non vitium.*
+
+32: (g *coelibatum* )
+
+(g Wem das Kind aus der Hurerey gehöre. )
+
+kein Mensch *dominium utile* seiner eigenen habe und also kein Recht habe, sie selber zu gebrauchen: *ius utendi, fruendi re sua,* wie ich dieses sagen könne, da er doch nicht einen andern laedirt; 1stlich ist hier *peccatum* *internum 2. actio, qva utile non solum privatur usu sed etiam* *utilitate externa, est laesio potentialis.* )
+
+**7581.**   κ--λ? ρ??   J 33. Ob ich sagen könne, eine Frau habe Freyheit *de re sua* zu disponiren außer der Ehe?
+
+[AA 19:462] **7582.**   κ--λ? ρ??   J 33. Es frägt sich, wem gehören die Kinder? Wenn sie als früchte angesehen werden, so gehören sie dem, so das *dominium utile* hat. Nun sind sie früchte so wohl des Mannes als des Weibes, und beyde haben *dominium* *utile;* also gehören sie beyden. Dieses ist so ferne, als ein jeder das recht hat, es zu fodern. Was aber die Verbindlichkeit anlangt es zu behalten und zu ernähren (weil man einem Rechte renunciiren kan), so ist der Grund darin zu suchen, daß in Ermangelung des *domini utilis* der *dominus* *directus* Eigenthümer der Früchte ist.
+
+**7583.**   κ? ξ?   J 33. *Munus proxeneticum*, der Kuppelpeltz. Arrha.
+
+**7584.**   κ? μ--ο?   J 33. Daß das recht auf die Geschlechtseigenschaften des andern kein *ius* *personale ad operam praestandam* sondern *reale* sey, erhellet daraus, weil erstlich, wenn mir alle *opera* geleistet werden, diese einem andern auch könnte geleistet werden, und ich auch nur das Recht hätte, im Ehebruche nur wieder die Frau nicht aber gegen die Männer zu agiren.
+
+**7585.**   κ--λ? ρ??   J 33. Es frägt sich ob das *pactum matrimoniale* vor dem *usu mutuo sexuali* voraus gehe oder dadurch *tacite* anfange. Antwort: weil alsdenn praesumirt werden kann, die Frau so wohl als der Mann habe die Absicht *utendi, fruendi re sua*, so ist dadurch das *dominium utile* nicht tradirt sondern vielmehr ein Grund, kein solches *pactum* einzugehen. Wem gehöret aber das Kind?
+
+**7586.**   κ--λ? ρ??   J 33. *Matrimonium est societas maris et feminae, qvibus erga se mutuo* *competit ius (s secundum naturam) completum in usum facultatum et* *membrorum sexualium.*
+
+*(s est ius personalissimum. cuius laesio est laesio personae. )*
+
+[AA 19:463] **7587.**   κ--λ? υ--φ?   J 33. Der Mann hat *potestatem rectoriam rei domesticae* aber kan der Frau nichts befehlen; also hat er ein Vorzug der disposition.
+
+**7588.**   κ--λ.   J 34.   Zu § 46. Die polygamie ist vom concubinat in nichts unterschieden, als daß ein Mann viele concubinen zugleich hält. Die Frau hat in andern ihrer iener Gesellschaft nicht das Recht, den Mann zur abstinentz anzuhalten und in der polygamie auch nicht, obzwar alle *in Communione* ein Recht zu eben demselben Manne haben, welche communion aber Unbestimt ist, indem es auf das Belieben des Mannes ankommt, wie vieler Weiber haben will.
+
+**7589.**   κ--λ.   J 34. Der *concubinat* ist von dem **stupro* (s scortatione)* nur unterschieden, daß darin ein *pactum* ist, wo ein theil den andern auf eine Zeitlang oder beständig von anderer sexualgemeinschaft ausschließt, der andere aber an diese abstinentz nicht gebunden ist.
+
+**7590.**   κ--λ? υ??   J 34. *per pactum coniugale constituitur, cuilibet sexui servitus in re* *sexuali alterius, et haec servitus est reciproca et personalis. maris potissimum* *ius potest comparari servituti ipsi in femina constitutae, feminae* *autem ius potius est personale, quia maribus operam praestare tenetur,* *uxor autem pati obligatur, ut alter re ipsius utatur; igitur iura sexus* *non plane aeqvalia, (s servitus aliqvid faciendi vel patiendi et iterum* *erga alios non faciendi vel non patiendi) servitus mulieris eatenus est* *negativa, qvatenus cum nemine. usum hunc rei suae communicare, ideoque* *aliqvid non facere tenetur.* (s jeder verehlichte kan *actionem realem* in Ansehung der Entweihung anstellen. )
+
+**7591.**   κ? ρ??   J 34. Wenn *matrimonium temporarium* möglich wäre, so wäre auch ein *momentaneum* möglich, d. i. aber ein *stuprum.*
+
+[AA 19:464] **7592.**   κ--λ? ν??   J 34.   Auf dem unteren Blattrand: Daß die Zweke der Vorsehung nicht immer die der Menschen seyn dürfen, sehen wir hieraus: Die Liebe soll mehr auf Eltern als auf Kinder gehen, aber die Natur wirkt umgekehrt. Wir sollen mehr auf die Nichtigkeit des Lebens als ihre Annehmlichkeit erkennen, aber wir thun es umgekehrt.
+
+**7593.**   κ--λ? υ--φ?   J 35. *Matrimonium est respectu usus (g liciti) facultatum sexualium vel* *non societas arbitraria sed necessaria. Si finis sit arbitrarius procreatio sobolis* *et mutuum adiutorium erit societas arbit (Necessitas haec non derivatur* *ab obligatione externa sobolem creandi, ergo si sit societas hypothetice* *necessaria.) Si *usus facultatum sexualium* absqve praeter matrimonium* **absqve laesione* ulla sive repugnantia iuris sit, *possibilis** *erit *societas arbitraria* et non nisi forte *ethice necessaria** *et *matrimonium non erit iuris naturae* praeceptum.*
+
+*Indagandum itaqve est, *utrumne usus facultatis sexualis** **citra matrimonium* sit *natura illicitus*? qvanqvam neminem* *laedat, utrumne se pro re iactando venditando humanum ius iactet,* *adeoqve iura naturalia perturbet.*
+
+**7594.**   κ--λ? υ--φ?   J 35. *Crimina carnis contra naturam.*
+
+*1. Onania. 2. Paederastia. 3. Sodomia.*
+
+*Stuprum violentum est, est contra naturam humanam, priora contra* *naturam animalem. crimina carnis naturalia sunt: fornicatio, scortatio,* *concubinatus, polygamia (successiva), adulterium.* Woher haben die *crimina carnis contra naturam* die größte Abscheulichkeit, ob sie gleich keine *vindictam in statu naturali* verstatten, weil, indem man die Menschheit abwürdigt, man nicht mehr die Rechte der Menschheit hat. Wenn man nicht voraussetzen kan, daß ein andrer den Zwecken der Menschheit gemäß handeln werde, so schränkt seine bloße Natur unsere Freyheit nicht ein. Denn die Übereinstimmung mit den wesentlichen Zweken der Natur ist doch der oberste Grund der Verbindlichkeit gegen einen andern. Wir haben ein Recht sie unter der Menschheit zu schätzen. Er verdient nicht das Recht der Menschheit von andern, wenn in demjenigen, was zu den
+
+[AA 19:465] angebohrenen Beziehungen auf andre Menschen gehöret, er die Natur verkehrt. Es sind keine Gliedmaßen, die lediglich eine Beziehung auf andre Menschen haben, als die Geschlechtsglieder. Es ist also eine Beleidigung des Menschlichen Geschlechts überhaupt. Auch die organisation der Zunge zum Sprechen ist blos vor andre, demnach entehrt sich der lügende und verlirt das Menschliche Geschlecht überhaupt (s *defraudatio humanitatis* ); die Einwendung von den Papageyen.
+
+**7595.**   κ--λ? υ--φ? ψ??   J 35. *Matrimonium (g omne est aeqvale), inaeqvale (qvoad bona qvoad non* *sunt communia)* ad Marganaticam. (g *effectus* der Gemeinschaft ausser *matrimonio* ist, daß kein Recht daraus erwächst. ) *Qvoad subordinationem* *vel est Androcratia vel Gynocratia. Maritus non vestitus est imperio sed* *gubernatione rerum domesticarum.*
+
+*Penes maritum est potestas propter alimentationem et tutelam.*
+
+**7596.**   κ--λ? ρ? υ--φ??   J 35. Die fälle, wo jemand unrecht thut ohne eine bestimte Beleidigung irgend einer Persohn, sind: 1. Die Lüge. 2. Die Wiedervergeltung der Untreue. 3. Die *crimina carnis*. 4. Die versäumung der Elternpflicht. 5. Die wegwerfung unter des andern despotische Gewalt.
+
+(s Der Mann ist nicht *superior naturaliter, nec qva mas sed* *qvoniam obligatur ad nutriendum et defendendum, habet ius de* *omnibus qvatenus ad eum finem necessaria sunt disponendi*. )
+
+**7597.**   κ--λ? υ--φ? ψ?   J 35. 1. Der Zweck Grund der Rechtmäßigkeit der Ehen nach der ehelichen Gemeinschaft ist nicht *procreatio sobolis* sondern *usus facultatum* *sexualium;* daher deren Mangel die Ehe im Anfang trennt. Ienes kan auch nicht versprochen werden. sterilität. (Aber weil die natürliche Befugnis zur Geschlechtsgemeinschaft von der Absicht des propagat) Man verspricht sich nur die Geschlechtsgemeinschaft.
+
+[AA 19:466] **7598.**   κ? ρ?   J 37. Wenn der Göttliche Zwek immer auch unser Zwek seyn müste, so wären wir nicht allein beym Heyrathen verbunden auf den Zwek, den Gott mit unsrer Neigung gehabt hat, als den Grund der Befugnis Acht zu haben, sondern wir wären auch um unsrer Organisation willen verbunden zu heyrathen, denn diese hat uns Gott auch zu diesem Zweke gegeben.
+
+**7599.**   κ? ρ?   J 37. Gott hat uns appetit zum Geschlecht gegeben, welcher nicht immer Liebe ist, sondern öfters gantzlich einer Absicht auf Glükseeligkeit des andern Geschlechts wiederstreitet. Gott hat also den dringendsten Zwek, der keinen Aufschub erlitte, nämlich die Erhaltung der Art, auf einen unüberwindlichen Trieb gegründet.
+
+**7600.**   κ? ρ?   J 36. Nur in Ansehung des Geschlechts hat die Natur uns vor andere bestimmt, also nur darin könen wir einem andern den Gebrauch concediren, aber weil wir nicht befugt seyn, unsere Persohn zu veräußern außer durch den *actum*, der die Veräußerung wieder herstellt, d. i. da wir uns zugleich wieder erwerben, so sind wir befugt, unsre Persohn zu einem mit den Zweken der Natur einstimigen Gebrauch einem andern zu veräußern*, aber unter der Bedingung, daß wir eben dasselbe *dominium* auch in ansehung des andern bekommen. Nun heben sie die *iura* J 37: *reciproca,* einer den andern zu nöthigen, in allen fällen auf, wo die Natur nicht Einstimmungen selbst gemacht hat (g in allen andern fällen außer in dem Punkte der Vereinigung); also bleibt in *pacto matrimonii* kein *ius reale* übrig als in *membra sexualia*. Das *dominium mutuum* läßt sich auch nur in Ansehung einer Persohn verschiedenen Geschlechts anstellen, weil die Natur nicht eine Natürliche beziehung der Persohnen verschiedenen Geschlechts errichtet hat, welche einen solchen contract nothwendig machte.
+
+* (g wer ein Gliedmaas einem andern vernichtet, der disponirt über die Menschheit und hebt wenigstens seine Persöhnlichkeit, da er selbst Herr sey, auf. )
+
+**7601.**   κ--λ? ι?   J 38.   Zu § 50 Schluss: Morgengabe
+
+[AA 19:467] Die *bona* einer Frau sind *recepticia* oder *paraphernalia* oder *dotalitia.*
+
+Die Frau hat *proprietatem ad Usum* oder *propiet*. Der Mann aber *Usum* oder *Fiscus matrimonii, hoc est:*
+
+*bona universitatis ad bonum societatis non voluntatem socii.*
+
+**7602.**   κ--λ? ι?   J 38. Das *mutuum adiutorium* ist eine natürliche folge des *pacti matrimonialis.*
+
+Ob die Ehe natürlicher Weise *societas aeqvalis* oder *inaeqvalis* sey, ob Mann *imperans*?
+
+Ob die Ehe ohne *delictum alterutrius* (g aus Eckel) könne mit beyderseitiger einstimmung getrennet werden?
+
+**7603.**   κ? ρ?   J 38.   Zu § 51. Ob, wenn Kinder seyn, ein *divortium* erlaubt sey?
+
+**7604.**   κ--λ? υ--φ?   J 38.   Ferner: Die Ursache liegt in allem was keiner blos in der *culpa* des einen Theils, so fern er dem wesentlichen Recht der Ehe zuwieder ist
+
+**7605.**   κ--λ? υ--χ?   J 38. Wenn die Frau den Mann nicht gantz erwirbt, so kommt sie nicht wieder in ihren eignen Besitz sondern hat nur auf den Mann *reciproce ius* *in re aliena*, welches unerlaubt ist. Sie kann nur einen Theil von sich besitzen, indem sie sich gantz besitzt und also, wenn sie einen theil weggiebt, muß sie sich gantz weggeben und auch wieder gantz acqviriren.
+
+**7606.**   κ? μ? ι??   J 40. Die Eltern *acqviriren* das Kind *iure rei suae, h. e. iure ventris*; daher in so fern das Kind nicht als *persona* angesehen wird, daher es [AA 19:468] nicht *sui iuris* seyn kann, also *ad suum alterius* entweder gehöret oder ist *nullius et cedit occupanti*.
+
+*Der Status parentalis vel est intrinsice internus* oder *externus*; das *ius status parentalis interni parentis respectu liberorum in nativitate* *est reale et sensim fit personale*. aber das*ius status parentalis externum* ist.
+
+**7607.**   κ? μ? ι??   J 40. Wie kann aber iemand *ius personale* gegen iemanden haben, welcher *ad praestandum factum* nicht kann obligirt werden, d. i. Eltern gegen ein Kind; oder wie kann ich *ius personale absqve facto translativo alterius* acqviriren?
+
+Ferner wenn die Eltern schuldig sind, die kinder zu erziehen, Wem sind sie es schuldig? Thun sie den Kindern dadurch unrecht oder überhaupt unrecht?
+
+**7608.**   κ-μ? ρ? ι??   J 40. Der Eltern Recht in Ansehung des Kindes gehet nicht auf die disposition über seine substantz, über seine Gesunde Gliedmaßen; er kan es nicht derelinqviren und das Kind ist nicht allein sein, sondern er kann es auch nicht alieniren.
+
+**7609.**   κ-μ? ι??   J 40.   Zu § 54: Warum der Kindermord nicht erlaubt sey?
+
+**7610.**   κ-μ? ρ?   J 40. Wenn ein Kind jederzeit dasjenige bliebe, was es bey der Geburt ist, so wäre es eine sache und der Eltern Recht in Ansehung des Kindes ein Recht in der Sache *disponendi de eius etiam substantia derelinqvendi,* *alienandi *etc.**
+
+Nun ist es aber *persona in potentia proxima*. Daher entspringt *relatio* *voluntatis erga voluntatem obligatoria*. (g In jedem *respectu iuris* *personalis, qvoad obiectum iuris* ) *est relatio voluntatis erga voluntatem* und in dem des *iuris personalis respectus voluntatis erga rem*.) Das Erste in diesem *respectu morali obligatio parentum respectu prolis*. Es frägt sich, wie diese obligation contrahirt werde. *Responsio: actu generandi,*
+
+[AA 19:469] *qvi, qvoniam non est actus opificis sed protractio (s evocatio), in* *lucem absqve consensu alterius efficit, ut voluntatem sit mutua dependentia* *moralis. Quum vero personalitas adhuc sit in potentia qvaeritur,* *qvomodo actu illam laedere possit, cujus**e. g.* Wie ich einen Menschen laedire, den ich im Schlafe beraube.
+
+Diese obligation kan nur contrahirt werden, indem *parentes* zugleich *iura* acqviriren und so umgekehrt. Diese *iura* gründen sich auf den *qvasi* contract. (g wo kein *expressus* contract gemacht ist, da wird fynallagmus praesumirt, d. i. *permutatio iurium*. )
+
+Es frägt sich ob die *iura parentum* noch fortdauern, wenn gleich die Kinder sich selbst ernähren können. *Nein*, sondern da die *iura* nur auf der obligation sich gründen, diese aber auf der Kinder Unvermögen*, so muß, wenn dieses aufhöret, auch die *obligatio parentalis* und also *ius* aufhören.
+
+J 41: * Das Recht der Eltern in Ansehung der Kinder gründet sich auf der obligation, die sie haben, die Kinder zu erhalten, welche sie sich *generando* contrahirt haben, welches zum Theil sich auf der Kinder Unvermögen gründet; sie müssen ein Recht haben dieses zu suppliren (*obligatus* *habet ius ad mediam*). Zweytens weil diese obligation der Eltern *gratuita* ist oder *praestationis beneficae*, so haben die Eltern noch *ius ex* *qvasi contractu*, so lange die Kinder unmündig sind, aber doch*operam* praestiren können; solche zu praestiren bricht ab.
+
+Ob Eltern von den Kindern in der Folge noch die Bezahlung ihrer Erziehung fordern können?
+
+**7611.**   κ? μ?   J 41. Die Eltern haben *ipso iure* ein *ius possidendi liberos non vero* *proprietatem* die Kinder sind ho ferner so haben sie in den ersten Zeiten kein *ius personale*, weil sie diese noch nicht Persohnen sind aber auch kein *reale*, d. i. *ius in re, nec propria nec aliena*.
+
+**7612.**   κ?   J 41. Das Recht, was die Eltern über die Kinder haben, ist nicht ein *ius* *personale*, weil sie nicht können *ad obli praestationem* obligiert werden.
+
+[AA 19:470] **7613.**   κ?   J 41. Wenn der Eltern Schuldigkeit, die Kinder zu erziehen, eine solche wäre, die den Kindern ein Recht gebe, so würden sie dadurch, daß sie die Kinder erziehen, sie nicht obligiren, aber die Erzeugung ist als eine donation anzusehen; da *donans* Unrecht thun würde, wenn er den *donatorius* dieser donation oder deren Werthes beraubte, ob zwar *donatarius* kein *ius cogendi* hat.
+
+**7614.**   κ? υ--φ?     J 41. *Si ex mero arbitrio orientur infantes, non geniti sed artefacti, qvilibet* *suum opus destruere posset sed non vitam adminiculis destitutam.*
+
+**7615.**   κ? μ? ρ??   J 40. Ob der Mann *necessario imperium domesticum* führe?
+
+Ob Kinder*necessario famuli domestici* sind?
+
+**7616.**   κ--μ? ρ?   J 40. *affirmativum.* Die Verbindlichkeit der Eltern gegen die Kinder rührt nicht daher, weil sie Menschen seyn, sondern weil die Eltern Ursache seyn, daß sie daseyn.
+
+**7617.**   κ? ρ?   J 39. Kinder sind kein product sondern *progeniti*;
+
+sie machen sie nicht sondern bekommen sie;
+
+sie besitzen die freyheit der Geschlechtsgemeinschaft *onerose*.
+
+Der Eltern Pflicht gegen Kinder *qva infantes* (die sich selbst nicht ernähren können) ist Zwangspflicht, diese sind von jenen in die Welt gesetzt und ihr Zustand muß nicht Elend seyn. Aber es ist doch eine Pflicht, die eine Erkenntlichkeit verdient, weil die Erziehungsart nicht kan erzwungen werden, man aber dem ungezwungenen Willen eben so als dem wohlthätigen verbunden ist. *arbitrium vel est benefic opera est vel benefica* *vel coacta.*
+
+[AA 19:471] **7618.**   κ? ρ?   J 49.   Auf dem oberen Rand: Die Angehörige sind entweder Glieder einer familie.
+
+Die Angehörige sind entweder Glieder einer familie. ---        ---        ---     untergebene. Kinder.
+
+Der Vater verändert sich aus dem Gebieter in den Ältesten, wenn die Kinder mündig sind und hat nicht mehr Recht als über seine jüngeren Geschwister.
+
+#### De societate herili.
+
+**7619.**   κ? ρ?   J 50.   Über und neben § 66: *dominus plenus* kann auch unrecht thun aber nur *coram foro conscientiae*.
+
+Wenn die Menschen selbst ungerecht sind, so verlieren sie das Recht über andere *valide* zu urtheilen.
+
+Die Herren thun alsdenn wohl Unrecht aber nicht ihre Unterthanen. Das einzige Mittel ist hier dieses, nach der regel eines *contractus idealis* zu handeln.
+
+**7620.**   κ? ρ--σ.   J 50.   § 66, Schluss: *Famulus debet operam* *servus --- personam*
+
+**7621.**   κ? ρ?   J 53.   Aussenrand, § 71: Man kann niemanden zwingen als zufolge seiner obligation, folglich so, daß er selbst ein Recht habe über seine Verbindlichkeit zu urtheilen, sonst sind die oblig ist das *ius dominium reale*.
+
+**7622.**   κ? ρ?   J 54. *Servitus est vel bruta vel liber moralis*
+
+**7623.**   κ? ρ?   J 59.   Aussenrand, § 75: Da der *victor* ein recht hat die Eltern zu tödten oder in Knechtschaft zu bringen, so hat er auch ein recht sie der Kinder zu berauben.
+
+[AA 19:472] **7624.**   κ? ξ? ρ?   J 57.   Über § 74: Die Eltern haben kein recht weiter auf Kinder als bis zu ihrer völligen Erziehung, so viel können sie auch veräußern, wenn sie die Kinder selbst nicht erziehen können, folglich nicht die freyheit auf Lebenszeit.
+
+**7625.**   κ? ο??   J 52.   Neben § 72: Ein Bedienter ist, der die Persöhnliche Beqvemlichkeiten eines andern auf seinen befehl besorgt. Ein commis der seine Geschefte. Ein officir der öffentliche Geschefte auf Befehl eines andern besorgt.
+
+**7626.**   κ? ρ? υ--χ??   J 53.   In § 71: Die Gütigkeit eines gewalthabenden gegen den untergebenen, der nichts aus seinem Rechte von ihm erwarten kan, heißt Gnade, und der so unterworfene, heißt Leibeigner. Weil das Recht, welches mit keiner Befugnis zu zwingen verbunden ist, kein äußeres Recht ist, so ist des Souverains Güte Gnade, wenn er Monarch ist. Daß Unterthanen desselben selbst wiederum gnädige Herren seyn, würde machen, daß einige Unterthanen, nemlich die Leibeigenen, keine Pflichten gegen den Souverain haben können, weil sie keinen Willen haben sondern nur kräfte, deren Gebrauch dem Willen ihrer gnädigen Herren unterworfen ist.
+
+**7627.**   κ? ο?   J 52. Der direktor, der principal, der patron, der magistrat, der herr.
+
+**7628.**   κ? ρ?   J 52. *In statu naturali, qvi opponitur civili, impossibile est ius domini.* *Nemo Paciscentium enim uterqve necessario ius habet de imputatione* *applicatione legum pactitiarum valide iudicandi, neqve transferri potest* *in alterum praerogativa iustitiae, hoc est facultas solum excluso altero* *de iure suo valide iudicandi.*
+
+*Nemini potest constitui ius in re propria contra alium valide iudicandi* *excluso iudicio alterius. Ergo in relatione* bricht ab.
+
+[AA 19:473] **7629.**   κ--ξ? ρ?   J 52. *Servitus status a servitute rei differt.*
+
+*Obligatus *per statum* ad operas praestandas est famulus. Si de* *statu suo disponere potest, est servus liber, sin minus est* Leibeigner.
+
+Diener und Knecht sind unterschieden.
+
+**7630.**   κ--ξ? ρ?? υ--φ??   J 52. *Locator vel commodator operarum suarum est operarius --- nemo* *suum iactare praesumitur. Operarius, qvatenus tenetur alterius voluntati* *respectu operarum in genere, est servus. Servus itaqve est subiectus.* *Imperans servi est dominus. Servus non habet ius valide iudicandi* *de voluntate domini in specie, h. e. dominus solus habet ius regulas* *subiectionis valide applicandi. Cum omne imperium sit ius personale,h.* *e. facultas exigendi ab altero operam propter obligationem.* *Necessitatio autem obligatoria requirat ut obligatus actionem suam sub* *lege obligante subsumat. Patet regulam obligatoriam, qvae ius obligati* *tollit, actiones suas sub conditione obligante subsumendi nullam esse.* *Ideoque subjectio omnis, qvae non est civilis, neque iuri civili subest,* *est illegitima.*
+
+**7631.**   κ--ξ? ρ??   J 53. *Potest alicui praerogativa iuris nemini iustitiae constitui.*
+
+*Actus, qvo aliqvis se ipsum capite minuit et personam iuridicam* *exuit, non potest esse legitimus sed contradictorius, qvia semet ipsum* *privat iure alteri ius aliqvod constituendi et tamen constituit.*
+
+*Qvilibet homo est sui iuris nisi infans et amens.*
+
+**7632.**   κ-ξ? ρ??   J 53.   Über § 71: Man kan einem andern kein Recht auf sich constituiren als nur *personale*, d. i. *me ad actiones obligandi*. Also muß ich frey genug seyn, um nur wegen meiner obligation so zu handeln. Daher kann der andere nicht über meine substantz disponiren und mich nicht zwingen *ad patiendum* sondern *ad agendum*.
+
+[AA 19:474] **7633.**   κ? ρ?   J 54.   Aussenrand. Zu § 72: Niemand kan seine Freyheit veräußern und dem andern ein persönlich recht auf sich constituiren, ohne sich die Gewalt vorzubehalten, den andern zu Leistung seiner Pflicht zu zwingen. Man kann keinem andern ein *ius illimitatum* auf seine Persohn austragen; ist es aber *restrictum*, so muß man sich die Gewalt vorbehalten, den andern zu Leistung der Condition zu zwingen. Wer diese in des andern willen stellt, hat den andern in den Stand gesetzt gegen ihn kein Unrecht zu haben. Man kan wohl sein Leben aber nicht seine Freyheit aufopfern.
+
+**7634.**   κ? ρ? υ--φ?     J 54.     Zu § 72: Diese Handlung ist eine violation seiner eignen *iurium*, denen man nicht renunciiren kan. Man handelt gegen sich selbst als gegen eine *personam* *iuridicam*, d. i. er macht, daß er aufhört *persona iuridica* zu seyn, nemlich daß sein *iudicium* in Ansehung des andern *iure validum* sey.
+
+**7635.**   κ? ρ??   J 54.   Unterer Blattrand: *Ius homini in altero constitui potest vel personale obligans ad* *actiones vel reale ad disponendum de substantia modisque subiecti,* *tanqvam passivi ius posterius in homime obligari nescio ut phrenetico* *infante constitui potest.*
+
+*Persona moralis non est, qvi caret iure de obligatione sua valide* *iudicandi.*
+
+**7636.**   κ? ρ?   J 54.   Zu § 72 „obnoxius“ *pro solis alimentis*.
+
+**7637.**   κ? ρ??   J 55.   Unterer Blattrand: *Pactum de extinguenda potestate sua iuridica adversus obligantem* *nullum est. Qvia enim secundum leges voluntatem universaliter sumtam* *necessitantes se obligat, sed simul omnes laesiones alterius iudicio* *submittit, renunciat conditioni sine qva alteri non competit facultas* *obligandi, nempe valori voluntatis suae, qva licentia actionem alterius*
+
+[AA 19:475] *tollatur, nam volenti (hoc est, qvi ius non habet repugnandi) non fit* *iniuria.*
+
+**7638.**   κ? ρ?   J 56.   Oberer Blattrand: Die Knechtschaft kann nichts anders als Strafe seyn vor eine Beleidigung, denn es ist ein positives Böse. Man kan sich dazu nicht selbst offeriren noch der andre es annehmen, so wie wenn einer sich offerirete den andern etwas aus seinem fleische schneiden Zu lassen, so könnte es dieser nicht annehmen. Die Strafe aber geht nicht auf die Nachkommen. Es muß aber möglich seyn, sich durch Wohlverhalten von einer Strafe zu befreyen. Wenn also auch die Knechtschaft erblich wäre, so muß es ein bestimmt Mittel geben im Verdienste gegen den Staat oder dem Abfinden mit dem Herrn, sich davon los zu machen.
+
+**7639.**   κ? ρ?   J 56.   Aussenrand zu § 72: Die Knechtschaft kann unmöglich erblich seyn, wenn sie als eine *obligatio* angesehen wird, denn dieser correspondirt nur ein *ius personale*; sie muß sich alsden auf ein ius reale gründen, was man in der Natur hat.
+
+J 56. Zu § 72, Schluss der Anm. „ius obligandi devictum“: *ius vi obligandi non datur, sed ius obligationis praestationem vi* *extorquendi.*
+
+**7640.**   κ? ρ?   J 56.   Zwischen § 72 und 73: Das Recht, iemand in Knechtschaft zu bringen, kan sich nur auf ein *delictum* gründen, welches, wenn es *privatum* ist, nur auf die *praestationem* *damni*, wenn es*publicum* ist, auf den gänzlichen Verlust der Freyheit ausläuft. Da der Krieg *in statu naturali* ein *modus ius suum perseqvendi* ist, so ist die *violentia* kein *delictum* und kan nicht mit der *servitute* *perpetua* bestraft werden.
+
+**7641.**   κ? ρ?   J 57.   Oberer Blattrand: Die Unterthänigkeit (g im Staate) ist eine Herrschaft unter einer Herrschaft welche ein *pactum* der regenten ist aber nicht ein Verhältnis der Unterthanen im Staate gegen einander.
+
+[AA 19:476] **7642.**   κ? ρ?   J 60.   Aussenrand bei § 77: *Si concedatur dari rationes instar propter qvas aliqvem in servitutem* *detrudere possimus, tamen inde non acqviritur ius illud non est ius obligandi* *et pacis sed bellum continuum. inde servus caret statu, h. e* *conditione, qva iurium aliqvorum capax est et caret capite. nempe* *Libertate civitate atque familiae.*
+
+**7643.**   κ? ρ?   J 60.   Ferner: *Servus potest occidi, vendi, noxae dari, vindicari, servile caput* *nullum ius habet: Nullae nuptiae cum servis sunt nec liberos habet* *suos, nulla ipsi iniuria fieri potest, nihil possunt acqvirere.*
+
+**7644.**   κ? μ--ξ? ο??   J 72. Bürgerliche Gesellschaft. Im innern Verhältnisse, das gemeine Wesen Im äußern Verhältnisse, der Staat 1. Gewalt im innern. 2. Macht im äußern.
+
+**7645.**   κ? μ--ξ? ο??   J 73 Der Zustand, wenn iedermann nur nach seinem eigenen Urtheil und durch seine eigne Gewalt sein vermeintlich recht Sucht, ist der *status belli*.
+
+**7646.**   κ? μ--ξ? ο??   J 73. Im Zustande des Friedens bin ich sicher durch mein Recht. Im natürlichen durch nichts als meine Gewalt; ich muß iederzeit in der Kriegsrüstung seyn, bin jederzeit bedroht durch andere; also ist dieses ein Zustand des Krieges*iuridice*.
+
+**7647.**   κ? μ--ξ? ο??   J 73. Im nat Ich bin von andern Menschen, die im natürlichen Zustande [AA 19:477] sind, *laesus per statum*. Denn ich habe keine sicherheit, und das Eigenthum ist immer in Gefahr. Ich bin nicht verbunden, in dieser Furcht zu bleiben.
+
+**7648.**   κ? μ--ξ? ο??   J 73. Man kann gezwungen werden, aus dem *statu naturali* heraus zu gehen.
+
+Es ist nicht erlaubt, den Rechtszwang abzuwerfen.
+
+**7649.**   κ? μ--ξ? ο??   J 73. Der *status naturalis* ist der Zustand der (g äußerer Freyheit) Freyheit ohne Rechtszwang.
+
+**7650.**   κ? μ--ξ? ο??   J 73. Ein vor äußere Gerechtigkeit gültiger Rechtsgrund ohne ein äußerliches Recht.
+
+**7651.**   κ? μ--ξ? ο??   J 73. In statu naturali kann wohl ein gültiger Rechtsgrund anzutreffen seyn, sich ein Recht constituiren und äußerlich gültig nach öffentlichen Gesetzen constituiren zu lassen. Es ist aber noch kein äußerliches Recht, weil keine äußerlich Gültige Regel bestimmt ist.
+
+Von der Verbindlichkeit in den *statum civilem* zu treten.
+
+**7652.**   κ--λ? υ--ψ?   J 90. *Subditi vel sunt cives vel non cives (mancipia).*
+
+**7653.**   κ.   J 97. 1. Der Gesetzgeber muß *nicht Richter* seyn, denn der Richter muß *unter* dem Gesetze *stehen*, damit sein Urtheil mit dem Gesetze übereinstimme, also kann er nicht selbst der Gesetzgeber seyn; *ausserdem* ist der Souverain nur immer das Gantze und der Richter ein Theil.
+
+[AA 19:478] 2. Der Souverain ist der Grund der Rechte von dem *Staat gegen* *den Unterthan* (dem Unterthan gegen den Staat) und dem Unterthan gegen den Unterthan. folglich müssen seine Gesetze *nicht blos aufs* *Gantze* sondern auf *alle* gehen. Daher ist die Gleichheit des Rechts nothwendig. Alle *praestationes subditorum* geschehen von Allen und ihre Beziehung ist auf den Nutzen von allen. Doch so, daß alle *bona* *privata* bleiben.
+
+**7654.**   κ.   J 97. Es ist eine Hauptpflicht des souverains, alles auf die Gleichheit der Unterthanen sowohl dem Grade nach als der Absicht nach zu beziehen. Denn diese Gleichheit findet vor dem sozialcontract statt. Er wird dadurch auch nur möglich, folglich ist er die Bedingung der Gesetzgebenden Gewalt. Er kann also wohl einen *Unterschied der Gewalt* in der administration der öffentlichen Befehle einführen aber im Privatleben keinen Vorzug jemandem über andre einräumen. Auch in den *Lasten muß* *gleichheit* der Austheilung seyn. Keiner Muß Autorität haben, *des* *andern Glük zu machen*. Ein ieder macht sich so glüklich, als er kann, und hat dabey keine Verbindlichkeit gegen andere.
+
+**7655.**   κ--λ?   J 109. Ob der Süverain Ämter nach Belieben nehmen könne.
+
+Von den Rechtsansprüchen, deren Erfüllung man doch vom Souverain, der Monarch ist, aus seiner Gnade erwartet.
+
+**7656.**   κ--λ?   J 110.   Zu § 123: Der socialcontract giebt keinem ein recht über das, was zu dem suo alterius pertinirt, sondern sichert einem jeden sein Recht; daher kann daraus keine Gemeinschaft entstehen. Daher sind die Güter des *privati* nicht Güter des souverains.
+
+#### [AA 19:479] De monarchia
+
+**7657.**   κ--λ?   J 114. *Ius omne est vel subditi adversus subditum* *vel subditi adversus principem. qvaeritur, qvinam* *hic habeat potestatem exsecutoriam;*
+
+*in utroque casu iudex supremus est magistratus.*
+
+*At si res sit inter iudicem summum et principem defertur ad summum* *imperantem*.
+
+**7658.**   κ--λ.   J 119. In sachen der religion und überhaupt der Meinungen ist niemand *iudex competens* als des Menschen eigne Vernunft oder Gott selber.
+
+Der äußere Richter kann nur statt finden darin, daß er die freyheit, die ein jeder hat, auf den Grad einschränke, daß er die freyheit anderer nicht stöhre.
+
+**7659.**   κ? ρ??   J 141. Der monarch ist das Oberhaupt eines Staats, der in sich selbst eine solche Verfassung hat, die sich nach Gerechtigkeit und Weisheit selber erhält. Der diese Verfassung aufhebt und in seiner Person alles dieses Verbinden will, ist despot. Aber wie soll des genandt werden, der einen Vezier hat, welcher niemand verbindlich ist und dessen Macht doch veränderlich ist, nemlich dem sie genommen wird, wenn der *Herr* will.
+
+Ein jeder Monarch, um sein Reich dauerhaft auf die Nachkommen zu machen, muß durchaus den despotism einschränken, d. i. seinem Reiche dadurch eine festigkeit geben, daß er nicht seine souverainetät verringert aber doch dem Nachfolger die möglichkeit nimmt, die Gründe der administration [AA 19:480] aufzuheben. Diese müssen beständig seyn. Regiren ist die administration anordnen und ihr seinen Allgemeinen Willen auftragen, dessen Befolgung aber von der Einrichtung dieser administration abhängt.
+
+**7660.**   κ? ο? ρ??   J 141.   Zu § 148. Ob dieses eine Eintheilung der Staatsverfassung oder der Regirungsart sey. Die letzte betrift nur die Mittel und ist also accidental. Da, der regirt, nur *actus singulares* ausübt, in Ansehung deren er *sub legibus* *universalibus* stehet und also unter dem souverain, so kommt es auf die Arten der souverainetät an.
+
+Die form der Der souverain mag seyn, welcher er wolle, so ist es nicht die Materie sondern die Form des Willens, d. i. die daraus entspringende relation der Bürger gegen einander, was Recht oder Unrecht ist.
+
+### [AA 19:481] Phase ξ.
+
+#### De matrimonio.
+
+**7661.**   ξ.   J 30.   Über der Überschrift zu „Sectio II“: Niemand kan über seinen Körper disponiren zum Gebrauche oder Genuße eines andern, und seine Glieder sind nicht *res utiles*. Die Geschlechtsgliedmaßen aber haben gar keinen Gebrauch als nur den Gemeinschaftlichen mit dem andern geschlecht. Allein dieser Gebrauch muß so beschaffen seyn, daß eine iede Persohn über seine Gliedmaßen bricht ab.
+
+**7662.**   ξ? σ?   J 30.   In § 41: Wir haben nur zweyerley Genuß eines Menschen von dem andern (des fleisches): der cannibalische oder der wollüstige Genuß. Der letztere läßt die Persohn übrig. Der concubinat ist *societas inaeqvalis (subiectionis*) der Geschlechtsgemeinschaft.
+
+Das *pactum matrimonii* ist *arbitrarium* aber doch *hypothetice per* *naturam necessarium*.
+
+**7663.**   ξ? ρ--σ?   J 71. Weil man kein ausschließend recht worauf haben kann, als daß vorher das Recht des Bodens bestimmt sey, so kann niemand die Oberherrschaft über ein Volk führen, ohne der Eigenthümer des Bodens zu seyn, denn sonst wird er nur Geduldet. Also ist das Eigenthum des Bodens die Bedingung all seiner andern rechte. Ein Fremder steht unter seinen Gesetzen blos, weil er auf seinem Boden ist. Das **ius reale** ist das **fundamentum** des **personalis**. Die Kinder sind den Gesetzen unterworfen, nicht [AA 19:482] weil sie an die Verbindlichkeit der Eltern verbunden sind, sondern weil sie aus demselben Boden erwachsen, über welchen der Souverain Herr ist. Also ist er Beherrscher weil er *Landesherr* ist. Daher die Bestimmung der regalien. Sie müssen in dem bestehen, was der Boden nicht durch Cultur hervorbringt sondern *origetinus* in sich enthält und zu seiner substantz gehört. Metalle, See und Ovellstellen, davon muß nämlich der Gebrauch ins Allgemeine gehen, weil die substantz eine allgemeine Brauchbarkeit hat.
+
+**7664.**   ξ? σ?   J 71. Die *potestas legislatoria* muß auf der Bedingung beruhen, daß sie nicht Unrecht thun kann. Daher ist nur beym Volk *originarie potestas* *legislatoria*. Diese ist *illimitata*, weil keiner sich selbst Unrecht thun kan; alle andre ist eingeschränkt. Diese *potestas originaria* beziehet sich auf die idee eines *pacti originarii*, weil, wenn alle einstimmig beschließen, dieses ein pactum ist.
+
+**7665.**   ξ? ρ--σ?   J 72. Es ist kein Recht oder Eigenthum ohne Gesetz. Aber eben dasselbe Gesetz, welches mir Verbietet, etwas, was ein andrer in gewisser form und qvalität besitzet, nicht anzutasten, muß mir auch sicherheit leisten, daß ich bey dem, was mir zusteht, auch werde geschützt werden. Ich kann nur gezwungen verbindlich seyn bis zum Zwange, so fern ich eben so wohl andere zwingen kann. Demnach ist kein Recht ohne eine Unwiederstehliche Gewalt. Aber es giebt wohl gründe des Rechts und der Gesetze, ehe diese Gewalt errichtet ist, und darauf müssen sich auch die Gesetze gründen. Diese Gründe des rechts sind aber so der Gemeinschaftliche Wille *in potentia*, so wie von den Staatsgesetzen der gemeinschaftliche Wille *actu*.
+
+Also fängt alles Eigenthumsrecht nur in bürgerlicher Gesellschaft an. Dasjenige, was vor ihr vorherget, ist das ius *necessitatis*, d. i. der Nothhülfe; d. i. das Recht der Selbsterhaltung, welches die thiere haben und auf iedes sicherheit beruht, die man nicht stöhren kann, ohne sich in Gefahr zu setzen und wo jeder seiner Neigung folgt.
+
+Daher gehört das erste Eigenthum dem Staat. Alles andre ist abgeleitet. Nicht des Staats seines durch freywilligen Vertrag aus jenem.
+
+[AA 19:483] Aus dem Eigenthum und der tüchtigkeit arbeitsamer Bürger, solches zu erwerben, besteht die Macht des Staats. Der Müssige Bürger ist eine 0 dem Ansehn nach.
+
+Der Staat kann sein Ursprüngliches Eigenthum gegen den Bürger nicht veräußern. Denn alsdenn würde dieser unabhängig. Er kann ihm nur die Erbnutzung zugestehen und die disposition über dieselbe. Denn alle Gewalt des Staats gründet sich auf dieses allgemeine Eigenthum als den ersten *actus* der constitution des rechts der Bürger.
+
+**7666.**   ξ? ρ--σ?   J 72. Ich erkenne kein Gebot als das, was mich zugleich schützt, indem ich mich sonst selbst erhalte. Dieses Geboth muß nicht als Rath sondern aus autorität entspringen, und da kömmt es von demselben Schutze her, ohnedem ich vogelfrey seyn würde. Der Natürliche Mensch ist vogelfrey.
+
+**7667.**   ξ? ρ--σ?   J 73. *hobbes* sahe alle Gesetze, selbst die moralische, als despotisch an, d. i. solche, wozu unsre wenigstens vernünftige Einwilligung oder Beystimmung gar nicht erfodert wird. Denn er glaubte die Gewalt möge hinkommen wo sie wolte, so mache sie das Recht. Imgleichen unterschied er nicht das Unrecht, was der *Usurpator* begeht, von dem was er den Unterthanen thut.
+
+**7668.**   ξ? ρ--σ?   J 73. Cain wurde wegen eines Mordes schutzverlustig erklärt, d. i. *vogelfrey* ⊖ . Ein Sinnbild der Nothwendigkeit des bürgerlichen Zustandes.
+
+**7669.**   ξ? ρ--σ?   J 73. Der Wohlthäter kann nicht gehorsam sondern folge verlangen, weil der andre auf die Wohlthat renunciiren kan. Denn er hat nicht seine ganze Erhaltung von ihm, sondern iener kann ihn nicht fortdauernd machen, wenn dieser nicht will. Gott aber kann Leib und Seele wieder unsern willen erhalten und verderben; d. i. Elend machen.
+
+[AA 19:484] **7670.**   ξ? ρ--σ?   J 73. Das recht zu gebieten, mithin die schuldigkeit des Gehorsams, gründet sich darauf, daß der Wille des Unterthanen an sich ohnmächtig und mithin vor sich selbst nichts ist. Ein solcher Wille kan sich nicht entziehen, ohne sich zu vernichten.
+
+**7671.**   ξ? κ?   J 131.   Zu § 141, 1: *summus imperans suo nomine agit, ergo nulla actionum ipsius imputari* *potest populo, sed tenetur hic qvemadmodum res ad cautionem* *iurium omnium alterius gentis hic non valet; qvod qvid facis per alium,* *ipse fecisse putandus*. Der souverain ist nicht *mandatarius* sondern *cessionarius* oder vielleicht *prior occupans* aber nicht von mehr rechten, als das Volck hatte, mithin nur von der allgemeinen Gesetzgebung. Wenn das Volk sich nicht selbst regiren kan, so ist die regirung *res nullius* und muß occupirt werden. Von dem, was man nicht selbst besitzt, kann man kein cession machen.
+
+**7672.**   ξ.   J 131. **Administratio interna**. Militärische Regirung ist nicht diejenige, in welcher die Kräfte des Staats vorzüglich auf die Erhaltung desselben zum Kriegsstande verwandt werden: denn das kommt auf die besondere Lage des Staats an, sondern in welcher diejenige, welche das Regiment führen, gar nicht räsonniren dürfen wie in einer Armee, der diejenige entgegengesetzt wird, in welcher die Verwaltung des Gemeinen Bestens von einer publiquen Person (nicht bloßem Instrument des Souverains) so geführt wird, daß sie den Staat nach dem besser eingesehenen willen des Souverains, wie er nämlich seyn sollte, geführt wird, da also immer Gegenvorstellungen erlaubt sind, welches bey einer Armee nicht geschehen darf. Ein solcher Mann, er mag auch in einem niedrigen Range seyn, wird vermißt, wenn er abgeht; bloße Instrumente werden nicht vermißt.
+
+[AA 19:485] **7673.**   ξ.   J 131. Der Souverain muß Urtheilen was und wie eine Verfassung dem *Willen* des Gantzen Gemäs sey. Der Regent, was den besonderen *Zweken* aller besonders gemäß sey, mithin sich unter einen allgemeinen Willen dem Zweke nach subsumiren läßt, und der muß selbst eine Macht haben und nicht wiederum angewiesen werden zu Urtheilen. Endlich der Richter, welches ob die Subsumtion des Zweks des Einzelen unter dem Gesetz der Freyheit aller recht sey oder nicht. Es ist also 1. Macht und Freyheit 2. Vermögen unb Zwek 3. Zwek unter dem Gesetz der Freyheit.
+
+#### De iure eminenti.
+
+**7674.**   ξ? ρ--σ?   J 136. Ob etwas ein öffentliches oder privatgut sey wird nicht durch die Anwendung und den Nutzen des Gutes sondern durch den Willen, der darüber disponirt, ausgemacht; über die *bona privata singulorum* disponirt ein jeder *exclusive*, --- --- --- --- --- --- *universorum* ein jeder ohne exclusion des andern. --- --- --- --- --- --- universitatis nur der gesamte Wille. Alle *bona*
+
+*privata* gehören zu dem *suo universitatis sed non sunt communia*. Diese *bona universitatis* bricht ab.
+
+**7675.**   ξ--ο.   J 177. Es sind dreyerley Art von *laesionibus. 1. damnum absque iniuria* *datum*, (g da einer nicht weiß, daß etwas einem Gesetze wiederstreitet; entweder weil er das Gesetz oder den Wiederstreit nicht Vermuthet). 2. *Culpa* 3. *dolus*. Durch das erste ist kein Gesetz violirt worden. Durch das zweyte ist es *negative* violirt, durch das dritte *positive*. Die zwey letzte können bestraft werden, das erste: *poena medicinali* (s *exemplaria*
+
+[AA 19:486] *animadversione* oder *correctione* ), das zweyte: *vindicatoria*; das erste: *ne peccetur*, das zweyte: *qvoniam peccatum est*.
+
+**7676.**   ξ--ο? ρ--σ??   J 177. Durchs *crimen* ist das Gesetz vernichtet worden.
+
+**7677.**   ξ--ο? ρ--σ?   J 177. Ob die Befugnis zu strafen *in statu naturali* sey. *Negatur*.
+
+Ob *in statu civili* man sich selbst der Strafe *pacto* unterwerfen müsse?
+
+**7678.**   ξ? ι??   J 178.   Zu § 193: *publicum est summa subditorum;*
+
+*imperans publicus est summa civium;*
+
+*crimen publicum est vel laesio publici vel maiestatis posteriora;*
+
+*summus imperans ius habet remittendi*.
+
+**7679.**   ξ? σ?   J 182. Auf Leidenschaften der Selbsterhaltung oder Vertheidigung Bewahrung für noch schlimmerem Zustand gegründete Verbrechen (als ein falscher Eid um sein ererbt Vermögen zn erhalten) müssen Gelinder als die Verbrechen, die, um zu gewinnen oder sein Vermögen zu extendiren, geschehen. Weil das erstere mehr Versuchung bey sich führt als das Zweyte.
+
+Ob nicht Strafen außer der Warnung noch um der Achtung der öffentlichen Gerechtigkeit willen nöthig seyn. damit jedem geschehe, was recht ist. Das wären unmittelbare Gerechtigkeitsstrafen.
+
+Medicinische Versuche mit lebenden Verbrechern sind unverständig.
+
+*Gotteslästerung* ist Frevel wieder den, den auch die höchste Obrigkeit fürchten muß und die letzte Sicherheit den Menschen giebt in Ansehung ihres Oberhaupts, den sie nicht zwingen können; daher ist es eine Art von Hochverrath.
+
+**7680.**   ξ--ο? σ??   J 185. 184.   Zu § 203: 185: Der *summus imperans* thut Unrecht und könte mit gewalt gezwungen [AA 19:487] werden. Die Unterthanen * haben Recht aber keine erlaubte Gewalt und bedienen sie sich ihrer eignen, so thun sie nicht dem *imperanti* unrecht, sondern es ist *formaliter* unrecht. Sie handeln wieder die form des gemeinen wesens und ihren Vertrag. Der Wiederstand der Unterthanen wiederspricht sich selbst und der geduldige Gehorsahm ihrer Glükseeligkeit, ienes entscheidet.
+
+184: * (s sie können sich niemals wiedersetzen aber doch wiederstehen, d. i. weigern, das an sich moralisch unmögliche zu thun und darüber alles erdulden. Die Ursache hiervon ist, weil der Mensch ein thier ist, was nur unter dem Zwange Gut ist, und der da zwingen soll, selbst Mensch ist. Es geschieht dem auch hierin kein Unrecht, der jederzeit die Bande des Rechts zerreißen will. )
+
+[AA 19:488] **7681.**   ο? ρ? κ??   J 66.   Zu § 85: Die Errichtung der Societät ist willkührlich, wenn die Menschen im Stande der Natur in keiner Gemeinschaft stehen. Alsdenn können sie nur durch ihren Nutzen bewogen werden, einander ein Recht zu constituiren.
+
+Sind sie in Gemeinschaft, so hat jederman gegen den andern schon ein Recht, und die constitutionen gehen nur auf die Mittel, dieses Recht zu exseqviren.
+
+Alle constitutionen gehen nun entweder *auf einen Nutzen*, der ohne die Gesellschaft nicht erreichet wäre (es sey der sicherheit des Nutzens im stande der Natur oder des Erwartens anderer), oder auf *bevestigung* *des Rechts*; iene machen einen *politischen* diese einen *moralischen* Körper aus.
+
+**7682.**   ο? ρ?   J 66.   Neben § 86, Anfang: So fern sich die Gesellschaft blos aufs Recht bezieht (indem, was den Nutzen anlangt, ein ieder seinen eignen sucht), so ist der Grund derselben die Errichtung eines gemeinschaftlichen competenten Urteils nach dem gemeinschaftlichen Willen und die Errichtung einer Gnugsamen Gewalt, diesen zu exseqviren.
+
+Die Errichtung eines *fori externi iustitiae* und einer *potestas exsecutoria*. Die *Civitas* ist *societas*, *in qva (g universi necessitantur maxima)* *iustitia externa vi suffcienti coniuncta*.
+
+*Ergo potestas legislatoria. Forum. Et potestas exsecutoria*.
+
+[AA 19:489] Die äußere Gerechtigkeit, so fern sie auf alle Geht, ist die öffentliche Gerechtigkeit. Nach der Regel des Rechts muß eines jeden Willen mit sich selbst nach allgemeiner und äußerlicher Regel übereinstimmen; folglich muß er gleichsam ein Wille des Gantzen seyn, und die actuation des Gemeinschaftlichen Willens ist die bürgerliche Gesellschaft.
+
+**7683.**   ο? ρ? υ--φ?   J 66.   In § 85, Schluss und J 67: über und neben § 87, Anfang. J 66: Recht und Gerechtigkeit muß in der Welt seyn. Sind die Menschen von Natur gut, so ist der Zustand der *öffentlichen Gerechtigkeit* *status* *naturalis*, sind sie bose, d. i. ist ihretwegen keine Sicherheit wegen des rechts, so ist es ein Zustand einer *öffentlichen Zwangs*gerechtigkeit. Das Privatrecht zu zwingen, ist kein Zustand der Gerechtigkeit. Geschöpfe die ohne Zwang keine Sicherheit. Würde ein drittes völlig J 67: gutes und einsehendes Wesen, welches mit aller unwiederstehlicher Mach t begabt wäre, da seyn, so würde es das Oberhaupt der bürgerlichen Verfassung seyn. Wie ist blos von verderbten Menschen ein bürgerlicher Zustand nöthig möglich. Der da gebieten und zwingen soll, muß untadelhaft seyn und, wenn er es nicht ist, können gezwungen werden. Das Hauptgesetze ist nicht *salus publica* sondern *iustitia publica*, aber um diese zu erhalten, Muß eine gewisse öffentliche Macht errichtet werden. Die privatwohlfarth, d. i. die der Bürger, ist kein obiect des Rechts sondern die Wohlfarth des Staats, doch ohne dem privat Recht der Bürger Eintrag zu thun, ihre Eigne Glükseeligkeit zu besorgen.
+
+**7684.**   ο? ξ? κ??   J 92. Der *summus imperans* hat auch *potestatem legislatoriam* in Ansehung der religion, nemlich negative, nemlich daß niemand Gewalt habe äußere Religion zu erzwingen, d. i. daß keine religion äusserlich sey. Hiedurch hindert er nicht die öffentlichen Lehren der religion, aber er verhütet alle Zwangsmittel des *cultus externi*. Man kann annehmen, ein wohlverstandenes
+
+[AA 19:490] *summum imperium* könne niemals der inneren Religion Hindernisse entgegensetzen. Es ist aber etwas verkehrtes, daß neben dem *summo imperio in civilibus* noch ein *independentes* sein soll *in ecclesiasticis*, Welches auf inappellable Art äusserlich Urtheilt und vorgiebt die administration positiver Gesetze zu besitzen, welche nicht aus der souverainen Gewalt entspringen, *status in statu*. Noch ärger ist es, wenn der Landesherr diese kirchliche Gewalt exercirt und über das, was blos vor das *forum* *internum* gehört, ein *forum externum* constituirt.
+
+Der Landesherr kann alle Laster bürgerlich erlaubt machen, die nur nicht dem *pacto civili* (der Bürger unter einander) wiedersprechen und daher alle irreligion erlauben. *Allein davor* muß er zu dem *foro interno* und dessen Vergrößerung alle Gelegenheit geben.
+
+Ob ausser dem *pacto civili* nicht noch ein anderes ist wodurch *summum* *imperium* constituirt wird.
+
+**7685.**   ο? κ?   J 93. Die aristocratie der Geistlichen wurde in den Alten Zeiten zugelassen, weil es eine vermeinte theocratie war, welche der damals schwachen bürgerlichen Regierung zu hülfe kommen konnte.
+
+**7686.**   ο? κ? ρ??   J 93. Der Monarch, welcher despotisch ist, hält den Staat als sein Erbgut (*patrimonium*), der patriotisch ist, als sein Vaterland. Das Land selbst ist eine Verbrüderung aus einem Gemeinschaftlichen Vater. Es ist die Herrschaft des ältesten. Alsdenn haben unterthanen auch im Staat ein Vaterland. Weil sie wissen, was sie von Vätern bekommen haben und als Väter hinterlassen können.
+
+**7687.**   ο? κ? ρ??   J 93. Der Satz, daß die Regirung eines despoten, wenn er selbst weise, d. i. geschickt und zugleich gut ist, die beste sey, hat darin einen Wiederspruch, weil wenn er das wäre, s0 würde er eine so unbillige Herrschaft nur so lange führen, bis er eine Gesetzmäßige, da der Staat sich selbst regirt, eingeführt hätte. Aber die Regirungsart oder Staatsverfassung ist gewiß schlecht eben darum, daß die bonität der Regirung auf den Willen des einzigen ankommt, ob er gut sey oder nicht.
+
+[AA 19:491] Der Wille aller ist jeder Zeit gut. Der Willen der einzelnen mag noch so böse seyn. Denn das Böse hat darin etwas Besonderes, daß es unter allen Zusammen nicht einstimmig ist und sich so aufhält, daß es kein resultat herausbringt als nach der regel des Guten.
+
+**7688.**   ο? κ? ρ??   J 93. Der Staat enthält in der monarchie den organismus, der ein leben im Staatskörper voraussetzt; die despotische regirung verändert sie in den mechanismus, der immer von fremder Hand abhängt.
+
+**7689.**   ο? κ? ρ??   J 93. Der Monarch regirt das Land als einen Staat, der despot als provintz. Der erste Vaterländisch. Der zweyte als eine Eroberung.
+
+**7690.**   ο? κ? ρ??   J 93. Der Monarch regirt als einer in der Reihe, die nach einer gewissen Regel beständig ist. Der despot als vor sich allein. Der eine hat ein Vaterland, der andere ein bloßes Erbgut Eigenthum.
+
+**7691.**   ο? κ? ρ??   J 93. Der Monarch ist, welcher einzeln ein Recht zur Gesetzgebung hat.
+
+Der Adel, deren jeder ein Erbrecht an der Gesetzgebung hat.
+
+Das Volk, die nur Zusammen aber nicht einzeln ein Recht an der Gesetzgebung haben.
+
+Der Adel macht den Grund zu der beständigen Regel, durch welche der Staat was Permanentes wird, also ist er des Staats Stütze. Das Volk sieht jeder auf sein eigen recht und macht das Volk aus. Der Monarch macht die Stärke des Staats aus, d. i. die Vereinigung und daß er eine Macht ist.
+
+**7692.**   υ? λ? υ??   J 136.   Zu § 145: *Bonum publicum est bonum communitatis, h. e. societatis non sociorum*
+
+[AA 19:492] *commune. Bonum privatum est vel singulis proprium vel omnibus* *commune.*
+
+Aller Gut zusammengenommen ist *bonum civitatis* aber nicht *bonum* *civis privati sumti*.
+
+**7693.**   ο? ι--κ??   J 177. Der *modus ius suum persequendi in republica est per actiones non* *per vim privatum*: Aber zur unmittelbaren Vertheidigung hat er das, natürliche Recht zur *vi offensiva* nicht.
+
+**7694.**   ο? ι--λ??   J 178.   Zu § 193, Schluss: Er kan keinen von einer privatschuld lossprechen noch *moratoria* geben noch Billigkeit befehlen. Alles dieses gehöret zum *casu necessitatis*.
+
+**7695.**   ο? μ? ρ?   J 178. Criminalgericht ist, was die *iustitiam punitivam* nicht *distributivam* ausübt; dasselbe muß zwar das *factum* nicht nach dem Buchstaben des Gesetzes sondern nach dem, was dem inquisiten vortheilhaft ist, nehmen; aber in *civilactionibus* muß er es nach dem Buchstaben nehmen, damit jedem sein das seinige durch das Gesetz genau bestimmt sey. Die Strafe aber nimmt das Gemeine Wesen nicht der *privatus*, also muß jenes seine Bürger zu erhalten suchen.
+
+**7696.**   ο? λ? υ?   J 178.   Zu § 192: *vel delinqvitur in praeiudicium publici vel delinqvitur in scandalem* *publici.*
+
+*vel delinqvitur contra qvemlibet subditorum, h. e. contra publicum* *vel contra summum imperantem; posterius est delictum publicum.*
+
+*delictum publicum non ideo vocatur, qvia factum materialiter repugnat* *obedientiae tanqvam exceptio sei qvia formaliter, h. e. potestati* *legislatoriae contrariatur et iuri maiestatico.*
+
+[AA 19:493] **7697.**   ο? λ? υ??   J 178.   Zu § 193: *non semper ipse est laesus.*
+
+**7698.**   ο? λ?   J 179.   Zu § 194: *ius legum poenalium non ius infligendi poenas.*
+
+Ob er dazu so harte Mittel brauchen kann, als er will, *e. g.* auf den kleinsten Diebstahl den Tod. Der Mensch ist nicht als ein *Mittel* zu anderer Bestem aufzuopfern.
+
+**7699.**   ο? λ?   J 179.   Zwischen § 194 und 195: Das *principium* der *legum poenalium* nach dem **iure talionis**.
+
+### [AA 19:494] Phase ρ.
+
+#### Allgemeines.
+
+**7700.**   ρ? χ--ψ?   J Schluss. Bey einer Armee ist die Ordnung 1. Subordination Subordination 1. parition (keine Wiedersetzlichkeit) 2. disciplin (blinder Gehorsam). 3. Mechanismus (g nichts vor sich selbst, sclavisch --- --- ). Der letzte rottet die Ehre aus, vornemlich wenn er den officir trift.
+
+Eben so: Gesetzmäßige Regirung --- eigenmächtige --- (g despotisch).
+
+Beym Mechanismus wird kein guter Wille mehr vorausgesetzt sondern blos die Furcht. Staatsverfassung ist die Form nach Regeln des Rechts. Regirungsform ist die äußere Einrichtung, eine Staatsverfassung auszuführen.
+
+Eine gesetzlose regirung ist barbarisch, eine eigenmächtige despotisch, eine unterdrükende (g raubsüchtige), plagende tyrannisch.
+
+barbarisch keine sicherheit der Bürger vor einander (s wenn einer despot des andern ist bey der Asiatischen Regirung; *mundus regitur* *opinionibus*; barbarey ist Annäherung zur Wildheit) und der Obrigkeit Vor den Bürgern.
+
+despotisch: keine sicherheit vor das Oberhaupt.
+
+tyrannisch: quälend
+
+patriotisch, souverain
+
+Patriotisch consultatorisch, dictatorisch.
+
+regirt nach Gesetzen Giebt gesetze.
+
+Der despotism ist entweder barbarisch oder (methodisch) regelmäßig. Der letzte ist nicht immer der, wo die meiste Freyheit übrig ist oder doch die meiste sicherheit.
+
+[AA 19:495] **7701.**   ρ? κ??   J I. Die gantze Lehre vom *iure reali* gründet sich auf eine philosophische fiction von der verbindlichkeit der Sachen gegen Menschen. und diese ist das Mittel der (g gemein gültigen) Rechtsverschaffung; allein die Begriffe von der Verbindlichkeit der person und dem *iure personali* sind die Gründe der Rechtsbeurtheilung, die blos *speculativ* ist. In der Gesetzgebung sieht man auf das erste, in der Gewissenslehre auf das letztere. Die Sache ist von Natur frey, sie wird obligirt durch den Willen des andern und ausschließungsweise, nemlich sie weigert sich andern durch Zeichen von dem Zwange darin sie unter dem andern steht. hat er sie nicht völlig in seiner Gewalt, so kann er sie nicht zwingen und sie bleibt *eatenus* frey, **e. g.** *territorium*, was ich nicht bedecken aber bearbeiten kann.
+
+Wen trift das Unglük, den dem eine Sache gestohlen ist oder der sie *bona fide* gekauft hat? Dieweil das letztere weder in der Gewalt des Käufers ist zu verhindern, noch er dazu verbunden ist, so ist es ein Unglük vor den Eigenthümer nicht vor die Kaufleute, daß sachen gestohlen werden.
+
+**7702.**   ρ? κ?   J 39. Die Zwangspflichten der Eltern gegen Kinder leiten sich lediglich aus den Natürlichen Principien des bürgerlichen Rechts ab. Weil der Staat ewig seyn muß, wenigstens so viel natürlicher Zuwachs ist, nicht muß zerstöhrt werden. An sich selbst haben Kinder gegen Eltern kein Zwangsrecht; sie könen also von jenen ausgestoßen werden, und obgleich den Eltern um der Göttlichen Ordnung willen die größeste Pflicht obliegt, so sind sie doch den Kindern nicht verbunden.
+
+**7703.**   ρ? υ--φ? χ?   J 39. Ich acqvirire ein Kind und alle Rechte über das Kind, (g auch wieder seinen Willen) zu disponiren oder alles zu verfügen, so fern es zu seiner Glükseeligkeit beyträgt; hier gründet sich das Recht auf obligation.
+
+[AA 19:496] **7704.**   ρ? υ--φ.   J 43. Die Kinder haben ein Zwangsrecht in Ansehung der Eltern aber nicht weiter als auf ihre nutrition, Ernährung, conservation, Pflege und defension. Aber sie haben keine Befugnis vorzuschreiben wie. Sie können nichts verlangen, als was die äußerste Nothdurft der Natur erfodert. Demnach da keine Befugnis in der Art, wie sie erzogen werden sollen, zu zwingen möglich ist und sie, wenn nur das geschehe, was aus Zwang gefodert werden kann, gewiß umkommen würden, so könen sie *operam parentum* als *gratuitam* ansehen und sind verbunden, und zwar aus *qvasi* *contractu* zur obedientz.
+
+#### De societate herili.
+
+**7705.**   ρ? υ--χ? κ??   J 56.   Unterer Rand: Der Leibeigene hat sein *arbitrium* aufgeopfert; folglich hat er sich nicht unter eine obligation begeben können. Eine Einwilligung, einem Zwange gehorchen zu wollen, da man keinen willen mehr hat, ist contradictorisch. Der Zustand, keine verbindlichkeit mehr zu haben beym Menschen, ist wieder alle Verbindlichkeit und es kann diesen Zustand nichts anders einführen als Verbrechen, die das Zutrauen auf den Willen gäntzlich aufheben.
+
+**7706.**   ρ? κ??   J 58.   Aussenrand zu § 74, Schluss: Es giebt keine Verbindlichkeiten (g gegen Menschen) als unter der Bedingung, daß einer Rechte hat, und der Verlust dieser Rechte ist das, was dem andern die Befugnis giebt, uns zu zwingen. (Bey Gott sind es Ansprüche auf seine Gütigkeit, die wir verlieren, wenn wir nicht seinen Befehl erfüllen.) Nun kan zwar der *laesus* den laedenten Aller Rechte verlustig und ihn zu seinem *dominio* machen, aber alsdenn kann er nicht weiter von der Verbindlichkeit des *servi* was erwarten sondern nur von seinem Zwange. Wenn das nun auch gegen einen laedenten erlaubt ist, z. E. Staat gegen Mörder in Vestungen, so ist die *servitus* doch nicht erblich, noch kan sie *pacto* eingeführt werden. Weil ein Mensch dem andern Unrecht thun kann, s0 kann keiner Verbindlichkeit gegen einen andern haben, wo er nicht zugleich rechte hat.
+
+[AA 19:497] **7707.**   ρ? κ? υ--φ??   J 59.   Zu § 75, Schluss: *Educatione (g extorta) nemo debitum contrahit. ad eam nempe* *cuilibet competit ius a natura.* Die Kinder können durch das *delictum* der Eltern des Rechts erzogen zu werden nicht beraubt werden, (s eben so wenig wie einer seines Rechts wegen einer Schuldfoderung durch das Verbrechen des *debitoris* verlustig werden kann. Der so den Verbrecher straft, muß das Kind ernähren), wer jenen das Vermögen dazu nimmt, unterwirft sich selbst der obligation.
+
+**7708.**   ρ? κ?   J 66. Die *qvaestio iuris* ist diese: wie ist der Zustand beschaffen, so daß eines jeden Menschen Eigennutz nach einer solchen Regel geschehe, die auch vor den Eigennutz anderer gilt und also gerecht sey? *Ist die Staatserrichtung* *blos willkührlich,* oder ist eine Staatserrichtung (s *iuridice* ) nothwendig; imgleichen welche Verfassung des Staats ist allein rechtmäßig. Also ist ein Grund des Rechts, der die *Staatserrichtung* nothwendig macht und ist ein Grund des Rechts, der nur eine einzige Staatsverfassung rechtmäßig macht. (s Ist der *status naturalis* ein *status iuridicus* oder ein Zustand der Ungerechtigkeit, Zustand aber kein Stand. Der *status naturalis* ist ein Zustand der Freyheit ohne Gesetz, folglich unrecht zu thun. )
+
+**7709.**   ρ? κ?   J 67.   Zu § 86: *1. Multitudo, 2. populus, qvatenus stabilita est, voluntas communis* *3. Civitas, qvatenus per voluntatem leges fixae sunt pro omnibus validae,* *4. Gens.*
+
+**7710.**   ρ? κ? μ??   J 66. Würden die Menschen vollkommen im Willen seyn einig im Willen seyn, so wäre kein Gesetz nöthig. Wären sie im Urtheil über einen fall einig, so wäre kein Richter nöthig. Würden sie das Gute alles gern thun, so wäre kein Zwang nöthig.
+
+[AA 19:498] **7711.**   ρ? κ? μ??   J 66. Wie ist ein rechtmäßiger Zwang möglich nach allgemeinen Gesetzen?
+
+**7712.**   ρ? κ? μ??   J 66.   Zu § 85: Die idee von dem Zustande des äußeren Rechts.
+
+**7713.**   ρ? κ?   J 67. Es muß eine uneingeschränkte oberste Gewalt seyn: souverainität. Nur der Gemeinschaftliche Wille kann diese oberste Gewalt haben. Er kann nicht unrecht thun. Aber die execution ist nicht vom Gemeinschaftlichen Willen. Also kan diese Unrecht thun.
+
+**7714.**   ρ? κ?   J 67.   Zu § 86: *Civitas --- gens*
+
+Ferner: *qvatenus continet cives, est respublica.*
+
+*Summum imperium* *et subditi*
+
+*subditi*, qvatenus membra sunt imperii summi, sunt *cives* et efficiunt rempublicam. Omnia officia erga se invicem sunt populus,
+
+*qva externus --- gens*
+
+*qva praestationem legislativam --- respublica.*
+
+Wenn auch Gleich die Gesetzgebende Gewalt da ist, so ist doch der Richter nicht möglich, weil die Menschen nicht unfehlbar und nicht unschuldig sind. Die Schwierigkeit ist, wie Wesen, die zur Gerechtigkeit gezwungen werden müssen, sich selbst einen Stand der Gerechtigkeit hervorbringen. Die Gerechtigkeit allein kann das Recht hervorbringen.
+
+**7715.**   ρ? κ?   J 67. 1. Was aus dem bürgerlichen Zustande überhaupt, 2. Was aus der Menschlichen Natur in diesem Zustande fließt.
+
+[AA 19:499] **7716.**   ρ? κ?   J 68. Gesetzgeben, Regiren, richten
+
+Souverain, Gouverneur,*Iudex*.
+
+**7717.**   ρ? υ-χ?     J 64. Der *status naturalis* als *status iuridicus* ist der Zustand einer *iustitiae* *commutativae* ohne eine *distributivam*. Das ist aber nur bey vollkommenen Menschen möglich; folglich ist *status iuridicus* gar nicht *status* *iustitiae externae*.
+
+**7718.**   ρ? υ?   J 68. Die Gründe des Staatsrechts sind von denen der Staatserrichtung und Staatserhaltung unterschieden. Ob es erlaubt sey, das *summum imperium* zu occupiren, oder ob es *potestas deferenda* sey, ob das Volk den Staat erhalten könne, oder dieser sich selbst erhalten müsse, gehört dahin nicht.
+
+**7719.**   ρ? ψ?   J 68. Der bürgerliche Zustand ist die unterwerfung unter die Gesetze als Unterthan. Der oberste, dem die übrige unterworfen sind, ist kein nicht Unterthan, mithin ausser dem bürgerlichen Zustande. Mithin ist seine rechtliche Verbindlichkeit und Beobachtung frey. Hier läßt sich das erste eben so wenig begreifen als in der ontologie.
+
+**7720.**   ρ? κ??   J 69. Der souverainen Macht eines eintzigen fehlt es an der Gesetzgebrischen Gerechtigkeit (denn regiren kan er durch *magistratum* gerecht). Der republicanischen an einer gerechten Regierung. Der democratie an einer Gewalt, weil sie sich in Partheyen trennen. Es fehlt iederzeit etwas.
+
+**7721.**   ρ? κ??   J 69. Wehe dem, der das Gesetz oder die idee der Vollkommenheit, die zum Muster dient, verfälscht, vor chimärisch ausgiebt und seine Regel schon den übeln accomodirt, die er vor sich findet.
+
+[AA 19:500] Menschen können durch gerechte Regirung immer besser werden, also können durch eine Gute Regel die Hindernisse ihrer executionen immer weniger werden; aber ist die Regel lächerlich gemacht oder verfälscht, so ist der Keim des Guten ausgerottet.
+
+**7722.**   ρ? κ?   J 69. Wir haben ein Recht auch andre zu zwingen, daß sie in den *statum* *civilem* treten, damit man gegen sie die Mittel des Friedens: nämlich *actionem civilem* anstellen kann.
+
+**7723.**   ρ? κ?   J 69. Daß wir nicht ein Recht haben zu verlangen, nach der idee von der Vollkommenen Gerechtigkeit regirt zu werden, weil wir selbst immer müssen gezwungen werden.
+
+**7724.**   ρ? κ? ι??   J 69. *Populus, Gens. Respublica Subditus, Civis.*
+
+**7725.**   ρ? κ??   J 69. Die Maiestät kommt dem zu, der gar nicht subordinirt ist; die Hoheit dem, der unter allen subordinirten der Oberste ist. Die Regirung ist unter dem Gesetze, also hat sie keine Majestät. Sie ist nicht heilig, denn sie kann mit recht getadelt werden. Der Souverain kan nicht regiren, denn der Regent steht unter dem Gesetze, ist verbunden darnach zu regiren und kann getadelt werden. Dagegen ist das Gesetz (*ex voluntate communi*) untadelhaft, heilig. Die *dignitas legislatoria* ist also *maiestas*, er ist untadelhaft. Er erniedrigt sich, wenn er regirt. Er inspirirt nur den Regenten. (Das Volk kan sich selbst nicht regiren.) Der Regent und noch weniger der Souverain kann richten. aber der Richter kann auch richten Urtheilen über die Regierung, aber nicht *valide*, und der souverain hat *potestatem inspectoriam* in ansehung beyder.
+
+**7726.**   ρ? κ?   J 70. Weil niemand verbunden ist, sich dem rechte eines andern wieder allen seinen Vortheil zu unterwerfen, wofern er nicht sicher ist, daß sein
+
+[AA 19:501] Recht eben so viel wirkung bey dem andern haben wird, so ist das erste die sicherheit vor das Recht eines jeden.
+
+(s *In statu naturali* ist iedes *ius* ein *ius dubium*, wo es heißt *alter iure aggreditur, alter iure resistit*: also *status belli*. )
+
+**7727.**   ρ? υ--φ??   J 70. Bis dahin haben wir die Gründe des Natürlichen rechts erwogen aber ohne Rechtspflege (*iustitia administrans*), die Gründe der diiudication aber nicht der actuation (*principia essendi non fiendi*). Eine bloße idee, in welcher der *status iuridicus* nur potential ist und welche den Grund enthält, nach welchem die *iustitia externa* soll angeordnet werden. (s Die Möglichkeit eines *Status iustitiae externae* oder *distributivae*. )
+
+Weil niemand von einem andern etwas fodern kann, ausser so fern er ihm dagegen sicherheit giebt, daß er nach denselben Gesetzen auch gegen ihn sein Recht erlangt, so muß ein *principium* seyn, welches von dem privatwillen eines jeden unterschieden ist und so wohl das Gesetz als die Anwendung und Ausführung desselben enthält.
+
+**7728.**   ρ? ο? υ?   J 70. *Iustitia externa. Leges personarum*
+
+*Lex publica* *Maiestas* *Potestas legislatoria*
+
+* (g Der *status civilis* ist nur auf die actuation der äußern Gerechtigkeit nicht öffentliche Wohlfarth gerichtet. )
+
+*Necesse est, ut sint summa.*
+
+*unica*
+
+*Non possunt*
+
+*Non sunt adunabiles praeter in Deo*
+
+*Hae potestates vel competunt singulis vel universis vel enti summo*:
+
+*status naturalis, respublica, theocratia,* *repraesentativa.*
+
+[AA 19:502] *Summus imperans*, dessen wille muß iederzeit recht seyn. iudex,      ---      Urtheil     ---      ---      ---      gerecht seyn. princeps,      ---      Gewalt      ---      ---      ---      irresistibel sein;
+
+man darf sich keinem Wiedersetzen.
+
+**7729.**   ρ?   J 70. Die regeln der rechtmäßigkeit enthalten die Bedingungen, unter welchen iederman ein Recht constituirt werden kann.
+
+Aber die Gründe, wodurch das Recht *überhaupt* constituirt wird sind von der äußern Gerechtigkeit.
+
+**7730.**   ρ? μ--ο?? υ??   J 71. *In iure status naturalis docemur qvidnam obligemur *erga* alios sed* *non nisi per statum civilem obligamur*aliis*.*
+
+(s Das *ius in statu naturali* trägt die Gründe der rechtmäßigkeit oder Unrechtmäßigkeit der Handlungen vor. Das sind nur Gründe der Möglichkeit oder Unmöglichkeit der Handlungen. Das *ius civile* trägt die Bedingungen vor, nach welchen iedem sein recht constituirt wird. Es wird nun aber nur ein Recht constituirt durch bricht ab. . )
+
+**7731.**   ρ? ο? κ?   J 71. Regimen geht auf *Gerechtigkeit* und sicherheit, administratio auf *Wohlfarth*.
+
+**7732.**   ρ? ο? κ??   J 71. Ich bin nicht verbunden mich in ansehung eines andern einem Naturgesetze zu unterwerfen, wenn ich nicht sicher weiß, daß er dieses Gesetz auch als das seinige erkennen wird. Ich bin
+
+**7733.**   ρ--σ? ω??   J 74.   In § 89, 2: Die moral Das *ius naturae* besteht in der allgemeinen Glükseeligkeit, [AA 19:503] so fern sie durch allgemeine Einstimmung der privat wilkühr möglich ist, das *ius publicum* in den Mitteln, diesen Zustand zu actuiren.
+
+**7734.**   ρ--σ? ω??   J 76. (g Der socialcontract ist die Regel und nicht der Ursprung der Staatsverfassung. )
+
+Der socialcontract ist nicht das *principium* der Staatserrichtung sondern der Staatsverwaltung und enthält das ideal der Gesetzgebung, Regirung und öffentlichen gerechtigkeit.
+
+Frägt man nun, welches ist das *principium obiectivum* der staatserrichtung, so antworte ich: in einer Vereinigung frey handelnder Wesen, die doch alle als den Zwangsgesetzen unterworfen betrachtet werden sollen, ist die *zwingende Gewalt nothwendig ausser ihnen* und es ist kein *principium obiectivum* der Staatserrichtung möglich. Vor iedem Zwangsgesetze geht die Gewalt vorher. Diese Gewalt, wo sie nicht natürlicher Weise dem beyrechnet, der auch das Recht der Gesetzgebung hat, so kann sie gar nicht rechtlich errichtet werden. Denn weil seine Gewalt an die Bedingung gebunden ist, daß sein Wille recht sey und ihm auch nur nach Regeln des rechts solche zu theil werden soll, *wer zwingt ihn darnach* *zu verfahren*. Überdem, wer ein an sich zufälliges Recht wozu hat, muß nach einem Zwangsgesetze verbunden werden können, damit er nur durchs Recht und nicht durch willkühr seine Gewalt habe. Nun ist Aber denn keine Gewalt mehr, die ihn zwingen könne.
+
+Das recht der Gesetzgebung ist beym Volk *originarie* aber beym monarchen *derivative*. Das der Regirung kann nur derivation seyn, weil die execution zwey opponirte Persohnen voraussetzt, da keiner in Ansehung des andern *ius originarium* hat.
+
+**7735.**   ρ--σ? ω??   J 76. Der Satz: *exeundum est e statu naturali* bedeutet: Man kann ieden zwingen mit uns oder unserer republic in *statum civilem* zu treten. Daher der Krieg in dieser Absicht allein gerecht ist.
+
+**7736.**   ρ--σ? ω??   J 76. *Iustitia publica est finis reipublicae.*
+
+[AA 19:504] Ferner: *finis constitutionis est 1. conservatio totius. 2. suum cuiusque.*
+
+**7737.**   ρ? κ?? μ??   J 76. Die idee des socialcontracts ist nur die Richtschnur der Beurtheilung des Rechts und der Unterweisung der prinzen imgleichen einer möglichen Vollkommenen Staatserrichtung, aber nach dieser idee hat das Volk nicht wirkliche rechte.
+
+Es scheint nichts natürlicher, als daß, wenn das Volk rechte hat, es auch eine Gewalt habe; aber eben darum, weil es keine rechtmäßige Gewalt etabliren kann, hat es auch kein strictes recht sondern nur ein ideales.
+
+**7738.**   ρ? κ? μ,??   J 77. *Contractus originarius* als die Richtschnur, *principium*, exemplar des Staatsrechts. Es muß aus ideen nicht aus *factis* auch nicht aus den Gründen des *flores* eines Staats, d. i. dem Wohlstande, hergeleitet werden.
+
+**7739.**   ρ? κ?? μ??   J 77. Die Gesetzgebende Gewalt mit der Regirung zu verbinden war blos um der Erhaltung des Gemeinen Wesens willen, mithin welches sich sonst nicht wohl erhalten will.
+
+**7740.**   ρ? κ?? μ??   J 77. Es ist die Frage: Gründet sich alle obrigkeitliche Gewalt und Ansehen auf einen *contractu primitivo*? Wer diesen nicht vorzeigen kann, ist der *Usurpateur*? Kan man auch praesumiren, daß wirklich ein contract zwischen dem Volke und einem, der zum souverain constituirt ist, vorgegangen sey.
+
+(s Der *Contractus originarius* ist nicht das Princip der Erklärung des Ursprungs des *status civilis*, sondern wie er seyn soll. )
+
+**7741.**   ρ? υ?   J 77. 1. Pflicht in einen *Statum civilem* zu treten, weil *status naturalis*
+
+[AA 19:505] *hominum in commercio* ein *status belli omnium contra omnes* ist, also *laesionis mutuae et periculi imminentis*. 2. Den Willen aller als das oberste Gesetz anzusehen, weil der allein nicht unrecht thun kan. 3. mit jedem Rechte auch öffentlichen Gesetzen eine (unwiederstehliche) Gewalt zu verbinden, die jedem sein Recht sichern.
+
+**7742.**   ρ? υ? κ?? μ??   J 78. In jeder *civitate* muß ein *summum imperium* seyn. *Imeperans universitatis,* *Summus imperans* muß ein uneingeschränktes Recht und die gäntzliche Gewalt haben. *Summus imperans* kan also vom Volk nicht unterschieden seyn. Denn alsdenn würde dieses gar kein Recht haben. Weil, wenn es ein solches hätte, kein Gemeinschaftlich gültiger Ausspruch und keine Gewalt, die beyde nöthigen kan, da seyn würde.
+
+**7743.**   ρ? υ? κ??   J 79. Es ist gut, daß dem Volke vorher bekannt gemacht werde, was die Regierung (Minister) dem Souverain vorgeschlagen hat, damit es durch seine Magistraete seine Bedenken darüber sagen könne.
+
+**7744.**   ρ? κ?   J 79. (*Imperium summum est plenum et illimitatum*, es hat nicht allein die höchste Gewalt sondern alle Gewalt.)
+
+**7745.**   ρ? υ? κ??   J 79. Es sind im Staate drey Mächte: Die Oberherrschaft, die Regirung und die Staatsverwaltung. Er ist Souverain durch sich selbst, Regent vermittelst des Ministers und erhält enthält sich der administration, worüber er nichts als richter oder inspector ist. Die administration ist dem Staate verbunden und das Volk muß sein Recht wieder sie suchen können.
+
+Er regirt durch den Minister, damit die administration darauf sehen könne, ob es den Gesetzen gemäß geschieht. Der Minister muß kein Vezie seyn. Die administration hat unter sich das Gouvernement. Dieser die Magistraete und die Gerichtshöfe. Ob der Gouverneur auch im Frieden [AA 19:506] über die Armee richter sey. Wenn der Souverain despot und der Minister Vizir und der Gouverneur Bassa ist. Die souverainetät wird durch nichts eingeschränkt aber wohl gemäßigt und zwar durch den Willen, daß der Staat in sich selbst einen Grund der Fortdauer habe ohne unterschied der Printzen.
+
+**7746.**   ρ? υ? κ??   J 78. Der Monarch muß verhüten, daß der Staat nicht blos auf seiner Persohn beruhe, ob es zwar brillant ist. Die unberühmteste aber verdienteste Ehre ist, ihn so einzurichten, daß er nach ihm im Flor ist selbst unter schwachen regenten.
+
+**7747.**   ρ? υ? κ??   J 79. Wenn sich das recht der Könige von einer Thathandlung (*facto*) des Volcks derivirt, so könte das Volk keine größere Macht ertheilen, als es selbst gehabt hat. Es muste also die souverainetät gehabt haben, um s0lche auf einen andern zu transferiren. Nun kan sich das Volk nicht selbst Beherrschen oder Regiren, also hat es diese Gewalt auch nicht auf den andern transferiren können. Es können menschen nur ihrer Natürlichen Freyheit zum Vortheil eines andern entsagen, aber dann können sie sich nichts vorbehalten.
+
+**7748.**   ρ? κ?? μ??   J 78. Ob die Unterthanen, wen sie auch durch ein wirklich *pactum* das *summum imperium* übertragen hätten, sie das Recht sich vorbehalten hätten, über die Beobachtung des *pacti* von Seiten des *imperantis valide* zu urtheilen. Daraus sieht man, daß ein solches *pactum*, wodurch man sich rechte vorbehält, aber keine Befugnis, andre zu zwingen, iuridisch gültig nichtig sey.
+
+**7749.**   ρ? υ? κ??   J 79. Die Regirung hat nicht die Gringste Ähnlichkeit mit der Väterlichen autorität, welche die aller uneingeschränkteste unter allen ist. Der Vater muß das Kind ernähren und an seiner Statt Brod verdienen. Beym Regenten ist es umgekehrt. Ieder unterthan mag sein interesse selbst besorgen, aber nur was wechselseitige Rechte betrift, ist das Volk unmündig imgleichen [AA 19:507] in Ansehung der Staatsverhältnisse. Da ist der Regent aber nicht vater sondern repraesentant.
+
+**7750.**   ρ? υ? κ?   J 79. (s *Imperium et regimen.* Das letzte komt dem Souverain zu, so fern er auf die Beobachtung der Gesetze sieht. ) *Princeps*, staatsoberhaupt hat keinen über sich aber darum nicht alles unter sich. Es muß eine administration seyn, welche im Nahmen des Volks verwaltet; denn weil das Volk das eintzige im Staat ist, was immer dauert, so kan der Staat keine beständige Grundsätze seiner Fortdauer (so wie bey dem Thiere die Ernährung und innere Erhaltung seines Lebens) ohne eine Stellvertretung des Volks haben. Der Gouverneur ist der Stellvertreter des regenten.
+
+**7751.**   ρ? υ? κ??   J 79. Die Gesetzgebung wird geführt durch den *Souverain*, die Regirung durch den *Minister im Nahmen des Souverains. Die administration (durch das directorium) im Nahmen des Volks. Der Gouverneur oder Stadthalter respicirt die Rechte des souverains wie in Holland. Der Statthalter ist wirklich der regent, hier aber erblich.
+
+* (s subsumirt applicirt die pflicht des Unterthans gegen den souverain oder das Volk unter dem Gesetz. Richter, die pflichten thun. )
+
+**7752.**   ρ--σ? ο?   J 79. Der Wille des *summi imperantis* ist allgemein, soll aber auf ieden einzelnen angewandt werden, entweder so fern dieser ein Glied des Staats ist, um durch das besondere zum allgemeinen zu gehen, oder im Verhältnis auf privates steht (im privatverhältnisse). Der regent actuirt den allgemeinen willen im besondern. aber der Richter muß im strittigen Falle urtheilen, ob es dem allgemeinen gemäß sey. Der Regent kan unrecht thun.
+
+**7753.**   ρ? ο? κ??   J 78. Alle Gewalt des Staats ist entweder legislativ oder exsecutiv. Die erste hat der Souverain, das zweyte der printz, Magistrat, Gouvernement.
+
+[AA 19:508] Das Gouvernement ist ein Zwischencörper zwischen dem Souverain und dem Staat. Des ersten *actus* sind Gesetze, des zweyten decrete.
+
+**7754.**   ρ? ο? κ??   J 78. Der souverain *etc.* kann nicht alienirt werden.
+
+In dem Staat ist der souverain die einige Macht.
+
+**7755.**   ρ? υ? κ??   J 78. Selbst die göttliche Befehle sind nicht despotisch. Er hat eine solche wohleingerichtete Regirung in uns gelegt, daß seine Befehle uns billig vorkommen und selbst da, wo sie nicht wohl gehöret werden, doch antreiben.
+
+**7756.**   ρ? ο?   J 78. Der Wille des *summi imperantis* muß jederzeit recht (d. i. irreprehensibel) seyn, weil sein Wille bestimmen soll, was recht ist und das oberste *principium iustitiae publicae* seyn soll. Seine Gewalt muß (in Ansehung der Landesgerechtigkeit) irresistibel seyn, weil nur in so fern der *imperans* iedem sein Recht sichern kann, als dieser unter seinen Gesetzen steht. Er muß einig seyn. Er muß *voluntas communis* seyn.
+
+**7757.**   ρ--σ? ο?   J 78. *imperans* ist souverain oder herrscher. Ist dieser Monarch *Selbstherrscher*?
+
+**7758.**   ρ--σ? ο?   J 80. Hat der Souverain ein Recht auf die Persohn vermittelst des Bodens oder auf den Boden vermittelst der Persohn, denn beyde Rechte sind verbunden. Das erste ist wahr, denn nur der Boden bleibt, die Persohnen wechseln und der Vorfahr kan auf den Nachfolger keine Verbindlichkeit bringen als nur vermittelst einer dritten Sache, dazu er ihm ein Recht hinterlassen will. Ist nun dieses wahr, so ist der Souverain *dominus* *directus* des Bodens, der Unterthan nur*dominus utilis (dominium publicum)*; hievon derivirt sich aber *privatum*, welches daher muß restringirt [AA 19:509] seyn unter der Bedingung, daß das substrat der bürgerlichen Gesellschaft so wie diese selbst daure. Das ist Luft, Wasser, Erde und Feuer.
+
+Er darf also nicht das Holtz vertilgen.
+
+**7759.**   ρ? υ--φ?   J 80.   Zu § 98. Es ist zwischen dem *imperante* und den Gliedern der societät kein *pactum*.
+
+**7760.**   ρ? υ--φ?   J 80. 81. 80: Der souverain regirt durch den Minister und giebt durch sich selbst Gesetze. Das directorium ist eine Art parlament, durch welches alle Edikte gehen müssen, ehe sie gesetze werden. Edikte sind besonders begünstigende oder drückende Verordnungen, die einen Theil zum Vortheil anderer belästigen. *e. g.* Auflagen auf Äcker. Das directoriuum muß als repraesentant des Volks in Pflicht genommen seyn aber vom souverain ernannt werden. 81: Es kan nur weigern zu registriren und muß abschied nehmen, dadurch wird der Wille des souverains dahin limitirt, daß es ein souverainer Wille des Staats und dauerhaft vor die künftige Zeit seyn kan.
+
+Der souverain giebt also aus eigner Gewalt (obzwar mit fremder Beyhülfe) Gesetz, regirt durch den Minister (Verordnungen gehören zur Regirung) und läßt durch eine andre person den Gesetzen gemäß Richten. Er richtet nicht durch andre, weil er s0nst selbst part und richter seyn würde.
+
+**7761.**   ρ-σ.   J 80. *Usurpator* kann nur iemand seyn, der einem andern *summo imperanti* Eintrag thut, aber nicht in Ansehung des Volks.
+
+**7762.**   ρ--σ.   J 81. Der *Usurpator* hat jederzeit Unrecht, aber das Volk hat kein Recht gegen ihn. Denn iener ist im Besitz das Recht zu verwalten und dieses ist das *principium*, woraus alles beurtheilt werden muß von den Unterworfenen.
+
+[AA 19:510] **7763.**   ρ? ο? υ??   J 89. Die Staatsverwaltung ist den Gesetzen unterworfen, mithin auch der richterlichen Gewalt, also kan sie der souverain nicht führen.
+
+**7764.**   ρ? σ? υ??   J 89. Despotismus. Wenn die Staatsverwaltung soll den Gesetzen gemäß seyn, so muß sie auch ihre eigne regeln der Ausführung der öffentlichen Geschäfte haben, woran das ministerium gebunden ist und worauf es vereidet ist. Soll sie gerecht seyn, so müssen diese Regeln sich auf die Gleichheit der Rechte aller beziehen und die gleiche Vertheilung der Lasten imgleichen darauf, daß ein jeder, der besonders belästigt ist, sein Recht suchen kann. Soll sie dauerhaft seyn, so müssen die Regeln derselben eine Beständigkeit haben.
+
+Der Souverain, der noch selbst seine Hand in die Staatsverwaltung mengt, ist despot. Als souverain schreibt er die schifsroute vor, als regent führt er das steuerruder, das ministerium treibt das Schiffsmaneuvre. Zuletzt inspicirt er den Weg und vergleicht ihn mit dem *dessein*
+
+**7765.**   ρ? ο? υ??   J 89. Man verliert keine rechtmäßige Freyheit des *status naturalis* als nur die Gesetzlosigkeit, indem das Zwangsgesetz die Freyheit auf die Bedingungen der allgemeinen Sicherheit restringirt. Der Mensch muß unter Zwangsgesetzen stehen; dieses ist ein Beweis, daß er von Natur böse sey. Das Gute an ihm im gesitteten Zustande ist selbst die Wirkung des Zwanges, der unvermerkt ihm die Wildheit nimmt und die moralische Bewegungsgründe durch die Zurükhaltung der Eigenliebigen entwickelt.
+
+**7766.**   ρ? ο? κ??   J 88. Das *bonum publicum* setzet das *bonum (iustum) privatum singulorum* nach dem Satz des Wiederspruchs voraus, denn alle ausser einem sind nicht alle. Es kommt aber noch die Wohlfarth des gantzen dabey in Betracht oder vielmehr, es ist durch das Gantze und dessen zusammenhaltung nur das *bonum privatum* möglich.
+
+**7767.**   ρ--σ? ο?   J 90.   Zu § 108. *non potest inter imperantem (g souverain) et subditum ius esse*
+
+[AA 19:511] *dubium sed inter subditos*, und wenn es scheint, daß ein Unterthan eine Beschwerde gegen den Oberherrn habe, so hat er sie nur gegen die regirung oder administration oder gegen Mitbürger.
+
+**7768.**   ρ? ο? υ?   J 91. Ein *monopolium* in Ansehung dessen, was andere im Staate eben so gut verrichten könnten, ist kein Gesetz sondern eine Privatgunst zum Nachtheil anderer Bürger, also wieder den Socialcontract.
+
+**7769.**   ρ? ο? κ?   J 91.   Zu § 109. Der *actus*, da die Menge durch ihre Vereinigung ein Volk macht, constituirt schon eine souveraine Gewalt, welche sie durch ein Gesetz auf irgend einen übertragen. Denn die *pacta* sind Gesetze und supponiren schon eine Gesetzgebende Gewalt.
+
+Wenn das Volk jemand die souverainetät aufträgt, so kan es solche nicht einschränken, denn alsdenn ist es nicht souverainetät. Alle Einschränkung setzt voraus, daß das Volk die oberste Gewalt behält.
+
+**7770.**   ρ? ο? κ?   J 92. Kein Theil der souverainen Gewalt kann dem andern wiederstreiten, weil sonst keine obere Gewalt seyn würde, die darüber entschiede. Aller Wiederstreit betrift nur die Regirung und das gouvernement.
+
+**7771.**   ρ? ο??   J 92. Ohne patriotismus der Regirung ist kein patriotismus des Unterthans, (g denn dieser besteht darin, daß er sich als ein Glied nicht als ein Eigenthum des Staats ansieht). Zu den rechten eines Unterthanen eines patriotischen Staats gehöret, daß er unter der Gleichheit der Verdienste, zu denen er sich erheben kann, er auch mit jedem andern zu gleicher Würde gelange. Also muß er selbst nicht zum *patrimonio* anderer gehören und kein Erbunterthan eines privatmannes seyn. Als Mittel die Freyheit der Feder.
+
+[AA 19:512] **7772.**   ρ? ο?   J 92. 93. 92: Die rechte des Bürgers gehen nicht auf den monarchen sondern seine Mitunterthanen. Warum soll er dieses allein leisten oder leiden, wenn es auch nicht andre trift. Er Will unter allgemeinen Gesetzen stehen und nicht gleichsam von den Übrigen beherrscht seyn. Daher kann der Monarch nicht einem das Leben nehmen, ohne iedem es in eben den Umständen zu thun. 93: Die Frage ist nicht, ob der Monarch dieses oder ienes mit Recht gebiete, sondern ob seinem allgemeinen Gesetze gemäß dieser oder iener mit Recht hie- oder dazu gezwungen werden könne, wenn andre davon frey seyn. Im patriotischen Staat giebt es Vornehme und gringe aber *nicht* *Mächtige und Ohnmächtige*. Ieder ist durch sein Recht *eben so* *mächtig als der andere*. Gnugthuung vor Beleidigung kan auch in einer monarchie gegeben werden. Bascha und Nabobs.
+
+**7773.**   ρ--σ.   J 93.   Zu § 110 Schluss von Absatz 2, Anfang von Absatz 3: Man muß in demokratie und (s avtocratie des Volks oder) heterocratie eintheilen; denn wenn das Volk nicht sich selbst *beherrscht*, so ists einerley, ob der Andre eine einzelne Persohn oder *persona moralis* ist.
+
+**7774.**   ρ? ο??   J 94. Der despotism hängt nicht blos an der monarchie (s sondern auch an einem Theil des Volks mit Unterdrükung des andern). Ob die Gesetzgebung oder Regirung despotisch könne genannt werden.
+
+Der despotismus ist die Verhinderung der Mittel, wodurch die Einsichten sowohl der religion als der Staatsverwaltung können erweitert werden. Der *status in statu*. Den bricht ab.
+
+**7775.**   ρ? ο??   J 94. Der Souverain ist Selbstherrscher (der allein herrscht), *autocrator*.
+
+[AA 19:513] Der Monarch, der zu oberst oder mitherrscht, ist also der Beherrscher. Der Printz ist der Regent. Der Oberbefehlshaber ist der Gouverneur. Denn Befehl und Gesetz ist nicht einerley.
+
+**7776.**   ρ? ο??   J 94. Die Souveraine Gewalt ist die Landesherrschaft. Als ein eintziger heißt er Beherrscher; als uneingeschränkt, Selbstherrscher. Ists aristocratie, so heißts der Herrenstand.
+
+**7777.**   ρ? ο??   J 94. Entweder der Der Fürst ist entweder Landesherr ober nicht. Im letzteren erstern falle tragen die Vasallen von ihm das Land zu Lehen und sind die natürliche Vertheidiger desselben und also gebohrne Anführer. Der das Erbrecht der succession im Lehngute hat, ist ein wirklicher edelmann und ist ein gebohrner officir unter den Baronen. Die mit dem *von* bezeichnet sind, um dadurch sich zu Officirstellen zu qvalificiren und Landgüter kaufen zu können, sind titular Edelleute. Die Engländer *cadets* und ihre männliche descendenten sind wahre Edelleute, denn auch das übrige ist ihnen obzwar nicht *exclusive* erlaubt. Der Herr, welcher, so viel er will, *dominus utilis* vom gantzen Lande ist, ist der despot. Der Bürger ist gar nicht einmal *dominus*. Der adel ist *dominus eventualis*.
+
+Die aristocratie ist die oberherrschaft des *collegium* der Herren, d. i. der proprietärs des Landes. Das übrige ist das Volk: Bürger, Bauren, Knechte und Arbeitsleute, wovon die drey letzten der Pöbel heissen. Die democratie ist, wo alles insgesammt, volck was ein Haupt der Familie ist, Bürger ist.
+
+Der Fürst, der ohne Einwilligung des Adels und Volks nichts thun kann, trägt die regirung zu Lehen aber hat keinen *dominum* über sich.
+
+**7778.**   ρ? ο??   J 95. Der Staat ist ein *automaton*. Das ist eine heilige Pflicht, die ihm die Achtung vor das Menschliche Geschlecht und die Wesentliche Bedingung seiner Wohlfarth auferlegt, diese Kunsteinrichtung nicht zu stöhren. Wehe dem Prinzen, der die Triebfeder oder das Schwungrad wegnimmt, welches [AA 19:514] alles in Ordnung hält, und sich unternimmt, mit kühner Hand selbst alles zu regiren. Und wenn er Engelweisheit besäße, so ist er vor all das Unglück, was den Staat durch innere Treulosigkeit seiner Diener und durch Unfähigkeit seines Nachfolgers trift, Verandtwortung schuldig.
+
+**7779.**   ρ? ο??   J 95. Ob Ehrlichkeit (Gerechtigkeit und Treue) nicht die beste politic des Staats und der Regirung sey (*externe et interne*), eben so wie in den Verhältnissen der Bürger. Es ist der kurze weg der Staatsklugheit.
+
+Einige haben die Staatsverfassung verglichen mit einer Herde und dem Hirten. Der Fürst hält sein Volk wie das liebe Vieh, er schiert ihm die Wolle knapp ab, läßt sie nicht nach ihrem sondern seinem Sinn weiden und davor, daß er sie durch seine Hunde wieder den Wolf bewacht, speiset er sie auf; Andre mit einer familie und dem Hausvater. Der Oberherr tractirt die Unterthanen wie rotzige Iungen, läßt ihnen keinen Verstand als zum Gehorchen und ist der allgemeine Eigenthümer: iesuiten in paraguay. Noch andre mit einem thier, was durch einen lebenden Geist regirt wird, der vor alle Glieder sorgt; aber diese Vergleichung ist zu metaphysisch, und es ist auch eine dergleichen innigliche Vereinigung der wechselseitigen abhängigkeit unter Menschen nicht möglich, überdem empfinden die Glieder gar nicht sondern nur der Geist, und es ist also kein getheiltes und wiederstreitendes interesse. Keiner hat sie verglichen mit der Verbindung der Nachbarn und ihren ältesten. Wir können die jetzige mit einem Bienenstock vergleichen, welchen jemand nur darum gegen Witterung und Raubbienen schützt, damit er ihm etwas von dem Honig nehme, den sie vor sich gesammelt haben. Sie nehmen ietzt nicht mehr den Überflus sondern die nothdurft. Der Stok schwärmt nicht mehr, die Bienen verzehren ihren rest und sterben in Faulheit.
+
+[AA 19:515] **7780.**   ρ? ο?   J 96. (s a) Die Staatsverwaltung und regirung ist nicht einerley. Der Printz regirt, wenn er nach seinen Sachen sieht; er verwaltet, wenn er sie selber führt. Es geht immer besser, wenn er nur regirt, d. i. darauf sieht, daß jeder seine Pflicht thue, bey der Gesetzgebung dabey ist und andren die Verwaltung überläßt. Der Herr braucht nicht selbst die Pferde zu regiren noch wie *Nero* zu Kutschiren. Er braucht so gar nicht einmal dessen Handwerk zu verstehen. Wenn er nur versteht, wenn die Pferde gut seyn und wie viel oder wie gut er was verlangen kann, und darauf sieht, daß jener die guten Thiere, die ihm arbeiten sollen, nicht verhungern lasse oder sie übertreibe, so geht alles gut. Auch so gar muß er *kein Soldat* seyn, aber doch es zu beurtheilen wissen, denn er wird sonst einen Stand *vor* dem andern schätzen. Er muß keinen Liebling haben. Wenn er die administration andern überläßt und nur die Aufsicht Über sie führt, so hat das auch diesen Vortheil, daß der Haß nicht auf ihn sondern den minister fällt.
+
+**7781.**   ρ? ο??   J 98. Der Souverain giebt Gesetze, regirt (nicht administrirt) und inspicirt die Gerechtigkeit. Er muß nicht administriren, denn das ist ein **actus** **singularis**, der *unter dem Gesetze* steht, welcher *unrecht seyn kan* und wieder welchen ein Schutz im Staate seyn muß. Sein Wille gehet nicht auf einen *actum singularem*, da ein Fall unter dem Gesetze subsumirt wird (in dieser subsumtion kann allein das *Unrecht* bestehen aber *nicht in der sanction* der Gesetze, weil die allein das Recht bestimmen); dergleichen das directorium, das Gouvernement und Magistraete thun; denen der Souverain durch den Minister seinen Willen kund thut. Ob er aber gleich nicht *administrirt, so regirt er doch,* indem er das gouvernement einsetzt, absetzt und so weiter. Er ist Oberrichter (inspector). Er *spricht kein Urtheil* im besondern Falle sondern setzt andere Richter ein oder auch ein Ausserordentlich gericht, weil dieses wiederum eine allgemeine Handlung ist, da er aus dem Volk selbst die Hülfe vor ihr Recht nimmt und sich also das Volk selbst recht spricht. Auf ihm haftet also kein
+
+[AA 19:516] Tadel, er ist heilig und irreprehensibel. Wenn er aber seine Hand an die Rechte einzelner legt, so hat er ein *ius controversum* nicht *sanctum*.
+
+Alles Richten muß öffentlich seyn. Die Glieder des Gerichts müssen von den *magistratus*, die das *publicum* vorstellen, ernannt werden.
+
+**7782.**   ρ? ο??   J 98.   Zu § 113. Er muß nicht die *magistratus* übernehmen oder gouvernement. Er regirt bricht ab.
+
+**7783.**   ρ? ο??   J 98. Der souverain, der administrirt oder richtet, ist despot oder ein erblicher dictator, denn die dictatur kann in Nothfällen wohl statt finden.
+
+**7784.**   ρ? ο??   J 99. Zwey Mächte im Staat. Bürger und Kriegsleute. Im Frieden sind die letztern auch Bürger, also die Gerichtsbarkeit ist hierin eben dieselbe.
+
+**7785.**   ρ? ο??   J 99. Bey den Gründen der Rechtsklugheit in der Gesetzgebung ist nöthig zu fragen, ob, wenn ich von dem strengen Rechte abgehe, noch eine Regel statt finde denn die.
+
+**7786.**   ρ? ο? κ??   J 105. Der Satz: *Mundus regitur opinionibus* ist nicht ein Sprichwort des Spottes über die Thorheit der Menschen sondern eine gute Maxime der Klugheit vor Regenten. Die opinion der Freyheit und einer gewissen Wichtigkeit, die man zu haben glaubt, macht, daß die Menschen den Zwang in Ansehung anderer Stüke nicht fühlen. Es ist auch möglich, daß, indem man sie in der Abhängigkeit in Ansehung der Sachen erhält, sie doch glauben, eine Völlige Freiheit in Ansehung ihrer Persohn zu genießen, *e. g.* keine bestimte Aushebung der Recruten sondern allgemeine Ausschreibung. Gesetze, die jeden Vornehmen abhalten, ein anderes Ansehen dem Untergebenen empfinden zu lassen als das der Gesetze und des Oberherren; daher in ansehung persöhnlicher Beleidigung der größeste Beystand und nicht zuzugeben, daß jedermann sich einen Persöhnlichen sondern nur [AA 19:517] einen substituirten Vorzug im Nahmen eines andern anmaße. Vornemlich das Ansehen der Friedensrichter, worunter alles militär steht, und alle erdenkliche *remedia iuris*. Das ist das wahre Mittel, den ächten Stoltz, den arbeitsamen Eifer, den patriotismus, die Verdienste emporzubringen. Nichts als die opinion, denn am überfluße und dem luxus hängen wir nur durch opinion, und wenn alle schlecht essen, so ist uns eine schlechte Mahlzeit gut genug. Daher *servitus realis*. Eigenthum, und das mit abgaben belegt. Die Persohn frey. Aufs Gantze die Lasten und die repartition ihnen selbst überlassen.
+
+**7787.**   ρ? ο?   J 107. Hier ist die Frage, ob ein bürgerliches Amt vom Souverain blos verliehen oder *pacto* auf ihn transferirt werde, so daß ohne *beyderseitige* *Einwilligung* (oder eines Theils Übertretung des *pacti*) das Amt nicht könne genommen werden. Wenn die Zum Amte erfoderliche Geschiklichkeit selbst im bezahlten Amte muß gelernet werden wie beym Soldatenstande, so ist es blos verliehen, d. i. der Gebrauch blos concedirt unter gewissen Bedingungen, welche, daß es gratis verliehen sey, nicht aufheben. Hat aber die Geschiklichkeit müssen mitgebracht werden, so ist es ein contract.
+
+Man könnte sagen, wenn das Ammt ein bloßer Dienst ist, der dem Staat geleistet wird, so sey es amovibel; ist es aber ein Recht, welches Unterthanen gegen einander haben, nämlich einander Recht zu sprechen oder sich unter einander zu lehren, worinn der Souverain keine Änderungen nach Belieben machen kan, so sey das Amt als veräußert anzusehen. Der Kriegsdienst ist eine Commission auf eine unbestimmte in den Willen des Souverains gesetzte Zeit, weil das die Sache des bloßen Souverains ist, den Staat zu vertheidigen.
+
+**7788.**   ρ? ο?   J 107. Ein Amt, das erblich ertheilt worden: als das Stadthalteramt oder Dienst in Holland, kan nicht ohne beyder zusammt der Erben Einwilligung [AA 19:518] genommen werden. Es ist die Veräußerung eines Theils seines Rechts wie bey einer Erbpacht. nur daß diese nicht transmissibel ist.
+
+**7789.**   ρ? ο?   J 107. Unterschied zwischen Amt und Dienst. Ienes ist ein öffentlich geschäfte, dieses ein besonders einer Person geleistetes.
+
+**7790.**   ρ? χ?   J 111. Der souverain kan abgaben ausschreiben; die Vertheilung derselben ist eine Sache der Unterthanen, darüber sie streiten müssen. Das ministerium muß wegen der größe der Abgaben könen Vorstellungen thun. Die magisträte dem minister wegen Vertheilung derselben.
+
+**7791.**   ρ? χ?   J 113. Das richterliche Amt ist jederzeit ein Geschäfte des *subditi*, denn der richter ist genöthigt, dem Gesetz gemäß zu urtheilen und kan unrecht thun, daher muß er auch dem Zwange unterworfen werden (g und dieweil er dies nicht kan, so entspringt die Ungereimtheit, daß man jemand unrecht thun kann, ohne daß es erlaubt ist, ihm zu wiederstehen). Der *summus* *imperans* *verringert* also seine *Majestät*, wenn er sich mit dem Geschäfte des *subditi* bemengt. Er bestätigt nur Urtheile oder dispensirt von Strafen (dadurch keiner beleidigt wird), und die declaration, daß seine *Collegia* den Gesetzen gemäß gerichtet haben, ist seine Bestätigung.
+
+**7792.**   ρ? χ?   J 113. Der *summus imperans* muß irreprehensibel und eben darum aus seinem Rechte irresistibel seyn.
+
+**7793.**   ρ? κ?   J 114. Das Faustrecht gilt nicht im Gemeinen Wesen. Aller Gewalt ist einerley, und der unterschied beruht nur auf dem Recht.
+
+[AA 19:519] **7794.**   ρ--σ.   J 119. Alle Lehrer der Religion haben ein Recht, ihre Religion zu prüfen, auch zu Einwürfen und Zweifeln und Änderungen in Ansehung derselben. Auch selbst die, die einer Kirche dienen, weil sie es doch sind, welche oder ihre Vorfahren die Gestalt der Religion gegeben haben und also sie auch müssen bessern könen.
+
+**7795.**   ρ? ο?   J 119. Selbst das volk kann so gar nicht einstimmig in ansehung der religion positive Zwangsgesetze machen. Denn man kann nicht von Menschen zu dem gezwungen werden, was nur Gott angeht und sie können sich zu nichts anheischig machen, was, so bald sich ihre Meinung davon ändert, auch es über alle Menschen furcht zu ändern nöthigt. Noch weniger kann dieses durch der meisten Urtheil geschehen.
+
+Einen Gott zu glauben, wenigstens bey ihm zu schweeren, kann es zwingen, weil das Gewissen bey dem, der keinen Gott glaubt, dawieder seyn kann.
+
+**7796.**   ρ? ο? υ??   J 119. Das Volk hat zwar ein strictes Recht, seine eigene Wohlfahrt zu besorgen unbekümmert um das Wohl der spätern Nachkommenschaft, die auch vor das ihrige sorgen mag. Aber gleichwohl ist es eine Pflicht der Billigkeit auch in Ansehung der Religion, nicht solche Einschränkungen der Freyheit zu machen, welche dem menschlichen Geschlecht den Fortgang zur Vollkommenheit unmöglich machen, *e. g.* daß Prediger gewisse Artikel beschweeren müssen und daß Landesbedienungen nur unter besonderen und beliebigen Religionsbedingungen ertheilt werden.
+
+**7797.**   ρ? ο? υ??   J 118. Worüber das ganze Volk selbst nicht disponiren kann, darüber kann [AA 19:520] auch kein souverain, als sich aller religionsuntersuchungen zu entschlagen und diese Freyheit zu verbieten.
+
+**7798.**   ρ? υ--χ?   J 126.   Zu § 137 Anm. 1: Die Hierarchie des Souverains gründet bricht ab.
+
+#### De iure eminenti.
+
+**7799.**   ρ.   J 137. Zwischen dem Menschen *in statu naturali* und dem *in statu civili* ist der Unterschied, daß iener durch seinen bloßen willen das, was andern nützlich seyn könte, abschlagen kann (*e. g.* Weg über seinen Boden); der Bürger aber hat seinen Willen schon in den allgemeinen Gegeben.
+
+**7800.**   ρ? χ??   J 137. Das Recht auf Erbunterthänigkeit kann allein den souverain zukommen. Denn weil über ihm keine Gewalt ist, so muß man alles von seiner Gnade erwarten. Aber daß man von der Gnade eines Unterthans was alles erwarten müsse, ist ungereimt; gegen den muß ich auf mein Recht mich fußen können.
+
+**7801.**   ρ? χ??   J 137. Minister heissen oft auch gnädig, weil man öfters über sie kein Recht iudiciren kann.
+
+**7802.**   ρ? κ??   J 137. Wenn derselbe Schade allen begegnen würde, den man von einigen abhalten wolte, so ist dieses die Preisgebung eines Gliedes. Aber wenn die übrigen zu gewinnen denken, dadurch daß sie einen aufopfern, so ist dieser nicht ein Mitglied sondern eine Sache.
+
+**7803.**   ρ.   J 138. Der Staat kann etwas geschehen lassen, zugeben, nicht hindern aber nicht selbst als ein Mittel verhängen.
+
+[AA 19:521] **7804.**   ρ--σ.   J 140. Der souverain muß die ganze Regirung führen. (s Er muß nicht die administration führen, d. i. die Ausschreibung und Vertheilung der Lasten nach Gesetzen. Dazu hat er Diener des Staats, die das dauerhafte Beste, d. i. das Volksbeste mit dem Willen des Monarchen vereinigen und die allgemeinheit in der Anwendung zu erhalten suchen. Der über privatgüter disponirt, ist despot. Mithin wenn er selber bestimmt, wie und von wem die Staatslasten getragen werden sollen, und die Unterthanen nicht ihre wechselseitige Rechte dabey beobachten können. Der souverain schränkt sich hiebey selbst dahin ein, nicht daß sein Wille Abbruch erleidet sondern nur auf die Harmonie mit jedes privatwillen gebracht wird. )
+
+Wenn des monarchen *imperium* limitirt
+
+Der Monarch ist *summus imperans*: 1. weil er keinem bürgerlichen Zwange unterworfen ist. 2. Weil andere seiner Gewalt unterworfen sind. Die monarchie ist entweder absolut oder limitirt. Im letzteren Falle ist seine Gewalt durch Gesetze restringirt, also muß seiner Gewalt eine Gewalt des Volks entgegengesetzt seyn. Nicht ihn zu zwingen oder zu richten sondern blos sich seiner Gewalt entgegenzusetzen, indem man die Werkzeuge seines Willens angreift.
+
+In der democratie führt die Regirung der senat.
+
+In der monarchie führt der senat die administration.
+
+despotisch ist der monarch, der nicht die oberste Gewalt in Ansehung seiner Nachkommen unter eine Regel bringt.
+
+**7805.**   ρ? κ?   J 140. Niemals muß etwas zwangsweise geschehen ohne nach einem Gesetze. Die subsumtion unter dem Gesetze ist das einzige, was fehlen kan, und in Ansehung dessen ein Richter nöthig ist.
+
+**7806.**   ρ? ξ--ο?   J 164. Staatsverfassung (*forma reipublicae*) ist etwas anderes als Staatsverwaltung
+
+[AA 19:522] (*administratio*) und diese noch etwas anderes als Staatswirthschaft (*oeconomia publica*). Die größt=mögliche Bevölkerung darf zwar nicht die Absicht derselben muß aber doch die Wirkung seyn.
+
+**7807.**   ρ.   J 164. Es giebt dreyerley Staatsverfassung (wo ein Wille ist, den kein anderer einschränkt), wo iedes einzelnen Wille aber nicht von allen sondern nur von einigen eingeschränkt wird (wo iedes Wille durch iedes andern eingeschränkt wird) aber nicht und drey Regirungsarten bey eben derselben Staatverfassung. *e. g.* England ist democratie als Staatsverfassung und monarchie der Regirungsart nach. Es giebt keine gemischte Staatsverfassung, weil das *summum imperium* einig und untheilbar ist, aber wohl vermischte Regierungsart, wo England das Muster ist: 1. Staatsoberhaupt 2. Unterthanen, unter diesen aber: a. derienige Theil, der ein recht hat, des andern *decreta* zu beurtheilen und zu verwerfen. b. Der nur das recht hat zu stimmen. Der erstere, nämlich der Adel, erhält also die Regirung den Gesetzen gemäß und hat *potestatem inspectoriam.*
+
+**7808.**   ρ.   J 185. Der *casus necessitatis* findet einzig und allein in dem streit zwischen dem natürlichen und bürgerlichen Rechte statt (s oder zwischen der unvollkommenen und bedingten Pflicht und dem eignen Nutzen. ). Bisweilen muß dem ersteren um des zweyten Willen entgegen gehandelt werden, bisweilen umgekehrt. Die Ursache ist, weil man sich um der Gerechtigkeit willen einer *in potentia* Ungerechten Regirung unterwerfen muß.
+
+**7809.**   ρ? σ??   J 185. Mit dem *iure necessitatis* ist es so bewandt, daß es einen *statum* *naturalem* voraussetzt wenigstens *virtualiter* und daß der eine *absqve* *iniustitia* angreift der andre aber *iure* wiedersteht und straft. Es setzt dieses das Ende des *status civilis* voraus und die Gewalt, welche einen andern *statum civilem* regenerirt.
+
+[AA 19:523] **7810.**   ρ.   J 186. Die Selbstvertheidigung im *statu naturali* ist der einzige *casus necessitatis* *ad agendum (permissionis)*, aber *in statu civili* ist er niemals wozu anders als *ad patiendum*. Die höchste obligation ist gegen das *corpus civile*. Wenn der Monarch in seinen Handlungen dasselbe nicht Mehr repräsentirt, so hat das Volk ein Recht gegen ihn, wenn es ein *corpus* *civile* ohne ihn ausmachte. Da in einer souverainen Regirung dieses nicht ist, so hat die *multitudo* gar kein Recht und jeder einzelne thut dem Volke unrecht, den Grund der *unionis civilis* anzufechten. Daher hat zwar der Souverain als einzelne person kein Recht, einen tyrannen vorzustellen, die Unterthanen aber haben gegen ihn auch kein Zwangsrecht und werden von ihm im Falle einer Empörung oder eines complots vermöge des Rechts als Oberhaupt des Staats oder als Regent gestraft. Es ist ein *status* *necessitatis*, der Zustand des Zwangsrechts *in statu civili*; daher alsdenn alle Selbsthülfe des Rechts aufhörete.
+
+Der souverain hat die praesumtion vor sich, daß er jederzeit *bona* *fide* handle. Der, so sich bey sich ereignender Gelegenheit wiedersetzt, hat die praesumtion wieder sich.
+
+**7811.**   ρ? ο??   J 186. Dem Tyrannen geschieht kein Unrecht vom empörten Volk aber der Regirung überhaupt und dem Menschlichen Geschlechte, so fern es ein Mittel bedarf, sich zu regiren.
+
+Wenn jemand durch Betrug das seinige vindicirt oder vielmehr recuperirt, so hat er Unrecht gethan. Zuerst stellete man sich seiner Gewalt unterthänig, nachher wirft man sie ab. Alles, was nicht aus freymüthiger declaration geschehen kann, ist Unrecht, und selbst der Unterdrüker erwirbt ein recht zu bestrafen durch die schändliche treulosigkeit derer, die sich zum Scheine seiner Macht unterworfen haben.
+
+**7812.**   ρ? υ--χ? ψ??   J 187. Wenn ein jeder im Volk seinen Untergang besorgen muß, so ist dieses der *casus necessitatis* und hat *favorem necessitatis* vor dem Urtheil der Vernunft*; aber es laedirt doch den *imperantem* und dieser kan mit recht resistiren. Durch ein Gesetz kann dieses Recht nicht eingeführt werden.
+
+[AA 19:524] * (g Denn es kan dieser Wiederstand nicht verboten werden, weil doch nur eben ein so großes Übel gedroht werden könnte. )
+
+**7813.**   ρ? χ??   J 187. Das Volk hat nur als *multitudo* ein Recht gegen den Oberherrn, mithin nur ein privatrecht aber kein öffentliches Recht. Nun ist der *casus* *necessitatis*, daß die*iura in statu naturali* den *principiis fundamentalibus* *in statu civili* weichen müssen, also *etc.* *etc.*
+
+Der Unterthan kann gegen den Oberherrn nur ein Zwangsrecht haben, so fern sie sich beyde *in statu naturali* befinden. Denn *in statu* *civili* sind sie einander nicht subordinirt wechselweise.
+
+**7814.**   ρ? υ--χ? ψ??   J 187. Der blos passive Gehorsam geht auf das erdulden nicht auf das Thun.
+
+Dem Monarchen steht ist darum nicht alles an sich erlaubt aber doch *externo iure*.
+
+**7815.**   ρ? υ--χ? ψ??   J 186. Die Frage ist, ob das Volck einen solchen Vertrag mit dem Souverain machen könne, da es das Recht sich vorbehält, ihm zu wiederstehen. Alsdenn müßte es sich auch eine Befugnis über ihn zu richten und eine executive Gewalt vorbehalten.
+
+#### Ius belli gentium.
+
+**7816.**   ρ? (υ?) κ?? μ??   J 235. Das Zwangsrecht besteht darin, daß einer, der Recht hat, befugt ist, eine Zwingende Gewalt zu errichten, die seinem rechte assistire und der der andre also unterworfen sey: Weil aber nicht jede Gewalt zum Zwange hinreichend ist, wenn eine gleiche ihr kann entgegengesetzt werden, so hat das Recht nur einen schlechten Vorzug, wenn es keine andre gewalt zur Begleitung hat als die eigne.
+
+Die wahre Gewalt, die mit dem Recht verbunden ist, besteht darin, daß jedermanns Gewalt wieder den ist, der Unrecht thut.
+
+[AA 19:525] **7817.**   ρ? (υ?) κ?? μ??   J 234. Das Recht des Krieges ist das Recht, was einem zukommt, so fern der *status naturalis* als erlaubt angesehen oder zugegeben wird. Dieses Recht gehet nur auf die application der Gesetze des Naturrechts, welche geschieht durch eigen Urtheil und Gewalt. Hiebey wird vorausgesetzt, daß die Maximen der Handlungen doch allgemeingültig sind. Sind sie es nicht, so ist die Mäßigung der Gewalt bis zu der *persecratio* des *iuris* *controversi* aufgehoben, d. i. der Krieg wird *ad internecionem* geführt.
+
+**7818.**   ρ? (υ?) κ?? μ??   J 236. Das Völkerrecht beruht auf diesem eintzigen Probierstein. Wenn meine Unternehmung zu beschaffen ist, daß die Maxime derselben als öffentlich bekant kan angenommen werden, ohne daß dieses ihr wiederstreitet, so ist sie recht. Dagegen ist die Handlung unrecht, deren maxime, wenn sie öffentlich bekannt wäre, sich natürlicher weise allgemeinen Wiederstand verursachen müßte.
+
+Die allgemeine Gewalt wird als irresistibel angesehen. Weil aber jedermann, der an das Recht gebunden ist, sich auch auf sein Recht muß verlassen können, so folgt daraus eine Verbindlichkeit des Völkerrechts jedem, dem eine deutlich offenbare Gewalt geschieht, beyzustehen.
+
+Wenn jemand also blos die Vorteilhafte Gelegenheit wählt, um einen andern Staat zu unterdrüken, so muß er sich vorstellen, daß diese maxime öffentlich bekannt wäre; folglich ein jeder urtheilen könnte, daß an ihn auch die Reihe kommen könne.
+
+In einer Sache, die ich vor gerecht halten kann, öffentlich die maxime zu äußern, daß ich öffentliche Gewalt brauchen wolle, ist der Natur der Sache gemäß. Dagegen Angriffe ohne Kriegsankündigung (dazu gehören nicht die capereyen), Giftmischen, Meuchelmord, angestiftete Verrätherey, Bestechen der Diener des Andern, falsch Geld müntzen, auf maximen sich gründen, die man sich nicht äußern kan. Der Verlust vergeblich. Wenn der Nachtheil, der mir aus der Bekanntmachung meiner maxime zuwachsen würde, größer wäre, als der Verlust meiner Absicht seyn kann, so ists unmöglich, sie als bekannt anzunehmen. Nun sind alle tückische Handlungen von der Art.
+
+[AA 19:526] Handlungen, deren maxime nothwendig dissimulirt werden muß, sind unrecht. Die maxime aller rechtmäßigen Handlungen muß öffentlich seyn und von der Art, daß sie von jedem wenigstens angenommen werden kan.
+
+**7819.**   ρ? (υ?) κ?? μ??   J 236. Man muß solche maximen zum Handeln haben, als nur allein möglich sind, wenn Wir solche öffentlich declariren müsten. Man muß sich des Vortheils, geheim zu seyn, begeben und handeln vor den Augen von jedermann. Die ethische maximen, wenn sie öffentlich bekannt seyn sollen, können nicht lieblos seyn, weil sie uns aller Liebe berauben würden, auch nicht unnatürlich, weil wir uns dadurch von der Menschheit absondern.
+
+**7820.**   ρ? κ? μ??   J 237. Handlungen, deren Maxime ich unbeschadet meiner Absicht als jederzeit bekannt annehmen kan, sind recht *in statu naturali*.
+
+Wir denken stumm und handeln laut. Die Gerechtigkeit sucht alle maximen auf die öffentliche zu führen.
+
+Stumme Grundsätze und schreyende Ungerechtigkeit *Maximae dissimulandae*.
+
+**7821.**   ρ? (υ?) κ?? μ??   J 237. Maximen sind allgemeine formeln der intention (subiective Gesetze).
+
+Gesetze drücken die Nothwendigkeit gewisser Handlungen aus.
+
+Regeln, wornach etwas geschehen muß, wenn ich etwas zur Absicht habe.
+
+Die Sittlichkeit hat Gesetze, die Klugheit Regeln und der Lebenswandel eines jeden Maximen.
+
+Zwischengeschrieben: Die Norm der Absicht, die Norm der Ausführung.
+
+**7822.**   ρ? (υ?) κ?? μ??   J 237. Das *principium* der rechtlichen Pflicht ist: ich muß so handeln, als wenn meine maximen eben so von jedermann wie von Gott gesehen würden. Ich kann mir des Vortheils nicht bedienen, daß mein Herz Fensterladen [AA 19:527] hat. Würde einem jeden ins Herz gesehen werden können, so müßte er gute maximen annehmen.
+
+**7823.**   ρ--σ? ψ4--ω??   J 237. Ein Gesetz ist etwas allgemeines, wornach man sich richten kan.*
+
+Diejenige Handlung, deren Maxime unmöglich öffentlich gesetz werden kann, ist unrecht.
+
+**(g** * Woraus einer weiß, was er in iedem Falle zu thun und wessen er sich zu einem andern zu versehen hat.
+
+Eine Regel kann auf eine privatabsicht abzielen, ein Gesetz aber geht auf viele in Beziehung auf einander. Der Eigennutz kann niemals zum Gesetze dienen, weil niemand in bestimmtem falle daraus was schließen kan, aber zur Regel kann er wohl dienen. Ein Gesetz enthält einen Zwang auf gewisse Weise zu handeln, damit man bricht ab. **)**
+
+**7824.**   ρ? υ--χ??   J 238. Der Krieg ist blos ein Gebrauch der Gewalt in Ermangelung der Rechtspflege in *statu naturali*. Es ist also der Feind kein Beleidiger sondern der Gegenpart in der Behauptung eines zweifelhaften Rechts. Also muß es weder Haß noch Rache darin geben. Das Übel des Krieges kann nur den Gebrauch der Waffen betreffen und das Recht der Menschen unangetastet lassen.
+
+**7825.**   ρ--σ? υ--χ?   J 238. Wilde Völker sind die, deren innere Streitigkeiten durch kein Recht entschieden werden. barbarische, die mit andern Völkern in keinem Verhältnisse deren Krieg kein öffentlich erklärtes Recht und rechtfertigung vor andern Völkern voraussetzt. Demnach ist das Gleichgewicht im Rechte das Merkmal civilisirter Nationen. Gewalt ohne declarirt Recht ist Gewaltthätigkeit. Andre Völker sind die natürliche *arbitri*. Weil es schon in der menschlichen Natur liegt, sich seiner obermacht zu misbrauchen, so kommt der Vorwurf der barbarischen Völker denen zu, welche nicht gnugsam einig werden können, die Anmaaßungen eines Eroberers zurükzuhalten.
+
+**7826.**   ρ? (υ?) κ??   J 239. Eine Einwilligung zu Handlungen, zu welchen ich iemand zwingen [AA 19:528] kann, bedarf ich nicht. Und bey einer Einwilligung, die ich erzwungen habe, ist das mein Recht nicht aus der Einwilligung sondern auf der rechtmäßigkeit meiner Foderung gegründet.
+
+**7827.**   ρ? (υ?) κ??   J 241.   Zu § 268: Die Bürger stehen im Frieden, so fern sie im Staat bleiben. Die Bürger sind nur Feinde im innerlichen Kriege.
+
+Der Feind muß alles vermittelst der magisträte haben.
+
+*Das höchste*, was er thun kann, ist seine Gegner zu seinen *Unterthanen* zu machen. Denn sein Krieg ist wieder den Staat.
+
+**7828.**   ρ? (υ?) κ??   J 214. Die tödtung eines Bauern ist ein Mord. Die Plünderung ein Raub, das Ansteken eine Mordbrennerey. außer *in casu necessitatis*.
+
+**7829.**   ρ? (υ?) ξ--ο??   J 243.   Zu § 270: Der Sieger kan zwar vor die Kriegskosten Ersetzung fodern bey den Friedensunterhandlungen, aber in den Friedenspuncten kann dieser Titel nicht vorkommen, außer in so fern der Überwundene als unterworfen dem Rechtsausspruche des Siegers angesehen wird. Denn der Krieg desselben wird alsdenn vom Sieger *valide* vor ungerecht erklärt, und diese Erklärung ist eine Sententz. Die Verlangung der Kriegskosten ist nur eine declaration gegen andre Mächte, daß man durch den Krieg nicht habe acqviriren wollen.
+
+**7830.**   ρ--σ? χ?   J 246.   Zu § 274: Durch den Sieg bekommt er die Gewalt, den andern zur Unterthänigkeit zu zwingen, durch die laesion des andern hat er ein recht dazu. Die Einstimmung des andern ist überflüßig darum, weil sie nicht willkührlich ist. Das eine ist nöthig, daß ihm nur angekündigt werde, daß er zu gehorchen habe. Es scheint hier nur zu fehlen, daß der andre Theil wisse, daß er Unterthan seyn solle. Ein Versprechen ist nur nöthig, wo ein *praestandum* nicht erzwungen werden kan.
+
+[AA 19:529] **7831.**   ρ--σ? χ?   J 247. Die Überwindung ist die occupation der Rechte der Oberherrschaft die *respective* auf den beleidigten Sieger von dem Beleidiger Verlohren war. *v. pag*: 239.
+
+Ein entscheidender Sieg ist, wodurch eine irresistible Gewalt über einen Feind erworben wird, so lange es noch im Willen des letzteren beruht, etwas einzuräumen oder abzuschlagen, so ist die Gewalt nicht irresistibel. Wenn also der Sieger absolut gebietet, so ist das *pactum* nicht zu seinem sondern des Überwundenen Vortheil und jener acqvirirt nicht dadurch sondern dieser und zwar, daß er nicht völlig aufgerieben werde.
+
+**7832.**   ρ? (υ?) ξ? ο??   J 249.   Zu § 278: alles ist heilig, was das letzte und oberste Mittel ist, das Recht der Menschen zu erhalten. Also ist das Gut eines andern das Versprechen, was ich einem Mitbürger thue, nicht heilig aber Verträge unter Völkern, Friedensschlüsse, vornemlich die obere Gewalt des Souverains, voraus Aber der Göttliche Wille ist heilig, weil über dem gar kein Mittel ist, das Recht zu bestimmen und zu sichern.
+
+**7833.**   ρ? υ--χ?? κ??   J 248. Es ist kein Recht des Krieges (in demselben), wenn man sich nicht versprechen kann, daß der andere Theil eben so verfahren werde und daß Alle in gewissen Grundsätzen einig seyn. Diese Grundsätze stnd solche, ohne welche gar keine Sicherheit und also Friede seyn würde. Also gründet sich das Recht des Krieges auf den *Qvasi contractum gentium*. Es sind aber die Grundsätze, daß man zwar seine Absichten geheim aber die Richtsch Regel derselben öffentlich annehmen müsse. Das alle Völker natürliche *mediatores* iedes streits seyn, daß eine amicabile composition tentirt werde.
+
+2. im Kriege kein Meuchelmord, kein gebrochen Wort, kein Diebstahl durch den, der sich unter den Schutz des andern einschleicht und also gekannt aber nicht verkannt ist. Ob Annehmung eines Verräthers --- Spione ---.
+
+Der Krieg ist ein *medium necessitatis ius suum persequendi*.
+
+[AA 19:530] **7834.**   ρ? (υ?) κ??   J 249. Die Verbindlichkeit ist zufällig, die aufhören kann. Die so immerwährend ist und zum Grunde liegt, ist nothwendig. Also die Verbindlichkeit.
+
+Ein Versprechen, das nicht durch eine spätere laesion aufgehoben worden, zu halten.
+
+**7835.**   ρ--σ? υ--φ?   J 252.   Zu § 281. Es ist kein *pactum*, weil das Versprechen des überwundenen von dem Überwinder anbefohlen wird; wenn aber noch der Sieg nicht gäntzlich entschieden hat, so kan ein *pactum subiectionis* oder convention beyder als freiwillig den Krieg endigen.
+
+**7836.**   ρ? υ--χ?   J 252. Die Annahme des Überwundenen in Pflicht ist statt *pacti pacis* hinreichend. Der Überwundene paciscirt dadurch nicht über die Fortsetzung oder Endigung des Krieges, sondern er renunciirt seiner Freyheit.
+
+**7837.**   ρ? υ--χ? ψ?     J 252. Ein Friede muß jederzeit als ewige Aufhebung alles Rechtsstreits aus Gründen, die Gegenwärtig existiren, angesehen werden; denn sonst ist die Suspension der Feindseelichkeiten nur ein *armistitium*, wo man sich noch immer Gründe zu künftigen Feindseeligkeiten vorsetzlich aufbehält. Also setzt ein jeder Friede voraus, daß alle Ansprüche, die bis auf den Zeitpunct ein Staat auf den andern haben konnte und die zu Feindseeligkeiten Anlas geben könnten, abgethan und für Null erklärt sind. Mithin macht der Friede einen neuen Abschnitt zwischen zwey Staaten, über den hinaus zurük nichts hervorgesucht werden darf, was nicht als abgemacht betrachtet würde.
+
+**7838.**   ρ? υ--χ? ψ?   J 253. Es ist die Frage, ob ein Volk befugt sey, das Friedenspactum seines Souverains oder dieser unter dem Vorwande, er habe nicht die Befugnis das Staatsbeste zu verletzen, es zu zerreißen. Keines von beyden. Denn hätte er nicht die Befugnis, so mußte dieses eine öffentliche und durch die [AA 19:531] innere Verfassung durch Macht gesicherte Einschränkung seiner Gewalt seyn. Alsdann aber würde er auch kein Gehör finden, ein solches *Pactum* anzubieten.
+
+**7839.**   ρ? υ--χ?   J 256.   Auf dem unteren Blattrand: Die praescription findet *iure naturae* statt, wenn jemand durch seine Schuld unterläßt, sein Recht zu reclamiren und sich *iura* zu reserviren. auch bey praetensionen der Staaten. Der Nachkomme kann nicht mehr erben, als sein Vorfahr sich rechte reservirt hat.
+
+### [AA 19:532] Phase σ.
+
+#### Allgemeines.
+
+**7840.**   σ? χ?   J Schluss. Eine Handlung, deren Maxime eine Laesion des Menschlichen Geschlechts ist, ist *formaliter* unrecht, z. E. Lüge, *vaga libido*, welche das weibliche Geschlecht um alle Ansprüche bringt.
+
+**7841.**   σ.   J 2. *Societas est unio arb status agendi per arbitrium pluribus commune.*
+
+Die Stiftung Vereinigung der Willkühr bricht ab.
+
+**7842.**   σ? φ? ξ??   J 3. *Societas est vel obiective necessaria vel arbitraria. Iuridice nulla* *societas per se est necessaria sed tantum conditionata.*
+
+**7843.**   σ? ρ?   J 3. In der societaet sind Glieder, die zusammen den Grund eines Rechts enthalten zu irgend einem Zwek und deren der eine den Willen des andern einschränkt.
+
+**7844.**   σ? χ?   J 65. Von den nothwendigen bürgerlichen Gesetzen zum unterschiede der [AA 19:533] Willkührlichen. Ob in Ansehung der Geschlechtsvermögen nothwendige Gesetze sind. Ob die moralität in der Beziehung auf den Vorsatz, den bürgerlichen Gesetzen gemäß oder zuwieder zu handeln, mit zu dem bürgerlichen *foro* gehöre. Von der nothwendigkeit der Gesetzgebung in Ansehung der praescriptionen.
+
+**7845.**   σ? ξ?   J 65. Man kann sich 1. denken, daß in einer *universitate voluntatum universi* determiniren *singulos* (vom allgemeinen zum besonderen. Regel), 2. daß *singuli* bestimmt und regirt werden zur *universitate* zu stimmen. (Werden der Regel unterworfen. Vom besondern zur Wohlfarth des allgemeinen), 3. daß *singuli singulis* zusammenstimmend gemacht werden (das besondere mit den besonderen).
+
+**7846.**   σ? ξ?   J 65. Es giebt kein Recht des Monarchen, wo nicht eine Gewalt ist, den Unterthan dabey zu schützen. Kein recht des Unterthans ohne Gesetzmäßige Gewalt, es zu behaupten.
+
+Der Monarch hat Unrecht, manches zu befehlen, aber der Unterthan hat Unrecht, sich diesem Befehl zu wiedersetzen. Denn der *status civilis* muß nicht aufhören. Es ist aber im *statu civili* keine Art sein Recht zu Perseqviren als durch *processum*. Und hier ist kein Richter. Der Erfolg macht hier ein neues Recht.
+
+Man muß darum beym fürsten nicht alles Recht heissen, weil der Unterthan gehorchen muß.
+
+**7847.**   σ? φ??   J 67. Die bürgerliche Verfassung ist nicht willkührlich sondern nach Gründen des Rechts um der Sicherheit des andern nothwendig. Die Gesellschaft ist auch nicht die Ursache dieses Zustandes sondern die Wirkung. Der practische souveraine Grund des Rechts macht eine Gesellschaft, aber weil dieser Grund von aller Wille gegen einen andern obzwar nicht von seinem eigenen sich unterwerfenden Willen hergenommen ist, so werden die Gesetze so angesehen als von allen gegeben. Ein schon errichtetes gemeines Wesen kann wohl verbessert aber nicht zerrissen werden, und das Bewustseyn der allgemeinen Ungerechtigkeit macht, daß man auch gegen einen tyrannen kein
+
+[AA 19:534] Recht hat, weil man ihm keine Sicherheit leistet, wenn man sich vorbehält ihn zu strafen.
+
+**7848.**   σ? ο??   J 81. (g *Summus imperans* (souverain) ist vom *Principe* dem Staatsoberhaupt unterschieden. )
+
+Der Wille des souverains wird nicht durch den des Volks eingeschränkt. Es ist nur ein einiger Wille. Sondern weil ein Theil des Volks den andern zum allgemeingültigen Willen einschränkt, so fühlt der Souverain nur dadurch, daß die *tutores* des Volks (denn es ist unmündig) ihren Dienst nicht ausüben können, den Mangel der Einheit, und der Souverain schränkt seinen (g temporairen) willen selbst ein, damit er ein ewiger Wille sey. Die Souverainetät ist eine idee.
+
+**7849.**   σ? ο??   J 81. Das Volk kann noch kein recht ertheilen, indem es einen souverain constituirt, sonst muste es selbst schon eine *souveraineté* gehabt haben Es bekommt tritt allererst vermittelst eines souverains in den *statum* *iustitiae externae*.
+
+**7850.**   σ? ο??   J 81. Alles Urtheil des Volks über den titel der acqvisition des *imperii* *summi* ist leer, weil, wenn einmal ein solches da ist, das Volk sich nicht anmaßen kann, darüber zu richten, weil es sonst den titel seiner Autorität selbst zeigen müste, auch keine Gewalt anwenden kann, die Staatsverfassung aufzuheben, weil daraus ein Rückfall in *statum naturalem* erfolgen würde.
+
+**7851.**   σ? ο??   J 81. Ob das *pactum subiectionis* nicht als *qvasi contractus originarius* könne angesehen werden. Alle Menschen wollen nothwendiger weise recht und müssen alsdenn sich auch gefallen lassen, anderer Recht Einflus zu verstatten. Sie sind aber an sich selbst in ansehung dessen passiv und [AA 19:535] können sich nicht vereinigen. Der so es übernimmt, handelt *ex qvasi contractu*.
+
+**7852.**   σ? ο??   J 82. *summus imperans* steht unter keinem zwangsrecht, weil kein Gesetz davon gegeben werden kann, ohne daß er *inferior* wäre.
+
+**7853.**   σ--χ?   J 83. Es giebt eine einfache Staatsverfassung, wenn nemlich ieder sich das Gesetz in Gemeinschaft mit andern gäbe und ieder sich selbst danach regirte. Soll aber ausser der Gesetzgebung eine Gewalt daseyn, ieden zu zwingen danach zu handeln und zugleich eine Macht der Erhaltung des Staats, so kann die Einrichtung nicht einfach seyn, man mag einen einzigen Menschen oder einen senat oder das ganze Volk zum Oberhaupt machen. Die alleinige Gewalt kann nicht einem einzigen zukommen. Also muß die Gewalt gesetze zu geben selbst unt Es müssen immer drey Stände seyn. Das Ansehen, die Würde, die Majestät, welche einander das Gleichgewicht halten. 1. Ein Oberhaupt 2. Das Volk, welches das größte Eigenthum hat. 3. Ein cörper der Vornehmen, welche das größte *corps* reicher Leute ist, welche vereinigt sind und beyden vorigen das Gegengewicht halten. Dieses wird durch Ehre das Volk durch Vortheil regirt.
+
+**7854.**   σ? ξ?   J 87. Ein jeder Mensch sucht zwar seine Glükseeligkeit und tritt auch in Den bürgerlichen Bund in der Absicht, seine Glükseeligkeit zu befördern. Das ist aber gar nicht seine Absicht, daß ihm der Staat bestimme, worin er seine Glükseeligkeit setzen soll, sondern er will sie selbst besorgen. Der Staat soll ihn nur wieder Menschen sichern, die ihn in dieser eigenen Sorge für seine Glückseeligkeit hindern könnten.
+
+**7855.**   σ? (ξ?)   J 95. Die freyheit muß sich selbst einschränken, (g Pflicht gegen sich selbst als Staatsoberhaupt und Zwar strenge Pflicht, welche beschworen wird und unwandelbar ist). Als0 ist der souverain niemals absolut, sondern er restringirt sich selbst dadurch, daß er seinen Willen zwar keiner Gewalt [AA 19:536] aber doch den Vorstellungen des *directorii* Unterwirft. Das *directorium* stellet die Rechte der einzelnen gegen das allgemeine Vor und tadelt die administration.
+
+**7856.**   σ.   J 178. Criminel ist dasjenige, wodurch öffentliche Sicherheit lädirt wird.
+
+Wo also ein jeder auf die Art leiden kann, so ist der Betrug nicht criminel sondern *delictum privatum;* denn man darf nur nicht trauen, aber Diebstahl ist criminel. Ehebruch ist criminel von seiten der frauen. Nothzüchtigung ist criminel aber nicht *stuprum*. Der Duell ist ein *crimen* wieder den ganzen Staat. Bürger können nicht ihr Leben muthwillig aufs spiel setzen. Das *crimen* laedirt die bürgerliche Gesellschaft aber nicht ihr Oberhaupt.
+
+### [AA 19:537] Phase υ -- φ
+
+#### Allgemeines.
+
+**7857.**   φ?   J 1. (s Vom *dominio territorii civitatis*. )
+
+*Salus societatis prima eius lex est --- plus quam dico. Residuum* *libertatis naturalis --- praerogativa obligantis non obligandi --- imperans* *summus non est socius sed societas. Leges Societatis Jesu non sunt* *conventionales* --- Der *subditus domesticus* ist *Famulus non servus (qui* *animam debet)* --- der *famulus* kan den Gebrauch seiner kräfte wohl einem andern concediren aber ihn nicht alieniren --- *personalitas non est alienabilis* --- die Schuld durch ein Verbrechen kann nicht anerben. Ein *pactum* seine Rechte aufzugeben ist contradictorisch.*pag.* 57. 59 - *p.* 64 unten --- 69 unten 70, 71 00, 74, 77, 8o, 82, 87, 88 *NB*, 93, 94, S. 96, a. *b.* 98. 99. 106, 7. 108, *NB* 111---117, 118*, Relig. 131 *seqv.*
+
+**7858.**   φ? σ?   J 3.   Zu § 2: *Vnio iuridica: qvatenus plura eodem iure eadem causa iuridica* *durabiliter coniunguntur. Vnio talis hominum est coniunctio plurium* *iurabilis per unam eandemqve voluntatem. Haec voluntas est vel communis* *omnium et est Vnio coordinationis societatis vel unius horum respectu* *ceterorum.*
+
+*finis est vel privatus omnium vel communis. In priori casu est* *non nisi voluntas communis mediorum.*
+
+#### [AA 19:538] De societate aequali.
+
+**7859.**   υ--χ? ψ??   J 15. *Imperans non est socius subditi, sed est causa societatis sociorum.*
+
+**7860.**   υ--φ? ψ?   J 15. *Imperans socius* ist der, gegen den die *subditii* ein Zwangsrecht haben.
+
+**7861.**   υ--φ? ψ?   J 28. Die Persohn selbst ist nur das frey handelnde Wesen. Mit welchem Recht vertheidigt man das, in dessen Besitz und vereinigung er von Natur ist? Nach dem Rechte der Menschheit, daß nemlich seiner freyen Willkühr das übrige (thierische) untergeben worden. Ist aber dieses Recht nicht auf die Bedingung gegründet, der Menschheit gemäß sich seiner Freyheit zu bedienen?
+
+**7862.**   υ--φ? ψ?   J 28. Die Verbindende kraft alles Rechts liegt nicht so wohl in dem, was einer Persohn eigen ist, als vielmehr in dem Rechte der Menschheit. Daher haben alle Menschen die Verbindlichkeit, das Recht jedes eintzelnen zu unterstützen. Dieses Recht der Menschheit verbindet auch einen jeden Gegen sich selbst. Er ist in die Menschheit aufgenommen acqvirirt ihre Rechte aber unter der Pflicht, die Würde derselben zu erhalten. Daher alle Pflichten gegen sich selbst.
+
+Man muß unterscheiden, was zu der Persohn des Menschen gehört und was zu seinem Besitz zum letzteren Organe, Vermögen und alles, worüber die freyheit gewalt hat. Aller Besitz ist zufällig. Also das recht in Ansehung dessen nicht *originarium* sondern *acqvisitum*. Ich acqvirire alles dieses nur *conformiter* mit der Idee der Menschheit, (denn diese ist der Grund der Möglichkeit des Menschen); also ist die acquisition unter der Bedingung der conformität der Freyheit mit der Idee der Menschheit [AA 19:539] möglich; also ist ein *status originarie obligatorius* und meine *iura* bricht ab.
+
+**7863.**   υ--φ? ψ?   J 28. Der Gebrauch der Geschlechts Eigenschaften ist ein Genuß derselben, mithin keine *opera praestanda*, also ist macht der Mensch sich dadurch zur Sache (oder gar sich selbst). Dieses geht nun nicht an, ausser wenn er zugleich in dem Besitz der Persohn ist, der er sich so zu geniessen giebt; denn alsdenn besitzt er sich selbst. Daher weder bey einseitiger freyheit noch bey theilnehmung anderer dieses Eigenthum bestehen kan, daher weil wir darüber nicht ein gantz Eigenthum an derselben Frau haben können, die Vielweiberey nicht erlaubt ist.
+
+**7864.**   υ--φ? κ??   J 29. *ad pag: 30.* Alle angebohrne Rechte gründen sich auf eine (g natürliche) obligation; denn da wir keine selbstständige und Ursprüngliche Gewalt, Vermögen und selbst Daseyn haben, so können wir auch kein *ius originarium* haben; daher obzwar andere auch kein Recht über uns haben, so thun sie uns durch ihre Angriffe doch kein Unrecht, weil wir kein verliehenes Recht auf unsrer Seite vorzuzeigen haben. Damit wir nicht allein recht handeln, uns zu beschützen. (wobey der andre vielleicht auch Recht handelte, uns anzugreifen) sondern ein materiales Recht haben, so müssen wir den titel der *acqvisitionis a natura* vorzeigen. Dieses sind nun *überlieferungen* der *Menschheit* in *unsre Vorsorge* unter der *Bedingung*, daß wir ihren *Wesentlichen Zweken nicht entgegen* *handeln* oder handeln lassen sollen. Diese *obligatio connati* ist nicht gegen andre weil andre uns nicht angebohren sind; aber sie schränkt unsre freyheit in Ansehung unsrer selbst ein. Wir sind nemlich Verbunden in Ansehung unsrer natürlichen Absichten, erstlich die Befugnis zu suchen und uns das Recht dazu erwerben durch *die Verbindlichkeiten, denen* *Wir uns unterwerfen*, welche diesen Gebrauch unter eine beständige Regel bringen, damit wir *nicht nach instinct* über *die Menschheit* *disponiren*.
+
+Alle Gliedmaassen, alle Vermögen sind unsrer Willkühr unterworfen [AA 19:540] und gehören uns gleichsam an. Wären sie durch uns selbst nothwendig da, so würde unsere freyheit mit ihrem Geziemenden Gebrauch jederzeit übereinstimen. Nun sind sie acqvirirt oder derivirt auf uns, und es muß also ein titel seyn, unter dem wir sie besitzen und eine einschränkung der Befugnis, uns derselben zu bedienen. Die rechte eines Zufälligen Wesens Gründen sich auf seine Verbindlichkeiten.* Weil die Abhängigkeit die erste condition aller seiner rechte ist zwar nicht von Menschen aber von der Ursache seines Daseyns. Andre haben ein Recht uns alsdenn zu verachten.
+
+* (g Denn woher hat er dieses recht, oder *qvo titulo* besitzt er es? (g *titulo rei connatae.* Das gilt vor andere, aber in Ansehung seiner selbst nicht. Denn was heißt das, es ist ihm angebohren: Er ist selbst zufällig. ) ) Er darf davor zwar nicht andern antworten, aber da er der Menschheit verbindlich ist, so können sie ihn mit recht verachten, aber bestraft werden darf er nicht, aber er verliert auch die Ehre, worauf er kein Recht hat.
+
+**7865.**   υ--φ? κ??   J 29. Der Gebrauch seines Geschlechtsvermögens ist auch ein *Verbrauch* (*abusus*) desselben, Daher ist in diesen Handlungen immer etwas, was die Menschheit abwürdigt.
+
+#### De matrimonio.
+
+**7866.**   υ--φ? σ?   J 30.   In § 41: *Usus membrorum et facultatum sexualium est vel contra vel secundum* *naturam; posterior est commercium sexuale.*
+
+Man kann nicht durch Zwang gehindert werden, sich selbst in Ansehung des *commercii sexualis* wegzuwerfen, aber man hat ein recht, ein solches *pactum* zu zerreissen und ist nicht gebunden.
+
+*Pactum naturaliter illicitum* ists auch *iuridice*.
+
+[AA 19:541] **7867.**   υ? φ?   J 31. Die *definitio* des *matrimonii* sagt, daß wenn iemand heyrathet, er dieses supponiren kann und sich sonst scheiden. Es ist aber darum nicht unerlaubt *societas aeqvalis in commercio sexuali positorum*.
+
+**7868.**   υ? φ?   J 31. Es scheinen keine restringirende Bedingungen des *pacti* im Naturrecht zu liegen.
+
+**7869.**   υ--φ.   J 31. *Commercium hominum vel *usus practici* (s uter opera alterius)* *vel*physici* (s utendi, fruendi physice); posterius a natura est illicitum* *nisi sub conditione unionis domesticae aeqvalis, per qvam qvisqve pertinet* *ad patrimonium alterius.* Die persöhnliche union erlaubt nicht einmal, daß ein theil mit dem *consensu alterius* über sich disponiren kan. Ein iedes *pactum* ist nichtig, was der wesentlichen Pflicht gegen sich selbst, (g d. i. der Persöhnlichkeit), wiederspricht.
+
+**7870.**   υ--φ? ψ?   J 30. Die erste societät entsteht durch instinct (die Ordnung nach Gesetzen), die zweyte aus Pflicht, die dritte aus Gemächlichkeit.
+
+Mann und Frau acqviriren wechselseitig ihre *iura sexualia*, ia, nach der Nehmung:
+
+1. Haus 2. Familie (*in statu naturali*), alle *iura reciproce; ius in* *persona est vel in disponendum vel in curam vel in fructionem.*
+
+(Die Art, wie ein Mensch acqvirirt wird, als Frau und Kind oder Leibeigner.)
+
+**7871.**   υ--φ? ψ?   J 32.   Zu § 42, Schluss: *crimina carnis vel secundum vel contra naturam, priora vel vaga* *libido vel concubinatus.*
+
+[AA 19:542] **7872.**   υ--φ? ψ?   J 33.   In § 45. Die Ehe mit einer Alten frau ist erlaubt; denn ihre Unfähigkeit, alters wegen nicht zu gebähren,ist des Natur zuzuschreiben, der Instinckt zu cohabitiren aber auch.
+
+**7873.**   υ--φ? ψ?   J 33. *NB*. Wenn menschen keinen *usum facultatum sexualium* zu machen geneigt sind, so sind keine *leges commercii sexualis* nöthig. Wenn wir aber einen Gebrauch davon machen wollen, so ist es uns erlaubt *per commercium* *sexuale*. Dieses aber nur *per matrimonium; societas coniugalis* *non est arbitraria.*
+
+**7874.**   υ--φ.   J 32.   Zu § 43 Anfang: Was ist es vor ein *pactum*? Nicht *locatio conductio*, zwar ist hier *do, ut des, do, ut facias, facio, ut facias* zusammen. Es ist *permutatio* *iurium stricte dicta*. Die*coniunctio* ist nicht *subordinationis* sondern *consociationis*, also *unio voluntatum*, also nicht *subiectio. Sed marito* *votum tantum decisivum ergo praerogativa non respectu praestandae* *operae sed rerum aliarum, qvia tenetur ad alimentationem et propterea* *qvod secundum instinctum naturae, qvi praestat liber sit, qvi patitur* *solus, potest esse subordinatus.*
+
+**7875.**   υ--φ.   J 32.   Über § 44: *definitio:* Es liegt das *commercium sexuale* zum Grunde. Und es frägt sich ob *matrimonium* so definirt werde, wie manns gewöhnlich nimmt oder nehmen soll.
+
+**7876.**   υ--φ.   J 32.   In § 44. Von der wesentlichen intention der Ehe. *commercium sexuale. Ius* *exclusivum*, mithin*personalissimum in membra et facultates sexuales*.
+
+**7877.**   υ--φ.   J 32.   In § 44. *vaga libido, concubinatus, matrimonium* *monogamia, polygamia*
+
+[AA 19:543] **7878.**   υ--φ.   J 34.   In § 46: **unio* est obligatio ad curam plurium propriae reciproce aeqvalem.*
+
+*Matrimonium est unio arctissima Maris et Feminae pacto commumionis* *sexualis nixa.*
+
+**7879.**   υ--φ? κ?   J 36. Die Menschen sind nicht allein in Ansehung der Geschlechtseigenschaften schamhaft (g Beweis aus dem *purismus moralis* aller heiligen und philosophen in diesem Stük), sondern es schikt sich auch vor sie schamhaft zu seyn (sie schämen sich nicht so wie sonst dieser Schamhaftigkeit); vor das weibliche Geschlecht schikt sich dieses noch mehr. Der mensch wird hier durch seine Natur das obiect der Begierden anderer und durch seine Neigung das Spiel des Reizes von andern, bedürftig andere Menschen als Werkzeuge zu gebrauchen und selbst ein Gegenstand oder Werkzeug vor die Begierden anderer. Wir sind den Sachen eigentlich nicht unterworfen, weil dieselbe nicht disponiren können, aber durch diesen trieb sind wir anderen unterworfen; dieses erniedrigt die Menschheit und nähert sie mehr der thierheit als irgend eine andre Eigenschaft. Wolte er hierin nur von sich selbst in Befriedigung der Begierden abhengig seyn, so wäre es noch schlimmer. Ich kann nicht aus der Person des andern einen Gegenstand meines appetits machen und darüber disponiren, ohne mich selbst zu erniedrigen und auch den andern. Damit diese Unterwerfung aufgehoben werde, muß ein jeder theil mit seinen Geschlechtseigenschaften zur proprietät des andern gehören und umgekehrt, also zur proprietät der Gemeinschaft, und dieses recht ist nicht transmissibel noch mit andern zu theilen möglich.
+
+**7880.**   υ--φ? κ? ψ??   J 37. Weil niemand ein recht auf den Gebrauch des Geschlechts des andern erwerben kann, ohne zugleich ein uneingeschränkt recht auf seine gantze Person zu erwerben*, und weil dieses wechselseitig auch vom andern theile gilt, so**erwerben sie wechselseitig uneingeschränkte Rechte einer in die person des andern; da sich aber diese so weit einschränken müssen, daß ein gemeinschaftlicher Wille, der auf alle Handlungen und Angelegenheiten eines jeden gilt, entspringen muß, so ist dieses die Ehe als eine *communio* *voluntatis ac iurium*; ob*commercium sexuale* bricht ab.
+
+[AA 19:544] Wir können zwar den *usum* der Sachen aber nicht der Personen acqviriren. In Ansehung dieses kann nur*usus operae* stattfinden, weil wenn der wille eines anderen von ihr kein*actus* der nichts als handlungen der freyheit gefodert werden können, indem sie selbst nicht über sich als sachen disponiren und so ihren Gebrauch concediren können.
+
+* (s Ein *ius reale* in der Person eines andern kann nicht auf einen Theil gehen, denn die Person ist ein untheilbares Ganze. Es wird aus Zweyen eine Moralische Person. )
+
+** (s Es soll ein *ius in re* und doch zugleich *ius personale* seyn, d. i. der person allein und ihrem willen anhängen. Es muß also nicht ein auf eine Person blos in Ansehung eines bestimmten Gebrauch sondern auf den ganzen Willen der Person sich erstrekendes Recht seyn, d. i. die Person selbst muß acqvirirt werden. )
+
+**7881.**   υ--φ? χ? ψ?   J 39. Es giebt eine dreyfache Verbindung, die aus der Natur der Menschheit fließt: 1. da der Mensch ein anderes Geschlecht nöthig hat. 2. Da er Eltern bedarf. 3. Da er zuletzt einen Herrn nöthig hat.* Alle drey zu seiner Erhaltung. In allen dreyen ist die juridische würde der Menschheit, welche dieser Verbindung schranken der subordination setzt. Diese *dignitas* *iuridica* ist die *personalitas* . Nach derselben ist nicht die bloße subiection sondern societät nothwendig, d. i. kein *ius reale* in den Menschen sondern *ius personale*.
+
+Die gänzliche Beraubung der freyheit hebt die Persohn auf.
+
+* (g Der Mensch bedarf eine subiection unter einen andern Menschen als oberen, weil ohne Befehl der Menschliche Wille nicht allgemein zusammenstimmt. )
+
+**7882.**   υ--φ? χ? ψ?   J 39. Die drey Arten, wie ein Mensch andere nach der Beschaffenheit seiner Natur bedarf 1. durch instinct; 2. zu erhaltung des Lebens; 3. zu Erhaltung und Bestimmung seiner Rechte. Die societät ist hier ein Besitz aber der Person, und einer hat den andern in seiner gewalt und kann über seine substantz oder seine handlungen oder Leiden nach Belieben disponiren.
+
+#### [AA 19:545] De societate herili.
+
+**7883.**   υ--χ? κ--ο?   J 52.   In § 70: *Qvi operas indeterminate locavit, est famulus. Cuius non opera* *sed status est in arbitrio alterius collocatus, est servus.*
+
+**7884.**   υ--φ? κ? ο?   J 53.   In und neben § 71: Die *servitus absoluta* besteht darin, daß *servus* gar nicht selbst befugt ist, seine *obligationes* selbst zu bestimmen; also hat er *obedientiam* *coecam* und kein eigenes *arbitrium* ; *est res non persona. Personalitas* *non est alienabilis.*
+
+Dieses degradirt die Menschheit; man kan sich nicht willkührlich darin geben noch einem dazu gleichsam abkaufen, aber man kan *delicto inexpiabili* *et animo deliqvendi incorrigibili* dazu gezwungen werden.
+
+**7885.**   υ--χ.   J 53.   Unterer Blattrand: Der *Famulatus* erstreckt sich auf die Grentze, daß das *pactum* zwischen beyden kann getrennet werden, wenn der eine Theil seine verbindlichkeit nicht erfüllet, mithin muß es durch *conditiones* restringirt seyn. Der absolute *famulatus* ist Knechtschaft. Oder wenn meine *subiectio* immer bleibt, der andere mag thun, was er will, so habe ich ein *pactum* gemacht, was nicht kan zertrennet werden. Nun ist aber ein jedes *pactum* auf die natürliche condition restringirt, seinen Zustand nicht anderer Willkühr anzuvertrauen, und auf diese condition kan ich nicht renunciiren, also muß es können zertrennt werden.
+
+**7886.**   υ--ξ? ρ?   J 54.   In § 72: Die Leibeigenschaft ist der Tod der Persohn aber das Leben des Thiers. Es geht an bey einem Todesverbrechen. Aber es kan nicht auf contract gegründet werden, denn der muß alles iuridischen Zutrauens und aller obligation unfähig seyn, der keine rechte behalten kann.
+
+[AA 19:546] **7887.**   υ--φ?   J 55. Der Sieger hat kein recht aufs Leben als nur unter der Bedingung der Wiedersetzlichkeit, aber auf das Eigenthum.
+
+**7888.**   υ--φ?   J 55. *Non melior est conditio victoris post pactum, qvia habet et absqve* *illo potestatem agendi.* Wenn er aber freywillig von seinem Rechte nachläßt, in dem der andre sich verbindlich macht, so ist es ein *pactum voluntarium.*
+
+**7889.**   υ--φ?   J 55. Man kann den Besiegten in Kechtschaft bringen, wenn er nicht die *conditiones (securitatis) status socialis* eingehen will oder leisten kan. Das letztere bey einem *delicto inexpiabili* oder *animo incorrigibili*.
+
+**7890.**   υ--φ? μ--ο?   J 55.   Oberer Rand: *Servitus est vel absoluta (bruta),* (g Leibeigenschaft) *vel restricta* *(moralis), prior in qva nullum ius servo reliqvi factum est superest de* *obligatione sua iudicandi nullaque licita vis alterum intra limites iuris* *sui coercendi.*
+
+*Servitus absoluta non est obligatoria sed violentia licita.*
+
+**7891.**   υ--φ? κ--λ?   J 54. *datur ius violentiae in servitutem detrudendi ob laesionem alterius non* *datur ex facto licito utriusque, h. e. pacto.*
+
+**7892.**   υ--φ? ξ--ο? ρ--σ?   J 55. Es giebt unter freyen Staaten keinen Krieg der als ein Verbrechen, das Strafe verdiene, könne angesehen werden, weil ieder *iudex putative* *competens* ist; viel weniger kann der Soldat Verbrecher seyn. Das Recht zu tödten komt nur von der Sicherheit wegen künftiger Beleidigungen her; folglich kann die Knechtschaft nicht länger dauern, bis diese Sicherheit da ist. Ein verbrechen kan auch nicht erben; folglich könnte auch die Knechtschaft nicht erblich seyn.
+
+[AA 19:547] **7893.**   υ--φ? ρ??   J 55.   Aussenrand: 1. Frage: Ob *Servitus plena* erlaubt sey, sich derselben zu unterwerfen.
+
+2. Ob, wenn sie erlaubt ist, sie kann erzwungen werden.
+
+3. Ob *citra pactum* oder auch mit *pacto*.
+
+4. ob sie erblich sey, Leibeigenschaft.
+
+**7894.**   υ--χ? ψ??   J 55.   In § 72: Es scheinen auch alle Clostergelübde null und nichtig zu seyn, weil der Mensch auf die Freyheit renunciirt, sein Glük iemals nach Veränderten Einsichten zu machen. Alle Untrennbare Ehen, wenn alle Anheischigmachung zu Glaubensbekenntnissen, die niemals geändert werden s0llen.
+
+**7895.**   υ--χ? ψ??   J 57.   Über und in § 74: Wenn der Mensch in den Zustand versetzt wird, daß fremder wille über ihn gänzlich disponirt, so kan er niemals verbindlich gemacht werden; weil er nicht zwischen einer Handlung und ihrem Gegentheile zu wählen hat. Er kan daher nicht Unrecht thun, und mithin ist ihm erlaubt, sich dem Zwange zu wiedersetzen. Die Gewalt, welcher eine Befugnis sich zu wiedersetzen, correspondirt, ist ungerecht; folglich ist die Gewalt über einen Leibeigenen ungerecht. Ein iedes *pactum subiectionis servilis* ist an sich null und nichtig. Er kan nur *operam* lociren; aber wie weit geht das. Das ist die Schwierigkeit. So weit als die inemissible Pflicht sein Leben und Gesundheit imgleichen seine menschliche Bestimung in Ansehung des Geschlechts dabey erfüllet werden kan. Ein Mensch, der keine obligation mehr erkennt, (dergleichen der Mörder, weil er als einer angesehen wird, welcher die *obligantes* vertilgt) muß vertilgt werden. Er kan aufhören zu seyn aber nicht leben und aufhören ein Mensch zu seyn, weil er ohne Verbindlichkeit kein Recht und ohne Recht kein Mensch, aber doch frey, mithin ein allgemein Hindernis der Freyheit nach Regeln seyn würde. Auf Seiner Kinder kan er *operas* kan er noch weniger lociren. Wobey kein *pactum* zur abwendung der Gewalt möglich ist, da ist kein Recht möglich; folglich ist entweder diese Gewalt ungerecht oder der Mensch, der alles *pacti* unfähig ist, lebt wiederrechtlich.
+
+Die absolute subiection (oder Leibeigenschaft) findet nur statt unter einem völlig guten willen, der niemals unrecht seyn kan, dem also der [AA 19:548] unsrige völlig passiv unterworfen sey (aller andre Wille ist restringirt); aber auch da müssen wir überlegen, ob der Wille auch ein völlig gerechter Wille ist, mithin ist die Verbindlichkeit niemals eine blinde Unterwürfigkeit, die völlig passiv ist.
+
+**7896.**   υ--χ? ψ?   J 57.   Auf dem unteren Blattrand: Der Knecht ist nicht Sclav der noch über den Willen des Herrn vernünfteln und seine eigene Pflicht ob er ihm gehorchen soll befragen darf. Nun kann kein Mensch sich selbst aller Pflicht der Verantwortung begeben.
+
+**7897.**   υ--χ?   J 58.   Zu § 74 Schluss: Ein Mensch kann in Ansehung des andern weder absoluter Herr noch absoluter Unterthan seyn, weil der erste Gar kein Unrecht, der zweyte gar kein Recht hat. Ein iedes Recht setzt von der andern Seite verbindlichkeit voraus. Die Verbindlichkeit aber ist nur eine Einschränkung des Rechts einer Persohn, aber nur unter Bedingungen des Rechts eines andern. Das Recht eines Menschen in Ansehung des andern ist durch diesen iederzeit eingeschränkt.
+
+**7898.**   υ-φ? ψ?   J 82. *Imperium summum, qvod ideo neminis arbitrio est subiectum,* *semper est illimitatum, h. e. arbitrium ipsius suprema lex.*
+
+**7899.**   υ--χ? ψ?   J 82. Ein iedes *pactum originarium*, d. i. *subiectionis civilis*, muß unter einem *summum imperantem* geschehen und ist jederzeit unbedingt, weil niemand ist, der die Gewalt des *summi imperantis* restringiren kann. Aber *superior sive princeps* ist nicht immer summus imperans.
+
+**7900.**   υ--χ? ψ?   J 82. *minus plenum externe validum non est et iure externo aliorum restrictum*
+
+[AA 19:549] *non est summum;* (s mit ieder Einschränkung der Oberherrschaft muß eine Befugnis zu zwingen nach Gesetzen verbunden seyn), *nempe* *necesse est, ut adsit, qvi cogat.* Die Unterthanen können auch nicht von der gelegenheit profitiren, das joch abzuschütteln, indem sie allererst völlige Unterthänigkeit angeloben oder doch der Oberherrschaft ohne Wiederspruch folgen.
+
+**7901.**   υ--φ? σ?   J 82. *Summum imperium est illimitatum et absolutum. Sed non principatus.*
+
+**7902.**   υ? ρ? ο? κ??   J 82. Das Ansehen des Oberherrn muß mehr von dem Ansehen des Ältesten als dem Väterlichen abgeleitet werden. Das letzte ist despotisch, die Unterthanen sind unmündig. Es ist auch unnatürlich. Denn es dauert nicht in die erwachsenen Iahre.
+
+**7903.**   υ--χ?   J 83. Das *summum imperium* hat nicht nöthig, sein Recht zu beweisen, weil kein *forum* ist, was darüber *valide* urtheilen kann und ienes selbst erstlich *iustitiam distributivam* ausmacht. In *statu naturali* ist nur *iustitia* *commutativa aber nicht distributiva*.
+
+**7904.**   υ? ο? κ??   J 84. Der Magistrat ist der die Rechte der Bürger gegen sich administrirt.
+
+**7905.**   υ? ο? κ??   J 84.   Zu § 102: Die Staatsverwaltung besteht in der execution aller bricht ab.
+
+Der Regent repraesentirt den souverain gegen den Unterthan nicht gegen das gantze Volk und führt die Geschäfte des ersten.
+
+Der Unterthan führt seine Geschäfte gegen einen andern Unterthan.
+
+Der oberste Richter urtheilt über die Verhältnisse der Bürger gegen einander und des Regenten gegen das Volk.
+
+[AA 19:550] Der regent kan nur Urtheilen, indem er seinen Rechten renunciirt (aggratiirt).
+
+**7906.**   υ--χ? ψ??   J 84. *Regimen* besteht in der Einrichtung der Glieder des Gemeinen die Gesetze der richter bricht ab.
+
+**7907.**   υ--χ? ρ??   J 84. Die Regirung besteht in der Einsetzung des *ministerii*, des gouvernements und der magistrate und in der inspection auf dieselbe.
+
+#### De iure eminenti
+
+**7908.**   υ--χ?   J 117. Es fragt sich, ob im Gemeinen Wesen die Gesetze eben dasselbe für rechtlich in Ansehung der Bürger gegen einander erklären können, was in *statu naturali* rechtlich ist; z. B. Ich kann zwar eine Waare für eine andre Verkaufen *um welchen Preis ich will* damit so aber *nicht creditiren*, denn wenn hernach ein andere creditoren dazu kommen, so werden die, so ehrlich gehandelt haben, laedirt. Daher die Bestimmung der *pro Centa*.
+
+**7909.**   υ--χ? ρ?   J 138. Das *ius in casu necessitatis* ist das recht des *status naturalis* in Ermangelung des Beystandes aus dem *statu civili*.
+
+**7910.**   υ--χ? ρ?   J 135. Ein Fürst muß dem Volk nichts kosten oder das, was er kostet, muß in Vergleich mit der ganzen Masse des Verzehrens für nichts gehalten werden. Denn sonst ware er entweder Eigenthümer von dem volkseigenthume, also Verzehrte er *titulo iure rei suae*, oder er wäre *locator operae*, [AA 19:551] welches beydes falsch ist. Er wird also angesehen, als habe er als Person keine Bedürfnisse sondern nur als Staatsoberhaupt, den alle bedürfen und der keines bedarf.
+
+**7911.**   υ--χ? ψ?   J 139. Das ist nicht ein Recht, dem andern sich zu wiedersetzen befugt seyn. Einer von 1000 im Volk hat gegen die übrige 999 eben so viel recht als diese gegen ihn. Die Menge giebt kein größeres Recht. Nicht der Staat sondern ein Theil wird durch die Aufopferung des andern erhalten. Wenn die übrige dieses thun, s0 ist kein Mittel dawieder, also keine Strafe derselben möglich, also *coram foro humano* ist es zulässig. Aber der das Staatsopfer werden soll, darf sich wiedersetzen; mithin beweiset dieses, daß die übrige kein Recht hatten.
+
+**7912.**   υ--χ? σ??   J 181.   Zu § 197: **Laesus* hat *adversus laedentem ius infinitum*. Also auch das Volk gegen den, der ihm die Sicherheit des Lebens nimmt. Der Mörder also wird am Leben gestraft, nicht als wenn er sich dazu selbst verstanden hätte und also obligirt wäre, die strafe zu leiden. Denn niemand kann angesehen werden, als leide er aus obligation einen Zwang, weil dieser nur den trift, der seine obligation nicht erfüllen will. Sondern der Beleidigte hat ein Recht, auch ohne Einwilligung das *ius talionis* auszuüben.
+
+** *Summus imperans* hat verbindlichkeit, iedermann den Besitz des unentbehrlichen und dessen Verlust irreparabel ist, zu sichern. Dieses ist nur möglich durch Vertilgung des Verbrechens.
+
+**7913.**   υ--χ? ψ?   J 180. Weil der Mörder selbst dem Daseyn andern Menschen gefährlich ist, so verliert er gänzlich das Recht eines Menschen und ist vogelfrey.
+
+**7914.**   υ--χ? ψ?   J 180. Der Bürger hat nicht, wie Beccaria glaubt, das recht über sein Leben [AA 19:552] an den Souverain abgetreten und da er hierüber nicht disponiren kann, einen unerlaubten und nichtigen Vertrag gemacht, sondern er verliert es kommt gar nicht auf sein Belieben an, ob er wolle gestraft werden, sondern er verliert den *statum civilem* und ist vogelfrey.
+
+**7915.**   υ--φ? ψ?   J 180.   Zu § 197 „vocatur ius necis“: Was jemand gegen einen andern verübt, dazu giebt er eben dadurch dem andern ein Recht, es gegen ihn zu verüben, wenn nicht das Gegentheil unter ihnen beschlossen ist. Daher darf kein *pactum* vorhergehen, damit das Gemeine Wesen recht habe, den Mörder am Leben zu bestrafen; das kommt allen, denen die Vertheidigung aller Rechte des Beleidigten obliegt, *lege* zu. Er kan gar nicht über Unrecht klagen. Es ist auch nicht eine verletzung der Menschheit überhaupt (wie etwa Lüge) sondern eine Handlung, wodurch das, was die Menschheit entehrt, aufgehoben wird. Auch muß die Strafe spezifisch einerley seyn mit dem, was Thäter ausgeübt hat, wo nicht der Beleidigte einwilligt: Beschimpfung mit Beschimpfung, Beraubung mit Beraubung. Das *publicum* fordert doch noch etwas mehr wegen seiner Sicherheit. Schläge beschimpfen nicht, wenn man sie erwiedert,aber wohl, wenn man sie vor geld und gute worte vorlieb nehmen würde. Geldstrafe ist eben so viel, als ob der Beleidigte sich sein Recht zu klagen hätte abkaufen lassen.
+
+**7916.**   υ--χ? ψ?   J 183. Die Todesstrafe kan nicht als freywillig einem jeden sich selber (wie jedem andern) durch ein *pactum* auferlegt angesehen werden, denn es versteht sich von selber, daß, wenn ihm das von Andern wiederfährt, was er gegen einen von ihnen ausgeübt hat, er nicht über unrecht klagen könne. Er hat sich selbst des Rechts der Erhaltung verlustig gemacht. Es ist lächerlich zu verlangen, daß durch ein Gesetz, der so etwas dergleichen ausgeübt hat, mit dem Rechte der Wiedervergeltung verschont bleiben solle. Auch ist es absurd, daß jemand sich verbindlich mache, gestraft zu werden. Ein jeder kan nur ein Recht gründen, so fern er sich selbst von aller künftigen Verletzung anderer, für unverdächtig halten zu lassen, fodern kann. Er stimmt immer zur Bestrafung anderer, und da alle nach seinem Vorgange, [AA 19:553] es auch thun, so ist er durch das Recht anderer ohne seine Einwilligung der Strafe unterworfen. Sonst müßt man sagen, er sey verbunden sich freywillig zwingen zu lassen. Da alsdenn das Übel, was ihm begegnete, gar kein Zwang und also auch keine strafe wäre, sondern wie etwa reuigte Sünder ihre Schuld bezahlen wollen und sich dem Richter selber offeriren.
+
+**7917.**   υ--χ? ω?   J 183. Wenn das Recht am Leben zu strafen als von einem *pacto* des Ganzen Volks mit jedem einzelnen betrachtet werden sollte, so würde man vielmehr sagen, es könnte nicht als gerade die Todesstrafe verhängen. Denn thäte die Nation es nicht, so würde sie anderen gleichsam die Erlaubnis geben (d. i. sie nicht hindern), ihr Leben zu rauben, welches niemand befugt ist. Denn eine jede andere Strafe als die Todesstrafe ist gerade dem Werthe, den jeder in ein Obiect setzt angemessen und die einzige gerechte, weil aus Gefängnis einer mehr als aus dem Tode der andere weniger macht. Also läßt man das letztere *in dubio* und übt das Recht der Wiedervergeltung, das gar keinem Zweifel ausgesetzt ist, aus.
+
+**7918.**   υ--χ? ω?   J 181. Bey dem *iure gladii* frägt man nicht, ob es als Abhaltungsmittel andrer erlaubt sey, einen Mörder zu tödten, sondern ob es nach Ideen der Strafgerechtigkeit nothwendig sey. Das Recht der bürgerlichen Gesellschaft, in Ansehung d welches ihr aus der Verpflichtung zukommt die Substanz eines jeden zu erhalten, führt es mit sich, daß nicht allein ein Mörder nicht mehr im Staate existire, sondern daß er mit seinem Leben den Abbruch, den er dem bürgerlichen Zustande überhaupt verursacht hat, ergäntze.
+
+### [AA 19:554] Phase ψ.
+
+**7919.**   ψ4 (nach dem 13. Okt. 1788).   L Bl. D 7.   S. II.   R I 202--203: S. II: Von der Schwierigkeit, die Regel (g nicht so wohl) des Rechts als der Sicherung seiner Rechte für Staaten bestimmt zu geben, ist beynahe unüberwindlich. Wäre man sicher wegen Erwiederung der Gerechtigkeit, so würde Alles bestimmt seyn. Aber diese Unsicherheit, die gleichsam vertragsmäßig ist, macht, daß in einem solchen Stande der Ungerechtigkeit keine Regel übrig bleibt als die, sein Verfahren so einzurichten, daß daraus ein wechselseitiges Vertrauen entspringen könne welches und eine allgemeine Mentalverbindung, es zu erhalten, gleich als ob es ein *status* *civilis* wäre.
+
+Das Nothrecht entspringt nicht aus der physischen Noth im Gegensatze gegen Pflicht sondern der moralischen Nothwendigkeit, die einer größeren nachstehen muß, z. B. Eltern umkommen zu lassen, um seine Kinder zu erhalten.
+
+Der Staat kan keinen zwingen, glücklich zu seyn oder Andere glücklich zu machen, sondern mus jedermanns freyheit sichern. Daraus folgt, daß, weil alle Staatsverfassung nichts anderes als der Zustand eines wechselseitigen Gesetzmäßigen Zwanges der Bürger ist, den nur der souverain ausübt, das Princip der Staatsverfassung nicht die Glückseeligkeit der Bürger, sondern diese nur allenfals als Mittel zu dem eigentlichen Zwecke seyn könne.
+
+[AA 19:555] Qualification der Maxime zum allgemeinen Gesetz; dessen Form ohne Materie durch die Vernunft ein Bestimmungsgrund wird.
+
+**7920.**   ψ.   J Schluss. Der despotism scheint die Art der Regirung zu seyn, da die Collegia nicht das Recht haben zu remonstriren, mithin dem Landesherrn die Wohlfarth des Staats vorzustellen oder auch, da der Printz selbst richtet.
+
+Metaphysisch ist das Staatsrecht, in der alles aus dem bloßen Begriffe des Staats ohne Beymischung desjenigen, was zum zufälligen der Menschlichen Natur und dem empirischen des Weltlaufs gehöret, abgeleitet wird.
+
+#### De societate aequali.
+
+**7921.**   ψ.   J 15. Der *summus imperans* ist kein Glied der Gesellschaft, als Mensch aber hängt seine Macht doch von den Kräften der Gesellschaft ab. Also ist er nichts anders als die Ganze Gesellschaft. Ein jedes Glied der Gesellschaft muß ein Zwangsrecht haben und ihm auch unterworfen seyn. Der *summus imperans* muß keines Zwanges bedürfen, weil sein Wille jederzeit aus dem princip des allgemeinen Willens entspringt, folglich immer gut ist.
+
+**7922.**   ψ.   J 25. *(g summus) Rector et (g summus) imperans non sunt unum* *idemque.*
+
+**7923.**   ψ.   J 25. *summus imperans est etiam solus legislator; ergo non fert leges per* *conventionem sed propria auctoritate.*
+
+#### [AA 19:556] De matrimonio.
+
+#### De societate herili
+
+**7924.**   ψ.   J 34.   In § 46: *Societas sexualis perpetua (aeqvalis), absqve aeqvalitate iuris in* *commercio sexuali est concubinatus. Si est aeqvalis matrimonium, igitur* *qvodlibet matrimonium est bigamicum.*
+
+*Homini ius in alium non competit nisi ad actiones alterius, *h. e.** *personale, ergo ius reale in facultates et membra sexualia alterius partis* *locum non habet. Tale pactum, *e. g.* concubinatus, est illicitus.*
+
+**7925.**   ψ? χ??   J 52, 53, 54, 55, 59. J 52: *Servitus* ist der gänzliche Verlust der Natürlichen freyheit unter den Befehl eines andern. Der alles verbunden ist zu thun, ist auch verbunden alles zu dulden. Denn er darf sich nicht wiedersetzen. Er hat kein Recht. Also ist er kein Mensch. Nur das, was dem J 53: Menschen alle rechte gegen andere nimmt, kan ihn der freyheit berauben: Mord, habitueller Diebstahl. J 54: Der *servus* muß können vor sich acqviriren, so wohl *iura realia* als *personalia*. Sein Dienst muß ein *modus acqvirendi* seyn, *locatio operae*. Diese *operae* müssen also restringirt seyn auf die Bedingungen seiner eigenen und nicht blos unbestimmten und blinden Meinung von seiner Wohlfarth durch contract, dadurch er seinen Herrn zwingen kan. Ist sie nicht *expresse* bestimmt, so muß sie *tacite* verstanden werden. Er kan die persönlichkeit nicht verlieren und ein Hausthier werde n, welches blos durch den Willen des Eigenthümers bestimmt wird. J 55: Ein *pactum*, worin einer sich versprechen läßt, was dem andern beliebig seyn wird, ist null und nichtig. Eben so, wo der Herr sich so viel Dienste versprechen läßt, als ihm selbst zu fodern gefallen wird. *vid. pag. 59*.
+
+J 59: *vid. pag. 55.* Niemand ist befugt, seine Giükseeligkeit gänzlich in die Hände eines andern zu geben und nach dem Gutdünken und der Wahl eines andern glüklich zu seyn. Er kan also nicht *operas illimitatas* [AA 19:557] versprechen, deren große Dauer und Art blos vom willen des andern abhängen. Ein solches pactum ist null und nichtig. Er kann auch nicht dem Urtheil des andern überlassen, wie viel und was er zu seiner Erhaltung werde gut finden, sondern muß dieses auch bestimmen; folglich ist es *locatio* *operae*, wo beyderseits rechte gleich seyn und er eine Befugnis hat zu resistiren. Denn sonst hat er kein Urtheil und ist blos passiv, hat also nicht die freyheit zu wählen, mithin steht er nicht unter obligation sondern unter dem blos absoluten Zwange.
+
+**7926.**   ψ? υ--χ??   J 53.   Über, in und neben § 72, Anfang: *Servitus personae* ist *ius in persona tanqvam re aliena (qvi sui iuris* *est) constituendum, qvod igitur implicat*; denn niemand kan das recht des Gebrauchs irgend einer seiner Kräfte alieniren, d. i. unbestimmt dem andern Versprechen, sondern nur consentiren, d. i. bestimmt auf Zeit und Grad concediren.
+
+**7927.**   ψ.   J 54.   In § 72: *Libertas non amittitur plenarie nisi delicto*.
+
+Man kann seine freyheit suspendiren aber ihr nicht renunciiren, den *usum virium suarum alteri* concediren nicht alieniren. Es ist nicht *locatio* *operae*, dem andern ei*n ius in omnes operas*, auch die uns unerträglich fallen, lebenslang zu consentiren. Der Herr ist denn Meister über meine Glückseeligkeit des Lebens. Ein jedes pactum muß, wenn es nicht mit dem Leben des Menschen bestehen kan oder der Lust zu leben, dissolubel seyn.
+
+**7928.**   ψ.   J 56.   In § 72, Schluss: Wenn die *actiones* des *servi* dem *arbitrio domini* unterworfen sind, so agirt iener niemals *libere* (und also nicht aus Pflicht). Der dominus hat alsdenn *ius in re* obzwar nur *utendi* und *fruendi* aber nicht *de substantia* *disponendi*. Er muß seinen Unterhalt verdienen und die condition seines Glüklichen Lebens in seiner Gewalt haben wenigstens im Ganzen desselben, dem kan er nicht renunciiren.
+
+**7929.**   ψ.   J 56.   In § 73: Die *acqvisitio servi* kann nur statt finden dadurch, daß er sich der [AA 19:558] freyheit gänzlich unwürdig gemacht hat, indem er keine Grenzen derselben durch Gesetze erkennen will, folglich blos anderer Gewalt und absoluter Willkühr muß unterworfen werden.
+
+Es ist der Tod der Persohn, und er lebt nur gleichsam wie ein Thier; dieses kan aber nur dauern, so lange diese Unsicherheit dauert. Der Sclav gehorcht nicht aus Pflicht; denn könnte er seiner Pflicht gemäß handeln und dadurch regirt werden, so verdiente er nicht Sclav zu seyn. Es kan sich also auch niemand sich zum Sclaven verpflichten, d. i. zum Zustande, wo nichts von seiner Pflicht erwartet wird.
+
+**7930.**   ψ.   J 59.   In § 75: Zu einem Zustande, darin einer dem andern dienen muß, kann kein Mensch gebohren werden. Wenn er also sich nicht durch contract oder Verbrechen dazu Verbindlich macht, ist er frey. Nur glauben viel Gutsherren daß sie besser für die Glükseeligkeit ihrer Unterthanen sorgen können, als diese selbst wollen; also daß jene ihre Wohlfarth von ihrer Gütigkeit haben sollen nicht das, was sie aus ihrem Recht fodern können, nämlich ihre Glükseeligkeit selbst zu besorgen.
+
+**7931.**   ψ.   J 60. Der, welcher den andern so laedirt, daß er dadurch zu erkennen giebt, er erkenne keine Pflicht gegen ihn, hat auch kein Recht gegen denselben. Der Beleidigte hat also ein Recht, dem kein Recht des andern entgegensteht, zu allem Gebrauche desselben gleich einer Sache. Dergleichen *delictum* ist Leib und Lebensgefahr, die keine Hofnung zur Abwendung übrig läßt, und unaufhörliche Unsicherheit des Eigenthums. So acqvirirt man einen *obnoxium delicto*.
+
+Aber *ad operas indeterminatas perpetuas* kan, da einer sich *pacto* verbinden, der acceptant *facto iusto* acqviriren? Nein! Denn ein pactum ist null und nichtig, wodurch ich alle Freyheit aufgebe, denn alle arbeiten sich aufbürden zu lassen schränkt die freyheit des Hausherrn gar nicht ein, er hat das Thun und Lassen des Knechts völlig in seiner Gewalt. In jedem *pacto* aber macht promittent sih verbindlich das Versprechen zu halten, setzt also voraus, daß er frey sey; er macht sich aber verbindlich nicht frey [AA 19:559] zu seyn, weil der acceptant über seine Kräfte disponirt Zeit und den Gebrauch seiner Kräfte überhaupt disponirt; so hat der *dominus* doch allein die freyheit und der andere also kein Recht. Dieser behält sich zwar durch den contract vor, ihn nicht zu tödten, zu verstümmmeln oder zu verkaufen, also ihn nicht durch that als Sache zu behandeln. Aber er ist doch gleichsam *dominus utilis* von ihm. Ob *locatio operae perpetua* oder *operae* *determinatae* ist nicht damit zu vergleichen.
+
+*Vitium est in pacto vel turpitudo vel nullitas. Perpetuas indeterminatas* *operas alteri* lociren heißt de*n usum virium suarum* alieniren, mithin seine Freyheit und seine person selbst veräußern. denn ohne gebrauch der Kraft ist nach seinem eignen willen giebt ist die freyheit nichts. -- In der Concession des Gebrauchs seiner Gliedmaßen ist *turpitudo*, der kräfte *nullitas pacti*.
+
+**7932.**   ψ? χ?   J 68. Wäre *servitus personae* nach dem Naturrechte möglich, so würde der souverain zu seinen *subditis* sich verhalten wie *dominus* zu *servis*. Denn es ist nichts was seinen Willen einschränkt. Nur die democratie wäre erlaubt, wo jeder zugleich sich selbst acqvirirt, indem er das *condominium* über alle andere hat.
+
+**7933.**   ψ? υ--χ?   J 65. Das *Principium* dieses Rechts ist, daß ohne eine *iustitia *distributiva** es keine **commutativam** geben kan, d. i., daß niemand ein Recht habe einem andern freyheit einzuschränken, wenn der andere nicht zugleich unter derselben Bedingung seine freyheit einschränkt, daß niemand ein Recht fodern kann, wenn er nicht dem andern seine Rechte sichert.
+
+**7934.**   ψ1? χ?   J 64. *officia sunt vel humanitatis vel iustitiae. posteriores vel commutativae* *vel distributivae. Honeste vive. Neminem laede. Suum cuique* *tribui.*
+
+[AA 19:560] **7935.**   ψ1?   J 64. *status hominum sub legibus universitatis cogentibus.*
+
+**7936.**   ψ1--3.   J 64. *Status naturalis iuridice est status belli*, denn der *modus ius suum* *penseqvendi* ist nicht *per processum* sondern *per bellum*.
+
+Der *status civilis* ist also nicht *arbitrarius* sondern *necessarius*, so wie wenn menschen *in commercium sexuale* treten, so ist der *modus* nicht mehr willkührlich, sondern nur das *per matrimonium* ist legal. Dieser Zustand ist auch die erste iuridische Handlung.
+
+**7937.**   ψ1--3.   J 64. *A natura* ist zwar jedermann frey und nicht verbunden, mit jemand in ein *pactum unionis civilis* zu treten, so fern man auch gewiß ist, daß er nicht laediren werde, d. i. so fern ich für ihn gesichert bin. Aber da dieses nicht ist, so ist, so fern verschiedene in commercio stehen, ein jeder Verbunden, entweder aus dem *commercio* oder aus dem *statu naturali* heraus zu gehen. *primum principium iuris publici et iustitiae externae* *constitutivum status civilis.*
+
+**7938.**   ψ3?   J 64. Im Staatsrecht ist nicht das Glük der Bürger (denn das mögen sie selbst besorgen) sondern das Recht derselben, was das princip der Verfassung ausmacht. Der Wohlstand des Ganzen ist nur das Mittel, ihr Recht zu sichern und sie dadurch in den Stand zu setzen, sich selbst auf alle Weise glüklich zu machen. Daher müssen sie auch die Armen selbst versorgen, Schulen unterhalten und ihre Kinder selbst erziehen, aber auch die Freyheit dazu haben, ihre Religion selbst bestimmen, aber nur durch Einstimmung sie verändern.
+
+**7939.**   ψ1? (χ?)   J 65. *Status naturalis* ist dem *civili* nicht *sociali* in allerley *beliebiger* Absicht entgegengesetzt, *exeundum esse e statu naturali non enim status* *iustitiae externe validae. ergo est status belli omnium contra omnes*
+
+[AA 19:561] *non bellum sive hostilitas; alter iure (externo) aggreditur, alter iure* *resistit.*
+
+**7940.**   ψ1? υ--χ?   J 67. *Status civilis est status iustitiae publicae.* Da nämlich einem jeden sein Recht bestimmt und zugleich gesichert wird. Das erste geschieht durchs Gesetz für alle (*universos*) oder auch durch den Richter für *singulos*. Zur sicherheit des Rechts Gehört gewalt. Also die Gesetzgebende Autorität und die Richterliche mit hinreichender Gewalt verbunden.
+
+**7941.**   ψ? υ--χ?   J 74.   Unterer Blattrand: *Ius universitatis et personalissimum non potest nisi intereunte universitate* *amitti. Sed amittitur delicto sive animo delinqvendi et cedit* *occupanti.*
+
+*Status Ius *publicum* est vel civile vel ius gentium. hoc proprie* *non est publicum. Vnio civilis est non arbitraria sed aeqvaliter necessaria.*
+
+Der die oberste Gewalt hat, kan nicht richten. Denn der richtet, kann unrecht thun; wieder ihn muß also Gewalt seyn. Vornemlich kann der souverain nicht richten, weil die Gesetze alsdenn nichtig seyn würden, weil die sententz doch von seiner eignen Willkühr abhängt.
+
+**7942.**   ψ? υ--χ?   J 75.   Unterer Blattrand: So wie ein Gewinnst in den Händen aller ist, wenn es indeterminirt von jedem kann gewonnen werden (*disjunctive universaliter*) aber nicht von allen Zusammengenommen, so ist die öffentliche Gerechtigkeit in den Händen des Volks ob zwar nicht aller Zusammen, denn es ist contradictorisch, daß dieses richte. aber eines jeden unter ihm, der Geschick und [AA 19:562] Verdienst hat, wenn der Landesherr als souverain die Klagen über die persönliche Verbrechen des richters einer commission übergiebt.
+
+**7943.**   ψ? υ--χ?   J 74. Militärisch recht im Kriege.
+
+Ob der souverain könne domainen haben.
+
+**7944.**   ψ? υ--χ?   J 74. Der souverain regirt nur durch den Minister vermittelst decrete und exeqvirt durch officire, die alle unter Richtern stehn.
+
+**7945.**   ψ? υ--χ?   J 74. Der Regent kan *laesiones iuris maiestatici* nicht vergeben, weil er dem Volk nichts Vergeben kan aber wohl, was wieder seine Person ist. Er kan nichts verschenken.
+
+**7946.**   ψ? υ--χ?   J 75. *Unio civilis* oder **status** beruht nicht auf dem *pacto* weil iedes *validum* *pactum* schon *iustitiam distributivam* erfodert.
+
+**7947.**   ψ? υ--χ?   J 75. Muß die Gewalt vor dem Rechte vorhergehen und kan man sagen, man wolle sich zwingen lassen: oder ist der unvermeidliche Zwang nicht die Bedingung einer möglichen rechtlichen Handlung.
+
+**7948.**   ψ.   J 74. *Maiestas legislatoriae potestatis, Auctoritas rectoriae et sanctitas* *iudicatoriae.*
+
+**7949.**   ψ? χ? ρ??   J 74.   In § 89, 2: Die Regirung unter einem souverain ist *directorium*.
+
+**7950.**   ψ? χ? ρ??   J 74.   Ferner: Iede societät ist willkührlich, das *totum civile* ist nothwendig, kann nicht aufgelöset werden.
+
+[AA 19:563] **7951.**   ψ? χ? ρ??   J 74.   In § 89, 3: Regirung durch den Minister, das *directorium*, *gouvernement*. Magistrat *est iure irresistibilis. Omnis resistentia est laesio Maiestatis, Non* *remonstratio nec admonitio.*
+
+**7952.**   ψ? (ρ?) κ??   J 76.   In § 92: Der Souverain ist der Gesetzgeber, er kan nicht unrecht thun, also muß er ist er das Volk. Er kan nicht administriren, mithin nicht regiren noch richten. Denn die stehen alle unter Gesetzen.
+
+**7953.**   ψ? υ--χ?   J 78.   Über und in § 95: Der *despotismus* (durch keine Gesetze eingeschränkte Gewalt eines einzigen) ist darin unrecht, weil, wenn er angenommen wird, den willen des oberherrn kein Recht mehr einschränkt, denn alles ist Recht, was er gegen andre Will. Was jemand gegen sich selbst mithin der Staat in ansehung seiner Glieder will, ist recht. Es ist also absurd, daß eine Befugnis, kein Unrecht thun zu können, jemandem ertheilt werde, oder daß es rechtskräftig sey, wenn menschen sich ihres Rechts überhaupt begeben. Hier steckt die gantze Schwierigkeit, so wie in der metaphysic vom absoluten *necessario*, wie ein oberster Wille, der da bestimmt, was recht sey, möglich ist und eine irresistible gewalt doch selbst rechtmäßig sey, obgleich sie durch nichts äußeres eingeschränkt wird auch nicht durch das Recht andrer, denn alsdenn würde eine noch höhere Gewalt erfodert werden.
+
+**7954.**   ψ1--2.   J 74. 75. J 74: *Constitutio civilis non potest esse inter homines complete iustitiae* *conformis, qvia in constituendo iudice supremo hic potest laedere (qvia* *est homo, qvorum qvilibet iure praesumitur malus sit) et de iure suo* *nemini datur securitas. Sed propter animum exedendi carent iure semet* *ipsos regendi, ergo imperium summum cedit occupanti* sive potius Regimen.*
+
+*Sed unio civilis necesse est, ut antecedat regimen; ergo haec necesse* *est, ut nitatur pacto saltim ideali. Ergo Princeps non estsummus*
+
+[AA 19:564] *imperans, sed vices ipsius sustinet et obligat ad conditiones contractus* *originarii.*
+
+*Potest leges ferre et regere non iudicare.*
+
+*Contra ipsum nulla vis est licita, ergo est inviolabilis, qvoniam alias* *qvilibet securitate sua privaretur.*
+
+J 75: * (g *hoc etiam inde patet, qvoniam in statu naturali nemo sui* *iuris compos est, ergo iuris sui omnium custodio est res nullius et* *cedit occupanti.* )
+
+**7955.**   ψ1--2.   J 74.   In und zu § 89, 2: *Nicht das princip der allgemeinen Glükseeligkeit sondern Freyheit* *nach allgemeinen Gesetzen macht das princip der Staatserrichtung und* *die Idee davon aus.*
+
+**7956.**   ψ.   J 75.   Zu § 90 Anfang: *contractus originarius non est principium fiendi* (Errichtungsgrund) *sed cognoscendi* (Verwaltungsgrund) des Staats, *leges decreta sententiae*.
+
+**7957.**   ψ3--4?   J 75. Im Zustande der äußeren Gerechtigkeit muß der Anfang seyn die Errichtung einer gnugsamen Gewalt, weil sonst die Gesetze selbst nichtig sind.
+
+**7958.**   ψ3--4?   J 75. Alles können die Menschen noch im *statu civili* verwalten nur nicht das oberrichterliche Amt, weil dieses nur zum Göttlichen Rechte gehöret. Dem Fürsten kommt also nur *custodia iuris singulorum* zu. Er regirt also in eigner Persohn, (g muß durch minister die edicte der regirung ausführen, damit diese dem Gericht unterworfen sind), giebt Gesetze im Nahmen des Volks und inspirirt die Gerechtigkeit als ein Diener Gottes. *Potestas legislatoria est repraesentativa, rectoria est personalis inspectoria* *est gestoris negotii protectoris*, des Beschützers der Rechte des Volks.
+
+Niemand kann die Stelle der Gottheit Vertreten. Die Oberrichterliche Gewalt Gottes ist *ius personalissimum*, aber er kan die Rechte des Volks bewahren, d. i. darauf sehen, daß die Gewalt nicht das Recht in [AA 19:565] seine Hände bekomme. Denn im Rechtsausspruche kan ich mir selber nicht anmaßen, einem andern sein Recht inappellabel zu bestimmen, ich überlasse es denen, die ihr Recht unter einander suchen, d. i. dem Volk, und constituire Gerichte; diese können sprechen, weil sie müssen und der souverain kan in privatsachen nichts ändern, in denen wieder das (g Volk) *publicum* auch nicht. aber in denen wieder die Regirung kann er begnadigen. Die *potestas inspectoria* hat die Schranken. Das Volk compromittirt auf den Ausspruch der Persohnen, die nicht die oberste und beständige Gewalt haben. Aber diesem muß geklagt werden können, also andere ernannt werden, damit es ja auf keinen determinirt sey.
+
+**7959.**   ψ3--4?   J 75.   In § 90: Die Gerechtigkeit ist heilig, aber durch das Gesetz wird das Recht erst constituirt.
+
+**7960.**   ψ3--4.   J 75.   In § 90: Weil *unio civilis* nothwendig ist, so muß die idee eines *pacti* als *originarii* vorangehen, dessen Inhalt aber nur auf die *institutiones externas* geht und darin *salutem publicam* setzt, übrigens mag jeder sein Heil besorgen.
+
+**7961.**   ψ3--4.   J 75.   In § 90: Ob die constitution *unanimia* erfodere. In der Idee guter Menschen, Ia. Aber so wie sie sind so viel, daß andere können gezwungen werden. Nach dem *principio exeundum e statu naturali*.
+
+**7962.**   ψ3--4.   J 75.   § 92 Anfang: *Pactum est voluntas communis qvae semper est iusta.*
+
+**7963.**   ψ1--2.   J 76.   Zwischen § 92 und § 93: Der *iuridice* und gesetzgebende Zwek der Errichtung eines *Status civilis* ist nicht die öffentliche Glükseeligkeit sondern ein *ius publicum*.
+
+[AA 19:566] *Principium constitutivum* ist der Gemeinschaftliche Wille. *pactum* *originarium*.
+
+**7964.**   ψ3? υ--χ??   J 76.   Zu § 91 Schluss: *extra rempublicam nulla salus. salus publica* besteht in der Erhaltung und Verwaltung der rechte aller Bürger gegen iederman innerlich und äußerlich. Die Mittel dazu sind alles, was die Wohlfarth befördert. Sonst mag ein jeder vor sich selbst sorgen.
+
+**7965.**   ψ.   J 77. Der Souverain kann keine Handlung thun, die unter dem Gesetze ist, denn alsdenn ist er *subditus* und muß können nach den Gesetzen gezwungen werden. Die Administration steht unter dem Gesetz. Er kan also nicht anders als durch den Minister administriren alles andre ist seiner Maiestät zuwieder.
+
+**7966.**   ψ3--4.   J 77. *Pactum originarium* wird geschlossen, um 1. ein Gemeines Wesen in sich selbst, 2. einen Staat, d. i. einen Stand unter andern gemeinen Wesen, auszumachen, 3. Eine Macht, um mit andern gemeinen Wesen ein einiges auszumachen.
+
+**7967.**   ψ3--4? υ--χ?   J 77. Der Oberherr giebt Gesetze durch sich selbst, regirt durch andere und richtet nur durch die Werkzeuge der Magisträte.
+
+**7968.**   ψ3--4.   J 77. Die Staatsverwaltung oder goubernation ist theils der magistrat theils der Gerichtshof. Das Staatsoberhaupt Mus selbst Gesetze geben durch den Ministre regiren und durch Magistraete richten oder verwalten.
+
+(g Wenn die Rechte strittig sind)
+
+[AA 19:567] **7969.**   ψ3--4.   J 79.   In und zu § 97: *Originario* ist *imperium* beym Volk und bleibt auch bey ihm in der Idee. *Regimen summum* ist auch bey ihm aber magistrat nicht.
+
+**7970.**   ψ3--4.   J 81.   Zu § 98. Die Frage, wer ein Recht zum *summo imperio* habe, ist denn gantz rechtmäßig, wenn das volk noch keinen *summum imperantem* hat. hat es aber einen, so ist schon ein *status civilis* da und nur kraft desselben kann bestimmt werden, wer *summus imperans* sey und dieser kann nur sprechen, also kann der *summus imperans* sich selbst nicht aufheben, ohne in den *statum naturalem* zurükzufallen.
+
+**7971.**   ψ3--4.   J 82. 83. J 82: Das Staatsoberhaupt stellt eine dreyfache Person vor: als Gesetzgeber ist er souverain, hat keinen über sich und alles ist unter ihm. Als Regirer, der nach Gesetzen ruhe und Glückseeligkeit austheilen soll, steht er unter den Gesetzen, muß können gezwungen werden und kann also mit dem Souverain nicht ein und dieselbe Person seyn. Als Richter steht er unter den Gesetzen und dem Regiment wegen der Austheilung der Glückseeligkeit nach dem Gesetze des Souverains und dem Willen des Regenten, alle an der Wohlfarth theilnehmen zu lassen. Gütigkeit aber nur in proportion der Heiligkeit des Gesetzes soll ihn bestimmen, also ist er wiederum eine besondere Person und zwar darum nicht mit dem Regenten, weil er dessen Gütigkeit einschränken soll. Diese drey Personen können nur in der Gottheit verbunden seyn, weil sie alle diese Vollkommenheiten zugleich in sich faßt. J 83: Die Vorsorge geht aufs Ganze aber auch aufs einzelne. Das Gesetz fodert Leistungen, (g Lasten); wie sollen die Ausgetheilt werden, auch Aufopferungen, wen sollen sie treffen?
+
+**7972.**   ψ? υ--χ?   J 85. *Summus imperans* kan zugleich Regent seyn aber nicht Magistrat, d. i. in Ansehung des allgemeinen Gerichtshof und Governement befehlen aber nicht selbst richten oder gouverniren noch gegen einzelne executiren. Doch kan er diejenige bestellen, die den Zwang ausüben, welchen *summus* *imperans* selbst jederzeit in Händen haben muß.
+
+[AA 19:568] **7973.**   ψ.   J 86. *Regimen* ist die Anwendung der Gesetze auf alle *universos* durch gouvernement, die administration auf einzelne durch *magistratus*.
+
+**7974.**   ψ3--4? ω??   J 86. In jedem gemeinen Wesen ist ein *summum imperium*, folglich auch *subditi*. Vor aller wirklichen Herrschaft aber und Unterwerfung muß ein Recht der Menschen vorhergehen, nach welchem sie ursprünglich möglich ist. Dieses kan kein anderes seyn, als daß alle Unterworfen sind allen zusammen genommen: weil nur so eines jeden freyheit mit seiner subiection durchgängig zusammenstimmen kann. Also muß alles Gemeine wesen von einem idealen ursprünglichen Contracte als abgeleitet angesehen werden. Die Republik in Ansehung anderer ausser ihr heißt ein Staat. Alle Staaten im Verhältnis gegen einander betrachtet, heissen die Welt, welche auch als ein gemeines Wesen betrachtet werden muß, wenn sie ihr Verhältnis gegen einander rechtlich seyn soll. Der Unterthan der zugleich gleicher Theilnehmer an der Oberherrschaft ist, heißt Bürger. Hat er diese nicht, ist aber doch zugleich keinem besonderen Theile des Gemeinen Wesens sondern nur der Oberherrlichen Gewalt unterworfen, so ist er Zunftbürger (*civicus*), hat es jene, so ist er *civis*, d. i. Staatsbürger; und in Ansehung aller der Staat selber aber kan als weltbürgerlich oder als Kriegsstaat betrachtet werden. -- Der Unterthan unter einer Gesetzgebung, welche nicht für alle gleich geltend ist, heißt Erbunterthan, wenn er nicht durch eine als ein solcher gebohren wird. Ein erblicher Zunftbürger heißt unadlich wenn andere zum unterschiede derjenigen, welche als erblich *zum* *Befehlen* in der Staatsadministration die habilität haben. Iener gehört zum gemeinen Volk (*plebs*) dieser zum Adel (*status equestris*). Die letzteren gehören entweder in der zugleich als glieder zum *summo imperio* und sind erbliche senatoren (*patricii*, Lords) oder sind nur die Vornehmen (*optimates*), welche zu den exsecutoren der obersten Gewalt als Unterbefehlshaber ein Erbrecht haben (titulirter Adel). Es ist die frage, ob es recht sey, daß das *summum imperium* solche erbliche Herren setze als *Marqvis*, Graf *etc.* *etc.* Sie wären alsdenn nicht blos Staatsbürger sondern würden eine erbliche Dignität haben und zwar nicht der bloßen Erinnerung [AA 19:569] eines alten Verdienstes ihrer Vorfahren sondern ein praerogativ der Unabhängigkeit von gewissen Ständen, die aber von ihnen abhängig seyn können.
+
+**7975.**   ψ3--4? χ?   J 88. 89. J 88: *NB.* Dem *summo imperanti* (beherrscher, Oberherr) steht nichts frey, worüber selbst der privatwille nicht disponiren kann: (g *arbitrium* ), z. E. Moralität. Religion zu wählen. Sich selbst verkaufen (*contra* *Hobbes*). aber es steht ihm alles frey, wo ieder über sein Recht disponiren kann, *e. g.* Auflagen, Strafgesetze, Krieg, Frieden.
+
+*Princeps*, das Staatsoberhaupt ist dem Staat nicht unterworfen. Der Souverain hat keine privatgüter, domainen, aber der Prinz, und ist in Ansehung deren dem Gesetz unterworfen. Die Güter lassen sich von der Persohn absondern. Daher die Persohn des Prinzen nicht kann angetastet werden.
+
+J 89: *NB.* In Ansehung welches Zustandes man nicht passiv seyn soll, den kann man nicht den Gesetzen unterwerfen, z. E. Religionsurtheile und Lehren. Die obere Gewalt kann demnach die Freyheit der Religionsmeinungen* und die Bekantmachung derselben nicht gebieten.
+
+Wenn nun aber gleichwohl *summus imperans* alle die Schranken überschreitet, so ist kein Wiederstand erlaubt. Aber in Dingen der moralität gleichwohl seinen Gehorsam zu verweigern und alles über sich ergehen zu lassen. Denn da kann man über sich disponiren.
+
+J 88: **(g** * Der Unterthan kan nur Schutz gegen Gewalt fodern; aber die Meinungen anderer sind keine Gewalt sondern so gar die einzige Bedingung, seine eigne zu berichtigen. Geistliche können nicht verlangen, daß anderer Meinungen und Einwürfe verboten werden. Sie können kein exclusives privilegium verlangen, die ihrige vorzutragen. Es kann nicht Gewalt seyn, wodurch sie sich rechtfertigen, sondern sie müssen sich durch das Übergewicht ihrer Gründe vertheidigen. Der *summus imperans* ist nur durch die Natur eines Gesetzes überhaupt restringirt und nicht durchs Gesetz sondern zu Gesetzen verbunden, alle seine *actus* sind *publici* nicht *privati*.
+
+[AA 19:570] Die Gesetzgebung, Regirung und administration oder Staatsverwaltung. Die letzte geht auf die rechte des unterthans gegen den souverain und die Vorstellungen, die er als Unterthan gegen die Gesetze oder Regirung zu machen hat. **)**
+
+**7976.**   ψ? υ--χ?   J 88. Dem Souverain gehört das *territorium* (aber nur *universorum* nicht *singulorum*). Denn dem Gesamten Volk gehört es. Aber so wie das Ganze Volk nicht über eines einzelnen territorium disponiren kann, was es nicht zugleich sich selbst auferlegt so auch nicht der Monarch einzeln darüber, ohne zugleich aufs Gantze zu repartiren, disponiren. Es fragt sich, ob aus dem *iure territorii* alle *iura in rem* des souverains müssen abgeleitet werden. Nein, denn das *territorium* kan ursprünglich nicht von der Societät sondern nur von den einzelnen occupirt seyn. Also war das Eigenthum vor der Societät und also auch dem *imperio civili*. Viel mehr Gründen darauf die coloni als subditi (oder umgekehrt) ihre Rechte gegen den Souverain. Nur auswärts kan es nicht verkauft werden.
+
+**7977.**   ψ3--4.   J 93. Souverain ist der Oberherr, Selbstherrscher Beherrscher, der nicht Unterthan ist; (g Souverainetät, Oberherrschaft).
+
+Monarch ist der Oberherr.
+
+Monarch als Souverain ist Selbstherrscher, Autocrator.
+
+**7978.**   ψ3--4.   J 93. *Cives sunt, qui partem oneris publici ferre possunt potissimum ad* *defensionem.*
+
+**7979.**   ψ3--4.   J 94. Die despotische Regirung ist die patrimonialregirung (Land wie haab und Gut); patriotische Regirung, als solle der Souverain es eben so der Regirungsart nach seinen Nachkommen hinterlassen. Ist die Regirungsart durch Gesetze geschehen, so kann er es so hinterlassen, denn das ist was bestimtes; hat er aber durch *decreta* regirt, so ist es unmöglich, denn da [AA 19:571] hier keine Regel ist, sondern privateindrüke alles ausmachen, so kan der Nachkomme und selbst das Volk nach ihnen nicht richten. Patriotisch von *patria* nicht *pater*, denn die Väterliche Regirung (nach dem princip der Glückseeligkeit), *regimen paternale*, ist die ärgste.
+
+**7980.**   ψ3--4.   J 94. 95. J 94: (g Machtsprüche in der despotischen Regirung. )
+
+J 95: Der Unterschied zwischen despotism und patriotischer Regirung betrift nicht die Regirungsart sondern das wirkliche Regiment. Daher kan man von keinem Reich sagen, es sey *ein despotisch Reich* sondern es *wird despotisch regirt*. Allein Rusland würde ein solches seyn, wenn der Monarch seinen Nachfolger ernennen dürfte.
+
+Militärische Regirung ist ein Wort ohne Begriff, denn wenn das militär regirt, so ist eigentlich keine Staatsverfassung, sondern das Militär macht die oberste Gewalt aus, welche nicht durch Gesetze sondern durch tumulte Magistrate ein- und absetzt. Es ist ein *status belli*. Wo aber die ganze Verfassung auf den Krieg angelegt ist, wie bey sparta, da ist nicht militärische Regirung.
+
+**7981.**   ψ3--4.   J 96. *b.)* Der Souveraine Wille ist der, welcher nach einem Grundsatze, der auch für den Staat unter jedem Nachfolger gelten kann, beschließt. Also ist der *despotism* ein Wille, der sich erniedrigt. *e. g.* Besondere Religionsmeynungen aufzudrängen, weil der Nachfolger andere haben kann.
+
+Der Souverain wird nur durch das, was unter seiner Würde ist eingeschränkt, denn nichts ist über sie. Also nicht durch des Volks recht gegen ihn, sondern weil er sich selbst unter das Volk mengt. Der Wille des Souverains muß auch *in Zukunft unabänderlich* seyn in Ansehung seines Grundsatzes, denn sonst wäre er jetzt schon ein tadelhafter Wille.
+
+[AA 19:572] **7982.**   ψ3--4.   J 98. Der allein nicht unter dem Gesetze steht, ist der Monarch. Wenn er allein zugleich Gesetze giebt, ist er der Souverain (*Autocrator*). Wenn er zugleich das Gesetz in besonderen Fällen in Ausübung bringt, administrirt oder richtet, so ist er despot. Denn ich muß über den, der nach dem Gesetze mich bestimmt, klagen können; es muß also einer über ihn seyn, sonst ist mir alle Gerechtigkeit benommen; (g es ist, als ob ich gar nicht unter dem Schutze der Gesetze stände. ) Der Despot ist ein Tyrann, wenn er wieder die Gesetze und ungeachtet der Gesetzmäßigkeit der Handlungen die Freyheit raubt, die mit dem Gesetze wohl zusammenstimmt.
+
+Der Gesetzgeber kann nicht unrecht thun, weil nach seinem Gesetz erstlich, was unrecht ist, beurtheilt werden soll. Doch muß der Gesetzgeber alleinig die Gewalt haben, und alle Gewalt (welche die des Ganzen Volks ist) geht von ihm aus. Diese Gewalt bestimmt nicht, was recht ist, sondern beschützt und vertheidigt es nur.
+
+**7983.**   ψ3--4.   J 99. Was ein Volk nicht thun kann, das kan auch ein jeder Souverain nicht thun. Er kan nicht administriren und richten, weil ein Theil über den anderen alsdenn beschließen könnte und also unrecht thun könnte, dennoch aber keiner über demselben ist, der jedem sein Recht sicherte. Er kann Gesetze geben, mehr nicht. Das andere ist unter seiner Majestät.
+
+Das Volk aber kann einzelne Personen zu Ämtern ernennen unter der Bedingung, sie ihnen Zu nehmen, wenn es ihm beliebt, aber es kann nicht strafen und richten. Denn im ersten Falle kann der Beammte selbst einwilligen, im Zweyten nicht.
+
+**7984.**   ψ3--4.   J 99. Die Regirung und der Richter sind verbunden, nach Gesetzen zu regiren und zu sprechen. Daher sind sie unter den Gesetzen, also kann der souverain weder regiren noch richten. Er hat aber *potestatem instituendi* und *inspiciendi*.
+
+[AA 19:573] **7985.**   ψ3--4.   J 99. Der nicht unter dem Gesetze steht, ist entweder *externus*, ein wildfremder, *exlex* und gehört nicht zum Gemeinen wesen, oder er gehört dazu, als0 nur als Gesetzgebend und nicht als Glied des gemeinen Wesens, das wiederum den Gesetzen unterworfen ist. Der vom Gesetz überhaupt unabhängige kann nur ein einziger seyn, denn viele (aristocraten) müssen ein Recht unter sich haben. Der Monarch muß für sich allein keine Gewalt haben, der Volkswille muß ihm wiederstehen können. Er muß daher nicht das Gesetz geben können.
+
+**7986.**   ψ? υ--χ? ρ??   J 99. Die *Potestas exsecutoria* (das Staatsoberhaupt als Regirer) ist das Recht desselben, daß nach den Gesetzen ein staat bestehe, folglich der den Staat seiner Einrichtung nach den Gesetzen conform macht, d. i. die Verfassung oder den Zustand desselben so einrichtet, daß den Gesetzen gemäs einem jeden (g auch dem Staat selbst) das seine bestimmt und erhalten werden könne, oder welcher Macht hat, den Zustand des gemeinen Wesens (den Staat) so einzurichten und zu erhalten, daß er als nothwendig ist, damit die Gesetze darinen ihre Wirkung haben. -- *Potestas iudiciaria* ist die Macht, welche den Gesetzen gemäßen Effect in (g Ansehung der Glieder des Gemeinen Wesens gegen einander bestimmt) vorkommenden einzelnen Fällen bestimmt.
+
+Also 1. die Substanz des Staats in den Gesetzen, 2. dieser ihre Caussalität, 3. die Gemeinschaft.
+
+**7987.**   ψ? υ--χ?   J 100. Die Gesetzgebung muß *ex voluntate communi* hergenommen seyn und nicht *ex arbitrio qvodam privato et in favorem*.
+
+Wenn der *summus imperans* ein allgemein Gesetze giebt, so handelt er wie ein souverain; wenn er decrete giebt, die Befehle aber nicht allgemeine Gesetze sind und doch als souverain nicht von ihm appellation entweder auf ein wirklich Gesetz oder überhaupt auf allgemeine Gesetzgebung erlaubt, so handelt er als despot.
+
+[AA 19:574] **7988.**   ψ3?   J 101. Zu der maiestät des *summi imperantis* wird erfodert, daß er nicht unrecht thun könne, weil er sich selbst den Unterthanen gleich macht. Er kann also Gesetzgeben und regiren aber nicht administriren und richten. Das erste durch minister und magistraete gouvernement, das zweyte durch magistrat und richter.
+
+**7989.**   ψ3--4.   J 102. Im Staat muß eine einige *potestas legislatoria* seyn; diese muß zugleich die höchste irresistible Gewalt haben. Nun kan sie zwar aus mehreren Personen oder Theilen bestehen, die alle einen Antheil an der Gesetzgebung und Gewalt haben, aber nicht aus solchen, die zwar gesetzgebend aber nicht gewalthabend* seyn, weil sie sonst keinen durchs Gesetz obligiren können, indem sie nicht zugleich dabey schützen können. Es kan aber der, so die Oberste Gewalt hat, Unrecht thun, indem er sie ganz an sich reißt, aber, weil er nun das Oberhaupt der Gerechtigkeit ist, s0 thut jedermann unrecht, der wieder ihn Gewalt braucht. Also hat er als Staatsoberhaupt immer recht, obzwar als Mensch unrecht.
+
+J 103: **(g** * Der Staat muß einen einzigen Souverain (g Beherrscher Herrscher -- ist er einzeln Selbstherrscher) haben, der allein Gesetzgebend und auch allein Gewalthabend ist. Nun kann keiner den Souverain in Ansehung der Gesetze einschränken, also muß es ein Theil des Souverains seyn, der den andern einschränkt und dazu auch volle Gewalt hat. Denn wäre das nicht, so hätte dieser Theil zwar Gesetzgebendes Ansehen aber nicht eine ihm Gemäße Gewalt. Der Souverain aber, dessen Gesetzgebung eingeschränkt wird, hat nicht das Ganze Gesetzgebende Ansehen, und da ohne dasselbe und ohne das Recht auch keine Gewalt seyn kan, würde ihm Gesetzmäßig auch nicht alle Gewalt zukommen, d. i. er wäre kein Souverain. Wenn er nun aber ein solcher ist aber unter *pactis constitutionalibus* der Einschränkung auf die Einstimmung anderer vom Volk, so hat dessen *Privilegium* nicht gesetzgebendes Ansehen sondern nur das Recht der remonstration, welches kein Recht ist zu wiederstehen sondern zu imploriren, welches kein strenges Recht ist, und vom Souverain auch genommen werden kann.
+
+[AA 19:575] Die Unterthanen werden selbst durch die resistentz gegen den souverain in ihrer Sicherheit laedirt, denn diese ist der Grund ihres *pacti* *civilis* und bey dessen Veränderung seiner Gewalt, und daß er resistibel wird, sind sie nicht gesichert. Selbst ein *vsurpateur*, wenn er einmal alle Gewalt hat, thut zwar dem Kronprätendenten Unrecht, aber das Volk hat kein Recht zu resistiren, denn es hätte entweder alle dazu gehörige Gewalt aber ohne Abdankung des Souverains bekommen, so wären im Augenblick zwey Souveraine, oder es hätte sie nicht, so wäre kein völliger Gesetzgeber, weil die Gewalt vor dem Gesetz vorher geht. **)**
+
+**7990.**   ψ3--4.   J 102. Es ist nur eine rechtmäßige Regirungsart möglich, nemlich die aus einem Staatsoberhaupt und dem Volk besteht. Selbst in der Aristocratie müßte das Volk noch einen repraesentanten haben, der an den Gesetzen theil hat und auch Gewalt besitzt; aber das Volk kan wieder durch zwey einander einschränkende Glieder einen.
+
+**7991.**   ψ3--4.   J 102. Was müßte aber wohl der Souverain thun, wenn er wirklich dem Volke einen Einflus auf die Gesetzgebung, also auch eine Gewalt einräumen, mithin sich aus einem souverain in einen Monarchen verwandeln wollte: Er müßte das Ganze Volk berufen und sie darüber rathschlagen lassen; denn sonst könnte die Sicherheit vieler für ihre Rechte unter einer getheilten oberen Gewalt leiden.
+
+**7992.**   ψ3--4.   J 103. Es ist keine Möglichkeit, sich eine Constitution zu denken, worin daß Volk gesetzmäßig ein recht bekäme, den Souverain zu beurtheilen, zu richten und ihn abzusetzen, ja auch nur ihn im Mindesten einzuschränken. Denn da mußten sie auch dazu eine Gewalt haben, und da nur ein Souverain seyn kann, so wäre der erstere nicht souverain.
+
+**7993.**   ψ? χ?   J 104. Die Frage ist, ob es zum Gesetz genug sey zu sagen, ein Vergehen werde bestraft werden, oder nöthig sey zu sagen, wie und wie sehr es werde bestraft werden.
+
+[AA 19:576] Wenn der Gesetzgeber straft, so ist es nicht nöthig, wohl aber den Gerichten.
+
+**7994.**   ψ3--4.   J 104. Worauf gründet sich die *potestas puniendi*? nicht auf die Einwilligung eines ieden, gestraft werden zu wollen, sondern auf den Willen eines ieden, ieden andern zu strafen.
+
+**7995.**   ψ3--4.   J 104. Die Strafe muß in dem Gesetze selbst bestimmt werden und zwar nicht um der Verbrecher sondern des *Publici* und ihrer Freyheit willen in Ansehung der Willkühr des Richters. Sonst dem Verbrecher kann nicht Unrecht geschehen.
+
+**7996.**   ψ3--4.   J 104. Recht habe ich auch im *statu naturali* und bin dabey noch frey. Weswegen bin ich denn in den *statum civilem*, wo ich Befehlen gehorchen muß, getreten? Um meines Rechts gesichert zu seyn. Erstlich, wenn es sollte bezweifelt werden, damit ein öffentlich Gesetz da sey, auch ein Richter, der den Fall unter dem Gesetze subsumire; Zweytens aber, mein nunmehr ausgemachtes durch Gewalt zu unterstützen. Also ohne eine solche Gewalt bin ich im *statu naturali*. Der aber, welcher sie sich anmaßt, ohne in der Constitution, daß und wie er sie brauchen solle, ihm bestimmt sey, ist Rebell.
+
+**7997.**   ψ3--4.   J 105. An der Gesetzgebenden Macht hat niemand einen (g wirksamen) Antheil als derjenige, dem durch das constitutional Gesetz auch eine hinreichende Gewalt und Befugnis zu dem Gebrauch verliehen ist, jedem, der dem Gesetze gehorcht, sein Recht zu sichern. Einen Unwirksamen Antheil kan jemand daran haben, nemlich durch *votum consultativum in* remontrairen. Wenn nun in dem constitutionalgesetze etwas versprochen ist, daß die Einstimmung (g negativer Antheil zu verweigern) von jemanden erforderlich zum Gesetz diesem aber gar keine Befugnis zum Gebrauche [AA 19:577] irgend einer Gewalt gegen den Gesetzgeber oder seine Werkzeuge verliehen ist, so hat dieser das Volk, so fern es jenem Theilnehmer an der Gesetzgebung gehorcht, keinen Schutz zu hoffen und dieser Hof thut selber unrecht, das Volk zum Wiederstande zu bewegen, nämlich er thut dem Volk unrecht. Aber auch dem Souverain, weil das votum des Hofes nur consultativ war.
+
+**7998.**   ψ3--4?   J 106. Es ist 1. Frage, ob ein Souverain noch jemanden seinen Dienst nehmen könne. Ohne dessen Verbrechen. Hier muß man sich vorstellen, daß das Volk sich selbst einen Volkdiener Gewählt habe. So bald dessen Dienst eine besondere Lebensart ist, bey der er seine andere Angelegenheiten als Heyrath, Vorsorge für künftiges lebenswieriges Auskommen fortsetzen muß, so kan es über sich selbst nicht die Unbeständigkeit eines solchen Amts beschließen, denn sonst wäre es eine bloße comission. 2te Frage, ob er die nach Zeitumständen im Werthe fallende Besoldung erhöhen müsse. Es ist eben so nothwendig, als daß er sie nicht verringern dürfe, weil hier nicht der Mann sondern das Amt, was so besoldet seyn muß, daß es einen tüchtigen und thätigen Mann hoffen kan, in Betrachtung kommt. Ausserordentliche Fälle, nämlich Staatsnoth, machen Ausnahmen.
+
+**7999.**   ψ4? ω?   J 108. Das Unter dem Staatssystem ist 1. das administrationssystem (Regirung und Magisträte (g Gouvernement)), 2. das Beschatzungssystem (*quaestura*), 3. das Policeysystem. In allen diesen ist die Regirungsart der Grund der Staatverwaltung und der Unterschied zwischen Staatsunterthan und Staatsbürger oder Stadtbürger zu machen. Staatverwaltung ist von Staatswirtschaft unterschieden. Das letztere nach dem physiocratischen System, nach welchem in Ansehung der ersten Lebensbedürfnisse der erste Verkäufer allein beschatzt wird und dafür den Preis machen kan, das zweyte oder nach dem physiopathischen System, nach [AA 19:578] welchem aller Schätzung das Princip des freyen Verkehrs zum Grunde liegt. Der Souverain muß *nie den Preis machen*, nicht allein nicht in der Staatsverwaltung sondern auch nicht, wo er selbst Käufer ist. Er muß *nicht handeln* nicht *landbauen*, nicht *künste für seine Rechnung* treiben lassen. -- Die Auflagen müssen auf den Grundbesitz (g Amt) und Verkehr niemals aber auf Personen den Kopf gelegt werden, weil dieses der Bevölkerung zuwieder ist, deren Größe der Maasstab der guten Verwaltung ist.
+
+**8000.**   ψ3--4.   J 117. *Armenanstalt.* Hülflose Arme müssen ernährt und, wenn sie Kinder sind, gepflegt werden. Warum? weil wir Menschen und nicht Bestien sind. Dieses folgt fließt nicht aus dem Rechte der Armen als Bürger sondern aus ihren Bedürfnissen als Menschen. Nicht schuldfreye; denn da würden es wenige seyn. Wer soll sie ernähren? Es ist nicht die Frage, ob der Staat oder der Bürger, Denn wenn sie der Staat ernährt, so ernährt sie auch der Bürger, sondern nur, ob es vom freyen Willen des Bürgers oder vom Zwange abhängen soll -- als Geschenk oder als Contribution (Steuer). Das letztere bringt Concurrenz der Candidaten zur Verpflegung hervor: es ist ein *Modus acqvirendi* und auch ein *titulus* der Ansprüche. Wer aber soll die Hülflosigkeit bestimmen? Der Magistrat, der seine Bürger kennt? Und der Beytrag geschieht durch collecten durch die, welche selbst hiebey am freygebigsten sind. Die Aufmunterung und Verweise im Allgemeinen durch Geistliche. Alles Privatwohlthun kann bleiben, aber es wird von Magistrat und Geistlichen ignorirt. Es sind *opera supererogationis*.
+
+**8001.**   ψ3--4.   J 117. Es ist die Frage, ob durch einen Fonds oder durch jedesmalige Beyträge. Ein jedes Zeitalter muß seine Armen ernähren, weil sonst zuletzt derer, die genährt werden und die darin beqvemer leben, als das Zeitalter es im Stande ist, zu praestiren. Die Armuth entspringt oft aus Mangel des Fleißes oder der Sparsamkeit, und so muß auch die Austheilung unter Armen geschehen. Aus einem Fonds aber würde eine disproportion des
+
+[AA 19:579] Wohllebens der Armen und der wohlhabenden entspringen. Es ist wie mit dem Getränke, welches wohlfeil gegeben wird. Es wird eben so viel als sonst verzehrt.
+
+**8002.**   ψ3--4.   J 118.   Zu § 131 Schluss: Policey ist die Einschränkung der Freyheit weder durch das Recht einzelner Personen noch durch das Recht der ganzen Societät sondern durch das Beste aller. Denn das erste gehört zur öffentlichen Gerechtigkeit, das Zweyte zum Bestehen des Ganzen als Staat, was aber einem jeden Schaden kan, ob es gleich keinem wirklich Unrecht thut als die Vertheurung der Preise (Taxen), die Dienstlosigkeit derer, die kein Gewerb haben, die Bordels --.
+
+**8003.**   ψ? χ?   J 119. Der *summus imperans* kan keine religion gebieten und verbieten, weil darüber selbst der privatwille des subditi nicht disponiren kan. Er kan auch die öffentliche Bedienungen nicht auf die Bedingung einer gewissen religion setzen (außer wenn diese einen *imperantem* hat, der vom *summo imperio* exionirt ist), denn die Unterthanen haben, wenn sie nichts verbrechen, ein recht auf Bedienungen des Staats. Man sieht, er muß nur darauf sehen, daß Gelegenheit da sey, alle Religionskentnisse zu erwerben. Allgemeiner Friede der Lehrer derselben und Anhänger und es den Unterthanen selbst überlassen oder den Wissenschaften, die Religion zu bestimmen. Der souverain mengt sich sonst in Geschäfte, die unter ihm sind.
+
+**8004.**   ψ3--4.   J 120. *Vtrum pertineat ad statum civilem, vt qvisqve religionem publicam* *aliqvam profiteatur. Vtrum religio qvaelibet opus habeat confirmatione* *summi imperantis. Vtrum religionis reformandae tentamina* *publica sint licita.*
+
+**8005.**   ψ3--4.   J 120. Wo die Religion, wie die Menschen sie sich selbst vorstellen, in lauter
+
+[AA 19:580] Gebräuchen besteht wie bey Griechen und Römern, da ist sie ein Theil der Staatsregirung durch Aberglauben und da hat der Staat recht, einen aberglauben zu privilegiren.
+
+Wenn sie aber in Gesinnungen und moralischen Grundsätzen besteht, für deren wahrhaftigkeit das Gewissen stehen muß; wo sie in Begriffen besteht, die die Vernunft allein sich machen kann, die niemals nachahmend sondern selbst denkend seyn muß, wenn sie die moralische Gesinnung bestimmen soll, da kan man sich nach keiner Regirung als der moralischen Richten, die Gott allein führen kann. Doch kan der Souverain negativ vieles anordnen.
+
+**8006.**   ψ3--4.   J 120. 121. 120: Alles ist unter der Würde des Souverains, wo er gegen das Volk Unrecht haben kann und also der Vernunft nach dem Urtheile des Volkes unterworfen ist. Nun kann er in der Religionsbestimmung unrecht haben; folglich muß er sie dem Volke (dem publicum) überlassen. Noch mehr ist es unter seiner Würde, 121: die *Placita* seiner Unterthanen durch sein Gesetzgebendes Ansehen zu bestärken, denn alsdenn ist er ein Werkzeug der Gesetzgebenden Macht der Geistlichen (die er nicht Priester zu werden erlauben darf).
+
+**8007.**   ψ3--4.   J 121. Zum Staat gehört außer dem *summo imperante civili* noch ein *summus imperans universi*. Von dem aber Gefragt wird, ob die Unterthanen diesem Unmittelbar nach ihren Begriffen oder nach der Vorschrift des *imperantis civilis* (der doch hier auch *subditus* ist) dienen sollen.
+
+In Ansehung der natürlichen Religion kan und muß der *imperans* *Civilis* alle Freyheit geben, weil das Volk diese Freyheit als zur Pflicht der Menschheit gehörig selbst nicht aufgeben kan.
+
+**8008.**   ψ? χ?   J 124. Der Staat kann verhindern, daß niemand anders lehre, als worauf er berufen worden, aber kann nicht verhindern, daß nicht jedermann vorschläge zur allgemeinen Verbesserung öffentlich thue.
+
+#### [AA 19:581] De monarchia.
+
+**8009.**   ψ3--4.   J 141. Die oberste Gewalt eines einzigen ist die monarchie.
+
+Die alleinige Gewalt --- --- --- --- --- der despotism*.
+
+Die alleinige Gewalt überhaupt, es sey eines einzigen oder mehrerer, ist die souverainetät.
+
+* (g sonst heißt Despot derjenige Monarch, der seinen Willen dem Princip eines allgemeinen Willens nicht unterordnet. Folglich wenn er selbst richtet oder durch Rescripte, die nicht Gesetze werden können, verfährt. )
+
+**8010.**   ψ3--4.   J 142. Der Monarch ist es entweder der Regirung oder dem *imperio* nach. Im ersten Falle ist er der einzige, der unter keinem steht und dessen Gewalt, im zweyten ist er Souverain.
+
+Eben so aristocratie ---, daß volk kan sie nicht absetzen.
+
+Bey der democratie ist die souverainetät lediglich beym Volk und die bestellt die Regirung.
+
+**8011.**   ψ.   J 142. *Monarcha est solus nemini subiectus.*
+
+*Despotes est monarchia omnia quaelibet imperans*.
+
+**8012.**   ψ3--4.   J 142. Daß nur ein einziger *exlex* seyn kan, folgt daraus, weil wieder einen solchen kein richter ist und er auch nicht unrecht thun kan. Nun muß aber einer, der nicht unter Gesetzen steht, dem andern, der auch nicht darunter steht, als zwey gleich freye Personen unrecht thun können, und doch ist kein Gesetz, durch welches sie eingeschränkt werden.
+
+**8013.**   ψ3--4.   J 142. Der Monarch, der zugleich Souverain ist, ist Despot, wenn er nicht blos durch Gesetze sondern auch durch Decrete, die kein Gesetz zum Grunde haben, beschließt oder den Staat administrirt.
+
+[AA 19:582] **8014.**   ψ3--4? χ??   J 143. Es kan nur einen im Staate geben, der nicht unter dem Gesetze ist, nämlich den, welcher die oberste executive Gewalt hat. Denn wären mehrere, so würde es eine noch höhere executive Gewalt geben müssen würden sie alle beyde die Oberste executive Gewalt haben müssen, folglich zwey gleiche welches unmöglich ist, denn die oberste Gewalt ist die des gantzen Volkes. Der Monarch als Regent setzt den Magistrat und das *Forum* ein aber kan sie diese nicht absetzen, ausser so fern sie durch andere Richter condamnirt seyn; denn sonst hätte er Richterliche Gewalt. Er nimt sich Minister, diese aber stehen unter Gesetzen, und demnach muß er durch sie verfahren. Er selbst kann nicht unrecht thun.
+
+**8015.**   ψ? υ--χ?   J 143. *Princeps* ist der, unter dem alle magistraete stehn; dieser kann nicht unter Gesetze stehen, sonsten müßte so wohl das richterliche Ansehen als die executive Gewalt über ihm seyn.
+
+**8016.**   ψ? χ?   J 143. Ob eine souverainetät vom Volke einem Monarchen konte aufgetragen werden und sich darauf sein *ius absolutum illimitatum* gründe. Wenn er alle Gewalt hat, so hat niemand ein *ius strictum* gegen ihn.
+
+**8017.**   ψ4--ω3.   J 143. Der Monarch ist ein Befehlshaber, der allein nicht unter dem Gesetz ist. Er muß also doch mit gesetzgebend seyn, weil wenn er es gar nicht wäre, er entweder unter dem Gesetze stehen oder Befehle geben würde, die nicht Gesetze zum Grunde hätten.
+
+**8018.**   ψ4--ω3.   J 144. Das Volk kan zwar einen contract mit dem Fürsten machen, dadurch es sich ihm wozu obligirt, indem es ihn dagegen respectiv auf sich verbindet aber nur, so fern es selbst die souverainetät hat und behält. Denn der aus einem Contract auf sein Recht provocirt, muß zugleich die Befugnis und Macht zu zwingen haben. Hat also nicht das Volk die souverainetät, so [AA 19:583] kan es nicht zwingen und sich auch zu nichts obligiren, gleich als ob es einen freien Willen hätte, denn es wird zu allem durch den Souverain gezwungen. Eben darum aber hat auch der Souverain, wenn er vom Volke unterschieden ist, sein Vorrecht nicht aus einem Vertrage sondern blos *facto*, weil kein Vertrag zu einem passiven Gehorsam möglich ist: sondern die höchste Gewalt steht zugleich dem Rechte vor. Wenn also ein König das Volk in seinen repraesentanten zusammen beruft, um den Staat zu reformiren, so hält sie nun keine Verbindlichkeit ab, dem Staate eine ganz andre Form zu geben, und sie können so fort die Souveränetät an sich nehmen.
+
+**8019.**   ψ3--4.   J 148. 149. 149:
+
+Was vor Auflagen ein Monarch befehlen will, ist würde die Sache des Volcks gegen den souverain seyn zu beurtheilen, welches unmöglich ist; aber wie er sie distribuiren repartiren will, ist die Sache eines theils des Volks gegen das andere, und da kan der monarch Unrecht thun, wenn er zum Vortheil des einen und Nachtheil des Andern die Eintheilung macht. Hierüber hat also das Volk ein recht zu urtheilen.
+
+Die souverainität hat bey einer wohl disciplinirten Armee den Vortheil, daß daraus das größte Weltbeste entspringen kann, weil alsdenn ieder frey schreiben darf so wohl in Ansehung der Religion als Gesetzgebung, welches freye Staaten vielleicht zwar einräumen aber zu befolgen nicht wagen können, weil bey ihnen jede Neuerung aufruhr oder Verlust der freyheit droht. Allmählig wird eine solche regirung patriotisch. Der Weltpatriotism bewegt den philosoph das zu wünschen. 148: Mit der Zeit wird der souverain nicht durch eine so unendliche Kluft von seinem Volke getrennt, daß er unter keinem das Volk aber lediglich unter seinen Gesetzen steht. Sondern er wird *collegia* haben, die auch Macht besitzen, die als magisträte inviolabel sind aber doch unter dem Gesetze stehen, dadurch wird die Gute Regirung sich immer bessern und auf die Nachkommen fortpflanzen können. Die Gewalt aber einzuschränken kommt darauf an, daß Officire zugleich magisträte sind.
+
+[AA 19:584] **8020.**   ψ3--4.   J 150. 1. Der Beherrscher, Souverain. 2. Das Staatsoberhaupt oder Oberherr. Monarch.
+
+Ist der Monarch zugleich Souverain, so ist er despot, (g Selbstherrscher, der nicht allein Gesetz giebt sondern auch regirt). Usurpirt er die Souverainetät, so ist er Tyrann, obgleich seine Verwaltung nicht barbarisch sondern civil seyn kan.
+
+Ist er nicht Souverain, so steht er zwar nicht unter den Gesetzen, aber alle unter ihm stehen unter Gesetzen und müssen also für das hafften, was sie nach seinem Befehle thun.
+
+Die Monarchische Souverainetät oder der Despotism, die sich selbst* einschränkt, ist patriotische regirung.
+
+Ist der Regent unter dem Souverain, so muß der Souverain zugleich regiren, welches sich wiederspricht. Also ist alsdenn jener ein bloßer Staatsverwalter nach Vorschriften.
+
+Der Rath des Souverains in der Staatsverwaltung ist der minister. Die execution des Befehls des Souverains sind Beamte, officianten. Die Beamte, die zugleich richten, sind Magistraete.
+
+* (g auf die Bedingungen des allgemeinen Volkswillens --, die so seinen Privatwillen nicht dem allgemeinen zum Gesetze macht, despotisch. )
+
+**8021.**   ψ.   J 151. Wenn er etwas decretirt er durch decrete ohne Gesetze regirt 1. indem er besondere Lasten auferlegt nach Gunst und Abgunst, 2. Wenn er selbst Richter ist.
+
+**8022.**   ψ.   J 151. Despot kann auch ein Guter König seyn, wenn er nach seiner Idee von Volcksglükseeligkeit und nicht des Rechts der Menschen, das aus ihrer freyheit fließt, regirt.
+
+[AA 19:585] **8023.**   ψ.   J 176. Ob ein Staat ein Erbgut eines andern Staats seyn könne. Nein. Denn der Staat hat seine natürliche Freyheit und unabhängiges interesse und nun wird er von dem interesse eines andern Staats abhängig. Also verliert er seine Selbständigkeit. Von einem, der ihn allein besitzen soll, kann er geerbt werden, denn alsdenn bleibt er im Ganzen immer *sui iuris* und wird kein *pertinens* eines andern Staates. Der neue Herr, acqvirirt nicht so wohl den Staat, als er succedirt den vorigen, so daß der Staat nur den Nahmen des Oberhaupts verändert. Es ist keine Veränderung sonst vorgegangen, als unter wie wenn eine generation der Bürger der andern folgt. Vorher war er ein Ganzes, jetzt wird er ein Theil.
+
+Ob ein Theil eines Staats zu einem andern durch ein *pactum pacis* könne geschlagen werden. Da er erstlich mit einem andern ein gemeinschaftlich interesse aus gehabt hat, so fängt er ein anderes an. Sein interesse wird wenigstens ohne seine Einwilligung verändert, er ist also nicht unabhängig als Staat. Denn dieser Nahme begreift Volk und Souverain.
+
+**8024.**   ψ.   J 177.   Zu § 191: *laesio vel per damnum datur vel per delictum*.
+
+**8025.**   ψ.   J 177.   Zu § 191, 2. Hälfte: *utrum praecepta divina sint, qvae non sunt leges morales ob internam* *bonitatem actionis datae sed sanctiones non nisi metu poenae extorqvendae.*
+
+**8026.**   ψ.   J 177. Strafe ist das Zwangsmittel, den *Gesetzen* achtung zu verschaffen. Laesionen einer Person werden abgewehrt aber nicht bestraft in *statu naturali*, weil da kein äußeres Gesetz ist.
+
+[AA 19:586] **8027.**   ψ.   J 177. Wenn jemand einen andern Bürger desjenigen beraubt, dessen er nach dem *pacto civili* theilhaftig seyn solte, so beraubt er sich selbst auch des Vortheils aus dem *pacto*.
+
+**8028.**   ψ? υ--χ??   J 179.   Zu § 194, Anfang: Ob dem Rechte zu strafen eine Verbindlichkeit, Strafe zu leiden, zukomme? ja, so fern die Verbindlichkeit iuridisch aber nicht so fern sie moralisch genommen wird, d. i. so fern noch eine besondre Strafe auf die wiedersetzung gelegt werden kan, die der Strafrichter mit Recht ausübt. Also muß der Richter nur die Strafe als *poenam correctivam*, die aus gütigkeit gegen den Verbrecher ausgeübt wird, zugefügt wird, ansehen; denn er erwartet noch ferner von ihm Handlungen aus Verbindlichkeit. Aber bey der *poena vindicativa*, Todesstrafe ist es anders.
+
+**8029.**   ψ? υ--χ??   J 179. Alle Strafe im staat geschieht wohl zur correction und zum Exempel, aber sie muß allererst um des Verbrechens an sich selbst willen gerecht seyn, *qvia peccatum est*. Der Verbrecher muß nicht über Unrecht klagen können.
+
+**8030.**   ψ4--ω3.   J 178. Alle Strafe müssen die *poenas vindicativas* (die der Bosheit angemessen sind) nicht überschreiten, ausser in *casu necessitatis*, wo selbst ein Versuch mit dem Tode bestraft werden kan.
+
+**8031.**   ψ4--ω3.   J 176. *Contra Beccariam*. Niemand kan wollen, daß er gestraft werde. Denn die Strafe ist gerade etwas, was ihm wieder Wunsch und Willen zugefügt wird, sonst wäre es keine Strafe. Er kan es aber wollen, so fern er sich in einer eingebildeten Person vorstellt, nämlich wie andere ihn allenfalls beurtheilen könnten, daß er etwa auch ein Mörder seyn könnte. Über diese eingebildete Person, also über einen moralisch anderen, als er [AA 19:587] selbst ist, verhängt er die Strafe. --- Einer, der sich bewust ist, er könne wohl einmal ein Mörder werden oder Dieb oder Betrüger, kan in so fern sein Gesetz geben. Alle geben ein Gesetz für alle, so fern keiner weiß, wie er gesinnet seyn werde, doch so, daß ein jeder sich für seine Person redlich glaubt.
+
+**8032.**   ψ4--ω3.   J 176. Ob alte Stiftungen für die kirchliche Verfassung sammt denen Prälaturen und Einkünften, ohne jemand zu lädiren, können aufgehoben werden. So bald der Begrif von der Landesreligion nicht mehr existirt, so hört auch jene Stiftung auf. So waren z. B. solche Summen zum Messelesen für Verstorbene legirt. Der Glaube hört auf und der Staat wendet es nach der analogie des vormaligen Willens an Aussatzen.
+
+**8033.**   ψ3--4.   J 178. 179. 178: Ein *delictum publicum* kan nicht verziehen werden, weil das Recht oder die Sicherheit des Volks nicht weggegeben werden kan. 179: Ein *delictum privatum* kan verziehen werden. Daher ist es demjenigen, der dadurch leidet, einerley, wie der *laedens* ihn befriedige und er kan es ignoriren, weil es eine Sache zwischen ihm und andern privatleuten ist aber nicht, wenn die *laesio* ein *delictum publicum* war; denn da dadurch der ganze Staat lädirt wird, so muß er den *laedentem* nicht in Nothwendigkeit versetzen durch ein ähnliches *delictum*, das erste zu vergüten.
+
+**8034.**   ψ3--4.   J 178. Keinem Unterthan komt es zu, sich selbst Genugthuung zu nehmen (g *Satisfactio privata* ). *non est iudex in causa propria*. Er laedirt dadurch seine Mitbürger aber auch seine Obrigkeit und das *summum imperium*. Aber er kan sich in *casu necessitatis* gegen Gewalt vertheidigen.
+
+**8035.**   ψ4--ω3.   J 178. 179. 178: Die *iustitia punitiva* hat zur Absicht: 1. den Unterthan aus einem schlimmen in einen besseren Bürger umzuwandeln; 2. durch warnende
+
+[AA 19:588] 179: Beyspiele andere abzuhalten; 3. unbesserliche aus dem Gemeinen Wesen, es sey durch deportation, *exilium*, oder Tod wegzuschaffen (ob durch Gefängnis). Aber alles dieses ist nur Klugheit der politick.--- Das Wesentliche ist die Ausübung der Gerechtigkeit selbst alsdenn noch, wenn die Verfassung aufgehoben würde.
+
+(g Ob auch Experimente mit Missethätern der medicin halber gemacht werden dürfen. )
+
+**8036.**   ψ.   J 181. Das recht zu strafen gründet sich nicht auf ein pactum sondern unmittelbar aufs Gesetz. Denn alle Gesetze sind strafgesetze. Die Art der Strafe ist einerley, als Strafe kommts nur auf den Grad an, und der ist gerade dem Bösen, was als That angesehen werden kann, gleich. Würde das Strafgesetz ein besonder *pactum* voraussetzen, so müßte man wiederum ein *pactum* machen, wenn jemand sich der Strafe entzöge, ihn denn zu bestrafen.
+
+**8037.**   ψ? χ?   J 180. Wenn eine Gesellschaft um eines beliebigen Zwekes willen Zusammen tritt, so kann sie sich nicht zu Lebensstrafen verbinden. Tritt sie aber zu dem durch die Natur nothwendigen Zwek zusammen, eine bügerliche Gesellschaft zu stiften, so ist die obligation zu allen unter andern auch Todesstrafen nothwendig.
+
+**8038.**   ψ? ρ? χ??   J 180.   Zu § 195, Schluss: *non denegandi satisfactionem publico*.
+
+**8039.**   ψ4--ω3.   J 180. aber die Bedingungen dieser Begnadigung muß ihm das Naturrecht vorschreiben nicht zum Nachtheil der öffentlichen Sicherheit. Gnade hat kein Princip aber wohl Billigkeit in Ausübung der gesetzlichen Gewalt. Die Nachlassung der strafgerechtigkeit heißt nur Gnade in Ansehung des Verbrechers. Der Souverain muß sich auch darüber *rechtfertigen*, weil es an sich ungerecht ist, von einem allgemeinen Strafgesetze einem zu [AA 19:589] Gunsten eine Ausnahme zu machen, so wie wenn der Fürst aus dem öffentlichen Schatze den unverdienten belohnete. Da alsdenn andere dieses hergeben müßten. Er muß also einen rechtlichen Grund der Strafmilderung anführen können, der allen zum Besten dient. Der Richter muß ihm den Verbrecher empfehlen.
+
+**8040.**   ψ? χ? ρ?   J 181. Der *summus imperans* kann nicht eine strafe vor die andere setzen sondern muß hiebey das Urtheil des Ganzen zu rathe ziehen. Er muß strafen nach dem Maaße als die unterthanen selbst den Werth worin setzen. Nun hat bey ihnen das Leben den größten Werth.
+
+(s Er kan nicht begnadigen in dem, wovon die Sicherheit aller abhängt, aber wohl die Verletzung in dem, was blos die formalien des Rechts betrift, vergeben. )
+
+**8041.**   ψ3--4.   J 182. Alle Strafen und Belohnungen sind entweder *vorkehrende* oder *vergeltende* (*praemunientes vel rependentes*). Die vorkehrende sind entweder *Exempelstrafen* oder *Züchtigungen*. Die Vergeltende zeigen an, daß sie das Übel, welches das Verbrechen anrichtet, ihn selbst fühlen lassen und sind möglich nach aller Regel der Weisheit. aber in der Staatsverfassung, da nicht auf die Moralität gesehen wird, nicht rathsam. Doch müssen sie als vorkehrungsstrafen zuvorderst gerecht seyn. Sie sind als bloße Mittel wohl erlaubt aber nur als Vergeltungen gerecht.
+
+Die Vorkehrende Belohnungen müssen auch nicht über das Verdienst zu Handlungen antreiben.
+
+**8042.**   ψ4? ψ?   J 182. Die Strafen der Androhung (Abhaltung der Verbrechen) müssen um so größer seyn, als die Versuchung dazu größer ist; sie sind aber gemeiniglich um deswillen gegen den einzelnen desto ungerechter, nur dem Rechte der Bürger angemessen. Dagegen könnten sie um desto kleiner seyn, wenn die Versuchung dazu kleiner ist. Beydes ist nur die Strafe als Mittel betrachtet.
+
+[AA 19:590] Betrachtet man sie aber moralisch nach dem absoluten Unwerth des Menschen in dieser Handlung, so müssen sie desto größer seyn, jene kleiner. Die Versuchung war, aber sie mußte als eine solche nicht angedroht werden. Es ist also hier ein Wiederstreit zwischen der Androhung und der moralischen Strafwürdigkeit oder auch Bestrafung.
+
+**8043.**   ψ3--4.   J 184. Das Volk kan nicht durch Aufruhr (*seditione*) seine Freyheit vindiciren sondern nur durch das ihm in der constitution zustehende Recht, wenn der *summus imperans* das *pactum fundamentale* gebrochen hat und zwar durch nicht durch eine neue angemaaßte Gewalt sondern vermittelst derjenigen, die es nach dem *pacto fundamentali* immer gehabt hat, nach einem Gesetze, welches ihnen diese zusammt der Schranken derselben bestimmt hat, so daß das *summum imperium* jederzeit ununterbrochen bleibt nach der Form der constitution und nicht zwischeninne der *Status naturalis* eintritt, denn in diesem hören sie auf, ein Volk zu seyn, es ist kein Gesetz, kein Oberer gegen welchen Gehorsam Pflicht ist. Ein Aufrührer, so fern er das Recht des Oberherrn verletzt, ist rebell. Nicht jeder Aufrührer ist Rebell, nämlich derjenige nicht, welcher sich dem Gehorsam desjenigen Herrschers entzieht, der selbst dem Fundamentalvertrage Abbruch gethan hat. Denn er thut ihm nicht unrecht, gleichwohl aber kan er doch Unrecht thun in Ansehung des Völkerrechts überhaupt (*scandalum iuris gentium*, indem er die Achtung fürs bürgerliche Gesetz schwächt oder aufhebt, auf dem das Heil eines gemeinen Wesens beruht). Man nehme nur einen allgemeinen Aufruhr des Volks an, so legt er zum Grunde, daß seine Pflicht zum gehorchen aufgehört, dieweil aber, weil nicht schon der nun an die stelle des entsetzten Herrschers zur Gesetzgebung und Regirung berechtigte da ist, keiner Gehorsam fodern kan und so ein *status* *naturalis* entspringen würde, so muß der, so des Volks rechte vertheidigt nach der constitution, immer schon den Regenten theils in der Gesetzgebung theils verwaltung eingeschränkt haben. Er muß aber alsdenn auch eine Gewalt besessen haben, weil er die, von denen er Gehorsam fodern soll, muß schützen können. Alsdenn ist es aber auch kein Aufruhr, weil der Wiederstand gesetzlich ist. Wo das nicht in der constitution liegt, da hat [AA 19:591] das Volk sich dem Guten Willen ihrer Oberherrschaft überlassen, und jeder Aufruhr kan als Ungerecht nicht gegen den fürsten sondern gegen das Volksrecht überhaupt beurtheilt und im Nahmen des Volks bestraft werden, weil dieses, da niemand ausser dem Fürsten befugt ist zu gebieten, durch den Aufruhr in *statum naturalem* versetzt wird. --- Alles, was durch Rottirung (*per turbas*) geschieht, ist dem Staatsrechte zuwieder.
+
+**8044.**   ψ3--4? ω?   J 185. Die Frage: wer soll Urtheilen bey einem gebrochenen *pacto*, kan leicht beantwortet werden. Aber wer soll richten, d. i. rechtskräftig Urtheilen, so daß Gehorsam aufgesagt wird? Das kan in England das parlament, weil das schon gewalt hatte, aber keiner im Volk *per turbas*.
+
+**8045.**   ψ3--4? ψ?   J 185. Alle Staatsverbesserung durch revolution ist unrecht, weil der Grund dazu nicht in den Rechten des vorhergehenden Zustandes liegt und also zwischen diesem und dem folgenden ein *status naturalis* eintritt, da kein äußeres Recht ist. -- Es ist eben so bey religionen. Man kan keinen noch reformirt nennen sondern nur protestantisch gegen die Usurpation einer Autorität über die Gewissen und ein Zustand der fortdauernden Arbeit zu reformiren, welches Recht durch die freyheit bewirkt wird.
+
+**8046.**   ψ3--4.   J 185. 174. 185: Das Volk muß durchaus repräsentirt seyn und als ein solches auch nicht allein Recht zum Wiederstande sondern auch Gewalt haben, damit ohne Aufruhr es seine freyheit recuperiren und dem Regenten den Gehorsam versagen könne.
+
+Eigentlich muß es so heißen: das Volk muß keinen Augenblik aufhören, ein Ganzes zu machen, denn sonst geschieht alles *per turbas*, d. i. durch usurpirte Gewalt, die auf jemanden nicht rechtlich übertragen werden. Also muß es repräsentirt worden seyn, wenn es sich gesetzlich absondern und wiederstehen kan.
+
+Es kan sich zutragen, daß, wenn ein Staat seine Regirungsart änderte, er so fort seinen Nachbarn zu schwach seyn würde. Der große Haufe hat hier keine Stimme, denn dem ist es einerley, wem er angehört, aber der Staat will sich erhalten und muß sich erhalten. *vid. p. 174.*
+
+[AA 19:592] 174: *vid. p. 184.* Herrschaft ist die Unterwerfung des Willens einer Person oder vieler unter die absolute Willkühr eines einzigen Willens (es mag nun seyn einer einzelnen Person oder der Vereinigung vieler). Alle Herrschaft ist *facto* vsurpirt, *iure* soll sie constitutional seyn. Denn vsurpirt ist dasjenige Recht, welches ohne ein *pactum* oder *delictum alterius* acqvirirt worden. Die Herrschaft über Menschen ist eine Sache, welche als *res iacens* eines Besitzers bedarf, weil Menschen nur in einer Gesellschaft unter Gesetzen rechtlich existiren können (dies ist der *Status* der Menschen) und sie wird als *res nullius* von dem ersten Besitznehmer occupirt. Mit der Zeit wird das *imperium* constitutional; so lange, ob es gleich nur vsurpirt ist, muß es doch respectirt werden. Das *imperium* des Herren über den Knecht oder Leibeigenen ist seiner Natur nach nicht constitutional sondern occupirt entweder *occupatione bellica* oder *vsucapione* und muß einmal constitutional werden. Es ist keine constitution, wenn nur einer Gesetze giebt und der andere ihnen passiv unterworfen ist. Weil aber vor aller Berathschlagung über die Form der constitution die Vereinigung in einem cörper vorgehen muß, diese aber schon von einigen nach einem gewissen Plane veranstaltet seyn muß, welcher die Berathschlagende vereinigt, so ist alle regeneration einer gewesenen und nun aufgehobenen Verfassung wiederum nur vsurpation (*per turbas agitur*), und die Erlangung der Oberherrschaft durch Aufstand ist jederzeit vsurpation.
+
+Die Oberste Gewalt ist ihrem Begriffe nach uneingeschränkt. Sie kann aber aus der wechselseitigen Einschränkung des Willens derer, die dem Gesetz gehorchen sollen, indem sie es zugleich geben, entspringen. Alsdann ist es ein *imperium patrioticum*. Ist aber irgend ein Wille, der nicht der Wille des Ganzen ist, uneingeschränkt, so ist es Despotie, es sey des Adels oder des gemeinen Volkes oder des Prinzen. -- Von der Knechtschaft der Mongolischen Völker gegen die Tataren und Araber davon den Mittleren die Freyheit gefährlich ward.
+
+**8047.**   ψ3--4.   J 174. Wenn darum, weil der Oberherr sein Versprechen gebrochen hat (dadurch [AA 19:593] er allerdings seines Rechtes verlustig geworden) das bürgerliche Band aufgelöset ist, so haben die Aufrührer darum nicht sogleich ein neues. Alte obrigkeiten haben ihr Ansehen, welches sich auf eine comission des oberhaupts gründete, verloren. Es soll nunmehr eine neue Autorität entspringen, oder es muß vielmehr eine schon daseyn, um die form der Gleichheit zu wege zu bringen, die zur freyen Einrichtung nöthig ist. Aber da macht die größere Gewalt die Einrichtung.
+
+**8048.**   ψ3--4.   J 174. Endlich frägt es sich, ob, wenn ein Souverän die ganze Nation zusammenberuft und sie sich vollständig repräsentiren läßt, er alsdann die Rechte eines Souverains in dieser Zeit behalte? Er ist war nichts mehr als Stellvertreter, Statthalter, mit welchem das Volk nicht Contract gemacht hat sondern ihm blos seine Rechte zu vertreten aufgetragen hat. So lange er dieses thut, kann er alle Bewegungen des Volks hindern, dadurch sie sich zu constituiren Vorhabens sind. Hat er sie aber einmal zusammen berufen und constituiren sie sich, so ist seine Autorität nicht allein suspendirt, sondern sie kann gar aufhören, wie das Ansehen eines jeden repraesentanten, wenn sein Machtgeber selbst gegenwärtig ist.
+
+**8049.**   ψ3--4.   J 174. Zwischen dem Souverain und dem Volk findet kein *pactum* statt, welches eine Bedingung enthielte, deren Nichthaltung einen theil berechtigte, dasselbe aufzuheben. Denn in der Überlassung der Allgewalt ist schon die renunciation auf alle Befugnisse der Wiedersetzung enthalten. Es ist also kein contract sondern ein *pactum gratuitum* (g kein contract) und auch als ein *expressum* wäre es *illicitum*. Es ist also *tacitum*, weil das Volk sich unvermögend fühlt, sich selbst zu beherrschen. --- Wenn aber der monarch als Souverain sich selbst unvermögend fühlt, den Staat zu erhalten und beruft das Volk durch seine repraesentanten den Staat zu erhalten, so ist dieses wiederum kein contract sondern, da er nur Stellvertreter des Volks war, eine Niederlegung seiner Würde.
+
+**8050.**   ψ1--2? χ??   J 188. Der souverain thut als tyrann auch Unrecht und ihm geschieht also [AA 19:594] kein Unrecht; er verliert auch alle Ansprüche, wenn er vertrieben worden, aber das Volk hat das recht nicht, ihn zu vertreiben. Ein ieder beyder Theile thut in solchen fällen Unrecht, obgleich er dem Andern kein Unrecht thut.
+
+**8051.**   ψ1--2? χ??   J 188. 189. 188: Es ist alles* erlaubt, wo wieder kein äußerliches Gesetz da ist, und es ist kein äußeres Gesetz, ohne daß ein competenter Richter constituirt sey, welcher darnach richte und eine Gewalt, jederman demselben Gemäs zu zwingen. Nun kan über den souverain keine richterliche Gewalt und kein rechtmäßiger Zwang seyn, weil sonst nicht er sondern diese Macht souverain seyn würde. Also kann kein äußerlich *coram foro humano* gültiges Gesetz, welches den souverain einschränkt, gefunden werden.
+
+Das Volk hat kein Recht, als worin auch ein äußeres Gesetz da ist, und geheime Rechte, die sich nicht in äußeren Gesetzen declariren lassen, sind usurpationen. Gewalt also gegen den souverain ist jederzeit den Grundsätzen aller civilverfassung zu wieder. Aber alle Unterthanen können doch verbunden seyn werden, den Gesetzen, die die Macht des Monarchen einschränken, zu gehorchen, und es kann ein Gericht seyn, welches ihre Handlungen, die sie auf Befehl des souverains 189: thun, beurtheilt und richtet. Auf solche Weise kann ihm aller Gehorsam entzogen werden. Es frägt sich aber, ob er denn nicht aufhöre Oberhaupt zu seyn. Ia aber er kehrt in den *statum naturalem*, weil aber der Staat doch ein Oberhaupt nöthig hat, so wird dieser nöthigen, entweder als Unterthan zu leben oder das Land zu meiden.
+
+189: * (s Wo das Volk solche Rechte nicht hat, da ist es unerlaubt, gegen den Monarchen Gewalt zu brauchen. Denn setzet, es stütze sich auf sein Naturrecht, so muß dieses doch auch ein civilgesetz haben werden können, ia werden sollen, weil die bürgerliche constitution alle Rechte des Volks und des souverains bestimmen enthalten muß. Das Volk hat also sein Recht aufgegeben und vernachläßigt und hat kein Recht. Weil aber doch die Gewalt das Volk außer Stande setzen konte, dieses zu thun, so scheint es, als habe es auch ein Recht zur Gewalt. Aber Gewalt, vor welche kein rechtskräftig Urtheil vorher geht, ist unrechtmäßig, folglich kann es sich nicht wiedersetzen außer in denen fällen, [AA 19:595] welche gar nicht in die *unionem civilem* kommen können, *e. g.* religionszwang. Zwang zu unnatürlichen Sünden: Meuchelmord *etc.* *etc.* )
+
+**8052.**   ψ3.   J 189. Wenn das Volk selbst seine deputirte wählt, wenn diese den Staat verkaufen, so kann es nicht klagen noch hat ein recht zu Gewalt ---.
+
+**8053.**   ψ3--4.   J 190. Alles vergebliche Recht, welches so beschaffen ist, daß, wenn es durch ein öffentliches Gesetz bekant gemacht würde, sich selbst aufhebt, ist unrecht, z. B. daß das Volk als bloßer Unterthan seinen Souverain verändern solte, oder auch nur das Staatsoberhaupt (der nicht Beherrscher ist aber doch die oberste Exsecutive gewalt hat), *e. g.* England.
+
+**8054.**   ψ3--4.   J 190. Despotisch ist die Regierung, welche in welcher der Souverain das Volk als sein Eigenthum behandelt. Selbst die Democratie kann despotisch seyn, wenn ihre Constitution ohne Einsicht ist, z. B. wie die atheniensische, welche ohne rechtliche Ursachen nach vorgeschriebenen Gesetzen jemand blos durch Mehrheit der Stimmen zu verurtheilen erlaubte. Das Volk kann sich selbst nicht einmal als Eigenthum betrachten. --- Es kann despotische Regirungen geben, es giebt aber keine despotische Staatsverfassung, d. i. constitution durch den allgemeinen Willen des Volks und zwar nach einem förmlichen Gesetze.
+
+Patriotisch ist die Regirung, wenn der Souverain das Volk sein Land als Vaterland betrachtet und dessen Organisation als die seiner eigenen Person betrachtet. Nur in einer patriotischen Verfassung kan es constitutive, d. i. eigentliche organisation, geben.
+
+**8055.**   ψ4? ω1--3?   J 190. 191. 190: In Frankreich* konnte die Nationalversammlung die constitution ändern, ob sie zwar nur, um das Creditwesen der Nation in Ordnung zu bringen, zusammen berufen war. Denn sie waren Repräsentanten des Ganzen Volks, nachdem der König erlaubt hatte, nach unbestimmten Vollmachten zu decretiren. Der König repräsentirte sonst das Volk; hier war er [AA 19:596] also Vernichtet, weil das Volk selbst gegenwärtig war. In Grosbrittannien kan man nicht sagen, der König repräsentire das Volk, sondern er mit den Ständen zusammen genommen macht allererst das Volk aus und ist in Ansehung jener *primus inter pares*. Also kommt das Unglük des Königes, nachdem er einmal alle Volksdeputirte sich hatte versammeln lassen, gerade von seiner Souveränetät her, er war alsdenn nichts; denn seine Gesetzgebende Gewalt gründet sich nur darauf, daß er das ganze Volk repräsentirt; daraus erhellet191: auch die Ungerechtigkeit einer einzelnen Person als Souverains. Er kan nicht zugeben, daß der, welchen er repraesentirt, sich selbst darstelle. Weil er das Ganze vorstellt, so wird er nichts, wenn er dieses Ganze, von dem er kein Theil sondern nur dessen Stellvertreter ist, sich selbst stellen läßt. Wäre er ein Theil, so könte ohne seine Beystimmung das Ganze niemals statt finden und ein gemeinschaftlicher Wille entspringen, welcher zu oberst gesetzgebend ist. Kan aber nicht auch ein Souverain stände zusammen berufen? Ia, aber nur um über die Rechte, die ein Stand gegen den andern in Ansehung des allgemeinen Willen des Königs hat, zu deliberiren, da der König dann die dritte Stimme hat. Also war das Coalesciren der Stände gerade das, was einer Macht gegen den König erhob.
+
+191: * (g Die Nationalversamlung wurde berufen, um den Staat dadurch zu retten, daß sie alle durch den Aufwand der Regierung auf ihn gelegte Schulden durch ihre Guarantie deckten (nicht blos Entwürfe machten). Sie mußten sich also mit ihrem Eigenthum freywillig verbürgen (g sie mußten sich also in einen Zustand setzen, da sie allein über ihr Eigenthum disponiren konnten, mithin in den Stand der Freyheit zwar unter Gesetzen aber solchen, die sie selbst gaben, d. i. einen republicanischen oder einen freybürgerlichen), und der Hof hat damals das Recht, sie zu belasten, selbst aufgegeben. Damit sie aber jene Bürgschaft leisten konnten, mußten sie eine constitution, die keine Gewaltthätigkeiten über sie ausüben könte, errichten. )
+
+**8056.**   ψ3--4.   J 200. Der Völkerbund ist keine allgemeine Monarchie. Denn alsdenn wären [AA 19:597] die *cives* nicht völker, welches doch hier Gefodert wird. Ein solcher Bund wäre aber schweer möglich, wenn die Staaten nicht jeder für sich ein Freystaat wäre.
+
+**8057.**   ψ3--4.   J 200. Wir sehen das Völkerrecht in *statu naturali* derselben nur als einen Inbegrif von Gesetzen an, um sich dem *statui pacis* zu nähern und in dessen Ermangelung sich selbst so lange sein recht zu verschaffen.
+
+**8058.**   ψ3--4.   J 201. Es ist eine abscheuliche maxime des tyrannischeren Völkerrechts *pacisque* *imponere morem --- parcere subiectis et debellare superbos*, die maxime alles zu bekriegen, was sich nicht unterwerfen will *regere imperio* *populos romani memento parcere subi (hae tibi erunt artes*, dieses kann weggelassen werden). Es kann nichts ungerechter seyn, als die Gütigkeit zum princip des Staats oder Völkerrechts zu machen, da man sich selbst zum Besorger der Glükseeligkeit anderer aufwirft und ihnen die Freyheit nimmt, um sie nach seiner Meynung glüklich zu machen.
+
+**8059.**   ψ.   J 203. Der Streit der Staaten unter einander ist gleich dem Streit der Familien, ob eine jede unter einander ihre Sachen schlichten und disponiren soll oder sie einem andern übergeben. Daher die Bestrebung zur allgemeinen Monarchie und die entgegengesetzte, der Zertheilung in kleine Staaten.
+
+**8060.**   ψ3--4.   J 216.   Zu § 233: Weil ein ieder Friede, wo keine restriction beygefügt wird, ewig ist, so wird dadurch festgesetzt, daß niemand an demienigen, was der andere Theil zu der Zeit besitzt, noch Ansprüche habe. Es wäre sonst eine *pacificatio* *dolosa.* Also sind alle Ansprüche auf dasienige, was ein Staat schon vor dem Frieden mit einem andern Staat besaß, wenn sie nicht im Frieden erwähnt werden, erloschen.
+
+#### [AA 19:598] Ius belli gentium.
+
+**8061.**   ψ2--3. χ??   J 234. 234. 234: Das Völkerrecht ist ein recht im Zustande (*iuridice*) des Krieges, d. i. des Mangels öffentlicher Gerechtigkeit, und es giebt also kein anderes Princip desselben, als daß alle Handlungen des Volks in Ansehung anderer unter den Bedingungen stehen, unter denen allein die Stiftung einer öffentlichen Gerechtigkeit, d. i. ein Völkerbund, möglich ist. Darauf gründet sich das Recht zum Kriege und das Recht im Kriege. Das erste hat solche Ursachen an dem Feinde zum Grunde unter welche der Möglichkeit eines allgemeinen Völkerbundes Hindernisse, welche in einem allgemeinen Völkerbunde nothwendig verboten werden würden, daß Zweyte solche Bedingungen, unter denen allein ein allgemeiner Völkerbund möglich ist. Denn wenn gleich keine öffentliche Gerechtigkeit da ist, so sind doch Völker an das gebunden, wodurch sie allererst möglich ist.
+
+Im Kriege ist es nicht erlaubt Giftmischen und Meuchelmord, weil dadurch die Sicherheit selbst im allgemeinen Völkerbunde würde aufgehoben werden, weil sich diese Handlungen gänzlich der öffentlichen Gerechtigkeit entziehen.
+
+Stand bedeutet entweder eine Stelle, die jemand einnimmt in relation gegen andere, woraus die Gesetze seiner Verhältnisse abzuleiten sind, Zustand bedeutet die wirkliche Modification in diesem Stande. Der *Positus* oder die station muß an sich Principien involviren, die für jeden Zustand gelten. Das Naturrecht in *statu hominis vel civis*. Da er gegen andre Menschen blos als Mensch ohne Verpflichtung gedacht wird (doch ist *potentia* *obligatio*), nämlich ohne willkührliche und keinen Richter oder Gesetzgeber hat. 235: Der Rechtszustand ist entweder der des Kriegsrechts oder des Friedensrechts.
+
+**8062.**   ψ.   J 235. Der Krieg ist nur in so fern ein *modus licitus ius suum perseqvendi*, als er aus solchen Gründen oder maximen entspringt, die nicht den Krieg allgemein nothwendig machen; also muß er sich mit einer allgemeinen friedlichen Gesinnung zusammenschiken.
+
+[AA 19:599] **8063.**   ψ.   J 235. Bey einem rechtmäßigen Kriege muß blos die subsumtion unter eine gute maxime strittig seyn. Die Gute maxime ist diese, welche die Befolgung aller Regeln des Rechts in sich schließt. Der Erfolg böser maximen, *e. g.* sich blos seiner Übermacht zur Vergrößerung zu bedienen, ist, daß keine Gesinnung zum Frieden statt findet und daß der Krieg unendlich ist so wohl in aller Zeit als von allen gegen einen. Daher ist der Krieg, der nothwendig gegen sich den allgemeinen Willen der Ausrottung hat, ungerecht. Also muß die maxime des Staats, der Krieg führet, auf die bricht ab.
+
+**8064.**   ψ.   J 239. Recht woran thun und ein Recht zu haben ist nicht einerley. Eine neutrale Macht thut Recht, einer der Kriegführenden alles zuzubringen. Aber sie hat kein Recht (*ius quaesitum*) dazu. Aber der Kriegführende hat ein Recht, seinem Feinde alle Hülfe abzuschneiden, also auch den Zuführenden die Zufuhr abzunehmen. Ausser wenn sie sich darüber vergleichen.
+
+**8065.**   ψ.   J 240. Die Macht eines Staats wächst. 1. Durch innere Verbesserung seines Wohlstandes. 2. Durch Vergrößerung seiner Kriegsverfassung (z. B. Flotten bauen, neue Corps stiften). 3. Durch anbau neuerworbenes *territorii* als *rei vacuae*. 4. Durch Erbschaft, Kauf, Tausch. 5. Durch *occupationem* *bellicam*. Der erste wachsthum giebt keine Ursache zum Kriege, weil sie keine Anstalt zum Kriege enthält. Alle andere haben keinen andern Grund als den Anwachs der äußern Macht, folglich der Vermehrung der Gefahr für andere.
+
+Einzelne Menschen in *statu naturali* können gezwungen werden mit andern in *statum civilem* zu treten. Auch Völker, die keine eigentliche bürgerliche Verfassung haben, so daß ein benachbartes civilisirtes Volk wieder einzelner Personen Gewalt bey ihnen Gerechtigkeit finde. Aber Völker können einander nicht so in den *Statum civilem* Zwingen, daß eines den andern oder mit dem andern einen gemeinschaftlichen Herrn erkenne, es sey denn daß seine Läsion den Frieden auf alle Zukunft vergeblich macht, und da kann dieses auch nur mit Zustimmung anderer Geschehen.
+
+[AA 19:600] Ein einzelner Mensch, weil er keine andere Sicherheit wegen künftiger Beleidigungen leisten kann, ist iuridisch nur *accidens*, welches nur existiren kan *inhaerendo*. Ein bürgerliches Ganze ist Substanz.
+
+Es ist die Frage, ob die Verwandlung der substantzen in*accidentia* oder dieser in substantzen der Zwek der Menschheit und Pflicht des Staats gegen sich selbst sey, sich als besondern Staat zu erhalten und diese Pflicht nicht könne aufgegeben werden. Im letzteren Fall bleibt Einheit des *commercii* (Völkerbund) das einzige, was den Zwek der Menschheit ausmacht, nicht Einheit der Inhärenz, nicht Einheit der dependentz von einem obersten Schiedsrichter sondern der Freyheit jedes einzelnen Staats unter allgemeinen Gesetzen. Autonomie.
+
+**8066.**   ψ.   J 240. *In statu naturali singulorum* gilt das *principium: Qvilibet praesumitur* *bonus, nisi probetur contrarium, in statu naturali gentium:* *qvilibet praesumitur malus, nisi securitatem dedit oppositi. Exeundum* *esse e statu naturali* ist die letzte Norm.
+
+**8067.**   ψ.   J 241. Die *belligerantes* versiren immer *in re illicita*, weil sie *in statu naturae* als *illicito* leben. Um deswillen ist ihnen auch nicht alle Gewalt im Kriege erlaubt, sondern nur so viel als mit der Erhaltung des menschlichen Geschlechts zusammen bestehen kan und als zum *processu* erfodert wird.
+
+**8068.**   ψ.   J 241. Das *principium* ist: ein jeder Krieg muß aus solchem Grunde angefangen oder geführt werden, daß der Zwek damit bestehen könne in einen allgemeinen Völkerbund und =stand Der äußeren Gerechtigkeit zu treten.
+
+**8069.**   ψ? υ--χ??   J 244. Man kann sich keiner andern Mittel gegen einen Feind bedienen, als von denen es möglich ist, daß sie allgemein darin übereinkommen, sich derselben gegen einander zu bedienen. Nun ist nicht möglich, daß sie den Meuchelmord dazu wähleten, weil es weder ein Wettstreit der List noch Gewalt ist, sondern alle Sicherheit der Person selbst im Frieden aufhebt.
+
+[AA 19:601] **8070.**   ψ? υ??   J 244. Der so genannte *status naturalis* ist eigentlich unter Vernünftigen wesen *praenaturalis*, also der Krieg ein *status extraordinarius*, der nur als *casus necessitatis* erlaubt ist.
+
+Der Krieg muß nur als *modus ius suum perseqvendi* angesehen werden und *pacem parare bello* und er muß so geführt werden, daß ein wechselseitig Zutrauen im Frieden möglich sey. Giftmischen und Meuchelmord sind von der Art, daß sie auch im Frieden unvermerkt fortdauern können, wenn man das Kunststück derselben inne hat, und bringen einen Krieg *ad internecionem hervor*, der keine Sicherheit als durch den Untergang des Feindes giebt.
+
+Ein jeder Im Kriege ist nicht alles wechselseitig erlaubt sondern nur so viel, als mit der wirklichen Neigung zum künftigen Frieden zusammen bestehen kan.
+
+**8071.**   ψ? υ??   J 244. Hassassinen ein Schertz der Drusen.
+
+**8072.**   ψ? υ--χ??   J 245.   Zu § 272: Der souverain kann keinen zwingen, spion zu seyn. Denn der spion thut seiner Seits unrecht, der Herr aber thut ihm Unrecht, wenn er ihn zwingt, Unrecht zu thun. Dagegen erkauft er den spion, so thut er ihm nicht unrecht, weil dieser einwilligt, dem Feinde auch nicht, weil *ius laesi* *erga laedentem infinitum* ist.
+
+**8073.**   ψ? υ--χ??   J 246. Wer ist *hostis*: der Bewafnete oder Unbewafnete des feindseeligen staats? Der Bürger, der gäntzlich passiv ist und bereit, jedem zu gehorchen, der Gewalt über ihn hat, ohne feindseelig zu handeln, ist der Gegenstand des Streits, wer ihn beherrschen soll, und man kan ihm nichts nehmen, außer wenn man ihn zugleich sich unterwirft und so gegen jedermann schützt.
+
+Er kan nur seinen Herrn verändern, denn der Krieg wird gegen den Staat und nicht gegen einzelne, folglich nur gegen den souverain als solchen, geführt.
+
+### [AA 19:602] Phase ω.
+
+**8074.**   ω2--3.   L Bl. G 5.   S. II.   R III 17--18. S. II: Pflichten
+
+1.
+
+Allgemeinheit der Gesetze (Vernunft) Particularität der Zwecke (Urtheilskraft) (Gewissen)
+
+2.
+
+Gebote Verbote Erlaubnisgesetze
+
+Bey Errichtung einer bürgerlichen Verfassung (g Gesetzgebung) geht die Gewalt nothwendig vor dem Recht vorher. Denn der mich durch sein Recht dem Gesetze gemäs soll zwingen dürfen, muß mir auch den Schutz für mein Recht gegen jedermann anders sichern; eher hat das Gesetz keine verbindende Kraft für mich, d. i. der Gesetzgeber hat kein Recht.
+
+**8075.**   ω3.   L Bl. E 27.   S. I. II.   R II 107--108. S. I: Bey dem, was man denkt, ist man natürlicherweise aufrichtig. Aber bey dem, was man sagt, und sollte es auch im innersten unserer Seele vor Gott seyn, kan Falschheit einlaufen, sich so auszudrücken, wie man [AA 19:603] wünscht, daß man billig denken sollte. -- Man beurtheilt ein Volk wie Einheit in Ansehung des Verfahrens der Theile unter einander, und in der That ist es eben darum zu thun, diese Einheit hervorzubringen. Eine revolutionäre Regierung sieht man als eine solche an, die schon jetzt constitutionell ist.
+
+Von dem Seinen nach dem Tode z. B. der Ehre, und ob jemand darin lädirt werden könne. Von der Mishandlung des Körpers nach dem Tode.
+
+Vom idealischen Mein und Dein, z. B. in Ansehung des Nachdruckers und dem realen des Verlegers.
+
+S. II: Über die Schwierigkeit des Einverständnisses der Menschen bey einerley Absicht. -- (*e. g.* der gironde mit den Iacobinern.)
+
+**8076.**   ω4--5. (1799).   L Bl. Reicke Xb 14.   S. I. S. I: So wie man sonst der sichtbaren Kirche eine unsichtbare (als ihr Urbild) zum Grunde legte mit der Überschrift: ausser der Kirche ist kein Heil: so sagt man jetzt mit Recht vom politischen Zustande der Staaten und Völker: ausser der Republik ist kein Heil, sondern immerwährender Krieg, nicht immer mit immerwährenden Gefechten, sondern immerwährenden Drohungen zu Bekämpfungen, wenn irgend einer in Zurüstungen und Besteurung des Bürgers zu Kriegsrüstungen nachließe: so heißt es mit Recht: *ausser der Republik ist kein Heil*. -- Eine Weltrepublik würde allenfalls die seyn, wo ein einziger Staat nicht Kräfte (g gnug) hat, die große Republik im Nothfall zu bekämpfen, er doch wieder die Barbaren, welche ihn mit Angriffen bedrohen, in der Lage ist, sich zur Republik zu schlagen oder für sich selbst allein zu sorgen. -- Der Zustand ausser der Republik ist also ein heilloser Zustand, aus dem wir nie herauskommen.
+
+**8077.**   ω3--5. (1795--1799).   L Bl. Reicke V.   S. I--IV.
+
+[AA 19:604] S. I: *vid. C, A* unten.
+
+Hiebey ist es freylich Zufall, wenn diese begonnene Staatveränderung gerade auf ein großes und über sein Interesse aufgeklärtes Volk trifft, da ein kleineres der Gegenrevolution ausgesetzt und so die endlich doch unvermeidliche Umänderung der Dinge verspätet werden würde.
+
+*Allgemeine Anmerkung:*
+
+Was ist das es, was die bloße Zuschauer (g der Revolution) eines sich vorher absolut beherrschten, jetzt sich unter den größten inneren und äußeren Bedrängnissen republicanisirenden Staats Volks mit so lebhafter Theilnehmung und Wunsch zum Gelingen (g dieser) ihrer Unternehmung erfüllt: daß selbst die Unterthanen eines eben so beherrschten, die dergleichen, könnte es auch ohne gewaltsame Revolution geschehen, für sich nicht wünschen (theils, weil es ihnen (g erträglich) wohlgeht, vornehmlich theils am meisten aber, weil die Lage des Staats, dem sie angehören, zwischen den benachbarten keine andere Verfassung desselben (als die Monarchische für den ihrigen) erlaubt, ohne Gefahr zu laufen, daß er aufgelöset werde), daß, sage ich, diese bloße Zuschauer mit Affect daran (g ganz uneigennützigen) Antheil nehmen. -- Das *Factum* ist unbezweifelt wahr und in der Crisis der französischen Staatsumwandlung und unerachtet aller dab damit verbundenen schrecklichen Übel und Greuel nicht blos an dem kannegießernden gemeinen sondern auch dem mit Sachkenntniß räsonnirenden aufgeklärten Mann, bey der ungeduldigen der und heissen Begierde (g desselben) nach Zeitungen und als dem Stoffe zu (g den interessantesten) gesellschaftlichen Unterhaltungen (die darum keinesweges politische Clubbs sind) unverkennbar wahrzunehmen. -- Hieran (g und um einen solchen Enthusiasm allgemein zu erwecken) muß ein wahres oder wenigstens gutmüthig gemeintes Interesse des ganzen Menschengeschlechts dem Zuschauer vorschweben, der sich hier eine Epoche denckt, von welcher an der unsere Gattung nicht länger im (g steten) Schwancken Besseren
+
+[AA 19:605] Zum Schlechteren und so (g wieder) umgekehrt bleiben*, sondern (g immer) zum besseren, wenn gleich in langsamen doch ununterbrochenen Fortschritte, gebracht werden wird. -- **Pitt**, der da will es solle so gar von (g einem anderen benachbarten Staat will, es solle in ihm) beym Alten bleiben, oder ist sey es aus dem Gleise gekommen, so solle es dahin wieder zurückgebracht werden, wird als ein Feind des menschlichen Geschlechts gehaßt, und die (g Nahmen derer), welche die Sachen in Frankreich in die neue Ordnung bringen, die da allein würdig ist, sich ewig zu erhalten, werden für den Tempel des Nachruhms für ihr unsterbliches Verdienst aufgestellt aufgespahrt, um darinn dereinst aufgestellt zu werden. -- England, welches ehedem sonst auf die Theilnehmung der besseren Menschen in der Welt wegen der (g muthigen) Erhaltung ihrer oft angefochtenen (scheinbaren) Freyheit rechnen konnte, ist (g jetzt) gänzlich daraus gefallen, nachdem es die von in Frankreich beabsichtigte, (g auf viel gründlichere Art freye) Constitution wenn sie mit Gefahr des Umsturzes seiner eigenen zu stürtzen bedacht war. -- Um (g einzusehen), was eigentlich der Character das Kennzeichen eines Staats, des der sich der seiner Volksfreyheit rühmen darf, ausmache oder das Gegentheil beweise, wollen war will ich zum den letztern zum Beyspiel vornehmen.
+
+* Ich lege kein sonderliches Gewicht auf den (g moralischen) Beweisgrund, der aus der ewigen Weisheit (einem *Deus ex machina*) genommen werden dürfte, daß diese nämlich dem Menschengeschlecht es nicht verstatten werde, sich ewig der Narrheit übergebe, den Stein des Sisyphus auf eine gewisse Höhe zu wältzen und dann ihn dann wieder zurückrollen lasse, um diese Arbeit von neuem anzufangen sondern sie werde es so einleiten daß. Es ist eine Sache der Freyheit, von der man nichts mit Sicherheit vorhersagen kann. Auch ist es Vermessenheit bestimmen zu wollen, was der obersten die Welt regirenden Macht für ein Verfahren anständig sey. Ob nicht die blosse Mannigfaltigkeit der innern wechselnden und auf unendlich vielerley Art variirten Auftritte das Menschengeschlecht, ohne daß der Mensch hiebey für seine Person Ehre beweise, der Plan derselben sey. Uns geziemt nur nach dem zu forschen, was uns die Natur des Menschen wie wir ihn kennen, und der Gang desselben, so weit wir ihn haben absehen können, für das künftige erwarten läßt.
+
+[AA 19:606] S. II: Wenn ein Welcher Monarch (g aus eigener Machtvollkommenheit) aussprechen darf: *es soll Krieg seyn*, und es ist alsdann Krieg, der ist ein *unbeschränkter* Monarch (g und seyn Volk ist nicht frey. ) -- Der aber, welcher zuvörderst des bey dem Volk öffentliche Anfrage thun muß, ob es einwillige, daß Krieg sey, und wenn dieses sagt, *es soll nicht Krieg* *seyn*, alsdann auch kein Krieg ist, (g der ist) ein *beschränkter* Monarch, (g und ein solches Volk ist wahrhaftig frey. ) -- Nun hat Englands König constitutionsmäßig das Recht zum ersteren, die Republik Frankreich aber noch nur zum letzteren (daß das Directorium den das gesammte Volk repräsentirenden Rath befragen muß). Also hat das Staatsoberhaupt in England absolute, in Frankreich aber nur blos eingeschränkte Gewalt, und das Volk im ersteren ist nicht frey sondern unterjocht, denn welche Lasten kann nun der nicht der Grosbrittanische Monarch nun nicht den Schultern seiner Unterthanen selbstbeliebig auflegen? So große und eine unab auf unabsehbare Zeit drückende, (g in der Folge vielleicht den Gantzen Staat umstürtzende) und selbst die Moralität des Volks direct untergrabende, daß an (g das) Fortschreiten eines des Menschengeschlechts zum Besseren (g in einem großen Theil desselben) nicht allein gar nicht zu denken ist und, obgleich die Kunst der Flor (g und Anwachs) der Künste den Verfall noch eine ziemliche Zeit hinhalten kan, gleichwohl der (g nur um desto gefahrlichere) Einsturtz (g früh oder spät) mit Gewisheit voraus zu sehen ist.
+
+Es ist ein Blendwerk, wodurch man nur Kinder hintergehen kann, daß doch das Volk durch seine Repräsentanten im Parlament die Kosten zum Kriege (auch das gewaltthätige Pressen der Matrosen) dem Könige bewilligen müsse, und sie also abschlagen und dadurch den Krieg verbieten könne. Allein abgesehen (g von der Ungereimtheit), davon daß der König zuerst zuvor den Krieg einem anderen Staate ankündigen und nachher allererst um die Mittel dazu bey dem Volke, das (g sie) abschlagen kann, wenn es will, Ansuchung thun soll, so muß er doch gewiß wissen, daß die Reprä Volksrepräsentanten *den Willen nicht haben werden*, sie abzuschlagen und (der Krieg mag in dies im vorkommenden Falle klug, Gerecht, oder beydes nicht seyn). Wodurch kann er dieses aber gewiß wissen? Weil er alle Macht Mittel in Händen hat, ihren Willen durch den mächtigen Einflus des Eigennutzes zu lenken, wie er will: Die Besetzung [AA 19:607] aller Äm einträglichen Ämter in der Armee, Flotte, Civilgerichten, in der Kirche, ohne der Sinecurestellen nicht zu gedenken. Nun hat ein jeder dieser Volksrepräsentanten, (g wenn er gleich für seine Person uneigennnützig wäre, doch) seine Anverwandten, gute Freunde, die sich zu einer oder anderen dieser Posten und Ämter empfehlen. Der Minister aber, (g der es bedarf, der Stimmenmehrheit versichert zu seyn), schlägt nicht dem, den jener ihm empfiehlt, nicht leicht etwas ab, und die Meisten sind es unter Menschen sind es doch immer die Meisten, bey welchen solche Einflüsse über die Redlichkeit in Vor Vorstellung des gemeinen Besten die Oberhand haben. Also ist, es ohne jene Männer eben darum für bösartig und niederträchtig anzunehmen, doch gar w das Phänomen einer nie ausbl mangelnden Mehrheit der Stimmen auf Seiten des Ministers gar wohl zu erklären, folglich auch den Beweis zu führen, daß die Constitution von Grosbrittanien nicht die eines freyen Volks (g (als welches hiebey kein veto hat) ) sondern eine politische Maschine sey, den absoluten Willen des Monarchen auszuführen. -- Daß die Gesetze jeden Bürger in diesem Lande dawieder schützen, daß der Hof nicht einzelne Personen nach seinen Launen das Ihrige nehme, sie in Gefängnisse werfe (g (die *habeas corpus* *Actu*) ) oder sonst willkührlich behandle, sondern den Gerichten ohne Lenkung der obersten Gewalt es überlassen müsse, ist etwas, womit Englander als einem Kleinod ihrer Verfassung grosthun, was aber auch in Absolutmonarchischen Staaten doch nur so selten geschieht (wie etwa in der *Müller-arnoldschen* Geschichte) und öffentlich vom Volke getadelt wird, daß es wie ein Hagelschlag oder eine Wasserhose dem schönen Wetter nichts benimmt.
+
+S. III: Wenn nun alle (g absolute) Staatsverfassungen durch das Kriegsübel, wodurch sie eine jede die anderen mit der Auflösung bedroht, eine natürliche Tendenz zum Republicanism haben (so daß, wenn sie auch nicht diese Form derselben Form annehmen, doch die Regierung nach dem Geiste derselben sich genöthigt sieht), wenn es unter dem mannigfaltigen Staatswechsel nicht ausbleiben kann, daß nicht (g irgend) einmal es einem mächtigen Volke (g nicht blos) im Schwindel seiner (g egoistischer) Freyheitsansprüche gelinge, welche ihrer Natur sondern in der unvermeidlichen Begeisterung durch Ideen des (g gemeingültigen) Menschenrechts (die doch bey zunehmender Kultur nicht ausbleiben können) nach Principien auf [AA 19:608] diesen Zweck auszugehen, und diesen endlich obgleich unter Greuelthaten (die nicht ausbleiben können, weil (g aus) der affectvollesten Mishelligkeit die leidenschaftlichste Einhelligkeit hervorgehen soll) zu behaupten, nicht gelingen sollte. -- Von da an aber und dieser Wiedergeburt eines Staats, welchem diese fieberhafte innere Bewegung nicht den Tod einer gänzlichen Barbarey zugezogen sondern alle Künste, die zur Cultur gehören, übrig geblieben gelassen hat, von da und der (g auch ausserhalb gesicherten) Constitution desselben an würde sich der Zustand des Menschengeschlechts in fernerem *beständigen Fortschreiten zum Bessern* datieren lassen.
+
+Es kam darauf an, diesen allen wohldenkenden Menschen natür von auch nur etwas erweiterten Begriffen natürlichen *Wunsch auf die Hofnung* anzuknüpfen, welche nöthig ist nicht um etwas wenn man an den nicht blos darum, damit der Weltlauf, so wie man ihn vor sich sieht, dem denkenden Menschen und dieser sich selbst (g endlich) anekele (denn dieses wäre eine ästhetische, müßige und sich mit lieblichen Phantasieren spielende Unterhaltung), sondern, wenn man jenes zu hoffen Ursache hat, seinem Theile nach dahin auch mitzuwirken; also eine Hypothese in (g moralisch) praktischer Absicht, die immer hinreichend gegründet ist, wenn man ihr nur nicht die Unmöglichkeit entgegenstellen kann, welches hier der Fall nicht ist. -- Aber damit über den Wunsch und die Hofnung des Besseren noch die *That* hinzu komme, dazu wird noch eine theoretische Erkentnis (g der beabsichtigten Wirkung und) des Vermögens, wodurch diese Wirkung zustande gebracht werden kann, erfordert. -- Und da ist, was das Erstere betrifft, nicht der Fortschritt in reiner der Moralität menschlicher Gesinnungen sondern nur in Thaten zu verstehen, welche mit Pflichtgesetzen übereinstimmen, ob sie gleich nicht davon (g und ihrem Erkentnis) abstammen. Der Geschmak und die (g ihm gemäße) Kunst werden (so unlauter auch die Ouelle seyn mag) große immerwährend im Guten (mit der Moral übereinstimmenden Nützlichen oder Angenehmen) fortschreiten: Die wechselseitige Annäherungen des Menschen im Umgange, in Dienstleistungen, Stiftungen guter das Talent bildender oder auch Unvermögenden Versorgender Anstalten.
+
+*NB.* Staatsbürgerlich und zugleich Weltbürgerliches Regiment ist in jeder Verfassung möglich.
+
+[AA 19:609] Sich als ein nach dem Staatsbürgerrecht mit in der Weltbürgergesellschaft vereinbares Glied zu denken, ist die erhabenste Idee, die der Mensch von seiner Bestimmung denken kann und welche nicht ohne Enthusiasm gedacht werden kann.
+
+Was ist die Ursache dieses Zujauchssens zu den Siegen jener Nation? Daß diese auf dem Wege ist, diejenige constitution zu gründen, in der alle Nachbarn Friede zu er von ihr zu erwarten haben und diesen Zustand nicht blos seines Nutzens wegen sondern als den einzig rechtlichen über alles hochschätzen, und daß dadurch der Krieg verbannt wird, der Fortschritt zum Bessern eingeleitet wird, welches bey einer constitution des willkührlichen Rechts nicht geschehen könnte. Daß dieses sich aber einmal zutragen muß, davon ist auf kan auch ein einziges Exempel in diesem Gange der Dinge ein hinreichendes Vorzeichen seyn, weil, wenn es auch einen Rückgang erleiden mußte, es doch nie in Vergessenheit kommen kan, um es auf andre Art anzufangen, bis es gelingt, und alsdan fernerhin nicht aufhören kann.
+
+Man kan nicht voraussagen, daß es gelingen werde aber doch sondern nur, daß sie es versuchen und so oft versuchen werden, bis daß es doch einmal gelingen muß.
+
+Es ist in der menschlichen Natur eine Moralische Anlage für den Rechtsbegriff als eine über das Menschengeschlecht in seiner Verbindung herrschende, zu oberst Gebietende Gewalt. vor der sich alles zuletzt beugen muß.
+
+Es ist hier nicht von einer Person sondern von der Idee des der natu in der moralischen Anlage des Menschen befindlichen Anlage Idee des über alle Menschen (g innere) Gewalthabenden Rechts die Rede, und auch das nur darum, weil sie eine rechtliche Verfassung Gründet, dadurch der Krieg nach Grundsätzen verhindert wird, die ein beständiges Fortschreiten zum Bessern wegen der republicanischen Verfassung begründet.
+
+Am Rand: Es ist nur ein Begrif von einer volligen reinen Staatsverfassung, nämlich die Idee einer Republik, wo alle Stimmfähig vereinigt die ganze Gewalt haben (entweder division in der Democratie oder coniunction in der Republik): *Respublica noumenon* oder *phaenomenon*.
+
+[AA 19:610] Die letztere hat drey Formen, aber *respublica noumenon* ist nur eine und dieselbe.
+
+Ein absoluter Monarch kann doch auf republicanische Art regieren, ohne in seiner Stärke einzubüßen.
+
+Mir scheint der Begriff einer eingeschränkten Staatsverfassung einen Wiederspruch zu enthalten: denn sie wäre dann nur ein Theil der Gesetzgebenden Macht.
+
+S. IV: Die Fortschritte des menschlichen Geschlechts (g zum Besseren) nach den verschiedenen auf einander wechselseitig wirkenden Völkerschaften können als Entwickelung (g entweder der) ihrer Naturanlage oder ihrer der moralischen Anlage desselben betrachtet werden. Die erstere sich im Wohlbefinden nach dem Zwecke, den jeder *hat*, die Zweyte im Wohlverhalten nach demjenigen, den jeder *haben soll*, es immer weiter zu bringen. -- Die erstere enthalten Das Zu beyden ist die *Cultur* aller unserer auf beliebige Zwecke gerichteten Vermögen das Mittel, diese zu erreichen, und selbst die der Moralität ist ein solches und (g dient zur Beförderung der) befördert Fortschritte in pragmatischer (auf Klugheitsregeln und dadurch darnach (g diesem Gemäs) auf jedes seine eigene Wohlfahrt ab gerichteter) Absicht; so daß die Politik die Lehre, wenn sie gleich die Moral (g sammt der Religion) für lauter Pedanterey oder bloßes Geziere hält, es doch nicht verschmäht, die Sprache derselben zu führen, weil dadurch auf die Wohlfahrt des Staats (die Einigkeit der Bürger und den Gehorsam der Unterthanen) gewirkt werden kann. Daher es auch noch keine Regierung gewagt, sich frey und offen zu erklären: Recht und Unrecht wären Schimären, auf die sie keine Rücksicht nähme und daß sie dem Zu Folge blos ihren absoluten Willen zum Gesetz mache, sondern sie wendet sich immer an das Rechtsgefühl ihrer Unterthanen als freyer, moralischer Wesen, auf welche sie nie kräftigen Einflus haben kann, wenn sie nicht zugleich dem Rechtsbegriffe derselben, der in der gemeinen Menschenvernunft liegt, wenigstens als einer unumgänglichen Bedingung (*conditio sine qua non*) huldigt und sich ihrem Ausspruche zugleich mit unterwirft.
+
+[AA 19:611] Aber alle diese (g technische, pragmatische und moralische) Cultur kann doch nicht den Krieg, das größte Übel, was dem Menschengeschlecht begegnen kann, (g nicht) verhüten und so auch nicht verhüten hindern, daß selbst im das Fortschreiten des zum Physisch=Besseren (g von Zeit zu Zeit) Hemmungen, ja gar Umwältzungen und Rückfall in Elend oder Verwilderung zu erdulden hätte, wo dann, die Moralität in diesen Umsturz mit verwickelt, dieser Verlust aber nur mit geheuchelten Thränen bedauert wird oder umgekehrt, dem Verfall der Moralität der Verfall des Staats (g in Strafpredigten ans Volk) zugeschrieben, indessen daß es klar einleuchtet, diese Greuel nicht von unten nach oben sondern von oben herab abwerts herabkommen und die Kriegssucht der Beherrscher, nicht die Wiederspenstigkeit des Unterthans, sie herbey führte. -- Diese aber und ihre Anmaßungen abzuwehren, ist nicht anders möglich als durch eine bessere aufs natürliche Recht innerlich im Staate (g selbst) getroffene Verfassung, weil, man mag (g den Einflus) der moralischen Anlage im Menschen (wie der Politiker pflegt) noch so niedrig anschlagen, so ist doch der Anspruch desselben auf aus auf Achtung für sein angebohrnes Recht so mächtig und unbezwinglich ist, daß er nicht ermangeln wird, bey vorkommender, ihm günstigen Gelegenheit Gewalt gegen Gewalt zu versuchen, ob er zwar sonst willig seyn möchte, das äußere bürgerliche Gesetz (aber nicht ganz willkührliche) Gesetz gehorsam zu befolgen. Diese Wiedersetzlichkeit entspringt selbst aus der moralischen Anlage im Menschen; aber statt den Fortschritt zum Moralisch=Besseren zu befördern, bringt sie (weil sie nur durch Veranlassende Gelegenheit aufgeregt worden) gewöhnlichermaßen den Rückgang ins Schlimmere hervor. -- Die Ursache hievon ist, weil jene Gesetze ihn die Befolgung jener Gesetze nicht eigentliche auf Achtung für dieselbe sondern auf Hinsicht zum Vermeynten Nutzen (Erhaltung der Ruhe und der Haabe des Volks) gegründet war, welches eigentlich (g gar) keine absolute (g innere) Achtung sondern nur eine bedingte ist, welche äußerlich innere Achtung sondern eine äußere, dem Gesetzgeber beweisen wird nicht dem Gesetz bewiesene Achtungsbezeigung ist.
+
+Die (g Tendentz zum continuirenden) Fortschritt des Menschengeschlechts zum Besseren ist also eine moralisch-practische Vernunftidee, deren objective Realität daß ihre Ausführung statthaft sey kann also erstlich *nur dann* [AA 19:612] als Wirklich eingetreten angenommen werden, wenn (g *erstens*: ) hinreichende Zeichen da sind, daß gantze Völker innerlich zu Gründung einer Verfassung streben, dadurch endlich der Krieg, der alle gemachte Fortschritte rückgängig macht, aufhört (die ächtrepublicanische, wenn sie gleich bloße Idee ist, der sie sich nur immer annäheren). Zweytens: wenn bewiesen werden kann, daß das Streben zu diesem Zweck nicht etwa bloße Wirkung der Naturanlage, nämlich (g auf) dem Verlangen zur Glückseeligkeit, (g gegründet) sondern Entwickelung der moralischen Anlage im menschlichen Geschlechte sey, welche jenen als Zweck an sich selbst (nicht in der Qualität eines bloßen Mittels zu anderen Zwecken) zum Grunde hat. Drittens: daß der Einflus dieser Idee aufs Gemüth aller Menschen, die einiger Cultur ihrer practischen Vernunft fähig sind, ohne Ausnahme so allgemeine und zugleich tief eindringende Theilnehmung an jenem höchsten Weltbürgerlichen Gut bewirke, daß sie wenigstens dem Wunsche nach der mächtigsten moralischen Triebfeder gleichkommt: als ein *Factum*, über dessen Wirklichkeit man alle Menschen zu Zeugen rufen kann.
+
+Am Rand: Der Krieg kann durch nichts vermieden werden als durch den wahren *republicanism* eines mächtigen Staats --; ohne Vermeidung desselben ist der Fortschritt nicht möglich. Aber selbst der Krieg treibt zum *republicanism* und muß ihn zuletzt doch hervorbringen.
+
+Wie, wenn der Krieg aufhört? Wenn Freyheit und Gleichheit, welche die Ursachen sind, daß kein Krieg entsteht, der cultur auch immer bessere Handlungen und so das Fortschreiten ohne Ende hervorbringen können?
+
+**8078.**   ω1--3.   J 97. Die definition von der *Freyheit* in der Darlegung und Bestimmung der Menschheitsrechte durch die nationalversamlung in Paris heißt ist: Frey seyn heißt alles thun können, was dem Andern *nicht schadet*. -- Ferner das Gesetz darf der Gesellschaft nicht *nur schädliche Handlungen* [AA 19:613] verbieten. Beydes sind falsche Sätze. Denn ich könte vielleicht beweisen, daß dem andern meine Handlung nützte --, aber er ist dabey doch nicht frey.
+
+**8079.**   ω? ψ4?   J 98.   Zu § 113: *Potestas est facultas obligantis, qvatenus non est obligatus. 1. Per* *leges. 2 do. Cogendi secundum leges. 3, in iure dubio decidendi, qvid* *sit legale, qvid minus. Potestas exsecutoria est, qvae effectum legum* *actuandi ius supremum habet. Ergo non potest cogi.* Er ist Regent und bey ihm ist Majestät. Er kan nur in einer republic von dem Souverain verschieden seyn.
+
+Erstlich: die Majestät der Gesetzgebung, das allgemeine des Willens in Ansehung der Freyheit; zweytens: die autorität der subsumtion des Besonderen unter dem allgemeinen in der Regentschaft. Urtheilskraft, drittens Zweckmäßigkeit. 3tens: der Bestimung des einzelnen nach Gesetzen, Gerechtigkeit. Alle 3 Vollmacht *potestas*.
+
+**8080.**   ω? ψ4?   J 99.   Zu § 113, 3: Die erste Macht bringt die Freyheit hervor, die Gesetzmäßig ist, die 2te enthält den Zwang, die dritte jedes recht gegen andre durch den Zwang.
+
+[AA 19:615]
+
+[AA 19:617] **8081.**   γ--δ? η? (ρ?)   L Bl. G 7.   S. I--IV.   R III 25--28. S. I:
+
+Die Fragen sind zwiefach: 1. ob es eine ausserordentliche direction gebe, 2. ob man aus sichern Merkmalen die ausserordentliche direction erkennen könne (g entweder zum voraus oder nachdem sie geschehen).
+
+Beydes entweder *a, a priori* oder *b. a Posteriori*.
+
+a. Nur die erwiesene unzulänglichkeit der ordnung der Natur zu dem ganzen Göttlichen Willen kan eine ausserordentliche direction *a priori* rechtfertigen. z. E. daß die Tugend nicht gnugsam durch die natürliche Folgen belohnt sey, und so umgekehrt das Laster. So ferne man annimmt, daß die freye Handlungen nicht durch die ihre Ursachen nach der Ordnung der Natur necessitirt werden, so wird die Zusammenstimung derselben mit dem Göttlichen Willen so wohl (g in Ansehung) ihrer selbst als ihrer Folgen nicht gänzlich durch die Ordnung der Natur möglich seyn. z. E. das Laster mit der Vorsichtigkeit verbunden, die Frömmigkeit mit der Andacht. Daher wird man einräumen müssen, es gebe eine ausserordentliche direction, und der Bewegungsgrund dazu sey die übereinstimmung der Vernünftigen Wesen mit seinem Willen.
+
+*b.* Nicht die besondere vermuthliche Zwekmäßigkeit kan einen Beweis abgeben von einer ausserordentlichen direction. Die seltenheit ist wohl ein Zeichen des ungewöhnlichen, aber nicht ausserordentlichen, und es gehört mit zur Regel der Ordnung, daß, was nur wenig möglichkeit hat, dann und wann geschehen müsse. Zum Beweise *a posteriori* werden viel Fälle erheischet, von denen man gewiß ist, daß sie einer besondern Regel zufolge geschehen, aber nicht der Regel der Natur, also der ausserordentlichen direction. Nur die Offenbahrung erzählt uns dergleichen.
+
+[AA 19:618] Es stimmt also eine ausserordentliche direction mit dem göttlichen Vollkommensten Willen, und die Bewegungsgründe dazu sind das wohlverhalten (Gebet). Aber wir können niemals auf eine bestimte Begebenheit zu folge desselben eine Anwendung machen.
+
+Aber auch die *bona secundum directionem ordinariam deo sunt accepta* *ferenda*.
+
+Die Zuversicht auf
+
+(s Die ausserordentliche direction ist jederzeit ein Wunder. )
+
+S. II:
+
+In dem Gebrauch der Mittel zu unserer Wohlfarth ist Fleiß und Redlichkeit eine Ursache nach der *ordinaria directione*, Andacht und Gebeth eine Ursache nach der *extraordinaria*.
+
+Beyde müssen nicht einander einschränken.
+
+d. i. ich muß nicht weniger Fleis anwenden als zutrauen auf die ausserordentliche direction, die meinem Gebet conform ist. Türken.
+
+auch nicht weniger devot seyn aus zutrauen auf denn Fleis.
+
+Derjenige der in dem Urtheile über die providentz den Bewegungsgrund determinirt erforschet ist ein vorwitziger Klügling der so aus einem Bewegungsgrunde das göttliche *decretum*.
+
+Wir kennen die erfolge nach der Ordnung der Natur auf eine *bestimte* Weise, nemlich was aus gewissen Ursachen fließen werde, aber die aus der Göttlichen ausserordentlichen direction nur *unbestimt*, daß es Gut sey. Sowohl in der Erklärung als Erwartung.
+
+(g 2. ) Ausserordentliche direction beym Tode. Schlachten. Heyrathen. proportion der gebliebenen Officiere und Gemeinen.
+
+(g 3. ) In wiefern die ausserordentliche direction ein Trost sey? Da nemlich mein Verhalten ein Grund wird der Rathschlüsse. Nothwendigkeit des Gebets: moralische Pflicht, der Klugheit. Nützlich.
+
+(g 5. ) Das Gebet geht nicht allein auf die ausserordentliche, sondern auch auf die ordentliche direction.
+
+[AA 19:619] Beso
+
+(g 1. ) Was aus der Erfahrung sich von beyder Art der direction schließen läßt.
+
+Besondere und allgemeine Vorsehung
+
+(g 4. ) Man hoft die wirkungen der besonderen Vorsehung in der andern Welt. Weil der göttliche Zwek, nemlich das Heil der creatur, bekant ist, so ist es einerley, ob es durch die ordentliche oder außerordentliche direction geschehe.
+
+Von den Reden der Menschen, die anstatt der natürlichen Ursachen immer die Göttliche Führung nennen. So Gott will.
+
+Von der besondern und allgemeinen Vorsehung.
+
+S. III:
+
+Wenn man eine allgemeine Vorsehung zugiebt und eine besondere verneint, so will man so viel sagen: die Vorsehung gehet the auf alle von einer gewissen Art, d. i. in so fern sie das *genus* gemein haben; in so fern sie aber individuale Unterschiede haben, *e. g.* Orter, besondere Moralische Handlungen *etc.*, so gehe auf sie nicht die Vorsehung.
+
+Diejenigen, welche ein Zutrauen durch das andere einschränken, *e. g.* den Fleis und Klugheit durchs gebeth, von denen kan man sagen, daß die letztere am meisten verliehren.
+
+eine Handlung der außerordentlichen direction, in sofern sie das *complementum* der ordentlichen giebt, ist *concursus dei*.
+
+S. IV:
+
+Die Begebenheiten stehen unter der ausserordentlichen direction, wenn die subordination derselben unter dem göttlichen ausserordentlichen Willen potential ist; ist sie actual, so geschehen sie durch denselben.
+
+Alles, was einem Willen conform und auch damit Verbunden ist (als *conditio sine qua non*), ist entweder damit *accidentaliter* verbunden (negativ) oder *essentialiter* (positiv); sie sind entweder mit dem Zweke verbunden oder im Zweke enthalten als *cofines*. Was so beschaffen ist, [AA 19:620] daß ohne dasselbe der Zwek complet (*motiva agendi sufficientia*) wäre, ist nicht im Zwek enthalten, stimmt aber gleichwohl mit zu der Absicht negativ. *Usus rerum non sunt etiam fines rerum*.
+
+(s *Accidentaliter* ist mit dem Zweke verbunden, was auch ein Zwek seyn kan, aber ohne welches doch der Zwek complet ist; negativ aber: dessen Verhinderung dem Zweke entgegen ist. )
+
+Alle ausserordentliche direction ist entweder *miraculum praestabilitum* oder *occasionale*.
+
+Eben daß die übereinstimung mit gewissen (g besonderen) Zweken selten geschieht, beweiset, daß sie nach einer natürlichen Ordnung geschehen, weil nach derselben und nur eine ausna Abweichung von der gew denn die Allgemeine Regeln der Ordnung der Natur wiederstreiten nicht eintzelnen Zweken, folglich können die auch, obzwar nur selten, dadurch erreicht werden.
+
+Die Regirung ist die Erhaltung der allgemeinen Ordnung der Natur. Die direction aber die conformirung derselben mit besondern Zweken. so fern diese den Grund der allgemeinen Gesetze enthalten und also unter diesen mit begriffen werden, so ist es die ordentliche direction; sind sie nicht durch allgemeine Gesetze, sondern durch besondere Handlungen möglich, so ist die Ausserordentliche direction. Die direction als eine *harmonia* *praestabilita* ist Vorsehung *respective* auf positive, als ein *occasionalismus* *concursus*. Die Vorsehung *respective* auf Dinge zustände, die ihre Zweke sind, Vorsorge.
+
+**8082.**   γ--δ? η? (ρ?)   L Bl. G 21.   S. I, II.   R III 69--71. S. I:
+
+[AA 19:621] Es stehet alles unter der Göttlichen direction. Es geschieht manches durch dieselbe.
+
+Ordentliche direction. Iahreszeiten. Vorsorge vor Thiere. Ihr Bau.
+
+Ausserordentliche. nicht eine regel der Ordnung der Naturi obzwa. Wer eine ausserordentliche statuirt, behauptet, daß die ordentliche nicht zulange.
+
+Sind wahre Wunder. *e. g.* Holland.
+
+allgemeine und besondere Vorsehung ist wahr
+
+Es steht alles unter der ausserordentlichen und ordentlichen direction, es geschieht aber nicht alles durch die letztere.
+
+Ob etwas durch die ausserordentliche direction geschehe, würden wir mit sicherheit schließen können, wenn durch die einstimmung vieler solcher Begebenheiten wir eine Regel des Göttlichen unmittelbaren Willens entdeken könnten. *e. g.* Iuden. Daraus aber daß es Begebenheiten können gewohnlich, aber doch übernatürlich seyn.
+
+Alles seltene und ungewöhnliche hat keine deutliche Merkmalen bey sich, nach welcher regel der Ordnung *der Natur* oder des Göttlichen unmittelbaren willens es soll erklärt werden.
+
+(g 2 Fragen: ob es eine ausserordentliche direction gebe, und was dadurch geschehe? )
+
+Wir könen Alles, was als eine einzelne Begebenheit eine Göttliche Absicht war, geschieht nach der außerordentlichen direction; was als eine von vielen zufolge einer gemeinen Regel geschieht, ist nach der ordentlichen direction. z. E. so ist eines Menschen interesse oder Gebet nicht nach der Ordnung der Natur ein Grund eines günstigen Erfolgs.
+
+Wir können niemals mit volliger Gewisheit die *außerordentliche* direction *ausschließen*; es ist aber unphilosophisch, weil das besondere daselbst aus dem allgemeinen hergeleitet werden soll.
+
+Es ist das ungewohnliche und seltene kein Grund, es von der Regel einer ordnung auszunehmen. Auch nicht das passende.
+
+Aus einzelnen Fällen läßt sich gar keine Regel schließen.
+
+Wer **a priori** die besondere direction schließen will, nimt an, daß die conformitaet mit dem Göttlichen Willen nicht gnugsam gesichert sey durch die ordentliche, als wenn die Natur ein besonderes *principium* wäre [AA 19:622] (er betrachtet nimt nicht *harmoniam praestabilitam*, sondern *occasionalem* an), imgleichen daß alle Wirkungen zwecke und alle Ursachen mittel wären.
+
+**a posteriori**. 1. Setzet er voraus, daß aus der besondern Übereinstimung mit gewissen vermuthlichen Zweken die besondere Absicht zu schließen sey. 2. Aus viel solchen schließet er eine Regel des Göttlichen Willens, *e. g.* Iuden.
+
+Aus einzelnen Absichten laßt sich kein Lauf der Welt nach allgemeinen Gesetzen ableiten.
+
+S. II: Die Vorsehung ist die Unterordnung aller Dinge der Welt unter den Göttlichen Willen. In so ferne allgemeine Gesetze des Laufes der Natur unter dem göttlichen Willen stehen, so heißt sie die Allgemeine, in so ferne besondere Regeln ihrer Veränderungen oder auch einzelne Dinge als diesem göttlichen Willen unterworfen betrachtet werden, so heißt sie die besondere Vorsehung. Weil wir gezeigt haben, daß gewisse Folgen in einem Rathschlusse mit begriffen seyn können, ob sie zwar mit dem Zwecke nur *accidentaliter* und nicht als Bewegungsgründe verbunden sind; daher indessen stehen doch alle diese unter der Vorsehung, in so weit sie dem Göttlichen Willen unterworfen sind. Die göttliche Direction ist diejenige Verhältnis, welche alle (g auf einander folgende Dinge) Dinge der Welt auch auf die Absicht Gottes haben, indem sie damit jederzeit übereinstimmen, und wird eben so wohl wie die Vorsehung in die allgemeine und besondere eingetheilt. Die Vorsehun direction will noch etwas mehr als die Vorsehung sagen. Ich kan sagen: alle Sonnen und Mondfinsternisse stehen unter der göttlichen Vorsehung, in so ferne er sie alle voraussahe und die Ursachen dazu beschloß, er mag sie nun als zur Absicht gehörig oder als Nebenfolgen aus andern Absichten beschlossen haben. Wenn ich aber sie unter der Göttlichen direktion betrachte, so sehe ich sie in dem besondern Verhältnisse auf die Göttliche absichten an, in wie ferne er könnte sie intendirt und ihre Ursachen als Mittel gebraucht haben. Ferner bedienet man sich des Worts Vorsehung von allen Dingen der Welt ohne Unterschied, des Worts direction aber in Ansehung der aufeinander folgenden Weltveränderungen.
+
+[AA 19:623] **(s** Die Vorsehung bey der Schopfung Vorsicht bey der Erhaltung direction.
+
+Anstatt Vorsehung solte man Vorsorge sagen. **)**
+
+**8083.**   γ--δ? η? (ρ?)   L Bl. Ha 58.   S. I--IV. S. I: *Nicht alles Gute, das ein vernünftiges und wählendes* *Wesen aus seiner Handlung voraus sieht, gehört zu seiner Absicht*. Die Absicht ist Vorstellung desjenigen Guten in einer vorausgesehenen Handlung, welches den zureichenden Bewegungsgrund der Entschliessung [AA 19:624] enthält. Alles Gute, ohne welches der Bewegungsgrund zur Entschliessung nicht wäre volständig gewesen, ist mit der Absicht *essentialiter* verbunden; alles vorausgesehene Gute; ohne welches gleichwohl die Bewegungsgründe der Handlung zur Entschliessung zureichend waren, ist mit der Absicht *accidentaliter* verbunden. In so ferne dieses Gute also nur *accidentaliter* mit der Absicht verbunden ist, so steht es mit dessen Ursachen, die es hervorbringen, nicht in *nexu finali*, d. i. diese Ursachen sind nicht Mittel und die Wirkungen nicht Zwecke. Ich werde sie gute Nebenfolgen nennen.
+
+Die Wesen der Dinge haben wegen ihres gemeinschaftlichen Ursprunges aus dem Göttlichen Wesen eine bewundernswürdige Harmonie, nach welcher, in so wenn gewisse Verknüpfungen um eines gewissen Nutzens willen schon zureichend nothwendig seyn und also ein *motivum completum* sie zu beschliessen abgeben, sie gleichwohl noch viel andere Nutzbarkeiten enthalten, die ihnen nothwendig seyn, die aber mit ihren Folgen nicht in *nexu finali* stehen und mit der Göttlichen Absicht nur *accidentaliter* Verbunden seyn. Beyspiele davon aus der Natur. Es stehen demnach alle Nutzen der Dinge unter Gott als ihrem Ursprunge, nur man kan darum nicht sagen, daß sie jederzeit besondere Göttliche Absichten waren.
+
+(s In der Physik ist man gewohnt, alles mechanisch zu erklären, und dieses ist ein Gesetz, ob zwar manches durch Geister mag gewirkt [AA 19:625] werden. In der Welt überhaupt muß man alles natürlich erklären, obgleich manches unmittelbar durch Gott mag gewirkt werden. )
+
+S. II: Folgende zwey Ausdrücke sind zu unterscheiden: Es stehet etwas unter der besondern göttlichen Vorsehung, und: es geschieht etwas durch die besondere Göttliche Vorsehung und direction. Der Verstand des ersteren ist dieser: daß auch in besondern Regeln oder auch einzelnen Fällen der Weltbegebenheiten dieselbe den letzten Grund ihres Daseyns im Rathschlusse Gottes haben, imgleichen daß es jederzeit möglich war, daß Gott durch seinen Rathschluß sie hätte ändern und verhindern können. (s Ingleichen daß sie der göttlichen absicht niemals wiederstreiten. ) Der zweyte Ausdruck bedeutet: daß Gott einzelne Begebenheiten oder in besondern Gesetzen der Weltveränderungen diese selbst zu Zweken habe und die Ursachen als Mittel gebrauche.
+
+Man nennet eine jede Handlung der Vorsehung, in so ferne sie bey der Erhaltung der Dinge erwogen wird, die Direction. Die besondere eintzelne direction heißt auch die Ausserordentliche, weil sie nicht unter einer höhern Ordnung der Natur begriffen wird.
+
+(s Ausserordentlich Ausserordentliche direction ist möglich. )
+
+Man kan nicht darthun, daß ohne ausserordentliche direction in jedem Falle die Vollkommenheit der Welt nicht würde erreicht werden.
+
+Hieraus folgt, daß in jedem einzelnen Fall nur muß aus Erfahrung ausgemacht werden, was da möchte durch ausserordentliche direction geschehen seyn. Allein:
+
+Vollkommenheiten überhaupt sind kein Beweis, denn die können unter der allgemeinen Vorsehung stehen. Z. E. Fleis macht Glüklich. Schelme scheitern.
+
+S. IV: Auch der Mangel desjenigen Ausganges, der nach der Ordnung der Natur gemeiniglich pflegt eine Folge zu wege zu bringen, beweißt nichts --- ---
+
+Außerordentliche Begebenheiten beweisen nichts, weil sie selten seyn. (g Vielmehr zeigt erfahrung, daß keine sonderliche Ausnahmen im Sterben, Treffen, Heyrathen geschehen. )
+
+[AA 19:626] Eine jede ausserordentliche directon ist ein wahres Wunder. (g Man nennt nicht bloß ein Wunder, was nach natürlichen Ursachen geschieht. )
+
+In dem Regel des Verfahren muß man sich nach der ordentlichen Vorsehung richten.
+
+(s Die allgemeine direction ist Gut. )
+
+Es führet keinen größern Trost bey sich, sich vorzustellen, daß etwas durch ausserordentliche direction geschehen sey oder geschehen werde, als durch die Ordentliche: denn ich muß doch jederzeit dabey denken: wo es der göttlichen Weisheit gemäß ist; bey der ordentlichen muß ich eben dasselbe gedenken*.
+
+(g Warum man der Menschen Klugheit vor unzulänglich hält. *Concursus*. )
+
+**(g** * Die Ordnung der Natur ist mir bekant, die Ordnung der ausserordentlichen direction nicht.
+
+Glück und Unglück.
+
+Üppigkeit. *Candide*. *Hiob*. **)**
+
+Ich weis, daß alles nach göttlichem Wohlgefallen 1. durch außerordentliche direction geschehen kan.
+
+2. Auch durch ordentliche. Daher bete ich und arbeite. Das zutrauen zum Gebet wird gemindert, was den bestimten Fall anlangt, aber nicht den gantzen Werth des Wunsches.
+
+Im Durchschnitt ist der gute Ausgang nicht die Wirkung des Gebets, sondern des Fleisses.
+
+Falsche Reden der Menschen von Strafen.
+
+S. III: **(g** Ob die Natur der Materie nach von Gott unabhängig sey.
+
+Oder ob auch Gott von der Materie den Grund, aber nicht durch seinen Willen enthalte. **)**
+
+Wenn man von einer Begebenheit der Welt Grund angeben will, so ist es verkehrt, Gott und die Natur einander zu contradistingiren. Denn [AA 19:627] es soll heißen: Gott entweder durch die Ordnung der Natur oder ohne dieselbe.
+
+Wer der Natur etwas beymißt, der entzieht es nicht Gott. Diejenige, die solches behaupten, scheinen die Natur vor ein abgesondert *principium* zu halten.
+
+z. E. Der Artzt hat geholfen. Die Geschiklichkeit hat das Treffen gewonnen. der Fleis hat mich glüklich gemacht.
+
+Der *concursus* findet statt 1. bey einer Wirkung zweyer einander Ursachen, deren eine *qvoad existentiam* der andern *qvoad causalitatem* nicht gantzlich subordinirt ist*. als der Mensch concurrirt zur fruchtbarkeit des Ackers: (g 2. Bey einer Handlung eben desselben Wesens zur andern, der Gnade zur Natur. )
+
+von Gott kan (g man) nicht sagen, daß er zu demjenigen, was nach mechanischen Gesetzen geschieht, concurrire in sofern er der autor dieser Ordnung ist. z. E. daß Gott zu der fruchtbarkeit der Iahreszeit im Sommer concurrire.
+
+Wenn die Handlungen der Menschen aus Willkühr eben so von Gott als der ersten Ursache herkomen, so ist kein *concursus***.
+
+Die Freyheit ist ein *analogon* einer *independentiae qvoad causalitatem*, da gilt *concursus*.
+
+* (g *Concausae* (g *sibi* ) *subordinatae non concurrunt. sed coordinatae*. Ich kan nicht sagen: Gott und der Arzt haben zum Theil geholfen, einer ist hat das *complementum causae insufficientis ad sufficientem* gegeben. )
+
+Die Vorsehung ist die Handlung, den Zustand der Substantzen dem Göttlichen Willen gemäß zu machen. Geschiehet dieses durch Gründe, die darum schon vorher in die Dinge gelegt sind, so ist es die eigentliche Vorsehung. Geschieht es nach und nach, so ist es die direction (s Regierung; geschiehts durch die Bestimungen der Natur, so ists direction. )
+
+Die Conformitaet mit dem Göttlichen Willen ist entweder, so fern die Begebenheiten zweke sind oder nur diesen nicht entgegen stehen. *Consensus* *positiuus vel negatiuus*. Bey der Schopfung oder Erhaltung.
+
+[AA 19:628] Nicht alles Gute in der Welt ist ein Zwek. Ausserordentliche direction: was sie sey. Es steht alles unter der ordentlichen und ausserordentlichen Vorsehung, aber nicht durch dieselbe.
+
+** (g Gott concurrirt entweder zu der Handlung eines seiner eigenen Handlung, nemlich durch übernatürliche zu denen nach der Ordnung der Natur, oder zu den Handlungen eines von ihm Unterschiedenen und von ihm unabhängigem subiects. )
+
+Wir können alles Gute von der ausserordentlichen Göttlichen direction vermuthen oder erwarten, aber nur unbestimmt.
+
+[AA 19:629] **8084.**   ρ--σ.   L Bl. M 22. Nachrichten von Geheimnissen sind von Offenbahrungen unterschieden. Es ist nicht gnug den Nahmen von dem, was andern offenbart ist, zu wissen und die Bedeutung davon nicht zu kennen. Geheimniß der Menschwerdung, der Dreyeinigkeit, der Versöhnung mit Gott. Geheimniß ist das was im theoretischen Verstande: was man nicht wissen kann, im practischen: was nöthig ist zu verbergen. Esoterisch und exoterisch.
+
+**8085.**   ρ--σ.   L Bl. M 22. Aus der Heiligkeit des Gesetzgebers fließt: daß die Gebote keine Milderung in Betracht der Neigungen und Leidenschaften der Menschen erleiden; aus der Gerechtigkeit des Richters: daß die Verurtheilung nach diesem Gesetz, nicht nach Güte, sondern Gerechtigkeit, d. i. nach Würdigkeit geschehe, daß also alles Bitten um Gunst und Verzeihung umsonst sey und daß nur der aufrichtige und aus der Moralitaet entspringende Wunsch, des göttlichen Beystandes würdig zu seyn, die Güte der Vollendung unsrer Heiligkeit und dadurch der Gerechtigkeit erwerben könne. Es ist also nicht unsre eigene Gerechtigkeit, sondern fremdes Verdienst, was zu unsrer Seeligkeit erfodert wird.
+
+**8086.**   ρ--σ? χ?   L Bl. Ha 55. Es konnte zu gewissen Zeiten nöthig seyn zu wissen, wie Gott die Gebrechlichkeit unserer Moralität ergenzete (um den Menschen von abergläubischen
+
+[AA 19:630] Satzungen los zu machen); aber an sich selbst ist dem Menschen nichts mehr nöthig als zu wissen, wie er sich dieser Beyhülfe würdig mache.
+
+Damit wegen der vorher begangenen Sünden, deren Schuld er nicht tilgen kann, sich nicht durch abergläubische Mittel zu befriedigen suchte, so wurde das Verdienst einer Persohn im nahmen des Menschlichen Geschlechts vorgestellt, damit der Mensch jetzt keine andre Gnugthuung selbst suchte, als in einem ganz neuen Lebenswandel.
+
+**8087.**   ρ--σ? χ?   L Bl. G 8.   R III 29. S. I:
+
+Von allem, was zur Bildung der Seele gehöret, ist nichts dem Charakter verderblicher als ein falscher verkehrter und an sich heuchlerischer Begrif von Religion, nach welchem man die moralische Gesetze als bloße willkührliche göttliche Befehle ansieht und, deren verbindende Gewalt im Willen des Oberherrn besteht, ansieht, und die Religion in eine oder andere Art von Gunstbewerbungen setzt, um sich in Ansehung seiner Handlungen Vergünstigung Nachsicht und Straflosigkeit auszuwirken. Alles Man kan daß alles Diese Gunstbewerbungen sind alles was bestehen überhaupt in dem man darin, daß man etwas anderes als den guten Lebenswandel, wenigstens die ernstliche Bemühung zu demselben, vor dienlich tauglich hält, des höchsten Wesens Gunst zu erwerben; (dieses andere Mittel mag nun der Religionswahn ausgedacht haben setzen, worin er wolle, hiedurch erlischt aller Charakter im Guten, und wenn nicht noch mehrentheils die Gutartigkeit des Gemüths und eine Anlage zum Charakter zurückhielte, so würde dieses *principium* alle Keime des Guten vernichten.) Hiedurch verschwindet die innere moralische Gesinnung und das gute steckt alsdann nicht im Charakter, sondern in der vermeintlichen klügsten Art der Einschmeichlung, um die auch ohne die reinigkeit der Gesinnungen die Glückseeligkeit durch zu erschleichen.
+
+Es mag immer die größte Bestrebung im guten Lebenswandel mangelhaft seyn und Erganzung erfodern, so ist d kan doch kein anderes Mittel [AA 19:631] seyn, dieser Ergentzung würdig zu werden, als eben diese aufrichtige Bestrebung. Alle andere Mittel machen den Schwarm der Andächteley aus, er mag welcher sich auf den Aberglauben gründet, der immer einerley ist, er mag in diesem oder ienem vermeintlichen Mittel der Gunstbewerbung bestehen. Es sey in Hochpreisungen in Formeln Gebeten *etc.*
+
+[AA 19:632] **8088.**   ψ3--4.   L Bl. M 25.   S. IV: 23. Gebet nicht nach einem Formular.
+
+**8089.**   ψ3--ψ4.   L Bl. G 9.   R III 31--33.   S. II: Religion.
+
+Alle Glaubensbekentnisse müssen so gefodert werden, daß volle Aufrichtigkeit damit verbunden werden kan also müssen. Glaubenslehren sind nicht Gnadenbezeigungen, die man gern annimmt und die nicht aufgedrungen werden. Des Gewissens zu schonen, ist das erste, worauf der Lehrer zu sehen hat, denn wenn dieses abgehärtet ist, worauf will man Religion sonst gründen? --- Setzt: Gott hätte nicht allein, wie er eswirklich that, dem Hiob seine Vermessenheit in Beurtheilung seiner Weltregierung vaterlich verwiesen, sondern ihm dagegen auferlegt, fernerhin die Gerechtigkeit, in allem was ihm wiederfahren, zu preisen: was wäre geworden? Er hätte die Worte gebraucht, aber das Herz wäre niemals dabey gewesen, weil er sich die Ein es nicht mit dem Bewustseyn seiner Rechtschaffenheit in Vergleichung gegen andere vereinigen konnte. Gott hätte also einen heuchler aus einem ehrlichen Manne gemacht. Er führte ihn auf die Wunder seiner Macht, Weisheit und Vorsorge in der Natur, da doch auch viele zwecklos und schädlich scheinende Dinge angetroffen werden, und lies ihn selbst urtheilen. Natürlich mußte er so wie in dieser also auch in jener Ordnung die Schuld des Übelstandes in seiner Unwissenheit suchen. So wie gezwungene Schmeicheley im Umgange falsche
+
+[AA 19:633] Freunde macht so und erzwungene Unterwerfung selbstverachtung und Hochpreisung seiner eines Mächtigen treulose Unterthanen und selbst die Monarchen mehr auf die innere Hochschätzung der Heiligkeit, die dem Oberhaupt der öffentlichen Gerechtigkeit und Ordnung zukommt, als auf dem Ansehen bekleidet ist, allein Gnaden auszutheilen und zu entziehen, ist ein Pfaffe. Die Hochachtung für die eingeführte Religionsübung wird immer bleiben, selbst wenn keine 39 Artikel beschworen werden.
+
+Es ist ein großer Unterschied zwischen der Erklärung seiner Meynung in Ansehung dessen der Frage, was eine Sache und ist und der, wie diese Sache zuerst introducirt worden. In der besten bürgerlichen Verfassung herrscht viel Ungewisheit in Ansehung der Frage, wie sie introducirt worden, ob durch einen ursprünglichen Contract, ob durch allmählige revolution oder eine fremde Gewalt Allein darinnen. Hierüber mögen Gelehrte immer disputiren, Bürger wenn sie nur darinn einig seyn, daß eine ihnen heilsame Verfassung, wenn sie einmal da ist, müsse heilig gehalten werden. Alle Wunder gehören zu den Mitteln der Introduction, welche uns historisch mitgetheilt werden müssen. Das, was alle Welt wissen muß, weil jedermann darnach handeln soll, muß sich auch unabhängig vom Historischen, folglich von Gelehrsamkeit, erhalten lassen und im practischen bestehen. Man kan also alle Wunder bezweifeln, ohne sie zu be für unmöglich auszugeben und darum zu leugnen, ja auch nur die Aufrichtigkeit der Erzähler, deren Moralität besser als historische Critik cultivirt war, verdächtig zu machen: Und doch der Religion als einer, die solcher Wunder ganz wohl fähig würdig war, innigst anhänglich seyn. Er läßt sie in ihrem Werthe für jedermann. Die Religion (practisch) gewinnt durch diese Denkungsart.
+
+**8090.**   ψ3--ψ4.   L Bl. G 14.   S. I und II.   R III 46--48. S. I: Religion.
+
+Die Nothwendigkeit, Menschen der Religion halber durch einen Grund zu versammeln, der für sie alle auch ohne Einsicht gnugsames und zwar [AA 19:634] moralisches Interesse hat, erfodert, daß man gewisse Observanzen, die sonst blos zum Cultus gehören, als Gnadenmittel vorstellt, als 1. Die Kirche zu frequentiren 2. Die Ko, mithin die Heiligung des Sabbaths. 2. die Formalien der Aufnahme in die (g geistige) Gemeinschaft mit Christen durch die Taufe 3. die ostere Erneuerung dieses Bundes der Gemeinschaft vermittelst der Communion. Diese celebrirung der frommer Gebräuche sind constitutive Gesetze einer der moralischen Vereinigung der Menschen in einer Religion, gleichsam der Errichtung einer sichtbaren *Civitatis Dei*: Aber hier ist doch starke Gefahr, daß Aberglaube hieraus die Religion selbst und das Wesentliche derselben machen möchte. Man muß ihnen also die Nothwendigkeit erklären, eine göttliche Vorsehung in Gründung und Erhaltung seiner Kirche anzunehmen und eine daraus entspringende Verehrung eines wirklich (g eingeführten) vorhandenen blos darauf abzielenden Gebrauchs, der, weil er unmittelbar auf die Errichtung Vereinigung und Erhaltung seines Volks zu seinem Wohlgefallen abzweckt (wozu auch Belehrung der Iugend durch Religionslehrer gehört), als von Gott befohlen angesehen werden kan, mithin an sich und vor allen moralischen Folgen doch als ein Dienst Gottes angesehen werden kan.
+
+Der gemeine Begrif der Imputation in der Christlichen Religion ist, daß uns die gute Handlungen nicht imputirt werden, so fern sie von uns selbst herkommen, sondern nur so fern ein guter Geist sie in uns gewirkt hat, daß uns dagegen die böse Handlungen, die ein anderer (Adam) vor uns gethan oder auch ein böser Geist in uns noch hervorgebracht hat, gänzlich imputirt werden. Zuletzt, daß die Strafe nicht dem, der sie verbrochen, sondern dem Unschuldigen auferlegt, allein als vom Schuldigen erlitten ihm imputirt werde. Hier muß ein Misverstand anzutreffen seyn.
+
+S. II:
+
+Wunder dienen uns jetzt garnicht mehr zu Beweisgründen desjenigen, was uns Religion ausmachen soll. Sie sollten da konnten damals dazu dienen, um dem durch Wunder eingeführten, durch Christum abgeschaften Ceremonienwesen einen Beweis von gleichem Gewichte entgegen zu stellen. Ietzt, da alles auf Pflichten gestellet ist, davon ein jeder durch Vernunft überzeugt werden kan, da es selbst nicht einmal erlaubt seyn würde, auf [AA 19:635] einen blos historischen Glauben Religions=, d. i. Gewissensbekentnisse seiner Ueberzeugung zu thun, die nie die dazu erfoderliche Gewisheit haben, ist es nicht erlaubt, solche Sätze zu nothwendigen Glaubensvorschriften zu machen, die sich blos auf Nachrichten gründen. Das Christentum erfodert Lauterkeit, nichts erheucheltes, nichts gewagtes in Anheischigmachung zu dem, worin man nicht Meister ist. Gleichwohl dürfen wir nur auf Sätze, die blos diese Autorität haben, nicht eben anfechten. Sie sind betreffen insgesammt Gnadensachen, die keinem aufgedrungen werden, die dem der sich davon überzeugen kan werth, heilig und dem, der sich davon nicht überzeugen kan, immer noch Achtungswürdig sind und worüber andere irre zu machen nicht rathsam ist, aber ebenso wenig sie aufzudringen.
+
+Es muß eine sehr einfache Sache mit der Religion seyn, wenn man annimmt, daß sie für jeden Menschen eine freye Religion seyn soll, denn alsdann ist kan sie nicht anders als so natürlich und einleuchtend seyn, daß sie ein jeder sich davon selbst überzeugen kan. Soll sie aber nicht eine freye Religion seyn, sondern wenigstens für den Großen Haufen eine eingeführte und mit durch obrigkeitliches Ansehen oder Priesteransehen unterstützte Religion seyn, so kan und muß sie so auf unzugänglichen beglaubigenden Beweisgründen und Urkunden beruhen, daß der große Haufe genöthigt wird, sich ihr zu unterwerfen, ohne darüber zu vernünfteln, weil er keine Wahl hat. Nun scheint, (g nicht allein) wenn man die Geschichte befrägt, daß es jederzeit so gewesen sey, sondern auch wenn man nachsinnt, ob jemals durch freye Religion und ohne eigentlichen Gottesdienst nach göttlicher statutarischer Vorschrift eine Landesreligion bestehen kann, das letztere zu seyn, und wenigstens in Ansehung gewisser Artikel ein Zwangsglaube nöthig zu seyn und zwar, um eine Gemeinde zu machen, welche gleichsam ein vereinigter geistlicher Körper ist, der sich wie ein Staat in einer bestimmten Form erhält. ----------- Priester ist derjenige, der im dem öffentlichen Glauben steht dafür angesehen gehalten wird, daß seinen Händen die Ausspendung himmlischer Gnadenmittel ausschließlich anvertraut sey. Der Priester ist ein Pfaffe, wenn er sich darum als geistliche Obrigkeit aufführt. Ein Geistlicher ist der, welcher Religionslehre und Seelsorge verbindet. Prediger, der blos Religionslehrer ist.
+
+[AA 19:636] **8091.**   ψ4. (1788--1790.)   L Bl. Kiesewetter 4.   R.-Sch. XI 1 S. 267f. Hb. IV S. 504f. Ki. u. L. S. 198f. Ueber particuläre Providenz.
+
+Wir können uns keine Einrichtung nach Zwecken als bei dem Zufälligen denken; folglich kann die göttliche Vorsehung sich nur beim Zufälligen beweisen, und es ist ungereimt, sie auf das Nothwendige auszudehnen. Es entsteht nun die Frage: Sorgt Gott blos für das Allgemeine oder auch für das Besondere? Wir nehmen die Frage in dem Sinn: Hat Gott nur blos einen großen allgemeinen Zweck, dem Alles untergeordnet seyn muß, oder hat er sich mehrere einzelne Zwecke vorgesetzt, die zusammengenommen *einen* Zweck ausmachen?
+
+Man muß die erste Frage bejahen, die andere verneinen; denn ich kann es mir nicht vorstellen, wie mehrere Zwecke zusammengenommen *einen* ausmachen; unsere Vernunft geht vielmehr den entgegengesetzten Weg und nimmt eins an, von dem sie auf mehrere heruntersteigt; dessen ungeachtet können mehrere Beschaffenheiten als zweckmäßig gedacht werden, ohne doch wegen eines besonderen Zweckes da zu seyn. Alles, was in der Welt geschieht, muß Zwar dem großen alleinigen Zweck nicht entgegen seyn; allein ich kann mir nicht vorstellen, daß es selbst wieder eines besondern Zweckes wegen da sey; denn nähme man das Letztere an, so würde man in große Verwirrung gerathen, weil nicht blos der Willkür zu viel überlassen bleibt, sondern auch eine Sache um mehrerer Zwecke willen da seyn würde, welches unmöglich ist, da *ein* Zweck den zureichenden Grund eines Dinges enthalten muß, und ein Grund doch nicht mehr als zureichend seyn kann.
+
+Z. B. die Luft ist zum Leben nothwendig; sieht man nun das Leben der Geschöpfe als den Zweck der Luft an, so wird dies als der zureichende Grund derselben gedacht. Die Luft dient aber auch zum Sprechen; doch muß man nicht sagen, das Sprechen sey der Zweck derselben; denn sonst würde sie zwei zureichende Gründe haben. Die Luft ist zum Sprechen zweckmäßig; das heißt aber keineswegs, das Sprechen sey der Zweck der Luft, weil dies sagen würde, das Sprechen sey der zureichende Grund, weshalb die Luft geschaffen sei. Sehr oft meint man, es seyen Dinge als Mittel zu Zwecken hervorgebracht, die offenbar blos mechanischen Ursprungs [AA 19:637] sind; z. B. wenn man sagt: der Continent ist Insel; er ist aber deshalb mit Meer umgeben, damit die Gemeinschaft unter den Menschen erleichtert werde, so begeht man gewiß einen Fehler, indem deutliche Spuren vorhanden sind, daß die jetzige Beschaffenheit der Erde eine bloße Wirkung mechanischer Ursachen ist. --- Wendet man ein, daß, wenn Alles blos Mittel zu dem *einen* großen Zwecke der Gottheit ist, es dadurch nothwendig gemacht wird, und also die Zufälligkeit z. B. der Schicksale der Menschen aufhört, so muß man bedenken, daß bei Gott der Unterschied zwischen möglich, wirklich und nothwendig wegfällt.
+
+**8092.**   ψ4. (1788--1790.)   L Bl. Kiesewetter 5.   R.-Sch. XI 1 S. 268--270. Hb. IV 505f. Ki. u. L. S. 200f. Vom Gebet.
+
+Dem Gebete andere als natürliche Folgen beizulegen, ist thöricht und bedarf keiner ausführlichen Widerlegung; man kann nur fragen: Ist nicht das Gebet seiner natürlichen Folgen wegen beizubehalten? Zu diesen natürlichen Folgen zählt man, daß durchs Gebet die in des Seele vorhandenen dunkeln und verworrenen Vorstellungen deutlicher gemacht, oder ihnen ein höherer Grad der Lebhaftigkeit ertheilt werde, daß es den Beweggründen zur Tugend dadurch eine größere Wirksamkeit ertheilt u.s.w.
+
+Hierbei ist nun erstlich zu merken, daß das Gebet aus den angeführten Gründen doch nur subjectiv zu empfehlen ist; denn Derjenige, welcher die vom Gebete gerühmten Wirkungen auf eine andere Weise erreichen kann, wird dasselbe nicht nöthig haben. --- Ferner lehrt uns die Psychologie, daß sehr oft die Auseinandersetzung eines Gedanken die Wirkung schwächt, welche derselbe, da er noch im Ganzen und Großen vorhanden, wenngleich dunkel und unentwickelt war, hervorbrachte. Aber endlich ist auch bei dem Gebete Heuchelei; denn der Mensch mag nun laut beten, oder seine Ideen innerlich in Worte auflösen, so stellt er sich die Gottheit als etwas vor, das den Sinnen gegeben werden kann, da sie doch blos ein Princip ist, das seine Vernunft ihn anzunehmen zwingt. Das Daseyn der Gottheit ist nicht bewiesen, sondern es wird postulirt, und es kann also blos dazu dienen, wozu die Vernunft gezwungen war, es zu postuliren. Denkt nun der Mensch: Wenn ich zu Gott bete, so kann mir dies auf keinen Fall schaden; denn ist er nicht, nun gut, so habe ich des Guten zuviel gethan;
+
+[AA 19:638] ist er aber, so wird es mir nützen; so ist diese *Prosopopöia* Heuchelei, indem beim Gebet vorausgesetzt werden muß, daß Derjenige, der es verrichtet, gewiß überzeugt ist, daß Gott existirt. Daher kommt es auch, daß Derjenige, welcher schon große Fortschritte im Guten gemacht hat, aufhört zu beten; denn Redlichkeit gehört zu seinen ersten Maximen --- ferner, daß diejenigen, welche man beten findet, sich schämen. In den öffentlichen Vorträgen an das Volk kann und muß das Gebet beibehalten werden, weil es wirklich rhetorisch von großer Wirkung seyn und einen großen Eindruck machen kann, und man überdies in den Vorträgen an das Volk zu ihrer Sinnlichkeit sprechen und sich zu ihnen so viel wie möglich herablassen muß.
+
+[AA 19:639] **8093.**   ω.   L Bl. L 10. Unterschied der 2 Wörter: ein Christ, und: ein Christianer genannt zu werden. "Ich bin ein Christ" heißt soviel als: "ich bin der Messias."
+
+**8094.**   ω.   L Bl. L 16. Die sehr wohlthätige Täuschung, durch vorgeblich heilige von Gott selbst eingegebene Lehren den Verstand mechanisch zu leiten, heilige Schriften, die der Lehrer nicht einmal verstehen, noch weniger beurtheilen kann, ihn doch zu cultiviren und als Hirt eine Heerde aus dem Volk zu machen.
+
+**8095.**   ω.   L Bl. L 52. Sey Willfährig Deinem Wiedersacher, so lange du mit ihm auf dem Wege bist! --- Damit er dich nicht überliefere dem Ankläger und dem Richter und werdest ins Gefängnis geworfen --- --- warlich du wirst warlich du. warlich du wirst nicht von dannen kommen, bis du den letzten Heller bezahlest!
+
+Von einem Prediger in England, der eine solche Predigt an einem Sonntage hielt: und zum Thema zu einem Bustage hielt, wo er nichts als Wieder Erstattung Predigte: *desine! fata deum flecti sperarere precando*: Laß ab, das Göttliche Geschik geht durch dein bitten nicht zurück!
+
+Er starb unter der wütenden Catolike Maria von Schottland, am Pfahl verbrannt.
+
+**8096.**   ω2.   L Bl. E 30.   R II 115f. Vom radicalen Bösen in der menschlichen Natur.
+
+(g Was von einem *factum* anfängt ist nicht *originarium* sondern *malum contractum*. )
+
+[AA 19:640] Hierunter wird ein Böses, nicht ein Übel, aus dem nur Zufällig und mit unsrer Schuld ein Boses entspringt, verstanden. Folglich nicht *peccatum* *originarium*, welches ein Wiederspruch ist, sondern angebohrne Anlage verstanden, worunter nur eine Verwerflichkeit in uns verstanden wird, da wir entweder besser gewesen und nur verdorben worden oder und zwar mit unserer eigenen Schuld, oder es den Schranken unserer Natur unter der Vorschrift der Freyheit anhängt, worüber wir nichts entscheiden; sondern nur das Böse betrachten, wie es ist.
+
+Es ist die Frage: ob der Neid das erste sey (als Bosheit) mithin das hassenswürdige, welcher eine ursprüngliche Feindseeligkeit unter Menschen bedeutet oder die Falschheit. Wir würden uns aber nicht beneiden, wenn wir uns unser Scheinglück und unser Scheinverdienst uns, wie wir es selbst kennen, andern ohne Zurückhaltung eröfneten. Auch ist die Rivalität eine Triebfeder zum perfectioniren, und wenn wir uns nicht vorstelleten, würden wir unsern Rang unter andern nicht dadurch, daß wir andern ihren verkleinern, um den unsrigen hervorragend zu machen, suchen, sondern unsere eignen Gebrechen würden uns keine Ansprüche machen lassen, sondern wir würden alle jeder für sich zuerst müssen gut zu seyn trachten und blos die Thunlichkeit desselben an andern bemerken ohne Haß.
+
+Die Falschheit gegen andere ist (g so fern) auch nicht das radicale Böse; denn es kann auch blos aus der Beeiferung entsprungen seyn, wozu die Verheelung seiner Gebrechen eine gute Naturanlage seyn kann und die *Gleisnerey* nur zufallig hinzu kommt. Man spiegelt vielleicht einen Vorzug (g Verdienst) vor, dessen man sich nicht bewust ist, um nur nicht verachtet zu werden. Also ist die Falschheit in unser Selbst das radicale Böse.
+
+Die Falschheit gegen andere ist der angenommene Schein ihrer Achtung so wohl als Wohlwollens und Freundschaft, indessen daß sie entweder nichts oder gar das Wiederspiel davon in sich haben. (Vom plebejen im Umgange, d. i. der Freyheit, die man sich erlaubt, ohne gnugsame delicatesse in Ansehung der Achtung, die der andere fordert.) Daß sich jemand von der besten Seite in Ansehung dessen, was den inneren Werth des Menschen ausmacht oder seinen Marktpreis ausmacht, zeige, gehört zu den Mitteln der selbsterhaltung, wodurch er keinen betrügt, weil keiner ein Recht hat hievon die Warheit zu erfahren. Aber in äußerer declaration der Freundschaft, des Wohlwollens und der Achtung kan ich Warheit fordern, und die Nachäffung der Manieren der Freundschaft wenn sie und überhaupt der Geselligkeit bringt den Verdacht hervor, daß nichts dergleichen [AA 19:641] in der Wirklichkeit vorhanden sey. Es ist ein formales Böse, welches durch nichts berechtigt werden kan, wie es wohl mit dem materialen, z. B. dem Neide und Schadenfreude, berechtigt werden kan. Es kostet den Falschen nichts diese einzige würde der Menschheit, nämlich warhaftigkeit, zu verlassen. --- Die Lüge (deren Anfänger Teufel genannt wird aber auch der erste Neider) ist ein formales Böse, welches in keinem Verhältnisse gut seyn kan. Dazu kan keine Anlage in der menschlichen Natur und keine Triebfeder anerschaffen seyn. Wir haben auch eine ursprüngliche Verachtung gegen sie. Der ganze Werth des Menschen wird dadurch vernichtet, z. B. in gelehrten Sachen.
+
+**8097.**   ω2.   L Bl. G 5.   S. I.   R III 15f. *Theologie*.
+
+Was denkt man sich unter der Idee von Gott?
+
+1. Ob die Moral ohne Theologie möglich sey? Ia, aber nur in Ansehung der Pflichten und Rechte der Menschen, nicht in Ansehung des Endzweks. Denn würde man annehmen, daß man sich das erstere nicht möglich sey, so würden ohne göttliche Gebote keine Pflichten gedacht werden können, also auch nicht ohne Religion als Pflicht gegen Gott, also müßten wir doch allererst Lehre von Pflichten haben, ehe wir Gott erkenneten, Welches der hypothesis wiederspricht.
+
+2. Ob eine Theologie ohne (g oder vor der) Moral möglich sey, d. i. die göttliche Natur blos (g aus) theoretischen Principien entweder der reinen Vernunft oder aus der physik (teleologischen Principien der nicht des practischen Endzwecks sondern der Zweckmäßigkeit in der Natur überhaupt)?
+
+3. Ob wir eine Naturerkentnis auch ohne Theologie möglich sey? Ia, aber nur nach der Analogie der Zwecke.
+
+4. Ob eine Moral ohne Religion möglich sey?
+
+*vid*. *mein Colleg. von der natürl. Religion.*
+
+Ob Vom Deismus, Theismus, und Pantheismus.
+
+Ob die göttliche Oberherrschaft als Theokratie (wie die der Iuden) oder Aristocratie unter Engeln oder einem Staatsverwalter oder als Democratie, [AA 19:642] d. i. als ein Bund des Menschen sich freywillig einer Religion zu unterweren, vorgestellt werden könne?
+
+*Pietas morosa* --- *blandiens*: beyde sind Andächteley und Schwärmerey; Iene Pietismus, diese Philadelphie. Iene angstvoll wegen der Versuchungen des bösen Geistes, diese schmachtend und schmeltzend in Liebe zum guten Princip und im schwarmerischen vertraulichen Umgange mit demselben. Keine von beyden hat keinen andern Ovell der Tugend als durch überschwengliche Empfindungen und geistige Gefühle, die das moralische möglich machen sollen.
+
+**8098.**   ω2.--ω3.   L Bl. E 24.   R II 104. S. II unten: Ob Vernunft und Geschichte eine Religion begründen können. Nein! aber wohl eine Kirche, worin Religion und Cultur einander unterstützen.
+
+**8099.**   ω3.   L Bl. E 25   R II 105. Gott als ein einziger hat keinen Nahmen, und wo er einen führt, so bedeutet daß polytheism, in welchem ein Gott der oberste ist (Iehovah);
+
+Ob die christl. Rel. sich durch ihre Sanftheit und liebevollen Character auszeichne.
+
+Sie verlangt Glaube an böse Geister, die uns immer belagern -- leibliche Besitzungen, eine Hölle, welche den größten Theil der Menschen verschlingt. --- Man muß nicht heucheln (seufzend sich demüthigen) (g oder bedeutet dies aus einem Munde kalt und warm blasen) und nicht schmeicheln (schmiegen).
+
+**8100.**   ω3.   L Bl. F 13.   R II 323. S. I:
+
+Der determinismus ist entweder der der Freyheit oder des Fatalismus.
+
+(Die Freyheit ist dem Ungefähr und dem fatalism entgegengesetzt.)
+
+Der determinism der Caussalverbindung in der Zeit ist der praedeterminism.
+
+[AA 19:643] Dieser ist allein der Freyheit entgegengesetzte causalitaet.
+
+Wenn das höchste Gut dem moralischen Antheil nach aus der Freyheit entspringen soll, so haben wir keinen Grund es von der Göttlichen Schopfung und auch nicht von uns selbst zu erwarten nach theoretischen Principien. Aber in practischer Absicht, um unsere Handlungen darauf zu richten, haben wir doch Grund in unserer Moralität. ---
+
+Theoretisch würde es Mystik und Tavmaturgie.
+
+*Mystic* ist teleologie theoretische teleologie des Uebersinnlichen. Gesetzgeber. Regieren. Richter.
+
+Schwärmerische mystick oder abergläubische Tavmaturgie.
+
+**8101.**   ω3.   L Bl. G 22.   S. I, II und III.   R III 72ff. S. I:
+
+1) daß der Mensch keinen andern Gott verehre, als den er sich einstimmig mit dem moralischen Gesetze macht.
+
+2) Daß seine Religions er keine Handlungen zur Religion rechne, die (g deren Zwek) auf Gott gerichtet seyn soll, sondern nur auf Menschen in der Welt und zu denen er die Erweckung aus und Aufmunterung von aus dem Vernunft- oder Offenbahrungs=Begriffe von Gott hernimmt. ≠
+
+3) Daß er im Selbstgestandnisse seines Glaubens sowohl was den gegenstand als den Grad desselben betrifft die größte Aufrichtigkeit und lautere Warhaftigkeit beobachte und sich darüber aufs strengste prüfe. Auch in den Fällen, wo er zum Lehrer berufen ist, eben solche Offenherzigkeit nur nicht diejenige historische Lehren ohne Noth anzufechten.
+
+≠ Es giebt daher keine Pflichten gegen Gott, sond aber wohl können sollen alle Pflichten als Göttliche Gebote befolgt werden. Warum aber das? Es ist nicht an sich Pflicht und nothwendig einen Gott anzunehmen, [AA 19:644] aber es ist ein moralisches Bedürfnis bey der abs auf das höchste Gut in der Welt zu befördern gerichteten Absicht. Eben so ein künftig Leben zu glauben. Das letztere ist nur ein Glaube vom zweyten Rang. Denn es ist nicht nothwendig, daß wir existiren oder ewig existiren aber wohl, daß, so lange wir leben, wir uns des Lebens würdig verhalten.
+
+Ob Gott dem Menschen einen Glauben geben könne (z. B. dem Abraham in Ansehung seines Sohnes Isaak)? Wenn er sich bewust wäre, ein anderes Wesen habe ihn ihm gegeben und er sey also nicht aus ihm selbst entsprungen, so würde er wirklich nicht glauben. Überhaupt ist das Urtheil, daß etwas eine Erscheinung Gottes (Theophanie) sey, überschwenglich; denn man kan eine solche Anschauung garnicht haben, wir können die Offenbahrung nicht in uns aufnehmen. Es muß ein ganz anderes Wesen seyn dem sie inhäriren soll könne und überhaupt kan dieses Wesen nur Gott selber seyn. --- Wenn es heißt, der Sohn, der in des Vaters Schoos ist, hat es uns verkündigt, so bedeutet das nur, daß der durchs heilige moralische Gesetz erleuchtete (g gemeine Mann (nicht viele Weise) redlich von Gesinnung aber idiot) nicht der theoretische Philosoph oder Priester ihn uns verkündigt habe.
+
+Dem Staat ist es von der größten Nützlichkeit und kann auch ohne Gefahr geschehen, daß die Geistlichen lehren, daß alle Gnadenmittel Glaube, Gebeth, Communion *etc.* garnichts bewirken wenn nicht die rechtschaffene moralische Gesinnung zu Grunde liegt. Daher man jene nicht anfechten darf, wenn sie auch überflüßig sind.
+
+S. II u. III:
+
+Von dem Bedürfnisse des Menschen, etwas zu haben, das er lieben könne als der größten Bewegursache zum Heurathen, imgleichen daß nach menschlicher Vorstellung Gott keinen andern Grund gehabt habe, eine Welt zu schaffen.
+
+Sünde wieder den h. Geist.
+
+Der Zwek der Schöpfung, so wie ihn Menschen sich denken möchten, ist, das Gott gleichsam ein Bedürfnis hat etwas, ein andres Wesen zu haben, was er lieben könne und was ihn dagegen liebt.
+
+[AA 19:645] **8102.**   ω4.   L Bl. E 23.   S. III, IV.   R II 100f. S. III:
+
+Von Anschauung Gottes im künftigen Leben; daß dieses keinem Geschopf moglich sey (nämlich ihn seiner Natur nach zu erkennen), sondern daß je länger und mehr er in der unendlichen Manigfaltigkeit der Geschöpfe, gleichsam anschauend, der Erkentnis der schaffenden Ursache sich genähert haben wird *etc.* --- Was ist Freygeist?
+
+Hrn. Abt Henke Magazin 5ten Bandes 2tes Stück, wo der innere Betrieger im Menschen, der Geitz selbst um seine Absicht betrogen wird. Das Geld besitzt den Reichen: er nicht das Geld, sondern er ist nur der Verwalter seines Geitzes.
+
+Geld und Gut ist der Gott dieser Welt, aber soviel ein reicher Mann haben mag immer haben mag, so ist er doch nur der zeitliche Verwalter desselben, denn er muß es er nimmt nichts davon wenn er durch den Tod von seiner Stelle abgerufen mit sich weil, wenn er durch den Tod abgerufen wird, er es in anderen Händen zurücklassen muß. Nun sagt ihm so die Hinfälligkeit seines des Alters Leibes, daß er so viel von seinem Leben schon hingebracht habe, daß er jene Abrüstung täglich erwarten könne. wo es dann nicht einerley ist, ob er aus den Gütern gejagt oder ehrlich verabschiedet wird, um in um in der andern Welt reputirlich angestellt zu werden anzulangen empfangen zu werden. Weil er aber nichts hat, was ihm aus dieser Welt mitzunehmen erlaubt ist, da er kaum seine eigne Schuld in der gegenwärtigen abzutragen vermögend war, so kommt er natürlicher Weise in sorgen. -- Nun war ein kluger Mann, der viele Schuldner hatte, die ihm, wenn er hart seyn wollte, schon bezahlen müßten. Diesen erließ er dieselben und nahm Assignationen von ihnen, in der andern Welt zahlbar, an. Von diesen hoffete er, sie würden vor dem Weltregierer für ihn reden.
+
+[AA 19:646] S. IV:
+
+Ein Mann, dem es bisher immer wohl gegangen ist (ein reicher), wird alt und fragt sich selbst, was er wohl gutes gethan habe, das ihm übrig bliebe. Er hat sein Leben und alle Mittel Gutes zu thun durchgebracht, er muß diese Vorwürfe von seinem Gewissen höhren, gleich als ob ihm alles um ihn dieses vorwürfe. Nun wird ihm bange vor das Schicksal, das seiner nach dem Tode erwartet. Er kan zum künftigen Wohlleben nichts mitnehmen, ob er gleich reich war. Wie schafft er sich mit seinem Reichtum Anweisung auf eine künftige Welt? Eins kann er noch thun, sich nämlich andere sind ihm schuldig (er war nur verwalter seines Reichthums). Nun könnte er dieses mit Härte beytreiben. Aber was hilft ihm das: er muß doch alles in der Welt zurücklassen und nimmt nichts mit. Er besinnt sich auf ein gutes Mittel: Er erläßt seinen Schuldnern; seinen Beleidigern *etc.* Das Alles ist doch verdienstlich, und er erwartet in der Zukunft, daß alle die ihm Wohlthaten verdanken, für ihn sprechen werden.
+
+**8103.**   ω4.   L Bl. E 26.   R II 107. S. II:
+
+Die Unredlichkeit der Menschen als das radicale Böse.
+
+**8104.**   ω4--5.   L Bl. Kuffner 2.   S. I: Religion ist das Erkentnis des Menschen von seinen Pflichten *als* (g *tanquam* ) göttlichen geboten. Hiezu wird nicht erfordert, daß man glaube, es sey ein Gott, sondern es ist gnug, eine Idee von einem solchen sich zu machen, welches in Ansehung der Freyheit des Menschen so wohl der Schiksale desselben ohne schranken machthabend ist. Man kann, wenn man den Lauf der Welt in Erwägung zieht, vielleicht zweifeln, ob dieses Wesen nach moralischen Gesetzen die Welt regiere, wie denn auch der Anschein es giebt, daß es den Guten und Bösen Menschen, so weit wir es einsehen können, auf Gleiche Art behandle. Aber es ist doch der Moralität halber nothig, ihn als ein moralisch vollkommenes Wesen anzunehmen. Man kann aber nicht sagen, daß man zu einem ihm zu leistenden Dienst [AA 19:647] verbunden sey --- auch nicht in Lob und Preis seiner Vollkommenheiten, die man nicht kennt, heuchlerisch aus zu brechen. --- Es giebt eine Geschichtsreligion oder reine Vernunftreligion.
+
+**8105.**   ω5 (1799).   L Bl. B. K. B. 13.   S. I--III. S. I:
+
+Vernunft --- Offenbarung. Natur und Gnade.
+
+Geist und Buchstabe der Schrift *etc.* *etc.* sind die zwey Thürangeln, um welche sich die Thür zum Heiligtum der Religion dreht, zu welchem der Schlüssel entweder absichtlich verborgen oder gen oder bricht ab.
+
+(g Weil nichts die Freyheit beweiset als das moralische Gesetz in mir durch den categorischen Imperativ, dieser aber eben darum allgebietend und allgewaltig, d. i. das Subject dieser hohen Würde Gott ist, so ist Gott selbst, der Menschen zum Menschen selbst gebietet, also ein Andrer, der doch aber Gott und das Ewige ist. )
+
+Religionsglaube als Geschichts- oder Vernunftglaube. Der erste setzt Offenbarung voraus und ist empirisch; der zweyte ist *a priori* begründet, aber nur für die practische Vernunft und nicht von Zeit und Ort abhängig. Muß nicht jederzeit die Vernunft es seyn, welche das Bedürfnis selbst einer Offenbarung fühlt und so nur ein sinnliches Mittel zu dieser Beruhigung auffaßt oder sich selbst --- --- *patres Oratorii* in Paris.
+
+Natur und Gnade.
+
+Ein Vergehen wieder die Klugheit und das, was auf eignen Vortheil berechnet ist, wirft man sich selbst vor, aber das wieder die Pflicht wirft mir ein Andrer in meiner Person vor. Man kann sich jenes vergeben, aber dieses nicht.
+
+S. III:
+
+Daß der Mensch thue, was das Gesetz von ihm gebietet, kann von ihm gefordert werden. Daß er es *gern* thue, nicht.
+
+Der *Illuminatism* vom *Mysticism* unterschieden.
+
+Von dem alten Streit über Natur und Gnade (*Mystic*). Verdienstliche [AA 19:648] und überverdienstliche Werke. --- Von Menschen gegen Menschen. *O curas hominum*!
+
+Eigentlich ist der Streit philosophisch und geht nicht von der Schwärmerey aus, sondern kann sie vielleicht herbey führen. **Willmans** konnte allenfalls zur Absicht haben, das eine so wie das andere Princip durch die Entgegensetzung zweyer Theorien --- sich beyde zernichten zu lassen.
+
+**Maucharts** allgemeines Repertorium für empirische Psychologie.
+
+Berliner Königliche Bibliothek, Kant-Blatt Nr. 13. Ein Quer- Oktavblatt, den Schluss eines Briefes von Jensch (vom 25. Mai 1799) enthaltend. Die Briefseite wurde von uns als 13^I bezeichnet und von Kant neben, zwischen und unter den Briefzeilen beschrieben. Der g-Zusatz steht bis Imperativ incl. zwischen Zeile 9 und 15; der Schluss steht zu unterst auf der Seite. Über diesem Schluss stehen, mit Bleistift geschrieben, die Worte: Flanell und Parchend. Aus der Rückseite hat Kant zwei Seiten gemacht, indem er das Blatt in der Mitte knickte. Auf 13^III (der rechten Hälfte der Rückseite) stehen unter den abgedruckten Bemerkungen noch Bleistiftnotizen, die Kants Haushalt betreffen und zu einem grossen Teil unleserlich sind, ausserdem, mit Tinte geschrieben, die Worte: Graf Dohna von Wundlo bey der Cammer von Koenigsberg. ---
+
+13^II enthält folgende Notizen: Das blecherne *Coffee Service* meiner Köchin oder dem Lampe anzuweisen. Geldbeutel. Von **Flach** Rechnung.
+
+Danksagung an **D. Motherby**, jetzt in Berlin, wegen seiner Mir dedicirten inauguralDissertation. Ich habe dieses mit so schönem Einbande gezierte werk Ihrem HE. Vater zum Andenken gegeben.
+
+[AA 19:649] Warum die Telltauer Rüben noch nicht angekommen sind, an HE. *D.* und *Prof. *Kiesewetter**.
+
+Faßliche Darstellung der Kantschen Philosophie von **Sebastian Mutschelle*.* *München*.
+
+Von der Verschiedenheit der Menschenracen nach Kantschen Principien.
+
+Herr Andersch an der reformirten Kirche.
+
+Azorenwein. **Toussin**.
+
+Daß um Iahrmarkt und Weynachten die Verdingung des Gesindes geschlossen wird.
+
+Mit Bleistift: *H. Andersch*.
+
+**8106.**   ω5. (1799).   L Bl. L 20. Der Geschichtsglaube, z. B. Von der Schöpfung, dem Fall der ersten Eltern, der (g vorhistorischen) Sündfluth, welche die schon bevölkerte Erde bis auf eine kleine Familie vertilgte. Dann die vom Iehovah als gestiftete besondere Staatsverfassung nach der Sprachen-wirkung verwirrung und die Vorliebe für sein Volk, was mit allen andern im Kriege war u.s.w., begründen keine Religion.
+
+Es ist unmöglich, daß ein Mensch ohne Rel. Religion seines Lebens froh werde.
+
+**8107.**   ω5. (wohl 1800).   L Bl. B. K. B. 17. (g Lobrede: *panegiricus*. )
+
+Es ist ein Großer Unterschied dazwischen, daß ein Mensch sich selbst tadelt; denn er kann sich doch bessern oder durch verdienstliche Handlung das ersetzen, was er verbrochen hat.
+
+Aber sich selbst verdammen durch ein *peccatum*, welches er als immortal ansieht, kann er nicht; sondern, da er doch bey einer Lüge mit Vorsatz Böses thut und sich verwerflich macht oder findet, so verdammt ihn nicht er selbst, sondern er ist sich bewust, daß ihn ein Anderer Höherer, [AA 19:650] aber doch in seiner Menschheit residirend, aber doch allgemeingültig verdammt. Niemand kann sich selbst verfluchen.
+
+**8108.**   ω5.   L Bl. L 3. Am oberen Rand, S. I: Ist die christliche Religion eine sanfte? Giebt es neben dem guten Princip noch ein böses in demselben Menschen? Oder ist's gnug, die Menschheit als Vernuftwesen und Sinnenwesen zu betrachten, wo das Letztere nur Mangel, nicht positiv ist?
+
+**8109.**   ω5.   L Bl. L 3. Am unteren Rand, S. I: Von der Menschheit in zwiefacher Person. --- Nicht des Guten und Bösen, sondern des Guten und falschen Princips.
+
+**8110.**   ω5 (1800).   L Bl. L 22.   S. I und II. S. I:
+
+Der Begriff von einem Gesetzgeber in mir, einem Ankläger (der aber auch selbst der Verführer ist) und einem Richter. Der Mittlehrer ist der Teufel. Sie sind als außer uns als so vielfache Personen (*personae*) gedacht. --- Woher kommt es, daß wir das, wir nur von unserm Eigenen Gewissen haben, uns unrechtmäßig als etwas ausser uns denken müssen?
+
+S. II:
+
+Der Begriff von Gott entspringt aus der Moral. Die Befolgung aller Moralischen Pflichten als (*instar*) göttlicher Gebothe. --- Geht die Furcht vor Gott vor dem Gesetz vorher, so ist sie physisch. --- Ist es Umgekehrt, so ist sie moralisch, d. i. Gewissenssache: Da sich die Gedanken einander anklagen oder entschuldigen. Da ist zuerst ein Gesetzgeber, ein Ankläger und ein Richter. hier ist ein Anklagen der Persönlichkeit zwischen drey Potenzen.
+
+[AA 19:651] **8111.**   ω5 (1800).   L Bl. L 28. Die Frage ist: ob jemand sich für einen Anderen zum Tode hingeben kann, um an seiner Statt zu sterben? Ich sage Nein; denn er hat nicht die Befugnis, sich dem Tode, den er vermeiden kann, hinzugeben, Wohl aber wer sonst genöthigt wäre, ein Verbrechen zu begehen.
+
+**8112.**      Bemerkungen Kants in seiner Bibel: 1. Mose I2: Am Schluss, nach „Wasser“: Chaos.
+
+1. Mose I7: Nach „Vesten“ will Kant eingeschoben haben: Luft zum Regen und Wolken unter dem Himmel.
+
+1. Mose I12: Nach „war“ folgt am Schluss: Dieses geschah ohne Sonnenwärme.
+
+1. Mose I16 u. 17: Auf dem Aussenrand beider Verse: Damit die künftige Thiere sehen könten. Denn gewächse brauchen nicht Licht.
+
+[AA 19:652] 1. Mose I21: Am Schluss des Verses: Bevölkerung des Wassers und der Luft.
+
+1. Mose VI4: Auf dem Aussenrand des Blattes: theocratie, bürgerliche Gewalt.
+
+1. Mose IX3: u. 4: Auf dem äusseren Blattrand zu beiden Versen: Fleischspeise hebt an, cap. 1. v. 28.
+
+In Psalm 103 will Kant nach den Versen 6,18 u. 22 ein Wort eingeschoben wissen, das wahrscheinlich halleluja heisst.
+
+Habacuc 23 scheint Kant „Weissagung“ durch das am Rand mit Bleistift vermerkte Wort: Aussicht ersetzen zu wollen.
+
+Matthäus 713 über den Worten „Pforte ist weit“: Kirche.
+
+Matthäus 916 über den mit schwarzer Tinte unterstrichenen Worten „alt Kleid“: judenthum.
+
+Matthäus 1311 auf dem Blattrand: Des innern Gottesdiensts.
+
+Matthäus 1315 nach dem letzten Wort „hülfe“: Weil ihre Bekehrung unächt ist.
+
+[AA 19:653] Matthäus 184 auf dem Rand neben den Worten „Wer sich nun selbst erniedriget, wie“: zur Einfalt.
+
+Matthäus 2212 hinter dem letzten Wort „verstummete“: besudelt mit Lastern.
+
+Lucas 1314 will Kant anscheinend für „es tuts nicht“ die auf dem Rande beigefügten Worte: es geschieht nicht.
+
+eingesetzt haben. Lucas 1611 neben „Mammon“ auf dem Blattrand: Eigenthum.
+
+Lucas 1612 neben „treu seid“ auf dem Rand: Glücksgütern, nach "euer ist?" am Schluss des Verses: Moralitaet.
+
+Lucas 1720 nach „äußerlichen Gebärden“: sichtbare (Gestalt).
+
+Lucas 1721 dem Wörtchen „wird“ übergeschrieben: kan.
+
+Lucas 1819 am Ende des Verses: Schuldige Pflicht.
+
+Lucas 1822 den Worten „was du hast“ übergeschrieben: Verdienstliche.
+
+Lucas 1913 auf dem Blattrand neben „und gab ihnen zehn Pfund und“: ieden eins.
+
+Lucas 1914 auf dem Rand bei der letzten Verszeile: verschleuderten ihr Pfund.
+
+Lucas 1921, 22 auf dem Blattrand beider Verse: verlangt Früchte des guten auch von verderbten Menschen.
+
+Lucas 1926 nach den Worten: „Wer da hat“ will Kant folgende auf den Rand geschriebene Bemerkung eingesetzt haben:
+
+[AA 19:654] sich selbst was Gutes erworben hat, noch immer besser wird, als er gemacht war.
+
+Johannes 313 nach &qu;im Himmel ist&qo;: Die Menschheit in ihrer natürlichen Reinigkeit.
+
+Johannes 2029 auf dem Blattrand: Die Auferstehung.
+
+Römer 713 auf dem Blattrand: Pag. 301.
+
+Philipper 26 auf dem Blattrand: Pag. 362.
+
+Das mit Bleistift geschriebene Zeichen: *col.* bzw. *coll.* findet sich nach folgenden Stellen: Jesaja 5312, Lucas 214, Lucas 221, Lucas 1719, Johannes 1016, Apostelgesch. 213, Römer 823, 1. Korinther 58, 1. Korinther 510, Epheser 321, 1. Petri 220, 1. Petri 35 u. 1. Johannesbrief 59.

@@ -1,0 +1,379 @@
+---
+title: Einleitung in Hegel's philosophische Abhandlungen
+author: Karl Ludwig Michelet
+year: 1832
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: the 1832 edition; converted in Seinsbyte's library; this file is the source, corrections go here
+original_text: the PDF text layer of a scan, corrected by Sonnet from the text alone, without the scan (2026-10-27); word error rate 0.6% against a Sonnet reading of 5 sampled scan pages; non-word rate 0.5% (wordfreq, the edition's own spellings kept); paragraphs and page marks as the conversion rules left them (page marks read from the PDF folios where legible); the printed edition is the authority
+translation: none
+canonical: "[p. N] marks where printed page N begins (the 1832 edition); read from the PDF folios where legible, the others by sequence"
+genre: Kant and post-Kantian philosophy
+public: true
+rights: The Einleitung in Hegel's philosophische Abhandlungen was written by an author who died in 1893, so before 1931; Karl Ludwig Michelet (d. 1893) is long out of protection and the edition (1832, from the title page of the scan) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 2697)
+---
+
+# K. L. Michelet, *Einleitung in Hegel's philosophische Abhandlungen* (1832)
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+B
+
+M62
+
+AR
+
+ARTES
+
+SCIENTIA
+
+VERITAS
+
+LIBRARY
+
+OF THE
+
+UNIVERSITYOFMICHIGAN E PLURIBUS-UNUM
+
+TUE BOA
+
+51.QUAERIS-PENINSULAM -AMOENAM CIRCUMSPICE
+
+LUXUS
+
+VOGA.0.0.0,
+
+В a947, M42
+
+Einleitung in
+
+Hegel's
+
+Von
+
+D. Karl Ludwig M i ch ele t.
+
+Berlin, 1832.
+
+Verlag von Duncker und Humblot.
+
+## Vorwort.
+
+In der Vorerinnerung zu dem von mir herausgegebenen erſten Bande der Hegelſchen Schriften habe ich die Motive angedeutet, warum gegenwärtige Einleitung in die darin enthaltenen philoſophiſchen Abhandlungen ſelbſtſtän:
+
+dig erſcheint. Hier kann ich hinzufügen, daß ich wünſche, es möge mir gelungen ſeyn, den Werth der durch sie erläuterten früheſten Abhandlungen Hegel's zu erhärten, damit dieſe noch nicht genug geſchätzten Schriften den Rang einnehmen, zu welchem ſie unter den größeren bereits anerkannten Werken Hegel's beſtimmt ſind.
+
+Zugleich war mein Zweck, in Verbindung mit dem erſten Bande der durch den Verein von Freunden des Verewigten veranſtalteten Ausgabe der ſämmtlichen Hegelſchen Schriften, einen Beitrag zum Verſtändniß derſelben überhaupt zu liefern. Die Spuren dieſer äußerlichen Stellung meiner Einleitung habe ich auch in der neuen Form, in welcher ſie erſcheint, nicht verwiſchen mögen, da ſich ja doch im inneren Charakter derſelben nichts geändert hat. Berlin, den 3. September 1832.
+
+Michelet.
+
+Wenn Hegel über Schelling zu ſagen pflegte, daß die Geſchichte ſeiner ſchriftſtelleriſchen Thätigkeit zugleich die Geſchichte ſeiner philoſophiſchen Anſichten ſey, ſo daß er ſich gewiſſermaßen vor dem Publikum ſelber gebildet habe:
+
+ſo ſehen wir im Gegentheil an unſerem unſterblichen Freund und Lehrer, daß er die Gedanken, die in der Tiefe bei ihm gährten und mächtig zur Geburt ſich drängten, ſorgfältig in ſeinem Inneren zu verſchließen und zu hüten wußte, bis die Zeit ſie in seinem Mannesalter zur Reife gebracht hatte. Schelling hatte ſeine Bahn faſt durchlaufen und in einigen Jahren ſchon die hauptſächlichſten seiner Werke geſchrieben, als nach dem Wechſel des Jahrhunderts die ſchriftſtelleriſche Thätigkeit ſeines, sogar um einige Jahre älteren Freundes erſt beginnt und ſich gleichmäßig durch die zwei erſten Decennien dieſes Jahrhunderts hindurchzieht. Die Frucht dieſer zwanzig Jahre bieten die Herausgeber dem Leſer in der erſten Abtheilung der Hegelſchen Werke zum Genuſse dar. Billig macht dieselbe den Anfang des Ganzen, da auf ſie, als den Schlüſſel und die Grundlage der Hegelschen Denkweiſe die beiden anderen
+
+Abtheilungen (die Vorleſungen und vermiſchten
+
+Schriften) zurückzuführen ſind. Die Reife, in welcher dieſes neue Organon der Philoſophie ans Licht getreten iſt, gewährt den Vorzug, daß der Verfaſſer nicht, wie ſein Vorgänger, bei jeder neuen Schrift einen neuen Anfang zu machen, und das früher Aufgeſtellte zu einer bedingten Darſtellung ſeines Syſtems herabzusetzen gezwungen iſt; um der letzten Darſtellung, die dann doch wiederum nicht die letzte ſeyn ſoll, einen Platz anweiſen zu können. Auch Hegel hat allerdings ſeinen Standpunkt erſt durch einen Verlauf mehrerer Bildungsſtufen hindurch erreichen können. Aber ein ſtiller und aufmerkſamer Beobachter der an dem Tage der Oeffentlichkeit vorgenommenen Bildung ſeines Freundes, verinnerlichte er ſich, was
+
+Schelling im Kampfe mit ſeiner Zeit und gegen ſich ſelbſt errungen. Hegel war es, der ihm ſagen mußte (auch dieß haben wir aus des Verſtorbenen eigenem Munde vernommen) , daß er nun über die Kantiſche Philoſophie, nun über die Fichteſche hinausgekommen, und damit denn eine eigene Stufe auf dem Gebiete der Philoſophie erſtiegen habe, als Schelling ſelbſt ſich noch innerhalb der Grenzen des ſubjektiven Idealismus zu befinden glaubte.
+
+Und wenn wir auch in den Werken Hegel's einen unterſchiedenen Charakter und Fortſchritt nicht werden verkennen können: ſo iſt ſein erſtes Wort doch ebenſo auch noch ſein letztes; wie ſich dieß bei der Vollendung, mit der wir die Wiſſenſchaft der Philoſophie in ihnen vorgetragen finden, nicht anders erwarten ließ.
+
+Es iſt nämlich die unwankende Grundanſicht Hegel's, daß, nachdem in der mehrtauſendjährigen Arbeit des philosophirenden Geiſtes derſelbe die Totalität der möglichen
+
+Formen der ſpekulativen Wahrheit durchgemacht, dieſe dann ſich ſelbſt mit Bewußtſeyn erzeugen und zur ſich ſelber beweiſenden Wiſſenſchaft erheben könne. Auch in Schelling findet ſich dieſes Bewußtſeyn: „Die ſcheinbaren Veränderungen der Philoſophie gehen entweder dieſelbe überhaupt nicht an, indem es allerdings und eben auch jetzt
+
+Beſtrebungen genug giebt, die ſich für Philoſophie ausgeben, in denen aber keine Spur davon anzutreffen iſt. Oder ſie ſind Verwandelungen, die einen wirklichen Bezug auf Philoſophie haben; ſo ſind es Metamorphoſen ihrer Form. Ihr Weſen iſt unwandelbar daſſelbe, ſeit dem Erſten, der es ausgeſprochen hat. Wenn noch umgeſtaltungen in der Philoſophie Statt finden, ſo iſt dieß Beweis, daß ſie ihre letzte Form und abſolute Geſtalt noch nicht gewonnen hat. Es giebt untergeordnetere und höhere, es giebt einſeitigere und umfaſſendere Formen. Jede ſogenannte neue Philoſophie muß aber einen neuen Schritt in der Form gethan haben. Daß die Erſcheinungen ſich drängen, iſt begreiflich, weil die vorhergehende unmittelbar den Sinn ſchärft, den Trieb entzündet. Selbſt aber auch, wenn die Philoſophie in der abſoluten Form wird dargeſtellt ſeyn, wird es Niemand verwehrt ſeyn, ſie wieder in beſondere formen zu faſſen. Die anderen Wiſſenſchaften könnten ſich
+
+Glück wünſchen, wenn erſt bei ihnen jener Wechſel der Formen ernſtlicher einträte. Um die abſolute Form zu gewinnen [p. viii], muß ſich der Geiſt in allen verſuchen. Dieß iſt das allgemeine Gesetz jeder freien Bildung." *) Hegel ging daher bei ſeinen philoſophiſchen Bestrebungen auch immer davon aus, daß Schelling, deſſen er ſchriftlich und mündlich, ſelbſt wenn er ihn widerlegte, ſtets mit dem größten Zartgefühl (wie Ariſtoteles des Plato) erwähnte, den abſoluten Inhalt der Philoſophie aufgeſtellt habe; was noch fehle, ſey die abſolute Form.
+
+Und um dieſe zu erringen, hat Schelling sich eben, wie oben bemerkt (S. VI.), in den mannigfaltigſten Darstellungen verſuchen müſſen, und noch bis auf die heutige Stunde die vollendete Form verſprochen, deren Erwerb er ſeinem Volke in prophetiſchem Geiſte vorherverkündete: „Noch mehr aber wünſchen wir, daß der Geiſt eines gemeinſamen
+
+Beſtrebens ſich immer mehr befeſtige, und nicht der die Deutſchen nur zu oft beherrſchende Sektengeiſt die Gewinnung einer Erkenntniß und Anſicht hemme, deren vollkommene Ausbildung von jeher den Deutschen beſtimmt ſchien, und die ihnen vielleicht nie näher war als jetzt." **) Dieſe vollendete Darſtellung, zu welcher Schelling sich feierlich im Angeſichte der Nation verpflichtete, die aber bei ihm, indem er ſie noch geben will, ein Sollen iſt, ſie iſt es, die ſeine kraftvolle Anregung ins Daſeyn rief, indem Hegel ſtatt ſeiner die Verbindlichkeit zu löſen unternahm. „Gegenwärtige Darſtellung,“ ſagt derſelbe *) Vorleſungen über die Methode des akademiſchen Studiums; 5te Vorleſung, S. 115-117. (Zweite Ausg., Stuttgart u. Tübingen, 1813. )
+
+** ) Philoſophiſche Schriften: Vorrede, S. XII. (1809.)
+
+[p. ix] von ſeiner Encyklopädie, ſtellt eine neue Bearbeitung der Philoſophie nach einer Methode auf, welche noch, wie ich hoffe, als die einzig wahrhafte, mit dem Inhalt identiſche anerkannt werden wird. “ *) Noch beſtimmter drückt er ſich in der Vorrede zur Logik aus: „Ich erkenne, daß die Methode, die ich in dieſem Syſteme der Logik befolgt, oder vielmehr die dieß Syſtem an ihm ſelbſt befolgt, noch vieler Vervollkommnung fähig iſt; aber ich weiß zugleich, daß ſie die einzige wahrhafte iſt. Und dieß erhellt leicht daraus, daß ſie von ihrem Gegenſtande und Inhalte nichts Unterſchiedenes iſt;
+
+denn es iſt der Inhalt in ſich ſelbſt, die Dialektik, die er an ſich ſelbſt hat, welche ihn fortbewegt. Es iſt klar, daß keine Darſtellungen für wiſſenſchaftlich gelten können, welche nicht den Gang dieſer Methode gehen und ihrem einfachen Rhythmus gemäß ſind. Denn es iſt der Gang der Sache ſelbſt." **)
+
+Auch hat Hegel die Befriedigung genoſſen, in Erfüllung gehen zu ſehen, was er als den Zweck ſeines Wirkens erkannte: „Die wahre Geſtalt, in welcher die Wahrheit exiſtirt, kann allein das wiſſenſchaftliche Syſtem derſelben ſeyn. Daran mitzuarbeiten, daß die Philoſophie dem Ziele, der Form der Wiſſenſchaft näher komme, ihren Namen der Liebe zum Wissen ablegen zu können, und wirkliches Wiſſen zu ſeyn, iſt es, was ich mir vorgesetzt." ***) Es bleibt nur übrig, daß jetzt das ges Vorrede zur erſten Ausgabe. (S. XXXIV, der dritten Ausgabe.) **) Band I., Einleitung S. XX XXI. *** ) Phänomenologie: Vorrede, S. 6., Bd. II. dieſer Geſammt-Ausg.
+
+[p. x] ſammte Deutſchland eingedenk jener Ermahnungen Schelling's mit vereinten Kräften wirke; um ohne Sektengeiſt es eben zur Anerkennung zu bringen, wie der Nation durch beide Genien jene ihr beſtimmte vollendete Ausbildung der Philoſophie als Wiſſenſchaft endlich zu Theil geworden ſey: und um der Hydra der. Unphiloſophie, die wilder als je ihre Häupter zu ſchütteln droht, durch ächtes Philoſophiren die Stirn zu bieten.
+
+Daß Hegel aber auf dieſem Gipfel der Wiſſenſchaft ſtehe, ließe ſich unter Anderem auch daraus entnehmen, daß alle die Heroen der Wiſſenſchaft, welche eine weſentliche Form der ſpekulativen Wahrheit noch unberückſichtigt ließen, daran ergriffen ihres Mangels überführt wurden, und ihr
+
+Syſtem somit als ausſchließliches Syſtem der Wahrheit widerlegt sahen. Sie hatten die Ehre, Wahrheit auch in ihres Gegners Feldlager anzutreffen, und, im Kampfe um Wahrheit, einer höheren Geſtaltung der Philoſophie den Urſprung zu geben. Hegel aber iſt, geſchweige widerlegt zu ſeyn, von einem ächten Philosophen nicht einmal angegriffen worden. Er hat, wie die Römiſchen Feldherren, der Feinde Götter aus dem feindlichen Lager ins ſeinige herüberbeſchworen. Und was in den letzten Jahren ſeines Lebens, wo der Glanz ſeines Namens immer voller ſtrahlte, an Unphiloſophie ihn anzutaſten wagte, iſt ſo in ſich ſelbſt zerfallen, daß es kaum eines Wortes von ihm, zu dem er (äußerlich bewogen) ſich ſchwer entſchloß, bedurfte, um es in ſeiner ganzen Blöße hinzuſtellen. „Dieſe Schrift," ſagt er von einem dieſer Angriffe, „iſt hin und wieder für ſehr bedeutend unter der Hand ausgegeben worden. Es iſt [p. xi] dem Referenten sauer angekommen, es zu dokumentiren, wie ſie beſchaffen iſt. Wenn es erlaubt wäre, magnis componere parva, ſo hätte er ſich mit dem Schickſal eines großen Königs getröſtet, der einen Haufen Halbbarbaren (ſchlimmere als die ganzen) einem Begleiter mit den Worten zeigte: Sieht Er, mit ſolchem Geſindel muß ich mich herumſchlagen." *)
+
+Aus dem angegebenen Geſichtspunkte müſſen nun die in dieſer erſten Abtheilung erſcheinenden Werke Hegel's beurtheilt werden. Die ſpekulative Methode wird immer das Hauptaugenmerk derſelben bleiben; und wenn auch ſchon in ihnen mannigfaltiger Inhalt der Philoſophie begriffen wird, ſo bleibt die vollendete Entfaltung des Reichthums vornehmlich der geiſtigen Welt doch den Vorlesungen vorbehalten. Denn da den wahrhaften Inhalt erſt die wahrhafte Form erzeugt, ſo finden wir bei Hegel Beides in der höchſten Vollendung. Auf früheren Standpunkten des philoſophiſchen Bewußtſeyns muß, um die Fülle des Inhalts zu retten, die ſyſtematiſche Form aufgegeben werden, wie bei Ariſtoteles: oder das beſondere Prin:
+
+cip muß ſich als ein einſeitiges auf der Höhe ſeiner Abſtraktion zu erhalten ſuchen, ohne den ganzen Umfang des Univerſums in ſich aufnehmen und aus ſich begreifen zu können.
+
+Drei Abhandlungen aus dem von Schelling und Hegel herausgegebenen „Kritiſchen Journal der Philoſophie," ſo wie die Schrift über „die Differenz des *) Jahrbücher für wiſſenſch. Kritik: 1829, Auguſt, Nr. 40, S. 318.
+
+[p. xii] Fichteſchen und Schellingſchen Syſtems der Philoſophie," machen den Anfang dieſer Sammlung und bilden gegenwärtigen erſten Theil unſeres Organon. Sie haben den allgemeinen Charakter, daß Hegel in ihnen ſeine Zeit und die ihm unmittelbar vorhergegangenen geſchichtlichen Philosophien beobachtet; und, indem er die von Schelling aufgeſtellte für die vollendetſte und letzte hält, entweder durch negirende Kritik die früheren Standpunkte in jenen auflöſt, oder ſchon von ihm aus zu weiterer Begründung der philoſophiſchen Wiſſenſchaften anſtrebt. Dieſe Abhandlungen ſind der Reflex der Geſchichte der Philoſophie, wie sie ſich in Hegel's Bewußtſeyn abſpiegeln mußte, das mit dieſer durch ihn hindurch zu ſeinem höheren Standpunkte dringen konnte. Sein Lernen iſt ebenſo auch Kritik, Umbilden und Weiterbilden. Hegel ſteht daher nicht jenſeits dieſer früheren Philoſophien, ſondern ſeine Philosophie iſt nur aus der Verarbeitung derſelben hervorgegangen, indem ſie ſie als Momente in sich aufgenommen. Das zweite Stadium bildet „die Phänomenologie des Geiſtes,“ die Hegel ſelbſt ſeine Entdeckungsreiſen zu nennen pflegte, wogegen dann jene früheren Abhandlungen als die Vorſtudien zu dieſen Reiſen angeſehen werden können. Während Hegel bisher meiſt nur den Inhalt der Schellingſchen Philoſophie als den höchſten vorausſetzte, ohne auf Methode (über die Schelling’s Anſichten einen mehrfachen Stufengang durchlaufen haben) ſeine vornehmliche Aufmerkſamkeit zu richten, noch sie beſonders herauszukehren: ſo finden wir jetzt in dieſem Hegelſchen Werke ein umfaſſendes Beiſpiel der Methode aufgeſtellt. Statt [p. xiii] ſeine Vorgänger um Wahrheit zu fragen (da er ihre Standpunkte als bedingte, hiſtoriſche nachgewieſen), und nachdem er ſich von den Schranken jedes beſtimmten Syſtems (was selbſt das Schellingſche noch geblieben war) befreit hatte: wählt Hegel in der Phänomenologie einen anderen Ausgangspunkt.
+
+Das philoſophirende Subjekt
+
+ſteht bei Schelling in der intellektuellen Anſchauung nur über und außer dem abſoluten Inhalt der Wahrheit, der ſein Gegenſtand iſt, und hatte daher nichts Beſſeres zu thun, als ſich vertrauungsvoll, aber unbegründetermaßen in den Abgrund des Abſoluten hinab zu ſtürzen. Die intellektuelle Anſchauung blieb' ſelbſt eine ſubjektive Erfahrung, und Poſtulat, und ſomit etwas Zufälliges. Das ſo nur als erſcheinender Geiſt auftretende philoſophirende Subjekt erhob Hegel nun allein kraft der Methode ins ſpekulative Denken. Indem er nämlich das unmittelbare
+
+Bewußtſeyn, durch deſſen eigene immanente Entwickelung, an den Thaten der Natur und geſammten Geſchichte vorbeiführt, die auf dieſem Wege, als ſo viel Stufen des Bewußtſeyns, wie am Ufer vorüberfliegen, bildete er es allmählig zum philoſophiſchen Bewußtſeyn Herauf. Da alſo das Reſultat der. Phänomenologie der Begriff des abſoluten Wiſſens iſt, ſo iſt dieſes Werk als eine
+
+Propädeutik der Philoſophie anzuſehen, auf welche als zweiter Theil das wiſſenſchaftliche Syſtem der Philoſophie folgen ſollte. Weil aber Hegel's Einleitung in die Philoſophie ſelbſt ſchon Philoſophie iſt, ſo verfällt er nicht in den an Reinhold getadelten Fehler, der vor lauter „Vorausſetzun [p. xiv] gen und Anläufen“ zur Philoſophie nie in die Philoſophie hineingelangte (S. 281 flg.). Von jenem Plane wurde indeſſen abgewichen, indem ſtatt des ganzen Syſtems nur, deſſen erſter Theil, die Logik erſchien. Sie iſt offenbar der innerſte Kern und Wendepunkt des ganzen Organon und bildet mit der En:
+
+?
+
+cyklopädie und Rechtsphiloſophie die dritte Gruppe, die wir darin zu unterſcheiden haben. Die logik als die φιλοσοφία πρώτη läßt die Voraussetzung des erſcheinenden Geiſtes (da dieſer selbſt ſich in das wiſſenſchaftliche!
+
+Denken aufgehoben) fallen; und entwickelt dieß Denken in ſeiner an und für ſich ſelbſt energirenden Bewegung als das Princip der Dinge, „an welchem,“ wie Ariſtoteles ſich ausdrückt, „der Himmel und die Natur befeſtigt ſind.“ *)
+
+In der Encyklopädie wird jener verlaſſene Plan wieder aufgenommen, und der ganze Umfang des Wissens überſichtlich, nicht mehr im Spiegel des erſcheinenden Geistes, ſondern als aus dem abſoluten logiſchen Denken herausgeboren dargeſtellt. Die Rechtsphiloſophie endlich giebt ein Beiſpiel, wie, der logiſchen Methode zufolge, eine beſondere Disciplin der Philoſophie abgehandelt werden müſſe: und wie aus der Vorleſung (was sie ursprünglich war) ein wiſſenſchaftliches Werk hervorgehen könne. Die Rechtsphiloſophie hat daher die nächſte Beziehung zu den Vorleſungen; und ſie iſt vielleicht das Werk Hegel's, welches den umfaſſendſten Einfluß ausgeübt und ihm die meiſten Anhänger gewonnen, indem darin Form und In- *) Metaphys. XII., c. 7.
+
+halt unter des Meiſters eigener Hand zur innigſten Durchdringung
+
+gekommen ſind. Daß aber Hegel gerade die philoſophiſche Lehre von Recht und Staat zu dieſem Beiſpiel wählte, iſt darin begründet: daß, da Schelling (nach Hegel's eigenen Äußerungen) den ſpekulativen Geiſt ſeiner Anſicht beſonders auf dem Gebiete der Natur zur Anwendung gebracht hatte, Hegeln die Bearbeitung der Philoſophie des: Geiſtes (wo Schelling meiſt nur Kant im „ewigen Frieden“ gefolgt ſey) von Grund aus überlaſſen worden; im Geiſte aber iſt der Staat die Mitte, in welcher die Wiſſenſchaften des individuellen Geiſtes als Vor und die des absoluten Geiſtes als Nach ihr gemeinſchaftliches Band und Berührungspunkt haben: wie ihre Gegenſtände im Staate als ihrer feſten Baſis ihre Wurzeln ſchlagen und aus ihm hervorblühen.
+
+Es ergiebt ſich hieraus, daß indem die Herausgeber in dieſer erſten Abtheilung die Hegelſchen Werke in ihrer chronologiſchen Folge liefern, ſie deshalb doch nicht von der in der Natur der Sache begründeten Ordnung abzuweichen nöthig haben.
+
+Was die Reihenfolge der Vorleſungen in der zweiten Abtheilung betrifft, ſo wird der Verein, da er die Vor:
+
+leſungen über Logik, Naturphiloſophie, und Anthropologie und Pſychologie ſchon den ſie betreffenden inhaltsvolleren Theilen der Encyklopädie anmerkungsweiſe einzuſchalten beſchloſſen hat, – die übrigen in nachſtehender ſachgemäßer
+
+Ordnung auf einander folgen laſſen: 1. Äſthetik; 2. Religions-Philoſophie; 3. Geſchichte der Phi- [p. xvi] loſophie; 4. Philoſophie der Geſchichte. Denn wenn von dieſen auch die Geſchichte der Philoſophie die früheſte iſt, indem ſie ſich ſchon aus der akademiſchen Thätigkeit in Jena und Heidelberg herſchreibt, und die Philoſophie der Geſchichte die letzte nur in Berlin (1822 zum erſten Male) vorgetragene iſt: ſo mußte doch in Bezug auf Geſchichte der Philoſophie die ſachliche Stellung der historischen unbedingt vorgezogen werden; um ſo eher, da für die akademiſche Thätigkeit Hegel's zu Berlin alle dieſe Vorleſungen (bei fortwährender Ueberarbeitung) auch ein Gleichzeitiges geworden ſind. Die Philoſophie der Geſchichte aber, die zeitlich die letzte iſt, hat denn auch als der Sache nach die letzte geſtellt werden müſſen. Denn ſie iſt nicht bloß (wie nach den letzten SS. der Rechtsphiloſophie zu ſchließen wäre) Darſtellung des Rechts und Staats in univerſal-hiſtoriſcher Beziehung, ſondern handelt die geſchichtliche Entwickelung der beſonderen Volksgeiſter ab: und zwar wie ſich deren Principe in der ganzen Breite der Wirklichkeit als Recht, Sitten, Staat, Kunſt, Religion und Wiſſenſchaft auseinander legen, und im Verhältniß zu einander ſtehen. Da alſo die Philoſophie der Geſchichte die nach dem Charakter der Völker jedesmal verſchiedene
+
+Beziehung dieſer Sphären (indem bald die eine, bald die andere als die die übrigen bedingende zu Grunde gelegt werden muß) darzuſtellen hat: ſo müſſen ſie vorher ſchon in ihrer Vereinzelung entwickelt worden ſeyn, damit die Philoſophie der Geſchichte das. Nähere ihres Begriffs vor:
+
+aussetzen könne. Die Philoſophie der Weltgeſchichte iſt hiernach in jeder Rückſicht als das Ende und der Gipfel der [p. xvii] philoſophiſchen Thätigkeit Hegel's zu betrachten. Sie iſt die Reſumtion des ganzen Syſtems in ſich, und der ſchlagendſte Beweis, wie Syſtem und Wirklichkeit Eine und dieſelbe Totalität und Wahrheit ſind, und die philoſophirende Vernunft im Staate und den unterſchiedenen geiſti:
+
+gen Funktionen des geſammten Staatsorganismus ſich ſelbſt erkannt habe.
+
+Es bleibt jetzt nur übrig, an die nähere Charakterisirung der in dieſen erſten Band aufgenommenen philo-
+
+ſophiſchen Abhandlungen zu gehen. Was vorher ihre äußere Ordnung betrifft, ſo fällt auch hier im Ganzen der ſachliche Fortſchritt mit der chronologiſchen Folge zuſammen. Denn die letzte der hier er:
+
+ſcheinenden Abhandlungen: „Ueber die wiſſenſchaftlichen Behandlungsarten des Naturrechts“ iſt aus den zwei letzten Stücken des zweiten Bandes des kritiſchen Journals (1802 und 1803) entnommen. Die dritte aber: „Ueber das Verhältniß
+
+der Naturphiloſophie zur Philoſophie überhaupt," obgleich ſchon im dritten Stücke des erſten Bandes (1802) enthalten, iſt doch ſpäter als die erſt im erſten Stücke des zweiten Bandes (gleichfalls 1802) befindliche, hier an die Spitze geſtellte Abhandlung über „Glauben und Wiſſen," da aus einer Anmerkung der Herausgeber auf dem Schmutztitel hervorgeht, daß das dritte Stück des erſten Bandes ſpäter geliefert worden iſt, als das erſte
+
+Stück des zweiten Bandes, um den erſten Band durch die ſehr lange Abhandlung über Glauben und Wiſſen (als deſſen drittes Stück) nicht unverhältniſmäßig zu vergrö- ßern. Es iſt hier alſo nur Eine Umſtellung vorgenommen [p. xviii] worden, indem die 1801 erſchienene „Differenz des Fichteſchen und Schellingſchen Syſtems“ der Abhandlung über Glauben und Wiſſen nachgeſtellt worden. Was durch die ſachliche Folge hinlänglich gerechtfertigt erſcheint; obgleich man es allerdings empiriſch gemäß finden kann, daß Hegel ſeine ſchriftſtelleriſche Laufbahn mit der Entwickelung des Gegenſatzes der Fichteſchen und Schellingſchen Philoſophie begonnen, und dann erſt zu den ihm entfernter liegenden, unreiferen' Anfängen der Fichteſchen Philoſophie (in Glauben und Wiſſen) hinaufgeſtiegen sey.
+
+In den oben angegebenen allgemeinen Charakter dieſer vier Abhandlungen theilen ſich dieſelben nun ſo, daß die erſte, Glauben und Wiſſen, obgleich nicht eine Recenſion, doch eine bloß kritiſche Darſtellung der drei „Reflexionsphiloſophien der Subjektivität“ iſt, und ſomit zum Reſultate auch nur die Negation der in dieſen Syſtemen aufgeſtellten Schranke hat. Die „Vollſtändigkeit der Formen“ dieſes ſubjektiven Idealismus „als Kantiſche, Jacobische und Fichteſche Philoſophie" wird durch die markvollſte
+
+Dialektik zerrieben, und in der Schlußphraſe darauf hingewieſen, daß ſie durch ihre Feſtrennung im Endlichen und das Abſolutmachen deſſelben die „Gottloſigkeit“ in die Philoſophie, und „den ſpekulativen Charfreitag“ eingeführt haben (S. 157). Gerade dadurch aber, daß „der vollſtändige Cyklus dieſer Formen durchlaufen, iſt die äußere Möglichkeit geſetzt, daß die wahre Philoſophie aus dieſer Bildung erſtehe" (S. 155). Zweitens geht Hegel über das bloß negative Verhalten zu früheren hiſtoriſchen Verſuchen der Philoſophie als Wiſſenſchaft hinaus und ver- [p. xix] bindet damit das poſitive Verhalten, indem er in der Differenz dem Fichteſchen Syſteme, als dieſer höchſten Koncentration der Reflexionsphiloſophie, das abſolute Heil in dem objektiven Idealismus des Schellingſchen Syſtems entgegenſetzt.
+
+Doch erkennt er jetzt das Affirmative auch in der Fichteſchen Philoſophie (S. 204 und 272), und deutet als unpartheiiſcher Zuſchauer, der in den Kampf beider
+
+Theile einzugreifen ſich enthält, nur den Fortſchritt an, den Schelling im Verhältniß zu Fichte gethan. In der dritten Abhandlung über die Naturphiloſophie iſt das poſitive und negative Verhalten auf die Weiſe verknüpft, daß, indem Hegel die Naturphiloſophie gegen den ihr gemachten
+
+Vorwurf der Unſittlichkeit rechtfertigt (S. 310 flg.), hieran zum erſten Male die höhere ſelbſt über Schelling hinausgehende Anſicht Hegel's heraustritt, die bisher in den zwei erſten Abhandlungen nur dem aufmerkſamen Leſer erkennbar, dem Verfaſſer vielleicht ſelbſt unbewußt vorhanden war. Denn Hegel entwickelt jetzt, wie die Naturphiloſophie die Möglichkeit in ſich enthalte, „den abſoluten
+
+Idealismus“ (S. 305) aus ſich zu erzeugen und die Philosophie der Religion und der Sittlichkeit hervorgehen zu laſſen. Nun erſt kann die vierte höchſt gediegene Abhandlung über Naturrecht den erſten Aufſchwung des ganz fremder Bildung entwachſenen Gedankens enthalten; indem ſie den Kern der Hegeln eigenthümlichen Anſichten über Philoſophie des Gei-
+
+ſtes, beſonders in Bezug auf Staat und Sittlichkeit, zwar noch im Keime, aber doch immer ſchon ſo darſtellt, daß man die Hauptpunkte der ſpäteren Rechtsphiloſophie nicht undeutlich in ihr erkennen kann. So ſteht ſie am Ende
+
+[p. xx] dieſes erſten Bandes als des noch eingehüllten Keims der Hegelſchen Philoſophie, wie die Rechtsphiloſophie am Ende des Organon überhaupt. 1. Glauben und Wiſſen.
+
+Mit Recht durfte dieſer Aufsatz an die Spitze des Hegelſchen Philoſophirens geſtellt werden. Denn die Auflöſung des Gegenſatzes von Glauben und Wiſſen iſt die Hauptaufgabe des ſich vollendenden philoſophiſchen Bewußtſeyns eines Volkes. So haben erſt am Schluſſe der griechiſchen Philoſophie die Neuplatoniker die griechiſche Religion begriffen und mit der Philoſophie versöhnt, während ihre Vorgänger ſie ſeitwärts liegen ließen oder ſiegreich bekämpften. Auch in dieſen Reflexionsphiloſophien erkennt Hegel nun zwar ſchon eine Verſöhnung von Glauben und Wissen an. Sie ſind aber der erſte noch unvollſtändige Verſuch, das Princip des Proteſtantismus — (die Wahrheit aus ſeinem eigenen Innern zu ſchöpfen und durch das Zeugniß des Geiſtes zu bewähren) ins philoſophiſche Bewußtſeyn zu erheben (S. 5). Das Wiſſen erſcheint als bloßer Glaube, nicht einmal an objektives Dogma, ſondern in der Form des ſubjektiven Fühlens; der, nachdem er von Kant als Postulat ans Ende ſeiner Philoſophie geſtellt und von Jacobi zur Mitte und zum Wendepunkt des Philoſophirens erhoben worden, bei Fichte zur Abſolutheit des ſubjektiven Ich fixirt iſt, das ungeachtet ſeiner Absolutheit das Abſolute ſchlechthin außer ſich behält und nur = Nicht:Ich ſeyn ſoll, ohne je dieſe Identität erreichen zu können. Hegel ſtellt nun das Ende und Ziel dieſer von Kant begonnenen Revolution in der Philoſophie dar, indem er den inhaltsvollen
+
+[p. xxi] Glauben aus dem philoſophiſchen Bewußtſeyn selber entwickelt, und die Sehnſucht des Fühlens und Ahnens aus der Jenſeitigkeit ihres Objekts zurückholt, um, im gegenwärtigen Genuß und Schauen der Wahrheit, den Gedanken als das höchſte Princip der Dinge zu erkennen. Wer läugnet, daß das Denken, als die Quelle der Wahrheit, die Erkenntniß Gottes möglich mache, und aus ſeinem
+
+Gefühlsſtandpunkte solches Beginnen des Hegelſchen Philoſophirens als frevelhafte Vermeſſenheit verabſcheut und verſchreien will, der ſteht mit demſelben ganz auf dem nämlichen Boden der Gewiſſensfreiheit des Lutherthums, indem auch er nur in ſeinem Innern (dem Gefühle) über die Erkenntniß Gottes etwas ausgemacht wiſſen will, und außer dem Gefühle in göttlichen Dingen keinen Maßſtab anerkennt. Was Hegel aber, indem er das Innere als Denken zum Princip macht, vor ihm voraus hat, iſt: die zufällige Innerlichkeit (des Gefühls) durch die in ſich noth:
+
+wendige, objektive Innerlichkeit (des Denkens) erſetzt zu haben.
+
+Denn das Denken, obgleich einerſeits ſubjektive
+
+Thätigkeit des menſchlichen Geiſtes iſt dann andererſeits eben ſo ſehr das an aller Objektivität Wahrhafte, und als Vernunft der sich selbſt verzweigende Grundſtamm, welcher den Bau des natürlichen und geiſtigen Univerſums trägt.
+
+Schon Ariſtoteles bemerkt, daß „wer zuerſt behauptet habe, Vernunft ſey, wie in den lebenden Weſen ſo auch in der Natur, als die Urſache der Welt und ihrer Ordnung, wie ein Beſonnener unter Faſelnden erſchienen ſey." *) *) Metaphys, I, 3,
+
+[p. xxii] 1) Die Kantiſche Philoſophie wird in dieser Darſtellung noch am Gelindeſten beurtheilt, theils weil sie dem Denken immer noch einen Schein von Objektivität läßt (S. 12 und 52), theils weil ſie ſich gegen das endliche, bloß subjektive Denken als Verſtand, nur kritiſch verhält, und alſo die Möglichkeit einer wahrhaften Vernunfterkenntniß als objektiven Syſtems der Wiſſenſchaft in den Schlußworten der Kritik der reinen Vernunft ausdrücklich beſtehen läßt. So hebt Hegel beſonders das Hervorbrechen der ganz ſpekulativen Anſicht Kant's über die produktive Einbildungskraft heraus, „aus welcher als dem Erſten und Urſprünglichen das ſubjektive Ich sowohl als die objektive Welt erſt zur nothwendig zweitheiligen Erſcheinung und Produkt ſich trennen;“ in ihr müſſe man alſo, das einzige Anſich erkennen, nicht daß sie bloß „als ein Mittelglied zwiſchen ein exiſtirendes Subjekt und eine exiſtirende Welt erſt eingeſchoben würde" (S. 24 bis 25). Doch tadelt Hegel dann eben so an Kant, daß die Anſchauung der abſoluten Identität des Subjekts und Objekts in „der transcendentalen Einbildungskraft, als anſchauendem Verſtande" (S. 42) ſelbſt wiederum obgleich ſchlechthin nothwendig, doch etwas Problematiſches" (S. 43) und lediglich Subjektives bleiben ſoll. Die ſchlechte Unendlichkeit als bloße Negation des Endlichen, welche die affirmative Unendlichkeit des Abſoluten nicht aus ſich erzeugen kann, iſt der bleibende Grundirrthum dieſer Reflexionsphiloſophien der Subjektivität. 2) Am Schlimmſten kommt aber von ihnen in dieſer polemiſchen Darſtellung freilich Jacobi fort, weil „ſein
+
+[p. xxiii] Philoſophiren des Zuſammenhangs mit der Philoſophie am Meiſten entbehrt“ (S. 156), und aus dieſem Idealismus der sich zuſpitzenden Subjektivität des Gefühls in den platteſten realiſtiſchen Dualismus verfällt. Mit der ganzen Jugendkraft des Gedankens und der Energie, welche das Bewußtſeyn der Wahrheit giebt, wird hier dieß ſich zu einer Philoſophie aufſpreizende Fühlen und Meinen zermalmt; und die Bornirtheit ad absurdum geführt, welche, indem ſie tiefe Denker, wie Kant (S. 80 ff.) und Spinoza (S. 60 ff.) meiſtern, und mit, hämiſchem, biſſigem und gehäſſigem Gepolter und Gezänke“ (S. 80 und 87) galimathiſiren will, selber (S. 95) als baarſter Galimathias aufgewieſen wird. Jacobi selber muß. die Richtigkeit und Schärfe der Hegelſchen Kritik hin und wieder eingeleuchtet haben; denn mehrere der von Hegel angegriffenen Stellen hat er in der Ausgabe ſeiner geſammten Werke fortgelaſſen. So ſuchen wir z. B. vergeblich die von Hegel S. 94 - 95 aus dem Aufsatze: „Ueber eine Weiſſagung
+
+Lichtenbergs“ (welchen er in dem „überflüſſigen Taſchenbuche von 1802" vor ſich hatte) citirten – als daſelbſt auf
+
+#### S. 40, Anmerkung, befindlichen
+
+Worte. Jetzt leſen wir an dieſer Stelle *) eine zwar in ähnlichem Sinne verfaßte, jedoch erläuternde und rechtfertigende Anmerkung, worin Jacobi ſich zwar vor Mißverſtändniſſen zu verwahren
+
+ſucht.
+
+Der beſte Beweis aber, daß es mit dieſer
+
+Art von Rechtfertigung nicht weit her iſt, bleibt immer der, daß er jene getadelten Sätze dennoch aufgeopfert. \#) Jacobi's Werke Th. III. S. 236-239, Anmerkung.
+
+[p. xxiv] Eben so findet ſich die von Hegel S. 53 angeführte Stelle aus der Vorrede zu „David Hume“ nicht mehr in den Werken. Endlich giebt Jacobi noch den ganzen Einwand, Hegels zu, wenn er in der S. 134 citirten Stelle ſtatt:
+
+„in Gott finden“ in den Werken „zugleich mit Gott“ u. ſ. w. drückt. Der Anflug von Spekulation, den Hegel darin fand, hat Jacobi erſchreckt, und auch ſchon deshalb zu jener Umänderung bewogen. Sonſt aber erkennt Hegel das Verdienſt Jacobi's die Geiſtreichigkeit im Einzelnen und das Feſthalten der lebendigen, freien Sittlichkeit gegen den todten Begriff des formalen Pflichtgeſetzes bei Kant vollkommen an (S 105 — 106). Und wie das Ausgezeichnetſte der Jacobiſchen Philoſophie die eigene Individualität ihres Urhebers iſt: so nannte ihn Hegel auch geſprächsweiſe einen durchaus edlen Mann, und erinnerte ſich gern daran, daß, als Jacobi ihn ſpäter in Heidelberg beſucht
+
+habe, derſelbe an ſeine Bruſt geſunken und allen Groll vergeſſen habe. An die Kritik Jacobi's ſchließt ſich ein Erwähnen des
+
+Herderſchen Philosophirens und der Reden über die Religion an. Und wenn gegen das Zuſammenſtellen Herders mit Jacobi gar nichts zu erinnern iſt: ſo muß bemerkt werden, daß der Standpunkt der Reden über die Religion - desjenigen Schleiermacherſchen Werks, welches vorzugsweiſe Hegel's Aufmerkſamkeit auf ſich zog, indem er deſſelben auch noch in der Vorrede zur Differenz (S. 165) rühmend erwähnt - zwar einerſeits, nach des Verfaſſers eigenem Geſtändniß, *) allerdings als ein Anlehnen an Ja- *) S. IX. (An Guſtav von Brinkmann, 4te Aufl. 1831) : Ich [p. xxv] cobi begriffen werden muß; andererſeits aber iſt nicht zu vergeſſen, daß Schleiermacher auch, und zwar noch unmittelbarer (durch die Monologe, ſein Princip der Eigenthümlichkeit u. ſ. f.) aus der Fichteſchen Ichheitslehre hervorgegangen und daraus zu begreifen iſt, worüber ſich auch Hegel ſelber mündlich gegen mich zu wiederholten Malen geäußert hat. Was aber den tiefen Blick zeigt, mit welchem Hegel den Geiſt dieſes Werks erfaßte, iſt, daß die ſpätere Dogmatik Schleiermacher's sich in der That selber nur als das nun realiſirte Produkt jener „Virtuoſität des religiöſen Künſtlers," (S. 113) ausgiebt, das ſich erſt Anerkennung in der proteſtantiſchen Welt verſchaffen wolle.
+
+3) Fichte's Standpunkt endlich wird ſo charakteriſirt, daß, indem er die Jacobiſche Subjektivität des Sehnens mit der leeren Objektivität des Denkens bei Kant ſynthetiſiren will, dieſe Syntheſe immer nur im Sollen bleibt.
+
+„Die Forderung: Ich ſoll nur gleich Nicht-Ich ſeyn," ohne es ins Unendliche hin zu werden „iſt der Kulminationspunkt des Syſtems“ (S. 117). Und was dieſe Philoſophie ſo intereſſant macht, iſt die eiſerne Konſequenz und Ausdauer, mit welcher ſie die ſpekulative Wahrheit als Forderung ſcharf im Auge behält, ohne je durch Aufheben des bloßen Forderns zu ihr ſelber hindurchzudringen. Man kann alſo wohl ſagen, daß dieſer ſubjektive Idealismus nicht idealiſtiſch genug geweſen, und ſtatt zu weit, nicht weit genug gegangen ſey, indem das Denken im unendlichen Anſtoß meine F. H. Jacobi; dem wir Beide ſo vieles verdanken und mehr gewiß als wir wiſſen."
+
+[p. xxvi] eine ihm unüberwindliche Schranke gefunden, und ſich alſo noch nicht zum abſoluten Princip Der Wahrheit konſtituiren konnte. Indem Hegel aber das weitere Eingehen in die Fichteſche Philoſophie und ihre Beurtheilung in der Differenz vorgenommen, ſo beſchränkt er ſich hier, nach Betrachtung des Princips, auf diejenige Darſtellung der Fichteſchen Anſicht, welche in der: „Beſtimmung des Menſchen" in populärerer Geſtalt enthalten iſt (S. 127). Wobei denn, da Fichte gleich Jacobi, in Deklamationen verfällt, ihm auch eine ähnliche Refutation zu Theil werden mußte.
+
+### II. Differenz des Fichteſchen und Schellingſchen
+
+Syſtems. Dieſe Schrift erſcheint im Ganzen reifer als die erſte, und macht mit der dritten Abhandlung den Uebergang aus der bloß negativ hiſtoriſchen Auffaſſungsweiſe zur syſtematiſchen Darſtellung einer philoſophiſchen Materie. 1) Der erſte Abſchnitt, der „mancherlei Formen"
+
+erwägt, die bei dem jetzigen Philoſophiren vorkommen," enthält zunächſt entwickeltere Anſichten über Geſchichte der Philoſophie (S. 167 - 172, 200-201) als in der Einleitung zur Schrift über Glauben und Wiſſen nur beiläufig hingeworfen ſind, und die ſich zwei Jahre ſpäter in Schellings Methodologie, *) wie wir oben sahen (S. VII.), wiederfinden; am Ausführlichſten aber von Hegel in der Einleitung zu ſeinen Vorleſungen über Geſchichte der Philoſophie dargeſtellt worden ſind. An der Beurtheilung „unvollkommener Philoſophien" (S. 5) zeigt ſich *) Die erſte Ausgabe iſt 1803 erſchienen.
+
+[p. xxvii] nämlich, wie „die wahre Eigenthümlichkeit" eines Historischen Standpunkts der Philoſophie darin beſteht, daß die Eine allen Philoſophien zu Grunde liegende Vernunft aus dem jedesmaligen „Bauzeuge eines beſonderen Zeitalters ſich eine Geſtalt organiſirt hat" (S. 171). Ferner ergiebt ſich gegen Glauben und Wiſſen hier der Fortſchritt, daß der Begriff der Methode, von der daſelbſt noch nicht die Rede war, jetzt aufgeſtellt wird, (S. 178 ff.). Hegel faßt ſie ſchon hier ſo auf, daß, indem die Vernunft die von der Verſtandes-Reflexion fixirten Entgegengeſetzten als Entgegengeſetzte vernichtet, ſie nur ihre Selbſtſtändigkeit aufhebt, in ihrer Vereinigung aber beide auch beſtehen läßt (S. 180). Doch nähert Hegel' ſich hier noch der Schellingſchen Anſicht, inſofern er das Denken, als philoſophiſche Reflexion nur bis zum Vernichten der Gegensätze kommen läßt, und zu dieſer Reflexion, als Antinomie, die ſich aufhebt,“ die Anſchauung als das Beſtehen der Gegensätze in ihrer Vereinigung hinzupoſtulirt; ſo daß „das ſpekulative Wiſſen als Identität der Reflexion und der Anſchauung begriffen werden muß" (S. 197). Die denkende Vernunft iſt alſo noch nicht, wie ſpäter, das über die Anſchauung Uebergreifende und ſich darin Wiederfindende; was Hegel dann ſo ausdrückt, daß ſie die Identität der Vermittelung und Unmittelbarkeit ſey. Es findet ſich aber ſchon hier das Bewußtſeyn, daß die wahrhafte „Methode des Syſtems" nicht bloß „weder ſynthetiſch noch analytiſch zu nennen" ſey (S. 200). 2) In der Darſtellung des Fichteſchen Syſtems wird nun gezeigt, wie die von ihm geforderte Iden- [p. xxviii] tität des Subjekts und Objekts, als die philoſophiſche Wahrheit, immer nur eine theilweiſe iſt (S. 205). Indem Fichte nämlich in dem ſteten Widerſpruch befangen iſt, daß der ſpekulativ geſtellten Aufgabe der Philoſophie (daß. Ich = Ich alles Seyn ſey) nie die Ausführung entſpricht (S. 205 — 209): so fällt er ſchon mit dem zweiten ſeiner Grundsätze in die bloße Verſtandes-Reflexion und die Schranke des endlichen Bewußtſeyns zurück, ohne ſich auf der ſpekulativen Höhe des erſten erhalten zu können. Und wenn er auch im unendlichen Progreſſe in fortwährendem Aufheben der Schranke begriffen iſt: ſo wird doch das Aufheben einer Schranke zugleich wieder Setzen einer neuen; ja dieſe immer weiter gehende Verſchränkung, dieß In-Banden-Schlagen des Ich wird ſogar als abſolut nothwendig poſtulirt, da hierin die Bedingung ſeiner Thätigkeit liege, das Ich aber nur ſey, was es thue oder setze. Mit einem Worte, da „Ich gleich Ich sich in: Ich ſoll gleich Ich ſeyn verwandelt," so „kehrt das Reſultat des Syſtems nicht in ſeinen Anfang zurück“ (S. 222); oder „die Identität des Subjekts und Objekts bleibt ſelbſt eine ſubjektive“ (S. 204). Und dieß weiſt Hegel durch die gründlichſte Kritik aller Theile des Fichteſchen Syſtems: der Wiſſenſchaftslehre, der Deduktion der Natur, der Moral, des Naturrechts und ſeiner Anſicht über Aeſthetik nach. 3) Daß nun dagegen bei Schelling dieſe nicht bloß subjektive, ſondern eben ſo wohl objektive Identität. als abſolutes Princip, wie Anfang ſo Ende der Philosophie ſey und sich nicht in den Theilen verliere (S. 250), wird im dritten Abſchnitt entwickelt.
+
+Hier iſt es [p. xxix] nun vornehmlich, daß Hegel im Sinne Schelling's ſpricht; und da er deſſen Gedanken meiſt nicht wörtlich anführt, ſondern durch eigene Wendungen und Ausdrücke wiedergiebt und ſogar amplificirt: ſo ſcheint es, als ſpreche er hier auch in ſeinem eigenen Namen, und erkläre ſich damit für einen Anhänger der Naturphiloſophie. Doch daſſelbige Verfahren beobachtet er auch bei Standpunkten, die anerkanntermaßen nicht für die seinigen gehalten werden dürfen, wie wir vorher im zweiten Abſchnitt ein Beiſpiel davon bei der Darſtellung des Fichteſchen Idealismus antreffen können. Vielmehr iſt das Verhältniß der Hegelſchen Denkweiſe zur Schellingſchen hier im Unbeſtimmten gelaſſen, weil es in der That noch unbeſtimmt war; und wir können nur aus einzelnen Andeutungen demſelben auf die Spur kommen.
+
+So finden wir, da doch Hegel im Ganzen die Terminologie Schelling's hier noch beibehält, in derſelben zwiſchen ihnen einen merkwürdigen Unterſchied, der dann auch zu einem Unterſchiede der Sache werden muß. Während Schelling *) nämlich, in dem abſoluten Erkennen die reale Einheit zugleich und ideale Entgegenſetzung des Realen und Idealen begriffen“ wiſſen will: ſieht Hegel in einer „ideellen Entgegensetzung“ nur „formale“ (subjektive) „Identität“ (S. 256), „die wahre Identität von Subjekt und Objekt“ dagegen allein in „ihrer reellen Entgegenſetzung“ (S. 257).
+
+So unbedeutend dieſe Verſchiedenheit
+
+des philoſophiſchen Sprachgebrauchs nun auch \#) Neue Zeitſchrift für ſpek, Phyſik B. I., Erſtes Stück, S. 75.
+
+[p. xxx] zu ſeyn ſcheint, ſo bezeichnet ſie doch offenbar die Grenzſcheide, an welcher beide Männer, hier ihnen ſelbſt noch unbewußt, ſich geſtellt finden. Denn da Schelling die Entgegengesetzten in der Identität als bloß ideelle, d. h. verschwindende Momente behauptet, und ihre Einheit, dem Standpunkt der intellektuellen Anſchauung gemäß, als das allein Reale annimmt: ſo verläugnet er nicht ſein Identitäts:
+
+Princip, das alle Geſtalten mehr nur vom Abgrund des Abſoluten verſchlingen läßt. Indem Hegel aber das Idealiſiren der Entgegengeſetzten bloß als abſtrakte (d. i. einſeitige) Einheit begreift: ſo will er, daß die wahre inhaltsvolle (oder konkrete) Identität zugleich das reelle Beſtehen der Entgegengeſetzten nicht ausſchließe. Zu ſolchen aus der abſoluten Identität hervorgegangenen Unterſcheidungen, wodurch das Princip der Wahrheit ſich allein zur immanenten Organiſation eines Syſtems erweitert, hat es die Schellingſche Identitätslehre nie bringen können (vergl. S. 201); ſo ſehr Schelling ſich auch, in der letzten Periode ſeiner philoſophiſchen Laufbahn, mit Methode beſchäftigt hat, um eben vermittelſt derſelben in ſeinem Abſoluten zu realen Unterſchieden zu kommen. Sehr gut ſetzt Hegel hinzu: „Erſt wenn die Entgegenſetzung eine reelle iſt, iſt Eins ins Andere überzugehen fähig;“ (vergl. auch S. 254). Bleibt nämlich das Objekt ein im Ich eingeſchloſſenes Subjektives, wie im Fichteſchen Idealismus: ſo muß man allerdings sagen, daß ihre Entgegenſetzung nur eine ideelle ſey. Das bei Schelling (ebendaſelbſt) „ſogenannte Geheimniß der Einheit in der Mannigfaltigkeit und der Mannigfaltigkeit in der Einheit“ hat in Wahrheit daher Hegel geoffenbart. Wo [p. xxxi] aber die Einheit das allein Reale ist, bleibt es immer noch geheimniſvoll, wie aus ihr die Mannigfaltigkeit herausgeboren werde.
+
+Als ganz unſchellingiſch muß endlich auch folgende Phrase Hegel's angeſehen werden: „Inſofern aber beide“ (die Naturphiloſophie und der transcendentale Idealismus) „Wiſſenſchaften des Abſoluten und ihre Entgegensetzung eine reelle iſt, hängen ſie als Pole der Indifferenz in dieſer ſelbſt zuſammen“ (S. 268); ſo ſchellingiſch dieſelbe zunächſt auch klingen möge.
+
+Mit mehr Bewußtſeyn ſcheidet ſich Hegel von Schelling ab, wo er (S. 269
+
+270) auf das Verhältniß von Kunſt, Religion und Wiſſenſchaft beiläufig zu ſprechen kommt. Denn es iſt dabei nicht undeutlich das Beſtreben zu erkennen, der Spekulation einen höheren Rang anzuweiſen, als der Kunſt, die Schelling zum Höchſten macht, obgleich Hegel dann ſcheinbar auch wiederum beide auf gleichen Rang ſtellt. So ließen ſich wohl noch mehrere Beiſpiele anführen, wo theils bewußter, theils bewußtloſer ſchon jetzt aus dem noch ganz Schellingſchen Gewande der Hegelsche Gedanke, – der neue im innerſten Kerne arbeitende Geiſt aus der alten Schale nicht nur hindurchzu:
+
+brechen droht, ſondern an mehreren Stellen zwiſchen ihren Riſſen auch ſchon ganz deutlich hervorſieht und hindurchgeſehen wird.
+
+4) Der letzte Abſchnitt bildet nun das drama satyricum zu dem Ernſte der tragiſchen Intereſſen, deren Kolliſion Hegel im Urtheile über ſeine beiden Vorgänger erwägt. Während, im Gegenſatze zu den klar gehaltenen vorläufigen Bemerkungen, die zwei mittleren Abſchnitte [p. xxxii] manchen ungeübten Dialektiker nicht ſelten aufhalten werden: ſo können wir hier von dieſem ſchweren Gange uns erholen, und unſeren Blicken dargeſtellt finden, wie, im Schatten jener philoſophiſchen Koloſſe, Zwerge ſich zu thun machen, und mit den Brocken ſpielen, die jene ihnen zufällig abwerfen. Doch hat auch dieſes Nachſpiel eine ernſthaftere Seite. Ich meine den tieferen Sinn, welcher in der von Reinhold (in ſeinen Beiträgen) auspoſaunten „durch die Logik in Reduktion gefallenen Philoſophie“ (S. 289) Bardili's, dieſem selber unbewußt, enthalten iſt.
+
+An Bardili hat Hegel nämlich ſeinen formaliſtiſchen Schatten oder blinden Vorläufer, wie man will. Denn wenn Bardili aus der Schellingſchen Schule gehört hat, daß das Denken ein objektives ſeyn müſſe, ſo hat er ganz
+
+Recht, das logiſche Denken als das metaphyſiſche Grundprincip der Philoſophie zu behaupten. Aber wie ſein Denken nicht wahrhaft objektiv wurde, ſo blieb ſeine Logik die formale Verſtandes-Logik, die er denn auch dem Titelblatte nach dermaßen „von allen Irrthümern der bisherigen Logiken reinigte,“ und ſo ausleerte, daß er dem Denken nichts übrig ließ, als das A = A oder die bloße logiſche
+
+Kopula Iſt zu ſeyn, alles Weitere enthalte ſchon mehr als Denken, eine Anwendung des Denkens. *) Doch iſt nicht zu läugnen, daß ihm in der „Urtheilungs- oder Objektslehre“ **) das Wahre, ***) wiewohl ganz dunkel, vorgeſchwebt habe; wie er denn auch das deutſche Wort Ur- \#) Grundriß der erſten Logik, S. 12 flgg. **) Ebendaſelbſt S. 67.
+
+***) Hegel's Logik, Band II., S. 70, [p. xxxiii] theil ſehr gut mit „quasi divisio primaria objecti“ erläutert. *)
+
+### III. Verhältniß der Naturphiloſophie zur
+
+Philoſophie überhaupt. Die äußerliche Veranlaſſung dieſes Auffatzes war (S. 299, 316
+
+317) offenbar die von Hegel ſchon in der Differenz (S. 278) angedeutete Abſicht Reinhold's, der unterdeſſen in der That darzuthun geſucht hatte, daß Moralität und Religion mit dem Standpunkt der Naturphiloſophie unverträglich ſeyen. **)
+
+Doch verliert Hegel bald dieß ſelbſtgefällige Keifern und Verſchwärzen aus dem Auge, um im Abſchiede vom Schellingschen Standpunkte (außer dem aus Dankbarkeit geleiſteten Dienſte der Vertheidigung deſſelben) gleichſam zu zeigen, wie er doch Klarheit und Leichtigkeit der Darstellung und künſtleriſche Vollendung der Diktion ſehr wohl mit den tieferen Gedanken zu verbinden wiſſe, die jetzt in ihm zur Ausbildung kommen ſollten. Als Beleg hiervon brauche ich nur z. B. auf den prächtigen, mehr poetiſch gehaltenen Schluß des Auffatzes (S. 319) hinzuweisen. Die Vertheidigung Schelling's führt Hegel aber ſo, daß gerade nur aus der Naturphiloſophie im Gegenſatze zu der Reflexionsphiloſophie wahrhafte Religion und Sittlichkeit entſpringen könne.
+
+1) Im Verhältniſſe der Naturphiloſophie zu den Reflexionsphiloſophien wird nun als Quelle aller Verkegerungen, die ſie von ihnen erfahren hat, der „tiefs verflochtene Grundirrthum " angegeben (S. 301), „das Abs \#) Am angef. Orte, S. 19. \#*) Beitrage, 2tes Heft, Nr. III., S. 125 ff.
+
+[p. xxxiv] ſolute außer ſich zu haben “ (S. 302) und „das Ich aus Der dem Abſoluten zu halten“ (S. 303). Die Reflerions: philoſophien ſelber ſind alſo eben mit der Gottloſigkeit des haftet, die ſie der Naturphiloſophie vorwerfen. „Selbſt als moraliſche Weltordnung“ (in der vollendetſten Res flerionsphiloſophie) „bleibt die Idee Gottes ewig außer dem Ich" (S. 308); ja „Gott iſt“ dort „nicht um ſeiner ſelbſt willen," ſondern wird zu einem bloßen Mittel für „die moraliſchen Zwecke“ des Ich herabgefekt. Umgekehrt „iſt nur das, was " (wie die Maturphiloſophie) „aus der abſoluten
+
+Einheit des Endlichen und Unendlichen hervorgeht, fähig in der Religion ein ewiger Quell neuer Anſchauungen zu werden,“ (S. 309). Hegel ſagt nicht, daß die Naturphilosophie die ſpekulative Auffaſſung der Religion ſchon vollbracht, ſondern daß ſie ihm nur der Anſtoß geweſen, den Zwieſpalt und die Zerriſſenheit in der Anſicht ihrer Vorgänger aufzulöſen, und das Grunddogma der chriſtlichen Religion, die Einheit der menſchlichen und göttlichen Natur, auf die tiefſten Principien der Wiſſenſchaft zurückzuführen.
+
+2) Das Verhältniß der Naturphiloſophie zur Religionsphiloſophie bietet uns daher (außer den erſten Andeutungen über Philoſophie der Weltgeſchichte) auch ſchon den Keim der Hegelſchen Religionsphiloſophie dar, indem Hegel aus dem dem Chriſtenthum vorausgeſetzten „Gefühl einer Entzweiung der Welt mit Gott ſeine Richtung auf Verſöhnung mit Gott durch Menſchwerdung Gottes“ begreift (S. 311). „Die neue“ (aus dieſem Begreifen des chriſtlichen Dogma hervorgegangene) „ſchon in [p. xxxv] einzelnen Offenbarungen ſich verkündende Religion, welche Zurückführung auf das erſte Myſterium des Chriſtenthums und Vollendung deſſelben iſt, nachdem die zeitlichen und bloß äußeren Formen des Chriſtenthums zerfallen und verſchwinden, wird in der Wiedergeburt der Natur zum Symbol der ewigen Einheit erkannt,“ (S. 315). Hiernach hat der Urheber der Naturphiloſophie *) dieſe Gedanken, in einer, dem allgemeinfaßlichen Vortrag genäherten Darſtellung ſeiner Principien“ **) und als Konſequenzen ſeines Syſtems, ſelber dargeſtellt und weiter entwickelt. Hätte
+
+Reinhold ſie aber ſchon vor ſich haben können, ſo würde er nicht die religiöſe Seite in der Schellingſchen Philosophie als gänzlich übergangen haben ausſprechen dürfen. Und Hegel hätte, wenn dieſe Schrift Schelling's damals ſchon erſchienen wäre, ſie als die beſte Widerlegung dem Reinholdiſchen Angriffe entgegenſtellen können; und nicht erſt aus der Wiedergeburt der Natur, als Symbol der ewigen Verſöhnung, deſſen tiefere Bedeutung, auch für die Religion, herauszuziehen gebraucht. Die erſten Keime dieſer Hegelſchen Anſicht sind aber ſchon in der Differenz (S. 269) anzutreffen.
+
+3) In dem Verhältniß der Naturphilosophie zur Sittlichkeit endlich hält Hegel dieß feſt, daß aus wahrhaft ſpekulativer Erkenntniß auch wahrhafte Sittlichkeit fließen müſſe, da aus der Intellektual-Welt der Ideen die Sittlichkeit erſt den Inhalt ihres Handelns ſchöpfen könne (S. 317 — 318). Philoſophiſche Erkennt- *) Vorleſungen über die Methode: 8te Vorleſung, S. 167 - 186. **) Ebendaſelbſt, Vorrede S. III. C * [p. xxxvi] niß ſey alſo, nach Plato, als dieſes Sammeln und Einkehren der Seele ins Geiſterreich ebenſo die sittliche Reinigung der Seele (S. 318). IV. Ueber die wiſſenſchaftlichen Behandlungsarten des Naturrechts. Dieſe Abhandlung ſchließt sich ganz ungezwungen dem Ende der vorhergehenden an, indem ihr Zweck die Feſtſtellung des Begriffs der absoluten Sittlichkeit iſt (S. 371). Doch indem hier die neue Philoſophie nicht bloß angedeutet, ſondern nunmehr mit eigener ſpekulativer Erkenntniß Ernſt gemacht wird: ſo sehen wir nicht ſelten beſonders hier die Tiefe des Gedankens, um klar sich auszudrücken, mit der Form der Darſtellung im Kampfe begriffen, und dieſe, wenn auch vollendeter als in den zwei erſten Abhandlungen und zur Künſtleriſchen herausgebildet, dennoch die Spuren des Ringens an ſich tragen, durch die ſie es geworden (z. B. S. 386 — 391). Ehe Hegel aber an die wahrhafte Behandlungsart des Naturrechts, als der Wiſſenſchaft des Sittlichen geht, welche (nach der wahrhaften Methode dargeſtellt) Anſchauung und Reflexion abſolut in sich vereint: bahnt er ſich den Weg dazu durch Kritik und dialektiſches Zunichtemachen der „beiden unächten Arten der wiſſenſchaftlichen Behandlung des Naturrechts,“ in deren einer die empiriſche Anſchauung, wie in der andern die Reflexion (die er hier noch Begriff nennt) vorwaltet, aber ſo, daß in jeder Beides gesetzt iſt (S. 328). Es kommt alſo hier zu Hegel's eigenem Bewußtſeyn, daß in dem Negiren des Einſeitigen das poſitive Erfaſſen der Wahrheit zugleich enthalten iſt (S. 329); und wir finden [p. xxxvii] in dieſer letzten Abhandlung vereint, was wir in den drei anderen mehr oder weniger geſondert angetroffen hatten.
+
+1) In der empiriſchen Behandlungsart des Naturrechts weiſt Hegel nun die Tendenz nach, die empiriſche „Mannigfaltigkeit von Grundſätzen, Gesetzen, Pflichten und Rechten" auf eine „abſolute Einheit“ zurückzuführen,
+
+um „dieſer aus der Vernunft ſtammenden Forderung Genüge zu thun“ (S. 331). Doch wird weder der ſogenannte „Naturzuſtand" als „das ſittliche Chaos“ von Trieben (S. 333 — 334), noch der Urſprung des Staats aus dem den Individuen äußerlichen ſogenannten göttlichen Rechte (S. 337), — jedes für ſich als genügende Einheit angeſehen. Sie ſind vielmehr „die zerſplitterten Momente der organiſchen Sittlichkeit, in deren abſoluten Idee der Naturzuſtand und die Majeſtät und Göttlichkeit des Rechtszuſtandes ſchlechthin identiſch ſind;" indem die abſolute
+
+Sittlichkeit als vernünftige Natur des Menſchen eben im Aufgeben der bloß natürlichen Freiheit (Willkür der sinnlichen Neigungen) beſteht, und als vernünftige Freiheit die Identität des Einzelnen mit der ſittlichen Majestät des Volksgeiſtes als dem Göttlichen ausdrückt (S.
+
+338). Ueber jene „wiſſenſchaftliche Empirie," welche als „eine Vermiſchung des Empiriſchen und Reflektirten“ (S. 343) „die Anſchauung durch Reflektiren verunreinigt“ (S.
+
+342), d. h. den Stoff durch Aufnahme in eine formale Einheit des Begriffs verzerrt, ſetzt Hegel die „reine, alte Empirie," welche, wenn ſie ſinnig verfährt und dem Stoffe keine Gewalt anthut, wenigſtens „als Produkt und im Reſultate mit der Idee vollkommen übereinzuſtimmen“ vermag (S. 339
+
+340).
+
+2) Die reflektirte Behandlungsart des Naturrechts befreit den Reflexions-Begriff (den Hegel hier immer Unendlichkeit nennt) von dem ihm noch anklebenden empiriſchen Stoff. Wobei nun aber die in der Differenz bei Gelegenheit des Begriffs der Methode angegebene
+
+Natur der philoſophiſchen Reflexion zum Vorſchein kommt, in ihr abſolut Entgegengeſetztes umzuſchlagen. Und da die Kantiſche und Fichteſche Philoſophie auf dieſem Standpunkte ſtehen, ſo kommt Hegel nochmals auf ſie zurück (S. 344), um nun mit ihrer dialektiſchen Negirung zugleich den Standpunkt der Wahrheit zu erreichen. Die Antinomie aber, aus der sie ſich nicht befreien können, iſt bei Kant „die praktiſche Vernunft,“ welche als „abſolute Selbſtthätigkeit und Autonomie" des Willens, die ſinnlichen Neigungen zwar einſchränken und beherrſchen will,“ aber nie zum Siege noch zur Harmonie mit denſelben gelangen kann (S. 348). Die ganz ausgeleerte Einheit als (ſchlechte) Unendlichkeit bezieht ſich alſo, indem ſie dem Stoffe entfliehen will, immer auf denſelben, und iſt mit diamantenen
+
+Ketten an ihn geſchmiedet" (S. 133). Der Standpunkt dieſes Zwiespalts „iſt das Princip der Unſittlichkeit“ (S. 349). Denn weil „der praktiſchen Vernunft aller Stoff des Gesetzes abgeht, ſo kann ſie Nichts, als die Form der Tauglichkeit einer Maxime der Willkür, zum oberſten Gesetze machen“ (S. 350). Jeder beſondere Inhalt iſt aber fähig, in dieſe leere Form aufgenommen zu werden (S. 351), und alſo hat die Willkür die Wahl, welche von zwei ent [p. xxxix] gegengeſetzten Beſtimmtheiten“ ſie durch Erhebung in dieſe weite, geſchmeidige und geduldige Form (S. 355) zu einem Anſichſeyenden machen will; worin eben die Unſittlichkeit enthalten iſt (S. 354) In Bezug auf „die Wiſſenſchaft des Naturrechts“ (S. 359) als die Darſtellung des ſittlichen Volkslebens im Staate erſcheint jener Zwieſpalt bei Fichte denn ſo, daß die Staatsmacht bloß in Geſtalt eines Zwingenden gegen die Atomiſtik der einzelnen Subjekte auftreten kann, damit sie dem allgemeinen Willen gemäß handeln (S.362). Da aber die Entgegenſetzung des einzelnen Willens gegen den allgemeinen vorausgesetzt iſt, ſo geht der Zwang nur ins Unendliche fort, und die allgemeine (politiſche) Freiheit ſchlägt, der Natur der Reflexion gemäß, in ein Syſtem des allſeitigen Zwanges um (S. 363). In der abſoluten Sittlichkeit dagegen iſt die allgemeine Freiheit von der Freiheit der Einzelnen ungetrennt, da was gezwungen wird nur die Willkür der ſinnlichen Triebe iſt (S. 367) ; wie denn z. B. die Strafe in der Wiedervergeltung, durch Bezwingung der mit dem Verbrechen gesetzten endlichen Beſtimmtheit, die Wiederherſtellung der vernünftigen Freiheit des Verbrechers iſt (S. 371). 3) Die abſolute Sittlichkeit (als die vernünftige Organiſation eines Volkes im Staatsleben) vereint nun zunächſt die früher vereinzelten Momente ſelber auf eine negative Weiſe. Die negative Unendlichkeit nämlich oder das bloß negative Einsſeyn des Einzelnen mit ſeinem Volke iſt dieß höchſte Abthun und Bezwingen der Natürlichkeit, das als Tapferkeit im Kriege bis zur Auf [p. xl] opferung des Lebens für die Vertheidigung des Staates fortgeht (S. 372 — 373). Das entgegengeſetzte Moment iſt im Frieden das Beſtehen des Gegenſatzes, als das Syſtem der phyſiſchen Bedürfniſſe und Genüſſe (in der Wiſſenſchaft der politiſchen Oekonomie); — welches Syſtem der Realität, um der Sittlichkeit nicht ganz zu entwachſen, von ihr nur negativ behandelt und in der formalen Einheit des Rechtsſyſtems zuſammengehalten wird, das die andere Seite in dieſem Beſtehen der Gegensätze iſt (S.373 – 375). Die ſpätere Rechtsphiloſophie entwickelt dieß
+
+Verhältniß noch ganz auf dieſelbe Weiſe in der Darstellung der „bürgerlichen Geſellſchaft." *) Da aber (nach der in der Differenz entwickelten eigenthümlich Hegelſchen Terminologie) das Wahre als abſolute Indifferenz nur iſt, inſofern „Beides, das Aufgehobenſeyn des Gegenſatzes und das Beſtehen deſſelben, nicht nur ideell, ſondern auch reell ſey" (S. 379) : ſo muß zu dieſer ſo eben betrachteten „relativen Sittlichkeit,“ welcher die unfreien Stände des Bedürfniſſes und der Arbeit angehören (Handwerker und Ackerbauer) ſich nun die „abſolute Sittlichkeit“ als Stand der Freien (deren Geſchäft die Thätigkeit für die allgemeinen Intereſſen iſt) in Verhältniß setzen. Erſt im Verein mit den andern Ständen bildet alſo der Stand der Freien das Individuum der abſoluten Sittlichkeit,
+
+deſſen negative (formale) Seite als Arbeit nicht Arbeit für den einzelnen Genuß, ſondern Tapferkeit für „die Erhaltung des Ganzen der ſittlichen Organiſation,“ *) $. 188.
+
+[p. xli] von der poſitiven Seite (ſeiner Indifferenz) angeſehen aber „die lebendige Bewegung und der göttliche Selbſtgenuß dieſes Ganzen in der Totalität der Individuen als ſeiner Organe und Glieder" iſt (S. 380 – 381). Diesen Standpunkt der Sittlichkeit hatte ſchon das griechiſche Volk realiſirt, und bei dieſer Feſtſtellung des Begriffs derſelben hat ſich Hegel hier auch vornehmlich an die Philoſophen dieſes Volkes gehalten. Schon jetzt ſehen wir alſo das welthistorische Princip des griechiſchen Reiches ganz ſo entwickelt, wie es ſpäter in der Rechtsphiloſophie *) erſcheint: und die innige Beziehung angedeutet, in welche Hegel die Ausbildung des Staats zur Weltgeſchichte brachte. Was Hegel einmal ordentlich dachte, war ſogleich ein ewiger Gedanke. Eben ſo entwickelt er ſchon hier den welthiſtoriſchen Standpunkt des römiſchen Reichs. **) Da nämlich in der griechiſchen
+
+Sittlichkeit das Verhältniß der Stände zu einander noch mit dem Mangel behaftet iſt, daß in der Unterordnung des Standes der relativen Sittlichkeit unter den Stand der abſoluten Sittlichkeit dieſes Verhältniß eine Unterwerfung „,von Individuen zu Individuen,“ nicht „von Allgemeinem zu Allgemeinem ist:“ ſo hat dieß damit geſetzte „Verhältniß der Sklaverei“ noch „in der empiriſchen Erſcheinung der Univerſalität des römiſchen Reichs von selbſt“ zu „verſchwinden" (S. 382). Die Vermiſchung beider Stände unter der formalen Einheit des im römiſchen
+
+Reiche am Meiſten ausgebildeten Rechtszuſtandes hatte zwar zunächſt mit dem Aufheben der Sklaverei auch *) §. 356.
+
+\# * ) Rechtsphiloſophie 9. 357.
+
+[p. xlii] die Zerſtörung der freien Sittlichkeit zur Folge, indem alle Einzelnen (als bourgeois, nicht citoyens) „unmerklich in die matte Gleichgültigkeit des Privatlebens verſanken" (S. 385). Aus dieſem Verluſte ſtellt ſich die abſolute Sittlichkeit aber wieder her, indem ſie als „abſolute
+
+Indifferenz“ zugleich „das reelle Verhältniß im beſtehenden Gegenſatze" (die relative Sittlichkeit) frei aus ſich entläßt; und „dieſen Theil ihrer ſelbſt, als ihre unorganiſche Natur aufopfert und von ſich abtrennt, hiermit aber ſelbſt in die abſolute Indifferenz wieder aufgenommen hat“ (S. 386). Dieſer Gedanke wird dann in dem oben (S. XXXVI) angedeuteten Bilde, welches einen Vergleich der Sittlichkeit mit der dramatiſchen Kunſt enthält, ausführlicher erläutert. Schließlich wird „in der lebendigen Geſtalt oder der organiſchen Totalität der Sittlichkeit“ dieß Verhältniß beider Seiten der Sittlichkeit als das Verhältniß „ihres leiblichen Weſens zu ihrer Göttlichkeit“ begriffen und „die göttliche Natur des abſoluten Lebens der Sittlichkeit nach Plato *) als ein unſterbliches Thier“ ausgeſprochen, „deſſen Seele und Leib auf ewig zuſammengeboren ſind" (S. 391 — 392). Und ſo wird in einer anderen Vergleichung (S. 392
+
+395), ebenfalls nicht ohne merkliches Ringen des Gedankens, das ſittliche Leben dem phyſiſchen vorgezogen, da jenes allein die Individualitäten zur abſoluten Indifferenz mit dem Weſen und der Subſtanz bringen kann.“ Denn da „die Individualiſirung allein in der Intelligenz bis zum abſolut Negativen fortgeht, das unvermittelte Gegentheil *) Phaedrus p. 246, Steph.; (p. 40, Bekk.)
+
+[p. xliii] ihrer ſelbſt, alſo indem ſie abſolute Einzelnheit iſt, zugleich abſolute Allgemeinheit zu ſeyn: ſo iſt nur in dem Syſteme der Sittlichkeit dieſes unendliche Zurücknehmen in ſich vorhanden, „die abſoluten Individuen in die Allgemeinheit der Leib aufs Höchſte vollkommen zuſammengeeint, Eins mit der Seele."
+
+Hieraus zieht Hegel nun den allgemeineren Schluß: Daß, wenn das Abſolute abſolute Selbſtanſchauung und
+
+Selbſterkennen durch unendliches Zurücknehmen der unendlichen Expanſion in ſich ſelbſt iſt; ſo iſt der Geiſt“ eben als die Zurücknahme des Univerſums in sich und als abſolute Idealität der auseinandergeworfenen Totalität dieſer Vielheit" allein „abſolutes Anſchauen und Erkennen ſeiner selbſt,“ und ſomit höher als die Natur" (S. 395). In dieſer ſchon in Glauben und Wiſſen (S. 148) angedeuteten Behauptung, daß der Geiſt höher ſey als die Natur, liegt nun das beſtimmteſte Sich-Abſcheiden Hegels von dem Standpunkte der Schellingſchen Philosophie, nach welchem ja transcendentaler Idealismus und Naturphiloſophie die beiden auf gleichem Range ſtehenden Pole der abſoluten Indifferenz ſeyn ſollten; und ſchon kurz vorher (S. 393) polemiſirte Hegel offenbar gegen Schelling, indem er die quantitative Indifferenz, die Schelling *) als die einzige dem Abſoluten würdige behauptete, der qualitativen Indifferenz unterordnete. Hier erkennt Hegel alſo ſelber den ihm gewordenen Beruf (S. XV), die Schranken der Naturphiloſophie durch Begründung *) Zeitſchrift für ſpek. Phyſik B. II., Heft 2, S. 19, $. 31.
+
+[p. xliv] eines neuen Standpunkts der Philoſophie zu überſchreiten, der auf dem Gebiete des Geiſtes zuerſt zum Durchbruch kommen mußte.
+
+Die „Sittlichkeit des Individuums“ als der Gegenſtand der Wiſſenſchaft der Moral kann nun „zur abſoluten Sittlichkeit“ (im Naturrecht) nur dieß Verhältniß haben, (S. 395), daß, da der Einzelne die Form des allgemeinen Volksgeiſtes als ſeiner Subſtanz iſt, „ſeine ſittlichen Eigenſchaften (Muth, Mäßigkeit, Sparſamkeit, Freigebigkeit) als die Möglichkeiten oder Fähigkeiten erſcheinen, in der allgemeinen Sittlichkeit zu ſeyn" (S. 397). Indeſſen nur als Verhältniſſe des Privatmenſchen im zweiten
+
+Stande gehören ſie der eigentlichen Wiſſenſchaft der Moralität, die Hegel ſchon hier von der Sittlichkeit unterſcheidet, an (S. 396, 398); inſofern ſie ſich aber, nur innerhalb der abſoluten Sittlichkeit in einer höheren Energie individualiſiren," ſind ſie Tugenden. Die „Erziehung als das Werden der Sittlichkeit" iſt die Zucht und Bezwingung der einzelnen Subjektivität, um „an der Bruſt der allgemeinen Sittlichkeit getränkt in den allgemeinen Geiſt überzugehen“ (S. 399). Und wie die Sitten, in die Form der Allgemeinheit und Erkenntniß erhoben, als Syſtem der Gesetzgebung“ zur Vorſtellung kommen müſſen: ſo muß die abſolute Subſtanz des Volksgeiſtes zur reinen Idee verklärt, im religiöſen leben, als „Gott des Volkes angeſchaut und angebetet werden“ (S. 400). Nachdem Hegel auf dieſe Weiſe alle Lebens-Funktionen des Staats-Organismus beſchrieben, ſchließt er mit der Angabe des Verhältniſſes des Naturrechts zu [p. xlv] den poſitiven Rechtswiſſenſchaften (S. 401.).*) Da nun wohl im Allgemeinen behauptet werden kann, daß alle Theile einer Encyklopädie des poſitiven Rechts „in die vollkommen entwickelte und ausgebreitete Philoſophie fallen würden“ (S. 402): so fragt ſich nur, was der Unterſchied von Philoſophie und poſitiver Wiſſenſchaft ſey (S. 403). In Bezug auf den Unterſchied, der Form nach, (S. 408) heißt es nun, daß, während in der abſoluten Sittlichkeit kein Glied „ſich der Herrſchaft des Ganzen entzieht, noch die ganze Organiſation zu ſeiner Verrichtung zwingt:" das Poſitive eines Rechtsſyſtems darin beſteht, daß eine Form „über die anderen übergreift und ſich dieſelben unterwirft“ (S. 410); wie z. B. wenn der Vertrag (bei Rouſſeau) „ſich in die abſolute Majeſtät der ſittlichen Totalität eindrängt" und ſich zum Weſen des ſittlichen Staatsverhältniſſes macht (S. 411). In der Theorie iſt es nun aber eben die Philoſophie, wie die Geſchichte in der Wirklichkeit, welche ein ſolches Uebergreifen einer Sphäre theils verhüten, theils bezwingen und wieder einſchränken (S 412, vergl. S. XVII). Der Materie nach iſt das Recht poſitiv, inſofern die ſittliche Totalität eines Volks geographiſch und geſchichtlich — „ſich ein beſtimmtes Klima und eine beſtimmte Zeitperiode in der Bildung des Mens
+
+ſchengeſchlechts, als ſeine unorganiſche Natur, an organiſirt hat“ (S. 414); „Montesquieu in ſeinem unſterblichen Werk“ eine Seite der Betrachtung, die hervorgehoben hat (S. 417). Die Befreiung von dieſem Poſitiven durch *). Vergleiche Rechtsphiloſophie S. 3.
+
+[p. xlvi] den Fortſchritt der Weltgeſchichte wird dann ſehr ſchön darin geſehen, daß, indem „das Bewußtloſe des neu aufſtrebenden Lebens dem Bewußtſeyn der Gesetze“ entgegentritt (S. 418), in einem ſo „aufgelöſten Volke die Geſetze aufhören Wahrheit zu haben“ (S. 420); und, nachdem beim ſcheinbaren Beſtehen derſelben der neue Geiſt Alles bereits unterminirt hat, dieser in den verſchiedenen welthiſtoriſchen Völkern nun ſo oft in immer vollendeterer Form mit einem qualitativen Sprunge' ins Daſeyn tritt (S. 421), bis endlich „die Philoſophie der Sittlichkeit in der ſchönſten Geſtalt die hohe Idee der abſoluten Sittlichkeit erkannt hat“ (S. 422).
+
+Dieſe Analyſe möchte als Erläuterung und Einleitung ins Verſtändniß nachfolgender vier Abhandlungen angeſehen werden. Und wenn Hegel die Phänomenologie selbſt mit Bewußtſeyn als Propädeutik ſeiner Philoſophie aufgeſtellt hat, dieſe Abhandlungen es aber an ſich ſind: ſo hat mit dem Geſagten nur deren einleitende Natur zum Bewußtſeyn gebracht werden ſollen. So wäre es gerechtfertigt, warum gerade ſie vorzugsweiſe an die Spitze ſämmtlicher Werke geſtellt worden. Zugleich geht hieraus hervor, daß da das Hegelſche Philoſophiren ſich ſelbſt – und zwar wiſſenſchaftlich — einleitet: eine ſonſtige Einleitung (wie Hegel überall es selber ausgeſprochen) nur ein ſubjektives Reden und zufälliges Verſichern bleiben, und alſo am Beſten fortbleiben muß.
+
+Was die Terminologie dieſer Abhandlungen betrifft, ſo weicht sie in vielen Stücken von der ſpätern ſich immer konſtant gebliebenen philoſophiſchen Sprache Hegel's ab.
+
+[p. xlvii] Hier ſehen wir dieſe nämlich, erſt im Entſtehen begriffen, ſich an die Schellingſche Terminologie anlehnen, und oft ganz in dieſelbe aufgehen. So kommen die Ausdrücke: Indifferenz, Pol, Potenz, Abſolutes durchgehends im Schellingschen Sinne und ſelbſt noch in der vierten Abhandlung nicht ſelten vor. Dieſe Identität der Terminologie konnte das philoſophiſche Publikum verleiten, lange Zeit hindurch in Hegel nichts anderes als einen Anhänger der Naturphiloſophie zu ſehen, da doch ſelbſt ſchon unter dieſer Terminologie die Spur der neuen Gedanken verborgen lag. Auch findet sich manchmal das Beſtreben, die eigene Terminologie einzuführen und geltend zu machen, indem Hegel ſie der Schellingſchen gleich oder nebenſtellt. So im Anfang der dritten Abhandlung S. 299: „Die verſchiedenen philoſophiſchen Wiſſenſchaften ſind nur Darſtellungen des einen ungetheilten Ganzen der Philoſophie unter verſchiedenen ideellen Beſtimmungen, oder (daß ich gleich den bekannten Ausdruck brauche) in unterſchiedenen
+
+Potenzen." Man ſieht hier, wie Hegel ſich nur, um der Verſtändlichkeit willen, in die frühere Terminologie
+
+zurückbequemt, der ſeine Gedanken bereits entwachſen waren. Eben ſo kommt in der vierten Abhandlung (S. 401 – 402) der doppelte Ausdruck „Potenz oder Beſtimmtheit,“ und dann auch jeder für ſich zu wiederholten Malen ganz ohne Unterſchied des Sinnes vor. Mehr Schwierigkeit macht die Hegelſche Terminologie in dieſen Abhandlungen, wenn ſie nicht Ausdrücke, wie die obigen, gebraucht, die ſpäter wegfallen: ſondern ſolche die in der Folge mit einer ganz andern Bedeutung, als [p. xlviii] ſie hier haben, auftreten. Zum Beiſpiel. Da das Denken wie oben bemerkt (S. XXVII.), noch nicht die umfaſſende
+
+Sphäre der Wahrheit iſt, ſondern erſt mit der Anſchauung ſyntheſirt die Darſtellung des Abſoluten iſt: ſo muß auch Begriff hier, selbſt mit dem Prädikat als „unendlicher“ (S. 14) oder „abſoluter Begriff" (S. 70) nur in dem Sinne von ſchlechter Unendlichkeit, bloßer Negation des Endlichen, noch nicht als wahrhafte Identität des Endlichen und Unendlichen vorkommen. Dieſes Gewinnen der negativen Unendlichkeit als bloßes Vernichten der einander entgegengeſetzten Endlichkeiten im unendlichen Begriff was Hegel ſpäter *) „Dialektik“ oder das „negativ-vernünftige“ Denken nennt, heißt hier meiſtentheils noch philoſophiſche Reflexion, deren höchſtes Produkt eben die im Negativen ſtehen bleibende Auflöſung der Antinomie iſt. Doch kommt auch ſchon der Ausdruck Dialektik vor (S. 367). Jetzt wird ihr negatives Reſultat aber noch für das höchſte Ziel der logiſchen Erkenntniß ausgegeben (S. 280), während ſpäter die logiſche Wiſſenſchaft als die poſitive Enthüllung des Lebens des göttlichen Gedankens
+
+behauptet wird. **) Doch auch hierzu finden ſich Andeutungen und Uebergänge in den vorliegenden Schriften; wie wenn S. 156 „die reine Nacht der Unendlichkeit als die Geburtsſtätte der Wahrheit erkannt wird.“ Beſtimmter aber iſt S. 395 der Geiſt nunmehr das Uebergreifende (was das Denken bisher nicht war); und, als, abſolute Idealität,“ ſowohl „das Vernichten des
+
+*) Encyclopädie $. 79 und 81. **) Logik Band I., Einleitung S. XIII,
+
+[p. xlix] Außereinander“ (die ſchlechte Unendlichkeit), als er auch daſſelbe „in ſich als in den unvermittelten Einheitspunkt des unendlichen Begriffs reflektirt.". Von anderen Abweichungen des Sprachgebrauchs möchte ich noch herausheben, daß, während hier die Kategorie: ideell oder ideal oft niedriger iſt als die von: reel oder real, und Realität, indem jene mit: einſeitig, entgegengeſetzt, abſtrakt gleichbedeutend iſt (z. B. S. 254, 299, 328, 409), dieſe den Sinn: von: konkret, Totalität
+
+haben (z. B. S. 402),
+
+ſpäter die Realität viel mehr als bloß äußerliches Daſeyn erſcheint, Idealität dagegen als das Aufheben des realen Außereinander in das Fürſichſeyn. *) Doch durchkreuzen ſich dieſe Terminologien auch wieder, wie ich ſo eben den Ausdruck: abſolute Idealität anführte, und überhaupt dann auch oft das Ideelle als die höhere Kategorie gegen das Reelle genommen wird (z. B. S. 148). Und ſo erinnert Hegel selbst noch in der Logik an den doppelten Sinn des, vieldeutigen Worts „Realität. **) Das Fürſichſeyende kommt, (S. 149) ſchlechthin gesetzt, im Sinne des unlebendigen Atomiſtiſchen vor. Und wenn Hegel nun den ſpätern Sinn der Realität, als eines äußerlichen Daſeyns, ausdrücken: will: ſo ſetzt er dafür ſehr oft die ſpäter noch viel höher als selbſt Idealität geſtellte Kategorie der Wirklichkeit (z. B. S, 67, 114, 119, u. ſ. f.), die in der Logik ***) das an der Realität wahrhaft Vernünftige und das Weſentliche *) Ebendaſelbſt, Erſtes Buch, S. 95. **) Ebendaſelbſt, S. 54 - 55.
+
+***) Ebendaſelbſt, Zweites Buch. S, 213,
+
+D [p. l] ausdrückt, inſofern es zugleich vollkommen in die Erſcheinung getreten iſt.
+
+Selbſt durch ſorgfältiges Feſtſtellen der Interpunktion hat nicht wenig zum Verſtändniß dieſer Abhandlungen beigetragen werden können, da was Ariſtoteles *) vom tiefen Heraklit ſagt und wir anderwärts auch auf ihn ſelber angewendet haben, im vollſten Maße' von Hegel gilt: Daß nämlich ein großer Theil der Dunkelheit auf der Schwierigkeit der Interpunktion beruhe: Womit ich nicht geſagt haben will,- (noch den Ariſtoteles so verſtehe), daß es eine Unbeholfenheit der. Diktion ſey, welche die Schwierigkeit
+
+der Interpunktion bei dieſen Denkern erzeuge." Sondern die dem oberflächlichen Verſtande dunkel erſcheinende Tiefe der Gedanken kann nur in ungewöhnlichen kühnen und großartigen Konſtruktionen, die deshalb dunkel werden,
+
+eine adäquate Form des Ausdrucks .sich verſchaffen. und damit nun der Bau der Phrase ſich dem Auge und Geiste ſogleich darbiete, bedarf es dann ungewöhnlicher
+
+Interpunktionen, die der Leſer daher in dieſer? Ausgabe auch antreffen wird.
+
+Site mi
+
+Eine andere Schwierigkeit des Verſtändniſses der Hegelschen Schriften iſt die, daß (da Hegel oft beim Entwickeln fremder Anſichten in direkter Rede theils die Worte des Anderen gleich ſeinen eigenen ,theils erläuternde Wendungen gebraucht) es für den, welcher die Hegelſche Anſicht noch nicht kennt, kaum zu unterſcheiden iſt, wo Hegel in eigenem, wo er in fremdem Namen ſpreche. Dieser Rhet. III. 5.
+
+[p. li] Schwierigkeit habe ich nun, wo Hegel die eigenen Worte ſeiner Vorgänger anführt, ſehr wohl durch Hinzufügung von Häkchen abhelfen können. Wobei ich durch den ganzen Band hindurch bei jeder Stelle genau die Quelle aufgeſucht und nachgeſchlagen habe; und ſie dann zu meiner eigenen Rechtfertigung dem Leſer nicht vorenthalten zu dürfen glaubte. Sämmtliche Citationen unter dem Terte rühren daher von mir her; und auch wenn Hegel (im Terte) ſelber die Citation ſchon giebt, habe ich in der Note noch die neueſte gangbarſte Ausgabe hinzugefügt. Wo Hegel aber nicht die eigenen Worte citirt, wie z. B. oft in der Differenz
+
+bei der Darſtellung des Fichteſchen Syſtemes, vorzüglich aber des Schellingſchen, da kann innere Kritik allein eine genügende Entſcheidung geben.
+
+1 ::
+
+3 9015 05981 5509 UNIVERSITY OF MICHIGAN
+
+Michigan 5y of003 versit A 33 Uni901 BUHR

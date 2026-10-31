@@ -1,0 +1,1978 @@
+---
+title: Vernünfftige Gedancken von den Kräfften des menschlichen Verstandes und ihrem richtigen Gebrauche in Erkäntniss der Wahrheit
+author: Christian Wolff
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: a scan of an old print (library or Google Books digitization; the imprint is not recorded in the library); Sonnet transcription from page images in Seinsbyte's library; this file is the source, corrections go here
+original_text: "transcription of the print (sonnet transcription: 200 dpi page images, text layer as hint; page labels read from the scan), corrected against the scan; printed paragraphs"
+translation: none
+canonical: "[p. N] marks where printed page N begins (a scan of an old print (library or Google Books digitization; the imprint is not recorded in the library)); read from the PDF folios where legible, the others by sequence"
+genre: Rationalism and the German Enlightenment
+public: true
+rights: The Vernünfftige Gedancken von den Kräfften des menschlichen Verstandes und ihrem … was written by an author who died in 1754, so before 1931; Christian Wolff (d. 1754) is long out of protection and the edition (a library or Google Books digitization of an old print, no copyright page) is past the 25 years of UrhG §70, with no editorial text still under protection, so it is free to publish.
+generated: 2026-10-25 by _normalize_work/wg_export.py (library id 209)
+---
+
+# C. Wolff, *Vernünfftige Gedancken von den Kräfften des menschlichen Verstandes und ihrem …*
+
+Conventions: `[p. N]` marks where printed page N begins; paragraphs are as converted from the print, whole across page turns where the conversion kept them; `*…*` is emphasis as printed; `[^id]` is a note of the print. Generated file — see the header for where corrections belong.
+
+[p. vi] Vernünfftige Gedancken
+
+Von den
+
+Kräfften des menschlichen Verstandes
+
+Und
+
+Ihrem richtigen Gebrauche
+
+In
+
+Erkäntniß der Wahrheit,
+
+Den Liebhabern der Wahrheit
+
+mitgetheilet
+
+Von
+
+Christian Wolffen,
+
+Königl. Preuß. Geheimden Rathe, Vice-Cantzlern der Friederichs-Universität, wie auch Professore Juris Naturæ & Gentium und Matheseos daselbst, Professore honorario zu St. Petersburg, der Königl. Academie der Wissenschafften zu Paris, wie auch der Königl. Groß-Britannischen und Königl. Preuß. Societät der Wissenschafften Mitgliede.
+
+Die Eilffte Auflage hin und wieder vermehret,
+
+Mit allergnädigsten PRIVILEGIIS.
+
+Halle im Magdeburgischen 1742.
+
+Zu finden in der Rengerischen Buchhandl.
+
+[p. viii]
+
+## Vorrede.
+
+### Geneigter Leser.
+
+Der Mensch hat nichts vortreflicheres von GOTT empfangen, als seinen Verstand: denn so bald er nur in demselben verrückt wird, so bald wird er entweder ein Kind, oder ärger als ein wildes Thier, und ist also ungeschickt GOTT zu ehren und den Menschen zu dienen. Solchergestalt kan einer um so vielmehr ein Mensch genennet werden, je mehr er die Kräfte seines Verstandes zu gebrauchen weiß. Und dannenhero solte ein jeder, absonderlich aber der ein Gelehrter seyn oder werden wolte, mit rechtem Eifer darnach streben, [p. ix] wie er so zu hurtigem Gebrauche der Kräfte seines Verstandes gelangen möchte, als nur immer möglich ist. Allein daran gedencken die wenigsten, und die meisten machen aus der Gelehrsamkeit ein bloßes Gedächtniß Werck, fliehen vor dem Nachsinnen ärger als vor einer Schlangen. Daher ist ihnen alles verhasset, was Nachdencken erfordert, und sie zu fertigem Gebrauche ihres Verstandes bringet: hingegen angenehm, was sie als ein Mährlein halb schlaffend fassen können und sie bey der Art zu dencken lässet, welche sie von Kindheit auf mit ungelehrten Leuten gemein gehabt. Man kan aber die Kräfte des menschlichen Verstandes nicht anders, als durch die Erfahrung erkennen, indem wir sie gebrauchen. Solchergestalt können diejenigen, welche nur anderer Gedancken zusammen schreiben, niemahls im Erfinden sich geübet, auch die Zeit ihres Lebens keine demonstrirte, das ist, recht gründlich ausgeführte Wahrheit begriffen, wenig oder gar nichts von den Kräften des Verstandes und ihrem Gebrauche wissen, es sey denn, daß sie etwas in tauglichen Büchern davon gelesen.
+
+[p. x] Allein die Bücher sind in dieser Materie eben nicht in allen Buch-Läden zu finden, und ich fürchte, wenn auch einer, der noch nicht in gründlichen Wissenschaften erfahren, eines antrifft, er werde das wenigste davon verstehen. Also ist kein anderes Mittel zu dieser Erkäntniß zu gelangen, als wenn man gründlich demonstrirte Wahrheiten recht begreiffen lernet, darnach untersuchet, wie sie hätten können erfunden werden, und wenn man dadurch eine Fähigkeit nachzusinnen erlanget, Sachen zu suchen sich bemühet, die uns noch unbekandt sind, ja auch wohl noch sonst von niemanden erfunden worden: endlich genau zu erforschen sich angelegen seyn lässet, was die Ursache sey, daß wir von demonstrirten Wahrheiten so deutlich überführet werden, und wie es zugehe, daß man aus einigen bekandten Wahrheiten andere noch verborgene herleiten könne. Nun wäre derjenige entweder höchst unverschämt, oder überaus einfältig, welcher vorgeben wolte, man könte ausser der Mathematick eben so gründlich erwiesene oder demonstrirte Wahrheiten und so richtige [p. xi] Erfindungen antreffen als in derselben. Denn ausser der Mathematic schreibet man entweder nach einer ganz anderen Methode, als in derselben gewöhnlich ist, oder man befleißiget sich die mathematische Methode anzubringen. In dem ersten Falle sehen Verständige eine sehr grosse Verwirrung: denn bald beklagen sie sich, daß die Wörter gar nicht, oder doch selten tauglich erkläret, viele Sachen ohne Beweiß angenommen, und andere nicht genug, öfters gar unrichtig erwiesen werden. In dem andern Falle aber ist es zur Zeit wohl noch keinem gelungen, der mathematische Demonstrationen in anderen Disciplinen, als der Mathematick, vorbringen wollen. Des-Cartes, ob er gleich ein grosser Mathematicus war, hat die Schwäche seines Beweises, daß ein GOTT sey, niemahls mehr sehen lassen, als da er sich von Mersenno, einem überaus gelehrten Mönche in Francfreich, bereden ließ, auf geometrische Art denselben vorzutragen. Spinosa in seiner Ethica und Raphson in seiner Demonstratione de DEO haben sich im Demonstriren sehr schlecht aufgeführet, [p. xii] führet, ob es gleich beyden an Verstande nicht gefehlet, auch beyde in der Mathematick nicht unerfahren gewesen. Sie erklären viele Wörter durch andere gleichgültige, nehmen unbewiesen an, was öfters am meisten hätte sollen erwiesen werden, ja verbinden auch unterweilen gar die Schlüsse nicht mit einander, wie es billig geschehen solte. Derowegen bleiben bloß die mathematischen Wissenschaften übrig, daraus man den richtigen Gebrauch der Kräfte des Verstandes ersehen kan. Und in dieser Absicht habe ich in meinen Anfangs-Gründen der mathematischen Wissenschaften mich bemühet, alles auf eine solche Art, so viel möglich vorzutragen, wie es hätte können erfunden werden, und befleißige mich auch in meinen Collegiis dergleichen Anmerckungen einfliessen zu lassen, damit ich, so viel an mir ist, meine Zuhörer zum Nachsinnen anführe, dawieder ihnen ohnedem viele Hindernisse in Weg geleget werden. Es darf aber niemand das gemeine Sprichwort: ein jeder Schäfer lobet seine Keule, auf mich appliciren: denn wer mich kennet und nicht wieder sein Gewissen reden will, wird sich nicht entbrechen, mir das Zeugniß zu geben, daß die Liebe zur Wahrheit bey mir über alles gehet, und soll sich keiner getrauen mir unter die Augen zu sagen, daß ich aus interessirtem Gemüthe etwas rede, vielweniger schreibe. Vielmehr enthalte ich mich öfters die Wahrheit zu sagen, und misse lieber den Profit, den ich rechtmäßiger Weise haben könte, so ofte ich sehe, es könte Anlaß geben, mich vor interessiret zu halten. Derowegen will ich auch lieber hier anderer Zeugniß anführen, als mich auf meine eigene Erfahrung berufen. Man hält hier an unseren Orten Lockens Werck vom Verstande des Menschen insgemein vor überaus sinnreich, so, daß auch diejenigen, welche alle seine Landes-Leute schimpflich verachten, ihn dennoch erheben. Allein, lieber! wem schreibet Locke die Fähigkeit seines Verstandes zu, und was recommendiret er vor ein Mittel scharfsinnig zu werden? Man schlage auf unter den Wercken, die zu Londen 1706. nach seinem Tode heraus kommen, den Tractat von der Leitung des menschlichen Verstandes p. 32. & seqq. so [p. xiii] sein Gewissen reden will, wird sich nicht entbrechen, mir das Zeugniß zu geben, daß die Liebe zur Wahrheit bey mir über alles gehet, und soll sich keiner getrauen mir unter die Augen zu sagen, daß ich aus interessirtem Gemüthe etwas rede, vielweniger schreibe. Vielmehr enthalte ich mich öfters die Wahrheit zu sagen, und misse lieber den Profit, den ich rechtmäßiger Weise haben könte, so ofte ich sehe, es könte Anlaß geben, mich vor interessiret zu halten. Derowegen will ich auch lieber hier anderer Zeugniß anführen, als mich auf meine eigene Erfahrung berufen. Man hält hier an unseren Orten Lockens Werck vom Verstande des Menschen insgemein vor überaus sinnreich, so, daß auch diejenigen, welche alle seine Landes-Leute schimpflich verachten, ihn dennoch erheben. Allein, lieber! wem schreibet Locke die Fähigkeit seines Verstandes zu, und was recommendiret er vor ein Mittel scharfsinnig zu werden? Man schlage auf unter den Wercken, die zu Londen 1706. nach seinem Tode heraus kommen, den Tractat von der Leitung des menschlichen Verstandes p. 32. & seqq. [p. xiv] so wird man finden, daß er seine Scharfsinnigkeit der Mathematick zuschreibet, und vielmehr Rühmens von der Mathematick, absonderlich der Algebra machet, als einem Mittel zu rechtem Gebrauche des Verstandes zu gelangen, als ich wegen tief eingewurtzelter Vortheile und Affecten ihrer viele nicht thun wolte. Andere Zeugnisse will ich hier nicht wiederholen, weil sie in der Vorrede über den Unterricht von der mathematischen Methode in meinen Anfangs-Gründen der mathematischen Wissenschaften angeführet worden. Und dieses ist eben eine von meinen Haupt-Absichten gewesen, warum ich mich mit Ernst auf die Mathematick geleget, nicht, daß ich sie als ein Handwerck Brodt zu verdienen gelernet: denn es ist wohl niemahls mein rechter Ernst gewesen, einen Professorem Matheseos abzugeben, als wie ich die erste Vocation dazu erhalten, welche ich als einen göttlichen Winck angesehen. Was ich nun bey Durchlesung mathematischer Schriften und bey vielfältigem eigenen Nachsinnen von dem Gebrauche der Kräffte des menschlichen Ver- [p. xv] Verstandes angemercket, davon habe das leichteste und was am ersten zu wissen nöthig ist, in kurtze Regeln verfassen wollen. Denn wenn ich alles schreiben solte, was ich durch mein Nachdencken erkennen gelernet, würde ich wenigen von meinen Deutschen dienen, massen den meisten bald als Grillen vorkommen, wo sie ein wenig zu lange die Gedancken bey einander halten sollen, und es würde sich auch nicht vor Anfänger schicken, denen zu Liebe ich gegenwärtige Gedancken dem Drucke anvertrauet. Und dieses ist eben mit eine Ursache, warum ich es deutsch geschrieben, indem unter den Ausländern viele sind, die auf gründliche Erkäntniß viel halten, denen zu Gefallen bey anderer Gelegenheit etwas vollständigeres von dieser Materie in lateinischer Sprache mitgetheilet werden soll, gleichwie ich in die lateinischen Auflage meiner Elementorum Matheseos mehr theoretica einfliessen lassen, als in die deutsche hat kommen dörffen. Ich kan aus meiner Erfahrung versichern, daß die gegebene Regeln mir gute Dienste thun, wenn ich entweder etwas [p. xvi] was erfundenes beurtheilen, oder durch eigenes Nachsinnen etwas heraus bringen soll. Ich zweiffele auch nicht, daß andere ein gleiches befinden werden. Jedoch kan ich nicht verheelen, daß zu hurtigem Gebrauche dieser Regeln viel beytragen werde, wenn sie mit Fleiß auch nur meine Anfangs-Gründe der mathematischen Wissenschaften durchgehen und dabey Achtung geben werden, wie man daselbst die Regeln angebracht. Denn die Fertigkeit kommet durch die Übung: die Übung bestehet darinnen, daß man richtig erwiesene Sachen viel überleget. Man lasse sich den besten Fecht-Meister die herrlichsten Maximen von dem Fechten sagen; so wird man deswegen doch nicht wohl fechten, wenn man niemahls die Hand angeleget. Vielweniger aber wird man fechten lernen, wenn einer, der vom Fechten Regeln geben will, selber niemahls gefochten. Es wird zwar die Jugend heute zu Tage bey uns Deutschen wenig zu gründlichen Wissenschaften angehalten, sonderlich an solchen Orten, wo die Lehrer der Unwissenheit überhand nehmen, und da man [p. xvii] man es vor eine sonderbahre Klugheit ausgiebet, wenn man das Studiren zu einem blossen Handwercke machet: allein da hierdurch nicht tüchtige Handwercker, sondern nur eingebildete Stümper gezogen werden; so werden doch endlich einmahl auch denen die Augen aufgehen, die jetzt in ihrer Blindheit nichts sehen können. Man lasse einen etwas gründliches in der Mathematick und Welt-Weisheit studiren, wenn er auf Universitäten kommet, und alsdenn erst, wie unseres Allergnädigsten Königes und Herrens aus Landes-väterlicher Vorsorge ertheilte Rescripte [^xvii-a] es mit Nachdruck [p. xviii] anbefohlen, zu den höheren Facultäten (daß ich nach unserer deutschen Mund-Art rede) schreiten; so wird man finden, wie geschwinder und besser sie ihr Handwerck lernen werden. Ich könte es mit meiner eigenen Erfahrung bestätigen, wenn ich nicht bey Wiedriggesinneten einen, ob zwar unverdienten Verdacht auf mich laden dörfte. Es ist aber auch nicht nöthig: denn es ha-den [p. xix] den schon andere rechtschaffene Leute sich auf ihr Exempel in diesem Stücke öffentlich vor mir beruffen, und werden es auch ins künfftige thun. Und wer meinen Worten glaubet, der wird es in der That erfahren, daß sie Wahrheit sind. Zum Beschluß muß ich noch eines erinnern. Wenn jemand eines und das andere von meinen Gedancken vor bedencklich halten möchte; so wird mir nicht zuwider seyn, wenn er entweder in einem besonderen Schreiben an mich, oder auch, wenn er es vor so wichtig hält, in einer gedruckten Schrift, seine Gedancken eröfnen wird. Jedoch bitte ich mir Bescheidenheit aus: denn sonst werde ich einen, der Lust zu schelten hat, so lange schelten lassen, wie er will, gleichwie ich es bereits anderen von solchem Gebäcke gemacht, massen kluge und verständige Leute zur Gnüge sehen, daß es theils aus Boßheit, theils aus Einfalt herrühre. Finde ich aber Einwürffe, die untersuchet zu werden verdienen, und die verlangte Bescheidenheit dabey; so werde ich mich auch nicht entbrechen, ihnen mit solcher Bescheidenheit [p. xx] heit zu antworten, wie ich andern Gelehrten in Engelland und Franckreich auf ihre Einwürffe geantwortet. Ich hoffe auch, sie werden mit mir eben so wie diese zufrieden seyn [^xx-b]. Endlich muß ich auch bekennen, daß, wie ich im Anfange meines Nachsinnen über die Kräffte des Verstandes mich in vieles nicht recht finden konte, auch in einigen Stücken ohne Noth auf Unwege gerathen war, mir des Herrn von Leibniz sinnreiche Gedancken von der Erkäntniß der Wahrheit und den Begriffen in den Leipziger Actis An.1684. p.573. unverhofft ein grosses Licht gegeben, so, daß mich wundert, warum andere, die von dergleichen Materie nach der Zeit zu schreiben sich unterwunden, nicht darauf acht gegeben. Ich wünsche, daß Lehr-begierige Gemüther aus meiner vorigen Arbeit den Nutzen ziehen mögen, den ich ihnen von Hertzen gönne. Wenn mein Wunsch ererfüllet [p. xxi] wird; so werde ich mit desto grösserer Lust und desto mehrerem Eifer darnach streben, wie ich ihnen in den andern Theilen der Welt-Weisheit eben so ein helles Licht anzünde. Halle den 18. Oct. 1712.
+
+[^xvii-a]: Der Inhalt eines der königlichen Rescripte ist dieser: Es sollen die Professores allen und jedweden, welche auf unserer Universität Halle sich aufhalten und von ihren eigenen Mitteln studiren, sie mögen seyn, wer sie wollen, diensame Vorstellung thun, daß sie das erste Jahr vornemlich auf die studia philosophica elegantiorem litteraturam sich befleißigen, hernach aber, wenn sie gute fundamenta geleget, alsdenn ad superiores Facultates schreiten möchten. Diejenigen aber, welche unserer eigenen, oder in unseren Landen fundirter Stipendien und vor einiger Zeit neu angerichtete Frey-Tische genießen, nicht minder alle Conventualen unseres nach Halle transferirten Closters Hillersleben, habt ihr mit Ernst und Nachdruck dahin anzudeuten, daß sie zuförderst die studia philosophica und politiorem litteraturam zum wenigsten ein Jahr lang allein tractiren, und hernach nebst dem studio theologico damit fortfahren: wann sie aber darinnen nachläßig erfunden, solche collegia prævia exhortatione versäumen würden, sie sofort des beneficii verlustig seyn, und andere an ihre Stelle angenommen werden sollen.
+
+[^xx-b]: Memoires pour l'Histoire des Sciences & des beaux Arts. Aout 1711. art. 120. p. 1407. On scait bou gré a M. Wolfius d'avoir ramené une matiere de foi agreable & curieuse, & encore plus de s'être exprimé avec tant d'honèteté.
+
+## Erinnerung
+
+wegen der andern Auflage
+
+Man hat erstlich vor nützlich gefunden mehrere Exempel aus allen Arten der Wissenschaften zur Erläuterung denen Regeln beyzufügen, damit auch diejenigen, welche die Erklärung bey mir nicht anhören, sich desto leichter darein finden können: indem jedermann bekandt ist, daß die Exempel nicht allein dienen, die Regeln besser zu verstehen, sondern auch zeigen, wie man sie an gehörigem Orte anbringen soll. Dieses ist absonderlich in dem ersten Capitel von den Begriffen geschehen, weil dieses eine Haupt-Materie ist, daran sehr viel gelegen, und die man in andern Büchern nicht so ausgeführet antrifft. Und habe ich die Hoffnung, es werde hieraus ein jeder sehen, daß meine Regeln allgemein sind, und nicht allein in der Mathematick, sondern überall gelten, wo man nach einer gründlichen Erkäntniß strebet. Weil ich in dem Capitel von Schlüssen zeige, daß man im [p. xxii] im Erfinden sich der förmlichen Schlüsse bedienen muß, wenn man ordentlich dencken und ohne Fehltritte fortgehen will; so habe nicht undienlich zu seyn erachtet, daß es gleich hinter das Capitel von den Sätzen käme, vor die beyden Capitel, darinnen gezeiget wird, wie die Sätze theils aus der Erfahrung, theils aus den Erklärungen und andern vorhin erkandten Sätzen gezogen werden. Auf solche Weise gehet vorher, was in den nachfolgenden Capiteln gebrauchet wird. Das erste Capitel von den Begriffen und das vierdte von den Schlüssen sind die beyden wichtigsten. Denn wo man gründliche Erkäntniß liebet, kommet es hauptsächlich auf deutliche Begriffe und ordentliche Beweise an. Ich weiß wohl, daß es Leute giebet, die beydes verwerffen. Sie verachten, was sie nicht nachthun können. Und sie thun wohl daran: massen sie nichts weiters als Ansehen bey Unverständigen suchen, das ihnen einträglicher ist, als ein wohlgegründeter Ruhm bey Verständigen: allein da bey mir die Wahrheit über alles gehet; so kan ich sie wohl bey ihren fünf Sinnen lassen, werde aber nimmermehr aus interessirten Absichten von gründlicher Erkäntniß ablassen: Wer die Regeln von deutlichen Begriffen und ordentlichen Beweisen ohne Anstoß brauchen will, der muß, wie ich schon öfters erinnert, die Mathematick dabey studiren. So werden sie ihm klar und leichte werden, und wird ihn nicht mehr ein jeder Wind der Lehre bald hieher, bald dorthin treiben dörffen, wie wir sehen, daß denjenigen widerfähret, die ihre fünf [p. xxiii] Sinnen an statt des Verstandes brauchen wollen. Halle den 5. Mart. 1719.
+
+## Erinnerung wegen der dritten Auflage.
+
+Was in diesem kleinen Büchlein stehet, habe ich jederzeit mit unter das Beste gerechnet, was ich weiß: denn ich habe den Nutzen der darinnen gegebenen Regeln in Untersuchung und Beurtheilung der Wissenschafften, selbst der mathematischen, vielfältig erfahren, und erfahre ihn noch täglich, indem ich damit beschäftiget bin. Ich kan auch sagen, daß ich auf keine Sache mehr Zeit gewendet, als auf die Haupt-Materien, die ich in diesem Buche vorgetragen habe, und welche der Grund der übrigen sind, und endlich nach vielen Umwegen und vielfältiger Überlegung befunden, und fest gestellet, was ich hierinnen vorgebe. Gleichwie ich aber für meine Person mich um diese wichtige Wahrheiten von Leitung des Verstandes in Erkäntniß der Wahrheit bloß zu dem Ende bekümmert, damit ich in den Stand kommen möchte, die Wahrheit gründlich und mit Gewißheit zu erkennen, und andern einen ebenen Weg zu bahnen, darauf sie sicher ohne Anstoß und Umwege zu nützlicher Erkäntniß gelangen möchten; so habe ich sie aus dieser Absicht bekandt gemacht, damit andere gleichfalls den Nutzen genießen könten den ich davon überflüßig genieße. Ich erfreue mich [p. xxiv] demnach nicht wenig, daß ich aus dem häuffigen Abgange dieses Büchleins und vielen von allerhand Orten erhaltenen Nachrichten erlerne, wie andere den Nutzen meiner Regeln eingesehen und sie so werth als ich zu halten beginnen. Sie werden aber auch mit so gutem Fortgange wie ich, sich derer selben bedienen können, wenn sie sich in den mathematischen Demonstrationen zu üben Zeit und Gelegenheit haben, oder, im Fall die Umstände es nicht leiden wollen, die von mir herausgegebenen Schrifften von der Welt-Weisheit darnach mit Fleiß untersuchen. Damit sie dieses desto leichter bewerckstelligen möchten; so habe ich ihnen in dieser neuen Auflage einige Anleitung darzu geben wollen. In dieser Absicht sind die Grund-Regeln mit mehrern Exempeln erläutert worden, damit man sie desto besser verstehen lerne, und habe ich dabey angezeiget, wo man Materien in meinen Schrifften findet, dadurch diese Regeln erläutert werden. Und dieses ist die einige Ursache gewesen, warum ich bey dieser dritten Auflage noch auf einige Vermehrung gedacht. Es ist wohl freylich nur was weniges, was hin und wieder dazu kommen ist: allein dieses wenige ist höher zu schätzen, als das wenige Geld, was man für ein so kleines Büchlein zu geben pfleget. Die Eintheilung der Capitel und dieser in ihre §§. ist völlig wie in der vorhergehenden Auflage geblieben, aus eben der Ursache, warum ich in diesem Stücke keine Aenderung in der neuen Auflage meiner Gedancken von GOTT, der Welt und der Seele des Menschen [p. xxv] schen vorgenommen. Gleichwie ich aber gleich anfangs in dieses Büchlein nichts gebracht als dasjenige, was von gewissen Nutzen ist und einer die ganze Zeit seines Lebens zu behalten vonnöthen hat, wenn er in Wissenschaften glücklich fortgehen will; so finde auch keine Ursache warum ich jetzt meine Meinung ändere. Denn unerachtet noch viel ein mehreres hätte können hineingebracht werden, das auch seinen Nutzen hat, aber nicht einem jeden so unentbehrlich wie dasjenige was ich vorgetragen [^xxv-c]; so schicket sichs doch nicht zu dem gegenwärtigen Vorhaben und würde ich dadurch das Büchlein für viele unbrauchbar gemachet haben. Es wird sich künftig schon Gelegenheit geben, da ich diese Materien für die, so in Regeln unersättlich sind, noch weiter ausführen werde und mit vielem vermehren, was für die gehöret, die weiter gehen wollen, als insgemein zu geschehen pfleget. Jetzt vergnüge ich mich mit dem, was höchst nöthig ist, zumahl da ohnedem es in Erkäntniß der Wahrheit nicht auf viele Regeln, sondern auf oftmahligen Gebrauch weniger Regeln ankommet. Die Übung muß mehr thun als die Regeln. Wer wenige Regeln recht brauchen lernet, kan nach diesem selbst mehrere finden, wenn er sie vonnöthen hat. Wer die Algebra auf eine solche Weise studistudiret, [p. xxvi] wie ich sie vorzutragen gewohnet bin, wird meinen Worten gleich völligen Glauben geben, und die andern werden mit der Zeit durch die Erfahrung überführet werden, daß ich die Wahrheit rede; welches ich einem jeden, der nach der Wahrheit durstet, von Hertzen wünsche. Halle den 10. Febr. 1722.
+
+[^xxv-c]: Man kan dieses an dem lateinischen Wercke sehen, welches A. 1728. unter dem Titel; Philosophia rationalis, sive Logica, methodo scientifica pertractata in 4. heraus kommen.
+
+## Erinnerung wegen der vierten und fünften Auflage.
+
+Als A. 1725. die vierdte Auflage zum Vorschein kam, gaben mir die damahligen Umstände Gelegenheit an die Hand in dem 14. Capitel zwey Puncte zu berühren, an welche ich in den vorhergehenden nicht gedacht hatte. Nemlich weil ich aus eigener Erfahrung lernete, daß man die liederliche Consequentien-Macherey mit dem methodo demonstrandi per indirectum verwirrete, und gleichwohl viel daran gelegen ist, daß man in Widerlegung anderer beydes wohl von einander unterscheidet so zeigete ich den Unterscheid auf das deutlichste, wiewohl ich nach diesem in dem klaren Beweise p. 107. & seqq. denselben noch handgreiflicher vor Augen legte. Ja, weil ich nicht weniger inneward, daß man Schutz-Schrifften mit Streit-Schrifften vermengete, und auf jene deuten wolte, was ich von diesen in dem angeführten Capitel geschrieben hatte; so hielt ich vor rathsam, auch diesen Irrthum dem Leser zu benehmen [p. xxvii] men, und fügte demnach zum Beschluß desselben bey, wie man Verfolgern zu begegnen hat, welches ich nach diesem gleichfalls in dem klaren Beweise p. 227. & seqq. weiter auszuführen Gelegenheit bekame. Da man nun den Nutzen dieses Buchs einsiehet, daß ich zu der fünften Auflage [^xxvii-d] schreiten muß; so habe es auch noch fruchtbarer zu machen gesucht, und dannenhero nicht allein hin und wieder etwas weniges, jedoch wichtiges, eingerücket, sondern auch das ganze 16. Capitel von neuem hinzugesetzt, darinnen ich zeige, wie man zu einer Fertigkeit die Logick auszuüben gelangen soll. Unter dasjenige, was von neuem mit eingerücket worden, gehöret, was ich im 1. Capitel §. 48. von dem Unterscheide des Wesentlichen und der Eigenschaften erinnert, weil es zu rechtem Verstande der Erklärungen nicht wenig dienet, und ich gefunden, daß man aus Mangel dieser Erkäntniß sich in wohl eingerichteten Erklärungen gar nicht zu finden weiß. Ob man mich aber gleich in diesem Stücke aus Unwissenheit sehr nachtheilig angefallen; so habe ich es doch bloß auf eine solche Art, gleichwie auch die vorhin berührten Puncte eingerücket, daß der Leser nicht anders vermeinen kan, als wenn es gleich im Anfange wäre dabey gewesen. Denn ich bleibe bey meiner Art, daß ich für Schelt-Worte Unterricht ertheile, und Zanck und Streit, so viel mir nur immer möglich, zu vermeiden suche. Im übrigen ist alles geblieben, wie es vorher von [p. xxviii] der ersten Auflage an bis hieher gewesen: denn ich habe nichts geschrieben, was ich nicht schon dazumahl, wie dieses Buch das erste mahl ans Licht trat, durch eigene Erfahrung vielfältig als wahr erfunden hatte. Und eben dieses erfahren alle diejenigen, welche sich dasselbe zu ihrem Führer in ihrem Studiren erwehlen. Ich wünsche, daß es noch viele erfahren mögen; so wird Verstand und Tugend unter den Menschen zunehmen, und ich werde das Ziel erreichen, das ich mir in meinen vielen und weitläuftigen Bemühungen vorgesetzt habe. Marburg den 5. April 1727.
+
+[^xxvii-d]: Und nun A. 1730. zu der sechsten.
+
+## Inhalt des ganzen Wercks.
+
+Vorbericht von der Welt-Weisheit, p. 1
+
+Das 1. Capitel.
+
+Von den Begriffen der Dinge. 11
+
+Das 2. Capitel.
+
+Von dem Gebrauche der Wörter. 60
+
+Das 3. Capitel.
+
+Von den Sätzen. 68
+
+Das 4. Capitel.
+
+Von den Schlüssen, und wie wir dadurch der Wahrheit versichert werden. 79
+
+Das 5. Capitel.
+
+Von der Erfahrung, und wie dadurch die Sätze gefunden werden. 110
+
+Das 6. Capitel.
+
+Von Erfindung der Sätze aus den Erklärungen und von Auflösung der Aufgaben. 126 [p. xxix] Das 7. Capitel.
+
+Von der Wissenschaft, dem Glauben, den Meinungen und Irrthümern. 144
+
+Das 8. Capitel.
+
+Wie man so wohl seine eigene, als die Kräfte anderer untersuchen soll, ob sie zureichen eine Wahrheit zu untersuchen, oder nicht. 153
+
+Das 9. Capitel.
+
+Wie man sowohl seine eigene, als fremde Erfindungen beurtheilen soll. 162
+
+Das 10. Capitel.
+
+Wie man von Schrifften urtheilen soll. 176
+
+Das 11. Capitel.
+
+Wie man Bücher recht mit Nutzen lesen soll. 188
+
+Das 12. Capitel.
+
+Von Erklärung einer mit Verstande geschriebenen, und insonderheit der Heil. Schrifft. 191
+
+Das 13. Capitel.
+
+Wie man einen überführen soll. 197
+
+Das 14. Capitel.
+
+Wie man einen wiederlegen soll. 206
+
+Das 15. Capitel.
+
+Wie man disputiren soll. 214
+
+Das 16. Capitel.
+
+Wie man eine Fertigkeit in Ausübung der Logick erhalten soll. 217
+
+[p. 1]
+
+## Vorbericht von Der Welt-Weißheit.
+
+#### §. 1.
+
+[*Was Welt-Weißheit ist.*]
+
+Die Welt-Weißheit ist eine Wissenschafft aller möglichen Dinge, wie und warum sie möglich sind.
+
+[*Was Wissenschafft ist.*]
+
+§. 2. Durch die Wissenschafft verstehe ich eine Fertigkeit des Verstandes alles, was man behauptet, aus unwidersprechlichen Gründen unumstößlich darzuthun. Welche Gründe unwidersprechlich sind und wie man etwas auf eine unumstößliche Weise darthut, wird in gegenwärtigen Gedancken von dem Gebrauche der Kräffte des Verstandes in Erkäntniß der Wahrheit Dargethan werden.
+
+(*Wolffii Logick.*)
+
+[p. 2] [*Was möglich ist.*]
+
+§. 3. **Möglich** nenne ich alles, was seyn kan, es mag entweder würcklich da seyn, oder nicht.
+
+[*Alles hat einen Grund, warum es ist.*]
+
+§. 4. Weil von nichts sich nichts gedencken läßet; so muß alles, was seyn kan, einen zureichenden Grund (oder eine *raison*) haben, daraus man sehen kan, warum es vielmehr ist, als nicht ist: welches an seinem Orte (§. 30. 31. Met.) weiter erwiesen wird.
+
+[*Erkäntniß eines Welt-Weisen.*]
+
+§. 5. Solchergestalt muß ein Welt-Weiser nicht allein wissen, daß etwas möglich sey, sondern auch den Grund anzeigen können, warum es seyn kan (§. 1. 2.). Es ist z. E. nicht genung, daß ein Welt-Weiser weiß, es könne regnen, sondern er muß auch sagen können, wie es zugehet, daß es regnet, und aus was für Ursachen es regnet.
+
+[*Wie sie von der gemeinen unterschieden.*]
+
+§. 6. Hierdurch wird die **gemeine Erkäntniß** von der **Erkäntniß eines Welt-Weisen** unterschieden. Nemlich einer, der die Welt-Weißheit nicht verstehet, kan wohl auch aus der Erfahrung vieles lernen, was möglich ist: allein er weiß nicht den Grund anzuzeigen, warum es seyn kan. Z. E. Er lernet aus der Erfahrung, daß es regnen könne, kan aber nicht sagen, wie es zugehet, daß es regnet, noch die Ursachen anzeigen, warum es regnet.
+
+[*Nutzen der Erkäntniß eines Welt-Weisen.*]
+
+§. 7. Nun könten wir zwar meinen, die gemeine Erkäntniß sey zulänglich genung die Glückseeligkeit des menschlichen Lebens zu bebefördern: [p. 3] allein, da alle Dinge nur unter gewissen Umständen angehen; so kan derjenige, der nur eine gemeine Erkäntniß davon hat, öffters einen Umstand übersehen, und alsdenn vor allgemein ausgeben, was nur in gewissen Fällen eintrifft. Die Erfahrung lehret solches zur Gnüge. Z. E. Man siehet, daß man gegen einen Nothleidenden mitleidig wird, wenn man seinen Jammer erkennet, und bildet sich daher als allgemein ein, so man einen mitleidig machen wolle, dörffe man ihm nur die Noth des Elenden vorstellen. Gleichergestalt siehet man in den Gärten, daß der Roßmarin fortgepflantzet wird, wenn man junge Zweiglein abschneidet, und mit dem unteren Theile in die Erde stecket. Man würde sich aber sehr betrügen, wenn man solches mit allen Gewächsen, die beständig sind, vornehmen wolte. Hingegen ein Welt-Weiser darff sich nicht fürchten, daß er seine Sätze unrecht anbringe, indem er die Ursache weiß, warum und wenn sie zutreffen müssen (§. 6.), als in dem ersten Exempel, daß die Vorstellung der Noth des Elenden alsdenn erst mitleidig mache, wo das Gemüthe vorher geneigt ist an des andern Glücke sich zu vergnügen; und in dem anderen Exempel, daß ein Zweiglein, so in die Erde gestecket wird, Wurtzeln schlage, wenn ein Knoten in die Erde kommet, daß Zweiglein nicht leicht verwelcket und die [p. 4] Rinde von den durchbrechenden Wurtzeln sich leicht durchbohren lässet. Er kan über dieses aus denen erkandten Wahrheiten andere unbekandte erfinden, und schöpffet aus seiner Erkäntniß ein so süsses Vergnügen, dergleichen uns nichts anders in der Welt gewehren kan.
+
+[*Einwurff wieder die Erklärung der Welt-Weißheit.*]
+
+§. 8. Vielleicht werden sich einige verwundern, daß sich die Welt-Weißheit auf alle mögliche Dinge erstrecken soll, da doch der Allerweiseste unter der Sonnen sich nicht weiter rühmen kan, als er habe nur einen gantz geringen Theil davon begriffen. Wäre es also nicht besser, daß man die Beschreibung der Welt-Weißheit nicht so hochmüthig einrichtete?
+
+[*Beantwortung desselben.*]
+
+§. 9. Wem diese Gedancken einfallen, dem gebe ich zu bedencken, daß es allerdinges viel rathsamer sey, man richte die Beschreibung der Welt-Weißheit nach ihrer größten Vollkommenheit ein, die sie in sich haben kan, als entweder nach seinem eigenen, oder eines andern Mannes Begriffe, den er davon erlanget. Denn auf solche Weise werden dem Wissen keine unnöthige Schrancken gesetzet, wodurch viele abgehalten werden denen Sachen weiter nachzudencken, und demnach viele nützliche Erfindungen zurücke bleiben: wie es diejenigen Zeiten zur Gnüge ausweisen, da man glaubte, *Aristoteles* habe in der Welt-Weißheit [p. 5] das weiteste Ziel erreichet, dahin menschlicher Verstand gelangen kan. Vielmehr wird ein jeder aufgemuntert weiter als seine Vorgänger zu gehen, indem er siehet, daß noch gar viel zu erfinden übrig ist: wie es die gegenwärtigen Zeiten sonderlich bey den *Mathematicis* zeigen. Man wird auch zugleich gedemüthiget, daß man sich seiner vermeinten hohen Gaben nicht überhebet, indem man erkennet, der größte Theil desjenigen, so wir wissen, sey der geringste von denen Dingen, die wir noch nicht wissen. Und überhaupt ist bekandt, daß man die Sachen, welche verschiedene Grade haben können, jederzeit allgemein, ohne auf einen gewissen Grad seine Absicht zu richten, zu erklären pfleget. Z. E. Unter denen, die mäßig sind, besitzet nicht ein jeder die Mäßigkeit in einem gleichen Grade. Wenn man nun die Mäßigkeit erklären soll: richtet man sich nicht nach dem Grade, in welchem die Mäßigkeit bey diesem oder jenem Manne anzutreffen, sondern man erkläret sie so, wie sie seyn soll, wenn sie den höchsten Grad erreichet, damit nichts weiter daran auszusetzen ist.
+
+[*Erster Theil der Welt-Weißheit.*]
+
+§. 10. Wenn wir auf uns selbst acht haben; so werden wir überführet, es sey in uns ein Vermögen zu gedencken was möglich ist, welches wir den **Verstand** zu nennen pflegen. Allein wie weit sich dieses Vermögen erstrecke, und wie man sich desselben [p. 6] bedienen müsse so wohl durch eigenes Nachsinnen die uns verborgene Wahrheit zu erkennen, als die von anderen an das Licht gestellete vernünfftig zu beurtheilen, fället nicht gleich einem jeden in die Augen. Derowegen damit wir wissen, ob wir zu der Welt-Weißheit geschickt sind, oder nicht; soll dieses unsere erste Arbeit seyn, daß wir die Kräffte des menschlichen Verstandes und ihren rechten Gebrauch in Erkäntniß der Wahrheit erkennen lernen. Der Theil der Welt-Weißheit, darinnen dieses gezeiget wird, heisset die *Logick*, oder *Vernunfft-Kunst*, oder auch *Vernunfft-Lehre*.
+
+[*Anderer Theil.*]
+
+§. 11. Unter denen Dingen, die möglich sind, muß eines nothwendig selbstständig seyn, denn sonst wäre etwas möglich, davon man keinen Grund anzeigen könnte, warum es ist, welches dem zuwieder lieffe, so bereits oben (§. 4.) bestätiget worden. Das selbstständige Wesen nennen wir **GOtt**: die anderen Dinge, welche ihren Grund, warum sie sind, in dem selbstständigen Wesen haben, heissen *Creaturen*. Da nun die Welt-Weißheit den Grund zeiget, warum etwas seyn kan (§. 5.); so muß billig die Lehre von GOtt, oder dem selbstständigen Wesen erst vorgenommen werden, ehe man sich auf eine genaue Erkäntniß der Creaturen leget, die man bis auf die ersten Gründe hinaus führet, oder vielmehr aus ihnen herleitet, ob wir zwar [p. 7] zwar nicht leugnen, daß einer eine gemeine Erkäntniß derselben zuvor haben muß, die er aber nicht nöthig hat aus der Welt-Weißheit zu holen, indem wir durch die tägliche Erfahrung von Jugend auf dazu gelangen (§. 6.). Der Theil der Welt-Weißheit, darinnen von GOTT und dem Ursprunge der Creaturen von ihm gehandelt wird, heisset die *natürliche Theologie* oder *Gottes-Gelehrheit*.
+
+[*Dritter Theil.*]
+
+§. 12. Die Creaturen äussern ihre Thätlichkeit entweder durch Bewegung, oder durch Gedancken. Jene nennen wir *Cörper*; diese *Geister*. Da nun die Welt-Weißheit sich bemühet von allen Dingen richtigen Grund anzuzeigen; muß sie sowohl die Kräffte und Würckungen derer Dinge untersuchen, welche das ihrige durch Bewegung verrichten, als der anderen, welche durch ihre Gedancken ihnen selbst bewust sind. Also zeiget sie, was in der Welt möglich ist, sowohl durch die Kräffte der Cörper, als der Geister. Derjenige Theil der Welt-Weißheit, darinnen man erkläret, was durch die Kräffte der Geister möglich ist, wird die *Pneumatologie* oder *Geister-Lehre* genennet: der andere hingegen, darinnen man zeiget, was durch die Krafft der Cörper möglich ist, bekommet den Nahmen der *Physick*, oder *Natur-Wissenschafft*, oder *Natur-Lehre*.
+
+[p. 8] [*Vierdter Theil.*]
+
+§. 13. Das Wesen, welches in uns dencket, nennen wir die *Seele*. Da nun die Seele unter die Zahl der Geister gehöret (§. 12.) und außer dem Verstande auch einen Willen hat, davon viel in der Welt herrühret; so muß in der Welt-Weißheit auch gewiesen werden, was durch den Willen der Seelen möglich ist: wohin alles dasjenige gehöret, was insgemein von dem Rechte der Natur, der *Ethick*, oder *Sitten-Lehre*, *Politick* oder *Staats-Kunst* &c. gesaget wird.
+
+[*Fünffter Theil.*]
+
+§. 14. Weil alle Dinge, sie mögen Cörper, oder Geister und Seelen betreffen, in einigen Stücken einander ähnlich sind; so hat man auch zu erwegen, was allen Dingen überhaupt zukommet und worinnen der allgemeine Unterscheid derselben anzutreffen, und nennet man den Theil der Weltweißheit, darinnen die allgemeine Erkäntniß der Dinge abgehandelt wird, die *Ontologie* oder *Grund-Wissenschafft*. Die Grund-Wissenschafft, Geister-Lehre und natürliche Gottes-Gelehrheit machen die *Metaphysick* oder *Haupt-Wissenschafft* aus.
+
+[*Ursprung der Mathematick.*]
+
+§. 15. Unsere Erkäntniß stehet entweder stille, wenn wir wissen, durch was vor Kräffte etwas in der Natur gewürcket werden kan, oder sie gehet weiter fort und misset sowohl die Grösse der Kräffte, als der Würckung auf das genaueste aus, damit [p. 9] augenscheinlich erhelle, daß eine Würckung von gewissen Kräfften herrühren könne. Als zum Exempel: ich lasse mich entweder vergnügen, wenn ich weiß, die mit Gewalt zusammen gepressete Lufft könne das Wasser in einem Spring-Brunnen sehr hoch treiben, oder ich bemühe mich genau zu erfahren, wie starck das Vermögen der Lufft zunimmet, nachdem sie in den halben, oder dritten, vierdten &c. Theil des vorigen Raumes gepresset worden, und wie viel Schuhe hoch sie in jedem Falle das Wasser treiben könne. Der letztere Grad der Erkäntniß erfordert, daß man alle Dinge, die eine Grösse haben, auszumessen wisse: aus welcher Absicht die *Mathematick* erfunden worden. Von deren unterschiedenen Theilen habe ich in den Anfangs-Gründen der mathematischen Wissenschafften und in dem daraus gemachten Auszuge gehandelt.
+
+[*Nutzen derselben.*]
+
+§. 16. Solchergestalt bringet uns die Mathematick zu der allergenauesten und vollkommensten Erkäntniß, welche zu erlangen möglich ist.
+
+[*Vorhaben des gegenwärtigen Wercks.*]
+
+§. 17. Da aber nicht jedermanns Werck ist sich mit der Welt-Weißheit so weit einzulassen; so werden wir uns um diesen vollkommenen Grad in gegenwärtigen Anfangs-Gründen nicht bemühen, sondern damit zufrieden seyn, daß wir die Kräffte der Dinge richtig erkennen und daraus urtheilen [p. 10] lernen, was durch sie in der Natur möglich ist. Die aber nach dem weiter zu gehen gesonnen, denen soll, wo GOTT will, bey anderer Gelegenheit mit dienlichem Unterrichte aufgewartet werden: zu geschweigen, daß sie in meinen mathematischen Schrifften, sonderlich denen, die in Lateinischer Sprache heraus kommen sind, schon gute Anweisung dazu finden.
+
+## Ende des Vorberichts.
+
+[p. 11]
+
+## Vernünfftige *Gedancken* von den Kräfften des menschlichen Verstandes und ihrem richtigen Gebrauche in Erkäntniß der Wahrheit.
+
+### Das 1. Capitel, von den Begriffen der Dinge.
+
+#### §. 1.
+
+[*Was Empfinden sey.*]
+
+Jeder nimmet bey sich selbst wahr, daß er viele Dinge empfindet. Ich sage aber, daß wir etwas empfinden, wenn wir uns desselben als uns gegenwärtig bewust sind. So empfinden wir den Schmertz, den Schall, das Licht und unsere eigene Gedancken.
+
+[*Was ein Gedancke genennet wird.*]
+
+§. 2. Diejenige Würckung der Seele, wodurch wir uns bewust sind, nennen wir einen *Gedancken*: denn jedermann saget, er dencke nichts, zu der Zeit, wenn er sich nichts bewust zu seyn vermeinet. Solchergestalt sind die Empfindungen Gedancken von uns gegenwärtigen Dingen. Wir erklären hier weiter nichts als Wörter, damit [p. 12] ein jeder erkenne, in was für einem Verstande wir sie nehmen. Die Sachen, die dadurch bedeutet werden, habe ich in der Metaphysick ausgeführet.
+
+[*Was man Sinnen nennet.*]
+§. 3. Das Vermögen Dinge, die ausser uns sind, unmittelbahr zu empfinden, führet den Nahmen der *Sinnen*, deren man fünff zu zehlen pfleget, als Sehen, Hören, Fühlen, Riechen, Schmecken.
+
+[*Was ein Begriff ist.*]
+§. 4. *Einen Begriff* nenne ich eine jede Vorstellung einer Sache in unseren Gedancken. z. E. Ich habe einen Begriff von der *Sonne*, wenn ich mir dieselbe in meinen Gedancken vorstellen kan, entweder durch ein Bild als wenn ich sie selber gegenwärtig sähe, oder durch bloſſe Worte damit ich zu verstehen gebe, was ich von der Sonne wahrgenommen, als daß sie sey der an dem Himmel bey Tage hellgläntzende Cörper, so die Augen blendet, und es auf der Erde warm und helle machet: oder auch durch andere Zeichen, dergleichen in der Stern-Kunst das Zeichen ☉ ist. Eben so habe ich einen Begriff von der *Hochzeit*, wenn ich mir entweder in meinen Gedancken, als in einem Bilde vorstellen kan, wie zwey Personen ihr Versprechen einander zu heyrathen nach der in einem Lande üblichen Gewohnheit vollziehen, oder auch durch bloſſe Worte, oder andere Zeichen (worunter man auch die Gemählde rechnen kan) entweder mir selbst, [p. 13] oder anderen zu verstehen gebe, die Hochzeit sey eine feyerliche Vollziehung des Versprechens einander zu heyrathen. Ich habe ferner einen Begriff von dem Guten, wenn ich weiß, Gut sey dasjenige, was meine Natur und meinen äusseren Zustand vollkommener machet: ich habe einen Begriff von GOTT, wenn ich gedencke, es sey das Wesen, darinnen der Grund von der Gegenwart oder Würcklichkeit der Welt zu finden: ich habe einen Begriff von den *Unmündigen*, wenn ich mir vorstelle Personen, die wegen ihres Alters sich noch nicht selbst versorgen und regieren können.
+
+[*Wie die Sinnen uns zu einem Begriffe bringen.*]
+§. 5. Da uns nun die Sinnen zu Gedancken von Dingen, die ausser uns sind, veranlassen (§. 2. 3.); so bringen sie uns auf einen Begriff derselben. Solchergestalt bekommen wir durch das Sehen einen Begriff von dem Lichte und den Farben; durch das Hören von dem Schalle; durch das Fühlen von dem, was weich oder harte ist; durch das Riechen von Geruch und Gestanck; durch das Schmecken von süssem und saurem.
+
+[*Wie dieses geschehe, ist hier nicht nöthig zu wissen.*]
+§. 6. Ob aber durch die Sinnen die Begriffe derer Dinge, die ausser uns sind, in die Seele als in ein leeres Behältniß hinein getragen werden, oder ob sie vielmehr schon vor sich in dem Wesen der Seele gleichsam vergraben liegen, und bloß durch ihre eigene Krafft [p. 14] Krafft auf Veranlassung der Veränderungen, die auswärtige Dinge in unserem Cörper verursachen, hervor gebracht werden, davon ist noch lange nicht Zeit zu reden. In meinen Gedancken von GOtt und der Seele des Menschen und zwar in dessen fünfftem Capitel kan ich erst zeigen, daß das letztere der Wahrheit gemäß sey. Es dienet auch nicht die Entscheidung dieser Frage zu unserem gegenwärtigem Vorhaben. Denn wir können die Begriffe der äusserlichen Dinge erlangen, und daraus von ihnen sicher urtheilen, wenn wir gleich nicht wissen, wo sie herkommen: gleichwie wir die Hand zu allerhand Verrichtungen gebrauchen können, ob wir gleich nicht wissen, wie sie von innen beschaffen ist und die zu ihnen erforderte Bewegungen hervor bringen kan.
+
+[*Was wir dabey zu thun haben.*]
+§. 7. Hier ist uns genung, daß wir mit Fleiß auf die Gedancken acht haben, wozu uns unsere Sinnen veranlassen. Dieses aber geschiehet, wenn wir sorgfältig von einander unterscheiden, was uns als etwas besonders vorgestellet wird, und dabey, so viel möglich, anmercken, wodurch wir bewogen werden es für etwas besonders zu halten. z. E. ich sehe zugleich zwey Figuren, ein Dreyecke und ein Vierecke. Das Dreyecke stellet sich ganz anders dar, als das Vierecke. Wenn ich mich nun selbst frage, wodurch ich bewogen werde das Dreyecke [p. 15] ecke vor etwas anders als das Vierecke zu halten; so werde ich finden, es geschehe darum, weil das Dreyecke in drey, das Vierecke aber in vier Linien eingeschlossen ist. Was ich im Dreyecke finde, treffe ich nicht im Vierecke an, und was im Vierecke wahrgenommen wird, ist nicht dasjenige, was das Dreyecke zeiget. Man kan nicht eines für das andere nehmen. Und dadurch bemercket man den Unterscheid beyder Figuren. So, wenn ich frage, was mich dazu beweget, daß ich sage, es sey lichte; so finde ich, es sey dieses, daß ich um mich herum die Sachen sehen kan. Demnach ist *Licht* dasjenige, was die umstehenden Sachen sichtbar machet. Auf gleiche Weise finden wir, *Kauffen* heisse eine einem andern zuständige Sache vor ein von ihm bewilligtes Stücke Geld an sich bringen: *Vollblütig* sey derjenige, der mehr Geblüte hat als zu Erhaltung der Gesundheit vonnöthen ist: Die *Geschwulst* sey eine ausserordentliche Dicke in den fleischichten Theilen des Leibes u. s. w.
+
+[*Wenn es schweer fället einen Begriff zu erlangen.*]
+§. 8. Es ist leichte durch Veranlassung der Sinnen einen Begriff von einer Sache zu überkommen, wenn sie uns alles vorstellen, wodurch sie erkandt, und von anderen unterschieden wird, und zwar solchergestalt, daß sie uns nicht zugleich andere Dinge mit vorstellen, die hieher nicht gehören (wohin das [p. 16] vorige Exempel von dem Drey- und Vierecke gehöret), oder daß doch das Dazu gehörige vor dem fremden mehr in die Sinnen fället: wohin man das Exempel von dem Lichte rechnen kan. Wenn sich das Wiederspiel befindet; so ist es schweer einen richtigen Begriff zu überkommen, denn wir nehmen entweder das unrechte vor das rechte, oder lassen etwas aus, oder nehmen mit dazu, was nicht dazu gehöret. z. E. Ich habe gesehen, oder gehöret, wie Titius einem Kramer seinen Laden erbrochen, und von seinen Waaren heraus getragen. Hierinnen ist zwar der Begriff eines Diebes enthalten, aber was dazu gehöret, ist unter fremde Sachen so versteckt, daß man gar leichte irren kan, wenn man es heraus suchen will. Denn der Kramer mit seinem Laden und seinen Waaren, ingleichen das Erbrechen des Ladens, findet in dem allgemeinen Begriffe eines Diebes keinen Platz, und wird sich daraus nicht gleich ein jeder den Dieb als eine Person vorstellen, die dem anderen das Seine wieder sein Wissen und Wollen entwendet, unerachtet alles, was hier gesaget wird, in dem gegenwärtigen Exempel sich so und nicht anders befindet. Es wird aber in solchem Falle die Arbeit erleichtert, wenn man verschiedene besondere Exempel gegen einander hält, als wodurch man ersiehet, was sie mit einander gemein haben, und was vor besondere [p. 17] sondere Umstände man weglassen muß, damit man dasjenige übrig behält, was zu dem verlangten Begriffe gehöret. z. E. Wenn ich zu dem vorigen Exempel des Diebstahles noch hinzu setze, daß Sempronius in einen Garten gestiegen, und die Früchte von den Citronen-Bäumen abgebrochen und mit sich genommen; so finde ich leichter als vorhin, daß ich den Dieb nicht anders anzusehen habe als eine Person, die dem andern das Seine wider sein Wissen u. seinen Willen entwendet. Denn Titius und Sempronius kommen nicht weiter mit einander überein, als daß sie einem Eigenthums-Herrn das Seine wider sein Wissen und seinen Willen wegnehmen und sich zueignen. Eben so sehen wir uns und andere lieben: aber nicht ein jeder begreiffet, daß die Liebe eine Neigung des Gemüths sey aus des andern Glückseeligkeit Vergnügen zu schöpffen, unerachtet sie in allen Exempeln, die man von der Liebe haben kan, anzutreffen. Mehrere Exempel giebet die Zeit (§. 94. Met.), der Raum (§. 46. Met.), der Ort (§. 47. Met.) die Stetigkeit (§. 58. Met.). Hieher kan man auch das Gewissen (§. 73. Mor.), die Gewissens-Scrupel (§. 76. Mor.), die lebendige Erkäntniß (§. 169. Mor.) &c. rechnen. Es wird aber das Nachdencken erleichtert, wenn man beyde Exempel neben einander dergestalt vor sich schreibet, daß alles, was [p. 18] unterschiedenes in einem jeden vorkommet, in einer besonderen Zeile stehet: denn so lässet sich alles mit einander vergleichen und die Aehnlichkeit in beyden Fällen leichter wahrnehmen.
+
+[*Was ein klarer und dunckeler Begriff sey.*]
+§. 9. Wenn der Begriff, den wir haben, zureichet die Sachen, wenn sie vorkommen, wieder zu erkennen, als wenn wir wissen, es sey eben diejenige Sache, so diesen oder einen andern Nahmen führet, die wir in diesem oder in jenem Orte gesehen haben; so ist er *klar*: hingegen *dunckel*, wenn er nicht zulangen will die Sache wieder zu erkennen. So haben wir einen klaren Begriff von den Farben, denn wir können sie erkennen, und von einander unterscheiden, wenn sie vorkommen. Gleichergestalt haben wir einen klaren Begriff von dem *Zorne*, denn wir können es erkennen, wenn einer zornig ist. Wir haben einen klaren Begriff von der *Schwindsucht*, denn wir können es dem Menschen ansehen, der die Schwindsucht hat. Sehen wir aber in einem Garten ein fremdes Gewächse und können uns nicht recht besinnen, ob es eben dasjenige sey, welches wir an einem andern Orte gesehen, oder auch mit einem gewissen Nahmen nennen gehöret; so müssen wir von dem letzteren nur einen dunckelen Begriff haben. So haben ihrer viele nur Dunckele Begriffe von den Kunst-Wörtern, welche in der Mathematick und Welt-Weisheit gebrauchet werden. [p. 19] matick und Welt-Weisheit gebrauchet werden.
+
+[*Grade der dunckelen.*]
+§. 10. Es hat aber diese Dunckelheit verschiedene Grade. Denn unterweilen können wir uns bey der gegenwärtigen Sache von vielen Merckmahlen besinnen, daß sie bey einer andern auch anzutreffen gewesen; bisweilen auf gar wenige. Z. E. Bey dem fremden Gewächse besinnen wir uns, daß das andere, davon wir einen Dunckelen Begriff haben, eben solange, spitzige und zäckichte Blätter gehabt, wie das gegenwärtige; es will uns aber nicht einfallen, ob sie auch im übrigen so ausgesehen, wie die Blätter des vor Augen stehenden Gewächses. Nachdem wir uns nun auf viele oder wenige solcher Merckmahle besinnen können; nachdem ist auch unser Begriff wenig oder sehr dunckel.
+
+[*Exempel dunckeler Begriffe.*]
+§. 11. Also haben wir sehr dunckele Begriffe von allen den Wörtern, derer Bedeutung wir nicht recht wissen, ob sie uns gleich dem Thone nach bekandt sind, und wenn wir darauf acht haben, uns nicht gar ohne allen Gedancken lassen. Z. E. Jedermann ist das Wort Tugend bekandt: und da einer vieles Thun der Menschen tugendhafft, vieles hingegen untugendhafft nennet; so muß er einen Begriff davon haben. Allein er ist noch sehr dunckel, wenn er Laster für Tugenden und Tugenden für Laster halten kan. [p. 20] kan. Ich rede hier von denen Fällen, da man im Ernste, und nicht aus interessirten Absichten unrichtig urtheilet, und so dencket, wie man es saget.
+
+[*Vorsicht, die bey dunckelen Begriffen nöthig.*]
+§. 12. Wir müssen uns aber wohl in acht nehmen, daß wir nicht urtheilen, als wenn andere auch keinen klaren Begriff mit den Wörtern verknüpffeten, von denen wir nur einen dunckelen haben. Denn sonst werden wir für dunckel vor und an sich selbst halten, was doch bloß ein Mangel unserer Erkäntniß ist, und Wörter als einen leeren Thon verwerffen, die ihre richtige Bedeutung haben. So verwerffen einige die vires centripetas und centrifugas, oder die einem Puncte sich näherende und davon sich entfernende Kräffte der heutigen Welt-Weisen, weil sie nicht eigentlich wissen, was solche Kräffte zu sagen haben. Andere verspotten das *unendlich kleine* in der Geometrie, weil sie nicht begreiffen, was dieses Wort eigentlich zu sagen habe. Ja viele halten aus dieser Ursache allerhand Kunst-Wörter, sonderlich in der alten Metaphysick, vor dunckel, weil sie sie nicht recht zu erklären wissen.
+
+[*Was ein deutlicher und undeutlicher Begriff ist.*]
+§. 13. Ist unser Begriff klar; so sind wir entweder vermögend die Merckmahle, daraus wir eine Sache erkennen, einem andern herzusagen, oder wenigstens uns selbst dieselbe besonders nach einander vorzustellen, oder wir [p. 21] wir befinden uns solches zu thun unvermögend. In dem ersten Falle ist der klare Begriff deutlich: in dem andern aber undeutlich. Z. E. Es hat einer einen klaren und deutlichen Begriff von einem Uhrwercke, wenn er uns sagen kan, es sey eine Machine, welche durch Herumtreibung eines Zeigers die Stunde zeiget, oder durch den Schlag an eine Glocke dieselbe andeutet. Ein deutlicher Begriff von der Erleuchtung ist, daß sie eine übernatürliche Überführung solcher Wahrheiten sey, die man natürlicher Weise nicht begreiffen kan. In eben die Clasle gehöret, daß der *Ehestand* eine Verbindung eines Mannes und Weibes ist, Kinder mit einander zu erzeugen und aufzuziehen; daß die Tugend eine Fertigkeit sey sich und andere so vollkommen zu machen, als durch unsere Kräfte geschehen kan; daß der Regen eine Menge Wasser-Tropffen ist, die neben und nach einander aus den Wolcken durch die Lufft herunter fallen; daß die Allmacht ein Vermögen ist alles würcklich zu machen, was möglich ist; daß das Salz ein fester Cörper ist, so im Wasser aufgelöset und flüßig wird. Wer mehrere Exempel verlanget, darff nur in allen Theilen der Welt-Weisheit, die ich nach einander heraus gegeben, nachschlagen, denn darinnen wird er von allen Dingen, wovon geredet wird, deutliche Begriffe antreffen. Hingegen [p. 22] gegen ist unser Begriff von der rothen Farbe zwar klar, aber doch undeutlich. Denn wir können die rothe Farbe zwar erkennen, wenn sie uns vorkommet; vermögen aber doch nicht zu sagen, woraus wir sie erkennen. Also haben viele einen zwar klaren, aber undeutlichen Begriff von den verschiedenen Arten der Bäume und Pflantzen, denn sie können eine Art für der anderen erkennen, und alle von einander wohl unterscheiden, können doch aber eigentlich nicht ersehen, noch sagen, worinnen der Unterscheid bestehe. Dergleichen undeutlicher Begriff ist auch das Sausen des Windes, das Rauschen des Wassers, das Brausen der Wellen. Ja, den Unterscheid im Geschmack und Geruche bemercken wir nur klar, aber nicht deutlich.
+
+[*Wie jeder von beyden einem andern beyzubringen.*]
+§. 14. Derowegen kan man einen deutlichen Begriff einem andern mit blossen Worten beybringen, einen undeutlichen aber nicht anders, als wenn man ihm die Sache gegenwärtig darstellet. Z. E. Wenn einer blind ist, dem mag man vor predigen, was man will; so wird er den Begriff von der rothen oder einer andern Farbe nimmermehr bekommen, den wir davon haben.
+
+[*Unterscheid ausführlicher und unausführlicher Begriffe.*]
+§. 15. Ein deutlicher Begriff ist entweder ausführlich, oder unausführlich. Ausführlich ist der Begriff, wenn die Merckmahle, so man angiebet, zureichen die Sache [p. 23] Sache jederzeit zu erkennen, und von allen andern zu unterscheiden: hingegen *unausführlich*, wenn man nicht alle Merckmahle, sondern nur einige zu erzehlen weiß dadurch eine Sache von andern unterschieden wird. Z. E. Man hat ausführliche Begriffe von der lebendigen Erkäntniß, der Fruchtniessung, oder Nutzung, der Colic, des Verstandes, des Thaues, des Geitzes, :c. wenn man sagen kan; die **lebendige Erkäntniß** ist eine Erkäntniß, die in Willen gehet, oder einen Bewegungs-Grund etwas zu wollen abgiebet. Die **Nutzung** ist das Recht aus einer fremden Sache nach seinem Gefallen sich Vortheil zu verschaffen, jedoch, daß die Sache selbst in ihrem Stande einmahl wie das andere verbleibet. Die **Colic** ist ein empfindlicher und anhaltender Schmertz in den Gedärmen. Der **Verstand** ist ein Vermögen das mögliche zu gedencken. Der **Thau** ist ein Hauffen subtiler Dünste, die in Abwesenheit der Sonne nach und nach aus der Lufft herunter fallen, und sich an die obere Fläche der Cörper auf dem Erdboden anhängen. Der **Geitz** ist eine Begierde mehr zu haben, als man zu seiner Noth-Durft brauchet und nach seinen Umständen vor sich bringen kan :c. Man schlage alle Theile der Welt-Weisheit nach, die ich nach einander heraus gegeben; so wird man daselbst mehr Exempel ausführlicher Begriffe [p. 24] griffe finden als nöthig ist den Unterscheid ausführlicher und unausführlicher Begriffe zu erläutern. Hingegen haben die Cartesianer einen unausführlichen Begriff von dem Cörper, wenn sie sagen: er sey ein Wesen, so in die Länge, Breite und Dicke ausgedehnet wird. Denn durch dieses Merckmahl allein kan man den Cörper noch nicht von dem Raume unterscheiden, den auch deswegen die Cartesianer mit dem Cörper vor eines halten. Mehrere Exempel von unausführlichen Begriffen findet man in den Schriften der meisten Gelehrten.
+
+[*Was ein vollständiger und unvollständiger Begriff sey.*]
+
+§. 16. Endlich ein deutlicher Begriff ist entweder vollständig, oder unvollständig. Vollständig ist unser Begriff, wenn wir auch von den Merckmahlen, daraus die Sache erkandt wird, klare und deutliche Begriffe haben. Hingegen ist er unvollständig, wenn wir von den Merckmahlen, daraus die Sache erkandt wird, nur undeutliche Begriffe haben. Z. E. Wenn einer nicht allein sagen kan, daß eine Schlag-Uhr eine Machine sey, die durch den Schlag an eine Glocke die Stunden andeutet, sondern auch von dem Anschlage der Glocke, der Stunde, dem Andeuten wiederum deutliche Begriffe hat; so ist sein Begriff von der Schlag-Uhr vollständig. Hat er aber von allen diesen Dingen noch undeutliche Begriffe; so ist sein Begriff von gedachter Uhr un [p. 25] unvollständig. Der Begriff von der Lust wird vollständig, wenn man nicht allein sagen kan, sie sey eine Empfindung der Vollkommenheit, sondern auch über dieses die Empfindung und Vollkommenheit deutlich begreiffet. Gleichergestalt ist der vorhin (§. 15.) gegebene Begriff von der lebendigen Erkäntniß vollständig, wenn man ferner deutlich erklären kan, was die Erkäntniß, der Wille, und in Willen gehen, sey. Der Begriff von der Nutzung wird vollständig, wenn man deutliche Begriffe von dem Rechte, der fremden Sache, dem Vortheil schaffen, dem eigenen Gefallen, der unbeschädigten Verbleibung einer Sache in ihrem Stande, erlanget. Und eben so verhält sichs mit andern vorhin gegebenen Exempeln. Es lassen sich nicht wohl Exempel vollständiger Begriffe geben, weil es zu weitläuftig fället, die in einem enthaltene Merckmahle immer weiter zu erklären. Man kan aber die Vollständigkeit der Begriffe nicht besser erkennen lernen, als wenn man die Erklärungen, sonderlich in den lateinischen Anfangs-Gründen der mathematischen Wissenschaften mit Fleiß durchgehet, massen daselbst in den folgenden Erklärungen kein Wort angenommen wird, welches nicht schon im vorhergehenden wäre erkläret worden. Ja, wenn endlich einige Wörter unerkläret angenommen werden; so sind sie [p. 26] so beschaffen, daß man mit den klaren Begriffen, welche man mit ihnen verknüpffet, zufrieden seyn kan, oder auch ihre fernere Erklärung in der Metaphysick findet. Und eben hierzu kan man die Erklärungen in der Metaphysick, Moral, Politick und Physick gebrauchen: Z. E. Ich erkläre (§. 64. Moral.) die Tugend durch eine Fertigkeit seine Handlungen nach dem Gesetze der Natur einzurichten. Ich zeige aber auch (§. 525. Met.) was die Fertigkeit, (§. 1. Mor.) was die Handlungen der Menschen, (§. 17. Mor.) was das Gesetze der Natur ist. Was in diesen Erklärungen vorkommet, findet man wiederum ferner erkläret; als bey dem Gesetze der Natur wird gedacht der Verbindung und der freyen Handlungen. Es wird aber erkläret, was die Verbindlichkeit sey (§. 8. Mor.), was eine freye Handlung ist (§. 1. Mor.), was Freyheit ist (§. 519. Met.), was die Natur ist (§. 629. Met.). Wer Lust hat, kan die Zergliederung noch weiter anstellen und dann wird er erst sehen, was ich ihm in meiner Welt-Weisheit für Erkäntniß gewähre.
+
+[*Grade der Vollständigkeit.*]
+
+§. 17. Es haben aber die vollständigen Begriffe ihre Grade, indem sich die Begriffe der Merckmahle, daraus sie zusammen gesetzet sind, wieder von neuem in mehrere zergliedern lassen. Z.E. Bey der Schlag-Uhr verstehe ich durch die Stunde den vier und zwan [p. 27] zwantzigsten Theil von einem Tage. Also lässet sich der Begriff der Stunde wieder in den Begriff der Zahl 24, den Begriff des Theils und endlich den Begriff des Tages zerlegen. Und da wiederum diese Begriffe ihre Merckmahle in sich enthalten, lassen sie sich noch weiter von neuem zergliedern. Und so verhält sich es auch mit den übrigen vorhin gegebenen Exempeln.
+
+[*Wie weit die Begriffe zu zergliedern.*]
+
+§. 18. Doch ist keinesweges vonnöthen, auch gar selten möglich, daß wir diese Zergliederung zu Ende bringen, das ist, bis auf solche Begriffe hinaus führen, die sich vor und an sich selbst nicht mehr zergliedern lassen, weil sie nicht mehr vieles von einander unterschiedenes in sich fassen, sondern wir können zufrieden seyn, wenn wir die Zergliederung so weit gebracht, daß wir dadurch unsern Zweck erreichen. Nemlich wir brauchen einen Begriff, entweder andere zu bedeuten, was wir wollen, oder einen Beweiß daraus zu führen. Also haben wir in dem ersten Falle unsern Zweck erreichet, wenn der andere uns völlig verstehet, das ist, wenn wir die Zergliederung bis auf solche Merckmahle hinaus geführet, davon der andere lauter klare Begriffe hat: in dem andern aber, wenn bey dem Beweise nichts mehr zu beweisen übrig bleibet, welches unten besser wird verstanden werden. Z. E. Euclides nimmet die Wörter Gleichheit, grös [p. 28] größer, kleiner ohne Erklärung an und vergnüget sich mit den klaren Begriffen davon, weil er seine Sätze alle erweisen kan, die er zu erweisen sich vorgenommen hat, ohne daß er den Begriff der Gleichheit, des größern und des kleinern dazu gebrauchet. Hingegen ich habe hiervon in meinen lateinischen Anfangs-Gründen der Arithmetick (§. 15. 20.) deutliche Begriffe gegeben, weil ich sie zum Beweise nöthig habe, indem ich diejenigen Sätze erwiesen, die Euclides als Grundsätze ohne Beweiß angenommen, auch in einigen Fällen meine Beweise höher getrieben als Euclides, weil ich nicht allein die Absicht gehabt meinem Leser die geometrischen Wahrheiten beyzubringen, sondern ihn auch im Nachdencken und Demonstriren zu üben.
+
+[*Wie ein deutlicher Begriff erlanget wird.*]
+
+§. 19. Wir überkommen einen deutlichen Begriff, wenn die Sache, welche wir uns vorstellen, nicht gar zu viel verschiedene Dinge in sich fasset, diejenigen aber, so wir in ihr antreffen, sich wohl von einander unterscheiden lassen, und endlich wir alles, was sich einigermassen von einander unterscheiden lässet, zuerst besonders betrachten, darnach eines gegen das andere halten, und auf die Ordnung und Verknüpffung sorgfältig acht geben. Z. E. Man stelle sich einen Tisch vor. An demselben unterscheiden sich so gleich zwey Theile, nemlich das Blat [p. 29] Blat und das Gestelle. Jenes lieget auf diesem und ist an ihm so befestiget, daß es sich nicht von ihm herab schieben lässet. Soll nun dieser Begriff vollständiger werden; so muß man ferner untersuchen, was vor Dinge an dem Blate, was vor Dinge an dem Gestelle sich unterscheiden lassen: welches mit mehrerem hieher zu setzen unnöthig wäre. Gleichergestalt, wenn man einen deutlichen Begriff von dem Willen haben will; so muß man sich ein Exempel vorstellen, da wir etwas zum erstenmahl gewollt, und genau acht geben, was in unserer Seele vorgehet, bis wir es wollen. Z. E. Titius, der bisher seinem Studiren mit rühmlichen Fleisse obgelegen, damit er künftig eine gute Beförderung zu gewarten hätte, höret von einer Condition bey einem vornehmen Manne, der ihm zu einer Beförderung verhelffen kan, wenn er seine Gunst hat. Indem er also die Condition als ein Mittel seiner Beförderung ansiehet; so will er sie annehmen. Hier finden wir 1. eine Sache, welche Titius bey sich erweget, nemlich die Condition, so ihm angetragen wird: 2. die Vorstellung, so er sich dabey in Ansehung seiner machet, nemlich daß sie ein Mittel seiner Beförderung, das ist, für ihn gut ist: 3. den Zustand seines Gemüthes bey dieser Vorstellung, daß er nemlich nicht allein an der Condition um dieser Vorstellung willen Gefallen hat, [p. 30] hat, sondern auch eine Neigung gegen sie in sich verspüret. Wenn man nun dieses alles zusammen nimmet; so siehet man, der Wille sey eine Neigung des Gemüths gegen eine Sache, die wir uns als gut vorstellen. Wir finden noch ein Paar umständlich ausgeführte Exempel von der Ordnung und der Welt in der Metaphysick (§. 133. 543.). Und die übrigen deutlichen Begriffe in der Metaphysick, Moral, Politick und Physick können auf gleiche Art erläutert werden.
+
+[*Wie ein vollständiger Begriff erlanget wird.*]
+§. 20. Es ist hieraus zugleich klar, wie vollständige Begriffe erlanget werden, indem wir nur nöthig haben von denen Dingen, von welchen wir einen deutlichen Begriff bekommen, ferner deutliche Begriffe nach vorgeschriebener Art zu suchen. Und wird hier absonderlich dienlich seyn, wenn man die Begriffe derer Dinge, von welchen ich in den folgenden Theilen der Welt-Weisheit handele, nach diesen Regeln untersuchet. Was vorhin (§. 16.) von der Vollständigkeit der Begriffe gesaget worden, kan auch hier zur Erläuterung dienen.
+
+[*Wenn man einen undeutlichen Begriff bekommet.*]
+§. 21. Hingegen können wir auch daraus abnehmen, wenn wir nur einen undeutlichen Begriff von einer Sache überkommen müssen. Nemlich solches geschiehet, theils wenn in einer Sache gar zu viele Dinge vorkommen, die von einander unterschieden sind, [p. 31] doch aber von uns nicht können unterschieden werden; theils wenn uns zwar diese Hindernisse nicht im Wege stehen, oder doch wir auf jedes insonderheit acht zu haben, und ihre Ordnung und Verknüpffung zu betrachten unterlassen. Also ist es wohl möglich, daß wir einen deutlichen, ja vollständigen Begriff von einem Tisch haben können: allein viele haben doch nur einen undeutlichen, ob er ihnen gleich täglich vor Augen stehet. Eben so ist es möglich, daß wir einen deutlichen Begriff von der Weisheit erhalten, denn sie fasset verschiedenes in sich, dadurch man sie von andern Gemüths-Gaben unterscheiden kan: allein viele haben davon nur einen undeutlichen, weil sie niemahls durch Vergleichung verschiedener Handlungen, die aus der Weisheit entspringen, dasjenige heraus suchen, was zu ihr gehöret. Es ist auch möglich, daß man von der Zeit einen deutlichen Begriff erhält, denn man kan gar wohl erkennen, wodurch sie sich von andern Dingen unterscheiden lässet: allein die meisten haben davon nur einen undeutlichen, weil sie nicht acht haben, was sie eigentlich in ihren Gedancken und der sichtbahren Welt finden, dadurch sie zur Erkäntniß der Zeit gelangen. Eben so verhält sichs mit der Vernunfft und unzehlich vielen andern Dingen. Unerachtet aber ein kleines Würmlein gar viele Theile in sich begreiffet, [p. 32] greiffet, die alle von einander so wohl als in grossen Thieren unterschieden sind; so können wir doch keinen deutlichen, viel weniger einen vollständigen Begriff davon bekommen, weil wir sie mit unseren Augen nicht mehr unterscheiden. Gleichergestalt bleibet der Begriff von den Farben, von den Arten des Geschmackes, von den Arten des Geruches, ingleichen des Schalles undeutlich, weil darinnen unzehlich viel Kleinigkeiten anzutreffen sind, welche uns von einander zu unterscheiden unmöglich fället: wovon der Grund an einem andern Orte (§. 769. 771. Met.) angewiesen wird.
+
+[*Nutzen der Vergrösserungs- und Fern-Gläser.*]
+§. 22. Daher helffen uns die Vergrösserungs-Gläser gar offte zu einem deutlichen Begriffe, den wir sonst nimmermehr erlangen würden. z. E. Man findet, daß das Marck in den Gewächsen ein Hauffen kleiner Bläsichen ist; daß die Juncken, welche man aus dem Stahle mit einem Feuer-Steine schläget, glüende Stücklein Stahl und Stein sind, die unterweilen schmeltzen, und sich in Glas verwandeln; daß das Brennen der Nesseln in der That nichts anders ist als ein Stechen, welches vermittelst subtiler Stacheln, die hin und wieder auf den Blättern stehen, geschiehet. Mehrere Exempel findet man in *Leeuwenhœks* Briefen und in *Hooks Micrographia*. Dergleichen Hülffe thun uns auch unterweilen die Fern-Gläser, [p. 33] Gläser, denen wir in Erkäntniß des Welt-Gebäudes viel zu dancken haben, z. E. daß wir wissen, die Milch-Strasse sey ein Hauffen kleiner Sterne; die Monds-Fläche sey bergicht, und nicht eben; Venus und Mercurius haben die Gestalt des ab- und zunehmenden Monds.
+
+[*Wenn unser Begriff dunckel wird.*]
+§. 23. Endlich kan unser Begriff nicht anders als dunckel werden, 1. wenn die Sachen, die wir empfinden, allzu klein oder auch allzu weit von uns entfernet sind, daß wir sie nicht recht erkennen, wie sie seyn, indem unsere Sinnen nicht mehr zureichen etwas in ihnen, noch sie von andern, zu unterscheiden, als wenn wir in der Demmerung etwas weisses auf dem Felde von weitem liegen sehen, und nicht wissen, was wir daraus machen sollen: 2. wiederum wenn dasjenige, was eigentlich zur Sache gehöret, und dadurch sie sich von andern Dingen unterscheidet, unter vielen fremden Umständen verborgen lieget, als wenn man fraget, was die Ursache, die Absicht, das Wesen sey: 3. ingleichen wenn wir auf die Sache, so wir uns vorstellen, nicht recht acht haben, oder unsere Gedancken nicht lange genug dabey stille stehen lassen, als wenn wir in einem Garten vor einem fremden Gewächse vorbey gehen, dessen Nahmen von dem Gärtner hören, aber mehr unsere Gedancken bey dem Frauenzimmer, welches wir führen, als dem [p. 34] Gewächse haben, oder auch wenn wir bald von diesem Gewächse zu einem andern eilen. Denn wenn wir aus dem Garten kommen, werden wir uns in beyden Fällen nicht mehr recht auf das Gewächse besinnen können, wie es ausgesehen, und uns entweder damit entschuldigen, daß wir es nicht recht angesehen, oder daß wir es wieder vergessen. Und hieraus ersehen wir, warum bißher in den Wissenschafften so viel Dunckelheit gewesen: absonderlich zeiget die andere Ursache, warum in der Metaphysick so grosse Finsterniß gewesen, wodurch auch die übrigen Disciplinen nicht wenig verdunckelt worden. Wir sehen auch, wie ich diese Dunckelheit vertrieben und selbst in die Metaphysick helles Licht gebracht.
+
+[*Woher sich die Begriffe verschlimmern.*]
+§. 24. Weil wir nun leicht wieder zu vergessen pflegen, daran wir entweder nicht oft gedencken, oder was wir nicht genug überdencken, oder auch von dessen Betrachtung wir uns gleich wieder zu etwas anderen wenden; so können uns auch die Merckmahle, dadurch wir die Sachen von einander unterscheiden, wieder aus dem Sinne kommen, und daher die vollständigen Begriffe unvollständig, die deutlichen undeutlich, die undeutlichen Dunckel werden: ja es kan sich aller Begrif gar verlieren, daß wir nicht mehr vermögend bleiben die Sache in ihrer Abwesenheit uns in Gedancken einigermassen vorzustellen.
+
+[p. 35] [*Wie solches zu verbindern.*]
+§. 25. Damit nun die einmahl erlangten Begriffe sich nicht verschlimmern; so müssen wir uns dieselben öfters vorstellen und uns fleißig in acht nehmen, daß wir uns nicht mit vielen Dingen auf einmahl verwirren. Absonderlich aber ist in Wissenschaften rathsam, daß wir die einmahl erlangten deutlichen Begriffe aufschreiben: den auf dem Papier lassen sie sich nicht so leichte auslöschen, als sie in dem Gedächtnisse verlöschen. Dieses sind nützliche Regeln für die Studirenden, daß sie fleißig wiederholen, was sie einmahl gelernet, nicht vielerley auf einmahl, auch alles in solcher Ordnung, wie die Erkäntniß des einen von der Erkäntniß des andern dependiret, vornehmen, und was sie Gutes hören, oder was bey eigenem Nachsinnen ihnen einfället, fleißig aufschreiben.
+
+[*Der andere Weg zu einem Begriffe zu gelangen.*]
+§. 26. Wenn wir die Begriffe verschiedener Dinge gegen einander halten; so treffen wir entweder etwas an, das sie mit einander gemein haben, oder worinnen sie einander ähnlich sind; oder wir finden nichts, das sie mit einander gemein hätten, oder worinnen sie einander ähnlich wären. z. E. Wenn ich den Begriff von einem geradelinichten Dreyecke mit dem von einem geradelinichten Vierecke vergleiche, finde ich, daß beyde in gerade Linien eingeschlossen sind. Hingegen wenn ich den Begriff der Freude, daß sie ein Affect sey, welcher aus Geniessung [p. 36] des gegenwärtigen Guten entstehet, mit dem Begriffe der rothen Farbe gegen einander halte; so haben sie nichts mit einander gemein. In dem ersten Falle kan ich dasjenige, so beyde Begriffe mit einander gemein haben, heraus nehmen, und dadurch einen neuen formiren, der beyden zukommet; als in dem gegebenen Exempel den Begriff einer geradelinichten Figur, daß sie sey ein Raum, der in gerade Linien eingeschlossen ist. Auf gleiche Weise hat man von dem Menschen und Viehe den allgemeinen Begriff der Thiere; von den Thieren und Gewächsen den allgemeinen Begriff der lebendigen Geschöpfe; von der Gottesfurcht, Freygebigkeit, Danckbarkeit und so weiter, den allgemeinen Begriff der Tugend bekommen: wiewohl ich nicht leugne, daß man auch ohne diesen Weg auf eine andere Weise, sonderlich in der Sitten-Lehre, der Staats- und Haußhaltungs-Kunst, allgemeine Begriffe aus gewissen Gründen, die man erkennet, herleiten kan: wovon unten in dem fünfften Capitel geredet wird. Die nun einen solchen Begriff mit einander gemein haben, nennen wir in so weit Dinge von einer Art.
+
+[*Weitere Erklärung des vorigen.*]
+
+§. 27. Nemlich alles, was wir in einzelen Dingen antreffen, ist auf alle Weise determiniret: und eben hierdurch wird etwas zu einem einzelen Dinge, weil es so wohl in allem dem, was es in sich hat, als in dem, was [p. 37] ihm äusserlich in Ansehung anderer Dinge zufället, determiniret ist. Denn was macht dieses Dreyecke, welches ich jetzund beschreibe, zu einem einzelen Dreyecke? Weil es seine abgemessene Seiten und Winckel hat, zu dieser Zeit und auf diesem Blate mit diesem Bley-Stifte beschrieben worden. Wenn man nun von dem abstrahiret, wodurch die Sache ausser ihr determiniret wird, das übrige aber alles behält; so habe ich einen solchen Begriff, der nichts als einzele Dinge unter sich begreiffet: hingegen abstrahire ich auch von andern, dadurch die Sache in sich determiniret wird, als in dem Dreyecke von der Verhältniß der Seiten und Winckel unter einander; so hat der Begriff ganze Geschlechter oder verschiedene Arten einzeler Dinge unter sich. Man siehet aber ohne mein Erinnern, daß man von denen Dingen, dadurch die Sache in sich determiniret wird, so viel weg lassen kan, als einem gefället, und immer zu allgemeineneren Begriffen hinauf steigen. z. E. In dem Begriffe des geradelinichten Dreyeckes, daß es sey ein Raum in drey gerade Linien eingeschlossen, kan ich weglassen die Art der Linien; so behalte ich den Begriff eines Dreyeckes insgemein übrig, oder, ich lasse weg die Zahl der Linien; so bleibet mir der Begriff einer geradelinichten Figur übrig. Ich habe in der Vorrede zu der andern Auflage meiner Me [p. 38] taphysick gezeiget, wie sich dieses durch die Formel der Polygonal-Zahl und andere Formeln in der Algebra am allerdeutlichsten zeigen lasse, weil man hier alles klar sehen kan, was sich determiniren lässet, und wie es sich determiniren lässet, da hingegen dasselbe in andern Dingen öffters grösten Theils versteckt ist, sonderlich wenn man auf einzele Dinge kommet. Doch kan hier zur Erläuterung dienen, was von den Arten der Gesetze (§. 17. Mor.) und des Gewissens (§. 74. & seq. Mor.), ingleichen der verschiedenen Regierungs-Formen (§. 233. & seqq. Polit.) gesaget worden, wenn man es auf eine gehörige Weise erweget, das ist, gewisse entweder vor diesem oder noch jetzund vorhandene Regierungs-Formen annimmet und die allgemeinen Begriffe, die ich davon gegeben, daraus herleitet. Es dienet gar sehr zur Erläuterung der gegenwärtigen Materie, was ich von dem Unterscheide der einzelen Dinge ihrer Arten und Geschlechter in den Anmerckungen über die Metaphysick (§. 53.) auch von dem Wesen (§. 16.) ausgeführet.
+
+[*Warum einige Begriffe allgemein sind.*]
+
+§. 28. In Ansehung dessen, daß ein Begriff allen Dingen von einer Art zukommet, wird er allgemein genennet, und daher enthält er um so viel weniger in sich, je allgemeiner er ist, folgends sind die allgemeinen Begriffe um so viel leichter zu überdencken, je [p. 39] mehreren Arten der Dinge sie zukommen: wenn man nur allgemeine Dinge zu überdencken gewohnet ist, damit sie einem nicht fremde vorkommen.
+
+[*Nutzen der allgemeinen Begriffe.*]
+
+§. 29. Man befleißiget sich aber auf allgemeine Begriffe, weil dadurch die Schrancken unserer Erkäntniß über die massen erweitert werden. Denn was aus einem allgemeinen Begriffe hergeleitet wird, kommet allen Sachen zu, die unter demselben enthalten sind, z. E. allen geradelinichten Dreyecken, was aus dem Begriffe des geradelinichten Dreyeckes hergeleitet wird; allen Affecten, was aus dem Begriffe des Affects flieffet; allen flüßigen Cörpern, was aus dem Begriffe eines flüßigen Cörpers flieffet, u. s. w.
+
+[*Der dritte Weg zu einem Begriffe zu gelangen.*]
+
+§. 30. Gleichwie wir aber zu neuen Begriffen gelangen, indem wir eines und das andere weglassen, wodurch die Sache in sich determiniret wird; so können wir auch hingegen anders determiniren, was noch nicht determiniret ist, oder auch dasjenige, was schon determiniret ist, auf eine andere Art determiniren. z. E. In dem Begriffe eines geradelinichten Dreyeckes, daß es sey ein Raum in drey gerade Linien eingeschlossen, ist die Grösse der Linien nicht determiniret. Wenn ich demnach setze, es sollen alle drey Linien einander gleich seyn; so bekomme ich den Begriff eines gleichseitigen Dreyeckes. Setze ich an die Stelle der geraden Linien krumkrumme; [p. 40] so habe ich ein krumlinichtes Dreyecke. Gleichergestalt wenn ich in dem vorhin (§. 26.) angeführten Begriffe der Freude ferner determinire, von wem ich das Gute, welches ich geniesse, empfangen habe; so entstehet daraus der Begriff von der Danckbarkeit, in so weit sie ein Affect ist, der in uns erreget wird, wenn wir uns vorstellen, daß ein anderer an unserem Glücke Ursach sey. Auf gleiche Weise kan man Begriffe von unzehlich viel Arten des Verstandes ingleichen von verschiedenen Arten der Tugenden und Laster herleiten: wenn man nemlich im ersten Falle die Art und Weise, wie die möglichen Dinge vorgestellet werden (denn der Verstand ist nichts anders als eine Vorstellung möglicher Dinge, und durch die Art der Vorstellung müssen demnach die Arten des Verstandes entstehen); in dem anderen aber die verschiedene Umstände und Gründe der Handlung determiniret. Man kan eben hieher die Exempel von den Arten der Gesetze und der verschiedenen Regierungs-Formen ziehen (§. 27.). Hieher gehören auch die Arten der uncörperlichen Dinge, welche eine Aehnlichkeit mit der Seele haben (§. 900. & seqq Met.).
+
+[*Woher man weiß ob die Begriffe möglich sind.*]
+
+§. 31. Wenn wir durch die Sinnen zu einem Begriffe geleitet werden; so ist nicht zu zweiffeln, daß er möglich sey. Denn wer wollte zweiffeln, daß dieses seyn könne, welches [p. 41] wir würcklich antreffen: daher legen dergleichen Art Begriffe einen sichern Grund zu richtiger Erkäntniß.
+
+[*Möglichkeit der allgemeinen Begriffe.*]
+
+§. 32. Und da die allgemeinen Begriffe nichts in sich enthalten, was nicht in den besonderen gefunden wird; so müssen auch sie möglich seyn, wenn sie von möglichen abgesondert werden.
+
+[*Möglichkeit der willkürlich formirten Begriffe.*]
+
+§. 33. Allein wenn wir nach unserem eigenem Willkühre etwas determiniren (§. 30.), können wir nicht wissen, ob dieselbigen Begriffe möglich sind, oder ob wir nur leere Worte gedencken. Denn unser Wille kan nichts möglich machen. Derowegen müssen wir in dergleichen Fällen beweisen, daß die erlangten Begriffe etwas mögliches in sich fassen. Es ist auch nicht genung, daß die Determinationes an sich möglich sind, sondern es wird zugleich erfordert, daß sie nebst denen übrigen bestehen können. z. E. Es ist so wohl möglich, daß zwey Linien gerade sind, als daß sie krumm seyn: wenn mann aber dazu setzet, daß sie einen Raum einschliessen, oder in ihren beyden Enden zusammen stossen sollen; so gehet solches zwar in dem andern Falle, aber nicht in dem ersten an.
+
+[*Wie solches durch die Erfahrung erhellet.*]
+
+§. 34. Wir erkennen aber solches entweder aus der Erfahrung, oder durch Beweiß. Die Erfahrung lehret uns, ob ein Begriff möglich sey, wenn wir uns in der Welt um [p. 42] sehen und acht geben, ob wir etwas finden, welches mit ihm übereinkommet. z. E. Ich verlange zu wissen, ob ein Affect der Danckbarkeit sey, oder nicht, davon wir oben einen Begriff formiret haben (§. 30.). Ich untersuche demnach, was ich vor Gutes geniesse, und wem ich dasselbe zuzuschreiben habe. So bald ich mir dieses vorstelle, gebe ich auf mich selbst acht, was vor eine Veränderung bey mir vorgehet; so werde ich finden, daß der vorgebrachte Begriff möglich sey. Nur ist zu mercken, daß wir recht überführet oder überredet seyn müssen, wir geniessen etwas Gutes, und diese oder jene Person sey Ursache an unserem Glücke. Denn ich werde an einem andern Orte zeigen, daß keine Erkäntniß den Menschen rege machet, als die eine Überführung oder Überredung mit sich führet. Die verschiedene Arten der Regierungs-Formen und ihre Vermischungen werden (§. 233. & seq Polit.) durch willkührliche Determinirung der Anzahl und Macht der regierenden Personen heraus gebracht (§. 30.). Daß aber solche Regierungs-Formen seyn können, lässet sich auch aus der Erfahrung erweisen, wenn man diejenigen durchgehet, die entweder vor diesem im Schwange gewesen, oder noch heute zu Tage üblich sind. Eben so wird die Möglichkeit derer unterschiedenen Arten der einfachen Dinge (§. 900. & seq. Met.) erwiesen.
+
+[p. 43] [*Wie sie erwiesen wird.*]
+
+§. 35. Durch Beweiß wird ausgemacht, ob ein Begriff möglich sey, oder nicht, entweder wenn wir zeigen, wie dergleichen Sache entstehen könne, oder auch wenn wir untersuchen, ob etwas daraus fliesse, davon wir schon wissen, ob es möglich sey oder nicht. Denn wenn wir wissen, wie etwas entstehen könne, dörffen wir nicht mehr zweiffeln, ob es seyn könne. Wenn aus einem Begriffe unmögliche Dinge fliessen; so kan er auch selbst nicht möglich seyn: fliessen aber lauter mögliche Dinge daraus; so muß auch er möglich seyn. Denn was aus einem andern fliesset, kan deßwegen seyn, weil das andere ist. So beweiset Euclides, daß ein gleichseitiges Dreyecke möglich sey, wenn er lehret, wie man auf eine jede gegebene gerade Linie eines beschreiben könne. Ingleichen wird klar, daß eine Machine möglich ist, wenn ich richtig zeige, wie sie gemachet wird. Auf solche Weise zeige ich von den Tugenden in der Sitten-Lehre, daß sie möglich sind, indem ich weise, auf was für Art und Weise sie in der Seele hervorgebracht werden. Hingegen finde ich, daß ein geradelinichtes Zweyecke unmöglich sey, weil daraus folget, es können zwey gerade Linien in zweyen Puncten einander schneiden, da doch anderweit klar ist, daß sie nicht mehr als in einem einander schneiden. Ich beweise in den meisten Erklärungen der Moral nach diesen Regeln ihre Möglichkeit.
+
+[p. 44] [*Was eine Erklärung und Beschreibung sey.*]
+
+§. 36. Wenn ein deutlicher Begriff ausführlich, das ist (§. 15.), so beschaffen ist, daß er nicht mehreren Dingen als von einer Art zukommet, und sie daher durch ihn von allen andern ihres gleichen zu allen Zeiten können unterschieden werden; so nenne ich ihn eine *Erklärung*, weil er mir nemlich die Sache klar macht, daß ich sie erkennen kan: reichet er aber nur auf eine Zeit zu, von andern gegenwärtigen Dingen etwas bey gewissen Umständen zu erkennen; so nenne ich ihn eine *Beschreibung*. Solchergestalt ist der Begriff von einer *Mond-Finsterniß*, daß sie sey eine Beraubung des Lichts im Vollmond, eine Erklärung, denn ich kan dadurch die Mond-Finsterniß von allen andern Himmels-Begebenheiten richtig unterscheiden. Gleichergestalt ist eine Erklärung des *Verstandes*, daß er sey ein Vermögen deutlich vorzustellen, was möglich ist, denn dadurch kan ich ihn von anderen in der Seele befindlichen Sachen unterscheiden. Und hieher gehören noch viele andere Exempel, die oben von deutlichen Begriffen angeführet worden (§. 13.), und in allen Theilen der Welt-Weißheit, die ich heraus gegeben, findet man so viel Exempel, als daselbst Sachen von verschiedener Art vorkommen, davon geredet wird. Hingegen wenn ich zu einem, der noch keine Citrone gesehen und sie aus meiner Studier-Stube holen soll, sage, sie sey eine [p. 45] gelbe und etwas länglichte Frucht, die in meiner Studier-Stube auf dem kleinen Tische zur rechten Hand, wenn man hinein kommet, lieget; so ist der deutliche Begriff eine Beschreibung: denn ich kan dadurch die Citrone nur unter gewissen Umständen erkennen, so lange sie nemlich auf demselben Tische in gedachtem Zimmer liegen bleibet.
+
+[*Bey der Beschaffenheit.*]
+
+§. 37. Demnach müssen die Erklärungen solche Merckmahle in sich enthalten, die zusammen genommen niemahls einer andern Sache, als die man zu erklären vorhabens ist, zukommen: hingegen für Beschreibungen ist es genug, daß man die darinnen enthaltene Merckmahle nur zu derselbigen Zeit, da einer die Sache erkennen soll, keiner anderen als ihr zueignen kan.
+
+[*Noch fernere Beschaffenheit.*]
+
+§. 38. Beyde aber müssen solche Merckmahle haben, die demjenigen, welchem ich eine Sache erklähren oder beschreiben will, bekandt sind. Denn sonst wäre aus gegebener Erklärung oder Beschreibung die Sache zu erkennen nicht möglich. Leidet dieses die Beschaffenheit der Sache nicht; so ist er nicht in dem Stande die Erklärung oder Beschreibung zu verstehen.
+
+[*Beschaffenheit der Erklärung ins besondere.*]
+
+§. 39. Daher muß in Wissenschafften in die Erklärung nichts genommen werden, welches nicht entweder mit Recht einem bekandt zu seyn voraus gesetzet wird, oder vorher erkläret worden. z. E. Wenn ich in der [p. 46] Politick (§. 234.) sage, die Monarchie sey eine Regierungs-Forme, da die gemeine Wohlfarth und Sicherheit einer einigen Person zu besorgen schlechterdinges oblieget; so ist vorher gezeiget worden, was eine Regierungs-Forme sey (§. 233. Polit.), worinnen die gemeine Wohlfarth und Sicherheit bestehe (§. 213. Polit.), was eine Person sey (§. 924 Met.) und wird ferner erkläret (§. 234. Polit.), was die Worte schlechterdinges haben wollen. Ich kan aber mit Recht voraus setzen, daß einem etwas bekandt sey, wenn entweder keiner geschickt ist eine Wissenschaft zu erlangen, er sey denn zuvor in einer andern wohl beschlagen, darinnen dasselbe erkläret wird, oder weil wir es täglich vor Augen haben. z. E. Wer die Astronomie lernen will, muß zuvor die Geometrie verstehen. Derowegen ist es nicht unrecht, wenn ich in astronomische Erklärungen solche Wörter ohne fernere Erläuterung setze, die in der Geometrie gewöhnlicher Massen erkläret worden. Wer die Sitten-Lehre als eine Wissenschaft erlernen will, da man die Beschaffenheit der Tugenden und Laster aus der inneren Erkäntniß der Seele des Menschen herleitet, wie ich dieselbe abgehandelt, muß vorher die Metaphysick, darinnen von GOtt und der Seele des Menschen gehandelt wird, erlernen. Derowegen ist es auch hier nicht unrecht, wenn ich in Erklärungen [p. 47] der Tugenden und Laster solche Wörter ohne fernere Erläuterung setze, die in der Metaphysick erkläret worden. Wer die Politick gründlich erlernen will, muß vorher die Moral studiren, weil dieselbe viele Gründe aus ihr nimmet, die aus meiner Politick zu ersehen. Derowegen kan ich Wörter ohne fernere Erklärung in der Politick annehmen, die in der Moral erkläret worden. Gleichergestalt darf ich bey der oben angeführten Erklärung der Mond-Finsterniß nicht erst sagen, was ich durch das Licht verstehe, weil jedermann dasselbe täglich vor Augen hat.
+
+[*Fernere Beschaffenheit.*]
+
+§. 40. Auch müssen keine Wörter in einem uneigentlichen Verstande zu Erklärungen genommen werden, es sey denn, daß derselbe vorher besonderes erkläret worden. z. E. Ich kan nicht sagen, die *Verbindlichkeit* sey ein Band der Rechte, dadurch man angehalten wird etwas zu thun, oder zu lassen, wenn ich nicht vorher erkläre, was das Wort *Band der Rechte* für eine Bedeutung haben solle, indem es hier nicht in seinem eigentlichen Verstande genommen wird. So kan ich nicht den Verstand erklären, daß er sey das Licht der Seele, noch auch die Vernunft durch eine Kette der Wahrheit, wenn ich nicht vorher erkläret, was diese Kette heissen soll.
+
+[p. 48] [*Unterscheid der Erklärungen.*]
+
+§. 41. Es erklären aber die Erklärungen entweder Wörter oder Sachen; daher sie in Wort- und Sach-Erklärungen gar füglich eingetheilet werden. Jene bestehen in einer Erzehlung einiger Eigenschafften, dadurch eine Sache von allen andern ihres gleichen unterschieden wird: diese zeigen die Art und Weise, wie etwas möglich ist. Z. E. Wenn ich sage, ein Uhrwerck sey eine Machine, welche die Stunden andeutet; so erkläre ich das Wort Uhrwerck: zeige ich aber, aus was vor Rädern und anderem Zugehöre es zusammen gesetzet werde; so erkläre ich die Sache. Gleichergestalt wenn ich sage: die Vernunfft sey eine Einsicht in den Zusammenhang der Wahrheiten; so erkläre ich das Wort Vernunfft: wenn ich aber zeige, wie dergleichen Einsicht durch die Kräffte, der Seele möglich ist; so erkläre ich die Sache.
+
+[*Wie die Wörter Erklärungen gemachen.*]
+
+§. 42. Es kan also in eine Wort-Erklärung nichts genommen werden, als was einer Sache immer zukommet. Z. E. Bey der Danckbarkeit ist allzeit ein Andencken der Wohlthaten. Derowegen wird dieses mit in ihre Erklärung (§. 469. Met.) genommen. Damit man nun solches erfahre, hat man wohl zu untersuchen, warum einer Sache dieses oder jenes zukomme. Denn finde ich den Grund davon in der Sache selbst; so bin ich versichert, daß es ihr beständig zukomme: [p. 49] hingegen ist der Grund ausser der Sache zu suchen; so kan es ihr nur unter gewissen Umständen zukommen. Da nun keine Sache in die andere unmittelbahr etwas würcken kan, als wenn sie ihr nahe genug ist; so muß ich sie aus der Nähe derer Dinge, unter welchen sie sich befindet, in die Nähe anderer bringen, alsdenn wird es sich bald ausweisen, ob ihr nur um gewisser Umstände willen etwas zukomme, oder nicht. Z. E. Ich setze, es habe einer noch kein Wachs gesehen, und finde ein Stück in heissen Sommer-Tagen auf dem Fenster liegen, alsdenn wird es ganz weich seyn. Will ich nun wissen, ob die Ursache, warum das Wachs weich ist, in ihm oder ausser ihm zu suchen sey; so darff ich es nur in kalte Luft, als in den Keller, bringen. Hier wird es harte werden, und also werde ich sehen, das Wachs sey nicht immer weich, sondern nur im warmen. Hingegen ein Stein mag in warmer oder in kalter Luft seyn; so bleibet er harte. Und dahero ist die Ursache seiner Härte nicht ausser ihm, sondern in ihm zu suchen.
+
+[*Der erste Fehler der Wort-Erklärungen.*]
+
+§. 43. Man hat sich absonderlich wohl in acht zu nehmen, daß nicht die Wort-Erklärungen bloß aus anderen Wörtern bestehen, die eben so viel als das Wort bedeuten, welches erkläret werden soll. Denn so würde ich durch die Erklärung nicht klüger, als ich vorher war, auch aus derselben nichts erweisen, [p. 50] vielweniger was unbekandtes erfinden können. Z. E. Wenn einer unendlich dadurch erkläret, was keine Schrancken hat, so hat er noch keinen deutlichen Begriff vom unendlichen beygebracht: denn es ist nicht klärer keine Schrancken haben oder unendlich seyn. Wiederum wenn einer saget, die anziehende Krafft des Magnetes sey eine Kraft, dadurch der Magnet das Eisen an sich ziehet; so saget er mit vielen Worten eben dieses, was er mit einem gesaget.
+
+[*Der andere Fehler.*]
+
+§. 44. Auch muß man davor sorgen, daß nicht eines durch das andere erkläret werde: denn sonst wird der Begriff nicht recht deutlich. Z. E. Wenn ich die Stunde durch den vier und zwanzigsten Theil eines Tages den Tag aber durch eine Zeit von vier und zwanzig Stunden erkläre; so verstehe ich weder recht, was ein Tag ist, noch auch was eine Stunde ist. Eben so wenn ich sagte, ein Gelehrter sey eine Person, die studiret hat, und, wenn mich einer fragte, was studiren heisse, antwortete, sich bemühen gelehrt zu werden; so wüste ich weder was studiren, noch auch was ein Gelehrter heisse. Hierinnen kan man es über die Massen leicht versehen, wenn man mit Dingen zu thun hat, die von unseren Sinnen etwas weit entfernet sind, absonderlich wenn man von Sachen ausser ihrer Verknüpfung mit andern handelt, als z. E. von der Tugend allein ausser [p. 51] der Moral und ein ander mahl wieder von dem Gesetze der Natur allein. Hier kan es leicht geschehen, daß man die Tugend durch eine Fertigkeit seine Handlungen nach dem Gesetze der Natur einzurichten, und nach diesem das Gesetze der Natur durch eine Richtschnure tugendhaffter Handlungen erklâret: welche beyde Erklärungen zugleich doch nicht bestehen können.
+
+[*Nutzen der Wort-Erklärungen.*]
+
+§. 45. Es dienen die Wort-Erklärungen nicht allein im gemeinen Leben dazu, daß die Sachen jederzeit mit ihrem rechten Nahmen genennet werden, sondern geben auch in denen Wissenschaften einen richtigen Grund zum Beweise, wie wir aus den mathematischen Wissenschaften zur Gnüge sehen können, auch bey Abhandlung anderer Theile der Welt-Weisheit, die von mir an das Tagelicht gestellet worden, erhellet. Ja wir werden bald hören, wie aus der Wort-Erklärung die Erklärung der Sache selbst gefunden wird.
+
+[*Man kan nicht von allem eine Wort-Erklärung geben.*]
+
+§. 46. Jedoch ist es nicht möglich von allen Dingen eine Wort-Erklärung zu geben. Denn sie muß aus Merckmahlen zusammen gesetzet werden, dadurch eine Sache von allen andern unterschieden wird. Alle diese Merckmahle werden durch Wörter angedeutet. Derowegen ist vonnöthen, daß etliche Wörter müssen unerkläret angenommen werden, die wir lernen, wenn wir die gegengegenwärtigen [p. 52] Dinge nennen hören, und also von ihnen einen klaren, ob zwar undeutlichen Begriff erhalten (§. 5. 9. 13.).
+
+[*Alle Sachen ausser dem selbstständigen Wesen lassen sich erklären.*]
+
+§. 47. Hingegen da ausser dem selbstständigen Wesen alles seinen Grund hat, warum es vielmehr ist als nicht ist, oder wenigstens seyn kan; so können auch Sachen erkläret werden, von denen man keine Wort-Erklärung geben kan. Z. E. Es können keine Eigenschafften angegeben werden, dadurch die Lust von anderen Veränderungen des Gemüthes unterschieden wird; doch aber kan man zeigen, wie sie entstehet, wenn wir nemlich eine Vollkommenheit empfinden, oder wenigstens eine zu empfinden vermeinen.
+
+[*Worinnen das Wesen einer Sache bestehet.*]
+
+§. 48. Das erste, was man von einer Sache gedencken kan, und darinnen der Grund des übrigen, so ihr zukommet, zu finden ist, wird das Wesen genennet. Nemlich in einem jeden Dinge treffen wir zweyerley an, Das Beständige und das Veränderliche. Mit dem Veränderlichen haben wir bey den Erklärungen nichts zu thun, sondern es kommet hier bloß auf das Beständige an (§ 42.). Das Beständige ist von zweyerley Art. Entweder es ist so beschaffen, daß eines bloß neben dem andern zugleich seyn kan, oder aber, daß es da zugleich seyn muß, wo das andere ist, und also durch das Erste determiniret wird. Da nun das Letztere den Grund, warum es einer Sache zukomme [p. 53] in dem ersten hat; so ist das erstere das Wesentliche, das andere aber machet die Eigenschaften aus. Nun kan nichts eher von einer Sache gedacht werden, als wie sie entstanden oder dasjenige worden ist, was sie ist. Derowegen verstehet man das Wesen einer Sache, wenn man deutlich begreiffet, wie sie dasjenige worden ist, was sie ist, oder auf was für Art und Weise sie möglich ist. Woraus ferner folget, daß die Erklärungen der Sachen ihr Wesen vor Augen legen (§. 41.). Z. E. Ich verstehe das Wesen einer Uhr, wenn ich deutlich begreiffe, aus was vor Rädern und anderem Zugehöre dieselbe zusammen gesetzet, und wie jedes an das andere gefüget werde. Denn diese Theile sind nicht nothwendig bey einander, sondern es kan bloß geschehen, daß sie zugleich in einem Dinge neben einander sind, und so bald ich dieses weiß, bin ich in dem Stande von allen Würckungen und Zufällen der Uhr, die sie haben kan, richtigen Grund anzuzeigen. Aus gleichmäßiger Ursache verstehe ich das Wesen der Lust, wenn ich weiß, sie sey eine Empfindung der Vollkommenheit, wenigstens einer vermeinten. Eben so verstehen wir das Wesen des Auges, wenn uns bekandt ist, aus was für Theilen und wie daraus das Auge zusammen gesetzet ist. Und eben so verhält sichs mit der Erkäntniß des Wesens unseres Leibes überhaupt. Wenn [p. 54] man aber bloß eine Sache erkläret, daß sie dieses oder jenes wesentliche, als ein Triangel drey Seiten, an sich habe, nicht aber zeiget, wie dadurch die Sache entstehen kan; so hat man bloß eine Wort-Erklärung, weil man daraus nicht ersehen kan, ob dieses bey einander seyn kan, oder nicht, folglich ob so ein Ding möglich ist, oder nicht. Ein mehreres findet man von dieser wichtigen Materie in der lateinischen Logick.
+
+[*Was zu Erklärung einer Sache erfordert werde.*]
+§. 49. Da nun die Erklärungen der Sache zeigen sollen, wie sie entstehen (§. 41.); so wird zweyerley dazu erfordert. Einmahl muß man wissen, was vor Dinge dazu gehören, wenn sie entstehen soll. Darnach muß bekandt seyn, was ein jedes von ihnen dazu beyträget. Z. E. Wenn einer sagen soll, wie die Dünste entstehen; so muß er nicht allein wissen, das Wasser, Wärme und Luft dazu erfordert werden, sondern auch verstehen, was jedes von diesen dreyen zu den Dünsten beytrage.
+
+[*Auf wie viel Wegen man zu derselben gelanget.*]
+§. 50. Man gelanget aber auf verschiedenen Wegen zu dieser Erkäntniß. Denn die Sache, deren Erklärung ich verlange, ist mir entweder schon einigermassen bekandt, oder ich weiß noch gar nichts von ihr. Sie kan mir nemlich durch die Wort-Erklärung bekandt seyn.
+
+[*Der erste Weg.*]
+§. 51. Wenn ich gar noch nichts von einer Sache weiß; so muß ich solche Dinge annehmen, [p. 55] men, die mir schon bekandt sind, und mit Fleiß untersuchen, was durch ihre Verknüpfung herauskommet. Z. E. In der Geometrie nimmet man Puncte und Linien an und gedencket sich als wenn eines an dem andern auf eine gewisse Art sich bewegte; so bekommet man allerhand Erklärungen von Flächen. Dergleichen ist die Beschreibung eines Circuls durch die Bewegung einer geraden Linie um einen Punct. Einen grossen Vorrath solcher Exempel findet man in Barrows Lectionibus Geometricis p. 14. & seqq. Auf ebenmäßige Art kan man den einfachen Rüstzeug auf allerhand Art und Weise zusammen setzen; so werden viele uns zuvor unbekandte Machinen heraus komme. Wer mit der Chymie, Experimental-Philosophie und Künsten zu thun hat, der wird diese Regel öffters mit vielem Vortheile brauchen können. Auch wird man in der Sitten-Lehre, der Haushaltungs- und Staats-Kunst sehen, daß die Erklärungen der meisten dahin gehörigen Sachen auf eine solche Art heraus gebracht werden.
+
+[*Was das Glück dabey thut.*]
+§. 52. Es kommet hier unterweilen vieles auf das blinde Glück an. Wenn man nemlich entweder ungefehr oder auch wohl mit Vorsatze solche Dinge mit einander verknüpfet, von denen man nicht vorher sagen kan, daß sie neues heraus bringen werden, und nur anmercket, was die Erfahrung neues [p. 56] es giebet. So sind die Fern-Gläser erfunden worden, da man zwey geschliffene Gläser, ein erhabenes und hohles, ungefehr vor einander gehalten. Eben so hat man das Pulver erfunden, da Kohlen, Schwefel und Salpeter zufälliger Weise unter einander gemischet worden, und ein Funcken darein gefallen. Und die meisten Erfindungen in den Künsten haben wohl keinen andern Ursprung als diesen. Auf solche Weise ist der Phosphorus heraus gebracht worden, wie der Herr von Leibniz in Miscellaneis Berolinensibus p. 91. & seqq. ausführlich berachrichtiget.
+
+[*Wie man erfähret, ob die Sachen sind, deren Erklärung man gefunden.*]
+§. 53. Wenn nun auf solche Art etwas heraus gebracht worden, und man verlanget zu wissen, ob dergleichen Sache schon würcklich vorhanden sey, und, wenn sie schon vorhanden ist, mit was vor einem Nahmen sie beleget worden; so muß man einige Eigenschaften aus der gefundenen Erklärung herleiten, und sich alsdenn umsehen, ob irgendwo etwas zu finden, daß dergleichen Eigenschaften an sich hat. Denn was aus einer Erklärung hergeleitet wird, kommet einer Sache deswegen zu, weil von ihr das kan gesagt werden, was in der Erklärung enthalten ist. In der Mathematick wird dieses mit Fleiß beobachtet. Wenn man eine krumme Linie heraus gebracht, und man will wissen, ob sie bereits unter einem gewissen [p. 57] Nahmen bekandt sey; so suchet man eine Eigenschafft derselben und siehet zu, ob nicht schon eine Linie vorhanden, welche diese Eigenschafft hat. So habe ich (§. 597. Anal. finit.) erwiesen, daß die Linie, welche Serlius zu Gewölben recommendiret, eine Ellipsis sey, und bald darauf (§. 600.), daß Dürers und Hartmanns gebürstete Circul eben keine andere Linien als die Ellipsis seyn. Eben so habe ich (§. 900. Met.) gezeiget, daß die daselbst aus anderen Gründen heraus gebrachte erste Art der Seele ähnlicher Dinge die Einheiten des Herrn von Leibnitz sind. Und in der Moral wird öffters erwiesen, daß die Tugenden, welche ich aus denen vorher angewiesenen Gründen des Gesetzes der Natur heraus gebracht, eben diejenigen sind, denen man diesen oder jenen Nahmen zu geben pfleget: z. E. ich zeige (§. 325. Mor.), daß des Herrn von Leibnitz Wissenschafft der Glückseeligkeit eben dasjenige sey, was ich Weisheit genennet.
+
+[*Der andere Weg Erklärung der Sachen zu finden.*]
+§. 54. Wenn eine Wort-Erklärung gegeben wird, und man soll daraus die Erklärung der Sache finden; so muß man (§. 19.) deutliche Begriffe aller Merckmahle suchen, die darinnen enthalten sind. Indem man diese erweget, wird es sich bald zeigen, was die Sache zu formiren erfordert werde. Gehen wir nun ferner unsere Erkäntniß durch, die wir zu anderer Zeit erlanget haben, und es [p. 58] kommen uns dergleichen Dinge vor, als erfordert werden; so haben wir die Erklärung der Sache gefunden. Können wir uns aber auf nichts dergleichen besinnen; so sehen wir, daß ihre Entdeckung nicht in unserem Vermögen stehe. Z. E. Es wird mir eine Wort-Erklärung von den Dünsten gegeben, daß es sind kleine Theilgen des Wassers, welche in der Luft in die Höhe steigen, ich soll finden, wie dieselben formiret werden. Zu dem Ende erinnere ich mich alles dessen, was ich deutlich von dem Wasser, der Luft, ingleichem dem Aufsteigen der Cörper in flüßigen Materien erkandt habe, als daß in dem Wasser viel Luft sey, daß das Wasser von der Luft in Bläßigen ausgedehnet werde, daß die Wärme die Luft ausdehne, daß die leichteren Cörper in einer schweeren flüßigen Materie in die Höhe steigen. Wenn ich nun diese Dinge gegen einander halte; so sehe ich leicht, daß, wenn die Sonne auf das Wasser scheinet, oder sonst das Wasser in einen warmen Ort gesetzet wird, die Luft darinnen ausgedehnet, folgends kleine Bläßgen formiret werden, die nicht allein leichter sind als das Wasser, sondern auch als die Luft, und dadurch sich von dem übrigen Wasser abreissen und in der Luft aufsteigen.
+
+[*Wie man denselben erleichtern kan.*]
+§. 55. Es ist nicht zu leugnen, daß es etwas schwer fället auf vorgeschriebene Weise die Erklärungen der Sachen zu finden: denn [p. 59] es wird nicht allein erfordert, daß man bereits viel wisse, sondern man muß sich auch im Nachsinnen schon ziemlich geübet haben. Derowegen haben sich Anfänger hiermit nicht zu belästigen. Jedoch wenn ihnen Erklärungen der Sachen vorkommen, können sie sich mit grossen Nutzen darinnen üben, daß sie untersuchen, wie sie nach der vorgeschriebenen Art hätten können erfunden werden. Und weil hier kein anderer Weg nöthig ist, als derjenige, darauf man zur Erkäntniß einer Wahrheit durch die andere gelanget, und in Auflösung der Aufgaben die Ursache der natürlichen Würckungen findet; so wird man hierinnen noch ein mehreres Licht bekommen, wenn man unten C. 6. mit Bedacht lieset, was von diesen Stücken beygebracht worden.
+
+[*Der dritte Weg zu Erklärungen der Sachen zu gelangen.*]
+§. 56. Viel leichter kan man in denen Sachen zu rechte kommen, welche eine gewisse Structur haben, die sich entweder mit blossen Augen, oder durch Vergrösserungs-Gläser gar wohl betrachten lässet. Denn hier braucht es nicht viel tieffes Nachsinnen, sondern nur Augen zu sehen, Aufmercksamkeit in acht zu nehmen, was man siehet, und eine geübte Hand die Sachen zu zergliedern. Auf diese Weise gelanget man zu der Erklärung aller Machinen, die man würcklich findet, auch aller Thiere und Pflantzen. Und gehöret hieher die Anatomie, darinnen der [p. 60] menschliche Leib zergliedert wird. Man muß aber hier in acht nehmen, was oben von Erlangung der deutlichen und vollständigen Begriffe erinnert worden (19 20.).
+
+[*Der letzte Weg zur Erklärungen der Sachen zu gelangen.*]
+
+§. 57. Eben so leichte gehet es an, wenn wir gegenwärtig darauf acht haben, wie die Sache formiret wird. Solchergestalt lernen wir die Wercke der Kunst, ingleichen die Begriffe der Veränderungen, die in unserer Seele vorgehen, als der Lust, des Verdrusses, der Affecten, und so weiter.
+
+## Das 2. Capitel. Von dem Gebrauche der Wörter.
+
+[*Was Wörter sind.*]
+
+§. 1. Durch die Wörter pflegen wir andern unsere Gedancken zu erkennen zu geben. Und also sind sie nichts anders, als Zeichen unserer Gedancken, daraus nemlich ein anderer dieselbe erkennen kan. Z. E. Wenn mich einer fraget, an was ich gedencke, und ich antworte, an die Sonne; so gebe ich durch dieses Wort zu verstehen, was ich mir jetzund in meinen Gedancken für eine Sache vorstelle.
+
+[*Wenn zwey Personen einander verstehen.*]
+
+§. 2. Wenn also zwey Personen mit einander reden und einer den andern verstehen soll; so wird erfordert 1. daß der, so da redet, bey einem [p. 61] einem jeden Worte sich etwas gedencken könne: 2. daß der, so ihn reden höret, eben dasjenige sich bey einem jeden Worte gedencken kan, was der andere dencket.
+
+[*Jedes Wort muß eine Bedeutung haben.*]
+
+§. 3. Demnach muß mit einem jeden Worte ein gewisser Begriff verknüpffet werden, und folgendes allezeit etwas seyn, welches durch das Wort angedeutet wird.
+
+[*Wie man erfähret, ob man weiß was man redet.*]
+
+§. 4. Damit nun ein jeder erfahre, ob er wisse, was er redet, oder ob seine Worte nur ein leerer Thon sind; so muß er bey einem jeden Worte, was er redet, sich selbst fragen, was er vor einen Begriff damit verknüpffe.
+
+[*Im Reden dencket man nicht stets an die Bedeutung der Wörter.*]
+
+§. 5. Denn es ist wohl zu mercken, daß wir nicht allezeit den Begriff der Sache vor uns haben, wenn wir von ihr reden, oder an sie gedencken, sondern wir sind vergnüget, und meinen, daß wir genug verstehen, was wir reden, wenn wir uns nur zu besinnen vermeinen, wir haben zu anderer Zeit den Begriff gehabt, der mit diesem oder jenem Worte verknüpfet werden soll, und also die Sachen, welche durch die Worte bedeutet werden, uns nur gleichsam als von weitem oder dunckel (§. 9. c. 1.) vorstellen.
+
+[*Wie man von nichts verständlich reden kan.*]
+
+§. 6. Daher pfleget es zu geschehen, daß, wenn wir Wörter mit einander verknüpffen, von deren jedem wir insbesondere einen Begriff haben, wir wohl verstehen, was wir reden, unerachtet dasjenige unmöglich ist, was durch diese zusammen gesetzte Wörter bedeubedeutet [p. 62] wird, und dannenhero unmöglich einen Begriff haben kan. Denn was unmöglich ist, dasselbe ist nichts: von nichts aber kan man nichts gedencken. Z. E. Von dem Golde haben wir einen Begriff, auch nicht weniger von dem Eisen. Hingegen ist unmöglich, daß das Eisen zugleich Gold seyn kan, und dannenhero können wir auch von eisernem Golde keinen Begriff haben. Dennoch verstehen wir andere, was sie haben wollen, wenn sie eisern Gold nennen.
+
+[*Es wird solches mit mehrerem bestätiget.*]
+
+§. 7. In dem gegebenen Exempel ist es freylich einem jeden bald klar, daß das Wort eisern Gold ein leerer Thon sey: allein es giebt tausend Fälle, da man es nicht so leicht sehen kan. Z. E. Wenn ich sage, ein geradelinichtes Zweyecke sey eine Figur, die in zwey gerade Linien eingeschlossen ist; so verstehet man mich so wohl, als wenn ich sage, ein geradelinichtes Dreyecke sey eine Figur, die in drey gerade Linien eingeschlossen ist. Und es scheinet, als wenn wir von beyden Figuren einen deutlichen Begriff hätten (§. 13. c. 1.). Unterdessen da man in der Geometrie erweiset, daß zwey gerade Linien keinen Raum einschliessen können; so ist auch unmöglich von einem geradelinichten Zweyecke einen Begriff zu haben. Und also sind die Worte, ein geradelinichtes Zweyecke ist eine Figur, die in zwey gerade Linien eingeschlossen ist, ein leerer Thon. Eben dergleichen [p. 63] Beschaffenheit hat es mit der *wachsendmachenden Seele* in den Pflantzen, welche ein geistiges Wesen seyn soll, dadurch die Pflantzen vermögend gemacht werden zu wachsen: denn ob gleich alle diese Wörter vor sich verständlich sind; so haben sie doch hier keinen Begriff, der mit ihnen zusammen genommen könnte verknüft werden. Eben so wenn ich sage, der *Zieh-Geist* oder *Ziehe-Strick*, (wie ihn Linus nennet) oder auch die *Ziehe-Krafft*, wie sie einige Engelländer heute zu Tage heissen, ist ein uncörperliches Ding, dadurch die Anziehungen in der Natur geschehen; so ist kein Begriff, den man bey diesen Wörtern haben könte. Hieher gehören auch die *natürliche Liebe* und der *natürliche Haß* der Pflantzen; das *Band der Rechte* in der Erklärung der Verbindlichkeit bey den Rechts-Gelehrten; das *Wesen*, wovon das Böse in der Welt nach der Meinung der Manichäer kommet und dergleichen.
+
+[*Wie Wörter von Sachen zu unterscheiden.*]
+
+§. 8. Damit wir nun Wörter von Sachen unterscheiden und uns niemahls selbst betrügen; so müssen wir keinen Begriff zulassen, als dessen Möglichkeit wir richtig erkandt haben (§. 41. & seqq. c. 1.).
+
+[*Unterscheid unter dem Begriffe des Worts*]
+
+§. 9. Es ist aber hier ein Unterscheid zu machen unter dem Begriffe des Thones der Wörter und dem Begriffe der Sache, die sie bedeuten sollen. Denn freylich müssen wir
+
+[p. 64] [*und seines Thones.*]
+
+wir einen Begriff von dem Thone der Wörter haben, sonst würden wir sie entweder nicht hören, oder auch nicht bey uns gedencken. Z. E. Ich habe einen Begriff von dem Thone des Worts Ziehe-Geist: denn sonst könte ich nicht unterscheiden, ob ich dieses, oder ein anderes Wort höre (§. 4. c. 1.): allein ich habe keinen Begriff von der Sache, die durch dieses Wort soll angedeutet werden.
+
+[*Leere Worte können verstanden werden.*]
+
+§. 10. Hieraus ist nun Sonnen-klar, daß man mit einander reden, und einander verstehen, und doch keiner einen Begriff von dem haben kan, was er redet, oder höret, indem von lauter nichts geredet wird. Dergleichen Discurse sind unter Gelehrten nicht selten, absonderlich trifft man viele in der Natur-Lehre der Schul-Weisen an (§. 7. c. 2.).
+
+[*Wörter können etwas bedeuten, davon wir keinen Begriff haben.*]
+
+§. 11. Gleichwie es aber Wörter hat, die keinen Begriff haben; eben so kan es Wörter geben, durch welche etwas würckliches angedeutet wird, davon wir keinen klaren und deutlichen Begriff haben, ob sie zwar uns nicht unbekandt sind. Z. E. Das Wort Luchs bedeutet ein Thier, welches denen Jägern nicht unbekandt, auch wegen seines scharffen Gesichtes beschrieen ist. Viele wissen das Wort, haben aber keinen klaren, geschweige denn einen deutlichen Begriff davon.
+
+[p. 65] [*Ungrund derer, so die Geheimnisse verwerffen.*]
+
+§. 12. Derowegen folget nicht, daß Wörter, mit welchen wir keinen klaren Begriff verknüpffen, nichts bedeuten: wie die Feinde des Evangelii das Wort **Dreyeinigkeit** und andere Geheimnisse bedeutende Wörter für einen leeren Thon ausgeben.
+
+[*Andere können einen Begriff von Wörtern haben, davon wir keinen haben.*]
+
+§. 13. Vielweniger folget, wenn wir mit einem Worte keinen klaren und deutlichen Begriff verknüpffen können, solches auch kein anderer zu thun vermögend sey: worinnen diejenigen verstossen, welche in Wissenschaften alle Wörter verwerffen bey denen sie sich keinen klaren und deutlichen Begriff machen können.
+
+[*Wie man sie recht erkläret.*]
+
+§. 14. Wenn nun der andere mich verstehen soll; so muß ich kein Wort brauchen, als davon ich gesichert bin, daß er nicht allein den Begriff haben kan, den ich damit verbinde, sondern auch, daß das Wort, so bald er es höret, und ihm nachdencket, selbigen Begrif in ihm erreget. Denn es geschiehet gar ofte daß der andere ganz einen anderen Begrif, als ich mit einem Worte verknüpffet, unerachtet er eben so wohl meinen damit verbinden könte. Z. E. Simplicius, der von seiner Kindheit an stets lustige Bücher gelesen und viel Possen-Spielen beygewohnet, stellet sich das Vermögen scharfsinnig zu urtheilen unter der Fertigkeit alles durchzuziehen und lächerlich zu machen vor. Lynceus aber, welcher durch gründliche Wissenschaffschafften [p. 66] seinen Verstand ungemein geübet, nimmet vor das Vermögen scharffsinnig zu urtheilen, die Fertigkeit in dem Beweise dessen, was man behauptet, seine Schlüsse ordentlich nach einander so lange fortzuführen, bis man auf ungezweifelte Gründe kommet. Wenn nun Simplicius zu dem Lynceo saget: Thraso könne scharffsinnig von einer Sache urtheilen; so wird ihn Lynceus nicht verstehen, unerachtet er vom Durchziehen und eine Sache lächerlich zu machen einen vollständigeren Begrif als Simplicius hat. Derowegen muß einer, sonderlich in Wissenschaften, seine Wörter erklären, und die in diesen Erklärungen gebrauchte Wörter von neuem so lange erklären, bis er auf solche kommet, deren Begrif einer von den gegenwärtigen Dingen ohnfehlbar haben kan, oder von denen er versichert ist, daß der Leser ihre rechte Bedeutung wisse: welches das (§. 16. c. 1.) gegebene Exempel vollständiger Begriffe zur Gnüge erläutert.
+
+[*Woher Wort-Streite kommen.*]
+§. 15. Daher entstehet viel Streit unter den Gelehrten, wenn sie die Bedeutung der Wörter nicht durch deutliche Begriffe in richtige Schrancken einschliessen, sondern einer diesen, ein ander einen andern, ja oft einer bald diesen, bald einen andern undeutlichen Begrif mit einem Worte verknüpffet. Denn wenn z. E. Simplicius nach seinem Begriffe saget: Thraso urtheile überaus scharffscharffsinnig [p. 67] von einer Sache; so wird es Lynceus nach seinem leugnen. Simplicius wird es beweisen, weil er alle Sachen so artig vorstellen, und die Irrthümer anderer so handgreiflich zeigen kan. Allein Lynceus wird dawieder einwenden, er wisse noch nicht, was zu Untersuchung einer Sache gehöre; und mache zu ungereimten Irrthümern, was er aus Unverstande noch nicht recht begriffen hat. Denn wird Simplicius meinen, Lynceus wolle ihm seinen Thrasonem, auf den er so viel hält, beschimpffen und zu schelten anfangen. Solchergestalt kommen sie nicht aus einander. Wenn aber Simplicius dem Lynceo seinen Begrif vom scharffsinnigen Urtheilen sagte; so würde er dem Thrasoni den Ruhm eines Possenmachers und Zottenreissers nicht abdisputiren. Derowegen ist es gut, wenn sich Lynceus gleich anfangs ein Erempel sagen lässet, daraus Simplicius des Thrasonis Vermögen scharffsinnig zu urtheilen geschlossen.
+
+[*Wie die rechte Bedeutung der Wörter zu finden.*]
+§. 16. Wie denn überhaupt nöthig ist, daß, wenn man die eigentliche Bedeutung der Wörter finden will, man sich einige Fälle vorstellet, in welchen das Wort gebraucht wird, und dabey auf alles genau acht giebt, was uns selbiges zu brauchen veranlasset. Denn so bekommen wir die Merckmahle, dadurch die Sache, so diesen Nahmen führet, von andern unterschieden wird. z. E.
+
+[p. 68] Ich verlange die eigentliche Bedeutung des Wortes Licht zu wissen. Ich stelle mir demnach vor, was ich empfinde, wenn ich das Licht nennen höre, und wodurch ich bewogen werde zu sagen, es sey lichte. Alsdenn finde ich, daß man sage, es sey lichte, wenn die umstehende Cörper können gesehen werden, und sey sehr lichte, wenn wir sie deutlich erkennen können. Hieraus sehe ich, man verstehe durch das Licht dasjenige, so die Sachen um uns sichtbar machet. Auf solche Weise ist die Bedeutung der Wörter Raum, Ordnung, Stetigkeit, Wahrheit, Traum, Vernunft und andere mehr (§. 46. 58. 132. 143. 868. Met.) gefunden worden. Und in den anderen Theilen der Welt-Weißheit kommet es gleichfalls auf gegenwärtige Regel an, wenn man die Bedeutung eines Wortes zu erklären sich vorgenommen.
+
+## Das 3. Capitel. Von den Sätzen.
+
+[*Wenn wir urtheilen.*]
+§. 1. Wenn wir uns gedencken, daß ein Ding etwas an sich habe, oder an sich haben könne, oder auch, daß von ihm etwas herrühren könne: ingleichen daß es etwas nicht an sich habe, oder an sich haben könne, oder auch, daß von ihm etwas nicht herrühren könne; so urtheilen [p. 69] len wir von ihm. z. E. Wir urtheilen von einem Gebäude, wenn wir sagen: dieses Gebäude ist schöne; jenes Gebäude ist nicht nach den Regeln der Kunst gebauet. Wir urtheilen von dem Eisen, wenn wir sagen: das Eisen kan glüend werden; das Eisen kan nicht schwimmen. Wir urtheilen von einem hoch herunter fallenden Steine, wenn wir sagen: er könne einen todt werffen; er werde nicht zerspringen. Nemlich kurtz zureden: wir urtheilen, wenn wir uns gedencken, daß einer Sache etwas zukomme, oder nicht.
+
+[*Worinnen das Urtheilen bestehe.*]
+§. 2. Derowegen wenn wir urtheilen, verknüpffen wir zwey Begriffe mit einander, oder trennen sie von einander; nemlich den Begriff des Dinges, von welchem wir urtheilen, und den Begriff dessen, was ihm zukommen, oder nicht zukommen soll. Ich sage wenigstens zwey: denn es können sich mit diesen beyden noch andere vergesellschaften. z. E. Wenn ich urtheile: dieses Haus ist schöne; so verbinde ich den Begrif der Schönheit mit dem Begriffe des Hauses. Demnach sind in diesem Urtheile nicht mehr als zwey Begriffe. Hingegen wenn ich urtheile: ein hoch herunter fallender Stein wirfft einen todt; so sind mit dem Begriffe des Steins vergesellschafftet die Begriffe der Höhe und des Herunterfallens, und mit dem Begriffe des Werffens der Begrif des Todes. Jedoch machtdie Vorstellung [p. 70] eines aus der Höhe herunterfallenden Steines eigentlich nur einen Begriff aus, unerachtet er aus vielen einzeln zusammen gesetzet ist, indem ich die einzelen alle zusammen nehmen muß, wenn das andere ihm zukommen soll. Und gleichergestalt verhält es sich, wenn der Begriff von dem, was einer Sache zukommet, aus vielen einzelen zusammen gesetzet ist. Solchergestalt ist das Urtheil entweder eine Verbindung oder eine Trennung zweyer oder mehrerer damit verknüpffter Begriffe, die doch zusammen nur zweyen gleichen.
+
+[*Was ein Satz sey, ingleichen ein bekräfftigender und verneinender.*]
+§. 3. Da wir nun genöthiget werden an statt der Begriffe Wörter zu gebrauchen, theils wenn wir andern unser Urtheil entdecken (§. 1. c. 2.), theils auch öfters wenn wir es uns in Gedancken vorstellen wollen (§. 5. c. 2.); so muß ein Urtheil wenigstens durch zwey Wörter ausgedrucket werden, deren eines das Ding andeutet, von welchem geredet wird, das andere aber dasjenige bedeutet, was ihm zukommet. Jenes wird das Vorderglied; dieses aber das Hinterglied, und die Rede, dadurch wir zu verstehen geben, daß einem Dinge etwas zukomme oder nicht, ein Satz genennet, und ins besondere heisset ein bekräfftigender Satz, wenn wir sagen, daß einem Dinge etwas zukomme: hingegen ein verneinender Satz, wenn wir sagen, daß ihm etwas nicht zukomme. [p. 71] me. z. E. Wenn ich sage: der Himmel ist helle; so bekräftige ich etwas: sage ich aber, der Himmel ist nicht helle; so verneine ich etwas.
+
+[*Wie man einen Satz verstehet.*]
+§. 4. Wenn nun einer einen Satz verstehen will; so muß er sich bemühen von allen darinnen enthaltenen Wörtern einen Begrif zu erlangen. Denn die Wörter werden an statt der Begriffe gesetzet (§. 3.): ich verstehe aber kein Wort, mit dem ich nicht einen Begriff zu verbinden weiß (§. 3. c. 2.). Je vollständiger nun solche Begriffe sind; je besser verstehe ich den Satz.
+
+[*Unterscheid der Sätze.*]
+§. 5. Der Grund, warum einem Dinge etwas zukommen kan oder nicht, ist entweder in ihm, und zwar in etwas zu suchen, was es beständig an sich hat, als in dem Wesentlichen, oder seinen daher rührenden Eigenschafften (§. 48.); oder in etwas, so es nur zu gewisser Zeit unter gewissen Bedingungen hat, oder endlich ausser ihm in etwas anderem. z. E. Der Grund, warum der Stein schweer ist, muß in seiner Materie, daraus er bestehet, und also in etwas, das der Stein immer an sich hat, gesuchet werden. Fraget man aber, warum der Stein das Bette warm gemacht; so muß der Grund in seiner Wärme, und also in etwas, welches er nur unter gewissen Umständen haben kan nemlich wenn er lange im warmen, als im heissen Wasser oder auf dem heissen Ofen gelegen, gesuchet werden.
+
+[p. 72] Endlich wenn ich frage, warum der Stein warm ist; so wird der Grund ausser ihm, als etwa im heissen Wasser, darinnen er gehangen, oder in dem heissen Ofen, darauf er geleget, gesuchet. In dem ersten Falle nun muß allen Dingen von einer Art zukommen, was einem zukommet: in dem andern aber nur etlichen, nemlich denenjenigen, die sich unter einerley oder gleichgültigen Umständen befinden. z. E. Alle Steine sind schweer: aber nur etliche machen warm, die nemlich warm sind; und nur etliche werden warm, die nemlich im warmen lange liegen. In dem ersten Falle werden die Sätze allgemeine; in den anderen beyden aber besondere Sätze genennet. Wiewohl wenn der Satz nicht von einem einzelen Dinge redet; so können die besonderen Sätze gar leicht in allgemeine verwandelt werden, wenn man nur die Bedingung mit hinein bringet. z. E. Etliche Steine machen warm, die nemlich warm sind. Dieses ist ein besonderer Satz. Es wird aber ein allgemeiner, wenn ich sage; alle warme Steine machen warm. Eben so ist ein besonderer Satz: etliche Steine werden warm, die nemlich lange im warmen liegen. Es wird aber ein allgemeiner daraus, wenn ich sage: alle Steine, die lange im warmen liegen, werden warm. Das Wort alle ist demnach das Zeichen, dadurch die allgemeine Sätze angedeutet wer [p. 73] den: welches auch öffters weggelassen wird, als wenn ich sage: der Stein ist schweer; der warme Stein machet warm; der Stein, welcher lange in der Wärme lieget, wird warm. Hingegen das Wort etliche oder einige ist das Zeichen der besonderen Sätze.
+
+[*Zergliederung des Satzes.*]
+
+§. 6. Man siehet aber hieraus, daß ein jeder Satz sich gar leichte in zwey Theile zergliedern lässet. Der erste ist die Bedingung, unter welcher einem Dinge etwas zukommet, oder nicht zukommen kan, nemlich weil es entweder dieses oder jenes an sich hat, oder auch sich unter diesen oder jenen Umständen befindet. Der andere Theil ist die Aussage, welche dasjenige in sich enthält, was einer Sache zukommet, oder nicht zukommen kan. z. E. In dem Satze, der warme Stein machet warm, ist die Bedingung, daß der Stein warm sey: die Aussage aber, daß er warm mache. Derowegen kan man ihn auch solchergestalt ausdrucken: wenn der Stein warm ist; so machet er warm. Da zeigen sich die gedachten Theile gar deutlich.
+
+[*Beantwortung eines Einwurffes.*]
+
+§. 7. Es scheinet, als wenn solche Zergliederung nicht überall statt fändete. Denn wen der Grund, warum einer Sache etwas zukommet oder nicht, in dem gesuchet werden muß, was ihr eigenthümlich ist, nemlich in dem Wesentlichen und ihren Eigenschafften (§. 48.); so kommet ihr schlechterdinges und also ohne einige Bedingung zu, was ihr zu [p. 74] kommet. Gleichergestalt verhält es sich mit dem, was ihr nicht zukommen kan. z. E. Ein jedes Dreyecke hat drey Winckel, ohne einige Bedingung. GOtt ist allmächtig, ohne einige Bedingung. Hierauf ist nicht schweer zu antworten. Eben dasjenige, was der Sache eigenthümlich ist, giebt die Bedingung, als das Wesentliche in Ansehung der Eigenschaften, eine Eigenschaft in Ansehung der anderen, wenn nemlich eine Eigenschaft durch die andere, als wie die erstere durch das Wesentliche determiniret wird (§. cit.): denn wenn ihr selbiges nicht eigenthümlich wäre; so würde auch die Aussage nicht statt finden. Als in den gegebenen Exempeln muß ich nothwendig unter den Wörtern Dreyecke und GOtt etwas verstehen. Dasjenige nun, was ich darunter verstehe, als daß ein Dreyecke in drey Linien eingeschlossen sey, daß GOtt alle Vollkommenheiten im allerhöchsten Grade besitze, giebt die Bedingung. Daher kan ich die vorgegebenen Sätze allerdings in diese verwandeln: Wenn ein Raum in drey Linien eingeschlossen ist; so hat er drey Winckel. Wenn ein Wesen alle Vollkommenheiten im allerhöchsten Grade besitzet; so ist es allmächtig.
+
+[*Nutzen der Zergliederung der Sätze.*]
+
+§. 8. Es hat diese Zergliederung der Sätze ihren vielfältigen Nutzen, der sich im Fortgange gar klar und deutlich zeigen wird. Daher auch in der Mathematick fast alle Sätze solcher [p. 75] solchergestalt ausgedrucket werden. Jetzt will ich nur dieses erinnern. Die Bedingung zeiget mir nicht allein den Grund, davon der Beweiß genommen werden muß, sondern auch die Merckmahle, daraus ichs abnehmen kan, daß in einem vorkommenden Falle der Satz statt findet.
+
+[*Innere Beschaffenheit der Sätze.*]
+
+§. 9. Wir sehen auch zugleich aus dieser Zergliederung, daß wir bey einem jeden Satze nothwendig zweyerley Gedancken führen, von denen wir den andern um des erstern willen haben in den bekräfftigten Sätzen: hingegen den andern nicht haben können um des ersten willen in den verneinenden Sätzen. z. E. In dem Satze: GOtt ist allmächtig, (da ich durch GOtt verstehe ein Wesen, welches alle Vollkommenheiten im höchsten Grade besitzet) gedencke ich mir zweyerley von GOTT, nemlich einmahl, daß er alle Vollkommenheiten im höchsten Grade besitze; darnach, daß er allmächtig sey, das ist, alles thun könne was er will. Das letztere gedencke ich mir um des ersteren willen. Hingegen bey dem Satze: kein kalter Stein kan warm machen, führe ich zwar auch zwey Gedancken, nemlich ich gedencke an das kalt seyn, und das warm machen: allein der andere Gedancke findet nicht statt, wenn ich den ersten zugebe. Einer von beyden hebet den andern auf. Wenn nun zwey Gedancken so beschaffen sind, daß der andere noth [p. 76] wendig stattfindet, wenn man den ersten heget, oder daß ich mir das andere nothwendig gedencken muß, wenn ich von einem Dinge das erste gedencke, indem nemlich durch das erste das andere zugleich mit determiniret wird; so stimmen die Gedancken mit einander überein: kan ich aber das andere von einem Dinge unmöglich gedencken, wenn ich mir das erste von ihm gedencke; so streiten meine Gedancken wieder einander, oder einer wiedersprichet dem andern.
+
+[*Erklärung etlicher Redens-Arten.*]
+
+§. 10. Wenn man diese Uebereinstimmung der Gedancken deutlich einsiehet; so sage ich, man könne den Satz gedencken. Hingegen wenn man deutlich einsiehet, daß die Gedancken wider einander streiten; so sage ich, man könne den Satz nicht gedencken. Kan man aber nicht deutlich ersehen, ob die Gedancken mit einander übereinstimmen, oder ob sie einander widersprechen; so sage ich, man weiß nicht, ob sich der Satz gedencken lässet, oder nicht. Nemlich in dem ersten Fall kan man sich die Sache mit dem, was ihr zukommen soll, in einem Begriffe vorstellen, ohne Wörter: in dem andern aber ist es schlechterdinges unmöglich: in dem dritten hingegen wissen wir nicht, ob es angehet, oder nicht, ob wir es gleich nicht zu thun vermögend sind. Diese Redens-Arten sind schon längst von den [p. 77] den Liebhabern der Mathematick und andern grossen Welt-Weisen gut geheissen worden. Was aber deutlich einsehen sey, ist aus dem klar, was oben (§. 13. c. 1.) von deutlichen Begriffen gesaget worden: nemlich ich sehe die Übereinstimmung oder das Widersprechen der Gedancken deutlich ein, wenn ich einem ordentlich nach einander hersagen kan, warum diese Gedancken mit einander übereinstimmen, oder auch einander widersprechen: wovon in dem folgenden Capitel ausführlicher geredet wird.
+
+[*Wie die Sätze gefunden werden.*]
+
+§. 11. Die Sätze werden entweder durch die Erfahrung gefunden, oder aus den Erklärungen hergeleitet, entweder wenn man jede insbesondere betrachtet, oder verschiedene mit einander vergleichet.
+
+[*Unterscheid der Erwegungs- und Ausübungs-Sätze.*]
+
+§. 12. Es sagen aber die Sätze entweder aus, daß einem Dinge etwas zukomme, oder nicht; oder sie zeigen, daß, und wie etwas könne gemacht oder gethan werden. Von der ersten Art sind bereits oben (§. 1. 5. 7.) Exempel gegeben worden. Ein Exempel von der andern Art ist, wenn ich sage: wer einen freudig machen will, der muß sich erkundigen, was er gerne hätte, ihm noch mehreren Appetit dazu machen, und dann das verlangte unverhofft verehren. Die erste Art wollen wir *Erwegungs-Sätze*; die andere Art aber *Uebungs-Sätze* nennen.
+
+[p. 78] [*Was Grund- und Heische-Sätze sind.*]
+§. 13. Die Erwegungs-Sätze, welche aus einer Erklärung hergeleitet werden, nenne ich Grund-Sätze: die Ubungs-Sätze, welche man aus einer Erklärung schliesset, Heische-Sätze. Exempel werden unten im sechsten Capitel vorkommen. Eigentlich sind die leeren Sätze die rechten Grund-Sätze, darinnen das Hinter- und Förder-Glied einerley ist, als, alle Thiere sind Thiere, wenn man einen Grund-Saz nennet, der sich nicht weiter erweisen lässet, und nicht bloß Sätze, die man ohne beweiß einräumet, wenn man nur die Wörter verstehet, weil man sich die Sache nicht vorstellen kan, ohne daß man darinnen zugleich erblicket, was ihr beygeleget wird, als ein Dreyecke, oder eine Figur in drey Linien eingeschlossen, ohne daß die drey Winckel mit darbey seyn sollten.
+
+[*Was Lehr-Sätze und Aufgaben sind.*]
+§. 14. Die Erwegungs-Sätze, welche aus vielen Erklärungen zusammen genommen hergeleitet werden, nennet man Lehr-Sätze: die Ubungs-Sätze, welche man aus vielen Erklärungen schliesset, Aufgaben. Auch hiervon werden Exempel im sechsten Capitel vorkommen, und sind bereits Exempel von Lehr-Sätzen oben (§. 1. 5. 7.) und von einer Aufgabe (§. 12.) gegeben worden.
+
+[*Nutzen dieser Eintheilung.*]
+§. 15. In der Mathematick nimmet man diese Eintheilung der Sätze auf das genaueste in acht, und schreibet einem jeden seinen gehörigen Nahmen vor, damit man bald sehen kan, [p. 79] kan, worauf man zu sehen hat, wenn man einen jeden Satz gedencken will. Sie ist aber zugleich der Grund von den Regeln, wie man die Sätze aus ihren Erklärungen herleiten soll: wie unten im sechsten Capitel gezeiget wird. Ja, der größte Nutzen, den die Vernunffts-Kunst in verschiedenen Fällen hat, ist in dieser Eintheilung gegründet, wie solches das achte und die darauf folgende Capitel zur Gnüge ausweisen.
+
+## Das 4. Capitel, Von den Schlüssen, und wie wir dadurch der Wahrheit versichert werden.
+
+#### §. 1.
+
+[*Ursprung der Schlüsse, dadurch etwas bejahet wird.*]
+Nachdem man allerhand allgemeine Begriffe erlanget (§. 19. 20. 26. 27. 30. c. 1.) und mit gewissen Nahmen verknüpffet (§. 3. c. 2.); so hat man aus den Merckmahlen der Sache, wenn sie vorkommen, geschlossen, es sey eben dasjenige, der dieser oder jener Nahme gebühret. z. E. Ich habe einmahl die Erklärung gemacht: alles, was die umstehenden Sachen sichtbar machet, ist ein Licht. Nun finde ich durch die Erfahrung: Der Mond machet alles um mich sichtbar.
+
+[p. 80] Derowegen schliesse ich: Der Mond ist ein Licht. Wiederum ich habe einmahl die Erklärung gemacht: wer seine Handlungen nach dem Gesetze der Natur einrichtet, der ist tugendhaft. Nun finde ich durch die Erfahrung: Titius richtet seine Handlung nach dem Gesetze der Natur ein. Und also schliesse ich: Titius ist tugendhafft. Eben so hat man die allgemeine Sätze auf gleiche Art in vorkommenden Fällen anzubringen gesuchet. z. E. Man weiß aus der Erfahrung: was warm ist, dehnet die Luft aus. Nun findet man, daß die Sonnen-Strahlen warm sind. Also schliesset man: die Sonnen-Strahlen dehnen die Luft aus. Oder ich habe in der Moral gelernet: wer bey seinem guten Auskommen über seine Einnahme im Ernste klaget der ist geitzig. Ich weiß, Titius habe sein gutes Auskommen und höre ihn doch im Ernste klagen. Derowegen schliesse ich: er sey geitzig.
+
+[*Grund dieser Schlüsse.*]
+§. 2. Diese Art zu schliessen ist überaus deutlich, denn es kommet alles darauf an: *Was allen Dingen von einer Art zukommet, das muß auch diesem, so von eben der Art ist, zukommen.* z. E. Wenn ich einmahl angenommen, alles, was die umstehenden Sachen sichtbar machet, soll den Nahmen Licht haben; so muß ich nothwendig auch den Mond, der eben dieses thut, Licht nennen. Nemlich ein Licht seyn [p. 81] und alles um sich sichtbar machen ist einerley. Wovon ich nun das eine sagen kan, von dem muß ich auch das andere sagen können. Und also ist es auch mit den andern Exempeln beschaffen.
+
+[*Ursprung der Schlüsse, dadurch etwas verneinet wird.*]
+§. 3. Gleichergestalt, wenn man ein allgemeines verneinendes Urtheil abgefasset, und man hat gefunden, daß eine Sache unter eben diese Art gehöret, davon geurtheilet worden; so hat man auch von ihr verneinet, was der gantzen Art abgesprochen worden. z. E. Wenn ich aus der Erfahrung überführet worden, kein Mensch nehme von seinem Vermögen etwas mit sich aus der Welt, und ich sehe, daß der hochmüthige Craesus ein Mensch wie andere Menschen ist; so schliesse ich: auch er werde von seinem Vermögen nichts mit sich aus der Welt nehmen. Eben so wenn ich bey einem Dinge die Merckmahle nicht finde, welche in einer Erklärung enthalten sind; so schliesse ich daraus, es komme ihm auch der Nahme nicht zu, welcher mit dieser Erklärung verknüpffet wird. z. E. Ich finde, daß in einer rundten Figur nicht alle Puncte des Umfanges von dem Mittel-Punct gleich weit weg sind. Derowegen schliesse ich: die Figur sey kein Circul. Gleichergestalt wenn mir aus der Moral bekandt ist: wer bey seinem guten Auskommen im Ernste klaget, derselbe ist geitzig; so erkenne ich auch dadurch: wer bey seinem schlechten
+(Wolffii Logick.) F Ein- [p. 82] Einkommen klaget, der ist deswegen nicht geitzig. Indem ich nun weiß, Titius habe gar schlechtes Einkommen, und höre ihn dabey klagen; so schliesse ich: Titius ist deswegen nicht geitzig.
+
+[*Grund dieser Schlüsse.*]
+§. 4. Auch diese Art zu schliessen ist so deutlich, wie die vorige, denn es kommt darauf an: *was von einer gantzen Art verneinet worden; eben dieses muß auch von einem jeden von selbiger Art verneinet werden.* z. E. Wenn kein Mensch mit sich etwas aus der Welt nimmet; so kan auch Craesus nichts mit sich nehmen: denn sonst würde hierdurch der erste Satz aufgehoben. Gleichergestalt wenn ich weiß, keine Figur sey ein Circul, in welcher nicht alle Puncte des Umfanges von dem Mittel-Puncte gleich weit weg sind; so kan auch das Oval kein Circul seyn: denn sonst würde abermahl dadurch der erste Satz aufgehoben. Und auf gleiche Weise verhält sichs mit dem dritten Exempel.
+
+[*Ursache davon.*]
+§. 5. Wenn man demnach diese beyden Gründe der Schlüsse (§. 2. 4.) genauer überleget; so siehet man daß man sie deswegen annimmet, weil man sonst zugeben müste, daß etwas zugleich seyn und nicht seyn könte. Derowegen ist die Ursache von der Richtigkeit und Deutlichkeit der Schlüsse keine andere als diese, daß unmöglich etwas zugleich seyn und nicht seyn kan: welches [p. 83] man den Satz des Wiederspruches zu nennen pfleget.
+
+[*Beschaffenheit der Schlüsse.*]
+§. 6. Wenn wir nun diese Schlüsse, oder die Manier eines aus dem andern herzuleiten, umständlicher überlegen; so finden wir, daß jeder aus drey Sätzen bestehe und die Sätze aus drey Gliedern solchergestalt zusammen gesetzet werden, daß immer zwey und zwey neben einander stehen. z. E. Unser erster Schluß war (§. 1.):
+
+Alles, was die umstehenden Sachen sichtbar machet, ist ein Licht.
+
+Der Mond machet die umstehenden Sachen sichtbar.
+
+Also ist der Mond ein Licht.
+
+Hier liegen die drey Sätze gar deutlich vor Augen und zeigen sich auch darinnen die drey Glieder, aus deren zweyen jeder Satz bestehet. Denn das eine Glied ist die umstehende Sache sichtbar machen; das andere ist das Licht; das Dritte der Mond. Und eben so findet man es in den übrigen Exempeln, die wir vorhin (§. 1. 3.) von Schlüssen gegeben. Damit wir nun diese drey Sätze von einander unterscheiden; so wollen wir den ersten den Ober-Satz, den andern den Unter-Satz, den dritten den Hinter-Satz, den Ober- und Unter-Satz zusammen aber die Förder-Sätze nennen. Gleichfalls soll das erste Glied in einem Sa-
+F 2 [p. 84] ße das Förder-Glied, das andere aber das Hinder-Glied (§. 3. c. 3.), und endlich das dritte Glied in dem Schlusse, welches die beyden Förder-Sätze mit einander gemein haben, das Mittel-Glied heissen.
+
+[*Ordnung der Glieder.*]
+§. 7. Aus dem, was bisher erwehnet worden, erhellet, es könne das Mittel-Glied niemahls in den Hinter-Satz kommen. Hingegen in dem Ober-Satze wird es mit dem Hinter-Gliede und in dem Unter-Satze mit dem Förder-Gliede des Hinter-Satzes zusammen gesetzet. Ingleichen ist klar, daß der Hinter-Satz aus den Förder-Sätzen geschlossen wird, indem man die beyden unterschiedenen Glieder der Förder-Sätze zusammen setzet.
+
+[*Ursprung der Figuren der Schlüsse.*]
+§. 8. Man hat nun wahrgenommen, daß das Mittel-Glied könne auf verschiedene Art gesetzet werden, nemlich entweder einmahl in die Stelle des Förder-Gliedes im Ober-Satze und in die Stelle des Hinter-Gliedes im Unter-Satze, wie in unserem Exempel, oder in die Stelle des Förder-Gliedes in beyden Förder-Sätzen zugleich. Ein Exempel in dem anderen Falle ist:
+
+Alle Kluge sehen auf das künfftige.
+Einige Plauderer sehen nicht auf das künfftige.
+Also sind einige Plauderer nicht klug.
+
+Ein Exempel in dem dritten Falle ist folgendes:
+
+[p. 85] Kein Thor siehet auf das Zukünfftige.
+Etliche Thoren sind reich.
+Also sehen etliche Reiche nicht auf das Zukünftige.
+
+Daher sind drey Figuren der Schlüsse entstanden, die erste, die andere und die dritte, deren Beschaffenheit aus dem vorhergehenden abzunehmen.
+
+[*Ursprung der Arten der Schlüsse.*]
+§. 9. Allein da die Sätze entweder allgemein oder ins besondere etwas verneinen oder befräftigen (§. 3. c. 3.) und daher vielerley Arten derselben sind; so hat eine jede Figur verschiedene Arten der Schlüsse.
+
+[*Regeln der Schlüsse überhaupt*]
+§. 10. Damit nun die Beschaffenheit der Sätze in jeder Art erhelle; so müssen wir uns bald anfangs vorstellen, daß beyde Förder-Sätze unmöglich zugleich etwas ins besondere bekräftigen oder verneinen können, ingleichen beyde Förder-Sätze zugleich nicht etwas verneinen können, und also in jedem Schlusse einer von den Förder-Sätzen etwas befräftigen müsse. Denn man eignet entweder einigen Dingen von einer Art zu, was allen von derselben Art zukommet (§. 2.), oder man verneinet von einigen Dingen von einer Art, was keinem Dinge von derselben Art zukommet (§. 4.). Und eben hieraus erhellet, daß, wenn der Hinter-Satz etwas bekräfftiget, beyde Förder-Sätze gleichfalls etwas bekräfftigen müssen, und nur einer von den Förder-Sätzen etwas verneinen [p. 86] kan, wenn der Hinter-Satz etwas verneinet.
+
+[*Nöthige Anmerkungen.*]
+§. 11. Es ist aber wohl zu mercken, daß der Unter-Satz in einem Schlusse bisweilen das Ansehen haben kan, als wenn er etwas verneinete, da er doch in der That einem bekräfftigenden gleich zu achten ist, z. E. Wenn ich schliesse:
+
+Keiner, der auf das Zukünfftige nicht siehet, ist klug.
+Die Plauderer sehen nicht auf das Zukünfftige.
+Also sind die Plauderer nicht klug.
+
+So hat es das Ansehen, als wenn der Unter-Satz: Die Plauderer sehen nicht auf das Zukünfftige, etwas verneinete. Allein weil die Verneinung von dem Förder-Gliede des Ober-Satzes herkommet und also zu dem Mittel-Gliede, nicht aber zu dem Verbindungs-Worte gehöret, wodurch die Verknüpffung der beyden Glieder in einem Satze angedeutet wird; so ist er einem bekräfftigenden Satze gleich zu achten. Denn es ist eben so viel, als wenn ich sagte:
+
+Wer eine Person ist, die nicht auf das Zukünfftige siehet, der ist nicht klug.
+Die Plauderer sind Personen die nicht auf das Zukünfftige sehen.
+Also sind die Plauderer nicht klug.
+
+Solchergestalt wird als eine Eigenschafft derer, die nicht klug seyn, angenommen, daß [p. 87] sie nicht auf das Zukünfftige sehen, und in dem Untersatze bekräfftige ich, daß diese Eigenschafft bey den Plauderern anzutreffen (§. 4.).
+
+[*Regeln der Schlüsse in der ersten Figur.*]
+§. 12. Das Förder-Glied des Hinter-Satzes ist zugleich das Förder-Glied des Unter-Satzes in der ersten Figur (§. 7. 8.). Da er nun im Unter-Satze nicht anders mit dem Mittel-Gliede verknüpffet werden kan, als es in dem Hinter-Satze gefunden wird, indem er aussaget, welches diejenigen Dinge sind, die unter allen von der Art mit begriffen und denen demnach eben dasjenige beygeleget werden mag, was allen beygeleget wird (§. 2. 4.); so muß der Unter-Satz ein besonderer Satz seyn, wenn der Hinter-Satz von solcher Art ist. Und folgends ist in der ersten Figur der Ober-Satz allezeit allgemein (§. 10.). Es ist auch klar, daß in der ersten Figur der Unter-Satz allezeit etwas bekräfftigen muß; denn er saget, daß eine Sache unter diejenige Art gehöret, davon im Ober-Satze etwas bekräfftiget oder verneinet wird (§. 2. 4.).
+
+[*Vier Arten der Schlüsse in der ersten Figur.*]
+§. 13. Solchergestalt werden in der ersten Figur entweder alle beyde Förder-Sätze etwas allgemein bekräfftigen, und so ist der Hinter-Satz auch allgemein und bekräfftiget etwas: oder der Ober-Satz verneinet, der Unter-Satz bekräfftiget etwas allgemein, und also muß der Hinter-Satz etwas [p. 88] allgemein verneinen: oder der Ober-Satz bekräfftiget etwas allgemein, der Unter-Satz ins besondere, und als denn muß der Hinter-Satz etwas ins besondere bekräfftigen: oder der Ober-Satz verneinet etwas allgemein, der Unter-Satz bekräfftiget etwas ins besondere, und so muß der Hinter-Satz etwas ins besondere verneinen (§. 10. 12.) Derowegen sind in der ersten Figur vier Arten der Schlüsse.
+
+[*Die erste Figur reichet zu allen Schlüssen zu.*]
+§. 14. Da nun kein ander Hinter-Satz vorkommen kan, als der entweder allgemein oder ins besondere etwas bekräfftiget oder verneinet (§. 3. 4. c. 3.), und diese vier Hinter-Sätze in den Arten der Schlüsse der ersten Figur vorkommen (§. 13.); so können alle Schlüsse in der ersten Figur gemacht werden. Und weil ich nicht gesonnen bin mit überflüßigen Sachen die Anfänger aufzuhalten, zumahl mit solchen, die ihnen heute zu Tage so verhasset gemacht werden; so will ich die andere und dritte Figur gar weglassen. Denn wenn einer einen Schluß in der andern oder dritten Figur bekommet, kan er leicht aus dem Hinter-Satze und dem Mittel-Gliede einen Schluß in der ersten Figur machen, der viel natürlicher schliesset. z. E. Oben schliessen wir in der andern Figur:
+
+Alle Kluge sehen auf das künfftige.
+
+[p. 89] Einige Plauderer sehen nicht auf das künftige.
+Also sind einige Plauderer nicht klug.
+
+Dieser Schluß wird gleich zu der ersten Figur gebracht, wenn wir nur das Mittel-Glied zum Förder-Gliede des Ober-Satzes machen, wie folget:
+
+Keiner, der nicht auf das Zukünfftige siehet, ist klug.
+Einige Plauderer sehen nicht auf das Zukünfftige.
+Also sind einige Plauderer nicht klug.
+
+[*Nahmen der Arten in der ersten Figur.*]
+§. 15. Damit aber die Anfänger desto deutlicher sehen möchten, in welcher Art und auf was Weise ein Schluß gemacht werden müsse, wenn der Hinter-Satz und das Mittel-Glied gegeben wird; so haben sie eine jede Art mit einem wesentlichen Nahmen beleget, aus welchem sogleich die Beschaffenheit der Sätze in jeder Art des Schlusses zu ersehen. Sie haben nemlich die vier Arten der ersten Figur genennet bArbArA, cElArEnt, dARII, fErIO, in welchen Wörtern das A einen allgemeinen bekräfftigenden, das E einen allgemeinen verneinenden, das I einen besondern bekräfftigenden, und endlich das O einen insbesondere verneinenden Satz bedeutet, welches besser zu behalten, sie folgende Verse gemachet:
+Asserit A, negat E, sed universaliter ambæ,
+Asserit I, negat O, sed particulariter ambæ.
+
+[p. 90] [*Exempel.*]
+§. 16. Um dieses besser zu verstehen, will ich folgende Exempel hieher setzen.
+
+I.
+
+bAr Alle Menschen müssen sterben.
+bA Alle Gelehrten sind Menschen.
+rA Also müssen alle Gelehrten sterben.
+
+II.
+
+cE Niemand, dessen Verstand Schrancken hat, ist allwissend.
+lA Eines jeden Menschen Verstand hat Schrancken.
+rEnt Also ist kein Mensch allwissend.
+
+III.
+
+dA Wer von jedem gut spricht, hat viel Freunde.
+rI Etliche Menschen sprechen von jedem gut.
+I Also haben etliche Menschen viel Freunde.
+
+IV.
+
+fE Keiner, der seinen Begierden nachhänget, liebet die Tugend.
+rI Etliche Menschen hangen ihren Begierden nach.
+O Also lieben etliche Menschen nicht die Tugend.
+
+[*Wenn der Schluß*]
+§. 17. Wenn einer von den Förder-Sätzen so klar ist, daß ihn niemand in Zweiffel ziehet; [p. 91] ziehet; so pfleget man ihn wegzulassen, und dann nennet man es einen verstümmelten Schluß. Z. E. Ich sage an statt des ersten Schlusses:
+
+Alle Gelehrte sind Menschen.
+Also müssen auch alle Gelehrten sterben.
+
+Nemlich der Ober-Satz: alle Menschen müssen sterben, ist so klar, daß ihn niemand leugnet. Weil aber der Unter-Satz eben so klar ist; so kan ich auch diesen weglassen, und den Schluß solchergestalt verstümmeln:
+
+Alle Menschen müssen sterben.
+Also müssen alle Gelehrte sterben.
+
+[*Schlüsse unter Bedingungen.*]
+§. 18. Zuweilen machet man auch Schlüsse unter Bedingungen, deren Inhalt insgesamt auf folgende Art heraus kommet.
+
+Wenn A ist; so ist auch B.
+Nun ist A.
+Also ist auch B.
+
+oder:
+
+Wenn A ist; so ist B nicht.
+Nun ist A,
+Also ist B nicht.
+
+Z. E. Wenn alle Menschen zuweilen fehlen; so kan auch Titius unterweilen fehlen.
+Nun können alle Menschen zuweilen fehlen.
+Also kan auch Titius unterweilen fehlen.
+
+[p. 92] Wiederum:
+
+Wenn Titius Tugend liebt; so gehet er nicht mit böser Gesellschafft um.
+Nun ist das erste wahr.
+Also auch das andere.
+
+Man kan aber diese Schlüsse gar leichte in eine ordentliche Forme bringen, wenn man nur auf den Hinter-Satz und das Mittel-Glied acht hat. Z. E. Die vorher gesetzten Schlüsse verwandeln sich in folgende:
+
+Alle Menschen können unterweilen fehlen.
+Titius ist ein Mensch.
+Also kan auch Titius unterweilen fehlen.
+
+Wiederum:
+
+Wer Tugend liebet, gehet nicht mit böser Gesellschaft um.
+Titius liebet Tugend.
+Also gehet Titius nicht mit böser Gesellschaft um.
+
+[*Noch eine andere Art Schlüsse.*]
+§. 19. Unterweilen machet man auch Schlüsse folgendes Inhalts:
+
+Entweder dieses ist, oder jenes ist.
+Nun ist dieses.
+Also nicht jenes.
+
+oder:
+
+Nun ist dieses nicht.
+Also ist jenes.
+
+Z. E. Petrus ist entweder bußfertig, oder er verharret in Sünden.
+Nun ist er bußfertig.
+Also verharret er nicht in Sünden.
+
+[p. 93] Wiederum:
+
+Entweder GOtt ist ungerecht, oder er muß seine Lästerungen straffen.
+Nun ist GOtt nicht ungerecht.
+Also muß er seine Lästerungen straffen.
+
+Auch diese Art der Schlüsse lassen sich in andere von der ersten Figur verwandeln, als in unseren Exempln:
+
+Wer bußfertig ist, verharret nicht in Sünden.
+Petrus ist bußfertig.
+Also verharret er nicht in Sünden.
+
+Wiederum:
+
+Wer nicht ungerecht ist, der straffet die Gotteslästerungen.
+GOtt ist nicht ungerecht.
+Also straffet er die Gotteslästerungen.
+
+[*Nutzen der Schlüsse.*]
+§. 20. Durch diese Schlüsse wird alles erfunden, was durch menschlichen Verstand heraus gebracht wird, und alles anderen erwiesen, von dessen Gewißheit sie überführet werden wollen, unerachtet wir weder im Erfinden, noch im Beweisen die Forme der Schlüsse allezeit deutlich vor Augen haben. Wer aber nur auf sich selbst recht acht hat, wenn er entweder nachsinnet, oder einen Beweiß überdencket, der wird es mehr als zu viel inne werden. Meine mathematischen Schrifften so wohl als diejenigen, welche ich von den verschiedenen Theilen der Welt-Weißheit heraus gegeben, auch selbst die Versuche, dadurch ich zu gründlicher Erkäntniß der Natur und Kunst den Weg bähne, können hierzu genug Exempel geben.
+
+[p. 94] Versuche, dadurch ich zu gründlicher Erkäntniß der Natur und Kunst den Weg bähne, können hierzu genug Exempel geben.
+
+[*Beschaffenheit eines richtigen Beweises.*]
+§. 21. Doch muß sich einer nicht einbilden, als wenn man den Beweiß mit einem einigen Schlusse zu Ende bringen könte. Denn weil man den Hinter-Satz um der Förder-Sätze willen zulässet; so kan man von seiner Gewißheit nicht eher versichert seyn, als biß man die Richtigkeit der Förder-Sätze begreiffen. Derowegen müssen die Förder-Sätze so lange mit neuen Schlüssen erwiesen werden, biß wir auf einen solchen Schluß kommen, da die Förder-Sätze entweder Erklärungen, oder Grund-Sätze, oder richtige Erfahrungen, oder vorhin erwiesene Sätze sind. Man darf auch nicht allezeit beyde Förder-Sätze anführen, sondern kan die Schlüsse verstümmeln (§. 17.). Die Mathematici lassen unterweilen beyde Förder-Sätze weg, weil der eine aus der Citation, der andere aus der Figur ins Gedächtniß gebracht wird. Solchergestalt ist ein Beweiß ein Hauffen verstümmelter, jedoch ordentlich an einander hangender Schlüsse. Es hangen aber die Schlüsse an einander nicht allein, wenn der Hinter-Satz zu einem Förder-Satze des folgenden Schlusses wird, sondern auch, wenn man viele von einer Sache herausgebrachte Hinter-Sätze als einen Begriff ansiehet, der verschiedenes von einer Sache [p. 95] Sache vorstellet, und daraus ein Urtheil formiret, welches man als einen Förder-Satz in dem folgenden Schlusse brauchet: worinnen in der Geometrie ordentlich eingerichtete Beweise ein Licht geben, dergleichen man in meinen Anfangs-Gründen und deren Auszuge findet.
+
+[*Was eine Demonstration ist.*]
+Und man nennet ihn eine Demonstration, wenn man seine Schlüsse so weit hinaus führen kan, biß man in dem letzten Schlusse nichts als Erklärungen, klare Erfahrungen und andere leere Sätze zu Förder-Sätzen hat. Jedoch ist zu mercken, daß man nicht allezeit nöthig hat den Beweiß biß auf seine Gründe hinaus zu führen, sondern genug ist, wenn man keinen Förder-Satz annimmet, der nicht vorher aus diesen ersten Gründen hergeleitet worden. Weil aber wenige die Majestät dieses Worts recht erkennen; so pflegen sie viele zu beschimpffen, indem sie ihre gantz unvollkommene Gedancken, darinnen Dunckelheit und Ungewißheit noch immer die Oberhand hat, anderen für eine Demonstration aufbürden wollen. Man darf aber auch nicht wehnen, als wenn dem Worte Demonstration wenigstens ausser der Mathematick eine ungewöhnliche Bedeutung zugeeignet würde: denn jedermann gestehet, daß eine Demonstration ein Beweiß seyn soll, dabey kein Zweiffel übrig bleibet. Derowegen müssen keine Gründe angenommen werden, von [p. 96] deren Gewißheit man noch nicht versichert ist. Nun sind keine andere Gründe von der Beschaffenheit, als die Erklärungen, Erfahrungen und die so genannten leeren Sätze. Und ein jeder muß gestehen, daß, wenn man in Schlüssen wider die Regeln der Schlüsse verfähret, dieselbe keine Wahrheit heraus bringen.
+
+[*Warum aus den Schlüssen so viel gemacht wird.*]
+
+§. 22. Es werden sich vielleicht einige wundern, warum ich aus den gewöhnlichen Schlüssen so viel mache, da sie doch heute fast zu jedermanns Spott worden sind. Diesen dienet zur Nachricht, daß ich eben kein Anbeter des Alterthums, auch in neuen Sachen nicht unerfahren bin; daß mir meine Lehrer auch eine Verachtung gegen die gewöhnlichen Schlüsse beygebracht und ich gleich anderen darüber in meinem Unverstande gelachet; daß ich aber nach reiffer Überlegung die Sache ganz anders gefunden und nun aus Liebe zur Wahrheit mich nicht scheue etwas mit grossen Leuten zu vertheidigen, welches als Einfalt von denen durchgezogen wird, die bey weiten nicht tieff genug die Sache einsehen. Ich will jetzt nicht sagen, daß ich mit einigen tiefsinnigen Männern in dem heute zu Tage so verlachten Barbara, Celarent eine Probe von der vollkommensten Wissenschafft [^96-a] erblicke: Denn dieses wäre wohl über den Horizont derer, wieder die ich schreibe, und vor [p. 97] vor die ich schreibe, sondern ich will nur durch Exempel zeigen, 1. daß man in den geometrischen Demonstrationen sich würcklich in richtige Forme gefassete Schlüsse dencket, 2. daß nichts in der Mathematick selbst als durch dergleichen Schlüsse gefunden werde, 3. daß, wenn man in anderen Disciplinen nach mathematischer Art etwas demonstriren und vortragen will, die in richtiger Forme verfasseten Schlüsse uns darzu bringen müssen, 4. daß man durch Hülffe dieser Schlüsse den subtilesten Irrthümern widerstehen kan.
+
+[^96-a]: Diese Wissenschaft bestehet darinnen, daß man die Sachen von ihren Bildern absondert, und durch geschickte Verknüpfung der Zeichen dem Verstande deutlich vorstellet, wovon man Exempel in der Algebra findet, ausser derselben aber zur Zeit in andern Wissenschaften noch niemand eines gegeben. Ich ertheile mehrere Nachricht davon anderswo (§. 324. Met.).
+
+[*Eine geometrische Demonstration geschiehet durch förmliche Schlüsse.*]
+
+§. 23. In meinen Anfangs-Gründen von der Geometrie ist §. 101. folgender Lehr-Satz mit seinem Beweise enthalten.
+
+In jedem Triangel ABC machen alle drey Winckel zusammen 180°.
+
+Beweiß.
+
+Man ziehe durch die Spitze des Triangels C mit seiner [p. 98] seiner Grund-Linie AB eine Parallel-Linie DE; so ist 1=I und 2=II (§. 97.). Nun I+3+II=180 (§. 59.). Derowegen 1+3+2=180°. W. z. E. Wer diesen Beweiß so überdencket, daß er dadurch überführet wird, der dencket nichts als lauter ordentlich in ihre Forme verfassete Schlüsse: denn er nimmet aus der Citation (§. 97.) an: Alle Wechsels-Winckel an Parallel-Linien sind einander gleich. Die Figur giebet: I und 1 sind Wechsels-Winckel an Parallel-Linien AB und DE. Daher schliesset er: die Winckel I und 1 sind einander gleich. Siehe den ersten förmlichen Schluß, den sich ein jeder gedencken muß, wenn er überführet seyn will: die Winckel I und 1 sind einander gleich. Eben so gehet er weiter fort, und nimmet abermahl aus der Citation (§. 97.) an: Alle Wechsels-Winckel an Parallel-Linien sind einander gleich. Die Figur giebet auch hier: II und 2 sind Wechsels-Winckel an den Parallel-Linien AB und DE. Daher schliesset er wieder: die Winckel II und 2 sind einander gleich. Siehe den andern förmlichen Schluß, den sich ein jeder dencken muß, wenn er überführet seyn will: die Winckel II und 2 sind einander gleich. Weiter nimmet er aus der Citation (§. 59.): Alle Winckel, die an einem Puncte auf einer Linie stehen, machen 180°. Die Figur giebet: die Winckel I, 3 und II stehen an [p. 99] an einem Puncte C auf einer Linie DE. Daher schliesset er: die Winckel I, 3 und II machen zusammen 180°. Siehe den dritten förmlichen Schluß, den sich einer gedencken muß, wenn er überführet seyn will: die Winckel I, 3 und II machen zusammen 180°. Endlich damit er überführet wird, daß 1, 2 und 3 auch 180 machen; so bringet ihm der Context in Kopf: gleiche Winckel können vor gleiche, ohne daß die Grösse der letzteren verändert wird, gesetzet werden. Der Beweiß giebet I und 1, ingleichen II und 2 sind gleiche Winckel. Daher schliesset er: der Winckel 1 kan vor I und 2 vor II gesetzet werden, ohne daß die Grösse der Winckel I, 3 und II verändert wird, folgends siehet er, daß auch 1, 2 und 3 zusammen 180° machen. Siehe den vierten förmlichen Schluß, den sich einer gedencken muß, wenn er überführet seyn will: die Winckel 1, 2 und 3 machen zusammen 180°. Solchergestalt bestehet der Beweiß aus vier förmlichen Schlüssen, von denen aber die Fördersätze weggelassen werden, weil sie theils durch die Citation, theils durch das Anschauen der Figur, theils durch den Context in das Gedächtniß gebracht werden. Ich frage aber einen jeden auf sein Gewissen, ob er einen von den Förder-Sätzen in seinen Gedancken weglassen kan, wenn er den Beweiß deutlich begreiffen will? Wenn er auf sich selbst acht giebet; so wird [p. 100] er finden, daß er alle gedencke, ob er sich zwar den Unter-Satz eher als den Ober-Satz vorstellet. Und wenn er gleich in einigen Fällen sich einen von den Förder-Sätzen nicht deutlich vorstellet; so wird er doch bey genauer Aufmercksamkeit finden, daß er sich denselben undeutlich vorstellet: welcher Unterscheid aus dem klar ist, was von den Deutlichen und undeutlichen Begriffen gelehret worden (§. 13. c. 1.).
+
+[*Durch die gewöhnlichen Schlüsse werden alle Wahrheiten erfunden.*]
+
+§. 24. Nun werden die Verächter der förmlichen Schlüsse sagen: Es kan dadurch unmöglich etwas erfunden werden, denn der Hinter-Satz, den ich finden soll, muß mir ja bekandt seyn, ehe ich den Schluß machen kan. Also muß ich vorher wissen, was ich erfinden soll, ehe ichs erfinde: welches augenscheinlich ungereimt. Allein zeiget nicht der Ursprung der Schlüsse, den ich oben angewiesen (§. 1. 3.), und lehret nicht die tägliche, ja stündliche Erfahrung aller gemeinen Leute (§. 334. Met.), daß uns die Förder-Sätze bekandt seyn und mit einander einfallen können, ehe wir an den Hinter-Satz jemahls gedacht haben? Ich will jetzt nicht sagen, daß die ganze algebraische Rechnung, wodurch heute zu Tage so viel in den mathematischen und anderen mit ihnen verwandten Wissenschafften gefunden wird, nach lauter förmlichen Schlüssen geschiehet, sondern nur weisen, wie der vorhin angeführte Lehr- [p. 101] Lehr-Satz aus der Geometrie nicht anders als durch dergleichen Schlüsse erfunden worden. Denn man setze, ich verlange zu wissen, wie groß die drey Winckel in einem Dreyecke 1, 2, 3 zusammen genommen sind. Die Erfindungs-Kunst bringet mir ins Gedächtniß: die Grösse der unbekandten Winckel muß durch Vergleichung mit Winckeln von bekandter Grösse determiniret werden. Mein Vorhaben giebet mir: die Grösse der Winckel 1, 2, 3 ist unbekandt. Also schliesse ich: die Grösse der Winckel 1, 2, 3 muß durch Vergleichung mit Winckeln von bekandter Grösse determiniret werden. Wenn ich mich nun dabey besinne, daß die Parallel-Linien Winckel von gleicher Grösse geben; so führet mich der vorige Schluß dazu, daß ich durch die Spitze des Triangels C mit der Grund-Linie AB die Linie DE parallel ziehe. Nun gehet das Schlüssen im Erfinden recht an. Die Figur lehret mich I und 1 sind Wechsels-Winckel an Parallel-Linien. Das Wort Wechsels-Winckel bringet mir ins Gedächtniß: alle Wechsels-Winckel an Parallel-Linien sind einander gleich. Aus diesen Förder-Sätzen, die mir ohne an den Hinter-Satz zu gedencken, bekandt sind, schliesse ich: die Winckel I und 1 sind einander gleich. Auf eben solche Art finde ich, daß die Winckel II und 2 einander gleich sind. Die Figur lehret mich ferner: Daß die Winckel [p. 102] I, 3. II. an einem Puncte C über einer Linie DE stehen. Dieses bringet mir ins Gedächtniß: alle Winckel, die an einem Puncte über einer Linie stehen, machen 180°. Also schliesse ich: die Winckel I, 3 und II machen 180°. Nun sehe ich aus dem, was ich bereits gefunden, daß die Winckel I und 1, ingleichen II und 2 einander gleich sind. Das Wort *gleich* erinnert mich: gleiche Winckel können in die Stelle gleicher gesetzet werden ohne Veränderung ihrer Grösse. Derowegen schliesse ich: der Winckel 1 kan in die Stelle vor I, und 2 in die Stelle vor II gesetzet werden. Thue ich dieses; so kommt heraus: die drey Winckel im Dreyecke 1, 2, 3 machen zusammen 180° aus. Wer will nun wiedersprechen, daß einem die Förder-Sätze eher bekandt seyn können als der Hinter-Satz, und daß einem beyde zugleich einfallen und man daraus den Hinter-Satz schliesse? Demnach sind die förmliche Schlüsse allerdings ein Mittel, dadurch wir die Wahrheit erfinden. Und wenn wir uns in acht nehmen, daß wir hier keine Fehltritt thun; so werden wir auch niemahls in Irrthum verfallen. Daß aber auch ausser der Mathematick auf solche Art verfahren wird, werden die beyden folgenden Capitel zeigen.
+
+[*Durch förmliche Schlüsse gelanget man zu geometrischen Demonstrationen.*]
+
+§. 25. Nun muß ich auch zeigen, wie mich die förmlichen Schlüsse dazu bringen, wenn ich etwas ausser der Mathematick auf mathematische Weise vortragen will. z. E. Ich soll auf geometrische Art erweisen, daß die Luft eine ausdehnende Kraft habe: welchen Satz ich aus der Erfahrung gelernet. Nemlich, wenn ich ein wenig Luft in einer Blase fest verbinde, daß sie nicht heraus kan, dieselbe unter eine gläserne Glocke hänge und die äusserste Luft wegpumpe; so dehnet die eingeschlossene die Blase aus, nicht anders als wenn sie aufgeblasen würde. Sobald ich den Beweis in förmliche Schlüsse bringe, kan ich sehen, wie ich diese Lehre von der ausdehnenden Kraft der Luft nach geometrischer Art vortragen kan. Das Experiment giebet mir diesen Schluß an die Hand:
+
+[p. 103] [*man zu geometrischen Demonstrationen.*]
+
+thematische Weise vortragen will. z. E. Ich soll auf geometrische Art erweisen, daß die Luft eine ausdehnende Kraft habe: welchen Satz ich aus der Erfahrung gelernet. Nemlich, wenn ich ein wenig Luft in einer Blase fest verbinde, daß sie nicht heraus kan, dieselbe unter eine gläserne Glocke hänge und die äusserste Luft wegpumpe; so dehnet die eingeschlossene die Blase aus, nicht anders als wenn sie aufgeblasen würde. So bald ich den Beweis in förmliche Schlüsse bringe, kan ich sehen, wie ich diese Lehre von der ausdehnenden Kraft der Luft nach geometrischer Art vortragen kan. Das Experiment giebet mir diesen Schluß an die Hand:
+
+Was sich anfänget auszudehnen, wenn der Widerstand gehoben wird, das hat eine ausdehnende Kraft.
+
+Die Luft fänget sich an auszudehnen, wenn der Widerstand gehoben wird.
+
+Also hat sie eine ausdehnende Kraft.
+
+Der Ober-Satz muß durch einen neuen Schluß erwiesen werden, dessen Mittel-Glied die Erklärung der ausdehnenden Krafft ist. Wir nennen nemlich eine ausdehnende Kraft eine stete Bemühung sich auszudehnen. Derowegen schliesset man nun ferner also:
+
+Was in steter Bemühung ist sich auszudehnen, hat eine ausdehnende Kraft.
+
+Was sich anfänget auszudehnen, wenn [p. 104] der Widerstand gehoben wird, ist in steter Bemühung sich auszudehnen.
+
+Also, was sich anfänget auszudehnen, wenn der Widerstand gehoben wird, hat eine ausdehnende Krafft.
+
+Der Ober-Satz ist eine Erklärung und kan also nicht weiter erwiesen werden. Der Unter-Satz lässet sich zwar noch weiter beweisen: jedoch weil er aus der Erfahrung bekandt genung ist und der Beweiß einen zu lange aufhalten würde, kan man nach dem Exempel des Euclidis ihn ohne Beweiß als einen Grund-Satz annehmen.
+
+Was eine Blase ausdehnet, wenn der Widerstand gehoben wird, das muß sich auch selber ausdehnen.
+
+Die Luft dehnet die Blase aus, wenn der Widerstand gehoben wird.
+
+Also muß sich die Luft auch selber ausdehnen, so bald der Widerstand gehoben wird.
+
+Der Ober-Satz kan eben wie vorhin der Unter-Satz als ein Grund-Satz ohne Beweiß nach dem Exempel Euclidis angenommen werden. Der Unter-Satz ist die Erfahrung. Und also haben wir alle Materie zu einem mathematischen Beweise. Es wird aber nach Anleitung der gemachten Schlüsse der Vortrag also geschehen müssen.
+
+Erklä-
+
+[p. 105]
+
+## Erklärung.
+
+1. Eine ausdehnende Krafft ist eine stete Bemühung sich auszudehnen.
+
+### Anmerckung.
+
+2. Wenn ein Degen gekrümmet wird; so fühlet man es an der Hand, daß er stets zurücke drucket, und sich bemühet wieder in die Länge zu springen. In Ansehung dieser Bemühung eignen wir ihm eine ausdehnende Krafft zu.
+
+### Der 1. Grund-Satz.
+
+3. Was sich anfänget auszudehnen, wenn der Widerstand gehoben wird, ist in steter Bemühung sich auszudehnen.
+
+### Anmerckung.
+
+4. Dieses zeiget das Exempel des Degens, welches vorhin (§ 2.) angeführet worden.
+
+### Der 2. Grund-Satz.
+
+5. Was eine Blase ausdehnet, wenn der Widerstand gehoben wird, muß sich auch selbst innerhalb derselben ausdehnen.
+
+### Erfahrung.
+
+6. Wenn man ein wenig Luft in die Blase lässet, sie vest verbindet, daß nichts davon heraus kan, alsdenn unter einer gläsernen Glocke aufhänget, und die äussere Luft wegpumpet; so dehnet die Lufft die Blase aus.
+
+### Zusatz.
+
+7. Da die innere Luft die Blase ausdehnet, wenn die äussere weggepumpet wird; so muß die äussere Luft hindern, daß die innere die Blase nicht ausdehnen kan: folgends
+
+Dehnet [p. 106] dehnet die innere Luft die Blase aus, so bald der Widerstand gehoben wird.
+
+### Lehr-Satz.
+
+8. Die Luft hat eine ausdehnende Kraft.
+
+### Beweiß.
+
+Die Luft dehnet die Blase aus, darinnen sie verschlossen, so bald der Widerstand gehoben wird (§. 7.); also muß sie sich auch selbst innerhalb derselben ausdehnen (§. 5.). Da sie nun in steter Bemühung ist sich auszudehnen (§. 3.): so hat sie eine ausdehnende Kraft (§. 1.). W. z. E.
+
+Da ich in allen Theilen der Welt-Weisheit aus richtigen Erklärungen und Erfahrungen die Sätze, welche ich behaupte, in einer beständigen Verknüpfung mit einander beweise; so kan man mit leichter Mühe daraus noch mehrere Exempel auf diese Art einrichten, wenn man Lust hat sich in Demonstriren zu üben.
+
+[*Durch förmliche Schlüsse widerstehet man allen Irrthümern.*]
+
+§. 26. Daß man endlich durch Hülffe der förmlichen Schlüsse allen Irrthümern widerstehen und gar leicht finden kan, woran es fehle, kan gantz deutlich erwiesen werden. Denn wenn ich den Beweiß in förmliche Schlüsse bringe, sehe ich bald, ob einer recht schliesset oder nicht; ob er einige Sätze unbewiesen annimmet, die man ihm nicht unbewiesen zugeben kan; ob er nicht deutlich genug seine Wörter erkläre; ob er sich endlich auf unrichtige Erfahrung gründe.
+
+[p. 107] [*Man muß in Discursen die Schlüsse nicht gantz anführen.*]
+
+§. 27. Unerachtet ich aber den Nutzen der förmlichen Schlüsse gepriesen, wie sichs gebühret; so ist doch keinesweges die Meinung, als wenn man sie überall nach der Reihe hinsetzen solte. Denn dieses käme etwas pedantisch heraus. Es ist genung, daß nichts gesetzet wird, als was förmlich schliesset: die Förder-Sätze aber können nach Gutbefinden weggelassen werden, wenn man nur versichert ist, es sey in unserem Discurse etwas anzutreffen, dadurch sie dem Leser in das Gedächtniß können gebracht werden: wie es das vorhin gegebene Exempel (§. 25.) ausweiset, wenn man den aus vorher gesetzten Schlüssen verfertigten Beweiß erweget.
+
+[*Versteckte Schlüsse.*]
+
+§. 28. Unterweilen kommen auch versteckte Schlüsse vor, die entweder gar keine Forme zu haben, oder wider die Grund-Regeln (§. 10. 12.) zu verstossen scheinen. Dergleichen ist folgender:
+
+Die Tugend ist zu loben,
+
+Die Verschwiegenheit gehöret unter die Zahl der Tugenden.
+
+Also kan man von der Verschwiegenheit niemahls anders als gut sprechen.
+
+Denn man siehet leicht, daß in dem Unter- und Hinter-Satze nur gleichgültige Redens-Arten in die Stelle der gehörigen gesetzet werden und der Schluß in der That dieser ist:
+
+Die Tugend ist zu loben.
+
+Die Verschwiegenheit ist eine Tugend, [p. 108] Also ist die Verschwiegenheit zu loben.
+
+Ein Exempel von verstockten Schlüssen ist auch dieser Schluß:
+
+Die Tugend ist eine Fertigkeit seine Wohlfahrt zu befördern.
+Die Mäßigkeit ist eine Fertigkeit seine Wohlfahrt zu befördern.
+Also ist die Mäßigkeit eine Tugend.
+
+Denn er ist einerley mit diesem:
+
+Alle Fertigkeit seine Wohlfahrt zu befördern ist eine Tugend.
+Die Mäßigkeit ist eine Fertigkeit seine Wohlfahrt zu befördern.
+Also ist die Mäßigkeit eine Tugend:
+
+Es giebt gar vielerley Arten von versteckten Schlüssen, die ein in Schlüssen Geübter leicht erkennen kan, wenn er sie in ihre ordentliche Forme bringet.
+
+§. 29. Unterweilen hat es das Ansehen, als wenn man aus einem einigen Förder-Satze einen Hinter-Satz heraus brächte, welches eine *unmittelbahre Folge* genennet wird. z. E. Wenn ich sage:
+
+Das Dreyecke ist eine Figur.
+Also, wer das Dreyecke beschreibet, der beschreibet eine Figur:
+
+so hat es das Ansehen, als wenn ich aus einem Satze unmittelbahr einen andern heraus brächte. Allein man kan leicht sehen, daß man zu dem andern Satze unmöglich durch den ersten allein kommen kan, weil uns sonst [p. 109] sonst dadurch der andere einfallen müßte, wenn wir den ersten hören, welches doch aber nicht geschiehet. In einigen Fällen der unmittelbahren Folgen erhellet dieses noch deutlicher. z. E. Wenn ich sage:
+
+Ein jedes Thier empfindet.
+Also empfinden etliche Thiere;
+
+so ist dieses in der That ein verstümmelter Satz, da der Unter-Satz: etliche Thiere sind Thiere, ausgelassen wird. Und hierbey erinnere ich beyläuffig, daß der weggelassene Satz, ein leerer Satz ist (§. 13. c. 3.) und solchergestalt erhelle, wie man den Gebrauch der leeren Sätze in den Schlüssen nicht vermeiden könne. Wer viele Beweise ordentlich aus einander wickelt, dem werden noch mehrere dergleichen Exempel vorkommen, so wohl in der Mathematick, als aussser derselben. Damit es aber nicht auf einen Wort-Streit hinaus lauffe; so ist zu mercken, daß ich alsdenn sage, es folge ein Satz aus dem anderen, wenn es möglich ist, daß er mir einfället, so bald ich die anderen höre oder nur gedencke. Von diesen unmittelbahren Folgen handele ich in den Gedancken von GOtt, der Welt und der Seele des Menschen (§. 354. & seqq.) weitläufftiger, und in der lateinischen Logick handele ich sie noch umständlicher ab (§. 454. & seqq.).
+
+[p. 110]
+
+## Das 5. Capitel. Von der Erfahrung, und wie dadurch die Sätze gefunden werden.
+
+#### §. 1.
+
+[*Was wir erfahren.*]
+
+Wir erfahren alles dasjenige, was wir erkennen, wenn wir auf unsere Empfindungen acht haben. z. E. Ich sehe, daß, wenn ein Licht angezündet wird, alles um mich sichtbahr wird; daß das ausgeschüttete Wasser den Tisch naß machet; daß die Flamme des Lichtes das Papier anzündet, und so weiter. Alle dergleichen Erkäntniß wird Erfahrung genennet. Ein Urtheil, was vermöge einer Erfahrung formiret wird, nenne ich ein Grund-Urtheil, zum Unterscheide der andern, dazu man durch Schlüsse gelanget, und die ich Nach-Urtheile heisse.
+
+[*Pflicht dessen, der sich auf die Erfahrung beruffet.*]
+
+§. 2. Da wir nun nichts als einzele Dinge empfinden; so sind auch die Erfahrungen nichts als Sätze von einzelen Dingen. Derowegen wer sich auf die Erfahrung beruffet, ist billig gehalten, einen besonderen Fall anzuführen, es sey denn, daß die Erfahrung so beschaffen ist, daß sie entweder ein jeder gleich haben kan, wenn er sie verlanget, oder wenigstens sich bald drauf zu besinnen weiß, [p. 111] weiß, weil er sie vorhin selbst mehr als einmahl gehabt. Man erfordert aber dieses aus zweyerley Ursachen: einmal, damit man sehe, was einer vor Empfindungen gehabt, da er zu seiner Erfahrung gelanget: darnach, damit man sehen kan, wie einer nach Anleitung seiner Empfindungen seinen Satz formire. Und dieses ist höchst nöthig, denn wir finden, daß gar ofte Leute einander widersprechen, und doch beyde sich auf die Erfahrung beruffen.
+
+[*Erläuterung durch Exempel.*]
+
+§. 3. Ich will dieses alles durch Exempel erläutern. z. E. Wenn einer saget, er habe es aus der Erfahrung, daß die Luft schweer sey; so sind nicht gleich einem jeden die Empfindungen klar, die er gehabt, als er die Schweere der Luft erkandte. Derowegen ist nöthig, daß er einen besondern Fall anführe, da er die Schweere der Luft erkandt hat, als, daß er eine sehr grosse gläserne oder auch küpfferne Kugel durch Hülffe der Luft-Pumpe von der Luft auf das sorgfältigste ausgeleeret, nachdem dieselbe an den langen Arm einer Schnell-Wage gehänget, und alsdenn das Gewichte, welches zuvor mit ihm gleich inne gestanden, einen grossen Ausschlag gegeben. Denn dieses ist eigentlich zu reden die Erfahrung, der Satz aber: die Luft ist schweer, ist daraus geschlossen worden. Hingegen, wenn einer aus der Erfahrung annimmet: Das ausgeschüttete Wasser [p. 112] Wasser mache den Tisch naß; so wäre unnöthig, wenn er einen besonderen Fall hiervon anführen wolte. Denn weil es eine Sache ist, die sich täglich zuträget; so ist wohl niemand, der diese Erfahrung nicht vielmahl solte gehabt haben. Und wenn ja jemand seyn solte, der solches noch nicht gesehen; so kan er leicht Wasser auf den Tisch schütten, und sehen wie der Tisch davon naß wird.
+
+[*Wie die Erfahrungen zu unterscheiden von den Sätzen, die daraus geschlossen werden.*]
+
+§. 4. Es ist aber aus dem angeführten Exempel abzunehmen, daß nicht alle die Sätze, welche sie aus der Erfahrung geschlossen, von der Erfahrung unterscheiden, sondern gar öffters jene vor diese ausgeben. Und eben die, welche einander widersprechen und sich beyde auf die Erfahrung beruffen, setzen nicht ihre Erfahrungen, sondern ihre Sätze, die sie daraus gezogen, einander entgegen. Dieses aber solte billig nicht geschehen. Denn daß einer solche oder andere Empfindungen gehabt, kan er nicht erweisen, als durch Zeugen, wenn einige mit dabey gewesen, und also fordert er mit Recht, man solle ihm dieses glauben. Allein er kan nicht fordern, daß ich glaube, er habe richtig geschlossen: denn dieses kan nach den Regeln vernünfftig zu schliessen beurtheilet werden, weil nichts gewöhnlicher, als daß man durch die Erfahrung Sätze zu erschleichen suchet, wovon [p. 113] wovon ich in der Metaphysick (§. 529.) ein Exempel gegeben.
+
+[*Verschiedene Fälle der Erfahrungen.*]
+
+§. 5. Wir empfinden aber entweder die Sachen selbst mit ihren Eigenschaften, oder die Veränderungen, welche sie leiden, oder auch ihre Würckungen in andere. In dem ersten Falle formiren wir die Begriffe von den Dingen, die wir empfinden, wie bereits oben (cap. 1. §. 5. & seqq.) gezeiget worden, oder auch Sätze von ihren Eigenschaften, als daß die Luft eine ausdehnende Kraft habe: in dem andern Falle bekommen wir Sätze von den Veränderungen, welche einem Dinge zustossen können, als daß sich die Luft durch die Wärme ausbreiten lässet: endlich in dem dritten erlanget man Sätze von dem Vermögen, welches ein Ding in andere hat, als daß die Luft ausgeleerte halbe Kugeln feste zusammen drucket. Und auf solche Weise werden Grund-Urtheile gefunden (§. 1.).
+
+[*Wie die Eigenschaften der Sachen richtig zu erkennen.*]
+
+§. 6. Durch die Eigenschaften verstehe ich dasjenige, was seinen Grund im Wesen der Sache hat, oder ihr zukommet, weil es dieses Wesen oder auch diese Erklärung hat. z. E. Es ist eine Eigenschaft des Dreyeckes, daß es drey Winckel hat. Denn dieses kommet ihm deswegen zu, weil ein Dreyecke ein Raum ist, so in drey Linien eingeschlossen worden. Daher ist klar, daß eine Sache ihre Eigenschaften so lange behalten muß, als sie bleibet was sie ist. Derowegen [p. 114] damit wir nicht vor eine Eigenschaft der Sache halten, was doch keine ist; so müssen wir auf Mittel dencken, wie wir solches richtig ausmachen können. Dieses aber geschiehet auf vielerley Weise. Zuförderst ist hier zu wiederhohlen, was bereits oben bey den Wort-Erklärungen (§. 42. c. 1.) beygebracht worden. Nemlich es stehet unterweilen in unserer Gewalt, daß wir die Dinge, deren Eigenschaften wir erkennen wollen, von andern, die um sie sind, wegnehmen und an einen andern Ort hinbringen, da sie ganz andere Dinge, als vorhin um sich haben. Und daraus kan man abnehmen, ob der Grund, warum einem Dinge etwas zukommet, ausser ihm zu suchen sey, oder nicht. Z. E. Ich finde Wachs in der Sonne, oder sonst im Warmen liegen, und es ist weich. Ich setze, es sey mir noch nicht bekandt, ob das Wachs immer weich sey, oder nicht; so nehme ich es, und lege es an einen kalten Ort, etwan in einen Keller, und finde, daß es daselbst harte wird. Dabey entsinne ich mich, daß dieses keine Eigenschaft sey, was eine Sache nicht beständig behält, und daraus schliesse ich (§. 16. c. 4.), es sey die Weiche eben keine Eigenschaft des Wachses: wenn es demnach weich ist, sey die Ursache in anderen Dingen zu suchen, die um dasselbe sind, als in unserem Falle in den Sonnen-Strahlen, [p. 115] die es bescheinen. Hingegen einen Stein mag ich hinbringen, wo ich will; so bleibet er harte, so lange er ein Stein verbleibet Da er nun die Härte beständig behält, und mir einfället, daß dieses Eigenschaften sind, die einer Sache beständig zukommen; so schliesse ich, daß die Härte eine Eigenschaft des Steines sey (§. cit.).
+
+[*Der andere Weg.*]
+
+§. 7. Wenn uns nicht erlaubt ist die Sache an einen anderen Ort zu bringen; so geben wir nur acht, ob sie zu anderer Zeit, wenn sie sich unter anderen Umständen befindet, eben noch dieses an sich habe, was sie zuvor hatte. Z. E. Einer siehet, daß die auf- und untergehende Sonne oval ist. Wenn er aber wartet, biß sie über den Horizont weiter heraufsteiget; so verlieret sich die Oval-Figur und scheinet beständig rundt. Daraus schliesse ich, daß die Oval-Figur, welche die Sonne im Horizont hat, ihr nicht eigenthümlich sey: massen eben zu der Zeit, da sie bey uns im Horizont ist, dieselbe an einem anderen Orte über dem Kopffe stehet, und wenn sie bey uns der Scheitel nahe kommet, an einem andern Orte im Horizont gesehen wird, wie aus der Geographie zur Gnüge klar ist. Eben so ist es beschaffen, wenn ich im Warmen das Wachs weich, ein andermahl im Kühlen es harte befinde.
+
+[*Der dritte Weg.*]
+
+§. 8. Man kan auch durch vernünftige Schlüsse die Sache ausmachen. Nemlich wenn [p. 116] man suchet deutliche Begriffe sowohl von der Eigenschaft, von welcher die Frage ist, als von denen Dingen, unter welchen sich die Sache befindet (§. 19. c. 1.). Denn wenn ich diese Begriffe gegen einander halte; so werde ich leicht sehen, ob die Dinge, unter welchen sich die Sache befindet, darzu etwas beytragen können, oder nicht. Ich werde nemlich finden, ob der Grund, warum einer Sache etwas zukommet, in ihr anzutreffen ist, oder ob er in andern Dingen, die um sie sind, zu suchen sey. Und dörffen wir öfters nur einen deutlichen Begriff von der Eigenschaft und der Sache suchen, deren diese Eigenschaft ist; so können wir gleich erkennen, was wir verlangen. Z. E. Ich finde, daß sich das Holtz spalten lässet. Nun bedencke ich, was spalten sey, nemlich wenn ich nach der Länge ein Messer, oder einen Keil hinein treibe; so gehet das Holtz weiter von einander, als das Messer oder der Keil hinein gedrungen. Betrachte ich nun das Holtz; so finde ich, daß es nach der Länge aus lauter Fäsichen zusammen gesetzet ist. Und also sehe ich bald, daß die Ursache, warum sich das Holtz spalten lässet, in dem Holtze anzutreffen, folgends dieses eine Eigenschaft des Holtzes sey. Meistentheils braucht es nicht viel Nachsinnen solches auszumachen, sondern man siehet gleich vor sich, daß die Ursache, warum einer Sache dieses zukomme, [p. 117] nicht in den nebenstehenden Dingen zu suchen sey. Dergleichen ist die Schweere der Cörper und die ausdehnende Kraft der Luft. Von beyden erkennet man, daß andere umstehende Dinge, die zugleich mit ihnen in die Augen fallen, oder durch andere Sinnen erreichet werden, nichts dazu beytragen. Doch können sich unterweilen Fälle ereignen, da die gegebenen Regeln nöthig sind.
+
+[*Wenn man die Ursachen der Veränderungen erfähret.*]
+
+§. 9. Wenn ein Ding in einem andern eine Veränderung verursachet und die Veränderung entstehet so bald das eine zu dem andern kommet, oder ein Cörper mit dem andern vermischet wird, so ist kein Zweiffel, daß nicht das eine die Ursache der Veränderung in dem andern sey. Z.E. Wenn ich in heissen Sommer-Tagen Wachs in die Sonne lege, und es fänget an zu schmeltzen; so ist kein Zweiffel, daß die Sonne das Wachs geschmoltzen hat. Wiederum wenn ich Vitriol-Oele mit Wasser vermische, und werffe Feilstaub darein, und der Feilstaub fänget an aufgelöset zu werden, Blasen zu werffen, und einen schwefelichten Dampf von sich zu geben; so ist kein Zweiffel, daß das Vitriol-Oele diese Veränderung in dem Feilstaube verursache. Eben so wenn Cajus in einer Gesellschafft etwas erzehlet, und Titius ändert gleich seine Gestalt, wie einer, dem etwas zuwider ist; so ist kein Zweiffel, daß Caji Worte an den verdrießlichen Minen [p. 118] und Geberden des Titii Ursache seyn. Also erkennet man, daß die Luft durch die Wärme ausgedehnet wird (§. 133. T. I. Exper.), daß die Täucherlein von dem Drucken im Wasser niedersteigen (§. 17. T II. Exper.).
+
+[*Vorsicht, die dabey zu gebrauchen.*]
+
+§. 10. Damit man nun aber gewiß werde, ob ein Ding allein von der Veränderung des andern Ursache sey, oder nicht; so muß man mit Fleiß untersuchen, ob nicht etwan entweder eines von beyden, oder auch wohl beyde zusammen schon vorhin eine Veränderung erlitten, ohne welche die andere nimmermehr erfolget wäre: ja auch wohl noch gar etwas anders mit zu der Veränderung etwas beytrage. Ich will ein Exempel aus meiner eigenen Erfahrung anführen. Es ist bekandt, daß, wenn man Späne von Brasilien-Holtze in Wasser wirfft, sich eine schöne rothe Farbe heraus ziehe Als ich aber ein Glas nahm, darinnen vor einiger Zeit Feilstaub mit Vitriol-Oele war aufgelöset worden, und dasselbe mit reinem Wasser ausschweiffete, alsdenn frisches von neuen hinein goß, und Späne von Brasilien-Holtze hinein warf; so zog sich nicht eine rothe, sondern bey nahe eine Violet-blaue Farbe heraus. Also kam hier eine ungewöhnliche Veränderung des Wassers, weil es schon vorher einige Veränderung erlitten hatte von den an sich angezogenen Theilchen des durch Vitriol-Oele aufgelöseten Feilstaubes, die sich [p. 119] an das Glas angehänget. Eben so kan es geschehen, daß Titius über die Rede des Caji verdrießlich wird, entweder weil er schon vorher widrige Gedancken in seinem Kopfe hat, und daher empfindlicher ist, als er sonst seyn würde, oder weil jemand in der Gesellschaft zugegen ist, den er nicht will wissen lassen, was Cajus erzehlet, oder auch wohl aus noch anderen Ursachen. Derowegen ist nun nöthig, daß man den Zustand der Dinge wohl untersuchet: wozu die besonderen Umstände in jedem Falle leicht Mittel und Wege an die Hand geben werden, wenn einer im Nachdencken geübet ist. Auch wird hier öfters darauf zu sehen seyn, daß man sowohl die Kräfte der Dinge, von welchen die Veränderung herrühret, als auch die Grösse der Veränderung auf das genaueste abzumessen sich bemühe: welches aber eine Arbeit bloß vor diejenigen ist, welche es in der Mathematick sehr hoch gebracht haben. Denn wenn ich finde, daß die Würckung eben so groß sey, als das Vermögen der Krafft; so darf ich nicht zweiffeln, daß sie von ihr allein herrühre. Exempel hiervon findet man in meinen Elementis Aërometriæ, die besonders heraus kommen, und auch im lateinischen Wercke von der gesammten Mathematick zu finden. Man trifft ferner dergleichen Exempel in allen drey Theilen der nützlichen Versuche an, wodurch zur Erkäntniß der Natur und Kunst [p. 120] Kunst der Weg gebahnet wird, als wo ich die Mathematick so weit angebracht, als diejenigen begreiffen können, welche bloß die Arithmetick und die gemeine Geometrie verstehen.
+
+[*Was zu thun, wenn zwey Dinge stets mit einander verknüpfet sind.*]
+
+§. 11. Unterweilen nehmen wir eine Veränderung wahr; aber diejenigen Dinge, welche sie verursachen, sind uns verborgen. Wir sehen aber, daß die Veränderung mit etwas anderem entweder beständig, oder sehr ofte verknüpfet ist, oder auch eines auf das andere folget. Z. E. Wir sehen alle die Veränderungen des Wetters; aber die Ursachen davon fallen nicht zugleich mit in unsere Sinnen. Doch diejenigen, welche das Wetter mit dem Calender vergleichen, finden, daß öfters mit gewissen Abwechslungen des Mond-Lichtes, und mit gewissen Aspecten der Planeten unter einander, einerley Witterung verknüpfet ist. Doch muß man sich hüten, daß man deswegen nicht gleich eines für des andern Ursache hält. Z. E. Ich muß nicht schliessen: jenen Tag hat es geregnet, den Tag hat es geregnet, heute regnet es. Jenen Tag war dieser Aspect, heute ist dieser Aspect. Derowegen ist der Aspect Ursache an dem Regen-Wetter. Denn es können auch zwey Dinge immer mit einander verknüpfet seyn, entweder weil sie einerley Ursache haben, oder auch beyde öfters geschehen. Z. E. Daß die Frösche im Frühlinge [p. 121] linge wieder anfangen zu quacken und die Bäume auszuschlagen, hat einerley Ursache, nemlich weil die Luft wieder warm wird. Derowegen ist das Quacken der Frösche und das Ausschlagen der Bäume stets mit einander verknüpfet. Wer wolte aber deswegen schliessen, daß die Frösche durch ihr Quacken die Blätter aus den Bäumen heraus treiben? Eben so ist der Nachtwächter allzeit auf der Gasse, wenn des Nachts eine Feuers-Brunst entstehet, oder einer todt gestochen wird. Wer wollte aber deswegen schliessen, daß der Nachtwächter durch seine Verweilung auf der Gasse an der Feuers-Brunst, oder auch dem Todtschlage Ursache sey? Laß es demnach hundertmal regnen, und immer einerley Aspect seyn; so kan durch keinen vernünftigen Schluß heraus gebracht werden, daß die Aspecten den Regen verursachet. Doch ist dieser Schluß richtig: wenn zwey Dinge öfters mit einander verknüpfet sind, und ich finde, es geschiehet einmahl das eine, und das andere nicht, es ist aber nichts vorhanden, welches die Würckung des ersteren hätte hindern können; so kan das erstere unmüglich die Ursache des andern seyn: welches auch noch leichter geschlossen wird, wenn das geschiehet, welches man vor die Würckung des andern hält, und doch sich das andere nicht zugegen findet. Z. E. Ich sehe, daß ein Aspect [p. 122] nicht könne eine gewisse Art von dem Wetter gemacht haben, weil eben dergleichen Wetter ist, wenn gar kein dergleichen, ja gar kein anderer Aspect vorhanden.
+
+[*Sorgfalt, so bey Erfahrungen nöthig.*]
+
+§. 12. Es ist aber sehr nöthig, daß ein jeder, welcher aus der Erfahrung klug werden will, alle seine Erfahrungen, die nicht täglich vorkommen, mit Bedacht aufschreibe, auch sie nach allen ihren Umständen fleißig untersuche. Absonderlich wenn wir nach unserem Gefallen Dinge in der Natur zusammen gebracht, die sonst nicht würden zu einander kommen seyn, das ist, wenn wir experimentiren, können wir uns um so viel mehr versichern, daß wir alle Bedingungen, unter welchen etwas geschiehet, auf das genaueste in acht genommen, wenn wir unser Experiment zu einer andern Zeit wiederhohlen oder auch von anderen wiederhohlen lassen. Exempel hiervon findet man in meinen Versuchen, wodurch ich zur Erkäntniß der Natur und Kunst den Weg bahne.
+
+[*Wie die Untersuchungen der Experimente anzustellen.*]
+
+§. 13. Wenn in einem Experimente viele Dinge zusammen kommen; so ist nützlich, daß man anfangs ins besondere eines jeden Eigenschaften untersuchet, nachdem man je zwey und zwey zusammen nimmet, um zu sehen, was daraus erfolget, und endlich alle zusammen setzet; so wird man finden, ob etwas als eine Ursache einer Würckung mit angegeben worden, so nicht dazu nöthig ist, und zugleich [p. 123] zugleich erkennen, was jedes davon zu der Sache beyträget. Z. E. Das Pulver wird aus Schwefel, Kohlen und Salpeter gemachet. Will ich nun erfahren, ob diese drey Sachen alle zum Pulver nöthig sind, und was denn jede von ihnen zu der Würckung des Pulvers beytrage; so muß man zuerst untersuchen, wie sich Schwefel, Kohlen und Salpeter bey dem Feuer allein verhalten. Nach diesem mische ich Schwefel und Kohlen, Schwefel und Salpeter, Salpeter und Kohlen unter einander und gebe acht, was diese Mixturen vermögen. Endlich nehme ich alle drey zusammen, und befinde, wie ich in meinen Anfangs-Gründen von der Artillerie gezeiget, daß alle drey Sachen zum Pulver nothwendig erfordert werden, und was jedes zu der Würckung des Pulvers beytrage, nemlich die Kohle fänget das Feuer und schmelzet den Schwefel und Salpeter, die Schwefel-Flamme machet, daß der Salpeter-Dampf in einer Flamme aufgehen kan, und der Salpeter dienet zur gewaltsamen Ausbreitung des entzündeten Pulvers.
+
+[*Wie der Betrug der Sinnen zu vermeiden.*]
+
+§. 14. Es ist hier nicht zu vergessen, daß öfters die Sachen ganz anders beschaffen sind, als sie uns vorkommen. Derowegen müssen wir uns in acht nehmen, daß wir nicht gleich urtheilen, die Sachen seyn so beschaffen, wie sie uns in die Sinnen fallen. Denn [p. 124] Denn hieraus sind unzehlich viel Vorurtheile und Irrthümer entstanden, welche den Fortgang der Wissenschaften gehindert, und von den Gelehrten um so viel eifriger vertheidiget worden, weil sie ihrer Meinung durch die Erfahrung ganz gewiß zu seyn vermeinet. So bilden sich die meisten ein, die Erde sey mitten in der Welt, und das einige Haus, welches von vernünftigen Creaturen bewohnet wird; der Himmel sey die Decke darüber, und die Sonne mit allen Sternen bewege sich innerhalb 24. Stunden um dieselbe: weil dieses alles ihren Augen so vorkommet. Derowegen ist sehr dienlich, daß wir lernen, nach was vor Gesetzen sich die Vorstellung der Dinge in unseren Sinnen richten: in welcher Absicht sonderlich eine genaue Erkäntniß der Optischen Wissenschaften und Künste, auch der Astronomie nöthig ist. Es kan aber die Experimental-Philosophie ein grosses hierzu beytragen, welche ich in meinen vorhin (§. 12.) angeführten Versuchen gründlich abhandele.
+
+[*Wie durch die Erfahrung allgemeine Sätze erlanget werden.*]
+
+§. 15. Unerachtet aber die Erfahrungen vor und an sich selbst nichts als Sätze von einzelen Dingen sind (§. 3.); so können wir doch dieselbe gar leicht in allgemeine Sätze verwandeln, wenn wir nur alle Umstände, unter welchen etwas geschehen ist, genau gemercket (§. 5. c. 3.). Denn alle Dinge in der Natur haben ihre Würckungen und leiden [p. 125] leiden ihre Veränderungen um ihres Wesens und der Umstände willen, darinnen sie sich befinden. Daher, so lange sie einerley Wesen haben und sich in gleichen Umständen befinden, müssen sie auch theils einerley Würckungen haben, theils einerley Veränderungen leiden. Also, wenn ich erfahre, daß aus einem Spring-Brunnen die zusammen gedruckte Luft das Wasser heraus getrieben; so darf ich nicht zweiffeln, daß, wenn ein anderer dergleichen Spring-Brunnen gemacht und die Luft darinnen zusammen gedruckt wird, das Wasser gleichfalls von ihr werde heraus getrieben werden. Eben so, wenn ich einmahl erfahren, daß die Versicherung von dem gegenwärtigen Guten Freude machet; darf ich im geringsten nicht zweiffeln, es werde dergleichen Versicherung auch in anderen Fällen Freude erwecken. Denn wenn einer aus Unbedacht Exempel darwieder einwenden wollte; so würde man ihm bald zeigen können, daß in denselben keine Überführung von dem gegenwärtigen Guten zugegen gewesen, sondern noch bald dieser, bald jener Zweiffel statt gefunden. Wer meine vorhin (§. 12.) angeführte Versuche durchgehet, der wird zur Gnüge ersehen, wie man allgemeine Wahrheiten vermittelst der Erfahrung erkennen kan.
+
+[p. 126]
+
+## Das 6. Capitel. Von Erfindung der Sä-ße aus den Erklärungen und von Auflösung der Aufgaben.
+
+**§. 1.**
+
+[*Wie Grund- und Heische Sätze gefunden werden.*]
+
+Die Grund- und Heische-Sätze werden aus einer Erklärung hergeleitet (§. 13. c. 3.). Derowegen ist hier weiter nichts vonnöthen, als daß wir uns bemühen von demjenigen, was in den Erklärungen enthalten ist, deutliche Begriffe zu suchen, und sie so wohl in sich zu betrachten, als gegen einander zu halten. z. E. Wenn ich die Erklärung der Freude vor mich nehme, daß sie sey ein Affect, der in uns entstehet, wenn wir von dem gegenwärtigen Guten überführet zu seyn vermeinen; so können wir den Begriff des gegenwärtigen Guten und der gemeinten Überführung untersuchen. Da ich nun z. E. aus der Erklärung sehe, wer erkennen lernet, daß er noch nicht überführet sey, dessen Freude werde gestöhret, und im Nachdencken finde, wer vermeinet überführet zu seyn und nicht ist, der könne erkennen, daß er noch bey weitem nicht überführet sey; so schliesse ich gleich aus der Erklärung (§. 16. c.4.): Wer vermeinet von dem gegenwärtigen Guten überführet zu seyn und nicht ist, dessen [p. 127] Freude könne gestöhret werden. Solchergestalt ist folgender Grund-Satz klar: *Wer von dem gegenwärtigen Guten nicht würcklich überführet ist, dessen Freude kan gestöhret werden.* Ingleichen ist dieser Heische-Satz klar: *Wenn man einen, der von dem gegenwärtigen Guten nicht würcklich überführet ist, zweiffelhafft machet; so kan man seine Freude unterbrechen.*
+
+[*Warum diese Sätze keinen Beweiß erfordern.*]
+
+§. 2. Da nun ein jeder die Richtigkeit dieser Sätze bald erkennen kan, wenn man den Erklärungen nachdencket; so ist nicht nöthig, daß man erst dazu einen Beweiß setze. Und demnach pfleget man von ihnen zu sagen: sie erfordern keinen Beweiß, sie sind vor sich selbst klar, nemlich so bald man die Erklärung verstehet, daraus sie vermittelst eines Schlusses gezogen werden. Sonst ist nicht zu läugnen, daß, wenn man ganz genau verfahren wolte, auch ein, ob zwar nicht weitläuftiger Beweiß beygefüget werden könte. Allein wenn man es gar zu genau nehmen will, fället man denen beschwerlich, welche in genauen Beweisen nicht sonderlich, oder auch wohl gar nicht geübet sind. Dergleichen aber sind die meisten.
+
+[*Wie die Lehr-Sätze gefunden werden.*]
+
+§. 3. Die Lehr-Sätze werden gefunden, wenn man verschiedene Erklärungen gegen einander hält (§. 14. c. 3.). Dieses aber geschiehet, wenn man so wohl von allem demjenigen, was in den Erklärungen enthalten ist, [p. 128] ist, deutliche Begriffe suchet, als auch alles, was man entweder aus der Erfahrung von diesen Dingen erkandt hat, deren Erklärungen gegeben werden, oder auch, was von ihnen vorher ist erwiesen worden, sich ordentlich vorstellet. Denn solchergestalt wird es sich bald geben, was man neues daraus schliessen könne. z. E. Die Freude ist ein Affect, welcher in uns erreget wird, wenn wir vermeinen von dem gegenwärtigen Guten überführet zu seyn. Die Traurigkeit aber ist ein Affect, welcher in uns sich äussert, wenn wir vermeinen von dem gegenwärtigen Übel überführet zu seyn. Aus der Erklärung der Freude sehe ich: wer sich freuet, darf von dem gegenwärtigen Guten nicht würcklich überführet seyn. Hierbey fället mir ein: Wer nicht würcklich von dem gegenwärtigen Guten überführet ist, der kan das Böse für gut halten. Und also schliesse ich (§. 16. c. 4.): wer sich freuet, kan das gegenwärtige Übel für gut ansehen. Da mir nun ferner einfället: wer das gegenwärtige Übel für gut ansiehet, kan überführet werden, daß es ein Übel sey, was er für gut hält; so schliesse ich ferner: wer sich freuet, kan überführet werden, daß es ein Übel sey, was er für gut hält. Ich bedencke weiter: wer überführet wird, das sey ein Übel, was er für gut hält, der wird traurig, vermöge der Erklärung der Traurigkeit. Und daher schliesse ich: wer sich freuet, kan traurig werden. Auf solche Weise [p. 129] giebet sich dieser Lehr-Satz: wenn man einen, der sich über etwas freuet, überführen kan, was er für gut hält, habe er vielmehr vor ein Übel zu achten, dessen Freude werde in Traurigkeit verkehret. Es ist aber nicht nöthig, daß, wenn man Lehr-Sätze finden will, man allezeit von Erklärungen den Anfang mache: denn man darf nur Sätze annehmen, die vorhin entweder aus Erklärungen, oder aus der Erfahrung hergeleitet worden. In allen Theilen, die ich von der Welt-Weisheit geschrieben, bringe ich die meisten Sätze auf eine solche Art heraus, und wer die mathematischen Schriften, sonderlich meine lateinische Anfangs-Gründe der gesammten mathematischen Wissenschaften auf eine solche Art durchgehet, wie ich in der Ratione Praelectionum sect. 1. c. 2. §. 38. angewiesen, der wird finden, daß auch daselbst die Sätze auf eben diese Art sich aus einander herleiten lassen.
+
+[*Wie man das Vermögen Lehr-Sätze zu erfinden erlanget.*]
+
+§. 4. Wer zu einer Hurtigkeit in Erfindung der Lehr-Sätze zu gelangen gedencket; muß von solchen Erklärungen den Anfang machen, die wenig in sich fassen, und daraus solche Lehr-Sätze fliessen, derer Richtigkeit man bald probiren kan. Denn wenn die Erklärungen wenig in sich fassen, sind sie viel leichter zu überlegen, als wenn viel in ihnen enthalten. Und wenn man die Richtigkeit der gefundenen Lehr-Sätze bald probiren kan; [p. 130] kan; so erhellet, ob wir in unserem Nachsinnen richtige Schlüsse gemachet haben, oder nicht. Nun finden wir keine Erklärungen, denen die erforderten Eigenschaften besser zukämen, als in der Rechen-Kunst und der Geometrie. Derowegen solten billig von diesen beyden Disciplinen den Anfang machen, welche sich im Erfinden zu üben gedencken. Wolte jemand meine lateinische Mathematick auf die angewiesene Art (§. 3.) durchgehen, und nach diesem die zur Welt-Weisheit gehörige von mir heraus gegebene Schriften hinzu setzen, der würde es in dieser Übung weiter bringen, als er wohl anfangs nicht vermeinete. Es will aber alles Zeit haben und muß man sich nicht zu übereilen suchen.
+
+[*Wie wir auf die Aufgaben kommen.*]
+
+§. 5. Wer eine Aufgabe auflösen soll, der soll finden, wie etwas geschehen könne, oder wie es könne gethan und gemacht werden (§. 12. 14. c. 3). Also wird uns allezeit eine Würckung als bekandt voraus gesetzet. Wir gelangen aber zu dieser Erkäntniß auf vielerley Weise. Denn entweder wir nehmen nach Anleitung anderer Gedancken eine Würckung als möglich an, unerachtet wir noch nicht gewiß wissen, ob sie möglich sey oder nicht, sondern es erst finden wollen, oder wir pflegen auch zuweilen eine Würckung aus anderen erkandten Wahrheiten herzuleiten, [p. 131] leiten, oder wir nehmen sie durch die Erfahrung wahr.
+
+[*Erste Art die Aufgaben aufzulösen.*]
+
+§. 6. Wenn man eine Würckung nach Gefallen annimmet; so muß man ihren Begrif untersuchen, damit man inne werde, was dazu erfordert werde. Alsdenn muß man sich auf alles besinnen, was uns von dergleichen Dingen bekandt ist, damit wir sehen, ob uns etwas vorkommet, davon diese Würckung herrühren kan. z. E. Man nimmet in der Sitten-Lehre an, es solle bey einem Menschen ein Vertrauen auf GOtt erreget werden. Wenn ich nun untersuche, was das Vertrauen auf GOtt sey; so finde ich, es entstehe aus einer Überführung, daß GOtt wisse, wie zu helffen sey, daß er helffen könne und auch wolle. Derowegen besinne ich mich auf dasjenige, was ich von GOtt weiß und finde unter andern, er sey allwissend und weise, mächtig und gütig. Hierbey fället mir ein: wer allwissend und allweise ist, der weiß zu helffen: wer allmächtig ist, der kan helffen: wer gütig ist, der wolle helffen. Und also schliesse ich daraus (§. 16. c. 4.): GOtt wisse zu helffen, könne und wolle helffen. Daraus sehe ich ohne Mühe: wenn man jemanden zu einem Vertrauen auf GOtt bringen will, muß man ihm einen deutlichen Begriff von GOttes Allwissenheit, Weisheit, Macht und Güte beybringen, und ihn von diesen Eigenschaften überführen. [p. 132] führen. In der Moral und Politick werden gar viele Aufgaben auf diese Art aufgelöset.
+
+[*Findet in der Mathematick sonderlich statt.*]
+§. 7. Hieher können auch die mathematischen Aufgaben gezogen werden, da man aus einigen nach Belieben angenommenen Zahlen, oder auch Puncten und Linien, andere zu finden verlanget. In welchen Fällen man die deutlichen Begriffe von den gegebenen Zahlen, und von der Beschaffenheit der gegebenen Puncte und Linien untersuchet, oder auch, was man sonst von ihnen deutlich erkandt, sich wohl bedächtig vorstellet. Denn so wird sich entweder die Auflösung geben, oder wir werden finden, daß sie nicht in unserer Gewalt ist. z. E. Ich verlange zu wissen, wie ich aus der Summe zweyer Zahlen und ihrem Unterscheide die Zahlen selber finden kan. Hier überlege ich, daß die Summe entstehe, wenn man die beyden Zahlen zusammen addiret; ihr Unterscheid aber gefunden werde, wenn ich die kleine Zahl von der grossen abziehe. Daraus schliesse ich nun ferner: also bestehet die grosse Zahl aus der kleinem und dem Unterscheide; die Summe aus der kleinen zweymahl, und aus dem Unterscheide einmahl genommen. Da sehe ich bald, wenn der Unterscheid von der Summe abgezogen wird, bleibe die kleine zweymahl übrig. Folgends wenn das übrige halbiret wird, komme die kleine Zahl heraus. Und so [p. 133] so ist die Auflösung gefunden worden: α) von der Summe ziehet den Unterscheid ab: β) das Übrige dividiret durch 2; so kommet die kleine von den gesuchten Zahlen heraus. Der Beweiß stecket in den Gedancken, die uns zur Auflösung geführet. Derowegen unerachtet man solche Aufgaben viel leichter durch die Algebra aufzulösen pfleget; so ist doch die jetzt angeführte Manier nicht gantz zu verachten, sowohl weil man einen Beweiß dessen, was durch die Algebra heraus kommen, nach Art der Alten dadurch finden kan, als auch, weil Anfänger, die sich im Erfinden üben wollen, durch dergleichen Exempel einen guten Anfang machen können: wie ich vor diesem mit Nutzen selbst gethan, als ich um die Kunst zu erfinden bekümmert war. Wiewohl alsdenn niemanden zu rathen ist, daß er die vorgegebenen Aufgaben so ansehe, als wenn keine andere, mit denen sie verwandt sind vorhanden wären: denn sonst fället man auf Unwege, und bringet nicht die geschicktesten Auflösungen heraus. Derowegen muß einer von den leichtesten Aufgaben anfangen, zu den schweeren fortschreiten, in diesen aber zusehen, ob er sich nicht mit der vorhergehenden zu seiner Auflösung bedienen kan. Denn eben hierinnen ist diese Art der Überlegung von der algebraischen unterschieden, daß man in der Algebra die Aufgaben ausser der Verknüpfung mit anderen, [p. 134] deren, oder doch nur mit gar wenigen Wahrheiten ansiehet: hingegen hier muß man durch die Verknüpfung mit anderen die Auflösung heraus bringen. Derowegen kan man auf dem algebraischen Wege geschwinder weiter kommen. Die Alten sind den anderen gegangen, den ich hier beschreibe, und daher haben sie es nicht so weit wie die neuen Geometræ bringen können.
+
+[*Andere Art.*]
+§. 8. Wer dieses bedencket und zugleich erweget, was oben (§ 3.) von Erfindung der Lehr-Sätze bengebracht worden, wird ohne mein Erinnern begreiffen, daß die Auflösung vieler Aufgaben aus den Erklärungen und Lehr-Sätzen hergeleitet werde, ohne daß wir selbige zu finden den ausdrücklichen Vorsatz haben. Und dieses ist sich um so viel weniger zu verwundern, weil eine jede Aufgabe ohne Mühe in einen Lehr-Satz verwandelt wird. Denn machet die Auflösung zur Bedingung den Vortrag zu dem Satze; so habet ihr einen Lehr-Satz. z. E. Sprecht in dem kurtz vorhin (§. 7.) gegebenen Exempel: wenn man von der Summe den Unterscheid abziehet, und das übrige durch 2. dividiret, kommet die kleine Zahl heraus; so ist die Aufgabe in einen Lehr-Satz verkehret. In der Moral und Politick habe ich die Auflösung vieler, ja wohl der meisten Aufgaben auf eine solche Weise herausgebracht. z.E.
+
+[p. 135] Hieher gehöret, wie der Wille gebessert wird (§. 373. Mor.), welches ich aus der Natur des Willens heraus bringe: wie sich der Mensch bey Essen und Trincken aufführen soll, welches aus andern vorher erwiesenen Gründen hergeleitet wird (§. 484. Mor.); wie man die Kinder lehren soll mit Geld umgehen, welches durch einige in der Moral heraus gebrachte Gründe erfunden worden (§. 110. Polit.) Ja, die allgemeine Aufgabe, nach welcher ich gefunden, was von der Auferziehung der Kinder und der Einrichtung des gemeinen Wesens in der Politick (c. 3. part. 1. & c. 3. part. 2.) gelehret wird, habe ich auf diese Weise aufgelöset.
+
+[*Fälle der dritten Art.*]
+§. 9. Wenn einer eine Würckung der Natur oder der Kunst durch die Erfahrung erkennet; so ist er entweder gegenwärtig, wenn sie geschiehet, und giebet darauf acht, oder er ist gegenwärtig und giebet nicht acht darauf, oder er ist abwesend.
+
+[*Wie man die Ursachen einer Würckung erkennet.*]
+§. 10. In dem ersten Falle erkennet einer alle Ursachen, die zu einer Würckung etwas mit beytragen, wenn sie alle in die Sinnen fallen. Er erkennet einige davon, wenn nur einige in die Sinnen fallen. Er erkennet gar keine, wenn keine in die Sinnen fället. z. E. Wenn eine gantz wenig aufgeblasene, oben aber fest zugebundene Blase über ein Kohl-Feuer gehalten wird, bläset sie sich so gewaltig auf, daß sie endlich gar zerspringet.
+
+[p. 136] Hier nehme ich die Ursachen dieser seltsamen Würckungen alle mit meinen Augen wahr, nemlich das Kohl-Feuer und die in der Blase eingeschlossene Luft. Hingegen wenn ich eine Nadel an den Süder-Pol eines Magnetes hänge und mit dem Süder-Pol eines anderen Magnetes in die Nähe komme; so lauffet die Nadel vor ihm, nicht anders als wenn sie mit Gewalt weggeblasen würde, und ich sehe nichts, was sie forttreibet. Wenn wir nun gar keine Ursache mit unsern Sinnen begriffen, entweder weil sie nicht darein fallen, oder wir nicht darauf acht haben, oder auch nicht zugegen sind; so müssen wir wohl überlegen, wie die Sache beschaffen war, ehe sie die Veränderung erlitten, und wie sie nun beschaffen ist, nachdem sie dieselbe erlitten: denn daraus kan man abnehmen, was zu der gegebenen Veränderung erfordert wird, und ist demnach wenigstens so viel bekandt, es müssen solche Ursachen gewesen seyn, die dieses oder jenes haben thun können. Wenn wir nun alles durchgehen, was uns bekandt ist, und wir treffen solche Dinge an, die dergleichen zu thun vermögend sind, können auch erweisen, daß von ihnen allein, wenigstens in gegenwärtigem Falle, die Veränderung hat herrühren können; so haben wir nicht allein die Ursachen entdecket, sondern auch was sie zu der gegebenen Veränderung beytragen, und solchergestalt die Aufgabe völlig [p. 137] völlig aufgelöset. z.E. Ich sehe, die eiserne Nadel hänget anfangs an dem Magneten gerade herunter, wie es die Schweere erfordert. So bald ich aber mit dem andern Magneten darzu komme; so fänget sie an in die Höhe zu steigen, und sich in einer gegen den Horizont inclinirten Lage zu erhalten. Hier werde ich bald inne, es sey etwas nöthig, welches die Nadel in die Höhe hebet und in der Luft schwebend erhält, daß sie nicht zurücke fallen kan. Da nun aber kein fester Cörper vorhanden, dem diese Verrichtung könte beygeleget werden; so muß es ein flieſſender Strom seyn, der die Nadel hebet und nicht zurücke lässet, massen wir uns erinnern, daß, wenn wir einen festen Cörper an einer Schnure in den Fluß hinunter hangen lassen, der Strom ihn mitnimmet, so weit als es die Schnure zulässet. Ich finde ferner, daß die Nadel dem Pole des angehenden Magnetes gegen über getrieben wird, und daraus erkenne ich, daß eine subtile Materie aus den Polen des Magnetes sehr schnelle wie ein Strom heraus schiessen muß, und die Nadel mit sich forttreiben, solchergestalt, daß der Schuß dieses Stromes gewaltiger ist, als die Schweere der Nadel, aber doch geringer als die Kraft, wodurch die Nadel an dem anderen Magneten erhalten wird. Ich gebe in einer etwas schweeren Sache noch ein leichteres Exempel. Es hat einer ein Stücke [p. 138] Wachs auf dem Fenster liegen lassen. Er kommet wieder nach einigen Stunden dazu und siehet, daß es gantz breit worden ist, eine glatte und ebene Fläche bekommen hat, und an dem Fenster feste anklebet. Wenn ich mich nun aus der Erfahrung besinne, daß die geschmoltzene Materie in die Breite zerfliessen und eine ebene Fläche bekommen, auch, nachdem sie gerinnen, ihre breite Figur und Ebene behalten, über dieses sich an rauhe Cörper feste anhängen, mir aber auch zugleich einfället, daß das Wachs leichtschmeltze und bald wieder gerinnet; so erkenne ich, es müsse das Wachs auf dem Fenster geschmoltzen seyn (§. 16. c. 4.). Nun finde ich, daß die Mittags-Sonne auf das Fenster geschienen und dieses mit einer dunckelen Farbe angestrichen sey. Derowegen, da ich weiß, die Mittags-Sonne habe sehr warm geschienen, und Dunckel gefärbte Sachen werden bald sehr warm, schliesse ich zuverläßig, das Wachs sey auf dem Fenster von der Sonne geschmoltzen, und da diese weggegangen, wieder geronnen (§. cit.).
+
+[*Wie man findet, was jede Ursache beyträget.*]
+
+§. 11. Nachdem die Ursachen bekandt worden; lässet sich ferner ausmachen, was eine jede von ihnen zu einer gegebenen Würckung beyträget, wenn man theils ihre deutliche Begriffe untersuchet, theils auf alles andere sich besinnet, was man von ihnen erkandt hat, nicht anders als wenn man Lehre [p. 139] Lehr-Sätze finden soll (§. 3.). Z. E. Wenn ein Glas mit einem engen Halse, welches mit Wasser nicht gantz angefüllet ist, sondern oben noch etwas Luft hat, geschwinde umgekehret wird; so werden anfangs einige Tropfen Wasser heraus lauffen, nachdem aber wird nicht der geringste weiter nachfolgen. Man soll nun finden, wie dieses zugehe. Die Ursachen sind die eingeschlossene Luft über dem Wasser, das Wasser, die enge Eröfnung des Gefässes und die äusserste Luft. Von der eingeschlossenen Luft erinnere ich mich, daß ihre ausdehnende Kraft der Schweere der gantzen Luft die Waage halten könne; wenn sie freyen Raum bekommet, sich weiter ausdehnet und, indem sie sich ausdehnet, ihre ausdehnende Kraft verringert wird. Von der äusseren Luft ist mir bekandt, daß sie durch eine enge Eröfnung nicht zugleich in das Gefässe hinein dringen und die flüßige Materie heraus lassen kan: wie man zur Gnüge erfähret, wenn man aus einem vollen Tropfen-Glase will Tropffen fallen lassen. Ferner fällет mir von der äusseren Luft ein, daß sie das Wasser in einer leeren Röhre bis 32. Schuhe hoch erhalten kan. Wenn ich nun diese Dinge gegen einander halte, befinde ich, daß die Krafft der eingeschlossenen Lufft und die Schweere des Wassers zusammen genommen grösser ist als die Schweere der [p. 140] der äussern Luft, folgends das Wasser fallen muß. Indem aber einige Tropfen heraus fliessen, wird die eingeschlossene Luft dünner. Da nun in diesem Falle ihre ausdehnende Kraft abnimmet; so finde ich, es müsse so viel Wasser zurücke bleiben, bis seine Schweere mit der vergeringerten ausdehnenden Kraft der Schweere der äusseren Luft gleichet. Und weil durch die enge Eröfnung das Wasser nicht zugleich heraus und die Luft hinein kan; so kan unmöglich ein einiger Tropfen ferner heraus fliessen. Es würde zu weitläuftig fallen, wenn ich alles in der Ordnung nach einander hieher setzen solte, wie im ordentlichen Nachdencken eines auf das andere folget. Jedoch wenn dieses geschiehet; so wird sich der Gebrauch der förmlichen Schlüsse deutlich äussern. Wiewohl hier zu mercken ist, (welches ich in einem anderen Orte deutlicher anführen werde) daß, gleichwie unsere Begriffe undeutlich sind, also auch eine gleiche Undeutlichkeit sich in den Schlüssen befindet, so, daß die meisten solche nicht allzeit wahrnehmen, und daher den undeutlichen Schluß für keinen förmlichen Schluß halten. Wer mehrere Exempel verlanget, der darf nur meine Versuche, dadurch ich zur Erkäntniß der Natur und Kunst den Weg bähne, nachschlagen: denn wenn ich erkläre, woher alles, was sich ereignet, komkommet; [p. 141] so verfahre ich auf eben die Art, wie ich es hier angezeiget. Wer demnach diese Versuche mit Fleiß durchlieset und überdencket, der wird durch diese Übung zur Fertigkeit in Ausübung der gegeben Regeln gelangen.
+
+[*Wer am geschicktesten ist die Wahrheiten zu erfinden.*]
+
+§. 12. Es ist aber aus allen dem, was von Erfindung der Wahrheiten gesaget worden, klar, daß, je mehr einer weiß, je mehr er geschickt sey etwas zu finden. Deswegen müssen Anfänger nicht bald Erfinder abgeben wollen, sondern erst lernen, was andere vor ihnen erfunden haben. Wiewohl dieses eine sehr nützliche Arbeit ist, daß, wenn man andere Erfindungen sich bekandt gemacht, man nach den vorgeschriebenen Regeln jederzeit untersuchet, wie sie hätten können zum Vorscheine gebracht werden, wenn sie noch nicht da wären. Und daher giebet auch immer eine Erfindung Gelegenheit zu der andern, und wir müssen grosse Leute, die vor uns gelebet haben, nicht für geringe ansehen, weil sie vielleicht weniger gewust, als wir in unsern Zeiten. Denn so wir sie nicht in Vorgängern gehabt hätten, würden wir es ihnen nicht zuvor gethan haben. Ja, wenn wir in ihrer und sie in unserer Stelle gewesen wären, würden wir es vielleicht ihnen nicht gleich und sie es uns zuvor gethan haben. Ich rathe demnach denenjenigen, welche sich [p. 142] sich im Nachdencken zu üben Lust haben, daß sie nicht allein alles, was in meinen sonderlich lateinischen Anfangs-Gründen der mathematischen Wissenschaften vorkommet, nach denen in diesen 6. Capiteln gegebenen Regeln untersuchen, sondern auch bey allem, was ich von der Welt-Weisheit geschrieben, gleichen Fleiß anwenden. Man muß sich aber nicht übereilen, noch wegen des Fortganges sorgen, sondern der Zeit den Willen lassen: auch sich nicht einbilden, als wenn alles, was zur Überlegung gehöret, in meinen Schriften mit ausdrücklichen Worten stünde, indem man bloß so viel hinsetzet, als gnung ist, einen auf das übrige zu bringen.
+
+[*Von Zusätzen.*]
+
+§. 13. Unterweilen pfleget man unter einer Erklärung oder auch einem Satze, er sey von was Beschaffenheit er wolle, einen besonderen Fall anzumercken, oder unmittelbahr etwas daraus zu schliessen; dergleichen Wahrheiten in der Mathematick Zusätze genennet werden. Z. E. Ich habe erwiesen, alle Affecten hindern den Menschen, daß er die Wahrheit nicht sehen kan, und schliesse daraus: also hindert auch der Eifer und die Rachgier, daß man die Wahrheit nicht sehen kan; so ist dieses ein Zusatz. Eben so ist es ein Zusatz, wenn ich ferner hieraus schliesse: derowegen muß man einen nicht böse machen, den man wiederlegen will.
+
+[p. 143] Man pfleget auch wohl in der Mathematick, wo man einer jeden Art der Wahrheit ihren Nahmen beyschreibet, unter die Zusätze zu rechnen, was man für Lehr-Sätze könte passiren lassen, wenn ihr Beweiß nicht gar zu weitläuftig ist und der Lehr-Satz, unter den man ihn setzet, mit einen Haupt-Grund des Beweises abgiebet.
+
+[*Von Anmerckungen.*]
+
+§. 14. Man findet endlich in der Mathematick Anmerckungen, darinnen angewiesen wird, wie man auf die Erfindungen kommen, warum man die Sachen in dieser und nicht in einer andern Ordnung abhandele, was die vorgetragene Wahrheiten vor Nutzen haben, wie vortreflich sie seyn, und was dergleichen Dinge mehr sind. Absonderlich aber wird auch darinnen weiter erkläret, was etwan noch hin und wieder einem Dunckel vorkommtn möchte. Dergleichen Anmerckungen dienen gar sehr zu der Aufnahme der Wissenschafften, und wäre zu wünschen, daß die Schriften der Gelehrten häuffig damit angefüllet wären.
+
+[p. 144] 144
+
+## Das 7. Capitel. Von der Wissenschafft, dem Glauben, den Meinungen und Irrthümern.
+
+#### §. 1.
+
+[*Beschaffenheit der Wissenschafft.*]
+
+Ich habe bereits in dem Vorberichte (§. 2.) erinnert, daß ich durch die Wissenschafft eine Fertigkeit des Verstandes verstehe, alles, was man behauptet, aus unwiedersprechlichen Gründen unumstößlich darzuthun. Da nun die Erklärungen, die Grund-Sätze und klare Erfahrungen unumstößliche Gründe sind (§. 36. c. 1. §. 13. c. 3. §. 1. c. 5.), die Demonstrationen aber die Schlüsse, welche unumstößlich sind (§. 2. 4. c. 4.), so weit hinaus führen, bis man in dem letzten Schlusse nichts als Erklärungen, klare Erfahrungen oder Grund-Sätze zu Förder-Sätzen hat (§. 21. c. 4.); so ist die Wissenschafft nichts anders als eine Fertigkeit zu demonstriren.
+
+[*Mittel zur Wissenschafft zu gelangen.*]
+
+§. 2. Derowegen, da man in den mathematischen Disciplinen bisher fast einig und allein genau demonstriret; so ist das sicherste Mittel zur Wissenschafft zu gelangen, wenn man anfangs sich mit Ernst in denselben [p. 145] Von dem Glauben.
+
+145
+
+selben übet und nach dem in anderen Disciplinen die daselbst angemerckte Art die Sachen auszuführen, so viel möglich, anzubringen sich bemühet. Ich sage mit Fleiß: so viel möglich. Denn es gehet zur Zeit noch nicht überall an, und, wo es angehet, führet es uns unterweilen auf allzugrosse Weitläufftigkeiten, wenn wir es gar zu genau nehmen wollen. Da ich nun in meinen Schrifften, die ich von den verschiedenen Theilen der Welt-Weißheit heraus gegeben, alles, was ich behaupte, in einer beständigen Verknüpfung aus einander herleite; so werden diejenigen, welche ihnen angelegen seyn lassen, meine Schrifften in gehöriger Ordnung nach der in den Vorreden ertheilten Anweisung durchzugehen, darinnen ein sicheres Mittel finden zur Wissenschafft zu gelangen.
+
+[*Was Glaube sey.*]
+
+§. 3. Durch den **Glauben** verstehe ich den Beyfall, den man einem Satze giebet um des Zeugnisses willen eines anderen. z. E. *Cajus* saget, es sey *Sempronius* mit dem *Titio* uneinig worden: wenn ich es vor wahr halte, das ist, wenn ich dencke, es sey geschehen; so glaube ich es.
+
+[*Worauf er sich erstrecke.*]
+
+§. 4. Der Glaube erstreckt sich also nur auf Dinge, die geschehen sind, oder geschehen sollen. Denn die übrigen Sachen lassen sich erweisen und also kan man sie wissen. Daß aber etwas geschehen sey, kan nicht erwiesen werden. Und also muß man dem Zeugnisse [p. 146] 146
+
+Das 7. Capitel.
+
+des andern trauen, das ist, es glauben.
+
+[*Wie Leichtgläubigkeit zu vermeiden.*]
+
+§. 5. Jedoch, damit wir nicht leichtgläubig sind und uns betrügen lassen, so müssen wir uns zweyer Dinge erst versichern: 1. daß derjenige, welcher etwas zeuget, die Sache recht habe erkennen können, damit er sich nicht selbst betrogen: 2. daß er die Sache so erzehlet, wie er sie erkandt hat, damit er nicht den Vorsatz habe andere zu betrügen. Mit einem Worte, ich muß versichert seyn, daß der Zeuge klug und aufrichtig genug sey.
+
+[*Woraus erkandt wird, daß einer die Sache recht weiß.*]
+
+§. 6. Das erste erkennet man daraus, wenn der Zeuge selbst zugegen gewesen, da die Sache geschehen, auf alles genau acht gegeben, und so viel Geschicklichkeit hat, als erfordert wird, die Sache genau in acht zu nehmen, im Gedächtnisse zu behalten und anderen zu erzehlen, oder das, was er erzehlet, von einem solchen Zeugen empfangen hat und dabey versichert ist, daß dieser keinen Vorsatz gehabt ihm etwas aufzubürden.
+
+[*Ursachen, so die Glaubwürdigkeit vergeringern.*]
+
+§. 7. Weil aber ein jeder leicht etwas ändern, weglassen und hinzu setzen kan, wie uns dessen die Erfahrung zur Gnüge lehret; so nimmet auch die Glaubwürdigkeit des Zeugnisses ab, wenn es durch vieler Mund gegangen, ehe wir es erfahren.
+
+[*Noch mehrere derselben.*]
+
+§. 8. Absonderlich vergeringert sich die Glaubwürdigkeit gar sehr, wen viel Zeit vorbey streichet, ehe wir das Zeugniß erfahren:
+
+[p. 147] Von dem Glauben.
+
+147
+
+massen in langer Zeit gar leichte etwas vergessen werden kan.
+
+[*Ursachen, warum einer mit Willen falsches erzehlet.*]
+
+§. 9. Wenn einer mit Vorsatze einem andern eine Unwahrheit aufbürden will; so muß eine *Raison* seyn, warum er es thut: Denn der Wille kan nicht durch nichts *determiniret* werden. Nun ist aus der Erfahrung bekandt, daß der Wille des Menschen geneiget wird etwas zu thun, wenn er sich solches als gut und vortheilhafftig vorstellet: hingegen von etwas zurücke gehalten wird, wenn er solches als böse und nachtheilig ansiehet. Derowegen wenn einer mit Willen falsches erzehlet, muß er es entweder thun, weil er ein *Interesse* daben hat, oder weil er dadurch ein Übel abzuhalten vermeinet.
+
+[*Wie die Aufrichtigkeit eines Zeugens zu untersuchen.*]
+
+§. 10. Es kan aber das *Interesse* entweder die Seele, oder den Leib, oder die Ehre, oder den äusserlichen Zustand des Glückes betreffen, und entweder würcklich eines seyn, oder nur einen falschen Schein haben. Eben so verhält sichs mit dem Übel. Derowegen muß man untersuchen, ob sich nicht einer bey seiner falschen Erzehlung auf ein dergleichen *Interesse* habe Rechnung machen können, oder ob er nicht einiges Übel besorget, wenn er die Wahrheit hätte sagen sollen. Es ist aber nicht zu leugnen, daß dieses in besonderen Fällen öfters schweer, ja bißweilen gar nicht zu errathen ist, weil uns nicht Umstände genug bekandt sind, daraus man dieses schliessen muß.
+
+[p. 148] 148
+
+Das 7. Capitel.
+
+Es wird uns aber diese Beurtheilung viel leichter, wenn wir in den Gründen der Moral und Politick wohl geübet sind.
+
+[*Weitere Ausführung des vorigen.*]
+
+§. 11. Es ist hier ferner wohl zu mercken, daß man Gutes hoffen und sich Böses versehen kan, entweder von den Personen, denen man etwas erzehlet, oder von den Personen, von welchen etwas erzehlet wird, oder von andern Personen, die beyden auf einige Weise verwandt sind, und ihr *Interesse* mit ihnen gemein haben. Derowegen, wer sich wohl in acht nehmen will, daß er nicht gar zu bald glaube, muß öfters alle diese Umstände mit solchem Fleisse überlegen, als ihm nur immer möglich ist: wozu abermahl eine gute Erkäntniß in der Moral und Politick nicht wenig beyträget, als daraus man sowohl das wahre, als das vermeinte *Interesse* der Menschen nach den verschiedenen Umständen erkennen lernet.
+
+[*Wenn ein Zeuge verdächtig ist.*]
+
+§. 12. Wenn man nur wahrnimmet, daß einer aus einer falschen Erzehlung entweder auf ein wahres, oder auch nur vermeintes *Interesse* hat Rechnung machen können, jedoch nicht findet, ob er auch daran gedacht hat oder nicht; so hat man wenigstens Ursache einen Verdacht auf ihn zu haben, ob er nicht vielleicht einige Unwahrheiten habe mit einflieſſen lassen.
+
+[*Wenn sich der Verdacht vermehret.*]
+
+§. 13. Wenn man aus gewissen Umständen schliessen kan, es sey wahrscheinlicher, [p. 149] 149
+
+Von dem Irrthume.
+
+daß er darauf gedacht hat, als daß er sich nicht darnach geachtet; so wird der Verdacht auf ihn desto gröſſer fallen.
+
+[*Wenn ein Zeuge ausser Verdacht ist.*]
+
+§. 14. Hingegen, wenn man kein *Interesse* siehet, welches einer von einer falschen Erzehlung hätte haben können, auch keine Umstände sich ereignen, daraus man schliessen könte, er habe sich wenigstens einiges *Interesse* eingebildet; so fället auch aller Verdacht weg.
+
+[*Wie die Glaubwürdigkeit der Erzehlung von ihren Umständen dependiret.*]
+
+§. 15. Es beruhet aber die Glaubwürdigkeit einer Erzehlung nicht allein auf der Autorität desjenigen, der sie vorbringet, sondern auch öfters auf ihren eigenen Umständen. Denn es können zuweilen die Umstände so wider einander lauffen, daß man entweder würcklich siehet, die Sache so erzehlet wird, habe entweder gar nicht, oder doch nicht auf die Weise geschehen können, wie man vorgiebet; oder zum wenigsten genugsame Ursachen zu einem rechtmäßigen Zweifel vorhanden sind. Dergleichen Beurtheilungen erfordern einen guten Verstand und eine genaue Erkäntnis der Umstände.
+
+[*Ursprung des Irrthums.*]
+
+§. 16. Wenn wir uns Erklärungen machen, die wider einander lauffende Sachen in sich enthalten, dergleichen das geradelinichte Zweyecke ist, oder für einerley halten, was unterschieden ist, weil wir aus Ubereilung den Unterscheid nicht bemercken, oder in richtigen Schlüssen zu Förder-Sätzen solche [p. 150] Sätze annehmen, die unmöglich sind, oder auch aus richtigen Gründen unrichtig schliessen; so halten wir vor möglich, was nicht ist, und begehen einen *Irrthum*.
+
+[*Mittel ihn zu vermeiden.*]
+§. 17. Wer demnach den Irrthum vermeiden will, muß jederzeit nach deutlichen Begriffen streben, keine Erklärung annehmen, deren Möglichkeit er nicht erkandt hat, und keinen Förder-Satz hingehen lassen, von dessen Richtigkeit er nicht vorher überführet worden, auch sich in acht nehmen, daß er nicht wider die Regeln in seinen Schlüssen handelt (§. 10. 12. c. 4.)
+
+[*Woher die Gefahr zu irren entstehet.*]
+§. 18. Wer anders handelt, der begiebet sich in die Gefahr zu irren und übereilet sich im Urtheilen: welches aber ein allgemeines Laster unter den Gelehrten, und noch mehr unter den Studirenden ist, so theils aus Mangel guter Regeln vom rechten Gebrauche der Kräfte des Verstandes, theils aus verabsäumeter Übung in gründlichen Wissenschaften, theils aus Ungedult auf seine Schlüsse genau acht zu haben, ob sie in der Forme richtig sind, herrühret (§. 17.).
+
+[*Ursprung der Meinungen.*]
+§. 19. Wenn wir Erklärungen annehmen, die möglich zu seyn scheinen, und in Schlüssen einige Förder-Sätze hingehen lassen, die den Schein der Richtigkeit haben, ob wir gleich dieselben noch nicht demonstriren, noch durch ungezweiffelte Wahrheit erhärten können; so gelangen wir zu *Meinungen*. [p. 151] z. E. Weil alle Cörper nach der Länge, Breite und Dicke ausgedehnet sind, und diese Ausdehnung allein übrig zu bleiben scheinet, wenn man in Gedancken das andere alles absondert; so halten heute zu Tage die meisten mit Des Cartes davor, das Wesen der Cörper bestehe in der Ausdehnung nach der Länge, Breite und Dicke. Dieses aber ist ihnen nur eine Meinung, denn sie nehmen an: wenn man von dem Cörper in Gedancken alles absondert, was ihm zukommt und nicht allen gemein ist; so bleibet die blosse Ausdehnung nach der Länge, Breite und Dicke übrig. Allein sie können diesen Förder-Satz in ihrem Schlusse nicht richtig erweisen, sondern er scheinet nur wahrscheinlich, weil sie nichts anders mehr sehen, so zugleich übrig bleiben solte. Wie soll aber dieses folgen? Wo ich nichts mehr finden kan, da ist auch nichts mehr. Gleichergestalt sind dasjenige, was die meisten bisher von den Ursachen der Veränderungen im Barometer und denen damit verknüpfften Veränderungen des Wetters vorgebracht, nur Meinungen. Ja, die meisten gehen in Erklärung der Natur nicht weiter als auf Meinungen: Daher auch Hartsoecker seine Gründe der Physick, wie er sie neu auflegen lassen, nicht anders als Physicalische Muthmassungen genennet.
+
+[p. 152] [*Einer siehet eine Sache tieffer ein, als der andere.*]
+§. 20. Jedoch ist nicht allen eine Meinung, was einigen eine Meinung ist. Denn es kan der andere dasjenige, was dem einen nur wahrscheinlich ist, gewiß erkandt haben, und also hat er entweder eine Wissenschafft davon, oder er siehet, daß es ein Irrthum ist. So erkennen Scharffsinnige, daß die gemeine Meinung von dem Wesen der Cörper ein Irrthum sey: denn sie finden, daß auch das Vermögen zu widerstehen allen Cörpern gemein sey, welches sich gleichwohl nicht nach der Grösse der Ausdehnung richtet (§. 655. Met.).
+
+[*Fernere Bestätigung des vorigen*]
+§. 21. Wiederum ist es möglich, daß einige blosse Meinungen für gewiß ausgemachte Wahrheiten halten können, wenn sie nemlich weder die Natur einer rechten Demonstration verstehen, noch auch im Nachsinnen recht geübet sind, oder die Sache zu überlegen Zeit genug anwenden. So finden sich Leute, die vor mathematisch demonstriret halten, daß das Wesen der Cörper in der blossen Ausdehnung nach der Länge, Breite und Dicke bestehe, unerachtet sich bey genauer Untersuchung das Gegentheil befindet (§. 20.).
+
+[*Meinungen geben keine Beruhigung.*]
+§. 22. Weil man nun von den Meinungen keine Demonstration hat, sondern im Beweise einige Sätze annimmet, die man nicht völlig erweisen kan; so bleibet noch immer die Furcht übrig, es könne vielleicht auch wohl [p. 153] wohl anders seyn. Und solchergestalt geben Meinungen dem Gemüthe keine völlige Vergnügung, wenn einer verständig ist und nach der Wahrheit durstet.
+
+## Das 8. Capitel, Wie man so wohl seine eigene, als die Kräffte anderer untersuchen soll, ob sie zureichen eine Wahrheit zu untersuchen oder nicht.
+
+#### §. 1.
+
+[*Beurtheilung der Kräffte nachzusinnen.*]
+Da man aus nichts, nichts erfinden kan, sondern allezeit etwas gegeben seyn muß, daraus das andere heraus gebracht wird, und dieses Letztere nach gewissen Regeln geschiehet, auch eine Fertigkeit nachzudencken voraus setzet, wie aus allem demjenigen erhellet, was in den vorhergehenden Capiteln von Erfindung der Wahrheit hin und wieder beygebracht worden; so erkennet man, daß unsere oder eines andern Kräffte zulangen eine Wahrheit zu erfinden, oder zu untersuchen, wenn 1. uns alles wohl bekandt ist, was bekandt zu seyn voraus gesetzet wird, wenn wir 2. alle zum Nachdencken nöthige Regeln wissen, und 3. in dergleichen Materien schon öffters unser Nachsinnen geübet haben. Z. E.
+
+[p. 154] Wenn aufgegeben würde eine Machine zu erfinden, die eine gewisse Verrichtung thun könte; so setzet dieses voraus, daß wir nicht allein aus der Mathematick die Kräffte des einfachen Rüst-Zeuges wohl verstehen, sondern auch von verschiedenen Machinen uns vollständige Begriffe bereits zu Wege gebracht und wohl acht gegeben haben, was hier und dar vor Vortheile theils zu Befestigung der Machinen, theils aus andern Absichten gebrauchet worden; absonderlich aber, daß man die Verrichtung, welche die Machine thun soll, deutlich verstehe. Auch muß sich einer schon in Erfindung der Machinen vorher etwas geübet haben, wenigstens daß, wenn er einen deutlichen Begriff sich von einer Machine, die er gesehen, zu Wege gebracht, er, um sich im Nachsinnen zu üben, gesetzet als wenn sie noch nicht erfunden wäre, und daher nachgedacht, wie sie hätte können erfunden werden. Wiederum, wenn einer die Frage entscheiden solte, ob die eigene Natur des Menschen ihn verbinde einiges zu thun, und anderes zu unterlassen, und er will urtheilen, ob er die Entscheidung in seiner Gewalt habe oder nicht; so muß er bedencken, ob er die Natur der Seele, absonderlich des Willens, wohl verstehe, und die Beschaffenheit der Handlungen nebst ihrem Unterscheide inne habe, auch bereits andere dergleichen Materien nach den Regeln, die oben gegeben worworden, [p. 155] reiflich überleget. Gleichergestalt, wenn einem aufgegeben wird den Unterscheid der Kräffte der Natur und Gnade zu bestimmen, und einem jeden seine gehörige Schrancken zu setzen; so muß er wohl überlegen, ob er die Krafft der Seelen gründlich untersuchet und daneben aus der Schrifft den Grad der Vollkommenheit deutlich erlernet, dazu der Mensch durch die Gnade gelangen kan, auch ob er bereits eine Fertigkeit hat Sachen deutlich zu begreiffen und in gegründeter Ordnung vorzutragen.
+
+[*Ob wir etwas in unserer Gewalt haben.*]
+§. 2. Es kan unterweilen wohl geschehen, daß wir etwas zu untersuchen noch nicht geschickt sind, wir können aber gar bald geschickt dazu werden. Wenn wir nun dieses wissen wollen; so müssen wir wohl überlegen, auf was für Art und Weise man dazu gelangen kan, was voraus gesetzet wird, und dann auf uns und unseren gegenwärtigen Zustand acht haben, ob wir zu den erkandten Mitteln gelangen können oder nicht. Z. E. Der auch unter uns berühmte Engelländer Locke hat theils in seinem Wercke von dem Verstande des Menschen [^155-a] vorgegeben, daß die Sitten-Lehre sich eben so wohl als die Geometrie demonstriren liesse, theils auch in seinen Brieffen an den Irrländischen Mathematicum Molyneux mehr als einmal wiederholet, daß [p. 156] daß sie allerdings auf eine solche Art, wie die Geometrie, sich demonstriren liesse: worinnen ihm der Herr von Leibnitz in seinen Anmerckungen über das vorhin erwehnte Werck von dem Verstande des Menschen recht gegeben. Unerachtet aber Molyneux ihn mit grossem Ernst und Eiffer ermahnet, daß er dergleichen Arbeit über sich nehmen möchte; so hat er doch keine Lust dazu gehabt. Wenn nun ein anderer Lust dazu bekäme, und wolte untersuchen, ob er entweder schon dazu geschickt wäre, oder ob er sich noch dazu geschickt machen könte; so würde nach unseren Regeln folgendes zu bedencken seyn: wer die Sitten-Lehre auf geometrische Art demonstriren will; muß die geometrische Lehr-Art, absonderlich wie sie in den Theilen angebracht wird, wo man die Geometrie bey Erklärung natürlicher Dinge anbringet, als in den optischen Disciplinen, den mechanischen und der Astronomie geschiehet, auf das genaueste inne haben, und wohl darinnen geübet seyn. Wenn er bedencket, das Demonstriren erfodere, daß alles durch richtige Schlüsse aus einigen deutlichen Begriffen, deren Gewißheit man erkandt hat, unverrückt hergeleitet werde (§. 21. c. 4.); so wird er bald inne werden, es komme hier nicht bloß auf Erfahrungen aus dem Umgange mit Menschen und der Historie an, sondern, weil wir mit der Lenckung des Willens zu [p. 157] thun haben, auf deutliche Begriffe von den Kräfften der Seele des Menschen und ihren Würckungen. Wenn nun einer bey sich findet, daß er in der Mathematick und der wahren Metaphysick, welche uns die hierzu nöthige Erkäntniß der Seele beybringet, gantz unerfahren sey; so wird er auch bald sehen, er sey nicht geschickt eine solche Arbeit zu übernehmen. Findet er nun ferner, daß es sein Zustand nicht zulässet, sich so weit in der Mathematick umzusehen und mit der Seele in eine so genaue Bekanntschafft zu gerathen, theils weil er wegen anderer Verrichtungen nicht Zeit dazu hat, theils weil es ihm an Gedult fehlet lange nachzudencken, theils weil er nicht recht weiß, wie er mit Fortgange in Dingen, die von den äusserlichen gantz entfernet sind, nachdencken soll: derselbe ist zur Gnüge überführet, daß er seine Zeit und Mühe verderben würde, wenn er die Arbeit über sich nehmen wolte, zu welcher Molyneux Locken nicht bereden konte. Auf eine gleiche Weise kan man die hier gegebene Regeln auch bey den vorigen Exempeln (§. 1.) anwenden.
+
+[^155-a]: lib. 3. c. 4. §. 7. f. m. 251.
+
+[*Ob wir Erfahrungen in unserer Gewalt haben.*]
+
+§. 3. Absonderlich wenn die Sachen, welche man zu untersuchen verlanget, auf die Erfahrung ankommen, hat man wohl zu überlegen, ob es in unserer Gewalt stehe, die dazu nöthige Experimente anzustellen, und ob wir auch die Geschicklichkeit und dazu nöthige [p. 158] ge Mittel haben: welches uns die Regeln von der Erfahrung (§. 5. & seqq. c. 5.) und die besonderen Umstände gar leichte an die Hand geben. Z. E. Man verlanget zu wissen, ob die Fäsichen der neuen Jahre in dem Holtze sich von neuem von dem zwischen der Rinde und dem Holtze aufsteigendem Saffte anlegen, oder ob sie vielmehr entweder von der Rinde, oder dem andern Holtze sich absondern, und nur von dem Safte mehr ausgedehnet werden. Hier siehet man bald, es werde dieses zu untersuchen erfordert, daß man verschiedene Bäume bey der Hand habe, von denen man das gantze Jahr durch, so offte man es vonnöthen erachtet, Reisser abschneiden kan; daß man in der Anatomie des Holtzes sich geübet, und daß man endlich mit einigen guten Fern-Gläsern versehen, die auf verschiedene Art vergrössern, darunter das eine so sehr vergrössern muß, als nur immer möglich ist. Wer befindet, daß seine Gelegenheit es nicht leidet dergleichen Untersuchungen anzustellen, der muß sein Unvermögen hierinnen erkennen. Eben dieses ist in acht zu nehmen, wenn von deutlichen Begriffen die Rede ist, welche durch Reflexion über die gegenwärtigen Dinge erlanget werden, als wenn einer urtheilen solte, ob er geschickt sey von Uhrwercken ein Buch zu schreiben oder nicht.
+
+[*Ob wir Erklärungen*]
+
+§. 4. Wir können uns ohne Scheu über
+
+[p. 159] [*der Sachen in unserer Gewalt haben.*]
+
+Erklärungen der Sachen machen, wenn wir uns geschickt befinden, durch die Anatomie und Fern-Gläser die Structur der organischen Cörper zu untersuchen (§. 56. c. 1.), oder auch, wenn wir gegenwärtig darauf acht haben können, indem die Sache formiret wird (§. 57. c. 1.). Z. E. Wer mit guten Vergrösserungs-Gläsern versehen, kan die Beschaffenheit des Marcks in den Bäumen, die Structur des Holtzes, die Art und Weise der Circulation des Geblütes und andere dergleichen Sachen entdecken. Wer darauf acht hat, wenn ein Affect bey ihm entstehet, oder auch wenn er eine tugendhaffte Handlung ausübet, der kan die Natur des Affects und der Tugend entdecken, wenn er bereits das Vermögen hat, Sachen, die er empfindet, deutlich zu begreiffen (§. 19. c. 1.). Es ist wahrscheinlich, daß wir die Erklärung der Sache in unserer Gewalt haben, wenn wir nicht allein die Wort-Erklärung wissen und von denen Dingen, die darinnen enthalten sind, deutliche Begriffe haben, sondern auch viele andere, insonderheit mit derselben Sache verwandte Dinge, uns bekandt (§. 54. c. 1.) und wir im Nachsinnen nicht ungeübet sind (§. 1.). Z. E. Wenn ich weiß, die Geschwulst sey eine ausserordentliche Dicke in dem fleischichten Theilen des Leibes, und ich verstehe, was es mit dem fleischichten Theilen des Leibes für eine Beschaffenheit habe, auch wie es mögmöglich [p. 160] ist, daß ein Cörper könne dicker werden, als er ist; so wird sich nach diesem leicht entdecken lassen, aus was für Ursachen, und wie die Geschwulst entstehe.
+
+[*Ob wir Sätze finden können.*]
+
+§. 5. Wenn wir etwas nachdencken können und Erklärungen haben; so werden wir die Grund- und Heische-Sätze in unserer Gewalt haben (§. 1. c. 6.). Können wir viel nachdencken, und haben viele Erklärungen, oder auch andere daher geleitete, oder ihre Stelle vertretende Sätze bey der Hand; so dörffen wir uns an die Lehr-Sätze wagen (§. 3. c. 6.).
+
+[*Ob wir Aufgaben auflösen können.*]
+
+§. 6. Wir sind geschickt eine Aufgabe aufzulösen, wenn wir von den Ursachen der Würckung deutliche Begriffe haben, und auch sonst vieles von ihnen uns bekandt ist (§. 6. 11. c. 6.). Wir können uns Hoffnung auf die Auflösung machen, wenn wir deutliche Begriffe von dem Zustande der Sache haben, wie sie vor und nach der Veränderung gewesen ist, und über dieses viel andere Sachen wissen, die absonderlich hiermit einige Verwandtschafft haben (§. 10. c. 6.). Die in dem 6. Capitel gegebene Exempel können zur Erläuterung dienen. Es muß aber auch hier einer fein nachdencken können (§. 1.) und die Sachen so in Bereitschafft haben, daß sie ihm gleich einfallen, wenn er sie zu wissen nöthig hat (§. 24. c. 4.).
+
+[*Wie*]
+
+§. 7. Wie wir unsere eigene Kräffte untersuchen, [p. 161] eben so untersuchen wir die Kräfte anderer. Jedoch fället es öfters etwas schwerer, wenn wir vom fremden Vermögen urtheilen sollen. Denn was wir bey uns erkennen können, indem wir bloß auf uns acht haben, das müssen wir bey anderen gemeiniglich durch Schlüsse heraus bringen, entweder aus ihren Schrifften, oder Discursen, oder dem, was uns andere von ihnen gesaget.
+
+[*fremde Kräfte zu beurtheilen.*]
+
+[*Nutzen der gegebenen Regeln.*]
+
+§. 8. Man muß sich aber in acht nehmen, daß man die Regeln, welche man hier zu Beurtheilung der Kräfte vorschreibet, nicht weiter brauchet, als sich gebühret. Wir haben keine andere Absicht, als daß wir uns nicht mit Zeit-Verlust und Versäumniß über Dinge machen, die uns zu hoch sind, und, wenn wir befinden, es wolle uns nicht angehen was wir vorhaben, die Ursache davon zu finden wissen. Es sey aber ferne, daß jemand zaghafft werde und sich an nichts wage, wo er Schwierigkeiten siehet, von denen er nicht weiß, ob er sie wird überwinden können, oder nicht. Vielmehr, so lange wir nicht deutlich erkennen, daß wir nicht zu Stande kommen können, müssen wir es wagen und mit unserem Fleisse anhalten, biß wir vermittelst der allgemeinen hier vorgeschriebenen Regeln die besonderen Ursachen finden, warum wir nicht fortkommen können.
+
+[p. 162]
+
+## Das 9. Capitel, Wie man sowohl seine eigene, als fremde Erfindungen beurtheilen soll.
+
+§. I.
+
+[*Wie die Erfindungen in gewisse Classen zu bringen.*]
+
+Da alles, was wir dencken können, entweder Erklärungen und Beschreibungen (§. 36. c. 1.), oder Sätze (§. 2. 3. c. 3.), oder Erfahrungen (§. 1. c. 5.), und die Sätze entweder Grund- oder Lehr-Sätze, oder auch Aufgaben (§. 13 14. c. 3.) sind; so müssen alle Erfindungen sich in diese Classen zertheilen, und kan man ohne Mühe aus denen daselbst gegebenen Erklärungen urtheilen, unter welche Classe eine Erfindung gehöret (§. 36. c. 1. & §. 1. c. 4.). z. E. Wenn einer saget, die Wärme sey ein Hauffen kleiner Theilichen, die eine sehr spitzige Figur haben, und in einer überaus schnellen Bewegung sind; so sehe ich leicht, daß er das Wesen der Wärme erklären will (§. 48. c. 1.). Hingegen, wenn er saget: die Wärme ist zu dem Leben des Menschen nöthig; so erkennet man bald, daß es ein Lehr-Satz sey (§. 14. c. 3.). Eben so, wenn ich sage: Die Ehre sey ein Gedancken von des andern Vollkommenheit; so sehe ich gleich, daß solches eine Erklärung sey. Hin [p. 163] Hingegen, wenn einer saget: die Ehre haben wir nicht in unserer Gewalt; so erkennet man bald, daß es ein Lehr-Satz sey. Saget er aber: Wer GOtt ehren will, der muß seine Vollkommenheiten gründlich erkennen, und sich dieselben öfters vorstellen; so erhellet gleich, daß dieses eine Auflösung einer Aufgabe sey.
+
+[*Wort-Erklärungen mit Erklärungen der Sachen verwirret.*]
+
+§. 2. Wenn einer sich vornimmet das Wesen der Sache zu erklären, und erzehlet doch nur einige Eigenschaften derselben, wodurch sie von andern ihres gleichen unterschieden wird, der verwirret Wort-Erklärungen mit den Erklärungen der Sachen (§. 41. c. 1.). So betrügen sich die Cartesianer, wenn sie meinen, sie hätten das Wesen der Seele erkläret, wenn sie uns eine Eigenschaft derselben sagen, und sie ein denckendes Wesen nennen. Eben so gehet es ihnen, wenn sie vermeinen das Wesen des Cörpers erkläret zu haben, indem sie sagen, er sey ein in die Länge, Breite und Dicke ausgespannetes Wesen. Und die Juristen sind nicht besser daran, wenn sie vermeinen die Natur der Verbindung zu verstehen, indem sie sagen, es sey ein Band des Rechtes, dadurch man angehalten wird etwas zu thun und zu lassen.
+
+[*Wer Wörter und Sachen nicht unterscheiden kan.*]
+
+§. 3. Diejenigen, welche die Würckungen der Dinge wahrnehmen, und dasjenige, wovon sie herrühren, mit einem gesonderen [p. 164] Nahmen nennen, diesen Nahmen an statt der Ursache der Würckung anführen, die können Wörter und Sachen nicht von einander unterscheiden. Denn weil sie bey dem Worte nichts gedencken können als die Würckung, deren Ursachen man zu wissen begehret, und also von dieser Ursache gar keinen Begriff haben (§. 4. c. 1.); so ist ihr Wort ein leerer Thon (§. 3. c. 2.). Da nun aber einer vermeinet, er sage die Ursache, wenn er ein Wort nennet; so muß er nothwendig zwischen Wörtern und Sachen keinen Unterscheid zu machen wissen. z. E. Die alten Schul-Weisen nahmen viele Würckungen in den Pflantzen wahr, daß sie sich nähreten, daß sie wuchsen, daß sie ihres gleichen zeugeten. Da sie nun die Anatomie der Pflantzen nicht verstunden; nenneten sie dasjenige, wovon diese Würckungen herrühreten, Animam vegetativam, oder eine wachsendmachende Seele. So viel sie nun verschiedene Würckungen in den Pflantzen antraffen, so viel Kräfte eigneten sie dieser Seele zu, als eine Krafft den Safft durch die Wurtzeln an sich zu ziehen, eine Krafft denselben durch die Pflantze zu ihrer Nahrung zu zertheilen, eine Krafft neue Blätter und Reiser zu formiren, eine Krafft neue Pfläntzlein in dem Saamen zu bilden. So bald man nun die aus Erfahrung bekandten Würckungen wegnimmet, bleiben nichts [p. 165] als leere Wörter übrig. Derowegen verkauften sie die Wörter vor Sachen. Nachdem aber Des-Cartes diesen Wörter-Kram glücklich umgestossen; schämen sie heute zu Tage verständige Leute die Seele als eine Ursache der Würckungen in den Pflantzen und den Cörpern der Thiere und Menschen anzuführen. Auf eine gleiche Weise machen es viele in der Sitten-Lehre mit den Temperamenten. Und in der alten Physick findet man fast nichts anders, wenn man verborgene Ursachen angeben will, als dergleichen leere Wörter. Hingegen reden diejenigen ohne Gedancken, welche die vorher bestimmte Harmonie für ein leeres Wort ausgeben (§. 766. Met.).
+
+[*Wie von Begriffen zu urtheilen sey.*]
+
+§. 4. Wie man von den angeführten Begriffen urtheilen solle, ist aus dem ersten Capitel vor sich abzunehmen. Absonderlich aber ist wohl zu beobachten, ob einer einen Begrif vor möglich ausgiebet, ohne daß er es beweiset (§. 31. & seqq. c. 1.). So nehmen die Cartesianer den Begrif von GOtt, daß er sey das allervollkommenste Wesen, als möglich an, ehe sie es erweisen. Daher denn alles, was sie daraus schliessen, nicht genung erwiesen ist. Eben so nehmen viele in der Sitten-Lehre die Temperamente an, ehe sie erwiesen, ob dergleichen möglich sind, wie sie beschrieben.
+
+[*Wie von Erklärungen zu urtheilen.*]
+
+§. 5. Wenn einer eine Sache erkläret, [p. 166] und nimmet solche Dinge an, von deren Möglichkeit man nicht versichert ist, oder auch von denen man nicht weiß, daß sie neden einander zugleich seyn können; so ist seine Erklärung ungewiß. Nimmet er unmögliche Dinge an, oder setzt auch neben einander, was nicht zugleich in einer Sache seyn kan; so ist sie falsch. Denn wir nennen ungewiß, davon man noch nicht völlig überführet ist, ob es möglich sey oder nicht: wir nennen falsch, wenn wir sagen, daß etwas seyn könne, was doch unmöglich ist. z. E. Wenn einige das Wesen des Wassers erklären wollen; so geben sie seinen Theilichen eine cylindrische Figur. Diese Art der Theilchen nehmen sie an, können aber nicht beweisen, daß sie in dem Wasser zu finden sind. Derowegen ist ihre Erklärung ungewiß und nur eine Muthmassung. Wenn die Alten die Verdauung der Speise erklären solten, nahmen sie in dem Magen eine so grosse Wärme an, die sie gantz zerkochen könnte. Die Erfahrung aber weiset, daß dergleichen Wärme unmöglich im Magen zu finden. Derowegen ist diese Erklärung falsch. Wenn nicht alle Dinge angeführet werden, welche zu Formirung einer Sache etwas beytragen, oder auch dasjenige, was sie beytragen, nicht umständlich genug vorgetragen wird; so ist die Erklärung der Sache unvollständig (§. 16. c. 1.). z. E.
+
+[p. 167] Wenn ich in Böcklers Theatro Machinarum, oder Schau-Platze der mechanischen Künste, die Mühlen- und Wasser-Künste zwar nach ihren Theilen gar deutlich vorgezeichnet, aber in der Beschreibung nichts mehr als die Theile benennet finde, nichts aber von ihren Abmessungen, nichts von der Zahl der Kammen in den Rädern und Trillingen, nichts von anderen dergleichen Dingen antreffe; so erkenne ich, daß diese Erklärungen der Mühlen- und Wasser-Künste noch sehr unvollständig sind. Endlich, wenn in einer Erklärung der Sache nichts unmögliches enthalten, alles was zu ihr erfordert wird, darinnen zu finden, und nichts vergесsen worden, was jedes zu ihrer Formirung beyträget; so ist sie richtig. z. E. Wenn einer saget: die anschauende Erkäntniß der Vollkommenheit sey die Lust; so hat er in diesen beyden Worten alles zu verstehen gegeden, was in der Seele vorgehet, wenn die Lust entstehet, und, wer weiß, was die Vollkommenheit ist, kan denselbigen Zustand der Seele anderen deutlich erklären. Solchergestalt ist seine Erklärung richtig.
+
+[*Wie von Sätzen zu urtheilen sey.*]
+
+§. 6. Wenn wir uns gedencken, daß etwas sey oder seyn könne, und es ist oder kan seyn; so nennen wir unsere Gedancken wahr. Hingegen ist schon erinnert worden (§. 5.), daß wir sie falsch nennen, wenn sich das Wiederspiel befindet. Da nun dasjenige, [p. 168] was aus richtigen Erklärungen und Erfahrungen nach den oben erkläreten Schlüssen heraus gebracht wird, eben die Richtigkeit haben muß, welche die Erklärungen und Erfahrungen haben (§.2.4.c.4.); so müssen nothwendig die Sätze wahr seyn, wenn sie aus wahren: falsch, wenn sie aus falschen: ungewiß, wenn sie aus ungewissen Erklärungen und Erfahrungen richtig geschlossen sind. Sie können aber auch falsch seyn, weil man aus wahren Gründen unrichtig geschlossen. Und demnach kommet es bey den Sätzen jederzeit darauf an, ob die Schlüsse, darein sich ihre Beweise zergliedern lassen, in der Materie und Forme richtig sind. Die Materie sind die Sätze, daraus sie bestehen: ihre Forme muß aus ihren Regeln (§.7. & seqq. c.4.) beurtheilet werden. Wenn einer von einem wahren Satze keine Demonstration geben kan; so hat er ihn unvollständig erwiesen (§.21.c.4.). Von Exempeln vollständig erwiesener und wahrer Sätze ist die ganze Geometrie voll, an andere Theile der Mathematick jetzt nicht zu gedencken. Exempel ungewisser, falscher und absonderlich unvollständig erwiesener Sätze trifft man leider allzuviel ausser der Mathematick an. In meinen von der Welt-Weisheit heraus gegebenen Schriften gehe ich auf vollständige Beweise. Daher kan man auch in ihnen Exempel finden, wenn man sie in gehöriger Ordnung durchliest.
+
+[p. 169] §. 7. Zuweilen werden Lehr-Sätze vor Grund-Sätze ausgegeben, welches man aber gar bald erkennen kan, wenn man nur acht hat, ob sie aus einer einigen Erklärung klar sind oder nicht (§.13.c.3.), oder ob man nicht vielmehr viele Wörter darinnen findet, aus deren deutlichen Begriffen man einen Beweiß führen muß. Wenn es nun nöthig ist, daß ein Satz erwiesen wird; so wird er nicht wohl vor einen Grund-Satz ausgegeben und ohne Beweiß angenommen. Daher urtheilet man in solchen Fällen: es nehme einer Sätze unbewiesen an, weil er sie nicht erweisen kan, die doch aber sollen erwiesen werden. Und so machen es gemeiniglich diejenigen, welche ausser der Mathematick auf mathematische Art demonstriren wollen.
+
+§. 8. Es pflegen auch etliche die Sätze, so sie aus Erfahrungen geschlossen, mit Grund-Sätzen zu vermengen. Allein man kan dieses bald inne werden, wenn man nur erweget, ob wir durch unsere Empfindungen zu dem Satze haben können geleitet werden oder nicht (§. 1. c. 5.). Wie aber die Erfahrungen selbst zu beurtheilen, kan man aus dem fünften Capitel zur Gnüge erlernen.
+
+§.9. In der Auflösung einer Aufgabe wird gezeiget, wie etwas könne gethan oder gemacht werden, oder auch wie es geschehen könne (§.14. c.3.). Derowegen ereignen sich [p. 170] hier folgende Fälle. Man siehet nehmlich entweder auf die Sachen selbst, oder auf ihre Richtigkeit. Was das erste betrifft; so ist entweder dasjenige, was vorgeschrieben wird, zureichend, oder nicht: oder es dienet zur Sache gar nicht, ja ist wohl gar hinderlich. In Ansehung des andern ist aus der Erfahrung oder durch Beweiß klar, daß entweder alles angehet, was vorgeschrieben wird, oder daß es nicht angehet, oder es ist noch unbekandt, ob es angehe oder nicht, und wenn es ja angehet, weiß man nicht die Art und Weise, wie es ins Werck zu stellen. Daher entstehen gar viele Urtheile von den Auflösungen der Aufgaben.
+
+§. 10. Wenn man durch die Erfahrung oder auch durch eine Demonstration überführet ist, wenn nur dasjenige geschiehet, was in der Auflösung der Aufgabe angegeben wird; so müsse auch dasjenige erfolgen, was die Aufgabe erfordert: überdieses nicht weniger ausgemacht ist, entweder durch die Erfahrung, oder durch vorhergehende Beweise, daß alles angehe, was vorgeschrieben wird, und dabey bekandt ist, wie alles ins Werck zu stellen; so ist die Auflösung wahr, vollständig und accurat, das ist, sie gehet an, enthält alles nöthige und nichts überflüßiges in sich. Dergleichen Exempel findet man in grosser Menge in meinen Anfangs-Gründen der mathematischen Wissenschafften [p. 171] und andern mathematischen Schrifften: ingleichen in meiner Moral und Politick. Es kan auch hier statt eines Exempels dienen, was von Erlangung der deutlichen Begriffe (§.21.c.1.) und von anderen Aufgaben an anderen Orten dieses Wercks beygebracht worden. Im wiedrigen Falle ist die Auflösung falsch, unvollständig und nicht accurat, das ist, sie tauget gar nicht. In diese Classe gehöret, wenn man um volle Blumen zu erhalten lehret, sie müssen zu einer Zeit gesäet und verpflanzet werden, da der Mond zunimmet, und in einem gewissen himmlischen Zeichen ist, auch zu einer gewissen Stunden des Tages, ja es gehören hieher alle astrologische Aufgaben und also auch das ganze Nativität-Stellen.
+
+[*Wenn eine Auflösung nicht accurat ist*]
+
+§. 11. Wenn alles in der Auflösung wohl angehet, aber nicht alles nöthig ist, dasjenige zu verrichten, was man thun soll; so ist die Auflösung wahr und vollständig, aber nicht accurat. Z. E. Wenn einer mit dem Vitruvio das Bau-Holtz zu fällen vorschreibet, daß es im Herbste auf der einen Seite biß mitten in das Marck eingehauen, und die Aeste nach Alberti Rath abgelöset, auch endlich der Baum im Anfange des Winters gefället werde, nach Vegetii Gutbefinden bey abnehmenden Monden; so ist diese Auflösung wahr und vollständig, aber nicht [p. 172] nicht accurat. Denn man setzet etwas überflüßiges hinzu, daß nemlich das Holtz im abnehmenden Monden solle gefället werden.
+
+[*Wenn sie nicht vollständig.*]
+
+§. 12. Wenn man den vorgesetzten Zweck nicht erreichet, so bloß dasjenige geschiehet, was in der Auflösung enthalten, obwohl dieses alles angehet; so ist die Auflösung zwar wahr, und hält nichts überflüßiges in sich, allein sie ist unvollständig. Dergleichen ist, wenn man einen vom Trincken bringen will, durch bloſſe Vorstellung, daß er das Geld unnütze verthue und die Zeit versäume. Denn es gehöret mehr dazu.
+
+[*Noch ein anderer Fall davon.*]
+
+§. 13. Wenn man zu seinem Zwecke bloß durch dasjenige gelanget, was in der Auflösung vorgeschrieben wird, und man weiß nicht, wie es ins Werck zu richten; so ist sie zwar wahr, aber unvollständig. So wäre es beschaffen, wenn ich einem gewisse Arbeit als ein Mittel reich zu werden recommendiren wolte, ich zeigte ihm aber nicht, wie er dergleichen Arbeit so viel haben könnte, als ihm zu bestreiten möglich ist. Hieher gehöret wenn Locke zeigen will, wie man mit Nutzen ein Buch lesen soll, damit man Wissenschaft daraus erlange, und recommendiret, man solle auf die Verknüpfung der Begriffe in einem Satze acht haben, und ausfinden, auf was für einem Grunde jeder Satz beruhe. Denn [p. 173] Denn er zeiget nicht, wie man die Verknüpfung der Begriffe entdecket, noch auch, wie man den Grund, darauf der Satz beruhet, ausfinden soll. Er giebet demnach Regeln, die ein junger Mensch, dem er seinen Rath ertheilet, vor sich auszuüben nicht geschickt ist. Dergleichen unvollständige Auflösungen sind ausser der Mathematick sehr gemein, und gleichwohl noch die besten, die man antrifft.
+
+[*Wenn die Auflösung unmöglich ist.*]
+
+§. 14. Wenn die Dinge nicht angehen, die in der Auflösung vorgeschrieben werden; so ist sie unmöglich. Dergleichen wäre, wenn man einem als ein Mittel sich bey einem grossen Herrn beliebt zu machen die Erfindung einer immerwährenden Bewegung recommendirte. Jedoch folget nicht daraus, daß die Aufgabe selbst unmöglich ist, sondern man muß zeigen können, wenn man dieses behaupten will, daß keine andere Auflösung statt finde: als in gegenwärtigem Falle kan noch ein anderes Mittel seyn, sich bey demselben grossen Herrn beliebt zu machen, das angehet. Und ist zu mercken, daß man hier auch für unmöglich hält, was nicht in dessen Gewalt stehet, der es thun soll, ob es wohl vor und an sich selbst möglich seyn kan.
+
+[*Wenn die Auflösung falsch ist.*]
+
+§. 15. Wenn dasjenige, was in der Auflösung vorgeschrieben wird, zwar angehet, aber zur Sache nichts dienet, ja wohl gar [p. 174] dieselbe hindert; so ist die Auflösung falsch.
+
+Z. E. Wenn man einem, der sich seinen Zustand zu Gemüthe ziehet, ein gutes Glas Wein zu trincken recommendiret, damit er sich die Grillen aus dem Kopf schlage; so gehet es zwar an, daß er ein Glas Wein trincken kan: allein man wird ihm deswegen doch nicht die Traurigkeit benehmen, noch ihn gelassenen Gemüthes machen. Es kan wohl einer, der in Gesellschafft mit andern trincket, dadurch auf eine Zeit vergessen, was ihn beunruhiget: wenn er aber wieder allein ist, kommet auch die Trautigkeit wieder. Derowegen ist sie auch nicht gehoben. Und dannenhero ist die Auflösung der Aufgabe falsch.
+
+[*Wie man sich bey Auflösungen in acht zu nehmen, die aus der Erfahrung genommen.*]
+
+§. 16. Man muß sich aber wohl in acht nehmen, daß, wenn man durch die Erfahrung gelernet, es werde durch dieses oder jenes ein gewisser Zweck erreichet, man nicht ohne genugsamen Grund von einem Falle gleich auf alle schliesse, nemlich nicht eher als biß man erwiesen hat, es komme in demselben kein besonderer Umstand vor, der sich nicht auch in andern Fällen befinde. So trift man unterweilen in den Büchern derer, die von der Ausübung der Geometrie geschrieben haben, solche Auflösung an, die wohl in kleinen Figuren auf dem Papier, aber bey weitem nicht in grossen eintreffen. Und da die Klugheit der meisten Menschen in Nachahmung [p. 175] anderer oder auch ihrer eigenen vorhergehenden Handlungen in sich ereignenden ähnlichen Fällen bestehet; so giebet die tägliche Erfahrung mehr Exempel, als einem lieb ist, darinnen dieser Regel zuwider gehandelt wird. Auch in der Artzney-Kunst schliesset manøfters mit nicht geringem Schaden der Patienten von einem besondern Falle auf alle, wenn man von dem Gebrauche der Medicamenten urtheilen soll, oder auch überhaupt nach der Einrichtung der Cur fraget.
+
+[*Wenn man etwas vor ungewiß ausgeben kan.*]
+
+§. 17. Man muß sich ferner in acht nehmen, daß man nicht gleich überhaupt vor ungewiß ausgiebet, was uns ungewiß ist. Denn dergleichen können wir nicht behaupten, biß wir darzuthun vermögend sind, es könne so wenig ein anderer, als wir die Richtigkeit der Förder-Sätze ausmachen, daraus der uns ungewisse Satz geschlossen worden, oder wenn es einen Begrif betrift, es sey einem andern eben sowohl als uns der Weg dazu verhauen. Es ist aber leider nichts gemeiner, als daß man andere nach sich, wie überhaupt, also insonderheit in diesem Stücke beurtheilet.
+
+[*Wie von dem Nutzen zu urtheilen.*]
+
+§. 18. Am allermeisten aber müssen wir uns in acht nehmen, wenn wir von dem Nutzen urtheilen wollen. Denn weil eine Erkäntniß nützlich genennet wird, wenn sie die Bequehmlichkeit des menschlichen Lebens befördert; diese aber theils aus der Vollkommenheit der Seele, theils aus der Vollkommenheit [p. 176] heit des Leibes, theils aus der Vollkommenheit des äusserlichen Zustandes, in so weit sie entweder erhalten, oder leichter erlanget oder auch vermehret wird, beurtheilet werden muß, wie dieses alles in der Moral weitläufftiger ausgeführet wird; so kan man nicht eher eine Erkäntniß unnütze nennen, biß man erweisen kan, es könne sich unmöglich ein Fall ereignen, in welchem sie entweder mittelbahr, oder unmittelbahr zu einer der gedachten Vollkommenheiten etwas beytrage. Dieser Beweiß setzet grosse Erkäntniß voraus, und ist dannenhero schweer zu übernehmen. In den übrigen Fällen können wir nur sagen, der Nutzen sey uns für unsere Person nicht bekandt, oder auch wir für unsere Person können, oder wissen sie nicht zu nutzen.
+
+## Das 10. Capitel. Wie man von Schrifften urtheilen soll.
+
+#### §. 1.
+
+[*Eintheilung der Schrifften.*]
+
+Die Schrifften handeln entweder von Geschichten, oder tragen gewisse Lehren vor. Die ersten Schrifften, welche man historische zu nennen pfleget, erzehlen entweder was in der Natur vorgegangen, oder was sich unter den Menschen zugetragen.
+
+[p. 177] [*Tugenden der historischen Schrifften.*]
+
+§. 2. Man kan also von einer historischen Schrifft nicht mehr erfordern, als daß alles in solcher Ordnung und mit solchen Umständen erzehlet werde, wie es geschehen. Daher sind drey Tugenden der historischen Schrifften, die Wahrheit, die Vollständigkeit und die Ordnung.
+
+[*Wie von ihrer Wahrheit zu urtheilen.*]
+
+§. 3. Da man die historische Wahrheit nicht wissen kan, sondern nur glauben muß; so kan man von ihr urtheilen, wenn man dasjenige in acht nimmet, was von dem Glauben (§. 5. & seqq. c. 7.) beygebracht worden.
+
+[*Wie von ihrer Vollständigkeit zu urtheilen.*]
+
+§. 4. Die Vollständigkeit der historischen Schrifften muß aus der Absicht beurtheilet werden, die ihr Urheber gehabt. Es kan aber diese gar sehr verschieden seyn. Derowegen achte ich es nicht für undienlich, die Absichten überhaupt vorzustellen, die man sich dabey machen kan.
+
+[*Absichten natürlicher Geschichte.*]
+
+§. 5. Wer die Geschichte der Natur beschreibet, will entweder einen Begriff beybringen von leblosen und lebendigen Creaturen, die in der Welt sind, und von allerhand zum Theil seltenen Begebenheiten, die sich in der Natur ereignen, oder durch Erzehlung besonderer Würckungen und Begebenheiten der Natur zu einer genauen Erkäntniß einen sichern Grund legen. In dem ersten Falle hat er seinen Zweck erreichet, wenn er in acht nimmet, was von vollständigen Begriffen [p. 178] gesaget worden (§. 16. c. 1): in dem andern aber muß er alle, auch die geringsten Umstände seines Experimentes oder seiner Observation anführen (§. 2. 12. c. 5.). Von dem letzteren geben meine Versuche ein klares Exempel, aus welchen man zugleich ersehen wird, wie dieser Theil der historischen Erkäntniß mit der Wissenschafft zunimmet.
+
+[*Absichten, die man bey Historien haben kan.*]
+
+§. 6. Was die Geschichte der Menschen betrifft; so kan man sich dabey überhaupt vorsetzen, worauf wir in allen unseren Handelungen sehen sollen, auch wenn wir nur unsere Vernunfft hören, nehmlich unsere Vollkommenheit, von welcher die Ehre GOttes, und die Beförderung des gemeinen Bestens nicht wegbleiben kan, als welche beyde mit ihr unauflößlich verknüpffet sind, massen die Vollkommenheit in nichts anders bestehet, alles in einer völligen Zusammenstimmung aller natürlichen und freywilligen Handlungen, die dadurch erhalten wird, wenn diese von uns aus eben den Absichten determiniret werden, wodurch von GOtt die natürlichen, welche wir nicht in unserer Gewalt haben determiniret sind: wovon man einen ausführlicheren Begriff aus meiner Moral fassen kan. Die Historie soll die Tugenden und Laster, insonderheit die Klugheit und Thorheit durch Exempel Lehren. Woferne man nun diesen Zweck erreichen will; so muß sie solchergestalt geschrieben seyn, [p. 179] seyn, daß, wenn der Menschen ihre Thaten gegen ihren Zustand gehalten werden, man daraus die Regeln der göttlichen Regierung erlernen kan, dadurch wir von den Vollkommenheiten des majestätischen GOttes immer je mehr und mehr überführet, und solchergestalt unser Wille zu solchen Handlungen gelencket wird, die sowohl den göttlichen Vollkommenheiten, als unserer eigenen Natur anständig sind: welches desto besser zu verstehen dienet, was ich in der Moral von den Pflichten gegen GOtt und in der Metaphysick von den Eigenschafften GOttes geschrieben. Auch muß man von dem Verhalten anderer die Regeln der Klugheit abmercken können, dadurch wir das gemeine Beste u. unsere eigene Wohlfahrt befördern können. Und die Tugenden und Laster müssen vollständig mit ihren Ursachen, so die Menschen dazu verleitet, und dem Anlaß, den sie dazu bekommen, ingleichen mit demjenigen, was daraus erfolget, in den Exempeln abgeschildert seyn: wozu abermahls die Erkäntniß meiner Moral und Politick nicht weniges beytragen kan.
+
+[*Absichten der Kirchen-Historie.*]
+
+§. 7. Insonderheit aber muß die Kirchen-Geschichte so eingerichtet werden, daß man daraus die Klugheit lernen kan die Wohlfahrt der Kirche nach Vermögen zu befördern: welches man erhält, wenn darinnen umständlich genug vorgestellet wird, durch [p. 180] was vor Mittel die Kirche in gutem Flor erhalten worden, aus was vor Ursachen sie verfallen, wie man sich dem Übel abzuhelffen, entweder mit gutem Fortgange, oder vergebens bemühet. Und wird man hierinnen um so viel leichter zu rechte kommen, wenn man verstehet, was ich von Beförderung der Tugend im gemeinen Wesen (§. 317. Polit.), von Kirchen und Festtagen (§. 320. & seqq. Polit.) und von dem Nutzen der Religion im gemeinen Wesen (§. 366. & seqq. Polit.) geschrieben.
+
+[*Absichten der weltlichen Historie.*]
+
+§. 8. Gleichergestalt müssen die weltlichen Geschichte so beschaffen seyn, daß man daraus ersehen kan, durch was vor Mittel das gemeine Wesen in gutem Flor erhalten worden, aus was vor Ursachen es wiederum verfallen, wie ihm wieder aufgeholffen worden; was vor Anschläge wohl von statten gegangen, welche hingegen mißgelungen, und wie man die sich ereignenden Hindernisse glücklich aus dem Wege geräumet; was hohe Häupter vor Recht auf ihre Länder, die sie bereits besitzen, und zugleich auf andere, die noch unter anderer Bothmäßigkeit stehen, haben. Will man sich hierinnen besser zu rechte finden; so kan die Erkäntniß meiner Politick dazu nicht wenig förderlich seyn, als darinnen ich von allem, was im gemeinen Wesen vorkommet, zureichenden Grund angezeiget, dergleichen man nicht überall findet.
+
+[p. 181] [*Absichten der Historie der Gelehrten.*]
+
+§. 9. In der Geschichte der Gelehrten hat man sonderlich die Grade der Vollkommenheit fleißig abzumercken, zu welcher die Wissenschafften sind gebracht worden. Es muß gewiesen werden, wo man dasjenige finden könne, was bereits erfunden worden, damit wir uns nicht die Wissenschafft nützlicher Dinge berauben, wenn wir selbst nicht vermögend sind die Sachen durch eigenes Nachsinnen heraus zu bringen, noch auch, wenn wir dieses Vermögen haben, mit dem vergebens die Zeit zubringen, was schon von anderen gethan worden, da wir es viel nützlicher auf solche Dinge wenden, die noch nicht gethan worden. Ja, man muß darinnen zeigen, wie man aus demjenigen, was bereits erfunden worden, immer weiter kommen, damit dadurch die Kunst zu erfinden ihren Wachsthum bekomme. Man siehet gar bald, daß diejenigen, welche die Geschichte der Gelehrten und Wissenschafften auf eine solche Art beschreiben wollen, nicht allein in den Wissenschafften selbst weit müssen kommen, sondern auch mit vielen Büchern versehen seyn und viel zu lesen Zeit haben. Und daher ist es kein Wunder, daß dieser Theil der Gelehrsamkeit sehr mangelhafft ist.
+
+[*Wie die Ordnung der Historie zu beurtheilen.*]
+
+§. 10. Die Ordnung in den Geschichten der Menschen kan man gar leichte aus den Umständen, sonderlich der Zeit, abnehmen. In den natürlichen Geschichten kan man es augenaugenscheinlich [p. 182] erfahren, wenn man das Experiment nachzumachen sich gefallen läßet. Man kan es auch durch Nachsinnen innewerden, wenn man die Ursachen untersuchet, warum und wie solches geschehen (§. 10. 11. c. 6.).
+
+[*Verschiedene Fälle, die bey Beurtheilung anderer Schrifften vorkommen, darinnen Lehren vorgetragen werden.*]
+
+§. 11. Von historischen Schrifften ist nicht nöthig noch besondere Regeln zu geben, weil sie leicht aus dem, was gesagt worden, zu nehmen sind, und wir hier nicht weiter gehen, als es die Logick leidet, deren vielfältigen Nutzen wir bloß zu zeigen gesonnen. Derowegen will ich nun zu den Schrifften schreiten, darinnen gewisse Lehren vorgetragen werden. Wenn man von diesen urtheilen will; so siehet man entweder auf die Sachen, welche vorgetragen werden, oder auf die Art des Vortrages. Der erste Falle zertheilet sich in gar viel besondere Fälle. Denn entweder es werden die Sätze aus ihren Gründen erwiesen, oder ohne Beweiß nur schlechterdinges hingesetzet. Über dieses wird entweder alles vorgetragen, was man von einer Sache wissen kan, oder nicht. Wenn man die Sätze erweiset; so hat man acht zu geben theils auf die Beschaffenheit der Gründe, theils auf die Art und Weise, wie der Beweiß daraus geführet wird. Jene sind entweder augenscheinlich wahr, oder falsch, oder noch zweiffelhafft. Wenn sie wahr sind, zeiget entweder der Urheber des Buches ihre [p. 183] Wahrheit, oder er citiret einen andern, der es gethan, oder er unterlässet beydes. Wenn beydes unterlassen wird; so sind die Gründe entweder so beschaffen, daß ein jeder ihre Wahrheit leicht siehet, wenn er nur darauf acht hat, oder der Leser kan sich von selbsten besinnen, wo sie von andern bewiesen werden, oder es gehet beydes nicht an. Wenn man die Art des Beweises vor Augen hat; so wird entweder alles ordentlich aus einander geschlossen, oder man siehet nicht genug, wie eines aus dem andern folgen soll. Wiederum es werden entweder die folgende Sätze beständig aus den vorhergehenden geschlossen, oder es hat jeder Satz sein besondere Gründe, daraus er erwiesen wird.
+
+[*Wenn eine Schrifft vollständig ist.*]
+
+§. 12. Wenn alles vorgetragen wird, was sich von einer Sache nach dem Zustande derselben Zeiten, da man schreibet, vortragen lässet; so ist die Schrifft wenigstens nach dem Zustande derselben Zeiten vollständig. Hiervon nun zu urtheilen, ist nöthig, daß man in den Geschichten der Gelehrten erfahren sey (§. 9.).
+
+[*Behutsamkeit die dabey zu gebrauchen.*]
+
+§. 13. Man kan aber deswegen den Urheber eines Buches nicht verachten, vielweniger schelten, wenn mit der Zeit sein Werck unvollständig wird, weil nach diesem mehr erfunden worden: oder auch, wenn es nach dem Zustande seiner Zeiten unvollständig ist, weil er weggelassen, was zu seinem Zwecke nicht [p. 184] nicht dienet. Derowegen hat man in dem ersten Falle zu wissen vonnöthen, zu welcher Zeit einer geschrieben hat, und was dazumahl erfunden gewesen: in dem andern aber muß man sich die Absicht des Buchs entweder aus dem Titel, oder aus der Vorrede, oder aus andern Umständen bekandt machen.
+
+[*Wenn ein Buch zu weitläufftig.*]
+
+§. 14. Wenn von den bereits erfundenen Sachen mehr vorgetragen werden, als der Zweck des Buches erfordert; so hält es überflüßige Dinge in sich, und ist also zu *weitläufftig.*
+
+[*Wenn ungewisses vor gewiß ausgegeben wird.*]
+
+§. 15. Wenn man bloße Sätze vorbringet, die aus der Erfahrung genommen; so saget man, der Urheber des Buchs gehe auf die *bloße Erfahrung.* Hält er sich nun hier nicht in gebührenden Schrancken, sondern giebet die Sätze höher aus als sie gelten; so nimmet er *ungewisses vor gewisses* an.
+
+[*Wenn eine Schrifft accurat und nicht accurat ist.*]
+
+§. 16. Wenn man aus einer Schrifft nicht ersehen kan, ob ihr Urheber die Sätze über die Schrancken der Erfahrung setzet, oder auch Sätze ohne Beweiß beybringet, die man ohne Beweiß nicht zugeben kan, oder solche Sätze in seinen Beweisen voraussetzet, die dem Leser nicht nothwendig bekandt, wenigstens nicht geläuffig sind; so ist die Schrifft nicht *accurat.* Im widrigen Fall ist alles zureichend erkläret, und demnach die Schrifft *accurat.*
+
+[p. 185] [*Wenn alles gründlich und nicht gründlich abgehandelt worden.*]
+
+§. 17. Wenn alle nöthige Wörter deutlich erkläret und die Sätze aus unumstößlichen Gründen richtig demonstriret werden; so ist alles *gründlich abgehandelt.* Wenn aber entweder falsche, oder zweiffelhaffte Gründe angenommen werden, auch im Beweise man es nicht so gar genau nimmet; so ist *nichts gründlich abgehandelt.*
+
+[*Wenn Sachen ohne Verstand zusammen geschrieben werden.*]
+
+§. 18. Wenn zwischen den Gründen und den daher geleiteten Sätzen keine nothwendige Verknüpffung erhellet, und die Verknüpffung bloß in der Verwandtschafft der Wörter gesuchet wird; so hat der Urheber des Buches *ohne Verstand allerhand zusammen geschrieben.*
+
+[*Wenn ein Buch deutlich, und wenn es dunckel ist.*]
+
+§. 19. Wenn die nöthigen Wörter entweder gar nicht, oder doch nicht deutlich genug erkläret werden, noch die Verknüpffung des Satzes mit seinen Gründen deutlich erhellet; so kan man das Buch unmöglich recht verstehen (§. 3. c. 2.), und deswegen ist es *dunckel.* Hieraus erhellet zugleich, wie ein Buch beschaffen seyn müsse, wenn es *deutlich* ist.
+
+[*Wie man sich in diesem Urtheile vergehet.*]
+
+§. 20. Insgemein machen sich die Unverständigen ganz andere Begriffe von der Dunckelheit und Deutlichkeit. Sie nennen nemlich dunckel, was mehreres Nachdencken erfordert, als sie bisher bey den Sachen angewandt, so sie gelernet: hingegen deutdeutlich, [p. 186] was nicht ein mehrers Nachdencken erfordert. Vielmehr solten sie sagen: Es ist mir schweer, oder es ist mir leichte, weil ich dergleichen Sachen ungewohnet, oder aber gewohnet bin. Aus diesem Vorurtheile nennen viele die mathematischen Schrifften und alle gründlich ausgeführte Wahrheit dunckel.
+
+[*Wenn alles wohl an einander hänget.*]
+
+§. 21. Endlich, wenn die letzteren Sätze aus den ersteren beständig hergeleitet werden, wie in den mathematischen Wissenschafften üblich ist; so hänget alles wohl an einander. Sonst aber hangen die Sachen nicht zusammen.
+
+[*Vorurtheile von der Ordnung.*]
+
+§. 22. Auch hier muß ich ein Vorurtheil benehmen, welches Arnauld in unseren Tagen durch Veranlassung des Rami zuerst den Leuten in Kopf gesetzet, als wenn nehmlich die Sachen in einer schönen Ordnung vorgetragen würden, so man alles unter einem Titel in ein Capitel zusammen bringet, was zu einer Sache gehöret: hingegen Unordnung sey, wenn man alles bloß hinter einander setzet, wie sich eines aus dem andern am füglichsten erweisen lässet. Die erste ist die Schul-Ordnung und von gemeinen Gelehrten beliebet worden; die andere aber die Ordnung der Natur, welche den Mathematicis am besten gefallen. Jene ist vor das Gedächtniß, daß man die Sachen leicht behalten kan; diese vor den Verstand, daß [p. 187] er recht erleuchtet und überführet wird. Nach jener kan man nicht alles genau erweisen, wie es die Elements de Geometrie des Arnauld und Lamy ausweisen: nach dieser darf man in dem Beweise nichts vergeben, wie es die Schrifften der alten Geometrarum bekräfftigen. Derowegen lasset man gemeinen Gelehrten und Anfängern die Schul-Ordnung; die aber die Wahrheit tieffer einzusehen gedencken, erwehlen die Ordnung der Natur. Und dieser letzteren folge auch ich so wohl in meinen mathematischen Schrifften, als auch denen übrigen, die ich von der Welt-Weisheit heraus gegeben.
+
+[*Wenn ein Buch am besten und wenn es am schlimmsten geschrieben.*]
+
+§. 23. Bisher habe ich von einfachen Fällen geredet. Gleichwie aber die übrigen aus diesen zusammen gesetzet werden; so ist es auch nicht schweer die vorhin abgefasseten Urtheile zusammen zu setzen. Derowegen will ich weiter nichts gedencken, als daß ein Buch in seiner Art vollkommen sey, wenn es vollständig ist, wenn alles genugsam erkläret und gründlich erwiesen wird, wenn es deutlich ist, und alles wohl zusammen hänget: hingegen aber nichts tauge, wenn es unvollständig ist, und die Sachen nicht genug ausgeführet werden, wenn es ohne Verstand zusammen geschrieben und dunckel ist, ja das Hintere mit dem Förderen nicht zusamzusammen [p. 188] hanget. Beydes erhellet aus dem, was im Vorhergehenden von den Urtheilen in besondern Fällen beygebracht worden.
+
+## Das 11. Capitel, Wie man Bücher recht mit Nutzen lesen soll.
+
+#### §. 1.
+
+[*Absicht derer, die Bücher lesen.*]
+
+Wir lesen Bücher, damit wir erkennen lernen, was darinnen stehet. Also wird dazu erfordert 1. daß wir den Urheber recht verstehen, 2. daß wir die vorgetragene Sachen wohl fassen.
+
+[*Wie historische Schrifften zu lesen.*]
+
+§. 2. Da die historischen Schrifften bloß erzehlen, was geschehen ist (§. 1. c. 10.); so brauchet es nicht viel Verstand und Nachdencken dieselben zu lesen, sondern man darff nur auf das acht haben, was man lieset, und sein Gemüthe von fremden Gedancken befreyen. Will man es wohl fassen; so muß man nicht zu geschwinde, auch nicht zu viel auf einmahl lesen (§. 24. c. 1.). Ganz anders aber verhält sichs, wenn man von der Historie Glaubwürdigkeit, von ihrer Ordnung und Vollständigkeit urtheilen (§. 3. & seqq. c. 10.), oder auch die historische Erkäntniß [p. 189] zu ihrem vielfältigen Nutzen anwenden will (§. 6. & seqq. c. 10.), da brauchet es allerdings Verstand und Nachsinnen. Und je mehr einer sich im Nachdencken geübet, je besser wird er hier zu rechte kommen.
+
+[*Wie man die Absicht des Buches und seiner Theile in acht zu nehmen.*]
+
+§. 3. Wenn man andere Schrifften liefet, darinnen gewisse Lehren vorgetragen werden; so hat man sich vor allen Dingen um die Absicht des ganzen Buches, aller Capitel, aller Absätze, mit einem Worte, aller gemachten Theile zu bekümmern, damit man nemlich inne werde, was der Urheber des Buches in jedem Theile vorzutragen gesonnen (§. 1.).
+
+[*Wie man sie erfähret.*]
+
+§. 4. Die Absicht des ganzen Buches wird theils aus dem Titel, theils aus der Vorrede erkandt, darinnen gemeiniglich zu finden, was Anlaß zu schreiben gegeben, was man durch das Schreiben zu erlangen sich vorgesetzet, warum man diese und nicht eine andere Art zu schreiben erwehlet.
+
+[*Wie man erfähret, in was vor eine Classe der Wahrheiten die Sache gehöre und wie sie zu beurtheilen.*]
+
+§. 5. Alles aber, was in einem solchen Buche vorkommen kan, gehöret entweder unter die Erklärungen, oder die Erfahrungen, oder die Sätze und ihrem Beweiß, oder endlich unter die Anmerckungen. Damit nun dieses um so viel leichter erhelle, muß man alle Sätze aus dem Texte mit schlechten Worten heraus ziehen, und von demjenigen absondern, was entweder zur Erläuterung, oder Erklärung, oder zum Beweise angeführret [p. 190] worden. Wenn man aber alsden siehet (§. 1. c. 9.), unter welche Classe die Sache gehöret, muß man sie nach Anleitung des neundten Capitels gehöriger Weise untersuchen, und von ihr ein vernünfftiges Urtheil fällen. Und damit man alles wohl fasse; so muß man ferner die Sache bey sich überlegen, das heisset, einige mahl nach einander überdencken.
+
+[*Wie man den Verstand heraus bringet.*]
+
+§. 6. Absonderlich ist wohl in acht zu nehmen, wenn wir den Urheber eines Buches recht verstehen wollen (§. 1.), daß wir mit seinen Wörtern eben dieselbe Begriffe verknüpffen, die er damit verbindet (§. 2. c. 2.). Denn wenn dieses nicht geschiehet; so dichten wir ihm einen falschen Verstand an, und bürden ihm auf, was er nicht gesaget: welches gar offte zu geschehen pfleget.
+
+[*Fernere Ausführung des Vorigen.*]
+
+§. 7. Nun erkläret der Urheber des Buches entweder selbst, was er vor Gedancken bey seinen Worten führet, oder er thut es nicht. In dem ersten Falle ist keine andere Mühe nöthig, als daß wir seine Erklärungen etliche mahl überlesen und überdencken, damit sie uns bald einfallen, so offte das Wort in dem Wercke vorkommet. In dem anderen Falle hat man die Bedeutung zu untersuchen, welche ein Wort haben kan (§. 16. c. 2.) und alsdenn zuzusehen, welche den bequemsten Verstand heraus bringet: denn weil niemand ohne einen Schein der Wahrheit [p. 191] etwas bekräfftiget, oder verneinet; so hat man Ursache zu glauben, daß der Urheber des Buches auf dieselbe Bedeutung gesehen, es sey denn, daß wir erweisen können, er habe bloß aus dem Gedächtnisse geschrieben, oder auch andere Bücher nur ausgeschrieben.
+
+[*Ein Wort wird öffters in einem Buche in vielerley Verstande gebrauchet.*]
+
+§. 8. Weil aber ein Wort vielerley Bedeutung haben kan; so pfleget öfftets ein Wort in einem Buche nicht immer unter einer Bedeutung vorzukommen, auch wenn es sich der Urheber einbildet. Derowegen müssen wir uns in acht nehmen, daß wir nicht bald daraus schliessen, er habe sich widersprochen, indem wir nehmlich einerley Bedeutung überall behalten.
+
+## Das 12. Capitel. Von Erklärung einer mit Verstande geschriebenen, und insonderheit der H. Schrifft.
+
+#### §. 1.
+
+[*Wenn man die Schrifft verstehet.*]
+
+Eine mit Verstand geschriebene, und also auch die heilige Schrifft ist kein leerer Thon, denn sonst wäre sie zu nichts nütze. Derowegen muß mit jedem Worte ein gewisser Begriff verknüpfknüpffet [p. 192] werden (§. 3. c. 2.), und, wer also dieselbe verstehen will, muß bey einem jeden Worte eben die Gedancken führen, die ihr Urheber damit hat wollen verknüpffet wissen (§. 6. c. 11.).
+
+[*Die Begriffe der Wörter in der Schrifft erhalten wir nicht unmittelbahr,*]
+§. 2. Was nun insonderheit die heilige Schrifft betrifft; so pfleget der Geist GOttes nicht unmittelbahr die Begriffe in uns zu erwecken, die wir mit seinen Worten verbinden sollen: denn sonst wäre nicht nöthig, daß man den Grund-Text in andere Sprachen übersetzte, sondern es dörffte einer nur denselben mit Begierde das Wort zu verstehen, und sich daraus zu erbauen ansehen; so würden gleich die dazu nöthige Gedancken in ihm entstehen. Die Erfahrung aber bezeuget, daß solches nicht geschiehet.
+
+[*sondern die Wörter erregen sie.*]
+§. 3. Derowegen müssen die Worte an sich geschickt seyn die Gedancken in uns zu erregen, welche wir dabey haben sollen, wenn nur nicht Vorurtheile uns verblenden, oder sonst unsere Unachtsamkeit uns hindert.
+
+[*Welche Begriffe GOtt voraus setzen kan.*]
+§. 4. Solchergestalt muß so wohl GOtt in seinem Wort, als ein jeder verständiger Urheber einer Schrifft entweder selbst lehren, was wir uns vor einen Gedancken bey diesem, oder jenem Worte machen sollen, oder er muß keinen andern Begriff voraus setzen, als den wir schon vorhin haben.
+
+[*Deutlichere Erklärung des vorigen.*]
+§. 5. Da wir nun aber keinen andern Begriff haben können, als der in uns erreget wird, [p. 193] wird, wenn wir die Sachen gegenwärtig empfinden (§. 5. c. 1.); so müssen wir auch keinen andern als diesen Begriff damit verbinden.
+
+[*Noch eine Art von übernatürlichen Begriffen, die GOtt in der Schrifft nicht erklären darff.*]
+§. 6. Hieraus verstehet man ferner, es könne GOtt von übernatürlichen Dingen einige Wörter in der Schrifft brauchen, davon wir von Natur keinen Begrif haben, und die er doch nicht erkläret. Denn wenn durch Hülffe anderer verstandenen Lehren eine Veränderung in uns vorgegangen ist; so empfinden wir dieselbe bey uns, und erlangen einen Begriff davon, ob gleich in der Schrift das Wort nicht deutlich erkläret ist, dadurch sie angedeutet wird. Ja, dieses gehet so gar auch in andern weltlichen Schrifften an.
+
+[*Bescheidenheit, die in Erklärung der Schrifft zu gebrauchen.*]
+§. 7. Wenn uns aber GOtt von einigen Sachen durch sein Wort zu gantz deutlichen oder gar vollständigen Begriffen nicht gelangen lässet; so müssen wir es dabey bewenden lassen, keinesweges aber mit den Spöttern die dadurch bedeutete Sachen vor nichts halten (§. 12. c. 2.). Denn wir müssen mit dem Maaße der Erkäntniß zufrieden seyn, das uns der HErr mittheilet, indem wir wissen, daß es zu dem Zwecke genung ist den GOtt durch sein Wort zu erlangen uns vorgesetzet hat.
+
+[*Wie die Wahrheiten der Schrifft zu beurtheilen.*]
+§. 8. Es können aber auch die in der Schrifft vorgetragene Lehren in eben die [p. 194] Classen der Wahrheiten vertheilet werden, in welche die weltliche sich zertheilen. Und daher lassen sie sich mit grossem Nutzen auf eben die Art untersuchen, wie wir diese zu untersuchen angewiesen (§. 5. & seqq. c. 9.). Denn weil man aus dem Wercke der Erlösung GOttes Weisheit wahrnehmen kan, Eph. III, 10. so müssen die göttlichen Wahrheiten eben eine solche Verknüpffung mit einander haben, die aus ihren Begriffen erhellet, wie die anderen. Über dieses werden auch in der Schrifft viele Sachen vorgetragen, die nur GOtt, in so weit er ein Schöpffer, Erhalter und Regierer der Welt ist, und den Menschen, in so weit er eine Creatur ist, angehen. Da nun aber diese Wahrheiten auch durch rechten Gebrauch der natürlichen Kräffte des Verstandes können erkandt werden, wie aus meinen vernünfftigen Gedancken von GOtt, der Welt und der Seele des Menschen, ingleichen aus denen von der Menschen Thun und Lassen zur Gnüge erhellet; so hat man um so viel weniger zu zweiffeln, daß auch zwischen diesen Wahrheiten eine Verknüpffung anzutreffen sey.
+
+[*Worinnen die Erklärung einer Schrifft bestehe.*]
+§. 9. Darinnen bestehet demnach die Erklärung einer jeden, und also auch der heiligen Schrifft, daß wir 1. den rechten Verstand der Worte (§. 4. 5. 6.) und 2. die Verknüpffung der Wahrheiten (§. 8.) zeigen.
+
+§. 10. Es ist aber nicht zu besorgen, daß
+
+[p. 195] [*Wie Glauben und Wissen nicht vermenget werden.*]
+solchergestalt der Glaube mit dem Wissen vermenget wird. Denn weil wir in einem Schlusse den Hinter-Satz nur zugeben um der Förder-Sätze willen (§. 24. c. 4.); so muß auch der Hinter-Satz nur geglaubet werden, wenn die Förder-Sätze auf dem blossen Glauben beruhen.
+
+[*Nutzen der vorgeschriebenen Erklärung.*]
+§. 11. Am allerwenigsten aber ist dieses Unternehmen unnütze. Denn wenn wir die Wahrheiten, so die Schöpffung und Erhaltung der Welt, auch unseren ordentlichen und vollkommenen Wandel angehen, zugleich wissen und glauben; so können wir die Feinde der geoffenbahrten Wahrheiten desto gewaltiger widerlegen, auch anderen desto nachdrücklicher ihre Scrupel benehmen, die ihnen unterweilen einfallen: welches absonderlich in unseren Zeiten eine sehr nöthige Sache ist. Erkennen wir aber die Verknüpffung zwischen den Wahrheiten, die das Werck der Erlösung betreffen; so werden wir dadurch von neuem von den göttlichen Eigenschafften überführet, und zur Verherrlichung GOttes und einem würdigen Wandel dadurch aufgemuntert: welches mit mehrerem aus denjenigen erhellet, was ich von den Pflichten gegen GOtt, auch von dem Unterscheide der christlichen und natürlichen Tugend in der Moral ausgeführet (§. 650. & seqq. 676. Mor.).
+
+[*Was die Grund-Sprachen bey Erklärung der Schrifft thun.*]
+§. 12. Die Grund-Sprachen dienen nur [p. 196] dazu, daß man urtheilen kan, ob alles in der Uebersetzung durch das rechte Wort gegeben worden. Wir gehen aber zu weit, wenn wir aus der Sprach-Kunst den Begriff holen wollen, den wir mit einem Worte verknüpffen sollen, oder auch den Nachdruck des Wortes daraus zu zeigen gedencken, denn die Sprach-Kunst kan mir auf das höchste zeigen, was sich die Leute für Gedancken gemacht, die der Sache zuerst diesen Nahmen gegeben. Soll ich aber wissen, ob solches mit Grunde geschehen sey, oder nicht; so muß ich die Sache vorhin auf andere Weise haben kennen lernen, damit ich urtheilen kan, ob ihre Gedancken richtig gewesen, oder nicht. Ja auch hier bleibet es unterweilen nur bey blossen Muthmassungen. Denn wenn auch die Wahrheit einen Grund zur Benennung an die Hand giebet; so können doch die Erfinder der Benennung aus einem Irrthume der Sache den Nahmen gegeben haben, den sie von ihr geheget. Man kan auch am allerwenigsten sagen, daß sich GOtt nach dem Grunde gerichtet, den diejenigen vor Augen gehabt, welche dem Worte zuerst eine gewisse Bedeutung zugeeignet, noch auch behaupten, daß GOtt kein Wort gebraucht, das aus irrigen Gedancken seine Bedeutung erhalten.
+
+[p. 197]
+
+## Das 13. Capitel, Wie man einen überführen soll.
+
+#### §. 1.
+
+[*Was überführen sey.*]
+Wer einen suchet zu überführen, der will ihn gewiß machen, daß etwas wahr oder falsch, wahrscheinlich oder unwahrscheinlich sey, z. E. daß in dem Satze: *Der Mond ist ein Licht*, das Hinter-Glied *Licht* mit dem Förder-Gliede *der Mond* recht verknüpffet werde.
+
+[*Wie die Wörter müssen erkläret werden.*]
+§. 2. Derowegen müssen vor allen Dingen alle Wörter erkläret werden, die in einem Satze anzutreffen, damit ihn derjenige verstehe, den man überführen will (§. 2. c. 2.): es sey denn, daß man zur Gnüge versichert ist, er habe alle hierzu nöthige Begriffe schon vorhin inne. Als in dem vorhergehenden Satze ist nicht nöthig, daß ich erkläre, was der Mond sey, weil ein jeder weiß, man verstehe dadurch den himmlischen Cörper, der unter allen Gestirnen des Himmels die Erde bey nächtlicher Weile am meisten erleuchtet: aber wohl kan ich erklären, was das Licht sey, nemlich dasjenige, welches die um uns liegende Cörper sichtbar machet, weil sich nicht jedermann auf diese Erklärung gleich besinnet.
+
+[p. 198] [*Wie der Beweiß vorgetragen wird.*]
+
+§. 3. Nach dieser Erklärung folget der Beweiß. Dieser aber muß so lange fortgeführet werden, bis man in den Schlüssen auf solche Förder-Sätze kommet, die dem andern nicht allein bekandt sind, sondern an deren Richtigkeit er auch keinen Zweiffel hat. Verstehet er aber gar nichts von der Sache; so muß der Beweiß geführet werden bis auf Erklärungen und klare Erfahrungen, oder andere Lehr-Sätze (§. 21. c. 4.). Denn in uns ist die Überführung entstanden, da wir von den Erklärungen und Erfahrungen an bis auf unsern Satz alles in richtiger Ordnung überdacht. Derowegen können wir auch den andern auf keine andere Weise überführen. Gleichwie wir aber von den Erklärungen und Erfahrungen angefangen haben, und von diesen zu solchen Sätzen fortgeschritten sind, die wir als Förder-Sätze zum Beweise unseres Satzes brauchen, eben so müssen wir auch mit einem andern verfahren.
+
+[*Besondere Mittel, welche die Mathematick an die Hand giebet.*]
+
+§. 4. Derowegen ist es vortrefflich in der Mathematick, daß in den Demonstrationen nichts angenommen wird, was nicht vorher ausgemacht worden, und daß man allezeit den Ort citiret, wo es ausgemacht worden. Denn aus der Citation kan ein jeder ohne Mühe inne werden, was einem vorhero bekandt seyn müsse, ehe man von der Richtigkeit eines Satzes überführet werden kan. [p. 199] kan. Z. E. In dem Beweise des zehenden Lehr-Satzes meiner Anfangs-Gründe der Geometrie §. 101. findet man citiret §. 97. und 59. In dem 97. §. findet man ferner citiret §. 25. §. 20. §. 56. §. 96. §. 61. §. 59. Geom. und §. 28. Arithm. In dem 56. §. werden citiret §. 19. §. 17. §. 54. In dem 96. aber §. 49. §. 12. §. 41. §. 50. In dem 61. §. 59. Geom. §. 28. und 31. Arithm. Ferner in dem 59. §. beruft man sich auf den 56. §. In dem 56. auf §. 19. §. 54. und §. 17. In dem 50. auf §. 5. Derowegen wenn einer durch den Beweiß überführet werden soll; so muß er nach der Ordnung durchgegangen seyn, aus der Rechen-Kunst §. 28. und 31, aus der Geometrie §. 5. 12. 17, 19. 20. 25. 41. 49. 50. 54. 56. 59. 61. 96 97.
+
+[*Wie dergleichen ausser der Mathematick nicht zu finden, aber zu wünschen.*]
+
+§. 5. Ausser der Mathematick fället es schweerer alles dasjenige zu finden, was voraus gesetzet werden muß, ehe man sich auf eine völlige Überführung Hoffnung machen darff. Und da es nicht geringes Nachdencken erfordert, wenn wir uns auf alles dasjenige besinnen sollen, was zu unserer Überführung etwas beygetragen, ja den meisten wohl gar unmöglich; so sind die wenigsten zu dieser Arbeit geschickt. Und wäre dannenhero zu wünschen, daß man sich auch ausser der Mathematick befliesse nichts anzunehmen, was man nicht vorher schon abgehandelt hätte, und allezeit den Ort entweder in [p. 200] dem vorhergehenden unseres Buches, oder in einem anderen Buche zu citiren, da man es ausgemacht zu seyn vermeinet. Dieses aber wird nicht eher geschehen, als bis sich mehrere mit rechtem Eiffer auf die Mathematick legen. Ich habe in den verschiedenen Theilen die ich bisher von der Welt-Weisheit heraus gegeben, mich darnach geachtet und nehme darinnen im Beweise auch keinen Grund an, der nicht entweder im vorhergehenden schon ausgemacht worden, oder gleich von jedem sich in Erfahrung bringen lässet, und citire im ersten Falle gleichfalls den Ort, wo der Grund zu finden. Wer nun jederzeit die Citationes so lange zurücke schläget, bis er nichts mehr citiret findet, der kan gleichfalls daraus ersehen, was für Wahrheiten und in welcher Ordnung er sie lernen muß, wenn er die Überführung von einem Satze haben will, die ich davon habe. Daß aber einige vorgeben wollen, es sey niemahls in dem Orte dasjenige erwiesen zu finden, was man daraus citiret, zeiget überflüssig an, wie es auch an sich bekandt ist, daß sie noch keine in einer beständigen Verknüpfung aus einander hergeleitete Wahrheiten gesehen. Und es würde ihnen eben so gehen, wenn sie über den *Euclidem* kämen und in der Mitten den Anfang machten und zurechte zu kommen vermeinten, wenn sie die Citationes im vorhergehenden nachschlügen.
+
+[p. 201] [*Daß eine Fähigkeit sich überführen zu lassen erfordert wird.*]
+
+§. 6. Es ist auch nicht zu vergessen, daß öfters unser Verstand vorher durch Erkäntniß anderer Wahrheiten einen gewissen Grad der Fähigkeit sich überführen zu lassen bekommet. Wenn nun der andere ihn noch nicht erreichet; so ist alle unsere Arbeit vergebens, die wir anwenden ihn zu überführen. Z. E. Ich habe durch die Mathematick, wie ich sie in meinem lateinischen Wercke abgehandelt und durch die Art und Weise, wie ich sie andere viele Jahre gelehret und in der Ratione Præle&t. se&t. 1. c. 1. § 38. & seqq. beschrieben, mir eine Geschicklichkeit Sachen zu begreiffen zuwege gebracht: daher kan es wohl seyn, daß anderen, die sich weder in der Mathematick, noch in Wissenschafften umgesehen, sondern die ganze Zeit mit Dingen zugebracht, die sie bloß ins Gedächtniß gefasset, unbegreiflich fället, was ich gar wohl begreiffen kan.
+
+[*Nutzen der gegebenen Regeln.*]
+
+§. 7. Wer dieses alles wohl in acht nimmet, der wird sich nicht ereiffern, wenn der andere sich nicht will überführen lassen, denn er wird erkennen, daß bey ihm selbst keine Überführung entstehen würde, wenn er in dem Stande wäre, darinnen sich der andere befindet. Auch werden wir behutsam in unseren Discursen werden, daß wir nicht mit Leuten von Sachen reden, von deren Richtigkeit sie zu überführen unmöglich ist, und [p. 202] dadurch man ihnen nur entweder zu spotten oder zu lästern Anlaß giebet.
+
+[*Wie man sich bey Erklärungen aufzuführen hat.*]
+
+§. 8. Wenn wir auf Erklärungen kommen; so können wir den andern ihrer Richtigkeit versichern, entweder indem wir die Sachen selber vorstellen, von deren Betrachtung wir sie genommen, oder daß wir sie zum wenigsten ihm ins Gedächtniß bringen (§. 5. c. 1), oder auch, daß wir uns auf andere Begriffe beruffen, die er zugiebet, und von denen unsere genommen worden § 26. 30. c. 1.). Wenn Sachen erkläret werden, können wir es öfters auf das Anschauen ankommen lassen (§. 56. 57. c. 1.), oder wir müssen die Möglichkeit derer Dinge, die andere zu formiren angenommen werden (§. 49. c. 1.), entweder durch die Erfahrung oder durch Beweiß ausmachen.
+
+[*Wie bey Erfahrungen.*]
+
+§. 9. Wenn man mit Erfahrungen zu thun hat, und es stehet nicht in unserer Gewalt den andern zu derselben zu bringen, als wenn man von dem Scheine um den Mond in grossen Sonnen-Finsternissen redet, mit dergleichen die Heiligen um ihr Haupt gemahlet werden, oder der veränderten Figur der Fix-Sterne, indem sie den Mond nahe kommen, die der berühmte Astronomus *Cassini* observiret; so muß man sich nur darauf beruffen und alles anführen, was zu ihrer Glaubwürdigkeit dienet (§. 5. & seqq. c. 7.). In diesem Falle nun ist die Überführung so groß, [p. 203] groß, als es die Grade der Glaubwürdigkeit zulassen.
+
+[*Was bey dem erfordert wird, der überführet werden soll.*]
+
+§. 10. Absonderlich muß derjenige, welcher überführet werden soll, auf alles wohl acht haben, was ihm vorgesaget wird, und, wenn er in dergleichen Materien noch nicht geübet ist, jedes etliche mahl bey sich überlegen nach den Regeln, die ich in dem 9. Capitel gegeben: zu welcher Überlegung ihm der andere alle nöthige Handreichung thun muß. Auch muß man Zeit dazu haben, wenn man in einer Materie noch nicht gewieget ist, und daher als wie ein Anfänger alle Tage etwas durchgehen und die folgenden mit Fleiß wiederholen was man die vorhergehenden gelernet, damit man mit der Materie bekandt wird. Wenn diejenigen sich darnach achteten, die sich mit der Wiederlegung anderer breit machen wollen; so würden sie entweder ihr Unvermögen erkennen, oder wohl gar demjenigen beypflichten, daß sie vor irrig oder gefährlich ausgeben.
+
+[*Wer durch eigene Schuld nicht überführet werden kan.*]
+
+§. 11. Wer nun viel zu ungedultig oder auch zu geschwinde ist, als daß er vorgeschriebener massen auf eine Sache acht haben und sie überlegen, auch der Zeit ihren Willen lassen kan, den bemühet man sich vergebens zu überführen. Und lieget die Schuld an ihm, daß er nicht überführet wird.
+
+[*Wer durch unsere*]
+
+§. 12. Es kan aber auch die Schuld auf unserer Seite seyn, wenn wir nemlich vor mög-
+
+[p. 204] [*Schuld nicht überführet werden kan.*]
+
+möglich und unmöglich annehmen, deren Möglichkeit und Unmöglichkeit der andere nicht erkandt hat, den wir zu überführen gedencken, oder auch, wenn wir unsere Wörter ihm nicht deutlich genug erklären (§. 2. 3.).
+
+[*Wie man aber sich ohne Grund vor überführet hält.*]
+
+§. 13. Man muß sich hüten, daß man nicht (wie alle Tage zu geschehen pfleget) eine Überredung, das ist, einen falschen Wahn, als wenn wir die Richtigkeit der Sache erkenneten, die wir doch bey weitem noch nicht sehen, vor eine Überführung hält. Es entstehet aber dergleichen Wahn, 1. wenn wir im Nachdencken nicht geübet sind, und nicht verstehen, was zu einer völligen Überführung erfordert wird: 2. wenn wir Vorurtheile von gewissen Leuten haben, als wenn ihr Verstand so scharfsinnig wäre, daß sie nichts unrichtiges vorbringen könten, und daher um deswillen etwas für wahr halten, weil sie es gesaget, und die angeführten Gründe gelten lassen, weil sie dieselbe vorgebracht: 3. wenn man ein allzugrosses Vertrauen gegen sich selbst hat, und daher nicht mit gehörigem Fleisse alles so überleget, als zu einer völligen Überführung vonnöthen ist: 4. Wenn man aus Übereilung, davon verschiedene Ursachen seyn können, nicht alles gebührend überleget, ob man gleich solches zu thun vermögend ist.
+
+[*Mittel wider den ersten Fehler.*]
+
+§. 14. Dem ersten Fehler nun wird abgeholffen, theils wenn man die Mathematick [p. 205] mit Fleiß tractiret, in welcher wir uns im Nachdencken so viel üben können, als uns gefället, auch allezeit glücklich hinaus kommen, weil wir demonstrirte Wahrheiten daselbst antreffen, theils wenn man sich die Regeln bekandt machet, die zum Nachdencken nöthig sind, davon ein guter und hinlänglicher Vorrath in meinem gegenwärtigen Wercke zu finden.
+
+[*Mittel wider den andern.*]
+
+§. 15. Dem anderen Fehler vorzukommen, durch welchen sonderlich die studirende Jugend verblendet wird, auch wenn sie mit dem Munde immer darwider redet, wäre freylich sehr dienlich, wenn man vor allen Dingen (§. 14.) dem ersten abhülffe, denn so würde der andere vor sich wegfallen: allein weil öffters die es hindern, welchen daran gelegen ist, durch ihre Autorität andere in Blindheit zu erhalten; so muß man nur durch augenscheinliche Exempel zeigen, wie grosse Leute und also noch öffters die, so sich nur selbst vor groß halten und ausgeben, gefehlet, daß uns dannenhero das Vertrauen auf ihre Fähigkeit von gehöriger Untersuchung der von ihnen vorgetragenen Sachen nicht dispensiren kan.
+
+[*Mittel wider den dritten.*]
+
+§. 16. Wenn wir aber gewiß versichert sind, daß auch Leute von grossem Verstande fehlen, und wir absonderlich wahrnehmen, daß sie sich am leichtesten übereilen, nachdem ihre glückliche Erfindungen ihnen ein allzugrosgrosses [p. 206] Vertrauen gegen sich selbst gemacht, auch bedencken, wie wir uns mehr als einmahl selbst betrogen, da wir vor wahr, oder auch vor erfunden gehalten, was uns nur erst angeschienen; so werden wir uns auch vor dem dritten Fehler in acht nehmen.
+
+[*Mittel wider den vierdten.*]
+
+§. 17. Wenn man sich endlich nicht übereilen soll, da man in dem Stande ist, der Übereilung keinen Raum zu geben, welches durch das erste Mittel erhalten wird (§.14); so muß man sich gleichfalls Exempel vorstellen, da man sich übereilet, und die Ursachen untersuchen, warum solches geschehen, damit man erkennen lernet, wie es unterweilen nicht möglich ist ohne ordentliche Überlegung, die Geübten insgemein als Kinder-Spiel vorkommet und beschwerlich fället, die Wahrheit einzusehen, und es in solchen Fällen ein blosses Glück ist, wenn wir das Wahre vor dem Falschen erwehlen.
+
+## Das 14. Capitel. Wie man einen wiederlegen soll.
+
+[*Was wiederlegen sey.*]
+
+#### §. 1.
+
+Wer einen andern widerlegen will, der nimmet sich vor zu zeigen, daß falsch oder wenigstens ungewiß sey, was der andere als eine ausgemachte Wahrheit vertheidiget.
+
+[p. 207] [*Wie der Wort-Streit zu vermeiden.*]
+
+§. 2. Damit nun aller Wort-Streit vermieden werde; so hat man sich wohl in acht zu nehmen, daß man seinem Gegner nicht eine falsche Meinung aufbürde: welches in den meisten Fällen zu geschehen pfleget, sonderlich wo Leute einen Ruhm darinnen suchen, daß sie andere zu widerlegen geschickt sind. Wie man aber den rechten Verstand seiner Worte finden könne, ist aus dem abzunehmen, was in dem vorhergehenden Capitel (§. 2.) erinnert worden. Wer aus Vorsatze andern zu schaden mit Wissen und Willen dem andern seine Worte verkehret, damit er ihm gefährliche Meinungen aufbürden, und ihn dadurch bey Unverständigen und die nicht Zeit haben die Sache selbst zu untersuchen, anschwärtzen kan, der verlanget nicht den Wort-Streit zu vermeiden, und kan derselbe nicht durch Regeln der Vernunfft-Lehre zurechte gebracht werden, als die bloß den Verstand in Ordnung bringen, wo man den Vorsatz hat die Wahrheit zu erkennen, nicht aber den bösen Willen bessern.
+
+[*Wie man wegen ungeschickter Wörter andere erinnern kan.*]
+
+§. 3. Unerachtet aber keine Widerlegung statt findet, wann man nur in Worten einander zuwider, in der Sache aber einig ist, als wenn einer sagte, die Seele verrichte alle Würckungen in dem lebendigen Cörper, und verstünde doch durch die Seele nichts anders als die flüßige Materie in den Nerven oder die Krafft des Cörpers; so ist doch unterweilen [p. 208] len zu besorgen, daß einige ungeschickte Redens-Arten in einem unrichtigen Verstande annehmen, und dadurch in Irrthum verleitet worden, da hingegen andere viel bequemer sind die Sache auszudrücken. In solchem Falle nun kan einer bescheiden erinnert werden, daß er sich solcher ungeschickten Redens-Arten ins künfftige enthalten, und lieber die gewöhnlichen brauchen wolle. Und damit er desto geneigteres Gehör gebe, kan man ihm vorstellen, daß einen jeden die Regeln der Klugheit verbinden, solche Mittel in allen Fällen zu erwehlen, die ihn am sichersten zu seinem Zwecke führen, niemahls aber davon auf Abwege leiten.
+
+[*Wie man den andern widerleget.*]
+
+§. 4. Wenn man aber in der Sache nicht einig ist; so muß man den andern der Unrichtigkeit seiner Meinung überführen, auf die Art und Weise, wie im vorhergehenden Capitel gezeiget worden. Man zeiget es nemlich auf zweyerley Weise. Entweder man führet aus, daß Gründe angenommen worden die unrichtig sind, oder auch aus richtigen Gründen unrichtig geschlossen worden (§. 16. c. 7.), oder man zeiget, daß der Satz, den einer behauptet, unmöglich sey, das ist, etwas widersprechendes in sich hält (§. 12. Met.): welches geschiehet, wenn man ihn vor wahr annimmet, und aus ihm nebst andern wahren Sätzen einen Satz demonstriret, den der Gegner selbst für unrichtig erkennet [p. 209] (§. 21. c. 4.), weil er nemlich einem Satze widerspricht, den er selbst als wahr einräumet. Denn weil die Schlüsse dieses Beweises alle in ihrer Forme richtig sind; so muß es an den Förder-Sätzen liegen, wenn ein unrichtiger Satz heraus kommet. Da nun alle die übrigen Förder-Sätze richtig sind; so muß der Satz, den der Gegner behauptet, und einer ihm zu Gefallen eingeräumet und unter die Förder-Sätze mit genommen, falsch seyn.
+
+[*Was von der Consequentien-Macherey zu halten.*]
+
+§. 5. Das Letztere pfleget man insgemein zu mißbrauchen, und meinet, wenn man einen widerlegen wolle; so müsse man ihm verhaßte Irrthümer vorrücken, als wenn sie aus seinem Satze folgeten, oder vorgeben, es würde dadurch alle Religion, alle Moralität, alle Zucht und Ehrbarkeit, ja alle gute Verfassung in dem gemeinen Wesen über den Hauffen gestossen. Denn eine *demonstratio per indirectum*, wie sie von den Mathematicis genennet wird, oder ein klarer und deutlicher Beweiß, daß ein Satz etwas widersprechendes in sich enthält, ist eine ganz andere Sache, als durch verhaßte Irrthümer unter dem Vorwande, als wenn sie aus des andern seiner Meinung folgeten, einen anschwärtzen. Und da die Consequentien-Macher gemeiniglich Leute sind, welche die Sache nicht verstehen, und daher sich an die Gründe der Meinung nicht wagen dürffen, [p. 210] noch können, die sie bestreiten wollen (§. 4.), über dieses genugsam verrathen, daß es ihnen nicht um die Wahrheit, sondern um etwas anders zu thun sey, weil sie es nicht bey einer Consequenz bewenden lassen, sondern von einer immer weiter auf eine fernere gehen, so lange sie nur etwas verhaßtes finden können auch diese fernere Consequentien allemahl wiederholen, so ofte sie einen Schein zu haben vermeinen dem Gegner die erste vorzurücken; so ist die Consequentien-Macherey Verständigen und Tugendliebenden ein Abscheu, und vergönnet man ihr nirgends einen Platz als unter den Mitteln einen Gegner bey Unverständigen und denen, welche nicht Zeit haben die Sache selbst zu untersuchen, mit seiner Meinung verhasset, oder auch lächerlich zu machen, nachdem der Consequentien-Macher einen grossen oder kleineren Vorsatz dem Gegner zu schaden hat. Und dieses ist die Ursache, warum wir der Consequentien-Macherey, wie anderen falsch berühmten Disputir-Künsten in unserer Vernunfft-Kunst keinen Platz vergönnen.
+
+[*Wie man sich in Worten in acht zu nehmen hat.*]
+
+§. 6. Da nun derjenige, welcher überführet werden soll, auf alles genau acht haben muß (§. 10. c. 13.); so muß man sich von allem enthalten, was unseren Gegner in den Harnisch jagen kan. Solchergestalt muß man so reden und schreiben, daß er keinen Verdacht daraus schöpffen kan, als wenn [p. 211] man ihn geringe hielte und verachtete, zumahl wenn er Verdienste vor sich hat. Und es muß überhaupt aus unserer Widerlegung nichts erhellen als Aufrichtigkeit, Liebe zur Wahrheit und gegen den Irrenden, keinesweges aber Mißgunst, Hochmuth, Begierde dem Gegner zu schaden: mit einem Worte Tugend und kein Laster.
+
+[*Woher die Scheltund Schmäh-Worte in Widerlegungen herrühren.*]
+
+§. 7. Wer anders verfähret, der führet sich entweder als einen Thoren, oder als einen lasterhaften Menschen auf. Denn entweder er thut es mit Fleiß, und siehet gar wohl, daß er auf solche Weise den andern nicht auf andere Gedancken bringen werde, oder er hat den Vorsatz seinen Gegner auf andere Gedancken zu bringen. In dem ersten Falle will er des andern Ehre bey Unverständigen kräncken, und sich bey ihnen in grosses Ansehen setzen, oder auch wohl gar den Grund zu einer Verfolgung legen. Also hat er Begierde dem andern zu schaden, und mißgönnet ihm seinen guten Nahmen, will ihn auch bisweilen durch sein unverschämtes Maul an seinem Glücke hindern, folgends stecket er in den Lastern bis über die Ohren, indem bey ihm die Begierde anderen zu dienen nicht zu finden, und er noch ganz unter der Herrschaft der Affecten und unordentlichen Begierden sich befindet. In dem andern Falle erwehlet er Mittel, die ihn von seinem Zwecke abführen. Er will den anderen [p. 212] seines Irrthums überführen, und greiffet es auf eine solche Art an, daß er nicht überführet werden kan. Dieses aber ist die Eigenschafft, wodurch sich Thoren von klugen Leuten unterscheiden.
+
+[*Wie sich Verständige und Tugendhaffte aufführen.*]
+
+§. 8. Dannenhero werden wir auch heute zu Tage finden, daß Leute, die eine gründliche Gelehrsamkeit mit der Tugend zu verbinden sich bemühen, mit solchen Gegnern nichts mögen zu thun haben, die sich im Widerlegen nicht tugendhafft aufzuführen wissen, zumahl da meistentheils solche Gegner in den Sachen nicht genug erfahren sind, die sie widerlegen wollen. Und wenn sie auch Verständigen, die in diesem Stücke über die Schnur gehauen, aus besondern Umständen zu antworten sich genöthiget finden; so übergehen sie alle Anzüglichkeiten mit Stillschweigen, und lassen sich durch des andern böses Exempel von der Tugend keinesweges zu Lastern verleiten. Diesen Exempeln soll nun ein jeder folgen. Es ist eben so rühmlich tugendhafft als verständig zu seyn, zumahl wo die Tugend aus Verstande kommet und nicht nur das äussere durch Gewohnheit erreichet.
+
+[*Wenn man einem etwas hart begegnen muß.*]
+
+§. 9. Zuweilen ist es nöthig einem hochmüthigen und unverständigen Gegner zu zeigen, daß er in der Sache ganz unerfahren sey, durch eitelen Hochmuth zerberšten wolle, über andere sich ohne Grund erhebe, und ihr wohl [p. 213] wohl verdientes Lob mit Ungrund schmälere, und so weiter. Es kan aber dieses niemand zur Entschuldigung seines lasterhafften Verfahrens brauchen: Denn man muß auch in diesem Falle alles mit tüchtigen Gründen, mit gebührendem Glimpffe und mit erforderter Bescheidenheit vornehmen.
+
+[*Wie man Verfolgern zu begegnen hat.*]
+
+§. 10. Es ist auch unterweilen nöthig, daß man sich gegen die Lästerungen seiner Verfolger vertheidigen muß, die sie für Widerlegungen ausgeben. Gleichwie es nun in diesem Falle nicht allein darauf ankommet, daß einer seine Meinung von falschen Auflagen befreyet, indem diejenigen, bey welchen ihre Lästerungen und Verleumdungen gelten, nicht in dem Stande sind die Sachen zu untersuchen und zu überlegen, sondern hauptsächlich erfordert wird, daß man ihren Credit schwächet; so muß man deutlich zeigen, daß es ihnen an Verstande und an Aufrichtigkeit fehlet (§. 5. c. 7.) und sonderlich in Ansehung derjenigen, bey denen sie denn Gehöre finden können, beyden Mangel mit seinem rechten Nahmen nennen. Denn hier, wo man einen durch Verfolgung um Ehre, Gut und Blut bringen will, kommet es nicht auf Streitigkeiten unter den Gelehrten an, sondern auf eine Nothwehre um den Schaden abzuwenden, den man einem zufügen will, und muß diese aus moralischen Gründen beurtheilet werden (§. 853. Mor.).
+
+[p. 214]
+
+## Das 15. Capitel. Wie man disputiren soll.
+
+§. I.
+
+[*Was Disputiren sey.*]
+
+Wer mit einem andern disputiret, hat sich vorgenommen ihn des Irrthums seiner Sätze, die er behauptet, mündlich zu überführen.
+
+[*Die Disputanten müssen einander widersprechen.*]
+
+§. 2. Also muß er leugnen, was der andere behauptet; behaupten, was der andere leugnet; vor gewiß ausgeben, was der andere nur vor wahrscheinlich hält; vor ungewiß halten, was dem anderen gewiß scheinet. Solchergestalt müssen die Disputanten allezeit worinnen einander widersprechen.
+
+[*Wie Wort-Streit zu vermeiden.*]
+
+§. 3. Derowegen ist vor allen Dingen nöthig, daß die in dem Satze vorkommende Wörter erkläret werden, damit es nicht auf einen Wort-Streit hinauslaufft (§. 2. c. 2.). Und pfleget man dannenhero, wenn der Verstand etwas dunckel ist, zu fragen, in was vor eine Bedeutung dieses oder jenes Wort genommen werde.
+
+[*Wie man den Respondenten zur Erklärung seines Satzes bringet.*]
+
+§. 4. Manchmahl will der Respondente keine Erklärung geben, weil er sich aus Unverstande einbildet, man wolle ihn nur verirren, oder auch wohl keinen deutlichen Begriff von seinen Wörtern hat, und also sich nicht erklären kan. Damit wir nun die Er-kläklärung [p. 215] mit Gewalt heraus bekommen; so müssen wir seinen Satz der Dunckelheit beschuldigen, weil die darinnen enthaltene Wörter keine richtige Bedeutung haben. Denn wenn er saget, sie haben eine richtige Bedeutung; so muß er sie erklären, massen die Bedeutung der Wörter willkührlich ist, und also der andere sie nicht errathen kan.
+
+[*Was der Opponente zu thun hat.*]
+
+§. 5. Wenn man nun der Bedeutung wegen richtig ist; so fänget der Opponente an seinen Beweiß vorzubringen und führet ihn so lange fort, bis er in seinen Schlüssen auf Förder-Sätze kommet, die dem Respondenten bekandt sind und die er zugiebet (§. 21. c. 4.). Weil nun aber dieser so wohl die Richtigkeit der Förder-Sätze in den Schlüssen, als auch die Richtigkeit der Schlüsse selbst erkennen muß (§ 3 c 13.); so muß der Beweiß in förmliche Schlüsse gebracht werden, von denen man doch unterweilen einen Förder-Satz weglassen und sich also eines verstümmelten Schlusses bedienen darff (§. 17. c. 4.), wenn man nemlich versichert ist, daß ihn der Respondente nicht leugnen wird. Es muß aber der Anfang von dem letzten Schlusse gemacht werden, dessen Hinter-Satz dem Satze des Respondenten widerspricht.
+
+[*Was der Respon-*]
+
+§. 6. Der Respondente muß alle Schlüsse annehmen (§. 10. c. 13.), und damit man sehe,
+
+[p. 216] [*Was der Opponente ferner zu thun hat.*]
+
+er habe sie recht eingenommen, dieselben noch einmahl wiederholen. Wenn der Schluß in seiner Forme nicht richtig ist, muß er es zeigen: ist er aber richtig; so muß er ihn entweder ganz zugeben, oder einen, unterweilen auch beyde Förder-Sätze leugnen und zwar entweder schlechterdinges, oder unter gewissen Bedingungen.
+
+[*Was der Opponente ferner zu thun hat.*]
+
+§. 7. Den Förder-Satz, den der Respondente leugnet, muß der Opponente mit einem neuen Schlusse beweisen, darinnen er zum Hinter-Satze wird, und wenn jener limitiret, die limitation entweder annehmen, oder ihre Unrichtigkeit zeigen (§. 5.).
+
+[*Warum man durch förmliche Schlüsse disputiret.*]
+
+§. 8. Wer sich dessen besinnet, was oben in den Demonstrationen gesaget und selbst durch ein Erempel aus der Geometrie bestätiget worden (§. 22. 24. c. 4.), dem wird es nicht wunderlich vorkommen, daß wir im Disputiren lauter förmliche Schlüsse erfordern, und die bey uns gewöhnlichen Discurse verwerffen. Denn so bald die Disputanten zu discuriren anfangen, kommen sie gemeiniglich von der Sache ab, und niemahls aus einander.
+
+[*Was der Præses zu thun hat.*]
+
+§. 9. Weil der Præses die Stelle des Respondenten vertritt, wenn er nicht mehr fortkommen kan, nicht aber, wie sich einige einbilden, deswegen zugegen ist, daß er den Ausschlag geben soll; so lieget ihm alles dasjenige [p. 217] jenige, ob, was dem Respondenten oblieget. Sie stehen beyde vor einen Mann.
+
+[*Was vor Complimente zu machen.*]
+
+§. 10. Was der Respondente vor eine Formul brauchen soll, wenn er den Opponenten invitiret, und was der Opponente sagen soll, wenn er sich bedancket, lassen wir auf die Gewohnheit ankommen, welche dergleichen Sachen am besten lehren kan.
+
+[*Wie durch Fragen zu disputiren.*]
+
+§. 11. Es stehen einige in den Gedancken, als wenn es besser wäre durch Fragen zu disputiren: allein wer durch Fragen geschickt disputiren will, muß vorher durch Schlüsse wohl disputiren können. Denn es kommet hier eben alles darauf an, daß wir fragen, ob der andere uns diese oder jene Förder-Sätze zugiebet, oder verlanget, daß sie noch ferner sollen erwiesen werden: ingleichen ob er um der Förder-Sätze willen den Hinter-Satz zugiebet.
+
+## Das 16. Capitel, Wie man eine Fertigkeit in Ausübung der Logick erhalten soll.
+
+#### §. 1.
+
+[*Mittel zur Ausübung der Logick zu gelangen.*]
+
+Alle Fertigkeit wird durch die Übung erhalten. Derowegen kan auch die Fertigkeit die Logick auszuüben nicht anders, als durch viele Übung [p. 218] Übung erhalten werden. Eben weil man diese Übungen unterlässet, oder auch wohl im Gegentheil ihnen beständig entgegen handelt; so kommet nicht ein jeder zu der Fertigkeit, die einem jeden Gelehrten doch höchst nöthig ist.
+
+[*Einwürffe.*]
+
+§. 2. Es meinen zwar einige, Mutter-Witz übertreffe den Schul-Witz, das ist, die natürliche Logick gehe der künstlichen weit vor: ja einige wollen mit der künstlichen gar nichts zu thun haben und halten die natürliche allein genung zu allen Verrichtungen des Verstandes. Sie meinen, man könne die Kräffte des menschlichen Verstandes in Erkäntniß der Wahrheit richtig gebrauchen, ohne daß man nöthig habe zu lernen, wie man sie gebrauchen solle.
+
+[*Beantwortung des ersten.*]
+
+§. 3. Es ist bey diesen Einwürffen viele Verwirrung, die einen blendenden Schein verursachet. Wir dürffen also das Verworrene nur aus einander wickeln; so verschwindet der Schein von sich selbst und die Einwürffe fallen weg. Es ist an dem, der Mensch hat eine Geschicklichkeit von Natur zu den Verrichtungen des Verstandes und dem Verstande sind Regeln vorgeschrieben, darnach er sich achtet, ob er sie gleich nicht verstehet, gleichwie die Cörper sich nach gewissen Regeln bewegen und selbst der Mensch im Gehen und Stehen gewisse Regeln in acht nimmet, die er nicht verstehet [p. 219] stehet. Diese dem Verstande von GOtt vorgeschriebene Regeln und die natürliche Geschicklichkeit darnach zu handeln, machen die natürliche Logick und insonderheit die letztere den so genannten Mutter-Witz aus. Gleichwie nun in anderen Stücken, sie mögen Nahmen haben wie sie wollen, immer ein Mensch mehrere Geschicklichkeit besitzet als der andere; so verhält sichs auch mit dem Verstande, daß einer zu dessen Verrichtungen mehr aufgeleget ist als der andere. Wenn demnach gleich zwey, die verschiedene Geschicklichkeit haben, die Logick lernen und gleichen Fleiß anwenden eine Fertigkeit sie auszuüben zu erlangen; so wird es doch der eine weiter bringen als der andere. Wir finden es eben so in allen andern Fällen, wo eine Fertigkeit erreichet werden soll, und darf uns dannenhero dieses nicht bey dem Verstande befremden. Wenn demnach der Vorzug des Mutter-Witzes vor dem Schul-Witze verständlich erkläret werden soll; so muß man sagen: wenn einer von Natur zu den Verrichtungen des Verstandes mehr aufgeleget ist als der andere, und wenden beyde gleichen Fleiß an die Logick zu lernen und in Übung zu bringen; so kommet der erste weiter als der andere. Daraus folget im geringsten nicht, daß man die natürliche Logick der künstlichen entgegen setzen müsse. Die künstliche erkläret die [p. 220] die Regeln der natürlichen und lehret die natürliche Geschicklichkeit zur Fertigkeit zu bringen.
+
+[*Beantwortung des andern Einwurffes.*]
+
+§. 4. Am allerwenigsten aber kan man weiter gehen und sagen, man dörffe die Logick gar nicht lernen, am allerwenigsten aber sey nöthig sich zu bemühen, wie man sie in Übung bringe. Wo man die Regeln, darnach sich der Verstand achtet, nicht deutlich erkennet, kan man im Gebrauche seiner Kräfte unrichtig verfahren, wie wir Exempel an den unrichtigen Schlüssen haben, dadurch unterweilen Gelehrte in Irrthum verleitet werden. Das Auge hat auch seine Regeln, wornach es sich im Sehen achtet: allein nach eben den Regeln, welche das Auge in acht nimmet, indem man siehet, kommt auch der Betrug im Sehen heraus. Wer nun in der Optick diese Regeln deutlich erkandt, kan den Betrug entdecken, und sich für Irrthum bewahren. Eine gleiche Beschaffenheit hat es mit dem Verstande. Unterweilen meinet man die künstliche Logick sey nichts nütze, weil man entweder findet, daß uns diejenige nichts hilft, die wir gelernet haben, oder andere, die nichts davon wissen, eben so wohl zu rechte kommen können als wir. Allein es ist die Frage, ob die künstliche Logick, die wir gelernet, etwas nutzet oder nicht, indem heute zu Tage vieles davor ausgegeben [p. 221] den wird, so diesen Nahmen gar nicht verdienet, und wenn wir auch gleich die wahre gelernet, ob wir in dem Stande sind sie in Übung zu bringen, oder nicht: das Letztere ist nicht gleich bey dem Ersteren (§. 1.). Über dieses ist es nicht weniger eine grosse Ubereilung, wenn man davor hält, daß Leute, die keine Logick gelernet, oder wenigstens nicht darnach getrachtet, wie sie dieselbe ausüben möchten, keine Übungen angestellet. Sie stellen allerdings Übungen an, ob sie es gleich selbst nicht wahrnehmen, indem sie andern, die ihren Verstand richtig gebrauchen, in allerhand vorkommenden Fällen nachahmen.
+
+[*Mittel zur Fertigkeit in Ausübung der Logick zu gelangen.*]
+
+§. 5. Wenn man nun dergleichen Übungen anstellen will, dadurch man eine Fertigkeit in Ausübung der Logick erreichen kan; so muß man solche Schrifften lesen, die nach den Regeln der Logick verfasset worden, und sie dergestalt untersuchen, wie oben in dem 9. und 11. Capitel ausgeführet worden. Denn hierdurch lernet man nicht allein erst die Regeln besser verstehen, indem man die zu den Wörtern gehörige Begriffe durch eigene Erfahrung erhält, sondern man wird auch von deren Richtigkeit immer mehr und mehr überzeuget und sieher, wie sie in vorkommenden Fällen angebracht werden. Woferne man die Schrifften bloß lieset, aber dabey nicht untersucht, [p. 222] warum man nach den Regeln der Logick so und nicht anders verfahren; so bekommet man zwar eine Fertigkeit im Nachdencken und Überlegen, aber man bringet es doch nicht so weit, daß man wider die Regeln der Logick niemahls verstossen solte, und sie in solchen Fällen zu gebrauchen wüste, wo man ohne deutliche Erwegung derselben nicht zu rechte kommen kan.
+
+[*Was für Ubungen bisher fehlen.*]
+§. 6. Man solte demnach eine Art der Übung einführen, die man bishero noch nicht beobachtet hat, daß nemlich Bücher mit Studirenden dergestalt durchgegangen würden, daß sie alles nach der Logick untersuchten und den Grund davon aus ihren Regeln anzeigten; so würde man auch gleich die unächte Logick von der wahren unterscheiden lernen, welches insonderheit in unsern Tagen nöthig ist, wo man bey der vermeinten Freyheit zu philosophiren gar oft solche Regeln zu dencken vorschreibet, darnach ein Mensch unmöglich dencken kan, und fähige Köpfe verderbet werden, indem sie sich darnach achten wollen, da sie durch ihre natürliche Logick viel glücklicher fortkommen würden.
+
+[*Was die Mathematick dazu nutzet.*]
+§. 7. Es ist nicht zu leugnen, daß man bisher keine Schriften gehabt, als die Schriften der alten Geometrarum, die man in diesem Stücke nützlich gebrauchen können. Und damit ich sie zu gegenwärtigem heilsamen Zwecke noch geschickter machte, habe ich die [p. 223] die mathematischen Wissenschaften dergestalt abgehandelt, daß die Worte eben in solcher Ordnung nach einander stehen, wie die Gedancken auf einander folgen, wenn man durch Verstand den Sachen nachdencket. Ich habe so gar diesen Vortrag in dem Auszuge der Anfangs-Gründe der mathematischen Wissenschaften nicht aus den Augen gesetzet, damit einer, der meine Schrifften lieset, nicht allein in kurtzer Zeit eine gründliche Erkäntniß der Mathematick erreichet, sondern auch ohne Mühe sie so durchgehen kan, wie der Verstand erweitert und zu richtigem Gebrauch seiner Kräfte in Erkäntniß der Wahrheit zubereitet wird.
+
+[*Vorurtheil wird benommen.*]
+§. 8. Wer sich überredet, die Mathematick schärffe den Verstand, er mag sie *tractiren*, wie er wolle, der betrügt sich gar sehr. Denn nicht die Sachen, welche in der Mathematick vorgetragen werden, sondern die Art des Vortrages u. die dabey angewandte Überlegung sind es, welche dieses ausrichten. Wer die Mathematick wie andere Dinge, ohne eine richtige Lehr-Art lernet, der hat von ihr in Ausübung der Logick keinen Nutzen zu gewarten, am allerwenigsten aber kan er sich dergleichen versprechen, wo man ihm nichts weniger als mathematische Discurse unter dem Nahmen der Mathematick verkauft. Es kan dadurch vielmehr, wie durch ververwirreten [p. 224] und unausgeführten Vortrag in andern Sachen, der Verstand gar verdorben werden, welches um so vielmehr zu sagen hat, wenn hier ein Vorurtheil darzu kommet, als wenn man durch die Mathematick seinen Verstand geschärffet hätte.
+
+[*Wie sie insonderheit ein Mittel wird sich im Nachdencken zu üben.*]
+§. 9. Damit ich meine Anfangs-Gründe der mathematischen Wissenschafften und den daraus verfertigten Auszug zu diesem Zwecke auf das geschickteste machte, als möglich erachtet werden mag; so habe ich die Sachen zugleich auf eine solche Art fürgetragen, wie sie durch Nachdencken heraus gebracht, oder erfunden werden. Denn unerachtet ich gar wohl weiß, daß verschiedenes nach vielen vergebenen Umwegen endlich erfunden, und nach und nach durch verschiedenen Anlaß verbessert worden; so ist es doch gewiß, daß, wenn die Menschen ihren Verstand allezeit völlig zu gebrauchen wüsten, sie auf solche Art würden verfahren seyn. Da wir nun den rechten Gebrauch zu erlernen intendiren, nicht aber die Abwege zu gehen verlangen; so ist dieser Vortrag eben so eingerichtet, wie es das gegenwärtige Vorhaben erfordert.
+
+[*Ferneres Mittel.*]
+§. 10. Man siehet aus dem, was ich gesaget, daß es nicht auf die mathematische Wahrheiten ankommet, wenn man durch die Mathematick eine Fertigkeit in Ausübung [p. 225] der Logick erreichen will, sondern auf die Art des Vortrages, wenn man nemlich sich in allem nach den Regeln einer wahren Logick achtet. Derowegen, wenn man in andern Wissenschaften auf gleiche Weise verfähret; so kan man durch Überlegung auch mit ihrer Beyhülffe die verlangte Fertigkeit erlangen. Und in dieser Absicht habe ich mir angelegen seyn lassen, alle Theile der Welt-Weisheit in einer beständigen Verknüpfung mit einander abzuhandeln. Wer demnach dieselben mit Bedacht durchgehet, die Erklärungen und Beweise nach den Regeln der Logick, die ich gegeben, untersucht, der wird eben dadurch erlangen, was man sich von den mathematischen Schriften zu versprechen hat.
+
+[*Wie man Sinnen und Verstand in Erkäntniß der Wahrheit vereinbahret.*]
+§. 11. Insonderheit habe ich in den Versuchen, wodurch zu genauer Erkäntniß der Natur der Weg gebahnet wird, oder in der sogenannten Experimental-Philosophie alles dergestalt vorgetragen, wie es durch Überlegung aus einander heraus gebracht wird, indem man den Gebrauch der Sinnen und des Verstandes mit einander vereinbahret. Und ist hierbey meine Absicht gewesen, wie ich den Leser nach und nach unvermerckt zum Nachdencken anführen möchte, damit er eine Fertigkeit erhielte, aus der Erfahrung determinirte Sätze zu ziehen, und durch Hülffe einiger den Grund [p. 226] von den übrigen zu finden, folgends die Vernunft mit der Erfahrung zu vereinbahren. Dieses nutzet nicht allein ungemein denjenigen, welche ihre Absicht auf die heilsame Kunst gerichtet haben, indem sie auf gleiche Weise aus der Erfahrung sich erbauen und in derselben immer fester setzen müssen, sondern es kommt auch allen denen zustatten, die mit Staats-Geschäften zu thun haben, ja einem jeden, der moralische und politische Wahrheiten aus der Erfahrung erlernet, auch seine eigene Geschäfte im menschlichen Leben geschickt zu führen durch fremde Exempel klug werden will. Und in dieser Absicht können auch diejenigen meine Experimental-Philosophie mit Nutzen vornehmen, die sonst nach der Erkäntniß der Natur nicht viel fragen, sondern in den Gedancken stehen, daß sie diese Curiositäten nur in der Hoffnung lerneten sie einmahl wieder zu vergessen. Denn wir wollen setzen, es sey an dem, daß sie alle Sätze und Begriffe, die sie aus der Experimental-Philosophie erlernet, wiederum vergessen müsten, wenn sie in andere Umstände gerathen und andere Amts-Verrichtungen bekommen, die damit nichts zu thun haben, welches wir doch keinesweges einräumen können; so bleibet ihnen doch die Geschicklichkeit die Erfahrung zu ihrem Nutzen anzuwenden und daraus klug zu werden zurücke, die sich die ganze Zeit [p. 227] ihres Lebens behalten können, wenn sie dieselbe bey andern Gelegenheiten brauchen.
+
+[*Wie des Autoris lateinische Schrifften von der Welt-Weisheit zu Ausübung der Logick dienlich.*]
+§. 12. Gleichwie ich aber die lateinische Mathematick dergestalt eingerichtet, daß man sie zur Ausübung der Logick desto bequemer gebrauchen kan; so werden auch meine lateinische Schrifften von der Welt-Weisheit diese Absicht noch nachdrücklicher als die deutschen befördern können, indem ich nicht allein von allen Wörtern, insonderheit den Kunst-Wörtern, tüchtige Erklärungen gebe, und aus ihnen und den vorhergehenden Sätzen die folgenden heraus leite und erweise, sondern auch alles abgesondert, und durch verschiedene Schrifft unterschieden vortrage, die Sätze auf eine determinirte Art gewähre, und weder in die Erklärung, noch den Beweiß etwas einstreue, was bloß zur Erläuterung und besserem Verstande gehöret, vielmehr dieses besonders mit anderer Schrift an jedem Orte beyfüge, insonderheit sowohl die Sätze, als Erklärungen mit Exempeln dergestalt erläutere, daß man dieselbe geschickt und ohne Mühe in einem jeden Falle anbringen lernet. Und dieses habe ich sogleich in der Logick selbst gethan, damit man durch Erlernung der lehrenden Logick, auch zugleich die ausübende erlanget, und die Logick selbst Exempel gewähret, wodurch ihre Regeln erläutert und also besser mögen verstanden werden, [p. 228] den. Man darf demnach nur meine lateinische Schriften von der Welt-Weisheit, die nach und nach an das Tage-Licht treten, mit Bedacht durchgehen, daß man alles verstehen lernet und wohl fasset; so wird der Verstand in Ausübung der Logick gnug in Ordnung gesetzet werden, und man wird unvermerckt zu einer Fertigkeit des Verstandes gelangen, auf die man sich um so viel weniger Hoffnung gemacht, je weniger man davon einen Begrif gehabt.
+
+[*Was Schriften zur Ausübung der Logick bey-tragen, die nicht gründlich sind.*]
+
+§. 13. Wenn Schriften nicht gründlich eingerichtet sind; so unterlässet man nicht allein, was man nach den Regeln der Logick zu thun hätte, sondern man handelt auch gar darwider. Und also giebt es Mängel und Fehler zu mercken, deren jene aus Unterlassung dessen, was man nach den Regeln der Logick thun solte: diese hingegen daher entstehen, daß man denselben zuwider handelt. Es hat in Ausübung der Logick auch seinen Nutzen, wenn man die Mängel und Fehler kennen lernet, damit man jene vermeiden, für diesen aber sich hüten kan. Was man aus der Erfahrung hat, ist immer klärer und fester gewurtzelt, als wo man es auf die Erkäntniß des Verstandes allein ankommen lässet, absonderlich in solchen Fällen, wo es auf Thun und Lassen ankommet. Solchergestalt kan man unausgeführte Schriften zu dem Ende durchgehen und [p. 229] nach der Logick untersuchen, damit man die Mängel und Fehler erkennen lernet, und sie genauer zu beurtheilen und sich davor in acht zu nehmen desto geschickter wird. Es geschiehet aber auch gar oft, daß wir durch Verbesserung der Mängel und Fehler zugleich lernen, was man zu thun hat, wenn man es recht machen will. Und also haben auch die Schriften derer, die für die sonst nichts taugen, welche gründliche Erkäntniß lieben, noch den Nutzen, daß sie dieselben zu gründlicher Erkäntniß geschickter machen. Ja es kommet noch dieser Nutzen dazu, daß einer, der gründliche Erkäntniß liebet, dadurch begieriger wird derselben nachzujagen, je mehr er die Mängel und Fehler kennen lernet, denen diejenigen unterworffen sind, die nur obenhin alles ansehen und der Ubereilung vielfältig Platz vergönnen.
+
+[*Wenn man diese Ubungen anstellen soll.*]
+
+§. 14. Ehe einer die Mängel und Fehler beurtheilen kan, muß er es vorher selbst recht machen können. Denn wenn man die Mängel und Fehler beurtheilen will; so soll man urtheilen, ob der andere etwas unterlassen, was vermöge der Regeln der Logick wäre nöthig gewesen, und ob er in etwas anders verfahren, als es nach eben diesen Regeln geschehen sollen (§.13.). Wer sich in diesem Urtheile nicht übereilen will, der muß nicht allein die Regeln der Logick völlig verstehen, sondern auch davon einen Begriff haben, [p. 230] haben, wie sie in sich ereignenden Fällen angebracht werden. Und also muß er es vorher recht machen können, ehe er beurtheilen kan, worinnen es der andere versehen kan. Derwegen da man die Regeln der Logick erst recht verstehen lernet und den Begrif davon, wie sie angebracht werden, erhält, wenn man gründlich ausgeführte Schrifften durchgehet, und dabey überleget, wie in ihnen der Logick ein Genügen geschehen (§. 5.); so muß man zuerst gründliche Schrifften mit gehörigem Bedachte durchgehen, ehe man sich über diejenigen macht, darinnen nichts gründlich ausgeführet worden. Man muß erst eine Fertigkeit erreichen die Logick auszuüben, ehe man urtheilen will, wie andere dargegen verstossen.
+
+[*Was für Schaden daraus erwächset, wenn man sie zuerst vornehmen will.*]
+
+§. 15. Wenn man vorher die Mängel und Fehler derer untersuchen wolte, denen es an gründlicher Erkäntniß fehlet; so liesse man Gefahr zu verstossen und würde öfters für Fehler halten, was keine sind. Und dieses würde um so viel eher geschehen, woferne man gar keine richtige Regeln der Logick erlernet hätte, die man nicht besser probiren kan, als wenn man gründlich ausgeführte Schrifften untersuchet, insonderheit die nach Art der alten eingerichteten Demonstrationen in der Geometrie, an deren Richtigkeit [p. 231] Richtigkeit man keinen Zweiffel zu setzen hat. Man kan es leider zur Gnüge sehen, wenn Leute über gründlich ausgeführte Sachen kommen, die keine rechte Logick gelernet haben, vielweniger in dem Stande sind sie geschickt anzubringen, wie sie da und dort Mängel und Fehler entdecket zu haben vermeinen, wo man am allerrichtigsten verfahren. Sie tadeln die Erklärungen deswegen, warum man sie loben solte, und setzen als ein Versehen, in Einrichtung der Sätze, ihre Beweise und Ordnung aus, was sie am meisten rühmen würden, wenn sie eine Fertigkeit in der wahren Logick besässen. Ja andere, die einen guten Grund in der Logick geleget, und durch die Mathematick einige Fähigkeit erreichet haben, stossen dennoch als Anfänger überall an und sehen für unrecht an, was sie noch nicht verstehen, oder ihnen bisher nicht vorkommen ist, oder was sie in ihren Anfangs-Übungen übersehen. Aus welchem allem zur Gnüge zu ersehen, wie grosse Behutsamkeit es brauchet, wenn man die Mängel und Fehler untersuchen will, die wider die Logick begangen worden, insonderheit da vieles einen Schein haben kan, als wenn es nicht richtig wäre, so gleichwohl richtig erfunden wird, wo man die Würckungen des Verstandes von den Wörtern, damit man sie [p. 232] ausdrücket, wohl zu unterscheiden weiß. Man muß sich also in diesem Stücke nicht übereilen und insonderheit in den Schriften derer, die Proben ihres Verstandes abgeleget, nicht sogleich für Fehler halten, darein man sich nicht leicht finden kan, sondern warten, ob nicht mit der Zeit, wenn wir zu grösserer Fähigkeit gelanget, uns die Sachen anders vorkommen. Was ich hier schreibe, kan ich aus eigener Erfahrung nicht gnung recommendiren. Es kommet sonst noch anderer Schaden daraus, wenn man sich zu frühzeitig darauf leget, wie man Mängel und Fehler untersuchen will. Man wird aufgeblasen und verachtet das Gute, wodurch man mehr Gefallen an dem Tadeln, als an gründlicher und nützlicher Erkäntniß findet: wovon ein mehreres zu reden hier nicht Ort und Gelegenheit ist.
+
+[*Wie man in der Fertigkeit die Logick zu gebrauchen nach und nach zunimmet.*]
+
+§. 16. Es muß sich aber niemand einbilden, als wenn es eine so leichte Sache wäre, eine Fertigkeit die Logick in allen vorkommenden Fällen richtig zu gebrauchen, zu erlangen. Es will gar viele Übung haben und nimmet man in diesem Stücke immer nach und nach zu. Ja, wenn man im Anfange, da man einigen Fortgang verspühret, vermeinet, man hätte nun alles, wie man [p. 233] man es nur wünschen möchte; so lernet man bey einer grösseren Fertigkeit erst sehen, wie man noch bey weitem nicht besitzet, was man schon bey einem geringeren Grade zu haben vermeinte. Und nach diesem gehen einem die Augen erst recht auf und siehet man alles ganz anders an als vorher. Ich schreibe aus der Erfahrung, und wer sich nach meinem Rathe, den ich hier ertheilet, achten wird, derselbe wird alles erfahren, daß es Wahrheit sey. GOtt gebe, daß es viele erfahren mögen!
+
+[p. 234]
+
+## Das erste Register, über einige Kunst-Wörter.
+
+Allgemeiner Begrif, notio universalis.
+Allgemeiner Satz, propositio universalis.
+Anmerckung, scholion.
+Arten der Schlüsse, modi syllogismorum.
+Aufgabe, problema.
+Auflösung der Aufgabe, resolutio problematis.
+Ausführlicher Begrif, notio completa.
+Ausübende Logick, Logica practica.
+Ausübungs-Satz, propositio practica.
+Begrif, notio, idea.
+Bekräftigender Satz, propositio affirmativa.
+Beschreibung, descriptio.
+Besonderer Satz, propositio particularis.
+Deutlicher Begrif, notio distincta.
+Dunckeler Begrif, notio obscura.
+Empfinden, percipere.
+Empfindung, perceptio.
+Erklärung, definitio.
+Erklärung der Sache, definitio realis.
+Erwegende Logick, Logica docens.
+Erwegungs-Satz, propositio theoretica.
+Forder-Glied, subjectum.
+Forder-Sätze, præmissæ.
+Förmlicher Schluß, syllogismus in forma.
+Grund-Urtheil, judicium intuitivum.
+Grund-Satz, axioma.
+Heische-Satz, postulatum.
+Hinter Glied, prædicatum.
+Hinter-Satz, conclusio.
+Klarer Begrif, notio clara.
+
+[p. 235] Leerer Begrif, propositio identica.
+Lehr-Satz, theorema.
+Mittel-Glied, medius terminus.
+Nach-Urtheil, judicium discursivum.
+Ober-Satz, major sc. propositio.
+Sach-Erklärung, definitio realis.
+Satz, propositio.
+Satz des Widerspruches, principium contradictionis.
+Einen Satz gedencken, propositionem concipere, nicht können gedencken, non posse concipere, nicht wissen, ob er sich gedencken lasse, oder nicht, nullum ejus habere conceptum.
+Schluß, syllogismus.
+Schluß unter einer Bedingung, syllogismus hypotheticus.
+Uebungs-Satz, propositio practica.
+Verknüpfung der Begriffe, nexus notionum.
+Verneinder Satz, propositio negativa.
+Verstümmelter Schluß, enthymema.
+Versteckter Schluß, syllogismus crypticus.
+Unausführlicher Begrif, notio incompleta.
+Undeutlicher Begriff, notio confusa.
+Unmittelbahre Folge, consequentia immediata.
+Unter-Satz, minor scil. propositio.
+Unvollständiger Begrif, notio inadæquata.
+Vollständiger Begrif, notio adæquata.
+
+Willkührlich formirter Begrif, notio arbitraria.
+Wort-Erklärung, definitio nominalis.
+Wort-Streit, logomachia.
+
+Zergliederung der Begriffe, analysis notionum.
+Zergliederung des Satzes, analysis propositionis.
+Zusatz, corollarium.
+
+Das
+
+[p. 236]
+
+## Das andere Register, darinnen die vornehmsten Sachen zu finden.
+
+Aspecten Machen kein Wetter, 120. 121
+Affecten. Wie sie erkandt werden, 60. 159
+Alles hat seinen Grund, warum es ist, 2
+— ist das Zeichen eines allgemeinen Satzes, 72
+Allgemeine Begriffe. Wie sie erlanget werden, 36. & seqq. ihr Nutzen, 39
+Allgemeiner Satz. Was er sey, 72
+Allmacht. Was sie sey, 21
+Anmerckungen. Worinnen sie bestehen, und daß sie nützlich, 143
+Anfänger. Sollen nicht gleich Erfinder abgeben wollen, 141
+Aufgabe. Was sie sey, 78. Wie sie aufzulösen, 131. & seqq. Läßet sich in einen Lehr-Satz verwandeln, 134. Wer geschickt sie aufzulösen, 141. Wie sie beurtheilet wird, 169. & seqq.
+Aufrichtigkeit eines Zeugen. Wie sie zu untersuchen, 147. & seqq.
+Ausdehnende Kraft. Ihre Erklärung, 150
+Ausführlicher Begrif. Was er sey, 22
+Bauholtz Wie es zu fällen, 171
+Begriff. Was er ist, 12. Wo sie herkommen, 13. Wo wir sie erlangen, 13. 28. 30. 31. 35. 39. Wenn sie klar und dunckel sind, 18. 19. 20. Wenn sie deutlich und undeutlich, 20. Wie sie andern mitgetheilet werden, 22. Wie ihre Möglichkeit zu erfahren, 40. 41. Wenn sie ausführlich und unausführlich, 22. Vollständig und unvollständig, 24. Wie weit sie zu zergliedern, 27. Wie sie sich verschlimmern, 34. Mittel dawider, 31. 32. Wenn sie allgemein sind, 38. Was sie alsdenn vor Nutzen haben, 39. Wie davon zu urtheilen, 165
+Beschreibung. Was sie sey, 44. Ihre Beschaffenheit, 44 [p. 237] Besonderer Satz. Was er sey, 72
+Beweiß. Wenn er richtig ist, 94. Wie er einem andern vorzutragen, 198
+Brasilien-Holz. Wie an statt der rothen eine Violet-Farbe heraus zu ziehen, 118
+Brennen der Nesseln. Worinn es bestehet, 32
+Buch, wenn es wohl geschrieben, oder nicht tauget, 178 wie es mit Nutzen zu lesen, 188. & seqq. wie seine Absicht zu erfahren, 189. wenn es recht verstanden wird, 190
+
+Cartesius hat den Wörter-Kram abgeschafft, 165
+Circul, wie er beschrieben wird, 55
+Circulation des Geblütes, wie sie entdecket wird, 159
+Colic, was sie sey, 23
+Complimente im Disputiren, 217
+Consequentzien-Macherey, was davon zu halten, 209
+Cörper, was er sey, 7. 24. 151. 163
+Creatur, was sie sey, 6
+
+Danckbarkeit, wie sie entstehet, 40
+Demonstration, was dazu erfordert werde, 95 wie sie in der Geometrie beschaffen, 97. & seqq.
+Deutlich, was darzu erfordert werde, 185. 186
+Deutlicher Begriff, was er sey, 20. 21. wie er einem andern beyzubringen, 22. Unterscheid dieser Begriffe, 22. 23. wie er erlanget wird, 28
+Dieb, was er sey, 16
+Dinge, wenn sie von einer Art sind, 36. woher sie einzeln werden, 36. 37
+Disputiren, was es sey, 214. was jeder von den Disputanten in acht zu nehmen. 214. & seqq. wie durch Fragen zu disputiren, 217
+Dreyecke, was es sey, 14. was ein gleichseitiges sey, 39
+Dünste, wie man ihren Ursprung erkennet, 58
+Dunckeler Begriff, was er sey, 18. Grade der Dunckelheit, 19. Exempel, 19. Vorsicht, die dabey zu gebrauchen, 20. wie man ihn erlanget, 33
+Dunckelheit, woher sie entstehet, 33. worinnen sie bestehet, 185. 186. wie solche vermieden wird, 35 [p. 238] Ehre, was sie sey, 162. wie GOttes Ehre entstehet, 163
+Eigenschaften, was sie sind, 53. 113. wie sie zu entdecken, 113. 114
+Ehe-Stand, was er sey, 21
+Empfinden, was es bedeute, 11
+Erfahren, was es sey, 110. Regeln der Erfahrung, 110. & seqq. wie sie von Sätzen zu unterscheiden, 112. ihre Fälle, 113. Sorgfalt, so dabey zu gebrauchen, 122
+Erfahrung, ob sie in unserer Gewalt ist, 157. wie ein anderer davon zu überführen, 202
+Erfinden, wie man das Vermögen dazu erlanget, 59. 129. 141. wer am geschicktesten dazu, 141
+Erfindungen, in was vor Classen sie zu bringen, 162. wie davon zu urtheilen, 162. & seq.
+Erkäntniß, Unterscheid derselben, 2. 8. 9
+Erklärung, was sie sey, 44. ihre Beschaffenheit, 45. 47. wie sie unterschieden, 48. wie ein anderer davon zu überführen, 202. wer geschickt sie zu erfinden, 159
+Erklärungen der Sachen, was sie seyn, 48. können von allen Dingen gegeben werden, außer dem was selbstständig ist, 52. zeigen das Wesen einer Sache, 52. wie sie gefunden werden, 54. & seqq. wer geschickt sie zu erfinden, 159. wie sie beurtheilet werden, 165. 166
+Erklärung der Heil. Schrifft, wie sie anzustellen, 191. & seqq. Nutzen derselben, 195
+Erleuchtung, was sie sey, 21
+Ethick, was sie sey, 8
+Erwegungs-Sätze, was sie sind, 77
+Experimente, wie sie anzustellen, 122
+Fern-Gläser, ihr Nutzen, 42. wie sie erfunden worden, 56
+Feinde des Evangelii werden widerleget, 64. 65
+Figur, was eine geradelinichte sey, 37
+Forder Glied eines Satzes, 70
+Freude, ihre Erklärung, 35. wie sie entstehet, 125. kan in Traurigkeit verkehret werden, 127 [p. 239] Funcken aus dem Feuersteine, was sie sind, 32
+Gedancken, was sie seyn, 11. wenn sie übereinstimmen und wider einander streiten, 76
+Gedencken, was es andeute, 76. was nicht gedencken können sey, 76. wenn man nicht weiß, ob man etwas gedencken kan oder nicht, 76
+Seyn, was er sey, 23
+Geister-Lehre, was sie sey, 7
+Geist, was er sey, 7
+Geschwulst, was sie sey, 15. wer entdecken kan, wie sie entstehet, 159
+Glaube, was er sey, 145. & seqq. wie er mit Wissen vermenget wird, 195
+Glaubwürdigkeit der Geschichte, 146
+Glück, was es bey Erfindungen thut, 55
+GOTT, was er sey, 6. 13. 165. warum er allmächtig, 74
+Gottes-Gelahrheit, was die natürliche sey, 7
+Grund Satz, was er sey, 78. wie er gefunden wird, 126 erfordert keinen Beweiß, 127. werden mit Lehr-Sätzen vermenget, 169. auch mit Erfahrungen, 169. wer sie in seiner Gewalt hat, 157. 158
+Grund-Wissenschaft, was sie sey, 8
+Grund-Sprachen, was sie zu Erklärung der Schrift beytragen, 195. 196
+Gut, was es sey, 13
+Heische-Satz, was er sey, 78
+Hinter-Glied eines Satzes, 70
+Hinter-Satz im Schlusse, 83
+Historie, ihre Tugenden, 177. ihre Absichten, 177. seq. erfordert nicht viel Verstand, 188. & seq.
+Hochzeit, was sie sey, 13
+Holtz, warum es sich spalten lässet, 116. wie es wächset, 158. wie es zu erkennen, 158
+Irrthum, woher er entspringet, 149. 150. wie er zu vermeiden, 150
+
+Kauf- [p. 240] Knuffen, was es sey, 15
+Klarer Begrif, was er sey, 18
+Kräfte der Dinge, warum sie abzumessen, 119. wie Kräfte zu erfinden beurtheilet werden, 153. & seqq.
+Kunst, wie ihre Wercke erlernet werden, 60
+
+Lebendige Erkäntniß, was sie sey, 23. wie sie vollständig begriffen wird, 25
+Lehr-Satz, was er sey, 78. wie er gefunden wird, 127. seq.
+Leichtgläubigkeit, wie sie zu vermeiden, 146. & seqq.
+Licht, was es sey, 15
+Lieben, was es sey, 17
+Logick, was sie sey, 6. wie man zu ihrer Ausübung gelanget, 217. & seqq. Unterscheid der natürlichen und künstlichen, 218. der lehrenden und ausübenden, 227
+Luft, wie ihre Schwere erkandt wird, 111. dehnet sich über dem Feuer in der Blase aus, 103. hat eine ausdehnende Kraft, 105. & seqq. wie hoch sie das Wasser erhält, 139
+Luft, wie sie entstehet, 53. 167. wie ihr Begrif vollständig wird, 25
+
+Machine, ob man sie erfinden kan, 154. wie man sie erfindet, 54. und erkennet, 55. werden von Böcklern unvollständig beschrieben, 167
+Magnet, seine Eigenschaften, 136
+Marck, in Bäumen, was es sey, 32. wie es erkandt wird, 159
+Mathematick, ihr Nutzen, 194
+Meinung, woher sie entstehet, 150. giebt keine Beruhigung, 152
+Milch-Strasse, was sie sey, 33
+Misleiden, wie es entstehe, 3
+Möglich, was genennet wird, 1
+Mond-Finsterniß, woher sie entstehet, 44
+Moral, kan mathematisch demonstriret werden, 155. 156
+
+Nat.
+
+[p. 241] Natur und Gnade, wer ihren Unterscheid bestimmen kan, 155
+Natur-Wissenschaft oder Lehre, was sie sey, 7
+Nutzung, was sie sey, 23. wie sie vollständig begriffen wird, 25
+Nutzen, wie man von ihm zu urtheilen, 175
+
+Ober-Satz im Schlusse, 83
+Ontologie, was sie sey, 8
+Opponente, was seines Amtes ist, 215. 216
+Ordnung Schriften zu gebrauchen, 186. 187
+
+Pflantzen, wie man ihre Structur erkennet, 59
+Pneumatologie, was sie sey, 7
+Physick, was sie sey, 7
+Politick, was sie sey, 8
+*Præses*, was im Disputiren seines Amtes, 216
+Pulver, woraus es gemachet werde, 123. wie es erfunden worden, 56
+
+Regen, was er sey, 21
+Roßmarin, wenn seine Zweiglein Wurtzeln schlagen, 3
+Respondente, was im Disputiren seines Amts, 215. 216
+
+Sache, worinnen ihr Wesen bestehe, 52. wie ihre Erklärungen gefunden werden, 54. & seqq.
+Saltz, was es sey, 22
+Satz, was er sey, 70. wenn er bekräftiget und verneinet, 70. wenn man ihn verstehet, 71. wenn er allgemein oder ein besonderer Satz, 72. Theile desselben, 73. 74. innere Beschaffenheit, 75. Eintheilung, 77. 78. Nutzen dieser Eintheilung, 78. wie allgemeine Sätze aus der Erfahrung gezogen werden, 124. 125. wie von Sätzen zu urtheilen, 167
+
+(Wolffii Logick.) Q Selbst- [p. 242] Selbstständiges Wesen, was es sey, 65
+Scharffsinnig, was scharffsinnig urtheilen sey, 65. 66
+Schrifft, wenn man die Heilige Schrifft und andere verstehet, 191. wie sie erkläret wird, 190 wie ihre Wahrheiten zu beurtheilen, 192. wie von weltlichen Schrifften zu urtheilen, 176. & seqq. ihre Absichten, 177. & seqq.
+Schrifften des *Autoris*, wie sie zu Übungen der Logick anzuwenden, 223. & seqq. 227. & seqq.
+Schrifften, die nicht gründlich sind, wie sie zu Ausübung der Logick anzuwenden, 228. & seqq.
+Seele, was sie sey, 7. 163. wie man ihre Veränderung erkennen lernet, 60. ist in der Physick ein leeres Wort, 164
+Sinnen, wie sie zu Begriffen leiten, 13. was sie sind, 12. wie dieses geschiehet, gehöret nicht in die Logick, 14. wie ihr Betrug zu entdecken, 123. wie sie in Erkäntniß der Wahrheit zu gebrauchen, 225. 226
+Sitten-Lehre, was sie sey, 8
+Schluß, Ursprung der Schlüsse, 79. 81. Grund derselben, 80. 82. ihre Beschaffenheit, 83. ihre Figuren, 84. Arten der Figuren, 85. 87. ihre Regeln, 85. 87. erste Figur reichet zu allen zu, 88. Verstümmelung der Schlüsse, 90. 91. Nutzen derselben, sie werden von Unverständigen verworffen, 96. dienen zum Demonstriren, 97. & seqq. und zum Erfinden, 100. warum man durch förmliche Schlüsse disputiret, 216
+Sonne, was wir vor einen Begriff von ihr haben, 12. hat im Horizont eine Oval-Figur, 115
+Staats-Kunst, 8 [p. 243] Studirende, ihnen dienliche Regeln, 35
+Stunde, was sie sey, 27
+
+Tadeln, woher frühzeitiges kommet, 230. & seqq.
+Temperamente, werden in der Sitten-Lehre gemißbrauchet, 165
+Theologie, was die natürliche sey, 7
+Thau, was er sey, 23
+Thiere, wie ihre Structur erkandt wird, 59
+Tisch, seine Erklärung, 28
+Traurigkeit, wie sie entstehet, 128
+Tugend, viele haben davon einen dunckelen Begrif, 19 was sie sey, 21. wie ihre Möglichkeit erkandt wird, 43
+
+Übereilung, wie sie zu vermeiden, 204. & seqq.
+Überführen, was es sey, 197. wie es anzufangen, 197. & seqq. Hindernisse 203 wie sie aus dem Wege zu räumen, 205 was von Seiten dessen erfordert wird, der überführet werden soll, 203. wenn einer durch unsere Schuld nicht überführet wird, 203. 204. wenn man sich ohne Grund vor überführet hält, 204
+Übungs-Sätze, was sie sind, 77
+
+Veränderung, wie ihre Ursache erfahren wird, 117
+Verbindlichkeit, was sie sey, 47. 163
+Verdauung der Speise, ist von denen Alten nicht recht erkläret worden, 166
+Verfolger, wie ihnen in Schrifften zu begegnen, 213
+Vergrösserungs-Gläser, ihr Nutzen, 32. 155
+Vernunffts-Kunst oder Lehre, was sie sey, 6 [p. 244] Verstand, seine Erklärung, 5. 23. 44. wie er mit den Sinnen zu vereinbahren in Erkäntniß der Wahrheit, 225. & seqq.
+Verstecte Schlüsse, ihre Beschaffenheit, 107
+Verstehen, wenn zwey Personen einander verstehen, 60. 61. wie man erfähret, ob man sich selbst verstehet, 61. man kan einander verstehen, wenn man leere Worte redet, 64. was zu thun, daß der andere uns recht verstehet, 65
+Vertrauen auf GOtt, wie es zu erregen, 131
+*Vires centripetæ* und *centrifugæ* werden mit Unrecht verworffen, 20
+Vitriol-Oele, solviret den Feil-Staub, 118
+Uhr, was sie sey, 21. 24. 52
+Unausführlicher Begrif, was er sey, 23
+Undeutlicher Begrif, was er sey, 21. wie er erlanget wird, 30. 31
+Unter-Satz im Schlusse, 83
+Unendlich, wird insgemein übel erkläret, 50
+Unmittelbahre Folge, 109
+Unendlich kleines, wird mit Unrecht verspottet, 20
+Unmöglich, woraus unmögliche Dinge fliessen, das ist falsch, 43
+Ungewiß, wenn eine Sache ist, 175
+Unmündig, wer es sey, 13
+Vollblütig, was es sey, 15
+Vollständiger Begrif, was er sey, 24. Grade dieser Begriffe, 26. wie sie erlanget werden, 30
+Vorurtheile, Ursprung derselben, 204. Mittel dawider, 204. & seqq.
+Ursache, wie sie entdecket wird, 117. wie man blosse Wörter davor angiebet, 163. 164 [p. 245] Urtheilen, was es sey, 68. 69. was scharffsinnig urtheilen sey, 65. 66. Urtheile von Büchern, 177 & seqq.
+
+Wasser, wird nicht erkläret, 166
+Wärme, ihre Natur, 162. ob sie zureichet, die Speisen zu verdauen, 166
+Wein, stillet nicht den Kummer des Gemüthes, 172
+Welt-Weiser, Beschaffenheit seiner Erkäntniß, 2 Nutzen derselben, 2
+Welt-Weisheit, was sie sey, 1. Ihre Theile, 5. 6. 7 ihre Erklärung wird vertheidiget, 3. 4
+Wesen, worinnen es bestehe, 53
+Wiederlegen, was es sey, 206. wie man es anstellet, 208 daß man von Schelt- und Schmäh-Worten sich zu enthalten, 211. 212. wenn man einem hart begegnen kan, 212
+Wille, wie er erkandt wird, 29. 30
+Wissen, warum demselben nicht Schrancken zu setzen, 4
+Wissenschaft, was sie sey, 1. 144. wie sie zu erlangen, 144. 145
+Wörter, was sie sind, 60. ihre Bedeutung, 61. wie sie zu finden, 67. im Reden dencket man nicht stets an dieselbe, 61. wie sie von Sachen zu unterscheiden, 63. sie können etwas bedeuten, ob wir gleich keinen Begriff davon haben, 64. andere können einen Begriff haben, ob wir gleich keinen haben, 65. sie werden mit Sachen vermenget, 163. wie ihre Bedeutung in der Schrifft zu finden, 192 & seqq.
+Wort-Erklärungen, ihre Beschaffenheit, 48 wie sie gefunden werden, 48. Fehler derselben, [p. 246] 49. & seqq. ihr Nutzen, 51. werden mit Er-
+klärung der Sache vermenget, 163
+**Wort-Streite**, woher sie kommen, 66. 203. wie sie
+zu vermeiden, 207
+
+### Z
+
+Zahlen, wie die Aufgaben davon aufgelöset werden, 132
+Zergliederung der Begriffe, 27. der Sätze, 73. Nutzen derselben, 74
+Zeuge, wie zu untersuchen, ob er verdächtig, oder nicht, 147. & seqq.
+Zusätze, was sie sind, 142
+Zwey-Ecke, ein geradelinichtes ist unmöglich, 43 62
